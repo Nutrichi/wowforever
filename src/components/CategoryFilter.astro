@@ -1,0 +1,80 @@
+---
+/*
+ * De categoriefilters, onder de kop van de lijst op de homepage (handoff
+ * §7.1). Klein en rustig: ze mogen de lijst niet naar beneden duwen.
+ *
+ * Echte links naar `?cat=forever`, zodat de keuze deelbaar en
+ * terug-knop-vriendelijk is. PostList vangt de klik op en filtert meteen.
+ * Zonder JavaScript staat de volledige lijst er gewoon.
+ *
+ * Alleen categorieën met posts krijgen een chip, en onder twee valt de rij weg
+ * (PROJECT_SPEC.md §4.5).
+ */
+import { categories } from '../config/categories';
+import { getUsedCategories } from '../lib/posts';
+import type { Locale } from '../i18n/ui';
+import { localizePath, useTranslations } from '../i18n/utils';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+const home = localizePath('', locale);
+
+const used = await getUsedCategories(locale);
+const show = used.length > 1;
+---
+
+{show && (
+<div class="wf-filter" role="group" aria-label={t('filter.label')} data-wf-filter>
+  <a
+    class="wf-filter__chip"
+    href={home}
+    data-cat="all"
+    aria-current="true"
+  >{t('filter.all')}</a>
+
+  {used.map((key) => categories[key]).map((category) => (
+    <a
+      class="wf-filter__chip"
+      href={`${home}${home.endsWith('/') ? '' : '/'}?cat=${category.key}`}
+      data-cat={category.key}
+      style={`--wf-chip-hover: ${category.color};`}
+    >{category.label}</a>
+  ))}
+</div>
+)}
+
+<style>
+  .wf-filter {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    min-width: 0;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .wf-filter::-webkit-scrollbar { display: none; }
+
+  .wf-filter__chip {
+    flex: none;
+    font-size: 12px;
+    padding: 3px 11px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    color: var(--wf-muted);
+    white-space: nowrap;
+    transition: var(--wf-transition), color .16s ease, background-color .16s ease;
+  }
+
+  .wf-filter__chip:hover { border-color: var(--wf-chip-hover, var(--wf-arcane)); }
+
+  .wf-filter__chip[aria-current="true"] {
+    background: var(--wf-accent-wash);
+    border-color: var(--wf-accent-deep);
+    color: var(--wf-accent-bright);
+  }
+</style>

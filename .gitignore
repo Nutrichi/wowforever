@@ -1,0 +1,20 @@
+.DS_Store
+
+# Documentatie hoort in wowforever-private, nooit hier (PROJECT_SPEC.md §2.3).
+# Uitzondering: de content-collecties van Astro, dat is de site zelf en geen documentatie.
+*.md
+!src/content/**/*.md
+!src/content/**/*.mdx
+
+# Astro
+dist/
+.astro/
+node_modules/
+
+# Opgehaald vlak voor de build door scripts/fetch-feeds.mjs (fase 7, §10.1).
+# Nooit committen: dat zou een commit per kwartier zijn.
+src/data/generated/
+
+# Sleutels voor Twitch en YouTube (fase 7)
+.env
+.env.production

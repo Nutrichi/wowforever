@@ -1,0 +1,114 @@
+---
+/*
+ * Eén factie: /reputations/<factie>/ (PROJECT_SPEC.md §5). Alleen voor WoW
+ * Forever, met Classic Era als vertrekpunt (Nutri, 15 september 2026).
+ *
+ * Van boven naar onder: broodkruimel, titel met een gouden ruitje, een regel
+ * met WoW Forever, de zone, de standings en de datum, een zin dat de waarden
+ * uit Classic Era komen, de tekst uit de Markdown, en de bronregel, gedempt
+ * zoals bij een post.
+ */
+import { render } from 'astro:content';
+import { localeTags, type Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import { eras } from '../../config/eras';
+import { standingNames } from '../../config/reputations';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { reputationPath, type Reputation } from '../../lib/reputations';
+import { repT } from '../../i18n/reputations';
+import { guideT } from '../../i18n/guides';
+import { pageT } from '../../i18n/pages';
+import { breadcrumbJsonLd, publisherJsonLd } from '../../lib/structured-data';
+import { isoDate, longDate } from '../../lib/date';
+import '../../styles/guides.css';
+
+interface Props {
+  locale: Locale;
+  reputation: Reputation;
+}
+
+const { locale, reputation } = Astro.props;
+const { Content } = await render(reputation.entry);
+const t = repT(locale);
+const g = guideT(locale);
+const ui = useTranslations(locale);
+const data = reputation.data;
+const forever = eras.forever;
+
+const heading = t('guideTitle', { faction: data.faction });
+const metaTitle = t('metaTitle', { faction: data.faction });
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: ui('nav.reputations'), path: reputationPath(locale) },
+  { name: heading, path: reputation.href },
+];
+
+const canonical = new URL(reputation.href, Astro.site ?? 'https://wowforever.be').href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    breadcrumbJsonLd(crumbs, Astro.site),
+    {
+      '@type': 'Article',
+      headline: metaTitle,
+      description: data.description,
+      dateModified: isoDate(data.updated),
+      inLanguage: localeTags[reputation.lang],
+      mainEntityOfPage: canonical,
+      author: publisherJsonLd(Astro.site),
+      publisher: publisherJsonLd(Astro.site),
+    },
+  ],
+};
+---
+
+<BaseLayout locale={locale} title={metaTitle} description={data.description} ogType="article">
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <article class="wf-gdetail" data-pagefind-body data-pagefind-meta={`title:${metaTitle}`}>
+    <nav class="wf-gcrumb" aria-label={ui('crumb.label')} data-pagefind-ignore>
+      {crumbs.slice(0, -1).map((crumb) => (
+        <>
+          <a href={crumb.path}>{crumb.name}</a>
+          <span aria-hidden="true">/</span>
+        </>
+      ))}
+      <span>{data.faction}</span>
+    </nav>
+
+    <header class="wf-gdetail__head">
+      <span class="wf-gdetail__diamond" style={`--wf-diamond: ${forever.color};`} aria-hidden="true"></span>
+      <div>
+        <h1 class="wf-gdetail__title">{heading}</h1>
+        <p class="wf-gdetail__meta">
+          <span>{forever.name}</span>
+          <span aria-hidden="true"> · </span>
+          <span>{data.zone}</span>
+          <span aria-hidden="true"> · </span>
+          <span>{t('range', { start: standingNames[data.start], cap: standingNames[data.cap] })}</span>
+          <span aria-hidden="true"> · </span>
+          <time datetime={isoDate(data.updated)}>{g('updated', { date: longDate(data.updated, locale) })}</time>
+        </p>
+      </div>
+    </header>
+
+    <p class="wf-gnote">{t('note')}</p>
+
+    <div class="wf-gprose">
+      <Content />
+    </div>
+
+    {data.sources.length > 0 && (
+      <p class="wf-gsource" data-pagefind-ignore>
+        {pageT(locale)('sources')}{' '}
+        {data.sources.map((source, index) => (
+          <>
+            {index > 0 && ', '}
+            <a href={source.url} rel="noopener nofollow" target="_blank">{source.name}</a>
+          </>
+        ))}
+      </p>
+    )}
+  </article>
+</BaseLayout>

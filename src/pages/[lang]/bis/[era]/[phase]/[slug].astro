@@ -1,0 +1,23 @@
+---
+/*
+ * Eén BiS-lijst in de vijf niet-standaardtalen: /nl/bis/<era>/<fase>/<slug>/.
+ */
+import BisDetailPage from '../../../../../components/bis/BisDetailPage.astro';
+import { getBisLists, type BisList } from '../../../../../lib/bis';
+import { defaultLocale, locales, type Locale } from '../../../../../i18n/ui';
+
+export function getStaticPaths() {
+  const lists = getBisLists();
+  return locales
+    .filter((locale) => locale !== defaultLocale)
+    .flatMap((lang) => lists.map((list) => ({
+      params: { lang, era: list.era, phase: list.phase, slug: list.slug },
+      props: { list },
+    })));
+}
+
+const locale = Astro.params.lang as Locale;
+const { list } = Astro.props as { list: BisList };
+---
+
+<BisDetailPage locale={locale} list={list} />

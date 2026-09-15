@@ -1,0 +1,282 @@
+---
+/*
+ * Het mobiele menu (handoff §8): een overlay over de volle hoogte, een lijn
+ * van goud naar arcaanblauw onder de bovenbalk, het zoekveld, de menu-items,
+ * en onderaan de taalkiezer, de themarij en de RestedXP-link.
+ *
+ * Alleen items met inhoud staan erin (PROJECT_SPEC.md §4.2); geen
+ * "binnenkort" als tekst in een menu.
+ */
+import type { Locale } from '../i18n/ui';
+import type { NavItem } from '../config/nav';
+import { isCurrent } from '../config/nav';
+import { localizePath, useTranslations } from '../i18n/utils';
+import Logo from './Logo.astro';
+import SearchField from './SearchField.astro';
+import LangPicker from './LangPicker.astro';
+import ThemeToggle from './ThemeToggle.astro';
+import RestedXpPill from './RestedXpPill.astro';
+
+interface Props {
+  locale: Locale;
+  nav: NavItem[];
+  pathname: string;
+}
+
+const { locale, nav, pathname } = Astro.props;
+const t = useTranslations(locale);
+const home = localizePath('', locale);
+---
+
+<div
+  class="wf-menu"
+  id="wf-mobile-menu"
+  data-wf-menu
+  hidden
+  role="dialog"
+  aria-modal="true"
+  aria-label={t('nav.label')}
+>
+  <div class="wf-menu__top">
+    <a class="wf-menu__brand" href={home}>
+      <Logo size={24} />
+      <span class="wf-menu__word">{t('site.title')}</span>
+    </a>
+
+    <button
+      type="button"
+      class="wf-close"
+      data-wf-menu-close
+      aria-label={t('nav.close')}
+    >
+      <span class="wf-close__box">
+        <span class="wf-close__bar"></span>
+        <span class="wf-close__bar"></span>
+      </span>
+    </button>
+  </div>
+
+  <div class="wf-menu__rule" aria-hidden="true"></div>
+
+  <div class="wf-menu__body">
+    <SearchField locale={locale} variant="block" />
+
+    <ul class="wf-menu__list">
+      {nav.map((item) => {
+        const current = isCurrent(item.path, pathname);
+        return (
+          <li class="wf-menu__row">
+            <a
+              href={item.path}
+              data-wf-era-links={item.eraLinks}
+              class:list={['wf-menu__item', { 'is-current': current }]}
+              aria-current={current ? 'page' : undefined}
+            >
+              <span>{t(item.labelKey)}</span>
+              {current && <span class="wf-menu__diamond" aria-hidden="true"></span>}
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+
+    <div class="wf-menu__foot">
+      <LangPicker locale={locale} pathname={pathname} variant="grid" />
+      <ThemeToggle locale={locale} variant="row" />
+      <div class="wf-menu__rxp"><RestedXpPill locale={locale} wide /></div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .wf-menu {
+    position: fixed;
+    inset: 0;
+    z-index: 60;
+    display: flex;
+    flex-direction: column;
+    min-height: 620px;
+    /* Bovenaan geen padding: de bovenbalk neemt de maten van de koptekst over. */
+    padding: 0 16px 16px;
+    gap: 8px;
+    overflow-y: auto;
+    background: var(--wf-bg);
+    background-image: var(--wf-wash-menu);
+  }
+
+  /* Precies de maten van de koptekst op een telefoon, zodat niets verspringt. */
+  .wf-menu__top {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 0;
+  }
+
+  .wf-menu__brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .wf-menu__word {
+    font-family: var(--wf-serif);
+    font-weight: 600;
+    font-size: 19px;
+    letter-spacing: .04em;
+    line-height: 1;
+    color: var(--wf-ink);
+    text-shadow: var(--wf-glow-wordmark);
+  }
+
+  .wf-close {
+    margin-left: auto;
+    padding: 7px 10px; /* 34 px hoog en 40 px breed, net als de hamburger */
+  }
+
+  .wf-close__box {
+    position: relative;
+    display: block;
+    width: 20px;
+    height: 20px;
+  }
+
+  .wf-close__bar {
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 20px;
+    height: 2px;
+    border-radius: 2px;
+    background: var(--wf-accent);
+  }
+
+  .wf-close__bar:first-child { transform: rotate(45deg); }
+  .wf-close__bar:last-child { transform: rotate(-45deg); }
+
+  .wf-menu__rule {
+    height: 2px;
+    flex: none;
+    background: var(--wf-spine-h);
+  }
+
+  .wf-menu__body {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    flex: 1 1 auto;
+  }
+
+  .wf-menu__list {
+    margin: 8px 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .wf-menu__item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 22px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    padding: 12px 4px;
+    border-bottom: 1px solid var(--wf-border);
+    color: var(--wf-ink);
+  }
+
+  .wf-menu__item.is-current { color: var(--wf-accent-bright); }
+
+  .wf-menu__diamond {
+    margin-left: auto;
+    width: 8px;
+    height: 8px;
+    background: var(--wf-accent);
+    transform: rotate(45deg);
+  }
+
+  .wf-menu__foot {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding-top: 20px;
+  }
+
+  .wf-menu__rxp { display: flex; }
+
+  /* Boven de breakpoint bestaat dit menu niet, ook niet als het openstond. */
+  @media (min-width: 900px) {
+    .wf-menu { display: none; }
+  }
+</style>
+
+<script>
+  /*
+   * Openen en sluiten. Vergrendelt de achtergrondscroll, sluit op Escape, en
+   * houdt de focus binnen de overlay zolang hij open is.
+   */
+  const menu = document.querySelector<HTMLElement>('[data-wf-menu]');
+  const openBtn = document.querySelector<HTMLElement>('[data-wf-menu-open]');
+  const closeBtn = document.querySelector<HTMLElement>('[data-wf-menu-close]');
+
+  if (menu && openBtn && closeBtn) {
+    const focusables = () =>
+      Array.from(
+        menu.querySelectorAll<HTMLElement>(
+          'a[href], button:not([disabled]), input, summary, [tabindex]:not([tabindex="-1"])',
+        ),
+      ).filter((el) => el.offsetParent !== null);
+
+    const open = () => {
+      menu.hidden = false;
+      openBtn.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+      closeBtn.focus();
+    };
+
+    const close = () => {
+      menu.hidden = true;
+      openBtn.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+      openBtn.focus();
+    };
+
+    openBtn.addEventListener('click', open);
+    closeBtn.addEventListener('click', close);
+
+    document.addEventListener('keydown', (event) => {
+      if (menu.hidden) return;
+
+      if (event.key === 'Escape') {
+        event.preventDefault();
+        close();
+        return;
+      }
+
+      if (event.key !== 'Tab') return;
+
+      const items = focusables();
+      if (!items.length) return;
+
+      const first = items[0];
+      const last = items[items.length - 1];
+
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    });
+
+    // Wie het venster breed maakt terwijl het menu open staat, zou anders met
+    // een vergrendelde scroll achterblijven.
+    const wide = window.matchMedia('(min-width: 900px)');
+    wide.addEventListener('change', (event) => {
+      if (event.matches && !menu.hidden) close();
+    });
+  }
+</script>

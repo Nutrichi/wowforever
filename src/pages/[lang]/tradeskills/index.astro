@@ -1,0 +1,14 @@
+---
+/* TRADESKILLS in de vijf niet-standaardtalen: /nl/tradeskills/ enzovoort. */
+import GuideEraPage from '../../../components/guides/GuideEraPage.astro';
+import { otherLocales } from '../../../lib/posts';
+import type { Locale } from '../../../i18n/ui';
+
+export function getStaticPaths() {
+  return otherLocales.map((lang) => ({ params: { lang } }));
+}
+
+const locale = Astro.params.lang as Locale;
+---
+
+<GuideEraPage locale={locale} kind="tradeskills" era="forever" />

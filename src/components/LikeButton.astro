@@ -1,0 +1,276 @@
+---
+/*
+ * Het hartje. Staat in de pil, bij het uitgelichte artikel en op de
+ * postpagina.
+ *
+ * **Overal aantikbaar**, ook op de homepage. Beslist door Nutri op
+ * 11 september 2026, en dat trekt §8.1 in, waarin stond dat liken alleen op
+ * de postpagina kon. De reden achter die oude regel was verkeer naar de
+ * individuele URL's duwen; Nutri vindt de drempel belangrijker.
+ *
+ * Bewust een eigen knop en niet genest in de link van de pil (§5.1): een
+ * knop in een link is geen geldige HTML en een schermlezer maakt er niets
+ * van. De pil zet hem daarom naast de link, met een eigen label.
+ *
+ * **Een like is niet terug te nemen.** Eén keer geliked blijft geliked, en
+ * een tweede klik doet niets.
+ *
+ * Drie toestanden, in kleur:
+ *
+ *   nul likes          open hartje, gedempt grijs, cijfer gedempt
+ *   één of meer likes  gevuld hartje, nog steeds grijs, cijfer gedempt
+ *   door jou geliked   gevuld roze hartje én roze cijfer
+ *
+ * Roze is dus voorbehouden aan je eigen like. Het vullen zegt "hier heeft
+ * iemand op geklikt", de kleur zegt "en dat was jij".
+ *
+ * De kleuren staan hier en niet in het Icon-component. Dat is nodig: een
+ * kindcomponent krijgt het scope-attribuut van zijn ouder niet mee, dus een
+ * gewone regel op `.wf-like__icon` raakt de svg nooit en het `fill`-attribuut
+ * wint. Vandaar `:global`. Dat heeft het hartje op de postpagina wit gemaakt
+ * in plaats van roze.
+ */
+import type { Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+import Icon from './Icon.astro';
+
+interface Props {
+  /** Uniek per post: `news/trailer-two`. Ook de sleutel in localStorage. */
+  postId: string;
+  /** Wat de server telt. Het script haalt de echte telling na het laden op. */
+  count?: number;
+  variant?: 'pill' | 'post';
+  locale: Locale;
+}
+
+const { postId, count = 0, variant = 'pill', locale } = Astro.props;
+const t = useTranslations(locale);
+const isPost = variant === 'post';
+---
+
+<div class:list={['wf-like', isPost && 'is-post']}>
+  <button
+    type="button"
+    class="wf-like__button"
+    data-wf-like
+    data-post-id={postId}
+    data-base={count}
+    aria-pressed="false"
+  >
+    <Icon name="heart" size={isPost ? 17 : 14} class="wf-like__icon" />
+    <!--
+      De naam voor een schermlezer staat als verborgen tekst in de knop en niet
+      als aria-label. Zo bevat de toegankelijke naam ook het zichtbare getal
+      ("Like this post, 12"), zoals WCAG 2.5.3 vraagt. Gevonden door
+      Lighthouse op 11 september 2026.
+    -->
+    <span class="wf-sr">{t('post.like')}, </span>
+    <span class="wf-like__count wf-nums" data-wf-like-count>{count}</span>
+  </button>
+
+  {isPost && (
+    <span class="wf-like__note" data-wf-like-note hidden>{t('post.liked')}</span>
+  )}
+</div>
+
+<style>
+  .wf-like {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    min-width: 0;
+  }
+
+  .wf-like__button {
+    /* De kleur van het hartje hangt aan de toestand. */
+    --wf-heart: var(--wf-muted);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 13px;
+    color: var(--wf-muted);
+    transition: var(--wf-transition), color .16s ease;
+  }
+
+  /* Zodra iemand geliket heeft, vult het hartje zich. Kleur blijft gedempt. */
+  .wf-like__button.has-likes :global(.wf-like__icon) { fill: var(--wf-heart); }
+
+  /* Heb jij zelf geliket, dan wordt alles roze. */
+  .wf-like__button.is-mine { --wf-heart: var(--wf-accent); }
+  .wf-like__button.is-mine .wf-like__count { color: var(--wf-accent); }
+
+  /*
+   * `:global`, want de svg komt uit een ander component en draagt het
+   * scope-attribuut van dit bestand niet.
+   */
+  .wf-like__button :global(.wf-like__icon) {
+    stroke: var(--wf-heart);
+    fill: none;
+    transition: fill .16s ease, stroke .16s ease;
+  }
+
+  /*
+   * Het getal krijgt een vaste breedte, zodat het hartje niet opschuift
+   * wanneer de telling van 1 naar 10 naar 100 gaat. Zonder dit wandelt het
+   * hartje per pil een paar pixels naar links, en in een lijst van twintig
+   * pillen valt dat meteen op.
+   */
+  .wf-like__count {
+    min-width: 3ch;
+    text-align: left;
+  }
+
+  /* --- De variant op de postpagina --- */
+  .is-post .wf-like__button {
+    border: 1px solid var(--wf-accent);
+    border-radius: var(--wf-r-pill);
+    padding: 10px 22px;
+    gap: 10px;
+    font-size: 14.5px;
+    color: var(--wf-ink);
+    box-shadow: var(--wf-glow-like);
+  }
+
+  /* Op de postpagina staat er één knop, dus daar mag het getal meeademen. */
+  .is-post .wf-like__count { min-width: 0; }
+
+  .wf-like__note {
+    font-size: 13.5px;
+    color: var(--wf-muted);
+  }
+
+  @media (max-width: 899px) {
+    .wf-like__button { font-size: 12.5px; }
+  }
+</style>
+
+<script>
+  /*
+   * De likes. Twee dingen tegelijk:
+   *
+   *   1. de tellingen uit Supabase halen, voor alles wat op de pagina staat;
+   *   2. de eigen likes onthouden, want zonder account is er niets anders om
+   *      een gevuld hartje aan op te hangen.
+   *
+   * Alles faalt zacht. Ligt Supabase eruit, dan blijven de tellingen op nul
+   * staan en gebeurt er verder niets (§8.2).
+   */
+  import { addLike, likeCounts } from '../lib/supabase';
+
+  const KEY = 'wf-likes';
+
+  type Liked = Record<string, true>;
+
+  const read = (): Liked => {
+    try {
+      const raw = localStorage.getItem(KEY);
+      return raw ? (JSON.parse(raw) as Liked) : {};
+    } catch (error) {
+      // Privémodus of stukke JSON: dan begint deze bezoeker gewoon opnieuw.
+      return {};
+    }
+  };
+
+  const write = (liked: Liked) => {
+    try {
+      localStorage.setItem(KEY, JSON.stringify(liked));
+    } catch (error) {
+      // Niets bewaren kan; de like staat dan wel in de database, maar het
+      // hartje is na het herladen weer leeg.
+    }
+  };
+
+  let liked = read();
+
+  const paint = (el: HTMLElement) => {
+    const id = el.dataset.postId ?? '';
+    const base = Number(el.dataset.base ?? '0');
+    const mine = liked[id] === true;
+
+    el.setAttribute('aria-pressed', String(mine));
+    el.classList.toggle('has-likes', base > 0);
+    el.classList.toggle('is-mine', mine);
+
+    const count = el.querySelector<HTMLElement>('[data-wf-like-count]');
+    if (count) count.textContent = String(base);
+
+    // De regel "je vindt deze post leuk" hoort alleen op de postpagina.
+    const note = el.parentElement?.querySelector<HTMLElement>('[data-wf-like-note]');
+    if (note) note.hidden = !mine;
+  };
+
+  const all = () => Array.from(document.querySelectorAll<HTMLElement>('[data-wf-like]'));
+
+  const paintAll = () => {
+    liked = read();
+    all().forEach(paint);
+  };
+
+  /**
+   * De echte tellingen ophalen. Eén verzoek voor alles wat op de pagina
+   * staat, ook voor de pillen die LOAD MORE nog verborgen houdt: die staan
+   * al in de HTML en hebben straks hetzelfde getal nodig.
+   */
+  const refresh = async () => {
+    const els = all();
+    const ids = Array.from(new Set(els.map((el) => el.dataset.postId ?? '').filter(Boolean)));
+    if (ids.length === 0) return;
+
+    const counts = await likeCounts(ids);
+
+    els.forEach((el) => {
+      const id = el.dataset.postId ?? '';
+      if (id in counts) el.dataset.base = String(counts[id]);
+    });
+
+    paintAll();
+  };
+
+  document.addEventListener('click', (event) => {
+    const target = event.target as HTMLElement | null;
+    const button = target?.closest<HTMLElement>('[data-wf-like]');
+    if (!button) return;
+
+    // In de pil ligt de knop boven de link die de hele pil bedekt.
+    event.preventDefault();
+    event.stopPropagation();
+
+    const id = button.dataset.postId ?? '';
+    if (!id) return;
+
+    // Een like is niet terug te nemen.
+    if (liked[id]) return;
+
+    /*
+     * Meteen bijwerken en pas daarna versturen. De bezoeker ziet zijn like
+     * onmiddellijk; komt er een echt getal terug, dan wint dat.
+     */
+    liked[id] = true;
+    write(liked);
+    // Elk hartje van deze post telt mee: het uitgelichte artikel staat ook
+    // als pil in de lijst, en die twee horen hetzelfde getal te tonen.
+    all()
+      .filter((el) => el.dataset.postId === id)
+      .forEach((el) => { el.dataset.base = String(Number(el.dataset.base ?? '0') + 1); });
+    paintAll();
+
+    void addLike(id).then((count) => {
+      if (count === null) return;
+      all()
+        .filter((el) => el.dataset.postId === id)
+        .forEach((el) => { el.dataset.base = String(count); });
+      paintAll();
+    });
+  });
+
+  paintAll();
+  void refresh();
+
+  // Terug uit de bfcache: de opslag en de tellingen kunnen intussen
+  // veranderd zijn.
+  window.addEventListener('pageshow', () => {
+    paintAll();
+    void refresh();
+  });
+</script>

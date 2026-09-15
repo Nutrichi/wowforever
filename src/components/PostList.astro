@@ -1,0 +1,140 @@
+---
+/*
+ * De rechterkolom van de homepage: het volledige archief als pillijst, met
+ * LOAD MORE eronder (§5).
+ *
+ * Er is geen tweede pagina waar de rest staat. Elke post staat in de HTML,
+ * dat is wat een crawler ziet en straks ook wat Pagefind indexeert (§15),
+ * en wat nog niet aan de beurt is staat er verborgen bij.
+ *
+ * **Bijladen gebeurt vanzelf** (11 september 2026). Kom je onderaan de
+ * lijst, dan verschijnt de volgende reeks. De knop blijft bestaan voor wie
+ * geen JavaScript heeft of met het toetsenbord werkt, en als vangnet: valt
+ * de waarnemer weg, dan is er nog altijd iets om op te duwen.
+ *
+ * Filteren en zoeken gebeuren in dezelfde lijst en op dezelfde manier: niets
+ * wordt opnieuw opgehaald, er verandert alleen wat zichtbaar is.
+ */
+import type { Post } from '../lib/posts';
+import type { Locale } from '../i18n/ui';
+import { localizePath, useTranslations } from '../i18n/utils';
+import { submitPath } from '../config/site';
+import Pill from './Pill.astro';
+import NewsletterForm from './NewsletterForm.astro';
+
+interface Props {
+  posts: Post[];
+  locale: Locale;
+}
+
+const { posts, locale } = Astro.props;
+const t = useTranslations(locale);
+
+/**
+ * Hoeveel pillen er meteen staan, en hoeveel LOAD MORE erbij zet. Eén getal
+ * voor allebei: dan is de knop voorspelbaar.
+ */
+const STEP = 15;
+
+/*
+ * De knop naar het insturformulier verschijnt pas als die pagina bestaat
+ * (fase 4, §5.3). Dezelfde regel als bij de sociale links in de voettekst:
+ * een lege waarde betekent geen knop, dus nooit een link naar het niets.
+ */
+const submitHref = submitPath ? `${localizePath(submitPath, locale)}/` : '';
+---
+
+<div class="wf-list" data-wf-list data-step={STEP}>
+  {posts.length === 0 ? (
+    <p class="wf-list__empty">{t('list.empty')}</p>
+  ) : (
+    <>
+      <ul class="wf-list__items" data-wf-items>
+        {posts.map((post) => <Pill post={post} locale={locale} />)}
+      </ul>
+
+      <p class="wf-list__empty" data-wf-noresults hidden>{t('list.noResults')}</p>
+
+      <!-- Het baken dat het bijladen op gang brengt zodra het in beeld komt. -->
+      <div data-wf-sentinel aria-hidden="true"></div>
+
+      <div class="wf-list__actions">
+        <button type="button" class="wf-btn is-secondary" data-wf-more hidden>
+          {t('list.loadMore')}
+        </button>
+
+        {submitHref && (
+          <a class="wf-btn is-primary" href={submitHref}>{t('list.submit')}</a>
+        )}
+
+        <NewsletterForm locale={locale} />
+      </div>
+    </>
+  )}
+</div>
+
+<style>
+  .wf-list {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+
+  .wf-list__items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    min-width: 0;
+  }
+
+  .wf-list__empty {
+    font-size: 13.5px;
+    color: var(--wf-muted);
+    padding: 12px 0;
+  }
+
+  /* Eén pixel hoog: genoeg om een plek in de opmaak te hebben. */
+  .wf-list [data-wf-sentinel] { height: 1px; }
+
+  .wf-list__actions {
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    margin-top: 14px;
+  }
+
+  .wf-btn {
+    border-radius: var(--wf-r-pill);
+    padding: 9px 0;
+    text-align: center;
+    font-family: var(--wf-display);
+    font-size: 16px;
+    letter-spacing: .12em;
+    transition: var(--wf-transition);
+  }
+
+  .is-secondary {
+    border: 1px solid var(--wf-border);
+    color: var(--wf-ink);
+  }
+
+  .is-secondary:hover { border-color: var(--wf-arcane); }
+
+  .is-primary {
+    background: var(--wf-accent);
+    color: var(--wf-bg);
+    box-shadow: var(--wf-glow-primary);
+    border: 1px solid var(--wf-accent);
+  }
+
+  @media (max-width: 899px) {
+    .wf-btn { padding: 11px 0; }
+  }
+</style>
+
+<script>
+  import '../scripts/pill-list';
+</script>

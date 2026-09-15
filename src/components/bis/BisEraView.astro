@@ -1,0 +1,287 @@
+---
+/*
+ * De pagina van één era onder BIS (handoff §7.2), gedeeld door de Engelse
+ * route en de vijf andere talen.
+ *
+ * Bovenaan de titel, de uitleg, de chip van de fase die live is en de
+ * telling. Dan twee rijen chips: fasen en rollen. Daaronder de lijsten van
+ * elke fase als pillen; alleen de gekozen fase staat zichtbaar. Alles staat
+ * in de HTML, zodat elke lijst een gewone link heeft die een zoekmachine
+ * vindt. Het script kiest de fase en de rol uit de URL (`?phase=`, `?role=`).
+ *
+ * Forever heeft nog geen lijsten en toont de lege staat.
+ */
+import type { Locale } from '../../i18n/ui';
+import { eras, type EraKey } from '../../config/eras';
+import { isBisEra, livePhase, phaseRaids } from '../../config/bis';
+import { bisPath, lastUpdated, listsForEra, phasesWithLists } from '../../lib/bis';
+import { bisT, phaseLabel, roleLabel } from '../../i18n/bis';
+import { longDate } from '../../lib/date';
+import BisSpecPill from './BisSpecPill.astro';
+import BisPending from './BisPending.astro';
+
+interface Props {
+  locale: Locale;
+  era: EraKey;
+}
+
+const { locale, era } = Astro.props;
+const t = bisT(locale);
+const info = eras[era];
+const ready = isBisEra(era) && listsForEra(era).length > 0;
+const phases = ready && isBisEra(era) ? phasesWithLists(era) : [];
+const live = isBisEra(era) ? livePhase[era] : undefined;
+const defaultPhase = live && phases.includes(live) ? live : phases[phases.length - 1];
+const lists = ready ? listsForEra(era) : [];
+const updated = lastUpdated(era);
+const here = bisPath(locale, era);
+const roles = ['all', 'tank', 'healer', 'dps'] as const;
+---
+
+<header class="wf-bishead">
+  <div class="wf-bishead__main">
+    <h1 class="wf-bishead__title">{t('hubTitle', { era: info.name })}</h1>
+    <p class="wf-bishead__viewing">{t('viewing', { era: info.name })}</p>
+  </div>
+  {live && (
+    <span class="wf-bishead__live"><span class="wf-bishead__dot" aria-hidden="true"></span>{t('live', { phase: phaseLabel(live, locale) })}</span>
+  )}
+  {ready && updated && (
+    <p class="wf-bishead__count">{t('count', { n: lists.length, date: longDate(updated, locale) })}</p>
+  )}
+</header>
+
+{!ready && era === 'forever' && <BisPending locale={locale} />}
+
+{ready && isBisEra(era) && (
+  <div class="wf-bis" data-wf-bis data-era={era} data-default-phase={defaultPhase}>
+    <div class="wf-bis__chips" role="group" aria-label={t('phases')}>
+      {phases.map((phase) => (
+        <a
+          class="wf-chip"
+          href={`${here}?phase=${phase}`}
+          data-phase-chip={phase}
+          aria-current={phase === defaultPhase ? 'true' : undefined}
+        >{phaseLabel(phase, locale)}</a>
+      ))}
+    </div>
+    <div class="wf-bis__chips" role="group" aria-label={t('roles')}>
+      {roles.map((role) => (
+        <a
+          class="wf-chip"
+          href={`${here}?role=${role}`}
+          data-role-chip={role}
+          aria-current={role === 'all' ? 'true' : undefined}
+        >{role === 'all' ? t('allRoles') : roleLabel(role, locale)}</a>
+      ))}
+    </div>
+
+    {phases.map((phase) => (
+      <section class="wf-bis__phase" data-phase={phase} hidden={phase !== defaultPhase}>
+        <h2 class="wf-bis__phasetitle">
+          {phaseLabel(phase, locale)}{phaseRaids[era][phase] && <span class="wf-bis__raids">{phaseRaids[era][phase]}</span>}
+        </h2>
+        <ul class="wf-bis__list">
+          {lists.filter((list) => list.phase === phase).map((list) => (
+            <BisSpecPill locale={locale} list={list} />
+          ))}
+        </ul>
+        <p class="wf-bis__empty" data-empty hidden>{t('noMatch')}</p>
+      </section>
+    ))}
+  </div>
+)}
+
+<style>
+  .wf-bishead {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px 18px;
+    margin-bottom: 18px;
+  }
+
+  .wf-bishead__main { flex: 1 1 auto; min-width: 0; }
+
+  .wf-bishead__title {
+    font-size: 32px;
+    line-height: 1.15;
+    text-shadow: var(--wf-glow-h1);
+  }
+
+  .wf-bishead__viewing {
+    margin-top: 4px;
+    font-size: 13.5px;
+    color: var(--wf-muted);
+  }
+
+  .wf-bishead__live {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 4px 11px;
+    border: 1px solid var(--wf-live);
+    border-radius: var(--wf-r-pill);
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 11.5px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--wf-live-ink);
+  }
+
+  .wf-bishead__dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 999px;
+    background: var(--wf-live);
+  }
+
+  .wf-bishead__count {
+    font-size: 12.5px;
+    color: var(--wf-label);
+  }
+
+  .wf-bis__chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    margin-bottom: 10px;
+  }
+
+  .wf-bis__chips + .wf-bis__chips { margin-bottom: 20px; }
+
+  .wf-chip {
+    font-size: 12px;
+    padding: 3px 11px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    color: var(--wf-muted);
+    white-space: nowrap;
+    transition: var(--wf-transition), color .16s ease, background-color .16s ease;
+  }
+
+  .wf-chip:hover { border-color: var(--wf-accent-deep); }
+
+  .wf-chip[aria-current="true"] {
+    background: var(--wf-accent-wash);
+    border-color: var(--wf-accent-deep);
+    color: var(--wf-accent-bright);
+  }
+
+  .wf-bis__phasetitle {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 12px;
+    margin-bottom: 12px;
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+  }
+
+  .wf-bis__raids {
+    font-family: var(--wf-text);
+    font-size: 13px;
+    letter-spacing: 0;
+    text-transform: none;
+    color: var(--wf-label);
+  }
+
+  .wf-bis__list {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .wf-bis__empty {
+    font-size: 13.5px;
+    color: var(--wf-label);
+  }
+
+  @media (max-width: 899px) {
+    .wf-bishead__title { font-size: 26px; }
+    .wf-bis__chips { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+    .wf-bis__chips::-webkit-scrollbar { display: none; }
+    .wf-chip { flex: none; }
+  }
+</style>
+
+<script>
+  const root = document.querySelector<HTMLElement>('[data-wf-bis]');
+
+  if (root) {
+    try {
+      localStorage.setItem('wf-era', root.dataset.era ?? 'forever');
+    } catch (error) {
+      // Niets bewaren kan; de pagina werkt gewoon.
+    }
+
+    const sections = Array.from(root.querySelectorAll<HTMLElement>('[data-phase]'));
+    const phaseChips = Array.from(root.querySelectorAll<HTMLAnchorElement>('[data-phase-chip]'));
+    const roleChips = Array.from(root.querySelectorAll<HTMLAnchorElement>('[data-role-chip]'));
+    const known = new Set(sections.map((section) => section.dataset.phase));
+    const params = new URLSearchParams(window.location.search);
+
+    let phase = params.get('phase') ?? root.dataset.defaultPhase ?? '';
+    if (!known.has(phase)) phase = root.dataset.defaultPhase ?? '';
+    let role = params.get('role') ?? 'all';
+    if (!['all', 'tank', 'healer', 'dps'].includes(role)) role = 'all';
+
+    const render = () => {
+      sections.forEach((section) => {
+        const active = section.dataset.phase === phase;
+        section.hidden = !active;
+        if (!active) return;
+        let shown = 0;
+        section.querySelectorAll<HTMLElement>('[data-role]').forEach((pill) => {
+          const show = role === 'all' || pill.dataset.role === role;
+          pill.hidden = !show;
+          if (show) shown += 1;
+        });
+        const empty = section.querySelector<HTMLElement>('[data-empty]');
+        if (empty) empty.hidden = shown > 0;
+      });
+      phaseChips.forEach((chip) => {
+        if (chip.dataset.phaseChip === phase) chip.setAttribute('aria-current', 'true');
+        else chip.removeAttribute('aria-current');
+      });
+      roleChips.forEach((chip) => {
+        if (chip.dataset.roleChip === role) chip.setAttribute('aria-current', 'true');
+        else chip.removeAttribute('aria-current');
+      });
+    };
+
+    const syncUrl = () => {
+      const next = new URLSearchParams(window.location.search);
+      if (phase === root.dataset.defaultPhase) next.delete('phase');
+      else next.set('phase', phase);
+      if (role === 'all') next.delete('role');
+      else next.set('role', role);
+      const query = next.toString();
+      history.replaceState(null, '', `${window.location.pathname}${query ? `?${query}` : ''}${window.location.hash}`);
+    };
+
+    phaseChips.forEach((chip) => chip.addEventListener('click', (event) => {
+      event.preventDefault();
+      phase = chip.dataset.phaseChip ?? phase;
+      render();
+      syncUrl();
+    }));
+
+    roleChips.forEach((chip) => chip.addEventListener('click', (event) => {
+      event.preventDefault();
+      role = chip.dataset.roleChip ?? 'all';
+      render();
+      syncUrl();
+    }));
+
+    render();
+  }
+</script>

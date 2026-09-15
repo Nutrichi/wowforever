@@ -1,0 +1,72 @@
+---
+/*
+ * CLASSES voor één era (handoff §7.3): een kaart per class met een rand in de
+ * classkleur en de specs eronder. Een spec met een gids is een link; een spec
+ * zonder gids staat gedempt, zonder link (PROJECT_SPEC.md §4.2). Een era
+ * zonder enkele gids toont de lege staat.
+ */
+import type { Locale } from '../../i18n/ui';
+import { eras } from '../../config/eras';
+import { classes, classLabel, specLabel } from '../../config/bis';
+import { classSpecs, levelRange, type GuideEra } from '../../config/guides';
+import { restedxpUrl } from '../../config/site';
+import { guidesForEra, guidesUpdated } from '../../lib/guides';
+import { guideT } from '../../i18n/guides';
+import { longDate } from '../../lib/date';
+import GuidePending from './GuidePending.astro';
+import { getPage, routeKeyForEra } from '../../lib/pages';
+import { pageT } from '../../i18n/pages';
+import '../../styles/guides.css';
+
+interface Props {
+  locale: Locale;
+  era: GuideEra;
+  title: string;
+}
+
+const { locale, era, title } = Astro.props;
+const t = guideT(locale);
+const guides = await guidesForEra('classes', era, locale);
+const updated = await guidesUpdated('classes', era);
+const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
+const classKeys = Object.keys(classSpecs[era]).sort((a, b) => classLabel(a).localeCompare(classLabel(b)));
+/* De levelroute van deze era (fase 5), als die pagina bestaat. */
+const routeKey = routeKeyForEra[era];
+const route = routeKey ? await getPage(routeKey, locale) : undefined;
+---
+
+<header class="wf-ghead">
+  <div class="wf-ghead__main">
+    <h1 class="wf-ghead__title">{title}</h1>
+    {guides.length > 0 && <p class="wf-ghead__intro">{t('classesIntro', { era: eras[era].name, range: levelRange[era] })}</p>}
+    {guides.length > 0 && route && (
+      <p class="wf-gchips"><a class="wf-gchip" href={route.href}>{pageT(locale)('routeLink', { range: routeKey!.split('/')[1] })}</a></p>
+    )}
+  </div>
+  {guides.length > 0 && updated && <p class="wf-ghead__count">{t('count', { n: guides.length, date: longDate(updated, locale) })}</p>}
+</header>
+
+{guides.length === 0 && <GuidePending locale={locale} kind="classes" era={era} />}
+
+{guides.length > 0 && (
+  <ul class="wf-cards">
+    {classKeys.map((key) => (
+      <li class="wf-card" style={`--wf-class: ${classes[key].color};`}>
+        <h2 class="wf-card__name">{classLabel(key)}</h2>
+        <ul class="wf-card__specs">
+          {classSpecs[era][key].map((spec) => {
+            const guide = bySlug.get(`${key}-${spec}`);
+            return <li>{guide ? <a href={guide.href}>{specLabel(spec)}</a> : <span class="is-pending">{specLabel(spec)}</span>}</li>;
+          })}
+        </ul>
+      </li>
+    ))}
+  </ul>
+)}
+
+{guides.length > 0 && (
+  <aside class="wf-rxpblock">
+    <p>{t('restedxpText')}</p>
+    <a href={restedxpUrl} rel="noopener sponsored">{t('restedxpButton')}</a>
+  </aside>
+)}

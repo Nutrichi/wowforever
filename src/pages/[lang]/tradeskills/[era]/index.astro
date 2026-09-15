@@ -1,0 +1,16 @@
+---
+/* De pagina van één era onder TRADESKILLS in de vijf niet-standaardtalen. */
+import GuideEraPage from '../../../../components/guides/GuideEraPage.astro';
+import { guideEras, type GuideEra } from '../../../../config/guides';
+import { otherLocales } from '../../../../lib/posts';
+import type { Locale } from '../../../../i18n/ui';
+
+export function getStaticPaths() {
+  return otherLocales.flatMap((lang) => guideEras.map((era) => ({ params: { lang, era } })));
+}
+
+const locale = Astro.params.lang as Locale;
+const era = Astro.params.era as GuideEra;
+---
+
+<GuideEraPage locale={locale} kind="tradeskills" era={era} />

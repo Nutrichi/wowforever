@@ -1,0 +1,137 @@
+---
+/*
+ * Eén gids: /classes/<era>/<class>-<spec>/ of /tradeskills/<era>/<skill>/
+ * (PROJECT_SPEC.md §5). Hier landt het zoekverkeer op "arms warrior leveling
+ * guide tbc", dus alles staat in de HTML.
+ *
+ * Van boven naar onder: broodkruimel, titel met een ruitje (classkleur of de
+ * kleur van de soort tradeskill), een regel met era, levels of skill, rol of
+ * soort en datum, de chips van dezelfde gids in andere era's, de tekst uit de
+ * Markdown, en bij een classgids de andere specs van de class.
+ */
+import { render } from 'astro:content';
+import type { Locale } from '../../i18n/ui';
+import { localeTags } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import { eras } from '../../config/eras';
+import { classes, classLabel, specLabel } from '../../config/bis';
+import { guideTabEras, levelRange, skillRange, tradeskillByKey, tradeskillColors } from '../../config/guides';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EraTabs from '../EraTabs.astro';
+import { getGuides, guideCounts, guideHrefs, guidePath, type Guide } from '../../lib/guides';
+import { guideT } from '../../i18n/guides';
+import { roleLabel } from '../../i18n/bis';
+import { breadcrumbJsonLd, publisherJsonLd } from '../../lib/structured-data';
+import { isoDate, longDate } from '../../lib/date';
+import '../../styles/guides.css';
+
+interface Props {
+  locale: Locale;
+  guide: Guide;
+}
+
+const { locale, guide } = Astro.props;
+const { Content } = await render(guide.entry);
+const t = guideT(locale);
+const ui = useTranslations(locale);
+const era = eras[guide.era];
+const isClass = guide.kind === 'classes';
+const skill = isClass ? undefined : tradeskillByKey(guide.skill!);
+
+const heading = isClass
+  ? t('classGuideTitle', { spec: specLabel(guide.spec!), class: classLabel(guide.class!) })
+  : t('tradeskillGuideTitle', { skill: skill!.name });
+const metaTitle = isClass
+  ? t('classMetaTitle', { spec: specLabel(guide.spec!), class: classLabel(guide.class!), era: era.name })
+  : t('tradeskillMetaTitle', { skill: skill!.name, era: era.name });
+const color = isClass ? classes[guide.class!]?.color ?? '#e0b77a' : tradeskillColors[skill!.type];
+const range = isClass ? t('levels', { range: levelRange[guide.era] }) : t('skill', { range: skillRange[guide.era] });
+const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), secondary: t('typeSecondary') };
+const tag = isClass ? roleLabel(guide.role!, locale) : typeLabel[skill!.type];
+
+const all = await getGuides(guide.kind, locale);
+const sameGuide = all.filter((other) => other.slug === guide.slug);
+const siblings = isClass
+  ? all.filter((other) => other.era === guide.era && other.class === guide.class && other.slug !== guide.slug)
+  : [];
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: ui(isClass ? 'nav.classes' : 'nav.tradeskills'), path: guidePath(guide.kind, locale) },
+  { name: era.name, path: guidePath(guide.kind, locale, guide.era) },
+  { name: heading, path: guide.href },
+];
+
+const canonical = new URL(guide.href, Astro.site ?? 'https://wowforever.be').href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    breadcrumbJsonLd(crumbs, Astro.site),
+    {
+      '@type': 'Article',
+      headline: metaTitle,
+      description: guide.description,
+      dateModified: isoDate(guide.updated),
+      inLanguage: localeTags[guide.lang],
+      mainEntityOfPage: canonical,
+      author: publisherJsonLd(Astro.site),
+      publisher: publisherJsonLd(Astro.site),
+    },
+  ],
+};
+---
+
+<BaseLayout locale={locale} title={metaTitle} description={guide.description} ogType="article">
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <EraTabs slot="bar" locale={locale} current={guide.era} hrefs={guideHrefs(guide.kind, locale)} counts={{ ...(await guideCounts(guide.kind)), forever: 1 }} keys={guideTabEras} />
+
+  <article class="wf-gdetail" data-pagefind-body data-pagefind-meta={`title:${metaTitle}`}>
+    <nav class="wf-gcrumb" aria-label={ui('crumb.label')} data-pagefind-ignore>
+      {crumbs.slice(0, -1).map((crumb) => (
+        <>
+          <a href={crumb.path}>{crumb.name}</a>
+          <span aria-hidden="true">/</span>
+        </>
+      ))}
+      <span>{isClass ? `${specLabel(guide.spec!)} ${classLabel(guide.class!)}` : skill!.name}</span>
+    </nav>
+
+    <header class="wf-gdetail__head">
+      <span class="wf-gdetail__diamond" style={`--wf-diamond: ${color};`} aria-hidden="true"></span>
+      <div>
+        <h1 class="wf-gdetail__title">{heading}</h1>
+        <p class="wf-gdetail__meta">
+          <span>{era.name}</span>
+          <span aria-hidden="true"> · </span>
+          <span>{range}</span>
+          <span aria-hidden="true"> · </span>
+          <span>{tag}</span>
+          <span aria-hidden="true"> · </span>
+          <time datetime={isoDate(guide.updated)}>{t('updated', { date: longDate(guide.updated, locale) })}</time>
+        </p>
+      </div>
+    </header>
+
+    {sameGuide.length > 1 && (
+      <nav class="wf-gchips" aria-label={t('otherEras')} data-pagefind-ignore>
+        {sameGuide.map((other) => (
+          <a class="wf-gchip" href={other.href} aria-current={other.era === guide.era ? 'page' : undefined}>{eras[other.era].name}</a>
+        ))}
+      </nav>
+    )}
+
+    <div class="wf-gprose">
+      <Content />
+    </div>
+
+    {siblings.length > 0 && (
+      <nav class="wf-gblock" aria-labelledby="wf-siblings" data-pagefind-ignore>
+        <h2 class="wf-glabel" id="wf-siblings">{t('otherSpecs', { class: classLabel(guide.class!) })}</h2>
+        <div class="wf-gchips">
+          {siblings.map((other) => <a class="wf-gchip" href={other.href}>{specLabel(other.spec!)} {classLabel(other.class!)}</a>)}
+        </div>
+      </nav>
+    )}
+  </article>
+</BaseLayout>

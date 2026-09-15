@@ -1,0 +1,70 @@
+---
+/*
+ * Het categorielabel: een ruitje in de categoriekleur plus de naam. Dezelfde
+ * vorm op het uitgelichte beeld en boven de titel van een postpagina.
+ *
+ * Een bron krijgt zoiets nooit. Alleen categorieën hebben een kleur en een
+ * vorm; Blizzard of Wowhead is platte tekst onderaan de post.
+ *
+ * Het label is een eigennaam en gaat daarom niet door de vertaalbestanden.
+ */
+import { categories, type CategoryKey } from '../config/categories';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  category: CategoryKey;
+  /** Alleen nog voor de vorm; het label is een eigennaam en vertaalt niet. */
+  locale?: Locale;
+  /** Over een beeld heen staat hij absoluut in de linkerbovenhoek. */
+  overlay?: boolean;
+}
+
+const { category, overlay = false } = Astro.props;
+const definition = categories[category];
+---
+
+<span
+  class:list={['wf-badge', overlay && 'is-overlay']}
+  style={`--wf-badge-color: ${definition.color};`}
+>
+  <span class="wf-badge__diamond" aria-hidden="true"></span>
+  {definition.label}
+</span>
+
+<style>
+  .wf-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    background: var(--wf-raised);
+    border: 1px solid var(--wf-badge-color);
+    border-radius: var(--wf-r-badge);
+    padding: 3px 11px;
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 12px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--wf-badge-color);
+  }
+
+  .wf-badge__diamond {
+    width: 8px;
+    height: 8px;
+    background: var(--wf-badge-color);
+    transform: rotate(45deg);
+  }
+
+  .is-overlay {
+    position: absolute;
+    left: 14px;
+    top: 14px;
+    z-index: 1;
+    /* Over een beeld moet het label dekkend blijven, ook op licht. */
+    background: var(--wf-bg);
+  }
+
+  @media (max-width: 899px) {
+    .is-overlay { font-size: 11px; }
+  }
+</style>

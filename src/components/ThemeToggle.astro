@@ -1,0 +1,137 @@
+---
+/*
+ * Themaschakelaar, nacht of dag.
+ *
+ * De keuze wordt in localStorage bewaard en vóór de eerste paint toegepast
+ * door het inline scriptje in BaseLayout, en daarom is er geen lichtflits.
+ * Zolang er niets bewaard is, beslist prefers-color-scheme.
+ *
+ * Twee verschijningsvormen, één gedrag: `bar` is de knop in de header,
+ * `row` is de rij onderaan het mobiele menu.
+ */
+import type { Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+
+interface Props {
+  locale: Locale;
+  variant?: 'bar' | 'row';
+}
+
+const { locale, variant = 'bar' } = Astro.props;
+const t = useTranslations(locale);
+---
+
+{variant === 'bar' ? (
+  <button
+    type="button"
+    class="wf-theme-btn"
+    data-wf-theme-toggle
+    data-label-night={t('theme.night')}
+    data-label-day={t('theme.day')}
+    aria-label={t('theme.toggle')}
+  >
+    <span class="wf-theme-btn__dot"></span>
+    <span class="wf-sr" data-wf-theme-value>{t('theme.night')}</span>
+  </button>
+) : (
+  <div class="wf-theme-row">
+    <span class="wf-theme-row__label">{t('theme.label')}</span>
+    <span class="wf-theme-row__value" data-wf-theme-value>{t('theme.night')}</span>
+    <button
+      type="button"
+      class="wf-theme-switch"
+      data-wf-theme-toggle
+      data-label-night={t('theme.night')}
+      data-label-day={t('theme.day')}
+      aria-label={t('theme.toggle')}
+    >
+      <span class="wf-theme-switch__knob"></span>
+    </button>
+  </div>
+)}
+
+<style>
+  /* --- De knop in de header --- */
+  .wf-theme-btn {
+    flex: none;
+    width: 34px;
+    height: 32px;
+    display: grid;
+    place-items: center;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-field);
+    transition: var(--wf-transition);
+  }
+
+  .wf-theme-btn:hover { border-color: var(--wf-arcane); }
+
+  .wf-theme-btn__dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 999px;
+    background: var(--wf-arcane);
+    box-shadow: 0 0 14px var(--wf-arcane);
+  }
+
+  :root[data-theme="day"] .wf-theme-btn__dot { box-shadow: none; }
+
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="night"]):not([data-theme="day"]) .wf-theme-btn__dot {
+      box-shadow: none;
+    }
+  }
+
+  /* --- De rij in het mobiele menu --- */
+  .wf-theme-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0;
+  }
+
+  .wf-theme-row__label {
+    font-size: 14px;
+    color: var(--wf-muted);
+  }
+
+  .wf-theme-row__value {
+    font-size: 13px;
+    color: var(--wf-ink);
+  }
+
+  .wf-theme-switch {
+    margin-left: auto;
+    flex: none;
+    width: 38px;
+    height: 20px;
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--wf-accent);
+    border-radius: 999px;
+    background: var(--wf-accent-wash);
+    transition: var(--wf-transition);
+  }
+
+  .wf-theme-switch__knob {
+    width: 13px;
+    height: 13px;
+    border-radius: 999px;
+    background: var(--wf-accent);
+    /* Nacht: knop rechts. Dag: knop links. */
+    margin-left: auto;
+    transition: margin .16s ease;
+  }
+
+  :root[data-theme="day"] .wf-theme-switch__knob {
+    margin-left: 0;
+    margin-right: auto;
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="night"]):not([data-theme="day"]) .wf-theme-switch__knob {
+      margin-left: 0;
+      margin-right: auto;
+    }
+  }
+</style>

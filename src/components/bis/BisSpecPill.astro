@@ -1,0 +1,137 @@
+---
+/*
+ * Eén lijst als pil op de pagina van een era (handoff §7.2): ruitje in de
+ * classkleur, de naam van spec en class, het aantal slots en de rol. Dezelfde
+ * vorm als de pil van de feed (handoff §7.7), met twee waardekolommen.
+ */
+import type { Locale } from '../../i18n/ui';
+import type { BisList } from '../../lib/bis';
+import { bisPath } from '../../lib/bis';
+import { classes, classLabel, roleGroup, roleKey, specLabel } from '../../config/bis';
+import { bisT, roleLabel } from '../../i18n/bis';
+
+interface Props {
+  locale: Locale;
+  list: BisList;
+}
+
+const { locale, list } = Astro.props;
+const t = bisT(locale);
+const name = `${specLabel(list.spec)} ${classLabel(list.class)}`;
+---
+
+<li class="wf-bpill" data-role={roleGroup(list.role)}>
+  <span class="wf-bpill__cat" aria-hidden="true">
+    <span class="wf-bpill__diamond" style={`--wf-diamond: ${classes[list.class]?.color ?? '#e0b77a'};`}></span>
+  </span>
+  <span class="wf-bpill__rule" aria-hidden="true"></span>
+  <a class="wf-bpill__link" href={bisPath(locale, list.era, list.phase, list.slug)}>
+    <span class="wf-bpill__title">{name}</span>
+  </a>
+  <span class="wf-bpill__rule" aria-hidden="true"></span>
+  <span class="wf-bpill__slots">{t('slots', { n: list.slots.length })}</span>
+  <span class="wf-bpill__rule" aria-hidden="true"></span>
+  <span class="wf-bpill__role">{roleLabel(roleKey(list.role), locale)}</span>
+</li>
+
+<style>
+  .wf-bpill {
+    position: relative;
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    min-height: 44px;
+    background: var(--wf-raised);
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    overflow: hidden;
+    transition: border-color .16s ease;
+  }
+
+  .wf-bpill:hover,
+  .wf-bpill:focus-within {
+    border-color: var(--wf-live);
+    box-shadow: var(--wf-glow-pill);
+  }
+
+  .wf-bpill__cat {
+    flex: none;
+    width: 40px;
+    align-self: stretch;
+    display: grid;
+    place-items: center;
+  }
+
+  .wf-bpill__diamond {
+    width: 10px;
+    height: 10px;
+    background: var(--wf-diamond);
+    transform: rotate(45deg);
+    box-shadow: 0 0 0 1px var(--wf-border);
+  }
+
+  .wf-bpill__rule {
+    flex: none;
+    width: 1px;
+    align-self: stretch;
+    background: var(--wf-border);
+  }
+
+  .wf-bpill__link {
+    flex: 1 1 auto;
+    min-width: 0;
+    padding: 0 14px;
+    font-size: 14.5px;
+    color: var(--wf-ink-soft);
+  }
+
+  .wf-bpill__link::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+
+  .wf-bpill__link:focus-visible { outline: none; }
+
+  .wf-bpill:has(.wf-bpill__link:focus-visible) {
+    outline: 2px solid var(--wf-arcane);
+    outline-offset: 2px;
+  }
+
+  .wf-bpill__title {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .wf-bpill__slots {
+    flex: none;
+    width: 108px;
+    text-align: center;
+    font-size: 13px;
+    color: var(--wf-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .wf-bpill__role {
+    flex: none;
+    width: 128px;
+    text-align: center;
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 11.5px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--wf-live-ink);
+  }
+
+  @media (max-width: 899px) {
+    .wf-bpill__cat { width: 34px; }
+    .wf-bpill__link { font-size: 13.5px; }
+    .wf-bpill__slots { width: 72px; font-size: 12px; }
+    .wf-bpill__role { display: none; }
+    .wf-bpill__role + .wf-bpill__rule,
+    .wf-bpill__slots + .wf-bpill__rule { display: none; }
+  }
+</style>

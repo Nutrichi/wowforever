@@ -1,0 +1,523 @@
+---
+/*
+ * Eén BiS-lijst: /bis/<era>/<fase>/<class>-<spec>/ (PROJECT_SPEC.md §5,
+ * handoff §7.2). Hier landt het zoekverkeer op "fury warrior bis phase 3",
+ * dus alles staat in de HTML: elk slot, elk item met zijn bron, de enchants
+ * en de gems.
+ *
+ * Van boven naar onder: broodkruimel, titel met het ruitje in de classkleur,
+ * een regel met era, fase, raids en rol, dezelfde spec in de andere fasen,
+ * de notities, de tabellen en de andere specs van de class. Een bronregel of
+ * een verwijzing naar de gidsen waarop een lijst steunt, staat er bewust niet
+ * (Nutri, 14 september 2026).
+ *
+ * Een item, enchant of gem linkt naar de zoekpagina van Wowhead voor die era,
+ * in een nieuw tabblad. Items, bazen, zones, enchants en gems blijven Engels; de
+ * vaste woorden eromheen vertaalt bis-sources.ts, de notities bis-notes.ts.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import { eras } from '../../config/eras';
+import { bisTabEras, classes, classLabel, phaseRaids, roleKey, slotParts, specLabel, wowheadPath } from '../../config/bis';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EraTabs from '../EraTabs.astro';
+import { bisEraCounts, bisPath, eraHrefs, samSpecPhases, siblingSpecs, type BisList } from '../../lib/bis';
+import { bisT, gemColorLabel, phaseLabel, roleLabel, slotLabel } from '../../i18n/bis';
+import { translateSource } from '../../i18n/bis-sources';
+import { translateName } from '../../i18n/bis-names';
+import { translateNotes } from '../../i18n/bis-notes';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import { isoDate, longDate } from '../../lib/date';
+
+interface Props {
+  locale: Locale;
+  list: BisList;
+}
+
+const { locale, list } = Astro.props;
+const t = bisT(locale);
+const ui = useTranslations(locale);
+const era = eras[list.era];
+
+const name = `${specLabel(list.spec)} ${classLabel(list.class)}`;
+const phase = phaseLabel(list.phase, locale);
+const raids = phaseRaids[list.era][list.phase];
+const color = classes[list.class]?.color ?? '#e0b77a';
+const updated = list.updated ? new Date(`${list.updated}T00:00:00Z`) : undefined;
+
+const title = t('metaTitle', { name, era: era.name, phase });
+const description = t('detailDescription', { name, era: era.name, phase });
+
+const notes = translateNotes(list.notes, locale);
+const phases = samSpecPhases(list);
+const siblings = siblingSpecs(list);
+
+/*
+ * De naam zoals Wowhead hem kent: zonder toevoeging tussen haakjes of na een
+ * streepje. "Enchant Cloak \u2014 Superior Intellect" heet daar
+ * "Enchant Cloak - Superior Intellect".
+ */
+const searchName = (text: string) => text
+  .replace(/\s*\([^)]*\)/g, '')
+  .replace(/^(Enchant [\w-]+(?: [\w-]+)?)\s+\u2014\s+/, '$1 - ')
+  .split(/\s+\u2014\s+/)[0]
+  .trim();
+
+/** De zoeklink van Wowhead voor de uitbreiding van deze lijst. */
+const wowhead = (item: string) => {
+  const query = searchName(item);
+  return `https://www.wowhead.com/${wowheadPath[list.era]}/search?q=${encodeURIComponent(query)}`;
+};
+
+/*
+ * Een itemnaam uit de data, klaar om te tonen. Drie gevallen die de data kent:
+ * "Naam \u2014 toevoeging" (de toevoeging schuift naar de bronregel), "No single
+ * BiS item" (geen link, een vertaald label) en "Alliance-item / Horde-item"
+ * (twee links, elk naar zijn eigen zoekpagina).
+ */
+/** Een verwijzing naar een gids of databank is geen bron voor de lezer. */
+const sourceCredit = /icy veins|wowhead|warcraft tavern|\bguide\b/i;
+
+const itemView = (item: { name: string; source?: string }) => {
+  const [main, ...rest] = item.name.split(/\s+\u2014\s+/);
+  const none = /^no single bis item$/i.test(main.trim());
+  const extra = rest.join(' · ');
+  return {
+    none,
+    names: none ? [] : main.split(/\s+\/\s+/),
+    source: [...new Set([extra, item.source].filter((text): text is string => !!text && !sourceCredit.test(text)))].map((text) => translateSource(text, locale)).join(' · '),
+  };
+};
+
+const plainName = (name: string) => name.replace(/\s+\u2014\s+/g, ' · ');
+
+/** Enchants zonder naam ("N/A") laten we weg. */
+const enchants = list.enchants.filter((enchant) => !/^(n\/a|none|-)?$/i.test(enchant.name.trim()));
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: t('crumb'), path: bisPath(locale) },
+  { name: era.name, path: bisPath(locale, list.era) },
+  { name: `${name}, ${phase}`, path: bisPath(locale, list.era, list.phase, list.slug) },
+];
+
+const canonical = new URL(bisPath(locale, list.era, list.phase, list.slug), Astro.site ?? 'https://wowforever.be').href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    breadcrumbJsonLd(crumbs, Astro.site),
+    {
+      '@type': 'ItemList',
+      name: t('detailTitle', { name }),
+      url: canonical,
+      ...(updated ? { dateModified: isoDate(updated) } : {}),
+      numberOfItems: list.slots.length,
+      itemListElement: list.slots.map((slot, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: `${slotLabel(slotParts(slot.slot), 'en')}: ${plainName(slot.items[0]?.name ?? '')}`,
+      })),
+    },
+  ],
+};
+---
+
+<BaseLayout locale={locale} title={title} description={description}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <EraTabs slot="bar" locale={locale} current={list.era} hrefs={eraHrefs(locale)} counts={bisEraCounts()} keys={bisTabEras} />
+
+  <!-- De titel in de zoekresultaten noemt era en fase; anders lijken de fasen van een spec identiek. -->
+  <article class="wf-bisd" data-pagefind-body data-pagefind-meta={`title:${title}`}>
+    <nav class="wf-bisd__crumb" aria-label={ui('crumb.label')} data-pagefind-ignore>
+      {crumbs.slice(0, -1).map((crumb) => (
+        <>
+          <a href={crumb.path}>{crumb.name}</a>
+          <span aria-hidden="true">/</span>
+        </>
+      ))}
+      <span>{phase}</span>
+    </nav>
+
+    <header class="wf-bisd__head">
+      <span class="wf-bisd__diamond" style={`--wf-diamond: ${color};`} aria-hidden="true"></span>
+      <div class="wf-bisd__headtext">
+        <h1 class="wf-bisd__title">{t('detailTitle', { name })}</h1>
+        <p class="wf-bisd__meta">
+          <span>{era.name}</span>
+          <span aria-hidden="true"> · </span>
+          <span>{phase}</span>
+          {raids && <><span aria-hidden="true"> · </span><span>{raids}</span></>}
+          <span aria-hidden="true"> · </span>
+          <span>{roleLabel(roleKey(list.role), locale)}</span>
+          {updated && <><span aria-hidden="true"> · </span><time datetime={isoDate(updated)}>{longDate(updated, locale)}</time></>}
+        </p>
+      </div>
+    </header>
+
+    {phases.length > 1 && (
+      <nav class="wf-bisd__chips" aria-label={t('samePhases')} data-pagefind-ignore>
+        {phases.map((other) => (
+          <a
+            class="wf-bisd__chip"
+            href={bisPath(locale, other.era, other.phase, other.slug)}
+            aria-current={other.phase === list.phase ? 'page' : undefined}
+          >{phaseLabel(other.phase, locale)}</a>
+        ))}
+      </nav>
+    )}
+
+    {notes.length > 0 && (
+      <section class="wf-bisd__notes" aria-labelledby="wf-bisd-notes">
+        <h2 class="wf-bisd__label" id="wf-bisd-notes">{t('notes')}</h2>
+        {notes.map((sentence) => <p>{sentence}</p>)}
+      </section>
+    )}
+
+    <section class="wf-bisd__block" aria-labelledby="wf-bisd-gear">
+      <h2 class="wf-bisd__label" id="wf-bisd-gear">{t('gear')}</h2>
+      <div class="wf-bisd__table">
+        <table>
+          <thead class="wf-sr">
+            <tr><th scope="col">{t('slot')}</th><th scope="col">{t('item')}</th></tr>
+          </thead>
+          <tbody>
+            {list.slots.map((slot) => (
+              <tr>
+                <th scope="row">{slotLabel(slotParts(slot.slot), locale)}</th>
+                <td>
+                  <ol class:list={['wf-bisd__items', { 'is-ranked': slot.items.length > 1 }]}>
+                    {slot.items.map((item) => {
+                      const view = itemView(item);
+                      return (
+                        <li>
+                          {view.none ? (
+                            <span class="wf-bisd__name is-none">{t('noItem')}</span>
+                          ) : (
+                            <span class="wf-bisd__name">
+                              {view.names.map((part, index) => (
+                                <>
+                                  {index > 0 && <span class="wf-bisd__or"> / </span>}
+                                  <a
+                                    class="wf-bisd__item"
+                                    href={wowhead(part)}
+                                    target="_blank"
+                                    rel="noopener nofollow"
+                                    title={t('wowhead', { item: part })}
+                                  >{translateName(part, locale)}</a>
+                                </>
+                              ))}
+                            </span>
+                          )}
+                          {view.source && <span class="wf-bisd__source">{view.source}</span>}
+                        </li>
+                      );
+                    })}
+                  </ol>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    {enchants.length > 0 && (
+      <section class="wf-bisd__block" aria-labelledby="wf-bisd-enchants">
+        <h2 class="wf-bisd__label" id="wf-bisd-enchants">{t('enchants')}</h2>
+        <div class="wf-bisd__table">
+          <table>
+            <thead class="wf-sr">
+              <tr><th scope="col">{t('slot')}</th><th scope="col">{t('enchant')}</th></tr>
+            </thead>
+            <tbody>
+              {enchants.map((enchant) => (
+                <tr>
+                  <th scope="row">{slotLabel(slotParts(enchant.slot), locale)}</th>
+                  <td>
+                    <span class="wf-bisd__name">
+                      <a
+                        class="wf-bisd__item"
+                        href={wowhead(enchant.name)}
+                        target="_blank"
+                        rel="noopener nofollow"
+                        title={t('wowhead', { item: searchName(enchant.name) })}
+                      >{translateSource(translateName(enchant.name, locale), locale)}</a>
+                    </span>
+                    {enchant.source && !sourceCredit.test(enchant.source) && <span class="wf-bisd__source">{translateSource(enchant.source, locale)}</span>}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    )}
+
+    {list.gems.length > 0 && (
+      <section class="wf-bisd__block" aria-labelledby="wf-bisd-gems">
+        <h2 class="wf-bisd__label" id="wf-bisd-gems">{t('gems')}</h2>
+        <div class="wf-bisd__table">
+          <table>
+            <thead class="wf-sr">
+              <tr><th scope="col">{t('socket')}</th><th scope="col">{t('gem')}</th></tr>
+            </thead>
+            <tbody>
+              {list.gems.map((gem) => (
+                <tr>
+                  <th scope="row">{gemColorLabel(gem.color, locale)}</th>
+                  <td>
+                    <span class="wf-bisd__name">
+                      <a
+                        class="wf-bisd__item"
+                        href={wowhead(gem.name)}
+                        target="_blank"
+                        rel="noopener nofollow"
+                        title={t('wowhead', { item: searchName(gem.name) })}
+                      >{translateSource(translateName(gem.name, locale), locale)}</a>
+                    </span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    )}
+
+    {siblings.length > 0 && (
+      <nav class="wf-bisd__block" aria-labelledby="wf-bisd-siblings" data-pagefind-ignore>
+        <h2 class="wf-bisd__label" id="wf-bisd-siblings">{t('otherSpecs', { class: classLabel(list.class) })}</h2>
+        <ul class="wf-bisd__siblings">
+          {siblings.map((other) => (
+            <li>
+              <a class="wf-bisd__sibling" href={bisPath(locale, other.era, other.phase, other.slug)}>
+                <span class="wf-bisd__dot" style={`--wf-diamond: ${color};`} aria-hidden="true"></span>
+                {specLabel(other.spec)} {classLabel(other.class)}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .wf-bisd {
+    max-width: 820px;
+    padding-block: 6px 40px;
+  }
+
+  .wf-bisd__crumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 8px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    color: var(--wf-muted);
+  }
+
+  .wf-bisd__crumb a:hover { color: var(--wf-ink); }
+
+  .wf-bisd__head {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .wf-bisd__diamond {
+    flex: none;
+    width: 14px;
+    height: 14px;
+    margin-top: 13px;
+    background: var(--wf-diamond);
+    transform: rotate(45deg);
+    box-shadow: 0 0 0 1px var(--wf-border);
+  }
+
+  .wf-bisd__headtext { min-width: 0; }
+
+  .wf-bisd__title {
+    font-size: 32px;
+    line-height: 1.15;
+    text-shadow: var(--wf-glow-h1);
+  }
+
+  .wf-bisd__meta {
+    margin-top: 6px;
+    font-size: 13.5px;
+    color: var(--wf-muted);
+  }
+
+  .wf-bisd__chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    margin-top: 18px;
+  }
+
+  .wf-bisd__chip {
+    font-size: 12px;
+    padding: 3px 11px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    color: var(--wf-muted);
+    white-space: nowrap;
+    transition: var(--wf-transition), color .16s ease, background-color .16s ease;
+  }
+
+  .wf-bisd__chip:hover { border-color: var(--wf-accent-deep); }
+
+  .wf-bisd__chip[aria-current="page"] {
+    background: var(--wf-accent-wash);
+    border-color: var(--wf-accent-deep);
+    color: var(--wf-accent-bright);
+  }
+
+  .wf-bisd__notes {
+    margin-top: 22px;
+    padding: 16px 18px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card-sm);
+    background: var(--wf-raised-soft);
+    font-size: 14.5px;
+    line-height: 1.65;
+    color: var(--wf-ink-soft);
+  }
+
+  .wf-bisd__notes p + p { margin-top: 8px; }
+
+  .wf-bisd__label {
+    margin-bottom: 10px;
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+  }
+
+  .wf-bisd__block { margin-top: 28px; }
+
+  .wf-bisd__table {
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card-sm);
+    background: var(--wf-raised);
+    overflow: hidden;
+  }
+
+  .wf-bisd__table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .wf-bisd__table tr + tr { border-top: 1px solid var(--wf-border); }
+
+  .wf-bisd__table th {
+    width: 190px;
+    padding: 11px 16px;
+    vertical-align: top;
+    text-align: left;
+    font-weight: 500;
+    font-size: 13.5px;
+    color: var(--wf-label);
+  }
+
+  .wf-bisd__table td {
+    padding: 11px 16px 11px 0;
+    vertical-align: top;
+  }
+
+  .wf-bisd__items {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  /* Meer dan één item: de volgorde is de rangorde, en dat mag je zien. */
+  .wf-bisd__items.is-ranked { counter-reset: wf-rank; }
+
+  .wf-bisd__items.is-ranked > li {
+    position: relative;
+    padding-left: 24px;
+    counter-increment: wf-rank;
+  }
+
+  .wf-bisd__items.is-ranked > li::before {
+    content: counter(wf-rank);
+    position: absolute;
+    left: 0;
+    top: 1px;
+    font-size: 12px;
+    color: var(--wf-label);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .wf-bisd__name {
+    display: block;
+    font-size: 15px;
+    color: var(--wf-ink);
+  }
+
+  .wf-bisd__name.is-none { font-style: italic; color: var(--wf-muted); }
+
+  .wf-bisd__item { color: inherit; }
+
+  .wf-bisd__or { color: var(--wf-label); }
+
+  .wf-bisd__item:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+  .wf-bisd__source {
+    display: block;
+    margin-top: 2px;
+    font-size: 13px;
+    line-height: 1.45;
+    color: var(--wf-muted);
+  }
+
+  .wf-bisd__siblings {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .wf-bisd__sibling {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    padding: 7px 14px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    background: var(--wf-raised);
+    font-size: 14px;
+    color: var(--wf-ink-soft);
+    transition: var(--wf-transition);
+  }
+
+  .wf-bisd__sibling:hover { border-color: var(--wf-live); box-shadow: var(--wf-glow-pill); }
+
+  .wf-bisd__dot {
+    width: 8px;
+    height: 8px;
+    background: var(--wf-diamond);
+    transform: rotate(45deg);
+  }
+
+
+  @media (max-width: 899px) {
+    .wf-bisd__title { font-size: 25px; }
+    .wf-bisd__diamond { width: 11px; height: 11px; margin-top: 10px; }
+    .wf-bisd__table th,
+    .wf-bisd__table td { display: block; width: auto; }
+    .wf-bisd__table th { padding: 10px 14px 0; font-size: 12px; letter-spacing: .06em; text-transform: uppercase; }
+    .wf-bisd__table td { padding: 4px 14px 11px; }
+  }
+</style>

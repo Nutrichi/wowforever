@@ -1,0 +1,20 @@
+---
+/*
+ * Eén BiS-lijst in het Engels: /bis/<era>/<fase>/<class>-<spec>/. Een pagina
+ * per JSON-bestand in src/data/bis/; de vijf andere talen staan in
+ * [lang]/bis/.
+ */
+import BisDetailPage from '../../../../components/bis/BisDetailPage.astro';
+import { getBisLists, type BisList } from '../../../../lib/bis';
+
+export function getStaticPaths() {
+  return getBisLists().map((list) => ({
+    params: { era: list.era, phase: list.phase, slug: list.slug },
+    props: { list },
+  }));
+}
+
+const { list } = Astro.props as { list: BisList };
+---
+
+<BisDetailPage locale="en" list={list} />

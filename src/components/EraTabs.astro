@@ -1,0 +1,106 @@
+---
+/*
+ * De era-schakelaar (PROJECT_SPEC.md §4.3, handoff §6.1 en §6.3). Een rij
+ * tabs, alleen op BIS, CLASSES, TRADESKILLS en REPUTATIONS. Op desktop staat
+ * hij in de tweede balk, op mobiel bovenaan de pagina (BaseLayout).
+ *
+ * Elke tab is een echte link naar de pagina van die era in deze sectie
+ * (`/bis/tbc/`), zodat hij zonder JavaScript werkt en een zoekmachine elke
+ * era vindt. Een klik onthoudt de era in `wf-era`.
+ *
+ * Een sectie kiest zelf welke era's een tab krijgen (`keys`); de volgorde komt
+ * altijd uit config/eras.ts. Een era zonder inhoud staat gedempt, maar blijft
+ * aanklikbaar: hij leidt naar de eerlijke lege staat (handoff §6.4), nooit
+ * naar een uitgeschakelde knop.
+ */
+import type { Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+import { eraKeys, eraList, eraStorageKey, type EraKey } from '../config/eras';
+
+interface Props {
+  locale: Locale;
+  /** De era van deze pagina. */
+  current: EraKey;
+  /** Het adres van elke era die een tab krijgt. */
+  hrefs: Partial<Record<EraKey, string>>;
+  /** Hoeveel items elke era in deze sectie heeft; nul is "pending". */
+  counts: Partial<Record<EraKey, number>>;
+  /** De era's die een tab krijgen. */
+  keys?: readonly EraKey[];
+}
+
+const { locale, current, hrefs, counts, keys = eraKeys } = Astro.props;
+const t = useTranslations(locale);
+const tabs = eraList.filter((era) => keys.includes(era.key) && hrefs[era.key]);
+---
+
+<nav class="wf-eras" aria-label={t('era.label')} data-wf-eras data-key={eraStorageKey}>
+  {tabs.map((era) => (
+    <a
+      class:list={['wf-eras__tab', { 'is-pending': !counts[era.key] }]}
+      href={hrefs[era.key]}
+      data-era={era.key}
+      aria-current={era.key === current ? 'page' : undefined}
+    >{era.short}</a>
+  ))}
+</nav>
+
+<style>
+  .wf-eras {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    min-width: 0;
+  }
+
+  /* Even hoog als de aftelchip, zodat de balk op elke pagina even hoog blijft. */
+  .wf-eras__tab {
+    flex: none;
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 12.5px;
+    line-height: 1.6;
+    letter-spacing: .10em;
+    padding: 5px 12px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    color: var(--wf-ink-soft);
+    white-space: nowrap;
+    transition: var(--wf-transition), color .16s ease, background-color .16s ease;
+  }
+
+  .wf-eras__tab:hover { border-color: var(--wf-accent-deep); }
+
+  /*
+   * Een era zonder inhoud is gedempt, maar blijft een echte link: geen
+   * opacity erover. Die maakte van --wf-label (5.09:1 op de balk) 2.22:1,
+   * en dat haalt de 4.5:1 niet. De kleur alleen dempt genoeg.
+   */
+  .wf-eras__tab.is-pending {
+    color: var(--wf-label);
+  }
+
+  /* De enige gevulde tab. */
+  .wf-eras__tab[aria-current="page"] {
+    border-color: var(--wf-accent-deep);
+    background: var(--wf-accent-wash);
+    color: var(--wf-accent-bright);
+    opacity: 1;
+  }
+</style>
+
+<script>
+  // De schakelaar staat twee keer in de pagina (balk en mobiel); beide onthouden de keuze.
+  document.querySelectorAll<HTMLElement>('[data-wf-eras]').forEach((nav) => {
+    const key = nav.dataset.key ?? 'wf-era';
+    nav.querySelectorAll<HTMLAnchorElement>('[data-era]').forEach((tab) => {
+      tab.addEventListener('click', () => {
+        try {
+          localStorage.setItem(key, tab.dataset.era ?? 'forever');
+        } catch (error) {
+          // Niets bewaren kan; de link werkt gewoon.
+        }
+      });
+    });
+  });
+</script>

@@ -1,0 +1,57 @@
+---
+/*
+ * TRADESKILLS voor WoW Forever, op /tradeskills/ (Nutri, 14 september 2026:
+ * wat de Forever-hub al weet). Een pil per tradeskill met de perks uit de
+ * beelden van BlizzCon 2026, en daaronder de Legacy-perks voor tradeskills.
+ * Jewelcrafting en Inscription bestaan in Forever niet en staan er dus niet.
+ */
+import type { Locale } from '../../i18n/ui';
+import { tradeskillColors, tradeskills } from '../../config/guides';
+import { foreverPerks, legacyPerks } from '../../i18n/forever-tradeskills';
+import { guideT } from '../../i18n/guides';
+import '../../styles/guides.css';
+
+interface Props {
+  locale: Locale;
+  title: string;
+}
+
+const { locale, title } = Astro.props;
+const t = guideT(locale);
+const skills = tradeskills.filter((skill) => skill.eras.includes('forever'));
+const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), secondary: t('typeSecondary') };
+---
+
+<header class="wf-ghead">
+  <div class="wf-ghead__main">
+    <h1 class="wf-ghead__title">{title}</h1>
+    <p class="wf-ghead__intro">{t('tradeskillsForeverIntro')}</p>
+  </div>
+</header>
+
+<section aria-labelledby="wf-perks">
+  <h2 class="wf-glabel wf-sr" id="wf-perks">{t('perksTitle')}</h2>
+  <ul class="wf-tpills">
+    {skills.map((skill) => (
+      <li class="wf-tpill">
+        <span class="wf-tpill__cat" aria-hidden="true">
+          <span class="wf-tpill__diamond" style={`--wf-diamond: ${tradeskillColors[skill.type]};`}></span>
+        </span>
+        <span class="wf-tpill__rule" aria-hidden="true"></span>
+        <span class="wf-tpill__name">{skill.name}</span>
+        <span class="wf-tpill__rule" aria-hidden="true"></span>
+        <span class="wf-tpill__text">{foreverPerks[skill.key]?.[locale] ?? t('noPerks')}</span>
+        <span class="wf-tpill__rule" aria-hidden="true"></span>
+        <span class="wf-tpill__type">{typeLabel[skill.type]}</span>
+      </li>
+    ))}
+  </ul>
+</section>
+
+<section class="wf-gblock" aria-labelledby="wf-legacy">
+  <h2 class="wf-glabel" id="wf-legacy">{t('legacyTitle')}</h2>
+  <p class="wf-gtext">{t('legacyIntro')}</p>
+  <ul class="wf-glist">
+    {legacyPerks.map((perk) => <li><strong>{perk.name}</strong>: {perk.text[locale]}</li>)}
+  </ul>
+</section>

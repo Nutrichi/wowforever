@@ -1,0 +1,64 @@
+---
+/*
+ * TRADESKILLS voor één era (handoff §7.4): een pil per tradeskill die in die
+ * era bestaat, met het ruitje in de kleur van de soort (verzamelen, craften,
+ * secundair). Een tradeskill met een gids linkt en toont de beschrijving van
+ * die gids; zonder gids staat hij gedempt en zonder link. Een era zonder
+ * enkele gids toont de lege staat.
+ */
+import type { Locale } from '../../i18n/ui';
+import { eras } from '../../config/eras';
+import { skillRange, tradeskillColors, tradeskills, type GuideEra } from '../../config/guides';
+import { guidesForEra, guidesUpdated } from '../../lib/guides';
+import { guideT } from '../../i18n/guides';
+import { longDate } from '../../lib/date';
+import GuidePending from './GuidePending.astro';
+import '../../styles/guides.css';
+
+interface Props {
+  locale: Locale;
+  era: GuideEra;
+  title: string;
+}
+
+const { locale, era, title } = Astro.props;
+const t = guideT(locale);
+const guides = await guidesForEra('tradeskills', era, locale);
+const updated = await guidesUpdated('tradeskills', era);
+const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
+const skills = tradeskills.filter((skill) => skill.eras.includes(era));
+const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), secondary: t('typeSecondary') };
+---
+
+<header class="wf-ghead">
+  <div class="wf-ghead__main">
+    <h1 class="wf-ghead__title">{title}</h1>
+    {guides.length > 0 && <p class="wf-ghead__intro">{t('tradeskillsIntro', { era: eras[era].name, range: skillRange[era] })}</p>}
+  </div>
+  {guides.length > 0 && updated && <p class="wf-ghead__count">{t('count', { n: guides.length, date: longDate(updated, locale) })}</p>}
+</header>
+
+{guides.length === 0 && <GuidePending locale={locale} kind="tradeskills" era={era} />}
+
+{guides.length > 0 && (
+  <ul class="wf-tpills">
+    {skills.map((skill) => {
+      const guide = bySlug.get(skill.key);
+      return (
+        <li class="wf-tpill">
+          <span class="wf-tpill__cat" aria-hidden="true">
+            <span class="wf-tpill__diamond" style={`--wf-diamond: ${tradeskillColors[skill.type]};`}></span>
+          </span>
+          <span class="wf-tpill__rule" aria-hidden="true"></span>
+          <span class:list={['wf-tpill__name', { 'is-pending': !guide }]}>
+            {guide ? <a href={guide.href}>{skill.name}</a> : skill.name}
+          </span>
+          <span class="wf-tpill__rule" aria-hidden="true"></span>
+          <span class="wf-tpill__text">{guide?.description}</span>
+          <span class="wf-tpill__rule" aria-hidden="true"></span>
+          <span class="wf-tpill__type">{typeLabel[skill.type]}</span>
+        </li>
+      );
+    })}
+  </ul>
+)}

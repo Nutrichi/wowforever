@@ -1,0 +1,52 @@
+---
+/*
+ * De homepage in de vijf niet-standaardtalen: /nl/, /fr/, /es/, /it/, /de/.
+ * Engels heeft geen voorvoegsel en staat in ../index.astro.
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HomeGrid from '../../components/HomeGrid.astro';
+import FeaturedPost from '../../components/FeaturedPost.astro';
+import PostList from '../../components/PostList.astro';
+import CategoryFilter from '../../components/CategoryFilter.astro';
+import { getPosts, pickFeatured } from '../../lib/posts';
+import { featuredPreload } from '../../lib/post-image';
+import { websiteJsonLd } from '../../lib/structured-data';
+import { defaultLocale, locales, type Locale } from '../../i18n/ui';
+import { useTranslations } from '../../i18n/utils';
+
+export function getStaticPaths() {
+  return locales
+    .filter((locale) => locale !== defaultLocale)
+    .map((locale) => ({ params: { lang: locale } }));
+}
+
+const locale = Astro.params.lang as Locale;
+const t = useTranslations(locale);
+const posts = await getPosts(locale);
+const featured = pickFeatured(posts);
+const preload = featured?.image ? await featuredPreload(featured.image) : undefined;
+const jsonLd = websiteJsonLd(locale, Astro.site);
+---
+
+<BaseLayout locale={locale}>
+  {preload && (
+    <link slot="head" rel="preload" as="image" href={preload.href} imagesrcset={preload.imagesrcset}
+      imagesizes={preload.imagesizes} fetchpriority="high" />
+  )}
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+  <!-- De kop alleen voor schermlezers, zoals in ../index.astro (§17). -->
+  <h1 class="wf-sr">{t('site.homeTitle')}</h1>
+  <HomeGrid
+    locale={locale}
+    hasFeatured={!!featured}
+    hasList={posts.length > 0}
+  >
+    {featured && <FeaturedPost slot="featured" post={featured} locale={locale} />}
+    {posts.length > 0 && (
+      <Fragment slot="list">
+        <CategoryFilter locale={locale} />
+        <PostList posts={posts} locale={locale} />
+      </Fragment>
+    )}
+  </HomeGrid>
+</BaseLayout>

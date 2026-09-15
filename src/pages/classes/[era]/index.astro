@@ -1,0 +1,13 @@
+---
+/* De pagina van één era onder CLASSES in het Engels: /classes/tbc/ enzovoort. */
+import GuideEraPage from '../../../components/guides/GuideEraPage.astro';
+import { guideEras, type GuideEra } from '../../../config/guides';
+
+export function getStaticPaths() {
+  return guideEras.map((era) => ({ params: { era } }));
+}
+
+const era = Astro.params.era as GuideEra;
+---
+
+<GuideEraPage locale="en" kind="classes" era={era} />

@@ -1,0 +1,19 @@
+---
+/* Eén gids onder CLASSES in de vijf niet-standaardtalen; zonder vertaling de Engelse tekst. */
+import GuideDetailPage from '../../../../components/guides/GuideDetailPage.astro';
+import { getGuide, getGuides } from '../../../../lib/guides';
+import { otherLocales } from '../../../../lib/posts';
+import type { GuideEra } from '../../../../config/guides';
+import type { Locale } from '../../../../i18n/ui';
+
+export async function getStaticPaths() {
+  const guides = await getGuides('classes', 'en');
+  return otherLocales.flatMap((lang) => guides.map((guide) => ({ params: { lang, era: guide.era, slug: guide.slug } })));
+}
+
+const locale = Astro.params.lang as Locale;
+const guide = await getGuide('classes', Astro.params.era as GuideEra, Astro.params.slug!, locale);
+if (!guide) throw new Error(`Onbekende gids: ${Astro.params.era}/${Astro.params.slug}`);
+---
+
+<GuideDetailPage locale={locale} guide={guide} />

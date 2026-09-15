@@ -1,0 +1,18 @@
+---
+/* Eén factie onder REPUTATIONS in de vijf niet-standaardtalen; zonder vertaling de Engelse tekst. */
+import ReputationDetailPage from '../../../components/reputations/ReputationDetailPage.astro';
+import { getReputation, getReputations } from '../../../lib/reputations';
+import { otherLocales } from '../../../lib/posts';
+import type { Locale } from '../../../i18n/ui';
+
+export async function getStaticPaths() {
+  const reputations = await getReputations('en');
+  return otherLocales.flatMap((lang) => reputations.map((reputation) => ({ params: { lang, slug: reputation.slug } })));
+}
+
+const locale = Astro.params.lang as Locale;
+const reputation = await getReputation(Astro.params.slug!, locale);
+if (!reputation) throw new Error(`Onbekende factie: ${Astro.params.slug}`);
+---
+
+<ReputationDetailPage locale={locale} reputation={reputation} />

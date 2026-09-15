@@ -1,0 +1,98 @@
+---
+/*
+ * De taalkiezer op Streams (Nutri, 11 en 13 september 2026), rechts in de
+ * lijstkop, op de plek waar `min. 50 viewers` stond. De drempel van 50
+ * kijkers blijft in scripts/fetch-feeds.mjs; hij staat alleen niet meer op
+ * de pagina.
+ *
+ * De talen komen uit dezelfde ophaling als de lijst, dus ze verversen mee
+ * met elke build. De taal met de meeste streams staat bovenaan, met het
+ * aantal erbij. De namen staan in de taal van de pagina (Intl.DisplayNames).
+ *
+ * Een gewone <select>: die werkt met het toetsenbord en op elke telefoon
+ * zonder eigen code. Wat een keuze doet, staat in src/scripts/pill-list.ts:
+ * de lijst filteren, het grote blok wisselen naar de stream met de meeste
+ * kijkers in die taal, en de keuze bewaren in de URL (?language=) en in de
+ * browser.
+ */
+import { localeTags, type Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+import { languageName } from '../lib/feed-format';
+
+interface Props {
+  locale: Locale;
+  languages: { code: string; count: number }[];
+}
+
+const { locale, languages } = Astro.props;
+const t = useTranslations(locale);
+
+/** "anglais" wordt "Anglais": een keuzelijst begint met een hoofdletter. */
+const label = (code: string) => {
+  if (code === 'other') return t('streams.otherLanguage');
+  const name = languageName(code, locale);
+  return name.charAt(0).toLocaleUpperCase(localeTags[locale]) + name.slice(1);
+};
+---
+
+<label class="wf-langfilter">
+  <span class="wf-sr">{t('streams.languageLabel')}</span>
+  <select class="wf-langfilter__select" data-wf-language>
+    <option value="all">{t('streams.allLanguages')}</option>
+    {languages.map((language) => (
+      <option value={language.code}>{label(language.code)} ({language.count})</option>
+    ))}
+  </select>
+  <span class="wf-langfilter__chevron" aria-hidden="true"></span>
+</label>
+
+<style>
+  .wf-langfilter {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    flex: none;
+  }
+
+  /* Dezelfde vorm als de chips in de aftelbalk. */
+  .wf-langfilter__select {
+    appearance: none;
+    -webkit-appearance: none;
+    font: inherit;
+    font-size: 12px;
+    line-height: 1.4;
+    padding: 3px 26px 3px 11px;
+    color: var(--wf-ink);
+    background: transparent;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    cursor: pointer;
+    transition: var(--wf-transition), background-color .16s ease;
+  }
+
+  .wf-langfilter__select:hover { border-color: var(--wf-arcane); }
+
+  /* Een gekozen taal krijgt de actieve staat van een chip. */
+  .wf-langfilter__select.is-active {
+    background: var(--wf-accent-wash);
+    border-color: var(--wf-accent);
+  }
+
+  .wf-langfilter__select option {
+    color: var(--wf-ink);
+    background: var(--wf-raised);
+  }
+
+  .wf-langfilter__chevron {
+    position: absolute;
+    right: 11px;
+    top: 50%;
+    width: 6px;
+    height: 6px;
+    margin-top: -4px;
+    border-right: 1.5px solid var(--wf-muted);
+    border-bottom: 1.5px solid var(--wf-muted);
+    transform: rotate(45deg);
+    pointer-events: none;
+  }
+</style>

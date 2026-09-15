@@ -1,0 +1,209 @@
+---
+/*
+ * De tweede balk onder de header (handoff §6.3), op elke pagina.
+ *
+ * Van links naar rechts: de aftelchip naar de launch van WoW Forever, een
+ * dunne lijn, de slot (daar komt de era-schakelaar op BIS, CLASSES,
+ * TRADESKILLS en REPUTATIONS), en helemaal rechts de RestedXP-pil.
+ *
+ * De aftelchip staat bewust op zichzelf: na de launch is hij het eerste dat
+ * vervangen wordt, zonder de rest van de balk aan te raken. Hij tikt per
+ * minuut en klemt op nul. Zodra de hub `/forever/` bestaat, is hij daar de
+ * ingang naartoe (PROJECT_SPEC.md §4.4); tot dan is het gewone tekst.
+ *
+ * Onder 900 px blijven chip en pil op één regel; de slot staat dan bovenaan
+ * de pagina zelf (BaseLayout), zodat de balk op elke pagina even hoog is.
+ */
+import type { Locale } from '../i18n/ui';
+import { localizePath, useTranslations } from '../i18n/utils';
+import { foreverHubPath, launchDate } from '../config/site';
+import RestedXpPill from './RestedXpPill.astro';
+
+interface Props {
+  locale: Locale;
+  /** Of een pagina iets in de slot zet. Zonder slot krijgt de RestedXP-pil de brede vorm. */
+  hasContent?: boolean;
+}
+
+const { locale, hasContent = false } = Astro.props;
+const t = useTranslations(locale);
+
+function split(msLeft: number) {
+  const ms = Math.max(0, msLeft); // klemmen op nul
+  const hour = 3_600_000;
+  const day = 24 * hour;
+  return { days: Math.floor(ms / day), hours: Math.floor((ms % day) / hour) };
+}
+
+const initial = split(new Date(launchDate).getTime() - Date.now());
+const pad = (n: number) => String(n).padStart(2, '0');
+
+/* Enkelvoud en meervoud per eenheid, voor de zin van de schermlezer. */
+const units = {
+  d: [t('countdown.daysOne'), t('countdown.daysMany')],
+  h: [t('countdown.hoursOne'), t('countdown.hoursMany')],
+};
+
+const fill = (pattern: string, d: number, h: number) =>
+  pattern
+    .replace('{d}', String(d))
+    .replace('{h}', String(h))
+    .replace('{du}', d === 1 ? units.d[0] : units.d[1])
+    .replace('{hu}', h === 1 ? units.h[0] : units.h[1]);
+
+const ariaText = fill(t('countdown.aria'), initial.days, initial.hours);
+/* Met slash op het einde, zoals de menulinks: zo stuurt GitHub Pages niet eerst door. */
+const hubHref = foreverHubPath ? `${localizePath(foreverHubPath, locale)}/` : '';
+const ChipTag = hubHref ? 'a' : 'span';
+---
+
+<div
+  class="wf-bar"
+  data-wf-countdown
+  data-target={launchDate}
+  data-units={JSON.stringify(units)}
+>
+  <div class:list={['wf-bar__inner', { 'has-content': hasContent }]}>
+    <ChipTag class="wf-chip" href={hubHref || undefined}>
+      <span class="wf-chip__diamond" aria-hidden="true"></span>
+      <span class="wf-chip__label" aria-hidden="true">{t('countdown.label')}</span>
+      <span class="wf-chip__value wf-nums" aria-hidden="true">
+        <span data-wf-days>{initial.days}</span>{t('countdown.dayUnit')}
+        <span data-wf-hours>{pad(initial.hours)}</span>{t('countdown.hourUnit')}
+      </span>
+      <!-- Een schermlezer krijgt één rustige zin in plaats van losse cijfers. -->
+      <span class="wf-sr" data-wf-countdown-sr data-pattern={t('countdown.aria')}>{ariaText}</span>
+    </ChipTag>
+
+    {hasContent && <span class="wf-bar__rule" aria-hidden="true"></span>}
+
+    {hasContent && <div class="wf-bar__slot"><slot /></div>}
+
+    <div class="wf-bar__rxp">
+      <RestedXpPill locale={locale} wide />
+    </div>
+  </div>
+</div>
+
+<style>
+  .wf-bar {
+    background: var(--wf-bar);
+    border-top: 1px solid var(--wf-border);
+    border-bottom: 1px solid var(--wf-border);
+  }
+
+  .wf-bar__inner {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    width: 100%;
+    max-width: var(--wf-max);
+    margin: 0 auto;
+    padding: 8px 26px;
+    min-height: 49px;
+  }
+
+  .wf-chip {
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    padding: 5px 11px;
+    font-size: 12px;
+    color: var(--wf-muted);
+    white-space: nowrap;
+    transition: var(--wf-transition);
+  }
+
+  a.wf-chip:hover { border-color: var(--wf-accent-deep); }
+
+  .wf-chip__diamond {
+    width: 7px;
+    height: 7px;
+    background: var(--wf-accent);
+    transform: rotate(45deg);
+  }
+
+  .wf-chip__label {
+    font-family: var(--wf-display);
+    font-weight: 500;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+
+  .wf-chip__value {
+    color: var(--wf-accent);
+    font-weight: 600;
+  }
+
+  .wf-bar__rule {
+    flex: none;
+    width: 1px;
+    height: 22px;
+    background: var(--wf-border);
+  }
+
+  .wf-bar__slot {
+    flex: 1 1 auto;
+    min-width: 0;
+    display: flex;
+    align-items: center;
+  }
+
+  .wf-bar__rxp {
+    flex: none;
+    margin-left: auto;
+  }
+
+  @media (max-width: 899px) {
+    .wf-bar__inner {
+      flex-wrap: wrap;
+      gap: 8px 10px;
+      padding: 8px 16px;
+    }
+
+    .wf-bar__rule { display: none; }
+
+    /* De slot staat op mobiel bovenaan de pagina (BaseLayout). */
+    .wf-bar__slot { display: none; }
+  }
+</style>
+
+<script>
+  // Tikt per halve minuut; de chip toont dagen en uren. Klemt op nul.
+  const root = document.querySelector<HTMLElement>('[data-wf-countdown]');
+
+  if (root) {
+    const target = new Date(root.dataset.target ?? '').getTime();
+    const daysEl = root.querySelector<HTMLElement>('[data-wf-days]');
+    const hoursEl = root.querySelector<HTMLElement>('[data-wf-hours]');
+    const srEl = root.querySelector<HTMLElement>('[data-wf-countdown-sr]');
+    type Units = { d: [string, string]; h: [string, string] };
+    const units: Units = JSON.parse(root.dataset.units ?? '{}');
+    const pad = (n: number) => String(n).padStart(2, '0');
+
+    const tick = () => {
+      const ms = Math.max(0, target - Date.now());
+      const hour = 3_600_000;
+      const days = Math.floor(ms / (24 * hour));
+      const hours = Math.floor((ms % (24 * hour)) / hour);
+
+      if (daysEl) daysEl.textContent = String(days);
+      if (hoursEl) hoursEl.textContent = pad(hours);
+
+      // Stil bijgewerkt: geen aria-live, dus dit praat niet mee.
+      if (srEl) {
+        srEl.textContent = (srEl.dataset.pattern ?? '')
+          .replace('{d}', String(days))
+          .replace('{h}', String(hours))
+          .replace('{du}', days === 1 ? units.d[0] : units.d[1])
+          .replace('{hu}', hours === 1 ? units.h[0] : units.h[1]);
+      }
+    };
+
+    tick();
+    window.setInterval(tick, 30_000);
+  }
+</script>

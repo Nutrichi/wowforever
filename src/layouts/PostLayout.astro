@@ -1,0 +1,272 @@
+---
+/*
+ * De postpagina (§7). De belangrijkste pagina van de site: hier landt het
+ * zoekverkeer.
+ *
+ * Elke post is een eigen pagina met een eigen URL, op elk toestel. Geen
+ * modal, geen uitklapkaart: een post die alleen als overlay bestaat is
+ * onzichtbaar voor crawlers, en vindbaarheid is het hele punt.
+ *
+ * Lopende tekst staat nooit in een accentkleur en heeft geen gloed.
+ *
+ * Eén afwijking van de handoff, bewust: de broodkruimel staat boven de
+ * titel en niet rechts in de koptekst. De koptekst draagt al de navigatie,
+ * het zoekveld, de taalkiezer en de themaknop; daar past op 1180 px geen
+ * vijfde ding meer bij zonder dat de tabs gaan schuiven.
+ */
+import type { Post } from '../lib/posts';
+import type { Locale } from '../i18n/ui';
+import { localizePath, useTranslations } from '../i18n/utils';
+import { categories } from '../config/categories';
+import { longDate, isoDate } from '../lib/date';
+import { render } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import CategoryBadge from '../components/CategoryBadge.astro';
+import PostImage from '../components/PostImage.astro';
+import LikeButton from '../components/LikeButton.astro';
+import { publisherJsonLd } from '../lib/structured-data';
+
+interface Props {
+  post: Post;
+  locale: Locale;
+}
+
+const { post, locale } = Astro.props;
+const t = useTranslations(locale);
+const { Content } = await render(post.entry);
+
+const category = categories[post.category];
+/*
+ * De sleutel waaronder de likes van deze post in de database staan. Bewust
+ * de collectie en niet de categorie: een categorie kan veranderen (een post
+ * verhuist van Classic naar Forever) en dan zouden de likes eraan
+ * verdwijnen. De collectie ligt vast zolang de post bestaat.
+ */
+const postId = `${post.collection}/${post.slug}`;
+const home = localizePath('', locale);
+const readingLabel = t('post.readingTime').replace('{n}', String(post.readingMinutes));
+
+/*
+ * De bronregel (§7.1). Bij een gids wijst hij naar de eigen gidspagina op
+ * deze site; bij nieuws naar het originele artikel, extern. Ontbreekt de
+ * bron, dan staat er niets: geen lege regel en geen "onbekend".
+ *
+ * Een nieuwsbron is altijd extern.
+ */
+const isExternal = true;
+
+/** Gestructureerde data (§17). Het beeld alleen als het er is. */
+const canonical = new URL(Astro.url.pathname, Astro.site ?? 'https://wowforever.be').href;
+const imageUrl = post.image
+  ? new URL(post.image.src, Astro.site ?? 'https://wowforever.be').href
+  : undefined;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: post.title,
+  description: post.description,
+  datePublished: isoDate(post.date),
+  inLanguage: post.lang,
+  mainEntityOfPage: canonical,
+  author: publisherJsonLd(Astro.site),
+  publisher: publisherJsonLd(Astro.site),
+  ...(imageUrl ? { image: [imageUrl] } : {}),
+  ...(post.source ? { citation: post.source } : {}),
+};
+---
+
+<BaseLayout
+  locale={locale}
+  title={post.title}
+  description={post.description}
+  image={imageUrl}
+  ogType="article"
+>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <!--
+    Pagefind (§15) indexeert alleen wat binnen data-pagefind-body staat: de
+    post zelf, zonder broodkruimel, hartje en bronregel.
+  -->
+  <article class="wf-post" data-pagefind-body>
+    <div class="wf-post__hero">
+      <PostImage
+        image={post.image}
+        alt={post.imageAlt ?? ''}
+        variant="post"
+        eager
+        zoomable
+      />
+    </div>
+
+    <div class="wf-post__body">
+      <nav class="wf-crumb" aria-label={t('crumb.label')} data-pagefind-ignore>
+        <a href={home}>{t('crumb.home')}</a>
+        <span aria-hidden="true">/</span>
+        <span>{category.label}</span>
+      </nav>
+
+      <CategoryBadge category={post.category} locale={locale} />
+
+      <h1 class="wf-post__title">{post.title}</h1>
+
+      <p class="wf-post__meta" data-pagefind-ignore>
+        <time datetime={isoDate(post.date)}>{longDate(post.date, locale)}</time>
+        <span aria-hidden="true"> · </span>
+        <span>{readingLabel}</span>
+      </p>
+
+      <div class="wf-prose">
+        <Content />
+      </div>
+
+      <div class="wf-post__like" data-pagefind-ignore>
+        <LikeButton postId={postId} locale={locale} variant="post" />
+      </div>
+
+      {post.source && (
+        <p class="wf-post__source" data-pagefind-ignore>
+          {t('post.source')}{' '}
+          {post.sourceUrl ? (
+            <a
+              href={post.sourceUrl}
+              rel={isExternal ? 'noopener nofollow' : undefined}
+              target={isExternal ? '_blank' : undefined}
+            >{post.source}</a>
+          ) : post.source}
+        </p>
+      )}
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  /* Het kopbeeld loopt door tot de randen van de contentkolom. */
+  .wf-post__hero { margin: -24px -26px 0; }
+
+  .wf-post__body {
+    max-width: 660px;
+    margin: 0 auto;
+    padding: 28px 0 40px;
+  }
+
+  .wf-crumb {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    color: var(--wf-muted);
+  }
+
+  .wf-crumb a:hover { color: var(--wf-ink); }
+
+  .wf-post__title {
+    font-size: 36px;
+    line-height: 1.12;
+    margin: 14px 0 8px;
+    text-shadow: var(--wf-glow-h1);
+  }
+
+  .wf-post__meta {
+    margin-bottom: 24px;
+    font-size: 13.5px;
+    color: var(--wf-muted);
+  }
+
+  .wf-post__like { margin-top: 28px; }
+
+  .wf-post__source {
+    margin-top: 28px;
+    padding-top: 18px;
+    border-top: 1px solid var(--wf-border);
+    font-size: 13.5px;
+    color: var(--wf-muted);
+  }
+
+  /*
+   * In rust mag de bron niet als link lezen: geen accentkleur, geen
+   * onderstreping, geen icoon. Pas bij hover blijkt dat het er een is (§7.1).
+   */
+  .wf-post__source a { color: inherit; }
+  .wf-post__source a:hover { text-decoration: underline; }
+
+  /* --- De lopende tekst --- */
+  .wf-prose {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    font-size: 17.5px;
+    line-height: 1.75;
+    color: var(--wf-body);
+  }
+
+  .wf-prose :global(h2) { font-size: 24px; line-height: 1.2; margin-top: 12px; }
+  .wf-prose :global(h3) { font-size: 19px; line-height: 1.25; margin-top: 8px; }
+
+  .wf-prose :global(a) {
+    color: var(--wf-arcane);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .wf-prose :global(ul),
+  .wf-prose :global(ol) {
+    margin: 0;
+    padding-left: 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .wf-prose :global(blockquote) {
+    margin: 0;
+    border-left: 3px solid var(--wf-arcane);
+    padding: 2px 0 2px 16px;
+    color: var(--wf-quote);
+    font-style: italic;
+  }
+
+  .wf-prose :global(img) {
+    border-radius: var(--wf-r-card-sm);
+    border: 1px solid var(--wf-border);
+  }
+
+  .wf-prose :global(code) {
+    font-size: .9em;
+    background: var(--wf-raised);
+    border: 1px solid var(--wf-border);
+    border-radius: 4px;
+    padding: 1px 5px;
+  }
+
+  .wf-prose :global(pre) {
+    overflow-x: auto;
+    background: var(--wf-raised);
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-field-lg);
+    padding: 14px 16px;
+  }
+
+  .wf-prose :global(pre code) {
+    background: none;
+    border: 0;
+    padding: 0;
+  }
+
+  .wf-prose :global(hr) {
+    border: 0;
+    border-top: 1px solid var(--wf-border);
+    width: 100%;
+  }
+
+  @media (max-width: 899px) {
+    .wf-post__hero { margin: -16px -16px 0; }
+    .wf-post__body { padding: 20px 0 28px; }
+    .wf-post__title { font-size: 27px; }
+    .wf-prose { font-size: 16.5px; }
+    .wf-prose :global(h2) { font-size: 21px; }
+    .wf-prose :global(h3) { font-size: 18px; }
+  }
+</style>

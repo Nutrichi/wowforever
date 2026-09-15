@@ -1,0 +1,211 @@
+---
+/*
+ * De eerlijke lege staat van een era zonder gidsen bij CLASSES of TRADESKILLS
+ * (handoff §6.4), zoals BisPending bij BIS: één paneel dat zegt waarom er nog
+ * niets is, en daaronder de era's die wel klaar zijn.
+ */
+import type { Locale } from '../../i18n/ui';
+import { eras, type EraKey } from '../../config/eras';
+import { guideEras, levelRange, skillRange } from '../../config/guides';
+import { guideCounts, guidePath, largestGuideEra, type GuideKind } from '../../lib/guides';
+import { guideT } from '../../i18n/guides';
+
+interface Props {
+  locale: Locale;
+  kind: GuideKind;
+  era: EraKey;
+}
+
+const { locale, kind, era } = Astro.props;
+const t = guideT(locale);
+const counts = await guideCounts(kind);
+const target = await largestGuideEra(kind);
+const ready = guideEras.filter((key) => counts[key] > 0);
+const total = ready.reduce((sum, key) => sum + counts[key], 0);
+const name = eras[era].name;
+
+const title = kind === 'classes' ? t('classesPendingTitle', { era: name }) : t('tradeskillsPendingTitle', { era: name });
+const text = kind === 'classes' ? t('classesPendingText', { era: name }) : t('tradeskillsPendingText', { era: name });
+const sub = (key: (typeof guideEras)[number]) =>
+  kind === 'classes' ? t('levels', { range: levelRange[key] }) : t('skill', { range: skillRange[key] });
+const readyCount = t('readyCount', { n: total, e: ready.length });
+---
+
+<section class="wf-pending" aria-labelledby="wf-pending-title">
+  <div class="wf-pending__text">
+    <p class="wf-pending__eyebrow"><span class="wf-pending__diamond" aria-hidden="true"></span>{t('pendingEyebrow')}</p>
+    <h2 class="wf-pending__title" id="wf-pending-title">{title}</h2>
+    <p class="wf-pending__body">{text}</p>
+  </div>
+  {ready.length > 0 && (
+    <div class="wf-pending__actions">
+      <a class="wf-pending__button" href={guidePath(kind, locale, target)}>{t('jump', { era: eras[target].name, n: counts[target] })}</a>
+    </div>
+  )}
+</section>
+
+{ready.length > 0 && (
+  <section class="wf-ready" aria-labelledby="wf-ready-title">
+    <div class="wf-ready__head">
+      <h2 class="wf-ready__eyebrow" id="wf-ready-title">{t('readyEyebrow')}</h2>
+      <p class="wf-ready__count">{readyCount}</p>
+    </div>
+    <ul class="wf-ready__grid">
+      {ready.map((key) => (
+        <li>
+          <a class="wf-ready__card" href={guidePath(kind, locale, key)}>
+            <span class="wf-ready__diamond" style={`--wf-diamond: ${eras[key].color};`} aria-hidden="true"></span>
+            <span class="wf-ready__name">{eras[key].name}</span>
+            <span class="wf-ready__sub">{sub(key)}</span>
+            <span class="wf-ready__n">{counts[key]}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .wf-pending {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 26px;
+    padding: 26px;
+    border: 1px dashed #2c3a5c;
+    border-radius: 14px;
+    background: rgba(18, 26, 48, .5);
+  }
+
+  :global(:root[data-theme="day"]) .wf-pending { border-color: var(--wf-border); background: var(--wf-raised); }
+
+  @media (prefers-color-scheme: light) {
+    :global(:root:not([data-theme="night"]):not([data-theme="day"])) .wf-pending {
+      border-color: var(--wf-border);
+      background: var(--wf-raised);
+    }
+  }
+
+  .wf-pending__text { flex: 1 1 420px; min-width: 0; }
+
+  .wf-pending__eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 11.5px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wf-label);
+  }
+
+  .wf-pending__diamond {
+    width: 8px;
+    height: 8px;
+    background: var(--wf-label);
+    transform: rotate(45deg);
+  }
+
+  .wf-pending__title {
+    margin: 10px 0 8px;
+    font-size: 24px;
+    line-height: 1.2;
+  }
+
+  .wf-pending__body {
+    max-width: 60ch;
+    font-size: 14.5px;
+    line-height: 1.65;
+    color: var(--wf-muted);
+  }
+
+  .wf-pending__actions {
+    flex: none;
+    min-width: 230px;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+  }
+
+  .wf-pending__button {
+    display: block;
+    padding: 10px 16px;
+    border: 1px solid var(--wf-accent-deep);
+    border-radius: var(--wf-r-pill);
+    background: var(--wf-accent-soft);
+    color: var(--wf-accent-bright);
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 12.5px;
+    letter-spacing: .12em;
+    text-align: center;
+    text-transform: uppercase;
+    transition: var(--wf-transition);
+  }
+
+  .wf-pending__button:hover { box-shadow: var(--wf-glow-card); }
+
+  .wf-ready { margin-top: 28px; }
+
+  .wf-ready__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+
+  .wf-ready__eyebrow {
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+  }
+
+  .wf-ready__count { font-size: 12.5px; color: var(--wf-label); }
+
+  .wf-ready__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .wf-ready__card {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    grid-template-rows: auto auto;
+    column-gap: 10px;
+    align-items: center;
+    padding: 11px 13px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card-sm);
+    background: var(--wf-raised-soft);
+    transition: var(--wf-transition);
+  }
+
+  .wf-ready__card:hover { border-color: var(--wf-accent-deep); }
+
+  .wf-ready__diamond {
+    grid-row: 1 / span 2;
+    width: 9px;
+    height: 9px;
+    background: var(--wf-diamond);
+    transform: rotate(45deg);
+  }
+
+  .wf-ready__name { font-family: var(--wf-serif); font-weight: 600; font-size: 15px; color: var(--wf-ink); }
+  .wf-ready__sub { grid-column: 2; font-size: 12px; color: var(--wf-label); }
+  .wf-ready__n { grid-column: 3; grid-row: 1 / span 2; font-size: 13px; color: var(--wf-muted); font-variant-numeric: tabular-nums; }
+
+  @media (max-width: 899px) {
+    .wf-pending { padding: 18px; gap: 18px; }
+    .wf-pending__actions { min-width: 0; flex: 1 1 100%; }
+    .wf-ready__grid { grid-template-columns: minmax(0, 1fr); }
+  }
+</style>

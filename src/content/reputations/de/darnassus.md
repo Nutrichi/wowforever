@@ -1,0 +1,68 @@
+---
+title: "Rufguide für Darnassus"
+description: "Darnassus in WoW Forever, auf Basis von Classic Era: wo du startest, die Stoffabgaben bei Raedon Duskstriker, Ruf aus Quests und die Säbler auf Exalted."
+lang: de
+manual: true
+updated: 2026-09-15
+faction: "Darnassus"
+zone: "Darnassus und Teldrassil"
+side: alliance
+start: friendly
+cap: exalted
+method: "Erledige Quests für Darnassus, gib Stoff bei Raedon Duskstriker in der Craftsmen's Terrace ab und wiederhole Additional Runecloth."
+rewards: "10 Prozent Rabatt ab Honored, und auf Exalted die Säbler von Lelanai für die anderen Völker der Allianz."
+sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/classic/faction=69"
+---
+Darnassus ist die Fraktion von Darnassus, der Hauptstadt der Nachtelfen auf dem Weltenbaum Teldrassil. High Priestess Tyrande Whisperwind führt sie vom Temple of the Moon aus. Der Ruf gilt nur für die Allianz.
+
+## Wo du startest
+
+Wo du startest, hängt von deinem Volk ab. Das sind die Werte aus den Fraktionsdaten des Classic-Era-Clients, die die Datenbank wago.tools aus Build 1.15.9 ausliest.
+
+| Dein Volk | Rufstufe am Anfang |
+|---|---|
+| Night Elf | Friendly, 1.000 in der Stufe |
+| Human, Dwarf, Gnome | Friendly, 100 in der Stufe |
+| Orc, Forsaken, Tauren, Troll | Hated, ganz unten |
+
+Friendly umfasst 6.000 Ruf, ein Charakter aus dem eigenen Volk der Stadt startet also mit 900 Vorsprung vor dem Rest seiner Seite.
+
+## Die Rufstufen
+
+| Rufstufe | Ruf innerhalb der Stufe | Nötig ab dem Beginn von Friendly |
+|---|---|---|
+| Friendly | 6.000 | 0 |
+| Honored | 12.000 | 6.000 |
+| Revered | 21.000 | 18.000 |
+| Exalted | 1.000 | 39.000 |
+
+## Woher der Ruf kommt
+
+### Quests
+
+Quests für Darnassus geben den meisten Ruf. Wowhead nennt Teldrassil, Darkshore, Ashenvale, die Stonetalon Mountains, Thousand Needles und Feralas. Die meisten Quests für eine Stadt der Allianz geben auch ein Viertel dieses Rufs an die anderen Städte der Allianz.
+
+### Stoffabgaben
+
+Raedon Duskstriker, der Alliance Cloth Quartermaster in der Craftsmen's Terrace von Darnassus, nimmt Stoff an. Jede Quest öffnet die nächste, nur für Darnassus; Additional Runecloth öffnet sich nach den vier Abgaben.
+
+| Quest | Stufe | Verlangt | Ruf | Erfahrung |
+|---|---|---|---|---|
+| A Donation of Wool | 12 | 60 Wool Cloth | 150 | 650 |
+| A Donation of Silk | 26 | 60 Silk Cloth | 150 | 1.650 |
+| A Donation of Mageweave | 40 | 60 Mageweave Cloth | 150 | 3.300 |
+| A Donation of Runecloth | 50 | 60 Runecloth | 150 | 6.600 |
+| Additional Runecloth, wiederholbar | 50 | 20 Runecloth | 50 | 0 |
+
+## Der schnellste Weg nach Exalted
+
+1. Erledige die Quests in den Zonen oben; der Ruf färbt auch auf die anderen Städte der Allianz ab.
+2. Gib die vier Stoffabgaben ab, sobald deine Stufe es zulässt: 600 Ruf.
+3. Wiederhole danach Additional Runecloth. Allein von Revered bis Exalted sind das 420 Abgaben oder 8.400 Runecloth.
+
+## Belohnungen
+
+- **Ab Honored:** 10 Prozent Rabatt bei den Händlern von Darnassus, auf Reparaturen, Ausbildung und Flüge.
+- **Auf Exalted:** Charaktere der anderen Völker der Allianz können bei Lelanai im Cenarion Enclave von Darnassus Säbler kaufen.

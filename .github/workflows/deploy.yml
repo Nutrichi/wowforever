@@ -1,0 +1,95 @@
+# Bouwt de site en zet hem op GitHub Pages.
+#
+# De Pages-bron moet op "GitHub Actions" staan (Settings → Pages → Build and
+# deployment → Source). Anders draait bij elke push ook GitHub's eigen
+# Jekyll-bouw, die naar dezelfde site publiceert en tegen deze workflow racet.
+#
+# Clips en Streams (PROJECT_SPEC.md §7): de workflow draait ook op schema.
+# Vlak voor de build haalt scripts/fetch-feeds.mjs de streams en de clips op.
+# Er wordt niets gecommit; de opgehaalde bestanden gaan van run naar run mee
+# in de cache. YouTube wordt maar één keer per uur gevraagd, dat regelt het
+# script zelf. De sleutels zijn repository secrets.
+#
+# De Node-versie komt uit .nvmrc, zodat de Action en de machines nooit uit
+# elkaar lopen.
+#
+# upload-pages-artifact neemt geen bestanden mee waarvan de naam met een punt
+# begint. Komt er ooit zo'n bestand bij dat wel online moet, zet dan
+# `include-hidden-files: true` bij die stap.
+
+name: Deploy naar GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  # Elk kwartier, maar bewust niet op :00, :15, :30 en :45: dat zijn de
+  # drukste momenten bij GitHub, en daar worden geplande runs het eerst
+  # uitgesteld of weggelaten. In de praktijk start GitHub ze om de één tot vijf
+  # uur, en dat is goed zo (§7).
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Eén deploy tegelijk; een nieuwe push wacht netjes op zijn beurt.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+
+      # De vorige ophaling terug. Zo hoeft YouTube niet bij elke run, en heeft
+      # de site nog iets als een API even niet antwoordt.
+      - name: Vorige feeds terughalen
+        uses: actions/cache/restore@v6
+        with:
+          path: src/data/generated
+          key: feeds-${{ github.run_id }}
+          restore-keys: feeds-
+
+      - name: Clips en streams ophalen
+        run: npm run feeds
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
+      - name: Feeds bewaren voor de volgende run
+        if: hashFiles('src/data/generated/*.json') != ''
+        uses: actions/cache/save@v6
+        with:
+          path: src/data/generated
+          key: feeds-${{ github.run_id }}
+
+      - run: npm run build
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

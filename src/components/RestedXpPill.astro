@@ -1,0 +1,72 @@
+---
+/*
+ * De RestedXP-pil (handoff §6.3). Een inkomstenvereiste: hij staat op elke
+ * pagina, rechts in de tweede balk, en onderaan het mobiele menu
+ * (PROJECT_SPEC.md §1).
+ *
+ * Overal de brede vorm (`RESTEDXP · 10% OFF`), ook op de pagina's waar de
+ * balk de era-rij draagt (Nutri, 15 september 2026). De handoff tekende daar
+ * de smalle vorm (`−10%`); Nutri wil overal hetzelfde. Op een heel smal
+ * scherm valt de brede tekst nog altijd terug op de smalle, anders past de
+ * balk niet.
+ *
+ * `rel="sponsored"`, want het is een partnerlink.
+ */
+import type { Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+import { restedxpUrl } from '../config/site';
+
+interface Props {
+  locale: Locale;
+  wide?: boolean;
+}
+
+const { locale, wide = false } = Astro.props;
+const t = useTranslations(locale);
+const size = wide ? 22 : 20;
+---
+
+<a
+  class:list={['wf-rxp', { 'is-wide': wide }]}
+  href={restedxpUrl}
+  rel="noopener sponsored"
+  target="_blank"
+  aria-label={t('restedxp.aria')}
+>
+  <img class="wf-rxp__icon" src="/assets/restedxp.png" width={size} height={size} alt="" />
+  {wide && <span class="wf-rxp__text is-long" aria-hidden="true">{t('restedxp.wide')}</span>}
+  <span class:list={['wf-rxp__text', 'is-short', { 'only-narrow': wide }]} aria-hidden="true">{t('restedxp.short')}</span>
+</a>
+
+<style>
+  .wf-rxp {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 5px 13px 5px 6px;
+    border-radius: var(--wf-r-pill);
+    background: var(--wf-button);
+    color: var(--wf-button-ink);
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: .08em;
+    white-space: nowrap;
+    transition: box-shadow .16s ease;
+  }
+
+  .wf-rxp:hover { box-shadow: var(--wf-glow-primary); }
+
+  .wf-rxp__icon {
+    flex: none;
+    border-radius: 999px;
+  }
+
+  /* In de brede vorm staat de korte tekst er alleen op een heel smal scherm. */
+  .only-narrow { display: none; }
+
+  @media (max-width: 420px) {
+    .is-long { display: none; }
+    .only-narrow { display: inline; }
+  }
+</style>

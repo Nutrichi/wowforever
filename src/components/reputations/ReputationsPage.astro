@@ -1,0 +1,82 @@
+---
+/*
+ * REPUTATIONS op /reputations/ (PROJECT_SPEC.md §5, handoff §7.5).
+ *
+ * Alleen voor WoW Forever (Nutri, 15 september 2026), dus zonder era-rij. Een
+ * rij per factie, in groepen: eerst de facties voor iedereen, dan Alliance, dan
+ * Horde. Elke rij toont de naam, de zone en voor wie, hoe je farmt, wat er te
+ * halen is en van welke standing tot welke.
+ *
+ * De balk met een "community average" en het snelheidslabel uit de handoff
+ * staan er bewust niet: daar bestaan geen cijfers voor (SCHRIJFSTIJL.md).
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { standingNames } from '../../config/reputations';
+import { getReputations, reputationPath, reputationsUpdated } from '../../lib/reputations';
+import { repT } from '../../i18n/reputations';
+import { longDate } from '../../lib/date';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import '../../styles/guides.css';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = repT(locale);
+const ui = useTranslations(locale);
+const factions = await getReputations(locale);
+const updated = await reputationsUpdated();
+const side = { alliance: t('sideAlliance'), horde: t('sideHorde'), both: t('sideBoth') };
+const groupTitle = { both: t('groupBoth'), alliance: t('groupAlliance'), horde: t('groupHorde') };
+const groups = (['both', 'alliance', 'horde'] as const)
+  .map((key) => ({ key, items: factions.filter((faction) => faction.data.side === key) }))
+  .filter((group) => group.items.length > 0);
+
+const title = t('title');
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: ui('nav.reputations'), path: reputationPath(locale) },
+];
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+---
+
+<BaseLayout locale={locale} title={title} description={t('description')}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <div class="wf-reppage">
+    <header class="wf-ghead">
+      <div class="wf-ghead__main">
+        <h1 class="wf-ghead__title">{title}</h1>
+        <p class="wf-ghead__intro">{t('intro')}</p>
+      </div>
+      {updated && <p class="wf-ghead__count">{t('count', { n: factions.length, date: longDate(updated, locale) })}</p>}
+    </header>
+
+    {groups.map((group) => (
+      <section class="wf-repgroup" aria-labelledby={groups.length > 1 ? `wf-rep-${group.key}` : undefined}>
+        {groups.length > 1 && <h2 class="wf-glabel" id={`wf-rep-${group.key}`}>{groupTitle[group.key]}</h2>}
+        <ul class="wf-reps">
+          {group.items.map((faction) => (
+            <li class="wf-rep">
+              <div class="wf-rep__main">
+                <p class="wf-rep__name"><a href={faction.href}>{faction.data.faction}</a></p>
+                <p class="wf-rep__sub">{faction.data.zone} · {side[faction.data.side]}</p>
+              </div>
+              <p class="wf-rep__method"><span class="wf-sr">{t('method')}: </span>{faction.data.method}</p>
+              <p class="wf-rep__rewards"><span class="wf-sr">{t('rewards')}: </span>{faction.data.rewards}</p>
+              <p class="wf-rep__range">{t('range', { start: standingNames[faction.data.start], cap: standingNames[faction.data.cap] })}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</BaseLayout>
+
+<style>
+  .wf-reppage { padding-block: 6px 40px; }
+  .wf-repgroup + .wf-repgroup { margin-top: 26px; }
+</style>

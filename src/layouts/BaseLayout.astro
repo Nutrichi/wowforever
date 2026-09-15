@@ -1,0 +1,343 @@
+---
+/*
+ * De gedeelde layout. Elke pagina van de site loopt hierlangs.
+ *
+ * Twee dingen die bewust op één plek staan:
+ *
+ * 1. De GA4-tag (PROJECT_SPEC.md §11.1). Die zit achter `index`. Aan betekent
+ *    indexeerbaar plus de tag; uit betekent noindex en geen tag. Nooit met de
+ *    hand in een losse pagina. Eén uitzondering zet `analytics` expliciet aan:
+ *    de 404-pagina, noindex maar met de tag.
+ * 2. Het thema. Een klein inline scriptje zet data-theme vóór de eerste
+ *    paint, zodat er geen lichtflits is.
+ *
+ * De tweede balk (aftelchip, era-rij, RestedXP) staat op elke pagina. Een
+ * pagina die de era-schakelaar nodig heeft, geeft die mee in de slot `bar`.
+ */
+import { defaultLocale, localeTags, type Locale } from '../i18n/ui';
+import { alternateLinks, useTranslations } from '../i18n/utils';
+import { getNav } from '../config/nav';
+import { ga4Id } from '../config/site';
+import Header from '../components/Header.astro';
+import MobileMenu from '../components/MobileMenu.astro';
+import SecondBar from '../components/SecondBar.astro';
+import Spine from '../components/Spine.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/fonts.css';
+import '../styles/tokens.css';
+import '../styles/global.css';
+
+interface Props {
+  locale: Locale;
+  title?: string;
+  description?: string;
+  /** Aan: GA4 en indexeerbaar. Uit: noindex en geen GA4. */
+  index?: boolean;
+  /**
+   * De GA4-tag los van `index`. Alleen voor de 404-pagina: die hoort niet in
+   * een zoekmachine, maar Analytics moet wel zien welke adressen stuk zijn.
+   */
+  analytics?: boolean;
+  /** Zet de tweede balk uit. */
+  countdown?: boolean;
+  /** Het deelbeeld. Een post geeft zijn eigen beeld mee (§11). */
+  image?: string;
+  /** `article` op een postpagina, `website` op de rest. */
+  ogType?: 'website' | 'article';
+  /**
+   * Het pad dat de taalkiezer gebruikt. Standaard de pagina zelf, zodat je
+   * bij het wisselen van taal blijft staan. De 404 zet het op `/`: die pagina
+   * bestaat maar één keer, dus `/nl/404/` en de rest bestaan niet.
+   */
+  langPath?: string;
+}
+
+const {
+  locale,
+  title,
+  description,
+  index = true,
+  analytics,
+  countdown = true,
+  image,
+  ogType = 'website',
+  langPath,
+} = Astro.props;
+
+const t = useTranslations(locale);
+const pathname = langPath ?? Astro.url.pathname;
+const nav = await getNav(locale);
+const hasBarContent = Astro.slots.has('bar');
+/*
+ * De era-schakelaar staat twee keer in de HTML: in de tweede balk op desktop,
+ * bovenaan de pagina op mobiel. Zo blijft de vastgeplakte balk overal even hoog.
+ */
+const barHtml = hasBarContent ? await Astro.slots.render('bar') : '';
+
+const withAnalytics = analytics ?? index;
+/*
+ * Zonder eigen titel is dit een homepage (elke andere pagina geeft er een
+ * mee), en die krijgt de titel die in Google moet staan, vertaald per taal.
+ * De sitenaam in og:site_name en de JSON-LD blijft gewoon WoW Forever.
+ */
+const pageTitle = title ? `${title} · ${t('site.title')}` : t('site.homeTitle');
+const pageDescription = description ?? t('site.description');
+
+const siteUrl = Astro.site ?? new URL('https://wowforever.be');
+const canonical = new URL(Astro.url.pathname, siteUrl).href;
+const alternates = alternateLinks(pathname, Astro.site);
+const xDefault = alternates.find((a) => a.locale === defaultLocale);
+
+/*
+ * De taal van deze browser (§8). Het script in de head krijgt dezelfde pagina
+ * in alle zes de talen mee, en de taal van deze pagina. Alleen op een
+ * indexeerbare pagina.
+ */
+const langTargets = index
+  ? Object.fromEntries(alternates.map((alt) => [alt.locale, new URL(alt.href).pathname]))
+  : null;
+const langCurrent = locale;
+const fallbackImage = '/assets/og-image.png';
+const ogImage = new URL(image ?? fallbackImage, siteUrl).href;
+
+/** Woordelijk de snippet uit §11.1, met het meet-ID uit config/site.ts. */
+const gtagSnippet = `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', '${ga4Id}');`;
+---
+
+<!doctype html>
+<html lang={localeTags[locale]}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!--
+      De taal van deze browser (PROJECT_SPEC.md §8). Staat vóór de Google-tag,
+      zodat een doorgestuurd bezoek niet dubbel telt. Op de server kan het
+      niet: GitHub Pages leest de browsertaal niet.
+
+      1. Zelf gekozen (wf-lang, geschreven door de taalkiezer): die taal ligt
+         vast voor deze browser.
+      2. Nog niets gekozen: één keer per browser (wf-lang-auto) kijkt het
+         script naar navigator.languages, en alleen vanuit het Engels.
+
+      Zonder localStorage gebeurt er niets. Zoekmachines merken er niets van.
+    -->
+    {index && (
+      <script is:inline define:vars={{ langTargets, langCurrent }}>
+        (function () {
+          try {
+            var go = function (code) {
+              if (code !== langCurrent && langTargets[code]) {
+                // Een later scriptje (zoals de era op /bis/) stuurt dan niet meer door.
+                window.__wfLeaving = true;
+                window.location.replace(langTargets[code] + window.location.search + window.location.hash);
+              }
+            };
+
+            var chosen = localStorage.getItem('wf-lang');
+            if (chosen) {
+              go(chosen);
+              return;
+            }
+
+            if (localStorage.getItem('wf-lang-auto')) return;
+            localStorage.setItem('wf-lang-auto', '1');
+            if (langCurrent !== 'en') return;
+
+            var wanted = navigator.languages && navigator.languages.length
+              ? navigator.languages
+              : [navigator.language || ''];
+            for (var i = 0; i < wanted.length; i += 1) {
+              var code = String(wanted[i]).toLowerCase().split('-')[0];
+              if (code === 'en') return;
+              if (langTargets[code]) {
+                go(code);
+                return;
+              }
+            }
+          } catch (error) {
+            // Privémodus of geblokkeerde opslag: dan blijft de pagina zoals ze is.
+          }
+        })();
+      </script>
+    )}
+
+    <!--
+      Google tag (gtag.js). Hoog in de head, meteen na charset en viewport en
+      vóór de title, en alleen op een indexeerbare pagina (§11.1).
+    -->
+    {withAnalytics && (
+      <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`}></script>
+    )}
+    {withAnalytics && <script is:inline set:html={gtagSnippet} />}
+    {!index && <meta name="robots" content="noindex, nofollow" />}
+    {index && <meta name="robots" content="index, follow, max-image-preview:large" />}
+
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDescription} />
+    <meta name="generator" content={Astro.generator} />
+
+    <link rel="canonical" href={canonical} />
+    <!-- Taalversies alleen op een indexeerbare pagina. -->
+    {index && alternates.map((alt) => (
+      <link rel="alternate" hreflang={alt.hreflang} href={alt.href} />
+    ))}
+    {index && xDefault && <link rel="alternate" hreflang="x-default" href={xDefault.href} />}
+
+    <!-- Alles gemaakt door tools/mkicon.py; Google wil een veelvoud van 48 px. -->
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96.png" />
+    <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={t('site.title')} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageDescription} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:locale" content={localeTags[locale]} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={pageDescription} />
+    <meta name="twitter:image" content={ogImage} />
+
+    <!-- De lettertypes staan op de site zelf; wat boven de vouw nodig is, laadt vooraf. -->
+    <link rel="preload" href="/fonts/barlow-400-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/oswald-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/cinzel-600-latin.woff2" as="font" type="font/woff2" crossorigin />
+
+    <!-- Gestructureerde data en wat een losse pagina verder nodig heeft (§11). -->
+    <slot name="head" />
+
+    <script is:inline>
+      // Vóór de eerste paint: is er een keuze bewaard, pas die dan meteen toe.
+      // Zonder keuze blijft het attribuut weg en beslist prefers-color-scheme.
+      (function () {
+        try {
+          var saved = localStorage.getItem('wf-theme');
+          if (saved === 'night' || saved === 'day') {
+            document.documentElement.setAttribute('data-theme', saved);
+          }
+        } catch (error) {
+          // Privémodus of geblokkeerde opslag: dan doet het systeemthema het werk.
+        }
+      })();
+    </script>
+  </head>
+
+  <body>
+    <a class="wf-skip" href="#wf-content">{t('skip.content')}</a>
+
+    <!--
+      Koptekst en tweede balk plakken samen vast in één omhulling. Die
+      omhulling is het banner-landmark, zodat ook de tweede balk (aftelchip,
+      era-schakelaar, RestedXP) binnen een landmark valt; anders staat die
+      inhoud nergens in en klaagt axe over `region`.
+    -->
+    <header class="wf-top">
+      <Header locale={locale} nav={nav} pathname={pathname} />
+      {countdown && (
+        <SecondBar locale={locale} hasContent={hasBarContent}>
+          <Fragment set:html={barHtml} />
+        </SecondBar>
+      )}
+    </header>
+
+    <div class="wf-shell">
+      <Spine />
+      <main class="wf-main" id="wf-content">
+        {barHtml && <div class="wf-barline"><Fragment set:html={barHtml} /></div>}
+        <slot />
+      </main>
+    </div>
+
+    <Footer locale={locale} />
+    <MobileMenu locale={locale} nav={nav} pathname={pathname} />
+
+    <script is:inline>
+      // Een menulink naar een sectie met era's gaat meteen naar de bewaarde era,
+      // zonder eerst via het overzicht door te sturen.
+      (function () {
+        try {
+          var era = localStorage.getItem('wf-era');
+          if (!era) return;
+          document.querySelectorAll('a[data-wf-era-links]').forEach(function (link) {
+            var eras = (link.getAttribute('data-wf-era-links') || '').split(' ');
+            if (eras.indexOf(era) !== -1) link.setAttribute('href', link.getAttribute('href') + era + '/');
+          });
+        } catch (error) {
+          // Niets bewaard of geen opslag: de link blijft naar het overzicht wijzen.
+        }
+      })();
+    </script>
+
+    <script>
+      /*
+       * De themaschakelaar. Het inline scriptje in de head heeft het thema al
+       * gezet; dit zorgt voor het wisselen en houdt de labels gelijk.
+       */
+      const KEY = 'wf-theme';
+      const root = document.documentElement;
+      const toggles = document.querySelectorAll<HTMLElement>('[data-wf-theme-toggle]');
+      const values = document.querySelectorAll<HTMLElement>('[data-wf-theme-value]');
+      const system = window.matchMedia('(prefers-color-scheme: light)');
+
+      const read = () => {
+        try {
+          const saved = localStorage.getItem(KEY);
+          return saved === 'night' || saved === 'day' ? saved : null;
+        } catch (error) {
+          return null;
+        }
+      };
+
+      /** Wat er nu op het scherm staat, gekozen of van het systeem. */
+      const active = (): 'night' | 'day' => {
+        const attr = root.getAttribute('data-theme');
+        if (attr === 'night' || attr === 'day') return attr;
+        return system.matches ? 'day' : 'night';
+      };
+
+      const label = (theme: 'night' | 'day') => {
+        const first = toggles[0];
+        if (!first) return theme;
+        return theme === 'day'
+          ? (first.dataset.labelDay ?? 'Day')
+          : (first.dataset.labelNight ?? 'Night');
+      };
+
+      const sync = () => {
+        const current = active();
+        values.forEach((el) => { el.textContent = label(current); });
+      };
+
+      toggles.forEach((toggle) => {
+        toggle.addEventListener('click', () => {
+          const next = active() === 'night' ? 'day' : 'night';
+          root.setAttribute('data-theme', next);
+          try {
+            localStorage.setItem(KEY, next);
+          } catch (error) {
+            // Niets bewaren kan; het thema geldt dan alleen voor deze pagina.
+          }
+          sync();
+        });
+      });
+
+      // Verandert het systeemthema en heeft de bezoeker zelf niets gekozen,
+      // dan schuift de site mee.
+      system.addEventListener('change', () => {
+        if (!read()) sync();
+      });
+
+      sync();
+    </script>
+  </body>
+</html>

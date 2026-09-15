@@ -1,0 +1,16 @@
+---
+/*
+ * /compare/ en de pagina's eronder, in het Engels (PROJECT_SPEC.md §4.4). Een
+ * pagina bestaat alleen als er een Engelse tekst voor is (§4.2).
+ */
+import SitePage from '../../components/pages/SitePage.astro';
+import { pageSlugs } from '../../lib/pages';
+
+export async function getStaticPaths() {
+  return (await pageSlugs('compare')).map((slug) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params;
+---
+
+<SitePage locale="en" pageKey={slug ? `compare/${slug}` : 'compare'} />

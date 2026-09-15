@@ -1,0 +1,200 @@
+---
+/*
+ * Zoekveld. Twee taken in één veld (§15, fase 5):
+ *
+ * - Op een pagina met een pillijst filtert het die lijst live op titel
+ *   (src/scripts/pill-list.ts). Enter toont daarbovenop de resultaten van de
+ *   hele site.
+ * - Overal elders zoekt het tijdens het typen over de hele site, met Pagefind
+ *   (src/scripts/site-search.ts).
+ *
+ * Zonder JavaScript komt de zoekterm als ?q= op de homepage terecht, en daar
+ * filtert de lijst hem.
+ */
+import type { Locale } from '../i18n/ui';
+import { localizePath, useTranslations } from '../i18n/utils';
+import Icon from './Icon.astro';
+
+interface Props {
+  locale: Locale;
+  variant?: 'bar' | 'block';
+}
+
+const { locale, variant = 'bar' } = Astro.props;
+const t = useTranslations(locale);
+const action = localizePath('', locale);
+---
+
+<div
+  class:list={['wf-searchbox', variant === 'block' && 'is-block']}
+  data-wf-search
+  data-label-none={t('search.none')}
+  data-label-one={t('search.countOne')}
+  data-label-many={t('search.countMany')}
+>
+  <form class="wf-search" role="search" action={action} method="get">
+    <Icon name="search" size={14} class="wf-search__icon" />
+    <label class="wf-sr" for={`wf-q-${variant}`}>{t('search.label')}</label>
+    <input
+      id={`wf-q-${variant}`}
+      class="wf-search__input"
+      type="search"
+      name="q"
+      placeholder={t('search.placeholder')}
+      autocomplete="off"
+    />
+  </form>
+
+  <div class="wf-results" data-wf-results hidden>
+    <p class="wf-results__status" data-wf-results-status aria-live="polite"></p>
+    <ul class="wf-results__list" data-wf-results-list></ul>
+  </div>
+</div>
+
+<style>
+  .wf-searchbox {
+    position: relative;
+    flex: none;
+  }
+
+  .wf-search {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 150px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-field);
+    padding: 7px 12px;
+    color: var(--wf-muted);
+    transition: var(--wf-transition);
+  }
+
+  .wf-search:focus-within { border-color: var(--wf-arcane); }
+
+  .wf-search__icon {
+    stroke: var(--wf-muted);
+    fill: none;
+  }
+
+  .wf-search__input {
+    flex: 1 1 auto;
+    min-width: 0;
+    border: 0;
+    background: none;
+    font: inherit;
+    font-size: 13.5px;
+    color: var(--wf-ink);
+  }
+
+  .wf-search__input::placeholder { color: var(--wf-muted); }
+  .wf-search__input:focus { outline: none; }
+
+  /* Weg met het kruisje dat WebKit er zelf in zet. */
+  .wf-search__input::-webkit-search-cancel-button { -webkit-appearance: none; }
+
+  /* --- De resultaten van de hele site --- */
+  .wf-results {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    z-index: 30;
+    width: min(420px, calc(100vw - 32px));
+    max-height: min(70vh, 520px);
+    overflow-y: auto;
+    padding: 8px;
+    background: var(--wf-bg);
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-field-lg);
+    box-shadow: 0 18px 40px rgba(7, 6, 15, .55);
+  }
+
+  .wf-results__status {
+    padding: 4px 10px 8px;
+    font-size: 12px;
+    color: var(--wf-muted);
+  }
+
+  .wf-results__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  /*
+   * `:global`, want het script maakt deze elementen pas aan, en die dragen
+   * het scope-attribuut van dit bestand niet.
+   */
+  .wf-results :global(.wf-results__item) {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 8px 10px;
+    border: 1px solid transparent;
+    border-radius: var(--wf-r-field);
+    transition: var(--wf-transition);
+  }
+
+  .wf-results :global(.wf-results__item:hover),
+  .wf-results :global(.wf-results__item:focus-visible) {
+    border-color: var(--wf-arcane);
+    outline: none;
+  }
+
+  .wf-results :global(.wf-results__title) {
+    font-size: 14px;
+    color: var(--wf-ink-soft);
+  }
+
+  .wf-results :global(.wf-results__excerpt) {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-size: 12.5px;
+    line-height: 1.45;
+    color: var(--wf-muted);
+  }
+
+  .wf-results :global(mark) {
+    background: none;
+    color: var(--wf-arcane);
+  }
+
+  /* --- Blokvariant: het veld bovenaan het mobiele menu --- */
+  .is-block { width: 100%; }
+
+  .is-block .wf-search {
+    border-radius: var(--wf-r-field-xl);
+    padding: 11px 13px;
+    background: var(--wf-raised);
+  }
+
+  .is-block .wf-search__input { font-size: 14.5px; }
+
+  /* In het menu schuiven de resultaten gewoon onder het veld, zonder zweven. */
+  .is-block .wf-results {
+    position: static;
+    width: auto;
+    max-height: none;
+    margin-top: 8px;
+    box-shadow: none;
+  }
+</style>
+
+<!--
+  Pagefind laden, buiten de bundelaar om. Vite verpakt elke import() in een
+  hulpfunctie die hij pas na het bundelen invult, en Astro zet kleine scripts
+  inline in de HTML; daar bleef die hulpfunctie leeg, met een fout bij elke
+  toetsaanslag (11 september 2026). Een is:inline-script raakt Vite niet aan.
+  Het veld staat twee keer op de pagina (koptekst en menu), vandaar ??=.
+-->
+<script is:inline>
+  window.wfLoadPagefind ??= () => import('/pagefind/pagefind.js');
+</script>
+
+<script>
+  import '../scripts/site-search';
+</script>

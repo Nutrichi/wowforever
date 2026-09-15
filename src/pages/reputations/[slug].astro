@@ -1,0 +1,14 @@
+---
+/* Eén factie onder REPUTATIONS in het Engels: /reputations/<slug>/. */
+import ReputationDetailPage from '../../components/reputations/ReputationDetailPage.astro';
+import { getReputation, getReputations } from '../../lib/reputations';
+
+export async function getStaticPaths() {
+  return (await getReputations('en')).map((reputation) => ({ params: { slug: reputation.slug } }));
+}
+
+const reputation = await getReputation(Astro.params.slug!, 'en');
+if (!reputation) throw new Error(`Onbekende factie: ${Astro.params.slug}`);
+---
+
+<ReputationDetailPage locale="en" reputation={reputation} />

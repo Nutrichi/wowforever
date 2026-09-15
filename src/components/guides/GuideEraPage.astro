@@ -1,0 +1,92 @@
+---
+/*
+ * De pagina van één era onder CLASSES of TRADESKILLS, gedeeld door alle
+ * routes en talen: /classes/, /classes/<era>/, /tradeskills/ en
+ * /tradeskills/<era>/ (PROJECT_SPEC.md §5).
+ *
+ * Hier staan de layout, de era-schakelaar en de gestructureerde data; de
+ * inhoud komt uit een van de vier weergaven. Forever staat op het overzicht
+ * zelf (`/classes/`) en stuurt, net als /bis/, een bezoeker die eerder een
+ * andere era koos meteen door naar die era.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import { eras, eraStorageKey, type EraKey } from '../../config/eras';
+import { guideTabEras, skillRange, type GuideEra } from '../../config/guides';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EraTabs from '../EraTabs.astro';
+import ClassesForever from './ClassesForever.astro';
+import ClassesEraView from './ClassesEraView.astro';
+import TradeskillsForever from './TradeskillsForever.astro';
+import TradeskillsEraView from './TradeskillsEraView.astro';
+import { guideCounts, guideHrefs, guidePath, type GuideKind } from '../../lib/guides';
+import { guideT } from '../../i18n/guides';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+
+interface Props {
+  locale: Locale;
+  kind: GuideKind;
+  era: 'forever' | GuideEra;
+}
+
+const { locale, kind, era } = Astro.props;
+const t = guideT(locale);
+const ui = useTranslations(locale);
+const forever = era === 'forever';
+const name = eras[era].name;
+
+const title = kind === 'classes'
+  ? (forever ? t('classesForeverTitle') : t('classesHubTitle', { era: name }))
+  : (forever ? t('tradeskillsForeverTitle') : t('tradeskillsHubTitle', { era: name }));
+const description = kind === 'classes'
+  ? (forever ? t('classesForeverDescription') : t('classesDescription', { era: name }))
+  : (forever ? t('tradeskillsForeverDescription') : t('tradeskillsDescription', { era: name, range: skillRange[era] }));
+
+const hrefs = guideHrefs(kind, locale);
+/* Forever heeft altijd inhoud: wat al bekend is uit de beta en BlizzCon. */
+const counts: Partial<Record<EraKey, number>> = { ...(await guideCounts(kind)), forever: 1 };
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: ui(kind === 'classes' ? 'nav.classes' : 'nav.tradeskills'), path: guidePath(kind, locale) },
+  ...(forever ? [] : [{ name, path: guidePath(kind, locale, era) }]),
+];
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+
+const redirect = forever ? { hrefs, storageKey: eraStorageKey } : null;
+---
+
+<BaseLayout locale={locale} title={title} description={description}>
+  {redirect && (
+    <script is:inline slot="head" define:vars={redirect}>
+      (function () {
+        try {
+          if (window.__wfLeaving) return;
+          var params = new URLSearchParams(window.location.search);
+          var wanted = params.get('era') || localStorage.getItem(storageKey);
+          if (!wanted || wanted === 'forever' || !hrefs[wanted]) return;
+          params.delete('era');
+          var query = params.toString();
+          window.__wfLeaving = true;
+          window.location.replace(hrefs[wanted] + (query ? '?' + query : '') + window.location.hash);
+        } catch (error) {
+          // Niets bewaard of geen opslag: dan blijft de bezoeker op Forever.
+        }
+      })();
+    </script>
+  )}
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <EraTabs slot="bar" locale={locale} current={era} hrefs={hrefs} counts={counts} keys={guideTabEras} />
+
+  <div class="wf-guidepage">
+    {kind === 'classes' && forever && <ClassesForever locale={locale} title={title} />}
+    {kind === 'classes' && !forever && <ClassesEraView locale={locale} era={era as GuideEra} title={title} />}
+    {kind === 'tradeskills' && forever && <TradeskillsForever locale={locale} title={title} />}
+    {kind === 'tradeskills' && !forever && <TradeskillsEraView locale={locale} era={era as GuideEra} title={title} />}
+  </div>
+</BaseLayout>
+
+<style>
+  .wf-guidepage { padding-block: 6px 40px; }
+</style>

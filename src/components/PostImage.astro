@@ -1,0 +1,226 @@
+---
+/*
+ * Het beeld van een post. Twee maten: het uitgelichte blok op de homepage
+ * en het kopbeeld van de postpagina.
+ *
+ * Astro schaalt en comprimeert het bij het bouwen, schrijft breedte en
+ * hoogte mee tegen layout shift en laadt lui waar dat mag (§14). Nutri hoeft
+ * niet aan bestandsgrootte te denken.
+ *
+ * Zonder beeld komt er een gestreepte plek in de twee slotkleuren met
+ * dezelfde sfeerlaag eroverheen. Sinds 13 september 2026 mag een post als
+ * beeld ook een officieel beeld van Blizzard dragen, uit de persbeelden of
+ * de officiële website (§2.4); het beeld van een ander medium
+ * nooit.
+ */
+import { Image, getImage } from 'astro:assets';
+import type { Post } from '../lib/posts';
+import { featuredImage, heroImage } from '../lib/post-image';
+
+interface Props {
+  image?: Post['image'];
+  alt?: string;
+  variant?: 'featured' | 'post';
+  /** Het kopbeeld van een post is het grootste element boven de vouw. */
+  eager?: boolean;
+  /** Aanklikbaar om het beeld groot te bekijken. Voor het kopbeeld. */
+  zoomable?: boolean;
+}
+
+const {
+  image, alt = '', variant = 'featured', eager = false, zoomable = false,
+} = Astro.props;
+const isPost = variant === 'post';
+
+/*
+ * De grote versie voor het uitvergroten. Apart opgevraagd omdat het kopbeeld
+ * op maximaal 1600 pixels staat en dat op een groot scherm te klein is om
+ * details in te zien. Astro maakt hem bij het bouwen; hij wordt pas geladen
+ * als iemand het beeld aanklikt.
+ */
+const big = image && zoomable
+  ? await getImage({ src: image, width: 2400, format: 'webp' })
+  : undefined;
+
+/*
+ * Wat de browser aan breedte mag verwachten; scheelt gedownloade bytes. De
+ * maten staan in lib/post-image.ts, want de homepage laadt het uitgelichte
+ * beeld vooraf met exact dezelfde.
+ */
+const { sizes, widths } = isPost ? heroImage : featuredImage;
+---
+
+<div class:list={['wf-shot', isPost ? 'is-post' : 'is-featured']}>
+  {image ? (
+    <Image
+      class="wf-shot__img"
+      src={image}
+      alt={alt}
+      widths={widths}
+      sizes={sizes}
+      loading={eager ? 'eager' : 'lazy'}
+      fetchpriority={eager ? 'high' : 'auto'}
+      decoding={eager ? 'sync' : 'async'}
+    />
+  ) : (
+    <div class="wf-shot__slot" aria-hidden="true"></div>
+  )}
+
+  <span class="wf-shot__wash" aria-hidden="true"></span>
+
+  {big && (
+    <button type="button" class="wf-shot__zoom" data-wf-zoom={big.src} aria-label={alt || 'Bekijk het beeld groot'}></button>
+  )}
+
+  <slot />
+</div>
+
+{big && (
+  <dialog class="wf-lightbox" data-wf-lightbox>
+    <button type="button" class="wf-lightbox__close" data-wf-lightbox-close aria-label="Sluiten">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+        stroke-width="2" stroke-linecap="round" aria-hidden="true" focusable="false">
+        <line x1="6" y1="6" x2="18" y2="18" /><line x1="18" y1="6" x2="6" y2="18" />
+      </svg>
+    </button>
+    <img class="wf-lightbox__img" data-wf-lightbox-img alt={alt} />
+  </dialog>
+)}
+
+<style>
+  .wf-shot {
+    position: relative;
+    overflow: hidden;
+    background: var(--wf-slot-a);
+  }
+
+  .is-featured {
+    height: 296px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card);
+  }
+
+  .is-post {
+    height: 280px;
+    border-bottom: 1px solid var(--wf-border);
+  }
+
+  .wf-shot__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* De lege plek: rustige diagonale strepen in de twee slotkleuren. */
+  .wf-shot__slot {
+    width: 100%;
+    height: 100%;
+    background: repeating-linear-gradient(
+      135deg,
+      var(--wf-slot-a) 0 14px,
+      var(--wf-slot-b) 14px 28px
+    );
+  }
+
+  .wf-shot__wash {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: var(--wf-wash-featured);
+  }
+
+  /* Het hele beeld is de knop; hij ligt erover en heeft zelf geen uiterlijk. */
+  .wf-shot__zoom {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    cursor: zoom-in;
+  }
+
+  .wf-shot__zoom:focus-visible {
+    outline: 2px solid var(--wf-arcane);
+    outline-offset: -4px;
+  }
+
+  .is-post .wf-shot__wash { background: var(--wf-wash-post); }
+
+  @media (max-width: 899px) {
+    .is-featured {
+      height: 180px;
+      border-radius: var(--wf-r-card-sm);
+    }
+
+    .is-post { height: 200px; }
+  }
+
+  /* --- Het beeld groot --- */
+  .wf-lightbox {
+    width: 100vw;
+    max-width: 100vw;
+    height: 100dvh;
+    max-height: 100dvh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: none;
+    overflow: hidden;
+  }
+
+  .wf-lightbox::backdrop { background: rgba(5, 4, 12, .92); }
+
+  .wf-lightbox__img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    cursor: zoom-out;
+  }
+
+  .wf-lightbox__close {
+    position: fixed;
+    top: 14px;
+    right: 14px;
+    z-index: 1;
+    display: grid;
+    place-items: center;
+    width: 40px;
+    height: 40px;
+    background: var(--wf-raised);
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-field);
+    color: var(--wf-ink);
+    transition: var(--wf-transition);
+  }
+
+  .wf-lightbox__close:hover { border-color: var(--wf-arcane); }
+</style>
+
+<script>
+  /*
+   * Het kopbeeld groot bekijken. Met een <dialog>, zodat de browser zelf de
+   * focus vasthoudt, Escape afhandelt en de rest van de pagina afschermt.
+   * Geen bibliotheek nodig.
+   *
+   * Het grote beeld wordt pas geladen bij de eerste klik: tot dan staat er
+   * geen src en kost het niets.
+   */
+  const dialog = document.querySelector<HTMLDialogElement>('[data-wf-lightbox]');
+  const img = document.querySelector<HTMLImageElement>('[data-wf-lightbox-img]');
+  const opener = document.querySelector<HTMLElement>('[data-wf-zoom]');
+  const close = document.querySelector<HTMLElement>('[data-wf-lightbox-close]');
+
+  if (dialog && img && opener) {
+    opener.addEventListener('click', () => {
+      if (!img.src) img.src = opener.dataset.wfZoom ?? '';
+      dialog.showModal();
+    });
+
+    // Klikken op het beeld of ernaast sluit. De knop rechtsboven ook.
+    dialog.addEventListener('click', (event) => {
+      if (event.target === close || close?.contains(event.target as Node)) {
+        dialog.close();
+        return;
+      }
+      if (event.target === img || event.target === dialog) dialog.close();
+    });
+  }
+</script>

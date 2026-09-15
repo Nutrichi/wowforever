@@ -1,0 +1,121 @@
+---
+/*
+ * De voettekst (PROJECT_SPEC.md §10): copyright, de verplichte disclaimer en
+ * de links naar YouTube, Twitch, Discord en RestedXP.
+ *
+ * Klein gehouden en nergens vastgeplakt. De disclaimer past op één regel (Nutri,
+ * 14 september 2026): geen band met Blizzard en niet door Blizzard goedgekeurd.
+ *
+ * Een sociale link verschijnt alleen als zijn URL in config/site.ts staat.
+ */
+import type { Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+import { restedxpUrl, social } from '../config/site';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+
+/* Het jaartal van de build; elke push bouwt opnieuw. */
+const year = new Date().getFullYear();
+
+const links = [
+  { label: t('footer.youtube'), href: social.youtube, rel: 'noopener' },
+  { label: t('footer.twitch'), href: social.twitch, rel: 'noopener' },
+  { label: t('footer.discord'), href: social.discord, rel: 'noopener' },
+  { label: t('footer.restedxp'), href: restedxpUrl, rel: 'noopener sponsored' },
+].filter((link) => link.href !== '');
+---
+
+<footer class="wf-footer" aria-label={t('footer.label')}>
+  <div class="wf-footer__inner">
+    <p class="wf-footer__text">
+      <span class="wf-footer__copy">{t('footer.copyright').replace('{y}', String(year))}</span>
+      <span class="wf-footer__sep" aria-hidden="true"> · </span>
+      <span>{t('site.disclaimer')}</span>
+    </p>
+
+    {links.length > 0 && (
+      <ul class="wf-footer__links">
+        {links.map((link) => (
+          <li>
+            <a href={link.href} rel={link.rel} class="wf-footer__link">{link.label}</a>
+          </li>
+        ))}
+      </ul>
+    )}
+  </div>
+</footer>
+
+<style>
+  .wf-footer {
+    border-top: 1px solid var(--wf-border);
+    background: var(--wf-header);
+  }
+
+  .wf-footer__inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 12px 28px;
+    width: 100%;
+    max-width: var(--wf-max);
+    margin: 0 auto;
+    padding: 14px 26px 16px;
+    font-size: 12px;
+    line-height: 1.6;
+    color: var(--wf-label);
+  }
+
+  .wf-footer__text {
+    flex: 1 1 340px;
+    min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .wf-footer__copy { white-space: nowrap; }
+
+  .wf-footer__links {
+    margin: 0;
+    margin-left: auto;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+  }
+
+  .wf-footer__link {
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+    transition: color .16s ease;
+  }
+
+  .wf-footer__link:hover { color: var(--wf-ink); }
+
+  @media (max-width: 899px) {
+    .wf-footer__inner {
+      gap: 8px 14px;
+      padding: 12px 16px 14px;
+      font-size: 11px;
+    }
+
+    .wf-footer__text { flex: 1 1 100%; white-space: normal; }
+
+    .wf-footer__links {
+      margin-left: 0;
+      gap: 8px 16px;
+    }
+
+    .wf-footer__link { font-size: 12px; }
+  }
+</style>

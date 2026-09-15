@@ -1,0 +1,20 @@
+---
+/*
+ * De verticale lijn links van de inhoud, 4 px breed en over de volle hoogte
+ * (handoff §7). Van goud naar arcaanblauw. Puur decoratief.
+ */
+---
+<div class="wf-spine" aria-hidden="true"></div>
+
+<style>
+  .wf-spine {
+    flex: 0 0 4px;
+    align-self: stretch;
+    background: var(--wf-spine-v);
+  }
+
+  /* Op smalle schermen zou de lijn enkel breedte opeten. */
+  @media (max-width: 599px) {
+    .wf-spine { display: none; }
+  }
+</style>

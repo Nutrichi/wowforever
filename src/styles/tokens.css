@@ -1,0 +1,204 @@
+/*
+ * Ontwerptokens, richting "Arcane Grid".
+ * Bron: de design-handoff (PROJECT_SPEC.md §0), §4.
+ * Nacht is de standaard; dag staat onder [data-theme="day"] en onder
+ * prefers-color-scheme: light zolang de bezoeker niets gekozen heeft.
+ *
+ * Goud, perkament en diep arcaanblauw. Geen neon. Voeg hier geen kleuren toe
+ * die niet in de handoff staan (PROJECT_SPEC.md §9).
+ */
+
+:root {
+  /* --- Het palet: identiek in beide thema's --- */
+  --wf-gold: #e0b77a;
+  --wf-gold-bright: #f0cd97;
+  --wf-gold-deep: #b5872f;
+  --wf-arcane-raw: #4f7fd9;
+  --wf-arcane-deep: #2b4fa8;
+  --wf-green: #7fae6a;
+  --wf-rust: #b4553a;
+  --wf-red: #c0483f;
+  --wf-yellow: #f2d95c;
+
+  /* De verticale lijn links van de inhoud, en de horizontale in het mobiele menu. */
+  --wf-spine-v: linear-gradient(180deg, #f0cd97, #e0b77a, #b5872f, #4f7fd9, #2b4fa8);
+  --wf-spine-h: linear-gradient(90deg, #f0cd97, #e0b77a, #b5872f, #4f7fd9, #2b4fa8);
+
+  /* --- Nacht --- */
+  --wf-bg: #0b1020;
+  --wf-raised: rgba(18, 26, 48, .9);
+  --wf-raised-soft: rgba(18, 26, 48, .7);
+  --wf-bar: #0e1528;
+  --wf-header: linear-gradient(180deg, #141d36, #0b1020);
+  --wf-border: #23304f;
+  --wf-border-inner: #23304f;
+  --wf-ink: #f4e9d6;
+  --wf-ink-soft: #e6dfd1;
+  /* Lopende tekst van een post: rustig en hoog contrast. */
+  --wf-body: #e6dfd1;
+  /* Samenvattingen, navigatie in rust, metaregels. */
+  --wf-muted: #9aa7c2;
+  /* Kleine labels en voetnoten. */
+  --wf-label: #7b88a3;
+  --wf-muted-dim: #5d6b8a; /* nooit voor tekst; alleen bolletjes */
+  --wf-quote: #9aa7c2;
+
+  /* Accenten die op tekst mogen. Goud leidt, arcaanblauw steunt. */
+  --wf-accent: #e0b77a;
+  --wf-accent-bright: #f0cd97;
+  --wf-accent-deep: #b5872f;
+  --wf-accent-soft: rgba(224, 183, 122, .14);
+  --wf-accent-wash: rgba(224, 183, 122, .16);
+  --wf-arcane: #4f7fd9;
+  --wf-live: #7fae6a;
+  --wf-live-ink: #a8cf95;
+  --wf-offline: #5d6b8a;
+  --wf-featured: #f2d95c;
+  --wf-featured-border: #d8bd4a;
+  --wf-danger: #c0483f;
+
+  /* De primaire knop: een goudverloop met donkere inkt. */
+  --wf-button: linear-gradient(180deg, #e0b77a, #c39449);
+  --wf-button-ink: #1a1408;
+
+  /*
+   * Categoriekleuren. Een categorie is het spel waar de post over gaat
+   * (PROJECT_SPEC.md §4.5).
+   */
+  --wf-cat-forever: var(--wf-accent);
+  --wf-cat-classic: var(--wf-arcane);
+  /* Groen uit het palet: #7fae6a 's nachts, #3d6b2c overdag (volgt --wf-live). */
+  --wf-cat-blizzard: var(--wf-live);
+
+  /* Gloed, zacht gehouden: dit is geen neon. Op dag worden ze none. */
+  --wf-glow-wordmark: 0 0 18px rgba(224, 183, 122, .25);
+  --wf-glow-logo: drop-shadow(0 0 6px rgba(224, 183, 122, .35));
+  --wf-glow-pill: 0 0 22px rgba(79, 127, 217, .18);
+  --wf-glow-card: 0 0 22px rgba(224, 183, 122, .12);
+  /* De gloed om het ruitje van de pil; de kleur komt uit de categorie. */
+  --wf-glow-diamond: 8px;
+  --wf-glow-primary: 0 0 22px rgba(224, 183, 122, .22);
+  --wf-glow-like: 0 0 18px rgba(224, 183, 122, .22);
+  --wf-glow-featured: 0 0 30px rgba(242, 217, 92, .12);
+  --wf-glow-h1: 0 0 36px rgba(224, 183, 122, .16);
+
+  /* Sfeerlagen achter beelden */
+  --wf-wash-featured: radial-gradient(120% 90% at 50% 120%, rgba(224, 183, 122, .22), transparent 60%);
+  --wf-wash-post: radial-gradient(120% 100% at 50% 130%, rgba(224, 183, 122, .24), transparent 62%);
+  --wf-wash-clips: radial-gradient(120% 90% at 50% 120%, rgba(224, 183, 122, .20), transparent 60%);
+  --wf-wash-streams: radial-gradient(120% 90% at 50% 120%, rgba(79, 127, 217, .25), transparent 60%);
+  --wf-wash-menu: radial-gradient(120% 70% at 50% 0%, rgba(79, 127, 217, .14), transparent 60%);
+
+  /* Lege beeldplek */
+  --wf-slot-a: #121a30;
+  --wf-slot-b: #161f3a;
+
+  /* --- Typografie (handoff §4.3) --- */
+  /* Woordmerk, h1, sectiekoppen en de cijfers van de aftelling. */
+  --wf-serif: "Cinzel", "Trajan Pro", Georgia, "Times New Roman", serif;
+  /* Navigatie, era-tabs, labels, knoppen en eyebrows, in kapitalen. */
+  --wf-display: "Oswald", "Arial Narrow", "Helvetica Neue", sans-serif;
+  /* Lopende tekst, piltitels, metaregels. */
+  --wf-text: "Barlow", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+
+  /* --- Radii (handoff §4.4) --- */
+  --wf-r-pill: 999px;
+  --wf-r-card: 12px;
+  --wf-r-card-sm: 10px;
+  --wf-r-badge: 5px;
+  --wf-r-field: 6px;
+  --wf-r-field-lg: 8px;
+  --wf-r-field-xl: 10px;
+
+  /* --- Overgangen --- */
+  --wf-transition: border-color .16s ease, box-shadow .16s ease;
+
+  /* Breedte van de contentkolom */
+  --wf-max: 1180px;
+}
+
+/* --- Dag: expliciete keuze (handoff §4.2) --- */
+:root[data-theme="day"] {
+  --wf-bg: #f5ece0;
+  --wf-raised: #fffaf1;
+  --wf-raised-soft: #fffaf1;
+  --wf-bar: linear-gradient(90deg, #f7e3c4, #f1e6d4 55%, #dfe7f6);
+  --wf-header: #fffaf1;
+  --wf-border: #e2d3bc;
+  --wf-border-inner: #f0e3d6;
+  --wf-ink: #1b2136;
+  --wf-ink-soft: #1b2136;
+  --wf-body: #4a5268;
+  --wf-muted: #4a5268;
+  --wf-label: #6a6280;
+  --wf-quote: #4a5268;
+
+  /* Donkerder accenten: op een lichte grond moet tekst 4,5:1 halen. */
+  --wf-accent: #8a5a14;
+  --wf-accent-bright: #8a5a14;
+  --wf-accent-soft: rgba(138, 90, 20, .10);
+  /* .08 en niet .14: bij .14 zakt het goud op de gevulde chip naar 4.21:1. */
+  --wf-accent-wash: rgba(138, 90, 20, .08);
+  --wf-arcane: #24468f;
+  --wf-live: #3d6b2c;
+  --wf-live-ink: #3d6b2c;
+  --wf-featured: #8a5a14;
+
+  --wf-glow-wordmark: none;
+  --wf-glow-logo: none;
+  --wf-glow-pill: 0 4px 14px rgba(27, 33, 54, .08);
+  --wf-glow-card: 0 4px 14px rgba(27, 33, 54, .08);
+  --wf-glow-diamond: 0;
+  --wf-glow-primary: none;
+  --wf-glow-like: none;
+  --wf-glow-featured: none;
+  --wf-glow-h1: none;
+
+  --wf-slot-a: #e9dcc6;
+  --wf-slot-b: #efe4d2;
+}
+
+/*
+ * Dag zonder keuze: volg het systeem. De selector sluit alleen een
+ * uitdrukkelijke keuze uit, zodat de schakelaar in beide richtingen wint.
+ */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="night"]):not([data-theme="day"]) {
+    --wf-bg: #f5ece0;
+    --wf-raised: #fffaf1;
+    --wf-raised-soft: #fffaf1;
+    --wf-bar: linear-gradient(90deg, #f7e3c4, #f1e6d4 55%, #dfe7f6);
+    --wf-header: #fffaf1;
+    --wf-border: #e2d3bc;
+    --wf-border-inner: #f0e3d6;
+    --wf-ink: #1b2136;
+    --wf-ink-soft: #1b2136;
+    --wf-body: #4a5268;
+    --wf-muted: #4a5268;
+    --wf-label: #6a6280;
+    --wf-quote: #4a5268;
+
+    --wf-accent: #8a5a14;
+    --wf-accent-bright: #8a5a14;
+    --wf-accent-soft: rgba(138, 90, 20, .10);
+    /* .08 en niet .14: bij .14 zakt het goud op de gevulde chip naar 4.21:1. */
+  --wf-accent-wash: rgba(138, 90, 20, .08);
+    --wf-arcane: #24468f;
+    --wf-live: #3d6b2c;
+    --wf-live-ink: #3d6b2c;
+    --wf-featured: #8a5a14;
+
+    --wf-glow-wordmark: none;
+    --wf-glow-logo: none;
+    --wf-glow-pill: 0 4px 14px rgba(27, 33, 54, .08);
+    --wf-glow-card: 0 4px 14px rgba(27, 33, 54, .08);
+    --wf-glow-diamond: 0;
+    --wf-glow-primary: none;
+    --wf-glow-like: none;
+    --wf-glow-featured: none;
+    --wf-glow-h1: none;
+
+    --wf-slot-a: #e9dcc6;
+    --wf-slot-b: #efe4d2;
+  }
+}

@@ -1,0 +1,170 @@
+---
+/*
+ * Eén losse pagina buiten de zeven secties (PROJECT_SPEC.md §4.4, fase 5): de
+ * hub /forever/, een levelroute onder /routes/ of een vergelijking onder
+ * /compare/. Hier landt zoekverkeer, dus alles staat in de HTML.
+ *
+ * Van boven naar onder: broodkruimel, titel, de datum van de laatste
+ * controle, chips naar de verwante pagina's (de andere routes of de andere
+ * vergelijkingen), de tekst uit de Markdown, de vragen uit de frontmatter,
+ * bij routes en vergelijkingen het RestedXP-blok, en de bronregel.
+ *
+ * De vragen staan ook als FAQPage in de JSON-LD. Het codewoord Camelot staat
+ * alleen in de vragen van de hub (§4.4).
+ */
+import { render } from 'astro:content';
+import type { Locale } from '../../i18n/ui';
+import { localeTags } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import { restedxpUrl } from '../../config/site';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getPage, getPages, pagePath } from '../../lib/pages';
+import { pageT } from '../../i18n/pages';
+import { guideT } from '../../i18n/guides';
+import { breadcrumbJsonLd, publisherJsonLd } from '../../lib/structured-data';
+import { isoDate, longDate } from '../../lib/date';
+import '../../styles/guides.css';
+
+interface Props {
+  locale: Locale;
+  pageKey: string;
+}
+
+const { locale, pageKey } = Astro.props;
+const page = await getPage(pageKey, locale);
+
+// Kan niet gebeuren: de sleutel komt uit dezelfde lijst. Faalt hij toch, dan faalt de build luid.
+if (!page) throw new Error(`Onbekende pagina: ${pageKey}`);
+
+const { Content } = await render(page.entry);
+const t = pageT(locale);
+const g = guideT(locale);
+const ui = useTranslations(locale);
+
+const folder = pageKey.split('/')[0];
+const inGroup = folder === 'routes' || folder === 'compare';
+const all = await getPages(locale);
+const members = inGroup ? all.filter((other) => other.key === folder || other.key.startsWith(`${folder}/`)) : [];
+
+const crumbs = [{ name: ui('crumb.home'), path: localizePath('', locale) }];
+if (folder === 'routes' && pageKey !== 'routes' && all.some((other) => other.key === 'routes')) {
+  crumbs.push({ name: t('routesCrumb'), path: pagePath('routes', locale) });
+}
+crumbs.push({ name: page.short, path: page.href });
+
+const canonical = new URL(page.href, Astro.site ?? 'https://wowforever.be').href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    breadcrumbJsonLd(crumbs, Astro.site),
+    {
+      '@type': 'Article',
+      headline: page.metaTitle,
+      description: page.description,
+      dateModified: isoDate(page.updated),
+      inLanguage: localeTags[page.lang],
+      mainEntityOfPage: canonical,
+      author: publisherJsonLd(Astro.site),
+      publisher: publisherJsonLd(Astro.site),
+    },
+    ...(page.faq.length
+      ? [{
+        '@type': 'FAQPage',
+        mainEntity: page.faq.map((item) => ({
+          '@type': 'Question',
+          name: item.q,
+          acceptedAnswer: { '@type': 'Answer', text: item.a },
+        })),
+      }]
+      : []),
+  ],
+};
+---
+
+<BaseLayout locale={locale} title={page.metaTitle} description={page.description} ogType="article">
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <article class="wf-gdetail wf-page" data-pagefind-body data-pagefind-meta={`title:${page.metaTitle}`}>
+    <nav class="wf-gcrumb" aria-label={ui('crumb.label')} data-pagefind-ignore>
+      {crumbs.slice(0, -1).map((crumb) => (
+        <>
+          <a href={crumb.path}>{crumb.name}</a>
+          <span aria-hidden="true">/</span>
+        </>
+      ))}
+      <span>{page.short}</span>
+    </nav>
+
+    <header class="wf-gdetail__head">
+      <span class="wf-gdetail__diamond" style="--wf-diamond: #e0b77a;" aria-hidden="true"></span>
+      <div>
+        <h1 class="wf-gdetail__title">{page.title}</h1>
+        <p class="wf-gdetail__meta">
+          <time datetime={isoDate(page.updated)}>{t('updated', { date: longDate(page.updated, locale) })}</time>
+        </p>
+      </div>
+    </header>
+
+    {members.length > 1 && (
+      <nav class="wf-gchips" aria-label={t('otherPages')} data-pagefind-ignore>
+        {members.map((other) => (
+          <a class="wf-gchip" href={other.href} aria-current={other.key === page.key ? 'page' : undefined}>{other.short}</a>
+        ))}
+      </nav>
+    )}
+
+    <div class="wf-gprose">
+      <Content />
+    </div>
+
+    {page.faq.length > 0 && (
+      <section class="wf-gprose wf-page__faq" aria-labelledby="wf-faq">
+        <h2 id="wf-faq">{t('faqTitle')}</h2>
+        {page.faq.map((item) => (
+          <>
+            <h3>{item.q}</h3>
+            <p>{item.a}</p>
+          </>
+        ))}
+      </section>
+    )}
+
+    {inGroup && (
+      <aside class="wf-rxpblock" data-pagefind-ignore>
+        <p>{g('restedxpText')}</p>
+        <a href={restedxpUrl} rel="noopener sponsored">{g('restedxpButton')}</a>
+      </aside>
+    )}
+
+    {page.sources.length > 0 && (
+      <p class="wf-page__source" data-pagefind-ignore>
+        {t('sources')}{' '}
+        {page.sources.map((source, index) => (
+          <>
+            {index > 0 && ', '}
+            <a href={source.url} rel="noopener nofollow" target="_blank">{source.name}</a>
+          </>
+        ))}
+      </p>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .wf-page__faq { margin-top: 34px; }
+
+  /*
+   * De bronregel zoals bij een post (§7.1): gedempt, en pas bij hover blijkt
+   * dat de namen links zijn.
+   */
+  .wf-page__source {
+    margin-top: 28px;
+    padding-top: 18px;
+    border-top: 1px solid var(--wf-border);
+    font-size: 13.5px;
+    color: var(--wf-muted);
+  }
+
+  .wf-page__source a { color: inherit; }
+  .wf-page__source a:hover { text-decoration: underline; }
+</style>

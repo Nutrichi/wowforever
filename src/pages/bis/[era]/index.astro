@@ -1,0 +1,17 @@
+---
+/*
+ * De pagina van één era onder BIS in het Engels: /bis/tbc/ enzovoort. Forever
+ * staat op /bis/ zelf en krijgt hier geen tweede adres.
+ */
+import BisEraPage from '../../../components/bis/BisEraPage.astro';
+import type { EraKey } from '../../../config/eras';
+import { bisEras } from '../../../config/bis';
+
+export function getStaticPaths() {
+  return bisEras.map((era) => ({ params: { era } }));
+}
+
+const era = Astro.params.era as EraKey;
+---
+
+<BisEraPage locale="en" era={era} />

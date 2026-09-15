@@ -1,0 +1,188 @@
+---
+/*
+ * De pil (handoff §7.7): het component waar alles uit gemaakt is.
+ *
+ * Van links naar rechts: een kolom van vaste breedte met een ruitje in de
+ * categoriekleur, een scheidingslijn, de titel, dezelfde scheidingslijn nog
+ * eens, en een kolom van vaste breedte met het hartje en de telling.
+ *
+ * Twee dingen zijn uitdrukkelijk afgekeurd en staan hier dus niet: de
+ * linkerkolom vullen met de categoriekleur, en de waardekolom laten
+ * meebewegen. Die kolom heeft een vaste breedte en een lijn aan beide
+ * kanten, zodat alle hartjes netjes onder elkaar staan.
+ *
+ * Boven 900 px één regel met een ellipsis. Daaronder hoogstens twee regels
+ * en pas dan de ellipsis (PROJECT_SPEC.md §5). Links en rechts krimpen
+ * nooit; `min-width: 0` op de titelcel is daarvoor essentieel.
+ */
+import type { Post } from '../lib/posts';
+import { categories } from '../config/categories';
+import type { Locale } from '../i18n/ui';
+import LikeButton from './LikeButton.astro';
+
+interface Props {
+  post: Post;
+  locale: Locale;
+}
+
+const { post, locale } = Astro.props;
+const category = categories[post.category];
+
+/*
+ * De sleutel waaronder de likes van deze post in de database staan: de
+ * collectie en niet de categorie, want een categorie kan veranderen en dan
+ * zouden de likes eraan verdwijnen.
+ */
+const postId = `${post.collection}/${post.slug}`;
+---
+
+<li
+  class="wf-pill"
+  data-wf-post
+  data-category={post.category}
+  data-title={post.title.toLowerCase()}
+>
+  <span class="wf-pill__cat" aria-hidden="true">
+    <span class="wf-pill__diamond" style={`--wf-diamond: ${category.color};`}></span>
+  </span>
+
+  <span class="wf-pill__rule" aria-hidden="true"></span>
+
+  <a class="wf-pill__link" href={post.href}>
+    <span class="wf-sr">{category.label}, </span>
+    <span class="wf-pill__title">{post.title}</span>
+  </a>
+
+  <span class="wf-pill__rule" aria-hidden="true"></span>
+
+  <span class="wf-pill__value">
+    <LikeButton postId={postId} locale={locale} />
+  </span>
+</li>
+
+<style>
+  .wf-pill {
+    position: relative;
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    min-height: 42px;
+    background: var(--wf-raised);
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    overflow: hidden;
+    /* Alleen de rand animeert; een geanimeerde schaduw over vijftig pillen voelt traag. */
+    transition: border-color .16s ease;
+  }
+
+  .wf-pill:hover,
+  .wf-pill:focus-within {
+    border-color: var(--wf-arcane);
+    box-shadow: var(--wf-glow-pill);
+  }
+
+  /* Vaste kolom met alleen het ruitje. Nooit een gevuld kleurvlak. */
+  .wf-pill__cat {
+    flex: none;
+    width: 40px;
+    align-self: stretch;
+    display: grid;
+    place-items: center;
+  }
+
+  .wf-pill__diamond {
+    width: 10px;
+    height: 10px;
+    background: var(--wf-diamond);
+    transform: rotate(45deg);
+    box-shadow: 0 0 var(--wf-glow-diamond) var(--wf-diamond);
+  }
+
+  .wf-pill__rule {
+    flex: none;
+    width: 1px;
+    align-self: stretch;
+    background: var(--wf-border);
+  }
+
+  .wf-pill__link {
+    flex: 1 1 auto;
+    min-width: 0;
+    padding: 0 14px;
+    font-size: 14.5px;
+    color: var(--wf-ink-soft);
+  }
+
+  /*
+   * De hele pil is klikbaar, zonder de knop erin te omvatten: de link legt een
+   * onzichtbaar vlak over de pil en het hartje ligt daarboven.
+   */
+  .wf-pill__link::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+
+  .wf-pill__title {
+    display: block;
+    min-width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .wf-pill__value {
+    position: relative;
+    z-index: 1;
+    flex: none;
+    width: 76px;
+    align-self: stretch;
+    display: flex;
+  }
+
+  /*
+   * De knop vult de hele waardekolom, anders raakt een klik naast het hartje
+   * de link die over de pil ligt. `:global`, want de knop komt uit LikeButton.
+   */
+  .wf-pill__value :global(.wf-like),
+  .wf-pill__value :global(.wf-like__button) {
+    width: 100%;
+    align-self: stretch;
+  }
+
+  .wf-pill__value :global(.wf-like__button) { cursor: pointer; }
+
+  /* De focusring van de link hoort om de pil, niet om het onzichtbare vlak. */
+  .wf-pill__link:focus-visible { outline: none; }
+
+  .wf-pill:has(.wf-pill__link:focus-visible) {
+    outline: 2px solid var(--wf-arcane);
+    outline-offset: 2px;
+  }
+
+  /* Nieuw bijgeladen pillen komen rustig binnen. */
+  .wf-pill.is-new { animation: wfRise .4s ease both; }
+
+  @media (max-width: 899px) {
+    .wf-pill { min-height: 44px; } /* raakvlak */
+    .wf-pill__cat { width: 34px; }
+    .wf-pill__diamond { width: 9px; height: 9px; }
+    .wf-pill__link { font-size: 13.5px; padding-block: 6px; }
+    .wf-pill__value { width: 62px; }
+
+    /* Hoogstens twee regels, daarna de ellipsis. Een korte titel blijft 44 px. */
+    .wf-pill__title {
+      white-space: normal;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      line-height: 1.25;
+      overflow-wrap: anywhere;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .wf-pill.is-new { animation: none; }
+  }
+</style>

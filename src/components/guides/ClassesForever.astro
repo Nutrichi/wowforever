@@ -1,0 +1,109 @@
+---
+/*
+ * CLASSES voor WoW Forever, op /classes/ (Nutri, 14 september 2026: wat de
+ * Forever-hub al weet). Drie blokken: de bevestigde wijzigingen, wie welke
+ * class kan spelen, en de racials van elk ras. Talenten en routes volgen pas
+ * wanneer de beta stabiel is; er staat dus bewust geen gids.
+ */
+import type { Locale } from '../../i18n/ui';
+import { classes } from '../../config/bis';
+import { foreverClassOrder, foreverRaces } from '../../config/guides';
+import { restedxpUrl } from '../../config/site';
+import { foreverRacials } from '../../i18n/forever-racials';
+import { guideT } from '../../i18n/guides';
+import '../../styles/guides.css';
+
+interface Props {
+  locale: Locale;
+  title: string;
+}
+
+const { locale, title } = Astro.props;
+const t = guideT(locale);
+const classKeys = foreverClassOrder;
+const factions = [
+  { key: 'horde', label: 'Horde' },
+  { key: 'alliance', label: 'Alliance' },
+] as const;
+const stateLabel = { new: t('racialNew'), changed: t('racialChanged'), same: t('racialSame') };
+---
+
+<header class="wf-ghead">
+  <div class="wf-ghead__main">
+    <h1 class="wf-ghead__title">{title}</h1>
+    <p class="wf-ghead__intro">{t('classesForeverIntro')}</p>
+  </div>
+</header>
+
+<section class="wf-gblock" aria-labelledby="wf-changes">
+  <h2 class="wf-glabel" id="wf-changes">{t('changesTitle')}</h2>
+  <ul class="wf-glist">
+    <li>{t('changeAll')}</li>
+    <li>{t('changePaladin')}</li>
+    <li>{t('changeTalents')}</li>
+  </ul>
+</section>
+
+<section class="wf-gblock" aria-labelledby="wf-combos">
+  <h2 class="wf-glabel" id="wf-combos">{t('combosTitle')}</h2>
+  <p class="wf-gtext">{t('combosIntro')}</p>
+  <div class="wf-combos">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col"><span class="wf-sr">{t('combosTitle')}</span></th>
+          {classKeys.map((key) => <th scope="col">{classes[key].label}</th>)}
+        </tr>
+      </thead>
+      {factions.map((faction) => (
+        <tbody>
+          <tr class="wf-combos__faction"><th scope="colgroup" colspan={classKeys.length + 1}>{faction.label}</th></tr>
+          {foreverRaces.filter((race) => race.faction === faction.key).map((race) => (
+            <tr>
+              <th scope="row">{race.name}</th>
+              {classKeys.map((key) => {
+                const state = race.classes[key];
+                if (!state) return <td></td>;
+                const label = state === 'new' ? t('comboNew') : classes[key].label;
+                return <td><span class={`wf-combos__mark is-${state}`} role="img" aria-label={label} title={label}></span></td>;
+              })}
+            </tr>
+          ))}
+        </tbody>
+      ))}
+    </table>
+  </div>
+  <p class="wf-combos__legend">
+    <span><span class="wf-combos__mark is-new" aria-hidden="true"></span>{t('comboNew')}</span>
+  </p>
+</section>
+
+<section class="wf-gblock" aria-labelledby="wf-racials">
+  <h2 class="wf-glabel" id="wf-racials">{t('racialsTitle')}</h2>
+  <p class="wf-gtext">{t('racialsIntro')}</p>
+  <div class="wf-races">
+    {foreverRaces.map((race) => {
+      const data = foreverRacials[race.key];
+      return (
+        <article class="wf-race">
+          <h3 class="wf-race__name">{race.name}<span class="wf-race__faction">{race.faction === 'alliance' ? 'Alliance' : 'Horde'}</span></h3>
+          <ul class="wf-race__list">
+            {data.racials.map((racial) => (
+              <li>
+                <span class="wf-race__racial">{racial.name}</span>
+                <span class={`wf-race__state is-${racial.state}`}>{stateLabel[racial.state]}</span>
+                <span class="wf-race__text">{racial.text[locale]}</span>
+              </li>
+            ))}
+          </ul>
+          {data.removed.length > 0 && <p class="wf-race__removed">{t('removed', { list: data.removed.join(', ') })}</p>}
+        </article>
+      );
+    })}
+  </div>
+</section>
+
+<aside class="wf-rxpblock">
+  <p>{t('restedxpText')}</p>
+  <a href={restedxpUrl} rel="noopener sponsored">{t('restedxpButton')}</a>
+</aside>

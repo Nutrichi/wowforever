@@ -1,0 +1,86 @@
+---
+/*
+ * De volledige pagina van een era onder BIS, gedeeld door /bis/, /bis/<era>/
+ * en de vijf andere talen. De inhoud staat in BisEraView; hier komen de
+ * layout, de era-schakelaar in de tweede balk en de gestructureerde data bij.
+ *
+ * /bis/ is de pagina van Forever en tegelijk de ingang van de sectie: het
+ * scriptje in de head stuurt een bezoeker die eerder een andere era koos
+ * meteen door naar die era (`wf-era`, of `?era=` in het adres). Een
+ * zoekmachine heeft niets bewaard en blijft gewoon op /bis/.
+ *
+ * Hardcore heeft geen BiS-lijsten en krijgt hier geen tab en geen pagina
+ * (Nutri, 14 september 2026).
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import { eras, eraStorageKey, type EraKey } from '../../config/eras';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EraTabs from '../EraTabs.astro';
+import BisEraView from './BisEraView.astro';
+import { bisTabEras } from '../../config/bis';
+import { bisEraCounts, bisPath, eraHrefs, listsForEra } from '../../lib/bis';
+import { bisT } from '../../i18n/bis';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+
+interface Props {
+  locale: Locale;
+  era: EraKey;
+}
+
+const { locale, era } = Astro.props;
+const t = bisT(locale);
+const ui = useTranslations(locale);
+const info = eras[era];
+const count = listsForEra(era).length;
+
+const title = t('hubTitle', { era: info.name });
+const description = era === 'forever'
+  ? t('foreverDescription')
+  : t('hubDescription', { era: info.name, n: count });
+
+const hrefs = eraHrefs(locale);
+const counts = bisEraCounts();
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: t('crumb'), path: bisPath(locale) },
+  ...(era === 'forever' ? [] : [{ name: info.name, path: bisPath(locale, era) }]),
+];
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+
+/* Alleen /bis/ stuurt door; een era-pagina blijft altijd staan. */
+const redirect = era === 'forever' ? { hrefs, storageKey: eraStorageKey } : null;
+---
+
+<BaseLayout locale={locale} title={title} description={description}>
+  {redirect && (
+    <script is:inline slot="head" define:vars={redirect}>
+      (function () {
+        try {
+          if (window.__wfLeaving) return;
+          var params = new URLSearchParams(window.location.search);
+          var wanted = params.get('era') || localStorage.getItem(storageKey);
+          if (!wanted || wanted === 'forever' || !hrefs[wanted]) return;
+          params.delete('era');
+          var query = params.toString();
+          window.__wfLeaving = true;
+          window.location.replace(hrefs[wanted] + (query ? '?' + query : '') + window.location.hash);
+        } catch (error) {
+          // Niets bewaard of geen opslag: dan blijft de bezoeker op Forever.
+        }
+      })();
+    </script>
+  )}
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <EraTabs slot="bar" locale={locale} current={era} hrefs={hrefs} counts={counts} keys={bisTabEras} />
+
+  <div class="wf-bispage">
+    <BisEraView locale={locale} era={era} />
+  </div>
+</BaseLayout>
+
+<style>
+  .wf-bispage { padding-block: 6px 40px; }
+</style>

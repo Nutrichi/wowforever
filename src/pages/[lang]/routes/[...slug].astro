@@ -1,0 +1,17 @@
+---
+/* /routes/ en de pagina's eronder in de vijf niet-standaardtalen. */
+import SitePage from '../../../components/pages/SitePage.astro';
+import { pageSlugs } from '../../../lib/pages';
+import { otherLocales } from '../../../lib/posts';
+import type { Locale } from '../../../i18n/ui';
+
+export async function getStaticPaths() {
+  const slugs = await pageSlugs('routes');
+  return otherLocales.flatMap((lang) => slugs.map((slug) => ({ params: { lang, slug } })));
+}
+
+const locale = Astro.params.lang as Locale;
+const { slug } = Astro.params;
+---
+
+<SitePage locale={locale} pageKey={slug ? `routes/${slug}` : 'routes'} />

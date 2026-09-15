@@ -1,0 +1,15 @@
+---
+/* Eén gids onder TRADESKILLS in het Engels: /tradeskills/<era>/<slug>/. */
+import GuideDetailPage from '../../../components/guides/GuideDetailPage.astro';
+import { getGuide, getGuides } from '../../../lib/guides';
+import type { GuideEra } from '../../../config/guides';
+
+export async function getStaticPaths() {
+  return (await getGuides('tradeskills', 'en')).map((guide) => ({ params: { era: guide.era, slug: guide.slug } }));
+}
+
+const guide = await getGuide('tradeskills', Astro.params.era as GuideEra, Astro.params.slug!, 'en');
+if (!guide) throw new Error(`Onbekende gids: ${Astro.params.era}/${Astro.params.slug}`);
+---
+
+<GuideDetailPage locale="en" guide={guide} />
