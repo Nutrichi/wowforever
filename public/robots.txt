@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wowforever.be/sitemap-index.xml
+Sitemap: https://wowforever.be/sitemap.xml

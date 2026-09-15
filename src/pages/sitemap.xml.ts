@@ -1,8 +1,12 @@
 /*
- * /sitemap.xml: een sitemap-index die naar de sitemap van @astrojs/sitemap
- * wijst. Die integratie schrijft zelf sitemap-index.xml en sitemap-0.xml;
- * dit adres bestaat omdat Search Console op /sitemap.xml ingesteld is (Nutri,
- * 11 september 2026), en omdat dat de naam is die elke crawler eerst probeert.
+ * /sitemap.xml: dé sitemap van de site, en het enige adres dat we naar buiten
+ * brengen (Nutri, 15 september 2026). `robots.txt` wijst hiernaar en dit is
+ * het adres voor Search Console, want dit is de naam die elke crawler eerst
+ * probeert en die elke site gebruikt.
+ *
+ * Het is een sitemap-index die naar de sitemap van @astrojs/sitemap wijst.
+ * Die integratie schrijft zelf ook sitemap-index.xml en sitemap-0.xml; die
+ * eerste blijft bestaan maar wordt nergens meer genoemd.
  *
  * Eén deel volstaat: de integratie begint pas bij 45.000 adressen aan een
  * tweede. Komt er ooit een sitemap-1.xml bij, dan hoort die hier ook.
