@@ -228,9 +228,108 @@ const jsonLd = {
     font-style: italic;
   }
 
+  /*
+   * De lopende tekst zet zijn alinea's uit elkaar met een flex-gap, maar die
+   * geldt niet binnen een citaat. Een citaat van meerdere alinea's, zoals een
+   * blauwe post, liep daardoor aan elkaar.
+   */
+  .wf-prose :global(blockquote p + p) { margin-top: 12px; }
+
   .wf-prose :global(img) {
     border-radius: var(--wf-r-card-sm);
     border: 1px solid var(--wf-border);
+  }
+
+  /*
+   * Een video in de tekst (src/scripts/post-video.ts). De knop staat er tot
+   * de lezer klikt; daarna vervangt het script hem door de speler. Geen
+   * voorbeeldbeeld van een ander medium, dus draagt het blok de eigen
+   * kleuren (PROJECT_SPEC.md §2.4).
+   */
+  .wf-prose :global(.wf-embed) {
+    margin: 0;
+    aspect-ratio: 16 / 9;
+    border-radius: var(--wf-r-card-sm);
+    border: 1px solid var(--wf-border);
+    overflow: hidden;
+    background: var(--wf-header);
+  }
+
+  .wf-prose :global(.wf-embed iframe) {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  .wf-prose :global(.wf-embed__play) {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    width: 100%;
+    height: 100%;
+    padding: 18px 20px;
+    border: 0;
+    background: none;
+    color: var(--wf-ink);
+    font: inherit;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  /* Het driehoekje, met de rand van de knop als vorm. Geen beeldbestand nodig. */
+  .wf-prose :global(.wf-embed__icon) {
+    flex: none;
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+    border: 1px solid var(--wf-accent-deep);
+    background: var(--wf-raised);
+    position: relative;
+  }
+
+  .wf-prose :global(.wf-embed__icon::after) {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+    border-style: solid;
+    border-width: 9px 0 9px 15px;
+    border-color: transparent transparent transparent var(--wf-accent);
+  }
+
+  .wf-prose :global(.wf-embed__play:hover .wf-embed__icon) {
+    border-color: var(--wf-accent);
+    background: var(--wf-raised-soft);
+  }
+
+  .wf-prose :global(.wf-embed__text) {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    min-width: 0;
+  }
+
+  .wf-prose :global(.wf-embed__title) {
+    font-family: var(--wf-display);
+    font-size: 18px;
+    line-height: 1.25;
+    color: var(--wf-ink);
+  }
+
+  .wf-prose :global(.wf-embed__meta) {
+    font-size: 14px;
+    /* Los van de regelhoogte van de lopende tekst: die is hier te ruim zodra
+       de regel op een smal scherm omslaat. */
+    line-height: 1.4;
+    color: var(--wf-muted);
+  }
+
+  @media (max-width: 599px) {
+    .wf-prose :global(.wf-embed__play) { gap: 12px; padding: 14px 15px; }
+    .wf-prose :global(.wf-embed__icon) { width: 44px; height: 44px; }
+    .wf-prose :global(.wf-embed__title) { font-size: 16px; }
   }
 
   .wf-prose :global(code) {
@@ -270,3 +369,8 @@ const jsonLd = {
     .wf-prose :global(h3) { font-size: 18px; }
   }
 </style>
+
+<script>
+  // Een video in de tekst speelt pas na een klik; de uitleg staat in het script.
+  import '../scripts/post-video';
+</script>
