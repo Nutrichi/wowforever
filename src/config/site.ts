@@ -18,7 +18,7 @@ export const launchDate = '2026-11-04T23:00:00Z';
  * volstaat om er een te verbergen.
  */
 export const social = {
-  youtube: 'https://www.youtube.com/@nutri_r1',
+  youtube: 'https://www.youtube.com/@nutri_r1?sub_confirmation=1',
   twitch: 'https://www.twitch.tv/nutri_r1',
   discord: 'https://discord.com/invite/YYGrKGNWr2',
 };
