@@ -149,6 +149,29 @@
 
 /* --- Tradeskillpillen --- */
 
+/*
+ * Een groep tradeskills van dezelfde soort, met een kop erboven (Nutri,
+ * 19 september 2026). De kop draagt het aantal, zodat je in één blik ziet hoe
+ * groot elke groep is zonder te tellen.
+ */
+.wf-tgroup + .wf-tgroup { margin-top: 26px; }
+
+.wf-tgroup__title {
+  display: flex;
+  align-items: baseline;
+  gap: 9px;
+  margin: 0 0 11px;
+}
+
+.wf-tgroup__count {
+  font-family: var(--wf-text);
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--wf-label);
+}
+
 .wf-tpills {
   display: flex;
   flex-direction: column;

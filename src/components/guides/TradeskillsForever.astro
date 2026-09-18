@@ -20,6 +20,21 @@ const { locale, title } = Astro.props;
 const t = guideT(locale);
 const skills = tradeskills.filter((skill) => skill.eras.includes('forever'));
 const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), secondary: t('typeSecondary') };
+
+/*
+ De tradeskills per soort bij elkaar (Nutri, 19 september 2026).
+
+ Eerst gathering, dan secondary, dan crafting: die volgorde is gevraagd, en ze
+ loopt ook mee met hoe je aan een tradeskill komt. Herbalism, Mining en Skinning
+ leveren de grondstoffen, de secondary staan los van je twee plekken, en de
+ crafting maken er iets van.
+
+ De soort stond ook als kolom in elke pil. Met een kop boven de groep is dat
+ dubbelop, dus in de groepen staat hij er niet meer bij.
+ */
+const groups = (['gathering', 'secondary', 'crafting'] as const)
+  .map((type) => ({ type, label: typeLabel[type], items: skills.filter((s) => s.type === type) }))
+  .filter((group) => group.items.length > 0);
 ---
 
 <header class="wf-ghead">
@@ -31,21 +46,28 @@ const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), 
 
 <section aria-labelledby="wf-perks">
   <h2 class="wf-glabel wf-sr" id="wf-perks">{t('perksTitle')}</h2>
-  <ul class="wf-tpills">
-    {skills.map((skill) => (
-      <li class="wf-tpill">
-        <span class="wf-tpill__cat" aria-hidden="true">
-          <span class="wf-tpill__diamond" style={`--wf-diamond: ${tradeskillColors[skill.type]};`}></span>
-        </span>
-        <span class="wf-tpill__rule" aria-hidden="true"></span>
-        <span class="wf-tpill__name">{skill.name}</span>
-        <span class="wf-tpill__rule" aria-hidden="true"></span>
-        <span class="wf-tpill__text">{foreverPerks[skill.key]?.[locale] ?? t('noPerks')}</span>
-        <span class="wf-tpill__rule" aria-hidden="true"></span>
-        <span class="wf-tpill__type">{typeLabel[skill.type]}</span>
-      </li>
-    ))}
-  </ul>
+
+  {groups.map((group) => (
+    <div class="wf-tgroup">
+      <h3 class="wf-glabel wf-tgroup__title">
+        {group.label}
+        <span class="wf-tgroup__count">{group.items.length}</span>
+      </h3>
+      <ul class="wf-tpills">
+        {group.items.map((skill) => (
+          <li class="wf-tpill">
+            <span class="wf-tpill__cat" aria-hidden="true">
+              <span class="wf-tpill__diamond" style={`--wf-diamond: ${tradeskillColors[skill.type]};`}></span>
+            </span>
+            <span class="wf-tpill__rule" aria-hidden="true"></span>
+            <span class="wf-tpill__name">{skill.name}</span>
+            <span class="wf-tpill__rule" aria-hidden="true"></span>
+            <span class="wf-tpill__text">{foreverPerks[skill.key]?.[locale] ?? t('noPerks')}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  ))}
 </section>
 
 <section class="wf-gblock" aria-labelledby="wf-legacy">
