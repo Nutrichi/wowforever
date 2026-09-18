@@ -1,0 +1,20 @@
+De achtergronden van de talentbomen.
+
+Dezelfde 28 beelden als in de iOS-app wow-forever-app, zodat de calculator op
+de site en die in de app er hetzelfde uitzien (Nutri, 19 september 2026).
+
+27 daarvan zijn de achtergrond die het spel achter die ene boom zet, 300 bij
+331. Welke bij welke boom hoort komt uit TalentTab van wago.tools voor onze
+eigen clientbuild en niet uit een gok op de naam.
+
+Het achtentwintigste, treebg_legacy.jpg, is iets anders: het spel heeft voor de
+Legacy-boom geen achtergrond. Dat is een officiele schermafbeelding uit The
+Barrens, teruggebracht tot 96 pixels breed. Dat verkleinen is de vervaging.
+
+Dit is spelmateriaal van Blizzard Entertainment, geleverd via de beeld-CDN van
+Wowhead, net als de iconen in ../icons. PROJECT_SPEC.md 2.4 staat officieel
+beeld van Blizzard toe; wat er niet in mag is het beeld van een ander medium,
+en dat is dit niet: het is de textuur uit de client zelf.
+
+De volledige uitleg staat in wow-forever-app onder
+WoWForever/Resources/trees/HERKOMST-bomen.txt.

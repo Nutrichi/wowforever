@@ -1,0 +1,131 @@
+---
+/*
+ De privacyverklaring, op /privacy/ (Nutri, 19 september 2026).
+
+ Voor App Store Connect, dat een adres met een privacyverklaring vraagt.
+
+ **Drie dingen zijn met opzet zo:**
+
+ 1. **Er staat nergens een link naartoe.** Niet in de navigatie, niet in de
+    voettekst. Wie het adres heeft, komt erop; verder niemand.
+ 2. **Geen zoekmachine.** `index={false}` zet noindex en nofollow en houdt GA4
+    weg, de pagina staat niet in de sitemap (zie `astro.config.mjs`) en
+    `robots.txt` sluit hem uit.
+ 3. **Geen namen, en geen schil.** Geen persoon, geen bedrijf, geen adres. En
+    geen `BaseLayout`: die brengt de kopbalk en de voettekst mee, met daarin de
+    kanalen en de RestedXP-partnerlink. Een partnerlink op een privacypagina is
+    niet waar zo'n pagina voor is. Dit is dus een eigen, kale pagina met alleen
+    tekst.
+
+ Eén taal, Engels, want daar is hij voor. De rest van de site is zesdelig; dit
+ stukje niet, en dat scheelt vijf vertalingen die niemand leest.
+
+ De tekst noemt precies wat er in de database terechtkomt, nagekeken tegen
+ `Services/PushRegistrar.swift` en `Services/Likes.swift` in de app.
+ */
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Privacy · WoW Forever</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="referrer" content="no-referrer" />
+    <style>
+      :root { color-scheme: light dark; }
+      body {
+        max-width: 42rem;
+        margin: 0 auto;
+        padding: 2.5rem 1.25rem 4rem;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        font-size: 1rem;
+        line-height: 1.65;
+      }
+      h1 { font-size: 1.6rem; line-height: 1.25; margin: 0 0 1rem; }
+      h2 { font-size: 1.1rem; line-height: 1.3; margin: 1.8rem 0 .4rem; }
+      p { margin: 0 0 .75rem; }
+    </style>
+  </head>
+  <body>
+    <h1>Privacy</h1>
+
+    <p>This page covers the website wowforever.be and the iOS app that goes with it.</p>
+
+    <h2>The app does not ask who you are</h2>
+    <p>
+      There is no account, no login and no profile. The app never asks for a name, an
+      email address or a phone number, and it has no analytics in it.
+    </p>
+
+    <h2>What the app stores on a server</h2>
+    <p>Two things, and only these two.</p>
+    <p>
+      <strong>Notifications.</strong> If you allow notifications, the app sends the
+      notification token that Apple issues for your device, the language you picked in
+      the app, and whether the build is a test build or a released one. That token
+      identifies a device to Apple's notification service, not a person. Turning
+      notifications off in iOS stops the notifications; the stored token becomes unusable
+      and is removed when Apple reports it as no longer valid.
+    </p>
+    <p>
+      <strong>Likes.</strong> Tapping the heart on an article sends the article and a
+      random identifier that your device generates by itself and keeps locally. It is not
+      derived from your device, your account or anything about you, and it exists so that
+      the same article is not counted twice. The website does the same thing with a value
+      in your browser's local storage.
+    </p>
+
+    <h2>What the app keeps on your device</h2>
+    <p>
+      Your language and theme, which articles you liked, and a copy of the news so the
+      app opens without a connection. Deleting the app removes all of it.
+    </p>
+
+    <h2>The talent and Legacy calculators</h2>
+    <p>
+      Nothing you build is sent anywhere. A build lives in the link, which is why sharing
+      one is copy and paste. Opening a shared link reads the build from the address and
+      stores nothing.
+    </p>
+
+    <h2>The website</h2>
+    <p>
+      The website uses Google Analytics to count visits. The likes work as described
+      above. The site is served as static files by GitHub Pages, which, like any web
+      server, logs requests.
+    </p>
+
+    <h2>Other companies involved</h2>
+    <p>
+      Notifications go through Apple. Likes and notification tokens are stored with
+      Supabase. Visit counts go to Google Analytics. The site is hosted by GitHub Pages.
+    </p>
+
+    <h2>Children</h2>
+    <p>
+      The app is not aimed at children and collects nothing that identifies anyone, of any
+      age.
+    </p>
+
+    <h2>Getting in touch</h2>
+    <p>
+      Questions about this page, or about what the app stores, can go to
+      contact@wowforever.be.
+    </p>
+
+    <h2>Changes</h2>
+    <p>
+      If what the app stores ever changes, this page changes with it. Last updated on
+      19 September 2026.
+    </p>
+
+    <h2>Not affiliated with Blizzard</h2>
+    <p>
+      This is an unofficial fan project with no connection to Blizzard Entertainment.
+      World of Warcraft and Blizzard Entertainment are trademarks of Blizzard
+      Entertainment, Inc.
+    </p>
+  </body>
+</html>

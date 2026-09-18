@@ -51,7 +51,7 @@ export default defineConfig({
         defaultLocale: 'en',
         locales: { en: 'en', nl: 'nl', fr: 'fr', es: 'es', it: 'it', de: 'de' },
       },
-      filter: (page) => !/\/submit\/?$/.test(new URL(page).pathname),
+      filter: (page) => !/\/(submit|privacy)\/?$/.test(new URL(page).pathname),
     }),
   ],
 

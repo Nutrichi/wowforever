@@ -42,6 +42,16 @@ export type GridNode = {
 interface Props {
   /** `arms`, `professions`, ... Uniek binnen de pagina. */
   id: string;
+  /*
+   Het beeld achter de boom, als bestandsnaam in `public/trees` zonder pad.
+
+   Dezelfde beelden als in de iOS-app, zodat de twee schermen gelijk lopen
+   (Nutri, 19 september 2026). `soft` zet de behandeling van de Legacy-boom
+   aan: die heeft in het spel geen achtergrond en krijgt een sluier die met het
+   thema meegaat in plaats van een vaste donkere.
+  */
+  art?: string;
+  soft?: boolean;
   name: string;
   /** 0, 1 of 2: bepaalt de tint van de achtergrond. */
   index: number;
@@ -52,7 +62,7 @@ interface Props {
   resetLabel: string;
 }
 
-const { id, name, index, rows, nodes, ranks, resetLabel } = Astro.props;
+const { id, name, index, rows, nodes, ranks, resetLabel, art, soft = false } = Astro.props;
 const spent = ranks.reduce((som, n) => som + n, 0);
 
 /* De pijlen: van het vakje dat vol moet staan naar het vakje dat wacht. */
@@ -64,7 +74,12 @@ const arrows = nodes
   .filter((a): a is { from: GridNode; to: GridNode } => a !== null);
 ---
 
-<section class="wf-tree" data-tree={id} data-index={index % 3} style={`--rows:${rows}`}>
+<section
+  class:list={['wf-tree', { 'is-soft': soft }]}
+  data-tree={id}
+  data-index={index % 3}
+  style={[`--rows:${rows}`, art ? `--wf-tree-art:url('/trees/${art}')` : ''].filter(Boolean).join(';')}
+>
   <header class="wf-tree__head">
     <h2 class="wf-tree__name">{name}</h2>
     <span class="wf-tree__spent" data-tree-spent>{spent}</span>

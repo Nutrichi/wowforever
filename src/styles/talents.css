@@ -61,6 +61,46 @@
   color: var(--wf-label);
 }
 
+/* --- De schakelaar tussen de twee rekenmachines --- */
+
+/*
+ Twee knoppen naast elkaar, de huidige opgelicht. Zie `CalcSwitch.astro` voor
+ waarom de Legacy-kant naar `/talents/` wijst en niet naar een class.
+ */
+.wf-calcswitch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.wf-calcswitch__item {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 15px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-pill);
+  font-family: var(--wf-display);
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--wf-muted);
+  text-decoration: none;
+  transition: var(--wf-transition);
+}
+
+.wf-calcswitch__item:hover,
+.wf-calcswitch__item:focus-visible {
+  border-color: var(--wf-arcane);
+  color: var(--wf-ink);
+}
+
+.wf-calcswitch__item.is-current {
+  background: var(--wf-accent-soft);
+  border-color: var(--wf-accent);
+  color: var(--wf-accent-bright);
+}
+
 /* --- De classes --- */
 
 .wf-classlist {
@@ -222,14 +262,71 @@
   padding: 16px;
   border: 1px solid var(--wf-border);
   border-radius: var(--wf-r-card);
-  /* De grond van de boom: een gloed van onderaf in de tint van deze boom en een
-     zwakkere van bovenaf, met een randje in dezelfde tint eromheen. Getekend,
-     geen beeld; zie de kop van dit bestand. */
+  /* De grond van de boom, voor het geval er geen beeld is: een gloed van
+     onderaf in de tint van deze boom en een zwakkere van bovenaf. */
   background:
     radial-gradient(130% 75% at 50% 118%, color-mix(in srgb, var(--wf-tint) 30%, transparent), transparent 62%),
     radial-gradient(100% 45% at 50% -8%, color-mix(in srgb, var(--wf-tint) 12%, transparent), transparent 70%),
     var(--wf-slot-a);
   box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--wf-tint) 16%, transparent);
+}
+
+/*
+ De achtergrond uit het spel, dezelfde als in de iOS-app (Nutri, 19 september
+ 2026: de twee moeten gelijk lopen).
+
+ `--wf-tree-art` zet de component per boom; de beelden staan in `public/trees`
+ en komen uit `wow-forever-app`, zie het herkomstbestand daar. Er ligt een
+ donkere sluier overheen, want zonder dat verdwijnen de gedempte vakjes in een
+ lucht die feller is dan zij, en dat is precies wat je aan een boom afleest.
+
+ Het beeld wordt uitgerekt en niet bijgesneden: 300 bij 331 tegenover een boom
+ die veel hoger dan breed is, en bijsnijden zou een kwart van de breedte
+ afhalen waar bij de meeste bomen juist het onderwerp staat.
+ */
+.wf-tree[style*='--wf-tree-art'] {
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, .46),
+      rgba(0, 0, 0, .30) 45%,
+      rgba(0, 0, 0, .42)),
+    var(--wf-tree-art) center / 100% 100% no-repeat,
+    var(--wf-slot-a);
+}
+
+/*
+ De Legacy-boom is een geval apart.
+
+ Het spel heeft daar geen achtergrond voor. In de app staat er een sterk
+ verkleinde schermafbeelding van Forever achter, met een sluier die met het
+ thema meegaat: donker in het nachtthema, licht overdag. Hier hetzelfde, zodat
+ de twee schermen op elkaar lijken.
+ */
+.wf-tree.is-soft {
+  background:
+    radial-gradient(130% 75% at 50% 118%, color-mix(in srgb, var(--wf-tint) 20%, transparent), transparent 62%),
+    linear-gradient(rgba(0, 0, 0, .68), rgba(0, 0, 0, .68)),
+    var(--wf-tree-art) center / 100% 100% no-repeat,
+    var(--wf-slot-a);
+}
+
+:root[data-theme='day'] .wf-tree.is-soft {
+  background:
+    radial-gradient(130% 75% at 50% 118%, color-mix(in srgb, var(--wf-tint) 12%, transparent), transparent 62%),
+    linear-gradient(rgba(255, 255, 255, .66), rgba(255, 255, 255, .66)),
+    var(--wf-tree-art) center / 100% 100% no-repeat,
+    var(--wf-slot-a);
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme='night']) .wf-tree.is-soft {
+    background:
+      radial-gradient(130% 75% at 50% 118%, color-mix(in srgb, var(--wf-tint) 12%, transparent), transparent 62%),
+      linear-gradient(rgba(255, 255, 255, .66), rgba(255, 255, 255, .66)),
+      var(--wf-tree-art) center / 100% 100% no-repeat,
+      var(--wf-slot-a);
+  }
 }
 
 .wf-tree[data-index='1'] { --wf-tint: var(--wf-arcane); }
@@ -339,6 +436,18 @@
    Alleen het icoon dooft, want de teller en de ster erboven zijn geen plaatje
    maar tekst die leesbaar moet blijven. */
 .wf-node.is-locked img { opacity: .45; filter: saturate(.2) brightness(.8); }
+
+/*
+ Op het beeld uit het spel wordt een dicht vakje donker gemaakt in plaats van
+ doorzichtig. Doorzichtig werkte zolang de grond effen was; over een lucht die
+ feller is dan het icoon scheen het vakje gewoon weg. Dezelfde keuze als in de
+ app, zie `TalentFrame.onArt` daar. De Legacy-boom heeft een grond die met het
+ thema meegaat en houdt dus de doorzichtige demping.
+ */
+.wf-tree[style*='--wf-tree-art']:not(.is-soft) .wf-node.is-locked img {
+  opacity: 1;
+  filter: saturate(.2) brightness(.5);
+}
 .wf-node.is-locked { border-color: color-mix(in srgb, var(--wf-border) 60%, transparent); }
 .wf-node.is-locked .wf-node__rank { color: var(--wf-label); }
 

@@ -21,6 +21,7 @@ import {
   decodeBuild, legacyCategories, legacySpendable, legacyEarnable, clientBuild,
 } from '../../lib/talents';
 import TalentTreeGrid, { type GridNode } from './TalentTreeGrid.astro';
+import CalcSwitch from './CalcSwitch.astro';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import '../../styles/talents.css';
 
@@ -107,6 +108,8 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
       </div>
     </header>
 
+    <CalcSwitch locale={locale} base={base} current="legacy" />
+
     <div class="wf-calcbar">
       <p class="wf-calcbar__points">
         <span data-spent>{spent}</span><span class="wf-calcbar__of">/{total}</span>
@@ -126,6 +129,8 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
       {trees.map((tree) => (
         <TalentTreeGrid
           id={tree.id}
+          art="treebg_legacy.jpg"
+          soft
           name={tree.name}
           index={tree.index}
           rows={tree.rows}

@@ -1,0 +1,43 @@
+---
+/*
+ De schakelaar tussen de twee rekenmachines (Nutri, 19 september 2026).
+
+ Vanaf `/talents/` kies je tussen de talenten en Legacy, maar eenmaal in een van
+ de twee was er geen weg naar de andere dan terug via de navigatie. Deze twee
+ knoppen staan bovenaan allebei de calculators.
+
+ **De adressen veranderen niet.** De iOS-app deelt links naar
+ `/talents/<class>/?t=...` en `/talents/legacy/?l=...`; verandert daar iets aan,
+ dan wijst elke gedeelde link naar een pagina die er niet meer is.
+
+ Vanaf Legacy gaat de knop naar `/talents/`, de pagina met de negen classes, en
+ niet naar een class die wij zouden kiezen: zonder class is er geen talentboom
+ om te tonen.
+ */
+import type { Locale } from '../../i18n/ui';
+import { talT } from '../../i18n/talents';
+
+interface Props {
+  locale: Locale;
+  /** Het pad van `/talents/` in deze taal, zonder slash op het einde. */
+  base: string;
+  /** Welke van de twee je nu bekijkt. */
+  current: 'talents' | 'legacy';
+}
+
+const { locale, base, current } = Astro.props;
+const t = talT(locale);
+---
+
+<nav class="wf-calcswitch" aria-label={t('title')}>
+  <a
+    class:list={['wf-calcswitch__item', { 'is-current': current === 'talents' }]}
+    href={`${base}/`}
+    aria-current={current === 'talents' ? 'page' : undefined}
+  >{t('talentCard')}</a>
+  <a
+    class:list={['wf-calcswitch__item', { 'is-current': current === 'legacy' }]}
+    href={`${base}/legacy/`}
+    aria-current={current === 'legacy' ? 'page' : undefined}
+  >{t('legacyCard')}</a>
+</nav>

@@ -23,6 +23,7 @@ import {
   totalTalentPoints, talentClasses, clientBuild,
 } from '../../lib/talents';
 import TalentTreeGrid, { type GridNode } from './TalentTreeGrid.astro';
+import CalcSwitch from './CalcSwitch.astro';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import '../../styles/talents.css';
 
@@ -106,6 +107,8 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
       </div>
     </header>
 
+    <CalcSwitch locale={locale} base={base} current="talents" />
+
     <nav class="wf-classrow" aria-label={t('chooseClass')}>
       {talentClasses().map((entry) => (
         <a
@@ -139,6 +142,7 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
       {trees.map((tree) => (
         <TalentTreeGrid
           id={tree.id}
+          art={`treebg_${klass.id}_${tree.id}.jpg`}
           name={tree.name}
           index={tree.index}
           rows={tree.rows}
