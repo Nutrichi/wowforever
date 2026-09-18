@@ -1,0 +1,17 @@
+---
+/* De talentcalculator van een class, in de vijf andere talen. */
+import type { GetStaticPaths } from 'astro';
+import TalentCalculator from '../../../components/talents/TalentCalculator.astro';
+import { type TalentClass, talentClasses } from '../../../lib/talents';
+import { otherLocales } from '../../../lib/posts';
+import type { Locale } from '../../../i18n/ui';
+
+export const getStaticPaths: GetStaticPaths = () =>
+  otherLocales.flatMap((lang) =>
+    talentClasses().map((klass) => ({ params: { lang, class: klass.id }, props: { klass } })));
+
+const locale = Astro.params.lang as Locale;
+const { klass } = Astro.props as { klass: TalentClass };
+---
+
+<TalentCalculator locale={locale} klass={klass} />

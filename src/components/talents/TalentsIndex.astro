@@ -1,0 +1,80 @@
+---
+/*
+ * TALENTS op /talents/: de ingang naar de twee rekenmachines.
+ *
+ * Twee kaarten en verder niets. De keuze tussen de talentboom en de Legacy-boom
+ * is de enige die hier gemaakt wordt, en alles wat er nog bij zou staan leidt
+ * daarvan af.
+ *
+ * De kaart van de talenten toont de negen classes, elk in zijn eigen kleur,
+ * zodat je met één klik in de juiste boom zit in plaats van eerst deze pagina
+ * en dan nog een keuzelijst.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { talT } from '../../i18n/talents';
+import { talentClasses, totalTalentPoints, legacySpendable, clientBuild } from '../../lib/talents';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import '../../styles/talents.css';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = talT(locale);
+const ui = useTranslations(locale);
+const classes = talentClasses();
+const base = localizePath('talents', locale);
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: ui('nav.talents'), path: `${base}/` },
+];
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+---
+
+<BaseLayout locale={locale} title={t('title')} description={t('description')}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <div class="wf-talents">
+    <header class="wf-ghead">
+      <div class="wf-ghead__main">
+        <h1 class="wf-ghead__title">{t('title')}</h1>
+        <p class="wf-ghead__intro">{t('intro')}</p>
+      </div>
+    </header>
+
+    <div class="wf-calccards">
+      <section class="wf-calccard">
+        <h2 class="wf-calccard__title">{t('talentCard')}</h2>
+        <p class="wf-calccard__text">{t('talentCardText')}</p>
+
+        <ul class="wf-classlist">
+          {classes.map((entry) => (
+            <li>
+              <a class="wf-classpill" href={`${base}/${entry.id}/`} data-class={entry.id}>
+                <span class="wf-classpill__diamond" aria-hidden="true"></span>
+                <span class="wf-classpill__name">{entry.name}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+
+        <p class="wf-calccard__meta">{totalTalentPoints()} {t('points')}</p>
+      </section>
+
+      <section class="wf-calccard">
+        <h2 class="wf-calccard__title">{t('legacyCard')}</h2>
+        <p class="wf-calccard__text">{t('legacyCardText')}</p>
+
+        <a class="wf-btn wf-btn--primary" href={`${base}/legacy/`}>{t('open')}</a>
+
+        <p class="wf-calccard__meta">{legacySpendable()} {t('points')}</p>
+      </section>
+    </div>
+
+    <p class="wf-talents__source">{t('source', { build: clientBuild() })}</p>
+  </div>
+</BaseLayout>

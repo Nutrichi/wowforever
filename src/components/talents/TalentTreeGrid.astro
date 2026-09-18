@@ -1,0 +1,133 @@
+---
+/*
+ * Eén boom: het raster met de iconen, de pijlen en de teller.
+ *
+ * Gedeeld door de talentcalculator en de Legacy-calculator, want het is
+ * hetzelfde soort raster. De vorm volgt het spel: vier kolommen, een gouden
+ * lijst om elk icoon die oplicht zodra er punten in staan, een teller
+ * rechtsonder, en een pijl van het talent dat vol moet staan naar het talent
+ * dat daarop wacht.
+ *
+ * **De achtergrond is getekend en niet overgenomen.** In het spel heeft elke
+ * boom een eigen beeld; dat zijn beelden van Blizzard en die komen hier niet in
+ * (PROJECT_SPEC.md §2.4). Wat hier staat is dezelfde bedoeling in de huisstijl:
+ * een donkere grond met een gloed in de tint van deze boom en een raster van
+ * haarlijnen.
+ *
+ * Alles wat er gebeurt als je klikt, staat in `src/scripts/talent-calc.ts`.
+ * Deze component zet alleen de markup neer, met de gegevens in data-attributen
+ * zodat het script niets hoeft op te zoeken.
+ */
+import { iconUrl } from '../../lib/talents';
+
+export type GridNode = {
+  id: string;
+  name: string;
+  row: number;
+  col: number;
+  maxRank: number;
+  icon: string | null;
+  /** Het vakje in deze boom dat eerst vol moet staan. */
+  requires: string | null;
+  /** Hoeveel punten er in de boom moeten staan voor de rij opengaat. */
+  needs: number;
+  /** `new`, `changed`, `unchanged`, of leeg. */
+  status: string;
+  /** Blizzard heeft dit vakje leeg gelaten (alleen Legacy). */
+  unknown?: boolean;
+  /** De tooltip, als klaargezette HTML. */
+  tip: string;
+};
+
+interface Props {
+  /** `arms`, `professions`, ... Uniek binnen de pagina. */
+  id: string;
+  name: string;
+  /** 0, 1 of 2: bepaalt de tint van de achtergrond. */
+  index: number;
+  rows: number;
+  nodes: GridNode[];
+  /** Punten die er al in staan, uit het adres. Eén getal per node, in volgorde. */
+  ranks: number[];
+  resetLabel: string;
+}
+
+const { id, name, index, rows, nodes, ranks, resetLabel } = Astro.props;
+const spent = ranks.reduce((som, n) => som + n, 0);
+
+/* De pijlen: van het vakje dat vol moet staan naar het vakje dat wacht. */
+const arrows = nodes
+  .map((node) => {
+    const source = nodes.find((n) => n.id === node.requires);
+    return source ? { from: source, to: node } : null;
+  })
+  .filter((a): a is { from: GridNode; to: GridNode } => a !== null);
+---
+
+<section class="wf-tree" data-tree={id} data-index={index % 3} style={`--rows:${rows}`}>
+  <header class="wf-tree__head">
+    <h2 class="wf-tree__name">{name}</h2>
+    <span class="wf-tree__spent" data-tree-spent>{spent}</span>
+    <button type="button" class="wf-tree__reset" data-tree-reset={id}>{resetLabel}</button>
+  </header>
+
+  <div class="wf-tree__grid">
+    <svg class="wf-tree__arrows" aria-hidden="true" viewBox={`0 0 244 ${rows * 52 + (rows - 1) * 12}`}>
+      {arrows.map((arrow) => {
+        /* Zelfde meetkunde als de app: vakje 52, tussenruimte 12. */
+        const cx = (col: number) => (col - 0.5) * 52 + (col - 1) * 12;
+        const cy = (row: number) => (row - 0.5) * 52 + (row - 1) * 12;
+        const x1 = cx(arrow.from.col), y1 = cy(arrow.from.row);
+        const x2 = cx(arrow.to.col), y2 = cy(arrow.to.row);
+        const hoek = Math.atan2(y2 - y1, x2 - x1);
+        const co = Math.cos(hoek), si = Math.sin(hoek);
+        /* 26 is de helft van een vakje, plus 3 lucht: de pijl raakt het icoon
+           niet aan. */
+        const marge = 29;
+        const [bx, by] = [x1 + co * marge, y1 + si * marge];
+        const [ex, ey] = [x2 - co * marge, y2 - si * marge];
+        /* De punt: een driehoek met de tip op het einde van de lijn. Geen
+           `marker`, want die krijgt zijn kleur niet van de lijn die hem
+           gebruikt, en de punt moet mee oplichten. */
+        const [lang, breed] = [9, 5];
+        const [mx, my] = [ex - co * lang, ey - si * lang];
+        const punt = [
+          `${ex},${ey}`,
+          `${mx - si * breed},${my + co * breed}`,
+          `${mx + si * breed},${my - co * breed}`,
+        ].join(' ');
+        return (
+          <g class="wf-tree__arrow" data-arrow-from={arrow.from.id}>
+            <line x1={bx} y1={by} x2={mx} y2={my} />
+            <polygon points={punt} />
+          </g>
+        );
+      })}
+    </svg>
+
+    {nodes.map((node, i) => (
+      <button
+        type="button"
+        class="wf-node"
+        style={`grid-row:${node.row};grid-column:${node.col}`}
+        data-node={node.id}
+        data-index={i}
+        data-col={node.col}
+        data-max={node.maxRank}
+        data-needs={node.needs}
+        data-requires={node.requires ?? ''}
+        data-rank={ranks[i] ?? 0}
+        data-unknown={node.unknown ? '1' : ''}
+        disabled={node.unknown}
+        aria-label={node.name}
+      >
+        {node.unknown
+          ? <span class="wf-node__unknown" aria-hidden="true">?</span>
+          : <img src={iconUrl(node.icon)} alt="" width="52" height="52" loading="lazy" />}
+        {node.status === 'new' && <span class="wf-node__new" aria-hidden="true">★</span>}
+        {!node.unknown && <span class="wf-node__rank" data-node-rank>{ranks[i] ?? 0}/{node.maxRank}</span>}
+        <span class="wf-tip" role="tooltip" set:html={node.tip} />
+      </button>
+    ))}
+  </div>
+</section>

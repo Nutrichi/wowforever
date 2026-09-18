@@ -1,0 +1,161 @@
+---
+/*
+ * De talentcalculator van één class, op /talents/<class>/.
+ *
+ * De drie bomen staan naast elkaar zoals in het spel; onder 900 px komen ze
+ * onder elkaar, want drie rasters van 244 px passen niet op een telefoon.
+ *
+ * De build zit in het adres (`?t=353-...`), zodat delen knippen en plakken is
+ * en er niets bewaard hoeft te worden. De codering staat in `AFSPRAKEN.md` §15
+ * van de app; app en site lezen hem allebei, dus hij hoort bij geen van de twee
+ * alleen.
+ *
+ * De pagina wordt gebouwd met de punten die al in het adres staan. Zo toont ook
+ * een bezoeker zonder JavaScript de gedeelde build; klikken werkt dan niet,
+ * maar lezen wel, en dat is waar een gedeelde link voor is.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { talT } from '../../i18n/talents';
+import {
+  type TalentClass, decodeBuild, requiredPoints, rowCount,
+  totalTalentPoints, talentClasses, clientBuild,
+} from '../../lib/talents';
+import TalentTreeGrid, { type GridNode } from './TalentTreeGrid.astro';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import '../../styles/talents.css';
+
+interface Props {
+  locale: Locale;
+  klass: TalentClass;
+}
+
+const { locale, klass } = Astro.props;
+const t = talT(locale);
+const ui = useTranslations(locale);
+const base = localizePath('talents', locale);
+const total = totalTalentPoints();
+
+/* De build uit het adres. Bij het bouwen is die leeg; in de browser vult het
+   script hem alsnog in, zodat een gedeelde link ook op een statische pagina
+   opengaat. */
+const code = Astro.url.searchParams.get('t');
+const sizes = klass.trees.map((tree) => tree.talents.length);
+const maxRanks = klass.trees.map((tree) => tree.talents.map((talent) => talent.maxRank));
+const build = decodeBuild(code, sizes, maxRanks);
+
+/** De tooltip van een talent, als HTML. Alles wat je wil weten bij dat vakje. */
+function tip(talent: TalentClass['trees'][number]['talents'][number]): string {
+  const merk = talent.status === 'new' ? t('statusNew')
+    : talent.status === 'changed' ? t('statusChanged') : '';
+  const regels = talent.ranks
+    .map((r) => `<span class="wf-tip__rank"><b>${t('rank')} ${r.rank}</b>${escape(r.text)}</span>`)
+    .join('');
+  return [
+    `<span class="wf-tip__name">${escape(talent.name)}</span>`,
+    merk ? `<span class="wf-tip__flag">${escape(merk)}</span>` : '',
+    talent.cost ? `<span class="wf-tip__cost">${escape(talent.cost)}</span>` : '',
+    regels || `<span class="wf-tip__rank">${escape(t('noDescription'))}</span>`,
+  ].join('');
+}
+
+/** Tekst veilig in HTML zetten; de teksten komen uit de client van het spel. */
+function escape(value: string): string {
+  return value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+const trees = klass.trees.map((tree, index) => ({
+  id: tree.id,
+  name: tree.name,
+  index,
+  rows: rowCount(tree),
+  ranks: build[index],
+  nodes: tree.talents.map<GridNode>((talent) => ({
+    id: talent.id,
+    name: talent.name,
+    row: talent.row,
+    col: talent.col,
+    maxRank: talent.maxRank,
+    icon: talent.icon,
+    requires: talent.requires,
+    needs: requiredPoints(talent),
+    status: talent.status,
+    tip: tip(talent),
+  })),
+}));
+
+const spent = build.reduce((som, ranks) => som + ranks.reduce((s, n) => s + n, 0), 0);
+const title = `${klass.name} ${t('title')}`;
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: ui('nav.talents'), path: `${base}/` },
+  { name: klass.name, path: `${base}/${klass.id}/` },
+];
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+---
+
+<BaseLayout locale={locale} title={title} description={t('description')}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <div class="wf-talents wf-calc" data-calc="talents" data-total={total}>
+    <header class="wf-ghead">
+      <div class="wf-ghead__main">
+        <h1 class="wf-ghead__title">{title}</h1>
+        <p class="wf-ghead__intro">{t('howto')}</p>
+      </div>
+    </header>
+
+    <nav class="wf-classrow" aria-label={t('chooseClass')}>
+      {talentClasses().map((entry) => (
+        <a
+          class:list={['wf-classpill', { 'is-current': entry.id === klass.id }]}
+          href={`${base}/${entry.id}/`}
+          data-class={entry.id}
+          aria-current={entry.id === klass.id ? 'page' : undefined}
+        >
+          <span class="wf-classpill__diamond" aria-hidden="true"></span>
+          <span class="wf-classpill__name">{entry.name}</span>
+        </a>
+      ))}
+    </nav>
+
+    <div class="wf-calcbar">
+      <p class="wf-calcbar__points">
+        <span data-spent>{spent}</span><span class="wf-calcbar__of">/{total}</span>
+        <span class="wf-calcbar__label">{t('points')}</span>
+      </p>
+      <p class="wf-calcbar__level" data-level-wrap hidden={spent === 0}>
+        <span class="wf-calcbar__label">{t('requiredLevel')}</span>
+        <span data-level>{spent === 0 ? '' : spent + 9}</span>
+      </p>
+      <div class="wf-calcbar__actions">
+        <button type="button" class="wf-btn wf-btn--primary" data-copy data-copied={t('copied')}>{t('copyLink')}</button>
+        <button type="button" class="wf-btn" data-reset-all>{t('resetAll')}</button>
+      </div>
+    </div>
+
+    <div class="wf-trees">
+      {trees.map((tree) => (
+        <TalentTreeGrid
+          id={tree.id}
+          name={tree.name}
+          index={tree.index}
+          rows={tree.rows}
+          nodes={tree.nodes}
+          ranks={tree.ranks}
+          resetLabel={t('reset')}
+        />
+      ))}
+    </div>
+
+    <p class="wf-talents__source">
+      {t('source', { build: clientBuild() })}
+      <a href={`${base}/`}>{t('backToTalents')}</a>
+    </p>
+  </div>
+
+  <script>
+    import '../../scripts/talent-calc';
+  </script>
+</BaseLayout>

@@ -17,6 +17,7 @@ import { localizePath } from '../i18n/utils';
 import { feedHasContent } from '../lib/feeds';
 import { getBisLists } from '../lib/bis';
 import { getReputations } from '../lib/reputations';
+import { talentClasses } from '../lib/talents';
 import { bisEras } from './bis';
 import { guideEras } from './guides';
 
@@ -49,6 +50,12 @@ const sections: Section[] = [
   { id: 'classes', labelKey: 'nav.classes', path: 'classes', eraLinks: guideEras, hasContent: () => true },
   // De tradeskillgidsen per era; Forever toont de perks (fase 4).
   { id: 'tradeskills', labelKey: 'nav.tradeskills', path: 'tradeskills', eraLinks: guideEras, hasContent: () => true },
+  /*
+   * De rekenmachines voor talenten en Legacy (Nutri, 18 september 2026). Geen
+   * era: ze gaan alleen over Forever. De tab staat er zodra er data is, en die
+   * zit in src/data/; zie components/talents/.
+   */
+  { id: 'talents', labelKey: 'nav.talents', path: 'talents', hasContent: () => talentClasses().length > 0 },
   // De facties van WoW Forever, zonder era (fase 6, Nutri 15 september 2026): de tab verschijnt met de eerste factie.
   { id: 'reputations', labelKey: 'nav.reputations', path: 'reputations', hasContent: async () => (await getReputations(defaultLocale)).length > 0 },
   // Clips en Streams halen hun inhoud op vlak voor de build (§7).

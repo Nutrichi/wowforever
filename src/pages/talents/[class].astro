@@ -1,0 +1,18 @@
+---
+/*
+ * De talentcalculator van een class, in het Engels, op /talents/<class>/.
+ *
+ * `legacy` is geen class maar een eigen pagina; die staat in legacy.astro en
+ * Astro geeft een vast pad voorrang op een parameter, dus ze bijten elkaar niet.
+ */
+import type { GetStaticPaths } from 'astro';
+import TalentCalculator from '../../components/talents/TalentCalculator.astro';
+import { type TalentClass, talentClasses } from '../../lib/talents';
+
+export const getStaticPaths: GetStaticPaths = () =>
+  talentClasses().map((klass) => ({ params: { class: klass.id }, props: { klass } }));
+
+const { klass } = Astro.props as { klass: TalentClass };
+---
+
+<TalentCalculator locale="en" klass={klass} />

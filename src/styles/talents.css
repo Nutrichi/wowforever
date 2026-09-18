@@ -1,0 +1,496 @@
+/*
+ * De twee rekenmachines (PROJECT_SPEC.md §5, handoff §4).
+ *
+ * De vorm volgt het spel: drie bomen naast elkaar, vier kolommen per boom, een
+ * gouden lijst om elk icoon die oplicht zodra er punten in staan, en een pijl
+ * van het talent dat vol moet staan naar het talent dat daarop wacht.
+ *
+ * **Alleen kleuren uit de handoff.** De achtergrond van een boom is getekend
+ * met verlopen en niet met een beeld: de achtergronden uit het spel zijn van
+ * Blizzard en komen hier niet in (§2.4). De tint per boom komt uit `--wf-tint`,
+ * die de component zet op goud, arcaanblauw of groen.
+ *
+ * De maat is vast en niet rekbaar: een vakje is 52 px met 12 ertussen, dus een
+ * boom is 244 px breed. Dat is dezelfde maat als in de iOS-app, zodat de twee
+ * er hetzelfde uitzien, en het maakt de pijlen te berekenen.
+ */
+
+.wf-talents {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+/* --- De ingang met de twee kaarten --- */
+
+.wf-calccards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 26px;
+}
+
+.wf-calccard {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  padding: 22px;
+  background: var(--wf-raised);
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card);
+  box-shadow: var(--wf-glow-card);
+}
+
+.wf-calccard__title {
+  font-family: var(--wf-serif);
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.2;
+  margin: 0;
+  color: var(--wf-ink);
+}
+
+.wf-calccard__text { margin: 0; color: var(--wf-muted); }
+
+.wf-calccard__meta {
+  margin: 0;
+  font-family: var(--wf-display);
+  font-size: 13px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--wf-label);
+}
+
+/* --- De classes --- */
+
+.wf-classlist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.wf-classrow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.wf-classpill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 13px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-pill);
+  font-family: var(--wf-display);
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: .11em;
+  text-transform: uppercase;
+  color: var(--wf-muted);
+  transition: var(--wf-transition);
+}
+
+.wf-classpill:hover,
+.wf-classpill:focus-visible { border-color: var(--wf-arcane); box-shadow: var(--wf-glow-pill); }
+
+.wf-classpill.is-current {
+  color: var(--wf-ink);
+  background: var(--wf-accent-wash);
+  border-color: var(--wf-class, var(--wf-accent));
+  border-width: 2px;
+  padding: 6px 12px;
+}
+
+/*
+ * Het ruitje draagt de canonieke klassenkleur van Blizzard (handoff §4.5). Dat
+ * is de enige plek waar verzadigde kleur juist is; op het dagthema blijft de
+ * tekst de inkt van het palet en draagt alleen dit ruitje de kleur.
+ */
+.wf-classpill__diamond {
+  flex: none;
+  width: 9px;
+  height: 9px;
+  background: var(--wf-class, var(--wf-accent));
+  transform: rotate(45deg);
+  box-shadow: 0 0 var(--wf-glow-diamond) var(--wf-class, var(--wf-accent));
+}
+
+.wf-classpill[data-class='warrior']      { --wf-class: #c69b6d; }
+.wf-classpill[data-class='paladin']      { --wf-class: #f48cba; }
+.wf-classpill[data-class='hunter']       { --wf-class: #aad372; }
+.wf-classpill[data-class='rogue']        { --wf-class: #fff468; }
+.wf-classpill[data-class='priest']       { --wf-class: #ffffff; }
+.wf-classpill[data-class='shaman']       { --wf-class: #2359ff; }
+.wf-classpill[data-class='mage']         { --wf-class: #3fc7eb; }
+.wf-classpill[data-class='warlock']      { --wf-class: #8788ee; }
+.wf-classpill[data-class='druid']        { --wf-class: #ff7c0a; }
+
+/* --- De balk met de teller --- */
+
+.wf-calcbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 18px;
+  padding: 14px 18px;
+  background: var(--wf-raised);
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card);
+}
+
+.wf-calcbar__points,
+.wf-calcbar__level { margin: 0; display: flex; align-items: baseline; gap: 7px; }
+
+.wf-calcbar__points [data-spent] {
+  font-family: var(--wf-serif);
+  font-weight: 600;
+  font-size: 26px;
+  font-variant-numeric: tabular-nums;
+  color: var(--wf-accent);
+}
+
+.wf-calcbar__of {
+  font-family: var(--wf-serif);
+  font-size: 20px;
+  color: var(--wf-label);
+}
+
+.wf-calcbar__level [data-level] {
+  font-family: var(--wf-serif);
+  font-size: 20px;
+  font-variant-numeric: tabular-nums;
+  color: var(--wf-ink);
+}
+
+.wf-calcbar__label {
+  font-family: var(--wf-display);
+  font-size: 12px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--wf-label);
+}
+
+.wf-calcbar__actions { margin-left: auto; display: flex; gap: 10px; }
+
+.wf-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 9px 16px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-pill);
+  background: none;
+  font-family: var(--wf-display);
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--wf-muted);
+  cursor: pointer;
+  transition: var(--wf-transition);
+}
+
+.wf-btn:hover, .wf-btn:focus-visible { border-color: var(--wf-arcane); color: var(--wf-ink); }
+
+.wf-btn--primary {
+  background: var(--wf-button);
+  border-color: transparent;
+  color: var(--wf-button-ink);
+  box-shadow: var(--wf-glow-primary);
+}
+
+.wf-btn--primary:hover, .wf-btn--primary:focus-visible { color: var(--wf-button-ink); }
+
+/* --- De bomen --- */
+
+.wf-trees {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(276px, 1fr));
+  gap: 22px;
+  align-items: start;
+}
+
+.wf-tree {
+  --wf-tint: var(--wf-accent);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card);
+  /* De grond van de boom: een gloed van onderaf in de tint van deze boom en een
+     zwakkere van bovenaf, met een randje in dezelfde tint eromheen. Getekend,
+     geen beeld; zie de kop van dit bestand. */
+  background:
+    radial-gradient(130% 75% at 50% 118%, color-mix(in srgb, var(--wf-tint) 30%, transparent), transparent 62%),
+    radial-gradient(100% 45% at 50% -8%, color-mix(in srgb, var(--wf-tint) 12%, transparent), transparent 70%),
+    var(--wf-slot-a);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--wf-tint) 16%, transparent);
+}
+
+.wf-tree[data-index='1'] { --wf-tint: var(--wf-arcane); }
+.wf-tree[data-index='2'] { --wf-tint: var(--wf-live); }
+
+.wf-tree__head { display: flex; align-items: center; gap: 10px; }
+
+.wf-tree__name {
+  font-family: var(--wf-serif);
+  font-weight: 600;
+  font-size: 19px;
+  margin: 0;
+  color: var(--wf-ink);
+}
+
+.wf-tree__spent {
+  font-family: var(--wf-serif);
+  font-size: 17px;
+  font-variant-numeric: tabular-nums;
+  color: var(--wf-accent);
+}
+
+.wf-tree__reset {
+  margin-left: auto;
+  padding: 4px 10px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-pill);
+  background: none;
+  font-family: var(--wf-display);
+  font-size: 11px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--wf-label);
+  cursor: pointer;
+  transition: var(--wf-transition);
+}
+
+.wf-tree__reset:hover { border-color: var(--wf-arcane); color: var(--wf-ink); }
+
+.wf-tree__grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, 52px);
+  grid-auto-rows: 52px;
+  gap: 12px;
+  width: 244px;
+  margin: 0 auto;
+  /* De haarlijnen die de rijen leesbaar houden, in plaats van een beeld. De
+     maat is 64: een vakje van 52 plus 12 ertussen. De lijn ligt op 58, dus
+     midden in de tussenruimte en nooit over een icoon. */
+  background-image:
+    repeating-linear-gradient(to bottom, transparent 0 58px, color-mix(in srgb, var(--wf-ink) 9%, transparent) 58px 59px, transparent 59px 64px),
+    repeating-linear-gradient(to right, transparent 0 58px, color-mix(in srgb, var(--wf-ink) 9%, transparent) 58px 59px, transparent 59px 64px);
+}
+
+.wf-tree__arrows {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+/* Een pijl is een lijn plus een driehoek in dezelfde kleur. Grijs zolang het
+   bronvakje niet vol staat, groen zodra het dat wel is: dat is wat het spel
+   doet, en het is met een blik te zien welke tak al open is. */
+.wf-tree__arrow line { stroke: var(--wf-muted-dim); stroke-width: 2; }
+.wf-tree__arrow polygon { fill: var(--wf-muted-dim); }
+.wf-tree__arrow { opacity: .45; transition: var(--wf-transition); }
+
+.wf-tree__arrow.is-open { opacity: 1; }
+.wf-tree__arrow.is-open line { stroke: var(--wf-live-ink); }
+.wf-tree__arrow.is-open polygon { fill: var(--wf-live-ink); }
+
+/* --- Een vakje --- */
+
+.wf-node {
+  position: relative;
+  width: 52px;
+  height: 52px;
+  padding: 0;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-badge);
+  background: var(--wf-slot-b);
+  cursor: pointer;
+  transition: var(--wf-transition);
+}
+
+.wf-node img { display: block; width: 100%; height: 100%; border-radius: inherit; }
+
+/* De lijst om een vakje volgt het spel: groen zolang er punten in staan maar
+   hij niet vol is, goud zodra hij vol is. Zo zie je zonder de tellers te lezen
+   waar nog een punt in kan. */
+.wf-node.is-started {
+  border-color: var(--wf-live-ink);
+  border-width: 2px;
+  box-shadow: 0 0 8px color-mix(in srgb, var(--wf-live) 40%, transparent);
+}
+
+.wf-node.is-filled {
+  border-color: var(--wf-accent-bright);
+  border-width: 2px;
+  box-shadow: 0 0 10px color-mix(in srgb, var(--wf-accent) 55%, transparent);
+}
+
+/* Een vakje waar nu geen punt in kan, staat donker: zo staat het in het spel.
+   Alleen het icoon dooft, want de teller en de ster erboven zijn geen plaatje
+   maar tekst die leesbaar moet blijven. */
+.wf-node.is-locked img { opacity: .45; filter: saturate(.2) brightness(.8); }
+.wf-node.is-locked { border-color: color-mix(in srgb, var(--wf-border) 60%, transparent); }
+.wf-node.is-locked .wf-node__rank { color: var(--wf-label); }
+
+.wf-node:disabled { cursor: default; }
+
+.wf-node__unknown {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  font-family: var(--wf-serif);
+  font-size: 22px;
+  color: var(--wf-label);
+}
+
+.wf-node__new {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  font-size: 9px;
+  line-height: 1;
+  color: var(--wf-featured);
+  text-shadow: 0 0 3px rgba(0, 0, 0, .9);
+}
+
+.wf-node__rank {
+  position: absolute;
+  right: 2px;
+  bottom: 2px;
+  padding: 0 3px;
+  border-radius: 3px;
+  background: var(--wf-bar);
+  border: 1px solid var(--wf-border);
+  font-size: 9.5px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--wf-body);
+}
+
+/* De teller in dezelfde twee kleuren als de lijst. */
+.wf-node.is-started .wf-node__rank { color: var(--wf-live-ink); }
+
+.wf-node.is-filled .wf-node__rank {
+  background: var(--wf-button);
+  border-color: transparent;
+  color: var(--wf-button-ink);
+}
+
+/* --- De tooltip --- */
+
+/* De tooltip staat naast het icoon en niet erboven, zoals in het spel. Boven
+   een vakje in de eerste rij zou hij buiten het scherm vallen, en naast een
+   vakje kan dat niet: hij staat midden op de hoogte van het vakje. De twee
+   rechtse kolommen klappen naar links, zodat hij binnen de boom blijft. */
+.wf-tip {
+  position: absolute;
+  left: calc(100% + 10px);
+  top: 50%;
+  z-index: 20;
+  display: none;
+  width: 260px;
+  /* --wf-tip-dx zet het script, zodat hij binnen het scherm blijft. */
+  transform: translateY(-50%) translateX(var(--wf-tip-dx, 0px));
+  padding: 12px 14px;
+  text-align: left;
+  background: var(--wf-raised);
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card-sm);
+  box-shadow: var(--wf-glow-card);
+  pointer-events: none;
+}
+
+.wf-node[data-col='3'] .wf-tip,
+.wf-node[data-col='4'] .wf-tip { left: auto; right: calc(100% + 10px); }
+
+.wf-node:hover .wf-tip,
+.wf-node:focus-visible .wf-tip { display: block; }
+
+.wf-tip__name {
+  display: block;
+  font-family: var(--wf-serif);
+  font-weight: 600;
+  font-size: 16px;
+  color: var(--wf-ink);
+}
+
+.wf-tip__flag {
+  display: block;
+  margin-top: 3px;
+  font-family: var(--wf-display);
+  font-size: 11px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--wf-arcane);
+}
+
+.wf-tip__cost {
+  display: block;
+  margin-top: 3px;
+  font-size: 12.5px;
+  color: var(--wf-label);
+}
+
+.wf-tip__rank {
+  display: block;
+  margin-top: 7px;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--wf-body);
+}
+
+.wf-tip__rank b {
+  display: block;
+  font-family: var(--wf-display);
+  font-weight: 500;
+  font-size: 11px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--wf-label);
+}
+
+/* --- De voetregel --- */
+
+.wf-talents__source {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 13px;
+  color: var(--wf-label);
+}
+
+.wf-talents__source a { color: var(--wf-arcane); }
+
+/* --- Smal --- */
+
+@media (max-width: 899px) {
+  .wf-trees { grid-template-columns: 1fr; justify-items: center; }
+  .wf-calcbar__actions { margin-left: 0; width: 100%; }
+  /* Naast een vakje is op een telefoon geen plaats; daar komt hij eronder, over
+     de breedte die er is. */
+  .wf-tip,
+  .wf-node[data-col='3'] .wf-tip,
+  .wf-node[data-col='4'] .wf-tip {
+    left: 50%;
+    right: auto;
+    top: calc(100% + 8px);
+    width: min(260px, 74vw);
+    transform: translateX(calc(-50% + var(--wf-tip-dx, 0px)));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wf-node, .wf-btn, .wf-classpill { transition: none; }
+}

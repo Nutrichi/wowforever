@@ -1,0 +1,14 @@
+---
+/* De Legacy-calculator in de vijf andere talen. */
+import type { GetStaticPaths } from 'astro';
+import LegacyCalculator from '../../../components/talents/LegacyCalculator.astro';
+import { otherLocales } from '../../../lib/posts';
+import type { Locale } from '../../../i18n/ui';
+
+export const getStaticPaths: GetStaticPaths = () =>
+  otherLocales.map((lang) => ({ params: { lang } }));
+
+const locale = Astro.params.lang as Locale;
+---
+
+<LegacyCalculator locale={locale} />

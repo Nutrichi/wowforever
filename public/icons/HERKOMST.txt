@@ -1,0 +1,13 @@
+De iconen van de talenten.
+
+379 bestanden van 56 bij 56, dezelfde als in de iOS-app wow-forever-app, waar
+ze opgehaald zijn met tools/haal-iconen.sh op de sleutels uit talents.json en
+legacy.json. Ze staan hier bij de site zodat de rekenmachines onder /talents/
+hun iconen van wowforever.be zelf halen en niet van de server van een ander.
+
+Dit is spelmateriaal van Blizzard Entertainment, geleverd via de beeld-CDN van
+Wowhead. Deze site is een onofficiele fansite en heeft geen band met Blizzard.
+World of Warcraft en Blizzard Entertainment zijn handelsmerken van Blizzard
+Entertainment, Inc.
+
+56 bij 56 is de grootste maat die er is; xlarge en huge bestaan niet.

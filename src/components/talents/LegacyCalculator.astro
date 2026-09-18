@@ -1,0 +1,148 @@
+---
+/*
+ * De Legacy-calculator, op /talents/legacy/.
+ *
+ * Dezelfde vorm als de talentcalculator, met drie verschillen die uit het spel
+ * zelf komen en niet uit een ontwerpkeuze:
+ *
+ *  1. Zestien punten in plaats van eenenvijftig, en dat is een bovengrens op
+ *     wat je mag besteden. Alle ingevulde vakjes vullen kost er meer; die
+ *     spanning is de opzet van het systeem en staat daarom bovenaan.
+ *  2. Geen drempel per rij. Een vakje diep in de boom kan meteen; alleen een
+ *     pijl zet iets op slot.
+ *  3. Zes vakjes die Blizzard leeg gelaten heeft voor een latere patch. Die
+ *     staan er met een vraagteken en kunnen geen punt krijgen.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { talT } from '../../i18n/talents';
+import {
+  decodeBuild, legacyCategories, legacySpendable, legacyEarnable, clientBuild,
+} from '../../lib/talents';
+import TalentTreeGrid, { type GridNode } from './TalentTreeGrid.astro';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import '../../styles/talents.css';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = talT(locale);
+const ui = useTranslations(locale);
+const base = localizePath('talents', locale);
+const categories = legacyCategories();
+const total = legacySpendable();
+const fill = categories.reduce(
+  (som, cat) => som + cat.nodes.filter((n) => !n.unknown).reduce((s, n) => s + n.maxRank, 0), 0);
+
+const code = Astro.url.searchParams.get('l');
+const sizes = categories.map((cat) => cat.nodes.length);
+const maxRanks = categories.map((cat) => cat.nodes.map((node) => node.maxRank));
+const build = decodeBuild(code, sizes, maxRanks);
+
+function escape(value: string): string {
+  return value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+/** De tooltip van een vakje: wat het is, wat het vraagt en wat het doet. */
+function tip(node: (typeof categories)[number]['nodes'][number],
+             cat: (typeof categories)[number]): string {
+  if (node.unknown) {
+    return `<span class="wf-tip__name">${escape(node.name)}</span>`
+      + `<span class="wf-tip__flag">${escape(t('notFilledIn'))}</span>`;
+  }
+  const delen = [node.passive ? t('passive') : t('active')];
+  if (node.cost) delen.push(node.cost);
+  const bron = node.requires ? cat.nodes.find((n) => n.id === node.requires) : undefined;
+  if (bron) delen.push(`${t('requires')} ${bron.name}`);
+  const regels = node.ranks
+    .map((r) => `<span class="wf-tip__rank"><b>${t('rank')} ${r.rank}</b>${escape(r.text)}</span>`)
+    .join('');
+  return `<span class="wf-tip__name">${escape(node.name)}</span>`
+    + `<span class="wf-tip__flag">${escape(delen.join(' · '))}</span>`
+    + regels;
+}
+
+const trees = categories.map((cat, index) => ({
+  id: cat.id,
+  name: cat.name,
+  index,
+  rows: cat.rows,
+  ranks: build[index],
+  nodes: cat.nodes.map<GridNode>((node) => ({
+    id: node.id,
+    name: node.name,
+    row: node.row,
+    col: node.col,
+    maxRank: node.maxRank,
+    icon: node.icon,
+    requires: node.requires,
+    /* Geen drempel per rij in de Legacy-boom; zie punt 2 hierboven. */
+    needs: 0,
+    status: '',
+    unknown: node.unknown,
+    tip: tip(node, cat),
+  })),
+}));
+
+const spent = build.reduce((som, ranks) => som + ranks.reduce((s, n) => s + n, 0), 0);
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: ui('nav.talents'), path: `${base}/` },
+  { name: 'Legacy', path: `${base}/legacy/` },
+];
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+---
+
+<BaseLayout locale={locale} title={t('legacyTitle')} description={t('legacyDescription')}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <div class="wf-talents wf-calc" data-calc="legacy" data-total={total}>
+    <header class="wf-ghead">
+      <div class="wf-ghead__main">
+        <h1 class="wf-ghead__title">{t('legacyTitle')}</h1>
+        <p class="wf-ghead__intro">{t('legacyIntro', { earnable: legacyEarnable(), fill })}</p>
+      </div>
+    </header>
+
+    <div class="wf-calcbar">
+      <p class="wf-calcbar__points">
+        <span data-spent>{spent}</span><span class="wf-calcbar__of">/{total}</span>
+        <span class="wf-calcbar__label">{t('points')}</span>
+      </p>
+      <p class="wf-calcbar__level">
+        <span class="wf-calcbar__label">{t('earnable')}</span>
+        <span data-earnable>~{legacyEarnable()}</span>
+      </p>
+      <div class="wf-calcbar__actions">
+        <button type="button" class="wf-btn wf-btn--primary" data-copy data-copied={t('copied')}>{t('copyLink')}</button>
+        <button type="button" class="wf-btn" data-reset-all>{t('resetAll')}</button>
+      </div>
+    </div>
+
+    <div class="wf-trees">
+      {trees.map((tree) => (
+        <TalentTreeGrid
+          id={tree.id}
+          name={tree.name}
+          index={tree.index}
+          rows={tree.rows}
+          nodes={tree.nodes}
+          ranks={tree.ranks}
+          resetLabel={t('reset')}
+        />
+      ))}
+    </div>
+
+    <p class="wf-talents__source">
+      {t('source', { build: clientBuild() })}
+      <a href={`${base}/`}>{t('backToTalents')}</a>
+    </p>
+  </div>
+
+  <script>
+    import '../../scripts/talent-calc';
+  </script>
+</BaseLayout>
