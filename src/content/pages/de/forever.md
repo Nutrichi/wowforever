@@ -219,6 +219,8 @@ Der ursprüngliche Raid, der am 9. Dezember zusammen mit den beiden neuen öffne
 
 Jeder Raidboss lässt ein Chase Item fallen, sagte Blizzard in einem Interview mit The Sun. Dazu kommen neue legendäre Quests, neue Tier-Sets und Hunderte neue Gegenstände, viele mit einem Effekt bei Benutzung. Bestehende Gegenstände werden angepasst, um „a little stronger, a little more unique and a little more useful“ zu sein, sagt Blizzard.
 
+Die Raids, mit denen das Spiel öffnet, verlangen kein Attunement, sagte Blizzard in einem Interview mit But Why Tho?. Ob spätere Raids eines verlangen, wird vorerst nicht beantwortet. Die Größen von 10, 20 und 40 Spielern liegen fest, statt mitzuwachsen, und die Schwierigkeit folgt nie dem Level oder der Ausrüstung, eine Gruppe kann einen Raid also in Ausrüstung und Level überholen.
+
 ## Die Skyborne
 
 Die Skyborne sind ein neues Volk von Elfen mit elementarem Einschlag. Ihre schwebende Heimat Zephras Isle ist in ihrer Existenz bedroht, und ihre gemeinsame Abstammung hat zu sehr unterschiedlichen Vorstellungen von der Zukunft geführt. Die Skyborne sind nicht neutral: Bei der Charaktererstellung wählen Spieler eine Fraktion, und diese Wahl entscheidet über die zusätzliche Klasse.
@@ -257,6 +259,13 @@ Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, die Wi
 - **Main und Secondary names.** Ein vollständiger Charaktername hat zwei Teile. Beide sind Pflicht, und eine Einstellung legt fest, ob der volle Name angezeigt wird.
 - **Komfort.** Änderungen an der Reitfertigkeit (Reittiere brauchen weiter die im Spiel gekaufte Reitfertigkeit), Gamepad-Unterstützung und die Battle.net-App auf Windows und Mac.
 - **Versorgungskisten.** Ein Legacy-Perk nennt Kisten für die Azeroth Commerce Authority und Durotar Supply and Logistics, die aus Season of Discovery zurückkehren.
+- **Riding Skill mit festem Preis.** Das Gold steckt in der Ausbildung, die je nach Level 100 oder 1.000 Gold kostet, und das erste Mount selbst ist gratis, sagte Blizzard in einem Interview mit Sportskeeda. Goldsenken halten die Wirtschaft gesund, sagt das Team.
+- **Controller werden offiziell unterstützt**, was das Team auch als Funktion der Barrierefreiheit für Spieler bezeichnet, die nicht an Tastatur und Maus sitzen können oder wollen.
+- **Lagerbuffs stapeln nicht mit Klassenbuffs.** Eine Incense Candle eines Herbalist erhöht Intellect, lässt sich aber nicht mit Arcane Intellect eines Mage kombinieren.
+- **Über 600 neue Rezepte** über alle Berufe und alle Levelbereiche, dazu überarbeitete bestehende Rezepte.
+- **Ein Legacy Point je Tradeskill bei 150, 225 und 300**, beim ersten Mal, dass ein Charakter jede Stufe erreicht.
+- **Ein Sammelberuf um Level 3 oder 4.** Eine Quest gibt die Wahl zwischen einem Handbuch für Herbalism, Mining oder Skinning, das den Beruf allen lehrt, die ihn nicht haben und weniger als zwei tragen.
+- **Nichts soll verschwinden.** Das Team plant nichts wie das alte Naxxramas, das endgültig weg war.
 
 ## Das Legacy-System
 

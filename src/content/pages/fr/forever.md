@@ -219,6 +219,8 @@ Le raid d’origine, qui ouvre le 9 décembre avec les deux nouveaux.
 
 Chaque boss de raid laisse tomber un chase item, a dit Blizzard dans un entretien avec The Sun. S’y ajoutent de nouvelles quêtes légendaires, de nouveaux ensembles de tier et des centaines de nouveaux objets, souvent avec un effet à l’utilisation. Les objets existants sont ajustés pour être « a little stronger, a little more unique and a little more useful », selon Blizzard.
 
+Les raids qui ouvrent le jeu ne demandent aucun attunement, a déclaré Blizzard dans une interview avec But Why Tho?. Si les raids suivants en demandent un, la réponse n'est pas donnée pour l'instant. Les tailles de 10, 20 et 40 joueurs sont fixes plutôt qu'adaptatives, et la difficulté ne suit jamais votre niveau ni votre équipement, donc un groupe peut dépasser un raid en équipement et en niveau.
+
 ## Les Skyborne
 
 Les Skyborne sont une nouvelle race d’elfes à la touche élémentaire. Leur foyer flottant, Zephras Isle, est menacé dans son existence, et leur ascendance commune a mené à des visions très différentes de l’avenir. Les Skyborne ne sont pas neutres : à la création du personnage, les joueurs choisissent une faction, et ce choix décide de la classe en plus.
@@ -257,6 +259,13 @@ Les racials ont aussi été revus. Chaque race a désormais quatre racials, les 
 - **Main et Secondary names.** Le nom complet d’un personnage a deux parties. Les deux sont obligatoires, et un réglage décide si le nom complet s’affiche.
 - **Confort de jeu.** Mises à jour de la compétence de monte (les montures demandent toujours une compétence achetée en jeu), prise en charge des manettes, et l’application Battle.net sur Windows et Mac.
 - **Caisses de ravitaillement.** Un perk Legacy mentionne des caisses pour l’Azeroth Commerce Authority et Durotar Supply and Logistics, de retour de Season of Discovery.
+- **Riding skill à prix fixe.** L'or se trouve dans la formation, qui coûte 100 ou 1 000 pièces d'or selon le niveau, et la première monture est gratuite, a déclaré Blizzard dans une interview avec Sportskeeda. Les puits à or gardent l'économie saine, dit l'équipe.
+- **Les manettes sont officiellement prises en charge**, ce que l'équipe présente aussi comme une fonction d'accessibilité pour les joueurs qui ne peuvent pas ou ne veulent pas rester au clavier et à la souris.
+- **Les buffs de campement ne se cumulent pas avec les buffs de classe.** Une Incense Candle d'un Herbalist augmente l'Intellect, mais ne se combine pas avec l'Arcane Intellect d'un Mage.
+- **Plus de 600 nouvelles recettes** sur tous les métiers et toutes les tranches de niveaux, en plus des recettes existantes revues.
+- **Un Legacy Point par tradeskill à 150, 225 et 300**, la première fois qu'un personnage atteint chaque palier.
+- **Un métier de récolte vers le niveau 3 ou 4.** Une quête offre le choix entre un manuel Herbalism, Mining ou Skinning, qui enseigne le métier à qui ne l'a pas et en porte moins de deux.
+- **Rien ne doit disparaître.** L'équipe ne prévoit rien comme l'ancien Naxxramas, parti pour de bon.
 
 ## Le système Legacy
 

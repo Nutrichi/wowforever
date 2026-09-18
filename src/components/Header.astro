@@ -1,8 +1,13 @@
 ---
 /*
  * De header (handoff §5). Links logo en woordmerk, daarnaast de
- * hoofdnavigatie, rechts zoeken, taal en thema. Onder 900 px blijft alleen
- * logo plus hamburger over en verhuist de rest naar het mobiele menu.
+ * hoofdnavigatie, rechts taal en thema. Onder 900 px blijft alleen logo plus
+ * hamburger over en verhuist de rest naar het mobiele menu.
+ *
+ * **Zoeken staat hier niet meer**, maar in de balk eronder naast de
+ * RestedXP-pil (Nutri, 18 september 2026). De navigatie had de breedte nodig:
+ * met acht tabs, een zoekveld, de taalkiezer en de themaknop stond alles op
+ * elkaar gedrukt zodra er een tab bij kwam.
  *
  * Welke tabs erin staan, is al beslist door getNav() op basis van de inhoud
  * (PROJECT_SPEC.md §4.2).
@@ -12,7 +17,6 @@ import type { NavItem } from '../config/nav';
 import { isCurrent } from '../config/nav';
 import { localizePath, useTranslations } from '../i18n/utils';
 import Logo from './Logo.astro';
-import SearchField from './SearchField.astro';
 import LangPicker from './LangPicker.astro';
 import ThemeToggle from './ThemeToggle.astro';
 
@@ -52,7 +56,6 @@ const home = localizePath('', locale);
     </nav>
 
     <div class="wf-header__tools">
-      <SearchField locale={locale} variant="bar" />
       <LangPicker locale={locale} pathname={pathname} variant="bar" />
       <ThemeToggle locale={locale} variant="bar" />
     </div>

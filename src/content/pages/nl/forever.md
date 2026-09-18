@@ -219,6 +219,8 @@ De originele raid, die op 9 december samen met de twee nieuwe opent.
 
 Elke raidboss laat een chase item vallen, zei Blizzard in een interview met The Sun. Daarbovenop komen nieuwe legendary quests, nieuwe tier sets en honderden nieuwe items, veel met een effect bij gebruik. Bestaande items worden bijgesteld om "a little stronger, a little more unique and a little more useful" te zijn, zegt Blizzard.
 
+De raids waarmee het spel opent, vragen geen attunement, zei Blizzard in een interview met But Why Tho?. Of latere raids dat wel doen, wordt voorlopig niet beantwoord. De maten van 10, 20 en 40 spelers liggen vast in plaats van mee te schalen, en de moeilijkheid volgt nooit je level of je gear, dus een groep kan een raid voorbijstreven in gear en in level.
+
 ## De Skyborne
 
 De Skyborne zijn een nieuw ras van elfen met een elementaire inslag. Hun zwevende thuis, Zephras Isle, wordt in zijn bestaan bedreigd, en hun gedeelde afkomst heeft geleid tot heel verschillende ideeën over de toekomst. De Skyborne zijn niet neutraal: bij het maken van een personage kiezen spelers een factie, en die keuze bepaalt de extra class.
@@ -257,6 +259,13 @@ Ook de racials zijn herwerkt. Elk ras heeft nu vier racials, de resistance-racia
 - **Main en Secondary names.** Een volledige naam van een personage heeft twee delen. Beide zijn verplicht, en een instelling bepaalt of de volledige naam getoond wordt.
 - **Gebruiksgemak.** Updates van riding skill (mounts vragen nog altijd riding skill die je in het spel koopt), ondersteuning voor gamepads, en de Battle.net-app op Windows en Mac.
 - **Supply crates.** Een Legacy-perk noemt kisten voor de Azeroth Commerce Authority en Durotar Supply and Logistics, die terugkomen uit Season of Discovery.
+- **Riding skill met een vaste prijs.** Het goud zit in de training, die 100 of 1.000 goud kost afhankelijk van het level, en de eerste mount zelf is gratis, zei Blizzard in een interview met Sportskeeda. Goudputten houden de economie gezond, zegt het team.
+- **Controllers worden officieel ondersteund**, wat het team ook een toegankelijkheidsfunctie noemt voor spelers die niet aan een toetsenbord en muis kunnen of willen zitten.
+- **Kampbuffs stapelen niet met classbuffs.** Een Incense Candle van een Herbalist verhoogt Intellect, maar combineert niet met de Arcane Intellect van een Mage.
+- **Ruim 600 nieuwe recepten** over alle professies en alle levelbereiken, bovenop herziene bestaande recepten.
+- **Een Legacy Point per tradeskill op 150, 225 en 300**, de eerste keer dat een personage elke stap haalt.
+- **Een gathering-professie rond level 3 of 4.** Een quest geeft de keuze tussen een handboek Herbalism, Mining of Skinning, dat de professie leert aan wie hem niet heeft en minder dan twee draagt.
+- **Niets hoort te verdwijnen.** Het team is niets van plan zoals het oude Naxxramas, dat voorgoed weg was.
 
 ## Het Legacy-systeem
 

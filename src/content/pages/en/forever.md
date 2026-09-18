@@ -218,6 +218,8 @@ The original raid, which opens on 9 December together with the two new ones.
 
 Every raid boss drops a chase item, Blizzard said in an interview with The Sun. On top of that come new legendary quests, new tier sets and hundreds of new items, many with an effect on use. Existing items are tuned to be "a little stronger, a little more unique and a little more useful", says Blizzard.
 
+The raids that open the game ask for no attunement, Blizzard said in an interview with But Why Tho?. Whether later raids do is not being answered for now. The sizes of 10, 20 and 40 players are fixed rather than flexible, and the difficulty never follows your level or your gear, so a group can out-gear and out-level a raid.
+
 ## The Skyborne
 
 The Skyborne are a new race of elves with an elemental touch. Their floating home, Zephras Isle, faces a threat to its existence, and their shared ancestry has led to very different ideas about the future. The Skyborne are not neutral: at character creation, players choose a faction, and that choice decides the extra class.
@@ -256,6 +258,13 @@ Racials were redesigned as well. Every race now has four racials, the resistance
 - **Main and Secondary names.** A full character name has two parts. Both are required, and a setting decides whether the full name is shown.
 - **Quality of life.** Updates to riding skill (mounts still need riding skill bought in the game), gamepad support, and the Battle.net app on Windows and Mac.
 - **Supply crates.** A Legacy perk mentions crates for the Azeroth Commerce Authority and Durotar Supply and Logistics, which return from Season of Discovery.
+- **Riding skill with a fixed price.** The gold sits in the training, which costs 100 or 1,000 gold depending on the level, and the first mount itself is free, Blizzard said in an interview with Sportskeeda. Gold sinks keep the economy healthy, says the team.
+- **Controllers are officially supported**, which the team also calls an accessibility feature for players who cannot or do not want to sit at a keyboard and mouse.
+- **Camp buffs do not stack with class buffs.** An Incense Candle from a Herbalist raises Intellect, but does not combine with a Mage's Arcane Intellect.
+- **Over 600 new recipes** across every profession and every level range, on top of reworked existing recipes.
+- **A Legacy Point per tradeskill at 150, 225 and 300**, the first time a character reaches each step.
+- **A gathering profession around level 3 or 4.** A quest rewards a choice between a Herbalism, Mining or Skinning manual, which teaches the profession to anyone who does not have it and carries fewer than two.
+- **Nothing is meant to become unavailable.** The team does not plan anything like the old Naxxramas, which disappeared for good.
 
 ## The Legacy system
 

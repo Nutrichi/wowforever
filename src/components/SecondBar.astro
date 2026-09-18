@@ -4,7 +4,12 @@
  *
  * Van links naar rechts: de aftelchip naar de launch van WoW Forever, een
  * dunne lijn, de slot (daar komt de era-schakelaar op BIS, CLASSES,
- * TRADESKILLS en REPUTATIONS), en helemaal rechts de RestedXP-pil.
+ * TRADESKILLS en REPUTATIONS), en rechts het zoekveld met de RestedXP-pil.
+ *
+ * **Zoeken stond eerst in de header** en is hier naartoe gegaan (Nutri,
+ * 18 september 2026), zodat de navigatie de volle breedte houdt. Onder 900 px
+ * blijft het hier weg: daar zit zoeken in het mobiele menu, en twee zoekvelden
+ * op één scherm is er een te veel.
  *
  * De aftelchip staat bewust op zichzelf: na de launch is hij het eerste dat
  * vervangen wordt, zonder de rest van de balk aan te raken. Hij tikt per
@@ -18,6 +23,7 @@ import type { Locale } from '../i18n/ui';
 import { localizePath, useTranslations } from '../i18n/utils';
 import { foreverHubPath, launchDate } from '../config/site';
 import RestedXpPill from './RestedXpPill.astro';
+import SearchField from './SearchField.astro';
 
 interface Props {
   locale: Locale;
@@ -79,7 +85,8 @@ const ChipTag = hubHref ? 'a' : 'span';
 
     {hasContent && <div class="wf-bar__slot"><slot /></div>}
 
-    <div class="wf-bar__rxp">
+    <div class="wf-bar__right">
+      <div class="wf-bar__search"><SearchField locale={locale} variant="bar" /></div>
       <RestedXpPill locale={locale} wide />
     </div>
   </div>
@@ -152,9 +159,18 @@ const ChipTag = hubHref ? 'a' : 'span';
     align-items: center;
   }
 
-  .wf-bar__rxp {
+  .wf-bar__right {
     flex: none;
     margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  /* Breed genoeg om een titel in te typen, smal genoeg om de balk niet te
+     laten groeien. Krimpt mee zodra de slot ernaast ruimte vraagt. */
+  .wf-bar__search {
+    width: clamp(160px, 22vw, 260px);
   }
 
   @media (max-width: 899px) {
@@ -168,6 +184,9 @@ const ChipTag = hubHref ? 'a' : 'span';
 
     /* De slot staat op mobiel bovenaan de pagina (BaseLayout). */
     .wf-bar__slot { display: none; }
+
+    /* Zoeken zit op mobiel in het menu achter de hamburger. */
+    .wf-bar__search { display: none; }
   }
 </style>
 

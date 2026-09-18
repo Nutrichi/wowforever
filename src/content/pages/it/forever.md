@@ -219,6 +219,8 @@ L’incursione originale, che apre il 9 dicembre insieme alle due nuove.
 
 Ogni boss di raid lascia cadere un chase item, ha detto Blizzard in un'intervista con The Sun. In più arrivano nuove missioni leggendarie, nuovi set di tier e centinaia di nuovi oggetti, molti con un effetto all’uso. Gli oggetti esistenti vengono ritoccati per essere «a little stronger, a little more unique and a little more useful», dice Blizzard.
 
+I raid con cui il gioco apre non richiedono attunement, ha detto Blizzard in un'intervista con But Why Tho?. Se i raid successivi lo chiederanno non viene risposto per ora. I formati da 10, 20 e 40 giocatori sono fissi invece di adattarsi, e la difficoltà non segue mai il livello né l'equipaggiamento, quindi un gruppo può superare un raid per equipaggiamento e per livello.
+
 ## Gli Skyborne
 
 Gli Skyborne sono una nuova razza di elfi dal tocco elementale. La loro casa fluttuante, Zephras Isle, è minacciata nella sua esistenza, e la loro origine comune ha portato a idee molto diverse sul futuro. Gli Skyborne non sono neutrali: alla creazione del personaggio i giocatori scelgono una fazione, e quella scelta decide la classe in più.
@@ -257,6 +259,13 @@ Anche i racials sono stati ripensati. Ogni razza ha ora quattro racials, i racia
 - **Main e Secondary names.** Il nome completo di un personaggio ha due parti. Entrambe sono obbligatorie, e un’impostazione decide se mostrare il nome completo.
 - **Comodità.** Aggiornamenti all’abilità di cavalcare (le cavalcature richiedono ancora l’abilità comprata nel gioco), supporto ai gamepad e l’app Battle.net su Windows e Mac.
 - **Casse di rifornimento.** Un perk Legacy cita casse per l’Azeroth Commerce Authority e la Durotar Supply and Logistics, che tornano da Season of Discovery.
+- **Riding skill a prezzo fisso.** L'oro sta nell'addestramento, che costa 100 o 1.000 monete d'oro a seconda del livello, e la prima cavalcatura è gratuita, ha detto Blizzard in un'intervista con Sportskeeda. I pozzi d'oro tengono sana l'economia, dice il team.
+- **I controller sono supportati ufficialmente**, cosa che il team presenta anche come funzione di accessibilità per chi non può o non vuole stare davanti a tastiera e mouse.
+- **I buff dell'accampamento non si sommano ai buff di classe.** Una Incense Candle di un Herbalist aumenta l'Intellect, ma non si combina con l'Arcane Intellect di un Mage.
+- **Oltre 600 nuove ricette** su tutti i mestieri e tutte le fasce di livello, oltre alle ricette esistenti riviste.
+- **Un Legacy Point per tradeskill a 150, 225 e 300**, la prima volta che un personaggio raggiunge ogni soglia.
+- **Un mestiere di raccolta verso il livello 3 o 4.** Una missione fa scegliere tra un manuale di Herbalism, Mining o Skinning, che insegna il mestiere a chi non lo ha e ne porta meno di due.
+- **Niente dovrebbe sparire.** Il team non prevede nulla come il vecchio Naxxramas, andato per sempre.
 
 ## Il sistema Legacy
 

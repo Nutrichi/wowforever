@@ -219,6 +219,8 @@ La banda original, que se abre el 9 de diciembre junto a las dos nuevas.
 
 Cada jefe de banda suelta un chase item, dijo Blizzard en una entrevista con The Sun. Además llegan misiones legendarias nuevas, conjuntos de tier nuevos y cientos de objetos nuevos, muchos con un efecto al usarlos. Los objetos existentes se ajustan para ser «a little stronger, a little more unique and a little more useful», dice Blizzard.
 
+Las raids con las que abre el juego no piden attunement, dijo Blizzard en una entrevista con But Why Tho?. Si las raids posteriores lo pedirán no se responde por ahora. Los tamaños de 10, 20 y 40 jugadores son fijos en vez de adaptarse, y la dificultad nunca sigue tu nivel ni tu equipo, así que un grupo puede superar una raid en equipo y en nivel.
+
 ## Los Skyborne
 
 Los Skyborne son una nueva raza de elfos con un toque elemental. Su hogar flotante, Zephras Isle, ve amenazada su existencia, y su ascendencia común ha llevado a ideas muy distintas sobre el futuro. Los Skyborne no son neutrales: al crear el personaje, los jugadores eligen facción, y esa elección decide la clase extra.
@@ -257,6 +259,13 @@ Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials, l
 - **Main y Secondary names.** El nombre completo de un personaje tiene dos partes. Ambas son obligatorias, y un ajuste decide si se muestra el nombre completo.
 - **Comodidad.** Cambios en la habilidad de equitación (las monturas siguen necesitando la habilidad comprada en el juego), compatibilidad con mandos, y la aplicación Battle.net en Windows y Mac.
 - **Cajas de suministros.** Un perk de Legacy menciona cajas para la Azeroth Commerce Authority y Durotar Supply and Logistics, que vuelven de Season of Discovery.
+- **Riding skill con precio fijo.** El oro está en el entrenamiento, que cuesta 100 o 1.000 de oro según el nivel, y la primera montura es gratis, dijo Blizzard en una entrevista con Sportskeeda. Los sumideros de oro mantienen sana la economía, dice el equipo.
+- **Los mandos tienen soporte oficial**, algo que el equipo presenta también como función de accesibilidad para jugadores que no pueden o no quieren sentarse ante teclado y ratón.
+- **Los buffs de campamento no se acumulan con los de clase.** Una Incense Candle de un Herbalist sube Intellect, pero no se combina con el Arcane Intellect de un Mage.
+- **Más de 600 recetas nuevas** en todas las profesiones y todos los rangos de nivel, además de recetas existentes revisadas.
+- **Un Legacy Point por tradeskill en 150, 225 y 300**, la primera vez que un personaje alcanza cada paso.
+- **Una profesión de recolección hacia el nivel 3 o 4.** Una misión da a elegir entre un manual de Herbalism, Mining o Skinning, que enseña la profesión a quien no la tiene y lleva menos de dos.
+- **Nada debería desaparecer.** El equipo no planea nada como el antiguo Naxxramas, que se fue para siempre.
 
 ## El sistema Legacy
 
