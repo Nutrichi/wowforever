@@ -30,6 +30,21 @@ export const social = {
 export const restedxpUrl = 'https://shop.restedxp.com/ref/nutri/';
 
 /**
+ * De app in de App Store (Nutri, 19 september 2026).
+ *
+ * **Leeg betekent overal weg.** Zolang hier niets staat, toont de site geen
+ * enkele verwijzing naar de app: geen link in de voettekst en geen blok op
+ * `/talents/`. Zo kan de knop klaarstaan zonder iets te beloven wat er nog
+ * niet is.
+ *
+ * Vul dit pas in als de app echt in de App Store staat, met de vorm
+ * `https://apps.apple.com/app/id<nummer>`. Het nummer staat in App Store
+ * Connect bij de app, als Apple ID. Eén regel wijzigen en promoten volstaat;
+ * er hoeft verder niets aangepast te worden.
+ */
+export const appStoreUrl = '';
+
+/**
  * Het pad naar de inzendpagina (§6.2). Aan sinds fase 8 (15 september 2026):
  * het Supabase-project staat er en `submit_news` is doorgemeten, dus de knop
  * onder de feed doet wat ze belooft. Leeghalen verbergt de knop weer.

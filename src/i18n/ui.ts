@@ -114,6 +114,8 @@ export const ui = {
     'footer.twitch': 'Twitch',
     'footer.discord': 'Discord',
     'footer.restedxp': 'RestedXP',
+    /* De naam van de app is een eigennaam; de vijf andere talen erven deze regel. */
+    'footer.app': 'iOS app',
     'footer.label': 'Site footer',
 
     'list.heading': 'ALL POSTS, NEWEST FIRST',

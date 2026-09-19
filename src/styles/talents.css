@@ -29,6 +29,15 @@
   gap: 26px;
 }
 
+/*
+ * De kaart van de iOS-app staat onder de twee rekenmachines en niet ernaast:
+ * het is geen derde keuze maar een vervolg. Over de volle breedte dus, ook als
+ * het raster er drie naast elkaar zou kunnen zetten.
+ */
+.wf-calccard--app {
+  grid-column: 1 / -1;
+}
+
 .wf-calccard {
   display: flex;
   flex-direction: column;

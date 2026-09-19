@@ -1,7 +1,7 @@
 ---
 /*
  * De voettekst (PROJECT_SPEC.md §10): copyright, de verplichte disclaimer en
- * de links naar YouTube, Twitch, Discord en RestedXP.
+ * de links naar YouTube, Twitch, Discord, RestedXP en de iOS-app.
  *
  * Klein gehouden en nergens vastgeplakt. De disclaimer past op één regel (Nutri,
  * 14 september 2026): geen band met Blizzard en niet door Blizzard goedgekeurd.
@@ -10,7 +10,7 @@
  */
 import type { Locale } from '../i18n/ui';
 import { useTranslations } from '../i18n/utils';
-import { restedxpUrl, social } from '../config/site';
+import { appStoreUrl, restedxpUrl, social } from '../config/site';
 
 interface Props {
   locale: Locale;
@@ -27,6 +27,8 @@ const links = [
   { label: t('footer.twitch'), href: social.twitch, rel: 'noopener' },
   { label: t('footer.discord'), href: social.discord, rel: 'noopener' },
   { label: t('footer.restedxp'), href: restedxpUrl, rel: 'noopener sponsored' },
+  /* Staat er pas zodra de app in de App Store is; leeg betekent weg (config/site.ts). */
+  { label: t('footer.app'), href: appStoreUrl, rel: 'noopener' },
 ].filter((link) => link.href !== '');
 ---
 

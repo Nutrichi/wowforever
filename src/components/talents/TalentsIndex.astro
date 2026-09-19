@@ -6,6 +6,11 @@
  * is de enige die hier gemaakt wordt, en alles wat er nog bij zou staan leidt
  * daarvan af.
  *
+ * Onder die twee staat sinds 19 september 2026 een derde kaart voor de iOS-app,
+ * en alleen daar: dit is de pagina waar de app over gaat, want de app is deze
+ * twee rekenmachines. Ze verschijnt pas als `appStoreUrl` in `config/site.ts`
+ * gevuld is; zolang die leeg is, ziet een bezoeker er niets van.
+ *
  * De kaart van de talenten toont de negen classes, elk in zijn eigen kleur,
  * zodat je met één klik in de juiste boom zit in plaats van eerst deze pagina
  * en dan nog een keuzelijst.
@@ -16,6 +21,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { talT } from '../../i18n/talents';
 import { talentClasses, totalTalentPoints, legacySpendable, clientBuild } from '../../lib/talents';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
+import { appStoreUrl } from '../../config/site';
 import '../../styles/talents.css';
 
 interface Props {
@@ -73,6 +79,17 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
 
         <p class="wf-calccard__meta">{legacySpendable()} {t('points')}</p>
       </section>
+
+      {appStoreUrl !== '' && (
+        <section class="wf-calccard wf-calccard--app">
+          <h2 class="wf-calccard__title">{t('appCard')}</h2>
+          <p class="wf-calccard__text">{t('appCardText')}</p>
+
+          <a class="wf-btn wf-btn--primary" href={appStoreUrl} rel="noopener" target="_blank">
+            {t('appCardButton')}
+          </a>
+        </section>
+      )}
     </div>
 
     <p class="wf-talents__source">{t('source', { build: clientBuild() })}</p>
