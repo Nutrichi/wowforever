@@ -11,6 +11,7 @@
 User-agent: *
 Allow: /
 Disallow: /privacy
+Disallow: /support
 
 User-agent: GPTBot
 Allow: /

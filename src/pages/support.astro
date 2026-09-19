@@ -1,0 +1,101 @@
+---
+/*
+ De supportpagina, op /support/ (Nutri, 19 september 2026).
+
+ Voor App Store Connect, dat bij een inzending een werkend supportadres vraagt.
+ De privacypagina droeg dat adres al in een zin, maar een privacyverklaring is
+ geen supportpagina, en Apple kijkt of er echt hulp op staat.
+
+ **Dezelfde drie keuzes als bij `/privacy/`:**
+
+ 1. **Er staat nergens een link naartoe** op de site zelf. Wie het adres heeft,
+    komt erop; het staat in de App Store-vermelding.
+ 2. **Geen zoekmachine.** `noindex, nofollow`, niet in de sitemap (zie
+    `astro.config.mjs`) en uitgesloten in `robots.txt`.
+ 3. **Geen namen, en geen schil.** Geen persoon, geen bedrijf, geen adres, en
+    geen `BaseLayout`, want die brengt de RestedXP-partnerlink mee. Een
+    partnerlink op een supportpagina is niet waar zo'n pagina voor is.
+
+ Eén taal, Engels, net als de privacypagina.
+ */
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Support · WoW Forever Talents</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="referrer" content="no-referrer" />
+    <style>
+      :root { color-scheme: light dark; }
+      body {
+        max-width: 42rem;
+        margin: 0 auto;
+        padding: 2.5rem 1.25rem 4rem;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        font-size: 1rem;
+        line-height: 1.65;
+      }
+      h1 { font-size: 1.6rem; line-height: 1.25; margin: 0 0 1rem; }
+      h2 { font-size: 1.1rem; line-height: 1.3; margin: 1.8rem 0 .4rem; }
+      p { margin: 0 0 .75rem; }
+      ul { margin: 0 0 .75rem; padding-left: 1.25rem; }
+      li { margin: 0 0 .35rem; }
+    </style>
+  </head>
+  <body>
+    <h1>Support</h1>
+
+    <p>
+      This page is for WoW Forever Talents, the iOS and iPadOS app that goes with the
+      website wowforever.be.
+    </p>
+
+    <h2>Getting in touch</h2>
+    <p>
+      Questions, problems and requests can go to <strong>contact@wowforever.be</strong>.
+      Every message is read. Please say which iPhone or iPad you use, which version of
+      iOS it runs, and what you were doing when something went wrong.
+    </p>
+
+    <h2>Things people ask</h2>
+
+    <p><strong>The app is free and there is nothing to buy.</strong> There is no account
+      and no login. Nothing in the app is locked.</p>
+
+    <p><strong>The talent calculator does not match my game.</strong> World of Warcraft:
+      Forever is still in beta, and Blizzard changes talents during a beta. The app says
+      which build of the game its data comes from. When the game changes, an app update
+      follows.</p>
+
+    <p><strong>A shared build link does not open.</strong> A build lives inside the link,
+      so the whole link has to be copied, including everything after the question mark.
+      The same link also opens in a browser on wowforever.be.</p>
+
+    <p><strong>I get no notifications.</strong> Notifications are off until you allow
+      them. Check Settings, Notifications, WoW Forever on your device. Turning them off
+      again stops them; nothing else in the app depends on them.</p>
+
+    <p><strong>The news does not refresh.</strong> The app keeps a copy of the news so it
+      opens without a connection. Pull down on the list to fetch again.</p>
+
+    <p><strong>The names of talents are in English in every language.</strong> That is on
+      purpose. World of Warcraft has no translated Classic client, and a name that does
+      not match what you see in the game helps nobody. The rest of the app is translated.</p>
+
+    <h2>Privacy</h2>
+    <p>
+      What the app stores, and what it does not, is at
+      <a href="https://wowforever.be/privacy/">wowforever.be/privacy</a>.
+    </p>
+
+    <h2>Not affiliated with Blizzard</h2>
+    <p>
+      This is an unofficial fan app. It is not affiliated with, endorsed by or sponsored
+      by Blizzard Entertainment, Inc. World of Warcraft and Blizzard Entertainment are
+      trademarks or registered trademarks of Blizzard Entertainment, Inc.
+    </p>
+  </body>
+</html>
