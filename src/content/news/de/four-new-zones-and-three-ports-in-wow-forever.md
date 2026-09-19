@@ -1,7 +1,7 @@
 ---
 title: "Vier neue Zonen und drei Häfen kommen zum Launch"
 description: "Mount Hyjal, Shen'Dralas, Riverglades und Zephras Isle kommen zum Launch, dazu neue Schiffsrouten und über 1.000 neue Quests."
-date: 2026-09-19
+date: 2026-09-19T09:30:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-09-13-wow-forever-key-art.jpg

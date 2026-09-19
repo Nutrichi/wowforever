@@ -1,7 +1,7 @@
 ---
 title: "Un refresh de zone prévient cinq minutes à l'avance"
 description: "Une notification annonce un changement de layer forcé, avec un bouton Refresh Now pour le déclencher depuis un endroit sûr. La technologie a été pensée pour le Hardcore."
-date: 2026-09-19
+date: 2026-09-19T20:05:00+02:00
 category: forever
 lang: fr
 manual: true

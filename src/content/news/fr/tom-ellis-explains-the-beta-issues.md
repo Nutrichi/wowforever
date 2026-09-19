@@ -1,7 +1,7 @@
 ---
 title: "Tom Ellis explique ce qui a cassé le premier soir de bêta"
 description: "Le Senior Game Producer reprend un par un les déconnexions, le loot lent et les redémarrages du 17 septembre, et ce que l'équipe a changé à chaque fois."
-date: 2026-09-19
+date: 2026-09-19T20:10:00+02:00
 category: forever
 lang: fr
 manual: true

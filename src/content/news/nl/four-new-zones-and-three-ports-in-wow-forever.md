@@ -1,7 +1,7 @@
 ---
 title: "Vier nieuwe zones en drie havens komen bij de launch"
 description: "Mount Hyjal, Shen'Dralas, Riverglades en Zephras Isle komen er bij de launch, samen met nieuwe bootroutes en meer dan 1.000 nieuwe quests."
-date: 2026-09-19
+date: 2026-09-19T09:30:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-09-13-wow-forever-key-art.jpg

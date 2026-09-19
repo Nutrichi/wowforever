@@ -1,7 +1,7 @@
 ---
 title: "Los mandos ya son compatibles y la primera montura es gratis"
 description: "Una entrevista con Sportskeeda repasa el soporte de mando, el precio de las riding skills, la línea temporal del juego y objetos que actúan distinto bajo tierra."
-date: 2026-09-19
+date: 2026-09-19T09:40:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-09-17-wow-forever-cinematic-hunter-and-bear.jpg

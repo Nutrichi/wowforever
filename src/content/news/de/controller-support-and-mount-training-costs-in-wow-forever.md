@@ -1,7 +1,7 @@
 ---
 title: "Controller werden unterstützt, erstes Mount ist gratis"
 description: "Ein Interview mit Sportskeeda behandelt Controllerunterstützung, den Preis der Riding Skills, die Zeitlinie des Spiels und Gegenstände, die sich unter Tage anders verhalten."
-date: 2026-09-19
+date: 2026-09-19T09:40:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-09-17-wow-forever-cinematic-hunter-and-bear.jpg

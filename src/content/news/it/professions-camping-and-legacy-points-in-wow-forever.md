@@ -1,7 +1,7 @@
 ---
 title: "Camping e Legacy Points entrano nei mestieri di Classic"
 description: "Il crafting resta com'era, ma oltre 600 nuove ricette, gli accampamenti e i Legacy Points danno ai mestieri un ruolo più ampio verso il livello 60."
-date: 2026-09-19
+date: 2026-09-19T09:10:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-09-17-wow-forever-dustwallow-marsh.jpg

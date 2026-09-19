@@ -5,6 +5,14 @@
  *
  * Intl doet het werk, dus elke taal krijgt zijn eigen maandnaam zonder dat
  * er een lijst in de vertaalbestanden bij hoeft.
+ *
+ * **Alles wordt in Belgische tijd getoond** (Nutri, 19 september 2026). Een
+ * post draagt sinds die dag een tijdstip in `date`, want dat tijdstip bepaalt
+ * de volgorde in de feed (`lib/posts.ts`). Zou de opmaak in UTC blijven, dan
+ * kwam een post die om 00.30 geschreven is op de vorige dag te staan: precies
+ * de fout die we hier weghalen. Een datum zonder tijdstip (de gidsen, de
+ * pagina's) staat op middernacht UTC en valt in Brussel op 01.00 of 02.00 van
+ * diezelfde dag, dus voor die datums verandert er niets.
  */
 
 import { localeTags, type Locale } from '../i18n/ui';
@@ -19,9 +27,32 @@ const dateTags: Partial<Record<Locale, string>> = { en: 'en-GB' };
 
 const tagFor = (locale: Locale) => dateTags[locale] ?? localeTags[locale];
 
-/** Voor het datetime-attribuut van <time>: altijd 2026-09-08. */
+/** De site is Belgisch; de aftelchip rekent al in deze zone (§4.3). */
+const timeZone = 'Europe/Brussels';
+
+/**
+ * Voor het datetime-attribuut van <time> en voor de JSON-LD: de dag zoals de
+ * bezoeker hem ziet, dus in Belgische tijd en niet in UTC.
+ */
 export function isoDate(date: Date): string {
-  return date.toISOString().slice(0, 10);
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    timeZone,
+  }).formatToParts(date);
+  const get = (type: string) => parts.find((part) => part.type === type)?.value ?? '';
+  return `${get('year')}-${get('month')}-${get('day')}`;
+}
+
+/**
+ * Het volledige tijdstip, voor `datePublished` van een post. Een post draagt
+ * sinds 19 september 2026 een tijdstip, en dat hoort ook in de gestructureerde
+ * data te staan: zo weet een zoekmachine welke van twee posts van dezelfde dag
+ * de nieuwste is.
+ */
+export function isoDateTime(date: Date): string {
+  return date.toISOString();
 }
 
 /** "08 SEP 2026": kort, in kapitalen, zoals de metaregel het tekent. */
@@ -30,7 +61,7 @@ export function shortDate(date: Date, locale: Locale): string {
     day: '2-digit',
     month: 'short',
     year: 'numeric',
-    timeZone: 'UTC',
+    timeZone,
   }).formatToParts(date);
 
   return parts
@@ -45,6 +76,6 @@ export function longDate(date: Date, locale: Locale): string {
     day: 'numeric',
     month: 'long',
     year: 'numeric',
-    timeZone: 'UTC',
+    timeZone,
   }).format(date);
 }

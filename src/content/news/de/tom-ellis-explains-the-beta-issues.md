@@ -1,7 +1,7 @@
 ---
 title: "Tom Ellis erklärt, was am ersten Beta-Abend schieflief"
 description: "Der Senior Game Producer geht die Disconnects, das langsame Looten und die Neustarts vom 17. September einzeln durch und sagt, was das Team jeweils geändert hat."
-date: 2026-09-19
+date: 2026-09-19T20:10:00+02:00
 category: forever
 lang: de
 manual: true

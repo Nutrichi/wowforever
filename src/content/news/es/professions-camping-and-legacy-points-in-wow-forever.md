@@ -1,7 +1,7 @@
 ---
 title: "El sistema de profesiones no cambia, y llega el camping"
 description: "La fabricación sigue igual, pero más de 600 recetas nuevas, los campamentos y los Legacy Points dan a las profesiones un papel mayor camino al nivel 60."
-date: 2026-09-19
+date: 2026-09-19T09:10:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-09-17-wow-forever-dustwallow-marsh.jpg

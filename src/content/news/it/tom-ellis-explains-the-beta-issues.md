@@ -1,7 +1,7 @@
 ---
 title: "Tom Ellis spiega cosa si è rotto la prima sera di beta"
 description: "Il Senior Game Producer ripercorre una per una le disconnessioni, il loot lento e i riavvii del 17 settembre, e cosa ha cambiato il team ogni volta."
-date: 2026-09-19
+date: 2026-09-19T20:10:00+02:00
 category: forever
 lang: it
 manual: true

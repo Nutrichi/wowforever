@@ -1,7 +1,7 @@
 ---
 title: "Ein Zonen-Refresh warnt fünf Minuten vorher"
 description: "Eine Meldung kündigt einen erzwungenen Layerwechsel an, mit einem Knopf Refresh Now, um ihn von einem sicheren Ort aus sofort zu nehmen. Die Technik entstand mit Blick auf Hardcore."
-date: 2026-09-19
+date: 2026-09-19T20:05:00+02:00
 category: forever
 lang: de
 manual: true

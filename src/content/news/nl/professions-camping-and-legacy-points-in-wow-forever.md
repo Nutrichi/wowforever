@@ -1,7 +1,7 @@
 ---
 title: "Professions blijven Classic, met camping en Legacy Points"
 description: "Craften blijft zoals het was, maar ruim 600 nieuwe recepten, kampplaatsen en Legacy Points geven professies een grotere rol op weg naar level 60."
-date: 2026-09-19
+date: 2026-09-19T09:10:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-09-17-wow-forever-dustwallow-marsh.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Tom Ellis legt uit wat er misliep op de eerste beta-avond"
 description: "De Senior Game Producer loopt de disconnects, het trage looten en de herstarts van 17 september één voor één af, en vertelt wat het team telkens veranderde."
-date: 2026-09-19
+date: 2026-09-19T20:10:00+02:00
 category: forever
 lang: nl
 manual: true

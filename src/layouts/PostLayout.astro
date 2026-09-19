@@ -18,7 +18,7 @@ import type { Post } from '../lib/posts';
 import type { Locale } from '../i18n/ui';
 import { localizePath, useTranslations } from '../i18n/utils';
 import { categories } from '../config/categories';
-import { longDate, isoDate } from '../lib/date';
+import { longDate, isoDate, isoDateTime } from '../lib/date';
 import { render } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import CategoryBadge from '../components/CategoryBadge.astro';
@@ -66,7 +66,8 @@ const jsonLd = {
   '@type': 'Article',
   headline: post.title,
   description: post.description,
-  datePublished: isoDate(post.date),
+  /* Het volledige tijdstip: zo weet een zoekmachine welke post van dezelfde dag de nieuwste is. */
+  datePublished: isoDateTime(post.date),
   inLanguage: post.lang,
   mainEntityOfPage: canonical,
   author: publisherJsonLd(Astro.site),

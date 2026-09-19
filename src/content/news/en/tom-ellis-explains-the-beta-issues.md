@@ -1,7 +1,7 @@
 ---
 title: "Tom Ellis explains what broke on the beta's first night"
 description: "The Senior Game Producer walks through the disconnects, the slow looting and the restarts of 17 September, and what the team changed each time."
-date: 2026-09-19
+date: 2026-09-19T20:10:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/blizzard-forever-cinematic-dwarf.jpg

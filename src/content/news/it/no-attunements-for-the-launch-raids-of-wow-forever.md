@@ -1,7 +1,7 @@
 ---
 title: "I raid del lancio non chiedono attunement"
 description: "I raid arrivano in formati fissi da 10, 20 e 40 giocatori, la difficoltà non scala mai, e cosa succede agli attunement dopo il lancio resta aperto."
-date: 2026-09-19
+date: 2026-09-19T09:20:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/blizzard-classic-era-ragnaros.jpg

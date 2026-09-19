@@ -1,7 +1,7 @@
 ---
 title: "Raids at launch ask for no attunement"
 description: "Raids come in fixed sizes of 10, 20 and 40 players, the difficulty never scales, and what happens with attunements after launch stays open."
-date: 2026-09-19
+date: 2026-09-19T09:20:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/blizzard-classic-era-ragnaros.jpg

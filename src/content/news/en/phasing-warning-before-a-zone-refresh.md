@@ -1,7 +1,7 @@
 ---
 title: "Zone refreshes warn you five minutes in advance"
 description: "A notification announces a forced layer change, with a Refresh Now button to take it early from a safe spot. The technology was built with Hardcore in mind."
-date: 2026-09-19
+date: 2026-09-19T20:05:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-09-17-wow-forever-the-barrens.jpg

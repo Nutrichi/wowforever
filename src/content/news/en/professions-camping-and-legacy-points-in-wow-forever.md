@@ -1,7 +1,7 @@
 ---
 title: "Professions stay Classic, with camping and Legacy Points"
 description: "Crafting stays as it was, but over 600 new recipes, campsites and Legacy Points give professions a bigger role on the way to level 60."
-date: 2026-09-19
+date: 2026-09-19T09:10:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-09-17-wow-forever-dustwallow-marsh.jpg

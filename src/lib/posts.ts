@@ -9,6 +9,16 @@
  *    <collectie>/<taal>/<slug>.md. Ontbreekt de vertaling, dan komt de
  *    Engelse tekst.
  * 3. Nieuwste eerst.
+ *
+ * **De nieuwste post staat altijd bovenaan** (Nutri, 19 september 2026). Dat
+ * lukt alleen als `date` een tijdstip draagt: zonder tijdstip staan alle posts
+ * van dezelfde dag op middernacht, en dan besliste de bestandsnaam. Op
+ * 19 september kwamen er zo twee nieuwe posts op plaats 4 en 6 van de feed
+ * terecht in plaats van op 1 en 2. Sindsdien schrijft `npm run new-post` het
+ * volledige tijdstip weg en sorteert dit bestand daarop. Blijven twee posts
+ * exact gelijk, dan beslist de slug, oplopend. Dat is precies wat er vóór deze
+ * wijziging gebeurde, dus de oudere posts die een dag delen houden hun plaats;
+ * het is er alleen niet langer toeval dat het zo uitvalt.
  */
 
 import { getCollection, type CollectionEntry } from 'astro:content';
@@ -144,7 +154,9 @@ export async function getPosts(locale: Locale): Promise<Post[]> {
     }
   }
 
-  return posts.sort((a, b) => b.date.getTime() - a.date.getTime());
+  return posts.sort(
+    (a, b) => b.date.getTime() - a.date.getTime() || a.slug.localeCompare(b.slug, 'en'),
+  );
 }
 
 /** Het uitgelichte artikel: de post met `featured: true`, en anders de nieuwste. */

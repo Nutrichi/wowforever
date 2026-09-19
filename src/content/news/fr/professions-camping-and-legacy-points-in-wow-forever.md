@@ -1,7 +1,7 @@
 ---
 title: "Le système de métiers ne change pas, le camping arrive"
 description: "L'artisanat reste tel quel, mais plus de 600 nouvelles recettes, les campements et les Legacy Points donnent aux métiers un rôle plus large jusqu'au niveau 60."
-date: 2026-09-19
+date: 2026-09-19T09:10:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-09-17-wow-forever-dustwallow-marsh.jpg

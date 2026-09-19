@@ -1,7 +1,7 @@
 ---
 title: "Four new zones and three ports arrive at launch"
 description: "Mount Hyjal, Shen'Dralas, Riverglades and Zephras Isle arrive at launch, alongside new boat routes and over 1,000 new quests."
-date: 2026-09-19
+date: 2026-09-19T09:30:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-09-13-wow-forever-key-art.jpg

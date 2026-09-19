@@ -1,7 +1,7 @@
 ---
 title: "Een zonerefresh waarschuwt vijf minuten vooraf"
 description: "Een melding kondigt een gedwongen laagwissel aan, met een knop Refresh Now om hem vanaf een veilige plek meteen te nemen. De techniek is gemaakt met Hardcore in gedachten."
-date: 2026-09-19
+date: 2026-09-19T20:05:00+02:00
 category: forever
 lang: nl
 manual: true

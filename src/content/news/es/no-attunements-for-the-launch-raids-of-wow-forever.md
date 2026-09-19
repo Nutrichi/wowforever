@@ -1,7 +1,7 @@
 ---
 title: "Las raids del lanzamiento no piden attunement"
 description: "Las raids llegan en tamaños fijos de 10, 20 y 40 jugadores, la dificultad nunca escala, y qué pasa con los attunements tras el lanzamiento queda abierto."
-date: 2026-09-19
+date: 2026-09-19T09:20:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/blizzard-classic-era-ragnaros.jpg

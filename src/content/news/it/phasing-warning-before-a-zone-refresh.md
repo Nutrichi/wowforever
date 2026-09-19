@@ -1,7 +1,7 @@
 ---
 title: "Un refresh di zona avvisa cinque minuti prima"
 description: "Un avviso annuncia un cambio di layer forzato, con un pulsante Refresh Now per farlo scattare da un punto sicuro. La tecnologia è nata pensando all'Hardcore."
-date: 2026-09-19
+date: 2026-09-19T20:05:00+02:00
 category: forever
 lang: it
 manual: true

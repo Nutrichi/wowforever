@@ -1,7 +1,7 @@
 ---
 title: "Berufe bleiben wie in Classic, mit Camping und Legacy Points"
 description: "Das Handwerk bleibt, wie es war, aber über 600 neue Rezepte, Lagerplätze und Legacy Points geben Berufen bis Level 60 eine größere Rolle."
-date: 2026-09-19
+date: 2026-09-19T09:10:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-09-17-wow-forever-dustwallow-marsh.jpg

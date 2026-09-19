@@ -65,13 +65,34 @@ if (!slug) {
   process.exit(1);
 }
 
-/** De datum van vandaag, lokaal, als 2026-09-14. */
-const today = new Date();
-const date = [
-  today.getFullYear(),
-  String(today.getMonth() + 1).padStart(2, '0'),
-  String(today.getDate()).padStart(2, '0'),
-].join('-');
+/*
+ * Het tijdstip van nu, in Belgische tijd, als 2026-09-14T21:05:00+02:00.
+ *
+ * **Met tijdstip en niet alleen de datum** (Nutri, 19 september 2026): de feed
+ * sorteert op dit veld, en zonder tijdstip staan alle posts van dezelfde dag op
+ * middernacht. Dan besliste de bestandsnaam wie bovenaan kwam, en een nieuwe
+ * post landde midden in de lijst. Met een tijdstip staat de nieuwste altijd
+ * bovenaan. Schrijf je een post met de hand, neem dan dezelfde vorm over.
+ */
+const now = new Date();
+const inBrussels = new Intl.DateTimeFormat('en-CA', {
+  timeZone: 'Europe/Brussels',
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit',
+  hour: '2-digit',
+  minute: '2-digit',
+  second: '2-digit',
+  hourCycle: 'h23',
+  timeZoneName: 'longOffset',
+}).formatToParts(now);
+const part = (type) => inBrussels.find((p) => p.type === type)?.value ?? '';
+/* "GMT+02:00" wordt "+02:00"; in de winter geeft Intl "GMT+1", dus vullen we aan. */
+const rawOffset = part('timeZoneName').replace('GMT', '') || '+00:00';
+const offset = /^[+-]\d{2}:\d{2}$/.test(rawOffset)
+  ? rawOffset
+  : rawOffset.replace(/^([+-])(\d)$/, '$10$2:00').replace(/^([+-])(\d{2})$/, '$1$2:00');
+const date = `${part('year')}-${part('month')}-${part('day')}T${part('hour')}:${part('minute')}:${part('second')}${offset}`;
 
 const root = path.resolve(process.cwd(), 'src/content/news/en');
 const file = path.join(root, `${slug}.md`);

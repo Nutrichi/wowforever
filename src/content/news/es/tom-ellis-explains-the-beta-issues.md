@@ -1,7 +1,7 @@
 ---
 title: "Tom Ellis explica qué falló la primera noche de beta"
 description: "El Senior Game Producer repasa una a una las desconexiones, el loot lento y los reinicios del 17 de septiembre, y qué cambió el equipo en cada caso."
-date: 2026-09-19
+date: 2026-09-19T20:10:00+02:00
 category: forever
 lang: es
 manual: true
