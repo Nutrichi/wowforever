@@ -1,5 +1,5 @@
 ---
-title: "BlizzCon 2026 runs on 12 and 13 September, with two What's Next panels for World of Warcraft"
+title: "BlizzCon 2026 runs on 12 and 13 September"
 description: "Blizzard streams the Opening Ceremony, the WoW panels and the AWC and MDI Grand Finals for free, with in-game rewards for watch time and a BlizzCon bundle in the shop."
 date: 2026-09-07
 category: blizzard

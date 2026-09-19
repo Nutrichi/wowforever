@@ -1,5 +1,5 @@
 ---
-title: "Blizzard supporta i controller in WoW Forever e sposta il costo della cavalcatura sull'addestramento"
+title: "Il supporto ai controller arriva, prima cavalcatura gratis"
 description: "Un'intervista con Sportskeeda tocca il supporto ai controller, il prezzo delle riding skills, la linea temporale del gioco e oggetti che si comportano diversamente sottoterra."
 date: 2026-09-19
 category: forever

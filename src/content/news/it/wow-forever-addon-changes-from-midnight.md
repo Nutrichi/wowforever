@@ -1,5 +1,5 @@
 ---
-title: "Blizzard porta le modifiche agli addon di Midnight in WoW Forever"
+title: "Midnight porta le sue modifiche agli addon"
 description: "I secrets e i nuovi aura containers passano in Forever, quindi gli addon scritti per WoW Classic non funzioneranno lì così come sono."
 date: 2026-09-16
 category: forever

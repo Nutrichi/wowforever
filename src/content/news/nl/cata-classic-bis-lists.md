@@ -1,5 +1,5 @@
 ---
-title: "BiS-lijsten voor Cataclysm Classic dekken alle 30 specs, van pre-raid tot Dragon Soul"
+title: "Cataclysm Classic heeft BiS-lijsten voor alle 30 specs"
 description: "120 best-in-slotlijsten voor Cataclysm Classic dekken pre-raidgear en drie raidtiers, van Blackwing Descent tot Dragon Soul, met Heroic-items."
 date: 2026-07-23
 category: classic

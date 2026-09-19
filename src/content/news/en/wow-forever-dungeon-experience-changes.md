@@ -1,5 +1,5 @@
 ---
-title: "WoW Forever moves dungeon experience from mob kills to dungeon quests"
+title: "Dungeon experience moves from kills to quests"
 description: "Experience from monsters in a dungeon goes down and experience from dungeon quests goes up, so a first run pays off and repeat runs do not."
 date: 2026-09-15
 category: forever

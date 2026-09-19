@@ -1,5 +1,5 @@
 ---
-title: "Wowhead trouve une nouvelle branche WoW Forever sur les serveurs CDN de Blizzard"
+title: "Wowhead trouve une nouvelle branche sur les serveurs CDN"
 description: "Une branche pour la version retail de Forever est apparue sur les serveurs de distribution de Blizzard, sept semaines avant le lancement du 4 novembre."
 date: 2026-09-16
 category: forever

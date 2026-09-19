@@ -64,11 +64,15 @@
   /*
    * Categoriekleuren. Een categorie is het spel waar de post over gaat
    * (PROJECT_SPEC.md §4.5).
+   * Blizzard is altijd blauw en Classic groen (Nutri, 19 september 2026);
+   * Forever blijft goud. De twee kleuren volgen --wf-arcane en --wf-live, want
+   * die zijn donkerder op dag: het ruitje staat dan op een lichte grond.
    */
   --wf-cat-forever: var(--wf-accent);
-  --wf-cat-classic: var(--wf-arcane);
   /* Groen uit het palet: #7fae6a 's nachts, #3d6b2c overdag (volgt --wf-live). */
-  --wf-cat-blizzard: var(--wf-live);
+  --wf-cat-classic: var(--wf-live);
+  /* Arcaanblauw: #4f7fd9 's nachts, #24468f overdag (volgt --wf-arcane). */
+  --wf-cat-blizzard: var(--wf-arcane);
 
   /* Gloed, zacht gehouden: dit is geen neon. Op dag worden ze none. */
   --wf-glow-wordmark: 0 0 18px rgba(224, 183, 122, .25);

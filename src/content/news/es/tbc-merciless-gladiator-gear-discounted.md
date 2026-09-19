@@ -1,5 +1,5 @@
 ---
-title: "El equipo Merciless Gladiator tiene descuento en TBC Anniversary, sin requisitos de índice"
+title: "Merciless Gladiator baja de precio en TBC Anniversary"
 description: "Tras el final de la Arena Season 2, los vendedores de arena venden todo el conjunto Merciless Gladiator más barato, y cada pieza está al alcance de cualquier jugador."
 date: 2026-08-20
 category: classic

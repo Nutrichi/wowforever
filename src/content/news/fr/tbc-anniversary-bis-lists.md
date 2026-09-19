@@ -1,5 +1,5 @@
 ---
-title: "Les listes BiS de TBC Anniversary couvrent les 27 spécialisations, du pré-raid à Sunwell Plateau"
+title: "TBC Anniversary a des listes BiS pour les 27 specs"
 description: "162 listes best-in-slot pour The Burning Crusade Classic Anniversary couvrent l’équipement pré-raid et les cinq phases de raid, pour chaque classe et spécialisation."
 date: 2026-07-22
 category: classic

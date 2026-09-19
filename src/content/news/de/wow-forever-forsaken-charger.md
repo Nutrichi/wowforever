@@ -1,5 +1,5 @@
 ---
-title: "Blizzard zeigt den Forsaken Charger für Undead Paladins in WoW Forever"
+title: "Undead Paladins bekommen den Forsaken Charger"
 description: "Das Panel Found Photographs zeigte das Reittier des Forsaken Paladin, mit einer eigenen epischen Reittierquest auf Stufe 60, die in Tirisfal Glades beginnt."
 date: 2026-09-13
 category: forever

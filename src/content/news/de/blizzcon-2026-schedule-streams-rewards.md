@@ -1,5 +1,5 @@
 ---
-title: "Die BlizzCon 2026 findet am 12. und 13. September statt, mit zwei What's-Next-Panels für World of Warcraft"
+title: "Die BlizzCon 2026 findet am 12. und 13. September statt"
 description: "Blizzard streamt die Opening Ceremony, die WoW-Panels und die Grand Finals von AWC und MDI kostenlos, mit Belohnungen im Spiel für Zuschauzeit und einem BlizzCon-Bundle im Shop."
 date: 2026-09-07
 category: blizzard

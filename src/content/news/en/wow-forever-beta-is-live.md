@@ -1,5 +1,5 @@
 ---
-title: "The beta of World of Warcraft: Forever is live, with queues at the log-in screen"
+title: "The beta is live, with queues at the log-in screen"
 description: "Blizzard opened the beta on 17 September, right after the live Q&A, and it runs to 21 October with a level cap of 20 at the start."
 date: 2026-09-17
 category: forever

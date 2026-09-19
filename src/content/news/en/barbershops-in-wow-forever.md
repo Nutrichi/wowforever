@@ -1,5 +1,5 @@
 ---
-title: "World of Warcraft: Forever gets barbershops, with a switch for the HD models"
+title: "Barbershops arrive, with a switch for the HD models"
 description: "The demo at BlizzCon showed a barbershop with the options from character creation, according to Wowhead. Blizzard has not announced it."
 date: 2026-09-17
 category: forever

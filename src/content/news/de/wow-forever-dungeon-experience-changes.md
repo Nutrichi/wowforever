@@ -1,5 +1,5 @@
 ---
-title: "WoW Forever verlagert die Erfahrung in Dungeons von Kills zu Dungeonquests"
+title: "Erfahrung in Dungeons kommt aus Quests statt aus Kills"
 description: "Die Erfahrung durch Monster in einem Dungeon sinkt und die aus Dungeonquests steigt, also lohnt sich ein erster Durchgang stark und eine Wiederholung deutlich weniger."
 date: 2026-09-15
 category: forever

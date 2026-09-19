@@ -1,5 +1,5 @@
 ---
-title: "Gratis routepakketten van RestedXP voor Classic, TBC en WotLK staan op CurseForge"
+title: "Gratis RestedXP-routes voor Classic, TBC en WotLK"
 description: "Drie gratis levelpakketten voor de gidsaddon RestedXP dekken Classic van 1 tot 60, The Burning Crusade van 60 tot 70 en Wrath of the Lich King van 70 tot 80."
 date: 2026-05-30
 category: classic

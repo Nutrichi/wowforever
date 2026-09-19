@@ -1,5 +1,5 @@
 ---
-title: "Merciless Gladiator-gear is afgeprijsd in TBC Anniversary, zonder ratingvereisten"
+title: "Merciless Gladiator-gear is afgeprijsd in TBC Anniversary"
 description: "Na het einde van Arena Season 2 verkopen de Arena-vendors de volledige Merciless Gladiator-set goedkoper, en elk stuk is open voor elke speler."
 date: 2026-08-20
 category: classic

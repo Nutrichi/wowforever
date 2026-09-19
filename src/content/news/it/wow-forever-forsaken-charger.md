@@ -1,5 +1,5 @@
 ---
-title: "Blizzard mostra il Forsaken Charger degli Undead Paladin in WoW Forever"
+title: "Gli Undead Paladin ricevono il Forsaken Charger"
 description: "Il panel Found Photographs ha svelato la cavalcatura del Forsaken Paladin, con una propria missione per la cavalcatura epica al livello 60 che parte da Tirisfal Glades."
 date: 2026-09-13
 category: forever

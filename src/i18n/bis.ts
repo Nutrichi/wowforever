@@ -15,6 +15,7 @@ const ui = {
   en: {
     crumb: 'BiS',
     hubTitle: 'Best in slot for {era}',
+    foreverMetaTitle: 'WoW Forever BiS lists: best in slot per class and spec',
     viewing: 'Viewing {era}. Switch era above.',
     live: '{phase} live',
     count: '{n} lists · updated {date}',
@@ -59,6 +60,7 @@ const ui = {
   nl: {
     crumb: 'BiS',
     hubTitle: 'Best in slot voor {era}',
+    foreverMetaTitle: 'WoW Forever BiS-lijsten: best in slot per class en spec',
     viewing: 'Je bekijkt {era}. Wissel van era hierboven.',
     live: '{phase} live',
     count: '{n} lijsten · bijgewerkt op {date}',
@@ -103,6 +105,7 @@ const ui = {
   fr: {
     crumb: 'BiS',
     hubTitle: 'Best in slot pour {era}',
+    foreverMetaTitle: 'Listes BiS WoW Forever : best in slot par classe et spé',
     viewing: 'Vous consultez {era}. Changez d’ère ci-dessus.',
     live: '{phase} en cours',
     count: '{n} listes · mises à jour le {date}',
@@ -147,6 +150,7 @@ const ui = {
   es: {
     crumb: 'BiS',
     hubTitle: 'Best in slot para {era}',
+    foreverMetaTitle: 'Listas BiS de WoW Forever: best in slot por clase y spec',
     viewing: 'Estás viendo {era}. Cambia de era arriba.',
     live: '{phase} activa',
     count: '{n} listas · actualizadas el {date}',
@@ -191,6 +195,7 @@ const ui = {
   it: {
     crumb: 'BiS',
     hubTitle: 'Best in slot per {era}',
+    foreverMetaTitle: 'Liste BiS di WoW Forever: best in slot per classe e spec',
     viewing: 'Stai guardando {era}. Cambia era qui sopra.',
     live: '{phase} in corso',
     count: '{n} liste · aggiornate il {date}',
@@ -235,6 +240,7 @@ const ui = {
   de: {
     crumb: 'BiS',
     hubTitle: 'Best in Slot für {era}',
+    foreverMetaTitle: 'WoW Forever BiS-Listen: Best in Slot pro Klasse und Spec',
     viewing: 'Du siehst {era}. Wechsle die Ära oben.',
     live: '{phase} live',
     count: '{n} Listen · aktualisiert am {date}',

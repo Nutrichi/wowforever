@@ -1,5 +1,5 @@
 ---
-title: "Blizzard corrige el nivel de Krol'dok Stronghold y da todas las mazmorras nuevas"
+title: "Krol'dok Stronghold es una mazmorra de nivel 40 a 45"
 description: "Krol'dok Stronghold es para los niveles 40 a 45, no lo que se vio en la BlizzCon. Blizzard publicó además los tramos de nivel de las nueve mazmorras nuevas de WoW Forever."
 date: 2026-09-14
 category: forever

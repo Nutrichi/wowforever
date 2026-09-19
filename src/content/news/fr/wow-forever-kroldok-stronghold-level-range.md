@@ -1,5 +1,5 @@
 ---
-title: "Blizzard corrige le niveau de Krol'dok Stronghold et donne tous les nouveaux donjons"
+title: "Krol'dok Stronghold est un donjon de niveau 40 à 45"
 description: "Krol'dok Stronghold est prévu pour les niveaux 40 à 45, et non ce qui était affiché à la BlizzCon. Blizzard a donné les tranches des neuf nouveaux donjons de WoW Forever."
 date: 2026-09-14
 category: forever

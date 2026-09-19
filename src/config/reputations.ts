@@ -23,3 +23,12 @@ export const standingNames: Record<Standing, string> = {
 /** Voor wie een factie is: één factie van het spel of allebei. */
 export const reputationSides = ['alliance', 'horde', 'both'] as const;
 export type ReputationSide = (typeof reputationSides)[number];
+
+/*
+ * Waar een factie vandaan komt. De 32 facties van Classic Era zijn het
+ * vertrekpunt zolang Forever zijn eigen reputaties niet toont; een factie die
+ * alleen in Forever bestaat, staat op `forever` en draagt een andere zin
+ * bovenaan (Nutri, 19 september 2026).
+ */
+export const reputationOrigins = ['classic', 'forever'] as const;
+export type ReputationOrigin = (typeof reputationOrigins)[number];

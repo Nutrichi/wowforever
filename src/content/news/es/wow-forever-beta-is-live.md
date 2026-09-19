@@ -1,5 +1,5 @@
 ---
-title: "La beta de World of Warcraft: Forever está en marcha, con colas en la pantalla de acceso"
+title: "La beta está en marcha, con colas en la pantalla de acceso"
 description: "Blizzard abrió la beta el 17 de septiembre, justo después del Q&A en directo, y dura hasta el 21 de octubre, al principio con un límite de nivel 20."
 date: 2026-09-17
 category: forever

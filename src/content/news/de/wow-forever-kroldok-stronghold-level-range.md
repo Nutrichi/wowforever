@@ -1,5 +1,5 @@
 ---
-title: "Blizzard korrigiert die Stufen von Krol'dok Stronghold und nennt alle neuen Dungeons"
+title: "Krol'dok Stronghold ist für Stufe 40 bis 45"
 description: "Krol'dok Stronghold ist für die Stufen 40 bis 45, nicht für den auf der BlizzCon gezeigten Bereich. Blizzard nannte auch die Stufen aller neun neuen Dungeons in WoW Forever."
 date: 2026-09-14
 category: forever

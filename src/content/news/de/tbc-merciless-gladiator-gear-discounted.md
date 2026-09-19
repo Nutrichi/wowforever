@@ -1,5 +1,5 @@
 ---
-title: "Das Merciless-Gladiator-Set ist in TBC Anniversary reduziert, ohne Wertungsanforderungen"
+title: "Das Merciless-Gladiator-Set ist in TBC Anniversary reduziert"
 description: "Nach dem Ende von Arena Season 2 verkaufen die Arenahändler das komplette Merciless-Gladiator-Set günstiger, und jedes Teil steht allen Spielern offen."
 date: 2026-08-20
 category: classic

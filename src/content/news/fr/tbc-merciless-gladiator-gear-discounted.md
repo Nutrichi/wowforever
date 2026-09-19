@@ -1,5 +1,5 @@
 ---
-title: "L’équipement Merciless Gladiator est soldé dans TBC Anniversary, sans exigence de cote"
+title: "Merciless Gladiator est soldé en TBC Anniversary"
 description: "Après la fin de l’Arena Season 2, les vendeurs d’arène vendent tout l’ensemble Merciless Gladiator moins cher, et chaque pièce est accessible à tous les joueurs."
 date: 2026-08-20
 category: classic

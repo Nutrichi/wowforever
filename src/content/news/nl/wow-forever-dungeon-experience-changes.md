@@ -1,5 +1,5 @@
 ---
-title: "WoW Forever verschuift ervaring in dungeons van kills naar dungeonquests"
+title: "Ervaring in dungeons verschuift van kills naar quests"
 description: "Ervaring van monsters in een dungeon gaat omlaag en ervaring uit dungeonquests gaat omhoog, dus een eerste run levert veel op en een herhaling veel minder."
 date: 2026-09-15
 category: forever

@@ -1,5 +1,5 @@
 ---
-title: "Blizzard kondigt World of Warcraft: Forever aan, launch op 4 november 2026"
+title: "World of Warcraft: Forever komt uit op 4 november 2026"
 description: "Classic+ heet World of Warcraft: Forever. Het blijft voorgoed op level 60, voegt het ras Skyborne en nieuwe zones toe en zit in een gewoon abonnement."
 date: 2026-09-13
 category: forever

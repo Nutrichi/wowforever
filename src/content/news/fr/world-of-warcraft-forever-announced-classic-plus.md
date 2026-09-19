@@ -1,5 +1,5 @@
 ---
-title: "Blizzard annonce World of Warcraft: Forever, sortie le 4 novembre 2026"
+title: "World of Warcraft: Forever sort le 4 novembre 2026"
 description: "Classic+ s’appelle World of Warcraft: Forever. Le jeu reste au niveau 60 pour de bon, ajoute la race Skyborne et de nouvelles zones, et est inclus dans un abonnement classique."
 date: 2026-09-13
 category: forever

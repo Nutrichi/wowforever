@@ -1,5 +1,5 @@
 ---
-title: "La beta di World of Warcraft: Forever è online, con code alla schermata di accesso"
+title: "La beta è online, con code alla schermata di accesso"
 description: "Blizzard ha aperto la beta il 17 settembre, subito dopo il Q&A in diretta, e dura fino al 21 ottobre, all'inizio con un limite di livello 20."
 date: 2026-09-17
 category: forever

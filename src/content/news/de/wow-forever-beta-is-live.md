@@ -1,5 +1,5 @@
 ---
-title: "Die Beta von World of Warcraft: Forever ist live, mit Warteschlangen am Anmeldebildschirm"
+title: "Die Beta ist live, mit Warteschlangen am Anmeldebildschirm"
 description: "Blizzard hat die Beta am 17. September geöffnet, direkt nach dem Live-Q&A, und sie läuft bis zum 21. Oktober, zunächst mit Levelgrenze 20."
 date: 2026-09-17
 category: forever

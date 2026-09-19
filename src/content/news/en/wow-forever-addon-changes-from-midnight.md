@@ -1,5 +1,5 @@
 ---
-title: "Blizzard brings the addon changes from Midnight to WoW Forever"
+title: "Addon changes from Midnight carry over"
 description: "Secrets and the new aura containers carry over to Forever, which means addons written for WoW Classic will not simply work there."
 date: 2026-09-16
 category: forever

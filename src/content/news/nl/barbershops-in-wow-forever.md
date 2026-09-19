@@ -1,5 +1,5 @@
 ---
-title: "World of Warcraft: Forever krijgt barbershops, met een schakelaar voor de HD-modellen"
+title: "Barbershops komen erbij, met schakelaar voor HD-modellen"
 description: "De demo op BlizzCon toonde een barbershop met de keuzes uit het aanmaken van een personage, volgens Wowhead. Blizzard kondigde er zelf niets over aan."
 date: 2026-09-17
 category: forever

@@ -1,5 +1,5 @@
 ---
-title: "Blizzard veranstaltet am 17. September ein Live-Q&A zu Midnight und WoW Forever"
+title: "Ein Live-Q&A zu Midnight und Forever läuft am 17. September"
 description: "Das Entwicklungsteam von World of Warcraft beantwortet am Donnerstag, dem 17. September, Fragen aus dem Forum, live auf den offiziellen Warcraft-Kanälen bei Twitch und YouTube."
 date: 2026-09-15
 category: blizzard

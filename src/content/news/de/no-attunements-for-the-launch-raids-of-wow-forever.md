@@ -1,5 +1,5 @@
 ---
-title: "Blizzard streicht die Attunements für die Raids, mit denen WoW Forever öffnet"
+title: "Raids zum Launch brauchen kein Attunement"
 description: "Raids kommen in festen Größen von 10, 20 und 40 Spielern, die Schwierigkeit skaliert nie mit, und was nach dem Launch mit Attunements passiert, bleibt offen."
 date: 2026-09-19
 category: forever

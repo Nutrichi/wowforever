@@ -1,5 +1,5 @@
 ---
-title: "BiS-lijsten voor WotLK Classic dekken alle 30 specs, van pre-raid tot Icecrown Citadel"
+title: "WotLK Classic heeft BiS-lijsten voor alle 30 specs"
 description: "150 best-in-slotlijsten voor Wrath of the Lich King Classic dekken pre-raidgear en vier raidfasen, tot Icecrown Citadel en The Ruby Sanctum."
 date: 2026-07-23
 category: classic

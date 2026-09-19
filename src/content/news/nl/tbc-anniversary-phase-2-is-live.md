@@ -1,5 +1,5 @@
 ---
-title: "TBC Anniversary opent Serpentshrine Cavern en Tempest Keep in fase 2"
+title: "Serpentshrine Cavern en Tempest Keep openen in TBC-fase 2"
 description: "Fase 2 van The Burning Crusade Classic Anniversary brengt Lady Vashj, Kael'thas Sunstrider, Tier 5 en Arena Season 2 naar de Anniversary-realms."
 date: 2026-07-07
 category: classic

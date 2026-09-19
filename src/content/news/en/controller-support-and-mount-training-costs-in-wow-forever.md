@@ -1,5 +1,5 @@
 ---
-title: "Blizzard supports controllers in WoW Forever and moves the mount cost to the training"
+title: "Controller support is official, and the first mount is free"
 description: "An interview with Sportskeeda covers controller support, the price of riding skills, the timeline of the game and items that behave differently underground."
 date: 2026-09-19
 category: forever

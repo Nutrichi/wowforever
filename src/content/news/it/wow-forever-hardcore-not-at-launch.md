@@ -1,5 +1,5 @@
 ---
-title: "L'Hardcore non sarà disponibile al lancio di WoW Forever"
+title: "L'Hardcore non sarà disponibile al lancio"
 description: "Blizzard ha confermato al panel What's Next che la modalità Hardcore non è attiva al lancio di WoW Forever, e dice solo che arriverà presto."
 date: 2026-09-13
 category: forever

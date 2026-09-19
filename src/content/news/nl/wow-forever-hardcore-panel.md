@@ -1,5 +1,5 @@
 ---
-title: "Blizzard legt op het What's Next-panel uit hoe Hardcore verandert in WoW Forever"
+title: "Twee wijzigingen voor Hardcore uit het What's Next-panel"
 description: "Het Hardcore-panel ging over de waarschuwing voor een world refresh, een gestorven personage naar een andere modus verplaatsen, en eigen Legacy-uitdagingen en -perks."
 date: 2026-09-13
 category: forever

@@ -47,6 +47,8 @@ const fill = (text: string, values: Record<string, string | number>) =>
   Object.entries(values).reduce((out, [key, value]) => out.replaceAll(`{${key}}`, String(value)), text);
 
 const title = clips ? t('clips.title') : t('streams.title');
+/* De <title> los van de kop (§11): "WoW Forever clips" en "WoW Forever streams". */
+const metaTitle = clips ? t('clips.metaTitle') : t('streams.metaTitle');
 const description = clips
   ? fill(t('clips.description'), { h: clips.rules.windowHours })
   : t('streams.description');
@@ -68,7 +70,7 @@ const leadLabel = lead?.picked
   : clips ? t('clips.topLabel') : t('streams.topLabel');
 ---
 
-<BaseLayout locale={locale} title={title} description={description}>
+<BaseLayout locale={locale} title={metaTitle} description={description}>
   <!--
     Het grote beeld komt van YouTube of Twitch. De verbinding alvast openen
     scheelt tijd tot het grootste element op de pagina (§17, LCP).

@@ -1,5 +1,5 @@
 ---
-title: "Blizzard staat GDKP niet toe in World of Warcraft: Forever"
+title: "GDKP is niet toegestaan"
 description: "De studio wil dat guilds de kern van Forever blijven en noemt zichzelf in het verleden te mild voor goudkopers."
 date: 2026-09-17
 category: forever

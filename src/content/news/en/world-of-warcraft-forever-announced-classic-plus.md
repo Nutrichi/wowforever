@@ -1,5 +1,5 @@
 ---
-title: "Blizzard announces World of Warcraft: Forever, launch on 4 November 2026"
+title: "World of Warcraft: Forever launches on 4 November 2026"
 description: "Classic+ is called World of Warcraft: Forever. It stays at level 60 for good, adds the Skyborne race and new zones, and is included in a regular subscription."
 date: 2026-09-13
 category: forever

@@ -1,5 +1,5 @@
 ---
-title: "Un calendario trapelato di Blizzard indica un progetto Camelot nel terzo trimestre del 2026"
+title: "Un calendario trapelato indica il progetto Camelot nel Q3"
 description: "Un documento di pianificazione trapelato, che aveva previsto correttamente uscite precedenti di World of Warcraft, cita un progetto chiamato Camelot. Molti giocatori si aspettano una versione Classic+ del gioco."
 date: 2026-06-15
 category: forever

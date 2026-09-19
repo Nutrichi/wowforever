@@ -1,5 +1,5 @@
 ---
-title: "Merciless Gladiator gear is discounted in TBC Anniversary, without rating requirements"
+title: "Merciless Gladiator gear is discounted in TBC Anniversary"
 description: "After the end of Arena Season 2, the Arena vendors sell the full Merciless Gladiator set at a lower price, and every piece is open to every player."
 date: 2026-08-20
 category: classic

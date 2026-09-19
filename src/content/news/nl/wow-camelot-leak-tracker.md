@@ -1,5 +1,5 @@
 ---
-title: "Gelekte planning van Blizzard noemt een project Camelot in het derde kwartaal van 2026"
+title: "Gelekte planning noemt project Camelot in Q3 2026"
 description: "Een gelekt planningsdocument dat eerdere releases van World of Warcraft correct voorspelde, noemt een project met de naam Camelot. Veel spelers verwachten een Classic+-versie van het spel."
 date: 2026-06-15
 category: forever

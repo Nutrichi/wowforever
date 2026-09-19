@@ -1,5 +1,5 @@
 ---
-title: "Blizzard n'autorise pas le GDKP dans World of Warcraft: Forever"
+title: "GDKP n'est pas autorisé"
 description: "Le studio veut que les guildes restent au centre de Forever et se dit trop indulgent envers les acheteurs d'or par le passé."
 date: 2026-09-17
 category: forever

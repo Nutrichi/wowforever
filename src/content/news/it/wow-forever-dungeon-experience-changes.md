@@ -1,5 +1,5 @@
 ---
-title: "WoW Forever sposta l'esperienza dei dungeon dalle uccisioni alle missioni"
+title: "L'esperienza dei dungeon passa alle missioni"
 description: "L'esperienza dai mostri dentro un dungeon cala e quella delle missioni di dungeon sale, quindi la prima visita rende molto e ripeterla rende molto meno."
 date: 2026-09-15
 category: forever

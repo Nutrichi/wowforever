@@ -1,5 +1,5 @@
 ---
-title: "Blizzard laat de attunements weg bij de raids waarmee WoW Forever opent"
+title: "Raids bij de launch vragen geen attunement"
 description: "Raids komen in vaste maten van 10, 20 en 40 spelers, de moeilijkheid schaalt nooit mee, en wat er na de launch met attunements gebeurt blijft open."
 date: 2026-09-19
 category: forever

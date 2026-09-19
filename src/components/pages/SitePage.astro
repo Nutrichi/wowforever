@@ -142,7 +142,11 @@ const jsonLd = {
         {page.sources.map((source, index) => (
           <>
             {index > 0 && ', '}
-            <a href={source.url} rel="noopener nofollow" target="_blank">{source.name}</a>
+            <a
+              href={source.url}
+              rel={source.url.includes('shop.restedxp.com') ? 'noopener sponsored' : 'noopener nofollow'}
+              target="_blank"
+            >{source.name}</a>
           </>
         ))}
       </p>

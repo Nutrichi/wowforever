@@ -1,5 +1,5 @@
 ---
-title: "Blizzard corrects the level range of Krol'dok Stronghold and lists every new dungeon"
+title: "Krol'dok Stronghold is for levels 40 to 45"
 description: "Krol'dok Stronghold is for levels 40 to 45, not the range shown at BlizzCon. Blizzard also published the level brackets of all nine new dungeons in WoW Forever."
 date: 2026-09-14
 category: forever

@@ -1,5 +1,5 @@
 ---
-title: "Las listas BiS de Cataclysm Classic cubren las 30 especializaciones, desde el pre-raid hasta Dragon Soul"
+title: "Cataclysm Classic ya tiene listas BiS para las 30 specs"
 description: "120 listas best-in-slot para Cataclysm Classic cubren el equipo pre-raid y tres niveles de banda, de Blackwing Descent a Dragon Soul, con objetos Heroic."
 date: 2026-07-23
 category: classic

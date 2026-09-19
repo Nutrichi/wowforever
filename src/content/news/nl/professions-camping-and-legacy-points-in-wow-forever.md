@@ -1,5 +1,5 @@
 ---
-title: "Blizzard houdt het professiesysteem van Classic in Forever en zet er camping bij"
+title: "Professions blijven Classic, met camping en Legacy Points"
 description: "Craften blijft zoals het was, maar ruim 600 nieuwe recepten, kampplaatsen en Legacy Points geven professies een grotere rol op weg naar level 60."
 date: 2026-09-19
 category: forever

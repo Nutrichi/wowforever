@@ -1,5 +1,5 @@
 ---
-title: "BiS-lijsten voor TBC Anniversary dekken alle 27 specs, van pre-raid tot Sunwell Plateau"
+title: "TBC Anniversary heeft BiS-lijsten voor alle 27 specs"
 description: "162 best-in-slotlijsten voor The Burning Crusade Classic Anniversary dekken pre-raidgear en alle vijf de raidfasen, voor elke class en spec."
 date: 2026-07-22
 category: classic

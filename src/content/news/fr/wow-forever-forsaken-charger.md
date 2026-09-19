@@ -1,5 +1,5 @@
 ---
-title: "Blizzard montre le Forsaken Charger des Undead Paladins dans WoW Forever"
+title: "Les Undead Paladins reçoivent le Forsaken Charger"
 description: "Le panel Found Photographs a dévoilé la monture du Forsaken Paladin, avec sa propre quête de monture épique au niveau 60 qui commence en Tirisfal Glades."
 date: 2026-09-13
 category: forever

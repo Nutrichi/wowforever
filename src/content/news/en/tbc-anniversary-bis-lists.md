@@ -1,5 +1,5 @@
 ---
-title: "TBC Anniversary BiS lists cover all 27 specs from pre-raid to Sunwell Plateau"
+title: "TBC Anniversary BiS lists cover all 27 specs"
 description: "162 best-in-slot lists for The Burning Crusade Classic Anniversary cover pre-raid gear and all five raid phases, for every class and spec."
 date: 2026-07-22
 category: classic

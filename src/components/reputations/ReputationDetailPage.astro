@@ -93,7 +93,7 @@ const jsonLd = {
       </div>
     </header>
 
-    <p class="wf-gnote">{t('note')}</p>
+    <p class="wf-gnote">{t(data.origin === 'forever' ? 'noteForever' : 'note')}</p>
 
     <div class="wf-gprose">
       <Content />
@@ -105,7 +105,11 @@ const jsonLd = {
         {data.sources.map((source, index) => (
           <>
             {index > 0 && ', '}
-            <a href={source.url} rel="noopener nofollow" target="_blank">{source.name}</a>
+            <a
+              href={source.url}
+              rel={source.url.includes('shop.restedxp.com') ? 'noopener sponsored' : 'noopener nofollow'}
+              target="_blank"
+            >{source.name}</a>
           </>
         ))}
       </p>

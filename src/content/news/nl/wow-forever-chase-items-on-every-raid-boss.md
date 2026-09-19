@@ -1,5 +1,5 @@
 ---
-title: "Blizzard geeft elke raidboss in WoW Forever een chase item"
+title: "Elke raidboss laat een chase item vallen"
 description: "In een interview met The Sun vertelt Blizzard over Zephras Isle, Mount Hyjal met twee raids, The Riverglades, Shen'dralas en de talentbomen van WoW Forever."
 date: 2026-09-15
 category: forever

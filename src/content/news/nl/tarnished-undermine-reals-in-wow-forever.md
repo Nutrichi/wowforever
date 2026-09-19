@@ -1,5 +1,5 @@
 ---
-title: "Blizzard brengt Tarnished Undermine Reals naar World of Warcraft: Forever"
+title: "Tarnished Undermine Reals keren terug"
 description: "De munt uit Season of Discovery keert terug in Forever, aangekondigd door ontwikkelaar Josh Greenfield tijdens de live Q&A. Hoe je hem verdient, blijft open."
 date: 2026-09-17
 category: forever

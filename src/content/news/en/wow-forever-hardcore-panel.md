@@ -1,5 +1,5 @@
 ---
-title: "Blizzard explains how Hardcore changes in WoW Forever at the What's Next panel"
+title: "Two Hardcore changes come from the What's Next panel"
 description: "The Hardcore panel covered the warning before a world refresh, moving a dead character to another mode, and Legacy challenges and perks of its own."
 date: 2026-09-13
 category: forever

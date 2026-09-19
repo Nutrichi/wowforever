@@ -1,5 +1,5 @@
 ---
-title: "La BlizzCon 2026 se celebra el 12 y el 13 de septiembre, con dos paneles What's Next para World of Warcraft"
+title: "La BlizzCon 2026 se celebra el 12 y el 13 de septiembre"
 description: "Blizzard retransmite gratis la Opening Ceremony, los paneles de WoW y las Grand Finals de la AWC y el MDI, con recompensas en el juego por tiempo de visualización y un paquete BlizzCon en la tienda."
 date: 2026-09-07
 category: blizzard

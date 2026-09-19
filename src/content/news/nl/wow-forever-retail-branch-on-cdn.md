@@ -1,5 +1,5 @@
 ---
-title: "Wowhead vindt een nieuwe WoW Forever-branch op de CDN-servers van Blizzard"
+title: "Wowhead vindt een nieuwe branch op de CDN-servers"
 description: "Op de distributieservers van Blizzard dook een branch voor de retailversie van Forever op, zeven weken voor de lancering op 4 november."
 date: 2026-09-16
 category: forever

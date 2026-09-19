@@ -1,5 +1,5 @@
 ---
-title: "BiS-lijsten voor MoP Classic dekken alle 34 specs, van pre-raid tot Siege of Orgrimmar"
+title: "MoP Classic heeft BiS-lijsten voor alle 34 specs"
 description: "136 best-in-slotlijsten voor Mists of Pandaria Classic dekken pre-raidgear, Tier 14, Throne of Thunder en Siege of Orgrimmar, Monks inbegrepen."
 date: 2026-07-22
 category: classic

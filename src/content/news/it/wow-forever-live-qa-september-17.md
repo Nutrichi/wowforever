@@ -1,5 +1,5 @@
 ---
-title: "Blizzard organizza un Q&A in diretta su Midnight e WoW Forever il 17 settembre"
+title: "Un Q&A in diretta su Midnight e Forever va in onda il 17"
 description: "Il team di sviluppo di World of Warcraft risponde giovedì 17 settembre alle domande del forum, in diretta sui canali ufficiali Warcraft di Twitch e YouTube."
 date: 2026-09-15
 category: blizzard

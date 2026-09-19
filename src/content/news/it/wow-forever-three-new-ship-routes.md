@@ -1,5 +1,5 @@
 ---
-title: "WoW Forever aggiunge tre nuove rotte navali attraverso Azeroth"
+title: "Tre nuove rotte navali attraversano Azeroth"
 description: "Stormwind Harbor ottiene una rotta per Auberdine, Menethil collega Southshore e Auberdine, e la nuova zona The Riverglades raggiunge Steamwheedle Port."
 date: 2026-09-15
 category: forever

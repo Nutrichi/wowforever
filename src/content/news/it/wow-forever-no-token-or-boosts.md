@@ -1,5 +1,5 @@
 ---
-title: "Blizzard esclude un WoW Token e i boost in WoW Forever"
+title: "Il WoW Token e i boost non arrivano"
 description: "In un'intervista con Destin, Blizzard dice che non sono previsti né un WoW Token né un boost, spiega i limiti di livello della beta e descrive la rotta dopo il lancio."
 date: 2026-09-14
 category: forever

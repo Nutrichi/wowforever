@@ -1,5 +1,5 @@
 ---
-title: "Blizzard gibt jedem Raidboss in WoW Forever ein Chase Item"
+title: "Jeder Raidboss lässt ein Chase Item fallen"
 description: "In einem Interview mit The Sun spricht Blizzard über Zephras Isle, Mount Hyjal mit zwei Raids, The Riverglades, Shen'dralas und die Talentbäume von WoW Forever."
 date: 2026-09-15
 category: forever

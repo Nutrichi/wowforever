@@ -1,5 +1,5 @@
 ---
-title: "Blizzard erklärt die Herkunft der Skyborne in einem Interview mit GameSpot"
+title: "Josh Greenfield erklärt die Herkunft der Skyborne"
 description: "Senior Game Designer Josh Greenfield schildert die Flucht aus Eldre'Thalas, die Spaltung, die über die Faction entscheidet, und zählt die Quests, die Forever hinzufügt."
 date: 2026-09-14
 category: forever

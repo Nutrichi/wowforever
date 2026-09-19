@@ -1,5 +1,5 @@
 ---
-title: "WotLK Classic BiS lists cover all 30 specs from pre-raid to Icecrown Citadel"
+title: "WotLK Classic BiS lists cover all 30 specs"
 description: "150 best-in-slot lists for Wrath of the Lich King Classic cover pre-raid gear and four raid phases, up to Icecrown Citadel and The Ruby Sanctum."
 date: 2026-07-23
 category: classic

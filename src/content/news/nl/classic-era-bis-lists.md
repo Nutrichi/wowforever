@@ -1,5 +1,5 @@
 ---
-title: "BiS-lijsten voor Classic Era dekken alle 27 specs, van pre-raid tot Naxxramas"
+title: "Classic Era heeft BiS-lijsten voor alle 27 specs"
 description: "189 best-in-slotlijsten voor WoW Classic Era dekken elke class en spec over pre-raidgear en zes raidfasen, op basis van de gearguides van Icy Veins."
 date: 2026-07-22
 category: classic

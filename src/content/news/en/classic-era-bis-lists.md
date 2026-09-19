@@ -1,5 +1,5 @@
 ---
-title: "Classic Era BiS lists cover all 27 specs from pre-raid to Naxxramas"
+title: "Classic Era BiS lists cover all 27 specs"
 description: "189 best-in-slot lists for WoW Classic Era cover every class and spec across pre-raid gear and six raid phases, based on the gear guides of Icy Veins."
 date: 2026-07-22
 category: classic

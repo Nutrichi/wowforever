@@ -45,8 +45,9 @@ export const GET: APIRoute = async ({ site }) => {
       : []),
     `- [Classes](${url(guidePath('classes', defaultLocale))}): leveling guides per class and spec for each era, plus what is known about classes, race and class combinations and racials in WoW Forever.`,
     `- [Tradeskills](${url(guidePath('tradeskills', defaultLocale))}): tradeskill guides for each era, plus the tradeskill perks and Legacy perks of WoW Forever.`,
+    `- [Talents](${url(localizePath('talents', defaultLocale))}/): the WoW Forever talent calculator, with all nine classes and their three trees, and the Legacy calculator for the account-wide Legacy perks. A build is shareable as a link.`,
     ...(factions.length
-      ? [`- [Reputations](${url(reputationPath(defaultLocale))}): reputation guides per faction for WoW Forever, based on the factions of Classic Era until Forever shows its own: the standings, the fastest way to farm reputation and the rewards per standing.`]
+      ? [`- [Reputations](${url(reputationPath(defaultLocale))}): reputation guides per faction for WoW Forever. The Azeroth Commerce Authority and Durotar Supply and Logistics are Forever's own factions from the beta; the rest start from the factions of Classic Era until Forever shows its own. Per faction: the standings, the fastest way to farm reputation and the rewards per standing.`]
       : []),
     ...factions.map((faction) => `- [${faction.data.title}](${url(faction.href)}): ${faction.data.description}`),
     ...pages.filter((page) => page.key === 'forever').map(pageLine),
@@ -68,6 +69,8 @@ export const GET: APIRoute = async ({ site }) => {
     `Every page exists in ${locales.length} languages: ${locales
       .map((locale) => `${localeNames[locale]} (${url(localizePath('', locale))})`)
       .join(', ')}. Posts are written in English and translated by hand. Names from the game (items, spells, zones, dungeons, raids, bosses, classes, specs, tradeskills and factions) are never translated.`,
+    '',
+    'What this site answers: the release date and the beta of WoW Forever, its talents and talent calculator, best-in-slot (BiS) lists, classes, races and racials, professions and tradeskills, reputations and factions, leveling routes and leveling addons such as RestedXP and Zygor, plus live streams and clips.',
     '',
     '## Sections',
     '',

@@ -1,5 +1,5 @@
 ---
-title: "WoW Forever voegt drie nieuwe scheepsroutes toe over Azeroth"
+title: "Drie nieuwe scheepsroutes doorkruisen Azeroth"
 description: "Stormwind Harbor krijgt een route naar Auberdine, Menethil verbindt met Southshore en Auberdine, en de nieuwe zone The Riverglades bereikt Steamwheedle Port."
 date: 2026-09-15
 category: forever

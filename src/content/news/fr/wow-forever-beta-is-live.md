@@ -1,5 +1,5 @@
 ---
-title: "La bêta de World of Warcraft: Forever est en ligne, avec des files d'attente à la connexion"
+title: "La bêta est en ligne, avec des files d'attente"
 description: "Blizzard a ouvert la bêta le 17 septembre, juste après le Q&A en direct, et elle court jusqu'au 21 octobre, d'abord avec un plafond de niveau 20."
 date: 2026-09-17
 category: forever

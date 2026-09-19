@@ -1,5 +1,5 @@
 ---
-title: "Cataclysm Classic BiS lists cover all 30 specs from pre-raid to Dragon Soul"
+title: "Cataclysm Classic BiS lists cover all 30 specs"
 description: "120 best-in-slot lists for Cataclysm Classic cover pre-raid gear and three raid tiers, from Blackwing Descent to Dragon Soul, with Heroic items."
 date: 2026-07-23
 category: classic

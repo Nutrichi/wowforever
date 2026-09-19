@@ -1,5 +1,5 @@
 ---
-title: "Blizzard spiega al panel What's Next come cambia l'Hardcore in WoW Forever"
+title: "Due cambiamenti per l'Hardcore dal panel What's Next"
 description: "Il panel Hardcore ha toccato l'avviso prima di un world refresh, lo spostamento di un personaggio morto in un'altra modalità, e sfide e perk Legacy dedicati."
 date: 2026-09-13
 category: forever

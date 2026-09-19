@@ -1,5 +1,5 @@
 ---
-title: "Blizzard prend en charge les manettes dans WoW Forever et déplace le coût des montures vers la formation"
+title: "Les manettes arrivent, et la première monture est gratuite"
 description: "Une interview avec Sportskeeda aborde la prise en charge des manettes, le prix des riding skills, la chronologie du jeu et des objets qui agissent autrement sous terre."
 date: 2026-09-19
 category: forever

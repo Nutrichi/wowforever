@@ -1,5 +1,5 @@
 ---
-title: "Blizzard donne un chase item à chaque boss de raid dans WoW Forever"
+title: "Chaque boss de raid lâche un chase item"
 description: "Dans un entretien avec The Sun, Blizzard parle de Zephras Isle, de Mount Hyjal et ses deux raids, des Riverglades, de Shen'dralas et des arbres de talents de WoW Forever."
 date: 2026-09-15
 category: forever

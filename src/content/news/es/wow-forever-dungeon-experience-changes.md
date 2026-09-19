@@ -1,5 +1,5 @@
 ---
-title: "WoW Forever traslada la experiencia de las mazmorras de las muertes a las misiones"
+title: "Las mazmorras dan experiencia por misiones, no por muertes"
 description: "La experiencia por matar monstruos en una mazmorra baja y la de las misiones de mazmorra sube, así que la primera vuelta renta mucho y repetirla mucho menos."
 date: 2026-09-15
 category: forever

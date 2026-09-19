@@ -1,5 +1,5 @@
 ---
-title: "Las listas BiS de Classic Era cubren las 27 especializaciones, desde el pre-raid hasta Naxxramas"
+title: "Classic Era ya tiene listas BiS para las 27 specs"
 description: "189 listas best-in-slot para WoW Classic Era cubren cada clase y especialización, del equipo pre-raid a seis fases de banda, a partir de las guías de equipo de Icy Veins."
 date: 2026-07-22
 category: classic

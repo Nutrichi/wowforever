@@ -35,7 +35,7 @@ const crumbs = [
 const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
 ---
 
-<BaseLayout locale={locale} title={t('title')} description={t('description')}>
+<BaseLayout locale={locale} title={t('metaTitle')} description={t('description')}>
   <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
 
   <div class="wf-talents">

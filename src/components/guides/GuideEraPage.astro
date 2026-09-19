@@ -38,6 +38,15 @@ const name = eras[era].name;
 const title = kind === 'classes'
   ? (forever ? t('classesForeverTitle') : t('classesHubTitle', { era: name }))
   : (forever ? t('tradeskillsForeverTitle') : t('tradeskillsHubTitle', { era: name }));
+/*
+ * De <title> van de pagina staat los van de kop erboven (§11): de kop blijft
+ * kort, de titel draagt de woorden waarop mensen zoeken ("wow forever classes",
+ * "wow forever racials", "wow forever professions"). Alleen Forever heeft er
+ * een; een era-pagina draagt zijn era al in de kop.
+ */
+const metaTitle = forever
+  ? (kind === 'classes' ? t('classesForeverMetaTitle') : t('tradeskillsForeverMetaTitle'))
+  : title;
 const description = kind === 'classes'
   ? (forever ? t('classesForeverDescription') : t('classesDescription', { era: name }))
   : (forever ? t('tradeskillsForeverDescription') : t('tradeskillsDescription', { era: name, range: skillRange[era] }));
@@ -56,7 +65,7 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
 const redirect = forever ? { hrefs, storageKey: eraStorageKey } : null;
 ---
 
-<BaseLayout locale={locale} title={title} description={description}>
+<BaseLayout locale={locale} title={metaTitle} description={description}>
   {redirect && (
     <script is:inline slot="head" define:vars={redirect}>
       (function () {

@@ -1,5 +1,5 @@
 ---
-title: "Blizzard mantiene el sistema de profesiones de Classic en Forever y añade el camping"
+title: "El sistema de profesiones no cambia, y llega el camping"
 description: "La fabricación sigue igual, pero más de 600 recetas nuevas, los campamentos y los Legacy Points dan a las profesiones un papel mayor camino al nivel 60."
 date: 2026-09-19
 category: forever

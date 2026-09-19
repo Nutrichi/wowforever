@@ -1,5 +1,5 @@
 ---
-title: "Blizzard toont de Forsaken Charger voor Undead Paladins in WoW Forever"
+title: "Undead Paladins krijgen de Forsaken Charger"
 description: "Het panel Found Photographs toonde de mount van de Forsaken Paladin, met een eigen epic mount quest op level 60 die begint in Tirisfal Glades."
 date: 2026-09-13
 category: forever

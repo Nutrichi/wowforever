@@ -1,5 +1,5 @@
 ---
-title: "Blizzard admite mandos en WoW Forever y traslada el coste de la montura al entrenamiento"
+title: "Los mandos ya son compatibles y la primera montura es gratis"
 description: "Una entrevista con Sportskeeda repasa el soporte de mando, el precio de las riding skills, la línea temporal del juego y objetos que actúan distinto bajo tierra."
 date: 2026-09-19
 category: forever

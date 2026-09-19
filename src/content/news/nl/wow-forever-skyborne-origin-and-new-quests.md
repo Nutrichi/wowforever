@@ -1,5 +1,5 @@
 ---
-title: "Blizzard legt de herkomst van de Skyborne uit in een interview met GameSpot"
+title: "Josh Greenfield legt de herkomst van de Skyborne uit"
 description: "Senior game designer Josh Greenfield beschrijft de vlucht uit Eldre'Thalas, de splitsing die de faction bepaalt, en telt de quests die Forever toevoegt."
 date: 2026-09-14
 category: forever

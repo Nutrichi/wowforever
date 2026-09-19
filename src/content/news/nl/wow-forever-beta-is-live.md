@@ -1,5 +1,5 @@
 ---
-title: "De beta van World of Warcraft: Forever is live, met wachtrijen aan het inlogscherm"
+title: "De beta is live, met wachtrijen aan het inlogscherm"
 description: "Blizzard opende de beta op 17 september, meteen na de live Q&A, en ze loopt tot 21 oktober, eerst met een levelcap van 20."
 date: 2026-09-17
 category: forever

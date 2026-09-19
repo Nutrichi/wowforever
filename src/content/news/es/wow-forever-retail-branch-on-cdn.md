@@ -1,5 +1,5 @@
 ---
-title: "Wowhead encuentra una nueva rama de WoW Forever en los servidores CDN de Blizzard"
+title: "Wowhead encuentra una nueva rama en los servidores CDN"
 description: "Una rama para la versión retail de Forever apareció en los servidores de distribución de Blizzard, siete semanas antes del lanzamiento del 4 de noviembre."
 date: 2026-09-16
 category: forever

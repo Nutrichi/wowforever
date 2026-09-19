@@ -1,5 +1,5 @@
 ---
-title: "Le liste BiS di WotLK Classic coprono tutte le 30 specializzazioni, dal pre-raid a Icecrown Citadel"
+title: "WotLK Classic ha liste BiS per tutte le 30 spec"
 description: "150 liste best-in-slot per Wrath of the Lich King Classic coprono l’equipaggiamento pre-raid e quattro fasi di raid, fino a Icecrown Citadel e The Ruby Sanctum."
 date: 2026-07-23
 category: classic

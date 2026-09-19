@@ -1,5 +1,5 @@
 ---
-title: "Blizzard supprime les attunements pour les raids qui ouvrent WoW Forever"
+title: "Aucun attunement n'est demandé pour les raids du lancement"
 description: "Les raids arrivent en tailles fixes de 10, 20 et 40 joueurs, la difficulté ne s'adapte jamais, et le sort des attunements après le lancement reste ouvert."
 date: 2026-09-19
 category: forever

@@ -1,5 +1,5 @@
 ---
-title: "Le liste BiS di MoP Classic coprono tutte le 34 specializzazioni, dal pre-raid a Siege of Orgrimmar"
+title: "MoP Classic ha liste BiS per tutte le 34 spec"
 description: "136 liste best-in-slot per Mists of Pandaria Classic coprono l’equipaggiamento pre-raid, il Tier 14, Throne of Thunder e Siege of Orgrimmar, Monk compresi."
 date: 2026-07-22
 category: classic

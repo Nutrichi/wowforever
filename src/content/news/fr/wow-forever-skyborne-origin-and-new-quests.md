@@ -1,5 +1,5 @@
 ---
-title: "Blizzard explique l'origine des Skyborne dans un entretien avec GameSpot"
+title: "Josh Greenfield explique l'origine des Skyborne"
 description: "Le senior game designer Josh Greenfield décrit la fuite d'Eldre'Thalas, la scission qui décide de la faction, et compte les quêtes que Forever ajoute."
 date: 2026-09-14
 category: forever

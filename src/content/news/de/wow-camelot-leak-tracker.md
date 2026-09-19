@@ -1,5 +1,5 @@
 ---
-title: "Geleakter Zeitplan von Blizzard nennt ein Projekt Camelot im dritten Quartal 2026"
+title: "Geleakter Zeitplan von Blizzard nennt Camelot für Q3 2026"
 description: "Ein geleaktes Planungsdokument, das frühere Veröffentlichungen von World of Warcraft richtig vorhersagte, nennt ein Projekt namens Camelot. Viele Spieler erwarten eine Classic+-Version des Spiels."
 date: 2026-06-15
 category: forever

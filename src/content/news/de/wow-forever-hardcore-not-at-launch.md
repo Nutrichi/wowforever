@@ -1,5 +1,5 @@
 ---
-title: "Hardcore ist zum Start von WoW Forever nicht verfügbar"
+title: "Hardcore ist zum Start nicht verfügbar"
 description: "Blizzard bestätigte im Panel What's Next, dass der Hardcore-Modus zum Start von WoW Forever nicht aktiv ist, und sagt nur, dass er bald folgt."
 date: 2026-09-13
 category: forever

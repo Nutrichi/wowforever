@@ -12,6 +12,7 @@ import { defaultLocale, type Locale } from './ui';
 const ui = {
   en: {
     title: 'Talents in WoW Forever',
+    metaTitle: 'WoW Forever talents: talent calculator and Legacy calculator',
     description: 'Talent calculator and Legacy calculator for World of Warcraft: Forever. Build all 51 points across three trees, spend your 16 Legacy Points, and share the link.',
     intro: 'Two calculators for World of Warcraft: Forever. Plan the 51 talent points of a class across its three trees, or spend the 16 Legacy Points that every character on your account shares. Your build lives in the link, so sharing it is a copy and paste.',
     talentCard: 'Talent calculator',
@@ -46,6 +47,7 @@ const ui = {
   },
   nl: {
     title: 'Talenten in WoW Forever',
+    metaTitle: 'WoW Forever talenten: talentcalculator en Legacy-calculator',
     description: 'Talentcalculator en Legacy-calculator voor World of Warcraft: Forever. Verdeel alle 51 punten over drie bomen, besteed je 16 Legacy Points en deel de link.',
     intro: 'Twee rekenmachines voor World of Warcraft: Forever. Verdeel de 51 talentpunten van een class over zijn drie bomen, of besteed de 16 Legacy Points die elk personage op je account deelt. Je build zit in de link, dus delen is knippen en plakken.',
     talentCard: 'Talentcalculator',
@@ -80,6 +82,7 @@ const ui = {
   },
   fr: {
     title: 'Talents dans WoW Forever',
+    metaTitle: 'Talents WoW Forever : calculateur de talents et calculateur Legacy',
     description: 'Calculateur de talents et calculateur Legacy pour World of Warcraft: Forever. Répartissez les 51 points sur trois arbres, dépensez vos 16 points Legacy et partagez le lien.',
     intro: 'Deux calculateurs pour World of Warcraft: Forever. Répartissez les 51 points de talent d’une classe sur ses trois arbres, ou dépensez les 16 points Legacy que partagent tous les personnages du compte. Votre build vit dans le lien, donc le partager se résume à un copier-coller.',
     talentCard: 'Calculateur de talents',
@@ -114,6 +117,7 @@ const ui = {
   },
   es: {
     title: 'Talentos en WoW Forever',
+    metaTitle: 'Talentos de WoW Forever: calculadora de talentos y calculadora Legacy',
     description: 'Calculadora de talentos y calculadora Legacy para World of Warcraft: Forever. Reparte los 51 puntos en tres árboles, gasta tus 16 puntos Legacy y comparte el enlace.',
     intro: 'Dos calculadoras para World of Warcraft: Forever. Reparte los 51 puntos de talento de una clase entre sus tres árboles, o gasta los 16 puntos Legacy que comparten todos los personajes de la cuenta. Tu build vive en el enlace, así que compartirlo es copiar y pegar.',
     talentCard: 'Calculadora de talentos',
@@ -148,6 +152,7 @@ const ui = {
   },
   it: {
     title: 'Talenti in WoW Forever',
+    metaTitle: 'Talenti di WoW Forever: calcolatore talenti e calcolatore Legacy',
     description: 'Calcolatore dei talenti e calcolatore Legacy per World of Warcraft: Forever. Distribuisci i 51 punti su tre alberi, spendi i tuoi 16 punti Legacy e condividi il link.',
     intro: 'Due calcolatori per World of Warcraft: Forever. Distribuisci i 51 punti talento di una classe sui suoi tre alberi, oppure spendi i 16 punti Legacy che ogni personaggio dell’account condivide. La tua build vive nel link, quindi condividerla è copia e incolla.',
     talentCard: 'Calcolatore dei talenti',
@@ -182,6 +187,7 @@ const ui = {
   },
   de: {
     title: 'Talente in WoW Forever',
+    metaTitle: 'WoW Forever Talente: Talentrechner und Legacy-Rechner',
     description: 'Talentrechner und Legacy-Rechner für World of Warcraft: Forever. Verteile alle 51 Punkte auf drei Bäume, gib deine 16 Legacy-Punkte aus und teile den Link.',
     intro: 'Zwei Rechner für World of Warcraft: Forever. Verteile die 51 Talentpunkte einer Klasse auf ihre drei Bäume, oder gib die 16 Legacy-Punkte aus, die jeder Charakter des Kontos teilt. Dein Build steckt im Link, Teilen ist also Kopieren und Einfügen.',
     talentCard: 'Talentrechner',

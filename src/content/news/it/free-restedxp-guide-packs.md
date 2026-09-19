@@ -1,5 +1,5 @@
 ---
-title: "I pacchetti di percorsi gratuiti di RestedXP per Classic, TBC e WotLK sono disponibili su CurseForge"
+title: "Rotte RestedXP gratuite per Classic, TBC e WotLK"
 description: "Tre pacchetti gratuiti per salire di livello con l’addon di guide RestedXP coprono Classic dall’1 al 60, The Burning Crusade dal 60 al 70 e Wrath of the Lich King dal 70 all’80."
 date: 2026-05-30
 category: classic

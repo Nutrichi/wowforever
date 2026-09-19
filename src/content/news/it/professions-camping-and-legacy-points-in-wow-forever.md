@@ -1,5 +1,5 @@
 ---
-title: "Blizzard mantiene il sistema dei mestieri di Classic in Forever e aggiunge il camping"
+title: "Camping e Legacy Points entrano nei mestieri di Classic"
 description: "Il crafting resta com'era, ma oltre 600 nuove ricette, gli accampamenti e i Legacy Points danno ai mestieri un ruolo più ampio verso il livello 60."
 date: 2026-09-19
 category: forever

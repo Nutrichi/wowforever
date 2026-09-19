@@ -1,5 +1,5 @@
 ---
-title: "World of Warcraft: Forever intègre des barbershops, avec un réglage pour les modèles HD"
+title: "Des barbershops arrivent, avec un réglage pour le HD"
 description: "La démo de la BlizzCon montrait un barbershop avec les options de la création de personnage, selon Wowhead. Blizzard n'a rien annoncé à ce sujet."
 date: 2026-09-17
 category: forever

@@ -35,6 +35,8 @@ const info = eras[era];
 const count = listsForEra(era).length;
 
 const title = t('hubTitle', { era: info.name });
+/* Idem (§11): de kop blijft kort, de <title> draagt "BiS", waar mensen op zoeken. */
+const metaTitle = era === 'forever' ? t('foreverMetaTitle') : title;
 const description = era === 'forever'
   ? t('foreverDescription')
   : t('hubDescription', { era: info.name, n: count });
@@ -53,7 +55,7 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
 const redirect = era === 'forever' ? { hrefs, storageKey: eraStorageKey } : null;
 ---
 
-<BaseLayout locale={locale} title={title} description={description}>
+<BaseLayout locale={locale} title={metaTitle} description={description}>
   {redirect && (
     <script is:inline slot="head" define:vars={redirect}>
       (function () {

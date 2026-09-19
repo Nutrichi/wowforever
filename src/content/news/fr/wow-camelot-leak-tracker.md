@@ -1,5 +1,5 @@
 ---
-title: "Un calendrier de Blizzard qui a fuité évoque un projet Camelot au troisième trimestre 2026"
+title: "Un calendrier fuité évoque un projet Camelot au T3 2026"
 description: "Un document de planification qui a fuité, et qui annonçait correctement d’anciennes sorties de World of Warcraft, cite un projet nommé Camelot. Beaucoup de joueurs s’attendent à une version Classic+ du jeu."
 date: 2026-06-15
 category: forever

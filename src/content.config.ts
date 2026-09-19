@@ -22,7 +22,7 @@ import { glob } from 'astro/loaders';
 import { locales } from './i18n/ui';
 import { categoryKeys } from './config/categories';
 import { guideEras, tradeskills } from './config/guides';
-import { reputationSides, standings } from './config/reputations';
+import { reputationOrigins, reputationSides, standings } from './config/reputations';
 
 /** Velden die elke post deelt, in welke taal dan ook. */
 const postFields = ({ image }: SchemaContext) => ({
@@ -122,6 +122,13 @@ const reputations = defineCollection({
     /** Waar de factie woont, met de namen uit het spel. */
     zone: z.string(),
     side: z.enum(reputationSides),
+    /**
+     * Waar de factie vandaan komt. `classic` is een factie van Classic Era die
+     * als vertrekpunt dient; `forever` is een factie die alleen in WoW Forever
+     * bestaat en uit de cliëntdata van de beta komt. Dat verschil bepaalt de
+     * zin bovenaan de gids (Nutri, 19 september 2026).
+     */
+    origin: z.enum(reputationOrigins).default('classic'),
     /** De standing waarop een nieuw personage begint. */
     start: z.enum(standings),
     /** De hoogste standing met iets te halen. */

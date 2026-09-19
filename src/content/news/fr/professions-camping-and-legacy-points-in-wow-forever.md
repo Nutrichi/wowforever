@@ -1,5 +1,5 @@
 ---
-title: "Blizzard garde le système de métiers de Classic dans Forever et y ajoute le camping"
+title: "Le système de métiers ne change pas, le camping arrive"
 description: "L'artisanat reste tel quel, mais plus de 600 nouvelles recettes, les campements et les Legacy Points donnent aux métiers un rôle plus large jusqu'au niveau 60."
 date: 2026-09-19
 category: forever

@@ -1,5 +1,5 @@
 ---
-title: "WoW Forever déplace l'expérience des donjons des kills vers les quêtes de donjon"
+title: "L'expérience des donjons vient des quêtes, pas des kills"
 description: "L'expérience gagnée sur les monstres d'un donjon baisse et celle des quêtes de donjon augmente, donc une première visite rapporte beaucoup et une répétition beaucoup moins."
 date: 2026-09-15
 category: forever

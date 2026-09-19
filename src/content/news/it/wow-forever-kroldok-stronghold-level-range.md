@@ -1,5 +1,5 @@
 ---
-title: "Blizzard corregge il livello di Krol'dok Stronghold e pubblica tutti i nuovi dungeon"
+title: "Krol'dok Stronghold è un dungeon dal livello 40 al 45"
 description: "Krol'dok Stronghold è per i livelli dal 40 al 45, non quello mostrato alla BlizzCon. Blizzard ha pubblicato anche le fasce di livello dei nove nuovi dungeon di WoW Forever."
 date: 2026-09-14
 category: forever

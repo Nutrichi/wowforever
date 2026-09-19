@@ -1,5 +1,5 @@
 ---
-title: "Blizzard ajoute quatre nouvelles zones et trois ports à World of Warcraft: Forever"
+title: "Quatre nouvelles zones et trois ports arrivent au lancement"
 description: "Mount Hyjal, Shen'Dralas, Riverglades et Zephras Isle arrivent au lancement, avec de nouvelles liaisons maritimes et plus de 1 000 nouvelles quêtes."
 date: 2026-09-19
 category: forever

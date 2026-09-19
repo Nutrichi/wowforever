@@ -1,5 +1,5 @@
 ---
-title: "Blizzard zet vier nieuwe zones en drie havens in World of Warcraft: Forever"
+title: "Vier nieuwe zones en drie havens komen bij de launch"
 description: "Mount Hyjal, Shen'Dralas, Riverglades en Zephras Isle komen er bij de launch, samen met nieuwe bootroutes en meer dan 1.000 nieuwe quests."
 date: 2026-09-19
 category: forever

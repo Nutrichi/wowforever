@@ -1,5 +1,5 @@
 ---
-title: "Blizzard ondersteunt controllers in WoW Forever en verplaatst de mountkosten naar de training"
+title: "Controllers worden ondersteund, en de eerste mount is gratis"
 description: "Een interview met Sportskeeda gaat over controllerondersteuning, de prijs van riding skills, de tijdlijn van het spel en items die zich ondergronds anders gedragen."
 date: 2026-09-19
 category: forever

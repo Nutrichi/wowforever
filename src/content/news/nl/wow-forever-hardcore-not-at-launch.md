@@ -1,5 +1,5 @@
 ---
-title: "Hardcore is er niet bij de lancering van WoW Forever"
+title: "Hardcore is er niet bij de lancering"
 description: "Blizzard bevestigde op het What's Next-panel dat Hardcore niet aanstaat bij de lancering van WoW Forever, en zegt alleen dat het snel daarna volgt."
 date: 2026-09-13
 category: forever

@@ -1,5 +1,5 @@
 ---
-title: "Free RestedXP route packs for Classic, TBC and WotLK are available on CurseForge"
+title: "Free RestedXP route packs cover Classic, TBC and WotLK"
 description: "Three free leveling packs for the RestedXP guide addon cover Classic from 1 to 60, The Burning Crusade from 60 to 70 and Wrath of the Lich King from 70 to 80."
 date: 2026-05-30
 category: classic

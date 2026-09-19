@@ -1,5 +1,5 @@
 ---
-title: "Blizzard explains the origin of the Skyborne in an interview with GameSpot"
+title: "Josh Greenfield explains where the Skyborne come from"
 description: "Senior game designer Josh Greenfield describes the flight from Eldre'Thalas, the split that decides the faction, and counts the quests that Forever adds."
 date: 2026-09-14
 category: forever

@@ -1,5 +1,5 @@
 ---
-title: "Blizzard behält das Berufssystem von Classic in Forever und stellt Camping dazu"
+title: "Berufe bleiben wie in Classic, mit Camping und Legacy Points"
 description: "Das Handwerk bleibt, wie es war, aber über 600 neue Rezepte, Lagerplätze und Legacy Points geben Berufen bis Level 60 eine größere Rolle."
 date: 2026-09-19
 category: forever

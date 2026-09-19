@@ -1,5 +1,5 @@
 ---
-title: "World of Warcraft: Forever incluye barbershops, con un interruptor para los modelos HD"
+title: "Llegan los barbershops, con interruptor para los modelos HD"
 description: "La demo de la BlizzCon mostraba un barbershop con las opciones de la creación de personaje, según Wowhead. Blizzard no ha anunciado nada al respecto."
 date: 2026-09-17
 category: forever

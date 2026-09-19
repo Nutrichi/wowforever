@@ -1,5 +1,5 @@
 ---
-title: "Blizzard elimina los attunements en las raids con las que abre WoW Forever"
+title: "Las raids del lanzamiento no piden attunement"
 description: "Las raids llegan en tamaños fijos de 10, 20 y 40 jugadores, la dificultad nunca escala, y qué pasa con los attunements tras el lanzamiento queda abierto."
 date: 2026-09-19
 category: forever

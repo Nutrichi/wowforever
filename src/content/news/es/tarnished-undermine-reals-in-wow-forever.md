@@ -1,5 +1,5 @@
 ---
-title: "Blizzard trae los Tarnished Undermine Reals a World of Warcraft: Forever"
+title: "Los Tarnished Undermine Reals vuelven"
 description: "La moneda de Season of Discovery vuelve en Forever, anunciada por el desarrollador Josh Greenfield durante el Q&A en directo. Cómo se consigue sigue abierto."
 date: 2026-09-17
 category: forever

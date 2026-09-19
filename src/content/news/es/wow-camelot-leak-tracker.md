@@ -1,5 +1,5 @@
 ---
-title: "Un calendario filtrado de Blizzard apunta a un proyecto Camelot en el tercer trimestre de 2026"
+title: "Un calendario filtrado apunta a un proyecto Camelot en el T3"
 description: "Un documento de planificación filtrado que acertó con lanzamientos anteriores de World of Warcraft menciona un proyecto llamado Camelot. Muchos jugadores esperan una versión Classic+ del juego."
 date: 2026-06-15
 category: forever
