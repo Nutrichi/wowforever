@@ -263,6 +263,28 @@ const jsonLd = {
     border: 0;
   }
 
+  /*
+   * Een Reddit-post is geen kader van 16 op 9: er staat een kop met de
+   * subreddit boven de video en een voet met de stemmen eronder. Samen is dat
+   * rond de 220 pixels, dus de hoogte is de breedte van een video plus dat.
+   * Die hoogte geldt pas zodra het kader er staat: zolang de knop er staat,
+   * houdt het blok de hoogte van die knop, net als bij een video.
+   * Reddit meet zichzelf na het laden en meldt de echte hoogte; dan neemt
+   * post-video.ts het over (§2.4: er wordt niets van Reddit meegehost).
+   */
+  .wf-prose :global(.wf-embed--reddit) { aspect-ratio: auto; }
+
+  .wf-prose :global(.wf-embed--reddit:has(iframe)) {
+    position: relative;
+    height: 0;
+    padding-bottom: calc(56.25% + 220px);
+  }
+
+  .wf-prose :global(.wf-embed--reddit:has(iframe) > *) {
+    position: absolute;
+    inset: 0;
+  }
+
   .wf-prose :global(.wf-embed__play) {
     display: flex;
     align-items: center;
