@@ -75,7 +75,7 @@ const { sizes, widths } = isPost ? heroImage : featuredImage;
   <slot />
 </div>
 
-{big && (
+{isPost && (
   <dialog class="wf-lightbox" data-wf-lightbox>
     <button type="button" class="wf-lightbox__close" data-wf-lightbox-close aria-label="Sluiten">
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -83,7 +83,7 @@ const { sizes, widths } = isPost ? heroImage : featuredImage;
         <line x1="6" y1="6" x2="18" y2="18" /><line x1="18" y1="6" x2="6" y2="18" />
       </svg>
     </button>
-    <img class="wf-lightbox__img" data-wf-lightbox-img alt={alt} />
+    <img class="wf-lightbox__img" data-wf-lightbox-img alt="" />
   </dialog>
 )}
 
@@ -196,23 +196,58 @@ const { sizes, widths } = isPost ? heroImage : featuredImage;
 
 <script>
   /*
-   * Het kopbeeld groot bekijken. Met een <dialog>, zodat de browser zelf de
+   * Een beeld groot bekijken. Met een <dialog>, zodat de browser zelf de
    * focus vasthoudt, Escape afhandelt en de rest van de pagina afschermt.
    * Geen bibliotheek nodig.
    *
-   * Het grote beeld wordt pas geladen bij de eerste klik: tot dan staat er
-   * geen src en kost het niets.
+   * **Twee soorten beeld gaan hier binnen** (Nutri, 21 september 2026: "De
+   * images in de post pagina's zelf zouden moeten klikbaar zijn en zouden dan
+   * in het groot moeten zichtbaar zijn in hun full quality"):
+   *
+   * 1. **Het kopbeeld.** Dat staat in de pagina op hoogstens 1600 px, dus er
+   *    is een aparte, grotere versie voor gemaakt; die staat in `data-wf-zoom`
+   *    en wordt pas bij de eerste klik geladen.
+   * 2. **Elk beeld in de lopende tekst.** Die schrijft Astro uit de Markdown
+   *    op hun eigen volledige afmeting; wat in de pagina staat, is dus al het
+   *    hele beeld, en de `src` ervan kan rechtstreeks mee naar het venster.
+   *    Er valt niets extra te laden en niets aan kwaliteit te verliezen.
    */
   const dialog = document.querySelector<HTMLDialogElement>('[data-wf-lightbox]');
   const img = document.querySelector<HTMLImageElement>('[data-wf-lightbox-img]');
-  const opener = document.querySelector<HTMLElement>('[data-wf-zoom]');
   const close = document.querySelector<HTMLElement>('[data-wf-lightbox-close]');
 
-  if (dialog && img && opener) {
-    opener.addEventListener('click', () => {
-      if (!img.src) img.src = opener.dataset.wfZoom ?? '';
+  if (dialog && img) {
+    const show = (src: string, alt: string) => {
+      if (!src) return;
+      if (img.src !== src) img.src = src;
+      img.alt = alt;
       dialog.showModal();
+    };
+
+    const opener = document.querySelector<HTMLElement>('[data-wf-zoom]');
+    opener?.addEventListener('click', () => {
+      show(opener.dataset.wfZoom ?? '', opener.getAttribute('aria-label') ?? '');
     });
+
+    /*
+     * De beelden in de tekst komen uit Markdown, dus er valt in de bron geen
+     * knop omheen te zetten. Daarom krijgen ze hier hun rol en hun plek in de
+     * tabvolgorde, zodat ze ook met het toetsenbord te openen zijn. Een beeld
+     * zonder alt is versiering en blijft erbuiten.
+     */
+    const inProse = document.querySelectorAll<HTMLImageElement>('.wf-prose img[alt]:not([alt=""])');
+
+    for (const shot of inProse) {
+      shot.classList.add('is-zoomable');
+      shot.setAttribute('role', 'button');
+      shot.tabIndex = 0;
+      shot.addEventListener('click', () => show(shot.currentSrc || shot.src, shot.alt));
+      shot.addEventListener('keydown', (event) => {
+        if (event.key !== 'Enter' && event.key !== ' ') return;
+        event.preventDefault();
+        show(shot.currentSrc || shot.src, shot.alt);
+      });
+    }
 
     // Klikken op het beeld of ernaast sluit. De knop rechtsboven ook.
     dialog.addEventListener('click', (event) => {

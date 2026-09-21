@@ -117,12 +117,32 @@
   /* --- Overgangen --- */
   --wf-transition: border-color .16s ease, box-shadow .16s ease;
 
+  /* Kwaliteitskleuren van het spel, alleen voor de naam van een item of een
+     gem in een BiS-lijst. Blauw en paars staan een tikje lichter dan in het
+     spel: zo haalt elke kleur 4,5:1 op deze achtergrond. */
+  --wf-q1: #ffffff;
+  --wf-q2: #1eff00;
+  --wf-q3: #0080fc;
+  --wf-q4: #b256f1;
+  --wf-q5: #ff8000;
+  --wf-q6: #e6cc80;
+  --wf-q7: #00ccff;
+
   /* Breedte van de contentkolom */
   --wf-max: 1180px;
 }
 
 /* --- Dag: expliciete keuze (handoff §4.2) --- */
 :root[data-theme="day"] {
+  /* Dezelfde kleuren, donkerder gezet voor de lichte achtergrond. */
+  --wf-q1: #737373;
+  --wf-q2: #108500;
+  --wf-q3: #0070dd;
+  --wf-q4: #a335ee;
+  --wf-q5: #b25a00;
+  --wf-q6: #8d701c;
+  --wf-q7: #007e9e;
+
   --wf-bg: #f5ece0;
   --wf-raised: #fffaf1;
   --wf-raised-soft: #fffaf1;

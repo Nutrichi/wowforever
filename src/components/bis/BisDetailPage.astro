@@ -11,20 +11,27 @@
  * een verwijzing naar de gidsen waarop een lijst steunt, staat er bewust niet
  * (Nutri, 14 september 2026).
  *
- * Een item, enchant of gem linkt naar de zoekpagina van Wowhead voor die era,
- * in een nieuw tabblad. Items, bazen, zones, enchants en gems blijven Engels; de
- * vaste woorden eromheen vertaalt bis-sources.ts, de notities bis-notes.ts.
+ * Een item, enchant of gem draagt zijn icoon en de kleur van zijn kwaliteit, en
+ * linkt in een nieuw tabblad naar Wowhead: naar het item of de spreuk zelf zodra
+ * het ID bevestigd is (src/data/bis-item-ids.json, zie src/lib/bis-items.ts), en
+ * anders naar de zoekpagina van die era, zonder icoon. Op een scherm met een
+ * echte muis legt het script van Wowhead daar zijn tooltip op; een aanraakscherm
+ * laadt dat script niet en houdt het bij het icoon, de kleur en de link.
+ *
+ * Items, bazen, zones, enchants en gems blijven Engels; de vaste woorden
+ * eromheen vertaalt bis-sources.ts, de notities bis-notes.ts.
  */
 import type { Locale } from '../../i18n/ui';
 import { localizePath, useTranslations } from '../../i18n/utils';
 import { eras } from '../../config/eras';
-import { bisTabEras, classes, classLabel, phaseRaids, roleKey, slotParts, specLabel, wowheadPath } from '../../config/bis';
+import { bisTabEras, classes, classLabel, phaseRaids, roleKey, slotParts, specLabel } from '../../config/bis';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import EraTabs from '../EraTabs.astro';
 import { bisEraCounts, bisPath, eraHrefs, samSpecPhases, siblingSpecs, type BisList } from '../../lib/bis';
 import { bisT, gemColorLabel, phaseLabel, roleLabel, slotLabel } from '../../i18n/bis';
 import { translateSource } from '../../i18n/bis-sources';
 import { translateName } from '../../i18n/bis-names';
+import { qualityClass, splitName, wowheadEntry, wowheadIcon, wowheadLink, wowheadSearch } from '../../lib/bis-items';
 import { translateNotes } from '../../i18n/bis-notes';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import { isoDate, longDate } from '../../lib/date';
@@ -64,9 +71,24 @@ const searchName = (text: string) => text
   .trim();
 
 /** De zoeklink van Wowhead voor de uitbreiding van deze lijst. */
-const wowhead = (item: string) => {
-  const query = searchName(item);
-  return `https://www.wowhead.com/${wowheadPath[list.era]}/search?q=${encodeURIComponent(query)}`;
+const wowhead = (item: string) => wowheadSearch(list.era, locale, searchName(item));
+
+/*
+ * Een naam klaar om te tonen: de link, het icoon en de kleur van de kwaliteit.
+ *
+ * Staat de naam in de kaart, dan gaat de link naar het item of de spreuk zelf,
+ * met het icoon van onze eigen site ernaast en de kleur die het spel eraan
+ * geeft. Op zo'n link legt Wowhead straks ook zijn tooltip. Staat de naam er
+ * niet in, dan blijft het bij de zoekpagina zonder icoon, precies zoals het
+ * hiervoor voor alles was.
+ */
+const linkView = (kind: 'gear' | 'enchant' | 'gem', raw: string) => {
+  const entry = wowheadEntry(list.era, kind, raw);
+  return {
+    href: entry ? wowheadLink(list.era, locale, entry) : wowhead(raw),
+    icon: entry ? wowheadIcon(entry) : undefined,
+    quality: entry ? qualityClass(entry) : undefined,
+  };
 };
 
 /*
@@ -90,6 +112,29 @@ const itemView = (item: { name: string; source?: string }) => {
 };
 
 const plainName = (name: string) => name.replace(/\s+\u2014\s+/g, ' · ');
+
+/*
+ * Een enchant of een gem, klaar om te tonen. Wat achter het gedachtestreepje
+ * staat, is de bron ("from the quest ... in Dire Maul") of een alternatief, en
+ * dat hoort niet in de linktekst: het schuift naar de bronkolom, net als bij
+ * gear. Het source-veld zelf is bij een enchant vaak een verwijzing naar de
+ * gids waarop de lijst steunt, en die blijft van de pagina (PROJECT_SPEC.md
+ * §5).
+ */
+const extraView = (kind: 'enchant' | 'gem', raw: string, source?: string) => {
+  const { main, extra } = splitName(kind, raw);
+  // Wat tussen haakjes staat, is uitleg bij de enchant of de gem ("+180 hit"),
+  // geen deel van de naam. Die blijft staan, maar gedempt en buiten de link,
+  // zodat alleen de naam zelf de tooltip draagt. De data sluit dat haakje niet
+  // altijd, dus we knippen vanaf het eerste haakje.
+  const open = main.indexOf('(');
+  return {
+    main: open > 0 ? main.slice(0, open).trim() : main,
+    note: open > 0 ? main.slice(open).trim() : '',
+    source: [...new Set([extra, source].filter((text): text is string => !!text && !sourceCredit.test(text)))]
+      .map((text) => translateSource(text, locale)).join(' · '),
+  };
+};
 
 /** Enchants zonder naam ("N/A") laten we weg. */
 const enchants = list.enchants.filter((enchant) => !/^(n\/a|none|-)?$/i.test(enchant.name.trim()));
@@ -178,45 +223,55 @@ const jsonLd = {
       <h2 class="wf-bisd__label" id="wf-bisd-gear">{t('gear')}</h2>
       <div class="wf-bisd__table">
         <table>
-          <thead class="wf-sr">
-            <tr><th scope="col">{t('slot')}</th><th scope="col">{t('item')}</th></tr>
+          <thead class="wf-bisd__head-row">
+            <tr>
+              <th scope="col">{t('slot')}</th>
+              <th scope="col">{t('item')}</th>
+              <th scope="col">{t('source')}</th>
+            </tr>
           </thead>
           <tbody>
-            {list.slots.map((slot) => (
-              <tr>
-                <th scope="row">{slotLabel(slotParts(slot.slot), locale)}</th>
-                <td>
-                  <ol class:list={['wf-bisd__items', { 'is-ranked': slot.items.length > 1 }]}>
-                    {slot.items.map((item) => {
-                      const view = itemView(item);
-                      return (
-                        <li>
-                          {view.none ? (
-                            <span class="wf-bisd__name is-none">{t('noItem')}</span>
-                          ) : (
-                            <span class="wf-bisd__name">
-                              {view.names.map((part, index) => (
-                                <>
-                                  {index > 0 && <span class="wf-bisd__or"> / </span>}
-                                  <a
-                                    class="wf-bisd__item"
-                                    href={wowhead(part)}
-                                    target="_blank"
-                                    rel="noopener nofollow"
-                                    title={t('wowhead', { item: part })}
-                                  >{translateName(part, locale)}</a>
-                                </>
-                              ))}
-                            </span>
-                          )}
-                          {view.source && <span class="wf-bisd__source">{view.source}</span>}
-                        </li>
-                      );
-                    })}
-                  </ol>
-                </td>
-              </tr>
-            ))}
+            {list.slots.map((slot) => slot.items.map((item, rank) => {
+              const view = itemView(item);
+              const label = slotLabel(slotParts(slot.slot), locale);
+              return (
+                <tr class:list={[{ 'is-more': rank > 0 }]}>
+                  <th scope="row">
+                    {rank === 0 ? label : <span class="wf-sr">{label}</span>}
+                  </th>
+                  <td>
+                    <span class="wf-bisd__name">
+                      {slot.items.length > 1 && <span class="wf-bisd__rank">{rank + 1}</span>}
+                      {view.none ? (
+                        <span class="is-none">{t('noItem')}</span>
+                      ) : (
+                        view.names.map((part, index) => {
+                          const link = linkView('gear', part);
+                          return (
+                            <>
+                              {index > 0 && <span class="wf-bisd__or"> / </span>}
+                              <a
+                                class:list={['wf-bisd__item', link.quality]}
+                                href={link.href}
+                                target="_blank"
+                                rel="noopener nofollow"
+                                title={t('wowhead', { item: part })}
+                              >
+                                {link.icon && (
+                                  <img class="wf-bisd__icon" src={link.icon} alt="" width="36" height="36" loading="lazy" decoding="async" />
+                                )}
+                                <span>{translateName(part, locale)}</span>
+                              </a>
+                            </>
+                          );
+                        })
+                      )}
+                    </span>
+                  </td>
+                  <td class="wf-bisd__source">{view.source}</td>
+                </tr>
+              );
+            }))}
           </tbody>
         </table>
       </div>
@@ -227,27 +282,41 @@ const jsonLd = {
         <h2 class="wf-bisd__label" id="wf-bisd-enchants">{t('enchants')}</h2>
         <div class="wf-bisd__table">
           <table>
-            <thead class="wf-sr">
-              <tr><th scope="col">{t('slot')}</th><th scope="col">{t('enchant')}</th></tr>
+            <thead class="wf-bisd__head-row">
+              <tr>
+                <th scope="col">{t('slot')}</th>
+                <th scope="col">{t('enchant')}</th>
+                <th scope="col">{t('source')}</th>
+              </tr>
             </thead>
             <tbody>
-              {enchants.map((enchant) => (
-                <tr>
-                  <th scope="row">{slotLabel(slotParts(enchant.slot), locale)}</th>
-                  <td>
-                    <span class="wf-bisd__name">
-                      <a
-                        class="wf-bisd__item"
-                        href={wowhead(enchant.name)}
-                        target="_blank"
-                        rel="noopener nofollow"
-                        title={t('wowhead', { item: searchName(enchant.name) })}
-                      >{translateSource(translateName(enchant.name, locale), locale)}</a>
-                    </span>
-                    {enchant.source && !sourceCredit.test(enchant.source) && <span class="wf-bisd__source">{translateSource(enchant.source, locale)}</span>}
-                  </td>
-                </tr>
-              ))}
+              {enchants.map((enchant) => {
+                const link = linkView('enchant', enchant.name);
+                const view = extraView('enchant', enchant.name, enchant.source);
+                return (
+                  <tr>
+                    <th scope="row">{slotLabel(slotParts(enchant.slot), locale)}</th>
+                    <td>
+                      <span class="wf-bisd__name">
+                        <a
+                          class:list={['wf-bisd__item', link.quality]}
+                          href={link.href}
+                          target="_blank"
+                          rel="noopener nofollow"
+                          title={t('wowhead', { item: searchName(enchant.name) })}
+                        >
+                          {link.icon && (
+                            <img class="wf-bisd__icon" src={link.icon} alt="" width="36" height="36" loading="lazy" decoding="async" />
+                          )}
+                          <span>{translateSource(translateName(view.main, locale), locale)}</span>
+                        </a>
+                        {view.note && <span class="wf-bisd__note is-inline">{translateSource(view.note, locale)}</span>}
+                      </span>
+                    </td>
+                    <td class="wf-bisd__source">{view.source}</td>
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>
@@ -263,22 +332,34 @@ const jsonLd = {
               <tr><th scope="col">{t('socket')}</th><th scope="col">{t('gem')}</th></tr>
             </thead>
             <tbody>
-              {list.gems.map((gem) => (
-                <tr>
-                  <th scope="row">{gemColorLabel(gem.color, locale)}</th>
-                  <td>
-                    <span class="wf-bisd__name">
-                      <a
-                        class="wf-bisd__item"
-                        href={wowhead(gem.name)}
-                        target="_blank"
-                        rel="noopener nofollow"
-                        title={t('wowhead', { item: searchName(gem.name) })}
-                      >{translateSource(translateName(gem.name, locale), locale)}</a>
-                    </span>
-                  </td>
-                </tr>
-              ))}
+              {list.gems.map((gem) => {
+                const link = linkView('gem', gem.name);
+                const view = extraView('gem', gem.name);
+                return (
+                  <tr>
+                    <th scope="row">{gemColorLabel(gem.color, locale)}</th>
+                    <td>
+                      <span class="wf-bisd__name">
+                        <a
+                          class:list={['wf-bisd__item', link.quality]}
+                          href={link.href}
+                          target="_blank"
+                          rel="noopener nofollow"
+                          title={t('wowhead', { item: searchName(gem.name) })}
+                        >
+                          {link.icon && (
+                            <img class="wf-bisd__icon" src={link.icon} alt="" width="36" height="36" loading="lazy" decoding="async" />
+                          )}
+                          <span>{translateSource(translateName(view.main, locale), locale)}</span>
+                        </a>
+                        {view.note && <span class="wf-bisd__note is-inline">{translateSource(view.note, locale)}</span>}
+                      </span>
+                      {/* Bij een gem is de toevoeging meestal een alternatief en geen bron: die blijft hier staan, maar buiten de link. */}
+                      {view.source && <span class="wf-bisd__note">{view.source}</span>}
+                    </td>
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>
@@ -301,6 +382,24 @@ const jsonLd = {
       </nav>
     )}
   </article>
+
+  <script is:inline>
+    /*
+     * De tooltip van Wowhead, en alleen op een scherm dat echt hover kent.
+     * Op een aanraakscherm laadt dit script dus nooit: daar blijft het bij het
+     * icoon, de kleur en een tik die naar Wowhead gaat. Het kleuren, het
+     * hernoemen en het iconiseren van links staat uit, want dat doet de pagina
+     * zelf al, met onze eigen beelden en onze eigen namen.
+     */
+    (() => {
+      if (!window.matchMedia('(hover: hover) and (pointer: fine)').matches) return;
+      window.whTooltips = { colorLinks: false, iconizeLinks: false, renameLinks: false };
+      const script = document.createElement('script');
+      script.src = 'https://wow.zamimg.com/widgets/power.js';
+      script.async = true;
+      document.head.append(script);
+    })();
+  </script>
 </BaseLayout>
 
 <style>
@@ -415,6 +514,10 @@ const jsonLd = {
 
   .wf-bisd__table tr + tr { border-top: 1px solid var(--wf-border); }
 
+  /* Een slot met meer keuzes blijft één blok: geen streep tussen de rangen.
+     Even zwaar gebouwd als de regel hierboven, anders wint die. */
+  .wf-bisd__table tr + tr.is-more { border-top: 0; }
+
   .wf-bisd__table th {
     width: 190px;
     padding: 11px 16px;
@@ -430,33 +533,16 @@ const jsonLd = {
     vertical-align: top;
   }
 
-  .wf-bisd__items {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  /* Meer dan één item: de volgorde is de rangorde, en dat mag je zien. */
-  .wf-bisd__items.is-ranked { counter-reset: wf-rank; }
-
-  .wf-bisd__items.is-ranked > li {
-    position: relative;
-    padding-left: 24px;
-    counter-increment: wf-rank;
-  }
-
-  .wf-bisd__items.is-ranked > li::before {
-    content: counter(wf-rank);
-    position: absolute;
-    left: 0;
-    top: 1px;
+  .wf-bisd__head-row th {
+    padding-block: 9px;
     font-size: 12px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
     color: var(--wf-label);
-    font-variant-numeric: tabular-nums;
+    background: var(--wf-raised-soft, transparent);
   }
+
+  .wf-bisd__head-row th + th { padding-left: 0; }
 
   .wf-bisd__name {
     display: block;
@@ -464,15 +550,59 @@ const jsonLd = {
     color: var(--wf-ink);
   }
 
-  .wf-bisd__name.is-none { font-style: italic; color: var(--wf-muted); }
+  .wf-bisd__name .is-none { font-style: italic; color: var(--wf-muted); }
 
-  .wf-bisd__item { color: inherit; }
+  /* De rang binnen één slot: 1 is de beste keuze. */
+  .wf-bisd__rank {
+    display: inline-block;
+    min-width: 15px;
+    margin-right: 3px;
+    font-size: 12px;
+    color: var(--wf-label);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .wf-bisd__item {
+    display: inline;
+    color: inherit;
+  }
+
+  /* Het icoon staat op de regel van de naam; global.css zet elk beeld op
+     display: block, en dat zou het icoon een eigen regel geven. */
+  .wf-bisd__icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 7px;
+    vertical-align: -4px;
+    border: 1px solid var(--wf-border);
+    border-radius: 3px;
+  }
+
+  .wf-bisd__item.wf-q1 { color: var(--wf-q1); }
+  .wf-bisd__item.wf-q2 { color: var(--wf-q2); }
+  .wf-bisd__item.wf-q3 { color: var(--wf-q3); }
+  .wf-bisd__item.wf-q4 { color: var(--wf-q4); }
+  .wf-bisd__item.wf-q5 { color: var(--wf-q5); }
+  .wf-bisd__item.wf-q6 { color: var(--wf-q6); }
+  .wf-bisd__item.wf-q7 { color: var(--wf-q7); }
 
   .wf-bisd__or { color: var(--wf-label); }
 
-  .wf-bisd__item:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .wf-bisd__item:hover span { text-decoration: underline; text-underline-offset: 3px; }
 
-  .wf-bisd__source {
+  .wf-bisd__table td.wf-bisd__source {
+    width: 32%;
+    padding-right: 16px;
+    font-size: 13px;
+    line-height: 1.45;
+    color: var(--wf-muted);
+  }
+
+  /* Een toevoeging die bij de naam hoort, maar niet in de link thuis is. */
+  .wf-bisd__note.is-inline { display: inline; margin-left: 5px; }
+
+  .wf-bisd__note {
     display: block;
     margin-top: 2px;
     font-size: 13px;
@@ -519,5 +649,10 @@ const jsonLd = {
     .wf-bisd__table td { display: block; width: auto; }
     .wf-bisd__table th { padding: 10px 14px 0; font-size: 12px; letter-spacing: .06em; text-transform: uppercase; }
     .wf-bisd__table td { padding: 4px 14px 11px; }
+    /* Onder elkaar heeft een kopregel geen zin meer: de bron staat al onder
+       de naam, zoals hiervoor. */
+    .wf-bisd__head-row { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+    .wf-bisd__table td.wf-bisd__source { width: auto; padding: 0 14px 11px; }
+    .wf-bisd__table tr + tr.is-more { border-top: 0; }
   }
 </style>

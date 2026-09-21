@@ -242,6 +242,22 @@ const jsonLd = {
   }
 
   /*
+   * Een beeld in de tekst gaat groot open (Nutri, 21 september 2026). De klas
+   * komt van het script in PostImage.astro, dat het venster bedient; de stijl
+   * staat hier, want de lopende tekst hoort bij deze lay-out. Een beeld zonder
+   * alt is versiering en krijgt de klas niet.
+   */
+  .wf-prose :global(img.is-zoomable) {
+    cursor: zoom-in;
+    transition: var(--wf-transition);
+  }
+
+  .wf-prose :global(img.is-zoomable:hover),
+  .wf-prose :global(img.is-zoomable:focus-visible) {
+    border-color: var(--wf-arcane);
+  }
+
+  /*
    * Een video in de tekst (src/scripts/post-video.ts). De knop staat er tot
    * de lezer klikt; daarna vervangt het script hem door de speler. Geen
    * voorbeeldbeeld van een ander medium, dus draagt het blok de eigen
@@ -267,20 +283,20 @@ const jsonLd = {
    * Een Reddit-post is geen kader van 16 op 9: er staat een kop met de
    * subreddit boven de video en een voet met de stemmen eronder. Samen is dat
    * rond de 220 pixels, dus de hoogte is de breedte van een video plus dat.
-   * Die hoogte geldt pas zodra het kader er staat: zolang de knop er staat,
-   * houdt het blok de hoogte van die knop, net als bij een video.
+   * Die hoogte staat er meteen, ook zolang de plaatshouder er nog staat: sinds
+   * het kader vanzelf laadt (21 september 2026) zou een blok dat pas bij het
+   * laden groeit, de tekst onder de ogen van de lezer wegduwen.
    * Reddit meet zichzelf na het laden en meldt de echte hoogte; dan neemt
    * post-video.ts het over (§2.4: er wordt niets van Reddit meegehost).
    */
-  .wf-prose :global(.wf-embed--reddit) { aspect-ratio: auto; }
-
-  .wf-prose :global(.wf-embed--reddit:has(iframe)) {
+  .wf-prose :global(.wf-embed--reddit) {
+    aspect-ratio: auto;
     position: relative;
     height: 0;
     padding-bottom: calc(56.25% + 220px);
   }
 
-  .wf-prose :global(.wf-embed--reddit:has(iframe) > *) {
+  .wf-prose :global(.wf-embed--reddit > *) {
     position: absolute;
     inset: 0;
   }
