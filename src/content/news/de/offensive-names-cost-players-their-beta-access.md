@@ -19,7 +19,7 @@ Blizzard nimmt Spielern den Beta-Zugang, die einen anstößigen Charakternamen w
 
 In Forever trägt ein Charakter einen Full Name: einen Hauptnamen und einen zweiten Namen, beide bei der Erstellung eingetippt. Die Kombination ist pro Region einmalig, denn Forever hat keine Realms.
 
-![Das Feld Full Name bei der Charaktererstellung, mit einem Kasten für den Hauptnamen und einem für den zweiten Namen](../../../assets/posts/2026-09-21-wow-forever-full-name-field.jpg)
+![Das Feld Full Name bei der Charaktererstellung, mit einem Kasten für den Hauptnamen und einem für den zweiten Namen](../../../assets/posts/2026-09-21-wow-forever-full-name-field.png)
 
 "Die Wahl aus Vor- und Nachname eröffnet viel Raum für... Kreativität, aber unsere Richtlinien gelten weiter", schreibt Vrakthris. Die Namen selbst müssen sich an die Namensrichtlinien halten, und das Entwicklungsteam von Forever arbeitet die Namen ab, die gemeldet werden.
 
@@ -39,4 +39,4 @@ Er fügt hinzu, dass keines der Beispiele, die er bisher gesehen hat, angemessen
 
 ## Warum es jetzt aufkommt
 
-Die Beta öffnete am 17. September und ist einer der größten Tests, die Blizzard je gefahren hat. Das Namenssystem ist neu, der Filter war nie für einen zweiten Namen gebaut, und der Faden im Forum wuchs in zwei Tagen auf 62 Beiträge und mehr als 3.000 Aufrufe.
+Die Beta öffnete am 17. September und ist einer der größten Tests, die Blizzard je gefahren hat. Das Namenssystem ist neu, und der Faden im Forum wuchs in zwei Tagen auf 62 Beiträge und mehr als 3.000 Aufrufe. Blizzard [hat die Regeln später am 21. September selbst dargelegt](/de/news/every-character-gets-a-first-and-a-second-name/) und schreibt dort, dass das System beide Teile eines Namens zusammen bewertet.

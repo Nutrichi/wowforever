@@ -18,7 +18,7 @@ Blizzard is taking beta access away from players who pick an offensive character
 
 In Forever a character carries a Full Name: a main name and a secondary name, both typed at character creation. The combination is unique per region, because Forever has no realms.
 
-![The Full Name field at character creation, with a box for the main name and a box for the secondary name](../../../assets/posts/2026-09-21-wow-forever-full-name-field.jpg)
+![The Full Name field at character creation, with a box for the main name and a box for the secondary name](../../../assets/posts/2026-09-21-wow-forever-full-name-field.png)
 
 "Having the option for a first/last name provides opportunities for a lot of... creativity, but our policies are still in place", writes Vrakthris. The names themselves have to keep to the naming policy, and the development team of Forever is working through the ones that get reported.
 
@@ -38,4 +38,4 @@ He adds that none of the examples he has seen so far look appropriate, but that 
 
 ## Why it lands now
 
-The beta opened on 17 September and is one of the largest tests Blizzard has ever run. The naming system is new, the filter was never built for a second name, and the thread on the forum ran to 62 posts and more than 3,000 views in two days.
+The beta opened on 17 September and is one of the largest tests Blizzard has ever run. The naming system is new, and the thread on the forum ran to 62 posts and more than 3,000 views in two days. Blizzard [set out the rules itself](/news/every-character-gets-a-first-and-a-second-name/) later on 21 September, and writes there that the system weighs both parts of a name together.

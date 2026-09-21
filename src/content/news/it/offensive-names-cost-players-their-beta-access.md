@@ -19,7 +19,7 @@ Blizzard toglie l'accesso alla beta ai giocatori che scelgono un nome di persona
 
 In Forever un personaggio porta un Full Name: un nome principale e uno secondario, entrambi scritti alla creazione. La combinazione è unica per regione, perché Forever non ha realm.
 
-![Il campo Full Name alla creazione del personaggio, con una casella per il nome principale e una per quello secondario](../../../assets/posts/2026-09-21-wow-forever-full-name-field.jpg)
+![Il campo Full Name alla creazione del personaggio, con una casella per il nome principale e una per quello secondario](../../../assets/posts/2026-09-21-wow-forever-full-name-field.png)
 
 "La scelta di un nome e un cognome apre molto spazio alla... creatività, ma le nostre regole restano in vigore", scrive Vrakthris. I nomi stessi devono rispettare le regole sui nomi, e il team di sviluppo di Forever smaltisce quelli che vengono segnalati.
 
@@ -39,4 +39,4 @@ Aggiunge che nessuno degli esempi visti finora gli sembra appropriato, ma che la
 
 ## Perché esce adesso
 
-La beta ha aperto il 17 settembre ed è una delle prove più grandi mai fatte da Blizzard. Il sistema dei nomi è nuovo, il filtro non è mai stato costruito per un secondo nome, e la discussione sul forum è salita in due giorni a 62 messaggi e più di 3.000 visite.
+La beta ha aperto il 17 settembre ed è una delle prove più grandi mai fatte da Blizzard. Il sistema dei nomi è nuovo, e la discussione sul forum è salita in due giorni a 62 messaggi e più di 3.000 visite. Blizzard [ha esposto le regole lui stesso](/it/news/every-character-gets-a-first-and-a-second-name/) più tardi il 21 settembre, e lì scrive che il sistema valuta insieme le due parti di un nome.

@@ -19,7 +19,7 @@ Blizzard haalt de beta-toegang weg bij spelers die een aanstootgevende personage
 
 In Forever draagt een personage een Full Name: een hoofdnaam en een tweede naam, allebei ingetypt bij het aanmaken. De combinatie is uniek per regio, want Forever heeft geen realms.
 
-![Het veld Full Name bij het aanmaken van een personage, met een vak voor de hoofdnaam en een vak voor de tweede naam](../../../assets/posts/2026-09-21-wow-forever-full-name-field.jpg)
+![Het veld Full Name bij het aanmaken van een personage, met een vak voor de hoofdnaam en een vak voor de tweede naam](../../../assets/posts/2026-09-21-wow-forever-full-name-field.png)
 
 "De keuze voor een voor- en achternaam geeft ruimte voor heel wat... creativiteit, maar ons beleid blijft gelden", schrijft Vrakthris. De namen zelf moeten zich aan het naambeleid houden, en het ontwikkelteam van Forever werkt de namen af die gemeld worden.
 
@@ -39,4 +39,4 @@ Hij voegt eraan toe dat geen van de voorbeelden die hij tot nu toe zag, gepast l
 
 ## Waarom het nu speelt
 
-De beta ging op 17 september open en is een van de grootste tests die Blizzard ooit draaide. Het naamsysteem is nieuw, de filter is nooit voor een tweede naam gebouwd, en het draadje op het forum liep in twee dagen op tot 62 berichten en meer dan 3.000 weergaven.
+De beta ging op 17 september open en is een van de grootste tests die Blizzard ooit draaide. Het naamsysteem is nieuw, en het draadje op het forum liep in twee dagen op tot 62 berichten en meer dan 3.000 weergaven. Blizzard [zette de regels later op 21 september zelf op een rij](/nl/news/every-character-gets-a-first-and-a-second-name/), en schrijft daar dat het systeem beide delen van een naam samen weegt.
