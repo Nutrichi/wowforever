@@ -23,6 +23,7 @@ const whole: Array<[RegExp, Partial<Record<Locale, string>>]> = [
   [/^Icy Veins TBC Classic enchant guide \(full ranked alternatives on the guide page\)$/i, { en: 'Icy Veins enchant guide for TBC Classic, with all ranked options on the guide', nl: 'Enchantgids van Icy Veins voor TBC Classic, met alle gerangschikte opties in de gids', fr: 'Guide d’enchantements TBC Classic d’Icy Veins, avec toutes les options classées dans le guide', es: 'Guía de encantamientos de TBC Classic de Icy Veins, con todas las opciones clasificadas en la guía', it: 'Guida agli incantamenti per TBC Classic di Icy Veins, con tutte le opzioni in classifica nella guida', de: 'Verzauberungsguide von Icy Veins für TBC Classic, mit allen gereihten Optionen im Guide' }],
   [/^Created through a quest chain, starting from getting the Eye of Sulfuras from Ragnaros in Molten Core$/i, { en: 'Quest chain that starts with the Eye of Sulfuras from Ragnaros in Molten Core', nl: 'Questreeks die begint met de Eye of Sulfuras van Ragnaros in Molten Core', fr: 'Suite de quêtes qui commence avec l’Eye of Sulfuras de Ragnaros dans Molten Core', es: 'Cadena de misiones que empieza con el Eye of Sulfuras de Ragnaros en Molten Core', it: 'Catena di missioni che inizia con l’Eye of Sulfuras di Ragnaros in Molten Core', de: 'Questreihe, die mit dem Eye of Sulfuras von Ragnaros in Molten Core beginnt' }],
   [/^older-raid item, not obtainable in Celestial Dungeons$/i, { en: 'item from an older raid, not available in the Celestial Dungeons', nl: 'item uit een oudere raid, niet te krijgen in de Celestial Dungeons', fr: 'objet d’un ancien raid, introuvable dans les Celestial Dungeons', es: 'objeto de una banda anterior, no disponible en las Celestial Dungeons', it: 'oggetto di un raid precedente, non ottenibile nei Celestial Dungeons', de: 'Gegenstand aus einem älteren Raid, nicht in den Celestial Dungeons erhältlich' }],
+  [/^Only for 2H weapons\. There is no useful enchant at launch for 1H weapons as a Hunter\.$/i, { en: 'Only for a two-hander. At launch there is no worthwhile enchant for a one-hander on a Hunter.', nl: 'Alleen voor een tweehander. Bij de lancering is er geen zinnige enchant voor een eenhander op een Hunter.', fr: 'Uniquement pour une arme \u00e0 deux mains. Au lancement, il n\u2019existe aucun enchantement utile pour une arme \u00e0 une main sur un Hunter.', es: 'Solo para un arma a dos manos. En el lanzamiento no hay ning\u00fan encantamiento \u00fatil para un arma de una mano en un Hunter.', it: 'Solo per un\u2019arma a due mani. Al lancio non esiste alcun incantamento utile per un\u2019arma a una mano su un Hunter.', de: 'Nur f\u00fcr eine Zweihandwaffe. Zum Start gibt es f\u00fcr eine Einhandwaffe auf einem Hunter keine sinnvolle Verzauberung.' }],
   [/^Classic legacy item$/i, { nl: 'legacy-item uit Classic', fr: 'objet hérité de Classic', es: 'objeto heredado de Classic', it: 'oggetto ereditato da Classic', de: 'Legacy-Gegenstand aus Classic' }],
 ];
 
@@ -30,7 +31,7 @@ const rules: Rule[] = [
   // Gebroken Engels in enchantnamen: "X \u2014 available once of Friendly reputation with the Y".
   { pattern: /available once of (\w+) reputation with the /gi, en: 'requires $1 with the ', nl: 'vraagt $1 bij de ', fr: 'nécessite $1 auprès de ', es: 'requiere $1 con ', it: 'richiede $1 con ', de: 'erfordert $1 bei ' },
 
-  { pattern: /\bBought from the PvP Vendor at Rank (\d+)/g, nl: 'Gekocht bij de PvP-vendor vanaf rank $1', fr: 'Acheté au vendeur PvP à partir du rang $1', es: 'Comprado al vendedor PvP desde el rango $1', it: 'Acquistato dal venditore PvP dal grado $1', de: 'Beim PvP-Händler ab Rang $1 gekauft' },
+  { pattern: /\bBought from the PvP Vendor at Rank (\d+)/g, nl: 'Gekocht bij de PvP-verkoper vanaf rank $1', fr: 'Acheté au vendeur PvP à partir du rang $1', es: 'Comprado al vendedor PvP desde el rango $1', it: 'Acquistato dal venditore PvP dal grado $1', de: 'Beim PvP-Händler ab Rang $1 gekauft' },
   { pattern: /\bRank (\d+) PvP (Reward|Weapon|set armor)/g, nl: 'PvP-beloning vanaf rank $1', fr: 'Récompense PvP du rang $1', es: 'Recompensa PvP del rango $1', it: 'Ricompensa PvP del grado $1', de: 'PvP-Belohnung ab Rang $1' },
   { pattern: /\bExalted with the (.+?) reputation\b/g, nl: 'Exalted bij $1', fr: 'Exalted auprès de $1', es: 'Exalted con $1', it: 'Exalted con $1', de: 'Exalted bei $1' },
   { pattern: /\bReward from being Exalted with the (.+?) Reputation\b/g, nl: 'Beloning voor Exalted bij $1', fr: 'Récompense pour Exalted auprès de $1', es: 'Recompensa por Exalted con $1', it: 'Ricompensa per Exalted con $1', de: 'Belohnung für Exalted bei $1' },
@@ -50,11 +51,15 @@ const rules: Rule[] = [
   { pattern: /\b(?:The 3 drake bosses in|Drake bosses in|Drake Bosses in)\b/g, nl: 'Drakenbazen in', fr: 'Boss dragons dans', es: 'Jefes dragón en', it: 'Boss drago in', de: 'Drachenbosse in' },
   { pattern: /\bMultiple Bosses\b/g, nl: 'Verschillende bazen', fr: 'Plusieurs boss', es: 'Varios jefes', it: 'Vari boss', de: 'Mehrere Bosse' },
   { pattern: /\bmultiple bosses\b/g, nl: 'verschillende bazen', fr: 'plusieurs boss', es: 'varios jefes', it: 'vari boss', de: 'mehrere Bosse' },
+  { pattern: /\bBadge of Justice vendor\b/gi, nl: 'Verkoper van Badge of Justice', fr: 'Vendeur de Badge of Justice', es: 'Vendedor de Badge of Justice', it: 'Venditore di Badge of Justice', de: 'H\u00e4ndler f\u00fcr Badge of Justice' },
+  { pattern: /\bArena vendor\b/gi, nl: 'Arenaverkoper', fr: 'Vendeur d\u2019ar\u00e8ne', es: 'Vendedor de arena', it: 'Venditore dell\u2019arena', de: 'Arenah\u00e4ndler' },
+  { pattern: /\bPvP vendor\b/gi, nl: 'PvP-verkoper', fr: 'Vendeur PvP', es: 'Vendedor PvP', it: 'Venditore PvP', de: 'PvP-H\u00e4ndler' },
   { pattern: /\bBadge [Vv]endor\.?/g, nl: 'Verkoper van badges', fr: 'Vendeur de badges', es: 'Vendedor de insignias', it: 'Venditore di insegne', de: 'Abzeichenhändler' },
   { pattern: /\bEmblem Vendors?\b/g, nl: 'verkopers van emblemen', fr: 'vendeurs d’emblèmes', es: 'vendedores de emblemas', it: 'venditori di emblemi', de: 'Emblemhändler' },
   { pattern: /\bReward from the quest\b/g, nl: 'Beloning van de quest', fr: 'Récompense de la quête', es: 'Recompensa de la misión', it: 'Ricompensa della missione', de: 'Belohnung der Quest' },
   { pattern: /\bReward from\b/g, nl: 'Beloning van', fr: 'Récompense de', es: 'Recompensa de', it: 'Ricompensa di', de: 'Belohnung von' },
   { pattern: /\bquest reward\b/gi, nl: 'questbeloning', fr: 'récompense de quête', es: 'recompensa de misión', it: 'ricompensa di missione', de: 'Questbelohnung' },
+  { pattern: /\bLegendary cloak questline\b/gi, nl: 'Questreeks voor de legendary cloak', fr: 'Suite de qu\u00eates de la cape l\u00e9gendaire', es: 'Cadena de misiones de la capa legendaria', it: 'Catena di missioni del mantello leggendario', de: 'Questreihe zum legend\u00e4ren Umhang' },
   { pattern: /\b(?:questline|quest chain)\b/gi, nl: 'questreeks', fr: 'suite de quêtes', es: 'cadena de misiones', it: 'catena di missioni', de: 'Questreihe' },
   { pattern: /\bPurchased with\b/g, nl: 'Gekocht met', fr: 'Acheté avec', es: 'Comprado con', it: 'Acquistato con', de: 'Gekauft mit' },
   { pattern: /\bSold by\b/g, nl: 'Verkocht door', fr: 'Vendu par', es: 'Vendido por', it: 'Venduto da', de: 'Verkauft von' },
@@ -104,8 +109,29 @@ const rules: Rule[] = [
   { pattern: /\bor the legendary\b/g, nl: 'of de legendary', fr: 'ou la légendaire', es: 'o el legendario', it: 'o il leggendario', de: 'oder das legendäre' },
   { pattern: /\bfrom Ulduar if available\b/g, nl: 'uit Ulduar als je die hebt', fr: 'd’Ulduar si disponible', es: 'de Ulduar si se tiene', it: 'da Ulduar se disponibile', de: 'aus Ulduar, falls vorhanden' },
 
+  /*
+   * Zinsdelen die de bronteksten half Engels lieten staan (Nutri, 21 september
+   * 2026). Ze staan hier vlak voor de kleine verbindingswoorden, want ze zijn
+   * specifieker: "from the quest" moet aan de beurt komen voor "from".
+   */
+  { pattern: /\bNormal version of the (.+?) drop\b/g, en: 'drop from the normal version of $1', nl: 'drop uit de normale versie van $1', fr: 'butin de la version normale de $1', es: 'bot\u00edn de la versi\u00f3n normal de $1', it: 'bottino della versione normale di $1', de: 'Drop aus der normalen Version von $1' },
+  { pattern: /\bShared drop from the\b/g, nl: 'Gedeelde drop van', fr: 'Butin partag\u00e9 de', es: 'Bot\u00edn compartido de', it: 'Bottino condiviso di', de: 'Geteilter Drop von' },
+  { pattern: /\bdrops? from the\b/g, nl: 'drop van', fr: 'butin de', es: 'bot\u00edn de', it: 'bottino di', de: 'Drop von' },
+  { pattern: /\bdrops from\b/g, nl: 'drop van', fr: 'butin de', es: 'bot\u00edn de', it: 'bottino di', de: 'Drop von' },
+  { pattern: /\bfrom the quest\b/gi, nl: 'van de quest', fr: 'de la qu\u00eate', es: 'de la misi\u00f3n', it: 'dalla missione', de: 'aus der Quest' },
+  { pattern: /\bBosses in\b/g, nl: 'Bazen in', fr: 'Boss dans', es: 'Jefes en', it: 'Boss in', de: 'Bosse in' },
+  { pattern: /\bThe three drakes in\b/gi, nl: 'De drie draken in', fr: 'Les trois drakes dans', es: 'Los tres dracos en', it: 'I tre draghi in', de: 'Die drei Drachen in' },
+  { pattern: /\bmade by combining the item\b/gi, nl: 'gemaakt door het item te combineren', fr: 'obtenu en combinant l\u2019objet', es: 'se obtiene combinando el objeto', it: 'si ottiene combinando l\u2019oggetto', de: 'entsteht durch Kombinieren des Gegenstands' },
+  { pattern: /\btrash mobs\b/gi, nl: 'trash', fr: 'trash', es: 'trash', it: 'trash', de: 'Trash' },
+
   // Kleine verbindingswoorden, als laatste.
+  { pattern: /^or /g, nl: 'of ', fr: 'ou ', es: 'o ', it: 'o ', de: 'oder ' },
   { pattern: / or /g, nl: ' of ', fr: ' ou ', es: ' o ', it: ' o ', de: ' oder ' },
+  /* Het lidwoord valt weg voor een naam uit het spel: "in the Burning Steppes"
+     wordt "in Burning Steppes". Anders moet je in het Frans, Spaans en Italiaans
+     het geslacht van een Engelse naam raden, en dat gaat mis. */
+  { pattern: /\bin the (?=[A-Z])/g, nl: 'in ', fr: 'dans ', es: 'en ', it: 'in ', de: 'in ' },
+  { pattern: /\bfrom the (?=[A-Z])/g, nl: 'van ', fr: 'de ', es: 'de ', it: 'da ', de: 'von ' },
   { pattern: / in (?=[A-Z])/g, nl: ' in ', fr: ' dans ', es: ' en ', it: ' in ', de: ' in ' },
   { pattern: /\bfrom (?=[A-Z])/g, nl: 'van ', fr: 'de ', es: 'de ', it: 'da ', de: 'von ' },
 ];
@@ -132,5 +158,5 @@ export function translateSource(text: string | undefined, locale: Locale): strin
     if (replacement !== undefined) out = out.replace(rule.pattern, replacement);
     else if (rule.en) out = out.replace(rule.pattern, rule.en);
   }
-  return out.replace(/\$\d/g, '').replace(/\s{2,}/g, ' ').trim();
+  return out.replace(/\$\d/g, '').replace(/\s+([,.])/g, '$1').replace(/\s{2,}/g, ' ').trim();
 }
