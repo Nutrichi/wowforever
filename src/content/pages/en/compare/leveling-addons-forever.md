@@ -18,7 +18,7 @@ sources:
   - name: "RestedXP"
     url: "https://shop.restedxp.com/ref/nutri/"
   - name: "Zygor"
-    url: "https://zygorguides.com/"
+    url: "https://zygorguides.com/ref/Nutri/"
 ---
 World of Warcraft: Forever launches on 4 November 2026, and the two best known paid leveling addons both plan to be there. This page collects what each has announced, and what changes about leveling routes in Forever.
 

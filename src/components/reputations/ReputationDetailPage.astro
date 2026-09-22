@@ -11,6 +11,7 @@
 import { render } from 'astro:content';
 import { localeTags, type Locale } from '../../i18n/ui';
 import { localizePath, useTranslations } from '../../i18n/utils';
+import { isPartnerLink } from '../../config/site';
 import { eras } from '../../config/eras';
 import { standingNames } from '../../config/reputations';
 import BaseLayout from '../../layouts/BaseLayout.astro';
@@ -107,7 +108,7 @@ const jsonLd = {
             {index > 0 && ', '}
             <a
               href={source.url}
-              rel={source.url.includes('shop.restedxp.com') ? 'noopener sponsored' : 'noopener nofollow'}
+              rel={isPartnerLink(source.url) ? 'noopener sponsored' : 'noopener nofollow'}
               target="_blank"
             >{source.name}</a>
           </>

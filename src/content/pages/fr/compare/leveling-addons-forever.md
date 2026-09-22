@@ -19,7 +19,7 @@ sources:
   - name: "RestedXP"
     url: "https://shop.restedxp.com/ref/nutri/"
   - name: "Zygor"
-    url: "https://zygorguides.com/"
+    url: "https://zygorguides.com/ref/Nutri/"
 ---
 World of Warcraft: Forever sort le 4 novembre 2026, et les deux addons de leveling payants les plus connus comptent bien être présents. Cette page rassemble ce que chacun a annoncé, et ce qui change pour les routes de leveling dans Forever.
 

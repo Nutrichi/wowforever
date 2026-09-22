@@ -30,6 +30,31 @@ export const social = {
 export const restedxpUrl = 'https://shop.restedxp.com/ref/nutri/';
 
 /**
+ * De partnerlink van Zygor (Nutri, 22 september 2026).
+ *
+ * Anders dan RestedXP hoeft deze niet op elke pagina te staan. Zygor komt
+ * alleen ter sprake waar hij inhoudelijk hoort, in de vergelijkingen. Maar
+ * wordt hij genoemd met een link, dan is het deze.
+ */
+export const zygorUrl = 'https://zygorguides.com/ref/Nutri/';
+
+/**
+ * Alle partnerlinks. Een link die hiermee begint, krijgt `sponsored` in plaats
+ * van `nofollow`.
+ *
+ * Waarom een lijst en geen tekstcontrole per plek: tot 22 september 2026 stond
+ * er op twee plaatsen `source.url.includes('shop.restedxp.com')` in de sjablonen.
+ * Bij een tweede partner moet zoiets op elke plek opnieuw, en dan is er altijd
+ * een plek die het niet krijgt.
+ */
+export const partnerUrls = [restedxpUrl, zygorUrl];
+
+/** Is dit een van onze partnerlinks? */
+export function isPartnerLink(url: string): boolean {
+  return partnerUrls.some((partner) => url.startsWith(partner));
+}
+
+/**
  * De app in de App Store (Nutri, 19 september 2026).
  *
  * **Leeg betekent overal weg.** Zolang hier niets staat, toont de site geen

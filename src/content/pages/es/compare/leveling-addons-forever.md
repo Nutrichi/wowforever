@@ -19,7 +19,7 @@ sources:
   - name: "RestedXP"
     url: "https://shop.restedxp.com/ref/nutri/"
   - name: "Zygor"
-    url: "https://zygorguides.com/"
+    url: "https://zygorguides.com/ref/Nutri/"
 ---
 World of Warcraft: Forever sale el 4 de noviembre de 2026, y los dos addons de subida de pago más conocidos quieren estar ahí. Esta página reúne lo que ha anunciado cada uno y lo que cambia en las rutas de subida de Forever.
 

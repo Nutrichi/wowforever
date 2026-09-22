@@ -19,7 +19,7 @@ sources:
   - name: "RestedXP"
     url: "https://shop.restedxp.com/ref/nutri/"
   - name: "Zygor"
-    url: "https://zygorguides.com/"
+    url: "https://zygorguides.com/ref/Nutri/"
 ---
 World of Warcraft: Forever esce il 4 novembre 2026, e i due addon di livellamento a pagamento più noti vogliono esserci entrambi. Questa pagina raccoglie cosa ha annunciato ciascuno e cosa cambia nei percorsi di livellamento in Forever.
 
