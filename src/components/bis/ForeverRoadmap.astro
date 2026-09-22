@@ -1,0 +1,205 @@
+---
+/*
+ * De officiele roadmap van Blizzard op /bis/ (Nutri, 22 september 2026).
+ *
+ * Twee lagen, en allebei zijn ze nodig. Bovenaan de slide van BlizzCon zelf,
+ * want dat is het officiele stuk en een fansite hoort de bron te tonen. Daar
+ * onder dezelfde roadmap als tekst, want de slide is 1600 px breed, op een
+ * telefoon onleesbaar, en hij bestaat alleen in het Engels.
+ *
+ * De kolom van een seizoen waar een BiS-fase bij hoort, draagt een link naar
+ * die fase. Zo is de roadmap meteen de weg naar de lijsten.
+ *
+ * De gegevens staan in config/bis.ts (`foreverRoadmap`), de woorden in
+ * src/i18n/bis.ts. Namen uit het spel blijven Engels (SCHRIJFSTIJL.md §6).
+ */
+import { Image } from 'astro:assets';
+import roadmap from '../../assets/posts/2026-09-12-wow-forever-roadmap.jpg';
+import { foreverRoadmap } from '../../config/bis';
+import { bisT, phaseLabel } from '../../i18n/bis';
+import { bisPhasePath } from '../../lib/bis';
+import { shortDate } from '../../lib/date';
+import type { Locale } from '../../i18n/ui';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = bisT(locale);
+
+/** `beta` wordt `rmBeta`, de sleutel in src/i18n/bis.ts. */
+const word = (key: string) => t(`rm${key.charAt(0).toUpperCase()}${key.slice(1)}` as never);
+const season = (key: string) => t(`season${key.charAt(0).toUpperCase()}${key.slice(1)}` as never);
+---
+
+<section class="wf-roadmap" aria-labelledby="wf-roadmap-title">
+  <h2 class="wf-roadmap__title" id="wf-roadmap-title">{t('roadmapTitle')}</h2>
+
+  <Image
+    class="wf-roadmap__image"
+    src={roadmap}
+    alt={t('roadmapAlt')}
+    widths={[640, 960, 1280, 1600]}
+    sizes="(max-width: 900px) 100vw, 1180px"
+    loading="lazy"
+  />
+
+  <ol class="wf-roadmap__grid">
+    {foreverRoadmap.map((column) => (
+      <li class="wf-season">
+        <h3 class="wf-season__name">{season(column.key)}</h3>
+
+        {column.entries.map((entry) => (
+          <div class="wf-entry">
+            <p class="wf-entry__head">
+              <span class="wf-entry__what">{word(entry.key)}</span>
+              {entry.date && <span class="wf-entry__when">{shortDate(new Date(entry.date), locale)}</span>}
+            </p>
+
+            {(entry.lineKeys?.length || entry.lines?.length) && (
+              <ul class="wf-entry__lines">
+                {entry.lineKeys?.map((key) => <li>{word(key)}</li>)}
+                {entry.lines?.map((line) => <li>{line}</li>)}
+              </ul>
+            )}
+
+            {entry.phase && (
+              <a class="wf-entry__link" href={bisPhasePath(locale, 'forever', entry.phase)}>
+                {t('roadmapSeeLists')}
+                <span class="wf-entry__phase">{phaseLabel(entry.phase, locale)}</span>
+              </a>
+            )}
+          </div>
+        ))}
+      </li>
+    ))}
+  </ol>
+
+  <p class="wf-roadmap__foot">{t('roadmapFoot')}</p>
+</section>
+
+<style>
+  .wf-roadmap {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 28px;
+  }
+
+  .wf-roadmap__title {
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+  }
+
+  .wf-roadmap__image {
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card);
+  }
+
+  .wf-roadmap__grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .wf-season {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 15px 16px;
+    border: 1px solid var(--wf-border);
+    border-top: 2px solid var(--wf-accent-deep);
+    border-radius: var(--wf-r-card-sm);
+    background: var(--wf-raised-soft);
+  }
+
+  .wf-season__name {
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wf-accent);
+  }
+
+  .wf-entry { display: flex; flex-direction: column; gap: 5px; }
+
+  .wf-entry__head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 3px 9px;
+  }
+
+  .wf-entry__what {
+    font-family: var(--wf-serif);
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.2;
+    color: var(--wf-ink);
+  }
+
+  .wf-entry__when {
+    font-size: 12.5px;
+    color: var(--wf-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .wf-entry__lines {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 13.5px;
+    line-height: 1.45;
+    color: var(--wf-body);
+  }
+
+  .wf-entry__link {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 6px;
+    margin-top: 2px;
+    font-size: 12.5px;
+    color: var(--wf-accent);
+  }
+
+  .wf-entry__link:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+  .wf-entry__phase {
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 10.5px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--wf-label);
+  }
+
+  .wf-roadmap__foot {
+    max-width: 78ch;
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--wf-label);
+  }
+
+  @media (max-width: 899px) {
+    .wf-roadmap__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+
+  @media (max-width: 560px) {
+    .wf-roadmap__grid { grid-template-columns: minmax(0, 1fr); }
+  }
+</style>

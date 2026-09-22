@@ -28,7 +28,7 @@ faq:
   - q: "Welke raids zitten in WoW Forever?"
     a: "Op 9 december 2026 openen drie raids: Barrow Deeps voor 10 spelers, Hyjal Summit voor 20 en Onyxia's Lair voor 40. De lente van 2027 brengt nog twee nieuwe raids voor 10 en 20 spelers, en de zomer van 2027 een vernieuwde iconische raid en nog een nieuwe raid."
   - q: "Komt Hardcore naar WoW Forever?"
-    a: "Ja, maar niet bij de lancering. Blizzard bevestigde op het Hardcore-panel van 13 september 2026 dat de modus kort na de lancering aangezet wordt, zonder een datum of een patch te noemen."
+    a: "Ja, maar niet bij de lancering. Blizzard bevestigde op het Hardcore-panel van 13 september 2026 dat de modus kort na de lancering aangezet wordt. De roadmap zet de lancering van WoW Forever Hardcore in de winter van 2026, na het opengaan van de raids op 9 december, zonder een dag te noemen."
   - q: "Kan een vriend zonder abonnement meespelen?"
     a: "Tijdens de lanceringsweek wel. Elke editie bevat Invite-A-Friend-lanceringscodes: één bij het Heroic Pack, drie bij het Epic Pack en de Collection. De codes komen vanaf 20 oktober 2026 per mail en werken van 4 tot 11 november 2026. Edities die als cadeau gekocht zijn, hebben geen codes."
   - q: "Was WoW Forever het Classic+-project dat voor BlizzCon uitlekte?"
@@ -130,6 +130,7 @@ Blizzard vatte het eerste jaar samen als "fast-paced production for a slow-paced
 ### Winter 2026
 
 - Op 9 december openen de raids: Barrow Deeps voor 10 spelers, Hyjal Summit voor 20 spelers en Onyxia's Lair voor 40 spelers.
+- WoW Forever Hardcore komt uit. De roadmap zet hem in dezelfde winter, na de raids; Blizzard noemt geen dag.
 
 ### Lente 2027
 
@@ -308,7 +309,7 @@ Tradeskills krijgen hun eerste echte herziening. In Classic gaf een tradeskill a
 - Het PvP- en Honor-systeem wordt vernieuwd, met nieuwe PvP-seizoenen in de lente en de zomer van 2027.
 - PvP-ranks tellen mee voor Legacy Challenges.
 
-Hardcore komt naar Forever, maar niet bij de lancering. Blizzard zei op het Hardcore-panel van 13 september dat de modus kort na de lancering volgt, zonder datum en zonder patch.
+Hardcore komt naar Forever, maar niet bij de lancering. Blizzard zei op het Hardcore-panel van 13 september dat de modus kort na de lancering volgt, zonder datum en zonder patch. De roadmap van BlizzCon zet de lancering van WoW Forever Hardcore in het winterblok, na de raids van 9 december.
 
 Twee dingen veranderen zodra het er is. Het spel waarschuwt spelers voor een world refresh, zodat ze eerst een veilige plek kunnen zoeken. En een personage dat sterft, kan naar elke modus buiten Hardcore, in plaats van verplicht naar een PvE-realm. Hardcore krijgt ook eigen Legacy-uitdagingen en -perks, en Blizzard zei dat het team nadenkt over Mak'gora-toernooien, zonder daar iets over te bevestigen.
 

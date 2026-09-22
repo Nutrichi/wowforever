@@ -9,12 +9,19 @@
  * in de HTML, zodat elke lijst een gewone link heeft die een zoekmachine
  * vindt. Het script kiest de fase en de rol uit de URL (`?phase=`, `?role=`).
  *
+ * De fasechips wijzen naar de eigen pagina van die fase (/bis/classic/p1/) en
+ * niet meer naar `?phase=`. Het script vangt de klik af, dus met JavaScript
+ * filtert de chip zoals altijd; zonder JavaScript, en voor een crawler, is het
+ * een gewone link naar een echte pagina. Zo zijn de 174 fasepagina's te
+ * vinden door te klikken en niet alleen via de sitemap (PROJECT_SPEC.md §11).
+ *
  * Forever heeft nog geen lijsten en toont de lege staat.
  */
 import type { Locale } from '../../i18n/ui';
 import { eras, type EraKey } from '../../config/eras';
-import { isBisEra, livePhase, phaseRaids } from '../../config/bis';
-import { bisPath, lastUpdated, listsForEra, phasesWithLists } from '../../lib/bis';
+import { isBisEra, livePhase } from '../../config/bis';
+import PhaseContents from './PhaseContents.astro';
+import { bisPath, bisPhasePath, lastUpdated, listsForEra, phasesWithLists } from '../../lib/bis';
 import { bisT, phaseLabel, roleLabel } from '../../i18n/bis';
 import { longDate } from '../../lib/date';
 import BisSpecPill from './BisSpecPill.astro';
@@ -59,7 +66,7 @@ const roles = ['all', 'tank', 'healer', 'dps'] as const;
       {phases.map((phase) => (
         <a
           class="wf-chip"
-          href={`${here}?phase=${phase}`}
+          href={bisPhasePath(locale, era, phase)}
           data-phase-chip={phase}
           aria-current={phase === defaultPhase ? 'true' : undefined}
         >{phaseLabel(phase, locale)}</a>
@@ -79,8 +86,9 @@ const roles = ['all', 'tank', 'healer', 'dps'] as const;
     {phases.map((phase) => (
       <section class="wf-bis__phase" data-phase={phase} hidden={phase !== defaultPhase}>
         <h2 class="wf-bis__phasetitle">
-          {phaseLabel(phase, locale)}{phaseRaids[era][phase] && <span class="wf-bis__raids">{phaseRaids[era][phase]}</span>}
+          {phaseLabel(phase, locale)}
         </h2>
+        <PhaseContents locale={locale} era={era} phase={phase} />
         <ul class="wf-bis__list">
           {lists.filter((list) => list.phase === phase).map((list) => (
             <BisSpecPill locale={locale} list={list} />
@@ -181,14 +189,6 @@ const roles = ['all', 'tank', 'healer', 'dps'] as const;
     letter-spacing: .18em;
     text-transform: uppercase;
     color: var(--wf-muted);
-  }
-
-  .wf-bis__raids {
-    font-family: var(--wf-text);
-    font-size: 13px;
-    letter-spacing: 0;
-    text-transform: none;
-    color: var(--wf-label);
   }
 
   .wf-bis__list {

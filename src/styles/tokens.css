@@ -97,13 +97,25 @@
   --wf-slot-a: #121a30;
   --wf-slot-b: #161f3a;
 
-  /* --- Typografie (handoff §4.3) --- */
+  /* --- Typografie (handoff §4.3, herzien op 22 september 2026) --- */
+  /*
+   * Twee families, drie rollen, zo dicht bij de officiële pagina's van
+   * Blizzard als mag: zij zetten koppen in Semplicita Pro en tekst in Open
+   * Sans. Semplicita Pro is van Adobe en niet te hosten, dus koppen en
+   * kapitalen staan in Source Sans 3, de vrije humanistische schreefloze van
+   * dezelfde uitgever.
+   *
+   * De namen van de tokens blijven zoals ze waren. `--wf-serif` draagt nu
+   * geen schreeflettertype meer, maar hij wordt op honderden plaatsen
+   * aangeroepen en hernoemen zou niets oplossen wat dit commentaar niet
+   * oplost.
+   */
   /* Woordmerk, h1, sectiekoppen en de cijfers van de aftelling. */
-  --wf-serif: "Cinzel", "Trajan Pro", Georgia, "Times New Roman", serif;
+  --wf-serif: "Source Sans 3", "Open Sans", Arial, Helvetica, sans-serif;
   /* Navigatie, era-tabs, labels, knoppen en eyebrows, in kapitalen. */
-  --wf-display: "Oswald", "Arial Narrow", "Helvetica Neue", sans-serif;
+  --wf-display: "Source Sans 3", "Open Sans", Arial, Helvetica, sans-serif;
   /* Lopende tekst, piltitels, metaregels. */
-  --wf-text: "Barlow", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  --wf-text: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
 
   /* --- Radii (handoff §4.4) --- */
   --wf-r-pill: 999px;

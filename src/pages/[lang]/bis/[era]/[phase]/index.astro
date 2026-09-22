@@ -1,0 +1,27 @@
+---
+/*
+ * De eigen pagina van één fase in de vijf niet-standaardtalen:
+ * /nl/bis/classic/p1/ enzovoort. Zie de Engelse route voor het waarom.
+ */
+import BisPhasePage from '../../../../../components/bis/BisPhasePage.astro';
+import type { EraKey } from '../../../../../config/eras';
+import { bisEras, foreverPhases } from '../../../../../config/bis';
+import { phasesWithLists } from '../../../../../lib/bis';
+import { defaultLocale, locales, type Locale } from '../../../../../i18n/ui';
+
+export function getStaticPaths() {
+  const pairs = [
+    ...bisEras.flatMap((era) => phasesWithLists(era).map((phase) => ({ era: era as string, phase }))),
+    ...foreverPhases.map((phase) => ({ era: 'forever', phase: phase.id })),
+  ];
+  return locales
+    .filter((locale) => locale !== defaultLocale)
+    .flatMap((lang) => pairs.map(({ era, phase }) => ({ params: { lang, era, phase } })));
+}
+
+const locale = Astro.params.lang as Locale;
+const era = Astro.params.era as EraKey;
+const phase = Astro.params.phase as string;
+---
+
+<BisPhasePage locale={locale} era={era} phase={phase} />

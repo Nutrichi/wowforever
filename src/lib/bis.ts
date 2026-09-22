@@ -110,6 +110,17 @@ export function bisPath(locale: Locale, era?: EraKey, phase?: string, slug?: str
   return `${localizePath(`bis/${era}`, locale)}/`;
 }
 
+/**
+ * Het adres van de eigen pagina van één fase: /bis/classic/p1/.
+ *
+ * Forever heeft geen era-pagina onder /bis/forever/ (dat is /bis/ zelf), maar
+ * de fasen eronder hebben wél een eigen adres. Anders kan een zoekmachine
+ * "wow forever bis phase 1" nergens naartoe sturen (PROJECT_SPEC.md §11).
+ */
+export function bisPhasePath(locale: Locale, era: EraKey, phase: string): string {
+  return `${localizePath(`bis/${era}/${phase}`, locale)}/`;
+}
+
 /** De adressen van de era-tabs op de BiS-pagina's. */
 export function eraHrefs(locale: Locale): Partial<Record<EraKey, string>> {
   return Object.fromEntries(bisTabEras.map((key) => [key, bisPath(locale, key)]));

@@ -1,0 +1,115 @@
+---
+/*
+ * Wat er in een fase opengaat: de raids, de dungeons en de wereldbazen.
+ *
+ * Staat onder de fasetitel op /bis/<era>/ en boven de lijsten. De namen komen
+ * uit config/bis.ts en blijven Engels (SCHRIJFSTIJL.md §6); alleen de labels
+ * worden vertaald.
+ *
+ * Bij `preraid` gaat er niets open, dus draagt de rij een ander label: daar
+ * komt de uitrusting vandaan.
+ */
+import type { BisEra } from '../../config/bis';
+import { phaseContent } from '../../config/bis';
+import { bisT } from '../../i18n/bis';
+import type { Locale } from '../../i18n/ui';
+
+type Props = { locale: Locale; era: BisEra; phase: string };
+
+const { locale, era, phase } = Astro.props;
+const t = bisT(locale);
+const content = phaseContent[era]?.[phase];
+
+const rows: { label: string; names: string[] }[] = [];
+
+if (content) {
+  if (content.raids.length) rows.push({ label: t('raidsLabel'), names: content.raids });
+  if (content.dungeons.length) {
+    rows.push({
+      label: phase === 'preraid' ? t('preraidGear') : t('dungeonsLabel'),
+      names: content.dungeons,
+    });
+  }
+  if (content.extra?.length) rows.push({ label: t('extraLabel'), names: content.extra });
+}
+
+/* Een fase zonder raid is zeldzaam maar bestaat: Classic fase 2. Dat zeggen we. */
+const noRaid = !!content && phase !== 'preraid' && content.raids.length === 0;
+---
+
+{rows.length > 0 && (
+  <dl class="wf-opens">
+    {rows.map((row) => (
+      <div class="wf-opens__row">
+        <dt class="wf-opens__label">{row.label}</dt>
+        <dd class="wf-opens__names">
+          {row.names.map((name) => <span class="wf-opens__name">{name}</span>)}
+        </dd>
+      </div>
+    ))}
+    {noRaid && <p class="wf-opens__note">{t('noRaids')}</p>}
+  </dl>
+)}
+
+<style>
+  .wf-opens {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0 0 16px;
+    padding: 12px 14px;
+    border: 1px solid var(--wf-border);
+    border-left: 2px solid var(--wf-accent-deep);
+    border-radius: var(--wf-r-card-sm);
+    background: var(--wf-raised-soft);
+  }
+
+  .wf-opens__row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 10px;
+  }
+
+  .wf-opens__label {
+    flex: none;
+    min-width: 122px;
+    font-family: var(--wf-display);
+    font-weight: 500;
+    font-size: 11.5px;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--wf-label);
+  }
+
+  .wf-opens__names {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px 0;
+    margin: 0;
+    min-width: 0;
+    font-size: 14px;
+    line-height: 1.45;
+    color: var(--wf-ink);
+  }
+
+  /*
+   * De scheiding staat in CSS en niet in de tekst, zodat een naam nooit met
+   * een los komma-teken op een nieuwe regel begint.
+   */
+  .wf-opens__name + .wf-opens__name::before {
+    content: '·';
+    margin: 0 8px;
+    color: var(--wf-label);
+  }
+
+  .wf-opens__note {
+    margin: 0;
+    font-size: 13px;
+    color: var(--wf-muted);
+  }
+
+  @media (max-width: 560px) {
+    .wf-opens__label { min-width: 100%; }
+  }
+</style>

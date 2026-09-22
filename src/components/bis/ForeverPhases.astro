@@ -1,0 +1,89 @@
+---
+/*
+ * De fasen van WoW Forever op /bis/, zolang er geen itemdata is.
+ *
+ * Dit is het eerlijke antwoord op "wat zit er in fase 1": niet een lege
+ * BiS-lijst, maar wat Blizzard aangekondigd heeft. Zodra de lijsten er zijn,
+ * krijgt Forever gewoon de tabel van de andere era's en mag dit paneel weg.
+ *
+ * Elke kaart heeft ook een eigen pagina (/bis/forever/p1/), want daar landt
+ * wie "wow forever bis phase 1" zoekt. De kaart zelf staat in
+ * ForeverPhaseCard.astro, zodat allebei hetzelfde tonen.
+ */
+import { foreverPhases } from '../../config/bis';
+import { bisT, phaseLabel } from '../../i18n/bis';
+import { bisPhasePath } from '../../lib/bis';
+import ForeverPhaseCard from './ForeverPhaseCard.astro';
+import type { Locale } from '../../i18n/ui';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = bisT(locale);
+---
+
+<section class="wf-fphases" aria-labelledby="wf-fphases-title">
+  <div class="wf-fphases__head">
+    <h2 class="wf-fphases__title" id="wf-fphases-title">{t('foreverPhasesTitle')}</h2>
+  </div>
+
+  <ol class="wf-fphases__list">
+    {foreverPhases.map((phase) => (
+      <li>
+        <a class="wf-fphases__link" href={bisPhasePath(locale, 'forever', phase.id)}>
+          {phaseLabel(phase.id, locale)}
+        </a>
+        <ForeverPhaseCard locale={locale} phase={phase} showTitle={false} />
+      </li>
+    ))}
+  </ol>
+</section>
+
+<style>
+  .wf-fphases { margin-top: 28px; }
+
+  .wf-fphases__head { margin-bottom: 14px; }
+
+  .wf-fphases__title {
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+  }
+
+  .wf-fphases__list {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .wf-fphases__list li {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+  }
+
+  /*
+   * De fasenaam is de link naar de eigen pagina van die fase. Hij staat boven
+   * de kaart en niet erin, zodat de kaart op beide plaatsen hetzelfde is.
+   */
+  .wf-fphases__link {
+    font-family: var(--wf-serif);
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--wf-ink);
+  }
+
+  .wf-fphases__link:hover { color: var(--wf-accent); text-decoration: underline; text-underline-offset: 3px; }
+
+  @media (max-width: 899px) {
+    .wf-fphases__list { grid-template-columns: minmax(0, 1fr); }
+  }
+</style>

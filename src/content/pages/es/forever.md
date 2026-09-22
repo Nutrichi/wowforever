@@ -28,7 +28,7 @@ faq:
   - q: "¿Qué bandas tiene WoW Forever?"
     a: "El 9 de diciembre de 2026 se abren tres bandas: Barrow Deeps para 10 jugadores, Hyjal Summit para 20 y Onyxia's Lair para 40. La primavera de 2027 trae dos bandas nuevas más para 10 y 20 jugadores, y el verano de 2027 una banda icónica renovada y otra banda nueva."
   - q: "¿Llega el modo Hardcore a WoW Forever?"
-    a: "Sí, pero no en el lanzamiento. Blizzard confirmó en el panel de Hardcore del 13 de septiembre de 2026 que el modo se activa poco después del lanzamiento, sin dar fecha ni parche."
+    a: "Sí, pero no en el lanzamiento. Blizzard confirmó en el panel de Hardcore del 13 de septiembre de 2026 que el modo se activa poco después del lanzamiento. La hoja de ruta sitúa el lanzamiento de WoW Forever Hardcore en el invierno de 2026, después de que las bandas abran el 9 de diciembre, sin dar un día."
   - q: "¿Puede jugar un amigo sin suscripción?"
     a: "Durante la semana de lanzamiento, sí. Cada edición incluye códigos de lanzamiento Invite-A-Friend: uno con el Heroic Pack y tres con el Epic Pack y la Collection. Los códigos llegan por correo desde el 20 de octubre de 2026 y funcionan del 4 al 11 de noviembre de 2026. Las ediciones compradas como regalo no incluyen códigos."
   - q: "¿Era WoW Forever el proyecto Classic+ que se filtró antes de la BlizzCon?"
@@ -130,6 +130,7 @@ Blizzard resumió el primer año como «fast-paced production for a slow-paced g
 ### Invierno de 2026
 
 - El 9 de diciembre se abren las bandas: Barrow Deeps para 10 jugadores, Hyjal Summit para 20 jugadores y Onyxia's Lair para 40 jugadores.
+- Sale WoW Forever Hardcore. La hoja de ruta lo sitúa en el mismo invierno, después de las bandas; Blizzard no da un día.
 
 ### Primavera de 2027
 
@@ -308,7 +309,7 @@ Las tradeskills reciben su primera renovación de verdad. En Classic una tradesk
 - El sistema de PvP y honor se actualiza, con nuevas temporadas de PvP en la primavera y el verano de 2027.
 - Los rangos de PvP cuentan para los Legacy Challenges.
 
-El modo Hardcore llega a Forever, pero no en el lanzamiento. Blizzard dijo en el panel de Hardcore del 13 de septiembre que el modo llega poco después del lanzamiento, sin fecha ni parche.
+El modo Hardcore llega a Forever, pero no en el lanzamiento. Blizzard dijo en el panel de Hardcore del 13 de septiembre que el modo llega poco después del lanzamiento, sin fecha ni parche. La hoja de ruta de la BlizzCon sitúa el lanzamiento de WoW Forever Hardcore en el bloque de invierno, después de las bandas del 9 de diciembre.
 
 Dos cosas cambian cuando esté. El juego avisa a los jugadores antes de un world refresh, para que primero busquen un sitio seguro. Y un personaje que muere puede pasar a cualquier modo que no sea Hardcore, en lugar de acabar en un reino PvE. El Hardcore tendrá además sus propios desafíos y perks Legacy, y Blizzard dijo que el equipo le da vueltas a los torneos de Mak'gora, sin confirmar nada.
 

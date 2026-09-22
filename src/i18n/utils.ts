@@ -62,10 +62,17 @@ export function htmlLang(locale: Locale): string {
 export function alternateLinks(pathname: string, site: URL | undefined) {
   const bare = stripLocale(pathname);
   const origin = site ? site.origin : 'https://wowforever.be';
+  /*
+   * Met slash op het einde, net als de canonical en de sitemap. Zonder die
+   * slash wees elke hreflang naar een adres dat GitHub Pages eerst nog
+   * doorverwijst, en een hreflang die naar een doorverwijzing wijst telt
+   * zwakker. Rechtgezet op 22 september 2026; dit raakt elke pagina.
+   */
+  const withSlash = (path: string) => (path.endsWith('/') ? path : `${path}/`);
   return locales.map((locale) => ({
     locale,
     hreflang: localeTags[locale],
-    href: new URL(localizePath(bare, locale), origin).href,
+    href: new URL(withSlash(localizePath(bare, locale)), origin).href,
   }));
 }
 

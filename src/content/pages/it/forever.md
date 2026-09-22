@@ -28,7 +28,7 @@ faq:
   - q: "Quali incursioni ci sono in WoW Forever?"
     a: "Il 9 dicembre 2026 aprono tre incursioni: Barrow Deeps per 10 giocatori, Hyjal Summit per 20 e Onyxia's Lair per 40. La primavera 2027 porta altre due nuove incursioni per 10 e 20 giocatori, e l’estate 2027 un’incursione iconica rinnovata e un’altra nuova incursione."
   - q: "La modalità Hardcore arriva in WoW Forever?"
-    a: "Sì, ma non al lancio. Blizzard ha confermato al panel Hardcore del 13 settembre 2026 che la modalità viene attivata poco dopo il lancio, senza indicare una data o una patch."
+    a: "Sì, ma non al lancio. Blizzard ha confermato al panel Hardcore del 13 settembre 2026 che la modalità viene attivata poco dopo il lancio. La roadmap colloca l’uscita di WoW Forever Hardcore nell’inverno 2026, dopo l’apertura delle incursioni il 9 dicembre, senza indicare un giorno."
   - q: "Un amico senza abbonamento può giocare?"
     a: "Durante la settimana di lancio, sì. Ogni edizione include codici di lancio Invite-A-Friend: uno con l’Heroic Pack, tre con l’Epic Pack e la Collection. I codici arrivano via e-mail dal 20 ottobre 2026 e funzionano dal 4 all’11 novembre 2026. Le edizioni comprate come regalo non hanno codici."
   - q: "WoW Forever era il progetto Classic+ trapelato prima della BlizzCon?"
@@ -130,6 +130,7 @@ Blizzard ha riassunto il primo anno come «fast-paced production for a slow-pace
 ### Inverno 2026
 
 - Il 9 dicembre aprono le incursioni: Barrow Deeps per 10 giocatori, Hyjal Summit per 20 giocatori e Onyxia's Lair per 40 giocatori.
+- Esce WoW Forever Hardcore. La roadmap lo colloca nello stesso inverno, dopo le incursioni; Blizzard non indica un giorno.
 
 ### Primavera 2027
 
@@ -308,7 +309,7 @@ Le tradeskill ricevono la loro prima vera revisione. In Classic una tradeskill d
 - Il sistema PvP e d’onore viene aggiornato, con nuove stagioni PvP nella primavera e nell’estate 2027.
 - I gradi PvP contano per le Legacy Challenges.
 
-La modalità Hardcore arriva in Forever, ma non al lancio. Blizzard ha detto al panel Hardcore del 13 settembre che la modalità segue poco dopo il lancio, senza data e senza patch.
+La modalità Hardcore arriva in Forever, ma non al lancio. Blizzard ha detto al panel Hardcore del 13 settembre che la modalità segue poco dopo il lancio, senza data e senza patch. La slide della roadmap della BlizzCon colloca l’uscita di WoW Forever Hardcore nel blocco invernale, dopo le incursioni del 9 dicembre.
 
 Due cose cambiano una volta che sarà disponibile. Il gioco avvisa i giocatori prima di un world refresh, così possono prima raggiungere un posto sicuro. E un personaggio che muore può passare a qualsiasi modalità diversa dall'Hardcore, invece di finire su un reame PvE. L'Hardcore riceve anche sfide e perk Legacy propri, e Blizzard ha detto che il team sta pensando ai tornei di Mak'gora, senza confermare nulla.
 

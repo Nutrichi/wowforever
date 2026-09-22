@@ -47,13 +47,16 @@ body {
 }
 
 /*
- * Koppen in Cinzel 600 (handoff §4.3). Kleine labels en eyebrows die als kop
- * in de HTML staan, zetten zelf Oswald.
+ * Koppen in Source Sans 3 700 (handoff §4.3, herzien 22 september 2026).
+ * Zevenhonderd en niet zeshonderd: Blizzard zet zijn koppen ook op bold, en
+ * een humanistische schreefloze op 600 leest naast de tekst niet als een kop.
+ * Kleine labels en eyebrows die als kop in de HTML staan, zetten zelf hun
+ * eigen gewicht.
  */
 h1, h2, h3, h4 {
   margin: 0;
   font-family: var(--wf-serif);
-  font-weight: 600;
+  font-weight: 700;
   color: var(--wf-ink);
 }
 

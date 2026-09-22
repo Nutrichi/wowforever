@@ -14,6 +14,8 @@ import { eras } from '../../config/eras';
 import { bisEras, phaseRaids } from '../../config/bis';
 import { bisEraCounts, bisPath, largestEra, phasesWithLists } from '../../lib/bis';
 import { bisT } from '../../i18n/bis';
+import ForeverPhases from './ForeverPhases.astro';
+import ForeverRoadmap from './ForeverRoadmap.astro';
 
 interface Props {
   locale: Locale;
@@ -40,6 +42,10 @@ const text = t('foreverPendingText');
     <a class="wf-pending__button" href={bisPath(locale, target)}>{t('jump', { era: eras[target].name, n: counts[target] })}</a>
   </div>
 </section>
+
+<ForeverRoadmap locale={locale} />
+
+<ForeverPhases locale={locale} />
 
 <section class="wf-ready" aria-labelledby="wf-ready-title">
   <div class="wf-ready__head">

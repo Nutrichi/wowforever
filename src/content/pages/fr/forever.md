@@ -28,7 +28,7 @@ faq:
   - q: "Quels raids contient WoW Forever ?"
     a: "Le 9 décembre 2026, trois raids ouvrent : Barrow Deeps pour 10 joueurs, Hyjal Summit pour 20 et Onyxia's Lair pour 40. Le printemps 2027 apporte deux nouveaux raids pour 10 et 20 joueurs, et l’été 2027 un raid emblématique revu et un autre nouveau raid."
   - q: "Le mode Hardcore arrive-t-il dans WoW Forever ?"
-    a: "Oui, mais pas au lancement. Blizzard a confirmé au panel Hardcore du 13 septembre 2026 que le mode est activé peu après le lancement, sans citer de date ni de patch."
+    a: "Oui, mais pas au lancement. Blizzard a confirmé au panel Hardcore du 13 septembre 2026 que le mode est activé peu après le lancement. La roadmap place la sortie de WoW Forever Hardcore en hiver 2026, après l’ouverture des raids le 9 décembre, sans citer de jour."
   - q: "Un ami sans abonnement peut-il jouer ?"
     a: "Pendant la semaine de lancement, oui. Chaque édition contient des codes de lancement Invite-A-Friend : un avec le Heroic Pack, trois avec l’Epic Pack et la Collection. Les codes arrivent par e-mail à partir du 20 octobre 2026 et fonctionnent du 4 au 11 novembre 2026. Les éditions achetées en cadeau n’ont pas de codes."
   - q: "WoW Forever était-il le projet Classic+ qui a fuité avant la BlizzCon ?"
@@ -130,6 +130,7 @@ Blizzard a résumé la première année par « fast-paced production for a slow-
 ### Hiver 2026
 
 - Le 9 décembre, les raids ouvrent : Barrow Deeps pour 10 joueurs, Hyjal Summit pour 20 joueurs et Onyxia's Lair pour 40 joueurs.
+- WoW Forever Hardcore sort. La roadmap le place dans le même hiver, après les raids ; Blizzard ne cite pas de jour.
 
 ### Printemps 2027
 
@@ -308,7 +309,7 @@ Les tradeskills connaissent leur première vraie refonte. Dans Classic, un trade
 - Le système PvP et d’honneur est mis à jour, avec de nouvelles saisons PvP au printemps et à l’été 2027.
 - Les rangs PvP comptent pour les Legacy Challenges.
 
-Le mode Hardcore arrive dans Forever, mais pas au lancement. Blizzard a dit au panel Hardcore du 13 septembre que le mode suit peu après le lancement, sans date ni patch.
+Le mode Hardcore arrive dans Forever, mais pas au lancement. Blizzard a dit au panel Hardcore du 13 septembre que le mode suit peu après le lancement, sans date ni patch. La roadmap de la BlizzCon place la sortie de WoW Forever Hardcore dans le bloc hiver, après les raids du 9 décembre.
 
 Deux choses changent une fois qu'il est là. Le jeu prévient les joueurs avant un world refresh, pour qu'ils rejoignent d'abord un endroit sûr. Et un personnage qui meurt peut passer dans n'importe quel mode hors Hardcore, au lieu d'être envoyé sur un royaume PvE. Le Hardcore reçoit aussi ses propres défis et perks Legacy, et Blizzard a dit que l'équipe réfléchit à des tournois de Mak'gora, sans rien confirmer.
 

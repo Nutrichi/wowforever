@@ -27,7 +27,7 @@ import { eras } from '../../config/eras';
 import { bisTabEras, classes, classLabel, phaseRaids, roleKey, slotParts, specLabel } from '../../config/bis';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import EraTabs from '../EraTabs.astro';
-import { bisEraCounts, bisPath, eraHrefs, samSpecPhases, siblingSpecs, type BisList } from '../../lib/bis';
+import { bisEraCounts, bisPath, bisPhasePath, eraHrefs, samSpecPhases, siblingSpecs, type BisList } from '../../lib/bis';
 import { bisT, gemColorLabel, phaseLabel, roleLabel, slotLabel } from '../../i18n/bis';
 import { translateSource } from '../../i18n/bis-sources';
 import { translateName } from '../../i18n/bis-names';
@@ -139,10 +139,16 @@ const extraView = (kind: 'enchant' | 'gem', raw: string, source?: string) => {
 /** Enchants zonder naam ("N/A") laten we weg. */
 const enchants = list.enchants.filter((enchant) => !/^(n\/a|none|-)?$/i.test(enchant.name.trim()));
 
+/*
+ * De fase staat als eigen stap in het kruimelpad, want ze heeft sinds
+ * 22 september 2026 een eigen pagina. Zo wijst elke van de 4.542
+ * detailpagina's naar de fasepagina waar ze bij hoort (PROJECT_SPEC.md §11).
+ */
 const crumbs = [
   { name: ui('crumb.home'), path: localizePath('', locale) },
   { name: t('crumb'), path: bisPath(locale) },
   { name: era.name, path: bisPath(locale, list.era) },
+  { name: phase, path: bisPhasePath(locale, list.era, list.phase) },
   { name: `${name}, ${phase}`, path: bisPath(locale, list.era, list.phase, list.slug) },
 ];
 

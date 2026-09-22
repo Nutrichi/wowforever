@@ -1,0 +1,219 @@
+---
+/*
+ * De eigen pagina van één fase: /bis/<era>/<fase>/, in zes talen.
+ *
+ * Waarom dit bestaat (PROJECT_SPEC.md §11, Nutri 22 september 2026). Tot nu
+ * deelden alle fasen van een era één adres, met de fase achter `?phase=`. Een
+ * zoekmachine kan "wow forever bis phase 1" of "bis molten core" dan nergens
+ * naartoe sturen: er is geen bladzijde die dat is. Nu wel.
+ *
+ * Dit is uitdrukkelijk geen doorgangspagina. Er staat hetzelfde op als op de
+ * era-pagina met die fase gekozen: de raids en de dungeons van de fase, en
+ * alle lijsten. Alleen de titel, de kop, de beschrijving en de gestructureerde
+ * data zijn op die ene fase gezet. Voor Forever, waar nog geen lijsten zijn,
+ * staat wat Blizzard aangekondigd heeft.
+ *
+ * De era-pagina blijft de plaats om te bladeren en te filteren; deze pagina is
+ * de plaats om op te landen.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import { eras, type EraKey } from '../../config/eras';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EraTabs from '../EraTabs.astro';
+import BisSpecPill from './BisSpecPill.astro';
+import PhaseContents from './PhaseContents.astro';
+import ForeverPhaseCard from './ForeverPhaseCard.astro';
+import { bisTabEras, foreverPhases, isBisEra, phaseContent } from '../../config/bis';
+import { bisEraCounts, bisPath, bisPhasePath, eraHrefs, listsForEra, phasesWithLists } from '../../lib/bis';
+import { bisT, phaseLabel } from '../../i18n/bis';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+
+interface Props {
+  locale: Locale;
+  era: EraKey;
+  phase: string;
+}
+
+const { locale, era, phase } = Astro.props;
+const t = bisT(locale);
+const ui = useTranslations(locale);
+const info = eras[era];
+const forever = era === 'forever';
+
+const lists = isBisEra(era)
+  ? listsForEra(era).filter((list) => list.phase === phase)
+  : [];
+const phases = forever ? foreverPhases.map((p) => p.id) : phasesWithLists(era as never);
+const raids = (isBisEra(era) && phaseContent[era]?.[phase]?.raids.join(', ')) || '';
+const label = phaseLabel(phase, locale);
+const preraid = phase === 'preraid';
+
+/*
+ * De kop is kort en de <title> draagt de woorden waarop mensen zoeken, net als
+ * op de era-pagina (PROJECT_SPEC.md §11). Staan er raids in deze fase, dan
+ * staan die vooraan in de titel: daar wordt op gezocht, niet op "fase 3".
+ */
+const h1 = preraid ? t('preraidH1', { era: info.name }) : t('phaseH1', { era: info.name, phase: label });
+
+const metaTitle = forever
+  ? t('foreverPhaseMeta', { phase: label })
+  : preraid
+    ? t('preraidMeta', { era: info.name })
+    : raids
+      ? t('phaseMetaWithRaids', { raids, era: info.name, phase: label })
+      : t('phaseMetaNoRaids', { era: info.name, phase: label });
+
+const description = forever
+  ? t('foreverPhaseDesc', { phase: label })
+  : preraid
+    ? t('preraidDesc', { era: info.name, n: lists.length })
+    : raids
+      ? t('phaseDescWithRaids', { era: info.name, phase: label, raids, n: lists.length })
+      : t('phaseDescNoRaids', { era: info.name, phase: label, n: lists.length });
+
+const hrefs = eraHrefs(locale);
+const counts = bisEraCounts();
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: t('crumb'), path: bisPath(locale) },
+  ...(forever ? [] : [{ name: info.name, path: bisPath(locale, era) }]),
+  { name: label, path: bisPhasePath(locale, era, phase) },
+];
+
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+
+const foreverPhase = forever ? foreverPhases.find((p) => p.id === phase) : undefined;
+---
+
+<BaseLayout locale={locale} title={metaTitle} description={description}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <EraTabs slot="bar" locale={locale} current={era} hrefs={hrefs} counts={counts} keys={bisTabEras} />
+
+  <div class="wf-phasepage">
+    <nav class="wf-phasepage__crumb" aria-label={t('crumb')}>
+      <a href={bisPath(locale)}>{t('crumb')}</a>
+      <span aria-hidden="true">/</span>
+      {!forever && <a href={bisPath(locale, era)}>{info.name}</a>}
+      {!forever && <span aria-hidden="true">/</span>}
+      <span>{label}</span>
+    </nav>
+
+    <header class="wf-phasepage__head">
+      <h1 class="wf-phasepage__title">{h1}</h1>
+      {lists.length > 0 && <p class="wf-phasepage__count">{t('listCount', { n: lists.length })}</p>}
+    </header>
+
+    {isBisEra(era) && <PhaseContents locale={locale} era={era} phase={phase} />}
+    {foreverPhase && <ForeverPhaseCard locale={locale} phase={foreverPhase} />}
+
+    {lists.length > 0 && (
+      <ul class="wf-phasepage__list">
+        {lists.map((list) => <BisSpecPill locale={locale} list={list} />)}
+      </ul>
+    )}
+
+    <nav class="wf-phasepage__others" aria-label={t('otherPhases')}>
+      <h2 class="wf-phasepage__otherstitle">{t('otherPhases')}</h2>
+      <div class="wf-phasepage__chips">
+        {phases.filter((other) => other !== phase).map((other) => (
+          <a class="wf-chip" href={bisPhasePath(locale, era, other)}>{phaseLabel(other, locale)}</a>
+        ))}
+        <a class="wf-chip wf-chip--all" href={bisPath(locale, era)}>{t('allLists', { era: info.name })}</a>
+      </div>
+    </nav>
+  </div>
+</BaseLayout>
+
+<style>
+  .wf-phasepage {
+    padding-block: 6px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .wf-phasepage__crumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    color: var(--wf-muted);
+  }
+
+  .wf-phasepage__crumb a:hover { color: var(--wf-ink); }
+
+  .wf-phasepage__head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px 18px;
+  }
+
+  .wf-phasepage__title {
+    font-size: 32px;
+    line-height: 1.15;
+    text-shadow: var(--wf-glow-h1);
+    text-wrap: balance;
+  }
+
+  .wf-phasepage__count {
+    font-size: 13px;
+    color: var(--wf-label);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .wf-phasepage__list {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .wf-phasepage__others {
+    margin-top: 10px;
+    padding-top: 18px;
+    border-top: 1px solid var(--wf-border);
+  }
+
+  .wf-phasepage__otherstitle {
+    margin-bottom: 10px;
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 12.5px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+  }
+
+  .wf-phasepage__chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+  }
+
+  .wf-chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 13px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    font-size: 12.5px;
+    color: var(--wf-muted);
+    transition: var(--wf-transition);
+  }
+
+  .wf-chip:hover { border-color: var(--wf-accent-deep); color: var(--wf-ink); }
+
+  .wf-chip--all { border-color: var(--wf-accent-deep); color: var(--wf-accent); }
+
+  @media (max-width: 720px) {
+    .wf-phasepage__title { font-size: 26px; }
+  }
+</style>

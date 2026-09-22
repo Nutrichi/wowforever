@@ -1,0 +1,24 @@
+---
+/*
+ * De eigen pagina van één fase in het Engels: /bis/classic/p1/.
+ *
+ * Forever heeft geen era-pagina (dat is /bis/ zelf), maar zijn drie fasen
+ * krijgen hier wél een adres: daar landt wie "wow forever bis phase 1" zoekt.
+ */
+import BisPhasePage from '../../../../components/bis/BisPhasePage.astro';
+import type { EraKey } from '../../../../config/eras';
+import { bisEras, foreverPhases } from '../../../../config/bis';
+import { phasesWithLists } from '../../../../lib/bis';
+
+export function getStaticPaths() {
+  const real = bisEras.flatMap((era) =>
+    phasesWithLists(era).map((phase) => ({ params: { era, phase } })));
+  const forever = foreverPhases.map((phase) => ({ params: { era: 'forever', phase: phase.id } }));
+  return [...real, ...forever];
+}
+
+const era = Astro.params.era as EraKey;
+const phase = Astro.params.phase as string;
+---
+
+<BisPhasePage locale="en" era={era} phase={phase} />
