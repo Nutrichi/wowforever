@@ -296,7 +296,7 @@ Elke voltooide challenge geeft één Legacy Point. Punten gaan in een Legacy-boo
 
 De derde tak bevat de perks voor tradeskills; die staan op [Tradeskills](/nl/tradeskills/). Er waren twee demobuilds te zien en hun cijfers verschillen licht: Reinforce stond er zowel met 6% als met 8% minder slijtage. De exacte waarden kunnen voor de lancering nog veranderen.
 
-Los van de boom speelt het totale aantal verdiende punten een reeks cosmetische beloningen vrij. Punten uitgeven aan perks vertraagt die reeks niet. De beloningen die tot nu toe getoond zijn: de Replica Ironforge Air Rifle, het pet Spectral Bear Cub, een tabard met de Spectral Bear en de mount Reins of the Spectral Bear.
+Los van de boom speelt het totale aantal verdiende punten een reeks cosmetische beloningen vrij. Punten uitgeven aan perks vertraagt die reeks niet. De beloningen die tot nu toe getoond zijn: de Replica Ironforge Air Rifle, het pet Spectral Bear Cub, een tabard met de Spectral Bear en de mount Reins of the Spectral Bear. De reeks gaat open op 15, 25, 40 en 55 punten, met de mount op 55. Elke uitdaging is precies één punt waard, en een class trainer leert een hele boom af voor 10 goud.
 
 ## Perks van tradeskills
 

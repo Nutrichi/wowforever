@@ -296,7 +296,7 @@ Cada desafío completado da un Legacy Point. Los puntos se gastan en un árbol L
 
 La tercera rama contiene los perks de las tradeskills; están en [Tradeskills](/es/tradeskills/). Se mostraron dos versiones de demostración y sus cifras varían un poco: Reinforce apareció con un 6 % y con un 8 % menos de desgaste. Los valores exactos pueden cambiar antes del lanzamiento.
 
-Aparte del árbol, el total de puntos conseguidos desbloquea una serie de recompensas cosméticas. Gastar puntos en perks no frena esa serie. Las recompensas mostradas hasta ahora son el Replica Ironforge Air Rifle, la mascota Spectral Bear Cub, un tabardo de Spectral Bear y la montura Reins of the Spectral Bear.
+Aparte del árbol, el total de puntos conseguidos desbloquea una serie de recompensas cosméticas. Gastar puntos en perks no frena esa serie. Las recompensas mostradas hasta ahora son el Replica Ironforge Air Rifle, la mascota Spectral Bear Cub, un tabardo de Spectral Bear y la montura Reins of the Spectral Bear. La serie se abre en 15, 25, 40 y 55 puntos, con la montura en 55. Cada reto vale exactamente un punto, y un maestro de clase olvida un árbol entero por 10 de oro.
 
 ## Perks de las tradeskills
 

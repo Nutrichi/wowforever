@@ -295,7 +295,7 @@ Every completed challenge gives one Legacy Point. Points go into a Legacy tree w
 
 The third branch holds the perks for tradeskills; those are on [Tradeskills](/tradeskills/). Two demo builds were shown and their numbers differ slightly: Reinforce appeared with both 6% and 8% less durability loss. The exact values can still change before launch.
 
-Apart from the tree, the total number of points earned unlocks a track of cosmetic rewards. Spending points on perks does not slow that track down. The rewards shown so far are the Replica Ironforge Air Rifle, the Spectral Bear Cub pet, a Spectral Bear tabard and the Reins of the Spectral Bear mount.
+Apart from the tree, the total number of points earned unlocks a track of cosmetic rewards. Spending points on perks does not slow that track down. The rewards shown so far are the Replica Ironforge Air Rifle, the Spectral Bear Cub pet, a Spectral Bear tabard and the Reins of the Spectral Bear mount. The track opens at 15, 25, 40 and 55 points, with the mount at 55. Every challenge is worth exactly one point, and a class trainer unlearns a whole tree for 10 gold.
 
 ## Tradeskill perks
 

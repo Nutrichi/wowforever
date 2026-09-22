@@ -296,7 +296,7 @@ Ogni sfida completata dà un Legacy Point. I punti vanno in un albero Legacy con
 
 Il terzo ramo contiene i perk delle tradeskill; si trovano su [Tradeskills](/it/tradeskills/). Sono state mostrate due build dimostrative con numeri leggermente diversi: Reinforce compariva sia con il 6% sia con l’8% di usura in meno. I valori esatti possono ancora cambiare prima del lancio.
 
-Al di là dell’albero, il totale dei punti ottenuti sblocca una serie di ricompense estetiche. Spendere punti nei perk non rallenta quella serie. Le ricompense mostrate finora sono la Replica Ironforge Air Rifle, la mascotte Spectral Bear Cub, una tabarda Spectral Bear e la cavalcatura Reins of the Spectral Bear.
+Al di là dell’albero, il totale dei punti ottenuti sblocca una serie di ricompense estetiche. Spendere punti nei perk non rallenta quella serie. Le ricompense mostrate finora sono la Replica Ironforge Air Rifle, la mascotte Spectral Bear Cub, una tabarda Spectral Bear e la cavalcatura Reins of the Spectral Bear. La serie si apre a 15, 25, 40 e 55 punti, con la cavalcatura a 55. Ogni sfida vale esattamente un punto, e un addestratore di classe disimpara un intero albero per 10 monete d’oro.
 
 ## Perk delle tradeskill
 

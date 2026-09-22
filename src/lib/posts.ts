@@ -123,6 +123,33 @@ function toPost(
   };
 }
 
+/*
+ * Een post met een datum in de toekomst is ingepland en staat nog niet online.
+ *
+ * Waarom dit bestaat (Nutri, 22 september 2026). Bij een reeks posts hoort een
+ * schema: ze horen niet allemaal tegelijk in de feed te vallen, want dan leest
+ * de homepage als een stortbui en is de helft morgen al weggezakt. De datum in
+ * de frontmatter is nu ook het publicatiemoment.
+ *
+ * De site bouwt zichzelf elk kwartier opnieuw (`.github/workflows/deploy.yml`),
+ * en bij elke bouw wordt dit opnieuw afgewogen. Een ingeplande post komt dus
+ * online bij de eerste bouw ná zijn tijdstip, zonder dat er iemand aan te pas
+ * komt. GitHub stelt een geplande run soms uit, dus het kan een halfuur later
+ * worden; op de minuut is het niet.
+ *
+ * In de dev-server telt dit niet: daar staat alles meteen, zodat Nutri een
+ * ingeplande post kan nalezen voor hij live gaat. Alleen een echte bouw
+ * (`astro build`, en dus ook `promote.sh` en de Action) houdt hem tegen.
+ *
+ * Omdat de hele site via deze functie leest, valt een ingeplande post ook
+ * vanzelf buiten de sitemap, de JSON-feed voor de app, de zoekindex en
+ * /llms.txt. Eén plek, geen tweede waarheid.
+ */
+function isScheduled(date: Date): boolean {
+  if (import.meta.env.DEV) return false;
+  return date.getTime() > Date.now();
+}
+
 /** Alle gepubliceerde posts in één taal, nieuwste eerst. */
 export async function getPosts(locale: Locale): Promise<Post[]> {
   const all = await loadAll();
@@ -133,6 +160,7 @@ export async function getPosts(locale: Locale): Promise<Post[]> {
 
     for (const entry of all[collection]) {
       if (entry.data.draft) continue;
+      if (isScheduled(entry.data.date)) continue;
       const { lang, slug } = splitId(entry);
       if (!bySlug.has(slug)) bySlug.set(slug, new Map());
       bySlug.get(slug)!.set(lang, entry);

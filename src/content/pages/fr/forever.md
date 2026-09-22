@@ -296,7 +296,7 @@ Chaque défi réussi rapporte un Legacy Point. Les points vont dans un arbre Leg
 
 La troisième branche contient les perks des tradeskills ; ils se trouvent sur [Tradeskills](/fr/tradeskills/). Deux versions de démonstration ont été montrées et leurs chiffres diffèrent un peu : Reinforce apparaissait avec 6 % et avec 8 % d’usure en moins. Les valeurs exactes peuvent encore changer avant le lancement.
 
-À côté de l’arbre, le total des points gagnés débloque une série de récompenses cosmétiques. Dépenser des points en perks ne ralentit pas cette série. Les récompenses montrées jusqu’ici sont la Replica Ironforge Air Rifle, la mascotte Spectral Bear Cub, un tabard Spectral Bear et la monture Reins of the Spectral Bear.
+À côté de l’arbre, le total des points gagnés débloque une série de récompenses cosmétiques. Dépenser des points en perks ne ralentit pas cette série. Les récompenses montrées jusqu’ici sont la Replica Ironforge Air Rifle, la mascotte Spectral Bear Cub, un tabard Spectral Bear et la monture Reins of the Spectral Bear. La série s’ouvre à 15, 25, 40 et 55 points, avec la monture à 55. Chaque défi vaut exactement un point, et un maître de classe désapprend tout un arbre pour 10 pièces d’or.
 
 ## Perks des tradeskills
 
