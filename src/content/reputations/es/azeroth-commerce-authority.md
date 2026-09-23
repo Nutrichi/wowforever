@@ -46,6 +46,8 @@ Por debajo de Neutral la escala también es la habitual: Hated mide 36.000, y Ho
 
 **Entregar cajas.** La mejora Legacy Performance Bonus, en el árbol Professions, lo dice con todas las letras: tienes un 5, 10 o 15 por ciento de probabilidad, según el rango, de recibir un 100 por cien más de **Merchant's Favor** al entregar una caja a la Azeroth Commerce Authority o a Durotar Supply and Logistics. Merchant's Favor es una moneda propia en la beta, dentro de Professions y Tradeskills.
 
+**El Pack Kodo.** El vendedor Huey Sunnydale vende las Reins of the Pack Kodo por 6000 Merchant's Favor, visto en la beta el 23 de septiembre de 2026. Es el segundo Kodo que la Alianza ha podido montar nunca, tras el Great Brewfest Kodo de The Burning Crusade. Una caja como la Waylaid Crate: Apprentice Textiles se recoge por el mundo, se llena y se entrega.
+
 La mejora y sus tres rangos están en la [calculadora Legacy](/es/talents/legacy/).
 
 ## Dónde entregar
@@ -73,6 +75,6 @@ La beta enseña la facción, sus recompensas y sus quartermasters, pero no el si
 - **Dónde empieza un personaje nuevo.** La base de datos no da un nivel de inicio, así que Neutral aquí es una suposición y no un valor confirmado.
 - **Cuánto da una caja** y si hay un límite por día o por semana.
 - **De dónde salen las cajas:** qué profesión las hace, cuánto cuestan y cuántas se pueden llevar.
-- **Qué más compra Merchant's Favor** además de reputación.
+- **Cuánto de lo que compra Merchant's Favor** está ya en la beta. La moneda compra recetas de artesanía, monturas, juguetes y cosméticos, pero la lista completa no se ve.
 
 Los jugadores reconocen los dos nombres de Season of Discovery, donde las supply crates funcionaban de forma parecida. Blizzard no ha dicho que el sistema vuelva igual, así que esta guía se limita a lo que el cliente de la beta y la base de datos muestran de verdad. Se actualizará en cuanto la beta enseñe más.

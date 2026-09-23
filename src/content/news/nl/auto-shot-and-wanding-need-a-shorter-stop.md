@@ -13,6 +13,8 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
+**Rechtzetting, 23 september 2026.** Blizzard zei intussen op het forum dat dit geen wijziging is maar een fout: de cast van een halve seconde voor een Auto-Shot of een wand werkt niet goed, en er komt een oplossing in een volgende betabuild. Wat hieronder staat, beschrijft wat de beta op 21 september deed.
+
 Auto-Shot en wanding vertrekken in World of Warcraft: Forever veel sneller vanuit stilstand. De verborgen casttijd op allebei is hard ingekort, schrijft Wowhead na de beta. Dat verandert het kiten voor Hunters en voor elke caster met een wand.
 
 ## De stop die niemand ziet

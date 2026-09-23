@@ -46,6 +46,8 @@ Onder Neutral loopt de schaal ook zoals gewoonlijk: Hated is 36.000 breed, Hosti
 
 **Kisten inleveren.** De Legacy-perk Performance Bonus in de boom Professions zegt het met zoveel woorden: je hebt 5, 10 of 15 procent kans, afhankelijk van de rang, op 100 procent meer **Merchant's Favor** wanneer je een kist inlevert bij de Azeroth Commerce Authority of Durotar Supply and Logistics. Merchant's Favor is in de beta een eigen munt, ondergebracht bij Professions en Tradeskills.
 
+**De Pack Kodo.** De handelaar Huey Sunnydale verkoopt de Reins of the Pack Kodo voor 6000 Merchant's Favor, gevonden op de beta op 23 september 2026. Daarmee is het de tweede Kodo die de Alliance ooit kan berijden, na de Great Brewfest Kodo uit The Burning Crusade. Een kist zoals de Waylaid Crate: Apprentice Textiles loot je in de wereld, vult hem en levert hem in.
+
 De perk en zijn drie rangen staan in de [Legacy-calculator](/nl/talents/legacy/).
 
 ## Waar je inlevert
@@ -73,6 +75,6 @@ De beta toont de factie, haar beloningen en haar quartermasters, maar niet het s
 - **Waar een nieuw personage begint.** De database geeft geen startstanding, dus Neutral is hier een aanname en geen bevestigde waarde.
 - **Hoeveel een kist opbrengt** en of er een limiet per dag of per week is.
 - **Waar de kisten vandaan komen:** welke tradeskill ze maakt, wat ze kosten en hoeveel je er kunt meenemen.
-- **Wat Merchant's Favor verder koopt** naast reputatie.
+- **Hoeveel van wat Merchant's Favor koopt** al in de beta staat. De munt koopt crafting-recepten, mounts, toys en cosmetica, maar de volledige lijst is niet zichtbaar.
 
 Spelers herkennen de twee namen uit Season of Discovery, waar supply crates op een vergelijkbare manier werkten. Blizzard heeft niet gezegd dat het systeem onveranderd overkomt, dus deze gids houdt zich bij wat de betacliënt en de database echt tonen. Ze wordt bijgewerkt zodra de beta meer laat zien.

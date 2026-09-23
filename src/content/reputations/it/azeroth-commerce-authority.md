@@ -46,6 +46,8 @@ Sotto Neutral la scala segue anch'essa l'abitudine: Hated è largo 36.000, Hosti
 
 **Consegnare casse.** Il perk Legacy Performance Bonus, nell'albero Professions, lo dice chiaramente: hai il 5, 10 o 15 per cento di probabilità, a seconda del rango, di ricevere il 100 per cento in più di **Merchant's Favor** quando consegni una cassa all'Azeroth Commerce Authority o a Durotar Supply and Logistics. Merchant's Favor nella beta è una valuta a sé, sotto Professions e Tradeskills.
 
+**Il Pack Kodo.** Il mercante Huey Sunnydale vende le Reins of the Pack Kodo per 6000 Merchant's Favor, viste sulla beta il 23 settembre 2026. È la seconda cavalcatura Kodo che l'Alleanza abbia mai potuto usare, dopo il Great Brewfest Kodo di The Burning Crusade. Una cassa come la Waylaid Crate: Apprentice Textiles si raccoglie nel mondo, si riempie e si consegna.
+
 Il perk e i suoi tre ranghi sono nel [calcolatore Legacy](/it/talents/legacy/).
 
 ## Dove si consegna
@@ -73,6 +75,6 @@ La beta mostra la fazione, le sue ricompense e i suoi quartermaster, ma non il s
 - **Da dove parte un personaggio nuovo.** Il database non dà un livello di partenza, quindi Neutral qui è un'ipotesi e non un valore confermato.
 - **Quanto rende una cassa** e se c'è un limite al giorno o alla settimana.
 - **Da dove arrivano le casse:** quale mestiere le produce, quanto costano e quante se ne possono portare.
-- **Cos'altro compra Merchant's Favor** oltre alla reputazione.
+- **Quanto di ciò che compra Merchant's Favor** sia già nella beta. La valuta compra ricette di artigianato, cavalcature, giocattoli e oggetti estetici, ma l'elenco completo non è visibile.
 
 I giocatori riconoscono i due nomi da Season of Discovery, dove le supply crate funzionavano in modo simile. Blizzard non ha detto che il sistema torna identico, quindi questa guida si attiene a quello che il client della beta e il database mostrano davvero. Verrà aggiornata appena la beta mostrerà di più.

@@ -12,6 +12,8 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
+**Correction, 23 September 2026.** Blizzard has since said on the forums that this is not a change but a bug: the half-second cast before an Auto-Shot or a wand is not working properly, and a fix is coming in an upcoming beta build. What follows describes what the beta did on 21 September.
+
 Auto-Shot and wanding fire much faster from a stop in World of Warcraft: Forever. The hidden cast time on both has been cut down hard, writes Wowhead after the beta. That changes kiting for Hunters and for every caster with a wand.
 
 ## The stop that nobody sees

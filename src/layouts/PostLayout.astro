@@ -301,6 +301,36 @@ const jsonLd = {
     inset: 0;
   }
 
+  /*
+   * Een post op X. Smaller dan een Reddit-post: X toont zijn insluiting zelf
+   * op hoogstens 550 px en centreert hem daarbinnen, dus een breder kader
+   * levert alleen lege randen op.
+   *
+   * De starthoogte is een schatting voor een post met een paar regels tekst.
+   * X meet zichzelf na het laden en meldt de echte hoogte; dan neemt
+   * post-video.ts het over. Zonder dat bericht blijft deze hoogte staan.
+   */
+  .wf-prose :global(.wf-embed--x) {
+    aspect-ratio: auto;
+    position: relative;
+    height: 0;
+    padding-bottom: 320px;
+    /*
+     `width` moet erbij. Zonder die regel klapte het blok in tot 2 px: het is
+     een flex-item in .wf-prose, zijn inhoud staat op `inset: 0` en heeft dus
+     geen eigen breedte, en `margin-inline: auto` laat een flex-item krimpen
+     tot zijn inhoud. Gemeten in een echte browser op 23 september 2026.
+    */
+    width: 100%;
+    max-width: 550px;
+    margin-inline: auto;
+  }
+
+  .wf-prose :global(.wf-embed--x > *) {
+    position: absolute;
+    inset: 0;
+  }
+
   .wf-prose :global(.wf-embed__play) {
     display: flex;
     align-items: center;

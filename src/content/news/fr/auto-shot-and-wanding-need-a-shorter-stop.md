@@ -13,6 +13,8 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
+**Rectificatif, 23 septembre 2026.** Blizzard a depuis indiqué sur le forum qu’il ne s’agit pas d’un changement mais d’un bug : la demi-seconde d’incantation avant un Auto-Shot ou une baguette ne fonctionne pas correctement, et un correctif arrive dans une prochaine build de bêta. Ce qui suit décrit ce que faisait la bêta le 21 septembre.
+
 Auto-Shot et le wanding partent bien plus vite depuis l'arrêt dans World of Warcraft: Forever. Le temps d'incantation caché des deux a été fortement réduit, écrit Wowhead après la bêta. Cela change le kite pour les Hunters et pour tout caster avec un wand.
 
 ## L'arrêt que personne ne voit

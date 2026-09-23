@@ -1,5 +1,5 @@
 /*
- * Een video of een Reddit-post in een nieuwspost.
+ * Een video, een Reddit-post of een post op X in een nieuwspost.
  *
  * **Ze laden vanzelf** (Nutri, 21 september 2026: "Kan je die tussenstap van
  * op die knop te drukken niet gewoon weglaten?"). Tot 21 september stond er
@@ -76,13 +76,37 @@ const playReddit = (figure: HTMLElement) => {
   mount(figure, frame);
 };
 
+/*
+ * Een post op X. Alleen het ID staat in de Markdown; de volle URL hoort in de
+ * zin ernaast, net als bij Reddit.
+ *
+ * `dnt=true` zet Do Not Track aan bij X: dan wordt de insluiting niet gebruikt
+ * om de lezer te volgen. Het thema gaat mee, en de taal ook, zodat de knoppen
+ * onder de post in de taal van de pagina staan.
+ */
+const playX = (figure: HTMLElement) => {
+  const id = figure.dataset.wfX;
+  if (!id || figure.querySelector('iframe')) return;
+
+  const theme = document.documentElement.dataset.theme;
+  const dark = theme === 'night'
+    || (theme !== 'day' && !window.matchMedia('(prefers-color-scheme: light)').matches);
+  const lang = document.documentElement.lang || 'en';
+
+  const frame = document.createElement('iframe');
+  frame.src = `https://platform.twitter.com/embed/Tweet.html?id=${encodeURIComponent(id)}`
+    + `&theme=${dark ? 'dark' : 'light'}&lang=${encodeURIComponent(lang.slice(0, 2))}&dnt=true`;
+  mount(figure, frame);
+};
+
 const load = (figure: HTMLElement) => {
   if (figure.dataset.wfReddit) playReddit(figure);
+  else if (figure.dataset.wfX) playX(figure);
   else playVideo(figure);
 };
 
 const embeds = () =>
-  document.querySelectorAll<HTMLElement>('[data-wf-video], [data-wf-reddit]');
+  document.querySelectorAll<HTMLElement>('[data-wf-video], [data-wf-reddit], [data-wf-x]');
 
 /*
  * Laden zodra het blok binnen 800 px van het scherm komt. Kan de browser geen
@@ -109,7 +133,7 @@ if ('IntersectionObserver' in window) {
  */
 document.addEventListener('click', (event) => {
   if (!(event.target instanceof Element)) return;
-  const figure = event.target.closest<HTMLElement>('[data-wf-video], [data-wf-reddit]');
+  const figure = event.target.closest<HTMLElement>('[data-wf-video], [data-wf-reddit], [data-wf-x]');
   if (!figure) return;
   // Cmd- of Ctrl-klik op een link in het blok blijft een gewone link.
   if (event.target.closest('a')) return;
@@ -125,15 +149,26 @@ document.addEventListener('click', (event) => {
 window.addEventListener('message', (event) => {
   let host = '';
   try { host = new URL(event.origin).hostname; } catch { return; }
-  if (host !== 'embed.reddit.com') return;
+  const vanReddit = host === 'embed.reddit.com';
+  const vanX = host === 'platform.twitter.com';
+  if (!vanReddit && !vanX) return;
 
-  const data = event.data as { height?: unknown; data?: { height?: unknown } } | null;
-  const height = Number(data?.data?.height ?? data?.height);
-  if (!Number.isFinite(height) || height < 200 || height > 4000) return;
+  /*
+   * Reddit meldt `{ height }` of `{ data: { height } }`. X meldt
+   * `{ 'twttr.embed': { method: 'twttr.private.resize', params: [{ height }] } }`.
+   * Beide komen hier binnen; wat niet op een getal uitkomt, valt weg.
+   */
+  const data = event.data as Record<string, any> | null;
+  const height = Number(
+    data?.data?.height
+    ?? data?.height
+    ?? data?.['twttr.embed']?.params?.[0]?.height,
+  );
+  if (!Number.isFinite(height) || height < 120 || height > 4000) return;
 
   for (const frame of document.querySelectorAll('iframe')) {
     if (frame.contentWindow !== event.source) continue;
-    const figure = frame.closest<HTMLElement>('[data-wf-reddit]');
+    const figure = frame.closest<HTMLElement>('[data-wf-reddit], [data-wf-x]');
     if (figure) {
       figure.style.height = `${height}px`;
       figure.style.paddingBottom = '0';

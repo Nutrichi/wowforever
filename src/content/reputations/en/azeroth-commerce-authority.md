@@ -45,6 +45,8 @@ Below Neutral the scale runs the usual way as well: Hated is 36,000 wide, Hostil
 
 **Turning in crates.** The Legacy perk Performance Bonus in the Professions tree says it plainly: you have a 5, 10 or 15 percent chance, depending on the rank, to receive 100 percent increased **Merchant's Favor** when you turn in a crate to the Azeroth Commerce Authority or Durotar Supply and Logistics. Merchant's Favor is a currency of its own in the beta, filed under Professions and Tradeskills.
 
+**The Pack Kodo.** The vendor Huey Sunnydale sells the Reins of the Pack Kodo for 6000 Merchant's Favor, found on the beta on 23 September 2026. That makes it the second Kodo the Alliance has ever been able to ride, after the Great Brewfest Kodo from The Burning Crusade. A crate such as the Waylaid Crate: Apprentice Textiles is looted in the world, filled and handed in.
+
 You can see the perk and its three ranks in the [Legacy calculator](/talents/legacy/).
 
 ## Where to turn in
@@ -72,6 +74,6 @@ The beta shows the faction, its rewards and its quartermasters, but not the syst
 - **Where a new character starts.** The database gives no starting standing, so Neutral is the assumption here and not a confirmed value.
 - **How much a crate gives** and whether there is a daily or weekly limit.
 - **Where the crates come from:** which tradeskill makes them, what they cost and how many you can carry.
-- **What else Merchant's Favor buys** besides reputation.
+- **How much of what Merchant's Favor buys** is already in the beta. The currency buys crafting recipes, mounts, toys and cosmetics, but the full list is not visible.
 
 Players recognise the two names from Season of Discovery, where supply crates worked in a comparable way. Blizzard has not said that the system carries over unchanged, so this guide sticks to what the beta client and the database actually show. It is updated as soon as the beta shows more.

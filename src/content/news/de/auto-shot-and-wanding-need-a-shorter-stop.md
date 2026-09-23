@@ -13,6 +13,8 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
+**Richtigstellung, 23. September 2026.** Blizzard hat inzwischen im Forum gesagt, dass dies keine Änderung ist, sondern ein Fehler: die halbe Sekunde Zauberzeit vor einem Auto-Shot oder einem Zauberstab funktioniert nicht richtig, und eine Korrektur kommt in einem der nächsten Beta-Builds. Was folgt, beschreibt, was die Beta am 21. September tat.
+
 Auto-Shot und Wanding gehen in World of Warcraft: Forever viel schneller aus dem Stand los. Die versteckte Zauberzeit bei beiden wurde stark gekürzt, schreibt Wowhead nach der Beta. Das verändert das Kiten für Hunter und für jeden Caster mit einem Wand.
 
 ## Der Stopp, den niemand sieht

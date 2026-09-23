@@ -46,6 +46,8 @@ Sous Neutral, l’échelle suit aussi l’habitude : Hated fait 36 000, Hostile 
 
 **Rendre des caisses.** Le perk Legacy Performance Bonus, dans l’arbre Professions, le dit noir sur blanc : vous avez 5, 10 ou 15 pour cent de chances, selon le rang, de recevoir 100 pour cent de **Merchant's Favor** en plus quand vous rendez une caisse à l’Azeroth Commerce Authority ou à Durotar Supply and Logistics. Merchant's Favor est une monnaie à part dans la bêta, classée sous Professions et Tradeskills.
 
+**Le Pack Kodo.** Le vendeur Huey Sunnydale propose les Reins of the Pack Kodo pour 6000 Merchant's Favor, repérés sur la bêta le 23 septembre 2026. C’est le deuxième Kodo que l’Alliance ait jamais pu monter, après le Great Brewfest Kodo de The Burning Crusade. Une caisse comme la Waylaid Crate: Apprentice Textiles se ramasse dans le monde, se remplit et se rend.
+
 Le perk et ses trois rangs sont dans le [calculateur Legacy](/fr/talents/legacy/).
 
 ## Où rendre les caisses
@@ -73,6 +75,6 @@ La bêta montre la faction, ses récompenses et ses quartiers-maîtres, mais pas
 - **Le niveau de départ d’un nouveau personnage.** La base de données n’en donne aucun : Neutral est ici une hypothèse et pas une valeur confirmée.
 - **Ce que rapporte une caisse** et s’il existe une limite par jour ou par semaine.
 - **D’où viennent les caisses :** quel métier les fabrique, ce qu’elles coûtent et combien on peut en porter.
-- **Ce que Merchant's Favor achète d’autre** que de la réputation.
+- **Quelle part de ce qu’achète Merchant's Favor** est déjà dans la bêta. La monnaie achète des recettes d’artisanat, des montures, des jouets et des cosmétiques, mais la liste complète n’est pas visible.
 
 Les joueurs reconnaissent les deux noms de Season of Discovery, où les supply crates fonctionnaient de façon comparable. Blizzard n’a pas dit que le système revient tel quel, donc ce guide s’en tient à ce que le client de la bêta et la base de données montrent vraiment. Il sera mis à jour dès que la bêta en montrera plus.

@@ -13,6 +13,8 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
+**Rettifica, 23 settembre 2026.** Blizzard ha poi detto sul forum che non si tratta di un cambiamento ma di un bug: il mezzo secondo di lancio prima di un Auto-Shot o di una bacchetta non funziona bene, e una correzione arriva in una prossima build della beta. Quello che segue descrive cosa faceva la beta il 21 settembre.
+
 Auto-Shot e wanding partono molto più in fretta da fermo in World of Warcraft: Forever. Il tempo di lancio nascosto di entrambi è stato tagliato parecchio, scrive Wowhead dopo la beta. Questo cambia il kite per gli Hunter e per ogni caster con un wand.
 
 ## La sosta che nessuno vede
