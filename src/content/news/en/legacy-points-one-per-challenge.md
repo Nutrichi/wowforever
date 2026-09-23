@@ -1,7 +1,7 @@
 ---
 title: "Legacy Points come one per challenge, and never expire"
 description: "Every Legacy challenge in WoW Forever is worth exactly one point, and the points carry across the whole account. Cosmetics unlock at 15, 25, 40 and 55."
-date: 2026-09-23T13:30:00+02:00
+date: 2026-09-23T07:33:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-09-21-wow-forever-ruleset-hero.jpg

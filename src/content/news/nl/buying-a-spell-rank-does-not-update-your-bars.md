@@ -1,7 +1,7 @@
 ---
 title: "Een nieuwe spellrang kopen verandert je balken niet"
 description: "Wie mana gebruikt in WoW Forever cast na een bezoek aan de trainer gewoon de oude rang verder. Melee-classes updaten zelf; de rest moet de nieuwe rang zelf slepen."
-date: 2026-09-23T15:30:00+02:00
+date: 2026-09-23T07:34:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-09-22-wow-forever-spellbook-ranks.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Ein neuer Zauberrang landet nicht von selbst auf den Leisten"
 description: "Wer in WoW Forever Mana nutzt, zaubert nach dem Lehrerbesuch weiter den alten Rang. Nahkampfklassen aktualisieren sich selbst, alle anderen nicht."
-date: 2026-09-23T15:30:00+02:00
+date: 2026-09-23T07:34:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-09-22-wow-forever-spellbook-ranks.jpg

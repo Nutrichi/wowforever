@@ -1,7 +1,7 @@
 ---
 title: "Los Legacy Points dan un punto por reto y no caducan"
 description: "Cada reto Legacy en WoW Forever vale exactamente un punto, y los puntos valen para toda la cuenta. Los cosméticos se desbloquean en 15, 25, 40 y 55."
-date: 2026-09-23T13:30:00+02:00
+date: 2026-09-23T07:33:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-09-21-wow-forever-ruleset-hero.jpg

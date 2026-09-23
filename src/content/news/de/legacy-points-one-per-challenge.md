@@ -1,7 +1,7 @@
 ---
 title: "Legacy Points geben einen Punkt pro Aufgabe und verfallen nie"
 description: "Jede Legacy-Aufgabe in WoW Forever ist genau einen Punkt wert, und die Punkte gelten für den ganzen Account. Kosmetik gibt es bei 15, 25, 40 und 55."
-date: 2026-09-23T13:30:00+02:00
+date: 2026-09-23T07:33:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-09-21-wow-forever-ruleset-hero.jpg

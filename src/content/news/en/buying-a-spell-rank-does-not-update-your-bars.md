@@ -1,7 +1,7 @@
 ---
 title: "Buying a new spell rank does not update your bars"
 description: "Mana users in WoW Forever keep casting the old rank after a trainer visit. Melee classes update on their own; everyone else has to drag the new rank across."
-date: 2026-09-23T15:30:00+02:00
+date: 2026-09-23T07:34:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-09-22-wow-forever-spellbook-ranks.jpg

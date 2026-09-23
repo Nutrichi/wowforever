@@ -1,7 +1,7 @@
 ---
 title: "Gli Skyborne scelgono il loro lato alla creazione"
 description: "Blizzard ha dettagliato la nuova razza. I Windshaper dell’Orda hanno Shaman, il High Order dell’Alleanza ha Mage, e i due lati condividono quattro classi e due dei quattro tratti."
-date: 2026-09-23T11:30:00+02:00
+date: 2026-09-23T07:32:00+02:00
 category: blizzard
 lang: it
 image: ../../../assets/posts/2026-09-13-wow-forever-skyborne.jpg

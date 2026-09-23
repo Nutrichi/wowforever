@@ -1,7 +1,7 @@
 ---
 title: "Orc Mages und Undead Paladins kommen mit Forever"
 description: "Blizzard hat die vollständige Tabelle mit Völkern und Klassen für WoW Forever veröffentlicht. Sechs Kombinationen, die Classic nie erlaubte, sind dabei, die Skyborne bringen fünf je Fraktion."
-date: 2026-09-23T09:30:00+02:00
+date: 2026-09-23T07:31:00+02:00
 category: blizzard
 lang: de
 image: ../../../assets/posts/2026-09-17-wow-forever-masthead-art.jpg

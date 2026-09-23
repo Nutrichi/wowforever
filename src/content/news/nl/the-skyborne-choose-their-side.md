@@ -1,7 +1,7 @@
 ---
 title: "De Skyborne kiezen hun kant bij het aanmaken"
 description: "Blizzard gaf de details van de nieuwe race. Horde-Windshapers krijgen Shaman, de Alliance High Order krijgt Mage, en beide kanten delen vier classes en twee van hun vier racials."
-date: 2026-09-23T11:30:00+02:00
+date: 2026-09-23T07:32:00+02:00
 category: blizzard
 lang: nl
 image: ../../../assets/posts/2026-09-13-wow-forever-skyborne.jpg

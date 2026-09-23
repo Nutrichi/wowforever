@@ -1,7 +1,7 @@
 ---
 title: "Comprar un rango nuevo de hechizo no actualiza tus barras"
 description: "Quien usa maná en WoW Forever sigue lanzando el rango viejo tras pasar por el entrenador. Las clases cuerpo a cuerpo se actualizan solas; el resto no."
-date: 2026-09-23T15:30:00+02:00
+date: 2026-09-23T07:34:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-09-22-wow-forever-spellbook-ranks.jpg

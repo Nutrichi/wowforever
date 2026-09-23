@@ -1,7 +1,7 @@
 ---
 title: "Orc Mages en Undead Paladins komen met Forever"
 description: "Blizzard publiceerde de volledige tabel met races en classes voor WoW Forever. Zes combinaties die Classic nooit toeliet zitten erin, en de Skyborne brengen er vijf per factie bij."
-date: 2026-09-23T09:30:00+02:00
+date: 2026-09-23T07:31:00+02:00
 category: blizzard
 lang: nl
 image: ../../../assets/posts/2026-09-17-wow-forever-masthead-art.jpg

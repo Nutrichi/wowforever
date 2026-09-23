@@ -1,7 +1,7 @@
 ---
 title: "Acheter un nouveau rang de sort ne met pas vos barres à jour"
 description: "Ceux qui utilisent du mana dans WoW Forever continuent de lancer l’ancien rang après un passage chez le maître. Les classes de mêlée se mettent à jour seules."
-date: 2026-09-23T15:30:00+02:00
+date: 2026-09-23T07:34:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-09-22-wow-forever-spellbook-ranks.jpg

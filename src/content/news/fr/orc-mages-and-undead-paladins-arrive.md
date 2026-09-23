@@ -1,7 +1,7 @@
 ---
 title: "Les Orc Mages et les Undead Paladins arrivent avec Forever"
 description: "Blizzard a publié le tableau complet des races et des classes pour WoW Forever. Six combinaisons interdites dans Classic sont là, et les Skyborne en apportent cinq par faction."
-date: 2026-09-23T09:30:00+02:00
+date: 2026-09-23T07:31:00+02:00
 category: blizzard
 lang: fr
 image: ../../../assets/posts/2026-09-17-wow-forever-masthead-art.jpg

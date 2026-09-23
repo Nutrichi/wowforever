@@ -1,7 +1,7 @@
 ---
 title: "Les Skyborne choisissent leur camp à la création"
 description: "Blizzard a détaillé la nouvelle race. Les Windshapers de la Horde ont Shaman, le High Order de l’Alliance a Mage, et les deux camps partagent quatre classes et deux de leurs quatre traits."
-date: 2026-09-23T11:30:00+02:00
+date: 2026-09-23T07:32:00+02:00
 category: blizzard
 lang: fr
 image: ../../../assets/posts/2026-09-13-wow-forever-skyborne.jpg

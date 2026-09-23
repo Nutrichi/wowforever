@@ -1,7 +1,7 @@
 ---
 title: "Los Skyborne eligen bando al crear el personaje"
 description: "Blizzard ha detallado la nueva raza. Los Windshapers de la Horda tienen Shaman, el High Order de la Alianza tiene Mage, y ambos bandos comparten cuatro clases y dos de sus cuatro rasgos."
-date: 2026-09-23T11:30:00+02:00
+date: 2026-09-23T07:32:00+02:00
 category: blizzard
 lang: es
 image: ../../../assets/posts/2026-09-13-wow-forever-skyborne.jpg

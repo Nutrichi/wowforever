@@ -1,7 +1,7 @@
 ---
 title: "Comprare un nuovo rango di incantesimo non aggiorna le barre"
 description: "Chi usa mana in WoW Forever continua a lanciare il vecchio rango dopo il passaggio dall’addestratore. Le classi in mischia si aggiornano da sole; le altre no."
-date: 2026-09-23T15:30:00+02:00
+date: 2026-09-23T07:34:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-09-22-wow-forever-spellbook-ranks.jpg

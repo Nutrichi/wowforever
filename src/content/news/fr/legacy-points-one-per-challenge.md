@@ -1,7 +1,7 @@
 ---
 title: "Les Legacy Points valent un point par défi et n’expirent jamais"
 description: "Chaque défi Legacy dans WoW Forever vaut exactement un point, et les points valent pour tout le compte. Les cosmétiques se débloquent à 15, 25, 40 et 55."
-date: 2026-09-23T13:30:00+02:00
+date: 2026-09-23T07:33:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-09-21-wow-forever-ruleset-hero.jpg

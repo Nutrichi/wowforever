@@ -1,7 +1,7 @@
 ---
 title: "I Legacy Points valgono un punto per sfida e non scadono"
 description: "Ogni sfida Legacy in WoW Forever vale esattamente un punto, e i punti valgono per tutto l’account. Gli oggetti estetici si sbloccano a 15, 25, 40 e 55."
-date: 2026-09-23T13:30:00+02:00
+date: 2026-09-23T07:33:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-09-21-wow-forever-ruleset-hero.jpg

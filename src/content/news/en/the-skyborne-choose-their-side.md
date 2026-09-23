@@ -1,7 +1,7 @@
 ---
 title: "The Skyborne choose their side at character creation"
 description: "Blizzard detailed the new race. Horde Windshapers get Shaman, Alliance High Order get Mage, and both sides share four classes and two of their four racials."
-date: 2026-09-23T11:30:00+02:00
+date: 2026-09-23T07:32:00+02:00
 category: blizzard
 lang: en
 image: ../../../assets/posts/2026-09-13-wow-forever-skyborne.jpg

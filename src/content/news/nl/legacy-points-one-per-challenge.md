@@ -1,7 +1,7 @@
 ---
 title: "Legacy Points geven één punt per uitdaging, en verlopen nooit"
 description: "Elke Legacy-uitdaging in WoW Forever is precies één punt waard, en de punten gelden voor de hele account. Cosmetica komen vrij op 15, 25, 40 en 55."
-date: 2026-09-23T13:30:00+02:00
+date: 2026-09-23T07:33:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-09-21-wow-forever-ruleset-hero.jpg

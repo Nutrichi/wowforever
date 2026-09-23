@@ -1,7 +1,7 @@
 ---
 title: "Die Skyborne wählen ihre Seite bei der Erstellung"
 description: "Blizzard hat das neue Volk beschrieben. Windshaper der Horde bekommen Shaman, der High Order der Allianz bekommt Mage, und beide Seiten teilen vier Klassen und zwei ihrer vier Fähigkeiten."
-date: 2026-09-23T11:30:00+02:00
+date: 2026-09-23T07:32:00+02:00
 category: blizzard
 lang: de
 image: ../../../assets/posts/2026-09-13-wow-forever-skyborne.jpg
