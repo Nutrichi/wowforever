@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: Release, Beta, Roadmap, Skyborne und Editionen"
 description: "Alles, was Blizzard zu World of Warcraft: Forever angekündigt hat: die Termine, die Roadmap, die neuen Zonen, Dungeons und Raids, die Skyborne, das Legacy-System und die Editionen."
 short: "WoW Forever"
-updated: 2026-09-15
+updated: 2026-09-24
 lang: de
 manual: true
 faq:
@@ -60,6 +60,10 @@ sources:
     url: "https://www.wowhead.com/forever/news/blizzard-clarifies-krol-dok-stronghold-level-range-in-forever-382895"
   - name: "Wowhead, Hardcore-Panel"
     url: "https://www.wowhead.com/forever/news/whats-next-hardcore-panel-liveblog-382875"
+  - name: "Blizzard, The WoW: Forever Podcast, Folge 1"
+    url: "https://www.youtube.com/watch?v=m49-jvGPCkA"
+  - name: "Wowhead, The Hall of Thanes"
+    url: "https://www.wowhead.com/forever/news/the-hall-of-thanes-new-dungeon-walkthrough-for-wow-forever-382991"
 ---
 World of Warcraft: Forever ist das Classic+, das Blizzard am 12. September auf der BlizzCon 2026 angekündigt hat. Es ist das ursprüngliche Azeroth, erneuert und erweitert, und es bleibt für immer auf Stufe 60. Neue Patches bringen Geschichten, Dungeons, Raids und Systeme auf Stufe 60 und auf dem Weg von 1 bis 60. Forever erscheint am 4. November 2026 und ist im Abonnement für World of Warcraft enthalten.
 
@@ -180,6 +184,8 @@ Die Erfahrungskurve ändert sich nicht: Ein Charakter braucht für Stufe 60 gena
 
 Dungeons funktionieren anders. Die Erfahrung aus Monstern in einem Dungeon sinkt, die aus den Dungeonquests steigt deutlich. Ein erster Durchgang lohnt sich, eine Wiederholung viel weniger. Blizzard will Spieler draußen in der Welt statt im selben Dungeon.
 
+Unterm Strich gleicht es sich aus. Von Level 1 bis 20 braucht man im Schnitt 20,5 Stunden in Forever gegenüber 20,4 in Classic Era, sagt Josh Greenfield im [ersten Podcast der Entwickler](/de/news/a-first-developer-podcast-promises-fewer-blues/). Der nächste Build der Beta gibt in Dungeons außerdem weniger blaue Questbelohnungen, damit sich der Schritt von Weiß über Grün zu Blau wie in Classic anfühlt, sagt Tim Jones.
+
 Es gibt weder einen WoW Token noch einen Boost, sagte Associate Production Director Clay Stone in einem Interview mit Destin. Das Aufholsystem bleibt „das Spiel spielen“.
 
 Drei neue Schiffsrouten verbinden Teile der Welt, die vorher keine Verbindung hatten:
@@ -196,7 +202,7 @@ Die Stufenbereiche stammen von Blizzard, das die vollständige Liste am 14. Sept
 
 | Dungeon | Stufen | Was es ist |
 |---|---|---|
-| The Hall of Thanes | 13 bis 18 | Die Hall wurde durchbrochen, und die Alliance schützt ihre alten Schätze, die die Horde vielleicht selbst will. |
+| The Hall of Thanes | 13 bis 18 | Die Hall wurde durchbrochen, und die Alliance schützt ihre alten Schätze, die die Horde vielleicht selbst will. Sie liegt in Old Ironforge unter dem High Seat, mit vier Bossen und fünf Quests: [der Guide](/de/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). |
 | Ruins of Lordaeron | 15 bis 20 | Die zerstörte Hauptstadt, noch voller Scourge. Die Horde kämpft um ihre Rückeroberung, und auch die Alliance findet vielleicht einen Weg hinein. |
 | Excavation Site: Wetlands | 24 bis 29 | Eine Ausgrabung der Explorers' League in den Wetlands. |
 | City of Dalaran | 28 bis 33 | Ein Stadtdungeon. Die Barriere aus der Zeit nach Warcraft III ist fort, doch die Kirin Tor haben die Stadt nicht unter Kontrolle. |
@@ -224,7 +230,7 @@ Die Raids, mit denen das Spiel öffnet, verlangen kein Attunement, sagte Blizzar
 
 ## Die Skyborne
 
-Die Skyborne sind ein neues Volk von Elfen mit elementarem Einschlag. Ihre schwebende Heimat Zephras Isle ist in ihrer Existenz bedroht, und ihre gemeinsame Abstammung hat zu sehr unterschiedlichen Vorstellungen von der Zukunft geführt. Die Skyborne sind nicht neutral: Bei der Charaktererstellung wählen Spieler eine Fraktion, und diese Wahl entscheidet über die zusätzliche Klasse. Untereinander heißen sie Shen'dorei.
+Die Skyborne sind ein neues Volk von Elfen mit elementarem Einschlag. Ihre schwebende Heimat Zephras Isle ist in ihrer Existenz bedroht, und ihre gemeinsame Abstammung hat zu sehr unterschiedlichen Vorstellungen von der Zukunft geführt. Die Skyborne sind nicht neutral: Bei der Charaktererstellung wählen Spieler eine Fraktion, und diese Wahl entscheidet über die zusätzliche Klasse. Untereinander heißen sie Shen'dorei. Die Wahl der Fraktion bindet die Skyborne der Horde außerdem an den Earthen Ring, mit einem neuen Gebiet in Mulgore, und die der Alliance an die Kirin Tor, jeweils mit Quests und Ruf, sagt Tim Jones.
 
 ### High Order Skyborne, Alliance
 
@@ -256,6 +262,8 @@ Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, die Wi
 
 - **Optionales Transmog.** Transmog gibt es, aber jeder Spieler entscheidet, ob er es sieht. Ist die Option aus, zeigt jeder seine echte Ausrüstung.
 - **HD- oder SD-Grafik.** Charaktere, Modelle und die Welt wechseln zwischen dem ursprünglichen Look und erneuerter Grafik, mit besserem Licht, Nebel und Wasser.
+- **Layer mit bekannten Gesichtern.** Wie viele Spieler auf einen Layer passen, ist pro Zone festgelegt. Layering versucht außerdem, Spieler zu den Leuten zu bringen, mit denen sie in einer Gruppe waren, zu ihrer Gilde und ihrer Freundesliste, sagt Josh Greenfield.
+- **Eine bronzene Oberfläche.** Der bronzene, verwitterte Look unterscheidet Forever auf einen Blick von Classic und dem modernen WoW. Ein Schalter zur Oberfläche von Classic ist nicht geplant, und Addons können sie weiterhin ändern, sagt Tim Jones.
 - **Camping.** Spieler bauen Lager in der Welt, denen andere beitreten können. Tradeskills geben sich dort gegenseitig Buffs, Lagereinrichtungen werden hergestellt und verbessert, und Rasten im Lager bringt Vorteile.
 - **Main und Secondary names.** Ein vollständiger Charaktername hat zwei Teile. Beide sind Pflicht, und eine Einstellung legt fest, ob der volle Name angezeigt wird.
 - **Komfort.** Änderungen an der Reitfertigkeit (Reittiere brauchen weiter die im Spiel gekaufte Reitfertigkeit), Gamepad-Unterstützung und die Battle.net-App auf Windows und Mac.

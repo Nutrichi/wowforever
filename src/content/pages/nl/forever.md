@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-09-15
+updated: 2026-09-24
 lang: nl
 manual: true
 faq:
@@ -60,6 +60,10 @@ sources:
     url: "https://www.wowhead.com/forever/news/blizzard-clarifies-krol-dok-stronghold-level-range-in-forever-382895"
   - name: "Wowhead, Hardcore-panel"
     url: "https://www.wowhead.com/forever/news/whats-next-hardcore-panel-liveblog-382875"
+  - name: "Blizzard, The WoW: Forever Podcast, aflevering 1"
+    url: "https://www.youtube.com/watch?v=m49-jvGPCkA"
+  - name: "Wowhead, The Hall of Thanes"
+    url: "https://www.wowhead.com/forever/news/the-hall-of-thanes-new-dungeon-walkthrough-for-wow-forever-382991"
 ---
 World of Warcraft: Forever is de Classic+ die Blizzard op 12 september aankondigde op BlizzCon 2026. Het is het originele Azeroth, vernieuwd en uitgebreid, en het blijft voorgoed op level 60. Nieuwe patches voegen verhalen, dungeons, raids en systemen toe op level 60 en onderweg van 1 tot 60. Forever verschijnt op 4 november 2026 en zit in een abonnement op World of Warcraft.
 
@@ -180,6 +184,8 @@ De ervaringscurve verandert niet: een personage heeft evenveel nodig voor level 
 
 Dungeons werken anders. Ervaring uit monsters in een dungeon gaat omlaag, ervaring uit de dungeonquests gaat fors omhoog. Een eerste run door een dungeon loont, een herhaling veel minder. Blizzard wil spelers in de wereld in plaats van in dezelfde dungeon.
 
+Per saldo komt het op hetzelfde uit. Van level 1 naar 20 duurt gemiddeld 20,5 uur in Forever tegenover 20,4 in Classic Era, zegt Josh Greenfield in de [eerste podcast van de ontwikkelaars](/nl/news/a-first-developer-podcast-promises-fewer-blues/). De volgende build van de beta geeft ook minder blauwe questbeloningen in dungeons, zodat de stap van wit naar groen naar blauw aanvoelt zoals in Classic, zegt Tim Jones.
+
 Er komt geen WoW Token en geen boost, zei Associate Production Director Clay Stone in een interview met Destin. Het inhaalsysteem blijft "speel het spel".
 
 Drie nieuwe scheepsroutes verbinden delen van de wereld die eerder geen verbinding hadden:
@@ -196,7 +202,7 @@ De levelbereiken komen van Blizzard, dat de volledige lijst op 14 september 2026
 
 | Dungeon | Levels | Wat het is |
 |---|---|---|
-| The Hall of Thanes | 13 tot 18 | De Hall is doorbroken en de Alliance beschermt de oude schatten, die de Horde misschien zelf wil. |
+| The Hall of Thanes | 13 tot 18 | De Hall is doorbroken en de Alliance beschermt de oude schatten, die de Horde misschien zelf wil. Hij ligt in Old Ironforge onder de High Seat, met vier bazen en vijf quests: [de walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). |
 | Ruins of Lordaeron | 15 tot 20 | De verwoeste hoofdstad, nog vol Scourge. De Horde vecht om ze terug te nemen, en de Alliance vindt misschien ook een weg naar binnen. |
 | Excavation Site: Wetlands | 24 tot 29 | Een opgraving van de Explorers' League in de Wetlands. |
 | City of Dalaran | 28 tot 33 | Een stadsdungeon. De barrière van na Warcraft III is weg, maar de Kirin Tor hebben de stad niet onder controle. |
@@ -224,7 +230,7 @@ De raids waarmee het spel opent, vragen geen attunement, zei Blizzard in een int
 
 ## De Skyborne
 
-De Skyborne zijn een nieuw ras van elfen met een elementaire inslag. Hun zwevende thuis, Zephras Isle, wordt in zijn bestaan bedreigd, en hun gedeelde afkomst heeft geleid tot heel verschillende ideeën over de toekomst. De Skyborne zijn niet neutraal: bij het maken van een personage kiezen spelers een factie, en die keuze bepaalt de extra class. Onder elkaar heten ze de Shen'dorei.
+De Skyborne zijn een nieuw ras van elfen met een elementaire inslag. Hun zwevende thuis, Zephras Isle, wordt in zijn bestaan bedreigd, en hun gedeelde afkomst heeft geleid tot heel verschillende ideeën over de toekomst. De Skyborne zijn niet neutraal: bij het maken van een personage kiezen spelers een factie, en die keuze bepaalt de extra class. Onder elkaar heten ze de Shen'dorei. De keuze van factie bindt de Skyborne van de Horde ook aan de Earthen Ring, met een nieuw gebied in Mulgore, en die van de Alliance aan de Kirin Tor, allebei met quests en reputatie, zegt Tim Jones.
 
 ### High Order Skyborne, Alliance
 
@@ -256,6 +262,8 @@ Ook de racials zijn herwerkt. Elk ras heeft nu vier racials, de resistance-racia
 
 - **Optionele transmog.** Transmog bestaat, maar elke speler kiest of hij het ziet. Met de optie uit toont iedereen zijn echte gear.
 - **HD- of SD-graphics.** Personages, modellen en de wereld wisselen tussen de originele look en vernieuwde beelden, met beter licht, betere mist en beter water.
+- **Layers met bekende gezichten.** Hoeveel spelers er op een layer passen, ligt per zone vast. Layering probeert spelers ook bij de mensen te zetten met wie ze groepten, hun guild en hun vriendenlijst, zegt Josh Greenfield.
+- **Een bronzen interface.** De bronzen, verweerde look onderscheidt Forever in één oogopslag van Classic en het moderne WoW. Een schakelaar naar de interface van Classic staat niet op de planning, en addons kunnen haar nog altijd aanpassen, zegt Tim Jones.
 - **Camping.** Spelers bouwen kampen in de wereld waar anderen bij kunnen aansluiten. Tradeskills geven elkaar daar buffs, kampvoorzieningen worden gemaakt en opgewaardeerd, en rusten in een kamp geeft voordelen.
 - **Main en Secondary names.** Een volledige naam van een personage heeft twee delen. Beide zijn verplicht, en een instelling bepaalt of de volledige naam getoond wordt.
 - **Gebruiksgemak.** Updates van riding skill (mounts vragen nog altijd riding skill die je in het spel koopt), ondersteuning voor gamepads, en de Battle.net-app op Windows en Mac.

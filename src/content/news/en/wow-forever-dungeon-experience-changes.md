@@ -19,3 +19,5 @@ Blizzard said so in an interview with The Sun, reports Wowhead. The reason is th
 The experience curve itself does not change. A character still needs the same amount of experience to reach level 60 as in the original Classic. What changes is where that experience comes from, because the new zones offer other routes.
 
 Blizzard has not said how much lower the experience from monsters is, or how much higher the experience from the quests.
+
+The beta gives a first idea. In The Hall of Thanes a monster gives 28 to 30 experience and each of the five quests 3,900 to 4,900, writes Wowhead in its [walkthrough](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Levelling as a whole is not faster: from 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/).

@@ -20,3 +20,5 @@ Blizzard lo dijo en una entrevista con The Sun, informa Wowhead. El motivo es qu
 La curva de experiencia en sí no cambia. Un personaje necesita la misma experiencia para llegar al nivel 60 que en el Classic original. Lo que cambia es de dónde sale esa experiencia, porque las zonas nuevas ofrecen otros caminos.
 
 Cuánto baja la experiencia de los monstruos, o cuánto sube la de las misiones, Blizzard no lo dice.
+
+La beta da una primera idea. En The Hall of Thanes un monstruo da de 28 a 30 de experiencia y cada una de las cinco misiones de 3.900 a 4.900, escribe Wowhead en su [guía](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Subir de nivel en conjunto no es más rápido: del 1 al 20 se tarda de media 20,5 horas en Forever frente a 20,4 en Classic Era, dice Josh Greenfield en el [primer podcast de los desarrolladores](/es/news/a-first-developer-podcast-promises-fewer-blues/).

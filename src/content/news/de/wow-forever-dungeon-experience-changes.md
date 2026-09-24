@@ -20,3 +20,5 @@ Blizzard sagte das in einem Interview mit The Sun, meldet Wowhead. Der Grund: Da
 Die Erfahrungskurve selbst ändert sich nicht. Ein Charakter braucht für Stufe 60 genauso viel Erfahrung wie im ursprünglichen Classic. Was sich ändert, ist die Herkunft dieser Erfahrung, denn die neuen Zonen bieten andere Wege.
 
 Wie viel niedriger die Erfahrung aus Monstern liegt oder wie viel höher die aus den Quests, sagt Blizzard nicht.
+
+Die Beta gibt einen ersten Eindruck. In The Hall of Thanes bringt ein Monster 28 bis 30 Erfahrung und jede der fünf Quests 3.900 bis 4.900, schreibt Wowhead in seinem [Guide](/de/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Das Leveln als Ganzes geht nicht schneller: Von 1 bis 20 braucht man im Schnitt 20,5 Stunden in Forever gegenüber 20,4 in Classic Era, sagt Josh Greenfield im [ersten Podcast der Entwickler](/de/news/a-first-developer-podcast-promises-fewer-blues/).

@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever : date de sortie, bêta, feuille de route, Skyborne et éditions"
 description: "Tout ce que Blizzard a annoncé sur World of Warcraft: Forever : les dates, la feuille de route, les nouvelles zones, donjons et raids, les Skyborne, le système Legacy et les éditions."
 short: "WoW Forever"
-updated: 2026-09-15
+updated: 2026-09-24
 lang: fr
 manual: true
 faq:
@@ -60,6 +60,10 @@ sources:
     url: "https://www.wowhead.com/forever/news/blizzard-clarifies-krol-dok-stronghold-level-range-in-forever-382895"
   - name: "Wowhead, panel Hardcore"
     url: "https://www.wowhead.com/forever/news/whats-next-hardcore-panel-liveblog-382875"
+  - name: "Blizzard, The WoW: Forever Podcast, épisode 1"
+    url: "https://www.youtube.com/watch?v=m49-jvGPCkA"
+  - name: "Wowhead, The Hall of Thanes"
+    url: "https://www.wowhead.com/forever/news/the-hall-of-thanes-new-dungeon-walkthrough-for-wow-forever-382991"
 ---
 World of Warcraft: Forever est le Classic+ que Blizzard a annoncé à la BlizzCon 2026, le 12 septembre. C’est l’Azeroth d’origine, renouvelé et étendu, qui reste au niveau 60 pour de bon. De nouveaux patchs ajoutent histoires, donjons, raids et systèmes au niveau 60 et tout au long du parcours de 1 à 60. Forever sort le 4 novembre 2026 et est inclus dans l’abonnement à World of Warcraft.
 
@@ -180,6 +184,8 @@ La courbe d'expérience ne change pas : un personnage a besoin d'autant d'expér
 
 Les donjons fonctionnent autrement. L'expérience des monstres en donjon baisse et celle des quêtes de donjon monte fortement. Une première visite est rentable, une répétition beaucoup moins. Blizzard veut des joueurs dans le monde plutôt que dans le même donjon.
 
+Au total, cela s’équilibre. Passer du niveau 1 au niveau 20 prend en moyenne 20,5 heures dans Forever contre 20,4 dans Classic Era, dit Josh Greenfield dans le [premier podcast des développeurs](/fr/news/a-first-developer-podcast-promises-fewer-blues/). Le prochain build de la bêta donne aussi moins de récompenses de quête bleues en donjon, pour que le passage du blanc au vert puis au bleu se ressente comme dans Classic, dit Tim Jones.
+
 Il n'y a ni WoW Token ni boost, a dit l'Associate Production Director Clay Stone dans un entretien avec Destin. Le système de rattrapage reste « jouer au jeu ».
 
 Trois nouvelles routes maritimes relient des parties du monde qui n'avaient pas de liaison :
@@ -196,7 +202,7 @@ Les tranches de niveaux viennent de Blizzard, qui a publié la liste complète l
 
 | Donjon | Niveaux | Ce que c’est |
 |---|---|---|
-| The Hall of Thanes | 13 à 18 | Le Hall a été percé et l’Alliance protège ses anciens trésors, que la Horde voudrait peut-être pour elle. |
+| The Hall of Thanes | 13 à 18 | Le Hall a été percé et l’Alliance protège ses anciens trésors, que la Horde voudrait peut-être pour elle. Il se trouve dans Old Ironforge sous le High Seat, avec quatre boss et cinq quêtes : [le guide](/fr/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). |
 | Ruins of Lordaeron | 15 à 20 | La capitale en ruine, toujours pleine de Scourge. La Horde se bat pour la reprendre, et l’Alliance pourrait aussi trouver un chemin. |
 | Excavation Site: Wetlands | 24 à 29 | Des fouilles de l’Explorers' League dans les Wetlands. |
 | City of Dalaran | 28 à 33 | Un donjon urbain. La barrière d’après Warcraft III a disparu, mais le Kirin Tor ne contrôle pas la ville. |
@@ -224,7 +230,7 @@ Les raids qui ouvrent le jeu ne demandent aucun attunement, a déclaré Blizzard
 
 ## Les Skyborne
 
-Les Skyborne sont une nouvelle race d’elfes à la touche élémentaire. Leur foyer flottant, Zephras Isle, est menacé dans son existence, et leur ascendance commune a mené à des visions très différentes de l’avenir. Les Skyborne ne sont pas neutres : à la création du personnage, les joueurs choisissent une faction, et ce choix décide de la classe en plus. Entre eux, ils s’appellent les Shen'dorei.
+Les Skyborne sont une nouvelle race d’elfes à la touche élémentaire. Leur foyer flottant, Zephras Isle, est menacé dans son existence, et leur ascendance commune a mené à des visions très différentes de l’avenir. Les Skyborne ne sont pas neutres : à la création du personnage, les joueurs choisissent une faction, et ce choix décide de la classe en plus. Entre eux, ils s’appellent les Shen'dorei. Le choix de faction lie aussi les Skyborne de la Horde à l’Earthen Ring, avec une nouvelle zone en Mulgore, et ceux de l’Alliance au Kirin Tor, avec des quêtes et de la réputation dans les deux cas, dit Tim Jones.
 
 ### High Order Skyborne, Alliance
 
@@ -256,6 +262,8 @@ Les racials ont aussi été revus. Chaque race a désormais quatre racials, les 
 
 - **Transmogrification facultative.** Elle existe, mais chaque joueur choisit de la voir. Option désactivée, chacun montre son véritable équipement.
 - **Graphismes HD ou SD.** Personnages, modèles et monde passent du style d’origine à des visuels modernisés, avec un meilleur éclairage, un meilleur brouillard et une meilleure eau.
+- **Des layers avec des visages familiers.** Le nombre de joueurs par layer est fixé zone par zone. Le layering essaie aussi de placer les joueurs avec les gens avec qui ils ont groupé, leur guilde et leur liste d’amis, dit Josh Greenfield.
+- **Une interface en bronze.** L’aspect en bronze et patiné distingue Forever au premier coup d’œil de Classic et du WoW moderne. Un interrupteur vers l’interface de Classic n’est pas prévu, et les addons peuvent toujours la modifier, dit Tim Jones.
 - **Camping.** Les joueurs construisent des camps dans le monde que d’autres peuvent rejoindre. Les tradeskills s’y donnent des bonus, les équipements du camp se fabriquent et s’améliorent, et se reposer au camp donne des avantages.
 - **Main et Secondary names.** Le nom complet d’un personnage a deux parties. Les deux sont obligatoires, et un réglage décide si le nom complet s’affiche.
 - **Confort de jeu.** Mises à jour de la compétence de monte (les montures demandent toujours une compétence achetée en jeu), prise en charge des manettes, et l’application Battle.net sur Windows et Mac.

@@ -20,3 +20,5 @@ Blizzard l'a dit dans un entretien avec The Sun, rapporte Wowhead. La raison : l
 La courbe d'expérience elle-même ne change pas. Un personnage a besoin d'autant d'expérience pour atteindre le niveau 60 que dans le Classic d'origine. Ce qui change, c'est d'où vient cette expérience, car les nouvelles zones offrent d'autres chemins.
 
 De combien baisse l'expérience des monstres, et de combien monte celle des quêtes, Blizzard ne le dit pas.
+
+La bêta donne une première idée. Dans The Hall of Thanes, un monstre rapporte 28 à 30 points d’expérience et chacune des cinq quêtes 3 900 à 4 900, écrit Wowhead dans son [guide](/fr/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Le levelling dans son ensemble n’est pas plus rapide : passer de 1 à 20 prend en moyenne 20,5 heures dans Forever contre 20,4 dans Classic Era, dit Josh Greenfield dans le [premier podcast des développeurs](/fr/news/a-first-developer-podcast-promises-fewer-blues/).

@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: release date, beta, roadmap, Skyborne and editions"
 description: "Everything Blizzard has announced about World of Warcraft: Forever: the dates, the roadmap, the new zones, dungeons and raids, the Skyborne, the Legacy system and the editions."
 short: "WoW Forever"
-updated: 2026-09-15
+updated: 2026-09-24
 lang: en
 faq:
   - q: "What is World of Warcraft: Forever?"
@@ -59,6 +59,10 @@ sources:
     url: "https://www.wowhead.com/forever/news/blizzard-clarifies-krol-dok-stronghold-level-range-in-forever-382895"
   - name: "Wowhead, Hardcore panel"
     url: "https://www.wowhead.com/forever/news/whats-next-hardcore-panel-liveblog-382875"
+  - name: "Blizzard, The WoW: Forever Podcast, episode 1"
+    url: "https://www.youtube.com/watch?v=m49-jvGPCkA"
+  - name: "Wowhead, The Hall of Thanes"
+    url: "https://www.wowhead.com/forever/news/the-hall-of-thanes-new-dungeon-walkthrough-for-wow-forever-382991"
 ---
 World of Warcraft: Forever is the Classic+ that Blizzard announced at BlizzCon 2026 on 12 September. It is original Azeroth, renewed and expanded, and it stays at level 60 for good. New patches add stories, dungeons, raids and systems at level 60 and along the way from 1 to 60. Forever launches on 4 November 2026 and is included in a World of Warcraft subscription.
 
@@ -179,6 +183,8 @@ The experience curve does not change: a character needs the same amount to reach
 
 Dungeons work differently. Experience from monsters inside a dungeon goes down and experience from the dungeon quests goes up sharply. A first run through a dungeon pays off, a repeat run much less. Blizzard wants players out in the world instead of grinding the same dungeon.
 
+Overall it evens out. From level 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/). The next beta build also hands out fewer blue quest rewards in dungeons, so that the step from white to green to blue feels as it did in Classic, says Tim Jones.
+
 There is no WoW Token and no boost, said Associate Production Director Clay Stone in an interview with Destin. The catch-up system stays "play the game".
 
 Three new ship routes connect parts of the world that had no link before:
@@ -195,7 +201,7 @@ The level ranges come from Blizzard, which published the full list on 14 Septemb
 
 | Dungeon | Levels | What it is |
 |---|---|---|
-| The Hall of Thanes | 13 to 18 | The Hall has been breached and the Alliance protects its old treasures, which the Horde may want for itself. |
+| The Hall of Thanes | 13 to 18 | The Hall has been breached and the Alliance protects its old treasures, which the Horde may want for itself. It lies in Old Ironforge beneath the High Seat, with four bosses and five quests: [the walkthrough](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). |
 | Ruins of Lordaeron | 15 to 20 | The ruined capital, still full of Scourge. The Horde fights to take it back, and the Alliance may find a way in too. |
 | Excavation Site: Wetlands | 24 to 29 | A dig of the Explorers' League in the Wetlands. |
 | City of Dalaran | 28 to 33 | A city dungeon. The barrier from after Warcraft III is gone, but the Kirin Tor do not have the city under control. |
@@ -223,7 +229,7 @@ The raids that open the game ask for no attunement, Blizzard said in an intervie
 
 ## The Skyborne
 
-The Skyborne are a new race of elves with an elemental touch. Their floating home, Zephras Isle, faces a threat to its existence, and their shared ancestry has led to very different ideas about the future. The Skyborne are not neutral: at character creation, players choose a faction, and that choice decides the extra class. Among their own people they are called the Shen'dorei.
+The Skyborne are a new race of elves with an elemental touch. Their floating home, Zephras Isle, faces a threat to its existence, and their shared ancestry has led to very different ideas about the future. The Skyborne are not neutral: at character creation, players choose a faction, and that choice decides the extra class. Among their own people they are called the Shen'dorei. The faction choice also ties the Horde Skyborne to the Earthen Ring, with a new area in Mulgore, and the Alliance Skyborne to the Kirin Tor, both with quests and reputation, says Tim Jones.
 
 ### High Order Skyborne, Alliance
 
@@ -255,6 +261,8 @@ Racials were redesigned as well. Every race now has four racials, the resistance
 
 - **Optional transmog.** Transmog exists, but every player chooses whether to see it. With the option off, everyone shows their real gear.
 - **HD or SD graphics.** Characters, models and the world can switch between the original look and updated visuals, with better lighting, fog and water.
+- **Layers with familiar faces.** How many players fit on a layer is set per zone. Layering also tries to put players with the people they grouped with, their guild and their friends list, says Josh Greenfield.
+- **A bronze interface.** The bronze, weathered look sets Forever apart from Classic and modern WoW at a glance. A switch to the Classic interface is not planned, and addons can still change it, says Tim Jones.
 - **Camping.** Players build camps in the world that others can join. Tradeskills give each other buffs there, camp features are crafted and upgraded, and resting at a camp gives benefits.
 - **Main and Secondary names.** A full character name has two parts. Both are required, and a setting decides whether the full name is shown.
 - **Quality of life.** Updates to riding skill (mounts still need riding skill bought in the game), gamepad support, and the Battle.net app on Windows and Mac.
