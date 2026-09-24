@@ -17,7 +17,7 @@ Blizzard ha messo un nuovo client sui reami della beta di WoW Forever: 1.60.1 Bu
 
 Per averlo esci dalla beta, aggiorna il client nell’app Battle.net e rientra.
 
-Cosa è stato sistemato
+## Cosa è stato sistemato
 
 > Fixed some display issues and stability issues on Macs.
 > Controller navigation should now work more properly in the character selection screen if you launch with gamepad active.

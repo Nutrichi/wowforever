@@ -15,7 +15,7 @@ manual: true
 ---
 Drei Rare in den Barrens lassen jetzt Ausrüstung fallen, die zu einem Set gehört. Humar the Pridelord, Swiftmane und Takk the Leaper tragen je ein Teil von Blessing of Kalimdor, und zwei von dreien zu tragen gibt 5 Prozent Lauftempo in The Barrens und den Stonetalon Mountains. Wowhead fand es auf der Beta.
 
-Die drei Teile
+## Die drei Teile
 
 | Gegenstand | Platz | Gegenstandsstufe | Werte |
 |---|---|---|---|
@@ -25,7 +25,7 @@ Die drei Teile
 
 Das Set zählt drei Gegenstände und der Bonus greift schon bei zwei, das dritte ist also eine Wahl und keine Pflicht. Alle drei binden beim Aufheben.
 
-Warum das die Jagd auf einen Rare ändert
+## Warum das die Jagd auf einen Rare ändert
 
 Ein Rare ist in Classic ein Umweg: du tötest ihn, wenn du vorbeikommst, und die Beute ist meist ein blauer Gegenstand, der passt oder nicht. Ein Setbonus macht daraus ein Ziel. Drei Rare in einem Gebiet, eine bekannte Belohnung und ein Buff, der sich in dem Gebiet auszahlt, in dem du ohnehin levelst.
 

@@ -17,7 +17,7 @@ Einen höheren Rang eines Zaubers in WoW Forever zu kaufen, legt ihn nicht auf d
 
 Wowhead wies auf der Beta auf das Verhalten hin.
 
-Wen es trifft
+## Wen es trifft
 
 Nahkampfklassen, die auf Wut oder Energie laufen, etwa Warriors und Rogues, haben das Problem nicht. Ihre Leisten wechseln von selbst auf den höheren Rang, sobald sie ihn lernen.
 
@@ -25,7 +25,7 @@ Wer mit Mana zaubert, schon, und Nahkampfklassen mit manabasierten Fähigkeiten 
 
 Sieh also nach jedem Lehrerbesuch die Leisten durch. Einen Rang zu kaufen ist nicht dasselbe, wie ihn zu benutzen.
 
-Die niedrigen Ränge wiederfinden
+## Die niedrigen Ränge wiederfinden
 
 Das Zauberbuch blendet niedrigere Ränge standardmäßig aus. Fahr über den Pfeil oben rechts im Zauberbuch und wähle die Option, alle Ränge zu zeigen; dann erscheint die vollständige Liste, wie im Screenshot oben.
 

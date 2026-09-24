@@ -17,13 +17,13 @@ Een Kodo is een Horde-mount, en dat is hij al twintig jaar. In WoW Forever kan d
 
 De handelaar heet Huey Sunnydale. Merchant's Favor is de munt van de factie, en die koopt meer dan dit: crafting-recepten, andere mounts, toys en cosmetica.
 
-Hoe je hem verdient
+## Hoe je hem verdient
 
 De [Azeroth Commerce Authority](/nl/reputations/azeroth-commerce-authority/) is een van de twee bevoorradingsfacties die nieuw zijn in Forever; de andere is Durotar Supply and Logistics aan de kant van de Horde. Je loot kisten in de wereld, zoals de Waylaid Crate: Apprentice Textiles, vult ze en levert ze in. Elke inlevering betaalt Merchant's Favor.
 
 Beide namen komen uit Season of Discovery, waar supply crates op een vergelijkbare manier werkten en in de eerste fasen veel uitmaakten. Blizzard heeft niet gezegd dat het systeem ongewijzigd overkomt.
 
-Waarom een Kodo hier telt
+## Waarom een Kodo hier telt
 
 De Alliance had er precies een voor deze: de Great Brewfest Kodo, uit het festival in The Burning Crusade, en alleen voor wie geluk had. Een mount waar je gewoon naartoe kan werken, is iets anders.
 

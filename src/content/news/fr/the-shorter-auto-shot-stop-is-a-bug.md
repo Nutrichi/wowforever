@@ -19,13 +19,13 @@ L’arrêt bien plus court avant un Auto-Shot n’est pas un choix de conception
 
 C’est Blizzard sur le forum. Le comportement voulu est la demi-seconde de Classic.
 
-Ce que les joueurs avaient mesuré
+## Ce que les joueurs avaient mesuré
 
 L’arrêt plus court [est apparu sur la bêta le 21 septembre](/fr/news/auto-shot-and-wanding-need-a-shorter-stop/), où des joueurs ont filmé la même capacité dans Forever et dans Classic Era côte à côte. Le swing timer montrait la différence, et on supposait que Blizzard avait assoupli la règle pour faciliter le kiting.
 
 Cela semblait volontaire, car cela colle au reste de Forever, où bien des petites frictions ont été lissées. Ce ne l’était pas.
 
-Ce que cela change pour le kiting
+## Ce que cela change pour le kiting
 
 Un Hunter qui construit un build autour du déplacement et du tir ne devrait pas s’appuyer sur ce que fait la bêta aujourd’hui. Une fois la demi-seconde revenue, la fenêtre pour bouger entre deux tirs se referme, et le kiting retrouve le timing que connaissent les joueurs de Classic.
 

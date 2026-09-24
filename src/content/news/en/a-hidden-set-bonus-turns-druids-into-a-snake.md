@@ -16,7 +16,7 @@ The Embrace of the Viper set from Wailing Caverns hides a bonus that its own too
 
 The set drops in Wailing Caverns, five pieces in total, each from a different creature in the dungeon. Wearing more of them unlocks the ordinary stat bonuses, which are listed. The five-piece effect is not.
 
-Who found it
+## Who found it
 
 The player Noah posted the discovery, writes Wowhead.
 
@@ -32,7 +32,7 @@ The player Noah posted the discovery, writes Wowhead.
 
 Zirene, Senior Game Designer at Blizzard, added that the snake colour changes for every Druid race and that the form carries its own stealth animation for Prowl and Stealth, writes Wowhead.
 
-Why this is more than a joke
+## Why this is more than a joke
 
 Blizzard said repeatedly at BlizzCon that Forever aims at horizontal progression: reasons to keep playing that are not a higher item level. A cosmetic effect at the end of a low-level dungeon set is exactly that. The set is a real power gain while levelling, and the snake is a reason to go back for the last piece long after the gear stops mattering.
 

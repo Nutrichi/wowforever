@@ -17,19 +17,19 @@ Blizzard ha publicado los detalles de los Skyborne, la nueva raza jugable de WoW
 
 Empiezan en Zephras Isle, una zona de inicio nueva para los niveles 1 a 12.
 
-De dónde vienen
+## De dónde vienen
 
 Hace miles de años, un grupo de Highborne exiliados selló un pacto con espíritus elementales del viento y levantó una civilización dentro de Skywall, uno de los planos elementales. Esa civilización está en crisis cuando llegas. Los espíritus del viento que protegían la isla han desaparecido, las estructuras antiguas fallan, hay comunidades aisladas y los Skyborne no se ponen de acuerdo sobre qué hacer.
 
 Ese desacuerdo es la división entre facciones. Los Windshapers, del lado de la Horda, se aferran a las tradiciones elementales y quieren que vuelvan los espíritus. El High Order, del lado de la Alianza y descendiente de los eruditos Highborne de Eldre'Thalas, concluyó que depender de los espíritus los dejaba expuestos y vuelve a lo arcano.
 
-Los rasgos raciales
+## Los rasgos raciales
 
 Ambos bandos comparten Walk on Air, que permite planear hacia abajo durante 10 segundos, y dos pasivos: Wind Blessed, un 1 por ciento de Haste en cuerpo a cuerpo, a distancia y al lanzar, y Elemental Insight, un 5 por ciento más de daño a los Elementals.
 
 El cuarto cambia. Los Windshapers reciben Skysight, una Elemental Blessing que sube la velocidad de carrera un 10 por ciento. El High Order recibe Read Ley Line, que activa una ley line para un 100 por ciento más de regeneración de Health y Mana.
 
-Qué puedes cambiar
+## Qué puedes cambiar
 
 El body type 1 trae diez caras, nueve tonos de piel del azul cielo a tonos claros y más oscuros, 21 peinados, once colores de pelo, tres largos de oreja, nueve colores de ojos y cuatro formas de ceja. Debajo hay trece opciones de vello facial, colores de pluma que pueden recorrer también el pelo, cuatro tatuajes faciales y dos colores de tatuaje.
 

@@ -17,7 +17,7 @@ Blizzard ha pubblicato le combinazioni di razza e classe per WoW Forever. Sei ac
 
 L’elenco è uscito in un post sul blog dedicato alla creazione del personaggio, che copre anche i tratti razziali.
 
-Orda
+## Orda
 
 | Race | Classes |
 |---|---|
@@ -27,7 +27,7 @@ Orda
 | Undead | Mage, Paladin, Priest, Rogue, Warlock, Warrior |
 | Windshaper Skyborne | Druid, Hunter, Rogue, Shaman, Warrior |
 
-Alleanza
+## Alleanza
 
 | Race | Classes |
 |---|---|
@@ -37,7 +37,7 @@ Alleanza
 | Night Elf | Druid, Hunter, Priest, Rogue, Warrior |
 | High Order Skyborne | Druid, Hunter, Mage, Rogue, Warrior |
 
-Cosa c’è di nuovo
+## Cosa c’è di nuovo
 
 Blizzard cita sei combinazioni assenti da Classic: Orc Mage, Troll Warlock, Undead Paladin, Human Hunter, Gnome Priest e Dwarf Shaman. Gli Skyborne sono del tutto nuovi.
 

@@ -16,7 +16,7 @@ Wowhead has added the boat and zeppelin routes of WoW Forever to its Azeroth map
 
 Forever adds [three ship routes](/news/wow-forever-three-new-ship-routes/) on top of the ones Classic has. Stormwind Harbor gains a connection to Auberdine, a second runs from Menethil to Southshore and on to Auberdine, and a third links the new zone The Riverglades to Steamwheedle Port, which in turn connects to Gadgetzan in Tanaris.
 
-Why a map helps here
+## Why a map helps here
 
 Classic players know the zeppelin towers by heart, but Forever changes the picture. A new zone means new docks, and a route that existed for twenty years may now end somewhere else.
 

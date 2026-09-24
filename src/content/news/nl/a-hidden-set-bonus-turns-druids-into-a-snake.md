@@ -17,7 +17,7 @@ De set Embrace of the Viper uit Wailing Caverns verbergt een bonus die zijn eige
 
 De set valt in Wailing Caverns, vijf stukken in totaal, elk bij een ander wezen in de dungeon. Meer stukken dragen speelt de gewone statbonussen vrij, en die staan er wel bij. Het effect op vijf stukken niet.
 
-Wie het vond
+## Wie het vond
 
 De speler Noah plaatste de vondst, schrijft Wowhead.
 
@@ -33,7 +33,7 @@ De speler Noah plaatste de vondst, schrijft Wowhead.
 
 Zirene, Senior Game Designer bij Blizzard, voegde eraan toe dat de kleur van de slang per Druid-race verschilt en dat de vorm een eigen sluipanimatie draagt voor Prowl en Stealth, schrijft Wowhead.
 
-Waarom dit meer is dan een grap
+## Waarom dit meer is dan een grap
 
 Blizzard zei op BlizzCon meermaals dat Forever mikt op horizontale voortgang: redenen om te blijven spelen die niet in een hoger item level zitten. Een cosmetisch effect aan het eind van een set uit een dungeon op laag level is precies dat. De set is bij het levelen een echte winst, en de slang is een reden om voor dat laatste stuk terug te gaan lang nadat de gear er niet meer toe doet.
 

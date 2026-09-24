@@ -17,13 +17,13 @@ Le camping est l’un des nouveaux systèmes de WoW Forever, et chaque tradeskil
 
 Wowhead a dressé la liste complète depuis la bêta. Blizzard n’a pas publié les chiffres.
 
-Comment y accéder
+## Comment y accéder
 
 Une quête du début de partie, The Great Outdoors, déverrouille les perks. Ensuite, un buff nommé Campfire Nearby apparaît sur votre barre dès que vous approchez d’un camp posé par quelqu’un. Allez-y, tapez /sit et restez une minute.
 
 C’est toute l’astuce sociale du système : un camp laissé par un inconnu marche aussi pour vous.
 
-Ce que donne chaque tradeskill
+## Ce que donne chaque tradeskill
 
 | Tradeskill | Le buff | Tier 1 | Tier 2 | Tier 3 |
 |---|---|---|---|---|

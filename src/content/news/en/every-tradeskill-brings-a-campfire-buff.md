@@ -16,13 +16,13 @@ Camping is one of the new systems in WoW Forever, and every tradeskill feeds it.
 
 Wowhead listed the full set from the beta. Blizzard has not published the numbers.
 
-How you get at it
+## How you get at it
 
 A quest early in the game, The Great Outdoors, unlocks the perks. After that, a buff called Campfire Nearby appears on your bar whenever you come near a camp someone has placed. Walk over, type /sit and stay put for a minute.
 
 That is the whole social trick of the system: a camp left standing by a stranger works for you too.
 
-What each tradeskill gives
+## What each tradeskill gives
 
 | Tradeskill | The buff | Tier 1 | Tier 2 | Tier 3 |
 |---|---|---|---|---|

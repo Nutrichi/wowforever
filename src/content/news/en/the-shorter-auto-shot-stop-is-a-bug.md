@@ -18,13 +18,13 @@ The much shorter stop before an Auto-Shot is not a design change. It is a bug. B
 
 That is Blizzard on the forums. The intended behaviour is the half second that Classic has.
 
-What players had measured
+## What players had measured
 
 The shorter stop [turned up on the beta on 21 September](/news/auto-shot-and-wanding-need-a-shorter-stop/), where players filmed the same ability in Forever and in Classic Era side by side. The swing timer showed the difference, and the assumption was that Blizzard had loosened the rule to make kiting easier.
 
 It looked deliberate because it fits the rest of Forever, where plenty of small frictions have been smoothed. It was not.
 
-What this means for kiting
+## What this means for kiting
 
 A Hunter who plans a build around moving and shooting should not lean on what the beta does right now. Once the half second is back, the window to move between shots closes again, and kiting goes back to the timing Classic players know.
 

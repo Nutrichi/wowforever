@@ -17,11 +17,11 @@ Legacy Points zijn de voortgang over de hele account in WoW Forever, en de telli
 
 Wowhead zette de lijst samen uit de beta. Blizzard heeft geen volledige tabel gepubliceerd.
 
-Waar de punten vandaan komen
+## Waar de punten vandaan komen
 
 Elke class naar 25, dan 45, dan 60 telt als drie aparte uitdagingen. Elke tradeskill naar 150, 225 en 300 doet hetzelfde. Daarnaast: PvP Honor-rang, Exalted bij de battlegroundfacties, dungeons uitspelen, raids uitspelen en Azeroth verkennen. Elk daarvan geeft één punt.
 
-Drie bomen, en wat afleren kost
+## Drie bomen, en wat afleren kost
 
 De bomen heten Professions, Adventure en Resourcefulness. Punten gaan waar je wil, en een class trainer leert de hele hoop af voor 10 goud, dus een verkeerde keuze is niet blijvend.
 
@@ -40,7 +40,7 @@ Dedicated Study is de vreemde eend. Hij heeft een casttijd van 25 seconden en ee
 
 Performance Bonus wijst naar de twee facties die nieuw zijn in Forever: de Azeroth Commerce Authority en Durotar Supply and Logistics, die in Merchant's Favor handelen.
 
-Wat je onderweg vrijspeelt
+## Wat je onderweg vrijspeelt
 
 Cosmetica komen op 15, 25, 40 en 55 punten. Die op 55 is de Reins of the Spectral Bear.
 

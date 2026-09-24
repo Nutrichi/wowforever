@@ -156,15 +156,15 @@ La aventura abarca los Eastern Kingdoms y Kalimdor, con regiones nuevas, rincone
 
 ### Zephras Isle, niveles 1 a 12
 
-La zona inicial de los Skyborne: una isla apartada en el cielo que ahora ve amenazada su existencia. El estilo es el del Warcraft clásico, con arquitectura inspirada en Skywall. Para jugar allí hace falta el Skyborne Heroic Pack o una edición superior.
+La zona inicial de los Skyborne: una isla apartada en el cielo que ahora ve amenazada su existencia. El estilo es el del Warcraft clásico, con arquitectura inspirada en Skywall. Para jugar allí hace falta el Skyborne Heroic Pack o una edición superior. Los Druids y Shamans de la Horda pueden conseguir allí una reliquia a nivel 5, con la misión Meddlesome Mages. La Alianza no puede aceptar esa misión, descubrió Wowhead en la beta.
 
 ### The Riverglades, hacia los niveles 30 a 45
 
-Una nueva frontera en los Eastern Kingdoms, con ríos, praderas, rutas comerciales y fortalezas en ruinas. Tiene más de 150 misiones nuevas, reputaciones nuevas y recompensas. Allí viven humanos, orcos, ogros y pequeñas comunidades con viejos rencores; Blizzard la describió como «not a story about saving Azeroth, a story about living there». Un puerto goblin neutral añade rutas de viaje, y la zona tiene su propia mazmorra.
+Una nueva frontera en los Eastern Kingdoms, con ríos, praderas, rutas comerciales y fortalezas en ruinas. Tiene más de 150 misiones nuevas, reputaciones nuevas y recompensas. Allí viven humanos, orcos, ogros y pequeñas comunidades con viejos rencores; Blizzard la describió como «not a story about saving Azeroth, a story about living there». Un puerto goblin neutral añade rutas de viaje, y la zona tiene su propia mazmorra. Una bifurcación en Redridge Mountains que antes acababa en un callejón sin salida lleva ahora hasta allí. Los jugadores de la Alianza encuentran a la Brotherhood of the Horse, que no se veía desde Warcraft II, y los de la Horda un clan de ogros; el Twilight's Hammer es la amenaza, según [un vídeo de Blizzard](/es/news/a-five-minute-video-sums-up-what-changes/) del 23 de septiembre.
 
 ### Mount Hyjal, subida de final de juego
 
-Lo que ocurrió tras la derrota de Archimonde, incluida Darkwhisper Gorge. Mount Hyjal tiene contenido en solitario y en grupo, reputaciones, misiones y recompensas nuevas. Allí están la banda Hyjal Summit y una de las tres entradas a los Barrow Deeps.
+Lo que ocurrió tras la derrota de Archimonde, incluida Darkwhisper Gorge. Mount Hyjal tiene contenido en solitario y en grupo, reputaciones, misiones y recompensas nuevas. Allí están la banda Hyjal Summit y una de las tres entradas a los Barrow Deeps. Es el final de la subida de nivel. Allí hay un campamento de la Horda y la Alianza juntas, atrapadas en el mismo lugar y obligadas a una paz incómoda.
 
 ### Shen'dralas, una región nueva
 
@@ -172,7 +172,7 @@ Una región oculta entre Mulgore y Desolace, ligada a los Shen'dralar, los Night
 
 ### El viejo mundo con una nueva luz
 
-El Associate Production Director Clay Stone dijo que el estilo artístico de Classic es atemporal y que no se sustituye. Los efectos existentes mejoran: ríos que fluyen, niebla más natural, luz de luna entre los árboles y entornos renovados. Blizzard mostró Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore y The Barrens. Las zonas originales reciben también misiones y secretos nuevos.
+El Associate Production Director Clay Stone dijo que el estilo artístico de Classic es atemporal y que no se sustituye. Los efectos existentes mejoran: ríos que fluyen, niebla más natural, luz de luna entre los árboles y entornos renovados. Blizzard mostró Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore y The Barrens. Las zonas originales reciben también misiones y secretos nuevos. Siguen una lluvia y una niebla más intensas: el 23 de septiembre Blizzard mostró un día lluvioso en Elwynn Forest, con efectos que llegarán pronto a la beta.
 
 ## Subir de nivel y viajar
 
@@ -208,7 +208,7 @@ Los tramos de nivel vienen de Blizzard, que publicó la lista completa el 14 de 
 
 ### Barrow Deeps, 10 jugadores
 
-La primera banda para 10 jugadores, con tres entradas repartidas por el mundo, una de ellas en Mount Hyjal. Los Night Elves guardan allí prisioneros peligrosos, entre ellos «one particularly infamous character we probably aren't prepared to deal with yet», según Blizzard. Se abre el 9 de diciembre.
+La primera banda para 10 jugadores, con tres entradas repartidas por el mundo, una de ellas en Mount Hyjal. Los Night Elves guardan allí prisioneros peligrosos, entre ellos «one particularly infamous character we probably aren't prepared to deal with yet», según Blizzard. Se abre el 9 de diciembre. Tiene ocho jefes y está bajo Mount Hyjal, según el vídeo de Blizzard del 23 de septiembre.
 
 ### Hyjal Summit, 20 jugadores
 
@@ -224,7 +224,7 @@ Las raids con las que abre el juego no piden attunement, dijo Blizzard en una en
 
 ## Los Skyborne
 
-Los Skyborne son una nueva raza de elfos con un toque elemental. Su hogar flotante, Zephras Isle, ve amenazada su existencia, y su ascendencia común ha llevado a ideas muy distintas sobre el futuro. Los Skyborne no son neutrales: al crear el personaje, los jugadores eligen facción, y esa elección decide la clase extra.
+Los Skyborne son una nueva raza de elfos con un toque elemental. Su hogar flotante, Zephras Isle, ve amenazada su existencia, y su ascendencia común ha llevado a ideas muy distintas sobre el futuro. Los Skyborne no son neutrales: al crear el personaje, los jugadores eligen facción, y esa elección decide la clase extra. Entre los suyos se llaman Shen'dorei.
 
 ### High Order Skyborne, Alliance
 

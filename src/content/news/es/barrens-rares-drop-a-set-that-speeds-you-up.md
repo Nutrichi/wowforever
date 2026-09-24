@@ -15,7 +15,7 @@ manual: true
 ---
 Tres raros de The Barrens sueltan ahora equipo de un conjunto. Humar the Pridelord, Swiftmane y Takk the Leaper llevan cada uno una pieza de Blessing of Kalimdor, y llevar dos de las tres da un 5 por ciento de velocidad de movimiento en The Barrens y Stonetalon Mountains. Wowhead lo encontró en la beta.
 
-Las tres piezas
+## Las tres piezas
 
 | Objeto | Ranura | Nivel de objeto | Estadísticas |
 |---|---|---|---|
@@ -25,7 +25,7 @@ Las tres piezas
 
 El conjunto tiene tres objetos y el bonus salta ya con dos, así que el tercero es una elección y no un requisito. Los tres se ligan al recogerlos.
 
-Por qué cambia el farmeo de un raro
+## Por qué cambia el farmeo de un raro
 
 En Classic un raro es un desvío: lo matas si pasas por delante, y el botín suele ser un azul que encaja o no. Un bonus de conjunto lo convierte en un objetivo. Tres raros en una zona, una recompensa conocida y un efecto que rinde en la zona donde ya estás subiendo.
 

@@ -17,13 +17,13 @@ Ein Kodo ist ein Reittier der Horde, und das seit zwanzig Jahren. In WoW Forever
 
 Der Händler heißt Huey Sunnydale. Merchant's Favor ist die Währung der Fraktion, und sie kauft mehr als das: Handwerksrezepte, andere Reittiere, Spielzeug und Kosmetik.
 
-Wie man sie verdient
+## Wie man sie verdient
 
 Die [Azeroth Commerce Authority](/de/reputations/azeroth-commerce-authority/) ist eine der beiden Nachschubfraktionen, die es nur in Forever gibt; die andere ist Durotar Supply and Logistics auf Seiten der Horde. Du sammelst Kisten in der Welt, etwa die Waylaid Crate: Apprentice Textiles, füllst sie und gibst sie ab. Jede Abgabe zahlt Merchant's Favor.
 
 Beide Namen stammen aus Season of Discovery, wo Nachschubkisten vergleichbar funktionierten und in den frühen Phasen viel ausmachten. Blizzard hat nicht gesagt, dass das System unverändert übernommen wird.
 
-Warum ein Kodo hier zählt
+## Warum ein Kodo hier zählt
 
 Die Allianz hatte davor genau einen: den Great Brewfest Kodo aus dem Fest in The Burning Crusade, und nur für den, der Glück hatte. Ein Reittier, auf das man einfach hinarbeiten kann, ist etwas anderes.
 

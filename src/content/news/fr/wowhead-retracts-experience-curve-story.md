@@ -23,7 +23,7 @@ Cette phrase vient de Blainie, qui dirige la rédaction de Wowhead, dans une not
 
 Wowhead laisse l’article en ligne avec le retrait en tête, plutôt que de le supprimer.
 
-Ce qui a bien changé
+## Ce qui a bien changé
 
 L’expérience en donjon est un autre sujet, et ce changement est confirmé. Blizzard a dit à la BlizzCon que l’expérience tirée des monstres en donjon baisse et que celle des quêtes de donjon augmente fortement. De nouvelles zones et plus de 1 000 nouvelles quêtes ajoutent en outre des chemins vers 60 que Classic n’avait pas.
 

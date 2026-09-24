@@ -156,15 +156,15 @@ Het avontuur speelt in de Eastern Kingdoms en Kalimdor, met nieuwe regio's, onaf
 
 ### Zephras Isle, level 1 tot 12
 
-De startzone van de Skyborne: een afgelegen eiland in de lucht dat nu in zijn bestaan bedreigd wordt. De stijl is klassiek Warcraft, met architectuur geïnspireerd op Skywall. Wie daar wil spelen, heeft het Skyborne Heroic Pack of een hogere editie nodig.
+De startzone van de Skyborne: een afgelegen eiland in de lucht dat nu in zijn bestaan bedreigd wordt. De stijl is klassiek Warcraft, met architectuur geïnspireerd op Skywall. Wie daar wil spelen, heeft het Skyborne Heroic Pack of een hogere editie nodig. Druids en Shamans van de Horde kunnen er op level 5 een relic krijgen, via de quest Meddlesome Mages. De Alliance kan die quest niet aannemen, ontdekte Wowhead op de beta.
 
 ### The Riverglades, ongeveer level 30 tot 45
 
-Een nieuw grensgebied in de Eastern Kingdoms, met rivieren, graslanden, handelsroutes en vervallen burchten. Er zijn meer dan 150 nieuwe quests, nieuwe reputaties en beloningen. Mensen, orcs, ogres en kleine gemeenschappen met oude vetes wonen er; Blizzard noemde het "not a story about saving Azeroth, a story about living there". Een neutrale goblinhaven voegt reisroutes toe, en de zone krijgt een eigen dungeon.
+Een nieuw grensgebied in de Eastern Kingdoms, met rivieren, graslanden, handelsroutes en vervallen burchten. Er zijn meer dan 150 nieuwe quests, nieuwe reputaties en beloningen. Mensen, orcs, ogres en kleine gemeenschappen met oude vetes wonen er; Blizzard noemde het "not a story about saving Azeroth, a story about living there". Een neutrale goblinhaven voegt reisroutes toe, en de zone krijgt een eigen dungeon. Een splitsing in Redridge Mountains die vroeger doodliep, leidt er nu naartoe. Spelers van de Alliance treffen de Brotherhood of the Horse, die sinds Warcraft II niet meer te zien was, en spelers van de Horde een ogerclan; de Twilight's Hammer is de dreiging, volgens [een video van Blizzard](/nl/news/a-five-minute-video-sums-up-what-changes/) van 23 september.
 
 ### Mount Hyjal, levelen in het endgame
 
-Wat er gebeurde na de nederlaag van Archimonde, met onder meer Darkwhisper Gorge. Mount Hyjal heeft inhoud voor alleen en in groep, nieuwe reputaties, quests en beloningen. Er liggen de raid Hyjal Summit en een van de drie ingangen van de Barrow Deeps.
+Wat er gebeurde na de nederlaag van Archimonde, met onder meer Darkwhisper Gorge. Mount Hyjal heeft inhoud voor alleen en in groep, nieuwe reputaties, quests en beloningen. Er liggen de raid Hyjal Summit en een van de drie ingangen van de Barrow Deeps. Het is de finale van het levelen. Er ligt een kamp van Horde en Alliance samen, vast op dezelfde plek en gedwongen tot een wankele vrede.
 
 ### Shen'dralas, een nieuwe regio
 
@@ -172,7 +172,7 @@ Een verborgen regio tussen Mulgore en Desolace, verbonden met de Shen'dralar, de
 
 ### De oude wereld in een nieuw licht
 
-Associate Production Director Clay Stone zei dat de kunststijl van Classic tijdloos is en niet vervangen wordt. Bestaande effecten worden wel beter: stromende rivieren, natuurlijkere mist, maanlicht door de bomen en opgewaardeerde omgevingen. Blizzard toonde Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore en The Barrens. De originele zones krijgen ook nieuwe quests en geheimen.
+Associate Production Director Clay Stone zei dat de kunststijl van Classic tijdloos is en niet vervangen wordt. Bestaande effecten worden wel beter: stromende rivieren, natuurlijkere mist, maanlicht door de bomen en opgewaardeerde omgevingen. Blizzard toonde Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore en The Barrens. De originele zones krijgen ook nieuwe quests en geheimen. Zwaardere regen en mist volgen: op 23 september toonde Blizzard een regenachtige dag in Elwynn Forest, met effecten die binnenkort naar de beta komen.
 
 ## Levelen en reizen
 
@@ -208,7 +208,7 @@ De levelbereiken komen van Blizzard, dat de volledige lijst op 14 september 2026
 
 ### Barrow Deeps, 10 spelers
 
-De eerste raid voor 10 spelers, met drie ingangen verspreid over de wereld, waarvan een op Mount Hyjal. De Night Elves houden er gevaarlijke gevangenen vast, onder wie "one particularly infamous character we probably aren't prepared to deal with yet", aldus Blizzard. De raid opent op 9 december.
+De eerste raid voor 10 spelers, met drie ingangen verspreid over de wereld, waarvan een op Mount Hyjal. De Night Elves houden er gevaarlijke gevangenen vast, onder wie "one particularly infamous character we probably aren't prepared to deal with yet", aldus Blizzard. De raid opent op 9 december. Hij telt acht bazen en ligt onder Mount Hyjal, volgens de video van Blizzard van 23 september.
 
 ### Hyjal Summit, 20 spelers
 
@@ -224,7 +224,7 @@ De raids waarmee het spel opent, vragen geen attunement, zei Blizzard in een int
 
 ## De Skyborne
 
-De Skyborne zijn een nieuw ras van elfen met een elementaire inslag. Hun zwevende thuis, Zephras Isle, wordt in zijn bestaan bedreigd, en hun gedeelde afkomst heeft geleid tot heel verschillende ideeën over de toekomst. De Skyborne zijn niet neutraal: bij het maken van een personage kiezen spelers een factie, en die keuze bepaalt de extra class.
+De Skyborne zijn een nieuw ras van elfen met een elementaire inslag. Hun zwevende thuis, Zephras Isle, wordt in zijn bestaan bedreigd, en hun gedeelde afkomst heeft geleid tot heel verschillende ideeën over de toekomst. De Skyborne zijn niet neutraal: bij het maken van een personage kiezen spelers een factie, en die keuze bepaalt de extra class. Onder elkaar heten ze de Shen'dorei.
 
 ### High Order Skyborne, Alliance
 

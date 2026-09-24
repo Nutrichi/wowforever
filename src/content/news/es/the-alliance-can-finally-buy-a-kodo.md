@@ -17,13 +17,13 @@ Un Kodo es una montura de la Horda, y lo es desde hace veinte años. En WoW Fore
 
 El vendedor se llama Huey Sunnydale. Merchant's Favor es la moneda de la facción, y compra más que esto: recetas de artesanía, otras monturas, juguetes y cosméticos.
 
-Cómo se consigue
+## Cómo se consigue
 
 La [Azeroth Commerce Authority](/es/reputations/azeroth-commerce-authority/) es una de las dos facciones de suministro propias de Forever; la otra es Durotar Supply and Logistics en el lado de la Horda. Recoges cajas por el mundo, como la Waylaid Crate: Apprentice Textiles, las llenas y las entregas. Cada entrega paga Merchant's Favor.
 
 Ambos nombres vienen de Season of Discovery, donde las cajas de suministro funcionaban de forma parecida y pesaron mucho en las primeras fases. Blizzard no ha dicho que el sistema vuelva sin cambios.
 
-Por qué aquí importa un Kodo
+## Por qué aquí importa un Kodo
 
 La Alianza había tenido exactamente uno antes: el Great Brewfest Kodo, de la fiesta de The Burning Crusade, y solo para quien tuviera suerte. Una montura hacia la que simplemente puedes trabajar es otra cosa.
 

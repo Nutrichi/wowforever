@@ -19,13 +19,13 @@ La pausa molto più corta prima di un Auto-Shot non è una scelta di design. È 
 
 Questo è Blizzard sul forum. Il comportamento voluto è il mezzo secondo di Classic.
 
-Cosa avevano misurato i giocatori
+## Cosa avevano misurato i giocatori
 
 La pausa più corta [è comparsa sulla beta il 21 settembre](/it/news/auto-shot-and-wanding-need-a-shorter-stop/), dove i giocatori hanno filmato la stessa abilità in Forever e in Classic Era fianco a fianco. Lo swing timer mostrava la differenza, e si supponeva che Blizzard avesse allentato la regola per rendere più facile il kiting.
 
 Sembrava voluto, perché si accorda con il resto di Forever, dove molti piccoli attriti sono stati smussati. Non lo era.
 
-Cosa significa per il kiting
+## Cosa significa per il kiting
 
 Un Hunter che costruisce una build attorno al muoversi e sparare non dovrebbe appoggiarsi a quello che la beta fa adesso. Quando il mezzo secondo torna, la finestra per muoversi tra due colpi si richiude, e il kiting torna al ritmo che i giocatori di Classic conoscono.
 

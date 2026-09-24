@@ -155,15 +155,15 @@ The adventure covers the Eastern Kingdoms and Kalimdor, with new regions, unfini
 
 ### Zephras Isle, levels 1 to 12
 
-The starting zone of the Skyborne: a secluded island in the sky that now faces a threat to its existence. The look is classic Warcraft, with architecture inspired by Skywall. Playing there requires the Skyborne Heroic Pack or a higher edition.
+The starting zone of the Skyborne: a secluded island in the sky that now faces a threat to its existence. The look is classic Warcraft, with architecture inspired by Skywall. Playing there requires the Skyborne Heroic Pack or a higher edition. Horde Druids and Shamans can get a relic there at level 5, through the quest Meddlesome Mages. The Alliance cannot take that quest, Wowhead found on the beta.
 
 ### The Riverglades, about levels 30 to 45
 
-A new frontier in the Eastern Kingdoms, with rivers, grasslands, trade routes and ruined keeps. It has more than 150 new quests, new reputations and rewards. Humans, orcs, ogres and small communities with old grudges live there; Blizzard called it "not a story about saving Azeroth, a story about living there". A neutral goblin port adds travel routes, and the zone gets its own dungeon.
+A new frontier in the Eastern Kingdoms, with rivers, grasslands, trade routes and ruined keeps. It has more than 150 new quests, new reputations and rewards. Humans, orcs, ogres and small communities with old grudges live there; Blizzard called it "not a story about saving Azeroth, a story about living there". A neutral goblin port adds travel routes, and the zone gets its own dungeon. A fork in Redridge Mountains that used to be a dead end now leads there. Alliance players meet the Brotherhood of the Horse, not seen since Warcraft II, and Horde players an ogre clan; the Twilight's Hammer is the threat, according to [a Blizzard video](/news/a-five-minute-video-sums-up-what-changes/) of 23 September.
 
 ### Mount Hyjal, endgame leveling
 
-What happened after the defeat of Archimonde, including Darkwhisper Gorge. Mount Hyjal has solo and group content, new reputations, quests and rewards. It holds the Hyjal Summit raid and one of the three entrances to the Barrow Deeps.
+What happened after the defeat of Archimonde, including Darkwhisper Gorge. Mount Hyjal has solo and group content, new reputations, quests and rewards. It holds the Hyjal Summit raid and one of the three entrances to the Barrow Deeps. It is the finale of levelling. A camp of Horde and Alliance sits there together, trapped in the same place and forced into an uneasy peace.
 
 ### Shen'dralas, a new region
 
@@ -171,7 +171,7 @@ A hidden region between Mulgore and Desolace, tied to the Shen'dralar, the Night
 
 ### The old world in a new light
 
-Associate Production Director Clay Stone said the Classic art style is timeless and is not being replaced. Existing effects get better instead: flowing rivers, more natural fog, moonlight through the trees and upgraded surroundings. Blizzard showed Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore and The Barrens. The original zones also get new quests and secrets.
+Associate Production Director Clay Stone said the Classic art style is timeless and is not being replaced. Existing effects get better instead: flowing rivers, more natural fog, moonlight through the trees and upgraded surroundings. Blizzard showed Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore and The Barrens. The original zones also get new quests and secrets. Heavier rain and fog follow: on 23 September Blizzard showed a rainy day in Elwynn Forest, with the effects coming soon to the beta.
 
 ## Leveling and travel
 
@@ -207,7 +207,7 @@ The level ranges come from Blizzard, which published the full list on 14 Septemb
 
 ### Barrow Deeps, 10 players
 
-The first raid for 10 players, with three entrances across the world, one of them on Mount Hyjal. The Night Elves keep dangerous prisoners there, including "one particularly infamous character we probably aren't prepared to deal with yet", according to Blizzard. It opens on 9 December.
+The first raid for 10 players, with three entrances across the world, one of them on Mount Hyjal. The Night Elves keep dangerous prisoners there, including "one particularly infamous character we probably aren't prepared to deal with yet", according to Blizzard. It opens on 9 December. It has eight bosses and lies beneath Mount Hyjal, according to the Blizzard video of 23 September.
 
 ### Hyjal Summit, 20 players
 
@@ -223,7 +223,7 @@ The raids that open the game ask for no attunement, Blizzard said in an intervie
 
 ## The Skyborne
 
-The Skyborne are a new race of elves with an elemental touch. Their floating home, Zephras Isle, faces a threat to its existence, and their shared ancestry has led to very different ideas about the future. The Skyborne are not neutral: at character creation, players choose a faction, and that choice decides the extra class.
+The Skyborne are a new race of elves with an elemental touch. Their floating home, Zephras Isle, faces a threat to its existence, and their shared ancestry has led to very different ideas about the future. The Skyborne are not neutral: at character creation, players choose a faction, and that choice decides the extra class. Among their own people they are called the Shen'dorei.
 
 ### High Order Skyborne, Alliance
 

@@ -16,7 +16,7 @@ A player has found an item in the WoW Forever beta that exists only to be worn. 
 
 A player called Gloky sent the screenshot to Wowhead, which reported the find. The tooltip says the item is Cosmetic, binds when picked up and adds its appearance to the account collection.
 
-Why an item like this exists
+## Why an item like this exists
 
 Forever gets a transmog system that every player switches on or off for themselves. With it on, you see the appearances other players have chosen. With it off, you see the gear they actually wear. A cosmetic-only item is useless in the second case, except to collectors.
 

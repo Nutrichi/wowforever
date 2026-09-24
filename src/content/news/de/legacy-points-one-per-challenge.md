@@ -17,11 +17,11 @@ Legacy Points sind der accountweite Fortschritt in WoW Forever, und die Wertung 
 
 Wowhead hat die Liste aus der Beta zusammengetragen. Blizzard hat keine vollständige Tabelle veröffentlicht.
 
-Woher die Punkte kommen
+## Woher die Punkte kommen
 
 Jede Klasse auf 25, dann 45, dann 60 zählt als drei getrennte Aufgaben. Jeder Tradeskill auf 150, 225 und 300 ebenso. Dazu: PvP-Ehrenrang, Ehrfürchtig bei den Schlachtfeldfraktionen, Dungeons abschließen, Raids abschließen und Azeroth erkunden. Jede gibt einen Punkt.
 
-Drei Bäume, und was Verlernen kostet
+## Drei Bäume, und was Verlernen kostet
 
 Die Bäume heißen Professions, Adventure und Resourcefulness. Punkte gehen, wohin du willst, und ein Klassenlehrer verlernt alles für 10 Gold, eine falsche Wahl ist also nicht endgültig.
 
@@ -40,7 +40,7 @@ Dedicated Study fällt aus der Reihe. Er hat 25 Sekunden Zauberzeit und 23 Stund
 
 Performance Bonus verweist auf die beiden Fraktionen, die es nur in Forever gibt: die Azeroth Commerce Authority und Durotar Supply and Logistics, die in Merchant's Favor handeln.
 
-Was unterwegs freigeschaltet wird
+## Was unterwegs freigeschaltet wird
 
 Kosmetik kommt bei 15, 25, 40 und 55 Punkten. Die bei 55 sind die Reins of the Spectral Bear.
 

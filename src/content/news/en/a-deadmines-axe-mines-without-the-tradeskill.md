@@ -16,13 +16,13 @@ Rockslicer, a two-handed axe from the Deadmines, carries a new effect in WoW For
 
 Wowhead spotted the change in the beta, where loot across the game got new stats.
 
-What the axe is
+## What the axe is
 
 Rockslicer is item level 23, needs level 18 and binds when picked up. It deals 52 to 78 damage on a speed of 3.30 and gives 10 Strength. The tooltip reads: slice open and gather from target Copper, Tin, Silver, or Iron Vein, and says it does not require Mining.
 
 The 30 charges do not show on the tooltip other players see.
 
-Why the Iron matters
+## Why the Iron matters
 
 A miner needs skill 125 to touch an Iron Deposit. This axe skips that requirement entirely. A player who picked Engineering and Blacksmithing, two tradeskills that eat ore and gather none, can farm a few copies and pull their own Iron early, instead of buying it at the auction house or waiting on a guildmate.
 

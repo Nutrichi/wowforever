@@ -17,7 +17,7 @@ Blizzard hat einen neuen Client auf die Beta-Realms von WoW Forever gestellt: 1.
 
 Um ihn zu bekommen, verlasse die Beta, aktualisiere den Client in der Battle.net-App und geh zurück.
 
-Was behoben ist
+## Was behoben ist
 
 > Fixed some display issues and stability issues on Macs.
 > Controller navigation should now work more properly in the character selection screen if you launch with gamepad active.

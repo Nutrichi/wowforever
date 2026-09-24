@@ -17,13 +17,13 @@ Die Cozy Sleeping Bag steckt in WoW Forever. Spieler fanden die Questreihe aus S
 
 Brubby vom WoW Secret Finding Discord bestätigte die Reihe und lieferte die Screenshots, berichtet Wowhead.
 
-Was der Sack macht
+## Was der Sack macht
 
 Leg dich hinein, und jede Minute gibt 1 Prozent Bonuserfahrung, bis zu 3 Prozent. Der Buff hält eine Stunde, der Gegenstand geht eine Stunde auf Abklingzeit. Solange du darin liegst, zählst du auch als ausgeruht.
 
 Drei Prozent sind für sich genommen wenig. Zusammen mit den 5 Prozent aus dem Kochen und dem Rest eines vollen Buffsatzes fällt es an einem langen Abend ins Gewicht.
 
-Wo es losgeht
+## Wo es losgeht
 
 Die Allianz startet in Westfall, an der Alexston Farmstead bei /way 37 50, im Wrack eines Karrens. Die Horde startet in The Barrens, auf der Straße südlich von Camp Taurajo bei /way 46 74, in einem verbrannten Turm. Beide klicken die Burned-Out Remains im Schutt an.
 

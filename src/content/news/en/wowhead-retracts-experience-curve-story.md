@@ -22,7 +22,7 @@ That line comes from Blainie, who leads the Wowhead news team, in a note added a
 
 Wowhead is leaving the article online with the retraction on top, rather than deleting it.
 
-What did change
+## What did change
 
 Dungeon experience is a separate matter and that change is confirmed. Blizzard said at BlizzCon that experience from monsters in dungeons goes down and experience from dungeon quests goes up sharply. New zones and more than 1,000 new quests also add paths to 60 that Classic did not have.
 

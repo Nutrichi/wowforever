@@ -17,7 +17,7 @@ Wowhead ha añadido las rutas de barco y zepelín de WoW Forever a su herramient
 
 Forever suma [tres rutas de barco](/es/news/wow-forever-three-new-ship-routes/) a las de Classic. Stormwind Harbor gana una conexión con Auberdine, una segunda va de Menethil a Southshore y sigue hasta Auberdine, y una tercera une la nueva zona The Riverglades con Steamwheedle Port, que a su vez enlaza con Gadgetzan en Tanaris.
 
-Por qué aquí ayuda un mapa
+## Por qué aquí ayuda un mapa
 
 Los jugadores de Classic se saben las torres de zepelín de memoria, pero Forever cambia el cuadro. Una zona nueva significa muelles nuevos, y una ruta de veinte años puede acabar ahora en otro sitio.
 

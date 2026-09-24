@@ -23,7 +23,7 @@ Quella frase è di Blainie, che guida la redazione di Wowhead, in una nota aggiu
 
 Wowhead lascia l’articolo online con il ritiro in cima, invece di cancellarlo.
 
-Cosa è cambiato davvero
+## Cosa è cambiato davvero
 
 L’esperienza nei dungeon è un’altra cosa, e quel cambiamento è confermato. Blizzard ha detto alla BlizzCon che l’esperienza dai mostri nei dungeon scende e quella dalle missioni nei dungeon sale parecchio. Le nuove zone e oltre 1.000 nuove missioni aggiungono inoltre percorsi verso il 60 che Classic non aveva.
 

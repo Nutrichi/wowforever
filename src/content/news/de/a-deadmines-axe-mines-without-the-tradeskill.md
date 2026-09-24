@@ -17,13 +17,13 @@ Rockslicer, eine Zweihandaxt aus den Deadmines, trägt in WoW Forever einen neue
 
 Wowhead entdeckte die Änderung auf der Beta, wo die Beute im ganzen Spiel neue Werte bekam.
 
-Was die Axt ist
+## Was die Axt ist
 
 Rockslicer hat Gegenstandsstufe 23, verlangt Stufe 18 und bindet beim Aufheben. Sie macht 52 bis 78 Schaden bei Tempo 3.30 und gibt 10 Strength. Der Tooltip liest: slice open and gather from target Copper, Tin, Silver, or Iron Vein, und hält fest, dass Mining nicht nötig ist.
 
 Die 30 Ladungen stehen nicht im Tooltip, den andere Spieler sehen.
 
-Warum es um Iron geht
+## Warum es um Iron geht
 
 Ein Miner braucht Fertigkeit 125, um an ein Iron Deposit zu kommen. Diese Axt überspringt diese Bedingung komplett. Wer Engineering und Blacksmithing gewählt hat, zwei Tradeskills, die Erz fressen und keines fördern, kann ein paar Exemplare farmen und früh eigenes Iron holen, statt es im Auktionshaus zu kaufen oder auf ein Gildenmitglied zu warten.
 

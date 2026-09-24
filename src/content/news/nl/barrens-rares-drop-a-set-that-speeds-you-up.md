@@ -15,7 +15,7 @@ manual: true
 ---
 Drie rare spawns in The Barrens laten nu gear vallen die bij een set hoort. Humar the Pridelord, Swiftmane en Takk the Leaper dragen elk een stuk van Blessing of Kalimdor, en twee van de drie dragen geeft 5 procent loopsnelheid in The Barrens en Stonetalon Mountains. Wowhead vond het op de beta.
 
-De drie stukken
+## De drie stukken
 
 | Item | Slot | Item level | Stats |
 |---|---|---|---|
@@ -25,7 +25,7 @@ De drie stukken
 
 De set telt drie items en de bonus valt al bij twee, dus het derde is een keuze en geen eis. Alle drie binden bij oppakken.
 
-Waarom dit het farmen van een rare verandert
+## Waarom dit het farmen van een rare verandert
 
 Een rare spawn is in Classic een omweg: je doodt hem als je erlangs komt, en de loot is meestal één blauw item dat al dan niet past. Een setbonus maakt daar een doel van. Drie rares in één zone, een bekende beloning, en een buff die loont in de zone waar je toch aan het levelen bent.
 

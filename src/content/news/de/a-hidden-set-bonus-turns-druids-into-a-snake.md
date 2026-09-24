@@ -17,7 +17,7 @@ Das Set Embrace of the Viper aus den Wailing Caverns versteckt einen Bonus, den 
 
 Das Set fällt in den Wailing Caverns, fünf Teile insgesamt, jedes bei einer anderen Kreatur im Dungeon. Mehr Teile schalten die gewöhnlichen Statboni frei, und die stehen dabei. Der Effekt bei fünf Teilen nicht.
 
-Wer es fand
+## Wer es fand
 
 Der Spieler Noah veröffentlichte den Fund, schreibt Wowhead.
 
@@ -33,7 +33,7 @@ Der Spieler Noah veröffentlichte den Fund, schreibt Wowhead.
 
 Zirene, Senior Game Designer bei Blizzard, ergänzte, dass die Farbe der Schlange bei jedem Druid-Volk wechselt und dass die Form eine eigene Schleichanimation für Prowl und Stealth hat, schreibt Wowhead.
 
-Warum das mehr ist als ein Scherz
+## Warum das mehr ist als ein Scherz
 
 Blizzard sagte auf der BlizzCon mehrfach, Forever ziele auf horizontalen Fortschritt: Gründe weiterzuspielen, die nicht in einer höheren Gegenstandsstufe liegen. Ein kosmetischer Effekt am Ende eines Dungeon-Sets auf niedriger Stufe ist genau das. Das Set ist beim Leveln ein echter Gewinn, und die Schlange ist ein Grund, für das letzte Teil zurückzugehen, lange nachdem die Ausrüstung keine Rolle mehr spielt.
 

@@ -23,7 +23,7 @@ Die regel komt van Blainie, die de nieuwsredactie van Wowhead leidt, in een nota
 
 Wowhead laat het artikel online staan met de intrekking erboven, in plaats van het te wissen.
 
-Wat wel veranderd is
+## Wat wel veranderd is
 
 De ervaring in dungeons is een andere zaak, en die wijziging staat vast. Blizzard zei op BlizzCon dat de ervaring uit monsters in dungeons omlaag gaat en die uit dungeonquests stevig omhoog. Nieuwe zones en meer dan 1.000 nieuwe quests leggen daarnaast paden naar 60 die Classic niet had.
 

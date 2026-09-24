@@ -16,13 +16,13 @@ A Kodo is a Horde mount, and has been for twenty years. In WoW Forever the Allia
 
 The vendor is Huey Sunnydale. Merchant's Favor is the currency of the faction, and it buys more than this: crafting recipes, other mounts, toys and cosmetics.
 
-How you earn it
+## How you earn it
 
 The [Azeroth Commerce Authority](/reputations/azeroth-commerce-authority/) is one of two supply factions that are new to Forever, the other being Durotar Supply and Logistics on the Horde side. You loot crates out in the world, such as the Waylaid Crate: Apprentice Textiles, fill them and hand them in. Each turn-in pays Merchant's Favor.
 
 Both names come from Season of Discovery, where supply crates worked in a comparable way and mattered a great deal in the early phases. Blizzard has not said the system carries over unchanged.
 
-Why a Kodo matters here
+## Why a Kodo matters here
 
 The Alliance has had exactly one Kodo before this: the Great Brewfest Kodo, from the festival in The Burning Crusade, and only for whoever was lucky. A mount you can simply work towards is different.
 

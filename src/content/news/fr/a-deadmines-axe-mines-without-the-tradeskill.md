@@ -17,13 +17,13 @@ Rockslicer, une hache à deux mains des Deadmines, porte un nouvel effet dans Wo
 
 Wowhead a repéré le changement sur la bêta, où le butin de tout le jeu a reçu de nouvelles statistiques.
 
-Ce qu’est la hache
+## Ce qu’est la hache
 
 Rockslicer est de niveau d’objet 23, demande le niveau 18 et se lie quand on la ramasse. Elle inflige 52 à 78 dégâts pour une vitesse de 3.30 et donne 10 Strength. L’infobulle indique : slice open and gather from target Copper, Tin, Silver, or Iron Vein, et précise que Mining n’est pas requis.
 
 Les 30 charges n’apparaissent pas dans l’infobulle que voient les autres joueurs.
 
-Pourquoi c’est l’Iron qui compte
+## Pourquoi c’est l’Iron qui compte
 
 Un mineur a besoin de 125 de compétence pour toucher un Iron Deposit. Cette hache saute complètement cette condition. Un joueur qui a pris Engineering et Blacksmithing, deux tradeskills qui dévorent le minerai sans en récolter, peut en farmer quelques exemplaires et sortir son propre Iron tôt, au lieu de l’acheter à l’hôtel des ventes ou d’attendre un membre de guilde.
 

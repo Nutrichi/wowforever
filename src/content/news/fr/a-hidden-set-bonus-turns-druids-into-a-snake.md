@@ -17,7 +17,7 @@ Le set Embrace of the Viper des Wailing Caverns cache un bonus que sa propre inf
 
 Le set tombe dans les Wailing Caverns, cinq pièces en tout, chacune sur une créature différente du donjon. En porter davantage débloque les bonus de statistiques habituels, qui sont indiqués. L’effet à cinq pièces, non.
 
-Qui l’a trouvé
+## Qui l’a trouvé
 
 Le joueur Noah a publié la découverte, écrit Wowhead.
 
@@ -33,7 +33,7 @@ Le joueur Noah a publié la découverte, écrit Wowhead.
 
 Zirene, Senior Game Designer chez Blizzard, a ajouté que la couleur du serpent change pour chaque race de Druid et que la forme possède sa propre animation de furtivité pour Prowl et Stealth, écrit Wowhead.
 
-Pourquoi ce n’est pas qu’une blague
+## Pourquoi ce n’est pas qu’une blague
 
 Blizzard a répété à la BlizzCon que Forever vise la progression horizontale : des raisons de continuer à jouer qui ne tiennent pas à un niveau d’objet plus élevé. Un effet cosmétique au bout d’un set de donjon bas niveau, c’est exactement cela. Le set est un vrai gain pendant la montée, et le serpent est une raison de revenir chercher la dernière pièce bien après que l’équipement a cessé de compter.
 

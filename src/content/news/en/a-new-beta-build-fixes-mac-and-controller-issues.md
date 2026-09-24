@@ -16,7 +16,7 @@ Blizzard has put a new client on the beta realms of WoW Forever: 1.60.1 Build 69
 
 To get it, leave the beta, update the client in the Battle.net app and go back in.
 
-What is fixed
+## What is fixed
 
 > Fixed some display issues and stability issues on Macs.
 > Controller navigation should now work more properly in the character selection screen if you launch with gamepad active.

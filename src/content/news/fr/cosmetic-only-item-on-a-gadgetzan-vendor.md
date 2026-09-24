@@ -17,7 +17,7 @@ Un joueur a trouvé dans la bêta de WoW Forever un objet qui n’existe que pou
 
 Un joueur nommé Gloky a envoyé la capture à Wowhead, qui a rapporté la trouvaille. L’infobulle indique que l’objet est Cosmetic, qu’il se lie quand on le ramasse et qu’il ajoute son apparence à la collection du compte.
 
-Pourquoi un tel objet existe
+## Pourquoi un tel objet existe
 
 Forever reçoit un système de transmogrification que chaque joueur active ou désactive pour lui-même. Activé, vous voyez les apparences choisies par les autres joueurs. Désactivé, vous voyez l’équipement qu’ils portent réellement. Dans ce second cas, un objet purement cosmétique ne sert à rien, sauf aux collectionneurs.
 

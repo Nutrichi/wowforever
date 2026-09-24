@@ -15,7 +15,7 @@ manual: true
 ---
 Tre rari dei Barrens lasciano ora equipaggiamento che appartiene a un set. Humar the Pridelord, Swiftmane e Takk the Leaper portano ognuno un pezzo di Blessing of Kalimdor, e indossarne due su tre dà il 5 per cento di velocità di movimento in The Barrens e nelle Stonetalon Mountains. Wowhead l’ha trovato sulla beta.
 
-I tre pezzi
+## I tre pezzi
 
 | Oggetto | Slot | Livello oggetto | Statistiche |
 |---|---|---|---|
@@ -25,7 +25,7 @@ I tre pezzi
 
 Il set conta tre oggetti e il bonus scatta già a due, quindi il terzo è una scelta e non un obbligo. Tutti e tre si legano quando li raccogli.
 
-Perché cambia il farming di un raro
+## Perché cambia il farming di un raro
 
 In Classic un raro è una deviazione: lo uccidi se ci passi davanti, e il bottino di solito è un blu che va bene o no. Un bonus di set ne fa un obiettivo. Tre rari in una zona, una ricompensa nota e un buff che rende nella zona dove stai già salendo.
 

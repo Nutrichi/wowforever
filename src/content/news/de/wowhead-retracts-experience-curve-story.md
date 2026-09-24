@@ -23,7 +23,7 @@ Der Satz stammt von Blainie, der die Nachrichtenredaktion von Wowhead leitet, au
 
 Wowhead lässt den Artikel mit dem Rückzug obendrüber online stehen, statt ihn zu löschen.
 
-Was sich wirklich geändert hat
+## Was sich wirklich geändert hat
 
 Die Erfahrung in Dungeons ist eine andere Sache, und diese Änderung steht fest. Blizzard sagte auf der BlizzCon, dass die Erfahrung aus Monstern in Dungeons sinkt und die aus Dungeonquests deutlich steigt. Neue Gebiete und mehr als 1.000 neue Quests legen zudem Wege bis 60, die Classic nicht hatte.
 

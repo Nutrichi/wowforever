@@ -17,13 +17,13 @@ De Cozy Sleeping Bag zit in WoW Forever. Spelers vonden de questreeks uit Season
 
 Brubby, van de WoW Secret Finding Discord, bevestigde de reeks en leverde de schermafdrukken, meldt Wowhead.
 
-Wat de zak doet
+## Wat de zak doet
 
 Ga erin liggen en elke minuut geeft 1 procent extra ervaring, tot 3 procent. De buff houdt een uur aan en het item gaat een uur op cooldown. Zolang je erin ligt, tel je ook als rested.
 
 Drie procent is op zich bescheiden. Gestapeld met de 5 procent uit cooking en de rest van een volle buffset gaat het op een lange avond meetellen.
 
-Waar het begint
+## Waar het begint
 
 De Alliance start in Westfall, bij de Alexston Farmstead op /way 37 50, in het wrak van een kar. De Horde start in The Barrens, op de weg ten zuiden van Camp Taurajo op /way 46 74, in een uitgebrande toren. Allebei klikken ze op de Burned-Out Remains in het puin.
 

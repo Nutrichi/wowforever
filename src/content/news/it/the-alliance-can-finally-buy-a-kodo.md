@@ -17,13 +17,13 @@ Un Kodo è una cavalcatura dell’Orda, e lo è da vent’anni. In WoW Forever l
 
 Il mercante si chiama Huey Sunnydale. Merchant's Favor è la moneta della fazione, e compra più di questo: ricette di artigianato, altre cavalcature, giocattoli e oggetti estetici.
 
-Come si guadagna
+## Come si guadagna
 
 L’[Azeroth Commerce Authority](/it/reputations/azeroth-commerce-authority/) è una delle due fazioni di rifornimento proprie di Forever; l’altra è Durotar Supply and Logistics dal lato dell’Orda. Raccogli casse nel mondo, come la Waylaid Crate: Apprentice Textiles, le riempi e le consegni. Ogni consegna paga in Merchant's Favor.
 
 Entrambi i nomi vengono da Season of Discovery, dove le casse di rifornimento funzionavano in modo simile e contavano molto nelle prime fasi. Blizzard non ha detto che il sistema torni immutato.
 
-Perché qui un Kodo conta
+## Perché qui un Kodo conta
 
 L’Alleanza ne aveva avuto esattamente uno prima: il Great Brewfest Kodo, dalla festa di The Burning Crusade, e solo per chi era fortunato. Una cavalcatura verso cui puoi semplicemente lavorare è un’altra cosa.
 

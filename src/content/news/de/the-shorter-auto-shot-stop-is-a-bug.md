@@ -19,13 +19,13 @@ Die viel kürzere Pause vor einem Auto-Shot ist keine Designentscheidung. Es ist
 
 Das ist Blizzard im Forum. Gemeint ist die halbe Sekunde, die Classic hat.
 
-Was Spieler gemessen hatten
+## Was Spieler gemessen hatten
 
 Die kürzere Pause [tauchte am 21. September auf der Beta auf](/de/news/auto-shot-and-wanding-need-a-shorter-stop/), wo Spieler dieselbe Fähigkeit in Forever und in Classic Era nebeneinander filmten. Der Swing Timer zeigte den Unterschied, und die Annahme war, Blizzard habe die Regel gelockert, um Kiten leichter zu machen.
 
 Es sah gewollt aus, denn es passt zum Rest von Forever, wo viele kleine Reibungen geglättet wurden. Es war es nicht.
 
-Was das fürs Kiten heißt
+## Was das fürs Kiten heißt
 
 Ein Hunter, der einen Build ums Laufen und Schießen baut, sollte sich nicht auf das verlassen, was die Beta gerade tut. Sobald die halbe Sekunde zurück ist, schließt sich das Fenster zum Bewegen zwischen zwei Schüssen wieder, und Kiten geht zurück auf das Timing, das Classic-Spieler kennen.
 

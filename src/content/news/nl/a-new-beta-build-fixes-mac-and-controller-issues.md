@@ -17,7 +17,7 @@ Blizzard heeft een nieuwe client op de betarealms van WoW Forever gezet: 1.60.1 
 
 Om hem te krijgen verlaat je de beta, werk je de client bij in de Battle.net-app en ga je terug.
 
-Wat er opgelost is
+## Wat er opgelost is
 
 > Fixed some display issues and stability issues on Macs.
 > Controller navigation should now work more properly in the character selection screen if you launch with gamepad active.

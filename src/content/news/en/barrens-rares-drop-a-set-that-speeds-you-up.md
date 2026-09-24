@@ -14,7 +14,7 @@ draft: false
 ---
 Three rare spawns in the Barrens now drop gear that belongs to a set. Humar the Pridelord, Swiftmane and Takk the Leaper each carry a piece of Blessing of Kalimdor, and wearing two of the three gives 5 percent movement speed in the Barrens and Stonetalon Mountains. Wowhead found it on the beta.
 
-The three pieces
+## The three pieces
 
 | Item | Slot | Item level | Stats |
 |---|---|---|---|
@@ -24,7 +24,7 @@ The three pieces
 
 The set counts three items and the bonus lands at two, so the third is a choice rather than a requirement. All three bind when picked up.
 
-Why this changes farming a rare
+## Why this changes farming a rare
 
 A rare spawn in Classic is a detour: you kill it if you pass it, and the loot is usually one blue that may or may not fit. A set bonus turns that into a goal. Three rares in one zone, a known reward, and a buff that pays off in the zone you are already levelling in.
 

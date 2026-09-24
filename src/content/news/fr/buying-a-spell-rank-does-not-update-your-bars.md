@@ -17,7 +17,7 @@ Acheter un rang supérieur d’un sort dans WoW Forever ne le place pas sur vos 
 
 Wowhead a signalé ce comportement sur la bêta.
 
-Qui est concerné
+## Qui est concerné
 
 Les classes de mêlée qui tournent à la rage ou à l’énergie, comme les Warriors et les Rogues, n’ont pas ce souci. Leurs barres basculent seules sur le rang supérieur dès qu’elles l’apprennent.
 
@@ -25,7 +25,7 @@ Ceux qui lancent avec du mana, si, et les classes de mêlée avec des capacités
 
 Vérifiez donc vos barres après chaque passage chez le maître. Acheter un rang n’est pas la même chose que l’utiliser.
 
-Retrouver les rangs inférieurs
+## Retrouver les rangs inférieurs
 
 Le grimoire masque les rangs inférieurs par défaut. Survolez la flèche en haut à droite du grimoire et choisissez l’option qui affiche tous les rangs : la liste complète apparaît, comme sur la capture ci-dessus.
 

@@ -16,7 +16,7 @@ Buying a higher rank of a spell in WoW Forever does not put it on your action ba
 
 Wowhead flagged the behaviour on the beta.
 
-Who it hits
+## Who it hits
 
 Melee classes that work on rage or energy, such as Warriors and Rogues, do not have this problem. Their bars swap to the higher rank on their own when they learn it.
 
@@ -24,7 +24,7 @@ Anyone who casts with mana does, and so do melee classes with mana-based abiliti
 
 So after every trainer visit, check the bars. Buying a rank is not the same as using it.
 
-Finding the lower ranks
+## Finding the lower ranks
 
 The spellbook hides lower ranks by default. Hover the arrow at the top right of the spellbook and pick the option to show all ranks, and the full list appears, as in the screenshot above.
 

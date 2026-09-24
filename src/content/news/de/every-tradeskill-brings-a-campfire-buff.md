@@ -17,13 +17,13 @@ Camping ist eines der neuen Systeme in WoW Forever, und jeder Tradeskill speist 
 
 Wowhead hat die vollständige Liste aus der Beta zusammengestellt. Blizzard hat die Zahlen nicht veröffentlicht.
 
-Wie man herankommt
+## Wie man herankommt
 
 Eine Quest früh im Spiel, The Great Outdoors, schaltet die Perks frei. Danach erscheint ein Buff namens Campfire Nearby auf der Leiste, sobald du in die Nähe eines Lagers kommst, das jemand aufgestellt hat. Geh hin, tippe /sit und bleib eine Minute sitzen.
 
 Das ist der ganze soziale Kniff des Systems: ein Lager, das ein Fremder stehen lässt, wirkt auch für dich.
 
-Was jeder Tradeskill gibt
+## Was jeder Tradeskill gibt
 
 | Tradeskill | Der Buff | Tier 1 | Tier 2 | Tier 3 |
 |---|---|---|---|---|

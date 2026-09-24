@@ -17,7 +17,7 @@ El conjunto Embrace of the Viper de Wailing Caverns esconde un bonus que su prop
 
 El conjunto cae en Wailing Caverns, cinco piezas en total, cada una de una criatura distinta de la mazmorra. Llevar más piezas desbloquea los bonus de estadísticas normales, que sí figuran. El efecto de cinco piezas no.
 
-Quién lo encontró
+## Quién lo encontró
 
 El jugador Noah publicó el hallazgo, escribe Wowhead.
 
@@ -33,7 +33,7 @@ El jugador Noah publicó el hallazgo, escribe Wowhead.
 
 Zirene, Senior Game Designer en Blizzard, añadió que el color de la serpiente cambia para cada raza de Druid y que la forma tiene su propia animación de sigilo para Prowl y Stealth, escribe Wowhead.
 
-Por qué es más que una broma
+## Por qué es más que una broma
 
 Blizzard repitió en la BlizzCon que Forever apunta a la progresión horizontal: motivos para seguir jugando que no pasan por un nivel de objeto más alto. Un efecto cosmético al final de un conjunto de mazmorra de nivel bajo es justo eso. El conjunto es una ganancia real mientras subes, y la serpiente es un motivo para volver a por la última pieza mucho después de que el equipo deje de importar.
 

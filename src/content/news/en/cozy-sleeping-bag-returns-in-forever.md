@@ -16,13 +16,13 @@ The Cozy Sleeping Bag is in WoW Forever. Players found the quest chain from Seas
 
 Brubby, from the WoW Secret Finding Discord, confirmed the chain and supplied the screenshots, reports Wowhead.
 
-What the bag does
+## What the bag does
 
 Lie in it and every minute gives 1 percent bonus experience, stacking up to 3 percent. The buff holds for an hour and the item goes on a one-hour cooldown. You also count as rested while you are in it.
 
 Three percent is modest on its own. Stacked with the 5 percent from cooking and the rest of a full buff set, it starts to matter on a long evening.
 
-Where it starts
+## Where it starts
 
 The Alliance begins in Westfall, at the Alexston Farmstead at /way 37 50, in the wreckage of a cart. The Horde begins in The Barrens, on the road south of Camp Taurajo at /way 46 74, in a burnt tower. Both click the Burned-Out Remains in the rubble.
 

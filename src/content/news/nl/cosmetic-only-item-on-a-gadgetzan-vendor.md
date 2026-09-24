@@ -17,7 +17,7 @@ Een speler heeft in de beta van WoW Forever een item gevonden dat alleen bestaat
 
 Een speler met de naam Gloky stuurde de schermafdruk naar Wowhead, dat de vondst meldde. De tooltip zegt dat het item Cosmetic is, bindt bij oppakken en zijn uiterlijk aan de collectie van de account toevoegt.
 
-Waarom zo'n item bestaat
+## Waarom zo'n item bestaat
 
 Forever krijgt een transmogsysteem dat elke speler voor zichzelf aan of uit zet. Staat het aan, dan zie je het uiterlijk dat andere spelers gekozen hebben. Staat het uit, dan zie je de gear die ze echt dragen. In dat tweede geval is een puur cosmetisch item nutteloos, behalve voor verzamelaars.
 

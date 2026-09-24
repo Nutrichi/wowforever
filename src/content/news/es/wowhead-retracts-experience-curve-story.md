@@ -23,7 +23,7 @@ Esa frase es de Blainie, que dirige la redacción de Wowhead, en una nota añadi
 
 Wowhead deja el artículo en línea con la retirada encima, en vez de borrarlo.
 
-Lo que sí ha cambiado
+## Lo que sí ha cambiado
 
 La experiencia en mazmorras es otro asunto, y ese cambio está confirmado. Blizzard dijo en la BlizzCon que la experiencia de los monstruos en mazmorras baja y la de las misiones de mazmorra sube con fuerza. Las zonas nuevas y más de 1.000 misiones nuevas añaden además caminos hasta 60 que Classic no tenía.
 

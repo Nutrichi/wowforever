@@ -17,11 +17,11 @@ Los Legacy Points son el progreso de toda la cuenta en WoW Forever, y el reparto
 
 Wowhead reunió la lista desde la beta. Blizzard no ha publicado una tabla completa.
 
-De dónde salen los puntos
+## De dónde salen los puntos
 
 Subir cada clase a 25, luego a 45 y luego a 60 cuenta como tres retos distintos. Cada tradeskill a 150, 225 y 300 hace lo mismo. Además: rango de Honor de PvP, Venerado con las facciones de campos de batalla, completar mazmorras, completar bandas y explorar Azeroth. Cada uno da un punto.
 
-Tres árboles, y lo que cuesta olvidar
+## Tres árboles, y lo que cuesta olvidar
 
 Los árboles son Professions, Adventure y Resourcefulness. Los puntos van donde quieras, y un maestro de clase los olvida todos por 10 de oro, así que una elección mala no es permanente.
 
@@ -40,7 +40,7 @@ Dedicated Study es la excepción. Tiene 25 segundos de lanzamiento y 23 horas de
 
 Performance Bonus apunta a las dos facciones propias de Forever: la Azeroth Commerce Authority y Durotar Supply and Logistics, que comercian en Merchant's Favor.
 
-Qué se desbloquea por el camino
+## Qué se desbloquea por el camino
 
 Los cosméticos llegan en 15, 25, 40 y 55 puntos. El de 55 son las Reins of the Spectral Bear.
 

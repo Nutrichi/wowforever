@@ -17,7 +17,7 @@ Een hogere rang van een spell kopen in WoW Forever zet hem niet op je actiebalke
 
 Wowhead signaleerde het gedrag op de beta.
 
-Wie het treft
+## Wie het treft
 
 Melee-classes die op rage of energy draaien, zoals Warriors en Rogues, hebben dit probleem niet. Hun balken wisselen vanzelf naar de hogere rang zodra ze die leren.
 
@@ -25,7 +25,7 @@ Wie met mana cast wel, en ook melee-classes met manaspreuken. Downranken is daar
 
 Kijk dus na elk bezoek aan de trainer je balken na. Een rang kopen is niet hetzelfde als hem gebruiken.
 
-De lagere rangen terugvinden
+## De lagere rangen terugvinden
 
 Het spellbook verbergt lagere rangen standaard. Ga met de muis over het pijltje rechtsboven in het spellbook en kies de optie om alle rangen te tonen; dan verschijnt de volledige lijst, zoals op de schermafdruk hierboven.
 

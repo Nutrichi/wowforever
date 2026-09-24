@@ -15,7 +15,7 @@ manual: true
 ---
 Trois rares des Barrens lâchent désormais de l’équipement appartenant à un set. Humar the Pridelord, Swiftmane et Takk the Leaper portent chacun une pièce de Blessing of Kalimdor, et en porter deux sur trois donne 5 pour cent de vitesse de déplacement dans The Barrens et les Stonetalon Mountains. Wowhead l’a trouvé sur la bêta.
 
-Les trois pièces
+## Les trois pièces
 
 | Objet | Emplacement | Niveau d’objet | Statistiques |
 |---|---|---|---|
@@ -25,7 +25,7 @@ Les trois pièces
 
 Le set compte trois objets et le bonus tombe dès deux, donc le troisième est un choix et non une obligation. Les trois se lient quand on les ramasse.
 
-Pourquoi cela change la chasse aux rares
+## Pourquoi cela change la chasse aux rares
 
 Dans Classic, un rare est un détour : on le tue si on passe devant, et le butin est en général un objet bleu qui convient ou non. Un bonus de set en fait un objectif. Trois rares dans une même zone, une récompense connue, et un bonus utile dans la zone où l’on monte déjà.
 

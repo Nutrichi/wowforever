@@ -17,7 +17,7 @@ Ein Spieler hat in der Beta von WoW Forever einen Gegenstand gefunden, der nur z
 
 Ein Spieler namens Gloky schickte den Screenshot an Wowhead, das den Fund meldete. Der Tooltip sagt, der Gegenstand sei Cosmetic, binde beim Aufheben und füge sein Aussehen der Sammlung des Accounts hinzu.
 
-Warum es so einen Gegenstand gibt
+## Warum es so einen Gegenstand gibt
 
 Forever bekommt ein Transmog-System, das jeder Spieler für sich an- oder ausschaltet. Ist es an, siehst du das Aussehen, das andere Spieler gewählt haben. Ist es aus, siehst du die Ausrüstung, die sie wirklich tragen. Im zweiten Fall nützt ein rein kosmetischer Gegenstand nichts, außer Sammlern.
 

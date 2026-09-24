@@ -19,13 +19,13 @@ De veel kortere stop voor een Auto-Shot is geen ontwerpkeuze. Het is een fout. B
 
 Dat is Blizzard op het forum. Het bedoelde gedrag is de halve seconde die Classic heeft.
 
-Wat spelers gemeten hadden
+## Wat spelers gemeten hadden
 
 De kortere stop [dook op 21 september op in de beta](/nl/news/auto-shot-and-wanding-need-a-shorter-stop/), waar spelers dezelfde ability in Forever en in Classic Era naast elkaar filmden. De swing timer toonde het verschil, en de aanname was dat Blizzard de regel losser gezet had om kiten makkelijker te maken.
 
 Het leek bewust, want het past bij de rest van Forever, waar heel wat kleine wrijvingen gladgestreken zijn. Dat was het niet.
 
-Wat dit voor kiten betekent
+## Wat dit voor kiten betekent
 
 Een Hunter die een build bouwt rond bewegen en schieten, moet niet leunen op wat de beta nu doet. Zodra de halve seconde terug is, sluit het venster om tussen twee schoten te bewegen weer, en gaat kiten terug naar de timing die Classic-spelers kennen.
 

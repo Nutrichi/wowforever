@@ -17,13 +17,13 @@ Rockslicer, un’ascia a due mani delle Deadmines, porta un nuovo effetto in WoW
 
 Wowhead ha notato il cambiamento sulla beta, dove il bottino di tutto il gioco ha ricevuto nuove statistiche.
 
-Cos’è l’ascia
+## Cos’è l’ascia
 
 Rockslicer è di livello oggetto 23, richiede il livello 18 e si lega quando la raccogli. Infligge da 52 a 78 danni con velocità 3.30 e dà 10 di Strength. La descrizione dice: slice open and gather from target Copper, Tin, Silver, or Iron Vein, e precisa che non serve Mining.
 
 Le 30 cariche non compaiono nella descrizione che vedono gli altri giocatori.
 
-Perché conta l’Iron
+## Perché conta l’Iron
 
 Un minatore ha bisogno di 125 di abilità per toccare un Iron Deposit. Quest’ascia salta del tutto quel requisito. Chi ha preso Engineering e Blacksmithing, due tradeskill che divorano minerale senza raccoglierne, può farmarne qualche copia e tirarsi fuori il proprio Iron presto, invece di comprarlo alla casa d’aste o aspettare un compagno di gilda.
 

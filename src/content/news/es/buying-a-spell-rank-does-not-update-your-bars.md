@@ -17,7 +17,7 @@ Comprar un rango superior de un hechizo en WoW Forever no lo pone en tus barras 
 
 Wowhead avisó del comportamiento en la beta.
 
-A quién afecta
+## A quién afecta
 
 Las clases cuerpo a cuerpo que funcionan con ira o energía, como los Warriors y los Rogues, no tienen este problema. Sus barras cambian solas al rango superior en cuanto lo aprenden.
 
@@ -25,7 +25,7 @@ Quien lanza con maná sí, y también las clases cuerpo a cuerpo con habilidades
 
 Revisa las barras después de cada visita al entrenador. Comprar un rango no es lo mismo que usarlo.
 
-Cómo encontrar los rangos bajos
+## Cómo encontrar los rangos bajos
 
 El libro de hechizos oculta los rangos bajos por defecto. Pasa el cursor por la flecha de arriba a la derecha y elige la opción de mostrar todos los rangos: aparece la lista completa, como en la captura de arriba.
 

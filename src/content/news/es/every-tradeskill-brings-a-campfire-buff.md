@@ -17,13 +17,13 @@ El camping es uno de los sistemas nuevos de WoW Forever, y cada tradeskill lo al
 
 Wowhead recopiló la lista completa desde la beta. Blizzard no ha publicado las cifras.
 
-Cómo se consigue
+## Cómo se consigue
 
 Una misión temprana, The Great Outdoors, desbloquea las mejoras. Después aparece en la barra un efecto llamado Campfire Nearby en cuanto te acercas a un campamento que alguien ha puesto. Acércate, escribe /sit y quédate un minuto.
 
 Ahí está todo el truco social del sistema: un campamento que deja un desconocido también funciona para ti.
 
-Qué da cada tradeskill
+## Qué da cada tradeskill
 
 | Tradeskill | El efecto | Tier 1 | Tier 2 | Tier 3 |
 |---|---|---|---|---|

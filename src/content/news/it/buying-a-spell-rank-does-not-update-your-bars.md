@@ -17,7 +17,7 @@ Comprare un rango superiore di un incantesimo in WoW Forever non lo mette sulle 
 
 Wowhead ha segnalato il comportamento sulla beta.
 
-Chi ne risente
+## Chi ne risente
 
 Le classi in mischia che vanno a rabbia o energia, come Warrior e Rogue, non hanno questo problema. Le loro barre passano da sole al rango superiore appena lo imparano.
 
@@ -25,7 +25,7 @@ Chi lancia con il mana sì, e anche le classi in mischia con abilità a mana. Il
 
 Controlla quindi le barre dopo ogni passaggio dall’addestratore. Comprare un rango non è lo stesso che usarlo.
 
-Come ritrovare i ranghi bassi
+## Come ritrovare i ranghi bassi
 
 Il libro degli incantesimi nasconde i ranghi bassi per impostazione predefinita. Passa sopra la freccia in alto a destra e scegli l’opzione per mostrare tutti i ranghi: compare l’elenco completo, come nello screenshot qui sopra.
 

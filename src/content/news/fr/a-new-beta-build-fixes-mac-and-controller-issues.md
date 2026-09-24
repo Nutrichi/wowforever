@@ -17,7 +17,7 @@ Blizzard a mis un nouveau client sur les royaumes de bêta de WoW Forever : 1.60
 
 Pour l’obtenir, quittez la bêta, mettez le client à jour dans l’application Battle.net et revenez.
 
-Ce qui est corrigé
+## Ce qui est corrigé
 
 > Fixed some display issues and stability issues on Macs.
 > Controller navigation should now work more properly in the character selection screen if you launch with gamepad active.

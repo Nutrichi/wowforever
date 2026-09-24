@@ -17,7 +17,7 @@ Wowhead a ajouté les routes de bateau et de zeppelin de WoW Forever à son outi
 
 Forever ajoute [trois routes maritimes](/fr/news/wow-forever-three-new-ship-routes/) à celles de Classic. Stormwind Harbor gagne une liaison vers Auberdine, une deuxième va de Menethil à Southshore puis Auberdine, et une troisième relie la nouvelle zone The Riverglades à Steamwheedle Port, lui-même relié à Gadgetzan en Tanaris.
 
-Pourquoi une carte aide ici
+## Pourquoi une carte aide ici
 
 Les joueurs de Classic connaissent les tours à zeppelin par coeur, mais Forever change la donne. Une nouvelle zone signifie de nouveaux quais, et une route vieille de vingt ans peut désormais finir ailleurs.
 

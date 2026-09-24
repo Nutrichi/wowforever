@@ -16,11 +16,11 @@ Legacy Points are the account-wide progression in WoW Forever, and the scoring i
 
 Wowhead put the list together from the beta. Blizzard has not published a full table.
 
-Where the points come from
+## Where the points come from
 
 Levelling every class to 25, then 45, then 60 counts as three separate challenges. Every tradeskill to 150, 225 and 300 does the same. Beyond that: PvP Honor rank, Exalted with the battleground factions, clearing dungeons, clearing raids and exploring Azeroth. Each one gives one point.
 
-Three trees, and what unlearning costs
+## Three trees, and what unlearning costs
 
 The trees are Professions, Adventure and Resourcefulness. Points go where you want them, and a class trainer will unlearn the lot for 10 gold, so a wrong choice is not permanent.
 
@@ -39,7 +39,7 @@ Dedicated Study is the odd one. It has a 25-second cast and a 23-hour cooldown, 
 
 Performance Bonus points at the two factions that are new to Forever: the Azeroth Commerce Authority and Durotar Supply and Logistics, which trade in Merchant's Favor.
 
-What you unlock along the way
+## What you unlock along the way
 
 Cosmetics arrive at 15, 25, 40 and 55 points. The one at 55 is the Reins of the Spectral Bear.
 
