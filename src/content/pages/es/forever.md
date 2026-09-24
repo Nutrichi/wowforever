@@ -119,6 +119,7 @@ Todas las fechas son de Blizzard. Las horas van en hora del Pacífico, con la ho
 | Del 4 al 11 de noviembre de 2026 | Semana de lanzamiento: los amigos invitados juegan sin suscripción. |
 | 9 de diciembre de 2026 | Se abren las bandas: Barrow Deeps (10 jugadores), Hyjal Summit (20) y Onyxia's Lair (40). |
 | 11 de enero de 2027 | Último día para comprar la Warcraft Forever Collection. |
+| Febrero de 2027 | Llegan las Collector's Editions pedidas desde el 24 de septiembre de 2026. |
 | 31 de diciembre de 2027 | Último día para canjear un código de la Collector's Edition y obtener un posible saldo de Battle.net por compras digitales anteriores. |
 
 ## La hoja de ruta del primer año
@@ -354,7 +355,7 @@ Cada edición incluye códigos con los que un amigo puede jugar a Forever durant
 
 ### La Collector's Edition
 
-La Collector's Edition física cuesta 150 euros en la Blizzard Gear Store. En Australia y Nueva Zelanda la venden tiendas colaboradoras. Contiene:
+La Collector's Edition física cuesta 150 euros en la Blizzard Gear Store. En Australia y Nueva Zelanda la venden tiendas colaboradoras. Contiene: El 24 de septiembre salió a la venta un nuevo lote de la versión en inglés, con un límite de un ejemplar por hogar en la Gear Store. Los pedidos desde ese día se envían en febrero de 2027 y los anteriores en noviembre de 2026, ver [la noticia](/es/news/more-collectors-editions-go-on-sale/).
 
 - un código digital de la Warcraft Forever Collection, con el Skyborne Epic Pack, Warcraft III: Reforged y Forsaken Kingdom;
 - una estatua del Dwarf y su oso de 13 pulgadas, basada en la cinemática original;

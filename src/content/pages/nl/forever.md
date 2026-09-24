@@ -119,6 +119,7 @@ Alle datums komen van Blizzard. Tijden staan in Pacific time, met de Belgische t
 | 4 tot 11 november 2026 | Lanceringsweek: uitgenodigde vrienden spelen zonder abonnement. |
 | 9 december 2026 | De raids openen: Barrow Deeps (10 spelers), Hyjal Summit (20) en Onyxia's Lair (40). |
 | 11 januari 2027 | Laatste dag om de Warcraft Forever Collection te kopen. |
+| Februari 2027 | Collector's Editions die vanaf 24 september 2026 besteld zijn, worden geleverd. |
 | 31 december 2027 | Laatste dag om een code van de Collector's Edition in te wisselen voor een mogelijk tegoed op Battle.net voor eerdere digitale aankopen. |
 
 ## De roadmap voor het eerste jaar
@@ -354,7 +355,7 @@ Elke editie bevat codes waarmee een vriend Forever kan spelen tijdens de lanceri
 
 ### De Collector's Edition
 
-De fysieke Collector's Edition kost 150 euro in de Blizzard Gear Store. In Australië en Nieuw-Zeeland verkopen winkels hem. Hij bevat:
+De fysieke Collector's Edition kost 150 euro in de Blizzard Gear Store. In Australië en Nieuw-Zeeland verkopen winkels hem. Hij bevat: Op 24 september kwam een nieuwe partij van de Engelse versie in de verkoop, met een limiet van één exemplaar per huishouden in de Gear Store. Bestellingen vanaf die dag worden in februari 2027 geleverd, eerdere in november 2026, zie [de post](/nl/news/more-collectors-editions-go-on-sale/).
 
 - een digitale code voor de Warcraft Forever Collection, met het Skyborne Epic Pack, Warcraft III: Reforged en Forsaken Kingdom;
 - een beeld van de Dwarf en zijn beer, 13 inch hoog, gebaseerd op de originele cinematic;

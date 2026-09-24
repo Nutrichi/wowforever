@@ -118,6 +118,7 @@ All dates come from Blizzard. Times are Pacific time, with Belgian time where it
 | 4 to 11 November 2026 | Launch week: invited friends play without a subscription. |
 | 9 December 2026 | The raids open: Barrow Deeps (10 players), Hyjal Summit (20) and Onyxia's Lair (40). |
 | 11 January 2027 | Last day to buy the Warcraft Forever Collection. |
+| February 2027 | Collector's Editions ordered from 24 September 2026 are delivered. |
 | 31 December 2027 | Last day to redeem a Collector's Edition code for a possible Battle.net Balance credit on earlier digital purchases. |
 
 ## The roadmap for the first year
@@ -353,7 +354,7 @@ Every edition includes codes that let a friend play Forever during launch week, 
 
 ### The Collector's Edition
 
-The physical Collector's Edition costs 150 euro in the Blizzard Gear Store. In Australia and New Zealand it is sold through retailers. It contains:
+The physical Collector's Edition costs 150 euro in the Blizzard Gear Store. In Australia and New Zealand it is sold through retailers. It contains: On 24 September a new batch of the English version went on sale, with a limit of one copy per household in the Gear Store. Orders from that day ship in February 2027, earlier orders in November 2026, see [the post](/news/more-collectors-editions-go-on-sale/).
 
 - a digital code for the Warcraft Forever Collection, with the Skyborne Epic Pack, Warcraft III: Reforged and Forsaken Kingdom;
 - a statue of the Dwarf and his bear, 13 inches tall, based on the original cinematic;
