@@ -1,7 +1,7 @@
 ---
 title: "A Statistics pane counts kills, gold and deaths"
 description: "The character window of the WoW Forever beta now carries a working Statistics pane with around two hundred numbers, including bosses from the new dungeons and the Darkspear Islands battleground."
-date: 2026-09-25T09:31:00+02:00
+date: 2026-09-25T09:55:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-09-25-wow-forever-statistics-pane.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/statistics-pane-now-available-in-wow-forever-beta-383102"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 ---
 The Statistics pane works in the WoW Forever beta. It stayed empty in the first build, and the current one fills it with around two hundred numbers per character, writes Wowhead. They run from total kills and gold spent to deaths from Hogger.
 

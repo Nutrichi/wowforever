@@ -1,7 +1,7 @@
 ---
 title: "Un panneau Statistics compte victimes, or et morts"
 description: "La fenêtre du personnage de la bêta de WoW Forever a désormais un panneau Statistics fonctionnel avec environ deux cents chiffres, dont des boss des nouveaux donjons et le champ de bataille Darkspear Islands."
-date: 2026-09-25T09:31:00+02:00
+date: 2026-09-25T09:55:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-09-25-wow-forever-statistics-pane.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/statistics-pane-now-available-in-wow-forever-beta-383102"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Le panneau Statistics fonctionne dans la bêta de WoW Forever. Il restait vide dans le premier build, et l'actuel le remplit d'environ deux cents chiffres par personnage, écrit Wowhead. Cela va du total des victimes et de l'or dépensé aux morts causées par Hogger.

@@ -1,7 +1,7 @@
 ---
 title: "Een Statistics-venster telt kills, goud en doden"
 description: "Het personagevenster van de WoW Forever-beta heeft nu een werkend Statistics-venster met zo'n tweehonderd getallen, waaronder bazen uit de nieuwe dungeons en het battleground Darkspear Islands."
-date: 2026-09-25T09:31:00+02:00
+date: 2026-09-25T09:55:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-09-25-wow-forever-statistics-pane.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/statistics-pane-now-available-in-wow-forever-beta-383102"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Het Statistics-venster werkt in de WoW Forever-beta. In de eerste build bleef het leeg, de huidige vult het met zo'n tweehonderd getallen per personage, schrijft Wowhead. Die gaan van het totaal aantal kills en uitgegeven goud tot doden door Hogger.

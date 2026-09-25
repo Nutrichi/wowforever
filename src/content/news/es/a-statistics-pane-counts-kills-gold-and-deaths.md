@@ -1,7 +1,7 @@
 ---
 title: "Un panel Statistics cuenta víctimas, oro y muertes"
 description: "La ventana del personaje de la beta de WoW Forever ya tiene un panel Statistics que funciona, con unas doscientas cifras, entre ellas jefes de las mazmorras nuevas y el campo de batalla Darkspear Islands."
-date: 2026-09-25T09:31:00+02:00
+date: 2026-09-25T09:55:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-09-25-wow-forever-statistics-pane.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/statistics-pane-now-available-in-wow-forever-beta-383102"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 El panel Statistics funciona en la beta de WoW Forever. En la primera build se quedaba vacío, y la actual lo llena con unas doscientas cifras por personaje, escribe Wowhead. Van desde el total de enemigos abatidos y el oro gastado hasta las muertes a manos de Hogger.

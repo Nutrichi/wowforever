@@ -1,7 +1,7 @@
 ---
 title: "Ein Statistics-Fenster zählt Kills, Gold und Tode"
 description: "Das Charakterfenster der WoW-Forever-Beta hat jetzt ein funktionierendes Statistics-Fenster mit rund zweihundert Zahlen, darunter Bosse aus den neuen Dungeons und das Schlachtfeld Darkspear Islands."
-date: 2026-09-25T09:31:00+02:00
+date: 2026-09-25T09:55:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-09-25-wow-forever-statistics-pane.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/statistics-pane-now-available-in-wow-forever-beta-383102"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Das Statistics-Fenster funktioniert in der WoW-Forever-Beta. Im ersten Build blieb es leer, der aktuelle füllt es mit rund zweihundert Zahlen pro Charakter, schreibt Wowhead. Sie reichen von der Gesamtzahl der Kills und dem ausgegebenen Gold bis zu Toden durch Hogger.
