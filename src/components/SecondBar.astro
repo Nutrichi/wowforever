@@ -4,7 +4,8 @@
  *
  * Van links naar rechts: de aftelchip naar de launch van WoW Forever, een
  * dunne lijn, de slot (daar komt de era-schakelaar op BIS, CLASSES,
- * TRADESKILLS en REPUTATIONS), en rechts het zoekveld met de RestedXP-pil.
+ * TRADESKILLS en REPUTATIONS), en rechts het zoekveld, de Ko-fi-pil (sinds
+ * 25 september 2026) en de RestedXP-pil.
  *
  * **Zoeken stond eerst in de header** en is hier naartoe gegaan (Nutri,
  * 18 september 2026), zodat de navigatie de volle breedte houdt. Onder 900 px
@@ -22,6 +23,7 @@
 import type { Locale } from '../i18n/ui';
 import { localizePath, useTranslations } from '../i18n/utils';
 import { foreverHubPath, launchDate } from '../config/site';
+import KofiPill from './KofiPill.astro';
 import RestedXpPill from './RestedXpPill.astro';
 import SearchField from './SearchField.astro';
 
@@ -87,6 +89,7 @@ const ChipTag = hubHref ? 'a' : 'span';
 
     <div class="wf-bar__right">
       <div class="wf-bar__search"><SearchField locale={locale} variant="bar" /></div>
+      <KofiPill locale={locale} variant="bar" />
       <RestedXpPill locale={locale} wide />
     </div>
   </div>
@@ -152,26 +155,36 @@ const ChipTag = hubHref ? 'a' : 'span';
     background: var(--wf-border);
   }
 
+  /* De slot houdt de breedte van zijn inhoud (de era-rij); wat moet wijken,
+     is het zoekveld rechts. Eerder krompen slot noch rechtergroep, en schoof
+     het zoekveld over de laatste era-tab (gemeten 25 september 2026: vanaf
+     900 tot 1180 px, en in het Frans op elke breedte). */
   .wf-bar__slot {
-    flex: 1 1 auto;
-    min-width: 0;
+    flex: none;
     display: flex;
     align-items: center;
   }
 
   .wf-bar__right {
-    flex: none;
+    flex: 1 1 auto;
+    min-width: 0;
     margin-left: auto;
     display: flex;
     align-items: center;
+    justify-content: flex-end;
     gap: 12px;
   }
 
   /* Breed genoeg om een titel in te typen, smal genoeg om de balk niet te
-     laten groeien. Krimpt mee zodra de slot ernaast ruimte vraagt. */
+     laten groeien. Krimpt tot 120 px zodra de slot ernaast ruimte vraagt. */
   .wf-bar__search {
-    width: clamp(160px, 22vw, 260px);
+    flex: 0 1 clamp(160px, 22vw, 260px);
+    min-width: 120px;
   }
+
+  /* Met een era-rij in de balk staat Ko-fi er als kopje zonder woord. */
+  .has-content :global(.wf-kofi__label) { display: none; }
+  .has-content :global(.wf-kofi) { padding: 5px 8px; }
 
   @media (max-width: 899px) {
     .wf-bar__inner {

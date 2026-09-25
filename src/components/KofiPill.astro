@@ -1,0 +1,73 @@
+---
+/*
+ * De Ko-fi-link voor een fooi (Nutri, 25 september 2026), in de tweede balk
+ * tussen het zoekveld en de RestedXP-pil. Stond eerst vooraan in de
+ * voettekst; Nutri wilde hem bovenaan.
+ *
+ * Onder 900 px staat hij niet in de balk maar in het mobiele menu, naast de
+ * RestedXP-pil, net zoals het zoekveld. Gemeten op 320 tot 768 px in zes
+ * talen: in de balk duwde hij die op 360 en 480 px naar een tweede regel,
+ * ook met alleen het kopje. `variant="bar"` verbergt hem daar.
+ *
+ * Bewust een pil met een rand en geen gouden vulling: RestedXP is een
+ * inkomstenvereiste en blijft de knop die opvalt. Het icoon is een eigen
+ * kopje met een hartje in de kleuren van de huisstijl, geen logo van Ko-fi.
+ *
+ * Geen partnerlink: gewone `noopener`, geen `sponsored`.
+ */
+import type { Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+import { kofiUrl } from '../config/site';
+
+interface Props {
+  locale: Locale;
+  /** `bar` in de tweede balk (weg onder 900 px), `menu` in het mobiele menu. */
+  variant?: 'bar' | 'menu';
+}
+
+const { locale, variant = 'bar' } = Astro.props;
+const t = useTranslations(locale);
+---
+
+{kofiUrl && (
+  <a class:list={['wf-kofi', `is-${variant}`]} href={kofiUrl} rel="noopener" target="_blank" aria-label={t('kofi.aria')}>
+    <svg class="wf-kofi__icon" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+      <path d="M3.5 6.5h13v7.5a4.5 4.5 0 0 1-4.5 4.5H8a4.5 4.5 0 0 1-4.5-4.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" />
+      <path d="M16.5 8.5h1.5a2.75 2.75 0 0 1 0 5.5h-1.5" fill="none" stroke="currentColor" stroke-width="1.8" />
+      <path class="wf-kofi__heart" d="M10 15.2l-2.6-2.5a1.55 1.55 0 0 1 2.6-1.7 1.55 1.55 0 0 1 2.6 1.7z" />
+    </svg>
+    <span class="wf-kofi__label" aria-hidden="true">{t('kofi.label')}</span>
+  </a>
+)}
+
+<style>
+  .wf-kofi {
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 12px 5px 10px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    color: var(--wf-muted);
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    transition: var(--wf-transition);
+  }
+
+  .wf-kofi:hover {
+    border-color: var(--wf-accent-deep);
+    color: var(--wf-ink);
+  }
+
+  .wf-kofi__icon { flex: none; }
+  .wf-kofi__heart { fill: var(--wf-accent); }
+
+  @media (max-width: 899px) {
+    .wf-kofi.is-bar { display: none; }
+  }
+</style>

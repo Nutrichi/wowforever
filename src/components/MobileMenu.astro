@@ -15,6 +15,7 @@ import Logo from './Logo.astro';
 import SearchField from './SearchField.astro';
 import LangPicker from './LangPicker.astro';
 import ThemeToggle from './ThemeToggle.astro';
+import KofiPill from './KofiPill.astro';
 import RestedXpPill from './RestedXpPill.astro';
 
 interface Props {
@@ -83,7 +84,7 @@ const home = localizePath('', locale);
     <div class="wf-menu__foot">
       <LangPicker locale={locale} pathname={pathname} variant="grid" />
       <ThemeToggle locale={locale} variant="row" />
-      <div class="wf-menu__rxp"><RestedXpPill locale={locale} wide /></div>
+      <div class="wf-menu__rxp"><KofiPill locale={locale} variant="menu" /><RestedXpPill locale={locale} wide /></div>
     </div>
   </div>
 </div>
@@ -204,7 +205,7 @@ const home = localizePath('', locale);
     padding-top: 20px;
   }
 
-  .wf-menu__rxp { display: flex; }
+  .wf-menu__rxp { display: flex; flex-wrap: wrap; gap: 10px; }
 
   /* Boven de breakpoint bestaat dit menu niet, ook niet als het openstond. */
   @media (min-width: 900px) {

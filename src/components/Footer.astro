@@ -1,10 +1,8 @@
 ---
 /*
  * De voettekst (PROJECT_SPEC.md §10): copyright, de verplichte disclaimer en
- * de links naar Ko-fi (fooi), YouTube, Twitch, Discord, RestedXP en de iOS-app.
- *
- * Ko-fi staat vooraan met een eigen icoon: een kopje met een hartje, getekend
- * in de kleuren van de huisstijl in plaats van het logo van Ko-fi.
+ * de links naar YouTube, Twitch, Discord, RestedXP en de iOS-app. Ko-fi staat
+ * sinds 25 september 2026 in de tweede balk (KofiPill.astro), niet hier.
  *
  * Klein gehouden en nergens vastgeplakt. De disclaimer past op één regel (Nutri,
  * 14 september 2026): geen band met Blizzard en niet door Blizzard goedgekeurd.
@@ -13,7 +11,7 @@
  */
 import type { Locale } from '../i18n/ui';
 import { useTranslations } from '../i18n/utils';
-import { appStoreUrl, kofiUrl, restedxpUrl, social } from '../config/site';
+import { appStoreUrl, restedxpUrl, social } from '../config/site';
 
 interface Props {
   locale: Locale;
@@ -26,7 +24,6 @@ const t = useTranslations(locale);
 const year = new Date().getFullYear();
 
 const links = [
-  { label: t('footer.tip'), href: kofiUrl, rel: 'noopener', kofi: true },
   { label: t('footer.youtube'), href: social.youtube, rel: 'noopener' },
   { label: t('footer.twitch'), href: social.twitch, rel: 'noopener' },
   { label: t('footer.discord'), href: social.discord, rel: 'noopener' },
@@ -48,16 +45,7 @@ const links = [
       <ul class="wf-footer__links">
         {links.map((link) => (
           <li>
-            <a href={link.href} rel={link.rel} class="wf-footer__link" title={link.kofi ? 'Ko-fi' : undefined}>
-              {link.kofi && (
-                <svg class="wf-footer__kofi" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
-                  <path d="M3.5 6.5h13v7.5a4.5 4.5 0 0 1-4.5 4.5H8a4.5 4.5 0 0 1-4.5-4.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" />
-                  <path d="M16.5 8.5h1.5a2.75 2.75 0 0 1 0 5.5h-1.5" fill="none" stroke="currentColor" stroke-width="1.8" />
-                  <path class="wf-footer__kofiheart" d="M10 15.2l-2.6-2.5a1.55 1.55 0 0 1 2.6-1.7 1.55 1.55 0 0 1 2.6 1.7z" />
-                </svg>
-              )}
-              {link.label}
-            </a>
+            <a href={link.href} rel={link.rel} class="wf-footer__link">{link.label}</a>
           </li>
         ))}
       </ul>
@@ -116,16 +104,6 @@ const links = [
   }
 
   .wf-footer__link:hover { color: var(--wf-ink); }
-
-  /* Ko-fi: het kopje in de linkkleur, het hartje in het accent. */
-  .wf-footer__link:has(.wf-footer__kofi) {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-  }
-
-  .wf-footer__kofi { flex: none; }
-  .wf-footer__kofiheart { fill: var(--wf-accent); }
 
   @media (max-width: 899px) {
     .wf-footer__inner {
