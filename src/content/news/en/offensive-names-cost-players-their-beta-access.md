@@ -32,9 +32,9 @@ That email does exist, writes Vrakthris, and it names the character name that ca
 
 ## Who enforces it
 
-The beta is run mainly by QA and the game development team, writes Vrakthris, so policy enforcement there falls under them rather than under normal support. A player who believes a mistake was made can still file an appeal.
+The beta is run mainly by QA and the game development team, writes Vrakthris, so policy enforcement there falls under them rather than under normal support. A player who believed a mistake was made could still file an appeal at the time. Since 24 September that no longer applies: the Customer Service team does not handle appeals over names, [writes developer Fwoibles](/news/forced-renames-follow-offensive-names-on-the-beta/).
 
-He adds that none of the examples he has seen so far look appropriate, but that the call is not his. Whether the names are dealt with with a forced rename at launch instead of a removal, Blizzard does not say.
+He adds that none of the examples he has seen so far look appropriate, but that the call is not his. Blizzard has since done both. On 24 September it began forcing renames on names that break the policy, and kept the removal of beta access for the worst ones.
 
 ## Why it lands now
 

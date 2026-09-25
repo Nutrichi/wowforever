@@ -33,9 +33,9 @@ Die e-mail bestaat wel degelijk, schrijft Vrakthris, en de personagenaam die de 
 
 ## Wie het handhaaft
 
-De beta wordt vooral gedraaid door QA en het ontwikkelteam, schrijft Vrakthris, dus de handhaving valt daar onder hen en niet onder de gewone support. Wie denkt dat er een fout gemaakt is, kan nog altijd beroep aantekenen.
+De beta wordt vooral gedraaid door QA en het ontwikkelteam, schrijft Vrakthris, dus de handhaving valt daar onder hen en niet onder de gewone support. Wie dacht dat er een fout gemaakt was, kon toen nog beroep aantekenen. Sinds 24 september geldt dat niet meer: het Customer Service-team behandelt geen beroep over namen, [schrijft ontwikkelaar Fwoibles](/nl/news/forced-renames-follow-offensive-names-on-the-beta/).
 
-Hij voegt eraan toe dat geen van de voorbeelden die hij tot nu toe zag, gepast lijkt, maar dat de beslissing niet bij hem ligt. Of de namen bij de launch met een verplichte naamswijziging afgehandeld worden in plaats van met een verwijdering, zegt Blizzard niet.
+Hij voegt eraan toe dat geen van de voorbeelden die hij tot nu toe zag, gepast lijkt, maar dat de beslissing niet bij hem ligt. Blizzard doet intussen allebei. Op 24 september begon het met gedwongen naamswijzigingen bij namen die de regels breken, en het verlies van de beta-toegang bleef voor de ergste.
 
 ## Waarom het nu speelt
 

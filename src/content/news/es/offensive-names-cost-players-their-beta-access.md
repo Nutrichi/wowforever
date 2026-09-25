@@ -33,9 +33,9 @@ Ese correo sí existe, escribe Vrakthris, y lleva dentro el nombre de personaje 
 
 ## Quién lo aplica
 
-La beta la llevan sobre todo QA y el equipo de desarrollo, escribe Vrakthris, así que allí la aplicación de las normas recae en ellos y no en el soporte habitual. Quien crea que hubo un error todavía puede presentar una apelación.
+La beta la llevan sobre todo QA y el equipo de desarrollo, escribe Vrakthris, así que allí la aplicación de las normas recae en ellos y no en el soporte habitual. Quien creyera que hubo un error aún podía presentar una apelación entonces. Desde el 24 de septiembre ya no es así: el equipo de Customer Service no tramita apelaciones sobre nombres, [escribe el desarrollador Fwoibles](/es/news/forced-renames-follow-offensive-names-on-the-beta/).
 
-Añade que ninguno de los ejemplos que ha visto hasta ahora le parece apropiado, pero que la decisión no es suya. Si en el lanzamiento los nombres se resolverán con un cambio de nombre forzado en vez de con una retirada, Blizzard no lo dice.
+Añade que ninguno de los ejemplos que ha visto hasta ahora le parece apropiado, pero que la decisión no es suya. Desde entonces Blizzard hace las dos cosas. El 24 de septiembre empezó a forzar cambios de nombre en los que incumplen las normas, y dejó la pérdida del acceso a la beta para los peores.
 
 ## Por qué sale ahora
 

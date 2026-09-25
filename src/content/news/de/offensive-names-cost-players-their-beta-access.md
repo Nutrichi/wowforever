@@ -33,9 +33,9 @@ Diese E-Mail gibt es sehr wohl, schreibt Vrakthris, und der Charaktername, der d
 
 ## Wer das durchsetzt
 
-Die Beta wird vor allem von QA und dem Entwicklungsteam gefahren, schreibt Vrakthris, also liegt die Durchsetzung dort bei ihnen und nicht beim gewöhnlichen Support. Wer meint, dass ein Fehler passiert ist, kann weiterhin Einspruch einlegen.
+Die Beta wird vor allem von QA und dem Entwicklungsteam gefahren, schreibt Vrakthris, also liegt die Durchsetzung dort bei ihnen und nicht beim gewöhnlichen Support. Wer einen Fehler vermutete, konnte damals noch Einspruch einlegen. Seit dem 24. September gilt das nicht mehr: Das Customer-Service-Team bearbeitet keine Einsprüche zu Namen, [schreibt Entwickler Fwoibles](/de/news/forced-renames-follow-offensive-names-on-the-beta/).
 
-Er fügt hinzu, dass keines der Beispiele, die er bisher gesehen hat, angemessen wirkt, die Entscheidung aber nicht bei ihm liegt. Ob die Namen zum Launch mit einer erzwungenen Umbenennung statt mit einem Entzug behandelt werden, sagt Blizzard nicht.
+Er fügt hinzu, dass keines der Beispiele, die er bisher gesehen hat, angemessen wirkt, die Entscheidung aber nicht bei ihm liegt. Inzwischen tut Blizzard beides. Am 24. September begann es mit erzwungenen Umbenennungen bei Namen gegen die Regeln, und der Entzug des Beta-Zugangs blieb den schlimmsten vorbehalten.
 
 ## Warum es jetzt aufkommt
 

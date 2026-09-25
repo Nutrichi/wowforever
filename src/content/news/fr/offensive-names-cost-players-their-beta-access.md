@@ -33,9 +33,9 @@ Cet e-mail existe bel et bien, écrit Vrakthris, et il contient le nom de person
 
 ## Qui applique la règle
 
-La bêta est menée surtout par la QA et l'équipe de développement, écrit Vrakthris, donc l'application des règles y relève d'eux et non du support habituel. Un joueur qui pense à une erreur peut toujours déposer un recours.
+La bêta est menée surtout par la QA et l'équipe de développement, écrit Vrakthris, donc l'application des règles y relève d'eux et non du support habituel. Un joueur qui pensait à une erreur pouvait alors encore déposer un recours. Depuis le 24 septembre, ce n'est plus le cas : l'équipe Customer Service ne traite aucun recours sur les noms, [écrit le développeur Fwoibles](/fr/news/forced-renames-follow-offensive-names-on-the-beta/).
 
-Il ajoute qu'aucun des exemples qu'il a vus jusqu'ici ne lui semble approprié, mais que la décision ne lui revient pas. Si les noms seront traités à la sortie par un changement de nom forcé plutôt que par un retrait, Blizzard ne le dit pas.
+Il ajoute qu'aucun des exemples qu'il a vus jusqu'ici ne lui semble approprié, mais que la décision ne lui revient pas. Blizzard fait depuis les deux. Le 24 septembre, il a commencé à imposer un changement de nom aux noms hors des règles, et a gardé la perte de l'accès à la bêta pour les pires.
 
 ## Pourquoi cela tombe maintenant
 

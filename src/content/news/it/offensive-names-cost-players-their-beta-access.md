@@ -33,9 +33,9 @@ Quella mail esiste eccome, scrive Vrakthris, e dentro c'è il nome di personaggi
 
 ## Chi la fa rispettare
 
-La beta è gestita soprattutto dal QA e dal team di sviluppo, scrive Vrakthris, quindi lì l'applicazione delle regole spetta a loro e non al supporto abituale. Chi pensa che ci sia stato un errore può comunque presentare ricorso.
+La beta è gestita soprattutto dal QA e dal team di sviluppo, scrive Vrakthris, quindi lì l'applicazione delle regole spetta a loro e non al supporto abituale. Chi pensava che ci fosse stato un errore poteva allora ancora presentare ricorso. Dal 24 settembre non è più così: il team Customer Service non gestisce ricorsi sui nomi, [scrive lo sviluppatore Fwoibles](/it/news/forced-renames-follow-offensive-names-on-the-beta/).
 
-Aggiunge che nessuno degli esempi visti finora gli sembra appropriato, ma che la decisione non è sua. Se all'uscita i nomi verranno trattati con un cambio di nome forzato invece che con una rimozione, Blizzard non lo dice.
+Aggiunge che nessuno degli esempi visti finora gli sembra appropriato, ma che la decisione non è sua. Da allora Blizzard fa entrambe le cose. Il 24 settembre ha iniziato a imporre un cambio di nome ai nomi fuori dalle regole, e ha riservato la perdita dell'accesso alla beta ai peggiori.
 
 ## Perché esce adesso
 
