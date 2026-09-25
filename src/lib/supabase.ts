@@ -108,24 +108,3 @@ export async function submitNews(fields: {
     return { ok: false, reason: 'network' };
   }
 }
-
-/**
- * Inschrijven op de nieuwsbrief (§6.3). Een adres dat er al staat, meldt de
- * database gewoon als succes. De drempels tegen bots staan in de database.
- */
-export async function subscribeNewsletter(email: string, lang: string): Promise<SubmitResult> {
-  if (!supabaseEnabled) return { ok: false, reason: 'network' };
-  const id = identity();
-  if (!id) return { ok: false, reason: 'storage' };
-
-  try {
-    const response = await fetch(`${supabaseUrl}/rest/v1/rpc/subscribe_newsletter`, {
-      method: 'POST',
-      headers,
-      body: JSON.stringify({ p_email: email, p_lang: lang, p_identity: id }),
-    });
-    return response.ok ? { ok: true } : { ok: false, reason: 'network' };
-  } catch (error) {
-    return { ok: false, reason: 'network' };
-  }
-}
