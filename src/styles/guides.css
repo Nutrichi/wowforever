@@ -132,6 +132,9 @@
   background: var(--wf-accent-soft);
 }
 
+/* Een tweede partnerblok (Zygor) sluit aan op het eerste. */
+.wf-rxpblock--next { margin-top: 12px; }
+
 .wf-rxpblock p { flex: 1 1 300px; font-size: 14.5px; color: var(--wf-ink-soft); }
 
 .wf-rxpblock a {

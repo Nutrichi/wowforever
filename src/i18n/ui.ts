@@ -117,6 +117,7 @@ export const ui = {
     /* De naam van de app is een eigennaam; de vijf andere talen erven deze regel. */
     'footer.app': 'iOS app',
     'footer.label': 'Site footer',
+    'footer.tip': 'Tip',
 
     'list.heading': 'ALL POSTS, NEWEST FIRST',
     'list.empty': 'No posts yet.',
@@ -251,6 +252,7 @@ export const ui = {
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Voettekst',
+    'footer.tip': 'Tip',
 
     'list.heading': 'ALLE POSTS, NIEUWSTE EERST',
     'list.empty': 'Nog geen posts.',
@@ -385,6 +387,7 @@ export const ui = {
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Pied de page',
+    'footer.tip': 'Pourboire',
 
     'list.heading': 'TOUS LES ARTICLES, DU PLUS RÉCENT',
     'list.empty': 'Pas encore d’articles.',
@@ -519,6 +522,7 @@ export const ui = {
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Pie de página',
+    'footer.tip': 'Propina',
 
     'list.heading': 'TODAS LAS ENTRADAS, MÁS RECIENTES PRIMERO',
     'list.empty': 'Todavía no hay entradas.',
@@ -653,6 +657,7 @@ export const ui = {
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Piè di pagina',
+    'footer.tip': 'Mancia',
 
     'list.heading': 'TUTTI GLI ARTICOLI, DAL PIÙ RECENTE',
     'list.empty': 'Ancora nessun articolo.',
@@ -787,6 +792,7 @@ export const ui = {
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Fußzeile',
+    'footer.tip': 'Trinkgeld',
 
     'list.heading': 'ALLE BEITRÄGE, NEUESTE ZUERST',
     'list.empty': 'Noch keine Beiträge.',

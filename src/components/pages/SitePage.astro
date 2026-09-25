@@ -7,7 +7,8 @@
  * Van boven naar onder: broodkruimel, titel, de datum van de laatste
  * controle, chips naar de verwante pagina's (de andere routes of de andere
  * vergelijkingen), de tekst uit de Markdown, de vragen uit de frontmatter,
- * bij routes en vergelijkingen het RestedXP-blok, en de bronregel.
+ * bij routes en vergelijkingen het RestedXP-blok (op drie vergelijkingen met
+ * een Zygor-blok eronder, `zygorPages`), en de bronregel.
  *
  * De vragen staan ook als FAQPage in de JSON-LD. Het codewoord Camelot staat
  * alleen in de vragen van de hub (§4.4).
@@ -16,7 +17,7 @@ import { render } from 'astro:content';
 import type { Locale } from '../../i18n/ui';
 import { localeTags } from '../../i18n/ui';
 import { localizePath, useTranslations } from '../../i18n/utils';
-import { isPartnerLink, restedxpUrl } from '../../config/site';
+import { isPartnerLink, restedxpUrl, zygorPages, zygorUrl } from '../../config/site';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getPage, getPages, pagePath } from '../../lib/pages';
 import { pageT } from '../../i18n/pages';
@@ -133,6 +134,13 @@ const jsonLd = {
       <aside class="wf-rxpblock" data-pagefind-ignore>
         <p>{g('restedxpText')}</p>
         <a href={restedxpUrl} rel="noopener sponsored">{g('restedxpButton')}</a>
+      </aside>
+    )}
+
+    {zygorPages.includes(page.key) && (
+      <aside class="wf-rxpblock wf-rxpblock--next" data-pagefind-ignore>
+        <p>{g('zygorText')}</p>
+        <a href={zygorUrl} rel="noopener sponsored">{g('zygorButton')}</a>
       </aside>
     )}
 

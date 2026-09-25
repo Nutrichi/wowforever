@@ -39,6 +39,23 @@ export const restedxpUrl = 'https://shop.restedxp.com/ref/nutri/';
 export const zygorUrl = 'https://zygorguides.com/ref/Nutri/';
 
 /**
+ * De Ko-fi-pagina van Nutri, voor een fooi (Nutri, 25 september 2026). Staat in
+ * de voettekst als eerste link, voor YouTube, met een eigen kopje als icoon.
+ * Geen partnerlink: gewone `noopener`, geen `sponsored`.
+ */
+export const kofiUrl = 'https://ko-fi.com/nutri_wow';
+
+/**
+ * De vergelijkingen die onder het RestedXP-blok ook een Zygor-blok dragen
+ * (Nutri, 25 september 2026). RestedXP blijft bovenaan; Zygor staat eronder.
+ */
+export const zygorPages = [
+  'compare/leveling-addons-forever',
+  'compare/restedxp-vs-zygor',
+  'compare/free-vs-premium',
+];
+
+/**
  * Alle partnerlinks. Een link die hiermee begint, krijgt `sponsored` in plaats
  * van `nofollow`.
  *
@@ -70,11 +87,12 @@ export function isPartnerLink(url: string): boolean {
 export const appStoreUrl = '';
 
 /**
- * Het pad naar de inzendpagina (§6.2). Aan sinds fase 8 (15 september 2026):
- * het Supabase-project staat er en `submit_news` is doorgemeten, dus de knop
- * onder de feed doet wat ze belooft. Leeghalen verbergt de knop weer.
+ * Het pad naar de inzendpagina (§6.2). Aan sinds fase 8 (15 september 2026),
+ * **uit sinds 25 september 2026** (Nutri: de knop "Submit news" onder de feed is
+ * nutteloos). Leeg verbergt de knop; de pagina `/submit/` zelf bestaat nog en
+ * blijft noindex. Terugzetten op 'submit' toont de knop weer.
  */
-export const submitPath = 'submit';
+export const submitPath = '';
 
 /**
  * Het pad naar de Forever-hub (§4.4), sinds fase 5. De aftelchip in de tweede
