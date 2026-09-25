@@ -1,7 +1,7 @@
 ---
 title: "Recepten zijn te volgen zoals een quest"
 description: "Professions in WoW Forever krijgen een vakje Track Recipe, een chatlink voor het hele receptenboek en nieuwe filters. Wowhead toonde alle drie in de beta."
-date: 2026-09-25T19:30:00+02:00
+date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-09-21-wow-forever-campfire.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/profession-quality-of-life-improvements-in-wow-forever-383084"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Professions in WoW Forever krijgen drie gemakken. Een recept is te volgen zoals een quest, een heel receptenboek kan in de chat gelinkt worden, en nieuwe filters sorteren de recepten. Wowhead toonde alle drie uit de beta.

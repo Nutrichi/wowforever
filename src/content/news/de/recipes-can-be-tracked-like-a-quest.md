@@ -1,7 +1,7 @@
 ---
 title: "Rezepte lassen sich wie eine Quest verfolgen"
 description: "Die Berufe in WoW Forever bekommen ein Kästchen Track Recipe, einen Chatlink für das ganze Rezeptbuch und neue Filter. Wowhead zeigte alle drei in der Beta."
-date: 2026-09-25T19:30:00+02:00
+date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-09-21-wow-forever-campfire.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/profession-quality-of-life-improvements-in-wow-forever-383084"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Die Berufe in WoW Forever bekommen drei Erleichterungen. Ein Rezept lässt sich wie eine Quest verfolgen, ein ganzes Rezeptbuch lässt sich im Chat verlinken, und neue Filter sortieren die Rezepte. Wowhead zeigte alle drei aus der Beta.

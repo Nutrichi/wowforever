@@ -1,7 +1,7 @@
 ---
 title: "Las recetas se pueden seguir como una misión"
 description: "Las profesiones de WoW Forever reciben una casilla Track Recipe, un enlace de chat para todo el libro de recetas y filtros nuevos. Wowhead mostró las tres cosas en la beta."
-date: 2026-09-25T19:30:00+02:00
+date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-09-21-wow-forever-campfire.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/profession-quality-of-life-improvements-in-wow-forever-383084"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Las profesiones de WoW Forever reciben tres comodidades. Una receta se puede seguir como una misión, un libro de recetas entero se puede enlazar en el chat y filtros nuevos ordenan las recetas. Wowhead mostró las tres desde la beta.

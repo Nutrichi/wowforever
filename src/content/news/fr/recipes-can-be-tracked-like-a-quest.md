@@ -1,7 +1,7 @@
 ---
 title: "Les recettes se suivent comme une quête"
 description: "Les métiers de WoW Forever reçoivent une case Track Recipe, un lien de discussion pour tout le livre de recettes et de nouveaux filtres. Wowhead a montré les trois dans la bêta."
-date: 2026-09-25T19:30:00+02:00
+date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-09-21-wow-forever-campfire.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/profession-quality-of-life-improvements-in-wow-forever-383084"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Les métiers de WoW Forever reçoivent trois facilités. Une recette peut se suivre comme une quête, tout un livre de recettes peut être lié dans la discussion, et de nouveaux filtres trient les recettes. Wowhead a montré les trois depuis la bêta.

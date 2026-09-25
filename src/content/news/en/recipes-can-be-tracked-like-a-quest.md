@@ -1,7 +1,7 @@
 ---
 title: "Recipes can be tracked like a quest"
 description: "Professions in WoW Forever get a Track Recipe checkbox, a chat link for the whole profession book and new filters. Wowhead showed all three in the beta."
-date: 2026-09-25T19:30:00+02:00
+date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-09-21-wow-forever-campfire.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/profession-quality-of-life-improvements-in-wow-forever-383084"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 ---
 Professions in WoW Forever get three conveniences. A recipe can be tracked like a quest, a whole profession book can be linked in chat, and new filters sort the recipes. Wowhead showed all three from the beta.
 
