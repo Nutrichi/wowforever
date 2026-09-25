@@ -1,7 +1,7 @@
 ---
 title: "Die Beta-Dateien enthalten ein neues Stoff-Levelset"
 description: "Rotmender's Raiment hat fünf Stoffteile für Level 17 bis 19, mit einem Bonus für Bedrohung, Mana und Heilung. Wowhead fand es in den Dateien des neuesten Beta-Builds; Blizzard hat es nicht bestätigt."
-date: 2026-09-25T09:32:00+02:00
+date: 2026-09-25T10:25:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-09-17-wow-forever-the-barrens.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-leveling-item-set-datamined-on-wow-forever-beta-383107"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Die Dateien des neuesten Beta-Builds enthalten ein neues Levelset, Rotmender's Raiment. Es hat fünf Stoffteile für Charaktere um Level 17 bis 19, schreibt Wowhead nach einem Datamining. Blizzard hat das Set nicht bestätigt.

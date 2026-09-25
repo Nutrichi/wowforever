@@ -1,7 +1,7 @@
 ---
 title: "I file della beta nascondono un set di stoffa per livellare"
 description: "Rotmender's Raiment conta cinque pezzi di stoffa per i livelli da 17 a 19, con un bonus per minaccia, Mana e cure. Wowhead lo ha trovato nei file dell'ultima build della beta; Blizzard non lo ha confermato."
-date: 2026-09-25T09:32:00+02:00
+date: 2026-09-25T10:25:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-09-17-wow-forever-the-barrens.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-leveling-item-set-datamined-on-wow-forever-beta-383107"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 I file dell'ultima build della beta contengono un nuovo set per livellare, Rotmender's Raiment. Conta cinque pezzi di stoffa per personaggi tra il livello 17 e il 19, scrive Wowhead dopo un datamining. Blizzard non ha confermato il set.

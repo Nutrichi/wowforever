@@ -1,7 +1,7 @@
 ---
 title: "La bêta cache un nouveau set de leveling en tissu"
 description: "Rotmender's Raiment compte cinq pièces en tissu pour les niveaux 17 à 19, avec un bonus pour la menace, le Mana et les soins. Wowhead l'a trouvé dans les fichiers du dernier build de la bêta ; Blizzard ne l'a pas confirmé."
-date: 2026-09-25T09:32:00+02:00
+date: 2026-09-25T10:25:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-09-17-wow-forever-the-barrens.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-leveling-item-set-datamined-on-wow-forever-beta-383107"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Les fichiers du dernier build de la bêta contiennent un nouveau set de leveling, Rotmender's Raiment. Il compte cinq pièces en tissu pour les personnages autour des niveaux 17 à 19, écrit Wowhead après un datamining. Blizzard n'a pas confirmé le set.

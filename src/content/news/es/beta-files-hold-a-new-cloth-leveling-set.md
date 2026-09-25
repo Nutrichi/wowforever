@@ -1,7 +1,7 @@
 ---
 title: "Los archivos de la beta esconden un set de tela para subir"
 description: "Rotmender's Raiment tiene cinco piezas de tela para los niveles 17 a 19, con una bonificación para la amenaza, el Mana y la sanación. Wowhead lo encontró en los archivos de la última build de la beta; Blizzard no lo ha confirmado."
-date: 2026-09-25T09:32:00+02:00
+date: 2026-09-25T10:25:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-09-17-wow-forever-the-barrens.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-leveling-item-set-datamined-on-wow-forever-beta-383107"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Los archivos de la última build de la beta contienen un nuevo set para subir de nivel, Rotmender's Raiment. Tiene cinco piezas de tela para personajes de entre nivel 17 y 19, escribe Wowhead tras hacer datamining. Blizzard no ha confirmado el set.

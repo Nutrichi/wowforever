@@ -1,7 +1,7 @@
 ---
 title: "Bestanden van de beta bevatten een nieuwe cloth-levelset"
 description: "Rotmender's Raiment telt vijf cloth-stukken voor level 17 tot 19, met een bonus voor threat, Mana en heling. Wowhead vond de set in de bestanden van de nieuwste beta-build; Blizzard heeft hem niet bevestigd."
-date: 2026-09-25T09:32:00+02:00
+date: 2026-09-25T10:25:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-09-17-wow-forever-the-barrens.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-leveling-item-set-datamined-on-wow-forever-beta-383107"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 De bestanden van de nieuwste beta-build bevatten een nieuwe levelset, Rotmender's Raiment. Hij telt vijf cloth-stukken voor personages rond level 17 tot 19, schrijft Wowhead na datamining. Blizzard heeft de set niet bevestigd.
