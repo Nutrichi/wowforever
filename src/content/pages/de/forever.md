@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: Release, Beta, Roadmap, Skyborne und Editionen"
 description: "Alles, was Blizzard zu World of Warcraft: Forever angekündigt hat: die Termine, die Roadmap, die neuen Zonen, Dungeons und Raids, die Skyborne, das Legacy-System und die Editionen."
 short: "WoW Forever"
-updated: 2026-09-24
+updated: 2026-09-26
 lang: de
 manual: true
 faq:
@@ -264,6 +264,7 @@ Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, die Wi
 - **Optionales Transmog.** Transmog gibt es, aber jeder Spieler entscheidet, ob er es sieht. Ist die Option aus, zeigt jeder seine echte Ausrüstung.
 - **HD- oder SD-Grafik.** Charaktere, Modelle und die Welt wechseln zwischen dem ursprünglichen Look und erneuerter Grafik, mit besserem Licht, Nebel und Wasser.
 - **Layer mit bekannten Gesichtern.** Wie viele Spieler auf einen Layer passen, ist pro Zone festgelegt. Layering versucht außerdem, Spieler zu den Leuten zu bringen, mit denen sie in einer Gruppe waren, zu ihrer Gilde und ihrer Freundesliste, sagt Josh Greenfield.
+- **Recent Allies.** Ein Fenster neben der Friends List speichert jeden Spieler, mit dem ein Charakter in einer Gruppe war, mit Level, Klasse, Ort und Aktivität, und lädt ihn mit einem Klick wieder ein. Häufige Mitspieler lassen sich oben anheften, schreibt Wowhead ([mehr](/de/news/recent-allies-remembers-every-player-from-a-group/)).
 - **Eine bronzene Oberfläche.** Der bronzene, verwitterte Look unterscheidet Forever auf einen Blick von Classic und dem modernen WoW. Ein Schalter zur Oberfläche von Classic ist nicht geplant, und Addons können sie weiterhin ändern, sagt Tim Jones.
 - **Camping.** Spieler bauen Lager in der Welt, denen andere beitreten können. Tradeskills geben sich dort gegenseitig Buffs, Lagereinrichtungen werden hergestellt und verbessert, und Rasten im Lager bringt Vorteile.
 - **Main und Secondary names.** Ein vollständiger Charaktername hat zwei Teile. Beide sind Pflicht, und eine Einstellung legt fest, ob der volle Name angezeigt wird.

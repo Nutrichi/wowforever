@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever : date de sortie, bêta, feuille de route, Skyborne et éditions"
 description: "Tout ce que Blizzard a annoncé sur World of Warcraft: Forever : les dates, la feuille de route, les nouvelles zones, donjons et raids, les Skyborne, le système Legacy et les éditions."
 short: "WoW Forever"
-updated: 2026-09-24
+updated: 2026-09-26
 lang: fr
 manual: true
 faq:
@@ -264,6 +264,7 @@ Les racials ont aussi été revus. Chaque race a désormais quatre racials, les 
 - **Transmogrification facultative.** Elle existe, mais chaque joueur choisit de la voir. Option désactivée, chacun montre son véritable équipement.
 - **Graphismes HD ou SD.** Personnages, modèles et monde passent du style d’origine à des visuels modernisés, avec un meilleur éclairage, un meilleur brouillard et une meilleure eau.
 - **Des layers avec des visages familiers.** Le nombre de joueurs par layer est fixé zone par zone. Le layering essaie aussi de placer les joueurs avec les gens avec qui ils ont groupé, leur guilde et leur liste d’amis, dit Josh Greenfield.
+- **Recent Allies.** Une fenêtre à côté de la Friends List garde chaque joueur avec qui un personnage a groupé, avec niveau, classe, lieu et activité, et le réinvite en un clic. Les habitués peuvent être épinglés en haut, écrit Wowhead ([plus](/fr/news/recent-allies-remembers-every-player-from-a-group/)).
 - **Une interface en bronze.** L’aspect en bronze et patiné distingue Forever au premier coup d’œil de Classic et du WoW moderne. Un interrupteur vers l’interface de Classic n’est pas prévu, et les addons peuvent toujours la modifier, dit Tim Jones.
 - **Camping.** Les joueurs construisent des camps dans le monde que d’autres peuvent rejoindre. Les tradeskills s’y donnent des bonus, les équipements du camp se fabriquent et s’améliorent, et se reposer au camp donne des avantages.
 - **Main et Secondary names.** Le nom complet d’un personnage a deux parties. Les deux sont obligatoires, et un réglage décide si le nom complet s’affiche.

@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: fecha de lanzamiento, beta, hoja de ruta, Skyborne y ediciones"
 description: "Todo lo que Blizzard ha anunciado sobre World of Warcraft: Forever: las fechas, la hoja de ruta, las nuevas zonas, mazmorras y bandas, los Skyborne, el sistema Legacy y las ediciones."
 short: "WoW Forever"
-updated: 2026-09-24
+updated: 2026-09-26
 lang: es
 manual: true
 faq:
@@ -264,6 +264,7 @@ Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials, l
 - **Transfiguración opcional.** Existe, pero cada jugador elige si la ve. Con la opción desactivada, todos muestran su equipo real.
 - **Gráficos HD o SD.** Personajes, modelos y mundo cambian entre el aspecto original y unos gráficos renovados, con mejor iluminación, niebla y agua.
 - **Layers con caras conocidas.** Cuántos jugadores caben en un layer se fija por zona. El layering también intenta juntar a los jugadores con la gente con la que agruparon, su hermandad y su lista de amigos, dice Josh Greenfield.
+- **Recent Allies.** Una ventana junto a la Friends List guarda a cada jugador con el que un personaje agrupó, con nivel, clase, lugar y actividad, y lo vuelve a invitar con un clic. Los habituales se pueden fijar arriba, escribe Wowhead ([más](/es/news/recent-allies-remembers-every-player-from-a-group/)).
 - **Una interfaz de bronce.** El aspecto de bronce desgastado distingue a Forever a primera vista de Classic y del WoW moderno. No está previsto un interruptor a la interfaz de Classic, y los addons pueden seguir cambiándola, dice Tim Jones.
 - **Camping.** Los jugadores montan campamentos en el mundo a los que otros pueden unirse. Allí las tradeskills se dan beneficios entre sí, las mejoras del campamento se fabrican y se amplían, y descansar en él da ventajas.
 - **Main y Secondary names.** El nombre completo de un personaje tiene dos partes. Ambas son obligatorias, y un ajuste decide si se muestra el nombre completo.

@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: release date, beta, roadmap, Skyborne and editions"
 description: "Everything Blizzard has announced about World of Warcraft: Forever: the dates, the roadmap, the new zones, dungeons and raids, the Skyborne, the Legacy system and the editions."
 short: "WoW Forever"
-updated: 2026-09-24
+updated: 2026-09-26
 lang: en
 faq:
   - q: "What is World of Warcraft: Forever?"
@@ -263,6 +263,7 @@ Racials were redesigned as well. Every race now has four racials, the resistance
 - **Optional transmog.** Transmog exists, but every player chooses whether to see it. With the option off, everyone shows their real gear.
 - **HD or SD graphics.** Characters, models and the world can switch between the original look and updated visuals, with better lighting, fog and water.
 - **Layers with familiar faces.** How many players fit on a layer is set per zone. Layering also tries to put players with the people they grouped with, their guild and their friends list, says Josh Greenfield.
+- **Recent Allies.** A pane next to the Friends List saves every player a character grouped with, with level, class, place and activity, and invites them again in one click. Favourites can be pinned to the top, writes Wowhead ([more](/news/recent-allies-remembers-every-player-from-a-group/)).
 - **A bronze interface.** The bronze, weathered look sets Forever apart from Classic and modern WoW at a glance. A switch to the Classic interface is not planned, and addons can still change it, says Tim Jones.
 - **Camping.** Players build camps in the world that others can join. Tradeskills give each other buffs there, camp features are crafted and upgraded, and resting at a camp gives benefits.
 - **Main and Secondary names.** A full character name has two parts. Both are required, and a setting decides whether the full name is shown.

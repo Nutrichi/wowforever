@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-09-24
+updated: 2026-09-26
 lang: nl
 manual: true
 faq:
@@ -264,6 +264,7 @@ Ook de racials zijn herwerkt. Elk ras heeft nu vier racials, de resistance-racia
 - **Optionele transmog.** Transmog bestaat, maar elke speler kiest of hij het ziet. Met de optie uit toont iedereen zijn echte gear.
 - **HD- of SD-graphics.** Personages, modellen en de wereld wisselen tussen de originele look en vernieuwde beelden, met beter licht, betere mist en beter water.
 - **Layers met bekende gezichten.** Hoeveel spelers er op een layer passen, ligt per zone vast. Layering probeert spelers ook bij de mensen te zetten met wie ze groepten, hun guild en hun vriendenlijst, zegt Josh Greenfield.
+- **Recent Allies.** Een venster naast de Friends List bewaart elke speler met wie een personage in een groep zat, met level, class, plaats en activiteit, en nodigt hem met één klik opnieuw uit. Wie vaak terugkomt, is bovenaan vast te pinnen, schrijft Wowhead ([meer](/nl/news/recent-allies-remembers-every-player-from-a-group/)).
 - **Een bronzen interface.** De bronzen, verweerde look onderscheidt Forever in één oogopslag van Classic en het moderne WoW. Een schakelaar naar de interface van Classic staat niet op de planning, en addons kunnen haar nog altijd aanpassen, zegt Tim Jones.
 - **Camping.** Spelers bouwen kampen in de wereld waar anderen bij kunnen aansluiten. Tradeskills geven elkaar daar buffs, kampvoorzieningen worden gemaakt en opgewaardeerd, en rusten in een kamp geeft voordelen.
 - **Main en Secondary names.** Een volledige naam van een personage heeft twee delen. Beide zijn verplicht, en een instelling bepaalt of de volledige naam getoond wordt.
