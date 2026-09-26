@@ -46,6 +46,7 @@ export const ui = {
 
     'nav.label': 'Main navigation',
     'nav.news': 'News',
+    'nav.guides': 'Guides',
     'nav.bis': 'BiS',
     'nav.classes': 'Classes',
     'nav.tradeskills': 'Tradeskills',
@@ -179,6 +180,7 @@ export const ui = {
 
     'nav.label': 'Hoofdnavigatie',
     'nav.news': 'Nieuws',
+    'nav.guides': 'Gidsen',
     'nav.bis': 'BiS',
     'nav.classes': 'Classes',
     'nav.tradeskills': 'Tradeskills',
@@ -306,6 +308,7 @@ export const ui = {
 
     'nav.label': 'Navigation principale',
     'nav.news': 'Actualités',
+    'nav.guides': 'Guides',
     'nav.bis': 'BiS',
     'nav.classes': 'Classes',
     'nav.tradeskills': 'Tradeskills',
@@ -433,6 +436,7 @@ export const ui = {
 
     'nav.label': 'Navegación principal',
     'nav.news': 'Noticias',
+    'nav.guides': 'Guías',
     'nav.bis': 'BiS',
     'nav.classes': 'Clases',
     'nav.tradeskills': 'Tradeskills',
@@ -560,6 +564,7 @@ export const ui = {
 
     'nav.label': 'Navigazione principale',
     'nav.news': 'Notizie',
+    'nav.guides': 'Guide',
     'nav.bis': 'BiS',
     'nav.classes': 'Classi',
     'nav.tradeskills': 'Tradeskills',
@@ -687,6 +692,7 @@ export const ui = {
 
     'nav.label': 'Hauptnavigation',
     'nav.news': 'News',
+    'nav.guides': 'Guides',
     'nav.bis': 'BiS',
     'nav.classes': 'Klassen',
     'nav.tradeskills': 'Tradeskills',

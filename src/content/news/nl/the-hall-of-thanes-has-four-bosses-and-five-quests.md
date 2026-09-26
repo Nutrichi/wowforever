@@ -43,6 +43,8 @@ Twee quests beginnen net buiten de dungeon, twee erbinnen, en de vijfde start in
 - **An Ancient Grudge**, van een Ghostly Attendant in Anvilmar's Rest, binnen: versla de eerste baas.
 - **The Treaty of Understanding**, uit een kluis in de Reliquary of Kings na de eindbaas. Hij gaat naar Magni Bronzebeard.
 
+Elke quest stap voor stap, met de coördinaten van de reeks in Dun Morogh, staat in de [gids voor de quests van de Hall of Thanes](/nl/guides/hall-of-thanes-quests/).
+
 ![Beldin Steelgrill biedt de quest A Visitor to Dun Morogh aan in de sneeuw van Dun Morogh, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-09-24-wow-forever-a-visitor-to-dun-morogh.jpg)
 
 | Beloning | Soort | Quest |

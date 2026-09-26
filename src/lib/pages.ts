@@ -1,7 +1,7 @@
 /*
  * De losse pagina's buiten de zeven secties (PROJECT_SPEC.md §4.4, fase 5):
- * de hub /forever/, de levelroutes onder /routes/ en de vergelijkingen onder
- * /compare/.
+ * de hub /forever/, de levelroutes onder /routes/, de vergelijkingen onder
+ * /compare/ en de gidsen onder /guides/.
  *
  * Een pagina staat per taal als pages/<taal>/<pad>.md; het pad is het adres.
  * Ontbreekt de vertaling, dan komt de Engelse tekst, zoals bij de posts en de
@@ -110,7 +110,7 @@ export async function getPage(key: string, locale: Locale): Promise<SitePage | u
  * De slugs onder een map, voor getStaticPaths: `undefined` is de pagina van de
  * map zelf (/routes/), een string een pagina eronder (/routes/1-60/).
  */
-export async function pageSlugs(folder: 'routes' | 'compare'): Promise<(string | undefined)[]> {
+export async function pageSlugs(folder: 'routes' | 'compare' | 'guides'): Promise<(string | undefined)[]> {
   const keys = (await getPages(defaultLocale)).map((page) => page.key);
   return keys
     .filter((key) => key === folder || key.startsWith(`${folder}/`))

@@ -208,7 +208,7 @@ const home = localizePath('', locale);
   .wf-menu__rxp { display: flex; flex-wrap: wrap; gap: 10px; }
 
   /* Boven de breakpoint bestaat dit menu niet, ook niet als het openstond. */
-  @media (min-width: 900px) {
+  @media (min-width: 1100px) {
     .wf-menu { display: none; }
   }
 </style>
@@ -275,7 +275,7 @@ const home = localizePath('', locale);
 
     // Wie het venster breed maakt terwijl het menu open staat, zou anders met
     // een vergrendelde scroll achterblijven.
-    const wide = window.matchMedia('(min-width: 900px)');
+    const wide = window.matchMedia('(min-width: 1100px)');
     wide.addEventListener('change', (event) => {
       if (event.matches && !menu.hidden) close();
     });

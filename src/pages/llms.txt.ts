@@ -79,6 +79,7 @@ export const GET: APIRoute = async ({ site }) => {
     ...pages.filter((page) => page.key === 'forever').map(pageLine),
     ...pages.filter((page) => page.key === 'routes' || page.key.startsWith('routes/')).map(pageLine),
     ...pages.filter((page) => page.key.startsWith('compare/')).map(pageLine),
+    ...pages.filter((page) => page.key === 'guides' || page.key.startsWith('guides/')).map(pageLine),
     ...(clips
       ? [`- [${en['clips.title']}](${url('/clips/')}): ${en['clips.description'].replace('{h}', String(clips.rules.windowHours))}`]
       : []),

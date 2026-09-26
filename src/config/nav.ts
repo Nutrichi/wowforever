@@ -20,6 +20,7 @@ import { getReputations } from '../lib/reputations';
 import { talentClasses } from '../lib/talents';
 import { bisEras } from './bis';
 import { guideEras } from './guides';
+import { pageSlugs } from '../lib/pages';
 
 export type NavItem = {
   id: string;
@@ -58,6 +59,12 @@ const sections: Section[] = [
   { id: 'talents', labelKey: 'nav.talents', path: 'talents', hasContent: () => talentClasses().length > 0 },
   // De facties van WoW Forever, zonder era (fase 6, Nutri 15 september 2026): de tab verschijnt met de eerste factie.
   { id: 'reputations', labelKey: 'nav.reputations', path: 'reputations', hasContent: async () => (await getReputations(defaultLocale)).length > 0 },
+  /*
+   * De gidsen: questreeksen, dungeonquests en later raids en professions
+   * (Nutri, 26 september 2026: een eigen sectie, na REPUTATIONS). De tab staat er
+   * zodra er een gids onder /guides/ staat; /guides/ zelf is het overzicht.
+   */
+  { id: 'guides', labelKey: 'nav.guides', path: 'guides', hasContent: async () => (await pageSlugs('guides')).some((slug) => slug !== undefined) },
   // Clips en Streams halen hun inhoud op vlak voor de build (§7).
   { id: 'clips', labelKey: 'nav.clips', path: 'clips', hasContent: () => feedHasContent('clips') },
   { id: 'streams', labelKey: 'nav.streams', path: 'streams', hasContent: () => feedHasContent('streams') },

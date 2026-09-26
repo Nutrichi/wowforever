@@ -1,7 +1,7 @@
 ---
 /*
  * De header (handoff §5). Links logo en woordmerk, daarnaast de
- * hoofdnavigatie, rechts taal en thema. Onder 900 px blijft alleen logo plus
+ * hoofdnavigatie, rechts taal en thema. Onder 1100 px blijft alleen logo plus
  * hamburger over en verhuist de rest naar het mobiele menu.
  *
  * **Zoeken staat hier niet meer**, maar in de balk eronder naast de
@@ -111,7 +111,7 @@ const home = localizePath('', locale);
 
   .wf-nav__list {
     display: flex;
-    gap: 6px;
+    gap: 5px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -129,7 +129,7 @@ const home = localizePath('', locale);
     letter-spacing: .11em;
     text-transform: uppercase;
     white-space: nowrap;
-    padding: 8px 13px;
+    padding: 8px 11px;
     border: 1px solid var(--wf-border);
     border-radius: var(--wf-r-field);
     color: var(--wf-muted);
@@ -179,10 +179,26 @@ const home = localizePath('', locale);
   .wf-burger__bar.is-2 { width: 20px; background: var(--wf-arcane); }
   .wf-burger__bar.is-3 { width: 14px; background: var(--wf-accent); }
 
-  /* Tussen 900 en 1180 px wordt de ruimte krap: iets dichter op elkaar. */
+  /*
+   * Tussen 1100 en 1180 px wordt de ruimte krap: iets dichter op elkaar.
+   * Negen tabs (GUIDES erbij, 26 september 2026) passen zo in zes talen vanaf
+   * 1100 px; het Frans is het breedst. Gemeten met een echte browser.
+   */
   @media (max-width: 1179px) {
     .wf-header__inner { gap: 16px; }
-    .wf-nav__item { padding: 8px 10px; letter-spacing: .08em; }
+    .wf-nav__list { gap: 4px; }
+    .wf-nav__item { padding: 8px 9px; letter-spacing: .06em; }
+  }
+
+  /*
+   * Onder 1100 px past de navigatie niet meer naast taal en thema (al met acht
+   * tabs viel de rechterkant weg tussen 900 en 1024 px): de hamburger neemt
+   * het over. MobileMenu.astro gebruikt dezelfde grens.
+   */
+  @media (max-width: 1099px) {
+    .wf-nav,
+    .wf-header__tools { display: none; }
+    .wf-burger { display: block; }
   }
 
   @media (max-width: 899px) {
@@ -194,8 +210,5 @@ const home = localizePath('', locale);
     .wf-brand__word { font-size: 19px; }
     /* `:global`, want de svg komt uit Logo.astro en draagt het scope-attribuut van dit bestand niet. */
     .wf-brand :global(.wf-brand__logo) { width: 24px; height: 24px; }
-    .wf-nav,
-    .wf-header__tools { display: none; }
-    .wf-burger { display: block; }
   }
 </style>
