@@ -3,7 +3,7 @@ title: "Guides für WoW Forever"
 metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
 description: "Alle Guides für WoW Forever an einem Ort: die Quests der Hall of Thanes, die Questreihe zum Cozy Sleeping Bag, und die Routen, Klassenguides und Berufsguides der Seite."
 short: "Guides"
-updated: 2026-09-26
+updated: 2026-09-27
 lang: de
 manual: true
 ---
@@ -20,6 +20,12 @@ Schritt-für-Schritt-Guides für World of Warcraft: Forever, von Dungeonquests b
 | Guide | Worum es geht |
 |---|---|
 | [Cozy Sleeping Bag](/de/guides/cozy-sleeping-bag/) | Die Questreihe ab Level 14 durch vier Zonen bis zu einem Schlafsack, der zusätzliche Erfahrung gibt |
+
+## BMAH
+
+| Guide | Worum es geht |
+|---|---|
+| [BMAH](/de/guides/bmah/) | Das Black Market Auction House in Powderfuse Port in The Riverglades: die Agenten, die Gegenstände und Dungeon Set 1 im Vergleich mit Classic |
 
 ## Weitere Guides auf der Seite
 

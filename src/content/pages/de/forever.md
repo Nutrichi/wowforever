@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: Release, Beta, Roadmap, Skyborne und Editionen"
 description: "Alles, was Blizzard zu World of Warcraft: Forever angekündigt hat: die Termine, die Roadmap, die neuen Zonen, Dungeons und Raids, die Skyborne, das Legacy-System und die Editionen."
 short: "WoW Forever"
-updated: 2026-09-26
+updated: 2026-09-27
 lang: de
 manual: true
 faq:
@@ -165,7 +165,7 @@ Die Startzone der Skyborne: eine abgelegene Insel am Himmel, deren Existenz nun 
 
 ### The Riverglades, etwa Stufe 30 bis 45
 
-Ein neues Grenzland in den Eastern Kingdoms, mit Flüssen, Grasland, Handelswegen und verfallenen Burgen. Es gibt mehr als 150 neue Quests, neue Rufe und Belohnungen. Menschen, Orcs, Oger und kleine Gemeinschaften mit altem Groll leben dort; Blizzard nannte es „not a story about saving Azeroth, a story about living there“. Ein neutraler Goblinhafen bringt neue Reisewege, und die Zone bekommt einen eigenen Dungeon. Eine Weggabelung in Redridge Mountains, die früher in einer Sackgasse endete, führt jetzt dorthin. Spieler der Allianz treffen die Brotherhood of the Horse, die seit Warcraft II nicht mehr zu sehen war, Spieler der Horde einen Ogerclan; der Twilight's Hammer ist die Bedrohung, laut [einem Video von Blizzard](/de/news/a-five-minute-video-sums-up-what-changes/) vom 23. September.
+Ein neues Grenzland in den Eastern Kingdoms, mit Flüssen, Grasland, Handelswegen und verfallenen Burgen. Es gibt mehr als 150 neue Quests, neue Rufe und Belohnungen. Menschen, Orcs, Oger und kleine Gemeinschaften mit altem Groll leben dort; Blizzard nannte es „not a story about saving Azeroth, a story about living there“. Ein neutraler Goblinhafen bringt neue Reisewege, und die Zone bekommt einen eigenen Dungeon. Eine Weggabelung in Redridge Mountains, die früher in einer Sackgasse endete, führt jetzt dorthin. Spieler der Allianz treffen die Brotherhood of the Horse, die seit Warcraft II nicht mehr zu sehen war, Spieler der Horde einen Ogerclan; der Twilight's Hammer ist die Bedrohung, laut [einem Video von Blizzard](/de/news/a-five-minute-video-sums-up-what-changes/) vom 23. September. Das Black Market Auction House von Forever steht in Powderfuse Port, einem Goblin-Außenposten der Zone; siehe den [Guide zum BMAH](/de/guides/bmah/).
 
 ### Mount Hyjal, Leveln im Endgame
 

@@ -210,3 +210,74 @@ button {
 
   .wf-barline::-webkit-scrollbar { display: none; }
 }
+
+/*
+ * Een item zoals Wowhead het toont, maar dan statisch (27 september 2026).
+ * Nutri vroeg de tooltips van Wowhead in een post. `power.js` mag alleen op een
+ * BiS-lijst (PROJECT_SPEC.md §5), dus staat de tooltip hier als tekst: de
+ * gegevens van Wowhead, het icoon uit `public/wh/` en de naam als link naar
+ * Wowhead. Geen verzoek naar een derde, ook op een telefoon leesbaar. De
+ * kleuren komen uit de tokens, zodat de kaart in beide thema's klopt. Staat in
+ * global.css omdat zowel een post (.wf-prose) als een gids (.wf-gprose) hem
+ * gebruikt; de selectors zijn zwaarder dan de link- en beeldregels van die
+ * lopende tekst.
+ */
+.wf-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 290px), 1fr));
+  gap: 12px;
+  align-items: start;
+}
+
+.wf-items .wf-item {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  min-width: 0;
+}
+
+.wf-items .wf-item img.wf-item__icon {
+  flex: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 6px;
+  border: 1px solid var(--wf-border);
+}
+
+.wf-items .wf-item__tip {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 12px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card-sm);
+  background: var(--wf-raised);
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: var(--wf-body);
+}
+
+.wf-items .wf-item a.wf-item__name {
+  font-weight: 700;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.wf-items .wf-item a.wf-item__name:hover { text-decoration: underline; }
+.wf-items .wf-item a.wf-q1 { color: var(--wf-q1); }
+.wf-items .wf-item a.wf-q2 { color: var(--wf-q2); }
+.wf-items .wf-item a.wf-q3 { color: var(--wf-q3); }
+.wf-items .wf-item a.wf-q4 { color: var(--wf-q4); }
+.wf-items .wf-item a.wf-q5 { color: var(--wf-q5); }
+
+.wf-items .wf-item__meta { color: var(--wf-accent); }
+.wf-items .wf-item__use { color: var(--wf-q2); }
+.wf-items .wf-item__setname { margin-top: 6px; color: var(--wf-accent); }
+.wf-items .wf-item__set { color: var(--wf-muted); }
+
+.wf-items .wf-item__row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+}

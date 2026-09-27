@@ -3,7 +3,7 @@ title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
 description: "Tutte le guide per WoW Forever in un unico posto: le missioni della Hall of Thanes, la catena del Cozy Sleeping Bag, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
-updated: 2026-09-26
+updated: 2026-09-27
 lang: it
 manual: true
 ---
@@ -20,6 +20,12 @@ Guide passo per passo per World of Warcraft: Forever, dalle missioni dei dungeon
 | Guida | Di cosa tratta |
 |---|---|
 | [Cozy Sleeping Bag](/it/guides/cozy-sleeping-bag/) | La catena dal livello 14 attraverso quattro zone fino a un sacco a pelo che dà esperienza in più |
+
+## BMAH
+
+| Guida | Di cosa tratta |
+|---|---|
+| [BMAH](/it/guides/bmah/) | La Black Market Auction House a Powderfuse Port, in The Riverglades: gli agenti, gli oggetti e il Dungeon Set 1 confrontato con Classic |
 
 ## Altre guide sul sito
 

@@ -3,7 +3,7 @@ title: "Gidsen voor WoW Forever"
 metaTitle: "WoW Forever-gidsen: dungeonquests, questreeksen en meer"
 description: "Elke gids voor WoW Forever op één plek: de quests van de Hall of Thanes, de Cozy Sleeping Bag-reeks, en de routes, classgidsen en tradeskillgidsen van de site."
 short: "Gidsen"
-updated: 2026-09-26
+updated: 2026-09-27
 lang: nl
 manual: true
 ---
@@ -20,6 +20,12 @@ Stap-voor-stapgidsen voor World of Warcraft: Forever, van dungeonquests tot ques
 | Gids | Waarover |
 |---|---|
 | [Cozy Sleeping Bag](/nl/guides/cozy-sleeping-bag/) | De reeks vanaf level 14 door vier zones naar een slaapzak die extra ervaring geeft |
+
+## BMAH
+
+| Gids | Waarover |
+|---|---|
+| [BMAH](/nl/guides/bmah/) | Het Black Market Auction House in Powderfuse Port in The Riverglades: de agenten, de items en Dungeon Set 1 naast Classic |
 
 ## Meer gidsen op de site
 

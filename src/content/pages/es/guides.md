@@ -3,7 +3,7 @@ title: "Guías para WoW Forever"
 metaTitle: "Guías de WoW Forever: misiones de mazmorra, cadenas de misiones y más"
 description: "Todas las guías para WoW Forever en un solo lugar: las misiones del Hall of Thanes, la cadena del Cozy Sleeping Bag, y las rutas, guías de clase y guías de profesión de la web."
 short: "Guías"
-updated: 2026-09-26
+updated: 2026-09-27
 lang: es
 manual: true
 ---
@@ -20,6 +20,12 @@ Guías paso a paso para World of Warcraft: Forever, desde misiones de mazmorra h
 | Guía | Qué cubre |
 |---|---|
 | [Cozy Sleeping Bag](/es/guides/cozy-sleeping-bag/) | La cadena desde el nivel 14 por cuatro zonas hasta un saco de dormir que da experiencia extra |
+
+## BMAH
+
+| Guía | Qué cubre |
+|---|---|
+| [BMAH](/es/guides/bmah/) | La Black Market Auction House de Powderfuse Port, en The Riverglades: los agentes, los objetos y el Dungeon Set 1 comparado con Classic |
 
 ## Más guías en la web
 

@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-09-26
+updated: 2026-09-27
 lang: nl
 manual: true
 faq:
@@ -165,7 +165,7 @@ De startzone van de Skyborne: een afgelegen eiland in de lucht dat nu in zijn be
 
 ### The Riverglades, ongeveer level 30 tot 45
 
-Een nieuw grensgebied in de Eastern Kingdoms, met rivieren, graslanden, handelsroutes en vervallen burchten. Er zijn meer dan 150 nieuwe quests, nieuwe reputaties en beloningen. Mensen, orcs, ogres en kleine gemeenschappen met oude vetes wonen er; Blizzard noemde het "not a story about saving Azeroth, a story about living there". Een neutrale goblinhaven voegt reisroutes toe, en de zone krijgt een eigen dungeon. Een splitsing in Redridge Mountains die vroeger doodliep, leidt er nu naartoe. Spelers van de Alliance treffen de Brotherhood of the Horse, die sinds Warcraft II niet meer te zien was, en spelers van de Horde een ogerclan; de Twilight's Hammer is de dreiging, volgens [een video van Blizzard](/nl/news/a-five-minute-video-sums-up-what-changes/) van 23 september.
+Een nieuw grensgebied in de Eastern Kingdoms, met rivieren, graslanden, handelsroutes en vervallen burchten. Er zijn meer dan 150 nieuwe quests, nieuwe reputaties en beloningen. Mensen, orcs, ogres en kleine gemeenschappen met oude vetes wonen er; Blizzard noemde het "not a story about saving Azeroth, a story about living there". Een neutrale goblinhaven voegt reisroutes toe, en de zone krijgt een eigen dungeon. Een splitsing in Redridge Mountains die vroeger doodliep, leidt er nu naartoe. Spelers van de Alliance treffen de Brotherhood of the Horse, die sinds Warcraft II niet meer te zien was, en spelers van de Horde een ogerclan; de Twilight's Hammer is de dreiging, volgens [een video van Blizzard](/nl/news/a-five-minute-video-sums-up-what-changes/) van 23 september. Het Black Market Auction House van Forever staat in Powderfuse Port, een goblinpost in de zone; zie de [gids over de BMAH](/nl/guides/bmah/).
 
 ### Mount Hyjal, levelen in het endgame
 
