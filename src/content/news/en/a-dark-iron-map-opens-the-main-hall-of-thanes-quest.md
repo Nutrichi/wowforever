@@ -7,7 +7,7 @@ lang: en
 image: ../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-vault-door.jpg
 imageAlt: "A Dwarf with a glowing weapon in front of a closed vault door in the Hall of Thanes, a screenshot from the beta of World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/hall-of-thanes-quests/"
+sourceUrl: "https://www.warcrafttavern.com/forever/guides/dungeons/hall-of-thanes/"
 tags: ["forever", "dungeon", "beta"]
 featured: false
 draft: false
@@ -34,6 +34,6 @@ Each quest gives between 3,900 and 4,900 experience, according to Wowhead. Wowhe
 
 ![The tablet of The Treaty of Understanding in a vault of the Reliquary of Kings, with the quest window open](../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg)
 
-Every step, with the coordinates, the rewards and seven screenshots, is in the [guide to the Hall of Thanes quests](/guides/hall-of-thanes-quests/). How the four bosses work is in [the walkthrough of the dungeon](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
+Every step, with the coordinates, the rewards and seven screenshots, is in the [guide to the Hall of Thanes quests](/guides/dungeons/hall-of-thanes/). How the four bosses work is in [the walkthrough of the dungeon](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
 
 Whether the Horde may take the quests is still not clear. Wowhead contradicts itself on that point between its news article and its dungeon guide.

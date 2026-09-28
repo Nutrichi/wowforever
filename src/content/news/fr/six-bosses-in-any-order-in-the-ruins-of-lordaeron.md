@@ -54,7 +54,7 @@ Chaque quête rapporte jusqu’à 9 750 points d’expérience. En jeu, elles ap
 | Slain Baron's Signet | Anneau | Abominable Creatures |
 | Tarnished Locket | Collier, Alliance | Remember That I Love You |
 
-Chaque quête avec son donneur, ses coordonnées et toutes les récompenses se trouve dans le [guide des Ruins of Lordaeron](/fr/guides/ruins-of-lordaeron/).
+Chaque quête avec son donneur, ses coordonnées et toutes les récompenses se trouve dans le [guide des Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/).
 
 ## Six boss dans n’importe quel ordre
 

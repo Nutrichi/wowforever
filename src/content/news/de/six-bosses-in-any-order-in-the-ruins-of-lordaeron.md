@@ -54,7 +54,7 @@ Jede Quest bringt bis zu 9.750 Erfahrung. Im Spiel erscheinen sie selbst auf Lev
 | Slain Baron's Signet | Ring | Abominable Creatures |
 | Tarnished Locket | Halskette, Alliance | Remember That I Love You |
 
-Jede Quest mit Questgeber, Koordinaten und allen Belohnungen steht im [Guide zu den Ruins of Lordaeron](/de/guides/ruins-of-lordaeron/).
+Jede Quest mit Questgeber, Koordinaten und allen Belohnungen steht im [Guide zu den Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/).
 
 ## Sechs Bosse in beliebiger Reihenfolge
 

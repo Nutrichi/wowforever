@@ -1,7 +1,7 @@
 ---
 title: "Guides for WoW Forever"
 metaTitle: "WoW Forever guides: dungeon quests, quest chains and more"
-description: "Every guide for WoW Forever in one place: the Ruins of Lordaeron dungeon, the quests of the Hall of Thanes, the Cozy Sleeping Bag chain, and the routes, class guides and tradeskill guides of the site."
+description: "Every guide for WoW Forever in one place: the dungeon guide with every dungeon quest, the Hall of Thanes and the Ruins of Lordaeron, the Cozy Sleeping Bag chain, the BMAH, and the routes, class guides and tradeskill guides of the site."
 short: "Guides"
 updated: 2026-09-28
 lang: en
@@ -12,13 +12,9 @@ Step-by-step guides for World of Warcraft: Forever, from dungeon quests to quest
 
 | Guide | What it covers |
 |---|---|
-| [Ruins of Lordaeron](/guides/ruins-of-lordaeron/) | The dungeon above the Undercity, levels 15 to 20: the way there, all quests for the Horde and the Alliance, the six bosses and their loot |
-
-## Dungeon quests
-
-| Guide | What it covers |
-|---|---|
-| [Hall of Thanes quests](/guides/hall-of-thanes-quests/) | All five quests of the first new Alliance dungeon, levels 13 to 18, with the chain in Dun Morogh |
+| [Dungeon guide](/guides/dungeons/) | Every dungeon of WoW Forever by level, with all its quests: where they start, for which faction and what they need first |
+| [The Hall of Thanes](/guides/dungeons/hall-of-thanes/) | The first new Alliance dungeon, levels 13 to 18: the way in, all five quests with the chain in Dun Morogh, the four bosses and their loot |
+| [Ruins of Lordaeron](/guides/dungeons/ruins-of-lordaeron/) | The dungeon above the Undercity, levels 15 to 20: the way there, all quests for the Horde and the Alliance, the six bosses and their loot |
 
 ## Quest chains
 

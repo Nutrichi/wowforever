@@ -7,7 +7,7 @@ lang: de
 image: ../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-vault-door.jpg
 imageAlt: "Ein Dwarf mit leuchtender Waffe vor einer geschlossenen Tresortür in der Hall of Thanes, ein Screenshot aus der Beta von World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/hall-of-thanes-quests/"
+sourceUrl: "https://www.warcrafttavern.com/forever/guides/dungeons/hall-of-thanes/"
 tags: ["forever", "dungeon", "beta"]
 featured: false
 draft: false
@@ -34,6 +34,6 @@ Jede Quest bringt zwischen 3.900 und 4.900 Erfahrung, laut Wowhead. Wowhead füh
 
 ![Die Tafel von The Treaty of Understanding in einem Tresor des Reliquary of Kings, mit geöffnetem Questfenster](../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg)
 
-Jeder Schritt, mit den Koordinaten, den Belohnungen und sieben Screenshots, steht im [Guide zu den Quests der Hall of Thanes](/de/guides/hall-of-thanes-quests/). Wie die vier Bosse funktionieren, steht in [der Anleitung zum Dungeon](/de/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
+Jeder Schritt, mit den Koordinaten, den Belohnungen und sieben Screenshots, steht im [Guide zu den Quests der Hall of Thanes](/de/guides/dungeons/hall-of-thanes/). Wie die vier Bosse funktionieren, steht in [der Anleitung zum Dungeon](/de/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
 
 Ob die Horde die Quests annehmen darf, ist weiterhin nicht klar. Wowhead widerspricht sich in diesem Punkt zwischen seinem Newsartikel und seinem Dungeonguide.

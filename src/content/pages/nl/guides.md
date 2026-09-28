@@ -1,7 +1,7 @@
 ---
 title: "Gidsen voor WoW Forever"
 metaTitle: "WoW Forever-gidsen: dungeonquests, questreeksen en meer"
-description: "Elke gids voor WoW Forever op één plek: de dungeon Ruins of Lordaeron, de quests van de Hall of Thanes, de Cozy Sleeping Bag-reeks, en de routes, classgidsen en tradeskillgidsen van de site."
+description: "Elke gids voor WoW Forever op één plek: de dungeongids met elke dungeonquest, The Hall of Thanes en de Ruins of Lordaeron, de Cozy Sleeping Bag-reeks, de BMAH, en de routes, classgidsen en tradeskillgidsen van de site."
 short: "Gidsen"
 updated: 2026-09-28
 lang: nl
@@ -13,13 +13,9 @@ Stap-voor-stapgidsen voor World of Warcraft: Forever, van dungeonquests tot ques
 
 | Gids | Waarover |
 |---|---|
-| [Ruins of Lordaeron](/nl/guides/ruins-of-lordaeron/) | De dungeon boven de Undercity, level 15 tot 20: de weg erheen, alle quests voor de Horde en de Alliance, de zes bazen en hun loot |
-
-## Dungeonquests
-
-| Gids | Waarover |
-|---|---|
-| [Hall of Thanes-quests](/nl/guides/hall-of-thanes-quests/) | Alle vijf de quests van de eerste nieuwe dungeon van de Alliance, level 13 tot 18, met de reeks in Dun Morogh |
+| [Dungeongids](/nl/guides/dungeons/) | Elke dungeon van WoW Forever op level, met al zijn quests: waar ze beginnen, voor welke factie en wat eerst moet |
+| [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/) | De eerste nieuwe dungeon van de Alliance, level 13 tot 18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot |
+| [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) | De dungeon boven de Undercity, level 15 tot 20: de weg erheen, alle quests voor de Horde en de Alliance, de zes bazen en hun loot |
 
 ## Questreeksen
 

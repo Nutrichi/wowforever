@@ -7,7 +7,7 @@ lang: nl
 image: ../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-vault-door.jpg
 imageAlt: "Een Dwarf met een gloeiend wapen voor een gesloten kluisdeur in de Hall of Thanes, een schermafdruk uit de beta van World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/hall-of-thanes-quests/"
+sourceUrl: "https://www.warcrafttavern.com/forever/guides/dungeons/hall-of-thanes/"
 tags: ["forever", "dungeon", "beta"]
 featured: false
 draft: false
@@ -34,6 +34,6 @@ Elke quest geeft tussen 3.900 en 4.900 ervaring, volgens Wowhead. Wowhead zet er
 
 ![Het tablet van The Treaty of Understanding in een kluis van de Reliquary of Kings, met het questvenster open](../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg)
 
-Elke stap, met de coördinaten, de beloningen en zeven schermafdrukken, staat in de [gids voor de quests van de Hall of Thanes](/nl/guides/hall-of-thanes-quests/). Hoe de vier bazen werken, staat in [de walkthrough van de dungeon](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
+Elke stap, met de coördinaten, de beloningen en zeven schermafdrukken, staat in de [gids voor de quests van de Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/). Hoe de vier bazen werken, staat in [de walkthrough van de dungeon](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
 
 Of de Horde de quests mag aannemen, is nog altijd niet duidelijk. Wowhead spreekt zichzelf daarover tegen tussen zijn nieuwsartikel en zijn dungeongids.

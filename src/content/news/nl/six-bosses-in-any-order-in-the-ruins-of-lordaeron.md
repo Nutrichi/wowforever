@@ -54,7 +54,7 @@ Elke quest geeft tot 9.750 experience. In het spel kleuren ze rood, zelfs op lev
 | Slain Baron's Signet | Ring | Abominable Creatures |
 | Tarnished Locket | Halsketting, Alliance | Remember That I Love You |
 
-Elke quest met zijn questgever, coördinaten en alle beloningen staat in de [gids over de Ruins of Lordaeron](/nl/guides/ruins-of-lordaeron/).
+Elke quest met zijn questgever, coördinaten en alle beloningen staat in de [gids over de Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/).
 
 ## Zes bazen in willekeurige volgorde
 

@@ -43,7 +43,7 @@ Deux quêtes commencent juste devant le donjon, deux à l’intérieur, et la ci
 - **An Ancient Grudge**, d’un Ghostly Attendant à Anvilmar’s Rest, à l’intérieur : vainquez le premier boss.
 - **The Treaty of Understanding**, dans un coffre du Reliquary of Kings après le boss final. Elle se rend à Magni Bronzebeard.
 
-Chaque quête pas à pas, avec les coordonnées de la chaîne de Dun Morogh, se trouve dans le [guide des quêtes du Hall of Thanes](/fr/guides/hall-of-thanes-quests/).
+Chaque quête pas à pas, avec les coordonnées de la chaîne de Dun Morogh, se trouve dans le [guide des quêtes du Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/).
 
 ![Beldin Steelgrill propose la quête A Visitor to Dun Morogh dans la neige de Dun Morogh, une capture d’écran de la bêta de World of Warcraft: Forever](../../../assets/posts/2026-09-24-wow-forever-a-visitor-to-dun-morogh.jpg)
 

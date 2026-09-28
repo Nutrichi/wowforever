@@ -53,7 +53,7 @@ Each quest gives up to 9,750 experience. In the game they show up red even at le
 | Slain Baron's Signet | Ring | Abominable Creatures |
 | Tarnished Locket | Necklace, Alliance | Remember That I Love You |
 
-Every quest with its quest giver, coordinates and all the rewards is in the [Ruins of Lordaeron guide](/guides/ruins-of-lordaeron/).
+Every quest with its quest giver, coordinates and all the rewards is in the [Ruins of Lordaeron guide](/guides/dungeons/ruins-of-lordaeron/).
 
 ## Six bosses in any order
 

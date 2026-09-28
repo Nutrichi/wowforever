@@ -16,6 +16,26 @@ export default defineConfig({
    */
   prefetch: { prefetchAll: true, defaultStrategy: 'hover' },
 
+  /*
+   * Verhuisde gidsen (28 september 2026): de dungeongidsen staan sinds dan
+   * onder /guides/dungeons/. Astro schrijft voor elk oud adres een kleine
+   * pagina die meteen doorstuurt, zodat links en zoekresultaten blijven werken.
+   */
+  redirects: {
+    '/guides/ruins-of-lordaeron': '/guides/dungeons/ruins-of-lordaeron',
+    '/guides/hall-of-thanes-quests': '/guides/dungeons/hall-of-thanes',
+    '/nl/guides/ruins-of-lordaeron': '/nl/guides/dungeons/ruins-of-lordaeron',
+    '/nl/guides/hall-of-thanes-quests': '/nl/guides/dungeons/hall-of-thanes',
+    '/fr/guides/ruins-of-lordaeron': '/fr/guides/dungeons/ruins-of-lordaeron',
+    '/fr/guides/hall-of-thanes-quests': '/fr/guides/dungeons/hall-of-thanes',
+    '/es/guides/ruins-of-lordaeron': '/es/guides/dungeons/ruins-of-lordaeron',
+    '/es/guides/hall-of-thanes-quests': '/es/guides/dungeons/hall-of-thanes',
+    '/it/guides/ruins-of-lordaeron': '/it/guides/dungeons/ruins-of-lordaeron',
+    '/it/guides/hall-of-thanes-quests': '/it/guides/dungeons/hall-of-thanes',
+    '/de/guides/ruins-of-lordaeron': '/de/guides/dungeons/ruins-of-lordaeron',
+    '/de/guides/hall-of-thanes-quests': '/de/guides/dungeons/hall-of-thanes',
+  },
+
   // Zes talen (PROJECT_SPEC.md §8). Engels staat op /, de rest op /nl/ /fr/ /es/ /it/ /de/.
   i18n: {
     defaultLocale: 'en',

@@ -205,8 +205,8 @@ De levelbereiken komen van Blizzard, dat de volledige lijst op 14 september 2026
 
 | Dungeon | Levels | Wat het is |
 |---|---|---|
-| The Hall of Thanes | 13 tot 18 | De Hall is doorbroken en de Alliance beschermt de oude schatten, die de Horde misschien zelf wil. Hij ligt in Old Ironforge onder de High Seat, met vier bazen en vijf quests: [de walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). |
-| Ruins of Lordaeron | 15 tot 20 | De verwoeste hoofdstad boven de Undercity, nog vol Scourge. De Horde vecht om ze terug te nemen, en ook de Alliance heeft er quests. Zes bazen in willekeurige volgorde: [de walkthrough](/nl/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) en [de gids](/nl/guides/ruins-of-lordaeron/). |
+| The Hall of Thanes | 13 tot 18 | De Hall is doorbroken en de Alliance beschermt de oude schatten, die de Horde misschien zelf wil. Hij ligt in Old Ironforge onder de High Seat, met vier bazen en vijf quests: [de walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) en [de gids](/nl/guides/dungeons/hall-of-thanes/). |
+| Ruins of Lordaeron | 15 tot 20 | De verwoeste hoofdstad boven de Undercity, nog vol Scourge. De Horde vecht om ze terug te nemen, en ook de Alliance heeft er quests. Zes bazen in willekeurige volgorde: [de walkthrough](/nl/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) en [de gids](/nl/guides/dungeons/ruins-of-lordaeron/). |
 | Excavation Site: Wetlands | 24 tot 29 | Een opgraving van de Explorers' League in de Wetlands. |
 | City of Dalaran | 28 tot 33 | Een stadsdungeon. De barrière van na Warcraft III is weg, maar de Kirin Tor hebben de stad niet onder controle. |
 | The Drowned City | 35 tot 40 | Een oude trollenruïne voor de kust van Stranglethorn Vale, speelbaar op de beursvloer van BlizzCon. |

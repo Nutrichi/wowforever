@@ -1,7 +1,7 @@
 ---
 title: "Guides für WoW Forever"
 metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
-description: "Alle Guides für WoW Forever an einem Ort: den Dungeon Ruins of Lordaeron, die Quests der Hall of Thanes, die Questreihe zum Cozy Sleeping Bag, und die Routen, Klassenguides und Berufsguides der Seite."
+description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, das BMAH, und die Routen, Klassenguides und Berufsguides der Seite."
 short: "Guides"
 updated: 2026-09-28
 lang: de
@@ -13,13 +13,9 @@ Schritt-für-Schritt-Guides für World of Warcraft: Forever, von Dungeonquests b
 
 | Guide | Worum es geht |
 |---|---|
-| [Ruins of Lordaeron](/de/guides/ruins-of-lordaeron/) | Der Dungeon über der Undercity, Level 15 bis 20: der Weg dorthin, alle Quests für die Horde und die Alliance, die sechs Bosse und ihre Beute |
-
-## Dungeonquests
-
-| Guide | Worum es geht |
-|---|---|
-| [Quests der Hall of Thanes](/de/guides/hall-of-thanes-quests/) | Alle fünf Quests des ersten neuen Dungeons der Allianz, Level 13 bis 18, mit der Questreihe in Dun Morogh |
+| [Dungeonguide](/de/guides/dungeons/) | Jeder Dungeon von WoW Forever nach Level, mit allen Quests: wo sie beginnen, für welche Fraktion und was vorher nötig ist |
+| [The Hall of Thanes](/de/guides/dungeons/hall-of-thanes/) | Der erste neue Dungeon der Allianz, Level 13 bis 18: die Anreise, alle fünf Quests mit der Questreihe in Dun Morogh, die vier Bosse und ihre Beute |
+| [Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/) | Der Dungeon über der Undercity, Level 15 bis 20: der Weg dorthin, alle Quests für die Horde und die Alliance, die sechs Bosse und ihre Beute |
 
 ## Questreihen
 

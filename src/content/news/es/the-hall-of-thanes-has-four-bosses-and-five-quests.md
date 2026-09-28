@@ -43,7 +43,7 @@ Dos misiones empiezan justo fuera de la mazmorra, dos dentro, y la quinta arranc
 - **An Ancient Grudge**, de un Ghostly Attendant en Anvilmar's Rest, dentro: derrota al primer jefe.
 - **The Treaty of Understanding**, de una cámara del Reliquary of Kings tras el jefe final. Se entrega a Magni Bronzebeard.
 
-Cada misión paso a paso, con las coordenadas de la cadena de Dun Morogh, está en la [guía de las misiones del Hall of Thanes](/es/guides/hall-of-thanes-quests/).
+Cada misión paso a paso, con las coordenadas de la cadena de Dun Morogh, está en la [guía de las misiones del Hall of Thanes](/es/guides/dungeons/hall-of-thanes/).
 
 ![Beldin Steelgrill ofrece la misión A Visitor to Dun Morogh en la nieve de Dun Morogh, una captura de la beta de World of Warcraft: Forever](../../../assets/posts/2026-09-24-wow-forever-a-visitor-to-dun-morogh.jpg)
 

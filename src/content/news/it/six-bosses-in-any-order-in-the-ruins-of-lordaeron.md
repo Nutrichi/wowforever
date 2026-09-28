@@ -54,7 +54,7 @@ Ogni missione dà fino a 9.750 punti esperienza. Nel gioco appaiono rosse anche 
 | Slain Baron's Signet | Anello | Abominable Creatures |
 | Tarnished Locket | Collana, Alliance | Remember That I Love You |
 
-Ogni missione con chi la assegna, le coordinate e tutte le ricompense è nella [guida alle Ruins of Lordaeron](/it/guides/ruins-of-lordaeron/).
+Ogni missione con chi la assegna, le coordinate e tutte le ricompense è nella [guida alle Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/).
 
 ## Sei boss in qualsiasi ordine
 

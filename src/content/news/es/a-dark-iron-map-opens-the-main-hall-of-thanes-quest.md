@@ -7,7 +7,7 @@ lang: es
 image: ../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-vault-door.jpg
 imageAlt: "Un Dwarf con un arma brillante ante una puerta de cámara cerrada en el Hall of Thanes, una captura de la beta de World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/hall-of-thanes-quests/"
+sourceUrl: "https://www.warcrafttavern.com/forever/guides/dungeons/hall-of-thanes/"
 tags: ["forever", "dungeon", "beta"]
 featured: false
 draft: false
@@ -34,6 +34,6 @@ Cada misión da entre 3.900 y 4.900 de experiencia, según Wowhead. Wowhead pone
 
 ![La tablilla de The Treaty of Understanding en una cámara del Reliquary of Kings, con la ventana de la misión abierta](../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg)
 
-Cada paso, con las coordenadas, las recompensas y siete capturas, está en la [guía de las misiones del Hall of Thanes](/es/guides/hall-of-thanes-quests/). Cómo funcionan los cuatro jefes está en [la guía de la mazmorra](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
+Cada paso, con las coordenadas, las recompensas y siete capturas, está en la [guía de las misiones del Hall of Thanes](/es/guides/dungeons/hall-of-thanes/). Cómo funcionan los cuatro jefes está en [la guía de la mazmorra](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
 
 Si la Horda puede aceptar las misiones sigue sin estar claro. Wowhead se contradice en ese punto entre su artículo de noticias y su guía de la mazmorra.

@@ -1,7 +1,7 @@
 ---
 title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
-description: "Tutte le guide per WoW Forever in un unico posto: il dungeon Ruins of Lordaeron, le missioni della Hall of Thanes, la catena del Cozy Sleeping Bag, e i percorsi, le guide di classe e le guide delle professioni del sito."
+description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, la BMAH, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
 updated: 2026-09-28
 lang: it
@@ -13,13 +13,9 @@ Guide passo per passo per World of Warcraft: Forever, dalle missioni dei dungeon
 
 | Guida | Di cosa tratta |
 |---|---|
-| [Ruins of Lordaeron](/it/guides/ruins-of-lordaeron/) | Il dungeon sopra la Undercity, livelli da 15 a 20: come arrivarci, tutte le missioni per la Horde e l'Alliance, i sei boss e il loro bottino |
-
-## Missioni dei dungeon
-
-| Guida | Di cosa tratta |
-|---|---|
-| [Missioni della Hall of Thanes](/it/guides/hall-of-thanes-quests/) | Le cinque missioni del primo nuovo dungeon dell'Alleanza, livelli da 13 a 18, con la catena di Dun Morogh |
+| [Guida ai dungeon](/it/guides/dungeons/) | Ogni dungeon di WoW Forever per livello, con tutte le sue missioni: dove iniziano, per quale fazione e cosa serve prima |
+| [The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/) | Il primo nuovo dungeon dell'Alleanza, livelli da 13 a 18: come arrivarci, le cinque missioni con la catena di Dun Morogh, i quattro boss e il loro bottino |
+| [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/) | Il dungeon sopra la Undercity, livelli da 15 a 20: come arrivarci, tutte le missioni per la Horde e l'Alliance, i sei boss e il loro bottino |
 
 ## Catene di missioni
 

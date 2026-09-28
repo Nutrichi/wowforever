@@ -7,7 +7,7 @@ lang: it
 image: ../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-vault-door.jpg
 imageAlt: "Un Dwarf con un'arma luminosa davanti alla porta chiusa di una cripta nella Hall of Thanes, uno screenshot dalla beta di World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/hall-of-thanes-quests/"
+sourceUrl: "https://www.warcrafttavern.com/forever/guides/dungeons/hall-of-thanes/"
 tags: ["forever", "dungeon", "beta"]
 featured: false
 draft: false
@@ -34,6 +34,6 @@ Ogni missione dà tra 3.900 e 4.900 punti esperienza, secondo Wowhead. Wowhead n
 
 ![La tavoletta di The Treaty of Understanding in una cripta del Reliquary of Kings, con la finestra della missione aperta](../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg)
 
-Ogni passo, con le coordinate, le ricompense e sette screenshot, è nella [guida alle missioni della Hall of Thanes](/it/guides/hall-of-thanes-quests/). Come funzionano i quattro boss è nella [guida al dungeon](/it/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
+Ogni passo, con le coordinate, le ricompense e sette screenshot, è nella [guida alle missioni della Hall of Thanes](/it/guides/dungeons/hall-of-thanes/). Come funzionano i quattro boss è nella [guida al dungeon](/it/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
 
 Se l'Orda possa accettare le missioni non è ancora chiaro. Wowhead si contraddice su questo punto tra il suo articolo di notizie e la sua guida al dungeon.

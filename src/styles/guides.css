@@ -466,6 +466,17 @@
   line-height: 1.5;
 }
 
+/*
+ * Questnamen in een tabel van een gids (Nutri, 28 september 2026): in het goud
+ * van de huisstijl, zodat de quest meteen opvalt tussen zone, NPC en /way.
+ */
+.wf-gprose td a[href*="wowhead.com/forever/quest="] {
+  color: var(--wf-accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+.wf-gprose td a[href*="wowhead.com/forever/quest="]:hover { text-decoration: underline; text-underline-offset: 3px; }
+
 .wf-gprose th,
 .wf-gprose td {
   padding: 8px 10px;

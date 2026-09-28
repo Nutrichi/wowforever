@@ -47,7 +47,20 @@ const inGroup = folder === 'routes' || folder === 'compare';
 // Chips naar de verwante pagina's: de routes, de vergelijkingen, en sinds 26 september 2026 de gidsen.
 const hasChips = inGroup || folder === 'guides';
 const all = await getPages(locale);
-const members = hasChips ? all.filter((other) => other.key === folder || other.key.startsWith(`${folder}/`)) : [];
+/*
+ * Een groep binnen een map (28 september 2026): de dungeongidsen staan onder
+ * /guides/dungeons/. Op zo'n pagina, en op /guides/dungeons/ zelf, tonen de
+ * chips die groep; elders in de map alleen de pagina's van het eerste niveau.
+ */
+const depth = (key: string) => key.split('/').length;
+const hasChildren = (key: string) => all.some((other) => other.key.startsWith(`${key}/`));
+const groupKey = depth(pageKey) >= 3
+  ? pageKey.split('/').slice(0, -1).join('/')
+  : depth(pageKey) === 2 && hasChildren(pageKey) ? pageKey : null;
+const members = !hasChips ? []
+  : groupKey
+    ? all.filter((other) => other.key === groupKey || other.key.startsWith(`${groupKey}/`))
+    : all.filter((other) => (other.key === folder || other.key.startsWith(`${folder}/`)) && depth(other.key) <= 2);
 
 const crumbs = [{ name: ui('crumb.home'), path: localizePath('', locale) }];
 if (folder === 'routes' && pageKey !== 'routes' && all.some((other) => other.key === 'routes')) {
@@ -55,6 +68,12 @@ if (folder === 'routes' && pageKey !== 'routes' && all.some((other) => other.key
 }
 if (folder === 'guides' && pageKey !== 'guides' && all.some((other) => other.key === 'guides')) {
   crumbs.push({ name: ui('nav.guides'), path: pagePath('guides', locale) });
+}
+// Tussenliggende pagina's, zoals Dungeons tussen Gidsen en een dungeon.
+const parts = pageKey.split('/');
+for (let i = 2; i < parts.length; i++) {
+  const parent = all.find((other) => other.key === parts.slice(0, i).join('/'));
+  if (parent) crumbs.push({ name: parent.short, path: parent.href });
 }
 crumbs.push({ name: page.short, path: page.href });
 

@@ -1,7 +1,7 @@
 ---
 title: "Guías para WoW Forever"
 metaTitle: "Guías de WoW Forever: misiones de mazmorra, cadenas de misiones y más"
-description: "Todas las guías para WoW Forever en un solo lugar: la mazmorra Ruins of Lordaeron, las misiones del Hall of Thanes, la cadena del Cozy Sleeping Bag, y las rutas, guías de clase y guías de profesión de la web."
+description: "Todas las guías para WoW Forever en un solo lugar: la guía de mazmorras con cada misión de mazmorra, The Hall of Thanes y Ruins of Lordaeron, la cadena del Cozy Sleeping Bag, la BMAH, y las rutas, guías de clase y guías de profesión de la web."
 short: "Guías"
 updated: 2026-09-28
 lang: es
@@ -13,13 +13,9 @@ Guías paso a paso para World of Warcraft: Forever, desde misiones de mazmorra h
 
 | Guía | Qué cubre |
 |---|---|
-| [Ruins of Lordaeron](/es/guides/ruins-of-lordaeron/) | La mazmorra sobre la Undercity, niveles 15 a 20: cómo llegar, todas las misiones de la Horde y la Alliance, los seis jefes y su botín |
-
-## Misiones de mazmorra
-
-| Guía | Qué cubre |
-|---|---|
-| [Misiones del Hall of Thanes](/es/guides/hall-of-thanes-quests/) | Las cinco misiones de la primera mazmorra nueva de la Alianza, niveles 13 a 18, con la cadena de Dun Morogh |
+| [Guía de mazmorras](/es/guides/dungeons/) | Cada mazmorra de WoW Forever por nivel, con todas sus misiones: dónde empiezan, para qué facción y qué hace falta antes |
+| [The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/) | La primera mazmorra nueva de la Alianza, niveles 13 a 18: cómo llegar, las cinco misiones con la cadena de Dun Morogh, los cuatro jefes y su botín |
+| [Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/) | La mazmorra sobre la Undercity, niveles 15 a 20: cómo llegar, todas las misiones de la Horde y la Alliance, los seis jefes y su botín |
 
 ## Cadenas de misiones
 

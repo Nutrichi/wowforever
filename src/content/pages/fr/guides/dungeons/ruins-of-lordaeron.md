@@ -1,109 +1,109 @@
 ---
-title: "Ruins of Lordaeron: de dungeongids voor WoW Forever"
-metaTitle: "Ruins of Lordaeron in WoW Forever: quests, bazen, loot en ligging"
-description: "De Ruins of Lordaeron in WoW Forever: hoe je er komt, alle quests voor de Horde en de Alliance met questgevers en beloningen, de zes bazen, de trash en de loot."
+title: "Ruins of Lordaeron : le guide du donjon pour WoW Forever"
+metaTitle: "Ruins of Lordaeron dans WoW Forever : quêtes, boss, butin et accès"
+description: "Les Ruins of Lordaeron dans WoW Forever : comment y aller, toutes les quêtes de la Horde et de l’Alliance avec donneurs et récompenses, les six boss, le trash et le butin."
 short: "Ruins of Lordaeron"
 updated: 2026-09-28
-lang: nl
+lang: fr
 manual: true
 faq:
-  - q: "Welk level heeft de Ruins of Lordaeron?"
-    a: "Blizzard geeft 15 tot 20. Wowhead raadt 16 tot 22 aan. De loot van de bazen vraagt level 15 tot 19, en de quests zijn level 21 en 22, dus ze blijven lang rood."
-  - q: "Waar is de ingang van de Ruins of Lordaeron?"
-    a: "In de open ruïnes van Lordaeron boven de Undercity, meteen links na de poort. De Horde wandelt erheen vanuit Brill. De Spirit Healer staat vlak buiten."
-  - q: "Hoeveel bazen heeft de Ruins of Lordaeron?"
-    a: "Zes: Witherfang, The Baron, Viktor the Vile, The Abandoned, Bjork en Rath'mael. Ze kunnen in willekeurige volgorde. Viktor the Vile verschijnt pas als een groep de Kindled Flame aansteekt en vijf golven adds verslaat."
-  - q: "Hoeveel quests zijn er voor de Ruins of Lordaeron?"
-    a: "Zes voor de Horde en vier voor de Alliance. Vier quests van de Horde beginnen in Tirisfal Glades, Silverpine Forest en de Undercity; al de rest begint in de dungeon."
-  - q: "Kan de Alliance de Ruins of Lordaeron doen?"
-    a: "Ja. De Alliance heeft er vier eigen quests, van Captain Truman en van voorwerpen binnen. De reis is lang: met de boot naar Southshore en dan naar het noorden door Silverpine Forest."
+  - q: "Quel est le niveau des Ruins of Lordaeron ?"
+    a: "Blizzard donne 15 à 20. La fourchette conseillée est de 16 à 22. Le butin des boss demande le niveau 15 à 19, et les quêtes sont de niveau 21 et 22, donc elles restent longtemps en rouge."
+  - q: "Où est l’entrée des Ruins of Lordaeron ?"
+    a: "Dans les ruines à ciel ouvert de Lordaeron au-dessus de l’Undercity, juste à gauche après la porte. La Horde y va à pied depuis Brill. Le Spirit Healer est juste devant."
+  - q: "Combien de boss comptent les Ruins of Lordaeron ?"
+    a: "Six : Witherfang, The Baron, Viktor the Vile, The Abandoned, Bjork et Rath'mael. Ils se font dans n’importe quel ordre. Viktor the Vile n’apparaît qu’après qu’un groupe a allumé la Kindled Flame et battu cinq vagues d’adds."
+  - q: "Combien de quêtes y a-t-il pour les Ruins of Lordaeron ?"
+    a: "Six pour la Horde et quatre pour l’Alliance. Quatre quêtes de la Horde commencent dans Tirisfal Glades, Silverpine Forest et l’Undercity ; tout le reste commence dans le donjon."
+  - q: "L’Alliance peut-elle faire les Ruins of Lordaeron ?"
+    a: "Oui. L’Alliance y a quatre quêtes à elle, de Captain Truman et d’objets à l’intérieur. Le voyage est long : en bateau jusqu’à Southshore, puis vers le nord à travers Silverpine Forest."
 sources:
-  - name: "Wowhead, het nieuwsartikel"
+  - name: "Wowhead, l’article"
     url: "https://www.wowhead.com/forever/news/the-ruins-of-lordaeron-new-dungeon-walkthrough-for-wow-forever-383021"
-  - name: "Wowhead, de dungeongids"
+  - name: "Wowhead, le guide du donjon"
     url: "https://www.wowhead.com/forever/guide/ruins-of-lordaeron-dungeon-overview-location-rewards"
 ---
-De Ruins of Lordaeron is een nieuwe dungeon in de verwoeste hoofdstad boven de Undercity, voor level 15 tot 20. De Scourge houdt de straten nog in handen, en de Forsaken willen ze terug. Zes bazen wachten er in willekeurige volgorde, met zes quests voor de Horde en vier voor de Alliance.
+Les Ruins of Lordaeron sont un nouveau donjon dans la capitale en ruine au-dessus de l’Undercity, pour les niveaux 15 à 20. Le Scourge tient encore les rues, et les Forsaken veulent les reprendre. Six boss y attendent dans n’importe quel ordre, avec six quêtes pour la Horde et quatre pour l’Alliance.
 
-![De poort van een verwoest paleis in Lordaeron met trappen en overwoekerde tuinen ervoor, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-entrance.jpg)
+![La porte d’un palais en ruine à Lordaeron, avec des escaliers et des jardins envahis par la végétation, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-entrance.jpg)
 
-## In het kort
+## En bref
 
 | | |
 |---|---|
-| Level | 15 tot 20 volgens Blizzard, 16 tot 22 volgens Wowhead |
-| Ingang | De open ruïnes van Lordaeron boven de Undercity, Tirisfal Glades |
-| Bazen | 6, in willekeurige volgorde |
-| Quests | 6 voor de Horde, 4 voor de Alliance |
-| Loot | Blauwe items die level 15 tot 19 vragen |
-| Spirit Healer | Vlak buiten de ingang |
+| Niveaux | 15 à 20 selon Blizzard, 16 à 22 conseillé |
+| Entrée | Les ruines à ciel ouvert de Lordaeron au-dessus de l’Undercity, Tirisfal Glades |
+| Boss | 6, dans n’importe quel ordre |
+| Quêtes | 6 pour la Horde, 4 pour l’Alliance |
+| Butin | Objets bleus qui demandent le niveau 15 à 19 |
+| Spirit Healer | Juste devant l’entrée |
 
-De dungeon is geen rechte lijn. Viktor the Vile en de Crest of Lordaeron mis je makkelijk, en een tweede run geeft veel minder experience van monsters, dus het loont om alles in één keer te doen.
+Le donjon n’est pas linéaire. Viktor the Vile et le Crest of Lordaeron sont faciles à manquer, et un second passage rapporte beaucoup moins d’expérience par monstre, donc mieux vaut tout faire d’un coup.
 
-## De weg erheen
+## Y aller
 
-**Horde.** Wandel van Brill naar de Undercity en ga de ruïnes van Lordaeron erboven in, niet de liften naar beneden. Het portaal ligt meteen links na de poort.
+**Horde.** Marchez de Brill jusqu’à l’Undercity et entrez dans les ruines de Lordaeron au-dessus, sans prendre les ascenseurs. Le portail est juste à gauche après la porte.
 
-**Alliance.** Een lange weg, volgens de dungeongids van Wowhead:
+**Alliance.** Un long chemin :
 
-1. Neem de boot van Stormwind Harbor naar Auberdine.
-2. Neem in Auberdine de boot naar Menethil Harbor, en blijf aan boord tot Southshore in Hillsbrad Foothills.
-3. Volg de weg vanaf Southshore naar het noorden, langs Hillsbrad Fields en om Dalaran heen.
-4. Zwem naar het noorden door Lordamere Lake in Silverpine Forest tot Tirisfal Glades.
-5. Volg de weg naar de ruïnes van Lordaeron.
+1. Prenez le bateau de Stormwind Harbor à Auberdine.
+2. À Auberdine, prenez le bateau pour Menethil Harbor et restez à bord jusqu’à Southshore, dans Hillsbrad Foothills.
+3. Suivez la route vers le nord depuis Southshore, passé Hillsbrad Fields et autour de Dalaran.
+4. Nagez vers le nord à travers Lordamere Lake, dans Silverpine Forest, jusqu’à Tirisfal Glades.
+5. Suivez la route jusqu’aux ruines de Lordaeron.
 
-Skyborne aan de kant van de Alliance kunnen een portaal nemen van de Mage Tower in Stormwind naar Dalaran en bij stap 3 beginnen.
+Les Skyborne du côté de l’Alliance peuvent prendre un portail de la Mage Tower de Stormwind vers Dalaran et commencer à l’étape 3.
 
-## De quests in het kort
+## Les quêtes en bref
 
-| Quest | Kant | Waar hij begint | Experience |
+| Quête | Camp | Où elle commence | Expérience |
 |---|---|---|---|
-| [The Wrath of Rath'mael](https://www.wowhead.com/forever/quest=92422) | Horde | Deathguard Kristof, Tirisfal Glades, /way 65.2 60.2 | niet vermeld |
-| [A Frightened Request](https://www.wowhead.com/forever/quest=92401) | Horde | Tabitha Heartweaver, The Sepulcher, Silverpine Forest, /way 44.6 42.8 | 7.050 |
-| [Light's Justice](https://www.wowhead.com/forever/quest=92421) | Horde | Morbin Lightbane, Undercity, /way 57.8 89.8 | 7.050 |
-| [The New Plague](https://www.wowhead.com/forever/quest=95216) | Horde | Theodore Griffs, het Apothecarium, Undercity, /way 47.0 72.6 | 8.300 |
-| [Unending Torment](https://www.wowhead.com/forever/quest=97288) | Horde | Het Abominable Head, een drop van The Baron | 5.300 voor de eerste stap |
-| [Crest of Lordaeron](https://www.wowhead.com/forever/quest=95204) | Horde | De Crest of Lordaeron, binnen | 8.300 |
-| [Abominable Creatures](https://www.wowhead.com/forever/quest=95250) | Alliance | Captain Truman, bij de ingang | 6.200 |
-| [Bloodied Insignia](https://www.wowhead.com/forever/quest=95195) | Alliance | Bloodied Insignias, een drop van undead | 9.750 |
-| [Crest of Lordaeron](https://www.wowhead.com/forever/quest=95189) | Alliance | De Crest of Lordaeron, binnen | 9.750 |
-| [Remember That I Love You](https://www.wowhead.com/forever/quest=92415) | Alliance | De Blood-Stained Letter, bij Rath'mael | 9.750 |
+| [The Wrath of Rath'mael](https://www.wowhead.com/forever/quest=92422) | Horde | Deathguard Kristof, Tirisfal Glades, /way 65.2 60.2 | non indiquée |
+| [A Frightened Request](https://www.wowhead.com/forever/quest=92401) | Horde | Tabitha Heartweaver, The Sepulcher, Silverpine Forest, /way 44.6 42.8 | 7 050 |
+| [Light's Justice](https://www.wowhead.com/forever/quest=92421) | Horde | Morbin Lightbane, Undercity, /way 57.8 89.8 | 7 050 |
+| [The New Plague](https://www.wowhead.com/forever/quest=95216) | Horde | Theodore Griffs, l’Apothecarium, Undercity, /way 47.0 72.6 | 8 300 |
+| [Unending Torment](https://www.wowhead.com/forever/quest=97288) | Horde | L’Abominable Head, laissé par The Baron | 5 300 pour la première étape |
+| [Crest of Lordaeron](https://www.wowhead.com/forever/quest=95204) | Horde | Le Crest of Lordaeron, à l’intérieur | 8 300 |
+| [Abominable Creatures](https://www.wowhead.com/forever/quest=95250) | Alliance | Captain Truman, près de l’entrée | 6 200 |
+| [Bloodied Insignia](https://www.wowhead.com/forever/quest=95195) | Alliance | Des Bloodied Insignias, laissées par les morts-vivants | 9 750 |
+| [Crest of Lordaeron](https://www.wowhead.com/forever/quest=95189) | Alliance | Le Crest of Lordaeron, à l’intérieur | 9 750 |
+| [Remember That I Love You](https://www.wowhead.com/forever/quest=92415) | Alliance | La Blood-Stained Letter, près de Rath'mael | 9 750 |
 
-De experience komt van de questpagina's van Wowhead. Alle quests vragen level 15 of 16, maar de quests zelf zijn level 21 en 22. Daarom zijn ze rood op level 17, terwijl de dungeon op dat level wel lukt, schrijft Wowhead.
+Toutes les quêtes demandent le niveau 15 ou 16, mais les quêtes elles-mêmes sont de niveau 21 et 22. C’est pourquoi elles sont rouges au niveau 17, alors que le donjon se termine à ce niveau.
 
-## Quests van de Horde
+## Quêtes de la Horde
 
-Haal de vier quests buiten op voor de eerste pull. Ze liggen op de weg: Brill, de Undercity, en een omweg naar Silverpine Forest.
+Prenez les quatre quêtes extérieures avant le premier pull. Elles sont sur le chemin : Brill, l’Undercity, et un détour par Silverpine Forest.
 
-**The Wrath of Rath'mael.** Deathguard Kristof staat bij de karavaan tussen Brill en de Undercity. Hij wil Rath'mael dood. Verkenners melden een onheilige mist in Lordamere Overlook, in de straten en op het kerkhof. Beloning: de Forsaken Greataxe of de Gnarled Necromancer's Staff, plus 150 reputatie bij Undercity.
+**The Wrath of Rath'mael.** Deathguard Kristof se tient à la caravane entre Brill et l’Undercity. Il veut la mort de Rath'mael. Des éclaireurs signalent un brouillard impie dans Lordamere Overlook, dans les rues et le cimetière. Récompense : la Forsaken Greataxe ou le Gnarled Necromancer's Staff, plus 150 points de réputation auprès d’Undercity.
 
-**A Frightened Request.** Tabitha Heartweaver bij The Sepulcher mist haar man Edward, die naar het kerkhof van Lordaeron ging en nooit terugkwam. Je vindt hem naast Rath'mael. Beloning: Edward's Knife of Tabitha's Cuffs, plus 150 reputatie bij Undercity.
+**A Frightened Request.** Tabitha Heartweaver, à The Sepulcher, cherche son mari Edward, parti au cimetière de Lordaeron et jamais revenu. Il se trouve à côté de Rath'mael. Récompense : Edward's Knife ou Tabitha's Cuffs, plus 150 points de réputation auprès d’Undercity.
 
-**Light's Justice.** Morbin Lightbane, een Forsaken Paladin in het Royal Quarter van de Undercity, vraagt 25 Intact Limbs van de Scourge in de dungeon. Beloning: The Stitcher of Spare Part Bindings, plus 150 reputatie bij Undercity.
+**Light's Justice.** Morbin Lightbane, un Paladin Forsaken dans le Royal Quarter de l’Undercity, demande 25 Intact Limbs du Scourge dans le donjon. Récompense : The Stitcher ou Spare Part Bindings, plus 150 points de réputation auprès d’Undercity.
 
-**The New Plague.** Theodore Griffs in het Apothecarium wil de Highly Toxic Strain van Witherfang. Beloning: Plaguefang of Blight Gloves.
+**The New Plague.** Theodore Griffs, dans l’Apothecarium, veut la Highly Toxic Strain de Witherfang. Récompense : Plaguefang ou Blight Gloves.
 
-**Unending Torment.** Als The Baron valt, komt zijn hoofd los: het Abominable Head start een reeks van vijf stappen in de Undercity. Breng het hoofd naar Master Apothecary Faranell, breng het naar het lichaam van Othmar, meld je terug, verzamel een Toxic Skullcap, Blisterweed en Essence of Agony in de stad, en injecteer het Hissing Serum boven het lichaam van Othmar. De eerste stap geeft 5.300 experience, de laatste 1.650. Volgens Wowhead leidt de reeks ook naar Slain Baron's Signet; de questpagina's tonen niet bij welke stap.
+**Unending Torment.** Quand The Baron tombe, sa tête se détache : l’Abominable Head lance une chaîne de cinq étapes dans l’Undercity. Apportez la tête à Master Apothecary Faranell, portez-la au corps d’Othmar, faites votre rapport, rassemblez un Toxic Skullcap, du Blisterweed et de l’Essence of Agony dans la ville, et injectez le Hissing Serum au-dessus du corps d’Othmar. La première étape rapporte 5 300 points d’expérience, la dernière 1 650. La chaîne mène aussi à Slain Baron's Signet ; à quelle étape, on ne sait pas.
 
-**Crest of Lordaeron.** De crest ligt op een van meerdere plekken in de dungeon. Breng hem naar Oran Snakewrithe in de Undercity. Beloning: een Small Sack of Gems.
+**Crest of Lordaeron.** Le crest se trouve à l’un de plusieurs endroits du donjon. Apportez-le à Oran Snakewrithe dans l’Undercity. Récompense : un Small Sack of Gems.
 
-## Quests van de Alliance
+## Quêtes de l’Alliance
 
-De Alliance vindt alle vier de quests binnen. Drie ervan worden in Stormwind ingeleverd, dus een Hearthstone op Stormwind spaart de lange terugweg.
+L’Alliance trouve ses quatre quêtes à l’intérieur. Trois se rendent à Stormwind, donc une Hearthstone réglée sur Stormwind évite le long retour.
 
-**Abominable Creatures.** Captain Truman, vriendelijk voor de Alliance en vijandig voor de Horde, wacht bij de ingang. Hij wil het Head of the Baron. Beloning: een keuze uit de Monstrous Cleaver, de Grave Shroud of Slain Baron's Signet.
+**Abominable Creatures.** Captain Truman, amical envers l’Alliance et hostile à la Horde, attend près de l’entrée. Il veut le Head of the Baron. Récompense : au choix le Monstrous Cleaver, le Grave Shroud ou Slain Baron's Signet.
 
-![Captain Truman, een undead soldaat met een lantaarn in een donkere stenen zaal, zijn naam in het rood boven zijn hoofd, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-captain-truman.jpg)
+![Captain Truman, un soldat mort-vivant avec une lanterne dans une salle de pierre sombre, son nom en rouge au-dessus de la tête, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-captain-truman.jpg)
 
-**Bloodied Insignia.** De undead in de dungeon laten oude insignes van de Alliance vallen, van de soldaten van Lordaeron. Breng er 10 naar General Marcus Jonathan in Stormwind. Beloning: Duty Bound Leggings of Remembrance Armor.
+**Bloodied Insignia.** Les morts-vivants du donjon laissent tomber de vieux insignes de l’Alliance, ceux des soldats de Lordaeron. Apportez-en 10 au General Marcus Jonathan à Stormwind. Récompense : Duty Bound Leggings ou Remembrance Armor.
 
-**Crest of Lordaeron.** Dezelfde crest als voor de Horde, maar hij gaat naar Lady Dena Kennedy in Stormwind. Beloning: een Small Sack of Gems.
+**Crest of Lordaeron.** Le même crest que pour la Horde, mais il part chez Lady Dena Kennedy à Stormwind. Récompense : un Small Sack of Gems.
 
-**Remember That I Love You.** Bij Rath'mael ligt een Blood-Stained Letter. Hij spreekt over een vermist kind van de familie Heartweaver; breng hem naar Orphan Matron Nightingale in Stormwind. Het is de eerste van twee stappen en kan niet gedeeld worden. Wowhead noemt de Tarnished Locket als beloning van de reeks.
+**Remember That I Love You.** Une Blood-Stained Letter se trouve près de Rath'mael. Elle parle d’un enfant disparu de la famille Heartweaver ; apportez-la à Orphan Matron Nightingale à Stormwind. C’est la première de deux étapes et elle ne se partage pas. La récompense de la chaîne est le Tarnished Locket.
 
-## Beloningen van de quests
+## Récompenses des quêtes
 
-Voor de Horde, in de volgorde van de quests hierboven:
+Pour la Horde, dans l’ordre des quêtes ci-dessus :
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_weapon_shortblade_14.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=251485">Edward's Knife</a><span class="wf-item__line wf-item__meta">Item Level 24</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>One-Hand</span><span>Dagger</span></span><span class="wf-item__row"><span>17 - 33 Damage</span><span>Speed 1.60</span></span><span class="wf-item__line">(15.63 damage per second)</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+4 Stamina</span><span class="wf-item__line">Durability 50 / 50</span></div></div>
@@ -116,7 +116,7 @@ Voor de Horde, in de volgorde van de quests hierboven:
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_07.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=279875">Spare Part Bindings</a><span class="wf-item__line wf-item__meta">Item Level 24</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Leather</span></span><span class="wf-item__line">40 Armor</span><span class="wf-item__line">+3 Agility</span><span class="wf-item__line">+5 Stamina</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Durability 30 / 30</span></div></div>
 </div>
 
-Voor de Alliance: de drie keuzes van Abominable Creatures, de twee van Bloodied Insignia, en het medaillon.
+Pour l’Alliance : les trois choix d’Abominable Creatures, les deux de Bloodied Insignia, et le médaillon.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_sword_23.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=279864">Monstrous Cleaver</a><span class="wf-item__line wf-item__meta">Item Level 23</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Two-Hand</span><span>Sword</span></span><span class="wf-item__row"><span>52 - 78 Damage</span><span>Speed 3.30</span></span><span class="wf-item__line">(19.70 damage per second)</span><span class="wf-item__line">+9 Stamina</span><span class="wf-item__line">+10 Attack Power</span><span class="wf-item__line">Durability 80 / 80</span></div></div>
@@ -127,15 +127,15 @@ Voor de Alliance: de drie keuzes van Abominable Creatures, de twee van Bloodied 
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_jewelry_necklace_08.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=279870">Tarnished Locket</a><span class="wf-item__line wf-item__meta">Item Level 24</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Neck</span><span></span></span><span class="wf-item__line">+5 Stamina</span><span class="wf-item__line">+4 Spirit</span><span class="wf-item__line wf-item__meta">"Some memories are best forgotten."</span></div></div>
 </div>
 
-## De zes bazen
+## Les six boss
 
-Wowhead zet de bazen in deze volgorde, maar elke volgorde werkt. Elke baas laat blauwe items vallen; per baas zijn er drie bekend uit de beta.
+Tout ordre fonctionne. Chaque boss laisse des objets bleus ; trois par boss sont connus depuis la bêta.
 
 ### Witherfang
 
-Een grote spin die met twee kleinere spinnen door King's Alley patrouilleert. Ruim eerst de trash op zijn pad op, zodat hij alleen komt, en dood de kleine spinnen snel. Zijn [Leech Poison](https://www.wowhead.com/forever/spell=3358) zuigt 40 seconden lang elke 5 seconden 15 health weg; een speler die gif verwijdert, haalt het van de tank. Witherfang laat ook de Highly Toxic Strain voor The New Plague vallen.
+Une grande araignée qui patrouille dans King's Alley avec deux araignées plus petites. Nettoyez d’abord le trash sur son chemin, pour qu’elle vienne seule, et tuez vite les petites araignées. Son [Leech Poison](https://www.wowhead.com/forever/spell=3358) draine 15 points de vie toutes les 5 secondes pendant 40 secondes ; un joueur qui retire les poisons l’enlève du tank. Witherfang laisse aussi la Highly Toxic Strain pour The New Plague.
 
-![Witherfang, een grote rode spin, met twee kleinere spinnen naast zich in de straten van Lordaeron, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-witherfang.jpg)
+![Witherfang, une grande araignée rouge, avec deux araignées plus petites à ses côtés dans les rues de Lordaeron, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-witherfang.jpg)
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_belt_21.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271201">Atrophic Girdle</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Waist</span><span>Mail</span></span><span class="wf-item__line">104 Armor</span><span class="wf-item__line">+5 Strength</span><span class="wf-item__line">+5 Stamina</span><span class="wf-item__line">Durability 35 / 35</span><span class="wf-item__line">Requires Level 15</span></div></div>
@@ -145,9 +145,9 @@ Een grote spin die met twee kleinere spinnen door King's Alley patrouilleert. Ru
 
 ### The Baron
 
-Een abomination met één vaardigheid die telt: [Knockout](https://www.wowhead.com/forever/spell=17307), zware directe schade die het doelwit wegslaat, stunt en threat laat zakken. Een tank die niet op volle gezondheid staat, kan eraan sterven. Stun hem zo vaak mogelijk. Hij laat het Head of the Baron vallen voor de Alliance en het Abominable Head voor de Horde.
+Une abomination avec une seule capacité qui compte : [Knockout](https://www.wowhead.com/forever/spell=17307), de gros dégâts instantanés qui repoussent la cible, l’étourdissent et réduisent la menace. Un tank qui n’est pas à pleine vie peut en mourir. Étourdissez-le aussi souvent que possible. Il laisse le Head of the Baron pour l’Alliance et l’Abominable Head pour la Horde.
 
-![The Baron, een aan elkaar genaaide abomination met een vleeshaak en een hakmes, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-the-baron.jpg)
+![The Baron, une abomination recousue avec un crochet de boucher et un couperet, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-the-baron.jpg)
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_monsterfang_01.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271204">Meathook Slicer</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>One-Hand</span><span>Dagger</span></span><span class="wf-item__row"><span>17 - 32 Damage</span><span>Speed 1.80</span></span><span class="wf-item__line">(13.61 damage per second)</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Stamina</span><span class="wf-item__line">Durability 45 / 45</span><span class="wf-item__line">Requires Level 15</span></div></div>
@@ -157,7 +157,7 @@ Een abomination met één vaardigheid die telt: [Knockout](https://www.wowhead.c
 
 ### Viktor the Vile
 
-De baas die de meeste groepen missen. Steek de Kindled Flame aan in de schouw van een gebouw in het zuidwesten van Lordamere Overlook, bij het kerkhof. Vijf golven adds volgen voor Viktor komt. Hij slaat hard en heeft dezelfde Leech Poison als Witherfang, dus laat de tank eerst aggro nemen. In de beta verschijnt Viktor soms niet.
+Le boss que la plupart des groupes manquent. Allumez la Kindled Flame dans la cheminée d’un bâtiment au sud-ouest de Lordamere Overlook, près du cimetière. Cinq vagues d’adds suivent avant l’arrivée de Viktor. Il frappe fort et a le même Leech Poison que Witherfang, donc laissez le tank prendre l’aggro d’abord. Sur la bêta, Viktor n’apparaît parfois pas.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_sword_16.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271218">Vileblood Scimitar</a><span class="wf-item__line wf-item__meta">Item Level 22</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>One-Hand</span><span>Sword</span></span><span class="wf-item__row"><span>26 - 50 Damage</span><span>Speed 2.60</span></span><span class="wf-item__line">(14.62 damage per second)</span><span class="wf-item__line">+4 Strength</span><span class="wf-item__line">+2 Agility</span><span class="wf-item__line">Durability 70 / 70</span><span class="wf-item__line">Requires Level 17</span></div></div>
@@ -167,9 +167,9 @@ De baas die de meeste groepen missen. Steek de Kindled Flame aan in de schouw va
 
 ### The Abandoned
 
-Hij wacht in Market Street, op de weg vanuit Lordamere Overlook. Een standbeeld daar start drie golven adds, en dan komt hij tevoorschijn. Hij cast [Frost Nova](https://www.wowhead.com/forever/spell=1220855), vertraagt wie hem in melee raakt, en zuigt de tank leeg met [Life Drain](https://www.wowhead.com/forever/spell=1266011), een cast van 2 seconden. Een stun voor het einde van de cast houdt die tegen.
+Il attend dans Market Street, en venant de Lordamere Overlook. Une statue y lance trois vagues d’adds, puis il sort. Il lance [Frost Nova](https://www.wowhead.com/forever/spell=1220855), ralentit ceux qui le frappent au corps à corps et draine le tank avec [Life Drain](https://www.wowhead.com/forever/spell=1266011), une incantation de 2 secondes. Un étourdissement avant la fin de l’incantation l’arrête.
 
-![The Abandoned, een undead in een kap met lange klauwen, in gevecht met een groep spelers op een donker grasveld, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-the-abandoned.jpg)
+![The Abandoned, un mort-vivant encapuchonné aux longues griffes, en combat contre un groupe de joueurs sur une pelouse sombre, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-the-abandoned.jpg)
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271216">Scepter of the Abandoned</a><span class="wf-item__line wf-item__meta">Item Level 22</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Main Hand</span><span>Mace</span></span><span class="wf-item__row"><span>17 - 33 Damage</span><span>Speed 2.60</span></span><span class="wf-item__line">(9.62 damage per second)</span><span class="wf-item__line">Durability 70 / 70</span><span class="wf-item__line">Requires Level 17</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 24.</span></div></div>
@@ -179,9 +179,9 @@ Hij wacht in Market Street, op de weg vanuit Lordamere Overlook. Een standbeeld 
 
 ### Bjork
 
-Een kort gevecht. Zijn enige vaardigheid is een kort [Anti-Magic Shield](https://www.wowhead.com/forever/spell=1301635), dat hem 3 seconden immuun maakt voor magie. Casters wachten het af.
+Un combat rapide. Sa seule capacité est un court [Anti-Magic Shield](https://www.wowhead.com/forever/spell=1301635), qui le rend insensible à la magie pendant 3 secondes. Les lanceurs de sorts attendent qu’il passe.
 
-![Bjork, een gebogen undead met een witte baard, voor een stenen muur, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-bjork.jpg)
+![Bjork, un mort-vivant voûté à la barbe blanche, devant un mur de pierre, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-bjork.jpg)
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_axe_09.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271217">Corpse Chopper</a><span class="wf-item__line wf-item__meta">Item Level 21</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Two-Hand</span><span>Axe</span></span><span class="wf-item__row"><span>52 - 79 Damage</span><span>Speed 3.60</span></span><span class="wf-item__line">(18.19 damage per second)</span><span class="wf-item__line">+11 Strength</span><span class="wf-item__line">Durability 75 / 75</span><span class="wf-item__line">Requires Level 16</span></div></div>
@@ -191,9 +191,9 @@ Een kort gevecht. Zijn enige vaardigheid is een kort [Anti-Magic Shield](https:/
 
 ### Rath'mael
 
-Rath'mael staat op het kerkhof, met Edward Heartweaver en de Blood-Stained Letter vlakbij. Zijn enige vaardigheid is [Flamestrike](https://www.wowhead.com/forever/spell=1279983), altijd op de plek waar de tank stond toen de cast begon. Stap eruit en vecht verder op een nieuwe plek, of stun hem voor hij cast. Zijn loot vraagt level 19, het hoogste in de dungeon.
+Rath'mael se tient au cimetière, avec Edward Heartweaver et la Blood-Stained Letter tout près. Sa seule capacité est [Flamestrike](https://www.wowhead.com/forever/spell=1279983), toujours à l’endroit où se tenait le tank au début de l’incantation. Sortez-en et continuez ailleurs, ou étourdissez-le avant qu’il lance. Son butin demande le niveau 19, le plus élevé du donjon.
 
-![Rath'mael, een undead in harnas en rode mantel, voor een ijzeren hek, met paarse magie die over de grond kolkt, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-rathmael.jpg)
+![Rath'mael, un mort-vivant en armure et robe rouge, devant une grille en fer, avec une magie violette qui tourbillonne au sol, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-rathmael.jpg)
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_shield_02.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271213">Mirror of Rath'mael</a><span class="wf-item__line wf-item__meta">Item Level 24</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Off Hand</span><span>Shield</span></span><span class="wf-item__line">547 Armor</span><span class="wf-item__line">11 Block</span><span class="wf-item__line">+4 Strength</span><span class="wf-item__line">+4 Stamina</span><span class="wf-item__line">+3 Intellect</span><span class="wf-item__line">Durability 90 / 90</span><span class="wf-item__line">Requires Level 19</span></div></div>
@@ -203,29 +203,29 @@ Rath'mael staat op het kerkhof, met Edward Heartweaver en de Blood-Stained Lette
 
 ## Rotmender's Raiment
 
-Rotmender's Leggings van The Abandoned en Rotmender's Treads van Rath'mael horen bij een nieuwe cloth-set van vijf stukken. Twee stukken geven +10 Intellect, drie verlagen threat met 5%, vier geven 600 mana terug als de mana onder 15% zakt, en vijf geven healing spells een kans op een heal over tijd. De Robes, de Sash en de Gloves binden bij het aandoen; waar ze vallen, toont Wowhead nog niet.
+Les Rotmender's Leggings de The Abandoned et les Rotmender's Treads de Rath'mael font partie d’un nouvel ensemble en tissu de cinq pièces. Deux pièces donnent +10 Intellect, trois réduisent la menace de 5 %, quatre rendent 600 points de mana quand le mana passe sous 15 %, et cinq donnent aux sorts de soin une chance de soigner sur la durée. La Robes, la Sash et les Gloves sont liées quand équipées ; on ne sait pas encore où elles tombent.
 
 ## Trash
 
-De trash slaat minder hard dan in de Hall of Thanes, schrijft Wowhead, maar de groepjes staan dicht op elkaar en sommige patrouilleren. Twee groepjes tegelijk pullen is het grootste gevaar. Crowd control en stuns zoals [Hammer of Justice](https://www.wowhead.com/forever/spell=853) helpen, en Paladins doen het goed vanaf level 20 met [Exorcism](https://www.wowhead.com/forever/spell=879), dat undead hard raakt.
+Le trash frappe moins fort que dans le Hall of Thanes, mais les packs sont proches et certains patrouillent. Tirer deux packs à la fois est le principal danger. Le contrôle des foules et les étourdissements comme [Hammer of Justice](https://www.wowhead.com/forever/spell=853) aident, et les Paladins s’en sortent bien à partir du niveau 20 avec [Exorcism](https://www.wowhead.com/forever/spell=879), qui frappe fort les morts-vivants.
 
-**Spinnen.** Venom Lurkers, Spiders en Tarantulas aan het begin. Niet sterk op zich, maar sommige groepjes patrouilleren. Trek ze terug naar een vrijgemaakte plek.
+**Araignées.** Venom Lurkers, Spiders et Tarantulas au début. Pas fortes seules, mais certains packs patrouillent. Ramenez-les vers un endroit déjà nettoyé.
 
-**Skeletal Soldiers en Shrieking Banshees.** Bij The Baron. De soldaten slaan hard in grote groepen en de banshees silencen.
+**Skeletal Soldiers et Shrieking Banshees.** Près de The Baron. Les soldats frappent fort en grands packs et les banshees réduisent au silence.
 
-![Skeletal Soldiers met schilden en bijlen in het hoge gras van Lordaeron, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-skeletal-soldiers.jpg)
+![Des Skeletal Soldiers avec boucliers et haches dans les hautes herbes de Lordaeron, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-skeletal-soldiers.jpg)
 
-**Flesh Golems.** Ze patrouilleren door Lordamere Overlook, doen zware schade en gebruiken Knock Away, dat threat laat zakken. Let op waar de tank landt, zodat niemand in een ander groepje vliegt.
+**Flesh Golems.** Ils patrouillent dans Lordamere Overlook, font de gros dégâts et utilisent Knock Away, qui réduit la menace. Faites attention à l’endroit où atterrit le tank, pour que personne ne vole dans un autre pack.
 
-**Ghouls en Ragged Ghouls.** Groepjes van drie of vier met sterke meleeslagen, dicht bij andere groepjes.
+**Ghouls et Ragged Ghouls.** Des packs de trois ou quatre aux coups de mêlée puissants, proches d’autres packs.
 
-![Twee Ghouls en een Ragged Ghoul onder een boom voor een stenen muur, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-ghouls.jpg)
+![Deux Ghouls et un Ragged Ghoul sous un arbre devant un mur de pierre, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-ghouls.jpg)
 
-## Wat nog niet bekend is
+## Ce qu’on ne sait pas encore
 
-- Welke baas de eindbaas is. Wowhead noemt de eindbaas level 20, maar de dungeon heeft geen vaste volgorde.
-- Of Viktor the Vile bij de launch altijd verschijnt. In de beta doet hij dat soms niet.
-- Waar de rest van Rotmender's Raiment valt, en bij welke stap Unending Torment Slain Baron's Signet geeft.
-- Hoeveel experience The Wrath of Rath'mael geeft; Wowhead vermeldt het niet.
+- Quel boss est le boss final. Le boss final est niveau 20, mais le donjon n’a pas d’ordre fixe.
+- Si Viktor the Vile apparaît toujours à la sortie. Sur la bêta, ce n’est pas toujours le cas.
+- Où tombe le reste du Rotmender's Raiment, et à quelle étape Unending Torment donne Slain Baron's Signet.
+- Combien d’expérience rapporte The Wrath of Rath'mael
 
-Het nieuws over de dungeon staat in de post [Zes bazen wachten in vrije volgorde in de Ruins of Lordaeron](/nl/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/).
+L’actualité du donjon se trouve dans l’article [Les Ruins of Lordaeron comptent six boss sans ordre imposé](/fr/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/). Tous les donjons sont dans le [guide des donjons](/fr/guides/dungeons/).

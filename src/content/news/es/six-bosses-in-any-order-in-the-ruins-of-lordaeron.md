@@ -54,7 +54,7 @@ Cada misión da hasta 9.750 de experiencia. En el juego salen en rojo incluso a 
 | Slain Baron's Signet | Anillo | Abominable Creatures |
 | Tarnished Locket | Collar, Alliance | Remember That I Love You |
 
-Cada misión con quien la da, sus coordenadas y todas las recompensas está en la [guía de Ruins of Lordaeron](/es/guides/ruins-of-lordaeron/).
+Cada misión con quien la da, sus coordenadas y todas las recompensas está en la [guía de Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/).
 
 ## Seis jefes en cualquier orden
 

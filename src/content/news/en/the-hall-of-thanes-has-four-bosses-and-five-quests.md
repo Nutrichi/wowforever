@@ -42,7 +42,7 @@ Two quests start just outside the dungeon, two inside, and the fifth begins in D
 - **An Ancient Grudge**, from a Ghostly Attendant in Anvilmar's Rest, inside: defeat the first boss.
 - **The Treaty of Understanding**, from a vault in the Reliquary of Kings after the final boss. It goes to Magni Bronzebeard.
 
-Every quest step by step, with the coordinates of the chain in Dun Morogh, is in the [guide to the Hall of Thanes quests](/guides/hall-of-thanes-quests/).
+Every quest step by step, with the coordinates of the chain in Dun Morogh, is in the [guide to the Hall of Thanes quests](/guides/dungeons/hall-of-thanes/).
 
 ![Beldin Steelgrill offers the quest A Visitor to Dun Morogh in the snow of Dun Morogh, a screenshot from the beta of World of Warcraft: Forever](../../../assets/posts/2026-09-24-wow-forever-a-visitor-to-dun-morogh.jpg)
 
