@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: Release, Beta, Roadmap, Skyborne und Editionen"
 description: "Alles, was Blizzard zu World of Warcraft: Forever angekündigt hat: die Termine, die Roadmap, die neuen Zonen, Dungeons und Raids, die Skyborne, das Legacy-System und die Editionen."
 short: "WoW Forever"
-updated: 2026-09-27
+updated: 2026-09-28
 lang: de
 manual: true
 faq:
@@ -194,6 +194,8 @@ Drei neue Schiffsrouten verbinden Teile der Welt, die vorher keine Verbindung ha
 - Stormwind Harbor nach Auberdine, was die Startgebiete der Allianz miteinander verknüpft.
 - Menethil nach Southshore und weiter nach Auberdine, in drei Etappen.
 - The Riverglades nach Steamwheedle Port, was den Süden beider Kontinente öffnet und an Gadgetzan anschließt.
+
+Fünf neue Flugpunkte kommen ins Netz: Farholde Keep, Powderfuse Port und Rog'mar in The Riverglades sowie Tainted Foothills und Summit of Eternity auf Mount Hyjal. Sie bringen elf neue Routen, und keine Route aus Classic fällt weg. Jede Route beider Fraktionen steht auf der Karte im [Beitrag über die Flugrouten](/de/news/five-new-flight-points-bring-eleven-new-routes/).
 
 ## Dungeons und Raids
 

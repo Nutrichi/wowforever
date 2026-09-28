@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-09-27
+updated: 2026-09-28
 lang: nl
 manual: true
 faq:
@@ -194,6 +194,8 @@ Drie nieuwe scheepsroutes verbinden delen van de wereld die eerder geen verbindi
 - Stormwind Harbor naar Auberdine, waarmee de startgebieden van de Alliance aan elkaar geknoopt worden.
 - Menethil naar Southshore en verder naar Auberdine, in drie haltes.
 - The Riverglades naar Steamwheedle Port, wat het zuiden van beide continenten opent en aansluit op Gadgetzan.
+
+Vijf nieuwe vluchtpunten komen erbij: Farholde Keep, Powderfuse Port en Rog'mar in The Riverglades, en Tainted Foothills en Summit of Eternity op Mount Hyjal. Ze brengen elf nieuwe routes, en geen enkele route van Classic verdwijnt. Elke route voor beide facties staat op de kaart in [de post over de vluchtroutes](/nl/news/five-new-flight-points-bring-eleven-new-routes/).
 
 ## Dungeons en raids
 
