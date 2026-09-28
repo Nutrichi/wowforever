@@ -45,6 +45,6 @@ La categoria Boss Kills mostra un boss solo dopo che il personaggio lo ha sconfi
 - **Barrow Deeps:** Sonya Darkhallow
 - **Hyjal Summit:** The Wild King
 
-Durgen Dirgehammer è il boss finale della Hall of Thanes, come mostra [la guida](/it/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Per gli altri nomi la lista non dice se si tratta dell'ultimo boss. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold e Blackmaw Hold non compaiono.
+Durgen Dirgehammer è il boss finale della Hall of Thanes, come mostra [la guida](/it/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Rath'mael è uno dei sei boss delle Ruins of Lordaeron, che si possono affrontare in qualsiasi ordine, secondo [il resoconto](/it/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/). Per gli altri nomi la lista non dice se si tratta dell'ultimo boss. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold e Blackmaw Hold non compaiono.
 
 Alcune righe rimandano a espansioni successive, come Inscription, i Dalaran Cooking Awards e le missioni giornaliere di Cooking e Fishing. Se abbiano un senso in Forever, Wowhead non lo dice.

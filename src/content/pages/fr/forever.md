@@ -206,7 +206,7 @@ Les tranches de niveaux viennent de Blizzard, qui a publié la liste complète l
 | Donjon | Niveaux | Ce que c’est |
 |---|---|---|
 | The Hall of Thanes | 13 à 18 | Le Hall a été percé et l’Alliance protège ses anciens trésors, que la Horde voudrait peut-être pour elle. Il se trouve dans Old Ironforge sous le High Seat, avec quatre boss et cinq quêtes : [le guide](/fr/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). |
-| Ruins of Lordaeron | 15 à 20 | La capitale en ruine, toujours pleine de Scourge. La Horde se bat pour la reprendre, et l’Alliance pourrait aussi trouver un chemin. |
+| Ruins of Lordaeron | 15 à 20 | La capitale en ruine au-dessus de l’Undercity, toujours pleine de Scourge. La Horde se bat pour la reprendre, et l’Alliance y a aussi des quêtes. Six boss dans n’importe quel ordre : [la soluce](/fr/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) et [le guide](/fr/guides/ruins-of-lordaeron/). |
 | Excavation Site: Wetlands | 24 à 29 | Des fouilles de l’Explorers' League dans les Wetlands. |
 | City of Dalaran | 28 à 33 | Un donjon urbain. La barrière d’après Warcraft III a disparu, mais le Kirin Tor ne contrôle pas la ville. |
 | The Drowned City | 35 à 40 | Une ancienne ruine troll au large de Stranglethorn Vale, jouable sur le salon de la BlizzCon. |
@@ -240,12 +240,16 @@ Les Skyborne sont une nouvelle race d’elfes à la touche élémentaire. Leur f
 - Suivent l’héritage arcanique de leurs ancêtres et les idées du Kirin Tor.
 - Classes : Warrior, Hunter, Rogue, Druid et Mage.
 - Racials : Walk on Air, Read Ley Line, Wind Blessed et Elemental Insight.
+- Langues : Common et Darnassian.
 
 ### Windshaper Skyborne, Horde
 
 - Suivent les traditions élémentaires et chevauchent les vents élémentaires.
 - Classes : Warrior, Hunter, Rogue, Druid et Shaman.
 - Racials : Walk on Air, Skysight, Wind Blessed et Elemental Insight.
+- Langues : Orcish et Darnassian.
+
+Les deux parlent le Darnassian, comme les Night Elves, donc un Windshaper peut parler avec les Night Elves et les High Order par-delà les factions, comme [l’a montré un joueur de la bêta](/fr/news/skyborne-and-night-elves-talk-across-factions/). On ne sait pas si Blizzard le veut ainsi.
 
 Les Druids Skyborne ont leurs propres formes Bear, Cat, Travel et Moonkin bleu ciel, montrées sur scène à la BlizzCon. Aucune forme Tree n’a été montrée. La personnalisation offre beaucoup de teintes de peau, de coiffures, de couleurs d’yeux et de marques, un Skyborne n’est donc pas forcément bleu.
 

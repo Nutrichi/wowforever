@@ -1,13 +1,19 @@
 ---
 title: "Gidsen voor WoW Forever"
 metaTitle: "WoW Forever-gidsen: dungeonquests, questreeksen en meer"
-description: "Elke gids voor WoW Forever op één plek: de quests van de Hall of Thanes, de Cozy Sleeping Bag-reeks, en de routes, classgidsen en tradeskillgidsen van de site."
+description: "Elke gids voor WoW Forever op één plek: de dungeon Ruins of Lordaeron, de quests van de Hall of Thanes, de Cozy Sleeping Bag-reeks, en de routes, classgidsen en tradeskillgidsen van de site."
 short: "Gidsen"
-updated: 2026-09-27
+updated: 2026-09-28
 lang: nl
 manual: true
 ---
 Stap-voor-stapgidsen voor World of Warcraft: Forever, van dungeonquests tot questreeksen die eindigen met een bijzondere beloning. Elke gids noemt zijn bronnen en wordt bijgewerkt als de beta iets verandert.
+
+## Dungeons
+
+| Gids | Waarover |
+|---|---|
+| [Ruins of Lordaeron](/nl/guides/ruins-of-lordaeron/) | De dungeon boven de Undercity, level 15 tot 20: de weg erheen, alle quests voor de Horde en de Alliance, de zes bazen en hun loot |
 
 ## Dungeonquests
 

@@ -1,13 +1,19 @@
 ---
 title: "Guides für WoW Forever"
 metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
-description: "Alle Guides für WoW Forever an einem Ort: die Quests der Hall of Thanes, die Questreihe zum Cozy Sleeping Bag, und die Routen, Klassenguides und Berufsguides der Seite."
+description: "Alle Guides für WoW Forever an einem Ort: den Dungeon Ruins of Lordaeron, die Quests der Hall of Thanes, die Questreihe zum Cozy Sleeping Bag, und die Routen, Klassenguides und Berufsguides der Seite."
 short: "Guides"
-updated: 2026-09-27
+updated: 2026-09-28
 lang: de
 manual: true
 ---
 Schritt-für-Schritt-Guides für World of Warcraft: Forever, von Dungeonquests bis zu Questreihen, die mit einer besonderen Belohnung enden. Jeder Guide nennt seine Quellen und wird aktualisiert, wenn die Beta etwas ändert.
+
+## Dungeons
+
+| Guide | Worum es geht |
+|---|---|
+| [Ruins of Lordaeron](/de/guides/ruins-of-lordaeron/) | Der Dungeon über der Undercity, Level 15 bis 20: der Weg dorthin, alle Quests für die Horde und die Alliance, die sechs Bosse und ihre Beute |
 
 ## Dungeonquests
 

@@ -45,6 +45,6 @@ La categoría Boss Kills solo muestra un jefe cuando el personaje lo ha derrotad
 - **Barrow Deeps:** Sonya Darkhallow
 - **Hyjal Summit:** The Wild King
 
-Durgen Dirgehammer es el jefe final de la Hall of Thanes, como muestra [la guía](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Para los demás nombres, la lista no dice si son el último jefe. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold y Blackmaw Hold no aparecen.
+Durgen Dirgehammer es el jefe final de la Hall of Thanes, como muestra [la guía](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Rath'mael es uno de los seis jefes de Ruins of Lordaeron, que se pueden hacer en cualquier orden, según [el recorrido](/es/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/). Para los demás nombres, la lista no dice si son el último jefe. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold y Blackmaw Hold no aparecen.
 
 Algunas líneas apuntan a expansiones posteriores, como Inscription, los Dalaran Cooking Awards y misiones diarias de Cooking y Fishing. Si significan algo en Forever, Wowhead no lo dice.

@@ -45,6 +45,6 @@ De categorie Boss Kills toont een baas pas als het personage hem minstens een ke
 - **Barrow Deeps:** Sonya Darkhallow
 - **Hyjal Summit:** The Wild King
 
-Durgen Dirgehammer is de eindbaas van de Hall of Thanes, zoals [de walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) laat zien. Bij de andere namen zegt de lijst niet of het de laatste baas is. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold en Blackmaw Hold staan er niet in.
+Durgen Dirgehammer is de eindbaas van de Hall of Thanes, zoals [de walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) laat zien. Rath'mael is een van de zes bazen in de Ruins of Lordaeron, die in willekeurige volgorde kunnen, volgens [de walkthrough](/nl/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/). Bij de andere namen zegt de lijst niet of het de laatste baas is. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold en Blackmaw Hold staan er niet in.
 
 Een paar regels wijzen naar latere uitbreidingen, zoals Inscription, de Dalaran Cooking Awards en daily quests voor Cooking en Fishing. Of die iets betekenen in Forever, zegt Wowhead niet.

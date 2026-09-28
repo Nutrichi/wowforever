@@ -1,13 +1,19 @@
 ---
 title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
-description: "Tutte le guide per WoW Forever in un unico posto: le missioni della Hall of Thanes, la catena del Cozy Sleeping Bag, e i percorsi, le guide di classe e le guide delle professioni del sito."
+description: "Tutte le guide per WoW Forever in un unico posto: il dungeon Ruins of Lordaeron, le missioni della Hall of Thanes, la catena del Cozy Sleeping Bag, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
-updated: 2026-09-27
+updated: 2026-09-28
 lang: it
 manual: true
 ---
 Guide passo per passo per World of Warcraft: Forever, dalle missioni dei dungeon alle catene di missioni che finiscono con una ricompensa speciale. Ogni guida cita le sue fonti e viene aggiornata quando la beta cambia qualcosa.
+
+## Dungeon
+
+| Guida | Di cosa tratta |
+|---|---|
+| [Ruins of Lordaeron](/it/guides/ruins-of-lordaeron/) | Il dungeon sopra la Undercity, livelli da 15 a 20: come arrivarci, tutte le missioni per la Horde e l'Alliance, i sei boss e il loro bottino |
 
 ## Missioni dei dungeon
 

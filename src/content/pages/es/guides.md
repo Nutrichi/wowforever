@@ -1,13 +1,19 @@
 ---
 title: "Guías para WoW Forever"
 metaTitle: "Guías de WoW Forever: misiones de mazmorra, cadenas de misiones y más"
-description: "Todas las guías para WoW Forever en un solo lugar: las misiones del Hall of Thanes, la cadena del Cozy Sleeping Bag, y las rutas, guías de clase y guías de profesión de la web."
+description: "Todas las guías para WoW Forever en un solo lugar: la mazmorra Ruins of Lordaeron, las misiones del Hall of Thanes, la cadena del Cozy Sleeping Bag, y las rutas, guías de clase y guías de profesión de la web."
 short: "Guías"
-updated: 2026-09-27
+updated: 2026-09-28
 lang: es
 manual: true
 ---
 Guías paso a paso para World of Warcraft: Forever, desde misiones de mazmorra hasta cadenas de misiones que acaban en una recompensa especial. Cada guía cita sus fuentes y se actualiza cuando la beta cambia algo.
+
+## Mazmorras
+
+| Guía | Qué cubre |
+|---|---|
+| [Ruins of Lordaeron](/es/guides/ruins-of-lordaeron/) | La mazmorra sobre la Undercity, niveles 15 a 20: cómo llegar, todas las misiones de la Horde y la Alliance, los seis jefes y su botín |
 
 ## Misiones de mazmorra
 
