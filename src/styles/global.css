@@ -200,7 +200,9 @@ button {
  */
 .wf-barline { display: none; }
 
-@media (max-width: 899px) {
+/* Onder 1160 px, niet 900: daaronder past de era-rij niet naast het zoekveld
+   in de tweede balk (SecondBar.astro). */
+@media (max-width: 1159px) {
   .wf-barline {
     display: block;
     margin-bottom: 16px;

@@ -17,8 +17,9 @@
  * minuut en klemt op nul. Zodra de hub `/forever/` bestaat, is hij daar de
  * ingang naartoe (PROJECT_SPEC.md §4.4); tot dan is het gewone tekst.
  *
- * Onder 900 px blijven chip en pil op één regel; de slot staat dan bovenaan
- * de pagina zelf (BaseLayout), zodat de balk op elke pagina even hoog is.
+ * Onder 1160 px staat de slot bovenaan de pagina zelf (BaseLayout), zodat de
+ * balk op elke pagina even hoog is; onder 900 px blijven chip en pil daarbij
+ * op één regel.
  */
 import type { Locale } from '../i18n/ui';
 import { localizePath, useTranslations } from '../i18n/utils';
@@ -185,6 +186,20 @@ const ChipTag = hubHref ? 'a' : 'span';
   /* Met een era-rij in de balk staat Ko-fi er als kopje zonder woord. */
   .has-content :global(.wf-kofi__label) { display: none; }
   .has-content :global(.wf-kofi) { padding: 5px 8px; }
+
+  /* Van 900 tot 1159 px vullen de chip en de era-rij de balk al alleen, en
+     schoof het zoekveld eroverheen (gemeten 25 en 28 september 2026; in het
+     Frans tot 1130 px, in het Spaans tot 1120). Daar staat de
+     era-rij nu bovenaan de pagina, zoals op mobiel (Nutri, 28 september 2026);
+     de balk houdt chip, zoekveld, Ko-fi en RestedXP. Het breekpunt staat ook
+     in global.css bij .wf-barline. */
+  @media (min-width: 900px) and (max-width: 1159px) {
+    .has-content .wf-bar__rule,
+    .has-content .wf-bar__slot { display: none; }
+
+    .has-content :global(.wf-kofi__label) { display: inline; }
+    .has-content :global(.wf-kofi) { padding: 5px 12px 5px 10px; }
+  }
 
   @media (max-width: 899px) {
     .wf-bar__inner {
