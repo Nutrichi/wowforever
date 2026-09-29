@@ -3,7 +3,7 @@ title: "Ruins of Lordaeron: the dungeon guide for WoW Forever"
 metaTitle: "Ruins of Lordaeron in WoW Forever: quests, bosses, loot and location"
 description: "The Ruins of Lordaeron in WoW Forever: how to get there, all quests for the Horde and the Alliance with quest givers and rewards, the six bosses, the trash and the loot."
 short: "Ruins of Lordaeron"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: en
 faq:
   - q: "What level is the Ruins of Lordaeron?"
@@ -21,6 +21,8 @@ sources:
     url: "https://www.wowhead.com/forever/news/the-ruins-of-lordaeron-new-dungeon-walkthrough-for-wow-forever-383021"
   - name: "Wowhead, the dungeon guide"
     url: "https://www.wowhead.com/forever/guide/ruins-of-lordaeron-dungeon-overview-location-rewards"
+  - name: "Warcraft Tavern, the dungeon guide"
+    url: "https://www.warcrafttavern.com/forever/guides/the-ruins-of-lordaeron/"
 ---
 The Ruins of Lordaeron is a new dungeon in the ruined capital above the Undercity, for levels 15 to 20. The Scourge still holds the streets, and the Forsaken want them back. Six bosses wait there in any order, with six quests for the Horde and four for the Alliance.
 
@@ -52,6 +54,8 @@ The dungeon is not a straight line. Viktor the Vile and the Crest of Lordaeron a
 5. Follow the road to the ruins of Lordaeron.
 
 Skyborne on the Alliance side can take a portal from the Mage Tower in Stormwind to Dalaran and start at step 3.
+
+**The exact spot.** Walk through the front gate of the ruins and look left before the keep: the portal is up a flight of stairs, at /way 72.4 11.6. Whoever dies inside comes back as a ghost in the courtyard, close by. Outside, on the long way for the Alliance, Spirit Healers are far apart, and on a PvP ruleset the route crosses a lot of Horde land.
 
 ## The quests at a glance
 
@@ -128,6 +132,43 @@ For the Alliance: the three choices of Abominable Creatures, the two of Bloodied
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_jewelry_necklace_08.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=279870">Tarnished Locket</a><span class="wf-item__line wf-item__meta">Item Level 24</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Neck</span><span></span></span><span class="wf-item__line">+5 Stamina</span><span class="wf-item__line">+4 Spirit</span><span class="wf-item__line wf-item__meta">"Some memories are best forgotten."</span></div></div>
 </div>
 
+## The route through the dungeon
+
+The dungeon looks open and confusing, but the route is a U. The real challenge is the density: packs stand close together, patrols cross, and the healer runs out of mana fast. From the portal:
+
+1. **Captain Truman.** The Alliance turns left for Abominable Creatures. Then go down the stairs to the east.
+2. **The window.** Skip the large, web-covered gate and jump through the window on the right. That skips a few packs.
+3. **Witherfang** patrols the alley there. Clear the small spider packs, then the boss.
+4. **South, along the left wall**, to keep trash to a minimum. At three Ghostly Citizens, turn right into a passage to the west: that is where The Baron stands.
+5. **Over the wall.** Behind The Baron, a broken pillar leans against a low wall. Jump on it and over. Hunters and Warlocks dismiss their pet first.
+6. **Past the graveyard.** Straight ahead lies a graveyard behind an iron fence, with a summoning circle: Rath'mael comes last. Keep to the right side and go around.
+7. **Viktor the Vile.** Just past a corridor to a courtyard stands a burned-down house with a fireplace. Clear the area, wait for full mana and click the fire.
+8. **The Abandoned.** In the courtyard past the graveyard stands a statue with glowing eyes. Click it for the waves; The Abandoned comes out of the statue.
+9. **The window to Bjork.** Leave the courtyard through the area with a narrow staircase, turn right at the end and jump through a large window. Bjork patrols there.
+10. **Rath'mael.** Go straight south to the graveyard. Edward's body lies there too, needed by both factions.
+
+The Alliance walks out instead of using a Hearthstone: the Head of the Baron goes to Captain Truman at the entrance.
+
+<div class="wf-shots">
+
+![A window in a dark stone room of the Ruins of Lordaeron, the shortcut past the web-covered gate, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-ruins-of-lordaeron-first-window.jpg)
+
+![Ghostly Citizens in the streets of Lordaeron, the spot to turn right toward The Baron, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-ruins-of-lordaeron-ghostly-citizens.jpg)
+
+![The broken pillar against a low wall behind The Baron, the jump into Lordamere Overlook, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-ruins-of-lordaeron-pillar-behind-the-baron.jpg)
+
+![Lordamere Overlook, with the way to Viktor the Vile on the left and the way on to the right, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-ruins-of-lordaeron-lordamere-overlook.jpg)
+
+![The fireplace in a burned-down house that starts the waves before Viktor the Vile, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-ruins-of-lordaeron-kindled-flame.jpg)
+
+![A glowing cage on the statue in the courtyard that starts the waves before The Abandoned, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-ruins-of-lordaeron-statue-of-the-abandoned.jpg)
+
+![The large window that leads into the area of Bjork, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-ruins-of-lordaeron-window-to-bjork.jpg)
+
+![The body of Edward Heartweaver in the graveyard near Rath'mael, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-ruins-of-lordaeron-edward-heartweaver.jpg)
+
+</div>
+
 ## The six bosses
 
 Any order works. Every boss drops blue items; three per boss are known from the beta.
@@ -144,6 +185,8 @@ A big spider that patrols King's Alley with two smaller spiders. Clear the trash
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_07.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271202">Witherbite Bracers</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Leather</span></span><span class="wf-item__line">37 Armor</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Intellect</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Durability 30 / 30</span><span class="wf-item__line">Requires Level 15</span></div></div>
 </div>
 
+She does not pull her patrol along, writes Warcraft Tavern: a ranged pull brings her alone.
+
 ### The Baron
 
 An abomination with one ability that matters: [Knockout](https://www.wowhead.com/forever/spell=17307), heavy instant damage that knocks the target back, stuns it and drops threat. A tank that is not at full health can die from it. Stun him as often as possible. He drops the Head of the Baron for the Alliance and the Abominable Head for the Horde.
@@ -156,6 +199,8 @@ An abomination with one ability that matters: [Knockout](https://www.wowhead.com
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_chest_cloth_46.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271206">Leftover Abomination Skin</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Chest</span><span>Cloth</span></span><span class="wf-item__line">37 Armor</span><span class="wf-item__line">+7 Spirit</span><span class="wf-item__line">Durability 70 / 70</span><span class="wf-item__line">Requires Level 15</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 7.</span></div></div>
 </div>
 
+Tank him with your back to a wall. He also hits everyone in melee range around him: melee stands behind him, ranged players keep distance from him and from each other, so the stun on the tank does not send him into a cluster.
+
 ### Viktor the Vile
 
 The boss most groups miss. Light the Kindled Flame in the chimney of a building in the southwest of Lordamere Overlook, near the graveyard. Five waves of adds follow before Viktor comes. He hits hard and has the same Leech Poison as Witherfang, so let the tank take aggro first. On the beta Viktor sometimes does not spawn.
@@ -165,6 +210,8 @@ The boss most groups miss. Light the Kindled Flame in the chimney of a building 
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_bandage_14.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271212">Bloodied Chestwraps</a><span class="wf-item__line wf-item__meta">Item Level 22</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Chest</span><span>Leather</span></span><span class="wf-item__line">89 Armor</span><span class="wf-item__line">+9 Agility</span><span class="wf-item__line">+4 Stamina</span><span class="wf-item__line">+4 Intellect</span><span class="wf-item__line">Durability 90 / 90</span><span class="wf-item__line">Requires Level 17</span></div></div>
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_boots_chain_08.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271211">Vilewalkers</a><span class="wf-item__line wf-item__meta">Item Level 22</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Feet</span><span>Mail</span></span><span class="wf-item__line">131 Armor</span><span class="wf-item__line">+7 Strength</span><span class="wf-item__line">+5 Stamina</span><span class="wf-item__line">Durability 50 / 50</span><span class="wf-item__line">Requires Level 17</span></div></div>
 </div>
+
+The waves drain the group more than Viktor himself, so start only with full mana.
 
 ### The Abandoned
 
@@ -178,6 +225,8 @@ He waits in Market Street, on the way from Lordamere Overlook. A statue there st
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_pants_cloth_05.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271207">Rotmender's Leggings</a><span class="wf-item__line wf-item__meta">Item Level 22</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Legs</span><span>Cloth</span></span><span class="wf-item__line">35 Armor</span><span class="wf-item__line">+5 Stamina</span><span class="wf-item__line">+8 Intellect</span><span class="wf-item__line">+5 Spirit</span><span class="wf-item__line">Durability 50 / 50</span><span class="wf-item__line">Requires Level 17</span><span class="wf-item__line wf-item__setname">Rotmender's Raiment (0/5)</span><span class="wf-item__line wf-item__set">(2) Set: +10 Intellect.</span><span class="wf-item__line wf-item__set">(3) Set: Reduces all threat generated by 5%.</span><span class="wf-item__line wf-item__set">(4) Set: When your Mana falls below 15% restore 600 Mana over 15 sec. This effect can only trigger once every 5 min. (5m cooldown)</span><span class="wf-item__line wf-item__set">(5) Set: Grant your healing spells a chance to apply Rotmending, restoring 40 Health every 3 sec for 15 sec. (Proc chance: 10%)</span></div></div>
 </div>
 
+His Frost Armor cannot be dispelled. During the waves, undead sometimes get stuck in the corridors and the event stalls: go after them.
+
 ### Bjork
 
 A quick fight. His only ability is a short [Anti-Magic Shield](https://www.wowhead.com/forever/spell=1301635), which makes him immune to magic for 3 seconds. Casters wait it out.
@@ -190,6 +239,8 @@ A quick fight. His only ability is a short [Anti-Magic Shield](https://www.wowhe
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_belt_26.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271210">Tuskwrap Belt</a><span class="wf-item__line wf-item__meta">Item Level 21</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Waist</span><span>Cloth</span></span><span class="wf-item__line">22 Armor</span><span class="wf-item__line">+5 Stamina</span><span class="wf-item__line">+5 Intellect</span><span class="wf-item__line">Durability 20 / 20</span><span class="wf-item__line">Requires Level 16</span></div></div>
 </div>
 
+![Bjork inside the green bubble of Anti-Magic Shield, in a fight with a group, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-ruins-of-lordaeron-bjork-anti-magic-shield.jpg)
+
 ### Rath'mael
 
 Rath'mael stands at the graveyard, with Edward Heartweaver and the Blood-Stained Letter nearby. His one ability is [Flamestrike](https://www.wowhead.com/forever/spell=1279983), always on the spot where the tank stood when the cast started. Move out and fight on at a new spot, or stun him before he casts. His loot requires level 19, the highest in the dungeon.
@@ -201,6 +252,8 @@ Rath'mael stands at the graveyard, with Edward Heartweaver and the Blood-Stained
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_staff_07.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271215">Coldspire Staff</a><span class="wf-item__line wf-item__meta">Item Level 24</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Two-Hand</span><span>Staff</span></span><span class="wf-item__row"><span>43 - 66 Damage</span><span>Speed 3.60</span></span><span class="wf-item__line">(15.14 damage per second)</span><span class="wf-item__line">Durability 90 / 90</span><span class="wf-item__line">Requires Level 19</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 26.</span></div></div>
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_boots_05.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271214">Rotmender's Treads</a><span class="wf-item__line wf-item__meta">Item Level 24</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Feet</span><span>Cloth</span></span><span class="wf-item__line">29 Armor</span><span class="wf-item__line">+7 Stamina</span><span class="wf-item__line">+4 Intellect</span><span class="wf-item__line">+4 Spirit</span><span class="wf-item__line">Durability 35 / 35</span><span class="wf-item__line">Requires Level 19</span><span class="wf-item__line wf-item__setname">Rotmender's Raiment (0/5)</span><span class="wf-item__line wf-item__set">(2) Set: +10 Intellect.</span><span class="wf-item__line wf-item__set">(3) Set: Reduces all threat generated by 5%.</span><span class="wf-item__line wf-item__set">(4) Set: When your Mana falls below 15% restore 600 Mana over 15 sec. This effect can only trigger once every 5 min. (5m cooldown)</span><span class="wf-item__line wf-item__set">(5) Set: Grant your healing spells a chance to apply Rotmending, restoring 40 Health every 3 sec for 15 sec. (Proc chance: 10%)</span></div></div>
 </div>
+
+The cast can be interrupted, which spares the melee players.
 
 ## Rotmender's Raiment
 
@@ -222,9 +275,21 @@ The trash hits less hard than in the Hall of Thanes, but the packs stand close t
 
 ![Two Ghouls and a Ragged Ghoul under a tree in front of a stone wall, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-ghouls.jpg)
 
+**Deep Widows and Broodlings.** Also at the start, with poison attacks. Harmless unless you pull too many at once.
+
+**Skeletal Mages.** They put Frost Armor on themselves; dispel it and they fall faster.
+
+**Wailing Banshees.** A curse that lowers the hit chance of their target.
+
+**Stone Watchers.** Gargoyles on the upper floors that pose as statues until you come close. In the fight they turn to stone again: immune to physical damage and regenerating health. Hit them with magic in that phase.
+
+## A rare: the Lordaeron Captain
+
+A rare with a small chance to spawn on the west side of the dungeon. The Alliance cannot kill him; for the Horde he is hostile. A plain fight: just do not pull leftover adds along.
+
 ## What is not known yet
 
-- Which boss is the final boss. The final boss is level 20, but the dungeon has no fixed order.
+- Which boss counts as the final boss. The level-20 boss has no fixed place in the order; Warcraft Tavern ends its route at Rath'mael.
 - Whether Viktor the Vile always spawns at launch. On the beta he sometimes does not.
 - Where the rest of Rotmender's Raiment drops, and at which step Unending Torment gives Slain Baron's Signet.
 - How much experience The Wrath of Rath'mael gives

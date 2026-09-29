@@ -489,12 +489,8 @@ const jsonLd = {
 
   .wf-bisd__block { margin-top: 28px; }
 
-  .wf-bisd__table {
-    border: 1px solid var(--wf-border);
-    border-radius: var(--wf-r-card-sm);
-    background: var(--wf-raised);
-    overflow: hidden;
-  }
+  /* Rand en grond: het perkament uit global.css (29 september 2026). */
+  .wf-bisd__table { overflow: hidden; }
 
   .wf-bisd__table table {
     width: 100%;
@@ -523,15 +519,28 @@ const jsonLd = {
   }
 
   .wf-bisd__head-row th {
-    padding-block: 9px;
+    padding-block: 10px;
+    font-weight: 700;
     font-size: 12px;
-    letter-spacing: .12em;
+    letter-spacing: .14em;
     text-transform: uppercase;
-    color: var(--wf-label);
-    background: var(--wf-raised-soft, transparent);
+    color: #8a5a14;
+    background: linear-gradient(180deg, rgba(224, 183, 122, .45), rgba(224, 183, 122, .18));
+    border-bottom: 3px double #b5872f;
   }
 
-  .wf-bisd__head-row th + th { padding-left: 0; }
+  .wf-bisd__head-row th + th { padding-left: 14px; }
+
+  /* De lijntjes tussen de kolommen, zoals elke tabel op de site. Alleen breed:
+     smal staan de cellen onder elkaar. */
+  @media (min-width: 900px) {
+    .wf-bisd__table td { padding-left: 14px; }
+    .wf-bisd__table th + th,
+    .wf-bisd__table th + td,
+    .wf-bisd__table td + td { border-left: 1px solid var(--wf-line); }
+    .wf-bisd__table tbody tr:hover td,
+    .wf-bisd__table tbody tr:hover th { background: rgba(36, 70, 143, .07); }
+  }
 
   .wf-bisd__name {
     display: block;

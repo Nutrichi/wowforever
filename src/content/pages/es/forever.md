@@ -209,7 +209,7 @@ Los tramos de nivel vienen de Blizzard, que publicó la lista completa el 14 de 
 | The Hall of Thanes | 13 a 18 | El Hall ha sido asaltado y la Alliance protege sus antiguos tesoros, que la Horde quizá quiera para sí. Está en Old Ironforge bajo el High Seat, con cuatro jefes y cinco misiones: [la guía](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) y [la guía de la mazmorra](/es/guides/dungeons/hall-of-thanes/). |
 | Ruins of Lordaeron | 15 a 20 | La capital en ruinas sobre la Undercity, todavía llena de Scourge. La Horde lucha por recuperarla, y la Alliance también tiene misiones allí. Seis jefes en cualquier orden: [el recorrido](/es/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) y [la guía](/es/guides/dungeons/ruins-of-lordaeron/). |
 | Excavation Site: Wetlands | 24 a 29 | Una excavación de la Explorers' League en los Wetlands. |
-| City of Dalaran | 28 a 33 | Una mazmorra urbana. La barrera de después de Warcraft III ha desaparecido, pero el Kirin Tor no controla la ciudad. |
+| City of Dalaran | 28 a 33 | Una mazmorra urbana. La barrera de después de Warcraft III ha desaparecido, pero el Kirin Tor no controla la ciudad. La Alliance entra por las Dalaran Sewers, la Horde desde fuera con la Dalaran Sewer Key ([más](/es/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). |
 | The Drowned City | 35 a 40 | Una antigua ruina trol frente a la costa de Stranglethorn Vale, jugable en la BlizzCon. |
 | Krol'dok Stronghold | 40 a 45 | Un bastión orco. |
 | Alcaz Prison | 48 a 53 | Una prisión en Alcaz Island. |

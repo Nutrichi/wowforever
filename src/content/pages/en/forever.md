@@ -208,7 +208,7 @@ The level ranges come from Blizzard, which published the full list on 14 Septemb
 | The Hall of Thanes | 13 to 18 | The Hall has been breached and the Alliance protects its old treasures, which the Horde may want for itself. It lies in Old Ironforge beneath the High Seat, with four bosses and five quests: [the walkthrough](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) and [the guide](/guides/dungeons/hall-of-thanes/). |
 | Ruins of Lordaeron | 15 to 20 | The ruined capital above the Undercity, still full of Scourge. The Horde fights to take it back, and the Alliance has quests there too. Six bosses in any order: [the walkthrough](/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) and [the guide](/guides/dungeons/ruins-of-lordaeron/). |
 | Excavation Site: Wetlands | 24 to 29 | A dig of the Explorers' League in the Wetlands. |
-| City of Dalaran | 28 to 33 | A city dungeon. The barrier from after Warcraft III is gone, but the Kirin Tor do not have the city under control. |
+| City of Dalaran | 28 to 33 | A city dungeon. The barrier from after Warcraft III is gone, but the Kirin Tor do not have the city under control. The Alliance enters through the Dalaran Sewers, the Horde from outside with the Dalaran Sewer Key ([more](/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). |
 | The Drowned City | 35 to 40 | An old troll ruin off the coast of Stranglethorn Vale, playable on the BlizzCon show floor. |
 | Krol'dok Stronghold | 40 to 45 | An orc stronghold. |
 | Alcaz Prison | 48 to 53 | A prison on Alcaz Island. |

@@ -28,6 +28,16 @@ const updated = await guidesUpdated('tradeskills', era);
 const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
 const skills = tradeskills.filter((skill) => skill.eras.includes(era));
 const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), secondary: t('typeSecondary') };
+
+/*
+ * Per soort bij elkaar, zoals op /tradeskills/ voor Forever (Nutri, 29 september
+ * 2026: "The tradeskills tab only have Forever put in categories, also put the
+ * other era tbc etc in categories"). Zelfde volgorde: gathering, secondary,
+ * crafting. De soort staat als kop boven de groep, dus niet meer in de pil.
+ */
+const groups = (['gathering', 'secondary', 'crafting'] as const)
+  .map((type) => ({ type, label: typeLabel[type], items: skills.filter((s) => s.type === type) }))
+  .filter((group) => group.items.length > 0);
 ---
 
 <header class="wf-ghead">
@@ -40,25 +50,29 @@ const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), 
 
 {guides.length === 0 && <GuidePending locale={locale} kind="tradeskills" era={era} />}
 
-{guides.length > 0 && (
-  <ul class="wf-tpills">
-    {skills.map((skill) => {
-      const guide = bySlug.get(skill.key);
-      return (
-        <li class="wf-tpill">
-          <span class="wf-tpill__cat" aria-hidden="true">
-            <span class="wf-tpill__diamond" style={`--wf-diamond: ${tradeskillColors[skill.type]};`}></span>
-          </span>
-          <span class="wf-tpill__rule" aria-hidden="true"></span>
-          <span class:list={['wf-tpill__name', { 'is-pending': !guide }]}>
-            {guide ? <a href={guide.href}>{skill.name}</a> : skill.name}
-          </span>
-          <span class="wf-tpill__rule" aria-hidden="true"></span>
-          <span class="wf-tpill__text">{guide?.description}</span>
-          <span class="wf-tpill__rule" aria-hidden="true"></span>
-          <span class="wf-tpill__type">{typeLabel[skill.type]}</span>
-        </li>
-      );
-    })}
-  </ul>
-)}
+{guides.length > 0 && groups.map((group) => (
+  <div class="wf-tgroup">
+    <h2 class="wf-glabel wf-tgroup__title">
+      {group.label}
+      <span class="wf-tgroup__count">{group.items.length}</span>
+    </h2>
+    <ul class="wf-tpills">
+      {group.items.map((skill) => {
+        const guide = bySlug.get(skill.key);
+        return (
+          <li class="wf-tpill">
+            <span class="wf-tpill__cat" aria-hidden="true">
+              <span class="wf-tpill__diamond" style={`--wf-diamond: ${tradeskillColors[skill.type]};`}></span>
+            </span>
+            <span class="wf-tpill__rule" aria-hidden="true"></span>
+            <span class:list={['wf-tpill__name', { 'is-pending': !guide }]}>
+              {guide ? <a href={guide.href}>{skill.name}</a> : skill.name}
+            </span>
+            <span class="wf-tpill__rule" aria-hidden="true"></span>
+            <span class="wf-tpill__text">{guide?.description}</span>
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+))}

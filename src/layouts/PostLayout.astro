@@ -221,6 +221,10 @@ const jsonLd = {
     gap: 8px;
   }
 
+  /* Een Wowhead-link houdt zijn eigen kleur, zonder de onderstreping van de lopende tekst. */
+  .wf-prose :global(a.wf-wh) { text-decoration: none; }
+
+
   .wf-prose :global(blockquote) {
     margin: 0;
     border-left: 3px solid var(--wf-arcane);

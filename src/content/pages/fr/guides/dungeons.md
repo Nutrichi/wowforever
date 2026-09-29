@@ -3,7 +3,7 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : chaque donjon, niveau et donneur de quête"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: fr
 manual: true
 faq:
@@ -491,3 +491,5 @@ Sept nouveaux donjons de Forever ne sont pas encore sur la bêta, donc leurs qu�
 | Alcaz Prison | 48 à 53 |
 | Blackmaw Hold | 55 à 60 |
 | Shaper's Terrace | 58 à 60 |
+
+L’entrée de la City of Dalaran est déjà dans la bêta : par les Dalaran Sewers pour l’Alliance, depuis l’extérieur de la ville avec une clé pour la Horde ([plus](/fr/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). Si le donjon lui-même est déjà accessible, on ne le sait pas.

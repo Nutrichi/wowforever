@@ -3,7 +3,7 @@ title: "Guida ai dungeon: ogni missione dei dungeon in WoW Forever"
 metaTitle: "Missioni dei dungeon di WoW Forever: ogni dungeon, livello e PNG"
 description: "Ogni dungeon di WoW Forever con i suoi livelli e tutte le sue missioni: dove inizia ciascuna, per quale fazione, cosa serve prima, e le chiavi che alcuni dungeon richiedono."
 short: "Dungeon"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: it
 manual: true
 faq:
@@ -491,3 +491,5 @@ Sette nuovi dungeon di Forever non sono ancora nella beta, quindi le loro missio
 | Alcaz Prison | 48 a 53 |
 | Blackmaw Hold | 55 a 60 |
 | Shaper's Terrace | 58 a 60 |
+
+L’ingresso della City of Dalaran è già nella beta: dalle Dalaran Sewers per l’Alliance, da fuori città con una chiave per l’Orda ([altro](/it/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). Se nel dungeon si possa già entrare, non si sa.

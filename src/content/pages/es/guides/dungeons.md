@@ -3,7 +3,7 @@ title: "Guía de mazmorras: cada misión de mazmorra en WoW Forever"
 metaTitle: "Misiones de mazmorra de WoW Forever: cada mazmorra, nivel y PNJ"
 description: "Cada mazmorra de WoW Forever con sus niveles y todas sus misiones: dónde empieza cada una, para qué facción, qué hace falta antes, y las llaves que piden algunas mazmorras."
 short: "Mazmorras"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: es
 manual: true
 faq:
@@ -491,3 +491,5 @@ Siete mazmorras nuevas de Forever aún no están en la beta, así que sus mision
 | Alcaz Prison | 48 a 53 |
 | Blackmaw Hold | 55 a 60 |
 | Shaper's Terrace | 58 a 60 |
+
+La entrada de la City of Dalaran ya está en la beta: por las Dalaran Sewers para la Alliance, desde fuera de la ciudad con una llave para la Horde ([más](/es/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). Si ya se puede entrar en la mazmorra, no se sabe.

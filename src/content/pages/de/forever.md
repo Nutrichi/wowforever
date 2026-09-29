@@ -209,7 +209,7 @@ Die Stufenbereiche stammen von Blizzard, das die vollständige Liste am 14. Sept
 | The Hall of Thanes | 13 bis 18 | Die Hall wurde durchbrochen, und die Alliance schützt ihre alten Schätze, die die Horde vielleicht selbst will. Sie liegt in Old Ironforge unter dem High Seat, mit vier Bossen und fünf Quests: [der Guide](/de/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) und [der Dungeonguide](/de/guides/dungeons/hall-of-thanes/). |
 | Ruins of Lordaeron | 15 bis 20 | Die zerstörte Hauptstadt über der Undercity, noch voller Scourge. Die Horde kämpft um ihre Rückeroberung, und auch die Alliance hat dort Quests. Sechs Bosse in beliebiger Reihenfolge: [die Komplettlösung](/de/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) und [der Guide](/de/guides/dungeons/ruins-of-lordaeron/). |
 | Excavation Site: Wetlands | 24 bis 29 | Eine Ausgrabung der Explorers' League in den Wetlands. |
-| City of Dalaran | 28 bis 33 | Ein Stadtdungeon. Die Barriere aus der Zeit nach Warcraft III ist fort, doch die Kirin Tor haben die Stadt nicht unter Kontrolle. |
+| City of Dalaran | 28 bis 33 | Ein Stadtdungeon. Die Barriere aus der Zeit nach Warcraft III ist fort, doch die Kirin Tor haben die Stadt nicht unter Kontrolle. Die Alliance kommt über die Dalaran Sewers hinein, die Horde von außen mit dem Dalaran Sewer Key ([mehr](/de/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). |
 | The Drowned City | 35 bis 40 | Eine alte Trollruine vor der Küste von Stranglethorn Vale, auf der BlizzCon spielbar. |
 | Krol'dok Stronghold | 40 bis 45 | Eine Orcfestung. |
 | Alcaz Prison | 48 bis 53 | Ein Gefängnis auf Alcaz Island. |

@@ -253,12 +253,8 @@
 
 /* --- Forever: rassen en classes --- */
 
-.wf-combos {
-  overflow-x: auto;
-  border: 1px solid var(--wf-border);
-  border-radius: var(--wf-r-card-sm);
-  background: var(--wf-raised);
-}
+/* Rand en grond: het perkament uit global.css (29 september 2026). */
+.wf-combos { overflow-x: auto; }
 
 .wf-combos table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
 
@@ -271,13 +267,21 @@
 
 .wf-combos thead th {
   font-family: var(--wf-display);
-  font-weight: 500;
+  font-weight: 700;
   font-size: 11px;
-  letter-spacing: .08em;
+  letter-spacing: .1em;
   text-transform: uppercase;
-  color: var(--wf-label);
+  color: #8a5a14;
   white-space: nowrap;
+  background: linear-gradient(180deg, rgba(224, 183, 122, .45), rgba(224, 183, 122, .18));
+  border-bottom: 3px double #b5872f;
 }
+
+/* De lijntjes tussen de kolommen. */
+.wf-combos th + th,
+.wf-combos th + td,
+.wf-combos td + td { border-left: 1px solid var(--wf-line); }
+.wf-combos tbody tr:hover > * { background: rgba(36, 70, 143, .07); }
 
 .wf-combos tbody th[scope="row"] {
   text-align: left;
@@ -474,12 +478,7 @@
   text-underline-offset: 3px;
 }
 
-.wf-gprose table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 14.5px;
-  line-height: 1.5;
-}
+/* De tabellen van .wf-gprose staan als perkament in global.css (29 september 2026). */
 
 /*
  * Questnamen in een tabel van een gids (Nutri, 28 september 2026): in het goud
@@ -492,24 +491,6 @@
 }
 .wf-gprose td a[href*="wowhead.com/forever/quest="]:hover { text-decoration: underline; text-underline-offset: 3px; }
 
-.wf-gprose th,
-.wf-gprose td {
-  padding: 8px 10px;
-  text-align: left;
-  vertical-align: top;
-  border-bottom: 1px solid var(--wf-border);
-}
-
-.wf-gprose th {
-  font-family: var(--wf-display);
-  font-weight: 500;
-  font-size: 12px;
-  letter-spacing: .12em;
-  text-transform: uppercase;
-  color: var(--wf-label);
-}
-
-.wf-gprose td:first-child { white-space: nowrap; color: var(--wf-ink-soft); }
 
 /* --- Factierijen (handoff §7.5, zonder balk en snelheidslabel) --- */
 
@@ -593,5 +574,4 @@
   .wf-tpill__text { font-size: 12.5px; }
   .wf-gdetail__diamond { width: 11px; height: 11px; margin-top: 10px; }
   .wf-gprose { font-size: 15.5px; }
-  .wf-gprose table { display: block; overflow-x: auto; }
 }

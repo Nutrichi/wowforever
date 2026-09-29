@@ -3,7 +3,7 @@ title: "The Hall of Thanes: der Dungeonguide für WoW Forever"
 metaTitle: "The Hall of Thanes in WoW Forever: Quests, Bosse, Beute und Anreise"
 description: "The Hall of Thanes in WoW Forever: die Anreise, alle fünf Quests mit der Questreihe in Dun Morogh, die vier Bosse, der hart zuschlagende Trash und jede bekannte Belohnung und Beute."
 short: "Hall of Thanes"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: de
 manual: true
 faq:
@@ -24,6 +24,8 @@ sources:
     url: "https://www.wowhead.com/forever/news/the-hall-of-thanes-new-dungeon-walkthrough-for-wow-forever-382991"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/hall-of-thanes-quests/"
+  - name: "Warcraft Tavern, der Dungeon-Guide"
+    url: "https://www.warcrafttavern.com/forever/guides/hall-of-thanes/"
 ---
 The Hall of Thanes ist der neue Dungeon unter Old Ironforge, für Level 13 bis 18, und für die meisten Spieler der Alliance der erste von WoW Forever. Es ist die Ruhestätte der großen Dwarves der Eastern Kingdoms, und die Dark Iron Dwarves sind eingebrochen. Drinnen warten vier Bosse und fünf Quests.
 
@@ -45,6 +47,18 @@ The Hall of Thanes ist der neue Dungeon unter Old Ironforge, für Level 13 bis 1
 **Alliance.** Geht in den High Seat von Ironforge. Die Tür nach Old Ironforge ist gleich links. Folgt dem Weg ganz nach unten bis zum Portal.
 
 **Horde.** Der Dungeon ist das Gegenstück der Alliance zu Ragefire Chasm, und der Weg ist lang. Von Tarren Mill geht es durch die Arathi Highlands, die Wetlands und Loch Modan nach Dun Morogh und dann an den Wachen von Ironforge vorbei. Ein schnellerer Weg ist nicht gefunden. Legt die Ausrüstung vor den Wachen ab, damit sie beim Tod keine Haltbarkeit verliert.
+
+**Der genaue Weg hinein.** Stell dich an die Great Forge, mit Blick auf den High Seat, wo King Magni Bronzebeard sitzt. In seiner Halle öffnet sich links ein Gang voller Spinnweben, bei /way 43.5 52.0. Folge ihm ganz nach unten. Der Weg führt über Lava, und ein Sturz ist tödlich.
+
+<div class="wf-shots">
+
+![Die Great Forge von Ironforge mit dem Eingang des High Seat geradeaus, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-hall-of-thanes-the-high-seat.jpg)
+
+![Der Gang links im High Seat, der Weg hinunter nach Old Ironforge, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-hall-of-thanes-passage-to-old-ironforge.jpg)
+
+![Eine schmale Steinbrücke über Lava zum Portal der Hall of Thanes, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-hall-of-thanes-bridge-to-the-portal.jpg)
+
+</div>
 
 ## Die Quests auf einen Blick
 
@@ -72,9 +86,13 @@ Einer der Spione lässt eine [Dark Iron Map](https://www.wowhead.com/forever/ite
 
 **Important Heirlooms.** Thom Filch wartet an der Brücke, die in The Hall of Thanes führt. Er verlangt 8 [Dwarven Heirlooms](https://www.wowhead.com/forever/item=274289). Sie liegen ab dem ersten Boss überall im Dungeon, meist auf erhöhten Plattformen mit Kerzen. Streiten muss niemand darum: Die Gewölbe im letzten Raum, dem Reliquary of Kings, reichen für fünf Spieler. Belohnung: der Dwarven Tome oder Tomb Robber's Gloves, dazu 100 Ruf bei Gadgetzan.
 
+<div class="wf-shots">
+
 ![Thom Filch mit geöffnetem Questfenster von Important Heirlooms, direkt vor The Hall of Thanes](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-thom-filch.jpg)
 
 ![Eine erhöhte Steinplattform mit Kerzen und Dwarven Heirlooms in einem dunklen Gang von The Hall of Thanes](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-dwarven-heirlooms.jpg)
+
+</div>
 
 **The Restless Dead.** Afadra Dunwall, eine Lorekeeper von Ironforge, steht oben an einer Treppe auf dem Weg zum Eingang. Sie will 15 Enraged Apparitions und 10 Tormented Souls tot sehen, die Geister der ersten drei Räume. Belohnung: der Dusty Belt oder Cryptwalker Bracers, dazu 100 Ruf bei Ironforge.
 
@@ -106,6 +124,30 @@ In der Reihenfolge der Quests: Old Ironforge Incursion, Important Heirlooms, The
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_pants_01.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=279900">Deepgrave Trousers</a><span class="wf-item__line wf-item__meta">Item Level 17</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Legs</span><span>Leather</span></span><span class="wf-item__line">70 Armor</span><span class="wf-item__line">+7 Strength</span><span class="wf-item__line">+3 Agility</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Durability 60 / 60</span></div></div>
 </div>
 
+## Der Weg durch den Dungeon
+
+Die Hall of Thanes ist eine gerade Linie mit einem Umweg durch eine Höhle. Vom Portal aus:
+
+1. **Der erste Saal.** Tormented Souls und Enraged Apparitions, leichte Pulls. Nimm den Gang links, nach Westen.
+2. **Die Ghostly Attendant.** Im nächsten Raum gibt sie An Ancient Grudge. Danach kommt Anvilmar's Rest, ein großer Saal mit einem Grabmal in der Mitte, um das Faldrim Anvilmar läuft. Räum zuerst die Geister weg.
+3. **Die Seite der Dark Iron.** Verlass Anvilmar's Rest durch den Gang im Südosten. Ab hier übernehmen die Dark Iron Dwarves. Am Weg stehen Fässer mit Seaforium Blasting Powder: schieß sie aus der Ferne an, und sie sprengen die Gruppe drumherum.
+4. **Die Höhle.** Die Gräber gehen in eine natürliche Höhle über, wo Magmatus zwischen Dark Iron Dwarves steht.
+5. **Zurück in die Hallen.** Oben im Tunnel wartet eine Vierergruppe mit zwei Fässern daneben. Schieß beide Fässer gleichzeitig vor dem Pull an.
+6. **Plunder** patrouilliert gleich danach im Gang.
+7. **Die Reliquary of Kings.** Nach Norden über eine Brücke mit Lesser Stone Golems liegt der letzte Saal, mit Durgen Dirgehammer. Hinter einer der Grufttüren liegt der Treaty of Understanding.
+
+Gib auf dem Weg hinaus An Ancient Grudge bei der Ghostly Attendant ab.
+
+<div class="wf-shots">
+
+![Der erste Saal der Hall of Thanes, mit einem Wasserbecken, Kerzen und Feuerschalen, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-hall-of-thanes-first-chamber.jpg)
+
+![Anvilmar's Rest, ein dunkler Saal mit einem großen steinernen Grabmal in der Mitte, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-hall-of-thanes-anvilmars-rest.jpg)
+
+![Eine Gruppe in einer dunklen Höhle neben Fässern mit Seaforium Blasting Powder, weiter hinten Dark Iron Dwarves, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-hall-of-thanes-seaforium-kegs.jpg)
+
+</div>
+
 ## Die vier Bosse
 
 ### Faldrim Anvilmar
@@ -117,6 +159,8 @@ Ein Geist, der durch die Mitte von Anvilmar's Rest patrouilliert. Räumt eine Se
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_necklacea8.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=270227">Ephemeral Choker</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Neck</span><span></span></span><span class="wf-item__line">+4 Stamina</span><span class="wf-item__line">+2 Spirit</span><span class="wf-item__line">Requires Level 13</span></div></div>
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_11.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271096">Aetherwisp Bracers</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Cloth</span></span><span class="wf-item__line">15 Armor</span><span class="wf-item__line">+3 Stamina</span><span class="wf-item__line">Durability 20 / 20</span><span class="wf-item__line">Requires Level 13</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span></div></div>
 </div>
+
+Faldrim zieht die Geister um ihn herum nicht mit, schreibt Warcraft Tavern, aber schaff vor dem Pull trotzdem Platz.
 
 ### Magmatus
 
@@ -152,6 +196,8 @@ Der Endboss, im Reliquary of Kings, mit zwei Lesser Stone Golems an seiner Seite
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_chest_cloth_09.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=270261">Robes of the Disgraced Thane</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Chest</span><span>Cloth</span></span><span class="wf-item__line">35 Armor</span><span class="wf-item__line">+5 Intellect</span><span class="wf-item__line">+7 Spirit</span><span class="wf-item__line">Durability 65 / 65</span><span class="wf-item__line">Requires Level 13</span></div></div>
 </div>
 
+Ein Shaman, der vor dem Pull einen [Tremor Totem](https://www.wowhead.com/forever/spell=8143) stellt, macht die Furcht harmlos.
+
 ## Trash
 
 Die ersten Räume sind leicht; die Seite der Dark Irons nicht.
@@ -167,6 +213,10 @@ Die ersten Räume sind leicht; die Seite der Dark Irons nicht.
 **Lesser Stone Golems.** Sie schlagen am härtesten zu und bewegen sich schnell. Zieht sie möglichst einzeln und erledigt einen, bevor ihr den nächsten angeht. Die letzte Gruppe vor dem Endboss bringt einen Summoner, einen Looter und einen Golem zusammen: [Polymorph](https://www.wowhead.com/forever/spell=118) auf einen davon und Betäubungen wie [Hammer of Justice](https://www.wowhead.com/forever/spell=853) helfen. Heiler ziehen auf diesen Levels viel Bedrohung.
 
 ![Ein Lesser Stone Golem, ein grauer Steinriese mit grünen Runen, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.jpg)
+
+**Bloodhound Runts.** Ihr Biss hinterlässt 5 Minuten Infected Wounds: mehr erlittener körperlicher Schaden. Ohne Klasse, die Krankheiten entfernt, hilft ein Simple Poultice aus First Aid oder die Volksfähigkeit [Stoneform](https://www.wowhead.com/forever/spell=20594) des Dwarf.
+
+**Seaforium-Fässer.** Neben mehreren Dark-Iron-Gruppen stehen Fässer mit Seaforium Blasting Powder. Ein Fernkämpfer schießt sie an, und die Gruppe bekommt die Explosion ab.
 
 ## Was noch nicht bekannt ist
 

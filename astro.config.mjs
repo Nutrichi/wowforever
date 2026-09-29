@@ -1,6 +1,8 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import { satteri } from '@astrojs/markdown-satteri';
+import whAutolink from './src/plugins/rehype-wh-autolink.mjs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -15,6 +17,14 @@ export default defineConfig({
    * in het menu meteen verder gaat.
    */
   prefetch: { prefetchAll: true, defaultStrategy: 'hover' },
+
+  /*
+   * Wowhead-links bij het bouwen (29 september 2026): een bekende naam in een
+   * Markdown-pagina wordt een link met icoon, kleur en tooltip. Zie het plugin.
+   */
+  markdown: {
+    processor: satteri({ hastPlugins: [whAutolink] }),
+  },
 
   /*
    * Verhuisde gidsen (28 september 2026): de dungeongidsen staan sinds dan

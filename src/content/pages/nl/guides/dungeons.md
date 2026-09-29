@@ -3,7 +3,7 @@ title: "Dungeongids: elke dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: elke dungeon, elk level en elke questgever"
 description: "Elke dungeon van WoW Forever met zijn levels en al zijn quests: waar elke quest begint, voor welke factie, wat eerst moet, en de sleutels die sommige dungeons vragen."
 short: "Dungeons"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: nl
 manual: true
 faq:
@@ -491,3 +491,5 @@ Zeven nieuwe dungeons van Forever zitten nog niet in de beta, dus hun quests zij
 | Alcaz Prison | 48 tot 53 |
 | Blackmaw Hold | 55 tot 60 |
 | Shaper's Terrace | 58 tot 60 |
+
+De ingang van de City of Dalaran zit al in de beta: via de Dalaran Sewers voor de Alliance, van buiten de stad met een sleutel voor de Horde ([meer](/nl/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). Of de dungeon zelf al betreden kan worden, is niet bekend.
