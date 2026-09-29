@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever : date de sortie, bêta, feuille de route, Skyborne et éditions"
 description: "Tout ce que Blizzard a annoncé sur World of Warcraft: Forever : les dates, la feuille de route, les nouvelles zones, donjons et raids, les Skyborne, le système Legacy et les éditions."
 short: "WoW Forever"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: fr
 manual: true
 faq:
@@ -112,6 +112,7 @@ Toutes les dates viennent de Blizzard. Les heures sont données en heure du Paci
 |---|---|
 | 12 septembre 2026 | Blizzard annonce Forever à la BlizzCon. La précommande ouvre et Warcraft III Reforged: Forsaken Kingdom sort. |
 | 17 septembre 2026 | La bêta commence pour les possesseurs du Skyborne Epic Pack, de la Warcraft Forever Collection et de la Collector's Edition, et pour les joueurs tirés parmi les inscrits. Le plafond est au niveau 20 au début et passe à 30 plus tard. Blizzard organise le même jour un Q&A en direct, à 10.00 heure du Pacifique, 19.00 heure belge. |
+| 9 octobre 2026 | À la PAX Aus de Melbourne, Clay Stone présente en détail l’un des nouveaux donjons. En direct sur Twitch à 03.00 heure belge ([plus](/fr/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 octobre 2026 | Les codes de lancement Invite-A-Friend arrivent par e-mail. |
 | 21 octobre 2026 | La bêta se termine. La feuille de route montrée à la BlizzCon indiquait le 22 octobre. |
 | Du 27 octobre au 3 novembre | Early Name Reservation : jusqu’à 3 personnages avec n’importe quelle édition. Premier arrivé, premier servi pour les noms. |

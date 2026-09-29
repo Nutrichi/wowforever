@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: nl
 manual: true
 faq:
@@ -112,6 +112,7 @@ Alle datums komen van Blizzard. Tijden staan in Pacific time, met de Belgische t
 |---|---|
 | 12 september 2026 | Blizzard kondigt Forever aan op BlizzCon. De voorverkoop begint en Warcraft III Reforged: Forsaken Kingdom verschijnt. |
 | 17 september 2026 | De beta start voor wie het Skyborne Epic Pack, de Warcraft Forever Collection of de Collector's Edition heeft, en voor spelers die uit de aanmeldingen gekozen worden. De grens ligt eerst op level 20 en gaat later naar 30. Blizzard houdt diezelfde dag een live Q&A, om 10.00 uur Pacific time, 19.00 uur Belgische tijd. |
+| 9 oktober 2026 | Op PAX Aus in Melbourne toont Clay Stone een van de nieuwe dungeons. Live op Twitch om 03.00 uur Belgische tijd ([meer](/nl/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 oktober 2026 | De Invite-A-Friend-lanceringscodes komen per mail. |
 | 21 oktober 2026 | De beta eindigt. De roadmap op BlizzCon toonde 22 oktober. |
 | 27 oktober tot 3 november | Early Name Reservation: tot 3 personages met elke upgrade-editie. Wie eerst komt, heeft de naam. |
