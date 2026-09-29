@@ -389,23 +389,6 @@ const jsonLd = {
     )}
   </article>
 
-  <script is:inline>
-    /*
-     * De tooltip van Wowhead, en alleen op een scherm dat echt hover kent.
-     * Op een aanraakscherm laadt dit script dus nooit: daar blijft het bij het
-     * icoon, de kleur en een tik die naar Wowhead gaat. Het kleuren, het
-     * hernoemen en het iconiseren van links staat uit, want dat doet de pagina
-     * zelf al, met onze eigen beelden en onze eigen namen.
-     */
-    (() => {
-      if (!window.matchMedia('(hover: hover) and (pointer: fine)').matches) return;
-      window.whTooltips = { colorLinks: false, iconizeLinks: false, renameLinks: false };
-      const script = document.createElement('script');
-      script.src = 'https://wow.zamimg.com/widgets/power.js';
-      script.async = true;
-      document.head.append(script);
-    })();
-  </script>
 </BaseLayout>
 
 <style>

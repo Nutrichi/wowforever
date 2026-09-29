@@ -1,32 +1,42 @@
 ---
 title: "Ruf-Guide für Durotar Supply and Logistics"
-description: "Durotar Supply and Logistics in WoW Forever: die Nachschubfraktion der Horde aus der Beta, das Abgeben der Kisten in Orgrimmar, Thunder Bluff und Undercity, Merchant's Favor und die Belohnungen auf Honored und Exalted."
+description: "Durotar Supply and Logistics in WoW Forever: das Nachschublager der Horde vor der Crossroads, Kisten für Merchant's Favor, die Belohnungen auf Honored und Exalted und was noch offen ist."
 lang: de
 manual: true
-updated: 2026-09-19
+updated: 2026-09-29
 faction: "Durotar Supply and Logistics"
-zone: "Orgrimmar, Thunder Bluff und Undercity"
+zone: "Vor der Crossroads, The Barrens"
 side: horde
 origin: forever
 start: neutral
 cap: exalted
-method: "Gib Supply Crates beim Quartiermeister in Orgrimmar, Thunder Bluff oder Undercity ab."
-rewards: "Ein Tradeskill Sign als Spielzeug auf Honored und das Tabard der Fraktion auf Exalted."
+method: "Erbeute Kisten in der Welt, fülle sie und gib sie bei Dokimi im Lager vor der Crossroads in The Barrens ab."
+rewards: "Ein Berufsschild als Spielzeug auf Honored und der Wappenrock der Fraktion auf Exalted."
 sources:
-  - name: "Wowhead"
+  - name: "Wowhead, die Fraktion"
     url: "https://www.wowhead.com/forever/faction=2587/durotar-supply-and-logistics"
+  - name: "Wowhead, der Ruf-Guide der Allianzseite"
+    url: "https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions"
 ---
-Durotar Supply and Logistics ist eine der ersten beiden Fraktionen, die zu WoW Forever selbst gehören. Ihre eigene Beschreibung sagt es so: das robuste Nachschubnetz der Horde treibt ihre schnelle Ausbreitung über Kalimdor hinaus an. Sie kam in Patch 1.60.1 dazu, dem Build der Beta, und ihr Gegenstück auf Allianceseite ist die [Azeroth Commerce Authority](/de/reputations/azeroth-commerce-authority/).
+Durotar Supply and Logistics ist die Nachschubfraktion der Horde in WoW Forever. Ihre eigene Beschreibung lautet: Das robuste Nachschubnetz der Horde treibt ihre rasche Ausbreitung über Kalimdor und darüber hinaus an. Du erbeutest Kisten in der Welt, füllst sie und gibst sie in ihrem Lager gegen Merchant's Favor ab. Das Gegenstück der Allianz ist die [Azeroth Commerce Authority](/de/reputations/azeroth-commerce-authority/).
 
 ## Warum sich dieser Ruf lohnt
 
-- **Ein Spielzeug auf Honored.** Die Advertising License Application startet eine Quest für das Orcish Tradeskill Sign, ein Schild, das anzeigt, was du herstellst.
-- **Das Tabard auf Exalted.** Das Durotar Supply and Logistics Tabard verlangt Exalted.
-- **Es belohnt, was du ohnehin tust.** Der Ruf kommt vom Abgeben der Kisten, also zahlen die Berufe, die du sowieso levelst, darauf ein.
+- **Ein Spielzeug auf Honored.** Die Advertising License Application startet eine Quest für das Orcish Tradeskill Sign, ein Spielzeug, das zeigt, was du herstellst.
+- **Der Wappenrock auf Exalted.** Der <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262764"><img class="wf-wh__icon" src="/wh/inv_tabard_merchanthordec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Durotar Supply and Logistics Tabard</a> verlangt Exalted.
+- **Er belohnt, was du ohnehin tust.** Der Ruf kommt vom Abgeben der Kisten, also speisen ihn die Berufe, die du sowieso skillst.
 
-## Für welche Seite sie ist
+## Das Lager vor der Crossroads
 
-Wowhead führt auf der Datenbankseite keine Seite, aber jeder Quartiermeister steht in einer Hauptstadt der Horde, und die Beschreibung spricht vom Nachschubnetz der Horde. Behandle diese als Fraktion der Horde und die Azeroth Commerce Authority als die der Alliance.
+Das Lager steht gleich vor der Crossroads in The Barrens. Die Kisten gehen an <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256386">Dokimi</a>.
+
+| NPC | Was | /way |
+|---|---|---|
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256386">Dokimi</a> | Inventory Intake: nimmt die Kisten an | 50.0 29.2 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Auktionator | 49.8 29.4 |
+
+Das sind die Positionen von den NPC-Seiten bei Wowhead; sein Ruf-Guide nennt /way 42 34 für das Lager. Das Lager der Allianz bei Three Corners hat Händler mit Rezepten für sieben Berufe, ein Reittier und Titel. Ob das Lager der Horde dasselbe verkauft, zeigen die Guides noch nicht.
 
 ## Die Stufen
 
@@ -44,34 +54,19 @@ Unter Neutral läuft die Skala ebenfalls wie üblich: Hated ist 36.000 breit, Ho
 
 ## Woher der Ruf kommt
 
-**Kisten abgeben.** Der Legacy-Perk Performance Bonus im Baum Professions sagt es wörtlich: du hast je nach Rang 5, 10 oder 15 Prozent Chance auf 100 Prozent mehr **Merchant's Favor**, wenn du eine Kiste bei der Azeroth Commerce Authority oder bei Durotar Supply and Logistics abgibst. Merchant's Favor ist in der Beta eine eigene Währung, einsortiert unter Professions und Tradeskills.
+**Kisten abgeben.** Der Legacy-Perk Performance Bonus im Professions-Baum gibt je nach Rang 5, 10 oder 15 Prozent Chance auf 100 Prozent mehr **Merchant's Favor**, wenn du eine Kiste abgibst. Merchant's Favor ist in der Beta eine eigene Währung, unter Professions und Tradeskills.
 
-Den Perk und seine drei Ränge zeigt der [Legacy-Rechner](/de/talents/legacy/).
-
-## Wo du abgibst
-
-Drei Quartiermeister, einer je Hauptstadt der Horde.
-
-| NPC | Wo |
-|---|---|
-| Jornah | Orgrimmar |
-| Dokimi | Thunder Bluff |
-| Gishah | Undercity |
+Den Perk und seine drei Ränge siehst du im [Legacy-Rechner](/de/talents/legacy/).
 
 ## Die Belohnungen
 
 | Stufe | Belohnung |
 |---|---|
 | Honored | Advertising License Application, die eine Quest für das Spielzeug Orcish Tradeskill Sign startet |
-| Exalted | Durotar Supply and Logistics Tabard |
+| Exalted | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262764"><img class="wf-wh__icon" src="/wh/inv_tabard_merchanthordec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Durotar Supply and Logistics Tabard</a> |
 
 ## Was noch nicht bekannt ist
 
-Die Beta zeigt die Fraktion, ihre Belohnungen und ihre Quartiermeister, aber nicht das System darum herum. Noch offen:
-
-- **Wo ein neuer Charakter anfängt.** Die Datenbank nennt keine Startstufe, Neutral ist hier also eine Annahme und kein bestätigter Wert.
-- **Wie viel eine Kiste bringt** und ob es ein Limit pro Tag oder Woche gibt.
-- **Woher die Kisten kommen:** welcher Beruf sie herstellt, was sie kosten und wie viele man tragen kann.
-- **Was Merchant's Favor sonst noch kauft** außer Ruf.
-
-Spieler kennen die beiden Namen aus Season of Discovery, wo Supply Crates ähnlich funktionierten. Blizzard hat nicht gesagt, dass das System unverändert übernommen wird, deshalb hält sich dieser Guide an das, was der Beta-Client und die Datenbank wirklich zeigen. Er wird aktualisiert, sobald die Beta mehr zeigt.
+- **Wo ein neuer Charakter beginnt.** Die Datenbank nennt keinen Startstand, Neutral ist hier also eine Annahme und kein bestätigter Wert.
+- **Wie viel eine Kiste bringt** und ob es ein Tages- oder Wochenlimit gibt.
+- **Welche Händler im Lager der Horde stehen** und was Merchant's Favor dort kauft.

@@ -1,9 +1,9 @@
 ---
 title: "Guías para WoW Forever"
 metaTitle: "Guías de WoW Forever: misiones de mazmorra, cadenas de misiones y más"
-description: "Todas las guías para WoW Forever en un solo lugar: la guía de mazmorras con cada misión de mazmorra, The Hall of Thanes y Ruins of Lordaeron, la cadena del Cozy Sleeping Bag, la BMAH, y las rutas, guías de clase y guías de profesión de la web."
+description: "Todas las guías para WoW Forever en un solo lugar: la guía de mazmorras con cada misión de mazmorra, The Hall of Thanes y Ruins of Lordaeron, la cadena del Cozy Sleeping Bag, el camping, la BMAH, y las rutas, guías de clase y guías de profesión de la web."
 short: "Guías"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: es
 manual: true
 ---
@@ -23,6 +23,12 @@ Guías paso a paso para World of Warcraft: Forever, desde misiones de mazmorra h
 |---|---|
 | [Cozy Sleeping Bag](/es/guides/cozy-sleeping-bag/) | La cadena desde el nivel 14 por cuatro zonas hasta un saco de dormir que da experiencia extra |
 
+## Camping
+
+| Guía | Qué cubre |
+|---|---|
+| [Camping](/es/guides/camping/) | Las hogueras, el buff de cada profesión, lo que cuesta cada objeto de campamento, los talleres de los niveles 2 y 3 y dónde caen los blueprints |
+
 ## BMAH
 
 | Guía | Qué cubre |
@@ -31,7 +37,7 @@ Guías paso a paso para World of Warcraft: Forever, desde misiones de mazmorra h
 
 ## Más guías en la web
 
-- **Profesiones:** [Tradeskills](/es/tradeskills/) tiene una guía por profesión para cada era, además de las perks de profesión de WoW Forever.
+- **Profesiones:** [Tradeskills](/es/tradeskills/) tiene una guía por profesión para cada era, las perks de profesión de WoW Forever y guías de Forever para [Cooking](/es/tradeskills/forever/cooking/), [First Aid](/es/tradeskills/forever/first-aid/) y [Fishing](/es/tradeskills/forever/fishing/).
 - **Clases:** [Classes](/es/classes/) tiene una guía de subida por clase y especialización para cada era.
 - **Subir de nivel:** las [rutas de subida](/es/routes/) cubren cada expansión de WoW Classic, con comparaciones de los addons de subida.
 - **Reputaciones:** [Reputaciones](/es/reputations/) tiene una guía por facción de WoW Forever.

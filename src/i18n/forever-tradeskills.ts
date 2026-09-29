@@ -84,6 +84,31 @@ export const foreverPerks: Record<string, Words> = {
     it: 'Embroidery con bonus per i sarti sull’equipaggiamento di stoffa, stoffa in più dagli umanoidi, e set di stoffa nuovi e rifatti.',
     de: 'Embroidery mit Boni für Schneider auf Stoffausrüstung, zusätzlicher Stoff von Humanoiden und neue und überarbeitete Stoffsets.',
   },
+  // De drie secondary tradeskills (29 september 2026), sinds ze een Forever-gids hebben.
+  cooking: {
+    en: 'Most dishes give 5% bonus experience. Builds the campfire of every camp. New and reworked recipes, such as Savory Whimsyfin Delight.',
+    nl: 'De meeste gerechten geven 5% extra experience. Bouwt het kampvuur van elk kamp. Nieuwe en herwerkte recepten, zoals Savory Whimsyfin Delight.',
+    fr: 'La plupart des plats donnent 5 % d’expérience en plus. Construit le feu de camp de chaque campement. Recettes nouvelles et retravaillées, comme Savory Whimsyfin Delight.',
+    es: 'La mayoría de los platos dan un 5 % más de experiencia. Construye la hoguera de cada campamento. Recetas nuevas y revisadas, como Savory Whimsyfin Delight.',
+    it: 'Quasi tutti i piatti danno il 5% di esperienza in più. Costruisce il fuoco di ogni accampamento. Ricette nuove e riviste, come Savory Whimsyfin Delight.',
+    de: 'Die meisten Gerichte geben 5 % mehr Erfahrung. Baut das Lagerfeuer jedes Lagers. Neue und überarbeitete Rezepte, etwa Savory Whimsyfin Delight.',
+  },
+  'first-aid': {
+    en: 'Now crafts the healing potions, plus curatives against poison, disease and bleeding. A First Aid Kit gives Stamina at a camp.',
+    nl: 'Maakt nu de healing potions, plus middelen tegen gif, ziekte en bloedingen. Een First Aid Kit geeft Stamina bij een kamp.',
+    fr: 'Fabrique désormais les potions de soins, et des remèdes contre le poison, la maladie et les saignements. Un First Aid Kit donne de la Stamina au campement.',
+    es: 'Ahora fabrica las pociones de sanación, y remedios contra veneno, enfermedad y sangrado. Un First Aid Kit da Stamina en un campamento.',
+    it: 'Ora crea le pozioni di cura, più rimedi contro veleno, malattia e sanguinamento. Un First Aid Kit dà Stamina all’accampamento.',
+    de: 'Stellt jetzt die Heiltränke her, dazu Mittel gegen Gift, Krankheit und Blutungen. Ein First Aid Kit gibt Stamina am Lager.',
+  },
+  fishing: {
+    en: 'Fish food is stronger and gives bonus experience. Fish Bowl, Fishing Rack and Fishing Hut for a camp.',
+    nl: 'Visgerechten zijn sterker en geven extra experience. Fish Bowl, Fishing Rack en Fishing Hut voor een kamp.',
+    fr: 'Les plats de poisson sont plus forts et donnent de l’expérience en plus. Fish Bowl, Fishing Rack et Fishing Hut pour le campement.',
+    es: 'La comida de pescado es más fuerte y da experiencia extra. Fish Bowl, Fishing Rack y Fishing Hut para el campamento.',
+    it: 'Il cibo a base di pesce è più forte e dà esperienza in più. Fish Bowl, Fishing Rack e Fishing Hut per l’accampamento.',
+    de: 'Fischgerichte sind stärker und geben zusätzliche Erfahrung. Fish Bowl, Fishing Rack und Fishing Hut für das Lager.',
+  },
 };
 
 export type LegacyPerk = { name: string; text: Words };

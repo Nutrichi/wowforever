@@ -1,32 +1,42 @@
 ---
 title: "Reputatiegids voor Durotar Supply and Logistics"
-description: "Durotar Supply and Logistics in WoW Forever: de bevoorradingsfactie van de Horde uit de beta, de kisten inleveren in Orgrimmar, Thunder Bluff en Undercity, Merchant's Favor en de beloningen op Honored en Exalted."
+description: "Durotar Supply and Logistics in WoW Forever: het bevoorradingskamp van de Horde buiten de Crossroads, kisten voor Merchant's Favor, de beloningen op Honored en Exalted en wat nog open is."
 lang: nl
 manual: true
-updated: 2026-09-19
+updated: 2026-09-29
 faction: "Durotar Supply and Logistics"
-zone: "Orgrimmar, Thunder Bluff en Undercity"
+zone: "Buiten de Crossroads, The Barrens"
 side: horde
 origin: forever
 start: neutral
 cap: exalted
-method: "Lever supply crates in bij de quartermaster in Orgrimmar, Thunder Bluff of Undercity."
+method: "Buit kisten in de wereld, vul ze en lever ze in bij Dokimi in het kamp buiten de Crossroads in The Barrens."
 rewards: "Een tradeskill sign als speeltje op Honored, en de tabard van de factie op Exalted."
 sources:
-  - name: "Wowhead"
+  - name: "Wowhead, de factie"
     url: "https://www.wowhead.com/forever/faction=2587/durotar-supply-and-logistics"
+  - name: "Wowhead, de reputatiegids van de Alliance-kant"
+    url: "https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions"
 ---
-Durotar Supply and Logistics is een van de eerste twee facties die van WoW Forever zelf zijn. De eigen omschrijving zegt het zo: het stevige bevoorradingsnet van de Horde voedt haar snelle uitbreiding over Kalimdor en daarbuiten. Ze kwam erbij in patch 1.60.1, de build waarop de beta draait, en haar tegenhanger aan Alliancekant is de [Azeroth Commerce Authority](/nl/reputations/azeroth-commerce-authority/).
+Durotar Supply and Logistics is de bevoorradingsfactie van de Horde in WoW Forever. Haar eigen beschrijving luidt: het stevige bevoorradingsnet van de Horde voedt haar snelle uitbreiding over Kalimdor en verder. Je buit kisten in de wereld, vult ze en levert ze in bij haar kamp voor Merchant's Favor. De tegenhanger bij de Alliance is de [Azeroth Commerce Authority](/nl/reputations/azeroth-commerce-authority/).
 
 ## Waarom deze reputatie loont
 
-- **Een speeltje op Honored.** De Advertising License Application start een quest voor de Orcish Tradeskill Sign, een bordje dat aankondigt wat jij maakt.
-- **De tabard op Exalted.** De Durotar Supply and Logistics Tabard vraagt Exalted.
-- **Het beloont wat je toch al doet.** De reputatie komt van kisten inleveren, dus de tradeskills die je toch levelt, voeden ze.
+- **Een speeltje op Honored.** De Advertising License Application begint een quest voor de Orcish Tradeskill Sign, een speeltje dat laat zien wat je maakt.
+- **De tabard op Exalted.** De <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262764"><img class="wf-wh__icon" src="/wh/inv_tabard_merchanthordec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Durotar Supply and Logistics Tabard</a> vraagt Exalted.
+- **Het beloont wat je toch al doet.** De reputatie komt van kisten inleveren, dus de tradeskills die je toch levelt, voeden haar.
 
-## Voor welke kant ze is
+## Het kamp buiten de Crossroads
 
-Wowhead zet geen kant op de databasepagina, maar elke quartermaster staat in een hoofdstad van de Horde en de omschrijving spreekt over het bevoorradingsnet van de Horde. Beschouw deze als de factie van de Horde en de Azeroth Commerce Authority als die van de Alliance.
+Het kamp staat net buiten de Crossroads in The Barrens. De kisten gaan naar <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256386">Dokimi</a>.
+
+| NPC | Wat | /way |
+|---|---|---|
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256386">Dokimi</a> | Inventory Intake: neemt de kisten aan | 50.0 29.2 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Veilingmeester | 49.8 29.4 |
+
+Dit zijn de posities van de NPC-pagina's van Wowhead; zijn reputatiegids geeft /way 42 34 voor het kamp. Het kamp van de Alliance bij Three Corners heeft verkopers met recepten voor zeven tradeskills, een mount en titels. Of het kamp van de Horde hetzelfde verkoopt, tonen de gidsen nog niet.
 
 ## De standings
 
@@ -44,34 +54,19 @@ Onder Neutral loopt de schaal ook zoals gewoonlijk: Hated is 36.000 breed, Hosti
 
 ## Waar de reputatie vandaan komt
 
-**Kisten inleveren.** De Legacy-perk Performance Bonus in de boom Professions zegt het met zoveel woorden: je hebt 5, 10 of 15 procent kans, afhankelijk van de rang, op 100 procent meer **Merchant's Favor** wanneer je een kist inlevert bij de Azeroth Commerce Authority of Durotar Supply and Logistics. Merchant's Favor is in de beta een eigen munt, ondergebracht bij Professions en Tradeskills.
+**Kisten inleveren.** De Legacy-perk Performance Bonus in de Professions-boom geeft, afhankelijk van de rang, 5, 10 of 15 procent kans op 100 procent meer **Merchant's Favor** als je een kist inlevert. Merchant's Favor is een eigen munt in de beta, bij Professions en Tradeskills.
 
-De perk en zijn drie rangen staan in de [Legacy-calculator](/nl/talents/legacy/).
-
-## Waar je inlevert
-
-Drie quartermasters, een per hoofdstad van de Horde.
-
-| NPC | Waar |
-|---|---|
-| Jornah | Orgrimmar |
-| Dokimi | Thunder Bluff |
-| Gishah | Undercity |
+Je ziet de perk en zijn drie rangen in de [Legacy-calculator](/nl/talents/legacy/).
 
 ## De beloningen
 
 | Standing | Beloning |
 |---|---|
-| Honored | Advertising License Application, die een quest start voor het speeltje Orcish Tradeskill Sign |
-| Exalted | Durotar Supply and Logistics Tabard |
+| Honored | Advertising License Application, die een quest begint voor het speeltje Orcish Tradeskill Sign |
+| Exalted | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262764"><img class="wf-wh__icon" src="/wh/inv_tabard_merchanthordec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Durotar Supply and Logistics Tabard</a> |
 
 ## Wat nog niet bekend is
 
-De beta toont de factie, haar beloningen en haar quartermasters, maar niet het systeem eromheen. Nog open:
-
-- **Waar een nieuw personage begint.** De database geeft geen startstanding, dus Neutral is hier een aanname en geen bevestigde waarde.
-- **Hoeveel een kist opbrengt** en of er een limiet per dag of per week is.
-- **Waar de kisten vandaan komen:** welke tradeskill ze maakt, wat ze kosten en hoeveel je er kunt meenemen.
-- **Wat Merchant's Favor verder koopt** naast reputatie.
-
-Spelers herkennen de twee namen uit Season of Discovery, waar supply crates op een vergelijkbare manier werkten. Blizzard heeft niet gezegd dat het systeem onveranderd overkomt, dus deze gids houdt zich bij wat de betacliënt en de database echt tonen. Ze wordt bijgewerkt zodra de beta meer laat zien.
+- **Waar een nieuw personage begint.** De database geeft geen startstand, dus Neutral is hier een aanname en geen bevestigde waarde.
+- **Hoeveel een kist geeft** en of er een daglimiet of weeklimiet is.
+- **Welke verkopers in het kamp van de Horde staan** en wat Merchant's Favor daar koopt.

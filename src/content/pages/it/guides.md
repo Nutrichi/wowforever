@@ -1,9 +1,9 @@
 ---
 title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
-description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, la BMAH, e i percorsi, le guide di classe e le guide delle professioni del sito."
+description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, il camping, la BMAH, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: it
 manual: true
 ---
@@ -23,6 +23,12 @@ Guide passo per passo per World of Warcraft: Forever, dalle missioni dei dungeon
 |---|---|
 | [Cozy Sleeping Bag](/it/guides/cozy-sleeping-bag/) | La catena dal livello 14 attraverso quattro zone fino a un sacco a pelo che dà esperienza in più |
 
+## Camping
+
+| Guida | Di cosa tratta |
+|---|---|
+| [Camping](/it/guides/camping/) | I fuochi da campo, il buff di ogni professione, quanto costa ogni oggetto da campo, le postazioni dei livelli 2 e 3 e dove cadono i blueprint |
+
 ## BMAH
 
 | Guida | Di cosa tratta |
@@ -31,7 +37,7 @@ Guide passo per passo per World of Warcraft: Forever, dalle missioni dei dungeon
 
 ## Altre guide sul sito
 
-- **Professioni:** [Tradeskills](/it/tradeskills/) ha una guida per professione per ogni era, più le perk delle professioni di WoW Forever.
+- **Professioni:** [Tradeskills](/it/tradeskills/) ha una guida per professione per ogni era, le perk delle professioni di WoW Forever e guide Forever per [Cooking](/it/tradeskills/forever/cooking/), [First Aid](/it/tradeskills/forever/first-aid/) e [Fishing](/it/tradeskills/forever/fishing/).
 - **Classi:** [Classes](/it/classes/) ha una guida al livellamento per classe e specializzazione per ogni era.
 - **Livellamento:** i [percorsi di livellamento](/it/routes/) coprono ogni espansione di WoW Classic, con confronti tra gli addon di livellamento.
 - **Reputazioni:** [Reputazioni](/it/reputations/) ha una guida per fazione di WoW Forever.

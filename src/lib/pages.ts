@@ -110,7 +110,7 @@ export async function getPage(key: string, locale: Locale): Promise<SitePage | u
  * De slugs onder een map, voor getStaticPaths: `undefined` is de pagina van de
  * map zelf (/routes/), een string een pagina eronder (/routes/1-60/).
  */
-export async function pageSlugs(folder: 'routes' | 'compare' | 'guides'): Promise<(string | undefined)[]> {
+export async function pageSlugs(folder: 'routes' | 'compare' | 'guides' | 'tradeskills/forever'): Promise<(string | undefined)[]> {
   const keys = (await getPages(defaultLocale)).map((page) => page.key);
   return keys
     .filter((key) => key === folder || key.startsWith(`${folder}/`))

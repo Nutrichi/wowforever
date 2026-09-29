@@ -3,7 +3,7 @@ title: "Cozy Sleeping Bag: de volledige questreeks in WoW Forever"
 metaTitle: "Cozy Sleeping Bag in WoW Forever: locaties, coordinaten en beloningen"
 description: "Elke stap van de Cozy Sleeping Bag-reeks in WoW Forever, met de coordinaten, het aparte begin voor Alliance en Horde, de quests op volgorde en wat de tocht opbrengt."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-22
+updated: 2026-09-29
 lang: nl
 manual: true
 faq:
@@ -28,6 +28,8 @@ Je moet level 14 zijn om te beginnen.
 Rol hem uit en ga erin liggen. Elke minuut rust geeft 1 procent extra ervaring, tot 3 procent. De buff houdt een uur aan en het item gaat een uur op cooldown. Zolang je in de zak ligt, tel je bovendien als rested.
 
 Drie procent op zich is weinig. Gestapeld met andere buffs, zoals de 5 procent uit cooking, telt het op een lange avond aan.
+
+Hij stapelt ook met de buffs van een kampplaats; hoe die werken, staat in de [gids over camping](/nl/guides/camping/).
 
 ## Wat de tocht opbrengt
 

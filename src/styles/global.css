@@ -273,6 +273,82 @@ button {
 .wf-items .wf-item a.wf-q4 { color: var(--wf-q4); }
 .wf-items .wf-item a.wf-q5 { color: var(--wf-q5); }
 
+
+/*
+ * Een galerij van kleine beelden met onderschrift (29 september 2026), voor de
+ * camp features in de gids over camping: in een post (.wf-prose) en een gids
+ * (.wf-gprose). De beelden staan in public/guides/<gids>/, 480 x 360.
+ */
+.wf-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 150px), 1fr));
+  gap: 12px;
+  margin: 4px 0;
+}
+
+.wf-gallery figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.wf-gallery img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card-sm);
+}
+
+.wf-gallery figcaption {
+  font-size: 13px;
+  line-height: 1.35;
+  color: var(--wf-muted);
+}
+
+.wf-gallery figcaption strong { color: var(--wf-ink); font-weight: 600; }
+
+/*
+ * Een link naar Wowhead in de lopende tekst of een tabel (29 september 2026):
+ * ons eigen icoon uit `public/wh/` voor de naam, de naam in de kleur van de
+ * kwaliteit, en op een scherm met muis de tooltip van Wowhead
+ * (WowheadTooltips.astro). Gemaakt door `tools/whlinks/` in het privé-repo,
+ * nooit met de hand. De selectors zijn zwaarder dan de linkregels van
+ * .wf-prose en .wf-gprose, zodat de kwaliteitskleur wint.
+ */
+.wf-prose a.wf-wh,
+.wf-gprose a.wf-wh,
+a.wf-wh {
+  color: var(--wf-ink);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.wf-prose a.wf-wh:hover,
+.wf-gprose a.wf-wh:hover,
+a.wf-wh:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+a.wf-wh img.wf-wh__icon {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  margin: 0 5px 0 0;
+  vertical-align: -3px;
+  border: 1px solid var(--wf-border);
+  border-radius: 4px;
+}
+
+.wf-prose a.wf-wh.wf-q0, .wf-gprose a.wf-wh.wf-q0, a.wf-wh.wf-q0 { color: var(--wf-muted); }
+.wf-prose a.wf-wh.wf-q1, .wf-gprose a.wf-wh.wf-q1, a.wf-wh.wf-q1 { color: var(--wf-q1); }
+.wf-prose a.wf-wh.wf-q2, .wf-gprose a.wf-wh.wf-q2, a.wf-wh.wf-q2 { color: var(--wf-q2); }
+.wf-prose a.wf-wh.wf-q3, .wf-gprose a.wf-wh.wf-q3, a.wf-wh.wf-q3 { color: var(--wf-q3); }
+.wf-prose a.wf-wh.wf-q4, .wf-gprose a.wf-wh.wf-q4, a.wf-wh.wf-q4 { color: var(--wf-q4); }
+.wf-prose a.wf-wh.wf-q5, .wf-gprose a.wf-wh.wf-q5, a.wf-wh.wf-q5 { color: var(--wf-q5); }
+/* Een spell, NPC of zone: de linkkleur van de site, zonder kwaliteit. */
+.wf-prose a.wf-wh.wf-spell, .wf-gprose a.wf-wh.wf-spell, a.wf-wh.wf-spell { color: var(--wf-accent); }
+.wf-prose a.wf-wh.wf-plain, .wf-gprose a.wf-wh.wf-plain, a.wf-wh.wf-plain { color: var(--wf-ink-soft); font-weight: 500; }
+
 .wf-items .wf-item__meta { color: var(--wf-accent); }
 .wf-items .wf-item__use { color: var(--wf-q2); }
 .wf-items .wf-item__setname { margin-top: 6px; color: var(--wf-accent); }

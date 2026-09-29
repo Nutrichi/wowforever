@@ -1,0 +1,27 @@
+---
+/*
+ * De tooltip van Wowhead bij elke link naar Wowhead, op elke pagina (Nutri,
+ * 29 september 2026: "All items/spells/talents/etc. with a link to wowhead
+ * should also have a mouse over pop-up"). Tot dan alleen op de BiS-lijsten.
+ *
+ * Twee voorwaarden, anders laadt er niets en wordt er niets bij Wowhead
+ * opgehaald: een scherm dat echt hover kent (op een telefoon of tablet blijft
+ * het bij een tik die naar Wowhead gaat), en een pagina die minstens een link
+ * naar Wowhead draagt. Het kleuren, hernoemen en iconiseren staat uit: de
+ * kleuren van Wowhead zijn voor een donkere achtergrond (wit op het lichte
+ * thema), en de BiS-lijsten tonen hun eigen iconen en namen. De app merkt hier
+ * niets van: die leest de feed, niet deze pagina's.
+ */
+---
+
+<script is:inline>
+  (() => {
+    if (!window.matchMedia('(hover: hover) and (pointer: fine)').matches) return;
+    if (!document.querySelector('a[href*="wowhead.com/"]')) return;
+    window.whTooltips = { colorLinks: false, iconizeLinks: false, renameLinks: false };
+    const script = document.createElement('script');
+    script.src = 'https://wow.zamimg.com/widgets/power.js';
+    script.async = true;
+    document.head.append(script);
+  })();
+</script>

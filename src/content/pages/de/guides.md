@@ -1,9 +1,9 @@
 ---
 title: "Guides für WoW Forever"
 metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
-description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, das BMAH, und die Routen, Klassenguides und Berufsguides der Seite."
+description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, Camping, das BMAH, und die Routen, Klassenguides und Berufsguides der Seite."
 short: "Guides"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: de
 manual: true
 ---
@@ -23,6 +23,12 @@ Schritt-für-Schritt-Guides für World of Warcraft: Forever, von Dungeonquests b
 |---|---|
 | [Cozy Sleeping Bag](/de/guides/cozy-sleeping-bag/) | Die Questreihe ab Level 14 durch vier Zonen bis zu einem Schlafsack, der zusätzliche Erfahrung gibt |
 
+## Camping
+
+| Guide | Worum es geht |
+|---|---|
+| [Camping](/de/guides/camping/) | Lagerfeuer, der Buff jedes Berufs, was jedes Lagerobjekt kostet, die Werkbänke von Stufe 2 und 3 und wo die Blueprints droppen |
+
 ## BMAH
 
 | Guide | Worum es geht |
@@ -31,7 +37,7 @@ Schritt-für-Schritt-Guides für World of Warcraft: Forever, von Dungeonquests b
 
 ## Weitere Guides auf der Seite
 
-- **Berufe:** [Tradeskills](/de/tradeskills/) hat einen Guide pro Beruf für jede Ära, dazu die Berufsperks von WoW Forever.
+- **Berufe:** [Tradeskills](/de/tradeskills/) hat einen Guide pro Beruf für jede Ära, die Berufsperks von WoW Forever und Forever-Guides für [Cooking](/de/tradeskills/forever/cooking/), [First Aid](/de/tradeskills/forever/first-aid/) und [Fishing](/de/tradeskills/forever/fishing/).
 - **Klassen:** [Classes](/de/classes/) hat einen Levelguide pro Klasse und Spezialisierung für jede Ära.
 - **Leveln:** die [Levelrouten](/de/routes/) decken jede Erweiterung von WoW Classic ab, mit Vergleichen der Leveladdons.
 - **Ruf:** [Ruf](/de/reputations/) hat einen Guide pro Fraktion von WoW Forever.

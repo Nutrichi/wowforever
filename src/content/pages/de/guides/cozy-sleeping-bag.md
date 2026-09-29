@@ -3,7 +3,7 @@ title: "Cozy Sleeping Bag: die ganze Questreihe in WoW Forever"
 metaTitle: "Cozy Sleeping Bag in WoW Forever: Orte, Koordinaten und Belohnungen"
 description: "Jeder Schritt der Cozy-Sleeping-Bag-Reihe in WoW Forever, mit den Koordinaten, dem getrennten Start für Allianz und Horde, den Quests der Reihe nach und dem, was der Weg einbringt."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-22
+updated: 2026-09-29
 lang: de
 manual: true
 faq:
@@ -28,6 +28,8 @@ Für den Start braucht es Stufe 14.
 Roll ihn aus und leg dich hinein. Jede Minute Rast gibt 1 Prozent Bonuserfahrung, bis zu 3 Prozent. Der Buff hält eine Stunde, der Gegenstand geht eine Stunde auf Abklingzeit. Solange du im Sack liegst, zählst du zudem als ausgeruht.
 
 Drei Prozent für sich sind wenig. Zusammen mit anderen Buffs, etwa den 5 Prozent aus dem Kochen, summiert sich das an einem langen Abend.
+
+Er stapelt sich auch mit den Buffs eines Lagers; wie die funktionieren, steht im [Camping-Guide](/de/guides/camping/).
 
 ## Was der Weg einbringt
 

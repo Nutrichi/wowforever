@@ -220,6 +220,9 @@
 }
 
 .wf-tpill__name a { color: inherit; }
+/* Op /tradeskills/ (Forever) linkt alleen een tradeskill met een Forever-gids: die naam in goud. */
+.wf-tpill__name a.is-guide { color: var(--wf-accent); }
+.wf-tpill:hover .wf-tpill__name a.is-guide { text-decoration: underline; text-underline-offset: 3px; }
 .wf-tpill__name a::after { content: ''; position: absolute; inset: 0; }
 .wf-tpill__name.is-pending { color: var(--wf-label); }
 
@@ -458,6 +461,18 @@
 }
 
 .wf-gprose strong { color: var(--wf-ink); }
+
+/*
+ * Links in de lopende tekst van een gids (29 september 2026): zoals in een post
+ * (arcane, onderstreept), zodat een verwijzing naar een andere gids opvalt.
+ * Een Wowhead-link (.wf-wh) heeft zijn eigen kleur; een quest in een tabel
+ * blijft goud (de regel hieronder weegt zwaarder).
+ */
+.wf-gprose a:not(.wf-wh) {
+  color: var(--wf-arcane);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
 
 .wf-gprose table {
   width: 100%;

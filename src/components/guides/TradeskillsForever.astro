@@ -9,6 +9,7 @@ import type { Locale } from '../../i18n/ui';
 import { tradeskillColors, tradeskills } from '../../config/guides';
 import { foreverPerks, legacyPerks } from '../../i18n/forever-tradeskills';
 import { guideT } from '../../i18n/guides';
+import { getPages } from '../../lib/pages';
 import '../../styles/guides.css';
 
 interface Props {
@@ -19,6 +20,15 @@ interface Props {
 const { locale, title } = Astro.props;
 const t = guideT(locale);
 const skills = tradeskills.filter((skill) => skill.eras.includes('forever'));
+/*
+ * Een Forever-gids per tradeskill (29 september 2026) staat als pagina onder
+ * tradeskills/forever/<skill>; heeft een tradeskill er een, dan linkt de pil.
+ */
+const guideHref = Object.fromEntries(
+  (await getPages(locale))
+    .filter((page) => page.key.startsWith('tradeskills/forever/'))
+    .map((page) => [page.key.slice('tradeskills/forever/'.length), page.href]),
+);
 const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), secondary: t('typeSecondary') };
 
 /*
@@ -60,7 +70,9 @@ const groups = (['gathering', 'secondary', 'crafting'] as const)
               <span class="wf-tpill__diamond" style={`--wf-diamond: ${tradeskillColors[skill.type]};`}></span>
             </span>
             <span class="wf-tpill__rule" aria-hidden="true"></span>
-            <span class="wf-tpill__name">{skill.name}</span>
+            <span class="wf-tpill__name">
+              {guideHref[skill.key] ? <a class="is-guide" href={guideHref[skill.key]}>{skill.name}</a> : skill.name}
+            </span>
             <span class="wf-tpill__rule" aria-hidden="true"></span>
             <span class="wf-tpill__text">{foreverPerks[skill.key]?.[locale] ?? t('noPerks')}</span>
           </li>

@@ -1,9 +1,9 @@
 ---
 title: "Gidsen voor WoW Forever"
 metaTitle: "WoW Forever-gidsen: dungeonquests, questreeksen en meer"
-description: "Elke gids voor WoW Forever op één plek: de dungeongids met elke dungeonquest, The Hall of Thanes en de Ruins of Lordaeron, de Cozy Sleeping Bag-reeks, de BMAH, en de routes, classgidsen en tradeskillgidsen van de site."
+description: "Elke gids voor WoW Forever op één plek: de dungeongids met elke dungeonquest, The Hall of Thanes en de Ruins of Lordaeron, de Cozy Sleeping Bag-reeks, camping, de BMAH, en de routes, classgidsen en tradeskillgidsen van de site."
 short: "Gidsen"
-updated: 2026-09-28
+updated: 2026-09-29
 lang: nl
 manual: true
 ---
@@ -23,6 +23,12 @@ Stap-voor-stapgidsen voor World of Warcraft: Forever, van dungeonquests tot ques
 |---|---|
 | [Cozy Sleeping Bag](/nl/guides/cozy-sleeping-bag/) | De reeks vanaf level 14 door vier zones naar een slaapzak die extra ervaring geeft |
 
+## Camping
+
+| Gids | Waarover |
+|---|---|
+| [Camping](/nl/guides/camping/) | Kampvuren, de buff van elke tradeskill, wat elk kampobject kost, de werkplaatsen van tier 2 en 3 en waar de blueprints vallen |
+
 ## BMAH
 
 | Gids | Waarover |
@@ -31,7 +37,7 @@ Stap-voor-stapgidsen voor World of Warcraft: Forever, van dungeonquests tot ques
 
 ## Meer gidsen op de site
 
-- **Professions:** [Tradeskills](/nl/tradeskills/) heeft een gids per profession voor elke era, plus de tradeskill-perks van WoW Forever.
+- **Professions:** [Tradeskills](/nl/tradeskills/) heeft een gids per profession voor elke era, de tradeskill-perks van WoW Forever en Forever-gidsen voor [Cooking](/nl/tradeskills/forever/cooking/), [First Aid](/nl/tradeskills/forever/first-aid/) en [Fishing](/nl/tradeskills/forever/fishing/).
 - **Classes:** [Classes](/nl/classes/) heeft een levelgids per class en spec voor elke era.
 - **Levelen:** de [levelroutes](/nl/routes/) dekken elke uitbreiding van WoW Classic, met vergelijkingen van de leveladdons.
 - **Reputaties:** [Reputaties](/nl/reputations/) heeft een gids per factie van WoW Forever.

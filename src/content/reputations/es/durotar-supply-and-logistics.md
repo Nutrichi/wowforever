@@ -1,32 +1,42 @@
 ---
 title: "Guía de reputación de Durotar Supply and Logistics"
-description: "Durotar Supply and Logistics en WoW Forever: la facción de suministros de la Horde vista en la beta, las cajas que se entregan en Orgrimmar, Thunder Bluff y Undercity, Merchant's Favor y las recompensas en Honored y Exalted."
+description: "Durotar Supply and Logistics en WoW Forever: el campamento de suministros de la Horde a las afueras de la Crossroads, cajas por Merchant's Favor, las recompensas en Honored y Exalted y lo que falta por saber."
 lang: es
 manual: true
-updated: 2026-09-19
+updated: 2026-09-29
 faction: "Durotar Supply and Logistics"
-zone: "Orgrimmar, Thunder Bluff y Undercity"
+zone: "A las afueras de la Crossroads, The Barrens"
 side: horde
 origin: forever
 start: neutral
 cap: exalted
-method: "Entrega supply crates al quartermaster de Orgrimmar, Thunder Bluff o Undercity."
-rewards: "Un tradeskill sign como juguete en Honored y el tabardo de la facción en Exalted."
+method: "Saquea cajas por el mundo, llénalas y entrégalas a Dokimi en el campamento a las afueras de la Crossroads, en The Barrens."
+rewards: "Un juguete de cartel de profesión en Honored, y el tabardo de la facción en Exalted."
 sources:
-  - name: "Wowhead"
+  - name: "Wowhead, la facción"
     url: "https://www.wowhead.com/forever/faction=2587/durotar-supply-and-logistics"
+  - name: "Wowhead, la guía de reputación del lado de la Alliance"
+    url: "https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions"
 ---
-Durotar Supply and Logistics es una de las dos primeras facciones propias de WoW Forever. Su descripción lo dice así: la sólida red de suministros de la Horde impulsa su rápida expansión por Kalimdor y más allá. Llegó con el parche 1.60.1, la build de la beta, y su equivalente en el lado de la Alliance es la [Azeroth Commerce Authority](/es/reputations/azeroth-commerce-authority/).
+Durotar Supply and Logistics es la facción de suministros de la Horde en WoW Forever. Su propia descripción dice: la sólida red de suministros de la Horde alimenta su rápida expansión por Kalimdor y más allá. Saqueas cajas por el mundo, las llenas y las entregas en su campamento a cambio de Merchant's Favor. Su equivalente en la Alliance es la [Azeroth Commerce Authority](/es/reputations/azeroth-commerce-authority/).
 
 ## Por qué merece la pena esta reputación
 
-- **Un juguete en Honored.** La Advertising License Application inicia una misión para el Orcish Tradeskill Sign, un cartel que anuncia lo que fabricas.
-- **El tabardo en Exalted.** El Durotar Supply and Logistics Tabard pide Exalted.
+- **Un juguete en Honored.** La Advertising License Application empieza una misión para el Orcish Tradeskill Sign, un juguete que anuncia lo que fabricas.
+- **El tabardo en Exalted.** El <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262764"><img class="wf-wh__icon" src="/wh/inv_tabard_merchanthordec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Durotar Supply and Logistics Tabard</a> pide Exalted.
 - **Premia lo que ya haces.** La reputación viene de entregar cajas, así que las profesiones que subes de todos modos la alimentan.
 
-## Para qué bando es
+## El campamento a las afueras de la Crossroads
 
-Wowhead no indica ningún bando en la página de la base de datos, pero cada quartermaster está en una capital de la Horde y la descripción habla de la red de suministros de la Horde. Tómala como la facción de la Horde y la Azeroth Commerce Authority como la de la Alliance.
+El campamento está justo a las afueras de la Crossroads, en The Barrens. Las cajas van a <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256386">Dokimi</a>.
+
+| PNJ | Qué | /way |
+|---|---|---|
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256386">Dokimi</a> | Inventory Intake: recoge las cajas | 50.0 29.2 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Subastador | 49.8 29.4 |
+
+Son las posiciones de las páginas de PNJ de Wowhead; su guía de reputación da /way 42 34 para el campamento. El campamento de la Alliance en Three Corners tiene vendedores con recetas para siete profesiones, una montura y títulos. Si el campamento de la Horde vende lo mismo, las guías aún no lo muestran.
 
 ## Los niveles
 
@@ -44,34 +54,19 @@ Por debajo de Neutral la escala también es la habitual: Hated mide 36.000, y Ho
 
 ## De dónde sale la reputación
 
-**Entregar cajas.** La mejora Legacy Performance Bonus, en el árbol Professions, lo dice con todas las letras: tienes un 5, 10 o 15 por ciento de probabilidad, según el rango, de recibir un 100 por cien más de **Merchant's Favor** al entregar una caja a la Azeroth Commerce Authority o a Durotar Supply and Logistics. Merchant's Favor es una moneda propia en la beta, dentro de Professions y Tradeskills.
+**Entregar cajas.** La perk de Legacy Performance Bonus del árbol Professions da, según el rango, un 5, 10 o 15 % de probabilidad de un 100 % más de **Merchant's Favor** al entregar una caja. El Merchant's Favor es una moneda propia en la beta, dentro de Professions y Tradeskills.
 
-La mejora y sus tres rangos están en la [calculadora Legacy](/es/talents/legacy/).
-
-## Dónde entregar
-
-Tres quartermasters, uno por capital de la Horde.
-
-| PNJ | Dónde |
-|---|---|
-| Jornah | Orgrimmar |
-| Dokimi | Thunder Bluff |
-| Gishah | Undercity |
+Puedes ver la perk y sus tres rangos en la [calculadora de Legacy](/es/talents/legacy/).
 
 ## Las recompensas
 
 | Nivel | Recompensa |
 |---|---|
-| Honored | Advertising License Application, que inicia una misión para el juguete Orcish Tradeskill Sign |
-| Exalted | Durotar Supply and Logistics Tabard |
+| Honored | Advertising License Application, que empieza una misión para el juguete Orcish Tradeskill Sign |
+| Exalted | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262764"><img class="wf-wh__icon" src="/wh/inv_tabard_merchanthordec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Durotar Supply and Logistics Tabard</a> |
 
-## Lo que todavía no se sabe
+## Lo que aún no se sabe
 
-La beta enseña la facción, sus recompensas y sus quartermasters, pero no el sistema que hay detrás. Sigue abierto:
-
-- **Dónde empieza un personaje nuevo.** La base de datos no da un nivel de inicio, así que Neutral aquí es una suposición y no un valor confirmado.
-- **Cuánto da una caja** y si hay un límite por día o por semana.
-- **De dónde salen las cajas:** qué profesión las hace, cuánto cuestan y cuántas se pueden llevar.
-- **Qué más compra Merchant's Favor** además de reputación.
-
-Los jugadores reconocen los dos nombres de Season of Discovery, donde las supply crates funcionaban de forma parecida. Blizzard no ha dicho que el sistema vuelva igual, así que esta guía se limita a lo que el cliente de la beta y la base de datos muestran de verdad. Se actualizará en cuanto la beta enseñe más.
+- **Dónde empieza un personaje nuevo.** La base de datos no da un nivel inicial, así que Neutral es aquí una suposición y no un valor confirmado.
+- **Cuánto da una caja** y si hay un límite diario o semanal.
+- **Qué vendedores hay en el campamento de la Horde** y qué compra allí el Merchant's Favor.

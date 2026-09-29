@@ -3,7 +3,7 @@ title: "Cozy Sleeping Bag: la catena di missioni completa in WoW Forever"
 metaTitle: "Cozy Sleeping Bag in WoW Forever: luoghi, coordinate e ricompense"
 description: "Ogni passo della catena del Cozy Sleeping Bag in WoW Forever, con le coordinate, la partenza separata per Alleanza e Orda, le missioni in ordine e quello che rende il percorso."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-22
+updated: 2026-09-29
 lang: it
 manual: true
 faq:
@@ -28,6 +28,8 @@ Serve il livello 14 per cominciare.
 Srotolalo e sdraiati dentro. Ogni minuto di riposo dà l’1 per cento di esperienza bonus, fino al 3 per cento. Il buff tiene un’ora e l’oggetto va un’ora in recupero. Finché sei nel sacco conti anche come riposato.
 
 Il 3 per cento da solo è poco. Sommato ad altri buff, come il 5 per cento della cucina, in una serata lunga si sente.
+
+Si somma anche ai buff di un accampamento; come funzionano è spiegato nella [guida al camping](/it/guides/camping/).
 
 ## Cosa rende il percorso
 

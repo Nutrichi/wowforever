@@ -3,7 +3,7 @@ title: "Cozy Sleeping Bag: the full quest chain in WoW Forever"
 metaTitle: "Cozy Sleeping Bag in WoW Forever: locations, coordinates and rewards"
 description: "Every step of the Cozy Sleeping Bag chain in WoW Forever, with the coordinates, the separate start for Alliance and Horde, the quests in order and what the trail pays out."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-22
+updated: 2026-09-29
 lang: en
 faq:
   - q: "What level do you need for the Cozy Sleeping Bag?"
@@ -27,6 +27,8 @@ You need to be level 14 to start.
 Unfurl it and lie in it. Every minute spent resting gives 1 percent bonus experience, stacking up to 3 percent. The buff holds for an hour, and the item goes on a one-hour cooldown. While you lie in the bag you also count as rested.
 
 Three percent on its own is small. Stacked with other buffs, such as the 5 percent from cooking, it adds up on a long evening.
+
+It also stacks with the buffs of a campsite; how those work is in the [camping guide](/guides/camping/).
 
 ## What the trail pays out
 

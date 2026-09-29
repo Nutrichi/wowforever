@@ -23,6 +23,7 @@ import MobileMenu from '../components/MobileMenu.astro';
 import SecondBar from '../components/SecondBar.astro';
 import Spine from '../components/Spine.astro';
 import Footer from '../components/Footer.astro';
+import WowheadTooltips from '../components/WowheadTooltips.astro';
 import '../styles/fonts.css';
 import '../styles/tokens.css';
 import '../styles/global.css';
@@ -259,6 +260,7 @@ gtag('config', '${ga4Id}');`;
 
     <Footer locale={locale} />
     <MobileMenu locale={locale} nav={nav} pathname={pathname} />
+    <WowheadTooltips />
 
     <script is:inline>
       // Een menulink naar een sectie met era's gaat meteen naar de bewaarde era,

@@ -1,0 +1,21 @@
+---
+/*
+ * Een Forever-gids onder TRADESKILLS in het Engels: /tradeskills/forever/<skill>/
+ * (Nutri, 29 september 2026). Geen era-gids zoals die van Classic Era en
+ * later, maar een pagina uit `pages/<taal>/tradeskills/forever/<skill>.md`,
+ * met de vorm van de gidsen onder /guides/. Zo blijft het era-systeem van de
+ * andere tradeskillgidsen ongemoeid; de pil op /tradeskills/ linkt ernaar.
+ */
+import SitePage from '../../../components/pages/SitePage.astro';
+import { pageSlugs } from '../../../lib/pages';
+
+export async function getStaticPaths() {
+  return (await pageSlugs('tradeskills/forever'))
+    .filter((slug): slug is string => !!slug)
+    .map((slug) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params;
+---
+
+<SitePage locale="en" pageKey={`tradeskills/forever/${slug}`} />

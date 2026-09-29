@@ -3,7 +3,7 @@ title: "Cozy Sleeping Bag : la chaîne de quêtes complète dans WoW Forever"
 metaTitle: "Cozy Sleeping Bag dans WoW Forever : lieux, coordonnées et récompenses"
 description: "Chaque étape de la chaîne du Cozy Sleeping Bag dans WoW Forever, avec les coordonnées, le départ séparé pour l’Alliance et la Horde, les quêtes dans l’ordre et ce que rapporte le trajet."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-22
+updated: 2026-09-29
 lang: fr
 manual: true
 faq:
@@ -28,6 +28,8 @@ Il faut être niveau 14 pour commencer.
 Déroulez-le et allongez-vous dedans. Chaque minute de repos donne 1 pour cent d’expérience bonus, jusqu’à 3 pour cent. Le buff tient une heure et l’objet passe une heure en temps de recharge. Tant que vous êtes dans le sac, vous comptez aussi comme reposé.
 
 Trois pour cent, seul, c’est peu. Cumulé avec d’autres buffs, comme les 5 pour cent de la cuisine, cela finit par compter sur une longue soirée.
+
+Il se cumule aussi avec les buffs d’un campement ; leur fonctionnement est expliqué dans le [guide du camping](/fr/guides/camping/).
 
 ## Ce que rapporte le trajet
 
