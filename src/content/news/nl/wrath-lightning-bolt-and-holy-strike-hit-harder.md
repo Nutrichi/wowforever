@@ -69,7 +69,7 @@ De Paladin krijgt de meeste wijzigingen.
 ## Warrior
 
 - **Arms:** Slam krijgt een cooldown van 18 seconden (was 15). Improved Slam haalt daar 1,5 of 3 seconden af en vertraagt de melee swing niet meer. Bloodthrill activeert vaker, 4 tot 20% (was 2 tot 10%), maar alleen bij aanvallen met de main hand.
-- **Protection:** Bastion en Focused Rage wisselen van rij, zodat Focused Rage eerder komt.
+- **Protection:** Bastion en Focused Rage wisselen van rij: Bastion staat nu in rij 5 en Focused Rage in rij 6.
 - Sunder Armor geeft op elke rank de juiste threat, met iets meer vanuit Attack Power.
 
 Dit alles geldt voor de beta. Of de waarden blijven voor de launch op 4 november, zegt Blizzard niet.
