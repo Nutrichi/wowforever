@@ -69,4 +69,4 @@ Il perk e i suoi tre gradi sono nel [calcolatore Legacy](/it/talents/legacy/).
 
 - **Da dove parte un nuovo personaggio.** Il database non dà un livello iniziale, quindi Neutral è qui un’ipotesi e non un valore confermato.
 - **Quanto dà una cassa** e se c’è un limite giornaliero o settimanale.
-- **Quali venditori ci sono all’accampamento dell’Orda** e cosa compra lì il Merchant's Favor.
+- **Cos'altro compra il Merchant's Favor all’accampamento dell’Orda.** Nel database, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a>, un Supply Officer in The Barrens, vende il <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> per 1500 Merchant's Favor; insegna la mascotte [Minimule](/it/guides/pets/minimule/). Il resto dell'offerta non è noto.

@@ -68,4 +68,4 @@ You can see the perk and its three ranks in the [Legacy calculator](/talents/leg
 
 - **Where a new character starts.** The database gives no starting standing, so Neutral is the assumption here and not a confirmed value.
 - **How much a crate gives** and whether there is a daily or weekly limit.
-- **Which vendors stand at the Horde camp** and what Merchant's Favor buys there.
+- **What else Merchant's Favor buys at the Horde camp.** In the database, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a>, a Supply Officer in The Barrens, sells the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> for 1500 Merchant's Favor; it teaches the [Minimule](/guides/pets/minimule/) pet. The rest of the stock is not known.

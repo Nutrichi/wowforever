@@ -92,6 +92,8 @@ Some stats went down to pay for this. Magister's Robes have 28 Intellect instead
 
 The Hippogryph Hatchling came from a loot card of the World of Warcraft Trading Card Game in the original game. The Flowery Lashling Bud and the Wilted Lashling Bud are new items that summon a lashling.
 
+All four have a page in the [pet guide](/guides/pets/): the [Sprite Darter Hatchling](/guides/pets/sprite-darter-hatchling/), the [Hippogryph Hatchling](/guides/pets/hippogryph-hatchling/), the [Flowery Lashling](/guides/pets/flowery-lashling/) and the [Wilted Lashling](/guides/pets/wilted-lashling/).
+
 ## Tabard and toy
 
 <div class="wf-items">

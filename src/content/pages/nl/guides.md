@@ -1,9 +1,9 @@
 ---
 title: "Gidsen voor WoW Forever"
 metaTitle: "WoW Forever-gidsen: dungeonquests, questreeksen en meer"
-description: "Elke gids voor WoW Forever op één plek: de dungeongids met elke dungeonquest, The Hall of Thanes en de Ruins of Lordaeron, de Cozy Sleeping Bag-reeks, camping, de BMAH, en de routes, classgidsen en tradeskillgidsen van de site."
+description: "Elke gids voor WoW Forever op één plek: de dungeongids met elke dungeonquest, The Hall of Thanes en de Ruins of Lordaeron, de Cozy Sleeping Bag-reeks, camping, de BMAH, elke pet, en de routes, classgidsen en tradeskillgidsen van de site."
 short: "Gidsen"
-updated: 2026-09-29
+updated: 2026-09-30
 lang: nl
 manual: true
 ---
@@ -34,6 +34,12 @@ Stap-voor-stapgidsen voor World of Warcraft: Forever, van dungeonquests tot ques
 | Gids | Waarover |
 |---|---|
 | [BMAH](/nl/guides/bmah/) | Het Black Market Auction House in Powderfuse Port in The Riverglades: de agenten, de items en Dungeon Set 1 naast Classic |
+
+## Pets
+
+| Gids | Waarover |
+|---|---|
+| [Pets](/nl/guides/pets/) | Elke companion pet van WoW Forever, nieuw en uit Classic, in één tabel, met een pagina per pet: waar hij vandaan komt, het item en wat er veranderde |
 
 ## Meer gidsen op de site
 

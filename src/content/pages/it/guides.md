@@ -1,9 +1,9 @@
 ---
 title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
-description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, il camping, la BMAH, e i percorsi, le guide di classe e le guide delle professioni del sito."
+description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, il camping, la BMAH, ogni mascotte, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
-updated: 2026-09-29
+updated: 2026-09-30
 lang: it
 manual: true
 ---
@@ -34,6 +34,12 @@ Guide passo per passo per World of Warcraft: Forever, dalle missioni dei dungeon
 | Guida | Di cosa tratta |
 |---|---|
 | [BMAH](/it/guides/bmah/) | La Black Market Auction House a Powderfuse Port, in The Riverglades: gli agenti, gli oggetti e il Dungeon Set 1 confrontato con Classic |
+
+## Mascotte
+
+| Guida | Di cosa tratta |
+|---|---|
+| [Mascotte](/it/guides/pets/) | Ogni mascotte da compagnia di WoW Forever, nuova o da Classic, in un'unica tabella, con una pagina per mascotte: da dove viene, l'oggetto e cosa è cambiato |
 
 ## Altre guide sul sito
 

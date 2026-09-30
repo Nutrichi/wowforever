@@ -69,4 +69,4 @@ Den Perk und seine drei Ränge siehst du im [Legacy-Rechner](/de/talents/legacy/
 
 - **Wo ein neuer Charakter beginnt.** Die Datenbank nennt keinen Startstand, Neutral ist hier also eine Annahme und kein bestätigter Wert.
 - **Wie viel eine Kiste bringt** und ob es ein Tages- oder Wochenlimit gibt.
-- **Welche Händler im Lager der Horde stehen** und was Merchant's Favor dort kauft.
+- **Was Merchant's Favor im Lager der Horde sonst noch kauft.** Laut Datenbank verkauft <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a>, ein Supply Officer in The Barrens, das <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> für 1500 Merchant's Favor; es lehrt das Haustier [Minimule](/de/guides/pets/minimule/). Der Rest des Angebots ist nicht bekannt.

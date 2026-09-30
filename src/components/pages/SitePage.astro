@@ -58,9 +58,18 @@ const hasChildren = (key: string) => all.some((other) => other.key.startsWith(`$
 const groupKey = depth(pageKey) >= 3
   ? pageKey.split('/').slice(0, -1).join('/')
   : depth(pageKey) === 2 && hasChildren(pageKey) ? pageKey : null;
+/*
+ * Een grote groep (30 september 2026, de petgidsen: meer dan negentig pagina's)
+ * krijgt geen rij chips met elke pagina; daar staan de chips van het eerste
+ * niveau, en de tabel op het overzicht en de broodkruimel wijzen de weg.
+ */
+const maxGroupChips = 20;
+const groupMembers = groupKey
+  ? all.filter((other) => other.key === groupKey || other.key.startsWith(`${groupKey}/`))
+  : [];
 const members = !hasChips ? []
-  : groupKey
-    ? all.filter((other) => other.key === groupKey || other.key.startsWith(`${groupKey}/`))
+  : groupKey && groupMembers.length <= maxGroupChips
+    ? groupMembers
     : all.filter((other) => (other.key === folder || other.key.startsWith(`${folder}/`)) && depth(other.key) <= 2);
 
 const crumbs = [{ name: ui('crumb.home'), path: localizePath('', locale) }];

@@ -1,0 +1,51 @@
+---
+title: "Black Kingsnake: so bekommst du das Haustier in WoW Forever"
+metaTitle: "So bekommst du Black Kingsnake in WoW Forever"
+description: "Black Kingsnake ist ein Haustier aus Classic, das in World of Warcraft: Forever zurückkehrt. Xan'tish verkauft es in Orgrimmar für 50 Silber."
+short: "Black Kingsnake"
+updated: 2026-09-30
+lang: de
+manual: true
+faq:
+  - q: "Wie bekommt man Black Kingsnake in WoW Forever?"
+    a: "Xan'tish verkauft es in Orgrimmar für 50 Silber. Der Händler ist freundlich zu die Horde."
+  - q: "Ist Black Kingsnake neu in WoW Forever?"
+    a: "Nein. Black Kingsnake gab es schon in Classic, und es kehrt in WoW Forever zurück."
+sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/item=10360"
+---
+Black Kingsnake ist ein Haustier aus Classic, das in World of Warcraft: Forever zurückkehrt. Du lernst es mit <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10360"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Kingsnake</a>.
+
+<div class="wf-items">
+<div class="wf-item"><img class="wf-item__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=10360">Black Kingsnake</a><span class="wf-item__line wf-item__meta">Item Level 30</span><span class="wf-item__line wf-item__use">Use: Teaches you how to summon this companion.</span><span class="wf-item__line">Right Click to summon and dismiss your snake.</span></div></div>
+</div>
+
+## Kurz gesagt
+
+| | |
+|---|---|
+| Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10360"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Kingsnake</a> |
+| Quelle | Händler: Xan'tish |
+| Wo | Orgrimmar |
+| Preis | 50 Silber |
+| Neu in Forever | nein, aus Classic |
+| Accountweit | ja, laut Wowhead |
+
+## So bekommst du es
+
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> verkauft es in Orgrimmar für 50 Silber. Der Händler ist freundlich zu die Horde.
+
+## Was sich seit Classic geändert hat
+
+Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen. Das Herbeirufen ist sofort statt mit 1 Sekunde Zauberzeit, mit einer Abklingzeit von 1,5 Sekunden.
+
+Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+
+## Mehr Haustiere von Xan'tish
+
+- [Brown Snake](/de/guides/pets/brown-snake/)
+- [Crimson Snake](/de/guides/pets/crimson-snake/)
+- [Jungle Boa](/de/guides/pets/jungle-boa/)
+
+Jedes Haustier von WoW Forever, mit seiner Herkunft, steht im [Haustier-Guide](/de/guides/pets/).

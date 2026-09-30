@@ -69,4 +69,4 @@ Vous voyez le perk et ses trois rangs dans le [calculateur Legacy](/fr/talents/l
 
 - **Où commence un nouveau personnage.** La base de données ne donne pas de niveau de départ, donc Neutral est ici une hypothèse et pas une valeur confirmée.
 - **Combien rapporte une caisse** et s’il y a une limite par jour ou par semaine.
-- **Quels vendeurs se trouvent au camp de la Horde** et ce que le Merchant's Favor y achète.
+- **Ce que le Merchant's Favor achète d'autre au camp de la Horde.** Dans la base de données, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a>, un Supply Officer dans The Barrens, vend le <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> pour 1500 Merchant's Favor ; il apprend la mascotte [Minimule](/fr/guides/pets/minimule/). Le reste de l'offre n'est pas connu.

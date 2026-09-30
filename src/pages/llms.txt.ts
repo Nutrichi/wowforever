@@ -97,7 +97,7 @@ export const GET: APIRoute = async ({ site }) => {
       .map((locale) => `${localeNames[locale]} (${url(localizePath('', locale))})`)
       .join(', ')}. Posts are written in English and translated by hand. Names from the game (items, spells, zones, dungeons, raids, bosses, classes, specs, tradeskills and factions) are never translated.`,
     '',
-    'What this site answers: the release date and the beta of WoW Forever, its talents and talent calculator, best-in-slot (BiS) lists, classes, races and racials, professions and tradeskills, reputations and factions, leveling routes and leveling addons such as RestedXP and Zygor, plus live streams and clips.',
+    'What this site answers: the release date and the beta of WoW Forever, its talents and talent calculator, best-in-slot (BiS) lists, classes, races and racials, professions and tradeskills, reputations and factions, companion pets and where to get each one, dungeon quests, leveling routes and leveling addons such as RestedXP and Zygor, plus live streams and clips.',
     '',
     '## Sections',
     '',

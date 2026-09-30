@@ -69,4 +69,4 @@ Je ziet de perk en zijn drie rangen in de [Legacy-calculator](/nl/talents/legacy
 
 - **Waar een nieuw personage begint.** De database geeft geen startstand, dus Neutral is hier een aanname en geen bevestigde waarde.
 - **Hoeveel een kist geeft** en of er een daglimiet of weeklimiet is.
-- **Welke verkopers in het kamp van de Horde staan** en wat Merchant's Favor daar koopt.
+- **Wat Merchant's Favor nog meer koopt in het kamp van de Horde.** In de database verkoopt <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a>, een Supply Officer in The Barrens, de <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> voor 1500 Merchant's Favor; die leert je de [Minimule](/nl/guides/pets/minimule/) als pet. De rest van het aanbod is niet bekend.

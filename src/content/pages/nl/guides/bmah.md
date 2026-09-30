@@ -93,6 +93,8 @@ Om dat te betalen gingen sommige stats omlaag. Magister's Robes hebben 28 Intell
 
 De Hippogryph Hatchling kwam in het originele spel van een lootkaart van de World of Warcraft Trading Card Game. De Flowery Lashling Bud en de Wilted Lashling Bud zijn nieuwe items die een lashling oproepen.
 
+Alle vier hebben een pagina in de [petgids](/nl/guides/pets/): de [Sprite Darter Hatchling](/nl/guides/pets/sprite-darter-hatchling/), de [Hippogryph Hatchling](/nl/guides/pets/hippogryph-hatchling/), de [Flowery Lashling](/nl/guides/pets/flowery-lashling/) en de [Wilted Lashling](/nl/guides/pets/wilted-lashling/).
+
 ## Tabard en speeltje
 
 <div class="wf-items">

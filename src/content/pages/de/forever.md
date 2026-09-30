@@ -314,7 +314,7 @@ Jede erfüllte Challenge gibt einen Legacy Point. Die Punkte gehen in einen Lega
 
 Der dritte Zweig enthält die Perks für Tradeskills; die stehen unter [Tradeskills](/de/tradeskills/). Es wurden zwei Demo-Builds gezeigt, und ihre Zahlen weichen leicht ab: Reinforce erschien sowohl mit 6 % als auch mit 8 % weniger Haltbarkeitsverlust. Die genauen Werte können sich bis zum Launch noch ändern.
 
-Neben dem Baum schaltet die Gesamtzahl der verdienten Punkte eine Reihe kosmetischer Belohnungen frei. Punkte für Perks auszugeben, bremst diese Reihe nicht. Bisher gezeigt wurden die Replica Ironforge Air Rifle, das Haustier Spectral Bear Cub, ein Wappenrock mit dem Spectral Bear und das Reittier Reins of the Spectral Bear. Die Reihe öffnet sich bei 15, 25, 40 und 55 Punkten, das Reittier bei 55. Jede Aufgabe ist genau einen Punkt wert, und ein Klassenlehrer verlernt einen ganzen Baum für 10 Gold.
+Neben dem Baum schaltet die Gesamtzahl der verdienten Punkte eine Reihe kosmetischer Belohnungen frei. Punkte für Perks auszugeben, bremst diese Reihe nicht. Bisher gezeigt wurden die Replica Ironforge Air Rifle, das Haustier [Spectral Bear Cub](/de/guides/pets/spectral-bear-cub/), ein Wappenrock mit dem Spectral Bear und das Reittier Reins of the Spectral Bear. Die Reihe öffnet sich bei 15, 25, 40 und 55 Punkten, das Reittier bei 55. Jede Aufgabe ist genau einen Punkt wert, und ein Klassenlehrer verlernt einen ganzen Baum für 10 Gold.
 
 ## Perks der Tradeskills
 
@@ -349,7 +349,7 @@ Forever kostet nichts zusätzlich zu einem Abonnement für World of Warcraft ode
 | 30 Tage Game Time, gutgeschrieben am 4. November | ✕ | ✓ | ✓ |
 | Bodenreittier Veteran Adventurer's Loyal Companion* | ✕ | ✓ | ✓ |
 | Transmog-Set Veteran Adventurer's Outdoor Wear* | ✕ | ✓ | ✓ |
-| Haustiere Zergling, Panda, Diablo und Pachimari** | ✕ | ✓ | ✓ |
+| Haustiere [Zergling](/de/guides/pets/zergling/), [Panda](/de/guides/pets/panda-cub/), [Diablo](/de/guides/pets/mini-diablo/) und [Pachimari](/de/guides/pets/pachimari/)** | ✕ | ✓ | ✓ |
 | Wappenröcke von Lordaeron und Shen'dorei** | ✕ | ✓ | ✓ |
 | Warcraft III: Reforged | ✕ | ✕ | ✓ |
 | Warcraft III Reforged: Forsaken Kingdom | ✕ | ✕ | ✓ |

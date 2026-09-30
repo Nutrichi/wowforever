@@ -69,4 +69,4 @@ Puedes ver la perk y sus tres rangos en la [calculadora de Legacy](/es/talents/l
 
 - **Dónde empieza un personaje nuevo.** La base de datos no da un nivel inicial, así que Neutral es aquí una suposición y no un valor confirmado.
 - **Cuánto da una caja** y si hay un límite diario o semanal.
-- **Qué vendedores hay en el campamento de la Horde** y qué compra allí el Merchant's Favor.
+- **Qué más compra el Merchant's Favor en el campamento de la Horda.** En la base de datos, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a>, un Supply Officer en The Barrens, vende el <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> por 1500 Merchant's Favor; enseña la mascota [Minimule](/es/guides/pets/minimule/). El resto de la oferta no se conoce.

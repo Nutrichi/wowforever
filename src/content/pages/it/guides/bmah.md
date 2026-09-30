@@ -93,6 +93,8 @@ Alcune stats sono scese per compensare. Magister's Robes ha 28 Intellect invece 
 
 Nel gioco originale lo Hippogryph Hatchling veniva da una carta bottino del World of Warcraft Trading Card Game. Il Flowery Lashling Bud e il Wilted Lashling Bud sono oggetti nuovi che evocano un lashling.
 
+Tutte e quattro hanno una pagina nella [guida alle mascotte](/it/guides/pets/): lo [Sprite Darter Hatchling](/it/guides/pets/sprite-darter-hatchling/), l'[Hippogryph Hatchling](/it/guides/pets/hippogryph-hatchling/), il [Flowery Lashling](/it/guides/pets/flowery-lashling/) e il [Wilted Lashling](/it/guides/pets/wilted-lashling/).
+
 ## Tabard e giocattolo
 
 <div class="wf-items">

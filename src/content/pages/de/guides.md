@@ -1,9 +1,9 @@
 ---
 title: "Guides für WoW Forever"
 metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
-description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, Camping, das BMAH, und die Routen, Klassenguides und Berufsguides der Seite."
+description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, Camping, das BMAH, jedes Haustier, und die Routen, Klassenguides und Berufsguides der Seite."
 short: "Guides"
-updated: 2026-09-29
+updated: 2026-09-30
 lang: de
 manual: true
 ---
@@ -34,6 +34,12 @@ Schritt-für-Schritt-Guides für World of Warcraft: Forever, von Dungeonquests b
 | Guide | Worum es geht |
 |---|---|
 | [BMAH](/de/guides/bmah/) | Das Black Market Auction House in Powderfuse Port in The Riverglades: die Agenten, die Gegenstände und Dungeon Set 1 im Vergleich mit Classic |
+
+## Haustiere
+
+| Guide | Worum es geht |
+|---|---|
+| [Haustiere](/de/guides/pets/) | Jedes Haustier von WoW Forever, neu oder aus Classic, in einer Tabelle, mit einer Seite pro Haustier: woher es kommt, der Gegenstand und was sich geändert hat |
 
 ## Weitere Guides auf der Seite
 

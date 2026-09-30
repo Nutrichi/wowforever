@@ -47,7 +47,7 @@ El nombre suena de Season of Discovery, donde la Azeroth Commerce Exchange funci
 | Recompensa | Precio | Requisito |
 |---|---|---|
 | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=262766"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Pack Kodo</a> | 6000 | Nivel 60 y Journeyman Riding, para toda la cuenta |
-| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> | 1500 | Enseña la mascota Minimule |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> | 1500 | Enseña la mascota [Minimule](/es/guides/pets/minimule/) |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=270888"><img class="wf-wh__icon" src="/wh/inv_misc_notescript2b.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Advertising License Application</a> | 1200 | Honored; empieza la misión del juguete Dwarven Tradeskill Sign |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | | Exalted |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280449"><img class="wf-wh__icon" src="/wh/8101155.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skyborne Tabard</a> | | Exalted, según el propio objeto |
