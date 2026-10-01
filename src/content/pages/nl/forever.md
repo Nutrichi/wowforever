@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-09-29
+updated: 2026-10-01
 lang: nl
 manual: true
 faq:
@@ -70,7 +70,7 @@ World of Warcraft: Forever is de Classic+ die Blizzard op 12 september aankondig
 | Onderwerp | Details |
 |---|---|
 | Lancering | 4 november 2026, 15.00 uur Pacific time (00.00 uur Belgische tijd op 5 november) |
-| Beta | 17 september tot 21 oktober 2026, levelgrens 20 en later 30 |
+| Beta | 17 september tot 21 oktober 2026, levelgrens 20, en 30 vanaf 1 oktober |
 | Maximaal level | 60, voorgoed |
 | Bij de lancering | Meer dan 1.000 nieuwe quests, 9 nieuwe dungeons, nieuwe zones en het ras Skyborne |
 | Eerste raids | 9 december 2026 |
@@ -111,7 +111,8 @@ Alle datums komen van Blizzard. Tijden staan in Pacific time, met de Belgische t
 | Datum | Wat er gebeurt |
 |---|---|
 | 12 september 2026 | Blizzard kondigt Forever aan op BlizzCon. De voorverkoop begint en Warcraft III Reforged: Forsaken Kingdom verschijnt. |
-| 17 september 2026 | De beta start voor wie het Skyborne Epic Pack, de Warcraft Forever Collection of de Collector's Edition heeft, en voor spelers die uit de aanmeldingen gekozen worden. De grens ligt eerst op level 20 en gaat later naar 30. Blizzard houdt diezelfde dag een live Q&A, om 10.00 uur Pacific time, 19.00 uur Belgische tijd. |
+| 17 september 2026 | De beta start voor wie het Skyborne Epic Pack, de Warcraft Forever Collection of de Collector's Edition heeft, en voor spelers die uit de aanmeldingen gekozen worden. De grens ligt eerst op level 20 en gaat op 1 oktober naar 30. Blizzard houdt diezelfde dag een live Q&A, om 10.00 uur Pacific time, 19.00 uur Belgische tijd. |
+| 1 oktober 2026 | De beta gaat offline voor onderhoud en komt uren later terug met een nieuwe build en een levelgrens van 30 ([meer](/nl/news/the-beta-level-cap-rises-from-20-to-30/)). |
 | 9 oktober 2026 | Op PAX Aus in Melbourne toont Clay Stone een van de nieuwe dungeons. Live op Twitch om 03.00 uur Belgische tijd ([meer](/nl/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 oktober 2026 | De Invite-A-Friend-lanceringscodes komen per mail. |
 | 21 oktober 2026 | De beta eindigt. De roadmap op BlizzCon toonde 22 oktober. |

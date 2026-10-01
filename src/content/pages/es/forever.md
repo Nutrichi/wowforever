@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: fecha de lanzamiento, beta, hoja de ruta, Skyborne y ediciones"
 description: "Todo lo que Blizzard ha anunciado sobre World of Warcraft: Forever: las fechas, la hoja de ruta, las nuevas zonas, mazmorras y bandas, los Skyborne, el sistema Legacy y las ediciones."
 short: "WoW Forever"
-updated: 2026-09-29
+updated: 2026-10-01
 lang: es
 manual: true
 faq:
@@ -70,7 +70,7 @@ World of Warcraft: Forever es el Classic+ que Blizzard anunció en la BlizzCon 2
 | Tema | Detalles |
 |---|---|
 | Lanzamiento | 4 de noviembre de 2026, 15:00, hora del Pacífico (00:00, hora belga, del 5 de noviembre) |
-| Beta | Del 17 de septiembre al 21 de octubre de 2026, tope de nivel 20 y después 30 |
+| Beta | Del 17 de septiembre al 21 de octubre de 2026, tope de nivel 20, y 30 desde el 1 de octubre |
 | Nivel máximo | 60, para siempre |
 | En el lanzamiento | Más de 1.000 misiones nuevas, 9 mazmorras nuevas, zonas nuevas y la raza Skyborne |
 | Primeras bandas | 9 de diciembre de 2026 |
@@ -111,7 +111,8 @@ Todas las fechas son de Blizzard. Las horas van en hora del Pacífico, con la ho
 | Fecha | Qué ocurre |
 |---|---|
 | 12 de septiembre de 2026 | Blizzard anuncia Forever en la BlizzCon. Se abre la reserva y sale Warcraft III Reforged: Forsaken Kingdom. |
-| 17 de septiembre de 2026 | Empieza la beta para quienes tengan el Skyborne Epic Pack, la Warcraft Forever Collection o la Collector's Edition, y para jugadores elegidos entre los inscritos. El tope está primero en el nivel 20 y sube a 30 más adelante. Blizzard organiza ese mismo día un Q&A en directo, a las 10.00 hora del Pacífico, las 19.00 hora belga. |
+| 17 de septiembre de 2026 | Empieza la beta para quienes tengan el Skyborne Epic Pack, la Warcraft Forever Collection o la Collector's Edition, y para jugadores elegidos entre los inscritos. El tope está primero en el nivel 20 y sube a 30 el 1 de octubre. Blizzard organiza ese mismo día un Q&A en directo, a las 10.00 hora del Pacífico, las 19.00 hora belga. |
+| 1 de octubre de 2026 | La beta se desconecta por mantenimiento y vuelve horas después con una nueva build y un tope de nivel 30 ([más](/es/news/the-beta-level-cap-rises-from-20-to-30/)). |
 | 9 de octubre de 2026 | En la PAX Aus de Melbourne, Clay Stone muestra a fondo una de las nuevas mazmorras. En directo en Twitch a las 03.00 hora belga ([más](/es/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 de octubre de 2026 | Llegan por correo los códigos de lanzamiento Invite-A-Friend. |
 | 21 de octubre de 2026 | Termina la beta. La hoja de ruta mostrada en la BlizzCon indicaba el 22 de octubre. |

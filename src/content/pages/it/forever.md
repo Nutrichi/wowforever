@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: data di uscita, beta, roadmap, Skyborne ed edizioni"
 description: "Tutto ciò che Blizzard ha annunciato su World of Warcraft: Forever: le date, la roadmap, le nuove zone, i dungeon e le incursioni, gli Skyborne, il sistema Legacy e le edizioni."
 short: "WoW Forever"
-updated: 2026-09-29
+updated: 2026-10-01
 lang: it
 manual: true
 faq:
@@ -70,7 +70,7 @@ World of Warcraft: Forever è il Classic+ che Blizzard ha annunciato alla BlizzC
 | Argomento | Dettagli |
 |---|---|
 | Lancio | 4 novembre 2026, 15:00 ora del Pacifico (00:00 ora belga del 5 novembre) |
-| Beta | Dal 17 settembre al 21 ottobre 2026, limite al livello 20 e poi 30 |
+| Beta | Dal 17 settembre al 21 ottobre 2026, limite al livello 20, e 30 dal 1° ottobre |
 | Livello massimo | 60, per sempre |
 | Al lancio | Più di 1.000 nuove missioni, 9 nuovi dungeon, nuove zone e la razza Skyborne |
 | Prime incursioni | 9 dicembre 2026 |
@@ -111,7 +111,8 @@ Tutte le date vengono da Blizzard. Gli orari sono in ora del Pacifico, con l’o
 | Data | Cosa succede |
 |---|---|
 | 12 settembre 2026 | Blizzard annuncia Forever alla BlizzCon. Apre il preacquisto ed esce Warcraft III Reforged: Forsaken Kingdom. |
-| 17 settembre 2026 | Parte la beta per chi possiede lo Skyborne Epic Pack, la Warcraft Forever Collection o la Collector's Edition, e per i giocatori scelti tra gli iscritti. Il limite è al livello 20 all'inizio e sale a 30 più avanti. Blizzard organizza lo stesso giorno un Q&A in diretta, alle 10.00 ora del Pacifico, le 19.00 ora belga. |
+| 17 settembre 2026 | Parte la beta per chi possiede lo Skyborne Epic Pack, la Warcraft Forever Collection o la Collector's Edition, e per i giocatori scelti tra gli iscritti. Il limite è al livello 20 all'inizio e sale a 30 il 1° ottobre. Blizzard organizza lo stesso giorno un Q&A in diretta, alle 10.00 ora del Pacifico, le 19.00 ora belga. |
+| 1° ottobre 2026 | La beta va offline per manutenzione e torna qualche ora dopo con una nuova build e un limite al livello 30 ([altro](/it/news/the-beta-level-cap-rises-from-20-to-30/)). |
 | 9 ottobre 2026 | Al PAX Aus di Melbourne, Clay Stone mostra da vicino uno dei nuovi dungeon. In diretta su Twitch alle 03.00 ora belga ([altro](/it/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 ottobre 2026 | Arrivano via e-mail i codici di lancio Invite-A-Friend. |
 | 21 ottobre 2026 | Termina la beta. La roadmap mostrata alla BlizzCon indicava il 22 ottobre. |

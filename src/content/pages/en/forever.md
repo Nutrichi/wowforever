@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: release date, beta, roadmap, Skyborne and editions"
 description: "Everything Blizzard has announced about World of Warcraft: Forever: the dates, the roadmap, the new zones, dungeons and raids, the Skyborne, the Legacy system and the editions."
 short: "WoW Forever"
-updated: 2026-09-29
+updated: 2026-10-01
 lang: en
 faq:
   - q: "What is World of Warcraft: Forever?"
@@ -69,7 +69,7 @@ World of Warcraft: Forever is the Classic+ that Blizzard announced at BlizzCon 2
 | Topic | Details |
 |---|---|
 | Launch | 4 November 2026, 15:00 Pacific time (00:00 Belgian time on 5 November) |
-| Beta | 17 September to 21 October 2026, level cap 20 and later 30 |
+| Beta | 17 September to 21 October 2026, level cap 20, and 30 from 1 October |
 | Level cap | 60, permanently |
 | At launch | More than 1,000 new quests, 9 new dungeons, new zones and the Skyborne race |
 | First raids | 9 December 2026 |
@@ -110,7 +110,8 @@ All dates come from Blizzard. Times are Pacific time, with Belgian time where it
 | Date | What happens |
 |---|---|
 | 12 September 2026 | Blizzard announces Forever at BlizzCon. Pre-purchase opens and Warcraft III Reforged: Forsaken Kingdom is released. |
-| 17 September 2026 | The beta starts for owners of the Skyborne Epic Pack, the Warcraft Forever Collection and the Collector's Edition, and for players picked from the opt-ins. The cap is level 20 at first and rises to 30 later. Blizzard holds a live Q&A the same day, at 10:00 Pacific time, 19:00 Belgian time. |
+| 17 September 2026 | The beta starts for owners of the Skyborne Epic Pack, the Warcraft Forever Collection and the Collector's Edition, and for players picked from the opt-ins. The cap is level 20 at first and rises to 30 on 1 October. Blizzard holds a live Q&A the same day, at 10:00 Pacific time, 19:00 Belgian time. |
+| 1 October 2026 | The beta goes offline for maintenance and returns hours later with a new build and a level cap of 30 ([more](/news/the-beta-level-cap-rises-from-20-to-30/)). |
 | 9 October 2026 | At PAX Aus in Melbourne, Clay Stone gives a deep dive into one of the new dungeons. Live on Twitch at 03:00 Belgian time ([more](/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 October 2026 | Invite-A-Friend launch codes start arriving by email. |
 | 21 October 2026 | The beta ends. The roadmap slide at BlizzCon showed 22 October. |
