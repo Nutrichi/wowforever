@@ -61,6 +61,20 @@ const news = defineCollection({
        * heeft de pil geen kleur en valt de post buiten elk filter.
        */
       category: z.enum(categoryKeys),
+      /*
+       * Een aflevering van de podcast van Blizzard (Nutri, 2 oktober 2026). Elke
+       * post met dit veld krijgt onderaan de lijst van alle afleveringen
+       * (`src/lib/podcast.ts`), zodat een nieuwe aflevering alleen een nieuwe
+       * post vraagt. `title` is de titel op YouTube en blijft Engels; de video
+       * zelf is `sourceUrl`.
+       */
+      podcast: z
+        .object({
+          episode: z.number().int().positive(),
+          title: z.string(),
+          minutes: z.number().int().positive(),
+        })
+        .optional(),
     }),
 });
 

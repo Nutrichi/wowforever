@@ -1,6 +1,6 @@
 ---
 title: "L’Excavation Site ouvre, City of Dalaran plus tard"
-description: "La nouvelle build de la bêta apporte un seul nouveau donjon, l’Excavation Site dans les Wetlands, pour les niveaux 24 à 29. Josh Greenfield a corrigé ses propos sur deux donjons."
+description: "La nouvelle build de la bêta apporte un seul nouveau donjon, l’Excavation Site dans les Wetlands, pour les niveaux 26 à 31. Josh Greenfield a corrigé ses propos sur deux donjons."
 date: 2026-10-01T22:30:00+02:00
 category: forever
 lang: fr
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-La bêta de World of Warcraft: Forever reçoit un seul nouveau donjon cette semaine : l’Excavation Site dans les Wetlands, pour les niveaux 24 à 29. Le City of Dalaran n’est pas dans la nouvelle build. Ce donjon arrive dans une mise à jour ultérieure de la bêta.
+La bêta de World of Warcraft: Forever reçoit un seul nouveau donjon cette semaine : l’Excavation Site dans les Wetlands, pour les niveaux 26 à 31. Blizzard indiquait auparavant 24 à 29 ; les notes de la build disent 26 à 31. Le City of Dalaran n’est pas dans la nouvelle build. Ce donjon arrive dans une mise à jour ultérieure de la bêta.
 
 Dans le deuxième épisode du podcast des développeurs, Josh Greenfield a dit que deux nouveaux donjons arrivaient cette semaine. Le senior game designer l’a corrigé sur X le 1er octobre à 18.26, heure belge, rapporte Wowhead :
 

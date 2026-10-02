@@ -19,6 +19,6 @@ Die Optionen sehen aus wie die bei der Charaktererstellung, schreibt Wowhead. Da
 
 Die hochauflösenden Modelle lassen sich im Barbershop ein- und ausschalten. Wer mit den alten Modellen spielt, bearbeitet seinen Charakter also in diesen Modellen, und wer die neuen nutzt, sieht jene.
 
-Wo die Barbershops stehen, ist nur teilweise bekannt. Stormwind ist bestätigt, schreibt Wowhead, und die Seite erwartet auch in den anderen Hauptstädten einen. Eine vollständige Liste gibt es nicht.
+Wo die Barbershops stehen, ist nur teilweise bekannt. Stormwind ist bestätigt, schreibt Wowhead, und die Seite erwartet auch in den anderen Hauptstädten einen. Eine vollständige Liste gibt es nicht. Seit dem Beta-Build vom 1. Oktober haben auch Darnassus und Thunder Bluff einen, jeder Barbershop hat Personal, und Stadtwachen weisen den Weg, sagt Blizzard in den Notes des Builds.
 
 Der Barbershop kam im modernen Spiel zuerst mit Wrath of the Lich King. Er kostete dort Gold, passend zum Level des Charakters, und dieser Preis fiel später weg. Ob er in Forever etwas kostet, ist nicht bestätigt.

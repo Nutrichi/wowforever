@@ -1,5 +1,5 @@
 ---
-title: "Hybrids deal about 5% less damage than pure specs"
+title: "Podcast episode 2 puts hybrids 5% below pure specs"
 description: "In the second developer podcast, three designers explain the damage budget, the return of Rage from crits, Shifting Power, Death Mark for Subtlety and why totem twisting stays out."
 date: 2026-10-02T04:30:00+02:00
 category: forever
@@ -11,6 +11,10 @@ sourceUrl: "https://www.youtube.com/watch?v=uDRcv_w85j8"
 tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
+podcast:
+  episode: 2
+  title: "Speed Running Classes ft. Sodapoppin"
+  minutes: 78
 ---
 Hybrid damage specs in World of Warcraft: Forever deal about 5% less damage than pure specs, says Principal Game Designer Kris Zierhut. He said it in the second developer podcast, about classes. Rogues are meant to deal the most single target damage.
 
@@ -25,6 +29,8 @@ The episode lasts 78 minutes and appeared on 1 October on the World of Warcraft 
     </span>
   </button>
 </figure>
+
+The full episode is on YouTube: [youtube.com/watch?v=uDRcv_w85j8](https://www.youtube.com/watch?v=uDRcv_w85j8). The first episode, about the start of the beta, appeared on 24 September: [Podcast episode 1 promises fewer blue rewards](/news/a-first-developer-podcast-promises-fewer-blues/).
 
 ## Three or four buttons
 

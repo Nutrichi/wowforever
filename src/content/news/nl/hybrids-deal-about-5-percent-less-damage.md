@@ -1,5 +1,5 @@
 ---
-title: "Hybrides doen zo'n 5% minder schade dan pure specs"
+title: "Podcastaflevering 2 kort hybrides 5% schade in"
 description: "In de tweede podcast van de ontwikkelaars leggen drie ontwerpers het schadebudget uit, de terugkeer van Rage uit crits, Shifting Power, Death Mark voor Subtlety en waarom totem twisting wegblijft."
 date: 2026-10-02T04:30:00+02:00
 category: forever
@@ -11,6 +11,10 @@ sourceUrl: "https://www.youtube.com/watch?v=uDRcv_w85j8"
 tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
+podcast:
+  episode: 2
+  title: "Speed Running Classes ft. Sodapoppin"
+  minutes: 78
 manual: true
 ---
 Hybride damagespecs in World of Warcraft: Forever doen ongeveer 5% minder schade dan pure specs, zegt Principal Game Designer Kris Zierhut. Hij zei het in de tweede podcast van de ontwikkelaars, over classes. Rogues moeten de meeste single target damage doen.
@@ -26,6 +30,8 @@ De aflevering duurt 78 minuten en verscheen op 1 oktober op het kanaal van World
     </span>
   </button>
 </figure>
+
+De volledige aflevering staat op YouTube: [youtube.com/watch?v=uDRcv_w85j8](https://www.youtube.com/watch?v=uDRcv_w85j8). De eerste aflevering, over de start van de beta, verscheen op 24 september: [Podcastaflevering 1 belooft minder blauw](/nl/news/a-first-developer-podcast-promises-fewer-blues/).
 
 ## Drie of vier knoppen
 

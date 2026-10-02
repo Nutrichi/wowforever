@@ -1,5 +1,5 @@
 ---
-title: "Een eerste podcast van de ontwikkelaars belooft minder blauw"
+title: "Podcastaflevering 1 belooft minder blauw"
 description: "In de eerste aflevering van de wekelijkse podcast praten Tim Jones en Josh Greenfield met Xaryu over de Skyborne, layering, de interface en hoe snel levelen echt gaat."
 date: 2026-09-24T19:15:00+02:00
 category: forever
@@ -11,6 +11,10 @@ sourceUrl: "https://www.youtube.com/watch?v=m49-jvGPCkA"
 tags: ["forever", "beta", "leveling"]
 featured: false
 draft: false
+podcast:
+  episode: 1
+  title: "Unpacking Beta Launch ft. Xaryu"
+  minutes: 63
 manual: true
 ---
 Blizzard heeft de eerste aflevering uitgebracht van zijn wekelijkse podcast over World of Warcraft: Forever. Twee ontwikkelaars praten met streamer Xaryu over de beta. De volgende build geeft minder blauwe questbeloningen in dungeons, zegt Lead Classic Designer Tim Jones.
@@ -24,6 +28,8 @@ Blizzard heeft de eerste aflevering uitgebracht van zijn wekelijkse podcast over
     </span>
   </button>
 </figure>
+
+De volledige aflevering staat op YouTube: [youtube.com/watch?v=m49-jvGPCkA](https://www.youtube.com/watch?v=m49-jvGPCkA).
 
 De aflevering duurt 63 minuten en verscheen op 24 september op het officiële kanaal van World of Warcraft. Josh Corbett van Countdown to Classic presenteert. Naast Jones zit Senior Game Designer Josh Greenfield, bekend als Aggrend. De podcast komt [elke week zolang de beta loopt](/nl/news/wow-forever-beta-is-live/).
 

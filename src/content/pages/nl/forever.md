@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-10-01
+updated: 2026-10-02
 lang: nl
 manual: true
 faq:
@@ -112,7 +112,7 @@ Alle datums komen van Blizzard. Tijden staan in Pacific time, met de Belgische t
 |---|---|
 | 12 september 2026 | Blizzard kondigt Forever aan op BlizzCon. De voorverkoop begint en Warcraft III Reforged: Forsaken Kingdom verschijnt. |
 | 17 september 2026 | De beta start voor wie het Skyborne Epic Pack, de Warcraft Forever Collection of de Collector's Edition heeft, en voor spelers die uit de aanmeldingen gekozen worden. De grens ligt eerst op level 20 en gaat op 1 oktober naar 30. Blizzard houdt diezelfde dag een live Q&A, om 10.00 uur Pacific time, 19.00 uur Belgische tijd. |
-| 1 oktober 2026 | De beta gaat offline voor onderhoud en komt uren later terug met een nieuwe build en een levelgrens van 30 ([meer](/nl/news/the-beta-level-cap-rises-from-20-to-30/)). |
+| 1 oktober 2026 | De beta gaat offline voor onderhoud en komt uren later terug met een nieuwe build en een levelgrens van 30 ([meer](/nl/news/the-beta-level-cap-rises-from-20-to-30/)). Razorfen Downs, Uldaman en de nieuwe Excavation Site gaan ermee open. |
 | 9 oktober 2026 | Op PAX Aus in Melbourne toont Clay Stone een van de nieuwe dungeons. Live op Twitch om 03.00 uur Belgische tijd ([meer](/nl/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 oktober 2026 | De Invite-A-Friend-lanceringscodes komen per mail. |
 | 21 oktober 2026 | De beta eindigt. De roadmap op BlizzCon toonde 22 oktober. |
@@ -185,11 +185,11 @@ Associate Production Director Clay Stone zei dat de kunststijl van Classic tijdl
 
 De ervaringscurve verandert niet: een personage heeft evenveel nodig voor level 60 als in het oorspronkelijke Classic, zei Blizzard tegen The Sun. Wat verandert, is waar die ervaring vandaan komt, want de nieuwe zones leggen routes aan die het oorspronkelijke spel niet had. The Riverglades en Shen'dralas liggen in het stuk waar het levelen trager gaat, en Mount Hyjal ligt dicht bij 60.
 
-Dungeons werken anders. Ervaring uit monsters in een dungeon gaat omlaag, ervaring uit de dungeonquests gaat fors omhoog. Een eerste run door een dungeon loont, een herhaling veel minder. Blizzard wil spelers in de wereld in plaats van in dezelfde dungeon.
+Dungeons werken anders. Ervaring uit monsters in een dungeon gaat omlaag, ervaring uit de dungeonquests gaat fors omhoog. Een eerste run door een dungeon loont, een herhaling veel minder. Blizzard wil spelers in de wereld in plaats van in dezelfde dungeon. Sinds de beta-build van 1 oktober geven dungeonquests 50% minder van die extra experience, omdat testers te snel levelden.
 
 Per saldo komt het op hetzelfde uit. Van level 1 naar 20 duurt gemiddeld 20,5 uur in Forever tegenover 20,4 in Classic Era, zegt Josh Greenfield in de [eerste podcast van de ontwikkelaars](/nl/news/a-first-developer-podcast-promises-fewer-blues/). De volgende build van de beta geeft ook minder blauwe questbeloningen in dungeons, zodat de stap van wit naar groen naar blauw aanvoelt zoals in Classic, zegt Tim Jones.
 
-Er komt geen WoW Token en geen boost, zei Associate Production Director Clay Stone in een interview met Destin. Het inhaalsysteem blijft "speel het spel".
+Er komt geen WoW Token en geen boost, zei Associate Production Director Clay Stone in een interview met Destin. Het inhaalsysteem blijft "speel het spel". Goud dat voor echt geld gekocht is, kost het goud, een schorsing of het account, en het spel toont een waarschuwing bij elke handel met een onbekende, zei Blizzard op 1 oktober.
 
 Drie nieuwe scheepsroutes verbinden delen van de wereld die eerder geen verbinding hadden:
 
@@ -209,7 +209,7 @@ De levelbereiken komen van Blizzard, dat de volledige lijst op 14 september 2026
 |---|---|---|
 | The Hall of Thanes | 13 tot 18 | De Hall is doorbroken en de Alliance beschermt de oude schatten, die de Horde misschien zelf wil. Hij ligt in Old Ironforge onder de High Seat, met vier bazen en vijf quests: [de walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) en [de gids](/nl/guides/dungeons/hall-of-thanes/). |
 | Ruins of Lordaeron | 15 tot 20 | De verwoeste hoofdstad boven de Undercity, nog vol Scourge. De Horde vecht om ze terug te nemen, en ook de Alliance heeft er quests. Zes bazen in willekeurige volgorde: [de walkthrough](/nl/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) en [de gids](/nl/guides/dungeons/ruins-of-lordaeron/). |
-| Excavation Site: Wetlands | 24 tot 29 | Een opgraving van de Explorers' League in de Wetlands. |
+| Excavation Site: Wetlands | 26 tot 31 | Een opgraving van de Explorers' League in de Wetlands. Sinds 1 oktober open in de beta. |
 | City of Dalaran | 28 tot 33 | Een stadsdungeon. De barrière van na Warcraft III is weg, maar de Kirin Tor hebben de stad niet onder controle. De Alliance gaat erin via de Dalaran Sewers, de Horde van buiten met de Dalaran Sewer Key ([meer](/nl/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). |
 | The Drowned City | 35 tot 40 | Een oude trollenruïne voor de kust van Stranglethorn Vale, speelbaar op de beursvloer van BlizzCon. |
 | Krol'dok Stronghold | 40 tot 45 | Een orcbolwerk. |
@@ -291,7 +291,7 @@ Ook de racials zijn herwerkt. Elk ras heeft nu vier racials, de resistance-racia
 
 Levelen van 1 tot 60 is het hart van Classic, en het Legacy-systeem beloont spelers die meer dan één personage levelen. Legacy Challenges zijn doelen in zes categorieën: verkennen, classes levelen, tradeskills verhogen, PvP-ranks halen, reputaties maximaal maken, en dungeons en raids afwerken.
 
-Elke voltooide challenge geeft één Legacy Point. Punten gaan in een Legacy-boom met drie takken, en elke perk werkt voor elk personage op het account. De meeste perks zijn passief, enkele moet je activeren, en geen enkele geeft kracht in gevechten. Een personage van level 38 op de beursvloer had 4 punten te besteden, en verschillende knopen stonden op "to be added in future patch content".
+Elke voltooide challenge geeft één Legacy Point. Punten gaan in een Legacy-boom met drie takken, en elke perk werkt voor elk personage op het account. De meeste perks zijn passief, enkele moet je activeren, en geen enkele geeft kracht in gevechten. Een personage van level 38 op de beursvloer had 4 punten te besteden, en verschillende knopen stonden op "to be added in future patch content". In een latere week van de beta krijgt elke tester 16 Legacy-punten om het systeem te testen, tot het einde van de beta.
 
 ### Adventure
 
@@ -327,6 +327,7 @@ Tradeskills krijgen hun eerste echte herziening. In Classic gaf een tradeskill a
 - The Darkspear Islands is een nieuwe battleground voor 15 tegen 15, vergelijkbaar met Eye of the Storm, met veroverpunten zoals in Arathi Basin.
 - Het PvP- en Honor-systeem wordt vernieuwd, met nieuwe PvP-seizoenen in de lente en de zomer van 2027.
 - PvP-ranks tellen mee voor Legacy Challenges.
+- Op de beta werd de Honor-kost van PvP-gear op 1 oktober ongeveer 50% hoger, en de Honor-cap ging van 15.000 naar 25.000.
 
 Hardcore komt naar Forever, maar niet bij de lancering. Blizzard zei op het Hardcore-panel van 13 september dat de modus kort na de lancering volgt, zonder datum en zonder patch. De roadmap van BlizzCon zet de lancering van WoW Forever Hardcore in het winterblok, na de raids van 9 december.
 

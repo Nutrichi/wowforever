@@ -142,6 +142,12 @@ export const ui = {
     'post.like': 'Like this post',
     'post.liked': 'You liked this post',
 
+    'podcast.title': 'The WoW: Forever Podcast',
+    'podcast.intro': 'Every episode, newest first, with the full video on YouTube.',
+    'podcast.episode': 'Episode {n}',
+    'podcast.current': 'this post',
+    'podcast.minutes': '{n} minutes',
+
     'gallery.close': 'Close',
     'gallery.prev': 'Previous image',
     'gallery.next': 'Next image',
@@ -269,6 +275,12 @@ export const ui = {
     'post.source': 'Bron:',
     'post.like': 'Deze post liken',
     'post.liked': 'Je vindt deze post leuk',
+
+    'podcast.title': 'The WoW: Forever Podcast',
+    'podcast.intro': 'Elke aflevering, de nieuwste eerst, met de volledige video op YouTube.',
+    'podcast.episode': 'Aflevering {n}',
+    'podcast.current': 'deze post',
+    'podcast.minutes': '{n} minuten',
 
     'gallery.close': 'Sluiten',
     'gallery.prev': 'Vorig beeld',
@@ -398,6 +410,12 @@ export const ui = {
     'post.like': 'Aimer cet article',
     'post.liked': 'Vous aimez cet article',
 
+    'podcast.title': 'The WoW: Forever Podcast',
+    'podcast.intro': 'Tous les épisodes, du plus récent au plus ancien, avec la vidéo complète sur YouTube.',
+    'podcast.episode': 'Épisode {n}',
+    'podcast.current': 'cet article',
+    'podcast.minutes': '{n} minutes',
+
     'gallery.close': 'Fermer',
     'gallery.prev': 'Image précédente',
     'gallery.next': 'Image suivante',
@@ -525,6 +543,12 @@ export const ui = {
     'post.source': 'Fuente:',
     'post.like': 'Dar me gusta a esta entrada',
     'post.liked': 'Te gusta esta entrada',
+
+    'podcast.title': 'The WoW: Forever Podcast',
+    'podcast.intro': 'Todos los episodios, del más reciente al más antiguo, con el vídeo completo en YouTube.',
+    'podcast.episode': 'Episodio {n}',
+    'podcast.current': 'esta entrada',
+    'podcast.minutes': '{n} minutos',
 
     'gallery.close': 'Cerrar',
     'gallery.prev': 'Imagen anterior',
@@ -654,6 +678,12 @@ export const ui = {
     'post.like': 'Metti mi piace a questo articolo',
     'post.liked': 'Ti piace questo articolo',
 
+    'podcast.title': 'The WoW: Forever Podcast',
+    'podcast.intro': 'Tutti gli episodi, dal più recente, con il video completo su YouTube.',
+    'podcast.episode': 'Episodio {n}',
+    'podcast.current': 'questo articolo',
+    'podcast.minutes': '{n} minuti',
+
     'gallery.close': 'Chiudi',
     'gallery.prev': 'Immagine precedente',
     'gallery.next': 'Immagine successiva',
@@ -781,6 +811,12 @@ export const ui = {
     'post.source': 'Quelle:',
     'post.like': 'Diesen Beitrag liken',
     'post.liked': 'Du magst diesen Beitrag',
+
+    'podcast.title': 'The WoW: Forever Podcast',
+    'podcast.intro': 'Alle Folgen, die neueste zuerst, mit dem ganzen Video auf YouTube.',
+    'podcast.episode': 'Folge {n}',
+    'podcast.current': 'dieser Beitrag',
+    'podcast.minutes': '{n} Minuten',
 
     'gallery.close': 'Schließen',
     'gallery.prev': 'Vorheriges Bild',

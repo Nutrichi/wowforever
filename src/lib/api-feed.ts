@@ -22,6 +22,8 @@ import { render } from 'astro:content';
 import { experimental_AstroContainer as AstroContainer } from 'astro/container';
 import { heroImage } from './post-image';
 import type { Post } from './posts';
+import type { Locale } from '../i18n/ui';
+import { podcastSeries } from './podcast';
 
 /** Verhoog dit alleen samen met een nieuwe map /api/vN. */
 export const API_SCHEMA = 1;
@@ -66,6 +68,33 @@ function getContainer() {
  */
 function absolutise(html: string, site: URL): string {
   return html.replace(/(\s(?:src|href)=")\/(?!\/)/g, `$1${site.origin}/`);
+}
+
+/**
+ * De tekst zo maken dat ook de app die al in de App Store staat hem goed toont
+ * (Nutri, 2 oktober 2026: de post over Enhancement zag er in de app vreemd uit
+ * en de video speelde niet).
+ *
+ * 1. Het icoon bij een Wowhead-link (`wf-wh__icon`). De app zet elk `img` als
+ *    blok over de volle breedte met marge, dus elk icoontje brak de zin in
+ *    stukken. Een stijl op het element zelf wint van die regel.
+ * 2. De video. De app laadt het artikel uit een bestand, dus YouTube krijgt geen
+ *    verwijzer en weigert de speler. De knop wordt een link naar YouTube met
+ *    dezelfde opmaak: een tik in de app opent YouTube. Het attribuut
+ *    `data-wf-video` blijft staan, zodat een nieuwere app de tik kan opvangen en
+ *    de video toch in het artikel speelt.
+ */
+export function forApp(html: string): string {
+  return html
+    .replace(
+      /<img class="wf-wh__icon"/g,
+      '<img class="wf-wh__icon" style="display:inline-block;width:18px;height:18px;margin:0 4px 0 0;border:0;border-radius:3px;vertical-align:-3px"',
+    )
+    .replace(
+      /(<figure class="wf-embed" data-wf-video="([\w-]+)">\s*)<button type="button" class="wf-embed__play">([\s\S]*?)<\/button>/g,
+      (_m, open: string, id: string, inner: string) =>
+        `${open}<a class="wf-embed__play" style="text-decoration:none" href="https://www.youtube.com/watch?v=${id}">${inner}</a>`,
+    );
 }
 
 /**
@@ -150,15 +179,17 @@ export async function summaryOf(post: Post, site: URL) {
 }
 
 /** Het volledige artikel. Eén keer ophalen per post, daarna nooit meer. */
-export async function detailOf(post: Post, site: URL) {
+export async function detailOf(post: Post, site: URL, locale: Locale = post.lang) {
   const { Content } = await render(post.entry);
-  const html = await (await getContainer()).renderToString(Content);
+  /* Bij een aflevering van de podcast de lijst van alle afleveringen erachter, net als op de site. */
+  const series = await podcastSeries(post, locale);
+  const html = (await (await getContainer()).renderToString(Content)) + (series ?? '');
 
   return {
     ...(await summaryOf(post, site)),
     source: post.source ?? null,
     sourceUrl: post.sourceUrl ?? null,
-    bodyHtml: absolutise(html, site),
+    bodyHtml: forApp(absolutise(html, site)),
   };
 }
 

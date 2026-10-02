@@ -25,6 +25,6 @@ Il primo annuncio, sui forum americani, parlava della mattina nell'ora del Pacif
 
 ## Cosa porta la build
 
-La build porta [il livello massimo da 20 a 30](/it/news/the-beta-level-cap-rises-from-20-to-30/). Apre anche la Excavation Site, un nuovo dungeon nelle Wetlands per i livelli da 24 a 29, ha annunciato Josh Greenfield secondo Wowhead. La [City of Dalaran](/it/guides/dungeons/) non è in questa build e arriverà in un aggiornamento successivo della beta.
+La build porta [il livello massimo da 20 a 30](/it/news/the-beta-level-cap-rises-from-20-to-30/). Apre anche la Excavation Site, un nuovo dungeon nelle Wetlands per i livelli da 24 a 29, ha annunciato Josh Greenfield secondo Wowhead. Le note della build hanno poi collocato il dungeon ai livelli da 26 a 31. La [City of Dalaran](/it/guides/dungeons/) non è in questa build e arriverà in un aggiornamento successivo della beta.
 
 Questa settimana diventa giocabile anche un nuovo battleground, scrive Wowhead. Quale sia, non è ancora noto. Blizzard non ha ancora pubblicato le note di sviluppo della build.

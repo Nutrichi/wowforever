@@ -22,3 +22,5 @@ De ervaringscurve zelf verandert niet. Een personage heeft evenveel ervaring nod
 Hoeveel lager de ervaring uit monsters ligt, of hoeveel hoger die uit de quests, zegt Blizzard niet.
 
 De beta geeft een eerste idee. In The Hall of Thanes geeft een monster 28 tot 30 ervaring en elk van de vijf quests 3.900 tot 4.900, schrijft Wowhead in zijn [walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Levelen als geheel gaat niet sneller: van 1 naar 20 duurt gemiddeld 20,5 uur in Forever tegenover 20,4 in Classic Era, zegt Josh Greenfield in de [eerste podcast van de ontwikkelaars](/nl/news/a-first-developer-podcast-promises-fewer-blues/).
+
+Sinds de beta-build van 1 oktober geven dungeonquests 50% minder van die extra experience. Testers levelden te snel, zegt Blizzard in de notes van de build.

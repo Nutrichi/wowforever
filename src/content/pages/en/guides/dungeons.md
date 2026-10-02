@@ -3,22 +3,22 @@ title: "Dungeon guide: every dungeon quest in WoW Forever"
 metaTitle: "WoW Forever dungeon quests: every dungeon, level and quest giver"
 description: "Every dungeon of WoW Forever with its levels and all its quests: where each quest starts, for which faction, what it needs first, and the keys some dungeons ask for."
 short: "Dungeons"
-updated: 2026-09-29
+updated: 2026-10-02
 lang: en
 faq:
   - q: "Which dungeons are in WoW Forever?"
-    a: "The dungeons of Classic, from Ragefire Chasm to Upper Blackrock Spire, plus nine new ones. The Hall of Thanes and the Ruins of Lordaeron are on the beta; the other seven follow at higher levels."
+    a: "The dungeons of Classic, from Ragefire Chasm to Upper Blackrock Spire, plus nine new ones. The Hall of Thanes, the Ruins of Lordaeron and the Excavation Site are on the beta; the other six follow at higher levels."
   - q: "What is the first dungeon in WoW Forever?"
     a: "Ragefire Chasm for the Horde, with quests from level 9, and the Hall of Thanes for the Alliance, for levels 13 to 18. The Ruins of Lordaeron, for 15 to 20, is the first new dungeon in Horde territory."
   - q: "Do dungeon quests still give a lot of experience?"
-    a: "Yes, more than before. Blizzard lowered the experience from monsters in dungeons and raised it for dungeon quests, so a first run with all its quests pays off most."
+    a: "Yes, more than before. Blizzard lowered the experience from monsters in dungeons and raised it for dungeon quests, so a first run with all its quests pays off most. Since the beta build of 1 October, that extra experience from dungeon quests is 50% lower."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 ---
 Dungeon quests are the biggest boost of a dungeon run in WoW Forever: Blizzard lowered the experience from monsters inside and raised it for the quests. This guide lists every dungeon with the level to go in, and every quest: where it starts, for which faction, and what it needs first.
 
-The beta of WoW Forever goes up to level 20. For the dungeons above that, the quests come from the data of Classic and can still change. The rows of the Hall of Thanes and the Ruins of Lordaeron are checked against the quest pages of the beta.
+The beta of WoW Forever goes up to level 30 since 1 October. For the dungeons above that, the quests come from the data of Classic and can still change. The rows of the Hall of Thanes and the Ruins of Lordaeron are checked against the quest pages of the beta.
 
 ## Guides per dungeon
 
@@ -38,7 +38,7 @@ For the dungeons of Classic, the three numbers are the level at which the dungeo
 | The Deadmines | 14 / 19 / 24 | 7 |
 | Shadowfang Keep | 18 / 23 / 28 | 5 |
 | Blackfathom Deeps | 21 / 25 / 30 | 13 |
-| Excavation Site: Wetlands | 24 to 29 | not known yet |
+| Excavation Site: Wetlands | 26 to 31 | not known yet |
 | The Stockade | 22 / 26 / 30 | 6 |
 | City of Dalaran | 28 to 33 | not known yet |
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
@@ -479,11 +479,11 @@ At least one player needs the Seal of Ascension to enter.
 
 ## New dungeons without quests yet
 
-Seven new dungeons of Forever are not on the beta yet, so their quests are not known. The ranges are those of Blizzard.
+Six new dungeons of Forever are not on the beta yet, so their quests are not known. The Excavation Site opened on the beta on 1 October; its quests are not in this guide yet. The ranges are those of Blizzard.
 
 | Dungeon | Levels |
 |---|---|
-| Excavation Site: Wetlands | 24 to 29 |
+| Excavation Site: Wetlands | 26 to 31 |
 | City of Dalaran | 28 to 33 |
 | The Drowned City | 35 to 40 |
 | Krol'dok Stronghold | 40 to 45 |

@@ -19,6 +19,6 @@ De keuzes zien eruit als die bij het aanmaken van een personage, schrijft Wowhea
 
 De high-definitionmodellen gaan in de barbershop aan en uit. Wie met de oude modellen speelt, past zijn personage dus in die modellen aan, en wie de nieuwe gebruikt, ziet die.
 
-Waar de barbershops staan, is maar deels bekend. Stormwind is bevestigd, schrijft Wowhead, en de site verwacht er ook een in de andere hoofdsteden. Een volledige lijst is er niet.
+Waar de barbershops staan, is maar deels bekend. Stormwind is bevestigd, schrijft Wowhead, en de site verwacht er ook een in de andere hoofdsteden. Een volledige lijst is er niet. Sinds de beta-build van 1 oktober hebben ook Darnassus en Thunder Bluff er een, heeft elke barbershop kappers, en wijzen stadswachten de weg, zegt Blizzard in de notes van de build.
 
 De barbershop kwam in het moderne spel voor het eerst met Wrath of the Lich King. Hij kostte daar goud, meegroeiend met het level van het personage, en die kost verdween later. Of hij in Forever iets kost, is niet bevestigd.

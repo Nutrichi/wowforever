@@ -3,23 +3,23 @@ title: "Guía de mazmorras: cada misión de mazmorra en WoW Forever"
 metaTitle: "Misiones de mazmorra de WoW Forever: cada mazmorra, nivel y PNJ"
 description: "Cada mazmorra de WoW Forever con sus niveles y todas sus misiones: dónde empieza cada una, para qué facción, qué hace falta antes, y las llaves que piden algunas mazmorras."
 short: "Mazmorras"
-updated: 2026-09-29
+updated: 2026-10-02
 lang: es
 manual: true
 faq:
   - q: "¿Qué mazmorras hay en WoW Forever?"
-    a: "Las mazmorras de Classic, de Ragefire Chasm a Upper Blackrock Spire, más nueve nuevas. The Hall of Thanes y Ruins of Lordaeron están en la beta; las otras siete llegan a niveles más altos."
+    a: "Las mazmorras de Classic, de Ragefire Chasm a Upper Blackrock Spire, más nueve nuevas. The Hall of Thanes, Ruins of Lordaeron y la Excavation Site están en la beta; las otras seis llegan a niveles más altos."
   - q: "¿Cuál es la primera mazmorra de WoW Forever?"
     a: "Ragefire Chasm para la Horde, con misiones desde el nivel 9, y The Hall of Thanes para la Alliance, para los niveles 13 a 18. Ruins of Lordaeron, para 15 a 20, es la primera mazmorra nueva en territorio de la Horde."
   - q: "¿Siguen dando mucha experiencia las misiones de mazmorra?"
-    a: "Sí, más que antes. Blizzard redujo la experiencia de los monstruos en mazmorras y subió la de las misiones de mazmorra, así que una primera vuelta con todas sus misiones es la que más rinde."
+    a: "Sí, más que antes. Blizzard redujo la experiencia de los monstruos en mazmorras y subió la de las misiones de mazmorra, así que una primera vuelta con todas sus misiones es la que más rinde. Desde la build de la beta del 1 de octubre, esa experiencia extra de las misiones de mazmorra es un 50 % menor."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 ---
 Las misiones de mazmorra son la mayor ganancia de una vuelta por una mazmorra en WoW Forever: Blizzard redujo la experiencia de los monstruos de dentro y subió la de las misiones. Esta guía reúne cada mazmorra con el nivel para entrar, y cada misión: dónde empieza, para qué facción y qué hace falta antes.
 
-La beta de WoW Forever llega hasta el nivel 20. Para las mazmorras por encima, las misiones vienen de los datos de Classic y aún pueden cambiar. Las filas de The Hall of Thanes y Ruins of Lordaeron están comprobadas con las páginas de misión de la beta.
+La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las mazmorras por encima, las misiones vienen de los datos de Classic y aún pueden cambiar. Las filas de The Hall of Thanes y Ruins of Lordaeron están comprobadas con las páginas de misión de la beta.
 
 ## Guías por mazmorra
 
@@ -39,7 +39,7 @@ Para las mazmorras de Classic, los tres números son el nivel en que la mazmorra
 | The Deadmines | 14 / 19 / 24 | 7 |
 | Shadowfang Keep | 18 / 23 / 28 | 5 |
 | Blackfathom Deeps | 21 / 25 / 30 | 13 |
-| Excavation Site: Wetlands | 24 a 29 | aún no se conocen |
+| Excavation Site: Wetlands | 26 a 31 | aún no se conocen |
 | The Stockade | 22 / 26 / 30 | 6 |
 | City of Dalaran | 28 a 33 | aún no se conocen |
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
@@ -480,11 +480,11 @@ Al menos un jugador necesita el Seal of Ascension para entrar.
 
 ## Mazmorras nuevas sin misiones conocidas
 
-Siete mazmorras nuevas de Forever aún no están en la beta, así que sus misiones no se conocen. Los niveles son los de Blizzard.
+Seis mazmorras nuevas de Forever aún no están en la beta, así que sus misiones no se conocen. La Excavation Site abrió en la beta el 1 de octubre; sus misiones aún no están en esta guía. Los niveles son los de Blizzard.
 
 | Mazmorra | Niveles |
 |---|---|
-| Excavation Site: Wetlands | 24 a 29 |
+| Excavation Site: Wetlands | 26 a 31 |
 | City of Dalaran | 28 a 33 |
 | The Drowned City | 35 a 40 |
 | Krol'dok Stronghold | 40 a 45 |

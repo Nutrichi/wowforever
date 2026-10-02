@@ -1,6 +1,6 @@
 ---
 title: "Abre la Excavation Site, City of Dalaran más tarde"
-description: "La nueva build de la beta trae una sola mazmorra nueva, la Excavation Site en los Wetlands, para los niveles 24 a 29. Josh Greenfield corrigió lo que dijo sobre dos."
+description: "La nueva build de la beta trae una sola mazmorra nueva, la Excavation Site en los Wetlands, para los niveles 26 a 31. Josh Greenfield corrigió lo que dijo sobre dos."
 date: 2026-10-01T22:30:00+02:00
 category: forever
 lang: es
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-La beta de World of Warcraft: Forever recibe esta semana una sola mazmorra nueva: la Excavation Site en los Wetlands, para los niveles 24 a 29. La City of Dalaran no está en la nueva build. Esa mazmorra llegará en una actualización posterior de la beta.
+La beta de World of Warcraft: Forever recibe esta semana una sola mazmorra nueva: la Excavation Site en los Wetlands, para los niveles 26 a 31. Blizzard indicaba antes 24 a 29; las notas de la build dicen 26 a 31. La City of Dalaran no está en la nueva build. Esa mazmorra llegará en una actualización posterior de la beta.
 
 En el segundo episodio del podcast de los desarrolladores, Josh Greenfield dijo que esta semana llegaban dos mazmorras nuevas. El senior game designer lo corrigió en X el 1 de octubre a las 18.26, hora belga, informa Wowhead:
 

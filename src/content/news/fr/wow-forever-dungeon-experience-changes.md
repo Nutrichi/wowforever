@@ -22,3 +22,5 @@ La courbe d'expérience elle-même ne change pas. Un personnage a besoin d'autan
 De combien baisse l'expérience des monstres, et de combien monte celle des quêtes, Blizzard ne le dit pas.
 
 La bêta donne une première idée. Dans The Hall of Thanes, un monstre rapporte 28 à 30 points d’expérience et chacune des cinq quêtes 3 900 à 4 900, écrit Wowhead dans son [guide](/fr/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Le levelling dans son ensemble n’est pas plus rapide : passer de 1 à 20 prend en moyenne 20,5 heures dans Forever contre 20,4 dans Classic Era, dit Josh Greenfield dans le [premier podcast des développeurs](/fr/news/a-first-developer-podcast-promises-fewer-blues/).
+
+Depuis la build de la bêta du 1er octobre, les quêtes de donjon donnent 50 % de moins de cette expérience supplémentaire. Les testeurs montaient trop vite, dit Blizzard dans les notes de la build.

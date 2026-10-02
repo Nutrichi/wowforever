@@ -1,6 +1,6 @@
 ---
 title: "Apre la Excavation Site, City of Dalaran dopo"
-description: "La nuova build della beta porta un solo nuovo dungeon, la Excavation Site nelle Wetlands, per i livelli da 24 a 29. Josh Greenfield ha corretto quanto detto su due dungeon."
+description: "La nuova build della beta porta un solo nuovo dungeon, la Excavation Site nelle Wetlands, per i livelli da 26 a 31. Josh Greenfield ha corretto quanto detto su due dungeon."
 date: 2026-10-01T22:30:00+02:00
 category: forever
 lang: it
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-La beta di World of Warcraft: Forever riceve questa settimana un solo nuovo dungeon: la Excavation Site nelle Wetlands, per i livelli da 24 a 29. La City of Dalaran non è nella nuova build. Quel dungeon arriverà in un aggiornamento successivo della beta.
+La beta di World of Warcraft: Forever riceve questa settimana un solo nuovo dungeon: la Excavation Site nelle Wetlands, per i livelli da 26 a 31. Blizzard indicava prima i livelli da 24 a 29; le note della build dicono da 26 a 31. La City of Dalaran non è nella nuova build. Quel dungeon arriverà in un aggiornamento successivo della beta.
 
 Nel secondo episodio del podcast degli sviluppatori, Josh Greenfield ha detto che questa settimana sarebbero arrivati due nuovi dungeon. Il senior game designer l'ha corretto su X il 1° ottobre alle 18.26 ora belga, riporta Wowhead:
 

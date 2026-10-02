@@ -24,6 +24,6 @@ The first announcement, on the American forums, spoke of the morning in Pacific 
 
 ## What the build brings
 
-The build raises [the level cap from 20 to 30](/news/the-beta-level-cap-rises-from-20-to-30/). It also opens the Excavation Site, a new dungeon in the Wetlands for levels 24 to 29, Josh Greenfield announced according to Wowhead. The [City of Dalaran](/guides/dungeons/) is not in this build and follows in a later beta update.
+The build raises [the level cap from 20 to 30](/news/the-beta-level-cap-rises-from-20-to-30/). It also opens the Excavation Site, a new dungeon in the Wetlands for levels 24 to 29, Josh Greenfield announced according to Wowhead. The notes of the build later put the dungeon at levels 26 to 31. The [City of Dalaran](/guides/dungeons/) is not in this build and follows in a later beta update.
 
 One new battleground also becomes playable this week, Wowhead writes. Which battleground that is, is not known yet. Blizzard has not yet published the development notes of the build.

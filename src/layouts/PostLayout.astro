@@ -25,6 +25,7 @@ import CategoryBadge from '../components/CategoryBadge.astro';
 import PostImage from '../components/PostImage.astro';
 import LikeButton from '../components/LikeButton.astro';
 import { publisherJsonLd } from '../lib/structured-data';
+import { podcastSeries } from '../lib/podcast';
 
 interface Props {
   post: Post;
@@ -34,6 +35,8 @@ interface Props {
 const { post, locale } = Astro.props;
 const t = useTranslations(locale);
 const { Content } = await render(post.entry);
+/* De lijst van alle afleveringen, alleen bij een post over de podcast. */
+const series = await podcastSeries(post, locale);
 
 const category = categories[post.category];
 /*
@@ -120,6 +123,7 @@ const jsonLd = {
 
       <div class="wf-prose">
         <Content />
+        {series && <Fragment set:html={series} />}
       </div>
 
       <div class="wf-post__like" data-pagefind-ignore>
@@ -239,6 +243,21 @@ const jsonLd = {
    * blauwe post, liep daardoor aan elkaar.
    */
   .wf-prose :global(blockquote p + p) { margin-top: 12px; }
+
+  /* De lijst van de podcast (src/lib/podcast.ts): een kader in de huisstijl, onder de tekst. */
+  .wf-prose :global(.wf-podcast) {
+    margin-top: 12px;
+    padding: 18px 20px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card-sm);
+    background: var(--wf-raised-soft);
+  }
+  .wf-prose :global(.wf-podcast h2) { margin: 0 0 6px; font-size: 21px; }
+  .wf-prose :global(.wf-podcast p) { margin: 0 0 12px; color: var(--wf-muted); font-size: 15px; }
+  .wf-prose :global(.wf-podcast ul) { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 14px; }
+  .wf-prose :global(.wf-podcast li) { margin: 0; line-height: 1.5; overflow-wrap: anywhere; }
+  .wf-prose :global(.wf-podcast__meta),
+  .wf-prose :global(.wf-podcast__here) { color: var(--wf-muted); font-size: 14px; }
 
   .wf-prose :global(img) {
     border-radius: var(--wf-r-card-sm);

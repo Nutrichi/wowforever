@@ -1,5 +1,5 @@
 ---
-title: "Hybride machen rund 5 % weniger Schaden"
+title: "Podcastfolge 2 nimmt Hybriden 5 % Schaden"
 description: "Im zweiten Podcast der Entwickler erklären drei Designer das Schadensbudget, die Rückkehr der Rage aus Crits, Shifting Power, Death Mark für Subtlety und warum Totem Twisting draußen bleibt."
 date: 2026-10-02T04:30:00+02:00
 category: forever
@@ -11,6 +11,10 @@ sourceUrl: "https://www.youtube.com/watch?v=uDRcv_w85j8"
 tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
+podcast:
+  episode: 2
+  title: "Speed Running Classes ft. Sodapoppin"
+  minutes: 78
 manual: true
 ---
 Hybride Schadensspezialisierungen in World of Warcraft: Forever machen rund 5 % weniger Schaden als reine, sagt Principal Game Designer Kris Zierhut. Er sagte es im zweiten Podcast der Entwickler, über die Klassen. Rogues sollen den meisten Schaden auf ein Ziel machen.
@@ -26,6 +30,8 @@ Die Folge dauert 78 Minuten und erschien am 1. Oktober auf dem Kanal von World o
     </span>
   </button>
 </figure>
+
+Die ganze Folge steht auf YouTube: [youtube.com/watch?v=uDRcv_w85j8](https://www.youtube.com/watch?v=uDRcv_w85j8). Die erste Folge, über den Start der Beta, erschien am 24. September: [Podcastfolge 1 verspricht weniger Blau](/de/news/a-first-developer-podcast-promises-fewer-blues/).
 
 ## Drei oder vier Tasten
 

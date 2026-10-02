@@ -22,3 +22,5 @@ La curva de experiencia en sí no cambia. Un personaje necesita la misma experie
 Cuánto baja la experiencia de los monstruos, o cuánto sube la de las misiones, Blizzard no lo dice.
 
 La beta da una primera idea. En The Hall of Thanes un monstruo da de 28 a 30 de experiencia y cada una de las cinco misiones de 3.900 a 4.900, escribe Wowhead en su [guía](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Subir de nivel en conjunto no es más rápido: del 1 al 20 se tarda de media 20,5 horas en Forever frente a 20,4 en Classic Era, dice Josh Greenfield en el [primer podcast de los desarrolladores](/es/news/a-first-developer-podcast-promises-fewer-blues/).
+
+Desde la build de la beta del 1 de octubre, las misiones de mazmorra dan un 50 % menos de esa experiencia extra. Los probadores subían demasiado rápido, dice Blizzard en las notas de la build.

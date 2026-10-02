@@ -1,5 +1,5 @@
 ---
-title: "Les hybrides font environ 5 % de dégâts en moins"
+title: "L'épisode 2 du podcast retire 5 % aux hybrides"
 description: "Dans le deuxième podcast des développeurs, trois concepteurs expliquent le budget de dégâts, le retour de la Rage sur les critiques, Shifting Power, Death Mark pour Subtlety et l’absence du totem twisting."
 date: 2026-10-02T04:30:00+02:00
 category: forever
@@ -11,6 +11,10 @@ sourceUrl: "https://www.youtube.com/watch?v=uDRcv_w85j8"
 tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
+podcast:
+  episode: 2
+  title: "Speed Running Classes ft. Sodapoppin"
+  minutes: 78
 manual: true
 ---
 Les spécialisations hybrides de dégâts de World of Warcraft: Forever font environ 5 % de dégâts en moins que les spécialisations pures, dit le Principal Game Designer Kris Zierhut. Il l’a dit dans le deuxième podcast des développeurs, consacré aux classes. Les Rogues doivent faire le plus de dégâts mono-cible.
@@ -26,6 +30,8 @@ L’épisode dure 78 minutes et est sorti le 1er octobre sur la chaîne World of
     </span>
   </button>
 </figure>
+
+L'épisode complet est sur YouTube : [youtube.com/watch?v=uDRcv_w85j8](https://www.youtube.com/watch?v=uDRcv_w85j8). Le premier épisode, sur le début de la bêta, est sorti le 24 septembre : [L'épisode 1 du podcast promet moins de bleus](/fr/news/a-first-developer-podcast-promises-fewer-blues/).
 
 ## Trois ou quatre boutons
 

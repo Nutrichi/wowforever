@@ -8,7 +8,7 @@
 
 import type { APIRoute, GetStaticPaths } from 'astro';
 import { getPosts } from '../../../../../lib/posts';
-import { locales } from '../../../../../i18n/ui';
+import { locales, type Locale } from '../../../../../i18n/ui';
 import { detailOf, jsonResponse } from '../../../../../lib/api-feed';
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -21,7 +21,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return paths;
 };
 
-export const GET: APIRoute = async ({ props, site }) => {
+export const GET: APIRoute = async ({ props, params, site }) => {
   const base = site ?? new URL('https://wowforever.be');
-  return jsonResponse(await detailOf(props.post, base));
+  return jsonResponse(await detailOf(props.post, base, params.lang as Locale));
 };

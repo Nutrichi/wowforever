@@ -25,6 +25,6 @@ De eerste aankondiging, op de Amerikaanse fora, sprak van de ochtend in Pacific-
 
 ## Wat de build brengt
 
-De build tilt [de levelcap van 20 naar 30](/nl/news/the-beta-level-cap-rises-from-20-to-30/). Hij opent ook de Excavation Site, een nieuwe dungeon in de Wetlands voor levels 24 tot 29, kondigde Josh Greenfield aan volgens Wowhead. De [City of Dalaran](/nl/guides/dungeons/) zit niet in deze build en volgt in een latere update van de beta.
+De build tilt [de levelcap van 20 naar 30](/nl/news/the-beta-level-cap-rises-from-20-to-30/). Hij opent ook de Excavation Site, een nieuwe dungeon in de Wetlands voor levels 24 tot 29, kondigde Josh Greenfield aan volgens Wowhead. De notes van de build zetten de dungeon later op levels 26 tot 31. De [City of Dalaran](/nl/guides/dungeons/) zit niet in deze build en volgt in een latere update van de beta.
 
 Deze week wordt ook één nieuwe battleground speelbaar, schrijft Wowhead. Welke battleground dat is, is nog niet bekend. Blizzard heeft de development notes van de build nog niet gepubliceerd.

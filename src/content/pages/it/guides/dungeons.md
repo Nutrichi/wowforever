@@ -3,23 +3,23 @@ title: "Guida ai dungeon: ogni missione dei dungeon in WoW Forever"
 metaTitle: "Missioni dei dungeon di WoW Forever: ogni dungeon, livello e PNG"
 description: "Ogni dungeon di WoW Forever con i suoi livelli e tutte le sue missioni: dove inizia ciascuna, per quale fazione, cosa serve prima, e le chiavi che alcuni dungeon richiedono."
 short: "Dungeon"
-updated: 2026-09-29
+updated: 2026-10-02
 lang: it
 manual: true
 faq:
   - q: "Quali dungeon ci sono in WoW Forever?"
-    a: "I dungeon di Classic, da Ragefire Chasm a Upper Blackrock Spire, più nove nuovi. The Hall of Thanes e le Ruins of Lordaeron sono nella beta; gli altri sette arrivano a livelli più alti."
+    a: "I dungeon di Classic, da Ragefire Chasm a Upper Blackrock Spire, più nove nuovi. The Hall of Thanes, le Ruins of Lordaeron e l’Excavation Site sono nella beta; gli altri sei arrivano a livelli più alti."
   - q: "Qual è il primo dungeon di WoW Forever?"
     a: "Ragefire Chasm per la Horde, con missioni dal livello 9, e The Hall of Thanes per l’Alliance, per i livelli dal 13 al 18. Le Ruins of Lordaeron, dal 15 al 20, sono il primo nuovo dungeon in territorio della Horde."
   - q: "Le missioni dei dungeon danno ancora molta esperienza?"
-    a: "Sì, più di prima. Blizzard ha ridotto l’esperienza dei mostri nei dungeon e aumentato quella delle missioni dei dungeon, quindi una prima run con tutte le sue missioni rende di più."
+    a: "Sì, più di prima. Blizzard ha ridotto l’esperienza dei mostri nei dungeon e aumentato quella delle missioni dei dungeon, quindi una prima run con tutte le sue missioni rende di più. Dalla build della beta del 1° ottobre, quell’esperienza extra delle missioni dei dungeon è più bassa del 50%."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 ---
 Le missioni dei dungeon sono il guadagno maggiore di una run in WoW Forever: Blizzard ha ridotto l’esperienza dei mostri all’interno e aumentato quella delle missioni. Questa guida elenca ogni dungeon con il livello per entrarci, e ogni missione: dove inizia, per quale fazione e cosa serve prima.
 
-La beta di WoW Forever arriva al livello 20. Per i dungeon oltre, le missioni vengono dai dati di Classic e possono ancora cambiare. Le righe di The Hall of Thanes e delle Ruins of Lordaeron sono verificate sulle pagine delle missioni della beta.
+La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Per i dungeon oltre, le missioni vengono dai dati di Classic e possono ancora cambiare. Le righe di The Hall of Thanes e delle Ruins of Lordaeron sono verificate sulle pagine delle missioni della beta.
 
 ## Guide per dungeon
 
@@ -39,7 +39,7 @@ Per i dungeon di Classic, i tre numeri sono il livello a cui il dungeon è diffi
 | The Deadmines | 14 / 19 / 24 | 7 |
 | Shadowfang Keep | 18 / 23 / 28 | 5 |
 | Blackfathom Deeps | 21 / 25 / 30 | 13 |
-| Excavation Site: Wetlands | 24 a 29 | non ancora note |
+| Excavation Site: Wetlands | 26 a 31 | non ancora note |
 | The Stockade | 22 / 26 / 30 | 6 |
 | City of Dalaran | 28 a 33 | non ancora note |
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
@@ -480,11 +480,11 @@ Almeno un giocatore deve avere il Seal of Ascension per entrare.
 
 ## Nuovi dungeon senza missioni note
 
-Sette nuovi dungeon di Forever non sono ancora nella beta, quindi le loro missioni non sono note. I livelli sono quelli di Blizzard.
+Sei nuovi dungeon di Forever non sono ancora nella beta, quindi le loro missioni non sono note. L’Excavation Site ha aperto nella beta il 1° ottobre; le sue missioni non sono ancora in questa guida. I livelli sono quelli di Blizzard.
 
 | Dungeon | Livelli |
 |---|---|
-| Excavation Site: Wetlands | 24 a 29 |
+| Excavation Site: Wetlands | 26 a 31 |
 | City of Dalaran | 28 a 33 |
 | The Drowned City | 35 a 40 |
 | Krol'dok Stronghold | 40 a 45 |

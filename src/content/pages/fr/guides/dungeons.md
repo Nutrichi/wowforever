@@ -3,23 +3,23 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : chaque donjon, niveau et donneur de quête"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-09-29
+updated: 2026-10-02
 lang: fr
 manual: true
 faq:
   - q: "Quels donjons contient WoW Forever ?"
-    a: "Les donjons de Classic, de Ragefire Chasm à Upper Blackrock Spire, plus neuf nouveaux. The Hall of Thanes et les Ruins of Lordaeron sont sur la bêta ; les sept autres suivent à des niveaux plus élevés."
+    a: "Les donjons de Classic, de Ragefire Chasm à Upper Blackrock Spire, plus neuf nouveaux. The Hall of Thanes, les Ruins of Lordaeron et l’Excavation Site sont sur la bêta ; les six autres suivent à des niveaux plus élevés."
   - q: "Quel est le premier donjon de WoW Forever ?"
     a: "Ragefire Chasm pour la Horde, avec des quêtes dès le niveau 9, et The Hall of Thanes pour l’Alliance, pour les niveaux 13 à 18. Les Ruins of Lordaeron, pour 15 à 20, sont le premier nouveau donjon en territoire de la Horde."
   - q: "Les quêtes de donjon rapportent-elles encore beaucoup d’expérience ?"
-    a: "Oui, plus qu’avant. Blizzard a réduit l’expérience des monstres en donjon et augmenté celle des quêtes de donjon, donc un premier passage avec toutes ses quêtes rapporte le plus."
+    a: "Oui, plus qu’avant. Blizzard a réduit l’expérience des monstres en donjon et augmenté celle des quêtes de donjon, donc un premier passage avec toutes ses quêtes rapporte le plus. Depuis la build de la bêta du 1er octobre, cette expérience supplémentaire des quêtes de donjon est 50 % plus basse."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 ---
 Les quêtes de donjon sont le plus gros gain d’un passage en donjon dans WoW Forever : Blizzard a réduit l’expérience des monstres à l’intérieur et augmenté celle des quêtes. Ce guide liste chaque donjon avec le niveau pour y entrer, et chaque quête : où elle commence, pour quelle faction, et ce qu’il faut faire avant.
 
-La bêta de WoW Forever va jusqu’au niveau 20. Pour les donjons au-delà, les quêtes viennent des données de Classic et peuvent encore changer. Les lignes du Hall of Thanes et des Ruins of Lordaeron sont vérifiées sur les pages de quête de la bêta.
+La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les donjons au-delà, les quêtes viennent des données de Classic et peuvent encore changer. Les lignes du Hall of Thanes et des Ruins of Lordaeron sont vérifiées sur les pages de quête de la bêta.
 
 ## Guides par donjon
 
@@ -39,7 +39,7 @@ Pour les donjons de Classic, les trois nombres sont le niveau où le donjon est 
 | The Deadmines | 14 / 19 / 24 | 7 |
 | Shadowfang Keep | 18 / 23 / 28 | 5 |
 | Blackfathom Deeps | 21 / 25 / 30 | 13 |
-| Excavation Site: Wetlands | 24 à 29 | pas encore connues |
+| Excavation Site: Wetlands | 26 à 31 | pas encore connues |
 | The Stockade | 22 / 26 / 30 | 6 |
 | City of Dalaran | 28 à 33 | pas encore connues |
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
@@ -480,11 +480,11 @@ Au moins un joueur doit avoir le Seal of Ascension pour entrer.
 
 ## Nouveaux donjons sans quêtes connues
 
-Sept nouveaux donjons de Forever ne sont pas encore sur la bêta, donc leurs quêtes ne sont pas connues. Les niveaux sont ceux de Blizzard.
+Six nouveaux donjons de Forever ne sont pas encore sur la bêta, donc leurs quêtes ne sont pas connues. L’Excavation Site a ouvert sur la bêta le 1er octobre ; ses quêtes ne sont pas encore dans ce guide. Les niveaux sont ceux de Blizzard.
 
 | Donjon | Niveaux |
 |---|---|
-| Excavation Site: Wetlands | 24 à 29 |
+| Excavation Site: Wetlands | 26 à 31 |
 | City of Dalaran | 28 à 33 |
 | The Drowned City | 35 à 40 |
 | Krol'dok Stronghold | 40 à 45 |

@@ -1,5 +1,5 @@
 ---
-title: "Gli ibridi fanno circa il 5% di danni in meno"
+title: "L'episodio 2 del podcast toglie il 5% agli ibridi"
 description: "Nel secondo podcast degli sviluppatori, tre designer spiegano il budget di danni, il ritorno della Rage dai critici, Shifting Power, Death Mark per Subtlety e perché il totem twisting resta fuori."
 date: 2026-10-02T04:30:00+02:00
 category: forever
@@ -11,6 +11,10 @@ sourceUrl: "https://www.youtube.com/watch?v=uDRcv_w85j8"
 tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
+podcast:
+  episode: 2
+  title: "Speed Running Classes ft. Sodapoppin"
+  minutes: 78
 manual: true
 ---
 Le specializzazioni ibride da danno di World of Warcraft: Forever fanno circa il 5% di danni in meno di quelle pure, dice il Principal Game Designer Kris Zierhut. Lo ha detto nel secondo podcast, dedicato alle classi. I Rogue devono fare più danni di tutti su un singolo bersaglio.
@@ -26,6 +30,8 @@ L'episodio dura 78 minuti ed è uscito il 1° ottobre sul canale di World of War
     </span>
   </button>
 </figure>
+
+L'episodio completo è su YouTube: [youtube.com/watch?v=uDRcv_w85j8](https://www.youtube.com/watch?v=uDRcv_w85j8). Il primo episodio, sull'inizio della beta, è uscito il 24 settembre: [L'episodio 1 del podcast promette meno blu](/it/news/a-first-developer-podcast-promises-fewer-blues/).
 
 ## Tre o quattro tasti
 

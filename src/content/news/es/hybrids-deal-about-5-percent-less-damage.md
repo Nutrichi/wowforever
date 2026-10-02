@@ -1,5 +1,5 @@
 ---
-title: "Los híbridos hacen cerca de un 5 % menos de daño"
+title: "El episodio 2 del pódcast quita 5 % a los híbridos"
 description: "En el segundo podcast de los desarrolladores, tres diseñadores explican el presupuesto de daño, la vuelta de la Rage por críticos, Shifting Power, Death Mark para Subtlety y por qué no vuelve el totem twisting."
 date: 2026-10-02T04:30:00+02:00
 category: forever
@@ -11,6 +11,10 @@ sourceUrl: "https://www.youtube.com/watch?v=uDRcv_w85j8"
 tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
+podcast:
+  episode: 2
+  title: "Speed Running Classes ft. Sodapoppin"
+  minutes: 78
 manual: true
 ---
 Las especializaciones híbridas de daño de World of Warcraft: Forever hacen cerca de un 5 % menos de daño que las puras, dice el Principal Game Designer Kris Zierhut. Lo dijo en el segundo podcast, sobre las clases. Los Rogues deben hacer el mayor daño a un solo objetivo.
@@ -26,6 +30,8 @@ El episodio dura 78 minutos y salió el 1 de octubre en el canal de World of War
     </span>
   </button>
 </figure>
+
+El episodio completo está en YouTube: [youtube.com/watch?v=uDRcv_w85j8](https://www.youtube.com/watch?v=uDRcv_w85j8). El primer episodio, sobre el inicio de la beta, salió el 24 de septiembre: [El episodio 1 del pódcast promete menos azules](/es/news/a-first-developer-podcast-promises-fewer-blues/).
 
 ## Tres o cuatro botones
 

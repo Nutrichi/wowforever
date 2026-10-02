@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: release date, beta, roadmap, Skyborne and editions"
 description: "Everything Blizzard has announced about World of Warcraft: Forever: the dates, the roadmap, the new zones, dungeons and raids, the Skyborne, the Legacy system and the editions."
 short: "WoW Forever"
-updated: 2026-10-01
+updated: 2026-10-02
 lang: en
 faq:
   - q: "What is World of Warcraft: Forever?"
@@ -111,7 +111,7 @@ All dates come from Blizzard. Times are Pacific time, with Belgian time where it
 |---|---|
 | 12 September 2026 | Blizzard announces Forever at BlizzCon. Pre-purchase opens and Warcraft III Reforged: Forsaken Kingdom is released. |
 | 17 September 2026 | The beta starts for owners of the Skyborne Epic Pack, the Warcraft Forever Collection and the Collector's Edition, and for players picked from the opt-ins. The cap is level 20 at first and rises to 30 on 1 October. Blizzard holds a live Q&A the same day, at 10:00 Pacific time, 19:00 Belgian time. |
-| 1 October 2026 | The beta goes offline for maintenance and returns hours later with a new build and a level cap of 30 ([more](/news/the-beta-level-cap-rises-from-20-to-30/)). |
+| 1 October 2026 | The beta goes offline for maintenance and returns hours later with a new build and a level cap of 30 ([more](/news/the-beta-level-cap-rises-from-20-to-30/)). Razorfen Downs, Uldaman and the new Excavation Site open with it. |
 | 9 October 2026 | At PAX Aus in Melbourne, Clay Stone gives a deep dive into one of the new dungeons. Live on Twitch at 03:00 Belgian time ([more](/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 October 2026 | Invite-A-Friend launch codes start arriving by email. |
 | 21 October 2026 | The beta ends. The roadmap slide at BlizzCon showed 22 October. |
@@ -184,11 +184,11 @@ Associate Production Director Clay Stone said the Classic art style is timeless 
 
 The experience curve does not change: a character needs the same amount to reach 60 as in the original Classic, Blizzard told The Sun. What changes is where that experience comes from, because the new zones add routes that the original game did not have. The Riverglades and Shen'dralas sit in the stretch where leveling slows down, and Mount Hyjal sits close to 60.
 
-Dungeons work differently. Experience from monsters inside a dungeon goes down and experience from the dungeon quests goes up sharply. A first run through a dungeon pays off, a repeat run much less. Blizzard wants players out in the world instead of grinding the same dungeon.
+Dungeons work differently. Experience from monsters inside a dungeon goes down and experience from the dungeon quests goes up sharply. A first run through a dungeon pays off, a repeat run much less. Blizzard wants players out in the world instead of grinding the same dungeon. Since the beta build of 1 October, dungeon quests give 50% less of that extra experience, because testers levelled too fast.
 
 Overall it evens out. From level 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/). The next beta build also hands out fewer blue quest rewards in dungeons, so that the step from white to green to blue feels as it did in Classic, says Tim Jones.
 
-There is no WoW Token and no boost, said Associate Production Director Clay Stone in an interview with Destin. The catch-up system stays "play the game".
+There is no WoW Token and no boost, said Associate Production Director Clay Stone in an interview with Destin. The catch-up system stays "play the game". Gold bought for real money costs the gold, a suspension or the account, and the game will show a warning in every trade with a stranger, Blizzard said on 1 October.
 
 Three new ship routes connect parts of the world that had no link before:
 
@@ -208,7 +208,7 @@ The level ranges come from Blizzard, which published the full list on 14 Septemb
 |---|---|---|
 | The Hall of Thanes | 13 to 18 | The Hall has been breached and the Alliance protects its old treasures, which the Horde may want for itself. It lies in Old Ironforge beneath the High Seat, with four bosses and five quests: [the walkthrough](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) and [the guide](/guides/dungeons/hall-of-thanes/). |
 | Ruins of Lordaeron | 15 to 20 | The ruined capital above the Undercity, still full of Scourge. The Horde fights to take it back, and the Alliance has quests there too. Six bosses in any order: [the walkthrough](/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) and [the guide](/guides/dungeons/ruins-of-lordaeron/). |
-| Excavation Site: Wetlands | 24 to 29 | A dig of the Explorers' League in the Wetlands. |
+| Excavation Site: Wetlands | 26 to 31 | A dig of the Explorers' League in the Wetlands. Open on the beta since 1 October. |
 | City of Dalaran | 28 to 33 | A city dungeon. The barrier from after Warcraft III is gone, but the Kirin Tor do not have the city under control. The Alliance enters through the Dalaran Sewers, the Horde from outside with the Dalaran Sewer Key ([more](/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). |
 | The Drowned City | 35 to 40 | An old troll ruin off the coast of Stranglethorn Vale, playable on the BlizzCon show floor. |
 | Krol'dok Stronghold | 40 to 45 | An orc stronghold. |
@@ -290,7 +290,7 @@ Racials were redesigned as well. Every race now has four racials, the resistance
 
 Leveling from 1 to 60 is the heart of Classic, and the Legacy system rewards players who level more than one character. Legacy Challenges are goals in six categories: exploring, leveling classes, raising tradeskills, earning PvP ranks, maxing reputations, and finishing dungeons and raids.
 
-Every completed challenge gives one Legacy Point. Points go into a Legacy tree with three branches, and every perk works for every character on the account. Most perks are passive, a few are activated, and none give combat power. A level 38 character on the show floor had 4 points to spend, and several nodes were marked "to be added in future patch content".
+Every completed challenge gives one Legacy Point. Points go into a Legacy tree with three branches, and every perk works for every character on the account. Most perks are passive, a few are activated, and none give combat power. A level 38 character on the show floor had 4 points to spend, and several nodes were marked "to be added in future patch content". In a later week of the beta, every tester gets 16 Legacy points to test the system, until the end of the beta.
 
 ### Adventure
 
@@ -326,6 +326,7 @@ Tradeskills get their first real overhaul. In Classic a tradeskill only gave rec
 - The Darkspear Islands is a new battleground for 15 against 15, similar to Eye of the Storm with capture points like Arathi Basin.
 - The PvP and Honor system is updated, with new PvP seasons in spring and summer 2027.
 - PvP ranks count towards Legacy Challenges.
+- On the beta, Honor costs for PvP gear rose by about 50% on 1 October, and the Honor cap went from 15,000 to 25,000.
 
 Hardcore is coming to Forever, but not at launch. Blizzard said at the Hardcore panel on 13 September that the mode follows soon after launch, without a date or a patch. The roadmap slide from BlizzCon puts the launch of WoW Forever Hardcore in the winter block, after the raids of 9 December.
 

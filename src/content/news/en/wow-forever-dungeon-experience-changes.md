@@ -21,3 +21,5 @@ The experience curve itself does not change. A character still needs the same am
 Blizzard has not said how much lower the experience from monsters is, or how much higher the experience from the quests.
 
 The beta gives a first idea. In The Hall of Thanes a monster gives 28 to 30 experience and each of the five quests 3,900 to 4,900, writes Wowhead in its [walkthrough](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Levelling as a whole is not faster: from 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/).
+
+Since the beta build of 1 October, dungeon quests give 50% less of that extra experience. Testers levelled too fast, Blizzard says in the notes of the build.

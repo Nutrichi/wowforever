@@ -5,7 +5,8 @@
  * van de Skyborne en de wijzigingen bij Tauren, Orc en Gnome. De waarden kunnen
  * tijdens de beta nog veranderen. Bijgewerkt op 25 september 2026 met de
  * ontwikkelingsnotities van de build van 24 september: Eureka!, Cultivation en
- * Touch of the Grave. Namen van racials blijven Engels.
+ * Touch of the Grave. Op 2 oktober 2026: Eureka! werkt niet meer op periodieke
+ * effecten (build van 1 oktober). Namen van racials blijven Engels.
  */
 
 import type { Locale } from './ui';
@@ -53,7 +54,7 @@ export const foreverRacials: Record<string, RaceRacials> = {
   },
   gnome: {
     racials: [
-      { name: 'Eureka!', state: 'new', text: w('Your next 3 spells or abilities cost 10% less Mana, Rage or Energy and deal or heal 10% more.', 'Je volgende 3 spells of abilities kosten 10% minder Mana, Rage of Energy en doen of helen 10% meer.', 'Vos 3 prochains sorts ou techniques coûtent 10 % de Mana, de Rage ou d’Energy en moins et infligent ou soignent 10 % de plus.', 'Tus 3 próximos hechizos o habilidades cuestan un 10 % menos de Mana, Rage o Energy e infligen o sanan un 10 % más.', 'I tuoi prossimi 3 incantesimi o abilità costano il 10% in meno di Mana, Rage o Energy e infliggono o curano il 10% in più.', 'Deine nächsten 3 Zauber oder Fähigkeiten kosten 10 % weniger Mana, Rage oder Energy und verursachen oder heilen 10 % mehr.') },
+      { name: 'Eureka!', state: 'new', text: w('Your next 3 non-periodic spells or abilities cost 10% less Mana, Rage or Energy and deal or heal 10% more.', 'Je volgende 3 niet-periodieke spells of abilities kosten 10% minder Mana, Rage of Energy en doen of helen 10% meer.', 'Vos 3 prochains sorts ou techniques non périodiques coûtent 10 % de Mana, de Rage ou d’Energy en moins et infligent ou soignent 10 % de plus.', 'Tus 3 próximos hechizos o habilidades no periódicos cuestan un 10 % menos de Mana, Rage o Energy e infligen o sanan un 10 % más.', 'I tuoi prossimi 3 incantesimi o abilità non periodici costano il 10% in meno di Mana, Rage o Energy e infliggono o curano il 10% in più.', 'Deine nächsten 3 nicht periodischen Zauber oder Fähigkeiten kosten 10 % weniger Mana, Rage oder Energy und verursachen oder heilen 10 % mehr.') },
       { name: 'Expansive Mind', state: 'changed', text: w('Maximum Mana, Rage or Energy +5% (was 5% Intellect).', 'Maximale Mana, Rage of Energy +5% (was 5% Intellect).', 'Mana, Rage ou Energy maximum +5 % (avant : 5 % d’Intellect).', 'Mana, Rage o Energy máximos +5 % (antes 5 % de Intellect).', 'Mana, Rage o Energy massimi +5% (prima 5% di Intellect).', 'Maximales Mana, Rage oder Energy +5 % (vorher 5 % Intellect).') },
       { name: 'Engineering Specialization', state: 'changed', text: w('Engineering devices are more reliable (was +15 skill).', 'Apparaten van Engineering zijn betrouwbaarder (was +15 skill).', 'Les appareils d’Engineering sont plus fiables (avant : +15 en skill).', 'Los artilugios de Engineering son más fiables (antes +15 de skill).', 'I dispositivi di Engineering sono più affidabili (prima +15 skill).', 'Engineering-Geräte sind zuverlässiger (vorher +15 Skill).') },
       { name: 'Escape Artist', state: 'same', text: w('Escape any immobilize or movement slow.', 'Ontsnap aan elke immobilisatie of vertraging.', 'Se libérer de toute immobilisation ou ralentissement.', 'Escapa de cualquier inmovilización o ralentización.', 'Libera da qualsiasi immobilizzazione o rallentamento.', 'Befreit von jeder Bewegungsunfähigkeit oder Verlangsamung.') },
