@@ -3,7 +3,7 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : chaque donjon, niveau et donneur de quête"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-10-02
+updated: 2026-10-03
 lang: fr
 manual: true
 faq:
@@ -25,6 +25,7 @@ La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les 
 
 - **[The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/)**, niveaux 13 à 18 : l’accès, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin.
 - **[Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/)**, niveaux 15 à 20 : l’accès pour les deux factions, les dix quêtes, les six boss et leur butin.
+- **[Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/)**, boss de niveau 32 à 42 : les quatre ailes, toutes les quêtes, le butin revu du Graveyard et de la Library, et le nouveau bonus de set.
 
 ## Chaque donjon par niveau
 
@@ -45,7 +46,7 @@ Pour les donjons de Classic, les trois nombres sont le niveau où le donjon est 
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
 | Gnomeregan | 25 / 33 / 38 | 13 |
 | The Drowned City | 35 à 40 | pas encore connues |
-| Scarlet Monastery | 26 / 37 / 45 | 8 |
+| [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/) | 26 / 37 / 45 | 8 |
 | Razorfen Downs | 35 / 39 / 44 | 6 |
 | Krol'dok Stronghold | 40 à 45 | pas encore connues |
 | Uldaman | 37 / 42 / 47 | 14 |
@@ -219,6 +220,8 @@ Au moins un joueur doit avoir la Workshop Key pour ouvrir la porte arrière ; Lo
 ## Scarlet Monastery
 
 Au moins un joueur doit avoir The Scarlet Key pour l’Armory et la Cathedral ; Lockpicking 175 fonctionne aussi.
+
+Le guide complet : [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/).
 
 ### Toutes les ailes
 

@@ -1,9 +1,9 @@
 ---
 title: "Fishing in WoW Forever: trainers, leveling and gear"
 metaTitle: "WoW Forever Fishing guide: trainers, leveling 1 to 225, zones and gear"
-description: "Fishing in WoW Forever: every trainer with coordinates, where to level from 1 to 225, the skill each zone needs, the Artisan quest of Nat Pagle, poles, lures and the three camp objects."
+description: "Fishing in WoW Forever: every trainer, leveling from 1 to 225, the skill each zone needs, the Artisan quest, poles, lures, food with a Fishing buff, the new Fishing Extravaganza and the camp objects."
 short: "Fishing"
-updated: 2026-09-29
+updated: 2026-10-03
 lang: en
 faq:
   - q: "Does the zone matter for how fast Fishing levels?"
@@ -119,6 +119,17 @@ Wowhead marks the FC-5000 as Horde only. The Strong Fishing Pole is sold by fish
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7307"><img class="wf-wh__icon" src="/wh/inv_misc_monstertail_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Flesh Eating Worm</a> | +75 | 100 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6533"><img class="wf-wh__icon" src="/wh/inv_misc_food_26.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aquadynamic Fish Attractor</a> | +100 | 100 |
 
+Some fish dishes from Classic now raise your Fishing skill for a while. The level is the character level the food needs.
+
+| Food | Skill | Level |
+|---|---|---|
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6316"><img class="wf-wh__icon" src="/wh/inv_potion_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Loch Frenzy Delight</a> | +3 | 5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5476"><img class="wf-wh__icon" src="/wh/inv_misc_fish_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fillet of Frenzy</a> | +5 | 5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4593"><img class="wf-wh__icon" src="/wh/inv_misc_fish_30.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bristle Whisker Catfish</a> | +8 | 15 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4594"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rockscale Cod</a> | +12 | 25 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13930"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Filet of Redgill</a> | +18 | 35 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8957"><img class="wf-wh__icon" src="/wh/inv_misc_fish_22.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spinefin Halibut</a> | +18 | 45 |
+
 | Other gear | Skill |
 |---|---|
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19972"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lucky Fishing Hat</a> | +5 |
@@ -126,12 +137,21 @@ Wowhead marks the FC-5000 as Horde only. The Strong Fishing Pole is sold by fish
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19971"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">High Test Eternium Fishing Line</a> | +5 |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13620"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Fishing</a> | +2 |
 
+## The Fishing Extravaganza
+
+The fishing tournament in Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, changes in two ways in Forever, writes Wowhead:
+
+- **The first 50 players win**, not only the first one who hands in.
+- **Every winner gets** the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> and an <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.
+
+The coin buys one prize of your choice: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19979"><img class="wf-wh__icon" src="/wh/trade_fishing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hook of the Master Angler</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276274"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Surfer Shoes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276272"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Angler's Fishing Hat</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276273"><img class="wf-wh__icon" src="/wh/inv_misc_1h_bucket_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Empty Fish Bucket</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276275"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_worm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bitter Baitling</a>.
+
 ## Camp objects
 
 | Object | Skill | Recipe from | What it does |
 |---|---|---|---|
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a> | 20 | Trainer | 8% all stats at the camp |
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a>, fished up from pools | Lures and uncommon fish nearby |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a>, a drop from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6243">Gelihast</a> in Blackfathom Deeps | Lures and uncommon fish nearby |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273119"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Hut</a> | Lures and rare fish nearby |
 
 How a campsite works is in the [camping guide](/guides/camping/). What to cook with your catch is in the [Cooking guide](/tradeskills/forever/cooking/).

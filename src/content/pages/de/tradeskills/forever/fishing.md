@@ -1,9 +1,9 @@
 ---
 title: "Fishing in WoW Forever: Lehrer, Skillen und Ausrüstung"
 metaTitle: "WoW Forever Fishing-Guide: Lehrer, Skillen von 1 bis 225, Zonen und Ausrüstung"
-description: "Fishing in WoW Forever: jeder Lehrer mit Koordinaten, wo du von 1 bis 225 skillst, welchen Skill jede Zone verlangt, die Artisan-Quest von Nat Pagle, Angeln, Köder und die drei Lagerobjekte."
+description: "Fishing in WoW Forever: jeder Lehrer, Skillen von 1 bis 225, der Skill, den jede Zone verlangt, die Artisan-Quest, Angeln, Köder, Essen mit Fishing-Buff, die neue Fishing Extravaganza und die Lagerobjekte."
 short: "Fishing"
-updated: 2026-09-29
+updated: 2026-10-03
 lang: de
 faq:
   - q: "Spielt die Zone eine Rolle dafür, wie schnell Fishing steigt?"
@@ -13,6 +13,7 @@ faq:
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
+manual: true
 ---
 Fishing ist ein Nebenberuf und kostet dich also nie einen deiner zwei Hauptplätze. Am Angeln selbst ändert sich in WoW Forever wenig, aber der Fisch zählt mehr: Cooking macht daraus Essen mit einem Buff und 5 % mehr Erfahrung.
 
@@ -126,12 +127,34 @@ Wowhead führt die FC-5000 als nur für die Horde. Die Strong Fishing Pole verka
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19971"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">High Test Eternium Fishing Line</a> | +5 |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13620"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Fishing</a> | +2 |
 
+## Essen, das deinen Skill erhöht
+
+Einige Fischgerichte aus Classic erhöhen jetzt eine Weile deinen Fishing-Skill. Die Stufe ist die Charakterstufe, die das Essen verlangt.
+
+| Essen | Skill | Stufe |
+|---|---|---|
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6316"><img class="wf-wh__icon" src="/wh/inv_potion_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Loch Frenzy Delight</a> | +3 | 5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5476"><img class="wf-wh__icon" src="/wh/inv_misc_fish_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fillet of Frenzy</a> | +5 | 5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4593"><img class="wf-wh__icon" src="/wh/inv_misc_fish_30.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bristle Whisker Catfish</a> | +8 | 15 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4594"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rockscale Cod</a> | +12 | 25 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13930"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Filet of Redgill</a> | +18 | 35 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8957"><img class="wf-wh__icon" src="/wh/inv_misc_fish_22.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spinefin Halibut</a> | +18 | 45 |
+
+## Die Fishing Extravaganza
+
+Das Angelturnier in Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, ändert sich in Forever in zwei Punkten, schreibt Wowhead:
+
+- **Die ersten 50 Spieler gewinnen**, nicht nur der Erste, der abgibt.
+- **Jeder Gewinner bekommt** die <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> und eine <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.
+
+Die Münze tauschst du gegen einen Preis deiner Wahl: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19979"><img class="wf-wh__icon" src="/wh/trade_fishing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hook of the Master Angler</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276274"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Surfer Shoes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276272"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Angler's Fishing Hat</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276273"><img class="wf-wh__icon" src="/wh/inv_misc_1h_bucket_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Empty Fish Bucket</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276275"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_worm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bitter Baitling</a>.
+
 ## Lagerobjekte
 
 | Objekt | Skill | Rezept von | Was es tut |
 |---|---|---|---|
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a> | 20 | Lehrer | 8 % auf alle Stats im Lager |
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a>, aus Schwärmen geangelt | Köder und ungewöhnliche Fische in der Nähe |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a>, eine Beute von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6243">Gelihast</a> in Blackfathom Deeps | Köder und ungewöhnliche Fische in der Nähe |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273119"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Hut</a> | Köder und seltene Fische in der Nähe |
 
 Wie ein Lagerplatz funktioniert, steht im [Camping-Guide](/de/guides/camping/). Was du mit deinem Fang kochst, steht im [Cooking-Guide](/de/tradeskills/forever/cooking/).

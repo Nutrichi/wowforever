@@ -3,7 +3,7 @@ title: "First Aid en WoW Forever: pociones, remedios e instructores"
 metaTitle: "Guía de First Aid de WoW Forever: pociones de sanación, remedios, instructores y rangos"
 description: "First Aid en WoW Forever fabrica vendas, pociones de sanación y remedios contra veneno, enfermedad y sangrado. Los instructores, el libro y la misión para Expert y Artisan, y cada receta nueva."
 short: "First Aid"
-updated: 2026-09-29
+updated: 2026-10-03
 lang: es
 faq:
   - q: "¿Sigue fabricando Alchemy pociones de sanación en WoW Forever?"
@@ -15,6 +15,7 @@ sources:
     url: "https://www.wowhead.com/forever/guide/professions/first-aid/overview"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/first-aid/"
+manual: true
 ---
 First Aid es una profesión secundaria, así que nunca ocupa una de tus dos plazas principales. En WoW Forever hace mucho más que vendas: ahora fabrica las pociones de sanación, y remedios contra veneno, enfermedad y sangrado.
 
@@ -105,24 +106,53 @@ Cómo funciona un campamento está en la [guía de camping](/es/guides/camping/)
 
 ## Subir la profesión
 
-La mayor parte de la habilidad viene de las vendas, hechas con la tela que sueltan los humanoides. Wowhead solo ha publicado por ahora la parte central de su ruta.
+Wowhead tiene ahora dos rutas completas. Las dos piden los mismos libros desde 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> para el rango, y los manuales <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> y <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, todos de los vendedores Expert de arriba. Se pueden comerciar, así que la casa de subastas también sirve.
 
-| Tela | Cae de monstruos de nivel |
+**La ruta rápida hasta 150: pociones de sanación.** Las pociones se saltan las vendas y solo piden hierbas, un vial y especias de un vendedor de profesiones.
+
+| Habilidad | Fabricar | Materiales |
+|---|---|---|
+| 1 a 75 | 85 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1244431"><img class="wf-wh__icon" src="/wh/inv_potion_49.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Healing Potion</a> | 85 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2447"><img class="wf-wh__icon" src="/wh/inv_misc_flower_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Peacebloom</a> |
+| 75 a 110 | 50 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1244432"><img class="wf-wh__icon" src="/wh/inv_potion_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Healing Potion</a> | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2450"><img class="wf-wh__icon" src="/wh/inv_misc_root_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Briarthorn</a> |
+| 110 a 150 | 45 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1244433"><img class="wf-wh__icon" src="/wh/inv_potion_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Healing Potion</a> | 45 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2453"><img class="wf-wh__icon" src="/wh/inv_misc_herb_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bruiseweed</a> |
+| 150 a 180 | 45 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6450"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Bandage</a> | 45 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4306"><img class="wf-wh__icon" src="/wh/inv_fabric_silk_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Cloth</a> |
+| 180 a 210 | 45 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6451"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Silk Bandage</a> | 90 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4306"><img class="wf-wh__icon" src="/wh/inv_fabric_silk_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Cloth</a> |
+| 210 a 225 | 20 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8544"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Bandage</a> | 20 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4338"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Cloth</a> |
+
+Lista de la compra: 85 Peacebloom, 50 Briarthorn, 45 Bruiseweed, 135 Silk Cloth y 20 Mageweave Cloth. Si encuentras <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=6454"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Strong Anti-Venom</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=255724"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Clever Poultice</a> o <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=255723"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Greater Healing Potion</a> baratos, esas recetas pueden sustituir un paso y ahorrar dinero.
+
+**La ruta clásica: solo vendas.** La tela cae de los humanoides mientras subes de nivel.
+
+| Habilidad | Fabricar | Tela |
+|---|---|---|
+| 1 a 40 | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=1251"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linen Bandage</a> | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2589"><img class="wf-wh__icon" src="/wh/inv_fabric_linen_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linen Cloth</a> |
+| 40 a 80 | 70 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2581"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Linen Bandage</a> | 140 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2589"><img class="wf-wh__icon" src="/wh/inv_fabric_linen_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linen Cloth</a> |
+| 80 a 115 | 55 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3530"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wool Bandage</a> | 55 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2592"><img class="wf-wh__icon" src="/wh/inv_fabric_wool_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wool Cloth</a> |
+| 115 a 150 | 55 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3531"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_17.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Wool Bandage</a> | 110 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2592"><img class="wf-wh__icon" src="/wh/inv_fabric_wool_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wool Cloth</a> |
+| 150 a 180 | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6450"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Bandage</a> | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4306"><img class="wf-wh__icon" src="/wh/inv_fabric_silk_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Cloth</a> |
+| 180 a 210 | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6451"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Silk Bandage</a> | 100 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4306"><img class="wf-wh__icon" src="/wh/inv_fabric_silk_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Cloth</a> |
+| 210 a 225 | 25 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8544"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Bandage</a> | 25 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4338"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Cloth</a> |
+
+Lista de la compra: 190 Linen Cloth, 165 Wool Cloth, 150 Silk Cloth y 25 Mageweave Cloth.
+
+**De 225 a 300.** Haz primero la misión Artisan Triage. Quienes la dan, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12939">Doctor Gustaf VanHowzen</a> y <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12920">Doctor Gregory Victor</a>, también enseñan las tres vendas siguientes a 240, 260 y 290, así que lleva la tela contigo.
+
+| Habilidad | Fabricar | Tela |
+|---|---|---|
+| 225 a 240 | 30 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8544"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Bandage</a> | 30 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4338"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Cloth</a> |
+| 240 a 260 | 30 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8545"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Mageweave Bandage</a> | 60 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4338"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Cloth</a> |
+| 260 a 290 | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=14529"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Runecloth Bandage</a> | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=14047"><img class="wf-wh__icon" src="/wh/inv_fabric_purplefire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Runecloth</a> |
+| 290 a 300 | 15 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=14530"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Runecloth Bandage</a> | 30 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=14047"><img class="wf-wh__icon" src="/wh/inv_fabric_purplefire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Runecloth</a> |
+
+Dónde cae la tela:
+
+| Tela | Cae de enemigos de nivel |
 |---|---|
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2589"><img class="wf-wh__icon" src="/wh/inv_fabric_linen_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linen Cloth</a> | 1 a 19 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2592"><img class="wf-wh__icon" src="/wh/inv_fabric_wool_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wool Cloth</a> | 15 a 30 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4306"><img class="wf-wh__icon" src="/wh/inv_fabric_silk_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Cloth</a> | 26 a 40 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4338"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Cloth</a> | 41 a 50 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=14047"><img class="wf-wh__icon" src="/wh/inv_fabric_purplefire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Runecloth</a> | 51 a 60 |
-| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=14256"><img class="wf-wh__icon" src="/wh/inv_fabric_felrag.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Felcloth</a> | 50 a 60, demonios |
-
-| Habilidad | Fabricar | Tela |
-|---|---|---|
-| 150 a 180 | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6450"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Bandage</a> | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4306"><img class="wf-wh__icon" src="/wh/inv_fabric_silk_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Cloth</a> |
-| 180 a 210 | 50 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6451"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Silk Bandage</a> | 100 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4306"><img class="wf-wh__icon" src="/wh/inv_fabric_silk_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Silk Cloth</a> |
-| 210 a 225 | 25 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8544"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Bandage</a> | 25 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4338"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageweave Cloth</a> |
-
-Hasta 150 la ruta de vendas de Classic sigue sirviendo, mira la [guía de Classic Era](/es/tradeskills/classic/first-aid/). Si las pociones suben más rápido, aún no se sabe.
 
 ![La ventana de First Aid con las categorías Camping, Bandages y Healing Potions, una captura de la beta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-first-aid-window.jpg)
 

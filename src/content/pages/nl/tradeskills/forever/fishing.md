@@ -1,9 +1,9 @@
 ---
 title: "Fishing in WoW Forever: trainers, levelen en uitrusting"
 metaTitle: "WoW Forever Fishing-gids: trainers, levelen van 1 tot 225, zones en uitrusting"
-description: "Fishing in WoW Forever: elke trainer met coördinaten, waar je levelt van 1 tot 225, de skill die elke zone vraagt, de Artisan-quest van Nat Pagle, hengels, lures en de drie kampobjecten."
+description: "Fishing in WoW Forever: elke trainer, levelen van 1 tot 225, de skill die elke zone vraagt, de Artisan-quest, hengels, lures, eten met een Fishing-buff, de nieuwe Fishing Extravaganza en de kampobjecten."
 short: "Fishing"
-updated: 2026-09-29
+updated: 2026-10-03
 lang: nl
 faq:
   - q: "Maakt de zone uit voor hoe snel Fishing levelt?"
@@ -13,6 +13,7 @@ faq:
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
+manual: true
 ---
 Fishing is een secundaire tradeskill, dus het kost je nooit een van je twee hoofdplaatsen. Aan het vissen zelf verandert weinig in WoW Forever, maar de vis telt meer: Cooking maakt er eten van met een buff en 5% extra experience.
 
@@ -126,12 +127,34 @@ Wowhead zet bij de FC-5000 dat hij alleen voor de Horde is. De Strong Fishing Po
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19971"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">High Test Eternium Fishing Line</a> | +5 |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13620"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Fishing</a> | +2 |
 
+## Eten dat je skill verhoogt
+
+Sommige visgerechten uit Classic verhogen in Forever een tijdje je Fishing-skill. Het level is het characterlevel dat het eten vraagt.
+
+| Eten | Skill | Level |
+|---|---|---|
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6316"><img class="wf-wh__icon" src="/wh/inv_potion_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Loch Frenzy Delight</a> | +3 | 5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5476"><img class="wf-wh__icon" src="/wh/inv_misc_fish_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fillet of Frenzy</a> | +5 | 5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4593"><img class="wf-wh__icon" src="/wh/inv_misc_fish_30.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bristle Whisker Catfish</a> | +8 | 15 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4594"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rockscale Cod</a> | +12 | 25 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13930"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Filet of Redgill</a> | +18 | 35 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8957"><img class="wf-wh__icon" src="/wh/inv_misc_fish_22.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spinefin Halibut</a> | +18 | 45 |
+
+## De Fishing Extravaganza
+
+Het vistoernooi in Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, verandert in Forever op twee punten, schrijft Wowhead:
+
+- **De eerste 50 spelers winnen**, niet alleen de eerste die inlevert.
+- **Elke winnaar krijgt** de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> en een <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.
+
+Met de munt kies je één prijs: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19979"><img class="wf-wh__icon" src="/wh/trade_fishing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hook of the Master Angler</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276274"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Surfer Shoes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276272"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Angler's Fishing Hat</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276273"><img class="wf-wh__icon" src="/wh/inv_misc_1h_bucket_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Empty Fish Bucket</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276275"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_worm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bitter Baitling</a>.
+
 ## Kampobjecten
 
 | Object | Skill | Recept van | Wat het doet |
 |---|---|---|---|
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a> | 20 | Trainer | 8% alle stats bij het kamp |
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a>, opgevist uit pools | Lures en uncommon vissen in de buurt |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a>, een drop van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6243">Gelihast</a> in Blackfathom Deeps | Lures en uncommon vissen in de buurt |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273119"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Hut</a> | Lures en rare vissen in de buurt |
 
 Hoe een kampplaats werkt, staat in de [gids over camping](/nl/guides/camping/). Wat je met je vangst kookt, staat in de [Cooking-gids](/nl/tradeskills/forever/cooking/).

@@ -3,7 +3,7 @@ title: "Guía de mazmorras: cada misión de mazmorra en WoW Forever"
 metaTitle: "Misiones de mazmorra de WoW Forever: cada mazmorra, nivel y PNJ"
 description: "Cada mazmorra de WoW Forever con sus niveles y todas sus misiones: dónde empieza cada una, para qué facción, qué hace falta antes, y las llaves que piden algunas mazmorras."
 short: "Mazmorras"
-updated: 2026-10-02
+updated: 2026-10-03
 lang: es
 manual: true
 faq:
@@ -25,6 +25,7 @@ La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las m
 
 - **[The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/)**, niveles 13 a 18: cómo llegar, las cinco misiones con la cadena de Dun Morogh, los cuatro jefes y su botín.
 - **[Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/)**, niveles 15 a 20: cómo llegar con cada facción, las diez misiones, los seis jefes y su botín.
+- **[Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/)**, jefes de nivel 32 a 42: las cuatro alas, todas las misiones, el botín renovado de Graveyard y Library, y la nueva bonificación de set.
 
 ## Cada mazmorra por nivel
 
@@ -45,7 +46,7 @@ Para las mazmorras de Classic, los tres números son el nivel en que la mazmorra
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
 | Gnomeregan | 25 / 33 / 38 | 13 |
 | The Drowned City | 35 a 40 | aún no se conocen |
-| Scarlet Monastery | 26 / 37 / 45 | 8 |
+| [Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/) | 26 / 37 / 45 | 8 |
 | Razorfen Downs | 35 / 39 / 44 | 6 |
 | Krol'dok Stronghold | 40 a 45 | aún no se conocen |
 | Uldaman | 37 / 42 / 47 | 14 |
@@ -219,6 +220,8 @@ Al menos un jugador necesita la Workshop Key para abrir la puerta trasera; Lockp
 ## Scarlet Monastery
 
 Al menos un jugador necesita The Scarlet Key para la Armory y la Cathedral; Lockpicking 175 también sirve.
+
+La guía completa: [Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/).
 
 ### Todas las alas
 

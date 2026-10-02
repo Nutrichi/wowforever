@@ -3,7 +3,7 @@ title: "Dungeongids: elke dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: elke dungeon, elk level en elke questgever"
 description: "Elke dungeon van WoW Forever met zijn levels en al zijn quests: waar elke quest begint, voor welke factie, wat eerst moet, en de sleutels die sommige dungeons vragen."
 short: "Dungeons"
-updated: 2026-10-02
+updated: 2026-10-03
 lang: nl
 manual: true
 faq:
@@ -25,6 +25,7 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 
 - **[The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/)**, level 13 tot 18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot.
 - **[Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/)**, level 15 tot 20: de weg erheen voor beide facties, alle tien de quests, de zes bazen en hun loot.
+- **[Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/)**, bazen van level 32 tot 42: de vier vleugels, alle quests, de vernieuwde loot van Graveyard en Library, en de nieuwe setbonus.
 
 ## Elke dungeon op level
 
@@ -45,7 +46,7 @@ Voor de dungeons van Classic zijn de drie getallen het level waarop de dungeon m
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
 | Gnomeregan | 25 / 33 / 38 | 13 |
 | The Drowned City | 35 tot 40 | nog niet bekend |
-| Scarlet Monastery | 26 / 37 / 45 | 8 |
+| [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/) | 26 / 37 / 45 | 8 |
 | Razorfen Downs | 35 / 39 / 44 | 6 |
 | Krol'dok Stronghold | 40 tot 45 | nog niet bekend |
 | Uldaman | 37 / 42 / 47 | 14 |
@@ -219,6 +220,8 @@ Minstens één speler heeft de Workshop Key nodig voor de achterdeur; Lockpickin
 ## Scarlet Monastery
 
 Minstens één speler heeft The Scarlet Key nodig voor de Armory en de Cathedral; Lockpicking 175 werkt ook.
+
+De volledige gids: [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/).
 
 ### Alle vleugels
 

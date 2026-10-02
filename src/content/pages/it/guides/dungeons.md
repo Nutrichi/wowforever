@@ -3,7 +3,7 @@ title: "Guida ai dungeon: ogni missione dei dungeon in WoW Forever"
 metaTitle: "Missioni dei dungeon di WoW Forever: ogni dungeon, livello e PNG"
 description: "Ogni dungeon di WoW Forever con i suoi livelli e tutte le sue missioni: dove inizia ciascuna, per quale fazione, cosa serve prima, e le chiavi che alcuni dungeon richiedono."
 short: "Dungeon"
-updated: 2026-10-02
+updated: 2026-10-03
 lang: it
 manual: true
 faq:
@@ -25,6 +25,7 @@ La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Per i dungeon oltre
 
 - **[The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/)**, livelli dal 13 al 18: come arrivarci, le cinque missioni con la catena di Dun Morogh, i quattro boss e il loro bottino.
 - **[Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/)**, livelli dal 15 al 20: come arrivarci con entrambe le fazioni, le dieci missioni, i sei boss e il loro bottino.
+- **[Scarlet Monastery](/it/guides/dungeons/scarlet-monastery/)**, boss dal livello 32 al 42: le quattro ali, tutte le missioni, il bottino rinnovato di Graveyard e Library, e il nuovo bonus del set.
 
 ## Ogni dungeon per livello
 
@@ -45,7 +46,7 @@ Per i dungeon di Classic, i tre numeri sono il livello a cui il dungeon è diffi
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
 | Gnomeregan | 25 / 33 / 38 | 13 |
 | The Drowned City | 35 a 40 | non ancora note |
-| Scarlet Monastery | 26 / 37 / 45 | 8 |
+| [Scarlet Monastery](/it/guides/dungeons/scarlet-monastery/) | 26 / 37 / 45 | 8 |
 | Razorfen Downs | 35 / 39 / 44 | 6 |
 | Krol'dok Stronghold | 40 a 45 | non ancora note |
 | Uldaman | 37 / 42 / 47 | 14 |
@@ -219,6 +220,8 @@ Almeno un giocatore deve avere la Workshop Key per aprire la porta sul retro; fu
 ## Scarlet Monastery
 
 Almeno un giocatore deve avere The Scarlet Key per l’Armory e la Cathedral; funziona anche Lockpicking 175.
+
+La guida completa: [Scarlet Monastery](/it/guides/dungeons/scarlet-monastery/).
 
 ### Tutte le ali
 
