@@ -25,6 +25,10 @@ La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Per i dungeon oltre
 
 - **[The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/)**, livelli dal 13 al 18: come arrivarci, le cinque missioni con la catena di Dun Morogh, i quattro boss e il loro bottino.
 - **[Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/)**, livelli dal 15 al 20: come arrivarci con entrambe le fazioni, le dieci missioni, i sei boss e il loro bottino.
+- **[The Deadmines](/it/guides/dungeons/the-deadmines/)**, boss dal livello 19 al 21: l’ingresso da Moonbrook, il percorso fino alla nave, tutte e sei le missioni e il nuovo bottino di ogni boss.
+- **[Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/)**, boss dal livello 20 al 26: l’ingresso sopra Pyrewood Village, le tre missioni della Horde e il nuovo bottino di ogni boss.
+- **[Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/)**, boss dal livello 25 al 28: l’ingresso sulla Zoram Strand, le missioni di entrambe le fazioni e il nuovo bottino di ogni boss.
+- **[The Stockade](/it/guides/dungeons/the-stockade/)**, boss dal livello 24 al 29: la pianta della prigione, tutte e sei le missioni e il bottino di Bruegal Ironknuckle.
 - **[Scarlet Monastery](/it/guides/dungeons/scarlet-monastery/)**, boss dal livello 32 al 42: le quattro ali, tutte le missioni, il bottino rinnovato di Graveyard e Library, e il nuovo bonus del set.
 
 ## Ogni dungeon per livello
@@ -37,11 +41,11 @@ Per i dungeon di Classic, i tre numeri sono il livello a cui il dungeon è diffi
 | [The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/) | 13 a 18 | 5 |
 | [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/) | 15 a 20 | 10 |
 | Wailing Caverns | 15 / 19 / 24 | 7 |
-| The Deadmines | 14 / 19 / 24 | 7 |
-| Shadowfang Keep | 18 / 23 / 28 | 5 |
-| Blackfathom Deeps | 21 / 25 / 30 | 13 |
+| [The Deadmines](/it/guides/dungeons/the-deadmines/) | 14 / 19 / 24 | 7 |
+| [Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/) | 18 / 23 / 28 | 5 |
+| [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/) | 21 / 25 / 30 | 13 |
 | Excavation Site: Wetlands | 26 a 31 | non ancora note |
-| The Stockade | 22 / 26 / 30 | 6 |
+| [The Stockade](/it/guides/dungeons/the-stockade/) | 22 / 26 / 30 | 6 |
 | City of Dalaran | 28 a 33 | non ancora note |
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
 | Gnomeregan | 25 / 33 / 38 | 13 |
@@ -107,6 +111,7 @@ La guida completa: [The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/).
 
 ## The Deadmines
 
+La guida completa: [The Deadmines](/it/guides/dungeons/the-deadmines/).
 
 | Missione | Dove inizia |
 |---|---|
@@ -137,6 +142,7 @@ La guida completa: [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/)
 
 ## Shadowfang Keep
 
+La guida completa: [Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/).
 
 | Missione | Dove inizia |
 |---|---|
@@ -148,6 +154,7 @@ La guida completa: [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/)
 
 ## Blackfathom Deeps
 
+La guida completa: [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/).
 
 ### Horde
 
@@ -174,6 +181,7 @@ La guida completa: [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/)
 
 ## The Stockade
 
+La guida completa: [The Stockade](/it/guides/dungeons/the-stockade/).
 
 | Missione | Dove inizia |
 |---|---|

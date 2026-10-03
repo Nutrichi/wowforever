@@ -3,7 +3,7 @@ title: "Guías para WoW Forever"
 metaTitle: "Guías de WoW Forever: misiones de mazmorra, cadenas de misiones y más"
 description: "Todas las guías para WoW Forever en un solo lugar: la guía de mazmorras con cada misión de mazmorra, The Hall of Thanes y Ruins of Lordaeron, la cadena del Cozy Sleeping Bag, el camping, la BMAH, cada mascota, y las rutas, guías de clase y guías de profesión de la web."
 short: "Guías"
-updated: 2026-09-30
+updated: 2026-10-03
 lang: es
 manual: true
 ---
@@ -16,6 +16,11 @@ Guías paso a paso para World of Warcraft: Forever, desde misiones de mazmorra h
 | [Guía de mazmorras](/es/guides/dungeons/) | Cada mazmorra de WoW Forever por nivel, con todas sus misiones: dónde empiezan, para qué facción y qué hace falta antes |
 | [The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/) | La primera mazmorra nueva de la Alianza, niveles 13 a 18: cómo llegar, las cinco misiones con la cadena de Dun Morogh, los cuatro jefes y su botín |
 | [Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/) | La mazmorra sobre la Undercity, niveles 15 a 20: cómo llegar, todas las misiones de la Horde y la Alliance, los seis jefes y su botín |
+| [The Deadmines](/es/guides/dungeons/the-deadmines/) | El escondite de los Defias bajo Moonbrook, niveles 14 a 24: la entrada, las seis misiones, los ocho jefes y su botín nuevo |
+| [Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/) | El castillo de Arugal en Silverpine Forest, niveles 18 a 28: la entrada, las tres misiones de la Horde, los nueve jefes y su botín nuevo |
+| [Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/) | El templo hundido de Ashenvale, niveles 21 a 30: la entrada, las misiones de ambas facciones, los ocho jefes y su botín nuevo |
+| [The Stockade](/es/guides/dungeons/the-stockade/) | La prisión de Stormwind, niveles 22 a 30: la planta, las seis misiones y los seis jefes |
+| [Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/) | El bastión de la Scarlet Crusade en Tirisfal Glades, jefes de nivel 32 a 42: las cuatro alas, todas las misiones, el botín nuevo y la bonificación de set |
 
 ## Cadenas de misiones
 

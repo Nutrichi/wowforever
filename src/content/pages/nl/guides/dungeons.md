@@ -25,6 +25,10 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 
 - **[The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/)**, level 13 tot 18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot.
 - **[Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/)**, level 15 tot 20: de weg erheen voor beide facties, alle tien de quests, de zes bazen en hun loot.
+- **[The Deadmines](/nl/guides/dungeons/the-deadmines/)**, bazen van level 19 tot 21: de weg naar binnen via Moonbrook, de route naar het schip, alle zes de quests en de nieuwe loot van elke baas.
+- **[Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/)**, bazen van level 20 tot 26: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas.
+- **[Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/)**, bazen van level 25 tot 28: de weg naar binnen aan de Zoram Strand, de quests van beide facties en de nieuwe loot van elke baas.
+- **[The Stockade](/nl/guides/dungeons/the-stockade/)**, bazen van level 24 tot 29: de indeling van de gevangenis, alle zes de quests en de loot van Bruegal Ironknuckle.
 - **[Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/)**, bazen van level 32 tot 42: de vier vleugels, alle quests, de vernieuwde loot van Graveyard en Library, en de nieuwe setbonus.
 
 ## Elke dungeon op level
@@ -37,11 +41,11 @@ Voor de dungeons van Classic zijn de drie getallen het level waarop de dungeon m
 | [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/) | 13 tot 18 | 5 |
 | [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) | 15 tot 20 | 10 |
 | Wailing Caverns | 15 / 19 / 24 | 7 |
-| The Deadmines | 14 / 19 / 24 | 7 |
-| Shadowfang Keep | 18 / 23 / 28 | 5 |
-| Blackfathom Deeps | 21 / 25 / 30 | 13 |
+| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | 14 / 19 / 24 | 7 |
+| [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | 18 / 23 / 28 | 5 |
+| [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | 21 / 25 / 30 | 13 |
 | Excavation Site: Wetlands | 26 tot 31 | nog niet bekend |
-| The Stockade | 22 / 26 / 30 | 6 |
+| [The Stockade](/nl/guides/dungeons/the-stockade/) | 22 / 26 / 30 | 6 |
 | City of Dalaran | 28 tot 33 | nog niet bekend |
 | Razorfen Kraul | 25 / 31 / 34 | 7 |
 | Gnomeregan | 25 / 33 / 38 | 13 |
@@ -107,6 +111,7 @@ De volledige gids: [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/).
 
 ## The Deadmines
 
+De volledige gids: [The Deadmines](/nl/guides/dungeons/the-deadmines/).
 
 | Quest | Waar hij begint |
 |---|---|
@@ -137,6 +142,7 @@ De volledige gids: [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/)
 
 ## Shadowfang Keep
 
+De volledige gids: [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/).
 
 | Quest | Waar hij begint |
 |---|---|
@@ -148,6 +154,7 @@ De volledige gids: [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/)
 
 ## Blackfathom Deeps
 
+De volledige gids: [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/).
 
 ### Horde
 
@@ -174,6 +181,7 @@ De volledige gids: [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/)
 
 ## The Stockade
 
+De volledige gids: [The Stockade](/nl/guides/dungeons/the-stockade/).
 
 | Quest | Waar hij begint |
 |---|---|

@@ -3,7 +3,7 @@ title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
 description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, il camping, la BMAH, ogni mascotte, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
-updated: 2026-09-30
+updated: 2026-10-03
 lang: it
 manual: true
 ---
@@ -16,6 +16,11 @@ Guide passo per passo per World of Warcraft: Forever, dalle missioni dei dungeon
 | [Guida ai dungeon](/it/guides/dungeons/) | Ogni dungeon di WoW Forever per livello, con tutte le sue missioni: dove iniziano, per quale fazione e cosa serve prima |
 | [The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/) | Il primo nuovo dungeon dell'Alleanza, livelli da 13 a 18: come arrivarci, le cinque missioni con la catena di Dun Morogh, i quattro boss e il loro bottino |
 | [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/) | Il dungeon sopra la Undercity, livelli da 15 a 20: come arrivarci, tutte le missioni per la Horde e l'Alliance, i sei boss e il loro bottino |
+| [The Deadmines](/it/guides/dungeons/the-deadmines/) | Il covo dei Defias sotto Moonbrook, livelli da 14 a 24: l’ingresso, tutte e sei le missioni, gli otto boss e il loro nuovo bottino |
+| [Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/) | Il castello di Arugal a Silverpine Forest, livelli da 18 a 28: l’ingresso, le tre missioni della Horde, i nove boss e il loro nuovo bottino |
+| [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/) | Il tempio sommerso di Ashenvale, livelli da 21 a 30: l’ingresso, le missioni di entrambe le fazioni, gli otto boss e il loro nuovo bottino |
+| [The Stockade](/it/guides/dungeons/the-stockade/) | La prigione di Stormwind, livelli da 22 a 30: la pianta, tutte e sei le missioni e i sei boss |
+| [Scarlet Monastery](/it/guides/dungeons/scarlet-monastery/) | La roccaforte della Scarlet Crusade a Tirisfal Glades, boss dal livello 32 al 42: le quattro ali, tutte le missioni, il nuovo bottino e il bonus del set |
 
 ## Catene di missioni
 
