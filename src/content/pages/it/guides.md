@@ -11,16 +11,24 @@ Guide passo per passo per World of Warcraft: Forever, dalle missioni dei dungeon
 
 ## Dungeon
 
+Tutti i dungeon di WoW Forever per livello, con tutte le loro missioni, sono nella [panoramica dei dungeon](/it/guides/dungeons/).
+
 | Guida | Di cosa tratta |
 |---|---|
-| [Guida ai dungeon](/it/guides/dungeons/) | Ogni dungeon di WoW Forever per livello, con tutte le sue missioni: dove iniziano, per quale fazione e cosa serve prima |
-| [The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/) | Il primo nuovo dungeon dell'Alleanza, livelli da 13 a 18: come arrivarci, le cinque missioni con la catena di Dun Morogh, i quattro boss e il loro bottino |
-| [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/) | Il dungeon sopra la Undercity, livelli da 15 a 20: come arrivarci, tutte le missioni per la Horde e l'Alliance, i sei boss e il loro bottino |
-| [The Deadmines](/it/guides/dungeons/the-deadmines/) | Il covo dei Defias sotto Moonbrook, livelli da 14 a 24: l’ingresso, tutte e sei le missioni, gli otto boss e il loro nuovo bottino |
-| [Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/) | Il castello di Arugal a Silverpine Forest, livelli da 18 a 28: l’ingresso, le tre missioni della Horde, i nove boss e il loro nuovo bottino |
-| [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/) | Il tempio sommerso di Ashenvale, livelli da 21 a 30: l’ingresso, le missioni di entrambe le fazioni, gli otto boss e il loro nuovo bottino |
-| [The Stockade](/it/guides/dungeons/the-stockade/) | La prigione di Stormwind, livelli da 22 a 30: la pianta, tutte e sei le missioni e i sei boss |
-| [Scarlet Monastery](/it/guides/dungeons/scarlet-monastery/) | La roccaforte della Scarlet Crusade a Tirisfal Glades, boss dal livello 32 al 42: le quattro ali, tutte le missioni, il nuovo bottino e il bonus del set |
+| [Ragefire Chasm](/it/guides/dungeons/ragefire-chasm/) | Livelli 9-19: l’ingresso da Orgrimmar, le sei missioni della Horde con le loro ricompense e il nuovo bottino di Taragaman e Jergosh |
+| [The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/) | Livelli 13-18: come arrivarci, le cinque missioni con la catena di Dun Morogh, i quattro boss e il loro bottino |
+| [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/) | Livelli 15-20: come arrivarci con entrambe le fazioni, le dieci missioni, i sei boss e il loro bottino |
+| [Wailing Caverns](/it/guides/dungeons/wailing-caverns/) | Livelli 15-24: le sette missioni con le loro ricompense, i Lords of the Fang, l’evento di Naralex e i nuovi bonus di Embrace of the Viper |
+| [The Deadmines](/it/guides/dungeons/the-deadmines/) | Livelli 14-24: l’ingresso da Moonbrook, le sei missioni con le loro ricompense e il nuovo bottino di ogni boss |
+| [Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/) | Livelli 18-28: l’ingresso sopra Pyrewood Village, le tre missioni della Horde e il nuovo bottino di ogni boss |
+| [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/) | Livelli 21-30: l’ingresso sulla Zoram Strand, le missioni di entrambe le fazioni e il nuovo bottino di ogni boss |
+| [Excavation Site: Wetlands](/it/guides/dungeons/excavation-site-wetlands/) | Livelli 26-31, nuovo in Forever: le missioni di entrambe le fazioni, l’erba alta e i tre boss con il loro bottino |
+| [The Stockade](/it/guides/dungeons/the-stockade/) | Livelli 22-30: la pianta della prigione, le sei missioni e il bottino di Bruegal Ironknuckle |
+| [City of Dalaran](/it/guides/dungeons/city-of-dalaran/) | Livelli 28-33, nuovo in Forever: i due ingressi, i nemici arcani e i sette boss |
+| [Razorfen Kraul](/it/guides/dungeons/razorfen-kraul/) | Livelli 25-34: le sette missioni con le loro ricompense, gli incantatori quilboar e il nuovo bottino di ogni boss |
+| [Gnomeregan](/it/guides/dungeons/gnomeregan/) | Livelli 25-38: le due porte, il teletrasporto della Horde, le tredici missioni e il nuovo bottino di ogni boss |
+| [Scarlet Monastery](/it/guides/dungeons/scarlet-monastery/) | Livelli 26-45: le quattro ali, ogni missione con la sua ricompensa e il bottino di ogni boss |
+| [Razorfen Downs](/it/guides/dungeons/razorfen-downs/) | Livelli 35-44: le sei missioni con le loro ricompense, l’evento del gong e il nuovo bottino di ogni boss |
 
 ## Catene di missioni
 

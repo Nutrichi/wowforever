@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿De qué nivel es The Hall of Thanes?"
-    a: "Blizzard da de 13 a 18. El nivel 11 es difícil, el 14 a nivel y el 19 fácil. El botín de los jefes pide nivel 13, y las misiones nivel 9 o 10."
+    a: "Blizzard da de 13 a 18. El botín de los jefes pide nivel 13, y las misiones nivel 9 o 10."
   - q: "¿Dónde está la entrada de The Hall of Thanes?"
     a: "En Old Ironforge. La puerta está a la izquierda nada más entrar en el High Seat de Ironforge, y un camino baja hasta el portal. El Spirit Healer está justo fuera de la ciudad."
   - q: "¿Cuántas misiones tiene The Hall of Thanes?"
@@ -35,7 +35,7 @@ The Hall of Thanes es la nueva mazmorra bajo Old Ironforge, para los niveles 13 
 
 | | |
 |---|---|
-| Niveles | 13 a 18 según Blizzard; difícil a 11, a nivel a 14, fácil a 19 |
+| Niveles | 13-18 según Blizzard |
 | Entrada | Old Ironforge, bajo el High Seat de Ironforge |
 | Jefes | 4: Faldrim Anvilmar, Magmatus, Plunder, Durgen Dirgehammer |
 | Misiones | 5, todas de la Alliance salvo An Ancient Grudge |

@@ -33,7 +33,7 @@ De Ruins of Lordaeron is een nieuwe dungeon in de verwoeste hoofdstad boven de U
 
 | | |
 |---|---|
-| Level | 15 tot 20 volgens Blizzard, 16 tot 22 aangeraden |
+| Level | 15-20 volgens Blizzard, 16-22 aangeraden |
 | Ingang | De open ruïnes van Lordaeron boven de Undercity, Tirisfal Glades |
 | Bazen | 6, in willekeurige volgorde |
 | Quests | 6 voor de Horde, 4 voor de Alliance |

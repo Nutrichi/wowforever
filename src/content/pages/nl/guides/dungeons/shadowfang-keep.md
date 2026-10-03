@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: nl
 faq:
   - q: "Welk level is Shadowfang Keep in WoW Forever?"
-    a: "De bazen zijn level 20 tot 26. De dungeon is moeilijk op 18, op level op 23 en makkelijk op 28. Warcraft Tavern geeft een bereik van 20 tot 26."
+    a: "Groepen doen de dungeon van level 18 tot 28. De bazen zijn level 20 tot 26."
   - q: "Waar is de ingang van Shadowfang Keep?"
     a: "In Silverpine Forest, in de bergen net ten noorden van Pyrewood Village, op /way 44.5 68.0."
   - q: "Heeft Shadowfang Keep quests voor de Alliance?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/shadowfang-keep/"
   - name: "Warcraft Tavern, de quests"
     url: "https://www.warcrafttavern.com/forever/guides/shadowfang-keep-quests/"
+  - name: "Wowhead, de dungeongids"
+    url: "https://www.wowhead.com/forever/guide/shadowfang-keep-dungeon-overview-location-rewards"
   - name: "Wowhead, de dungeonquests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 manual: true
@@ -31,7 +33,7 @@ Shadowfang Keep was het kasteel van Baron Silverlaine in Silverpine Forest. Arch
 
 | | |
 |---|---|
-| Levels | Bazen van 20 tot 26; moeilijk op 18, op level op 23, makkelijk op 28 |
+| Levels | 18-28, bazen van level 20 tot 26 |
 | Ingang | Silverpine Forest, ten noorden van Pyrewood Village, /way 44.5 68.0 |
 | Bazen | 9, waarvan de Deathsworn Captain een rare is |
 | Quests | 3, allemaal Horde |
@@ -55,13 +57,13 @@ Voor de Alliance is Silverpine Forest op dit level een lange en gevaarlijke reis
 
 ## De quests
 
-| Quest | Waar hij begint | Level |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=1013">The Book of Ur</a><br>Deelbaar | Undercity, The Apothecarium: Keeper Bel'dugur /way 53 54 | 26 |
-| <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Deelbaar | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 25 |
-| <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Deelbaar | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 27 |
+| Quest | Waar hij begint | Level | Beloning |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=1013">The Book of Ur</a><br>Deelbaar | Undercity, The Apothecarium: Keeper Bel'dugur /way 53 54 | 16 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6335"><img class="wf-wh__icon" src="/wh/inv_boots_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grizzled Boots</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=4534"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Steel-clasped Bracers</a> |
+| <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Deelbaar | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3324"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostly Mantle</a> |
+| <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Deelbaar | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6414"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Sylvanas</a> |
 
-Het level is het level van de quest in de data van de beta. Geen van de drie vraagt een eerdere quest, dus een groep van de Horde kan ze allemaal tegelijk oppikken en delen. De beloningen zijn veranderd in Forever, schrijft Warcraft Tavern, maar welke items ze nu geven, is nog niet bekend.
+Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead. Geen van de drie vraagt een eerdere quest, dus een groep van de Horde kan ze allemaal tegelijk oppikken en delen. De beloningen komen van Wowhead; waar die er geen noemt, zijn ze nog niet bekend.
 
 ### Deathstalkers in Shadowfang
 
@@ -79,7 +81,7 @@ Ook twee classquests leiden hierheen: <a href="https://www.wowhead.com/forever/q
 
 ## De bazen en hun loot
 
-De loot hieronder is wat deze bazen in Classic lieten vallen, met de stats uit de bestanden van de beta. Blizzard heeft de droptabellen van Forever niet gepubliceerd, dus een baas kan nog iets anders laten vallen.
+De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta.
 
 ### Rethilgore
 
@@ -88,6 +90,14 @@ Een elite worgen van level 20 met twee Bleak Worgs en een Shadowfang Whitescalp.
 | Item | Nieuw in Forever |
 |---|---|
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5254"><img class="wf-wh__icon" src="/wh/inv_shoulder_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rugged Spaulders</a> | Blauw in plaats van wit: extra armor en 2 op elke resistance |
+
+### Fel Steeds en de Shadow Charger
+
+De <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> en de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> slaan heel hard, en wie er een pullt, pullt ze alle drie, schrijft Wowhead. Polymorph er een en laat een pet van een Hunter of Warlock een andere tanken.
+
+| Item | Nieuw in Forever |
+|---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=932"><img class="wf-wh__icon" src="/wh/inv_misc_bag_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fel Steed Saddlebags</a> | Een unieke tas met 10 vakjes |
 
 ### Razorclaw the Butcher
 
@@ -98,6 +108,7 @@ Een elite van level 22 in de keuken, met adds die je eerst markeert en doodt. Zi
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6226"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_24.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloody Apron</a> | Blauw, 7 health per 5 seconden en tot 13 healing |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1292"><img class="wf-wh__icon" src="/wh/inv_axe_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Butcher's Cleaver</a> | Lagere minimumschade, hogere maximumschade |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Nieuw: plaatst een Tanning Rack op een kampplaats, Leatherworking 140 |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6633"><img class="wf-wh__icon" src="/wh/inv_sword_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Butcher's Slicer</a> | Blauw, 6 Attack Power en 3 Stamina |
 
 ### Baron Silverlaine
 
@@ -165,6 +176,6 @@ De eindbaas, een elite van level 26. Dood eerst de drie worgen in zijn kamer. Ar
 
 ## Wat nog niet bekend is
 
-- **De droptabellen van Forever**: welke baas nu welk item laat vallen, en hoe vaak.
-- **De beloningen van de quests**, die volgens Warcraft Tavern veranderd zijn.
+- **De dropkansen** van de loot van de bazen.
+- **De beloningen van de quests** die Wowhead nog niet noemt.
 - **De weg naar binnen voor de Alliance**: hoe snel die echt is voor de Skyborne vanuit Dalaran.

@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: en
 faq:
   - q: "What level is the Stockade in WoW Forever?"
-    a: "The bosses are level 24 to 29. The dungeon is hard at 22, at level at 26 and easy at 30. Warcraft Tavern gives a range of 25 to 29."
+    a: "Groups take it on from level 22 to 30. The bosses are level 24 to 29."
   - q: "Where is the entrance to the Stockade?"
     a: "In The Canals of Stormwind City, near The Mage Quarter, at /way 42 58. Warden Thelwater stands just outside."
   - q: "Can the Horde do the Stockade?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/the-stockade-dungeon-map-location-bosses/"
   - name: "Warcraft Tavern, the quests"
     url: "https://www.warcrafttavern.com/forever/guides/the-stockade-quests/"
+  - name: "Wowhead, the dungeon guide"
+    url: "https://www.wowhead.com/forever/guide/the-stockade-dungeon-overview-location-rewards"
   - name: "Wowhead, the dungeon quests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 ---
@@ -30,7 +32,7 @@ The Stockade is the prison of Stormwind, deep under the canals of the city. The 
 
 | | |
 |---|---|
-| Levels | Bosses of 24 to 29; hard at 22, at level at 26, easy at 30 |
+| Levels | 22-30, bosses of level 24 to 29 |
 | Entrance | The Canals of Stormwind City, near The Mage Quarter, /way 42 58 |
 | Bosses | 6, of which Bruegal Ironknuckle is a rare |
 | Quests | 6, all Alliance |
@@ -50,16 +52,16 @@ The cell block is a T. A corridor goes straight ahead, and at its end two wings 
 
 ## The quests
 
-| Quest | Where it starts | Level |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=387">Quell the Uprising</a><br>Shareable | Stormwind, outside the Stockade: Warden Thelwater /way 41 58 | 26 |
-| <a href="https://www.wowhead.com/forever/quest=388">The Color of Blood</a><br>Shareable | Stormwind, Old Town: Nikova Raskol, who walks around | 26 |
-| <a href="https://www.wowhead.com/forever/quest=377">Crime and Punishment</a><br>Shareable | Duskwood, Darkshire: Councilman Millstipe /way 42 47 | 26 |
-| <a href="https://www.wowhead.com/forever/quest=386">What Comes Around...</a><br>Shareable | Redridge Mountains, Lakeshire: Guard Berton /way 26 46 | 25 |
-| <a href="https://www.wowhead.com/forever/quest=378">The Fury Runs Deep</a> | Wetlands, Dun Modr: Motley Garmason /way 49 18<br><em>Complete <a href="https://www.wowhead.com/forever/quest=303">The Dark Iron War</a> first.</em> | 27 |
-| <a href="https://www.wowhead.com/forever/quest=391">The Stockade Riots</a> | Stormwind, outside the Stockade: Warden Thelwater /way 41 58<br><em>Complete the chain that starts with The Unsent Letter in The Deadmines first.</em> | 29 |
+| Quest | Where it starts | Level | Reward |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=387">Quell the Uprising</a><br>Shareable | Stormwind, outside the Stockade: Warden Thelwater /way 41 58 | 22 | Experience and silver |
+| <a href="https://www.wowhead.com/forever/quest=388">The Color of Blood</a><br>Shareable | Stormwind, Old Town: Nikova Raskol, who walks around | 22 | Experience and silver |
+| <a href="https://www.wowhead.com/forever/quest=377">Crime and Punishment</a><br>Shareable | Duskwood, Darkshire: Councilman Millstipe /way 42 47 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2033"><img class="wf-wh__icon" src="/wh/inv_boots_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ambassador's Boots</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2906"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Darkshire Mail Leggings</a> |
+| <a href="https://www.wowhead.com/forever/quest=386">What Comes Around...</a><br>Shareable | Redridge Mountains, Lakeshire: Guard Berton /way 26 46 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3400"><img class="wf-wh__icon" src="/wh/inv_sword_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lucine Longsword</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1317"><img class="wf-wh__icon" src="/wh/inv_staff_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hardened Root Staff</a> |
+| <a href="https://www.wowhead.com/forever/quest=378">The Fury Runs Deep</a> | Wetlands, Dun Modr: Motley Garmason /way 49 18<br><em>Complete <a href="https://www.wowhead.com/forever/quest=303">The Dark Iron War</a> first.</em> | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3562"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Belt of Vindication</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1264"><img class="wf-wh__icon" src="/wh/inv_mace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Headbasher</a> |
+| <a href="https://www.wowhead.com/forever/quest=391">The Stockade Riots</a> | Stormwind, outside the Stockade: Warden Thelwater /way 41 58<br><em>Complete the chain that starts with The Unsent Letter in The Deadmines first.</em> | 16 | Experience and silver |
 
-The level is the level of the quest in the data of the beta. The rewards changed in Forever, writes Warcraft Tavern, but which items they give now is not known yet.
+The level is the lowest level at which the quest can be picked up, according to Wowhead. The rewards come from Wowhead; where it lists none, they are not known yet.
 
 - **Quell the Uprising.** Kill 10 Defias Prisoners, 8 Defias Convicts and 8 Defias Insurgents.
 - **The Color of Blood.** Nikova Raskol wants 10 Red Wool Bandanas. They drop from the Defias Captives, Convicts, Inmates, Insurgents and Prisoners, and from Bazil Thredd, Bruegal Ironknuckle and Dextren Ward.
@@ -92,6 +94,8 @@ A level 29 elite and the strongest of the prisoners, with adds around him. Clear
 
 ### Bruegal Ironknuckle, a rare
 
+Every boss of the Stockade can drop uncommon items, writes Wowhead, but only Bruegal Ironknuckle reliably drops valuable gear.
+
 A level 26 rare elite who does not always spawn. He is the only boss with real loot, three blue items that all improved in the files of the beta:
 
 | Item | New in Forever |
@@ -106,6 +110,6 @@ All three now need level 23 instead of 21.
 
 ## What is not known yet
 
-- **The drop tables of Forever**: whether the bosses without loot got any.
+- **The drop rates** of the boss loot.
 - **Kam's Walking Stick**: which monster drops it now.
-- **The quest rewards**, which changed according to Warcraft Tavern.
+- **The quest rewards** that Wowhead does not list yet.

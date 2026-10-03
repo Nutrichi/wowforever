@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: en
 faq:
   - q: "What level is the Deadmines in WoW Forever?"
-    a: "The bosses are level 19 to 21. The dungeon is hard at 14, at level at 19 and easy at 24. Warcraft Tavern gives a range of 15 to 22."
+    a: "Groups take it on from level 14 to 24. The bosses are level 19 to 21."
   - q: "Where is the entrance to the Deadmines?"
     a: "In Westfall, inside the Defias Hideout, the large building in the southwest of Moonbrook at /way 42 72. The portal is at the bottom of the caves below it."
   - q: "Has the loot of the Deadmines changed in WoW Forever?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"
   - name: "Warcraft Tavern, the quests"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines-quests/"
+  - name: "Wowhead, the dungeon guide"
+    url: "https://www.wowhead.com/forever/guide/the-deadmines-dungeon-overview-location-rewards"
   - name: "Wowhead, the dungeon quests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 ---
@@ -30,7 +32,7 @@ The Deadmines is the hideout of the Defias Brotherhood under Moonbrook in Westfa
 
 | | |
 |---|---|
-| Levels | Bosses of 19 to 21; hard at 14, at level at 19, easy at 24 |
+| Levels | 14-24, bosses of level 19 to 21 |
 | Entrance | The Defias Hideout in Moonbrook, Westfall, /way 42 72 |
 | Bosses | 8, of which Miner Johnson is a rare |
 | Quests | 6, all Alliance |
@@ -57,16 +59,16 @@ The Alliance has Sentinel Hill close by. The Horde has no quests in the Deadmine
 
 ## The quests
 
-| Quest | Where it starts | Level |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=168">Collecting Memories</a><br>Shareable | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 18 |
-| <a href="https://www.wowhead.com/forever/quest=167">Oh Brother...</a><br>Shareable | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 20 |
-| <a href="https://www.wowhead.com/forever/quest=2040">Underground Assault</a><br>Shareable | Stormwind, Dwarven District: Shoni the Shilent /way 55 13<br><em>The chain starts with Gnoarn in Tinker Town, Ironforge.</em> | 20 |
-| <a href="https://www.wowhead.com/forever/quest=214">Red Silk Bandanas</a> | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Complete 6 quests first, starting with The Defias Brotherhood from Gryan Stoutmantle.</em> | 17 |
-| <a href="https://www.wowhead.com/forever/quest=166">The Defias Brotherhood</a> | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>The end of a chain of six quests with the same name.</em> | 22 |
-| <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Inside the dungeon: An Unsent Letter, a drop from Edwin VanCleef | 22 |
+| Quest | Where it starts | Level | Reward |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=168">Collecting Memories</a><br>Shareable | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 14 | Not known yet |
+| <a href="https://www.wowhead.com/forever/quest=167">Oh Brother...</a><br>Shareable | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 15 | Not known yet |
+| <a href="https://www.wowhead.com/forever/quest=2040">Underground Assault</a><br>Shareable | Stormwind, Dwarven District: Shoni the Shilent /way 55 13<br><em>The chain starts with Gnoarn in Tinker Town, Ironforge.</em> | 15 | Not known yet |
+| <a href="https://www.wowhead.com/forever/quest=214">Red Silk Bandanas</a> | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Complete 6 quests first, starting with The Defias Brotherhood from Gryan Stoutmantle.</em> | 14 | Not known yet |
+| <a href="https://www.wowhead.com/forever/quest=166">The Defias Brotherhood</a> | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>The end of a chain of six quests with the same name.</em> | 14 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6087"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chausses of Westfall</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2042"><img class="wf-wh__icon" src="/wh/inv_staff_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Westfall</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2041"><img class="wf-wh__icon" src="/wh/inv_chest_leather_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tunic of Westfall</a> |
+| <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Inside the dungeon: An Unsent Letter, a drop from Edwin VanCleef | 16 | Not known yet |
 
-The level is the level of the quest in the data of the beta. The rewards of these quests changed in Forever, writes Warcraft Tavern, but which items they give now is not known yet.
+The level is the lowest level at which the quest can be picked up, according to Wowhead. The rewards come from Wowhead; where it lists none, they are not known yet.
 
 ### Collecting Memories
 
@@ -134,11 +136,11 @@ Edwin VanCleef drops An Unsent Letter, which starts this quest from level 16. Br
 
 </div>
 
-Paladins of the Alliance also come here for <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, the end of the Tome of Valor chain. It is in the [dungeon guide](/guides/dungeons/).
+Paladins of the Alliance also come here for <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, the end of the Tome of Valor chain that ends with <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: the Whitestone Oak Lumber drops from the Goblin Woodcarvers near the start. Horde Paladins get a counterpart that is new in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>, writes Wowhead. The chain starts in Bandarion Keep in Tirisfal Glades; Lumina Windsinger hands out the quest in the crypt in Silverpine Forest, /way 43 40. Both are in the [dungeon guide](/guides/dungeons/).
 
 ## The bosses and their loot
 
-The loot below is the loot these bosses dropped in Classic, with the stats from the files of the beta. Blizzard has not published the drop tables of Forever, so a boss can still drop something else.
+The loot per boss comes from Wowhead, with the stats from the files of the beta.
 
 ### Rhahk'Zor
 
@@ -245,6 +247,6 @@ The stats in the files of the beta have changed since that post: the First Mate 
 
 ## What is not known yet
 
-- **The drop tables of Forever**: which boss drops which item now, and how often.
-- **The quest rewards**, which changed according to Warcraft Tavern.
+- **The drop rates** of the boss loot.
+- **The quest rewards** that Wowhead does not list yet.
 - **The Band of the Better Half**: where it drops.

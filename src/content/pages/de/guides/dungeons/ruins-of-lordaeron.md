@@ -33,7 +33,7 @@ Die Ruins of Lordaeron sind ein neuer Dungeon in der zerstörten Hauptstadt übe
 
 | | |
 |---|---|
-| Level | 15 bis 20 laut Blizzard, 16 bis 22 empfohlen |
+| Level | 15-20 laut Blizzard, 16-22 empfohlen |
 | Eingang | Die offenen Ruinen von Lordaeron über der Undercity, Tirisfal Glades |
 | Bosse | 6, in beliebiger Reihenfolge |
 | Quests | 6 für die Horde, 4 für die Alliance |

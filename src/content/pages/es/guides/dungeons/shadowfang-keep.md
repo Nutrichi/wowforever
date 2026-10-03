@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: es
 faq:
   - q: "¿Qué nivel tiene Shadowfang Keep en WoW Forever?"
-    a: "Los jefes son de nivel 20 a 26. La mazmorra es difícil a 18, a nivel a 23 y fácil a 28. Warcraft Tavern da un rango de 20 a 26."
+    a: "Los grupos la hacen del nivel 18 al 28. Los jefes son de nivel 20 a 26."
   - q: "¿Dónde está la entrada de Shadowfang Keep?"
     a: "En Silverpine Forest, en las montañas justo al norte de Pyrewood Village, en /way 44.5 68.0."
   - q: "¿Tiene Shadowfang Keep misiones para la Alliance?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/shadowfang-keep/"
   - name: "Warcraft Tavern, las misiones"
     url: "https://www.warcrafttavern.com/forever/guides/shadowfang-keep-quests/"
+  - name: "Wowhead, la guía de la mazmorra"
+    url: "https://www.wowhead.com/forever/guide/shadowfang-keep-dungeon-overview-location-rewards"
   - name: "Wowhead, las misiones de mazmorra"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 manual: true
@@ -31,7 +33,7 @@ Shadowfang Keep era el castillo del Baron Silverlaine en Silverpine Forest. El A
 
 | | |
 |---|---|
-| Niveles | Jefes de 20 a 26; difícil a 18, a nivel a 23, fácil a 28 |
+| Niveles | 18-28, jefes de nivel 20 a 26 |
 | Entrada | Silverpine Forest, al norte de Pyrewood Village, /way 44.5 68.0 |
 | Jefes | 9, de los que el Deathsworn Captain es un raro |
 | Misiones | 3, todas de la Horde |
@@ -55,13 +57,13 @@ Para la Alliance, Silverpine Forest a este nivel es un viaje largo y peligroso. 
 
 ## Las misiones
 
-| Misión | Dónde empieza | Nivel |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=1013">The Book of Ur</a><br>Compartible | Undercity, The Apothecarium: Keeper Bel'dugur /way 53 54 | 26 |
-| <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Compartible | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 25 |
-| <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Compartible | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 27 |
+| Misión | Dónde empieza | Nivel | Recompensa |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=1013">The Book of Ur</a><br>Compartible | Undercity, The Apothecarium: Keeper Bel'dugur /way 53 54 | 16 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6335"><img class="wf-wh__icon" src="/wh/inv_boots_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grizzled Boots</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=4534"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Steel-clasped Bracers</a> |
+| <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Compartible | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3324"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostly Mantle</a> |
+| <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Compartible | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6414"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Sylvanas</a> |
 
-El nivel es el de la misión en los datos de la beta. Ninguna de las tres pide una misión previa, así que un grupo de la Horde puede cogerlas todas a la vez y compartirlas. Las recompensas cambiaron en Forever, escribe Warcraft Tavern, pero aún no se sabe qué objetos dan ahora.
+El nivel es el mínimo para aceptar la misión, según Wowhead. Ninguna de las tres pide una misión previa, así que un grupo de la Horde puede cogerlas todas a la vez y compartirlas. Las recompensas vienen de Wowhead; cuando no indica ninguna, aún no se conocen.
 
 ### Deathstalkers in Shadowfang
 
@@ -79,7 +81,7 @@ Dos misiones de clase también llevan aquí: <a href="https://www.wowhead.com/fo
 
 ## Los jefes y su botín
 
-El botín de abajo es el que estos jefes soltaban en Classic, con las estadísticas de los archivos de la beta. Blizzard no ha publicado las tablas de botín de Forever, así que un jefe todavía puede soltar otra cosa.
+El botín de cada jefe viene de Wowhead, con las estadísticas de los archivos de la beta.
 
 ### Rethilgore
 
@@ -88,6 +90,14 @@ Un worgen élite de nivel 20 con dos Bleak Worgs y un Shadowfang Whitescalp. Los
 | Objeto | Nuevo en Forever |
 |---|---|
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5254"><img class="wf-wh__icon" src="/wh/inv_shoulder_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rugged Spaulders</a> | Azul en vez de blanco: armadura extra y 2 a cada resistencia |
+
+### Fel Steeds y el Shadow Charger
+
+Los <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> y el <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> pegan muy fuerte, y atraer a uno atrae a los tres, escribe Wowhead. Polimorfa a uno y deja que la mascota de un Hunter o un Warlock tanquee a otro.
+
+| Objeto | Nuevo en Forever |
+|---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=932"><img class="wf-wh__icon" src="/wh/inv_misc_bag_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fel Steed Saddlebags</a> | Una bolsa única de 10 casillas |
 
 ### Razorclaw the Butcher
 
@@ -98,6 +108,7 @@ Un élite de nivel 22 en la cocina, con adds que hay que marcar y matar primero.
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6226"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_24.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloody Apron</a> | Azul, 7 de salud cada 5 segundos y hasta 13 de sanación |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1292"><img class="wf-wh__icon" src="/wh/inv_axe_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Butcher's Cleaver</a> | Daño mínimo más bajo, máximo más alto |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Nuevo: coloca un Tanning Rack en un campamento, Leatherworking 140 |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6633"><img class="wf-wh__icon" src="/wh/inv_sword_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Butcher's Slicer</a> | Azul, 6 de Attack Power y 3 de Stamina |
 
 ### Baron Silverlaine
 
@@ -165,6 +176,6 @@ El jefe final, un élite de nivel 26. Mata primero a los tres worgen de su sala.
 
 ## Lo que aún no se sabe
 
-- **Las tablas de botín de Forever**: qué jefe suelta ahora cada objeto, y con qué frecuencia.
-- **Las recompensas de las misiones**, que cambiaron según Warcraft Tavern.
+- **La probabilidad de botín** de cada jefe.
+- **Las recompensas de las misiones** que Wowhead aún no indica.
 - **El camino de la Alliance**: lo rápido que es de verdad para los Skyborne desde Dalaran.

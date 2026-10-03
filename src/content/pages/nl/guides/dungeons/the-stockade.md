@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: nl
 faq:
   - q: "Welk level is The Stockade in WoW Forever?"
-    a: "De bazen zijn level 24 tot 29. De dungeon is moeilijk op 22, op level op 26 en makkelijk op 30. Warcraft Tavern geeft een bereik van 25 tot 29."
+    a: "Groepen doen de dungeon van level 22 tot 30. De bazen zijn level 24 tot 29."
   - q: "Waar is de ingang van The Stockade?"
     a: "In The Canals van Stormwind City, bij The Mage Quarter, op /way 42 58. Warden Thelwater staat net buiten."
   - q: "Kan de Horde The Stockade doen?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/the-stockade-dungeon-map-location-bosses/"
   - name: "Warcraft Tavern, de quests"
     url: "https://www.warcrafttavern.com/forever/guides/the-stockade-quests/"
+  - name: "Wowhead, de dungeongids"
+    url: "https://www.wowhead.com/forever/guide/the-stockade-dungeon-overview-location-rewards"
   - name: "Wowhead, de dungeonquests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 manual: true
@@ -31,7 +33,7 @@ The Stockade is de gevangenis van Stormwind, diep onder de kanalen van de stad. 
 
 | | |
 |---|---|
-| Levels | Bazen van 24 tot 29; moeilijk op 22, op level op 26, makkelijk op 30 |
+| Levels | 22-30, bazen van level 24 tot 29 |
 | Ingang | The Canals van Stormwind City, bij The Mage Quarter, /way 42 58 |
 | Bazen | 6, waarvan Bruegal Ironknuckle een rare is |
 | Quests | 6, allemaal Alliance |
@@ -51,16 +53,16 @@ Het cellenblok is een T. Een gang loopt rechtdoor, en aan het eind ervan takken 
 
 ## De quests
 
-| Quest | Waar hij begint | Level |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=387">Quell the Uprising</a><br>Deelbaar | Stormwind, buiten The Stockade: Warden Thelwater /way 41 58 | 26 |
-| <a href="https://www.wowhead.com/forever/quest=388">The Color of Blood</a><br>Deelbaar | Stormwind, Old Town: Nikova Raskol, die rondloopt | 26 |
-| <a href="https://www.wowhead.com/forever/quest=377">Crime and Punishment</a><br>Deelbaar | Duskwood, Darkshire: Councilman Millstipe /way 42 47 | 26 |
-| <a href="https://www.wowhead.com/forever/quest=386">What Comes Around...</a><br>Deelbaar | Redridge Mountains, Lakeshire: Guard Berton /way 26 46 | 25 |
-| <a href="https://www.wowhead.com/forever/quest=378">The Fury Runs Deep</a> | Wetlands, Dun Modr: Motley Garmason /way 49 18<br><em>Doe eerst <a href="https://www.wowhead.com/forever/quest=303">The Dark Iron War</a>.</em> | 27 |
-| <a href="https://www.wowhead.com/forever/quest=391">The Stockade Riots</a> | Stormwind, buiten The Stockade: Warden Thelwater /way 41 58<br><em>Doe eerst de reeks die begint met The Unsent Letter in The Deadmines.</em> | 29 |
+| Quest | Waar hij begint | Level | Beloning |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=387">Quell the Uprising</a><br>Deelbaar | Stormwind, buiten The Stockade: Warden Thelwater /way 41 58 | 22 | Experience en silver |
+| <a href="https://www.wowhead.com/forever/quest=388">The Color of Blood</a><br>Deelbaar | Stormwind, Old Town: Nikova Raskol, die rondloopt | 22 | Experience en silver |
+| <a href="https://www.wowhead.com/forever/quest=377">Crime and Punishment</a><br>Deelbaar | Duskwood, Darkshire: Councilman Millstipe /way 42 47 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2033"><img class="wf-wh__icon" src="/wh/inv_boots_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ambassador's Boots</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2906"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Darkshire Mail Leggings</a> |
+| <a href="https://www.wowhead.com/forever/quest=386">What Comes Around...</a><br>Deelbaar | Redridge Mountains, Lakeshire: Guard Berton /way 26 46 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3400"><img class="wf-wh__icon" src="/wh/inv_sword_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lucine Longsword</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1317"><img class="wf-wh__icon" src="/wh/inv_staff_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hardened Root Staff</a> |
+| <a href="https://www.wowhead.com/forever/quest=378">The Fury Runs Deep</a> | Wetlands, Dun Modr: Motley Garmason /way 49 18<br><em>Doe eerst <a href="https://www.wowhead.com/forever/quest=303">The Dark Iron War</a>.</em> | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3562"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Belt of Vindication</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1264"><img class="wf-wh__icon" src="/wh/inv_mace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Headbasher</a> |
+| <a href="https://www.wowhead.com/forever/quest=391">The Stockade Riots</a> | Stormwind, buiten The Stockade: Warden Thelwater /way 41 58<br><em>Doe eerst de reeks die begint met The Unsent Letter in The Deadmines.</em> | 16 | Experience en silver |
 
-Het level is het level van de quest in de data van de beta. De beloningen zijn veranderd in Forever, schrijft Warcraft Tavern, maar welke items ze nu geven, is nog niet bekend.
+Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead. De beloningen komen van Wowhead; waar die er geen noemt, zijn ze nog niet bekend.
 
 - **Quell the Uprising.** Dood 10 Defias Prisoners, 8 Defias Convicts en 8 Defias Insurgents.
 - **The Color of Blood.** Nikova Raskol wil 10 Red Wool Bandanas. Ze vallen bij de Defias Captives, Convicts, Inmates, Insurgents en Prisoners, en bij Bazil Thredd, Bruegal Ironknuckle en Dextren Ward.
@@ -93,6 +95,8 @@ Een elite van level 29 en de sterkste van de gevangenen, met adds om zich heen. 
 
 ### Bruegal Ironknuckle, een rare
 
+Elke baas van The Stockade kan groene items laten vallen, schrijft Wowhead, maar alleen Bruegal Ironknuckle laat betrouwbaar waardevolle gear vallen.
+
 Een rare elite van level 26 die niet altijd verschijnt. Hij is de enige baas met echte loot, drie blauwe items die in de bestanden van de beta alle drie beter werden:
 
 | Item | Nieuw in Forever |
@@ -107,6 +111,6 @@ Alle drie vragen nu level 23 in plaats van 21.
 
 ## Wat nog niet bekend is
 
-- **De droptabellen van Forever**: of de bazen zonder loot er nu wel krijgen.
+- **De dropkansen** van de loot van de bazen.
 - **Kam's Walking Stick**: welk monster hem nu laat vallen.
-- **De beloningen van de quests**, die volgens Warcraft Tavern veranderd zijn.
+- **De beloningen van de quests** die Wowhead nog niet noemt.

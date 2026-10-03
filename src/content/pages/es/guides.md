@@ -11,16 +11,24 @@ Guías paso a paso para World of Warcraft: Forever, desde misiones de mazmorra h
 
 ## Mazmorras
 
+Todas las mazmorras de WoW Forever por nivel, con todas sus misiones, están en el [resumen de mazmorras](/es/guides/dungeons/).
+
 | Guía | Qué cubre |
 |---|---|
-| [Guía de mazmorras](/es/guides/dungeons/) | Cada mazmorra de WoW Forever por nivel, con todas sus misiones: dónde empiezan, para qué facción y qué hace falta antes |
-| [The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/) | La primera mazmorra nueva de la Alianza, niveles 13 a 18: cómo llegar, las cinco misiones con la cadena de Dun Morogh, los cuatro jefes y su botín |
-| [Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/) | La mazmorra sobre la Undercity, niveles 15 a 20: cómo llegar, todas las misiones de la Horde y la Alliance, los seis jefes y su botín |
-| [The Deadmines](/es/guides/dungeons/the-deadmines/) | El escondite de los Defias bajo Moonbrook, niveles 14 a 24: la entrada, las seis misiones, los ocho jefes y su botín nuevo |
-| [Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/) | El castillo de Arugal en Silverpine Forest, niveles 18 a 28: la entrada, las tres misiones de la Horde, los nueve jefes y su botín nuevo |
-| [Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/) | El templo hundido de Ashenvale, niveles 21 a 30: la entrada, las misiones de ambas facciones, los ocho jefes y su botín nuevo |
-| [The Stockade](/es/guides/dungeons/the-stockade/) | La prisión de Stormwind, niveles 22 a 30: la planta, las seis misiones y los seis jefes |
-| [Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/) | El bastión de la Scarlet Crusade en Tirisfal Glades, jefes de nivel 32 a 42: las cuatro alas, todas las misiones, el botín nuevo y la bonificación de set |
+| [Ragefire Chasm](/es/guides/dungeons/ragefire-chasm/) | Niveles 9-19: la entrada por Orgrimmar, las seis misiones de la Horde con sus recompensas y el botín nuevo de Taragaman y Jergosh |
+| [The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/) | Niveles 13-18: cómo llegar, las cinco misiones con la cadena de Dun Morogh, los cuatro jefes y su botín |
+| [Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/) | Niveles 15-20: cómo llegar con las dos facciones, las diez misiones, los seis jefes y su botín |
+| [Wailing Caverns](/es/guides/dungeons/wailing-caverns/) | Niveles 15-24: las siete misiones con sus recompensas, los Lords of the Fang, el evento de Naralex y las nuevas bonificaciones de Embrace of the Viper |
+| [The Deadmines](/es/guides/dungeons/the-deadmines/) | Niveles 14-24: la entrada por Moonbrook, las seis misiones con sus recompensas y el botín nuevo de cada jefe |
+| [Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/) | Niveles 18-28: la entrada sobre Pyrewood Village, las tres misiones de la Horde y el botín nuevo de cada jefe |
+| [Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/) | Niveles 21-30: la entrada en la Zoram Strand, las misiones de ambas facciones y el botín nuevo de cada jefe |
+| [Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/) | Niveles 26-31, nueva en Forever: las misiones de ambas facciones, la hierba alta y los tres jefes con su botín |
+| [The Stockade](/es/guides/dungeons/the-stockade/) | Niveles 22-30: la planta de la prisión, las seis misiones y el botín de Bruegal Ironknuckle |
+| [City of Dalaran](/es/guides/dungeons/city-of-dalaran/) | Niveles 28-33, nueva en Forever: las dos entradas, los enemigos arcanos y los siete jefes |
+| [Razorfen Kraul](/es/guides/dungeons/razorfen-kraul/) | Niveles 25-34: las siete misiones con sus recompensas, los lanzadores quilboar y el botín nuevo de cada jefe |
+| [Gnomeregan](/es/guides/dungeons/gnomeregan/) | Niveles 25-38: las dos puertas, el teletransporte de la Horde, las trece misiones y el botín nuevo de cada jefe |
+| [Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/) | Niveles 26-45: las cuatro alas, cada misión con su recompensa y el botín de cada jefe |
+| [Razorfen Downs](/es/guides/dungeons/razorfen-downs/) | Niveles 35-44: las seis misiones con sus recompensas, el evento del gong y el botín nuevo de cada jefe |
 
 ## Cadenas de misiones
 

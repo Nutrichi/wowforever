@@ -10,16 +10,24 @@ Step-by-step guides for World of Warcraft: Forever, from dungeon quests to quest
 
 ## Dungeons
 
+Every dungeon of WoW Forever by level, with all its quests, is in the [dungeon overview](/guides/dungeons/).
+
 | Guide | What it covers |
 |---|---|
-| [Dungeon guide](/guides/dungeons/) | Every dungeon of WoW Forever by level, with all its quests: where they start, for which faction and what they need first |
-| [The Hall of Thanes](/guides/dungeons/hall-of-thanes/) | The first new Alliance dungeon, levels 13 to 18: the way in, all five quests with the chain in Dun Morogh, the four bosses and their loot |
-| [Ruins of Lordaeron](/guides/dungeons/ruins-of-lordaeron/) | The dungeon above the Undercity, levels 15 to 20: the way there, all quests for the Horde and the Alliance, the six bosses and their loot |
-| [The Deadmines](/guides/dungeons/the-deadmines/) | The hideout of the Defias under Moonbrook, levels 14 to 24: the way in, all six quests, the eight bosses and their new loot |
-| [Shadowfang Keep](/guides/dungeons/shadowfang-keep/) | The keep of Arugal in Silverpine Forest, levels 18 to 28: the way in, the three Horde quests, the nine bosses and their new loot |
-| [Blackfathom Deeps](/guides/dungeons/blackfathom-deeps/) | The sunken temple in Ashenvale, levels 21 to 30: the way in, the quests of both factions, the eight bosses and their new loot |
-| [The Stockade](/guides/dungeons/the-stockade/) | The prison of Stormwind, levels 22 to 30: the layout, all six quests and the six bosses |
-| [Scarlet Monastery](/guides/dungeons/scarlet-monastery/) | The stronghold of the Scarlet Crusade in Tirisfal Glades, bosses of level 32 to 42: the four wings, every quest, the new loot and the set bonus |
+| [Ragefire Chasm](/guides/dungeons/ragefire-chasm/) | Levels 9-19: the way in through Orgrimmar, all six Horde quests with their rewards and the new loot of Taragaman and Jergosh |
+| [The Hall of Thanes](/guides/dungeons/hall-of-thanes/) | Levels 13-18: the way in, all five quests with the chain in Dun Morogh, the four bosses and their loot |
+| [Ruins of Lordaeron](/guides/dungeons/ruins-of-lordaeron/) | Levels 15-20: the way in for both factions, all ten quests, the six bosses and their loot |
+| [Wailing Caverns](/guides/dungeons/wailing-caverns/) | Levels 15-24: all seven quests with their rewards, the Lords of the Fang, the Naralex event and the new Embrace of the Viper bonuses |
+| [The Deadmines](/guides/dungeons/the-deadmines/) | Levels 14-24: the way in through Moonbrook, all six quests with their rewards and the new loot of every boss |
+| [Shadowfang Keep](/guides/dungeons/shadowfang-keep/) | Levels 18-28: the way in above Pyrewood Village, the three Horde quests and the new loot of every boss |
+| [Blackfathom Deeps](/guides/dungeons/blackfathom-deeps/) | Levels 21-30: the way in at the Zoram Strand, the quests of both factions and the new loot of every boss |
+| [Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/) | Levels 26-31, new in Forever: the quests for both factions, the tall grass and the three bosses with their loot |
+| [The Stockade](/guides/dungeons/the-stockade/) | Levels 22-30: the layout of the prison, all six quests and the loot of Bruegal Ironknuckle |
+| [City of Dalaran](/guides/dungeons/city-of-dalaran/) | Levels 28-33, new in Forever: both entrances, the arcane trash and the seven bosses |
+| [Razorfen Kraul](/guides/dungeons/razorfen-kraul/) | Levels 25-34: all seven quests with their rewards, the quilboar casters and the new loot of every boss |
+| [Gnomeregan](/guides/dungeons/gnomeregan/) | Levels 25-38: both doors, the teleport for the Horde, all thirteen quests and the new loot of every boss |
+| [Scarlet Monastery](/guides/dungeons/scarlet-monastery/) | Levels 26-45: the four wings, every quest with its reward and the loot of every boss |
+| [Razorfen Downs](/guides/dungeons/razorfen-downs/) | Levels 35-44: all six quests with their rewards, the gong event and the new loot of every boss |
 
 ## Quest chains
 

@@ -33,7 +33,7 @@ Les Ruins of Lordaeron sont un nouveau donjon dans la capitale en ruine au-dessu
 
 | | |
 |---|---|
-| Niveaux | 15 à 20 selon Blizzard, 16 à 22 conseillé |
+| Niveaux | 15-20 selon Blizzard, 16-22 conseillé |
 | Entrée | Les ruines à ciel ouvert de Lordaeron au-dessus de l’Undercity, Tirisfal Glades |
 | Boss | 6, dans n’importe quel ordre |
 | Quêtes | 6 pour la Horde, 4 pour l’Alliance |

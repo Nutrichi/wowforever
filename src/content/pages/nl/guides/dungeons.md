@@ -23,49 +23,56 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 
 ## Gidsen per dungeon
 
-- **[The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/)**, level 13 tot 18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot.
-- **[Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/)**, level 15 tot 20: de weg erheen voor beide facties, alle tien de quests, de zes bazen en hun loot.
-- **[The Deadmines](/nl/guides/dungeons/the-deadmines/)**, bazen van level 19 tot 21: de weg naar binnen via Moonbrook, de route naar het schip, alle zes de quests en de nieuwe loot van elke baas.
-- **[Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/)**, bazen van level 20 tot 26: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas.
-- **[Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/)**, bazen van level 25 tot 28: de weg naar binnen aan de Zoram Strand, de quests van beide facties en de nieuwe loot van elke baas.
-- **[The Stockade](/nl/guides/dungeons/the-stockade/)**, bazen van level 24 tot 29: de indeling van de gevangenis, alle zes de quests en de loot van Bruegal Ironknuckle.
-- **[Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/)**, bazen van level 32 tot 42: de vier vleugels, alle quests, de vernieuwde loot van Graveyard en Library, en de nieuwe setbonus.
+- **[Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/)**, level 9-19: de weg naar binnen via Orgrimmar, alle zes de quests van de Horde met hun beloningen en de nieuwe loot van Taragaman en Jergosh.
+- **[The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/)**, level 13-18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot.
+- **[Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/)**, level 15-20: de weg erheen voor beide facties, alle tien de quests, de zes bazen en hun loot.
+- **[Wailing Caverns](/nl/guides/dungeons/wailing-caverns/)**, level 15-24: alle zeven de quests met hun beloningen, de Lords of the Fang, het event van Naralex en de nieuwe bonussen van Embrace of the Viper.
+- **[The Deadmines](/nl/guides/dungeons/the-deadmines/)**, level 14-24: de weg naar binnen via Moonbrook, alle zes de quests met hun beloningen en de nieuwe loot van elke baas.
+- **[Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/)**, level 18-28: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas.
+- **[Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/)**, level 21-30: de weg naar binnen aan de Zoram Strand, de quests van beide facties en de nieuwe loot van elke baas.
+- **[Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/)**, level 26-31, nieuw in Forever: de quests voor beide facties, het hoge gras en de drie bazen met hun loot.
+- **[The Stockade](/nl/guides/dungeons/the-stockade/)**, level 22-30: de indeling van de gevangenis, alle zes de quests en de loot van Bruegal Ironknuckle.
+- **[City of Dalaran](/nl/guides/dungeons/city-of-dalaran/)**, level 28-33, nieuw in Forever: beide ingangen, de arcane trash en de zeven bazen.
+- **[Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/)**, level 25-34: alle zeven de quests met hun beloningen, de casters van de quilboar en de nieuwe loot van elke baas.
+- **[Gnomeregan](/nl/guides/dungeons/gnomeregan/)**, level 25-38: beide deuren, de teleport voor de Horde, alle dertien de quests en de nieuwe loot van elke baas.
+- **[Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/)**, level 26-45: de vier vleugels, elke quest met zijn beloning en de loot van elke baas.
+- **[Razorfen Downs](/nl/guides/dungeons/razorfen-downs/)**, level 35-44: alle zes de quests met hun beloningen, het gong-event en de nieuwe loot van elke baas.
 
 ## Elke dungeon op level
 
-Voor de dungeons van Classic zijn de drie getallen het level waarop de dungeon moeilijk, op level en makkelijk is. Voor de nieuwe dungeons is het bereik dat van Blizzard, gepubliceerd op 14 september 2026.
+Elk bereik loopt van het level waarop een groep de dungeon aankan tot het level waarop hij makkelijk wordt. Voor de nieuwe dungeons is het bereik dat van Blizzard, gepubliceerd op 14 september 2026.
 
 | Dungeon | Levels | Quests |
 |---|---|---|
-| Ragefire Chasm | 9 / 14 / 19 | 5 |
-| [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/) | 13 tot 18 | 5 |
-| [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) | 15 tot 20 | 10 |
-| Wailing Caverns | 15 / 19 / 24 | 7 |
-| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | 14 / 19 / 24 | 7 |
-| [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | 18 / 23 / 28 | 5 |
-| [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | 21 / 25 / 30 | 13 |
-| Excavation Site: Wetlands | 26 tot 31 | nog niet bekend |
-| [The Stockade](/nl/guides/dungeons/the-stockade/) | 22 / 26 / 30 | 6 |
-| City of Dalaran | 28 tot 33 | nog niet bekend |
-| Razorfen Kraul | 25 / 31 / 34 | 7 |
-| Gnomeregan | 25 / 33 / 38 | 13 |
-| The Drowned City | 35 tot 40 | nog niet bekend |
-| [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/) | 26 / 37 / 45 | 8 |
-| Razorfen Downs | 35 / 39 / 44 | 6 |
-| Krol'dok Stronghold | 40 tot 45 | nog niet bekend |
-| Uldaman | 37 / 42 / 47 | 14 |
-| Zul'Farrak | 40 / 44 / 50 | 8 |
-| Maraudon | 41 / 46 / 50 | 11 |
-| Alcaz Prison | 48 tot 53 | nog niet bekend |
-| Sunken Temple | 46 / 51 / 54 | 9 |
-| Blackrock Depths | 50 / 55 / 60 | 24 |
-| Dire Maul | 52 / 56 / 60 | 13 |
-| Blackmaw Hold | 55 tot 60 | nog niet bekend |
-| Shaper's Terrace | 58 tot 60 | nog niet bekend |
-| Lower Blackrock Spire | 54 / 60 | 12 |
-| Scholomance | 54 / 60 | 10 |
-| Stratholme | 54 / 60 | 14 |
-| Upper Blackrock Spire | 54 / 60 | 12 |
+| [Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/) | 9-19 | 5 |
+| [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
+| [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
+| [Wailing Caverns](/nl/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
+| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | 14-24 | 7 |
+| [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | 18-28 | 5 |
+| [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | 21-30 | 13 |
+| [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | 26-31 | nog niet bekend |
+| [The Stockade](/nl/guides/dungeons/the-stockade/) | 22-30 | 6 |
+| [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 | nog niet bekend |
+| [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | 25-34 | 7 |
+| [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | 25-38 | 13 |
+| The Drowned City | 35-40 | nog niet bekend |
+| [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/) | 26-45 | 8 |
+| [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | 35-44 | 6 |
+| Krol'dok Stronghold | 40-45 | nog niet bekend |
+| Uldaman | 37-47 | 14 |
+| Zul'Farrak | 40-50 | 8 |
+| Maraudon | 41-50 | 11 |
+| Alcaz Prison | 48-53 | nog niet bekend |
+| Sunken Temple | 46-54 | 9 |
+| Blackrock Depths | 50-60 | 24 |
+| Dire Maul | 52-60 | 13 |
+| Blackmaw Hold | 55-60 | nog niet bekend |
+| Shaper's Terrace | 58-60 | nog niet bekend |
+| Lower Blackrock Spire | 54-60 | 12 |
+| Scholomance | 54-60 | 10 |
+| Stratholme | 54-60 | 14 |
+| Upper Blackrock Spire | 54-60 | 12 |
 
 ## Zo lees je de tabellen
 
@@ -75,6 +82,7 @@ Voor de dungeons van Classic zijn de drie getallen het level waarop de dungeon m
 
 ## Ragefire Chasm
 
+De volledige gids: [Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/).
 
 | Quest | Waar hij begint |
 |---|---|
@@ -98,6 +106,7 @@ De volledige gids: [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/).
 
 ## Wailing Caverns
 
+De volledige gids: [Wailing Caverns](/nl/guides/dungeons/wailing-caverns/).
 
 | Quest | Waar hij begint |
 |---|---|
@@ -194,6 +203,7 @@ De volledige gids: [The Stockade](/nl/guides/dungeons/the-stockade/).
 
 ## Gnomeregan
 
+De volledige gids: [Gnomeregan](/nl/guides/dungeons/gnomeregan/).
 Minstens één speler heeft de Workshop Key nodig voor de achterdeur; Lockpicking 150 werkt ook.
 
 | Quest | Waar hij begint |
@@ -214,6 +224,7 @@ Minstens één speler heeft de Workshop Key nodig voor de achterdeur; Lockpickin
 
 ## Razorfen Kraul
 
+De volledige gids: [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/).
 
 | Quest | Waar hij begint |
 |---|---|
@@ -256,6 +267,7 @@ De volledige gids: [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/).
 
 ## Razorfen Downs
 
+De volledige gids: [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/).
 
 | Quest | Waar hij begint |
 |---|---|
@@ -491,16 +503,16 @@ Minstens één speler heeft de Seal of Ascension nodig om binnen te gaan.
 
 ## Nieuwe dungeons zonder quests
 
-Zes nieuwe dungeons van Forever zitten nog niet in de beta, dus hun quests zijn niet bekend. De Excavation Site ging op 1 oktober open in de beta; zijn quests staan nog niet in deze gids. De levels zijn die van Blizzard.
+Van zes nieuwe dungeons van Forever zijn de quests nog niet bekend. De Excavation Site ging op 1 oktober open in de beta; zijn quests staan in [zijn eigen gids](/nl/guides/dungeons/excavation-site-wetlands/). De levels zijn die van Blizzard.
 
 | Dungeon | Levels |
 |---|---|
-| Excavation Site: Wetlands | 26 tot 31 |
-| City of Dalaran | 28 tot 33 |
-| The Drowned City | 35 tot 40 |
-| Krol'dok Stronghold | 40 tot 45 |
-| Alcaz Prison | 48 tot 53 |
-| Blackmaw Hold | 55 tot 60 |
-| Shaper's Terrace | 58 tot 60 |
+| [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | 26-31 |
+| [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 |
+| The Drowned City | 35-40 |
+| Krol'dok Stronghold | 40-45 |
+| Alcaz Prison | 48-53 |
+| Blackmaw Hold | 55-60 |
+| Shaper's Terrace | 58-60 |
 
-De ingang van de City of Dalaran zit al in de beta: via de Dalaran Sewers voor de Alliance, van buiten de stad met een sleutel voor de Horde ([meer](/nl/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). Of de dungeon zelf al betreden kan worden, is niet bekend.
+De City of Dalaran heeft [een eigen gids](/nl/guides/dungeons/city-of-dalaran/), met beide ingangen en de zeven bazen. Zijn quests en loot zijn nog niet bekend.

@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: en
 faq:
   - q: "What level is Shadowfang Keep in WoW Forever?"
-    a: "The bosses are level 20 to 26. The dungeon is hard at 18, at level at 23 and easy at 28. Warcraft Tavern gives a range of 20 to 26."
+    a: "Groups take it on from level 18 to 28. The bosses are level 20 to 26."
   - q: "Where is the entrance to Shadowfang Keep?"
     a: "In Silverpine Forest, in the mountains just north of Pyrewood Village, at /way 44.5 68.0."
   - q: "Does Shadowfang Keep have quests for the Alliance?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/shadowfang-keep/"
   - name: "Warcraft Tavern, the quests"
     url: "https://www.warcrafttavern.com/forever/guides/shadowfang-keep-quests/"
+  - name: "Wowhead, the dungeon guide"
+    url: "https://www.wowhead.com/forever/guide/shadowfang-keep-dungeon-overview-location-rewards"
   - name: "Wowhead, the dungeon quests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 ---
@@ -30,7 +32,7 @@ Shadowfang Keep was the castle of Baron Silverlaine in Silverpine Forest. Archma
 
 | | |
 |---|---|
-| Levels | Bosses of 20 to 26; hard at 18, at level at 23, easy at 28 |
+| Levels | 18-28, bosses of level 20 to 26 |
 | Entrance | Silverpine Forest, north of Pyrewood Village, /way 44.5 68.0 |
 | Bosses | 9, of which the Deathsworn Captain is a rare |
 | Quests | 3, all Horde |
@@ -54,13 +56,13 @@ For the Alliance, Silverpine Forest at this level is a long and dangerous trip. 
 
 ## The quests
 
-| Quest | Where it starts | Level |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=1013">The Book of Ur</a><br>Shareable | Undercity, The Apothecarium: Keeper Bel'dugur /way 53 54 | 26 |
-| <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Shareable | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 25 |
-| <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Shareable | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 27 |
+| Quest | Where it starts | Level | Reward |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=1013">The Book of Ur</a><br>Shareable | Undercity, The Apothecarium: Keeper Bel'dugur /way 53 54 | 16 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6335"><img class="wf-wh__icon" src="/wh/inv_boots_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grizzled Boots</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=4534"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Steel-clasped Bracers</a> |
+| <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Shareable | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3324"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostly Mantle</a> |
+| <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Shareable | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6414"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Sylvanas</a> |
 
-The level is the level of the quest in the data of the beta. None of the three needs an earlier quest, so a Horde group can pick them all up at once and share them. The rewards changed in Forever, writes Warcraft Tavern, but which items they give now is not known yet.
+The level is the lowest level at which the quest can be picked up, according to Wowhead. None of the three needs an earlier quest, so a Horde group can pick them all up at once and share them. The rewards come from Wowhead; where it lists none, they are not known yet.
 
 ### Deathstalkers in Shadowfang
 
@@ -78,7 +80,7 @@ Two class quests also lead here: <a href="https://www.wowhead.com/forever/quest=
 
 ## The bosses and their loot
 
-The loot below is the loot these bosses dropped in Classic, with the stats from the files of the beta. Blizzard has not published the drop tables of Forever, so a boss can still drop something else.
+The loot per boss comes from Wowhead, with the stats from the files of the beta.
 
 ### Rethilgore
 
@@ -87,6 +89,14 @@ A level 20 elite worgen with two Bleak Worgs and a Shadowfang Whitescalp. The wo
 | Item | New in Forever |
 |---|---|
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5254"><img class="wf-wh__icon" src="/wh/inv_shoulder_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rugged Spaulders</a> | Blue instead of white: extra armor and 2 to every resistance |
+
+### Fel Steeds and the Shadow Charger
+
+The <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> and the <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> hit very hard, and pulling one pulls all three, writes Wowhead. Polymorph one and let a Hunter or Warlock pet tank another.
+
+| Item | New in Forever |
+|---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=932"><img class="wf-wh__icon" src="/wh/inv_misc_bag_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fel Steed Saddlebags</a> | A unique bag with 10 slots |
 
 ### Razorclaw the Butcher
 
@@ -97,6 +107,7 @@ A level 22 elite in the kitchen, with adds to mark and kill first. His Butcher D
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6226"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_24.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloody Apron</a> | Blue, 7 health every 5 seconds and up to 13 healing |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1292"><img class="wf-wh__icon" src="/wh/inv_axe_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Butcher's Cleaver</a> | Lower minimum damage, higher maximum |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | New: places a Tanning Rack at a campsite, Leatherworking 140 |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6633"><img class="wf-wh__icon" src="/wh/inv_sword_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Butcher's Slicer</a> | Blue, 6 Attack Power and 3 Stamina |
 
 ### Baron Silverlaine
 
@@ -164,6 +175,6 @@ The final boss, a level 26 elite. Kill the three worgen in his room first. Aruga
 
 ## What is not known yet
 
-- **The drop tables of Forever**: which boss drops which item now, and how often.
-- **The quest rewards**, which changed according to Warcraft Tavern.
+- **The drop rates** of the boss loot.
+- **The quest rewards** that Wowhead does not list yet.
 - **The way in for the Alliance**: how fast it really is for the Skyborne from Dalaran.

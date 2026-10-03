@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: de
 faq:
   - q: "Welche Stufe hat The Stockade in WoW Forever?"
-    a: "Die Bosse sind Stufe 24 bis 29. Der Dungeon ist schwer auf 22, passend auf 26 und leicht auf 30. Warcraft Tavern nennt einen Bereich von 25 bis 29."
+    a: "Gruppen spielen den Dungeon von Stufe 22 bis 30. Die Bosse sind Stufe 24 bis 29."
   - q: "Wo ist der Eingang von The Stockade?"
     a: "In The Canals von Stormwind City, nahe The Mage Quarter, bei /way 42 58. Warden Thelwater steht direkt davor."
   - q: "Kann die Horde The Stockade machen?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/the-stockade-dungeon-map-location-bosses/"
   - name: "Warcraft Tavern, die Quests"
     url: "https://www.warcrafttavern.com/forever/guides/the-stockade-quests/"
+  - name: "Wowhead, der Dungeon-Guide"
+    url: "https://www.wowhead.com/forever/guide/the-stockade-dungeon-overview-location-rewards"
   - name: "Wowhead, die Dungeon-Quests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 manual: true
@@ -31,7 +33,7 @@ The Stockade ist das Gefängnis von Stormwind, unter den Kanälen der Stadt. Die
 
 | | |
 |---|---|
-| Stufen | Bosse von 24 bis 29; schwer auf 22, passend auf 26, leicht auf 30 |
+| Stufen | 22-30, Bosse der Stufe 24 bis 29 |
 | Eingang | The Canals von Stormwind City, nahe The Mage Quarter, /way 42 58 |
 | Bosse | 6, davon ist Bruegal Ironknuckle ein Rare |
 | Quests | 6, alle Alliance |
@@ -51,16 +53,16 @@ Der Zellenblock ist ein T. Ein Gang führt geradeaus, und an seinem Ende zweigen
 
 ## Die Quests
 
-| Quest | Wo sie beginnt | Stufe |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=387">Quell the Uprising</a><br>Teilbar | Stormwind, vor The Stockade: Warden Thelwater /way 41 58 | 26 |
-| <a href="https://www.wowhead.com/forever/quest=388">The Color of Blood</a><br>Teilbar | Stormwind, Old Town: Nikova Raskol, die umhergeht | 26 |
-| <a href="https://www.wowhead.com/forever/quest=377">Crime and Punishment</a><br>Teilbar | Duskwood, Darkshire: Councilman Millstipe /way 42 47 | 26 |
-| <a href="https://www.wowhead.com/forever/quest=386">What Comes Around...</a><br>Teilbar | Redridge Mountains, Lakeshire: Guard Berton /way 26 46 | 25 |
-| <a href="https://www.wowhead.com/forever/quest=378">The Fury Runs Deep</a> | Wetlands, Dun Modr: Motley Garmason /way 49 18<br><em>Erledige zuerst <a href="https://www.wowhead.com/forever/quest=303">The Dark Iron War</a>.</em> | 27 |
-| <a href="https://www.wowhead.com/forever/quest=391">The Stockade Riots</a> | Stormwind, vor The Stockade: Warden Thelwater /way 41 58<br><em>Erledige zuerst die Reihe, die mit The Unsent Letter in The Deadmines beginnt.</em> | 29 |
+| Quest | Wo sie beginnt | Stufe | Belohnung |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=387">Quell the Uprising</a><br>Teilbar | Stormwind, vor The Stockade: Warden Thelwater /way 41 58 | 22 | Erfahrung und Silber |
+| <a href="https://www.wowhead.com/forever/quest=388">The Color of Blood</a><br>Teilbar | Stormwind, Old Town: Nikova Raskol, die umhergeht | 22 | Erfahrung und Silber |
+| <a href="https://www.wowhead.com/forever/quest=377">Crime and Punishment</a><br>Teilbar | Duskwood, Darkshire: Councilman Millstipe /way 42 47 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2033"><img class="wf-wh__icon" src="/wh/inv_boots_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ambassador's Boots</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2906"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Darkshire Mail Leggings</a> |
+| <a href="https://www.wowhead.com/forever/quest=386">What Comes Around...</a><br>Teilbar | Redridge Mountains, Lakeshire: Guard Berton /way 26 46 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3400"><img class="wf-wh__icon" src="/wh/inv_sword_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lucine Longsword</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1317"><img class="wf-wh__icon" src="/wh/inv_staff_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hardened Root Staff</a> |
+| <a href="https://www.wowhead.com/forever/quest=378">The Fury Runs Deep</a> | Wetlands, Dun Modr: Motley Garmason /way 49 18<br><em>Erledige zuerst <a href="https://www.wowhead.com/forever/quest=303">The Dark Iron War</a>.</em> | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3562"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Belt of Vindication</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1264"><img class="wf-wh__icon" src="/wh/inv_mace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Headbasher</a> |
+| <a href="https://www.wowhead.com/forever/quest=391">The Stockade Riots</a> | Stormwind, vor The Stockade: Warden Thelwater /way 41 58<br><em>Erledige zuerst die Reihe, die mit The Unsent Letter in The Deadmines beginnt.</em> | 16 | Erfahrung und Silber |
 
-Die Stufe ist die Stufe der Quest in den Daten der Beta. Die Belohnungen haben sich in Forever geändert, schreibt Warcraft Tavern, welche Gegenstände sie jetzt geben, ist aber noch nicht bekannt.
+Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wowhead. Die Belohnungen stammen von Wowhead; wo es keine nennt, sind sie noch nicht bekannt.
 
 - **Quell the Uprising.** Töte 10 Defias Prisoners, 8 Defias Convicts und 8 Defias Insurgents.
 - **The Color of Blood.** Nikova Raskol will 10 Red Wool Bandanas. Sie fallen bei den Defias Captives, Convicts, Inmates, Insurgents und Prisoners sowie bei Bazil Thredd, Bruegal Ironknuckle und Dextren Ward.
@@ -93,6 +95,8 @@ Ein Elite der Stufe 29 und der stärkste der Insassen, mit Adds um sich herum. R
 
 ### Bruegal Ironknuckle, ein Rare
 
+Jeder Boss von The Stockade kann grüne Gegenstände fallen lassen, schreibt Wowhead, aber nur Bruegal Ironknuckle lässt zuverlässig wertvolle Ausrüstung fallen.
+
 Ein Rare-Elite der Stufe 26, der nicht immer erscheint. Er ist der einzige Boss mit echter Beute, drei blaue Gegenstände, die in den Dateien der Beta alle besser wurden:
 
 | Gegenstand | Neu in Forever |
@@ -107,6 +111,6 @@ Alle drei verlangen jetzt Stufe 23 statt 21.
 
 ## Was noch nicht bekannt ist
 
-- **Die Beutetabellen von Forever**: ob die Bosse ohne Beute jetzt welche haben.
+- **Die Dropchancen** der Bossbeute.
 - **Kam's Walking Stick**: welches Monster ihn jetzt fallen lässt.
-- **Die Belohnungen der Quests**, die sich laut Warcraft Tavern geändert haben.
+- **Die Belohnungen der Quests**, die Wowhead noch nicht nennt.

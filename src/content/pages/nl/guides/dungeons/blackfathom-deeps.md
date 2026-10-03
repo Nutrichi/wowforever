@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: nl
 faq:
   - q: "Welk level is Blackfathom Deeps in WoW Forever?"
-    a: "De bazen zijn level 25 tot 28. De dungeon is moeilijk op 21, op level op 25 en makkelijk op 30. Warcraft Tavern geeft een bereik van 22 tot 28."
+    a: "Groepen doen de dungeon van level 21 tot 30. De bazen zijn level 25 tot 28."
   - q: "Waar is de ingang van Blackfathom Deeps?"
     a: "In het noordwesten van Ashenvale, in verzonken ruïnes van de Night Elves aan de Zoram Strand, op /way 14.5 14.6. Zwem door de poel onderaan en volg een smalle grot vol elite naga naar het portaal."
   - q: "Heeft Blackfathom Deeps quests voor beide facties?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/blackfathom-deeps/"
   - name: "Warcraft Tavern, de quests"
     url: "https://www.warcrafttavern.com/forever/guides/blackfathom-deeps-quests/"
+  - name: "Wowhead, de dungeongids"
+    url: "https://www.wowhead.com/forever/guide/blackfathom-deeps-dungeon-overview-location-rewards"
   - name: "Wowhead, de dungeonquests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 manual: true
@@ -31,7 +33,7 @@ Blackfathom Deeps is een verzonken tempel van Elune aan de kust van Ashenvale. D
 
 | | |
 |---|---|
-| Levels | Bazen van 25 tot 28; moeilijk op 21, op level op 25, makkelijk op 30 |
+| Levels | 21-30, bazen van level 25 tot 28 |
 | Ingang | De Zoram Strand, noordwest Ashenvale, /way 14.5 14.6 |
 | Bazen | 8, waarvan Lorgus Jett en Baron Aquanis voor quests van de Horde zijn |
 | Quests | 5 voor de Horde, 5 voor de Alliance |
@@ -57,25 +59,25 @@ De Horde heeft Zoram'gar Outpost een eindje naar het zuiden, waar Je'neu Sancrea
 
 ### Horde
 
-| Quest | Waar hij begint | Level |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=6563">The Essence of Aku'Mai</a><br>Deelbaar | Ashenvale, Zoram'gar Outpost: Je'neu Sancrea /way 11 34<br><em>Doe eerst Trouble in the Deeps van Tsunaman in de Stonetalon Mountains.</em> | 22 |
-| <a href="https://www.wowhead.com/forever/quest=6565">Allegiance to the Old Gods</a> | Ashenvale, buiten de dungeon: Damp Note, een zeldzame drop van Blackfathom Tide Priestess | 26 |
-| <a href="https://www.wowhead.com/forever/quest=6921">Amongst the Ruins</a><br>Deelbaar | Ashenvale, Zoram'gar Outpost: Je'neu Sancrea /way 11 34 | 27 |
-| <a href="https://www.wowhead.com/forever/quest=6922">Baron Aquanis</a> | In de dungeon: Strange Water Globe, een drop van Baron Aquanis | 30 |
-| <a href="https://www.wowhead.com/forever/quest=6561">Blackfathom Villainy</a><br>Deelbaar | In de dungeon: Argent Guard Thaelrid | 27 |
+| Quest | Waar hij begint | Level | Beloning |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=6563">The Essence of Aku'Mai</a><br>Deelbaar | Ashenvale, Zoram'gar Outpost: Je'neu Sancrea /way 11 34<br><em>Doe eerst Trouble in the Deeps van Tsunaman in de Stonetalon Mountains.</em> | 17 | Nog niet bekend |
+| <a href="https://www.wowhead.com/forever/quest=6565">Allegiance to the Old Gods</a> | Ashenvale, buiten de dungeon: Damp Note, een zeldzame drop van Blackfathom Tide Priestess | 17 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17694"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Band of the Fist</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17695"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chestnut Mantle</a> |
+| <a href="https://www.wowhead.com/forever/quest=6921">Amongst the Ruins</a><br>Deelbaar | Ashenvale, Zoram'gar Outpost: Je'neu Sancrea /way 11 34 | 21 | Nog niet bekend |
+| <a href="https://www.wowhead.com/forever/quest=6922">Baron Aquanis</a> | In de dungeon: Strange Water Globe, een drop van Baron Aquanis | 21 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=16886"><img class="wf-wh__icon" src="/wh/inv_sword_33.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Outlaw Sabre</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=16887"><img class="wf-wh__icon" src="/wh/inv_wand_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Witch's Finger</a> |
+| <a href="https://www.wowhead.com/forever/quest=6561">Blackfathom Villainy</a><br>Deelbaar | In de dungeon: Argent Guard Thaelrid | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7002"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arctic Buckler</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> |
 
 ### Alliance
 
-| Quest | Waar hij begint | Level |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=1198">In Search of Thaelrid</a><br>Deelbaar | Darnassus, Craftsmen's Terrace: Dawnwatcher Shaedlass /way 55 24 | 24 |
-| <a href="https://www.wowhead.com/forever/quest=1199">Twilight Falls</a><br>Deelbaar | Darnassus, Craftsmen's Terrace: Argent Guard Manados /way 55 24 | 25 |
-| <a href="https://www.wowhead.com/forever/quest=971">Knowledge in the Deeps</a><br>Deelbaar | Ironforge, The Forlorn Cavern: Gerrig Bonegrip /way 50 5 | 23 |
-| <a href="https://www.wowhead.com/forever/quest=1275">Researching the Corruption</a><br>Deelbaar | Darkshore, Auberdine: Gershala Nightwhisper /way 38 43 | 24 |
-| <a href="https://www.wowhead.com/forever/quest=1200">Blackfathom Villainy</a><br>Deelbaar | In de dungeon: Argent Guard Thaelrid | 27 |
+| Quest | Waar hij begint | Level | Beloning |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=1198">In Search of Thaelrid</a><br>Deelbaar | Darnassus, Craftsmen's Terrace: Dawnwatcher Shaedlass /way 55 24 | 18 | Nog niet bekend |
+| <a href="https://www.wowhead.com/forever/quest=1199">Twilight Falls</a><br>Deelbaar | Darnassus, Craftsmen's Terrace: Argent Guard Manados /way 55 24 | 20 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6998"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nimbus Boots</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7000"><img class="wf-wh__icon" src="/wh/inv_belt_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heartwood Girdle</a> |
+| <a href="https://www.wowhead.com/forever/quest=971">Knowledge in the Deeps</a><br>Deelbaar | Ironforge, The Forlorn Cavern: Gerrig Bonegrip /way 50 5 | 10 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6743"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sustaining Ring</a> |
+| <a href="https://www.wowhead.com/forever/quest=1275">Researching the Corruption</a><br>Deelbaar | Darkshore, Auberdine: Gershala Nightwhisper /way 38 43 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7003"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beetle Clasps</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7004"><img class="wf-wh__icon" src="/wh/inv_misc_cape_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prelacy Cape</a> |
+| <a href="https://www.wowhead.com/forever/quest=1200">Blackfathom Villainy</a><br>Deelbaar | In de dungeon: Argent Guard Thaelrid | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7002"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arctic Buckler</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> |
 
-Het level is het level van de quest in de data van de beta. De beloningen zijn veranderd in Forever, schrijft Warcraft Tavern, maar welke items ze nu geven, is nog niet bekend.
+Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead. De beloningen komen van Wowhead; waar die er geen noemt, zijn ze nog niet bekend.
 
 ### De quests van de Horde
 
@@ -105,7 +107,7 @@ Warlocks komen hier ook voor <a href="https://www.wowhead.com/forever/quest=1740
 
 ## De bazen en hun loot
 
-De loot hieronder is wat deze bazen in Classic lieten vallen, met de stats uit de bestanden van de beta. Blizzard heeft de droptabellen van Forever niet gepubliceerd, dus een baas kan nog iets anders laten vallen.
+De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta.
 
 ### Ghamoo-ra
 
@@ -165,6 +167,8 @@ Een optionele elite van level 26 die onder water bevochten wordt. Hij geneest zi
 
 ### Aku'mai
 
+Voor zijn hol opengaat, moeten alle vier de vuurschalen branden, en elke schaal brengt een golf monsters. De golf schildpadden slaat het hardst; een off-tank, een pet of een Rogue met Evasion neemt er best een van, schrijft Wowhead.
+
 De eindbaas, een elite hydra van level 28. Blijf uit zijn Poison Cloud; die is te onderbreken. Frenzied Rage geeft hem 75% meer aanvalssnelheid gedurende 5 seconden. Bewaar stuns en de cooldowns van de tank daarvoor.
 
 | Item | Nieuw in Forever |
@@ -187,5 +191,5 @@ Verschillende blauwe items die binden bij het aandoen, vielen in Classic bij de 
 
 ## Wat nog niet bekend is
 
-- **De droptabellen van Forever**: welke baas nu welk item laat vallen, en hoe vaak.
-- **De beloningen van de quests**, die volgens Warcraft Tavern veranderd zijn.
+- **De dropkansen** van de loot van de bazen.
+- **De beloningen van de quests** die Wowhead nog niet noemt.

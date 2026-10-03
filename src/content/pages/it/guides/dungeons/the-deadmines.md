@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: it
 faq:
   - q: "Che livello è The Deadmines in WoW Forever?"
-    a: "I boss sono di livello dal 19 al 21. Il dungeon è difficile al 14, al giusto livello al 19 e facile al 24. Warcraft Tavern indica un intervallo dal 15 al 22."
+    a: "I gruppi lo affrontano dal livello 14 al 24. I boss sono di livello dal 19 al 21."
   - q: "Dov’è l’ingresso di The Deadmines?"
     a: "A Westfall, dentro la Defias Hideout, il grande edificio a sud-ovest di Moonbrook, a /way 42 72. Il portale è in fondo alle grotte sottostanti."
   - q: "Il bottino di The Deadmines è cambiato in WoW Forever?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"
   - name: "Warcraft Tavern, le missioni"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines-quests/"
+  - name: "Wowhead, la guida al dungeon"
+    url: "https://www.wowhead.com/forever/guide/the-deadmines-dungeon-overview-location-rewards"
   - name: "Wowhead, le missioni dei dungeon"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 manual: true
@@ -31,7 +33,7 @@ The Deadmines è il covo della Defias Brotherhood sotto Moonbrook, a Westfall: u
 
 | | |
 |---|---|
-| Livelli | Boss dal 19 al 21; difficile al 14, al giusto livello al 19, facile al 24 |
+| Livelli | 14-24, boss dal livello 19 al 21 |
 | Ingresso | La Defias Hideout a Moonbrook, Westfall, /way 42 72 |
 | Boss | 8, di cui Miner Johnson è un raro |
 | Missioni | 6, tutte dell’Alliance |
@@ -58,16 +60,16 @@ L’Alliance ha Sentinel Hill a due passi. La Horde non ha missioni in The Deadm
 
 ## Le missioni
 
-| Missione | Dove inizia | Livello |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=168">Collecting Memories</a><br>Condivisibile | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 18 |
-| <a href="https://www.wowhead.com/forever/quest=167">Oh Brother...</a><br>Condivisibile | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 20 |
-| <a href="https://www.wowhead.com/forever/quest=2040">Underground Assault</a><br>Condivisibile | Stormwind, Dwarven District: Shoni the Shilent /way 55 13<br><em>La catena inizia da Gnoarn a Tinker Town, Ironforge.</em> | 20 |
-| <a href="https://www.wowhead.com/forever/quest=214">Red Silk Bandanas</a> | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Completa prima 6 missioni, a partire da The Defias Brotherhood di Gryan Stoutmantle.</em> | 17 |
-| <a href="https://www.wowhead.com/forever/quest=166">The Defias Brotherhood</a> | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>La fine di una catena di sei missioni con lo stesso nome.</em> | 22 |
-| <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Nel dungeon: An Unsent Letter, lasciata da Edwin VanCleef | 22 |
+| Missione | Dove inizia | Livello | Ricompensa |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=168">Collecting Memories</a><br>Condivisibile | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 14 | Non ancora nota |
+| <a href="https://www.wowhead.com/forever/quest=167">Oh Brother...</a><br>Condivisibile | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 15 | Non ancora nota |
+| <a href="https://www.wowhead.com/forever/quest=2040">Underground Assault</a><br>Condivisibile | Stormwind, Dwarven District: Shoni the Shilent /way 55 13<br><em>La catena inizia da Gnoarn a Tinker Town, Ironforge.</em> | 15 | Non ancora nota |
+| <a href="https://www.wowhead.com/forever/quest=214">Red Silk Bandanas</a> | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Completa prima 6 missioni, a partire da The Defias Brotherhood di Gryan Stoutmantle.</em> | 14 | Non ancora nota |
+| <a href="https://www.wowhead.com/forever/quest=166">The Defias Brotherhood</a> | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>La fine di una catena di sei missioni con lo stesso nome.</em> | 14 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6087"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chausses of Westfall</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2042"><img class="wf-wh__icon" src="/wh/inv_staff_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Westfall</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2041"><img class="wf-wh__icon" src="/wh/inv_chest_leather_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tunic of Westfall</a> |
+| <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Nel dungeon: An Unsent Letter, lasciata da Edwin VanCleef | 16 | Non ancora nota |
 
-Il livello è quello della missione nei dati della beta. Le ricompense di queste missioni sono cambiate in Forever, scrive Warcraft Tavern, ma non si sa ancora quali oggetti diano ora.
+Il livello è il minimo per accettare la missione, secondo Wowhead. Le ricompense vengono da Wowhead; dove non ne indica, non sono ancora note.
 
 ### Collecting Memories
 
@@ -135,11 +137,11 @@ Edwin VanCleef lascia An Unsent Letter, che avvia questa missione dal livello 16
 
 </div>
 
-Anche i Paladin dell’Alliance vengono qui per <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, la fine della catena del Tome of Valor. È nella [guida ai dungeon](/it/guides/dungeons/).
+Anche i Paladin dell’Alliance vengono qui per <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, la fine della catena del Tome of Valor che si conclude con <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: il Whitestone Oak Lumber cade dai Goblin Woodcarvers vicino all’inizio. I Paladin della Horde hanno un equivalente nuovo in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>, scrive Wowhead. La catena inizia a Bandarion Keep a Tirisfal Glades; Lumina Windsinger assegna la missione nella cripta di Silverpine Forest, /way 43 40. Entrambe sono nella [guida ai dungeon](/it/guides/dungeons/).
 
 ## I boss e il loro bottino
 
-Il bottino qui sotto è quello che questi boss lasciavano in Classic, con le statistiche dei file della beta. Blizzard non ha pubblicato le tabelle del bottino di Forever, quindi un boss può ancora lasciare altro.
+Il bottino di ogni boss viene da Wowhead, con le statistiche dei file della beta.
 
 ### Rhahk'Zor
 
@@ -246,6 +248,6 @@ Le statistiche nei file della beta sono cambiate da quell’articolo: la First M
 
 ## Cosa non si sa ancora
 
-- **Le tabelle del bottino di Forever**: quale boss lascia ora quale oggetto, e con che frequenza.
-- **Le ricompense delle missioni**, cambiate secondo Warcraft Tavern.
+- **Le probabilità di drop** del bottino dei boss.
+- **Le ricompense delle missioni** che Wowhead non indica ancora.
 - **La Band of the Better Half**: dove cade.

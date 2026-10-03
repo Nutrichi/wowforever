@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Quel est le niveau du Hall of Thanes ?"
-    a: "Blizzard donne 13 à 18. Le niveau 11 est difficile, 14 au niveau et 19 facile. Le butin des boss demande le niveau 13, et les quêtes le niveau 9 ou 10."
+    a: "Blizzard donne 13 à 18. Le butin des boss demande le niveau 13, et les quêtes le niveau 9 ou 10."
   - q: "Où est l’entrée du Hall of Thanes ?"
     a: "Dans Old Ironforge. La porte est à gauche juste après l’entrée du High Seat à Ironforge, et un chemin descend jusqu’au portail. Le Spirit Healer est juste à la sortie de la ville."
   - q: "Combien de quêtes compte le Hall of Thanes ?"
@@ -35,7 +35,7 @@ The Hall of Thanes est le nouveau donjon sous Old Ironforge, pour les niveaux 13
 
 | | |
 |---|---|
-| Niveaux | 13 à 18 selon Blizzard ; difficile à 11, au niveau à 14, facile à 19 |
+| Niveaux | 13-18 selon Blizzard |
 | Entrée | Old Ironforge, sous le High Seat à Ironforge |
 | Boss | 4 : Faldrim Anvilmar, Magmatus, Plunder, Durgen Dirgehammer |
 | Quêtes | 5, toutes de l’Alliance sauf An Ancient Grudge |

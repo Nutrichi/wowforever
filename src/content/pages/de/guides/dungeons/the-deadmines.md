@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: de
 faq:
   - q: "Welche Stufe hat The Deadmines in WoW Forever?"
-    a: "Die Bosse sind Stufe 19 bis 21. Der Dungeon ist schwer auf 14, passend auf 19 und leicht auf 24. Warcraft Tavern nennt einen Bereich von 15 bis 22."
+    a: "Gruppen spielen den Dungeon von Stufe 14 bis 24. Die Bosse sind Stufe 19 bis 21."
   - q: "Wo ist der Eingang von The Deadmines?"
     a: "In Westfall, im Defias Hideout, dem großen Gebäude im Südwesten von Moonbrook bei /way 42 72. Das Portal liegt ganz unten in den Höhlen darunter."
   - q: "Hat sich die Beute von The Deadmines in WoW Forever geändert?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"
   - name: "Warcraft Tavern, die Quests"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines-quests/"
+  - name: "Wowhead, der Dungeon-Guide"
+    url: "https://www.wowhead.com/forever/guide/the-deadmines-dungeon-overview-location-rewards"
   - name: "Wowhead, die Dungeon-Quests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 manual: true
@@ -31,7 +33,7 @@ The Deadmines ist das Versteck der Defias Brotherhood unter Moonbrook in Westfal
 
 | | |
 |---|---|
-| Stufen | Bosse von 19 bis 21; schwer auf 14, passend auf 19, leicht auf 24 |
+| Stufen | 14-24, Bosse der Stufe 19 bis 21 |
 | Eingang | Das Defias Hideout in Moonbrook, Westfall, /way 42 72 |
 | Bosse | 8, davon ist Miner Johnson ein Rare |
 | Quests | 6, alle Alliance |
@@ -58,16 +60,16 @@ Die Alliance hat Sentinel Hill ganz in der Nähe. Die Horde hat keine Quests in 
 
 ## Die Quests
 
-| Quest | Wo sie beginnt | Stufe |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=168">Collecting Memories</a><br>Teilbar | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 18 |
-| <a href="https://www.wowhead.com/forever/quest=167">Oh Brother...</a><br>Teilbar | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 20 |
-| <a href="https://www.wowhead.com/forever/quest=2040">Underground Assault</a><br>Teilbar | Stormwind, Dwarven District: Shoni the Shilent /way 55 13<br><em>Die Reihe beginnt bei Gnoarn in Tinker Town, Ironforge.</em> | 20 |
-| <a href="https://www.wowhead.com/forever/quest=214">Red Silk Bandanas</a> | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Erledige zuerst 6 Quests, beginnend mit The Defias Brotherhood von Gryan Stoutmantle.</em> | 17 |
-| <a href="https://www.wowhead.com/forever/quest=166">The Defias Brotherhood</a> | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>Das Ende einer Reihe von sechs Quests mit demselben Namen.</em> | 22 |
-| <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Im Dungeon: An Unsent Letter, eine Beute von Edwin VanCleef | 22 |
+| Quest | Wo sie beginnt | Stufe | Belohnung |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=168">Collecting Memories</a><br>Teilbar | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 14 | Noch nicht bekannt |
+| <a href="https://www.wowhead.com/forever/quest=167">Oh Brother...</a><br>Teilbar | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 | 15 | Noch nicht bekannt |
+| <a href="https://www.wowhead.com/forever/quest=2040">Underground Assault</a><br>Teilbar | Stormwind, Dwarven District: Shoni the Shilent /way 55 13<br><em>Die Reihe beginnt bei Gnoarn in Tinker Town, Ironforge.</em> | 15 | Noch nicht bekannt |
+| <a href="https://www.wowhead.com/forever/quest=214">Red Silk Bandanas</a> | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Erledige zuerst 6 Quests, beginnend mit The Defias Brotherhood von Gryan Stoutmantle.</em> | 14 | Noch nicht bekannt |
+| <a href="https://www.wowhead.com/forever/quest=166">The Defias Brotherhood</a> | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>Das Ende einer Reihe von sechs Quests mit demselben Namen.</em> | 14 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6087"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chausses of Westfall</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2042"><img class="wf-wh__icon" src="/wh/inv_staff_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Westfall</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2041"><img class="wf-wh__icon" src="/wh/inv_chest_leather_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tunic of Westfall</a> |
+| <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Im Dungeon: An Unsent Letter, eine Beute von Edwin VanCleef | 16 | Noch nicht bekannt |
 
-Die Stufe ist die Stufe der Quest in den Daten der Beta. Die Belohnungen dieser Quests haben sich in Forever geändert, schreibt Warcraft Tavern, welche Gegenstände sie jetzt geben, ist aber noch nicht bekannt.
+Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wowhead. Die Belohnungen stammen von Wowhead; wo es keine nennt, sind sie noch nicht bekannt.
 
 ### Collecting Memories
 
@@ -135,11 +137,11 @@ Edwin VanCleef lässt An Unsent Letter fallen, der diese Quest ab Stufe 16 start
 
 </div>
 
-Paladins der Alliance kommen auch für <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a> hierher, das Ende der Reihe des Tome of Valor. Sie steht im [Dungeon-Guide](/de/guides/dungeons/).
+Paladins der Alliance kommen auch für <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a> hierher, das Ende der Reihe des Tome of Valor, die mit <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a> endet: Das Whitestone Oak Lumber fällt bei den Goblin Woodcarvers nahe dem Anfang. Paladins der Horde bekommen ein Gegenstück, das in Forever neu ist, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>, schreibt Wowhead. Die Reihe beginnt in Bandarion Keep in Tirisfal Glades; Lumina Windsinger vergibt die Quest in der Gruft in Silverpine Forest, /way 43 40. Beide stehen im [Dungeon-Guide](/de/guides/dungeons/).
 
 ## Die Bosse und ihre Beute
 
-Die Beute unten ist die, die diese Bosse in Classic fallen ließen, mit den Werten aus den Dateien der Beta. Blizzard hat die Beutetabellen von Forever nicht veröffentlicht, ein Boss kann also noch etwas anderes fallen lassen.
+Die Beute pro Boss stammt von Wowhead, mit den Werten aus den Dateien der Beta.
 
 ### Rhahk'Zor
 
@@ -246,6 +248,6 @@ Die Werte in den Dateien der Beta haben sich seit diesem Beitrag geändert: Die 
 
 ## Was noch nicht bekannt ist
 
-- **Die Beutetabellen von Forever**: welcher Boss jetzt welchen Gegenstand fallen lässt, und wie oft.
-- **Die Belohnungen der Quests**, die sich laut Warcraft Tavern geändert haben.
+- **Die Dropchancen** der Bossbeute.
+- **Die Belohnungen der Quests**, die Wowhead noch nicht nennt.
 - **Die Band of the Better Half**: wo sie fällt.

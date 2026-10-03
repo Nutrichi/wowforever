@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: es
 faq:
   - q: "¿Qué nivel tiene Blackfathom Deeps en WoW Forever?"
-    a: "Los jefes son de nivel 25 a 28. La mazmorra es difícil a 21, a nivel a 25 y fácil a 30. Warcraft Tavern da un rango de 22 a 28."
+    a: "Los grupos la hacen del nivel 21 al 30. Los jefes son de nivel 25 a 28."
   - q: "¿Dónde está la entrada de Blackfathom Deeps?"
     a: "En el noroeste de Ashenvale, en unas ruinas hundidas de los Night Elves en la Zoram Strand, en /way 14.5 14.6. Nada por la poza del fondo y sigue una cueva estrecha llena de nagas élite hasta el portal."
   - q: "¿Tiene Blackfathom Deeps misiones para las dos facciones?"
@@ -19,6 +19,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/blackfathom-deeps/"
   - name: "Warcraft Tavern, las misiones"
     url: "https://www.warcrafttavern.com/forever/guides/blackfathom-deeps-quests/"
+  - name: "Wowhead, la guía de la mazmorra"
+    url: "https://www.wowhead.com/forever/guide/blackfathom-deeps-dungeon-overview-location-rewards"
   - name: "Wowhead, las misiones de mazmorra"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
 manual: true
@@ -31,7 +33,7 @@ Blackfathom Deeps es un templo hundido de Elune en la costa de Ashenvale. El Twi
 
 | | |
 |---|---|
-| Niveles | Jefes de 25 a 28; difícil a 21, a nivel a 25, fácil a 30 |
+| Niveles | 21-30, jefes de nivel 25 a 28 |
 | Entrada | La Zoram Strand, noroeste de Ashenvale, /way 14.5 14.6 |
 | Jefes | 8, de los que Lorgus Jett y Baron Aquanis son para misiones de la Horde |
 | Misiones | 5 para la Horde, 5 para la Alliance |
@@ -57,25 +59,25 @@ La Horde tiene Zoram'gar Outpost un poco al sur, donde Je'neu Sancrea da tres de
 
 ### Horde
 
-| Misión | Dónde empieza | Nivel |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=6563">The Essence of Aku'Mai</a><br>Compartible | Ashenvale, Zoram'gar Outpost: Je'neu Sancrea /way 11 34<br><em>Completa antes Trouble in the Deeps de Tsunaman en las Stonetalon Mountains.</em> | 22 |
-| <a href="https://www.wowhead.com/forever/quest=6565">Allegiance to the Old Gods</a> | Ashenvale, fuera de la mazmorra: Damp Note, un botín raro de las Blackfathom Tide Priestess | 26 |
-| <a href="https://www.wowhead.com/forever/quest=6921">Amongst the Ruins</a><br>Compartible | Ashenvale, Zoram'gar Outpost: Je'neu Sancrea /way 11 34 | 27 |
-| <a href="https://www.wowhead.com/forever/quest=6922">Baron Aquanis</a> | Dentro de la mazmorra: Strange Water Globe, que suelta Baron Aquanis | 30 |
-| <a href="https://www.wowhead.com/forever/quest=6561">Blackfathom Villainy</a><br>Compartible | Dentro de la mazmorra: Argent Guard Thaelrid | 27 |
+| Misión | Dónde empieza | Nivel | Recompensa |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=6563">The Essence of Aku'Mai</a><br>Compartible | Ashenvale, Zoram'gar Outpost: Je'neu Sancrea /way 11 34<br><em>Completa antes Trouble in the Deeps de Tsunaman en las Stonetalon Mountains.</em> | 17 | Aún no se sabe |
+| <a href="https://www.wowhead.com/forever/quest=6565">Allegiance to the Old Gods</a> | Ashenvale, fuera de la mazmorra: Damp Note, un botín raro de las Blackfathom Tide Priestess | 17 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17694"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Band of the Fist</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17695"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chestnut Mantle</a> |
+| <a href="https://www.wowhead.com/forever/quest=6921">Amongst the Ruins</a><br>Compartible | Ashenvale, Zoram'gar Outpost: Je'neu Sancrea /way 11 34 | 21 | Aún no se sabe |
+| <a href="https://www.wowhead.com/forever/quest=6922">Baron Aquanis</a> | Dentro de la mazmorra: Strange Water Globe, que suelta Baron Aquanis | 21 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=16886"><img class="wf-wh__icon" src="/wh/inv_sword_33.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Outlaw Sabre</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=16887"><img class="wf-wh__icon" src="/wh/inv_wand_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Witch's Finger</a> |
+| <a href="https://www.wowhead.com/forever/quest=6561">Blackfathom Villainy</a><br>Compartible | Dentro de la mazmorra: Argent Guard Thaelrid | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7002"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arctic Buckler</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> |
 
 ### Alliance
 
-| Misión | Dónde empieza | Nivel |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=1198">In Search of Thaelrid</a><br>Compartible | Darnassus, Craftsmen's Terrace: Dawnwatcher Shaedlass /way 55 24 | 24 |
-| <a href="https://www.wowhead.com/forever/quest=1199">Twilight Falls</a><br>Compartible | Darnassus, Craftsmen's Terrace: Argent Guard Manados /way 55 24 | 25 |
-| <a href="https://www.wowhead.com/forever/quest=971">Knowledge in the Deeps</a><br>Compartible | Ironforge, The Forlorn Cavern: Gerrig Bonegrip /way 50 5 | 23 |
-| <a href="https://www.wowhead.com/forever/quest=1275">Researching the Corruption</a><br>Compartible | Darkshore, Auberdine: Gershala Nightwhisper /way 38 43 | 24 |
-| <a href="https://www.wowhead.com/forever/quest=1200">Blackfathom Villainy</a><br>Compartible | Dentro de la mazmorra: Argent Guard Thaelrid | 27 |
+| Misión | Dónde empieza | Nivel | Recompensa |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=1198">In Search of Thaelrid</a><br>Compartible | Darnassus, Craftsmen's Terrace: Dawnwatcher Shaedlass /way 55 24 | 18 | Aún no se sabe |
+| <a href="https://www.wowhead.com/forever/quest=1199">Twilight Falls</a><br>Compartible | Darnassus, Craftsmen's Terrace: Argent Guard Manados /way 55 24 | 20 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6998"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nimbus Boots</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7000"><img class="wf-wh__icon" src="/wh/inv_belt_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heartwood Girdle</a> |
+| <a href="https://www.wowhead.com/forever/quest=971">Knowledge in the Deeps</a><br>Compartible | Ironforge, The Forlorn Cavern: Gerrig Bonegrip /way 50 5 | 10 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6743"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sustaining Ring</a> |
+| <a href="https://www.wowhead.com/forever/quest=1275">Researching the Corruption</a><br>Compartible | Darkshore, Auberdine: Gershala Nightwhisper /way 38 43 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7003"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beetle Clasps</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7004"><img class="wf-wh__icon" src="/wh/inv_misc_cape_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prelacy Cape</a> |
+| <a href="https://www.wowhead.com/forever/quest=1200">Blackfathom Villainy</a><br>Compartible | Dentro de la mazmorra: Argent Guard Thaelrid | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7002"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arctic Buckler</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> |
 
-El nivel es el de la misión en los datos de la beta. Las recompensas cambiaron en Forever, escribe Warcraft Tavern, pero aún no se sabe qué objetos dan ahora.
+El nivel es el mínimo para aceptar la misión, según Wowhead. Las recompensas vienen de Wowhead; cuando no indica ninguna, aún no se conocen.
 
 ### Las misiones de la Horde
 
@@ -105,7 +107,7 @@ Los Warlocks también vienen aquí por <a href="https://www.wowhead.com/forever/
 
 ## Los jefes y su botín
 
-El botín de abajo es el que estos jefes soltaban en Classic, con las estadísticas de los archivos de la beta. Blizzard no ha publicado las tablas de botín de Forever, así que un jefe todavía puede soltar otra cosa.
+El botín de cada jefe viene de Wowhead, con las estadísticas de los archivos de la beta.
 
 ### Ghamoo-ra
 
@@ -165,6 +167,8 @@ Un élite opcional de nivel 26 contra el que se lucha bajo el agua. Se cura mien
 
 ### Aku'mai
 
+Antes de que se abra su guarida hay que encender los cuatro braseros, y cada uno trae una oleada de monstruos. La oleada de tortugas es la que más pega; un segundo tanque, una mascota o un Rogue con Evasion debería encargarse de una, escribe Wowhead.
+
 El jefe final, una hidra élite de nivel 28. No te quedes en su Poison Cloud; se puede interrumpir. Frenzied Rage le da un 75% más de velocidad de ataque durante 5 segundos. Guarda los aturdimientos y los cooldowns del tanque para ese momento.
 
 | Objeto | Nuevo en Forever |
@@ -187,5 +191,5 @@ Varios objetos azules que se ligan al equiparlos caían en Classic de los monstr
 
 ## Lo que aún no se sabe
 
-- **Las tablas de botín de Forever**: qué jefe suelta ahora cada objeto, y con qué frecuencia.
-- **Las recompensas de las misiones**, que cambiaron según Warcraft Tavern.
+- **La probabilidad de botín** de cada jefe.
+- **Las recompensas de las misiones** que Wowhead aún no indica.

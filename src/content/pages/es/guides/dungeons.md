@@ -23,49 +23,56 @@ La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las m
 
 ## Guías por mazmorra
 
-- **[The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/)**, niveles 13 a 18: cómo llegar, las cinco misiones con la cadena de Dun Morogh, los cuatro jefes y su botín.
-- **[Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/)**, niveles 15 a 20: cómo llegar con cada facción, las diez misiones, los seis jefes y su botín.
-- **[The Deadmines](/es/guides/dungeons/the-deadmines/)**, jefes de nivel 19 a 21: la entrada por Moonbrook, el camino hasta el barco, las seis misiones y el botín nuevo de cada jefe.
-- **[Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/)**, jefes de nivel 20 a 26: la entrada sobre Pyrewood Village, las tres misiones de la Horde y el botín nuevo de cada jefe.
-- **[Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/)**, jefes de nivel 25 a 28: la entrada en la Zoram Strand, las misiones de ambas facciones y el botín nuevo de cada jefe.
-- **[The Stockade](/es/guides/dungeons/the-stockade/)**, jefes de nivel 24 a 29: la planta de la prisión, las seis misiones y el botín de Bruegal Ironknuckle.
-- **[Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/)**, jefes de nivel 32 a 42: las cuatro alas, todas las misiones, el botín renovado de Graveyard y Library, y la nueva bonificación de set.
+- **[Ragefire Chasm](/es/guides/dungeons/ragefire-chasm/)**, niveles 9-19: la entrada por Orgrimmar, las seis misiones de la Horde con sus recompensas y el botín nuevo de Taragaman y Jergosh.
+- **[The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/)**, niveles 13-18: cómo llegar, las cinco misiones con la cadena de Dun Morogh, los cuatro jefes y su botín.
+- **[Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/)**, niveles 15-20: cómo llegar con las dos facciones, las diez misiones, los seis jefes y su botín.
+- **[Wailing Caverns](/es/guides/dungeons/wailing-caverns/)**, niveles 15-24: las siete misiones con sus recompensas, los Lords of the Fang, el evento de Naralex y las nuevas bonificaciones de Embrace of the Viper.
+- **[The Deadmines](/es/guides/dungeons/the-deadmines/)**, niveles 14-24: la entrada por Moonbrook, las seis misiones con sus recompensas y el botín nuevo de cada jefe.
+- **[Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/)**, niveles 18-28: la entrada sobre Pyrewood Village, las tres misiones de la Horde y el botín nuevo de cada jefe.
+- **[Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/)**, niveles 21-30: la entrada en la Zoram Strand, las misiones de ambas facciones y el botín nuevo de cada jefe.
+- **[Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/)**, niveles 26-31, nueva en Forever: las misiones de ambas facciones, la hierba alta y los tres jefes con su botín.
+- **[The Stockade](/es/guides/dungeons/the-stockade/)**, niveles 22-30: la planta de la prisión, las seis misiones y el botín de Bruegal Ironknuckle.
+- **[City of Dalaran](/es/guides/dungeons/city-of-dalaran/)**, niveles 28-33, nueva en Forever: las dos entradas, los enemigos arcanos y los siete jefes.
+- **[Razorfen Kraul](/es/guides/dungeons/razorfen-kraul/)**, niveles 25-34: las siete misiones con sus recompensas, los lanzadores quilboar y el botín nuevo de cada jefe.
+- **[Gnomeregan](/es/guides/dungeons/gnomeregan/)**, niveles 25-38: las dos puertas, el teletransporte de la Horde, las trece misiones y el botín nuevo de cada jefe.
+- **[Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/)**, niveles 26-45: las cuatro alas, cada misión con su recompensa y el botín de cada jefe.
+- **[Razorfen Downs](/es/guides/dungeons/razorfen-downs/)**, niveles 35-44: las seis misiones con sus recompensas, el evento del gong y el botín nuevo de cada jefe.
 
 ## Cada mazmorra por nivel
 
-Para las mazmorras de Classic, los tres números son el nivel en que la mazmorra es difícil, a nivel y fácil. Para las nuevas, el rango es el que publicó Blizzard el 14 de septiembre de 2026.
+Cada rango va del nivel en que un grupo puede con la mazmorra al nivel en que se vuelve fácil. Para las nuevas, el rango es el que publicó Blizzard el 14 de septiembre de 2026.
 
 | Mazmorra | Niveles | Misiones |
 |---|---|---|
-| Ragefire Chasm | 9 / 14 / 19 | 5 |
-| [The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/) | 13 a 18 | 5 |
-| [Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/) | 15 a 20 | 10 |
-| Wailing Caverns | 15 / 19 / 24 | 7 |
-| [The Deadmines](/es/guides/dungeons/the-deadmines/) | 14 / 19 / 24 | 7 |
-| [Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/) | 18 / 23 / 28 | 5 |
-| [Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/) | 21 / 25 / 30 | 13 |
-| Excavation Site: Wetlands | 26 a 31 | aún no se conocen |
-| [The Stockade](/es/guides/dungeons/the-stockade/) | 22 / 26 / 30 | 6 |
-| City of Dalaran | 28 a 33 | aún no se conocen |
-| Razorfen Kraul | 25 / 31 / 34 | 7 |
-| Gnomeregan | 25 / 33 / 38 | 13 |
-| The Drowned City | 35 a 40 | aún no se conocen |
-| [Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/) | 26 / 37 / 45 | 8 |
-| Razorfen Downs | 35 / 39 / 44 | 6 |
-| Krol'dok Stronghold | 40 a 45 | aún no se conocen |
-| Uldaman | 37 / 42 / 47 | 14 |
-| Zul'Farrak | 40 / 44 / 50 | 8 |
-| Maraudon | 41 / 46 / 50 | 11 |
-| Alcaz Prison | 48 a 53 | aún no se conocen |
-| Sunken Temple | 46 / 51 / 54 | 9 |
-| Blackrock Depths | 50 / 55 / 60 | 24 |
-| Dire Maul | 52 / 56 / 60 | 13 |
-| Blackmaw Hold | 55 a 60 | aún no se conocen |
-| Shaper's Terrace | 58 a 60 | aún no se conocen |
-| Lower Blackrock Spire | 54 / 60 | 12 |
-| Scholomance | 54 / 60 | 10 |
-| Stratholme | 54 / 60 | 14 |
-| Upper Blackrock Spire | 54 / 60 | 12 |
+| [Ragefire Chasm](/es/guides/dungeons/ragefire-chasm/) | 9-19 | 5 |
+| [The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
+| [Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
+| [Wailing Caverns](/es/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
+| [The Deadmines](/es/guides/dungeons/the-deadmines/) | 14-24 | 7 |
+| [Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/) | 18-28 | 5 |
+| [Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/) | 21-30 | 13 |
+| [Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/) | 26-31 | aún no se conocen |
+| [The Stockade](/es/guides/dungeons/the-stockade/) | 22-30 | 6 |
+| [City of Dalaran](/es/guides/dungeons/city-of-dalaran/) | 28-33 | aún no se conocen |
+| [Razorfen Kraul](/es/guides/dungeons/razorfen-kraul/) | 25-34 | 7 |
+| [Gnomeregan](/es/guides/dungeons/gnomeregan/) | 25-38 | 13 |
+| The Drowned City | 35-40 | aún no se conocen |
+| [Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/) | 26-45 | 8 |
+| [Razorfen Downs](/es/guides/dungeons/razorfen-downs/) | 35-44 | 6 |
+| Krol'dok Stronghold | 40-45 | aún no se conocen |
+| Uldaman | 37-47 | 14 |
+| Zul'Farrak | 40-50 | 8 |
+| Maraudon | 41-50 | 11 |
+| Alcaz Prison | 48-53 | aún no se conocen |
+| Sunken Temple | 46-54 | 9 |
+| Blackrock Depths | 50-60 | 24 |
+| Dire Maul | 52-60 | 13 |
+| Blackmaw Hold | 55-60 | aún no se conocen |
+| Shaper's Terrace | 58-60 | aún no se conocen |
+| Lower Blackrock Spire | 54-60 | 12 |
+| Scholomance | 54-60 | 10 |
+| Stratholme | 54-60 | 14 |
+| Upper Blackrock Spire | 54-60 | 12 |
 
 ## Cómo leer las tablas
 
@@ -75,6 +82,7 @@ Para las mazmorras de Classic, los tres números son el nivel en que la mazmorra
 
 ## Ragefire Chasm
 
+La guía completa: [Ragefire Chasm](/es/guides/dungeons/ragefire-chasm/).
 
 | Misión | Dónde empieza |
 |---|---|
@@ -98,6 +106,7 @@ La guía completa: [The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/).
 
 ## Wailing Caverns
 
+La guía completa: [Wailing Caverns](/es/guides/dungeons/wailing-caverns/).
 
 | Misión | Dónde empieza |
 |---|---|
@@ -194,6 +203,7 @@ La guía completa: [The Stockade](/es/guides/dungeons/the-stockade/).
 
 ## Gnomeregan
 
+La guía completa: [Gnomeregan](/es/guides/dungeons/gnomeregan/).
 Al menos un jugador necesita la Workshop Key para abrir la puerta trasera; Lockpicking 150 también sirve.
 
 | Misión | Dónde empieza |
@@ -214,6 +224,7 @@ Al menos un jugador necesita la Workshop Key para abrir la puerta trasera; Lockp
 
 ## Razorfen Kraul
 
+La guía completa: [Razorfen Kraul](/es/guides/dungeons/razorfen-kraul/).
 
 | Misión | Dónde empieza |
 |---|---|
@@ -256,6 +267,7 @@ La guía completa: [Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/).
 
 ## Razorfen Downs
 
+La guía completa: [Razorfen Downs](/es/guides/dungeons/razorfen-downs/).
 
 | Misión | Dónde empieza |
 |---|---|
@@ -491,16 +503,16 @@ Al menos un jugador necesita el Seal of Ascension para entrar.
 
 ## Mazmorras nuevas sin misiones conocidas
 
-Seis mazmorras nuevas de Forever aún no están en la beta, así que sus misiones no se conocen. La Excavation Site abrió en la beta el 1 de octubre; sus misiones aún no están en esta guía. Los niveles son los de Blizzard.
+Aún no se conocen las misiones de seis mazmorras nuevas de Forever. La Excavation Site abrió en la beta el 1 de octubre; sus misiones están en [su propia guía](/es/guides/dungeons/excavation-site-wetlands/). Los niveles son los de Blizzard.
 
 | Mazmorra | Niveles |
 |---|---|
-| Excavation Site: Wetlands | 26 a 31 |
-| City of Dalaran | 28 a 33 |
-| The Drowned City | 35 a 40 |
-| Krol'dok Stronghold | 40 a 45 |
-| Alcaz Prison | 48 a 53 |
-| Blackmaw Hold | 55 a 60 |
-| Shaper's Terrace | 58 a 60 |
+| [Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/) | 26-31 |
+| [City of Dalaran](/es/guides/dungeons/city-of-dalaran/) | 28-33 |
+| The Drowned City | 35-40 |
+| Krol'dok Stronghold | 40-45 |
+| Alcaz Prison | 48-53 |
+| Blackmaw Hold | 55-60 |
+| Shaper's Terrace | 58-60 |
 
-La entrada de la City of Dalaran ya está en la beta: por las Dalaran Sewers para la Alliance, desde fuera de la ciudad con una llave para la Horde ([más](/es/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). Si ya se puede entrar en la mazmorra, no se sabe.
+La City of Dalaran tiene [su propia guía](/es/guides/dungeons/city-of-dalaran/), con las dos entradas y los siete jefes. Sus misiones y su botín aún no se conocen.

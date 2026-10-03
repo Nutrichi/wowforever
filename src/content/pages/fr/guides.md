@@ -11,16 +11,24 @@ Des guides pas à pas pour World of Warcraft: Forever, des quêtes de donjon aux
 
 ## Donjons
 
+Tous les donjons de WoW Forever par niveau, avec toutes leurs quêtes, sont dans l’[aperçu des donjons](/fr/guides/dungeons/).
+
 | Guide | Ce qu'il couvre |
 |---|---|
-| [Guide des donjons](/fr/guides/dungeons/) | Chaque donjon de WoW Forever par niveau, avec toutes ses quêtes : où elles commencent, pour quelle faction et ce qu'il faut faire avant |
-| [The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/) | Le premier nouveau donjon de l'Alliance, niveaux 13 à 18 : l'accès, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin |
-| [Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/) | Le donjon au-dessus de l'Undercity, niveaux 15 à 20 : le chemin, toutes les quêtes de la Horde et de l'Alliance, les six boss et leur butin |
-| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | Le repaire des Defias sous Moonbrook, niveaux 14 à 24 : l’entrée, les six quêtes, les huit boss et leur nouveau butin |
-| [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | Le château d’Arugal dans Silverpine Forest, niveaux 18 à 28 : l’entrée, les trois quêtes de la Horde, les neuf boss et leur nouveau butin |
-| [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | Le temple englouti d’Ashenvale, niveaux 21 à 30 : l’entrée, les quêtes des deux factions, les huit boss et leur nouveau butin |
-| [The Stockade](/fr/guides/dungeons/the-stockade/) | La prison de Stormwind, niveaux 22 à 30 : le plan, les six quêtes et les six boss |
-| [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/) | Le bastion de la Scarlet Crusade dans Tirisfal Glades, boss de niveau 32 à 42 : les quatre ailes, toutes les quêtes, le nouveau butin et le bonus de set |
+| [Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/) | Niveaux 9-19 : l’entrée par Orgrimmar, les six quêtes de la Horde avec leurs récompenses et le nouveau butin de Taragaman et Jergosh |
+| [The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/) | Niveaux 13-18 : le chemin, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin |
+| [Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/) | Niveaux 15-20 : le chemin pour les deux factions, les dix quêtes, les six boss et leur butin |
+| [Wailing Caverns](/fr/guides/dungeons/wailing-caverns/) | Niveaux 15-24 : les sept quêtes avec leurs récompenses, les Lords of the Fang, l’événement de Naralex et les nouveaux bonus d’Embrace of the Viper |
+| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | Niveaux 14-24 : l’entrée par Moonbrook, les six quêtes avec leurs récompenses et le nouveau butin de chaque boss |
+| [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | Niveaux 18-28 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss |
+| [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | Niveaux 21-30 : l’entrée sur la Zoram Strand, les quêtes des deux factions et le nouveau butin de chaque boss |
+| [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | Niveaux 26-31, nouveau dans Forever : les quêtes des deux factions, les hautes herbes et les trois boss avec leur butin |
+| [The Stockade](/fr/guides/dungeons/the-stockade/) | Niveaux 22-30 : le plan de la prison, les six quêtes et le butin de Bruegal Ironknuckle |
+| [City of Dalaran](/fr/guides/dungeons/city-of-dalaran/) | Niveaux 28-33, nouveau dans Forever : les deux entrées, les monstres arcaniques et les sept boss |
+| [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/) | Niveaux 25-34 : les sept quêtes avec leurs récompenses, les lanceurs de sorts quilboar et le nouveau butin de chaque boss |
+| [Gnomeregan](/fr/guides/dungeons/gnomeregan/) | Niveaux 25-38 : les deux portes, le téléporteur de la Horde, les treize quêtes et le nouveau butin de chaque boss |
+| [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/) | Niveaux 26-45 : les quatre ailes, chaque quête avec sa récompense et le butin de chaque boss |
+| [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | Niveaux 35-44 : les six quêtes avec leurs récompenses, l’événement du gong et le nouveau butin de chaque boss |
 
 ## Chaînes de quêtes
 

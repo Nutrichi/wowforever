@@ -33,7 +33,7 @@ Ruins of Lordaeron es una mazmorra nueva en la capital en ruinas sobre la Underc
 
 | | |
 |---|---|
-| Niveles | 15 a 20 según Blizzard, 16 a 22 recomendado |
+| Niveles | 15-20 según Blizzard, 16-22 recomendado |
 | Entrada | Las ruinas abiertas de Lordaeron sobre la Undercity, Tirisfal Glades |
 | Jefes | 6, en cualquier orden |
 | Misiones | 6 para la Horde, 4 para la Alliance |

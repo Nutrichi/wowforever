@@ -11,16 +11,24 @@ Stap-voor-stapgidsen voor World of Warcraft: Forever, van dungeonquests tot ques
 
 ## Dungeons
 
+Elke dungeon van WoW Forever op level, met al zijn quests, staat in het [dungeonoverzicht](/nl/guides/dungeons/).
+
 | Gids | Waarover |
 |---|---|
-| [Dungeongids](/nl/guides/dungeons/) | Elke dungeon van WoW Forever op level, met al zijn quests: waar ze beginnen, voor welke factie en wat eerst moet |
-| [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/) | De eerste nieuwe dungeon van de Alliance, level 13 tot 18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot |
-| [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) | De dungeon boven de Undercity, level 15 tot 20: de weg erheen, alle quests voor de Horde en de Alliance, de zes bazen en hun loot |
-| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | De schuilplaats van de Defias onder Moonbrook, level 14 tot 24: de weg naar binnen, alle zes de quests, de acht bazen en hun nieuwe loot |
-| [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | Het kasteel van Arugal in Silverpine Forest, level 18 tot 28: de weg naar binnen, de drie quests van de Horde, de negen bazen en hun nieuwe loot |
-| [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | De verzonken tempel in Ashenvale, level 21 tot 30: de weg naar binnen, de quests van beide facties, de acht bazen en hun nieuwe loot |
-| [The Stockade](/nl/guides/dungeons/the-stockade/) | De gevangenis van Stormwind, level 22 tot 30: de indeling, alle zes de quests en de zes bazen |
-| [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/) | Het bolwerk van de Scarlet Crusade in Tirisfal Glades, bazen van level 32 tot 42: de vier vleugels, alle quests, de nieuwe loot en de setbonus |
+| [Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/) | Level 9-19: de weg naar binnen via Orgrimmar, alle zes de quests van de Horde met hun beloningen en de nieuwe loot van Taragaman en Jergosh |
+| [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/) | Level 13-18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot |
+| [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) | Level 15-20: de weg erheen voor beide facties, alle tien de quests, de zes bazen en hun loot |
+| [Wailing Caverns](/nl/guides/dungeons/wailing-caverns/) | Level 15-24: alle zeven de quests met hun beloningen, de Lords of the Fang, het event van Naralex en de nieuwe bonussen van Embrace of the Viper |
+| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | Level 14-24: de weg naar binnen via Moonbrook, alle zes de quests met hun beloningen en de nieuwe loot van elke baas |
+| [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | Level 18-28: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas |
+| [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | Level 21-30: de weg naar binnen aan de Zoram Strand, de quests van beide facties en de nieuwe loot van elke baas |
+| [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | Level 26-31, nieuw in Forever: de quests voor beide facties, het hoge gras en de drie bazen met hun loot |
+| [The Stockade](/nl/guides/dungeons/the-stockade/) | Level 22-30: de indeling van de gevangenis, alle zes de quests en de loot van Bruegal Ironknuckle |
+| [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | Level 28-33, nieuw in Forever: beide ingangen, de arcane trash en de zeven bazen |
+| [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | Level 25-34: alle zeven de quests met hun beloningen, de casters van de quilboar en de nieuwe loot van elke baas |
+| [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | Level 25-38: beide deuren, de teleport voor de Horde, alle dertien de quests en de nieuwe loot van elke baas |
+| [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/) | Level 26-45: de vier vleugels, elke quest met zijn beloning en de loot van elke baas |
+| [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | Level 35-44: alle zes de quests met hun beloningen, het gong-event en de nieuwe loot van elke baas |
 
 ## Questreeksen
 

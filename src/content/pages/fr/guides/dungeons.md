@@ -23,49 +23,56 @@ La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les 
 
 ## Guides par donjon
 
-- **[The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/)**, niveaux 13 à 18 : l’accès, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin.
-- **[Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/)**, niveaux 15 à 20 : l’accès pour les deux factions, les dix quêtes, les six boss et leur butin.
-- **[The Deadmines](/fr/guides/dungeons/the-deadmines/)**, boss de niveau 19 à 21 : l’entrée par Moonbrook, le chemin jusqu’au navire, les six quêtes et le nouveau butin de chaque boss.
-- **[Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/)**, boss de niveau 20 à 26 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss.
-- **[Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/)**, boss de niveau 25 à 28 : l’entrée sur la Zoram Strand, les quêtes des deux factions et le nouveau butin de chaque boss.
-- **[The Stockade](/fr/guides/dungeons/the-stockade/)**, boss de niveau 24 à 29 : le plan de la prison, les six quêtes et le butin de Bruegal Ironknuckle.
-- **[Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/)**, boss de niveau 32 à 42 : les quatre ailes, toutes les quêtes, le butin revu du Graveyard et de la Library, et le nouveau bonus de set.
+- **[Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/)**, niveaux 9-19 : l’entrée par Orgrimmar, les six quêtes de la Horde avec leurs récompenses et le nouveau butin de Taragaman et Jergosh.
+- **[The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/)**, niveaux 13-18 : le chemin, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin.
+- **[Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/)**, niveaux 15-20 : le chemin pour les deux factions, les dix quêtes, les six boss et leur butin.
+- **[Wailing Caverns](/fr/guides/dungeons/wailing-caverns/)**, niveaux 15-24 : les sept quêtes avec leurs récompenses, les Lords of the Fang, l’événement de Naralex et les nouveaux bonus d’Embrace of the Viper.
+- **[The Deadmines](/fr/guides/dungeons/the-deadmines/)**, niveaux 14-24 : l’entrée par Moonbrook, les six quêtes avec leurs récompenses et le nouveau butin de chaque boss.
+- **[Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/)**, niveaux 18-28 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss.
+- **[Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/)**, niveaux 21-30 : l’entrée sur la Zoram Strand, les quêtes des deux factions et le nouveau butin de chaque boss.
+- **[Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/)**, niveaux 26-31, nouveau dans Forever : les quêtes des deux factions, les hautes herbes et les trois boss avec leur butin.
+- **[The Stockade](/fr/guides/dungeons/the-stockade/)**, niveaux 22-30 : le plan de la prison, les six quêtes et le butin de Bruegal Ironknuckle.
+- **[City of Dalaran](/fr/guides/dungeons/city-of-dalaran/)**, niveaux 28-33, nouveau dans Forever : les deux entrées, les monstres arcaniques et les sept boss.
+- **[Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/)**, niveaux 25-34 : les sept quêtes avec leurs récompenses, les lanceurs de sorts quilboar et le nouveau butin de chaque boss.
+- **[Gnomeregan](/fr/guides/dungeons/gnomeregan/)**, niveaux 25-38 : les deux portes, le téléporteur de la Horde, les treize quêtes et le nouveau butin de chaque boss.
+- **[Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/)**, niveaux 26-45 : les quatre ailes, chaque quête avec sa récompense et le butin de chaque boss.
+- **[Razorfen Downs](/fr/guides/dungeons/razorfen-downs/)**, niveaux 35-44 : les six quêtes avec leurs récompenses, l’événement du gong et le nouveau butin de chaque boss.
 
 ## Chaque donjon par niveau
 
-Pour les donjons de Classic, les trois nombres sont le niveau où le donjon est difficile, au niveau et facile. Pour les nouveaux donjons, la fourchette est celle publiée par Blizzard le 14 septembre 2026.
+Chaque fourchette va du niveau où un groupe peut affronter le donjon au niveau où il devient facile. Pour les nouveaux donjons, la fourchette est celle publiée par Blizzard le 14 septembre 2026.
 
 | Donjon | Niveaux | Quêtes |
 |---|---|---|
-| Ragefire Chasm | 9 / 14 / 19 | 5 |
-| [The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/) | 13 à 18 | 5 |
-| [Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/) | 15 à 20 | 10 |
-| Wailing Caverns | 15 / 19 / 24 | 7 |
-| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | 14 / 19 / 24 | 7 |
-| [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | 18 / 23 / 28 | 5 |
-| [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | 21 / 25 / 30 | 13 |
-| Excavation Site: Wetlands | 26 à 31 | pas encore connues |
-| [The Stockade](/fr/guides/dungeons/the-stockade/) | 22 / 26 / 30 | 6 |
-| City of Dalaran | 28 à 33 | pas encore connues |
-| Razorfen Kraul | 25 / 31 / 34 | 7 |
-| Gnomeregan | 25 / 33 / 38 | 13 |
-| The Drowned City | 35 à 40 | pas encore connues |
-| [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/) | 26 / 37 / 45 | 8 |
-| Razorfen Downs | 35 / 39 / 44 | 6 |
-| Krol'dok Stronghold | 40 à 45 | pas encore connues |
-| Uldaman | 37 / 42 / 47 | 14 |
-| Zul'Farrak | 40 / 44 / 50 | 8 |
-| Maraudon | 41 / 46 / 50 | 11 |
-| Alcaz Prison | 48 à 53 | pas encore connues |
-| Sunken Temple | 46 / 51 / 54 | 9 |
-| Blackrock Depths | 50 / 55 / 60 | 24 |
-| Dire Maul | 52 / 56 / 60 | 13 |
-| Blackmaw Hold | 55 à 60 | pas encore connues |
-| Shaper's Terrace | 58 à 60 | pas encore connues |
-| Lower Blackrock Spire | 54 / 60 | 12 |
-| Scholomance | 54 / 60 | 10 |
-| Stratholme | 54 / 60 | 14 |
-| Upper Blackrock Spire | 54 / 60 | 12 |
+| [Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/) | 9-19 | 5 |
+| [The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
+| [Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
+| [Wailing Caverns](/fr/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
+| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | 14-24 | 7 |
+| [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | 18-28 | 5 |
+| [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | 21-30 | 13 |
+| [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | 26-31 | pas encore connues |
+| [The Stockade](/fr/guides/dungeons/the-stockade/) | 22-30 | 6 |
+| [City of Dalaran](/fr/guides/dungeons/city-of-dalaran/) | 28-33 | pas encore connues |
+| [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/) | 25-34 | 7 |
+| [Gnomeregan](/fr/guides/dungeons/gnomeregan/) | 25-38 | 13 |
+| The Drowned City | 35-40 | pas encore connues |
+| [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/) | 26-45 | 8 |
+| [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | 35-44 | 6 |
+| Krol'dok Stronghold | 40-45 | pas encore connues |
+| Uldaman | 37-47 | 14 |
+| Zul'Farrak | 40-50 | 8 |
+| Maraudon | 41-50 | 11 |
+| Alcaz Prison | 48-53 | pas encore connues |
+| Sunken Temple | 46-54 | 9 |
+| Blackrock Depths | 50-60 | 24 |
+| Dire Maul | 52-60 | 13 |
+| Blackmaw Hold | 55-60 | pas encore connues |
+| Shaper's Terrace | 58-60 | pas encore connues |
+| Lower Blackrock Spire | 54-60 | 12 |
+| Scholomance | 54-60 | 10 |
+| Stratholme | 54-60 | 14 |
+| Upper Blackrock Spire | 54-60 | 12 |
 
 ## Comment lire les tableaux
 
@@ -75,6 +82,7 @@ Pour les donjons de Classic, les trois nombres sont le niveau où le donjon est 
 
 ## Ragefire Chasm
 
+Le guide complet : [Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/).
 
 | Quête | Où elle commence |
 |---|---|
@@ -98,6 +106,7 @@ Le guide complet : [The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/).
 
 ## Wailing Caverns
 
+Le guide complet : [Wailing Caverns](/fr/guides/dungeons/wailing-caverns/).
 
 | Quête | Où elle commence |
 |---|---|
@@ -194,6 +203,7 @@ Le guide complet : [The Stockade](/fr/guides/dungeons/the-stockade/).
 
 ## Gnomeregan
 
+Le guide complet : [Gnomeregan](/fr/guides/dungeons/gnomeregan/).
 Au moins un joueur doit avoir la Workshop Key pour ouvrir la porte arrière ; Lockpicking 150 fonctionne aussi.
 
 | Quête | Où elle commence |
@@ -214,6 +224,7 @@ Au moins un joueur doit avoir la Workshop Key pour ouvrir la porte arrière ; Lo
 
 ## Razorfen Kraul
 
+Le guide complet : [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/).
 
 | Quête | Où elle commence |
 |---|---|
@@ -256,6 +267,7 @@ Le guide complet : [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/).
 
 ## Razorfen Downs
 
+Le guide complet : [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/).
 
 | Quête | Où elle commence |
 |---|---|
@@ -491,16 +503,16 @@ Au moins un joueur doit avoir le Seal of Ascension pour entrer.
 
 ## Nouveaux donjons sans quêtes connues
 
-Six nouveaux donjons de Forever ne sont pas encore sur la bêta, donc leurs quêtes ne sont pas connues. L’Excavation Site a ouvert sur la bêta le 1er octobre ; ses quêtes ne sont pas encore dans ce guide. Les niveaux sont ceux de Blizzard.
+Les quêtes de six nouveaux donjons de Forever ne sont pas encore connues. L’Excavation Site a ouvert sur la bêta le 1er octobre ; ses quêtes sont dans [son propre guide](/fr/guides/dungeons/excavation-site-wetlands/). Les niveaux sont ceux de Blizzard.
 
 | Donjon | Niveaux |
 |---|---|
-| Excavation Site: Wetlands | 26 à 31 |
-| City of Dalaran | 28 à 33 |
-| The Drowned City | 35 à 40 |
-| Krol'dok Stronghold | 40 à 45 |
-| Alcaz Prison | 48 à 53 |
-| Blackmaw Hold | 55 à 60 |
-| Shaper's Terrace | 58 à 60 |
+| [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | 26-31 |
+| [City of Dalaran](/fr/guides/dungeons/city-of-dalaran/) | 28-33 |
+| The Drowned City | 35-40 |
+| Krol'dok Stronghold | 40-45 |
+| Alcaz Prison | 48-53 |
+| Blackmaw Hold | 55-60 |
+| Shaper's Terrace | 58-60 |
 
-L’entrée de la City of Dalaran est déjà dans la bêta : par les Dalaran Sewers pour l’Alliance, depuis l’extérieur de la ville avec une clé pour la Horde ([plus](/fr/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). Si le donjon lui-même est déjà accessible, on ne le sait pas.
+La City of Dalaran a [son propre guide](/fr/guides/dungeons/city-of-dalaran/), avec les deux entrées et les sept boss. Ses quêtes et son butin ne sont pas encore connus.

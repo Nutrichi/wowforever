@@ -17,6 +17,14 @@ sources:
     url: "https://www.icy-veins.com/wow-forever/news/wow-forever-is-turning-scarlet-monastery-junk-loot-into-real-gear/"
   - name: "Wowhead, the dungeon quests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
+  - name: "Wowhead, the Graveyard"
+    url: "https://www.wowhead.com/forever/guide/scarlet-monastery-graveyard-dungeon-overview-location-rewards"
+  - name: "Wowhead, the Library"
+    url: "https://www.wowhead.com/forever/guide/scarlet-monastery-library-dungeon-overview-location-rewards"
+  - name: "Wowhead, the Armory"
+    url: "https://www.wowhead.com/forever/guide/scarlet-monastery-armory-dungeon-overview-location-rewards"
+  - name: "Wowhead, the Cathedral"
+    url: "https://www.wowhead.com/forever/guide/scarlet-monastery-cathedral-dungeon-overview-location-rewards"
 ---
 Scarlet Monastery is the stronghold of the Scarlet Crusade in Tirisfal Glades, a dungeon of four wings: the Graveyard, the Library, the Armory and the Cathedral. In WoW Forever several of its drops are reworked, and the Chain of the Scarlet Crusade set gets new bonuses. This guide holds what is known so far.
 
@@ -26,7 +34,7 @@ Scarlet Monastery is the stronghold of the Scarlet Crusade in Tirisfal Glades, a
 
 | | |
 |---|---|
-| Levels | Bosses of 32 to 42; the dungeon as a whole is hard at 26, at level at 37 and easy at 45 |
+| Levels | 26-45, bosses of level 32 to 42 |
 | Entrance | The Scarlet Monastery in the northeast of Tirisfal Glades |
 | Wings | 4: Graveyard, Library, Armory, Cathedral |
 | Bosses | 10, of which 3 are rares in the Graveyard |
@@ -39,7 +47,23 @@ The beta of WoW Forever goes up to level 30 since 1 October. Testers clear the G
 
 | Wing | Bosses | Boss levels |
 |---|---|---|
-| Graveyard | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3983">Interrogator Vishas</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4543">Bloodmage Thalnos</a>, and the rares <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6490">Azshir the Sleepless</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6488">Fallen Champion</a> and <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6489">Ironspine</a> | 32 to 34 |
+The other two rares have their loot from Wowhead, with the stats from the files of the beta.
+
+**<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6488">Fallen Champion</a>**
+
+| Item | New in Forever |
+|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7691"><img class="wf-wh__icon" src="/wh/inv_helmet_28.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Embalmed Shroud</a> | Up to 24 healing instead of Intellect |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7690"><img class="wf-wh__icon" src="/wh/inv_gauntlets_32.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ebon Vise</a> | Unchanged |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7689"><img class="wf-wh__icon" src="/wh/inv_sword_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Morbid Dawn</a> | Unchanged |
+
+**<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6489">Ironspine</a>**
+
+| Item | New in Forever |
+|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7688"><img class="wf-wh__icon" src="/wh/inv_chest_plate15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ironspine's Ribcage</a> | Unchanged |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7686"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ironspine's Eye</a> | Unchanged, now unique-equipped |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7687"><img class="wf-wh__icon" src="/wh/inv_hammer_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ironspine's Fist</a> | Unchanged |
 | Library | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3974">Houndmaster Loksey</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6487">Arcanist Doan</a> | 34 and 37 |
 | Armory | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3975">Herod</a> | 40 |
 | Cathedral | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4542">High Inquisitor Fairbanks</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3976">Scarlet Commander Mograine</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3977">High Inquisitor Whitemane</a> | 40 and 42 |
@@ -48,18 +72,18 @@ The levels come from the NPC data of the beta. The Graveyard and the Library are
 
 ## The quests
 
-| Quest | Wing | Where it starts |
-|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=1048">Into The Scarlet Monastery</a><br>Horde, level 33 | All wings | Undercity, Royal Quarter: Varimathras /way 56 92 |
-| <a href="https://www.wowhead.com/forever/quest=1053">In the Name of the Light</a><br>Alliance, level 34 | All wings | Hillsbrad Foothills, Southshore: Raleigh the Devout /way 51 58<br><em>Complete 3 quests first, starting with Brother Anton.</em> |
-| <a href="https://www.wowhead.com/forever/quest=1051">Vorrel's Revenge</a><br>Horde, level 25 | Graveyard | Scarlet Monastery, Graveyard: Vorrel Sengutz |
-| <a href="https://www.wowhead.com/forever/quest=1113">Hearts of Zeal</a><br>Horde, level 30 | Graveyard | Undercity, The Apothecarium: Master Apothecary Faranell /way 48 69<br><em>Complete Going, Going, Guano! from Razorfen Kraul first.</em> |
-| <a href="https://www.wowhead.com/forever/quest=1049">Compendium of the Fallen</a><br>Horde, level 28 | Library | Thunder Bluff, First Rise: Sage Truthseeker /way 36 26<br><em>Undead cannot pick up this quest.</em> |
-| <a href="https://www.wowhead.com/forever/quest=1160">Test of Lore</a><br>Horde, level 25 | Library | Undercity, The Apothecarium: Parqual Fintallas /way 57 65<br><em>Complete 6 quests first, starting with Test of Faith.</em> |
-| <a href="https://www.wowhead.com/forever/quest=1050">Mythology of the Titans</a><br>Alliance, level 28 | Library | Ironforge, Hall of Explorers: Librarian Mae Paledust /way 75 12 |
-| <a href="https://www.wowhead.com/forever/quest=1951">Rituals of Power</a><br>Both, level 30 | Library | Thousand Needles, Shimmering Flats Raceway: Magus Tirth /way 78 75<br><em>Complete 3 quests first, starting with Journey to the Marsh. Mage only.</em> |
+| Quest | Wing | Where it starts | Reward |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=1048">Into The Scarlet Monastery</a><br>Horde, level 33 | All wings | Undercity, Royal Quarter: Varimathras /way 56 92 | Sword of Omen, Prophetic Cane or Dragon's Blood Necklace |
+| <a href="https://www.wowhead.com/forever/quest=1053">In the Name of the Light</a><br>Alliance, level 34 | All wings | Hillsbrad Foothills, Southshore: Raleigh the Devout /way 51 58<br><em>Complete 3 quests first, starting with Brother Anton.</em> | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6829"><img class="wf-wh__icon" src="/wh/inv_sword_27.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sword of Serenity</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6830"><img class="wf-wh__icon" src="/wh/inv_axe_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bonebiter</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6831"><img class="wf-wh__icon" src="/wh/inv_sword_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Menace</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=11262"><img class="wf-wh__icon" src="/wh/inv_misc_orb_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Lorica</a> |
+| <a href="https://www.wowhead.com/forever/quest=1051">Vorrel's Revenge</a><br>Horde, level 25 | Graveyard | Scarlet Monastery, Graveyard: Vorrel Sengutz | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7750"><img class="wf-wh__icon" src="/wh/inv_shoulder_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mantle of Woe</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=4643"><img class="wf-wh__icon" src="/wh/inv_misc_cape_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grimsteel Cape</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7751"><img class="wf-wh__icon" src="/wh/inv_boots_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vorrel's Boots</a> |
+| <a href="https://www.wowhead.com/forever/quest=1113">Hearts of Zeal</a><br>Horde, level 30 | Graveyard | Undercity, The Apothecarium: Master Apothecary Faranell /way 48 69<br><em>Complete Going, Going, Guano! from Razorfen Kraul first.</em> | Not known yet |
+| <a href="https://www.wowhead.com/forever/quest=1049">Compendium of the Fallen</a><br>Horde, level 28 | Library | Thunder Bluff, First Rise: Sage Truthseeker /way 36 26<br><em>Undead cannot pick up this quest.</em> | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7747"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vile Protector</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17508"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forcestone Buckler</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7749"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Omega Orb</a> |
+| <a href="https://www.wowhead.com/forever/quest=1160">Test of Lore</a><br>Horde, level 25 | Library | Undercity, The Apothecarium: Parqual Fintallas /way 57 65<br><em>Complete 6 quests first, starting with Test of Faith.</em> | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6804"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Windstorm Hammer</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6806"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dancing Flame</a> |
+| <a href="https://www.wowhead.com/forever/quest=1050">Mythology of the Titans</a><br>Alliance, level 28 | Library | Ironforge, Hall of Explorers: Librarian Mae Paledust /way 75 12 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7746"><img class="wf-wh__icon" src="/wh/inv_jewelry_talisman_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Explorers' League Commendation</a> |
+| <a href="https://www.wowhead.com/forever/quest=1951">Rituals of Power</a><br>Both, level 30 | Library | Thousand Needles, Shimmering Flats Raceway: Magus Tirth /way 78 75<br><em>Complete 3 quests first, starting with Journey to the Marsh. Mage only.</em> | Not known yet |
 
-The quests come from the data of Classic and can still change. Every dungeon quest of Forever is in the [dungeon guide](/guides/dungeons/).
+The quests come from the data of Classic and can still change. Every dungeon quest of Forever is in the [dungeon guide](/guides/dungeons/). The rewards come from Wowhead; Sword of Omen, Prophetic Cane and Dragon's Blood Necklace are not in its Forever data yet.
 
 ## Graveyard
 
@@ -91,13 +115,61 @@ The other two rares, <a class="wf-wh wf-plain" href="https://www.wowhead.com/for
 
 ![The tooltips of Loksey's Training Stick and Houndmaster Boomerang on the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-10-03-wow-forever-lokseys-training-stick-and-houndmaster-boomerang.jpg)
 
+Wowhead lists two older drops for Loksey as well:
+
+| Item | New in Forever |
+|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3456"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dog Whistle</a> | Now a trinket with 5 Shadow Resistance; the hound stays for 3 minutes instead of 10, without charges |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7756"><img class="wf-wh__icon" src="/wh/inv_gauntlets_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dog Training Gloves</a> | Blue, but without the Attack Power against Beasts |
+
 ### Arcanist Doan
 
-Doan is level 37, above the cap of the beta. Changes to his loot are not known yet.
+Doan is level 37, above the cap of the beta. His loot from Wowhead, with the stats from the files of the beta:
+
+| Item | New in Forever |
+|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7713"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Illusionary Rod</a> | Up to 44 spell damage and healing and 1% crit, less Intellect |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7714"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hypnotic Blade</a> | Up to 44 spell damage and healing instead of 9 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=7712"><img class="wf-wh__icon" src="/wh/inv_shoulder_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mantle of Doan</a> | Up to 6 spell damage and healing |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=7711"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Robe of Doan</a> | Up to 16 Fire damage, less Spirit |
 
 ## Armory and Cathedral
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3975">Herod</a> in the Armory and <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4542">High Inquisitor Fairbanks</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3976">Scarlet Commander Mograine</a> and <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3977">High Inquisitor Whitemane</a> in the Cathedral are level 40 to 42. Nobody on the beta can reach them at level, so their loot in Forever is not confirmed.
+Herod in the Armory and Fairbanks, Mograine and Whitemane in the Cathedral are level 40 to 42. Nobody on the beta reaches them at level yet; their loot comes from Wowhead, with the stats from the files of the beta.
+
+### Herod
+
+| Item | New in Forever |
+|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7717"><img class="wf-wh__icon" src="/wh/inv_weapon_halberd_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ravager</a> | Its whirlwind now also slows you by 80% while it lasts |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7719"><img class="wf-wh__icon" src="/wh/inv_helmet_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raging Berserker's Helm</a> | Unchanged |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10330"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Leggings</a> | Part of the Chain of the Scarlet Crusade, see below |
+
+Wowhead also lists Herod's Shoulder, which is not in its Forever data yet.
+
+### High Inquisitor Fairbanks
+
+| Item | New in Forever |
+|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19508"><img class="wf-wh__icon" src="/wh/inv_bracer_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Branded Leather Bracers</a> | Blue, 20 Attack Power and more Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19509"><img class="wf-wh__icon" src="/wh/inv_boots_chain_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dusty Mail Boots</a> | Blue, 90 extra armor and more Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19507"><img class="wf-wh__icon" src="/wh/inv_shoulder_27.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Inquisitor's Shawl</a> | Blue, more Intellect and up to 21 healing |
+
+### Scarlet Commander Mograine
+
+| Item | New in Forever |
+|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7726"><img class="wf-wh__icon" src="/wh/inv_shield_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aegis of the Scarlet Commander</a> | Deals 13 to 15 Holy damage every time you block, instead of Spirit |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7723"><img class="wf-wh__icon" src="/wh/inv_mace_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mograine's Might</a> | Strength and Intellect instead of Spirit, slower but harder hits |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7724"><img class="wf-wh__icon" src="/wh/inv_gauntlets_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gauntlets of Divinity</a> | Unchanged |
+
+### High Inquisitor Whitemane
+
+| Item | New in Forever |
+|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7721"><img class="wf-wh__icon" src="/wh/inv_hammer_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hand of Righteousness</a> | A healer's mace now: up to 94 healing |
+
+Wowhead also lists Whitemane's Chapeau and the Triune Amulet, which are not in its Forever data yet.
 
 ![The armory of the Scarlet Monastery, a round hall with statues and a red floor, a screenshot from World of Warcraft](../../../../../assets/posts/2026-10-03-wow-forever-scarlet-monastery-armory.jpg)
 
@@ -117,7 +189,6 @@ The six pieces: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/ite
 
 ## What is not known yet
 
-- **The loot of the Armory and the Cathedral** in Forever.
-- **Arcanist Doan, Fallen Champion and Ironspine**: whether their drops changed.
-- **The quest rewards**, which can differ from Classic.
+- **Whitemane's Chapeau, the Triune Amulet and Herod's Shoulder**: whether they still drop in Forever.
+- **The quest rewards** that Wowhead does not list yet.
 - **The Houndmaster Boomerang**: its item ID and how often it drops.
