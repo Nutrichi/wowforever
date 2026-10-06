@@ -123,12 +123,22 @@ export const ui = {
 
     'list.heading': 'ALL POSTS, NEWEST FIRST',
     'list.empty': 'No posts yet.',
-    'featured.label': 'FEATURED',
+    'featured.label': 'FEATURED NEWS',
 
     'filter.label': 'Filter posts by category',
     'filter.all': 'All',
 
     'list.loadMore': 'LOAD MORE',
+    'list.moreNews': 'MORE NEWS',
+    'list.age1': 'OLDER THAN 3 DAYS',
+    'list.age2': 'OLDER THAN A WEEK',
+    'list.age3': 'OLDER THAN 2 WEEKS',
+    'list.age4': 'OLDER THAN A MONTH',
+    'list.age5': 'OLDER THAN 6 MONTHS',
+    'list.age6': 'OLDER THAN A YEAR',
+    'featured.video': 'FEATURED VIDEO',
+    'featured.stream': 'FEATURED STREAM',
+    'featured.play': 'Play video',
     'list.submit': 'SUBMIT NEWS',
     'list.noResults': 'No posts match.',
 
@@ -257,12 +267,22 @@ export const ui = {
 
     'list.heading': 'ALLE POSTS, NIEUWSTE EERST',
     'list.empty': 'Nog geen posts.',
-    'featured.label': 'UITGELICHT',
+    'featured.label': 'UITGELICHT NIEUWS',
 
     'filter.label': 'Filter posts op categorie',
     'filter.all': 'Alles',
 
     'list.loadMore': 'MEER LADEN',
+    'list.moreNews': 'MEER NIEUWS',
+    'list.age1': 'OUDER DAN 3 DAGEN',
+    'list.age2': 'OUDER DAN EEN WEEK',
+    'list.age3': 'OUDER DAN 2 WEKEN',
+    'list.age4': 'OUDER DAN EEN MAAND',
+    'list.age5': 'OUDER DAN 6 MAANDEN',
+    'list.age6': 'OUDER DAN EEN JAAR',
+    'featured.video': 'UITGELICHTE VIDEO',
+    'featured.stream': 'UITGELICHTE STREAM',
+    'featured.play': 'Video afspelen',
     'list.submit': 'NIEUWS INSTUREN',
     'list.noResults': 'Geen posts gevonden.',
 
@@ -391,12 +411,22 @@ export const ui = {
 
     'list.heading': 'TOUS LES ARTICLES, DU PLUS RÉCENT',
     'list.empty': 'Pas encore d’articles.',
-    'featured.label': 'À LA UNE',
+    'featured.label': 'ACTUALITÉ À LA UNE',
 
     'filter.label': 'Filtrer les articles par catégorie',
     'filter.all': 'Tout',
 
     'list.loadMore': 'VOIR PLUS',
+    'list.moreNews': "PLUS D'ACTUALITÉS",
+    'list.age1': 'IL Y A PLUS DE 3 JOURS',
+    'list.age2': "IL Y A PLUS D'UNE SEMAINE",
+    'list.age3': 'IL Y A PLUS DE 2 SEMAINES',
+    'list.age4': "IL Y A PLUS D'UN MOIS",
+    'list.age5': 'IL Y A PLUS DE 6 MOIS',
+    'list.age6': "IL Y A PLUS D'UN AN",
+    'featured.video': 'VIDÉO À LA UNE',
+    'featured.stream': 'STREAM À LA UNE',
+    'featured.play': 'Lire la vidéo',
     'list.submit': 'PROPOSER UNE ACTU',
     'list.noResults': 'Aucun article ne correspond.',
 
@@ -525,12 +555,22 @@ export const ui = {
 
     'list.heading': 'TODAS LAS ENTRADAS, MÁS RECIENTES PRIMERO',
     'list.empty': 'Todavía no hay entradas.',
-    'featured.label': 'DESTACADO',
+    'featured.label': 'NOTICIA DESTACADA',
 
     'filter.label': 'Filtrar entradas por categoría',
     'filter.all': 'Todo',
 
     'list.loadMore': 'VER MÁS',
+    'list.moreNews': 'MÁS NOTICIAS',
+    'list.age1': 'HACE MÁS DE 3 DÍAS',
+    'list.age2': 'HACE MÁS DE UNA SEMANA',
+    'list.age3': 'HACE MÁS DE 2 SEMANAS',
+    'list.age4': 'HACE MÁS DE UN MES',
+    'list.age5': 'HACE MÁS DE 6 MESES',
+    'list.age6': 'HACE MÁS DE UN AÑO',
+    'featured.video': 'VÍDEO DESTACADO',
+    'featured.stream': 'DIRECTO DESTACADO',
+    'featured.play': 'Reproducir vídeo',
     'list.submit': 'ENVIAR NOTICIA',
     'list.noResults': 'No hay entradas que coincidan.',
 
@@ -659,12 +699,22 @@ export const ui = {
 
     'list.heading': 'TUTTI GLI ARTICOLI, DAL PIÙ RECENTE',
     'list.empty': 'Ancora nessun articolo.',
-    'featured.label': 'IN EVIDENZA',
+    'featured.label': 'NOTIZIA IN EVIDENZA',
 
     'filter.label': 'Filtra gli articoli per categoria',
     'filter.all': 'Tutto',
 
     'list.loadMore': 'MOSTRA ALTRO',
+    'list.moreNews': 'ALTRE NOTIZIE',
+    'list.age1': 'PIÙ DI 3 GIORNI FA',
+    'list.age2': 'PIÙ DI UNA SETTIMANA FA',
+    'list.age3': 'PIÙ DI 2 SETTIMANE FA',
+    'list.age4': 'PIÙ DI UN MESE FA',
+    'list.age5': 'PIÙ DI 6 MESI FA',
+    'list.age6': 'PIÙ DI UN ANNO FA',
+    'featured.video': 'VIDEO IN EVIDENZA',
+    'featured.stream': 'STREAM IN EVIDENZA',
+    'featured.play': 'Riproduci il video',
     'list.submit': 'PROPONI UNA NOTIZIA',
     'list.noResults': 'Nessun articolo corrisponde.',
 
@@ -793,12 +843,22 @@ export const ui = {
 
     'list.heading': 'ALLE BEITRÄGE, NEUESTE ZUERST',
     'list.empty': 'Noch keine Beiträge.',
-    'featured.label': 'HERVORGEHOBEN',
+    'featured.label': 'HERVORGEHOBENE NEWS',
 
     'filter.label': 'Beiträge nach Kategorie filtern',
     'filter.all': 'Alle',
 
     'list.loadMore': 'MEHR LADEN',
+    'list.moreNews': 'MEHR NEWS',
+    'list.age1': 'ÄLTER ALS 3 TAGE',
+    'list.age2': 'ÄLTER ALS EINE WOCHE',
+    'list.age3': 'ÄLTER ALS 2 WOCHEN',
+    'list.age4': 'ÄLTER ALS EIN MONAT',
+    'list.age5': 'ÄLTER ALS 6 MONATE',
+    'list.age6': 'ÄLTER ALS EIN JAHR',
+    'featured.video': 'HERVORGEHOBENES VIDEO',
+    'featured.stream': 'HERVORGEHOBENER STREAM',
+    'featured.play': 'Video abspielen',
     'list.submit': 'NEWS EINSENDEN',
     'list.noResults': 'Keine Beiträge gefunden.',
 

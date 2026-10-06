@@ -107,8 +107,17 @@
       are reading loads such a frame.
     </p>
     <p>
-      The Clips and Streams pages work the other way round: nothing is requested from
-      YouTube or Twitch there until you click a clip.
+      Clips carries one YouTube video of the site's own: the newest video from the
+      site's channel. Streams does the same with the channel's live stream, while it
+      is live. That frame loads by itself and starts playing without sound once it is
+      on your screen, so YouTube sees your IP address on those pages too. To know
+      whether the site's own
+      stream is live, the Streams page asks a small function at Supabase, which asks
+      YouTube; nothing about you is sent along.
+    </p>
+    <p>
+      The other clips and streams on Clips and Streams still load nothing from YouTube or
+      Twitch until you click one.
     </p>
 
     <h2>Item tooltips from Wowhead</h2>

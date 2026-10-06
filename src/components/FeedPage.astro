@@ -22,6 +22,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import HomeGrid from './HomeGrid.astro';
 import FeedFeatured from './FeedFeatured.astro';
 import FeedList from './FeedList.astro';
+import YoutubeFeature from './YoutubeFeature.astro';
 import StreamLanguageFilter from './StreamLanguageFilter.astro';
 import type { Locale } from '../i18n/ui';
 import { localizePath, useTranslations } from '../i18n/utils';
@@ -90,6 +91,13 @@ const leadLabel = lead?.picked
         listLabel={t('feed.listLabel')}
         emptyText={t('feed.noResults')}
       >
+        <!--
+          Op Streams bovenaan: de eigen stream van Nutri, alleen als hij live
+          is. Op Clips onder MOST VIEWED: zijn nieuwste video (Nutri, 6 oktober
+          2026; tot dan stond die er boven).
+        -->
+        {streams && <YoutubeFeature slot="before" kind="stream" locale={locale} eager />}
+        {clips && <YoutubeFeature slot="after" kind="video" locale={locale} />}
         {clips && (
           <FeedFeatured slot="featured" clip={clips.lead.item} picked={clips.lead.picked}
             sponsored={clips.lead.sponsored} now={now} locale={locale} />

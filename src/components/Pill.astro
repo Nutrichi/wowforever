@@ -23,9 +23,11 @@ import LikeButton from './LikeButton.astro';
 interface Props {
   post: Post;
   locale: Locale;
+  /** De leeftijdsgroep uit PostList, voor de scheidingen en het bijladen. */
+  age?: number;
 }
 
-const { post, locale } = Astro.props;
+const { post, locale, age } = Astro.props;
 const category = categories[post.category];
 
 /*
@@ -41,6 +43,7 @@ const postId = `${post.collection}/${post.slug}`;
   data-wf-post
   data-category={post.category}
   data-title={post.title.toLowerCase()}
+  data-age={age}
 >
   <span class="wf-pill__cat" aria-hidden="true">
     <span class="wf-pill__diamond" style={`--wf-diamond: ${category.color};`}></span>

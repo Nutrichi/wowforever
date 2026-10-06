@@ -16,6 +16,10 @@
  * Rechts in de lijstkop is er plek voor een bediening (slot `listtools`).
  * Streams zet er zijn taalkiezer. Tot 13 september 2026 stond daar de regel
  * van de ophaling, zoals `min. 50 viewers`.
+ *
+ * Boven de linkerkop is er plek voor een blok dat vóór alles komt (slot
+ * `before`): FEATURED VIDEO op Clips en FEATURED STREAM op Streams
+ * (6 oktober 2026).
  */
 import type { Locale } from '../i18n/ui';
 import { useTranslations } from '../i18n/utils';
@@ -54,8 +58,10 @@ const emptyText = Astro.props.emptyText ?? t('list.empty');
 
 <div class="wf-home">
   <section class="wf-home__col" aria-label={featuredLabel}>
+    <slot name="before" />
     <h2 class:list={['wf-home__label', { 'wf-sr': featuredLabelHidden }]}>{featuredLabel}</h2>
     {hasFeatured ? <slot name="featured" /> : <p class="wf-home__empty">{emptyText}</p>}
+    <slot name="after" />
   </section>
 
   <section class="wf-home__col" aria-label={listLabel}>

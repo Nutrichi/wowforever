@@ -12,6 +12,11 @@
  *   language: in de URL (?language=) en bewaard in de browser; alleen Streams
  *   query:    alleen in het geheugen, zoals de handoff voorschrijft
  *   visible:  hoeveel pillen er getoond zijn; groeit per LOAD MORE
+ *
+ * Op de homepage staan er scheidingen op leeftijd tussen de pillen (Nutri,
+ * 6 oktober 2026). Een scheiding is zichtbaar zolang er een zichtbare pil van
+ * haar leeftijd is. Vanzelf bijladen stopt bij de eerste pil die ouder is dan
+ * een maand (`data-auto-until` op de lijst); daarna wacht de lijst op de knop.
  */
 const list = document.querySelector<HTMLElement>('[data-wf-list]');
 const items = list?.querySelector<HTMLElement>('[data-wf-items]');
@@ -28,6 +33,9 @@ if (list && items) {
     document.querySelectorAll<HTMLInputElement>('input[name="q"]'),
   );
   const sentinel = list.querySelector<HTMLElement>('[data-wf-sentinel]');
+  const dividers = Array.from(items.querySelectorAll<HTMLElement>('[data-wf-age-divider]'));
+  // Ontbreekt het (Clips en Streams), dan laadt de lijst altijd vanzelf bij.
+  const autoUntil = Number(list.dataset.autoUntil);
   const languageSelect = document.querySelector<HTMLSelectElement>('[data-wf-language]');
   const leadsBox = document.querySelector<HTMLElement>('[data-wf-leads]');
 
@@ -102,6 +110,11 @@ if (list && items) {
       if (show && markNew && pill.hidden) pill.classList.add('is-new');
       else if (!show) pill.classList.remove('is-new');
       pill.hidden = !show;
+    });
+
+    const ages = new Set(shown.slice(0, cutoff).map((pill) => pill.dataset.age));
+    dividers.forEach((divider) => {
+      divider.hidden = !ages.has(divider.dataset.wfAgeDivider);
     });
 
     const done = cutoff >= shown.length;
@@ -214,6 +227,13 @@ if (list && items) {
    * na filteren of zoeken: dan staat de lijst weer op de eerste reeks en
    * kan het baken meteen weer binnen bereik liggen.
    */
+  /** Tot waar de lijst vanzelf mag bijladen: de eerste pil die ouder is dan een maand. */
+  const autoLimit = () => {
+    if (!Number.isFinite(autoUntil)) return Infinity;
+    const index = matching().findIndex((pill) => Number(pill.dataset.age ?? 0) >= autoUntil);
+    return index === -1 ? Infinity : index;
+  };
+
   const maybeLoad = () => {
     if (!sentinel) return;
     // Hoogstens een paar reeksen per keer, zodat een fout hier nooit een
@@ -221,7 +241,10 @@ if (list && items) {
     for (let i = 0; i < 5; i += 1) {
       if (sentinel.hidden) return;
       if (sentinel.getBoundingClientRect().top > window.innerHeight + 600) return;
-      visible += step;
+      const limit = autoLimit();
+      // Ouder dan een maand: dat is voor wie op MORE NEWS drukt.
+      if (visible >= limit) return;
+      visible = Math.min(visible + step, limit);
       render(true);
     }
   };

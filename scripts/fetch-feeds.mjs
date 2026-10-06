@@ -10,7 +10,8 @@
  * zodat YouTube niet bij elke build opnieuw gevraagd wordt.
  *
  * Gebruik:
- *   npm run feeds                Twitch altijd, YouTube zodra de clips ouder zijn dan 55 minuten
+ *   npm run feeds                Twitch altijd, YouTube zodra de clips ouder zijn dan 55 minuten;
+ *                                Nutri's nieuwste video en of hij live is, altijd
  *   npm run feeds -- --force     YouTube ook als de clips nog vers zijn
  *   npm run feeds -- --sample    verzonnen voorbeelddata, zonder sleutels
  *
@@ -331,6 +332,84 @@ async function fetchClips(picks) {
   });
 }
 
+/* --- Nutri op YouTube --------------------------------------------------- */
+
+/*
+ * De uitgelichte video op Clips, en of Nutri live is voor het
+ * blok FEATURED STREAM op Streams (Nutri, 6 oktober 2026).
+ *
+ * De nieuwste video is de nieuwste upload die geen opname van een stream is en
+ * geen Short: Nutri koos voor de gemonteerde video's. Een opname van een
+ * stream herken je aan `liveStreamingDetails`, een Short aan de lengte. Dat
+ * kost 2 eenheden en gebeurt bij elke run.
+ *
+ * Of Nutri zelf live is, vraagt de pagina bij elk bezoek aan de Edge Function
+ * `youtube-live` (supabase/functions/youtube-live in het privé-repo): de build
+ * loopt daarvoor te veel achter. Wat hier staat, is alleen de stand bij het
+ * bouwen, voor wie geen JavaScript heeft.
+ *
+ * Is Nutri niet live, dan is er geen blok (Nutri, 6 oktober 2026). Eerst
+ * kwam er dan een willekeurige andere WoW Forever-stream op YouTube, uit een
+ * zoekopdracht van 100 eenheden; dat is dezelfde avond weer weggehaald.
+ */
+const NUTRI = {
+  channelId: 'UCpmxHiFItoNHeJaMtPcMSTg',
+  uploads: 'UUpmxHiFItoNHeJaMtPcMSTg',
+  /** Een Short duurt hoogstens drie minuten. */
+  minSeconds: 181,
+};
+
+function toVideo(video) {
+  const thumbs = video.snippet.thumbnails ?? {};
+  return {
+    id: video.id,
+    title: video.snippet.title.trim(),
+    channel: video.snippet.channelTitle,
+    channelId: video.snippet.channelId,
+    publishedAt: video.snippet.publishedAt,
+    thumbnail: (thumbs.standard ?? thumbs.high ?? thumbs.medium ?? thumbs.maxres)?.url ?? null,
+    url: `https://www.youtube.com/watch?v=${video.id}`,
+  };
+}
+
+async function fetchYoutube() {
+  const key = process.env.YOUTUBE_API_KEY;
+  if (!key) {
+    warn('youtube: geen YOUTUBE_API_KEY, overgeslagen');
+    return;
+  }
+
+  const previous = readJson(path.join(OUT_DIR, 'youtube.json'), null);
+
+  const list = await getJson(`https://www.googleapis.com/youtube/v3/playlistItems?${new URLSearchParams({
+    part: 'contentDetails', playlistId: NUTRI.uploads, maxResults: '15', key,
+  })}`);
+  const ids = list.items.map((item) => item.contentDetails?.videoId).filter(Boolean);
+  const { items: uploads } = await getJson(`https://www.googleapis.com/youtube/v3/videos?${new URLSearchParams({
+    part: 'snippet,contentDetails,liveStreamingDetails', id: ids.join(','), key,
+  })}`);
+
+  const newestFirst = uploads.sort((a, b) => Date.parse(b.snippet.publishedAt) - Date.parse(a.snippet.publishedAt));
+  const latest = newestFirst.find((video) =>
+    video.snippet.liveBroadcastContent === 'none'
+    && !video.liveStreamingDetails
+    && seconds(video.contentDetails?.duration) >= NUTRI.minSeconds);
+  const live = newestFirst.find((video) => video.snippet.liveBroadcastContent === 'live');
+
+  const data = {
+    fetchedAt: new Date().toISOString(),
+    channelId: NUTRI.channelId,
+    latest: latest ? toVideo(latest) : (previous?.latest ?? null),
+    live: live ? toVideo(live) : null,
+  };
+
+  fs.mkdirSync(OUT_DIR, { recursive: true });
+  const file = path.join(OUT_DIR, 'youtube.json');
+  fs.writeFileSync(`${file}.tmp`, `${JSON.stringify(data, null, 2)}\n`);
+  fs.renameSync(`${file}.tmp`, file);
+  console.log(`  youtube: nieuwste video ${data.latest?.id ?? 'geen'}, ${live ? 'live' : 'niet live'}`);
+}
+
 /* --- Voorbeelddata ------------------------------------------------------ */
 
 /*
@@ -402,6 +481,7 @@ if (SAMPLE) {
   const jobs = [
     ['streams', () => fetchStreams(picks.streams ?? [])],
     ['clips', () => fetchClips(picks.clips ?? [])],
+    ['youtube', () => fetchYoutube()],
   ];
 
   for (const [name, run] of jobs) {

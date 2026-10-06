@@ -1,16 +1,18 @@
 ---
 /*
  * De rechterkolom van de homepage: het volledige archief als pillijst, met
- * LOAD MORE eronder (§5).
+ * MORE NEWS eronder (§5; tot 6 oktober 2026 LOAD MORE).
  *
  * Er is geen tweede pagina waar de rest staat. Elke post staat in de HTML,
  * dat is wat een crawler ziet en straks ook wat Pagefind indexeert (§15),
  * en wat nog niet aan de beurt is staat er verborgen bij.
  *
  * **Bijladen gebeurt vanzelf** (11 september 2026). Kom je onderaan de
- * lijst, dan verschijnt de volgende reeks. De knop blijft bestaan voor wie
- * geen JavaScript heeft of met het toetsenbord werkt, en als vangnet: valt
- * de waarnemer weg, dan is er nog altijd iets om op te duwen.
+ * lijst, dan verschijnt de volgende reeks. Sinds 6 oktober 2026 alleen tot
+ * de posts van een maand oud; voor wat ouder is, druk je op de knop. De
+ * knop blijft ook daarvoor bestaan voor wie geen JavaScript heeft of met het
+ * toetsenbord werkt, en als vangnet: valt de waarnemer weg, dan is er nog
+ * altijd iets om op te duwen.
  *
  * Filteren en zoeken gebeuren in dezelfde lijst en op dezelfde manier: niets
  * wordt opnieuw opgehaald, er verandert alleen wat zichtbaar is.
@@ -30,10 +32,36 @@ const { posts, locale } = Astro.props;
 const t = useTranslations(locale);
 
 /**
- * Hoeveel pillen er meteen staan, en hoeveel LOAD MORE erbij zet. Eén getal
+ * Hoeveel pillen er meteen staan, en hoeveel MORE NEWS erbij zet. Eén getal
  * voor allebei: dan is de knop voorspelbaar.
  */
 const STEP = 15;
+
+/*
+ * Scheidingen op leeftijd (Nutri, 6 oktober 2026): boven de eerste post die
+ * ouder is dan 3 dagen, een week, twee weken, een maand, zes maanden en een
+ * jaar staat een smalle lijn met die grens. Gerekend op het moment van de
+ * build; de site bouwt zichzelf een paar keer per dag opnieuw, dus een grens
+ * schuift hoogstens een paar uur te laat op.
+ *
+ * Tot een maand oud laadt de lijst vanzelf bij; daarna wacht hij op de knop
+ * MORE NEWS (src/scripts/pill-list.ts, met `data-auto-until`).
+ */
+const now = new Date();
+const ago = (days: number, months = 0) => {
+  const date = new Date(now);
+  date.setUTCMonth(date.getUTCMonth() - months);
+  date.setUTCDate(date.getUTCDate() - days);
+  return date.getTime();
+};
+const limits = [ago(3), ago(7), ago(14), ago(0, 1), ago(0, 6), ago(0, 12)];
+/** 0 is jonger dan 3 dagen, 6 is ouder dan een jaar. */
+const ageOf = (post: Post) => limits.filter((limit) => post.date.getTime() < limit).length;
+const ageLabels = [
+  '', t('list.age1'), t('list.age2'), t('list.age3'), t('list.age4'), t('list.age5'), t('list.age6'),
+];
+/** Vanaf deze leeftijd (ouder dan een maand) laadt de lijst niet meer vanzelf. */
+const AUTO_UNTIL = 4;
 
 /*
  * De knop naar het insturformulier verschijnt pas als die pagina bestaat
@@ -43,13 +71,26 @@ const STEP = 15;
 const submitHref = submitPath ? `${localizePath(submitPath, locale)}/` : '';
 ---
 
-<div class="wf-list" data-wf-list data-step={STEP}>
+<div class="wf-list" data-wf-list data-step={STEP} data-auto-until={AUTO_UNTIL}>
   {posts.length === 0 ? (
     <p class="wf-list__empty">{t('list.empty')}</p>
   ) : (
     <>
       <ul class="wf-list__items" data-wf-items>
-        {posts.map((post) => <Pill post={post} locale={locale} />)}
+        {posts.map((post, index) => {
+          const age = ageOf(post);
+          const first = index === 0 || ageOf(posts[index - 1]) !== age;
+          return (
+            <>
+              {first && age > 0 && (
+                <li class="wf-list__age" data-wf-age-divider={age}>
+                  <span>{ageLabels[age]}</span>
+                </li>
+              )}
+              <Pill post={post} locale={locale} age={age} />
+            </>
+          );
+        })}
       </ul>
 
       <p class="wf-list__empty" data-wf-noresults hidden>{t('list.noResults')}</p>
@@ -59,7 +100,7 @@ const submitHref = submitPath ? `${localizePath(submitPath, locale)}/` : '';
 
       <div class="wf-list__actions">
         <button type="button" class="wf-btn is-secondary" data-wf-more hidden>
-          {t('list.loadMore')}
+          {t('list.moreNews')}
         </button>
 
         {submitHref && (
@@ -86,6 +127,33 @@ const submitHref = submitPath ? `${localizePath(submitPath, locale)}/` : '';
     gap: 7px;
     min-width: 0;
   }
+
+  /*
+   * De scheiding: een haarlijn met de grens erin, klein en gedempt. Hij moet
+   * de lijst ordenen, niet onderbreken.
+   */
+  .wf-list__age {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 10px 0 3px;
+    font-family: var(--wf-display);
+    font-size: 11.5px;
+    letter-spacing: .18em;
+    color: var(--wf-muted);
+  }
+
+  .wf-list__age::before,
+  .wf-list__age::after {
+    content: '';
+    flex: 1 1 auto;
+    height: 1px;
+    background: var(--wf-border);
+  }
+
+  .wf-list__age::before { flex: 0 0 18px; }
+
+  .wf-list__age[hidden] { display: none; }
 
   .wf-list__empty {
     font-size: 13.5px;

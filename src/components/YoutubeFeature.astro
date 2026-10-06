@@ -1,0 +1,231 @@
+---
+/*
+ * Nutri op YouTube, groot (Nutri, 6 oktober 2026). Twee vormen:
+ *
+ *   kind="video"   FEATURED VIDEO: de nieuwste gemonteerde video van Nutri,
+ *                  in de linkerkolom op Clips, onder MOST VIEWED (sinds de
+ *                  avond van 6 oktober; eerst stond hij erboven). Stond eerst ook op de
+ *                  homepage; dezelfde avond weer weggehaald door Nutri.
+ *   kind="stream"  FEATURED STREAM: bovenaan Streams, alleen als Nutri live
+ *                  is (Nutri, 6 oktober 2026). Dat beslist de pagina pas in de
+ *                  browser (src/scripts/youtube-feature.ts), want de build
+ *                  loopt uren achter op een stream. Niet live: geen blok.
+ *
+ * **Speelt vanzelf, zonder geluid**, zodra het blok voor de helft in beeld is.
+ * Browsers laten alleen een stille video vanzelf starten, en geluid uit het
+ * niets is precies wat §7.1 bij de posts wilde vermijden. Wie op het beeld
+ * klikt voor het zover is, krijgt de video met geluid. Met
+ * `prefers-reduced-motion` start er niets vanzelf.
+ *
+ * Alleen op de site; de app krijgt dit niet (lib/api-feed.ts kent het niet).
+ */
+import type { Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+import {
+  channelUrl, latestVideo, liveAtBuild, liveEndpoint, type YoutubeVideo,
+} from '../lib/youtube';
+
+interface Props {
+  kind: 'video' | 'stream';
+  locale: Locale;
+  /** Bovenaan de pagina: het beeld meteen laden. */
+  eager?: boolean;
+}
+
+const { kind, locale, eager = false } = Astro.props;
+const t = useTranslations(locale);
+
+const isStream = kind === 'stream';
+const label = isStream ? t('featured.stream') : t('featured.video');
+
+/*
+ * Wat er bij het bouwen staat. Voor een stream is dat de stand van toen en
+ * alleen bedoeld voor wie geen JavaScript heeft; het script vervangt het.
+ */
+const initial: YoutubeVideo | null = isStream ? liveAtBuild : latestVideo;
+
+/*
+ * Een stream-blok bestaat als er iets te tonen kan zijn. Is er bij het bouwen
+ * niets, dan staat het verborgen klaar: wordt Nutri later live, dan toont het
+ * script het alsnog.
+ */
+const render = isStream ? !!liveEndpoint || !!initial : !!initial;
+---
+
+{render && (
+  <section
+    class:list={['wf-yt', { 'is-pending': isStream }]}
+    data-wf-yt={kind}
+    data-endpoint={isStream ? liveEndpoint : undefined}
+    data-channel-url={isStream ? channelUrl : undefined}
+    aria-label={label}
+    hidden={!initial}
+  >
+    <h2 class="wf-yt__label">{label}</h2>
+
+    <div class="wf-yt__box" data-wf-yt-box data-id={initial?.id}>
+      <a class="wf-yt__poster" href={initial?.url ?? channelUrl} data-wf-yt-poster aria-label={t('featured.play')}>
+        {initial?.thumbnail && (
+          <img
+            class="wf-yt__img"
+            src={initial.thumbnail}
+            alt=""
+            width="640"
+            height="360"
+            loading={eager ? 'eager' : 'lazy'}
+            decoding="async"
+            referrerpolicy="no-referrer"
+            data-wf-yt-img
+          />
+        )}
+        <span class="wf-yt__play"></span>
+        {isStream && <span class="wf-yt__live"><span class="wf-yt__dot"></span>{t('streams.live')}</span>}
+      </a>
+    </div>
+
+    <h3 class="wf-yt__title">
+      <a href={initial?.url ?? channelUrl} target="_blank" rel="noopener" data-wf-yt-title>{initial?.title}</a>
+    </h3>
+    <p class="wf-yt__meta" data-wf-yt-meta>{initial?.channel}</p>
+
+    {isStream && <noscript><style>.wf-yt.is-pending .wf-yt__box, .wf-yt.is-pending .wf-yt__title, .wf-yt.is-pending .wf-yt__meta { visibility: visible; }</style></noscript>}
+  </section>
+)}
+
+<style>
+  .wf-yt {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    min-width: 0;
+  }
+
+  .wf-yt[hidden] { display: none; }
+
+  /* Op Clips en Streams boven de kolomkop. */
+  .wf-yt + :global(.wf-home__label) { margin-top: 14px; }
+  /* Op Clips staat de video onder MOST VIEWED: dezelfde ademruimte erboven. */
+  .wf-yt[data-wf-yt='video'] { margin-top: 14px; }
+
+  .wf-yt__label {
+    font-family: var(--wf-display);
+    font-size: 14px;
+    letter-spacing: .18em;
+    color: var(--wf-muted);
+  }
+
+  /* Altijd 16 op 9, ook voor de speler er is: niets verspringt als hij komt. */
+  .wf-yt__box {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card);
+    overflow: hidden;
+    background: repeating-linear-gradient(135deg, var(--wf-slot-a) 0 14px, var(--wf-slot-b) 14px 28px);
+    transition: var(--wf-transition);
+  }
+
+  .wf-yt__box:hover {
+    border-color: var(--wf-arcane);
+    box-shadow: var(--wf-glow-pill);
+  }
+
+  .is-playing .wf-yt__box { background: #000; }
+
+  /* Tot het script weet wat er speelt: de plek houden, de inhoud niet tonen. */
+  .is-pending .wf-yt__box > *,
+  .is-pending .wf-yt__title,
+  .is-pending .wf-yt__meta { visibility: hidden; }
+
+  .wf-yt__box :global(iframe),
+  .wf-yt__poster {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
+  }
+
+  /* `:global`: op Streams zet het script een nieuw beeld in de plaats. */
+  .wf-yt__poster :global(img) {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* Wat over het beeld ligt, blijft licht op donker, zoals op FeedFeatured. */
+  .wf-yt__play {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 54px;
+    height: 54px;
+    margin: -27px 0 0 -27px;
+    display: grid;
+    place-items: center;
+    border: 2px solid #f2f0f6;
+    border-radius: 999px;
+    background: rgba(7, 6, 15, .35);
+  }
+
+  .wf-yt__play::after {
+    content: '';
+    margin-left: 5px;
+    border-left: 16px solid #f2f0f6;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+  }
+
+  .wf-yt__live {
+    position: absolute;
+    left: 14px;
+    top: 14px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding: 3px 10px;
+    border-radius: var(--wf-r-badge);
+    background: rgba(7, 6, 15, .9);
+    color: #f2f0f6;
+    font-family: var(--wf-display);
+    font-size: 12.5px;
+    letter-spacing: .14em;
+  }
+
+  .wf-yt__dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 999px;
+    background: var(--wf-accent);
+    box-shadow: 0 0 10px var(--wf-accent);
+  }
+
+  .wf-yt__title {
+    font-size: 22px;
+    line-height: 1.1;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    overflow-wrap: anywhere;
+  }
+
+  /* Twee regels plaats, ook leeg: de titel van een stream komt pas later. */
+  [data-wf-yt='stream'] .wf-yt__title { min-height: 2.2em; }
+
+  .wf-yt__meta {
+    font-size: 13px;
+    color: var(--wf-muted);
+  }
+
+  @media (max-width: 899px) {
+    .wf-yt { gap: 10px; }
+    .wf-yt__title { font-size: 18px; }
+  }
+</style>
+
+<script>
+  import '../scripts/youtube-feature';
+</script>

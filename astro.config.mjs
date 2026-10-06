@@ -44,6 +44,13 @@ export default defineConfig({
     '/it/guides/hall-of-thanes-quests': '/it/guides/dungeons/hall-of-thanes',
     '/de/guides/ruins-of-lordaeron': '/de/guides/dungeons/ruins-of-lordaeron',
     '/de/guides/hall-of-thanes-quests': '/de/guides/dungeons/hall-of-thanes',
+
+    /*
+     * Korte link naar de RestedXP-partnerlink (Nutri, 6 oktober 2026), voor
+     * de laatste slide van de YouTube-gidsen: wowforever.be/rxp is makkelijk
+     * over te typen van een scherm. Zelfde adres als in src/config/site.ts.
+     */
+    '/rxp': 'https://shop.restedxp.com/ref/nutri/',
   },
 
   // Zes talen (PROJECT_SPEC.md §8). Engels staat op /, de rest op /nl/ /fr/ /es/ /it/ /de/.
