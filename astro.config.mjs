@@ -46,11 +46,14 @@ export default defineConfig({
     '/de/guides/hall-of-thanes-quests': '/de/guides/dungeons/hall-of-thanes',
 
     /*
-     * Korte link naar de RestedXP-partnerlink (Nutri, 6 oktober 2026), voor
-     * de laatste slide van de YouTube-gidsen: wowforever.be/rxp is makkelijk
-     * over te typen van een scherm. Zelfde adres als in src/config/site.ts.
+     * De korte link wowforever.be/rxp staat hier niet meer, maar in
+     * public/rxp.html (Nutri, 6 oktober 2026: "I want to go INSTANT to my
+     * referral link. No delay."). Een redirect van Astro wordt rxp/index.html:
+     * GitHub stuurt /rxp dan eerst door naar /rxp/, en de pagina toont
+     * "Redirecting from ..." tot de meta-refresh afgaat. rxp.html serveert
+     * GitHub rechtstreeks op /rxp, en het script in de head springt door
+     * voordat er iets getekend wordt.
      */
-    '/rxp': 'https://shop.restedxp.com/ref/nutri/',
   },
 
   // Zes talen (PROJECT_SPEC.md §8). Engels staat op /, de rest op /nl/ /fr/ /es/ /it/ /de/.
