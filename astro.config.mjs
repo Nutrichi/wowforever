@@ -76,8 +76,14 @@ export default defineConfig({
   build: {
     // Nette mappen zodat /nl/ met een slash werkt op GitHub Pages.
     format: 'directory',
-    // De CSS in de pagina zelf: dat scheelt een rondreis voor de eerste weergave (§11).
-    inlineStylesheets: 'always',
+    /*
+     * De CSS als eigen bestand, dat de browser na de eerste pagina bewaart.
+     * Tot 7 oktober 2026 stond hier 'always' (§11: een rondreis minder), maar
+     * dan droeg elke pagina dezelfde 37 KB CSS: 292 MB van een build van 866 MB,
+     * dicht bij de grens van 1 GB van GitHub Pages. Nutri koos op 7 oktober om
+     * dat nu aan te pakken. Kleine stylesheets zet Astro nog wel in de pagina.
+     */
+    inlineStylesheets: 'auto',
   },
 
   /*

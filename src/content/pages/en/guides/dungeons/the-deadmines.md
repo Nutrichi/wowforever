@@ -1,9 +1,9 @@
 ---
 title: "The Deadmines: the dungeon guide for WoW Forever"
 metaTitle: "The Deadmines in WoW Forever: entrance, quests, bosses and the new loot"
-description: "The Deadmines in WoW Forever: the way in through Moonbrook, the route to the ship, all six Alliance quests, the eight bosses and what changed on their loot, the Defias Leather set and the new Partners in Crime ring."
+description: "The Deadmines in WoW Forever: the way in through Moonbrook, the route to the ship, all seven Alliance quests, the eight bosses and what changed on their loot, the Defias Leather set and the new Partners in Crime ring."
 short: "The Deadmines"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: en
 faq:
   - q: "What level is the Deadmines in WoW Forever?"
@@ -13,7 +13,7 @@ faq:
   - q: "Has the loot of the Deadmines changed in WoW Forever?"
     a: "Yes. Almost every boss drop is blue now, many with a new effect. Rockslicer mines ore without the tradeskill, Smelting Pants smelt faster, and the Defias Leather set has new bonuses."
   - q: "Can the Horde do the Deadmines quests?"
-    a: "No. All six quests of the Deadmines are Alliance quests. Horde players can still run the dungeon for its loot."
+    a: "No. All seven quests of the Deadmines are Alliance quests. Horde players can still run the dungeon for its loot."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"
@@ -67,6 +67,7 @@ The Alliance has Sentinel Hill close by. The Horde has no quests in the Deadmine
 | <a href="https://www.wowhead.com/forever/quest=214">Red Silk Bandanas</a> | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Complete 6 quests first, starting with The Defias Brotherhood from Gryan Stoutmantle.</em> | 14 | Not known yet |
 | <a href="https://www.wowhead.com/forever/quest=166">The Defias Brotherhood</a> | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>The end of a chain of six quests with the same name.</em> | 14 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6087"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chausses of Westfall</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2042"><img class="wf-wh__icon" src="/wh/inv_staff_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Westfall</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2041"><img class="wf-wh__icon" src="/wh/inv_chest_leather_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tunic of Westfall</a> |
 | <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Inside the dungeon: An Unsent Letter, a drop from Edwin VanCleef | 16 | Not known yet |
+| <a href="https://www.wowhead.com/forever/quest=92753">Destruction in Deadmines</a> | Westfall, Sentinel Hill: Alba Fairmoon /way 52.4 53.0<br><em>New in Forever. The end of a chain of seven quests that starts with Testing the Wells.</em> | 9 | 4,050 experience, 50 reputation with Stormwind |
 
 The level is the lowest level at which the quest can be picked up, according to Wowhead. The rewards come from Wowhead; where it lists none, they are not known yet.
 
@@ -137,6 +138,22 @@ Edwin VanCleef drops An Unsent Letter, which starts this quest from level 16. Br
 </div>
 
 Paladins of the Alliance also come here for <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, the end of the Tome of Valor chain that ends with <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: the Whitestone Oak Lumber drops from the Goblin Woodcarvers near the start. Horde Paladins get a counterpart that is new in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>, writes Wowhead. The chain starts in Bandarion Keep in Tirisfal Glades; Lumina Windsinger hands out the quest in the crypt in Silverpine Forest, /way 43 40. Both are in the [dungeon guide](/guides/dungeons/).
+
+
+### Destruction in Deadmines
+
+New in Forever. Alba Fairmoon at Sentinel Hill in Westfall, /way 52.4 53.0, looks for the source of a poison that ruins the land. The trail leads to the forge in the Deadmines. The chain can be picked up from level 9; its last quests are level 18.
+
+1. **<a href="https://www.wowhead.com/forever/quest=92742">Testing the Wells</a>.** Take a water sample with the Well Water Sample Kit at the wells of the Jansen Stead and the Molsen Farm, in the northeast of Westfall.
+2. **<a href="https://www.wowhead.com/forever/quest=92744">Murloc Gills</a>.** Bring 7 Longshore Murloc Gills from the murlocs along the coast.
+3. **<a href="https://www.wowhead.com/forever/quest=92745">The State of the Mines</a>.** Kill 4 Kobold Diggers and 6 Riverpaw Miners in Jangolode Mine or the Gold Coast Quarry.
+4. **<a href="https://www.wowhead.com/forever/quest=92747">Moonbrook Espionage</a>.** Collect 8 Suspicious Industrial Supplies from the crates around Moonbrook.
+5. **<a href="https://www.wowhead.com/forever/quest=92749">A Dynamite Plan</a>.** In Stormwind, hand in 10 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4358"><img class="wf-wh__icon" src="/wh/inv_misc_bomb_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rough Dynamite</a>, made with Engineering from Rough Stone and Linen Cloth, or bought at the auction house.
+6. **Explosive Consultation.** Back to Alba Fairmoon in Westfall.
+7. **<a href="https://www.wowhead.com/forever/quest=92753">Destruction in Deadmines</a>.** Plant the Extra-Destructive Explosives by the forge, in the room of Gilnid. Alba then waits at the exit of the Deadmines, in the hills behind Moonbrook, /way 38.4 83.4. Reward: 4,050 experience and 50 reputation with Stormwind.
+8. **<a href="https://www.wowhead.com/forever/quest=92819">Destruction in Deadmines</a>**, a second quest with the same name. Use the detonator at the exit. Reward: 680 experience, 5 silver and 50 reputation with Stormwind.
+
+No item reward is known for the chain.
 
 ## The bosses and their loot
 

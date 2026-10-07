@@ -12,6 +12,7 @@
  */
 
 import type { Locale } from './ui';
+import { translateName } from './bis-names';
 
 type Rule = { pattern: RegExp } & Partial<Record<Locale, string>>;
 
@@ -30,6 +31,89 @@ const whole: Array<[RegExp, Partial<Record<Locale, string>>]> = [
 const rules: Rule[] = [
   // Gebroken Engels in enchantnamen: "X \u2014 available once of Friendly reputation with the Y".
   { pattern: /available once of (\w+) reputation with the /gi, en: 'requires $1 with the ', nl: 'vraagt $1 bij de ', fr: 'nécessite $1 auprès de ', es: 'requiere $1 con ', it: 'richiede $1 con ', de: 'erfordert $1 bei ' },
+
+  /*
+   * De lange staart van Engelse zinsdelen (Nutri, 7 oktober 2026: "Ja,
+   * vertalen"). Gevonden door elke brontekst van de 757 lijsten door deze
+   * regels te halen en te kijken welke gewone Engelse woorden overbleven.
+   * Ze staan vooraan, want ze zijn specifieker dan de algemene regels verderop.
+   */
+  { pattern: /\bReward from the quest given by the Head of Onyxia that drops when you kill Onyxia in Onyxia's Lair\b/g, nl: "Beloning van de quest van de Head of Onyxia, een drop van Onyxia in Onyxia's Lair", fr: "Récompense de la quête du Head of Onyxia, butin d’Onyxia dans Onyxia's Lair", es: "Recompensa de la misión de la Head of Onyxia, que suelta Onyxia en Onyxia's Lair", it: "Ricompensa della missione della Head of Onyxia, lasciata da Onyxia in Onyxia's Lair", de: "Belohnung der Quest zum Head of Onyxia, einem Drop von Onyxia in Onyxia's Lair" },
+  { pattern: /\bquests from turning in Head of Onyxia looted from Onyxia's Lair\b/g, nl: "quests, door de Head of Onyxia uit Onyxia's Lair in te leveren", fr: "quêtes, en rendant le Head of Onyxia d’Onyxia's Lair", es: "misiones, al entregar la Head of Onyxia de Onyxia's Lair", it: "missioni, consegnando la Head of Onyxia di Onyxia's Lair", de: "Quests, durch Abgabe des Head of Onyxia aus Onyxia's Lair" },
+  { pattern: /\bReward from the quest you get from turning in the eye that drops from C'Thun in AQ40\b/g, nl: "Beloning van de quest voor het oog dat C'Thun laat vallen in AQ40", fr: "Récompense de la quête obtenue en rendant l’œil que lâche C'Thun dans AQ40", es: "Recompensa de la misión que se obtiene al entregar el ojo que suelta C'Thun en AQ40", it: "Ricompensa della missione che si ottiene consegnando l’occhio lasciato da C'Thun in AQ40", de: "Belohnung der Quest für das Auge, das C'Thun in AQ40 fallen lässt" },
+  { pattern: /\bReward from turning in the eye that drops from C'Thun in AQ40\b/g, nl: "Beloning voor het oog dat C'Thun laat vallen in AQ40", fr: "Récompense pour l’œil que lâche C'Thun dans AQ40", es: "Recompensa por el ojo que suelta C'Thun en AQ40", it: "Ricompensa per l’occhio lasciato da C'Thun in AQ40", de: "Belohnung für das Auge, das C'Thun in AQ40 fallen lässt" },
+  { pattern: /\bLegendary reward from utilizing the Splinter of Atiesh found in Naxxramas\b/g, nl: 'Legendarische beloning met de Splinters of Atiesh uit Naxxramas', fr: 'Récompense légendaire avec les Splinters of Atiesh de Naxxramas', es: 'Recompensa legendaria con los Splinters of Atiesh de Naxxramas', it: 'Ricompensa leggendaria con gli Splinter of Atiesh di Naxxramas', de: 'Legendäre Belohnung mit den Splinters of Atiesh aus Naxxramas' },
+  { pattern: /\bCreated through a quest chain, starting from getting the Eye of Sulfuras from Ragnaros in Molten Core\b/g, nl: 'Questreeks die begint met de Eye of Sulfuras van Ragnaros in Molten Core', fr: 'Suite de quêtes qui commence avec l’Eye of Sulfuras de Ragnaros dans Molten Core', es: 'Cadena de misiones que empieza con el Eye of Sulfuras de Ragnaros en Molten Core', it: 'Catena di missioni che inizia con l’Eye of Sulfuras di Ragnaros in Molten Core', de: 'Questreihe, die mit dem Eye of Sulfuras von Ragnaros in Molten Core beginnt' },
+  { pattern: /\bobtained via a multi-stage (.+?) (?:questline|quest chain)\b/g, nl: 'via een questreeks in $1 met meerdere stappen', fr: 'obtenu par une suite de quêtes en plusieurs étapes dans $1', es: 'se obtiene con una cadena de misiones de varias etapas en $1', it: 'si ottiene con una catena di missioni in più fasi in $1', de: 'über eine mehrstufige Questreihe in $1' },
+  { pattern: /\bLegendary questline \(not a raid drop\)/g, nl: 'Legendarische questreeks (geen raiddrop)', fr: 'Suite de quêtes légendaire (pas un butin de raid)', es: 'Cadena de misiones legendaria (no es botín de banda)', it: 'Catena di missioni leggendaria (non è un bottino di raid)', de: 'Legendäre Questreihe (kein Raiddrop)' },
+  { pattern: /\bolder-raid item, not obtainable in Celestial Dungeons\b/g, nl: 'item uit een oudere raid, niet te krijgen in de Celestial Dungeons', fr: 'objet d’un ancien raid, introuvable dans les Celestial Dungeons', es: 'objeto de una banda anterior, no disponible en las Celestial Dungeons', it: 'oggetto di un raid precedente, non ottenibile nei Celestial Dungeons', de: 'Gegenstand aus einem älteren Raid, nicht in den Celestial Dungeons erhältlich' },
+  { pattern: /\bWolfshead Helm has no meta socket and still wins the slot\b/g, nl: 'Wolfshead Helm heeft geen meta socket en is toch de beste keuze', fr: 'Wolfshead Helm n’a pas de châsse méta et reste le meilleur choix', es: 'Wolfshead Helm no tiene ranura meta y sigue siendo la mejor opción', it: 'Wolfshead Helm non ha un incavo meta e resta la scelta migliore', de: 'Wolfshead Helm hat keinen Meta-Sockel und bleibt die beste Wahl' },
+
+  { pattern: /\bwhich you get from the eye that C'Thun drops in AQ40\b/g, nl: "die je krijgt voor het oog dat C'Thun laat vallen in AQ40", fr: "obtenue en rendant l’œil que lâche C'Thun dans AQ40", es: "que se obtiene con el ojo que suelta C'Thun en AQ40", it: "che si ottiene con l’occhio lasciato da C'Thun in AQ40", de: "die man für das Auge erhält, das C'Thun in AQ40 fallen lässt" },
+  { pattern: /\bUpgrade at (.+?) with\b/g, nl: 'Op te waarderen bij $1 met', fr: 'Amélioration auprès de $1 avec', es: 'Mejora con $1 usando', it: 'Potenziamento da $1 con', de: 'Aufwertung bei $1 mit' },
+  { pattern: /\b(?:buy|bought) from (?:the )?Auction House\b/g, nl: 'te koop in het veilinghuis', fr: 'à acheter à l’hôtel des ventes', es: 'se compra en la casa de subastas', it: 'si compra all’asta', de: 'im Auktionshaus zu kaufen' },
+  { pattern: /\bplus the (.+?) version\b/g, nl: 'plus de versie met $1', fr: 'plus la version $1', es: 'más la versión $1', it: 'più la versione $1', de: 'plus die Version mit $1' },
+  { pattern: /\breward from\b/g, nl: 'beloning van', fr: 'récompense de', es: 'recompensa de', it: 'ricompensa di', de: 'Belohnung von' },
+  { pattern: /\bsold by\b/g, nl: 'verkocht door', fr: 'vendu par', es: 'vendido por', it: 'venduto da', de: 'verkauft von' },
+
+  { pattern: /^Via (?=[A-Z])/g, es: 'Mediante ', it: 'Tramite ', de: 'Über ' },
+  { pattern: /\(rare\)/g, nl: '(zeldzaam)', es: '(rara)', it: '(rara)', de: '(selten)' },
+  { pattern: /\bquests\b/g, fr: 'quêtes', es: 'misiones', it: 'missioni', de: 'Quests' },
+
+  // Kisten van een getimede run in Zul'Aman.
+  { pattern: /\bFrom the Zul'Aman timed run chests\b/g, nl: "Uit de kisten van een getimede run in Zul'Aman", fr: "Dans les coffres d’une course chronométrée de Zul'Aman", es: "De los cofres de una carrera cronometrada en Zul'Aman", it: "Dai forzieri di una corsa a tempo in Zul'Aman", de: "Aus den Kisten eines Zeitlaufs in Zul'Aman" },
+  { pattern: /\bFirst chest in a Zul'Aman timed run\b/g, nl: "Eerste kist van een getimede run in Zul'Aman", fr: "Premier coffre d’une course chronométrée de Zul'Aman", es: "Primer cofre de una carrera cronometrada en Zul'Aman", it: "Primo forziere di una corsa a tempo in Zul'Aman", de: "Erste Kiste eines Zeitlaufs in Zul'Aman" },
+  { pattern: /\bSecond chest in a Zul'Aman timed run\b/g, nl: "Tweede kist van een getimede run in Zul'Aman", fr: "Deuxième coffre d’une course chronométrée de Zul'Aman", es: "Segundo cofre de una carrera cronometrada en Zul'Aman", it: "Secondo forziere di una corsa a tempo in Zul'Aman", de: "Zweite Kiste eines Zeitlaufs in Zul'Aman" },
+  { pattern: /\bThird chest in a Zul'Aman timed run\b/g, nl: "Derde kist van een getimede run in Zul'Aman", fr: "Troisième coffre d’une course chronométrée de Zul'Aman", es: "Tercer cofre de una carrera cronometrada en Zul'Aman", it: "Terzo forziere di una corsa a tempo in Zul'Aman", de: "Dritte Kiste eines Zeitlaufs in Zul'Aman" },
+  { pattern: /\bThird timed run chest\b/g, nl: 'Derde kist van de getimede run', fr: 'Troisième coffre de la course chronométrée', es: 'Tercer cofre de la carrera cronometrada', it: 'Terzo forziere della corsa a tempo', de: 'Dritte Kiste des Zeitlaufs' },
+
+  // Inruilen en kopen.
+  { pattern: /\bTurn in reward (?:from|for)\b/g, nl: 'Inruilbeloning voor', fr: 'Récompense d’échange pour', es: 'Recompensa de canje por', it: 'Ricompensa di scambio per', de: 'Eintauschbelohnung für' },
+  { pattern: /\bToken purchaseable for\b/g, nl: 'Penning te koop voor', fr: 'Jeton à acheter pour', es: 'Ficha que se compra por', it: 'Token acquistabile per', de: 'Marke, käuflich für' },
+  { pattern: /\band it drops from\b/g, nl: 'en een drop van', fr: 'et butin de', es: 'y botín de', it: 'e bottino di', de: 'und Drop von' },
+  { pattern: /\bdropped by\b/g, nl: 'drop van', fr: 'butin de', es: 'botín de', it: 'bottino di', de: 'Drop von' },
+  { pattern: /,? or bought with\b/g, nl: ' of gekocht met', fr: ' ou acheté avec', es: ' o comprado con', it: ' o acquistato con', de: ' oder gekauft mit' },
+  { pattern: /\bcosting\b/g, nl: 'voor', fr: 'pour', es: 'por', it: 'per', de: 'für' },
+  { pattern: /\bRequires a personal rating of at least (\d+)/g, nl: 'Vraagt een persoonlijke rating van minstens $1', fr: 'Nécessite une cote personnelle d’au moins $1', es: 'Requiere un índice personal de al menos $1', it: 'Richiede un punteggio personale di almeno $1', de: 'Erfordert eine persönliche Wertung von mindestens $1' },
+  { pattern: /\brequires (\d+) rating\b/g, nl: 'vraagt een rating van $1', fr: 'nécessite une cote de $1', es: 'requiere un índice de $1', it: 'richiede un punteggio di $1', de: 'erfordert eine Wertung von $1' },
+  { pattern: /\bTrained from a Trainer\.?/g, nl: 'Te leren bij een trainer.', fr: 'Appris auprès d’un maître.', es: 'Se aprende con un instructor.', it: 'Si impara da un istruttore.', de: 'Beim Lehrer erlernt.' },
+  { pattern: /\bCrafted learned from trainer\.?/g, nl: 'Gemaakt, te leren bij een trainer.', fr: 'Fabriqué, appris auprès d’un maître.', es: 'Fabricado, se aprende con un instructor.', it: 'Creato, si impara da un istruttore.', de: 'Hergestellt, beim Lehrer erlernt.' },
+  { pattern: /\b(\d+) (Emblems? of \w+) vendor\b/g, nl: '$1 $2 bij de verkoper', fr: '$1 $2 chez le vendeur', es: '$1 $2 en el vendedor', it: '$1 $2 dal venditore', de: '$1 $2 beim Händler' },
+  { pattern: /\bEmblem vendor\b/g, nl: 'Verkoper van emblemen', fr: 'Vendeur d’emblèmes', es: 'Vendedor de emblemas', it: 'Venditore di emblemi', de: 'Emblemhändler' },
+  { pattern: /\bBadge vendor in\b/g, nl: 'Verkoper van badges in', fr: 'Vendeur de badges à', es: 'Vendedor de insignias en', it: 'Venditore di insegne a', de: 'Abzeichenhändler in' },
+  { pattern: /\bSpirit Shard vendor\b/g, nl: 'Verkoper van Spirit Shards', fr: 'Vendeur de Spirit Shards', es: 'Vendedor de Spirit Shards', it: 'Venditore di Spirit Shards', de: 'Händler für Spirit Shards' },
+
+  // Maken, vinden, bazen.
+  { pattern: /\bCrafted (?:with|through)\b/g, nl: 'Gemaakt met', fr: 'Fabriqué avec', es: 'Fabricado con', it: 'Creato con', de: 'Hergestellt mit' },
+  { pattern: /\bBind on equip items from the AH\b/g, nl: 'BoE-items uit het veilinghuis', fr: 'objets BoE de l’hôtel des ventes', es: 'objetos BoE de la casa de subastas', it: 'oggetti BoE dall’asta', de: 'BoE-Gegenstände aus dem Auktionshaus' },
+  { pattern: /\b[Rr]andom world drop, bind on equip\b/g, en: 'World drop (BoE)', nl: 'World drop (BoE)', fr: 'Butin du monde (BoE)', es: 'Botín del mundo (BoE)', it: 'Bottino del mondo (BoE)', de: 'Weltdrop (BoE)' },
+  { pattern: /\bWorld drop bind on equip item\b/g, en: 'World drop (BoE)', nl: 'World drop (BoE)', fr: 'Butin du monde (BoE)', es: 'Botín del mundo (BoE)', it: 'Bottino del mondo (BoE)', de: 'Weltdrop (BoE)' },
+  { pattern: /\bDrops off any of the first (\d+) bosses in\b/g, nl: 'Drop van elk van de eerste $1 bazen in', fr: 'Butin de n’importe lequel des $1 premiers boss de', es: 'Botín de cualquiera de los $1 primeros jefes de', it: 'Bottino di uno qualsiasi dei primi $1 boss di', de: 'Drop von jedem der ersten $1 Bosse in' },
+  { pattern: /\bfinal wing bosses\b/g, nl: 'bazen van de laatste vleugel', fr: 'boss de la dernière aile', es: 'jefes del ala final', it: 'boss dell’ultima ala', de: 'Bosse des letzten Flügels' },
+  { pattern: /\b(?:Multiple|Various|Several) [Bb]osses\b/g, nl: 'Verschillende bazen', fr: 'Plusieurs boss', es: 'Varios jefes', it: 'Vari boss', de: 'Mehrere Bosse' },
+  { pattern: /\bmany bosses\b/g, nl: 'veel bazen', fr: 'de nombreux boss', es: 'muchos jefes', it: 'molti boss', de: 'viele Bosse' },
+  { pattern: /\bshared boss drop\b/g, nl: 'gedeelde drop van de bazen', fr: 'butin partagé des boss', es: 'botín compartido de los jefes', it: 'bottino condiviso dei boss', de: 'geteilter Bossdrop' },
+  { pattern: /\bmini-bosses\b/g, nl: 'minibazen', fr: 'mini-boss', es: 'minijefes', it: 'mini-boss', de: 'Minibosse' },
+  { pattern: /\bfragments from all Ulduar bosses\b/g, nl: 'fragmenten van alle bazen van Ulduar', fr: 'fragments de tous les boss d’Ulduar', es: 'fragmentos de todos los jefes de Ulduar', it: 'frammenti da tutti i boss di Ulduar', de: 'Fragmente von allen Bossen in Ulduar' },
+  { pattern: /\bfrom all bosses\b/g, nl: 'van alle bazen', fr: 'de tous les boss', es: 'de todos los jefes', it: 'da tutti i boss', de: 'von allen Bossen' },
+  { pattern: /,? the [Ww]orld [Bb]oss in\b/g, nl: ', world boss in', fr: ', boss mondial en', es: ', jefe del mundo en', it: ', boss mondiale in', de: ', Weltboss in' },
+  { pattern: /\b[Ww]orld [Bb]osses\b/g, nl: 'world bosses', fr: 'boss mondiaux', es: 'jefes del mundo', it: 'boss mondiali', de: 'Weltbosse' },
+  { pattern: /\b[Ww]orld [Bb]oss\b/g, nl: 'world boss', fr: 'boss mondial', es: 'jefe del mundo', it: 'boss mondiale', de: 'Weltboss' },
+  { pattern: /\btrash inside\b/g, nl: 'trash in', fr: 'trash dans', es: 'trash en', it: 'trash in', de: 'Trash in' },
+  { pattern: /\b(\d+) or more\b/g, nl: '$1 of meer', fr: '$1 ou plus', es: '$1 o más', it: '$1 o più', de: '$1 oder mehr' },
+  { pattern: /\bduring the Brewfest Event\b|\bduring Brewfest\b/g, nl: 'tijdens Brewfest', fr: 'pendant la Brewfest', es: 'durante la Brewfest', it: 'durante la Brewfest', de: 'während des Brewfest' },
+  { pattern: / at (?=Darkmoon Faire)/g, nl: ' op de ', fr: ' à la ', es: ' en la ', it: ' alla ', de: ' auf dem ' },
+  { pattern: /\bHow to obtain\b/g, nl: 'Zo krijg je', fr: 'Comment obtenir', es: 'Cómo conseguir', it: 'Come ottenere', de: 'So bekommst du' },
+  { pattern: /\bfor pattern\b/g, nl: 'voor het patroon', fr: 'pour le patron', es: 'para el patrón', it: 'per lo schema', de: 'für das Muster' },
+  { pattern: /\bengineers only\b/g, nl: 'alleen voor Engineering', fr: 'Engineering uniquement', es: 'solo Engineering', it: 'solo Engineering', de: 'nur Engineering' },
+  { pattern: /\bstrong group buff\b/g, nl: 'sterke groepsbuff', fr: 'puissant buff de groupe', es: 'buff de grupo fuerte', it: 'buff di gruppo forte', de: 'starker Gruppenbuff' },
+  { pattern: /\bif not using offset\b/g, nl: 'zonder offset', fr: 'sans offset', es: 'sin offset', it: 'senza offset', de: 'ohne Offset' },
+  { pattern: /\bbest for active gameplay\b/g, nl: 'beste bij actief spel', fr: 'idéal en jeu actif', es: 'mejor para juego activo', it: 'ideale per il gioco attivo', de: 'am besten bei aktivem Spiel' },
+  { pattern: /\bbest for passive gameplay\b/g, nl: 'beste bij passief spel', fr: 'idéal en jeu passif', es: 'mejor para juego pasivo', it: 'ideale per il gioco passivo', de: 'am besten bei passivem Spiel' },
+  { pattern: /\bbest for AoE fights\b/g, nl: 'beste in AoE-gevechten', fr: 'idéal en combat de zone', es: 'mejor en combates de área', it: 'ideale negli scontri ad area', de: 'am besten in AoE-Kämpfen' },
+  { pattern: /\bbetter on AoE fights\b/g, nl: 'beter in AoE-gevechten', fr: 'meilleur en combat de zone', es: 'mejor en combates de área', it: 'migliore negli scontri ad area', de: 'besser in AoE-Kämpfen' },
+  { pattern: /\b(Exalted|Revered|Honored|Friendly) with (?:the )?(?=[A-Z])(?![\w' ]+ [Rr]eputation\b)/g, nl: '$1 bij ', fr: '$1 auprès de ', es: '$1 con ', it: '$1 con ', de: '$1 bei ' },
+
 
   { pattern: /\bBought from the PvP Vendor at Rank (\d+)/g, nl: 'Gekocht bij de PvP-verkoper vanaf rank $1', fr: 'Acheté au vendeur PvP à partir du rang $1', es: 'Comprado al vendedor PvP desde el rango $1', it: 'Acquistato dal venditore PvP dal grado $1', de: 'Beim PvP-Händler ab Rang $1 gekauft' },
   { pattern: /\bRank (\d+) PvP (Reward|Weapon|set armor)/g, nl: 'PvP-beloning vanaf rank $1', fr: 'Récompense PvP du rang $1', es: 'Recompensa PvP del rango $1', it: 'Ricompensa PvP del grado $1', de: 'PvP-Belohnung ab Rang $1' },
@@ -148,7 +232,11 @@ export function translateSource(text: string | undefined, locale: Locale): strin
   for (const [pattern, map] of whole) {
     if (pattern.test(trimmed)) return map[locale] ?? map.en ?? trimmed;
   }
-  let out = cleanDashes(trimmed);
+  /* Een notitie bij een gem of enchant ("used in nearly all sockets") volgt
+     dezelfde regels als wat tussen haakjes achter een naam staat, en interne
+     notities ("recipe availability in P2 to verify") verdwijnen ook hier
+     (Nutri, 7 oktober 2026: vertaal ook de kleine Engelse resten). */
+  let out = translateName(cleanDashes(trimmed), locale);
   for (const rule of rules) {
     const replacement = rule[locale] ?? (locale === 'en' ? undefined : undefined);
     if (locale === 'en') {

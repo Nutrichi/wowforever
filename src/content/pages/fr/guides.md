@@ -3,7 +3,7 @@ title: "Guides pour WoW Forever"
 metaTitle: "Guides WoW Forever : quêtes de donjon, chaînes de quêtes et plus"
 description: "Tous les guides pour WoW Forever au même endroit : le guide des donjons avec chaque quête de donjon, The Hall of Thanes et les Ruins of Lordaeron, la chaîne du Cozy Sleeping Bag, le camping, la BMAH, chaque mascotte, et les routes, guides de classe et guides de métier du site."
 short: "Guides"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: fr
 manual: true
 ---
@@ -19,7 +19,7 @@ Tous les donjons de WoW Forever par niveau, avec toutes leurs quêtes, sont dans
 | [The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/) | Niveaux 13-18 : le chemin, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin |
 | [Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/) | Niveaux 15-20 : le chemin pour les deux factions, les dix quêtes, les six boss et leur butin |
 | [Wailing Caverns](/fr/guides/dungeons/wailing-caverns/) | Niveaux 15-24 : les sept quêtes avec leurs récompenses, les Lords of the Fang, l’événement de Naralex et les nouveaux bonus d’Embrace of the Viper |
-| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | Niveaux 14-24 : l’entrée par Moonbrook, les six quêtes avec leurs récompenses et le nouveau butin de chaque boss |
+| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | Niveaux 14-24 : l’entrée par Moonbrook, les sept quêtes avec leurs récompenses et le nouveau butin de chaque boss |
 | [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | Niveaux 18-28 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss |
 | [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | Niveaux 21-30 : l’entrée sur la Zoram Strand, les quêtes des deux factions et le nouveau butin de chaque boss |
 | [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | Niveaux 26-31, nouveau dans Forever : les quêtes des deux factions, les hautes herbes et les trois boss avec leur butin |
@@ -47,6 +47,12 @@ Tous les donjons de WoW Forever par niveau, avec toutes leurs quêtes, sont dans
 | Guide | Ce qu'il couvre |
 |---|---|
 | [BMAH](/fr/guides/bmah/) | Le Black Market Auction House à Powderfuse Port, dans The Riverglades : les agents, les objets et le Dungeon Set 1 comparé à Classic |
+
+## Trajets aériens
+
+| Guide | Ce qu'il couvre |
+|---|---|
+| [Flight Paths](/fr/guides/flight-paths/) | Chaque point de vol de l'Alliance et de la Horde avec son maître de vol, /way et trajets, les cinq nouveaux points de vol, et chaque bateau et zeppelin |
 
 ## Mascottes
 

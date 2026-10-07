@@ -3,12 +3,12 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : chaque donjon, niveau et donneur de quête"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: fr
 manual: true
 faq:
   - q: "Quels donjons contient WoW Forever ?"
-    a: "Les donjons de Classic, de Ragefire Chasm à Upper Blackrock Spire, plus neuf nouveaux. The Hall of Thanes, les Ruins of Lordaeron et l’Excavation Site sont sur la bêta ; les six autres suivent à des niveaux plus élevés."
+    a: "Les donjons de Classic, de Ragefire Chasm à Upper Blackrock Spire, plus neuf nouveaux. The Hall of Thanes, les Ruins of Lordaeron, l’Excavation Site et la City of Dalaran sont sur la bêta ; les cinq autres suivent à des niveaux plus élevés."
   - q: "Quel est le premier donjon de WoW Forever ?"
     a: "Ragefire Chasm pour la Horde, avec des quêtes dès le niveau 9, et The Hall of Thanes pour l’Alliance, pour les niveaux 13 à 18. Les Ruins of Lordaeron, pour 15 à 20, sont le premier nouveau donjon en territoire de la Horde."
   - q: "Les quêtes de donjon rapportent-elles encore beaucoup d’expérience ?"
@@ -27,7 +27,7 @@ La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les 
 - **[The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/)**, niveaux 13-18 : le chemin, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin.
 - **[Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/)**, niveaux 15-20 : le chemin pour les deux factions, les dix quêtes, les six boss et leur butin.
 - **[Wailing Caverns](/fr/guides/dungeons/wailing-caverns/)**, niveaux 15-24 : les sept quêtes avec leurs récompenses, les Lords of the Fang, l’événement de Naralex et les nouveaux bonus d’Embrace of the Viper.
-- **[The Deadmines](/fr/guides/dungeons/the-deadmines/)**, niveaux 14-24 : l’entrée par Moonbrook, les six quêtes avec leurs récompenses et le nouveau butin de chaque boss.
+- **[The Deadmines](/fr/guides/dungeons/the-deadmines/)**, niveaux 14-24 : l’entrée par Moonbrook, les sept quêtes avec leurs récompenses et le nouveau butin de chaque boss.
 - **[Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/)**, niveaux 18-28 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss.
 - **[Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/)**, niveaux 21-30 : l’entrée sur la Zoram Strand, les quêtes des deux factions et le nouveau butin de chaque boss.
 - **[Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/)**, niveaux 26-31, nouveau dans Forever : les quêtes des deux factions, les hautes herbes et les trois boss avec leur butin.
@@ -48,7 +48,7 @@ Chaque fourchette va du niveau où un groupe peut affronter le donjon au niveau 
 | [The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
 | [Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
 | [Wailing Caverns](/fr/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
-| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | 14-24 | 7 |
+| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | 14-24 | 8 |
 | [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | 18-28 | 5 |
 | [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | 21-30 | 13 |
 | [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | 26-31 | pas encore connues |
@@ -128,6 +128,7 @@ Le guide complet : [The Deadmines](/fr/guides/dungeons/the-deadmines/).
 | [Oh Brother...](https://www.wowhead.com/forever/quest=167)<br>Alliance, niveau 15 | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 |
 | [Underground Assault](https://www.wowhead.com/forever/quest=2040)<br>Alliance, niveau 15 | Stormwind, Dwarven District: Shoni the Shilent /way 55 13 |
 | [The Unsent Letter](https://www.wowhead.com/forever/quest=373)<br>Alliance, niveau 16 | Dans le donjon: The Unsent Letter, laissé par Edwin VanCleef<br><em>Mène à The Stockade Riots.</em> |
+| [Destruction in Deadmines](https://www.wowhead.com/forever/quest=92753)<br>Alliance, niveau 9 | Westfall, Sentinel Hill: Alba Fairmoon /way 52 53<br><em>Nouveau dans Forever. Terminez d’abord 6 quêtes, en commençant par Testing the Wells.</em> |
 | [Red Silk Bandanas](https://www.wowhead.com/forever/quest=214)<br>Alliance, niveau 14 | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Terminez d’abord 6 quêtes, en commençant par The Defias Brotherhood de Gryan Stoutmantle à Sentinel Hill.</em> |
 | [The Defias Brotherhood](https://www.wowhead.com/forever/quest=166)<br>Alliance, niveau 14 | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>Mêmes prérequis que Red Silk Bandanas.</em> |
 | [The Test of Righteousness](https://www.wowhead.com/forever/quest=1654)<br>Alliance, niveau 20 | Ironforge, juste après les portes : Jordan Stilwell /way 52 36<br><em>La fin de la chaîne Tome of Valor, qui commence ailleurs selon la race. Paladin uniquement.</em> |
@@ -515,4 +516,4 @@ Les quêtes de six nouveaux donjons de Forever ne sont pas encore connues. L’E
 | Blackmaw Hold | 55-60 |
 | Shaper's Terrace | 58-60 |
 
-La City of Dalaran a [son propre guide](/fr/guides/dungeons/city-of-dalaran/), avec les deux entrées et les sept boss. Ses quêtes et son butin ne sont pas encore connus.
+La City of Dalaran a [son propre guide](/fr/guides/dungeons/city-of-dalaran/), avec les deux entrées et les sept boss. Son butin n’est pas encore connu. La chaîne de la Horde pour la Dalaran Sewer Key et la quête Heart of Disruption sont dans ce guide.

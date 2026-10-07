@@ -156,6 +156,9 @@ const rules: Rule[] = [
   { pattern: /\(Mana issues\)/g, nl: '(bij manatekort)', fr: '(en cas de manque de mana)', es: '(si falta maná)', it: '(se manca il mana)', de: '(bei Manaproblemen)' },
 
   // Items.
+  // Nutri, 7 oktober 2026: ook de laatste Engelse haakjes vertalen.
+  { pattern: /\(Tier (\d+)\)/g, nl: '(set van tier $1)', fr: '(set du tier $1)', es: '(conjunto del tier $1)', it: '(set del tier $1)', de: '(Set von Tier $1)' },
+  { pattern: /\((\d{3})\)/g, nl: '(itemlevel $1)', fr: '(niveau d’objet $1)', es: '(nivel de objeto $1)', it: '(livello oggetto $1)', de: '(Gegenstandsstufe $1)' },
   { pattern: /\(only with a one-hand weapon\)/g, nl: '(alleen met een eenhandig wapen)', fr: '(seulement avec une arme à une main)', es: '(solo con un arma de una mano)', it: '(solo con un’arma a una mano)', de: '(nur mit einer Einhandwaffe)' },
   { pattern: /\(one-hand, with off-hand\)/g, nl: '(eenhandig, met off-hand)', fr: '(une main, avec main gauche)', es: '(una mano, con mano izquierda)', it: '(una mano, con mano secondaria)', de: '(einhändig, mit Nebenhand)' },
   { pattern: /\(one-hand, with ([A-Z][\w' ]+)\)/g, nl: '(eenhandig, met $1)', fr: '(une main, avec $1)', es: '(una mano, con $1)', it: '(una mano, con $1)', de: '(einhändig, mit $1)' },

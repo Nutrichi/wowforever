@@ -3,12 +3,12 @@ title: "Dungeonguide: jede Dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: jeder Dungeon, jedes Level, jeder Questgeber"
 description: "Jeder Dungeon von WoW Forever mit seinen Levels und allen Quests: wo jede Quest beginnt, für welche Fraktion, was vorher nötig ist, und die Schlüssel, die manche Dungeons verlangen."
 short: "Dungeons"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: de
 manual: true
 faq:
   - q: "Welche Dungeons gibt es in WoW Forever?"
-    a: "Die Dungeons von Classic, von Ragefire Chasm bis Upper Blackrock Spire, plus neun neue. The Hall of Thanes, die Ruins of Lordaeron und die Excavation Site sind in der Beta; die anderen sechs folgen auf höheren Levels."
+    a: "Die Dungeons von Classic, von Ragefire Chasm bis Upper Blackrock Spire, plus neun neue. The Hall of Thanes, die Ruins of Lordaeron, die Excavation Site und die City of Dalaran sind in der Beta; die anderen fünf folgen auf höheren Levels."
   - q: "Was ist der erste Dungeon in WoW Forever?"
     a: "Ragefire Chasm für die Horde, mit Quests ab Level 9, und The Hall of Thanes für die Alliance, für Level 13 bis 18. Die Ruins of Lordaeron, für 15 bis 20, sind der erste neue Dungeon im Gebiet der Horde."
   - q: "Bringen Dungeonquests noch viel Erfahrung?"
@@ -27,7 +27,7 @@ Die Beta von WoW Forever geht seit dem 1. Oktober bis Level 30. Für die Dungeon
 - **[The Hall of Thanes](/de/guides/dungeons/hall-of-thanes/)**, Stufe 13-18: der Weg dorthin, alle fünf Quests mit der Reihe in Dun Morogh, die vier Bosse und ihre Beute.
 - **[Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/)**, Stufe 15-20: der Weg dorthin für beide Fraktionen, alle zehn Quests, die sechs Bosse und ihre Beute.
 - **[Wailing Caverns](/de/guides/dungeons/wailing-caverns/)**, Stufe 15-24: alle sieben Quests mit ihren Belohnungen, die Lords of the Fang, das Event von Naralex und die neuen Boni von Embrace of the Viper.
-- **[The Deadmines](/de/guides/dungeons/the-deadmines/)**, Stufe 14-24: der Weg hinein über Moonbrook, alle sechs Quests mit ihren Belohnungen und die neue Beute jedes Bosses.
+- **[The Deadmines](/de/guides/dungeons/the-deadmines/)**, Stufe 14-24: der Weg hinein über Moonbrook, alle sieben Quests mit ihren Belohnungen und die neue Beute jedes Bosses.
 - **[Shadowfang Keep](/de/guides/dungeons/shadowfang-keep/)**, Stufe 18-28: der Weg hinein oberhalb von Pyrewood Village, die drei Quests der Horde und die neue Beute jedes Bosses.
 - **[Blackfathom Deeps](/de/guides/dungeons/blackfathom-deeps/)**, Stufe 21-30: der Weg hinein am Zoram Strand, die Quests beider Fraktionen und die neue Beute jedes Bosses.
 - **[Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/)**, Stufe 26-31, neu in Forever: die Quests beider Fraktionen, das hohe Gras und die drei Bosse mit ihrer Beute.
@@ -48,7 +48,7 @@ Jeder Bereich reicht vom Level, ab dem eine Gruppe den Dungeon schafft, bis zum 
 | [The Hall of Thanes](/de/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
 | [Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
 | [Wailing Caverns](/de/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
-| [The Deadmines](/de/guides/dungeons/the-deadmines/) | 14-24 | 7 |
+| [The Deadmines](/de/guides/dungeons/the-deadmines/) | 14-24 | 8 |
 | [Shadowfang Keep](/de/guides/dungeons/shadowfang-keep/) | 18-28 | 5 |
 | [Blackfathom Deeps](/de/guides/dungeons/blackfathom-deeps/) | 21-30 | 13 |
 | [Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/) | 26-31 | noch nicht bekannt |
@@ -128,6 +128,7 @@ Der vollständige Guide: [The Deadmines](/de/guides/dungeons/the-deadmines/).
 | [Oh Brother...](https://www.wowhead.com/forever/quest=167)<br>Alliance, Level 15 | Stormwind, Dwarven District: Wilder Thistlenettle /way 65 21 |
 | [Underground Assault](https://www.wowhead.com/forever/quest=2040)<br>Alliance, Level 15 | Stormwind, Dwarven District: Shoni the Shilent /way 55 13 |
 | [The Unsent Letter](https://www.wowhead.com/forever/quest=373)<br>Alliance, Level 16 | Im Dungeon: The Unsent Letter, Beute von Edwin VanCleef<br><em>Führt zu The Stockade Riots.</em> |
+| [Destruction in Deadmines](https://www.wowhead.com/forever/quest=92753)<br>Alliance, Level 9 | Westfall, Sentinel Hill: Alba Fairmoon /way 52 53<br><em>Neu in Forever. Erledigt zuerst 6 Quests, beginnend mit Testing the Wells.</em> |
 | [Red Silk Bandanas](https://www.wowhead.com/forever/quest=214)<br>Alliance, Level 14 | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Erledigt zuerst 6 Quests, beginnend mit The Defias Brotherhood von Gryan Stoutmantle in Sentinel Hill.</em> |
 | [The Defias Brotherhood](https://www.wowhead.com/forever/quest=166)<br>Alliance, Level 14 | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>Gleiche Voraussetzungen wie Red Silk Bandanas.</em> |
 | [The Test of Righteousness](https://www.wowhead.com/forever/quest=1654)<br>Alliance, Level 20 | Ironforge, direkt hinter dem Tor: Jordan Stilwell /way 52 36<br><em>Das Ende der Questreihe Tome of Valor, die je nach Volk woanders beginnt. Nur Paladin.</em> |
@@ -515,4 +516,4 @@ Die Quests von sechs neuen Dungeons von Forever sind noch nicht bekannt. Die Exc
 | Blackmaw Hold | 55-60 |
 | Shaper's Terrace | 58-60 |
 
-Die City of Dalaran hat [einen eigenen Guide](/de/guides/dungeons/city-of-dalaran/), mit beiden Eingängen und den sieben Bossen. Ihre Quests und ihre Beute sind noch nicht bekannt.
+Die City of Dalaran hat [einen eigenen Guide](/de/guides/dungeons/city-of-dalaran/), mit beiden Eingängen und den sieben Bossen. Ihre Beute ist noch nicht bekannt. Die Reihe der Horde für den Dalaran Sewer Key und die Quest Heart of Disruption stehen in diesem Guide.

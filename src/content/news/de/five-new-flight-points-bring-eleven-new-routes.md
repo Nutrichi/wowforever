@@ -68,6 +68,8 @@ Eine Route ist hier ein direkter Flug zwischen zwei Flugpunkten. Ein Ort mit ein
 
 Jede Route aus Classic Era gibt es noch, mit demselben Start und Ziel. Forever fügt nur hinzu. Neben den Flugrouten kommen [drei neue Schiffsrouten](/de/news/wow-forever-three-new-ship-routes/), darunter ein Schiff von The Riverglades nach Steamwheedle Port in Tanaris. Mit dem Legacy-Perk Frequent Flier kostet ein Flug die Hälfte und ist 20 % schneller, siehe [die Übersicht zu Forever](/de/forever/).
 
+Jeder Flugpunkt mit Flugmeister, Koordinaten und Routen steht im [Guide zu den Flugrouten](/de/guides/flight-paths/).
+
 ## Was nicht sicher ist
 
 - **Powderfuse Port hat eine einzige Route**, nach Farholde Keep. Der Flugpunkt trägt in den Dateien keine Fraktion, aber seine einzige Route führt zu einer Festung der Alliance, und das Reittier ist ein Gryphon. Eine Route für die Horde gibt es in diesem Build nicht. Wowhead zeigt dort noch keinen Flugmeister.

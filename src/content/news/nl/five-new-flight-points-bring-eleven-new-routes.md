@@ -68,6 +68,8 @@ Een route is hier een rechtstreekse vlucht tussen twee vluchtpunten. Een stad me
 
 Elke route van Classic Era is er nog, met hetzelfde begin en einde. Forever voegt alleen toe. Naast de vluchtroutes komen er [drie nieuwe scheepsroutes](/nl/news/wow-forever-three-new-ship-routes/), waaronder een boot van The Riverglades naar Steamwheedle Port in Tanaris. Wie de Legacy-perk Frequent Flier heeft, betaalt de helft voor een vlucht en vliegt 20% sneller, zie [het overzicht van Forever](/nl/forever/).
 
+Elk vluchtpunt met zijn flight master, coördinaten en routes staat in de [gids over de vluchtroutes](/nl/guides/flight-paths/).
+
 ## Wat niet zeker is
 
 - **Powderfuse Port heeft één route**, naar Farholde Keep. Het vluchtpunt draagt in de bestanden geen factie, maar de enige route leidt naar een burcht van de Alliance en het rijdier is een gryphon. Een route voor de Horde bestaat in deze build niet. Wowhead toont er nog geen flight master.

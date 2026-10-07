@@ -3,7 +3,7 @@ title: "Guías para WoW Forever"
 metaTitle: "Guías de WoW Forever: misiones de mazmorra, cadenas de misiones y más"
 description: "Todas las guías para WoW Forever en un solo lugar: la guía de mazmorras con cada misión de mazmorra, The Hall of Thanes y Ruins of Lordaeron, la cadena del Cozy Sleeping Bag, el camping, la BMAH, cada mascota, y las rutas, guías de clase y guías de profesión de la web."
 short: "Guías"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: es
 manual: true
 ---
@@ -19,7 +19,7 @@ Todas las mazmorras de WoW Forever por nivel, con todas sus misiones, están en 
 | [The Hall of Thanes](/es/guides/dungeons/hall-of-thanes/) | Niveles 13-18: cómo llegar, las cinco misiones con la cadena de Dun Morogh, los cuatro jefes y su botín |
 | [Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/) | Niveles 15-20: cómo llegar con las dos facciones, las diez misiones, los seis jefes y su botín |
 | [Wailing Caverns](/es/guides/dungeons/wailing-caverns/) | Niveles 15-24: las siete misiones con sus recompensas, los Lords of the Fang, el evento de Naralex y las nuevas bonificaciones de Embrace of the Viper |
-| [The Deadmines](/es/guides/dungeons/the-deadmines/) | Niveles 14-24: la entrada por Moonbrook, las seis misiones con sus recompensas y el botín nuevo de cada jefe |
+| [The Deadmines](/es/guides/dungeons/the-deadmines/) | Niveles 14-24: la entrada por Moonbrook, las siete misiones con sus recompensas y el botín nuevo de cada jefe |
 | [Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/) | Niveles 18-28: la entrada sobre Pyrewood Village, las tres misiones de la Horde y el botín nuevo de cada jefe |
 | [Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/) | Niveles 21-30: la entrada en la Zoram Strand, las misiones de ambas facciones y el botín nuevo de cada jefe |
 | [Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/) | Niveles 26-31, nueva en Forever: las misiones de ambas facciones, la hierba alta y los tres jefes con su botín |
@@ -47,6 +47,12 @@ Todas las mazmorras de WoW Forever por nivel, con todas sus misiones, están en 
 | Guía | Qué cubre |
 |---|---|
 | [BMAH](/es/guides/bmah/) | La Black Market Auction House de Powderfuse Port, en The Riverglades: los agentes, los objetos y el Dungeon Set 1 comparado con Classic |
+
+## Rutas de vuelo
+
+| Guía | Qué cubre |
+|---|---|
+| [Flight Paths](/es/guides/flight-paths/) | Cada punto de vuelo de la Alliance y la Horde con su maestro de vuelo, /way y rutas, los cinco puntos de vuelo nuevos, y cada barco y zepelín |
 
 ## Mascotas
 

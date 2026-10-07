@@ -68,6 +68,8 @@ Una rotta qui è un volo diretto tra due punti di volo. Una città con un maestr
 
 Ogni rotta di Classic Era c'è ancora, con la stessa partenza e lo stesso arrivo. Forever aggiunge soltanto. Accanto alle rotte di volo arrivano [tre nuove rotte navali](/it/news/wow-forever-three-new-ship-routes/), tra cui una nave da The Riverglades a Steamwheedle Port, in Tanaris. Con il perk Legacy Frequent Flier un volo costa la metà ed è più veloce del 20%, come indica [la pagina di Forever](/it/forever/).
 
+Ogni punto di volo con il suo maestro di volo, le coordinate e le rotte è nella [guida alle rotte di volo](/it/guides/flight-paths/).
+
 ## Cosa non è certo
 
 - **Powderfuse Port ha una sola rotta**, verso Farholde Keep. Nei file il punto di volo non ha una fazione, ma la sua unica rotta porta a una fortezza della Alliance e la cavalcatura è un gryphon. In questa build non esiste una rotta per la Horde. Wowhead non mostra ancora un maestro di volo lì.

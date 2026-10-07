@@ -3,7 +3,7 @@ title: "Scarlet Monastery: the dungeon guide for WoW Forever"
 metaTitle: "Scarlet Monastery in WoW Forever: wings, quests, bosses, new loot and set bonus"
 description: "Scarlet Monastery in WoW Forever: the four wings and their bosses, every quest, the Scarlet Key, the reworked loot from Graveyard and Library, and the new bonuses of the Chain of the Scarlet Crusade."
 short: "Scarlet Monastery"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: en
 faq:
   - q: "What level is Scarlet Monastery in WoW Forever?"
@@ -111,7 +111,7 @@ The other two rares, <a class="wf-wh wf-plain" href="https://www.wowhead.com/for
 
 ### Houndmaster Loksey
 
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7710"><img class="wf-wh__icon" src="/wh/inv_staff_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Loksey's Training Stick</a> used to be good only against Beasts. The staff now gives 28 Attack Power and a chance on hit to deal 91 Physical damage; Canines and Hyenas hit by it are stunned for 3 seconds and sit down. Loksey also drops a new Houndmaster Boomerang, a thrown weapon with 4 Stamina, 4 Attack Power and another 9 against Beasts that returns to your hand. The boomerang is not yet in the files of build 1.60.1.70178.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7710"><img class="wf-wh__icon" src="/wh/inv_staff_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Loksey's Training Stick</a> used to be good only against Beasts. The staff now gives 28 Attack Power and a chance on hit to deal 91 Physical damage; Canines and Hyenas hit by it are stunned for 3 seconds and sit down. Loksey also drops a new <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274292"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Houndmaster Boomerang</a>, a thrown weapon with 4 Stamina, 4 Attack Power and another 9 against Beasts that returns to your hand. It has item level 36 and asks for level 31.
 
 ![The tooltips of Loksey's Training Stick and Houndmaster Boomerang on the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-10-03-wow-forever-lokseys-training-stick-and-houndmaster-boomerang.jpg)
 
@@ -175,7 +175,7 @@ Wowhead also lists Whitemane's Chapeau and the Triune Amulet, which are not in i
 
 ## Chain of the Scarlet Crusade
 
-The mail set of the Scarlet Crusade drops from monsters all over the dungeon. In the files of the beta it has two new bonuses, Enraging Light and Scarlet Guardian. No piece has dropped on the beta yet, as far as Icy Veins knows.
+The mail set of the Scarlet Crusade drops from monsters all over the dungeon, several pieces from trash. Since 6 October the pieces drop on the beta, and their tooltips confirm two new bonuses, Enraging Light and Scarlet Guardian. The belt, the gauntlets and the wristguards went from green to blue.
 
 | Pieces | Bonus |
 |---|---|
@@ -185,10 +185,23 @@ The mail set of the Scarlet Crusade drops from monsters all over the dungeon. In
 | 5 | +1% chance to hit |
 | 6 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1293670"><img class="wf-wh__icon" src="/wh/inv_tabard_scarletcrusade_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Guardian</a>: taking damage at or below 20% health gives a shield that absorbs damage for 10 seconds, once every 4 minutes |
 
-The six pieces: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10328"><img class="wf-wh__icon" src="/wh/inv_chest_chain_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Chestpiece</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10329"><img class="wf-wh__icon" src="/wh/inv_belt_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Belt</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10330"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Leggings</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10331"><img class="wf-wh__icon" src="/wh/inv_gauntlets_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Gauntlets</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10332"><img class="wf-wh__icon" src="/wh/inv_boots_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Boots</a> and <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10333"><img class="wf-wh__icon" src="/wh/inv_bracer_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Wristguards</a>. More in the [post about the new loot](/news/scarlet-monastery-loot-gets-new-effects/).
+Enraging Light has a cooldown of 15 seconds between procs, according to its tooltip. The shield of Scarlet Guardian absorbs 480 damage.
+
+All six pieces are mail. The leggings bind when picked up, the other five when equipped.
+
+| Item | Level | Stats |
+|---|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10329"><img class="wf-wh__icon" src="/wh/inv_belt_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Belt</a> | 32 | 136 Armor, 12 Strength, 10 Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10331"><img class="wf-wh__icon" src="/wh/inv_gauntlets_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Gauntlets</a> | 33 | 153 Armor, 12 Strength, 10 Agility |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10333"><img class="wf-wh__icon" src="/wh/inv_bracer_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Wristguards</a> | 31 | 104 Armor, 11 Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10330"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Leggings</a> | 39 | 236 Armor, 21 Strength, 10 Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10328"><img class="wf-wh__icon" src="/wh/inv_chest_chain_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Chestpiece</a> | 34 | 250 Armor, 8 Strength, 19 Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10332"><img class="wf-wh__icon" src="/wh/inv_boots_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Boots</a> | 30 | 161 Armor, 5 Agility, 12 Stamina |
+
+The comparison with Classic Era is in the [post about the set](/news/scarlet-set-pieces-go-blue-with-two-new-bonuses/).
 
 ## What is not known yet
 
 - **Whitemane's Chapeau, the Triune Amulet and Herod's Shoulder**: whether they still drop in Forever.
 - **The quest rewards** that Wowhead does not list yet.
-- **The Houndmaster Boomerang**: its item ID and how often it drops.
+- **The Houndmaster Boomerang**: how often it drops.

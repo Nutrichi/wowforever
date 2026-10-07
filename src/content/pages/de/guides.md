@@ -3,7 +3,7 @@ title: "Guides für WoW Forever"
 metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
 description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, Camping, das BMAH, jedes Haustier, und die Routen, Klassenguides und Berufsguides der Seite."
 short: "Guides"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: de
 manual: true
 ---
@@ -19,7 +19,7 @@ Alle Dungeons von WoW Forever nach Level, mit allen Quests, stehen in der [Dunge
 | [The Hall of Thanes](/de/guides/dungeons/hall-of-thanes/) | Stufe 13-18: der Weg dorthin, alle fünf Quests mit der Reihe in Dun Morogh, die vier Bosse und ihre Beute |
 | [Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/) | Stufe 15-20: der Weg dorthin für beide Fraktionen, alle zehn Quests, die sechs Bosse und ihre Beute |
 | [Wailing Caverns](/de/guides/dungeons/wailing-caverns/) | Stufe 15-24: alle sieben Quests mit ihren Belohnungen, die Lords of the Fang, das Event von Naralex und die neuen Boni von Embrace of the Viper |
-| [The Deadmines](/de/guides/dungeons/the-deadmines/) | Stufe 14-24: der Weg hinein über Moonbrook, alle sechs Quests mit ihren Belohnungen und die neue Beute jedes Bosses |
+| [The Deadmines](/de/guides/dungeons/the-deadmines/) | Stufe 14-24: der Weg hinein über Moonbrook, alle sieben Quests mit ihren Belohnungen und die neue Beute jedes Bosses |
 | [Shadowfang Keep](/de/guides/dungeons/shadowfang-keep/) | Stufe 18-28: der Weg hinein oberhalb von Pyrewood Village, die drei Quests der Horde und die neue Beute jedes Bosses |
 | [Blackfathom Deeps](/de/guides/dungeons/blackfathom-deeps/) | Stufe 21-30: der Weg hinein am Zoram Strand, die Quests beider Fraktionen und die neue Beute jedes Bosses |
 | [Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/) | Stufe 26-31, neu in Forever: die Quests beider Fraktionen, das hohe Gras und die drei Bosse mit ihrer Beute |
@@ -47,6 +47,12 @@ Alle Dungeons von WoW Forever nach Level, mit allen Quests, stehen in der [Dunge
 | Guide | Worum es geht |
 |---|---|
 | [BMAH](/de/guides/bmah/) | Das Black Market Auction House in Powderfuse Port in The Riverglades: die Agenten, die Gegenstände und Dungeon Set 1 im Vergleich mit Classic |
+
+## Flugrouten
+
+| Guide | Worum es geht |
+|---|---|
+| [Flight Paths](/de/guides/flight-paths/) | Jeder Flugpunkt für Alliance und Horde mit Flugmeister, /way und Routen, die fünf neuen Flugpunkte und jedes Schiff und jeder Zeppelin |
 
 ## Haustiere
 

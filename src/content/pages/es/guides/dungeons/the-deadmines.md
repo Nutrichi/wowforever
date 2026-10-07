@@ -1,9 +1,9 @@
 ---
 title: "The Deadmines: la guía de la mazmorra para WoW Forever"
 metaTitle: "The Deadmines en WoW Forever: entrada, misiones, jefes y el botín nuevo"
-description: "The Deadmines en WoW Forever: la entrada por Moonbrook, el camino hasta el barco, las seis misiones de la Alliance, los ocho jefes y lo que cambió en su botín, el set Defias Leather y el nuevo anillo Partners in Crime."
+description: "The Deadmines en WoW Forever: la entrada por Moonbrook, el camino hasta el barco, las siete misiones de la Alliance, los ocho jefes y lo que cambió en su botín, el set Defias Leather y el nuevo anillo Partners in Crime."
 short: "The Deadmines"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: es
 faq:
   - q: "¿Qué nivel tiene The Deadmines en WoW Forever?"
@@ -13,7 +13,7 @@ faq:
   - q: "¿Ha cambiado el botín de The Deadmines en WoW Forever?"
     a: "Sí. Casi todo lo que sueltan los jefes es azul ahora, muchas veces con un efecto nuevo. Rockslicer extrae mineral sin la profesión, Smelting Pants funde más rápido y el set Defias Leather tiene bonificaciones nuevas."
   - q: "¿Puede la Horde hacer las misiones de The Deadmines?"
-    a: "No. Las seis misiones de The Deadmines son de la Alliance. Los jugadores de la Horde pueden hacer la mazmorra por el botín."
+    a: "No. Las siete misiones de The Deadmines son de la Alliance. Los jugadores de la Horde pueden hacer la mazmorra por el botín."
 sources:
   - name: "Warcraft Tavern, la guía de la mazmorra"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"
@@ -68,6 +68,7 @@ La Alliance tiene Sentinel Hill cerca. La Horde no tiene misiones en The Deadmin
 | <a href="https://www.wowhead.com/forever/quest=214">Red Silk Bandanas</a> | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Completa antes 6 misiones, empezando por The Defias Brotherhood de Gryan Stoutmantle.</em> | 14 | Aún no se sabe |
 | <a href="https://www.wowhead.com/forever/quest=166">The Defias Brotherhood</a> | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>El final de una cadena de seis misiones con el mismo nombre.</em> | 14 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6087"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chausses of Westfall</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2042"><img class="wf-wh__icon" src="/wh/inv_staff_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Westfall</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2041"><img class="wf-wh__icon" src="/wh/inv_chest_leather_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tunic of Westfall</a> |
 | <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Dentro de la mazmorra: An Unsent Letter, que suelta Edwin VanCleef | 16 | Aún no se sabe |
+| <a href="https://www.wowhead.com/forever/quest=92753">Destruction in Deadmines</a> | Westfall, Sentinel Hill: Alba Fairmoon /way 52.4 53.0<br><em>Nueva en Forever. El final de una cadena de siete misiones que empieza con Testing the Wells.</em> | 9 | 4.050 de experiencia, 50 de reputación con Stormwind |
 
 El nivel es el mínimo para aceptar la misión, según Wowhead. Las recompensas vienen de Wowhead; cuando no indica ninguna, aún no se conocen.
 
@@ -138,6 +139,22 @@ Edwin VanCleef suelta An Unsent Letter, que inicia esta misión desde el nivel 1
 </div>
 
 Los Paladins de la Alliance también vienen aquí por <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, el final de la cadena del Tome of Valor que termina con <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: el Whitestone Oak Lumber lo sueltan los Goblin Woodcarvers cerca del principio. Los Paladins de la Horde tienen un equivalente nuevo en Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>, escribe Wowhead. La cadena empieza en Bandarion Keep, en Tirisfal Glades; Lumina Windsinger da la misión en la cripta de Silverpine Forest, /way 43 40. Las dos están en la [guía de mazmorras](/es/guides/dungeons/).
+
+
+### Destruction in Deadmines
+
+Nueva en Forever. Alba Fairmoon, en Sentinel Hill en Westfall, /way 52.4 53.0, busca el origen de un veneno que arruina la tierra. La pista lleva a la forja de The Deadmines. La cadena se puede coger desde el nivel 9; sus últimas misiones son de nivel 18.
+
+1. **<a href="https://www.wowhead.com/forever/quest=92742">Testing the Wells</a>.** Toma una muestra de agua con el Well Water Sample Kit en los pozos de la Jansen Stead y la Molsen Farm, en el noreste de Westfall.
+2. **<a href="https://www.wowhead.com/forever/quest=92744">Murloc Gills</a>.** Lleva 7 Longshore Murloc Gills de los múrlocs de la costa.
+3. **<a href="https://www.wowhead.com/forever/quest=92745">The State of the Mines</a>.** Mata a 4 Kobold Diggers y 6 Riverpaw Miners en Jangolode Mine o la Gold Coast Quarry.
+4. **<a href="https://www.wowhead.com/forever/quest=92747">Moonbrook Espionage</a>.** Recoge 8 Suspicious Industrial Supplies de las cajas alrededor de Moonbrook.
+5. **<a href="https://www.wowhead.com/forever/quest=92749">A Dynamite Plan</a>.** En Stormwind, entrega 10 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4358"><img class="wf-wh__icon" src="/wh/inv_misc_bomb_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rough Dynamite</a>, fabricadas con Engineering a partir de Rough Stone y Linen Cloth, o compradas en la casa de subastas.
+6. **Explosive Consultation.** Vuelve con Alba Fairmoon en Westfall.
+7. **<a href="https://www.wowhead.com/forever/quest=92753">Destruction in Deadmines</a>.** Coloca los Extra-Destructive Explosives junto a la forja, en la sala de Gilnid. Después Alba espera en la salida de The Deadmines, en las colinas detrás de Moonbrook, /way 38.4 83.4. Recompensa: 4.050 de experiencia y 50 de reputación con Stormwind.
+8. **<a href="https://www.wowhead.com/forever/quest=92819">Destruction in Deadmines</a>**, una segunda misión con el mismo nombre. Usa el detonador en la salida. Recompensa: 680 de experiencia, 5 de plata y 50 de reputación con Stormwind.
+
+No se conoce ninguna recompensa en objeto para la cadena.
 
 ## Los jefes y su botín
 

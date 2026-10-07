@@ -68,6 +68,8 @@ A route here is a direct flight between two flight points. A town with a flight 
 
 Every route of Classic Era is still there, with the same start and end. Forever only adds. Next to the flight paths come [three new ship routes](/news/wow-forever-three-new-ship-routes/), among them a boat from The Riverglades to Steamwheedle Port in Tanaris. Players with the Legacy perk Frequent Flier pay half for a flight and fly 20% faster, see [the overview of Forever](/forever/).
 
+Every flight point with its flight master, coordinates and routes is in the [flight paths guide](/guides/flight-paths/).
+
 ## What is not certain
 
 - **Powderfuse Port has one route**, to Farholde Keep. The flight point carries no faction in the files, but its only route leads to an Alliance keep and its mount is a gryphon. A route for the Horde does not exist in this build. Wowhead does not show a flight master there yet.

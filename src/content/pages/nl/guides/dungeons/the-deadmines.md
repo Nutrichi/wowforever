@@ -1,9 +1,9 @@
 ---
 title: "The Deadmines: de dungeongids voor WoW Forever"
 metaTitle: "The Deadmines in WoW Forever: ingang, quests, bazen en de nieuwe loot"
-description: "The Deadmines in WoW Forever: de weg naar binnen via Moonbrook, de route naar het schip, alle zes de quests van de Alliance, de acht bazen en wat er aan hun loot veranderde, de set Defias Leather en de nieuwe ring Partners in Crime."
+description: "The Deadmines in WoW Forever: de weg naar binnen via Moonbrook, de route naar het schip, alle zeven de quests van de Alliance, de acht bazen en wat er aan hun loot veranderde, de set Defias Leather en de nieuwe ring Partners in Crime."
 short: "The Deadmines"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: nl
 faq:
   - q: "Welk level is The Deadmines in WoW Forever?"
@@ -13,7 +13,7 @@ faq:
   - q: "Is de loot van The Deadmines veranderd in WoW Forever?"
     a: "Ja. Bijna elke drop van een baas is nu blauw, vaak met een nieuw effect. Rockslicer delft erts zonder de tradeskill, Smelting Pants smelten sneller en de set Defias Leather heeft nieuwe bonussen."
   - q: "Kan de Horde de quests van The Deadmines doen?"
-    a: "Nee. Alle zes de quests van The Deadmines zijn quests van de Alliance. Spelers van de Horde kunnen de dungeon wel lopen voor de loot."
+    a: "Nee. Alle zeven de quests van The Deadmines zijn quests van de Alliance. Spelers van de Horde kunnen de dungeon wel lopen voor de loot."
 sources:
   - name: "Warcraft Tavern, de dungeongids"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"
@@ -68,6 +68,7 @@ De Alliance heeft Sentinel Hill vlakbij. De Horde heeft geen quests in The Deadm
 | <a href="https://www.wowhead.com/forever/quest=214">Red Silk Bandanas</a> | Westfall, Sentinel Hill: Scout Riell /way 56 47<br><em>Doe eerst 6 quests, te beginnen met The Defias Brotherhood van Gryan Stoutmantle.</em> | 14 | Nog niet bekend |
 | <a href="https://www.wowhead.com/forever/quest=166">The Defias Brotherhood</a> | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>Het einde van een reeks van zes quests met dezelfde naam.</em> | 14 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6087"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chausses of Westfall</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2042"><img class="wf-wh__icon" src="/wh/inv_staff_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Westfall</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2041"><img class="wf-wh__icon" src="/wh/inv_chest_leather_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tunic of Westfall</a> |
 | <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | In de dungeon: An Unsent Letter, een drop van Edwin VanCleef | 16 | Nog niet bekend |
+| <a href="https://www.wowhead.com/forever/quest=92753">Destruction in Deadmines</a> | Westfall, Sentinel Hill: Alba Fairmoon /way 52.4 53.0<br><em>Nieuw in Forever. Het einde van een reeks van zeven quests die begint met Testing the Wells.</em> | 9 | 4.050 experience, 50 reputatie bij Stormwind |
 
 Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead. De beloningen komen van Wowhead; waar die er geen noemt, zijn ze nog niet bekend.
 
@@ -138,6 +139,22 @@ Edwin VanCleef laat An Unsent Letter vallen, die deze quest vanaf level 16 start
 </div>
 
 Paladins van de Alliance komen hier ook voor <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, het einde van de reeks van de Tome of Valor die eindigt met <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: de Whitestone Oak Lumber valt bij de Goblin Woodcarvers vlak bij het begin. Paladins van de Horde krijgen een tegenhanger die nieuw is in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>, schrijft Wowhead. De reeks begint in Bandarion Keep in Tirisfal Glades; Lumina Windsinger geeft de quest in de crypte in Silverpine Forest, /way 43 40. Beide staan in de [dungeongids](/nl/guides/dungeons/).
+
+
+### Destruction in Deadmines
+
+Nieuw in Forever. Alba Fairmoon op Sentinel Hill in Westfall, /way 52.4 53.0, zoekt de bron van een gif dat het land verwoest. Het spoor leidt naar de smidse in The Deadmines. De reeks kan vanaf level 9 opgepikt worden; de laatste quests zijn level 18.
+
+1. **<a href="https://www.wowhead.com/forever/quest=92742">Testing the Wells</a>.** Neem met de Well Water Sample Kit een watermonster bij de putten van de Jansen Stead en de Molsen Farm, in het noordoosten van Westfall.
+2. **<a href="https://www.wowhead.com/forever/quest=92744">Murloc Gills</a>.** Breng 7 Longshore Murloc Gills van de murlocs langs de kust.
+3. **<a href="https://www.wowhead.com/forever/quest=92745">The State of the Mines</a>.** Dood 4 Kobold Diggers en 6 Riverpaw Miners in Jangolode Mine of de Gold Coast Quarry.
+4. **<a href="https://www.wowhead.com/forever/quest=92747">Moonbrook Espionage</a>.** Verzamel 8 Suspicious Industrial Supplies uit de kisten rond Moonbrook.
+5. **<a href="https://www.wowhead.com/forever/quest=92749">A Dynamite Plan</a>.** Lever in Stormwind 10 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4358"><img class="wf-wh__icon" src="/wh/inv_misc_bomb_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rough Dynamite</a> in, gemaakt met Engineering uit Rough Stone en Linen Cloth, of gekocht in het veilinghuis.
+6. **Explosive Consultation.** Terug naar Alba Fairmoon in Westfall.
+7. **<a href="https://www.wowhead.com/forever/quest=92753">Destruction in Deadmines</a>.** Plaats de Extra-Destructive Explosives bij de smidse, in de zaal van Gilnid. Alba wacht daarna bij de uitgang van The Deadmines, in de heuvels achter Moonbrook, /way 38.4 83.4. Beloning: 4.050 experience en 50 reputatie bij Stormwind.
+8. **<a href="https://www.wowhead.com/forever/quest=92819">Destruction in Deadmines</a>**, een tweede quest met dezelfde naam. Gebruik de ontsteker bij de uitgang. Beloning: 680 experience, 5 zilver en 50 reputatie bij Stormwind.
+
+Een itembeloning voor de reeks is niet bekend.
 
 ## De bazen en hun loot
 

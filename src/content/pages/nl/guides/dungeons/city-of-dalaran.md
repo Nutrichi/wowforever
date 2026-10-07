@@ -3,13 +3,15 @@ title: "City of Dalaran: de dungeongids voor WoW Forever"
 metaTitle: "City of Dalaran in WoW Forever: ingangen, bazen en tactiek"
 description: "City of Dalaran, een nieuwe dungeon in WoW Forever: de weg naar binnen via de riolen voor de Alliance en de tunnel voor de Horde, de arcane trash, en de zeven bazen met hun tactiek."
 short: "City of Dalaran"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: nl
 faq:
   - q: "Welk level is de City of Dalaran in WoW Forever?"
     a: "Blizzard geeft 28 tot 33. Wowhead raadt level 28 tot 35 aan."
   - q: "Hoe kom je in de City of Dalaran?"
     a: "De Alliance gaat binnen via een buis in Cantrips & Crows, in de Dalaran Sewers. De Horde komt binnen via een tunnel buiten de stad, op /way 8.8 59.6; één speler in de groep heeft de Dalaran Sewer Key nodig."
+  - q: "Hoe krijgt de Horde de Dalaran Sewer Key?"
+    a: "Met een reeks van zeven quests die begint bij Magus Wordeen Voidglare en Keeper Bel'varil in Tarren Mill. De laatste, Heart of Disruption, stuurt je de dungeon in voor een Arcane Mote en geeft de sleutel."
   - q: "Werkt Arcane damage in de City of Dalaran?"
     a: "Nauwelijks. Bijna elk monster in de dungeon is immuun voor Arcane, dus Arcane Explosion, Arcane Shot en Counterspell helpen weinig."
   - q: "Wat laat de City of Dalaran vallen?"
@@ -30,7 +32,7 @@ De City of Dalaran is een van de nieuwe dungeons van WoW Forever. De violette ko
 | Levels | 28-33 volgens Blizzard |
 | Ingang | De Dalaran Sewers voor de Alliance, een tunnel buiten de stad voor de Horde |
 | Bazen | 7, waarvan Lyn the Ignored een rare is |
-| Quests | Nog niet bekend |
+| Quests | Heart of Disruption, de laatste stap van de toegang voor de Horde |
 | Let op | Bijna elk monster is immuun voor Arcane |
 | Korte naam | CoD |
 
@@ -49,6 +51,45 @@ De beta gaat sinds 1 oktober tot level 30. De laatste bazen liggen daarboven, du
 ![Een speler op een rond rooster voor de ingang van de City of Dalaran, de weg naar binnen voor de Horde, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-dalaran-horde-dungeon-entrance.jpg)
 
 </div>
+
+
+## De sleutel voor de Horde
+
+De Alliance hoeft alleen te spreken met <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> buiten de stad. De Horde verdient de <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a> met een reeks van zeven quests uit Tarren Mill in Hillsbrad Foothills. Beide questgevers staan in het dorp. Contentmaker Farmerfarms toont de hele reeks in een video.
+
+<figure class="wf-embed" data-wf-video="fEruSWVwJjM">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Dalaran Attunement Guide &amp; ALL Quests, WoW Forever</span>
+      <span class="wf-embed__meta">Speel de video af. Farmerfarms op YouTube, 10 minuten.</span>
+    </span>
+  </button>
+</figure>
+
+Neem eerst drie quests.
+
+| Quest | Van | Opdracht |
+|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=544">Prison Break In</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Vind de verraders en haal hun artefacten terug |
+| <a href="https://www.wowhead.com/forever/quest=93680">Key to the City</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Haal de Grimy Key |
+| <a href="https://www.wowhead.com/forever/quest=556">Stone Tokens</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2437">Keeper Bel'varil</a> | Breng 10 Worn Stone Tokens |
+
+Lever ze in en neem dan de volgende twee.
+
+| Quest | Van | Opdracht |
+|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=545">Dalaran Patrols</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Dood 6 Dalaran Summoners en 12 Elemental Slaves |
+| <a href="https://www.wowhead.com/forever/quest=557">Bracers of Binding</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2437">Keeper Bel'varil</a> | Breng 4 Bracers of Earth Binding |
+
+Lever ook die in, en de reeks verhuist naar de stad.
+
+| Quest | Van | Opdracht |
+|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=92434">Blood in the Streets</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Lever hem in bij Image of Archmage Modera buiten Dalaran |
+| <a href="https://www.wowhead.com/forever/quest=96984">Heart of Disruption</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> | Haal de Arcane Mote in de City of Dalaran |
+
+Heart of Disruption geeft de sleutel. Vier van de quests komen uit Classic: Prison Break In, Stone Tokens, Dalaran Patrols en Bracers of Binding. Key to the City, Blood in the Streets en Heart of Disruption zijn nieuw in Forever. Meer in de [post over de sleutel](/nl/news/horde-earns-the-dalaran-sewer-key-in-tarren-mill/).
 
 ## De trash
 
@@ -89,6 +130,5 @@ De eindbaas. Hij vecht met zijn manapoel; is die leeg, dan werpt hij Mass Polymo
 ## Wat nog niet bekend is
 
 - **De loot** van alle zeven de bazen.
-- **De quests**: Wowhead noemt er nog geen.
+- **Andere quests** in de dungeon, naast Heart of Disruption.
 - **Fel Ancient en Lyn the Ignored**: hun mechanieken.
-- **Waar de Horde de Dalaran Sewer Key krijgt.**

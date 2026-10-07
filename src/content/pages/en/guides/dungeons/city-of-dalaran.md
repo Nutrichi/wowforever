@@ -3,13 +3,15 @@ title: "City of Dalaran: the dungeon guide for WoW Forever"
 metaTitle: "City of Dalaran in WoW Forever: entrances, bosses and tactics"
 description: "City of Dalaran, a new dungeon in WoW Forever: the way in through the sewers for the Alliance and the tunnel for the Horde, the arcane trash, and the seven bosses with their tactics."
 short: "City of Dalaran"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: en
 faq:
   - q: "What level is the City of Dalaran in WoW Forever?"
     a: "Blizzard gives a range of 28 to 33. Wowhead recommends levels 28 to 35."
   - q: "How do you enter the City of Dalaran?"
     a: "The Alliance goes in through a pipe in Cantrips & Crows, in the Dalaran Sewers. The Horde enters through a tunnel outside the city, at /way 8.8 59.6; one player in the group needs the Dalaran Sewer Key."
+  - q: "How does the Horde get the Dalaran Sewer Key?"
+    a: "Through a chain of seven quests that starts with Magus Wordeen Voidglare and Keeper Bel'varil in Tarren Mill. The last one, Heart of Disruption, sends you into the dungeon for an Arcane Mote and gives the key."
   - q: "Does Arcane damage work in the City of Dalaran?"
     a: "Hardly. Almost every monster in the dungeon is immune to Arcane, so Arcane Explosion, Arcane Shot and Counterspell do not help much."
   - q: "What does the City of Dalaran drop?"
@@ -29,7 +31,7 @@ The City of Dalaran is one of the new dungeons of WoW Forever. The violet dome a
 | Levels | 28-33 according to Blizzard |
 | Entrance | The Dalaran Sewers for the Alliance, a tunnel outside the city for the Horde |
 | Bosses | 7, of which Lyn the Ignored is a rare |
-| Quests | Not known yet |
+| Quests | Heart of Disruption, the last step of the Horde attunement |
 | Watch out | Almost every monster is immune to Arcane |
 | Short name | CoD |
 
@@ -48,6 +50,45 @@ The beta goes up to level 30 since 1 October. The last bosses are above that, so
 ![A player on a round grate in front of the entrance of the City of Dalaran, the way in for the Horde, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-dalaran-horde-dungeon-entrance.jpg)
 
 </div>
+
+
+## The key for the Horde
+
+The Alliance only needs to speak to <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> outside the city. The Horde earns the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a> with a chain of seven quests from Tarren Mill in Hillsbrad Foothills. Both quest givers stand in the town. Content creator Farmerfarms shows the whole chain in a video.
+
+<figure class="wf-embed" data-wf-video="fEruSWVwJjM">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Dalaran Attunement Guide &amp; ALL Quests, WoW Forever</span>
+      <span class="wf-embed__meta">Play the video. Farmerfarms on YouTube, 10 minutes.</span>
+    </span>
+  </button>
+</figure>
+
+First, take three quests.
+
+| Quest | From | Task |
+|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=544">Prison Break In</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Find the traitors and recover their artifacts |
+| <a href="https://www.wowhead.com/forever/quest=93680">Key to the City</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Get the Grimy Key |
+| <a href="https://www.wowhead.com/forever/quest=556">Stone Tokens</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2437">Keeper Bel'varil</a> | Bring 10 Worn Stone Tokens |
+
+Hand them in, then take the next two.
+
+| Quest | From | Task |
+|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=545">Dalaran Patrols</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Kill 6 Dalaran Summoners and 12 Elemental Slaves |
+| <a href="https://www.wowhead.com/forever/quest=557">Bracers of Binding</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2437">Keeper Bel'varil</a> | Bring 4 Bracers of Earth Binding |
+
+Hand those in too, and the chain moves to the city.
+
+| Quest | From | Task |
+|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=92434">Blood in the Streets</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Hand it in to Image of Archmage Modera outside Dalaran |
+| <a href="https://www.wowhead.com/forever/quest=96984">Heart of Disruption</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> | Collect the Arcane Mote inside the City of Dalaran |
+
+Heart of Disruption gives the key. Four of the quests come from Classic: Prison Break In, Stone Tokens, Dalaran Patrols and Bracers of Binding. Key to the City, Blood in the Streets and Heart of Disruption are new in Forever. More in the [post about the key](/news/horde-earns-the-dalaran-sewer-key-in-tarren-mill/).
 
 ## The trash
 
@@ -88,6 +129,5 @@ The final boss. He fights with his mana pool; when it runs dry, he casts Mass Po
 ## What is not known yet
 
 - **The loot** of all seven bosses.
-- **The quests**: Wowhead lists none so far.
+- **Other quests** inside the dungeon, besides Heart of Disruption.
 - **Fel Ancient and Lyn the Ignored**: their mechanics.
-- **Where the Horde gets the Dalaran Sewer Key.**

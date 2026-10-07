@@ -68,6 +68,8 @@ Une route est ici un vol direct entre deux points de vol. Une ville avec un maî
 
 Chaque route de Classic Era est toujours là, avec le même départ et la même arrivée. Forever ne fait qu'ajouter. À côté des routes aériennes arrivent [trois nouvelles routes maritimes](/fr/news/wow-forever-three-new-ship-routes/), dont un bateau de The Riverglades vers Steamwheedle Port, en Tanaris. Avec la perk Legacy Frequent Flier, un vol coûte moitié moins et va 20 % plus vite, voir [la présentation de Forever](/fr/forever/).
 
+Chaque point de vol avec son maître de vol, ses coordonnées et ses trajets se trouve dans le [guide des trajets aériens](/fr/guides/flight-paths/).
+
 ## Ce qui n'est pas certain
 
 - **Powderfuse Port n'a qu'une route**, vers Farholde Keep. Le point de vol ne porte aucune faction dans les fichiers, mais sa seule route mène à une forteresse de l'Alliance et sa monture est un gryphon. Aucune route pour la Horde n'existe dans ce build. Wowhead n'y montre pas encore de maître de vol.

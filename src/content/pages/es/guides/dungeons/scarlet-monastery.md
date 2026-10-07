@@ -3,7 +3,7 @@ title: "Scarlet Monastery: la guía de la mazmorra para WoW Forever"
 metaTitle: "Scarlet Monastery en WoW Forever: alas, misiones, jefes, botín nuevo y bonificación de set"
 description: "Scarlet Monastery en WoW Forever: las cuatro alas y sus jefes, cada misión, la Scarlet Key, el botín renovado de Graveyard y Library, y las nuevas bonificaciones de la Chain of the Scarlet Crusade."
 short: "Scarlet Monastery"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: es
 faq:
   - q: "¿Qué nivel tiene Scarlet Monastery en WoW Forever?"
@@ -112,7 +112,7 @@ Para los otros dos raros, <a class="wf-wh wf-plain" href="https://www.wowhead.co
 
 ### Houndmaster Loksey
 
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7710"><img class="wf-wh__icon" src="/wh/inv_staff_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Loksey's Training Stick</a> antes solo servía contra Beasts. El bastón da ahora 28 de Attack Power y una probabilidad al golpear de hacer 91 de daño físico; los Canines y Hyenas alcanzados quedan aturdidos 3 segundos y se sientan. Loksey también suelta un Houndmaster Boomerang nuevo, un arma arrojadiza con 4 de Stamina, 4 de Attack Power y otros 9 contra Beasts que vuelve a la mano. El bumerán aún no está en los archivos de la build 1.60.1.70178.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7710"><img class="wf-wh__icon" src="/wh/inv_staff_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Loksey's Training Stick</a> antes solo servía contra Beasts. El bastón da ahora 28 de Attack Power y una probabilidad al golpear de hacer 91 de daño físico; los Canines y Hyenas alcanzados quedan aturdidos 3 segundos y se sientan. Loksey también suelta un <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274292"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Houndmaster Boomerang</a> nuevo, un arma arrojadiza con 4 de Stamina, 4 de Attack Power y otros 9 contra Beasts que vuelve a la mano. Tiene item level 36 y pide nivel 31.
 
 ![Los tooltips de Loksey's Training Stick y Houndmaster Boomerang en la beta de World of Warcraft: Forever](../../../../../assets/posts/2026-10-03-wow-forever-lokseys-training-stick-and-houndmaster-boomerang.jpg)
 
@@ -176,7 +176,7 @@ Wowhead también indica Whitemane's Chapeau y el Triune Amulet, que aún no est�
 
 ## Chain of the Scarlet Crusade
 
-El set de malla de la Scarlet Crusade cae de monstruos de toda la mazmorra. En los archivos de la beta tiene dos bonificaciones nuevas, Enraging Light y Scarlet Guardian. Que sepa Icy Veins, aún no ha caído ninguna pieza en la beta.
+El set de malla de la Scarlet Crusade cae de monstruos de toda la mazmorra, varias piezas de monstruos comunes. Desde el 6 de octubre las piezas caen en la beta, y sus descripciones confirman dos bonificaciones nuevas, Enraging Light y Scarlet Guardian. El cinturón, los guanteletes y los brazales pasan de verde a azul.
 
 | Piezas | Bonus |
 |---|---|
@@ -186,10 +186,23 @@ El set de malla de la Scarlet Crusade cae de monstruos de toda la mazmorra. En l
 | 5 | +1 % de probabilidad de golpe |
 | 6 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1293670"><img class="wf-wh__icon" src="/wh/inv_tabard_scarletcrusade_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Guardian</a>: recibir daño con un 20 % de salud o menos da un escudo que absorbe daño durante 10 segundos, una vez cada 4 minutos |
 
-Las seis piezas: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10328"><img class="wf-wh__icon" src="/wh/inv_chest_chain_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Chestpiece</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10329"><img class="wf-wh__icon" src="/wh/inv_belt_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Belt</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10330"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Leggings</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10331"><img class="wf-wh__icon" src="/wh/inv_gauntlets_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Gauntlets</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10332"><img class="wf-wh__icon" src="/wh/inv_boots_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Boots</a> y <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10333"><img class="wf-wh__icon" src="/wh/inv_bracer_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Wristguards</a>. Más en el [artículo sobre el botín nuevo](/es/news/scarlet-monastery-loot-gets-new-effects/).
+Según su descripción, Enraging Light tiene un tiempo de reutilización de 15 segundos entre dos procs. El escudo de Scarlet Guardian absorbe 480 de daño.
+
+Las seis piezas son de malla. Las piernas se ligan al recogerlas, las otras cinco al equiparlas.
+
+| Item | Nivel | Estadísticas |
+|---|---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10329"><img class="wf-wh__icon" src="/wh/inv_belt_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Belt</a> | 32 | 136 Armor, 12 Strength, 10 Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10331"><img class="wf-wh__icon" src="/wh/inv_gauntlets_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Gauntlets</a> | 33 | 153 Armor, 12 Strength, 10 Agility |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10333"><img class="wf-wh__icon" src="/wh/inv_bracer_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Wristguards</a> | 31 | 104 Armor, 11 Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10330"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Leggings</a> | 39 | 236 Armor, 21 Strength, 10 Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10328"><img class="wf-wh__icon" src="/wh/inv_chest_chain_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Chestpiece</a> | 34 | 250 Armor, 8 Strength, 19 Stamina |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10332"><img class="wf-wh__icon" src="/wh/inv_boots_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Boots</a> | 30 | 161 Armor, 5 Agility, 12 Stamina |
+
+La comparación con Classic Era está en el [artículo sobre el set](/es/news/scarlet-set-pieces-go-blue-with-two-new-bonuses/).
 
 ## Lo que aún no se sabe
 
 - **Whitemane's Chapeau, el Triune Amulet y Herod's Shoulder**: si aún caen en Forever.
 - **Las recompensas de las misiones** que Wowhead aún no indica.
-- **El Houndmaster Boomerang**: su ID de objeto y cada cuánto cae.
+- **El Houndmaster Boomerang**: cada cuánto cae.

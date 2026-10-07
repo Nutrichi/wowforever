@@ -3,7 +3,7 @@ title: "Gidsen voor WoW Forever"
 metaTitle: "WoW Forever-gidsen: dungeonquests, questreeksen en meer"
 description: "Elke gids voor WoW Forever op één plek: de dungeongids met elke dungeonquest, The Hall of Thanes en de Ruins of Lordaeron, de Cozy Sleeping Bag-reeks, camping, de BMAH, elke pet, en de routes, classgidsen en tradeskillgidsen van de site."
 short: "Gidsen"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: nl
 manual: true
 ---
@@ -19,7 +19,7 @@ Elke dungeon van WoW Forever op level, met al zijn quests, staat in het [dungeon
 | [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/) | Level 13-18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot |
 | [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) | Level 15-20: de weg erheen voor beide facties, alle tien de quests, de zes bazen en hun loot |
 | [Wailing Caverns](/nl/guides/dungeons/wailing-caverns/) | Level 15-24: alle zeven de quests met hun beloningen, de Lords of the Fang, het event van Naralex en de nieuwe bonussen van Embrace of the Viper |
-| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | Level 14-24: de weg naar binnen via Moonbrook, alle zes de quests met hun beloningen en de nieuwe loot van elke baas |
+| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | Level 14-24: de weg naar binnen via Moonbrook, alle zeven de quests met hun beloningen en de nieuwe loot van elke baas |
 | [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | Level 18-28: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas |
 | [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | Level 21-30: de weg naar binnen aan de Zoram Strand, de quests van beide facties en de nieuwe loot van elke baas |
 | [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | Level 26-31, nieuw in Forever: de quests voor beide facties, het hoge gras en de drie bazen met hun loot |
@@ -47,6 +47,12 @@ Elke dungeon van WoW Forever op level, met al zijn quests, staat in het [dungeon
 | Gids | Waarover |
 |---|---|
 | [BMAH](/nl/guides/bmah/) | Het Black Market Auction House in Powderfuse Port in The Riverglades: de agenten, de items en Dungeon Set 1 naast Classic |
+
+## Vluchtroutes
+
+| Gids | Waarover |
+|---|---|
+| [Flight Paths](/nl/guides/flight-paths/) | Elk vluchtpunt voor de Alliance en de Horde met zijn flight master, /way en routes, de vijf nieuwe vluchtpunten, en elke boot en zeppelin |
 
 ## Pets
 

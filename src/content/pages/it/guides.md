@@ -3,7 +3,7 @@ title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
 description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, il camping, la BMAH, ogni mascotte, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: it
 manual: true
 ---
@@ -19,7 +19,7 @@ Tutti i dungeon di WoW Forever per livello, con tutte le loro missioni, sono nel
 | [The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/) | Livelli 13-18: come arrivarci, le cinque missioni con la catena di Dun Morogh, i quattro boss e il loro bottino |
 | [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/) | Livelli 15-20: come arrivarci con entrambe le fazioni, le dieci missioni, i sei boss e il loro bottino |
 | [Wailing Caverns](/it/guides/dungeons/wailing-caverns/) | Livelli 15-24: le sette missioni con le loro ricompense, i Lords of the Fang, l’evento di Naralex e i nuovi bonus di Embrace of the Viper |
-| [The Deadmines](/it/guides/dungeons/the-deadmines/) | Livelli 14-24: l’ingresso da Moonbrook, le sei missioni con le loro ricompense e il nuovo bottino di ogni boss |
+| [The Deadmines](/it/guides/dungeons/the-deadmines/) | Livelli 14-24: l’ingresso da Moonbrook, le sette missioni con le loro ricompense e il nuovo bottino di ogni boss |
 | [Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/) | Livelli 18-28: l’ingresso sopra Pyrewood Village, le tre missioni della Horde e il nuovo bottino di ogni boss |
 | [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/) | Livelli 21-30: l’ingresso sulla Zoram Strand, le missioni di entrambe le fazioni e il nuovo bottino di ogni boss |
 | [Excavation Site: Wetlands](/it/guides/dungeons/excavation-site-wetlands/) | Livelli 26-31, nuovo in Forever: le missioni di entrambe le fazioni, l’erba alta e i tre boss con il loro bottino |
@@ -47,6 +47,12 @@ Tutti i dungeon di WoW Forever per livello, con tutte le loro missioni, sono nel
 | Guida | Di cosa tratta |
 |---|---|
 | [BMAH](/it/guides/bmah/) | La Black Market Auction House a Powderfuse Port, in The Riverglades: gli agenti, gli oggetti e il Dungeon Set 1 confrontato con Classic |
+
+## Rotte di volo
+
+| Guida | Di cosa tratta |
+|---|---|
+| [Flight Paths](/it/guides/flight-paths/) | Ogni punto di volo dell'Alliance e dell'Horde con il suo maestro di volo, /way e rotte, i cinque nuovi punti di volo, e ogni nave e zeppelin |
 
 ## Mascotte
 

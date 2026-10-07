@@ -68,6 +68,8 @@ Una ruta es aquí un vuelo directo entre dos puntos de vuelo. Una ciudad con un 
 
 Todas las rutas de Classic Era siguen ahí, con el mismo inicio y el mismo final. Forever solo añade. Junto a las rutas de vuelo llegan [tres rutas marítimas nuevas](/es/news/wow-forever-three-new-ship-routes/), entre ellas un barco de The Riverglades a Steamwheedle Port, en Tanaris. Con la ventaja de Legacy Frequent Flier, un vuelo cuesta la mitad y va un 20 % más rápido, véase [la página de Forever](/es/forever/).
 
+Cada punto de vuelo con su maestro de vuelo, sus coordenadas y sus rutas está en la [guía de rutas de vuelo](/es/guides/flight-paths/).
+
 ## Lo que no es seguro
 
 - **Powderfuse Port tiene una sola ruta**, a Farholde Keep. El punto de vuelo no lleva facción en los archivos, pero su única ruta lleva a una fortaleza de la Alliance y su montura es un gryphon. En esta build no existe ninguna ruta para la Horde. Wowhead aún no muestra un maestro de vuelo allí.

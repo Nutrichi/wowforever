@@ -3,7 +3,7 @@ title: "Guides for WoW Forever"
 metaTitle: "WoW Forever guides: dungeon quests, quest chains and more"
 description: "Every guide for WoW Forever in one place: the dungeon guide with every dungeon quest, the Hall of Thanes and the Ruins of Lordaeron, the Cozy Sleeping Bag chain, camping, the BMAH, every pet, and the routes, class guides and tradeskill guides of the site."
 short: "Guides"
-updated: 2026-10-03
+updated: 2026-10-07
 lang: en
 ---
 Step-by-step guides for World of Warcraft: Forever, from dungeon quests to quest chains that end in a special reward. Every guide names its sources and gets updated when the beta changes something.
@@ -18,7 +18,7 @@ Every dungeon of WoW Forever by level, with all its quests, is in the [dungeon o
 | [The Hall of Thanes](/guides/dungeons/hall-of-thanes/) | Levels 13-18: the way in, all five quests with the chain in Dun Morogh, the four bosses and their loot |
 | [Ruins of Lordaeron](/guides/dungeons/ruins-of-lordaeron/) | Levels 15-20: the way in for both factions, all ten quests, the six bosses and their loot |
 | [Wailing Caverns](/guides/dungeons/wailing-caverns/) | Levels 15-24: all seven quests with their rewards, the Lords of the Fang, the Naralex event and the new Embrace of the Viper bonuses |
-| [The Deadmines](/guides/dungeons/the-deadmines/) | Levels 14-24: the way in through Moonbrook, all six quests with their rewards and the new loot of every boss |
+| [The Deadmines](/guides/dungeons/the-deadmines/) | Levels 14-24: the way in through Moonbrook, all seven quests with their rewards and the new loot of every boss |
 | [Shadowfang Keep](/guides/dungeons/shadowfang-keep/) | Levels 18-28: the way in above Pyrewood Village, the three Horde quests and the new loot of every boss |
 | [Blackfathom Deeps](/guides/dungeons/blackfathom-deeps/) | Levels 21-30: the way in at the Zoram Strand, the quests of both factions and the new loot of every boss |
 | [Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/) | Levels 26-31, new in Forever: the quests for both factions, the tall grass and the three bosses with their loot |
@@ -46,6 +46,12 @@ Every dungeon of WoW Forever by level, with all its quests, is in the [dungeon o
 | Guide | What it covers |
 |---|---|
 | [BMAH](/guides/bmah/) | The Black Market Auction House at Powderfuse Port in The Riverglades: the agents, the items and Dungeon Set 1 compared with Classic |
+
+## Flight paths
+
+| Guide | What it covers |
+|---|---|
+| [Flight Paths](/guides/flight-paths/) | Every flight point for the Alliance and the Horde with its flight master, /way and routes, the five new flight points, and every boat and zeppelin |
 
 ## Pets
 
