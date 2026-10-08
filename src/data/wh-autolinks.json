@@ -1004,6 +1004,12 @@
 "q": -1,
 "t": "s"
 },
+"Overpower": {
+"icon": "ability_meleedamage",
+"id": 7384,
+"q": -1,
+"t": "s"
+},
 "Penance": {
 "icon": "spell_holy_penance",
 "id": 402174,
@@ -6556,6 +6562,10 @@
 "s:1283400": {
 "icon": "inv_camelot_camping_welcomingcampfire",
 "q": 1
+},
+"s:1289682": {
+"icon": "inv_sword_01",
+"q": -1
 },
 "s:1289723": {
 "icon": "spell_fire_fire",
@@ -13492,6 +13502,12 @@
 "q": -1,
 "t": "s"
 },
+"Berserker Stance": {
+"icon": "ability_racial_avatar",
+"id": 2458,
+"q": -1,
+"t": "s"
+},
 "Big Black Mace": {
 "alt": {
 "icon": "inv_mace_15",
@@ -15298,6 +15314,12 @@
 "q": 1,
 "t": "i"
 },
+"Flurry": {
+"icon": "ability_ghoulfrenzy",
+"id": 12319,
+"q": -1,
+"t": "s"
+},
 "Focal Blast": {
 "icon": "ability_mage_arcanesurge",
 "id": 1241501,
@@ -16042,6 +16064,12 @@
 "q": 2,
 "t": "i"
 },
+"Heroic Strike": {
+"icon": "ability_rogue_ambush",
+"id": 78,
+"q": -1,
+"t": "s"
+},
 "High Alert": {
 "icon": "spell_shadow_detectlesserinvisibility",
 "id": 1225477,
@@ -16279,6 +16307,12 @@
 "Improved Slam": {
 "icon": "ability_warrior_decisivestrike",
 "id": 12862,
+"q": -1,
+"t": "s"
+},
+"Improved Tactical Mastery": {
+"icon": "spell_nature_enchantarmor",
+"id": 12295,
 "q": -1,
 "t": "s"
 },
@@ -18939,6 +18973,12 @@
 "id": 263509,
 "q": 1,
 "t": "i"
+},
+"Slam": {
+"icon": "ability_warrior_decisivestrike",
+"id": 1464,
+"q": -1,
+"t": "s"
 },
 "Slimy Smoothie": {
 "alt": {
