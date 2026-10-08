@@ -77,7 +77,7 @@ export default function whAutolink(fctx) {
   if (!frontmatter && path.includes('/src/content/news/')) {
     try {
       const raw = fs.readFileSync(path, 'utf8');
-      frontmatter = { category: raw.match(/^category:\s*(\w+)/m)?.[1] };
+      frontmatter = { category: raw.match(/^category:\s*(\w+)/m)?.[1], tags: raw.match(/^tags:\s*\[(.*)\]/m)?.[1].match(/[\w-]+/g) ?? [] };
     } catch { frontmatter = {}; }
   }
   const branch = branchFor(path, frontmatter);
@@ -110,7 +110,9 @@ export default function whAutolink(fctx) {
     },
   };
   if (!branch || !dict[branch]) return { name: 'wh-autolink', element: upgrade };
-  const { re, byKey } = matcher(branch, path.includes('/src/content/classes/'));
+  // Posts over classes en talenten krijgen ook de losse talenten (Mutilate, Riptide), 8 oktober 2026.
+  const aboutClasses = path.includes('/src/content/news/') && (frontmatter?.tags ?? []).some((t) => t === 'classes' || t === 'talents');
+  const { re, byKey } = matcher(branch, path.includes('/src/content/classes/') || aboutClasses);
   if (!re) return { name: 'wh-autolink', element: upgrade };
   const seen = new Set();
   // In een classgids is een naam die zowel item als spell is bijna altijd de ability of het talent.
@@ -122,8 +124,10 @@ export default function whAutolink(fctx) {
     text(node, ctx) {
       // Waar staat deze tekst? Niet in een link, kop, tabelkop, code of insluiting.
       let inCell = false;
+      let inQuote = false;
       for (let p = ctx.parent(node); p && p.type === 'element'; p = ctx.parent(p)) {
         if (SKIP.has(p.tagName)) return;
+        if (p.tagName === 'blockquote') inQuote = true;
         const cls = p.properties?.className;
         if (Array.isArray(cls) && cls.some((c) => String(c).startsWith('wf-embed'))) return;
         if (p.tagName === 'td') inCell = true;
@@ -160,6 +164,8 @@ export default function whAutolink(fctx) {
         const key = name.replace(/’/g, "'");
         let entry = byKey.get(key);
         if (!entry) continue;
+        // Een naam van één woord niet in een citaat: daar is het vaak een gewoon woord ("Ignite the target").
+        if (inQuote && !key.includes(' ')) continue;
         if (entry.alt && preferSpell && entry.t === 'i' && entry.alt.t === 's') entry = entry.alt;
         else if (entry.alt && !preferSpell && entry.t === 's' && entry.alt.t === 'i') entry = entry.alt;
         if (!inCell && seen.has(key)) continue;
