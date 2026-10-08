@@ -3,7 +3,7 @@ title: "City of Dalaran: the dungeon guide for WoW Forever"
 metaTitle: "City of Dalaran in WoW Forever: entrances, bosses and tactics"
 description: "City of Dalaran, a new dungeon in WoW Forever: the way in through the sewers for the Alliance and the tunnel for the Horde, the arcane trash, and the seven bosses with their tactics."
 short: "City of Dalaran"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: en
 faq:
   - q: "What level is the City of Dalaran in WoW Forever?"
@@ -35,7 +35,7 @@ The City of Dalaran is one of the new dungeons of WoW Forever. The violet dome a
 | Watch out | Almost every monster is immune to Arcane |
 | Short name | CoD |
 
-The beta goes up to level 30 since 1 October. The last bosses are above that, so Wowhead does not know all their mechanics yet.
+Since the [beta build of 8 October](/news/city-of-dalaran-opens-in-the-fourth-beta-week/), the dungeon can be tested on the beta. The beta goes up to level 30 since 1 October. The last bosses are above that, so Wowhead does not know all their mechanics yet.
 
 ## Getting there
 

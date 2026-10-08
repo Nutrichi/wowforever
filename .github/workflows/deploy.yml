@@ -98,8 +98,8 @@ jobs:
       # meteen laten weten welke posts nieuw zijn. ChatGPT Search en Copilot
       # lezen de index van Bing, dus zo vinden ook die een post snel.
       #
-      # Alleen na een push, niet na de geplande runs voor Clips en Streams:
-      # daar verandert geen post. De adressen komen uit news-sitemap.xml (de
+      # Na een push en na een handmatige run (workflow_dispatch, zo komen
+      # ingeplande posts live), niet na de geplande runs voor Clips en Streams. De adressen komen uit news-sitemap.xml (de
       # posts van de laatste twee dagen, in elke taal) plus de zes homepages.
       # De sleutel is geen geheim: hij staat als bestand op de site
       # (public/af8e1bae12c985be4b0720e37bebd179.txt), zo bewijst de site dat hij van ons is.
@@ -107,7 +107,7 @@ jobs:
       # Net als het seintje hieronder maakt een mislukking de run niet rood,
       # maar wel een waarschuwing in het overzicht.
       - name: IndexNow een seintje geven
-        if: github.event_name == 'push'
+        if: github.event_name != 'schedule'
         env:
           INDEXNOW_KEY: af8e1bae12c985be4b0720e37bebd179
         run: |

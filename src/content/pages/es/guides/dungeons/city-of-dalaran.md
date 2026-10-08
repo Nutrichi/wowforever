@@ -3,7 +3,7 @@ title: "City of Dalaran: la guía de la mazmorra para WoW Forever"
 metaTitle: "City of Dalaran en WoW Forever: entradas, jefes y tácticas"
 description: "City of Dalaran, una mazmorra nueva de WoW Forever: la entrada por las alcantarillas para la Alliance y el túnel para la Horde, los enemigos arcanos y los siete jefes con sus tácticas."
 short: "City of Dalaran"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: es
 faq:
   - q: "¿Qué nivel tiene la City of Dalaran en WoW Forever?"
@@ -36,7 +36,7 @@ La City of Dalaran es una de las mazmorras nuevas de WoW Forever. La cúpula vio
 | Atención | Casi todos los monstruos son inmunes al Arcane |
 | Nombre corto | CoD |
 
-La beta llega al nivel 30 desde el 1 de octubre. Los últimos jefes están por encima, así que Wowhead aún no conoce todas sus mecánicas.
+Desde la [build de la beta del 8 de octubre](/es/news/city-of-dalaran-opens-in-the-fourth-beta-week/), la mazmorra se puede probar en la beta. La beta llega al nivel 30 desde el 1 de octubre. Los últimos jefes están por encima, así que Wowhead aún no conoce todas sus mecánicas.
 
 ## Cómo llegar
 

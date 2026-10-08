@@ -878,6 +878,12 @@
 "q": -1,
 "t": "s"
 },
+"Disengage": {
+"icon": "ability_rogue_feint",
+"id": 781,
+"q": -1,
+"t": "s"
+},
 "Dismember": {
 "icon": "ability_hunter_pet_crocolisk",
 "id": 1264758,
@@ -920,9 +926,21 @@
 "q": -1,
 "t": "s"
 },
+"Flamestrike": {
+"icon": "spell_fire_selfdestruct",
+"id": 2120,
+"q": -1,
+"t": "s"
+},
 "Flurry": {
 "icon": "ability_ghoulfrenzy",
 "id": 12319,
+"q": -1,
+"t": "s"
+},
+"Frostbolt": {
+"icon": "spell_frost_frostbolt02",
+"id": 116,
 "q": -1,
 "t": "s"
 },
@@ -959,6 +977,12 @@
 "Immolate": {
 "icon": "spell_fire_immolation",
 "id": 348,
+"q": -1,
+"t": "s"
+},
+"Impale": {
+"icon": "ability_searingarrow",
+"id": 16493,
 "q": -1,
 "t": "s"
 },
@@ -1046,6 +1070,12 @@
 "q": -1,
 "t": "s"
 },
+"Reckoning": {
+"icon": "spell_holy_blessingofstrength",
+"id": 20177,
+"q": -1,
+"t": "s"
+},
 "Redoubt": {
 "icon": "ability_defend",
 "id": 20127,
@@ -1127,6 +1157,12 @@
 "Slam": {
 "icon": "ability_warrior_decisivestrike",
 "id": 1464,
+"q": -1,
+"t": "s"
+},
+"Smite": {
+"icon": "spell_holy_holysmite",
+"id": 585,
 "q": -1,
 "t": "s"
 },
@@ -4409,7 +4445,7 @@
 },
 "i:271670": {
 "icon": "inv_jewelry_ring_12",
-"q": 3
+"q": 2
 },
 "i:271716": {
 "icon": "inv_misc_cape_21",
@@ -6833,6 +6869,14 @@
 },
 "s:20552": {
 "icon": "inv_misc_flower_01",
+"q": -1
+},
+"s:20554": {
+"icon": "racial_troll_berserk",
+"q": -1
+},
+"s:20572": {
+"icon": "racial_orc_berserkerstrength",
 "q": -1
 },
 "s:20594": {
@@ -14432,11 +14476,23 @@
 "q": 1,
 "t": "i"
 },
+"Curl of Life": {
+"icon": "inv_jewelry_ring_12",
+"id": 271670,
+"q": 2,
+"t": "i"
+},
 "Curse of Exhaustion": {
 "icon": "spell_shadow_grimward",
 "id": 18223,
 "q": -1,
 "t": "s"
+},
+"Daewyn's Girdle": {
+"icon": "inv_belt_16",
+"id": 271769,
+"q": 2,
+"t": "i"
 },
 "Dagger of Veiled Shadows": {
 "icon": "inv_weapon_shortblade_27",
@@ -14558,6 +14614,12 @@
 "q": -1,
 "t": "s"
 },
+"Deep Wounds": {
+"icon": "ability_backstab",
+"id": 12834,
+"q": -1,
+"t": "s"
+},
 "Defensive Stance": {
 "icon": "ability_warrior_defensivestance",
 "id": 71,
@@ -14570,6 +14632,12 @@
 "q": 3,
 "t": "i"
 },
+"Demonic Brand": {
+"icon": "ability_demonhunter_chaoticimprint_fire",
+"id": 1293695,
+"q": -1,
+"t": "s"
+},
 "Demonic Pact": {
 "icon": "inv_ability_soulharvesterwarlock_demonicsoul",
 "id": 425464,
@@ -14579,6 +14647,18 @@
 "Demonic Sacrifice": {
 "icon": "spell_shadow_psychicscream",
 "id": 18788,
+"q": -1,
+"t": "s"
+},
+"Demoralizing Roar": {
+"icon": "ability_druid_demoralizingroar",
+"id": 99,
+"q": -1,
+"t": "s"
+},
+"Demoralizing Shout": {
+"icon": "ability_warrior_warcry",
+"id": 1160,
 "q": -1,
 "t": "s"
 },
@@ -14622,6 +14702,12 @@
 "icon": "inv_diablostone",
 "id": 13584,
 "q": 3,
+"t": "i"
+},
+"Dirt-Heavy Bracers": {
+"icon": "inv_bracer_04",
+"id": 271732,
+"q": 2,
 "t": "i"
 },
 "Disease Cleansing Totem": {
@@ -14702,6 +14788,18 @@
 "q": 4,
 "t": "i"
 },
+"Dreambough Wand": {
+"alt": {
+"icon": "inv_wand_04",
+"id": 1248509,
+"q": 2,
+"t": "s"
+},
+"icon": "inv_wand_04",
+"id": 249234,
+"q": 2,
+"t": "i"
+},
 "Dryad's Wrist Bindings": {
 "icon": "inv_bracer_13",
 "id": 19597,
@@ -14738,6 +14836,12 @@
 "q": -1,
 "t": "s"
 },
+"Edward's Knife": {
+"icon": "inv_weapon_shortblade_14",
+"id": 251485,
+"q": 2,
+"t": "i"
+},
 "Electrified Dagger": {
 "icon": "inv_weapon_shortblade_15",
 "id": 19100,
@@ -14747,6 +14851,12 @@
 "Electromagnetic Gigaflux Reactivator": {
 "icon": "spell_lightning_lightningbolt01",
 "id": 11826,
+"q": -1,
+"t": "s"
+},
+"Elemental Focus": {
+"icon": "spell_shadow_manaburn",
+"id": 16164,
 "q": -1,
 "t": "s"
 },
@@ -15176,6 +15286,12 @@
 "q": -1,
 "t": "s"
 },
+"Fireball": {
+"icon": "spell_fire_flamebolt",
+"id": 133,
+"q": -1,
+"t": "s"
+},
 "Firebloom": {
 "alt": {
 "icon": "inv_misc_flower_02",
@@ -15554,6 +15670,12 @@
 "q": -1,
 "t": "s"
 },
+"Furious Precision": {
+"icon": "ability_warrior_incite",
+"id": 1323963,
+"q": -1,
+"t": "s"
+},
 "Furs of the Earthen Ring": {
 "icon": "inv_misc_cape_04",
 "id": 271719,
@@ -15734,6 +15856,12 @@
 "q": 1,
 "t": "i"
 },
+"Gore Drinker": {
+"icon": "racial_troll_berserk",
+"id": 1323967,
+"q": -1,
+"t": "s"
+},
 "Gourmand": {
 "icon": "inv_misc_food_64",
 "id": 1225499,
@@ -15755,6 +15883,18 @@
 "Greater Darkmoon Prize": {
 "icon": "inv_misc_bag_21",
 "id": 19296,
+"q": 2,
+"t": "i"
+},
+"Greater Eternal Wand": {
+"alt": {
+"icon": "inv_wand_14",
+"id": 1248515,
+"q": 2,
+"t": "s"
+},
+"icon": "inv_wand_14",
+"id": 249237,
 "q": 2,
 "t": "i"
 },
@@ -15919,6 +16059,12 @@
 "id": 5442,
 "q": 1,
 "t": "i"
+},
+"Heal": {
+"icon": "spell_holy_heal",
+"id": 2054,
+"q": -1,
+"t": "s"
 },
 "Healing Potion": {
 "alt": {
@@ -16175,7 +16321,7 @@
 "Hornbeam Heft": {
 "icon": "inv_axe_01",
 "id": 271664,
-"q": 3,
+"q": 2,
 "t": "i"
 },
 "Horrible Rootcore": {
@@ -16391,7 +16537,7 @@
 "Ironwood Destroyer": {
 "icon": "inv_hammer_16",
 "id": 271667,
-"q": 3,
+"q": 2,
 "t": "i"
 },
 "Jingling Bell": {
@@ -16454,6 +16600,12 @@
 "q": 1,
 "t": "i"
 },
+"Knife-Polishing Rag": {
+"icon": "inv_bracer_10",
+"id": 271740,
+"q": 2,
+"t": "i"
+},
 "Knock Away": {
 "icon": "inv_gauntlets_05",
 "id": 10101,
@@ -16490,6 +16642,12 @@
 "q": 1,
 "t": "i"
 },
+"Last Stand": {
+"icon": "spell_holy_ashestoashes",
+"id": 12975,
+"q": -1,
+"t": "s"
+},
 "Last Year's Mutton": {
 "icon": "inv_misc_food_18",
 "id": 19293,
@@ -16517,6 +16675,12 @@
 "Leader of the Pack": {
 "icon": "spell_nature_unyeildingstamina",
 "id": 17007,
+"q": -1,
+"t": "s"
+},
+"Leather": {
+"icon": "inv_chest_leather_09",
+"id": 9077,
 "q": -1,
 "t": "s"
 },
@@ -16573,6 +16737,24 @@
 "id": 19297,
 "q": 2,
 "t": "i"
+},
+"Lesser Eternal Wand": {
+"alt": {
+"icon": "inv_wand_05",
+"id": 1248505,
+"q": 2,
+"t": "s"
+},
+"icon": "inv_wand_05",
+"id": 249232,
+"q": 2,
+"t": "i"
+},
+"Lesser Heal": {
+"icon": "spell_holy_lesserheal",
+"id": 2050,
+"q": -1,
+"t": "s"
 },
 "Lesser Healing Potion": {
 "alt": {
@@ -16753,6 +16935,12 @@
 "id": 2589,
 "q": 1,
 "t": "i"
+},
+"Lingering Rage": {
+"icon": "ability_warrior_secondwind",
+"id": 1323964,
+"q": -1,
+"t": "s"
 },
 "Living Essence": {
 "icon": "spell_nature_abolishmagic",
@@ -17132,6 +17320,18 @@
 "q": 1,
 "t": "i"
 },
+"Minor Wizard Oil": {
+"alt": {
+"icon": "inv_poison_mindnumbing",
+"id": 25124,
+"q": 1,
+"t": "s"
+},
+"icon": "inv_poison_mindnumbing",
+"id": 20744,
+"q": 1,
+"t": "i"
+},
 "Missile Barrage": {
 "icon": "ability_mage_missilebarrage",
 "id": 400588,
@@ -17252,6 +17452,12 @@
 "q": 2,
 "t": "i"
 },
+"Natural Instinct": {
+"icon": "ability_druid_predatoryinstincts",
+"id": 1223242,
+"q": -1,
+"t": "s"
+},
 "Nature's Splendor": {
 "icon": "spell_nature_natureresistancetotem",
 "id": 1223083,
@@ -17286,6 +17492,18 @@
 "icon": "inv_misc_book_11",
 "id": 18401,
 "q": 4,
+"t": "i"
+},
+"Novice's Practice Wand": {
+"alt": {
+"icon": "inv_weapon_shortblade_09",
+"id": 1245321,
+"q": 1,
+"t": "s"
+},
+"icon": "inv_weapon_shortblade_09",
+"id": 247789,
+"q": 1,
 "t": "i"
 },
 "Nutritious Slime Sludge": {
@@ -18308,6 +18526,12 @@
 "q": -1,
 "t": "s"
 },
+"Resurrection Sickness": {
+"icon": "spell_shadow_deathscream",
+"id": 15007,
+"q": -1,
+"t": "s"
+},
 "Retribution Aura": {
 "icon": "spell_holy_auraoflight",
 "id": 7294,
@@ -18539,7 +18763,7 @@
 },
 "icon": "inv_misc_bag_08",
 "id": 280766,
-"q": 3,
+"q": 2,
 "t": "i"
 },
 "Savage Coast Blue Sailfin": {
@@ -18739,6 +18963,12 @@
 "id": 279945,
 "q": 1,
 "t": "i"
+},
+"Shadow Bolt": {
+"icon": "spell_shadow_shadowbolt",
+"id": 686,
+"q": -1,
+"t": "s"
 },
 "Shadow Weaving": {
 "icon": "spell_shadow_blackplague",
@@ -19610,6 +19840,12 @@
 "q": 3,
 "t": "i"
 },
+"Tabitha's Cuffs": {
+"icon": "inv_bracer_10",
+"id": 251486,
+"q": 2,
+"t": "i"
+},
 "Tactical Mastery": {
 "icon": "spell_nature_enchantarmor",
 "id": 1310185,
@@ -19834,7 +20070,7 @@
 },
 "Titan Relic": {
 "icon": "inv_pet_scorchedstone",
-"id": 270866,
+"id": 287959,
 "q": 1,
 "t": "i"
 },
@@ -20066,6 +20302,18 @@
 "q": -1,
 "t": "s"
 },
+"Twisted Nether Wand": {
+"alt": {
+"icon": "inv_wand_03",
+"id": 1248461,
+"q": 2,
+"t": "s"
+},
+"icon": "inv_wand_03",
+"id": 249144,
+"q": 2,
+"t": "i"
+},
 "Two-Handed Weapon Specialization": {
 "icon": "inv_axe_09",
 "id": 12163,
@@ -20095,6 +20343,12 @@
 "id": 280699,
 "q": 1,
 "t": "i"
+},
+"Unleashed Fury": {
+"icon": "ability_bullrush",
+"id": 19616,
+"q": -1,
+"t": "s"
 },
 "Unusual Herb Seeds": {
 "icon": "inv_farm_pumpkinseed_green",
@@ -20471,6 +20725,12 @@
 "Wrack": {
 "icon": "ability_deathknight_hemorrhagicfever",
 "id": 1316697,
+"q": -1,
+"t": "s"
+},
+"Wrath": {
+"icon": "spell_nature_abolishmagic",
+"id": 5176,
 "q": -1,
 "t": "s"
 },

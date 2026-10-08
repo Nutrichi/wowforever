@@ -3,7 +3,7 @@ title: "City of Dalaran : le guide du donjon pour WoW Forever"
 metaTitle: "City of Dalaran dans WoW Forever : entrées, boss et tactiques"
 description: "City of Dalaran, un nouveau donjon de WoW Forever : l’entrée par les égouts pour l’Alliance et le tunnel pour la Horde, les monstres arcaniques, et les sept boss avec leurs tactiques."
 short: "City of Dalaran"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: fr
 faq:
   - q: "Quel niveau pour la City of Dalaran dans WoW Forever ?"
@@ -36,7 +36,7 @@ La City of Dalaran est l’un des nouveaux donjons de WoW Forever. Le dôme viol
 | Attention | Presque tous les monstres sont insensibles à l’Arcane |
 | Abréviation | CoD |
 
-La bêta va jusqu’au niveau 30 depuis le 1er octobre. Les derniers boss sont au-dessus, donc Wowhead ne connaît pas encore toutes leurs mécaniques.
+Depuis la [build de la bêta du 8 octobre](/fr/news/city-of-dalaran-opens-in-the-fourth-beta-week/), le donjon peut être testé sur la bêta. La bêta va jusqu’au niveau 30 depuis le 1er octobre. Les derniers boss sont au-dessus, donc Wowhead ne connaît pas encore toutes leurs mécaniques.
 
 ## Comment s’y rendre
 

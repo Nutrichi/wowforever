@@ -3,7 +3,7 @@ title: "City of Dalaran: de dungeongids voor WoW Forever"
 metaTitle: "City of Dalaran in WoW Forever: ingangen, bazen en tactiek"
 description: "City of Dalaran, een nieuwe dungeon in WoW Forever: de weg naar binnen via de riolen voor de Alliance en de tunnel voor de Horde, de arcane trash, en de zeven bazen met hun tactiek."
 short: "City of Dalaran"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: nl
 faq:
   - q: "Welk level is de City of Dalaran in WoW Forever?"
@@ -36,7 +36,7 @@ De City of Dalaran is een van de nieuwe dungeons van WoW Forever. De violette ko
 | Let op | Bijna elk monster is immuun voor Arcane |
 | Korte naam | CoD |
 
-De beta gaat sinds 1 oktober tot level 30. De laatste bazen liggen daarboven, dus Wowhead kent nog niet al hun mechanieken.
+Sinds de [betabuild van 8 oktober](/nl/news/city-of-dalaran-opens-in-the-fourth-beta-week/) kan de dungeon getest worden op de beta. De beta gaat sinds 1 oktober tot level 30. De laatste bazen liggen daarboven, dus Wowhead kent nog niet al hun mechanieken.
 
 ## De weg erheen
 

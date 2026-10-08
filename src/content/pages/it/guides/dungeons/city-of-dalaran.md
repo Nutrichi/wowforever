@@ -3,7 +3,7 @@ title: "City of Dalaran: la guida al dungeon per WoW Forever"
 metaTitle: "City of Dalaran in WoW Forever: ingressi, boss e tattiche"
 description: "City of Dalaran, un nuovo dungeon di WoW Forever: l’ingresso dalle fogne per l’Alliance e dal tunnel per la Horde, i nemici arcani e i sette boss con le loro tattiche."
 short: "City of Dalaran"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: it
 faq:
   - q: "Che livello è la City of Dalaran in WoW Forever?"
@@ -36,7 +36,7 @@ La City of Dalaran è uno dei nuovi dungeon di WoW Forever. La cupola viola into
 | Attenzione | Quasi tutti i mostri sono immuni all’Arcane |
 | Nome breve | CoD |
 
-La beta arriva al livello 30 dal 1° ottobre. Gli ultimi boss sono più in alto, quindi Wowhead non conosce ancora tutte le loro meccaniche.
+Dalla [build della beta dell'8 ottobre](/it/news/city-of-dalaran-opens-in-the-fourth-beta-week/), il dungeon si può provare nella beta. La beta arriva al livello 30 dal 1° ottobre. Gli ultimi boss sono più in alto, quindi Wowhead non conosce ancora tutte le loro meccaniche.
 
 ## Come arrivarci
 
