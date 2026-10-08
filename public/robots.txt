@@ -71,3 +71,4 @@ User-agent: YouBot
 Allow: /
 
 Sitemap: https://wowforever.be/sitemap.xml
+Sitemap: https://wowforever.be/news-sitemap.xml

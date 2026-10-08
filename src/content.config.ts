@@ -30,6 +30,12 @@ const postFields = ({ image }: SchemaContext) => ({
   /** De samenvatting onder de titel én de metabeschrijving van de pagina. */
   description: z.string(),
   date: z.coerce.date(),
+  /**
+   * Wanneer de post na het verschijnen inhoudelijk is bijgewerkt, met tijdstip
+   * zoals `date` (8 oktober 2026). Gaat als dateModified in de JSON-LD en als
+   * lastmod in de sitemap. Zonder dit veld geldt `date`.
+   */
+  updated: z.coerce.date().optional(),
   /** Engelse bron blijft de waarheid; een vertaling verwijst hiernaar. */
   lang: z.enum(locales).default('en'),
   /** Zet op true om iets in het repo te hebben zonder het te publiceren. */

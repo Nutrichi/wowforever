@@ -16,6 +16,7 @@
  */
 import { defaultLocale, localeTags, type Locale } from '../i18n/ui';
 import { alternateLinks, useTranslations } from '../i18n/utils';
+import { rssPath } from '../lib/rss';
 import { getNav } from '../config/nav';
 import { ga4Id } from '../config/site';
 import Header from '../components/Header.astro';
@@ -188,6 +189,8 @@ gtag('config', '${ga4Id}');`;
       <link rel="alternate" hreflang={alt.hreflang} href={alt.href} />
     ))}
     {index && xDefault && <link rel="alternate" hreflang="x-default" href={xDefault.href} />}
+    <!-- De nieuwsfeed in de taal van de pagina (lib/rss.ts), zodat lezers en aggregators hem vinden. -->
+    <link rel="alternate" type="application/rss+xml" title={`${t('site.title')} RSS`} href={rssPath(locale)} />
 
     <!-- Alles gemaakt door tools/mkicon.py; Google wil een veelvoud van 48 px. -->
     <link rel="icon" href="/favicon.ico" sizes="48x48" />

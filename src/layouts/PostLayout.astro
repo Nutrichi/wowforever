@@ -66,11 +66,13 @@ const imageUrl = post.image
 
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'Article',
+  /* NewsArticle (8 oktober 2026): Google weegt bij nieuws het exacte tijdstip van verschijnen en bijwerken. */
+  '@type': 'NewsArticle',
   headline: post.title,
   description: post.description,
   /* Het volledige tijdstip: zo weet een zoekmachine welke post van dezelfde dag de nieuwste is. */
   datePublished: isoDateTime(post.date),
+  dateModified: isoDateTime(post.updated),
   inLanguage: post.lang,
   mainEntityOfPage: canonical,
   author: publisherJsonLd(Astro.site),
@@ -88,6 +90,9 @@ const jsonLd = {
   ogType="article"
 >
   <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+  <meta property="article:published_time" content={isoDateTime(post.date)} slot="head" />
+  <meta property="article:modified_time" content={isoDateTime(post.updated)} slot="head" />
+  <meta property="article:section" content={category?.label ?? post.category} slot="head" />
 
   <!--
     Pagefind (§15) indexeert alleen wat binnen data-pagefind-body staat: de

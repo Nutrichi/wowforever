@@ -45,6 +45,8 @@ export type Post = {
   title: string;
   description: string;
   date: Date;
+  /** Laatste inhoudelijke wijziging; zonder `updated` gelijk aan `date`. */
+  updated: Date;
   featured: boolean;
   tags: string[];
   source?: string;
@@ -112,6 +114,7 @@ function toPost(
     title: data.title,
     description: data.description,
     date: data.date,
+    updated: data.updated ?? data.date,
     featured: data.featured,
     tags: data.tags,
     source: data.source,

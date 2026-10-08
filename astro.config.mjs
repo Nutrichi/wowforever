@@ -1,8 +1,27 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import { readFileSync } from 'node:fs';
 import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import whAutolink from './src/plugins/rehype-wh-autolink.mjs';
+
+/*
+ * lastmod in de sitemap (8 oktober 2026). De sitemap wordt geschreven nadat
+ * alle pagina's in dist staan; per adres lezen we daar de dateModified uit de
+ * JSON-LD van die pagina. Posts, gidsen, pagina's en BiS-lijsten dragen die al,
+ * dus de sitemap zegt nooit iets anders dan de pagina zelf. Een pagina zonder
+ * dateModified (een overzicht, een calculator) krijgt geen lastmod.
+ */
+const distDir = new URL('./dist/', import.meta.url);
+function lastmodFor(url) {
+  const path = new URL(url).pathname;
+  const file = new URL(`.${path}${path.endsWith('/') ? 'index.html' : ''}`, distDir);
+  try {
+    return readFileSync(file, 'utf8').match(/"dateModified":"([^"]+)"/)?.[1];
+  } catch {
+    return undefined;
+  }
+}
 
 // https://astro.build/config
 export default defineConfig({
@@ -98,6 +117,11 @@ export default defineConfig({
         locales: { en: 'en', nl: 'nl', fr: 'fr', es: 'es', it: 'it', de: 'de' },
       },
       filter: (page) => !/\/(submit|privacy|support)\/?$/.test(new URL(page).pathname),
+      serialize(item) {
+        const lastmod = lastmodFor(item.url);
+        if (lastmod) item.lastmod = lastmod;
+        return item;
+      },
     }),
   ],
 

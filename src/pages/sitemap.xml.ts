@@ -10,6 +10,9 @@
  *
  * Eén deel volstaat: de integratie begint pas bij 45.000 adressen aan een
  * tweede. Komt er ooit een sitemap-1.xml bij, dan hoort die hier ook.
+ *
+ * Sinds 8 oktober 2026 staat ook de Google News-sitemap erin
+ * (news-sitemap.xml.ts): de posts van de laatste twee dagen.
  */
 
 import type { APIRoute } from 'astro';
@@ -19,6 +22,7 @@ export const GET: APIRoute = ({ site }) => {
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap><loc>${new URL('/sitemap-0.xml', base).href}</loc></sitemap>
+  <sitemap><loc>${new URL('/news-sitemap.xml', base).href}</loc></sitemap>
 </sitemapindex>
 `;
   return new Response(body, {

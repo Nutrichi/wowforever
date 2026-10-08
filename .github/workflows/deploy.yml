@@ -94,6 +94,41 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v5
 
+      # IndexNow (8 oktober 2026): Bing en de andere zoekmachines van IndexNow
+      # meteen laten weten welke posts nieuw zijn. ChatGPT Search en Copilot
+      # lezen de index van Bing, dus zo vinden ook die een post snel.
+      #
+      # Alleen na een push, niet na de geplande runs voor Clips en Streams:
+      # daar verandert geen post. De adressen komen uit news-sitemap.xml (de
+      # posts van de laatste twee dagen, in elke taal) plus de zes homepages.
+      # De sleutel is geen geheim: hij staat als bestand op de site
+      # (public/af8e1bae12c985be4b0720e37bebd179.txt), zo bewijst de site dat hij van ons is.
+      #
+      # Net als het seintje hieronder maakt een mislukking de run niet rood,
+      # maar wel een waarschuwing in het overzicht.
+      - name: IndexNow een seintje geven
+        if: github.event_name == 'push'
+        env:
+          INDEXNOW_KEY: af8e1bae12c985be4b0720e37bebd179
+        run: |
+          # Even wachten tot GitHub Pages de nieuwe versie overal serveert.
+          sleep 60
+          urls=$(curl -s https://wowforever.be/news-sitemap.xml | grep -o '<loc>[^<]*' | sed 's/<loc>//')
+          for l in "" nl/ fr/ es/ it/ de/; do urls="$urls"$'\n'"https://wowforever.be/$l"; done
+          body=$(printf '%s\n' "$urls" | grep . | jq -R . | jq -s --arg key "$INDEXNOW_KEY" \
+            '{host: "wowforever.be", key: $key, keyLocation: ("https://wowforever.be/" + $key + ".txt"), urlList: .}')
+          echo "$body" | jq -r '.urlList | length | "\(.) adressen"'
+
+          status=$(curl -s -o /tmp/indexnow-antwoord.txt -w '%{http_code}' -X POST \
+            -H 'Content-Type: application/json; charset=utf-8' \
+            --data "$body" https://api.indexnow.org/indexnow) || status=000
+          echo "IndexNow gaf $status"
+          case "$status" in
+            200|202) exit 0 ;;
+          esac
+          echo "::warning title=IndexNow niet gelukt::IndexNow gaf $status. $(head -c 300 /tmp/indexnow-antwoord.txt 2>/dev/null)"
+          exit 0
+
       # De iOS-app een seintje geven dat er nieuws is.
       #
       # Deze stap draait na elke geslaagde deploy, dus ook na de geplande runs
