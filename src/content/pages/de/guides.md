@@ -1,7 +1,7 @@
 ---
 title: "Guides für WoW Forever"
 metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
-description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, Camping, das BMAH, jedes Haustier, und die Routen, Klassenguides und Berufsguides der Seite."
+description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, die Night Watchman's Torch, Camping, das BMAH, jedes Haustier, und die Routen, Klassenguides und Berufsguides der Seite."
 short: "Guides"
 updated: 2026-10-09
 lang: de
@@ -45,6 +45,12 @@ Alle Dungeons von WoW Forever nach Level, mit allen Quests, stehen in der [Dunge
 | Guide | Worum es geht |
 |---|---|
 | [Cozy Sleeping Bag](/de/guides/cozy-sleeping-bag/) | Die Questreihe ab Level 14 durch vier Zonen bis zu einem Schlafsack, der zusätzliche Erfahrung gibt |
+
+## Gegenstände
+
+| Guide | Worum es geht |
+|---|---|
+| [Night Watchman's Torch](/de/guides/night-watchmans-torch/) | Eine Fackel, die 5 Minuten lang die Dunkelheit erhellt, von einem toten Wächter in Duskwood, der nur nachts erscheint |
 
 ## Camping
 

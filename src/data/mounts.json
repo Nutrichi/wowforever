@@ -1,0 +1,3647 @@
+{
+ "updated": "2026-10-09",
+ "mounts": [
+  {
+   "slug": "arctic-wolf",
+   "name": "Arctic Wolf",
+   "icon": "ability_mount_whitedirewolf",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Wolf Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-battlestrider",
+   "name": "Black Battlestrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 4,
+   "new": false,
+   "kind": "pvp",
+   "zones": [],
+   "level": 40,
+   "riding": "Mechanostrider Piloting",
+   "fast": true,
+   "source": {
+    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
+    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
+    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
+    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
+    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
+    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-devilsaur",
+   "name": "Black Devilsaur",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-druid-moose",
+   "name": "Black Druid Moose",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-qiraji-battle-tank",
+   "name": "Black Qiraji Battle Tank",
+   "icon": "inv_misc_qirajicrystal_05",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-ram",
+   "name": "Black Ram",
+   "icon": "ability_mount_mountainram",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Ram Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-skeletal-horse",
+   "name": "Black Skeletal Horse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Undead Horsemanship",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-stallion",
+   "name": "Black Stallion",
+   "icon": "ability_mount_ridinghorse",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Horse Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-war-kodo",
+   "name": "Black War Kodo",
+   "icon": "ability_mount_kodo_03",
+   "quality": 4,
+   "new": false,
+   "kind": "pvp",
+   "zones": [],
+   "level": 40,
+   "riding": "Kodo Riding",
+   "fast": true,
+   "source": {
+    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
+    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
+    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
+    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
+    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
+    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-war-ram",
+   "name": "Black War Ram",
+   "icon": "ability_mount_mountainram",
+   "quality": 4,
+   "new": false,
+   "kind": "pvp",
+   "zones": [],
+   "level": 40,
+   "riding": "Ram Riding",
+   "fast": true,
+   "source": {
+    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
+    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
+    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
+    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
+    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
+    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-war-raptor",
+   "name": "Black War Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 4,
+   "new": false,
+   "kind": "pvp",
+   "zones": [],
+   "level": 40,
+   "riding": "Raptor Riding",
+   "fast": true,
+   "source": {
+    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
+    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
+    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
+    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
+    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
+    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-war-steed",
+   "name": "Black War Steed",
+   "icon": "ability_mount_nightmarehorse",
+   "quality": 4,
+   "new": false,
+   "kind": "pvp",
+   "zones": [],
+   "level": 40,
+   "riding": "Horse Riding",
+   "fast": true,
+   "source": {
+    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
+    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
+    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
+    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
+    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
+    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-war-tiger",
+   "name": "Black War Tiger",
+   "icon": "ability_mount_blackpanther",
+   "quality": 4,
+   "new": false,
+   "kind": "pvp",
+   "zones": [],
+   "level": 40,
+   "riding": "Tiger Riding",
+   "fast": true,
+   "source": {
+    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
+    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
+    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
+    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
+    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
+    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-war-wolf",
+   "name": "Black War Wolf",
+   "icon": "ability_mount_blackdirewolf",
+   "quality": 4,
+   "new": false,
+   "kind": "pvp",
+   "zones": [],
+   "level": 40,
+   "riding": "Wolf Riding",
+   "fast": true,
+   "source": {
+    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
+    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
+    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
+    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
+    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
+    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-warden-saber",
+   "name": "Black Warden Saber",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "black-wolf",
+   "name": "Black Wolf",
+   "icon": "ability_mount_blackdirewolf",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Wolf Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "blue-devilsaur",
+   "name": "Blue Devilsaur",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "blue-mechanostrider",
+   "name": "Blue Mechanostrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Mechanostrider Piloting",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "blue-qiraji-battle-tank",
+   "name": "Blue Qiraji Battle Tank",
+   "icon": "inv_misc_qirajicrystal_04",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "blue-skeletal-horse",
+   "name": "Blue Skeletal Horse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Undead Horsemanship",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "brown-horse",
+   "name": "Brown Horse",
+   "icon": "ability_mount_ridinghorse",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Horse Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "brown-kodo",
+   "name": "Brown Kodo",
+   "icon": "ability_mount_kodo_03",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Kodo Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "brown-ram",
+   "name": "Brown Ram",
+   "icon": "ability_mount_mountainram",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Ram Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "brown-skeletal-horse",
+   "name": "Brown Skeletal Horse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Undead Horsemanship",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "brown-warden-saber",
+   "name": "Brown Warden Saber",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "brown-wolf",
+   "name": "Brown Wolf",
+   "icon": "ability_mount_blackdirewolf",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Wolf Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "caravan-kodo",
+   "name": "Caravan Kodo",
+   "icon": "ability_mount_kodo_03",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "cerulean-prideclaw",
+   "name": "Cerulean Prideclaw",
+   "icon": "inv_catskybornemount_c60_blue",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Journeyman Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "charger",
+   "name": "Charger",
+   "icon": "ability_mount_charger",
+   "quality": 1,
+   "new": false,
+   "kind": "class",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Class mount",
+    "nl": "Classmount",
+    "fr": "Monture de classe",
+    "es": "Montura de clase",
+    "it": "Cavalcatura di classe",
+    "de": "Klassenreittier"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "chestnut-mare",
+   "name": "Chestnut Mare",
+   "icon": "ability_mount_ridinghorse",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Horse Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "dark-skeletal-horse",
+   "name": "Dark Skeletal Horse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Undead Horsemanship",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "dire-wolf",
+   "name": "Dire Wolf",
+   "icon": "ability_mount_whitedirewolf",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Wolf Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "dreadsteed",
+   "name": "Dreadsteed",
+   "icon": "ability_mount_dreadsteed",
+   "quality": 1,
+   "new": false,
+   "kind": "class",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Class mount",
+    "nl": "Classmount",
+    "fr": "Monture de classe",
+    "es": "Montura de clase",
+    "it": "Cavalcatura di classe",
+    "de": "Klassenreittier"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "emerald-raptor",
+   "name": "Emerald Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Raptor Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "empyrean-galestrider",
+   "name": "Empyrean Galestrider",
+   "icon": "inv_craneskybornemount_c60_white",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Galestrider Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "felsteed",
+   "name": "Felsteed",
+   "icon": "spell_nature_swiftness",
+   "quality": 1,
+   "new": false,
+   "kind": "class",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Class mount",
+    "nl": "Classmount",
+    "fr": "Monture de classe",
+    "es": "Montura de clase",
+    "it": "Cavalcatura di classe",
+    "de": "Klassenreittier"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "forsaken-charger",
+   "name": "Forsaken Charger",
+   "icon": "ability_mount_charger",
+   "quality": 1,
+   "new": true,
+   "kind": "class",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Class mount",
+    "nl": "Classmount",
+    "fr": "Monture de classe",
+    "es": "Montura de clase",
+    "it": "Cavalcatura di classe",
+    "de": "Klassenreittier"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "frost-ram",
+   "name": "Frost Ram",
+   "icon": "ability_mount_mountainram",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Ram Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "frostsaber",
+   "name": "Frostsaber",
+   "icon": "ability_mount_whitetiger",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Tiger Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "frostwolf-howler",
+   "name": "Frostwolf Howler",
+   "icon": "inv_misc_horn_01",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": null,
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "golden-sabercat",
+   "name": "Golden Sabercat",
+   "icon": "ability_mount_jungletiger",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "gray-druid-moose",
+   "name": "Gray Druid Moose",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "gray-kodo",
+   "name": "Gray Kodo",
+   "icon": "ability_mount_kodo_01",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Kodo Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "gray-ram",
+   "name": "Gray Ram",
+   "icon": "ability_mount_mountainram",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Ram Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "gray-warden-saber",
+   "name": "Gray Warden Saber",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "gray-wolf",
+   "name": "Gray Wolf",
+   "icon": "ability_mount_whitedirewolf",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Wolf Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "great-brown-kodo",
+   "name": "Great Brown Kodo",
+   "icon": "ability_mount_kodo_03",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Kodo Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "great-gray-kodo",
+   "name": "Great Gray Kodo",
+   "icon": "ability_mount_kodo_01",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Kodo Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "great-white-kodo",
+   "name": "Great White Kodo",
+   "icon": "ability_mount_kodo_01",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Kodo Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "green-devilsaur",
+   "name": "Green Devilsaur",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "green-druid-moose",
+   "name": "Green Druid Moose",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "green-kodo",
+   "name": "Green Kodo",
+   "icon": "ability_mount_kodo_02",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Kodo Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "green-mechanostrider",
+   "name": "Green Mechanostrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Mechanostrider Piloting",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "green-qiraji-battle-tank",
+   "name": "Green Qiraji Battle Tank",
+   "icon": "inv_misc_qirajicrystal_03",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "green-skeletal-horse",
+   "name": "Green Skeletal Horse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Undead Horsemanship",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "green-skeletal-warhorse",
+   "name": "Green Skeletal Warhorse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Undead Horsemanship",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "icy-blue-mechanostrider",
+   "name": "Icy Blue Mechanostrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Mechanostrider Piloting",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "ivory-raptor",
+   "name": "Ivory Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Raptor Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "large-timber-wolf",
+   "name": "Large Timber Wolf",
+   "icon": "ability_mount_blackdirewolf",
+   "quality": 3,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
+   "level": 40,
+   "riding": "Wolf Riding",
+   "fast": false,
+   "source": {
+    "en": "Vendor: Ogunaro Wolfrunner",
+    "nl": "Verkoper: Ogunaro Wolfrunner",
+    "fr": "Marchand: Ogunaro Wolfrunner",
+    "es": "Vendedor: Ogunaro Wolfrunner",
+    "it": "Mercante: Ogunaro Wolfrunner",
+    "de": "Händler: Ogunaro Wolfrunner"
+   },
+   "where": {
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
+   }
+  },
+  {
+   "slug": "lavender-kodo",
+   "name": "Lavender Kodo",
+   "icon": "ability_mount_kodo_01",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Kodo Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "mottled-red-raptor",
+   "name": "Mottled Red Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Raptor Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "nightsaber",
+   "name": "Nightsaber",
+   "icon": "ability_mount_whitetiger",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Tiger Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "ochre-skeletal-warhorse",
+   "name": "Ochre Skeletal Warhorse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Undead Horsemanship",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "pack-kodo",
+   "name": "Pack Kodo",
+   "icon": "ability_mount_kodo_03",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Journeyman Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "palomino-stallion",
+   "name": "Palomino Stallion",
+   "icon": "ability_mount_ridinghorse",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Horse Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "pinto-horse",
+   "name": "Pinto Horse",
+   "icon": "ability_mount_ridinghorse",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Horse Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "purple-devilsaur",
+   "name": "Purple Devilsaur",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "purple-skeletal-horse",
+   "name": "Purple Skeletal Horse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Undead Horsemanship",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "purple-skeletal-warhorse",
+   "name": "Purple Skeletal Warhorse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Undead Horsemanship",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "red-mechanostrider",
+   "name": "Red Mechanostrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Mechanostrider Piloting",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "red-qiraji-battle-tank",
+   "name": "Red Qiraji Battle Tank",
+   "icon": "inv_misc_qirajicrystal_02",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "red-skeletal-horse",
+   "name": "Red Skeletal Horse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Undead Horsemanship",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "red-skeletal-warhorse",
+   "name": "Red Skeletal Warhorse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 4,
+   "new": false,
+   "kind": "pvp",
+   "zones": [],
+   "level": 40,
+   "riding": "Undead Horsemanship",
+   "fast": true,
+   "source": {
+    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
+    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
+    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
+    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
+    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
+    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "red-wolf",
+   "name": "Red Wolf",
+   "icon": "ability_mount_blackdirewolf",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Wolf Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "regal-galestrider",
+   "name": "Regal Galestrider",
+   "icon": "inv_craneskybornemount_c60_gray",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Galestrider Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "riding-kodo",
+   "name": "Riding Kodo",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "riding-turtle",
+   "name": "Riding Turtle",
+   "icon": "ability_hunter_pet_turtle",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 20,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "rivendares-deathcharger",
+   "name": "Rivendare's Deathcharger",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Journeyman Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "skeletal-horse",
+   "name": "Skeletal Horse",
+   "icon": "ability_mount_undeadhorse",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Undead Horsemanship",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "spectral-bear",
+   "name": "Spectral Bear",
+   "icon": "inv_bearmountblizzard",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Journeyman Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "spotted-frostsaber",
+   "name": "Spotted Frostsaber",
+   "icon": "ability_mount_whitetiger",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Tiger Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "stormpike-battle-charger",
+   "name": "Stormpike Battle Charger",
+   "icon": "ability_mount_mountainram",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": null,
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "stormy-galestrider",
+   "name": "Stormy Galestrider",
+   "icon": "inv_craneskybornemount_c60_blue",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Galestrider Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "striped-dawnsaber",
+   "name": "Striped Dawnsaber",
+   "icon": "ability_mount_jungletiger",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Tiger Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "striped-frostsaber",
+   "name": "Striped Frostsaber",
+   "icon": "ability_mount_whitetiger",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Tiger Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "striped-nightsaber",
+   "name": "Striped Nightsaber",
+   "icon": "ability_mount_blackpanther",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Tiger Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-blue-raptor",
+   "name": "Swift Blue Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Raptor Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-brown-ram",
+   "name": "Swift Brown Ram",
+   "icon": "ability_mount_mountainram",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Ram Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-brown-steed",
+   "name": "Swift Brown Steed",
+   "icon": "ability_mount_ridinghorse",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Horse Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-brown-wolf",
+   "name": "Swift Brown Wolf",
+   "icon": "ability_mount_blackdirewolf",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Wolf Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-empyrean-galestrider",
+   "name": "Swift Empyrean Galestrider",
+   "icon": "inv_craneskyborneswiftmount_c60_white",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Galestrider Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-frostsaber",
+   "name": "Swift Frostsaber",
+   "icon": "ability_mount_whitetiger",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Tiger Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-gray-ram",
+   "name": "Swift Gray Ram",
+   "icon": "ability_mount_mountainram",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Ram Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-gray-wolf",
+   "name": "Swift Gray Wolf",
+   "icon": "ability_mount_whitedirewolf",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Wolf Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-green-mechanostrider",
+   "name": "Swift Green Mechanostrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Mechanostrider Piloting",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-hyjal-stag",
+   "name": "Swift Hyjal Stag",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-mistsaber",
+   "name": "Swift Mistsaber",
+   "icon": "ability_mount_whitetiger",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Tiger Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-olive-raptor",
+   "name": "Swift Olive Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Raptor Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-orange-raptor",
+   "name": "Swift Orange Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Raptor Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-palomino",
+   "name": "Swift Palomino",
+   "icon": "ability_mount_ridinghorse",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Horse Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-razzashi-raptor",
+   "name": "Swift Razzashi Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Journeyman Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-regal-galestrider",
+   "name": "Swift Regal Galestrider",
+   "icon": "inv_craneskyborneswiftmount_c60_gray",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Galestrider Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-stormsaber",
+   "name": "Swift Stormsaber",
+   "icon": "ability_mount_whitetiger",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Tiger Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-stormy-galestrider",
+   "name": "Swift Stormy Galestrider",
+   "icon": "inv_craneskyborneswiftmount_c60_blue",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Galestrider Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-timber-wolf",
+   "name": "Swift Timber Wolf",
+   "icon": "ability_mount_whitedirewolf",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Wolf Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-umber-galestrider",
+   "name": "Swift Umber Galestrider",
+   "icon": "inv_craneskyborneswiftmount_c60_blue",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Galestrider Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-white-mechanostrider",
+   "name": "Swift White Mechanostrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Mechanostrider Piloting",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-white-ram",
+   "name": "Swift White Ram",
+   "icon": "ability_mount_mountainram",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Ram Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-white-steed",
+   "name": "Swift White Steed",
+   "icon": "ability_mount_ridinghorse",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Horse Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-yellow-mechanostrider",
+   "name": "Swift Yellow Mechanostrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Mechanostrider Piloting",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "swift-zulian-tiger",
+   "name": "Swift Zulian Tiger",
+   "icon": "ability_mount_jungletiger",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Journeyman Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "teal-kodo",
+   "name": "Teal Kodo",
+   "icon": "ability_mount_kodo_02",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Kodo Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "tiger",
+   "name": "Tiger",
+   "icon": "ability_mount_jungletiger",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Tiger Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "turquoise-raptor",
+   "name": "Turquoise Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Raptor Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "umber-galestrider",
+   "name": "Umber Galestrider",
+   "icon": "inv_craneskyborne_c60_green",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Galestrider Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "unpainted-mechanostrider",
+   "name": "Unpainted Mechanostrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Mechanostrider Piloting",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "venomhide-ravasaur",
+   "name": "Venomhide Ravasaur",
+   "icon": "ability_mount_raptor",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Raptor Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "veteran-adventurers-loyal-companion",
+   "name": "Veteran Adventurer's Loyal Companion",
+   "icon": "inv_dwarfbearmount_c60",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Apprentice Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "violet-raptor",
+   "name": "Violet Raptor",
+   "icon": "ability_mount_raptor",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Raptor Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "warhorse",
+   "name": "Warhorse",
+   "icon": "spell_nature_swiftness",
+   "quality": 1,
+   "new": false,
+   "kind": "class",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Class mount",
+    "nl": "Classmount",
+    "fr": "Monture de classe",
+    "es": "Montura de clase",
+    "it": "Cavalcatura di classe",
+    "de": "Klassenreittier"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "white-devilsaur",
+   "name": "White Devilsaur",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "white-druid-moose",
+   "name": "White Druid Moose",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "white-kodo",
+   "name": "White Kodo",
+   "icon": "ability_mount_kodo_01",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Kodo Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "white-mechanostrider",
+   "name": "White Mechanostrider",
+   "icon": "ability_mount_mechastrider",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Mechanostrider Piloting",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "white-ram",
+   "name": "White Ram",
+   "icon": "ability_mount_mountainram",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Ram Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "white-stallion",
+   "name": "White Stallion",
+   "icon": "ability_mount_ridinghorse",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Horse Riding",
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "white-warden-saber",
+   "name": "White Warden Saber",
+   "icon": null,
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": null,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "winter-wolf",
+   "name": "Winter Wolf",
+   "icon": "ability_mount_whitedirewolf",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 40,
+   "riding": "Wolf Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "winterspring-frostsaber",
+   "name": "Winterspring Frostsaber",
+   "icon": "ability_mount_pinktiger",
+   "quality": 4,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": null,
+   "fast": true,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "yellow-qiraji-battle-tank",
+   "name": "Yellow Qiraji Battle Tank",
+   "icon": "inv_misc_qirajicrystal_01",
+   "quality": 3,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": null,
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  }
+ ]
+}

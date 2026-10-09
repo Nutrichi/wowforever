@@ -4767,6 +4767,10 @@
 "icon": "inv_inscription_pigment_bug04",
 "q": 1
 },
+"i:280612": {
+"icon": "inv_torch_lit",
+"q": 2
+},
 "i:280614": {
 "icon": "inv_pachimarapet",
 "q": 4

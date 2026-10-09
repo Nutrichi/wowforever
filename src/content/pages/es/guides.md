@@ -1,7 +1,7 @@
 ---
 title: "Guías para WoW Forever"
 metaTitle: "Guías de WoW Forever: misiones de mazmorra, cadenas de misiones y más"
-description: "Todas las guías para WoW Forever en un solo lugar: la guía de mazmorras con cada misión de mazmorra, The Hall of Thanes y Ruins of Lordaeron, la cadena del Cozy Sleeping Bag, el camping, la BMAH, cada mascota, y las rutas, guías de clase y guías de profesión de la web."
+description: "Todas las guías para WoW Forever en un solo lugar: la guía de mazmorras con cada misión de mazmorra, The Hall of Thanes y Ruins of Lordaeron, la cadena del Cozy Sleeping Bag, la Night Watchman's Torch, el camping, la BMAH, cada mascota, y las rutas, guías de clase y guías de profesión de la web."
 short: "Guías"
 updated: 2026-10-09
 lang: es
@@ -45,6 +45,12 @@ Todas las mazmorras de WoW Forever por nivel, con todas sus misiones, están en 
 | Guía | Qué cubre |
 |---|---|
 | [Cozy Sleeping Bag](/es/guides/cozy-sleeping-bag/) | La cadena desde el nivel 14 por cuatro zonas hasta un saco de dormir que da experiencia extra |
+
+## Objetos
+
+| Guía | Qué cubre |
+|---|---|
+| [Night Watchman's Torch](/es/guides/night-watchmans-torch/) | Una antorcha que ilumina la oscuridad durante 5 minutos, de un guardia muerto en Duskwood que solo aparece de noche |
 
 ## Camping
 

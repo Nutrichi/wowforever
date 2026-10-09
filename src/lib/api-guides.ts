@@ -31,11 +31,12 @@ export function guidePath(page: SitePage): string {
   return page.key.slice('guides/'.length);
 }
 
-/** De rubriek in de app: dungeons, leveling, pets of de rest. */
-function sectionOf(path: string): 'dungeons' | 'leveling' | 'pets' | 'general' {
+/** De rubriek in de app: dungeons, leveling, pets, mounts of de rest. */
+function sectionOf(path: string): 'dungeons' | 'leveling' | 'pets' | 'mounts' | 'general' {
   if (path.startsWith('dungeons/')) return 'dungeons';
   if (path.startsWith('leveling/')) return 'leveling';
   if (path.startsWith('pets/')) return 'pets';
+  if (path.startsWith('mounts/')) return 'mounts';
   return 'general';
 }
 

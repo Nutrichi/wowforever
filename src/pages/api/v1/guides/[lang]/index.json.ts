@@ -1,9 +1,9 @@
 /*
  * /api/v1/guides/<taal>/index.json: alle gidsen in een taal, zonder tekst.
  *
- * De pets staan hier niet per stuk in: die komen als eigen lijst uit
- * /api/v1/guides/pets.json, met zoeken en filters in de app. Hun pagina's
- * bestaan wel als detail, voor wie er een opent.
+ * De pets en de mounts staan hier niet per stuk in: die komen als eigen lijst
+ * uit /api/v1/guides/pets.json en mounts.json, met zoeken en filters in de app.
+ * Hun pagina's bestaan wel als detail, voor wie er een opent.
  */
 
 import type { APIRoute, GetStaticPaths } from 'astro';
@@ -22,6 +22,7 @@ export const GET: APIRoute = async ({ params, site }) => {
     lang,
     channel: channelUrl(),
     pets: new URL('/api/v1/guides/pets.json', base).href,
-    guides: guides.filter((guide) => guide.section !== 'pets'),
+    mounts: new URL('/api/v1/guides/mounts.json', base).href,
+    guides: guides.filter((guide) => guide.section !== 'pets' && guide.section !== 'mounts'),
   });
 };

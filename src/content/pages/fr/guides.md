@@ -1,7 +1,7 @@
 ---
 title: "Guides pour WoW Forever"
 metaTitle: "Guides WoW Forever : quêtes de donjon, chaînes de quêtes et plus"
-description: "Tous les guides pour WoW Forever au même endroit : le guide des donjons avec chaque quête de donjon, The Hall of Thanes et les Ruins of Lordaeron, la chaîne du Cozy Sleeping Bag, le camping, la BMAH, chaque mascotte, et les routes, guides de classe et guides de métier du site."
+description: "Tous les guides pour WoW Forever au même endroit : le guide des donjons avec chaque quête de donjon, The Hall of Thanes et les Ruins of Lordaeron, la chaîne du Cozy Sleeping Bag, la Night Watchman's Torch, le camping, la BMAH, chaque mascotte, et les routes, guides de classe et guides de métier du site."
 short: "Guides"
 updated: 2026-10-09
 lang: fr
@@ -45,6 +45,12 @@ Tous les donjons de WoW Forever par niveau, avec toutes leurs quêtes, sont dans
 | Guide | Ce qu'il couvre |
 |---|---|
 | [Cozy Sleeping Bag](/fr/guides/cozy-sleeping-bag/) | La chaîne dès le niveau 14 à travers quatre zones jusqu'à un sac de couchage qui donne de l'expérience en plus |
+
+## Objets
+
+| Guide | Ce qu'il couvre |
+|---|---|
+| [Night Watchman's Torch](/fr/guides/night-watchmans-torch/) | Une torche qui éclaire l'obscurité pendant 5 minutes, sur un garde mort à Duskwood qui n'apparaît que la nuit |
 
 ## Camping
 
