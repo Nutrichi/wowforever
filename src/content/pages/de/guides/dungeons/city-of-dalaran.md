@@ -121,7 +121,9 @@ Erst erreichbar, wenn die Bosse um ihn tot sind und seine Manabarriere bricht. S
 
 ### Lyn the Ignored, ein Rare
 
-Ihre Mechaniken sind noch nicht bekannt.
+Lyn the Ignored erscheint nur, wenn man sie beschwört. Nehmt den <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276561"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Tome</a> aus dem Raum von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4275">Archmage Arugal</a> in Shadowfang Keep mit und benutzt ihn am Ambermill Leyline Focus, dem blauen Kristall neben <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2120">Archmage Ataeric</a> in Ambermill (/way 63.4 64.3): Er wird zum <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=275989"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tome of Dalaran</a>. Geht im Dungeon durch die Underbelly an Atrexis the Grave Knight vorbei. Vor der Rampe zur Arcane Anomaly geht geradeaus in den kleinen Raum und benutzt das Buch am Beschwörungskreis. Jeder Schritt, mit Screenshots, steht im [Beitrag über den Tome of Dalaran](/de/news/the-tome-of-dalaran-summons-lyn-the-ignored/).
+
+Die Mechaniken des Kampfes sind noch nicht bekannt.
 
 ### Shade of the Archmage
 

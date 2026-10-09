@@ -121,7 +121,9 @@ Pas bereikbaar zodra de bazen rond hem dood zijn en zijn manabarrière breekt. Z
 
 ### Lyn the Ignored, een rare
 
-Haar mechanieken zijn nog niet bekend.
+Lyn the Ignored verschijnt alleen als je haar oproept. Neem de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276561"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Tome</a> mee uit de kamer van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4275">Archmage Arugal</a> in Shadowfang Keep en gebruik hem bij de Ambermill Leyline Focus, het blauwe kristal naast <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2120">Archmage Ataeric</a> in Ambermill (/way 63.4 64.3): hij wordt de <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=275989"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tome of Dalaran</a>. Ga in de dungeon door de Underbelly en voorbij Atrexis the Grave Knight. Ga voor de helling naar de Arcane Anomaly rechtdoor het kleine kamertje in en gebruik het boek op de oproepcirkel. Elke stap, met schermafdrukken, staat in de [post over de Tome of Dalaran](/nl/news/the-tome-of-dalaran-summons-lyn-the-ignored/).
+
+De mechanieken van het gevecht zijn nog niet bekend.
 
 ### Shade of the Archmage
 

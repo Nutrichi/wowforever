@@ -121,7 +121,9 @@ Raggiungibile solo quando i boss intorno a lui sono morti e la sua barriera di m
 
 ### Lyn the Ignored, una rara
 
-Le sue meccaniche non sono ancora note.
+Lyn the Ignored appare solo se evocata. Prendi il <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276561"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Tome</a> nella sala di <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4275">Archmage Arugal</a> a Shadowfang Keep e usalo all'Ambermill Leyline Focus, il cristallo blu accanto a <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2120">Archmage Ataeric</a> ad Ambermill (/way 63.4 64.3): diventa il <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=275989"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tome of Dalaran</a>. Nel dungeon, attraversa l'Underbelly e supera Atrexis the Grave Knight. Prima della rampa verso l'Arcane Anomaly, entra dritto nella piccola stanza e usa il libro sul cerchio di evocazione. Ogni passo, con gli screenshot, è nell'[articolo sul Tome of Dalaran](/it/news/the-tome-of-dalaran-summons-lyn-the-ignored/).
+
+Le meccaniche dello scontro non sono ancora note.
 
 ### Shade of the Archmage
 
