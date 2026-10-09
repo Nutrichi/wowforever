@@ -1,0 +1,2357 @@
+{
+ "updated": "2026-09-30",
+ "pets": [
+  {
+   "slug": "albino-snapjaw",
+   "name": "Albino Snapjaw",
+   "icon": "inv_egg_03",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "ancona-chicken",
+   "name": "Ancona Chicken",
+   "icon": "inv_chicken2_black",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Thousand Needles"
+   ],
+   "source": {
+    "en": "Vendor: Magus Tirth, 1 gold",
+    "nl": "Verkoper: Magus Tirth, 1 goud",
+    "fr": "Marchand: Magus Tirth, 1 po",
+    "es": "Vendedor: Magus Tirth, 1 de oro",
+    "it": "Mercante: Magus Tirth, 1 d'oro",
+    "de": "Händler: Magus Tirth, 1 Gold"
+   },
+   "where": {
+    "en": "Thousand Needles",
+    "nl": "Thousand Needles",
+    "fr": "Thousand Needles",
+    "es": "Thousand Needles",
+    "it": "Thousand Needles",
+    "de": "Thousand Needles"
+   }
+  },
+  {
+   "slug": "arctic-hare",
+   "name": "Arctic Hare",
+   "icon": "inv_crate_02",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
+   "source": {
+    "en": "Vendor: Yarlyn Amberstill, 21 silver 5 copper",
+    "nl": "Verkoper: Yarlyn Amberstill, 21 zilver en 5 koper",
+    "fr": "Marchand: Yarlyn Amberstill, 21 pa 5 pc",
+    "es": "Vendedor: Yarlyn Amberstill, 21 de plata y 5 de cobre",
+    "it": "Mercante: Yarlyn Amberstill, 21 d'argento e 5 di rame",
+    "de": "Händler: Yarlyn Amberstill, 21 Silber 5 Kupfer"
+   },
+   "where": {
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
+   }
+  },
+  {
+   "slug": "azure-whelpling",
+   "name": "Azure Whelpling",
+   "icon": "inv_misc_head_dragon_blue",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "baby-crocolisk",
+   "name": "Baby Crocolisk",
+   "icon": "inv_pet_babycrocodile_toothy",
+   "quality": 2,
+   "new": true,
+   "kind": "drop",
+   "zones": [
+    "Stormwind City"
+   ],
+   "source": {
+    "en": "Drop: Sewer Beast",
+    "nl": "Drop: Sewer Beast",
+    "fr": "Butin: Sewer Beast",
+    "es": "Botín: Sewer Beast",
+    "it": "Bottino: Sewer Beast",
+    "de": "Beute: Sewer Beast"
+   },
+   "where": {
+    "en": "Stormwind City",
+    "nl": "Stormwind City",
+    "fr": "Stormwind City",
+    "es": "Stormwind City",
+    "it": "Stormwind City",
+    "de": "Stormwind City"
+   }
+  },
+  {
+   "slug": "baby-shark",
+   "name": "Baby Shark",
+   "icon": "inv_drink_19",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "bitter-baitling",
+   "name": "Bitter Baitling",
+   "icon": "ability_hunter_pet_worm",
+   "quality": 3,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Stranglethorn Vale"
+   ],
+   "source": {
+    "en": "Vendor: Jang, 1 Extravagant Extravaganza Coin",
+    "nl": "Verkoper: Jang, 1 Extravagant Extravaganza Coin",
+    "fr": "Marchand: Jang, 1 Extravagant Extravaganza Coin",
+    "es": "Vendedor: Jang, 1 Extravagant Extravaganza Coin",
+    "it": "Mercante: Jang, 1 Extravagant Extravaganza Coin",
+    "de": "Händler: Jang, 1 Extravagant Extravaganza Coin"
+   },
+   "where": {
+    "en": "Stranglethorn Vale",
+    "nl": "Stranglethorn Vale",
+    "fr": "Stranglethorn Vale",
+    "es": "Stranglethorn Vale",
+    "it": "Stranglethorn Vale",
+    "de": "Stranglethorn Vale"
+   }
+  },
+  {
+   "slug": "black-kingsnake",
+   "name": "Black Kingsnake",
+   "icon": "spell_nature_guardianward",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
+   "source": {
+    "en": "Vendor: Xan'tish, 50 silver",
+    "nl": "Verkoper: Xan'tish, 50 zilver",
+    "fr": "Marchand: Xan'tish, 50 pa",
+    "es": "Vendedor: Xan'tish, 50 de plata",
+    "it": "Mercante: Xan'tish, 50 d'argento",
+    "de": "Händler: Xan'tish, 50 Silber"
+   },
+   "where": {
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
+   }
+  },
+  {
+   "slug": "black-tabby",
+   "name": "Black Tabby",
+   "icon": "inv_box_petcarrier_01",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "Alterac Mountains",
+    "Silverpine Forest"
+   ],
+   "source": {
+    "en": "Drop: Dalaran Shield Guard (and 3 more)",
+    "nl": "Drop: Dalaran Shield Guard (en nog 3)",
+    "fr": "Butin: Dalaran Shield Guard (et 3 autres)",
+    "es": "Botín: Dalaran Shield Guard (y 3 más)",
+    "it": "Bottino: Dalaran Shield Guard (e altre 3)",
+    "de": "Beute: Dalaran Shield Guard (und 3 weitere)"
+   },
+   "where": {
+    "en": "Alterac Mountains and Silverpine Forest",
+    "nl": "Alterac Mountains en Silverpine Forest",
+    "fr": "Alterac Mountains et Silverpine Forest",
+    "es": "Alterac Mountains y Silverpine Forest",
+    "it": "Alterac Mountains e Silverpine Forest",
+    "de": "Alterac Mountains und Silverpine Forest"
+   }
+  },
+  {
+   "slug": "bombay",
+   "name": "Bombay",
+   "icon": "inv_box_petcarrier_01",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Elwynn Forest"
+   ],
+   "source": {
+    "en": "Vendor: Donni Anthania, 42 silver 10 copper",
+    "nl": "Verkoper: Donni Anthania, 42 zilver en 10 koper",
+    "fr": "Marchand: Donni Anthania, 42 pa 10 pc",
+    "es": "Vendedor: Donni Anthania, 42 de plata y 10 de cobre",
+    "it": "Mercante: Donni Anthania, 42 d'argento e 10 di rame",
+    "de": "Händler: Donni Anthania, 42 Silber 10 Kupfer"
+   },
+   "where": {
+    "en": "Elwynn Forest",
+    "nl": "Elwynn Forest",
+    "fr": "Elwynn Forest",
+    "es": "Elwynn Forest",
+    "it": "Elwynn Forest",
+    "de": "Elwynn Forest"
+   }
+  },
+  {
+   "slug": "bronze-whelpling",
+   "name": "Bronze Whelpling",
+   "icon": "inv_misc_head_dragon_bronze",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "brown-ground-squirrel",
+   "name": "Brown Ground Squirrel",
+   "icon": "ability_hunter_beastcall",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Thunder Bluff"
+   ],
+   "source": {
+    "en": "Vendor: Halpa, 52 silver 63 copper",
+    "nl": "Verkoper: Halpa, 52 zilver en 63 koper",
+    "fr": "Marchand: Halpa, 52 pa 63 pc",
+    "es": "Vendedor: Halpa, 52 de plata y 63 de cobre",
+    "it": "Mercante: Halpa, 52 d'argento e 63 di rame",
+    "de": "Händler: Halpa, 52 Silber 63 Kupfer"
+   },
+   "where": {
+    "en": "Thunder Bluff",
+    "nl": "Thunder Bluff",
+    "fr": "Thunder Bluff",
+    "es": "Thunder Bluff",
+    "it": "Thunder Bluff",
+    "de": "Thunder Bluff"
+   }
+  },
+  {
+   "slug": "brown-prairie-dog",
+   "name": "Brown Prairie Dog",
+   "icon": "ability_hunter_beastcall",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Thunder Bluff"
+   ],
+   "source": {
+    "en": "Vendor: Halpa, 50 silver",
+    "nl": "Verkoper: Halpa, 50 zilver",
+    "fr": "Marchand: Halpa, 50 pa",
+    "es": "Vendedor: Halpa, 50 de plata",
+    "it": "Mercante: Halpa, 50 d'argento",
+    "de": "Händler: Halpa, 50 Silber"
+   },
+   "where": {
+    "en": "Thunder Bluff",
+    "nl": "Thunder Bluff",
+    "fr": "Thunder Bluff",
+    "es": "Thunder Bluff",
+    "it": "Thunder Bluff",
+    "de": "Thunder Bluff"
+   }
+  },
+  {
+   "slug": "brown-rabbit",
+   "name": "Brown Rabbit",
+   "icon": "inv_crate_02",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
+   "source": {
+    "en": "Vendor: Yarlyn Amberstill, 21 silver 5 copper",
+    "nl": "Verkoper: Yarlyn Amberstill, 21 zilver en 5 koper",
+    "fr": "Marchand: Yarlyn Amberstill, 21 pa 5 pc",
+    "es": "Vendedor: Yarlyn Amberstill, 21 de plata y 5 de cobre",
+    "it": "Mercante: Yarlyn Amberstill, 21 d'argento e 5 di rame",
+    "de": "Händler: Yarlyn Amberstill, 21 Silber 5 Kupfer"
+   },
+   "where": {
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
+   }
+  },
+  {
+   "slug": "brown-snake",
+   "name": "Brown Snake",
+   "icon": "spell_nature_guardianward",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
+   "source": {
+    "en": "Vendor: Xan'tish, 50 silver",
+    "nl": "Verkoper: Xan'tish, 50 zilver",
+    "fr": "Marchand: Xan'tish, 50 pa",
+    "es": "Vendedor: Xan'tish, 50 de plata",
+    "it": "Mercante: Xan'tish, 50 d'argento",
+    "de": "Händler: Xan'tish, 50 Silber"
+   },
+   "where": {
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
+   }
+  },
+  {
+   "slug": "cockatiel",
+   "name": "Cockatiel",
+   "icon": "spell_nature_forceofnature",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Stranglethorn Vale"
+   ],
+   "source": {
+    "en": "Vendor: Narkk, 40 silver",
+    "nl": "Verkoper: Narkk, 40 zilver",
+    "fr": "Marchand: Narkk, 40 pa",
+    "es": "Vendedor: Narkk, 40 de plata",
+    "it": "Mercante: Narkk, 40 d'argento",
+    "de": "Händler: Narkk, 40 Silber"
+   },
+   "where": {
+    "en": "Stranglethorn Vale",
+    "nl": "Stranglethorn Vale",
+    "fr": "Stranglethorn Vale",
+    "es": "Stranglethorn Vale",
+    "it": "Stranglethorn Vale",
+    "de": "Stranglethorn Vale"
+   }
+  },
+  {
+   "slug": "cockroach",
+   "name": "Cockroach",
+   "icon": "spell_shadow_carrionswarm",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Undercity"
+   ],
+   "source": {
+    "en": "Vendor: Jeremiah Payson, 52 silver 63 copper",
+    "nl": "Verkoper: Jeremiah Payson, 52 zilver en 63 koper",
+    "fr": "Marchand: Jeremiah Payson, 52 pa 63 pc",
+    "es": "Vendedor: Jeremiah Payson, 52 de plata y 63 de cobre",
+    "it": "Mercante: Jeremiah Payson, 52 d'argento e 63 di rame",
+    "de": "Händler: Jeremiah Payson, 52 Silber 63 Kupfer"
+   },
+   "where": {
+    "en": "Undercity",
+    "nl": "Undercity",
+    "fr": "Undercity",
+    "es": "Undercity",
+    "it": "Undercity",
+    "de": "Undercity"
+   }
+  },
+  {
+   "slug": "condor-hatchling",
+   "name": "Condor Hatchling",
+   "icon": "inv_egg_03",
+   "quality": 2,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "cornish-rex",
+   "name": "Cornish Rex",
+   "icon": "inv_box_petcarrier_01",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Elwynn Forest"
+   ],
+   "source": {
+    "en": "Vendor: Donni Anthania, 42 silver 10 copper",
+    "nl": "Verkoper: Donni Anthania, 42 zilver en 10 koper",
+    "fr": "Marchand: Donni Anthania, 42 pa 10 pc",
+    "es": "Vendedor: Donni Anthania, 42 de plata y 10 de cobre",
+    "it": "Mercante: Donni Anthania, 42 d'argento e 10 di rame",
+    "de": "Händler: Donni Anthania, 42 Silber 10 Kupfer"
+   },
+   "where": {
+    "en": "Elwynn Forest",
+    "nl": "Elwynn Forest",
+    "fr": "Elwynn Forest",
+    "es": "Elwynn Forest",
+    "it": "Elwynn Forest",
+    "de": "Elwynn Forest"
+   }
+  },
+  {
+   "slug": "corrupted-kitten",
+   "name": "Corrupted Kitten",
+   "icon": "inv_box_petcarrier_01",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "crimson-snake",
+   "name": "Crimson Snake",
+   "icon": "spell_nature_guardianward",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
+   "source": {
+    "en": "Vendor: Xan'tish, 50 silver",
+    "nl": "Verkoper: Xan'tish, 50 zilver",
+    "fr": "Marchand: Xan'tish, 50 pa",
+    "es": "Vendedor: Xan'tish, 50 de plata",
+    "it": "Mercante: Xan'tish, 50 d'argento",
+    "de": "Händler: Xan'tish, 50 Silber"
+   },
+   "where": {
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
+   }
+  },
+  {
+   "slug": "crimson-whelpling",
+   "name": "Crimson Whelpling",
+   "icon": "inv_misc_head_dragon_01",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "Wetlands"
+   ],
+   "source": {
+    "en": "Drop: Flamesnorting Whelp (and 2 more)",
+    "nl": "Drop: Flamesnorting Whelp (en nog 2)",
+    "fr": "Butin: Flamesnorting Whelp (et 2 autres)",
+    "es": "Botín: Flamesnorting Whelp (y 2 más)",
+    "it": "Bottino: Flamesnorting Whelp (e altre 2)",
+    "de": "Beute: Flamesnorting Whelp (und 2 weitere)"
+   },
+   "where": {
+    "en": "Wetlands",
+    "nl": "Wetlands",
+    "fr": "Wetlands",
+    "es": "Wetlands",
+    "it": "Wetlands",
+    "de": "Wetlands"
+   }
+  },
+  {
+   "slug": "dark-whelpling",
+   "name": "Dark Whelpling",
+   "icon": "inv_misc_head_dragon_black",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "Badlands",
+    "Dustwallow Marsh"
+   ],
+   "source": {
+    "en": "Drop: Scalding Whelp (and 1 more)",
+    "nl": "Drop: Scalding Whelp (en nog 1)",
+    "fr": "Butin: Scalding Whelp (et 1 autres)",
+    "es": "Botín: Scalding Whelp (y 1 más)",
+    "it": "Bottino: Scalding Whelp (e altre 1)",
+    "de": "Beute: Scalding Whelp (und 1 weitere)"
+   },
+   "where": {
+    "en": "Badlands and Dustwallow Marsh",
+    "nl": "Badlands en Dustwallow Marsh",
+    "fr": "Badlands et Dustwallow Marsh",
+    "es": "Badlands y Dustwallow Marsh",
+    "it": "Badlands e Dustwallow Marsh",
+    "de": "Badlands und Dustwallow Marsh"
+   }
+  },
+  {
+   "slug": "disgusting-oozeling",
+   "name": "Disgusting Oozeling",
+   "icon": "ability_creature_poison_05",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "eagle-owl",
+   "name": "Eagle Owl",
+   "icon": "ability_eyeoftheowl",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Darnassus"
+   ],
+   "source": {
+    "en": "Vendor: Shylenai, 52 silver 63 copper",
+    "nl": "Verkoper: Shylenai, 52 zilver en 63 koper",
+    "fr": "Marchand: Shylenai, 52 pa 63 pc",
+    "es": "Vendedor: Shylenai, 52 de plata y 63 de cobre",
+    "it": "Mercante: Shylenai, 52 d'argento e 63 di rame",
+    "de": "Händler: Shylenai, 52 Silber 63 Kupfer"
+   },
+   "where": {
+    "en": "Darnassus",
+    "nl": "Darnassus",
+    "fr": "Darnassus",
+    "es": "Darnassus",
+    "it": "Darnassus",
+    "de": "Darnassus"
+   }
+  },
+  {
+   "slug": "emerald-whelpling",
+   "name": "Emerald Whelpling",
+   "icon": "inv_misc_head_dragon_green",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "Swamp of Sorrows"
+   ],
+   "source": {
+    "en": "Drop: Dreaming Whelp",
+    "nl": "Drop: Dreaming Whelp",
+    "fr": "Butin: Dreaming Whelp",
+    "es": "Botín: Dreaming Whelp",
+    "it": "Bottino: Dreaming Whelp",
+    "de": "Beute: Dreaming Whelp"
+   },
+   "where": {
+    "en": "Swamp of Sorrows",
+    "nl": "Swamp of Sorrows",
+    "fr": "Swamp of Sorrows",
+    "es": "Swamp of Sorrows",
+    "it": "Swamp of Sorrows",
+    "de": "Swamp of Sorrows"
+   }
+  },
+  {
+   "slug": "excitable-slime",
+   "name": "Excitable Slime",
+   "icon": "inv_maldraxxusslime",
+   "quality": 1,
+   "new": true,
+   "kind": "quest",
+   "zones": [
+    "Undercity"
+   ],
+   "source": {
+    "en": "Quest: WRIGGLE.",
+    "nl": "Quest: WRIGGLE.",
+    "fr": "Quête: WRIGGLE.",
+    "es": "Misión: WRIGGLE.",
+    "it": "Missione: WRIGGLE.",
+    "de": "Quest: WRIGGLE."
+   },
+   "where": {
+    "en": "Undercity",
+    "nl": "Undercity",
+    "fr": "Undercity",
+    "es": "Undercity",
+    "it": "Undercity",
+    "de": "Undercity"
+   }
+  },
+  {
+   "slug": "father-winters-helper",
+   "name": "Father Winter's Helper",
+   "icon": "inv_holiday_christmas_present_03",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "festival-lantern",
+   "name": "Festival Lantern",
+   "icon": "achievement_worldevent_lunar",
+   "quality": 2,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "flowery-lashling",
+   "name": "Flowery Lashling",
+   "icon": "inv_10_herb_seed_magiccolor4",
+   "quality": 1,
+   "new": true,
+   "kind": "bmah",
+   "zones": [
+    "The Riverglades"
+   ],
+   "source": {
+    "en": "Black Market: Madam Swyndle",
+    "nl": "Black Market: Madam Swyndle",
+    "fr": "Marché noir: Madam Swyndle",
+    "es": "Mercado Negro: Madam Swyndle",
+    "it": "Mercato Nero: Madam Swyndle",
+    "de": "Schwarzmarkt: Madam Swyndle"
+   },
+   "where": {
+    "en": "The Riverglades",
+    "nl": "The Riverglades",
+    "fr": "The Riverglades",
+    "es": "The Riverglades",
+    "it": "The Riverglades",
+    "de": "The Riverglades"
+   }
+  },
+  {
+   "slug": "galestrider-chick",
+   "name": "Galestrider Chick",
+   "icon": "inv_pet_babycrane",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "great-horned-owl",
+   "name": "Great Horned Owl",
+   "icon": "ability_eyeoftheowl",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Darnassus"
+   ],
+   "source": {
+    "en": "Vendor: Shylenai, 50 silver",
+    "nl": "Verkoper: Shylenai, 50 zilver",
+    "fr": "Marchand: Shylenai, 50 pa",
+    "es": "Vendedor: Shylenai, 50 de plata",
+    "it": "Mercante: Shylenai, 50 d'argento",
+    "de": "Händler: Shylenai, 50 Silber"
+   },
+   "where": {
+    "en": "Darnassus",
+    "nl": "Darnassus",
+    "fr": "Darnassus",
+    "es": "Darnassus",
+    "it": "Darnassus",
+    "de": "Darnassus"
+   }
+  },
+  {
+   "slug": "green-wing-macaw",
+   "name": "Green Wing Macaw",
+   "icon": "spell_nature_forceofnature",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "The Deadmines"
+   ],
+   "source": {
+    "en": "Drop: Defias Pirate",
+    "nl": "Drop: Defias Pirate",
+    "fr": "Butin: Defias Pirate",
+    "es": "Botín: Defias Pirate",
+    "it": "Bottino: Defias Pirate",
+    "de": "Beute: Defias Pirate"
+   },
+   "where": {
+    "en": "The Deadmines",
+    "nl": "The Deadmines",
+    "fr": "The Deadmines",
+    "es": "The Deadmines",
+    "it": "The Deadmines",
+    "de": "The Deadmines"
+   }
+  },
+  {
+   "slug": "hawk-owl",
+   "name": "Hawk Owl",
+   "icon": "ability_eyeoftheowl",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Darnassus"
+   ],
+   "source": {
+    "en": "Vendor: Shylenai, 50 silver",
+    "nl": "Verkoper: Shylenai, 50 zilver",
+    "fr": "Marchand: Shylenai, 50 pa",
+    "es": "Vendedor: Shylenai, 50 de plata",
+    "it": "Mercante: Shylenai, 50 d'argento",
+    "de": "Händler: Shylenai, 50 Silber"
+   },
+   "where": {
+    "en": "Darnassus",
+    "nl": "Darnassus",
+    "fr": "Darnassus",
+    "es": "Darnassus",
+    "it": "Darnassus",
+    "de": "Darnassus"
+   }
+  },
+  {
+   "slug": "hawksbill-snapjaw",
+   "name": "Hawksbill Snapjaw",
+   "icon": "inv_egg_03",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "hippogryph-hatchling",
+   "name": "Hippogryph Hatchling",
+   "icon": "inv_egg_02",
+   "quality": 1,
+   "new": false,
+   "kind": "bmah",
+   "zones": [
+    "The Riverglades"
+   ],
+   "source": {
+    "en": "Black Market: Madam Swyndle",
+    "nl": "Black Market: Madam Swyndle",
+    "fr": "Marché noir: Madam Swyndle",
+    "es": "Mercado Negro: Madam Swyndle",
+    "it": "Mercato Nero: Madam Swyndle",
+    "de": "Schwarzmarkt: Madam Swyndle"
+   },
+   "where": {
+    "en": "The Riverglades",
+    "nl": "The Riverglades",
+    "fr": "The Riverglades",
+    "es": "The Riverglades",
+    "it": "The Riverglades",
+    "de": "The Riverglades"
+   }
+  },
+  {
+   "slug": "hyacinth-macaw",
+   "name": "Hyacinth Macaw",
+   "icon": "spell_nature_forceofnature",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "Stranglethorn Vale"
+   ],
+   "source": {
+    "en": "Drop: Bloodsail Sea Dog (and 5 more)",
+    "nl": "Drop: Bloodsail Sea Dog (en nog 5)",
+    "fr": "Butin: Bloodsail Sea Dog (et 5 autres)",
+    "es": "Botín: Bloodsail Sea Dog (y 5 más)",
+    "it": "Bottino: Bloodsail Sea Dog (e altre 5)",
+    "de": "Beute: Bloodsail Sea Dog (und 5 weitere)"
+   },
+   "where": {
+    "en": "Stranglethorn Vale",
+    "nl": "Stranglethorn Vale",
+    "fr": "Stranglethorn Vale",
+    "es": "Stranglethorn Vale",
+    "it": "Stranglethorn Vale",
+    "de": "Stranglethorn Vale"
+   }
+  },
+  {
+   "slug": "jubling",
+   "name": "Jubling",
+   "icon": "inv_egg_04",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "jungle-boa",
+   "name": "Jungle Boa",
+   "icon": "spell_nature_guardianward",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
+   "source": {
+    "en": "Vendor: Xan'tish, 52 silver 63 copper",
+    "nl": "Verkoper: Xan'tish, 52 zilver en 63 koper",
+    "fr": "Marchand: Xan'tish, 52 pa 63 pc",
+    "es": "Vendedor: Xan'tish, 52 de plata y 63 de cobre",
+    "it": "Mercante: Xan'tish, 52 d'argento e 63 di rame",
+    "de": "Händler: Xan'tish, 52 Silber 63 Kupfer"
+   },
+   "where": {
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
+   }
+  },
+  {
+   "slug": "leatherback-snapjaw",
+   "name": "Leatherback Snapjaw",
+   "icon": "inv_egg_03",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "lifelike-toad",
+   "name": "Lifelike Toad",
+   "icon": "inv_misc_monsterhead_03",
+   "quality": 1,
+   "new": false,
+   "kind": "crafted",
+   "zones": [],
+   "source": {
+    "en": "Crafted: Engineering 265",
+    "nl": "Gemaakt: Engineering 265",
+    "fr": "Fabriquée: Engineering 265",
+    "es": "Fabricada: Engineering 265",
+    "it": "Creata: Engineering 265",
+    "de": "Hergestellt: Engineering 265"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "lil-smoky",
+   "name": "Lil' Smoky",
+   "icon": "inv_mechagon_spareparts",
+   "quality": 1,
+   "new": false,
+   "kind": "crafted",
+   "zones": [],
+   "source": {
+    "en": "Crafted: Engineering 205",
+    "nl": "Gemaakt: Engineering 205",
+    "fr": "Fabriquée: Engineering 205",
+    "es": "Fabricada: Engineering 205",
+    "it": "Creata: Engineering 205",
+    "de": "Hergestellt: Engineering 205"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "loggerhead-snapjaw",
+   "name": "Loggerhead Snapjaw",
+   "icon": "inv_egg_02",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "lunar-lantern",
+   "name": "Lunar Lantern",
+   "icon": "achievement_worldevent_lunar",
+   "quality": 2,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "mechanical-chicken",
+   "name": "Mechanical Chicken",
+   "icon": "inv_pet_mechanicalchicken",
+   "quality": 1,
+   "new": false,
+   "kind": "quest",
+   "zones": [],
+   "source": {
+    "en": "Quest: An OOX of Your Own",
+    "nl": "Quest: An OOX of Your Own",
+    "fr": "Quête: An OOX of Your Own",
+    "es": "Misión: An OOX of Your Own",
+    "it": "Missione: An OOX of Your Own",
+    "de": "Quest: An OOX of Your Own"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "mechanical-squirrel",
+   "name": "Mechanical Squirrel",
+   "icon": "inv_crate_01",
+   "quality": 1,
+   "new": false,
+   "kind": "crafted",
+   "zones": [],
+   "source": {
+    "en": "Crafted: Engineering 75",
+    "nl": "Gemaakt: Engineering 75",
+    "fr": "Fabriquée: Engineering 75",
+    "es": "Fabricada: Engineering 75",
+    "it": "Creata: Engineering 75",
+    "de": "Hergestellt: Engineering 75"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "minfernal",
+   "name": "Minfernal",
+   "icon": "spell_shadow_summoninfernal",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "mini-diablo",
+   "name": "Mini Diablo",
+   "icon": "inv_diablofunsized_c60_red",
+   "quality": 3,
+   "new": false,
+   "kind": "edition",
+   "zones": [],
+   "source": {
+    "en": "Edition: Skyborne Epic Pack, Warcraft Forever Collection",
+    "nl": "Editie: Skyborne Epic Pack, Warcraft Forever Collection",
+    "fr": "Édition: Skyborne Epic Pack, Warcraft Forever Collection",
+    "es": "Edición: Skyborne Epic Pack, Warcraft Forever Collection",
+    "it": "Edizione: Skyborne Epic Pack, Warcraft Forever Collection",
+    "de": "Edition: Skyborne Epic Pack, Warcraft Forever Collection"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "mini-uber-diablo",
+   "name": "Mini Uber Diablo",
+   "icon": "inv_diablostone",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "minimule",
+   "name": "Minimule",
+   "icon": "inv_misc_food_54",
+   "quality": 2,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Redridge Mountains",
+    "The Barrens"
+   ],
+   "source": {
+    "en": "Vendor: Gishah, 1,500 Merchant's Favor",
+    "nl": "Verkoper: Gishah, 1.500 Merchant's Favor",
+    "fr": "Marchand: Gishah, 1.500 Merchant's Favor",
+    "es": "Vendedor: Gishah, 1.500 Merchant's Favor",
+    "it": "Mercante: Gishah, 1.500 Merchant's Favor",
+    "de": "Händler: Gishah, 1.500 Merchant's Favor"
+   },
+   "where": {
+    "en": "Redridge Mountains and The Barrens",
+    "nl": "Redridge Mountains en The Barrens",
+    "fr": "Redridge Mountains et The Barrens",
+    "es": "Redridge Mountains y The Barrens",
+    "it": "Redridge Mountains e The Barrens",
+    "de": "Redridge Mountains und The Barrens"
+   }
+  },
+  {
+   "slug": "musical-gustjumper",
+   "name": "Musical Gustjumper",
+   "icon": "inv_frog2_blue",
+   "quality": 1,
+   "new": true,
+   "kind": "object",
+   "zones": [
+    "Zephras Isle"
+   ],
+   "source": {
+    "en": "Found in the world: a frog that sings back",
+    "nl": "In de wereld: een kikker die terugzingt",
+    "fr": "Dans le monde: une grenouille qui chante",
+    "es": "En el mundo: una rana que canta",
+    "it": "Nel mondo: una rana che canta",
+    "de": "In der Welt: ein Frosch, der zurücksingt"
+   },
+   "where": {
+    "en": "Zephras Isle",
+    "nl": "Zephras Isle",
+    "fr": "Zephras Isle",
+    "es": "Zephras Isle",
+    "it": "Zephras Isle",
+    "de": "Zephras Isle"
+   }
+  },
+  {
+   "slug": "olive-snapjaw",
+   "name": "Olive Snapjaw",
+   "icon": "inv_egg_02",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "orange-tabby",
+   "name": "Orange Tabby",
+   "icon": "inv_box_petcarrier_01",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Elwynn Forest"
+   ],
+   "source": {
+    "en": "Vendor: Donni Anthania, 42 silver 10 copper",
+    "nl": "Verkoper: Donni Anthania, 42 zilver en 10 koper",
+    "fr": "Marchand: Donni Anthania, 42 pa 10 pc",
+    "es": "Vendedor: Donni Anthania, 42 de plata y 10 de cobre",
+    "it": "Mercante: Donni Anthania, 42 d'argento e 10 di rame",
+    "de": "Händler: Donni Anthania, 42 Silber 10 Kupfer"
+   },
+   "where": {
+    "en": "Elwynn Forest",
+    "nl": "Elwynn Forest",
+    "fr": "Elwynn Forest",
+    "es": "Elwynn Forest",
+    "it": "Elwynn Forest",
+    "de": "Elwynn Forest"
+   }
+  },
+  {
+   "slug": "pachimari",
+   "name": "Pachimari",
+   "icon": "inv_pachimarapet",
+   "quality": 4,
+   "new": true,
+   "kind": "edition",
+   "zones": [],
+   "source": {
+    "en": "Edition: Skyborne Epic Pack, Warcraft Forever Collection",
+    "nl": "Editie: Skyborne Epic Pack, Warcraft Forever Collection",
+    "fr": "Édition: Skyborne Epic Pack, Warcraft Forever Collection",
+    "es": "Edición: Skyborne Epic Pack, Warcraft Forever Collection",
+    "it": "Edizione: Skyborne Epic Pack, Warcraft Forever Collection",
+    "de": "Edition: Skyborne Epic Pack, Warcraft Forever Collection"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "panda-cub",
+   "name": "Panda Cub",
+   "icon": "inv_pandacub_c60_black",
+   "quality": 3,
+   "new": false,
+   "kind": "edition",
+   "zones": [],
+   "source": {
+    "en": "Edition: Skyborne Epic Pack, Warcraft Forever Collection",
+    "nl": "Editie: Skyborne Epic Pack, Warcraft Forever Collection",
+    "fr": "Édition: Skyborne Epic Pack, Warcraft Forever Collection",
+    "es": "Edición: Skyborne Epic Pack, Warcraft Forever Collection",
+    "it": "Edizione: Skyborne Epic Pack, Warcraft Forever Collection",
+    "de": "Edition: Skyborne Epic Pack, Warcraft Forever Collection"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "peddlefeet",
+   "name": "Peddlefeet",
+   "icon": "inv_ammo_arrow_02",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "pet-fish",
+   "name": "Pet Fish",
+   "icon": "inv_misc_fish_03",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "The Hinterlands"
+   ],
+   "source": {
+    "en": "Drop: Dreamwater Vicejaw",
+    "nl": "Drop: Dreamwater Vicejaw",
+    "fr": "Butin: Dreamwater Vicejaw",
+    "es": "Botín: Dreamwater Vicejaw",
+    "it": "Bottino: Dreamwater Vicejaw",
+    "de": "Beute: Dreamwater Vicejaw"
+   },
+   "where": {
+    "en": "The Hinterlands",
+    "nl": "The Hinterlands",
+    "fr": "The Hinterlands",
+    "es": "The Hinterlands",
+    "it": "The Hinterlands",
+    "de": "The Hinterlands"
+   }
+  },
+  {
+   "slug": "pet-stone",
+   "name": "Pet Stone",
+   "icon": "inv_stone_14",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "Feralas"
+   ],
+   "source": {
+    "en": "Drop: The Giant (and 1 more)",
+    "nl": "Drop: The Giant (en nog 1)",
+    "fr": "Butin: The Giant (et 1 autres)",
+    "es": "Botín: The Giant (y 1 más)",
+    "it": "Bottino: The Giant (e altre 1)",
+    "de": "Beute: The Giant (und 1 weitere)"
+   },
+   "where": {
+    "en": "Feralas",
+    "nl": "Feralas",
+    "fr": "Feralas",
+    "es": "Feralas",
+    "it": "Feralas",
+    "de": "Feralas"
+   }
+  },
+  {
+   "slug": "plagued-cockroach",
+   "name": "Plagued Cockroach",
+   "icon": "spell_shadow_carrionswarm",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Undercity"
+   ],
+   "source": {
+    "en": "Vendor: Jeremiah Payson, 52 silver 63 copper",
+    "nl": "Verkoper: Jeremiah Payson, 52 zilver en 63 koper",
+    "fr": "Marchand: Jeremiah Payson, 52 pa 63 pc",
+    "es": "Vendedor: Jeremiah Payson, 52 de plata y 63 de cobre",
+    "it": "Mercante: Jeremiah Payson, 52 d'argento e 63 di rame",
+    "de": "Händler: Jeremiah Payson, 52 Silber 63 Kupfer"
+   },
+   "where": {
+    "en": "Undercity",
+    "nl": "Undercity",
+    "fr": "Undercity",
+    "es": "Undercity",
+    "it": "Undercity",
+    "de": "Undercity"
+   }
+  },
+  {
+   "slug": "poley",
+   "name": "Poley",
+   "icon": "inv_belt_09",
+   "quality": 1,
+   "new": false,
+   "kind": "quest",
+   "zones": [],
+   "source": {
+    "en": "Quest: Redeem iCoke Prize Voucher",
+    "nl": "Quest: Redeem iCoke Prize Voucher",
+    "fr": "Quête: Redeem iCoke Prize Voucher",
+    "es": "Misión: Redeem iCoke Prize Voucher",
+    "it": "Missione: Redeem iCoke Prize Voucher",
+    "de": "Quest: Redeem iCoke Prize Voucher"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "prairie-chicken",
+   "name": "Prairie Chicken",
+   "icon": "inv_egg_02",
+   "quality": 1,
+   "new": false,
+   "kind": "object",
+   "zones": [
+    "Westfall"
+   ],
+   "source": {
+    "en": "Found in the world: Farm Chicken Egg",
+    "nl": "In de wereld: Farm Chicken Egg",
+    "fr": "Dans le monde: Farm Chicken Egg",
+    "es": "En el mundo: Farm Chicken Egg",
+    "it": "Nel mondo: Farm Chicken Egg",
+    "de": "In der Welt: Farm Chicken Egg"
+   },
+   "where": {
+    "en": "Westfall",
+    "nl": "Westfall",
+    "fr": "Westfall",
+    "es": "Westfall",
+    "it": "Westfall",
+    "de": "Westfall"
+   }
+  },
+  {
+   "slug": "prairie-wolf-pup",
+   "name": "Prairie Wolf Pup",
+   "icon": "inv_box_petcarrier_01",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
+   "source": {
+    "en": "Vendor: Mayhoa Skyhoof, 63 silver 15 copper",
+    "nl": "Verkoper: Mayhoa Skyhoof, 63 zilver en 15 koper",
+    "fr": "Marchand: Mayhoa Skyhoof, 63 pa 15 pc",
+    "es": "Vendedor: Mayhoa Skyhoof, 63 de plata y 15 de cobre",
+    "it": "Mercante: Mayhoa Skyhoof, 63 d'argento e 15 di rame",
+    "de": "Händler: Mayhoa Skyhoof, 63 Silber 15 Kupfer"
+   },
+   "where": {
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
+   }
+  },
+  {
+   "slug": "red-ground-squirrel",
+   "name": "Red Ground Squirrel",
+   "icon": "ability_hunter_beastcall",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Thunder Bluff"
+   ],
+   "source": {
+    "en": "Vendor: Halpa, 52 silver 63 copper",
+    "nl": "Verkoper: Halpa, 52 zilver en 63 koper",
+    "fr": "Marchand: Halpa, 52 pa 63 pc",
+    "es": "Vendedor: Halpa, 52 de plata y 63 de cobre",
+    "it": "Mercante: Halpa, 52 d'argento e 63 di rame",
+    "de": "Händler: Halpa, 52 Silber 63 Kupfer"
+   },
+   "where": {
+    "en": "Thunder Bluff",
+    "nl": "Thunder Bluff",
+    "fr": "Thunder Bluff",
+    "es": "Thunder Bluff",
+    "it": "Thunder Bluff",
+    "de": "Thunder Bluff"
+   }
+  },
+  {
+   "slug": "senegal",
+   "name": "Senegal",
+   "icon": "spell_nature_forceofnature",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Stranglethorn Vale"
+   ],
+   "source": {
+    "en": "Vendor: Narkk, 40 silver",
+    "nl": "Verkoper: Narkk, 40 zilver",
+    "fr": "Marchand: Narkk, 40 pa",
+    "es": "Vendedor: Narkk, 40 de plata",
+    "it": "Mercante: Narkk, 40 d'argento",
+    "de": "Händler: Narkk, 40 Silber"
+   },
+   "where": {
+    "en": "Stranglethorn Vale",
+    "nl": "Stranglethorn Vale",
+    "fr": "Stranglethorn Vale",
+    "es": "Stranglethorn Vale",
+    "it": "Stranglethorn Vale",
+    "de": "Stranglethorn Vale"
+   }
+  },
+  {
+   "slug": "shadowgale-squirrel",
+   "name": "Shadowgale Squirrel",
+   "icon": "inv_squirrelflying_albino",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Zephras Isle"
+   ],
+   "source": {
+    "en": "Vendor: Vayn Moongaze, 52 silver 63 copper",
+    "nl": "Verkoper: Vayn Moongaze, 52 zilver en 63 koper",
+    "fr": "Marchand: Vayn Moongaze, 52 pa 63 pc",
+    "es": "Vendedor: Vayn Moongaze, 52 de plata y 63 de cobre",
+    "it": "Mercante: Vayn Moongaze, 52 d'argento e 63 di rame",
+    "de": "Händler: Vayn Moongaze, 52 Silber 63 Kupfer"
+   },
+   "where": {
+    "en": "Zephras Isle",
+    "nl": "Zephras Isle",
+    "fr": "Zephras Isle",
+    "es": "Zephras Isle",
+    "it": "Zephras Isle",
+    "de": "Zephras Isle"
+   }
+  },
+  {
+   "slug": "siamese",
+   "name": "Siamese",
+   "icon": "inv_box_petcarrier_01",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "The Deadmines"
+   ],
+   "source": {
+    "en": "Drop: Cookie",
+    "nl": "Drop: Cookie",
+    "fr": "Butin: Cookie",
+    "es": "Botín: Cookie",
+    "it": "Bottino: Cookie",
+    "de": "Beute: Cookie"
+   },
+   "where": {
+    "en": "The Deadmines",
+    "nl": "The Deadmines",
+    "fr": "The Deadmines",
+    "es": "The Deadmines",
+    "it": "The Deadmines",
+    "de": "The Deadmines"
+   }
+  },
+  {
+   "slug": "silver-tabby",
+   "name": "Silver Tabby",
+   "icon": "inv_box_petcarrier_01",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Elwynn Forest"
+   ],
+   "source": {
+    "en": "Vendor: Donni Anthania, 42 silver 10 copper",
+    "nl": "Verkoper: Donni Anthania, 42 zilver en 10 koper",
+    "fr": "Marchand: Donni Anthania, 42 pa 10 pc",
+    "es": "Vendedor: Donni Anthania, 42 de plata y 10 de cobre",
+    "it": "Mercante: Donni Anthania, 42 d'argento e 10 di rame",
+    "de": "Händler: Donni Anthania, 42 Silber 10 Kupfer"
+   },
+   "where": {
+    "en": "Elwynn Forest",
+    "nl": "Elwynn Forest",
+    "fr": "Elwynn Forest",
+    "es": "Elwynn Forest",
+    "it": "Elwynn Forest",
+    "de": "Elwynn Forest"
+   }
+  },
+  {
+   "slug": "sinister-squashling",
+   "name": "Sinister Squashling",
+   "icon": "inv_misc_food_59",
+   "quality": 2,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "snowshoe-rabbit",
+   "name": "Snowshoe Rabbit",
+   "icon": "inv_crate_02",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
+   "source": {
+    "en": "Vendor: Yarlyn Amberstill, 21 silver 5 copper",
+    "nl": "Verkoper: Yarlyn Amberstill, 21 zilver en 5 koper",
+    "fr": "Marchand: Yarlyn Amberstill, 21 pa 5 pc",
+    "es": "Vendedor: Yarlyn Amberstill, 21 de plata y 5 de cobre",
+    "it": "Mercante: Yarlyn Amberstill, 21 d'argento e 5 di rame",
+    "de": "Händler: Yarlyn Amberstill, 21 Silber 5 Kupfer"
+   },
+   "where": {
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
+   }
+  },
+  {
+   "slug": "snowy-wolf-pup",
+   "name": "Snowy Wolf Pup",
+   "icon": "ability_mount_whitedirewolf",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "spectral-bear-cub",
+   "name": "Spectral Bear Cub",
+   "icon": "inv_pet_babyblizzardbear",
+   "quality": 3,
+   "new": true,
+   "kind": "legacy",
+   "zones": [],
+   "source": {
+    "en": "Legacy reward: 25 points",
+    "nl": "Legacy-beloning: 25 punten",
+    "fr": "Récompense Legacy: 25 points",
+    "es": "Recompensa Legacy: 25 puntos",
+    "it": "Ricompensa Legacy: 25 punti",
+    "de": "Legacy-Belohnung: 25 Punkte"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "spirit-of-summer",
+   "name": "Spirit of Summer",
+   "icon": "inv_potion_33",
+   "quality": 1,
+   "new": false,
+   "kind": "quest",
+   "zones": [],
+   "source": {
+    "en": "Quest: A Light in Dark Places",
+    "nl": "Quest: A Light in Dark Places",
+    "fr": "Quête: A Light in Dark Places",
+    "es": "Misión: A Light in Dark Places",
+    "it": "Missione: A Light in Dark Places",
+    "de": "Quest: A Light in Dark Places"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "sprite-darter-hatchling",
+   "name": "Sprite Darter Hatchling",
+   "icon": "inv_egg_02",
+   "quality": 1,
+   "new": false,
+   "kind": "quest",
+   "zones": [],
+   "source": {
+    "en": "Quest: Becoming a Parent",
+    "nl": "Quest: Becoming a Parent",
+    "fr": "Quête: Becoming a Parent",
+    "es": "Misión: Becoming a Parent",
+    "it": "Missione: Becoming a Parent",
+    "de": "Quest: Becoming a Parent"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "tallstrider-hatchling",
+   "name": "Tallstrider Hatchling",
+   "icon": "ability_hunter_pet_tallstrider",
+   "quality": 2,
+   "new": true,
+   "kind": "drop",
+   "zones": [
+    "Darkshore"
+   ],
+   "source": {
+    "en": "Drop: Strider Clutchmother",
+    "nl": "Drop: Strider Clutchmother",
+    "fr": "Butin: Strider Clutchmother",
+    "es": "Botín: Strider Clutchmother",
+    "it": "Bottino: Strider Clutchmother",
+    "de": "Beute: Strider Clutchmother"
+   },
+   "where": {
+    "en": "Darkshore",
+    "nl": "Darkshore",
+    "fr": "Darkshore",
+    "es": "Darkshore",
+    "it": "Darkshore",
+    "de": "Darkshore"
+   }
+  },
+  {
+   "slug": "terky",
+   "name": "Terky",
+   "icon": "inv_egg_03",
+   "quality": 1,
+   "new": false,
+   "kind": "quest",
+   "zones": [],
+   "source": {
+    "en": "Quest: Redeem iCoke Prize Voucher",
+    "nl": "Quest: Redeem iCoke Prize Voucher",
+    "fr": "Quête: Redeem iCoke Prize Voucher",
+    "es": "Misión: Redeem iCoke Prize Voucher",
+    "it": "Missione: Redeem iCoke Prize Voucher",
+    "de": "Quest: Redeem iCoke Prize Voucher"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "tiny-green-dragon",
+   "name": "Tiny Green Dragon",
+   "icon": "inv_misc_orb_01",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "tiny-red-dragon",
+   "name": "Tiny Red Dragon",
+   "icon": "inv_misc_orb_05",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "tiny-snowman",
+   "name": "Tiny Snowman",
+   "icon": "inv_misc_bag_17",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "tiny-walking-bomb",
+   "name": "Tiny Walking Bomb",
+   "icon": "inv_misc_bomb_04",
+   "quality": 1,
+   "new": false,
+   "kind": "crafted",
+   "zones": [],
+   "source": {
+    "en": "Crafted: Engineering 205",
+    "nl": "Gemaakt: Engineering 205",
+    "fr": "Fabriquée: Engineering 205",
+    "es": "Fabricada: Engineering 205",
+    "it": "Creata: Engineering 205",
+    "de": "Hergestellt: Engineering 205"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "tranquil-mechanical-yeti",
+   "name": "Tranquil Mechanical Yeti",
+   "icon": "ability_hunter_pet_gorilla",
+   "quality": 1,
+   "new": false,
+   "kind": "crafted",
+   "zones": [],
+   "source": {
+    "en": "Crafted: Engineering 250",
+    "nl": "Gemaakt: Engineering 250",
+    "fr": "Fabriquée: Engineering 250",
+    "es": "Fabricada: Engineering 250",
+    "it": "Creata: Engineering 250",
+    "de": "Hergestellt: Engineering 250"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "tree-frog",
+   "name": "Tree Frog",
+   "icon": "inv_crate_02",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Elwynn Forest",
+    "Mulgore"
+   ],
+   "source": {
+    "en": "Vendor: Flik, 1 gold 5 silver 26 copper",
+    "nl": "Verkoper: Flik, 1 goud en 5 zilver en 26 koper",
+    "fr": "Marchand: Flik, 1 po 5 pa 26 pc",
+    "es": "Vendedor: Flik, 1 de oro y 5 de plata y 26 de cobre",
+    "it": "Mercante: Flik, 1 d'oro e 5 d'argento e 26 di rame",
+    "de": "Händler: Flik, 1 Gold 5 Silber 26 Kupfer"
+   },
+   "where": {
+    "en": "Elwynn Forest and Mulgore",
+    "nl": "Elwynn Forest en Mulgore",
+    "fr": "Elwynn Forest et Mulgore",
+    "es": "Elwynn Forest y Mulgore",
+    "it": "Elwynn Forest e Mulgore",
+    "de": "Elwynn Forest und Mulgore"
+   }
+  },
+  {
+   "slug": "undercity-cockroach",
+   "name": "Undercity Cockroach",
+   "icon": "spell_shadow_carrionswarm",
+   "quality": 1,
+   "new": true,
+   "kind": "vendor",
+   "zones": [
+    "Undercity"
+   ],
+   "source": {
+    "en": "Vendor: Jeremiah Payson, 52 silver 63 copper",
+    "nl": "Verkoper: Jeremiah Payson, 52 zilver en 63 koper",
+    "fr": "Marchand: Jeremiah Payson, 52 pa 63 pc",
+    "es": "Vendedor: Jeremiah Payson, 52 de plata y 63 de cobre",
+    "it": "Mercante: Jeremiah Payson, 52 d'argento e 63 di rame",
+    "de": "Händler: Jeremiah Payson, 52 Silber 63 Kupfer"
+   },
+   "where": {
+    "en": "Undercity",
+    "nl": "Undercity",
+    "fr": "Undercity",
+    "es": "Undercity",
+    "it": "Undercity",
+    "de": "Undercity"
+   }
+  },
+  {
+   "slug": "weevil-k-neevil",
+   "name": "Weevil K. Neevil",
+   "icon": "inv_inscription_pigment_bug04",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "white-kitten",
+   "name": "White Kitten",
+   "icon": "inv_box_petcarrier_01",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Stonetalon Mountains",
+    "Stormwind City"
+   ],
+   "source": {
+    "en": "Vendor: Lil Timmy, 60 silver",
+    "nl": "Verkoper: Lil Timmy, 60 zilver",
+    "fr": "Marchand: Lil Timmy, 60 pa",
+    "es": "Vendedor: Lil Timmy, 60 de plata",
+    "it": "Mercante: Lil Timmy, 60 d'argento",
+    "de": "Händler: Lil Timmy, 60 Silber"
+   },
+   "where": {
+    "en": "Stonetalon Mountains and Stormwind City",
+    "nl": "Stonetalon Mountains en Stormwind City",
+    "fr": "Stonetalon Mountains et Stormwind City",
+    "es": "Stonetalon Mountains y Stormwind City",
+    "it": "Stonetalon Mountains e Stormwind City",
+    "de": "Stonetalon Mountains und Stormwind City"
+   }
+  },
+  {
+   "slug": "wild-chicken",
+   "name": "Wild Chicken",
+   "icon": "inv_egg_02",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "wilted-lashling",
+   "name": "Wilted Lashling",
+   "icon": "inv_10_herb_seed_magiccolor3",
+   "quality": 1,
+   "new": true,
+   "kind": "bmah",
+   "zones": [
+    "The Riverglades"
+   ],
+   "source": {
+    "en": "Black Market: Madam Swyndle",
+    "nl": "Black Market: Madam Swyndle",
+    "fr": "Marché noir: Madam Swyndle",
+    "es": "Mercado Negro: Madam Swyndle",
+    "it": "Mercato Nero: Madam Swyndle",
+    "de": "Schwarzmarkt: Madam Swyndle"
+   },
+   "where": {
+    "en": "The Riverglades",
+    "nl": "The Riverglades",
+    "fr": "The Riverglades",
+    "es": "The Riverglades",
+    "it": "The Riverglades",
+    "de": "The Riverglades"
+   }
+  },
+  {
+   "slug": "winter-reindeer",
+   "name": "Winter Reindeer",
+   "icon": "inv_misc_bell_01",
+   "quality": 1,
+   "new": false,
+   "kind": "drop",
+   "zones": [
+    "Undercity"
+   ],
+   "source": {
+    "en": "Drop: Archibald",
+    "nl": "Drop: Archibald",
+    "fr": "Butin: Archibald",
+    "es": "Botín: Archibald",
+    "it": "Bottino: Archibald",
+    "de": "Beute: Archibald"
+   },
+   "where": {
+    "en": "Undercity",
+    "nl": "Undercity",
+    "fr": "Undercity",
+    "es": "Undercity",
+    "it": "Undercity",
+    "de": "Undercity"
+   }
+  },
+  {
+   "slug": "winters-little-helper",
+   "name": "Winter's Little Helper",
+   "icon": "inv_holiday_christmas_present_01",
+   "quality": 1,
+   "new": false,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "wood-frog",
+   "name": "Wood Frog",
+   "icon": "inv_crate_02",
+   "quality": 1,
+   "new": false,
+   "kind": "vendor",
+   "zones": [
+    "Elwynn Forest",
+    "Mulgore"
+   ],
+   "source": {
+    "en": "Vendor: Flik, 1 gold 5 silver 26 copper",
+    "nl": "Verkoper: Flik, 1 goud en 5 zilver en 26 koper",
+    "fr": "Marchand: Flik, 1 po 5 pa 26 pc",
+    "es": "Vendedor: Flik, 1 de oro y 5 de plata y 26 de cobre",
+    "it": "Mercante: Flik, 1 d'oro e 5 d'argento e 26 di rame",
+    "de": "Händler: Flik, 1 Gold 5 Silber 26 Kupfer"
+   },
+   "where": {
+    "en": "Elwynn Forest and Mulgore",
+    "nl": "Elwynn Forest en Mulgore",
+    "fr": "Elwynn Forest et Mulgore",
+    "es": "Elwynn Forest y Mulgore",
+    "it": "Elwynn Forest e Mulgore",
+    "de": "Elwynn Forest und Mulgore"
+   }
+  },
+  {
+   "slug": "zergling",
+   "name": "Zergling",
+   "icon": "inv_zerglingpet_c60",
+   "quality": 3,
+   "new": false,
+   "kind": "edition",
+   "zones": [],
+   "source": {
+    "en": "Edition: Skyborne Epic Pack, Warcraft Forever Collection",
+    "nl": "Editie: Skyborne Epic Pack, Warcraft Forever Collection",
+    "fr": "Édition: Skyborne Epic Pack, Warcraft Forever Collection",
+    "es": "Edición: Skyborne Epic Pack, Warcraft Forever Collection",
+    "it": "Edizione: Skyborne Epic Pack, Warcraft Forever Collection",
+    "de": "Edition: Skyborne Epic Pack, Warcraft Forever Collection"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  }
+ ]
+}

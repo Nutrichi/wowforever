@@ -183,6 +183,8 @@ const pages = defineCollection({
     /** Vragen en antwoorden onderaan, ook als FAQPage in de JSON-LD. */
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
     sources: sourcesField,
+    /** Een eigen video bij een gids: het id op YouTube. De app speelt hem af in de gids. */
+    video: z.string().regex(/^[\w-]{11}$/).optional(),
   }),
 });
 
