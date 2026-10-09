@@ -3,7 +3,7 @@ title: "Guías para WoW Forever"
 metaTitle: "Guías de WoW Forever: misiones de mazmorra, cadenas de misiones y más"
 description: "Todas las guías para WoW Forever en un solo lugar: la guía de mazmorras con cada misión de mazmorra, The Hall of Thanes y Ruins of Lordaeron, la cadena del Cozy Sleeping Bag, el camping, la BMAH, cada mascota, y las rutas, guías de clase y guías de profesión de la web."
 short: "Guías"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: es
 manual: true
 ---
@@ -29,6 +29,16 @@ Todas las mazmorras de WoW Forever por nivel, con todas sus misiones, están en 
 | [Gnomeregan](/es/guides/dungeons/gnomeregan/) | Niveles 25-38: las dos puertas, el teletransporte de la Horde, las trece misiones y el botín nuevo de cada jefe |
 | [Scarlet Monastery](/es/guides/dungeons/scarlet-monastery/) | Niveles 26-45: las cuatro alas, cada misión con su recompensa y el botín de cada jefe |
 | [Razorfen Downs](/es/guides/dungeons/razorfen-downs/) | Niveles 35-44: las seis misiones con sus recompensas, el evento del gong y el botín nuevo de cada jefe |
+
+## Subir de nivel
+
+| Guía | Qué cubre |
+|---|---|
+| [Druid Skyborne 1-6](/es/guides/leveling/skyborne-druid-1-6/) | Niveles 1 a 6 como Druid Skyborne de la High Order, la ruta de RestedXP en vídeo con un capítulo por nivel |
+| [Druid Skyborne 6-10](/es/guides/leveling/skyborne-druid-6-10/) | Niveles 6 a 10 como Druid Skyborne de la High Order, la ruta de RestedXP en vídeo con un capítulo por nivel |
+| [Druid Skyborne 10-13](/es/guides/leveling/skyborne-druid-10-13/) | Niveles 10 a 13 como Druid Skyborne de la High Order, la ruta de RestedXP en vídeo con un capítulo por nivel |
+| [Druid Skyborne 13-14](/es/guides/leveling/skyborne-druid-13-14/) | Niveles 13 a 14 como Druid Skyborne de la High Order, la ruta de RestedXP en vídeo con un capítulo por nivel |
+| [Druid Skyborne 14-16](/es/guides/leveling/skyborne-druid-14-16/) | Niveles 14 a 16 como Druid Skyborne de la High Order, la ruta de RestedXP en vídeo con un capítulo por nivel |
 
 ## Cadenas de misiones
 

@@ -3,7 +3,7 @@ title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
 description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, il camping, la BMAH, ogni mascotte, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: it
 manual: true
 ---
@@ -29,6 +29,16 @@ Tutti i dungeon di WoW Forever per livello, con tutte le loro missioni, sono nel
 | [Gnomeregan](/it/guides/dungeons/gnomeregan/) | Livelli 25-38: le due porte, il teletrasporto della Horde, le tredici missioni e il nuovo bottino di ogni boss |
 | [Scarlet Monastery](/it/guides/dungeons/scarlet-monastery/) | Livelli 26-45: le quattro ali, ogni missione con la sua ricompensa e il bottino di ogni boss |
 | [Razorfen Downs](/it/guides/dungeons/razorfen-downs/) | Livelli 35-44: le sei missioni con le loro ricompense, l’evento del gong e il nuovo bottino di ogni boss |
+
+## Livellamento
+
+| Guida | Di cosa tratta |
+|---|---|
+| [Druid Skyborne 1-6](/it/guides/leveling/skyborne-druid-1-6/) | Livelli da 1 a 6 come Druid Skyborne dell'High Order, il percorso di RestedXP in video con un capitolo per livello |
+| [Druid Skyborne 6-10](/it/guides/leveling/skyborne-druid-6-10/) | Livelli da 6 a 10 come Druid Skyborne dell'High Order, il percorso di RestedXP in video con un capitolo per livello |
+| [Druid Skyborne 10-13](/it/guides/leveling/skyborne-druid-10-13/) | Livelli da 10 a 13 come Druid Skyborne dell'High Order, il percorso di RestedXP in video con un capitolo per livello |
+| [Druid Skyborne 13-14](/it/guides/leveling/skyborne-druid-13-14/) | Livelli da 13 a 14 come Druid Skyborne dell'High Order, il percorso di RestedXP in video con un capitolo per livello |
+| [Druid Skyborne 14-16](/it/guides/leveling/skyborne-druid-14-16/) | Livelli da 14 a 16 come Druid Skyborne dell'High Order, il percorso di RestedXP in video con un capitolo per livello |
 
 ## Catene di missioni
 

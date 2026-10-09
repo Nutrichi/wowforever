@@ -3,7 +3,7 @@ title: "Guides for WoW Forever"
 metaTitle: "WoW Forever guides: dungeon quests, quest chains and more"
 description: "Every guide for WoW Forever in one place: the dungeon guide with every dungeon quest, the Hall of Thanes and the Ruins of Lordaeron, the Cozy Sleeping Bag chain, camping, the BMAH, every pet, and the routes, class guides and tradeskill guides of the site."
 short: "Guides"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: en
 ---
 Step-by-step guides for World of Warcraft: Forever, from dungeon quests to quest chains that end in a special reward. Every guide names its sources and gets updated when the beta changes something.
@@ -28,6 +28,16 @@ Every dungeon of WoW Forever by level, with all its quests, is in the [dungeon o
 | [Gnomeregan](/guides/dungeons/gnomeregan/) | Levels 25-38: both doors, the teleport for the Horde, all thirteen quests and the new loot of every boss |
 | [Scarlet Monastery](/guides/dungeons/scarlet-monastery/) | Levels 26-45: the four wings, every quest with its reward and the loot of every boss |
 | [Razorfen Downs](/guides/dungeons/razorfen-downs/) | Levels 35-44: all six quests with their rewards, the gong event and the new loot of every boss |
+
+## Leveling
+
+| Guide | What it covers |
+|---|---|
+| [Skyborne Druid 1-6](/guides/leveling/skyborne-druid-1-6/) | Level 1 to 6 as a High Order Skyborne Druid, the RestedXP route on video with a chapter per level |
+| [Skyborne Druid 6-10](/guides/leveling/skyborne-druid-6-10/) | Level 6 to 10 as a High Order Skyborne Druid, the RestedXP route on video with a chapter per level |
+| [Skyborne Druid 10-13](/guides/leveling/skyborne-druid-10-13/) | Level 10 to 13 as a High Order Skyborne Druid, the RestedXP route on video with a chapter per level |
+| [Skyborne Druid 13-14](/guides/leveling/skyborne-druid-13-14/) | Level 13 to 14 as a High Order Skyborne Druid, the RestedXP route on video with a chapter per level |
+| [Skyborne Druid 14-16](/guides/leveling/skyborne-druid-14-16/) | Level 14 to 16 as a High Order Skyborne Druid, the RestedXP route on video with a chapter per level |
 
 ## Quest chains
 

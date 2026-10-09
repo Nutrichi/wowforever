@@ -3,7 +3,7 @@ title: "Gidsen voor WoW Forever"
 metaTitle: "WoW Forever-gidsen: dungeonquests, questreeksen en meer"
 description: "Elke gids voor WoW Forever op één plek: de dungeongids met elke dungeonquest, The Hall of Thanes en de Ruins of Lordaeron, de Cozy Sleeping Bag-reeks, camping, de BMAH, elke pet, en de routes, classgidsen en tradeskillgidsen van de site."
 short: "Gidsen"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: nl
 manual: true
 ---
@@ -29,6 +29,16 @@ Elke dungeon van WoW Forever op level, met al zijn quests, staat in het [dungeon
 | [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | Level 25-38: beide deuren, de teleport voor de Horde, alle dertien de quests en de nieuwe loot van elke baas |
 | [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/) | Level 26-45: de vier vleugels, elke quest met zijn beloning en de loot van elke baas |
 | [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | Level 35-44: alle zes de quests met hun beloningen, het gong-event en de nieuwe loot van elke baas |
+
+## Levelen
+
+| Gids | Waarover |
+|---|---|
+| [Skyborne Druid 1-6](/nl/guides/leveling/skyborne-druid-1-6/) | Level 1 tot 6 als Skyborne Druid van de High Order, de route van RestedXP op video met een hoofdstuk per level |
+| [Skyborne Druid 6-10](/nl/guides/leveling/skyborne-druid-6-10/) | Level 6 tot 10 als Skyborne Druid van de High Order, de route van RestedXP op video met een hoofdstuk per level |
+| [Skyborne Druid 10-13](/nl/guides/leveling/skyborne-druid-10-13/) | Level 10 tot 13 als Skyborne Druid van de High Order, de route van RestedXP op video met een hoofdstuk per level |
+| [Skyborne Druid 13-14](/nl/guides/leveling/skyborne-druid-13-14/) | Level 13 tot 14 als Skyborne Druid van de High Order, de route van RestedXP op video met een hoofdstuk per level |
+| [Skyborne Druid 14-16](/nl/guides/leveling/skyborne-druid-14-16/) | Level 14 tot 16 als Skyborne Druid van de High Order, de route van RestedXP op video met een hoofdstuk per level |
 
 ## Questreeksen
 

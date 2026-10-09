@@ -575,3 +575,153 @@
   .wf-gdetail__diamond { width: 11px; height: 11px; margin-top: 10px; }
   .wf-gprose { font-size: 15.5px; }
 }
+
+/*
+ * Een video in een gids (9 oktober 2026). Tot dan stonden deze regels alleen in
+ * PostLayout.astro, dus op een gidspagina was een video een regel tekst zonder
+ * kader of speelknop (City of Dalaran). Overgenomen van daar, op .wf-gprose;
+ * het script post-video.ts laadt SitePage.astro.
+ */
+/*
+ * Een video in de tekst (src/scripts/post-video.ts). De knop staat er tot
+ * de lezer klikt; daarna vervangt het script hem door de speler. Geen
+ * voorbeeldbeeld van een ander medium, dus draagt het blok de eigen
+ * kleuren (PROJECT_SPEC.md §2.4).
+ */
+.wf-gprose .wf-embed {
+  margin: 0;
+  aspect-ratio: 16 / 9;
+  border-radius: var(--wf-r-card-sm);
+  border: 1px solid var(--wf-border);
+  overflow: hidden;
+  background: var(--wf-header);
+}
+
+.wf-gprose .wf-embed iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/*
+ * Een Reddit-post is geen kader van 16 op 9: er staat een kop met de
+ * subreddit boven de video en een voet met de stemmen eronder. Samen is dat
+ * rond de 220 pixels, dus de hoogte is de breedte van een video plus dat.
+ * Die hoogte staat er meteen, ook zolang de plaatshouder er nog staat: sinds
+ * het kader vanzelf laadt (21 september 2026) zou een blok dat pas bij het
+ * laden groeit, de tekst onder de ogen van de lezer wegduwen.
+ * Reddit meet zichzelf na het laden en meldt de echte hoogte; dan neemt
+ * post-video.ts het over (§2.4: er wordt niets van Reddit meegehost).
+ */
+.wf-gprose .wf-embed--reddit {
+  aspect-ratio: auto;
+  position: relative;
+  height: 0;
+  padding-bottom: calc(56.25% + 220px);
+}
+
+.wf-gprose .wf-embed--reddit > * {
+  position: absolute;
+  inset: 0;
+}
+
+/*
+ * Een post op X. Smaller dan een Reddit-post: X toont zijn insluiting zelf
+ * op hoogstens 550 px en centreert hem daarbinnen, dus een breder kader
+ * levert alleen lege randen op.
+ *
+ * De starthoogte is een schatting voor een post met een paar regels tekst.
+ * X meet zichzelf na het laden en meldt de echte hoogte; dan neemt
+ * post-video.ts het over. Zonder dat bericht blijft deze hoogte staan.
+ */
+.wf-gprose .wf-embed--x {
+  aspect-ratio: auto;
+  position: relative;
+  height: 0;
+  padding-bottom: 320px;
+  /*
+   `width` moet erbij. Zonder die regel klapte het blok in tot 2 px: het is
+   een flex-item in .wf-prose, zijn inhoud staat op `inset: 0` en heeft dus
+   geen eigen breedte, en `margin-inline: auto` laat een flex-item krimpen
+   tot zijn inhoud. Gemeten in een echte browser op 23 september 2026.
+  */
+  width: 100%;
+  max-width: 550px;
+  margin-inline: auto;
+}
+
+.wf-gprose .wf-embed--x > * {
+  position: absolute;
+  inset: 0;
+}
+
+.wf-gprose .wf-embed__play {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  height: 100%;
+  padding: 18px 20px;
+  border: 0;
+  background: none;
+  color: var(--wf-ink);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+/* Het driehoekje, met de rand van de knop als vorm. Geen beeldbestand nodig. */
+.wf-gprose .wf-embed__icon {
+  flex: none;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  border: 1px solid var(--wf-accent-deep);
+  background: var(--wf-raised);
+  position: relative;
+}
+
+.wf-gprose .wf-embed__icon::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-40%, -50%);
+  border-style: solid;
+  border-width: 9px 0 9px 15px;
+  border-color: transparent transparent transparent var(--wf-accent);
+}
+
+.wf-gprose .wf-embed__play:hover .wf-embed__icon {
+  border-color: var(--wf-accent);
+  background: var(--wf-raised-soft);
+}
+
+.wf-gprose .wf-embed__text {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 0;
+}
+
+.wf-gprose .wf-embed__title {
+  font-family: var(--wf-display);
+  font-size: 18px;
+  line-height: 1.25;
+  color: var(--wf-ink);
+}
+
+.wf-gprose .wf-embed__meta {
+  font-size: 14px;
+  /* Los van de regelhoogte van de lopende tekst: die is hier te ruim zodra
+     de regel op een smal scherm omslaat. */
+  line-height: 1.4;
+  color: var(--wf-muted);
+}
+
+@media (max-width: 599px) {
+  .wf-gprose .wf-embed__play { gap: 12px; padding: 14px 15px; }
+  .wf-gprose .wf-embed__icon { width: 44px; height: 44px; }
+  .wf-gprose .wf-embed__title { font-size: 16px; }
+}

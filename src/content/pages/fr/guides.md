@@ -3,7 +3,7 @@ title: "Guides pour WoW Forever"
 metaTitle: "Guides WoW Forever : quêtes de donjon, chaînes de quêtes et plus"
 description: "Tous les guides pour WoW Forever au même endroit : le guide des donjons avec chaque quête de donjon, The Hall of Thanes et les Ruins of Lordaeron, la chaîne du Cozy Sleeping Bag, le camping, la BMAH, chaque mascotte, et les routes, guides de classe et guides de métier du site."
 short: "Guides"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: fr
 manual: true
 ---
@@ -29,6 +29,16 @@ Tous les donjons de WoW Forever par niveau, avec toutes leurs quêtes, sont dans
 | [Gnomeregan](/fr/guides/dungeons/gnomeregan/) | Niveaux 25-38 : les deux portes, le téléporteur de la Horde, les treize quêtes et le nouveau butin de chaque boss |
 | [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/) | Niveaux 26-45 : les quatre ailes, chaque quête avec sa récompense et le butin de chaque boss |
 | [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | Niveaux 35-44 : les six quêtes avec leurs récompenses, l’événement du gong et le nouveau butin de chaque boss |
+
+## Montée en niveau
+
+| Guide | Ce qu'il couvre |
+|---|---|
+| [Druid Skyborne 1-6](/fr/guides/leveling/skyborne-druid-1-6/) | Niveaux 1 à 6 en Druid Skyborne du High Order, la route de RestedXP en vidéo avec un chapitre par niveau |
+| [Druid Skyborne 6-10](/fr/guides/leveling/skyborne-druid-6-10/) | Niveaux 6 à 10 en Druid Skyborne du High Order, la route de RestedXP en vidéo avec un chapitre par niveau |
+| [Druid Skyborne 10-13](/fr/guides/leveling/skyborne-druid-10-13/) | Niveaux 10 à 13 en Druid Skyborne du High Order, la route de RestedXP en vidéo avec un chapitre par niveau |
+| [Druid Skyborne 13-14](/fr/guides/leveling/skyborne-druid-13-14/) | Niveaux 13 à 14 en Druid Skyborne du High Order, la route de RestedXP en vidéo avec un chapitre par niveau |
+| [Druid Skyborne 14-16](/fr/guides/leveling/skyborne-druid-14-16/) | Niveaux 14 à 16 en Druid Skyborne du High Order, la route de RestedXP en vidéo avec un chapitre par niveau |
 
 ## Chaînes de quêtes
 

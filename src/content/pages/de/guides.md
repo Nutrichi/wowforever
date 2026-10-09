@@ -3,7 +3,7 @@ title: "Guides für WoW Forever"
 metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
 description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, Camping, das BMAH, jedes Haustier, und die Routen, Klassenguides und Berufsguides der Seite."
 short: "Guides"
-updated: 2026-10-07
+updated: 2026-10-09
 lang: de
 manual: true
 ---
@@ -29,6 +29,16 @@ Alle Dungeons von WoW Forever nach Level, mit allen Quests, stehen in der [Dunge
 | [Gnomeregan](/de/guides/dungeons/gnomeregan/) | Stufe 25-38: beide Türen, der Teleporter für die Horde, alle dreizehn Quests und die neue Beute jedes Bosses |
 | [Scarlet Monastery](/de/guides/dungeons/scarlet-monastery/) | Stufe 26-45: die vier Flügel, jede Quest mit ihrer Belohnung und die Beute jedes Bosses |
 | [Razorfen Downs](/de/guides/dungeons/razorfen-downs/) | Stufe 35-44: alle sechs Quests mit ihren Belohnungen, das Gong-Event und die neue Beute jedes Bosses |
+
+## Leveln
+
+| Guide | Worum es geht |
+|---|---|
+| [Skyborne-Druid 1-6](/de/guides/leveling/skyborne-druid-1-6/) | Stufe 1 bis 6 als Skyborne-Druid des High Order, die Route von RestedXP im Video mit einem Kapitel pro Stufe |
+| [Skyborne-Druid 6-10](/de/guides/leveling/skyborne-druid-6-10/) | Stufe 6 bis 10 als Skyborne-Druid des High Order, die Route von RestedXP im Video mit einem Kapitel pro Stufe |
+| [Skyborne-Druid 10-13](/de/guides/leveling/skyborne-druid-10-13/) | Stufe 10 bis 13 als Skyborne-Druid des High Order, die Route von RestedXP im Video mit einem Kapitel pro Stufe |
+| [Skyborne-Druid 13-14](/de/guides/leveling/skyborne-druid-13-14/) | Stufe 13 bis 14 als Skyborne-Druid des High Order, die Route von RestedXP im Video mit einem Kapitel pro Stufe |
+| [Skyborne-Druid 14-16](/de/guides/leveling/skyborne-druid-14-16/) | Stufe 14 bis 16 als Skyborne-Druid des High Order, die Route von RestedXP im Video mit einem Kapitel pro Stufe |
 
 ## Questreihen
 
