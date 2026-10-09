@@ -1,7 +1,7 @@
 ---
 title: "Guides pour WoW Forever"
 metaTitle: "Guides WoW Forever : quêtes de donjon, chaînes de quêtes et plus"
-description: "Tous les guides pour WoW Forever au même endroit : le guide des donjons avec chaque quête de donjon, The Hall of Thanes et les Ruins of Lordaeron, la chaîne du Cozy Sleeping Bag, la Night Watchman's Torch, le camping, la BMAH, chaque mascotte, et les routes, guides de classe et guides de métier du site."
+description: "Tous les guides pour WoW Forever au même endroit : le guide des donjons avec chaque quête de donjon, The Hall of Thanes et les Ruins of Lordaeron, la chaîne du Cozy Sleeping Bag, la Night Watchman's Torch, le Restoration Druid, le camping, la BMAH, chaque mascotte, et les routes, guides de classe et guides de métier du site."
 short: "Guides"
 updated: 2026-10-09
 lang: fr
@@ -45,6 +45,12 @@ Tous les donjons de WoW Forever par niveau, avec toutes leurs quêtes, sont dans
 | Guide | Ce qu'il couvre |
 |---|---|
 | [Cozy Sleeping Bag](/fr/guides/cozy-sleeping-bag/) | La chaîne dès le niveau 14 à travers quatre zones jusqu'à un sac de couchage qui donne de l'expérience en plus |
+
+## Classes
+
+| Guide | Ce qu'il couvre |
+|---|---|
+| [Restoration Druid](/fr/guides/restoration-druid/) | Le soigneur de WoW Forever : ce qui change, le build standard 11/7/33, la Dual Specialization, les macros et les questions les plus fréquentes |
 
 ## Objets
 

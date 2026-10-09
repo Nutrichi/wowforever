@@ -1,7 +1,7 @@
 ---
 title: "Guides for WoW Forever"
 metaTitle: "WoW Forever guides: dungeon quests, quest chains and more"
-description: "Every guide for WoW Forever in one place: the dungeon guide with every dungeon quest, the Hall of Thanes and the Ruins of Lordaeron, the Cozy Sleeping Bag chain, the Night Watchman's Torch, camping, the BMAH, every pet, and the routes, class guides and tradeskill guides of the site."
+description: "Every guide for WoW Forever in one place: the dungeon guide with every dungeon quest, the Hall of Thanes and the Ruins of Lordaeron, the Cozy Sleeping Bag chain, the Night Watchman's Torch, the Restoration Druid, camping, the BMAH, every pet, and the routes, class guides and tradeskill guides of the site."
 short: "Guides"
 updated: 2026-10-09
 lang: en
@@ -44,6 +44,12 @@ Every dungeon of WoW Forever by level, with all its quests, is in the [dungeon o
 | Guide | What it covers |
 |---|---|
 | [Cozy Sleeping Bag](/guides/cozy-sleeping-bag/) | The chain from level 14 across four zones to a sleeping bag that gives bonus experience |
+
+## Classes
+
+| Guide | What it covers |
+|---|---|
+| [Restoration Druid](/guides/restoration-druid/) | The healer in WoW Forever: what changes, the standard 11/7/33 build, Dual Specialization, macros and the most asked questions |
 
 ## Items
 

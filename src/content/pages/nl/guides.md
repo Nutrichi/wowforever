@@ -1,7 +1,7 @@
 ---
 title: "Gidsen voor WoW Forever"
 metaTitle: "WoW Forever-gidsen: dungeonquests, questreeksen en meer"
-description: "Elke gids voor WoW Forever op één plek: de dungeongids met elke dungeonquest, The Hall of Thanes en de Ruins of Lordaeron, de Cozy Sleeping Bag-reeks, de Night Watchman's Torch, camping, de BMAH, elke pet, en de routes, classgidsen en tradeskillgidsen van de site."
+description: "Elke gids voor WoW Forever op één plek: de dungeongids met elke dungeonquest, The Hall of Thanes en de Ruins of Lordaeron, de Cozy Sleeping Bag-reeks, de Night Watchman's Torch, de Restoration Druid, camping, de BMAH, elke pet, en de routes, classgidsen en tradeskillgidsen van de site."
 short: "Gidsen"
 updated: 2026-10-09
 lang: nl
@@ -45,6 +45,12 @@ Elke dungeon van WoW Forever op level, met al zijn quests, staat in het [dungeon
 | Gids | Waarover |
 |---|---|
 | [Cozy Sleeping Bag](/nl/guides/cozy-sleeping-bag/) | De reeks vanaf level 14 door vier zones naar een slaapzak die extra ervaring geeft |
+
+## Classes
+
+| Gids | Waarover |
+|---|---|
+| [Restoration Druid](/nl/guides/restoration-druid/) | De healer in WoW Forever: wat er verandert, de standaardbuild 11/7/33, Dual Specialization, macro's en de meest gestelde vragen |
 
 ## Items
 
