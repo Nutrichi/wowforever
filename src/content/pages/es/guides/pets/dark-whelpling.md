@@ -26,7 +26,7 @@ Dark Whelpling es una mascota de compañía de Classic que vuelve en World of Wa
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10822"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dark Whelpling</a> |
-| Origen | Botín: Scalding Whelp (y 1 más) |
+| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2725">Scalding Whelp</a> (y 1 más) |
 | Dónde | Badlands y Dustwallow Marsh |
 | Probabilidad | 0,1% |
 | Nueva en Forever | no, de Classic |

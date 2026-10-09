@@ -76,6 +76,12 @@ Alle Dungeons von WoW Forever nach Level, mit allen Quests, stehen in der [Dunge
 |---|---|
 | [Haustiere](/de/guides/pets/) | Jedes Haustier von WoW Forever, neu oder aus Classic, in einer Tabelle, mit einer Seite pro Haustier: woher es kommt, der Gegenstand und was sich geändert hat |
 
+## Reittiere
+
+| Guide | Worum es geht |
+|---|---|
+| [Reittiere](/de/guides/mounts/) | Jedes Reittier in den Dateien von WoW Forever, neu oder aus Classic, mit einer Seite pro Reittier: Händler oder Beute, Preis, Stufe, Reitfertigkeit und was noch nicht bekannt ist |
+
 ## Weitere Guides auf der Seite
 
 - **Berufe:** [Tradeskills](/de/tradeskills/) hat einen Guide pro Beruf für jede Ära, die Berufsperks von WoW Forever und Forever-Guides für [Cooking](/de/tradeskills/forever/cooking/), [First Aid](/de/tradeskills/forever/first-aid/) und [Fishing](/de/tradeskills/forever/fishing/).

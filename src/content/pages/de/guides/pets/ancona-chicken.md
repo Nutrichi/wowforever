@@ -26,7 +26,7 @@ Ancona Chicken ist ein Haustier aus Classic, das in World of Warcraft: Forever z
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11023"><img class="wf-wh__icon" src="/wh/inv_chicken2_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ancona Chicken</a> |
-| Quelle | Händler: Magus Tirth |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6548">Magus Tirth</a> |
 | Wo | Thousand Needles |
 | Preis | 1 Gold |
 | Neu in Forever | nein, aus Classic |

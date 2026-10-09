@@ -1,0 +1,32 @@
+---
+title: "Dreadsteed: how to get the mount in WoW Forever"
+metaTitle: "How to get the Dreadsteed mount in WoW Forever"
+description: "Dreadsteed is a class mount for Warlocks in World of Warcraft: Forever. Source: Class mount."
+short: "Dreadsteed"
+updated: 2026-10-09
+lang: "en"
+faq:
+  - q: "How do you get Dreadsteed in WoW Forever?"
+    a: "In Classic, Warlocks learned it at level 60 with a class quest chain. How it is learned in WoW Forever is not known yet."
+  - q: "Is Dreadsteed new in WoW Forever?"
+    a: "No. Dreadsteed was already in Classic and returns in WoW Forever."
+sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/spell=23161"
+---
+
+Dreadsteed is a class mount for Warlocks in World of Warcraft: Forever.
+
+## In short
+
+| | |
+|---|---|
+| Source | Class mount |
+| Class | Warlock |
+| New in Forever | no, from Classic |
+
+## How to get it
+
+In Classic, Warlocks learned it at level 60 with a class quest chain. How it is learned in WoW Forever is not known yet.
+
+Every mount of WoW Forever, with where it comes from, is in the [mount guide](/guides/mounts/).

@@ -26,7 +26,7 @@ Eagle Owl è una mascotte da compagnia nuova in World of Warcraft: Forever. La i
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280803"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eagle Owl</a> |
-| Fonte | Mercante: Shylenai |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a> |
 | Dove | Darnassus |
 | Prezzo | 52 d'argento e 63 di rame |
 | Nuova in Forever | sì |

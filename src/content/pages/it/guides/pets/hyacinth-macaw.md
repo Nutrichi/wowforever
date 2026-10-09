@@ -26,7 +26,7 @@ Hyacinth Macaw è una mascotte da compagnia di Classic che torna in World of War
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8494"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Hyacinth Macaw)</a> |
-| Fonte | Bottino: Bloodsail Sea Dog (e altre 5) |
+| Fonte | Bottino: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1565">Bloodsail Sea Dog</a> (e altre 5) |
 | Dove | Stranglethorn Vale |
 | Probabilità | 0,7% |
 | Nuova in Forever | no, da Classic |

@@ -26,7 +26,7 @@ Sprite Darter Hatchling è una mascotte da compagnia di Classic che torna in Wor
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11474"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sprite Darter Egg</a> |
-| Fonte | Missione: Becoming a Parent |
+| Fonte | Missione: <a href="https://www.wowhead.com/forever/quest=4298">Becoming a Parent</a> |
 | Nuova in Forever | no, da Classic |
 | Per tutto l'account | sì, secondo Wowhead |
 

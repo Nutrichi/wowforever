@@ -26,7 +26,7 @@ Bitter Baitling is een companion pet die nieuw is in World of Warcraft: Forever.
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276275"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_worm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bitter Baitling</a> |
-| Bron | Verkoper: Jang |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=15078">Jang</a> |
 | Waar | Stranglethorn Vale |
 | Prijs | 1 <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a> |
 | Nieuw in Forever | ja |

@@ -26,7 +26,7 @@ Shadowgale Squirrel est une mascotte de compagnie nouvelle dans World of Warcraf
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280347"><img class="wf-wh__icon" src="/wh/inv_squirrelflying_albino.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgale Squirrel</a> |
-| Source | Marchand: Vayn Moongaze |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=254151">Vayn Moongaze</a> |
 | Où | Zephras Isle |
 | Prix | 52 pa 63 pc |
 | Nouvelle dans Forever | oui |

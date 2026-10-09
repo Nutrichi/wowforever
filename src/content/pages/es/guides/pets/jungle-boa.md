@@ -26,7 +26,7 @@ Jungle Boa es una mascota de compañía nueva en World of Warcraft: Forever. La 
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280703"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Jungle Boa</a> |
-| Origen | Vendedor: Xan'tish |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Dónde | Orgrimmar |
 | Precio | 52 de plata y 63 de cobre |
 | Nueva en Forever | sí |

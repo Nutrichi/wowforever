@@ -26,7 +26,7 @@ Shadowgale Squirrel ist ein Haustier, das neu in World of Warcraft: Forever ist.
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280347"><img class="wf-wh__icon" src="/wh/inv_squirrelflying_albino.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgale Squirrel</a> |
-| Quelle | Händler: Vayn Moongaze |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=254151">Vayn Moongaze</a> |
 | Wo | Zephras Isle |
 | Preis | 52 Silber 63 Kupfer |
 | Neu in Forever | ja |

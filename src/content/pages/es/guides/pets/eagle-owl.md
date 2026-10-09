@@ -26,7 +26,7 @@ Eagle Owl es una mascota de compañía nueva en World of Warcraft: Forever. La a
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280803"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eagle Owl</a> |
-| Origen | Vendedor: Shylenai |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a> |
 | Dónde | Darnassus |
 | Precio | 52 de plata y 63 de cobre |
 | Nueva en Forever | sí |

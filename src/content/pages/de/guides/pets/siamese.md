@@ -26,7 +26,7 @@ Siamese ist ein Haustier aus Classic, das in World of Warcraft: Forever zurückk
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8490"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Siamese)</a> |
-| Quelle | Beute: Cookie |
+| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=645">Cookie</a> |
 | Wo | The Deadmines |
 | Neu in Forever | nein, aus Classic |
 | Accountweit | ja, laut Wowhead |

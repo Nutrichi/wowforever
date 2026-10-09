@@ -76,6 +76,12 @@ Tutti i dungeon di WoW Forever per livello, con tutte le loro missioni, sono nel
 |---|---|
 | [Mascotte](/it/guides/pets/) | Ogni mascotte da compagnia di WoW Forever, nuova o da Classic, in un'unica tabella, con una pagina per mascotte: da dove viene, l'oggetto e cosa è cambiato |
 
+## Cavalcature
+
+| Guida | Di cosa tratta |
+|---|---|
+| [Cavalcature](/it/guides/mounts/) | Ogni cavalcatura nei file di WoW Forever, nuova o da Classic, con una pagina per cavalcatura: il mercante o il bottino, il prezzo, il livello, l'abilità di monta e ciò che non si sa ancora |
+
 ## Altre guide sul sito
 
 - **Professioni:** [Tradeskills](/it/tradeskills/) ha una guida per professione per ogni era, le perk delle professioni di WoW Forever e guide Forever per [Cooking](/it/tradeskills/forever/cooking/), [First Aid](/it/tradeskills/forever/first-aid/) e [Fishing](/it/tradeskills/forever/fishing/).

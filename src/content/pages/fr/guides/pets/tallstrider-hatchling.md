@@ -26,7 +26,7 @@ Tallstrider Hatchling est une mascotte de compagnie nouvelle dans World of Warcr
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284176"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_tallstrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tallstrider Hatchling</a> |
-| Source | Butin: Strider Clutchmother |
+| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> |
 | Où | Darkshore |
 | Taux de butin | 0,2 % |
 | Nouvelle dans Forever | oui |

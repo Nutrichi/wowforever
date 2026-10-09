@@ -26,7 +26,7 @@ White Kitten est une mascotte de compagnie de Classic qui revient dans World of 
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8489"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (White Kitten)</a> |
-| Source | Marchand: Lil Timmy |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8666">Lil Timmy</a> |
 | Où | Stonetalon Mountains et Stormwind City |
 | Prix | 60 pa |
 | Nouvelle dans Forever | non, de Classic |

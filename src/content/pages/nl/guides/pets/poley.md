@@ -26,7 +26,7 @@ Poley is een companion pet uit Classic die terugkomt in World of Warcraft: Forev
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22781"><img class="wf-wh__icon" src="/wh/inv_belt_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polar Bear Collar</a> |
-| Bron | Quest: Redeem iCoke Prize Voucher |
+| Bron | Quest: <a href="https://www.wowhead.com/forever/quest=9273">Redeem iCoke Prize Voucher</a> |
 | Nieuw in Forever | nee, uit Classic |
 | Voor het hele account | ja, volgens Wowhead |
 

@@ -26,7 +26,7 @@ Jungle Boa est une mascotte de compagnie nouvelle dans World of Warcraft: Foreve
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280703"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Jungle Boa</a> |
-| Source | Marchand: Xan'tish |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Où | Orgrimmar |
 | Prix | 52 pa 63 pc |
 | Nouvelle dans Forever | oui |

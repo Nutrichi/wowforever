@@ -25,7 +25,7 @@ Minimule is a companion pet that is new in World of Warcraft: Forever. You learn
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> |
-| Source | Vendor: Gishah |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> |
 | Where | Redridge Mountains and The Barrens |
 | Price | 1,500 Merchant's Favor |
 | New in Forever | yes |

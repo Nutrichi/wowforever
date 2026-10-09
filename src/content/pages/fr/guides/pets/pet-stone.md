@@ -26,7 +26,7 @@ Pet Stone est une mascotte de compagnie de Classic qui revient dans World of War
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13343"><img class="wf-wh__icon" src="/wh/inv_stone_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Stone</a> |
-| Source | Butin: The Giant (et 1 autres) |
+| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (et 1 autres) |
 | Où | Feralas |
 | Nouvelle dans Forever | non, de Classic |
 | Pour tout le compte | oui, selon Wowhead |

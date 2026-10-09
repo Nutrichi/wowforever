@@ -26,7 +26,7 @@ Brown Prairie Dog è una mascotte da compagnia di Classic che torna in World of 
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10394"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prairie Dog Whistle</a> |
-| Fonte | Mercante: Halpa |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a> |
 | Dove | Thunder Bluff |
 | Prezzo | 50 d'argento |
 | Nuova in Forever | no, da Classic |

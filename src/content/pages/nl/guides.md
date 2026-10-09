@@ -76,6 +76,12 @@ Elke dungeon van WoW Forever op level, met al zijn quests, staat in het [dungeon
 |---|---|
 | [Pets](/nl/guides/pets/) | Elke companion pet van WoW Forever, nieuw en uit Classic, in één tabel, met een pagina per pet: waar hij vandaan komt, het item en wat er veranderde |
 
+## Mounts
+
+| Gids | Waarover |
+|---|---|
+| [Mounts](/nl/guides/mounts/) | Elke mount in de bestanden van WoW Forever, nieuw en uit Classic, met een pagina per mount: de verkoper of drop, de prijs, het level, de rijvaardigheid en wat nog niet bekend is |
+
 ## Meer gidsen op de site
 
 - **Professions:** [Tradeskills](/nl/tradeskills/) heeft een gids per profession voor elke era, de tradeskill-perks van WoW Forever en Forever-gidsen voor [Cooking](/nl/tradeskills/forever/cooking/), [First Aid](/nl/tradeskills/forever/first-aid/) en [Fishing](/nl/tradeskills/forever/fishing/).

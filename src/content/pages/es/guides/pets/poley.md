@@ -26,7 +26,7 @@ Poley es una mascota de compañía de Classic que vuelve en World of Warcraft: F
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22781"><img class="wf-wh__icon" src="/wh/inv_belt_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polar Bear Collar</a> |
-| Origen | Misión: Redeem iCoke Prize Voucher |
+| Origen | Misión: <a href="https://www.wowhead.com/forever/quest=9273">Redeem iCoke Prize Voucher</a> |
 | Nueva en Forever | no, de Classic |
 | Para toda la cuenta | sí, según Wowhead |
 

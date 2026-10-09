@@ -26,7 +26,7 @@ Jungle Boa ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lerns
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280703"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Jungle Boa</a> |
-| Quelle | Händler: Xan'tish |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Wo | Orgrimmar |
 | Preis | 52 Silber 63 Kupfer |
 | Neu in Forever | ja |

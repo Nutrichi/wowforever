@@ -26,7 +26,7 @@ Crimson Whelpling ist ein Haustier aus Classic, das in World of Warcraft: Foreve
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8499"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Crimson Whelpling</a> |
-| Quelle | Beute: Flamesnorting Whelp (und 2 weitere) |
+| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> (und 2 weitere) |
 | Wo | Wetlands |
 | Dropchance | 0,5 % |
 | Neu in Forever | nein, aus Classic |

@@ -26,7 +26,7 @@ Pet Stone is een companion pet uit Classic die terugkomt in World of Warcraft: F
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13343"><img class="wf-wh__icon" src="/wh/inv_stone_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Stone</a> |
-| Bron | Drop: The Giant (en nog 1) |
+| Bron | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (en nog 1) |
 | Waar | Feralas |
 | Nieuw in Forever | nee, uit Classic |
 | Voor het hele account | ja, volgens Wowhead |

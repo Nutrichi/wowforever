@@ -26,7 +26,7 @@ Mechanical Chicken è una mascotte da compagnia di Classic che torna in World of
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10398"><img class="wf-wh__icon" src="/wh/inv_pet_mechanicalchicken.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mechanical Chicken</a> |
-| Fonte | Missione: An OOX of Your Own |
+| Fonte | Missione: <a href="https://www.wowhead.com/forever/quest=3721">An OOX of Your Own</a> |
 | Nuova in Forever | no, da Classic |
 | Per tutto l'account | sì, secondo Wowhead |
 

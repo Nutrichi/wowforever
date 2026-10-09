@@ -26,7 +26,7 @@ Red Ground Squirrel es una mascota de compañía nueva en World of Warcraft: For
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280795"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Ground Squirrel Whistle</a> |
-| Origen | Vendedor: Halpa |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a> |
 | Dónde | Thunder Bluff |
 | Precio | 52 de plata y 63 de cobre |
 | Nueva en Forever | sí |

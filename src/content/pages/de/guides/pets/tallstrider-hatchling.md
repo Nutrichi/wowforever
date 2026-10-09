@@ -26,7 +26,7 @@ Tallstrider Hatchling ist ein Haustier, das neu in World of Warcraft: Forever is
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284176"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_tallstrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tallstrider Hatchling</a> |
-| Quelle | Beute: Strider Clutchmother |
+| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> |
 | Wo | Darkshore |
 | Dropchance | 0,2 % |
 | Neu in Forever | ja |

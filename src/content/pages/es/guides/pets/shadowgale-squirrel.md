@@ -26,7 +26,7 @@ Shadowgale Squirrel es una mascota de compañía nueva en World of Warcraft: For
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280347"><img class="wf-wh__icon" src="/wh/inv_squirrelflying_albino.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgale Squirrel</a> |
-| Origen | Vendedor: Vayn Moongaze |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=254151">Vayn Moongaze</a> |
 | Dónde | Zephras Isle |
 | Precio | 52 de plata y 63 de cobre |
 | Nueva en Forever | sí |

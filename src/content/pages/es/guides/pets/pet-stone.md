@@ -26,7 +26,7 @@ Pet Stone es una mascota de compañía de Classic que vuelve en World of Warcraf
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13343"><img class="wf-wh__icon" src="/wh/inv_stone_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Stone</a> |
-| Origen | Botín: The Giant (y 1 más) |
+| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (y 1 más) |
 | Dónde | Feralas |
 | Nueva en Forever | no, de Classic |
 | Para toda la cuenta | sí, según Wowhead |

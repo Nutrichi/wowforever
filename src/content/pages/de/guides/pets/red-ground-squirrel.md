@@ -26,7 +26,7 @@ Red Ground Squirrel ist ein Haustier, das neu in World of Warcraft: Forever ist.
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280795"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Ground Squirrel Whistle</a> |
-| Quelle | Händler: Halpa |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a> |
 | Wo | Thunder Bluff |
 | Preis | 52 Silber 63 Kupfer |
 | Neu in Forever | ja |

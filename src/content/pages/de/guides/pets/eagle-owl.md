@@ -26,7 +26,7 @@ Eagle Owl ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lernst
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280803"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eagle Owl</a> |
-| Quelle | Händler: Shylenai |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a> |
 | Wo | Darnassus |
 | Preis | 52 Silber 63 Kupfer |
 | Neu in Forever | ja |

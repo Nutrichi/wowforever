@@ -26,7 +26,7 @@ Arctic Hare ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lern
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280797"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Artic)</a> |
-| Quelle | Händler: Yarlyn Amberstill |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a> |
 | Wo | Dun Morogh |
 | Preis | 21 Silber 5 Kupfer |
 | Neu in Forever | ja |

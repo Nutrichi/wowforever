@@ -26,7 +26,7 @@ Minimule est une mascotte de compagnie nouvelle dans World of Warcraft: Forever.
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> |
-| Source | Marchand: Gishah |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> |
 | Où | Redridge Mountains et The Barrens |
 | Prix | 1.500 Merchant's Favor |
 | Nouvelle dans Forever | oui |

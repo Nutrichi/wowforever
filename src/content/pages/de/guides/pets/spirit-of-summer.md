@@ -26,7 +26,7 @@ Spirit of Summer ist ein Haustier aus Classic, das in World of Warcraft: Forever
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=23083"><img class="wf-wh__icon" src="/wh/inv_potion_33.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Captured Flame</a> |
-| Quelle | Quest: A Light in Dark Places |
+| Quelle | Quest: <a href="https://www.wowhead.com/forever/quest=9319">A Light in Dark Places</a> |
 | Neu in Forever | nein, aus Classic |
 | Accountweit | ja, laut Wowhead |
 

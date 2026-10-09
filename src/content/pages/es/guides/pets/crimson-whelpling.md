@@ -26,7 +26,7 @@ Crimson Whelpling es una mascota de compañía de Classic que vuelve en World of
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8499"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Crimson Whelpling</a> |
-| Origen | Botín: Flamesnorting Whelp (y 2 más) |
+| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> (y 2 más) |
 | Dónde | Wetlands |
 | Probabilidad | 0,5% |
 | Nueva en Forever | no, de Classic |

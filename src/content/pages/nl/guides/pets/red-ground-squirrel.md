@@ -26,7 +26,7 @@ Red Ground Squirrel is een companion pet die nieuw is in World of Warcraft: Fore
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280795"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Ground Squirrel Whistle</a> |
-| Bron | Verkoper: Halpa |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a> |
 | Waar | Thunder Bluff |
 | Prijs | 52 zilver en 63 koper |
 | Nieuw in Forever | ja |

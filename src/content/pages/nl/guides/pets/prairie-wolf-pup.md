@@ -26,7 +26,7 @@ Prairie Wolf Pup is een companion pet die nieuw is in World of Warcraft: Forever
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277508"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prairie Wolf Pup Carrier</a> |
-| Bron | Verkoper: Mayhoa Skyhoof |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268745">Mayhoa Skyhoof</a> |
 | Waar | Orgrimmar |
 | Prijs | 63 zilver en 15 koper |
 | Nieuw in Forever | ja |

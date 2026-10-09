@@ -26,7 +26,7 @@ Prairie Wolf Pup ist ein Haustier, das neu in World of Warcraft: Forever ist. Du
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277508"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prairie Wolf Pup Carrier</a> |
-| Quelle | Händler: Mayhoa Skyhoof |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268745">Mayhoa Skyhoof</a> |
 | Wo | Orgrimmar |
 | Preis | 63 Silber 15 Kupfer |
 | Neu in Forever | ja |

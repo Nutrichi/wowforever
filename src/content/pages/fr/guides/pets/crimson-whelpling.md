@@ -26,7 +26,7 @@ Crimson Whelpling est une mascotte de compagnie de Classic qui revient dans Worl
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8499"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Crimson Whelpling</a> |
-| Source | Butin: Flamesnorting Whelp (et 2 autres) |
+| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> (et 2 autres) |
 | Où | Wetlands |
 | Taux de butin | 0,5 % |
 | Nouvelle dans Forever | non, de Classic |

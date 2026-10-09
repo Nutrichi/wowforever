@@ -26,7 +26,7 @@ Pet Fish ist ein Haustier aus Classic, das in World of Warcraft: Forever zurück
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13342"><img class="wf-wh__icon" src="/wh/inv_misc_fish_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Fish</a> |
-| Quelle | Beute: Dreamwater Vicejaw |
+| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> |
 | Wo | The Hinterlands |
 | Dropchance | 0,1 % |
 | Neu in Forever | nein, aus Classic |

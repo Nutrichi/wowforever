@@ -26,7 +26,7 @@ Mechanical Chicken ist ein Haustier aus Classic, das in World of Warcraft: Forev
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10398"><img class="wf-wh__icon" src="/wh/inv_pet_mechanicalchicken.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mechanical Chicken</a> |
-| Quelle | Quest: An OOX of Your Own |
+| Quelle | Quest: <a href="https://www.wowhead.com/forever/quest=3721">An OOX of Your Own</a> |
 | Neu in Forever | nein, aus Classic |
 | Accountweit | ja, laut Wowhead |
 

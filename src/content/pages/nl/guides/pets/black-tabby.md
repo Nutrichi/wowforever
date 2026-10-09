@@ -26,7 +26,7 @@ Black Tabby is een companion pet uit Classic die terugkomt in World of Warcraft:
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8491"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Black Tabby)</a> |
-| Bron | Drop: Dalaran Shield Guard (en nog 3) |
+| Bron | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2271">Dalaran Shield Guard</a> (en nog 3) |
 | Waar | Alterac Mountains en Silverpine Forest |
 | Dropkans | 0,2% |
 | Nieuw in Forever | nee, uit Classic |

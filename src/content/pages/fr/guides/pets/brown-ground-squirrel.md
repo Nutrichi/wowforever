@@ -26,7 +26,7 @@ Brown Ground Squirrel est une mascotte de compagnie nouvelle dans World of Warcr
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280794"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Ground Squirrel Whistle</a> |
-| Source | Marchand: Halpa |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a> |
 | Où | Thunder Bluff |
 | Prix | 52 pa 63 pc |
 | Nouvelle dans Forever | oui |

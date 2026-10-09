@@ -26,7 +26,7 @@ Black Tabby es una mascota de compañía de Classic que vuelve en World of Warcr
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8491"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Black Tabby)</a> |
-| Origen | Botín: Dalaran Shield Guard (y 3 más) |
+| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2271">Dalaran Shield Guard</a> (y 3 más) |
 | Dónde | Alterac Mountains y Silverpine Forest |
 | Probabilidad | 0,2% |
 | Nueva en Forever | no, de Classic |

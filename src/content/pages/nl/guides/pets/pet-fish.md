@@ -26,7 +26,7 @@ Pet Fish is een companion pet uit Classic die terugkomt in World of Warcraft: Fo
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13342"><img class="wf-wh__icon" src="/wh/inv_misc_fish_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Fish</a> |
-| Bron | Drop: Dreamwater Vicejaw |
+| Bron | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> |
 | Waar | The Hinterlands |
 | Dropkans | 0,1% |
 | Nieuw in Forever | nee, uit Classic |

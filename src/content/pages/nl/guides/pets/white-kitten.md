@@ -26,7 +26,7 @@ White Kitten is een companion pet uit Classic die terugkomt in World of Warcraft
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8489"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (White Kitten)</a> |
-| Bron | Verkoper: Lil Timmy |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8666">Lil Timmy</a> |
 | Waar | Stonetalon Mountains en Stormwind City |
 | Prijs | 60 zilver |
 | Nieuw in Forever | nee, uit Classic |

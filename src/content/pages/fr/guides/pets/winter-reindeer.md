@@ -26,7 +26,7 @@ Winter Reindeer est une mascotte de compagnie de Classic qui revient dans World 
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=21308"><img class="wf-wh__icon" src="/wh/inv_misc_bell_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Jingling Bell</a> |
-| Source | Butin: Archibald |
+| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11870">Archibald</a> |
 | Où | Undercity |
 | Nouvelle dans Forever | non, de Classic |
 | Pour tout le compte | oui, selon Wowhead |

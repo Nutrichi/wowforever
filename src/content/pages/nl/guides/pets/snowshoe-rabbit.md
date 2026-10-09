@@ -26,7 +26,7 @@ Snowshoe Rabbit is een companion pet uit Classic die terugkomt in World of Warcr
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8497"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Snowshoe)</a> |
-| Bron | Verkoper: Yarlyn Amberstill |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a> |
 | Waar | Dun Morogh |
 | Prijs | 21 zilver en 5 koper |
 | Nieuw in Forever | nee, uit Classic |

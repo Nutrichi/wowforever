@@ -26,7 +26,7 @@ Mechanical Chicken is een companion pet uit Classic die terugkomt in World of Wa
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10398"><img class="wf-wh__icon" src="/wh/inv_pet_mechanicalchicken.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mechanical Chicken</a> |
-| Bron | Quest: An OOX of Your Own |
+| Bron | Quest: <a href="https://www.wowhead.com/forever/quest=3721">An OOX of Your Own</a> |
 | Nieuw in Forever | nee, uit Classic |
 | Voor het hele account | ja, volgens Wowhead |
 

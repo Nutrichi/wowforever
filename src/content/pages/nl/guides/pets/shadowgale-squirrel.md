@@ -26,7 +26,7 @@ Shadowgale Squirrel is een companion pet die nieuw is in World of Warcraft: Fore
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280347"><img class="wf-wh__icon" src="/wh/inv_squirrelflying_albino.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgale Squirrel</a> |
-| Bron | Verkoper: Vayn Moongaze |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=254151">Vayn Moongaze</a> |
 | Waar | Zephras Isle |
 | Prijs | 52 zilver en 63 koper |
 | Nieuw in Forever | ja |

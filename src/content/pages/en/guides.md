@@ -75,6 +75,12 @@ Every dungeon of WoW Forever by level, with all its quests, is in the [dungeon o
 |---|---|
 | [Pets](/guides/pets/) | Every companion pet of WoW Forever, new and from Classic, in one table, with a page per pet: where it comes from, the item and what changed |
 
+## Mounts
+
+| Guide | What it covers |
+|---|---|
+| [Mounts](/guides/mounts/) | Every mount in the files of WoW Forever, new and from Classic, with a page per mount: the vendor or drop, the price, the level, the riding skill and what is not known yet |
+
 ## More guides on the site
 
 - **Professions:** [Tradeskills](/tradeskills/) has a guide per profession for every era, the tradeskill perks of WoW Forever and Forever guides for [Cooking](/tradeskills/forever/cooking/), [First Aid](/tradeskills/forever/first-aid/) and [Fishing](/tradeskills/forever/fishing/).

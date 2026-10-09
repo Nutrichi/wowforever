@@ -25,7 +25,7 @@ Eagle Owl is a companion pet that is new in World of Warcraft: Forever. You lear
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280803"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eagle Owl</a> |
-| Source | Vendor: Shylenai |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a> |
 | Where | Darnassus |
 | Price | 52 silver 63 copper |
 | New in Forever | yes |

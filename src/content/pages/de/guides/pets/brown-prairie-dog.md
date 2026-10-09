@@ -26,7 +26,7 @@ Brown Prairie Dog ist ein Haustier aus Classic, das in World of Warcraft: Foreve
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10394"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prairie Dog Whistle</a> |
-| Quelle | Händler: Halpa |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a> |
 | Wo | Thunder Bluff |
 | Preis | 50 Silber |
 | Neu in Forever | nein, aus Classic |

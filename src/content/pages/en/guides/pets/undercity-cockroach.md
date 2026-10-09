@@ -25,7 +25,7 @@ Undercity Cockroach is a companion pet that is new in World of Warcraft: Forever
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280699"><img class="wf-wh__icon" src="/wh/spell_shadow_carrionswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Undercity Cockroach</a> |
-| Source | Vendor: Jeremiah Payson |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a> |
 | Where | Undercity |
 | Price | 52 silver 63 copper |
 | New in Forever | yes |

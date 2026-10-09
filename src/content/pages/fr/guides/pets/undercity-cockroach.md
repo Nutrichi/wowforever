@@ -26,7 +26,7 @@ Undercity Cockroach est une mascotte de compagnie nouvelle dans World of Warcraf
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280699"><img class="wf-wh__icon" src="/wh/spell_shadow_carrionswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Undercity Cockroach</a> |
-| Source | Marchand: Jeremiah Payson |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a> |
 | Où | Undercity |
 | Prix | 52 pa 63 pc |
 | Nouvelle dans Forever | oui |

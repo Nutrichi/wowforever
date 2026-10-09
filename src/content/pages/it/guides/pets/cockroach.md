@@ -26,7 +26,7 @@ Cockroach è una mascotte da compagnia di Classic che torna in World of Warcraft
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10393"><img class="wf-wh__icon" src="/wh/spell_shadow_carrionswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cockroach</a> |
-| Fonte | Mercante: Jeremiah Payson |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a> |
 | Dove | Undercity |
 | Prezzo | 52 d'argento e 63 di rame |
 | Nuova in Forever | no, da Classic |

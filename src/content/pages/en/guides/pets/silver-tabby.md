@@ -25,7 +25,7 @@ Silver Tabby is a companion pet from Classic that returns in World of Warcraft: 
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8488"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Silver Tabby)</a> |
-| Source | Vendor: Donni Anthania |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6367">Donni Anthania</a> |
 | Where | Elwynn Forest |
 | Price | 42 silver 10 copper |
 | New in Forever | no, from Classic |

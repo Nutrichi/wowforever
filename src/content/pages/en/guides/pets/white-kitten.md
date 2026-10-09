@@ -25,7 +25,7 @@ White Kitten is a companion pet from Classic that returns in World of Warcraft: 
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8489"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (White Kitten)</a> |
-| Source | Vendor: Lil Timmy |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8666">Lil Timmy</a> |
 | Where | Stonetalon Mountains and Stormwind City |
 | Price | 60 silver |
 | New in Forever | no, from Classic |

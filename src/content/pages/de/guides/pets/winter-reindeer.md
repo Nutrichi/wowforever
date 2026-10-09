@@ -26,7 +26,7 @@ Winter Reindeer ist ein Haustier aus Classic, das in World of Warcraft: Forever 
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=21308"><img class="wf-wh__icon" src="/wh/inv_misc_bell_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Jingling Bell</a> |
-| Quelle | Beute: Archibald |
+| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11870">Archibald</a> |
 | Wo | Undercity |
 | Neu in Forever | nein, aus Classic |
 | Accountweit | ja, laut Wowhead |

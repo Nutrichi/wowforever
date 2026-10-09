@@ -76,6 +76,12 @@ Todas las mazmorras de WoW Forever por nivel, con todas sus misiones, están en 
 |---|---|
 | [Mascotas](/es/guides/pets/) | Cada mascota de compañía de WoW Forever, nueva o de Classic, en una sola tabla, con una página por mascota: de dónde sale, el objeto y qué cambió |
 
+## Monturas
+
+| Guía | Qué cubre |
+|---|---|
+| [Monturas](/es/guides/mounts/) | Cada montura de los archivos de WoW Forever, nueva o de Classic, con una página por montura: el vendedor o el botín, el precio, el nivel, la equitación y lo que aún no se sabe |
+
 ## Más guías en la web
 
 - **Profesiones:** [Tradeskills](/es/tradeskills/) tiene una guía por profesión para cada era, las perks de profesión de WoW Forever y guías de Forever para [Cooking](/es/tradeskills/forever/cooking/), [First Aid](/es/tradeskills/forever/first-aid/) y [Fishing](/es/tradeskills/forever/fishing/).

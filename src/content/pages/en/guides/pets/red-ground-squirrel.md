@@ -25,7 +25,7 @@ Red Ground Squirrel is a companion pet that is new in World of Warcraft: Forever
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280795"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Ground Squirrel Whistle</a> |
-| Source | Vendor: Halpa |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a> |
 | Where | Thunder Bluff |
 | Price | 52 silver 63 copper |
 | New in Forever | yes |

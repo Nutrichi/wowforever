@@ -26,7 +26,7 @@ White Kitten ist ein Haustier aus Classic, das in World of Warcraft: Forever zur
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8489"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (White Kitten)</a> |
-| Quelle | Händler: Lil Timmy |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8666">Lil Timmy</a> |
 | Wo | Stonetalon Mountains und Stormwind City |
 | Preis | 60 Silber |
 | Neu in Forever | nein, aus Classic |

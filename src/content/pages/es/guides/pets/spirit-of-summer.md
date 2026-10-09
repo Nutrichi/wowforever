@@ -26,7 +26,7 @@ Spirit of Summer es una mascota de compañía de Classic que vuelve en World of 
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=23083"><img class="wf-wh__icon" src="/wh/inv_potion_33.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Captured Flame</a> |
-| Origen | Misión: A Light in Dark Places |
+| Origen | Misión: <a href="https://www.wowhead.com/forever/quest=9319">A Light in Dark Places</a> |
 | Nueva en Forever | no, de Classic |
 | Para toda la cuenta | sí, según Wowhead |
 

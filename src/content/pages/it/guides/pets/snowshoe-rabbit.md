@@ -26,7 +26,7 @@ Snowshoe Rabbit è una mascotte da compagnia di Classic che torna in World of Wa
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8497"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Snowshoe)</a> |
-| Fonte | Mercante: Yarlyn Amberstill |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a> |
 | Dove | Dun Morogh |
 | Prezzo | 21 d'argento e 5 di rame |
 | Nuova in Forever | no, da Classic |

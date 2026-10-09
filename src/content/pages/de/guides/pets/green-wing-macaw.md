@@ -26,7 +26,7 @@ Green Wing Macaw ist ein Haustier aus Classic, das in World of Warcraft: Forever
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8492"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Green Wing Macaw)</a> |
-| Quelle | Beute: Defias Pirate |
+| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=657">Defias Pirate</a> |
 | Wo | The Deadmines |
 | Neu in Forever | nein, aus Classic |
 | Accountweit | ja, laut Wowhead |

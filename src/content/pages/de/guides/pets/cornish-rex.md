@@ -26,7 +26,7 @@ Cornish Rex ist ein Haustier aus Classic, das in World of Warcraft: Forever zur�
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8486"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Cornish Rex)</a> |
-| Quelle | Händler: Donni Anthania |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6367">Donni Anthania</a> |
 | Wo | Elwynn Forest |
 | Preis | 42 Silber 10 Kupfer |
 | Neu in Forever | nein, aus Classic |

@@ -26,7 +26,7 @@ Pet Fish è una mascotte da compagnia di Classic che torna in World of Warcraft:
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13342"><img class="wf-wh__icon" src="/wh/inv_misc_fish_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Fish</a> |
-| Fonte | Bottino: Dreamwater Vicejaw |
+| Fonte | Bottino: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> |
 | Dove | The Hinterlands |
 | Probabilità | 0,1% |
 | Nuova in Forever | no, da Classic |

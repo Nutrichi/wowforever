@@ -25,7 +25,7 @@ Tallstrider Hatchling is a companion pet that is new in World of Warcraft: Forev
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284176"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_tallstrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tallstrider Hatchling</a> |
-| Source | Drop: Strider Clutchmother |
+| Source | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> |
 | Where | Darkshore |
 | Drop chance | 0.2% |
 | New in Forever | yes |

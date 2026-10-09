@@ -26,7 +26,7 @@ Snowshoe Rabbit es una mascota de compañía de Classic que vuelve en World of W
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8497"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Snowshoe)</a> |
-| Origen | Vendedor: Yarlyn Amberstill |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a> |
 | Dónde | Dun Morogh |
 | Precio | 21 de plata y 5 de cobre |
 | Nueva en Forever | no, de Classic |

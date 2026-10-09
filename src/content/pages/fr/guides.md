@@ -76,6 +76,12 @@ Tous les donjons de WoW Forever par niveau, avec toutes leurs quêtes, sont dans
 |---|---|
 | [Mascottes](/fr/guides/pets/) | Chaque mascotte de compagnie de WoW Forever, nouvelle ou de Classic, dans un seul tableau, avec une page par mascotte : son origine, l'objet et ce qui a changé |
 
+## Montures
+
+| Guide | Ce qu'il couvre |
+|---|---|
+| [Montures](/fr/guides/mounts/) | Chaque monture des fichiers de WoW Forever, nouvelle ou de Classic, avec une page par monture : le marchand ou le butin, le prix, le niveau, la compétence de monte et ce qui n'est pas encore connu |
+
 ## Autres guides du site
 
 - **Métiers :** [Tradeskills](/fr/tradeskills/) propose un guide par métier pour chaque époque, les perks de métier de WoW Forever et des guides Forever pour [Cooking](/fr/tradeskills/forever/cooking/), [First Aid](/fr/tradeskills/forever/first-aid/) et [Fishing](/fr/tradeskills/forever/fishing/).

@@ -26,7 +26,7 @@ Ancona Chicken è una mascotte da compagnia di Classic che torna in World of War
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11023"><img class="wf-wh__icon" src="/wh/inv_chicken2_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ancona Chicken</a> |
-| Fonte | Mercante: Magus Tirth |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6548">Magus Tirth</a> |
 | Dove | Thousand Needles |
 | Prezzo | 1 d'oro |
 | Nuova in Forever | no, da Classic |

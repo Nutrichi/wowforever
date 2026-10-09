@@ -26,7 +26,7 @@ Wood Frog es una mascota de compañía de Classic que vuelve en World of Warcraf
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11027"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wood Frog Box</a> |
-| Origen | Vendedor: Flik |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a> |
 | Dónde | Elwynn Forest y Mulgore |
 | Precio | 1 de oro y 5 de plata y 26 de cobre |
 | Nueva en Forever | no, de Classic |

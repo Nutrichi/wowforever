@@ -26,7 +26,7 @@ Brown Snake ist ein Haustier aus Classic, das in World of Warcraft: Forever zur�
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10361"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Snake</a> |
-| Quelle | Händler: Xan'tish |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Wo | Orgrimmar |
 | Preis | 50 Silber |
 | Neu in Forever | nein, aus Classic |

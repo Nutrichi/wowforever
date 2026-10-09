@@ -26,7 +26,7 @@ Cockatiel est une mascotte de compagnie de Classic qui revient dans World of War
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8496"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Cockatiel)</a> |
-| Source | Marchand: Narkk |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2663">Narkk</a> |
 | Où | Stranglethorn Vale |
 | Prix | 40 pa |
 | Nouvelle dans Forever | non, de Classic |

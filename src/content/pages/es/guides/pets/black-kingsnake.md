@@ -26,7 +26,7 @@ Black Kingsnake es una mascota de compañía de Classic que vuelve en World of W
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10360"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Kingsnake</a> |
-| Origen | Vendedor: Xan'tish |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Dónde | Orgrimmar |
 | Precio | 50 de plata |
 | Nueva en Forever | no, de Classic |

@@ -26,7 +26,7 @@ Prairie Chicken is een companion pet uit Classic die terugkomt in World of Warcr
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11110"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chicken Egg</a> |
-| Bron | In de wereld: Farm Chicken Egg |
+| Bron | In de wereld: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=161513">Farm Chicken Egg</a> |
 | Waar | Westfall |
 | Nieuw in Forever | nee, uit Classic |
 | Voor het hele account | ja, volgens Wowhead |

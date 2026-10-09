@@ -26,7 +26,7 @@ Hawk Owl è una mascotte da compagnia di Classic che torna in World of Warcraft:
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8501"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hawk Owl</a> |
-| Fonte | Mercante: Shylenai |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a> |
 | Dove | Darnassus |
 | Prezzo | 50 d'argento |
 | Nuova in Forever | no, da Classic |

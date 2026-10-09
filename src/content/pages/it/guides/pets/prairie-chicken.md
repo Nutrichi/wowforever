@@ -26,7 +26,7 @@ Prairie Chicken è una mascotte da compagnia di Classic che torna in World of Wa
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11110"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chicken Egg</a> |
-| Fonte | Nel mondo: Farm Chicken Egg |
+| Fonte | Nel mondo: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=161513">Farm Chicken Egg</a> |
 | Dove | Westfall |
 | Nuova in Forever | no, da Classic |
 | Per tutto l'account | sì, secondo Wowhead |

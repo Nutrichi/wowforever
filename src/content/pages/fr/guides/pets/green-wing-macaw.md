@@ -26,7 +26,7 @@ Green Wing Macaw est une mascotte de compagnie de Classic qui revient dans World
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8492"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Green Wing Macaw)</a> |
-| Source | Butin: Defias Pirate |
+| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=657">Defias Pirate</a> |
 | Où | The Deadmines |
 | Nouvelle dans Forever | non, de Classic |
 | Pour tout le compte | oui, selon Wowhead |

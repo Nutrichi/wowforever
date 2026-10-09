@@ -26,7 +26,7 @@ Ancona Chicken is een companion pet uit Classic die terugkomt in World of Warcra
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11023"><img class="wf-wh__icon" src="/wh/inv_chicken2_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ancona Chicken</a> |
-| Bron | Verkoper: Magus Tirth |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6548">Magus Tirth</a> |
 | Waar | Thousand Needles |
 | Prijs | 1 goud |
 | Nieuw in Forever | nee, uit Classic |

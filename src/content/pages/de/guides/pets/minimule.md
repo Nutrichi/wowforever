@@ -26,7 +26,7 @@ Minimule ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lernst 
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> |
-| Quelle | Händler: Gishah |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> |
 | Wo | Redridge Mountains und The Barrens |
 | Preis | 1.500 Merchant's Favor |
 | Neu in Forever | ja |

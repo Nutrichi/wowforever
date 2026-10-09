@@ -26,7 +26,7 @@ Crimson Whelpling is een companion pet uit Classic die terugkomt in World of War
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8499"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Crimson Whelpling</a> |
-| Bron | Drop: Flamesnorting Whelp (en nog 2) |
+| Bron | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> (en nog 2) |
 | Waar | Wetlands |
 | Dropkans | 0,5% |
 | Nieuw in Forever | nee, uit Classic |

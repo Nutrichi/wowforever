@@ -26,7 +26,7 @@ Brown Snake è una mascotte da compagnia di Classic che torna in World of Warcra
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10361"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Snake</a> |
-| Fonte | Mercante: Xan'tish |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Dove | Orgrimmar |
 | Prezzo | 50 d'argento |
 | Nuova in Forever | no, da Classic |

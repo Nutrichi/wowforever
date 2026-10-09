@@ -25,7 +25,7 @@ Brown Prairie Dog is a companion pet from Classic that returns in World of Warcr
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10394"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prairie Dog Whistle</a> |
-| Source | Vendor: Halpa |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a> |
 | Where | Thunder Bluff |
 | Price | 50 silver |
 | New in Forever | no, from Classic |

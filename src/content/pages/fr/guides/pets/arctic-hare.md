@@ -26,7 +26,7 @@ Arctic Hare est une mascotte de compagnie nouvelle dans World of Warcraft: Forev
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280797"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Artic)</a> |
-| Source | Marchand: Yarlyn Amberstill |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a> |
 | Où | Dun Morogh |
 | Prix | 21 pa 5 pc |
 | Nouvelle dans Forever | oui |

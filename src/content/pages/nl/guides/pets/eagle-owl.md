@@ -26,7 +26,7 @@ Eagle Owl is een companion pet die nieuw is in World of Warcraft: Forever. Je le
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280803"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eagle Owl</a> |
-| Bron | Verkoper: Shylenai |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a> |
 | Waar | Darnassus |
 | Prijs | 52 zilver en 63 koper |
 | Nieuw in Forever | ja |

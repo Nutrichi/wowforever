@@ -26,7 +26,7 @@ Pet Fish es una mascota de compañía de Classic que vuelve en World of Warcraft
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13342"><img class="wf-wh__icon" src="/wh/inv_misc_fish_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Fish</a> |
-| Origen | Botín: Dreamwater Vicejaw |
+| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> |
 | Dónde | The Hinterlands |
 | Probabilidad | 0,1% |
 | Nueva en Forever | no, de Classic |

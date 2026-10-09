@@ -25,7 +25,7 @@ Senegal is a companion pet from Classic that returns in World of Warcraft: Forev
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8495"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Senegal)</a> |
-| Source | Vendor: Narkk |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2663">Narkk</a> |
 | Where | Stranglethorn Vale |
 | Price | 40 silver |
 | New in Forever | no, from Classic |

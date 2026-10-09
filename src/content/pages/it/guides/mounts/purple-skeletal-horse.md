@@ -1,0 +1,54 @@
+---
+title: "Purple Skeletal Horse: come ottenere la cavalcatura in WoW Forever"
+metaTitle: "Come ottenere la cavalcatura Purple Skeletal Horse in WoW Forever"
+description: "Purple Skeletal Horse è una cavalcatura nuova in World of Warcraft: Forever. Fonte: Non ancora noto."
+short: "Purple Skeletal Horse"
+updated: 2026-10-09
+lang: "it"
+manual: true
+faq:
+  - q: "Come si ottiene Purple Skeletal Horse in WoW Forever?"
+    a: "I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno. Cavalcarla richiede Undead Horsemanship."
+  - q: "Purple Skeletal Horse è nuova in WoW Forever?"
+    a: "Sì. Purple Skeletal Horse è nuova in WoW Forever e non c'era in Classic."
+sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/item=265840"
+---
+
+Purple Skeletal Horse è una cavalcatura nuova in World of Warcraft: Forever. È una cavalcatura molto veloce dal livello 60. Si impara con <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=265840"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Purple Skeletal Horse</a>.
+
+<div class="wf-items">
+<div class="wf-item"><img class="wf-item__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q4" href="https://www.wowhead.com/forever/item=265840">Purple Skeletal Horse</a><span class="wf-item__line wf-item__meta">Item Level 60</span><span class="wf-item__line">Binds when used</span><span class="wf-item__line">Mount (Account-wide)Requires any Horde race</span><span class="wf-item__line">Requires Level 60</span><span class="wf-item__line">Requires Undead Horsemanship</span><span class="wf-item__line wf-item__use">Use: Teaches you how to summon this mount.</span><span class="wf-item__line">Summons and dismisses a rideable Purple Skeletal Horse. This is a very fast mount.</span></div></div>
+</div>
+
+## In breve
+
+| | |
+|---|---|
+| Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=265840"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Purple Skeletal Horse</a> |
+| Fonte | Non ancora noto |
+| Livello | 60 |
+| Cavalcare | Undead Horsemanship |
+| Velocità | molto veloce |
+| Nuova in Forever | sì |
+| Per tutto l'account | sì, secondo la descrizione sulla beta |
+
+## Come ottenerla
+
+I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+
+Cavalcarla richiede Undead Horsemanship.
+
+## Altre cavalcature con Undead Horsemanship
+
+- [Black Skeletal Horse](/it/guides/mounts/black-skeletal-horse/)
+- [Blue Skeletal Horse](/it/guides/mounts/blue-skeletal-horse/)
+- [Brown Skeletal Horse](/it/guides/mounts/brown-skeletal-horse/)
+- [Dark Skeletal Horse](/it/guides/mounts/dark-skeletal-horse/)
+- [Green Skeletal Horse](/it/guides/mounts/green-skeletal-horse/)
+- [Green Skeletal Warhorse](/it/guides/mounts/green-skeletal-warhorse/)
+- [Ochre Skeletal Warhorse](/it/guides/mounts/ochre-skeletal-warhorse/)
+- [Purple Skeletal Warhorse](/it/guides/mounts/purple-skeletal-warhorse/)
+
+Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

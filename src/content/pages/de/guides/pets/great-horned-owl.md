@@ -26,7 +26,7 @@ Great Horned Owl ist ein Haustier aus Classic, das in World of Warcraft: Forever
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8500"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Great Horned Owl</a> |
-| Quelle | Händler: Shylenai |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a> |
 | Wo | Darnassus |
 | Preis | 50 Silber |
 | Neu in Forever | nein, aus Classic |

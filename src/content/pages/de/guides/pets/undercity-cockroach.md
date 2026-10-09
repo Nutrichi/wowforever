@@ -26,7 +26,7 @@ Undercity Cockroach ist ein Haustier, das neu in World of Warcraft: Forever ist.
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280699"><img class="wf-wh__icon" src="/wh/spell_shadow_carrionswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Undercity Cockroach</a> |
-| Quelle | Händler: Jeremiah Payson |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a> |
 | Wo | Undercity |
 | Preis | 52 Silber 63 Kupfer |
 | Neu in Forever | ja |

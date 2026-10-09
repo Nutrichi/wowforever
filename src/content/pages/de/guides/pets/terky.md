@@ -26,7 +26,7 @@ Terky ist ein Haustier aus Classic, das in World of Warcraft: Forever zurückkeh
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22780"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">White Murloc Egg</a> |
-| Quelle | Quest: Redeem iCoke Prize Voucher |
+| Quelle | Quest: <a href="https://www.wowhead.com/forever/quest=8021">Redeem iCoke Prize Voucher</a> |
 | Neu in Forever | nein, aus Classic |
 | Accountweit | ja, laut Wowhead |
 

@@ -25,7 +25,7 @@ Ancona Chicken is a companion pet from Classic that returns in World of Warcraft
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11023"><img class="wf-wh__icon" src="/wh/inv_chicken2_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ancona Chicken</a> |
-| Source | Vendor: Magus Tirth |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6548">Magus Tirth</a> |
 | Where | Thousand Needles |
 | Price | 1 gold |
 | New in Forever | no, from Classic |

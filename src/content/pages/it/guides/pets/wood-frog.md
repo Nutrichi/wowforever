@@ -26,7 +26,7 @@ Wood Frog è una mascotte da compagnia di Classic che torna in World of Warcraft
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11027"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wood Frog Box</a> |
-| Fonte | Mercante: Flik |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a> |
 | Dove | Elwynn Forest e Mulgore |
 | Prezzo | 1 d'oro e 5 d'argento e 26 di rame |
 | Nuova in Forever | no, da Classic |

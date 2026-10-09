@@ -26,7 +26,7 @@ Jungle Boa is een companion pet die nieuw is in World of Warcraft: Forever. Je l
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280703"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Jungle Boa</a> |
-| Bron | Verkoper: Xan'tish |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Waar | Orgrimmar |
 | Prijs | 52 zilver en 63 koper |
 | Nieuw in Forever | ja |

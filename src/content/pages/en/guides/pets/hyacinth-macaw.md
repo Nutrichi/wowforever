@@ -25,7 +25,7 @@ Hyacinth Macaw is a companion pet from Classic that returns in World of Warcraft
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8494"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Hyacinth Macaw)</a> |
-| Source | Drop: Bloodsail Sea Dog (and 5 more) |
+| Source | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1565">Bloodsail Sea Dog</a> (and 5 more) |
 | Where | Stranglethorn Vale |
 | Drop chance | 0.7% |
 | New in Forever | no, from Classic |

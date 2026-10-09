@@ -26,7 +26,7 @@ Pet Stone è una mascotte da compagnia di Classic che torna in World of Warcraft
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13343"><img class="wf-wh__icon" src="/wh/inv_stone_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Stone</a> |
-| Fonte | Bottino: The Giant (e altre 1) |
+| Fonte | Bottino: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (e altre 1) |
 | Dove | Feralas |
 | Nuova in Forever | no, da Classic |
 | Per tutto l'account | sì, secondo Wowhead |

@@ -26,7 +26,7 @@ Brown Prairie Dog is een companion pet uit Classic die terugkomt in World of War
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10394"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prairie Dog Whistle</a> |
-| Bron | Verkoper: Halpa |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a> |
 | Waar | Thunder Bluff |
 | Prijs | 50 zilver |
 | Nieuw in Forever | nee, uit Classic |

@@ -26,7 +26,7 @@ Pet Fish est une mascotte de compagnie de Classic qui revient dans World of Warc
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13342"><img class="wf-wh__icon" src="/wh/inv_misc_fish_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Fish</a> |
-| Source | Butin: Dreamwater Vicejaw |
+| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> |
 | Où | The Hinterlands |
 | Taux de butin | 0,1 % |
 | Nouvelle dans Forever | non, de Classic |

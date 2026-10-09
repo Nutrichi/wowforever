@@ -25,7 +25,7 @@ Winter Reindeer is a companion pet from Classic that returns in World of Warcraf
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=21308"><img class="wf-wh__icon" src="/wh/inv_misc_bell_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Jingling Bell</a> |
-| Source | Drop: Archibald |
+| Source | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11870">Archibald</a> |
 | Where | Undercity |
 | New in Forever | no, from Classic |
 | Account-wide | yes, according to Wowhead |

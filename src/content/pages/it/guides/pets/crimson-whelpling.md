@@ -26,7 +26,7 @@ Crimson Whelpling è una mascotte da compagnia di Classic che torna in World of 
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8499"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Crimson Whelpling</a> |
-| Fonte | Bottino: Flamesnorting Whelp (e altre 2) |
+| Fonte | Bottino: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> (e altre 2) |
 | Dove | Wetlands |
 | Probabilità | 0,5% |
 | Nuova in Forever | no, da Classic |

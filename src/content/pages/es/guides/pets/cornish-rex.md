@@ -26,7 +26,7 @@ Cornish Rex es una mascota de compañía de Classic que vuelve en World of Warcr
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8486"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Cornish Rex)</a> |
-| Origen | Vendedor: Donni Anthania |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6367">Donni Anthania</a> |
 | Dónde | Elwynn Forest |
 | Precio | 42 de plata y 10 de cobre |
 | Nueva en Forever | no, de Classic |

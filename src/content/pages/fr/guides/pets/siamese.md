@@ -26,7 +26,7 @@ Siamese est une mascotte de compagnie de Classic qui revient dans World of Warcr
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8490"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Siamese)</a> |
-| Source | Butin: Cookie |
+| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=645">Cookie</a> |
 | Où | The Deadmines |
 | Nouvelle dans Forever | non, de Classic |
 | Pour tout le compte | oui, selon Wowhead |

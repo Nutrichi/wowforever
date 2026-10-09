@@ -26,7 +26,7 @@ Cockatiel es una mascota de compañía de Classic que vuelve en World of Warcraf
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8496"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Cockatiel)</a> |
-| Origen | Vendedor: Narkk |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2663">Narkk</a> |
 | Dónde | Stranglethorn Vale |
 | Precio | 40 de plata |
 | Nueva en Forever | no, de Classic |

@@ -26,7 +26,7 @@ Bombay is een companion pet uit Classic die terugkomt in World of Warcraft: Fore
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8485"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Bombay)</a> |
-| Bron | Verkoper: Donni Anthania |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6367">Donni Anthania</a> |
 | Waar | Elwynn Forest |
 | Prijs | 42 zilver en 10 koper |
 | Nieuw in Forever | nee, uit Classic |

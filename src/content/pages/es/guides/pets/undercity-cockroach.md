@@ -26,7 +26,7 @@ Undercity Cockroach es una mascota de compañía nueva en World of Warcraft: For
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280699"><img class="wf-wh__icon" src="/wh/spell_shadow_carrionswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Undercity Cockroach</a> |
-| Origen | Vendedor: Jeremiah Payson |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a> |
 | Dónde | Undercity |
 | Precio | 52 de plata y 63 de cobre |
 | Nueva en Forever | sí |

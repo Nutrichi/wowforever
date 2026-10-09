@@ -485,6 +485,10 @@ a.wf-wh img.wf-wh__icon {
 /* Een spell, NPC of zone: de linkkleur van de site, zonder kwaliteit. */
 .wf-prose a.wf-wh.wf-spell, .wf-gprose a.wf-wh.wf-spell, a.wf-wh.wf-spell { color: var(--wf-accent); }
 .wf-prose a.wf-wh.wf-plain, .wf-gprose a.wf-wh.wf-plain, a.wf-wh.wf-plain { color: var(--wf-ink-soft); font-weight: 500; }
+/* Een NPC, quest of object is een link met een tooltip; een stippellijn toont dat (Nutri, 9 oktober 2026:
+   "foresee links to the NPC's ... and mouse over"). Volle lijn bij hover. */
+a.wf-wh.wf-plain { text-decoration: underline dotted; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a.wf-wh.wf-plain:hover { text-decoration-style: solid; }
 
 .wf-items .wf-item__meta { color: var(--wf-accent); }
 .wf-items .wf-item__use { color: var(--wf-q2); }

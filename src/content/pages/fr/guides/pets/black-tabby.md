@@ -26,7 +26,7 @@ Black Tabby est une mascotte de compagnie de Classic qui revient dans World of W
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8491"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Black Tabby)</a> |
-| Source | Butin: Dalaran Shield Guard (et 3 autres) |
+| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2271">Dalaran Shield Guard</a> (et 3 autres) |
 | Où | Alterac Mountains et Silverpine Forest |
 | Taux de butin | 0,2 % |
 | Nouvelle dans Forever | non, de Classic |

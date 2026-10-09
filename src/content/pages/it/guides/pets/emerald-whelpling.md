@@ -26,7 +26,7 @@ Emerald Whelpling è una mascotte da compagnia di Classic che torna in World of 
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8498"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Emerald Whelpling</a> |
-| Fonte | Bottino: Dreaming Whelp |
+| Fonte | Bottino: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> |
 | Dove | Swamp of Sorrows |
 | Probabilità | 0,2% |
 | Nuova in Forever | no, da Classic |

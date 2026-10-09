@@ -26,7 +26,7 @@ Tree Frog is een companion pet uit Classic die terugkomt in World of Warcraft: F
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11026"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tree Frog Box</a> |
-| Bron | Verkoper: Flik |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a> |
 | Waar | Elwynn Forest en Mulgore |
 | Prijs | 1 goud en 5 zilver en 26 koper |
 | Nieuw in Forever | nee, uit Classic |

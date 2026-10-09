@@ -25,7 +25,7 @@ Black Kingsnake is a companion pet from Classic that returns in World of Warcraf
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10360"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Kingsnake</a> |
-| Source | Vendor: Xan'tish |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Where | Orgrimmar |
 | Price | 50 silver |
 | New in Forever | no, from Classic |

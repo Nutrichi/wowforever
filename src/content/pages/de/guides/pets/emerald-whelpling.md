@@ -26,7 +26,7 @@ Emerald Whelpling ist ein Haustier aus Classic, das in World of Warcraft: Foreve
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8498"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Emerald Whelpling</a> |
-| Quelle | Beute: Dreaming Whelp |
+| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> |
 | Wo | Swamp of Sorrows |
 | Dropchance | 0,2 % |
 | Neu in Forever | nein, aus Classic |

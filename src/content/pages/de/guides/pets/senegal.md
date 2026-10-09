@@ -26,7 +26,7 @@ Senegal ist ein Haustier aus Classic, das in World of Warcraft: Forever zurückk
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8495"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Senegal)</a> |
-| Quelle | Händler: Narkk |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2663">Narkk</a> |
 | Wo | Stranglethorn Vale |
 | Preis | 40 Silber |
 | Neu in Forever | nein, aus Classic |

@@ -35,26 +35,30 @@
    "icon": "ability_mount_mechastrider",
    "quality": 4,
    "new": false,
-   "kind": "pvp",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Valley",
+    "Arathi Basin",
+    "Warsong Gulch"
+   ],
    "level": 40,
    "riding": "Mechanostrider Piloting",
    "fast": true,
    "source": {
-    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
-    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
-    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
-    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
-    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
-    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+    "en": "Vendor: Lieutenant Karter, 100 gold",
+    "nl": "Verkoper: Lieutenant Karter, 100 goud",
+    "fr": "Marchand: Lieutenant Karter, 100 po",
+    "es": "Vendedor: Lieutenant Karter, 100 de oro",
+    "it": "Mercante: Lieutenant Karter, 100 d'oro",
+    "de": "Händler: Lieutenant Karter, 100 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Valley, Arathi Basin and Warsong Gulch",
+    "nl": "Alterac Valley, Arathi Basin en Warsong Gulch",
+    "fr": "Alterac Valley, Arathi Basin et Warsong Gulch",
+    "es": "Alterac Valley, Arathi Basin y Warsong Gulch",
+    "it": "Alterac Valley, Arathi Basin e Warsong Gulch",
+    "de": "Alterac Valley, Arathi Basin und Warsong Gulch"
    }
   },
   {
@@ -203,26 +207,28 @@
    "icon": "ability_mount_ridinghorse",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Wetlands"
+   ],
    "level": 40,
    "riding": "Horse Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Unger Statforth, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Unger Statforth, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Unger Statforth, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Unger Statforth, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Unger Statforth, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Unger Statforth, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Wetlands",
+    "nl": "Wetlands",
+    "fr": "Wetlands",
+    "es": "Wetlands",
+    "it": "Wetlands",
+    "de": "Wetlands"
    }
   },
   {
@@ -231,26 +237,30 @@
    "icon": "ability_mount_kodo_03",
    "quality": 4,
    "new": false,
-   "kind": "pvp",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Valley",
+    "Arathi Basin",
+    "Warsong Gulch"
+   ],
    "level": 40,
    "riding": "Kodo Riding",
    "fast": true,
    "source": {
-    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
-    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
-    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
-    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
-    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
-    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+    "en": "Vendor: Raider Bork, 100 gold",
+    "nl": "Verkoper: Raider Bork, 100 goud",
+    "fr": "Marchand: Raider Bork, 100 po",
+    "es": "Vendedor: Raider Bork, 100 de oro",
+    "it": "Mercante: Raider Bork, 100 d'oro",
+    "de": "Händler: Raider Bork, 100 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Valley, Arathi Basin and Warsong Gulch",
+    "nl": "Alterac Valley, Arathi Basin en Warsong Gulch",
+    "fr": "Alterac Valley, Arathi Basin et Warsong Gulch",
+    "es": "Alterac Valley, Arathi Basin y Warsong Gulch",
+    "it": "Alterac Valley, Arathi Basin e Warsong Gulch",
+    "de": "Alterac Valley, Arathi Basin und Warsong Gulch"
    }
   },
   {
@@ -259,26 +269,30 @@
    "icon": "ability_mount_mountainram",
    "quality": 4,
    "new": false,
-   "kind": "pvp",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Valley",
+    "Arathi Basin",
+    "Warsong Gulch"
+   ],
    "level": 40,
    "riding": "Ram Riding",
    "fast": true,
    "source": {
-    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
-    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
-    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
-    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
-    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
-    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+    "en": "Vendor: Lieutenant Karter, 100 gold",
+    "nl": "Verkoper: Lieutenant Karter, 100 goud",
+    "fr": "Marchand: Lieutenant Karter, 100 po",
+    "es": "Vendedor: Lieutenant Karter, 100 de oro",
+    "it": "Mercante: Lieutenant Karter, 100 d'oro",
+    "de": "Händler: Lieutenant Karter, 100 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Valley, Arathi Basin and Warsong Gulch",
+    "nl": "Alterac Valley, Arathi Basin en Warsong Gulch",
+    "fr": "Alterac Valley, Arathi Basin et Warsong Gulch",
+    "es": "Alterac Valley, Arathi Basin y Warsong Gulch",
+    "it": "Alterac Valley, Arathi Basin e Warsong Gulch",
+    "de": "Alterac Valley, Arathi Basin und Warsong Gulch"
    }
   },
   {
@@ -287,26 +301,30 @@
    "icon": "ability_mount_raptor",
    "quality": 4,
    "new": false,
-   "kind": "pvp",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Valley",
+    "Arathi Basin",
+    "Warsong Gulch"
+   ],
    "level": 40,
    "riding": "Raptor Riding",
    "fast": true,
    "source": {
-    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
-    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
-    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
-    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
-    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
-    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+    "en": "Vendor: Raider Bork, 100 gold",
+    "nl": "Verkoper: Raider Bork, 100 goud",
+    "fr": "Marchand: Raider Bork, 100 po",
+    "es": "Vendedor: Raider Bork, 100 de oro",
+    "it": "Mercante: Raider Bork, 100 d'oro",
+    "de": "Händler: Raider Bork, 100 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Valley, Arathi Basin and Warsong Gulch",
+    "nl": "Alterac Valley, Arathi Basin en Warsong Gulch",
+    "fr": "Alterac Valley, Arathi Basin et Warsong Gulch",
+    "es": "Alterac Valley, Arathi Basin y Warsong Gulch",
+    "it": "Alterac Valley, Arathi Basin e Warsong Gulch",
+    "de": "Alterac Valley, Arathi Basin und Warsong Gulch"
    }
   },
   {
@@ -315,26 +333,30 @@
    "icon": "ability_mount_nightmarehorse",
    "quality": 4,
    "new": false,
-   "kind": "pvp",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Valley",
+    "Arathi Basin",
+    "Warsong Gulch"
+   ],
    "level": 40,
    "riding": "Horse Riding",
    "fast": true,
    "source": {
-    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
-    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
-    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
-    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
-    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
-    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+    "en": "Vendor: Lieutenant Karter, 100 gold",
+    "nl": "Verkoper: Lieutenant Karter, 100 goud",
+    "fr": "Marchand: Lieutenant Karter, 100 po",
+    "es": "Vendedor: Lieutenant Karter, 100 de oro",
+    "it": "Mercante: Lieutenant Karter, 100 d'oro",
+    "de": "Händler: Lieutenant Karter, 100 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Valley, Arathi Basin and Warsong Gulch",
+    "nl": "Alterac Valley, Arathi Basin en Warsong Gulch",
+    "fr": "Alterac Valley, Arathi Basin et Warsong Gulch",
+    "es": "Alterac Valley, Arathi Basin y Warsong Gulch",
+    "it": "Alterac Valley, Arathi Basin e Warsong Gulch",
+    "de": "Alterac Valley, Arathi Basin und Warsong Gulch"
    }
   },
   {
@@ -343,26 +365,30 @@
    "icon": "ability_mount_blackpanther",
    "quality": 4,
    "new": false,
-   "kind": "pvp",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Valley",
+    "Arathi Basin",
+    "Warsong Gulch"
+   ],
    "level": 40,
    "riding": "Tiger Riding",
    "fast": true,
    "source": {
-    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
-    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
-    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
-    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
-    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
-    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+    "en": "Vendor: Lieutenant Karter, 100 gold",
+    "nl": "Verkoper: Lieutenant Karter, 100 goud",
+    "fr": "Marchand: Lieutenant Karter, 100 po",
+    "es": "Vendedor: Lieutenant Karter, 100 de oro",
+    "it": "Mercante: Lieutenant Karter, 100 d'oro",
+    "de": "Händler: Lieutenant Karter, 100 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Valley, Arathi Basin and Warsong Gulch",
+    "nl": "Alterac Valley, Arathi Basin en Warsong Gulch",
+    "fr": "Alterac Valley, Arathi Basin et Warsong Gulch",
+    "es": "Alterac Valley, Arathi Basin y Warsong Gulch",
+    "it": "Alterac Valley, Arathi Basin e Warsong Gulch",
+    "de": "Alterac Valley, Arathi Basin und Warsong Gulch"
    }
   },
   {
@@ -371,26 +397,30 @@
    "icon": "ability_mount_blackdirewolf",
    "quality": 4,
    "new": false,
-   "kind": "pvp",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Valley",
+    "Arathi Basin",
+    "Warsong Gulch"
+   ],
    "level": 40,
    "riding": "Wolf Riding",
    "fast": true,
    "source": {
-    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
-    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
-    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
-    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
-    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
-    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+    "en": "Vendor: Raider Bork, 100 gold",
+    "nl": "Verkoper: Raider Bork, 100 goud",
+    "fr": "Marchand: Raider Bork, 100 po",
+    "es": "Vendedor: Raider Bork, 100 de oro",
+    "it": "Mercante: Raider Bork, 100 d'oro",
+    "de": "Händler: Raider Bork, 100 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Valley, Arathi Basin and Warsong Gulch",
+    "nl": "Alterac Valley, Arathi Basin en Warsong Gulch",
+    "fr": "Alterac Valley, Arathi Basin et Warsong Gulch",
+    "es": "Alterac Valley, Arathi Basin y Warsong Gulch",
+    "it": "Alterac Valley, Arathi Basin e Warsong Gulch",
+    "de": "Alterac Valley, Arathi Basin und Warsong Gulch"
    }
   },
   {
@@ -483,26 +513,28 @@
    "icon": "ability_mount_mechastrider",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 40,
    "riding": "Mechanostrider Piloting",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Milli Featherwhistle, 40 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 40 goud",
+    "fr": "Marchand: Milli Featherwhistle, 40 po",
+    "es": "Vendedor: Milli Featherwhistle, 40 de oro",
+    "it": "Mercante: Milli Featherwhistle, 40 d'oro",
+    "de": "Händler: Milli Featherwhistle, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -511,26 +543,28 @@
    "icon": "inv_misc_qirajicrystal_04",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "drop",
+   "zones": [
+    "Ahn'Qiraj"
+   ],
    "level": 60,
    "riding": null,
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Drop: Qiraji Champion (and 14 more)",
+    "nl": "Drop: Qiraji Champion (en nog 14)",
+    "fr": "Butin: Qiraji Champion (et 14 autres)",
+    "es": "Botín: Qiraji Champion (y 14 más)",
+    "it": "Bottino: Qiraji Champion (e altri 14)",
+    "de": "Beute: Qiraji Champion (und 14 weitere)"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Ahn'Qiraj",
+    "nl": "Ahn'Qiraj",
+    "fr": "Ahn'Qiraj",
+    "es": "Ahn'Qiraj",
+    "it": "Ahn'Qiraj",
+    "de": "Ahn'Qiraj"
    }
   },
   {
@@ -539,26 +573,28 @@
    "icon": "ability_mount_undeadhorse",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Tirisfal Glades"
+   ],
    "level": 40,
    "riding": "Undead Horsemanship",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zachariah Post, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Zachariah Post, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Zachariah Post, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Zachariah Post, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Zachariah Post, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Zachariah Post, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Tirisfal Glades",
+    "nl": "Tirisfal Glades",
+    "fr": "Tirisfal Glades",
+    "es": "Tirisfal Glades",
+    "it": "Tirisfal Glades",
+    "de": "Tirisfal Glades"
    }
   },
   {
@@ -567,26 +603,31 @@
    "icon": "ability_mount_ridinghorse",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dustwallow Marsh",
+    "Elwynn Forest",
+    "Hillsbrad Foothills",
+    "Wetlands"
+   ],
    "level": 40,
    "riding": "Horse Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Katie Hunter, 40 gold",
+    "nl": "Verkoper: Katie Hunter, 40 goud",
+    "fr": "Marchand: Katie Hunter, 40 po",
+    "es": "Vendedor: Katie Hunter, 40 de oro",
+    "it": "Mercante: Katie Hunter, 40 d'oro",
+    "de": "Händler: Katie Hunter, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "4 zones",
+    "nl": "4 zones",
+    "fr": "4 zones",
+    "es": "4 zonas",
+    "it": "4 zone",
+    "de": "4 Gebiete"
    }
   },
   {
@@ -595,26 +636,28 @@
    "icon": "ability_mount_kodo_03",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Mulgore"
+   ],
    "level": 40,
    "riding": "Kodo Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Harb Clawhoof, 35 gold 55 silver 55 copper",
+    "nl": "Verkoper: Harb Clawhoof, 35 goud en 55 zilver en 55 koper",
+    "fr": "Marchand: Harb Clawhoof, 35 po 55 pa 55 pc",
+    "es": "Vendedor: Harb Clawhoof, 35 de oro y 55 de plata y 55 de cobre",
+    "it": "Mercante: Harb Clawhoof, 35 d'oro e 55 d'argento e 55 di rame",
+    "de": "Händler: Harb Clawhoof, 35 Gold 55 Silber 55 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Mulgore",
+    "nl": "Mulgore",
+    "fr": "Mulgore",
+    "es": "Mulgore",
+    "it": "Mulgore",
+    "de": "Mulgore"
    }
   },
   {
@@ -623,26 +666,28 @@
    "icon": "ability_mount_mountainram",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 40,
    "riding": "Ram Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Veron Amberstill, 40 gold",
+    "nl": "Verkoper: Veron Amberstill, 40 goud",
+    "fr": "Marchand: Veron Amberstill, 40 po",
+    "es": "Vendedor: Veron Amberstill, 40 de oro",
+    "it": "Mercante: Veron Amberstill, 40 d'oro",
+    "de": "Händler: Veron Amberstill, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -651,26 +696,28 @@
    "icon": "ability_mount_undeadhorse",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Tirisfal Glades"
+   ],
    "level": 40,
    "riding": "Undead Horsemanship",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zachariah Post, 40 gold",
+    "nl": "Verkoper: Zachariah Post, 40 goud",
+    "fr": "Marchand: Zachariah Post, 40 po",
+    "es": "Vendedor: Zachariah Post, 40 de oro",
+    "it": "Mercante: Zachariah Post, 40 d'oro",
+    "de": "Händler: Zachariah Post, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Tirisfal Glades",
+    "nl": "Tirisfal Glades",
+    "fr": "Tirisfal Glades",
+    "es": "Tirisfal Glades",
+    "it": "Tirisfal Glades",
+    "de": "Tirisfal Glades"
    }
   },
   {
@@ -707,26 +754,28 @@
    "icon": "ability_mount_blackdirewolf",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
    "level": 40,
    "riding": "Wolf Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Ogunaro Wolfrunner, 40 gold",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 40 goud",
+    "fr": "Marchand: Ogunaro Wolfrunner, 40 po",
+    "es": "Vendedor: Ogunaro Wolfrunner, 40 de oro",
+    "it": "Mercante: Ogunaro Wolfrunner, 40 d'oro",
+    "de": "Händler: Ogunaro Wolfrunner, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
    }
   },
   {
@@ -819,26 +868,31 @@
    "icon": "ability_mount_ridinghorse",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dustwallow Marsh",
+    "Elwynn Forest",
+    "Hillsbrad Foothills",
+    "Wetlands"
+   ],
    "level": 40,
    "riding": "Horse Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Katie Hunter, 40 gold",
+    "nl": "Verkoper: Katie Hunter, 40 goud",
+    "fr": "Marchand: Katie Hunter, 40 po",
+    "es": "Vendedor: Katie Hunter, 40 de oro",
+    "it": "Mercante: Katie Hunter, 40 d'oro",
+    "de": "Händler: Katie Hunter, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "4 zones",
+    "nl": "4 zones",
+    "fr": "4 zones",
+    "es": "4 zonas",
+    "it": "4 zone",
+    "de": "4 Gebiete"
    }
   },
   {
@@ -875,26 +929,28 @@
    "icon": "ability_mount_whitedirewolf",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
    "level": 40,
    "riding": "Wolf Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Ogunaro Wolfrunner, 40 gold",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 40 goud",
+    "fr": "Marchand: Ogunaro Wolfrunner, 40 po",
+    "es": "Vendedor: Ogunaro Wolfrunner, 40 de oro",
+    "it": "Mercante: Ogunaro Wolfrunner, 40 d'oro",
+    "de": "Händler: Ogunaro Wolfrunner, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
    }
   },
   {
@@ -931,26 +987,28 @@
    "icon": "ability_mount_raptor",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Durotar"
+   ],
    "level": 40,
    "riding": "Raptor Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zjolnir, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Zjolnir, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Zjolnir, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Zjolnir, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Zjolnir, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Zjolnir, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Durotar",
+    "nl": "Durotar",
+    "fr": "Durotar",
+    "es": "Durotar",
+    "it": "Durotar",
+    "de": "Durotar"
    }
   },
   {
@@ -959,26 +1017,28 @@
    "icon": "inv_craneskybornemount_c60_white",
    "quality": 3,
    "new": true,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Zephras Isle"
+   ],
    "level": 40,
    "riding": "Galestrider Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Genn Fairweather, 20 gold",
+    "nl": "Verkoper: Genn Fairweather, 20 goud",
+    "fr": "Marchand: Genn Fairweather, 20 po",
+    "es": "Vendedor: Genn Fairweather, 20 de oro",
+    "it": "Mercante: Genn Fairweather, 20 d'oro",
+    "de": "Händler: Genn Fairweather, 20 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Zephras Isle",
+    "nl": "Zephras Isle",
+    "fr": "Zephras Isle",
+    "es": "Zephras Isle",
+    "it": "Zephras Isle",
+    "de": "Zephras Isle"
    }
   },
   {
@@ -1099,26 +1159,29 @@
    "icon": "inv_misc_horn_01",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Mountains",
+    "Alterac Valley"
+   ],
    "level": 60,
    "riding": null,
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Grunnda Wolfheart, 800 gold",
+    "nl": "Verkoper: Grunnda Wolfheart, 800 goud",
+    "fr": "Marchand: Grunnda Wolfheart, 800 po",
+    "es": "Vendedor: Grunnda Wolfheart, 800 de oro",
+    "it": "Mercante: Grunnda Wolfheart, 800 d'oro",
+    "de": "Händler: Grunnda Wolfheart, 800 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Mountains and Alterac Valley",
+    "nl": "Alterac Mountains en Alterac Valley",
+    "fr": "Alterac Mountains et Alterac Valley",
+    "es": "Alterac Mountains y Alterac Valley",
+    "it": "Alterac Mountains e Alterac Valley",
+    "de": "Alterac Mountains und Alterac Valley"
    }
   },
   {
@@ -1183,26 +1246,28 @@
    "icon": "ability_mount_kodo_01",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Mulgore"
+   ],
    "level": 40,
    "riding": "Kodo Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Harb Clawhoof, 35 gold 55 silver 55 copper",
+    "nl": "Verkoper: Harb Clawhoof, 35 goud en 55 zilver en 55 koper",
+    "fr": "Marchand: Harb Clawhoof, 35 po 55 pa 55 pc",
+    "es": "Vendedor: Harb Clawhoof, 35 de oro y 55 de plata y 55 de cobre",
+    "it": "Mercante: Harb Clawhoof, 35 d'oro e 55 d'argento e 55 di rame",
+    "de": "Händler: Harb Clawhoof, 35 Gold 55 Silber 55 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Mulgore",
+    "nl": "Mulgore",
+    "fr": "Mulgore",
+    "es": "Mulgore",
+    "it": "Mulgore",
+    "de": "Mulgore"
    }
   },
   {
@@ -1211,26 +1276,28 @@
    "icon": "ability_mount_mountainram",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 40,
    "riding": "Ram Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Veron Amberstill, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Veron Amberstill, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Veron Amberstill, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Veron Amberstill, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Veron Amberstill, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Veron Amberstill, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -1295,26 +1362,28 @@
    "icon": "ability_mount_kodo_03",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Mulgore"
+   ],
    "level": 60,
    "riding": "Kodo Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Harb Clawhoof, 1052 gold 63 silver 15 copper",
+    "nl": "Verkoper: Harb Clawhoof, 1052 goud en 63 zilver en 15 koper",
+    "fr": "Marchand: Harb Clawhoof, 1052 po 63 pa 15 pc",
+    "es": "Vendedor: Harb Clawhoof, 1052 de oro y 63 de plata y 15 de cobre",
+    "it": "Mercante: Harb Clawhoof, 1052 d'oro e 63 d'argento e 15 di rame",
+    "de": "Händler: Harb Clawhoof, 1052 Gold 63 Silber 15 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Mulgore",
+    "nl": "Mulgore",
+    "fr": "Mulgore",
+    "es": "Mulgore",
+    "it": "Mulgore",
+    "de": "Mulgore"
    }
   },
   {
@@ -1323,26 +1392,28 @@
    "icon": "ability_mount_kodo_01",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Mulgore"
+   ],
    "level": 60,
    "riding": "Kodo Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Harb Clawhoof, 1052 gold 63 silver 15 copper",
+    "nl": "Verkoper: Harb Clawhoof, 1052 goud en 63 zilver en 15 koper",
+    "fr": "Marchand: Harb Clawhoof, 1052 po 63 pa 15 pc",
+    "es": "Vendedor: Harb Clawhoof, 1052 de oro y 63 de plata y 15 de cobre",
+    "it": "Mercante: Harb Clawhoof, 1052 d'oro e 63 d'argento e 15 di rame",
+    "de": "Händler: Harb Clawhoof, 1052 Gold 63 Silber 15 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Mulgore",
+    "nl": "Mulgore",
+    "fr": "Mulgore",
+    "es": "Mulgore",
+    "it": "Mulgore",
+    "de": "Mulgore"
    }
   },
   {
@@ -1351,26 +1422,28 @@
    "icon": "ability_mount_kodo_01",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Mulgore"
+   ],
    "level": 60,
    "riding": "Kodo Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Harb Clawhoof, 1052 gold 63 silver 15 copper",
+    "nl": "Verkoper: Harb Clawhoof, 1052 goud en 63 zilver en 15 koper",
+    "fr": "Marchand: Harb Clawhoof, 1052 po 63 pa 15 pc",
+    "es": "Vendedor: Harb Clawhoof, 1052 de oro y 63 de plata y 15 de cobre",
+    "it": "Mercante: Harb Clawhoof, 1052 d'oro e 63 d'argento e 15 di rame",
+    "de": "Händler: Harb Clawhoof, 1052 Gold 63 Silber 15 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Mulgore",
+    "nl": "Mulgore",
+    "fr": "Mulgore",
+    "es": "Mulgore",
+    "it": "Mulgore",
+    "de": "Mulgore"
    }
   },
   {
@@ -1463,26 +1536,28 @@
    "icon": "ability_mount_mechastrider",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 40,
    "riding": "Mechanostrider Piloting",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Milli Featherwhistle, 40 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 40 goud",
+    "fr": "Marchand: Milli Featherwhistle, 40 po",
+    "es": "Vendedor: Milli Featherwhistle, 40 de oro",
+    "it": "Mercante: Milli Featherwhistle, 40 d'oro",
+    "de": "Händler: Milli Featherwhistle, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -1491,26 +1566,28 @@
    "icon": "inv_misc_qirajicrystal_03",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "drop",
+   "zones": [
+    "Ahn'Qiraj"
+   ],
    "level": 60,
    "riding": null,
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Drop: Anubisath Defender (and 14 more)",
+    "nl": "Drop: Anubisath Defender (en nog 14)",
+    "fr": "Butin: Anubisath Defender (et 14 autres)",
+    "es": "Botín: Anubisath Defender (y 14 más)",
+    "it": "Bottino: Anubisath Defender (e altri 14)",
+    "de": "Beute: Anubisath Defender (und 14 weitere)"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Ahn'Qiraj",
+    "nl": "Ahn'Qiraj",
+    "fr": "Ahn'Qiraj",
+    "es": "Ahn'Qiraj",
+    "it": "Ahn'Qiraj",
+    "de": "Ahn'Qiraj"
    }
   },
   {
@@ -1547,26 +1624,28 @@
    "icon": "ability_mount_undeadhorse",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Tirisfal Glades"
+   ],
    "level": 60,
    "riding": "Undead Horsemanship",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zachariah Post, 1052 gold 63 silver 15 copper",
+    "nl": "Verkoper: Zachariah Post, 1052 goud en 63 zilver en 15 koper",
+    "fr": "Marchand: Zachariah Post, 1052 po 63 pa 15 pc",
+    "es": "Vendedor: Zachariah Post, 1052 de oro y 63 de plata y 15 de cobre",
+    "it": "Mercante: Zachariah Post, 1052 d'oro e 63 d'argento e 15 di rame",
+    "de": "Händler: Zachariah Post, 1052 Gold 63 Silber 15 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Tirisfal Glades",
+    "nl": "Tirisfal Glades",
+    "fr": "Tirisfal Glades",
+    "es": "Tirisfal Glades",
+    "it": "Tirisfal Glades",
+    "de": "Tirisfal Glades"
    }
   },
   {
@@ -1639,12 +1718,12 @@
    "riding": "Wolf Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Ogunaro Wolfrunner",
-    "nl": "Verkoper: Ogunaro Wolfrunner",
-    "fr": "Marchand: Ogunaro Wolfrunner",
-    "es": "Vendedor: Ogunaro Wolfrunner",
-    "it": "Mercante: Ogunaro Wolfrunner",
-    "de": "Händler: Ogunaro Wolfrunner"
+    "en": "Vendor: Ogunaro Wolfrunner, 40 gold",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 40 goud",
+    "fr": "Marchand: Ogunaro Wolfrunner, 40 po",
+    "es": "Vendedor: Ogunaro Wolfrunner, 40 de oro",
+    "it": "Mercante: Ogunaro Wolfrunner, 40 d'oro",
+    "de": "Händler: Ogunaro Wolfrunner, 40 Gold"
    },
    "where": {
     "en": "Orgrimmar",
@@ -1773,26 +1852,29 @@
    "icon": "ability_mount_kodo_03",
    "quality": 4,
    "new": true,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Redridge Mountains",
+    "The Barrens"
+   ],
    "level": 60,
    "riding": "Journeyman Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Okamache, 6000 Merchant's Favor",
+    "nl": "Verkoper: Okamache, 6000 Merchant's Favor",
+    "fr": "Marchand: Okamache, 6000 Merchant's Favor",
+    "es": "Vendedor: Okamache, 6000 Merchant's Favor",
+    "it": "Mercante: Okamache, 6000 Merchant's Favor",
+    "de": "Händler: Okamache, 6000 Merchant's Favor"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Redridge Mountains and The Barrens",
+    "nl": "Redridge Mountains en The Barrens",
+    "fr": "Redridge Mountains et The Barrens",
+    "es": "Redridge Mountains y The Barrens",
+    "it": "Redridge Mountains e The Barrens",
+    "de": "Redridge Mountains und The Barrens"
    }
   },
   {
@@ -1829,26 +1911,31 @@
    "icon": "ability_mount_ridinghorse",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dustwallow Marsh",
+    "Elwynn Forest",
+    "Hillsbrad Foothills",
+    "Wetlands"
+   ],
    "level": 40,
    "riding": "Horse Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Katie Hunter, 40 gold",
+    "nl": "Verkoper: Katie Hunter, 40 goud",
+    "fr": "Marchand: Katie Hunter, 40 po",
+    "es": "Vendedor: Katie Hunter, 40 de oro",
+    "it": "Mercante: Katie Hunter, 40 d'oro",
+    "de": "Händler: Katie Hunter, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "4 zones",
+    "nl": "4 zones",
+    "fr": "4 zones",
+    "es": "4 zonas",
+    "it": "4 zone",
+    "de": "4 Gebiete"
    }
   },
   {
@@ -1913,26 +2000,28 @@
    "icon": "ability_mount_undeadhorse",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Tirisfal Glades"
+   ],
    "level": 60,
    "riding": "Undead Horsemanship",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zachariah Post, 1052 gold 63 silver 15 copper",
+    "nl": "Verkoper: Zachariah Post, 1052 goud en 63 zilver en 15 koper",
+    "fr": "Marchand: Zachariah Post, 1052 po 63 pa 15 pc",
+    "es": "Vendedor: Zachariah Post, 1052 de oro y 63 de plata y 15 de cobre",
+    "it": "Mercante: Zachariah Post, 1052 d'oro e 63 d'argento e 15 di rame",
+    "de": "Händler: Zachariah Post, 1052 Gold 63 Silber 15 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Tirisfal Glades",
+    "nl": "Tirisfal Glades",
+    "fr": "Tirisfal Glades",
+    "es": "Tirisfal Glades",
+    "it": "Tirisfal Glades",
+    "de": "Tirisfal Glades"
    }
   },
   {
@@ -1941,26 +2030,28 @@
    "icon": "ability_mount_mechastrider",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 40,
    "riding": "Mechanostrider Piloting",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Milli Featherwhistle, 40 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 40 goud",
+    "fr": "Marchand: Milli Featherwhistle, 40 po",
+    "es": "Vendedor: Milli Featherwhistle, 40 de oro",
+    "it": "Mercante: Milli Featherwhistle, 40 d'oro",
+    "de": "Händler: Milli Featherwhistle, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -1969,26 +2060,28 @@
    "icon": "inv_misc_qirajicrystal_02",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "drop",
+   "zones": [
+    "Ahn'Qiraj"
+   ],
    "level": 60,
    "riding": null,
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Drop: Qiraji Warlord (and 14 more)",
+    "nl": "Drop: Qiraji Warlord (en nog 14)",
+    "fr": "Butin: Qiraji Warlord (et 14 autres)",
+    "es": "Botín: Qiraji Warlord (y 14 más)",
+    "it": "Bottino: Qiraji Warlord (e altri 14)",
+    "de": "Beute: Qiraji Warlord (und 14 weitere)"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Ahn'Qiraj",
+    "nl": "Ahn'Qiraj",
+    "fr": "Ahn'Qiraj",
+    "es": "Ahn'Qiraj",
+    "it": "Ahn'Qiraj",
+    "de": "Ahn'Qiraj"
    }
   },
   {
@@ -1997,26 +2090,28 @@
    "icon": "ability_mount_undeadhorse",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Tirisfal Glades"
+   ],
    "level": 40,
    "riding": "Undead Horsemanship",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zachariah Post, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Zachariah Post, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Zachariah Post, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Zachariah Post, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Zachariah Post, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Zachariah Post, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Tirisfal Glades",
+    "nl": "Tirisfal Glades",
+    "fr": "Tirisfal Glades",
+    "es": "Tirisfal Glades",
+    "it": "Tirisfal Glades",
+    "de": "Tirisfal Glades"
    }
   },
   {
@@ -2025,26 +2120,30 @@
    "icon": "ability_mount_undeadhorse",
    "quality": 4,
    "new": false,
-   "kind": "pvp",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Valley",
+    "Arathi Basin",
+    "Warsong Gulch"
+   ],
    "level": 40,
    "riding": "Undead Horsemanship",
    "fast": true,
    "source": {
-    "en": "PvP rank: Commander / Lieutenant General (Rank 11)",
-    "nl": "PvP-rang: Commander / Lieutenant General (Rank 11)",
-    "fr": "Rang JcJ: Commander / Lieutenant General (Rank 11)",
-    "es": "Rango JcJ: Commander / Lieutenant General (Rank 11)",
-    "it": "Grado PvP: Commander / Lieutenant General (Rank 11)",
-    "de": "PvP-Rang: Commander / Lieutenant General (Rank 11)"
+    "en": "Vendor: Raider Bork, 100 gold",
+    "nl": "Verkoper: Raider Bork, 100 goud",
+    "fr": "Marchand: Raider Bork, 100 po",
+    "es": "Vendedor: Raider Bork, 100 de oro",
+    "it": "Mercante: Raider Bork, 100 d'oro",
+    "de": "Händler: Raider Bork, 100 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Valley, Arathi Basin and Warsong Gulch",
+    "nl": "Alterac Valley, Arathi Basin en Warsong Gulch",
+    "fr": "Alterac Valley, Arathi Basin et Warsong Gulch",
+    "es": "Alterac Valley, Arathi Basin y Warsong Gulch",
+    "it": "Alterac Valley, Arathi Basin e Warsong Gulch",
+    "de": "Alterac Valley, Arathi Basin und Warsong Gulch"
    }
   },
   {
@@ -2249,26 +2348,28 @@
    "icon": "ability_mount_whitetiger",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Darnassus"
+   ],
    "level": 40,
    "riding": "Tiger Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Lelanai, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Lelanai, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Lelanai, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Lelanai, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Lelanai, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Lelanai, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Darnassus",
+    "nl": "Darnassus",
+    "fr": "Darnassus",
+    "es": "Darnassus",
+    "it": "Darnassus",
+    "de": "Darnassus"
    }
   },
   {
@@ -2277,26 +2378,29 @@
    "icon": "ability_mount_mountainram",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Alterac Mountains",
+    "Alterac Valley"
+   ],
    "level": 60,
    "riding": null,
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Gaelden Hammersmith, 800 gold",
+    "nl": "Verkoper: Gaelden Hammersmith, 800 goud",
+    "fr": "Marchand: Gaelden Hammersmith, 800 po",
+    "es": "Vendedor: Gaelden Hammersmith, 800 de oro",
+    "it": "Mercante: Gaelden Hammersmith, 800 d'oro",
+    "de": "Händler: Gaelden Hammersmith, 800 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Alterac Mountains and Alterac Valley",
+    "nl": "Alterac Mountains en Alterac Valley",
+    "fr": "Alterac Mountains et Alterac Valley",
+    "es": "Alterac Mountains y Alterac Valley",
+    "it": "Alterac Mountains e Alterac Valley",
+    "de": "Alterac Mountains und Alterac Valley"
    }
   },
   {
@@ -2305,26 +2409,28 @@
    "icon": "inv_craneskybornemount_c60_blue",
    "quality": 3,
    "new": true,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Zephras Isle"
+   ],
    "level": 40,
    "riding": "Galestrider Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Genn Fairweather, 20 gold",
+    "nl": "Verkoper: Genn Fairweather, 20 goud",
+    "fr": "Marchand: Genn Fairweather, 20 po",
+    "es": "Vendedor: Genn Fairweather, 20 de oro",
+    "it": "Mercante: Genn Fairweather, 20 d'oro",
+    "de": "Händler: Genn Fairweather, 20 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Zephras Isle",
+    "nl": "Zephras Isle",
+    "fr": "Zephras Isle",
+    "es": "Zephras Isle",
+    "it": "Zephras Isle",
+    "de": "Zephras Isle"
    }
   },
   {
@@ -2361,26 +2467,28 @@
    "icon": "ability_mount_whitetiger",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Darnassus"
+   ],
    "level": 40,
    "riding": "Tiger Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Lelanai, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Lelanai, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Lelanai, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Lelanai, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Lelanai, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Lelanai, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Darnassus",
+    "nl": "Darnassus",
+    "fr": "Darnassus",
+    "es": "Darnassus",
+    "it": "Darnassus",
+    "de": "Darnassus"
    }
   },
   {
@@ -2389,26 +2497,28 @@
    "icon": "ability_mount_blackpanther",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Darnassus"
+   ],
    "level": 40,
    "riding": "Tiger Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Lelanai, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Lelanai, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Lelanai, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Lelanai, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Lelanai, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Lelanai, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Darnassus",
+    "nl": "Darnassus",
+    "fr": "Darnassus",
+    "es": "Darnassus",
+    "it": "Darnassus",
+    "de": "Darnassus"
    }
   },
   {
@@ -2417,26 +2527,28 @@
    "icon": "ability_mount_raptor",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Durotar"
+   ],
    "level": 60,
    "riding": "Raptor Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zjolnir, 1000 gold",
+    "nl": "Verkoper: Zjolnir, 1000 goud",
+    "fr": "Marchand: Zjolnir, 1000 po",
+    "es": "Vendedor: Zjolnir, 1000 de oro",
+    "it": "Mercante: Zjolnir, 1000 d'oro",
+    "de": "Händler: Zjolnir, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Durotar",
+    "nl": "Durotar",
+    "fr": "Durotar",
+    "es": "Durotar",
+    "it": "Durotar",
+    "de": "Durotar"
    }
   },
   {
@@ -2445,26 +2557,28 @@
    "icon": "ability_mount_mountainram",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 60,
    "riding": "Ram Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Veron Amberstill, 1000 gold",
+    "nl": "Verkoper: Veron Amberstill, 1000 goud",
+    "fr": "Marchand: Veron Amberstill, 1000 po",
+    "es": "Vendedor: Veron Amberstill, 1000 de oro",
+    "it": "Mercante: Veron Amberstill, 1000 d'oro",
+    "de": "Händler: Veron Amberstill, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -2473,26 +2587,30 @@
    "icon": "ability_mount_ridinghorse",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dustwallow Marsh",
+    "Elwynn Forest",
+    "Hillsbrad Foothills"
+   ],
    "level": 60,
    "riding": "Horse Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Katie Hunter, 1000 gold",
+    "nl": "Verkoper: Katie Hunter, 1000 goud",
+    "fr": "Marchand: Katie Hunter, 1000 po",
+    "es": "Vendedor: Katie Hunter, 1000 de oro",
+    "it": "Mercante: Katie Hunter, 1000 d'oro",
+    "de": "Händler: Katie Hunter, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dustwallow Marsh, Elwynn Forest and Hillsbrad Foothills",
+    "nl": "Dustwallow Marsh, Elwynn Forest en Hillsbrad Foothills",
+    "fr": "Dustwallow Marsh, Elwynn Forest et Hillsbrad Foothills",
+    "es": "Dustwallow Marsh, Elwynn Forest y Hillsbrad Foothills",
+    "it": "Dustwallow Marsh, Elwynn Forest e Hillsbrad Foothills",
+    "de": "Dustwallow Marsh, Elwynn Forest und Hillsbrad Foothills"
    }
   },
   {
@@ -2501,26 +2619,28 @@
    "icon": "ability_mount_blackdirewolf",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
    "level": 60,
    "riding": "Wolf Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Ogunaro Wolfrunner, 888 gold 88 silver 88 copper",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 888 goud en 88 zilver en 88 koper",
+    "fr": "Marchand: Ogunaro Wolfrunner, 888 po 88 pa 88 pc",
+    "es": "Vendedor: Ogunaro Wolfrunner, 888 de oro y 88 de plata y 88 de cobre",
+    "it": "Mercante: Ogunaro Wolfrunner, 888 d'oro e 88 d'argento e 88 di rame",
+    "de": "Händler: Ogunaro Wolfrunner, 888 Gold 88 Silber 88 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
    }
   },
   {
@@ -2529,26 +2649,28 @@
    "icon": "inv_craneskyborneswiftmount_c60_white",
    "quality": 4,
    "new": true,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Zephras Isle"
+   ],
    "level": 60,
    "riding": "Galestrider Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Genn Fairweather, 200 gold",
+    "nl": "Verkoper: Genn Fairweather, 200 goud",
+    "fr": "Marchand: Genn Fairweather, 200 po",
+    "es": "Vendedor: Genn Fairweather, 200 de oro",
+    "it": "Mercante: Genn Fairweather, 200 d'oro",
+    "de": "Händler: Genn Fairweather, 200 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Zephras Isle",
+    "nl": "Zephras Isle",
+    "fr": "Zephras Isle",
+    "es": "Zephras Isle",
+    "it": "Zephras Isle",
+    "de": "Zephras Isle"
    }
   },
   {
@@ -2557,26 +2679,28 @@
    "icon": "ability_mount_whitetiger",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Darnassus"
+   ],
    "level": 60,
    "riding": "Tiger Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Lelanai, 1000 gold",
+    "nl": "Verkoper: Lelanai, 1000 goud",
+    "fr": "Marchand: Lelanai, 1000 po",
+    "es": "Vendedor: Lelanai, 1000 de oro",
+    "it": "Mercante: Lelanai, 1000 d'oro",
+    "de": "Händler: Lelanai, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Darnassus",
+    "nl": "Darnassus",
+    "fr": "Darnassus",
+    "es": "Darnassus",
+    "it": "Darnassus",
+    "de": "Darnassus"
    }
   },
   {
@@ -2585,26 +2709,28 @@
    "icon": "ability_mount_mountainram",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 60,
    "riding": "Ram Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Veron Amberstill, 1000 gold",
+    "nl": "Verkoper: Veron Amberstill, 1000 goud",
+    "fr": "Marchand: Veron Amberstill, 1000 po",
+    "es": "Vendedor: Veron Amberstill, 1000 de oro",
+    "it": "Mercante: Veron Amberstill, 1000 d'oro",
+    "de": "Händler: Veron Amberstill, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -2613,26 +2739,28 @@
    "icon": "ability_mount_whitedirewolf",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
    "level": 60,
    "riding": "Wolf Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Ogunaro Wolfrunner, 888 gold 88 silver 88 copper",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 888 goud en 88 zilver en 88 koper",
+    "fr": "Marchand: Ogunaro Wolfrunner, 888 po 88 pa 88 pc",
+    "es": "Vendedor: Ogunaro Wolfrunner, 888 de oro y 88 de plata y 88 de cobre",
+    "it": "Mercante: Ogunaro Wolfrunner, 888 d'oro e 88 d'argento e 88 di rame",
+    "de": "Händler: Ogunaro Wolfrunner, 888 Gold 88 Silber 88 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
    }
   },
   {
@@ -2641,26 +2769,28 @@
    "icon": "ability_mount_mechastrider",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 60,
    "riding": "Mechanostrider Piloting",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Milli Featherwhistle, 1000 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 1000 goud",
+    "fr": "Marchand: Milli Featherwhistle, 1000 po",
+    "es": "Vendedor: Milli Featherwhistle, 1000 de oro",
+    "it": "Mercante: Milli Featherwhistle, 1000 d'oro",
+    "de": "Händler: Milli Featherwhistle, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -2697,26 +2827,28 @@
    "icon": "ability_mount_whitetiger",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Darnassus"
+   ],
    "level": 60,
    "riding": "Tiger Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Lelanai, 1000 gold",
+    "nl": "Verkoper: Lelanai, 1000 goud",
+    "fr": "Marchand: Lelanai, 1000 po",
+    "es": "Vendedor: Lelanai, 1000 de oro",
+    "it": "Mercante: Lelanai, 1000 d'oro",
+    "de": "Händler: Lelanai, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Darnassus",
+    "nl": "Darnassus",
+    "fr": "Darnassus",
+    "es": "Darnassus",
+    "it": "Darnassus",
+    "de": "Darnassus"
    }
   },
   {
@@ -2725,26 +2857,28 @@
    "icon": "ability_mount_raptor",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Durotar"
+   ],
    "level": 60,
    "riding": "Raptor Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zjolnir, 1000 gold",
+    "nl": "Verkoper: Zjolnir, 1000 goud",
+    "fr": "Marchand: Zjolnir, 1000 po",
+    "es": "Vendedor: Zjolnir, 1000 de oro",
+    "it": "Mercante: Zjolnir, 1000 d'oro",
+    "de": "Händler: Zjolnir, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Durotar",
+    "nl": "Durotar",
+    "fr": "Durotar",
+    "es": "Durotar",
+    "it": "Durotar",
+    "de": "Durotar"
    }
   },
   {
@@ -2753,26 +2887,28 @@
    "icon": "ability_mount_raptor",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Durotar"
+   ],
    "level": 60,
    "riding": "Raptor Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zjolnir, 1000 gold",
+    "nl": "Verkoper: Zjolnir, 1000 goud",
+    "fr": "Marchand: Zjolnir, 1000 po",
+    "es": "Vendedor: Zjolnir, 1000 de oro",
+    "it": "Mercante: Zjolnir, 1000 d'oro",
+    "de": "Händler: Zjolnir, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Durotar",
+    "nl": "Durotar",
+    "fr": "Durotar",
+    "es": "Durotar",
+    "it": "Durotar",
+    "de": "Durotar"
    }
   },
   {
@@ -2781,26 +2917,30 @@
    "icon": "ability_mount_ridinghorse",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dustwallow Marsh",
+    "Elwynn Forest",
+    "Hillsbrad Foothills"
+   ],
    "level": 60,
    "riding": "Horse Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Katie Hunter, 1000 gold",
+    "nl": "Verkoper: Katie Hunter, 1000 goud",
+    "fr": "Marchand: Katie Hunter, 1000 po",
+    "es": "Vendedor: Katie Hunter, 1000 de oro",
+    "it": "Mercante: Katie Hunter, 1000 d'oro",
+    "de": "Händler: Katie Hunter, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dustwallow Marsh, Elwynn Forest and Hillsbrad Foothills",
+    "nl": "Dustwallow Marsh, Elwynn Forest en Hillsbrad Foothills",
+    "fr": "Dustwallow Marsh, Elwynn Forest et Hillsbrad Foothills",
+    "es": "Dustwallow Marsh, Elwynn Forest y Hillsbrad Foothills",
+    "it": "Dustwallow Marsh, Elwynn Forest e Hillsbrad Foothills",
+    "de": "Dustwallow Marsh, Elwynn Forest und Hillsbrad Foothills"
    }
   },
   {
@@ -2809,26 +2949,28 @@
    "icon": "ability_mount_raptor",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "drop",
+   "zones": [
+    "Zul'Gurub"
+   ],
    "level": 60,
    "riding": "Journeyman Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Drop: Bloodlord Mandokir (and 1 more)",
+    "nl": "Drop: Bloodlord Mandokir (en nog 1)",
+    "fr": "Butin: Bloodlord Mandokir (et 1 autres)",
+    "es": "Botín: Bloodlord Mandokir (y 1 más)",
+    "it": "Bottino: Bloodlord Mandokir (e altri 1)",
+    "de": "Beute: Bloodlord Mandokir (und 1 weitere)"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Zul'Gurub",
+    "nl": "Zul'Gurub",
+    "fr": "Zul'Gurub",
+    "es": "Zul'Gurub",
+    "it": "Zul'Gurub",
+    "de": "Zul'Gurub"
    }
   },
   {
@@ -2865,26 +3007,28 @@
    "icon": "ability_mount_whitetiger",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Darnassus"
+   ],
    "level": 60,
    "riding": "Tiger Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Lelanai, 1000 gold",
+    "nl": "Verkoper: Lelanai, 1000 goud",
+    "fr": "Marchand: Lelanai, 1000 po",
+    "es": "Vendedor: Lelanai, 1000 de oro",
+    "it": "Mercante: Lelanai, 1000 d'oro",
+    "de": "Händler: Lelanai, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Darnassus",
+    "nl": "Darnassus",
+    "fr": "Darnassus",
+    "es": "Darnassus",
+    "it": "Darnassus",
+    "de": "Darnassus"
    }
   },
   {
@@ -2893,26 +3037,28 @@
    "icon": "inv_craneskyborneswiftmount_c60_blue",
    "quality": 4,
    "new": true,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Zephras Isle"
+   ],
    "level": 60,
    "riding": "Galestrider Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Genn Fairweather, 200 gold",
+    "nl": "Verkoper: Genn Fairweather, 200 goud",
+    "fr": "Marchand: Genn Fairweather, 200 po",
+    "es": "Vendedor: Genn Fairweather, 200 de oro",
+    "it": "Mercante: Genn Fairweather, 200 d'oro",
+    "de": "Händler: Genn Fairweather, 200 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Zephras Isle",
+    "nl": "Zephras Isle",
+    "fr": "Zephras Isle",
+    "es": "Zephras Isle",
+    "it": "Zephras Isle",
+    "de": "Zephras Isle"
    }
   },
   {
@@ -2921,26 +3067,28 @@
    "icon": "ability_mount_whitedirewolf",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Orgrimmar"
+   ],
    "level": 60,
    "riding": "Wolf Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Ogunaro Wolfrunner, 888 gold 88 silver 88 copper",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 888 goud en 88 zilver en 88 koper",
+    "fr": "Marchand: Ogunaro Wolfrunner, 888 po 88 pa 88 pc",
+    "es": "Vendedor: Ogunaro Wolfrunner, 888 de oro y 88 de plata y 88 de cobre",
+    "it": "Mercante: Ogunaro Wolfrunner, 888 d'oro e 88 d'argento e 88 di rame",
+    "de": "Händler: Ogunaro Wolfrunner, 888 Gold 88 Silber 88 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Orgrimmar",
+    "nl": "Orgrimmar",
+    "fr": "Orgrimmar",
+    "es": "Orgrimmar",
+    "it": "Orgrimmar",
+    "de": "Orgrimmar"
    }
   },
   {
@@ -2949,26 +3097,28 @@
    "icon": "inv_craneskyborneswiftmount_c60_blue",
    "quality": 4,
    "new": true,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Zephras Isle"
+   ],
    "level": 60,
    "riding": "Galestrider Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Genn Fairweather, 200 gold",
+    "nl": "Verkoper: Genn Fairweather, 200 goud",
+    "fr": "Marchand: Genn Fairweather, 200 po",
+    "es": "Vendedor: Genn Fairweather, 200 de oro",
+    "it": "Mercante: Genn Fairweather, 200 d'oro",
+    "de": "Händler: Genn Fairweather, 200 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Zephras Isle",
+    "nl": "Zephras Isle",
+    "fr": "Zephras Isle",
+    "es": "Zephras Isle",
+    "it": "Zephras Isle",
+    "de": "Zephras Isle"
    }
   },
   {
@@ -2977,26 +3127,28 @@
    "icon": "ability_mount_mechastrider",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 60,
    "riding": "Mechanostrider Piloting",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Milli Featherwhistle, 1000 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 1000 goud",
+    "fr": "Marchand: Milli Featherwhistle, 1000 po",
+    "es": "Vendedor: Milli Featherwhistle, 1000 de oro",
+    "it": "Mercante: Milli Featherwhistle, 1000 d'oro",
+    "de": "Händler: Milli Featherwhistle, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -3005,26 +3157,28 @@
    "icon": "ability_mount_mountainram",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 60,
    "riding": "Ram Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Veron Amberstill, 1000 gold",
+    "nl": "Verkoper: Veron Amberstill, 1000 goud",
+    "fr": "Marchand: Veron Amberstill, 1000 po",
+    "es": "Vendedor: Veron Amberstill, 1000 de oro",
+    "it": "Mercante: Veron Amberstill, 1000 d'oro",
+    "de": "Händler: Veron Amberstill, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -3033,26 +3187,30 @@
    "icon": "ability_mount_ridinghorse",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dustwallow Marsh",
+    "Elwynn Forest",
+    "Hillsbrad Foothills"
+   ],
    "level": 60,
    "riding": "Horse Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Katie Hunter, 1000 gold",
+    "nl": "Verkoper: Katie Hunter, 1000 goud",
+    "fr": "Marchand: Katie Hunter, 1000 po",
+    "es": "Vendedor: Katie Hunter, 1000 de oro",
+    "it": "Mercante: Katie Hunter, 1000 d'oro",
+    "de": "Händler: Katie Hunter, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dustwallow Marsh, Elwynn Forest and Hillsbrad Foothills",
+    "nl": "Dustwallow Marsh, Elwynn Forest en Hillsbrad Foothills",
+    "fr": "Dustwallow Marsh, Elwynn Forest et Hillsbrad Foothills",
+    "es": "Dustwallow Marsh, Elwynn Forest y Hillsbrad Foothills",
+    "it": "Dustwallow Marsh, Elwynn Forest e Hillsbrad Foothills",
+    "de": "Dustwallow Marsh, Elwynn Forest und Hillsbrad Foothills"
    }
   },
   {
@@ -3061,26 +3219,28 @@
    "icon": "ability_mount_mechastrider",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 60,
    "riding": "Mechanostrider Piloting",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Milli Featherwhistle, 1000 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 1000 goud",
+    "fr": "Marchand: Milli Featherwhistle, 1000 po",
+    "es": "Vendedor: Milli Featherwhistle, 1000 de oro",
+    "it": "Mercante: Milli Featherwhistle, 1000 d'oro",
+    "de": "Händler: Milli Featherwhistle, 1000 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -3089,26 +3249,28 @@
    "icon": "ability_mount_jungletiger",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "drop",
+   "zones": [
+    "Zul'Gurub"
+   ],
    "level": 60,
    "riding": "Journeyman Riding",
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Drop: High Priest Thekal (and 1 more)",
+    "nl": "Drop: High Priest Thekal (en nog 1)",
+    "fr": "Butin: High Priest Thekal (et 1 autres)",
+    "es": "Botín: High Priest Thekal (y 1 más)",
+    "it": "Bottino: High Priest Thekal (e altri 1)",
+    "de": "Beute: High Priest Thekal (und 1 weitere)"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Zul'Gurub",
+    "nl": "Zul'Gurub",
+    "fr": "Zul'Gurub",
+    "es": "Zul'Gurub",
+    "it": "Zul'Gurub",
+    "de": "Zul'Gurub"
    }
   },
   {
@@ -3173,26 +3335,28 @@
    "icon": "ability_mount_raptor",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Durotar"
+   ],
    "level": 40,
    "riding": "Raptor Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zjolnir, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Zjolnir, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Zjolnir, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Zjolnir, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Zjolnir, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Zjolnir, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Durotar",
+    "nl": "Durotar",
+    "fr": "Durotar",
+    "es": "Durotar",
+    "it": "Durotar",
+    "de": "Durotar"
    }
   },
   {
@@ -3201,26 +3365,28 @@
    "icon": "inv_craneskyborne_c60_green",
    "quality": 3,
    "new": true,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Zephras Isle"
+   ],
    "level": 40,
    "riding": "Galestrider Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Genn Fairweather, 20 gold",
+    "nl": "Verkoper: Genn Fairweather, 20 goud",
+    "fr": "Marchand: Genn Fairweather, 20 po",
+    "es": "Vendedor: Genn Fairweather, 20 de oro",
+    "it": "Mercante: Genn Fairweather, 20 d'oro",
+    "de": "Händler: Genn Fairweather, 20 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Zephras Isle",
+    "nl": "Zephras Isle",
+    "fr": "Zephras Isle",
+    "es": "Zephras Isle",
+    "it": "Zephras Isle",
+    "de": "Zephras Isle"
    }
   },
   {
@@ -3229,26 +3395,28 @@
    "icon": "ability_mount_mechastrider",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 40,
    "riding": "Mechanostrider Piloting",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Milli Featherwhistle, 40 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 40 goud",
+    "fr": "Marchand: Milli Featherwhistle, 40 po",
+    "es": "Vendedor: Milli Featherwhistle, 40 de oro",
+    "it": "Mercante: Milli Featherwhistle, 40 d'oro",
+    "de": "Händler: Milli Featherwhistle, 40 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -3313,26 +3481,28 @@
    "icon": "ability_mount_raptor",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Durotar"
+   ],
    "level": 40,
    "riding": "Raptor Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Zjolnir, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Zjolnir, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Zjolnir, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Zjolnir, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Zjolnir, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Zjolnir, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Durotar",
+    "nl": "Durotar",
+    "fr": "Durotar",
+    "es": "Durotar",
+    "it": "Durotar",
+    "de": "Durotar"
    }
   },
   {
@@ -3481,26 +3651,28 @@
    "icon": "ability_mount_mountainram",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Dun Morogh"
+   ],
    "level": 40,
    "riding": "Ram Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Veron Amberstill, 42 gold 10 silver 52 copper",
+    "nl": "Verkoper: Veron Amberstill, 42 goud en 10 zilver en 52 koper",
+    "fr": "Marchand: Veron Amberstill, 42 po 10 pa 52 pc",
+    "es": "Vendedor: Veron Amberstill, 42 de oro y 10 de plata y 52 de cobre",
+    "it": "Mercante: Veron Amberstill, 42 d'oro e 10 d'argento e 52 di rame",
+    "de": "Händler: Veron Amberstill, 42 Gold 10 Silber 52 Kupfer"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Dun Morogh",
+    "nl": "Dun Morogh",
+    "fr": "Dun Morogh",
+    "es": "Dun Morogh",
+    "it": "Dun Morogh",
+    "de": "Dun Morogh"
    }
   },
   {
@@ -3593,26 +3765,28 @@
    "icon": "ability_mount_pinktiger",
    "quality": 4,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "vendor",
+   "zones": [
+    "Winterspring"
+   ],
    "level": 60,
    "riding": null,
    "fast": true,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Vendor: Rivern Frostwind, 1125 gold",
+    "nl": "Verkoper: Rivern Frostwind, 1125 goud",
+    "fr": "Marchand: Rivern Frostwind, 1125 po",
+    "es": "Vendedor: Rivern Frostwind, 1125 de oro",
+    "it": "Mercante: Rivern Frostwind, 1125 d'oro",
+    "de": "Händler: Rivern Frostwind, 1125 Gold"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Winterspring",
+    "nl": "Winterspring",
+    "fr": "Winterspring",
+    "es": "Winterspring",
+    "it": "Winterspring",
+    "de": "Winterspring"
    }
   },
   {
@@ -3621,26 +3795,28 @@
    "icon": "inv_misc_qirajicrystal_01",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "drop",
+   "zones": [
+    "Ahn'Qiraj"
+   ],
    "level": 60,
    "riding": null,
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Drop: Qiraji Warlord (and 14 more)",
+    "nl": "Drop: Qiraji Warlord (en nog 14)",
+    "fr": "Butin: Qiraji Warlord (et 14 autres)",
+    "es": "Botín: Qiraji Warlord (y 14 más)",
+    "it": "Bottino: Qiraji Warlord (e altri 14)",
+    "de": "Beute: Qiraji Warlord (und 14 weitere)"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Ahn'Qiraj",
+    "nl": "Ahn'Qiraj",
+    "fr": "Ahn'Qiraj",
+    "es": "Ahn'Qiraj",
+    "it": "Ahn'Qiraj",
+    "de": "Ahn'Qiraj"
    }
   }
  ]

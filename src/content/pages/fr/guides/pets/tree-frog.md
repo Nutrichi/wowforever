@@ -26,7 +26,7 @@ Tree Frog est une mascotte de compagnie de Classic qui revient dans World of War
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11026"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tree Frog Box</a> |
-| Source | Marchand: Flik |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a> |
 | Où | Elwynn Forest et Mulgore |
 | Prix | 1 po 5 pa 26 pc |
 | Nouvelle dans Forever | non, de Classic |

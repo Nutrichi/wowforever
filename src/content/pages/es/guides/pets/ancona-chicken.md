@@ -26,7 +26,7 @@ Ancona Chicken es una mascota de compañía de Classic que vuelve en World of Wa
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11023"><img class="wf-wh__icon" src="/wh/inv_chicken2_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ancona Chicken</a> |
-| Origen | Vendedor: Magus Tirth |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6548">Magus Tirth</a> |
 | Dónde | Thousand Needles |
 | Precio | 1 de oro |
 | Nueva en Forever | no, de Classic |

@@ -26,7 +26,7 @@ Spirit of Summer est une mascotte de compagnie de Classic qui revient dans World
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=23083"><img class="wf-wh__icon" src="/wh/inv_potion_33.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Captured Flame</a> |
-| Source | Quête: A Light in Dark Places |
+| Source | Quête: <a href="https://www.wowhead.com/forever/quest=9319">A Light in Dark Places</a> |
 | Nouvelle dans Forever | non, de Classic |
 | Pour tout le compte | oui, selon Wowhead |
 

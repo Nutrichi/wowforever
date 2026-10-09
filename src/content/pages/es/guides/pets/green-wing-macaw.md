@@ -26,7 +26,7 @@ Green Wing Macaw es una mascota de compañía de Classic que vuelve en World of 
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8492"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Green Wing Macaw)</a> |
-| Origen | Botín: Defias Pirate |
+| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=657">Defias Pirate</a> |
 | Dónde | The Deadmines |
 | Nueva en Forever | no, de Classic |
 | Para toda la cuenta | sí, según Wowhead |

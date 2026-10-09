@@ -26,7 +26,7 @@ Bitter Baitling è una mascotte da compagnia nuova in World of Warcraft: Forever
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276275"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_worm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bitter Baitling</a> |
-| Fonte | Mercante: Jang |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=15078">Jang</a> |
 | Dove | Stranglethorn Vale |
 | Prezzo | 1 <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a> |
 | Nuova in Forever | sì |

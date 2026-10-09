@@ -26,7 +26,7 @@ Tree Frog ist ein Haustier aus Classic, das in World of Warcraft: Forever zurüc
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11026"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tree Frog Box</a> |
-| Quelle | Händler: Flik |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a> |
 | Wo | Elwynn Forest und Mulgore |
 | Preis | 1 Gold 5 Silber 26 Kupfer |
 | Neu in Forever | nein, aus Classic |

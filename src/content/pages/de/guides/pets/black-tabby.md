@@ -26,7 +26,7 @@ Black Tabby ist ein Haustier aus Classic, das in World of Warcraft: Forever zurÃ
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8491"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Black Tabby)</a> |
-| Quelle | Beute: Dalaran Shield Guard (und 3 weitere) |
+| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2271">Dalaran Shield Guard</a> (und 3 weitere) |
 | Wo | Alterac Mountains und Silverpine Forest |
 | Dropchance | 0,2Â % |
 | Neu in Forever | nein, aus Classic |

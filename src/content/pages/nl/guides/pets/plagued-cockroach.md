@@ -26,7 +26,7 @@ Plagued Cockroach is een companion pet die nieuw is in World of Warcraft: Foreve
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280697"><img class="wf-wh__icon" src="/wh/spell_shadow_carrionswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plagued Cockroach</a> |
-| Bron | Verkoper: Jeremiah Payson |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a> |
 | Waar | Undercity |
 | Prijs | 52 zilver en 63 koper |
 | Nieuw in Forever | ja |

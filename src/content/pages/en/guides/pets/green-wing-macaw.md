@@ -25,7 +25,7 @@ Green Wing Macaw is a companion pet from Classic that returns in World of Warcra
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8492"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Green Wing Macaw)</a> |
-| Source | Drop: Defias Pirate |
+| Source | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=657">Defias Pirate</a> |
 | Where | The Deadmines |
 | New in Forever | no, from Classic |
 | Account-wide | yes, according to Wowhead |

@@ -25,7 +25,7 @@ Spirit of Summer is a companion pet from Classic that returns in World of Warcra
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=23083"><img class="wf-wh__icon" src="/wh/inv_potion_33.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Captured Flame</a> |
-| Source | Quest: A Light in Dark Places |
+| Source | Quest: <a href="https://www.wowhead.com/forever/quest=9319">A Light in Dark Places</a> |
 | New in Forever | no, from Classic |
 | Account-wide | yes, according to Wowhead |
 

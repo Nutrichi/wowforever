@@ -26,7 +26,7 @@ Senegal è una mascotte da compagnia di Classic che torna in World of Warcraft: 
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8495"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Senegal)</a> |
-| Fonte | Mercante: Narkk |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2663">Narkk</a> |
 | Dove | Stranglethorn Vale |
 | Prezzo | 40 d'argento |
 | Nuova in Forever | no, da Classic |

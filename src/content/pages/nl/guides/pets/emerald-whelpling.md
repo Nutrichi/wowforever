@@ -26,7 +26,7 @@ Emerald Whelpling is een companion pet uit Classic die terugkomt in World of War
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8498"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Emerald Whelpling</a> |
-| Bron | Drop: Dreaming Whelp |
+| Bron | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> |
 | Waar | Swamp of Sorrows |
 | Dropkans | 0,2% |
 | Nieuw in Forever | nee, uit Classic |

@@ -26,7 +26,7 @@ Crimson Snake est une mascotte de compagnie de Classic qui revient dans World of
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10392"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Crimson Snake</a> |
-| Source | Marchand: Xan'tish |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Où | Orgrimmar |
 | Prix | 50 pa |
 | Nouvelle dans Forever | non, de Classic |

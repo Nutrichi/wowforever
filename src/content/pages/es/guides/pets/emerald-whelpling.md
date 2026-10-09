@@ -26,7 +26,7 @@ Emerald Whelpling es una mascota de compañía de Classic que vuelve en World of
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8498"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Emerald Whelpling</a> |
-| Origen | Botín: Dreaming Whelp |
+| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> |
 | Dónde | Swamp of Sorrows |
 | Probabilidad | 0,2% |
 | Nueva en Forever | no, de Classic |

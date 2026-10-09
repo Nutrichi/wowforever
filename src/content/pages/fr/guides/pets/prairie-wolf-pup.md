@@ -26,7 +26,7 @@ Prairie Wolf Pup est une mascotte de compagnie nouvelle dans World of Warcraft: 
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277508"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prairie Wolf Pup Carrier</a> |
-| Source | Marchand: Mayhoa Skyhoof |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268745">Mayhoa Skyhoof</a> |
 | Où | Orgrimmar |
 | Prix | 63 pa 15 pc |
 | Nouvelle dans Forever | oui |

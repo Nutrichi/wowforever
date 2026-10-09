@@ -26,7 +26,7 @@ Hyacinth Macaw es una mascota de compañía de Classic que vuelve en World of Wa
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8494"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Hyacinth Macaw)</a> |
-| Origen | Botín: Bloodsail Sea Dog (y 5 más) |
+| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1565">Bloodsail Sea Dog</a> (y 5 más) |
 | Dónde | Stranglethorn Vale |
 | Probabilidad | 0,7% |
 | Nueva en Forever | no, de Classic |

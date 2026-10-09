@@ -26,7 +26,7 @@ Prairie Chicken ist ein Haustier aus Classic, das in World of Warcraft: Forever 
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11110"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chicken Egg</a> |
-| Quelle | In der Welt: Farm Chicken Egg |
+| Quelle | In der Welt: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=161513">Farm Chicken Egg</a> |
 | Wo | Westfall |
 | Neu in Forever | nein, aus Classic |
 | Accountweit | ja, laut Wowhead |

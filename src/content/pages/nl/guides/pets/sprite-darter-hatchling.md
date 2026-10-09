@@ -26,7 +26,7 @@ Sprite Darter Hatchling is een companion pet uit Classic die terugkomt in World 
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11474"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sprite Darter Egg</a> |
-| Bron | Quest: Becoming a Parent |
+| Bron | Quest: <a href="https://www.wowhead.com/forever/quest=4298">Becoming a Parent</a> |
 | Nieuw in Forever | nee, uit Classic |
 | Voor het hele account | ja, volgens Wowhead |
 

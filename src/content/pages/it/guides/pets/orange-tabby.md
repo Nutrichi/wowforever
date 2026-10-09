@@ -26,7 +26,7 @@ Orange Tabby è una mascotte da compagnia di Classic che torna in World of Warcr
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8487"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Orange Tabby)</a> |
-| Fonte | Mercante: Donni Anthania |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6367">Donni Anthania</a> |
 | Dove | Elwynn Forest |
 | Prezzo | 42 d'argento e 10 di rame |
 | Nuova in Forever | no, da Classic |

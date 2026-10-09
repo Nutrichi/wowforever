@@ -26,7 +26,7 @@ Minimule is een companion pet die nieuw is in World of Warcraft: Forever. Je lee
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> |
-| Bron | Verkoper: Gishah |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> |
 | Waar | Redridge Mountains en The Barrens |
 | Prijs | 1.500 Merchant's Favor |
 | Nieuw in Forever | ja |

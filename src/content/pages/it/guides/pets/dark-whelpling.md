@@ -26,7 +26,7 @@ Dark Whelpling è una mascotte da compagnia di Classic che torna in World of War
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10822"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dark Whelpling</a> |
-| Fonte | Bottino: Scalding Whelp (e altre 1) |
+| Fonte | Bottino: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2725">Scalding Whelp</a> (e altre 1) |
 | Dove | Badlands e Dustwallow Marsh |
 | Probabilità | 0,1% |
 | Nuova in Forever | no, da Classic |

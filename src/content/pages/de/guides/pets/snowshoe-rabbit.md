@@ -26,7 +26,7 @@ Snowshoe Rabbit ist ein Haustier aus Classic, das in World of Warcraft: Forever 
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8497"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Snowshoe)</a> |
-| Quelle | Händler: Yarlyn Amberstill |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a> |
 | Wo | Dun Morogh |
 | Preis | 21 Silber 5 Kupfer |
 | Neu in Forever | nein, aus Classic |

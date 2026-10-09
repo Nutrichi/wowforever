@@ -26,7 +26,7 @@ Hyacinth Macaw ist ein Haustier aus Classic, das in World of Warcraft: Forever z
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8494"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Parrot Cage (Hyacinth Macaw)</a> |
-| Quelle | Beute: Bloodsail Sea Dog (und 5 weitere) |
+| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1565">Bloodsail Sea Dog</a> (und 5 weitere) |
 | Wo | Stranglethorn Vale |
 | Dropchance | 0,7 % |
 | Neu in Forever | nein, aus Classic |

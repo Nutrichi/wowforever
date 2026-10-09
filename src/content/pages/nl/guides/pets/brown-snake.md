@@ -26,7 +26,7 @@ Brown Snake is een companion pet uit Classic die terugkomt in World of Warcraft:
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10361"><img class="wf-wh__icon" src="/wh/spell_nature_guardianward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Snake</a> |
-| Bron | Verkoper: Xan'tish |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a> |
 | Waar | Orgrimmar |
 | Prijs | 50 zilver |
 | Nieuw in Forever | nee, uit Classic |

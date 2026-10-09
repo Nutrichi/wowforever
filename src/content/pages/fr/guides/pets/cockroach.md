@@ -26,7 +26,7 @@ Cockroach est une mascotte de compagnie de Classic qui revient dans World of War
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10393"><img class="wf-wh__icon" src="/wh/spell_shadow_carrionswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cockroach</a> |
-| Source | Marchand: Jeremiah Payson |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a> |
 | Où | Undercity |
 | Prix | 52 pa 63 pc |
 | Nouvelle dans Forever | non, de Classic |

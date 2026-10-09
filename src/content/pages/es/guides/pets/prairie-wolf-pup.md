@@ -26,7 +26,7 @@ Prairie Wolf Pup es una mascota de compañía nueva en World of Warcraft: Foreve
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277508"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prairie Wolf Pup Carrier</a> |
-| Origen | Vendedor: Mayhoa Skyhoof |
+| Origen | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268745">Mayhoa Skyhoof</a> |
 | Dónde | Orgrimmar |
 | Precio | 63 de plata y 15 de cobre |
 | Nueva en Forever | sí |
