@@ -1,9 +1,9 @@
 ---
 title: "Guides für WoW Forever"
 metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
-description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, die Night Watchman's Torch, der Restoration Druid, Camping, das BMAH, jedes Haustier, und die Routen, Klassenguides und Berufsguides der Seite."
+description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, die Night Watchman's Torch, jede Kombination aus Volk und Klasse, der Restoration Druid, Camping, das BMAH, jedes Haustier, und die Routen, Klassenguides und Berufsguides der Seite."
 short: "Guides"
-updated: 2026-10-09
+updated: 2026-10-10
 lang: de
 manual: true
 ---
@@ -50,6 +50,7 @@ Alle Dungeons von WoW Forever nach Level, mit allen Quests, stehen in der [Dunge
 
 | Guide | Worum es geht |
 |---|---|
+| [Völker und Klassen](/de/guides/races-and-classes/) | Welches Volk welche Klasse spielen kann, mit einer Tabelle für die Horde und einer für die Alliance, den neuen Kombinationen und den Skyborne |
 | [Restoration Druid](/de/guides/restoration-druid/) | Der Heiler in WoW Forever: was sich ändert, der Standardbuild 11/7/33, Dual Specialization, Makros und die häufigsten Fragen |
 
 ## Gegenstände

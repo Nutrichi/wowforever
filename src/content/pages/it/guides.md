@@ -1,9 +1,9 @@
 ---
 title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
-description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, la Night Watchman's Torch, il Restoration Druid, il camping, la BMAH, ogni mascotte, e i percorsi, le guide di classe e le guide delle professioni del sito."
+description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, la Night Watchman's Torch, ogni combinazione di razza e classe, il Restoration Druid, il camping, la BMAH, ogni mascotte, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
-updated: 2026-10-09
+updated: 2026-10-10
 lang: it
 manual: true
 ---
@@ -50,6 +50,7 @@ Tutti i dungeon di WoW Forever per livello, con tutte le loro missioni, sono nel
 
 | Guida | Di cosa tratta |
 |---|---|
+| [Razze e classi](/it/guides/races-and-classes/) | Quale razza può giocare quale classe, con una tabella per la Horde e una per la Alliance, le nuove combinazioni e gli Skyborne |
 | [Restoration Druid](/it/guides/restoration-druid/) | Il guaritore di WoW Forever: cosa cambia, la build standard 11/7/33, la Dual Specialization, le macro e le domande più frequenti |
 
 ## Oggetti
