@@ -3,8 +3,9 @@ title: "Camping in WoW Forever: kampvuren, kampobjecten en buffs"
 metaTitle: "WoW Forever camping-gids: kampvuren, elk kampobject en zijn buff"
 description: "Hoe camping werkt in WoW Forever: de drie kampvuren, de buff van elke tradeskill, wat elk kampobject kost, de werkplaatsen van tier 2 en 3 en waar de blueprints vallen."
 short: "Camping"
-updated: 2026-09-29
+updated: 2026-10-10
 lang: nl
+video: kYvgaUnDl7A
 faq:
   - q: "Heb ik een tradeskill nodig voor een kampbuff?"
     a: "Nee. Wie een minuut bij een kampplaats zit, krijgt de buffs van de objecten die er staan, welke tradeskills hij ook heeft."
@@ -21,6 +22,16 @@ sources:
     url: "https://www.wowhead.com/forever"
 ---
 Camping is een nieuw systeem in WoW Forever. Iemand steekt een kampvuur aan, elke tradeskill zet er een object bij, en wie er een minuut zit, krijgt de buffs. Hogere tiers voegen werkplaatsen, een verkoper en een reparatierobot toe.
+
+<figure class="wf-embed" data-wf-video="kYvgaUnDl7A">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Je eerste kamp in 5 stappen</span>
+      <span class="wf-embed__meta">Speel de video af. Nutri op YouTube, 9 minuten.</span>
+    </span>
+  </button>
+</figure>
 
 ![Een kampvuur, een tent, een verbanddoos en kaarsen onder de bomen van Teldrassil, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-29-wow-forever-camp-in-teldrassil.jpg)
 

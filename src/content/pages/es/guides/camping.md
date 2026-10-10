@@ -3,8 +3,9 @@ title: "El camping en WoW Forever: hogueras, objetos de campamento y buffs"
 metaTitle: "Guía de camping de WoW Forever: hogueras, cada objeto de campamento y su buff"
 description: "Cómo funciona el camping en WoW Forever: las tres hogueras, el buff de cada profesión, lo que cuesta cada objeto de campamento, los talleres de los niveles 2 y 3 y dónde caen los blueprints."
 short: "Camping"
-updated: 2026-09-29
+updated: 2026-10-10
 lang: es
+video: kYvgaUnDl7A
 faq:
   - q: "¿Necesito una profesión para recibir un buff de campamento?"
     a: "No. Quien se sienta un minuto en un campamento recibe los buffs de los objetos colocados allí, tenga las profesiones que tenga."
@@ -21,6 +22,16 @@ sources:
     url: "https://www.wowhead.com/forever"
 ---
 El camping es un sistema nuevo de WoW Forever. Alguien enciende una hoguera, cada profesión coloca un objeto a su alrededor, y quien se sienta allí un minuto recibe los buffs. Los niveles superiores añaden talleres, un vendedor y un robot de reparación.
+
+<figure class="wf-embed" data-wf-video="kYvgaUnDl7A">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Tu primer campamento en 5 pasos</span>
+      <span class="wf-embed__meta">Reproduce el vídeo. Nutri en YouTube, 9 minutos.</span>
+    </span>
+  </button>
+</figure>
 
 ![Una hoguera, una tienda, un botiquín y velas bajo los árboles de Teldrassil, una captura de la beta de World of Warcraft: Forever](../../../../assets/posts/2026-09-29-wow-forever-camp-in-teldrassil.jpg)
 

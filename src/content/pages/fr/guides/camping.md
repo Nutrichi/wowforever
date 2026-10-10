@@ -3,8 +3,9 @@ title: "Le camping dans WoW Forever : feux de camp, objets et buffs"
 metaTitle: "Guide du camping de WoW Forever : feux de camp, chaque objet de camp et son buff"
 description: "Le fonctionnement du camping dans WoW Forever : les trois feux de camp, le buff de chaque métier, le coût de chaque objet de camp, les ateliers des paliers 2 et 3 et où tombent les blueprints."
 short: "Camping"
-updated: 2026-09-29
+updated: 2026-10-10
 lang: fr
+video: kYvgaUnDl7A
 faq:
   - q: "Faut-il un métier pour recevoir un buff de camp ?"
     a: "Non. Quiconque reste assis une minute à un campement reçoit les buffs des objets qui y sont posés, quels que soient ses métiers."
@@ -21,6 +22,16 @@ sources:
     url: "https://www.wowhead.com/forever"
 ---
 Le camping est un nouveau système de WoW Forever. Quelqu’un allume un feu de camp, chaque métier pose un objet autour, et quiconque s’y assoit une minute reçoit les buffs. Les paliers supérieurs ajoutent des ateliers, un marchand et un robot de réparation.
+
+<figure class="wf-embed" data-wf-video="kYvgaUnDl7A">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Votre premier camp en 5 étapes</span>
+      <span class="wf-embed__meta">Lancer la vidéo. Nutri sur YouTube, 9 minutes.</span>
+    </span>
+  </button>
+</figure>
 
 ![Un feu de camp, une tente, une trousse de soins et des bougies sous les arbres de Teldrassil, une capture de la bêta de World of Warcraft: Forever](../../../../assets/posts/2026-09-29-wow-forever-camp-in-teldrassil.jpg)
 

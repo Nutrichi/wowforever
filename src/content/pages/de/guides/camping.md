@@ -3,8 +3,9 @@ title: "Camping in WoW Forever: Lagerfeuer, Lagerobjekte und Buffs"
 metaTitle: "WoW Forever Camping-Guide: Lagerfeuer, jedes Lagerobjekt und sein Buff"
 description: "So funktioniert Camping in WoW Forever: die drei Lagerfeuer, der Buff jedes Berufs, was jedes Lagerobjekt kostet, die Werkbänke von Stufe 2 und 3 und wo die Blueprints droppen."
 short: "Camping"
-updated: 2026-09-29
+updated: 2026-10-10
 lang: de
+video: kYvgaUnDl7A
 faq:
   - q: "Brauche ich einen Beruf für einen Lagerbuff?"
     a: "Nein. Wer eine Minute an einem Lagerplatz sitzt, bekommt die Buffs der dort aufgestellten Objekte, ganz gleich, welche Berufe er hat."
@@ -21,6 +22,16 @@ sources:
     url: "https://www.wowhead.com/forever"
 ---
 Camping ist ein neues System in WoW Forever. Jemand zündet ein Lagerfeuer an, jeder Beruf stellt ein Objekt dazu, und wer eine Minute dort sitzt, bekommt die Buffs. Höhere Stufen bringen Werkbänke, einen Händler und einen Reparaturroboter.
+
+<figure class="wf-embed" data-wf-video="kYvgaUnDl7A">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Dein erstes Lager in 5 Schritten</span>
+      <span class="wf-embed__meta">Das Video abspielen. Nutri auf YouTube, 9 Minuten.</span>
+    </span>
+  </button>
+</figure>
 
 ![Ein Lagerfeuer, ein Zelt, eine Verbandskiste und Kerzen unter den Bäumen von Teldrassil, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../assets/posts/2026-09-29-wow-forever-camp-in-teldrassil.jpg)
 

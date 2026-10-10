@@ -3,8 +3,9 @@ title: "Camping in WoW Forever: campfires, camp objects and buffs"
 metaTitle: "WoW Forever camping guide: campfires, every camp object and its buff"
 description: "How camping works in WoW Forever: the three campfires, the buff of every tradeskill, what each camp object costs, the tier 2 and 3 workstations and where the blueprints drop."
 short: "Camping"
-updated: 2026-09-29
+updated: 2026-10-10
 lang: en
+video: kYvgaUnDl7A
 faq:
   - q: "Do I need a tradeskill to get a camp buff?"
     a: "No. Anyone who sits at a campsite for a minute gets the buffs of the objects placed there, whatever tradeskills they have."
@@ -21,6 +22,16 @@ sources:
     url: "https://www.wowhead.com/forever"
 ---
 Camping is a new system in WoW Forever. Someone lights a campfire, every tradeskill adds an object around it, and anyone who sits there for a minute gets the buffs. Higher tiers add workstations, a vendor and a repair bot.
+
+<figure class="wf-embed" data-wf-video="kYvgaUnDl7A">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Your first camp in 5 steps</span>
+      <span class="wf-embed__meta">Play the video. Nutri on YouTube, 9 minutes.</span>
+    </span>
+  </button>
+</figure>
 
 ![A campfire, a tent, a first aid kit and candles under the trees of Teldrassil, a screenshot from the beta of World of Warcraft: Forever](../../../../assets/posts/2026-09-29-wow-forever-camp-in-teldrassil.jpg)
 

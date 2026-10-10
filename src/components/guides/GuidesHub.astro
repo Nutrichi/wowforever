@@ -8,14 +8,14 @@
  * de teksten in i18n/guides-hub.ts.
  */
 import { Image } from 'astro:assets';
-import type { ImageMetadata } from 'astro';
 import type { Locale } from '../../i18n/ui';
 import { localizePath } from '../../i18n/utils';
-import { hubCategories, hubDungeons, dungeonOverviewKey, type HubCard } from '../../config/guides-hub';
+import { hubDungeons, dungeonOverviewKey, type HubCard } from '../../config/guides-hub';
+import { hubImageOf, hubModel, isExternalCard } from '../../lib/guides-hub';
 import { hubBlurbs, hubT } from '../../i18n/guides-hub';
 import { guideT } from '../../i18n/guides';
 import { restedxpUrl } from '../../config/site';
-import { getPages, pagePath } from '../../lib/pages';
+import { pagePath } from '../../lib/pages';
 import { isoDate, longDate } from '../../lib/date';
 
 interface Props {
@@ -27,48 +27,17 @@ const t = hubT(locale);
 const g = guideT(locale);
 const blurbs = hubBlurbs[locale];
 
-const imageFiles = import.meta.glob<{ default: ImageMetadata }>('../../assets/posts/*.{jpg,jpeg,png,webp}', { eager: true });
-const imageOf = (file?: string) => {
-  if (!file) return undefined;
-  const match = Object.entries(imageFiles).find(([path]) => path.endsWith(`/${file}`));
-  // Een verkeerde bestandsnaam faalt luid bij het bouwen, niet stil als lege kaart.
-  if (!match) throw new Error(`Beeld voor de gidsenhub niet gevonden: ${file}`);
-  return match[1].default;
-};
+const imageOf = hubImageOf;
 
-const pages = await getPages(locale);
-const pageOf = (key: string) => pages.find((page) => page.key === `guides/${key}`);
+const { pageOf, categories, recent } = await hubModel(locale);
 
-const isExternal = (card: HubCard) => card.key.startsWith('/');
+const isExternal = isExternalCard;
 const hrefOf = (key: string) => (key.startsWith('/') ? `${localizePath(key, locale)}/` : pagePath(`guides/${key}`, locale));
 const titleOf = (card: HubCard) => (card.label ? t(card.label) : pageOf(card.key)?.short ?? card.key);
 const blurbOf = (card: HubCard) => blurbs[card.label === 'cardLeveling' ? 'leveling' : card.key.replace(/^\//, '')] ?? '';
 
-// Een kaart naar een gids die (nog) niet bestaat, valt weg; een sectie buiten /guides/ blijft.
-const categories = hubCategories
-  .map((category) => ({
-    ...category,
-    cards: category.cards.filter((card) => isExternal(card) || pageOf(card.key)),
-  }))
-  .filter((category) => category.cards.length > 0);
-
 const guideCount = (cards: HubCard[]) =>
   cards.filter((card) => !isExternal(card)).reduce((sum, card) => sum + (card.parts?.length ?? 1), 0);
-
-/*
- * Onlangs bijgewerkt: de vier gidsen met de recentste `updated`, elke kaart één
- * keer (de delen van een reeks tellen als hun kaart). Bij gelijke datum de
- * volgorde van de hub.
- */
-const allCards = categories.flatMap((category) => category.cards).filter((card) => !isExternal(card));
-const recent = allCards
-  .map((card, order) => {
-    const keys = card.parts ?? [card.key];
-    const updated = new Date(Math.max(...keys.map((key) => pageOf(key)?.updated.getTime() ?? 0)));
-    return { card, order, updated };
-  })
-  .sort((a, b) => b.updated.getTime() - a.updated.getTime() || a.order - b.order)
-  .slice(0, 4);
 
 /* De levelband: levels 1 tot 60 op een lijn, streepjes om de tien levels. */
 const scaleMin = 1;

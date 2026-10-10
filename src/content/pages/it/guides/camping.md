@@ -3,8 +3,9 @@ title: "Il camping in WoW Forever: fuochi da campo, oggetti e buff"
 metaTitle: "Guida al camping di WoW Forever: fuochi da campo, ogni oggetto da campo e il suo buff"
 description: "Come funziona il camping in WoW Forever: i tre fuochi da campo, il buff di ogni professione, quanto costa ogni oggetto da campo, le postazioni dei livelli 2 e 3 e dove cadono i blueprint."
 short: "Camping"
-updated: 2026-09-29
+updated: 2026-10-10
 lang: it
+video: kYvgaUnDl7A
 faq:
   - q: "Serve una professione per ricevere un buff da campo?"
     a: "No. Chi resta seduto un minuto in un accampamento riceve i buff degli oggetti piazzati lì, qualunque professione abbia."
@@ -21,6 +22,16 @@ sources:
     url: "https://www.wowhead.com/forever"
 ---
 Il camping è un nuovo sistema di WoW Forever. Qualcuno accende un fuoco da campo, ogni professione ci mette accanto un oggetto, e chi si siede lì per un minuto riceve i buff. I livelli superiori aggiungono postazioni, un venditore e un robot di riparazione.
+
+<figure class="wf-embed" data-wf-video="kYvgaUnDl7A">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Il tuo primo accampamento in 5 passi</span>
+      <span class="wf-embed__meta">Avvia il video. Nutri su YouTube, 9 minuti.</span>
+    </span>
+  </button>
+</figure>
 
 ![Un fuoco da campo, una tenda, una cassetta di pronto soccorso e candele sotto gli alberi di Teldrassil, un’immagine dalla beta di World of Warcraft: Forever](../../../../assets/posts/2026-09-29-wow-forever-camp-in-teldrassil.jpg)
 
