@@ -1,6 +1,7 @@
 ---
 /*
- De schakelaar tussen de twee rekenmachines (Nutri, 19 september 2026).
+ De schakelaar tussen de twee rekenmachines (Nutri, 19 september 2026), en sinds 10
+ oktober 2026 de levelbuilds als derde (AFSPRAKEN.md §19 van de app).
 
  Vanaf `/talents/` kies je tussen de talenten en Legacy, maar eenmaal in een van
  de twee was er geen weg naar de andere dan terug via de navigatie. Deze twee
@@ -16,17 +17,20 @@
  */
 import type { Locale } from '../../i18n/ui';
 import { talT } from '../../i18n/talents';
+import { levT } from '../../i18n/leveling';
+import { localizePath } from '../../i18n/utils';
 
 interface Props {
   locale: Locale;
   /** Het pad van `/talents/` in deze taal, zonder slash op het einde. */
   base: string;
-  /** Welke van de twee je nu bekijkt. */
-  current: 'talents' | 'legacy';
+  /** Welke van de drie je nu bekijkt. */
+  current: 'talents' | 'legacy' | 'leveling';
 }
 
 const { locale, base, current } = Astro.props;
 const t = talT(locale);
+const lev = levT(locale);
 ---
 
 <nav class="wf-calcswitch" aria-label={t('title')}>
@@ -40,4 +44,9 @@ const t = talT(locale);
     href={`${base}/legacy/`}
     aria-current={current === 'legacy' ? 'page' : undefined}
   >{t('legacyCard')}</a>
+  <a
+    class:list={['wf-calcswitch__item', { 'is-current': current === 'leveling' }]}
+    href={`${localizePath('leveling', locale)}/`}
+    aria-current={current === 'leveling' ? 'page' : undefined}
+  >{lev('switch')}</a>
 </nav>

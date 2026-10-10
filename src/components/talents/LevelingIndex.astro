@@ -1,0 +1,58 @@
+---
+/*
+ * /leveling/: de negen levelbuilds (AFSPRAKEN.md §19 van de app). Een kaart per class;
+ * bij een build die nog niet tot 60 gaat, staat tot welk level hij bekend is.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { levT } from '../../i18n/leveling';
+import { talentClasses } from '../../lib/talents';
+import { levelingBuilds } from '../../lib/leveling';
+import CalcSwitch from './CalcSwitch.astro';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import '../../styles/talents.css';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = levT(locale);
+const ui = useTranslations(locale);
+const base = localizePath('leveling', locale);
+const builds = levelingBuilds();
+const classes = talentClasses().filter((klass) => builds.some((b) => b.id === klass.id));
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: t('switch'), path: `${base}/` },
+];
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+---
+
+<BaseLayout locale={locale} title={t('indexMetaTitle')} description={t('indexDescription')}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+  <div class="wf-talents wf-leveling">
+    <header class="wf-ghead">
+      <div class="wf-ghead__main">
+        <h1 class="wf-ghead__title">{t('indexTitle')}</h1>
+        <p class="wf-ghead__intro">{t('indexIntro')}</p>
+      </div>
+    </header>
+
+    <CalcSwitch locale={locale} base={localizePath('talents', locale)} current="leveling" />
+
+    <nav class="wf-classrow wf-classrow--grid" aria-label={t('chooseClass')}>
+      {classes.map((klass) => {
+        const build = builds.find((b) => b.id === klass.id)!;
+        return (
+          <a class="wf-classpill" href={`${base}/${klass.id}/`} data-class={klass.id}>
+            <span class="wf-classpill__diamond" aria-hidden="true"></span>
+            <span class="wf-classpill__name">{klass.name}</span>
+            <span class="wf-classpill__meta">10-{build.maxLevel}</span>
+          </a>
+        );
+      })}
+    </nav>
+  </div>
+</BaseLayout>

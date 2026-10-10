@@ -1,0 +1,191 @@
+---
+/*
+ * De levelbuild van één class, op /leveling/<class>/ (AFSPRAKEN.md §19 van de app).
+ *
+ * Dezelfde bomen als de talentcalculator, maar je klikt niet: je kiest een level met de
+ * schuifbalk of met min en plus, en ziet welke punten er dan staan. Het talent van dat
+ * level licht op. Een tweede schuifbalk telt de extra punten van Legacy Talented mee,
+ * standaard 0 (Nutri, 10 oktober 2026). Onder de bomen de hele volgorde per level; een
+ * tik op een regel springt naar dat level.
+ *
+ * De pagina wordt gebouwd op het hoogste bekende level, zodat een bezoeker zonder
+ * JavaScript en een zoekmachine de volledige build zien. Het adres draagt de keuze
+ * (`?level=24&talented=2`), zodat delen knippen en plakken is.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { talT } from '../../i18n/talents';
+import { levT } from '../../i18n/leveling';
+import { requiredPoints, rowCount, totalTalentPoints, talentClasses } from '../../lib/talents';
+import {
+  type LevelingBuild, MAX_TALENTED, MIN_LEVEL, classOfBuild, levelRows, levelingBuilds, pointsAt, ranksAt,
+} from '../../lib/leveling';
+import { talentTip } from '../../lib/talent-tip';
+import TalentTreeGrid, { type GridNode } from './TalentTreeGrid.astro';
+import CalcSwitch from './CalcSwitch.astro';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import '../../styles/talents.css';
+
+interface Props {
+  locale: Locale;
+  build: LevelingBuild;
+}
+
+const { locale, build } = Astro.props;
+const klass = classOfBuild(build);
+const t = levT(locale);
+const tt = talT(locale);
+const ui = useTranslations(locale);
+const base = localizePath('leveling', locale);
+const talentsBase = localizePath('talents', locale);
+const total = totalTalentPoints();
+
+const level = build.maxLevel;
+const ranks = ranksAt(klass, build, level, 0);
+const { count, order } = pointsAt(build, level, 0);
+const current = count > 0 ? order[count - 1] : '';
+const phases = levelRows(klass, build, 0);
+const max = new Map<string, number>();
+for (const tree of klass.trees) for (const talent of tree.talents) max.set(`${tree.id}/${talent.id}`, talent.maxRank);
+
+const trees = klass.trees.map((tree, index) => ({
+  id: tree.id,
+  name: tree.name,
+  index,
+  rows: rowCount(tree),
+  ranks: ranks[index],
+  nodes: tree.talents.map<GridNode>((talent) => ({
+    id: talent.id,
+    name: talent.name,
+    row: talent.row,
+    col: talent.col,
+    maxRank: talent.maxRank,
+    icon: talent.icon,
+    requires: talent.requires,
+    needs: requiredPoints(talent),
+    status: talent.status,
+    tip: talentTip(talent, locale),
+  })),
+}));
+
+/* Wat het script nodig heeft: de fases, en per talent zijn plek en zijn naam. */
+const script = {
+  phases: build.phases,
+  maxLevel: build.maxLevel,
+  maxTalented: MAX_TALENTED,
+  trees: klass.trees.map((tree) => ({ id: tree.id, talents: tree.talents.map((talent) => talent.id) })),
+  calc: `${talentsBase}/${klass.id}/`,
+};
+
+const title = t('title', { class: klass.name });
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: t('switch'), path: `${base}/` },
+  { name: klass.name, path: `${base}/${klass.id}/` },
+];
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+const builds = levelingBuilds();
+---
+
+<BaseLayout locale={locale} title={t('metaTitle', { class: klass.name })} description={t('description', { class: klass.name })}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <div class="wf-talents wf-leveling" data-leveling={JSON.stringify(script)} data-total={total}>
+    <header class="wf-ghead">
+      <div class="wf-ghead__main">
+        <h1 class="wf-ghead__title">{title}</h1>
+        <p class="wf-ghead__intro">{t('indexIntro')}</p>
+      </div>
+    </header>
+
+    <CalcSwitch locale={locale} base={talentsBase} current="leveling" />
+
+    <nav class="wf-classrow" aria-label={t('chooseClass')}>
+      {talentClasses().filter((entry) => builds.some((b) => b.id === entry.id)).map((entry) => (
+        <a
+          class:list={['wf-classpill', { 'is-current': entry.id === klass.id }]}
+          href={`${base}/${entry.id}/`}
+          data-class={entry.id}
+          aria-current={entry.id === klass.id ? 'page' : undefined}
+        >
+          <span class="wf-classpill__diamond" aria-hidden="true"></span>
+          <span class="wf-classpill__name">{entry.name}</span>
+        </a>
+      ))}
+    </nav>
+
+    {!build.complete && <p class="wf-leveling__note">{t('incomplete', { level: build.maxLevel })}</p>}
+
+    <div class="wf-levelbar">
+      <div class="wf-stepper">
+        <span class="wf-stepper__label">{t('level')}</span>
+        <button type="button" class="wf-stepper__btn" data-step="level" data-by="-1" aria-label={t('down')}>−</button>
+        <input type="range" class="wf-stepper__range" data-range="level" min={MIN_LEVEL} max={build.maxLevel} step="1" value={level} aria-label={t('level')} />
+        <button type="button" class="wf-stepper__btn" data-step="level" data-by="1" aria-label={t('up')}>+</button>
+        <output class="wf-stepper__value" data-value="level">{level}</output>
+      </div>
+      <div class="wf-stepper" title={t('talentedHint')}>
+        <span class="wf-stepper__label">{t('talented')}</span>
+        <button type="button" class="wf-stepper__btn" data-step="talented" data-by="-1" aria-label={t('fewer')}>−</button>
+        <input type="range" class="wf-stepper__range" data-range="talented" min="0" max={MAX_TALENTED} step="1" value="0" aria-label={t('talented')} />
+        <button type="button" class="wf-stepper__btn" data-step="talented" data-by="1" aria-label={t('more')}>+</button>
+        <output class="wf-stepper__value" data-value="talented">0</output>
+      </div>
+      <div class="wf-calcbar">
+        <p class="wf-calcbar__points">
+          <span data-spent>{count}</span><span class="wf-calcbar__of">/{total}</span>
+          <span class="wf-calcbar__label">{t('points')}</span>
+        </p>
+        <div class="wf-calcbar__actions">
+          <a class="wf-btn" data-open-calc href={script.calc}>{t('openCalc')}</a>
+          <button type="button" class="wf-btn wf-btn--primary" data-copy data-copied={t('copied')}>{t('copyLink')}</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="wf-trees">
+      {trees.map((tree) => (
+        <TalentTreeGrid
+          id={tree.id}
+          art={`treebg_${klass.id}_${tree.id}.jpg`}
+          name={tree.name}
+          index={tree.index}
+          rows={tree.rows}
+          nodes={tree.nodes}
+          ranks={tree.ranks}
+          resetLabel={tt('reset')}
+        />
+      ))}
+    </div>
+
+    <section class="wf-levellist" aria-labelledby="wf-levellist-title">
+      <h2 class="wf-levellist__title" id="wf-levellist-title">{t('perLevel')}</h2>
+      {phases.map((phase, p) => (
+        <div class="wf-levellist__phase" data-phase={p}>
+          {phase.respec && <h3 class="wf-levellist__respec">{t('respec', { level: phase.from })}</h3>}
+          <ol class="wf-levellist__rows">
+            {phase.rows.map((row) => (
+              <li>
+                <button
+                  type="button"
+                  class:list={['wf-levelrow', { 'is-current': p === phases.length - 1 && row.point === count && row.key === current }]}
+                  data-point={row.point}
+                  data-key={row.key}
+                >
+                  <span class="wf-levelrow__level" data-row-level>{row.level}</span>
+                  <span class="wf-levelrow__name">{row.name}</span>
+                  <span class="wf-levelrow__rank">{row.rank}/{max.get(row.key)}</span>
+                </button>
+              </li>
+            ))}
+          </ol>
+        </div>
+      ))}
+    </section>
+  </div>
+
+  <script>
+    import '../../scripts/leveling';
+  </script>
+</BaseLayout>

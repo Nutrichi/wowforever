@@ -612,3 +612,126 @@
 @media (prefers-reduced-motion: reduce) {
   .wf-node, .wf-btn, .wf-classpill { transition: none; }
 }
+
+/* ------------------------------------------------------------------
+ * De levelbuilds, /leveling/ (AFSPRAKEN.md §19 van de app). Dezelfde
+ * bomen als de calculator; erboven twee schuifbalken met min en plus,
+ * eronder de volgorde per level. Alleen kleuren uit tokens.css.
+ * ------------------------------------------------------------------ */
+
+.wf-leveling .wf-tree__reset { display: none; }
+.wf-leveling .wf-node { cursor: default; }
+
+/* Het talent van het gekozen level: een arcaanblauwe ring, zodat het afsteekt
+   tegen groen (begonnen) en goud (vol). */
+.wf-node.is-current {
+  outline: 3px solid var(--wf-arcane);
+  outline-offset: 3px;
+  box-shadow: 0 0 14px color-mix(in srgb, var(--wf-arcane) 60%, transparent);
+}
+
+.wf-leveling__note {
+  margin: 0 0 14px;
+  padding: 10px 14px;
+  border: 1px dashed var(--wf-accent);
+  border-radius: var(--wf-r-card-sm);
+  color: var(--wf-body);
+  font-size: 14px;
+}
+
+.wf-levelbar { display: grid; gap: 10px; margin: 0 0 18px; }
+
+.wf-stepper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background: var(--wf-raised);
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card);
+}
+.wf-stepper__label {
+  min-width: 78px;
+  font-family: var(--wf-display);
+  font-size: 12px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--wf-label);
+}
+.wf-stepper__btn {
+  flex: none;
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-pill);
+  background: transparent;
+  color: var(--wf-ink);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+}
+.wf-stepper__btn:hover,
+.wf-stepper__btn:focus-visible { border-color: var(--wf-arcane); box-shadow: var(--wf-glow-pill); }
+.wf-stepper__range { flex: 1; min-width: 0; accent-color: var(--wf-accent); }
+.wf-stepper__value {
+  min-width: 2ch;
+  font-family: var(--wf-serif);
+  font-size: 22px;
+  color: var(--wf-ink);
+  text-align: right;
+}
+.wf-levelbar .wf-calcbar { align-items: center; }
+
+.wf-levellist { margin: 22px 0 0; }
+.wf-levellist__title {
+  margin: 0 0 10px;
+  font-family: var(--wf-display);
+  font-size: 13px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--wf-label);
+}
+.wf-levellist__respec {
+  margin: 18px 0 8px;
+  font-family: var(--wf-serif);
+  font-size: 18px;
+  color: var(--wf-ink);
+}
+.wf-levellist__rows {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 4px 10px;
+}
+.wf-levelrow {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  width: 100%;
+  padding: 6px 10px;
+  border: 1px solid transparent;
+  border-radius: var(--wf-r-card-sm);
+  background: transparent;
+  color: var(--wf-body);
+  font: inherit;
+  font-size: 14px;
+  text-align: left;
+  cursor: pointer;
+}
+.wf-levelrow:hover,
+.wf-levelrow:focus-visible { border-color: var(--wf-border); }
+.wf-levelrow__level {
+  min-width: 2.2ch;
+  font-family: var(--wf-display);
+  color: var(--wf-label);
+}
+.wf-levelrow__name { flex: 1; color: var(--wf-ink); }
+.wf-levelrow__rank { color: var(--wf-muted); font-size: 13px; }
+.wf-levelrow.is-done .wf-levelrow__name { color: var(--wf-muted); }
+.wf-levelrow.is-current { border-color: var(--wf-arcane); background: var(--wf-accent-wash); }
+.wf-levelrow.is-current .wf-levelrow__name { font-weight: 600; }
+
+.wf-classrow--grid .wf-classpill { justify-content: flex-start; }
+.wf-classpill__meta { margin-left: auto; padding-left: 8px; color: var(--wf-label); letter-spacing: .04em; }

@@ -24,6 +24,7 @@ import {
 } from '../../lib/talents';
 import TalentTreeGrid, { type GridNode } from './TalentTreeGrid.astro';
 import CalcSwitch from './CalcSwitch.astro';
+import { talentTip } from '../../lib/talent-tip';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import '../../styles/talents.css';
 
@@ -46,26 +47,6 @@ const sizes = klass.trees.map((tree) => tree.talents.length);
 const maxRanks = klass.trees.map((tree) => tree.talents.map((talent) => talent.maxRank));
 const build = decodeBuild(code, sizes, maxRanks);
 
-/** De tooltip van een talent, als HTML. Alles wat je wil weten bij dat vakje. */
-function tip(talent: TalentClass['trees'][number]['talents'][number]): string {
-  const merk = talent.status === 'new' ? t('statusNew')
-    : talent.status === 'changed' ? t('statusChanged') : '';
-  const regels = talent.ranks
-    .map((r) => `<span class="wf-tip__rank"><b>${t('rank')} ${r.rank}</b>${escape(r.text)}</span>`)
-    .join('');
-  return [
-    `<span class="wf-tip__name">${escape(talent.name)}</span>`,
-    merk ? `<span class="wf-tip__flag">${escape(merk)}</span>` : '',
-    talent.cost ? `<span class="wf-tip__cost">${escape(talent.cost)}</span>` : '',
-    regels || `<span class="wf-tip__rank">${escape(t('noDescription'))}</span>`,
-  ].join('');
-}
-
-/** Tekst veilig in HTML zetten; de teksten komen uit de client van het spel. */
-function escape(value: string): string {
-  return value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-}
-
 const trees = klass.trees.map((tree, index) => ({
   id: tree.id,
   name: tree.name,
@@ -82,7 +63,7 @@ const trees = klass.trees.map((tree, index) => ({
     requires: talent.requires,
     needs: requiredPoints(talent),
     status: talent.status,
-    tip: tip(talent),
+    tip: talentTip(talent, locale),
   })),
 }));
 

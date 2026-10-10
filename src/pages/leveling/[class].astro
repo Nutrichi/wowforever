@@ -1,0 +1,13 @@
+---
+/* De levelbuild van een class, in het Engels, op /leveling/<class>/. */
+import type { GetStaticPaths } from 'astro';
+import LevelingBuild from '../../components/talents/LevelingBuild.astro';
+import { type LevelingBuild as Build, levelingBuilds } from '../../lib/leveling';
+
+export const getStaticPaths: GetStaticPaths = () =>
+  levelingBuilds().map((build) => ({ params: { class: build.id }, props: { build } }));
+
+const { build } = Astro.props as { build: Build };
+---
+
+<LevelingBuild locale="en" build={build} />

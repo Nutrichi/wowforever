@@ -93,6 +93,7 @@ export const hubCategories: HubCategory[] = [
   {
     key: 'items',
     cards: [
+      { key: 'library-books', image: '2026-10-06-wow-forever-library-reading-table.jpg' },
       { key: 'night-watchmans-torch', image: '2026-10-09-wow-forever-night-watchmans-torch.jpg' },
       { key: 'cozy-sleeping-bag', image: '2026-09-22-wow-forever-cozy-sleeping-bag.jpg' },
     ],
