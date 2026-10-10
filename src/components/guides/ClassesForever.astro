@@ -11,7 +11,12 @@ import { foreverClassOrder, foreverRaces } from '../../config/guides';
 import { restedxpUrl } from '../../config/site';
 import { foreverRacials } from '../../i18n/forever-racials';
 import { guideT } from '../../i18n/guides';
+import { levT } from '../../i18n/leveling';
+import { localizePath } from '../../i18n/utils';
+import { levelingBuilds } from '../../lib/leveling';
+import { talentClasses } from '../../lib/talents';
 import '../../styles/guides.css';
+import '../../styles/talents.css';
 
 interface Props {
   locale: Locale;
@@ -20,6 +25,9 @@ interface Props {
 
 const { locale, title } = Astro.props;
 const t = guideT(locale);
+const lev = levT(locale);
+const levelingBase = localizePath('leveling', locale);
+const levelingClasses = talentClasses().filter((klass) => levelingBuilds().some((b) => b.id === klass.id));
 const classKeys = foreverClassOrder;
 const factions = [
   { key: 'horde', label: 'Horde' },
@@ -34,6 +42,21 @@ const stateLabel = { new: t('racialNew'), changed: t('racialChanged'), same: t('
     <p class="wf-ghead__intro">{t('classesForeverIntro')}</p>
   </div>
 </header>
+
+<!-- De levelbuilds per class (Nutri, 11 oktober 2026: een link vanuit Classes naar /leveling/). -->
+<section class="wf-gblock" aria-labelledby="wf-leveling">
+  <h2 class="wf-glabel" id="wf-leveling">{lev('switch')}</h2>
+  <p class="wf-gtext">{lev('indexIntro')}</p>
+  <nav class="wf-classrow" aria-label={lev('chooseClass')}>
+    {levelingClasses.map((klass) => (
+      <a class="wf-classpill" href={`${levelingBase}/${klass.id}/`} data-class={klass.id}>
+        <span class="wf-classpill__diamond" aria-hidden="true"></span>
+        <span class="wf-classpill__name">{klass.name}</span>
+      </a>
+    ))}
+  </nav>
+  <p class="wf-gtext"><a href={`${levelingBase}/`}>{lev('all')} →</a></p>
+</section>
 
 <section class="wf-gblock" aria-labelledby="wf-changes">
   <h2 class="wf-glabel" id="wf-changes">{t('changesTitle')}</h2>
