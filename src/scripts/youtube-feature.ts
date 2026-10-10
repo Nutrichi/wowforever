@@ -1,9 +1,13 @@
 /*
  * FEATURED VIDEO en FEATURED STREAM (src/components/YoutubeFeature.astro).
  *
- * 1. Een stream-blok vraagt eerst aan de Edge Function `youtube-live` of Nutri
- *    nu live is. Zo ja, dan zijn stream. Zo nee, dan verdwijnt het blok
- *    (Nutri, 6 oktober 2026: geen andere streamer in de plaats).
+ * 1. Een stream-blok vraagt eerst aan de Edge Function `twitch-live` of Nutri
+ *    nu live is op Twitch (sinds 10 oktober 2026; daarvoor `youtube-live`).
+ *    Zo ja, dan zijn stream in de speler van Twitch. Zo nee, dan verdwijnt het
+ *    blok (Nutri, 6 oktober 2026: geen andere streamer in de plaats).
+ *    Twitch eist minstens 400 pixels breed en de domeinnaam als `parent`;
+ *    is het blok smaller, dan opent het beeld Twitch in een nieuw tabblad,
+ *    zoals in de lijst (src/scripts/feed-stage.ts).
  * 2. Elk blok speelt vanzelf en zonder geluid zodra het voor de helft in beeld
  *    is. Browsers laten alleen een stille video vanzelf starten.
  * 3. Een klik op het beeld voor het zover is, start de video met geluid: dan
@@ -13,11 +17,11 @@
  * staan tot iemand klikt.
  */
 
-type Choice = { id: string; title: string; channel: string };
+type Choice = { id: string; title: string; channel: string; thumbnail: string };
 
 const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-const embedUrl = (id: string, sound: boolean) =>
+const youtubeUrl = (id: string, sound: boolean) =>
   `https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?${new URLSearchParams({
     autoplay: '1',
     ...(sound ? {} : { mute: '1' }),
@@ -25,13 +29,26 @@ const embedUrl = (id: string, sound: boolean) =>
     playsinline: '1',
   })}`;
 
+const twitchUrl = (channel: string, sound: boolean) =>
+  `https://player.twitch.tv/?${new URLSearchParams({
+    channel,
+    parent: window.location.hostname,
+    autoplay: 'true',
+    muted: sound ? 'false' : 'true',
+  })}`;
+
+/** Past de speler van Twitch? Die wil minstens 400 bij 300 pixels. */
+const twitchFits = (box: HTMLElement) => box.clientWidth >= 400 && box.clientHeight >= 225;
+
 const mount = (section: HTMLElement, sound: boolean) => {
   const box = section.querySelector<HTMLElement>('[data-wf-yt-box]');
   const id = box?.dataset.id;
   if (!box || !id || box.querySelector('iframe')) return;
+  const twitch = section.dataset.wfYt === 'stream';
+  if (twitch && !twitchFits(box)) return;
 
   const frame = document.createElement('iframe');
-  frame.src = embedUrl(id, sound);
+  frame.src = twitch ? twitchUrl(id, sound) : youtubeUrl(id, sound);
   frame.title = section.querySelector('[data-wf-yt-title]')?.textContent?.trim() ?? '';
   frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
   frame.allowFullscreen = true;
@@ -71,7 +88,7 @@ const fill = (section: HTMLElement, choice: Choice, href: string) => {
   // Het beeld van bij de build hoort mogelijk bij een vorige stream.
   poster.querySelector('[data-wf-yt-img]')?.remove();
   const img = document.createElement('img');
-  img.src = `https://i.ytimg.com/vi/${encodeURIComponent(choice.id)}/hqdefault_live.jpg`;
+  img.src = choice.thumbnail;
   img.alt = '';
   img.referrerPolicy = 'no-referrer';
   img.dataset.wfYtImg = '';
@@ -81,6 +98,9 @@ const fill = (section: HTMLElement, choice: Choice, href: string) => {
     title.textContent = choice.title;
     title.href = href;
   }
+  // Te smal voor de speler van Twitch: het beeld wordt een link naar Twitch.
+  poster.target = '_blank';
+  poster.rel = 'noopener';
   if (meta) meta.textContent = choice.channel;
 };
 
@@ -90,8 +110,13 @@ const pickStream = async (section: HTMLElement) => {
   if (endpoint) {
     try {
       const response = await fetch(endpoint, { signal: AbortSignal.timeout(4_000) });
-      const data = await response.json() as { live: { id: string; title: string } | null };
-      if (data.live?.id) live = { id: data.live.id, title: data.live.title, channel: 'Nutri' };
+      const data = await response.json() as { live: { title: string; thumbnail: string } | null };
+      const login = section.dataset.twitch;
+      if (data.live && login) {
+        // Twitch ververst het beeld om de paar minuten onder dezelfde URL.
+        const thumbnail = `${data.live.thumbnail}?t=${Math.floor(Date.now() / 60_000)}`;
+        live = { id: login, title: data.live.title, channel: 'Nutri', thumbnail };
+      }
     } catch {
       // Geen antwoord: dan geen blok.
     }
@@ -103,7 +128,7 @@ const pickStream = async (section: HTMLElement) => {
     return;
   }
 
-  fill(section, choice, `https://www.youtube.com/watch?v=${encodeURIComponent(choice.id)}`);
+  fill(section, choice, `https://www.twitch.tv/${encodeURIComponent(choice.id)}`);
   section.hidden = false;
   ready(section);
 };
@@ -115,7 +140,7 @@ for (const section of document.querySelectorAll<HTMLElement>('[data-wf-yt]')) {
 
 /*
  * Een klik op het beeld speelt hier, met geluid. Cmd- of Ctrl-klik blijft een
- * gewone link naar YouTube.
+ * gewone link naar YouTube of Twitch, en een stream in een te smal blok ook.
  */
 document.addEventListener('click', (event) => {
   if (!(event.target instanceof Element)) return;
@@ -124,6 +149,8 @@ document.addEventListener('click', (event) => {
   if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
   const section = poster.closest<HTMLElement>('[data-wf-yt]');
   if (!section || section.classList.contains('is-pending')) return;
+  const box = section.querySelector<HTMLElement>('[data-wf-yt-box]');
+  if (section.dataset.wfYt === 'stream' && (!box || !twitchFits(box))) return;
   event.preventDefault();
   watcher?.unobserve(section);
   mount(section, true);

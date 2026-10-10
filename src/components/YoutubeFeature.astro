@@ -10,6 +10,9 @@
  *                  is (Nutri, 6 oktober 2026). Dat beslist de pagina pas in de
  *                  browser (src/scripts/youtube-feature.ts), want de build
  *                  loopt uren achter op een stream. Niet live: geen blok.
+ *                  Sinds 10 oktober 2026 de stream op Twitch, niet meer op
+ *                  YouTube (Nutri: "due to the viewerbase"), dus de speler
+ *                  van Twitch.
  *
  * **Speelt vanzelf, zonder geluid**, zodra het blok voor de helft in beeld is.
  * Browsers laten alleen een stille video vanzelf starten, en geluid uit het
@@ -22,7 +25,7 @@
 import type { Locale } from '../i18n/ui';
 import { useTranslations } from '../i18n/utils';
 import {
-  channelUrl, latestVideo, liveAtBuild, liveEndpoint, type YoutubeVideo,
+  channelUrl, latestVideo, liveEndpoint, twitchLogin, twitchUrl, type YoutubeVideo,
 } from '../lib/youtube';
 
 interface Props {
@@ -39,17 +42,17 @@ const isStream = kind === 'stream';
 const label = isStream ? t('featured.stream') : t('featured.video');
 
 /*
- * Wat er bij het bouwen staat. Voor een stream is dat de stand van toen en
- * alleen bedoeld voor wie geen JavaScript heeft; het script vervangt het.
+ * Wat er bij het bouwen staat. Een stream heeft niets: de build weet niet of
+ * Nutri op Twitch live is, alleen het script weet dat.
  */
-const initial: YoutubeVideo | null = isStream ? liveAtBuild : latestVideo;
+const initial: YoutubeVideo | null = isStream ? null : latestVideo;
+const home = isStream ? twitchUrl : channelUrl;
 
 /*
- * Een stream-blok bestaat als er iets te tonen kan zijn. Is er bij het bouwen
- * niets, dan staat het verborgen klaar: wordt Nutri later live, dan toont het
- * script het alsnog.
+ * Een stream-blok staat altijd verborgen klaar: wordt Nutri live, dan toont
+ * het script het.
  */
-const render = isStream ? !!liveEndpoint || !!initial : !!initial;
+const render = isStream ? !!liveEndpoint : !!initial;
 ---
 
 {render && (
@@ -57,14 +60,14 @@ const render = isStream ? !!liveEndpoint || !!initial : !!initial;
     class:list={['wf-yt', { 'is-pending': isStream }]}
     data-wf-yt={kind}
     data-endpoint={isStream ? liveEndpoint : undefined}
-    data-channel-url={isStream ? channelUrl : undefined}
+    data-twitch={isStream ? twitchLogin : undefined}
     aria-label={label}
     hidden={!initial}
   >
     <h2 class="wf-yt__label">{label}</h2>
 
     <div class="wf-yt__box" data-wf-yt-box data-id={initial?.id}>
-      <a class="wf-yt__poster" href={initial?.url ?? channelUrl} data-wf-yt-poster aria-label={t('featured.play')}>
+      <a class="wf-yt__poster" href={initial?.url ?? home} data-wf-yt-poster aria-label={t('featured.play')}>
         {initial?.thumbnail && (
           <img
             class="wf-yt__img"
@@ -84,11 +87,10 @@ const render = isStream ? !!liveEndpoint || !!initial : !!initial;
     </div>
 
     <h3 class="wf-yt__title">
-      <a href={initial?.url ?? channelUrl} target="_blank" rel="noopener" data-wf-yt-title>{initial?.title}</a>
+      <a href={initial?.url ?? home} target="_blank" rel="noopener" data-wf-yt-title>{initial?.title}</a>
     </h3>
     <p class="wf-yt__meta" data-wf-yt-meta>{initial?.channel}</p>
 
-    {isStream && <noscript><style>.wf-yt.is-pending .wf-yt__box, .wf-yt.is-pending .wf-yt__title, .wf-yt.is-pending .wf-yt__meta { visibility: visible; }</style></noscript>}
   </section>
 )}
 

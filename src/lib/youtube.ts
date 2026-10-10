@@ -1,6 +1,7 @@
 /*
  * Nutri op YouTube: de uitgelichte video op Clips, en het
- * blok FEATURED STREAM op Streams (Nutri, 6 oktober 2026).
+ * blok FEATURED STREAM op Streams (Nutri, 6 oktober 2026). Die stream komt
+ * sinds 10 oktober 2026 van Twitch.
  *
  * Het bestand src/data/generated/youtube.json komt uit scripts/fetch-feeds.mjs,
  * net als clips.json en streams.json, en staat dus niet in git. Ontbreekt het,
@@ -34,11 +35,22 @@ const file = (generated['../data/generated/youtube.json'] as YoutubeFile | undef
 /** De nieuwste gemonteerde video van Nutri: geen opname van een stream, geen Short. */
 export const latestVideo: YoutubeVideo | null = file?.latest ?? null;
 
-/** Was Nutri live bij het bouwen? De pagina vraagt het opnieuw bij elk bezoek. */
+/**
+ * Was Nutri live op YouTube bij het bouwen? Niet meer gebruikt sinds de stream
+ * naar Twitch ging (10 oktober 2026); blijft voor als het terugdraait.
+ */
 export const liveAtBuild: YoutubeVideo | null = file?.live ?? null;
 
-/** De Edge Function die zegt of Nutri nu live is (supabase/functions/youtube-live). */
-export const liveEndpoint = supabaseUrl ? `${supabaseUrl}/functions/v1/youtube-live` : '';
+/**
+ * De Edge Function die zegt of Nutri nu live is. Sinds 10 oktober 2026
+ * `twitch-live`: Nutri streamt weer op Twitch, omdat daar de kijkers zitten.
+ * `youtube-live` staat er nog, voor als het ooit terugdraait.
+ */
+export const liveEndpoint = supabaseUrl ? `${supabaseUrl}/functions/v1/twitch-live` : '';
 
-/** Het kanaal, voor de link onder een live stream van Nutri. */
+/** Het Twitch-kanaal van Nutri: de speler en de link van FEATURED STREAM. */
+export const twitchLogin = 'nutri_r1';
+export const twitchUrl = `https://www.twitch.tv/${twitchLogin}`;
+
+/** Het YouTube-kanaal, voor de link onder FEATURED VIDEO. */
 export const channelUrl = 'https://www.youtube.com/@nutri_r1';
