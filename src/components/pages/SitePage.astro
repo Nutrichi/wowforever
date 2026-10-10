@@ -22,6 +22,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getPage, getPages, pagePath } from '../../lib/pages';
 import { pageT } from '../../i18n/pages';
 import { guideT } from '../../i18n/guides';
+import GuidesHub from '../guides/GuidesHub.astro';
 import { breadcrumbJsonLd, publisherJsonLd } from '../../lib/structured-data';
 import { isoDate, longDate } from '../../lib/date';
 import '../../styles/guides.css';
@@ -154,6 +155,9 @@ const jsonLd = {
     <div class="wf-gprose">
       <Content />
     </div>
+
+    {/* De hub /guides/ toont onder de inleiding kaarten per categorie (10 oktober 2026). */}
+    {pageKey === 'guides' && <GuidesHub locale={locale} />}
 
     {page.faq.length > 0 && (
       <section class="wf-gprose wf-page__faq" aria-labelledby="wf-faq">
