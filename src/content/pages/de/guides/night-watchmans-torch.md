@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: so bekommst du sie in WoW Forever"
 metaTitle: "Night Watchman's Torch in WoW Forever: Fundort, nächtlicher Spawn und Nutzen"
 description: "So bekommst du die Night Watchman's Torch in WoW Forever: der Night Watch Guard in Duskwood, wann er erscheint, wo er liegt, der Weg für die Horde und was die Fackel tut."
 short: "Night Watchman's Torch"
-updated: 2026-10-09
+updated: 2026-10-10
 lang: de
 manual: true
 faq:
@@ -17,9 +17,13 @@ faq:
     a: "Ja. Nimm den Zeppelin von Orgrimmar nach Grom'gol in Stranglethorn Vale und reise nach Norden bis Duskwood."
   - q: "Was, wenn man die Fackel löscht?"
     a: "Geh zurück nach Duskwood und such den Night Watch Guard erneut, um eine neue zu bekommen."
+  - q: "Können Druids die Fackel in einer Tiergestalt benutzen?"
+    a: "Ja. Seit einem Beta-Update im Oktober halten die Gestalten des Druid die Fackel im Maul."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/how-to-get-a-torch-in-wow-forever-night-watchmans-torch"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/druids-can-now-hold-torches-with-their-mouths-wow-forever/"
 ---
 Die [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-watchmans-torch) ist eine Fackel, die dein Charakter hält, um die Dunkelheit zu erhellen. Durch die neue Beleuchtung von WoW Forever werden manche Zonen nachts richtig dunkel, und dort hilft dieser Gegenstand. Sie stammt von einem toten Wächter in Duskwood, der nur nachts erscheint. Spieler fanden sie in der Beta.
 
@@ -38,6 +42,8 @@ Die [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-w
 Benutze sie, und dein Charakter hält 5 Minuten lang eine brennende Fackel. Das Licht geht aus, sobald du eine Kampfaktion ausführst, wenn du ins Wasser gehst und in den großen Städten. Danach hat der Gegenstand eine Abklingzeit von 30 Sekunden.
 
 Wo sie hilft: in Duskwood selbst, in Tirisfal Glades und Silverpine Forest bei Nacht und in Stranglethorn Vale in den frühen Stunden, wenn der Waldboden schwarz wird.
+
+Druids können die Fackel auch in ihren Tiergestalten benutzen. Seit einem Beta-Update im Oktober halten Cat Form und Travel Form sie im Maul ([News](/de/news/druid-forms-carry-the-torch-in-their-mouth/)).
 
 ## So bekommst du sie
 

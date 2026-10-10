@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: come ottenerla in WoW Forever"
 metaTitle: "Night Watchman's Torch in WoW Forever: posizione, comparsa notturna e uso"
 description: "Come ottenere la Night Watchman's Torch in WoW Forever: la Night Watch Guard di Duskwood, quando appare, dove si trova, il percorso per l'Orda e cosa fa la torcia."
 short: "Night Watchman's Torch"
-updated: 2026-10-09
+updated: 2026-10-10
 lang: it
 manual: true
 faq:
@@ -17,9 +17,13 @@ faq:
     a: "Sì. Prendi lo zeppelin da Orgrimmar a Grom'gol, a Stranglethorn Vale, e viaggia verso nord fino a Duskwood."
   - q: "E se elimini la torcia?"
     a: "Torna a Duskwood e ritrova la Night Watch Guard per averne una nuova."
+  - q: "I Druid possono usare la torcia in forma animale?"
+    a: "Sì. Da un aggiornamento della beta di ottobre, le forme del Druid tengono la torcia in bocca."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/how-to-get-a-torch-in-wow-forever-night-watchmans-torch"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/druids-can-now-hold-torches-with-their-mouths-wow-forever/"
 ---
 La [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-watchmans-torch) è una torcia che il tuo personaggio tiene in mano per illuminare il buio. Con la nuova illuminazione di WoW Forever alcune zone diventano davvero buie di notte, e qui questo oggetto aiuta. Viene da una guardia morta a Duskwood che appare solo di notte. I giocatori l'hanno trovata nella beta.
 
@@ -38,6 +42,8 @@ La [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-wa
 Usala e il tuo personaggio tiene una torcia accesa per 5 minuti. La luce si spegne appena compi un'azione di combattimento, quando entri in acqua e dentro le grandi città. Poi l'oggetto ha un tempo di recupero di 30 secondi.
 
 Dove aiuta: a Duskwood stessa, a Tirisfal Glades e Silverpine Forest di notte, e a Stranglethorn Vale nelle prime ore del mattino, quando il sottobosco diventa nero.
+
+I Druid possono usare la torcia anche nelle forme animali. Da un aggiornamento della beta di ottobre, Cat Form e Travel Form la tengono in bocca ([notizia](/it/news/druid-forms-carry-the-torch-in-their-mouth/)).
 
 ## Come ottenerla
 

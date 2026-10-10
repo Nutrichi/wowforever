@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: cómo conseguirla en WoW Forever"
 metaTitle: "Night Watchman's Torch en WoW Forever: ubicación, aparición nocturna y uso"
 description: "Cómo conseguir la Night Watchman's Torch en WoW Forever: el Night Watch Guard de Duskwood, cuándo aparece, dónde está, la ruta para la Horda y qué hace la antorcha."
 short: "Night Watchman's Torch"
-updated: 2026-10-09
+updated: 2026-10-10
 lang: es
 manual: true
 faq:
@@ -17,9 +17,13 @@ faq:
     a: "Sí. Toma el zepelín de Orgrimmar a Grom'gol, en Stranglethorn Vale, y viaja al norte hasta Duskwood."
   - q: "¿Y si borras la antorcha?"
     a: "Vuelve a Duskwood y busca de nuevo al Night Watch Guard para conseguir otra."
+  - q: "¿Pueden los Druid usar la antorcha en forma animal?"
+    a: "Sí. Desde una actualización de la beta en octubre, las formas del Druid sujetan la antorcha con la boca."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/how-to-get-a-torch-in-wow-forever-night-watchmans-torch"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/druids-can-now-hold-torches-with-their-mouths-wow-forever/"
 ---
 La [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-watchmans-torch) es una antorcha que tu personaje sostiene para iluminar la oscuridad. Con la nueva iluminación de WoW Forever, algunas zonas se vuelven realmente oscuras de noche, y este objeto ayuda allí. Viene de un guardia muerto en Duskwood que solo aparece de noche. Los jugadores la encontraron en la beta.
 
@@ -38,6 +42,8 @@ La [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-wa
 Úsala y tu personaje sostiene una antorcha encendida durante 5 minutos. La luz se apaga en cuanto haces cualquier acción de combate, al entrar en el agua y dentro de las grandes ciudades. Después, el objeto tiene un tiempo de reutilización de 30 segundos.
 
 Dónde ayuda: en el propio Duskwood, en Tirisfal Glades y Silverpine Forest de noche, y en Stranglethorn Vale de madrugada, cuando el suelo del bosque se vuelve negro.
+
+Los Druid también pueden usar la antorcha en sus formas animales. Desde una actualización de la beta en octubre, Cat Form y Travel Form la sujetan con la boca ([noticia](/es/news/druid-forms-carry-the-torch-in-their-mouth/)).
 
 ## Cómo conseguirla
 

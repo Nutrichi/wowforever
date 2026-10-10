@@ -3,7 +3,7 @@ title: "Night Watchman's Torch : comment l'obtenir dans WoW Forever"
 metaTitle: "Night Watchman's Torch dans WoW Forever : emplacement, apparition nocturne et usage"
 description: "Comment obtenir la Night Watchman's Torch dans WoW Forever : le Night Watch Guard de Duskwood, quand il apparaît, où il se trouve, le trajet pour la Horde et ce que fait la torche."
 short: "Night Watchman's Torch"
-updated: 2026-10-09
+updated: 2026-10-10
 lang: fr
 manual: true
 faq:
@@ -17,9 +17,13 @@ faq:
     a: "Oui. Prenez le zeppelin d'Orgrimmar à Grom'gol, dans Stranglethorn Vale, puis remontez vers le nord jusqu'à Duskwood."
   - q: "Et si vous supprimez la torche ?"
     a: "Retournez à Duskwood et retrouvez le Night Watch Guard pour en obtenir une nouvelle."
+  - q: "Les Druids peuvent-ils utiliser la torche en forme animale ?"
+    a: "Oui. Depuis une mise à jour de la bêta en octobre, les formes du Druid tiennent la torche dans la gueule."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/how-to-get-a-torch-in-wow-forever-night-watchmans-torch"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/druids-can-now-hold-torches-with-their-mouths-wow-forever/"
 ---
 La [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-watchmans-torch) est une torche que votre personnage tient pour éclairer l'obscurité. Avec le nouvel éclairage de WoW Forever, certaines zones deviennent vraiment sombres la nuit, et cet objet y aide. Elle vient d'un garde mort à Duskwood qui n'apparaît que la nuit. Des joueurs l'ont trouvée sur la bêta.
 
@@ -38,6 +42,8 @@ La [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-wa
 Utilisez-la et votre personnage tient une torche allumée pendant 5 minutes. La lumière s'éteint dès la moindre action de combat, quand vous entrez dans l'eau et dans les grandes villes. Ensuite, l'objet a un temps de recharge de 30 secondes.
 
 Là où elle aide : à Duskwood même, à Tirisfal Glades et Silverpine Forest la nuit, et à Stranglethorn Vale aux petites heures, quand le sol de la forêt devient noir.
+
+Les Druids peuvent aussi utiliser la torche dans leurs formes animales. Depuis une mise à jour de la bêta en octobre, la Cat Form et la Travel Form la tiennent dans la gueule ([actualité](/fr/news/druid-forms-carry-the-torch-in-their-mouth/)).
 
 ## Comment l'obtenir
 

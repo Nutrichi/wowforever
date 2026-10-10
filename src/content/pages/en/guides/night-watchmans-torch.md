@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: how to get it in WoW Forever"
 metaTitle: "Night Watchman's Torch in WoW Forever: location, night spawn and use"
 description: "How to get the Night Watchman's Torch in WoW Forever: the Night Watch Guard in Duskwood, when he appears, where he lies, the route for the Horde and what the torch does."
 short: "Night Watchman's Torch"
-updated: 2026-10-09
+updated: 2026-10-10
 lang: en
 faq:
   - q: "Where do you get the Night Watchman's Torch?"
@@ -16,9 +16,13 @@ faq:
     a: "Yes. Take the zeppelin from Orgrimmar to Grom'gol in Stranglethorn Vale and travel north into Duskwood."
   - q: "What if you delete the torch?"
     a: "Go back to Duskwood and find the Night Watch Guard again for a new one."
+  - q: "Can Druids use the torch in an animal form?"
+    a: "Yes. Since a beta update in October, the Druid forms hold the torch in their mouth."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/how-to-get-a-torch-in-wow-forever-night-watchmans-torch"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/druids-can-now-hold-torches-with-their-mouths-wow-forever/"
 ---
 The [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-watchmans-torch) is a torch your character holds to light up the dark. The new lighting of WoW Forever makes some zones truly dark at night, and this item helps there. It comes from a dead guard in Duskwood who only appears at night. Players found it on the beta.
 
@@ -37,6 +41,8 @@ The [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-w
 Use it and your character holds a burning torch for 5 minutes. The light goes out as soon as you take any combat action, when you walk into water and inside the major cities. After that the item has a cooldown of 30 seconds.
 
 Where it helps: Duskwood itself, Tirisfal Glades and Silverpine Forest at night, and Stranglethorn Vale in the early hours, when the forest floor turns black.
+
+Druids can use the torch in their animal forms too. Since a beta update in October, Cat Form and Travel Form hold it in their mouth ([news](/news/druid-forms-carry-the-torch-in-their-mouth/)).
 
 ## How to get it
 

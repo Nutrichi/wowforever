@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: zo krijg je hem in WoW Forever"
 metaTitle: "Night Watchman's Torch in WoW Forever: plek, nachtelijke spawn en gebruik"
 description: "Zo krijg je de Night Watchman's Torch in WoW Forever: de Night Watch Guard in Duskwood, wanneer hij verschijnt, waar hij ligt, de route voor de Horde en wat de fakkel doet."
 short: "Night Watchman's Torch"
-updated: 2026-10-09
+updated: 2026-10-10
 lang: nl
 manual: true
 faq:
@@ -17,9 +17,13 @@ faq:
     a: "Ja. Neem de zeppelin van Orgrimmar naar Grom'gol in Stranglethorn Vale en reis naar het noorden, Duskwood in."
   - q: "Wat als je de fakkel weggooit?"
     a: "Ga terug naar Duskwood en zoek de Night Watch Guard opnieuw voor een nieuwe."
+  - q: "Kunnen Druids de fakkel in een dierenvorm gebruiken?"
+    a: "Ja. Sinds een beta-update in oktober houden de vormen van de Druid de fakkel in de bek."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/how-to-get-a-torch-in-wow-forever-night-watchmans-torch"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/druids-can-now-hold-torches-with-their-mouths-wow-forever/"
 ---
 De [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-watchmans-torch) is een fakkel die je personage vasthoudt om het donker te verlichten. Door de nieuwe belichting van WoW Forever worden sommige zones 's nachts echt donker, en daar helpt dit item. Hij komt van een dode wachter in Duskwood die alleen 's nachts verschijnt. Spelers vonden hem op de beta.
 
@@ -38,6 +42,8 @@ De [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-wa
 Gebruik hem en je personage houdt 5 minuten een brandende fakkel vast. Het licht gaat uit zodra je iets in een gevecht doet, als je het water in loopt en in de grote steden. Daarna heeft het item een cooldown van 30 seconden.
 
 Waar hij helpt: in Duskwood zelf, in Tirisfal Glades en Silverpine Forest 's nachts, en in Stranglethorn Vale in de vroege uren, als de bosgrond zwart wordt.
+
+Druids kunnen de fakkel ook in hun dierenvormen gebruiken. Sinds een beta-update in oktober houden Cat Form en Travel Form hem in de bek ([nieuws](/nl/news/druid-forms-carry-the-torch-in-their-mouth/)).
 
 ## Zo krijg je hem
 
