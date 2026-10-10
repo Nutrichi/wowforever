@@ -8,7 +8,6 @@ import { defaultLocale, type Locale } from './ui';
 
 const ui = {
   en: {
-    all: 'All leveling builds',
     switch: 'Leveling builds',
     indexTitle: 'Leveling builds for WoW Forever',
     indexMetaTitle: 'WoW Forever leveling builds: the talent to take at every level',
@@ -34,7 +33,6 @@ const ui = {
     copied: 'Copied',
   },
   nl: {
-    all: 'Alle levelbuilds',
     switch: 'Levelbuilds',
     indexTitle: 'Levelbuilds voor WoW Forever',
     indexMetaTitle: 'WoW Forever levelbuilds: het talent voor elk level',
@@ -60,7 +58,6 @@ const ui = {
     copied: 'Gekopieerd',
   },
   fr: {
-    all: 'Tous les builds de leveling',
     switch: 'Builds de leveling',
     indexTitle: 'Builds de leveling pour WoW Forever',
     indexMetaTitle: 'Builds de leveling WoW Forever : le talent à prendre à chaque niveau',
@@ -86,7 +83,6 @@ const ui = {
     copied: 'Copié',
   },
   es: {
-    all: 'Todas las builds para subir de nivel',
     switch: 'Builds para subir',
     indexTitle: 'Builds para subir de nivel en WoW Forever',
     indexMetaTitle: 'Builds para subir de nivel en WoW Forever: el talento de cada nivel',
@@ -112,7 +108,6 @@ const ui = {
     copied: 'Copiado',
   },
   it: {
-    all: 'Tutte le build di livellamento',
     switch: 'Build di livellamento',
     indexTitle: 'Build di livellamento per WoW Forever',
     indexMetaTitle: 'Build di livellamento WoW Forever: il talento di ogni livello',
@@ -138,7 +133,6 @@ const ui = {
     copied: 'Copiato',
   },
   de: {
-    all: 'Alle Leveling-Builds',
     switch: 'Leveling-Builds',
     indexTitle: 'Leveling-Builds für WoW Forever',
     indexMetaTitle: 'WoW Forever Leveling-Builds: das Talent für jede Stufe',

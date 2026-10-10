@@ -1,9 +1,8 @@
 ---
 /*
  * CLASSES voor WoW Forever, op /classes/ (Nutri, 14 september 2026: wat de
- * Forever-hub al weet). Drie blokken: de bevestigde wijzigingen, wie welke
- * class kan spelen, en de racials van elk ras. Talenten en routes volgen pas
- * wanneer de beta stabiel is; er staat dus bewust geen gids.
+ * Forever-hub al weet). Vier blokken: de levelbuilds per class (11 oktober 2026),
+ * de bevestigde wijzigingen, wie welke class kan spelen, en de racials van elk ras.
  */
 import type { Locale } from '../../i18n/ui';
 import { classes } from '../../config/bis';
@@ -55,7 +54,6 @@ const stateLabel = { new: t('racialNew'), changed: t('racialChanged'), same: t('
       </a>
     ))}
   </nav>
-  <p class="wf-gtext"><a href={`${levelingBase}/`}>{lev('all')} →</a></p>
 </section>
 
 <section class="wf-gblock" aria-labelledby="wf-changes">
