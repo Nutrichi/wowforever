@@ -78,7 +78,12 @@ const legacy = legacyData as unknown as {
   categories: LegacyCategory[];
 };
 
-export const talentClasses = (): TalentClass[] => talents.classes;
+/**
+ * Classes altijd alfabetisch, Druid eerst (Nutri, 11 oktober 2026). Alleen de
+ * weergave: de volgorde in talents.json blijft, zodat geen gedeelde link breekt.
+ */
+const sortedClasses = [...talents.classes].sort((a, b) => a.name.localeCompare(b.name, 'en'));
+export const talentClasses = (): TalentClass[] => sortedClasses;
 export const talentClass = (id: string): TalentClass | undefined =>
   talents.classes.find((c) => c.id === id);
 export const totalTalentPoints = (): number => talents.totalPoints;

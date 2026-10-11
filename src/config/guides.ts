@@ -90,8 +90,8 @@ export type ForeverRace = {
   classes: Record<string, ComboState>;
 };
 
-/** De kolommen van de tabel, in de volgorde van Blizzard. */
-export const foreverClassOrder = ['warrior', 'hunter', 'mage', 'rogue', 'priest', 'warlock', 'paladin', 'druid', 'shaman'];
+/** De kolommen van de tabel, alfabetisch met Druid eerst (Nutri, 11 oktober 2026). */
+export const foreverClassOrder = ['druid', 'hunter', 'mage', 'paladin', 'priest', 'rogue', 'shaman', 'warlock', 'warrior'];
 
 export const foreverRaces: ForeverRace[] = [
   { key: 'orc', name: 'Orc', faction: 'horde', classes: { warrior: 'classic', hunter: 'classic', mage: 'new', rogue: 'classic', warlock: 'classic', shaman: 'classic' } },
