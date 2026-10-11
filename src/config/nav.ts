@@ -52,7 +52,8 @@ const sections: Section[] = [
   // De tradeskillgidsen per era; Forever toont de perks (fase 4).
   { id: 'tradeskills', labelKey: 'nav.tradeskills', path: 'tradeskills', eraLinks: guideEras, hasContent: () => true },
   /*
-   * De rekenmachines voor talenten en Legacy (Nutri, 18 september 2026). Geen
+   * De rekenmachines voor talenten en Legacy (Nutri, 18 september 2026), sinds 11
+   * oktober 2026 met het label Tools, want ook de levelbuilds en de raidplanner horen erbij. Geen
    * era: ze gaan alleen over Forever. De tab staat er zodra er data is, en die
    * zit in src/data/; zie components/talents/.
    */
@@ -102,6 +103,15 @@ export function isCurrent(itemPath: string, pathname: string): boolean {
   if (a === '' || /^[a-z]{2}$/.test(a)) {
     const newsPrefix = a === '' ? 'news' : `${a}/news`;
     return b === a || b === newsPrefix || b.startsWith(`${newsPrefix}/`);
+  }
+  /*
+   * TOOLS (Nutri, 11 oktober 2026: de tab TALENTS heet sindsdien Tools) licht ook op bij
+   * de levelbuilds en de raidplanner: die staan in dezelfde schakelaar (CalcSwitch).
+   * Het adres van de tab blijft /talents/, want gedeelde builds wijzen daarheen.
+   */
+  if (a === 'talents' || a.endsWith('/talents')) {
+    const prefix = a.slice(0, -'talents'.length);
+    if (['leveling', 'raid'].some((tool) => b === `${prefix}${tool}` || b.startsWith(`${prefix}${tool}/`))) return true;
   }
   return b === a || b.startsWith(`${a}/`);
 }

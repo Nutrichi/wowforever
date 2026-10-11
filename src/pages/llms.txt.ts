@@ -71,7 +71,8 @@ export const GET: APIRoute = async ({ site }) => {
       })),
     `- [Classes](${url(guidePath('classes', defaultLocale))}): leveling guides per class and spec for each era, plus what is known about classes, race and class combinations and racials in WoW Forever.`,
     `- [Tradeskills](${url(guidePath('tradeskills', defaultLocale))}): tradeskill guides for each era, plus the tradeskill perks and Legacy perks of WoW Forever.`,
-    `- [Talents](${url(localizePath('talents', defaultLocale))}/): the WoW Forever talent calculator, with all nine classes and their three trees, and the Legacy calculator for the account-wide Legacy perks. A build is shareable as a link.`,
+    `- [Tools](${url(localizePath('talents', defaultLocale))}/): the WoW Forever talent calculator, with all nine classes and their three trees, and the Legacy calculator for the account-wide Legacy perks. A build is shareable as a link.`,
+    `- [Raid planner](${url(localizePath('raid', defaultLocale))}/): the WoW Forever raid planner for 5, 10, 20 and 40 players. It shows every raid buff, group buff and boss debuff the raid brings, sorts the groups for the best buffs in one click, and shares the raid as a link.`,
     ...(factions.length
       ? [`- [Reputations](${url(reputationPath(defaultLocale))}): reputation guides per faction for WoW Forever. The Azeroth Commerce Authority and Durotar Supply and Logistics are Forever's own factions from the beta; the rest start from the factions of Classic Era until Forever shows its own. Per faction: the standings, the fastest way to farm reputation and the rewards per standing.`]
       : []),

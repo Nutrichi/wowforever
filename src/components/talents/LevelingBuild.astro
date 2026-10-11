@@ -92,14 +92,13 @@ const builds = levelingBuilds();
   <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
 
   <div class="wf-talents wf-leveling" data-leveling={JSON.stringify(script)} data-total={total}>
+    <CalcSwitch locale={locale} base={talentsBase} current="leveling" />
+
     <header class="wf-ghead">
       <div class="wf-ghead__main">
         <h1 class="wf-ghead__title">{title}</h1>
-        <p class="wf-ghead__intro">{t('indexIntro')}</p>
       </div>
     </header>
-
-    <CalcSwitch locale={locale} base={talentsBase} current="leveling" />
 
     <nav class="wf-classrow" aria-label={t('chooseClass')}>
       {talentClasses().filter((entry) => builds.some((b) => b.id === entry.id)).map((entry) => (

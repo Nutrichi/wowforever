@@ -81,14 +81,13 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
   <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
 
   <div class="wf-talents wf-calc" data-calc="talents" data-total={total}>
+    <CalcSwitch locale={locale} base={base} current="talents" />
+
     <header class="wf-ghead">
       <div class="wf-ghead__main">
         <h1 class="wf-ghead__title">{title}</h1>
-        <p class="wf-ghead__intro">{t('howto')}</p>
       </div>
     </header>
-
-    <CalcSwitch locale={locale} base={base} current="talents" />
 
     <nav class="wf-classrow" aria-label={t('chooseClass')}>
       {talentClasses().map((entry) => (

@@ -1,0 +1,217 @@
+---
+/*
+ * /raid/: de raidplanner (AFSPRAKEN.md §21 van de app).
+ *
+ * Links de groepen en daaronder de specs om toe te voegen; rechts wat de raid
+ * meebrengt: de raidbuffs en de debuffs op de baas. De groepsbuffs staan onder
+ * elke groep, want die gelden alleen daar. Onder 900 px komt alles onder elkaar.
+ *
+ * De lijsten rechts staan al in de HTML, met hun link naar Wowhead, zodat de
+ * tooltip ook laadt (WowheadTooltips.astro kijkt bij het laden naar die links).
+ * Het script werkt alleen de stand bij. De groepen tekent het script zelf: die
+ * hangen af van de raid in het adres (`?r=`, de codering staat in lib/raid.ts).
+ *
+ * Geen bron behalve Blizzard: de rekenregels komen met toestemming en zonder
+ * vermelding.
+ *
+ * **Geen uitleg onder de titel en niets dat de pagina doet verspringen** (Nutri, 11
+ * oktober 2026). Alle tools beginnen met alleen een titel en de schakelaar, zodat die
+ * overal op dezelfde hoogte staat. De uitleg bij het toevoegen is een tip met een x
+ * (weg is weg, `wf-raid-tip` in localStorage); de melding bij het aantikken van een
+ * speler is weg, en "de raid is vol" zweeft onderaan en duwt niets opzij.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { raidStrings, raidT } from '../../i18n/raid';
+import { defaultRaidSize, raidData } from '../../lib/raid';
+import CalcSwitch from './CalcSwitch.astro';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import '../../styles/guides.css';
+import '../../styles/talents.css';
+import '../../styles/raid.css';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = raidT(locale);
+const ui = useTranslations(locale);
+const base = localizePath('raid', locale);
+const d = raidData;
+const wh = (spell: number) => `https://www.wowhead.com/forever/spell=${spell}`;
+const icon = (name: string) => `/wh/${name}.jpg`;
+
+const classes = [...new Set(d.specs.map((s) => s.class))];
+const className = (id: string) => id.charAt(0).toUpperCase() + id.slice(1);
+const roleKey = (spec: (typeof d.specs)[number]) =>
+  spec.roleLabel === 'ranged' ? 'roleRanged'
+    : spec.roleLabel === 'melee' ? 'roleMelee'
+      : spec.roleLabel === 'hybrid' ? 'roleHybrid'
+        : spec.role === 'tank' ? 'roleTank' : spec.role === 'healer' ? 'roleHealer' : 'roleDamage';
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: t('switch'), path: `${base}/` },
+];
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    breadcrumbJsonLd(crumbs, Astro.site),
+    {
+      '@type': 'WebApplication',
+      name: t('title'),
+      description: t('description'),
+      applicationCategory: 'GameApplication',
+      operatingSystem: 'Web',
+      offers: { '@type': 'Offer', price: '0', priceCurrency: 'EUR' },
+      url: new URL(`${base}/`, Astro.site).href,
+    },
+  ],
+};
+
+const payload = {
+  strings: raidStrings(locale),
+  roles: Object.fromEntries(d.specs.map((s) => [s.id, t(roleKey(s))])),
+  defaultSize: defaultRaidSize,
+};
+---
+
+<BaseLayout locale={locale} title={t('metaTitle')} description={t('description')}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <div class="wf-talents wf-raid" data-raid>
+    <CalcSwitch locale={locale} base={localizePath('talents', locale)} current="raid" />
+
+    <header class="wf-ghead">
+      <div class="wf-ghead__main">
+        <h1 class="wf-ghead__title">{t('title')}</h1>
+      </div>
+    </header>
+
+    <div class="wf-calcbar wf-raidbar">
+      <div class="wf-raidbar__sizes" role="group" aria-label={t('size')}>
+        <span class="wf-calcbar__label">{t('size')}</span>
+        {d.sizes.map((size) => (
+          <button type="button" class="wf-raidsize" data-size={size} aria-pressed={size === defaultRaidSize ? 'true' : 'false'}>{size}</button>
+        ))}
+      </div>
+      <p class="wf-calcbar__points">
+        <span data-count>0</span><span class="wf-calcbar__of">/<span data-capacity>{defaultRaidSize}</span></span>
+        <span class="wf-calcbar__label">{t('players')}</span>
+      </p>
+      <div class="wf-calcbar__actions">
+        <button type="button" class="wf-btn wf-btn--primary" data-auto disabled>{t('auto')}</button>
+        <button type="button" class="wf-btn" data-copy data-copied={t('copied')}>{t('copyLink')}</button>
+        <button type="button" class="wf-btn" data-clear>{t('clear')}</button>
+      </div>
+    </div>
+
+    <p class="wf-raid__notice" data-notice hidden aria-live="polite"></p>
+
+    <div class="wf-raid__layout">
+      <div class="wf-raid__main">
+        <div class="wf-raid__groups" data-groups>
+          {Array.from({ length: defaultRaidSize / d.groupSize }, (_, g) => (
+            <section class="wf-rgroup">
+              <h2 class="wf-rgroup__title">{t('group', { n: g + 1 })}</h2>
+              <ol class="wf-rgroup__slots">
+                {Array.from({ length: d.groupSize }, () => (
+                  <li class="wf-rslot wf-rslot--empty"><span class="wf-rslot__empty">{t('emptySlot')}</span></li>
+                ))}
+              </ol>
+            </section>
+          ))}
+        </div>
+
+        <section class="wf-raidpick" aria-labelledby="wf-raidpick">
+          <h2 class="wf-glabel" id="wf-raidpick">{t('addTitle')}</h2>
+          <p class="wf-raidtip" data-tip hidden>
+            <span class="wf-raidtip__text">{t('addHint')}</span>
+            <button type="button" class="wf-raidtip__close" data-tip-close aria-label={t('close')}>×</button>
+          </p>
+          <div class="wf-raidpick__classes">
+            {classes.map((klass) => (
+              <div class="wf-raidpick__class" data-class={klass}>
+                <h3 class="wf-raidpick__classname"><span class="wf-classpill__diamond" aria-hidden="true"></span>{className(klass)}</h3>
+                <ul class="wf-raidpick__specs">
+                  {d.specs.filter((s) => s.class === klass).map((spec) => (
+                    <li>
+                      <button type="button" class="wf-rspec" data-add={spec.id} draggable="true">
+                        <img class="wf-rspec__icon" src={icon(spec.icon)} alt="" width="28" height="28" loading="lazy" />
+                        <span class="wf-rspec__text">
+                          <span class="wf-rspec__name">{spec.name}</span>
+                          <span class="wf-rspec__role">{t(roleKey(spec))}</span>
+                        </span>
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </section>
+      </div>
+
+      <aside class="wf-raid__panel" aria-label={t('raidBuffs')}>
+        <p class="wf-raid__empty" data-empty>{t('emptyRaid')}</p>
+
+        <section class="wf-rpanel">
+          <h2 class="wf-glabel">{t('raidBuffs')}</h2>
+          <ul class="wf-rlist">
+            {d.raid.map((id) => {
+              const buff = d.buffs[id];
+              return (
+                <li class="wf-rbuff" data-raid-buff={id} data-status="na">
+                  <img class="wf-rbuff__icon" src={icon(buff.icon)} alt="" width="28" height="28" loading="lazy" />
+                  <span class="wf-rbuff__text">
+                    <a class="wf-rbuff__name" href={wh(buff.spell)}>{buff.name}</a>
+                    <span class="wf-rbuff__meta" data-meta></span>
+                  </span>
+                  <span class="wf-rbuff__mark" aria-hidden="true"></span>
+                </li>
+              );
+            })}
+          </ul>
+          <p class="wf-rpanel__note" data-blessings></p>
+        </section>
+
+        <section class="wf-rpanel">
+          <h2 class="wf-glabel">{t('bossDebuffs')}</h2>
+          <ul class="wf-rlist">
+            {d.boss.map((entry) => (
+              <li class="wf-rbuff" data-boss={entry.id} data-status="na">
+                {entry.effects.map((effect, i) => (
+                  <img class="wf-rbuff__icon" src={icon(d.buffs[effect].icon)} alt="" width="28" height="28" loading="lazy" data-effect-icon={effect} hidden={i > 0} />
+                ))}
+                <span class="wf-rbuff__text">
+                  <span class="wf-rbuff__names">
+                    {entry.effects.map((effect, i) => (
+                      <>
+                        {i > 0 && <span class="wf-rbuff__or"> {t('or')} </span>}
+                        <a class="wf-rbuff__name" href={wh(d.buffs[effect].spell)} data-effect-name={effect}>{d.buffs[effect].name}</a>
+                      </>
+                    ))}
+                  </span>
+                  <span class="wf-rbuff__meta" data-meta></span>
+                </span>
+                <span class="wf-rbuff__mark" aria-hidden="true"></span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </aside>
+    </div>
+
+    <p class="wf-talents__source">
+      {t('source')}
+      <a href="https://worldofwarcraft.blizzard.com/en-us/news/24303313">{t('sourceLink')}</a>
+    </p>
+  </div>
+
+  <script type="application/json" id="wf-raid-text" is:inline set:html={JSON.stringify(payload)} />
+  <script>
+    import '../../scripts/raid-planner';
+  </script>
+</BaseLayout>

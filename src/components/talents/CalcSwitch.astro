@@ -1,42 +1,53 @@
 ---
 /*
  De schakelaar tussen de twee rekenmachines (Nutri, 19 september 2026), en sinds 10
- oktober 2026 de levelbuilds als derde (AFSPRAKEN.md §19 van de app).
+ oktober 2026 de levelbuilds als derde (AFSPRAKEN.md §19 van de app). Sinds 11 oktober
+ 2026 de raidplanner (§21), in de volgorde van de tegels op /talents/: talenten, Legacy,
+ raidplanner, levelbuilds.
 
  Vanaf `/talents/` kies je tussen de talenten en Legacy, maar eenmaal in een van
  de twee was er geen weg naar de andere dan terug via de navigatie. Deze twee
  knoppen staan bovenaan allebei de calculators.
 
+ **Bovenaan, boven de titel** (Nutri, 11 oktober 2026: de lay-out sprong bij het wisselen
+ van tool). Een titel loopt op een telefoon over een of twee regels; boven de titel staat de
+ schakelaar op elke tool op exact dezelfde plek.
+
  **De adressen veranderen niet.** De iOS-app deelt links naar
  `/talents/<class>/?t=...` en `/talents/legacy/?l=...`; verandert daar iets aan,
  dan wijst elke gedeelde link naar een pagina die er niet meer is.
 
- Vanaf Legacy gaat de knop naar `/talents/`, de pagina met de negen classes, en
- niet naar een class die wij zouden kiezen: zonder class is er geen talentboom
- om te tonen.
+ Sinds 11 oktober 2026 gaat de knop Talentcalculator naar de calculator zelf, bij
+ Druid, de eerste class in het alfabet (AFSPRAKEN.md §22 van de app), en niet meer
+ terug naar `/talents/`: dat is nu het menu Tools met de vier tegels (Nutri: "when
+ pressing the talent calculator button, we shouldn't go back to the tools menu").
  */
 import type { Locale } from '../../i18n/ui';
 import { talT } from '../../i18n/talents';
 import { levT } from '../../i18n/leveling';
+import { raidT } from '../../i18n/raid';
 import { localizePath } from '../../i18n/utils';
+import { talentClasses } from '../../lib/talents';
 
 interface Props {
   locale: Locale;
   /** Het pad van `/talents/` in deze taal, zonder slash op het einde. */
   base: string;
-  /** Welke van de drie je nu bekijkt. */
-  current: 'talents' | 'legacy' | 'leveling';
+  /** Welke van de vier je nu bekijkt. */
+  current: 'talents' | 'legacy' | 'leveling' | 'raid';
 }
 
 const { locale, base, current } = Astro.props;
 const t = talT(locale);
 const lev = levT(locale);
+const raid = raidT(locale);
+const first = talentClasses()[0]?.id ?? 'druid';
 ---
 
 <nav class="wf-calcswitch" aria-label={t('title')}>
   <a
     class:list={['wf-calcswitch__item', { 'is-current': current === 'talents' }]}
-    href={`${base}/`}
+    href={`${base}/${first}/`}
     aria-current={current === 'talents' ? 'page' : undefined}
   >{t('talentCard')}</a>
   <a
@@ -44,6 +55,11 @@ const lev = levT(locale);
     href={`${base}/legacy/`}
     aria-current={current === 'legacy' ? 'page' : undefined}
   >{t('legacyCard')}</a>
+  <a
+    class:list={['wf-calcswitch__item', { 'is-current': current === 'raid' }]}
+    href={`${localizePath('raid', locale)}/`}
+    aria-current={current === 'raid' ? 'page' : undefined}
+  >{raid('switch')}</a>
   <a
     class:list={['wf-calcswitch__item', { 'is-current': current === 'leveling' }]}
     href={`${localizePath('leveling', locale)}/`}

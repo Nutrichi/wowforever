@@ -11,3 +11,7 @@ World of Warcraft en Blizzard Entertainment zijn handelsmerken van Blizzard
 Entertainment, Inc.
 
 56 bij 56 is de grootste maat die er is; xlarge en huge bestaan niet.
+
+Sinds 11 oktober 2026 staan hier ook vier iconen voor de tegels op /talents/ (Tools):
+inv_misc_book_11, spell_arcane_mindmastery, ability_warrior_battleshout en
+spell_nature_swiftness, op dezelfde manier opgehaald (large, 56 bij 56).

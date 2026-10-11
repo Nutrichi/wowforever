@@ -101,14 +101,13 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
   <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
 
   <div class="wf-talents wf-calc" data-calc="legacy" data-total={total}>
+    <CalcSwitch locale={locale} base={base} current="legacy" />
+
     <header class="wf-ghead">
       <div class="wf-ghead__main">
         <h1 class="wf-ghead__title">{t('legacyTitle')}</h1>
-        <p class="wf-ghead__intro">{t('legacyIntro', { earnable: legacyEarnable(), fill })}</p>
       </div>
     </header>
-
-    <CalcSwitch locale={locale} base={base} current="legacy" />
 
     <div class="wf-calcbar">
       <p class="wf-calcbar__points">

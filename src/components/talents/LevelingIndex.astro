@@ -1,7 +1,8 @@
 ---
 /*
- * /leveling/: de negen levelbuilds (AFSPRAKEN.md §19 van de app). Een kaart per class;
- * bij een build die nog niet tot 60 gaat, staat tot welk level hij bekend is.
+ * /leveling/: de negen levelbuilds (AFSPRAKEN.md §19 van de app). Een knop per class,
+ * alfabetisch, met alleen de naam van de class (Nutri, 11 oktober 2026: geen levels en
+ * geen spec in die knoppen).
  */
 import type { Locale } from '../../i18n/ui';
 import { localizePath, useTranslations } from '../../i18n/utils';
@@ -33,26 +34,21 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
 <BaseLayout locale={locale} title={t('indexMetaTitle')} description={t('indexDescription')}>
   <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
   <div class="wf-talents wf-leveling">
+    <CalcSwitch locale={locale} base={localizePath('talents', locale)} current="leveling" />
+
     <header class="wf-ghead">
       <div class="wf-ghead__main">
         <h1 class="wf-ghead__title">{t('indexTitle')}</h1>
-        <p class="wf-ghead__intro">{t('indexIntro')}</p>
       </div>
     </header>
 
-    <CalcSwitch locale={locale} base={localizePath('talents', locale)} current="leveling" />
-
     <nav class="wf-classrow wf-classrow--grid" aria-label={t('chooseClass')}>
-      {classes.map((klass) => {
-        const build = builds.find((b) => b.id === klass.id)!;
-        return (
-          <a class="wf-classpill" href={`${base}/${klass.id}/`} data-class={klass.id}>
-            <span class="wf-classpill__diamond" aria-hidden="true"></span>
-            <span class="wf-classpill__name">{klass.name}</span>
-            <span class="wf-classpill__meta">10-{build.maxLevel}</span>
-          </a>
-        );
-      })}
+      {classes.map((klass) => (
+        <a class="wf-classpill" href={`${base}/${klass.id}/`} data-class={klass.id}>
+          <span class="wf-classpill__diamond" aria-hidden="true"></span>
+          <span class="wf-classpill__name">{klass.name}</span>
+        </a>
+      ))}
     </nav>
   </div>
 </BaseLayout>

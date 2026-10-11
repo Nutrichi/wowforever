@@ -1,0 +1,918 @@
+{
+ "schema": 1,
+ "read": "2026-10-11",
+ "groupSize": 5,
+ "sizes": [
+  5,
+  10,
+  20,
+  40
+ ],
+ "specs": [
+  {
+   "code": "1",
+   "id": "druid-balance",
+   "class": "druid",
+   "name": "Balance",
+   "role": "damage",
+   "icon": "spell_nature_starfall",
+   "provides": [
+    "mark",
+    "moonkin",
+    "faerie",
+    "insectSwarm"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "2",
+   "id": "druid-feral",
+   "class": "druid",
+   "name": "Feral",
+   "role": "hybrid",
+   "roleLabel": "hybrid",
+   "icon": "ability_racial_bearform",
+   "provides": [
+    "mark",
+    "leader",
+    "faerie",
+    "demoRoar"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "melee",
+    "mana",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "3",
+   "id": "druid-restoration",
+   "class": "druid",
+   "name": "Restoration",
+   "role": "healer",
+   "icon": "spell_nature_healingtouch",
+   "provides": [
+    "mark",
+    "faerie",
+    "insectSwarm"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "4",
+   "id": "hunter-beast-mastery",
+   "class": "hunter",
+   "name": "Beast Mastery",
+   "role": "damage",
+   "roleLabel": "ranged",
+   "icon": "ability_hunter_beasttaming",
+   "provides": [
+    "huntersMark",
+    "trueshot",
+    "scorpidSting"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "rangedPhysical",
+    "mana",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "5",
+   "id": "hunter-marksmanship",
+   "class": "hunter",
+   "name": "Marksmanship",
+   "role": "damage",
+   "roleLabel": "ranged",
+   "icon": "ability_marksmanship",
+   "provides": [
+    "huntersMark",
+    "trueshot",
+    "scorpidSting"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "rangedPhysical",
+    "mana",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "6",
+   "id": "hunter-survival",
+   "class": "hunter",
+   "name": "Survival",
+   "role": "damage",
+   "roleLabel": "melee",
+   "icon": "ability_hunter_swiftstrike",
+   "provides": [
+    "huntersMark",
+    "trueshot",
+    "scorpidSting"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "melee",
+    "mana",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "7",
+   "id": "mage-arcane",
+   "class": "mage",
+   "name": "Arcane",
+   "role": "damage",
+   "icon": "spell_holy_magicalsentry",
+   "provides": [
+    "intellect"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "shadowArcane",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "8",
+   "id": "mage-fire",
+   "class": "mage",
+   "name": "Fire",
+   "role": "damage",
+   "icon": "spell_fire_firebolt02",
+   "provides": [
+    "intellect"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "fireFrost",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "9",
+   "id": "mage-frost",
+   "class": "mage",
+   "name": "Frost",
+   "role": "damage",
+   "icon": "spell_frost_frostbolt02",
+   "provides": [
+    "intellect"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "fireFrost",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "a",
+   "id": "paladin-holy",
+   "class": "paladin",
+   "name": "Holy",
+   "role": "healer",
+   "icon": "spell_holy_holybolt",
+   "provides": [
+    "kings",
+    "might",
+    "wisdom",
+    "salvation"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "holy",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "b",
+   "id": "paladin-protection",
+   "class": "paladin",
+   "name": "Protection",
+   "role": "tank",
+   "icon": "spell_holy_devotionaura",
+   "provides": [
+    "kings",
+    "might",
+    "wisdom",
+    "salvation",
+    "vindication"
+   ],
+   "tags": [
+    "physical",
+    "melee",
+    "tank",
+    "mana",
+    "holy",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "c",
+   "id": "paladin-retribution",
+   "class": "paladin",
+   "name": "Retribution",
+   "role": "damage",
+   "icon": "spell_holy_auraoflight",
+   "provides": [
+    "kings",
+    "might",
+    "wisdom",
+    "salvation",
+    "vindication"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "melee",
+    "mana",
+    "holy",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "d",
+   "id": "priest-discipline",
+   "class": "priest",
+   "name": "Discipline",
+   "role": "healer",
+   "icon": "spell_holy_powerwordshield",
+   "provides": [
+    "fortitude",
+    "spirit"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "e",
+   "id": "priest-holy",
+   "class": "priest",
+   "name": "Holy",
+   "role": "healer",
+   "icon": "spell_holy_guardianspirit",
+   "provides": [
+    "fortitude",
+    "spirit"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "f",
+   "id": "priest-shadow",
+   "class": "priest",
+   "name": "Shadow",
+   "role": "damage",
+   "icon": "spell_shadow_shadowwordpain",
+   "provides": [
+    "fortitude",
+    "spirit",
+    "vampiric"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "shadowArcane",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "g",
+   "id": "rogue-assassination",
+   "class": "rogue",
+   "name": "Assassination",
+   "role": "damage",
+   "icon": "ability_rogue_eviscerate",
+   "provides": [
+    "expose"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "melee",
+    "magicDamage"
+   ]
+  },
+  {
+   "code": "h",
+   "id": "rogue-combat",
+   "class": "rogue",
+   "name": "Combat",
+   "role": "damage",
+   "icon": "ability_backstab",
+   "provides": [
+    "expose"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "melee",
+    "magicDamage"
+   ]
+  },
+  {
+   "code": "i",
+   "id": "rogue-subtlety",
+   "class": "rogue",
+   "name": "Subtlety",
+   "role": "damage",
+   "icon": "ability_stealth",
+   "provides": [
+    "expose"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "melee",
+    "magicDamage"
+   ]
+  },
+  {
+   "code": "j",
+   "id": "shaman-elemental",
+   "class": "shaman",
+   "name": "Elemental",
+   "role": "damage",
+   "icon": "spell_nature_lightning",
+   "provides": [
+    "strength",
+    "windfury",
+    "grace",
+    "tranquil",
+    "manaSpring",
+    "flametongue"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "k",
+   "id": "shaman-enhancement",
+   "class": "shaman",
+   "name": "Enhancement",
+   "role": "damage",
+   "icon": "spell_nature_lightningshield",
+   "provides": [
+    "strength",
+    "windfury",
+    "grace",
+    "tranquil",
+    "manaSpring",
+    "flametongue"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "melee",
+    "mana",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "l",
+   "id": "shaman-restoration",
+   "class": "shaman",
+   "name": "Restoration",
+   "role": "healer",
+   "icon": "spell_nature_magicimmunity",
+   "provides": [
+    "strength",
+    "windfury",
+    "grace",
+    "tranquil",
+    "manaSpring",
+    "flametongue",
+    "manaTide"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "m",
+   "id": "warlock-affliction",
+   "class": "warlock",
+   "name": "Affliction",
+   "role": "damage",
+   "icon": "spell_shadow_deathcoil",
+   "provides": [
+    "curseElements",
+    "curseRecklessness"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "shadowArcane",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "n",
+   "id": "warlock-demonology",
+   "class": "warlock",
+   "name": "Demonology",
+   "role": "damage",
+   "icon": "spell_shadow_metamorphosis",
+   "provides": [
+    "curseElements",
+    "curseRecklessness"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "shadowArcane",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "o",
+   "id": "warlock-destruction",
+   "class": "warlock",
+   "name": "Destruction",
+   "role": "damage",
+   "icon": "spell_shadow_rainoffire",
+   "provides": [
+    "curseElements",
+    "curseRecklessness"
+   ],
+   "tags": [
+    "nonTank",
+    "mana",
+    "spell",
+    "fireFrost",
+    "shadowArcane",
+    "magicDamage",
+    "manaRegen"
+   ]
+  },
+  {
+   "code": "p",
+   "id": "warrior-arms",
+   "class": "warrior",
+   "name": "Arms",
+   "role": "damage",
+   "icon": "ability_warrior_savageblow",
+   "provides": [
+    "battleShout",
+    "sunder",
+    "demoShout",
+    "thunderClap"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "melee"
+   ]
+  },
+  {
+   "code": "q",
+   "id": "warrior-fury",
+   "class": "warrior",
+   "name": "Fury",
+   "role": "damage",
+   "icon": "ability_warrior_innerrage",
+   "provides": [
+    "battleShout",
+    "sunder",
+    "demoShout",
+    "thunderClap"
+   ],
+   "tags": [
+    "nonTank",
+    "physical",
+    "melee"
+   ]
+  },
+  {
+   "code": "r",
+   "id": "warrior-protection",
+   "class": "warrior",
+   "name": "Protection",
+   "role": "tank",
+   "icon": "ability_warrior_defensivestance",
+   "provides": [
+    "battleShout",
+    "sunder",
+    "demoShout",
+    "thunderClap"
+   ],
+   "tags": [
+    "physical",
+    "melee",
+    "tank"
+   ]
+  }
+ ],
+ "buffs": {
+  "mark": {
+   "name": "Mark of the Wild",
+   "scope": "raid",
+   "helps": "all",
+   "icon": "spell_nature_regeneration",
+   "spell": 9885
+  },
+  "fortitude": {
+   "name": "Power Word: Fortitude",
+   "scope": "raid",
+   "helps": "all",
+   "icon": "spell_holy_wordfortitude",
+   "spell": 2791
+  },
+  "spirit": {
+   "name": "Divine Spirit",
+   "scope": "raid",
+   "helps": "mana",
+   "icon": "spell_holy_divinespirit",
+   "spell": 14752
+  },
+  "intellect": {
+   "name": "Arcane Intellect",
+   "scope": "raid",
+   "helps": "mana",
+   "icon": "spell_holy_magicalsentry",
+   "spell": 1461
+  },
+  "kings": {
+   "name": "Blessing of Kings",
+   "scope": "raid",
+   "helps": "all",
+   "icon": "spell_magic_magearmor",
+   "spell": 20217
+  },
+  "might": {
+   "name": "Blessing of Might",
+   "scope": "raid",
+   "helps": "melee",
+   "icon": "spell_holy_fistofjustice",
+   "spell": 19740
+  },
+  "wisdom": {
+   "name": "Blessing of Wisdom",
+   "scope": "raid",
+   "helps": "manaRegen",
+   "icon": "spell_holy_sealofwisdom",
+   "spell": 19742
+  },
+  "salvation": {
+   "name": "Blessing of Salvation",
+   "scope": "raid",
+   "helps": "nonTank",
+   "icon": "spell_holy_sealofsalvation",
+   "spell": 1038
+  },
+  "battleShout": {
+   "name": "Battle Shout",
+   "scope": "party",
+   "helps": "melee",
+   "icon": "ability_warrior_battleshout",
+   "spell": 6192
+  },
+  "moonkin": {
+   "name": "Moonkin Aura",
+   "scope": "party",
+   "helps": "all",
+   "icon": "spell_nature_moonglow",
+   "spell": 24907
+  },
+  "leader": {
+   "name": "Leader of the Pack",
+   "scope": "party",
+   "helps": "all",
+   "icon": "spell_nature_unyeildingstamina",
+   "spell": 17007
+  },
+  "trueshot": {
+   "name": "Trueshot Aura",
+   "scope": "party",
+   "helps": "rangedPhysical",
+   "icon": "ability_trueshot",
+   "spell": 1299348
+  },
+  "vampiric": {
+   "name": "Vampiric Embrace",
+   "scope": "party",
+   "helps": "all",
+   "icon": "spell_shadow_unsummonbuilding",
+   "spell": 15286
+  },
+  "strength": {
+   "name": "Strength of Earth Totem",
+   "scope": "party",
+   "helps": "melee",
+   "icon": "spell_nature_earthbindtotem",
+   "spell": 25361
+  },
+  "windfury": {
+   "name": "Windfury Totem",
+   "scope": "party",
+   "helps": "melee",
+   "icon": "spell_nature_windfury",
+   "spell": 8512
+  },
+  "grace": {
+   "name": "Grace of Air Totem",
+   "scope": "party",
+   "helps": "physical",
+   "icon": "spell_nature_invisibilitytotem",
+   "spell": 25359
+  },
+  "tranquil": {
+   "name": "Tranquil Air Totem",
+   "scope": "party",
+   "helps": "all",
+   "icon": "spell_nature_brilliance",
+   "spell": 25908
+  },
+  "manaSpring": {
+   "name": "Mana Spring Totem",
+   "scope": "party",
+   "helps": "manaRegen",
+   "icon": "spell_nature_manaregentotem",
+   "spell": 10496
+  },
+  "manaTide": {
+   "name": "Mana Tide Totem",
+   "scope": "party",
+   "helps": "manaRegen",
+   "icon": "spell_frost_summonwaterelemental",
+   "spell": 17359
+  },
+  "flametongue": {
+   "name": "Flametongue Totem",
+   "scope": "party",
+   "helps": "melee",
+   "icon": "spell_nature_guardianward",
+   "spell": 16387
+  },
+  "sunder": {
+   "name": "Sunder Armor",
+   "scope": "boss",
+   "helps": "physical",
+   "icon": "ability_warrior_sunder",
+   "spell": 11597
+  },
+  "expose": {
+   "name": "Expose Armor",
+   "scope": "boss",
+   "helps": "physical",
+   "icon": "ability_warrior_riposte",
+   "spell": 8647
+  },
+  "faerie": {
+   "name": "Faerie Fire",
+   "scope": "boss",
+   "helps": "physical",
+   "icon": "spell_nature_faeriefire",
+   "spell": 9907
+  },
+  "curseRecklessness": {
+   "name": "Curse of Recklessness",
+   "scope": "boss",
+   "helps": "physical",
+   "icon": "spell_shadow_unholystrength",
+   "spell": 7658
+  },
+  "insectSwarm": {
+   "name": "Insect Swarm",
+   "scope": "boss",
+   "helps": "tank",
+   "icon": "spell_nature_insectswarm",
+   "spell": 24975
+  },
+  "scorpidSting": {
+   "name": "Scorpid Sting",
+   "scope": "boss",
+   "helps": "tank",
+   "icon": "ability_hunter_criticalshot",
+   "spell": 14275
+  },
+  "huntersMark": {
+   "name": "Hunter's Mark",
+   "scope": "boss",
+   "helps": "rangedPhysical",
+   "icon": "ability_hunter_snipershot",
+   "spell": 1130
+  },
+  "curseElements": {
+   "name": "Curse of the Elements",
+   "scope": "boss",
+   "helps": "magicDamage",
+   "icon": "spell_shadow_chilltouch",
+   "spell": 1490
+  },
+  "demoShout": {
+   "name": "Demoralizing Shout",
+   "scope": "boss",
+   "helps": "tank",
+   "icon": "ability_warrior_warcry",
+   "spell": 11556
+  },
+  "demoRoar": {
+   "name": "Demoralizing Roar",
+   "scope": "boss",
+   "helps": "tank",
+   "icon": "ability_druid_demoralizingroar",
+   "spell": 9898
+  },
+  "vindication": {
+   "name": "Vindication",
+   "scope": "boss",
+   "helps": "tank",
+   "icon": "spell_holy_vindication",
+   "spell": 9452
+  },
+  "thunderClap": {
+   "name": "Thunder Clap",
+   "scope": "boss",
+   "helps": "tank",
+   "icon": "spell_nature_thunderclap",
+   "spell": 11581
+  }
+ },
+ "raid": [
+  "mark",
+  "fortitude",
+  "spirit",
+  "intellect",
+  "kings",
+  "might",
+  "wisdom",
+  "salvation"
+ ],
+ "blessings": [
+  "kings",
+  "might",
+  "wisdom",
+  "salvation"
+ ],
+ "party": [
+  {
+   "id": "battleShout",
+   "effects": [
+    "battleShout"
+   ]
+  },
+  {
+   "id": "crit",
+   "effects": [
+    "moonkin",
+    "leader"
+   ]
+  },
+  {
+   "id": "trueshot",
+   "effects": [
+    "trueshot"
+   ]
+  },
+  {
+   "id": "strength",
+   "effects": [
+    "strength"
+   ]
+  },
+  {
+   "id": "air",
+   "effects": [
+    "windfury",
+    "grace",
+    "tranquil"
+   ],
+   "perProvider": true
+  },
+  {
+   "id": "flametongue",
+   "effects": [
+    "flametongue"
+   ]
+  },
+  {
+   "id": "manaSpring",
+   "effects": [
+    "manaSpring"
+   ]
+  },
+  {
+   "id": "manaTide",
+   "effects": [
+    "manaTide"
+   ],
+   "weight": 0.5
+  },
+  {
+   "id": "vampiric",
+   "effects": [
+    "vampiric"
+   ],
+   "weight": 0.5
+  }
+ ],
+ "boss": [
+  {
+   "id": "armor",
+   "effects": [
+    "sunder",
+    "expose"
+   ]
+  },
+  {
+   "id": "faerie",
+   "effects": [
+    "faerie",
+    "curseRecklessness"
+   ]
+  },
+  {
+   "id": "mitigation",
+   "effects": [
+    "insectSwarm",
+    "scorpidSting"
+   ]
+  },
+  {
+   "id": "huntersMark",
+   "effects": [
+    "huntersMark"
+   ],
+   "needs": "rangedPhysical"
+  },
+  {
+   "id": "elements",
+   "effects": [
+    "curseElements"
+   ],
+   "needs": "magicDamage"
+  },
+  {
+   "id": "attackPower",
+   "effects": [
+    "demoShout",
+    "demoRoar",
+    "vindication"
+   ]
+  },
+  {
+   "id": "thunderClap",
+   "effects": [
+    "thunderClap"
+   ]
+  }
+ ]
+}

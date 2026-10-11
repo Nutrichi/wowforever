@@ -1,0 +1,438 @@
+/*
+ * De raidplanner (RaidPlanner.astro). Bouwt verder op talents.css: de balk, de
+ * knoppen, de schakelaar en het ruitje van de class komen daarvandaan.
+ *
+ * Alleen kleuren uit de handoff (§4). De classkleur staat op het randje van een
+ * speler en op het ruitje, nooit op tekst (handoff §4.5). Eén breekpunt, 900 px.
+ */
+
+/* --- De balk --- */
+
+.wf-raidbar { align-items: center; }
+
+.wf-raidbar__sizes {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.wf-raidbar__sizes .wf-calcbar__label { margin-right: 4px; }
+
+.wf-raidsize {
+  min-width: 44px;
+  min-height: 36px;
+  padding: 6px 12px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-pill);
+  background: none;
+  font-family: var(--wf-display);
+  font-weight: 600;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+  color: var(--wf-muted);
+  cursor: pointer;
+  transition: var(--wf-transition);
+}
+
+.wf-raidsize:hover, .wf-raidsize:focus-visible { border-color: var(--wf-arcane); color: var(--wf-ink); }
+
+.wf-raidsize[aria-pressed='true'] {
+  background: var(--wf-accent-soft);
+  border-color: var(--wf-accent);
+  color: var(--wf-accent-bright);
+}
+
+.wf-raidbar .wf-calcbar__actions { flex-wrap: wrap; }
+
+.wf-btn:disabled { opacity: .45; cursor: default; box-shadow: none; }
+
+.wf-raid__notice {
+  /* Zwevend onderaan: het bericht duwt niets opzij (Nutri, 11 oktober 2026). */
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  z-index: 50;
+  transform: translateX(-50%);
+  width: max-content;
+  max-width: calc(100vw - 32px);
+  margin: 0;
+  padding: 12px 18px;
+  border: 1px solid var(--wf-accent-deep);
+  border-radius: var(--wf-r-card-sm);
+  background: var(--wf-raised);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, .35);
+  font-size: 14px;
+  color: var(--wf-ink);
+}
+
+.wf-raid__notice[hidden] { display: none; }
+
+/* De tip bij het toevoegen, met een x; weg is weg. */
+.wf-raidtip {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 0;
+  padding: 10px 6px 10px 14px;
+  max-width: 760px;
+  border: 1px solid var(--wf-accent-deep);
+  border-radius: var(--wf-r-card-sm);
+  background: var(--wf-accent-wash);
+  font-size: 14px;
+  color: var(--wf-ink);
+}
+
+.wf-raidtip[hidden] { display: none; }
+.wf-raidtip__text { flex: 1; padding-top: 2px; }
+
+.wf-raidtip__close {
+  flex: none;
+  width: 32px;
+  height: 32px;
+  border: 0;
+  border-radius: 50%;
+  background: none;
+  font-size: 18px;
+  line-height: 1;
+  color: var(--wf-label);
+  cursor: pointer;
+}
+
+.wf-raidtip__close:hover, .wf-raidtip__close:focus-visible { color: var(--wf-ink); background: var(--wf-accent-soft); }
+
+/* --- De opbouw: groepen links, wat de raid brengt rechts --- */
+
+.wf-raid__layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 330px;
+  gap: 26px;
+  align-items: start;
+}
+
+.wf-raid__main { display: flex; flex-direction: column; gap: 30px; min-width: 0; }
+
+.wf-raid__groups {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 16px;
+}
+
+/* --- Een groep --- */
+
+.wf-rgroup {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 14px;
+  background: var(--wf-raised);
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card);
+  box-shadow: var(--wf-glow-card);
+}
+
+.wf-rgroup__title {
+  margin: 0;
+  font-family: var(--wf-display);
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--wf-label);
+}
+
+.wf-rgroup__slots {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.wf-rslot {
+  --wf-class: var(--wf-border);
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  border: 1px solid var(--wf-border-inner);
+  border-left: 3px solid var(--wf-class);
+  border-radius: var(--wf-r-card-sm);
+  background: var(--wf-raised-soft);
+  transition: var(--wf-transition);
+}
+
+.wf-rslot--empty {
+  border-style: dashed;
+  border-left-width: 1px;
+  background: none;
+}
+
+.wf-rslot__body {
+  flex: 1;
+  min-width: 0;
+  min-height: 46px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 10px;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.wf-rslot__body:focus-visible { outline: 2px solid var(--wf-arcane); outline-offset: -2px; border-radius: var(--wf-r-card-sm); }
+
+.wf-rslot:hover { border-color: var(--wf-arcane); border-left-color: var(--wf-class); }
+.wf-rslot--empty:hover { border-left-color: var(--wf-arcane); }
+
+.wf-rslot.is-selected {
+  background: var(--wf-accent-wash);
+  border-color: var(--wf-accent);
+  border-left-color: var(--wf-class);
+  box-shadow: var(--wf-glow-pill);
+}
+
+.wf-rslot--empty.is-selected { border-left-color: var(--wf-accent); }
+
+.wf-rslot.is-drop { border-color: var(--wf-arcane); border-style: solid; }
+
+.wf-rslot__icon, .wf-rspec__icon, .wf-rbuff__icon {
+  flex: none;
+  border-radius: 5px;
+  border: 1px solid var(--wf-border);
+}
+
+.wf-rslot__text, .wf-rspec__text, .wf-rbuff__text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.wf-rslot__name, .wf-rspec__name {
+  font-weight: 600;
+  font-size: 14.5px;
+  line-height: 1.25;
+  color: var(--wf-ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.wf-rslot__meta, .wf-rspec__role, .wf-rbuff__meta {
+  font-size: 12.5px;
+  line-height: 1.3;
+  color: var(--wf-label);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.wf-rslot__empty { font-size: 13px; color: var(--wf-muted-dim, var(--wf-label)); }
+
+.wf-rslot__remove {
+  flex: none;
+  width: 40px;
+  border: 0;
+  border-left: 1px solid var(--wf-border-inner);
+  background: none;
+  font-size: 18px;
+  line-height: 1;
+  color: var(--wf-label);
+  cursor: pointer;
+  transition: var(--wf-transition);
+}
+
+.wf-rslot__remove:hover, .wf-rslot__remove:focus-visible { color: var(--wf-danger); }
+
+/* De groepsbuffs onder een groep: icoon en hoeveel spelers het raakt. */
+.wf-rgroup__buffs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding-top: 10px;
+  border-top: 1px solid var(--wf-border-inner);
+}
+
+.wf-rchip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 9px 3px 3px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-pill);
+  font-family: var(--wf-display);
+  font-size: 12.5px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--wf-ink-soft, var(--wf-ink));
+}
+
+.wf-rchip__icon { border-radius: 50%; }
+
+.wf-rchip.is-missing {
+  border-style: dashed;
+  border-color: var(--wf-rust);
+  color: var(--wf-label);
+  font-weight: 500;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  font-size: 11.5px;
+}
+
+.wf-rchip.is-missing .wf-rchip__icon { filter: grayscale(1); opacity: .6; }
+
+/* --- De specs om toe te voegen --- */
+
+.wf-raidpick { display: flex; flex-direction: column; gap: 12px; }
+.wf-raidpick .wf-glabel { margin: 0; }
+
+.wf-raidpick__classes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 18px 16px;
+}
+
+.wf-raidpick__class { display: flex; flex-direction: column; gap: 6px; }
+
+.wf-raidpick__classname {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 2px;
+  font-family: var(--wf-display);
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--wf-ink);
+}
+
+.wf-raidpick__specs { display: flex; flex-direction: column; gap: 5px; margin: 0; padding: 0; list-style: none; }
+
+.wf-rspec {
+  width: 100%;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 10px 5px 6px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card-sm);
+  background: var(--wf-raised);
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: var(--wf-transition);
+}
+
+.wf-rspec:hover, .wf-rspec:focus-visible { border-color: var(--wf-arcane); box-shadow: var(--wf-glow-pill); }
+
+/* De classkleur, dezelfde waarden als het ruitje in talents.css. */
+.wf-rslot[data-class='druid'], .wf-raidpick__class[data-class='druid']     { --wf-class: #ff7c0a; }
+.wf-rslot[data-class='hunter'], .wf-raidpick__class[data-class='hunter']   { --wf-class: #aad372; }
+.wf-rslot[data-class='mage'], .wf-raidpick__class[data-class='mage']       { --wf-class: #3fc7eb; }
+.wf-rslot[data-class='paladin'], .wf-raidpick__class[data-class='paladin'] { --wf-class: #f48cba; }
+.wf-rslot[data-class='priest'], .wf-raidpick__class[data-class='priest']   { --wf-class: #ffffff; }
+.wf-rslot[data-class='rogue'], .wf-raidpick__class[data-class='rogue']     { --wf-class: #fff468; }
+.wf-rslot[data-class='shaman'], .wf-raidpick__class[data-class='shaman']   { --wf-class: #2359ff; }
+.wf-rslot[data-class='warlock'], .wf-raidpick__class[data-class='warlock'] { --wf-class: #8788ee; }
+.wf-rslot[data-class='warrior'], .wf-raidpick__class[data-class='warrior'] { --wf-class: #c69b6d; }
+
+/* Wit op perkament valt weg: overdag krijgt de Priest een rand van het palet. */
+:root[data-theme='day'] .wf-rslot[data-class='priest'] { border-left-color: var(--wf-border); }
+
+/* --- Rechts: wat de raid meebrengt --- */
+
+.wf-raid__panel {
+  position: sticky;
+  top: 90px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  padding: 18px;
+  background: var(--wf-raised);
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card);
+  box-shadow: var(--wf-glow-card);
+}
+
+.wf-raid__empty { margin: 0; font-size: 14px; color: var(--wf-muted); }
+
+.wf-rpanel { display: flex; flex-direction: column; gap: 8px; }
+.wf-rpanel .wf-glabel { margin: 0; }
+
+.wf-rpanel__note { margin: 0; font-size: 13px; color: var(--wf-label); }
+.wf-rpanel__note:empty { display: none; }
+
+.wf-rlist { display: flex; flex-direction: column; margin: 0; padding: 0; list-style: none; }
+
+.wf-rbuff {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--wf-border-inner);
+}
+
+.wf-rbuff:last-child { border-bottom: 0; }
+
+.wf-rbuff__text { flex: 1; }
+
+.wf-rbuff__names { line-height: 1.3; }
+
+.wf-rbuff__name {
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--wf-ink);
+  text-decoration: none;
+}
+
+.wf-rbuff__name:hover { color: var(--wf-accent); }
+
+.wf-rbuff__or { font-size: 12.5px; color: var(--wf-label); }
+
+/* Bij een keuze (Sunder Armor of Expose Armor) licht de gekozen naam op. */
+.wf-rbuff__names .wf-rbuff__name:not(.is-chosen) { font-weight: 500; color: var(--wf-muted); }
+.wf-rbuff__names .wf-rbuff__name.is-chosen { color: var(--wf-ink); }
+
+.wf-rbuff__mark {
+  flex: none;
+  width: 22px;
+  height: 22px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.wf-rbuff[data-status='full'] .wf-rbuff__mark { background: var(--wf-live); color: var(--wf-live-ink); }
+.wf-rbuff[data-status='full'] .wf-rbuff__mark::before { content: '✓'; }
+.wf-rbuff[data-status='part'] .wf-rbuff__mark { border: 1px solid var(--wf-accent); color: var(--wf-accent); }
+.wf-rbuff[data-status='part'] .wf-rbuff__mark::before { content: '½'; }
+.wf-rbuff[data-status='none'] .wf-rbuff__mark { border: 1px dashed var(--wf-rust); color: var(--wf-rust); }
+.wf-rbuff[data-status='none'] .wf-rbuff__mark::before { content: '×'; }
+
+.wf-rbuff[data-status='none'] .wf-rbuff__icon,
+.wf-rbuff[data-status='na'] .wf-rbuff__icon { filter: grayscale(1); opacity: .55; }
+.wf-rbuff[data-status='na'] .wf-rbuff__name { color: var(--wf-muted); font-weight: 500; }
+
+/* --- Smal --- */
+
+@media (max-width: 900px) {
+  .wf-raid__layout { grid-template-columns: minmax(0, 1fr); }
+  .wf-raid__panel { position: static; }
+  .wf-raidbar .wf-calcbar__actions { margin-left: 0; width: 100%; }
+  .wf-raidbar .wf-calcbar__actions .wf-btn { flex: 1 1 auto; justify-content: center; }
+  .wf-raid__groups { grid-template-columns: minmax(0, 1fr); }
+  .wf-raidpick__classes { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme='night']):not([data-theme='day']) .wf-rslot[data-class='priest'] { border-left-color: var(--wf-border); }
+}

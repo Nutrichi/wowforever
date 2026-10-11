@@ -21,6 +21,11 @@
   gap: 26px;
 }
 
+/* Alleen een titel, zonder uitleg eronder (Nutri, 11 oktober 2026): de ruimte tussen de
+   blokken volstaat, de eigen marge van de kop zou er nog eens 20 px bij doen. */
+.wf-talents > .wf-ghead { margin-bottom: 0; }
+.wf-talents .wf-ghead__title { margin: 0; }
+
 /* --- De ingang met de twee kaarten --- */
 
 .wf-calccards {
@@ -735,3 +740,44 @@
 
 .wf-classrow--grid .wf-classpill { justify-content: flex-start; }
 .wf-classpill__meta { margin-left: auto; padding-left: 8px; color: var(--wf-label); letter-spacing: .04em; }
+
+/* --- De vier tegels op /talents/ (Tools, 11 oktober 2026) --- */
+
+/*
+ Twee bij twee op een breed scherm, onder elkaar op een telefoon. De link in de titel
+ strekt zich met ::after over de hele tegel uit; de classpillen liggen erboven, zodat
+ een klik op Mage in de Mage-boom landt en niet in die van Druid.
+ */
+.wf-tooltiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
+.wf-tooltile {
+  position: relative;
+  padding: 26px;
+  min-height: 210px;
+  transition: var(--wf-transition);
+}
+
+.wf-tooltile:hover,
+.wf-tooltile:focus-within { border-color: var(--wf-arcane); box-shadow: var(--wf-glow-pill); }
+
+.wf-tooltile__icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 10px;
+  border: 1px solid var(--wf-accent-deep);
+  box-shadow: 0 0 var(--wf-glow-diamond) var(--wf-accent-soft);
+}
+
+.wf-tooltile__link { color: inherit; text-decoration: none; }
+.wf-tooltile__link::after { content: ''; position: absolute; inset: 0; border-radius: inherit; }
+.wf-tooltile__link:focus-visible { outline: none; }
+.wf-tooltile:has(.wf-tooltile__link:focus-visible) { outline: 2px solid var(--wf-arcane); outline-offset: 2px; }
+
+.wf-tooltile__classes { position: relative; z-index: 1; }
+
+.wf-tooltile .wf-calccard__meta { margin-top: auto; }
+
+@media (max-width: 900px) {
+  .wf-tooltiles { grid-template-columns: minmax(0, 1fr); }
+  .wf-tooltile { min-height: 0; padding: 20px; }
+}
