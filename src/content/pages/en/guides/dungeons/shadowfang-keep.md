@@ -3,7 +3,7 @@ title: "Shadowfang Keep: the dungeon guide for WoW Forever"
 metaTitle: "Shadowfang Keep in WoW Forever: entrance, quests, bosses and the new loot"
 description: "Shadowfang Keep in WoW Forever: the way in above Pyrewood Village, the route through the keep, the three Horde quests, the nine bosses and what changed on their loot."
 short: "Shadowfang Keep"
-updated: 2026-10-03
+updated: 2026-10-11
 lang: en
 faq:
   - q: "What level is Shadowfang Keep in WoW Forever?"
@@ -23,6 +23,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/shadowfang-keep-dungeon-overview-location-rewards"
   - name: "Wowhead, the dungeon quests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
+  - name: "Wowhead, the secret boss"
+    url: "https://www.wowhead.com/forever/news/how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever-383366"
 ---
 Shadowfang Keep was the castle of Baron Silverlaine in Silverpine Forest. Archmage Arugal summoned worgen there to defend Dalaran, and they overran the keep. Arugal now lives in its highest tower with the worgen as his pack. The dungeon is the same as in Classic; its loot is largely new in WoW Forever.
 
@@ -166,6 +168,8 @@ A level 25 elite worgen who guards the door to Arugal. At 80% health he calls hi
 ### Archmage Arugal
 
 The final boss, a level 26 elite. Kill the three worgen in his room first. Arugal teleports through the room, takes control of players and casts Void Bolt, which cannot be interrupted. Arugal's Curse cannot be dispelled; crowd control a cursed player instead of attacking them. Shadow Resistance helps.
+
+After the fight, the <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276561"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Tome</a> lies on the table in his room, new in Forever. It starts the way to Lyn the Ignored, a hidden boss in the [City of Dalaran](/guides/dungeons/city-of-dalaran/); every step is in the [post about the Tome of Dalaran](/news/the-tome-of-dalaran-summons-lyn-the-ignored/).
 
 | Item | New in Forever |
 |---|---|

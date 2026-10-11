@@ -3,7 +3,7 @@ title: "Shadowfang Keep: der Dungeon-Guide für WoW Forever"
 metaTitle: "Shadowfang Keep in WoW Forever: Eingang, Quests, Bosse und die neue Beute"
 description: "Shadowfang Keep in WoW Forever: der Weg hinein oberhalb von Pyrewood Village, die Route durch die Burg, die drei Quests der Horde, die neun Bosse und was sich an ihrer Beute geändert hat."
 short: "Shadowfang Keep"
-updated: 2026-10-03
+updated: 2026-10-11
 lang: de
 faq:
   - q: "Welche Stufe hat Shadowfang Keep in WoW Forever?"
@@ -23,6 +23,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/shadowfang-keep-dungeon-overview-location-rewards"
   - name: "Wowhead, die Dungeon-Quests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
+  - name: "Wowhead, der geheime Boss"
+    url: "https://www.wowhead.com/forever/news/how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever-383366"
 manual: true
 ---
 Shadowfang Keep war die Burg von Baron Silverlaine in Silverpine Forest. Archmage Arugal beschwor dort Worgen, um Dalaran zu verteidigen, und sie überrannten die Burg. Arugal lebt jetzt im höchsten Turm, mit den Worgen als seinem Rudel. Der Dungeon ist derselbe wie in Classic; seine Beute ist in WoW Forever größtenteils neu.
@@ -167,6 +169,8 @@ Ein Elite-Worgen der Stufe 25, der die Tür zu Arugal bewacht. Bei 80 % Gesundhe
 ### Archmage Arugal
 
 Der Endboss, ein Elite der Stufe 26. Töte zuerst die drei Worgen in seinem Raum. Arugal teleportiert sich durch den Raum, übernimmt Spieler und wirkt Void Bolt, das sich nicht unterbrechen lässt. Arugal's Curse lässt sich nicht entfernen; kontrolliere einen verfluchten Spieler, statt ihn anzugreifen. Shadow Resistance hilft.
+
+Nach dem Kampf liegt der <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276561"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Tome</a> auf dem Tisch in seinem Raum, neu in Forever. Er ist der Anfang des Wegs zu Lyn the Ignored, einem versteckten Boss in [City of Dalaran](/de/guides/dungeons/city-of-dalaran/); jeder Schritt steht im [Beitrag über den Tome of Dalaran](/de/news/the-tome-of-dalaran-summons-lyn-the-ignored/).
 
 | Gegenstand | Neu in Forever |
 |---|---|

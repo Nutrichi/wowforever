@@ -3,7 +3,7 @@ title: "Shadowfang Keep: la guida al dungeon per WoW Forever"
 metaTitle: "Shadowfang Keep in WoW Forever: ingresso, missioni, boss e nuovo bottino"
 description: "Shadowfang Keep in WoW Forever: l’ingresso sopra Pyrewood Village, il percorso nel castello, le tre missioni della Horde, i nove boss e cosa è cambiato nel loro bottino."
 short: "Shadowfang Keep"
-updated: 2026-10-03
+updated: 2026-10-11
 lang: it
 faq:
   - q: "Che livello è Shadowfang Keep in WoW Forever?"
@@ -23,6 +23,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/shadowfang-keep-dungeon-overview-location-rewards"
   - name: "Wowhead, le missioni dei dungeon"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
+  - name: "Wowhead, il boss segreto"
+    url: "https://www.wowhead.com/forever/news/how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever-383366"
 manual: true
 ---
 Shadowfang Keep era il castello del Baron Silverlaine a Silverpine Forest. L’Archmage Arugal vi evocò dei worgen per difendere Dalaran, e questi travolsero il castello. Arugal ora vive nella torre più alta, con i worgen come suo branco. Il dungeon è lo stesso di Classic; il suo bottino è in gran parte nuovo in WoW Forever.
@@ -167,6 +169,8 @@ Un worgen élite di livello 25 che sorveglia la porta di Arugal. All’80% di vi
 ### Archmage Arugal
 
 Il boss finale, un élite di livello 26. Uccidi prima i tre worgen della sua stanza. Arugal si teletrasporta per la stanza, controlla i giocatori e lancia Void Bolt, che non si può interrompere. Arugal's Curse non si può dissolvere; controlla un giocatore maledetto invece di attaccarlo. La Shadow Resistance aiuta.
+
+Dopo lo scontro, il <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276561"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Tome</a> è sul tavolo della sua sala, nuovo in Forever. È l'inizio della strada verso Lyn the Ignored, un boss nascosto di [City of Dalaran](/it/guides/dungeons/city-of-dalaran/); ogni passo è nell'[articolo sul Tome of Dalaran](/it/news/the-tome-of-dalaran-summons-lyn-the-ignored/).
 
 | Oggetto | Nuovo in Forever |
 |---|---|

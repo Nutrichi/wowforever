@@ -3,7 +3,7 @@ title: "City of Dalaran: the dungeon guide for WoW Forever"
 metaTitle: "City of Dalaran in WoW Forever: entrances, bosses and tactics"
 description: "City of Dalaran, a new dungeon in WoW Forever: the way in through the sewers for the Alliance and the tunnel for the Horde, the arcane trash, and the seven bosses with their tactics."
 short: "City of Dalaran"
-updated: 2026-10-09
+updated: 2026-10-11
 lang: en
 faq:
   - q: "What level is the City of Dalaran in WoW Forever?"
@@ -16,9 +16,13 @@ faq:
     a: "Hardly. Almost every monster in the dungeon is immune to Arcane, so Arcane Explosion, Arcane Shot and Counterspell do not help much."
   - q: "What does the City of Dalaran drop?"
     a: "Not known yet. The bosses are above the level cap of the beta, and Wowhead has no loot for them so far."
+  - q: "How do you summon Lyn the Ignored in the City of Dalaran?"
+    a: "Take the Black Tome from the room of Archmage Arugal in Shadowfang Keep, turn it into the Tome of Dalaran at the Ambermill Leyline Focus, and use it on the purple circle in the sewers past Atrexis the Grave Knight. The tome is not used up and works again after 3 minutes."
 sources:
   - name: "Wowhead, the dungeon guide"
     url: "https://www.wowhead.com/forever/guide/city-of-dalaran-dungeon-overview-location-rewards"
+  - name: "Wowhead, the secret boss"
+    url: "https://www.wowhead.com/forever/news/how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever-383366"
 ---
 The City of Dalaran is one of the new dungeons of WoW Forever. The violet dome around the rebuilt city of the Kirin Tor is gone, and the threats that overran it have to be cleared. In Classic the city could not be entered. Seven bosses wait inside, the Shade of the Archmage at the end.
 
@@ -121,6 +125,8 @@ Only reachable once the bosses around him are dead and his mana barrier breaks. 
 ### Lyn the Ignored, a rare
 
 Lyn the Ignored only appears when summoned. Take the <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276561"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Tome</a> from the room of <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4275">Archmage Arugal</a> in Shadowfang Keep and use it at the Ambermill Leyline Focus, the blue crystal next to <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2120">Archmage Ataeric</a> in Ambermill (/way 63.4 64.3): it becomes the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=275989"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tome of Dalaran</a>. In the dungeon, go through the Underbelly past Atrexis the Grave Knight. Before the ramp to the Arcane Anomaly, go straight into the small room and use the tome on the summoning circle. Every step, with screenshots, is in the [post about the Tome of Dalaran](/news/the-tome-of-dalaran-summons-lyn-the-ignored/).
+
+The tome is not used up. After 3 minutes it works again, so a group that wipes can summon Lyn the Ignored once more right away. The boss arrives after a short scene with a nod to <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11502">Ragnaros</a>, more in the [post about the second try](/news/the-tome-of-dalaran-stays-for-another-try-at-lyn-the-ignored/).
 
 The mechanics of the fight are not known yet.
 

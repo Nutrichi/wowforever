@@ -3,7 +3,7 @@ title: "Shadowfang Keep: de dungeongids voor WoW Forever"
 metaTitle: "Shadowfang Keep in WoW Forever: ingang, quests, bazen en de nieuwe loot"
 description: "Shadowfang Keep in WoW Forever: de weg naar binnen boven Pyrewood Village, de route door het kasteel, de drie quests van de Horde, de negen bazen en wat er aan hun loot veranderde."
 short: "Shadowfang Keep"
-updated: 2026-10-03
+updated: 2026-10-11
 lang: nl
 faq:
   - q: "Welk level is Shadowfang Keep in WoW Forever?"
@@ -23,6 +23,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/shadowfang-keep-dungeon-overview-location-rewards"
   - name: "Wowhead, de dungeonquests"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
+  - name: "Wowhead, de geheime baas"
+    url: "https://www.wowhead.com/forever/news/how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever-383366"
 manual: true
 ---
 Shadowfang Keep was het kasteel van Baron Silverlaine in Silverpine Forest. Archmage Arugal riep er worgen op om Dalaran te verdedigen, en die overrompelden het kasteel. Arugal woont nu in de hoogste toren, met de worgen als zijn roedel. De dungeon is dezelfde als in Classic; de loot is grotendeels nieuw in WoW Forever.
@@ -167,6 +169,8 @@ Een elite worgen van level 25 die de deur naar Arugal bewaakt. Op 80% gezondheid
 ### Archmage Arugal
 
 De eindbaas, een elite van level 26. Dood eerst de drie worgen in zijn kamer. Arugal teleporteert door de kamer, neemt spelers over en werpt Void Bolt, dat niet te onderbreken is. Arugal's Curse kan niet weggenomen worden; hou een vervloekte speler onder crowd control in plaats van hem aan te vallen. Shadow Resistance helpt.
+
+Na het gevecht ligt de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276561"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Tome</a> op de tafel in zijn kamer, nieuw in Forever. Het boek is het begin van de weg naar Lyn the Ignored, een verborgen baas in [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/); elke stap staat in de [post over de Tome of Dalaran](/nl/news/the-tome-of-dalaran-summons-lyn-the-ignored/).
 
 | Item | Nieuw in Forever |
 |---|---|

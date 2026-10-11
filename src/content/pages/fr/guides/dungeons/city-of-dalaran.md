@@ -3,7 +3,7 @@ title: "City of Dalaran : le guide du donjon pour WoW Forever"
 metaTitle: "City of Dalaran dans WoW Forever : entrées, boss et tactiques"
 description: "City of Dalaran, un nouveau donjon de WoW Forever : l’entrée par les égouts pour l’Alliance et le tunnel pour la Horde, les monstres arcaniques, et les sept boss avec leurs tactiques."
 short: "City of Dalaran"
-updated: 2026-10-09
+updated: 2026-10-11
 lang: fr
 faq:
   - q: "Quel niveau pour la City of Dalaran dans WoW Forever ?"
@@ -16,9 +16,13 @@ faq:
     a: "À peine. Presque tous les monstres du donjon sont insensibles à l’Arcane, donc Arcane Explosion, Arcane Shot et Counterspell servent peu."
   - q: "Que lâche la City of Dalaran ?"
     a: "On ne le sait pas encore. Les boss sont au-dessus de la limite de niveau de la bêta, et Wowhead n’a pas encore de butin pour eux."
+  - q: "Comment invoquer Lyn the Ignored dans City of Dalaran ?"
+    a: "Prenez le Black Tome dans la salle d'Archmage Arugal à Shadowfang Keep, transformez-le en Tome of Dalaran à l'Ambermill Leyline Focus, puis utilisez ce livre sur le cercle violet des égouts, après Atrexis the Grave Knight. Le livre n'est pas consommé et fonctionne à nouveau après 3 minutes."
 sources:
   - name: "Wowhead, le guide du donjon"
     url: "https://www.wowhead.com/forever/guide/city-of-dalaran-dungeon-overview-location-rewards"
+  - name: "Wowhead, le boss secret"
+    url: "https://www.wowhead.com/forever/news/how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever-383366"
 manual: true
 ---
 La City of Dalaran est l’un des nouveaux donjons de WoW Forever. Le dôme violet autour de la cité reconstruite du Kirin Tor a disparu, et les menaces qui l’ont envahie doivent être éliminées. Dans Classic, on ne pouvait pas entrer dans la ville. Sept boss attendent à l’intérieur, avec la Shade of the Archmage à la fin.
@@ -122,6 +126,8 @@ Accessible seulement quand les boss autour de lui sont morts et que sa barrière
 ### Lyn the Ignored, une rare
 
 Lyn the Ignored n'apparaît que si on l'invoque. Prenez le <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276561"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Tome</a> dans la salle de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4275">Archmage Arugal</a> à Shadowfang Keep et utilisez-le à l'Ambermill Leyline Focus, le cristal bleu à côté de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2120">Archmage Ataeric</a> à Ambermill (/way 63.4 64.3) : il devient le <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=275989"><img class="wf-wh__icon" src="/wh/inv_misc_book_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tome of Dalaran</a>. Dans le donjon, traversez l'Underbelly et dépassez Atrexis the Grave Knight. Avant la rampe vers l'Arcane Anomaly, entrez tout droit dans la petite salle et utilisez le livre sur le cercle d'invocation. Chaque étape, avec captures d'écran, est dans l'[article sur le Tome of Dalaran](/fr/news/the-tome-of-dalaran-summons-lyn-the-ignored/).
+
+Le livre n'est pas consommé. Après 3 minutes il fonctionne à nouveau, donc un groupe qui tombe peut invoquer Lyn the Ignored une nouvelle fois tout de suite. Elle apparaît après une courte scène avec un clin d'œil à <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11502">Ragnaros</a>, plus dans l'[article sur le nouvel essai](/fr/news/the-tome-of-dalaran-stays-for-another-try-at-lyn-the-ignored/).
 
 Les mécaniques du combat ne sont pas encore connues.
 

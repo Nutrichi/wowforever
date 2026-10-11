@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-WoW Forever a une nouvelle recette de Cooking qui transforme celui qui la mange. Savory Whimsyfin Delight change le Body Type 1 en Murloc et le Body Type 2 en Ogre, pendant 60 minutes. La recette tombe sur des monstres des Redridge Mountains.
+WoW Forever a une nouvelle recette de Cooking qui transforme celui qui la mange. Savory Whimsyfin Delight change le Body Type 1 en Murloc et le Body Type 2 en Ogre, pendant 60 minutes. La recette tombe sur des monstres des Redridge Mountains. Depuis la build de la bêta du 1er octobre, ce n’est plus le cas : Blizzard dit que le Murloc et l’Ogre étaient provisoires, et le plat donne désormais une version orc des costumes de ninja et de pirate.
 
 ![Un joueur sous forme de Murloc sur une rive sombre, une capture de la bêta de World of Warcraft: Forever](../../../assets/posts/2026-09-29-wow-forever-murloc-form.jpg)
 

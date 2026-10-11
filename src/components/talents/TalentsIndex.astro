@@ -7,6 +7,8 @@
  * De tegel van de talenten draagt ook de negen classes, elk in zijn eigen kleur, zodat
  * je met één klik in de juiste boom zit; de tegel zelf opent Druid, de eerste in het
  * alfabet (AFSPRAKEN.md §22 van de app). De classes liggen boven de link van de tegel.
+ * De tegel van de levelbuilds draagt op dezelfde manier de classes met een build
+ * (Nutri, 11 oktober 2026).
  *
  * Onder de vier staat de kaart van de iOS-app, zodra `appStoreUrl` in `config/site.ts`
  * gevuld is.
@@ -18,6 +20,7 @@ import { talT } from '../../i18n/talents';
 import { talentClasses, totalTalentPoints, legacySpendable, clientBuild } from '../../lib/talents';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import { levT } from '../../i18n/leveling';
+import { levelingBuilds } from '../../lib/leveling';
 import { raidT } from '../../i18n/raid';
 import { appStoreUrl } from '../../config/site';
 import '../../styles/talents.css';
@@ -34,6 +37,9 @@ const base = localizePath('talents', locale);
 const lev = levT(locale);
 const raid = raidT(locale);
 const first = classes[0]?.id ?? 'druid';
+const levBase = localizePath('leveling', locale);
+const levBuilds = levelingBuilds();
+const levClasses = classes.filter((klass) => levBuilds.some((b) => b.id === klass.id));
 
 const crumbs = [
   { name: ui('crumb.home'), path: localizePath('', locale) },
@@ -86,8 +92,18 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
 
       <section class="wf-calccard wf-tooltile">
         <img class="wf-tooltile__icon" src="/icons/spell_nature_swiftness.jpg" alt="" width="56" height="56" />
-        <h2 class="wf-calccard__title"><a class="wf-tooltile__link" href={`${localizePath('leveling', locale)}/`}>{lev('switch')}</a></h2>
+        <h2 class="wf-calccard__title"><a class="wf-tooltile__link" href={`${levBase}/`}>{lev('switch')}</a></h2>
         <p class="wf-calccard__text">{t('levelingCardText')}</p>
+        <ul class="wf-classlist wf-tooltile__classes">
+          {levClasses.map((entry) => (
+            <li>
+              <a class="wf-classpill" href={`${levBase}/${entry.id}/`} data-class={entry.id}>
+                <span class="wf-classpill__diamond" aria-hidden="true"></span>
+                <span class="wf-classpill__name">{entry.name}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
       </section>
 
       {appStoreUrl !== '' && (
