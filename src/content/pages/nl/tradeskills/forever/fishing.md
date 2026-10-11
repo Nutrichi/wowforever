@@ -3,7 +3,8 @@ title: "Fishing in WoW Forever: trainers, levelen en uitrusting"
 metaTitle: "WoW Forever Fishing-gids: trainers, levelen van 1 tot 225, zones en uitrusting"
 description: "Fishing in WoW Forever: elke trainer, levelen van 1 tot 225, de skill die elke zone vraagt, de Artisan-quest, hengels, lures, eten met een Fishing-buff, de nieuwe Fishing Extravaganza en de kampobjecten."
 short: "Fishing"
-updated: 2026-10-03
+updated: 2026-10-11
+video: 0Su2_6eVSpU
 lang: nl
 faq:
   - q: "Maakt de zone uit voor hoe snel Fishing levelt?"
@@ -78,6 +79,16 @@ Fishing is een secundaire tradeskill, dus het kost je nooit een van je twee hoof
 ## Levelen
 
 Fishing levelt op het aantal vissen dat je vangt; de zone verandert daar niets aan. Onder skill 25 gebruik je een <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6529"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shiny Bauble</a>. Vanaf 25 vang je in een startgebied altijd iets.
+
+<figure class="wf-embed" data-wf-video="0Su2_6eVSpU">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Fishing 1 tot 75 op Zephras Isle (Alliance)</span>
+      <span class="wf-embed__meta">Speel de video af. Nutri op YouTube, 53 minuten.</span>
+    </span>
+  </button>
+</figure>
 
 | Skill | Waar |
 |---|---|

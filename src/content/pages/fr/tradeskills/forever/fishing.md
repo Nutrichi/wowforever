@@ -3,7 +3,8 @@ title: "Fishing dans WoW Forever : maîtres, progression et équipement"
 metaTitle: "Guide Fishing de WoW Forever : maîtres, progression de 1 à 225, zones et équipement"
 description: "Fishing dans WoW Forever : chaque maître, la progression de 1 à 225, la compétence que demande chaque zone, la quête Artisan, cannes, leurres, plats avec un buff de Fishing, la nouvelle Fishing Extravaganza et les objets de camp."
 short: "Fishing"
-updated: 2026-10-03
+updated: 2026-10-11
+video: 0Su2_6eVSpU
 lang: fr
 faq:
   - q: "La zone change-t-elle la vitesse de progression de Fishing ?"
@@ -78,6 +79,16 @@ Fishing est un métier secondaire, il ne vous coûte donc jamais l’une de vos 
 ## Monter le métier
 
 Fishing progresse selon le nombre de poissons pêchés ; la zone n’y change rien. Sous 25 de compétence, utilisez un <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6529"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shiny Bauble</a>. Dès 25, vous attrapez toujours quelque chose dans une zone de départ.
+
+<figure class="wf-embed" data-wf-video="0Su2_6eVSpU">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Fishing de 1 à 75 sur Zephras Isle (Alliance)</span>
+      <span class="wf-embed__meta">Lancer la vidéo. Nutri sur YouTube, 53 minutes.</span>
+    </span>
+  </button>
+</figure>
 
 | Compétence | Où |
 |---|---|

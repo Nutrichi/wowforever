@@ -3,7 +3,8 @@ title: "Fishing in WoW Forever: istruttori, livellamento ed equipaggiamento"
 metaTitle: "Guida a Fishing di WoW Forever: istruttori, livellamento da 1 a 225, zone ed equipaggiamento"
 description: "Fishing in WoW Forever: ogni istruttore, come salire da 1 a 225, l’abilità che chiede ogni zona, la missione Artisan, canne, esche, cibo con un buff di Fishing, la nuova Fishing Extravaganza e gli oggetti da campo."
 short: "Fishing"
-updated: 2026-10-03
+updated: 2026-10-11
+video: 0Su2_6eVSpU
 lang: it
 faq:
   - q: "La zona cambia la velocità con cui sale Fishing?"
@@ -78,6 +79,16 @@ Fishing è una professione secondaria, quindi non ti costa mai uno dei tuoi due 
 ## Salire di livello
 
 Fishing sale in base al numero di pesci che prendi; la zona non cambia nulla. Sotto 25 di abilità, usa uno <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6529"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shiny Bauble</a>. Da 25 prendi sempre qualcosa in una zona iniziale.
+
+<figure class="wf-embed" data-wf-video="0Su2_6eVSpU">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Fishing da 1 a 75 su Zephras Isle (Alliance)</span>
+      <span class="wf-embed__meta">Avvia il video. Nutri su YouTube, 53 minuti.</span>
+    </span>
+  </button>
+</figure>
 
 | Abilità | Dove |
 |---|---|

@@ -21,6 +21,10 @@
  * `code` van de spec of `0` voor een lege plek; nullen op het einde vallen weg.
  * **De codes van de specs veranderen nooit**: een nieuwe spec krijgt een nieuw teken
  * achteraan, anders opent elke gedeelde raid met andere spelers.
+ *
+ * De namen (Nutri, 11 oktober 2026) staan ernaast in `&n=Thrall~~Jaina`: per plek een naam,
+ * gescheiden door `~`, lege namen op het einde vallen weg. Een naam is hoogstens 24 tekens
+ * en draagt zelf geen `~` (die wordt een koppelteken). De app maakt dezelfde link.
  */
 
 import data from '../data/raid.json';
@@ -304,4 +308,20 @@ export function decodeRaid(code: string | null | undefined, d: RaidData = raidDa
   const size = d.sizes.includes(asked) ? asked : defaultRaidSize;
   const codes = d === raidData ? byCode : new Map(d.specs.map((s) => [s.code, s]));
   return Array.from({ length: size }, (_, i) => codes.get(body[i] ?? '0') ?? null);
+}
+
+/** Hoogstens 24 tekens, zonder `~` (het scheidingsteken van de deellink). */
+export const NAME_MAX = 24;
+export function cleanName(name: string): string {
+  return name.replace(/~/g, '-').replace(/\s+/g, ' ').trim().slice(0, NAME_MAX);
+}
+
+/** `Thrall~~Jaina`: een naam per plek, lege namen op het einde weg. */
+export function encodeNames(names: string[]): string {
+  return names.map(cleanName).join('~').replace(/~+$/, '');
+}
+
+export function decodeNames(param: string | null | undefined, size: number): string[] {
+  const parts = (param ?? '').split('~').map(cleanName);
+  return Array.from({ length: size }, (_, i) => parts[i] ?? '');
 }

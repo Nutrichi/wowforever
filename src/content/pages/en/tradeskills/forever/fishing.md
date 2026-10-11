@@ -3,7 +3,8 @@ title: "Fishing in WoW Forever: trainers, leveling and gear"
 metaTitle: "WoW Forever Fishing guide: trainers, leveling 1 to 225, zones and gear"
 description: "Fishing in WoW Forever: every trainer, leveling from 1 to 225, the skill each zone needs, the Artisan quest, poles, lures, food with a Fishing buff, the new Fishing Extravaganza and the camp objects."
 short: "Fishing"
-updated: 2026-10-03
+updated: 2026-10-11
+video: 0Su2_6eVSpU
 lang: en
 faq:
   - q: "Does the zone matter for how fast Fishing levels?"
@@ -77,6 +78,16 @@ Fishing is a secondary tradeskill, so it never costs you one of your two main sl
 ## Leveling
 
 Fishing levels by the number of fish you catch; the zone does not change that. Below 25 skill, use a <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6529"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shiny Bauble</a>. From 25 you catch something every time in a starting zone.
+
+<figure class="wf-embed" data-wf-video="0Su2_6eVSpU">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Fishing 1 to 75 on Zephras Isle (Alliance)</span>
+      <span class="wf-embed__meta">Play the video. Nutri on YouTube, 53 minutes.</span>
+    </span>
+  </button>
+</figure>
 
 | Skill | Where |
 |---|---|

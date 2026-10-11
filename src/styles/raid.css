@@ -248,6 +248,42 @@
 
 .wf-rslot__remove:hover, .wf-rslot__remove:focus-visible { color: var(--wf-danger); }
 
+/* Het potlood naast de x (Nutri, 11 oktober 2026): de naam van de speler ter plekke invullen. */
+.wf-rslot__edit {
+  flex: none;
+  width: 40px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  border-left: 1px solid var(--wf-border-inner);
+  background: none;
+  color: var(--wf-label);
+  cursor: pointer;
+  transition: var(--wf-transition);
+}
+
+.wf-rslot__edit:hover, .wf-rslot__edit:focus-visible { color: var(--wf-accent); }
+
+.wf-rslot__body--edit { cursor: default; }
+
+.wf-rslot__input {
+  flex: 1;
+  min-width: 0;
+  height: 32px;
+  padding: 0 10px;
+  border: 1px solid var(--wf-accent);
+  border-radius: var(--wf-r-field);
+  background: var(--wf-bg);
+  font: inherit;
+  /* 16 px: kleiner en Safari op de iPhone zoomt in bij het typen. */
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--wf-ink);
+}
+
+.wf-rslot__input::placeholder { color: var(--wf-label); font-weight: 500; }
+.wf-rslot__input:focus { outline: 2px solid var(--wf-arcane); outline-offset: 1px; }
+
 /* De groepsbuffs onder een groep: icoon en hoeveel spelers het raakt. */
 .wf-rgroup__buffs {
   display: flex;

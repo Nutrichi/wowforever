@@ -3,7 +3,8 @@ title: "Fishing en WoW Forever: instructores, subida y equipo"
 metaTitle: "Guía de Fishing de WoW Forever: instructores, subida de 1 a 225, zonas y equipo"
 description: "Fishing en WoW Forever: cada instructor, cómo subir de 1 a 225, la habilidad que pide cada zona, la misión Artisan, cañas, cebos, comida con un buff de Fishing, la nueva Fishing Extravaganza y los objetos de campamento."
 short: "Fishing"
-updated: 2026-10-03
+updated: 2026-10-11
+video: 0Su2_6eVSpU
 lang: es
 faq:
   - q: "¿Importa la zona para lo rápido que sube Fishing?"
@@ -78,6 +79,16 @@ Fishing es una profesión secundaria, así que nunca te cuesta una de tus dos pl
 ## Subir la profesión
 
 Fishing sube según el número de peces que pescas; la zona no cambia eso. Por debajo de 25 de habilidad, usa un <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6529"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shiny Bauble</a>. Desde 25 siempre pescas algo en una zona de inicio.
+
+<figure class="wf-embed" data-wf-video="0Su2_6eVSpU">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Fishing de 1 a 75 en Zephras Isle (Alliance)</span>
+      <span class="wf-embed__meta">Reproduce el vídeo. Nutri en YouTube, 53 minutos.</span>
+    </span>
+  </button>
+</figure>
 
 | Habilidad | Dónde |
 |---|---|

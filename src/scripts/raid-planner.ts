@@ -9,10 +9,16 @@
  *
  * Het adres wordt bijgewerkt met `replaceState`, zoals bij de talentcalculator:
  * geen regel in de geschiedenis per klik.
+ *
+ * Namen (Nutri, 11 oktober 2026): het potlood naast de x maakt van de naam een invulveld;
+ * Enter of wegklikken bewaart, Escape breekt af, leeg zet de spec terug. Een naam hoort bij
+ * de speler en verhuist mee bij verplaatsen, verdelen en een andere raidgrootte, en staat
+ * in de deellink (`&n=`, zie lib/raid.ts).
  */
 
 import {
-  type RaidResult, type Slot, analyzeRaid, autoArrange, decodeRaid, encodeRaid, raidData, raidSpec,
+  type RaidResult, type Slot, NAME_MAX, analyzeRaid, autoArrange, cleanName, decodeNames, decodeRaid, encodeNames, encodeRaid,
+  raidData, raidSpec,
 } from '../lib/raid';
 
 type Payload = { strings: Record<string, string>; roles: Record<string, string>; defaultSize: number };
@@ -35,8 +41,11 @@ function start(root: HTMLElement, payload: Payload) {
   const notice = root.querySelector<HTMLElement>('[data-notice]')!;
   const autoBtn = root.querySelector<HTMLButtonElement>('[data-auto]')!;
 
-  let slots: Slot[] = decodeRaid(new URLSearchParams(window.location.search).get('r'));
+  const query = new URLSearchParams(window.location.search);
+  let slots: Slot[] = decodeRaid(query.get('r'));
+  let names: string[] = decodeNames(query.get('n'), slots.length);
   let selected: number | null = null;
+  let editing: number | null = null;
   let noticeTimer = 0;
 
   /* Alleen nog "de raid is vol", als zwevend bericht dat na drie seconden weggaat. */
@@ -91,14 +100,35 @@ function start(root: HTMLElement, payload: Payload) {
           li.dataset.class = spec.class;
           body.draggable = true;
           body.setAttribute('aria-pressed', selected === index ? 'true' : 'false');
+          const label = names[index] ?? '';
+          const shown = label || spec.name;
+          const meta = label ? `${spec.name} ${className(spec.class)} · ${payload.roles[spec.id]}` : `${className(spec.class)} · ${payload.roles[spec.id]}`;
           const words = el('span', 'wf-rslot__text');
-          words.append(el('span', 'wf-rslot__name', spec.name), el('span', 'wf-rslot__meta', `${className(spec.class)} · ${payload.roles[spec.id]}`));
+          words.append(el('span', 'wf-rslot__name', shown), el('span', 'wf-rslot__meta', meta));
           body.append(img(spec.icon, 28, 'wf-rslot__icon'), words);
+          const edit = el('button', 'wf-rslot__edit');
+          edit.type = 'button';
+          edit.dataset.edit = String(index);
+          edit.setAttribute('aria-label', s('rename', { name: shown }));
+          edit.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zm17.71-10.21a1 1 0 0 0 0-1.41l-2.34-2.34a1 1 0 0 0-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/></svg>';
           const remove = el('button', 'wf-rslot__remove', '×');
           remove.type = 'button';
           remove.dataset.remove = String(index);
-          remove.setAttribute('aria-label', s('remove', { name: spec.name }));
-          li.append(body, remove);
+          remove.setAttribute('aria-label', s('remove', { name: shown }));
+          if (editing === index) {
+            const field = el('input', 'wf-rslot__input');
+            field.type = 'text';
+            field.maxLength = NAME_MAX;
+            field.value = label;
+            field.placeholder = spec.name;
+            field.setAttribute('aria-label', s('rename', { name: shown }));
+            field.dataset.field = String(index);
+            const wrap = el('span', 'wf-rslot__body wf-rslot__body--edit');
+            wrap.append(img(spec.icon, 28, 'wf-rslot__icon'), field);
+            li.append(wrap, edit, remove);
+          } else {
+            li.append(body, edit, remove);
+          }
         } else {
           body.append(el('span', 'wf-rslot__empty', s('emptySlot')));
           li.append(body);
@@ -167,6 +197,8 @@ function start(root: HTMLElement, payload: Payload) {
   function render() {
     const result = analyzeRaid(slots);
     drawGroups(result);
+    const field = root.querySelector<HTMLInputElement>('[data-field]');
+    if (field) { field.focus(); field.select(); }
     drawPanel(result);
     root.querySelector('[data-count]')!.textContent = String(result.players);
     root.querySelector('[data-capacity]')!.textContent = String(slots.length);
@@ -178,6 +210,9 @@ function start(root: HTMLElement, payload: Payload) {
     const url = new URL(window.location.href);
     if (result.players === 0 && slots.length === payload.defaultSize) url.searchParams.delete('r');
     else url.searchParams.set('r', encodeRaid(slots));
+    const named = encodeNames(names.map((n, i) => (slots[i] ? n : '')));
+    if (named) url.searchParams.set('n', named);
+    else url.searchParams.delete('n');
     window.history.replaceState(null, '', url);
   }
 
@@ -188,14 +223,42 @@ function start(root: HTMLElement, payload: Payload) {
     if (index === undefined || index < 0 || slots[index] !== null) index = slots.indexOf(null);
     if (index < 0) { say(s('raidFull')); return; }
     slots[index] = spec;
+    names[index] = '';
     selected = null;
     say('');
     render();
   }
 
+  // De naam bewaren of afbreken; leeg zet de spec terug.
+  function commit(save: boolean) {
+    const field = root.querySelector<HTMLInputElement>('[data-field]');
+    if (editing === null) return;
+    if (save && field) names[editing] = cleanName(field.value);
+    editing = null;
+    render();
+  }
+
+  /*
+   Verdelen kent alleen specs. Twee spelers met dezelfde spec zijn voor de buffs gelijk,
+   dus de namen gaan in hun oude volgorde naar de plekken van die spec (zoals `Raid.swift`).
+   */
+  function arrange() {
+    const sorted = autoArrange(slots);
+    const used = new Set<number>();
+    names = sorted.map((spec) => {
+      if (!spec) return '';
+      const from = slots.findIndex((old, i) => !used.has(i) && old?.id === spec.id);
+      if (from < 0) return '';
+      used.add(from);
+      return names[from] ?? '';
+    });
+    slots = sorted;
+  }
+
   function move(from: number, to: number) {
     if (from === to) return;
     [slots[from], slots[to]] = [slots[to], slots[from]];
+    [names[from], names[to]] = [names[to], names[from]];
     selected = null;
     say('');
     render();
@@ -204,13 +267,18 @@ function start(root: HTMLElement, payload: Payload) {
   function resize(size: number) {
     if (size === slots.length) return;
     const next: Slot[] = Array(size).fill(null);
-    const rest: Slot[] = [];
-    slots.forEach((spec, i) => { if (i < size) next[i] = spec; else if (spec) rest.push(spec); });
-    for (const spec of rest) {
+    const nextNames: string[] = Array(size).fill('');
+    const rest: [Slot, string][] = [];
+    slots.forEach((spec, i) => {
+      if (i < size) { next[i] = spec; nextNames[i] = names[i] ?? ''; } else if (spec) rest.push([spec, names[i] ?? '']);
+    });
+    for (const [spec, label] of rest) {
       const free = next.indexOf(null);
-      if (free >= 0) next[free] = spec;
+      if (free >= 0) { next[free] = spec; nextNames[free] = label; }
     }
     slots = next;
+    names = nextNames;
+    editing = null;
     selected = null;
     say('');
     render();
@@ -218,13 +286,28 @@ function start(root: HTMLElement, payload: Payload) {
 
   root.addEventListener('click', (event) => {
     const target = event.target as HTMLElement;
+    if (target.closest('[data-field]')) return;
+    const editBtn = target.closest<HTMLElement>('[data-edit]');
+    if (editBtn) {
+      const i = Number(editBtn.dataset.edit);
+      if (editing === i) { commit(true); return; }
+      const open = root.querySelector<HTMLInputElement>('[data-field]');
+      if (editing !== null && open) names[editing] = cleanName(open.value);
+      editing = i;
+      selected = null;
+      render();
+      return;
+    }
+    if (editing !== null) commit(true);
     const addBtn = target.closest<HTMLElement>('[data-add]');
     if (addBtn) { add(addBtn.dataset.add!); return; }
     const removeBtn = target.closest<HTMLElement>('[data-remove]');
     if (removeBtn) {
       const i = Number(removeBtn.dataset.remove);
       slots[i] = null;
+      names[i] = '';
       if (selected === i) selected = null;
+      if (editing === i) editing = null;
       render();
       return;
     }
@@ -246,7 +329,7 @@ function start(root: HTMLElement, payload: Payload) {
     const sizeBtn = target.closest<HTMLElement>('[data-size]');
     if (sizeBtn) { resize(Number(sizeBtn.dataset.size)); return; }
     if (target.closest('[data-auto]')) {
-      slots = autoArrange(slots);
+      arrange();
       selected = null;
       say('');
       render();
@@ -254,6 +337,8 @@ function start(root: HTMLElement, payload: Payload) {
     }
     if (target.closest('[data-clear]')) {
       slots = Array(slots.length).fill(null);
+      names = Array(slots.length).fill('');
+      editing = null;
       selected = null;
       say('');
       render();
@@ -267,6 +352,18 @@ function start(root: HTMLElement, payload: Payload) {
         window.setTimeout(() => { copy.textContent = old; }, 1600);
       }).catch(() => {});
     }
+  });
+
+  root.addEventListener('keydown', (event) => {
+    if (!(event.target as HTMLElement).closest('[data-field]')) return;
+    if (event.key === 'Enter') { event.preventDefault(); commit(true); }
+    if (event.key === 'Escape') { event.preventDefault(); commit(false); }
+  });
+  root.addEventListener('focusout', (event) => {
+    const field = (event.target as HTMLElement).closest('[data-field]');
+    // Wegklikken bewaart; een klik op het potlood of de x regelt het zelf.
+    const to = (event as FocusEvent).relatedTarget as HTMLElement | null;
+    if (field && editing !== null && !to?.closest('[data-edit], [data-remove]')) commit(true);
   });
 
   // Slepen: een speler naar een andere plek, of een spec uit de lijst naar een plek.
@@ -299,7 +396,7 @@ function start(root: HTMLElement, payload: Payload) {
     if (kind === 'slot') move(Number(value), to);
     if (kind === 'spec') {
       if (slots[to] === null) add(value, to);
-      else { slots[to] = raidSpec(value) ?? slots[to]; render(); }
+      else { slots[to] = raidSpec(value) ?? slots[to]; names[to] = ''; render(); }
     }
   });
 

@@ -3,7 +3,8 @@ title: "Fishing in WoW Forever: Lehrer, Skillen und Ausrüstung"
 metaTitle: "WoW Forever Fishing-Guide: Lehrer, Skillen von 1 bis 225, Zonen und Ausrüstung"
 description: "Fishing in WoW Forever: jeder Lehrer, Skillen von 1 bis 225, der Skill, den jede Zone verlangt, die Artisan-Quest, Angeln, Köder, Essen mit Fishing-Buff, die neue Fishing Extravaganza und die Lagerobjekte."
 short: "Fishing"
-updated: 2026-10-03
+updated: 2026-10-11
+video: 0Su2_6eVSpU
 lang: de
 faq:
   - q: "Spielt die Zone eine Rolle dafür, wie schnell Fishing steigt?"
@@ -78,6 +79,16 @@ Fishing ist ein Nebenberuf und kostet dich also nie einen deiner zwei Hauptplät
 ## Skillen
 
 Fishing steigt mit der Zahl der gefangenen Fische; die Zone ändert daran nichts. Unter Skill 25 nimmst du einen <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6529"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shiny Bauble</a>. Ab 25 fängst du in einem Startgebiet immer etwas.
+
+<figure class="wf-embed" data-wf-video="0Su2_6eVSpU">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Fishing 1 bis 75 auf Zephras Isle (Alliance)</span>
+      <span class="wf-embed__meta">Das Video abspielen. Nutri auf YouTube, 53 Minuten.</span>
+    </span>
+  </button>
+</figure>
 
 | Skill | Wo |
 |---|---|
