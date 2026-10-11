@@ -1,6 +1,6 @@
 ---
-title: "Savory Whimsyfin Delight ti trasforma in un Murloc o in un Ogre"
-description: "Una nuova ricetta di Cooking in WoW Forever funziona come Savory Deviate Delight, ma il Body Type del personaggio decide tra un Murloc e un Ogre, per un’ora."
+title: "Savory Whimsyfin Delight ora ti trasforma in un ninja o pirata orco"
+description: "Una nuova ricetta di Cooking in WoW Forever prima ti trasformava in un Murloc o in un Ogre. Dalla build della beta del 1° ottobre dà una versione orchesca dei costumi da ninja e da pirata; secondo Blizzard, le prime forme erano provvisorie."
 date: 2026-09-29T18:00:00+02:00
 category: forever
 lang: it
