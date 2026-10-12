@@ -1,7 +1,7 @@
 ---
 title: "Mage-set uit Dalaran roept een Arcane elemental op"
 description: "Violet Sorcerer's Vestments is een nieuwe cloth-set van vijf stukken uit de dungeon City of Dalaran. De volledige set kan bij elke schadespell een Arcane elemental aan je zijde roepen."
-date: 2026-10-12T19:15:00+02:00
+date: 2026-10-12T21:27:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-12-wow-forever-arcane-elemental.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/summon-an-elemental-with-this-new-set-in-wow-forever/"
 tags: ["forever", "beta", "dungeon", "classes"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Een nieuwe cloth-set uit de City of Dalaran roept een Arcane elemental aan je zijde. De vijf stukken van [Violet Sorcerer's Vestments](https://www.wowhead.com/forever/item-set=2134) vallen in de nieuwe dungeon op de beta van WoW Forever. De volledige set kan hem oproepen bij elke schadespell.
