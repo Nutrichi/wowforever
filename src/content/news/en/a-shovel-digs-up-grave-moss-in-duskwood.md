@@ -1,7 +1,7 @@
 ---
 title: "A shovel digs up Grave Moss in Duskwood"
 description: "The Graverobber's Shovel, a rare drop in The Stockade, has 20 charges to dig up graves at Raven Hill Cemetery and the Scarlet Monastery Graveyard. One player got 9 Grave Moss out of it."
-date: 2026-10-12T19:00:00+02:00
+date: 2026-10-12T20:54:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-12-wow-forever-disturbed-ghoul.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-item-makes-gravemoss-farming-easier-in-wow-forever-383371"
 tags: ["forever", "beta", "tradeskills"]
 featured: false
-draft: true
+draft: false
 ---
 A new weapon on the WoW Forever beta digs up <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3369"><img class="wf-wh__icon" src="/wh/inv_misc_dust_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grave Moss</a>. The <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273817"><img class="wf-wh__icon" src="/wh/inv_misc_shovel_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graverobber's Shovel</a> has 20 charges to open graves at Raven Hill Cemetery in Duskwood and at the Scarlet Monastery Graveyard. One player spent all 20 and got 9 Grave Moss.
 

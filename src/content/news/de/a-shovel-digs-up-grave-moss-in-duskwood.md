@@ -1,7 +1,7 @@
 ---
 title: "Eine Schaufel gräbt Grave Moss in Duskwood aus"
 description: "Die Graverobber's Shovel, ein seltener Drop in The Stockade, hat 20 Ladungen, um Gräber auf dem Raven Hill Cemetery und dem Scarlet Monastery Graveyard zu öffnen. Ein Spieler holte 9 Grave Moss heraus."
-date: 2026-10-12T19:00:00+02:00
+date: 2026-10-12T20:54:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-12-wow-forever-disturbed-ghoul.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-item-makes-gravemoss-farming-easier-in-wow-forever-383371"
 tags: ["forever", "beta", "tradeskills"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Eine neue Waffe in der Beta von WoW Forever gräbt <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3369"><img class="wf-wh__icon" src="/wh/inv_misc_dust_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grave Moss</a> aus. Die <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273817"><img class="wf-wh__icon" src="/wh/inv_misc_shovel_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graverobber's Shovel</a> hat 20 Ladungen, um Gräber auf dem Raven Hill Cemetery in Duskwood und auf dem Scarlet Monastery Graveyard zu öffnen. Ein Spieler nutzte alle 20 und bekam 9 Grave Moss.

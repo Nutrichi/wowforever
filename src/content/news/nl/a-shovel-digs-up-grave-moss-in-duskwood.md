@@ -1,7 +1,7 @@
 ---
 title: "Een schop graaft Grave Moss op in Duskwood"
 description: "De Graverobber's Shovel, een zeldzame drop in The Stockade, heeft 20 charges om graven op te graven op Raven Hill Cemetery en de Scarlet Monastery Graveyard. Een speler haalde er 9 Grave Moss uit."
-date: 2026-10-12T19:00:00+02:00
+date: 2026-10-12T20:54:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-12-wow-forever-disturbed-ghoul.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-item-makes-gravemoss-farming-easier-in-wow-forever-383371"
 tags: ["forever", "beta", "tradeskills"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Een nieuw wapen op de beta van WoW Forever graaft <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3369"><img class="wf-wh__icon" src="/wh/inv_misc_dust_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grave Moss</a> op. De <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273817"><img class="wf-wh__icon" src="/wh/inv_misc_shovel_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graverobber's Shovel</a> heeft 20 charges om graven te openen op Raven Hill Cemetery in Duskwood en op de Scarlet Monastery Graveyard. Een speler gebruikte ze alle 20 en kreeg 9 Grave Moss.

@@ -1,7 +1,7 @@
 ---
 title: "Una pala desentierra Grave Moss en Duskwood"
 description: "La Graverobber's Shovel, un botín raro de The Stockade, tiene 20 cargas para cavar tumbas en Raven Hill Cemetery y el Scarlet Monastery Graveyard. Un jugador sacó 9 Grave Moss."
-date: 2026-10-12T19:00:00+02:00
+date: 2026-10-12T20:54:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-12-wow-forever-disturbed-ghoul.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-item-makes-gravemoss-farming-easier-in-wow-forever-383371"
 tags: ["forever", "beta", "tradeskills"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Un arma nueva de la beta de WoW Forever desentierra <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3369"><img class="wf-wh__icon" src="/wh/inv_misc_dust_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grave Moss</a>. La <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273817"><img class="wf-wh__icon" src="/wh/inv_misc_shovel_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graverobber's Shovel</a> tiene 20 cargas para abrir tumbas en Raven Hill Cemetery, en Duskwood, y en el Scarlet Monastery Graveyard. Un jugador gastó las 20 y obtuvo 9 Grave Moss.
