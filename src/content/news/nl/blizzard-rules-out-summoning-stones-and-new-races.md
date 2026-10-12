@@ -1,7 +1,7 @@
 ---
 title: "Blizzard weigert Summoning Stones en nieuwe rassen"
 description: "In een interview legt het team van WoW Forever uit waarom het spel geen Summoning Stones en geen rassen uit latere uitbreidingen krijgt, en hoe classes, respecs en balanswijzigingen na de launch werken."
-date: 2026-10-12T22:25:00+02:00
+date: 2026-10-12T22:31:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg
@@ -10,7 +10,7 @@ source: "TechRadar"
 sourceUrl: "https://www.techradar.com/gaming/blizzard-explains-why-wow-forever-wont-have-summoning-stones-says-easy-quick-access-to-teleports-shrink-the-world-and-easily-erodes-its-core-design-pillars"
 tags: ["forever", "classes"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever krijgt geen Summoning Stones en geen rassen uit latere uitbreidingen, zegt Blizzard in een interview. Teleports zouden de wereld kleiner maken. De classes blijven dicht bij het origineel, met een paar extra mechanismen waar ze te simpel waren.

@@ -1,7 +1,7 @@
 ---
 title: "Blizzard esclude Summoning Stones e nuove razze"
 description: "In un'intervista il team di WoW Forever spiega perché il gioco non avrà Summoning Stones né razze delle espansioni successive, e come funzioneranno classi, respec e bilanciamenti dopo il lancio."
-date: 2026-10-12T22:25:00+02:00
+date: 2026-10-12T22:31:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg
@@ -10,7 +10,7 @@ source: "TechRadar"
 sourceUrl: "https://www.techradar.com/gaming/blizzard-explains-why-wow-forever-wont-have-summoning-stones-says-easy-quick-access-to-teleports-shrink-the-world-and-easily-erodes-its-core-design-pillars"
 tags: ["forever", "classes"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever non avrà Summoning Stones né razze delle espansioni successive, dice Blizzard in un'intervista. I teletrasporti renderebbero il mondo più piccolo. Le classi restano vicine all'originale, con qualche meccanica in più dove erano troppo semplici.

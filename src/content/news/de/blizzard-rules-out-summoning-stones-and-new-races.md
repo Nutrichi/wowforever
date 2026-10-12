@@ -1,7 +1,7 @@
 ---
 title: "Blizzard lehnt Summoning Stones und neue Völker ab"
 description: "In einem Interview erklärt das Team von WoW Forever, warum das Spiel keine Summoning Stones und keine Völker aus späteren Erweiterungen bekommt, und wie Klassen, Respecs und Balance nach dem Launch laufen."
-date: 2026-10-12T22:25:00+02:00
+date: 2026-10-12T22:31:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg
@@ -10,7 +10,7 @@ source: "TechRadar"
 sourceUrl: "https://www.techradar.com/gaming/blizzard-explains-why-wow-forever-wont-have-summoning-stones-says-easy-quick-access-to-teleports-shrink-the-world-and-easily-erodes-its-core-design-pillars"
 tags: ["forever", "classes"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever bekommt keine Summoning Stones und keine Völker aus späteren Erweiterungen, sagt Blizzard in einem Interview. Teleports würden die Welt schrumpfen lassen. Die Klassen bleiben nah am Original, mit ein paar Mechaniken mehr, wo sie zu einfach waren.

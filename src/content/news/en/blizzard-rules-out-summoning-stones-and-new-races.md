@@ -1,7 +1,7 @@
 ---
 title: "Blizzard rules out Summoning Stones and new races"
 description: "In an interview the WoW Forever team explains why the game gets no Summoning Stones and no races from later expansions, and how classes, respecs and balance changes will work after launch."
-date: 2026-10-12T22:25:00+02:00
+date: 2026-10-12T22:31:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg
@@ -10,7 +10,7 @@ source: "TechRadar"
 sourceUrl: "https://www.techradar.com/gaming/blizzard-explains-why-wow-forever-wont-have-summoning-stones-says-easy-quick-access-to-teleports-shrink-the-world-and-easily-erodes-its-core-design-pillars"
 tags: ["forever", "classes"]
 featured: false
-draft: true
+draft: false
 ---
 World of Warcraft: Forever gets no Summoning Stones and no races from later expansions, Blizzard says in an interview. Teleports would shrink the world. Classes stay close to the original, with a few extra mechanics where they were too simple.
 
