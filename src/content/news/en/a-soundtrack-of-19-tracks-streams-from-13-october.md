@@ -1,7 +1,7 @@
 ---
 title: "A soundtrack of 19 tracks streams from 13 October"
 description: "The soundtrack of World of Warcraft: Forever comes to Spotify, Apple Music and Deezer on 13 October, with 19 new tracks for the new zones and dungeons by five composers."
-date: 2026-10-12T19:30:00+02:00
+date: 2026-10-12T21:59:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-12-wow-forever-soundtrack-key-art.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/wow-forevers-new-soundtrack-arrives-on-streaming-platforms-13-october/"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 ---
 The soundtrack of World of Warcraft: Forever comes out on 13 October. The album holds 19 new tracks for the new zones and dungeons. It appears on Spotify, Apple Music, Deezer and other streaming services, three weeks before the launch on 4 November.
 

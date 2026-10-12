@@ -1,7 +1,7 @@
 ---
 title: "La colonna sonora di 19 brani arriva il 13 ottobre"
 description: "La colonna sonora di World of Warcraft: Forever arriva il 13 ottobre su Spotify, Apple Music e Deezer, con 19 nuovi brani di cinque compositori per le nuove zone e i dungeon."
-date: 2026-10-12T19:30:00+02:00
+date: 2026-10-12T21:59:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-12-wow-forever-soundtrack-key-art.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/wow-forevers-new-soundtrack-arrives-on-streaming-platforms-13-october/"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 La colonna sonora di World of Warcraft: Forever esce il 13 ottobre. L'album conta 19 nuovi brani per le nuove zone e i dungeon. Arriva su Spotify, Apple Music, Deezer e altri servizi, tre settimane prima del lancio del 4 novembre.

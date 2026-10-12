@@ -1,7 +1,7 @@
 ---
 title: "La bande-son de 19 titres arrive le 13 octobre"
 description: "La bande-son de World of Warcraft: Forever arrive le 13 octobre sur Spotify, Apple Music et Deezer, avec 19 nouveaux titres de cinq compositeurs pour les nouvelles zones et les donjons."
-date: 2026-10-12T19:30:00+02:00
+date: 2026-10-12T21:59:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-12-wow-forever-soundtrack-key-art.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/wow-forevers-new-soundtrack-arrives-on-streaming-platforms-13-october/"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 La bande-son de World of Warcraft: Forever sort le 13 octobre. L'album compte 19 nouveaux titres pour les nouvelles zones et les donjons. Il arrive sur Spotify, Apple Music, Deezer et d'autres services, trois semaines avant la sortie du 4 novembre.
