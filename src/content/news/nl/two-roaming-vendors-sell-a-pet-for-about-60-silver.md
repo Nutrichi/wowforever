@@ -1,7 +1,7 @@
 ---
 title: "Twee verkopers lopen rond met pets van 60 zilver"
 description: "Mayhoa Skyhoof loopt door Orgrimmar met een Prairie Wolf Pup, en Lil Timmy draagt een White Kitten door Stormwind. Elk heeft er één in voorraad, dus de eerste koper heeft hem."
-date: 2026-10-12T18:45:00+02:00
+date: 2026-10-12T20:22:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-12-wow-forever-stormwind-harbor.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/dont-miss-these-cheap-pets-for-60-silver-in-wow-forever/"
 tags: ["forever", "beta", "pets"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Twee verkopers op de beta van WoW Forever verkopen een pet voor ongeveer 60 zilver, maar staan nooit stil. Mayhoa Skyhoof loopt door Orgrimmar, Lil Timmy door Stormwind. Elk heeft één pet in voorraad, voor één koper tegelijk.

@@ -1,7 +1,7 @@
 ---
 title: "Two roaming vendors sell a pet for about 60 silver"
 description: "Mayhoa Skyhoof walks through Orgrimmar with a Prairie Wolf Pup, and Lil Timmy carries a White Kitten through Stormwind. Each has one in stock, so the first buyer gets it."
-date: 2026-10-12T18:45:00+02:00
+date: 2026-10-12T20:22:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-12-wow-forever-stormwind-harbor.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/dont-miss-these-cheap-pets-for-60-silver-in-wow-forever/"
 tags: ["forever", "beta", "pets"]
 featured: false
-draft: true
+draft: false
 ---
 Two vendors on the WoW Forever beta sell a pet for about 60 silver, but never stand still. Mayhoa Skyhoof walks through Orgrimmar, Lil Timmy through Stormwind. Each has one pet in stock, for one buyer at a time.
 

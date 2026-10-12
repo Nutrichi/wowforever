@@ -1,7 +1,7 @@
 ---
 title: "Deux marchands errants vendent un pet à 60 argent"
 description: "Mayhoa Skyhoof parcourt Orgrimmar avec un Prairie Wolf Pup, et Lil Timmy porte un White Kitten à travers Stormwind. Chacun n'en a qu'un en stock, et le premier acheteur l'emporte."
-date: 2026-10-12T18:45:00+02:00
+date: 2026-10-12T20:22:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-12-wow-forever-stormwind-harbor.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/dont-miss-these-cheap-pets-for-60-silver-in-wow-forever/"
 tags: ["forever", "beta", "pets"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Deux marchands de la bêta de WoW Forever vendent un pet pour environ 60 pièces d'argent, mais ne restent jamais en place. Mayhoa Skyhoof marche dans Orgrimmar, Lil Timmy dans Stormwind. Chacun n'a qu'un pet en stock, pour un seul acheteur à la fois.

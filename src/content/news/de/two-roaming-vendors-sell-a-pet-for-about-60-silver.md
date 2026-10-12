@@ -1,7 +1,7 @@
 ---
 title: "Zwei Wanderhändler verkaufen Pets für 60 Silber"
 description: "Mayhoa Skyhoof läuft mit einem Prairie Wolf Pup durch Orgrimmar, Lil Timmy trägt ein White Kitten durch Stormwind. Jeder hat nur eines auf Lager, also bekommt es der erste Käufer."
-date: 2026-10-12T18:45:00+02:00
+date: 2026-10-12T20:22:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-12-wow-forever-stormwind-harbor.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/dont-miss-these-cheap-pets-for-60-silver-in-wow-forever/"
 tags: ["forever", "beta", "pets"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Zwei Händler in der Beta von WoW Forever verkaufen ein Pet für etwa 60 Silber, stehen aber nie still. Mayhoa Skyhoof läuft durch Orgrimmar, Lil Timmy durch Stormwind. Jeder hat nur ein Pet auf Lager, für einen Käufer zur Zeit.
