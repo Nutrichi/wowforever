@@ -154,15 +154,23 @@ window.addEventListener('message', (event) => {
   if (!vanReddit && !vanX) return;
 
   /*
-   * Reddit meldt `{ height }` of `{ data: { height } }`. X meldt
+   * Reddit meldt zijn hoogte als tekst: `'{"type":"resize.embed","data":740}'`
+   * (nagekeken op 13 oktober 2026, voor een post en voor een reactie). Die
+   * tekst wordt eerst gelezen; `{ height }` en `{ data: { height } }` blijven
+   * voor de zekerheid staan. X meldt
    * `{ 'twttr.embed': { method: 'twttr.private.resize', params: [{ height }] } }`.
-   * Beide komen hier binnen; wat niet op een getal uitkomt, valt weg.
+   * Wat niet op een getal uitkomt, valt weg.
    */
-  const data = event.data as Record<string, any> | null;
+  let data = event.data as Record<string, any> | string | null;
+  if (typeof data === 'string') {
+    try { data = JSON.parse(data); } catch { return; }
+  }
+  const msg = data as Record<string, any> | null;
   const height = Number(
-    data?.data?.height
-    ?? data?.height
-    ?? data?.['twttr.embed']?.params?.[0]?.height,
+    (msg?.type === 'resize.embed' ? msg?.data : undefined)
+    ?? msg?.data?.height
+    ?? msg?.height
+    ?? msg?.['twttr.embed']?.params?.[0]?.height,
   );
   if (!Number.isFinite(height) || height < 120 || height > 4000) return;
 

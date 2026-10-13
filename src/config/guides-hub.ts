@@ -72,6 +72,8 @@ export const hubCategories: HubCategory[] = [
     cards: [
       { key: 'races-and-classes', image: '2026-10-05-wow-forever-character-creation-hd-portraits.jpg' },
       { key: 'restoration-druid', image: '2026-09-30-wow-forever-druid-talent-trees.jpg' },
+      { key: 'mage-leveling', image: '2026-10-08-wow-forever-mage-talent-trees.jpg' },
+      { key: 'affliction-warlock', image: '2026-10-08-wow-forever-warlock-talent-trees.jpg' },
       { key: '/classes', label: 'cardClasses', image: '2026-09-13-wow-forever-key-art.jpg' },
     ],
   },
