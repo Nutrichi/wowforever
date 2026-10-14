@@ -3,7 +3,7 @@ title: "The Hall of Thanes: der Dungeonguide für WoW Forever"
 metaTitle: "The Hall of Thanes in WoW Forever: Quests, Bosse, Beute und Anreise"
 description: "The Hall of Thanes in WoW Forever: die Anreise, alle fünf Quests mit der Questreihe in Dun Morogh, die vier Bosse, der hart zuschlagende Trash und jede bekannte Belohnung und Beute."
 short: "Hall of Thanes"
-updated: 2026-09-29
+updated: 2026-10-14
 lang: de
 manual: true
 faq:
@@ -152,7 +152,7 @@ Gib auf dem Weg hinaus An Ancient Grudge bei der Ghostly Attendant ab.
 
 ### Faldrim Anvilmar
 
-Ein Geist, der durch die Mitte von Anvilmar's Rest patrouilliert. Räumt eine Seite des Raums, wartet, bis er zu euch kommt, und zieht ihn dorthin, weg vom Trash. Er wirkt [Mind Blast](https://www.wowhead.com/forever/spell=26048) und legt [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) für 10 Minuten auf den Tank: Angriffs- und Zaubertempo 20 % langsamer, dafür immun gegen Gifte und Blutungen. Wer Flüche entfernen kann, macht den Kampf leichter.
+Ein Geist, der durch die Mitte von Anvilmar's Rest patrouilliert. Räumt eine Seite des Raums, wartet, bis er zu euch kommt, und zieht ihn dorthin, weg vom Trash. Er wirkt [Mind Blast](https://www.wowhead.com/forever/spell=26048) und legt [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) für 10 Minuten auf den Tank: Angriffs- und Zaubertempo 20 % langsamer, dafür immun gegen Gifte und Blutungen. Wer Flüche entfernen kann, macht den Kampf leichter. Sein Tod öffnet die Tore tiefer in die Halle, sagt das [Dungeon-Video von Blizzard](/de/news/blizzard-shows-three-launch-dungeons-in-a-video/).
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_cape_12.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271097">Spiritwraith Drape</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__line">Back</span><span class="wf-item__line">17 Armor</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Requires Level 13</span></div></div>

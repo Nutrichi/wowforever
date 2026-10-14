@@ -3,7 +3,7 @@ title: "Excavation Site: Wetlands, la guida al dungeon per WoW Forever"
 metaTitle: "Excavation Site: Wetlands in WoW Forever: ingresso, missioni, boss e bottino"
 description: "Excavation Site: Wetlands, un nuovo dungeon di WoW Forever: l’ingresso lungo le nuove strade delle Wetlands, le missioni di entrambe le fazioni, i raptor nell’erba alta, i quattro boss e il loro bottino."
 short: "Excavation Site"
-updated: 2026-10-09
+updated: 2026-10-14
 lang: it
 faq:
   - q: "Che livello è l’Excavation Site in WoW Forever?"
@@ -204,7 +204,7 @@ Il livello è il più basso a cui si può prendere la missione, secondo Wowhead.
 
 ## L’erba alta
 
-La parte più pericolosa del dungeon è la zona prima di Saltspine e Shadetooth. I **Thicket Lurkers** non aspettano in furtività: compaiono quando cammini abbastanza a lungo nell’erba alta. Le **Thicket Matriarchs** chiamano Lurkers in aiuto quando la loro salute scende.
+La parte più pericolosa del dungeon è la zona prima di Saltspine e Shadetooth. I **Thicket Lurkers** non aspettano in furtività: compaiono quando cammini abbastanza a lungo nell’erba alta. Le **Thicket Matriarchs** chiamano Lurkers in aiuto quando la loro salute scende. Il [video dei dungeon di Blizzard](/it/news/blizzard-shows-three-launch-dungeons-in-a-video/) aggiunge che diversi tipi di raptor nell’erba sono in furtività.
 
 Resta sul sentiero stretto, fuori dall’erba, e combatti nei punti aperti. Se in un gruppo c’è una Matriarch, uccidi prima gli altri mostri, così ne restano il meno possibile quando arrivano i Lurkers.
 

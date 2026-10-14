@@ -3,7 +3,7 @@ title: "The Hall of Thanes: la guida al dungeon per WoW Forever"
 metaTitle: "The Hall of Thanes in WoW Forever: missioni, boss, bottino e accesso"
 description: "The Hall of Thanes in WoW Forever: come entrare, le cinque missioni con la catena di Dun Morogh, i quattro boss, un trash che picchia duro e ogni ricompensa e bottino noti."
 short: "Hall of Thanes"
-updated: 2026-09-29
+updated: 2026-10-14
 lang: it
 manual: true
 faq:
@@ -152,7 +152,7 @@ Uscendo, consegna An Ancient Grudge alla Ghostly Attendant.
 
 ### Faldrim Anvilmar
 
-Un fantasma che pattuglia il centro di Anvilmar's Rest. Ripulite un lato della sala, aspettate che venga verso di voi e tiratelo lì, lontano dal trash. Lancia [Mind Blast](https://www.wowhead.com/forever/spell=26048) e mette [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) sul tank per 10 minuti: velocità di attacco e di lancio ridotta del 20%, ma immunità a veleni e sanguinamenti. Un giocatore che rimuove le maledizioni semplifica lo scontro.
+Un fantasma che pattuglia il centro di Anvilmar's Rest. Ripulite un lato della sala, aspettate che venga verso di voi e tiratelo lì, lontano dal trash. Lancia [Mind Blast](https://www.wowhead.com/forever/spell=26048) e mette [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) sul tank per 10 minuti: velocità di attacco e di lancio ridotta del 20%, ma immunità a veleni e sanguinamenti. Un giocatore che rimuove le maledizioni semplifica lo scontro. Sconfiggerlo apre i cancelli verso il fondo della sala, dice il [video dei dungeon di Blizzard](/it/news/blizzard-shows-three-launch-dungeons-in-a-video/).
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_cape_12.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271097">Spiritwraith Drape</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__line">Back</span><span class="wf-item__line">17 Armor</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Requires Level 13</span></div></div>

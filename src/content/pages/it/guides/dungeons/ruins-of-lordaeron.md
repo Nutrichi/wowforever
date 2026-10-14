@@ -3,7 +3,7 @@ title: "Ruins of Lordaeron: la guida al dungeon per WoW Forever"
 metaTitle: "Ruins of Lordaeron in WoW Forever: missioni, boss, bottino e accesso"
 description: "Le Ruins of Lordaeron in WoW Forever: come arrivarci, tutte le missioni per la Horde e l’Alliance con chi le assegna e le ricompense, i sei boss, il trash e il bottino."
 short: "Ruins of Lordaeron"
-updated: 2026-09-29
+updated: 2026-10-14
 lang: it
 manual: true
 faq:
@@ -132,6 +132,8 @@ Per l’Alliance: le tre scelte di Abominable Creatures, le due di Bloodied Insi
 </div>
 
 ## Il percorso nel dungeon
+
+Quasi tutto il dungeon è all’aperto, e la nebbia e le ombre in movimento nascondono ciò che sta più avanti. Il [video dei dungeon di Blizzard](/it/news/blizzard-shows-three-launch-dungeons-in-a-video/) consiglia di portare i nemici su terreno aperto e illuminato, dove restano tutti visibili.
 
 Il dungeon sembra aperto e confuso, ma il percorso è una U. La vera sfida è la densità: i gruppi sono vicini, le pattuglie si incrociano e il guaritore resta presto senza mana. Dal portale:
 

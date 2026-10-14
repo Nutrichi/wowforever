@@ -3,7 +3,7 @@ title: "Ruins of Lordaeron: la guía de la mazmorra para WoW Forever"
 metaTitle: "Ruins of Lordaeron en WoW Forever: misiones, jefes, botín y acceso"
 description: "Ruins of Lordaeron en WoW Forever: cómo llegar, todas las misiones de la Horde y la Alliance con quién las da y sus recompensas, los seis jefes, el trash y el botín."
 short: "Ruins of Lordaeron"
-updated: 2026-09-29
+updated: 2026-10-14
 lang: es
 manual: true
 faq:
@@ -132,6 +132,8 @@ Para la Alliance: las tres opciones de Abominable Creatures, las dos de Bloodied
 </div>
 
 ## La ruta por la mazmorra
+
+Casi toda la mazmorra está al aire libre, y la niebla y las sombras en movimiento ocultan lo que hay más adelante. El [vídeo de mazmorras de Blizzard](/es/news/blizzard-shows-three-launch-dungeons-in-a-video/) aconseja llevar a los enemigos a terreno abierto e iluminado, donde todos siguen a la vista.
 
 La mazmorra parece abierta y confusa, pero la ruta es una U. El verdadero reto es la densidad: los grupos están muy juntos, las patrullas se cruzan y el sanador se queda pronto sin maná. Desde el portal:
 

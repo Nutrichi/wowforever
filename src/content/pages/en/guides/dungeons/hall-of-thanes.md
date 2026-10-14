@@ -3,7 +3,7 @@ title: "The Hall of Thanes: the dungeon guide for WoW Forever"
 metaTitle: "The Hall of Thanes in WoW Forever: quests, bosses, loot and location"
 description: "The Hall of Thanes in WoW Forever: the way in, all five quests with the chain in Dun Morogh, the four bosses, the hard-hitting trash and every known reward and drop."
 short: "Hall of Thanes"
-updated: 2026-09-29
+updated: 2026-10-14
 lang: en
 faq:
   - q: "What level is the Hall of Thanes?"
@@ -151,7 +151,7 @@ On the way out, hand in An Ancient Grudge with the Ghostly Attendant.
 
 ### Faldrim Anvilmar
 
-A ghost who patrols the middle of Anvilmar's Rest. Clear one side of the room, wait until he comes your way and pull him there, away from the trash. He casts [Mind Blast](https://www.wowhead.com/forever/spell=26048) and puts [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) on the tank for 10 minutes: attack and casting speed 20% slower, but immune to poison and bleed effects. A player who removes curses makes this easier.
+A ghost who patrols the middle of Anvilmar's Rest. Clear one side of the room, wait until he comes your way and pull him there, away from the trash. He casts [Mind Blast](https://www.wowhead.com/forever/spell=26048) and puts [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) on the tank for 10 minutes: attack and casting speed 20% slower, but immune to poison and bleed effects. A player who removes curses makes this easier. Killing him opens the gates deeper into the hall, says Blizzard's [dungeon video](/news/blizzard-shows-three-launch-dungeons-in-a-video/).
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_cape_12.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271097">Spiritwraith Drape</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__line">Back</span><span class="wf-item__line">17 Armor</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Requires Level 13</span></div></div>

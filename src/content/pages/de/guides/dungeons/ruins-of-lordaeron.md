@@ -3,7 +3,7 @@ title: "Ruins of Lordaeron: der Dungeonguide für WoW Forever"
 metaTitle: "Ruins of Lordaeron in WoW Forever: Quests, Bosse, Beute und Anreise"
 description: "Die Ruins of Lordaeron in WoW Forever: die Anreise, alle Quests für Horde und Alliance mit Questgebern und Belohnungen, die sechs Bosse, der Trash und die Beute."
 short: "Ruins of Lordaeron"
-updated: 2026-09-29
+updated: 2026-10-14
 lang: de
 manual: true
 faq:
@@ -132,6 +132,8 @@ Für die Alliance: die drei Wahlmöglichkeiten von Abominable Creatures, die zwe
 </div>
 
 ## Der Weg durch den Dungeon
+
+Fast der ganze Dungeon liegt im Freien, und Nebel und bewegte Schatten verbergen, was weiter vorne steht. Das [Dungeon-Video von Blizzard](/de/news/blizzard-shows-three-launch-dungeons-in-a-video/) rät, Gegner auf offenen, beleuchteten Boden zu ziehen, wo jeder Gegner sichtbar bleibt.
 
 Der Dungeon wirkt offen und verwirrend, doch der Weg ist ein U. Die eigentliche Herausforderung ist die Dichte: Gruppen stehen eng, Patrouillen kreuzen, und der Heiler hat schnell kein Mana mehr. Vom Portal aus:
 

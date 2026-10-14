@@ -3,7 +3,7 @@ title: "Excavation Site: Wetlands, le guide du donjon pour WoW Forever"
 metaTitle: "Excavation Site: Wetlands dans WoW Forever : entrée, quêtes, boss et butin"
 description: "Excavation Site: Wetlands, un nouveau donjon de WoW Forever : l’entrée par les nouvelles routes des Wetlands, les quêtes des deux factions, les raptors des hautes herbes, les quatre boss et leur butin."
 short: "Excavation Site"
-updated: 2026-10-09
+updated: 2026-10-14
 lang: fr
 faq:
   - q: "Quel niveau pour l’Excavation Site dans WoW Forever ?"
@@ -204,7 +204,7 @@ Le niveau est le plus bas auquel la quête peut être prise, selon Wowhead. Les 
 
 ## Les hautes herbes
 
-La partie la plus dangereuse du donjon est la zone avant Saltspine et Shadetooth. Les **Thicket Lurkers** n’attendent pas camouflés : ils apparaissent quand on marche assez longtemps dans les hautes herbes. Les **Thicket Matriarchs** appellent des Lurkers à l’aide quand leur vie baisse.
+La partie la plus dangereuse du donjon est la zone avant Saltspine et Shadetooth. Les **Thicket Lurkers** n’attendent pas camouflés : ils apparaissent quand on marche assez longtemps dans les hautes herbes. Les **Thicket Matriarchs** appellent des Lurkers à l’aide quand leur vie baisse. La [vidéo des donjons de Blizzard](/fr/news/blizzard-shows-three-launch-dungeons-in-a-video/) ajoute que plusieurs sortes de raptors dans les herbes sont camouflées.
 
 Restez sur le chemin étroit, hors des herbes, et combattez dans les zones dégagées. Quand une Matriarch fait partie d’un groupe, tuez d’abord les autres monstres, pour qu’il en reste le moins possible quand les Lurkers arrivent.
 

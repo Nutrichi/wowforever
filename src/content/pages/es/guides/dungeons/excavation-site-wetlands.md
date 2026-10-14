@@ -3,7 +3,7 @@ title: "Excavation Site: Wetlands, la guía de la mazmorra para WoW Forever"
 metaTitle: "Excavation Site: Wetlands en WoW Forever: entrada, misiones, jefes y botín"
 description: "Excavation Site: Wetlands, una mazmorra nueva de WoW Forever: la entrada por los nuevos caminos de los Wetlands, las misiones de ambas facciones, los raptores de la hierba alta, los cuatro jefes y su botín."
 short: "Excavation Site"
-updated: 2026-10-09
+updated: 2026-10-14
 lang: es
 faq:
   - q: "¿Qué nivel tiene el Excavation Site en WoW Forever?"
@@ -204,7 +204,7 @@ El nivel es el más bajo con el que se puede recoger la misión, según Wowhead.
 
 ## La hierba alta
 
-La parte más peligrosa de la mazmorra es la zona antes de Saltspine y Shadetooth. Los **Thicket Lurkers** no esperan en sigilo: aparecen cuando caminas bastante tiempo por la hierba alta. Las **Thicket Matriarchs** llaman a Lurkers en su ayuda cuando les baja la salud.
+La parte más peligrosa de la mazmorra es la zona antes de Saltspine y Shadetooth. Los **Thicket Lurkers** no esperan en sigilo: aparecen cuando caminas bastante tiempo por la hierba alta. Las **Thicket Matriarchs** llaman a Lurkers en su ayuda cuando les baja la salud. El [vídeo de mazmorras de Blizzard](/es/news/blizzard-shows-three-launch-dungeons-in-a-video/) añade que varios tipos de raptors de la hierba van en sigilo.
 
 Quédate en el camino estrecho, fuera de la hierba, y lucha en zonas abiertas. Si hay una Matriarch en un grupo, mata primero a los demás monstruos, para que queden los menos posibles cuando lleguen los Lurkers.
 

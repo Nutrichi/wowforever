@@ -3,7 +3,7 @@ title: "Ruins of Lordaeron : le guide du donjon pour WoW Forever"
 metaTitle: "Ruins of Lordaeron dans WoW Forever : quêtes, boss, butin et accès"
 description: "Les Ruins of Lordaeron dans WoW Forever : comment y aller, toutes les quêtes de la Horde et de l’Alliance avec donneurs et récompenses, les six boss, le trash et le butin."
 short: "Ruins of Lordaeron"
-updated: 2026-09-29
+updated: 2026-10-14
 lang: fr
 manual: true
 faq:
@@ -132,6 +132,8 @@ Pour l’Alliance : les trois choix d’Abominable Creatures, les deux de Bloodi
 </div>
 
 ## Le parcours du donjon
+
+Presque tout le donjon est en extérieur, et le brouillard et les ombres mouvantes cachent ce qui se trouve plus loin. La [vidéo des donjons de Blizzard](/fr/news/blizzard-shows-three-launch-dungeons-in-a-video/) conseille d’attirer les ennemis sur un terrain dégagé et éclairé, où chacun reste visible.
 
 Le donjon paraît ouvert et déroutant, mais le parcours est un U. La vraie difficulté est la densité : les groupes sont serrés, les patrouilles se croisent et le soigneur manque vite de mana. Depuis le portail :
 

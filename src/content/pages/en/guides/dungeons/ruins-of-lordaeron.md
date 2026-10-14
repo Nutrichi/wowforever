@@ -3,7 +3,7 @@ title: "Ruins of Lordaeron: the dungeon guide for WoW Forever"
 metaTitle: "Ruins of Lordaeron in WoW Forever: quests, bosses, loot and location"
 description: "The Ruins of Lordaeron in WoW Forever: how to get there, all quests for the Horde and the Alliance with quest givers and rewards, the six bosses, the trash and the loot."
 short: "Ruins of Lordaeron"
-updated: 2026-09-29
+updated: 2026-10-14
 lang: en
 faq:
   - q: "What level is the Ruins of Lordaeron?"
@@ -133,6 +133,8 @@ For the Alliance: the three choices of Abominable Creatures, the two of Bloodied
 </div>
 
 ## The route through the dungeon
+
+Almost the whole dungeon lies outdoors, and fog and moving shadows hide what stands further on. Blizzard's [dungeon video](/news/blizzard-shows-three-launch-dungeons-in-a-video/) advises pulling to open, lit ground, where every enemy stays visible.
 
 The dungeon looks open and confusing, but the route is a U. The real challenge is the density: packs stand close together, patrols cross, and the healer runs out of mana fast. From the portal:
 

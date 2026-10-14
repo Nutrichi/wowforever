@@ -3,7 +3,7 @@ title: "Ruins of Lordaeron: de dungeongids voor WoW Forever"
 metaTitle: "Ruins of Lordaeron in WoW Forever: quests, bazen, loot en ligging"
 description: "De Ruins of Lordaeron in WoW Forever: hoe je er komt, alle quests voor de Horde en de Alliance met questgevers en beloningen, de zes bazen, de trash en de loot."
 short: "Ruins of Lordaeron"
-updated: 2026-09-29
+updated: 2026-10-14
 lang: nl
 manual: true
 faq:
@@ -132,6 +132,8 @@ Voor de Alliance: de drie keuzes van Abominable Creatures, de twee van Bloodied 
 </div>
 
 ## De route door de dungeon
+
+Bijna de hele dungeon ligt buiten, en mist en bewegende schaduwen verbergen wat verderop staat. De [dungeonvideo van Blizzard](/nl/news/blizzard-shows-three-launch-dungeons-in-a-video/) raadt aan naar open, verlichte grond te pullen, waar elke vijand zichtbaar blijft.
 
 De dungeon lijkt open en verwarrend, maar de route is een U. De echte uitdaging is de dichtheid: groepen staan dicht bij elkaar, patrouilles kruisen, en de healer zit snel zonder mana. Vanaf het portaal:
 

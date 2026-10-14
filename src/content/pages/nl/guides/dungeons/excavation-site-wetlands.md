@@ -3,7 +3,7 @@ title: "Excavation Site: Wetlands, de dungeongids voor WoW Forever"
 metaTitle: "Excavation Site: Wetlands in WoW Forever: ingang, quests, bazen en loot"
 description: "Excavation Site: Wetlands, een nieuwe dungeon in WoW Forever: de weg naar binnen over de nieuwe wegen van de Wetlands, de quests voor beide facties, de raptors in het hoge gras, de vier bazen en hun loot."
 short: "Excavation Site"
-updated: 2026-10-09
+updated: 2026-10-14
 lang: nl
 faq:
   - q: "Welk level is de Excavation Site in WoW Forever?"
@@ -204,7 +204,7 @@ Het level is het laagste level waarop de quest op te pikken is, volgens Wowhead.
 
 ## Het hoge gras
 
-Het gevaarlijkste deel van de dungeon is het gebied voor Saltspine en Shadetooth. **Thicket Lurkers** wachten niet in stealth: ze verschijnen als je lang genoeg door het hoge gras loopt. **Thicket Matriarchs** roepen Lurkers te hulp als hun health laag wordt.
+Het gevaarlijkste deel van de dungeon is het gebied voor Saltspine en Shadetooth. **Thicket Lurkers** wachten niet in stealth: ze verschijnen als je lang genoeg door het hoge gras loopt. **Thicket Matriarchs** roepen Lurkers te hulp als hun health laag wordt. De [dungeonvideo van Blizzard](/nl/news/blizzard-shows-three-launch-dungeons-in-a-video/) voegt eraan toe dat verschillende soorten raptors in het gras in stealth zitten.
 
 Blijf op het smalle pad en uit het gras, en vecht op open plekken. Zit er een Matriarch in een pull, dood dan eerst de andere monsters, zodat er zo weinig mogelijk over zijn als de Lurkers komen.
 

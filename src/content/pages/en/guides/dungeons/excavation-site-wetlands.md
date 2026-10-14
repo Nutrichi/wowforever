@@ -3,7 +3,7 @@ title: "Excavation Site: Wetlands, the dungeon guide for WoW Forever"
 metaTitle: "Excavation Site: Wetlands in WoW Forever: entrance, quests, bosses and loot"
 description: "Excavation Site: Wetlands, a new dungeon in WoW Forever: the way in over the new roads of the Wetlands, the quests for both factions, the raptors in the tall grass, the four bosses and their loot."
 short: "Excavation Site"
-updated: 2026-10-09
+updated: 2026-10-14
 lang: en
 faq:
   - q: "What level is the Excavation Site in WoW Forever?"
@@ -203,7 +203,7 @@ The level is the lowest level at which the quest can be picked up, according to 
 
 ## The tall grass
 
-The most dangerous part of the dungeon is the area before Saltspine and Shadetooth. **Thicket Lurkers** do not wait in stealth: they spawn when you walk through the tall grass long enough. **Thicket Matriarchs** call Lurkers to their aid when their health runs low.
+The most dangerous part of the dungeon is the area before Saltspine and Shadetooth. **Thicket Lurkers** do not wait in stealth: they spawn when you walk through the tall grass long enough. **Thicket Matriarchs** call Lurkers to their aid when their health runs low. Blizzard's [dungeon video](/news/blizzard-shows-three-launch-dungeons-in-a-video/) adds that several of the raptor types in the grass are stealthed.
 
 Stay on the narrow path and out of the grass, and fight in open spots. When a Matriarch is in a pull, kill the other monsters first, so there are as few left as possible when the Lurkers arrive.
 
