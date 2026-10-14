@@ -17,7 +17,7 @@ import { render } from 'astro:content';
 import type { Locale } from '../../i18n/ui';
 import { localeTags } from '../../i18n/ui';
 import { localizePath, useTranslations } from '../../i18n/utils';
-import { isPartnerLink, restedxpUrl, zygorPages, zygorUrl } from '../../config/site';
+import { isPartnerLink, restedxpPages, restedxpUrl, zygorPages, zygorUrl } from '../../config/site';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getPage, getPages, pagePath } from '../../lib/pages';
 import { pageT } from '../../i18n/pages';
@@ -171,7 +171,7 @@ const jsonLd = {
       </section>
     )}
 
-    {inGroup && (
+    {(inGroup || restedxpPages.includes(page.key)) && (
       <aside class="wf-rxpblock" data-pagefind-ignore>
         <p>{g('restedxpText')}</p>
         <a href={restedxpUrl} rel="noopener sponsored">{g('restedxpButton')}</a>

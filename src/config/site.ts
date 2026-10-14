@@ -46,6 +46,13 @@ export const zygorUrl = 'https://zygorguides.com/ref/Nutri/';
 export const kofiUrl = 'https://ko-fi.com/nutri_wow';
 
 /**
+ * Pagina's buiten routes en vergelijkingen die toch het RestedXP-blok onderaan
+ * dragen (Nutri, 14 oktober 2026: de ervaringsgids moet RestedXP met de
+ * korting van 10% noemen).
+ */
+export const restedxpPages = ['guides/experience'];
+
+/**
  * De vergelijkingen die onder het RestedXP-blok ook een Zygor-blok dragen
  * (Nutri, 25 september 2026). RestedXP blijft bovenaan; Zygor staat eronder.
  */

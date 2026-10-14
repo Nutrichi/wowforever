@@ -13004,6 +13004,12 @@
 "q": 1,
 "t": "i"
 },
+"Abolish Disease": {
+"icon": "spell_nature_nullifydisease",
+"id": 552,
+"q": -1,
+"t": "s"
+},
 "Abominable Head": {
 "icon": "ui_darkshore_warfront_horde_abomination",
 "id": 280438,
@@ -14168,6 +14174,12 @@
 "q": -1,
 "t": "s"
 },
+"Chastise": {
+"icon": "spell_holy_chastise",
+"id": 1277331,
+"q": -1,
+"t": "s"
+},
 "Cheap Shot": {
 "icon": "ability_cheapshot",
 "id": 1833,
@@ -14678,6 +14690,12 @@
 "q": 1,
 "t": "i"
 },
+"Desperate Prayer": {
+"icon": "spell_holy_restoration",
+"id": 13908,
+"q": -1,
+"t": "s"
+},
 "Destructive Reach": {
 "icon": "spell_shadow_corpseexplode",
 "id": 17917,
@@ -14732,6 +14750,12 @@
 "q": 1,
 "t": "i"
 },
+"Dispel Magic": {
+"icon": "spell_holy_dispelmagic",
+"id": 527,
+"q": -1,
+"t": "s"
+},
 "Distracting Pain": {
 "icon": "ability_racial_cannibalize",
 "id": 3603,
@@ -14741,6 +14765,18 @@
 "Divine Aegis": {
 "icon": "spell_holy_devineaegis",
 "id": 431622,
+"q": -1,
+"t": "s"
+},
+"Divine Fury": {
+"icon": "spell_holy_sealofwrath",
+"id": 18530,
+"q": -1,
+"t": "s"
+},
+"Divine Grace": {
+"icon": "ability_priest_savinggrace",
+"id": 1277370,
 "q": -1,
 "t": "s"
 },
@@ -14899,6 +14935,12 @@
 "id": 247755,
 "q": 1,
 "t": "i"
+},
+"Elune's Grace": {
+"icon": "spell_holy_elunesgrace",
+"id": 2651,
+"q": -1,
+"t": "s"
 },
 "Embossed Leather Boots": {
 "alt": {
@@ -15145,6 +15187,12 @@
 "id": 16762,
 "q": 1,
 "t": "i"
+},
+"Fear Ward": {
+"icon": "spell_holy_excorcism",
+"id": 6346,
+"q": -1,
+"t": "s"
 },
 "Feign Death": {
 "icon": "ability_rogue_feigndeath",
@@ -15403,6 +15451,12 @@
 "id": 4852,
 "q": 1,
 "t": "i"
+},
+"Flash Heal": {
+"icon": "spell_holy_flashheal",
+"id": 2061,
+"q": -1,
+"t": "s"
 },
 "Flawless Execution": {
 "icon": "inv_sword_35",
@@ -15902,6 +15956,12 @@
 "q": 2,
 "t": "i"
 },
+"Greater Heal": {
+"icon": "spell_holy_greaterheal",
+"id": 2060,
+"q": -1,
+"t": "s"
+},
 "Greater Healing Potion": {
 "alt": {
 "icon": "inv_potion_52",
@@ -16220,6 +16280,12 @@
 "q": -1,
 "t": "s"
 },
+"Hex of Weakness": {
+"icon": "spell_shadow_fingerofdeath",
+"id": 9035,
+"q": -1,
+"t": "s"
+},
 "High Alert": {
 "icon": "spell_shadow_detectlesserinvisibility",
 "id": 1225477,
@@ -16274,6 +16340,12 @@
 "q": -1,
 "t": "s"
 },
+"Holy Nova": {
+"icon": "spell_holy_holynova",
+"id": 15237,
+"q": -1,
+"t": "s"
+},
 "Holy Power": {
 "icon": "spell_holy_power",
 "id": 5923,
@@ -16295,6 +16367,12 @@
 "Holy Shock": {
 "icon": "spell_holy_searinglight",
 "id": 20473,
+"q": -1,
+"t": "s"
+},
+"Holy Specialization": {
+"icon": "spell_holy_sealofsalvation",
+"id": 14889,
 "q": -1,
 "t": "s"
 },
@@ -16424,9 +16502,27 @@
 "q": -1,
 "t": "s"
 },
+"Improved Healing": {
+"icon": "spell_holy_heal02",
+"id": 14912,
+"q": -1,
+"t": "s"
+},
 "Improved Holy Strike": {
 "icon": "classicon_paladin",
 "id": 1310902,
+"q": -1,
+"t": "s"
+},
+"Improved Mind Blast": {
+"icon": "spell_shadow_unholyfrenzy",
+"id": 15273,
+"q": -1,
+"t": "s"
+},
+"Improved Mind Flay": {
+"icon": "spell_shadow_soulleech_2",
+"id": 1225139,
 "q": -1,
 "t": "s"
 },
@@ -16436,9 +16532,21 @@
 "q": -1,
 "t": "s"
 },
+"Improved Power Word: Shield": {
+"icon": "spell_holy_powerwordshield",
+"id": 14748,
+"q": -1,
+"t": "s"
+},
 "Improved Scorch": {
 "icon": "spell_fire_windsofwoe",
 "id": 11095,
+"q": -1,
+"t": "s"
+},
+"Improved Shadow Word: Pain": {
+"icon": "spell_shadow_shadowwordpain",
+"id": 15275,
 "q": -1,
 "t": "s"
 },
@@ -16481,6 +16589,18 @@
 "Incinerate": {
 "icon": "spell_fire_burnout",
 "id": 412758,
+"q": -1,
+"t": "s"
+},
+"Inner Fire": {
+"icon": "spell_holy_innerfire",
+"id": 588,
+"q": -1,
+"t": "s"
+},
+"Inner Focus": {
+"icon": "spell_frost_windwalkon",
+"id": 14751,
 "q": -1,
 "t": "s"
 },
@@ -16946,6 +17066,12 @@
 "q": -1,
 "t": "s"
 },
+"Litany of Light": {
+"icon": "inv_scroll_07",
+"id": 1317006,
+"q": -1,
+"t": "s"
+},
 "Living Essence": {
 "icon": "spell_nature_abolishmagic",
 "id": 12803,
@@ -17282,15 +17408,39 @@
 "q": 1,
 "t": "i"
 },
+"Meditation": {
+"icon": "spell_nature_sleep",
+"id": 14521,
+"q": -1,
+"t": "s"
+},
+"Mental Agility": {
+"icon": "ability_hibernation",
+"id": 14520,
+"q": -1,
+"t": "s"
+},
 "Mental Quickness": {
 "icon": "spell_nature_sleep",
 "id": 30812,
 "q": -1,
 "t": "s"
 },
+"Mental Strength": {
+"icon": "spell_nature_enchantarmor",
+"id": 18551,
+"q": -1,
+"t": "s"
+},
 "Mind Blast": {
 "icon": "spell_shadow_unholyfrenzy",
 "id": 8092,
+"q": -1,
+"t": "s"
+},
+"Mind Control": {
+"icon": "spell_shadow_shadowworddominate",
+"id": 605,
 "q": -1,
 "t": "s"
 },
@@ -18140,6 +18290,12 @@
 "q": 1,
 "t": "i"
 },
+"Power Infusion": {
+"icon": "spell_holy_powerinfusion",
+"id": 10060,
+"q": -1,
+"t": "s"
+},
 "Powerful Poultice": {
 "alt": {
 "icon": "inv_10_alchemy2_quenchingfluid_color1",
@@ -18277,6 +18433,12 @@
 "id": 20440,
 "q": 3,
 "t": "i"
+},
+"Psychic Scream": {
+"icon": "spell_shadow_psychicscream",
+"id": 8122,
+"q": -1,
+"t": "s"
 },
 "Purple Lotus": {
 "alt": {
@@ -18968,9 +19130,21 @@
 "q": 1,
 "t": "i"
 },
+"Shackle Undead": {
+"icon": "spell_nature_slow",
+"id": 9484,
+"q": -1,
+"t": "s"
+},
 "Shadow Bolt": {
 "icon": "spell_shadow_shadowbolt",
 "id": 686,
+"q": -1,
+"t": "s"
+},
+"Shadow Focus": {
+"icon": "spell_shadow_burningspirit",
+"id": 15260,
 "q": -1,
 "t": "s"
 },
@@ -18980,17 +19154,35 @@
 "q": -1,
 "t": "s"
 },
+"Shadow Word: Death": {
+"icon": "spell_shadow_demonicfortitude",
+"id": 401955,
+"q": -1,
+"t": "s"
+},
 "Shadowforge Key": {
 "icon": "inv_misc_key_08",
 "id": 11000,
 "q": 1,
 "t": "i"
 },
+"Shadowform": {
+"icon": "spell_shadow_shadowform",
+"id": 15473,
+"q": -1,
+"t": "s"
+},
 "Shadowgale Squirrel": {
 "icon": "inv_squirrelflying_albino",
 "id": 280347,
 "q": 1,
 "t": "i"
+},
+"Shadowguard": {
+"icon": "spell_nature_lightningshield",
+"id": 18137,
+"q": -1,
+"t": "s"
 },
 "Shamanistic Focus": {
 "icon": "spell_nature_elementalabsorption",
@@ -19514,6 +19706,12 @@
 "q": 1,
 "t": "i"
 },
+"Starshards": {
+"icon": "spell_arcane_starfire",
+"id": 10797,
+"q": -1,
+"t": "s"
+},
 "Steaming Stag Steak": {
 "alt": {
 "icon": "inv_misc_food_meat_cooked_01",
@@ -19862,6 +20060,12 @@
 "q": 2,
 "t": "i"
 },
+"Talented": {
+"icon": "ability_marksmanship",
+"id": 1225474,
+"q": -1,
+"t": "s"
+},
 "Talisman of Arathor": {
 "icon": "inv_jewelry_talisman_05",
 "id": 21119,
@@ -20126,6 +20330,12 @@
 "q": -1,
 "t": "s"
 },
+"Touch of Weakness": {
+"icon": "spell_shadow_deadofnight",
+"id": 2652,
+"q": -1,
+"t": "s"
+},
 "Toughened Leather Armor": {
 "alt": {
 "icon": "inv_chest_leather_10",
@@ -20300,6 +20510,12 @@
 "q": -1,
 "t": "s"
 },
+"Twin Disciplines": {
+"icon": "spell_holy_sealofvengeance",
+"id": 1225132,
+"q": -1,
+"t": "s"
+},
 "Twist of Light": {
 "icon": "spell_holy_blessedresillience",
 "id": 1310735,
@@ -20453,6 +20669,12 @@
 "Walk on Air": {
 "icon": "inv_elemental_primal_air",
 "id": 1259416,
+"q": -1,
+"t": "s"
+},
+"Wand Specialization": {
+"icon": "inv_wand_01",
+"id": 6057,
 "q": -1,
 "t": "s"
 },

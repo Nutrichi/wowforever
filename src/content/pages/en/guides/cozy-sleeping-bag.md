@@ -24,7 +24,7 @@ You need to be level 14 to start.
 
 ## What the sleeping bag does
 
-Unfurl it and lie in it. Every minute spent resting gives 1 percent bonus experience, stacking up to 3 percent. The buff holds for an hour, and the item goes on a one-hour cooldown. While you lie in the bag you also count as rested.
+Unfurl it and lie in it. Every minute spent resting gives 1 percent bonus experience, stacking up to 3 percent. The buff holds for an hour, and the item goes on a one-hour cooldown. While you lie in the bag you also count as rested. How it stacks with rested XP, food and camps is in the [experience guide](/guides/experience/).
 
 Three percent on its own is small. Stacked with other buffs, such as the 5 percent from cooking, it adds up on a long evening.
 

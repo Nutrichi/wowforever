@@ -1,7 +1,7 @@
 ---
 title: "Guide per WoW Forever"
 metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
-description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, la Night Watchman's Torch, ogni combinazione di razza e classe, il Restoration Druid, il Mage, l'Affliction Warlock, il camping, la BMAH, ogni mascotte, e i percorsi, le guide di classe e le guide delle professioni del sito."
+description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, la Night Watchman's Torch, ogni combinazione di razza e classe, il Restoration Druid, il Mage, l'Affliction Warlock, il Priest, l'esperienza e il riposo, il camping, la BMAH, ogni mascotte, e i percorsi, le guide di classe e le guide delle professioni del sito."
 short: "Guide"
 updated: 2026-10-13
 lang: it

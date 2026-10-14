@@ -25,7 +25,7 @@ Für den Start braucht es Stufe 14.
 
 ## Was der Schlafsack macht
 
-Roll ihn aus und leg dich hinein. Jede Minute Rast gibt 1 Prozent Bonuserfahrung, bis zu 3 Prozent. Der Buff hält eine Stunde, der Gegenstand geht eine Stunde auf Abklingzeit. Solange du im Sack liegst, zählst du zudem als ausgeruht.
+Roll ihn aus und leg dich hinein. Jede Minute Rast gibt 1 Prozent Bonuserfahrung, bis zu 3 Prozent. Der Buff hält eine Stunde, der Gegenstand geht eine Stunde auf Abklingzeit. Solange du im Sack liegst, zählst du zudem als ausgeruht. Wie er mit Erholungs-EP, Essen und Lagern zusammenwirkt, steht im [Erfahrungsguide](/de/guides/experience/).
 
 Drei Prozent für sich sind wenig. Zusammen mit anderen Buffs, etwa den 5 Prozent aus dem Kochen, summiert sich das an einem langen Abend.
 

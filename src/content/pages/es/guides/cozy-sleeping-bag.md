@@ -25,7 +25,7 @@ Hay que ser nivel 14 para empezar.
 
 ## Qué hace el saco de dormir
 
-Despliégalo y túmbate dentro. Cada minuto de descanso da un 1 por ciento de experiencia extra, hasta un 3 por ciento. El efecto aguanta una hora y el objeto entra en una hora de reutilización. Mientras estás en el saco también cuentas como descansado.
+Despliégalo y túmbate dentro. Cada minuto de descanso da un 1 por ciento de experiencia extra, hasta un 3 por ciento. El efecto aguanta una hora y el objeto entra en una hora de reutilización. Mientras estás en el saco también cuentas como descansado. Cómo se acumula con la experiencia de descanso, la comida y los campamentos se explica en la [guía de experiencia](/es/guides/experience/).
 
 Un 3 por ciento por sí solo es poco. Sumado a otros efectos, como el 5 por ciento de la cocina, cunde en una noche larga.
 

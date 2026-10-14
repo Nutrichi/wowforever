@@ -25,7 +25,7 @@ Serve il livello 14 per cominciare.
 
 ## Cosa fa il sacco a pelo
 
-Srotolalo e sdraiati dentro. Ogni minuto di riposo dà l’1 per cento di esperienza bonus, fino al 3 per cento. Il buff tiene un’ora e l’oggetto va un’ora in recupero. Finché sei nel sacco conti anche come riposato.
+Srotolalo e sdraiati dentro. Ogni minuto di riposo dà l’1 per cento di esperienza bonus, fino al 3 per cento. Il buff tiene un’ora e l’oggetto va un’ora in recupero. Finché sei nel sacco conti anche come riposato. Come si somma all’esperienza riposata, al cibo e ai campi è spiegato nella [guida all’esperienza](/it/guides/experience/).
 
 Il 3 per cento da solo è poco. Sommato ad altri buff, come il 5 per cento della cucina, in una serata lunga si sente.
 

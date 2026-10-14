@@ -25,7 +25,7 @@ Je moet level 14 zijn om te beginnen.
 
 ## Wat de slaapzak doet
 
-Rol hem uit en ga erin liggen. Elke minuut rust geeft 1 procent extra ervaring, tot 3 procent. De buff houdt een uur aan en het item gaat een uur op cooldown. Zolang je in de zak ligt, tel je bovendien als rested.
+Rol hem uit en ga erin liggen. Elke minuut rust geeft 1 procent extra ervaring, tot 3 procent. De buff houdt een uur aan en het item gaat een uur op cooldown. Zolang je in de zak ligt, tel je bovendien als rested. Hoe dat stapelt met rested XP, eten en kampen, staat in de [ervaringsgids](/nl/guides/experience/).
 
 Drie procent op zich is weinig. Gestapeld met andere buffs, zoals de 5 procent uit cooking, telt het op een lange avond aan.
 

@@ -25,7 +25,7 @@ Il faut être niveau 14 pour commencer.
 
 ## Ce que fait le sac de couchage
 
-Déroulez-le et allongez-vous dedans. Chaque minute de repos donne 1 pour cent d’expérience bonus, jusqu’à 3 pour cent. Le buff tient une heure et l’objet passe une heure en temps de recharge. Tant que vous êtes dans le sac, vous comptez aussi comme reposé.
+Déroulez-le et allongez-vous dedans. Chaque minute de repos donne 1 pour cent d’expérience bonus, jusqu’à 3 pour cent. Le buff tient une heure et l’objet passe une heure en temps de recharge. Tant que vous êtes dans le sac, vous comptez aussi comme reposé. Comment il se cumule avec l’XP reposée, la nourriture et les camps est expliqué dans le [guide de l’expérience](/fr/guides/experience/).
 
 Trois pour cent, seul, c’est peu. Cumulé avec d’autres buffs, comme les 5 pour cent de la cuisine, cela finit par compter sur une longue soirée.
 
