@@ -21,6 +21,6 @@ Forever legt [drei Schiffsrouten](/de/news/wow-forever-three-new-ship-routes/) z
 
 Classic-Spieler kennen die Zeppelintürme auswendig, aber Forever verschiebt das Bild. Eine neue Zone heißt neue Anleger, und eine zwanzig Jahre alte Route kann jetzt woanders enden.
 
-Das Werkzeug hilft in zwei Richtungen. Willst du in einen Dungeon, prüfst du, welcher Zeppelin aus Orgrimmar dich am nächsten absetzt. Willst du nach The Riverglades, siehst du, dass dich das Schiff aus Gadgetzan hinbringt.
+Das Werkzeug hilft in zwei Richtungen. Willst du in einen Dungeon, prüfst du, welcher Zeppelin aus Orgrimmar dich am nächsten absetzt. Willst du nach The Riverglades, siehst du, dass dich das Schiff aus Gadgetzan hinbringt. Für den Weg durch die Luft listet der [Guide zu den Flugrouten](/de/guides/flight-paths/) jeden Flugmeister in Forever auf.
 
 Wowhead sagt, es nehme Vorschläge entgegen, was das Werkzeug als Nächstes können soll. Die Routen selbst stammen aus der Beta und können sich vor dem Start noch ändern.

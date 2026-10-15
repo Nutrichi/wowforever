@@ -21,6 +21,6 @@ Forever ajoute [trois routes maritimes](/fr/news/wow-forever-three-new-ship-rout
 
 Les joueurs de Classic connaissent les tours à zeppelin par coeur, mais Forever change la donne. Une nouvelle zone signifie de nouveaux quais, et une route vieille de vingt ans peut désormais finir ailleurs.
 
-L’outil sert dans les deux sens. Pour un donjon, vous vérifiez quel zeppelin d’Orgrimmar vous dépose au plus près. Pour The Riverglades, vous voyez que le bateau de Gadgetzan vous y emmène.
+L’outil sert dans les deux sens. Pour un donjon, vous vérifiez quel zeppelin d’Orgrimmar vous dépose au plus près. Pour The Riverglades, vous voyez que le bateau de Gadgetzan vous y emmène. Pour voyager par les airs, le [guide des trajets aériens](/fr/guides/flight-paths/) liste chaque maître de vol de Forever.
 
 Wowhead dit accueillir les suggestions pour la suite de l’outil. Les routes elles-mêmes viennent de la bêta et peuvent encore changer avant la sortie.

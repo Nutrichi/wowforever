@@ -21,6 +21,6 @@ Forever aggiunge [tre rotte navali](/it/news/wow-forever-three-new-ship-routes/)
 
 I giocatori di Classic conoscono a memoria le torri degli zeppelin, ma Forever cambia il quadro. Una zona nuova vuol dire moli nuovi, e una rotta vecchia di vent’anni può finire altrove.
 
-Lo strumento serve in due direzioni. Se vai in un dungeon, controlli quale zeppelin da Orgrimmar ti lascia più vicino. Se vai a The Riverglades, vedi che la nave da Gadgetzan ti ci porta.
+Lo strumento serve in due direzioni. Se vai in un dungeon, controlli quale zeppelin da Orgrimmar ti lascia più vicino. Se vai a The Riverglades, vedi che la nave da Gadgetzan ti ci porta. Per viaggiare in volo, la [guida alle rotte di volo](/it/guides/flight-paths/) elenca ogni maestro di volo di Forever.
 
 Wowhead dice di accogliere suggerimenti su cosa debba fare ancora lo strumento. Le rotte vengono dalla beta, quindi possono ancora cambiare prima dell’uscita.

@@ -21,6 +21,6 @@ Forever suma [tres rutas de barco](/es/news/wow-forever-three-new-ship-routes/) 
 
 Los jugadores de Classic se saben las torres de zepelín de memoria, pero Forever cambia el cuadro. Una zona nueva significa muelles nuevos, y una ruta de veinte años puede acabar ahora en otro sitio.
 
-La herramienta sirve en dos direcciones. Si vas a una mazmorra, puedes mirar qué zepelín de Orgrimmar te deja más cerca. Si vas a The Riverglades, ves que el barco de Gadgetzan te lleva.
+La herramienta sirve en dos direcciones. Si vas a una mazmorra, puedes mirar qué zepelín de Orgrimmar te deja más cerca. Si vas a The Riverglades, ves que el barco de Gadgetzan te lleva. Para viajar por el aire, la [guía de rutas de vuelo](/es/guides/flight-paths/) recoge cada maestro de vuelo de Forever.
 
 Wowhead dice que acepta sugerencias sobre qué debería hacer la herramienta después. Las rutas vienen de la beta, así que aún pueden cambiar antes del lanzamiento.

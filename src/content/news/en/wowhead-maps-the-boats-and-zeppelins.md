@@ -20,6 +20,6 @@ Forever adds [three ship routes](/news/wow-forever-three-new-ship-routes/) on to
 
 Classic players know the zeppelin towers by heart, but Forever changes the picture. A new zone means new docks, and a route that existed for twenty years may now end somewhere else.
 
-The tool is useful in two directions. Heading for a dungeon, you can check which zeppelin from Orgrimmar drops you closest. Heading for The Riverglades, you can see that the boat from Gadgetzan gets you there.
+The tool is useful in two directions. Heading for a dungeon, you can check which zeppelin from Orgrimmar drops you closest. Heading for The Riverglades, you can see that the boat from Gadgetzan gets you there. For the way through the air, the [flight paths guide](/guides/flight-paths/) lists every flight master in Forever.
 
 Wowhead says it welcomes suggestions for what the tool should do next. The routes themselves come from the beta, so they can still change before launch.

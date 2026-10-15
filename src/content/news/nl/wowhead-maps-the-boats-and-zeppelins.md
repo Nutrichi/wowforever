@@ -21,6 +21,6 @@ Forever legt [drie scheepsroutes](/nl/news/wow-forever-three-new-ship-routes/) b
 
 Classic-spelers kennen de zeppelintorens uit het hoofd, maar Forever verandert het beeld. Een nieuwe zone betekent nieuwe steigers, en een route die twintig jaar bestond, kan nu ergens anders eindigen.
 
-De tool helpt in twee richtingen. Ga je naar een dungeon, dan kan je nakijken welke zeppelin uit Orgrimmar je het dichtst afzet. Ga je naar The Riverglades, dan zie je dat de boot uit Gadgetzan je er brengt.
+De tool helpt in twee richtingen. Ga je naar een dungeon, dan kan je nakijken welke zeppelin uit Orgrimmar je het dichtst afzet. Ga je naar The Riverglades, dan zie je dat de boot uit Gadgetzan je er brengt. Voor de weg door de lucht staat elke flight master van Forever in de [gids over vluchtroutes](/nl/guides/flight-paths/).
 
 Wowhead zegt suggesties te willen voor wat de tool verder moet kunnen. De routes zelf komen uit de beta, dus ze kunnen voor de lancering nog veranderen.
