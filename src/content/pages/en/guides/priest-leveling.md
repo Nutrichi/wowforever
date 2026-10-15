@@ -3,7 +3,7 @@ title: "Priest leveling guide for WoW Forever"
 metaTitle: "WoW Forever Priest leveling guide: Discipline, Holy and Shadow builds to 30"
 description: "How to level a Priest in WoW Forever: three level 30 builds for Discipline, Holy and Shadow, the rotation, key levels, racial spells, wands, professions, mana and healing."
 short: "Priest leveling"
-updated: 2026-10-14
+updated: 2026-10-15
 lang: en
 faq:
   - q: "What is the best spec to level a Priest in WoW Forever?"
@@ -125,14 +125,21 @@ For Shadow, shadow power counts with Intellect and spell damage. With points in 
 | 5 | Lesser Magic Wand, apprentice professions | Enchanting, profession trainers |
 | 10 | First racial spell | Class quest |
 | 13 | Greater Magic Wand | Enchanting |
-| 20 | Second racial spell, Fear Ward, Devouring Plague, Flash Heal, Holy Fire | Class quest, class trainer |
+| 20 | Second racial spell, Fear Ward, Devouring Plague, Flash Heal, Holy Fire, Shackle Undead, Mind Soothe | Class quest, class trainer |
 | 20 | Mind Flay, Inner Focus, Holy Nova | Talent tree |
+| 22 | Mind Vision | Class trainer |
+| 24 | Mana Burn | Class trainer |
 | 25 | Vampiric Embrace, Binding Heal | Talent tree |
-| 30 | Divine Spirit, Prayer of Healing, Mind Control | Class trainer |
+| 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Class trainer |
 | 30 | Penance, Silence | Talent tree |
 | 32 | Shadow Word: Death, Abolish Disease | Class trainer |
+| 34 | Levitate | Class trainer |
+| 35 | Artisan professions | Profession trainers |
 | 40 | Greater Heal, riding, Dual Specialization | Trainers |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Talent tree |
+| 48 | Prayer of Fortitude | Class trainer |
+| 56 | Prayer of Shadow Protection | Class trainer |
+| 60 | Prayer of Spirit | Class trainer |
 
 Earlier spells come from the class trainer: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1243"><img class="wf-wh__icon" src="/wh/spell_holy_wordfortitude.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Fortitude</a> at 1, Shadow Word: Pain at 4, Power Word: Shield at 6, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=139"><img class="wf-wh__icon" src="/wh/spell_holy_renew.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Renew</a> and Fade at 8, Mind Blast and Resurrection at 10, Inner Fire at 12, Psychic Scream and Cure Disease at 14, Heal at 16 and Dispel Magic at 18.
 

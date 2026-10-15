@@ -3,7 +3,7 @@ title: "Priest levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Priest levelgids: builds voor Discipline, Holy en Shadow tot 30"
 description: "Zo level je een Priest in WoW Forever: drie builds voor level 30 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, tradeskills, mana en healen."
 short: "Priest levelen"
-updated: 2026-10-14
+updated: 2026-10-15
 lang: nl
 manual: true
 faq:
@@ -126,14 +126,21 @@ Voor Shadow telt shadow power mee naast Intellect en spell damage. Met punten in
 | 5 | Lesser Magic Wand, beginnende tradeskills | Enchanting, tradeskilltrainers |
 | 10 | Eerste racial spell | Classquest |
 | 13 | Greater Magic Wand | Enchanting |
-| 20 | Tweede racial spell, Fear Ward, Devouring Plague, Flash Heal, Holy Fire | Classquest, classtrainer |
+| 20 | Tweede racial spell, Fear Ward, Devouring Plague, Flash Heal, Holy Fire, Shackle Undead, Mind Soothe | Classquest, classtrainer |
 | 20 | Mind Flay, Inner Focus, Holy Nova | Talentboom |
+| 22 | Mind Vision | Classtrainer |
+| 24 | Mana Burn | Classtrainer |
 | 25 | Vampiric Embrace, Binding Heal | Talentboom |
-| 30 | Divine Spirit, Prayer of Healing, Mind Control | Classtrainer |
+| 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Classtrainer |
 | 30 | Penance, Silence | Talentboom |
 | 32 | Shadow Word: Death, Abolish Disease | Classtrainer |
+| 34 | Levitate | Classtrainer |
+| 35 | Tradeskills op Artisan | Tradeskilltrainers |
 | 40 | Greater Heal, rijden, Dual Specialization | Trainers |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Talentboom |
+| 48 | Prayer of Fortitude | Classtrainer |
+| 56 | Prayer of Shadow Protection | Classtrainer |
+| 60 | Prayer of Spirit | Classtrainer |
 
 Eerdere spreuken komen van de classtrainer: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1243"><img class="wf-wh__icon" src="/wh/spell_holy_wordfortitude.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Fortitude</a> op 1, Shadow Word: Pain op 4, Power Word: Shield op 6, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=139"><img class="wf-wh__icon" src="/wh/spell_holy_renew.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Renew</a> en Fade op 8, Mind Blast en Resurrection op 10, Inner Fire op 12, Psychic Scream en Cure Disease op 14, Heal op 16 en Dispel Magic op 18.
 

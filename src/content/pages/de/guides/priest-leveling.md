@@ -3,7 +3,7 @@ title: "Priest leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Priest Leveling-Guide: Builds für Discipline, Holy und Shadow bis 30"
 description: "So levelst du einen Priest in WoW Forever: drei Builds für Level 30 für Discipline, Holy und Shadow, die Rotation, wichtige Level, Volkszauber, Zauberstäbe, Berufe, Mana und Heilung."
 short: "Priest leveln"
-updated: 2026-10-14
+updated: 2026-10-15
 lang: de
 manual: true
 faq:
@@ -126,14 +126,21 @@ Für Shadow zählt Schattenmacht neben Intellect und Zaubermacht. Mit Punkten in
 | 5 | Lesser Magic Wand, Lehrlingsberufe | Enchanting, Berufslehrer |
 | 10 | Erster Volkszauber | Klassenquest |
 | 13 | Greater Magic Wand | Enchanting |
-| 20 | Zweiter Volkszauber, Fear Ward, Devouring Plague, Flash Heal, Holy Fire | Klassenquest, Klassenlehrer |
+| 20 | Zweiter Volkszauber, Fear Ward, Devouring Plague, Flash Heal, Holy Fire, Shackle Undead, Mind Soothe | Klassenquest, Klassenlehrer |
 | 20 | Mind Flay, Inner Focus, Holy Nova | Talentbaum |
+| 22 | Mind Vision | Klassenlehrer |
+| 24 | Mana Burn | Klassenlehrer |
 | 25 | Vampiric Embrace, Binding Heal | Talentbaum |
-| 30 | Divine Spirit, Prayer of Healing, Mind Control | Klassenlehrer |
+| 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Klassenlehrer |
 | 30 | Penance, Silence | Talentbaum |
 | 32 | Shadow Word: Death, Abolish Disease | Klassenlehrer |
+| 34 | Levitate | Klassenlehrer |
+| 35 | Berufe auf Artisan | Berufslehrer |
 | 40 | Greater Heal, Reiten, Dual Specialization | Lehrer |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Talentbaum |
+| 48 | Prayer of Fortitude | Klassenlehrer |
+| 56 | Prayer of Shadow Protection | Klassenlehrer |
+| 60 | Prayer of Spirit | Klassenlehrer |
 
 Frühere Zauber kommen vom Klassenlehrer: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1243"><img class="wf-wh__icon" src="/wh/spell_holy_wordfortitude.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Fortitude</a> auf 1, Shadow Word: Pain auf 4, Power Word: Shield auf 6, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=139"><img class="wf-wh__icon" src="/wh/spell_holy_renew.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Renew</a> und Fade auf 8, Mind Blast und Resurrection auf 10, Inner Fire auf 12, Psychic Scream und Cure Disease auf 14, Heal auf 16 und Dispel Magic auf 18.
 

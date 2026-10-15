@@ -76,6 +76,7 @@ export const hubCategories: HubCategory[] = [
       { key: 'mage-leveling', image: '2026-10-08-wow-forever-mage-talent-trees.jpg' },
       { key: 'affliction-warlock', image: '2026-10-08-wow-forever-warlock-talent-trees.jpg' },
       { key: 'priest-leveling', image: '2026-10-01-wow-forever-priest-talent-trees.jpg' },
+      { key: 'rogue-leveling', image: '2026-10-08-wow-forever-rogue-talent-trees.jpg' },
       { key: '/classes', label: 'cardClasses', image: '2026-09-13-wow-forever-key-art.jpg' },
     ],
   },

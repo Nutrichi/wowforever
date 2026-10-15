@@ -3,7 +3,7 @@ title: "Guía para subir de nivel un Priest en WoW Forever"
 metaTitle: "Guía de leveling de Priest en WoW Forever: builds de Discipline, Holy y Shadow hasta el 30"
 description: "Cómo subir un Priest en WoW Forever: tres builds de nivel 30 para Discipline, Holy y Shadow, la rotación, los niveles clave, los hechizos raciales, las varitas, las profesiones, el maná y la sanación."
 short: "Leveling de Priest"
-updated: 2026-10-14
+updated: 2026-10-15
 lang: es
 manual: true
 faq:
@@ -126,14 +126,21 @@ En Shadow, el poder de sombras cuenta junto al Intellect y el poder con hechizos
 | 5 | Lesser Magic Wand, profesiones de aprendiz | Enchanting, instructores de profesión |
 | 10 | Primer hechizo racial | Misión de clase |
 | 13 | Greater Magic Wand | Enchanting |
-| 20 | Segundo hechizo racial, Fear Ward, Devouring Plague, Flash Heal, Holy Fire | Misión de clase, instructor de clase |
+| 20 | Segundo hechizo racial, Fear Ward, Devouring Plague, Flash Heal, Holy Fire, Shackle Undead, Mind Soothe | Misión de clase, instructor de clase |
 | 20 | Mind Flay, Inner Focus, Holy Nova | Árbol de talentos |
+| 22 | Mind Vision | Instructor de clase |
+| 24 | Mana Burn | Instructor de clase |
 | 25 | Vampiric Embrace, Binding Heal | Árbol de talentos |
-| 30 | Divine Spirit, Prayer of Healing, Mind Control | Instructor de clase |
+| 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Instructor de clase |
 | 30 | Penance, Silence | Árbol de talentos |
 | 32 | Shadow Word: Death, Abolish Disease | Instructor de clase |
+| 34 | Levitate | Instructor de clase |
+| 35 | Profesiones Artisan | Instructores de profesión |
 | 40 | Greater Heal, equitación, Dual Specialization | Instructores |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Árbol de talentos |
+| 48 | Prayer of Fortitude | Instructor de clase |
+| 56 | Prayer of Shadow Protection | Instructor de clase |
+| 60 | Prayer of Spirit | Instructor de clase |
 
 Los hechizos anteriores vienen del instructor de clase: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1243"><img class="wf-wh__icon" src="/wh/spell_holy_wordfortitude.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Fortitude</a> en el 1, Shadow Word: Pain en el 4, Power Word: Shield en el 6, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=139"><img class="wf-wh__icon" src="/wh/spell_holy_renew.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Renew</a> y Fade en el 8, Mind Blast y Resurrection en el 10, Inner Fire en el 12, Psychic Scream y Cure Disease en el 14, Heal en el 16 y Dispel Magic en el 18.
 

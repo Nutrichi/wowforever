@@ -3,7 +3,7 @@ title: "Guide de montée en niveau du Priest dans WoW Forever"
 metaTitle: "Guide de leveling Priest WoW Forever : builds Discipline, Holy et Shadow jusqu'au 30"
 description: "Comment monter un Priest dans WoW Forever : trois builds niveau 30 pour Discipline, Holy et Shadow, la rotation, les niveaux clés, les sorts raciaux, les baguettes, les métiers, le mana et les soins."
 short: "Leveling du Priest"
-updated: 2026-10-14
+updated: 2026-10-15
 lang: fr
 manual: true
 faq:
@@ -126,14 +126,21 @@ En Shadow, la puissance d'ombre compte avec l'Intellect et la puissance des sort
 | 5 | Lesser Magic Wand, métiers apprenti | Enchanting, maîtres de métier |
 | 10 | Premier sort racial | Quête de classe |
 | 13 | Greater Magic Wand | Enchanting |
-| 20 | Deuxième sort racial, Fear Ward, Devouring Plague, Flash Heal, Holy Fire | Quête de classe, maître de classe |
+| 20 | Deuxième sort racial, Fear Ward, Devouring Plague, Flash Heal, Holy Fire, Shackle Undead, Mind Soothe | Quête de classe, maître de classe |
 | 20 | Mind Flay, Inner Focus, Holy Nova | Arbre de talents |
+| 22 | Mind Vision | Maître de classe |
+| 24 | Mana Burn | Maître de classe |
 | 25 | Vampiric Embrace, Binding Heal | Arbre de talents |
-| 30 | Divine Spirit, Prayer of Healing, Mind Control | Maître de classe |
+| 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Maître de classe |
 | 30 | Penance, Silence | Arbre de talents |
 | 32 | Shadow Word: Death, Abolish Disease | Maître de classe |
+| 34 | Levitate | Maître de classe |
+| 35 | Métiers Artisan | Maîtres de métier |
 | 40 | Greater Heal, monte, Dual Specialization | Maîtres |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Arbre de talents |
+| 48 | Prayer of Fortitude | Maître de classe |
+| 56 | Prayer of Shadow Protection | Maître de classe |
+| 60 | Prayer of Spirit | Maître de classe |
 
 Les sorts plus précoces viennent du maître de classe : <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1243"><img class="wf-wh__icon" src="/wh/spell_holy_wordfortitude.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Fortitude</a> au niveau 1, Shadow Word: Pain au 4, Power Word: Shield au 6, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=139"><img class="wf-wh__icon" src="/wh/spell_holy_renew.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Renew</a> et Fade au 8, Mind Blast et Resurrection au 10, Inner Fire au 12, Psychic Scream et Cure Disease au 14, Heal au 16 et Dispel Magic au 18.
 

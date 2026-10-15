@@ -3,7 +3,7 @@ title: "Guida al livellamento del Priest in WoW Forever"
 metaTitle: "Guida leveling Priest WoW Forever: build Discipline, Holy e Shadow fino al 30"
 description: "Come livellare un Priest in WoW Forever: tre build di livello 30 per Discipline, Holy e Shadow, la rotazione, i livelli chiave, gli incantesimi razziali, le bacchette, le professioni, il mana e le cure."
 short: "Leveling del Priest"
-updated: 2026-10-14
+updated: 2026-10-15
 lang: it
 manual: true
 faq:
@@ -126,14 +126,21 @@ Per Shadow, il potere d'ombra conta insieme a Intellect e potere magico. Con pun
 | 5 | Lesser Magic Wand, professioni da apprendista | Enchanting, istruttori di professione |
 | 10 | Primo incantesimo razziale | Missione di classe |
 | 13 | Greater Magic Wand | Enchanting |
-| 20 | Secondo incantesimo razziale, Fear Ward, Devouring Plague, Flash Heal, Holy Fire | Missione di classe, istruttore di classe |
+| 20 | Secondo incantesimo razziale, Fear Ward, Devouring Plague, Flash Heal, Holy Fire, Shackle Undead, Mind Soothe | Missione di classe, istruttore di classe |
 | 20 | Mind Flay, Inner Focus, Holy Nova | Albero dei talenti |
+| 22 | Mind Vision | Istruttore di classe |
+| 24 | Mana Burn | Istruttore di classe |
 | 25 | Vampiric Embrace, Binding Heal | Albero dei talenti |
-| 30 | Divine Spirit, Prayer of Healing, Mind Control | Istruttore di classe |
+| 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Istruttore di classe |
 | 30 | Penance, Silence | Albero dei talenti |
 | 32 | Shadow Word: Death, Abolish Disease | Istruttore di classe |
+| 34 | Levitate | Istruttore di classe |
+| 35 | Professioni Artisan | Istruttori di professione |
 | 40 | Greater Heal, cavalcatura, Dual Specialization | Istruttori |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Albero dei talenti |
+| 48 | Prayer of Fortitude | Istruttore di classe |
+| 56 | Prayer of Shadow Protection | Istruttore di classe |
+| 60 | Prayer of Spirit | Istruttore di classe |
 
 Gli incantesimi precedenti vengono dall'istruttore di classe: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1243"><img class="wf-wh__icon" src="/wh/spell_holy_wordfortitude.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Fortitude</a> al livello 1, Shadow Word: Pain al 4, Power Word: Shield al 6, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=139"><img class="wf-wh__icon" src="/wh/spell_holy_renew.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Renew</a> e Fade all'8, Mind Blast e Resurrection al 10, Inner Fire al 12, Psychic Scream e Cure Disease al 14, Heal al 16 e Dispel Magic al 18.
 

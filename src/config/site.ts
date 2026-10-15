@@ -48,9 +48,22 @@ export const kofiUrl = 'https://ko-fi.com/nutri_wow';
 /**
  * Pagina's buiten routes en vergelijkingen die toch het RestedXP-blok onderaan
  * dragen (Nutri, 14 oktober 2026: de ervaringsgids moet RestedXP met de
- * korting van 10% noemen).
+ * korting van 10% noemen). Sinds 15 oktober 2026 ook elke gids over leveling:
+ * de Skyborne-route en de levelgidsen per class (Nutri: "het restedxp-blok mag
+ * je ook op de guide pagina's zetten in het onderdeel van leveling").
+ * Een nieuwe levelgids komt hier bij.
  */
-export const restedxpPages = ['guides/experience'];
+export const restedxpPages = [
+  'guides/experience',
+  'guides/leveling/skyborne-druid-1-6',
+  'guides/leveling/skyborne-druid-6-10',
+  'guides/leveling/skyborne-druid-10-13',
+  'guides/leveling/skyborne-druid-13-14',
+  'guides/leveling/skyborne-druid-14-16',
+  'guides/mage-leveling',
+  'guides/priest-leveling',
+  'guides/rogue-leveling',
+];
 
 /**
  * De vergelijkingen die onder het RestedXP-blok ook een Zygor-blok dragen
