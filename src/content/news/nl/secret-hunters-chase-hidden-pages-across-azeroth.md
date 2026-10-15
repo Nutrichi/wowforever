@@ -1,7 +1,7 @@
 ---
 title: "Geheimzoekers jagen op verborgen pagina's in Azeroth"
 description: "Verbrande pagina's, een mes en een stenen sleutel liggen verstopt in de beta van WoW Forever. De aanwijzingen verwijzen naar de oude gedrukte handleidingen, en niemand weet waar het spoor eindigt."
-date: 2026-10-15T22:55:00+02:00
+date: 2026-10-16T01:00:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-09-wow-forever-night-watchmans-torch.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/the-secret-finding-discord-is-sleuthing-again-in-wow-forever-383414"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Spelers op de beta van World of Warcraft: Forever hebben een spoor van verborgen pagina's, sleutels en bergplaatsen door Azeroth gevonden. De aanwijzingen lijken gebaseerd op de oude gedrukte handleidingen van het spel. Waar de jacht naartoe leidt en of er een beloning wacht, is niet bekend.

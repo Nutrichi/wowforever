@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: come ottenerla in WoW Forever"
 metaTitle: "Night Watchman's Torch in WoW Forever: posizione, comparsa notturna e uso"
 description: "Come ottenere la Night Watchman's Torch in WoW Forever: la Night Watch Guard di Duskwood, quando appare, dove si trova, il percorso per l'Orda e cosa fa la torcia."
 short: "Night Watchman's Torch"
-updated: 2026-10-10
+updated: 2026-10-16
 lang: it
 manual: true
 faq:
@@ -44,6 +44,8 @@ Usala e il tuo personaggio tiene una torcia accesa per 5 minuti. La luce si speg
 Dove aiuta: a Duskwood stessa, a Tirisfal Glades e Silverpine Forest di notte, e a Stranglethorn Vale nelle prime ore del mattino, quando il sottobosco diventa nero.
 
 I Druid possono usare la torcia anche nelle forme animali. Da un aggiornamento della beta di ottobre, Cat Form e Travel Form la tengono in bocca ([notizia](/it/news/druid-forms-carry-the-torch-in-their-mouth/)).
+
+La torcia rivela anche cose nascoste. Un Hidden Stash nella grotta di Ringo, a Un'Goro Crater, appare solo con la torcia accesa, come parte di una [caccia ai segreti](/it/news/secret-hunters-chase-hidden-pages-across-azeroth/) sulla beta.
 
 ## Come ottenerla
 

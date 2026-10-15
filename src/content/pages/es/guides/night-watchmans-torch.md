@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: cómo conseguirla en WoW Forever"
 metaTitle: "Night Watchman's Torch en WoW Forever: ubicación, aparición nocturna y uso"
 description: "Cómo conseguir la Night Watchman's Torch en WoW Forever: el Night Watch Guard de Duskwood, cuándo aparece, dónde está, la ruta para la Horda y qué hace la antorcha."
 short: "Night Watchman's Torch"
-updated: 2026-10-10
+updated: 2026-10-16
 lang: es
 manual: true
 faq:
@@ -44,6 +44,8 @@ La [Night Watchman's Torch](https://www.wowhead.com/forever/item=280612/night-wa
 Dónde ayuda: en el propio Duskwood, en Tirisfal Glades y Silverpine Forest de noche, y en Stranglethorn Vale de madrugada, cuando el suelo del bosque se vuelve negro.
 
 Los Druid también pueden usar la antorcha en sus formas animales. Desde una actualización de la beta en octubre, Cat Form y Travel Form la sujetan con la boca ([noticia](/es/news/druid-forms-carry-the-torch-in-their-mouth/)).
+
+La antorcha también revela cosas ocultas. Un Hidden Stash en la cueva de Ringo, en Un'Goro Crater, solo aparece con la antorcha encendida, como parte de una [búsqueda de secretos](/es/news/secret-hunters-chase-hidden-pages-across-azeroth/) en la beta.
 
 ## Cómo conseguirla
 

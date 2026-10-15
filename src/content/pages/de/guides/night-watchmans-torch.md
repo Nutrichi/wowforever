@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: so bekommst du sie in WoW Forever"
 metaTitle: "Night Watchman's Torch in WoW Forever: Fundort, nächtlicher Spawn und Nutzen"
 description: "So bekommst du die Night Watchman's Torch in WoW Forever: der Night Watch Guard in Duskwood, wann er erscheint, wo er liegt, der Weg für die Horde und was die Fackel tut."
 short: "Night Watchman's Torch"
-updated: 2026-10-10
+updated: 2026-10-16
 lang: de
 manual: true
 faq:
@@ -44,6 +44,8 @@ Benutze sie, und dein Charakter hält 5 Minuten lang eine brennende Fackel. Das 
 Wo sie hilft: in Duskwood selbst, in Tirisfal Glades und Silverpine Forest bei Nacht und in Stranglethorn Vale in den frühen Stunden, wenn der Waldboden schwarz wird.
 
 Druids können die Fackel auch in ihren Tiergestalten benutzen. Seit einem Beta-Update im Oktober halten Cat Form und Travel Form sie im Maul ([News](/de/news/druid-forms-carry-the-torch-in-their-mouth/)).
+
+Die Fackel macht auch Verstecktes sichtbar. Ein Hidden Stash in der Höhle von Ringo in Un'Goro Crater erscheint nur mit brennender Fackel, als Teil einer [Jagd nach Geheimnissen](/de/news/secret-hunters-chase-hidden-pages-across-azeroth/) in der Beta.
 
 ## So bekommst du sie
 

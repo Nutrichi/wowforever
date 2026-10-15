@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: how to get it in WoW Forever"
 metaTitle: "Night Watchman's Torch in WoW Forever: location, night spawn and use"
 description: "How to get the Night Watchman's Torch in WoW Forever: the Night Watch Guard in Duskwood, when he appears, where he lies, the route for the Horde and what the torch does."
 short: "Night Watchman's Torch"
-updated: 2026-10-10
+updated: 2026-10-16
 lang: en
 faq:
   - q: "Where do you get the Night Watchman's Torch?"
@@ -43,6 +43,8 @@ Use it and your character holds a burning torch for 5 minutes. The light goes ou
 Where it helps: Duskwood itself, Tirisfal Glades and Silverpine Forest at night, and Stranglethorn Vale in the early hours, when the forest floor turns black.
 
 Druids can use the torch in their animal forms too. Since a beta update in October, Cat Form and Travel Form hold it in their mouth ([news](/news/druid-forms-carry-the-torch-in-their-mouth/)).
+
+The torch also reveals hidden things. A Hidden Stash in Ringo's cave in Un'Goro Crater only shows with the torch lit, as part of a [hunt for secrets](/news/secret-hunters-chase-hidden-pages-across-azeroth/) on the beta.
 
 ## How to get it
 

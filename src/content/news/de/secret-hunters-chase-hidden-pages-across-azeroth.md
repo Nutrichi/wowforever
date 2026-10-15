@@ -1,7 +1,7 @@
 ---
 title: "Geheimnisjäger suchen versteckte Seiten in Azeroth"
 description: "Verbrannte Seiten, ein Messer und ein Steinschlüssel liegen in der Beta von WoW Forever versteckt. Die Hinweise verweisen auf die alten gedruckten Handbücher, und noch weiß niemand, wo die Spur endet."
-date: 2026-10-15T22:55:00+02:00
+date: 2026-10-16T01:00:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-09-wow-forever-night-watchmans-torch.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/the-secret-finding-discord-is-sleuthing-again-in-wow-forever-383414"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Spieler in der Beta von World of Warcraft: Forever haben eine Spur aus versteckten Seiten, Schlüsseln und Verstecken quer durch Azeroth gefunden. Die Hinweise scheinen auf den alten gedruckten Handbüchern des Spiels zu beruhen. Wohin die Jagd führt und ob am Ende eine Belohnung wartet, ist nicht bekannt.

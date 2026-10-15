@@ -1,7 +1,7 @@
 ---
 title: "Des chasseurs de secrets traquent des pages cachées"
 description: "Des pages brûlées, un couteau et une clé de pierre sont cachés dans la bêta de WoW Forever. Les indices renvoient aux anciens manuels imprimés, et personne ne sait encore où mène la piste."
-date: 2026-10-15T22:55:00+02:00
+date: 2026-10-16T01:00:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-09-wow-forever-night-watchmans-torch.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/the-secret-finding-discord-is-sleuthing-again-in-wow-forever-383414"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Des joueurs de la bêta de World of Warcraft: Forever ont trouvé une piste de pages, de clés et de caches cachées à travers Azeroth. Les indices semblent tirés des anciens manuels imprimés du jeu. On ne sait pas encore où mène la chasse, ni si une récompense attend au bout.

@@ -1,7 +1,7 @@
 ---
 title: "Secret hunters chase hidden pages across Azeroth"
 description: "Burnt pages, a knife and a stone key lie hidden across the WoW Forever beta. The clues point back to the old printed manuals, and nobody knows yet where the trail ends."
-date: 2026-10-15T22:55:00+02:00
+date: 2026-10-16T01:00:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-09-wow-forever-night-watchmans-torch.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/the-secret-finding-discord-is-sleuthing-again-in-wow-forever-383414"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 ---
 Players on the beta of World of Warcraft: Forever have found a trail of hidden pages, keys and caches across Azeroth. The clues seem to be based on the old printed manuals of the game. Where the hunt leads, and whether it ends in a reward, is not known.
 
