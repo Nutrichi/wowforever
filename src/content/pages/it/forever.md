@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: data di uscita, beta, roadmap, Skyborne ed edizioni"
 description: "Tutto ciò che Blizzard ha annunciato su World of Warcraft: Forever: le date, la roadmap, le nuove zone, i dungeon e le incursioni, gli Skyborne, il sistema Legacy e le edizioni."
 short: "WoW Forever"
-updated: 2026-10-15
+updated: 2026-10-16
 lang: it
 manual: true
 faq:
@@ -330,6 +330,8 @@ Le tradeskill ricevono la loro prima vera revisione. In Classic una tradeskill d
 - Il sistema PvP e d’onore viene aggiornato, con nuove stagioni PvP nella primavera e nell’estate 2027.
 - I gradi PvP contano per le Legacy Challenges.
 - Nella beta il costo in Honor dell’equipaggiamento PvP è salito di circa il 50% il 1° ottobre, e il tetto di Honor è passato da 15.000 a 25.000.
+- Alterac Valley dà meno Honor e gli altri campi di battaglia molto di più, e i premade affrontano premade. Arene e campi di battaglia classificati non sono previsti, secondo [l’episodio 4 del podcast](/it/news/podcast-episode-4-cuts-honor-in-alterac-valley/).
+- Ogni regolamento è un unico megaserver: Normal, PvP e RP. Un regolamento RP-PvP non è previsto, e spostare un personaggio tra regolamenti probabilmente non sarà possibile.
 
 La modalità Hardcore arriva in Forever, ma non al lancio. Blizzard ha detto al panel Hardcore del 13 settembre che la modalità segue poco dopo il lancio, senza data e senza patch. La slide della roadmap della BlizzCon colloca l’uscita di WoW Forever Hardcore nel blocco invernale, dopo le incursioni del 9 dicembre.
 

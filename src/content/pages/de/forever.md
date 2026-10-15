@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: Release, Beta, Roadmap, Skyborne und Editionen"
 description: "Alles, was Blizzard zu World of Warcraft: Forever angekündigt hat: die Termine, die Roadmap, die neuen Zonen, Dungeons und Raids, die Skyborne, das Legacy-System und die Editionen."
 short: "WoW Forever"
-updated: 2026-10-15
+updated: 2026-10-16
 lang: de
 manual: true
 faq:
@@ -330,6 +330,8 @@ Tradeskills bekommen ihre erste echte Überarbeitung. In Classic gab ein Tradesk
 - Das PvP- und Ehrensystem wird überarbeitet, mit neuen PvP-Saisons im Frühling und Sommer 2027.
 - PvP-Ränge zählen für Legacy Challenges.
 - In der Beta stiegen die Honor-Kosten für PvP-Ausrüstung am 1. Oktober um etwa 50 %, und das Honor-Limit ging von 15.000 auf 25.000.
+- Alterac Valley bringt weniger Honor und die anderen Schlachtfelder deutlich mehr, und Premades treffen auf Premades. Arenen und gewertete Schlachtfelder sind nicht geplant, laut [Podcastfolge 4](/de/news/podcast-episode-4-cuts-honor-in-alterac-valley/).
+- Jedes Regelwerk ist ein Megaserver: Normal, PvP und RP. Ein RP-PvP-Regelwerk ist nicht geplant, und einen Charakter zwischen Regelwerken zu verschieben, wird wohl nicht möglich sein.
 
 Hardcore kommt zu Forever, aber nicht zum Start. Blizzard sagte im Hardcore-Panel am 13. September, dass der Modus kurz nach dem Start folgt, ohne Datum und ohne Patch. Die Roadmap-Folie von der BlizzCon setzt den Start von WoW Forever Hardcore in den Winterblock, nach den Raids vom 9. Dezember.
 

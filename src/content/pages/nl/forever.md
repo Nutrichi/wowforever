@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-10-15
+updated: 2026-10-16
 lang: nl
 manual: true
 faq:
@@ -330,6 +330,8 @@ Tradeskills krijgen hun eerste echte herziening. In Classic gaf een tradeskill a
 - Het PvP- en Honor-systeem wordt vernieuwd, met nieuwe PvP-seizoenen in de lente en de zomer van 2027.
 - PvP-ranks tellen mee voor Legacy Challenges.
 - Op de beta werd de Honor-kost van PvP-gear op 1 oktober ongeveer 50% hoger, en de Honor-cap ging van 15.000 naar 25.000.
+- Alterac Valley geeft minder Honor en de andere battlegrounds een pak meer, en premades spelen tegen premades. Arena's en rated battlegrounds zijn niet gepland, volgens [podcastaflevering 4](/nl/news/podcast-episode-4-cuts-honor-in-alterac-valley/).
+- Elke regelset is één megaserver: Normal, PvP en RP. Een RP-PvP-regelset is niet gepland, en een personage tussen regelsets verhuizen zal wellicht niet kunnen.
 
 Hardcore komt naar Forever, maar niet bij de lancering. Blizzard zei op het Hardcore-panel van 13 september dat de modus kort na de lancering volgt, zonder datum en zonder patch. De roadmap van BlizzCon zet de lancering van WoW Forever Hardcore in het winterblok, na de raids van 9 december.
 

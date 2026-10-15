@@ -1,7 +1,7 @@
 ---
 title: "Podcast episode 4 cuts Honor in Alterac Valley"
 description: "The developer podcast about PvP: less Honor from Alterac Valley, much more from the other battlegrounds, premades against premades, no RP-PvP realm and a duel arena in Hyjal."
-date: 2026-10-15T23:00:00+02:00
+date: 2026-10-16T00:00:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-15-wow-forever-podcast-episode-4.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://www.youtube.com/watch?v=bzaMA5fZ1tE"
 tags: ["forever", "beta", "pvp"]
 featured: false
-draft: true
+draft: false
 podcast:
   episode: 4
   title: "The PvP Episode ft. Tips Out & Savix"
@@ -54,9 +54,11 @@ New battlegrounds will come, with new game types and new places. Jones dreams of
 
 ## Choose your realm with care
 
-Forever has one megaserver per rule set: Normal and PvP. Moving a character between them will most likely not be possible, because of faction balance. Whoever leaves PvP after six months has to start again on Normal, says Greenfield.
+Forever has one megaserver per rule set: Normal, PvP and RP, where RP has no open PvP. Moving a character between them will most likely not be possible, because of faction balance. Whoever leaves PvP after six months has to start again on Normal, says Greenfield.
 
-An RP-PvP realm is not planned. The RP-PvP realm of Season of Discovery lost its RP tag after about three months, and the RP community is small. A separate rule set would split it further. "Never say never", says Greenfield.
+An RP-PvP rule set is not planned. The RP-PvP realm of Season of Discovery lost its RP tag after about three months, and the RP community is small. A separate rule set would split it further. "Never say never", says Greenfield:
+
+> We don't have any plans right now. We don't have anything really to report, but we're very carefully considering the feedback. We're looking at it. We're reading it.
 
 Nothing will stop a level 60 from camping low levels on a PvP realm, unless it is cheating or an exploit. Where Blizzard turns PvP on for an event in the world, it may add help, such as a short immunity after a resurrection.
 
@@ -64,7 +66,7 @@ Nothing will stop a level 60 from camping low levels on a PvP realm, unless it i
 
 The engineers worked hard to make large fights work at scale. On an internal heat map of deaths, PvP is the most common cause of death in the open world. Next, Blizzard wants to allow groups larger than a raid, and to stop players from being phased out of their group. As much of that as possible should be ready for the launch.
 
-The capture towers in Eastern Plaguelands and the fights in Silithus are not active at the launch. Blizzard wants to bring back world events from Season of Discovery, such as the Battle for Ashenvale and the Blood Moon. Whether world bosses get instanced, is not decided.
+The capture towers in Eastern Plaguelands and the fights in Silithus are not active at the launch. Blizzard would love to bring back world events from Season of Discovery, such as the Battle for Ashenvale and the Blood Moon. Whether world bosses get instanced, is not decided.
 
 ## A duel arena in Hyjal
 
