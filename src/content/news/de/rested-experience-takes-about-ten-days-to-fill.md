@@ -27,4 +27,6 @@ Forever bringt drei Wege zu mehr Erfahrung, und alle lassen sich mit Erholungs-E
 
 Monster unter deinem Level geben weniger Erfahrung als in Classic, was Blizzard als [gewollt](/de/news/green-mobs-give-less-experience-than-in-classic/) bezeichnet, als Ausgleich für diese Boni. Die nötige Erfahrung pro Level hat sich nicht geändert: 4.084.700 bis Level 60.
 
+Rested XP verdoppelt nur die Erfahrung aus Kills; der größte Teil eines Levels kommt weiterhin aus Quests. Die meiste Zeit spart eine gute Route, mit Quests, die vorher angenommen und unterwegs abgegeben werden. <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">RestedXP</a> hat Schritt-für-Schritt-Levelrouten für jede Klasse und jedes Volk, auch für WoW Forever, und über <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">unseren Partnerlink</a> bekommst du 10 % Rabatt.
+
 Die Tabelle für jedes Level, Quests, Kills, Dungeons und Gruppen stehen im neuen [Erfahrungsguide](/de/guides/experience/).

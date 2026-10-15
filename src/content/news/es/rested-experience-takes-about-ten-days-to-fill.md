@@ -27,4 +27,6 @@ Forever añade tres formas de ganar más experiencia, y todas se acumulan con la
 
 Los monstruos por debajo de tu nivel dan menos experiencia que en Classic, algo que Blizzard llama [intencionado](/es/news/green-mobs-give-less-experience-than-in-classic/) para equilibrar esos bonus. La cantidad por nivel no cambió: 4.084.700 para llegar al nivel 60.
 
+La experiencia de descanso solo duplica la experiencia de las muertes; la mayor parte de un nivel sigue viniendo de las misiones. Donde más tiempo se ahorra es con una buena ruta, con misiones cogidas de antemano y entregadas por el camino. <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">RestedXP</a> tiene rutas de subida paso a paso para cada clase y raza, también para WoW Forever, y con <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">nuestro enlace de socio</a> consigues un 10% de descuento.
+
 La tabla de cada nivel, las misiones, las muertes, las mazmorras y los grupos están en la nueva [guía de experiencia](/es/guides/experience/).

@@ -27,4 +27,6 @@ Forever ajoute trois façons de gagner plus d'expérience, et toutes se cumulent
 
 Les monstres sous votre niveau donnent moins d'expérience que dans Classic, ce que Blizzard dit [voulu](/fr/news/green-mobs-give-less-experience-than-in-classic/) pour équilibrer ces bonus. Le montant par niveau n'a pas changé : 4 084 700 pour atteindre le niveau 60.
 
+L'expérience reposée ne double que l'expérience des kills ; l'essentiel d'un niveau vient toujours des quêtes. Le plus de temps se gagne avec une bonne route, avec des quêtes prises à l'avance et rendues en chemin. <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">RestedXP</a> propose des routes de leveling pas à pas pour chaque classe et chaque race, aussi pour WoW Forever, et avec <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">notre lien partenaire</a>, vous obtenez 10 % de réduction.
+
 Le tableau de chaque niveau, les quêtes, les kills, les donjons et les groupes sont dans le nouveau [guide de l'expérience](/fr/guides/experience/).

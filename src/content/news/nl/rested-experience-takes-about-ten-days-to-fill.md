@@ -27,4 +27,6 @@ Forever voegt drie manieren toe om meer ervaring te verdienen, en ze stapelen al
 
 Monsters onder je level geven minder ervaring dan in Classic, wat volgens Blizzard [zo bedoeld](/nl/news/green-mobs-give-less-experience-than-in-classic/) is als tegenwicht voor die bonussen. Hoeveel je per level nodig hebt, veranderde niet: 4.084.700 voor level 60.
 
+Rested XP verdubbelt alleen de ervaring van kills; het grootste deel van een level komt nog altijd van quests. De meeste tijd win je met een goede route, met quests vooraf opgepikt en onderweg ingeleverd. <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">RestedXP</a> heeft levelroutes stap voor stap voor elke class en elk ras, ook voor WoW Forever, en via <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">onze partnerlink</a> krijg je 10% korting.
+
 De tabel voor elk level, quests, kills, dungeons en groepen staan in de nieuwe [ervaringsgids](/nl/guides/experience/).

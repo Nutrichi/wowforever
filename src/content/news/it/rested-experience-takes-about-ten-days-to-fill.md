@@ -27,4 +27,6 @@ Forever aggiunge tre modi per guadagnare più esperienza, e tutti si sommano all
 
 I mostri sotto il tuo livello danno meno esperienza che in Classic, cosa che Blizzard definisce [voluta](/it/news/green-mobs-give-less-experience-than-in-classic/) per bilanciare quei bonus. L'esperienza richiesta per livello non è cambiata: 4.084.700 per arrivare al livello 60.
 
+L'esperienza riposata raddoppia solo l'esperienza delle uccisioni; la maggior parte di un livello arriva comunque dalle missioni. Il tempo maggiore si risparmia con un buon percorso, con missioni prese in anticipo e consegnate lungo la strada. <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">RestedXP</a> ha percorsi di leveling passo per passo per ogni classe e razza, anche per WoW Forever, e con <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">il nostro link partner</a> hai il 10% di sconto.
+
 La tabella di ogni livello, missioni, uccisioni, dungeon e gruppi sono nella nuova [guida all'esperienza](/it/guides/experience/).

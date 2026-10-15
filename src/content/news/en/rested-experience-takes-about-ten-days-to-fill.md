@@ -26,4 +26,6 @@ Forever adds three ways to earn more experience, and all of them stack with rest
 
 Monsters below your level give less experience than in Classic, which Blizzard calls [intended](/news/green-mobs-give-less-experience-than-in-classic/) to balance those bonuses. The amount needed per level did not change: 4,084,700 to reach level 60.
 
+Rested XP only doubles the experience from kills; most of a level still comes from quests. The most time is saved with a good route, with quests picked up in advance and handed in on the way. <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">RestedXP</a> has step-by-step leveling routes for every class and race, also for WoW Forever, and <a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored">our partner link</a> gives you 10% off.
+
 The table for every level, quests, kills, dungeons and groups are in the new [experience guide](/guides/experience/).
