@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: Release, Beta, Roadmap, Skyborne und Editionen"
 description: "Alles, was Blizzard zu World of Warcraft: Forever angekündigt hat: die Termine, die Roadmap, die neuen Zonen, Dungeons und Raids, die Skyborne, das Legacy-System und die Editionen."
 short: "WoW Forever"
-updated: 2026-10-02
+updated: 2026-10-15
 lang: de
 manual: true
 faq:
@@ -103,6 +103,8 @@ Und was neu ist, laut Jones:
 - Patches für jede Spielweise: PvE, PvP, Dungeons und Raids.
 - Keine Erweiterungen, die Fortschritt auslöschen. Das Aufholsystem heißt „play the game“.
 - „Nothing is off the table, not even new classes.“
+
+Im Oktober 2026 ergänzte Clay Stone, dass neue Raid-Tiers möglichst wenig Stärke bringen sollen, damit Ausrüstung länger hält, und dass die Welt über Berufe und das Legacy-System in die Breite wächst ([mehr](/de/news/raid-tiers-will-add-as-little-power-as-possible/)).
 
 ## Termine
 

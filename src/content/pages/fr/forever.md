@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever : date de sortie, bêta, feuille de route, Skyborne et éditions"
 description: "Tout ce que Blizzard a annoncé sur World of Warcraft: Forever : les dates, la feuille de route, les nouvelles zones, donjons et raids, les Skyborne, le système Legacy et les éditions."
 short: "WoW Forever"
-updated: 2026-10-02
+updated: 2026-10-15
 lang: fr
 manual: true
 faq:
@@ -103,6 +103,8 @@ Et ce qui est nouveau, selon Jones :
 - Des patchs pour chaque style de jeu : PvE, PvP, donjons et raids.
 - Pas d’extensions qui effacent la progression. Le système de rattrapage, c’est « play the game ».
 - « Nothing is off the table, not even new classes. »
+
+En octobre 2026, Clay Stone a ajouté que les nouveaux paliers de raid ajouteront le moins de puissance possible, pour que l’équipement dure plus longtemps, et que le monde grandit en largeur par les métiers et le système Legacy ([plus](/fr/news/raid-tiers-will-add-as-little-power-as-possible/)).
 
 ## Dates
 

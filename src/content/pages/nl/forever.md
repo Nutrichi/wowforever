@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-10-02
+updated: 2026-10-15
 lang: nl
 manual: true
 faq:
@@ -103,6 +103,8 @@ En wat nieuw is, volgens Jones:
 - Patches voor elke speelstijl: PvE, PvP, dungeons en raids.
 - Geen uitbreidingen die voortgang wegvagen. Het inhaalsysteem is "play the game".
 - "Nothing is off the table, not even new classes."
+
+In oktober 2026 voegde Clay Stone eraan toe dat nieuwe raidtiers zo weinig mogelijk kracht toevoegen, zodat gear langer meegaat, en dat de wereld in de breedte groeit via tradeskills en het Legacy-systeem ([meer](/nl/news/raid-tiers-will-add-as-little-power-as-possible/)).
 
 ## Datums
 
