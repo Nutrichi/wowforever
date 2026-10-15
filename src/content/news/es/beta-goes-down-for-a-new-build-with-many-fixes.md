@@ -1,7 +1,7 @@
 ---
 title: "La beta se apaga para una nueva build"
 description: "Blizzard desconectó la beta de WoW Forever la noche del 15 de octubre para instalar y probar una nueva build. Las notas de desarrollo llegarán cuando vuelva la beta."
-date: 2026-10-15T23:15:00+02:00
+date: 2026-10-15T23:00:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-14-wow-forever-beta-maintenance.jpg

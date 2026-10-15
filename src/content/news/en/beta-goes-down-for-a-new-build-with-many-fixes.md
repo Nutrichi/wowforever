@@ -1,7 +1,7 @@
 ---
 title: "Beta goes down for a new build with many fixes"
 description: "Blizzard took the WoW Forever beta offline on the evening of 15 October to install and test a new build. The development notes follow once the beta is back."
-date: 2026-10-15T23:15:00+02:00
+date: 2026-10-15T23:00:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-14-wow-forever-beta-maintenance.jpg

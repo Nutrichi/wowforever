@@ -1,7 +1,7 @@
 ---
 title: "La beta si spegne per una nuova build"
 description: "Blizzard ha messo offline la beta di WoW Forever la sera del 15 ottobre per installare e provare una nuova build. Le note di sviluppo arriveranno quando la beta torna."
-date: 2026-10-15T23:15:00+02:00
+date: 2026-10-15T23:00:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-14-wow-forever-beta-maintenance.jpg

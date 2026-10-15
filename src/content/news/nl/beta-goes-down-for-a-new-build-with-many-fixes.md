@@ -1,7 +1,7 @@
 ---
 title: "Beta gaat offline voor nieuwe build vol fixes"
 description: "Blizzard haalde de beta van WoW Forever op de avond van 15 oktober offline om een nieuwe build te installeren en te testen. De development notes volgen zodra de beta terug is."
-date: 2026-10-15T23:15:00+02:00
+date: 2026-10-15T23:00:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-14-wow-forever-beta-maintenance.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Beta geht für einen neuen Build offline"
 description: "Blizzard hat die Beta von WoW Forever am Abend des 15. Oktober vom Netz genommen, um einen neuen Build aufzuspielen und zu testen. Die Development Notes folgen, sobald die Beta zurück ist."
-date: 2026-10-15T23:15:00+02:00
+date: 2026-10-15T23:00:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-14-wow-forever-beta-maintenance.jpg

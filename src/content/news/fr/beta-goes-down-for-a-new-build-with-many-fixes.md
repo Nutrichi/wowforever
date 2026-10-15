@@ -1,7 +1,7 @@
 ---
 title: "La bêta s’arrête pour une nouvelle build"
 description: "Blizzard a mis la bêta de WoW Forever hors ligne le soir du 15 octobre pour installer et tester une nouvelle build. Les notes de développement suivront au retour de la bêta."
-date: 2026-10-15T23:15:00+02:00
+date: 2026-10-15T23:00:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-14-wow-forever-beta-maintenance.jpg
