@@ -267,7 +267,7 @@ De bomen houden hun oude vorm, vertelde Blizzard aan The Sun: drie per class, ze
 
 De nieuwe combinaties van ras en class zijn de Undead Paladin, de Dwarf Shaman, de Human Hunter, de Gnome Priest, de Orc Mage en de Troll Warlock, plus de classes van de Skyborne. De Undead Paladin hangt samen met de eerste Forsaken Paladin in Warcraft III Reforged: Forsaken Kingdom.
 
-Ook de racials zijn herwerkt. Elk ras heeft nu vier racials, de resistance-racials zijn weg, en weapon specializations geven Crit in plaats van weapon skill. De volledige tabel van rassen en classes, met elke racial per ras, staat op [Classes](/nl/classes/).
+Ook de racials zijn herwerkt. Elk ras heeft nu vier racials en de resistance-racials zijn weg. Sinds de beta-build van 15 oktober zijn ook de weapon specializations weg: [Humans, Dwarves en Orcs krijgen een bonus op critical strikes](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) die met elk wapen werkt. De volledige tabel van rassen en classes, met elke racial per ras, staat op [Classes](/nl/classes/).
 
 ## Nieuwe systemen
 

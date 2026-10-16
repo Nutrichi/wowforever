@@ -30,3 +30,7 @@ Community Manager Kaivax kündigte es um 22:00 Uhr belgischer Zeit in den amerik
 Welche Änderungen der Build bringt, sagt Blizzard noch nicht. Josh Greenfield sagte am 8. Oktober, dass sich [die Volksfähigkeiten von Orcs und Trolls](/de/news/orc-and-troll-racials-may-change-next-week/) wohl mit dem Update dieser Woche ändern. Ob das in diesem Build passiert, ist nicht bekannt.
 
 Der Battle.net-Launcher zeigt einen [Stresstest am 19. Oktober](/de/news/the-launcher-shows-a-stress-test-on-19-october/). Ob der neue Build für diesen Test gedacht ist, ist ebenfalls nicht bekannt.
+
+## Die Entwicklungsnotizen sind da
+
+Die Beta kam in derselben Nacht zurück. Blizzard veröffentlichte die Entwicklungsnotizen des Builds am 16. Oktober um 2.15 Uhr belgischer Zeit. Die neuen Racials für fast jedes Volk stehen in [diesem Artikel](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).

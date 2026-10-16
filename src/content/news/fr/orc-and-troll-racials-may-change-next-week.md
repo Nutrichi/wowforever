@@ -15,6 +15,8 @@ manual: true
 ---
 Les techniques raciales de World of Warcraft: Forever devraient changer dans la mise à jour de la bêta de la semaine prochaine. Blizzard examine les raciaux actifs des Orcs et des Trolls, peut-être trop forts. Josh Greenfield l’a dit le 8 octobre.
 
+**Mise à jour du 16 octobre :** les changements sont dans le build bêta du 15 octobre. Blood Fury passe à 3 minutes de recharge, Shatter Curse s’affaiblit et les spécialisations d’arme des Humains, des Nains et des Orcs cèdent la place à des bonus aux coups critiques. Berserking ne figure pas dans les notes, et Regeneration des Trolls se renforce. Tout est dans [cet article](/fr/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+
 Greenfield, connu sous le nom d’Aggrend, en a parlé dans le troisième épisode de The WoW: Forever Podcast. En plus des raciaux actifs, Blizzard examine aussi les raciaux qui augmentent la compétence d’arme :
 
 > Looking at things like actives such as the Orc and the Troll abilities and how strong they are, perhaps a little too strong, also things like weapon skill abilities... Do we want to keep those or do we want to replace those with something else?

@@ -15,6 +15,8 @@ manual: true
 ---
 Die Volksfähigkeiten in World of Warcraft: Forever ändern sich wohl im Betaupdate der nächsten Woche. Blizzard prüft die aktiven Volksfähigkeiten von Orcs und Trolls, die vielleicht etwas zu stark sind. Das sagte Senior Game Designer Josh Greenfield am 8. Oktober.
 
+**Update vom 16. Oktober:** Die Änderungen stecken im Beta-Build vom 15. Oktober. Blood Fury bekommt 3 Minuten Abklingzeit, Shatter Curse wird schwächer, und die Waffenspezialisierungen von Menschen, Zwergen und Orcs machen Platz für Boni auf kritische Treffer. Berserking steht nicht in den Notizen, und Regeneration der Trolle wird stärker. Alles steht in [diesem Artikel](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+
 Greenfield, bekannt als Aggrend, sprach darüber in der dritten Folge von The WoW: Forever Podcast. Neben den aktiven Fähigkeiten prüft Blizzard auch die Volksfähigkeiten, die die Waffenfertigkeit erhöhen:
 
 > Looking at things like actives such as the Orc and the Troll abilities and how strong they are, perhaps a little too strong, also things like weapon skill abilities... Do we want to keep those or do we want to replace those with something else?

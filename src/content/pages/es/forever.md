@@ -267,7 +267,7 @@ Los árboles conservan su forma original, contó Blizzard a The Sun: tres por cl
 
 Las nuevas combinaciones de raza y clase son el Undead Paladin, el Dwarf Shaman, el Human Hunter, el Gnome Priest, el Orc Mage y el Troll Warlock, además de las clases de los Skyborne. El Undead Paladin está ligado al primer Forsaken Paladin de Warcraft III Reforged: Forsaken Kingdom.
 
-Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials, los racials de resistencia desaparecen, y las especializaciones de arma dan Crit en lugar de habilidad con armas. La tabla completa de razas y clases, con cada racial por raza, está en [Classes](/es/classes/).
+Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials y los racials de resistencia desaparecen. Desde la build de la beta del 15 de octubre también desaparecen las especializaciones de arma: [Humanos, Enanos y Orcos reciben una bonificación a los críticos](/es/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) que funciona con cualquier arma. La tabla completa de razas y clases, con cada racial por raza, está en [Classes](/es/classes/).
 
 ## Sistemas nuevos
 

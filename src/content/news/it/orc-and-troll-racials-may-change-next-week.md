@@ -15,6 +15,8 @@ manual: true
 ---
 Le abilità razziali di World of Warcraft: Forever probabilmente cambieranno nell'aggiornamento della beta della prossima settimana. Blizzard sta esaminando le razziali attive di Orc e Troll, forse un po' troppo forti. Lo ha detto il Senior Game Designer Josh Greenfield l'8 ottobre.
 
+**Aggiornamento del 16 ottobre:** le modifiche sono nella build della beta del 15 ottobre. Blood Fury passa a 3 minuti di ricarica, Shatter Curse si indebolisce e le specializzazioni d’arma di Umani, Nani e Orchi lasciano il posto a bonus ai colpi critici. Berserking non è nelle note, e Regeneration dei Troll si rafforza. Tutto è in [questo articolo](/it/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+
 Greenfield, noto come Aggrend, ne ha parlato nel terzo episodio di The WoW: Forever Podcast. Oltre alle razziali attive, Blizzard sta esaminando anche quelle che aumentano l'abilità con le armi:
 
 > Looking at things like actives such as the Orc and the Troll abilities and how strong they are, perhaps a little too strong, also things like weapon skill abilities... Do we want to keep those or do we want to replace those with something else?

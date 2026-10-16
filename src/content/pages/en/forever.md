@@ -266,7 +266,7 @@ The trees keep the original shape, Blizzard told The Sun: three per class, seven
 
 The new race and class combinations are the Undead Paladin, the Dwarf Shaman, the Human Hunter, the Gnome Priest, the Orc Mage and the Troll Warlock, plus the classes of the Skyborne. The Undead Paladin is tied to the first Forsaken Paladin in Warcraft III Reforged: Forsaken Kingdom.
 
-Racials were redesigned as well. Every race now has four racials, the resistance racials are gone, and weapon specializations add Crit instead of weapon skill. The full table of races and classes, with every racial per race, is on [Classes](/classes/).
+Racials were redesigned as well. Every race now has four racials and the resistance racials are gone. Since the beta build of 15 October the weapon specializations are gone too: [Humans, Dwarves and Orcs get a critical strike bonus](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) that works with any weapon. The full table of races and classes, with every racial per race, is on [Classes](/classes/).
 
 ## New systems
 

@@ -30,3 +30,7 @@ L'1:15 p.m. PDT corrisponde alle 22:15 in Belgio. Un orario di fine non c'è. Il
 Quali cambiamenti porti la build, Blizzard non lo dice ancora. Josh Greenfield ha detto l'8 ottobre che [i racial di Orchi e Troll](/it/news/orc-and-troll-racials-may-change-next-week/) sarebbero probabilmente cambiati con l'aggiornamento di questa settimana. Se succeda in questa build, non si sa.
 
 Il launcher di Battle.net mostra uno [stress test il 19 ottobre](/it/news/the-launcher-shows-a-stress-test-on-19-october/). Anche se la nuova build sia pensata per quel test, non si sa.
+
+## Le note di sviluppo sono uscite
+
+La beta è tornata la notte stessa. Blizzard ha pubblicato le note di sviluppo della build alle 2.15, ora belga, del 16 ottobre. I nuovi racial di quasi tutte le razze sono in [questo articolo](/it/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).

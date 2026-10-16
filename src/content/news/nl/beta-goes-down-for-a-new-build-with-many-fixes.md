@@ -30,3 +30,7 @@ Community manager Kaivax kondigde het om 22.00 uur Belgische tijd aan op de Amer
 Welke wijzigingen de build brengt, zegt Blizzard nog niet. Josh Greenfield zei op 8 oktober dat [de racials van Orcs en Trolls](/nl/news/orc-and-troll-racials-may-change-next-week/) wellicht in de update van deze week zouden veranderen. Of dat in deze build gebeurt, is niet bekend.
 
 De launcher van Battle.net toont een [stresstest op 19 oktober](/nl/news/the-launcher-shows-a-stress-test-on-19-october/). Of de nieuwe build voor die test bedoeld is, is evenmin bekend.
+
+## De ontwikkelingsnotities zijn er
+
+De beta kwam dezelfde nacht terug. Blizzard publiceerde de ontwikkelingsnotities van de build om 2.15 Belgische tijd op 16 oktober. De nieuwe racials voor bijna elk ras staan in [deze post](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).

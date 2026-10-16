@@ -14,6 +14,8 @@ draft: false
 ---
 Racial abilities in World of Warcraft: Forever are likely to change in next week's beta update. Blizzard is looking at the active racials of Orcs and Trolls, which may be a little too strong. Senior Game Designer Josh Greenfield said it on 8 October.
 
+**Update, 16 October:** the changes are in the beta build of 15 October. Blood Fury gets a 3 minute cooldown, Shatter Curse becomes weaker and the weapon specializations of Humans, Dwarves and Orcs make way for critical strike bonuses. Berserking is not in the notes, and Troll Regeneration gets stronger. Everything is in [this post](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+
 Greenfield, known as Aggrend, talked about it in the third episode of The WoW: Forever Podcast. Besides the actives, Blizzard is also looking at the racials that raise weapon skill:
 
 > Looking at things like actives such as the Orc and the Troll abilities and how strong they are, perhaps a little too strong, also things like weapon skill abilities... Do we want to keep those or do we want to replace those with something else?

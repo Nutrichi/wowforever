@@ -267,7 +267,7 @@ Die Bäume behalten ihre ursprüngliche Form, sagte Blizzard zu The Sun: drei pr
 
 Die neuen Kombinationen aus Volk und Klasse sind der Undead Paladin, der Dwarf Shaman, der Human Hunter, der Gnome Priest, der Orc Mage und der Troll Warlock, dazu die Klassen der Skyborne. Der Undead Paladin hängt mit dem ersten Forsaken Paladin in Warcraft III Reforged: Forsaken Kingdom zusammen.
 
-Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, die Widerstands-Racials sind weg, und Waffenspezialisierungen geben Crit statt Waffenfertigkeit. Die vollständige Tabelle der Völker und Klassen, mit jedem Racial pro Volk, steht unter [Classes](/de/classes/).
+Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, und die Widerstands-Racials sind weg. Seit dem Beta-Build vom 15. Oktober sind auch die Waffenspezialisierungen weg: [Menschen, Zwerge und Orcs bekommen einen Bonus auf kritische Treffer](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/), der mit jeder Waffe wirkt. Die vollständige Tabelle der Völker und Klassen, mit jedem Racial pro Volk, steht unter [Classes](/de/classes/).
 
 ## Neue Systeme
 
