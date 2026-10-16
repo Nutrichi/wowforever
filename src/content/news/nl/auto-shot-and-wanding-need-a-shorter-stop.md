@@ -15,23 +15,23 @@ draft: false
 ---
 **Rechtzetting, 23 september 2026.** Blizzard zei intussen op het forum dat dit geen wijziging is maar een fout: de cast van een halve seconde voor een Auto-Shot of een wand werkt niet goed, en er komt een oplossing in een volgende betabuild. Wat hieronder staat, beschrijft wat de beta op 21 september deed.
 
-Auto-Shot en wanding vertrekken in World of Warcraft: Forever veel sneller vanuit stilstand. De verborgen casttijd op allebei is hard ingekort, schrijft Wowhead na de beta. Dat verandert het kiten voor Hunters en voor elke caster met een wand.
+Auto-Shot en wanding vertrekken in World of Warcraft: Forever veel sneller vanuit stilstand. De verborgen casttijd op allebei is hard ingekort. Dat verandert het kiten voor Hunters en voor elke caster met een wand.
 
 ## De stop die niemand ziet
 
-In Classic zijn Auto-Shot en wanding waar een speler op terugvalt als de mana op is. Allebei dragen ze een korte verborgen casttijd, schrijft Wowhead, dus het personage moet planten voor het schot vertrekt. Zet je een stap te vroeg, dan verlaat er niets de boog.
+In Classic zijn Auto-Shot en wanding waar een speler op terugvalt als de mana op is. Allebei dragen ze een korte verborgen casttijd, dus het personage moet planten voor het schot vertrekt. Zet je een stap te vroeg, dan verlaat er niets de boog.
 
 Die verborgen stop is wat kiten moeilijk maakt. Een Hunter die loopt, draait en schiet, verliest een schot telkens als de timing verschuift.
 
 ## Wat er in Forever verandert
 
-De verborgen casttijd staat er in Forever nog altijd, schrijft Wowhead, maar hij is heel kort. Een speler moet nog steeds planten, alleen veel minder lang dan vroeger.
+De verborgen casttijd staat er in Forever nog altijd, maar hij is heel kort. Een speler moet nog steeds planten, alleen veel minder lang dan vroeger.
 
-Wowhead verwacht dat dat de zaken door elkaar schudt, vooral in PvP. Een Hunter kan nu afstand houden en tegelijk blijven schieten. Of de waarde na de beta blijft waar ze nu staat, zegt Blizzard niet.
+Dat schudt de zaken wellicht door elkaar, vooral in PvP. Een Hunter kan nu afstand houden en tegelijk blijven schieten. Of de waarde na de beta blijft waar ze nu staat, zegt Blizzard niet.
 
 ## Twee video's naast elkaar
 
-De speler Aggravating_Doctor20 zette [twee vergelijkende video's](https://www.reddit.com/r/classicwow/comments/1wjw6mb/hunter_auto_shot_swingtimer_forever_vs_classic_era/) op de subreddit classicwow, schrijft Wowhead, waarin dezelfde ability naast elkaar draait in Forever en in Classic Era. De swing timer in de hoek toont het verschil.
+De speler Aggravating_Doctor20 zette [twee vergelijkende video's](https://www.reddit.com/r/classicwow/comments/1wjw6mb/hunter_auto_shot_swingtimer_forever_vs_classic_era/) op de subreddit classicwow, waarin dezelfde ability naast elkaar draait in Forever en in Classic Era. De swing timer in de hoek toont het verschil.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wjw6mb/hunter_auto_shot_swingtimer_forever_vs_classic_era">
   <button type="button" class="wf-embed__play">

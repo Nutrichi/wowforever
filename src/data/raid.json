@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "read": "2026-10-11",
+ "read": "2026-10-16",
  "groupSize": 5,
  "sizes": [
   5,
@@ -309,7 +309,8 @@
    "provides": [
     "fortitude",
     "spirit",
-    "vampiric"
+    "vampiric",
+    "darkInspiration"
    ],
    "tags": [
     "nonTank",
@@ -611,7 +612,7 @@
    "spell": 19742
   },
   "salvation": {
-   "name": "Blessing of Salvation",
+   "name": "Salvation",
    "scope": "raid",
    "helps": "nonTank",
    "icon": "spell_holy_sealofsalvation",
@@ -619,28 +620,28 @@
   },
   "battleShout": {
    "name": "Battle Shout",
-   "scope": "party",
+   "scope": "raid",
    "helps": "melee",
    "icon": "ability_warrior_battleshout",
    "spell": 6192
   },
   "moonkin": {
    "name": "Moonkin Aura",
-   "scope": "party",
-   "helps": "all",
+   "scope": "raid",
+   "helps": "spell",
    "icon": "spell_nature_moonglow",
    "spell": 24907
   },
   "leader": {
    "name": "Leader of the Pack",
-   "scope": "party",
-   "helps": "all",
+   "scope": "raid",
+   "helps": "physical",
    "icon": "spell_nature_unyeildingstamina",
    "spell": 17007
   },
   "trueshot": {
    "name": "Trueshot Aura",
-   "scope": "party",
+   "scope": "raid",
    "helps": "rangedPhysical",
    "icon": "ability_trueshot",
    "spell": 1299348
@@ -654,21 +655,21 @@
   },
   "strength": {
    "name": "Strength of Earth Totem",
-   "scope": "party",
+   "scope": "raid",
    "helps": "melee",
    "icon": "spell_nature_earthbindtotem",
    "spell": 25361
   },
   "windfury": {
    "name": "Windfury Totem",
-   "scope": "party",
+   "scope": "raid",
    "helps": "melee",
    "icon": "spell_nature_windfury",
    "spell": 8512
   },
   "grace": {
    "name": "Grace of Air Totem",
-   "scope": "party",
+   "scope": "raid",
    "helps": "physical",
    "icon": "spell_nature_invisibilitytotem",
    "spell": 25359
@@ -696,7 +697,7 @@
   },
   "flametongue": {
    "name": "Flametongue Totem",
-   "scope": "party",
+   "scope": "raid",
    "helps": "melee",
    "icon": "spell_nature_guardianward",
    "spell": 16387
@@ -784,6 +785,13 @@
    "helps": "tank",
    "icon": "spell_nature_thunderclap",
    "spell": 11581
+  },
+  "darkInspiration": {
+   "name": "Dark Inspiration",
+   "scope": "party",
+   "helps": "mana",
+   "icon": "spell_warlock_demonsoul",
+   "spell": 1326159
   }
  },
  "raid": [
@@ -794,54 +802,27 @@
   "kings",
   "might",
   "wisdom",
-  "salvation"
+  "salvation",
+  "battleShout",
+  "trueshot",
+  "leader",
+  "moonkin",
+  "strength",
+  "windfury",
+  "grace"
  ],
  "blessings": [
   "kings",
   "might",
-  "wisdom",
-  "salvation"
+  "wisdom"
  ],
  "party": [
   {
-   "id": "battleShout",
-   "effects": [
-    "battleShout"
-   ]
-  },
-  {
-   "id": "crit",
-   "effects": [
-    "moonkin",
-    "leader"
-   ]
-  },
-  {
-   "id": "trueshot",
-   "effects": [
-    "trueshot"
-   ]
-  },
-  {
-   "id": "strength",
-   "effects": [
-    "strength"
-   ]
-  },
-  {
    "id": "air",
    "effects": [
-    "windfury",
-    "grace",
     "tranquil"
    ],
    "perProvider": true
-  },
-  {
-   "id": "flametongue",
-   "effects": [
-    "flametongue"
-   ]
   },
   {
    "id": "manaSpring",
@@ -860,6 +841,13 @@
    "id": "vampiric",
    "effects": [
     "vampiric"
+   ],
+   "weight": 0.5
+  },
+  {
+   "id": "darkInspiration",
+   "effects": [
+    "darkInspiration"
    ],
    "weight": 0.5
   }
@@ -914,5 +902,11 @@
     "thunderClap"
    ]
   }
+ ],
+ "raidPerProvider": [
+  [
+   "windfury",
+   "grace"
+  ]
  ]
 }

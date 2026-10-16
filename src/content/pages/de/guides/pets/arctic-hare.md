@@ -30,7 +30,7 @@ Arctic Hare ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lern
 | Wo | Dun Morogh |
 | Preis | 21 Silber 5 Kupfer |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -38,7 +38,7 @@ Arctic Hare ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lern
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere von Yarlyn Amberstill
 

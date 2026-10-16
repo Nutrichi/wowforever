@@ -45,7 +45,7 @@ L'essentiel vient des centaures du clan Gelkis, en Desolace. Warcraft Wiki compt
 
 ### La chaîne de quêtes
 
-Dès Friendly, Warug, en bordure de Magram Village dans le sud-est de Desolace, ouvre une chaîne : Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka et Khan Hratha. Magram Alliance donne 100 de réputation chez les Magram et coûte 500 chez les Gelkis, indique Wowhead. Warug vous envoie aussi contre les Kolkar et les Maraudine, écrit Warcraft Wiki.
+Dès Friendly, Warug, en bordure de Magram Village dans le sud-est de Desolace, ouvre une chaîne : Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka et Khan Hratha. Magram Alliance donne 100 de réputation chez les Magram et coûte 500 chez les Gelkis. Warug vous envoie aussi contre les Kolkar et les Maraudine, écrit Warcraft Wiki.
 
 ### Où cela s'arrête
 

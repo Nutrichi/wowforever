@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Ein Kodo ist ein Reittier der Horde, und das seit zwanzig Jahren. In WoW Forever kann die Allianz einen kaufen. Die Reins of the Pack Kodo stehen bei der Azeroth Commerce Authority für 6000 Merchant's Favor, gefunden auf der Beta und gemeldet von Wowhead.
+Ein Kodo ist ein Reittier der Horde, und das seit zwanzig Jahren. In WoW Forever kann die Allianz einen kaufen. Die Reins of the Pack Kodo stehen bei der Azeroth Commerce Authority für 6000 Merchant's Favor, wie die Beta zeigt.
 
 Der Händler heißt Huey Sunnydale. Merchant's Favor ist die Währung der Fraktion, und sie kauft mehr als das: Handwerksrezepte, andere Reittiere, Spielzeug und Kosmetik.
 

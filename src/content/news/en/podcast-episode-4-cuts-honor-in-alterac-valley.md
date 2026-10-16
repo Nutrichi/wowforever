@@ -60,7 +60,7 @@ An RP-PvP rule set is not planned. The RP-PvP realm of Season of Discovery lost 
 
 > We don't have any plans right now. We don't have anything really to report, but we're very carefully considering the feedback. We're looking at it. We're reading it.
 
-Nothing will stop a level 60 from camping low levels on a PvP realm, unless it is cheating or an exploit. Where Blizzard turns PvP on for an event in the world, it may add help, such as a short immunity after a resurrection.
+Nothing will stop a level 60 from camping low levels on a PvP realm, unless it is cheating or an exploit. A protection like the one on the Titan Reforged realms in China is [not coming](/news/no-protection-for-low-levels-on-pvp-realms/). Where Blizzard turns PvP on for an event in the world, it may add help, such as a short immunity after a resurrection.
 
 ## Big fights in the open world
 

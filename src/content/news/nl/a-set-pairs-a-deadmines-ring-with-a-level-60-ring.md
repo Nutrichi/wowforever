@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Testers in de beta van World of Warcraft: Forever hebben een set gevonden die het hele levelen overspant. Partners in Crime bestaat uit twee ringen, schrijft Wowhead. De ene valt in een dungeon van een laag level, de andere vraagt level 60.
+Testers in de beta van World of Warcraft: Forever hebben een set gevonden die het hele levelen overspant. Partners in Crime bestaat uit twee ringen. De ene valt in een dungeon van een laag level, de andere vraagt level 60.
 
 ## De twee ringen
 
@@ -34,8 +34,8 @@ Allebei staan ze als bonus voor twee stukken, dus er gaat niets af tot de ring v
 
 ## Waarom het telt voor je gear
 
-De epic helft van de set is een item van level 60, en dat is wat het interessant maakt, schrijft Wowhead. Een speler loopt de Deadmines misschien nog heel lang, ruim voorbij het level waarop de dungeon normaal achterblijft.
+De epic helft van de set is een item van level 60, en dat is wat het interessant maakt. Een speler loopt de Deadmines misschien nog heel lang, ruim voorbij het level waarop de dungeon normaal achterblijft.
 
-Andere dungeons dragen mogelijk hetzelfde idee, schrijft Wowhead: één item dat de eerste helft is van een set die pas veel later af raakt. Of Blizzard er meer zo ontworpen heeft, zegt de studio niet.
+Andere dungeons dragen mogelijk hetzelfde idee: één item dat de eerste helft is van een set die pas veel later af raakt. Of Blizzard er meer zo ontworpen heeft, zegt de studio niet.
 
 Het geeft de [grotere standaardbank](/nl/news/the-bank-starts-with-48-slots/) meteen iets te doen. Gear dat pas tientallen levels later loont, moet ergens blijven staan.

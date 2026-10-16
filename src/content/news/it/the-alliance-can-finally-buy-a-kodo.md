@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Un Kodo è una cavalcatura dell’Orda, e lo è da vent’anni. In WoW Forever l’Alleanza può comprarne uno. Le Reins of the Pack Kodo stanno dall’Azeroth Commerce Authority per 6000 Merchant's Favor, trovate sulla beta e riportate da Wowhead.
+Un Kodo è una cavalcatura dell’Orda, e lo è da vent’anni. In WoW Forever l’Alleanza può comprarne uno. Le Reins of the Pack Kodo stanno dall’Azeroth Commerce Authority per 6000 Merchant's Favor, come si vede sulla beta.
 
 Il mercante si chiama Huey Sunnydale. Merchant's Favor è la moneta della fazione, e compra più di questo: ricette di artigianato, altre cavalcature, giocattoli e oggetti estetici.
 

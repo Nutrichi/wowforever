@@ -11,7 +11,7 @@ faq:
   - q: "Who runs the BMAH in WoW Forever?"
     a: "Madam Swyndle sells the Black Market items. Mister Graphed, next to her, sells crafting reagents and other goods. Both carry the title Agent of the Black Market."
   - q: "What does the Black Market sell?"
-    a: "Mostly pieces of Dungeon Set 1 for 100 gold or more, plus pets, the Tabard of Flame and the Carved Ogre Idol, according to Wowhead."
+    a: "Mostly pieces of Dungeon Set 1 for 100 gold or more, plus pets, the Tabard of Flame and the Carved Ogre Idol."
   - q: "Is Dungeon Set 1 the same as in Classic?"
     a: "No. In Forever every piece has spell power of its own, the set bonuses stop at six pieces instead of eight, and the +200 Armor bonus is gone."
   - q: "Do you bid on items like on the retail Black Market?"

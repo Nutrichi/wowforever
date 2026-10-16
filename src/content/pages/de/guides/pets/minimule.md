@@ -30,7 +30,7 @@ Minimule ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lernst 
 | Wo | Redridge Mountains und The Barrens |
 | Preis | 1.500 Merchant's Favor |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -42,7 +42,7 @@ Merchant's Favor ist die Währung der beiden Versorgungsfraktionen von WoW Forev
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

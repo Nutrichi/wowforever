@@ -1,6 +1,6 @@
 ---
 title: "Les recettes se suivent comme une quête"
-description: "Les métiers de WoW Forever reçoivent une case Track Recipe, un lien de discussion pour tout le livre de recettes et de nouveaux filtres. Wowhead a montré les trois dans la bêta."
+description: "Les métiers de WoW Forever reçoivent une case Track Recipe, un lien de discussion pour tout le livre de recettes et de nouveaux filtres. Les trois sont dans la bêta."
 date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: fr
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Les métiers de WoW Forever reçoivent trois facilités. Une recette peut se suivre comme une quête, tout un livre de recettes peut être lié dans la discussion, et de nouveaux filtres trient les recettes. Wowhead a montré les trois depuis la bêta.
+Les métiers de WoW Forever reçoivent trois facilités. Une recette peut se suivre comme une quête, tout un livre de recettes peut être lié dans la discussion, et de nouveaux filtres trient les recettes. Les trois sont déjà dans la bêta.
 
 ## Suivre une recette
 
@@ -21,7 +21,7 @@ La fenêtre du métier a une nouvelle case, Track Recipe, en bas près de Create
 
 ![La fenêtre Alchemy avec Elixir of Minor Force sélectionné et la case Track Recipe en bas](../../../assets/posts/2026-09-25-wow-forever-alchemy-track-recipe.png)
 
-La cocher affiche les composants à droite de l'écran, sous les quêtes, dans la même liste que les objectifs. C'est utile pour acheter des matériaux à l'Auction House ou les récolter dans le monde, écrit Wowhead.
+La cocher affiche les composants à droite de l'écran, sous les quêtes, dans la même liste que les objectifs. C'est utile pour acheter des matériaux à l'Auction House ou les récolter dans le monde.
 
 ![La liste des objectifs avec une quête et, sous Profession, Elixir of Minor Defense avec ses trois composants](../../../assets/posts/2026-09-25-wow-forever-tracked-reagents.jpg)
 

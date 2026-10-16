@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-On a PvP ruleset in World of Warcraft: Forever, a player may only have characters of one faction. On the other rulesets both sides are allowed. Lead Game Designer Tim Jones and Lead Software Engineer Nora Mills say so in an interview with Game Informer, summarised by Wowhead.
+On a PvP ruleset in World of Warcraft: Forever, a player may only have characters of one faction. On the other rulesets both sides are allowed. Lead Game Designer Tim Jones and Lead Software Engineer Nora Mills say so in an interview with Game Informer.
 
 ## One side on a PvP ruleset
 

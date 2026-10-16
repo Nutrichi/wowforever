@@ -23,6 +23,6 @@ Diverse liste segnalano leggendari che restano best-in-slot. Val'anyr, Hammer of
 
 ## Fonti
 
-La maggior parte delle liste si basa sulle guide all’equipaggiamento di Icy Veins. Icy Veins non ha tabelle della fase 1 per Paladin, Hunter, Rogue e Death Knight. Quelle dodici liste vengono dalle guide della fase 1 di WotLK Classic su Wowhead.
+Le liste si basano su guide all’equipaggiamento affermate per la fase 1 di WotLK Classic.
 
 Per la fase 3, Icy Veins divide alcune tabelle per fazione. Le liste usano gli oggetti dell’Alliance; le versioni della Horde cadono dagli stessi boss con lo stesso livello oggetto. Alcune provenienze di oggetti sbagliate sulle pagine di origine sono state corrette con gli elenchi degli scontri.

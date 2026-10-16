@@ -1,6 +1,6 @@
 ---
 title: "De data schrapt de dismount van Spearing Strike"
-description: "Wowhead vergeleek de spells van de build van WoW Forever van 1 oktober met de vorige. De data bevestigt de class notes en toont enkele wijzigingen die Blizzard niet vermeldde, voor Warriors en Feral Druids."
+description: "De spells van de build van WoW Forever van 1 oktober, vergeleken met de vorige. De data bevestigt de class notes en toont enkele wijzigingen die Blizzard niet vermeldde, voor Warriors en Feral Druids."
 date: 2026-10-02T12:20:00+02:00
 category: forever
 lang: nl
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> haalt zijn doelwit niet meer van zijn mount, volgens de bestanden van de nieuwe build van de beta van World of Warcraft: Forever. Wowhead vergeleek elke spell met de vorige build. De meeste wijzigingen kloppen met de class notes van 1 oktober, maar enkele ontbreken erin.
+<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> haalt zijn doelwit niet meer van zijn mount, volgens de bestanden van de nieuwe build van de beta van World of Warcraft: Forever. Elke spell werd vergeleken met de vorige build. De meeste wijzigingen kloppen met de class notes van 1 oktober, maar enkele ontbreken erin.
 
 Blizzard heeft de wijzigingen hieronder die niet in zijn notes staan, niet bevestigd. Gedatamined tooltips kunnen ook nog veranderen voor ze in het spel komen.
 

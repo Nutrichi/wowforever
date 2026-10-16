@@ -15,7 +15,7 @@ manual: true
 ---
 Die Cozy Sleeping Bag steckt in WoW Forever. Spieler fanden die Questreihe aus Season of Discovery auf der Beta, und sie endet im selben Gegenstand: einem Sack, den du überall ausrollst, um beim Rasten Bonuserfahrung zu bekommen. Für den Start braucht es Stufe 14.
 
-Brubby vom WoW Secret Finding Discord bestätigte die Reihe und lieferte die Screenshots, berichtet Wowhead.
+Brubby vom WoW Secret Finding Discord bestätigte die Reihe und lieferte die Screenshots.
 
 ## Was der Sack macht
 

@@ -28,7 +28,7 @@ Baby Shark è una mascotte da compagnia di Classic che torna in World of Warcraf
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=21168"><img class="wf-wh__icon" src="/wh/inv_drink_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baby Shark</a> |
 | Fonte | Non ancora noto |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -38,7 +38,7 @@ I file della beta di WoW Forever contengono questa mascotte, ma da dove venga no
 
 Ora l'oggetto insegna la mascotte: diventa un incantesimo e non occupa più spazio nelle borse.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

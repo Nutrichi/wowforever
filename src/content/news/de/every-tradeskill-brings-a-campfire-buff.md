@@ -15,7 +15,7 @@ manual: true
 ---
 Camping ist eines der neuen Systeme in WoW Forever, und jeder Tradeskill speist es. Jeder stellt Gegenstände her, die an ein Lager kommen, und wer sich dort eine Minute hinsetzt, nimmt den Buff mit. Du brauchst den Tradeskill nicht selbst, und du musst nicht in einer Gruppe sein.
 
-Wowhead hat die vollständige Liste aus der Beta zusammengestellt. Blizzard hat die Zahlen nicht veröffentlicht.
+Die vollständige Liste stammt aus der Beta. Blizzard hat die Zahlen nicht veröffentlicht.
 
 ## Wie man herankommt
 

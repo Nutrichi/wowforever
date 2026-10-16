@@ -28,7 +28,7 @@ Poley ist ein Haustier aus Classic, das in World of Warcraft: Forever zurückkeh
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22781"><img class="wf-wh__icon" src="/wh/inv_belt_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polar Bear Collar</a> |
 | Quelle | Quest: <a href="https://www.wowhead.com/forever/quest=9273">Redeem iCoke Prize Voucher</a> |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -36,7 +36,7 @@ Es ist die Belohnung der Quest <a href="https://www.wowhead.com/forever/quest=92
 
 ## Was sich seit Classic geändert hat
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

@@ -12,7 +12,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Three rare spawns in the Barrens now drop gear that belongs to a set. Humar the Pridelord, Swiftmane and Takk the Leaper each carry a piece of Blessing of Kalimdor, and wearing two of the three gives 5 percent movement speed in the Barrens and Stonetalon Mountains. Wowhead found it on the beta.
+Three rare spawns in the Barrens now drop gear that belongs to a set. Humar the Pridelord, Swiftmane and Takk the Leaper each carry a piece of Blessing of Kalimdor, and wearing two of the three gives 5 percent movement speed in the Barrens and Stonetalon Mountains.
 
 ## The three pieces
 

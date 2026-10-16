@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-De nieuwe beta-build van WoW Forever stelt alle negen classes bij. Wowhead vond de wijzigingen op 24 september in de bestanden van de build, en Blizzard bevestigde de meeste diezelfde nacht in zijn [ontwikkelingsnotities](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt en Holy Strike krijgen de grootste buffs.
+De nieuwe beta-build van WoW Forever stelt alle negen classes bij. De wijzigingen doken op 24 september op in de bestanden van de build, en Blizzard bevestigde de meeste diezelfde nacht in zijn [ontwikkelingsnotities](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt en Holy Strike krijgen de grootste buffs.
 
-Hieronder de korte versie per class. Wat alleen Wowhead in de bestanden zag en Blizzard niet vermeldt, staat er zo bij. De rest van de build, van de respec voor 1 silver tot de Cooldown Manager, staat in [de post over de nieuwe build](/nl/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
+Hieronder de korte versie per class. Wat alleen in de bestanden staat en Blizzard niet vermeldt, staat er zo bij. De rest van de build, van de respec voor 1 silver tot de Cooldown Manager, staat in [de post over de nieuwe build](/nl/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
 
 ## Druid
 
@@ -41,7 +41,7 @@ De Paladin krijgt de meeste wijzigingen.
 - **Holy Strike** slaat op elke rank harder: 25, 29, 32, 36, 39, 43, 46 en 50% wapenschade (was 25, 25, 30, 30, 35, 35, 40 en 40%). Vroege ranks voelden niet altijd als een verbetering, aldus Blizzard.
 - **Holy:** de cooldown van Holy Strike daalt naar 10 seconden (was 12). Het talent Improved Holy Strike verdwijnt, want het effect zit nu standaard in de spell. Holy Power geeft Holy Strike ook 15% meer kans op een critical strike.
 - **Retribution** verliest wat burst. Vengeance activeert alleen nog bij critical strikes die niet periodiek zijn, en stapelt tot 3 (was 5). Two-Handed Weapon Specialization geeft 2, 4 en 6% (was 3, 6 en 9%). Daartegenover verhoogt Sacred Arbiter de schade van Holy Strike met 20% (was 10%), en maakt Twist of Light Seals ook 20% goedkoper.
-- Righteous Fury verhoogt de Holy-threat met 60% (was 90%). Wowhead ziet ook Crusade uit de talentenboom verdwijnen; Blizzard vermeldt dat niet.
+- Righteous Fury verhoogt de Holy-threat met 60% (was 90%). De bestanden halen ook Crusade uit de talentenboom; Blizzard vermeldt dat niet.
 
 ## Priest
 
@@ -50,11 +50,11 @@ De Paladin krijgt de meeste wijzigingen.
 
 ## Rogue
 
-- Sap markeert de Rogue nu voor PvP als het doel gemarkeerd is. Wowhead ziet ook een gewijzigde waarde in Improved Expose Armor die de tooltip niet toont; wat die doet, is niet bekend.
+- Sap markeert de Rogue nu voor PvP als het doel gemarkeerd is. De bestanden wijzigen ook een waarde in Improved Expose Armor die de tooltip niet toont; wat die doet, is niet bekend.
 
 ## Shaman
 
-- **Lightning Bolt** rank 3 en 4 doen meer schade, zodat elke rank een verbetering is ondanks de gewijzigde casttijden. De hoogste ranks verliezen een of twee punten, volgens Wowhead.
+- **Lightning Bolt** rank 3 en 4 doen meer schade, zodat elke rank een verbetering is ondanks de gewijzigde casttijden. De hoogste ranks verliezen een of twee punten.
 - **Lava Burst** rank 1 en 2 doen ongeveer 10% meer basisschade dan de Lightning Bolt van hetzelfde level.
 - **Elemental:** Elemental Fury en Elemental Alacrity wisselen van plaats, van rij 3 naar rij 6 en omgekeerd. Blizzard wil dat Elemental een belangrijk talent eerder bereikt.
 - **Enhancement:** Rage of the Far Seer verhoogt de castsnelheid van spells niet meer.
@@ -64,7 +64,7 @@ De Paladin krijgt de meeste wijzigingen.
 ## Warlock
 
 - De Sacrifice van de Voidwalker schaalt met 10% van de spell healing. De tooltip van Life Tap toont nu de juiste cijfers.
-- Volgens Wowhead kan Health Funnel niet meer critten, en verdwijnt een Firestone na 15 minuten uitgelogd.
+- In de bestanden kan Health Funnel niet meer critten, en verdwijnt een Firestone na 15 minuten uitgelogd.
 
 ## Warrior
 

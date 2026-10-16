@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard ha mostrato il Forsaken Charger durante il panel Found Photographs di World of Warcraft: Forever. È la cavalcatura del Forsaken Paladin, la nuova combinazione di razza e classe in Forever. I Forsaken Paladin ricevono una propria missione per la cavalcatura epica al livello 60.
 
-Ogni razza con i Paladin ha il suo Charger, e i Forsaken non fanno eccezione, scrive Wowhead.
+Ogni razza con i Paladin ha il suo Charger, e i Forsaken non fanno eccezione.
 
 La strada del Forsaken Paladin segue la nuova campagna di Warcraft III, Forsaken Kingdom. Comincia in un momento in cui questi ex paladini sono ancora guardati con diffidenza dagli altri Forsaken e stanno imparando cosa significhi usare la Light da non morti, dice Blizzard.
 

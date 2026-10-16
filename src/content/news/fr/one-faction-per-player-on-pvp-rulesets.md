@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Sur un ruleset PvP de World of Warcraft: Forever, un joueur ne peut avoir que des personnages d'une seule faction. Sur les autres rulesets, les deux camps sont permis. C'est ce que disent le Lead Game Designer Tim Jones et la Lead Software Engineer Nora Mills dans un entretien avec Game Informer, résumé par Wowhead.
+Sur un ruleset PvP de World of Warcraft: Forever, un joueur ne peut avoir que des personnages d'une seule faction. Sur les autres rulesets, les deux camps sont permis. C'est ce que disent le Lead Game Designer Tim Jones et la Lead Software Engineer Nora Mills dans un entretien avec Game Informer.
 
 ## Un seul camp sur un ruleset PvP
 

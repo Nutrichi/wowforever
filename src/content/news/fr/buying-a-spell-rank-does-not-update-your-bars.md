@@ -15,7 +15,7 @@ manual: true
 ---
 Acheter un rang supérieur d’un sort dans WoW Forever ne le place pas sur vos barres d’action. Pour les classes qui dépensent du mana, l’ancien rang reste en place et continue d’être lancé, si bien qu’un passage chez le maître peut coûter de l’or sans rien changer.
 
-Wowhead a signalé ce comportement sur la bêta.
+Ce comportement a été signalé sur la bêta.
 
 ## Qui est concerné
 

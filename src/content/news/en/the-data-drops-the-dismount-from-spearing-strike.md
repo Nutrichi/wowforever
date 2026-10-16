@@ -1,6 +1,6 @@
 ---
 title: "The data drops the dismount from Spearing Strike"
-description: "Wowhead compared the spells of the WoW Forever build of 1 October with the previous one. The data confirms the class notes and shows a few changes Blizzard did not list, for Warriors and Feral Druids."
+description: "The spells of the WoW Forever build of 1 October, compared with the previous one. The data confirms the class notes and shows a few changes Blizzard did not list, for Warriors and Feral Druids."
 date: 2026-10-02T12:20:00+02:00
 category: forever
 lang: en
@@ -12,7 +12,7 @@ tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
 ---
-<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> no longer dismounts its target, according to the files of the new World of Warcraft: Forever beta build. Wowhead compared every spell with the previous build. Most changes match the class notes of 1 October, but a few are missing from them.
+<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> no longer dismounts its target, according to the files of the new World of Warcraft: Forever beta build. Every spell was compared with the previous build. Most changes match the class notes of 1 October, but a few are missing from them.
 
 Blizzard has not confirmed the changes below that are not in its notes. Datamined tooltips can also change again before they reach the game.
 

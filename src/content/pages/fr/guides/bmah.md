@@ -12,7 +12,7 @@ faq:
   - q: "Qui tient le BMAH dans WoW Forever ?"
     a: "Madam Swyndle vend les objets du Black Market. Mister Graphed, à côté d'elle, vend des composants d'artisanat et d'autres marchandises. Tous deux portent le titre Agent of the Black Market."
   - q: "Que vend le Black Market ?"
-    a: "Surtout des pièces du Dungeon Set 1 pour 100 pièces d'or ou plus, ainsi que des mascottes, le Tabard of Flame et le Carved Ogre Idol, selon Wowhead."
+    a: "Surtout des pièces du Dungeon Set 1 pour 100 pièces d'or ou plus, ainsi que des mascottes, le Tabard of Flame et le Carved Ogre Idol."
   - q: "Le Dungeon Set 1 est-il le même que dans Classic ?"
     a: "Non. Dans Forever, chaque pièce a sa propre spell power, les bonus de set s'arrêtent à six pièces au lieu de huit, et le bonus de +200 Armor disparaît."
   - q: "Faut-il enchérir comme sur le Black Market de retail ?"

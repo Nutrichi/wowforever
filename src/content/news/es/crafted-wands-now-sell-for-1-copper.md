@@ -23,7 +23,7 @@ El cambio está en las notas de la build de la beta del 1 de octubre:
 
 ## Lo que valían las varitas
 
-Los precios antiguos salen de los archivos de la build anterior, 70124. Además de esencias y polvo del desencantamiento, cada varita pide madera de un vendedor: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> por unos 40 copper o <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> por unos 45 silver, según Wowhead.
+Los precios antiguos salen de los archivos de la build anterior, 70124. Además de esencias y polvo del desencantamiento, cada varita pide madera de un vendedor: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> por unos 40 copper o <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> por unos 45 silver.
 
 | Varita | Precio antiguo | Ahora | Materiales |
 |---|---|---|---|
@@ -34,4 +34,4 @@ Los precios antiguos salen de los archivos de la build anterior, 70124. Además 
 
 Quien desencantaba los objetos verdes que encontraba de todos modos tenía las esencias gratis. Vender varitas era entonces una forma fácil de ganar silver. Eso se acabó: las varitas ya solo sirven para usarlas, al subir de nivel o como equipo.
 
-La Lesser Mystic Wand ya se vendía por menos de lo que costaban sus materiales, escribe Wowhead. Por las otras tres, el vendedor pagaba más que la madera.
+La Lesser Mystic Wand ya se vendía por menos de lo que costaban sus materiales. Por las otras tres, el vendedor pagaba más que la madera.

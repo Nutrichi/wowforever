@@ -15,7 +15,7 @@ manual: true
 ---
 Un jugador ha encontrado en la beta de WoW Forever un objeto que solo existe para llevarse puesto. El Stolen Wastewander Cowl está en el vendedor de reputación de Gadgetzan, cuesta 10 de oro en Venerado y no lleva estadísticas. Es el primer objeto solo cosmético que aparece en Forever.
 
-Un jugador llamado Gloky envió la captura a Wowhead, que informó del hallazgo. La descripción dice que el objeto es Cosmetic, que se liga al recogerlo y que añade su aspecto a la colección de la cuenta.
+Un jugador llamado Gloky compartió la captura. La descripción dice que el objeto es Cosmetic, que se liga al recogerlo y que añade su aspecto a la colección de la cuenta.
 
 ## Por qué existe un objeto así
 

@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-El panel Statistics funciona en la beta de WoW Forever. En la primera build se quedaba vacío, y la actual lo llena con unas doscientas cifras por personaje, escribe Wowhead. Van desde el total de enemigos abatidos y el oro gastado hasta las muertes a manos de Hogger.
+El panel Statistics funciona en la beta de WoW Forever. En la primera build se quedaba vacío, y la actual lo llena con unas doscientas cifras por personaje. Van desde el total de enemigos abatidos y el oro gastado hasta las muertes a manos de Hogger.
 
 ## Dónde está
 
@@ -21,7 +21,7 @@ El panel está en la ventana del personaje. Ábrela con C, la tecla por defecto,
 
 ## Qué cuenta
 
-Wowhead publicó la lista completa. Una selección:
+Una selección de la lista completa:
 
 - **Combate:** el mayor golpe dado y recibido, la mayor sanación, el daño total y la sanación total.
 - **Riqueza:** oro de misiones, vendedores y subastas, oro gastado en respecs, viajes, correo y la barbería, y el máximo de oro que se ha tenido.
@@ -35,7 +35,7 @@ El JcJ tiene sus propios bloques, con honorable kills, killing blows y resultado
 
 ## Jefes de las mazmorras nuevas
 
-La categoría Boss Kills solo muestra un jefe cuando el personaje lo ha derrotado al menos una vez, escribe Wowhead. La lista recoge las mazmorras clásicas, de Edwin VanCleef en Deadmines a Baron Rivendare en Stratholme. También nombra jefes de contenido nuevo en Forever:
+La categoría Boss Kills solo muestra un jefe cuando el personaje lo ha derrotado al menos una vez. La lista recoge las mazmorras clásicas, de Edwin VanCleef en Deadmines a Baron Rivendare en Stratholme. También nombra jefes de contenido nuevo en Forever:
 
 - **The Hall of Thanes:** Durgen Dirgehammer
 - **Ruins of Lordaeron:** Rath'mael
@@ -47,4 +47,4 @@ La categoría Boss Kills solo muestra un jefe cuando el personaje lo ha derrotad
 
 Durgen Dirgehammer es el jefe final de la Hall of Thanes, como muestra [la guía](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Rath'mael es uno de los seis jefes de Ruins of Lordaeron, que se pueden hacer en cualquier orden, según [el recorrido](/es/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/). Para los demás nombres, la lista no dice si son el último jefe. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold y Blackmaw Hold no aparecen.
 
-Algunas líneas apuntan a expansiones posteriores, como Inscription, los Dalaran Cooking Awards y misiones diarias de Cooking y Fishing. Si significan algo en Forever, Wowhead no lo dice.
+Algunas líneas apuntan a expansiones posteriores, como Inscription, los Dalaran Cooking Awards y misiones diarias de Cooking y Fishing. No se sabe si significan algo en Forever.

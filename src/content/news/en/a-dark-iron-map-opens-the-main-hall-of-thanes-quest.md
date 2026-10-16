@@ -30,10 +30,10 @@ That quest asks for the head of Durgen Dirgehammer, the final boss. It goes to K
 - **An Ancient Grudge**, from a Ghostly Attendant in the second room: put the spirit of Faldrim Anvilmar, the first boss, to rest.
 - **The Treaty of Understanding**, from a tablet behind a vault door in the room of the final boss. It only asks to bring the treaty to Magni Bronzebeard.
 
-Each quest gives between 3,900 and 4,900 experience, according to Wowhead. Wowhead lists three of them at level 15 and Old Ironforge Incursion at level 16.
+Each quest gives between 3,900 and 4,900 experience. Three of them are listed at level 15 and Old Ironforge Incursion at level 16.
 
 ![The tablet of The Treaty of Understanding in a vault of the Reliquary of Kings, with the quest window open](../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg)
 
 Every step, with the coordinates, the rewards and seven screenshots, is in the [guide to the Hall of Thanes quests](/guides/dungeons/hall-of-thanes/). How the four bosses work is in [the walkthrough of the dungeon](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
 
-Whether the Horde may take the quests is still not clear. Wowhead contradicts itself on that point between its news article and its dungeon guide.
+Whether the Horde may take the quests is still not clear. The sources contradict each other on that point.

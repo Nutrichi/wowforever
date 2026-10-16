@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Shared tagging is not coming to World of Warcraft: Forever. Senior Game Designer Josh Greenfield, known as Aggrend, says the team has to hold the line there. He wrote that on 20 September in a reply on X, picked up by Wowhead.
+Shared tagging is not coming to World of Warcraft: Forever. Senior Game Designer Josh Greenfield, known as Aggrend, says the team has to hold the line there. He wrote that on 20 September in a reply on X.
 
 ## What Aggrend wrote
 
@@ -23,16 +23,16 @@ Which other things those are, he does not say. His reply drew more than 140 repl
 
 ## The first hit owns the mob
 
-Forever keeps the Classic rule. The first player or group to land a hit owns the mob, and the kill and the loot go with it. Shared tagging is the version Retail players are used to, writes Wowhead: everyone who does damage gets credit. Blizzard has no plans to move Forever to that model.
+Forever keeps the Classic rule. The first player or group to land a hit owns the mob, and the kill and the loot go with it. Shared tagging is the version Retail players are used to: everyone who does damage gets credit. Blizzard has no plans to move Forever to that model.
 
 ## The beta is crowded
 
-The beta opened on 17 September and is one of the largest beta tests Blizzard has ever run, writes Wowhead. Virtually every quest mob is camped, and even with the new phasing technology players compete hard for tags. A zone refresh moves players to a fresh copy of the same area and [warns five minutes in advance](/news/phasing-warning-before-a-zone-refresh/).
+The beta opened on 17 September and is one of the largest beta tests Blizzard has ever run. Virtually every quest mob is camped, and even with the new phasing technology players compete hard for tags. A zone refresh moves players to a fresh copy of the same area and [warns five minutes in advance](/news/phasing-warning-before-a-zone-refresh/).
 
 ![The Barrens in daylight with acacia trees and a watchtower, an official screenshot of World of Warcraft: Forever](../../../assets/posts/2026-09-17-wow-forever-the-barrens.jpg)
 
 ## Why the friction stays
 
-Social play steers most of what the team decides, writes Wowhead, so the friction that makes players talk to each other is worth keeping. Make it too easy and people stop interacting, make it too hard and they stop having fun.
+Social play steers most of what the team decides, so the friction that makes players talk to each other is worth keeping. Make it too easy and people stop interacting, make it too hard and they stop having fun.
 
 Blizzard drew the same line earlier on 20 September. In an interview with Game Informer, two leads called [a long flight path](/news/one-faction-per-player-on-pvp-rulesets/) a moment in which a player answers a question in general chat.

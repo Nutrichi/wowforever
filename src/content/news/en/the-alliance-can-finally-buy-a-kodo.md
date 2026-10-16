@@ -12,7 +12,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-A Kodo is a Horde mount, and has been for twenty years. In WoW Forever the Alliance can buy one. The Reins of the Pack Kodo sits at the Azeroth Commerce Authority for 6000 Merchant's Favor, found on the beta and reported by Wowhead.
+A Kodo is a Horde mount, and has been for twenty years. In WoW Forever the Alliance can buy one. The Reins of the Pack Kodo sits at the Azeroth Commerce Authority for 6000 Merchant's Favor, as found on the beta.
 
 The vendor is Huey Sunnydale. Merchant's Favor is the currency of the faction, and it buys more than this: crafting recipes, other mounts, toys and cosmetics.
 

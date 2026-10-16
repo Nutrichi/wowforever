@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Emerald Whelpling in WoW Forever?"
-    a: "Es fällt von Dreaming Whelp in Swamp of Sorrows. In den Beutedaten von Wowhead fällt es bei etwa 0,2 % der Kills."
+    a: "Es fällt von Dreaming Whelp in Swamp of Sorrows. In den Beutedaten fällt es bei etwa 0,2 % der Kills."
   - q: "Ist Emerald Whelpling neu in WoW Forever?"
     a: "Nein. Emerald Whelpling gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -30,17 +30,17 @@ Emerald Whelpling ist ein Haustier aus Classic, das in World of Warcraft: Foreve
 | Wo | Swamp of Sorrows |
 | Dropchance | 0,2 % |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
-Es fällt von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> in Swamp of Sorrows. In den Beutedaten von Wowhead fällt es bei etwa 0,2 % der Kills.
+Es fällt von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> in Swamp of Sorrows. In den Beutedaten fällt es bei etwa 0,2 % der Kills.
 
 ## Was sich seit Classic geändert hat
 
 Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen. Das Herbeirufen ist sofort statt mit 1 Sekunde Zauberzeit, mit einer Abklingzeit von 1,5 Sekunden.
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

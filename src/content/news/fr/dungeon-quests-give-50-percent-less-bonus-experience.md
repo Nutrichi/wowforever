@@ -25,8 +25,8 @@ Seule la part supplémentaire diminue. Une quête de donjon donne toujours au mo
 
 ## Pourquoi les quêtes de donjon valaient autant
 
-Dans Forever, Blizzard a déplacé [l’expérience des donjons des monstres vers les quêtes](/fr/news/wow-forever-dungeon-experience-changes/). Les monstres d’un donjon donnent peu, les quêtes beaucoup. Dans The Hall of Thanes, un monstre donnait 28 à 30 points d’expérience et chaque quête 3 900 à 4 900, selon Wowhead.
+Dans Forever, Blizzard a déplacé [l’expérience des donjons des monstres vers les quêtes](/fr/news/wow-forever-dungeon-experience-changes/). Les monstres d’un donjon donnent peu, les quêtes beaucoup. Dans The Hall of Thanes, un monstre donnait 28 à 30 points d’expérience et chaque quête 3 900 à 4 900.
 
-Cela a été critiqué des deux côtés, écrit Wowhead. Certains joueurs craignaient que le bonus des quêtes rende le leveling trop rapide. D’autres trouvaient qu’avec si peu d’expérience par monstre, un deuxième passage dans un donjon ne servait à rien. La nouvelle build répond au premier groupe. Pour les passages répétés, rien ne change.
+Cela a été critiqué des deux côtés. Certains joueurs craignaient que le bonus des quêtes rende le leveling trop rapide. D’autres trouvaient qu’avec si peu d’expérience par monstre, un deuxième passage dans un donjon ne servait à rien. La nouvelle build répond au premier groupe. Pour les passages répétés, rien ne change.
 
 Combien rapporte désormais une quête de donjon, Blizzard ne le chiffre pas. Si l’expérience des monstres remonte, les notes ne le disent pas non plus.

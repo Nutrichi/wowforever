@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Tallstrider Hatchling in WoW Forever?"
-    a: "It drops from Strider Clutchmother in Darkshore. In the loot data of Wowhead it drops in about 0.2% of kills."
+    a: "It drops from Strider Clutchmother in Darkshore. In the loot data it drops in about 0.2% of kills."
   - q: "Is Tallstrider Hatchling new in WoW Forever?"
     a: "Yes. Tallstrider Hatchling is new in WoW Forever and was not in Classic."
 sources:
@@ -29,15 +29,15 @@ Tallstrider Hatchling is a companion pet that is new in World of Warcraft: Forev
 | Where | Darkshore |
 | Drop chance | 0.2% |
 | New in Forever | yes |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
-It drops from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> in Darkshore. In the loot data of Wowhead it drops in about 0.2% of kills.
+It drops from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> in Darkshore. In the loot data it drops in about 0.2% of kills.
 
 ## Good to know
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

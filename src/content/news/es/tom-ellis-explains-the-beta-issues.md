@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-La beta de World of Warcraft: Forever abrió el 17 de septiembre con desconexiones, colas largas y retraso en cada loot. El Senior Game Producer Tom Ellis publicó en X un mensaje largo sobre lo que salió mal, resumido por Wowhead. Es una mirada poco habitual a la maquinaria que hay detrás de una beta.
+La beta de World of Warcraft: Forever abrió el 17 de septiembre con desconexiones, colas largas y retraso en cada loot. El Senior Game Producer Tom Ellis publicó en X un mensaje largo sobre lo que salió mal. Es una mirada poco habitual a la maquinaria que hay detrás de una beta.
 
 ## El entorno es un montaje de pruebas
 

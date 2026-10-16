@@ -27,7 +27,7 @@ Wild Chicken is a companion pet that is new in World of Warcraft: Forever. You l
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=274956"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wild Chicken Egg</a> |
 | Source | Not known yet |
 | New in Forever | yes |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -35,7 +35,7 @@ The files of the WoW Forever beta hold this pet, but where it comes from is not 
 
 ## Good to know
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

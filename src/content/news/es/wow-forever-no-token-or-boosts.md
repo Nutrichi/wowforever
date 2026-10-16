@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-No habrá WoW Token ni boost en World of Warcraft: Forever. Clay Stone, Associate Production Director, lo dijo en una entrevista con Destin en la BlizzCon 2026, informa Wowhead. El viaje es el juego, ese es el razonamiento.
+No habrá WoW Token ni boost en World of Warcraft: Forever. Clay Stone, Associate Production Director, lo dijo en una entrevista con Destin en la BlizzCon 2026. El viaje es el juego, ese es el razonamiento.
 
 Destin habló con Stone y con Nora Mills, Lead Software Engineer.
 

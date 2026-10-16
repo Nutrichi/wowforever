@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Los cambios de addons de Midnight también estarán activos en World of Warcraft: Forever. Blizzard lo anunció en el Discord de WoW UI, informa Wowhead. Forever comparte la arquitectura de interfaz del WoW moderno, con los secrets y los nuevos aura containers.
+Los cambios de addons de Midnight también estarán activos en World of Warcraft: Forever. Blizzard lo anunció en el Discord de WoW UI. Forever comparte la arquitectura de interfaz del WoW moderno, con los secrets y los nuevos aura containers.
 
 ## Lo que dice Blizzard
 
@@ -27,17 +27,17 @@ Blizzard trata Forever y el WoW moderno como dos game types dentro de la misma f
 
 ## Lo que cambia para los addons
 
-El addon disarmament de Midnight trata de los secret values. El juego esconde información que los addons podían leer antes, para que un addon ya no dé ventaja, escribe Wowhead.
+El addon disarmament de Midnight trata de los secret values. El juego esconde información que los addons podían leer antes, para que un addon ya no dé ventaja.
 
-Ese objetivo recibió muchas críticas durante la beta de Midnight, y los jugadores siguen encontrando rodeos, escribe Wowhead. Blizzard los trata caso por caso y también ha mejorado su propia interfaz.
+Ese objetivo recibió muchas críticas durante la beta de Midnight, y los jugadores siguen encontrando rodeos. Blizzard los trata caso por caso y también ha mejorado su propia interfaz.
 
 Los cambios de AuraContainer y AuraButton del parche 12.1.0 van con ello. Blizzard dice que los jugadores pueden esperar futuros cambios de interfaz en los dos game types.
 
-Los addons escritos para WoW Classic tendrán que rehacerse probablemente, y los addons de Midnight se trasladan con más facilidad, escribe Wowhead.
+Los addons escritos para WoW Classic tendrán que rehacerse probablemente, y los addons de Midnight se trasladan con más facilidad.
 
 ## La reacción
 
-WeakAuras paró su desarrollo antes de Midnight y casi todos los addons tuvieron que actualizarse para la nueva interfaz, escribe Wowhead. La cuenta de WeakAuras publicó el anuncio en X el 15 de septiembre.
+WeakAuras paró su desarrollo antes de Midnight y casi todos los addons tuvieron que actualizarse para la nueva interfaz. La cuenta de WeakAuras publicó el anuncio en X el 15 de septiembre.
 
 El jugador Luckyone961 lo resumió allí un día después.
 

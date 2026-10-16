@@ -8,7 +8,7 @@ lang: it
 manual: true
 faq:
   - q: "Come si ottiene Emerald Whelpling in WoW Forever?"
-    a: "La lascia cadere Dreaming Whelp a Swamp of Sorrows. Nei dati di bottino di Wowhead cade in circa il 0,2% delle uccisioni."
+    a: "La lascia cadere Dreaming Whelp a Swamp of Sorrows. Nei dati di bottino cade in circa il 0,2% delle uccisioni."
   - q: "Emerald Whelpling è nuova in WoW Forever?"
     a: "No. Emerald Whelpling c'era già in Classic e torna in WoW Forever."
 sources:
@@ -30,17 +30,17 @@ Emerald Whelpling è una mascotte da compagnia di Classic che torna in World of 
 | Dove | Swamp of Sorrows |
 | Probabilità | 0,2% |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
-La lascia cadere <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> a Swamp of Sorrows. Nei dati di bottino di Wowhead cade in circa il 0,2% delle uccisioni.
+La lascia cadere <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> a Swamp of Sorrows. Nei dati di bottino cade in circa il 0,2% delle uccisioni.
 
 ## Cosa è cambiato da Classic
 
 Ora l'oggetto insegna la mascotte: diventa un incantesimo e non occupa più spazio nelle borse. Evocarla è istantaneo invece di un lancio di 1 secondo, con un tempo di recupero di 1,5 secondi.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Hyacinth Macaw in WoW Forever?"
-    a: "It drops from several monsters. These have the best chance in the loot data of Wowhead: Bloodsail Sea Dog in Stranglethorn Vale, about 0.7% Bloodsail Swashbuckler in Stranglethorn Vale, about 0.1% Bloodsail Warlock in Stranglethorn Vale, about 0.1%"
+    a: "It drops from several monsters. These have the best chance in the loot data: Bloodsail Sea Dog in Stranglethorn Vale, about 0.7% Bloodsail Swashbuckler in Stranglethorn Vale, about 0.1% Bloodsail Warlock in Stranglethorn Vale, about 0.1%"
   - q: "Is Hyacinth Macaw new in WoW Forever?"
     a: "No. Hyacinth Macaw was already in Classic and returns in WoW Forever."
 sources:
@@ -29,11 +29,11 @@ Hyacinth Macaw is a companion pet from Classic that returns in World of Warcraft
 | Where | Stranglethorn Vale |
 | Drop chance | 0.7% |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
-It drops from several monsters. These have the best chance in the loot data of Wowhead:
+It drops from several monsters. These have the best chance in the loot data:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1565">Bloodsail Sea Dog</a> in Stranglethorn Vale, about 0.7%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1563">Bloodsail Swashbuckler</a> in Stranglethorn Vale, about 0.1%
@@ -43,7 +43,7 @@ It drops from several monsters. These have the best chance in the loot data of W
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags. Summoning it is instant instead of a 1 second cast, with a cooldown of 1.5 seconds.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets in Stranglethorn Vale
 

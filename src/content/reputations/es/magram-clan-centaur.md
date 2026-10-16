@@ -45,7 +45,7 @@ La mayor parte sale de matar centauros del clan Gelkis en Desolace. Warcraft Wik
 
 ### La cadena de misiones
 
-Desde Friendly, Warug, en las afueras de Magram Village en el sureste de Desolace, abre una cadena: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka y Khan Hratha. Magram Alliance da 100 de reputación con los Magram y cuesta 500 con los Gelkis, dice Wowhead. Warug también te manda contra los Kolkar y los Maraudine, escribe Warcraft Wiki.
+Desde Friendly, Warug, en las afueras de Magram Village en el sureste de Desolace, abre una cadena: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka y Khan Hratha. Magram Alliance da 100 de reputación con los Magram y cuesta 500 con los Gelkis. Warug también te manda contra los Kolkar y los Maraudine, escribe Warcraft Wiki.
 
 ### Dónde se para
 

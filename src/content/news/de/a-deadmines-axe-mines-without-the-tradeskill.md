@@ -15,7 +15,7 @@ manual: true
 ---
 Rockslicer, eine Zweihandaxt aus den Deadmines, trägt in WoW Forever einen neuen Effekt. Sie öffnet Adern von Copper, Tin, Silver und Iron ohne den Tradeskill Mining, 30 Ladungen lang. Danach bleibt die Axt in den Taschen, der Abbau-Nutzen ist weg.
 
-Wowhead entdeckte die Änderung auf der Beta, wo die Beute im ganzen Spiel neue Werte bekam.
+Die Änderung tauchte auf der Beta auf, wo die Beute im ganzen Spiel neue Werte bekam.
 
 ## Was die Axt ist
 

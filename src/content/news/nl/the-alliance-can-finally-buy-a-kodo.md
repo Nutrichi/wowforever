@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Een Kodo is een Horde-mount, en dat is hij al twintig jaar. In WoW Forever kan de Alliance er een kopen. De Reins of the Pack Kodo staat bij de Azeroth Commerce Authority voor 6000 Merchant's Favor, gevonden op de beta en gemeld door Wowhead.
+Een Kodo is een Horde-mount, en dat is hij al twintig jaar. In WoW Forever kan de Alliance er een kopen. De Reins of the Pack Kodo staat bij de Azeroth Commerce Authority voor 6000 Merchant's Favor, zo blijkt op de beta.
 
 De handelaar heet Huey Sunnydale. Merchant's Favor is de munt van de factie, en die koopt meer dan dit: crafting-recepten, andere mounts, toys en cosmetica.
 

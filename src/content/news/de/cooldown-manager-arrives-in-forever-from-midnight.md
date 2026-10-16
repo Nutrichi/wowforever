@@ -13,15 +13,15 @@ featured: false
 draft: false
 manual: true
 ---
-Der Cooldown Manager aus Retail lässt sich jetzt in der WoW-Forever-Beta testen. Er kam mit Patch 12.0 nach Midnight, als Blizzard einschränkte, was Addons dürfen. Druid, Mage, Priest, Warrior und Warlock können ihn schon ausprobieren, schreibt Wowhead.
+Der Cooldown Manager aus Retail lässt sich jetzt in der WoW-Forever-Beta testen. Er kam mit Patch 12.0 nach Midnight, als Blizzard einschränkte, was Addons dürfen. Druid, Mage, Priest, Warrior und Warlock können ihn schon ausprobieren.
 
 ## Warum er zu Forever passt
 
-Forever hat dieselben Addon-Beschränkungen wie Midnight und läuft auf demselben Client wie Retail, schreibt Wowhead. Deshalb konnte der Manager übernommen werden. Er holt die wichtigsten Informationen aus der Buffleiste und der Aktionsleiste und setzt sie dorthin, wo der Spieler sie haben will, laut den [Entwicklungsnotizen](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) vom 24. September.
+Forever hat dieselben Addon-Beschränkungen wie Midnight und läuft auf demselben Client wie Retail. Deshalb konnte der Manager übernommen werden. Er holt die wichtigsten Informationen aus der Buffleiste und der Aktionsleiste und setzt sie dorthin, wo der Spieler sie haben will, laut den [Entwicklungsnotizen](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) vom 24. September.
 
 ## Einschalten
 
-Der Manager ist standardmäßig aus. Blizzard legt den Schalter in Options unter Gameplay Enhancement; Wowhead fand ihn unter Options, Advanced Options. Ist er an, verschiebt Edit Mode die verfolgten Zauber über den Bildschirm, und /cdm öffnet die Liste dessen, was angezeigt wird.
+Der Manager ist standardmäßig aus. Blizzard legt den Schalter in Options unter Gameplay Enhancement; auf der Beta steht er unter Options, Advanced Options. Ist er an, verschiebt Edit Mode die verfolgten Zauber über den Bildschirm, und /cdm öffnet die Liste dessen, was angezeigt wird.
 
 ## Das Einstellungsfenster
 

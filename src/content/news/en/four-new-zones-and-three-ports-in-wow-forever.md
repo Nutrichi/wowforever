@@ -13,13 +13,13 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever gets four new zones at launch: Mount Hyjal, Shen'Dralas, Riverglades and Zephras Isle. That is what Wowhead writes, based on the panels at BlizzCon. Three ports and over 1,000 new quests come with them.
+World of Warcraft: Forever gets four new zones at launch: Mount Hyjal, Shen'Dralas, Riverglades and Zephras Isle. That follows from the panels at BlizzCon. Three ports and over 1,000 new quests come with them.
 
 ## The four new zones
 
 Mount Hyjal is the endgame zone and holds the first raids for 20 and 10 players, Hyjal Summit and the Barrow Deeps. Forever is set after Warcraft III, so Archimonde's skeleton still lies near Nordrassil.
 
-Shen'Dralas sits between Mulgore and Desolace. The zone carries on the story of the Shen'dralar and that of the centaur tribes of Desolace, Wowhead writes. Quests are added around the dungeons Razorfen Downs and Maraudon.
+Shen'Dralas sits between Mulgore and Desolace. The zone carries on the story of the Shen'dralar and that of the centaur tribes of Desolace. Quests are added around the dungeons Razorfen Downs and Maraudon.
 
 Riverglades fills the gap between the mid thirties and the early forties. Players reach it from Steamwheedle Port or through a new route from Redridge into the Burning Steppes. Ogres and the Twilight's Hammer live there, and the new dungeon Krol'dok Stronghold lies in the zone.
 
@@ -35,7 +35,7 @@ Southshore finally gets a use for its dock and becomes a stop between Menethil H
 
 ## What changes in the starting zones
 
-Every starting zone gets new NPCs, quests and experiences compared to WoW Classic, says Lead Content Designer Evan Lee according to Wowhead. The content players know stays in place beside it. Desolace and the Wetlands receive large packages of extra quests, so they feel less empty.
+Every starting zone gets new NPCs, quests and experiences compared to WoW Classic, says Lead Content Designer Evan Lee. The content players know stays in place beside it. Desolace and the Wetlands receive large packages of extra quests, so they feel less empty.
 
 ## When the story is set
 

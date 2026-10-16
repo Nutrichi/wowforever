@@ -1,6 +1,6 @@
 ---
 title: "I file della beta nascondono un set di stoffa per livellare"
-description: "Rotmender's Raiment conta cinque pezzi di stoffa per i livelli da 17 a 19, con un bonus per minaccia, Mana e cure. Wowhead lo ha trovato nei file dell'ultima build della beta; Blizzard non lo ha confermato."
+description: "Rotmender's Raiment conta cinque pezzi di stoffa per i livelli da 17 a 19, con un bonus per minaccia, Mana e cure. È nei file dell'ultima build della beta; Blizzard non lo ha confermato."
 date: 2026-09-25T10:25:00+02:00
 category: forever
 lang: it
@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-I file dell'ultima build della beta contengono un nuovo set per livellare, Rotmender's Raiment. Conta cinque pezzi di stoffa per personaggi tra il livello 17 e il 19, scrive Wowhead dopo un datamining. Blizzard non ha confermato il set.
+I file dell'ultima build della beta contengono un nuovo set per livellare, Rotmender's Raiment. Conta cinque pezzi di stoffa per personaggi tra il livello 17 e il 19. Blizzard non ha confermato il set.
 
-Wowhead lo paragona a Embrace of the Viper, il set di Wailing Caverns che [trasforma i Druids in un serpente](/it/news/a-hidden-set-bonus-turns-druids-into-a-snake/).
+Ricorda Embrace of the Viper, il set di Wailing Caverns che [trasforma i Druids in un serpente](/it/news/a-hidden-set-bonus-turns-druids-into-a-snake/).
 
 ## I bonus
 
@@ -34,8 +34,8 @@ Wowhead lo paragona a Embrace of the Viper, il set di Wailing Caverns che [trasf
 | Rotmender's Leggings | Gambe | 22 | 17 | quando raccolto |
 | Rotmender's Treads | Piedi | 24 | 19 | quando raccolto |
 
-Due pezzi esistevano già con un altro nome. Le Rotmender's Leggings si chiamavano Wispcloth Leggings e le Rotmender's Treads erano le Frostbane Treads, scrive Wowhead. Entrambe cadono nei dungeon, quindi Wowhead si aspetta che anche gli altri tre arrivino dai dungeon. Quali, l'articolo non lo dice.
+Due pezzi esistevano già con un altro nome. Le Rotmender's Leggings si chiamavano Wispcloth Leggings e le Rotmender's Treads erano le Frostbane Treads. Entrambe cadono nei dungeon, quindi probabilmente anche gli altri tre arrivano dai dungeon. Quali, non si sa.
 
 ## Può ancora cambiare
 
-Forever gestisce il datamining e la crittografia in modo diverso dalle altre versioni di WoW, scrive Wowhead. Tutto ciò che c'è nei file può ancora cambiare prima del lancio del 4 novembre. Parti dell'articolo sono speculazioni basate sui dati, aggiunge Wowhead.
+Forever gestisce il datamining e la crittografia in modo diverso dalle altre versioni di WoW. Tutto ciò che c'è nei file può ancora cambiare prima del lancio del 4 novembre.

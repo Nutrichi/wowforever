@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard a parlé de l'avenir du Hardcore au panel What's Next de la BlizzCon 2026. Deux choses sont nouvelles pour World of Warcraft: Forever. Le jeu prévient les joueurs avant un world refresh, et un personnage qui meurt peut passer dans n'importe quel mode hors Hardcore.
 
-Jusqu'ici, un personnage Hardcore mort partait sur un royaume PvE. Dans Forever, le joueur choisit le mode, écrit Wowhead dans son liveblog.
+Jusqu'ici, un personnage Hardcore mort partait sur un royaume PvE. Dans Forever, le joueur choisit le mode.
 
 ## D'où vient le Hardcore
 

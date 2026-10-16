@@ -30,7 +30,7 @@ Bitter Baitling is een companion pet die nieuw is in World of Warcraft: Forever.
 | Waar | Stranglethorn Vale |
 | Prijs | 1 <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a> |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
@@ -40,7 +40,7 @@ De munt is de prijs voor wie de Stranglethorn Fishing Extravaganza wint.
 
 ## Goed om te weten
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets in Stranglethorn Vale
 

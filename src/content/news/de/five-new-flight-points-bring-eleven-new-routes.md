@@ -17,9 +17,9 @@ WoW Forever bekommt fünf neue Flugpunkte: Farholde Keep, Powderfuse Port und Ro
 
 ## Woher die Routen stammen
 
-Blizzard hat keine Liste der Flugrouten für Forever veröffentlicht. Die Routen auf dieser Seite stammen aus den Dateien des neuesten Beta-Builds, 1.60.1.70009, wie wago.tools sie veröffentlicht. Sie stehen neben denselben Dateien von Classic Era, Build 1.15.9.69722. Die Namen der neuen Flugmeister stammen von der [Weltkarte von Wowhead](https://www.wowhead.com/forever/world-map).
+Blizzard hat keine Liste der Flugrouten für Forever veröffentlicht. Die Routen auf dieser Seite stammen aus den Dateien des neuesten Beta-Builds, 1.60.1.70009. Sie stehen neben denselben Dateien von Classic Era, Build 1.15.9.69722. Die Namen der neuen Flugmeister stammen von einer [Online-Weltkarte von Forever](https://www.wowhead.com/forever/world-map).
 
-Die Karte zeichnet jede Route als Linie zwischen zwei Orten, nicht so, wie der Flug im Spiel tatsächlich verläuft. So bleibt sie lesbar. Die Grundlage ist die Weltkarte aus dem Client von Forever, auf der The Riverglades schon östlich von Redridge Mountains liegt. Die Schiffe und Zeppeline stammen von derselben Weltkarte von Wowhead.
+Die Karte zeichnet jede Route als Linie zwischen zwei Orten, nicht so, wie der Flug im Spiel tatsächlich verläuft. So bleibt sie lesbar. Die Grundlage ist die Weltkarte aus dem Client von Forever, auf der The Riverglades schon östlich von Redridge Mountains liegt. Die Schiffe und Zeppeline stammen von derselben Weltkarte.
 
 Eine blaue Linie ist eine Route der Alliance, eine rote Linie eine Route der Horde. Eine gestrichelte Linie ist ein Schiff oder ein Zeppelin, eine weiße gestrichelte Linie steht beiden Fraktionen offen. Eine Linie mit goldenem Rand und dem Wort NEW ist neu in Forever. Ein Schild ist ein Flugmeister, ein runder Punkt ein Hafen oder Zeppelinturm ohne Flugmeister. Ein Schild in Blau und Rot dient beiden Fraktionen, ein goldener Rand steht für einen neuen Ort.
 
@@ -72,7 +72,7 @@ Jeder Flugpunkt mit Flugmeister, Koordinaten und Routen steht im [Guide zu den F
 
 ## Was nicht sicher ist
 
-- **Powderfuse Port hat eine einzige Route**, nach Farholde Keep. Der Flugpunkt trägt in den Dateien keine Fraktion, aber seine einzige Route führt zu einer Festung der Alliance, und das Reittier ist ein Gryphon. Eine Route für die Horde gibt es in diesem Build nicht. Wowhead zeigt dort noch keinen Flugmeister.
+- **Powderfuse Port hat eine einzige Route**, nach Farholde Keep. Der Flugpunkt trägt in den Dateien keine Fraktion, aber seine einzige Route führt zu einer Festung der Alliance, und das Reittier ist ein Gryphon. Eine Route für die Horde gibt es in diesem Build nicht. Dort ist noch kein Flugmeister bekannt.
 - **Ein sechster neuer Flugpunkt wartet**: Tidegear Coast in Dun Morogh steht in den Dateien, ohne eine einzige Route. Wofür er gedacht ist, ist nicht bekannt.
 - **Die Routen können sich noch ändern**, bevor Forever am 4. November erscheint. Build 1.60.1.70009 ist eine Beta, und die Dateien enthalten noch ältere Fassungen der Flugpunkte in The Riverglades, die nicht in Gebrauch sind.
 - **Zephras Isle hat keinen festen Platz** auf der Weltkarte in den Dateien. Die Karte setzt Valanaar, wo die neuen Zeppeline aus Dalaran und Skywatcher Plateau landen, auf die Inselgruppe nördlich des Maelstrom.

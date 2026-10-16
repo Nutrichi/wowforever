@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-La bêta de World of Warcraft: Forever a ouvert le 17 septembre avec des déconnexions, de longues files d'attente et de la latence sur chaque loot. Le Senior Game Producer Tom Ellis a publié un long message sur X pour expliquer ce qui n'a pas marché, résumé par Wowhead. C'est un regard rare sur la machinerie derrière une bêta.
+La bêta de World of Warcraft: Forever a ouvert le 17 septembre avec des déconnexions, de longues files d'attente et de la latence sur chaque loot. Le Senior Game Producer Tom Ellis a publié un long message sur X pour expliquer ce qui n'a pas marché. C'est un regard rare sur la machinerie derrière une bêta.
 
 ## L'environnement est une installation de test
 

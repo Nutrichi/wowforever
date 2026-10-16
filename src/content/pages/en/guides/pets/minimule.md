@@ -29,7 +29,7 @@ Minimule is a companion pet that is new in World of Warcraft: Forever. You learn
 | Where | Redridge Mountains and The Barrens |
 | Price | 1,500 Merchant's Favor |
 | New in Forever | yes |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -41,7 +41,7 @@ Merchant's Favor is the currency of the two supply factions of WoW Forever: the 
 
 ## Good to know
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

@@ -30,7 +30,7 @@ Panda Cub ist ein Haustier aus Classic, das in World of Warcraft: Forever zurüc
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281166"><img class="wf-wh__icon" src="/wh/inv_pandacub_c60_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Panda Collar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13583"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Panda Collar</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=180089"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Panda Collar</a> |
 | Quelle | Edition: Skyborne Epic Pack, Warcraft Forever Collection |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -44,7 +44,7 @@ In den Dateien steckt ein zweiter Gegenstand für dasselbe Haustier, <a class="w
 
 Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen. Das Herbeirufen ist sofort statt mit 1 Sekunde Zauberzeit, mit einer Abklingzeit von 1,5 Sekunden.
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

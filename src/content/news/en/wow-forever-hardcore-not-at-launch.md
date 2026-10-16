@@ -12,7 +12,7 @@ tags: ["forever", "hardcore"]
 featured: false
 draft: false
 ---
-Hardcore mode is not available when World of Warcraft: Forever launches. Blizzard said so at the What's Next panel about Hardcore at BlizzCon 2026, reports Wowhead. The mode follows soon after launch.
+Hardcore mode is not available when World of Warcraft: Forever launches. Blizzard said so at the What's Next panel about Hardcore at BlizzCon 2026. The mode follows soon after launch.
 
 What "soon" means, Blizzard does not say. No date and no patch were named.
 

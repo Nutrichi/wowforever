@@ -10,7 +10,7 @@ faq:
   - q: "¿Cuántas mascotas hay en WoW Forever?"
     a: "Los archivos de la beta contienen 90 mascotas de compañía: 32 nuevas y 58 de Classic."
   - q: "¿Son las mascotas de toda la cuenta en WoW Forever?"
-    a: "La base de datos de Wowhead marca cada mascota como de toda la cuenta, y el objeto enseña la mascota en lugar de invocarla desde las bolsas. Blizzard no ha confirmado lo de la cuenta."
+    a: "Los datos del juego marcan cada mascota como de toda la cuenta, y el objeto enseña la mascota en lugar de invocarla desde las bolsas. Blizzard no ha confirmado lo de la cuenta."
   - q: "¿Qué mascotas son nuevas en WoW Forever?"
     a: "Entre otras el Excitable Slime de Undercity, la Baby Crocolisk de los canales de Stormwind, el Musical Gustjumper de Zephras Isle y el Spectral Bear Cub, una recompensa Legacy al nivel 25."
 sources:
@@ -123,4 +123,4 @@ La lista sale de la base de datos de la beta. En las mascotas marcadas como aún
 | [Wood Frog](/es/guides/pets/wood-frog/ "wh:item=11027:q1:inv_crate_02") | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a>, 1 de oro y 5 de plata y 26 de cobre | Elwynn Forest y Mulgore |
 | [Zergling](/es/guides/pets/zergling/ "wh:item=281167:q3:inv_zerglingpet_c60") | Edición: Skyborne Epic Pack, Warcraft Forever Collection |  |
 
-Quedan fuera tres objetos que Wowhead cuenta como compañeros: Scroll of Rat Familiar, Scroll of Frog Familiar y Scroll of Cat Familiar. Son consumibles de Mago que suben el Intellect durante una hora, no mascotas para coleccionar.
+Quedan fuera tres objetos que los datos del juego cuentan como compañeros: Scroll of Rat Familiar, Scroll of Frog Familiar y Scroll of Cat Familiar. Son consumibles de Mago que suben el Intellect durante una hora, no mascotas para coleccionar.

@@ -1,6 +1,6 @@
 ---
 title: "Recepten zijn te volgen zoals een quest"
-description: "Professions in WoW Forever krijgen een vakje Track Recipe, een chatlink voor het hele receptenboek en nieuwe filters. Wowhead toonde alle drie in de beta."
+description: "Professions in WoW Forever krijgen een vakje Track Recipe, een chatlink voor het hele receptenboek en nieuwe filters. Alle drie zitten in de beta."
 date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: nl
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Professions in WoW Forever krijgen drie gemakken. Een recept is te volgen zoals een quest, een heel receptenboek kan in de chat gelinkt worden, en nieuwe filters sorteren de recepten. Wowhead toonde alle drie uit de beta.
+Professions in WoW Forever krijgen drie gemakken. Een recept is te volgen zoals een quest, een heel receptenboek kan in de chat gelinkt worden, en nieuwe filters sorteren de recepten. Alle drie zitten al in de beta.
 
 ## Een recept volgen
 
@@ -21,7 +21,7 @@ Het venster van een profession heeft een nieuw vakje, Track Recipe, onderaan bij
 
 ![Het Alchemy-venster met Elixir of Minor Force geselecteerd en het vakje Track Recipe onderaan](../../../assets/posts/2026-09-25-wow-forever-alchemy-track-recipe.png)
 
-Wie het aanvinkt, ziet de reagents rechts op het scherm, onder de quests, in dezelfde lijst als de doelen. Dat helpt bij het kopen van materialen in het Auction House of bij het verzamelen in de wereld, schrijft Wowhead.
+Wie het aanvinkt, ziet de reagents rechts op het scherm, onder de quests, in dezelfde lijst als de doelen. Dat helpt bij het kopen van materialen in het Auction House of bij het verzamelen in de wereld.
 
 ![De lijst met doelen met een quest en, onder Profession, Elixir of Minor Defense met zijn drie reagents](../../../assets/posts/2026-09-25-wow-forever-tracked-reagents.jpg)
 

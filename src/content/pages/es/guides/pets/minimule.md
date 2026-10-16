@@ -30,7 +30,7 @@ Minimule es una mascota de compañía nueva en World of Warcraft: Forever. La ap
 | Dónde | Redridge Mountains y The Barrens |
 | Precio | 1.500 Merchant's Favor |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
@@ -42,7 +42,7 @@ Merchant's Favor es la moneda de las dos facciones de suministros de WoW Forever
 
 ## Conviene saber
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas del mismo origen
 

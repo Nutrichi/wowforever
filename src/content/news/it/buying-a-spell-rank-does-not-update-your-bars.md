@@ -15,7 +15,7 @@ manual: true
 ---
 Comprare un rango superiore di un incantesimo in WoW Forever non lo mette sulle barre delle azioni. Per le classi che spendono mana il vecchio rango resta dov’era e continua a essere lanciato, quindi un passaggio dall’addestratore può costare oro senza cambiare nulla.
 
-Wowhead ha segnalato il comportamento sulla beta.
+Il comportamento è stato segnalato sulla beta.
 
 ## Chi ne risente
 

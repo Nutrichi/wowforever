@@ -13,7 +13,7 @@ tags: ["forever", "hardcore"]
 featured: false
 draft: false
 ---
-World of Warcraft: Forever warnt Spieler vor einem erzwungenen Layerwechsel. Eine Meldung sagt, dass ein Zonen-Refresh kommt, und gibt fünf Minuten Zeit, einen sicheren Ort zu erreichen, schreibt Wowhead. Bisher passierte so ein Wechsel einfach.
+World of Warcraft: Forever warnt Spieler vor einem erzwungenen Layerwechsel. Eine Meldung sagt, dass ein Zonen-Refresh kommt, und gibt fünf Minuten Zeit, einen sicheren Ort zu erreichen. Bisher passierte so ein Wechsel einfach.
 
 ## Was ein Layer ist
 

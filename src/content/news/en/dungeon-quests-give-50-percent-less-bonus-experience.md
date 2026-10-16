@@ -24,8 +24,8 @@ Only the extra part shrinks. A dungeon quest still gives at least as much as a n
 
 ## Why dungeon quests were worth so much
 
-Blizzard moved [dungeon experience from kills to quests](/news/wow-forever-dungeon-experience-changes/) in Forever. Monsters in a dungeon give little, the quests a lot. In The Hall of Thanes a monster gave 28 to 30 experience and each quest 3,900 to 4,900, according to Wowhead.
+Blizzard moved [dungeon experience from kills to quests](/news/wow-forever-dungeon-experience-changes/) in Forever. Monsters in a dungeon give little, the quests a lot. In The Hall of Thanes a monster gave 28 to 30 experience and each quest 3,900 to 4,900.
 
-That drew criticism from two sides, writes Wowhead. Some players feared that the quest bonus made levelling too fast. Others found that the low experience from monsters made a second run through a dungeon pointless. The new build answers the first group. For repeat runs nothing changes.
+That drew criticism from two sides. Some players feared that the quest bonus made levelling too fast. Others found that the low experience from monsters made a second run through a dungeon pointless. The new build answers the first group. For repeat runs nothing changes.
 
 How much a dungeon quest gives now, Blizzard does not say in numbers. Whether the experience from monsters goes up again, the notes do not mention either.

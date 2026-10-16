@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Les deux colliers qui récompensent 10 livres collectés dans World of Warcraft: Forever sont plus faibles sur la bêta. <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> et <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a> passent du bleu au vert et perdent environ la moitié de leurs caractéristiques, écrit Wowhead.
+Les deux colliers qui récompensent 10 livres collectés dans World of Warcraft: Forever sont plus faibles sur la bêta. <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> et <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a> passent du bleu au vert et perdent environ la moitié de leurs caractéristiques.
 
 Au début de la bêta, des joueurs ont découvert que les livres dispersés dans le monde peuvent être remis au bibliothécaire de leur faction, quelle que soit leur classe. Ce qui n’était qu’une activité de niche s’est répandu une fois les récompenses connues. À 10 livres vient la quête <a href="https://www.wowhead.com/forever/quest=78150">Friend of the Library</a>, et c’est cette récompense qui a changé.
 
@@ -30,4 +30,4 @@ Les nouvelles valeurs correspondent aux infobulles de la bêta.
 
 La récompense pour 20 livres a aussi changé : son niveau d’objet passe de 40 à 35, et la restriction de classe disparaît. Plus d’infos dans l’[article sur Field Researcher's Loop](/fr/news/field-researchers-loop-now-fits-every-class/).
 
-Atteindre 20 livres au niveau 20 était un défi, écrit Wowhead. Maintenant que la bêta va jusqu’au niveau 30, davantage de livres devraient être à portée.
+Atteindre 20 livres au niveau 20 était un défi. Maintenant que la bêta va jusqu’au niveau 30, davantage de livres devraient être à portée.

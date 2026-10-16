@@ -1,6 +1,6 @@
 ---
 title: "Beta files hold a new cloth leveling set"
-description: "Rotmender's Raiment has five cloth pieces for levels 17 to 19, with a bonus for threat, Mana and healing. Wowhead found it in the files of the latest beta build; Blizzard has not confirmed it."
+description: "Rotmender's Raiment has five cloth pieces for levels 17 to 19, with a bonus for threat, Mana and healing. It is in the files of the latest beta build; Blizzard has not confirmed it."
 date: 2026-09-25T10:25:00+02:00
 category: forever
 lang: en
@@ -12,9 +12,9 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-The files of the latest beta build hold a new leveling set, Rotmender's Raiment. It has five cloth pieces for characters around level 17 to 19, writes Wowhead after datamining. Blizzard has not confirmed the set.
+The files of the latest beta build hold a new leveling set, Rotmender's Raiment. It has five cloth pieces for characters around level 17 to 19. Blizzard has not confirmed the set.
 
-Wowhead compares it with Embrace of the Viper, the leveling set from Wailing Caverns that [turns Druids into a snake](/news/a-hidden-set-bonus-turns-druids-into-a-snake/).
+It resembles Embrace of the Viper, the leveling set from Wailing Caverns that [turns Druids into a snake](/news/a-hidden-set-bonus-turns-druids-into-a-snake/).
 
 ## The bonuses
 
@@ -33,8 +33,8 @@ Wowhead compares it with Embrace of the Viper, the leveling set from Wailing Cav
 | Rotmender's Leggings | Legs | 22 | 17 | when picked up |
 | Rotmender's Treads | Feet | 24 | 19 | when picked up |
 
-Two pieces already existed under another name. Rotmender's Leggings used to be Wispcloth Leggings, and Rotmender's Treads were Frostbane Treads, writes Wowhead. Both are dungeon drops, so Wowhead expects the other three to come from dungeons too. Which dungeons, the article does not say.
+Two pieces already existed under another name. Rotmender's Leggings used to be Wispcloth Leggings, and Rotmender's Treads were Frostbane Treads. Both are dungeon drops, so the other three probably come from dungeons too. Which dungeons, is not known.
 
 ## Subject to change
 
-Forever handles datamining and encryption differently from other versions of WoW, writes Wowhead. Everything in the files can still change before the launch on 4 November. Parts of the article are speculation based on the data, Wowhead adds.
+Forever handles datamining and encryption differently from other versions of WoW. Everything in the files can still change before the launch on 4 November.

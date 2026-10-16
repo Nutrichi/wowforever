@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard organizza un Q&A in diretta con il team di sviluppo di World of Warcraft giovedì 17 settembre. La diretta comincia alle 10.00 PDT, le 19.00 ora belga, sui canali ufficiali Warcraft di Twitch e YouTube. Le domande arrivano dal forum.
 
-Blizzard aveva chiesto le domande ai giocatori sui forum nordamericano ed europeo, e le ha ora raccolte per il team. La diretta riguarda sia Midnight sia Forever, scrive Wowhead.
+Blizzard aveva chiesto le domande ai giocatori sui forum nordamericano ed europeo, e le ha ora raccolte per il team. La diretta riguarda sia Midnight sia Forever.
 
 Gli sviluppatori ripercorreranno gli annunci della BlizzCon 2026 e parleranno di quello che arriva per WoW moderno e Classic, dice Blizzard nel proprio annuncio. Quali membri del team ci saranno, Blizzard non lo dice.
 

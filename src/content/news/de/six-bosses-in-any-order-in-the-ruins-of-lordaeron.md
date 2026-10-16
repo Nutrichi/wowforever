@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Die Ruins of Lordaeron sind der Dungeon über der Undercity in World of Warcraft: Forever, für Level 15 bis 20. Wowhead hat eine Komplettlösung veröffentlicht. Die sechs Bosse lassen sich in beliebiger Reihenfolge machen. Die Horde findet dort sechs Quests, die Alliance vier.
+Die Ruins of Lordaeron sind der Dungeon über der Undercity in World of Warcraft: Forever, für Level 15 bis 20. Die sechs Bosse lassen sich in beliebiger Reihenfolge machen. Die Horde findet dort sechs Quests, die Alliance vier.
 
 <figure class="wf-embed" data-wf-video="VbryA5eOUHI">
   <button type="button" class="wf-embed__play">
@@ -25,15 +25,15 @@ Die Ruins of Lordaeron sind der Dungeon über der Undercity in World of Warcraft
   </button>
 </figure>
 
-Die Komplettlösung stammt von Jurdi, der auch die zur [Hall of Thanes](/de/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) geschrieben hat. Er hat den Dungeon in der Beta gespielt und nennt ihn nicht linear, mit Geheimnissen, die man leicht übersieht. Der Endboss ist Level 20, schreibt Wowhead, ohne zu sagen, welcher der sechs das ist.
+Die Komplettlösung stammt von Jurdi, der auch die zur [Hall of Thanes](/de/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) geschrieben hat. Er hat den Dungeon in der Beta gespielt und nennt ihn nicht linear, mit Geheimnissen, die man leicht übersieht. Der Endboss ist Level 20, ohne zu sagen, welcher der sechs das ist.
 
 ## Wo er liegt
 
-Der Eingang liegt in den offenen Ruinen von Lordaeron, der Stadt über der Undercity, gleich links nach dem Tor, schreibt Wowhead. Der Spirit Healer steht direkt davor, ein Wipe kostet also wenig Zeit.
+Der Eingang liegt in den offenen Ruinen von Lordaeron, der Stadt über der Undercity, gleich links nach dem Tor. Der Spirit Healer steht direkt davor, ein Wipe kostet also wenig Zeit.
 
 ![Das Tor eines zerstörten Palasts in Lordaeron mit Treppen und verwilderten Gärten davor, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-entrance.jpg)
 
-Für die Horde ist es ein kurzer Weg von Brill. Die Alliance hat eine lange Reise: das Schiff von Stormwind Harbor nach Auberdine, dann das Schiff nach Menethil Harbor und weiter nach Southshore, und von dort nach Norden an Dalaran vorbei und durch Silverpine Forest, laut dem Dungeonguide von Wowhead. Skyborne auf der Seite der Alliance überspringen das meiste mit einem Portal vom Mage Tower in Stormwind nach Dalaran.
+Für die Horde ist es ein kurzer Weg von Brill. Die Alliance hat eine lange Reise: das Schiff von Stormwind Harbor nach Auberdine, dann das Schiff nach Menethil Harbor und weiter nach Southshore, und von dort nach Norden an Dalaran vorbei und durch Silverpine Forest. Skyborne auf der Seite der Alliance überspringen das meiste mit einem Portal vom Mage Tower in Stormwind nach Dalaran.
 
 ## Sechs Quests für die Horde, vier für die Alliance
 
@@ -45,7 +45,7 @@ Die Alliance findet alles drinnen. Captain Truman, freundlich zur Alliance und f
 
 ![Captain Truman, ein untoter Soldat mit einer Laterne in einer dunklen Steinhalle, sein Name in Rot über dem Kopf, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-captain-truman.jpg)
 
-Jede Quest bringt bis zu 9.750 Erfahrung. Im Spiel erscheinen sie selbst auf Level 17 rot, weil die Quests Level 21 und 22 haben, der Dungeon ist mit 17 aber gut machbar, sagt Wowhead.
+Jede Quest bringt bis zu 9.750 Erfahrung. Im Spiel erscheinen sie selbst auf Level 17 rot, weil die Quests Level 21 und 22 haben, der Dungeon ist mit 17 aber gut machbar.
 
 | Belohnung | Art | Quest |
 |---|---|---|
@@ -60,7 +60,7 @@ Jede Quest mit Questgeber, Koordinaten und allen Belohnungen steht im [Guide zu 
 
 **Witherfang** ist eine Spinne, die mit zwei kleineren Spinnen durch King's Alley patrouilliert. Räumt zuerst den Trash auf ihrem Weg, damit sie allein kommt. Ihr Leech Poison lässt sich vom Tank entfernen.
 
-**The Baron** ist eine Monstrosität, deren Knockout hart trifft und den Tank schnell töten kann. Haltet den Tank auf voller Gesundheit und betäubt den Boss so oft wie möglich, schreibt Wowhead.
+**The Baron** ist eine Monstrosität, deren Knockout hart trifft und den Tank schnell töten kann. Haltet den Tank auf voller Gesundheit und betäubt den Boss so oft wie möglich.
 
 **Viktor the Vile** übersieht man leicht. Eine Gruppe muss zuerst die Kindled Flame im Kamin eines Gebäudes beim Friedhof entzünden und fünf Wellen von Adds besiegen. Er schlägt hart zu, also braucht der Tank die Aggro, bevor der Rest einsteigt. In der Beta erscheint er manchmal nicht.
 
@@ -68,16 +68,16 @@ Jede Quest mit Questgeber, Koordinaten und allen Belohnungen steht im [Guide zu 
 
 ![The Abandoned, ein vermummter Untoter mit langen Klauen, im Kampf mit einer Gruppe von Spielern auf einer dunklen Wiese, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-the-abandoned.jpg)
 
-**Bjork** wirkt nur ein kurzes Anti-Magic Shield. Wowhead nennt ihn einen leichten Boss.
+**Bjork** wirkt nur ein kurzes Anti-Magic Shield. Er ist ein leichter Boss.
 
 **Rath'mael** setzt einen Flamestrike auf den Boden, wo der Tank stand. Raus da und an einer neuen Stelle weiterkämpfen.
 
 ## Dichter Trash
 
-Der Trash schlägt weniger hart zu als in der Hall of Thanes, schreibt Wowhead, aber die Gruppen stehen dicht beieinander. Zwei auf einmal zu pullen passiert leicht, und Gruppen ohne Crowd Control haben es schwer, vor allem auf niedrigem Level. Paladins kommen ab Level 20 gut zurecht, wenn sie Exorcism lernen, das Untote trifft.
+Der Trash schlägt weniger hart zu als in der Hall of Thanes, aber die Gruppen stehen dicht beieinander. Zwei auf einmal zu pullen passiert leicht, und Gruppen ohne Crowd Control haben es schwer, vor allem auf niedrigem Level. Paladins kommen ab Level 20 gut zurecht, wenn sie Exorcism lernen, das Untote trifft.
 
 ## Was nicht sicher ist
 
-Blizzard gibt für den Dungeon 15 bis 20 an. Wowhead nennt 16 bis 23 im Artikel und 16 bis 22 in seinem Dungeonguide. Viktor the Vile erscheint in der Beta nicht immer. Ob das bis zum Start am 4. November behoben ist, ist nicht bekannt.
+Blizzard gibt für den Dungeon 15 bis 20 an. Andere Quellen nennen 16 bis 23 oder 16 bis 22. Viktor the Vile erscheint in der Beta nicht immer. Ob das bis zum Start am 4. November behoben ist, ist nicht bekannt.
 
-In Forever geben Dungeons bei einem zweiten Durchgang weniger Erfahrung für Monster, eine Gruppe, die Viktor oder das Crest verpasst, hat also weniger Grund zurückzukommen, schreibt Wowhead.
+In Forever geben Dungeons bei einem zweiten Durchgang weniger Erfahrung für Monster, eine Gruppe, die Viktor oder das Crest verpasst, hat also weniger Grund zurückzukommen.

@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-De beta van World of Warcraft: Forever is live. Ze ging open op 17 september, meteen na de live Q&A van Blizzard. Er staan wachtrijen aan het inlogscherm, schrijft Wowhead. Hoe stabiel de servers zijn, is niet bekend.
+De beta van World of Warcraft: Forever is live. Ze ging open op 17 september, meteen na de live Q&A van Blizzard. Er staan wachtrijen aan het inlogscherm. Hoe stabiel de servers zijn, is niet bekend.
 
 De beta loopt tot 21 oktober 2026. Ze begint met een levelcap van 20 en tilt die later naar 30, en daar blijft hij tot de lancering op 4 november.
 

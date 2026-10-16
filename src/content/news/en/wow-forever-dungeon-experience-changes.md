@@ -14,12 +14,12 @@ draft: false
 ---
 Blizzard shifts where dungeon experience comes from in World of Warcraft: Forever. Killing monsters inside a dungeon gives less experience than before. Completing the dungeon quests gives much more. That makes a first run through a dungeon worth a lot and a repeat run worth much less.
 
-Blizzard said so in an interview with The Sun, reports Wowhead. The reason is that the team wants players out in the world, meeting each other, instead of running the same dungeon over and over.
+Blizzard said so in an interview with The Sun. The reason is that the team wants players out in the world, meeting each other, instead of running the same dungeon over and over.
 
 The experience curve itself does not change. A character still needs the same amount of experience to reach level 60 as in the original Classic. What changes is where that experience comes from, because the new zones offer other routes.
 
 Blizzard has not said how much lower the experience from monsters is, or how much higher the experience from the quests.
 
-The beta gives a first idea. In The Hall of Thanes a monster gives 28 to 30 experience and each of the five quests 3,900 to 4,900, writes Wowhead in its [walkthrough](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Levelling as a whole is not faster: from 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/).
+The beta gives a first idea. In The Hall of Thanes a monster gives 28 to 30 experience and each of the five quests 3,900 to 4,900 ([walkthrough](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/)). Levelling as a whole is not faster: from 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/).
 
 Since the beta build of 1 October, dungeon quests give 50% less of that extra experience. Testers levelled too fast, Blizzard says in the notes of the build.

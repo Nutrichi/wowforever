@@ -12,7 +12,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-The beta of World of Warcraft: Forever opened on 17 September with disconnects, long queues and lag on every loot. Senior Game Producer Tom Ellis wrote a long post on X about what went wrong, summarised by Wowhead. It is a rare look at the machinery behind a beta.
+The beta of World of Warcraft: Forever opened on 17 September with disconnects, long queues and lag on every loot. Senior Game Producer Tom Ellis wrote a long post on X about what went wrong. It is a rare look at the machinery behind a beta.
 
 ## The environment is a test stack
 

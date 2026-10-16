@@ -10,7 +10,7 @@ faq:
   - q: "Quante mascotte ci sono in WoW Forever?"
     a: "I file della beta contengono 90 mascotte da compagnia: 32 nuove e 58 da Classic."
   - q: "Le mascotte valgono per tutto l'account in WoW Forever?"
-    a: "Il database di Wowhead segna ogni mascotte come valida per tutto l'account, e l'oggetto insegna la mascotte invece di evocarla dalle borse. Blizzard non ha confermato la parte sull'account."
+    a: "I dati del gioco segnano ogni mascotte come valida per tutto l'account, e l'oggetto insegna la mascotte invece di evocarla dalle borse. Blizzard non ha confermato la parte sull'account."
   - q: "Quali mascotte sono nuove in WoW Forever?"
     a: "Tra le altre l'Excitable Slime di Undercity, la Baby Crocolisk dei canali di Stormwind, il Musical Gustjumper su Zephras Isle e lo Spectral Bear Cub, una ricompensa Legacy al livello 25."
 sources:
@@ -123,4 +123,4 @@ La lista viene dal database della beta. Per le mascotte segnate come non ancora 
 | [Wood Frog](/it/guides/pets/wood-frog/ "wh:item=11027:q1:inv_crate_02") | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a>, 1 d'oro e 5 d'argento e 26 di rame | Elwynn Forest e Mulgore |
 | [Zergling](/it/guides/pets/zergling/ "wh:item=281167:q3:inv_zerglingpet_c60") | Edizione: Skyborne Epic Pack, Warcraft Forever Collection |  |
 
-Restano fuori tre oggetti che Wowhead conta come compagni: Scroll of Rat Familiar, Scroll of Frog Familiar e Scroll of Cat Familiar. Sono consumabili per Maghi che aumentano l'Intellect per un'ora, non mascotte da collezionare.
+Restano fuori tre oggetti che i dati del gioco contano come compagni: Scroll of Rat Familiar, Scroll of Frog Familiar e Scroll of Cat Familiar. Sono consumabili per Maghi che aumentano l'Intellect per un'ora, non mascotte da collezionare.

@@ -54,7 +54,7 @@ Chaque classe change. Une sélection :
 - **Warlock** : Hellfire peut faire des critiques, Soul Harvesting devient Soul Harvest, et l’Aggressive Mode des familiers revient.
 - **Warrior** : 75 % de Rage en plus sur les coups critiques des attaques de base, porté à 100 % plus tard dans la nuit. Rend et Sunder Armor marquent un ennemi immédiatement.
 
-Le racial gnome [Eureka! ne fonctionne plus sur les effets périodiques](/fr/news/eureka-no-longer-boosts-damage-over-time/). Wowhead a aussi trouvé [des changements dans les données qui ne sont pas dans les notes](/fr/news/the-data-drops-the-dismount-from-spearing-strike/).
+Le racial gnome [Eureka! ne fonctionne plus sur les effets périodiques](/fr/news/eureka-no-longer-boosts-damage-over-time/). Il y a aussi [des changements dans les données qui ne sont pas dans les notes](/fr/news/the-data-drops-the-dismount-from-spearing-strike/).
 
 ## Problèmes connus
 

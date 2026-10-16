@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-I tester della beta di World of Warcraft: Forever hanno trovato un set che copre tutta la salita di level. Partners in Crime è composto da due anelli, scrive Wowhead. Uno cade in un dungeon di level basso, l'altro chiede il level 60.
+I tester della beta di World of Warcraft: Forever hanno trovato un set che copre tutta la salita di level. Partners in Crime è composto da due anelli. Uno cade in un dungeon di level basso, l'altro chiede il level 60.
 
 ## I due anelli
 
@@ -34,8 +34,8 @@ Entrambe le righe figurano come bonus da due pezzi, quindi non scatta nulla finc
 
 ## Perché conta per l'equipaggiamento
 
-La metà epica del set è un oggetto di level 60, ed è questo a renderla interessante, scrive Wowhead. Un giocatore farà forse le Deadmines ancora a lungo, ben oltre il level in cui il dungeon di solito viene lasciato indietro.
+La metà epica del set è un oggetto di level 60, ed è questo a renderla interessante. Un giocatore farà forse le Deadmines ancora a lungo, ben oltre il level in cui il dungeon di solito viene lasciato indietro.
 
-Altri dungeon portano forse la stessa idea, scrive Wowhead: un oggetto che è la prima metà di un set completabile solo molto più tardi. Se Blizzard ne ha progettati altri così, lo studio non lo dice.
+Altri dungeon portano forse la stessa idea: un oggetto che è la prima metà di un set completabile solo molto più tardi. Se Blizzard ne ha progettati altri così, lo studio non lo dice.
 
 Dà anche da fare alla [banca predefinita più grande](/it/news/the-bank-starts-with-48-slots/). L'equipaggiamento che rende solo decine di level dopo deve pur restare da qualche parte.

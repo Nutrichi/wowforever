@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Pet Fish in WoW Forever?"
-    a: "It drops from Dreamwater Vicejaw in The Hinterlands. In the loot data of Wowhead it drops in about 0.1% of kills."
+    a: "It drops from Dreamwater Vicejaw in The Hinterlands. In the loot data it drops in about 0.1% of kills."
   - q: "Is Pet Fish new in WoW Forever?"
     a: "No. Pet Fish was already in Classic and returns in WoW Forever."
 sources:
@@ -29,17 +29,17 @@ Pet Fish is a companion pet from Classic that returns in World of Warcraft: Fore
 | Where | The Hinterlands |
 | Drop chance | 0.1% |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
-It drops from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> in The Hinterlands. In the loot data of Wowhead it drops in about 0.1% of kills.
+It drops from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> in The Hinterlands. In the loot data it drops in about 0.1% of kills.
 
 ## What changed since Classic
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

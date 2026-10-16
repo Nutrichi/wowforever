@@ -27,7 +27,7 @@ Tiny Red Dragon is a companion pet from Classic that returns in World of Warcraf
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=19054"><img class="wf-wh__icon" src="/wh/inv_misc_orb_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Dragon Orb</a> |
 | Source | Not known yet |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -35,7 +35,7 @@ The files of the WoW Forever beta hold this pet, but where it comes from is not 
 
 ## What changed since Classic
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

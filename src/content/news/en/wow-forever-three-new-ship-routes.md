@@ -14,10 +14,10 @@ draft: false
 ---
 World of Warcraft: Forever adds three new ship routes. Stormwind Harbor gets a connection to Auberdine. A second route runs from Menethil to Southshore and on to Auberdine. The third connects the new zone The Riverglades to Steamwheedle Port.
 
-The route between Stormwind Harbor and Auberdine links the starting areas of the Alliance, writes Wowhead. Night Elves reach Stormwind faster, and everyone else reaches Darnassus faster.
+The route between Stormwind Harbor and Auberdine links the starting areas of the Alliance. Night Elves reach Stormwind faster, and everyone else reaches Darnassus faster.
 
 The route from Menethil is a three-way one: the ship calls at Southshore and ends in Auberdine.
 
 The third route opens up the south of both continents. Steamwheedle Port is the dock in The Riverglades that also connects to Gadgetzan.
 
-Blizzard wants to keep the sense of exploring the world that Classic is known for, while making it easier to play with friends, says Wowhead. Whether the existing routes change as well, is not known.
+Blizzard wants to keep the sense of exploring the world that Classic is known for, while making it easier to play with friends. Whether the existing routes change as well, is not known.

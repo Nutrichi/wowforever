@@ -28,7 +28,7 @@ Condor Hatchling ist ein Haustier, das neu in World of Warcraft: Forever ist. Du
 | Gegenstand | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282637"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shaking Egg</a> |
 | Quelle | Noch nicht bekannt |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -36,7 +36,7 @@ Die Dateien der Beta von WoW Forever enthalten dieses Haustier, aber woher es ko
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

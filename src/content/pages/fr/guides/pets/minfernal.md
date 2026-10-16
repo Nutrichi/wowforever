@@ -28,7 +28,7 @@ Minfernal est une mascotte de compagnie nouvelle dans World of Warcraft: Forever
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=284214"><img class="wf-wh__icon" src="/wh/spell_shadow_summoninfernal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minfernal</a> |
 | Source | Pas encore connue |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
@@ -38,7 +38,7 @@ L'infobulle de la bêta indique encore qu'il invoque "your baby crocolisk", un t
 
 ## Bon à savoir
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

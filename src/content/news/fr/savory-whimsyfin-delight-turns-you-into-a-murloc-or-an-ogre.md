@@ -19,7 +19,7 @@ WoW Forever a une nouvelle recette de Cooking qui transforme celui qui la mange.
 
 ## Comment ça marche
 
-<a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> est la version Forever de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, le plat de Classic qui vous change en ninja ou en pirate. L’ancien reste dans le jeu, écrit Wowhead, donc les deux costumes sont toujours là.
+<a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> est la version Forever de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, le plat de Classic qui vous change en ninja ou en pirate. L’ancien reste dans le jeu, donc les deux costumes sont toujours là.
 
 La nouvelle forme dépend du Body Type choisi à la création du personnage. Le Body Type 1 devient un Murloc, le Body Type 2 un grand Ogre. La forme dure 60 minutes, ou jusqu’à la mort du personnage.
 
@@ -29,7 +29,7 @@ La nouvelle forme dépend du Body Type choisi à la création du personnage. Le 
 
 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251526"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Savory Whimsyfin Delight</a> demande Cooking 85 et tombe sur des monstres au hasard, comme le <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=547">Great Goretusk</a> dans les <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/zone=44">Redridge Mountains</a>. Le plat lui-même demande un <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251524"><img class="wf-wh__icon" src="/wh/inv_misc_fish_68.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whimsyfin</a> et des <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2678"><img class="wf-wh__icon" src="/wh/inv_misc_food_wheat_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mild Spices</a>, d’après la recette de la bêta.
 
-Les Murlocs et les Ogres faisaient partie des races que les joueurs réclamaient le plus avant Forever, écrit Wowhead. Aucune des deux n’est jouable.
+Les Murlocs et les Ogres faisaient partie des races que les joueurs réclamaient le plus avant Forever. Aucune des deux n’est jouable.
 
 ![Deux ninjas et deux pirates à côté d’un Molten Giant, les costumes de Savory Deviate Delight dans le World of Warcraft d’origine](../../../assets/posts/2026-09-29-classic-ninja-and-pirate-costumes.jpg)
 

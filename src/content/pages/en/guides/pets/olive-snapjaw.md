@@ -27,7 +27,7 @@ Olive Snapjaw is a companion pet from Classic that returns in World of Warcraft:
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18967"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Turtle Egg (Olive)</a> |
 | Source | Not known yet |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -37,7 +37,7 @@ The files of the WoW Forever beta hold this pet, but where it comes from is not 
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

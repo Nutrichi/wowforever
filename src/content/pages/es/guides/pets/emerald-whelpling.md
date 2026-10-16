@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Emerald Whelpling en WoW Forever?"
-    a: "La suelta Dreaming Whelp en Swamp of Sorrows. En los datos de botín de Wowhead cae en cerca del 0,2% de las muertes."
+    a: "La suelta Dreaming Whelp en Swamp of Sorrows. En los datos de botín cae en cerca del 0,2% de las muertes."
   - q: "¿Es Emerald Whelpling nueva en WoW Forever?"
     a: "No. Emerald Whelpling ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -30,17 +30,17 @@ Emerald Whelpling es una mascota de compañía de Classic que vuelve en World of
 | Dónde | Swamp of Sorrows |
 | Probabilidad | 0,2% |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-La suelta <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> en Swamp of Sorrows. En los datos de botín de Wowhead cae en cerca del 0,2% de las muertes.
+La suelta <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> en Swamp of Sorrows. En los datos de botín cae en cerca del 0,2% de las muertes.
 
 ## Qué cambió desde Classic
 
 Ahora el objeto enseña la mascota: se convierte en un hechizo y ya no ocupa sitio en las bolsas. Invocarla es instantáneo en lugar de un lanzamiento de 1 segundo, con un tiempo de reutilización de 1,5 segundos.
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas del mismo origen
 

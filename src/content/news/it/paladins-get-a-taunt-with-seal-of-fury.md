@@ -27,7 +27,7 @@ Il video dura 7 minuti ed è uscito il 3 ottobre alle 19.00, ora belga, sul cana
   </button>
 </figure>
 
-Una parte delle modifiche all'Hunter era già nel [primo approfondimento sulle classi](/it/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), su Hunter e Druid. I numeri qui sotto vengono dai tooltip di Wowhead.
+Una parte delle modifiche all'Hunter era già nel [primo approfondimento sulle classi](/it/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), su Hunter e Druid. I numeri qui sotto vengono dai tooltip della beta.
 
 ## Hunter
 

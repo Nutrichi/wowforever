@@ -23,6 +23,6 @@ Mehrere Listen markieren Legendaries, die Best in Slot bleiben. Val'anyr, Hammer
 
 ## Quellen
 
-Die meisten Listen basieren auf den Ausrüstungsguides von Icy Veins. Icy Veins hat für Phase 1 keine Tabellen für Paladin, Hunter, Rogue und Death Knight. Diese zwölf Listen stammen aus den Guides für Phase 1 von WotLK Classic auf Wowhead.
+Die Listen basieren auf bewährten Ausrüstungsguides für Phase 1 von WotLK Classic.
 
 Für Phase 3 trennt Icy Veins manche Tabellen nach Fraktion. Die Listen nutzen die Gegenstände der Alliance; die Versionen der Horde droppen von denselben Bossen auf demselben Itemlevel. Einige Herkünfte von Gegenständen, die auf den Quellseiten falsch standen, wurden anhand der Bosslisten korrigiert.

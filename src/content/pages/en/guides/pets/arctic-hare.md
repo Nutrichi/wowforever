@@ -29,7 +29,7 @@ Arctic Hare is a companion pet that is new in World of Warcraft: Forever. You le
 | Where | Dun Morogh |
 | Price | 21 silver 5 copper |
 | New in Forever | yes |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -37,7 +37,7 @@ Arctic Hare is a companion pet that is new in World of Warcraft: Forever. You le
 
 ## Good to know
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from Yarlyn Amberstill
 

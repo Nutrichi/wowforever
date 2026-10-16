@@ -30,7 +30,7 @@ Musical Gustjumper is a companion pet that is new in World of Warcraft: Forever.
 | Source | Found in the world: a frog that sings back |
 | Where | Zephras Isle |
 | New in Forever | yes |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -43,7 +43,7 @@ It sits on Zephras Isle, the starting zone of the Skyborne, at /way 51.5 72.3. E
 
 ## Good to know
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets in Zephras Isle
 

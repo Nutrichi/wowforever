@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Tres raros de The Barrens sueltan ahora equipo de un conjunto. Humar the Pridelord, Swiftmane y Takk the Leaper llevan cada uno una pieza de Blessing of Kalimdor, y llevar dos de las tres da un 5 por ciento de velocidad de movimiento en The Barrens y Stonetalon Mountains. Wowhead lo encontró en la beta.
+Tres raros de The Barrens sueltan ahora equipo de un conjunto. Humar the Pridelord, Swiftmane y Takk the Leaper llevan cada uno una pieza de Blessing of Kalimdor, y llevar dos de las tres da un 5 por ciento de velocidad de movimiento en The Barrens y Stonetalon Mountains.
 
 ## Las tres piezas
 

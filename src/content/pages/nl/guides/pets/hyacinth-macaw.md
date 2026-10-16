@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Hyacinth Macaw in WoW Forever?"
-    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead: Bloodsail Sea Dog in Stranglethorn Vale, ongeveer 0,7% Bloodsail Swashbuckler in Stranglethorn Vale, ongeveer 0,1% Bloodsail Warlock in Stranglethorn Vale, ongeveer 0,1%"
+    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens: Bloodsail Sea Dog in Stranglethorn Vale, ongeveer 0,7% Bloodsail Swashbuckler in Stranglethorn Vale, ongeveer 0,1% Bloodsail Warlock in Stranglethorn Vale, ongeveer 0,1%"
   - q: "Is Hyacinth Macaw nieuw in WoW Forever?"
     a: "Nee. Hyacinth Macaw zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Hyacinth Macaw is een companion pet uit Classic die terugkomt in World of Warcra
 | Waar | Stranglethorn Vale |
 | Dropkans | 0,7% |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
-Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead:
+Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1565">Bloodsail Sea Dog</a> in Stranglethorn Vale, ongeveer 0,7%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1563">Bloodsail Swashbuckler</a> in Stranglethorn Vale, ongeveer 0,1%
@@ -44,7 +44,7 @@ Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van
 
 Het item leert je nu de pet: hij wordt een spell en neemt geen plaats meer in je tassen. Oproepen gaat meteen in plaats van met een cast van 1 seconde, met een cooldown van 1,5 seconden.
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets in Stranglethorn Vale
 

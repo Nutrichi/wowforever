@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Pet Stone in WoW Forever?"
-    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead: The Giant in Feralas Enraged Mountain Giant in Feralas"
+    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens: The Giant in Feralas Enraged Mountain Giant in Feralas"
   - q: "Is Pet Stone nieuw in WoW Forever?"
     a: "Nee. Pet Stone zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -29,11 +29,11 @@ Pet Stone is een companion pet uit Classic die terugkomt in World of Warcraft: F
 | Bron | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (en nog 1) |
 | Waar | Feralas |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
-Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead:
+Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> in Feralas
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221373">Enraged Mountain Giant</a> in Feralas
@@ -42,7 +42,7 @@ Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van
 
 Het item leert je nu de pet: hij wordt een spell en neemt geen plaats meer in je tassen.
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

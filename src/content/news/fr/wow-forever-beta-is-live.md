@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-La bêta de World of Warcraft: Forever est en ligne. Elle a ouvert le 17 septembre, juste après le Q&A en direct de Blizzard. Il y a des files d'attente à la connexion, écrit Wowhead. La stabilité des serveurs n'est pas connue.
+La bêta de World of Warcraft: Forever est en ligne. Elle a ouvert le 17 septembre, juste après le Q&A en direct de Blizzard. Il y a des files d'attente à la connexion. La stabilité des serveurs n'est pas connue.
 
 La bêta court jusqu'au 21 octobre 2026. Elle commence avec un plafond de niveau 20 et le monte plus tard à 30, où il reste jusqu'à la sortie du 4 novembre.
 

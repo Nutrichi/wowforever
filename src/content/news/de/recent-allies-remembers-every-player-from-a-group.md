@@ -13,11 +13,11 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever führt eine Liste aller Spieler, mit denen ein Charakter in einer Gruppe war. Das Fenster Recent Allies sitzt neben der Friends List und speichert Name, Level, Klasse, Ort und Aktivität. Wowhead zeigte es aus der Beta.
+World of Warcraft: Forever führt eine Liste aller Spieler, mit denen ein Charakter in einer Gruppe war. Das Fenster Recent Allies sitzt neben der Friends List und speichert Name, Level, Klasse, Ort und Aktivität. Es ist schon in der Beta.
 
 ## Was die Liste speichert
 
-Jedes Mal, wenn ein Spieler mit jemandem in eine Gruppe geht, kommt ein Eintrag in Recent Allies dazu, schreibt Wowhead. Er speichert den Namen, das aktuelle Level, die Klasse, den Ort, an dem sich die beiden trafen, und was sie zusammen gemacht haben. Wer online ist, bekommt einen Knopf, der ihn mit einem Klick einlädt.
+Jedes Mal, wenn ein Spieler mit jemandem in eine Gruppe geht, kommt ein Eintrag in Recent Allies dazu. Er speichert den Namen, das aktuelle Level, die Klasse, den Ort, an dem sich die beiden trafen, und was sie zusammen gemacht haben. Wer online ist, bekommt einen Knopf, der ihn mit einem Klick einlädt.
 
 ![Der Reiter Recent Allies im Freundesfenster mit sechs Spielern, die Namen geschwärzt, und ein Tooltip mit Level 10, Windshaper Skyborne, Druid, Horde und Fought Together in Zephras Isle](../../../assets/posts/2026-09-25-wow-forever-recent-allies-window.png)
 
@@ -27,10 +27,10 @@ Ein Recent Ally lässt sich anheften, damit der Name immer oben in der Liste ble
 
 ![Die Liste Recent Allies mit zwei angehefteten Spielern oben, markiert mit einer gelben Nadel, über einer Trennlinie](../../../assets/posts/2026-09-25-wow-forever-recent-allies-pinned.jpg)
 
-Wie viele Spieler die Liste fasst und wie lange ein Eintrag bleibt, schreibt Wowhead nicht.
+Wie viele Spieler die Liste fasst und wie lange ein Eintrag bleibt, ist nicht bekannt.
 
 ## Teil eines sozialen Designs
 
-Forever setzt auf gemeinsames Spielen, und Blizzard sagte in mehreren Interviews, dass Reibung dabei hilft. In [einem Interview mit Game Informer](/de/news/one-faction-per-player-on-pvp-rulesets/) nannten zwei Leads den Weg zu einem Dungeon oder einen langen Flug einen Moment, in dem Spieler miteinander reden. In einem Interview mit Windows Central sagte das Team dasselbe andersherum: Wer die Reibung wegnimmt, macht das Spiel einsamer, schreibt Wowhead.
+Forever setzt auf gemeinsames Spielen, und Blizzard sagte in mehreren Interviews, dass Reibung dabei hilft. In [einem Interview mit Game Informer](/de/news/one-faction-per-player-on-pvp-rulesets/) nannten zwei Leads den Weg zu einem Dungeon oder einen langen Flug einen Moment, in dem Spieler miteinander reden. In einem Interview mit Windows Central sagte das Team dasselbe andersherum: Wer die Reibung wegnimmt, macht das Spiel einsamer.
 
-Das fehlende [Shared Tagging](/de/news/aggrend-rules-out-shared-tagging/) passt in dieses Bild. Nur der erste Spieler oder die erste Gruppe, die einen Mob trifft, bekommt den Kill, und das drängt Spieler in Gruppen. Wowhead sieht Recent Allies als nächsten Schritt: Wer für einen umkämpften Mob oder einen Dungeon eine Gruppe bildet, behält eine Liste von Namen, die sich später wieder anschreiben lassen.
+Das fehlende [Shared Tagging](/de/news/aggrend-rules-out-shared-tagging/) passt in dieses Bild. Nur der erste Spieler oder die erste Gruppe, die einen Mob trifft, bekommt den Kill, und das drängt Spieler in Gruppen. Recent Allies wirkt wie der nächste Schritt: Wer für einen umkämpften Mob oder einen Dungeon eine Gruppe bildet, behält eine Liste von Namen, die sich später wieder anschreiben lassen.

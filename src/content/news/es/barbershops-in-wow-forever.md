@@ -1,6 +1,6 @@
 ---
 title: "Llegan los barbershops, con interruptor para los modelos HD"
-description: "La demo de la BlizzCon mostraba un barbershop con las opciones de la creación de personaje, según Wowhead. Blizzard no ha anunciado nada al respecto."
+description: "La demo de la BlizzCon mostraba un barbershop con las opciones de la creación de personaje. Blizzard no ha anunciado nada al respecto."
 date: 2026-09-17
 category: forever
 lang: es
@@ -13,12 +13,12 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever tiene barbershops. Los jugadores cambian allí su body type, su peinado y más, escribe Wowhead. La web se basa en la demo de la BlizzCon, mostrada por el creador de contenido MrGM. Blizzard no ha anunciado nada.
+World of Warcraft: Forever tiene barbershops. Los jugadores cambian allí su body type, su peinado y más. Eso viene de la demo de la BlizzCon, mostrada por el creador de contenido MrGM. Blizzard no ha anunciado nada.
 
-Las opciones se parecen a las de la creación de personaje, escribe Wowhead. Ahí entra el body type, y un botón que lo deja todo al azar.
+Las opciones se parecen a las de la creación de personaje. Ahí entra el body type, y un botón que lo deja todo al azar.
 
 Los modelos de alta definición se encienden y se apagan en el barbershop. Quien juega con los modelos antiguos ajusta su personaje en esos modelos, y quien usa los nuevos ve esos.
 
-Dónde están los barbershops solo se sabe en parte. Stormwind está confirmado, escribe Wowhead, y la web espera uno también en las demás capitales. Una lista completa no existe. Desde la build de la beta del 1 de octubre, Darnassus y Thunder Bluff también tienen una, cada barbershop tiene barberos y los guardias indican el camino, dice Blizzard en las notas de la build.
+Dónde están los barbershops solo se sabe en parte. Stormwind está confirmado, y las demás capitales probablemente tienen uno también. Una lista completa no existe. Desde la build de la beta del 1 de octubre, Darnassus y Thunder Bluff también tienen una, cada barbershop tiene barberos y los guardias indican el camino, dice Blizzard en las notas de la build.
 
 El barbershop apareció en el juego moderno con Wrath of the Lich King. Allí costaba oro, en proporción al nivel del personaje, y ese coste desapareció más tarde. Si cuesta algo en Forever, no está confirmado.

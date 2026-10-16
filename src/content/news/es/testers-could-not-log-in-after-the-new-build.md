@@ -21,6 +21,6 @@ La beta acababa de volver con la [build de nivel 30](/es/news/the-beta-level-cap
 >
 > We will continue to work to fix this as swiftly as possible.
 
-Algunos jugadores entraron simplemente esperando, escribe Wowhead. En el hilo del foro, los primeros probadores dijeron hacia las 02.38, hora belga, que ya podían entrar, uno de ellos "más de una hora después".
+Algunos jugadores entraron simplemente esperando. En el hilo del foro, los primeros probadores dijeron hacia las 02.38, hora belga, que ya podían entrar, uno de ellos "más de una hora después".
 
 Blizzard no publicó que el problema estuviera resuelto ni dijo cuál fue la causa.

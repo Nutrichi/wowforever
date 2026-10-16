@@ -28,7 +28,7 @@ Tiny Red Dragon è una mascotte da compagnia di Classic che torna in World of Wa
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=19054"><img class="wf-wh__icon" src="/wh/inv_misc_orb_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Dragon Orb</a> |
 | Fonte | Non ancora noto |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -36,7 +36,7 @@ I file della beta di WoW Forever contengono questa mascotte, ma da dove venga no
 
 ## Cosa è cambiato da Classic
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

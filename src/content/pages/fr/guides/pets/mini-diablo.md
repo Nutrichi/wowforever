@@ -29,7 +29,7 @@ Mini Diablo est une mascotte de compagnie de Classic qui revient dans World of W
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281168"><img class="wf-wh__icon" src="/wh/inv_diablofunsized_c60_red.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Diablo Stone</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13584"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Diablo Stone</a> |
 | Source | Édition: Skyborne Epic Pack, Warcraft Forever Collection |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
@@ -41,7 +41,7 @@ L'ancien objet de la Collector's Edition de 2004, <a class="wf-wh wf-q3" href="h
 
 L'objet apprend désormais la mascotte : elle devient un sort et ne prend plus de place dans les sacs. L'invocation est instantanée au lieu d'une incantation d'une seconde, avec un temps de recharge de 1,5 seconde.
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

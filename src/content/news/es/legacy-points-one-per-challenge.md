@@ -15,7 +15,7 @@ manual: true
 ---
 Los Legacy Points son el progreso de toda la cuenta en WoW Forever, y el reparto es plano: cada reto vale un punto. Se ganan subiendo clases y tradeskills, haciendo mazmorras y bandas, escalando rangos de PvP y explorando, y luego se gastan en tres árboles.
 
-Wowhead reunió la lista desde la beta. Blizzard no ha publicado una tabla completa.
+La lista viene de la beta. Blizzard no ha publicado una tabla completa.
 
 ## De dónde salen los puntos
 

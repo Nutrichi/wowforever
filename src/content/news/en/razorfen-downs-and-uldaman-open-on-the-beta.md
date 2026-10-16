@@ -53,7 +53,7 @@ Every class changes. A selection:
 - **Warlock**: Hellfire can crit, Soul Harvesting is now Soul Harvest, and Aggressive Mode for pets is back.
 - **Warrior**: 75% more Rage from critical strikes with basic attacks, raised to 100% later that night. Rend and Sunder Armor tap an enemy instantly.
 
-The Gnome racial [Eureka! no longer works on periodic effects](/news/eureka-no-longer-boosts-damage-over-time/). Wowhead also found [changes in the data that are not in the notes](/news/the-data-drops-the-dismount-from-spearing-strike/).
+The Gnome racial [Eureka! no longer works on periodic effects](/news/eureka-no-longer-boosts-damage-over-time/). There are also [changes in the data that are not in the notes](/news/the-data-drops-the-dismount-from-spearing-strike/).
 
 ## Known issues
 

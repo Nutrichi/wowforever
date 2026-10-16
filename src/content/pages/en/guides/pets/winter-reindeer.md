@@ -28,7 +28,7 @@ Winter Reindeer is a companion pet from Classic that returns in World of Warcraf
 | Source | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11870">Archibald</a> |
 | Where | Undercity |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -38,7 +38,7 @@ It drops from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/np
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets in Undercity
 

@@ -12,7 +12,7 @@ tags: ["forever", "raid"]
 featured: false
 draft: false
 ---
-Every raid boss in World of Warcraft: Forever drops a chase item. Blizzard said so in an interview with The Sun at BlizzCon 2026, reports Wowhead. In the same interview the team talked about the new zones, the talent trees and the experience curve, which does not change.
+Every raid boss in World of Warcraft: Forever drops a chase item. Blizzard said so in an interview with The Sun at BlizzCon 2026. In the same interview the team talked about the new zones, the talent trees and the experience curve, which does not change.
 
 The Sun spoke with Kris Zierhut, Principal Designer, and Michael Nuthals, Senior Encounter Designer.
 

@@ -12,9 +12,9 @@ tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
 ---
-The new beta build of WoW Forever retunes all nine classes. Wowhead found the changes in the files of the build on 24 September, and Blizzard confirmed most of them that night in its [development notes](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt and Holy Strike get the biggest buffs.
+The new beta build of WoW Forever retunes all nine classes. The changes showed up in the files of the build on 24 September, and Blizzard confirmed most of them that night in its [development notes](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt and Holy Strike get the biggest buffs.
 
-Below is the short version per class. What only Wowhead saw in the files, and Blizzard did not mention, says so. Everything else in the build, from the 1 silver respec to the Cooldown Manager, is in [the post about the new build](/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
+Below is the short version per class. What only shows in the files, and Blizzard did not mention, says so. Everything else in the build, from the 1 silver respec to the Cooldown Manager, is in [the post about the new build](/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
 
 ## Druid
 
@@ -40,7 +40,7 @@ The Paladin gets the most changes.
 - **Holy Strike** hits harder at every rank: 25, 29, 32, 36, 39, 43, 46 and 50% of weapon damage (was 25, 25, 30, 30, 35, 35, 40 and 40%). Early ranks did not always feel like an upgrade, according to Blizzard.
 - **Holy:** the cooldown of Holy Strike drops to 10 seconds (was 12). The talent Improved Holy Strike is gone, because its effect is now baseline. Holy Power also adds 15% critical strike chance to Holy Strike.
 - **Retribution** loses some burst. Vengeance only triggers from non-periodic critical strikes and stacks to 3 (was 5). Two-Handed Weapon Specialization gives 2, 4 and 6% (was 3, 6 and 9%). In return Sacred Arbiter raises Holy Strike damage by 20% (was 10%), and Twist of Light also makes Seals 20% cheaper.
-- Righteous Fury raises Holy threat by 60% (was 90%). Wowhead also sees Crusade move out of the talent tree; Blizzard does not mention it.
+- Righteous Fury raises Holy threat by 60% (was 90%). The files also move Crusade out of the talent tree; Blizzard does not mention it.
 
 ## Priest
 
@@ -49,11 +49,11 @@ The Paladin gets the most changes.
 
 ## Rogue
 
-- Sap now flags the Rogue for PvP when the target is flagged. Wowhead also sees a changed value in Improved Expose Armor that the tooltip does not show; what it does is not known.
+- Sap now flags the Rogue for PvP when the target is flagged. The files also change a value in Improved Expose Armor that the tooltip does not show; what it does is not known.
 
 ## Shaman
 
-- **Lightning Bolt** ranks 3 and 4 deal more damage, so every rank is an upgrade despite the changed cast times. The highest ranks lose one or two points, according to Wowhead.
+- **Lightning Bolt** ranks 3 and 4 deal more damage, so every rank is an upgrade despite the changed cast times. The highest ranks lose one or two points.
 - **Lava Burst** ranks 1 and 2 deal about 10% more base damage than the Lightning Bolt of the same level.
 - **Elemental:** Elemental Fury and Elemental Alacrity swap places, from row 3 to row 6 and back. Blizzard wants Elemental to reach an important talent earlier.
 - **Enhancement:** Rage of the Far Seer no longer raises spell casting speed.
@@ -63,7 +63,7 @@ The Paladin gets the most changes.
 ## Warlock
 
 - The Voidwalker's Sacrifice scales with 10% of spell healing. The tooltip of Life Tap now shows the right numbers.
-- According to Wowhead, Health Funnel can no longer crit, and a Firestone disappears after 15 minutes logged out.
+- In the files, Health Funnel can no longer crit, and a Firestone disappears after 15 minutes logged out.
 
 ## Warrior
 

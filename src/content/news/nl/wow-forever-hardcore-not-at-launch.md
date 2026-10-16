@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Hardcore staat niet aan bij de lancering van World of Warcraft: Forever. Blizzard zei dat op het What's Next-panel over Hardcore op BlizzCon 2026, meldt Wowhead. De modus volgt snel na de lancering.
+Hardcore staat niet aan bij de lancering van World of Warcraft: Forever. Blizzard zei dat op het What's Next-panel over Hardcore op BlizzCon 2026. De modus volgt snel na de lancering.
 
 Wat "snel" betekent, zegt Blizzard niet. Er viel geen datum en geen patch.
 

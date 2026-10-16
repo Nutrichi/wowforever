@@ -98,7 +98,7 @@ The scale is the standard one, so from Neutral to Exalted is 42,000 reputation.
 
 **Crates.** A crate such as the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> is looted in the world, filled and handed in to Marcy Baker. The Legacy perk Performance Bonus gives a 5, 10 or 15 percent chance on double Merchant's Favor per crate; see the [Legacy calculator](/talents/legacy/).
 
-**Craftsman's Writs** also exist, and may be available from level 10, writes Wowhead. What they ask and whether Marcy Baker takes them, is not known yet.
+**Craftsman's Writs** also exist, and may be available from level 10. What they ask and whether Marcy Baker takes them, is not known yet.
 
 ## What is not known yet
 

@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, une récompense pour la collecte de livres dans World of Warcraft: Forever, n’est plus réservé aux Rogues. Toutes les classes peuvent maintenant porter l’anneau, écrit Wowhead. Dans la build de la bêta du 1er octobre, il perd aussi sa Strength.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, une récompense pour la collecte de livres dans World of Warcraft: Forever, n’est plus réservé aux Rogues. Toutes les classes peuvent maintenant porter l’anneau. Dans la build de la bêta du 1er octobre, il perd aussi sa Strength.
 
-Dans Forever, les joueurs trouvent des livres partout dans le monde, et les remettre débloque de nouvelles quêtes. À 20 livres arrive <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a>, qui laisse choisir entre deux anneaux. Field Researcher's Loop en fait partie. Quel est l’autre anneau, Wowhead ne le dit pas.
+Dans Forever, les joueurs trouvent des livres partout dans le monde, et les remettre débloque de nouvelles quêtes. À 20 livres arrive <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a>, qui laisse choisir entre deux anneaux. Field Researcher's Loop en fait partie. On ne sait pas quel est l’autre anneau.
 
 ## Ce qui change sur l’anneau
 
@@ -27,8 +27,8 @@ Les fichiers de la build confirment le changement. La restriction de classe disp
 | Niveau d’objet | 40 | 35 |
 | Stats | 7 Strength, 7 Agility, 7 Stamina | 7 Agility, 7 Stamina |
 
-Blizzard n’a pas cité ce changement dans les notes de la build. L’infobulle de Wowhead montre encore d’anciennes valeurs.
+Blizzard n’a pas cité ce changement dans les notes de la build. Certaines infobulles en ligne montrent encore d’anciennes valeurs.
 
 ## Collecter 20 livres
 
-Quels livres sont les plus faciles à obtenir, un utilisateur de Wowhead l’a établi en jouant l’Alliance, dans [un commentaire sur le Scholarly Pendant](https://www.wowhead.com/forever/item=277203/scholarly-pendant#comments:id=6436230). Maintenant que la bêta va jusqu’au niveau 30, plusieurs de ces livres sont plus faciles à atteindre, selon Wowhead.
+Quels livres sont les plus faciles à obtenir, un joueur de l’Alliance l’a établi, dans [un commentaire sur le Scholarly Pendant](https://www.wowhead.com/forever/item=277203/scholarly-pendant#comments:id=6436230). Maintenant que la bêta va jusqu’au niveau 30, plusieurs de ces livres sont plus faciles à atteindre.

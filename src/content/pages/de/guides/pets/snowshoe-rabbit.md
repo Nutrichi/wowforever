@@ -30,7 +30,7 @@ Snowshoe Rabbit ist ein Haustier aus Classic, das in World of Warcraft: Forever 
 | Wo | Dun Morogh |
 | Preis | 21 Silber 5 Kupfer |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -40,7 +40,7 @@ Snowshoe Rabbit ist ein Haustier aus Classic, das in World of Warcraft: Forever 
 
 Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen. Das Herbeirufen ist sofort statt mit 1 Sekunde Zauberzeit, mit einer Abklingzeit von 1,5 Sekunden.
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere von Yarlyn Amberstill
 

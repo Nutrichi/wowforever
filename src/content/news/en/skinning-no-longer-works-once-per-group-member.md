@@ -12,7 +12,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-A creature in World of Warcraft: Forever can once again be skinned only a single time before its corpse disappears. Until now, every member of a group could skin the same beast. The latest beta build fixes that, writes Wowhead.
+A creature in World of Warcraft: Forever can once again be skinned only a single time before its corpse disappears. Until now, every member of a group could skin the same beast. The latest beta build fixes that.
 
 Skinning gives leather from beasts. In Classic, the corpse disappears after one skin. On the Forever beta, players in a group could skin the same creature once per member for the past two weeks, so one kill gave more leather. Whether that was intended, was unclear to players.
 
@@ -20,4 +20,4 @@ The notes of the build say:
 
 > Creatures can once again only be skinned a single time before disappearing.
 
-That makes clear it was a bug, writes Wowhead. One skinner per creature changes how much leather reaches the market when Forever launches on 4 November.
+That makes clear it was a bug. One skinner per creature changes how much leather reaches the market when Forever launches on 4 November.

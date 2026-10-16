@@ -28,7 +28,7 @@ Lunar Lantern is een companion pet die nieuw is in World of Warcraft: Forever. J
 | Item | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=74610"><img class="wf-wh__icon" src="/wh/achievement_worldevent_lunar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lunar Lantern</a> |
 | Bron | Nog niet bekend |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
@@ -36,7 +36,7 @@ De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaa
 
 ## Goed om te weten
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

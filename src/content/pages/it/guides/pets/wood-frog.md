@@ -30,7 +30,7 @@ Wood Frog è una mascotte da compagnia di Classic che torna in World of Warcraft
 | Dove | Elwynn Forest e Mulgore |
 | Prezzo | 1 d'oro e 5 d'argento e 26 di rame |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -40,7 +40,7 @@ Wood Frog è una mascotte da compagnia di Classic che torna in World of Warcraft
 
 Ora l'oggetto insegna la mascotte: diventa un incantesimo e non occupa più spazio nelle borse. Evocarla è istantaneo invece di un lancio di 1 secondo, con un tempo di recupero di 1,5 secondi.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte di Flik
 

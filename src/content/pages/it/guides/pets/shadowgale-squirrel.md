@@ -30,7 +30,7 @@ Shadowgale Squirrel è una mascotte da compagnia nuova in World of Warcraft: For
 | Dove | Zephras Isle |
 | Prezzo | 52 d'argento e 63 di rame |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -40,7 +40,7 @@ Lo scoiattolo richiede Revered con i Nightclaw Druids prima che il mercante lo v
 
 ## Da sapere
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte a Zephras Isle
 

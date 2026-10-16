@@ -31,7 +31,7 @@ Excitable Slime ist ein Haustier, das neu in World of Warcraft: Forever ist. Du 
 | Quelle | Quest: WRIGGLE. |
 | Wo | Undercity |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -47,7 +47,7 @@ Benutzt du später /dance beim Haustier, tanzt es mit.
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere in Undercity
 

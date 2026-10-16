@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, een beloning voor het verzamelen van boeken in World of Warcraft: Forever, is niet langer alleen voor Rogues. Elke class kan de ring nu dragen, schrijft Wowhead. In de beta-build van 1 oktober verliest hij ook zijn Strength.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, een beloning voor het verzamelen van boeken in World of Warcraft: Forever, is niet langer alleen voor Rogues. Elke class kan de ring nu dragen. In de beta-build van 1 oktober verliest hij ook zijn Strength.
 
-Spelers vinden in Forever overal in de wereld boeken, en wie ze inlevert, krijgt nieuwe quests. Bij 20 boeken komt <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a>, waarbij je een van twee ringen kiest. Field Researcher's Loop is er een van. Welke de andere ring is, zegt Wowhead niet.
+Spelers vinden in Forever overal in de wereld boeken, en wie ze inlevert, krijgt nieuwe quests. Bij 20 boeken komt <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a>, waarbij je een van twee ringen kiest. Field Researcher's Loop is er een van. Welke de andere ring is, is niet bekend.
 
 ## Wat er aan de ring verandert
 
@@ -27,8 +27,8 @@ De bestanden van de build bevestigen de wijziging. De beperking tot een class is
 | Item level | 40 | 35 |
 | Stats | 7 Strength, 7 Agility, 7 Stamina | 7 Agility, 7 Stamina |
 
-Blizzard vermeldde de wijziging niet in de notes van de build. De tooltip op Wowhead zelf toont nog oudere waarden.
+Blizzard vermeldde de wijziging niet in de notes van de build. Sommige tooltips online tonen nog oudere waarden.
 
 ## 20 boeken verzamelen
 
-Welke boeken het makkelijkst te krijgen zijn, zocht een gebruiker van Wowhead als speler van de Alliance uit in [een reactie bij de Scholarly Pendant](https://www.wowhead.com/forever/item=277203/scholarly-pendant#comments:id=6436230). Nu de beta tot level 30 loopt, zijn verschillende van die boeken makkelijker te bereiken, volgens Wowhead.
+Welke boeken het makkelijkst te krijgen zijn, zocht een speler van de Alliance uit in [een reactie bij de Scholarly Pendant](https://www.wowhead.com/forever/item=277203/scholarly-pendant#comments:id=6436230). Nu de beta tot level 30 loopt, zijn verschillende van die boeken makkelijker te bereiken.

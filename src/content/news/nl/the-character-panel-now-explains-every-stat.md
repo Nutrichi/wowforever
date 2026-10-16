@@ -13,11 +13,11 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Het personagevenster van World of Warcraft: Forever vertelt een speler wat elke stat doet. Wie over een regel zweeft, krijgt een volledige uitleg in plaats van een vage, schrijft Wowhead na de beta. De getallen die tellen voor raids en voor tanken staan er ook in.
+Het personagevenster van World of Warcraft: Forever vertelt een speler wat elke stat doet. Wie over een regel zweeft, krijgt een volledige uitleg in plaats van een vage. De getallen die tellen voor raids en voor tanken staan er ook in.
 
 ## Wat het oude venster niet zei
 
-Elke versie van WoW van voor Cataclysm beschreef zijn stats vaag, schrijft Wowhead, en liet de rest aan de speler. Forever zet de uitleg in het venster zelf, gericht op wie er nieuw in is.
+Elke versie van WoW van voor Cataclysm beschreef zijn stats vaag, en liet de rest aan de speler. Forever zet de uitleg in het venster zelf, gericht op wie er nieuw in is.
 
 ![De tooltip van Attack Power in de beta: 216, wat de melee weapon damage per seconde met 15,4 verhoogt](../../../assets/posts/2026-09-21-wow-forever-tooltip-attack-power.png)
 
@@ -25,13 +25,13 @@ De tooltip van Attack Power laat zien hoe eenvoudig dat wordt. Hij noemt het get
 
 ## Eén regel Crit voor aanvallen en spells
 
-Hit en Crit gelden in Forever voor elke school en zijn niet langer gesplitst in melee, spell en ranged, schrijft Wowhead. Het venster toont dat als één regel.
+Hit en Crit gelden in Forever voor elke school en zijn niet langer gesplitst in melee, spell en ranged. Het venster toont dat als één regel.
 
 ![De tooltip van Critical Strike in de beta, met de kansen voor melee en spells en wat een critical strike doet](../../../assets/posts/2026-09-21-wow-forever-tooltip-critical-strike.jpg)
 
 Eén stat betekent niet één getal. In de tooltip komt 6,1% Critical Strike neer op 6,08% voor melee en 6,04% voor spells, en de regel eronder zegt dat Agility de aanvalskant voedt en Intellect de spellkant.
 
-De tooltip beantwoordt ook de vragen die spelers blijven stellen, schrijft Wowhead. Een melee critical strike doet 100% meer schade, een critical strike van een spell of een heal is 50% doeltreffender, en de meeste periodieke effecten kunnen critten.
+De tooltip beantwoordt ook de vragen die spelers blijven stellen. Een melee critical strike doet 100% meer schade, een critical strike van een spell of een heal is 50% doeltreffender, en de meeste periodieke effecten kunnen critten.
 
 ## Hoeveel Hit genoeg is
 
@@ -49,4 +49,4 @@ Defense krijgt dezelfde behandeling, met de twee drempels die bepalen of een tan
 
 Elk punt verhoogt dodge, block en parry met 0,08% en verlaagt de kans om geraakt of critisch geraakt te worden met evenveel. Een creature crit voor 200% schade, en een die drie of meer levels boven de speler staat, kan een crushing blow landen voor 150%.
 
-Bij 440 Defense kan een personage niet meer critisch geraakt worden door raidbossen, goed voor 5,60% minder critical strike chance bij die bossen. Die twee getallen zijn wat spelers de defense cap en de avoidance cap noemen, schrijft Wowhead, dat erbij benadrukt dat Defense ook voorbij dat punt blijft helpen.
+Bij 440 Defense kan een personage niet meer critisch geraakt worden door raidbossen, goed voor 5,60% minder critical strike chance bij die bossen. Die twee getallen zijn wat spelers de defense cap en de avoidance cap noemen, dat erbij benadrukt dat Defense ook voorbij dat punt blijft helpen.

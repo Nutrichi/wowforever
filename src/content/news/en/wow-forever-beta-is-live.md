@@ -12,7 +12,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-The beta of World of Warcraft: Forever is live. It opened on 17 September, right after the live Q&A of Blizzard. There are queues at the log-in screen, writes Wowhead. How stable the servers are, is not known.
+The beta of World of Warcraft: Forever is live. It opened on 17 September, right after the live Q&A of Blizzard. There are queues at the log-in screen. How stable the servers are, is not known.
 
 The beta runs to 21 October 2026. It starts with a level cap of 20 and raises that to 30 later, and there it stays until the launch on 4 November.
 

@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Crimson Whelpling in WoW Forever?"
-    a: "It drops from several monsters. These have the best chance in the loot data of Wowhead: Flamesnorting Whelp in Wetlands, about 0.5% Crimson Whelp in Wetlands, about 0.3% Red Whelp in Wetlands, about 0.2%"
+    a: "It drops from several monsters. These have the best chance in the loot data: Flamesnorting Whelp in Wetlands, about 0.5% Crimson Whelp in Wetlands, about 0.3% Red Whelp in Wetlands, about 0.2%"
   - q: "Is Crimson Whelpling new in WoW Forever?"
     a: "No. Crimson Whelpling was already in Classic and returns in WoW Forever."
 sources:
@@ -29,11 +29,11 @@ Crimson Whelpling is a companion pet from Classic that returns in World of Warcr
 | Where | Wetlands |
 | Drop chance | 0.5% |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
-It drops from several monsters. These have the best chance in the loot data of Wowhead:
+It drops from several monsters. These have the best chance in the loot data:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> in Wetlands, about 0.5%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1069">Crimson Whelp</a> in Wetlands, about 0.3%
@@ -43,7 +43,7 @@ It drops from several monsters. These have the best chance in the loot data of W
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags. Summoning it is instant instead of a 1 second cast, with a cooldown of 1.5 seconds.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

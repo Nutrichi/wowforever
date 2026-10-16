@@ -13,11 +13,11 @@ featured: false
 draft: false
 manual: true
 ---
-Professions in World of Warcraft: Forever stay the system that WoW Classic players know. Fixed materials, fixed stats on crafted items, no overhaul like the one in Dragonflight. What is new are over 600 recipes, campsites and Legacy Points, Wowhead writes.
+Professions in World of Warcraft: Forever stay the system that WoW Classic players know. Fixed materials, fixed stats on crafted items, no overhaul like the one in Dragonflight. What is new are over 600 recipes, campsites and Legacy Points.
 
 ## Camping turns a campfire into a stop
 
-Players can place a campfire almost anywhere in the open world, which creates a campsite. At a campsite anyone can rest and use vendors, repairs, tradeskill workspaces and buffs, Wowhead writes.
+Players can place a campfire almost anywhere in the open world, which creates a campsite. At a campsite anyone can rest and use vendors, repairs, tradeskill workspaces and buffs.
 
 Every player may place one object from their own professions at the site, which buffs everyone there. Those buffs are the same as familiar class buffs and do not stack. An Incense Candle from a Herbalist raises Intellect, but it does not combine with a Mage's Arcane Intellect.
 
@@ -29,7 +29,7 @@ Forever adds more than 600 recipes across every profession and every level range
 
 ## Professions feed the Legacy system
 
-Levelling a tradeskill earns Legacy Points. The first time a tradeskill reaches 150, 225 and 300, a point comes with it, Wowhead writes. Those points go into the Legacy trees, and one of the three trees is Professions.
+Levelling a tradeskill earns Legacy Points. The first time a tradeskill reaches 150, 225 and 300, a point comes with it. Those points go into the Legacy trees, and one of the three trees is Professions.
 
 Perks in that tree raise the chance of a skill point and increase the amount of Scarce materials from Mining, Herbalism and Skinning. One perk mentions supply crates for the Azeroth Commerce Authority and Durotar Supply and Logistics, two factions players know from Season of Discovery. The full tree is in our Legacy calculator.
 

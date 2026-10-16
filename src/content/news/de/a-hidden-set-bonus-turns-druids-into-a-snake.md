@@ -19,7 +19,7 @@ Das Set fällt in den Wailing Caverns, fünf Teile insgesamt, jedes bei einer an
 
 ## Wer es fand
 
-Der Spieler Noah veröffentlichte den Fund, schreibt Wowhead.
+Der Spieler Noah veröffentlichte den Fund.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2101253855983910975">
   <button type="button" class="wf-embed__play">
@@ -31,7 +31,7 @@ Der Spieler Noah veröffentlichte den Fund, schreibt Wowhead.
   </button>
 </figure>
 
-Zirene, Senior Game Designer bei Blizzard, ergänzte, dass die Farbe der Schlange bei jedem Druid-Volk wechselt und dass die Form eine eigene Schleichanimation für Prowl und Stealth hat, schreibt Wowhead.
+Zirene, Senior Game Designer bei Blizzard, ergänzte, dass die Farbe der Schlange bei jedem Druid-Volk wechselt und dass die Form eine eigene Schleichanimation für Prowl und Stealth hat.
 
 ## Warum das mehr ist als ein Scherz
 

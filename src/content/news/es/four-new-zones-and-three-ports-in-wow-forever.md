@@ -13,13 +13,13 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever recibe cuatro zonas nuevas en el lanzamiento: Mount Hyjal, Shen'Dralas, Riverglades y Zephras Isle. Así lo escribe Wowhead, a partir de los paneles de la BlizzCon. Con ellas llegan tres puertos y más de 1.000 misiones nuevas.
+World of Warcraft: Forever recibe cuatro zonas nuevas en el lanzamiento: Mount Hyjal, Shen'Dralas, Riverglades y Zephras Isle. Así se desprende de los paneles de la BlizzCon. Con ellas llegan tres puertos y más de 1.000 misiones nuevas.
 
 ## Las cuatro zonas nuevas
 
 Mount Hyjal es la zona de final de juego y alberga las primeras raids de 20 y de 10 jugadores, Hyjal Summit y las Barrow Deeps. Forever transcurre después de Warcraft III, así que el esqueleto de Archimonde sigue junto a Nordrassil.
 
-Shen'Dralas queda entre Mulgore y Desolace. La zona continúa la historia de los Shen'dralar y la de las tribus centauras de Desolace, escribe Wowhead. Se añaden misiones alrededor de las mazmorras Razorfen Downs y Maraudon.
+Shen'Dralas queda entre Mulgore y Desolace. La zona continúa la historia de los Shen'dralar y la de las tribus centauras de Desolace. Se añaden misiones alrededor de las mazmorras Razorfen Downs y Maraudon.
 
 Riverglades llena el hueco entre mediados de los treinta y principios de los cuarenta. Los jugadores llegan desde Steamwheedle Port o por un paso nuevo de Redridge hacia las Burning Steppes. Allí viven Ogres y el Twilight's Hammer, y la nueva mazmorra Krol'dok Stronghold está en la zona.
 
@@ -35,7 +35,7 @@ Southshore por fin le da uso a su muelle y se convierte en parada entre Menethil
 
 ## Qué cambia en las zonas iniciales
 
-Cada zona inicial recibe NPC, misiones y experiencias nuevas frente a WoW Classic, dice el Lead Content Designer Evan Lee según Wowhead. El contenido que los jugadores conocen se queda al lado. Desolace y los Wetlands reciben paquetes grandes de misiones, para que se sientan menos vacíos.
+Cada zona inicial recibe NPC, misiones y experiencias nuevas frente a WoW Classic, dice el Lead Content Designer Evan Lee. El contenido que los jugadores conocen se queda al lado. Desolace y los Wetlands reciben paquetes grandes de misiones, para que se sientan menos vacíos.
 
 ## Cuándo transcurre la historia
 

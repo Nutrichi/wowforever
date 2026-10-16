@@ -13,13 +13,13 @@ featured: false
 draft: false
 manual: true
 ---
-WoW Forever tiene una Black Market Auction House, en la nueva zona The Riverglades. Madam Swyndle vende allí piezas del Dungeon Set 1 por 100 de oro o más, además de mascotas, un tabardo y un juguete. Wowhead la encontró en la beta.
+WoW Forever tiene una Black Market Auction House, en la nueva zona The Riverglades. Madam Swyndle vende allí piezas del Dungeon Set 1 por 100 de oro o más, además de mascotas, un tabardo y un juguete.
 
 ## Dónde está el Black Market
 
 La Black Market Auction House apareció por primera vez en Mists of Pandaria, en el parche 5.0.4, y forma parte de WoW retail desde entonces. En Forever está en [The Riverglades](/es/forever/), la nueva zona al norte de Redridge Mountains para los niveles 30 a 45.
 
-No está en Farholde Keep, la nueva fortaleza de la zona. Los agentes están en Powderfuse Port, un pequeño puesto goblin junto al río, en /way 78.1 51.9, según Wowhead.
+No está en Farholde Keep, la nueva fortaleza de la zona. Los agentes están en Powderfuse Port, un pequeño puesto goblin junto al río, en /way 78.1 51.9.
 
 ![El mapa de The Riverglades ampliado sobre Powderfuse Port, un puesto goblin en la orilla oeste de un río, con la flecha del jugador encima](../../../assets/posts/2026-09-27-wow-forever-powderfuse-port-map.jpg)
 
@@ -27,7 +27,7 @@ Allí esperan dos goblins con el título Agent of the Black Market. [Madam Swynd
 
 ## Lo que vende Madam Swyndle
 
-La mayor parte del equipo viene del Dungeon Set 1, los sets azules de las mazmorras del Classic original. Cada pieza cuesta 100 de oro o más. Wowhead muestra cuatro piezas que encontró, de tres sets.
+La mayor parte del equipo viene del Dungeon Set 1, los sets azules de las mazmorras del Classic original. Cada pieza cuesta 100 de oro o más. Hasta ahora se han encontrado cuatro piezas de tres sets.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_boots_wolf.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=16670">Boots of Elements</a><span class="wf-item__line wf-item__meta">Item Level 59</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Feet</span><span>Mail</span></span><span class="wf-item__line">240 Armor</span><span class="wf-item__line">+9 Agility</span><span class="wf-item__line">+17 Spirit</span><span class="wf-item__line">Durability 60 / 60</span><span class="wf-item__line">Requires Level 54</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 14.</span><span class="wf-item__line wf-item__setname">The Elements (0/8)</span><span class="wf-item__line wf-item__set">(2) Set: +8 All Resistances.</span><span class="wf-item__line wf-item__set">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class="wf-item__line wf-item__set">(4) Set: When struck in melee combat has a 5% chance of Disarming the attacker for 4 sec. Can only occur once every 60 sec. (Proc chance: 5%, 1m cooldown)</span><span class="wf-item__line wf-item__set">(5) Set: Chance on melee autoattack and spellcast to increase your damage and healing done by magical spells and effects by up to 65 for 10 sec.</span><span class="wf-item__line wf-item__set">(6) Set: Restores 8 mana per 5 sec.</span></div></div>
@@ -36,11 +36,11 @@ La mayor parte del equipo viene del Dungeon Set 1, los sets azules de las mazmor
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_crown_02.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=16686">Magister's Crown</a><span class="wf-item__line wf-item__meta">Item Level 62</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Head</span><span>Cloth</span></span><span class="wf-item__line">71 Armor</span><span class="wf-item__line">+10 Stamina</span><span class="wf-item__line">+30 Intellect</span><span class="wf-item__line">Durability 50 / 50</span><span class="wf-item__line">Requires Level 57</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 10.</span><span class="wf-item__line wf-item__setname">Magister's Regalia (0/8)</span><span class="wf-item__line wf-item__set">(2) Set: +8 All Resistances.</span><span class="wf-item__line wf-item__set">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class="wf-item__line wf-item__set">(4) Set: When struck in combat has a 2% chance of freezing the attacker in place for 3 sec. Can only occur once every 60 sec. (Proc chance: 2%, 1m cooldown)</span><span class="wf-item__line wf-item__set">(5) Set: Your spellcasts have a 5% chance to energize you for 200 mana. (Proc chance: 5%)</span><span class="wf-item__line wf-item__set">(6) Set: Restores 8 mana per 5 sec.</span></div></div>
 </div>
 
-Las piezas son Binds when picked up, como en Classic. Wowhead no dice si se puja por ellas como en el Black Market de retail o si se paga un precio fijo.
+Las piezas son Binds when picked up, como en Classic. No se sabe si se puja por ellas como en el Black Market de retail o si se paga un precio fijo.
 
 ## Los sets funcionan distinto en Forever
 
-Los nombres son los mismos, las piezas no. Los tooltips de Wowhead para Forever y para Classic Era muestran las diferencias lado a lado.
+Los nombres son los mismos, las piezas no. Los tooltips para Forever y para Classic Era muestran las diferencias lado a lado.
 
 - **Cada pieza tiene su propio spell power.** Magister's Robes da 11, Boots of Elements 14. En Classic esas piezas no tenían.
 - **Las bonificaciones llegan antes.** Forever da bonificaciones hasta seis piezas, Classic hasta ocho. El +8 All Resistances pasa de ocho piezas a dos, y la bonificación de spell power de cuatro piezas a tres.
@@ -64,7 +64,7 @@ El mismo enfoque apareció con [Embrace of the Viper](/es/news/a-hidden-set-bonu
 
 ## Mascotas, un tabardo y un ogro
 
-El Black Market no se queda en el equipo. Wowhead encontró cuatro mascotas entre los objetos.
+El Black Market no se queda en el equipo. Entre los objetos hay cuatro mascotas.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_egg_02.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=11474">Sprite Darter Egg</a><span class="wf-item__line wf-item__meta">Item Level 47</span><span class="wf-item__line wf-item__use">Use: Right Click to summon and dismiss your sprite darter hatchling.</span></div></div>
@@ -84,6 +84,6 @@ Otros dos coleccionables de esas cartas estaban a la venta: el Tabard of Flame y
 
 ## Lo que no se sabe
 
-Wowhead escribe que Forever tiene "aún más agentes" del Black Market, pero no dónde están los demás. Tampoco se sabe cada cuánto cambia el surtido ni si los precios se mantendrán en el lanzamiento. El titular de Wowhead menciona monturas, pero ninguna aparece entre los objetos. Lo que vende exactamente Mister Graphed no se detalla.
+Forever tiene "aún más agentes" del Black Market, pero no se sabe dónde están los demás. Tampoco se sabe cada cuánto cambia el surtido ni si los precios se mantendrán en el lanzamiento. Lo que vende exactamente Mister Graphed no se detalla.
 
 Todo sobre el Black Market está en la [guía de la BMAH](/es/guides/bmah/): dónde está Powderfuse Port, quién vende qué y los sets lado a lado.

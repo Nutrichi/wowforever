@@ -45,7 +45,7 @@ Das meiste kommt aus Kills an Zentauren des Magram-Clans in Desolace. Warcraft W
 
 ### Die Questreihe
 
-Ab Friendly öffnet Uthek the Wise am Rand der Gelkis-Lager im Südwesten von Desolace eine Reihe: Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn und Khan Hratha. Strange Alliance und Gelkis Alliance geben je 100 Ruf bei den Gelkis und kosten 500 bei den Magram, sagt Wowhead.
+Ab Friendly öffnet Uthek the Wise am Rand der Gelkis-Lager im Südwesten von Desolace eine Reihe: Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn und Khan Hratha. Strange Alliance und Gelkis Alliance geben je 100 Ruf bei den Gelkis und kosten 500 bei den Magram.
 
 ### Wo es aufhört
 

@@ -23,7 +23,7 @@ La modifica è nelle note della build della beta del 1° ottobre:
 
 ## Quanto valevano le bacchette
 
-I vecchi prezzi vengono dai file della build precedente, 70124. Oltre a essenze e polvere del disincantamento, ogni bacchetta richiede legno da un mercante: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> per circa 40 copper o <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> per circa 45 silver, secondo Wowhead.
+I vecchi prezzi vengono dai file della build precedente, 70124. Oltre a essenze e polvere del disincantamento, ogni bacchetta richiede legno da un mercante: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> per circa 40 copper o <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> per circa 45 silver.
 
 | Bacchetta | Prezzo vecchio | Ora | Materiali |
 |---|---|---|---|
@@ -34,4 +34,4 @@ I vecchi prezzi vengono dai file della build precedente, 70124. Oltre a essenze 
 
 Chi disincantava gli oggetti verdi trovati comunque aveva le essenze gratis. Vendere bacchette era allora un modo facile per guadagnare silver. Ora è finita: le bacchette valgono solo per usarle, durante il livellamento o come equipaggiamento.
 
-La Lesser Mystic Wand si vendeva già a meno di quanto costassero i materiali, scrive Wowhead. Per le altre tre il mercante pagava più del legno.
+La Lesser Mystic Wand si vendeva già a meno di quanto costassero i materiali. Per le altre tre il mercante pagava più del legno.

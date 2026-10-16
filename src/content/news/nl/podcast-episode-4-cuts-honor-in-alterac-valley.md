@@ -61,7 +61,7 @@ Een RP-PvP-regelset is niet gepland. De RP-PvP-realm van Season of Discovery ver
 
 > We don't have any plans right now. We don't have anything really to report, but we're very carefully considering the feedback. We're looking at it. We're reading it.
 
-Niets houdt een level 60 tegen die op een PvP-realm lage levels campt, tenzij het om valsspelen of een exploit gaat. Waar Blizzard PvP aanzet voor een evenement in de wereld, kan het wel hulp toevoegen, zoals een korte onkwetsbaarheid na een resurrection.
+Niets houdt een level 60 tegen die op een PvP-realm lage levels campt, tenzij het om valsspelen of een exploit gaat. Een bescherming zoals op de Titan Reforged-realms in China [komt er niet](/nl/news/no-protection-for-low-levels-on-pvp-realms/). Waar Blizzard PvP aanzet voor een evenement in de wereld, kan het wel hulp toevoegen, zoals een korte onkwetsbaarheid na een resurrection.
 
 ## Grote gevechten in de open wereld
 

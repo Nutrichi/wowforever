@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Black Tabby dans WoW Forever ?"
-    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin de Wowhead : Dalaran Shield Guard à Alterac Mountains, environ 0,2 % Dalaran Summoner à Alterac Mountains, environ 0,1 % Dalaran Theurgist à Alterac Mountains, environ 0,1 %"
+    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin : Dalaran Shield Guard à Alterac Mountains, environ 0,2 % Dalaran Summoner à Alterac Mountains, environ 0,1 % Dalaran Theurgist à Alterac Mountains, environ 0,1 %"
   - q: "Black Tabby est-elle nouvelle dans WoW Forever ?"
     a: "Non. Black Tabby existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Black Tabby est une mascotte de compagnie de Classic qui revient dans World of W
 | Où | Alterac Mountains et Silverpine Forest |
 | Taux de butin | 0,2 % |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
-Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin de Wowhead :
+Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin :
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2271">Dalaran Shield Guard</a> à Alterac Mountains, environ 0,2 %
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2358">Dalaran Summoner</a> à Alterac Mountains, environ 0,1 %
@@ -44,7 +44,7 @@ Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les d
 
 L'objet apprend désormais la mascotte : elle devient un sort et ne prend plus de place dans les sacs. L'invocation est instantanée au lieu d'une incantation d'une seconde, avec un temps de recharge de 1,5 seconde.
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

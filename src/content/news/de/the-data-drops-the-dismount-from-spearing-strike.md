@@ -1,6 +1,6 @@
 ---
 title: "Spearing Strike wirft laut Daten nicht mehr ab"
-description: "Wowhead verglich die Zauber des Builds von WoW Forever vom 1. Oktober mit dem vorigen. Die Daten bestätigen die Klassennotes und zeigen einige Änderungen, die Blizzard nicht nannte, für Warriors und Feral Druids."
+description: "Die Zauber des Builds von WoW Forever vom 1. Oktober, verglichen mit dem vorigen. Die Daten bestätigen die Klassennotes und zeigen einige Änderungen, die Blizzard nicht nannte, für Warriors und Feral Druids."
 date: 2026-10-02T12:20:00+02:00
 category: forever
 lang: de
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> holt sein Ziel nicht mehr vom Reittier, laut den Dateien des neuen Beta-Builds von World of Warcraft: Forever. Wowhead verglich jeden Zauber mit dem vorigen Build. Die meisten Änderungen stimmen mit den Klassennotes vom 1. Oktober überein, einige fehlen dort aber.
+<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> holt sein Ziel nicht mehr vom Reittier, laut den Dateien des neuen Beta-Builds von World of Warcraft: Forever. Jeder Zauber wurde mit dem vorigen Build verglichen. Die meisten Änderungen stimmen mit den Klassennotes vom 1. Oktober überein, einige fehlen dort aber.
 
 Blizzard hat die Änderungen unten, die nicht in den Notes stehen, nicht bestätigt. Gedataminte Tooltips können sich außerdem noch ändern, bevor sie ins Spiel kommen.
 

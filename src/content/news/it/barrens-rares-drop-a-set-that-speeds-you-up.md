@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Tre rari dei Barrens lasciano ora equipaggiamento che appartiene a un set. Humar the Pridelord, Swiftmane e Takk the Leaper portano ognuno un pezzo di Blessing of Kalimdor, e indossarne due su tre dà il 5 per cento di velocità di movimento in The Barrens e nelle Stonetalon Mountains. Wowhead l’ha trovato sulla beta.
+Tre rari dei Barrens lasciano ora equipaggiamento che appartiene a un set. Humar the Pridelord, Swiftmane e Takk the Leaper portano ognuno un pezzo di Blessing of Kalimdor, e indossarne due su tre dà il 5 per cento di velocità di movimento in The Barrens e nelle Stonetalon Mountains.
 
 ## I tre pezzi
 

@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Pet Stone in WoW Forever?"
-    a: "It drops from several monsters. These have the best chance in the loot data of Wowhead: The Giant in Feralas Enraged Mountain Giant in Feralas"
+    a: "It drops from several monsters. These have the best chance in the loot data: The Giant in Feralas Enraged Mountain Giant in Feralas"
   - q: "Is Pet Stone new in WoW Forever?"
     a: "No. Pet Stone was already in Classic and returns in WoW Forever."
 sources:
@@ -28,11 +28,11 @@ Pet Stone is a companion pet from Classic that returns in World of Warcraft: For
 | Source | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (and 1 more) |
 | Where | Feralas |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
-It drops from several monsters. These have the best chance in the loot data of Wowhead:
+It drops from several monsters. These have the best chance in the loot data:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> in Feralas
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221373">Enraged Mountain Giant</a> in Feralas
@@ -41,7 +41,7 @@ It drops from several monsters. These have the best chance in the loot data of W
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

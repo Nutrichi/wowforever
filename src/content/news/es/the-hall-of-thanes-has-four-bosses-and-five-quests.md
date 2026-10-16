@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-The Hall of Thanes es la primera mazmorra nueva que casi todos los jugadores de la Alianza verán en World of Warcraft: Forever. Está en Old Ironforge, para los niveles 13 a 18. Wowhead ha publicado una guía de sus cuatro jefes y cinco misiones.
+The Hall of Thanes es la primera mazmorra nueva que casi todos los jugadores de la Alianza verán en World of Warcraft: Forever. Está en Old Ironforge, para los niveles 13 a 18. Estos son sus cuatro jefes y cinco misiones.
 
 <figure class="wf-embed" data-wf-video="c5PJmoBKcKc">
   <button type="button" class="wf-embed__play">
@@ -25,17 +25,17 @@ The Hall of Thanes es la primera mazmorra nueva que casi todos los jugadores de 
   </button>
 </figure>
 
-La guía es de Jurdi, que escribe sobre Paladins para Wowhead y tanqueó la mazmorra en la beta. Los primeros siete minutos de su vídeo explican la mazmorra y el resto es una partida completa. El jefe final es de nivel 16, así que un grupo que entra a nivel 13 lo tiene difícil.
+La guía es de Jurdi, experto en Paladins que tanqueó la mazmorra en la beta. Los primeros siete minutos de su vídeo explican la mazmorra y el resto es una partida completa. El jefe final es de nivel 16, así que un grupo que entra a nivel 13 lo tiene difícil.
 
 ## Dónde está
 
-La puerta de Old Ironforge está a la izquierda nada más entrar en el High Seat, escribe Wowhead. Un camino baja hasta el portal. El Hall es el lugar de descanso de los grandes Dwarves de los Eastern Kingdoms, y los Dark Iron Dwarves han entrado a la fuerza con sus perforadoras.
+La puerta de Old Ironforge está a la izquierda nada más entrar en el High Seat. Un camino baja hasta el portal. El Hall es el lugar de descanso de los grandes Dwarves de los Eastern Kingdoms, y los Dark Iron Dwarves han entrado a la fuerza con sus perforadoras.
 
 La mazmorra es la [respuesta de la Alianza a Ragefire Chasm](/es/news/one-faction-per-player-on-pvp-rulesets/). La Horda puede entrar, pero el viaje es largo: de Tarren Mill por las Arathi Highlands, los Wetlands y Loch Modan hasta Dun Morogh, y luego pasando ante los guardias de Ironforge. No se ha encontrado una ruta más rápida. Tras un wipe, el Spirit Healer está cerca, justo fuera de la ciudad.
 
 ## Cinco misiones
 
-Dos misiones empiezan justo fuera de la mazmorra, dos dentro, y la quinta arranca en Dun Morogh. Cada una da entre 3.900 y 4.900 de experiencia, escribe Wowhead. Los monstruos de dentro dan muy poco: Jurdi vio de 28 a 30 por muerte.
+Dos misiones empiezan justo fuera de la mazmorra, dos dentro, y la quinta arranca en Dun Morogh. Cada una da entre 3.900 y 4.900 de experiencia. Los monstruos de dentro dan muy poco: Jurdi vio de 28 a 30 por muerte.
 
 - **Important Heirlooms**, de Thom Filch en Old Ironforge: reúne 8 Dwarven Heirlooms. Aparecen tras el primer jefe, y las cámaras de la última sala, el Reliquary of Kings, tienen suficientes para todo el grupo.
 - **The Restless Dead**, de Afadra Dunwall en Old Ironforge: limpia los espíritus de la primera parte de la mazmorra.
@@ -54,7 +54,7 @@ Cada misión paso a paso, con las coordenadas de la cadena de Dun Morogh, está 
 | Dwarven Tome | Mano izquierda | Important Heirlooms |
 | Catacomb Cloak | Capa | An Ancient Grudge |
 
-Quién puede hacer las misiones no está claro. El artículo de Wowhead dice que las cinco son solo para la Alianza. La guía de la mazmorra en la misma web hace una excepción con Important Heirlooms y An Ancient Grudge.
+Quién puede hacer las misiones no está claro. Una fuente dice que las cinco son solo para la Alianza. Otra hace una excepción con Important Heirlooms y An Ancient Grudge.
 
 ## Cuatro jefes
 
@@ -68,7 +68,7 @@ Quién puede hacer las misiones no está claro. El artículo de Wowhead dice que
 
 ## El trash pega fuerte
 
-La primera parte de la mazmorra es fácil, escribe Wowhead. La zona de los Dark Irons no. Los Looters atacan rápido con dagas, los Engineers lanzan bombas a un punto que se puede esquivar, y los Summoners lanzan Fireball e invocan un Fiery Assistant. Lleva a los Summoners detrás de un pilar, fuera de su vista, para que tengan que acercarse.
+La primera parte de la mazmorra es fácil. La zona de los Dark Irons no. Los Looters atacan rápido con dagas, los Engineers lanzan bombas a un punto que se puede esquivar, y los Summoners lanzan Fireball e invocan un Fiery Assistant. Lleva a los Summoners detrás de un pilar, fuera de su vista, para que tengan que acercarse.
 
 Los Lesser Stone Golems pegan más fuerte y se mueven rápido. El último grupo antes del jefe final junta un Summoner, un Looter y un Golem. El control de masas como Polymorph ayuda, y los aturdimientos como Hammer of Justice también. Los sanadores generan mucha amenaza a estos niveles, dice Jurdi.
 

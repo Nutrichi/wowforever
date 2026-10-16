@@ -14,7 +14,7 @@ draft: false
 ---
 The Cozy Sleeping Bag is in WoW Forever. Players found the quest chain from Season of Discovery running on the beta, and it ends in the same item: a bag you unroll anywhere for bonus experience while you rest. You need level 14 to start it.
 
-Brubby, from the WoW Secret Finding Discord, confirmed the chain and supplied the screenshots, reports Wowhead.
+Brubby, from the WoW Secret Finding Discord, confirmed the chain and supplied the screenshots.
 
 ## What the bag does
 

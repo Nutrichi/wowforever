@@ -27,7 +27,7 @@ De video duurt 7 minuten en verscheen op 3 oktober om 19.00 uur Belgische tijd o
   </button>
 </figure>
 
-Een deel van de wijzigingen voor de Hunter stond al in de [eerste class deep dive](/nl/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), over de Hunter en de Druid. De cijfers hieronder komen uit de tooltips op Wowhead.
+Een deel van de wijzigingen voor de Hunter stond al in de [eerste class deep dive](/nl/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), over de Hunter en de Druid. De cijfers hieronder komen uit de tooltips van de beta.
 
 ## Hunter
 

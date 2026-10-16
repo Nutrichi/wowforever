@@ -8,7 +8,7 @@ lang: it
 manual: true
 faq:
   - q: "Come si ottiene Tallstrider Hatchling in WoW Forever?"
-    a: "La lascia cadere Strider Clutchmother a Darkshore. Nei dati di bottino di Wowhead cade in circa il 0,2% delle uccisioni."
+    a: "La lascia cadere Strider Clutchmother a Darkshore. Nei dati di bottino cade in circa il 0,2% delle uccisioni."
   - q: "Tallstrider Hatchling è nuova in WoW Forever?"
     a: "Sì. Tallstrider Hatchling è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -30,15 +30,15 @@ Tallstrider Hatchling è una mascotte da compagnia nuova in World of Warcraft: F
 | Dove | Darkshore |
 | Probabilità | 0,2% |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
-La lascia cadere <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> a Darkshore. Nei dati di bottino di Wowhead cade in circa il 0,2% delle uccisioni.
+La lascia cadere <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> a Darkshore. Nei dati di bottino cade in circa il 0,2% delle uccisioni.
 
 ## Da sapere
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

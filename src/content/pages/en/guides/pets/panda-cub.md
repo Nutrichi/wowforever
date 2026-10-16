@@ -29,7 +29,7 @@ Panda Cub is a companion pet from Classic that returns in World of Warcraft: For
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281166"><img class="wf-wh__icon" src="/wh/inv_pandacub_c60_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Panda Collar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13583"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Panda Collar</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=180089"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Panda Collar</a> |
 | Source | Edition: Skyborne Epic Pack, Warcraft Forever Collection |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -43,7 +43,7 @@ A second item for the same pet is in the files, <a class="wf-wh wf-q1" href="htt
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags. Summoning it is instant instead of a 1 second cast, with a cooldown of 1.5 seconds.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

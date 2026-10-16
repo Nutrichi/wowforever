@@ -101,7 +101,7 @@ Sotto Neutral la scala segue anch'essa l'abitudine: Hated è largo 36.000, Hosti
 
 **Le casse.** Una cassa come la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> si raccoglie nel mondo, si riempie e si consegna a Marcy Baker. Il perk Legacy Performance Bonus dà il 5, 10 o 15% di probabilità di Merchant's Favor doppio per cassa; vedi il [calcolatore Legacy](/it/talents/legacy/).
 
-**I Craftsman's Writs** esistono anche, forse dal livello 10, scrive Wowhead. Cosa chiedano e se Marcy Baker li accetti, non si sa ancora.
+**I Craftsman's Writs** esistono anche, forse dal livello 10. Cosa chiedano e se Marcy Baker li accetti, non si sa ancora.
 
 ## Cosa non si sa ancora
 

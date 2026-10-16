@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Le due collane che premiano 10 libri raccolti in World of Warcraft: Forever sono più deboli nella beta. <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> e <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a> passano dal blu al verde e perdono circa metà delle loro statistiche, scrive Wowhead.
+Le due collane che premiano 10 libri raccolti in World of Warcraft: Forever sono più deboli nella beta. <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> e <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a> passano dal blu al verde e perdono circa metà delle loro statistiche.
 
 All’inizio della beta, i giocatori hanno scoperto che i libri sparsi per il mondo si possono consegnare al bibliotecario della propria fazione, qualunque sia la classe. Quella che era un’attività di nicchia si è diffusa appena si sono viste le ricompense. A 10 libri arriva la missione <a href="https://www.wowhead.com/forever/quest=78150">Friend of the Library</a>, ed è questa ricompensa a essere cambiata.
 
@@ -30,4 +30,4 @@ I nuovi valori corrispondono ai tooltip della beta.
 
 Anche la ricompensa per 20 libri è cambiata: il livello oggetto scende da 40 a 35, e la restrizione di classe sparisce. Altro nell’[articolo su Field Researcher's Loop](/it/news/field-researchers-loop-now-fits-every-class/).
 
-Arrivare a 20 libri al livello 20 era una sfida, scrive Wowhead. Ora che la beta arriva al livello 30, dovrebbero essercene di più a portata.
+Arrivare a 20 libri al livello 20 era una sfida. Ora che la beta arriva al livello 30, dovrebbero essercene di più a portata.

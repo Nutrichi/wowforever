@@ -13,11 +13,11 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever tient une liste de chaque joueur avec qui un personnage a été en groupe. La fenêtre Recent Allies se trouve à côté de la Friends List et garde nom, niveau, classe, lieu et activité. Wowhead l'a montrée depuis la bêta.
+World of Warcraft: Forever tient une liste de chaque joueur avec qui un personnage a été en groupe. La fenêtre Recent Allies se trouve à côté de la Friends List et garde nom, niveau, classe, lieu et activité. Elle est déjà dans la bêta.
 
 ## Ce que la liste garde
 
-Chaque fois qu'un joueur groupe avec quelqu'un, une entrée s'ajoute à Recent Allies, écrit Wowhead. Elle garde le nom, le niveau actuel, la classe, le lieu où les deux se sont croisés et ce qu'ils ont fait ensemble. Les joueurs en ligne ont un bouton qui les invite en un clic.
+Chaque fois qu'un joueur groupe avec quelqu'un, une entrée s'ajoute à Recent Allies. Elle garde le nom, le niveau actuel, la classe, le lieu où les deux se sont croisés et ce qu'ils ont fait ensemble. Les joueurs en ligne ont un bouton qui les invite en un clic.
 
 ![L'onglet Recent Allies de la fenêtre d'amis avec six joueurs, noms masqués en noir, et une infobulle indiquant niveau 10, Windshaper Skyborne, Druid, Horde et Fought Together à Zephras Isle](../../../assets/posts/2026-09-25-wow-forever-recent-allies-window.png)
 
@@ -27,10 +27,10 @@ Un allié récent peut être épinglé, pour que son nom reste toujours en haut 
 
 ![La liste Recent Allies avec deux joueurs épinglés en haut, marqués d'une punaise jaune, au-dessus d'une ligne de séparation](../../../assets/posts/2026-09-25-wow-forever-recent-allies-pinned.jpg)
 
-Combien de joueurs la liste garde et combien de temps une entrée reste, Wowhead ne le dit pas.
+On ne sait pas combien de joueurs la liste garde ni combien de temps une entrée reste.
 
 ## Une pièce d'un design social
 
-Forever mise sur le jeu à plusieurs, et Blizzard a dit dans plusieurs interviews que la friction y aide. Dans [une interview avec Game Informer](/fr/news/one-faction-per-player-on-pvp-rulesets/), deux leads ont décrit la course vers un donjon ou un long trajet en vol comme un moment où les joueurs se parlent. Dans une interview avec Windows Central, l'équipe a dit la même chose à l'envers : retirez la friction et le jeu devient plus solitaire, écrit Wowhead.
+Forever mise sur le jeu à plusieurs, et Blizzard a dit dans plusieurs interviews que la friction y aide. Dans [une interview avec Game Informer](/fr/news/one-faction-per-player-on-pvp-rulesets/), deux leads ont décrit la course vers un donjon ou un long trajet en vol comme un moment où les joueurs se parlent. Dans une interview avec Windows Central, l'équipe a dit la même chose à l'envers : retirez la friction et le jeu devient plus solitaire.
 
-L'absence de [shared tagging](/fr/news/aggrend-rules-out-shared-tagging/) va dans le même sens. Seul le premier joueur ou groupe qui touche un mob obtient le kill, ce qui pousse les joueurs à grouper. Wowhead voit Recent Allies comme la suite logique : qui groupe pour un mob disputé ou un donjon garde une liste de noms à recontacter plus tard.
+L'absence de [shared tagging](/fr/news/aggrend-rules-out-shared-tagging/) va dans le même sens. Seul le premier joueur ou groupe qui touche un mob obtient le kill, ce qui pousse les joueurs à grouper. Recent Allies ressemble à la suite logique : qui groupe pour un mob disputé ou un donjon garde une liste de noms à recontacter plus tard.

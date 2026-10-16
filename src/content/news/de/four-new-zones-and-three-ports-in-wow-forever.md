@@ -13,13 +13,13 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever bekommt zum Launch vier neue Zonen: Mount Hyjal, Shen'Dralas, Riverglades und Zephras Isle. Das schreibt Wowhead auf Basis der Panels auf der BlizzCon. Dazu kommen drei Häfen und über 1.000 neue Quests.
+World of Warcraft: Forever bekommt zum Launch vier neue Zonen: Mount Hyjal, Shen'Dralas, Riverglades und Zephras Isle. Das geht aus den Panels auf der BlizzCon hervor. Dazu kommen drei Häfen und über 1.000 neue Quests.
 
 ## Die vier neuen Zonen
 
 Mount Hyjal ist die Endgame-Zone und beherbergt die ersten Raids für 20 und 10 Spieler, Hyjal Summit und die Barrow Deeps. Forever spielt nach Warcraft III, also liegt Archimondes Skelett noch bei Nordrassil.
 
-Shen'Dralas liegt zwischen Mulgore und Desolace. Die Zone führt die Geschichte der Shen'dralar weiter und die der Zentaurenstämme von Desolace, schreibt Wowhead. Rund um die Dungeons Razorfen Downs und Maraudon kommen Quests dazu.
+Shen'Dralas liegt zwischen Mulgore und Desolace. Die Zone führt die Geschichte der Shen'dralar weiter und die der Zentaurenstämme von Desolace. Rund um die Dungeons Razorfen Downs und Maraudon kommen Quests dazu.
 
 Riverglades füllt die Lücke zwischen Mitte dreißig und Anfang vierzig. Spieler erreichen sie von Steamwheedle Port aus oder über einen neuen Weg von Redridge in die Burning Steppes. Dort leben Ogres und der Twilight's Hammer, und der neue Dungeon Krol'dok Stronghold liegt in der Zone.
 
@@ -35,7 +35,7 @@ Southshore bekommt endlich eine Aufgabe für seinen Steg und wird zur Zwischenst
 
 ## Was sich in den Startzonen ändert
 
-Jede Startzone bekommt neue NPCs, Quests und Erlebnisse gegenüber WoW Classic, sagt Lead Content Designer Evan Lee laut Wowhead. Der Inhalt, den Spieler kennen, bleibt daneben bestehen. Desolace und die Wetlands bekommen große Questpakete, damit sie weniger leer wirken.
+Jede Startzone bekommt neue NPCs, Quests und Erlebnisse gegenüber WoW Classic, sagt Lead Content Designer Evan Lee. Der Inhalt, den Spieler kennen, bleibt daneben bestehen. Desolace und die Wetlands bekommen große Questpakete, damit sie weniger leer wirken.
 
 ## Wann die Geschichte spielt
 

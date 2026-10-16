@@ -27,7 +27,7 @@ Mechanical Chicken is a companion pet from Classic that returns in World of Warc
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10398"><img class="wf-wh__icon" src="/wh/inv_pet_mechanicalchicken.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mechanical Chicken</a> |
 | Source | Quest: <a href="https://www.wowhead.com/forever/quest=3721">An OOX of Your Own</a> |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -37,7 +37,7 @@ It is the reward of the quest <a href="https://www.wowhead.com/forever/quest=372
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags. Summoning it is instant instead of a 1 second cast, with a cooldown of 1.5 seconds.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

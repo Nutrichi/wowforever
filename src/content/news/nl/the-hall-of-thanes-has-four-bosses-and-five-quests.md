@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-The Hall of Thanes is de eerste nieuwe dungeon die de meeste spelers van de Alliance tegenkomen in World of Warcraft: Forever. Hij ligt in Old Ironforge, voor level 13 tot 18. Wowhead heeft een walkthrough van zijn vier bazen en vijf quests gepubliceerd.
+The Hall of Thanes is de eerste nieuwe dungeon die de meeste spelers van de Alliance tegenkomen in World of Warcraft: Forever. Hij ligt in Old Ironforge, voor level 13 tot 18. Hier zijn zijn vier bazen en vijf quests.
 
 <figure class="wf-embed" data-wf-video="c5PJmoBKcKc">
   <button type="button" class="wf-embed__play">
@@ -25,17 +25,17 @@ The Hall of Thanes is de eerste nieuwe dungeon die de meeste spelers van de Alli
   </button>
 </figure>
 
-De walkthrough komt van Jurdi, die voor Wowhead over Paladins schrijft en de dungeon in de beta tankte. De eerste zeven minuten van zijn video leggen de dungeon uit, de rest is een volledige run. De eindbaas is level 16, dus een groep die op level 13 binnengaat, heeft het zwaar.
+De walkthrough komt van Jurdi, een Paladin-kenner die de dungeon in de beta tankte. De eerste zeven minuten van zijn video leggen de dungeon uit, de rest is een volledige run. De eindbaas is level 16, dus een groep die op level 13 binnengaat, heeft het zwaar.
 
 ## Waar hij ligt
 
-De deur naar Old Ironforge zit links, net binnen de High Seat, schrijft Wowhead. Een pad leidt naar beneden tot het portaal. De Hall is de rustplaats van de grote Dwarves van de Eastern Kingdoms, en de Dark Iron Dwarves zijn er met hun graafmachines binnengebroken.
+De deur naar Old Ironforge zit links, net binnen de High Seat. Een pad leidt naar beneden tot het portaal. De Hall is de rustplaats van de grote Dwarves van de Eastern Kingdoms, en de Dark Iron Dwarves zijn er met hun graafmachines binnengebroken.
 
 De dungeon is de [tegenhanger van Ragefire Chasm voor de Alliance](/nl/news/one-faction-per-player-on-pvp-rulesets/). De Horde kan erin, maar heeft een lange weg: van Tarren Mill door de Arathi Highlands, de Wetlands en Loch Modan naar Dun Morogh, en dan langs de wachters van Ironforge. Een snellere route is niet gevonden. Na een wipe staat de Spirit Healer dichtbij, net buiten de stad.
 
 ## Vijf quests
 
-Twee quests beginnen net buiten de dungeon, twee erbinnen, en de vijfde start in Dun Morogh. Elk geeft tussen 3.900 en 4.900 ervaring, schrijft Wowhead. Monsters binnen geven heel weinig: Jurdi zag 28 tot 30 ervaring per kill.
+Twee quests beginnen net buiten de dungeon, twee erbinnen, en de vijfde start in Dun Morogh. Elk geeft tussen 3.900 en 4.900 ervaring. Monsters binnen geven heel weinig: Jurdi zag 28 tot 30 ervaring per kill.
 
 - **Important Heirlooms**, van Thom Filch in Old Ironforge: verzamel 8 Dwarven Heirlooms. Ze duiken op na de eerste baas, en de kluizen in de laatste zaal, de Reliquary of Kings, bevatten genoeg voor een volle groep.
 - **The Restless Dead**, van Afadra Dunwall in Old Ironforge: ruim de geesten op in het eerste deel van de dungeon.
@@ -54,7 +54,7 @@ Elke quest stap voor stap, met de coördinaten van de reeks in Dun Morogh, staat
 | Dwarven Tome | Off-hand | Important Heirlooms |
 | Catacomb Cloak | Mantel | An Ancient Grudge |
 
-Wie de quests mag doen, is niet duidelijk. Het nieuwsartikel van Wowhead noemt alle vijf alleen voor de Alliance. De dungeongids op dezelfde site maakt een uitzondering voor Important Heirlooms en An Ancient Grudge.
+Wie de quests mag doen, is niet duidelijk. Een bron noemt alle vijf alleen voor de Alliance. Een andere maakt een uitzondering voor Important Heirlooms en An Ancient Grudge.
 
 ## Vier bazen
 
@@ -68,7 +68,7 @@ Wie de quests mag doen, is niet duidelijk. Het nieuwsartikel van Wowhead noemt a
 
 ## De trash slaat hard
 
-Het eerste deel van de dungeon is makkelijk, schrijft Wowhead. De kant van de Dark Irons niet. Looters vallen snel aan met daggers, Engineers gooien bommen naar een plek die te ontwijken is, en Summoners casten Fireball en roepen een Fiery Assistant op. Trek de Summoners rond een pilaar, uit het zicht, zodat ze dichterbij moeten komen.
+Het eerste deel van de dungeon is makkelijk. De kant van de Dark Irons niet. Looters vallen snel aan met daggers, Engineers gooien bommen naar een plek die te ontwijken is, en Summoners casten Fireball en roepen een Fiery Assistant op. Trek de Summoners rond een pilaar, uit het zicht, zodat ze dichterbij moeten komen.
 
 De Lesser Stone Golems slaan het hardst en bewegen snel. De laatste groep voor de eindbaas bestaat uit een Summoner, een Looter en een Golem samen. Crowd control zoals Polymorph helpt, en stuns zoals Hammer of Justice ook. Healers trekken op deze levels veel threat, zegt Jurdi.
 

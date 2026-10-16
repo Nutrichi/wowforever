@@ -10,7 +10,7 @@ faq:
   - q: "Combien de mascottes compte WoW Forever ?"
     a: "Les fichiers de la bêta contiennent 90 mascottes de compagnie : 32 nouvelles et 58 de Classic."
   - q: "Les mascottes valent-elles pour tout le compte dans WoW Forever ?"
-    a: "La base de données de Wowhead indique que chaque mascotte vaut pour tout le compte, et l'objet apprend la mascotte au lieu de l'invoquer depuis les sacs. Blizzard n'a pas confirmé la partie sur le compte."
+    a: "Les données du jeu indiquent que chaque mascotte vaut pour tout le compte, et l'objet apprend la mascotte au lieu de l'invoquer depuis les sacs. Blizzard n'a pas confirmé la partie sur le compte."
   - q: "Quelles mascottes sont nouvelles dans WoW Forever ?"
     a: "Entre autres l'Excitable Slime d'Undercity, le Baby Crocolisk des canaux de Stormwind, le Musical Gustjumper de Zephras Isle et le Spectral Bear Cub, une récompense Legacy au niveau 25."
 sources:
@@ -123,4 +123,4 @@ La liste vient de la base de données de la bêta. Pour les mascottes marquées 
 | [Wood Frog](/fr/guides/pets/wood-frog/ "wh:item=11027:q1:inv_crate_02") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a>, 1 po 5 pa 26 pc | Elwynn Forest et Mulgore |
 | [Zergling](/fr/guides/pets/zergling/ "wh:item=281167:q3:inv_zerglingpet_c60") | Édition: Skyborne Epic Pack, Warcraft Forever Collection |  |
 
-Trois objets que Wowhead classe parmi les compagnons sont exclus : Scroll of Rat Familiar, Scroll of Frog Familiar et Scroll of Cat Familiar. Ce sont des consommables de Mage qui augmentent l'Intellect pendant une heure, pas des mascottes à collectionner.
+Trois objets que les données du jeu classent parmi les compagnons sont exclus : Scroll of Rat Familiar, Scroll of Frog Familiar et Scroll of Cat Familiar. Ce sont des consommables de Mage qui augmentent l'Intellect pendant une heure, pas des mascottes à collectionner.

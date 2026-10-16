@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-Der neue Beta-Build von WoW Forever passt alle neun Klassen an. Wowhead fand die Änderungen am 24. September in den Dateien des Builds, und Blizzard bestätigte die meisten noch in derselben Nacht in seinen [Entwicklungsnotizen](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt und Holy Strike bekommen die größten Buffs.
+Der neue Beta-Build von WoW Forever passt alle neun Klassen an. Die Änderungen tauchten am 24. September in den Dateien des Builds auf, und Blizzard bestätigte die meisten noch in derselben Nacht in seinen [Entwicklungsnotizen](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt und Holy Strike bekommen die größten Buffs.
 
-Hier die Kurzfassung pro Klasse. Was nur Wowhead in den Dateien sah und Blizzard nicht erwähnt, steht so dabei. Der Rest des Builds, vom Respec für 1 Silver bis zum Cooldown Manager, steht im [Artikel über den neuen Build](/de/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
+Hier die Kurzfassung pro Klasse. Was nur in den Dateien steht und Blizzard nicht erwähnt, steht so dabei. Der Rest des Builds, vom Respec für 1 Silver bis zum Cooldown Manager, steht im [Artikel über den neuen Build](/de/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
 
 ## Druid
 
@@ -41,7 +41,7 @@ Der Paladin bekommt die meisten Änderungen.
 - **Holy Strike** trifft auf jedem Rang härter: 25, 29, 32, 36, 39, 43, 46 und 50 % Waffenschaden (vorher 25, 25, 30, 30, 35, 35, 40 und 40 %). Frühe Ränge fühlten sich nicht immer wie eine Verbesserung an, so Blizzard.
 - **Holy:** Der Cooldown von Holy Strike sinkt auf 10 Sekunden (vorher 12). Das Talent Improved Holy Strike fällt weg, weil sein Effekt jetzt fest eingebaut ist. Holy Power gibt Holy Strike außerdem 15 % mehr kritische Trefferchance.
 - **Retribution** verliert etwas Burst. Vengeance löst nur noch bei nicht periodischen kritischen Treffern aus und stapelt bis 3 (vorher 5). Two-Handed Weapon Specialization gibt 2, 4 und 6 % (vorher 3, 6 und 9 %). Dafür erhöht Sacred Arbiter den Schaden von Holy Strike um 20 % (vorher 10 %), und Twist of Light macht Seals zusätzlich 20 % günstiger.
-- Righteous Fury erhöht die Holy-Bedrohung um 60 % (vorher 90 %). Wowhead sieht außerdem, dass Crusade aus dem Talentbaum verschwindet; Blizzard erwähnt das nicht.
+- Righteous Fury erhöht die Holy-Bedrohung um 60 % (vorher 90 %). Die Dateien nehmen außerdem Crusade aus dem Talentbaum; Blizzard erwähnt das nicht.
 
 ## Priest
 
@@ -50,11 +50,11 @@ Der Paladin bekommt die meisten Änderungen.
 
 ## Rogue
 
-- Sap markiert den Rogue jetzt für PvP, wenn das Ziel markiert ist. Wowhead sieht außerdem einen geänderten Wert bei Improved Expose Armor, den der Tooltip nicht zeigt; was er bewirkt, ist nicht bekannt.
+- Sap markiert den Rogue jetzt für PvP, wenn das Ziel markiert ist. Die Dateien ändern außerdem einen Wert bei Improved Expose Armor, den der Tooltip nicht zeigt; was er bewirkt, ist nicht bekannt.
 
 ## Shaman
 
-- **Lightning Bolt** Rang 3 und 4 verursachen mehr Schaden, damit trotz geänderter Zauberzeiten jeder Rang eine Verbesserung ist. Die höchsten Ränge verlieren ein bis zwei Punkte, laut Wowhead.
+- **Lightning Bolt** Rang 3 und 4 verursachen mehr Schaden, damit trotz geänderter Zauberzeiten jeder Rang eine Verbesserung ist. Die höchsten Ränge verlieren ein bis zwei Punkte.
 - **Lava Burst** Rang 1 und 2 verursachen etwa 10 % mehr Grundschaden als der Lightning Bolt derselben Stufe.
 - **Elemental:** Elemental Fury und Elemental Alacrity tauschen die Plätze, von Reihe 3 nach Reihe 6 und umgekehrt. Blizzard will, dass Elemental ein wichtiges Talent früher erreicht.
 - **Enhancement:** Rage of the Far Seer erhöht das Zaubertempo nicht mehr.
@@ -64,7 +64,7 @@ Der Paladin bekommt die meisten Änderungen.
 ## Warlock
 
 - Das Sacrifice des Voidwalkers skaliert mit 10 % der Zauberheilung. Der Tooltip von Life Tap zeigt jetzt die richtigen Zahlen.
-- Laut Wowhead kann Health Funnel nicht mehr kritisch treffen, und ein Firestone verschwindet nach 15 Minuten ausgeloggt.
+- In den Dateien kann Health Funnel nicht mehr kritisch treffen, und ein Firestone verschwindet nach 15 Minuten ausgeloggt.
 
 ## Warrior
 

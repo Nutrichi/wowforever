@@ -17,9 +17,9 @@ WoW Forever adds five flight points: Farholde Keep, Powderfuse Port and Rog'mar 
 
 ## Where the routes come from
 
-Blizzard has not published a list of flight paths for Forever. The routes on this page come from the files of the latest beta build, 1.60.1.70009, as wago.tools publishes them. They are set against the same files of Classic Era, build 1.15.9.69722. The names of the new flight masters come from [the world map of Wowhead](https://www.wowhead.com/forever/world-map).
+Blizzard has not published a list of flight paths for Forever. The routes on this page come from the files of the latest beta build, 1.60.1.70009. They are set against the same files of Classic Era, build 1.15.9.69722. The names of the new flight masters come from [an online world map of Forever](https://www.wowhead.com/forever/world-map).
 
-The map draws each route as a line between two places, not as the flight itself runs in the game. That keeps it readable. The base is the world map from the Forever client, which already shows The Riverglades east of Redridge Mountains. The boats and zeppelins come from the same world map of Wowhead.
+The map draws each route as a line between two places, not as the flight itself runs in the game. That keeps it readable. The base is the world map from the Forever client, which already shows The Riverglades east of Redridge Mountains. The boats and zeppelins come from the same world map.
 
 A blue line is an Alliance route, a red line a Horde route. A dashed line is a boat or a zeppelin, and a white dashed line is open to both factions. A line with a gold border and the word NEW is new in Forever. A shield is a flight master, a round mark a dock or zeppelin tower without one. A shield in blue and red serves both factions, and a gold rim marks a new place.
 
@@ -72,7 +72,7 @@ Every flight point with its flight master, coordinates and routes is in the [fli
 
 ## What is not certain
 
-- **Powderfuse Port has one route**, to Farholde Keep. The flight point carries no faction in the files, but its only route leads to an Alliance keep and its mount is a gryphon. A route for the Horde does not exist in this build. Wowhead does not show a flight master there yet.
+- **Powderfuse Port has one route**, to Farholde Keep. The flight point carries no faction in the files, but its only route leads to an Alliance keep and its mount is a gryphon. A route for the Horde does not exist in this build. No flight master is known there yet.
 - **A sixth new flight point waits**: Tidegear Coast in Dun Morogh stands in the files, without a single route. What it is for is not known.
 - **The routes can still change** before launch on 4 November. Build 1.60.1.70009 is a beta, and the files still hold older versions of the Riverglades flight points that are not in use.
 - **Zephras Isle has no fixed place** on the world map in the files. The map puts Valanaar, where the new zeppelins from Dalaran and Skywatcher Plateau land, on the group of islands north of the Maelstrom.

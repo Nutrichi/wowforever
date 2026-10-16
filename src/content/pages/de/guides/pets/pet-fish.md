@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Pet Fish in WoW Forever?"
-    a: "Es fällt von Dreamwater Vicejaw in The Hinterlands. In den Beutedaten von Wowhead fällt es bei etwa 0,1 % der Kills."
+    a: "Es fällt von Dreamwater Vicejaw in The Hinterlands. In den Beutedaten fällt es bei etwa 0,1 % der Kills."
   - q: "Ist Pet Fish neu in WoW Forever?"
     a: "Nein. Pet Fish gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -30,17 +30,17 @@ Pet Fish ist ein Haustier aus Classic, das in World of Warcraft: Forever zurück
 | Wo | The Hinterlands |
 | Dropchance | 0,1 % |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
-Es fällt von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> in The Hinterlands. In den Beutedaten von Wowhead fällt es bei etwa 0,1 % der Kills.
+Es fällt von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> in The Hinterlands. In den Beutedaten fällt es bei etwa 0,1 % der Kills.
 
 ## Was sich seit Classic geändert hat
 
 Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen.
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

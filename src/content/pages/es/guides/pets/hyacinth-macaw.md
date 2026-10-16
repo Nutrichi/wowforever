@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Hyacinth Macaw en WoW Forever?"
-    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín de Wowhead: Bloodsail Sea Dog en Stranglethorn Vale, cerca del 0,7% Bloodsail Swashbuckler en Stranglethorn Vale, cerca del 0,1% Bloodsail Warlock en Stranglethorn Vale, cerca del 0,1%"
+    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín: Bloodsail Sea Dog en Stranglethorn Vale, cerca del 0,7% Bloodsail Swashbuckler en Stranglethorn Vale, cerca del 0,1% Bloodsail Warlock en Stranglethorn Vale, cerca del 0,1%"
   - q: "¿Es Hyacinth Macaw nueva en WoW Forever?"
     a: "No. Hyacinth Macaw ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Hyacinth Macaw es una mascota de compañía de Classic que vuelve en World of Wa
 | Dónde | Stranglethorn Vale |
 | Probabilidad | 0,7% |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín de Wowhead:
+La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1565">Bloodsail Sea Dog</a> en Stranglethorn Vale, cerca del 0,7%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1563">Bloodsail Swashbuckler</a> en Stranglethorn Vale, cerca del 0,1%
@@ -44,7 +44,7 @@ La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de 
 
 Ahora el objeto enseña la mascota: se convierte en un hechizo y ya no ocupa sitio en las bolsas. Invocarla es instantáneo en lugar de un lanzamiento de 1 segundo, con un tiempo de reutilización de 1,5 segundos.
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas en Stranglethorn Vale
 

@@ -1,6 +1,6 @@
 ---
 title: "Spearing Strike ne démonte plus, selon les données"
-description: "Wowhead a comparé les sorts de la build de WoW Forever du 1er octobre avec la précédente. Les données confirment les notes de classe et montrent quelques changements que Blizzard n’a pas cités, pour les Warriors et les Druids Feral."
+description: "Les sorts de la build de WoW Forever du 1er octobre, comparés à la précédente. Les données confirment les notes de classe et montrent quelques changements que Blizzard n’a pas cités, pour les Warriors et les Druids Feral."
 date: 2026-10-02T12:20:00+02:00
 category: forever
 lang: fr
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> ne fait plus descendre sa cible de sa monture, selon les fichiers de la nouvelle build de World of Warcraft: Forever. Wowhead a comparé chaque sort avec la build précédente. La plupart des changements correspondent aux notes de classe du 1er octobre, mais quelques-uns n’y figurent pas.
+<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> ne fait plus descendre sa cible de sa monture, selon les fichiers de la nouvelle build de World of Warcraft: Forever. Chaque sort a été comparé avec la build précédente. La plupart des changements correspondent aux notes de classe du 1er octobre, mais quelques-uns n’y figurent pas.
 
 Blizzard n’a pas confirmé les changements ci-dessous qui ne sont pas dans ses notes. Les infobulles issues du datamining peuvent aussi encore changer avant d’arriver en jeu.
 

@@ -15,7 +15,7 @@ manual: true
 ---
 Ein Spieler hat in der Beta von WoW Forever einen Gegenstand gefunden, der nur zum Tragen da ist. Die Stolen Wastewander Cowl steht beim Rufhändler von Gadgetzan, kostet 10 Gold bei Respektvoll und trägt keine Werte. Es ist der erste rein kosmetische Gegenstand, der in Forever auftaucht.
 
-Ein Spieler namens Gloky schickte den Screenshot an Wowhead, das den Fund meldete. Der Tooltip sagt, der Gegenstand sei Cosmetic, binde beim Aufheben und füge sein Aussehen der Sammlung des Accounts hinzu.
+Ein Spieler namens Gloky teilte den Screenshot. Der Tooltip sagt, der Gegenstand sei Cosmetic, binde beim Aufheben und füge sein Aussehen der Sammlung des Accounts hinzu.
 
 ## Warum es so einen Gegenstand gibt
 

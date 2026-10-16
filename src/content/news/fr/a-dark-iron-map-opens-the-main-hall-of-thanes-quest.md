@@ -30,10 +30,10 @@ Cette quête demande la tête de Durgen Dirgehammer, le boss final. Elle revient
 - **An Ancient Grudge**, d'un Ghostly Attendant dans la deuxième salle : apaiser l'esprit de Faldrim Anvilmar, le premier boss.
 - **The Treaty of Understanding**, d'une tablette derrière une porte de coffre dans la salle du boss final. Elle demande seulement d'apporter le traité à Magni Bronzebeard.
 
-Chaque quête rapporte entre 3 900 et 4 900 points d'expérience, selon Wowhead. Wowhead en place trois au niveau 15 et Old Ironforge Incursion au niveau 16.
+Chaque quête rapporte entre 3 900 et 4 900 points d'expérience. Trois sont au niveau 15 et Old Ironforge Incursion au niveau 16.
 
 ![La tablette de The Treaty of Understanding dans un coffre du Reliquary of Kings, avec la fenêtre de quête ouverte](../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg)
 
 Chaque étape, avec les coordonnées, les récompenses et sept captures d'écran, se trouve dans le [guide des quêtes du Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/). Le fonctionnement des quatre boss est dans [le guide du donjon](/fr/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
 
-On ne sait toujours pas si la Horde peut prendre ces quêtes. Wowhead se contredit sur ce point entre son article d'actualité et son guide du donjon.
+On ne sait toujours pas si la Horde peut prendre ces quêtes. Les sources se contredisent sur ce point.

@@ -1,6 +1,6 @@
 ---
 title: "Recipes can be tracked like a quest"
-description: "Professions in WoW Forever get a Track Recipe checkbox, a chat link for the whole profession book and new filters. Wowhead showed all three in the beta."
+description: "Professions in WoW Forever get a Track Recipe checkbox, a chat link for the whole profession book and new filters. All three are in the beta."
 date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: en
@@ -12,7 +12,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Professions in WoW Forever get three conveniences. A recipe can be tracked like a quest, a whole profession book can be linked in chat, and new filters sort the recipes. Wowhead showed all three from the beta.
+Professions in WoW Forever get three conveniences. A recipe can be tracked like a quest, a whole profession book can be linked in chat, and new filters sort the recipes. All three are already in the beta.
 
 ## Tracking a recipe
 
@@ -20,7 +20,7 @@ The profession window has a new checkbox, Track Recipe, at the bottom near Creat
 
 ![The Alchemy window with Elixir of Minor Force selected and the Track Recipe checkbox at the bottom](../../../assets/posts/2026-09-25-wow-forever-alchemy-track-recipe.png)
 
-Ticking it puts the reagents on the right of the screen, under the quests, in the same list as the objectives. That helps when buying materials at the Auction House or farming them in the world, writes Wowhead.
+Ticking it puts the reagents on the right of the screen, under the quests, in the same list as the objectives. That helps when buying materials at the Auction House or farming them in the world.
 
 ![The objective tracker with a quest and, under Profession, Elixir of Minor Defense with its three reagents](../../../assets/posts/2026-09-25-wow-forever-tracked-reagents.jpg)
 

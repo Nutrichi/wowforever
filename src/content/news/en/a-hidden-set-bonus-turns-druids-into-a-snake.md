@@ -18,7 +18,7 @@ The set drops in Wailing Caverns, five pieces in total, each from a different cr
 
 ## Who found it
 
-The player Noah posted the discovery, writes Wowhead.
+The player Noah posted the discovery.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2101253855983910975">
   <button type="button" class="wf-embed__play">
@@ -30,7 +30,7 @@ The player Noah posted the discovery, writes Wowhead.
   </button>
 </figure>
 
-Zirene, Senior Game Designer at Blizzard, added that the snake colour changes for every Druid race and that the form carries its own stealth animation for Prowl and Stealth, writes Wowhead.
+Zirene, Senior Game Designer at Blizzard, added that the snake colour changes for every Druid race and that the form carries its own stealth animation for Prowl and Stealth.
 
 ## Why this is more than a joke
 

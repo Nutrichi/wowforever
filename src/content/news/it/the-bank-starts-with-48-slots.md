@@ -13,19 +13,19 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-La banca di World of Warcraft: Forever apre grande il doppio. La banca predefinita conta 48 caselle invece di 24, e il numero di bag slot passa da 6 a 8. Wowhead ha trovato la modifica nella beta il 21 settembre.
+La banca di World of Warcraft: Forever apre grande il doppio. La banca predefinita conta 48 caselle invece di 24, e il numero di bag slot passa da 6 a 8. La modifica è comparsa nella beta il 21 settembre.
 
 ![La finestra della banca nella beta, sei file da otto caselle con otto bag slot bloccati sotto](../../../assets/posts/2026-09-21-wow-forever-bank-48-slots.jpg)
 
 ## Perché la banca doveva crescere
 
-Forever tiene ogni personaggio al level 60 e mette la progressione di lato invece che verso l'alto, scrive Wowhead. Uno dei modi in cui il team tiene occupati i giocatori sono effetti sull'equipaggiamento che scattano solo in un contesto preciso: in una zona, in un biome, o contro un tipo di mob.
+Forever tiene ogni personaggio al level 60 e mette la progressione di lato invece che verso l'alto. Uno dei modi in cui il team tiene occupati i giocatori sono effetti sull'equipaggiamento che scattano solo in un contesto preciso: in una zona, in un biome, o contro un tipo di mob.
 
 Così l'equipaggiamento diventa una collezione. Chi sale attraverso Elwynn Forest vorrà lì magari un bonus alla velocità di movimento, e contro il raid di Onyxia a 40 giocatori un set con un bonus contro i Dragons. Tutto questo deve andare da qualche parte.
 
 ## Che cosa porta
 
-Quarantotto caselle in partenza sono una buona dose di spazio in più per ore, herbs, equipaggiamento e tutto il resto che vale la pena tenere mentre si sale, scrive Wowhead.
+Quarantotto caselle in partenza sono una buona dose di spazio in più per ore, herbs, equipaggiamento e tutto il resto che vale la pena tenere mentre si sale.
 
 Blizzard conta di alzare ancora lo spazio predefinito della banca più avanti, ha detto lo studio a MMORPG, ma non prima che i giocatori arrivino al punto in cui serve. Quando arriva quel punto, Blizzard non lo dice.
 

@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Crimson Whelpling dans WoW Forever ?"
-    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin de Wowhead : Flamesnorting Whelp à Wetlands, environ 0,5 % Crimson Whelp à Wetlands, environ 0,3 % Red Whelp à Wetlands, environ 0,2 %"
+    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin : Flamesnorting Whelp à Wetlands, environ 0,5 % Crimson Whelp à Wetlands, environ 0,3 % Red Whelp à Wetlands, environ 0,2 %"
   - q: "Crimson Whelpling est-elle nouvelle dans WoW Forever ?"
     a: "Non. Crimson Whelpling existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Crimson Whelpling est une mascotte de compagnie de Classic qui revient dans Worl
 | Où | Wetlands |
 | Taux de butin | 0,5 % |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
-Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin de Wowhead :
+Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin :
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> à Wetlands, environ 0,5 %
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1069">Crimson Whelp</a> à Wetlands, environ 0,3 %
@@ -44,7 +44,7 @@ Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les d
 
 L'objet apprend désormais la mascotte : elle devient un sort et ne prend plus de place dans les sacs. L'invocation est instantanée au lieu d'une incantation d'une seconde, avec un temps de recharge de 1,5 seconde.
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

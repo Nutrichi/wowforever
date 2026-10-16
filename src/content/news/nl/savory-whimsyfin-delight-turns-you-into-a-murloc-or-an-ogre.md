@@ -19,7 +19,7 @@ WoW Forever heeft een nieuw Cooking-recept dat wie het eet van gedaante doet ver
 
 ## Hoe het werkt
 
-<a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> is de Forever-versie van <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, het gerecht uit Classic dat van je een ninja of een piraat maakt. Het oude gerecht blijft in het spel, schrijft Wowhead, dus ook die twee kostuums blijven.
+<a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> is de Forever-versie van <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, het gerecht uit Classic dat van je een ninja of een piraat maakt. Het oude gerecht blijft in het spel, dus ook die twee kostuums blijven.
 
 De nieuwe gedaante hangt af van het Body Type dat je bij het maken van je personage koos. Body Type 1 wordt een Murloc, Body Type 2 een grote Ogre. De gedaante duurt 60 minuten, of tot het personage sterft.
 
@@ -29,7 +29,7 @@ De nieuwe gedaante hangt af van het Body Type dat je bij het maken van je person
 
 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251526"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Savory Whimsyfin Delight</a> vraagt Cooking 85 en valt bij willekeurige monsters, zoals de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=547">Great Goretusk</a> in <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/zone=44">Redridge Mountains</a>. Het gerecht zelf vraagt een <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251524"><img class="wf-wh__icon" src="/wh/inv_misc_fish_68.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whimsyfin</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2678"><img class="wf-wh__icon" src="/wh/inv_misc_food_wheat_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mild Spices</a>, volgens het recept in de beta.
 
-Murlocs en Ogres waren twee van de rassen waar spelers voor Forever het meest om vroegen, schrijft Wowhead. Speelbaar is geen van beide.
+Murlocs en Ogres waren twee van de rassen waar spelers voor Forever het meest om vroegen. Speelbaar is geen van beide.
 
 ![Twee ninja's en twee piraten naast een Molten Giant, de kostuums van Savory Deviate Delight in de originele World of Warcraft](../../../assets/posts/2026-09-29-classic-ninja-and-pirate-costumes.jpg)
 

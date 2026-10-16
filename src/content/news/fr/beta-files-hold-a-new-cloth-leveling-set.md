@@ -1,6 +1,6 @@
 ---
 title: "La bêta cache un nouveau set de leveling en tissu"
-description: "Rotmender's Raiment compte cinq pièces en tissu pour les niveaux 17 à 19, avec un bonus pour la menace, le Mana et les soins. Wowhead l'a trouvé dans les fichiers du dernier build de la bêta ; Blizzard ne l'a pas confirmé."
+description: "Rotmender's Raiment compte cinq pièces en tissu pour les niveaux 17 à 19, avec un bonus pour la menace, le Mana et les soins. Il se trouve dans les fichiers du dernier build de la bêta ; Blizzard ne l'a pas confirmé."
 date: 2026-09-25T10:25:00+02:00
 category: forever
 lang: fr
@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-Les fichiers du dernier build de la bêta contiennent un nouveau set de leveling, Rotmender's Raiment. Il compte cinq pièces en tissu pour les personnages autour des niveaux 17 à 19, écrit Wowhead après un datamining. Blizzard n'a pas confirmé le set.
+Les fichiers du dernier build de la bêta contiennent un nouveau set de leveling, Rotmender's Raiment. Il compte cinq pièces en tissu pour les personnages autour des niveaux 17 à 19. Blizzard n'a pas confirmé le set.
 
-Wowhead le compare à Embrace of the Viper, le set de leveling de Wailing Caverns qui [transforme les Druids en serpent](/fr/news/a-hidden-set-bonus-turns-druids-into-a-snake/).
+Il rappelle Embrace of the Viper, le set de leveling de Wailing Caverns qui [transforme les Druids en serpent](/fr/news/a-hidden-set-bonus-turns-druids-into-a-snake/).
 
 ## Les bonus
 
@@ -34,8 +34,8 @@ Wowhead le compare à Embrace of the Viper, le set de leveling de Wailing Cavern
 | Rotmender's Leggings | Jambes | 22 | 17 | quand ramassé |
 | Rotmender's Treads | Pieds | 24 | 19 | quand ramassé |
 
-Deux pièces existaient déjà sous un autre nom. Les Rotmender's Leggings s'appelaient Wispcloth Leggings, et les Rotmender's Treads étaient les Frostbane Treads, écrit Wowhead. Les deux tombent en donjon, donc Wowhead s'attend à ce que les trois autres viennent aussi de donjons. Lesquels, l'article ne le dit pas.
+Deux pièces existaient déjà sous un autre nom. Les Rotmender's Leggings s'appelaient Wispcloth Leggings, et les Rotmender's Treads étaient les Frostbane Treads. Les deux tombent en donjon, donc les trois autres viennent sans doute aussi de donjons. Lesquels, on ne le sait pas.
 
 ## Encore susceptible de changer
 
-Forever gère le datamining et le chiffrement autrement que les autres versions de WoW, écrit Wowhead. Tout ce qui se trouve dans les fichiers peut encore changer avant la sortie le 4 novembre. Une partie de l'article relève de la spéculation à partir des données, ajoute Wowhead.
+Forever gère le datamining et le chiffrement autrement que les autres versions de WoW. Tout ce qui se trouve dans les fichiers peut encore changer avant la sortie le 4 novembre.

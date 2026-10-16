@@ -15,7 +15,7 @@ manual: true
 ---
 La bêta de World of Warcraft: Forever se coupe vers 20.00, heure belge, le 1er octobre. Blizzard installe la nouvelle build avec le niveau maximum de 30. La bêta devrait revenir tôt le matin du 2 octobre.
 
-Le community manager Kaivax l’a annoncé sur les forums européens à 19.13, heure belge, rapporte Wowhead :
+Le community manager Kaivax l’a annoncé sur les forums européens à 19.13, heure belge :
 
 > We think we'll take the Beta offline in about 45 minutes.
 >
@@ -25,6 +25,6 @@ La première annonce, sur les forums américains, parlait du matin, heure du Pac
 
 ## Ce que la build apporte
 
-La build fait passer [le niveau maximum de 20 à 30](/fr/news/the-beta-level-cap-rises-from-20-to-30/). Elle ouvre aussi l’Excavation Site, un nouveau donjon dans les Wetlands pour les niveaux 24 à 29, a annoncé Josh Greenfield selon Wowhead. Les notes de la build placent ensuite le donjon aux niveaux 26 à 31. Le [City of Dalaran](/fr/guides/dungeons/) n’est pas dans cette build et arrive dans une mise à jour ultérieure de la bêta.
+La build fait passer [le niveau maximum de 20 à 30](/fr/news/the-beta-level-cap-rises-from-20-to-30/). Elle ouvre aussi l’Excavation Site, un nouveau donjon dans les Wetlands pour les niveaux 24 à 29, a annoncé Josh Greenfield. Les notes de la build placent ensuite le donjon aux niveaux 26 à 31. Le [City of Dalaran](/fr/guides/dungeons/) n’est pas dans cette build et arrive dans une mise à jour ultérieure de la bêta.
 
-Un nouveau battleground devient aussi jouable cette semaine, écrit Wowhead. On ne sait pas encore lequel. Blizzard n’a pas encore publié les notes de développement de la build.
+Un nouveau battleground devient aussi jouable cette semaine. On ne sait pas encore lequel. Blizzard n’a pas encore publié les notes de développement de la build.

@@ -13,11 +13,11 @@ featured: false
 draft: false
 manual: true
 ---
-I mestieri di World of Warcraft: Forever restano il sistema che i giocatori di WoW Classic conoscono. Materiali fissi, statistiche fisse sugli oggetti creati, nessuna revisione come quella di Dragonflight. Le novità sono oltre 600 ricette, gli accampamenti e i Legacy Points, scrive Wowhead.
+I mestieri di World of Warcraft: Forever restano il sistema che i giocatori di WoW Classic conoscono. Materiali fissi, statistiche fisse sugli oggetti creati, nessuna revisione come quella di Dragonflight. Le novità sono oltre 600 ricette, gli accampamenti e i Legacy Points.
 
 ## Il camping trasforma un falò in una tappa
 
-I giocatori possono accendere un falò quasi ovunque nel mondo aperto, e questo crea un accampamento. Lì chiunque può riposare e usare venditori, riparazioni, banchi da lavoro per le tradeskills e buff, scrive Wowhead.
+I giocatori possono accendere un falò quasi ovunque nel mondo aperto, e questo crea un accampamento. Lì chiunque può riposare e usare venditori, riparazioni, banchi da lavoro per le tradeskills e buff.
 
 Ogni giocatore può posare un oggetto dei propri mestieri, che dà un buff a tutti i presenti. Quei buff sono gli stessi di noti buff di classe e non si sommano. Una Incense Candle di un Herbalist aumenta l'Intellect, ma non si combina con l'Arcane Intellect di un Mage.
 
@@ -29,7 +29,7 @@ Forever aggiunge più di 600 ricette, distribuite su tutti i mestieri e tutte le
 
 ## I mestieri alimentano il sistema Legacy
 
-Salire una tradeskill produce Legacy Points. La prima volta che una tradeskill raggiunge 150, 225 e 300 arriva un punto, scrive Wowhead. Quei punti vanno negli alberi Legacy, e uno dei tre alberi è Professions.
+Salire una tradeskill produce Legacy Points. La prima volta che una tradeskill raggiunge 150, 225 e 300 arriva un punto. Quei punti vanno negli alberi Legacy, e uno dei tre alberi è Professions.
 
 I perk di quell'albero aumentano la probabilità di ottenere un punto abilità e la quantità di Scarce materials da Mining, Herbalism e Skinning. Un perk cita le supply crates per l'Azeroth Commerce Authority e Durotar Supply and Logistics, due fazioni note da Season of Discovery. L'albero completo si trova nel nostro calcolatore Legacy.
 

@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-La beta di World of Warcraft: Forever è partita il 17 settembre con disconnessioni, code lunghe e ritardo a ogni loot. Il Senior Game Producer Tom Ellis ha scritto su X un lungo messaggio su cosa è andato storto, riassunto da Wowhead. È uno sguardo raro sulla macchina dietro una beta.
+La beta di World of Warcraft: Forever è partita il 17 settembre con disconnessioni, code lunghe e ritardo a ogni loot. Il Senior Game Producer Tom Ellis ha scritto su X un lungo messaggio su cosa è andato storto. È uno sguardo raro sulla macchina dietro una beta.
 
 ## L'ambiente è un banco di prova
 

@@ -15,7 +15,7 @@ manual: true
 ---
 Rockslicer, une hache à deux mains des Deadmines, porte un nouvel effet dans WoW Forever. Elle ouvre les filons de Copper, Tin, Silver et Iron sans le tradeskill Mining, pour 30 charges. Ensuite, la hache reste dans vos sacs mais l’usage de minage disparaît.
 
-Wowhead a repéré le changement sur la bêta, où le butin de tout le jeu a reçu de nouvelles statistiques.
+Le changement est apparu sur la bêta, où le butin de tout le jeu a reçu de nouvelles statistiques.
 
 ## Ce qu’est la hache
 

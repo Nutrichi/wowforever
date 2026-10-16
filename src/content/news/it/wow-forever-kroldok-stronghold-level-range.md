@@ -27,4 +27,4 @@ Krol'dok Stronghold è un dungeon per i livelli dal 40 al 45 in World of Warcraf
 | Blackmaw Hold | 55-60 |
 | Shaper's Terrace | 58-60 |
 
-L'elenco riguarda i dungeon presenti al lancio, scrive Wowhead. Se dopo il lancio ne arrivano altri, Blizzard non lo dice.
+L'elenco riguarda i dungeon presenti al lancio. Se dopo il lancio ne arrivano altri, Blizzard non lo dice.

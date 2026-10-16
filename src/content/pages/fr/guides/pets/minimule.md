@@ -30,7 +30,7 @@ Minimule est une mascotte de compagnie nouvelle dans World of Warcraft: Forever.
 | Où | Redridge Mountains et The Barrens |
 | Prix | 1.500 Merchant's Favor |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
@@ -42,7 +42,7 @@ Merchant's Favor est la monnaie des deux factions de ravitaillement de WoW Forev
 
 ## Bon à savoir
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

@@ -9,7 +9,7 @@ faq:
   - q: "How many pets are in WoW Forever?"
     a: "90 companion pets are in the files of the beta: 32 new ones and 58 from Classic."
   - q: "Are pets account-wide in WoW Forever?"
-    a: "Wowhead's database marks every pet as account-wide, and the item teaches the pet instead of summoning it from your bags. Blizzard has not confirmed the account-wide part itself."
+    a: "The game data marks every pet as account-wide, and the item teaches the pet instead of summoning it from your bags. Blizzard has not confirmed the account-wide part itself."
   - q: "Which pets are new in WoW Forever?"
     a: "Among others the Excitable Slime from Undercity, the Baby Crocolisk from the canals of Stormwind, the Musical Gustjumper on Zephras Isle and the Spectral Bear Cub, a Legacy reward at level 25."
 sources:
@@ -122,4 +122,4 @@ The list comes from the database of the beta. For pets marked as not known yet, 
 | [Wood Frog](/guides/pets/wood-frog/ "wh:item=11027:q1:inv_crate_02") | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a>, 1 gold 5 silver 26 copper | Elwynn Forest and Mulgore |
 | [Zergling](/guides/pets/zergling/ "wh:item=281167:q3:inv_zerglingpet_c60") | Edition: Skyborne Epic Pack, Warcraft Forever Collection |  |
 
-Three items that Wowhead lists as companions are left out: the Scroll of Rat Familiar, Scroll of Frog Familiar and Scroll of Cat Familiar. Those are consumables for Mages that raise Intellect for an hour, not pets to collect.
+Three items that the game data lists as companions are left out: the Scroll of Rat Familiar, Scroll of Frog Familiar and Scroll of Cat Familiar. Those are consumables for Mages that raise Intellect for an hour, not pets to collect.

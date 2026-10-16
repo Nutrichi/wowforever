@@ -19,7 +19,7 @@ Il set cade nelle Wailing Caverns, cinque pezzi in tutto, ognuno da una creatura
 
 ## Chi l’ha trovato
 
-Il giocatore Noah ha pubblicato la scoperta, scrive Wowhead.
+Il giocatore Noah ha pubblicato la scoperta.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2101253855983910975">
   <button type="button" class="wf-embed__play">
@@ -31,7 +31,7 @@ Il giocatore Noah ha pubblicato la scoperta, scrive Wowhead.
   </button>
 </figure>
 
-Zirene, Senior Game Designer in Blizzard, ha aggiunto che il colore del serpente cambia per ogni razza di Druid e che la forma ha una sua animazione furtiva per Prowl e Stealth, scrive Wowhead.
+Zirene, Senior Game Designer in Blizzard, ha aggiunto che il colore del serpente cambia per ogni razza di Druid e che la forma ha una sua animazione furtiva per Prowl e Stealth.
 
 ## Perché non è solo una battuta
 

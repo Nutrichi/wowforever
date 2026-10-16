@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-De raids waarmee World of Warcraft: Forever opent, vragen geen attunement. Raids komen in vaste maten van 10, 20 en 40 spelers, en de moeilijkheid past zich nooit aan. Dat zegt Blizzard in een interview met But Why Tho?, samengevat door Wowhead.
+De raids waarmee World of Warcraft: Forever opent, vragen geen attunement. Raids komen in vaste maten van 10, 20 en 40 spelers, en de moeilijkheid past zich nooit aan. Dat zegt Blizzard in een interview met But Why Tho?.
 
 Of raids na de launch wel een attunement vragen, wil Blizzard voorlopig niet zeggen.
 

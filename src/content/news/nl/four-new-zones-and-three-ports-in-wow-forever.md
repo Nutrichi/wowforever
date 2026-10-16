@@ -13,13 +13,13 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever krijgt vier nieuwe zones bij de launch: Mount Hyjal, Shen'Dralas, Riverglades en Zephras Isle. Dat schrijft Wowhead op basis van de panels op BlizzCon. Er komen ook drie havens bij en meer dan 1.000 nieuwe quests.
+World of Warcraft: Forever krijgt vier nieuwe zones bij de launch: Mount Hyjal, Shen'Dralas, Riverglades en Zephras Isle. Dat volgt uit de panels op BlizzCon. Er komen ook drie havens bij en meer dan 1.000 nieuwe quests.
 
 ## De vier nieuwe zones
 
 Mount Hyjal is de endgamezone en herbergt de eerste raids voor 20 en 10 spelers, Hyjal Summit en de Barrow Deeps. Forever speelt zich af na Warcraft III, dus het skelet van Archimonde ligt er nog bij Nordrassil.
 
-Shen'Dralas ligt tussen Mulgore en Desolace. De zone zet het verhaal van de Shen'dralar voort en dat van de centaurstammen van Desolace, schrijft Wowhead. Er komen quests bij rond de dungeons Razorfen Downs en Maraudon.
+Shen'Dralas ligt tussen Mulgore en Desolace. De zone zet het verhaal van de Shen'dralar voort en dat van de centaurstammen van Desolace. Er komen quests bij rond de dungeons Razorfen Downs en Maraudon.
 
 Riverglades vult het gat tussen halverwege de dertig en begin veertig. Spelers komen er vanaf Steamwheedle Port of via een nieuwe doorgang van Redridge naar de Burning Steppes. Ogres en de Twilight's Hammer wonen er, en de nieuwe dungeon Krol'dok Stronghold ligt in de zone.
 
@@ -35,7 +35,7 @@ Southshore krijgt eindelijk een functie voor zijn steiger en wordt een halte tus
 
 ## Wat er in de startzones verandert
 
-Elke startzone krijgt nieuwe NPC's, quests en ervaringen tegenover WoW Classic, zegt Lead Content Designer Evan Lee volgens Wowhead. De content die spelers kennen blijft er gewoon naast staan. Desolace en de Wetlands krijgen flinke pakketten extra quests, zodat ze minder leeg aanvoelen.
+Elke startzone krijgt nieuwe NPC's, quests en ervaringen tegenover WoW Classic, zegt Lead Content Designer Evan Lee. De content die spelers kennen blijft er gewoon naast staan. Desolace en de Wetlands krijgen flinke pakketten extra quests, zodat ze minder leeg aanvoelen.
 
 ## Wanneer het verhaal speelt
 

@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard ha parlato del futuro dell'Hardcore al panel What's Next della BlizzCon 2026. Due cose sono nuove per World of Warcraft: Forever. Il gioco avvisa i giocatori prima di un world refresh, e un personaggio che muore può passare a qualsiasi modalità diversa dall'Hardcore.
 
-Finora un personaggio Hardcore morto finiva su un reame PvE. In Forever è il giocatore a scegliere la modalità, scrive Wowhead nel suo liveblog.
+Finora un personaggio Hardcore morto finiva su un reame PvE. In Forever è il giocatore a scegliere la modalità.
 
 ## Da dove viene l'Hardcore
 

@@ -28,7 +28,7 @@ Tiny Red Dragon es una mascota de compañía de Classic que vuelve en World of W
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=19054"><img class="wf-wh__icon" src="/wh/inv_misc_orb_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Dragon Orb</a> |
 | Origen | Aún no se sabe |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
@@ -36,7 +36,7 @@ Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se s
 
 ## Qué cambió desde Classic
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas del mismo origen
 

@@ -27,7 +27,7 @@ El vídeo dura 7 minutos y salió el 3 de octubre a las 19.00, hora belga, en el
   </button>
 </figure>
 
-Parte de los cambios del Hunter ya estaba en el [primer análisis de clases](/es/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), sobre el Hunter y el Druid. Las cifras de abajo vienen de los tooltips de Wowhead.
+Parte de los cambios del Hunter ya estaba en el [primer análisis de clases](/es/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), sobre el Hunter y el Druid. Las cifras de abajo vienen de los tooltips de la beta.
 
 ## Hunter
 

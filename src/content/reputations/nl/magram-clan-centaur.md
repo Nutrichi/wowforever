@@ -45,7 +45,7 @@ Het meeste komt uit kills op centaurs van de Gelkis-clan in Desolace. Warcraft W
 
 ### De questreeks
 
-Vanaf Friendly opent Warug, aan de rand van Magram Village in het zuidoosten van Desolace, een reeks: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka en Khan Hratha. Magram Alliance geeft 100 reputatie bij de Magram en kost 500 bij de Gelkis, zegt Wowhead. Warug stuurt je ook op de Kolkar en de Maraudine af, schrijft Warcraft Wiki.
+Vanaf Friendly opent Warug, aan de rand van Magram Village in het zuidoosten van Desolace, een reeks: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka en Khan Hratha. Magram Alliance geeft 100 reputatie bij de Magram en kost 500 bij de Gelkis. Warug stuurt je ook op de Kolkar en de Maraudine af, schrijft Warcraft Wiki.
 
 ### Waar het stopt
 

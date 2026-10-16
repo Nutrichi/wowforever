@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Elke raidboss in World of Warcraft: Forever laat een chase item vallen. Blizzard zei dat in een interview met The Sun op BlizzCon 2026, meldt Wowhead. In hetzelfde gesprek ging het over de nieuwe zones, de talentbomen en de ervaringscurve, die niet verandert.
+Elke raidboss in World of Warcraft: Forever laat een chase item vallen. Blizzard zei dat in een interview met The Sun op BlizzCon 2026. In hetzelfde gesprek ging het over de nieuwe zones, de talentbomen en de ervaringscurve, die niet verandert.
 
 The Sun sprak met Kris Zierhut, Principal Designer, en Michael Nuthals, Senior Encounter Designer.
 

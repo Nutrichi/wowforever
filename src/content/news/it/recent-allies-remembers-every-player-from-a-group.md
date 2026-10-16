@@ -13,11 +13,11 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever tiene una lista di ogni giocatore con cui un personaggio ha fatto gruppo. La finestra Recent Allies sta accanto alla Friends List e salva nome, livello, classe, luogo e attività. Wowhead l'ha mostrata dalla beta.
+World of Warcraft: Forever tiene una lista di ogni giocatore con cui un personaggio ha fatto gruppo. La finestra Recent Allies sta accanto alla Friends List e salva nome, livello, classe, luogo e attività. È già nella beta.
 
 ## Cosa salva la lista
 
-Ogni volta che un giocatore fa gruppo con qualcuno, in Recent Allies si aggiunge una voce, scrive Wowhead. Salva il nome, il livello attuale, la classe, il luogo in cui i due si sono incontrati e cosa hanno fatto insieme. I giocatori online hanno un pulsante che li invita con un clic.
+Ogni volta che un giocatore fa gruppo con qualcuno, in Recent Allies si aggiunge una voce. Salva il nome, il livello attuale, la classe, il luogo in cui i due si sono incontrati e cosa hanno fatto insieme. I giocatori online hanno un pulsante che li invita con un clic.
 
 ![La scheda Recent Allies della finestra amici con sei giocatori, i nomi coperti di nero, e un tooltip con livello 10, Windshaper Skyborne, Druid, Horde e Fought Together a Zephras Isle](../../../assets/posts/2026-09-25-wow-forever-recent-allies-window.png)
 
@@ -27,10 +27,10 @@ Un alleato recente si può fissare, così il nome resta sempre in cima alla list
 
 ![La lista Recent Allies con due giocatori fissati in cima, segnati da una puntina gialla, sopra una linea divisoria](../../../assets/posts/2026-09-25-wow-forever-recent-allies-pinned.jpg)
 
-Quanti giocatori tiene la lista e per quanto resta una voce, Wowhead non lo dice.
+Quanti giocatori tiene la lista e per quanto resta una voce, non si sa.
 
 ## Parte di un design sociale
 
-Forever punta sul gioco in compagnia, e Blizzard ha detto in più interviste che l'attrito aiuta. In [un'intervista con Game Informer](/it/news/one-faction-per-player-on-pvp-rulesets/), due lead hanno descritto la corsa verso un dungeon o un lungo volo come un momento in cui i giocatori parlano tra loro. In un'intervista con Windows Central il team ha detto la stessa cosa al contrario: togliendo l'attrito il gioco diventa più solitario, scrive Wowhead.
+Forever punta sul gioco in compagnia, e Blizzard ha detto in più interviste che l'attrito aiuta. In [un'intervista con Game Informer](/it/news/one-faction-per-player-on-pvp-rulesets/), due lead hanno descritto la corsa verso un dungeon o un lungo volo come un momento in cui i giocatori parlano tra loro. In un'intervista con Windows Central il team ha detto la stessa cosa al contrario: togliendo l'attrito il gioco diventa più solitario.
 
-L'assenza dello [shared tagging](/it/news/aggrend-rules-out-shared-tagging/) va nella stessa direzione. Solo il primo giocatore o gruppo che colpisce un mob ottiene il kill, e questo spinge a fare gruppo. Wowhead vede Recent Allies come il passo successivo: chi fa gruppo per un mob conteso o un dungeon si ritrova una lista di nomi da ricontattare più avanti.
+L'assenza dello [shared tagging](/it/news/aggrend-rules-out-shared-tagging/) va nella stessa direzione. Solo il primo giocatore o gruppo che colpisce un mob ottiene il kill, e questo spinge a fare gruppo. Recent Allies sembra il passo successivo: chi fa gruppo per un mob conteso o un dungeon si ritrova una lista di nomi da ricontattare più avanti.

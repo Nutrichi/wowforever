@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-El GDKP no está permitido en World of Warcraft: Forever. Blizzard lo confirmó durante el Q&A en directo del 17 de septiembre, escribe Wowhead. El estudio quiere proteger el núcleo social del juego. Con los compradores de oro será más duro.
+El GDKP no está permitido en World of Warcraft: Forever. Blizzard lo confirmó durante el Q&A en directo del 17 de septiembre. El estudio quiere proteger el núcleo social del juego. Con los compradores de oro será más duro.
 
 En una run de GDKP el loot se subasta por oro, y al final el bote se reparte entre la raid.
 
@@ -21,6 +21,6 @@ Blizzard ve que el formato desplaza a las guilds. En cuanto el GDKP se generaliz
 
 El formato también arrastra un estigma, según Blizzard, porque los jugadores lo asocian de cerca con el real money trading. Quien se siente empujado a comprar oro daña la economía, y los malos actores usan esas runs para blanquear oro.
 
-Blizzard se llama a sí mismo demasiado indulgente con los compradores de oro en el pasado. En Forever irá a por ellos y vigilará de cerca la economía, para que los jugadores aún puedan permitirse jugar, escribe Wowhead. La web lee ahí baneos permanentes, pero Blizzard no nombró ninguna sanción.
+Blizzard se llama a sí mismo demasiado indulgente con los compradores de oro en el pasado. En Forever irá a por ellos y vigilará de cerca la economía, para que los jugadores aún puedan permitirse jugar. La web lee ahí baneos permanentes, pero Blizzard no nombró ninguna sanción.
 
 Cómo se aplicará la regla, y qué cuenta como una run de GDKP, Blizzard no lo dijo. El mismo Q&A trajo los [Tarnished Undermine Reals](/es/news/tarnished-undermine-reals-in-wow-forever/) a Forever, y [la beta abrió](/es/news/wow-forever-beta-is-live/) justo después de la emisión.

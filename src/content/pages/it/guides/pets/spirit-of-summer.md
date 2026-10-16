@@ -28,7 +28,7 @@ Spirit of Summer è una mascotte da compagnia di Classic che torna in World of W
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=23083"><img class="wf-wh__icon" src="/wh/inv_potion_33.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Captured Flame</a> |
 | Fonte | Missione: <a href="https://www.wowhead.com/forever/quest=9319">A Light in Dark Places</a> |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -38,7 +38,7 @@ Spirit of Summer è una mascotte da compagnia di Classic che torna in World of W
 
 Ora l'oggetto insegna la mascotte: diventa un incantesimo e non occupa più spazio nelle borse. Evocarla è istantaneo invece di un lancio di 1 secondo, con un tempo di recupero di 1,5 secondi.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

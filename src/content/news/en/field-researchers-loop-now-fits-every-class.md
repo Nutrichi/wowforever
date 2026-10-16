@@ -12,9 +12,9 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, a reward for collecting books in World of Warcraft: Forever, is no longer for Rogues only. Every class can now wear the ring, writes Wowhead. In the beta build of 1 October it also loses its Strength.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, a reward for collecting books in World of Warcraft: Forever, is no longer for Rogues only. Every class can now wear the ring. In the beta build of 1 October it also loses its Strength.
 
-Players find books all over the world in Forever, and handing them in unlocks new quests. At 20 books comes <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a>, which lets you choose one of two rings. Field Researcher's Loop is one of them. Which ring is the other, Wowhead does not say.
+Players find books all over the world in Forever, and handing them in unlocks new quests. At 20 books comes <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a>, which lets you choose one of two rings. Field Researcher's Loop is one of them. Which ring is the other, is not known.
 
 ## What changes on the ring
 
@@ -26,8 +26,8 @@ The files of the build confirm the change. The class restriction is gone, the it
 | Item level | 40 | 35 |
 | Stats | 7 Strength, 7 Agility, 7 Stamina | 7 Agility, 7 Stamina |
 
-Blizzard did not list the change in the notes of the build. The tooltip on Wowhead itself still shows older values.
+Blizzard did not list the change in the notes of the build. Some online tooltips still show older values.
 
 ## Collecting 20 books
 
-Which books are the easiest to get, a Wowhead user worked out as an Alliance player in [a comment on the Scholarly Pendant](https://www.wowhead.com/forever/item=277203/scholarly-pendant#comments:id=6436230). Now that the beta runs to level 30, several of those books are easier to reach, according to Wowhead.
+Which books are the easiest to get, a player worked out as an Alliance player in [a comment on the Scholarly Pendant](https://www.wowhead.com/forever/item=277203/scholarly-pendant#comments:id=6436230). Now that the beta runs to level 30, several of those books are easier to reach.

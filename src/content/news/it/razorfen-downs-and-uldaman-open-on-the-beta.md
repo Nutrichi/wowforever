@@ -54,7 +54,7 @@ Ogni classe cambia. Una selezione:
 - **Warlock**: Hellfire può fare critico, Soul Harvesting diventa Soul Harvest, e torna l'Aggressive Mode dei famigli.
 - **Warrior**: il 75% di Rage in più dai critici con gli attacchi base, portato al 100% più tardi quella notte. Rend e Sunder Armor rivendicano subito un nemico.
 
-Il razziale gnomesco [Eureka! non funziona più sugli effetti periodici](/it/news/eureka-no-longer-boosts-damage-over-time/). Wowhead ha trovato anche [modifiche nei dati che non sono nelle note](/it/news/the-data-drops-the-dismount-from-spearing-strike/).
+Il razziale gnomesco [Eureka! non funziona più sugli effetti periodici](/it/news/eureka-no-longer-boosts-damage-over-time/). Ci sono anche [modifiche nei dati che non sono nelle note](/it/news/the-data-drops-the-dismount-from-spearing-strike/).
 
 ## Problemi noti
 

@@ -29,7 +29,7 @@ Mini Diablo ist ein Haustier aus Classic, das in World of Warcraft: Forever zur�
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281168"><img class="wf-wh__icon" src="/wh/inv_diablofunsized_c60_red.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Diablo Stone</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13584"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Diablo Stone</a> |
 | Quelle | Edition: Skyborne Epic Pack, Warcraft Forever Collection |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -41,7 +41,7 @@ Auch der alte Gegenstand der Collector's Edition von 2004, <a class="wf-wh wf-q3
 
 Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen. Das Herbeirufen ist sofort statt mit 1 Sekunde Zauberzeit, mit einer Abklingzeit von 1,5 Sekunden.
 
-Die Datenbank von Wowhead f체hrt das Haustier als accountweit: einmal gelernt, w채re es f체r jeden Charakter da. Blizzard hat das nicht best채tigt.
+Die Spieldaten f체hren das Haustier als accountweit: einmal gelernt, w채re es f체r jeden Charakter da. Blizzard hat das nicht best채tigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

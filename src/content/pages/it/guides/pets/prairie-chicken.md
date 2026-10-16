@@ -29,7 +29,7 @@ Prairie Chicken è una mascotte da compagnia di Classic che torna in World of Wa
 | Fonte | Nel mondo: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=161513">Farm Chicken Egg</a> |
 | Dove | Westfall |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -39,7 +39,7 @@ Si trova in <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/obje
 
 Ora l'oggetto insegna la mascotte: diventa un incantesimo e non occupa più spazio nelle borse. Evocarla è istantaneo invece di un lancio di 1 secondo, con un tempo di recupero di 1,5 secondi.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

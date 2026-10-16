@@ -31,7 +31,7 @@ Der Spieler schrieb, Forever habe ein großartiges Fundament, und mit dem richti
 
 Das Bild zeigt einen Höhleneingang unter einem riesigen umgestürzten Baum in einem Herbstwald. Ein Stein daneben trägt eine grüne Rune, und am Eingang steht ein Furbolg. Wo das ist, sagt Greenfield nicht.
 
-Wowhead sieht darin Blackmaw Hold, einen der beiden Dungeons am oberen Ende der Levels. Blizzard beschreibt Blackmaw Hold als große Stadt der Furbolgs für Level 55 bis 60, was zum Furbolg im Bild passt.
+Es sieht nach Blackmaw Hold aus, einen der beiden Dungeons am oberen Ende der Levels. Blizzard beschreibt Blackmaw Hold als große Stadt der Furbolgs für Level 55 bis 60, was zum Furbolg im Bild passt.
 
 ## Warum Blackrock Depths der Maßstab ist
 

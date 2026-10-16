@@ -17,9 +17,9 @@ WoW Forever añade cinco puntos de vuelo: Farholde Keep, Powderfuse Port y Rog'm
 
 ## De dónde salen las rutas
 
-Blizzard no ha publicado una lista de rutas de vuelo para Forever. Las rutas de esta página salen de los archivos de la última build de la beta, 1.60.1.70009, tal como los publica wago.tools. Se comparan con los mismos archivos de Classic Era, build 1.15.9.69722. Los nombres de los nuevos maestros de vuelo vienen del [mapa del mundo de Wowhead](https://www.wowhead.com/forever/world-map).
+Blizzard no ha publicado una lista de rutas de vuelo para Forever. Las rutas de esta página salen de los archivos de la última build de la beta, 1.60.1.70009. Se comparan con los mismos archivos de Classic Era, build 1.15.9.69722. Los nombres de los nuevos maestros de vuelo vienen de [un mapa del mundo de Forever en línea](https://www.wowhead.com/forever/world-map).
 
-El mapa dibuja cada ruta como una línea entre dos lugares, no como transcurre el vuelo en el juego. Así se lee mejor. La base es el mapa del mundo del cliente de Forever, que ya muestra The Riverglades al este de Redridge Mountains. Los barcos y zepelines vienen del mismo mapa del mundo de Wowhead.
+El mapa dibuja cada ruta como una línea entre dos lugares, no como transcurre el vuelo en el juego. Así se lee mejor. La base es el mapa del mundo del cliente de Forever, que ya muestra The Riverglades al este de Redridge Mountains. Los barcos y zepelines vienen del mismo mapa del mundo.
 
 Una línea azul es una ruta de la Alliance, una línea roja una ruta de la Horde. Una línea discontinua es un barco o un zepelín, y una línea blanca discontinua está abierta a ambas facciones. Una línea con borde dorado y la palabra NEW es nueva en Forever. Un escudo es un maestro de vuelo, una marca redonda un puerto o una torre de zepelín sin maestro de vuelo. Un escudo azul y rojo sirve a ambas facciones, y un borde dorado señala un lugar nuevo.
 
@@ -72,7 +72,7 @@ Cada punto de vuelo con su maestro de vuelo, sus coordenadas y sus rutas está e
 
 ## Lo que no es seguro
 
-- **Powderfuse Port tiene una sola ruta**, a Farholde Keep. El punto de vuelo no lleva facción en los archivos, pero su única ruta lleva a una fortaleza de la Alliance y su montura es un gryphon. En esta build no existe ninguna ruta para la Horde. Wowhead aún no muestra un maestro de vuelo allí.
+- **Powderfuse Port tiene una sola ruta**, a Farholde Keep. El punto de vuelo no lleva facción en los archivos, pero su única ruta lleva a una fortaleza de la Alliance y su montura es un gryphon. En esta build no existe ninguna ruta para la Horde. Aún no se conoce un maestro de vuelo allí.
 - **Un sexto punto de vuelo nuevo espera**: Tidegear Coast, en Dun Morogh, está en los archivos, sin una sola ruta. No se sabe para qué sirve.
 - **Las rutas aún pueden cambiar** antes del lanzamiento del 4 de noviembre. La build 1.60.1.70009 es una beta, y los archivos aún guardan versiones antiguas de los puntos de vuelo de The Riverglades que ya no se usan.
 - **Zephras Isle no tiene un lugar fijo** en el mapa del mundo de los archivos. El mapa sitúa Valanaar, donde llegan los nuevos zepelines de Dalaran y Skywatcher Plateau, en el grupo de islas al norte del Maelstrom.

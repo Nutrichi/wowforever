@@ -14,7 +14,7 @@ draft: false
 ---
 Rockslicer, a two-handed axe from the Deadmines, carries a new effect in WoW Forever. It opens Copper, Tin, Silver and Iron veins without the Mining tradeskill, for 30 charges. After that the axe stays in your bags but the mining use is gone.
 
-Wowhead spotted the change in the beta, where loot across the game got new stats.
+The change showed up in the beta, where loot across the game got new stats.
 
 ## What the axe is
 

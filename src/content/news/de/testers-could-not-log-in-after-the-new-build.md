@@ -21,6 +21,6 @@ Die Beta war gerade mit dem [Build mit Level 30](/de/news/the-beta-level-cap-ris
 >
 > We will continue to work to fix this as swiftly as possible.
 
-Manche Spieler kamen einfach durch Warten hinein, schreibt Wowhead. Im Forenthread meldeten die ersten Tester gegen 02.38 Uhr belgischer Zeit, dass sie sich wieder einloggen konnten, einer von ihnen "über eine Stunde später".
+Manche Spieler kamen einfach durch Warten hinein. Im Forenthread meldeten die ersten Tester gegen 02.38 Uhr belgischer Zeit, dass sie sich wieder einloggen konnten, einer von ihnen "über eine Stunde später".
 
 Blizzard meldete nicht, dass das Problem behoben war, und nannte keine Ursache.

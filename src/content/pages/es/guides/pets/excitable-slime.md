@@ -31,7 +31,7 @@ Excitable Slime es una mascota de compañía nueva en World of Warcraft: Forever
 | Origen | Misión: WRIGGLE. |
 | Dónde | Undercity |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
@@ -47,7 +47,7 @@ Si más tarde usas /dance ante la mascota, baila contigo.
 
 ## Conviene saber
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas en Undercity
 

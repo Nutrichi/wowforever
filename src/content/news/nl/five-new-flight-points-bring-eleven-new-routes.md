@@ -17,9 +17,9 @@ WoW Forever krijgt vijf nieuwe vluchtpunten: Farholde Keep, Powderfuse Port en R
 
 ## Waar de routes vandaan komen
 
-Blizzard heeft geen lijst met vluchtroutes voor Forever gepubliceerd. De routes op deze pagina komen uit de bestanden van de nieuwste beta-build, 1.60.1.70009, zoals wago.tools ze publiceert. Ze staan naast dezelfde bestanden van Classic Era, build 1.15.9.69722. De namen van de nieuwe flight masters komen van [de wereldkaart van Wowhead](https://www.wowhead.com/forever/world-map).
+Blizzard heeft geen lijst met vluchtroutes voor Forever gepubliceerd. De routes op deze pagina komen uit de bestanden van de nieuwste beta-build, 1.60.1.70009. Ze staan naast dezelfde bestanden van Classic Era, build 1.15.9.69722. De namen van de nieuwe flight masters komen van [een onlinewereldkaart van Forever](https://www.wowhead.com/forever/world-map).
 
-De kaart tekent elke route als een lijn tussen twee plaatsen, niet zoals de vlucht in het spel echt loopt. Zo blijft ze leesbaar. De ondergrond is de wereldkaart uit de client van Forever, waarop The Riverglades al ten oosten van Redridge Mountains staat. De boten en zeppelins komen van dezelfde wereldkaart van Wowhead.
+De kaart tekent elke route als een lijn tussen twee plaatsen, niet zoals de vlucht in het spel echt loopt. Zo blijft ze leesbaar. De ondergrond is de wereldkaart uit de client van Forever, waarop The Riverglades al ten oosten van Redridge Mountains staat. De boten en zeppelins komen van dezelfde wereldkaart.
 
 Een blauwe lijn is een route van de Alliance, een rode lijn een route van de Horde. Een stippellijn is een boot of een zeppelin, en een witte stippellijn staat open voor beide facties. Een lijn met een gouden rand en het woord NEW is nieuw in Forever. Een schild is een flight master, een rond teken een haven of zeppelintoren zonder flight master. Een schild in blauw en rood dient beide facties, en een gouden rand wijst op een nieuwe plek.
 
@@ -72,7 +72,7 @@ Elk vluchtpunt met zijn flight master, coördinaten en routes staat in de [gids 
 
 ## Wat niet zeker is
 
-- **Powderfuse Port heeft één route**, naar Farholde Keep. Het vluchtpunt draagt in de bestanden geen factie, maar de enige route leidt naar een burcht van de Alliance en het rijdier is een gryphon. Een route voor de Horde bestaat in deze build niet. Wowhead toont er nog geen flight master.
+- **Powderfuse Port heeft één route**, naar Farholde Keep. Het vluchtpunt draagt in de bestanden geen factie, maar de enige route leidt naar een burcht van de Alliance en het rijdier is een gryphon. Een route voor de Horde bestaat in deze build niet. Er is daar nog geen flight master bekend.
 - **Een zesde nieuw vluchtpunt wacht**: Tidegear Coast in Dun Morogh staat in de bestanden, zonder één route. Waarvoor het dient, is niet bekend.
 - **De routes kunnen nog veranderen** voor de launch op 4 november. Build 1.60.1.70009 is een beta, en de bestanden bevatten nog oudere versies van de vluchtpunten in The Riverglades die niet in gebruik zijn.
 - **Zephras Isle heeft geen vaste plek** op de wereldkaart in de bestanden. De kaart zet Valanaar, waar de nieuwe zeppelins uit Dalaran en Skywatcher Plateau landen, op de eilandengroep ten noorden van de Maelstrom.

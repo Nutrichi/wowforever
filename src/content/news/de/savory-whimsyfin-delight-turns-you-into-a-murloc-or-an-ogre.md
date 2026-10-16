@@ -19,7 +19,7 @@ WoW Forever hat ein neues Cooking-Rezept, das jeden verwandelt, der es isst. Sav
 
 ## So funktioniert es
 
-<a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> ist die Forever-Version von <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, dem Gericht aus Classic, das dich in einen Ninja oder einen Piraten verwandelt. Das alte bleibt im Spiel, schreibt Wowhead, beide Kostüme gibt es also weiter.
+<a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> ist die Forever-Version von <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, dem Gericht aus Classic, das dich in einen Ninja oder einen Piraten verwandelt. Das alte bleibt im Spiel, beide Kostüme gibt es also weiter.
 
 Die neue Gestalt hängt vom Body Type ab, den du bei der Charaktererstellung gewählt hast. Body Type 1 wird zum Murloc, Body Type 2 zu einem großen Ogre. Die Gestalt hält 60 Minuten, oder bis der Charakter stirbt.
 
@@ -29,7 +29,7 @@ Die neue Gestalt hängt vom Body Type ab, den du bei der Charaktererstellung gew
 
 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251526"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Savory Whimsyfin Delight</a> braucht Cooking 85 und droppt bei zufälligen Monstern, etwa beim <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=547">Great Goretusk</a> in den <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/zone=44">Redridge Mountains</a>. Das Gericht selbst braucht einen <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251524"><img class="wf-wh__icon" src="/wh/inv_misc_fish_68.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whimsyfin</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2678"><img class="wf-wh__icon" src="/wh/inv_misc_food_wheat_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mild Spices</a>, laut dem Rezept in der Beta.
 
-Murlocs und Ogres gehörten zu den Völkern, die sich Spieler vor Forever am meisten wünschten, schreibt Wowhead. Spielbar ist keins von beiden.
+Murlocs und Ogres gehörten zu den Völkern, die sich Spieler vor Forever am meisten wünschten. Spielbar ist keins von beiden.
 
 ![Zwei Ninjas und zwei Piraten neben einem Molten Giant, die Kostüme von Savory Deviate Delight im ursprünglichen World of Warcraft](../../../assets/posts/2026-09-29-classic-ninja-and-pirate-costumes.jpg)
 

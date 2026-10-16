@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Eine Kreatur in World of Warcraft: Forever lässt sich wieder nur ein einziges Mal kürschnern, bevor ihre Leiche verschwindet. Bisher konnte jedes Mitglied einer Gruppe dasselbe Tier kürschnern. Der neueste Beta-Build behebt das, schreibt Wowhead.
+Eine Kreatur in World of Warcraft: Forever lässt sich wieder nur ein einziges Mal kürschnern, bevor ihre Leiche verschwindet. Bisher konnte jedes Mitglied einer Gruppe dasselbe Tier kürschnern. Der neueste Beta-Build behebt das.
 
 Skinning bringt Leder von Tieren. In Classic verschwindet die Leiche nach einem Mal Kürschnern. In der Beta von Forever konnten Spieler in einer Gruppe in den letzten zwei Wochen dieselbe Kreatur einmal pro Mitglied kürschnern, sodass ein Kill mehr Leder brachte. Ob das so gewollt war, war für Spieler unklar.
 
@@ -21,4 +21,4 @@ Die Notes des Builds sagen:
 
 > Creatures can once again only be skinned a single time before disappearing.
 
-Damit ist klar, dass es ein Bug war, schreibt Wowhead. Ein Kürschner pro Kreatur ändert, wie viel Leder auf den Markt kommt, wenn Forever am 4. November erscheint.
+Damit ist klar, dass es ein Bug war. Ein Kürschner pro Kreatur ändert, wie viel Leder auf den Markt kommt, wenn Forever am 4. November erscheint.

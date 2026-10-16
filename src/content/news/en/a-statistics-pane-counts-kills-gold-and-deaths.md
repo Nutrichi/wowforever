@@ -12,7 +12,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-The Statistics pane works in the WoW Forever beta. It stayed empty in the first build, and the current one fills it with around two hundred numbers per character, writes Wowhead. They run from total kills and gold spent to deaths from Hogger.
+The Statistics pane works in the WoW Forever beta. It stayed empty in the first build, and the current one fills it with around two hundred numbers per character. They run from total kills and gold spent to deaths from Hogger.
 
 ## Where to find it
 
@@ -20,7 +20,7 @@ The pane sits in the character window. Open it with C, the default key, and clic
 
 ## What it counts
 
-Wowhead published the full list. A selection:
+A selection from the full list:
 
 - **Combat:** the largest hit dealt and received, the largest heal, total damage and total healing.
 - **Wealth:** gold from quests, vendors and auctions, gold spent on respecs, travel, postage and the barber shop, and the most gold ever owned.
@@ -34,7 +34,7 @@ PvP has its own blocks, with honorable kills, killing blows and results per batt
 
 ## Bosses from the new dungeons
 
-The category Boss Kills shows a boss only after the character has defeated it at least once, writes Wowhead. The list holds the classic dungeons, from Edwin VanCleef in the Deadmines to Baron Rivendare in Stratholme. It also names bosses from content that is new in Forever:
+The category Boss Kills shows a boss only after the character has defeated it at least once. The list holds the classic dungeons, from Edwin VanCleef in the Deadmines to Baron Rivendare in Stratholme. It also names bosses from content that is new in Forever:
 
 - **The Hall of Thanes:** Durgen Dirgehammer
 - **Ruins of Lordaeron:** Rath'mael
@@ -46,4 +46,4 @@ The category Boss Kills shows a boss only after the character has defeated it at
 
 Durgen Dirgehammer is the final boss of the Hall of Thanes, as [the walkthrough](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) shows. Rath'mael is one of six bosses in the Ruins of Lordaeron, which can be done in any order, according to [the walkthrough](/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/). For the other names the list does not say whether they are the last boss. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold and Blackmaw Hold do not appear in it.
 
-A few lines point to later expansions, such as Inscription, the Dalaran Cooking Awards and daily quests for cooking and fishing. Whether they mean anything in Forever, Wowhead does not say.
+A few lines point to later expansions, such as Inscription, the Dalaran Cooking Awards and daily quests for cooking and fishing. Whether they mean anything in Forever, is not known.

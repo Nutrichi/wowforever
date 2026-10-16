@@ -31,7 +31,7 @@ El jugador escribió que Forever tiene una base increíble, y que con el estilo 
 
 La imagen muestra la entrada de una cueva bajo un enorme árbol caído en un bosque otoñal. Una piedra al lado lleva una runa verde, y un furbolg está en la entrada. Greenfield no dice dónde es.
 
-Wowhead ve en ella Blackmaw Hold, una de las dos mazmorras del final del rango de niveles. Blizzard describe Blackmaw Hold como una gran ciudad de furbolgs para los niveles 55 a 60, lo que encaja con el furbolg de la imagen.
+Parece Blackmaw Hold, una de las dos mazmorras del final del rango de niveles. Blizzard describe Blackmaw Hold como una gran ciudad de furbolgs para los niveles 55 a 60, lo que encaja con el furbolg de la imagen.
 
 ## Por qué Blackrock Depths es la referencia
 

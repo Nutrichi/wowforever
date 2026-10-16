@@ -12,7 +12,7 @@ tags: ["forever", "hardcore"]
 featured: false
 draft: false
 ---
-World of Warcraft: Forever warns players before a forced layer change. A notification says a zone refresh is coming and gives five minutes to reach a safe spot, Wowhead writes. Until now such a change simply happened.
+World of Warcraft: Forever warns players before a forced layer change. A notification says a zone refresh is coming and gives five minutes to reach a safe spot. Until now such a change simply happened.
 
 ## What a layer is
 

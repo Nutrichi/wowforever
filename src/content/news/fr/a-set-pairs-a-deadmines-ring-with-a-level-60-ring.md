@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Des testeurs de la bêta de World of Warcraft: Forever ont trouvé un ensemble qui couvre toute la montée en level. Partners in Crime se compose de deux anneaux, écrit Wowhead. L'un tombe dans un donjon de bas level, l'autre demande le level 60.
+Des testeurs de la bêta de World of Warcraft: Forever ont trouvé un ensemble qui couvre toute la montée en level. Partners in Crime se compose de deux anneaux. L'un tombe dans un donjon de bas level, l'autre demande le level 60.
 
 ## Les deux anneaux
 
@@ -34,8 +34,8 @@ Les deux lignes sont notées comme bonus de deux pièces, donc rien ne se décle
 
 ## Pourquoi cela compte pour l'équipement
 
-La moitié épique de l'ensemble est un objet de level 60, et c'est ce qui la rend intéressante, écrit Wowhead. Un joueur fera peut-être les Deadmines encore très longtemps, bien au-delà du level où le donjon se laisse normalement derrière soi.
+La moitié épique de l'ensemble est un objet de level 60, et c'est ce qui la rend intéressante. Un joueur fera peut-être les Deadmines encore très longtemps, bien au-delà du level où le donjon se laisse normalement derrière soi.
 
-D'autres donjons portent peut-être la même idée, écrit Wowhead : un objet qui est la première moitié d'un ensemble impossible à compléter avant bien plus tard. Si Blizzard en a conçu d'autres, le studio ne le dit pas.
+D'autres donjons portent peut-être la même idée : un objet qui est la première moitié d'un ensemble impossible à compléter avant bien plus tard. Si Blizzard en a conçu d'autres, le studio ne le dit pas.
 
 Cela donne aussi de quoi faire à la [banque par défaut agrandie](/fr/news/the-bank-starts-with-48-slots/). Un équipement qui ne paie que des dizaines de levels plus tard doit bien rester quelque part.

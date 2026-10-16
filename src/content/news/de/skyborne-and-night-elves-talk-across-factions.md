@@ -25,7 +25,7 @@ Ein Skyborne der Horde kann in World of Warcraft: Forever mit Elfen der Alliance
   </button>
 </figure>
 
-Der Beitrag stammt vom Reddit-Nutzer Odin_69, vom 23. September, und hat mehr als 660 Upvotes und 285 Kommentare. Wowhead berichtete am 28. September darüber.
+Der Beitrag stammt vom Reddit-Nutzer Odin_69, vom 23. September, und hat mehr als 660 Upvotes und 285 Kommentare.
 
 ## Was der Screenshot zeigt
 
@@ -43,6 +43,6 @@ In der Praxis öffnet das eine einzige Linie zwischen den Fraktionen. Ein Windsh
 
 ## Fehler oder Absicht
 
-Blizzard hat nicht gesagt, ob das so gewollt ist. Wowhead erinnert daran, dass Blizzard Horde und Alliance immer getrennt gehalten hat, und dass es ein Überbleibsel des gemeinsamen Starts der Skyborne sein könnte. Viele Spieler auf Reddit loben es fürs Rollenspiel.
+Blizzard hat nicht gesagt, ob das so gewollt ist. Blizzard hat Horde und Alliance immer getrennt gehalten, und es könnte ein Überbleibsel des gemeinsamen Starts der Skyborne sein. Viele Spieler auf Reddit loben es fürs Rollenspiel.
 
 Ob die Sprache zum Start am 4. November bleibt, ist nicht bekannt.

@@ -13,13 +13,13 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever riceve quattro nuove zone al lancio: Mount Hyjal, Shen'Dralas, Riverglades e Zephras Isle. Lo scrive Wowhead, sulla base dei panel della BlizzCon. Con loro arrivano tre porti e oltre 1.000 nuove missioni.
+World of Warcraft: Forever riceve quattro nuove zone al lancio: Mount Hyjal, Shen'Dralas, Riverglades e Zephras Isle. Lo dicono i panel della BlizzCon. Con loro arrivano tre porti e oltre 1.000 nuove missioni.
 
 ## Le quattro nuove zone
 
 Mount Hyjal è la zona di fine gioco e ospita i primi raid da 20 e da 10 giocatori, Hyjal Summit e le Barrow Deeps. Forever è ambientato dopo Warcraft III, quindi lo scheletro di Archimonde giace ancora vicino a Nordrassil.
 
-Shen'Dralas si trova tra Mulgore e Desolace. La zona prosegue la storia degli Shen'dralar e quella delle tribù centauro di Desolace, scrive Wowhead. Vengono aggiunte missioni attorno ai dungeon Razorfen Downs e Maraudon.
+Shen'Dralas si trova tra Mulgore e Desolace. La zona prosegue la storia degli Shen'dralar e quella delle tribù centauro di Desolace. Vengono aggiunte missioni attorno ai dungeon Razorfen Downs e Maraudon.
 
 Riverglades riempie il vuoto tra la metà dei trenta e l'inizio dei quaranta. I giocatori ci arrivano da Steamwheedle Port o attraverso un nuovo passaggio da Redridge verso le Burning Steppes. Ci vivono Ogres e il Twilight's Hammer, e nella zona si trova il nuovo dungeon Krol'dok Stronghold.
 
@@ -35,7 +35,7 @@ Southshore trova finalmente un uso per il suo molo e diventa una fermata tra Men
 
 ## Cosa cambia nelle zone iniziali
 
-Ogni zona iniziale riceve NPC, missioni ed esperienze nuove rispetto a WoW Classic, dice il Lead Content Designer Evan Lee secondo Wowhead. Il contenuto che i giocatori conoscono resta accanto. Desolace e i Wetlands ricevono grossi pacchetti di missioni, così da sembrare meno vuoti.
+Ogni zona iniziale riceve NPC, missioni ed esperienze nuove rispetto a WoW Classic, dice il Lead Content Designer Evan Lee. Il contenuto che i giocatori conoscono resta accanto. Desolace e i Wetlands ricevono grossi pacchetti di missioni, così da sembrare meno vuoti.
 
 ## Quando si svolge la storia
 

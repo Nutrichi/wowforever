@@ -15,7 +15,7 @@ manual: true
 ---
 De Cozy Sleeping Bag zit in WoW Forever. Spelers vonden de questreeks uit Season of Discovery draaiend op de beta, en ze eindigt in hetzelfde item: een zak die je overal uitrolt voor extra ervaring terwijl je rust. Je hebt level 14 nodig om te beginnen.
 
-Brubby, van de WoW Secret Finding Discord, bevestigde de reeks en leverde de schermafdrukken, meldt Wowhead.
+Brubby, van de WoW Secret Finding Discord, bevestigde de reeks en leverde de schermafdrukken.
 
 ## Wat de zak doet
 

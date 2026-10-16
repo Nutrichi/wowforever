@@ -27,7 +27,7 @@ Snowy Wolf Pup is a companion pet that is new in World of Warcraft: Forever. You
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=269830"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Snowy Wolf Pup</a> |
 | Source | Not known yet |
 | New in Forever | yes |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -37,7 +37,7 @@ The tooltip on the beta still says it summons "your chicken", text copied from a
 
 ## Good to know
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

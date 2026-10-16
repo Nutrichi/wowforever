@@ -13,15 +13,15 @@ featured: false
 draft: false
 manual: true
 ---
-De Cooldown Manager uit retail is nu te testen in de WoW Forever-beta. Hij kwam naar Midnight met patch 12.0, toen Blizzard beperkte wat addons mogen. Druid, Mage, Priest, Warrior en Warlock kunnen hem nu proberen, schrijft Wowhead.
+De Cooldown Manager uit retail is nu te testen in de WoW Forever-beta. Hij kwam naar Midnight met patch 12.0, toen Blizzard beperkte wat addons mogen. Druid, Mage, Priest, Warrior en Warlock kunnen hem nu proberen.
 
 ## Waarom hij in Forever past
 
-Forever heeft dezelfde beperkingen voor addons als Midnight en draait op dezelfde client als retail, schrijft Wowhead. Daarom kon de manager mee. Hij haalt de belangrijkste informatie uit de buffbalk en de actiebalk en zet die waar de speler wil, volgens de [ontwikkelingsnotities](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) van 24 september.
+Forever heeft dezelfde beperkingen voor addons als Midnight en draait op dezelfde client als retail. Daarom kon de manager mee. Hij haalt de belangrijkste informatie uit de buffbalk en de actiebalk en zet die waar de speler wil, volgens de [ontwikkelingsnotities](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) van 24 september.
 
 ## Aanzetten
 
-De manager staat standaard uit. Blizzard zet de schakelaar in Options onder Gameplay Enhancement; Wowhead vond hem onder Options, Advanced Options. Staat hij aan, dan verplaatst Edit Mode de gevolgde spells over het scherm, en /cdm opent de lijst van wat getoond wordt.
+De manager staat standaard uit. Blizzard zet de schakelaar in Options onder Gameplay Enhancement; op de beta staat hij onder Options, Advanced Options. Staat hij aan, dan verplaatst Edit Mode de gevolgde spells over het scherm, en /cdm opent de lijst van wat getoond wordt.
 
 ## Het instellingenvenster
 

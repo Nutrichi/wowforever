@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Die Beta von World of Warcraft: Forever ging am 17. September mit Disconnects, langen Warteschlangen und Verzögerung bei jedem Loot auf. Senior Game Producer Tom Ellis schrieb auf X einen langen Beitrag darüber, was schiefging, zusammengefasst von Wowhead. Es ist ein seltener Blick auf die Maschinerie hinter einer Beta.
+Die Beta von World of Warcraft: Forever ging am 17. September mit Disconnects, langen Warteschlangen und Verzögerung bei jedem Loot auf. Senior Game Producer Tom Ellis schrieb auf X einen langen Beitrag darüber, was schiefging. Es ist ein seltener Blick auf die Maschinerie hinter einer Beta.
 
 ## Die Umgebung ist ein Testaufbau
 

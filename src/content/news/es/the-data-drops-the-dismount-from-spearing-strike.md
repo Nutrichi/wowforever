@@ -1,6 +1,6 @@
 ---
 title: "Spearing Strike ya no desmonta, según los datos"
-description: "Wowhead comparó los hechizos de la build de WoW Forever del 1 de octubre con la anterior. Los datos confirman las notas de clase y muestran algunos cambios que Blizzard no citó, para Warriors y Druids Feral."
+description: "Los hechizos de la build de WoW Forever del 1 de octubre, comparados con la anterior. Los datos confirman las notas de clase y muestran algunos cambios que Blizzard no citó, para Warriors y Druids Feral."
 date: 2026-10-02T12:20:00+02:00
 category: forever
 lang: es
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> ya no desmonta a su objetivo, según los archivos de la nueva build de World of Warcraft: Forever. Wowhead comparó cada hechizo con la build anterior. La mayoría de los cambios coinciden con las notas de clase del 1 de octubre, pero algunos no aparecen en ellas.
+<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> ya no desmonta a su objetivo, según los archivos de la nueva build de World of Warcraft: Forever. Cada hechizo se comparó con la build anterior. La mayoría de los cambios coinciden con las notas de clase del 1 de octubre, pero algunos no aparecen en ellas.
 
 Blizzard no ha confirmado los cambios de abajo que no están en sus notas. Las descripciones extraídas por datamining también pueden cambiar antes de llegar al juego.
 

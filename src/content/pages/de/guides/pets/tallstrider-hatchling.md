@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Tallstrider Hatchling in WoW Forever?"
-    a: "Es fällt von Strider Clutchmother in Darkshore. In den Beutedaten von Wowhead fällt es bei etwa 0,2 % der Kills."
+    a: "Es fällt von Strider Clutchmother in Darkshore. In den Beutedaten fällt es bei etwa 0,2 % der Kills."
   - q: "Ist Tallstrider Hatchling neu in WoW Forever?"
     a: "Ja. Tallstrider Hatchling ist neu in WoW Forever und gab es in Classic nicht."
 sources:
@@ -30,15 +30,15 @@ Tallstrider Hatchling ist ein Haustier, das neu in World of Warcraft: Forever is
 | Wo | Darkshore |
 | Dropchance | 0,2 % |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
-Es fällt von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> in Darkshore. In den Beutedaten von Wowhead fällt es bei etwa 0,2 % der Kills.
+Es fällt von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> in Darkshore. In den Beutedaten fällt es bei etwa 0,2 % der Kills.
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

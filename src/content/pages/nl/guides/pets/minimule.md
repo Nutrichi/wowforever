@@ -30,7 +30,7 @@ Minimule is een companion pet die nieuw is in World of Warcraft: Forever. Je lee
 | Waar | Redridge Mountains en The Barrens |
 | Prijs | 1.500 Merchant's Favor |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
@@ -42,7 +42,7 @@ Merchant's Favor is de munt van de twee bevoorradingsfacties van WoW Forever: de
 
 ## Goed om te weten
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

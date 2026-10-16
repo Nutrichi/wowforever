@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Crimson Whelpling in WoW Forever?"
-    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead: Flamesnorting Whelp in Wetlands, ongeveer 0,5% Crimson Whelp in Wetlands, ongeveer 0,3% Red Whelp in Wetlands, ongeveer 0,2%"
+    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens: Flamesnorting Whelp in Wetlands, ongeveer 0,5% Crimson Whelp in Wetlands, ongeveer 0,3% Red Whelp in Wetlands, ongeveer 0,2%"
   - q: "Is Crimson Whelpling nieuw in WoW Forever?"
     a: "Nee. Crimson Whelpling zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Crimson Whelpling is een companion pet uit Classic die terugkomt in World of War
 | Waar | Wetlands |
 | Dropkans | 0,5% |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
-Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead:
+Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> in Wetlands, ongeveer 0,5%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1069">Crimson Whelp</a> in Wetlands, ongeveer 0,3%
@@ -44,7 +44,7 @@ Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van
 
 Het item leert je nu de pet: hij wordt een spell en neemt geen plaats meer in je tassen. Oproepen gaat meteen in plaats van met een cast van 1 seconde, met een cooldown van 1,5 seconden.
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

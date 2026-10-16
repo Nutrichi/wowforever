@@ -44,7 +44,7 @@ Most of the reputation comes from killing centaurs of the Gelkis clan in Desolac
 
 ### The quest chain
 
-From Friendly on, Warug, on the outskirts of Magram Village in the southeast of Desolace, opens a chain: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka and Khan Hratha. Magram Alliance gives 100 reputation with the Magram and costs 500 with the Gelkis, says Wowhead. Warug also sends you after the Kolkar and the Maraudine, writes Warcraft Wiki.
+From Friendly on, Warug, on the outskirts of Magram Village in the southeast of Desolace, opens a chain: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka and Khan Hratha. Magram Alliance gives 100 reputation with the Magram and costs 500 with the Gelkis. Warug also sends you after the Kolkar and the Maraudine, writes Warcraft Wiki.
 
 ### Where it stops
 

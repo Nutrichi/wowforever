@@ -30,7 +30,7 @@ Panda Cub è una mascotte da compagnia di Classic che torna in World of Warcraft
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281166"><img class="wf-wh__icon" src="/wh/inv_pandacub_c60_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Panda Collar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13583"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Panda Collar</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=180089"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Panda Collar</a> |
 | Fonte | Edizione: Skyborne Epic Pack, Warcraft Forever Collection |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -44,7 +44,7 @@ Nei file c'è un secondo oggetto per la stessa mascotte, <a class="wf-wh wf-q1" 
 
 Ora l'oggetto insegna la mascotte: diventa un incantesimo e non occupa più spazio nelle borse. Evocarla è istantaneo invece di un lancio di 1 secondo, con un tempo di recupero di 1,5 secondi.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

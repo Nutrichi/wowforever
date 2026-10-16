@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Pet Stone en WoW Forever?"
-    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín de Wowhead: The Giant en Feralas Enraged Mountain Giant en Feralas"
+    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín: The Giant en Feralas Enraged Mountain Giant en Feralas"
   - q: "¿Es Pet Stone nueva en WoW Forever?"
     a: "No. Pet Stone ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -29,11 +29,11 @@ Pet Stone es una mascota de compañía de Classic que vuelve en World of Warcraf
 | Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (y 1 más) |
 | Dónde | Feralas |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín de Wowhead:
+La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> en Feralas
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221373">Enraged Mountain Giant</a> en Feralas
@@ -42,7 +42,7 @@ La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de 
 
 Ahora el objeto enseña la mascota: se convierte en un hechizo y ya no ocupa sitio en las bolsas.
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas del mismo origen
 

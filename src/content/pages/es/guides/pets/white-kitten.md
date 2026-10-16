@@ -30,7 +30,7 @@ White Kitten es una mascota de compañía de Classic que vuelve en World of Warc
 | Dónde | Stonetalon Mountains y Stormwind City |
 | Precio | 60 de plata |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
@@ -42,7 +42,7 @@ White Kitten es una mascota de compañía de Classic que vuelve en World of Warc
 
 Ahora el objeto enseña la mascota: se convierte en un hechizo y ya no ocupa sitio en las bolsas. Invocarla es instantáneo en lugar de un lanzamiento de 1 segundo, con un tiempo de reutilización de 1,5 segundos.
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas en Stonetalon Mountains y Stormwind City
 

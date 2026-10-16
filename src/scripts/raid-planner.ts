@@ -170,13 +170,14 @@ function start(root: HTMLElement, payload: Payload) {
       li.dataset.status = idle ? 'na' : line.status;
       const meta = li.querySelector<HTMLElement>('[data-meta]')!;
       if (idle || line.status === 'na') meta.textContent = '';
+      else if (line.busy) meta.textContent = s('oneTotem');
       else if (line.providers === 0) meta.textContent = s('nobody');
       else if (d.blessings.includes(line.id)) meta.textContent = s('coverage', { n: line.recipients, m: line.eligible });
       else meta.textContent = line.providers === 1 ? s('providerOne') : s('providerMany', { n: line.providers });
     }
     const note = root.querySelector<HTMLElement>('[data-blessings]')!;
     note.textContent = idle ? '' : result.paladins === 0 ? s('noPaladin')
-      : result.paladins === 1 ? s('blessingsOne') : s('blessingsMany', { n: Math.min(result.paladins, 4) });
+      : result.paladins === 1 ? s('blessingsOne') : s('blessingsMany', { n: Math.min(result.paladins, d.blessings.length) });
 
     for (const entry of d.boss) {
       const li = root.querySelector<HTMLElement>(`[data-boss="${entry.id}"]`);

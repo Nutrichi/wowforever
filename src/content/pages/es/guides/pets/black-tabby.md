@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Black Tabby en WoW Forever?"
-    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín de Wowhead: Dalaran Shield Guard en Alterac Mountains, cerca del 0,2% Dalaran Summoner en Alterac Mountains, cerca del 0,1% Dalaran Theurgist en Alterac Mountains, cerca del 0,1%"
+    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín: Dalaran Shield Guard en Alterac Mountains, cerca del 0,2% Dalaran Summoner en Alterac Mountains, cerca del 0,1% Dalaran Theurgist en Alterac Mountains, cerca del 0,1%"
   - q: "¿Es Black Tabby nueva en WoW Forever?"
     a: "No. Black Tabby ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Black Tabby es una mascota de compañía de Classic que vuelve en World of Warcr
 | Dónde | Alterac Mountains y Silverpine Forest |
 | Probabilidad | 0,2% |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín de Wowhead:
+La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2271">Dalaran Shield Guard</a> en Alterac Mountains, cerca del 0,2%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2358">Dalaran Summoner</a> en Alterac Mountains, cerca del 0,1%
@@ -44,7 +44,7 @@ La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de 
 
 Ahora el objeto enseña la mascota: se convierte en un hechizo y ya no ocupa sitio en las bolsas. Invocarla es instantáneo en lugar de un lanzamiento de 1 segundo, con un tiempo de reutilización de 1,5 segundos.
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas del mismo origen
 

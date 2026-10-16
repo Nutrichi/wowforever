@@ -23,7 +23,7 @@ Die Änderung steht in den Notes des Beta-Builds vom 1. Oktober:
 
 ## Was die Zauberstäbe früher wert waren
 
-Die alten Preise stammen aus den Dateien des vorigen Builds, 70124. Neben Essenzen und Staub aus dem Entzaubern braucht jeder Zauberstab Holz vom Händler: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> für etwa 40 Copper oder <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> für etwa 45 Silver, laut Wowhead.
+Die alten Preise stammen aus den Dateien des vorigen Builds, 70124. Neben Essenzen und Staub aus dem Entzaubern braucht jeder Zauberstab Holz vom Händler: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> für etwa 40 Copper oder <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> für etwa 45 Silver.
 
 | Zauberstab | Alter Preis | Jetzt | Materialien |
 |---|---|---|---|
@@ -34,4 +34,4 @@ Die alten Preise stammen aus den Dateien des vorigen Builds, 70124. Neben Essenz
 
 Wer die grünen Gegenstände, die er ohnehin fand, entzauberte, bekam die Essenzen umsonst. Zauberstäbe zu verkaufen war dann ein leichter Weg zu Silver. Das ist vorbei: Die Zauberstäbe sind nur noch zum Benutzen etwas wert, beim Leveln oder als Ausrüstung.
 
-Der Lesser Mystic Wand verkaufte sich schon für weniger, als seine Materialien kosteten, schreibt Wowhead. Bei den anderen drei zahlte der Händler mehr als das Holz.
+Der Lesser Mystic Wand verkaufte sich schon für weniger, als seine Materialien kosteten. Bei den anderen drei zahlte der Händler mehr als das Holz.

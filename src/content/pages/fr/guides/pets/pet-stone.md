@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Pet Stone dans WoW Forever ?"
-    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin de Wowhead : The Giant à Feralas Enraged Mountain Giant à Feralas"
+    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin : The Giant à Feralas Enraged Mountain Giant à Feralas"
   - q: "Pet Stone est-elle nouvelle dans WoW Forever ?"
     a: "Non. Pet Stone existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -29,11 +29,11 @@ Pet Stone est une mascotte de compagnie de Classic qui revient dans World of War
 | Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (et 1 autres) |
 | Où | Feralas |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
-Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin de Wowhead :
+Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin :
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> à Feralas
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221373">Enraged Mountain Giant</a> à Feralas
@@ -42,7 +42,7 @@ Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les d
 
 L'objet apprend désormais la mascotte : elle devient un sort et ne prend plus de place dans les sacs.
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

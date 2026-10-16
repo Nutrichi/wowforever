@@ -28,7 +28,7 @@ Sprite Darter Hatchling est une mascotte de compagnie de Classic qui revient dan
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11474"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sprite Darter Egg</a> |
 | Source | Quête: <a href="https://www.wowhead.com/forever/quest=4298">Becoming a Parent</a> |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
@@ -38,7 +38,7 @@ Le Sprite Darter Egg est aussi vendu à l'hôtel des ventes du marché noir, par
 
 ## Ce qui a changé depuis Classic
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

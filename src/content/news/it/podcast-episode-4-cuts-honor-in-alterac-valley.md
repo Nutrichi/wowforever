@@ -61,7 +61,7 @@ Un regolamento RP-PvP non è previsto. Il reame RP-PvP di Season of Discovery ha
 
 > We don't have any plans right now. We don't have anything really to report, but we're very carefully considering the feedback. We're looking at it. We're reading it.
 
-Niente impedirà a un livello 60 di campeggiare i livelli bassi su un reame PvP, a meno che non sia un imbroglio o un exploit. Dove Blizzard attiva il PvP per un evento nel mondo, può aggiungere aiuti, come una breve immunità dopo una resurrezione.
+Niente impedirà a un livello 60 di campeggiare i livelli bassi su un reame PvP, a meno che non sia un imbroglio o un exploit. Una protezione come quella dei reami Titan Reforged in Cina [non arriverà](/it/news/no-protection-for-low-levels-on-pvp-realms/). Dove Blizzard attiva il PvP per un evento nel mondo, può aggiungere aiuti, come una breve immunità dopo una resurrezione.
 
 ## Grandi scontri nel mondo aperto
 

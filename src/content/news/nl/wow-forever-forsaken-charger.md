@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard toonde de Forsaken Charger tijdens het World of Warcraft: Forever-panel Found Photographs. Het is de mount van de Forsaken Paladin, de nieuwe combinatie van ras en class in Forever. Forsaken Paladins krijgen op level 60 een eigen epic mount quest.
 
-Elk ras met Paladins heeft zijn eigen Charger, en de Forsaken vormen daarop geen uitzondering, schrijft Wowhead.
+Elk ras met Paladins heeft zijn eigen Charger, en de Forsaken vormen daarop geen uitzondering.
 
 Het pad van de Forsaken Paladin volgt de nieuwe Warcraft III-campagne Forsaken Kingdom. Het begint op een moment waarop deze voormalige paladins nog gewantrouwd worden door de andere Forsaken en nog leren wat het betekent om het Light te dragen in de ondood, zegt Blizzard.
 

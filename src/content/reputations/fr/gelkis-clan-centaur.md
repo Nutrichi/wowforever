@@ -45,7 +45,7 @@ L'essentiel vient des centaures du clan Magram, en Desolace. Warcraft Wiki compt
 
 ### La chaîne de quêtes
 
-Dès Friendly, Uthek the Wise, en bordure des camps gelkis dans le sud-ouest de Desolace, ouvre une chaîne : Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn et Khan Hratha. Strange Alliance et Gelkis Alliance donnent chacune 100 de réputation chez les Gelkis et coûtent 500 chez les Magram, indique Wowhead.
+Dès Friendly, Uthek the Wise, en bordure des camps gelkis dans le sud-ouest de Desolace, ouvre une chaîne : Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn et Khan Hratha. Strange Alliance et Gelkis Alliance donnent chacune 100 de réputation chez les Gelkis et coûtent 500 chez les Magram.
 
 ### Où cela s'arrête
 

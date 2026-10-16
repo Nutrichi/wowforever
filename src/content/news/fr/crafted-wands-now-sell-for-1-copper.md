@@ -23,7 +23,7 @@ Le changement figure dans les notes de la build de la bêta du 1er octobre :
 
 ## Ce que valaient les baguettes
 
-Les anciens prix viennent des fichiers de la build précédente, 70124. En plus des essences et de la poussière du désenchantement, chaque baguette demande du bois d’un marchand : <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> pour environ 40 copper ou <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> pour environ 45 silver, selon Wowhead.
+Les anciens prix viennent des fichiers de la build précédente, 70124. En plus des essences et de la poussière du désenchantement, chaque baguette demande du bois d’un marchand : <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> pour environ 40 copper ou <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> pour environ 45 silver.
 
 | Baguette | Ancien prix | Maintenant | Composants |
 |---|---|---|---|
@@ -34,4 +34,4 @@ Les anciens prix viennent des fichiers de la build précédente, 70124. En plus 
 
 Qui désenchantait les objets verts trouvés de toute façon recevait les essences gratuitement. Vendre des baguettes était alors un moyen facile de gagner du silver. C’est fini : les baguettes ne valent plus que pour être utilisées, pendant le leveling ou comme équipement.
 
-La Lesser Mystic Wand se vendait déjà moins cher que ses composants, écrit Wowhead. Pour les trois autres, le marchand payait plus que le bois.
+La Lesser Mystic Wand se vendait déjà moins cher que ses composants. Pour les trois autres, le marchand payait plus que le bois.

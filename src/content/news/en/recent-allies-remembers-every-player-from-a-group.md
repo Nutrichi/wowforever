@@ -13,11 +13,11 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever keeps a list of every player a character has grouped with. The Recent Allies pane sits next to the Friends List and saves name, level, class, place and activity. Wowhead showed it from the beta.
+World of Warcraft: Forever keeps a list of every player a character has grouped with. The Recent Allies pane sits next to the Friends List and saves name, level, class, place and activity. It is already in the beta.
 
 ## What the list saves
 
-Every time a player groups with someone, a record lands in Recent Allies, writes Wowhead. It holds the name, the current level, the class, the place where the two met and what they did together. Players who are online get a button that invites them in one click.
+Every time a player groups with someone, a record lands in Recent Allies. It holds the name, the current level, the class, the place where the two met and what they did together. Players who are online get a button that invites them in one click.
 
 ![The Recent Allies tab of the Friends window with six players, names blacked out, and a tooltip showing level 10, Windshaper Skyborne, Druid, Horde and Fought Together in Zephras Isle](../../../assets/posts/2026-09-25-wow-forever-recent-allies-window.png)
 
@@ -27,10 +27,10 @@ A recent ally can be pinned, so the name always stays at the top of the list. Wh
 
 ![The Recent Allies list with two pinned players at the top, marked with a yellow pin, above a divider line](../../../assets/posts/2026-09-25-wow-forever-recent-allies-pinned.jpg)
 
-How many players the list holds and how long an entry stays, Wowhead does not say.
+How many players the list holds and how long an entry stays, is not known.
 
 ## Part of a social design
 
-Forever leans on playing together, and Blizzard has said in several interviews that friction helps. In [an interview with Game Informer](/news/one-faction-per-player-on-pvp-rulesets/), two leads called running to a dungeon or a long flight path a moment in which players talk to each other. In an interview with Windows Central the team said the same the other way round: remove the friction and the game gets lonelier, writes Wowhead.
+Forever leans on playing together, and Blizzard has said in several interviews that friction helps. In [an interview with Game Informer](/news/one-faction-per-player-on-pvp-rulesets/), two leads called running to a dungeon or a long flight path a moment in which players talk to each other. In an interview with Windows Central the team said the same the other way round: remove the friction and the game gets lonelier.
 
-The missing [shared tagging](/news/aggrend-rules-out-shared-tagging/) fits that picture. Only the first player or group to hit a mob gets the kill, and that pushes players into groups. Wowhead sees Recent Allies as the next step: whoever groups up for a camped mob or a dungeon ends up with a list of names to look up later.
+The missing [shared tagging](/news/aggrend-rules-out-shared-tagging/) fits that picture. Only the first player or group to hit a mob gets the kill, and that pushes players into groups. Recent Allies looks like the next step: whoever groups up for a camped mob or a dungeon ends up with a list of names to look up later.

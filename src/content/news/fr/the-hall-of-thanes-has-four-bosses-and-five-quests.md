@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-The Hall of Thanes est le premier nouveau donjon que la plupart des joueurs de l’Alliance croiseront dans World of Warcraft: Forever. Il se trouve dans Old Ironforge, pour les niveaux 13 à 18. Wowhead a publié un guide de ses quatre boss et cinq quêtes.
+The Hall of Thanes est le premier nouveau donjon que la plupart des joueurs de l’Alliance croiseront dans World of Warcraft: Forever. Il se trouve dans Old Ironforge, pour les niveaux 13 à 18. Voici ses quatre boss et cinq quêtes.
 
 <figure class="wf-embed" data-wf-video="c5PJmoBKcKc">
   <button type="button" class="wf-embed__play">
@@ -25,17 +25,17 @@ The Hall of Thanes est le premier nouveau donjon que la plupart des joueurs de l
   </button>
 </figure>
 
-Le guide est signé Jurdi, qui écrit sur les Paladins pour Wowhead et a tanké le donjon sur la bêta. Les sept premières minutes de sa vidéo expliquent le donjon, le reste montre un passage complet. Le boss final est niveau 16, donc un groupe qui entre au niveau 13 passe un moment difficile.
+Le guide est signé Jurdi, spécialiste des Paladins qui a tanké le donjon sur la bêta. Les sept premières minutes de sa vidéo expliquent le donjon, le reste montre un passage complet. Le boss final est niveau 16, donc un groupe qui entre au niveau 13 passe un moment difficile.
 
 ## Où il se trouve
 
-La porte d’Old Ironforge est à gauche juste après l’entrée du High Seat, écrit Wowhead. Un chemin descend jusqu’au portail. Le Hall est le lieu de repos des grands Dwarves des Eastern Kingdoms, et les Dark Iron Dwarves y sont entrés avec leurs foreuses.
+La porte d’Old Ironforge est à gauche juste après l’entrée du High Seat. Un chemin descend jusqu’au portail. Le Hall est le lieu de repos des grands Dwarves des Eastern Kingdoms, et les Dark Iron Dwarves y sont entrés avec leurs foreuses.
 
 Le donjon est le [pendant de Ragefire Chasm pour l’Alliance](/fr/news/one-faction-per-player-on-pvp-rulesets/). La Horde peut y entrer, mais le trajet est long : de Tarren Mill par les Arathi Highlands, les Wetlands et Loch Modan jusqu’à Dun Morogh, puis devant les gardes d’Ironforge. Aucune route plus rapide n’a été trouvée. Après un wipe, le Spirit Healer est proche, juste à la sortie de la ville.
 
 ## Cinq quêtes
 
-Deux quêtes commencent juste devant le donjon, deux à l’intérieur, et la cinquième débute à Dun Morogh. Chacune rapporte entre 3 900 et 4 900 points d’expérience, écrit Wowhead. Les monstres à l’intérieur rapportent très peu : Jurdi a vu 28 à 30 points par kill.
+Deux quêtes commencent juste devant le donjon, deux à l’intérieur, et la cinquième débute à Dun Morogh. Chacune rapporte entre 3 900 et 4 900 points d’expérience. Les monstres à l’intérieur rapportent très peu : Jurdi a vu 28 à 30 points par kill.
 
 - **Important Heirlooms**, de Thom Filch dans Old Ironforge : rassemblez 8 Dwarven Heirlooms. Ils apparaissent après le premier boss, et les coffres de la dernière salle, le Reliquary of Kings, en contiennent assez pour tout le groupe.
 - **The Restless Dead**, d’Afadra Dunwall dans Old Ironforge : nettoyez les esprits de la première partie du donjon.
@@ -54,7 +54,7 @@ Chaque quête pas à pas, avec les coordonnées de la chaîne de Dun Morogh, se 
 | Dwarven Tome | Main gauche | Important Heirlooms |
 | Catacomb Cloak | Cape | An Ancient Grudge |
 
-Qui peut prendre ces quêtes n’est pas clair. L’article de Wowhead les dit toutes les cinq réservées à l’Alliance. Le guide du donjon sur le même site fait une exception pour Important Heirlooms et An Ancient Grudge.
+Qui peut prendre ces quêtes n’est pas clair. Une source les dit toutes les cinq réservées à l’Alliance. Une autre fait une exception pour Important Heirlooms et An Ancient Grudge.
 
 ## Quatre boss
 
@@ -68,7 +68,7 @@ Qui peut prendre ces quêtes n’est pas clair. L’article de Wowhead les dit t
 
 ## Le trash frappe fort
 
-La première partie du donjon est facile, écrit Wowhead. Le côté des Dark Irons ne l’est pas. Les Looters attaquent vite à la dague, les Engineers lancent des bombes sur une zone qu’on peut esquiver, et les Summoners lancent Fireball et invoquent un Fiery Assistant. Attirez les Summoners derrière un pilier, hors de vue, pour qu’ils doivent se rapprocher.
+La première partie du donjon est facile. Le côté des Dark Irons ne l’est pas. Les Looters attaquent vite à la dague, les Engineers lancent des bombes sur une zone qu’on peut esquiver, et les Summoners lancent Fireball et invoquent un Fiery Assistant. Attirez les Summoners derrière un pilier, hors de vue, pour qu’ils doivent se rapprocher.
 
 Les Lesser Stone Golems frappent le plus fort et se déplacent vite. Le dernier pack avant le boss final réunit un Summoner, un Looter et un Golem. Le contrôle de foule comme Polymorph aide, et les étourdissements comme Hammer of Justice aussi. Les soigneurs génèrent beaucoup de menace à ces niveaux, dit Jurdi.
 

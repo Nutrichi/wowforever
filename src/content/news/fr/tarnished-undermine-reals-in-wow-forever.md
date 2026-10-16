@@ -13,12 +13,12 @@ featured: false
 draft: false
 manual: true
 ---
-Les Tarnished Undermine Reals arrivent dans World of Warcraft: Forever. Le développeur Josh Greenfield l'a annoncé pendant le Q&A en direct du 17 septembre, écrit Wowhead. La monnaie vient de Season of Discovery. Comment les joueurs l'obtiennent, Blizzard ne le dit pas.
+Les Tarnished Undermine Reals arrivent dans World of Warcraft: Forever. Le développeur Josh Greenfield l'a annoncé pendant le Q&A en direct du 17 septembre. La monnaie vient de Season of Discovery. Comment les joueurs l'obtiennent, Blizzard ne le dit pas.
 
-Dans Season of Discovery, la monnaie tombait dans divers dungeons, écrit Wowhead. Les joueurs y achetaient du gear, des toys, des patterns, des reagents et plus encore.
+Dans Season of Discovery, la monnaie tombait dans divers dungeons. Les joueurs y achetaient du gear, des toys, des patterns, des reagents et plus encore.
 
-Pour ceux qui ont sauté Season of Discovery, Wowhead la compare aux Badges of Justice de The Burning Crusade Classic Anniversary.
+Pour ceux qui ont sauté Season of Discovery, elle se compare aux Badges of Justice de The Burning Crusade Classic Anniversary.
 
-La façon de l'obtenir dans Forever reste floue. À en juger par Season of Discovery, elle pourrait venir des dungeons de fin de leveling et d'avant-raid, écrit Wowhead, mais c'est une supposition et pas une annonce.
+La façon de l'obtenir dans Forever reste floue. À en juger par Season of Discovery, elle pourrait venir des dungeons de fin de leveling et d'avant-raid, mais c'est une supposition et pas une annonce.
 
 Ce que les joueurs achètent avec dans Forever, et chez quel vendeur, Blizzard ne le dit pas non plus. Josh Greenfield, connu sous le nom d'Aggrend, a donné la nouvelle dans le même Q&A, après lequel [la bêta a ouvert](/fr/news/wow-forever-beta-is-live/).

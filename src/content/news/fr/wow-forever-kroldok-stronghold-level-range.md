@@ -27,4 +27,4 @@ Krol'dok Stronghold est un donjon pour les niveaux 40 à 45 dans World of Warcra
 | Blackmaw Hold | 55 à 60 |
 | Shaper's Terrace | 58 à 60 |
 
-La liste couvre les donjons présents au lancement, écrit Wowhead. Si d'autres suivent ensuite, Blizzard ne le dit pas.
+La liste couvre les donjons présents au lancement. Si d'autres suivent ensuite, Blizzard ne le dit pas.

@@ -20,6 +20,6 @@ The beta had just come back with the [level 30 build](/news/the-beta-level-cap-r
 >
 > We will continue to work to fix this as swiftly as possible.
 
-Some players got in by simply waiting, writes Wowhead. In the forum thread, the first testers reported around 02.38 Belgian time that they could log in again, one of them "over an hour later".
+Some players got in by simply waiting. In the forum thread, the first testers reported around 02.38 Belgian time that they could log in again, one of them "over an hour later".
 
 Blizzard did not post that the problem was fixed, and did not say what caused it.

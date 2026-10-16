@@ -27,17 +27,17 @@ Blizzard behandelt Forever und das moderne WoW als zwei Game Types in derselben 
 
 ## Was sich für Addons ändert
 
-Das Addon Disarmament aus Midnight dreht sich um Secret Values. Das Spiel verbirgt Informationen, die Addons vorher auslesen konnten, damit ein Addon keinen Vorsprung mehr gibt, schreibt Wowhead.
+Das Addon Disarmament aus Midnight dreht sich um Secret Values. Das Spiel verbirgt Informationen, die Addons vorher auslesen konnten, damit ein Addon keinen Vorsprung mehr gibt.
 
-Dieses Ziel wurde während der Beta von Midnight stark kritisiert, und Spieler finden weiter Umwege, schreibt Wowhead. Blizzard geht sie einzeln an und hat auch die eigene Oberfläche verbessert.
+Dieses Ziel wurde während der Beta von Midnight stark kritisiert, und Spieler finden weiter Umwege. Blizzard geht sie einzeln an und hat auch die eigene Oberfläche verbessert.
 
 Die Änderungen an AuraContainer und AuraButton aus Patch 12.1.0 kommen ebenfalls mit. Blizzard sagt, Spieler dürfen spätere Änderungen an der Oberfläche in beiden Game Types erwarten.
 
-Addons, die für WoW Classic geschrieben wurden, müssen wahrscheinlich neu gebaut werden, und Addons aus Midnight lassen sich leichter übertragen, schreibt Wowhead.
+Addons, die für WoW Classic geschrieben wurden, müssen wahrscheinlich neu gebaut werden, und Addons aus Midnight lassen sich leichter übertragen.
 
 ## Die Reaktion
 
-WeakAuras stellte die Entwicklung vor Midnight ein, und fast jedes Addon musste für die neue Oberfläche aktualisiert werden, schreibt Wowhead. Das Konto von WeakAuras veröffentlichte die Ankündigung am 15. September auf X.
+WeakAuras stellte die Entwicklung vor Midnight ein, und fast jedes Addon musste für die neue Oberfläche aktualisiert werden. Das Konto von WeakAuras veröffentlichte die Ankündigung am 15. September auf X.
 
 Der Spieler Luckyone961 fasste sie dort einen Tag später zusammen.
 

@@ -1,6 +1,6 @@
 ---
 title: "Spearing Strike non disarciona più, secondo i dati"
-description: "Wowhead ha confrontato gli incantesimi della build di WoW Forever del 1° ottobre con quella precedente. I dati confermano le note delle classi e mostrano alcune modifiche che Blizzard non ha elencato, per Warrior e Druid Feral."
+description: "Gli incantesimi della build di WoW Forever del 1° ottobre, confrontati con quella precedente. I dati confermano le note delle classi e mostrano alcune modifiche che Blizzard non ha elencato, per Warrior e Druid Feral."
 date: 2026-10-02T12:20:00+02:00
 category: forever
 lang: it
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> non fa più scendere il bersaglio dalla cavalcatura, secondo i file della nuova build della beta di World of Warcraft: Forever. Wowhead ha confrontato ogni incantesimo con la build precedente. Quasi tutte le modifiche corrispondono alle note delle classi del 1° ottobre, ma alcune mancano.
+<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310222"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearing Strike</a> non fa più scendere il bersaglio dalla cavalcatura, secondo i file della nuova build della beta di World of Warcraft: Forever. Ogni incantesimo è stato confrontato con la build precedente. Quasi tutte le modifiche corrispondono alle note delle classi del 1° ottobre, ma alcune mancano.
 
 Blizzard non ha confermato le modifiche qui sotto che non sono nelle sue note. I tooltip estratti col datamining possono anche cambiare ancora prima di arrivare in gioco.
 

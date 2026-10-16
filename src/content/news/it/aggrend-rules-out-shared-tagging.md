@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Lo shared tagging non arriverà in World of Warcraft: Forever. Il Senior Game Designer Josh Greenfield, noto come Aggrend, dice che il team deve tenere quella linea. Lo ha scritto il 20 settembre in una risposta su X, ripresa da Wowhead.
+Lo shared tagging non arriverà in World of Warcraft: Forever. Il Senior Game Designer Josh Greenfield, noto come Aggrend, dice che il team deve tenere quella linea. Lo ha scritto il 20 settembre in una risposta su X.
 
 ## Che cosa ha scritto Aggrend
 
@@ -23,16 +23,16 @@ Quali siano quelle altre cose, non lo dice. Sotto la sua risposta ci sono più d
 
 ## Il primo colpo prende il mob
 
-Forever tiene la regola di Classic. Il primo giocatore o gruppo che colpisce ha il mob, e la kill e il loot vanno con lui. Lo shared tagging è la versione che i giocatori di Retail conoscono, scrive Wowhead: chiunque faccia danno conta. Blizzard non ha intenzione di portare Forever a quel modello.
+Forever tiene la regola di Classic. Il primo giocatore o gruppo che colpisce ha il mob, e la kill e il loot vanno con lui. Lo shared tagging è la versione che i giocatori di Retail conoscono: chiunque faccia danno conta. Blizzard non ha intenzione di portare Forever a quel modello.
 
 ## La beta è affollata
 
-La beta ha aperto il 17 settembre ed è una delle più grandi che Blizzard abbia mai fatto, scrive Wowhead. Quasi ogni mob di missione è occupato, e anche con la nuova tecnologia di phasing i giocatori si contendono duramente i tag. Un refresh di zona porta i giocatori in una copia nuova della stessa area e [avvisa cinque minuti prima](/it/news/phasing-warning-before-a-zone-refresh/).
+La beta ha aperto il 17 settembre ed è una delle più grandi che Blizzard abbia mai fatto. Quasi ogni mob di missione è occupato, e anche con la nuova tecnologia di phasing i giocatori si contendono duramente i tag. Un refresh di zona porta i giocatori in una copia nuova della stessa area e [avvisa cinque minuti prima](/it/news/phasing-warning-before-a-zone-refresh/).
 
 ![I Barrens in pieno giorno con acacie e una torre di guardia, immagine ufficiale di World of Warcraft: Forever](../../../assets/posts/2026-09-17-wow-forever-the-barrens.jpg)
 
 ## Perché l'attrito resta
 
-Il gioco sociale guida la maggior parte di ciò che il team decide, scrive Wowhead, quindi l'attrito che fa parlare i giocatori tra loro vale la pena di essere tenuto. Troppo facile e la gente smette di interagire, troppo difficile e smette di divertirsi.
+Il gioco sociale guida la maggior parte di ciò che il team decide, quindi l'attrito che fa parlare i giocatori tra loro vale la pena di essere tenuto. Troppo facile e la gente smette di interagire, troppo difficile e smette di divertirsi.
 
 Blizzard aveva tracciato la stessa linea prima, il 20 settembre. In un'intervista con Game Informer, due lead hanno descritto [un volo lungo](/it/news/one-faction-per-player-on-pvp-rulesets/) come un momento in cui un giocatore risponde a una domanda nella general chat.

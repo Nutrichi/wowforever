@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Crimson Whelpling in WoW Forever?"
-    a: "Es fällt von mehreren Monstern. Diese haben in den Beutedaten von Wowhead die beste Chance: Flamesnorting Whelp in Wetlands, etwa 0,5 % Crimson Whelp in Wetlands, etwa 0,3 % Red Whelp in Wetlands, etwa 0,2 %"
+    a: "Es fällt von mehreren Monstern. Diese haben in den Beutedaten die beste Chance: Flamesnorting Whelp in Wetlands, etwa 0,5 % Crimson Whelp in Wetlands, etwa 0,3 % Red Whelp in Wetlands, etwa 0,2 %"
   - q: "Ist Crimson Whelpling neu in WoW Forever?"
     a: "Nein. Crimson Whelpling gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -30,11 +30,11 @@ Crimson Whelpling ist ein Haustier aus Classic, das in World of Warcraft: Foreve
 | Wo | Wetlands |
 | Dropchance | 0,5 % |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
-Es fällt von mehreren Monstern. Diese haben in den Beutedaten von Wowhead die beste Chance:
+Es fällt von mehreren Monstern. Diese haben in den Beutedaten die beste Chance:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> in Wetlands, etwa 0,5 %
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1069">Crimson Whelp</a> in Wetlands, etwa 0,3 %
@@ -44,7 +44,7 @@ Es fällt von mehreren Monstern. Diese haben in den Beutedaten von Wowhead die b
 
 Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen. Das Herbeirufen ist sofort statt mit 1 Sekunde Zauberzeit, mit einer Abklingzeit von 1,5 Sekunden.
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

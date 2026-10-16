@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Pet Fish en WoW Forever?"
-    a: "La suelta Dreamwater Vicejaw en The Hinterlands. En los datos de botín de Wowhead cae en cerca del 0,1% de las muertes."
+    a: "La suelta Dreamwater Vicejaw en The Hinterlands. En los datos de botín cae en cerca del 0,1% de las muertes."
   - q: "¿Es Pet Fish nueva en WoW Forever?"
     a: "No. Pet Fish ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -30,17 +30,17 @@ Pet Fish es una mascota de compañía de Classic que vuelve en World of Warcraft
 | Dónde | The Hinterlands |
 | Probabilidad | 0,1% |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-La suelta <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> en The Hinterlands. En los datos de botín de Wowhead cae en cerca del 0,1% de las muertes.
+La suelta <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> en The Hinterlands. En los datos de botín cae en cerca del 0,1% de las muertes.
 
 ## Qué cambió desde Classic
 
 Ahora el objeto enseña la mascota: se convierte en un hechizo y ya no ocupa sitio en las bolsas.
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas del mismo origen
 

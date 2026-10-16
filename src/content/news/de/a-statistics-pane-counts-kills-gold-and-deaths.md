@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Das Statistics-Fenster funktioniert in der WoW-Forever-Beta. Im ersten Build blieb es leer, der aktuelle füllt es mit rund zweihundert Zahlen pro Charakter, schreibt Wowhead. Sie reichen von der Gesamtzahl der Kills und dem ausgegebenen Gold bis zu Toden durch Hogger.
+Das Statistics-Fenster funktioniert in der WoW-Forever-Beta. Im ersten Build blieb es leer, der aktuelle füllt es mit rund zweihundert Zahlen pro Charakter. Sie reichen von der Gesamtzahl der Kills und dem ausgegebenen Gold bis zu Toden durch Hogger.
 
 ## Wo es sich findet
 
@@ -21,7 +21,7 @@ Das Fenster sitzt im Charakterfenster. Öffne es mit C, der Standardtaste, und k
 
 ## Was es zählt
 
-Wowhead hat die vollständige Liste veröffentlicht. Eine Auswahl:
+Eine Auswahl aus der vollständigen Liste:
 
 - **Kampf:** der größte ausgeteilte und erlittene Treffer, die größte Heilung, der gesamte Schaden und die gesamte Heilung.
 - **Wohlstand:** Gold aus Quests, von Händlern und aus Auktionen, Gold für Respecs, Reisen, Post und den Barbier, und das meiste Gold, das je im Besitz war.
@@ -35,7 +35,7 @@ PvP hat eigene Blöcke, mit Honorable Kills, Killing Blows und Ergebnissen pro S
 
 ## Bosse aus den neuen Dungeons
 
-Die Kategorie Boss Kills zeigt einen Boss erst, wenn der Charakter ihn mindestens einmal besiegt hat, schreibt Wowhead. Die Liste enthält die klassischen Dungeons, von Edwin VanCleef in den Deadmines bis Baron Rivendare in Stratholme. Sie nennt auch Bosse aus Inhalten, die in Forever neu sind:
+Die Kategorie Boss Kills zeigt einen Boss erst, wenn der Charakter ihn mindestens einmal besiegt hat. Die Liste enthält die klassischen Dungeons, von Edwin VanCleef in den Deadmines bis Baron Rivendare in Stratholme. Sie nennt auch Bosse aus Inhalten, die in Forever neu sind:
 
 - **The Hall of Thanes:** Durgen Dirgehammer
 - **Ruins of Lordaeron:** Rath'mael
@@ -47,4 +47,4 @@ Die Kategorie Boss Kills zeigt einen Boss erst, wenn der Charakter ihn mindesten
 
 Durgen Dirgehammer ist der Endboss der Hall of Thanes, wie [die Komplettlösung](/de/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) zeigt. Rath'mael ist einer von sechs Bossen der Ruins of Lordaeron, die sich in beliebiger Reihenfolge machen lassen, laut [der Komplettlösung](/de/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/). Bei den anderen Namen sagt die Liste nicht, ob es der letzte Boss ist. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold und Blackmaw Hold tauchen nicht auf.
 
-Einige Zeilen verweisen auf spätere Erweiterungen, etwa Inscription, die Dalaran Cooking Awards und tägliche Quests für Cooking und Fishing. Ob sie in Forever etwas bedeuten, sagt Wowhead nicht.
+Einige Zeilen verweisen auf spätere Erweiterungen, etwa Inscription, die Dalaran Cooking Awards und tägliche Quests für Cooking und Fishing. Ob sie in Forever etwas bedeuten, ist nicht bekannt.

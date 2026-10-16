@@ -21,6 +21,6 @@ De beta was net terug met de [build met level 30](/nl/news/the-beta-level-cap-ri
 >
 > We will continue to work to fix this as swiftly as possible.
 
-Sommige spelers kwamen binnen door gewoon te wachten, schrijft Wowhead. In de forumdraad meldden de eerste testers rond 02.38 Belgische tijd dat ze weer konden inloggen, een van hen "meer dan een uur later".
+Sommige spelers kwamen binnen door gewoon te wachten. In de forumdraad meldden de eerste testers rond 02.38 Belgische tijd dat ze weer konden inloggen, een van hen "meer dan een uur later".
 
 Blizzard meldde niet dat het probleem opgelost was, en zei niet wat de oorzaak was.

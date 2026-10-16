@@ -13,11 +13,11 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever houdt een lijst bij van elke speler met wie een personage in een groep zat. Het venster Recent Allies staat naast de Friends List en bewaart naam, level, class, plaats en activiteit. Wowhead toonde het uit de beta.
+World of Warcraft: Forever houdt een lijst bij van elke speler met wie een personage in een groep zat. Het venster Recent Allies staat naast de Friends List en bewaart naam, level, class, plaats en activiteit. Het zit al in de beta.
 
 ## Wat de lijst bewaart
 
-Elke keer dat een speler met iemand in een groep zit, komt er een regel bij in Recent Allies, schrijft Wowhead. Die bewaart de naam, het huidige level, de class, de plaats waar de twee elkaar tegenkwamen en wat ze samen deden. Wie online is, krijgt een knop die hem met één klik uitnodigt.
+Elke keer dat een speler met iemand in een groep zit, komt er een regel bij in Recent Allies. Die bewaart de naam, het huidige level, de class, de plaats waar de twee elkaar tegenkwamen en wat ze samen deden. Wie online is, krijgt een knop die hem met één klik uitnodigt.
 
 ![Het tabblad Recent Allies van het vriendenvenster met zes spelers, de namen zwart gemaakt, en een tooltip met level 10, Windshaper Skyborne, Druid, Horde en Fought Together in Zephras Isle](../../../assets/posts/2026-09-25-wow-forever-recent-allies-window.png)
 
@@ -27,10 +27,10 @@ Een recente bondgenoot is vast te pinnen, zodat de naam altijd bovenaan de lijst
 
 ![De lijst Recent Allies met bovenaan twee vastgepinde spelers, gemarkeerd met een gele punaise, boven een scheidingslijn](../../../assets/posts/2026-09-25-wow-forever-recent-allies-pinned.jpg)
 
-Hoeveel spelers de lijst bewaart en hoe lang een regel blijft staan, schrijft Wowhead niet.
+Hoeveel spelers de lijst bewaart en hoe lang een regel blijft staan, is niet bekend.
 
 ## Deel van een sociaal ontwerp
 
-Forever leunt op samen spelen, en Blizzard zei in meerdere interviews dat wrijving daarbij helpt. In [een interview met Game Informer](/nl/news/one-faction-per-player-on-pvp-rulesets/) noemden twee leads het lopen naar een dungeon of een lange vlucht een moment waarop spelers met elkaar praten. In een interview met Windows Central zei het team hetzelfde omgekeerd: haal de wrijving weg en het spel wordt eenzamer, schrijft Wowhead.
+Forever leunt op samen spelen, en Blizzard zei in meerdere interviews dat wrijving daarbij helpt. In [een interview met Game Informer](/nl/news/one-faction-per-player-on-pvp-rulesets/) noemden twee leads het lopen naar een dungeon of een lange vlucht een moment waarop spelers met elkaar praten. In een interview met Windows Central zei het team hetzelfde omgekeerd: haal de wrijving weg en het spel wordt eenzamer.
 
-Het ontbreken van [shared tagging](/nl/news/aggrend-rules-out-shared-tagging/) past in dat beeld. Alleen de eerste speler of groep die een mob raakt, krijgt de kill, en dat duwt spelers naar een groep. Wowhead ziet Recent Allies als het vervolg daarop: wie groept voor een bezette mob of een dungeon, houdt een lijst namen over om later weer op te zoeken.
+Het ontbreken van [shared tagging](/nl/news/aggrend-rules-out-shared-tagging/) past in dat beeld. Alleen de eerste speler of groep die een mob raakt, krijgt de kill, en dat duwt spelers naar een groep. Recent Allies lijkt het vervolg daarop: wie groept voor een bezette mob of een dungeon, houdt een lijst namen over om later weer op te zoeken.

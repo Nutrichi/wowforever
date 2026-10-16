@@ -31,7 +31,7 @@ Il giocatore scriveva che Forever ha basi fantastiche, e che con lo stile artist
 
 L’immagine mostra l’ingresso di una grotta sotto un enorme albero caduto in un bosco autunnale. Una pietra accanto porta una runa verde, e un furbolg sta all’ingresso. Greenfield non dice dove sia.
 
-Wowhead ci vede Blackmaw Hold, uno dei due dungeon in cima alla scala dei livelli. Blizzard descrive Blackmaw Hold come una grande città di furbolg per i livelli dal 55 al 60, il che si accorda con il furbolg dell’immagine.
+Sembra Blackmaw Hold, uno dei due dungeon in cima alla scala dei livelli. Blizzard descrive Blackmaw Hold come una grande città di furbolg per i livelli dal 55 al 60, il che si accorda con il furbolg dell’immagine.
 
 ## Perché Blackrock Depths è il metro
 

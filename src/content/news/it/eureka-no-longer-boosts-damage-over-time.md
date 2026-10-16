@@ -21,11 +21,11 @@ La nota della build è breve:
 >
 > Eureka! no longer benefits periodic effects at all. Channeled spells do not count as periodics.
 
-Eureka! è un razziale attivo con un tempo di recupero di 2 minuti. Le tue prossime 3 abilità offensive costano il 10% in meno e infliggono il 10% di danni in più. Il primo nerf aveva già ridotto lo sconto sulle risorse, scrive Wowhead.
+Eureka! è un razziale attivo con un tempo di recupero di 2 minuti. Le tue prossime 3 abilità offensive costano il 10% in meno e infliggono il 10% di danni in più. Il primo nerf aveva già ridotto lo sconto sulle risorse.
 
 ## Cosa cambia per classe
 
-Il razziale ha una versione per risorsa. Wowhead ne trova quattro nei dati della build:
+Il razziale ha una versione per risorsa. I dati della build ne contengono quattro:
 
 | Classe | Risorsa | Cosa non conta più |
 |---|---|---|

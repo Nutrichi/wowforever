@@ -28,7 +28,7 @@ Spectral Bear Cub ist ein Haustier, das neu in World of Warcraft: Forever ist. D
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277714"><img class="wf-wh__icon" src="/wh/inv_pet_babyblizzardbear.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spectral Bear Cub</a> |
 | Quelle | Legacy-Belohnung: 25 Punkte |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -38,7 +38,7 @@ Es ist eine Belohnung auf der Legacy-Leiste von WoW Forever. Die Summe der verdi
 
 Der Tooltip in der Beta zeigt noch Platzhaltertext ([DNT] 1), das Haustier ist also noch nicht fertig.
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 
 

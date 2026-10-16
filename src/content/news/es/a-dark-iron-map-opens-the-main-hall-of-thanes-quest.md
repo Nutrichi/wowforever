@@ -30,10 +30,10 @@ Esa misión pide la cabeza de Durgen Dirgehammer, el jefe final. Se entrega a Ki
 - **An Ancient Grudge**, de un Ghostly Attendant en la segunda sala: dar descanso al espíritu de Faldrim Anvilmar, el primer jefe.
 - **The Treaty of Understanding**, de una tablilla tras una puerta de cámara en la sala del jefe final. Solo pide llevar el tratado a Magni Bronzebeard.
 
-Cada misión da entre 3.900 y 4.900 de experiencia, según Wowhead. Wowhead pone tres en el nivel 15 y Old Ironforge Incursion en el nivel 16.
+Cada misión da entre 3.900 y 4.900 de experiencia. Tres están en el nivel 15 y Old Ironforge Incursion en el nivel 16.
 
 ![La tablilla de The Treaty of Understanding en una cámara del Reliquary of Kings, con la ventana de la misión abierta](../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg)
 
 Cada paso, con las coordenadas, las recompensas y siete capturas, está en la [guía de las misiones del Hall of Thanes](/es/guides/dungeons/hall-of-thanes/). Cómo funcionan los cuatro jefes está en [la guía de la mazmorra](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
 
-Si la Horda puede aceptar las misiones sigue sin estar claro. Wowhead se contradice en ese punto entre su artículo de noticias y su guía de la mazmorra.
+Si la Horda puede aceptar las misiones sigue sin estar claro. Las fuentes se contradicen en ese punto.

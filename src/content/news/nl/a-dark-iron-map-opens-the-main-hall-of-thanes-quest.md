@@ -30,10 +30,10 @@ Die quest vraagt het hoofd van Durgen Dirgehammer, de eindbaas. Het gaat naar Ki
 - **An Ancient Grudge**, van een Ghostly Attendant in de tweede kamer: laat de geest van Faldrim Anvilmar, de eerste baas, rusten.
 - **The Treaty of Understanding**, van een tablet achter een kluisdeur in de kamer van de eindbaas. Het vraagt alleen om het verdrag naar Magni Bronzebeard te brengen.
 
-Elke quest geeft tussen 3.900 en 4.900 ervaring, volgens Wowhead. Wowhead zet er drie op level 15 en Old Ironforge Incursion op level 16.
+Elke quest geeft tussen 3.900 en 4.900 ervaring. Drie ervan staan op level 15 en Old Ironforge Incursion op level 16.
 
 ![Het tablet van The Treaty of Understanding in een kluis van de Reliquary of Kings, met het questvenster open](../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg)
 
 Elke stap, met de coördinaten, de beloningen en zeven schermafdrukken, staat in de [gids voor de quests van de Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/). Hoe de vier bazen werken, staat in [de walkthrough van de dungeon](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/).
 
-Of de Horde de quests mag aannemen, is nog altijd niet duidelijk. Wowhead spreekt zichzelf daarover tegen tussen zijn nieuwsartikel en zijn dungeongids.
+Of de Horde de quests mag aannemen, is nog altijd niet duidelijk. De bronnen spreken elkaar daarover tegen.

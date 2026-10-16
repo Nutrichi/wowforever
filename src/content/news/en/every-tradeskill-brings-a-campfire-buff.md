@@ -14,7 +14,7 @@ draft: false
 ---
 Camping is one of the new systems in WoW Forever, and every tradeskill feeds it. Each one crafts items that go at a campsite, and anyone who sits there for a minute picks up the buff. You do not need the tradeskill yourself, and you do not need to be in a group.
 
-Wowhead listed the full set from the beta. Blizzard has not published the numbers.
+The full list comes from the beta. Blizzard has not published the numbers.
 
 ## How you get at it
 

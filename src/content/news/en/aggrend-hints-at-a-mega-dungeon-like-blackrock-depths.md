@@ -30,7 +30,7 @@ The player wrote that Forever has an amazing foundation, and that with the right
 
 The image shows a cave entrance under a huge fallen tree in an autumn forest. A standing stone next to it carries a green rune, and a furbolg stands at the entrance. Greenfield says nothing about where it is.
 
-Wowhead reads it as Blackmaw Hold, one of the two dungeons at the top of the level range. Blizzard describes Blackmaw Hold as a large furbolg city for levels 55 to 60, which fits the furbolg in the picture.
+It looks like Blackmaw Hold, one of the two dungeons at the top of the level range. Blizzard describes Blackmaw Hold as a large furbolg city for levels 55 to 60, which fits the furbolg in the picture.
 
 ## Why Blackrock Depths is the measure
 

@@ -8,7 +8,7 @@ lang: it
 manual: true
 faq:
   - q: "Come si ottiene Crimson Whelpling in WoW Forever?"
-    a: "La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dati di bottino di Wowhead: Flamesnorting Whelp a Wetlands, circa il 0,5% Crimson Whelp a Wetlands, circa il 0,3% Red Whelp a Wetlands, circa il 0,2%"
+    a: "La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dati di bottino: Flamesnorting Whelp a Wetlands, circa il 0,5% Crimson Whelp a Wetlands, circa il 0,3% Red Whelp a Wetlands, circa il 0,2%"
   - q: "Crimson Whelpling è nuova in WoW Forever?"
     a: "No. Crimson Whelpling c'era già in Classic e torna in WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Crimson Whelpling è una mascotte da compagnia di Classic che torna in World of 
 | Dove | Wetlands |
 | Probabilità | 0,5% |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
-La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dati di bottino di Wowhead:
+La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dati di bottino:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> a Wetlands, circa il 0,5%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1069">Crimson Whelp</a> a Wetlands, circa il 0,3%
@@ -44,7 +44,7 @@ La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dat
 
 Ora l'oggetto insegna la mascotte: diventa un incantesimo e non occupa più spazio nelle borse. Evocarla è istantaneo invece di un lancio di 1 secondo, con un tempo di recupero di 1,5 secondi.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

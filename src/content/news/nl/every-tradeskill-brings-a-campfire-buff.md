@@ -15,7 +15,7 @@ manual: true
 ---
 Camping is een van de nieuwe systemen in WoW Forever, en elke tradeskill voedt het. Elk maakt items die bij een kampvuur komen te staan, en wie daar een minuut gaat zitten, pikt de buff op. Je hoeft die tradeskill zelf niet te hebben, en je hoeft niet in een groep te zitten.
 
-Wowhead zette de volledige lijst uit de beta op een rij. Blizzard heeft de cijfers niet gepubliceerd.
+De volledige lijst komt uit de beta. Blizzard heeft de cijfers niet gepubliceerd.
 
 ## Hoe je eraan komt
 

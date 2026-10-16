@@ -30,7 +30,7 @@ Prairie Wolf Pup es una mascota de compañía nueva en World of Warcraft: Foreve
 | Dónde | Orgrimmar |
 | Precio | 63 de plata y 15 de cobre |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
@@ -38,7 +38,7 @@ Prairie Wolf Pup es una mascota de compañía nueva en World of Warcraft: Foreve
 
 ## Conviene saber
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas en Orgrimmar
 

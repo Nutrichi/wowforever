@@ -54,7 +54,7 @@ Elke class verandert. Een selectie:
 - **Warlock**: Hellfire kan critten, Soul Harvesting heet nu Soul Harvest, en Aggressive Mode voor pets is terug.
 - **Warrior**: 75% meer Rage uit critical strikes met gewone aanvallen, later die nacht verhoogd tot 100%. Rend en Sunder Armor taggen een vijand meteen.
 
-De Gnome-racial [Eureka! werkt niet meer op periodieke effecten](/nl/news/eureka-no-longer-boosts-damage-over-time/). Wowhead vond ook [wijzigingen in de data die niet in de notes staan](/nl/news/the-data-drops-the-dismount-from-spearing-strike/).
+De Gnome-racial [Eureka! werkt niet meer op periodieke effecten](/nl/news/eureka-no-longer-boosts-damage-over-time/). Er zijn ook [wijzigingen in de data die niet in de notes staan](/nl/news/the-data-drops-the-dismount-from-spearing-strike/).
 
 ## Bekende problemen
 

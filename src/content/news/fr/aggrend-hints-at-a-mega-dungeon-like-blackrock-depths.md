@@ -31,7 +31,7 @@ Le joueur écrivait que Forever a une base formidable, et qu’avec le bon style
 
 L’image montre l’entrée d’une grotte sous un énorme arbre tombé dans une forêt d’automne. Une pierre dressée à côté porte une rune verte, et un furbolg se tient à l’entrée. Greenfield ne dit pas où c’est.
 
-Wowhead y voit Blackmaw Hold, l’un des deux donjons en haut de la plage de niveaux. Blizzard décrit Blackmaw Hold comme une grande cité de furbolgs pour les niveaux 55 à 60, ce qui colle au furbolg de l’image.
+On dirait Blackmaw Hold, l’un des deux donjons en haut de la plage de niveaux. Blizzard décrit Blackmaw Hold comme une grande cité de furbolgs pour les niveaux 55 à 60, ce qui colle au furbolg de l’image.
 
 ## Pourquoi Blackrock Depths sert de mesure
 

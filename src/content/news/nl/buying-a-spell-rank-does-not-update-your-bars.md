@@ -15,7 +15,7 @@ manual: true
 ---
 Een hogere rang van een spell kopen in WoW Forever zet hem niet op je actiebalken. Bij classes die mana uitgeven blijft de oude rang staan en cast die gewoon verder, en dan kost een bezoek aan de trainer goud zonder dat er iets verandert.
 
-Wowhead signaleerde het gedrag op de beta.
+Het gedrag werd op de beta opgemerkt.
 
 ## Wie het treft
 

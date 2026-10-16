@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-The raids that open World of Warcraft: Forever need no attunement. Raids come in fixed sizes of 10, 20 and 40 players, and the difficulty never adjusts itself. Blizzard says so in an interview with But Why Tho?, summarised by Wowhead.
+The raids that open World of Warcraft: Forever need no attunement. Raids come in fixed sizes of 10, 20 and 40 players, and the difficulty never adjusts itself. Blizzard says so in an interview with But Why Tho?.
 
 Whether raids after launch ask for an attunement, Blizzard will not say for now.
 

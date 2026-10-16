@@ -25,7 +25,7 @@ En los primeros días de la beta, los testers de esta región se toparon con pro
 
 "Me alegra informar de que, en las últimas 24 horas, hemos desarrollado e implantado soluciones para agilizar el enrutado hacia la beta en la región EU", escribe Kaivax. Blizzard cree que esas soluciones cubren todo lo que estaba dentro de su propio control.
 
-Muchos testers europeos usaban mientras tanto una VPN para bajar su latencia, escribe Wowhead, que no ve en eso una solución a largo plazo.
+Muchos testers europeos usaban mientras tanto una VPN para bajar su latencia, lo que no es una solución a largo plazo.
 
 ## Lo que Blizzard no puede arreglar
 

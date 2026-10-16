@@ -14,7 +14,7 @@ draft: false
 ---
 Buying a higher rank of a spell in WoW Forever does not put it on your action bars. For classes that spend mana, the old rank stays where it was and keeps casting, which means a trainer visit can cost gold and change nothing.
 
-Wowhead flagged the behaviour on the beta.
+The behaviour was flagged on the beta.
 
 ## Who it hits
 

@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Die beiden Halsketten, die es für 10 gesammelte Bücher in World of Warcraft: Forever gibt, sind in der Beta schwächer. <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> und <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a> gehen von blau auf grün und verlieren etwa die Hälfte ihrer Werte, schreibt Wowhead.
+Die beiden Halsketten, die es für 10 gesammelte Bücher in World of Warcraft: Forever gibt, sind in der Beta schwächer. <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> und <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a> gehen von blau auf grün und verlieren etwa die Hälfte ihrer Werte.
 
 Früh in der Beta entdeckten Spieler, dass sich Bücher aus der ganzen Welt beim Bibliothekar ihrer Fraktion abgeben lassen, egal welche Klasse sie spielen. Was als Nischenbeschäftigung begann, verbreitete sich, sobald die Belohnungen bekannt wurden. Bei 10 Büchern gibt es die Quest <a href="https://www.wowhead.com/forever/quest=78150">Friend of the Library</a>, und genau diese Belohnung hat sich geändert.
 
@@ -30,4 +30,4 @@ Die neuen Werte stimmen mit den Tooltips der Beta überein.
 
 Auch die Belohnung für 20 Bücher hat sich geändert: Die Gegenstandsstufe sinkt von 40 auf 35, und die Klassenbeschränkung fällt weg. Mehr im [Beitrag über Field Researcher's Loop](/de/news/field-researchers-loop-now-fits-every-class/).
 
-20 Bücher auf Stufe 20 zu erreichen war eine Herausforderung, schreibt Wowhead. Jetzt, wo die Beta bis Stufe 30 geht, dürften mehr davon in Reichweite sein.
+20 Bücher auf Stufe 20 zu erreichen war eine Herausforderung. Jetzt, wo die Beta bis Stufe 30 geht, dürften mehr davon in Reichweite sein.

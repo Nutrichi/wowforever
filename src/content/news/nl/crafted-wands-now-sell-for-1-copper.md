@@ -23,7 +23,7 @@ De wijziging staat in de notes van de beta-build van 1 oktober:
 
 ## Wat de wands vroeger waard waren
 
-De oude prijzen komen uit de bestanden van de vorige build, 70124. Naast essences en dust uit disenchanten vraagt elke wand hout van een verkoper: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> voor ongeveer 40 copper of <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> voor ongeveer 45 silver, volgens Wowhead.
+De oude prijzen komen uit de bestanden van de vorige build, 70124. Naast essences en dust uit disenchanten vraagt elke wand hout van een verkoper: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> voor ongeveer 40 copper of <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> voor ongeveer 45 silver.
 
 | Wand | Oude prijs | Nu | Materialen |
 |---|---|---|---|
@@ -34,4 +34,4 @@ De oude prijzen komen uit de bestanden van de vorige build, 70124. Naast essence
 
 Wie de groene items die hij toch vond disenchantte, kreeg de essences gratis. Dan was wands verkopen een makkelijke manier om silver te verdienen. Dat is voorbij: de wands zijn nu alleen nog iets waard om te gebruiken, tijdens het levelen of als gear.
 
-De Lesser Mystic Wand verkocht al voor minder dan zijn materialen kostten, schrijft Wowhead. Voor de andere drie betaalde de verkoper meer dan het hout.
+De Lesser Mystic Wand verkocht al voor minder dan zijn materialen kostten. Voor de andere drie betaalde de verkoper meer dan het hout.

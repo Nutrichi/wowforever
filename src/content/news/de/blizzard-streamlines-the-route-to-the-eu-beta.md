@@ -25,7 +25,7 @@ In den ersten Tagen der Beta liefen Tester in dieser Region in Routingprobleme, 
 
 "Ich freue mich, berichten zu können, dass wir in den letzten 24 Stunden Lösungen entwickelt und eingesetzt haben, um das Routing zur Beta für die EU-Region zu straffen", schreibt Kaivax. Blizzard geht davon aus, dass die Lösungen alles abdecken, was im eigenen Einflussbereich lag.
 
-Viele europäische Tester nutzten zwischenzeitlich ein VPN, um ihre Latenz zu drücken, schreibt Wowhead, das darin keine Lösung auf Dauer sieht.
+Viele europäische Tester nutzten zwischenzeitlich ein VPN, um ihre Latenz zu drücken, was keine Lösung auf Dauer ist.
 
 ## Was Blizzard nicht lösen kann
 

@@ -15,7 +15,7 @@ manual: true
 ---
 Einen höheren Rang eines Zaubers in WoW Forever zu kaufen, legt ihn nicht auf die Aktionsleisten. Bei Klassen, die Mana ausgeben, bleibt der alte Rang stehen und wird weiter gewirkt, sodass ein Lehrerbesuch Gold kosten kann, ohne etwas zu ändern.
 
-Wowhead wies auf der Beta auf das Verhalten hin.
+Das Verhalten fiel auf der Beta auf.
 
 ## Wen es trifft
 

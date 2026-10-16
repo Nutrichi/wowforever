@@ -13,15 +13,15 @@ featured: false
 draft: false
 manual: true
 ---
-El Cooldown Manager de retail ya se puede probar en la beta de WoW Forever. Llegó a Midnight con el parche 12.0, cuando Blizzard limitó lo que pueden hacer los addons. Druid, Mage, Priest, Warrior y Warlock pueden probarlo ya, escribe Wowhead.
+El Cooldown Manager de retail ya se puede probar en la beta de WoW Forever. Llegó a Midnight con el parche 12.0, cuando Blizzard limitó lo que pueden hacer los addons. Druid, Mage, Priest, Warrior y Warlock pueden probarlo ya.
 
 ## Por qué encaja en Forever
 
-Forever tiene las mismas restricciones de addons que Midnight y usa el mismo cliente que retail, escribe Wowhead. Por eso el gestor pudo pasar. Toma la información clave de la barra de beneficios y de la barra de acción y la coloca donde el jugador quiera, según las [notas de desarrollo](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) del 24 de septiembre.
+Forever tiene las mismas restricciones de addons que Midnight y usa el mismo cliente que retail. Por eso el gestor pudo pasar. Toma la información clave de la barra de beneficios y de la barra de acción y la coloca donde el jugador quiera, según las [notas de desarrollo](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) del 24 de septiembre.
 
 ## Cómo activarlo
 
-El gestor viene desactivado. Blizzard sitúa la opción en Options, dentro de Gameplay Enhancement; Wowhead la encontró en Options, Advanced Options. Una vez activo, Edit Mode mueve los hechizos seguidos por la pantalla, y /cdm abre la lista de lo que se muestra.
+El gestor viene desactivado. Blizzard sitúa la opción en Options, dentro de Gameplay Enhancement; en la beta aparece en Options, Advanced Options. Una vez activo, Edit Mode mueve los hechizos seguidos por la pantalla, y /cdm abre la lista de lo que se muestra.
 
 ## La ventana de ajustes
 

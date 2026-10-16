@@ -8,7 +8,7 @@ lang: it
 manual: true
 faq:
   - q: "Come si ottiene Hyacinth Macaw in WoW Forever?"
-    a: "La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dati di bottino di Wowhead: Bloodsail Sea Dog a Stranglethorn Vale, circa il 0,7% Bloodsail Swashbuckler a Stranglethorn Vale, circa il 0,1% Bloodsail Warlock a Stranglethorn Vale, circa il 0,1%"
+    a: "La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dati di bottino: Bloodsail Sea Dog a Stranglethorn Vale, circa il 0,7% Bloodsail Swashbuckler a Stranglethorn Vale, circa il 0,1% Bloodsail Warlock a Stranglethorn Vale, circa il 0,1%"
   - q: "Hyacinth Macaw è nuova in WoW Forever?"
     a: "No. Hyacinth Macaw c'era già in Classic e torna in WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Hyacinth Macaw è una mascotte da compagnia di Classic che torna in World of War
 | Dove | Stranglethorn Vale |
 | Probabilità | 0,7% |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
-La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dati di bottino di Wowhead:
+La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dati di bottino:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1565">Bloodsail Sea Dog</a> a Stranglethorn Vale, circa il 0,7%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1563">Bloodsail Swashbuckler</a> a Stranglethorn Vale, circa il 0,1%
@@ -44,7 +44,7 @@ La lasciano cadere diversi mostri. Questi hanno la probabilità migliore nei dat
 
 Ora l'oggetto insegna la mascotte: diventa un incantesimo e non occupa più spazio nelle borse. Evocarla è istantaneo invece di un lancio di 1 secondo, con un tempo di recupero di 1,5 secondi.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte a Stranglethorn Vale
 

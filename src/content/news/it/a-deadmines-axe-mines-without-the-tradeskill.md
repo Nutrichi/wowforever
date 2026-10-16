@@ -15,7 +15,7 @@ manual: true
 ---
 Rockslicer, un’ascia a due mani delle Deadmines, porta un nuovo effetto in WoW Forever. Apre vene di Copper, Tin, Silver e Iron senza il tradeskill Mining, per 30 cariche. Dopo, l’ascia resta nelle borse ma l’uso da miniera sparisce.
 
-Wowhead ha notato il cambiamento sulla beta, dove il bottino di tutto il gioco ha ricevuto nuove statistiche.
+Il cambiamento è comparso sulla beta, dove il bottino di tutto il gioco ha ricevuto nuove statistiche.
 
 ## Cos’è l’ascia
 

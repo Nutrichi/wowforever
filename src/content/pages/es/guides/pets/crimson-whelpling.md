@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Crimson Whelpling en WoW Forever?"
-    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín de Wowhead: Flamesnorting Whelp en Wetlands, cerca del 0,5% Crimson Whelp en Wetlands, cerca del 0,3% Red Whelp en Wetlands, cerca del 0,2%"
+    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín: Flamesnorting Whelp en Wetlands, cerca del 0,5% Crimson Whelp en Wetlands, cerca del 0,3% Red Whelp en Wetlands, cerca del 0,2%"
   - q: "¿Es Crimson Whelpling nueva en WoW Forever?"
     a: "No. Crimson Whelpling ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Crimson Whelpling es una mascota de compañía de Classic que vuelve en World of
 | Dónde | Wetlands |
 | Probabilidad | 0,5% |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín de Wowhead:
+La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1044">Flamesnorting Whelp</a> en Wetlands, cerca del 0,5%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1069">Crimson Whelp</a> en Wetlands, cerca del 0,3%
@@ -44,7 +44,7 @@ La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de 
 
 Ahora el objeto enseña la mascota: se convierte en un hechizo y ya no ocupa sitio en las bolsas. Invocarla es instantáneo en lugar de un lanzamiento de 1 segundo, con un tiempo de reutilización de 1,5 segundos.
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas del mismo origen
 

@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-El modo Hardcore no estará disponible en el lanzamiento de World of Warcraft: Forever. Blizzard lo dijo en el panel What's Next sobre Hardcore de la BlizzCon 2026, informa Wowhead. El modo llegará poco después del lanzamiento.
+El modo Hardcore no estará disponible en el lanzamiento de World of Warcraft: Forever. Blizzard lo dijo en el panel What's Next sobre Hardcore de la BlizzCon 2026. El modo llegará poco después del lanzamiento.
 
 Qué significa "pronto", Blizzard no lo aclara. No se citó ninguna fecha ni ningún parche.
 

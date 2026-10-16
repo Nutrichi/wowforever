@@ -45,7 +45,7 @@ Het meeste komt uit kills op centaurs van de Magram-clan in Desolace. Warcraft W
 
 ### De questreeks
 
-Vanaf Friendly opent Uthek the Wise, aan de rand van de Gelkis-kampen in het zuidwesten van Desolace, een reeks: Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn en Khan Hratha. Strange Alliance en Gelkis Alliance geven elk 100 reputatie bij de Gelkis en kosten 500 bij de Magram, zegt Wowhead.
+Vanaf Friendly opent Uthek the Wise, aan de rand van de Gelkis-kampen in het zuidwesten van Desolace, een reeks: Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn en Khan Hratha. Strange Alliance en Gelkis Alliance geven elk 100 reputatie bij de Gelkis en kosten 500 bij de Magram.
 
 ### Waar het stopt
 

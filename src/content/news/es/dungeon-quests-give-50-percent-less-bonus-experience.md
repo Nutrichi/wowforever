@@ -25,8 +25,8 @@ Solo se reduce la parte adicional. Una misión de mazmorra sigue dando al menos 
 
 ## Por qué valían tanto las misiones de mazmorra
 
-En Forever, Blizzard pasó [la experiencia de las mazmorras de los monstruos a las misiones](/es/news/wow-forever-dungeon-experience-changes/). Los monstruos de una mazmorra dan poco, las misiones mucho. En The Hall of Thanes un monstruo daba de 28 a 30 de experiencia y cada misión de 3900 a 4900, según Wowhead.
+En Forever, Blizzard pasó [la experiencia de las mazmorras de los monstruos a las misiones](/es/news/wow-forever-dungeon-experience-changes/). Los monstruos de una mazmorra dan poco, las misiones mucho. En The Hall of Thanes un monstruo daba de 28 a 30 de experiencia y cada misión de 3900 a 4900.
 
-Eso recibió críticas de dos lados, escribe Wowhead. Algunos jugadores temían que el bonus de misión hiciera la subida demasiado rápida. Otros veían inútil una segunda partida en una mazmorra por la poca experiencia de los monstruos. La nueva build responde al primer grupo. Para las partidas repetidas no cambia nada.
+Eso recibió críticas de dos lados. Algunos jugadores temían que el bonus de misión hiciera la subida demasiado rápida. Otros veían inútil una segunda partida en una mazmorra por la poca experiencia de los monstruos. La nueva build responde al primer grupo. Para las partidas repetidas no cambia nada.
 
 Cuánto da ahora una misión de mazmorra, Blizzard no lo dice en cifras. Si la experiencia de los monstruos vuelve a subir, las notas tampoco lo mencionan.

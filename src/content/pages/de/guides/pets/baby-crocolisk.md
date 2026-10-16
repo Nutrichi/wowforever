@@ -31,7 +31,7 @@ Baby Crocolisk ist ein Haustier, das neu in World of Warcraft: Forever ist. Du l
 | Quelle | Beute: Sewer Beast |
 | Wo | Stormwind City |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -39,7 +39,7 @@ Baby Crocolisk ist ein Haustier, das neu in World of Warcraft: Forever ist. Du l
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere in Stormwind City
 

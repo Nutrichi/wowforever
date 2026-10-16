@@ -27,7 +27,7 @@ Spectral Bear Cub is a companion pet that is new in World of Warcraft: Forever. 
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277714"><img class="wf-wh__icon" src="/wh/inv_pet_babyblizzardbear.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spectral Bear Cub</a> |
 | Source | Legacy reward: 25 points |
 | New in Forever | yes |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -37,7 +37,7 @@ It is a reward on the Legacy track of WoW Forever. The total number of Legacy po
 
 The tooltip on the beta still shows placeholder text ([DNT] 1), so this pet is not finished yet.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 
 

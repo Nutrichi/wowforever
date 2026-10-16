@@ -12,19 +12,19 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-The bank in World of Warcraft: Forever opens twice as large. The default bank holds 48 slots instead of 24, and the number of bag slots goes from 6 to 8. Wowhead found the change in the beta on 21 September.
+The bank in World of Warcraft: Forever opens twice as large. The default bank holds 48 slots instead of 24, and the number of bag slots goes from 6 to 8. The change showed up in the beta on 21 September.
 
 ![The bank window in the beta, six rows of eight slots with eight locked bag slots underneath](../../../assets/posts/2026-09-21-wow-forever-bank-48-slots.jpg)
 
 ## Why the bank had to grow
 
-Forever keeps every character at level 60 and puts its progression sideways instead of upwards, writes Wowhead. One of the ways the team keeps players busy is with effects on gear that only fire in a specific setting: in one zone, in one biome, or against one kind of mob.
+Forever keeps every character at level 60 and puts its progression sideways instead of upwards. One of the ways the team keeps players busy is with effects on gear that only fire in a specific setting: in one zone, in one biome, or against one kind of mob.
 
 That turns gear into a collection. A player levelling through Elwynn Forest may want a bonus to movement speed there, and against the 40-player Onyxia raid a set with a bonus against Dragons. All of that has to go somewhere.
 
 ## What it buys you
 
-Forty-eight slots at the start is a decent amount of extra room for ore, herbs, gear and anything else worth keeping while levelling, writes Wowhead.
+Forty-eight slots at the start is a decent amount of extra room for ore, herbs, gear and anything else worth keeping while levelling.
 
 Blizzard expects to raise the default bank space again later, the studio told MMORPG, but not until players reach the point where they need it. When that point is, Blizzard does not say.
 

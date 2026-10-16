@@ -17,9 +17,9 @@ WoW Forever ajoute cinq points de vol : Farholde Keep, Powderfuse Port et Rog'ma
 
 ## D'où viennent les routes
 
-Blizzard n'a publié aucune liste des routes aériennes de Forever. Les routes de cette page viennent des fichiers du dernier build de la bêta, 1.60.1.70009, tels que wago.tools les publie. Elles sont comparées aux mêmes fichiers de Classic Era, build 1.15.9.69722. Les noms des nouveaux maîtres de vol viennent de [la carte du monde de Wowhead](https://www.wowhead.com/forever/world-map).
+Blizzard n'a publié aucune liste des routes aériennes de Forever. Les routes de cette page viennent des fichiers du dernier build de la bêta, 1.60.1.70009. Elles sont comparées aux mêmes fichiers de Classic Era, build 1.15.9.69722. Les noms des nouveaux maîtres de vol viennent d’[une carte du monde de Forever en ligne](https://www.wowhead.com/forever/world-map).
 
-La carte trace chaque route comme une ligne entre deux lieux, et non comme le vol se déroule vraiment dans le jeu. Elle reste ainsi lisible. Le fond est la carte du monde du client de Forever, qui montre déjà The Riverglades à l'est de Redridge Mountains. Les bateaux et les zeppelins viennent de la même carte du monde de Wowhead.
+La carte trace chaque route comme une ligne entre deux lieux, et non comme le vol se déroule vraiment dans le jeu. Elle reste ainsi lisible. Le fond est la carte du monde du client de Forever, qui montre déjà The Riverglades à l'est de Redridge Mountains. Les bateaux et les zeppelins viennent de la même carte du monde.
 
 Une ligne bleue est une route de l'Alliance, une ligne rouge une route de la Horde. Une ligne en pointillé est un bateau ou un zeppelin, et une ligne blanche en pointillé est ouverte aux deux factions. Une ligne au bord doré, marquée NEW, est nouvelle dans Forever. Un écu est un maître de vol, une marque ronde un port ou une tour de zeppelin sans maître de vol. Un écu bleu et rouge sert les deux factions, et un bord doré signale un nouveau lieu.
 
@@ -72,7 +72,7 @@ Chaque point de vol avec son maître de vol, ses coordonnées et ses trajets se 
 
 ## Ce qui n'est pas certain
 
-- **Powderfuse Port n'a qu'une route**, vers Farholde Keep. Le point de vol ne porte aucune faction dans les fichiers, mais sa seule route mène à une forteresse de l'Alliance et sa monture est un gryphon. Aucune route pour la Horde n'existe dans ce build. Wowhead n'y montre pas encore de maître de vol.
+- **Powderfuse Port n'a qu'une route**, vers Farholde Keep. Le point de vol ne porte aucune faction dans les fichiers, mais sa seule route mène à une forteresse de l'Alliance et sa monture est un gryphon. Aucune route pour la Horde n'existe dans ce build. Aucun maître de vol n'y est encore connu.
 - **Un sixième nouveau point de vol attend** : Tidegear Coast, dans Dun Morogh, figure dans les fichiers, sans la moindre route. Son usage n'est pas connu.
 - **Les routes peuvent encore changer** avant le lancement du 4 novembre. Le build 1.60.1.70009 est une bêta, et les fichiers contiennent encore d'anciennes versions des points de vol de The Riverglades qui ne servent plus.
 - **Zephras Isle n'a pas de place fixe** sur la carte du monde dans les fichiers. La carte place Valanaar, où arrivent les nouveaux zeppelins de Dalaran et de Skywatcher Plateau, sur le groupe d'îles au nord du Maelstrom.

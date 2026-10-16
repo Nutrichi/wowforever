@@ -28,7 +28,7 @@ Minfernal is een companion pet die nieuw is in World of Warcraft: Forever. Je le
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=284214"><img class="wf-wh__icon" src="/wh/spell_shadow_summoninfernal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minfernal</a> |
 | Bron | Nog niet bekend |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
@@ -38,7 +38,7 @@ De tooltip op de beta zegt nog dat hij "your baby crocolisk" oproept, tekst van 
 
 ## Goed om te weten
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

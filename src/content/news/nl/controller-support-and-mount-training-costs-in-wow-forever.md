@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever ondersteunt officieel controllers. Het goud voor een mount verhuist naar de riding training, die 100 of 1.000 goud kost afhankelijk van het level, en de eerste mount zelf is gratis. Dat zegt Blizzard in een interview met Sportskeeda, samengevat door Wowhead.
+World of Warcraft: Forever ondersteunt officieel controllers. Het goud voor een mount verhuist naar de riding training, die 100 of 1.000 goud kost afhankelijk van het level, en de eerste mount zelf is gratis. Dat zegt Blizzard in een interview met Sportskeeda.
 
 ## Controllerondersteuning is deze keer officieel
 

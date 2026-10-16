@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-The Hall of Thanes è il primo nuovo dungeon che la maggior parte dei giocatori dell’Alleanza incontrerà in World of Warcraft: Forever. Si trova in Old Ironforge, per i livelli dal 13 al 18. Wowhead ha pubblicato una guida ai suoi quattro boss e cinque missioni.
+The Hall of Thanes è il primo nuovo dungeon che la maggior parte dei giocatori dell’Alleanza incontrerà in World of Warcraft: Forever. Si trova in Old Ironforge, per i livelli dal 13 al 18. Ecco i suoi quattro boss e le cinque missioni.
 
 <figure class="wf-embed" data-wf-video="c5PJmoBKcKc">
   <button type="button" class="wf-embed__play">
@@ -25,17 +25,17 @@ The Hall of Thanes è il primo nuovo dungeon che la maggior parte dei giocatori 
   </button>
 </figure>
 
-La guida è di Jurdi, che scrive dei Paladin per Wowhead e ha tankato il dungeon nella beta. I primi sette minuti del suo video spiegano il dungeon, il resto è una run completa. Il boss finale è di livello 16, quindi un gruppo che entra al livello 13 fa fatica.
+La guida è di Jurdi, esperto di Paladin che ha tankato il dungeon nella beta. I primi sette minuti del suo video spiegano il dungeon, il resto è una run completa. Il boss finale è di livello 16, quindi un gruppo che entra al livello 13 fa fatica.
 
 ## Dove si trova
 
-La porta di Old Ironforge è a sinistra appena dentro l’High Seat, scrive Wowhead. Un sentiero scende fino al portale. Lo Hall è il luogo di riposo dei grandi Dwarves degli Eastern Kingdoms, e i Dark Iron Dwarves ci sono entrati con le loro trivelle.
+La porta di Old Ironforge è a sinistra appena dentro l’High Seat. Un sentiero scende fino al portale. Lo Hall è il luogo di riposo dei grandi Dwarves degli Eastern Kingdoms, e i Dark Iron Dwarves ci sono entrati con le loro trivelle.
 
 Il dungeon è la [risposta dell’Alleanza a Ragefire Chasm](/it/news/one-faction-per-player-on-pvp-rulesets/). L’Orda può entrare, ma il viaggio è lungo: da Tarren Mill attraverso le Arathi Highlands, le Wetlands e Loch Modan fino a Dun Morogh, e poi oltre le guardie di Ironforge. Una via più rapida non è stata trovata. Dopo un wipe lo Spirit Healer è vicino, appena fuori dalla città.
 
 ## Cinque missioni
 
-Due missioni partono appena fuori dal dungeon, due all’interno, e la quinta comincia a Dun Morogh. Ognuna dà tra 3.900 e 4.900 punti esperienza, scrive Wowhead. I mostri dentro danno pochissimo: Jurdi ha visto da 28 a 30 punti per uccisione.
+Due missioni partono appena fuori dal dungeon, due all’interno, e la quinta comincia a Dun Morogh. Ognuna dà tra 3.900 e 4.900 punti esperienza. I mostri dentro danno pochissimo: Jurdi ha visto da 28 a 30 punti per uccisione.
 
 - **Important Heirlooms**, da Thom Filch in Old Ironforge: raccogli 8 Dwarven Heirlooms. Compaiono dopo il primo boss, e le camere blindate dell’ultima sala, il Reliquary of Kings, ne contengono abbastanza per tutto il gruppo.
 - **The Restless Dead**, da Afadra Dunwall in Old Ironforge: ripulisci gli spiriti nella prima parte del dungeon.
@@ -54,7 +54,7 @@ Ogni missione passo per passo, con le coordinate della catena di Dun Morogh, è 
 | Dwarven Tome | Mano secondaria | Important Heirlooms |
 | Catacomb Cloak | Mantello | An Ancient Grudge |
 
-Chi possa prendere le missioni non è chiaro. L’articolo di Wowhead le dice tutte e cinque solo per l’Alleanza. La guida al dungeon sullo stesso sito fa un’eccezione per Important Heirlooms e An Ancient Grudge.
+Chi possa prendere le missioni non è chiaro. Una fonte le dice tutte e cinque solo per l’Alleanza. Un’altra fa un’eccezione per Important Heirlooms e An Ancient Grudge.
 
 ## Quattro boss
 
@@ -68,7 +68,7 @@ Chi possa prendere le missioni non è chiaro. L’articolo di Wowhead le dice tu
 
 ## Il trash picchia duro
 
-La prima parte del dungeon è facile, scrive Wowhead. Il lato dei Dark Iron no. I Looters attaccano veloci con i pugnali, gli Engineers lanciano bombe su un punto che si può schivare, e i Summoners lanciano Fireball ed evocano un Fiery Assistant. Porta i Summoners dietro un pilastro, fuori dalla loro vista, così devono avvicinarsi.
+La prima parte del dungeon è facile. Il lato dei Dark Iron no. I Looters attaccano veloci con i pugnali, gli Engineers lanciano bombe su un punto che si può schivare, e i Summoners lanciano Fireball ed evocano un Fiery Assistant. Porta i Summoners dietro un pilastro, fuori dalla loro vista, così devono avvicinarsi.
 
 I Lesser Stone Golems picchiano più forte e si muovono veloci. L’ultimo gruppo prima del boss finale riunisce un Summoner, un Looter e un Golem. Il controllo come Polymorph aiuta, e anche gli stordimenti come Hammer of Justice. A questi livelli i guaritori attirano molta minaccia, dice Jurdi.
 

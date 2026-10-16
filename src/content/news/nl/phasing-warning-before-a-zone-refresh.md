@@ -13,7 +13,7 @@ tags: ["forever", "hardcore"]
 featured: false
 draft: false
 ---
-World of Warcraft: Forever waarschuwt spelers vóór een gedwongen laagwissel. Een melding zegt dat er een zonerefresh aankomt en geeft vijf minuten om een veilige plek te bereiken, schrijft Wowhead. Tot nu toe gebeurde zo'n wissel gewoon.
+World of Warcraft: Forever waarschuwt spelers vóór een gedwongen laagwissel. Een melding zegt dat er een zonerefresh aankomt en geeft vijf minuten om een veilige plek te bereiken. Tot nu toe gebeurde zo'n wissel gewoon.
 
 ## Wat een laag is
 

@@ -10,7 +10,7 @@ faq:
   - q: "Wie viele Haustiere gibt es in WoW Forever?"
     a: "Die Dateien der Beta enthalten 90 Haustiere: 32 neue und 58 aus Classic."
   - q: "Sind Haustiere in WoW Forever accountweit?"
-    a: "Die Datenbank von Wowhead führt jedes Haustier als accountweit, und der Gegenstand bringt dir das Haustier bei, statt es aus den Taschen herbeizurufen. Blizzard hat den Teil mit dem Account nicht bestätigt."
+    a: "Die Spieldaten führen jedes Haustier als accountweit, und der Gegenstand bringt dir das Haustier bei, statt es aus den Taschen herbeizurufen. Blizzard hat den Teil mit dem Account nicht bestätigt."
   - q: "Welche Haustiere sind neu in WoW Forever?"
     a: "Unter anderem der Excitable Slime aus Undercity, das Baby Crocolisk aus den Kanälen von Stormwind, der Musical Gustjumper auf Zephras Isle und das Spectral Bear Cub, eine Legacy-Belohnung auf Stufe 25."
 sources:
@@ -123,4 +123,4 @@ Die Liste stammt aus der Datenbank der Beta. Bei Haustieren mit dem Vermerk noch
 | [Wood Frog](/de/guides/pets/wood-frog/ "wh:item=11027:q1:inv_crate_02") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a>, 1 Gold 5 Silber 26 Kupfer | Elwynn Forest und Mulgore |
 | [Zergling](/de/guides/pets/zergling/ "wh:item=281167:q3:inv_zerglingpet_c60") | Edition: Skyborne Epic Pack, Warcraft Forever Collection |  |
 
-Drei Gegenstände, die Wowhead als Begleiter führt, fehlen hier: Scroll of Rat Familiar, Scroll of Frog Familiar und Scroll of Cat Familiar. Das sind Verbrauchsgüter für Magier, die eine Stunde lang Intellect geben, keine Haustiere zum Sammeln.
+Drei Gegenstände, die die Spieldaten als Begleiter führen, fehlen hier: Scroll of Rat Familiar, Scroll of Frog Familiar und Scroll of Cat Familiar. Das sind Verbrauchsgüter für Magier, die eine Stunde lang Intellect geben, keine Haustiere zum Sammeln.

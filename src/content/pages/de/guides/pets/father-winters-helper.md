@@ -28,7 +28,7 @@ Father Winter's Helper ist ein Haustier aus Classic, das in World of Warcraft: F
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=21301"><img class="wf-wh__icon" src="/wh/inv_holiday_christmas_present_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Green Helper Box</a> |
 | Quelle | Noch nicht bekannt |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -38,7 +38,7 @@ Die Dateien der Beta von WoW Forever enthalten dieses Haustier, aber woher es ko
 
 Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen.
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

@@ -54,7 +54,7 @@ Jede Klasse ändert sich. Eine Auswahl:
 - **Warlock**: Hellfire kann kritisch treffen, Soul Harvesting heißt jetzt Soul Harvest, und Aggressive Mode für Begleiter ist zurück.
 - **Warrior**: 75 % mehr Rage aus kritischen Treffern mit normalen Angriffen, später in der Nacht auf 100 % erhöht. Rend und Sunder Armor markieren einen Gegner sofort.
 
-Die Gnom-Volksfähigkeit [Eureka! wirkt nicht mehr auf periodische Effekte](/de/news/eureka-no-longer-boosts-damage-over-time/). Wowhead fand außerdem [Änderungen in den Daten, die nicht in den Notes stehen](/de/news/the-data-drops-the-dismount-from-spearing-strike/).
+Die Gnom-Volksfähigkeit [Eureka! wirkt nicht mehr auf periodische Effekte](/de/news/eureka-no-longer-boosts-damage-over-time/). Es gibt außerdem [Änderungen in den Daten, die nicht in den Notes stehen](/de/news/the-data-drops-the-dismount-from-spearing-strike/).
 
 ## Bekannte Probleme
 

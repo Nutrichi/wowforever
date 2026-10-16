@@ -15,7 +15,7 @@ manual: true
 ---
 Een speler heeft in de beta van WoW Forever een item gevonden dat alleen bestaat om gedragen te worden. De Stolen Wastewander Cowl staat bij de reputatiehandelaar van Gadgetzan, kost 10 goud bij Revered en draagt geen stats. Het is het eerste puur cosmetische item dat in Forever opduikt.
 
-Een speler met de naam Gloky stuurde de schermafdruk naar Wowhead, dat de vondst meldde. De tooltip zegt dat het item Cosmetic is, bindt bij oppakken en zijn uiterlijk aan de collectie van de account toevoegt.
+Een speler met de naam Gloky deelde de schermafdruk. De tooltip zegt dat het item Cosmetic is, bindt bij oppakken en zijn uiterlijk aan de collectie van de account toevoegt.
 
 ## Waarom zo'n item bestaat
 

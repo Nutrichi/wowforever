@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Auf einem PvP-Ruleset in World of Warcraft: Forever darf ein Spieler nur Charaktere einer Fraktion haben. Auf den anderen Rulesets sind beide Seiten erlaubt. Das sagen Lead Game Designer Tim Jones und Lead Software Engineer Nora Mills in einem Interview mit Game Informer, zusammengefasst von Wowhead.
+Auf einem PvP-Ruleset in World of Warcraft: Forever darf ein Spieler nur Charaktere einer Fraktion haben. Auf den anderen Rulesets sind beide Seiten erlaubt. Das sagen Lead Game Designer Tim Jones und Lead Software Engineer Nora Mills in einem Interview mit Game Informer.
 
 ## Eine Seite auf einem PvP-Ruleset
 

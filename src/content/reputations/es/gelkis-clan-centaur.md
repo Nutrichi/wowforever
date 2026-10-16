@@ -45,7 +45,7 @@ La mayor parte sale de matar centauros del clan Magram en Desolace. Warcraft Wik
 
 ### La cadena de misiones
 
-Desde Friendly, Uthek the Wise, en las afueras de los campamentos gelkis del suroeste de Desolace, abre una cadena: Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn y Khan Hratha. Strange Alliance y Gelkis Alliance dan 100 de reputación cada una con los Gelkis y cuestan 500 con los Magram, dice Wowhead.
+Desde Friendly, Uthek the Wise, en las afueras de los campamentos gelkis del suroeste de Desolace, abre una cadena: Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn y Khan Hratha. Strange Alliance y Gelkis Alliance dan 100 de reputación cada una con los Gelkis y cuestan 500 con los Magram.
 
 ### Dónde se para
 

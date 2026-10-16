@@ -101,7 +101,7 @@ Por debajo de Neutral la escala también es la habitual: Hated mide 36.000, y Ho
 
 **Las cajas.** Una caja como la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> se saquea por el mundo, se llena y se entrega a Marcy Baker. La perk de Legacy Performance Bonus da un 5, 10 o 15 % de probabilidad de doble Merchant's Favor por caja; mira la [calculadora de Legacy](/es/talents/legacy/).
 
-**Los Craftsman's Writs** también existen, y quizá desde el nivel 10, escribe Wowhead. Qué piden y si Marcy Baker los acepta, aún no se sabe.
+**Los Craftsman's Writs** también existen, y quizá desde el nivel 10. Qué piden y si Marcy Baker los acepta, aún no se sabe.
 
 ## Lo que aún no se sabe
 

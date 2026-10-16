@@ -8,7 +8,7 @@ lang: it
 manual: true
 faq:
   - q: "Come si ottiene Pet Fish in WoW Forever?"
-    a: "La lascia cadere Dreamwater Vicejaw a The Hinterlands. Nei dati di bottino di Wowhead cade in circa il 0,1% delle uccisioni."
+    a: "La lascia cadere Dreamwater Vicejaw a The Hinterlands. Nei dati di bottino cade in circa il 0,1% delle uccisioni."
   - q: "Pet Fish è nuova in WoW Forever?"
     a: "No. Pet Fish c'era già in Classic e torna in WoW Forever."
 sources:
@@ -30,17 +30,17 @@ Pet Fish è una mascotte da compagnia di Classic che torna in World of Warcraft:
 | Dove | The Hinterlands |
 | Probabilità | 0,1% |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
-La lascia cadere <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> a The Hinterlands. Nei dati di bottino di Wowhead cade in circa il 0,1% delle uccisioni.
+La lascia cadere <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> a The Hinterlands. Nei dati di bottino cade in circa il 0,1% delle uccisioni.
 
 ## Cosa è cambiato da Classic
 
 Ora l'oggetto insegna la mascotte: diventa un incantesimo e non occupa più spazio nelle borse.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

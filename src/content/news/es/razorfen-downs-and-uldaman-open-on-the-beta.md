@@ -54,7 +54,7 @@ Cada clase cambia. Una selección:
 - **Warlock**: Hellfire puede hacer críticos, Soul Harvesting pasa a llamarse Soul Harvest, y vuelve el Aggressive Mode de las mascotas.
 - **Warrior**: un 75 % más de Rage con los críticos de ataques básicos, subido al 100 % más tarde esa noche. Rend y Sunder Armor marcan a un enemigo al instante.
 
-El racial gnomo [Eureka! ya no funciona con efectos periódicos](/es/news/eureka-no-longer-boosts-damage-over-time/). Wowhead encontró además [cambios en los datos que no están en las notas](/es/news/the-data-drops-the-dismount-from-spearing-strike/).
+El racial gnomo [Eureka! ya no funciona con efectos periódicos](/es/news/eureka-no-longer-boosts-damage-over-time/). Hay además [cambios en los datos que no están en las notas](/es/news/the-data-drops-the-dismount-from-spearing-strike/).
 
 ## Problemas conocidos
 

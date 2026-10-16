@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Black Tabby in WoW Forever?"
-    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead: Dalaran Shield Guard in Alterac Mountains, ongeveer 0,2% Dalaran Summoner in Alterac Mountains, ongeveer 0,1% Dalaran Theurgist in Alterac Mountains, ongeveer 0,1%"
+    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens: Dalaran Shield Guard in Alterac Mountains, ongeveer 0,2% Dalaran Summoner in Alterac Mountains, ongeveer 0,1% Dalaran Theurgist in Alterac Mountains, ongeveer 0,1%"
   - q: "Is Black Tabby nieuw in WoW Forever?"
     a: "Nee. Black Tabby zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Black Tabby is een companion pet uit Classic die terugkomt in World of Warcraft:
 | Waar | Alterac Mountains en Silverpine Forest |
 | Dropkans | 0,2% |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
-Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead:
+Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2271">Dalaran Shield Guard</a> in Alterac Mountains, ongeveer 0,2%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2358">Dalaran Summoner</a> in Alterac Mountains, ongeveer 0,1%
@@ -44,7 +44,7 @@ Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van
 
 Het item leert je nu de pet: hij wordt een spell en neemt geen plaats meer in je tassen. Oproepen gaat meteen in plaats van met een cast van 1 seconde, met een cooldown van 1,5 seconden.
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Die Beta von World of Warcraft: Forever ist live. Sie öffnete am 17. September, direkt nach dem Live-Q&A von Blizzard. Am Anmeldebildschirm stehen Warteschlangen, schreibt Wowhead. Wie stabil die Server sind, ist nicht bekannt.
+Die Beta von World of Warcraft: Forever ist live. Sie öffnete am 17. September, direkt nach dem Live-Q&A von Blizzard. Am Anmeldebildschirm stehen Warteschlangen. Wie stabil die Server sind, ist nicht bekannt.
 
 Die Beta läuft bis zum 21. Oktober 2026. Sie beginnt mit einer Levelgrenze von 20 und hebt sie später auf 30, und dort bleibt sie bis zum Start am 4. November.
 

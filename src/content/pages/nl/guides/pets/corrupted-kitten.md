@@ -28,7 +28,7 @@ Corrupted Kitten is een companion pet uit Classic die terugkomt in World of Warc
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11903"><img class="wf-wh__icon" src="/wh/inv_box_petcarrier_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Carrier (Corrupted Kitten)</a> |
 | Bron | Nog niet bekend |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
@@ -38,7 +38,7 @@ De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaa
 
 Het item leert je nu de pet: hij wordt een spell en neemt geen plaats meer in je tassen.
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

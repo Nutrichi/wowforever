@@ -25,7 +25,7 @@ Pendant les premiers jours de la bêta, les testeurs de cette région ont rencon
 
 "Je suis heureux d'annoncer que, ces dernières 24 heures, nous avons développé et déployé des solutions pour rationaliser le routage vers la bêta pour la région EU", écrit Kaivax. Blizzard estime que ces correctifs couvrent tout ce qui relevait de son propre contrôle.
 
-Beaucoup de testeurs européens faisaient tourner un VPN pour réduire leur latence, écrit Wowhead, qui n'y voit pas une solution durable.
+Beaucoup de testeurs européens faisaient tourner un VPN pour réduire leur latence, ce qui n'est pas une solution durable.
 
 ## Ce que Blizzard ne peut pas régler
 

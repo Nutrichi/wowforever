@@ -15,7 +15,7 @@ manual: true
 ---
 Rockslicer, een tweehandige bijl uit de Deadmines, draagt in WoW Forever een nieuw effect. Hij opent Copper, Tin, Silver en Iron zonder de tradeskill Mining, 30 ladingen lang. Daarna blijft de bijl in je tas, maar het mijnen is eraf.
 
-Wowhead zag de wijziging in de beta, waar de loot in het hele spel nieuwe stats kreeg.
+De wijziging dook op in de beta, waar de loot in het hele spel nieuwe stats kreeg.
 
 ## Wat de bijl is
 

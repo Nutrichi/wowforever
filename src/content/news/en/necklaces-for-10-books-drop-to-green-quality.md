@@ -12,7 +12,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-The two necklaces that reward 10 collected books in World of Warcraft: Forever are weaker on the beta. <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> and <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a> drop from blue to green quality and lose about half their stats, writes Wowhead.
+The two necklaces that reward 10 collected books in World of Warcraft: Forever are weaker on the beta. <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> and <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a> drop from blue to green quality and lose about half their stats.
 
 Early in the beta, players found that books scattered across the world can be handed in to the librarian of their faction, whatever their class. What started as a niche activity spread once players saw the rewards. At 10 books comes the quest <a href="https://www.wowhead.com/forever/quest=78150">Friend of the Library</a>, and that reward is what changed.
 
@@ -29,4 +29,4 @@ The new values match the tooltips of the beta.
 
 The reward for 20 books changed too: its item level drops from 40 to 35, and the class restriction is gone. More in the [post about Field Researcher's Loop](/news/field-researchers-loop-now-fits-every-class/).
 
-Reaching 20 books at level 20 was a challenge, writes Wowhead. Now that the beta runs to level 30, more of them should be within reach.
+Reaching 20 books at level 20 was a challenge. Now that the beta runs to level 30, more of them should be within reach.

@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard organise un Q&A en direct avec l'équipe de développement de World of Warcraft le jeudi 17 septembre. Le direct commence à 10.00 PDT, 19.00 heure belge, sur les chaînes officielles Warcraft de Twitch et YouTube. Les questions viennent du forum.
 
-Blizzard avait demandé leurs questions aux joueurs sur les forums nord-américain et européen, et les a maintenant rassemblées pour l'équipe. Le direct porte sur Midnight et sur Forever, écrit Wowhead.
+Blizzard avait demandé leurs questions aux joueurs sur les forums nord-américain et européen, et les a maintenant rassemblées pour l'équipe. Le direct porte sur Midnight et sur Forever.
 
 Les développeurs reviendront sur les annonces de la BlizzCon 2026 et parleront de ce qui arrive pour WoW moderne et Classic, indique Blizzard dans son annonce. Quels membres de l'équipe seront présents, Blizzard ne le dit pas.
 

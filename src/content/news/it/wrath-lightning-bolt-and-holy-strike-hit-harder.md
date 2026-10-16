@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-La nuova build della beta di WoW Forever ritocca tutte e nove le classi. Wowhead ha trovato le modifiche nei file della build il 24 settembre, e Blizzard ne ha confermate la maggior parte quella stessa notte nelle sue [note di sviluppo](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt e Holy Strike ricevono i buff maggiori.
+La nuova build della beta di WoW Forever ritocca tutte e nove le classi. Le modifiche sono comparse nei file della build il 24 settembre, e Blizzard ne ha confermate la maggior parte quella stessa notte nelle sue [note di sviluppo](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt e Holy Strike ricevono i buff maggiori.
 
-Ecco la versione breve per classe. Quello che ha visto solo Wowhead nei file, senza menzione di Blizzard, è indicato. Il resto della build, dal respec a 1 silver al Cooldown Manager, è nell'[articolo sulla nuova build](/it/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
+Ecco la versione breve per classe. Quello che c'è solo nei file, senza menzione di Blizzard, è indicato. Il resto della build, dal respec a 1 silver al Cooldown Manager, è nell'[articolo sulla nuova build](/it/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
 
 ## Druid
 
@@ -41,7 +41,7 @@ Il Paladin riceve più modifiche di tutti.
 - **Holy Strike** colpisce più forte a ogni rango: 25, 29, 32, 36, 39, 43, 46 e 50% dei danni dell'arma (prima 25, 25, 30, 30, 35, 35, 40 e 40%). I primi ranghi non sembravano sempre un miglioramento, secondo Blizzard.
 - **Holy:** il cooldown di Holy Strike scende a 10 secondi (prima 12). Il talento Improved Holy Strike sparisce, perché il suo effetto è ora di base. Holy Power aggiunge anche il 15% di probabilità di critico a Holy Strike.
 - **Retribution** perde un po' di burst. Vengeance si attiva solo con i critici non periodici e si accumula fino a 3 (prima 5). Two-Handed Weapon Specialization dà il 2, 4 e 6% (prima 3, 6 e 9%). In cambio Sacred Arbiter aumenta i danni di Holy Strike del 20% (prima 10%), e Twist of Light rende anche i Seal più economici del 20%.
-- Righteous Fury aumenta la minaccia Holy del 60% (prima 90%). Wowhead vede anche Crusade uscire dall'albero dei talenti; Blizzard non lo menziona.
+- Righteous Fury aumenta la minaccia Holy del 60% (prima 90%). I file tolgono anche Crusade dall'albero dei talenti; Blizzard non lo menziona.
 
 ## Priest
 
@@ -50,11 +50,11 @@ Il Paladin riceve più modifiche di tutti.
 
 ## Rogue
 
-- Sap ora attiva il PvP del Rogue quando il bersaglio è in PvP. Wowhead vede anche un valore cambiato in Improved Expose Armor che il tooltip non mostra; non si sa cosa faccia.
+- Sap ora attiva il PvP del Rogue quando il bersaglio è in PvP. I file cambiano anche un valore in Improved Expose Armor che il tooltip non mostra; non si sa cosa faccia.
 
 ## Shaman
 
-- **Lightning Bolt** ai ranghi 3 e 4 infligge più danni, così ogni rango è un miglioramento nonostante i tempi di lancio cambiati. I ranghi più alti perdono uno o due punti, secondo Wowhead.
+- **Lightning Bolt** ai ranghi 3 e 4 infligge più danni, così ogni rango è un miglioramento nonostante i tempi di lancio cambiati. I ranghi più alti perdono uno o due punti.
 - **Lava Burst** ai ranghi 1 e 2 infligge circa il 10% di danni base in più del Lightning Bolt dello stesso livello.
 - **Elemental:** Elemental Fury ed Elemental Alacrity si scambiano di posto, dalla riga 3 alla riga 6 e viceversa. Blizzard vuole che Elemental raggiunga prima un talento importante.
 - **Enhancement:** Rage of the Far Seer non aumenta più la velocità di lancio degli incantesimi.
@@ -64,7 +64,7 @@ Il Paladin riceve più modifiche di tutti.
 ## Warlock
 
 - Il Sacrifice del Voidwalker scala con il 10% delle cure magiche. Il tooltip di Life Tap mostra ora i numeri giusti.
-- Secondo Wowhead, Health Funnel non può più fare critici, e una Firestone sparisce dopo 15 minuti disconnessi.
+- Nei file, Health Funnel non può più fare critici, e una Firestone sparisce dopo 15 minuti disconnessi.
 
 ## Warrior
 

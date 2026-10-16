@@ -12,11 +12,11 @@ tags: ["forever", "beta", "pets"]
 featured: false
 draft: false
 ---
-WoW Forever hides three new pets in the world. A rare crocolisk in the canals of Stormwind drops the Baby Crocolisk. In Undercity, a slime gives up a pet after a dance. A frog on Zephras Isle wants a song. Wowhead found all three on the beta.
+WoW Forever hides three new pets in the world. A rare crocolisk in the canals of Stormwind drops the Baby Crocolisk. In Undercity, a slime gives up a pet after a dance. A frog on Zephras Isle wants a song. All three are on the beta.
 
 ## Baby Crocolisk in Stormwind
 
-The <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a> patrols the canals of Stormwind and drops the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282047"><img class="wf-wh__icon" src="/wh/inv_pet_babycrocodile_toothy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baby Crocolisk</a>. On the beta it is a rare of level 50, and large raid groups of low-level players have brought it down, writes Wowhead. How often it drops the pet is not known.
+The <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a> patrols the canals of Stormwind and drops the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282047"><img class="wf-wh__icon" src="/wh/inv_pet_babycrocodile_toothy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baby Crocolisk</a>. On the beta it is a rare of level 50, and large raid groups of low-level players have brought it down. How often it drops the pet is not known.
 
 ## Excitable Slime in Undercity
 
@@ -40,7 +40,7 @@ Use /dance at the pet later on, and it dances along wherever you are.
 
 ## Musical Gustjumper on Zephras Isle
 
-The <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268109"><img class="wf-wh__icon" src="/wh/inv_frog2_blue.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Musical Gustjumper</a> sits on Zephras Isle, the starting zone of the Skyborne, at /way 51.5 72.3. Even a level 1 character gets there, often without a fight, [writes Wowhead](https://www.wowhead.com/forever/news/how-to-get-the-new-musical-gustjumper-pet-in-wow-forever-383087). Follow the road south from Thendal Village and cut across a short field to the waterfalls. Do not run down the path below them.
+The <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268109"><img class="wf-wh__icon" src="/wh/inv_frog2_blue.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Musical Gustjumper</a> sits on Zephras Isle, the starting zone of the Skyborne, at /way 51.5 72.3. Even a level 1 character gets there, often without a fight. Follow the road south from Thendal Village and cut across a short field to the waterfalls. Do not run down the path below them.
 
 At the top of the waterfall, a group of Musical Gustjumpers sits on a rock. Jump on the log to reach them. Target a frog and use /sing. It sings back, the group disappears, and a frog you can click appears on the log next to you. Click it to learn the pet.
 
@@ -48,6 +48,6 @@ At the top of the waterfall, a group of Musical Gustjumpers sits on a rock. Jump
 
 ## Learned, not carried
 
-All three items say "Teaches you how to summon this companion". The pet becomes a spell, so it no longer takes a spot in your bags. The database of Wowhead marks every pet as account-wide, so a pet learned once would be there for every character. Blizzard has not said so itself.
+All three items say "Teaches you how to summon this companion". The pet becomes a spell, so it no longer takes a spot in your bags. The game data marks every pet as account-wide, so a pet learned once would be there for every character. Blizzard has not said so itself.
 
 Every pet in the files of WoW Forever, with where it comes from, is in the new [pet guide](/guides/pets/). Each of the three has a page of its own: the [Baby Crocolisk](/guides/pets/baby-crocolisk/), the [Excitable Slime](/guides/pets/excitable-slime/) and the [Musical Gustjumper](/guides/pets/musical-gustjumper/).

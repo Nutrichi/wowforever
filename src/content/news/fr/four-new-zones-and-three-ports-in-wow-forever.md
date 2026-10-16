@@ -13,13 +13,13 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever reçoit quatre nouvelles zones au lancement : Mount Hyjal, Shen'Dralas, Riverglades et Zephras Isle. C'est ce qu'écrit Wowhead, sur la base des panels de la BlizzCon. Trois ports et plus de 1 000 nouvelles quêtes viennent avec elles.
+World of Warcraft: Forever reçoit quatre nouvelles zones au lancement : Mount Hyjal, Shen'Dralas, Riverglades et Zephras Isle. C'est ce qui ressort des panels de la BlizzCon. Trois ports et plus de 1 000 nouvelles quêtes viennent avec elles.
 
 ## Les quatre nouvelles zones
 
 Mount Hyjal est la zone de fin de jeu et abrite les premiers raids à 20 et à 10 joueurs, Hyjal Summit et les Barrow Deeps. Forever se déroule après Warcraft III, donc le squelette d'Archimonde repose encore près de Nordrassil.
 
-Shen'Dralas se situe entre Mulgore et Desolace. La zone poursuit l'histoire des Shen'dralar et celle des tribus centaures de Desolace, écrit Wowhead. Des quêtes s'ajoutent autour des donjons Razorfen Downs et Maraudon.
+Shen'Dralas se situe entre Mulgore et Desolace. La zone poursuit l'histoire des Shen'dralar et celle des tribus centaures de Desolace. Des quêtes s'ajoutent autour des donjons Razorfen Downs et Maraudon.
 
 Riverglades comble le vide entre le milieu de la trentaine et le début de la quarantaine. Les joueurs y arrivent depuis Steamwheedle Port ou par un nouveau passage de Redridge vers les Burning Steppes. Des Ogres et le Twilight's Hammer y vivent, et le nouveau donjon Krol'dok Stronghold s'y trouve.
 
@@ -35,7 +35,7 @@ Southshore trouve enfin une utilité à son quai et devient une escale entre Men
 
 ## Ce qui change dans les zones de départ
 
-Chaque zone de départ reçoit de nouveaux PNJ, de nouvelles quêtes et de nouvelles expériences par rapport à WoW Classic, déclare le Lead Content Designer Evan Lee selon Wowhead. Le contenu que les joueurs connaissent reste en place à côté. Desolace et les Wetlands reçoivent de gros paquets de quêtes, pour paraître moins vides.
+Chaque zone de départ reçoit de nouveaux PNJ, de nouvelles quêtes et de nouvelles expériences par rapport à WoW Classic, déclare le Lead Content Designer Evan Lee. Le contenu que les joueurs connaissent reste en place à côté. Desolace et les Wetlands reçoivent de gros paquets de quêtes, pour paraître moins vides.
 
 ## Quand se déroule l'histoire
 

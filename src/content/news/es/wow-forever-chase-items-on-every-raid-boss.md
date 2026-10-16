@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Cada jefe de raid de World of Warcraft: Forever suelta un chase item. Blizzard lo dijo en una entrevista con The Sun en la BlizzCon 2026, informa Wowhead. En la misma entrevista se habló de las zonas nuevas, de los árboles de talentos y de la curva de experiencia, que no cambia.
+Cada jefe de raid de World of Warcraft: Forever suelta un chase item. Blizzard lo dijo en una entrevista con The Sun en la BlizzCon 2026. En la misma entrevista se habló de las zonas nuevas, de los árboles de talentos y de la curva de experiencia, que no cambia.
 
 The Sun habló con Kris Zierhut, Principal Designer, y Michael Nuthals, Senior Encounter Designer.
 

@@ -1,5 +1,5 @@
 ---
-title: "Wowhead vindt een nieuwe branch op de CDN-servers"
+title: "Een nieuwe branch op de CDN-servers"
 description: "Op de distributieservers van Blizzard dook een branch voor de retailversie van Forever op, zeven weken voor de lancering op 4 november."
 date: 2026-09-16
 category: forever
@@ -13,10 +13,10 @@ featured: false
 draft: false
 manual: true
 ---
-Wowhead zag een nieuwe branch voor de retailversie van World of Warcraft: Forever op de CDN-servers van Blizzard. De site meldde de vondst op 16 september. Blizzard heeft ze niet bevestigd. Het spel verschijnt op 4 november.
+Op 16 september dook een nieuwe branch voor de retailversie van World of Warcraft: Forever op de CDN-servers van Blizzard op. Blizzard heeft ze niet bevestigd. Het spel verschijnt op 4 november.
 
-Wat er in die branch zit, is niet bekend. Wowhead beschreef de inhoud niet, en Blizzard heeft er niets over gezegd.
+Wat er in die branch zit, is niet bekend. Blizzard heeft er niets over gezegd.
 
-De beta van Forever start op 17 september, een dag na de vondst. Dan wordt er meer zichtbaar, schrijft Wowhead.
+De beta van Forever start op 17 september, een dag na de vondst. Dan wordt er meer zichtbaar.
 
 Of de branch bij die beta hoort of bij de versie die op 4 november live gaat, is niet bekend.

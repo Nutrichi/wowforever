@@ -25,7 +25,7 @@ Un Skyborne de la Horde puede hablar con elfos de la Alliance en World of Warcra
   </button>
 </figure>
 
-La publicación es del usuario de Reddit Odin_69, del 23 de septiembre, y tiene más de 660 votos positivos y 285 comentarios. Wowhead escribió sobre ello el 28 de septiembre.
+La publicación es del usuario de Reddit Odin_69, del 23 de septiembre, y tiene más de 660 votos positivos y 285 comentarios.
 
 ## Qué muestra la captura
 
@@ -43,6 +43,6 @@ En la práctica eso abre una sola línea entre facciones. Un Windshaper del lado
 
 ## Error o intención
 
-Blizzard no ha dicho si es intencionado. Wowhead recuerda que Blizzard siempre ha mantenido separadas a la Horde y la Alliance, y que puede ser un resto del inicio compartido de los Skyborne. Muchos jugadores en Reddit lo celebran por el rol.
+Blizzard no ha dicho si es intencionado. Blizzard siempre ha mantenido separadas a la Horde y la Alliance, y puede ser un resto del inicio compartido de los Skyborne. Muchos jugadores en Reddit lo celebran por el rol.
 
 No se sabe si el idioma seguirá en el lanzamiento del 4 de noviembre.

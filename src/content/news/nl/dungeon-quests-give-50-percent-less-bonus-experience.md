@@ -25,8 +25,8 @@ Alleen het extra deel krimpt. Een dungeonquest geeft nog altijd minstens zoveel 
 
 ## Waarom dungeonquests zoveel waard waren
 
-Blizzard verschoof in Forever [de experience in dungeons van kills naar quests](/nl/news/wow-forever-dungeon-experience-changes/). Monsters in een dungeon geven weinig, de quests veel. In The Hall of Thanes gaf een monster 28 tot 30 experience en elke quest 3.900 tot 4.900, volgens Wowhead.
+Blizzard verschoof in Forever [de experience in dungeons van kills naar quests](/nl/news/wow-forever-dungeon-experience-changes/). Monsters in een dungeon geven weinig, de quests veel. In The Hall of Thanes gaf een monster 28 tot 30 experience en elke quest 3.900 tot 4.900.
 
-Dat kreeg kritiek van twee kanten, schrijft Wowhead. Sommige spelers vreesden dat de questbonus het levelen te snel maakte. Anderen vonden dat een tweede run door een dungeon door de lage experience van monsters zinloos werd. De nieuwe build komt de eerste groep tegemoet. Voor herhaalde runs verandert er niets.
+Dat kreeg kritiek van twee kanten. Sommige spelers vreesden dat de questbonus het levelen te snel maakte. Anderen vonden dat een tweede run door een dungeon door de lage experience van monsters zinloos werd. De nieuwe build komt de eerste groep tegemoet. Voor herhaalde runs verandert er niets.
 
 Hoeveel een dungeonquest nu geeft, zegt Blizzard niet in cijfers. Of de experience van monsters weer omhooggaat, staat ook niet in de notes.

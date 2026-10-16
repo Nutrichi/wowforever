@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, una recompensa por reunir libros en World of Warcraft: Forever, ya no es solo para Rogues. Todas las clases pueden llevar ya el anillo, escribe Wowhead. En la build de la beta del 1 de octubre pierde además su Strength.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, una recompensa por reunir libros en World of Warcraft: Forever, ya no es solo para Rogues. Todas las clases pueden llevar ya el anillo. En la build de la beta del 1 de octubre pierde además su Strength.
 
-En Forever, los jugadores encuentran libros por todo el mundo, y entregarlos desbloquea misiones nuevas. Con 20 libros llega <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a>, que deja elegir uno de dos anillos. Field Researcher's Loop es uno de ellos. Cuál es el otro anillo, Wowhead no lo dice.
+En Forever, los jugadores encuentran libros por todo el mundo, y entregarlos desbloquea misiones nuevas. Con 20 libros llega <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a>, que deja elegir uno de dos anillos. Field Researcher's Loop es uno de ellos. Cuál es el otro anillo, no se sabe.
 
 ## Qué cambia en el anillo
 
@@ -27,8 +27,8 @@ Los archivos de la build confirman el cambio. Desaparece la restricción de clas
 | Nivel de objeto | 40 | 35 |
 | Stats | 7 Strength, 7 Agility, 7 Stamina | 7 Agility, 7 Stamina |
 
-Blizzard no citó el cambio en las notas de la build. La descripción en Wowhead aún muestra valores antiguos.
+Blizzard no citó el cambio en las notas de la build. Algunas descripciones en línea aún muestran valores antiguos.
 
 ## Reunir 20 libros
 
-Qué libros son los más fáciles de conseguir lo averiguó un usuario de Wowhead jugando con la Alianza, en [un comentario sobre el Scholarly Pendant](https://www.wowhead.com/forever/item=277203/scholarly-pendant#comments:id=6436230). Ahora que la beta llega al nivel 30, varios de esos libros son más fáciles de alcanzar, según Wowhead.
+Qué libros son los más fáciles de conseguir lo averiguó un jugador de la Alianza, en [un comentario sobre el Scholarly Pendant](https://www.wowhead.com/forever/item=277203/scholarly-pendant#comments:id=6436230). Ahora que la beta llega al nivel 30, varios de esos libros son más fáciles de alcanzar.

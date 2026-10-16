@@ -12,7 +12,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Testers in the beta of World of Warcraft: Forever have found a set that spans the whole of levelling. Partners in Crime is made up of two rings, writes Wowhead. One drops in a low-level dungeon, the other asks for level 60.
+Testers in the beta of World of Warcraft: Forever have found a set that spans the whole of levelling. Partners in Crime is made up of two rings. One drops in a low-level dungeon, the other asks for level 60.
 
 ## The two rings
 
@@ -33,8 +33,8 @@ Both lines are listed as a two-piece bonus, so nothing fires until the level 60 
 
 ## Why it matters for gearing
 
-The epic half of the set is a level 60 item, and that is what makes it interesting, writes Wowhead. A player may be running the Deadmines for a very long time to come, well past the level at which the dungeon is normally left behind.
+The epic half of the set is a level 60 item, and that is what makes it interesting. A player may be running the Deadmines for a very long time to come, well past the level at which the dungeon is normally left behind.
 
-Other dungeons may carry the same idea, writes Wowhead: one item that is the first half of a set which cannot be completed until much later. Whether Blizzard designed more of these, the studio does not say.
+Other dungeons may carry the same idea: one item that is the first half of a set which cannot be completed until much later. Whether Blizzard designed more of these, the studio does not say.
 
 It also gives the [larger default bank](/news/the-bank-starts-with-48-slots/) something to do. Gear that only pays off dozens of levels later has to be kept somewhere.

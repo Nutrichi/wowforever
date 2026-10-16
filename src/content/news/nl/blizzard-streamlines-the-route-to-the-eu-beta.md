@@ -25,7 +25,7 @@ De eerste dagen van de beta liepen testers in deze regio tegen routeringsproblem
 
 "Ik ben blij te kunnen melden dat we de voorbije 24 uur oplossingen ontwikkeld en uitgerold hebben om de routering naar de beta voor de EU-regio te stroomlijnen", schrijft Kaivax. Blizzard denkt dat die oplossingen alles dekken wat binnen het eigen bereik lag.
 
-Veel Europese testers draaiden intussen een VPN om hun latency te drukken, schrijft Wowhead, dat dat geen oplossing voor de lange duur noemt.
+Veel Europese testers draaiden intussen een VPN om hun latency te drukken, wat geen oplossing voor de lange duur is.
 
 ## Wat Blizzard niet kan oplossen
 

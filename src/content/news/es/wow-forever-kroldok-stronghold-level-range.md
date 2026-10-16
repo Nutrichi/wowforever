@@ -27,4 +27,4 @@ Krol'dok Stronghold es una mazmorra para los niveles 40 a 45 en World of Warcraf
 | Blackmaw Hold | 55 a 60 |
 | Shaper's Terrace | 58 a 60 |
 
-La lista cubre las mazmorras que están en el lanzamiento, escribe Wowhead. Si después llegan más, Blizzard no lo dice.
+La lista cubre las mazmorras que están en el lanzamiento. Si después llegan más, Blizzard no lo dice.

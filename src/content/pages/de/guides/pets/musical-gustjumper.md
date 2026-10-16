@@ -31,7 +31,7 @@ Musical Gustjumper ist ein Haustier, das neu in World of Warcraft: Forever ist. 
 | Quelle | In der Welt: ein Frosch, der zurücksingt |
 | Wo | Zephras Isle |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -44,7 +44,7 @@ Er sitzt auf Zephras Isle, dem Startgebiet der Skyborne, bei /way 51.5 72.3. Auc
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere in Zephras Isle
 

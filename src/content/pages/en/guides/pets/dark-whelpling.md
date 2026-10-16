@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Dark Whelpling in WoW Forever?"
-    a: "It drops from several monsters. These have the best chance in the loot data of Wowhead: Scalding Whelp in Badlands, about 0.1% Searing Whelp in Dustwallow Marsh, about 0.1%"
+    a: "It drops from several monsters. These have the best chance in the loot data: Scalding Whelp in Badlands, about 0.1% Searing Whelp in Dustwallow Marsh, about 0.1%"
   - q: "Is Dark Whelpling new in WoW Forever?"
     a: "No. Dark Whelpling was already in Classic and returns in WoW Forever."
 sources:
@@ -29,11 +29,11 @@ Dark Whelpling is a companion pet from Classic that returns in World of Warcraft
 | Where | Badlands and Dustwallow Marsh |
 | Drop chance | 0.1% |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
-It drops from several monsters. These have the best chance in the loot data of Wowhead:
+It drops from several monsters. These have the best chance in the loot data:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2725">Scalding Whelp</a> in Badlands, about 0.1%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4324">Searing Whelp</a> in Dustwallow Marsh, about 0.1%
@@ -42,7 +42,7 @@ It drops from several monsters. These have the best chance in the loot data of W
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags. Summoning it is instant instead of a 1 second cast, with a cooldown of 1.5 seconds.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

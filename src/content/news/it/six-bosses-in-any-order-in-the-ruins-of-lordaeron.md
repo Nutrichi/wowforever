@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Le Ruins of Lordaeron sono il dungeon sopra la Undercity in World of Warcraft: Forever, per i livelli dal 15 al 20. Wowhead ha pubblicato un resoconto. I sei boss si possono affrontare in qualsiasi ordine. La Horde vi trova sei missioni, l’Alliance quattro.
+Le Ruins of Lordaeron sono il dungeon sopra la Undercity in World of Warcraft: Forever, per i livelli dal 15 al 20. I sei boss si possono affrontare in qualsiasi ordine. La Horde vi trova sei missioni, l’Alliance quattro.
 
 <figure class="wf-embed" data-wf-video="VbryA5eOUHI">
   <button type="button" class="wf-embed__play">
@@ -25,15 +25,15 @@ Le Ruins of Lordaeron sono il dungeon sopra la Undercity in World of Warcraft: F
   </button>
 </figure>
 
-Il resoconto è di Jurdi, che ha scritto anche quello della [Hall of Thanes](/it/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Ha giocato il dungeon nella beta e lo descrive come non lineare, con segreti facili da perdere. Il boss finale è di livello 20, scrive Wowhead, senza dire quale dei sei sia.
+Il resoconto è di Jurdi, che ha scritto anche quello della [Hall of Thanes](/it/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Ha giocato il dungeon nella beta e lo descrive come non lineare, con segreti facili da perdere. Il boss finale è di livello 20, senza dire quale dei sei sia.
 
 ## Dove si trova
 
-L’ingresso è nelle rovine all’aperto di Lordaeron, la città sopra la Undercity, subito a sinistra dopo il cancello, scrive Wowhead. Lo Spirit Healer è appena fuori, quindi un wipe costa poco tempo.
+L’ingresso è nelle rovine all’aperto di Lordaeron, la città sopra la Undercity, subito a sinistra dopo il cancello. Lo Spirit Healer è appena fuori, quindi un wipe costa poco tempo.
 
 ![Il portale di un palazzo in rovina a Lordaeron con scale e giardini invasi dalla vegetazione davanti, uno screenshot dalla beta di World of Warcraft: Forever](../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-entrance.jpg)
 
-Per la Horde è una breve camminata da Brill. L’Alliance ha un lungo viaggio: la nave da Stormwind Harbor ad Auberdine, poi la nave per Menethil Harbor e fino a Southshore, e da lì verso nord oltre Dalaran e attraverso Silverpine Forest, secondo la guida al dungeon di Wowhead. Gli Skyborne dalla parte dell’Alliance ne saltano gran parte con un portale dalla Mage Tower di Stormwind a Dalaran.
+Per la Horde è una breve camminata da Brill. L’Alliance ha un lungo viaggio: la nave da Stormwind Harbor ad Auberdine, poi la nave per Menethil Harbor e fino a Southshore, e da lì verso nord oltre Dalaran e attraverso Silverpine Forest. Gli Skyborne dalla parte dell’Alliance ne saltano gran parte con un portale dalla Mage Tower di Stormwind a Dalaran.
 
 ## Sei missioni per la Horde, quattro per l’Alliance
 
@@ -45,7 +45,7 @@ L’Alliance trova tutto all’interno. Captain Truman, amichevole con l’Allia
 
 ![Captain Truman, un soldato non morto con una lanterna in una sala di pietra buia, con il nome in rosso sopra la testa, uno screenshot dalla beta di World of Warcraft: Forever](../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-captain-truman.jpg)
 
-Ogni missione dà fino a 9.750 punti esperienza. Nel gioco appaiono rosse anche al livello 17, perché le missioni sono di livello 21 e 22, ma il dungeon si può completare al 17, dice Wowhead.
+Ogni missione dà fino a 9.750 punti esperienza. Nel gioco appaiono rosse anche al livello 17, perché le missioni sono di livello 21 e 22, ma il dungeon si può completare al 17.
 
 | Ricompensa | Tipo | Missione |
 |---|---|---|
@@ -60,7 +60,7 @@ Ogni missione con chi la assegna, le coordinate e tutte le ricompense è nella [
 
 **Witherfang** è un ragno che pattuglia King's Alley con due ragni più piccoli. Ripulite prima il trash sul suo percorso, così arriva da solo. Il suo Leech Poison si può rimuovere dal tank.
 
-**The Baron** è un’abominazione il cui Knockout colpisce forte e può uccidere il tank in fretta. Tenete il tank a vita piena e stordite il boss il più spesso possibile, scrive Wowhead.
+**The Baron** è un’abominazione il cui Knockout colpisce forte e può uccidere il tank in fretta. Tenete il tank a vita piena e stordite il boss il più spesso possibile.
 
 **Viktor the Vile** è facile da perdere. Un gruppo deve prima accendere la Kindled Flame nel camino di un edificio vicino al cimitero e superare cinque ondate di add. Colpisce forte, quindi il tank deve prendere l’aggro prima che entrino gli altri. Nella beta a volte non compare.
 
@@ -68,16 +68,16 @@ Ogni missione con chi la assegna, le coordinate e tutte le ricompense è nella [
 
 ![The Abandoned, un non morto incappucciato con lunghi artigli, in combattimento con un gruppo di giocatori su un prato buio, uno screenshot dalla beta di World of Warcraft: Forever](../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-the-abandoned.jpg)
 
-**Bjork** lancia solo un breve Anti-Magic Shield. Wowhead lo definisce un boss facile.
+**Bjork** lancia solo un breve Anti-Magic Shield. È un boss facile.
 
 **Rath'mael** mette un Flamestrike a terra dove stava il tank. Uscitene e continuate a combattere in un altro punto.
 
 ## Un trash molto fitto
 
-Il trash colpisce meno forte che nella Hall of Thanes, scrive Wowhead, ma i gruppi di mostri stanno molto vicini. È facile tirarne due insieme, e i gruppi senza controllo della folla fanno fatica, soprattutto a livello basso. I Paladin vanno bene dal livello 20, quando imparano Exorcism, che colpisce i non morti.
+Il trash colpisce meno forte che nella Hall of Thanes, ma i gruppi di mostri stanno molto vicini. È facile tirarne due insieme, e i gruppi senza controllo della folla fanno fatica, soprattutto a livello basso. I Paladin vanno bene dal livello 20, quando imparano Exorcism, che colpisce i non morti.
 
 ## Cosa non è certo
 
-Blizzard dà al dungeon un intervallo da 15 a 20. Wowhead parla di un intervallo da 16 a 23 nell’articolo e da 16 a 22 nella sua guida al dungeon. Viktor the Vile non compare sempre nella beta. Non si sa se sarà corretto prima del lancio del 4 novembre.
+Blizzard dà al dungeon un intervallo da 15 a 20. Altre fonti indicano da 16 a 23 o da 16 a 22. Viktor the Vile non compare sempre nella beta. Non si sa se sarà corretto prima del lancio del 4 novembre.
 
-In Forever i dungeon danno meno esperienza dai mostri in una seconda run, quindi un gruppo che perde Viktor o il Crest ha meno motivi per tornare, scrive Wowhead.
+In Forever i dungeon danno meno esperienza dai mostri in una seconda run, quindi un gruppo che perde Viktor o il Crest ha meno motivi per tornare.

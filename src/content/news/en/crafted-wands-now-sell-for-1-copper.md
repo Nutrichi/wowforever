@@ -22,7 +22,7 @@ The change is in the notes of the beta build of 1 October:
 
 ## What the wands used to be worth
 
-The old prices come from the files of the previous build, 70124. Besides essences and dust from disenchanting, each wand needs wood from a vendor: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> for about 40 copper or <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> for about 45 silver, according to Wowhead.
+The old prices come from the files of the previous build, 70124. Besides essences and dust from disenchanting, each wand needs wood from a vendor: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4470"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Simple Wood</a> for about 40 copper or <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> for about 45 silver.
 
 | Wand | Old price | Now | Materials |
 |---|---|---|---|
@@ -33,4 +33,4 @@ The old prices come from the files of the previous build, 70124. Besides essence
 
 Whoever disenchanted the green items they found anyway, got the essences for free. Then selling wands was an easy way to make silver. That is over: the wands are now only worth using, while levelling or as gear.
 
-The Lesser Mystic Wand already sold for less than its materials cost, writes Wowhead. For the other three, the vendor paid more than the wood.
+The Lesser Mystic Wand already sold for less than its materials cost. For the other three, the vendor paid more than the wood.

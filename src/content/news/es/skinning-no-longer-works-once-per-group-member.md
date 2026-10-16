@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Una criatura de World of Warcraft: Forever vuelve a poder desollarse una sola vez antes de que desaparezca su cadáver. Hasta ahora, cada miembro de un grupo podía desollar a la misma bestia. La última build de la beta lo corrige, escribe Wowhead.
+Una criatura de World of Warcraft: Forever vuelve a poder desollarse una sola vez antes de que desaparezca su cadáver. Hasta ahora, cada miembro de un grupo podía desollar a la misma bestia. La última build de la beta lo corrige.
 
 Skinning da cuero de las bestias. En Classic, el cadáver desaparece tras desollarlo una vez. En la beta de Forever, los jugadores en grupo podían desollar durante las dos últimas semanas a la misma criatura una vez por miembro, así que una sola muerte daba más cuero. Los jugadores no sabían si era intencionado.
 
@@ -21,4 +21,4 @@ Las notas de la build dicen:
 
 > Creatures can once again only be skinned a single time before disappearing.
 
-Eso deja claro que era un bug, escribe Wowhead. Un solo desollador por criatura cambia cuánto cuero llega al mercado cuando Forever salga el 4 de noviembre.
+Eso deja claro que era un bug. Un solo desollador por criatura cambia cuánto cuero llega al mercado cuando Forever salga el 4 de noviembre.

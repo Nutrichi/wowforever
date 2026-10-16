@@ -1,6 +1,6 @@
 ---
 title: "Rezepte lassen sich wie eine Quest verfolgen"
-description: "Die Berufe in WoW Forever bekommen ein Kästchen Track Recipe, einen Chatlink für das ganze Rezeptbuch und neue Filter. Wowhead zeigte alle drei in der Beta."
+description: "Die Berufe in WoW Forever bekommen ein Kästchen Track Recipe, einen Chatlink für das ganze Rezeptbuch und neue Filter. Alle drei sind in der Beta."
 date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: de
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Die Berufe in WoW Forever bekommen drei Erleichterungen. Ein Rezept lässt sich wie eine Quest verfolgen, ein ganzes Rezeptbuch lässt sich im Chat verlinken, und neue Filter sortieren die Rezepte. Wowhead zeigte alle drei aus der Beta.
+Die Berufe in WoW Forever bekommen drei Erleichterungen. Ein Rezept lässt sich wie eine Quest verfolgen, ein ganzes Rezeptbuch lässt sich im Chat verlinken, und neue Filter sortieren die Rezepte. Alle drei sind schon in der Beta.
 
 ## Ein Rezept verfolgen
 
@@ -21,7 +21,7 @@ Das Berufsfenster hat ein neues Kästchen, Track Recipe, unten bei Create All.
 
 ![Das Alchemy-Fenster mit ausgewähltem Elixir of Minor Force und dem Kästchen Track Recipe unten](../../../assets/posts/2026-09-25-wow-forever-alchemy-track-recipe.png)
 
-Wer es anhakt, sieht die Reagenzien rechts auf dem Bildschirm, unter den Quests, in derselben Liste wie die Ziele. Das hilft beim Kauf von Material im Auction House oder beim Sammeln in der Welt, schreibt Wowhead.
+Wer es anhakt, sieht die Reagenzien rechts auf dem Bildschirm, unter den Quests, in derselben Liste wie die Ziele. Das hilft beim Kauf von Material im Auction House oder beim Sammeln in der Welt.
 
 ![Die Zielliste mit einer Quest und, unter Profession, Elixir of Minor Defense mit seinen drei Reagenzien](../../../assets/posts/2026-09-25-wow-forever-tracked-reagents.jpg)
 

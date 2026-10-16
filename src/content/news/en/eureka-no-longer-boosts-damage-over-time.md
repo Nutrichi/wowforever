@@ -20,11 +20,11 @@ The note in the build is short:
 >
 > Eureka! no longer benefits periodic effects at all. Channeled spells do not count as periodics.
 
-Eureka! is an active racial with a 2 minute cooldown. Your next 3 damaging abilities cost 10% less and deal 10% more damage. The first nerf already lowered the discount on resources, writes Wowhead.
+Eureka! is an active racial with a 2 minute cooldown. Your next 3 damaging abilities cost 10% less and deal 10% more damage. The first nerf already lowered the discount on resources.
 
 ## What it means per class
 
-The racial has a version per resource. Wowhead lists four in the data of the build:
+The racial has a version per resource. The data of the build holds four:
 
 | Class | Resource | What drops out |
 |---|---|---|

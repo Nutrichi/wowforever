@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Op een PvP-ruleset in World of Warcraft: Forever mag een speler alleen personages van één factie hebben. Op de andere rulesets mogen beide kanten. Dat zeggen Lead Game Designer Tim Jones en Lead Software Engineer Nora Mills in een interview met Game Informer, samengevat door Wowhead.
+Op een PvP-ruleset in World of Warcraft: Forever mag een speler alleen personages van één factie hebben. Op de andere rulesets mogen beide kanten. Dat zeggen Lead Game Designer Tim Jones en Lead Software Engineer Nora Mills in een interview met Game Informer.
 
 ## Eén kant op een PvP-ruleset
 

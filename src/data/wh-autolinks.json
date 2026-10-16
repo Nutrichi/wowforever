@@ -800,6 +800,12 @@
 "q": -1,
 "t": "s"
 },
+"Berserking": {
+"icon": "racial_troll_berserk",
+"id": 20554,
+"q": -1,
+"t": "s"
+},
 "Bloodrage": {
 "icon": "ability_racial_bloodrage",
 "id": 2687,
@@ -851,6 +857,12 @@
 "Counterattack": {
 "icon": "ability_warrior_challange",
 "id": 19306,
+"q": -1,
+"t": "s"
+},
+"Cultivation": {
+"icon": "inv_misc_flower_01",
+"id": 20552,
 "q": -1,
 "t": "s"
 },
@@ -914,6 +926,12 @@
 "q": -1,
 "t": "s"
 },
+"Fade": {
+"icon": "spell_magic_lesserinvisibilty",
+"id": 586,
+"q": -1,
+"t": "s"
+},
 "Feint": {
 "icon": "ability_rogue_feint",
 "id": 1966,
@@ -956,6 +974,12 @@
 "q": -1,
 "t": "s"
 },
+"Growl": {
+"icon": "ability_physical_taunt",
+"id": 1853,
+"q": -1,
+"t": "s"
+},
 "Hellfire": {
 "icon": "spell_fire_incinerate",
 "id": 1949,
@@ -971,6 +995,12 @@
 "Ignite": {
 "icon": "spell_fire_incinerate",
 "id": 11119,
+"q": -1,
+"t": "s"
+},
+"Illumination": {
+"icon": "spell_holy_greaterheal",
+"id": 20210,
 "q": -1,
 "t": "s"
 },
@@ -1010,6 +1040,12 @@
 "q": -1,
 "t": "s"
 },
+"Levitate": {
+"icon": "spell_holy_layonhands",
+"id": 1706,
+"q": -1,
+"t": "s"
+},
 "Lightwell": {
 "icon": "spell_holy_summonlightwell",
 "id": 724,
@@ -1043,6 +1079,12 @@
 "Permafrost": {
 "icon": "spell_frost_wisp",
 "id": 11175,
+"q": -1,
+"t": "s"
+},
+"Plainsrunning": {
+"icon": "achievement_zone_barrens_01",
+"id": 1259918,
 "q": -1,
 "t": "s"
 },
@@ -1082,6 +1124,12 @@
 "q": -1,
 "t": "s"
 },
+"Regeneration": {
+"icon": "spell_nature_regenerate",
+"id": 20555,
+"q": -1,
+"t": "s"
+},
 "Regrowth": {
 "icon": "spell_nature_resistnature",
 "id": 8936,
@@ -1106,6 +1154,12 @@
 "q": -1,
 "t": "s"
 },
+"Repentance": {
+"icon": "spell_holy_prayerofhealing",
+"id": 20066,
+"q": -1,
+"t": "s"
+},
 "Retaliation": {
 "icon": "ability_warrior_challange",
 "id": 20230,
@@ -1118,6 +1172,18 @@
 "q": -1,
 "t": "s"
 },
+"Revoke": {
+"icon": "spell_holy_prayerofmendingtga",
+"id": 1325499,
+"q": -1,
+"t": "s"
+},
+"Riposte": {
+"icon": "ability_warrior_challange",
+"id": 14251,
+"q": -1,
+"t": "s"
+},
 "Riptide": {
 "icon": "spell_nature_riptide",
 "id": 408521,
@@ -1127,6 +1193,18 @@
 "Rupture": {
 "icon": "ability_rogue_rupture",
 "id": 1943,
+"q": -1,
+"t": "s"
+},
+"Salvation": {
+"icon": "spell_holy_sealofsalvation",
+"id": 1038,
+"q": -1,
+"t": "s"
+},
+"Savage": {
+"icon": "inv_axe_02",
+"id": 20574,
 "q": -1,
 "t": "s"
 },
@@ -1148,9 +1226,21 @@
 "q": -1,
 "t": "s"
 },
+"Shatter": {
+"icon": "spell_frost_frostshock",
+"id": 11170,
+"q": -1,
+"t": "s"
+},
 "Shred": {
 "icon": "spell_shadow_vampiricaura",
 "id": 5221,
+"q": -1,
+"t": "s"
+},
+"Skysight": {
+"icon": "ability_skyreach_lens_flare",
+"id": 1259686,
 "q": -1,
 "t": "s"
 },
@@ -1202,6 +1292,12 @@
 "q": -1,
 "t": "s"
 },
+"Taunt": {
+"icon": "spell_nature_reincarnation",
+"id": 355,
+"q": -1,
+"t": "s"
+},
 "Thorns": {
 "icon": "spell_nature_thorns",
 "id": 467,
@@ -1223,6 +1319,12 @@
 "Venom": {
 "icon": "inv_sword_31",
 "id": 1310703,
+"q": -1,
+"t": "s"
+},
+"Wands": {
+"icon": "ability_shootwand",
+"id": 5009,
 "q": -1,
 "t": "s"
 },
@@ -5160,7 +5262,7 @@
 "q": 1
 },
 "i:2776": {
-"icon": "inv_ore_copper_01",
+"icon": "inv_ore_gold_01",
 "q": 2
 },
 "i:277714": {
@@ -5351,6 +5453,10 @@
 "icon": "inv_diablofunsized_c60_red",
 "q": 3
 },
+"i:281350": {
+"icon": "inv_stone_sharpeningstone_02",
+"q": 2
+},
 "i:2816": {
 "icon": "inv_mace_07",
 "q": 3
@@ -5382,6 +5488,14 @@
 "i:2840": {
 "icon": "inv_ingot_02",
 "q": 1
+},
+"i:284092": {
+"icon": "inv_stone_07",
+"q": 3
+},
+"i:284093": {
+"icon": "inv_stone_weightstone_04",
+"q": 4
 },
 "i:2841": {
 "icon": "inv_ingot_bronze",
@@ -6951,10 +7065,6 @@
 "icon": "ability_hunter_zenarchery",
 "q": -1
 },
-"s:1225177": {
-"icon": "spell_shadow_curseofachimonde",
-"q": -1
-},
 "s:1225451": {
 "icon": "inv_misc_pocketwatch_03",
 "q": -1
@@ -7877,10 +7987,6 @@
 },
 "s:20594": {
 "icon": "spell_shadow_unholystrength",
-"q": -1
-},
-"s:20597": {
-"icon": "ability_meleedamage",
 "q": -1
 },
 "s:20598": {
@@ -14516,6 +14622,12 @@
 "q": -1,
 "t": "s"
 },
+"Arcane Wrath": {
+"icon": "ability_mage_netherwindpresence",
+"id": 1326079,
+"q": -1,
+"t": "s"
+},
 "Arcanic Systems Manual": {
 "icon": "inv_misc_toy_05",
 "id": 209847,
@@ -14639,6 +14751,12 @@
 "Auto Shot": {
 "icon": "ability_whirlwind",
 "id": 75,
+"q": -1,
+"t": "s"
+},
+"Axe Specialization": {
+"icon": "ability_shockwave",
+"id": 4334,
 "q": -1,
 "t": "s"
 },
@@ -15080,6 +15198,12 @@
 "q": -1,
 "t": "s"
 },
+"Blessing of Kings": {
+"icon": "spell_magic_magearmor",
+"id": 20217,
+"q": -1,
+"t": "s"
+},
 "Blessing of Might": {
 "icon": "spell_holy_fistofjustice",
 "id": 19740,
@@ -15476,6 +15600,12 @@
 "q": 1,
 "t": "i"
 },
+"Brittle Key": {
+"icon": "inv_misc_key_08",
+"id": 221324,
+"q": 1,
+"t": "i"
+},
 "Broken Tears": {
 "icon": "inv_misc_gem_sapphire_03",
 "id": 6083,
@@ -15578,6 +15708,12 @@
 "q": -1,
 "t": "s"
 },
+"Burnt Page": {
+"icon": "inv_misc_savageleatherscraps",
+"id": 281356,
+"q": 1,
+"t": "i"
+},
 "Calcified Smoothie": {
 "alt": {
 "icon": "inv_drink_15_color01",
@@ -15673,6 +15809,12 @@
 "id": 768,
 "q": -1,
 "t": "s"
+},
+"Cenarion Moondust": {
+"icon": "inv_enchant_dustsoul",
+"id": 15208,
+"q": 1,
+"t": "i"
 },
 "Cerulean Dye": {
 "alt": {
@@ -16172,6 +16314,12 @@
 "q": 1,
 "t": "i"
 },
+"Dark Inspiration": {
+"icon": "spell_warlock_demonsoul",
+"id": 1326159,
+"q": -1,
+"t": "s"
+},
 "Dark Iron Bar": {
 "icon": "inv_ingot_mithril",
 "id": 11371,
@@ -16255,6 +16403,12 @@
 "id": 19291,
 "q": 1,
 "t": "i"
+},
+"Death Mark": {
+"icon": "ability_creature_cursed_02",
+"id": 1316709,
+"q": -1,
+"t": "s"
 },
 "Death Wish": {
 "icon": "spell_shadow_deathpact",
@@ -16448,6 +16602,12 @@
 "q": 1,
 "t": "i"
 },
+"Dismember": {
+"icon": "ability_hunter_pet_crocolisk",
+"id": 1264758,
+"q": -1,
+"t": "s"
+},
 "Dispel Magic": {
 "icon": "spell_holy_dispelmagic",
 "id": 527,
@@ -16484,6 +16644,12 @@
 "q": -1,
 "t": "s"
 },
+"Divine Favor": {
+"icon": "spell_holy_heal",
+"id": 20216,
+"q": -1,
+"t": "s"
+},
 "Divine Fury": {
 "icon": "spell_holy_sealofwrath",
 "id": 18530,
@@ -16493,6 +16659,12 @@
 "Divine Grace": {
 "icon": "ability_priest_savinggrace",
 "id": 1277370,
+"q": -1,
+"t": "s"
+},
+"Divine Precision": {
+"icon": "spell_holy_healingfocus",
+"id": 1310904,
 "q": -1,
 "t": "s"
 },
@@ -16592,6 +16764,12 @@
 "q": 1,
 "t": "i"
 },
+"Earth Fury": {
+"icon": "spell_shaman_unleashweapon_earth",
+"id": 1259719,
+"q": -1,
+"t": "s"
+},
 "Earth Shock": {
 "icon": "spell_nature_earthshock",
 "id": 8042,
@@ -16631,6 +16809,12 @@
 "Elemental Focus": {
 "icon": "spell_shadow_manaburn",
 "id": 16164,
+"q": -1,
+"t": "s"
+},
+"Elemental Mastery": {
+"icon": "spell_nature_wispheal",
+"id": 16166,
 "q": -1,
 "t": "s"
 },
@@ -17132,6 +17316,12 @@
 "q": 1,
 "t": "i"
 },
+"Find Treasure": {
+"icon": "racial_dwarf_findtreasure",
+"id": 2481,
+"q": -1,
+"t": "s"
+},
 "Fingers of Frost": {
 "icon": "ability_mage_wintersgrasp",
 "id": 400647,
@@ -17462,6 +17652,12 @@
 "q": -1,
 "t": "s"
 },
+"Frost Blast": {
+"icon": "spell_frost_frostbolt",
+"id": 1326053,
+"q": -1,
+"t": "s"
+},
 "Frost Channeling": {
 "icon": "spell_frost_stun",
 "id": 11160,
@@ -17781,7 +17977,7 @@
 "t": "i"
 },
 "Gold Ore": {
-"icon": "inv_ore_copper_01",
+"icon": "inv_ore_gold_01",
 "id": 2776,
 "q": 2,
 "t": "i"
@@ -18122,6 +18318,12 @@
 "q": 1,
 "t": "i"
 },
+"Grim Reach": {
+"icon": "spell_shadow_callofbone",
+"id": 18218,
+"q": -1,
+"t": "s"
+},
 "Grime-Encrusted Ring": {
 "icon": "inv_stone_04",
 "id": 9326,
@@ -18140,9 +18342,21 @@
 "q": -1,
 "t": "s"
 },
+"Halaan's Gift": {
+"icon": "ability_eyeoftheowl",
+"id": 1272014,
+"q": -1,
+"t": "s"
+},
 "Hammer of Justice": {
 "icon": "spell_holy_sealofmight",
 "id": 853,
+"q": -1,
+"t": "s"
+},
+"Hammer of Wrath": {
+"icon": "ability_thunderclap",
+"id": 24239,
 "q": -1,
 "t": "s"
 },
@@ -18662,6 +18876,12 @@
 "q": -1,
 "t": "s"
 },
+"Improved Blessing of Wisdom": {
+"icon": "spell_holy_sealofwisdom",
+"id": 20244,
+"q": -1,
+"t": "s"
+},
 "Improved Blizzard": {
 "icon": "spell_frost_icestorm",
 "id": 11185,
@@ -18707,6 +18927,12 @@
 "Improved Expose Armor": {
 "icon": "ability_warrior_riposte",
 "id": 14168,
+"q": -1,
+"t": "s"
+},
+"Improved Fire Blast": {
+"icon": "spell_fire_lavaspawn",
+"id": 11078,
 "q": -1,
 "t": "s"
 },
@@ -18770,9 +18996,21 @@
 "q": -1,
 "t": "s"
 },
+"Improved Righteous Fury": {
+"icon": "spell_holy_sealoffury",
+"id": 20468,
+"q": -1,
+"t": "s"
+},
 "Improved Scorch": {
 "icon": "spell_fire_windsofwoe",
 "id": 11095,
+"q": -1,
+"t": "s"
+},
+"Improved Seal of Fury": {
+"icon": "spell_holy_righteousnessaura",
+"id": 1314103,
 "q": -1,
 "t": "s"
 },
@@ -18842,6 +19080,12 @@
 "q": -1,
 "t": "s"
 },
+"Infusion of Light": {
+"icon": "ability_paladin_infusionoflight",
+"id": 53672,
+"q": -1,
+"t": "s"
+},
 "Initiative": {
 "icon": "spell_shadow_fumble",
 "id": 13976,
@@ -18863,6 +19107,12 @@
 "Insect Swarm": {
 "icon": "spell_nature_insectswarm",
 "id": 5570,
+"q": -1,
+"t": "s"
+},
+"Instrument of Law": {
+"icon": "spell_holy_divinepurpose",
+"id": 1311085,
 "q": -1,
 "t": "s"
 },
@@ -18889,6 +19139,12 @@
 "id": 3575,
 "q": 1,
 "t": "i"
+},
+"Iron Creed": {
+"icon": "spell_holy_improvedresistanceauras",
+"id": 1311033,
+"q": -1,
+"t": "s"
 },
 "Iron Ore": {
 "icon": "inv_ore_iron_01",
@@ -18966,6 +19222,12 @@
 "icon": "inv_misc_key_13",
 "id": 12382,
 "q": 2,
+"t": "i"
+},
+"Keystone Fragment": {
+"icon": "inv_stone_weightstone_04",
+"id": 284093,
+"q": 4,
 "t": "i"
 },
 "Khadgar's Whisker": {
@@ -19075,6 +19337,12 @@
 "id": 19293,
 "q": 1,
 "t": "i"
+},
+"Lasting Judgement": {
+"icon": "spell_holy_healingaura",
+"id": 20359,
+"q": -1,
+"t": "s"
 },
 "Lava Burst": {
 "icon": "spell_shaman_lavaburst",
@@ -19544,6 +19812,12 @@
 "q": -1,
 "t": "s"
 },
+"Mace Specialization": {
+"icon": "ability_thunderbolt",
+"id": 4366,
+"q": -1,
+"t": "s"
+},
 "Mace of Unending Life": {
 "icon": "inv_mace22",
 "id": 21407,
@@ -19736,6 +20010,12 @@
 "q": -1,
 "t": "s"
 },
+"Mass Salvation": {
+"icon": "spell_holy_greaterblessingofsalvation",
+"id": 25895,
+"q": -1,
+"t": "s"
+},
 "Master Angler's Fishing Hat": {
 "icon": "inv_helmet_50",
 "id": 276272,
@@ -19868,6 +20148,12 @@
 "q": -1,
 "t": "s"
 },
+"Mine!": {
+"icon": "spell_nature_natureswrath",
+"id": 1265054,
+"q": -1,
+"t": "s"
+},
 "Minion's Scourgestone": {
 "icon": "inv_jewelry_talisman_14",
 "id": 12840,
@@ -19988,6 +20274,12 @@
 "q": 3,
 "t": "i"
 },
+"Moonkin Aura": {
+"icon": "spell_nature_moonglow",
+"id": 24907,
+"q": -1,
+"t": "s"
+},
 "Moonkin Form": {
 "icon": "spell_nature_forceofnature",
 "id": 24858,
@@ -20059,6 +20351,18 @@
 "id": 399956,
 "q": -1,
 "t": "s"
+},
+"Mystic Mushroom": {
+"alt": {
+"icon": "inv_mushroom_11",
+"id": 1248752,
+"q": 3,
+"t": "s"
+},
+"icon": "inv_mushroom_11",
+"id": 249396,
+"q": 3,
+"t": "i"
 },
 "Nat Pagle's Extreme Anglin' Boots": {
 "icon": "inv_boots_09",
@@ -20399,7 +20703,7 @@
 "Pattern: Mantle of the Timbermaw": {
 "icon": "inv_scroll_03",
 "id": 19218,
-"q": 1,
+"q": 3,
 "t": "i"
 },
 "Pattern: Might of the Timbermaw": {
@@ -20882,6 +21186,12 @@
 "q": -1,
 "t": "s"
 },
+"Power in Light": {
+"icon": "spell_holy_searinglight",
+"id": 1309969,
+"q": -1,
+"t": "s"
+},
 "Powerful Poultice": {
 "alt": {
 "icon": "inv_10_alchemy2_quenchingfluid_color1",
@@ -21193,12 +21503,6 @@
 "id": 8365,
 "q": 1,
 "t": "i"
-},
-"Read Ley Line": {
-"icon": "ability_mage_incantersabsorbtion",
-"id": 1259705,
-"q": -1,
-"t": "s"
 },
 "Read Leyline": {
 "icon": "ability_mage_incantersabsorbtion",
@@ -21914,6 +22218,12 @@
 "q": -1,
 "t": "s"
 },
+"Scatter Shot": {
+"icon": "ability_golemstormbolt",
+"id": 19503,
+"q": -1,
+"t": "s"
+},
 "Schematic: Bloodvine Goggles": {
 "icon": "inv_scroll_03",
 "id": 20000,
@@ -22202,6 +22512,12 @@
 "q": -1,
 "t": "s"
 },
+"Shatter Curse": {
+"icon": "spell_nature_removecurse",
+"id": 1299026,
+"q": -1,
+"t": "s"
+},
 "Sheen of Zanza": {
 "alt": {
 "icon": "inv_potion_29",
@@ -22217,6 +22533,12 @@
 "Shield Slam": {
 "icon": "inv_shield_05",
 "id": 23922,
+"q": -1,
+"t": "s"
+},
+"Shield Specialization": {
+"icon": "inv_shield_06",
+"id": 12298,
 "q": -1,
 "t": "s"
 },
@@ -22784,6 +23106,12 @@
 "q": 1,
 "t": "i"
 },
+"Stone Key": {
+"icon": "inv_misc_stonetablet_04",
+"id": 281358,
+"q": 1,
+"t": "i"
+},
 "Stonewrought Design": {
 "icon": "inv_misc_book_11",
 "id": 220349,
@@ -22921,6 +23249,12 @@
 "id": 3820,
 "q": 1,
 "t": "i"
+},
+"Strength of Earth Totem": {
+"icon": "spell_nature_earthbindtotem",
+"id": 8075,
+"q": -1,
+"t": "s"
 },
 "Strider Kick": {
 "icon": "ability_hunter_pet_tallstrider",
@@ -23408,6 +23742,12 @@
 "q": 1,
 "t": "i"
 },
+"Sword Specialization": {
+"icon": "ability_meleedamage",
+"id": 4350,
+"q": -1,
+"t": "s"
+},
 "Syncretist's Sigil": {
 "alt": {
 "icon": "temp",
@@ -23765,6 +24105,12 @@
 "Torn Bear Pelt": {
 "icon": "inv_misc_pelt_bear_ruin_05",
 "id": 11407,
+"q": 1,
+"t": "i"
+},
+"Torn Page": {
+"icon": "inv_misc_note_03",
+"id": 281347,
 "q": 1,
 "t": "i"
 },
@@ -24212,6 +24558,12 @@
 "q": 3,
 "t": "i"
 },
+"Voice of Truth": {
+"icon": "inv_misc_horn_03",
+"id": 1310897,
+"q": -1,
+"t": "s"
+},
 "Void Bolt": {
 "icon": "spell_shadow_shadowbolt",
 "id": 7588,
@@ -24220,7 +24572,7 @@
 },
 "Wake of Fire": {
 "icon": "spell_fire_lavaspawn",
-"id": 11078,
+"id": 1312934,
 "q": -1,
 "t": "s"
 },
@@ -24493,6 +24845,12 @@
 "id": 249898,
 "q": 1,
 "t": "i"
+},
+"Wind Blessed": {
+"icon": "inv_misc_volatileair",
+"id": 1259710,
+"q": -1,
+"t": "s"
 },
 "Windfury Totem": {
 "icon": "spell_nature_windfury",

@@ -30,7 +30,7 @@ Bitter Baitling es una mascota de compañía nueva en World of Warcraft: Forever
 | Dónde | Stranglethorn Vale |
 | Precio | 1 <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a> |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
@@ -40,7 +40,7 @@ La moneda es el premio por ganar el Stranglethorn Fishing Extravaganza.
 
 ## Conviene saber
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas en Stranglethorn Vale
 

@@ -15,7 +15,7 @@ manual: true
 ---
 La beta di World of Warcraft: Forever va offline verso le 20.00 ora belga del 1° ottobre. Blizzard installa la nuova build con il livello massimo di 30. La beta dovrebbe tornare la mattina presto del 2 ottobre.
 
-Il community manager Kaivax l'ha annunciato sui forum europei alle 19.13 ora belga, riporta Wowhead:
+Il community manager Kaivax l'ha annunciato sui forum europei alle 19.13 ora belga:
 
 > We think we'll take the Beta offline in about 45 minutes.
 >
@@ -25,6 +25,6 @@ Il primo annuncio, sui forum americani, parlava della mattina nell'ora del Pacif
 
 ## Cosa porta la build
 
-La build porta [il livello massimo da 20 a 30](/it/news/the-beta-level-cap-rises-from-20-to-30/). Apre anche la Excavation Site, un nuovo dungeon nelle Wetlands per i livelli da 24 a 29, ha annunciato Josh Greenfield secondo Wowhead. Le note della build hanno poi collocato il dungeon ai livelli da 26 a 31. La [City of Dalaran](/it/guides/dungeons/) non è in questa build e arriverà in un aggiornamento successivo della beta.
+La build porta [il livello massimo da 20 a 30](/it/news/the-beta-level-cap-rises-from-20-to-30/). Apre anche la Excavation Site, un nuovo dungeon nelle Wetlands per i livelli da 24 a 29, ha annunciato Josh Greenfield. Le note della build hanno poi collocato il dungeon ai livelli da 26 a 31. La [City of Dalaran](/it/guides/dungeons/) non è in questa build e arriverà in un aggiornamento successivo della beta.
 
-Questa settimana diventa giocabile anche un nuovo battleground, scrive Wowhead. Quale sia, non è ancora noto. Blizzard non ha ancora pubblicato le note di sviluppo della build.
+Questa settimana diventa giocabile anche un nuovo battleground. Quale sia, non è ancora noto. Blizzard non ha ancora pubblicato le note di sviluppo della build.

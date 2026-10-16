@@ -15,7 +15,7 @@ manual: true
 ---
 Enhancement Shamans in World of Warcraft: Forever gebruiken alleen nog tweehandige wapens. Blizzard toont de spec in een nieuwe video van 55 seconden. Burst komt van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=425336"><img class="wf-wh__icon" src="/wh/spell_nature_bloodlust.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Farseer</a>, en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408498"><img class="wf-wh__icon" src="/wh/spell_shaman_maelstromweapon.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Maelstrom Weapon</a> maakt Lightning Bolt sneller en goedkoper.
 
-Op 30 september bracht Blizzard een video uit over de wijzigingen aan Shamans, Warriors en Rogues, schrijft Wowhead. Elke spec kwam aan bod, behalve Enhancement. Onder die video beloofde het kanaal van World of Warcraft een aparte short:
+Op 30 september bracht Blizzard een video uit over de wijzigingen aan Shamans, Warriors en Rogues. Elke spec kwam aan bod, behalve Enhancement. Onder die video beloofde het kanaal van World of Warcraft een aparte short:
 
 > Enhancement Shamans were too busy communing with the elements! Stay tuned for their own short, shortly!
 

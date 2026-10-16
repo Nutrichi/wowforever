@@ -30,7 +30,7 @@ Shadowgale Squirrel ist ein Haustier, das neu in World of Warcraft: Forever ist.
 | Wo | Zephras Isle |
 | Preis | 52 Silber 63 Kupfer |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -40,7 +40,7 @@ Das Eichhörnchen verlangt Revered bei den Nightclaw Druids, bevor der Händler 
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere in Zephras Isle
 

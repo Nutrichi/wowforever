@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard zeigte den Forsaken Charger im World-of-Warcraft-Forever-Panel Found Photographs. Es ist das Reittier des Forsaken Paladin, der neuen Kombination aus Volk und Klasse in Forever. Forsaken Paladins bekommen auf Stufe 60 eine eigene epische Reittierquest.
 
-Jedes Volk mit Paladins hat seinen eigenen Charger, und die Forsaken bilden keine Ausnahme, schreibt Wowhead.
+Jedes Volk mit Paladins hat seinen eigenen Charger, und die Forsaken bilden keine Ausnahme.
 
 Der Weg des Forsaken Paladin folgt der neuen Warcraft-III-Kampagne Forsaken Kingdom. Er beginnt zu einem Zeitpunkt, an dem diese ehemaligen Paladine von den anderen Forsaken noch mit Misstrauen betrachtet werden und erst lernen, was es heißt, das Light im Untod zu führen, sagt Blizzard.
 

@@ -28,7 +28,7 @@ Sprite Darter Hatchling ist ein Haustier aus Classic, das in World of Warcraft: 
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11474"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sprite Darter Egg</a> |
 | Quelle | Quest: <a href="https://www.wowhead.com/forever/quest=4298">Becoming a Parent</a> |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -38,7 +38,7 @@ Das Sprite Darter Egg wird auch im Auktionshaus des Schwarzmarkts verkauft, von 
 
 ## Was sich seit Classic geändert hat
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

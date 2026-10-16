@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Drei Rare in den Barrens lassen jetzt Ausrüstung fallen, die zu einem Set gehört. Humar the Pridelord, Swiftmane und Takk the Leaper tragen je ein Teil von Blessing of Kalimdor, und zwei von dreien zu tragen gibt 5 Prozent Lauftempo in The Barrens und den Stonetalon Mountains. Wowhead fand es auf der Beta.
+Drei Rare in den Barrens lassen jetzt Ausrüstung fallen, die zu einem Set gehört. Humar the Pridelord, Swiftmane und Takk the Leaper tragen je ein Teil von Blessing of Kalimdor, und zwei von dreien zu tragen gibt 5 Prozent Lauftempo in The Barrens und den Stonetalon Mountains.
 
 ## Die drei Teile
 

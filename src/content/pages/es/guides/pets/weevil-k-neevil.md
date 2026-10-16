@@ -28,7 +28,7 @@ Weevil K. Neevil es una mascota de compañía nueva en World of Warcraft: Foreve
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280456"><img class="wf-wh__icon" src="/wh/inv_inscription_pigment_bug04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Weevil K. Neevil</a> |
 | Origen | Aún no se sabe |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
@@ -36,7 +36,7 @@ Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se s
 
 ## Conviene saber
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas del mismo origen
 

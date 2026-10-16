@@ -28,7 +28,7 @@ Hawksbill Snapjaw est une mascotte de compagnie de Classic qui revient dans Worl
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18965"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Turtle Egg (Hawksbill)</a> |
 | Source | Pas encore connue |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
@@ -38,7 +38,7 @@ Les fichiers de la bêta de WoW Forever contiennent cette mascotte, mais on ne s
 
 L'objet apprend désormais la mascotte : elle devient un sort et ne prend plus de place dans les sacs.
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

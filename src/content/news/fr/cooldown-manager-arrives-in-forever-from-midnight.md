@@ -13,15 +13,15 @@ featured: false
 draft: false
 manual: true
 ---
-Le Cooldown Manager de retail peut désormais être testé dans la bêta de WoW Forever. Il est arrivé dans Midnight avec le patch 12.0, quand Blizzard a limité ce que peuvent faire les addons. Druid, Mage, Priest, Warrior et Warlock peuvent l'essayer, écrit Wowhead.
+Le Cooldown Manager de retail peut désormais être testé dans la bêta de WoW Forever. Il est arrivé dans Midnight avec le patch 12.0, quand Blizzard a limité ce que peuvent faire les addons. Druid, Mage, Priest, Warrior et Warlock peuvent l'essayer.
 
 ## Pourquoi il convient à Forever
 
-Forever a les mêmes restrictions d'addons que Midnight et tourne sur le même client que retail, écrit Wowhead. C'est pourquoi le gestionnaire a pu être repris. Il prend les informations clés de la barre de buffs et de la barre d'action et les place où le joueur le souhaite, selon les [notes de développement](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) du 24 septembre.
+Forever a les mêmes restrictions d'addons que Midnight et tourne sur le même client que retail. C'est pourquoi le gestionnaire a pu être repris. Il prend les informations clés de la barre de buffs et de la barre d'action et les place où le joueur le souhaite, selon les [notes de développement](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) du 24 septembre.
 
 ## L'activer
 
-Le gestionnaire est désactivé par défaut. Blizzard place l'option dans Options, sous Gameplay Enhancement ; Wowhead l'a trouvée sous Options, Advanced Options. Une fois activé, Edit Mode déplace les sorts suivis sur l'écran, et /cdm ouvre la liste de ce qui est affiché.
+Le gestionnaire est désactivé par défaut. Blizzard place l'option dans Options, sous Gameplay Enhancement ; sur la bêta, elle se trouve sous Options, Advanced Options. Une fois activé, Edit Mode déplace les sorts suivis sur l'écran, et /cdm ouvre la liste de ce qui est affiché.
 
 ## La fenêtre de réglages
 

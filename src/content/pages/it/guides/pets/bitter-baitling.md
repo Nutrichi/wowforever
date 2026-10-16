@@ -30,7 +30,7 @@ Bitter Baitling è una mascotte da compagnia nuova in World of Warcraft: Forever
 | Dove | Stranglethorn Vale |
 | Prezzo | 1 <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a> |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -40,7 +40,7 @@ La moneta è il premio per chi vince lo Stranglethorn Fishing Extravaganza.
 
 ## Da sapere
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte a Stranglethorn Vale
 

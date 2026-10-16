@@ -13,11 +13,11 @@ featured: false
 draft: false
 manual: true
 ---
-De professies in World of Warcraft: Forever blijven het systeem dat spelers van WoW Classic kennen. Vaste materialen, vaste stats op gecrafte items, geen ombouw zoals die in Dragonflight. Nieuw zijn ruim 600 recepten, kampplaatsen en Legacy Points, schrijft Wowhead.
+De professies in World of Warcraft: Forever blijven het systeem dat spelers van WoW Classic kennen. Vaste materialen, vaste stats op gecrafte items, geen ombouw zoals die in Dragonflight. Nieuw zijn ruim 600 recepten, kampplaatsen en Legacy Points.
 
 ## Camping maakt van een kampvuur een halte
 
-Spelers kunnen bijna overal in de open wereld een kampvuur neerzetten, en dat maakt een kampplaats. Op zo'n plek kan iedereen rusten en gebruikmaken van vendors, reparaties, werkplekken voor tradeskills en buffs, schrijft Wowhead.
+Spelers kunnen bijna overal in de open wereld een kampvuur neerzetten, en dat maakt een kampplaats. Op zo'n plek kan iedereen rusten en gebruikmaken van vendors, reparaties, werkplekken voor tradeskills en buffs.
 
 Elke speler mag er één voorwerp uit zijn eigen professies neerzetten, dat iedereen op de plek buft. Die buffs zijn dezelfde als bekende classbuffs en stapelen niet. Een Incense Candle van een Herbalist verhoogt Intellect, maar combineert niet met de Arcane Intellect van een Mage.
 
@@ -29,7 +29,7 @@ Forever voegt meer dan 600 recepten toe, verspreid over alle professies en alle 
 
 ## Professies voeden het Legacy-systeem
 
-Een tradeskill levelen levert Legacy Points op. De eerste keer dat een tradeskill 150, 225 en 300 haalt, komt er een punt bij, schrijft Wowhead. Die punten gaan in de Legacy-bomen, en een van de drie bomen is Professions.
+Een tradeskill levelen levert Legacy Points op. De eerste keer dat een tradeskill 150, 225 en 300 haalt, komt er een punt bij. Die punten gaan in de Legacy-bomen, en een van de drie bomen is Professions.
 
 Perken in die boom verhogen de kans op een skillpunt en de hoeveelheid Scarce materials uit Mining, Herbalism en Skinning. Eén perk noemt supply crates voor de Azeroth Commerce Authority en Durotar Supply and Logistics, twee facties die spelers kennen uit Season of Discovery. De volledige boom staat in onze Legacy-calculator.
 

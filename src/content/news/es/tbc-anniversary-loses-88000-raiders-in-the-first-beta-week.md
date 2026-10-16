@@ -19,13 +19,13 @@ TBC Anniversary perdió 88.334 raiders la semana en que abrió la beta de World 
 
 Ironforge.pro contó 212.821 raiders en TBC Anniversary del 8 al 14 de septiembre. Del 15 al 21 de septiembre fueron 124.487, una caída del 41 %. La beta de Forever abrió el 17 de septiembre, en mitad de esa segunda semana.
 
-Forever no sale hasta el 4 de noviembre, y el acceso garantizado a la beta viene con el Skyborne Epic Pack de 59,99 euros. Por eso Wowhead esperaba que TBC Anniversary mantuviera una población de raid fuerte hasta el lanzamiento.
+Forever no sale hasta el 4 de noviembre, y el acceso garantizado a la beta viene con el Skyborne Epic Pack de 59,99 euros. Por eso se esperaba que TBC Anniversary mantuviera una población de raid fuerte hasta el lanzamiento.
 
 ![Gráfico de barras de la población de raid semanal de TBC de febrero a septiembre de 2026, dividida entre Alliance y Horde, con 124.487 raiders en la semana del 15 al 21 de septiembre](../../../assets/posts/2026-09-26-tbc-anniversary-raid-population.png)
 
 El gráfico muestra también que la caída empezó antes. En el pico de mayo, más de 320.000 jugadores hicieron raids en una sola semana. En la semana de la beta, Alliance y Horde estaban casi igualadas: 60.689 frente a 63.798.
 
-TBC Anniversary está en la fase 3, con [Black Temple y Hyjal Summit](/es/bis/tbc/p3/). Zul'Aman y Sunwell Plateau aún están por llegar. Si después seguirá Wrath of the Lich King Anniversary, no se sabe, escribe Wowhead.
+TBC Anniversary está en la fase 3, con [Black Temple y Hyjal Summit](/es/bis/tbc/p3/). Zul'Aman y Sunwell Plateau aún están por llegar. Si después seguirá Wrath of the Lich King Anniversary, no se sabe.
 
 ## MoP Classic
 
@@ -33,10 +33,10 @@ En MoP Classic la población de raid bajó de 33.125 a 24.971 en las mismas dos 
 
 ![Gráfico de barras de la población de raid semanal de Mists of Pandaria de agosto de 2025 a septiembre de 2026, con 24.971 raiders en la semana del 15 al 21 de septiembre](../../../assets/posts/2026-09-26-mop-classic-raid-population.png)
 
-Los jugadores de MoP Classic esperan saber qué pasará con sus personajes, escribe Wowhead. Muchos los juegan desde el lanzamiento de WoW Classic en agosto de 2019. Lo que Blizzard planea para ellos no se ha anunciado.
+Los jugadores de MoP Classic esperan saber qué pasará con sus personajes. Muchos los juegan desde el lanzamiento de WoW Classic en agosto de 2019. Lo que Blizzard planea para ellos no se ha anunciado.
 
 ## Lo que las cifras no muestran
 
 Ironforge.pro solo cuenta a los raiders que aparecen en logs de Warcraft Logs. Las raids que nadie registra faltan en el recuento.
 
-Wowhead interpreta la caída como jugadores que están en la beta de Forever o que esperan los planes de Blizzard para ambas versiones. Si los raiders volverán después de la beta, no se sabe.
+La caída se debe probablemente a jugadores que están en la beta de Forever o que esperan los planes de Blizzard para ambas versiones. Si los raiders volverán después de la beta, no se sabe.

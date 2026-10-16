@@ -28,7 +28,7 @@ Spectral Bear Cub is een companion pet die nieuw is in World of Warcraft: Foreve
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277714"><img class="wf-wh__icon" src="/wh/inv_pet_babyblizzardbear.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spectral Bear Cub</a> |
 | Bron | Legacy-beloning: 25 punten |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
@@ -38,7 +38,7 @@ Hij is een beloning op het Legacy-spoor van WoW Forever. Het totaal aan Legacy-p
 
 De tooltip op de beta toont nog tijdelijke tekst ([DNT] 1), dus deze pet is nog niet af.
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 
 

@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Los testers de la beta de World of Warcraft: Forever han encontrado un conjunto que abarca toda la subida de level. Partners in Crime se compone de dos anillos, escribe Wowhead. Uno cae en una mazmorra de level bajo, el otro pide level 60.
+Los testers de la beta de World of Warcraft: Forever han encontrado un conjunto que abarca toda la subida de level. Partners in Crime se compone de dos anillos. Uno cae en una mazmorra de level bajo, el otro pide level 60.
 
 ## Los dos anillos
 
@@ -34,8 +34,8 @@ Las dos líneas figuran como bono de dos piezas, así que no salta nada hasta qu
 
 ## Por qué importa para el equipo
 
-La mitad épica del conjunto es un objeto de level 60, y eso es lo que lo hace interesante, escribe Wowhead. Un jugador quizá siga haciendo las Deadmines mucho tiempo, bastante más allá del level en que la mazmorra normalmente se deja atrás.
+La mitad épica del conjunto es un objeto de level 60, y eso es lo que lo hace interesante. Un jugador quizá siga haciendo las Deadmines mucho tiempo, bastante más allá del level en que la mazmorra normalmente se deja atrás.
 
-Otras mazmorras quizá lleven la misma idea, escribe Wowhead: un objeto que es la primera mitad de un conjunto que no se puede completar hasta mucho después. Si Blizzard ha diseñado más así, el estudio no lo dice.
+Otras mazmorras quizá lleven la misma idea: un objeto que es la primera mitad de un conjunto que no se puede completar hasta mucho después. Si Blizzard ha diseñado más así, el estudio no lo dice.
 
 También le da trabajo al [banco por defecto más grande](/es/news/the-bank-starts-with-48-slots/). El equipo que solo compensa decenas de levels después tiene que quedarse en algún sitio.

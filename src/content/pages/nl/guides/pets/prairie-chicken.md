@@ -29,7 +29,7 @@ Prairie Chicken is een companion pet uit Classic die terugkomt in World of Warcr
 | Bron | In de wereld: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=161513">Farm Chicken Egg</a> |
 | Waar | Westfall |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
@@ -39,7 +39,7 @@ Hij komt uit <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/obj
 
 Het item leert je nu de pet: hij wordt een spell en neemt geen plaats meer in je tassen. Oproepen gaat meteen in plaats van met een cast van 1 seconde, met een cooldown van 1,5 seconden.
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

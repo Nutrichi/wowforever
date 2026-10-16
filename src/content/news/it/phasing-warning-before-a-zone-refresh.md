@@ -13,7 +13,7 @@ tags: ["forever", "hardcore"]
 featured: false
 draft: false
 ---
-World of Warcraft: Forever avvisa i giocatori prima di un cambio di layer forzato. Un avviso dice che sta arrivando un refresh di zona e dà cinque minuti per raggiungere un punto sicuro, scrive Wowhead. Finora quel cambio avveniva e basta.
+World of Warcraft: Forever avvisa i giocatori prima di un cambio di layer forzato. Un avviso dice che sta arrivando un refresh di zona e dà cinque minuti per raggiungere un punto sicuro. Finora quel cambio avveniva e basta.
 
 ## Che cos'è un layer
 

@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard enseñó el Forsaken Charger durante el panel Found Photographs de World of Warcraft: Forever. Es la montura del Forsaken Paladin, la nueva combinación de raza y clase en Forever. Los Forsaken Paladins reciben su propia misión de montura épica en el nivel 60.
 
-Cada raza con Paladins tiene su Charger, y los Forsaken no son la excepción, escribe Wowhead.
+Cada raza con Paladins tiene su Charger, y los Forsaken no son la excepción.
 
 El camino del Forsaken Paladin sigue la nueva campaña de Warcraft III, Forsaken Kingdom. Arranca en un momento en que estos antiguos paladines aún despiertan desconfianza entre los demás Forsaken y están aprendiendo qué significa manejar la Light en la no muerte, dice Blizzard.
 

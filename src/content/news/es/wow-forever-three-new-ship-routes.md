@@ -15,10 +15,10 @@ manual: true
 ---
 World of Warcraft: Forever añade tres rutas marítimas nuevas. Stormwind Harbor se conecta con Auberdine. Una segunda ruta va de Menethil a Southshore y sigue hasta Auberdine. La tercera une la nueva zona The Riverglades con Steamwheedle Port.
 
-La ruta entre Stormwind Harbor y Auberdine enlaza las zonas de inicio de la Alianza, escribe Wowhead. Los Night Elves llegan antes a Stormwind, y el resto llega antes a Darnassus.
+La ruta entre Stormwind Harbor y Auberdine enlaza las zonas de inicio de la Alianza. Los Night Elves llegan antes a Stormwind, y el resto llega antes a Darnassus.
 
 La ruta desde Menethil va en tres tramos: el barco para en Southshore y termina en Auberdine.
 
 La tercera ruta abre el sur de los dos continentes. Steamwheedle Port es el muelle de The Riverglades, que también conecta con Gadgetzan.
 
-Blizzard quiere conservar esa sensación de explorar el mundo por la que se conoce a Classic y, a la vez, facilitar jugar con amigos, según Wowhead. Si las rutas existentes también cambian, no se sabe.
+Blizzard quiere conservar esa sensación de explorar el mundo por la que se conoce a Classic y, a la vez, facilitar jugar con amigos. Si las rutas existentes también cambian, no se sabe.

@@ -28,7 +28,7 @@ Galestrider Chick è una mascotte da compagnia nuova in World of Warcraft: Forev
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280615"><img class="wf-wh__icon" src="/wh/inv_pet_babycrane.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Galestrider Chick</a> |
 | Fonte | Non ancora noto |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -36,7 +36,7 @@ I file della beta di WoW Forever contengono questa mascotte, ma da dove venga no
 
 ## Da sapere
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

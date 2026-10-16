@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Dark Whelpling in WoW Forever?"
-    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead: Scalding Whelp in Badlands, ongeveer 0,1% Searing Whelp in Dustwallow Marsh, ongeveer 0,1%"
+    a: "Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens: Scalding Whelp in Badlands, ongeveer 0,1% Searing Whelp in Dustwallow Marsh, ongeveer 0,1%"
   - q: "Is Dark Whelpling nieuw in WoW Forever?"
     a: "Nee. Dark Whelpling zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -30,11 +30,11 @@ Dark Whelpling is een companion pet uit Classic die terugkomt in World of Warcra
 | Waar | Badlands en Dustwallow Marsh |
 | Dropkans | 0,1% |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
-Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van Wowhead:
+Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2725">Scalding Whelp</a> in Badlands, ongeveer 0,1%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4324">Searing Whelp</a> in Dustwallow Marsh, ongeveer 0,1%
@@ -43,7 +43,7 @@ Hij valt van meerdere monsters. Deze hebben de beste kans in de lootgegevens van
 
 Het item leert je nu de pet: hij wordt een spell en neemt geen plaats meer in je tassen. Oproepen gaat meteen in plaats van met een cast van 1 seconde, met een cooldown van 1,5 seconden.
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

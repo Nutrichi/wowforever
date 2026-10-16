@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-Le nouveau build de la bêta de WoW Forever ajuste les neuf classes. Wowhead a trouvé les changements dans les fichiers du build le 24 septembre, et Blizzard en a confirmé la plupart la nuit même dans ses [notes de développement](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt et Holy Strike reçoivent les plus gros buffs.
+Le nouveau build de la bêta de WoW Forever ajuste les neuf classes. Les changements sont apparus dans les fichiers du build le 24 septembre, et Blizzard en a confirmé la plupart la nuit même dans ses [notes de développement](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696). Wrath, Lightning Bolt et Holy Strike reçoivent les plus gros buffs.
 
-Voici la version courte par classe. Ce que seul Wowhead a vu dans les fichiers, sans mention de Blizzard, est signalé. Le reste du build, du respec à 1 silver au Cooldown Manager, se trouve dans [l'article sur le nouveau build](/fr/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
+Voici la version courte par classe. Ce qui ne figure que dans les fichiers, sans mention de Blizzard, est signalé. Le reste du build, du respec à 1 silver au Cooldown Manager, se trouve dans [l'article sur le nouveau build](/fr/news/the-beta-returns-with-a-new-build-and-cheap-respecs/).
 
 ## Druid
 
@@ -41,7 +41,7 @@ Le Paladin reçoit le plus de changements.
 - **Holy Strike** frappe plus fort à chaque rang : 25, 29, 32, 36, 39, 43, 46 et 50 % des dégâts de l'arme (au lieu de 25, 25, 30, 30, 35, 35, 40 et 40 %). Les premiers rangs ne semblaient pas toujours être une amélioration, selon Blizzard.
 - **Holy :** le cooldown de Holy Strike passe à 10 secondes (au lieu de 12). Le talent Improved Holy Strike disparaît, car son effet est désormais de base. Holy Power ajoute aussi 15 % de chances de coup critique à Holy Strike.
 - **Retribution** perd un peu de burst. Vengeance ne se déclenche plus que sur les coups critiques non périodiques et se cumule jusqu'à 3 (au lieu de 5). Two-Handed Weapon Specialization donne 2, 4 et 6 % (au lieu de 3, 6 et 9 %). En échange, Sacred Arbiter augmente les dégâts de Holy Strike de 20 % (au lieu de 10 %), et Twist of Light rend aussi les Seals 20 % moins chers.
-- Righteous Fury augmente la menace Holy de 60 % (au lieu de 90 %). Wowhead voit aussi Crusade quitter l'arbre de talents ; Blizzard ne le mentionne pas.
+- Righteous Fury augmente la menace Holy de 60 % (au lieu de 90 %). Les fichiers retirent aussi Crusade de l'arbre de talents ; Blizzard ne le mentionne pas.
 
 ## Priest
 
@@ -50,11 +50,11 @@ Le Paladin reçoit le plus de changements.
 
 ## Rogue
 
-- Sap active désormais le JcJ du Rogue quand la cible est en JcJ. Wowhead voit aussi une valeur modifiée dans Improved Expose Armor que l'infobulle ne montre pas ; son effet n'est pas connu.
+- Sap active désormais le JcJ du Rogue quand la cible est en JcJ. Les fichiers modifient aussi une valeur dans Improved Expose Armor que l'infobulle ne montre pas ; son effet n'est pas connu.
 
 ## Shaman
 
-- **Lightning Bolt** rangs 3 et 4 infligent plus de dégâts, pour que chaque rang soit une amélioration malgré les temps d'incantation modifiés. Les rangs les plus élevés perdent un ou deux points, selon Wowhead.
+- **Lightning Bolt** rangs 3 et 4 infligent plus de dégâts, pour que chaque rang soit une amélioration malgré les temps d'incantation modifiés. Les rangs les plus élevés perdent un ou deux points.
 - **Lava Burst** rangs 1 et 2 infligent environ 10 % de dégâts de base en plus que le Lightning Bolt du même niveau.
 - **Elemental :** Elemental Fury et Elemental Alacrity échangent leur place, de la rangée 3 à la rangée 6 et inversement. Blizzard veut qu'Elemental atteigne plus tôt un talent important.
 - **Enhancement :** Rage of the Far Seer n'augmente plus la vitesse d'incantation des sorts.
@@ -64,7 +64,7 @@ Le Paladin reçoit le plus de changements.
 ## Warlock
 
 - Le Sacrifice du Voidwalker évolue avec 10 % des soins des sorts. L'infobulle de Life Tap affiche maintenant les bons chiffres.
-- Selon Wowhead, Health Funnel ne peut plus être critique, et une Firestone disparaît après 15 minutes de déconnexion.
+- Dans les fichiers, Health Funnel ne peut plus être critique, et une Firestone disparaît après 15 minutes de déconnexion.
 
 ## Warrior
 

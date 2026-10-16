@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard veranstaltet am Donnerstag, dem 17. September, ein Live-Q&A mit dem Entwicklungsteam von World of Warcraft. Der Stream beginnt um 10.00 Uhr PDT, 19.00 Uhr belgischer Zeit, auf den offiziellen Warcraft-Kanälen bei Twitch und YouTube. Die Fragen kommen aus dem Forum.
 
-Blizzard hatte Spieler zuvor im nordamerikanischen und im europäischen Forum um Fragen gebeten und hat sie nun für das Team gesammelt. Der Stream behandelt Midnight und Forever, schreibt Wowhead.
+Blizzard hatte Spieler zuvor im nordamerikanischen und im europäischen Forum um Fragen gebeten und hat sie nun für das Team gesammelt. Der Stream behandelt Midnight und Forever.
 
 Die Entwickler blicken auf die Ankündigungen der BlizzCon 2026 zurück und darauf, was für modernes WoW und Classic kommt, sagt Blizzard in der eigenen Ankündigung. Welche Teammitglieder dabei sind, sagt Blizzard nicht.
 

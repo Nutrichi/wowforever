@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-La beta di World of Warcraft: Forever è online. Ha aperto il 17 settembre, subito dopo il Q&A in diretta di Blizzard. Ci sono code alla schermata di accesso, scrive Wowhead. Quanto siano stabili i server non è noto.
+La beta di World of Warcraft: Forever è online. Ha aperto il 17 settembre, subito dopo il Q&A in diretta di Blizzard. Ci sono code alla schermata di accesso. Quanto siano stabili i server non è noto.
 
 La beta dura fino al 21 ottobre 2026. Parte con un limite di livello 20 e lo alza più tardi a 30, e lì resta fino all'uscita del 4 novembre.
 

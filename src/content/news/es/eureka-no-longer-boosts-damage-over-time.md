@@ -21,11 +21,11 @@ La nota de la build es corta:
 >
 > Eureka! no longer benefits periodic effects at all. Channeled spells do not count as periodics.
 
-Eureka! es un racial activo con un tiempo de reutilización de 2 minutos. Tus 3 próximas habilidades de daño cuestan un 10 % menos y hacen un 10 % más de daño. El primer nerf ya redujo el descuento en recursos, escribe Wowhead.
+Eureka! es un racial activo con un tiempo de reutilización de 2 minutos. Tus 3 próximas habilidades de daño cuestan un 10 % menos y hacen un 10 % más de daño. El primer nerf ya redujo el descuento en recursos.
 
 ## Qué significa para cada clase
 
-El racial tiene una versión por recurso. Wowhead encuentra cuatro en los datos de la build:
+El racial tiene una versión por recurso. Los datos de la build contienen cuatro:
 
 | Clase | Recurso | Qué deja de contar |
 |---|---|---|

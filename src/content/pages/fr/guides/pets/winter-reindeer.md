@@ -29,7 +29,7 @@ Winter Reindeer est une mascotte de compagnie de Classic qui revient dans World 
 | Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11870">Archibald</a> |
 | Où | Undercity |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
@@ -39,7 +39,7 @@ Elle tombe sur <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/n
 
 L'objet apprend désormais la mascotte : elle devient un sort et ne prend plus de place dans les sacs.
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes à Undercity
 

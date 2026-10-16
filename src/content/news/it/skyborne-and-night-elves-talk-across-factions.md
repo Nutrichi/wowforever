@@ -25,7 +25,7 @@ Uno Skyborne della Horde può parlare con gli elfi dell’Alliance in World of W
   </button>
 </figure>
 
-Il post è dell’utente Reddit Odin_69, del 23 settembre, e ha più di 660 upvote e 285 commenti. Wowhead ne ha scritto il 28 settembre.
+Il post è dell’utente Reddit Odin_69, del 23 settembre, e ha più di 660 upvote e 285 commenti.
 
 ## Cosa mostra lo screenshot
 
@@ -43,6 +43,6 @@ In pratica questo apre una sola linea tra le fazioni. Un Windshaper dalla parte 
 
 ## Bug o scelta
 
-Blizzard non ha detto se sia voluto. Wowhead ricorda che Blizzard ha sempre tenuto separate la Horde e l’Alliance, e che potrebbe essere un residuo dell’inizio comune degli Skyborne. Molti giocatori su Reddit lo apprezzano per il gioco di ruolo.
+Blizzard non ha detto se sia voluto. Blizzard ha sempre tenuto separate la Horde e l’Alliance, e potrebbe essere un residuo dell’inizio comune degli Skyborne. Molti giocatori su Reddit lo apprezzano per il gioco di ruolo.
 
 Non si sa se la lingua resterà al lancio del 4 novembre.

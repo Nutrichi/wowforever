@@ -1,5 +1,5 @@
 ---
-title: "Wowhead trouve une nouvelle branche sur les serveurs CDN"
+title: "Une nouvelle branche apparaît sur les serveurs CDN"
 description: "Une branche pour la version retail de Forever est apparue sur les serveurs de distribution de Blizzard, sept semaines avant le lancement du 4 novembre."
 date: 2026-09-16
 category: forever
@@ -13,10 +13,10 @@ featured: false
 draft: false
 manual: true
 ---
-Wowhead a repéré une nouvelle branche pour la version retail de World of Warcraft: Forever sur les serveurs CDN de Blizzard. Le site l'a signalée le 16 septembre. Blizzard ne l'a pas confirmée. Le jeu sort le 4 novembre.
+Une nouvelle branche pour la version retail de World of Warcraft: Forever est apparue le 16 septembre sur les serveurs CDN de Blizzard. Blizzard ne l'a pas confirmée. Le jeu sort le 4 novembre.
 
-Ce que contient cette branche n'est pas connu. Wowhead n'en a pas décrit le contenu, et Blizzard n'a rien dit à son sujet.
+Ce que contient cette branche n'est pas connu. Blizzard n'a rien dit à son sujet.
 
-La bêta de Forever démarre le 17 septembre, un jour après la trouvaille. On en verra plus à ce moment, écrit Wowhead.
+La bêta de Forever démarre le 17 septembre, un jour après la trouvaille. On en verra plus à ce moment.
 
 Si la branche relève de cette bêta ou de la version qui sortira le 4 novembre, on ne le sait pas.

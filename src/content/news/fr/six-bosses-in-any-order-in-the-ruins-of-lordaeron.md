@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Les Ruins of Lordaeron sont le donjon au-dessus de l’Undercity dans World of Warcraft: Forever, pour les niveaux 15 à 20. Wowhead a publié une soluce. Les six boss se font dans n’importe quel ordre. La Horde y trouve six quêtes, l’Alliance quatre.
+Les Ruins of Lordaeron sont le donjon au-dessus de l’Undercity dans World of Warcraft: Forever, pour les niveaux 15 à 20. Les six boss se font dans n’importe quel ordre. La Horde y trouve six quêtes, l’Alliance quatre.
 
 <figure class="wf-embed" data-wf-video="VbryA5eOUHI">
   <button type="button" class="wf-embed__play">
@@ -25,15 +25,15 @@ Les Ruins of Lordaeron sont le donjon au-dessus de l’Undercity dans World of W
   </button>
 </figure>
 
-La soluce est signée Jurdi, qui a aussi écrit celle du [Hall of Thanes](/fr/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Il a fait le donjon sur la bêta et le décrit comme non linéaire, avec des secrets faciles à manquer. Le boss final est niveau 20, écrit Wowhead, sans préciser lequel des six.
+La soluce est signée Jurdi, qui a aussi écrit celle du [Hall of Thanes](/fr/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Il a fait le donjon sur la bêta et le décrit comme non linéaire, avec des secrets faciles à manquer. Le boss final est niveau 20, sans préciser lequel des six.
 
 ## Où il se trouve
 
-L’entrée se trouve dans les ruines à ciel ouvert de Lordaeron, la ville au-dessus de l’Undercity, juste à gauche après la porte, écrit Wowhead. Le Spirit Healer est juste devant, donc un wipe coûte peu de temps.
+L’entrée se trouve dans les ruines à ciel ouvert de Lordaeron, la ville au-dessus de l’Undercity, juste à gauche après la porte. Le Spirit Healer est juste devant, donc un wipe coûte peu de temps.
 
 ![La porte d’un palais en ruine à Lordaeron, avec des escaliers et des jardins envahis par la végétation, une capture d’écran de la bêta de World of Warcraft: Forever](../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-entrance.jpg)
 
-Pour la Horde, c’est une courte marche depuis Brill. L’Alliance a un long voyage : le bateau de Stormwind Harbor à Auberdine, puis le bateau vers Menethil Harbor et jusqu’à Southshore, et de là vers le nord en passant Dalaran et à travers Silverpine Forest, selon le guide du donjon de Wowhead. Les Skyborne du côté de l’Alliance en sautent la plus grande partie grâce à un portail de la Mage Tower de Stormwind vers Dalaran.
+Pour la Horde, c’est une courte marche depuis Brill. L’Alliance a un long voyage : le bateau de Stormwind Harbor à Auberdine, puis le bateau vers Menethil Harbor et jusqu’à Southshore, et de là vers le nord en passant Dalaran et à travers Silverpine Forest. Les Skyborne du côté de l’Alliance en sautent la plus grande partie grâce à un portail de la Mage Tower de Stormwind vers Dalaran.
 
 ## Six quêtes pour la Horde, quatre pour l’Alliance
 
@@ -45,7 +45,7 @@ L’Alliance trouve tout à l’intérieur. Captain Truman, amical envers l’Al
 
 ![Captain Truman, un soldat mort-vivant avec une lanterne dans une salle de pierre sombre, son nom en rouge au-dessus de la tête, une capture d’écran de la bêta de World of Warcraft: Forever](../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-captain-truman.jpg)
 
-Chaque quête rapporte jusqu’à 9 750 points d’expérience. En jeu, elles apparaissent en rouge même au niveau 17, car les quêtes sont de niveau 21 et 22, mais le donjon se termine au niveau 17, dit Wowhead.
+Chaque quête rapporte jusqu’à 9 750 points d’expérience. En jeu, elles apparaissent en rouge même au niveau 17, car les quêtes sont de niveau 21 et 22, mais le donjon se termine au niveau 17.
 
 | Récompense | Type | Quête |
 |---|---|---|
@@ -60,7 +60,7 @@ Chaque quête avec son donneur, ses coordonnées et toutes les récompenses se t
 
 **Witherfang** est une araignée qui patrouille dans King's Alley avec deux araignées plus petites. Nettoyez d’abord le trash sur son chemin, pour qu’elle vienne seule. Son Leech Poison peut être dissipé sur le tank.
 
-**The Baron** est une abomination dont le Knockout frappe fort et peut vite tuer le tank. Gardez le tank à pleine vie et étourdissez le boss aussi souvent que possible, écrit Wowhead.
+**The Baron** est une abomination dont le Knockout frappe fort et peut vite tuer le tank. Gardez le tank à pleine vie et étourdissez le boss aussi souvent que possible.
 
 **Viktor the Vile** est facile à manquer. Un groupe doit d’abord allumer la Kindled Flame dans la cheminée d’un bâtiment près du cimetière et battre cinq vagues d’adds. Il frappe fort, donc le tank doit prendre l’aggro avant que les autres s’y mettent. Sur la bêta, il n’apparaît parfois pas.
 
@@ -68,16 +68,16 @@ Chaque quête avec son donneur, ses coordonnées et toutes les récompenses se t
 
 ![The Abandoned, un mort-vivant encapuchonné aux longues griffes, en combat contre un groupe de joueurs sur une pelouse sombre, une capture d’écran de la bêta de World of Warcraft: Forever](../../../assets/posts/2026-09-28-wow-forever-ruins-of-lordaeron-the-abandoned.jpg)
 
-**Bjork** ne lance qu’un court Anti-Magic Shield. Wowhead le décrit comme un boss facile.
+**Bjork** ne lance qu’un court Anti-Magic Shield. C’est un boss facile.
 
 **Rath'mael** pose un Flamestrike au sol là où se tenait le tank. Sortez-en et continuez le combat ailleurs.
 
 ## Un trash très dense
 
-Le trash frappe moins fort que dans le Hall of Thanes, écrit Wowhead, mais les packs sont très proches les uns des autres. Il est facile d’en tirer deux à la fois, et les groupes sans contrôle des foules souffrent, surtout à bas niveau. Les Paladins s’en sortent bien à partir du niveau 20, quand ils apprennent Exorcism, qui frappe les morts-vivants.
+Le trash frappe moins fort que dans le Hall of Thanes, mais les packs sont très proches les uns des autres. Il est facile d’en tirer deux à la fois, et les groupes sans contrôle des foules souffrent, surtout à bas niveau. Les Paladins s’en sortent bien à partir du niveau 20, quand ils apprennent Exorcism, qui frappe les morts-vivants.
 
 ## Ce qui n’est pas certain
 
-Blizzard donne au donjon une fourchette de 15 à 20. Wowhead parle de 16 à 23 dans l’article et de 16 à 22 dans son guide du donjon. Viktor the Vile n’apparaît pas toujours sur la bêta. On ne sait pas si c’est corrigé avant la sortie du 4 novembre.
+Blizzard donne au donjon une fourchette de 15 à 20. D’autres sources donnent 16 à 23 ou 16 à 22. Viktor the Vile n’apparaît pas toujours sur la bêta. On ne sait pas si c’est corrigé avant la sortie du 4 novembre.
 
-Dans Forever, les donjons rapportent moins d’expérience par monstre lors d’un second passage, donc un groupe qui manque Viktor ou le Crest a moins de raisons de revenir, écrit Wowhead.
+Dans Forever, les donjons rapportent moins d’expérience par monstre lors d’un second passage, donc un groupe qui manque Viktor ou le Crest a moins de raisons de revenir.

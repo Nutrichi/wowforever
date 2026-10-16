@@ -10,7 +10,7 @@ faq:
   - q: "Hoeveel pets zitten er in WoW Forever?"
     a: "In de bestanden van de beta zitten 90 companion pets: 32 nieuwe en 58 uit Classic."
   - q: "Gelden pets voor het hele account in WoW Forever?"
-    a: "De database van Wowhead markeert elke pet als geldig voor het hele account, en het item leert je de pet aan in plaats van hem uit je tassen op te roepen. Blizzard heeft het deel over het account zelf niet bevestigd."
+    a: "De spelgegevens markeren elke pet als geldig voor het hele account, en het item leert je de pet aan in plaats van hem uit je tassen op te roepen. Blizzard heeft het deel over het account zelf niet bevestigd."
   - q: "Welke pets zijn nieuw in WoW Forever?"
     a: "Onder meer de Excitable Slime uit Undercity, de Baby Crocolisk uit de kanalen van Stormwind, de Musical Gustjumper op Zephras Isle en de Spectral Bear Cub, een Legacy-beloning op level 25."
 sources:
@@ -123,4 +123,4 @@ De lijst komt uit de database van de beta. Bij pets die als nog niet bekend staa
 | [Wood Frog](/nl/guides/pets/wood-frog/ "wh:item=11027:q1:inv_crate_02") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14860">Flik</a>, 1 goud en 5 zilver en 26 koper | Elwynn Forest en Mulgore |
 | [Zergling](/nl/guides/pets/zergling/ "wh:item=281167:q3:inv_zerglingpet_c60") | Editie: Skyborne Epic Pack, Warcraft Forever Collection |  |
 
-Drie items die Wowhead als companion toont, staan er niet bij: de Scroll of Rat Familiar, Scroll of Frog Familiar en Scroll of Cat Familiar. Dat zijn verbruiksartikelen voor Mages die een uur lang Intellect geven, geen pets om te verzamelen.
+Drie items die de spelgegevens als companion tonen, staan er niet bij: de Scroll of Rat Familiar, Scroll of Frog Familiar en Scroll of Cat Familiar. Dat zijn verbruiksartikelen voor Mages die een uur lang Intellect geven, geen pets om te verzamelen.

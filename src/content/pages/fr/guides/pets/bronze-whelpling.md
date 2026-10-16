@@ -28,7 +28,7 @@ Bronze Whelpling est une mascotte de compagnie nouvelle dans World of Warcraft: 
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268502"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_bronze.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tiny Bronze Whelpling</a> |
 | Source | Pas encore connue |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
@@ -36,7 +36,7 @@ Les fichiers de la bêta de WoW Forever contiennent cette mascotte, mais on ne s
 
 ## Bon à savoir
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

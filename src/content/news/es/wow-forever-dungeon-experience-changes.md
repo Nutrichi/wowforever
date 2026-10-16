@@ -15,12 +15,12 @@ manual: true
 ---
 Blizzard cambia de dónde sale la experiencia en las mazmorras de World of Warcraft: Forever. Matar monstruos dentro de una mazmorra da menos experiencia que antes. Terminar las misiones de la mazmorra da mucha más. Así, la primera vuelta a una mazmorra renta mucho, y repetirla bastante menos.
 
-Blizzard lo dijo en una entrevista con The Sun, informa Wowhead. El motivo es que el equipo quiere jugadores por el mundo, encontrándose con otros, en lugar de repetir la misma mazmorra.
+Blizzard lo dijo en una entrevista con The Sun. El motivo es que el equipo quiere jugadores por el mundo, encontrándose con otros, en lugar de repetir la misma mazmorra.
 
 La curva de experiencia en sí no cambia. Un personaje necesita la misma experiencia para llegar al nivel 60 que en el Classic original. Lo que cambia es de dónde sale esa experiencia, porque las zonas nuevas ofrecen otros caminos.
 
 Cuánto baja la experiencia de los monstruos, o cuánto sube la de las misiones, Blizzard no lo dice.
 
-La beta da una primera idea. En The Hall of Thanes un monstruo da de 28 a 30 de experiencia y cada una de las cinco misiones de 3.900 a 4.900, escribe Wowhead en su [guía](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Subir de nivel en conjunto no es más rápido: del 1 al 20 se tarda de media 20,5 horas en Forever frente a 20,4 en Classic Era, dice Josh Greenfield en el [primer podcast de los desarrolladores](/es/news/a-first-developer-podcast-promises-fewer-blues/).
+La beta da una primera idea. En The Hall of Thanes un monstruo da de 28 a 30 de experiencia y cada una de las cinco misiones de 3.900 a 4.900 ([guía](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/)). Subir de nivel en conjunto no es más rápido: del 1 al 20 se tarda de media 20,5 horas en Forever frente a 20,4 en Classic Era, dice Josh Greenfield en el [primer podcast de los desarrolladores](/es/news/a-first-developer-podcast-promises-fewer-blues/).
 
 Desde la build de la beta del 1 de octubre, las misiones de mazmorra dan un 50 % menos de esa experiencia extra. Los probadores subían demasiado rápido, dice Blizzard en las notas de la build.

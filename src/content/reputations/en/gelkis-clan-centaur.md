@@ -44,7 +44,7 @@ Most of the reputation comes from killing centaurs of the Magram clan in Desolac
 
 ### The quest chain
 
-From Friendly on, Uthek the Wise, on the outskirts of the Gelkis camps in the southwest of Desolace, opens a chain: Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn and Khan Hratha. Strange Alliance and Gelkis Alliance each give 100 reputation with the Gelkis and cost 500 with the Magram, says Wowhead.
+From Friendly on, Uthek the Wise, on the outskirts of the Gelkis camps in the southwest of Desolace, opens a chain: Strange Alliance, Gelkis Alliance, Raid on the Kolkar, Stealing Supplies, Ongeku, Khan Jehn and Khan Hratha. Strange Alliance and Gelkis Alliance each give 100 reputation with the Gelkis and cost 500 with the Magram.
 
 ### Where it stops
 

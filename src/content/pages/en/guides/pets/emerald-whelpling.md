@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Emerald Whelpling in WoW Forever?"
-    a: "It drops from Dreaming Whelp in Swamp of Sorrows. In the loot data of Wowhead it drops in about 0.2% of kills."
+    a: "It drops from Dreaming Whelp in Swamp of Sorrows. In the loot data it drops in about 0.2% of kills."
   - q: "Is Emerald Whelpling new in WoW Forever?"
     a: "No. Emerald Whelpling was already in Classic and returns in WoW Forever."
 sources:
@@ -29,17 +29,17 @@ Emerald Whelpling is a companion pet from Classic that returns in World of Warcr
 | Where | Swamp of Sorrows |
 | Drop chance | 0.2% |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
-It drops from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> in Swamp of Sorrows. In the loot data of Wowhead it drops in about 0.2% of kills.
+It drops from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=741">Dreaming Whelp</a> in Swamp of Sorrows. In the loot data it drops in about 0.2% of kills.
 
 ## What changed since Classic
 
 The item now teaches the pet: it becomes a spell and no longer takes a spot in your bags. Summoning it is instant instead of a 1 second cast, with a cooldown of 1.5 seconds.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

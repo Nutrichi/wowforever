@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Een wezen in World of Warcraft: Forever kan weer maar één keer gevild worden voor het lijk verdwijnt. Tot nu kon elk lid van een groep hetzelfde beest villen. De nieuwste beta-build maakt daar een eind aan, schrijft Wowhead.
+Een wezen in World of Warcraft: Forever kan weer maar één keer gevild worden voor het lijk verdwijnt. Tot nu kon elk lid van een groep hetzelfde beest villen. De nieuwste beta-build maakt daar een eind aan.
 
 Skinning levert leer op van beesten. In Classic verdwijnt het lijk na één keer villen. Op de beta van Forever konden spelers in een groep de afgelopen twee weken hetzelfde wezen één keer per groepslid villen, zodat één kill meer leer opleverde. Of dat zo bedoeld was, was voor spelers niet duidelijk.
 
@@ -21,4 +21,4 @@ De notes van de build zeggen:
 
 > Creatures can once again only be skinned a single time before disappearing.
 
-Daarmee is duidelijk dat het om een bug ging, schrijft Wowhead. Eén viller per wezen verandert hoeveel leer er op de markt komt wanneer Forever op 4 november verschijnt.
+Daarmee is duidelijk dat het om een bug ging. Eén viller per wezen verandert hoeveel leer er op de markt komt wanneer Forever op 4 november verschijnt.

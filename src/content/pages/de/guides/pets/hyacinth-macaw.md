@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Hyacinth Macaw in WoW Forever?"
-    a: "Es fällt von mehreren Monstern. Diese haben in den Beutedaten von Wowhead die beste Chance: Bloodsail Sea Dog in Stranglethorn Vale, etwa 0,7 % Bloodsail Swashbuckler in Stranglethorn Vale, etwa 0,1 % Bloodsail Warlock in Stranglethorn Vale, etwa 0,1 %"
+    a: "Es fällt von mehreren Monstern. Diese haben in den Beutedaten die beste Chance: Bloodsail Sea Dog in Stranglethorn Vale, etwa 0,7 % Bloodsail Swashbuckler in Stranglethorn Vale, etwa 0,1 % Bloodsail Warlock in Stranglethorn Vale, etwa 0,1 %"
   - q: "Ist Hyacinth Macaw neu in WoW Forever?"
     a: "Nein. Hyacinth Macaw gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -30,11 +30,11 @@ Hyacinth Macaw ist ein Haustier aus Classic, das in World of Warcraft: Forever z
 | Wo | Stranglethorn Vale |
 | Dropchance | 0,7 % |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
-Es fällt von mehreren Monstern. Diese haben in den Beutedaten von Wowhead die beste Chance:
+Es fällt von mehreren Monstern. Diese haben in den Beutedaten die beste Chance:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1565">Bloodsail Sea Dog</a> in Stranglethorn Vale, etwa 0,7 %
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1563">Bloodsail Swashbuckler</a> in Stranglethorn Vale, etwa 0,1 %
@@ -44,7 +44,7 @@ Es fällt von mehreren Monstern. Diese haben in den Beutedaten von Wowhead die b
 
 Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen. Das Herbeirufen ist sofort statt mit 1 Sekunde Zauberzeit, mit einer Abklingzeit von 1,5 Sekunden.
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere in Stranglethorn Vale
 

@@ -61,7 +61,7 @@ No hay previsto un tipo RP-PvP. El reino RP-PvP de Season of Discovery perdió s
 
 > We don't have any plans right now. We don't have anything really to report, but we're very carefully considering the feedback. We're looking at it. We're reading it.
 
-Nada impedirá que un nivel 60 campee a niveles bajos en un reino PvP, salvo que sea trampa o un exploit. Donde Blizzard active el PvP para un evento en el mundo, puede añadir ayuda, como una breve inmunidad tras resucitar.
+Nada impedirá que un nivel 60 campee a niveles bajos en un reino PvP, salvo que sea trampa o un exploit. Una protección como la de los reinos Titan Reforged de China [no llegará](/es/news/no-protection-for-low-levels-on-pvp-realms/). Donde Blizzard active el PvP para un evento en el mundo, puede añadir ayuda, como una breve inmunidad tras resucitar.
 
 ## Grandes combates en el mundo abierto
 

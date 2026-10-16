@@ -15,23 +15,23 @@ draft: false
 ---
 **Richtigstellung, 23. September 2026.** Blizzard hat inzwischen im Forum gesagt, dass dies keine Änderung ist, sondern ein Fehler: die halbe Sekunde Zauberzeit vor einem Auto-Shot oder einem Zauberstab funktioniert nicht richtig, und eine Korrektur kommt in einem der nächsten Beta-Builds. Was folgt, beschreibt, was die Beta am 21. September tat.
 
-Auto-Shot und Wanding gehen in World of Warcraft: Forever viel schneller aus dem Stand los. Die versteckte Zauberzeit bei beiden wurde stark gekürzt, schreibt Wowhead nach der Beta. Das verändert das Kiten für Hunter und für jeden Caster mit einem Wand.
+Auto-Shot und Wanding gehen in World of Warcraft: Forever viel schneller aus dem Stand los. Die versteckte Zauberzeit bei beiden wurde stark gekürzt. Das verändert das Kiten für Hunter und für jeden Caster mit einem Wand.
 
 ## Der Stopp, den niemand sieht
 
-In Classic sind Auto-Shot und Wanding das, worauf ein Spieler zurückfällt, wenn die Mana leer ist. Beide tragen eine kurze versteckte Zauberzeit, schreibt Wowhead, also muss der Charakter stehen, bevor der Schuss losgeht. Einen Schritt zu früh, und nichts verlässt den Bogen.
+In Classic sind Auto-Shot und Wanding das, worauf ein Spieler zurückfällt, wenn die Mana leer ist. Beide tragen eine kurze versteckte Zauberzeit, also muss der Charakter stehen, bevor der Schuss losgeht. Einen Schritt zu früh, und nichts verlässt den Bogen.
 
 Dieser versteckte Stopp macht das Kiten schwer. Ein Hunter, der läuft, dreht und schießt, verliert einen Schuss, sobald das Timing verrutscht.
 
 ## Was sich in Forever ändert
 
-Die versteckte Zauberzeit steht in Forever weiterhin da, schreibt Wowhead, aber sie ist sehr kurz. Ein Spieler muss noch immer stehen, nur viel kürzer als vorher.
+Die versteckte Zauberzeit steht in Forever weiterhin da, aber sie ist sehr kurz. Ein Spieler muss noch immer stehen, nur viel kürzer als vorher.
 
-Wowhead erwartet, dass das einiges durcheinanderbringt, vor allem im PvP. Ein Hunter kann jetzt Abstand halten und gleichzeitig weiterschießen. Ob der Wert nach der Beta bleibt, wo er steht, sagt Blizzard nicht.
+Das dürfte einiges durcheinanderbringen, vor allem im PvP. Ein Hunter kann jetzt Abstand halten und gleichzeitig weiterschießen. Ob der Wert nach der Beta bleibt, wo er steht, sagt Blizzard nicht.
 
 ## Zwei Videos nebeneinander
 
-Der Spieler Aggravating_Doctor20 stellte [zwei Vergleichsvideos](https://www.reddit.com/r/classicwow/comments/1wjw6mb/hunter_auto_shot_swingtimer_forever_vs_classic_era/) auf den Subreddit classicwow, schreibt Wowhead, in denen dieselbe Fähigkeit nebeneinander in Forever und in Classic Era läuft. Der Swing Timer in der Ecke zeigt den Unterschied.
+Der Spieler Aggravating_Doctor20 stellte [zwei Vergleichsvideos](https://www.reddit.com/r/classicwow/comments/1wjw6mb/hunter_auto_shot_swingtimer_forever_vs_classic_era/) auf den Subreddit classicwow, in denen dieselbe Fähigkeit nebeneinander in Forever und in Classic Era läuft. Der Swing Timer in der Ecke zeigt den Unterschied.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wjw6mb/hunter_auto_shot_swingtimer_forever_vs_classic_era">
   <button type="button" class="wf-embed__play">

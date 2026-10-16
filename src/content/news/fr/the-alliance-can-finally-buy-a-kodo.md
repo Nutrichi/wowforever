@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Un Kodo est une monture de la Horde, et cela depuis vingt ans. Dans WoW Forever, l’Alliance peut en acheter un. Les Reins of the Pack Kodo sont chez l’Azeroth Commerce Authority pour 6000 Merchant's Favor, trouvés sur la bêta et rapportés par Wowhead.
+Un Kodo est une monture de la Horde, et cela depuis vingt ans. Dans WoW Forever, l’Alliance peut en acheter un. Les Reins of the Pack Kodo sont chez l’Azeroth Commerce Authority pour 6000 Merchant's Favor, comme le montre la bêta.
 
 Le vendeur s’appelle Huey Sunnydale. Merchant's Favor est la monnaie de la faction, et elle achète plus que cela : des recettes d’artisanat, d’autres montures, des jouets et des cosmétiques.
 

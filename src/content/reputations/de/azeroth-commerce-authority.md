@@ -101,7 +101,7 @@ Unter Neutral läuft die Skala ebenfalls wie üblich: Hated ist 36.000 breit, Ho
 
 **Kisten.** Eine Kiste wie die <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> erbeutest du in der Welt, füllst sie und gibst sie bei Marcy Baker ab. Der Legacy-Perk Performance Bonus gibt 5, 10 oder 15 Prozent Chance auf doppeltes Merchant's Favor pro Kiste; siehe den [Legacy-Rechner](/de/talents/legacy/).
 
-**Craftsman's Writs** gibt es auch, womöglich ab Stufe 10, schreibt Wowhead. Was sie verlangen und ob Marcy Baker sie annimmt, ist noch nicht bekannt.
+**Craftsman's Writs** gibt es auch, womöglich ab Stufe 10. Was sie verlangen und ob Marcy Baker sie annimmt, ist noch nicht bekannt.
 
 ## Was noch nicht bekannt ist
 

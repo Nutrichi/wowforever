@@ -21,11 +21,11 @@ La note de la build est courte :
 >
 > Eureka! no longer benefits periodic effects at all. Channeled spells do not count as periodics.
 
-Eureka! est un racial actif avec un temps de recharge de 2 minutes. Vos 3 prochaines techniques offensives coûtent 10 % de moins et infligent 10 % de dégâts en plus. Le premier nerf avait déjà réduit la remise sur les ressources, écrit Wowhead.
+Eureka! est un racial actif avec un temps de recharge de 2 minutes. Vos 3 prochaines techniques offensives coûtent 10 % de moins et infligent 10 % de dégâts en plus. Le premier nerf avait déjà réduit la remise sur les ressources.
 
 ## Ce que cela change par classe
 
-Le racial a une version par ressource. Wowhead en trouve quatre dans les données de la build :
+Le racial a une version par ressource. Les données de la build en contiennent quatre :
 
 | Classe | Ressource | Ce qui disparaît |
 |---|---|---|

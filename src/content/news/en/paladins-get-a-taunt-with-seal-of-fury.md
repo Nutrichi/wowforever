@@ -26,7 +26,7 @@ The video lasts 7 minutes and appeared on 3 October at 19.00 Belgian time on the
   </button>
 </figure>
 
-Part of the Hunter changes was already in the [first class deep dive](/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), on the Hunter and the Druid. The numbers below come from the tooltips on Wowhead.
+Part of the Hunter changes was already in the [first class deep dive](/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), on the Hunter and the Druid. The numbers below come from the tooltips of the beta.
 
 ## Hunter
 

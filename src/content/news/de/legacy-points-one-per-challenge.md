@@ -15,7 +15,7 @@ manual: true
 ---
 Legacy Points sind der accountweite Fortschritt in WoW Forever, und die Wertung ist flach: jede Aufgabe ist einen Punkt wert. Verdient werden sie durch das Leveln von Klassen und Tradeskills, durch Dungeons und Raids, durch PvP-Ränge und durch Erkunden, und ausgegeben in drei Bäumen.
 
-Wowhead hat die Liste aus der Beta zusammengetragen. Blizzard hat keine vollständige Tabelle veröffentlicht.
+Die Liste stammt aus der Beta. Blizzard hat keine vollständige Tabelle veröffentlicht.
 
 ## Woher die Punkte kommen
 

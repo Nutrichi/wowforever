@@ -19,7 +19,7 @@ De set valt in Wailing Caverns, vijf stukken in totaal, elk bij een ander wezen 
 
 ## Wie het vond
 
-De speler Noah plaatste de vondst, schrijft Wowhead.
+De speler Noah plaatste de vondst.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2101253855983910975">
   <button type="button" class="wf-embed__play">
@@ -31,7 +31,7 @@ De speler Noah plaatste de vondst, schrijft Wowhead.
   </button>
 </figure>
 
-Zirene, Senior Game Designer bij Blizzard, voegde eraan toe dat de kleur van de slang per Druid-race verschilt en dat de vorm een eigen sluipanimatie draagt voor Prowl en Stealth, schrijft Wowhead.
+Zirene, Senior Game Designer bij Blizzard, voegde eraan toe dat de kleur van de slang per Druid-race verschilt en dat de vorm een eigen sluipanimatie draagt voor Prowl en Stealth.
 
 ## Waarom dit meer is dan een grap
 

@@ -28,7 +28,7 @@ Mini Uber Diablo è una mascotte da compagnia nuova in World of Warcraft: Foreve
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268879"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Uber Diablo Stone</a> |
 | Fonte | Non ancora noto |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -36,7 +36,7 @@ Nei file c'è un secondo oggetto per la stessa mascotte, <a class="wf-wh wf-q1" 
 
 ## Da sapere
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

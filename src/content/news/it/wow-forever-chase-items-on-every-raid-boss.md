@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Ogni boss di raid di World of Warcraft: Forever lascia cadere un chase item. Blizzard lo ha detto in un'intervista con The Sun alla BlizzCon 2026, riporta Wowhead. Nella stessa intervista si è parlato delle nuove zone, degli alberi dei talenti e della curva dell'esperienza, che non cambia.
+Ogni boss di raid di World of Warcraft: Forever lascia cadere un chase item. Blizzard lo ha detto in un'intervista con The Sun alla BlizzCon 2026. Nella stessa intervista si è parlato delle nuove zone, degli alberi dei talenti e della curva dell'esperienza, che non cambia.
 
 The Sun ha parlato con Kris Zierhut, Principal Designer, e Michael Nuthals, Senior Encounter Designer.
 

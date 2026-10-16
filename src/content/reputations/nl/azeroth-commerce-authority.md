@@ -101,7 +101,7 @@ Onder Neutral loopt de schaal ook zoals gewoonlijk: Hated is 36.000 breed, Hosti
 
 **Kisten.** Een kist zoals de <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> buit je in de wereld, vul je en lever je in bij Marcy Baker. De Legacy-perk Performance Bonus geeft 5, 10 of 15 procent kans op dubbele Merchant's Favor per kist; zie de [Legacy-calculator](/nl/talents/legacy/).
 
-**Craftsman's Writs** bestaan ook, en zijn mogelijk vanaf level 10 beschikbaar, schrijft Wowhead. Wat ze vragen en of Marcy Baker ze aanneemt, is nog niet bekend.
+**Craftsman's Writs** bestaan ook, en zijn mogelijk vanaf level 10 beschikbaar. Wat ze vragen en of Marcy Baker ze aanneemt, is nog niet bekend.
 
 ## Wat nog niet bekend is
 

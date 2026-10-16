@@ -25,8 +25,8 @@ Nur der zusätzliche Teil schrumpft. Eine Dungeonquest gibt weiterhin mindestens
 
 ## Warum Dungeonquests so viel wert waren
 
-Blizzard hat in Forever [die Erfahrung in Dungeons von Kills zu Quests verschoben](/de/news/wow-forever-dungeon-experience-changes/). Monster in einem Dungeon geben wenig, die Quests viel. In The Hall of Thanes gab ein Monster 28 bis 30 Erfahrung und jede Quest 3.900 bis 4.900, laut Wowhead.
+Blizzard hat in Forever [die Erfahrung in Dungeons von Kills zu Quests verschoben](/de/news/wow-forever-dungeon-experience-changes/). Monster in einem Dungeon geben wenig, die Quests viel. In The Hall of Thanes gab ein Monster 28 bis 30 Erfahrung und jede Quest 3.900 bis 4.900.
 
-Das wurde von zwei Seiten kritisiert, schreibt Wowhead. Manche Spieler fürchteten, dass der Questbonus das Leveln zu schnell macht. Andere fanden, dass ein zweiter Lauf durch einen Dungeon wegen der geringen Erfahrung aus Monstern sinnlos wird. Der neue Build geht auf die erste Gruppe ein. Für wiederholte Läufe ändert sich nichts.
+Das wurde von zwei Seiten kritisiert. Manche Spieler fürchteten, dass der Questbonus das Leveln zu schnell macht. Andere fanden, dass ein zweiter Lauf durch einen Dungeon wegen der geringen Erfahrung aus Monstern sinnlos wird. Der neue Build geht auf die erste Gruppe ein. Für wiederholte Läufe ändert sich nichts.
 
 Wie viel eine Dungeonquest jetzt gibt, nennt Blizzard nicht in Zahlen. Ob die Erfahrung aus Monstern wieder steigt, steht auch nicht in den Notes.

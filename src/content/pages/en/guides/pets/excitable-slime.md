@@ -30,7 +30,7 @@ Excitable Slime is a companion pet that is new in World of Warcraft: Forever. Yo
 | Source | Quest: WRIGGLE. |
 | Where | Undercity |
 | New in Forever | yes |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -46,7 +46,7 @@ Use /dance at the pet later on, and it dances along.
 
 ## Good to know
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets in Undercity
 

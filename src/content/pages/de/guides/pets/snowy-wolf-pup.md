@@ -28,7 +28,7 @@ Snowy Wolf Pup ist ein Haustier, das neu in World of Warcraft: Forever ist. Du l
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=269830"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Snowy Wolf Pup</a> |
 | Quelle | Noch nicht bekannt |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -38,7 +38,7 @@ Der Tooltip in der Beta sagt noch, dass es "your chicken" herbeiruft, Text von e
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

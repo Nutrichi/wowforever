@@ -28,7 +28,7 @@ Pachimari è una mascotte da compagnia nuova in World of Warcraft: Forever. La i
 | Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=280614"><img class="wf-wh__icon" src="/wh/inv_pachimarapet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pachimari</a> |
 | Fonte | Edizione: Skyborne Epic Pack, Warcraft Forever Collection |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -38,7 +38,7 @@ Pachimari è una mascotte da compagnia nuova in World of Warcraft: Forever. La i
 
 La descrizione nella beta mostra ancora un testo provvisorio ([PH] Pachimara), quindi questa mascotte non è finita.
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

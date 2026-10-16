@@ -27,7 +27,7 @@ Pachimari is a companion pet that is new in World of Warcraft: Forever. You lear
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=280614"><img class="wf-wh__icon" src="/wh/inv_pachimarapet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pachimari</a> |
 | Source | Edition: Skyborne Epic Pack, Warcraft Forever Collection |
 | New in Forever | yes |
-| Account-wide | yes, according to Wowhead |
+| Account-wide | yes, in the game data |
 
 ## How to get it
 
@@ -37,7 +37,7 @@ Pachimari is a companion pet that is new in World of Warcraft: Forever. You lear
 
 The tooltip on the beta still shows placeholder text ([PH] Pachimara), so this pet is not finished yet.
 
-Wowhead's database marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
+The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 
 ## More pets from the same source
 

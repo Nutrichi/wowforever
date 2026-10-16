@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-La beta de World of Warcraft: Forever está en marcha. Abrió el 17 de septiembre, justo después del Q&A en directo de Blizzard. Hay colas en la pantalla de acceso, escribe Wowhead. Cómo de estables son los servidores, no se sabe.
+La beta de World of Warcraft: Forever está en marcha. Abrió el 17 de septiembre, justo después del Q&A en directo de Blizzard. Hay colas en la pantalla de acceso. Cómo de estables son los servidores, no se sabe.
 
 La beta dura hasta el 21 de octubre de 2026. Empieza con un límite de nivel 20 y lo sube más tarde a 30, y ahí se queda hasta el lanzamiento del 4 de noviembre.
 

@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Het Statistics-venster werkt in de WoW Forever-beta. In de eerste build bleef het leeg, de huidige vult het met zo'n tweehonderd getallen per personage, schrijft Wowhead. Die gaan van het totaal aantal kills en uitgegeven goud tot doden door Hogger.
+Het Statistics-venster werkt in de WoW Forever-beta. In de eerste build bleef het leeg, de huidige vult het met zo'n tweehonderd getallen per personage. Die gaan van het totaal aantal kills en uitgegeven goud tot doden door Hogger.
 
 ## Waar het staat
 
@@ -21,7 +21,7 @@ Het venster zit in het personagevenster. Open dat met C, de standaardtoets, en k
 
 ## Wat het telt
 
-Wowhead publiceerde de volledige lijst. Een selectie:
+Een selectie uit de volledige lijst:
 
 - **Gevecht:** de grootste klap uitgedeeld en ontvangen, de grootste heal, de totale schade en de totale heling.
 - **Rijkdom:** goud uit quests, van vendors en uit veilingen, goud uitgegeven aan respecs, reizen, post en de kapper, en het meeste goud ooit in bezit.
@@ -35,7 +35,7 @@ PvP heeft eigen blokken, met honorable kills, killing blows en resultaten per ba
 
 ## Bazen uit de nieuwe dungeons
 
-De categorie Boss Kills toont een baas pas als het personage hem minstens een keer verslagen heeft, schrijft Wowhead. De lijst bevat de klassieke dungeons, van Edwin VanCleef in de Deadmines tot Baron Rivendare in Stratholme. Ze noemt ook bazen uit inhoud die nieuw is in Forever:
+De categorie Boss Kills toont een baas pas als het personage hem minstens een keer verslagen heeft. De lijst bevat de klassieke dungeons, van Edwin VanCleef in de Deadmines tot Baron Rivendare in Stratholme. Ze noemt ook bazen uit inhoud die nieuw is in Forever:
 
 - **The Hall of Thanes:** Durgen Dirgehammer
 - **Ruins of Lordaeron:** Rath'mael
@@ -47,4 +47,4 @@ De categorie Boss Kills toont een baas pas als het personage hem minstens een ke
 
 Durgen Dirgehammer is de eindbaas van de Hall of Thanes, zoals [de walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) laat zien. Rath'mael is een van de zes bazen in de Ruins of Lordaeron, die in willekeurige volgorde kunnen, volgens [de walkthrough](/nl/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/). Bij de andere namen zegt de lijst niet of het de laatste baas is. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold en Blackmaw Hold staan er niet in.
 
-Een paar regels wijzen naar latere uitbreidingen, zoals Inscription, de Dalaran Cooking Awards en daily quests voor Cooking en Fishing. Of die iets betekenen in Forever, zegt Wowhead niet.
+Een paar regels wijzen naar latere uitbreidingen, zoals Inscription, de Dalaran Cooking Awards en daily quests voor Cooking en Fishing. Of die iets betekenen in Forever, is niet bekend.

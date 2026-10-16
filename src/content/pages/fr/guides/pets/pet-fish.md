@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Pet Fish dans WoW Forever ?"
-    a: "Elle tombe sur Dreamwater Vicejaw à The Hinterlands. Dans les données de butin de Wowhead, elle tombe dans environ 0,1 % des victoires."
+    a: "Elle tombe sur Dreamwater Vicejaw à The Hinterlands. Dans les données de butin, elle tombe dans environ 0,1 % des victoires."
   - q: "Pet Fish est-elle nouvelle dans WoW Forever ?"
     a: "Non. Pet Fish existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -30,17 +30,17 @@ Pet Fish est une mascotte de compagnie de Classic qui revient dans World of Warc
 | Où | The Hinterlands |
 | Taux de butin | 0,1 % |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, selon Wowhead |
+| Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
-Elle tombe sur <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> à The Hinterlands. Dans les données de butin de Wowhead, elle tombe dans environ 0,1 % des victoires.
+Elle tombe sur <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> à The Hinterlands. Dans les données de butin, elle tombe dans environ 0,1 % des victoires.
 
 ## Ce qui a changé depuis Classic
 
 L'objet apprend désormais la mascotte : elle devient un sort et ne prend plus de place dans les sacs.
 
-La base de données de Wowhead indique que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
+Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source
 

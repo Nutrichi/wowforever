@@ -12,7 +12,7 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
-The addon changes from Midnight will also be active in World of Warcraft: Forever. Blizzard announced that in the WoW UI Discord, reports Wowhead. Forever shares the interface architecture of modern WoW, including secrets and the new aura containers.
+The addon changes from Midnight will also be active in World of Warcraft: Forever. Blizzard announced that in the WoW UI Discord. Forever shares the interface architecture of modern WoW, including secrets and the new aura containers.
 
 ## What Blizzard says
 
@@ -26,17 +26,17 @@ Blizzard treats Forever and modern WoW as two game types within the same code fa
 
 ## What changes for addons
 
-The addon disarmament from Midnight covers secret values. The game hides information that addons could read before, so that an addon no longer gives a competitive advantage, writes Wowhead.
+The addon disarmament from Midnight covers secret values. The game hides information that addons could read before, so that an addon no longer gives a competitive advantage.
 
-That goal has been criticised throughout the Midnight beta, and players keep finding ways around it, writes Wowhead. Blizzard handles those case by case and has also improved the base interface.
+That goal has been criticised throughout the Midnight beta, and players keep finding ways around it. Blizzard handles those case by case and has also improved the base interface.
 
 The AuraContainer and AuraButton changes from patch 12.1.0 come along too. Blizzard says players can expect later interface changes in both game types.
 
-Addons written for WoW Classic will probably have to be rebuilt, and addons from Midnight can be carried over more easily, writes Wowhead.
+Addons written for WoW Classic will probably have to be rebuilt, and addons from Midnight can be carried over more easily.
 
 ## The reaction
 
-WeakAuras stopped its development before Midnight and nearly every addon had to be updated for the new interface, writes Wowhead. The account of WeakAuras posted the announcement on X on 15 September.
+WeakAuras stopped its development before Midnight and nearly every addon had to be updated for the new interface. The account of WeakAuras posted the announcement on X on 15 September.
 
 Player Luckyone961 summed the announcement up on X a day later.
 

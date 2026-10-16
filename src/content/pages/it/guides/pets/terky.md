@@ -28,7 +28,7 @@ Terky è una mascotte da compagnia di Classic che torna in World of Warcraft: Fo
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22780"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">White Murloc Egg</a> |
 | Fonte | Missione: <a href="https://www.wowhead.com/forever/quest=8021">Redeem iCoke Prize Voucher</a> |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -36,7 +36,7 @@ Terky è una mascotte da compagnia di Classic che torna in World of Warcraft: Fo
 
 ## Cosa è cambiato da Classic
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

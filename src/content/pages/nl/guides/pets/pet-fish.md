@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Pet Fish in WoW Forever?"
-    a: "Hij valt van Dreamwater Vicejaw in The Hinterlands. In de lootgegevens van Wowhead valt hij bij ongeveer 0,1% van de kills."
+    a: "Hij valt van Dreamwater Vicejaw in The Hinterlands. In de lootgegevens valt hij bij ongeveer 0,1% van de kills."
   - q: "Is Pet Fish nieuw in WoW Forever?"
     a: "Nee. Pet Fish zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -30,17 +30,17 @@ Pet Fish is een companion pet uit Classic die terugkomt in World of Warcraft: Fo
 | Waar | The Hinterlands |
 | Dropkans | 0,1% |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
-Hij valt van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> in The Hinterlands. In de lootgegevens van Wowhead valt hij bij ongeveer 0,1% van de kills.
+Hij valt van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> in The Hinterlands. In de lootgegevens valt hij bij ongeveer 0,1% van de kills.
 
 ## Wat er veranderde sinds Classic
 
 Het item leert je nu de pet: hij wordt een spell en neemt geen plaats meer in je tassen.
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

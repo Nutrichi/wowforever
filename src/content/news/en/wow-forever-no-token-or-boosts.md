@@ -12,7 +12,7 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
-There are no plans for a WoW Token or a boost in World of Warcraft: Forever. Clay Stone, Associate Production Director, said so in an interview with Destin at BlizzCon 2026, reports Wowhead. The journey is the game, is the reasoning.
+There are no plans for a WoW Token or a boost in World of Warcraft: Forever. Clay Stone, Associate Production Director, said so in an interview with Destin at BlizzCon 2026. The journey is the game, is the reasoning.
 
 Destin spoke with Stone and with Nora Mills, Lead Software Engineer.
 

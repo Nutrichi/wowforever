@@ -30,7 +30,7 @@ Jungle Boa ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lerns
 | Wo | Orgrimmar |
 | Preis | 52 Silber 63 Kupfer |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -38,7 +38,7 @@ Jungle Boa ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lerns
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere von Xan'tish
 

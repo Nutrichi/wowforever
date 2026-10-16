@@ -15,7 +15,7 @@ manual: true
 ---
 Legacy Points zijn de voortgang over de hele account in WoW Forever, en de telling is vlak: elke uitdaging is één punt waard. Je verdient ze met classes en tradeskills levelen, dungeons en raids lopen, PvP-rangen klimmen en verkennen, en geeft ze daarna uit in drie bomen.
 
-Wowhead zette de lijst samen uit de beta. Blizzard heeft geen volledige tabel gepubliceerd.
+De lijst komt uit de beta. Blizzard heeft geen volledige tabel gepubliceerd.
 
 ## Waar de punten vandaan komen
 

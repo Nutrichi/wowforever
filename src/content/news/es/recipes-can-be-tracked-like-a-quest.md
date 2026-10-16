@@ -1,6 +1,6 @@
 ---
 title: "Las recetas se pueden seguir como una misión"
-description: "Las profesiones de WoW Forever reciben una casilla Track Recipe, un enlace de chat para todo el libro de recetas y filtros nuevos. Wowhead mostró las tres cosas en la beta."
+description: "Las profesiones de WoW Forever reciben una casilla Track Recipe, un enlace de chat para todo el libro de recetas y filtros nuevos. Las tres están en la beta."
 date: 2026-09-25T19:16:00+02:00
 category: forever
 lang: es
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Las profesiones de WoW Forever reciben tres comodidades. Una receta se puede seguir como una misión, un libro de recetas entero se puede enlazar en el chat y filtros nuevos ordenan las recetas. Wowhead mostró las tres desde la beta.
+Las profesiones de WoW Forever reciben tres comodidades. Una receta se puede seguir como una misión, un libro de recetas entero se puede enlazar en el chat y filtros nuevos ordenan las recetas. Las tres ya están en la beta.
 
 ## Seguir una receta
 
@@ -21,7 +21,7 @@ La ventana de la profesión tiene una casilla nueva, Track Recipe, abajo junto a
 
 ![La ventana de Alchemy con Elixir of Minor Force seleccionado y la casilla Track Recipe abajo](../../../assets/posts/2026-09-25-wow-forever-alchemy-track-recipe.png)
 
-Al marcarla, los componentes aparecen a la derecha de la pantalla, bajo las misiones, en la misma lista que los objetivos. Eso ayuda al comprar materiales en la Auction House o al recogerlos por el mundo, escribe Wowhead.
+Al marcarla, los componentes aparecen a la derecha de la pantalla, bajo las misiones, en la misma lista que los objetivos. Eso ayuda al comprar materiales en la Auction House o al recogerlos por el mundo.
 
 ![La lista de objetivos con una misión y, bajo Profession, Elixir of Minor Defense con sus tres componentes](../../../assets/posts/2026-09-25-wow-forever-tracked-reagents.jpg)
 

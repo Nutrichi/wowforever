@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-De beta van World of Warcraft: Forever ging op 17 september open met disconnects, lange wachtrijen en vertraging bij elke loot. Senior Game Producer Tom Ellis schreef op X een lange post over wat er misging, samengevat door Wowhead. Het is een zeldzame blik op de machinerie achter een beta.
+De beta van World of Warcraft: Forever ging op 17 september open met disconnects, lange wachtrijen en vertraging bij elke loot. Senior Game Producer Tom Ellis schreef op X een lange post over wat er misging. Het is een zeldzame blik op de machinerie achter een beta.
 
 ## De omgeving is een testopstelling
 

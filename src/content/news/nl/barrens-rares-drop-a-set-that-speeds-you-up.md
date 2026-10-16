@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Drie rare spawns in The Barrens laten nu gear vallen die bij een set hoort. Humar the Pridelord, Swiftmane en Takk the Leaper dragen elk een stuk van Blessing of Kalimdor, en twee van de drie dragen geeft 5 procent loopsnelheid in The Barrens en Stonetalon Mountains. Wowhead vond het op de beta.
+Drie rare spawns in The Barrens laten nu gear vallen die bij een set hoort. Humar the Pridelord, Swiftmane en Takk the Leaper dragen elk een stuk van Blessing of Kalimdor, en twee van de drie dragen geeft 5 procent loopsnelheid in The Barrens en Stonetalon Mountains.
 
 ## De drie stukken
 

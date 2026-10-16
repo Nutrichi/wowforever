@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Le panneau Statistics fonctionne dans la bêta de WoW Forever. Il restait vide dans le premier build, et l'actuel le remplit d'environ deux cents chiffres par personnage, écrit Wowhead. Cela va du total des victimes et de l'or dépensé aux morts causées par Hogger.
+Le panneau Statistics fonctionne dans la bêta de WoW Forever. Il restait vide dans le premier build, et l'actuel le remplit d'environ deux cents chiffres par personnage. Cela va du total des victimes et de l'or dépensé aux morts causées par Hogger.
 
 ## Où le trouver
 
@@ -21,7 +21,7 @@ Le panneau se trouve dans la fenêtre du personnage. Ouvrez-la avec C, la touche
 
 ## Ce qu'il compte
 
-Wowhead a publié la liste complète. Une sélection :
+Une sélection de la liste complète :
 
 - **Combat :** le plus gros coup infligé et reçu, le plus gros soin, les dégâts totaux et les soins totaux.
 - **Richesse :** l'or des quêtes, des marchands et des enchères, l'or dépensé en respecs, en voyages, en courrier et chez le barbier, et le plus d'or jamais possédé.
@@ -35,7 +35,7 @@ Le JcJ a ses propres blocs, avec les honorable kills, les killing blows et les r
 
 ## Des boss des nouveaux donjons
 
-La catégorie Boss Kills n'affiche un boss qu'une fois que le personnage l'a vaincu au moins une fois, écrit Wowhead. La liste reprend les donjons classiques, d'Edwin VanCleef dans les Deadmines à Baron Rivendare dans Stratholme. Elle nomme aussi des boss de contenus nouveaux dans Forever :
+La catégorie Boss Kills n'affiche un boss qu'une fois que le personnage l'a vaincu au moins une fois. La liste reprend les donjons classiques, d'Edwin VanCleef dans les Deadmines à Baron Rivendare dans Stratholme. Elle nomme aussi des boss de contenus nouveaux dans Forever :
 
 - **The Hall of Thanes :** Durgen Dirgehammer
 - **Ruins of Lordaeron :** Rath'mael
@@ -47,4 +47,4 @@ La catégorie Boss Kills n'affiche un boss qu'une fois que le personnage l'a vai
 
 Durgen Dirgehammer est le boss final de la Hall of Thanes, comme le montre [la soluce](/fr/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Rath'mael est l'un des six boss des Ruins of Lordaeron, qui se font dans n'importe quel ordre, selon [la soluce](/fr/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/). Pour les autres noms, la liste ne dit pas s'il s'agit du dernier boss. Excavation Site: Wetlands, The Drowned City, Krol'dok Stronghold et Blackmaw Hold n'y figurent pas.
 
-Quelques lignes renvoient à des extensions plus tardives, comme Inscription, les Dalaran Cooking Awards et des quêtes journalières de Cooking et de Fishing. Si elles ont un sens dans Forever, Wowhead ne le dit pas.
+Quelques lignes renvoient à des extensions plus tardives, comme Inscription, les Dalaran Cooking Awards et des quêtes journalières de Cooking et de Fishing. On ne sait pas si elles ont un sens dans Forever.

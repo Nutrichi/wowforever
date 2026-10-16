@@ -28,7 +28,7 @@ Snowy Wolf Pup è una mascotte da compagnia nuova in World of Warcraft: Forever.
 | Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=269830"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Snowy Wolf Pup</a> |
 | Fonte | Non ancora noto |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -38,7 +38,7 @@ La descrizione nella beta dice ancora che evoca "your chicken", un testo copiato
 
 ## Da sapere
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte dalla stessa fonte
 

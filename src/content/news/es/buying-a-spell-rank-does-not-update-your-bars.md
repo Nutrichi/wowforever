@@ -15,7 +15,7 @@ manual: true
 ---
 Comprar un rango superior de un hechizo en WoW Forever no lo pone en tus barras de acción. En las clases que gastan maná, el rango viejo se queda donde estaba y se sigue lanzando, así que una visita al entrenador puede costar oro sin cambiar nada.
 
-Wowhead avisó del comportamiento en la beta.
+El comportamiento se detectó en la beta.
 
 ## A quién afecta
 

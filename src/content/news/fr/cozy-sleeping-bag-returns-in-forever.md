@@ -15,7 +15,7 @@ manual: true
 ---
 Le Cozy Sleeping Bag est dans WoW Forever. Des joueurs ont trouvé la chaîne de quêtes de Season of Discovery active sur la bêta, et elle se termine par le même objet : un sac que l’on déroule n’importe où pour gagner de l’expérience bonus en se reposant. Il faut le niveau 14 pour la lancer.
 
-Brubby, du WoW Secret Finding Discord, a confirmé la chaîne et fourni les captures, rapporte Wowhead.
+Brubby, du WoW Secret Finding Discord, a confirmé la chaîne et fourni les captures.
 
 ## Ce que fait le sac
 

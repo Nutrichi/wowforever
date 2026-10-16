@@ -1,6 +1,6 @@
 ---
 title: "Bestanden van de beta bevatten een nieuwe cloth-levelset"
-description: "Rotmender's Raiment telt vijf cloth-stukken voor level 17 tot 19, met een bonus voor threat, Mana en heling. Wowhead vond de set in de bestanden van de nieuwste beta-build; Blizzard heeft hem niet bevestigd."
+description: "Rotmender's Raiment telt vijf cloth-stukken voor level 17 tot 19, met een bonus voor threat, Mana en heling. De set zit in de bestanden van de nieuwste beta-build; Blizzard heeft hem niet bevestigd."
 date: 2026-09-25T10:25:00+02:00
 category: forever
 lang: nl
@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-De bestanden van de nieuwste beta-build bevatten een nieuwe levelset, Rotmender's Raiment. Hij telt vijf cloth-stukken voor personages rond level 17 tot 19, schrijft Wowhead na datamining. Blizzard heeft de set niet bevestigd.
+De bestanden van de nieuwste beta-build bevatten een nieuwe levelset, Rotmender's Raiment. Hij telt vijf cloth-stukken voor personages rond level 17 tot 19. Blizzard heeft de set niet bevestigd.
 
-Wowhead vergelijkt hem met Embrace of the Viper, de levelset uit Wailing Caverns die [Druids in een slang verandert](/nl/news/a-hidden-set-bonus-turns-druids-into-a-snake/).
+Hij lijkt op Embrace of the Viper, de levelset uit Wailing Caverns die [Druids in een slang verandert](/nl/news/a-hidden-set-bonus-turns-druids-into-a-snake/).
 
 ## De bonussen
 
@@ -34,8 +34,8 @@ Wowhead vergelijkt hem met Embrace of the Viper, de levelset uit Wailing Caverns
 | Rotmender's Leggings | Benen | 22 | 17 | bij oprapen |
 | Rotmender's Treads | Voeten | 24 | 19 | bij oprapen |
 
-Twee stukken bestonden al onder een andere naam. Rotmender's Leggings heetten eerst Wispcloth Leggings en Rotmender's Treads waren Frostbane Treads, schrijft Wowhead. Beide vallen in dungeons, dus Wowhead verwacht dat ook de andere drie uit dungeons komen. Welke dungeons, zegt het artikel niet.
+Twee stukken bestonden al onder een andere naam. Rotmender's Leggings heetten eerst Wispcloth Leggings en Rotmender's Treads waren Frostbane Treads. Beide vallen in dungeons, dus de andere drie komen wellicht ook uit dungeons. Welke dungeons, is niet bekend.
 
 ## Kan nog veranderen
 
-Forever gaat anders om met datamining en encryptie dan andere versies van WoW, schrijft Wowhead. Alles in de bestanden kan nog veranderen voor de launch op 4 november. Delen van het artikel zijn speculatie op basis van de data, voegt Wowhead eraan toe.
+Forever gaat anders om met datamining en encryptie dan andere versies van WoW. Alles in de bestanden kan nog veranderen voor de launch op 4 november.

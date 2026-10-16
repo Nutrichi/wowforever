@@ -12,15 +12,15 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-The Cooldown Manager from retail can now be tested in the WoW Forever beta. It came to Midnight with patch 12.0, when Blizzard limited what addons can do. Druid, Mage, Priest, Warrior and Warlock can try it now, writes Wowhead.
+The Cooldown Manager from retail can now be tested in the WoW Forever beta. It came to Midnight with patch 12.0, when Blizzard limited what addons can do. Druid, Mage, Priest, Warrior and Warlock can try it now.
 
 ## Why it fits Forever
 
-Forever has the same addon restrictions as Midnight and runs on the same client as retail, writes Wowhead. That is why the manager could be carried over. It takes the key information from the buff bar and the action bar and puts it where the player wants it, according to the [development notes](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) of 24 September.
+Forever has the same addon restrictions as Midnight and runs on the same client as retail. That is why the manager could be carried over. It takes the key information from the buff bar and the action bar and puts it where the player wants it, according to the [development notes](https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-september-24/2360696) of 24 September.
 
 ## Switching it on
 
-The manager is off by default. Blizzard puts the switch in Options under Gameplay Enhancement; Wowhead found it under Options, Advanced Options. Once it is on, Edit Mode moves the tracked spells around the screen, and /cdm opens the list of what is shown.
+The manager is off by default. Blizzard puts the switch in Options under Gameplay Enhancement; on the beta it shows up under Options, Advanced Options. Once it is on, Edit Mode moves the tracked spells around the screen, and /cdm opens the list of what is shown.
 
 ## The settings window
 

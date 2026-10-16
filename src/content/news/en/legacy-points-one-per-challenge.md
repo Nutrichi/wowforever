@@ -14,7 +14,7 @@ draft: false
 ---
 Legacy Points are the account-wide progression in WoW Forever, and the scoring is flat: every challenge is worth one point. You earn them by levelling classes and tradeskills, running dungeons and raids, climbing PvP ranks and exploring, then spend them in three trees.
 
-Wowhead put the list together from the beta. Blizzard has not published a full table.
+The list comes from the beta. Blizzard has not published a full table.
 
 ## Where the points come from
 

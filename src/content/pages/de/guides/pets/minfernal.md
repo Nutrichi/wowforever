@@ -28,7 +28,7 @@ Minfernal ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lernst
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=284214"><img class="wf-wh__icon" src="/wh/spell_shadow_summoninfernal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minfernal</a> |
 | Quelle | Noch nicht bekannt |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
@@ -38,7 +38,7 @@ Der Tooltip in der Beta sagt noch, dass es "your baby crocolisk" herbeiruft, Tex
 
 ## Gut zu wissen
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

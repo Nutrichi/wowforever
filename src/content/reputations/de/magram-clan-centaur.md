@@ -45,7 +45,7 @@ Das meiste kommt aus Kills an Zentauren des Gelkis-Clans in Desolace. Warcraft W
 
 ### Die Questreihe
 
-Ab Friendly öffnet Warug am Rand von Magram Village im Südosten von Desolace eine Reihe: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka und Khan Hratha. Magram Alliance gibt 100 Ruf bei den Magram und kostet 500 bei den Gelkis, sagt Wowhead. Warug schickt dich außerdem gegen die Kolkar und die Maraudine, schreibt Warcraft Wiki.
+Ab Friendly öffnet Warug am Rand von Magram Village im Südosten von Desolace eine Reihe: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka und Khan Hratha. Magram Alliance gibt 100 Ruf bei den Magram und kostet 500 bei den Gelkis. Warug schickt dich außerdem gegen die Kolkar und die Maraudine, schreibt Warcraft Wiki.
 
 ### Wo es aufhört
 

@@ -23,6 +23,6 @@ Verschillende lijsten markeren legendaries die best in slot blijven. Val'anyr, H
 
 ## Bronnen
 
-De meeste lijsten zijn gebaseerd op de gearguides van Icy Veins. Icy Veins heeft voor fase 1 geen tabellen voor Paladin, Hunter, Rogue en Death Knight. Die twaalf lijsten komen uit de guides voor fase 1 van WotLK Classic op Wowhead.
+De lijsten zijn gebaseerd op gevestigde gearguides voor fase 1 van WotLK Classic.
 
 Voor fase 3 splitst Icy Veins sommige tabellen per factie. De lijsten gebruiken de items van de Alliance; de versies van de Horde vallen van dezelfde bazen op hetzelfde item level. Een paar herkomsten van items die op de bronpagina's fout stonden, zijn rechtgezet aan de hand van de lijsten met encounters.

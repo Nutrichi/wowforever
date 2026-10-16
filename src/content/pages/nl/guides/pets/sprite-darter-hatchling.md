@@ -28,7 +28,7 @@ Sprite Darter Hatchling is een companion pet uit Classic die terugkomt in World 
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11474"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sprite Darter Egg</a> |
 | Bron | Quest: <a href="https://www.wowhead.com/forever/quest=4298">Becoming a Parent</a> |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens Wowhead |
+| Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
@@ -38,7 +38,7 @@ De Sprite Darter Egg wordt ook verkocht op het Black Market Auction House, door 
 
 ## Wat er veranderde sinds Classic
 
-De database van Wowhead markeert de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
+De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron
 

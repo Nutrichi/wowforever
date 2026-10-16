@@ -15,7 +15,7 @@ manual: true
 ---
 Rockslicer, un hacha a dos manos de las Deadmines, lleva un efecto nuevo en WoW Forever. Abre vetas de Copper, Tin, Silver e Iron sin el tradeskill Mining, durante 30 cargas. Después el hacha sigue en la bolsa, pero el uso de minería desaparece.
 
-Wowhead vio el cambio en la beta, donde el botín de todo el juego recibió estadísticas nuevas.
+El cambio apareció en la beta, donde el botín de todo el juego recibió estadísticas nuevas.
 
 ## Qué es el hacha
 

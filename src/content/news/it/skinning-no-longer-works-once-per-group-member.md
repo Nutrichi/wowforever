@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Una creatura di World of Warcraft: Forever si può di nuovo scuoiare una sola volta prima che il cadavere scompaia. Finora ogni membro di un gruppo poteva scuoiare la stessa bestia. L'ultima build della beta lo corregge, scrive Wowhead.
+Una creatura di World of Warcraft: Forever si può di nuovo scuoiare una sola volta prima che il cadavere scompaia. Finora ogni membro di un gruppo poteva scuoiare la stessa bestia. L'ultima build della beta lo corregge.
 
 Lo Skinning dà cuoio dalle bestie. In Classic il cadavere scompare dopo una sola scuoiatura. Sulla beta di Forever, nelle ultime due settimane i giocatori in gruppo potevano scuoiare la stessa creatura una volta per membro, quindi una sola uccisione dava più cuoio. Ai giocatori non era chiaro se fosse voluto.
 
@@ -21,4 +21,4 @@ Le note della build dicono:
 
 > Creatures can once again only be skinned a single time before disappearing.
 
-È quindi chiaro che si trattava di un bug, scrive Wowhead. Un solo scuoiatore per creatura cambia quanto cuoio arriva sul mercato quando Forever esce il 4 novembre.
+È quindi chiaro che si trattava di un bug. Un solo scuoiatore per creatura cambia quanto cuoio arriva sul mercato quando Forever esce il 4 novembre.

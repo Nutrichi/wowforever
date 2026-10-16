@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Pet Stone in WoW Forever?"
-    a: "Es fällt von mehreren Monstern. Diese haben in den Beutedaten von Wowhead die beste Chance: The Giant in Feralas Enraged Mountain Giant in Feralas"
+    a: "Es fällt von mehreren Monstern. Diese haben in den Beutedaten die beste Chance: The Giant in Feralas Enraged Mountain Giant in Feralas"
   - q: "Ist Pet Stone neu in WoW Forever?"
     a: "Nein. Pet Stone gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -29,11 +29,11 @@ Pet Stone ist ein Haustier aus Classic, das in World of Warcraft: Forever zurüc
 | Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (und 1 weitere) |
 | Wo | Feralas |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Wowhead |
+| Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
-Es fällt von mehreren Monstern. Diese haben in den Beutedaten von Wowhead die beste Chance:
+Es fällt von mehreren Monstern. Diese haben in den Beutedaten die beste Chance:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> in Feralas
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221373">Enraged Mountain Giant</a> in Feralas
@@ -42,7 +42,7 @@ Es fällt von mehreren Monstern. Diese haben in den Beutedaten von Wowhead die b
 
 Der Gegenstand bringt dir das Haustier jetzt bei: Es wird zu einem Zauber und belegt keinen Platz mehr in den Taschen.
 
-Die Datenbank von Wowhead führt das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
+Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle
 

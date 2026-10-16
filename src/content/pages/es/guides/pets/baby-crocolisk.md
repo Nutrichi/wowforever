@@ -31,7 +31,7 @@ Baby Crocolisk es una mascota de compañía nueva en World of Warcraft: Forever.
 | Origen | Botín: Sewer Beast |
 | Dónde | Stormwind City |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según Wowhead |
+| Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
@@ -39,7 +39,7 @@ La suelta <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=35
 
 ## Conviene saber
 
-La base de datos de Wowhead marca la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
+Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas en Stormwind City
 

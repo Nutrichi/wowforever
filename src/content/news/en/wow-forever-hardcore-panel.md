@@ -14,7 +14,7 @@ draft: false
 ---
 Blizzard talked about the future of Hardcore at the What's Next panel of BlizzCon 2026. Two changes are new for World of Warcraft: Forever. The game warns players before a world refresh, and a character that dies can move to any non-Hardcore mode.
 
-Until now a dead Hardcore character was moved to a PvE realm. In Forever the player chooses the mode, writes Wowhead in its liveblog.
+Until now a dead Hardcore character was moved to a PvE realm. In Forever the player chooses the mode.
 
 ## Where Hardcore comes from
 

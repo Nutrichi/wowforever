@@ -31,7 +31,7 @@ Excitable Slime è una mascotte da compagnia nuova in World of Warcraft: Forever
 | Fonte | Missione: WRIGGLE. |
 | Dove | Undercity |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo Wowhead |
+| Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
@@ -47,7 +47,7 @@ Usando poi /dance davanti alla mascotte, balla con te.
 
 ## Da sapere
 
-Il database di Wowhead segna la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
+I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 
 ## Altre mascotte a Undercity
 

@@ -19,7 +19,7 @@ El conjunto cae en Wailing Caverns, cinco piezas en total, cada una de una criat
 
 ## Quién lo encontró
 
-El jugador Noah publicó el hallazgo, escribe Wowhead.
+El jugador Noah publicó el hallazgo.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2101253855983910975">
   <button type="button" class="wf-embed__play">
@@ -31,7 +31,7 @@ El jugador Noah publicó el hallazgo, escribe Wowhead.
   </button>
 </figure>
 
-Zirene, Senior Game Designer en Blizzard, añadió que el color de la serpiente cambia para cada raza de Druid y que la forma tiene su propia animación de sigilo para Prowl y Stealth, escribe Wowhead.
+Zirene, Senior Game Designer en Blizzard, añadió que el color de la serpiente cambia para cada raza de Druid y que la forma tiene su propia animación de sigilo para Prowl y Stealth.
 
 ## Por qué es más que una broma
 

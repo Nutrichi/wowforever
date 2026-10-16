@@ -15,7 +15,7 @@ manual: true
 ---
 Il Cozy Sleeping Bag è in WoW Forever. I giocatori hanno trovato la catena di missioni di Season of Discovery attiva sulla beta, e finisce con lo stesso oggetto: un sacco che srotoli ovunque per prendere esperienza bonus mentre riposi. Serve il livello 14 per cominciarla.
 
-Brubby, del WoW Secret Finding Discord, ha confermato la catena e fornito gli screenshot, riporta Wowhead.
+Brubby, del WoW Secret Finding Discord, ha confermato la catena e fornito gli screenshot.
 
 ## Cosa fa il sacco
 

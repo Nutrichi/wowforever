@@ -8,9 +8,14 @@
  * dan in de app.
  *
  * De regels:
- *  1. Een raidbuff telt voor de hele raid zodra iemand hem brengt.
+ *  1. Een raidbuff telt voor de hele raid zodra iemand hem brengt. Sinds de build van
+ *     15 oktober 2026 zijn ook Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin
+ *     Aura en de totems Strength of Earth, Windfury en Grace of Air raidbuffs. Een groep in
+ *     `raidPerProvider` (Windfury en Grace of Air, allebei Air Totems) vraagt één speler per
+ *     effect: de eerste Shaman zet Windfury neer, de tweede Grace of Air.
  *  2. Elke Paladin geeft elke speler één Blessing. Wie twee Paladins heeft, krijgt er
- *     twee, in de volgorde van `blessingOrder`.
+ *     twee, in de volgorde van `blessingOrder`. Alleen wat in `blessings` staat, neemt een
+ *     plek in: Salvation is sinds 15 oktober 2026 geen Blessing meer en stapelt erbovenop.
  *  3. Een groepsbuff (shout, aura, totem) telt alleen in de eigen groep. Elke Shaman
  *     zet één Air Totem neer; twee Shamans in een groep geven er twee.
  *  4. Een debuff op de baas telt één keer. Elke Warlock houdt één curse op; Curse of
@@ -62,6 +67,8 @@ export type RaidData = {
   blessings: string[];
   party: Entry[];
   boss: Entry[];
+  /** Raidbuffs waarvan elke speler er maar één tegelijk neerzet (Air Totems). */
+  raidPerProvider?: string[][];
 };
 
 export const raidData = data as unknown as RaidData;
@@ -79,6 +86,8 @@ export type RaidLine = {
   recipients: number;
   eligible: number;
   status: Status;
+  /** Iemand kan het brengen, maar zet al een ander Air Totem neer (`raidPerProvider`). */
+  busy: boolean;
 };
 
 export type PartyLine = {
@@ -186,18 +195,31 @@ export function analyzeRaid(slots: Slot[], d: RaidData = raidData): RaidResult {
   // Regel 2: per speler zoveel Blessings als er Paladins zijn.
   const blessed = new Map<RaidSpec, string[]>();
   players.forEach((p) => {
-    blessed.set(p, blessingOrder(p).filter((b) => eligible(b, p, d)).slice(0, paladins));
+    blessed.set(p, blessingOrder(p).filter((b) => d.blessings.includes(b) && eligible(b, p, d)).slice(0, paladins));
   });
 
+  // Regel 1, de Air Totems: elke speler zet één effect uit de groep neer, het eerste dat
+  // nog niet staat en iemand helpt.
+  const assigned = new Map<string, number>();
+  for (const shared of d.raidPerProvider ?? []) {
+    shared.forEach((e) => assigned.set(e, 0));
+    for (const p of players) {
+      const next = shared.find((e) => p.provides.includes(e) && assigned.get(e) === 0
+        && players.some((m) => eligible(e, m, d)));
+      if (next) assigned.set(next, 1);
+    }
+  }
+
   const raid: RaidLine[] = d.raid.map((id) => {
-    const providers = players.filter((p) => p.provides.includes(id)).length;
+    const providers = assigned.get(id) ?? players.filter((p) => p.provides.includes(id)).length;
     const pool = players.filter((p) => eligible(id, p, d));
     const recipients = d.blessings.includes(id)
       ? pool.filter((p) => blessed.get(p)!.includes(id)).length
       : (providers > 0 ? pool.length : 0);
     const status: Status = pool.length === 0 ? 'na'
       : recipients === pool.length ? 'full' : recipients > 0 ? 'part' : 'none';
-    return { id, providers, recipients, eligible: pool.length, status };
+    const busy = providers === 0 && assigned.has(id) && players.some((p) => p.provides.includes(id));
+    return { id, providers, recipients, eligible: pool.length, status, busy };
   });
 
   const groups = chunk(slots, d.groupSize).map((g) => analyzeGroup(g, provided, d));

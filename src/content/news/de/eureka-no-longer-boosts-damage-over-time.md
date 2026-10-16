@@ -21,11 +21,11 @@ Die Notiz im Build ist kurz:
 >
 > Eureka! no longer benefits periodic effects at all. Channeled spells do not count as periodics.
 
-Eureka! ist eine aktive Volksfähigkeit mit 2 Minuten Abklingzeit. Deine nächsten 3 schädigenden Fähigkeiten kosten 10 % weniger und machen 10 % mehr Schaden. Der erste Nerf senkte schon den Rabatt auf Ressourcen, schreibt Wowhead.
+Eureka! ist eine aktive Volksfähigkeit mit 2 Minuten Abklingzeit. Deine nächsten 3 schädigenden Fähigkeiten kosten 10 % weniger und machen 10 % mehr Schaden. Der erste Nerf senkte schon den Rabatt auf Ressourcen.
 
 ## Was es pro Klasse bedeutet
 
-Die Fähigkeit hat eine Version pro Ressource. Wowhead findet vier in den Daten des Builds:
+Die Fähigkeit hat eine Version pro Ressource. Die Daten des Builds enthalten vier:
 
 | Klasse | Ressource | Was wegfällt |
 |---|---|---|

@@ -15,7 +15,7 @@ manual: true
 ---
 Le camping est l’un des nouveaux systèmes de WoW Forever, et chaque tradeskill l’alimente. Chacun fabrique des objets qui se posent au camp, et quiconque s’y assoit une minute récupère le buff. Vous n’avez pas besoin d’avoir ce tradeskill, ni d’être en groupe.
 
-Wowhead a dressé la liste complète depuis la bêta. Blizzard n’a pas publié les chiffres.
+La liste complète vient de la bêta. Blizzard n’a pas publié les chiffres.
 
 ## Comment y accéder
 

@@ -15,23 +15,23 @@ draft: false
 ---
 **Rettifica, 23 settembre 2026.** Blizzard ha poi detto sul forum che non si tratta di un cambiamento ma di un bug: il mezzo secondo di lancio prima di un Auto-Shot o di una bacchetta non funziona bene, e una correzione arriva in una prossima build della beta. Quello che segue descrive cosa faceva la beta il 21 settembre.
 
-Auto-Shot e wanding partono molto più in fretta da fermo in World of Warcraft: Forever. Il tempo di lancio nascosto di entrambi è stato tagliato parecchio, scrive Wowhead dopo la beta. Questo cambia il kite per gli Hunter e per ogni caster con un wand.
+Auto-Shot e wanding partono molto più in fretta da fermo in World of Warcraft: Forever. Il tempo di lancio nascosto di entrambi è stato tagliato parecchio. Questo cambia il kite per gli Hunter e per ogni caster con un wand.
 
 ## La sosta che nessuno vede
 
-In Classic, Auto-Shot e wanding sono ciò a cui un giocatore ripiega quando finisce il mana. Entrambi portano un breve tempo di lancio nascosto, scrive Wowhead, quindi il personaggio deve piantarsi prima che il colpo parta. Un passo troppo presto e dall'arco non esce nulla.
+In Classic, Auto-Shot e wanding sono ciò a cui un giocatore ripiega quando finisce il mana. Entrambi portano un breve tempo di lancio nascosto, quindi il personaggio deve piantarsi prima che il colpo parta. Un passo troppo presto e dall'arco non esce nulla.
 
 Quella sosta nascosta è ciò che rende difficile il kite. Un Hunter che corre, gira e tira perde un colpo ogni volta che il tempismo scivola.
 
 ## Che cosa cambia in Forever
 
-Il tempo di lancio nascosto in Forever c'è ancora, scrive Wowhead, ma è molto breve. Il giocatore deve ancora piantarsi, solo per molto meno tempo di prima.
+Il tempo di lancio nascosto in Forever c'è ancora, ma è molto breve. Il giocatore deve ancora piantarsi, solo per molto meno tempo di prima.
 
-Wowhead si aspetta che questo rimescoli le carte, soprattutto nel PvP. Un Hunter può ora tenere la distanza e continuare a tirare allo stesso tempo. Se il valore resterà dov'è dopo la beta, Blizzard non lo dice.
+Questo dovrebbe rimescolare le carte, soprattutto nel PvP. Un Hunter può ora tenere la distanza e continuare a tirare allo stesso tempo. Se il valore resterà dov'è dopo la beta, Blizzard non lo dice.
 
 ## Due video uno accanto all'altro
 
-Il giocatore Aggravating_Doctor20 ha pubblicato [due video di confronto](https://www.reddit.com/r/classicwow/comments/1wjw6mb/hunter_auto_shot_swingtimer_forever_vs_classic_era/) sul subreddit classicwow, scrive Wowhead, in cui la stessa abilità gira affiancata in Forever e in Classic Era. Lo swing timer nell'angolo mostra la differenza.
+Il giocatore Aggravating_Doctor20 ha pubblicato [due video di confronto](https://www.reddit.com/r/classicwow/comments/1wjw6mb/hunter_auto_shot_swingtimer_forever_vs_classic_era/) sul subreddit classicwow, in cui la stessa abilità gira affiancata in Forever e in Classic Era. Lo swing timer nell'angolo mostra la differenza.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wjw6mb/hunter_auto_shot_swingtimer_forever_vs_classic_era">
   <button type="button" class="wf-embed__play">

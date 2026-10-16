@@ -101,7 +101,7 @@ Sous Neutral, l’échelle suit aussi l’habitude : Hated fait 36 000, Hostile 
 
 **Les caisses.** Une caisse comme la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> se ramasse dans le monde, se remplit et se rend à Marcy Baker. Le perk Legacy Performance Bonus donne 5, 10 ou 15 % de chances de doubler le Merchant's Favor par caisse ; voir le [calculateur Legacy](/fr/talents/legacy/).
 
-**Des Craftsman's Writs** existent aussi, peut-être dès le niveau 10, écrit Wowhead. Ce qu’ils demandent et si Marcy Baker les accepte, on ne le sait pas encore.
+**Des Craftsman's Writs** existent aussi, peut-être dès le niveau 10. Ce qu’ils demandent et si Marcy Baker les accepte, on ne le sait pas encore.
 
 ## Ce qui n’est pas encore connu
 

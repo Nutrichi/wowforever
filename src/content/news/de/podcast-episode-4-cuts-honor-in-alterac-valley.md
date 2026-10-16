@@ -61,7 +61,7 @@ Ein RP-PvP-Regelwerk ist nicht geplant. Der RP-PvP-Realm von Season of Discovery
 
 > We don't have any plans right now. We don't have anything really to report, but we're very carefully considering the feedback. We're looking at it. We're reading it.
 
-Nichts hält eine Stufe 60 davon ab, auf einem PvP-Realm niedrige Stufen zu campen, außer es ist Betrug oder ein Exploit. Wo Blizzard PvP für ein Ereignis in der Welt einschaltet, kann es Hilfe einbauen, etwa eine kurze Immunität nach einer Wiederbelebung.
+Nichts hält eine Stufe 60 davon ab, auf einem PvP-Realm niedrige Stufen zu campen, außer es ist Betrug oder ein Exploit. Einen Schutz wie auf den Titan-Reforged-Realms in China [gibt es nicht](/de/news/no-protection-for-low-levels-on-pvp-realms/). Wo Blizzard PvP für ein Ereignis in der Welt einschaltet, kann es Hilfe einbauen, etwa eine kurze Immunität nach einer Wiederbelebung.
 
 ## Große Kämpfe in der offenen Welt
 

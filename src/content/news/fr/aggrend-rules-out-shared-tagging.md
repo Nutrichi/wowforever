@@ -13,7 +13,7 @@ tags: ["forever", "beta"]
 featured: false
 draft: false
 ---
-Le shared tagging n'arrivera pas dans World of Warcraft: Forever. Le Senior Game Designer Josh Greenfield, connu sous le nom d'Aggrend, dit que l'équipe doit tenir cette ligne. Il l'a écrit le 20 septembre dans une réponse sur X, repérée par Wowhead.
+Le shared tagging n'arrivera pas dans World of Warcraft: Forever. Le Senior Game Designer Josh Greenfield, connu sous le nom d'Aggrend, dit que l'équipe doit tenir cette ligne. Il l'a écrit le 20 septembre dans une réponse sur X.
 
 ## Ce qu'Aggrend a écrit
 
@@ -23,16 +23,16 @@ Quelles sont ces autres choses, il ne le dit pas. Sa réponse a reçu plus de 14
 
 ## Le premier coup emporte le mob
 
-Forever garde la règle de Classic. Le premier joueur ou groupe qui touche possède le mob, et le kill et le loot suivent. Le shared tagging est la version que les joueurs de Retail connaissent, écrit Wowhead : tous ceux qui infligent des dégâts comptent. Blizzard n'a pas l'intention de faire passer Forever à ce modèle.
+Forever garde la règle de Classic. Le premier joueur ou groupe qui touche possède le mob, et le kill et le loot suivent. Le shared tagging est la version que les joueurs de Retail connaissent : tous ceux qui infligent des dégâts comptent. Blizzard n'a pas l'intention de faire passer Forever à ce modèle.
 
 ## La bêta est bondée
 
-La bêta a ouvert le 17 septembre et compte parmi les plus grandes bêtas jamais lancées par Blizzard, écrit Wowhead. Presque chaque mob de quête est squatté, et même avec la nouvelle technologie de phasing les joueurs se disputent durement les tags. Un rafraîchissement de zone place les joueurs dans une copie neuve de la même région et [prévient cinq minutes à l'avance](/fr/news/phasing-warning-before-a-zone-refresh/).
+La bêta a ouvert le 17 septembre et compte parmi les plus grandes bêtas jamais lancées par Blizzard. Presque chaque mob de quête est squatté, et même avec la nouvelle technologie de phasing les joueurs se disputent durement les tags. Un rafraîchissement de zone place les joueurs dans une copie neuve de la même région et [prévient cinq minutes à l'avance](/fr/news/phasing-warning-before-a-zone-refresh/).
 
 ![Les Barrens en plein jour avec des acacias et une tour de guet, capture officielle de World of Warcraft: Forever](../../../assets/posts/2026-09-17-wow-forever-the-barrens.jpg)
 
 ## Pourquoi la friction reste
 
-Le jeu social oriente la plus grande partie de ce que l'équipe décide, écrit Wowhead, donc la friction qui fait parler les joueurs entre eux vaut la peine d'être gardée. Trop facile et les gens cessent d'interagir, trop dur et ils cessent de s'amuser.
+Le jeu social oriente la plus grande partie de ce que l'équipe décide, donc la friction qui fait parler les joueurs entre eux vaut la peine d'être gardée. Trop facile et les gens cessent d'interagir, trop dur et ils cessent de s'amuser.
 
 Blizzard a tracé la même ligne plus tôt le 20 septembre. Dans une interview avec Game Informer, deux leads ont décrit [un long trajet en vol](/fr/news/one-faction-per-player-on-pvp-rulesets/) comme un moment où un joueur répond à une question dans le general chat.

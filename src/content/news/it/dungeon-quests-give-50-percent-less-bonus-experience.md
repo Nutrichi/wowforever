@@ -25,8 +25,8 @@ Cala solo la parte extra. Una missione di dungeon dà sempre almeno quanto una m
 
 ## Perché le missioni dei dungeon valevano tanto
 
-In Forever Blizzard ha spostato [l'esperienza dei dungeon dalle uccisioni alle missioni](/it/news/wow-forever-dungeon-experience-changes/). I mostri di un dungeon danno poco, le missioni molto. In The Hall of Thanes un mostro dava da 28 a 30 punti esperienza e ogni missione da 3.900 a 4.900, secondo Wowhead.
+In Forever Blizzard ha spostato [l'esperienza dei dungeon dalle uccisioni alle missioni](/it/news/wow-forever-dungeon-experience-changes/). I mostri di un dungeon danno poco, le missioni molto. In The Hall of Thanes un mostro dava da 28 a 30 punti esperienza e ogni missione da 3.900 a 4.900.
 
-La scelta è stata criticata da due lati, scrive Wowhead. Alcuni giocatori temevano che il bonus delle missioni rendesse il livellamento troppo rapido. Altri trovavano inutile un secondo giro in un dungeon per la poca esperienza dei mostri. La nuova build risponde al primo gruppo. Per i giri ripetuti non cambia nulla.
+La scelta è stata criticata da due lati. Alcuni giocatori temevano che il bonus delle missioni rendesse il livellamento troppo rapido. Altri trovavano inutile un secondo giro in un dungeon per la poca esperienza dei mostri. La nuova build risponde al primo gruppo. Per i giri ripetuti non cambia nulla.
 
 Quanto dà ora una missione di dungeon, Blizzard non lo dice in cifre. Se l'esperienza dei mostri risalirà, le note non lo dicono.
