@@ -2,6 +2,7 @@
 title: "Le launcher annonce un stress test le 19 octobre"
 description: "Une nouvelle option WoW: Forever - Stress Test est apparue dans le launcher Battle.net. Le client peut déjà être téléchargé, et le launcher indique le 19 octobre."
 date: 2026-10-14T00:50:00+02:00
+updated: 2026-10-17T01:02:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-14-wow-forever-stress-test-launcher.jpg
@@ -24,3 +25,5 @@ Regarde sous World of Warcraft dans le launcher et choisis la nouvelle version d
 Blizzard n'a pas encore annoncé le stress test. On ne sait pas qui y aura accès, combien de temps il dure ni à quelle heure il ouvre. Un stress test met en général le plus de joueurs possible sur les serveurs en même temps, pour voir ce qu'ils encaissent avant un lancement.
 
 Le moment colle. Forever sort le 4 novembre, un peu plus de deux semaines après le test. La bêta actuelle s'arrête au niveau 30.
+
+**Mise à jour, 17 octobre :** Blizzard déplace le test de charge au 21 octobre. Les heures ci-dessous ne changent pas, seul le jour change (22 octobre à Taïwan et en Corée). Plus dans [notre nouvel article](/fr/news/the-stress-test-moves-to-21-october/).

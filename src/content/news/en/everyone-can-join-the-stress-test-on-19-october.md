@@ -2,6 +2,7 @@
 title: "Everyone can join the stress test on 19 October"
 description: "Blizzard opens World of Warcraft: Forever to every player for a stress test on 19 October, from 19:00 Belgian time, without a subscription or beta access. The beta has its last full day on 21 October."
 date: 2026-10-16T09:20:00+02:00
+updated: 2026-10-17T01:02:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-16-wow-forever-stress-test-key-art.jpg
@@ -13,6 +14,8 @@ featured: false
 draft: false
 ---
 Every player can try World of Warcraft: Forever on 19 October. Blizzard opens a stress test for a limited time that day, from 19:00 Belgian time, and you need no subscription, no Game Time, no invitation and no beta access to join.
+
+**Update, 17 October:** Blizzard has moved the stress test to 21 October. The start times below stay the same, only the day changes (22 October in Taiwan and Korea). More in [our new post](/news/the-stress-test-moves-to-21-october/).
 
 The [launcher already showed the test](/news/the-launcher-shows-a-stress-test-on-19-october/) two days ago. Now Blizzard has announced it, with the times and the steps to join.
 

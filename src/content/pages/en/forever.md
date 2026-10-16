@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: release date, beta, roadmap, Skyborne and editions"
 description: "Everything Blizzard has announced about World of Warcraft: Forever: the dates, the roadmap, the new zones, dungeons and raids, the Skyborne, the Legacy system and the editions."
 short: "WoW Forever"
-updated: 2026-10-16
+updated: 2026-10-17
 lang: en
 faq:
   - q: "What is World of Warcraft: Forever?"
@@ -115,9 +115,8 @@ All dates come from Blizzard. Times are Pacific time, with Belgian time where it
 | 17 September 2026 | The beta starts for owners of the Skyborne Epic Pack, the Warcraft Forever Collection and the Collector's Edition, and for players picked from the opt-ins. The cap is level 20 at first and rises to 30 on 1 October. Blizzard holds a live Q&A the same day, at 10:00 Pacific time, 19:00 Belgian time. |
 | 1 October 2026 | The beta goes offline for maintenance and returns hours later with a new build and a level cap of 30 ([more](/news/the-beta-level-cap-rises-from-20-to-30/)). Razorfen Downs, Uldaman and the new Excavation Site open with it. |
 | 9 October 2026 | At PAX Aus in Melbourne, Clay Stone gives a deep dive into one of the new dungeons. Live on Twitch at 03:00 Belgian time ([more](/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
-| 19 October 2026 | Stress test for every player, without a subscription or beta access, from 19:00 Belgian time ([more](/news/everyone-can-join-the-stress-test-on-19-october/)). |
 | 20 October 2026 | Invite-A-Friend launch codes start arriving by email. |
-| 21 October 2026 | The last full day of the beta, says Blizzard. The roadmap slide at BlizzCon showed 22 October. |
+| 21 October 2026 | The last full day of the beta, says Blizzard, and the stress test for every player, without a subscription or beta access, from 19:00 Belgian time. It was planned for 19 October first ([more](/news/the-stress-test-moves-to-21-october/)). The roadmap slide at BlizzCon showed 22 October. |
 | 27 October to 3 November | Early Name Reservation: up to 3 characters with any upgrade edition. Names are first come, first served. |
 | 4 November 2026 | Launch at 15:00 Pacific time, 00:00 Belgian time on 5 November. The 30 days of Game Time from the Epic Pack and the Collection are added. |
 | 4 to 11 November 2026 | Launch week: invited friends play without a subscription. |

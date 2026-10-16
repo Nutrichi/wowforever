@@ -2,6 +2,7 @@
 title: "Test de charge du 19 octobre ouvert à tous"
 description: "Blizzard ouvre World of Warcraft: Forever à tous les joueurs pour un test de charge le 19 octobre, dès 19 h, heure belge, sans abonnement ni accès à la bêta. La bêta vit sa dernière journée complète le 21 octobre."
 date: 2026-10-16T09:20:00+02:00
+updated: 2026-10-17T01:02:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-16-wow-forever-stress-test-key-art.jpg
@@ -14,6 +15,8 @@ draft: false
 manual: true
 ---
 Tous les joueurs peuvent essayer World of Warcraft: Forever le 19 octobre. Blizzard ouvre ce jour-là un test de charge pour une durée limitée, dès 19 h, heure belge, et il ne faut ni abonnement, ni Game Time, ni invitation, ni accès à la bêta.
+
+**Mise à jour, 17 octobre :** Blizzard déplace le test de charge au 21 octobre. Les heures ci-dessous ne changent pas, seul le jour change (22 octobre à Taïwan et en Corée). Plus dans [notre nouvel article](/fr/news/the-stress-test-moves-to-21-october/).
 
 Le [launcher montrait déjà le test](/fr/news/the-launcher-shows-a-stress-test-on-19-october/) il y a deux jours. Blizzard l’a maintenant annoncé, avec les horaires et les étapes pour y participer.
 

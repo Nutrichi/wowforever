@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: fecha de lanzamiento, beta, hoja de ruta, Skyborne y ediciones"
 description: "Todo lo que Blizzard ha anunciado sobre World of Warcraft: Forever: las fechas, la hoja de ruta, las nuevas zonas, mazmorras y bandas, los Skyborne, el sistema Legacy y las ediciones."
 short: "WoW Forever"
-updated: 2026-10-16
+updated: 2026-10-17
 lang: es
 manual: true
 faq:
@@ -116,9 +116,8 @@ Todas las fechas son de Blizzard. Las horas van en hora del Pacífico, con la ho
 | 17 de septiembre de 2026 | Empieza la beta para quienes tengan el Skyborne Epic Pack, la Warcraft Forever Collection o la Collector's Edition, y para jugadores elegidos entre los inscritos. El tope está primero en el nivel 20 y sube a 30 el 1 de octubre. Blizzard organiza ese mismo día un Q&A en directo, a las 10.00 hora del Pacífico, las 19.00 hora belga. |
 | 1 de octubre de 2026 | La beta se desconecta por mantenimiento y vuelve horas después con una nueva build y un tope de nivel 30 ([más](/es/news/the-beta-level-cap-rises-from-20-to-30/)). Con ella abren Razorfen Downs, Uldaman y la nueva Excavation Site. |
 | 9 de octubre de 2026 | En la PAX Aus de Melbourne, Clay Stone muestra a fondo una de las nuevas mazmorras. En directo en Twitch a las 03.00 hora belga ([más](/es/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
-| 19 de octubre de 2026 | Prueba de estrés para todos los jugadores, sin suscripción ni acceso a la beta, desde las 19:00 hora belga ([más](/es/news/everyone-can-join-the-stress-test-on-19-october/)). |
 | 20 de octubre de 2026 | Llegan por correo los códigos de lanzamiento Invite-A-Friend. |
-| 21 de octubre de 2026 | Último día completo de la beta, según Blizzard. La hoja de ruta mostrada en la BlizzCon indicaba el 22 de octubre. |
+| 21 de octubre de 2026 | Último día completo de la beta, según Blizzard, y prueba de estrés para todos los jugadores, sin suscripción ni acceso a la beta, desde las 19:00 hora belga. Primero estaba prevista el 19 de octubre ([más](/es/news/the-stress-test-moves-to-21-october/)). La hoja de ruta mostrada en la BlizzCon indicaba el 22 de octubre. |
 | Del 27 de octubre al 3 de noviembre | Early Name Reservation: hasta 3 personajes con cualquier edición. Los nombres son para quien llegue primero. |
 | 4 de noviembre de 2026 | Lanzamiento a las 15:00, hora del Pacífico, las 00:00, hora belga, del 5 de noviembre. Se añaden los 30 días de Game Time del Epic Pack y la Collection. |
 | Del 4 al 11 de noviembre de 2026 | Semana de lanzamiento: los amigos invitados juegan sin suscripción. |

@@ -2,6 +2,7 @@
 title: "Prueba de estrés para todos el 19 de octubre"
 description: "Blizzard abre World of Warcraft: Forever a todos los jugadores para una prueba de estrés el 19 de octubre, desde las 19:00 hora belga, sin suscripción ni acceso a la beta. La beta vive su último día completo el 21 de octubre."
 date: 2026-10-16T09:20:00+02:00
+updated: 2026-10-17T01:02:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-16-wow-forever-stress-test-key-art.jpg
@@ -14,6 +15,8 @@ draft: false
 manual: true
 ---
 Cualquier jugador puede probar World of Warcraft: Forever el 19 de octubre. Blizzard abre ese día una prueba de estrés por tiempo limitado, desde las 19:00 hora belga, y no hace falta suscripción, Game Time, invitación ni acceso a la beta.
+
+**Actualización, 17 de octubre:** Blizzard ha movido la prueba de estrés al 21 de octubre. Las horas de abajo no cambian, solo cambia el día (22 de octubre en Taiwán y Corea). Más en [nuestro nuevo artículo](/es/news/the-stress-test-moves-to-21-october/).
 
 El [launcher ya mostraba la prueba](/es/news/the-launcher-shows-a-stress-test-on-19-october/) hace dos días. Ahora Blizzard la ha anunciado, con los horarios y los pasos para participar.
 

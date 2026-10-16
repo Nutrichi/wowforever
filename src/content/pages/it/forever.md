@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: data di uscita, beta, roadmap, Skyborne ed edizioni"
 description: "Tutto ciò che Blizzard ha annunciato su World of Warcraft: Forever: le date, la roadmap, le nuove zone, i dungeon e le incursioni, gli Skyborne, il sistema Legacy e le edizioni."
 short: "WoW Forever"
-updated: 2026-10-16
+updated: 2026-10-17
 lang: it
 manual: true
 faq:
@@ -116,9 +116,8 @@ Tutte le date vengono da Blizzard. Gli orari sono in ora del Pacifico, con l’o
 | 17 settembre 2026 | Parte la beta per chi possiede lo Skyborne Epic Pack, la Warcraft Forever Collection o la Collector's Edition, e per i giocatori scelti tra gli iscritti. Il limite è al livello 20 all'inizio e sale a 30 il 1° ottobre. Blizzard organizza lo stesso giorno un Q&A in diretta, alle 10.00 ora del Pacifico, le 19.00 ora belga. |
 | 1° ottobre 2026 | La beta va offline per manutenzione e torna qualche ora dopo con una nuova build e un limite al livello 30 ([altro](/it/news/the-beta-level-cap-rises-from-20-to-30/)). Con essa aprono Razorfen Downs, Uldaman e la nuova Excavation Site. |
 | 9 ottobre 2026 | Al PAX Aus di Melbourne, Clay Stone mostra da vicino uno dei nuovi dungeon. In diretta su Twitch alle 03.00 ora belga ([altro](/it/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
-| 19 ottobre 2026 | Stress test per tutti i giocatori, senza abbonamento né accesso alla beta, dalle 19:00 ora belga ([altro](/it/news/everyone-can-join-the-stress-test-on-19-october/)). |
 | 20 ottobre 2026 | Arrivano via e-mail i codici di lancio Invite-A-Friend. |
-| 21 ottobre 2026 | Ultimo giorno pieno della beta, secondo Blizzard. La roadmap mostrata alla BlizzCon indicava il 22 ottobre. |
+| 21 ottobre 2026 | Ultimo giorno pieno della beta, secondo Blizzard, e stress test per tutti i giocatori, senza abbonamento né accesso alla beta, dalle 19:00 ora belga. Prima era previsto il 19 ottobre ([altro](/it/news/the-stress-test-moves-to-21-october/)). La roadmap mostrata alla BlizzCon indicava il 22 ottobre. |
 | Dal 27 ottobre al 3 novembre | Early Name Reservation: fino a 3 personaggi con qualsiasi edizione. I nomi vanno a chi arriva prima. |
 | 4 novembre 2026 | Lancio alle 15:00 ora del Pacifico, alle 00:00 ora belga del 5 novembre. Vengono aggiunti i 30 giorni di Game Time dell’Epic Pack e della Collection. |
 | Dal 4 all’11 novembre 2026 | Settimana di lancio: gli amici invitati giocano senza abbonamento. |
