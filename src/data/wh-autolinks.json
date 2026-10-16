@@ -1196,6 +1196,12 @@
 "q": -1,
 "t": "s"
 },
+"Ruthless": {
+"icon": "ability_rogue_eviscerate",
+"id": 20597,
+"q": -1,
+"t": "s"
+},
 "Salvation": {
 "icon": "spell_holy_sealofsalvation",
 "id": 1038,
@@ -1283,12 +1289,6 @@
 "Swiftmend": {
 "icon": "inv_relics_idolofrejuvenation",
 "id": 18562,
-"q": -1,
-"t": "s"
-},
-"Swipe": {
-"icon": "inv_misc_monsterclaw_03",
-"id": 769,
 "q": -1,
 "t": "s"
 },
@@ -4709,6 +4709,10 @@
 "icon": "ability_mount_kodo_03",
 "q": 4
 },
+"i:263411": {
+"icon": "inv_relics_idolofrejuvenation",
+"q": 2
+},
 "i:264222": {
 "icon": "inv_scroll_03",
 "q": 1
@@ -6625,6 +6629,10 @@
 "icon": "inv_misc_gem_opal_03",
 "q": 2
 },
+"i:8345": {
+"icon": "inv_helmet_04",
+"q": 3
+},
 "i:8365": {
 "icon": "inv_misc_fish_02",
 "q": 1
@@ -7801,6 +7809,10 @@
 "icon": "inv_ingot_07",
 "q": 1
 },
+"s:16689": {
+"icon": "spell_nature_natureswrath",
+"q": -1
+},
 "s:168": {
 "icon": "spell_frost_frostarmor02",
 "q": -1
@@ -8261,6 +8273,10 @@
 "icon": "spell_fire_fireball02",
 "q": -1
 },
+"s:467": {
+"icon": "spell_nature_thorns",
+"q": -1
+},
 "s:475": {
 "icon": "spell_nature_removecurse",
 "q": -1
@@ -8435,6 +8451,10 @@
 },
 "s:879": {
 "icon": "spell_holy_excorcism_02",
+"q": -1
+},
+"s:8921": {
+"icon": "spell_nature_starfall",
 "q": -1
 },
 "s:8936": {
@@ -14292,6 +14312,12 @@
 "q": -1,
 "t": "s"
 },
+"Abolish Poison": {
+"icon": "spell_nature_nullifypoison_02",
+"id": 2893,
+"q": -1,
+"t": "s"
+},
 "Abominable Head": {
 "icon": "ui_darkshore_warfront_horde_abomination",
 "id": 280438,
@@ -14825,6 +14851,12 @@
 "id": 5739,
 "q": 2,
 "t": "i"
+},
+"Barkskin": {
+"icon": "spell_nature_stoneclawtotem",
+"id": 22812,
+"q": -1,
+"t": "s"
 },
 "Basic Campfire": {
 "icon": "spell_fire_fire",
@@ -15858,6 +15890,12 @@
 "q": -1,
 "t": "s"
 },
+"Challenging Roar": {
+"icon": "ability_druid_challangingroar",
+"id": 5209,
+"q": -1,
+"t": "s"
+},
 "Chastise": {
 "icon": "spell_holy_chastise",
 "id": 1277331,
@@ -16170,6 +16208,12 @@
 "q": -1,
 "t": "s"
 },
+"Cower": {
+"icon": "ability_druid_cower",
+"id": 8998,
+"q": -1,
+"t": "s"
+},
 "Cozy Sleeping Bag": {
 "icon": "inv_misc_bag_bigbagofenchantments",
 "id": 211527,
@@ -16241,6 +16285,12 @@
 "id": 2611,
 "q": 1,
 "t": "i"
+},
+"Cure Poison": {
+"icon": "spell_nature_nullifypoison",
+"id": 8946,
+"q": -1,
+"t": "s"
 },
 "Cured Rugged Hide": {
 "alt": {
@@ -16553,6 +16603,12 @@
 "id": 13584,
 "q": 3,
 "t": "i"
+},
+"Dire Bear Form": {
+"icon": "ability_racial_bearform",
+"id": 9634,
+"q": -1,
+"t": "s"
 },
 "Dire Wolf": {
 "icon": "ability_mount_whitedirewolf",
@@ -17052,6 +17108,12 @@
 "q": 1,
 "t": "i"
 },
+"Entangling Roots": {
+"icon": "spell_nature_stranglevines",
+"id": 339,
+"q": -1,
+"t": "s"
+},
 "Enveloping Winds": {
 "icon": "spell_nature_cyclone",
 "id": 6728,
@@ -17220,9 +17282,21 @@
 "q": -1,
 "t": "s"
 },
+"Feline Grace": {
+"icon": "inv_feather_01",
+"id": 20719,
+"q": -1,
+"t": "s"
+},
 "Feral Charge": {
 "icon": "ability_hunter_pet_bear",
 "id": 1238122,
+"q": -1,
+"t": "s"
+},
+"Feral Instinct": {
+"icon": "ability_ambush",
+"id": 16947,
 "q": -1,
 "t": "s"
 },
@@ -17249,6 +17323,12 @@
 "id": 279970,
 "q": 1,
 "t": "i"
+},
+"Ferocious Bite": {
+"icon": "ability_druid_ferociousbite",
+"id": 22568,
+"q": -1,
+"t": "s"
 },
 "Festival Lantern": {
 "alt": {
@@ -17628,6 +17708,12 @@
 "q": -1,
 "t": "s"
 },
+"Frenzied Regeneration": {
+"icon": "ability_bullrush",
+"id": 22842,
+"q": -1,
+"t": "s"
+},
 "Frequent Flier": {
 "icon": "achievement_guild_ridelikethewind",
 "id": 1225490,
@@ -17799,6 +17885,12 @@
 "Furious Precision": {
 "icon": "ability_warrior_incite",
 "id": 1323963,
+"q": -1,
+"t": "s"
+},
+"Furor": {
+"icon": "spell_holy_blessingofstamina",
+"id": 17056,
 "q": -1,
 "t": "s"
 },
@@ -18330,6 +18422,12 @@
 "q": 1,
 "t": "i"
 },
+"Growl": {
+"icon": "ability_physical_taunt",
+"id": 6795,
+"q": -1,
+"t": "s"
+},
 "Guns": {
 "icon": "inv_weapon_rifle_01",
 "id": 266,
@@ -18588,6 +18686,12 @@
 "q": -1,
 "t": "s"
 },
+"Hibernate": {
+"icon": "spell_nature_sleep",
+"id": 2637,
+"q": -1,
+"t": "s"
+},
 "High Alert": {
 "icon": "spell_shadow_detectlesserinvisibility",
 "id": 1225477,
@@ -18810,6 +18914,12 @@
 "q": -1,
 "t": "s"
 },
+"Hurricane": {
+"icon": "spell_nature_cyclone",
+"id": 16914,
+"q": -1,
+"t": "s"
+},
 "Ice Armor": {
 "icon": "spell_frost_frostarmor02",
 "id": 7302,
@@ -18856,6 +18966,12 @@
 "icon": "ability_mount_mechastrider",
 "id": 13327,
 "q": 4,
+"t": "i"
+},
+"Idol of Shifting Tides": {
+"icon": "inv_relics_idolofrejuvenation",
+"id": 263411,
+"q": 2,
 "t": "i"
 },
 "Ignite": {
@@ -18918,6 +19034,12 @@
 "q": -1,
 "t": "s"
 },
+"Improved Entangling Roots": {
+"icon": "spell_nature_stranglevines",
+"id": 16918,
+"q": -1,
+"t": "s"
+},
 "Improved Eviscerate": {
 "icon": "ability_rogue_eviscerate",
 "id": 14162,
@@ -18969,6 +19091,12 @@
 "Improved Mind Flay": {
 "icon": "spell_shadow_soulleech_2",
 "id": 1225139,
+"q": -1,
+"t": "s"
+},
+"Improved Moonfire": {
+"icon": "spell_nature_starfall",
+"id": 16821,
 "q": -1,
 "t": "s"
 },
@@ -19050,6 +19178,12 @@
 "q": -1,
 "t": "s"
 },
+"Improved Starfire": {
+"icon": "spell_arcane_starfire",
+"id": 16850,
+"q": -1,
+"t": "s"
+},
 "Improved Tactical Mastery": {
 "icon": "spell_nature_enchantarmor",
 "id": 12295,
@@ -19059,6 +19193,12 @@
 "Improved Tranquility": {
 "icon": "spell_nature_tranquility",
 "id": 17123,
+"q": -1,
+"t": "s"
+},
+"Improved Wrath": {
+"icon": "spell_nature_abolishmagic",
+"id": 16814,
 "q": -1,
 "t": "s"
 },
@@ -19101,6 +19241,12 @@
 "Inner Focus": {
 "icon": "spell_frost_windwalkon",
 "id": 14751,
+"q": -1,
+"t": "s"
+},
+"Innervate": {
+"icon": "spell_nature_lightning",
+"id": 29166,
 "q": -1,
 "t": "s"
 },
@@ -19301,6 +19447,12 @@
 "id": 21416,
 "q": 4,
 "t": "i"
+},
+"Lacerate": {
+"icon": "ability_druid_lacerate",
+"id": 414644,
+"q": -1,
+"t": "s"
 },
 "Lacerating Strikes": {
 "icon": "ability_gouge",
@@ -19902,12 +20054,6 @@
 "q": 1,
 "t": "i"
 },
-"Malediction": {
-"icon": "spell_shadow_curseofachimonde",
-"id": 1225177,
-"q": -1,
-"t": "s"
-},
 "Malice": {
 "icon": "ability_racial_bloodrage",
 "id": 14138,
@@ -20394,6 +20540,12 @@
 "q": -1,
 "t": "s"
 },
+"Nature's Grasp": {
+"icon": "spell_nature_natureswrath",
+"id": 16689,
+"q": -1,
+"t": "s"
+},
 "Nature's Majesty": {
 "icon": "inv_staff_01",
 "id": 1223082,
@@ -20543,6 +20695,12 @@
 "id": 20438,
 "q": 3,
 "t": "i"
+},
+"Overgrowth": {
+"icon": "inv_misc_herb_15",
+"id": 17245,
+"q": -1,
+"t": "s"
 },
 "Pachimari": {
 "icon": "inv_pachimarapet",
@@ -21150,6 +21308,12 @@
 "q": 1,
 "t": "i"
 },
+"Polearms": {
+"icon": "inv_spear_06",
+"id": 200,
+"q": -1,
+"t": "s"
+},
 "Polymorph": {
 "icon": "spell_nature_polymorph",
 "id": 118,
@@ -21179,6 +21343,12 @@
 "id": 255715,
 "q": 1,
 "t": "i"
+},
+"Pounce": {
+"icon": "ability_druid_supriseattack",
+"id": 9005,
+"q": -1,
+"t": "s"
 },
 "Power Infusion": {
 "icon": "spell_holy_powerinfusion",
@@ -21255,6 +21425,12 @@
 "Prayer of Spirit": {
 "icon": "spell_holy_prayerofspirit",
 "id": 27681,
+"q": -1,
+"t": "s"
+},
+"Predatory Strikes": {
+"icon": "ability_hunter_pet_cat",
+"id": 16972,
 "q": -1,
 "t": "s"
 },
@@ -21360,6 +21536,12 @@
 "q": 3,
 "t": "i"
 },
+"Prowl": {
+"icon": "ability_ambush",
+"id": 5215,
+"q": -1,
+"t": "s"
+},
 "Psychic Scream": {
 "icon": "spell_shadow_psychicscream",
 "id": 8122,
@@ -21450,6 +21632,12 @@
 "q": 1,
 "t": "i"
 },
+"Rake": {
+"icon": "ability_druid_disembowel",
+"id": 1822,
+"q": -1,
+"t": "s"
+},
 "Ram Riding": {
 "icon": "spell_nature_swiftness",
 "id": 826,
@@ -21477,6 +21665,12 @@
 "Raptor Strike": {
 "icon": "ability_meleedamage",
 "id": 2973,
+"q": -1,
+"t": "s"
+},
+"Ravage": {
+"icon": "ability_druid_ravage",
+"id": 6785,
 "q": -1,
 "t": "s"
 },
@@ -21525,6 +21719,12 @@
 "Reagent Economy": {
 "icon": "inv_misc_candle_02",
 "id": 1225503,
+"q": -1,
+"t": "s"
+},
+"Rebirth": {
+"icon": "spell_nature_reincarnation",
+"id": 20484,
 "q": -1,
 "t": "s"
 },
@@ -21684,6 +21884,12 @@
 "q": 3,
 "t": "i"
 },
+"Regrowth": {
+"icon": "spell_nature_resistnature",
+"id": 8936,
+"q": -1,
+"t": "s"
+},
 "Reins of the Bengal Tiger": {
 "icon": "ability_mount_jungletiger",
 "id": 8630,
@@ -21768,6 +21974,12 @@
 "q": 4,
 "t": "i"
 },
+"Rejuvenation": {
+"icon": "spell_nature_rejuvenation",
+"id": 774,
+"q": -1,
+"t": "s"
+},
 "Relentless Strikes": {
 "icon": "ability_warrior_decisivestrike",
 "id": 14179,
@@ -21777,6 +21989,12 @@
 "Remorseless Attacks": {
 "icon": "ability_fiegndead",
 "id": 14144,
+"q": -1,
+"t": "s"
+},
+"Remove Curse": {
+"icon": "spell_holy_removecurse",
+"id": 2782,
 "q": -1,
 "t": "s"
 },
@@ -21834,6 +22052,12 @@
 "q": -1,
 "t": "s"
 },
+"Revive": {
+"icon": "ability_druid_lunarguidance",
+"id": 437138,
+"q": -1,
+"t": "s"
+},
 "Riding Kodo": {
 "icon": "ability_mount_kodo_03",
 "id": 18363,
@@ -21887,6 +22111,12 @@
 "id": 21399,
 "q": 4,
 "t": "i"
+},
+"Rip": {
+"icon": "ability_ghoulfrenzy",
+"id": 1079,
+"q": -1,
+"t": "s"
 },
 "Riposte": {
 "icon": "ability_warrior_challange",
@@ -22157,6 +22387,12 @@
 "id": 16969,
 "q": 1,
 "t": "i"
+},
+"Savage Fury": {
+"icon": "ability_druid_ravage",
+"id": 16998,
+"q": -1,
+"t": "s"
 },
 "Savory Deviate Delight": {
 "alt": {
@@ -22494,6 +22730,12 @@
 "q": -1,
 "t": "s"
 },
+"Sharpened Claws": {
+"icon": "inv_misc_monsterclaw_04",
+"id": 16942,
+"q": -1,
+"t": "s"
+},
 "Sharpening Wheel": {
 "alt": {
 "icon": "inv_stone_grindingstone_01",
@@ -22571,6 +22813,12 @@
 "id": 6529,
 "q": 1,
 "t": "i"
+},
+"Shred": {
+"icon": "spell_shadow_vampiricaura",
+"id": 5221,
+"q": -1,
+"t": "s"
 },
 "Shredding Attacks": {
 "icon": "spell_shadow_vampiricaura",
@@ -22926,6 +23174,12 @@
 "q": -1,
 "t": "s"
 },
+"Soothe Animal": {
+"icon": "ability_hunter_beastsoothe",
+"id": 2908,
+"q": -1,
+"t": "s"
+},
 "Soul Fire": {
 "icon": "spell_fire_fireball02",
 "id": 6353,
@@ -23075,6 +23329,12 @@
 "id": 11291,
 "q": 1,
 "t": "i"
+},
+"Starfire": {
+"icon": "spell_arcane_starfire",
+"id": 2912,
+"q": -1,
+"t": "s"
 },
 "Starshards": {
 "icon": "spell_arcane_starfire",
@@ -23844,6 +24104,12 @@
 "q": 4,
 "t": "i"
 },
+"Teleport: Moonglade": {
+"icon": "spell_arcane_teleportmoonglade",
+"id": 18960,
+"q": -1,
+"t": "s"
+},
 "Templar's Bulwark": {
 "icon": "ability_paladin_shieldofthetemplar",
 "id": 1311015,
@@ -23975,6 +24241,12 @@
 "id": 15994,
 "q": 1,
 "t": "i"
+},
+"Thorns": {
+"icon": "spell_nature_thorns",
+"id": 467,
+"q": -1,
+"t": "s"
 },
 "Thornspike": {
 "icon": "inv_weapon_shortblade_10",
@@ -24159,6 +24431,12 @@
 "Track Beasts": {
 "icon": "ability_tracking",
 "id": 1494,
+"q": -1,
+"t": "s"
+},
+"Track Humanoids": {
+"icon": "ability_tracking",
+"id": 5225,
 "q": -1,
 "t": "s"
 },
@@ -24923,6 +25201,18 @@
 "id": 825,
 "q": -1,
 "t": "s"
+},
+"Wolfshead Helm": {
+"alt": {
+"icon": "inv_helmet_04",
+"id": 10621,
+"q": 3,
+"t": "s"
+},
+"icon": "inv_helmet_04",
+"id": 8345,
+"q": 3,
+"t": "i"
 },
 "Wood Frog Box": {
 "icon": "inv_crate_02",
