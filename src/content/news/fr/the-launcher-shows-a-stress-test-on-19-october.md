@@ -15,6 +15,8 @@ manual: true
 ---
 World of Warcraft: Forever semble avoir droit à un stress test le 19 octobre. Le launcher Battle.net affiche une nouvelle option, WoW: Forever - Stress Test. Le client se télécharge déjà et ouvre le 19 octobre, selon le launcher.
 
+**Mise à jour du 16 octobre :** Blizzard a annoncé le test de charge. Tout le monde peut y participer le 19 octobre dès 19 h, heure belge, sans abonnement ni accès à la bêta. Les horaires et les étapes sont dans [notre nouvel article](/fr/news/everyone-can-join-the-stress-test-on-19-october/).
+
 Regarde sous World of Warcraft dans le launcher et choisis la nouvelle version dans la liste. L'installation démarre alors comme pour n'importe quelle autre version du jeu.
 
 ## Ce qu'on ne sait pas encore

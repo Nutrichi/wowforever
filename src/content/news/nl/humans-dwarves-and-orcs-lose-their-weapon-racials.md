@@ -2,6 +2,7 @@
 title: "Humans, Dwarves en Orcs verliezen hun wapenracials"
 description: "De beta-build van 15 oktober vervangt de weapon specializations van drie rassen door bonussen op critical strikes. Ook Tauren, Trolls, Gnomes, Undead en de Skyborne krijgen wijzigingen."
 date: 2026-10-16T03:00:00+02:00
+updated: 2026-10-16T09:20:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg
@@ -32,7 +33,7 @@ Een Human Rogue of een Orc Warrior hoeft voor de racial geen wapen meer te kieze
 - **Orc:** de cooldown van Blood Fury stijgt naar 3 minuten (was 2). Shatter Curse verwijdert nu Curses en Banes in plaats van immuniteit te geven, en vermindert magische schade met 5% (was 15%).
 - **Troll:** Regeneration verhoogt de regeneratie van Health met 20% (was 10%). Berserking staat niet in de notities.
 - **Tauren:** Endurance geeft nu 2% meer kritieke schade en healing (was 1% hit). Plainsrunning maakt je ook 3% sneller op een mount, bovenop andere bonussen, maar de Tauren moet elke seconde een minimale afstand afleggen om het te houden. Met kleine stapjes lukt dat niet meer, zegt Blizzard. Cultivation krijgt een cooldown van 15 minuten (was 60) en War Stomp van 90 seconden (was 2 minuten).
-- **Undead:** de kans en de cooldown van Touch of the Grave zijn aangepast, zodat het gelijkmatiger activeert, met betere beelden. Will of the Forsaken is niet meer beschikbaar onder Scatter Shot. Touch of the Dead heeft nu 30% kans voor casters en 20% voor Paladins, Rogues en Warriors, met een interne cooldown van 25 seconden. Het schaalt niet meer met Shadow-bonussen en verliest niets meer met een lagere rank.
+- **Undead:** de kans en de cooldown van Touch of the Grave zijn aangepast, zodat het gelijkmatiger activeert, met betere beelden. Will of the Forsaken is niet meer beschikbaar onder Scatter Shot. Touch of the Dead heeft nu 30% kans voor casters en 20% voor Paladins, Rogues en Warriors, met een interne cooldown van 25 seconden. In de builddata gaan de twee versies van Touch of the Grave van 10 naar 30% en van 5 naar 20%, met een interne cooldown van 25 seconden (was 1); elke keer haalt het tot 5% van je maximale Health binnen. Het schaalt niet meer met Shadow-bonussen en verliest niets meer met een lagere rank.
 
 ## Alliance
 
@@ -42,6 +43,6 @@ Een Human Rogue of een Orc Warrior hoeft voor de racial geen wapen meer te kieze
 
 ## Skyborne
 
-Wind Blessed geeft nu 3% haste (was 1%). Skysight en Read Ley Line kun je al bewegend casten, en Read Ley Line duurt minstens 30 seconden (was 20). Walk on Air krijgt een cooldown van 90 seconden (was 2 minuten). De meeste zones in de Eastern Kingdoms en Kalimdor krijgen ook meer plekken voor Elemental Convergences en ley lines.
+Wind Blessed geeft nu 3% haste (was 1%). Skysight en Read Leyline, de nieuwe schrijfwijze van Read Ley Line, kun je al bewegend casten, en Read Leyline duurt minstens 30 seconden (was 20). Walk on Air krijgt een cooldown van 90 seconden (was 2 minuten). De meeste zones in de Eastern Kingdoms en Kalimdor krijgen ook meer plekken voor Elemental Convergences en ley lines.
 
 De tabel met elke racial per ras op [Classes](/nl/classes/) is bijgewerkt. Dit alles geldt voor de beta; of de waarden blijven tot de lancering op 4 november, zegt Blizzard niet.

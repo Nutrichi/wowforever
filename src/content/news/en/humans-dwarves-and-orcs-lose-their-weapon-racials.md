@@ -2,6 +2,7 @@
 title: "Humans, Dwarves and Orcs lose their weapon racials"
 description: "The beta build of 15 October replaces the weapon specializations of three races with critical strike bonuses. Tauren, Trolls, Gnomes, Undead and the Skyborne get changes too."
 date: 2026-10-16T03:00:00+02:00
+updated: 2026-10-16T09:20:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg
@@ -31,7 +32,7 @@ A Human Rogue or an Orc Warrior no longer has to choose a weapon for the racial.
 - **Orc:** the cooldown of Blood Fury rises to 3 minutes (was 2). Shatter Curse now removes Curses and Banes instead of giving immunity, and reduces magic damage taken by 5% (was 15%).
 - **Troll:** Regeneration raises Health regeneration by 20% (was 10%). Berserking is not in the notes.
 - **Tauren:** Endurance now gives 2% more critical damage and healing (was 1% hit). Plainsrunning also raises mounted speed by 3%, stacking with other bonuses, but the Tauren has to cover a minimum distance per second to keep it. Stutter-stepping is no longer enough, says Blizzard. Cultivation drops to a 15 minute cooldown (was 60) and War Stomp to 90 seconds (was 2 minutes).
-- **Undead:** the chance and cooldown of Touch of the Grave are adjusted so it triggers more evenly, with better visuals. Will of the Forsaken is no longer available under Scatter Shot. Touch of the Dead now has a 30% chance for casters and 20% for Paladins, Rogues and Warriors, with a 25 second internal cooldown. It no longer scales with Shadow bonuses and loses nothing when a lower rank is used.
+- **Undead:** the chance and cooldown of Touch of the Grave are adjusted so it triggers more evenly, with better visuals. Will of the Forsaken is no longer available under Scatter Shot. Touch of the Dead now has a 30% chance for casters and 20% for Paladins, Rogues and Warriors, with a 25 second internal cooldown. In the build data, the two versions of Touch of the Grave go from 10 to 30% and from 5 to 20%, with an internal cooldown of 25 seconds (was 1); each proc drains up to 5% of maximum Health. It no longer scales with Shadow bonuses and loses nothing when a lower rank is used.
 
 ## Alliance
 
@@ -41,6 +42,6 @@ A Human Rogue or an Orc Warrior no longer has to choose a weapon for the racial.
 
 ## Skyborne
 
-Wind Blessed now gives 3% haste (was 1%). Skysight and Read Ley Line can be cast while moving, and Read Ley Line lasts at least 30 seconds (was 20). Walk on Air drops to a 90 second cooldown (was 2 minutes). Most zones in the Eastern Kingdoms and Kalimdor also get more spots for Elemental Convergences and ley lines.
+Wind Blessed now gives 3% haste (was 1%). Skysight and Read Leyline, the new spelling of Read Ley Line, can be cast while moving, and Read Leyline lasts at least 30 seconds (was 20). Walk on Air drops to a 90 second cooldown (was 2 minutes). Most zones in the Eastern Kingdoms and Kalimdor also get more spots for Elemental Convergences and ley lines.
 
 The table with every racial per race on [Classes](/classes/) has been updated. All of this applies to the beta; whether the values stay for the launch on 4 November, Blizzard does not say.

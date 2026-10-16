@@ -116,8 +116,9 @@ Toutes les dates viennent de Blizzard. Les heures sont données en heure du Paci
 | 17 septembre 2026 | La bêta commence pour les possesseurs du Skyborne Epic Pack, de la Warcraft Forever Collection et de la Collector's Edition, et pour les joueurs tirés parmi les inscrits. Le plafond est au niveau 20 au début et passe à 30 le 1er octobre. Blizzard organise le même jour un Q&A en direct, à 10.00 heure du Pacifique, 19.00 heure belge. |
 | 1er octobre 2026 | La bêta passe hors ligne pour une maintenance et revient quelques heures plus tard avec un nouveau build et un plafond au niveau 30 ([plus](/fr/news/the-beta-level-cap-rises-from-20-to-30/)). Razorfen Downs, Uldaman et la nouvelle Excavation Site ouvrent avec elle. |
 | 9 octobre 2026 | À la PAX Aus de Melbourne, Clay Stone présente en détail l’un des nouveaux donjons. En direct sur Twitch à 03.00 heure belge ([plus](/fr/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
+| 19 octobre 2026 | Test de charge pour tous les joueurs, sans abonnement ni accès à la bêta, dès 19 h, heure belge ([plus](/fr/news/everyone-can-join-the-stress-test-on-19-october/)). |
 | 20 octobre 2026 | Les codes de lancement Invite-A-Friend arrivent par e-mail. |
-| 21 octobre 2026 | La bêta se termine. La feuille de route montrée à la BlizzCon indiquait le 22 octobre. |
+| 21 octobre 2026 | Dernière journée complète de la bêta, selon Blizzard. La feuille de route montrée à la BlizzCon indiquait le 22 octobre. |
 | Du 27 octobre au 3 novembre | Early Name Reservation : jusqu’à 3 personnages avec n’importe quelle édition. Premier arrivé, premier servi pour les noms. |
 | 4 novembre 2026 | Lancement à 15 h, heure du Pacifique, soit minuit, heure belge, le 5 novembre. Les 30 jours de Game Time de l’Epic Pack et de la Collection sont ajoutés. |
 | Du 4 au 11 novembre 2026 | Semaine de lancement : les amis invités jouent sans abonnement. |
@@ -243,7 +244,7 @@ Les Skyborne sont une nouvelle race d’elfes à la touche élémentaire. Leur f
 
 - Suivent l’héritage arcanique de leurs ancêtres et les idées du Kirin Tor.
 - Classes : Warrior, Hunter, Rogue, Druid et Mage.
-- Racials : Walk on Air, Read Ley Line, Wind Blessed et Elemental Insight.
+- Racials : Walk on Air, Read Leyline, Wind Blessed et Elemental Insight.
 - Langues : Common et Darnassian.
 
 ### Windshaper Skyborne, Horde

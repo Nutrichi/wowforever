@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Dalaran est ouverte sur la bêta de WoW Forever. L’Alliance y entre librement ; la Horde n’y est pas la bienvenue, même si la ville est marquée comme Sanctuary. À l’intérieur attendent des maîtres, des maîtres de guerre et l’accès à un nouveau donjon, écrit Wowhead.
+Dalaran est ouverte sur la bêta de WoW Forever. L’Alliance y entre librement ; la Horde n’y est pas la bienvenue, même si la ville est marquée comme Sanctuary. À l’intérieur attendent des maîtres, des maîtres de guerre et l’accès à un nouveau donjon.
 
 ## Entrer
 
@@ -68,7 +68,7 @@ La Horde entre depuis l’extérieur de la ville, en /way 8.8 59.6, avec la <a c
 
 ## Un joaillier sans métier
 
-Chez Cartier & Co. Fine Jewelry, en /way 18.1 61.9, se tient Timothy Jones, Apprentice Jeweler. Ce titre va d’habitude avec un maître, note Wowhead. Le Jewelcrafting ne fait pas partie de Forever, et il n’enseigne rien pour l’instant.
+Chez Cartier & Co. Fine Jewelry, en /way 18.1 61.9, se tient Timothy Jones, Apprentice Jeweler. Ce titre va d’habitude avec un maître. Le Jewelcrafting ne fait pas partie de Forever, et il n’enseigne rien pour l’instant.
 
 ![Timothy Jones, Apprentice Jeweler, dans une bijouterie de Dalaran, avec une fenêtre de dialogue vide, une capture de la bêta de World of Warcraft: Forever](../../../assets/posts/2026-09-29-wow-forever-dalaran-apprentice-jeweler.jpg)
 

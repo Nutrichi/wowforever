@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Dalaran is open op de beta van WoW Forever. De Alliance wandelt vrij binnen; de Horde is er niet welkom, ook al staat de stad als Sanctuary te boek. Binnen wachten trainers, battlemasters en de weg naar een nieuwe dungeon, schrijft Wowhead.
+Dalaran is open op de beta van WoW Forever. De Alliance wandelt vrij binnen; de Horde is er niet welkom, ook al staat de stad als Sanctuary te boek. Binnen wachten trainers, battlemasters en de weg naar een nieuwe dungeon.
 
 ## Binnenkomen
 
@@ -68,7 +68,7 @@ De Horde gaat erin van buiten de stad, op /way 8.8 59.6, met de <a class="wf-wh 
 
 ## Een juwelier zonder tradeskill
 
-In Cartier & Co. Fine Jewelry, op /way 18.1 61.9, staat Timothy Jones, een Apprentice Jeweler. Die titel hoort meestal bij een trainer, merkt Wowhead op. Jewelcrafting zit niet in Forever, en hij leert voorlopig niets.
+In Cartier & Co. Fine Jewelry, op /way 18.1 61.9, staat Timothy Jones, een Apprentice Jeweler. Die titel hoort meestal bij een trainer. Jewelcrafting zit niet in Forever, en hij leert voorlopig niets.
 
 ![Timothy Jones, Apprentice Jeweler, in een juwelierszaak in Dalaran, met een leeg gespreksvenster, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-09-29-wow-forever-dalaran-apprentice-jeweler.jpg)
 

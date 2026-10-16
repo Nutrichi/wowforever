@@ -1,7 +1,8 @@
 ---
-title: "Wowhead cartographie les bateaux et zeppelins de Forever"
-description: "L’outil de carte d’Azeroth trace désormais chaque route de bateau et de zeppelin dans WoW Forever, les nouvelles comprises, pour voir où mène un quai avant d’embarquer."
+title: "Chaque bateau et zeppelin de Forever sur une carte"
+description: "Les routes de bateau et de zeppelin de WoW Forever figurent désormais sur une carte en ligne d’Azeroth, nouvelles comprises, pour voir où mène un quai avant d’embarquer."
 date: 2026-09-23T19:55:00+02:00
+updated: 2026-10-16T09:20:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-09-17-wow-forever-dustwallow-marsh.jpg
@@ -13,14 +14,14 @@ featured: false
 draft: false
 manual: true
 ---
-Wowhead a ajouté les routes de bateau et de zeppelin de WoW Forever à son outil de carte d’Azeroth. La carte trace maintenant quel quai mène où, nouvelles routes comprises. Cela compte dans Forever, car les déplacements passent par ce réseau et plusieurs lignes sont neuves.
+Les routes de bateau et de zeppelin de WoW Forever sont désormais tracées sur une carte en ligne d’Azeroth. La carte montre quel quai mène où, nouvelles routes comprises. Cela compte dans Forever, car les déplacements passent par ce réseau et plusieurs lignes sont neuves.
 
-Forever ajoute [trois routes maritimes](/fr/news/wow-forever-three-new-ship-routes/) à celles de Classic. Stormwind Harbor gagne une liaison vers Auberdine, une deuxième va de Menethil à Southshore puis Auberdine, et une troisième relie la nouvelle zone The Riverglades à Steamwheedle Port, lui-même relié à Gadgetzan en Tanaris.
+Forever ajoute six routes à celles de Classic. Stormwind Harbor reçoit un bateau vers Auberdine, et un bateau de Menethil Harbor fait escale à Southshore en route vers Auberdine. Un bateau relie Powderfuse Port, dans The Riverglades, à Steamwheedle Port. Deux nouveaux zeppelins volent vers Valanaar sur Zephras Isle, le foyer des Skyborne : l’un depuis Dalaran pour les deux factions, l’autre depuis Skywatcher Plateau pour la Horde. Les quatorze routes, anciennes et nouvelles, sont dans le tableau [Bateaux et zeppelins](/fr/guides/flight-paths/#bateaux-et-zeppelins) de notre guide des trajets aériens.
 
 ## Pourquoi une carte aide ici
 
 Les joueurs de Classic connaissent les tours à zeppelin par coeur, mais Forever change la donne. Une nouvelle zone signifie de nouveaux quais, et une route vieille de vingt ans peut désormais finir ailleurs.
 
-L’outil sert dans les deux sens. Pour un donjon, vous vérifiez quel zeppelin d’Orgrimmar vous dépose au plus près. Pour The Riverglades, vous voyez que le bateau de Gadgetzan vous y emmène. Pour voyager par les airs, le [guide des trajets aériens](/fr/guides/flight-paths/) liste chaque maître de vol de Forever.
+Une carte sert dans les deux sens. Pour un donjon, vous vérifiez quel zeppelin d’Orgrimmar vous dépose au plus près. Pour The Riverglades, vous voyez quel bateau vous y emmène. Pour voyager par les airs, le même [guide des trajets aériens](/fr/guides/flight-paths/) liste chaque maître de vol de Forever.
 
-Wowhead dit accueillir les suggestions pour la suite de l’outil. Les routes elles-mêmes viennent de la bêta et peuvent encore changer avant la sortie.
+Les routes viennent de la bêta et peuvent encore changer avant la sortie du 4 novembre.

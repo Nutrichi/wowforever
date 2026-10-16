@@ -2,6 +2,7 @@
 title: "Umani, Nani e Orchi perdono i loro racial d’arma"
 description: "La build della beta del 15 ottobre sostituisce le specializzazioni d’arma di tre razze con bonus ai colpi critici. Cambiano anche Tauren, Troll, Gnomi, Non Morti e Skyborne."
 date: 2026-10-16T03:00:00+02:00
+updated: 2026-10-16T09:20:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg
@@ -32,7 +33,7 @@ Un Rogue umano o un Warrior orco non deve più scegliere un’arma per il racial
 - **Orco:** la ricarica di Blood Fury sale a 3 minuti (prima 2). Shatter Curse ora dissolve maledizioni e flagelli invece di dare l’immunità, e riduce i danni magici subiti del 5% (prima 15%).
 - **Troll:** Regeneration aumenta la rigenerazione della salute del 20% (prima 10%). Berserking non è nelle note.
 - **Tauren:** Endurance dà ora il 2% in più di danni e cure critici (prima 1% di colpo). Plainsrunning aumenta anche la velocità in cavalcatura del 3%, cumulabile con altri bonus, ma il Tauren deve percorrere una distanza minima al secondo per mantenerlo. I piccoli passi non bastano più, dice Blizzard. Cultivation scende a 15 minuti di ricarica (prima 60) e War Stomp a 90 secondi (prima 2 minuti).
-- **Non Morto:** la probabilità e la ricarica di Touch of the Grave sono state regolate perché si attivi in modo più costante, con effetti visivi migliori. Will of the Forsaken non è più disponibile sotto Scatter Shot. Touch of the Dead ha ora il 30% di probabilità per gli incantatori e il 20% per Paladin, Rogue e Warrior, con una ricarica interna di 25 secondi. Non scala più con i bonus all’Ombra e non perde più nulla con un grado inferiore.
+- **Non Morto:** la probabilità e la ricarica di Touch of the Grave sono state regolate perché si attivi in modo più costante, con effetti visivi migliori. Will of the Forsaken non è più disponibile sotto Scatter Shot. Touch of the Dead ha ora il 30% di probabilità per gli incantatori e il 20% per Paladin, Rogue e Warrior, con una ricarica interna di 25 secondi. Nei dati della build, le due versioni di Touch of the Grave passano dal 10 al 30% e dal 5 al 20%, con una ricarica interna di 25 secondi (prima 1); ogni attivazione drena fino al 5% della salute massima. Non scala più con i bonus all’Ombra e non perde più nulla con un grado inferiore.
 
 ## Alleanza
 
@@ -42,6 +43,6 @@ Un Rogue umano o un Warrior orco non deve più scegliere un’arma per il racial
 
 ## Skyborne
 
-Wind Blessed dà ora il 3% di celerità (prima 1%). Skysight e Read Ley Line si possono lanciare in movimento, e Read Ley Line dura almeno 30 secondi (prima 20). Walk on Air scende a 90 secondi di ricarica (prima 2 minuti). La maggior parte delle zone dei Regni Orientali e di Kalimdor riceve anche più punti per Elemental Convergences e linee di potere.
+Wind Blessed dà ora il 3% di celerità (prima 1%). Skysight e Read Leyline, la nuova grafia di Read Ley Line, si possono lanciare in movimento, e Read Leyline dura almeno 30 secondi (prima 20). Walk on Air scende a 90 secondi di ricarica (prima 2 minuti). La maggior parte delle zone dei Regni Orientali e di Kalimdor riceve anche più punti per Elemental Convergences e linee di potere.
 
 La tabella con ogni racial per razza su [Classes](/it/classes/) è aggiornata. Tutto questo vale per la beta; se i valori restano per il lancio del 4 novembre, Blizzard non lo dice.

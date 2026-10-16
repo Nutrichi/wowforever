@@ -12,7 +12,7 @@ tags: ["forever", "beta", "dungeon"]
 featured: false
 draft: false
 ---
-Dalaran is open on the beta of WoW Forever. The Alliance walks in freely; the Horde is not welcome, even though the city is marked as a Sanctuary. Inside wait trainers, battlemasters and the way into a new dungeon, writes Wowhead.
+Dalaran is open on the beta of WoW Forever. The Alliance walks in freely; the Horde is not welcome, even though the city is marked as a Sanctuary. Inside wait trainers, battlemasters and the way into a new dungeon.
 
 ## Getting in
 
@@ -67,7 +67,7 @@ The Horde enters from outside the city, at /way 8.8 59.6, with the <a class="wf-
 
 ## A jeweler without a tradeskill
 
-In Cartier & Co. Fine Jewelry, at /way 18.1 61.9, stands Timothy Jones, an Apprentice Jeweler. That title usually belongs to a trainer, notes Wowhead. Jewelcrafting is not part of Forever, and he teaches nothing yet.
+In Cartier & Co. Fine Jewelry, at /way 18.1 61.9, stands Timothy Jones, an Apprentice Jeweler. That title usually belongs to a trainer. Jewelcrafting is not part of Forever, and he teaches nothing yet.
 
 ![Timothy Jones, Apprentice Jeweler, in a jewelry shop in Dalaran, with an empty dialog window, a screenshot from the beta of World of Warcraft: Forever](../../../assets/posts/2026-09-29-wow-forever-dalaran-apprentice-jeweler.jpg)
 

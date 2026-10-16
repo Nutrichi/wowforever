@@ -2,6 +2,7 @@
 title: "Humanos, Enanos y Orcos pierden sus racials de arma"
 description: "La build de la beta del 15 de octubre sustituye las especializaciones de arma de tres razas por bonificaciones a los críticos. Tauren, Trolls, Gnomos, No-muertos y Skyborne también cambian."
 date: 2026-10-16T03:00:00+02:00
+updated: 2026-10-16T09:20:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg
@@ -32,7 +33,7 @@ Un Rogue humano o un Warrior orco ya no tiene que elegir un arma para el racial.
 - **Orco:** el tiempo de reutilización de Blood Fury sube a 3 minutos (antes 2). Shatter Curse ahora disipa maldiciones y perdiciones en lugar de dar inmunidad, y reduce el daño mágico recibido un 5 % (antes 15 %).
 - **Trol:** Regeneration aumenta la regeneración de salud un 20 % (antes 10 %). Berserking no aparece en las notas.
 - **Tauren:** Endurance da ahora un 2 % más de daño y sanación críticos (antes 1 % de golpe). Plainsrunning también sube un 3 % la velocidad en montura, acumulable con otras bonificaciones, pero el Tauren tiene que recorrer una distancia mínima por segundo para mantenerlo. Dar pasitos ya no basta, dice Blizzard. Cultivation baja a 15 minutos de reutilización (antes 60) y War Stomp a 90 segundos (antes 2 minutos).
-- **No-muerto:** la probabilidad y el tiempo de reutilización de Touch of the Grave se ajustan para que se active de forma más regular, con mejores efectos visuales. Will of the Forsaken ya no está disponible bajo Scatter Shot. Touch of the Dead tiene ahora un 30 % de probabilidad para lanzadores de hechizos y un 20 % para Paladins, Rogues y Warriors, con un tiempo de reutilización interno de 25 segundos. Ya no escala con bonificaciones de Sombra y no pierde nada con un rango inferior.
+- **No-muerto:** la probabilidad y el tiempo de reutilización de Touch of the Grave se ajustan para que se active de forma más regular, con mejores efectos visuales. Will of the Forsaken ya no está disponible bajo Scatter Shot. Touch of the Dead tiene ahora un 30 % de probabilidad para lanzadores de hechizos y un 20 % para Paladins, Rogues y Warriors, con un tiempo de reutilización interno de 25 segundos. En los datos de la build, las dos versiones de Touch of the Grave pasan del 10 al 30 % y del 5 al 20 %, con un tiempo de reutilización interno de 25 segundos (antes 1); cada activación drena hasta el 5 % de la salud máxima. Ya no escala con bonificaciones de Sombra y no pierde nada con un rango inferior.
 
 ## Alianza
 
@@ -42,6 +43,6 @@ Un Rogue humano o un Warrior orco ya no tiene que elegir un arma para el racial.
 
 ## Skyborne
 
-Wind Blessed da ahora un 3 % de celeridad (antes 1 %). Skysight y Read Ley Line se pueden lanzar en movimiento, y Read Ley Line dura al menos 30 segundos (antes 20). Walk on Air baja a 90 segundos de reutilización (antes 2 minutos). La mayoría de las zonas de los Reinos del Este y Kalimdor reciben además más puntos para Elemental Convergences y líneas ley.
+Wind Blessed da ahora un 3 % de celeridad (antes 1 %). Skysight y Read Leyline, la nueva grafía de Read Ley Line, se pueden lanzar en movimiento, y Read Leyline dura al menos 30 segundos (antes 20). Walk on Air baja a 90 segundos de reutilización (antes 2 minutos). La mayoría de las zonas de los Reinos del Este y Kalimdor reciben además más puntos para Elemental Convergences y líneas ley.
 
 La tabla con cada racial por raza en [Classes](/es/classes/) está actualizada. Todo esto vale para la beta; Blizzard no dice si los valores se mantendrán para el lanzamiento del 4 de noviembre.

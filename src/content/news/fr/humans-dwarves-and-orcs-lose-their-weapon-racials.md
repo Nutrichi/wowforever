@@ -2,6 +2,7 @@
 title: "Humains, Nains et Orcs perdent leurs racials d’arme"
 description: "Le build bêta du 15 octobre remplace les spécialisations d’arme de trois races par des bonus aux coups critiques. Tauren, Trolls, Gnomes, Morts-vivants et Skyborne changent aussi."
 date: 2026-10-16T03:00:00+02:00
+updated: 2026-10-16T09:20:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg
@@ -32,7 +33,7 @@ Un Rogue humain ou un Warrior orc n’a plus besoin de choisir une arme pour le 
 - **Orc :** le temps de recharge de Blood Fury passe à 3 minutes (avant : 2). Shatter Curse dissipe désormais les malédictions et les fléaux au lieu de donner l’immunité, et réduit les dégâts magiques subis de 5 % (avant : 15 %).
 - **Troll :** Regeneration augmente la régénération de vie de 20 % (avant : 10 %). Berserking ne figure pas dans les notes.
 - **Tauren :** Endurance donne désormais 2 % de dégâts et de soins critiques en plus (avant : 1 % de toucher). Plainsrunning augmente aussi la vitesse en monture de 3 %, cumulable avec les autres bonus, mais le Tauren doit parcourir une distance minimale par seconde pour le garder. Les petits pas ne suffisent plus, dit Blizzard. Cultivation passe à 15 minutes de recharge (avant : 60) et War Stomp à 90 secondes (avant : 2 minutes).
-- **Mort-vivant :** la chance et le temps de recharge de Touch of the Grave sont ajustés pour qu’il se déclenche plus régulièrement, avec de meilleurs effets visuels. Will of the Forsaken n’est plus disponible sous Scatter Shot. Touch of the Dead a désormais 30 % de chances pour les lanceurs de sorts et 20 % pour les Paladins, Rogues et Warriors, avec un temps de recharge interne de 25 secondes. Il n’augmente plus avec les bonus d’Ombre et ne perd plus rien avec un rang inférieur.
+- **Mort-vivant :** la chance et le temps de recharge de Touch of the Grave sont ajustés pour qu’il se déclenche plus régulièrement, avec de meilleurs effets visuels. Will of the Forsaken n’est plus disponible sous Scatter Shot. Touch of the Dead a désormais 30 % de chances pour les lanceurs de sorts et 20 % pour les Paladins, Rogues et Warriors, avec un temps de recharge interne de 25 secondes. Dans les données de la build, les deux versions de Touch of the Grave passent de 10 à 30 % et de 5 à 20 %, avec un temps de recharge interne de 25 secondes (avant : 1) ; chaque déclenchement draine jusqu’à 5 % de la santé maximale. Il n’augmente plus avec les bonus d’Ombre et ne perd plus rien avec un rang inférieur.
 
 ## Alliance
 
@@ -42,6 +43,6 @@ Un Rogue humain ou un Warrior orc n’a plus besoin de choisir une arme pour le 
 
 ## Skyborne
 
-Wind Blessed donne désormais 3 % de hâte (avant : 1 %). Skysight et Read Ley Line se lancent en mouvement, et Read Ley Line dure au moins 30 secondes (avant : 20). Walk on Air passe à 90 secondes de recharge (avant : 2 minutes). La plupart des zones des Royaumes de l’Est et de Kalimdor reçoivent aussi plus d’emplacements pour les Elemental Convergences et les lignes telluriques.
+Wind Blessed donne désormais 3 % de hâte (avant : 1 %). Skysight et Read Leyline, la nouvelle graphie de Read Ley Line, se lancent en mouvement, et Read Leyline dure au moins 30 secondes (avant : 20). Walk on Air passe à 90 secondes de recharge (avant : 2 minutes). La plupart des zones des Royaumes de l’Est et de Kalimdor reçoivent aussi plus d’emplacements pour les Elemental Convergences et les lignes telluriques.
 
 Le tableau de chaque racial par race sur [Classes](/fr/classes/) a été mis à jour. Tout cela vaut pour la bêta ; Blizzard ne dit pas si les valeurs restent pour la sortie du 4 novembre.

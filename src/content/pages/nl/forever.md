@@ -116,8 +116,9 @@ Alle datums komen van Blizzard. Tijden staan in Pacific time, met de Belgische t
 | 17 september 2026 | De beta start voor wie het Skyborne Epic Pack, de Warcraft Forever Collection of de Collector's Edition heeft, en voor spelers die uit de aanmeldingen gekozen worden. De grens ligt eerst op level 20 en gaat op 1 oktober naar 30. Blizzard houdt diezelfde dag een live Q&A, om 10.00 uur Pacific time, 19.00 uur Belgische tijd. |
 | 1 oktober 2026 | De beta gaat offline voor onderhoud en komt uren later terug met een nieuwe build en een levelgrens van 30 ([meer](/nl/news/the-beta-level-cap-rises-from-20-to-30/)). Razorfen Downs, Uldaman en de nieuwe Excavation Site gaan ermee open. |
 | 9 oktober 2026 | Op PAX Aus in Melbourne toont Clay Stone een van de nieuwe dungeons. Live op Twitch om 03.00 uur Belgische tijd ([meer](/nl/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
+| 19 oktober 2026 | Stresstest voor elke speler, zonder abonnement of beta-toegang, vanaf 19.00 uur Belgische tijd ([meer](/nl/news/everyone-can-join-the-stress-test-on-19-october/)). |
 | 20 oktober 2026 | De Invite-A-Friend-lanceringscodes komen per mail. |
-| 21 oktober 2026 | De beta eindigt. De roadmap op BlizzCon toonde 22 oktober. |
+| 21 oktober 2026 | De laatste volle dag van de beta, zegt Blizzard. De roadmap op BlizzCon toonde 22 oktober. |
 | 27 oktober tot 3 november | Early Name Reservation: tot 3 personages met elke upgrade-editie. Wie eerst komt, heeft de naam. |
 | 4 november 2026 | Lancering om 15.00 uur Pacific time, 00.00 uur Belgische tijd op 5 november. De 30 dagen Game Time van het Epic Pack en de Collection worden toegevoegd. |
 | 4 tot 11 november 2026 | Lanceringsweek: uitgenodigde vrienden spelen zonder abonnement. |
@@ -243,7 +244,7 @@ De Skyborne zijn een nieuw ras van elfen met een elementaire inslag. Hun zwevend
 
 - Volgen de arcane erfenis van hun voorouders en de ideeën van de Kirin Tor.
 - Classes: Warrior, Hunter, Rogue, Druid en Mage.
-- Racials: Walk on Air, Read Ley Line, Wind Blessed en Elemental Insight.
+- Racials: Walk on Air, Read Leyline, Wind Blessed en Elemental Insight.
 - Talen: Common en Darnassian.
 
 ### Windshaper Skyborne, Horde
