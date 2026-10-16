@@ -261,7 +261,7 @@ Voor de Skyborne en Zephras Isle heb je het Skyborne Heroic Pack van 29,99 euro 
 
 ## Classes, combinaties en racials
 
-Elke class en spec wordt herwerkt, met nieuwe vaardigheden en nieuwe talentbomen. Classes blijven uniek aanvoelen, maar talenten gaan weg van kleine bonussen van 1 of 2 procent naar keuzes die echt iets doen. De Paladin krijgt een nieuwe Seal om te tanken, meer groepsheals en nieuwe middelen voor Retribution. Er zijn 51 talentpunten in totaal, zoals in Classic.
+Elke class en spec wordt herwerkt, met nieuwe vaardigheden en nieuwe talentbomen. Classes blijven uniek aanvoelen, maar talenten gaan weg van kleine bonussen van 1 of 2 procent naar keuzes die echt iets doen. De Paladin krijgt een nieuwe Seal om te tanken, meer groepsheals en nieuwe middelen voor Retribution. Twist of Light vervangt de oude Seal Twisting, zo blijkt uit de [deep dive over de Paladin](/nl/news/paladins-get-a-new-kind-of-seal-twisting/). Er zijn 51 talentpunten in totaal, zoals in Classic.
 
 De bomen houden hun oude vorm, vertelde Blizzard aan The Sun: drie per class, zeven rijen, en vijf punten in een rij om de volgende te openen. De talenten van één punt op 11, 21 en 31 punten blijven, en er komt een vierde bij op 16 punten. Sommige talenten verdwijnen, andere veranderen en veel zijn nieuw. Het doel is dat alle 27 talentbomen standhouden in dungeons en raids.
 

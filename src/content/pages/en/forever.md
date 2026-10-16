@@ -260,7 +260,7 @@ The Skyborne and Zephras Isle require the Skyborne Heroic Pack for 29.99 euro, o
 
 ## Classes, combinations and racials
 
-Every class and spec is reworked, with new abilities and new talent trees. Classes keep feeling unique, but talents move away from small bonuses of 1 or 2 percent towards choices with real impact. The Paladin gets a new tanking Seal, more group healing and new tools for Retribution. There are 51 talent points in total, as in Classic.
+Every class and spec is reworked, with new abilities and new talent trees. Classes keep feeling unique, but talents move away from small bonuses of 1 or 2 percent towards choices with real impact. The Paladin gets a new tanking Seal, more group healing and new tools for Retribution. Twist of Light replaces the old Seal Twisting, as the [Paladin deep dive](/news/paladins-get-a-new-kind-of-seal-twisting/) shows. There are 51 talent points in total, as in Classic.
 
 The trees keep the original shape, Blizzard told The Sun: three per class, seven rows, and five points in a row to open the next one. The one-point talents at 11, 21 and 31 points stay, and a fourth arrives at 16 points. Some talents disappear, others change and many are new. The goal is that all 27 talent trees hold up in dungeons and raids.
 

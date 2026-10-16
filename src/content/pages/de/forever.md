@@ -261,7 +261,7 @@ Für die Skyborne und Zephras Isle braucht es das Skyborne Heroic Pack für 29,9
 
 ## Klassen, Kombinationen und Racials
 
-Jede Klasse und Spezialisierung wird überarbeitet, mit neuen Fähigkeiten und neuen Talentbäumen. Klassen fühlen sich weiter einzigartig an, doch Talente wechseln von kleinen Boni von 1 oder 2 Prozent zu Entscheidungen mit echter Wirkung. Der Paladin bekommt ein neues Seal zum Tanken, mehr Gruppenheilung und neue Werkzeuge für Retribution. Es gibt insgesamt 51 Talentpunkte, wie in Classic.
+Jede Klasse und Spezialisierung wird überarbeitet, mit neuen Fähigkeiten und neuen Talentbäumen. Klassen fühlen sich weiter einzigartig an, doch Talente wechseln von kleinen Boni von 1 oder 2 Prozent zu Entscheidungen mit echter Wirkung. Der Paladin bekommt ein neues Seal zum Tanken, mehr Gruppenheilung und neue Werkzeuge für Retribution. Twist of Light ersetzt das alte Seal Twisting, wie [der Klassenüberblick zum Paladin](/de/news/paladins-get-a-new-kind-of-seal-twisting/) zeigt. Es gibt insgesamt 51 Talentpunkte, wie in Classic.
 
 Die Bäume behalten ihre ursprüngliche Form, sagte Blizzard zu The Sun: drei pro Klasse, sieben Reihen, und fünf Punkte in einer Reihe, um die nächste zu öffnen. Die Ein-Punkt-Talente auf 11, 21 und 31 Punkten bleiben, und bei 16 Punkten kommt ein viertes dazu. Manche Talente verschwinden, andere ändern sich, viele sind neu. Das Ziel ist, dass alle 27 Talentbäume in Dungeons und Raids bestehen.
 

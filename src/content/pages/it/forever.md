@@ -261,7 +261,7 @@ Gli Skyborne e Zephras Isle richiedono lo Skyborne Heroic Pack a 29,99 euro o un
 
 ## Classi, combinazioni e racials
 
-Ogni classe e specializzazione viene rinnovata, con nuove abilità e nuovi alberi dei talenti. Le classi restano uniche, ma i talenti lasciano i piccoli bonus dell’1 o 2 per cento per scelte che contano davvero. Il Paladin riceve un nuovo Seal per fare da tank, più cure di gruppo e nuovi strumenti per Retribution. I punti talento sono 51 in totale, come in Classic.
+Ogni classe e specializzazione viene rinnovata, con nuove abilità e nuovi alberi dei talenti. Le classi restano uniche, ma i talenti lasciano i piccoli bonus dell’1 o 2 per cento per scelte che contano davvero. Il Paladin riceve un nuovo Seal per fare da tank, più cure di gruppo e nuovi strumenti per Retribution. Twist of Light sostituisce il vecchio Seal Twisting, come mostra [l’approfondimento sul Paladin](/it/news/paladins-get-a-new-kind-of-seal-twisting/). I punti talento sono 51 in totale, come in Classic.
 
 Gli alberi mantengono la forma originale, ha detto Blizzard a The Sun: tre per classe, sette righe, e cinque punti in una riga per aprire la successiva. I talenti da un punto a 11, 21 e 31 punti restano, e ne arriva un quarto a 16 punti. Alcuni talenti spariscono, altri cambiano e molti sono nuovi. L'obiettivo è che tutti e 27 gli alberi dei talenti reggano in dungeon e incursioni.
 

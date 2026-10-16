@@ -1,7 +1,7 @@
 ---
 title: "Paladins krijgen een nieuw soort Seal Twisting"
 description: "De laatste class deep dive van WoW Forever gaat over de Paladin: Twist of Light voor Retribution, Light's Vigil en een vroegere Holy Shock voor Holy, en Templar's Bulwark voor Protection."
-date: 2026-10-15T23:00:00+02:00
+date: 2026-10-16T02:00:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-15-wow-forever-paladin-talents.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://worldofwarcraft.blizzard.com/en-gb/news/24302099/world-of-warcraft-forever-class-deep-dives-paladin"
 tags: ["forever", "beta", "classes", "talents"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Paladins in World of Warcraft: Forever verliezen het oude Seal Twisting, maar krijgen er een nieuwe en makkelijkere vorm van. Twist of Light, het Retribution-talent van 31 punten, neemt die plaats in, schrijft Blizzard in de laatste class deep dive. Holy krijgt Light's Vigil en Protection een groot schild.
