@@ -15,6 +15,8 @@ manual: true
 ---
 Paladins in World of Warcraft: Forever verliezen het oude Seal Twisting, maar krijgen er een nieuwe en makkelijkere vorm van. Twist of Light, het Retribution-talent van 31 punten, neemt die plaats in, schrijft Blizzard in de laatste class deep dive. Holy krijgt Light's Vigil en Protection een groot schild.
 
+**Update, 16 oktober:** de beta-build van 15 oktober brengt al Salvation, Mass Salvation en de nieuwe spell Revoke. Reckoning bewaart nu tot 4 ladingen zonder de swing timer te resetten, en Champion of the Light geeft tot 30% van je Intellect als spell damage. Meer in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+
 De deep dive sluit de reeks af, na de [Hunter en Druid](/nl/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), de [Priest en Warrior](/nl/news/warriors-keep-rage-through-armor-and-every-priest-gets-fear-ward/), de [Mage en Shaman](/nl/news/mages-get-frostfire-bolt-shamans-get-lava-burst/) en de [Rogue en Warlock](/nl/news/rogues-get-mutilate-and-axes-warlocks-get-banes/). Blizzard toonde [Seal of Fury](/nl/news/paladins-get-a-taunt-with-seal-of-fury/) al op 3 oktober in een video.
 
 Talenten beginnen op level 10, met mijlpaaltalenten op 11, 16, 21 en 31 punten. Talenten, ook Legacy-talenten, verander je bij een classtrainer in een hoofdstad. Dual Specialization komt vrij op level 40. Alles kan tijdens de beta nog veranderen, zegt Blizzard.

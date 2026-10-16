@@ -15,6 +15,8 @@ draft: false
 ---
 De nieuwe class deep dive van Blizzard voor WoW Forever gaat over de Mage en de Shaman. Elke Mage leert Frostfire Bolt op level 40, een spell die zowel Fire als Frost is. Totems van de Shaman blijven 5 minuten staan in plaats van 2, weapon imbues een uur.
 
+**Update, 16 oktober:** in de beta-build van 15 oktober keert Elemental Mastery terug als talent op 31 punten bij Elemental, en Lava Burst gaat naar 21 punten. Mages krijgen de nieuwe spell Frost Blast op level 24. Meer in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+
 Net als in de deep dives over de [Hunter en de Druid](/nl/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/) en de [Priest en de Warrior](/nl/news/warriors-keep-rage-through-armor-and-every-priest-gets-fear-ward/) beginnen talenten op level 10, met mijlpalen op 11, 16, 21 en 31 punten. Talenten, ook Legacy-talenten, wissel je bij een class trainer in een hoofdstad. Dual Specialization komt vrij op level 40. Alles kan tijdens de beta nog veranderen, zegt Blizzard.
 
 ## Mage

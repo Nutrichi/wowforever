@@ -14,6 +14,8 @@ draft: false
 ---
 Paladins in World of Warcraft: Forever lose the old Seal Twisting, but get a new and easier form of it. Twist of Light, the 31-point Retribution talent, takes its place, Blizzard writes in the last class deep dive. Holy gets Light's Vigil and Protection a big shield.
 
+**Update, 16 October:** the beta build of 15 October already brings Salvation, Mass Salvation and the new spell Revoke. Reckoning now stores up to 4 charges without resetting the swing timer, and Champion of the Light gives up to 30% of Intellect as spell damage. More in [this post](/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+
 The deep dive closes the series, after the [Hunter and Druid](/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), the [Priest and Warrior](/news/warriors-keep-rage-through-armor-and-every-priest-gets-fear-ward/), the [Mage and Shaman](/news/mages-get-frostfire-bolt-shamans-get-lava-burst/) and the [Rogue and Warlock](/news/rogues-get-mutilate-and-axes-warlocks-get-banes/). Blizzard already showed [Seal of Fury](/news/paladins-get-a-taunt-with-seal-of-fury/) in a video on 3 October.
 
 Talents start at level 10, with milestone talents at 11, 16, 21 and 31 points. Talents, Legacy talents included, are changed at a class trainer in a capital city. Dual Specialization unlocks at level 40. Everything can still change during the beta, says Blizzard.

@@ -3,7 +3,7 @@ title: "Priest leveling guide for WoW Forever"
 metaTitle: "WoW Forever Priest leveling guide: Discipline, Holy and Shadow builds to 30"
 description: "How to level a Priest in WoW Forever: three level 30 builds for Discipline, Holy and Shadow, the rotation, key levels, racial spells, wands, professions, mana and healing."
 short: "Priest leveling"
-updated: 2026-10-15
+updated: 2026-10-16
 lang: en
 faq:
   - q: "What is the best spec to level a Priest in WoW Forever?"
@@ -53,6 +53,8 @@ You have no talents yet. Smite and Lesser Heal are your spells until you have a 
 Use <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17"><img class="wf-wh__icon" src="/wh/spell_holy_powerwordshield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Shield</a> when you need to cast without interruption, and keep <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=589"><img class="wf-wh__icon" src="/wh/spell_shadow_shadowwordpain.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Word: Pain</a> up when your mana allows.
 
 Stats for every build at these levels: first Intellect and spell damage, then Stamina and Spirit, then armor.
+
+The beta build of 15 October moves Mental Strength to row 2, where it now raises Intellect, and Improved Power Word: Shield to row 3. Shadow gets Dark Inspiration, loses Improved Fade and Shadow Infinity, and Improved Mind Blast moves to row 2. The builds below and the talent calculator still show the earlier trees. All changes are in [this post](/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Level 30 Discipline build
 

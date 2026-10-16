@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-october-15/2360696"
 tags: ["forever", "beta", "classes", "raid"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Battle Shout, Trueshot Aura, Leader of the Pack en Moonkin Aura bereiken in World of Warcraft: Forever nu de hele raid, net als vier totems van de Shaman. Blizzard voerde dat in met de beta-build van 15 oktober, samen met wijzigingen voor alle negen classes.

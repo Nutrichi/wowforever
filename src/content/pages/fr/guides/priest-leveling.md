@@ -3,7 +3,7 @@ title: "Guide de montée en niveau du Priest dans WoW Forever"
 metaTitle: "Guide de leveling Priest WoW Forever : builds Discipline, Holy et Shadow jusqu'au 30"
 description: "Comment monter un Priest dans WoW Forever : trois builds niveau 30 pour Discipline, Holy et Shadow, la rotation, les niveaux clés, les sorts raciaux, les baguettes, les métiers, le mana et les soins."
 short: "Leveling du Priest"
-updated: 2026-10-15
+updated: 2026-10-16
 lang: fr
 manual: true
 faq:
@@ -54,6 +54,8 @@ Vous n'avez pas encore de talents. Smite et Lesser Heal sont vos sorts jusqu'à 
 Utilisez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17"><img class="wf-wh__icon" src="/wh/spell_holy_powerwordshield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Shield</a> quand vous devez lancer sans interruption, et gardez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=589"><img class="wf-wh__icon" src="/wh/spell_shadow_shadowwordpain.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Word: Pain</a> quand votre mana le permet.
 
 Stats pour tous les builds à ces niveaux : d'abord Intellect et puissance des sorts, puis Stamina et Spirit, puis armure.
+
+Le build bêta du 15 octobre place Mental Strength en rangée 2, où il augmente désormais l’Intelligence, et Improved Power Word: Shield en rangée 3. Shadow reçoit Dark Inspiration, perd Improved Fade et Shadow Infinity, et Improved Mind Blast passe en rangée 2. Les builds ci-dessous et le calculateur de talents montrent encore les arbres précédents. Tous les changements sont dans [cet article](/fr/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Build Discipline niveau 30
 

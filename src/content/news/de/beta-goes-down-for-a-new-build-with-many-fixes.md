@@ -33,4 +33,4 @@ Der Battle.net-Launcher zeigt einen [Stresstest am 19. Oktober](/de/news/the-lau
 
 ## Die Entwicklungsnotizen sind da
 
-Die Beta kam in derselben Nacht zurück. Blizzard veröffentlichte die Entwicklungsnotizen des Builds am 16. Oktober um 2.15 Uhr belgischer Zeit. Die neuen Racials für fast jedes Volk stehen in [diesem Artikel](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Die Beta kam in derselben Nacht zurück. Blizzard veröffentlichte die Entwicklungsnotizen des Builds am 16. Oktober um 2.15 Uhr belgischer Zeit. Die neuen Racials für fast jedes Volk stehen in [diesem Artikel](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/). Die Änderungen für jede Klasse, mit Buffs für den ganzen Schlachtzug, stehen in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).

@@ -33,4 +33,4 @@ El launcher de Battle.net muestra una [prueba de estrés el 19 de octubre](/es/n
 
 ## Ya están las notas de desarrollo
 
-La beta volvió esa misma noche. Blizzard publicó las notas de desarrollo de la build a las 2.15, hora belga, el 16 de octubre. Los nuevos racials de casi todas las razas están en [este artículo](/es/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+La beta volvió esa misma noche. Blizzard publicó las notas de desarrollo de la build a las 2.15, hora belga, el 16 de octubre. Los nuevos racials de casi todas las razas están en [este artículo](/es/news/humans-dwarves-and-orcs-lose-their-weapon-racials/). Los cambios de cada clase, con beneficios para toda la banda, están en [este artículo](/es/news/battle-shout-and-totems-now-buff-the-whole-raid/).

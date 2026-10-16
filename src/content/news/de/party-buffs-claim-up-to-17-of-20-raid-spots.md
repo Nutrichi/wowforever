@@ -15,6 +15,8 @@ manual: true
 ---
 Buffs wie <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25289"><img class="wf-wh__icon" src="/wh/ability_warrior_battleshout.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Battle Shout</a> erreichen in World of Warcraft: Forever nur die eigene Gruppe, wie in Classic und TBC. Ein Raid mit 20, der jeden Buff in jeder Gruppe will, belegt so bis zu 17 Plätze. Mit Buffs für den ganzen Raid reichen 12.
 
+**Update vom 16. Oktober:** Im Beta-Build vom 15. Oktober wurden Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura und vier Totems des Schamanen schlachtzugsweit. Die Details stehen in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+
 ## Warum Gruppenbuffs einen Raid prägen
 
 In Classic und TBC wirkt ein Buff wie Battle Shout, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17007"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leader of the Pack</a> oder <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=10614"><img class="wf-wh__icon" src="/wh/spell_nature_windfury.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Windfury Totem</a> nur auf die fünf Spieler in der Gruppe dessen, der ihn mitbringt. Ab Wrath of the Lich King erreichen diese Buffs den ganzen Raid. Forever behält die alte Regel.

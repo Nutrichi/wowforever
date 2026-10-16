@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-october-15/2360696"
 tags: ["forever", "beta", "classes", "raid"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Battle Shout, Trueshot Aura, Leader of the Pack und Moonkin Aura erreichen in World of Warcraft: Forever jetzt den ganzen Schlachtzug, ebenso vier Totems des Schamanen. Blizzard änderte das im Beta-Build vom 15. Oktober, zusammen mit Änderungen für alle neun Klassen.

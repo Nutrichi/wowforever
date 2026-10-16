@@ -15,6 +15,8 @@ draft: false
 ---
 El nuevo análisis de clases de Blizzard para WoW Forever trata del Mage y el Shaman. Cada Mage aprende Frostfire Bolt a nivel 40, un hechizo que cuenta como Fire y como Frost. Los tótems del Shaman duran 5 minutos en lugar de 2, y los weapon imbues una hora.
 
+**Actualización del 16 de octubre:** en la build de la beta del 15 de octubre, Elemental Mastery vuelve como talento de 31 puntos de Elemental, y Lava Burst pasa a 21 puntos. Los Magos reciben el nuevo hechizo Frost Blast a nivel 24. Más en [este artículo](/es/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+
 Como en los análisis del [Hunter y el Druid](/es/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/) y del [Priest y el Warrior](/es/news/warriors-keep-rage-through-armor-and-every-priest-gets-fear-ward/), los talentos empiezan a nivel 10, con hitos a 11, 16, 21 y 31 puntos. Los talentos, también los Legacy, se cambian con un instructor de clase en una capital. Dual Specialization se desbloquea a nivel 40. Todo puede cambiar aún durante la beta, dice Blizzard.
 
 ## Mage

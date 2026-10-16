@@ -15,6 +15,8 @@ manual: true
 ---
 Paladine in World of Warcraft: Forever verlieren das alte Seal Twisting, bekommen aber eine neue und einfachere Form davon. Twist of Light, das Retribution-Talent für 31 Punkte, nimmt seinen Platz ein, schreibt Blizzard im letzten Klassen-Deep-Dive. Holy bekommt Light's Vigil und Protection einen großen Schild.
 
+**Update vom 16. Oktober:** Der Beta-Build vom 15. Oktober bringt bereits Salvation, Mass Salvation und den neuen Zauber Revoke. Reckoning speichert jetzt bis zu 4 Aufladungen, ohne den Schlagtimer zurückzusetzen, und Champion of the Light gibt bis zu 30 % der Intelligenz als Zauberschaden. Mehr in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+
 Der Deep Dive schließt die Reihe ab, nach [Hunter und Druid](/de/news/hunters-get-foxes-and-druids-keep-potions-in-every-form/), [Priest und Warrior](/de/news/warriors-keep-rage-through-armor-and-every-priest-gets-fear-ward/), [Mage und Shaman](/de/news/mages-get-frostfire-bolt-shamans-get-lava-burst/) und [Rogue und Warlock](/de/news/rogues-get-mutilate-and-axes-warlocks-get-banes/). Blizzard zeigte [Seal of Fury](/de/news/paladins-get-a-taunt-with-seal-of-fury/) schon am 3. Oktober in einem Video.
 
 Talente beginnen auf Level 10, mit Meilensteintalenten bei 11, 16, 21 und 31 Punkten. Talente, auch Legacy-Talente, ändert man bei einem Klassenlehrer in einer Hauptstadt. Dual Specialization wird auf Level 40 frei. Alles kann sich während der Beta noch ändern, sagt Blizzard.

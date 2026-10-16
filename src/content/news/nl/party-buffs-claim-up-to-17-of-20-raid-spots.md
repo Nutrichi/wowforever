@@ -15,6 +15,8 @@ manual: true
 ---
 Buffs als <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25289"><img class="wf-wh__icon" src="/wh/ability_warrior_battleshout.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Battle Shout</a> bereiken in World of Warcraft: Forever alleen je eigen groep, net als in Classic en TBC. Een raid van 20 die elke buff in elke groep wil, vult zo tot 17 plaatsen. Met buffs voor de hele raid volstaan er 12.
 
+**Update, 16 oktober:** in de beta-build van 15 oktober werden Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura en vier totems van de Shaman raidbreed. De details staan in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+
 ## Waarom buffs per groep een raid bepalen
 
 In Classic en TBC werkt een buff als Battle Shout, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17007"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leader of the Pack</a> of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=10614"><img class="wf-wh__icon" src="/wh/spell_nature_windfury.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Windfury Totem</a> alleen voor de vijf spelers in de groep van wie hem meebrengt. Vanaf Wrath of the Lich King bereiken die buffs de hele raid. Forever houdt de oude regel aan.

@@ -33,4 +33,4 @@ De launcher van Battle.net toont een [stresstest op 19 oktober](/nl/news/the-lau
 
 ## De ontwikkelingsnotities zijn er
 
-De beta kwam dezelfde nacht terug. Blizzard publiceerde de ontwikkelingsnotities van de build om 2.15 Belgische tijd op 16 oktober. De nieuwe racials voor bijna elk ras staan in [deze post](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+De beta kwam dezelfde nacht terug. Blizzard publiceerde de ontwikkelingsnotities van de build om 2.15 Belgische tijd op 16 oktober. De nieuwe racials voor bijna elk ras staan in [deze post](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/). De wijzigingen voor elke class, met buffs voor de hele raid, staan in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).

@@ -3,7 +3,7 @@ title: "Priest levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Priest levelgids: builds voor Discipline, Holy en Shadow tot 30"
 description: "Zo level je een Priest in WoW Forever: drie builds voor level 30 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, tradeskills, mana en healen."
 short: "Priest levelen"
-updated: 2026-10-15
+updated: 2026-10-16
 lang: nl
 manual: true
 faq:
@@ -54,6 +54,8 @@ Je hebt nog geen talenten. Smite en Lesser Heal zijn je spreuken tot je een wand
 Gebruik <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17"><img class="wf-wh__icon" src="/wh/spell_holy_powerwordshield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Shield</a> als je moet casten zonder onderbreking, en houd <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=589"><img class="wf-wh__icon" src="/wh/spell_shadow_shadowwordpain.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Word: Pain</a> op als je mana het toelaat.
 
 Stats voor elke build op deze levels: eerst Intellect en spell damage, dan Stamina en Spirit, dan armor.
+
+De beta-build van 15 oktober zet Mental Strength in rij 2, waar het nu Intellect verhoogt, en Improved Power Word: Shield in rij 3. Shadow krijgt Dark Inspiration, verliest Improved Fade en Shadow Infinity, en Improved Mind Blast gaat naar rij 2. De builds hieronder en de talentcalculator tonen nog de vorige bomen. Alle wijzigingen staan in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Discipline-build voor level 30
 

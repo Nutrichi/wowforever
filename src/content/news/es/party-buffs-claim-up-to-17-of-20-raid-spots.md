@@ -15,6 +15,8 @@ manual: true
 ---
 En World of Warcraft: Forever, buffs como <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25289"><img class="wf-wh__icon" src="/wh/ability_warrior_battleshout.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Battle Shout</a> solo llegan a tu propio grupo, igual que en Classic y TBC. Una banda de 20 que quiere cada buff en cada grupo ocupa así hasta 17 plazas. Con buffs para toda la banda bastan 12.
 
+**Actualización del 16 de octubre:** en la build de la beta del 15 de octubre, Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura y cuatro tótems del Shaman pasan a toda la banda. Los detalles están en [este artículo](/es/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+
 ## Por qué los buffs de grupo marcan una banda
 
 En Classic y TBC, un buff como Battle Shout, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17007"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leader of the Pack</a> o <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=10614"><img class="wf-wh__icon" src="/wh/spell_nature_windfury.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Windfury Totem</a> solo afecta a los cinco jugadores del grupo de quien lo aporta. Desde Wrath of the Lich King, esos buffs llegan a toda la banda. Forever mantiene la regla antigua.

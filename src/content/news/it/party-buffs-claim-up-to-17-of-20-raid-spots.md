@@ -15,6 +15,8 @@ manual: true
 ---
 In World of Warcraft: Forever, buff come <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25289"><img class="wf-wh__icon" src="/wh/ability_warrior_battleshout.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Battle Shout</a> raggiungono solo il proprio gruppo, come in Classic e TBC. Un raid da 20 che vuole ogni buff in ogni gruppo occupa così fino a 17 posti. Con i buff per tutto il raid ne bastano 12.
 
+**Aggiornamento del 16 ottobre:** nella build della beta del 15 ottobre, Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura e quattro totem dello Shaman valgono per tutta l’incursione. I dettagli sono in [questo articolo](/it/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+
 ## Perché i buff di gruppo plasmano un raid
 
 In Classic e TBC, un buff come Battle Shout, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17007"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leader of the Pack</a> o <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=10614"><img class="wf-wh__icon" src="/wh/spell_nature_windfury.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Windfury Totem</a> vale solo per i cinque giocatori nel gruppo di chi lo porta. Da Wrath of the Lich King in poi, quei buff raggiungono tutto il raid. Forever mantiene la vecchia regola.
