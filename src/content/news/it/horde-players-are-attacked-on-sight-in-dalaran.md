@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-october-15/2360696"
 tags: ["forever", "beta", "dungeon"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 I membri dell’Orda non sono più benvenuti a Dalaran in nessun caso in World of Warcraft: Forever. Dalla build della beta del 15 ottobre, la città li attacca a vista. Il dungeon City of Dalaran resta aperto per loro.

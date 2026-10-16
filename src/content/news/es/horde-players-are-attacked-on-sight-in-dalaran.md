@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-october-15/2360696"
 tags: ["forever", "beta", "dungeon"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Los miembros de la Horda ya no son bienvenidos en Dalaran bajo ninguna circunstancia en World of Warcraft: Forever. Desde la build de la beta del 15 de octubre, la ciudad los ataca nada más verlos. La mazmorra City of Dalaran sigue abierta para ellos.

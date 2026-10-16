@@ -3,7 +3,7 @@ title: "City of Dalaran: der Dungeon-Guide für WoW Forever"
 metaTitle: "City of Dalaran in WoW Forever: Eingänge, Bosse und Taktiken"
 description: "City of Dalaran, ein neuer Dungeon in WoW Forever: der Weg hinein durch die Kanalisation für die Alliance und den Tunnel für die Horde, der arkane Trash und die sieben Bosse mit ihren Taktiken."
 short: "City of Dalaran"
-updated: 2026-10-11
+updated: 2026-10-16
 lang: de
 faq:
   - q: "Welche Stufe hat die City of Dalaran in WoW Forever?"
@@ -47,6 +47,8 @@ Seit dem [Betabuild vom 8. Oktober](/de/news/city-of-dalaran-opens-in-the-fourth
 **Alliance.** Beim ersten Mal ist es ein langer Ritt von Hillsbrad Foothills in die Stadt. Geh in Dalaran zu Cantrips & Crows in den Dalaran Sewers, öffne das Tor und folge dem Rohr zum Portal. Mehr über die Stadt im [Beitrag über Dalaran in der Beta](/de/news/dalaran-opens-on-the-beta-for-the-alliance-only/).
 
 **Horde.** Die Horde ist in der Stadt nicht willkommen und kommt durch einen Tunnel außerhalb, bei /way 8.8 59.6, wo das <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> Zugang gewährt. Mindestens ein Spieler braucht den <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a>, um das Tor zu öffnen. Von The Sepulcher in Silverpine Forest sind es ein paar Minuten zu Fuß.
+
+Seit dem Beta-Build vom 15. Oktober greift die Stadt Hordespieler sofort an, und die Questreihe für den Dalaran Sewer Key gibt keinen freien Zugang mehr zur Stadt in der offenen Welt. Der Weg in den Dungeon bleibt gleich ([mehr](/de/news/horde-players-are-attacked-on-sight-in-dalaran/)).
 
 <div class="wf-shots">
 

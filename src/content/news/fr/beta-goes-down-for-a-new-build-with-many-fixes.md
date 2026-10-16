@@ -33,4 +33,4 @@ Le launcher Battle.net affiche un [test de charge le 19 octobre](/fr/news/the-la
 
 ## Les notes de développement sont là
 
-La bêta est revenue la même nuit. Blizzard a publié les notes de développement du build à 2 h 15, heure belge, le 16 octobre. Les nouveaux racials de presque toutes les races sont dans [cet article](/fr/news/humans-dwarves-and-orcs-lose-their-weapon-racials/). Les changements de chaque classe, avec des buffs pour tout le raid, sont dans [cet article](/fr/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+La bêta est revenue la même nuit. Blizzard a publié les notes de développement du build à 2 h 15, heure belge, le 16 octobre. Les nouveaux racials de presque toutes les races sont dans [cet article](/fr/news/humans-dwarves-and-orcs-lose-their-weapon-racials/). Les changements de chaque classe, avec des buffs pour tout le raid, sont dans [cet article](/fr/news/battle-shout-and-totems-now-buff-the-whole-raid/). Dalaran, le tutoriel et les autres changements sont dans [cet article](/fr/news/horde-players-are-attacked-on-sight-in-dalaran/).

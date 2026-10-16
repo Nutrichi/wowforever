@@ -32,4 +32,4 @@ The Battle.net launcher shows a [stress test on 19 October](/news/the-launcher-s
 
 ## The development notes are out
 
-The beta came back the same night. Blizzard published the development notes of the build at 2.15 Belgian time on 16 October. The new racials for almost every race are in [this post](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/). The changes for every class, with buffs for the whole raid, are in [this post](/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+The beta came back the same night. Blizzard published the development notes of the build at 2.15 Belgian time on 16 October. The new racials for almost every race are in [this post](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/). The changes for every class, with buffs for the whole raid, are in [this post](/news/battle-shout-and-totems-now-buff-the-whole-raid/). Dalaran, the tutorial and the other changes are in [this post](/news/horde-players-are-attacked-on-sight-in-dalaran/).

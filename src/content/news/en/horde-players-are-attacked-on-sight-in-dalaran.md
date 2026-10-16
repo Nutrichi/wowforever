@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-october-15/2360696"
 tags: ["forever", "beta", "dungeon"]
 featured: false
-draft: true
+draft: false
 ---
 Members of the Horde are no longer welcome in Dalaran under any circumstances in World of Warcraft: Forever. Since the beta build of 15 October, the city attacks them on sight. The City of Dalaran dungeon stays open to them.
 
