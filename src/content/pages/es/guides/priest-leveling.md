@@ -55,11 +55,11 @@ Usa <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17"><i
 
 Atributos para todas las builds en estos niveles: primero Intellect y poder con hechizos, luego Stamina y Spirit, luego armadura.
 
-La build de la beta del 15 de octubre pasa Mental Strength a la fila 2, donde ahora aumenta el Intelecto, e Improved Power Word: Shield a la fila 3. Shadow recibe Dark Inspiration, pierde Improved Fade y Shadow Infinity, e Improved Mind Blast pasa a la fila 2. Las builds de abajo y la calculadora de talentos aún muestran los árboles anteriores. Todos los cambios están en [este artículo](/es/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+La build de la beta del 15 de octubre pasa Mental Strength a la fila 2, donde ahora aumenta el Intelecto, e Improved Power Word: Shield a la fila 3. Shadow recibe Dark Inspiration, pierde Improved Fade y Shadow Infinity, e Improved Mind Blast pasa a la fila 2. Las builds de abajo y la calculadora de talentos siguen los nuevos árboles; las builds mantienen los mismos talentos. Todos los cambios están en [este artículo](/es/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Build de Discipline para el nivel 30
 
-El mismo estilo con varita, con las menos pausas posibles. [Abre la build en la calculadora de talentos](/es/talents/priest/?t=024013011305001).
+El mismo estilo con varita, con las menos pausas posibles. [Abre la build en la calculadora de talentos](/es/talents/priest/?t=024015011330001).
 
 | Talento | Puntos |
 |---|---|
@@ -98,7 +98,7 @@ En solitario, la rotación es la de Discipline sin Penance: Power Word: Shield, 
 
 ## Build de Shadow para el nivel 30
 
-Para quien prefiere hacer daño, no quiere sanar y no quiere esperar a Shadowform en el 40. [Abre la build en la calculadora de talentos](/es/talents/priest/?t=--3050204012013).
+Para quien prefiere hacer daño, no quiere sanar y no quiere esperar a Shadowform en el 40. [Abre la build en la calculadora de talentos](/es/talents/priest/?t=--305420012013).
 
 | Talento | Puntos |
 |---|---|

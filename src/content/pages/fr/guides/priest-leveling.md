@@ -55,11 +55,11 @@ Utilisez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1
 
 Stats pour tous les builds à ces niveaux : d'abord Intellect et puissance des sorts, puis Stamina et Spirit, puis armure.
 
-Le build bêta du 15 octobre place Mental Strength en rangée 2, où il augmente désormais l’Intelligence, et Improved Power Word: Shield en rangée 3. Shadow reçoit Dark Inspiration, perd Improved Fade et Shadow Infinity, et Improved Mind Blast passe en rangée 2. Les builds ci-dessous et le calculateur de talents montrent encore les arbres précédents. Tous les changements sont dans [cet article](/fr/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+Le build bêta du 15 octobre place Mental Strength en rangée 2, où il augmente désormais l’Intelligence, et Improved Power Word: Shield en rangée 3. Shadow reçoit Dark Inspiration, perd Improved Fade et Shadow Infinity, et Improved Mind Blast passe en rangée 2. Les builds ci-dessous et le calculateur de talents suivent les nouveaux arbres ; les builds gardent les mêmes talents. Tous les changements sont dans [cet article](/fr/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Build Discipline niveau 30
 
-Le même style à la baguette, avec le moins de pauses possible. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=024013011305001).
+Le même style à la baguette, avec le moins de pauses possible. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=024015011330001).
 
 | Talent | Points |
 |---|---|
@@ -98,7 +98,7 @@ En solo, la rotation est celle de Discipline sans Penance : Power Word: Shield, 
 
 ## Build Shadow niveau 30
 
-Pour ceux qui préfèrent les dégâts, ne veulent pas soigner et ne veulent pas attendre Shadowform au niveau 40. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=--3050204012013).
+Pour ceux qui préfèrent les dégâts, ne veulent pas soigner et ne veulent pas attendre Shadowform au niveau 40. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=--305420012013).
 
 | Talent | Points |
 |---|---|

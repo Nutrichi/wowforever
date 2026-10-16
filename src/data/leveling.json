@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "read": "2026-10-10",
- "clientBuild": "1.60.1.70338",
+ "clientBuild": "1.60.1.70425",
  "classes": [
   {
    "id": "druid",
@@ -198,9 +198,9 @@
       "discipline/twin-disciplines",
       "discipline/twin-disciplines",
       "discipline/twin-disciplines",
-      "discipline/improved-power-word-shield",
-      "discipline/improved-power-word-shield",
-      "discipline/improved-power-word-shield",
+      "discipline/mental-strength",
+      "discipline/mental-strength",
+      "discipline/mental-strength",
       "discipline/martyrdom",
       "discipline/martyrdom",
       "discipline/inner-focus",
@@ -220,6 +220,9 @@
       "discipline/power-in-light",
       "discipline/holy-precision",
       "discipline/holy-precision",
+      "discipline/mental-strength",
+      "discipline/mental-strength",
+      "discipline/mental-strength",
       "discipline/improved-power-word-shield",
       "discipline/improved-power-word-shield",
       "discipline/improved-power-word-shield",
@@ -231,15 +234,12 @@
       "discipline/improved-inner-fire",
       "discipline/improved-inner-fire",
       "discipline/improved-inner-fire",
-      "discipline/mental-strength",
-      "discipline/mental-strength",
       "discipline/penance",
       "shadow/spirit-tap",
       "shadow/spirit-tap",
       "shadow/spirit-tap",
       "shadow/spirit-tap",
       "shadow/spirit-tap",
-      "holy/holy-specialization",
       "holy/holy-specialization",
       "holy/holy-specialization",
       "holy/holy-specialization"
@@ -286,19 +286,19 @@
       "discipline/twin-disciplines",
       "discipline/twin-disciplines",
       "discipline/twin-disciplines",
-      "discipline/improved-power-word-shield",
-      "discipline/improved-power-word-shield",
-      "discipline/improved-power-word-shield",
+      "discipline/mental-strength",
+      "discipline/mental-strength",
+      "discipline/mental-strength",
       "discipline/martyrdom",
       "discipline/martyrdom",
+      "discipline/improved-power-word-shield",
+      "discipline/improved-power-word-shield",
+      "discipline/improved-power-word-shield",
       "discipline/inner-focus",
       "discipline/meditation",
       "discipline/meditation",
       "discipline/meditation",
-      "discipline/mental-agility",
-      "discipline/mental-strength",
-      "discipline/mental-strength",
-      "discipline/mental-strength"
+      "discipline/mental-agility"
      ]
     }
    ]
@@ -397,9 +397,9 @@
       "elemental/elemental-alacrity",
       "elemental/reverberation",
       "elemental/reverberation",
-      "elemental/call-of-thunder",
-      "elemental/improved-fire-nova",
-      "elemental/improved-fire-nova"
+      "elemental/concussion",
+      "elemental/concussion",
+      "elemental/concussion"
      ]
     }
    ]
@@ -433,10 +433,10 @@
       "affliction/malevolence",
       "affliction/malevolence",
       "affliction/siphon-life",
-      "affliction/malediction",
-      "affliction/malediction",
-      "affliction/malediction",
-      "affliction/malediction",
+      "affliction/nightfall",
+      "affliction/nightfall",
+      "affliction/improved-life-tap",
+      "affliction/improved-life-tap",
       "affliction/shadow-mastery"
      ]
     }

@@ -62,11 +62,11 @@ Deze build zet 21 punten in op drain tanken. Met 5 punten in <a class="wf-wh wf-
 | **Improved Corruption** | Op 5/5 wordt <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> instant en doet 10% meer schade |
 | **Suppression** | 1% hit en 4% minder threat per punt. 4 punten halen alle misses weg tegen vijanden van je level |
 | **Improved Drains** | Drain Life en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1120"><img class="wf-wh__icon" src="/wh/spell_shadow_haunting.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Soul</a> doen 20% meer op 3/3 |
-| **Fel Concentration** | Tot 70% kans dat schade je drains niet onderbreekt |
+| **Fel Concentration** | Tot 70% kans dat schade je drains niet vertraagt |
 | **Improved Life Tap** | 20% meer mana uit Life Tap op 2/2 |
 | **Amplify Curse** | Een sterkere Bane of Agony bij elke cooldown, nodig voor <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18223"><img class="wf-wh__icon" src="/wh/spell_shadow_grimward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Exhaustion</a> |
 | **Soul Siphon** | Drains doen per punt 4% meer per Affliction-effect op het doelwit, tot 36% op 3/3 |
-| **Malediction** | 1% meer periodieke schade per punt, Drain Life inbegrepen |
+| **Grim Reach** | 10% meer bereik voor Affliction-spells per punt, 20% op 2/2 |
 
 **Pandemic** verhoogt alleen de critical strike-schade. Met weinig crit op level 30 levert het weinig op, dus het kan wachten. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** doet weinig schade, maar betaalt zichzelf terug in lange gevechten en telt als Affliction-effect voor Soul Siphon.
 

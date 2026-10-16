@@ -55,11 +55,11 @@ Gebruik <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17
 
 Stats voor elke build op deze levels: eerst Intellect en spell damage, dan Stamina en Spirit, dan armor.
 
-De beta-build van 15 oktober zet Mental Strength in rij 2, waar het nu Intellect verhoogt, en Improved Power Word: Shield in rij 3. Shadow krijgt Dark Inspiration, verliest Improved Fade en Shadow Infinity, en Improved Mind Blast gaat naar rij 2. De builds hieronder en de talentcalculator tonen nog de vorige bomen. Alle wijzigingen staan in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+De beta-build van 15 oktober zet Mental Strength in rij 2, waar het nu Intellect verhoogt, en Improved Power Word: Shield in rij 3. Shadow krijgt Dark Inspiration, verliest Improved Fade en Shadow Infinity, en Improved Mind Blast gaat naar rij 2. De builds hieronder en de talentcalculator volgen de nieuwe bomen; de builds houden dezelfde talenten. Alle wijzigingen staan in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Discipline-build voor level 30
 
-Dezelfde wandstijl als ervoor, met zo weinig mogelijk pauzes. [Open de build in de talentcalculator](/nl/talents/priest/?t=024013011305001).
+Dezelfde wandstijl als ervoor, met zo weinig mogelijk pauzes. [Open de build in de talentcalculator](/nl/talents/priest/?t=024015011330001).
 
 | Talent | Punten |
 |---|---|
@@ -98,7 +98,7 @@ Alleen is de rotatie dezelfde als voor Discipline zonder Penance: Power Word: Sh
 
 ## Shadow-build voor level 30
 
-Voor wie liever schade doet, niet wil healen en niet tot 40 wil wachten op Shadowform. [Open de build in de talentcalculator](/nl/talents/priest/?t=--3050204012013).
+Voor wie liever schade doet, niet wil healen en niet tot 40 wil wachten op Shadowform. [Open de build in de talentcalculator](/nl/talents/priest/?t=--305420012013).
 
 | Talent | Punten |
 |---|---|

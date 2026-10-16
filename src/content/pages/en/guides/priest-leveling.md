@@ -54,11 +54,11 @@ Use <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17"><i
 
 Stats for every build at these levels: first Intellect and spell damage, then Stamina and Spirit, then armor.
 
-The beta build of 15 October moves Mental Strength to row 2, where it now raises Intellect, and Improved Power Word: Shield to row 3. Shadow gets Dark Inspiration, loses Improved Fade and Shadow Infinity, and Improved Mind Blast moves to row 2. The builds below and the talent calculator still show the earlier trees. All changes are in [this post](/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+The beta build of 15 October moves Mental Strength to row 2, where it now raises Intellect, and Improved Power Word: Shield to row 3. Shadow gets Dark Inspiration, loses Improved Fade and Shadow Infinity, and Improved Mind Blast moves to row 2. The builds below and the talent calculator follow the new trees; the builds keep the same talents. All changes are in [this post](/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Level 30 Discipline build
 
-The same wand style as before, with as few pauses as possible. [Open the build in the talent calculator](/talents/priest/?t=024013011305001).
+The same wand style as before, with as few pauses as possible. [Open the build in the talent calculator](/talents/priest/?t=024015011330001).
 
 | Talent | Points |
 |---|---|
@@ -97,7 +97,7 @@ The rotation alone is the same as for Discipline without Penance: Power Word: Sh
 
 ## Level 30 Shadow build
 
-For players who prefer damage, do not want to heal and do not want to wait for Shadowform at 40. [Open the build in the talent calculator](/talents/priest/?t=--3050204012013).
+For players who prefer damage, do not want to heal and do not want to wait for Shadowform at 40. [Open the build in the talent calculator](/talents/priest/?t=--305420012013).
 
 | Talent | Points |
 |---|---|

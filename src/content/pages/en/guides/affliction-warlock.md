@@ -61,11 +61,11 @@ This build uses 21 points for drain tanking. With 5 points in <a class="wf-wh wf
 | **Improved Corruption** | At 5/5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> becomes instant and deals 10% more damage |
 | **Suppression** | 1% hit and 4% less threat per point. 4 points remove misses against enemies of your level |
 | **Improved Drains** | Drain Life and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1120"><img class="wf-wh__icon" src="/wh/spell_shadow_haunting.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Soul</a> deal 20% more at 3/3 |
-| **Fel Concentration** | Up to 70% chance that damage does not interrupt your drains |
+| **Fel Concentration** | Up to 70% chance that damage does not push back your drains |
 | **Improved Life Tap** | 20% more mana from Life Tap at 2/2 |
 | **Amplify Curse** | A stronger Bane of Agony on every cooldown, needed for <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18223"><img class="wf-wh__icon" src="/wh/spell_shadow_grimward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Exhaustion</a> |
 | **Soul Siphon** | Drains deal 4% more per Affliction effect on the target per point, up to 36% at 3/3 |
-| **Malediction** | 1% more periodic damage per point, Drain Life included |
+| **Grim Reach** | 10% more range for Affliction spells per point, 20% at 2/2 |
 
 **Pandemic** only raises critical strike damage. With little crit at level 30 it adds little, so it can wait. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** deals little damage, but it pays for itself on long fights and counts as an Affliction effect for Soul Siphon.
 

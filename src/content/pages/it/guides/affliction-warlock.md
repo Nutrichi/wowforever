@@ -62,11 +62,11 @@ Questa build usa 21 punti per il drain tank. Con 5 punti in <a class="wf-wh wf-s
 | **Improved Corruption** | A 5/5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> diventa istantaneo e infligge il 10% di danni in più |
 | **Suppression** | 1% di colpo e 4% di minaccia in meno per punto. 4 punti eliminano i mancati contro nemici del tuo livello |
 | **Improved Drains** | Drain Life e <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1120"><img class="wf-wh__icon" src="/wh/spell_shadow_haunting.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Soul</a> fanno il 20% in più a 3/3 |
-| **Fel Concentration** | Fino al 70% di probabilità che i danni non interrompano i tuoi drenaggi |
+| **Fel Concentration** | Fino al 70% di probabilità che i danni non rallentino i tuoi drenaggi |
 | **Improved Life Tap** | Il 20% di mana in più da Life Tap a 2/2 |
 | **Amplify Curse** | Una Bane of Agony più forte a ogni ricarica, necessaria per <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18223"><img class="wf-wh__icon" src="/wh/spell_shadow_grimward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Exhaustion</a> |
 | **Soul Siphon** | I drenaggi fanno il 4% in più per ogni effetto di Affliction sul bersaglio e per punto, fino al 36% a 3/3 |
-| **Malediction** | 1% di danni periodici in più per punto, Drain Life compreso |
+| **Grim Reach** | 10% di portata in più per gli incantesimi di Affliction per punto, 20% a 2/2 |
 
 **Pandemic** aumenta solo i danni critici. Con pochi critici al livello 30 rende poco e può aspettare. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** fa pochi danni, ma si ripaga nei combattimenti lunghi e conta come effetto di Affliction per Soul Siphon.
 

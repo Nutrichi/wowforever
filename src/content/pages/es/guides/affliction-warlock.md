@@ -62,11 +62,11 @@ Esta build usa 21 puntos para el drain tank. Con 5 puntos en <a class="wf-wh wf-
 | **Improved Corruption** | A 5/5, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> pasa a ser instantáneo y hace un 10 % más de daño |
 | **Suppression** | Un 1 % de golpe y un 4 % menos de amenaza por punto. 4 puntos eliminan los fallos contra enemigos de tu nivel |
 | **Improved Drains** | Drain Life y <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1120"><img class="wf-wh__icon" src="/wh/spell_shadow_haunting.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Soul</a> hacen un 20 % más a 3/3 |
-| **Fel Concentration** | Hasta un 70 % de probabilidad de que el daño no interrumpa tus drenajes |
+| **Fel Concentration** | Hasta un 70 % de probabilidad de que el daño no retrase tus drenajes |
 | **Improved Life Tap** | Un 20 % más de maná con Life Tap a 2/2 |
 | **Amplify Curse** | Una Bane of Agony más fuerte en cada reutilización, necesaria para <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18223"><img class="wf-wh__icon" src="/wh/spell_shadow_grimward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Exhaustion</a> |
 | **Soul Siphon** | Los drenajes hacen un 4 % más por cada efecto de Affliction en el objetivo y por punto, hasta un 36 % a 3/3 |
-| **Malediction** | Un 1 % más de daño periódico por punto, Drain Life incluido |
+| **Grim Reach** | Un 10 % más de alcance para los hechizos de Affliction por punto, un 20 % con 2/2 |
 
 **Pandemic** solo aumenta el daño crítico. Con poco crítico a nivel 30 aporta poco, así que puede esperar. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** hace poco daño, pero se paga solo en combates largos y cuenta como efecto de Affliction para Soul Siphon.
 

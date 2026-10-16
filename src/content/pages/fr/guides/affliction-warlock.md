@@ -62,11 +62,11 @@ Ce build met 21 points dans le drain tanking. Avec 5 points dans <a class="wf-wh
 | **Improved Corruption** | À 5/5, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> devient instantané et inflige 10 % de dégâts en plus |
 | **Suppression** | 1 % de toucher et 4 % de menace en moins par point. 4 points suppriment les échecs contre les ennemis de votre niveau |
 | **Improved Drains** | Drain Life et <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1120"><img class="wf-wh__icon" src="/wh/spell_shadow_haunting.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Soul</a> infligent 20 % de plus à 3/3 |
-| **Fel Concentration** | Jusqu'à 70 % de chances que les dégâts n'interrompent pas vos drains |
+| **Fel Concentration** | Jusqu'à 70 % de chances que les dégâts ne retardent pas vos drains |
 | **Improved Life Tap** | 20 % de mana en plus avec Life Tap à 2/2 |
 | **Amplify Curse** | Une Bane of Agony plus forte à chaque recharge, nécessaire pour <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18223"><img class="wf-wh__icon" src="/wh/spell_shadow_grimward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Exhaustion</a> |
 | **Soul Siphon** | Les drains infligent 4 % de plus par effet d'Affliction sur la cible et par point, jusqu'à 36 % à 3/3 |
-| **Malediction** | 1 % de dégâts périodiques en plus par point, Drain Life compris |
+| **Grim Reach** | 10 % de portée en plus pour les sorts d'Affliction par point, 20 % à 2/2 |
 
 **Pandemic** n'augmente que les dégâts critiques. Avec peu de critique au niveau 30, il rapporte peu et peut attendre. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** inflige peu de dégâts, mais se rentabilise sur les longs combats et compte comme effet d'Affliction pour Soul Siphon.
 

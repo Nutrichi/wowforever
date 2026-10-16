@@ -62,11 +62,11 @@ Dieser Build steckt 21 Punkte ins Drain-Tanken. Mit 5 Punkten in <a class="wf-wh
 | **Improved Corruption** | Auf 5/5 wird <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> sofort und macht 10 % mehr Schaden |
 | **Suppression** | 1 % Trefferchance und 4 % weniger Bedrohung pro Punkt. 4 Punkte entfernen Fehlschläge gegen Gegner deines Levels |
 | **Improved Drains** | Drain Life und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1120"><img class="wf-wh__icon" src="/wh/spell_shadow_haunting.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Soul</a> machen auf 3/3 20 % mehr |
-| **Fel Concentration** | Bis zu 70 % Chance, dass Schaden deine Drains nicht unterbricht |
+| **Fel Concentration** | Bis zu 70 % Chance, dass Schaden deine Drains nicht verzögert |
 | **Improved Life Tap** | 20 % mehr Mana aus Life Tap auf 2/2 |
 | **Amplify Curse** | Eine stärkere Bane of Agony bei jeder Abklingzeit, nötig für <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18223"><img class="wf-wh__icon" src="/wh/spell_shadow_grimward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Exhaustion</a> |
 | **Soul Siphon** | Drains machen pro Punkt 4 % mehr je Affliction-Effekt auf dem Ziel, bis 36 % auf 3/3 |
-| **Malediction** | 1 % mehr periodischer Schaden pro Punkt, Drain Life eingeschlossen |
+| **Grim Reach** | 10 % mehr Reichweite für Affliction-Zauber pro Punkt, 20 % bei 2/2 |
 
 **Pandemic** erhöht nur den kritischen Schaden. Mit wenig Krit auf Level 30 bringt es wenig und kann warten. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** macht wenig Schaden, zahlt sich aber in langen Kämpfen aus und zählt als Affliction-Effekt für Soul Siphon.
 

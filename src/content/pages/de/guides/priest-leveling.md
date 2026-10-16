@@ -55,11 +55,11 @@ Nutze <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17">
 
 Werte für jeden Build auf diesen Leveln: zuerst Intellect und Zaubermacht, dann Stamina und Spirit, dann Rüstung.
 
-Der Beta-Build vom 15. Oktober setzt Mental Strength in Reihe 2, wo es jetzt die Intelligenz erhöht, und Improved Power Word: Shield in Reihe 3. Shadow bekommt Dark Inspiration, verliert Improved Fade und Shadow Infinity, und Improved Mind Blast wandert in Reihe 2. Die Builds unten und der Talentrechner zeigen noch die vorigen Bäume. Alle Änderungen stehen in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+Der Beta-Build vom 15. Oktober setzt Mental Strength in Reihe 2, wo es jetzt die Intelligenz erhöht, und Improved Power Word: Shield in Reihe 3. Shadow bekommt Dark Inspiration, verliert Improved Fade und Shadow Infinity, und Improved Mind Blast wandert in Reihe 2. Die Builds unten und der Talentrechner folgen den neuen Bäumen; die Builds behalten dieselben Talente. Alle Änderungen stehen in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Discipline-Build für Level 30
 
-Derselbe Zauberstab-Stil wie vorher, mit möglichst wenigen Pausen. [Build im Talentrechner öffnen](/de/talents/priest/?t=024013011305001).
+Derselbe Zauberstab-Stil wie vorher, mit möglichst wenigen Pausen. [Build im Talentrechner öffnen](/de/talents/priest/?t=024015011330001).
 
 | Talent | Punkte |
 |---|---|
@@ -98,7 +98,7 @@ Allein ist die Rotation dieselbe wie bei Discipline ohne Penance: Power Word: Sh
 
 ## Shadow-Build für Level 30
 
-Für alle, die lieber Schaden machen, nicht heilen wollen und nicht bis 40 auf Shadowform warten möchten. [Build im Talentrechner öffnen](/de/talents/priest/?t=--3050204012013).
+Für alle, die lieber Schaden machen, nicht heilen wollen und nicht bis 40 auf Shadowform warten möchten. [Build im Talentrechner öffnen](/de/talents/priest/?t=--305420012013).
 
 | Talent | Punkte |
 |---|---|
