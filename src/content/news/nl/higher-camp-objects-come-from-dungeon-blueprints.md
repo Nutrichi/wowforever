@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Camping in WoW Forever krijgt een tweede en derde tier uit blueprints. Een aantal valt in dungeons, van The Deadmines tot Shadowfang Keep. Het eerste object van elke tradeskill krijg je gratis met een quest bij skill 20, schrijft Warcraft Tavern.
+Camping in WoW Forever krijgt een tweede en derde tier uit blueprints. Een aantal valt in dungeons, van The Deadmines tot Shadowfang Keep. Het eerste object van elke tradeskill krijg je gratis met een quest bij skill 20.
 
 ## Drie tiers per tradeskill
 
@@ -31,7 +31,7 @@ Een hogere tier geeft dezelfde buff als tier 1 en voegt een werkplaats of een di
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Razorclaw the Butcher in Shadowfang Keep |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a> | Opgevist uit pools |
 
-Voor de andere blueprints geeft Warcraft Tavern nog geen bron.
+Waar de andere blueprints vandaan komen, is nog niet bekend.
 
 ## De regels van een kamp
 

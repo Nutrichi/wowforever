@@ -44,7 +44,7 @@ A **Yojamba Isle**, a ovest di Zul'Gurub. Exzhal dà le missioni, Vinchaxa accet
 | Bloodlord Mandokir e Jin'do the Hexxer | 200 |
 | Hakkar | 400 |
 
-Icy Veins calcola circa 2.400-3.000 punti di reputazione per un giro completo. Zul'Gurub si azzera ogni tre giorni.
+Un giro completo dà circa 2.400-3.000 punti di reputazione. Zul'Gurub si azzera ogni tre giorni.
 
 ### Monete
 

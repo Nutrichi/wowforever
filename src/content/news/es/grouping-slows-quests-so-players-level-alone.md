@@ -1,6 +1,6 @@
 ---
 title: "Los jugadores suben solos porque el grupo frena"
-description: "Capas abarrotadas, botines de misión que no se comparten y recompensas de mazmorra más débiles hacen que subir solo sea más rápido en la beta, sostiene Icy Veins, con quejas de Reddit y los foros."
+description: "Capas abarrotadas, botines de misión que no se comparten y recompensas de mazmorra más débiles hacen que subir solo sea más rápido en la beta, según las quejas de Reddit y los foros."
 date: 2026-10-04T20:30:00+02:00
 category: forever
 lang: es
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-En la beta de World of Warcraft: Forever los jugadores suelen subir de nivel solos, escribe Icy Veins. Las zonas abarrotadas convierten las misiones en una carrera por los objetivos, y un grupo necesita más botín. Las mazmorras también rinden menos desde los últimos nerfs.
+En la beta de World of Warcraft: Forever los jugadores suelen subir de nivel solos. Las zonas abarrotadas convierten las misiones en una carrera por los objetivos, y un grupo necesita más botín. Las mazmorras también rinden menos desde los últimos nerfs.
 
 El artículo de Zweihander salió el 4 de octubre a las 15.19, hora belga. Reúne quejas de Reddit y de los foros de Blizzard, y añade algunas propuestas propias.
 
@@ -21,13 +21,13 @@ El artículo de Zweihander salió el 4 de octubre a las 15.19, hora belga. Reún
 
 ## De vuelta al mundo abierto
 
-En Classic, los enemigos élite de las mazmorras daban 2,5 veces más experiencia, según Icy Veins. Por eso los jugadores repetían las mismas mazmorras una y otra vez. Forever quita casi toda la experiencia a los enemigos de mazmorra y la pasa a las misiones de mazmorra, como [Blizzard anunció en septiembre](/es/news/wow-forever-dungeon-experience-changes/). Matar monstruos en una mazmorra da ahora menos que hacer misiones solo fuera.
+En Classic, los enemigos élite de las mazmorras daban 2,5 veces más experiencia. Por eso los jugadores repetían las mismas mazmorras una y otra vez. Forever quita casi toda la experiencia a los enemigos de mazmorra y la pasa a las misiones de mazmorra, como [Blizzard anunció en septiembre](/es/news/wow-forever-dungeon-experience-changes/). Matar monstruos en una mazmorra da ahora menos que hacer misiones solo fuera.
 
 ![Un grupo de jugadores lucha contra esqueletos y una abominación en las calles en llamas de Stratholme, una captura de World of Warcraft](../../../assets/posts/2026-10-04-wow-forever-group-fights-in-stratholme.jpg)
 
 ## Zonas abarrotadas
 
-Con más jugadores fuera, la carrera por los objetivos de misión crece. Las capas están ahora ligadas a una zona, así que cada capa está llena de jugadores, escribe Icy Veins. Antes, una capa tranquila permitía hacer misiones sin interrupciones. En el subreddit classicwow, un jugador espera que las capas abarrotadas sean solo cosa de la beta.
+Con más jugadores fuera, la carrera por los objetivos de misión crece. Las capas están ahora ligadas a una zona, así que cada capa está llena de jugadores. Antes, una capa tranquila permitía hacer misiones sin interrupciones. En el subreddit classicwow, un jugador espera que las capas abarrotadas sean solo cosa de la beta.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wp7zyy/way_overpopulated_layers_i_hope_its_just_for_the">
   <button type="button" class="wf-embed__play">
@@ -39,11 +39,11 @@ Con más jugadores fuera, la carrera por los objetivos de misión crece. Las cap
   </button>
 </figure>
 
-Los objetos de misión en el suelo tienen muy pocos puntos de aparición y tardan en volver. Varios jugadores esperan en cada aparición de un enemigo de misión. Las misiones de escolta son lo peor: a menudo solo vuelven cada 5 a 15 minutos, y el temporizador empieza cuando termina la escolta anterior. Blizzard ha subido la reaparición en varias zonas, pero según Icy Veins apenas ayuda.
+Los objetos de misión en el suelo tienen muy pocos puntos de aparición y tardan en volver. Varios jugadores esperan en cada aparición de un enemigo de misión. Las misiones de escolta son lo peor: a menudo solo vuelven cada 5 a 15 minutos, y el temporizador empieza cuando termina la escolta anterior. Blizzard ha subido la reaparición en varias zonas, pero apenas parece ayudar.
 
 ## Por qué un grupo no ayuda
 
-Los botines y objetos de misión no se comparten en grupo. Cada miembro más significa más botín que reunir antes de que el grupo pueda seguir, así que los jugadores rechazan invitaciones, escribe Icy Veins.
+Los botines y objetos de misión no se comparten en grupo. Cada miembro más significa más botín que reunir antes de que el grupo pueda seguir, así que los jugadores rechazan invitaciones.
 
 ![Dos jugadores luchan contra un gran thunder lizard en un cañón rojo de Durotar, una captura de World of Warcraft](../../../assets/posts/2026-10-04-wow-forever-leveling-alone-in-durotar.jpg)
 
@@ -61,17 +61,17 @@ Blizzard ya reparte los botines de misión de forma más equilibrada en un grupo
 
 ## Menos de las mazmorras
 
-Desde el parche de la beta del 1 de octubre, las misiones de mazmorra dan [un 50% menos de experiencia adicional](/es/news/dungeon-quests-give-50-percent-less-bonus-experience/). Solo baja el bonus que añadió Forever; la experiencia base se mantiene. Sin experiencia de los enemigos, la misma partida rinde aún menos, según Icy Veins.
+Desde el parche de la beta del 1 de octubre, las misiones de mazmorra dan [un 50% menos de experiencia adicional](/es/news/dungeon-quests-give-50-percent-less-bonus-experience/). Solo baja el bonus que añadió Forever; la experiencia base se mantiene. Sin experiencia de los enemigos, la misma partida rinde aún menos.
 
 ![Arte conceptual de Wailing Caverns: una cascada en una cueva verde con ruinas y viejas columnas, una imagen oficial de World of Warcraft](../../../assets/posts/2026-10-04-wow-forever-wailing-caverns-waterfall.jpg)
 
-Icy Veins pone Wailing Caverns como ejemplo. Deviate Hides puede requerir varias partidas, la mazmorra es larga y sus enemigos no se pueden evitar. Quien sale tras una hora con dos o tres misiones hechas tiene pocos motivos para una segunda partida. Con tus misiones terminadas, una mazmorra ya no ofrece casi nada, así que ayudar a otros también cuesta tiempo.
+Wailing Caverns es un buen ejemplo. Deviate Hides puede requerir varias partidas, la mazmorra es larga y sus enemigos no se pueden evitar. Quien sale tras una hora con dos o tres misiones hechas tiene pocos motivos para una segunda partida. Con tus misiones terminadas, una mazmorra ya no ofrece casi nada, así que ayudar a otros también cuesta tiempo.
 
 Las recompensas de misión y los botines de mazmorra también perdieron stats con el parche del 1 de octubre, confirmó en los foros el Senior Game Designer Aidan Moon, conocido como Zirene. Algunos jugadores vieron recompensas azules convertirse en versiones verdes más débiles, como los [collares por 10 libros](/es/news/necklaces-for-10-books-drop-to-green-quality/).
 
 ## Saltos y jugadores nuevos
 
-Como los enemigos de mazmorra apenas dan experiencia, los grupos se saltan todo lo que no suelta equipo ni tiene misión. Es rápido para los veteranos, pero intimidante para los nuevos, escribe Icy Veins. Las mazmorras de nivel, que deberían enseñar a jugar en grupo, se parecen a partidas de final de juego, con saltos y rutas que los recién llegados no conocen.
+Como los enemigos de mazmorra apenas dan experiencia, los grupos se saltan todo lo que no suelta equipo ni tiene misión. Es rápido para los veteranos, pero intimidante para los nuevos. Las mazmorras de nivel, que deberían enseñar a jugar en grupo, se parecen a partidas de final de juego, con saltos y rutas que los recién llegados no conocen.
 
 En el subreddit classicwow, redlow0992 escribe que los jugadores nuevos se sienten mal en grupos de veteranos que se saltan media mazmorra. Los veteranos, a su vez, se frustran con los recién llegados que no conocen los saltos.
 
@@ -87,7 +87,7 @@ En el subreddit classicwow, redlow0992 escribe que los jugadores nuevos se sient
 
 ## Tanques y sanadores
 
-Las especializaciones de tanque y de sanación suben más despacio en solitario que las de daño, así que los nerfs les afectan más. Dual Specialization se desbloquea a nivel 40 y cuesta 50 de oro, demasiado para muchos jugadores nuevos, según Icy Veins. Propone bajar tanto el precio como el nivel. En el subreddit wowforever, los sanadores piden a Blizzard que no se olvide de ellos.
+Las especializaciones de tanque y de sanación suben más despacio en solitario que las de daño, así que los nerfs les afectan más. Dual Specialization se desbloquea a nivel 40 y cuesta 50 de oro, demasiado para muchos jugadores nuevos. Propone bajar tanto el precio como el nivel. En el subreddit wowforever, los sanadores piden a Blizzard que no se olvide de ellos.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/wowforever/comments/1wvmi4k/healers_the_50_dungeon_quest_xp_nerf_blizzard">
   <button type="button" class="wf-embed__play">
@@ -99,4 +99,4 @@ Las especializaciones de tanque y de sanación suben más despacio en solitario 
   </button>
 </figure>
 
-Icy Veins se pregunta si compartir los botines de misión en grupo dañaría de verdad la experiencia Classic. No se sabe si Blizzard cambiará algo antes del lanzamiento del 4 de noviembre.
+Queda la pregunta de si compartir los botines de misión en grupo dañaría de verdad la experiencia Classic. No se sabe si Blizzard cambiará algo antes del lanzamiento del 4 de noviembre.

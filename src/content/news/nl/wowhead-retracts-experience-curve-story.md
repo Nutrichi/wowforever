@@ -1,7 +1,8 @@
 ---
-title: "Wowhead trekt zijn bericht over de ervaringscurve in"
-description: "Wowhead meldde dat levelen in WoW Forever veel minder ervaring kost. Blizzard zegt dat de waarden ongewijzigd zijn, en de site heeft het bericht ingetrokken."
+title: "De ervaringscurve van Forever is toch niet lager"
+description: "Een bericht stelde dat levelen in WoW Forever veel minder ervaring kost. Blizzard zegt dat de waarden ongewijzigd zijn, en het bericht is ingetrokken."
 date: 2026-09-22T23:30:00+02:00
+updated: 2026-10-16T10:00:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-09-21-wow-forever-mulgore.jpg
@@ -13,15 +14,15 @@ featured: false
 draft: false
 manual: true
 ---
-Wowhead heeft zijn bericht over de ervaringscurve in WoW Forever ingetrokken. De site schreef dat levelen veel minder ervaring kost dan in Classic. Dat klopt niet. Blizzard zegt dat de waarden ongewijzigd zijn, en het bestand waar de gegevens uit kwamen, gebruikt het spel niet.
+Levelen in WoW Forever kost niet minder ervaring dan in Classic. Een bericht dat dat beweerde, is ingetrokken. Blizzard zegt dat de waarden ongewijzigd zijn, en het bestand waar de gegevens uit kwamen, gebruikt het spel niet.
 
-Het oorspronkelijke artikel verscheen op 22 september en ging snel rond. Het stelde dat de ervaring per level over de hele lijn omlaag ging, en dat de klim naar 60 een geleidelijke curve was geworden in plaats van een reeks trappen.
+Het bericht verscheen op 22 september en ging snel rond. Het stelde dat de ervaring per level over de hele lijn omlaag ging, en dat de klim naar 60 een geleidelijke curve was geworden in plaats van een reeks trappen.
+
+De intrekking staat nu boven het oorspronkelijke artikel:
 
 > We can confirm that there are no changes to the experience amounts required to level in WoW Forever.
 
-Die regel komt van Blainie, die de nieuwsredactie van Wowhead leidt, in een nota boven het artikel. Blizzard nam na publicatie contact op met de site en legde uit hoe het spel de ervaringswaarden voor deze versie ophaalt. De gedatamined cijfers stonden in een bestand dat de client niet leest; een tweede bestand, dat de redactie niet zag, is het bestand dat wel gebruikt wordt.
-
-Wowhead laat het artikel online staan met de intrekking erboven, in plaats van het te wissen.
+Blizzard legde uit hoe het spel de ervaringswaarden voor deze versie ophaalt. De gedatamined cijfers stonden in een bestand dat de client niet leest; een tweede bestand, dat van buitenaf niet te zien was, is het bestand dat wel gebruikt wordt.
 
 ## Wat wel veranderd is
 

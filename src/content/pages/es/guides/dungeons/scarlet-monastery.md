@@ -48,7 +48,7 @@ La beta de WoW Forever llega al nivel 30 desde el 1 de octubre. Los testers comp
 
 | Ala | Jefes | Nivel de los jefes |
 |---|---|---|
-El botín de los otros dos raros viene de Wowhead, con las estadísticas de los archivos de la beta.
+El botín de los otros dos raros tiene las estadísticas de los archivos de la beta.
 
 **<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6488">Fallen Champion</a>**
 
@@ -84,7 +84,7 @@ Los niveles salen de los datos de PNJ de la beta. El Graveyard y la Library est�
 | <a href="https://www.wowhead.com/forever/quest=1050">Mythology of the Titans</a><br>Alliance, nivel 28 | Library | Ironforge, Hall of Explorers: Librarian Mae Paledust /way 75 12 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7746"><img class="wf-wh__icon" src="/wh/inv_jewelry_talisman_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Explorers' League Commendation</a> |
 | <a href="https://www.wowhead.com/forever/quest=1951">Rituals of Power</a><br>Ambas, nivel 30 | Library | Thousand Needles , Shimmering Flats Raceway: Magus Tirth /way 78 75<br><em>Completa antes 3 misiones, empezando por Journey to the Marsh. Solo Mage.</em> | Aún no se sabe |
 
-Las misiones salen de los datos de Classic y aún pueden cambiar. Cada misión de mazmorra de Forever está en la [guía de mazmorras](/es/guides/dungeons/). Las recompensas vienen de Wowhead; Sword of Omen, Prophetic Cane y Dragon's Blood Necklace aún no están en sus datos de Forever.
+Las misiones salen de los datos de Classic y aún pueden cambiar. Cada misión de mazmorra de Forever está en la [guía de mazmorras](/es/guides/dungeons/). Sword of Omen, Prophetic Cane y Dragon's Blood Necklace aún no están en los datos de Forever.
 
 ## Graveyard
 
@@ -116,7 +116,7 @@ Para los otros dos raros, <a class="wf-wh wf-plain" href="https://www.wowhead.co
 
 ![Los tooltips de Loksey's Training Stick y Houndmaster Boomerang en la beta de World of Warcraft: Forever](../../../../../assets/posts/2026-10-03-wow-forever-lokseys-training-stick-and-houndmaster-boomerang.jpg)
 
-Wowhead también indica dos objetos más antiguos para Loksey:
+Listas de botín más antiguas indican dos objetos más para Loksey:
 
 | Objeto | Nuevo en Forever |
 |---|---|
@@ -125,7 +125,7 @@ Wowhead también indica dos objetos más antiguos para Loksey:
 
 ### Arcanist Doan
 
-Doan es de nivel 37, por encima del límite de la beta. Su botín según Wowhead, con las estadísticas de los archivos de la beta:
+Doan es de nivel 37, por encima del límite de la beta. Su botín, con las estadísticas de los archivos de la beta:
 
 | Objeto | Nuevo en Forever |
 |---|---|
@@ -136,7 +136,7 @@ Doan es de nivel 37, por encima del límite de la beta. Su botín según Wowhead
 
 ## Armory y Cathedral
 
-Herod en la Armory y Fairbanks, Mograine y Whitemane en la Cathedral son de nivel 40 a 42. Nadie en la beta llega aún a ellos a nivel; su botín viene de Wowhead, con las estadísticas de los archivos de la beta.
+Herod en la Armory y Fairbanks, Mograine y Whitemane en la Cathedral son de nivel 40 a 42. Nadie en la beta llega aún a ellos a nivel; su botín tiene las estadísticas de los archivos de la beta.
 
 ### Herod
 
@@ -146,7 +146,7 @@ Herod en la Armory y Fairbanks, Mograine y Whitemane en la Cathedral son de nive
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7719"><img class="wf-wh__icon" src="/wh/inv_helmet_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raging Berserker's Helm</a> | Sin cambios |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10330"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Leggings</a> | Parte de la Chain of the Scarlet Crusade, ver abajo |
 
-Wowhead también indica Herod's Shoulder, que aún no está en sus datos de Forever.
+Listas de botín más antiguas indican también Herod's Shoulder, que aún no está en los datos de Forever.
 
 ### High Inquisitor Fairbanks
 
@@ -170,7 +170,7 @@ Wowhead también indica Herod's Shoulder, que aún no está en sus datos de Fore
 |---|---|
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7721"><img class="wf-wh__icon" src="/wh/inv_hammer_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hand of Righteousness</a> | Ahora una maza de sanador: hasta 94 de sanación |
 
-Wowhead también indica Whitemane's Chapeau y el Triune Amulet, que aún no están en sus datos de Forever.
+Listas de botín más antiguas indican también Whitemane's Chapeau y el Triune Amulet, que aún no están en los datos de Forever.
 
 ![La armería del Scarlet Monastery, una sala redonda con estatuas y suelo rojo, una captura de World of Warcraft](../../../../../assets/posts/2026-10-03-wow-forever-scarlet-monastery-armory.jpg)
 
@@ -204,5 +204,5 @@ La comparación con Classic Era está en el [artículo sobre el set](/es/news/sc
 ## Lo que aún no se sabe
 
 - **Whitemane's Chapeau, el Triune Amulet y Herod's Shoulder**: si aún caen en Forever.
-- **Las recompensas de las misiones** que Wowhead aún no indica.
+- **Las recompensas de las misiones** que aún no se conocen.
 - **El Houndmaster Boomerang**: cada cuánto cae.

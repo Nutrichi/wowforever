@@ -24,7 +24,7 @@ First Aid è una professione secondaria, quindi non occupa mai uno dei tuoi due 
 ## Cosa cambia in Forever
 
 - **Le pozioni di cura** passano da Alchemy a First Aid. Funzionano in combattimento, quindi First Aid conviene anche ai guaritori.
-- **Rimedi** contro malattia e sanguinamento si aggiungono agli antiveleni. I nuovi non si usano in combattimento, scrive Warcraft Tavern.
+- **Rimedi** contro malattia e sanguinamento si aggiungono agli antiveleni. I nuovi non si usano in combattimento.
 - **Oggetti da campo:** un First Aid Kit per la Stamina, e due postazioni con pozioni all’accampamento.
 - **Le bende** di Classic ci sono ancora tutte.
 
@@ -106,7 +106,7 @@ Come funziona un accampamento è nella [guida al camping](/it/guides/camping/).
 
 ## Salire di livello
 
-Wowhead ora ha due percorsi completi. Entrambi chiedono gli stessi libri da 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> per il grado, e i manuali <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> e <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, tutti dai venditori Expert qui sopra. Si possono scambiare, quindi va bene anche la casa d’aste.
+Ora ci sono due percorsi completi. Entrambi chiedono gli stessi libri da 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> per il grado, e i manuali <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> e <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, tutti dai venditori Expert qui sopra. Si possono scambiare, quindi va bene anche la casa d’aste.
 
 **Il percorso veloce fino a 150: pozioni di cura.** Le pozioni saltano le bende e chiedono solo erbe, una fiala e spezie da un venditore di professioni.
 

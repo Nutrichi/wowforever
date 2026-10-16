@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Il camping di WoW Forever ottiene un secondo e un terzo livello dai blueprint. Diversi cadono nei dungeon, da The Deadmines a Shadowfang Keep. Il primo oggetto di ogni professione è gratis con una missione a 20 di abilità, scrive Warcraft Tavern.
+Il camping di WoW Forever ottiene un secondo e un terzo livello dai blueprint. Diversi cadono nei dungeon, da The Deadmines a Shadowfang Keep. Il primo oggetto di ogni professione è gratis con una missione a 20 di abilità.
 
 ## Tre livelli per professione
 
@@ -31,7 +31,7 @@ Un livello superiore dà lo stesso buff del livello 1 e aggiunge una postazione 
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Razorclaw the Butcher in Shadowfang Keep |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a> | Pescato nei banchi |
 
-Per gli altri blueprint, Warcraft Tavern non dà ancora una fonte.
+Da dove vengano gli altri blueprint, non si sa ancora.
 
 ## Le regole di un accampamento
 

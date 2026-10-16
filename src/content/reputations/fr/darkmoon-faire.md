@@ -50,7 +50,7 @@ Chaque remise donne 100 points de réputation et des Darkmoon Faire Prize Ticket
 | 4 | 12 | 30 | 2 500 en Neutral |
 | 5 | 20 | 40 | 5 999 en Friendly |
 
-Plusieurs joueurs signalent dans les commentaires de Wowhead que le palier 5 ne donne déjà plus de réputation vers 2 000 en Friendly, alors que la remise reste possible pour les tickets.
+Plusieurs joueurs signalent que le palier 5 ne donne déjà plus de réputation vers 2 000 en Friendly, alors que la remise reste possible pour les tickets.
 
 | Donneur de quête | Remises | Palier 1 | Palier 2 | Palier 3 | Palier 4 | Palier 5 |
 |---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Les cartes s'échangent, les bijoux sont Bind on Pickup et demandent le niveau 6
 ## Le chemin le plus rapide vers Exalted
 
 1. Rendez chaque palier tant que votre niveau et votre réputation le permettent ; un palier que vous sautez disparaît une fois sa limite dépassée.
-2. Ensuite, seuls les decks comptent. Wowhead compte environ 220 decks jusqu'à Exalted, c'est donc un objectif de collectionneur.
+2. Ensuite, seuls les decks comptent. Il faut environ 220 decks jusqu'à Exalted, c'est donc un objectif de collectionneur.
 
 ## Ce que les tickets achètent
 

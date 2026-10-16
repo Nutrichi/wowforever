@@ -7,7 +7,7 @@ updated: 2026-10-14
 lang: es
 faq:
   - q: "¿Qué nivel tiene el Excavation Site en WoW Forever?"
-    a: "Blizzard da un rango de 26 a 31. Las misiones se aceptan desde el nivel 24, pero el último jefe es de nivel 31, escribe Wowhead."
+    a: "Blizzard da un rango de 26 a 31. Las misiones se aceptan desde el nivel 24, pero el último jefe es de nivel 31."
   - q: "¿Dónde está el Excavation Site?"
     a: "En los Wetlands, en lo alto de una colina al sureste de Whelgar's Excavation Site. Caminos nuevos llevan a la entrada; en Classic no se podía llegar a esta zona."
   - q: "¿Qué es peligroso en el Excavation Site?"
@@ -36,7 +36,7 @@ El Excavation Site es una de las mazmorras nuevas de WoW Forever. La Explorers' 
 | Botín | Objetos azules nuevos, el Titan Relic para dos cadenas |
 | Nuevo en Forever | Toda la mazmorra |
 
-La beta de WoW Forever llega al nivel 30 desde el 1 de octubre. Wowhead actualiza su guía a medida que los probadores hacen la mazmorra, así que los detalles aún pueden cambiar.
+La beta de WoW Forever llega al nivel 30 desde el 1 de octubre. Los probadores todavía exploran la mazmorra, así que los detalles aún pueden cambiar.
 
 ## Cómo llegar
 
@@ -200,7 +200,7 @@ En la beta Prehistoric Prism no se puede completar por ahora. Whelgar da la misi
 
 </div>
 
-El nivel es el más bajo con el que se puede recoger la misión, según Wowhead. Las recompensas salen de los datos de misiones de la beta y aún pueden cambiar.
+El nivel es el más bajo con el que se puede recoger la misión. Las recompensas salen de los datos de misiones de la beta y aún pueden cambiar.
 
 ## La hierba alta
 
@@ -210,7 +210,7 @@ Quédate en el camino estrecho, fuera de la hierba, y lucha en zonas abiertas. S
 
 ## Los jefes y su botín
 
-El botín de cada jefe viene de Wowhead.
+El botín de cada jefe viene de la beta.
 
 ### Saltspine
 
@@ -263,4 +263,4 @@ Empieza el combate con el Archival Panel a la derecha del guardián inactivo. Re
 - **A dónde lleva el Bloody Map**, la recompensa de Open the Maw.
 - **Cuándo se arreglan Highland Hides y Prehistoric Prism**: las dos fallan en la beta.
 - **La probabilidad de botín** de cada jefe, salvo la del Titan Relic.
-- **Los cambios cuando suba el límite de nivel de la beta**: Wowhead mantiene su guía al día.
+- **Los cambios cuando suba el límite de nivel de la beta**: esta guía los sigue.

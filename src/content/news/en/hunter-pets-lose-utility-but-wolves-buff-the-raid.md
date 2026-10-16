@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/some-powerful-hunter-pet-abilities-nerfed-in-wow-forever-383460"
 tags: ["forever", "beta", "classes", "pvp"]
 featured: false
-draft: true
+draft: false
 ---
 Three Hunter pet abilities in World of Warcraft: Forever lose much of their power in the beta build of 15 October. Dismember, Sonic Blast and Mine! did what other classes are there for: cut healing, slow casts and disarm. Players found that Hunters brought too much utility with them, especially in PvP.
 

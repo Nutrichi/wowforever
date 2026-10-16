@@ -19,7 +19,7 @@ De Darkspear Trolls zijn de verbannen trollenstam die zich bij Thrall en de Hord
 
 ## Waar je begint
 
-Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, die de databank wago.tools uit build 1.15.9 leest.
+Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, build 1.15.9.
 
 | Jouw ras | Standing bij het begin |
 |---|---|
@@ -45,7 +45,7 @@ De Forsaken zijn de uitzondering. Zij beginnen hier op Neutral, een standing lag
 
 ### Quests
 
-Quests voor de Darkspear Trolls geven de meeste reputatie. Wowhead wijst naar Durotar en Feralas. De meeste quests voor één factie van de Horde geven ook een kwart van die reputatie aan de andere steden van de Horde.
+Quests voor de Darkspear Trolls geven de meeste reputatie. De beste zones zijn Durotar en Feralas. De meeste quests voor één factie van de Horde geven ook een kwart van die reputatie aan de andere steden van de Horde.
 
 ### Stofdonaties
 

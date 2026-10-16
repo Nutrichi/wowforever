@@ -13,7 +13,7 @@ faq:
   - q: "Hoe roep je Tuten'kash op?"
     a: "Sla op de gong. Eerst komen golven spinnen; sla na elke golf opnieuw tot Tuten'kash verschijnt."
   - q: "Is de loot van Razorfen Downs veranderd in WoW Forever?"
-    a: "Deels. Glutton's Cleaver, Coldrage Dagger en verschillende items voor casters kregen nieuwe stats. Veel drops, zoals X'caliboar, staan nog niet in de data van Forever van Wowhead."
+    a: "Deels. Glutton's Cleaver, Coldrage Dagger en verschillende items voor casters kregen nieuwe stats. Veel drops, zoals X'caliboar, staan nog niet in de data van Forever."
 sources:
   - name: "Wowhead, de dungeongids"
     url: "https://www.wowhead.com/forever/guide/razorfen-downs-dungeon-overview-location-rewards"
@@ -53,7 +53,7 @@ Razorfen Downs is de oude hoofdstad van de quilboar, gegroeid uit dezelfde reusa
 | <a href="https://www.wowhead.com/forever/quest=3341">Bring the End</a><br>Horde | Undercity, Magic Quarter: Andrew Brownell /way 74.0 32.8 | 37 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10823"><img class="wf-wh__icon" src="/wh/inv_sword_35.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vanquisher's Sword</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10824"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amberglow Talisman</a> |
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter: Varimathras /way 56.6 92.6<br><em>Doe eerst An Unholy Alliance uit Razorfen Kraul.</em> | 28 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
 
-Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead. De Dragonclaw Ring staat nog niet in de data van Forever van Wowhead.
+Het level is het laagste level waarop je de quest kan aannemen. De Dragonclaw Ring staat nog niet in de data van Forever.
 
 - **A Host of Evil.** Dood Death's Head Cultists, Razorfen Battleguards en Razorfen Thornweavers overal in de dungeon.
 - **Scourge of the Downs en Extinguishing the Idol.** Elke speler praat twee keer met Belnistrasz voor de eerste quest; het derde gesprek start de escorte. Bescherm hem terwijl zijn ritueel het idool stillegt. Plaguemaw the Rotting komt op het eind.
@@ -66,7 +66,7 @@ De spookachtige Freezing Spirits werpen Frost Nova. Sta bij de tank zodat nieman
 
 ## De bazen en hun loot
 
-De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta. Wowhead noemt nog meer drops die nog niet in de data van Forever van zijn tooltips staan; die staan er zonder link bij.
+De loot per baas heeft de stats uit de bestanden van de beta. Nog meer drops staan nog niet in de data van Forever; die staan er zonder link bij.
 
 ### Tuten'kash
 
@@ -99,7 +99,7 @@ Een eenvoudig gevecht. Blijf uit zijn Disease Cloud en heal de tank door zijn En
 
 ### Ragglesnout, een rare
 
-Zijn Dominate Mind is het gevaar: wordt de tank of healer overgenomen, dan springen de hybrids bij. Onderbreek zijn Heal en Shadow Bolts. Wowhead noemt voor hem Savage Boar's Guard, Boar Champion's Belt en X'caliboar.
+Zijn Dominate Mind is het gevaar: wordt de tank of healer overgenomen, dan springen de hybrids bij. Onderbreek zijn Heal en Shadow Bolts. Oudere lootlijsten noemen voor hem Savage Boar's Guard, Boar Champion's Belt en X'caliboar.
 
 ### Amnennar the Coldbringer
 
@@ -115,7 +115,7 @@ De laatste baas. Tank hem met zijn gezicht naar de tent waar hij staat om Amnenn
 
 ### Plaguemaw the Rotting
 
-Het einde van de escorte van Belnistrasz. Dood de golven een voor een, liefst met een off-tank die ze van Belnistrasz af trekt. Plaguemaw zelf is een tank-and-spank. Wowhead noemt voor hem Swine Fists en Plaguerot Sprig.
+Het einde van de escorte van Belnistrasz. Dood de golven een voor een, liefst met een off-tank die ze van Belnistrasz af trekt. Plaguemaw zelf is een tank-and-spank. Oudere lootlijsten noemen voor hem Swine Fists en Plaguerot Sprig.
 
 <div class="wf-shots">
 

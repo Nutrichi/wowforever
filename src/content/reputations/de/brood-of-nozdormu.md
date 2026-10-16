@@ -41,7 +41,7 @@ Von Hated bis Exalted sind es 84.000 Ruf, doppelt so viel wie bei einer Fraktion
 
 ### Kills in Ahn'Qiraj
 
-Der Trash der Ruins und des Temple of Ahn'Qiraj gibt Ruf, aber nur bis Neutral. Danach tragen dich Quests weiter. Icy Veins rechnet nach Neutral mit 500 Ruf für jeden Boss des Temple of Ahn'Qiraj.
+Der Trash der Ruins und des Temple of Ahn'Qiraj gibt Ruf, aber nur bis Neutral. Danach tragen dich Quests weiter. Nach Neutral gibt jeder Boss des Temple of Ahn'Qiraj etwa 500 Ruf.
 
 ### Wiederholbare Quests
 

@@ -19,7 +19,7 @@ Die Gnomeregan Exiles sind die Gnome, die aus ihrer Stadt Gnomeregan in Dun Moro
 
 ## Wo du startest
 
-Wo du startest, hängt von deinem Volk ab. Das sind die Werte aus den Fraktionsdaten des Classic-Era-Clients, die die Datenbank wago.tools aus Build 1.15.9 ausliest.
+Wo du startest, hängt von deinem Volk ab. Das sind die Werte aus den Fraktionsdaten des Classic-Era-Clients, Build 1.15.9.
 
 | Dein Volk | Rufstufe am Anfang |
 |---|---|
@@ -42,7 +42,7 @@ Friendly umfasst 6.000 Ruf, ein Charakter aus dem eigenen Volk der Stadt startet
 
 ### Quests
 
-Quests für die Gnomeregan Exiles geben den meisten Ruf. Wowhead nennt Dun Morogh, Loch Modan, die Stonetalon Mountains, Thousand Needles, Tanaris und die Blasted Lands. Die meisten Quests für eine Stadt der Allianz geben auch ein Viertel dieses Rufs an die anderen Städte der Allianz.
+Quests für die Gnomeregan Exiles geben den meisten Ruf. Die besten Zonen sind Dun Morogh, Loch Modan, die Stonetalon Mountains, Thousand Needles, Tanaris und die Blasted Lands. Die meisten Quests für eine Stadt der Allianz geben auch ein Viertel dieses Rufs an die anderen Städte der Allianz.
 
 ### Stoffabgaben
 

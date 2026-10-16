@@ -19,7 +19,7 @@ Orgrimmar es la facción de Orgrimmar, la capital de los orcos, construida por T
 
 ## Dónde empiezas
 
-Dónde empiezas depende de tu raza. Estos son los valores de los datos de facción del cliente de Classic Era, que la base de datos wago.tools lee de la build 1.15.9.
+Dónde empiezas depende de tu raza. Estos son los valores de los datos de facción del cliente de Classic Era, build 1.15.9.
 
 | Tu raza | Nivel al empezar |
 |---|---|
@@ -45,7 +45,7 @@ Los Forsaken son la excepción. Aquí empiezan en Neutral, un nivel por debajo d
 
 ### Misiones
 
-Las misiones para Orgrimmar dan más reputación. Wowhead señala Durotar, Orgrimmar, The Barrens, las Stonetalon Mountains, Silverpine Forest, Azshara, las Blasted Lands y Alterac Valley. La mayoría de las misiones para una ciudad de la Horda dan también una cuarta parte de esa reputación a las demás ciudades de la Horda.
+Las misiones para Orgrimmar dan más reputación. Las mejores zonas son Durotar, Orgrimmar, The Barrens, las Stonetalon Mountains, Silverpine Forest, Azshara, las Blasted Lands y Alterac Valley. La mayoría de las misiones para una ciudad de la Horda dan también una cuarta parte de esa reputación a las demás ciudades de la Horda.
 
 ### Donaciones de tela
 

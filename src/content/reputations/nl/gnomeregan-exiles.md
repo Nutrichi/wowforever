@@ -19,7 +19,7 @@ De Gnomeregan Exiles zijn de gnomes die hun stad Gnomeregan in Dun Morogh ontvlu
 
 ## Waar je begint
 
-Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, die de databank wago.tools uit build 1.15.9 leest.
+Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, build 1.15.9.
 
 | Jouw ras | Standing bij het begin |
 |---|---|
@@ -42,7 +42,7 @@ Friendly telt 6.000 reputatie, dus een personage van het eigen ras van de stad b
 
 ### Quests
 
-Quests voor de Gnomeregan Exiles geven de meeste reputatie. Wowhead wijst naar Dun Morogh, Loch Modan, de Stonetalon Mountains, Thousand Needles, Tanaris en de Blasted Lands. De meeste quests voor één stad van de Alliance geven ook een kwart van die reputatie aan de andere steden van de Alliance.
+Quests voor de Gnomeregan Exiles geven de meeste reputatie. De beste zones zijn Dun Morogh, Loch Modan, de Stonetalon Mountains, Thousand Needles, Tanaris en de Blasted Lands. De meeste quests voor één stad van de Alliance geven ook een kwart van die reputatie aan de andere steden van de Alliance.
 
 ### Stofdonaties
 

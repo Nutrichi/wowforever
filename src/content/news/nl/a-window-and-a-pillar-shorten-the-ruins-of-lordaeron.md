@@ -1,6 +1,6 @@
 ---
 title: "Een raam en een pilaar korten de Ruins of Lordaeron in"
-description: "Warcraft Tavern bracht de Ruins of Lordaeron in kaart als een route in U-vorm met binnenwegen, gargoyles die in steen veranderen en een rare kapitein die alleen de Horde kan bevechten."
+description: "De Ruins of Lordaeron volgen een route in U-vorm met binnenwegen, gargoyles die in steen veranderen en een rare kapitein die alleen de Horde kan bevechten."
 date: 2026-09-29T23:45:00+02:00
 category: forever
 lang: nl
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-De Ruins of Lordaeron volgen een route in U-vorm met een paar binnenwegen, volgens een nieuwe gids van Warcraft Tavern. Een raam slaat de eerste groepen spinnen over en een gebroken pilaar leidt langs The Baron. Een rare kapitein vecht alleen tegen de Horde.
+De Ruins of Lordaeron volgen een route in U-vorm met een paar binnenwegen. Een raam slaat de eerste groepen spinnen over en een gebroken pilaar leidt langs The Baron. Een rare kapitein vecht alleen tegen de Horde.
 
 ## De binnenwegen
 

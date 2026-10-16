@@ -77,7 +77,7 @@ Die Horde hat Zoram'gar Outpost ein Stück südlich, wo Je'neu Sancrea drei der 
 | <a href="https://www.wowhead.com/forever/quest=1275">Researching the Corruption</a><br>Teilbar | Darkshore, Auberdine: Gershala Nightwhisper /way 38 43 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7003"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beetle Clasps</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7004"><img class="wf-wh__icon" src="/wh/inv_misc_cape_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prelacy Cape</a> |
 | <a href="https://www.wowhead.com/forever/quest=1200">Blackfathom Villainy</a><br>Teilbar | Im Dungeon: Argent Guard Thaelrid | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7002"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arctic Buckler</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> |
 
-Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wowhead. Die Belohnungen stammen von Wowhead; wo es keine nennt, sind sie noch nicht bekannt.
+Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann. Wo keine Belohnung steht, ist sie noch nicht bekannt.
 
 ### Die Quests der Horde
 
@@ -93,7 +93,7 @@ Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wow
 
 ### Die Quests der Alliance
 
-**In Search of Thaelrid.** Dawnwatcher Shaedlass schickt dich zu Argent Guard Thaelrid im Dungeon. Die Quest steht auch der Horde offen, schreibt Warcraft Tavern, beginnt aber tief in Darnassus.
+**In Search of Thaelrid.** Dawnwatcher Shaedlass schickt dich zu Argent Guard Thaelrid im Dungeon. Die Quest steht auch der Horde offen, beginnt aber tief in Darnassus.
 
 **Twilight Falls.** Argent Guard Manados will 10 Twilight Pendants. Sie fallen bei den Twilight Acolytes, Aquamancers, Elementalists, Loreseekers, Reavers und Shadowmages im Dungeon.
 
@@ -107,7 +107,7 @@ Warlocks kommen auch für <a href="https://www.wowhead.com/forever/quest=1740">T
 
 ## Die Bosse und ihre Beute
 
-Die Beute pro Boss stammt von Wowhead, mit den Werten aus den Dateien der Beta.
+Die Beute pro Boss hat die Werte aus den Dateien der Beta.
 
 ### Ghamoo-ra
 
@@ -167,7 +167,7 @@ Ein optionaler Elite der Stufe 26, der unter Wasser bekämpft wird. Er heilt sic
 
 ### Aku'mai
 
-Bevor sich sein Versteck öffnet, müssen alle vier Kohlenbecken brennen, und jedes bringt eine Welle von Monstern. Die Welle der Schildkröten schlägt am härtesten zu; ein Off-Tank, ein Pet oder ein Rogue mit Evasion sollte eine davon übernehmen, schreibt Wowhead.
+Bevor sich sein Versteck öffnet, müssen alle vier Kohlenbecken brennen, und jedes bringt eine Welle von Monstern. Die Welle der Schildkröten schlägt am härtesten zu; ein Off-Tank, ein Pet oder ein Rogue mit Evasion sollte eine davon übernehmen.
 
 Der Endboss, eine Elite-Hydra der Stufe 28. Bleib aus seiner Poison Cloud; sie lässt sich unterbrechen. Frenzied Rage gibt ihm 5 Sekunden lang 75 % mehr Angriffstempo. Heb Betäubungen und die Abklingzeiten des Tanks dafür auf.
 
@@ -192,4 +192,4 @@ Mehrere blaue Gegenstände, die beim Anlegen gebunden werden, fielen in Classic 
 ## Was noch nicht bekannt ist
 
 - **Die Dropchancen** der Bossbeute.
-- **Die Belohnungen der Quests**, die Wowhead noch nicht nennt.
+- **Die Belohnungen der Quests**, die noch nicht bekannt sind.

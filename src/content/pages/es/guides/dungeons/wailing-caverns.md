@@ -54,7 +54,7 @@ Wailing Caverns es un laberinto de cuevas bajo The Barrens, donde el druida Nara
 | <a href="https://www.wowhead.com/forever/quest=914">Leaders of the Fang</a><br>Horde | Thunder Bluff, Elder Rise: Nara Wildmane /way 45 23<br><em>Completa antes 5 misiones, empezando por The Forgotten Pools de Tonga Runetotem en los Crossroads.</em> | 15 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6505"><img class="wf-wh__icon" src="/wh/inv_staff_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Crescent Staff</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6504"><img class="wf-wh__icon" src="/wh/inv_sword_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wingblade</a> |
 | <a href="https://www.wowhead.com/forever/quest=962">Serpentbloom</a><br>Horde | Thunder Bluff, Pools of Vision: Apothecary Zamah /way 34 21 | 14 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> |
 
-El nivel es el mínimo para aceptar la misión, según Wowhead.
+El nivel es el mínimo para aceptar la misión.
 
 - **Deviate Eradication.** Mata una lista de monstruos por toda la mazmorra.
 - **Deviate Hides.** Reúne 20 Deviate Hides; la mayoría de los monstruos de dentro las sueltan.
@@ -70,7 +70,7 @@ Los Druids of the Fang son los enemigos a vigilar. Su Druid's Slumber duerme a u
 
 ## Los jefes y su botín
 
-El botín de cada jefe viene de Wowhead, con las estadísticas de los archivos de la beta.
+El botín de cada jefe tiene las estadísticas de los archivos de la beta.
 
 ### Kresh
 

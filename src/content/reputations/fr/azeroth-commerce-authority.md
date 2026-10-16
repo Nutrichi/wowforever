@@ -54,7 +54,7 @@ Le nom rappelle Season of Discovery, où l’Azeroth Commerce Exchange fonctionn
 
 ## Recettes par métier
 
-Chaque vendeur de métier vend des recettes contre du Merchant's Favor. Les listes complètes sont dans le [guide de Wowhead](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Chaque vendeur de métier vend des recettes contre du Merchant's Favor. Les listes complètes sont dans [ce guide de réputation](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
 
 | Métier | Vendeur | Recettes | Compétence | Merchant's Favor |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ Quelques exemples : <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271626"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leatherworking Certification</a> | the Leatherworker | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271627"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tailoring Certification</a> | the Tailor | 1000 |
 
-L’Enchanting Certification coûte 240 dans la liste de Wowhead, un quart des autres. Si c’est exact, on ne le sait pas.
+L’Enchanting Certification coûte 240 dans la liste, un quart des autres. Si c’est exact, on ne le sait pas.
 
 ## Les niveaux
 

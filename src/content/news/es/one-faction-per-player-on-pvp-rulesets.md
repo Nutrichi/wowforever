@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-En un ruleset PvP de World of Warcraft: Forever, un jugador solo puede tener personajes de una facción. En los demás rulesets se permiten los dos bandos. Así lo cuentan el Lead Game Designer Tim Jones y la Lead Software Engineer Nora Mills en una entrevista con Game Informer, resumida por Wowhead.
+En un ruleset PvP de World of Warcraft: Forever, un jugador solo puede tener personajes de una facción. En los demás rulesets se permiten los dos bandos. Así lo cuentan el Lead Game Designer Tim Jones y la Lead Software Engineer Nora Mills en una entrevista con Game Informer.
 
 ## Un solo bando en un ruleset PvP
 

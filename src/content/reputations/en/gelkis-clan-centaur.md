@@ -22,7 +22,7 @@ The Gelkis Clan Centaur live in the southwest of Desolace and are the sworn enem
 
 ## Where you start
 
-Every character starts at Neutral, 2,000 into the 3,000 of that standing, so 1,000 short of Friendly. That value comes from the faction data of the Classic Era client, which the database wago.tools reads out of build 1.15.9.
+Every character starts at Neutral, 2,000 into the 3,000 of that standing, so 1,000 short of Friendly. That value comes from the faction data of the Classic Era client, build 1.15.9.
 
 ## The standings
 

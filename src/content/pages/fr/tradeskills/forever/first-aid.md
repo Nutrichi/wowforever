@@ -24,7 +24,7 @@ First Aid est un métier secondaire, il ne prend donc jamais l’une de vos deux
 ## Ce qui change dans Forever
 
 - **Les potions de soins** passent d’Alchemy à First Aid. Elles marchent en combat, donc First Aid vaut aussi le coup pour les soigneurs.
-- **Des remèdes** contre la maladie et les saignements rejoignent les anti-venins. Les nouveaux ne s’utilisent pas en combat, écrit Warcraft Tavern.
+- **Des remèdes** contre la maladie et les saignements rejoignent les anti-venins. Les nouveaux ne s’utilisent pas en combat.
 - **Objets de camp :** un First Aid Kit pour la Stamina, et deux ateliers avec des potions au campement.
 - **Les bandages** de Classic sont toujours tous là.
 
@@ -106,7 +106,7 @@ Le fonctionnement d’un campement est expliqué dans le [guide du camping](/fr/
 
 ## Monter le métier
 
-Wowhead propose désormais deux parcours complets. Les deux demandent les mêmes livres à partir de 150 : <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> pour le rang, et les manuels <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> et <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, tous chez les vendeurs Expert ci-dessus. Ils s’échangent, donc l’hôtel des ventes marche aussi.
+Il existe désormais deux parcours complets. Les deux demandent les mêmes livres à partir de 150 : <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> pour le rang, et les manuels <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> et <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, tous chez les vendeurs Expert ci-dessus. Ils s’échangent, donc l’hôtel des ventes marche aussi.
 
 **Le parcours rapide jusqu’à 150 : les potions de soins.** Les potions évitent les bandages et ne demandent que des herbes, une fiole et des épices d’un vendeur d’artisanat.
 

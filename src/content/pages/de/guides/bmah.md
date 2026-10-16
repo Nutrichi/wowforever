@@ -16,12 +16,12 @@ faq:
   - q: "Ist Dungeon Set 1 dasselbe wie in Classic?"
     a: "Nein. In Forever hat jedes Teil eigene Spell Power, die Setboni enden bei sechs statt acht Teilen, und der Bonus von +200 Armor fällt weg."
   - q: "Bietet man wie auf dem Black Market von Retail?"
-    a: "Das ist noch nicht bekannt. Wowhead schreibt nur, dass die Ausrüstung 100 Gold oder mehr kostet."
+    a: "Das ist noch nicht bekannt. Bisher ist nur bekannt, dass die Ausrüstung 100 Gold oder mehr kostet."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/buy-gear-pets-mounts-and-more-on-the-wow-forever-black-market-auction-house-383078"
 ---
-Das Black Market Auction House, kurz BMAH, verkauft seltene Gegenstände für viel Gold. Es erschien zuerst in Mists of Pandaria, mit Patch 5.0.4. WoW Forever bringt es in die alte Welt, in die neue Zone The Riverglades, und Wowhead fand es in der Beta.
+Das Black Market Auction House, kurz BMAH, verkauft seltene Gegenstände für viel Gold. Es erschien zuerst in Mists of Pandaria, mit Patch 5.0.4. WoW Forever bringt es in die alte Welt, in die neue Zone The Riverglades, und es ist schon in der Beta.
 
 ![Mister Graphed und Madam Swyndle, zwei Goblins mit dem Titel Agent of the Black Market, auf einem lila Teppich in einem Zelt, mit einem Blood Elf davor, ein Screenshot aus dem Spiel](../../../../assets/posts/2026-09-27-wow-forever-black-market-agents.jpg)
 
@@ -45,7 +45,7 @@ The Riverglades liegen nördlich von Redridge Mountains. Eine Abzweigung in Redr
 | [Madam Swyndle](https://www.wowhead.com/forever/npc=263326) | Den Black Market selbst: Ausrüstung, Haustiere und Sammelobjekte |
 | [Mister Graphed](https://www.wowhead.com/forever/npc=263384) | Handwerksmaterialien und andere Waren |
 
-Beide sind Goblins auf Level 60 mit dem Titel Agent of the Black Market. Wowhead schreibt, dass Forever "noch mehr Agenten" des Black Market hat, aber nicht, wo die anderen stehen.
+Beide sind Goblins auf Level 60 mit dem Titel Agent of the Black Market. Forever hat "noch mehr Agenten" des Black Market, aber wo die anderen stehen, ist nicht bekannt.
 
 ## Ausrüstung: Dungeon Set 1
 
@@ -60,7 +60,7 @@ Das meiste, was Madam Swyndle anbietet, ist Ausrüstung aus Dungeon Set 1, den b
 
 ### Wie sich die Sets von Classic unterscheiden
 
-Die Setnamen blieben, die Boni änderten sich. Die Angaben stammen aus den Tooltips von Wowhead für Forever und für Classic Era.
+Die Setnamen blieben, die Boni änderten sich. Die Angaben stammen aus den Tooltips für Forever und für Classic Era.
 
 | Teile | Classic Era | WoW Forever |
 |---|---|---|

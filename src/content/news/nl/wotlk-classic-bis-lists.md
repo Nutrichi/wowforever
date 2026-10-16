@@ -25,4 +25,4 @@ Verschillende lijsten markeren legendaries die best in slot blijven. Val'anyr, H
 
 De lijsten zijn gebaseerd op gevestigde gearguides voor fase 1 van WotLK Classic.
 
-Voor fase 3 splitst Icy Veins sommige tabellen per factie. De lijsten gebruiken de items van de Alliance; de versies van de Horde vallen van dezelfde bazen op hetzelfde item level. Een paar herkomsten van items die op de bronpagina's fout stonden, zijn rechtgezet aan de hand van de lijsten met encounters.
+Voor fase 3 splitsen de guides sommige tabellen per factie. De lijsten gebruiken de items van de Alliance; de versies van de Horde vallen van dezelfde bazen op hetzelfde item level. Een paar herkomsten van items die op de bronpagina's fout stonden, zijn rechtgezet aan de hand van de lijsten met encounters.

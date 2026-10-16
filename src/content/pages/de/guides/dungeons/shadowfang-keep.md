@@ -46,7 +46,7 @@ Shadowfang Keep war die Burg von Baron Silverlaine in Silverpine Forest. Archmag
 
 Die Burg steht in den Bergen direkt nördlich von Pyrewood Village in Silverpine Forest, bei /way 44.5 68.0. Für die Horde liegt das Sepulcher mit allen drei Questgebern nur einen kurzen Ritt entfernt.
 
-Für die Alliance ist Silverpine Forest auf dieser Stufe eine lange und gefährliche Reise. Charaktere der Skyborne haben es leichter: Sie erreichen die Zone recht schnell von Dalaran aus, schreibt Warcraft Tavern.
+Für die Alliance ist Silverpine Forest auf dieser Stufe eine lange und gefährliche Reise. Charaktere der Skyborne haben es leichter: Sie erreichen die Zone recht schnell von Dalaran aus.
 
 ## Die Route
 
@@ -65,7 +65,7 @@ Für die Alliance ist Silverpine Forest auf dieser Stufe eine lange und gefährl
 | <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Teilbar | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3324"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostly Mantle</a> |
 | <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Teilbar | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6414"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Sylvanas</a> |
 
-Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wowhead. Keine der drei verlangt eine frühere Quest, eine Gruppe der Horde kann sie also alle auf einmal annehmen und teilen. Die Belohnungen stammen von Wowhead; wo es keine nennt, sind sie noch nicht bekannt.
+Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann. Keine der drei verlangt eine frühere Quest, eine Gruppe der Horde kann sie also alle auf einmal annehmen und teilen. Wo keine Belohnung steht, ist sie noch nicht bekannt.
 
 ### Deathstalkers in Shadowfang
 
@@ -83,7 +83,7 @@ Auch zwei Klassenquests führen hierher: <a href="https://www.wowhead.com/foreve
 
 ## Die Bosse und ihre Beute
 
-Die Beute pro Boss stammt von Wowhead, mit den Werten aus den Dateien der Beta.
+Die Beute pro Boss hat die Werte aus den Dateien der Beta.
 
 ### Rethilgore
 
@@ -95,7 +95,7 @@ Ein Elite-Worgen der Stufe 20 mit zwei Bleak Worgs und einem Shadowfang Whitesca
 
 ### Fel Steeds und der Shadow Charger
 
-Die <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> und der <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> schlagen sehr hart zu, und wer einen pullt, pullt alle drei, schreibt Wowhead. Verwandle einen mit Polymorph und lass das Pet eines Hunters oder Warlocks einen anderen tanken.
+Die <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> und der <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> schlagen sehr hart zu, und wer einen pullt, pullt alle drei. Verwandle einen mit Polymorph und lass das Pet eines Hunters oder Warlocks einen anderen tanken.
 
 | Gegenstand | Neu in Forever |
 |---|---|
@@ -181,5 +181,5 @@ Nach dem Kampf liegt der <a class="wf-wh wf-q1" href="https://www.wowhead.com/fo
 ## Was noch nicht bekannt ist
 
 - **Die Dropchancen** der Bossbeute.
-- **Die Belohnungen der Quests**, die Wowhead noch nicht nennt.
+- **Die Belohnungen der Quests**, die noch nicht bekannt sind.
 - **Der Weg für die Alliance**: wie schnell er für die Skyborne von Dalaran aus wirklich ist.

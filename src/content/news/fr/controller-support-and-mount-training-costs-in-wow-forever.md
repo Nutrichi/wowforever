@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever prend officiellement en charge les manettes. L'or d'une monture passe dans la riding training, qui coûte 100 ou 1 000 pièces d'or selon le niveau, et la première monture est gratuite. C'est ce que dit Blizzard dans une interview avec Sportskeeda, résumée par Wowhead.
+World of Warcraft: Forever prend officiellement en charge les manettes. L'or d'une monture passe dans la riding training, qui coûte 100 ou 1 000 pièces d'or selon le niveau, et la première monture est gratuite. C'est ce que dit Blizzard dans une interview avec Sportskeeda.
 
 ## La prise en charge des manettes est officielle cette fois
 

@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Camping in WoW Forever bekommt eine zweite und dritte Stufe aus Blueprints. Einige droppen in Dungeons, von The Deadmines bis Shadowfang Keep. Das erste Objekt jedes Berufs gibt es gratis mit einer Quest auf Skill 20, schreibt Warcraft Tavern.
+Camping in WoW Forever bekommt eine zweite und dritte Stufe aus Blueprints. Einige droppen in Dungeons, von The Deadmines bis Shadowfang Keep. Das erste Objekt jedes Berufs gibt es gratis mit einer Quest auf Skill 20.
 
 ## Drei Stufen pro Beruf
 
@@ -31,7 +31,7 @@ Eine höhere Stufe gibt denselben Buff wie Stufe 1 und fügt eine Werkbank oder 
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Razorclaw the Butcher in Shadowfang Keep |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a> | Aus Fischschwärmen geangelt |
 
-Für die anderen Blueprints nennt Warcraft Tavern noch keine Quelle.
+Woher die anderen Blueprints kommen, ist noch nicht bekannt.
 
 ## Die Regeln eines Lagers
 

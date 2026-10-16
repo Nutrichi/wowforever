@@ -33,7 +33,7 @@ On 18 September a player shared a screenshot on the classicwow subreddit. A sear
   </button>
 </figure>
 
-The bots died their way north to copy herbs like Mountain Silversage, Icecap and Black Lotus, Icy Veins writes. On a beta capped at level 20 those herbs are of little use. Gold from the bots was being sold for real money, a player wrote on the official forums on 19 September.
+The bots died their way north to copy herbs like Mountain Silversage, Icecap and Black Lotus. On a beta capped at level 20 those herbs are of little use. Gold from the bots was being sold for real money, a player wrote on the official forums on 19 September.
 
 ## The new rule
 
@@ -45,6 +45,6 @@ Peacebloom stays open to a new character. For Black Lotus, at 300 skill, a Taure
 
 ## The cooldown
 
-Icy Veins also writes that the cooldown went from 23 hours to 1 hour, to make players use the racial more often. The development notes of Blizzard do not mention the cooldown. A player on the forums already saw a 1 hour cooldown on 20 September, before the new build.
+The cooldown also went from 23 hours to 1 hour, reportedly to make players use the racial more often. The development notes of Blizzard do not mention the cooldown. A player on the forums already saw a 1 hour cooldown on 20 September, before the new build.
 
 Whether the rule stops the bots, is not known. The racials of Forever are in the post about [the new race and class combinations](/news/orc-mages-and-undead-paladins-arrive/).

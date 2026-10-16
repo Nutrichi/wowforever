@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-Los objetos de Scarlet Monastery cambian en la beta de World of Warcraft: Forever. A nivel 30, los testers encuentran objetos blancos y verdes que ahora son azules, con efectos nuevos. El set Chain of the Scarlet Crusade también gana bonificaciones nuevas, escribe Icy Veins.
+Los objetos de Scarlet Monastery cambian en la beta de World of Warcraft: Forever. A nivel 30, los testers encuentran objetos blancos y verdes que ahora son azules, con efectos nuevos. El set Chain of the Scarlet Crusade también gana bonificaciones nuevas.
 
-Todavía no se han completado todas las alas. Los objetos de abajo vienen de Graveyard y de Library. Los datos son de Today in WoW, según Icy Veins.
+Todavía no se han completado todas las alas. Los objetos de abajo vienen de Graveyard y de Library.
 
 ## Graveyard
 
@@ -25,7 +25,7 @@ Todavía no se han completado todas las alas. Los objetos de abajo vienen de Gra
 
 ![Los tooltips de Torturing Poker y Bloody Brass Knuckles en la beta de World of Warcraft: Forever](../../../assets/posts/2026-10-03-wow-forever-torturing-poker-and-bloody-brass-knuckles.jpg)
 
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7684"><img class="wf-wh__icon" src="/wh/inv_shoulder_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloodmage Mantle</a> de Bloodmage Thalnos pasa de verde a azul. Las hombreras de tela dan 9 de Intellect, hasta 9 de daño y sanación de hechizos, y recuperan 9 de salud cada 5 segundos. Icy Veins les ve uso para los Warlocks que usan Life Tap.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7684"><img class="wf-wh__icon" src="/wh/inv_shoulder_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloodmage Mantle</a> de Bloodmage Thalnos pasa de verde a azul. Las hombreras de tela dan 9 de Intellect, hasta 9 de daño y sanación de hechizos, y recuperan 9 de salud cada 5 segundos. Eso las hace interesantes para los Warlocks que usan Life Tap.
 
 ![El tooltip de Bloodmage Mantle en la beta de World of Warcraft: Forever](../../../assets/posts/2026-10-03-wow-forever-bloodmage-mantle.jpg)
 
@@ -43,7 +43,7 @@ Loksey suelta además un Houndmaster Boomerang nuevo. El arma arrojadiza da 4 de
 
 ## Nuevas bonificaciones para Chain of the Scarlet Crusade
 
-Los dataminers encontraron dos efectos nuevos para [Chain of the Scarlet Crusade](https://www.wowhead.com/forever/item-set=163). Que sepa Icy Veins, ninguna pieza del set ha caído aún en la beta. Los archivos de la build dan estas bonificaciones:
+Los dataminers encontraron dos efectos nuevos para [Chain of the Scarlet Crusade](https://www.wowhead.com/forever/item-set=163). Que se sepa, ninguna pieza del set ha caído aún en la beta. Los archivos de la build dan estas bonificaciones:
 
 | Piezas | Bonificación |
 |---|---|
@@ -53,7 +53,7 @@ Los dataminers encontraron dos efectos nuevos para [Chain of the Scarlet Crusade
 | 5 | +1 % de probabilidad de golpe |
 | 6 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1293670"><img class="wf-wh__icon" src="/wh/inv_tabard_scarletcrusade_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Guardian</a>: recibir daño con un 20 % de salud o menos da un escudo que absorbe daño durante 10 segundos, una vez cada 4 minutos |
 
-Icy Veins lo llama un set fuerte para tanques y para quien sube de nivel en solitario. Si funciona así en el juego, solo lo dirá el primer drop.
+Sobre el papel es un set fuerte para tanques y para quien sube de nivel en solitario. Si funciona así en el juego, solo lo dirá el primer drop.
 
 ![La armería del Scarlet Monastery, una sala redonda con estatuas y suelo rojo, una captura de World of Warcraft](../../../assets/posts/2026-10-03-wow-forever-scarlet-monastery-armory.jpg)
 

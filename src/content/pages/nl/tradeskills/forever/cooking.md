@@ -23,8 +23,8 @@ Cooking is een secundaire tradeskill, dus het kost je nooit een van je twee hoof
 
 ## Wat er verandert in Forever
 
-- **Experience uit eten.** Het meeste gekookte eten geeft 5% meer experience van kills zolang je Well Fed bent, schrijft Wowhead.
-- **Een stat per gerecht.** Recepten die je kent, zijn bijgesteld om een enkele primaire stat te bevoordelen, volgens Warcraft Tavern.
+- **Experience uit eten.** Het meeste gekookte eten geeft 5% meer experience van kills zolang je Well Fed bent.
+- **Een stat per gerecht.** Recepten die je kent, zijn bijgesteld om een enkele primaire stat te bevoordelen.
 - **Nieuwe recepten**, zoals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=286152"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plated Armorfish</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a>.
 - **Kampvuren.** Cooking bouwt het vuur van elk kamp; zie de [gids over camping](/nl/guides/camping/).
 - **Meer dan 100 recepten**, waarvan de trainers er maar een dozijn leren. De rest komt van verkopers, drops, quests en de [Azeroth Commerce Authority](/nl/reputations/azeroth-commerce-authority/).
@@ -96,7 +96,7 @@ De recepten komen van verkopers:
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6330"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Bristle Whisker Catfish</a> | 100 | Catherine Leland, Stormwind (/way 55.0 69.6) | Naal Mistrunner, Thunder Bluff (/way 51.0 52.8) |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=17062"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Mithril Head Trout</a> | 175 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=5162">Tansy Puddlefizz</a>, Ironforge (/way 47.8 6.6) | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3333">Shankys</a>, Orgrimmar (/way 70.0 30.6) |
 
-Een route van 225 tot 300 heeft Wowhead nog niet gepubliceerd.
+Een route van 225 tot 300 is nog niet bekend.
 
 ## Oude gerechten, nieuwe buffs
 
@@ -119,7 +119,7 @@ Elke buff duurt 15 minuten en begint na 10 seconden eten.
 
 ## Nieuwe recepten
 
-Elk nieuw recept van Forever met de skill die het vraagt en waar het vandaan komt, volgens Wowhead. "Nog niet bekend" betekent dat de bron op de beta nog niet gevonden is.
+Elk nieuw recept van Forever met de skill die het vraagt en waar het vandaan komt. "Nog niet bekend" betekent dat de bron op de beta nog niet gevonden is.
 
 | Recept | Skill | Bron |
 |---|---|---|

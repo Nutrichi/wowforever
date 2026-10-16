@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-Drops aus Scarlet Monastery sehen in der Beta von World of Warcraft: Forever anders aus. Auf Stufe 30 finden Tester weiße und grüne Items, die jetzt blau sind, mit neuen Effekten. Auch das Set Chain of the Scarlet Crusade bekommt neue Boni, schreibt Icy Veins.
+Drops aus Scarlet Monastery sehen in der Beta von World of Warcraft: Forever anders aus. Auf Stufe 30 finden Tester weiße und grüne Items, die jetzt blau sind, mit neuen Effekten. Auch das Set Chain of the Scarlet Crusade bekommt neue Boni.
 
-Noch ist nicht jeder Flügel geschafft. Die Items unten stammen aus Graveyard und Library. Die Daten kommen von Today in WoW, laut Icy Veins.
+Noch ist nicht jeder Flügel geschafft. Die Items unten stammen aus Graveyard und Library.
 
 ## Graveyard
 
@@ -25,7 +25,7 @@ Noch ist nicht jeder Flügel geschafft. Die Items unten stammen aus Graveyard un
 
 ![Die Tooltips von Torturing Poker und Bloody Brass Knuckles in der Beta von World of Warcraft: Forever](../../../assets/posts/2026-10-03-wow-forever-torturing-poker-and-bloody-brass-knuckles.jpg)
 
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7684"><img class="wf-wh__icon" src="/wh/inv_shoulder_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloodmage Mantle</a> von Bloodmage Thalnos wird von grün zu blau. Die Stoffschultern geben 9 Intellect, bis zu 9 Zauberschaden und Heilung und stellen alle 5 Sekunden 9 Gesundheit wieder her. Icy Veins sieht einen Nutzen für Warlocks, die Life Tap verwenden.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7684"><img class="wf-wh__icon" src="/wh/inv_shoulder_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloodmage Mantle</a> von Bloodmage Thalnos wird von grün zu blau. Die Stoffschultern geben 9 Intellect, bis zu 9 Zauberschaden und Heilung und stellen alle 5 Sekunden 9 Gesundheit wieder her. Das macht sie für Warlocks interessant, die Life Tap verwenden.
 
 ![Der Tooltip von Bloodmage Mantle in der Beta von World of Warcraft: Forever](../../../assets/posts/2026-10-03-wow-forever-bloodmage-mantle.jpg)
 
@@ -43,7 +43,7 @@ Loksey lässt außerdem einen neuen Houndmaster Boomerang fallen. Die Wurfwaffe 
 
 ## Neue Boni für Chain of the Scarlet Crusade
 
-Dataminer fanden zwei neue Effekte für [Chain of the Scarlet Crusade](https://www.wowhead.com/forever/item-set=163). Soweit Icy Veins weiß, ist noch kein Teil des Sets in der Beta gefallen. Die Dateien des Builds nennen diese Boni:
+Dataminer fanden zwei neue Effekte für [Chain of the Scarlet Crusade](https://www.wowhead.com/forever/item-set=163). Soweit bekannt, ist noch kein Teil des Sets in der Beta gefallen. Die Dateien des Builds nennen diese Boni:
 
 | Teile | Bonus |
 |---|---|
@@ -53,7 +53,7 @@ Dataminer fanden zwei neue Effekte für [Chain of the Scarlet Crusade](https://w
 | 5 | +1 % Trefferchance |
 | 6 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1293670"><img class="wf-wh__icon" src="/wh/inv_tabard_scarletcrusade_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Guardian</a>: Schaden bei 20 % Gesundheit oder weniger gibt einen Schild, der 10 Sekunden lang Schaden absorbiert, einmal alle 4 Minuten |
 
-Icy Veins nennt es ein starkes Set für Tanks und für Spieler, die allein leveln. Ob es im Spiel so funktioniert, zeigt erst ein Drop.
+Auf dem Papier ist es ein starkes Set für Tanks und für Spieler, die allein leveln. Ob es im Spiel so funktioniert, zeigt erst ein Drop.
 
 ![Die Waffenkammer des Scarlet Monastery, ein runder Saal mit Statuen und rotem Boden, ein Screenshot aus World of Warcraft](../../../assets/posts/2026-10-03-wow-forever-scarlet-monastery-armory.jpg)
 

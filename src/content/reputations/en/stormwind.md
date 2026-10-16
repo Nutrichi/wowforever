@@ -18,7 +18,7 @@ Stormwind is the faction of Stormwind City, the capital of the humans in the nor
 
 ## Where you start
 
-Where you start depends on your race. These are the values in the faction data of the Classic Era client, which the database wago.tools reads out of build 1.15.9.
+Where you start depends on your race. These are the values in the faction data of the Classic Era client, build 1.15.9.
 
 | Your race | Standing at the start |
 |---|---|
@@ -41,7 +41,7 @@ Friendly holds 6,000 reputation, so a character of the city's own race begins 90
 
 ### Quests
 
-Quests for Stormwind give the most reputation. Wowhead points to Elwynn Forest, Westfall, Redridge Mountains, Duskwood, Stormwind City, the Arathi Highlands, Dustwallow Marsh, the Stonetalon Mountains and the Western Plaguelands. Most quests for one Alliance city also give a quarter of that reputation to the other Alliance cities.
+Quests for Stormwind give the most reputation. The best zones are Elwynn Forest, Westfall, Redridge Mountains, Duskwood, Stormwind City, the Arathi Highlands, Dustwallow Marsh, the Stonetalon Mountains and the Western Plaguelands. Most quests for one Alliance city also give a quarter of that reputation to the other Alliance cities.
 
 ### Cloth donations
 

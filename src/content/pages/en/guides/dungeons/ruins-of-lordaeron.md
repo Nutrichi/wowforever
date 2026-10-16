@@ -187,7 +187,7 @@ A big spider that patrols King's Alley with two smaller spiders. Clear the trash
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_07.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271202">Witherbite Bracers</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Leather</span></span><span class="wf-item__line">37 Armor</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Intellect</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Durability 30 / 30</span><span class="wf-item__line">Requires Level 15</span></div></div>
 </div>
 
-She does not pull her patrol along, writes Warcraft Tavern: a ranged pull brings her alone.
+She does not pull her patrol along: a ranged pull brings her alone.
 
 ### The Baron
 
@@ -291,7 +291,7 @@ A rare with a small chance to spawn on the west side of the dungeon. The Allianc
 
 ## What is not known yet
 
-- Which boss counts as the final boss. The level-20 boss has no fixed place in the order; Warcraft Tavern ends its route at Rath'mael.
+- Which boss counts as the final boss. The level-20 boss has no fixed place in the order; common routes end at Rath'mael.
 - Whether Viktor the Vile always spawns at launch. On the beta he sometimes does not.
 - Where the rest of Rotmender's Raiment drops, and at which step Unending Torment gives Slain Baron's Signet.
 - How much experience The Wrath of Rath'mael gives

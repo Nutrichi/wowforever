@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: es
 faq:
   - q: "¿Qué nivel tiene Ragefire Chasm en WoW Forever?"
-    a: "Los grupos la hacen del nivel 9 al 19. Los jefes son de nivel 16. Wowhead recomienda los niveles 13 a 18."
+    a: "Los grupos la hacen del nivel 9 al 19. Los jefes son de nivel 16. Los niveles recomendados son del 13 al 18."
   - q: "¿Dónde está la entrada de Ragefire Chasm?"
     a: "En la Cleft of Shadow de Orgrimmar. Los jugadores de la Horde van directos al portal; para la Alliance es una larga carrera de fantasma por la ciudad."
   - q: "¿Puede la Alliance hacer las misiones de Ragefire Chasm?"
@@ -54,7 +54,7 @@ Tras un wipe, el Spirit Healer está en Durotar, fuera de la ciudad.
 | <a href="https://www.wowhead.com/forever/quest=5722">Searching for the Lost Satchel</a> | Thunder Bluff, Elder Rise: Rahauro /way 70 30<br><em>Sigue con <a href="https://www.wowhead.com/forever/quest=5724">Returning the Lost Satchel</a>.</em> | 9 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15452"><img class="wf-wh__icon" src="/wh/inv_bracer_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Featherbead Bracers</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15453"><img class="wf-wh__icon" src="/wh/inv_bracer_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savannah Bracers</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=270003"><img class="wf-wh__icon" src="/wh/inv_bracer_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Garrison Cuffs</a> |
 | <a href="https://www.wowhead.com/forever/quest=5728">Hidden Enemies</a> | Orgrimmar, Valley of Wisdom: Thrall /way 31 37<br><em>Completa antes 3 misiones, empezando por Hidden Enemies.</em> | 9 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15443"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Kris of Orgrimmar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15445"><img class="wf-wh__icon" src="/wh/inv_hammer_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hammer of Orgrimmar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15424"><img class="wf-wh__icon" src="/wh/inv_axe_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Orgrimmar</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15444"><img class="wf-wh__icon" src="/wh/inv_staff_goldfeathered_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Orgrimmar</a> |
 
-El nivel es el mínimo para aceptar la misión, según Wowhead.
+El nivel es el mínimo para aceptar la misión.
 
 - **Slaying the Beast.** Lleva Taragaman the Hungerer's Heart de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11520">Taragaman the Hungerer</a>. Está en el centro del camino en cruz antes de la última sala.
 - **The Power to Destroy...** Consigue Spells of Shadow e Incantations from the Nether. Los dos los sueltan los Searing Blade Cultists y Searing Blade Warlocks de la segunda mitad de la mazmorra.
@@ -64,7 +64,7 @@ El nivel es el mínimo para aceptar la misión, según Wowhead.
 
 ## Los jefes y su botín
 
-El botín de cada jefe viene de Wowhead, con las estadísticas de los archivos de la beta.
+El botín de cada jefe tiene las estadísticas de los archivos de la beta.
 
 ### Oggleflint
 

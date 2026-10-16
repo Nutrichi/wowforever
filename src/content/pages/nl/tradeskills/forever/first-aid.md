@@ -24,7 +24,7 @@ First Aid is een secundaire tradeskill, dus het neemt nooit een van je twee hoof
 ## Wat er verandert in Forever
 
 - **Healing potions** zijn verhuisd van Alchemy naar First Aid. Ze werken in gevecht, dus First Aid loont ook voor healers.
-- **Geneesmiddelen** tegen ziekte en bloedingen komen naast de anti-venoms. De nieuwe werken niet in gevecht, schrijft Warcraft Tavern.
+- **Geneesmiddelen** tegen ziekte en bloedingen komen naast de anti-venoms. De nieuwe werken niet in gevecht.
 - **Kampobjecten:** een First Aid Kit voor Stamina, en twee werkplaatsen met potions bij een kampplaats.
 - **Het verband** uit Classic is er nog allemaal.
 
@@ -106,7 +106,7 @@ Hoe een kampplaats werkt, staat in de [gids over camping](/nl/guides/camping/).
 
 ## Levelen
 
-Wowhead heeft nu twee volledige routes. Allebei vragen ze vanaf 150 dezelfde boeken: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> voor de rang, en de manuals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, allemaal van de Expert-verkopers hierboven. Ze zijn verhandelbaar, dus het Auction House werkt ook.
+Er zijn nu twee volledige routes. Allebei vragen ze vanaf 150 dezelfde boeken: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> voor de rang, en de manuals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, allemaal van de Expert-verkopers hierboven. Ze zijn verhandelbaar, dus het Auction House werkt ook.
 
 **De snelle route tot 150: healing potions.** De potions slaan het verband over en vragen alleen kruiden, een vial en specerijen van een tradeskillverkoper.
 

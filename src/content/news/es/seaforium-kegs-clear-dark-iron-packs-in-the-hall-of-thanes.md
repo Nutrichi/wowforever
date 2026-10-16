@@ -1,6 +1,6 @@
 ---
 title: "Los barriles de Seaforium limpian a los Dark Iron del Hall of Thanes"
-description: "Warcraft Tavern recorrió el Hall of Thanes sala a sala: el pasaje oculto de la High Seat, barriles que vuelan grupos, una enfermedad de los Bloodhound Runts y un tótem contra el último jefe."
+description: "El Hall of Thanes sala a sala: el pasaje oculto de la High Seat, barriles que vuelan grupos, una enfermedad de los Bloodhound Runts y un tótem contra el último jefe."
 date: 2026-09-29T23:40:00+02:00
 category: forever
 lang: es
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Warcraft Tavern ha recorrido sala a sala el Hall of Thanes, la nueva mazmorra de la Alliance bajo Ironforge. Su ruta señala barriles que vuelan grupos Dark Iron, una enfermedad que conviene curar y un tótem que anula el miedo del jefe final.
+Una ruta sala a sala por el Hall of Thanes, la nueva mazmorra de la Alliance bajo Ironforge, señala barriles que vuelan grupos Dark Iron, una enfermedad que conviene curar y un tótem que anula el miedo del jefe final.
 
 ## La entrada
 

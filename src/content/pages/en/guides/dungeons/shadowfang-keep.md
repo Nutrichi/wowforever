@@ -45,7 +45,7 @@ Shadowfang Keep was the castle of Baron Silverlaine in Silverpine Forest. Archma
 
 The keep stands in the mountains just north of Pyrewood Village in Silverpine Forest, at /way 44.5 68.0. For the Horde, the Sepulcher with all three quest givers is a short ride away.
 
-For the Alliance, Silverpine Forest at this level is a long and dangerous trip. Skyborne characters have it easier: they reach the zone fairly quickly from Dalaran, writes Warcraft Tavern.
+For the Alliance, Silverpine Forest at this level is a long and dangerous trip. Skyborne characters have it easier: they reach the zone fairly quickly from Dalaran.
 
 ## The route
 
@@ -64,7 +64,7 @@ For the Alliance, Silverpine Forest at this level is a long and dangerous trip. 
 | <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Shareable | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3324"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostly Mantle</a> |
 | <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Shareable | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6414"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Sylvanas</a> |
 
-The level is the lowest level at which the quest can be picked up, according to Wowhead. None of the three needs an earlier quest, so a Horde group can pick them all up at once and share them. The rewards come from Wowhead; where it lists none, they are not known yet.
+The level is the lowest level at which the quest can be picked up. None of the three needs an earlier quest, so a Horde group can pick them all up at once and share them. Where no reward is listed, it is not known yet.
 
 ### Deathstalkers in Shadowfang
 
@@ -82,7 +82,7 @@ Two class quests also lead here: <a href="https://www.wowhead.com/forever/quest=
 
 ## The bosses and their loot
 
-The loot per boss comes from Wowhead, with the stats from the files of the beta.
+The loot per boss has the stats from the files of the beta.
 
 ### Rethilgore
 
@@ -94,7 +94,7 @@ A level 20 elite worgen with two Bleak Worgs and a Shadowfang Whitescalp. The wo
 
 ### Fel Steeds and the Shadow Charger
 
-The <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> and the <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> hit very hard, and pulling one pulls all three, writes Wowhead. Polymorph one and let a Hunter or Warlock pet tank another.
+The <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> and the <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> hit very hard, and pulling one pulls all three. Polymorph one and let a Hunter or Warlock pet tank another.
 
 | Item | New in Forever |
 |---|---|
@@ -180,5 +180,5 @@ After the fight, the <a class="wf-wh wf-q1" href="https://www.wowhead.com/foreve
 ## What is not known yet
 
 - **The drop rates** of the boss loot.
-- **The quest rewards** that Wowhead does not list yet.
+- **The quest rewards** that are not known yet.
 - **The way in for the Alliance**: how fast it really is for the Skyborne from Dalaran.

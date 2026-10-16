@@ -7,7 +7,7 @@ updated: 2026-10-14
 lang: it
 faq:
   - q: "Che livello è l’Excavation Site in WoW Forever?"
-    a: "Blizzard indica un intervallo dal 26 al 31. Le missioni si prendono dal livello 24, ma l’ultimo boss è di livello 31, scrive Wowhead."
+    a: "Blizzard indica un intervallo dal 26 al 31. Le missioni si prendono dal livello 24, ma l’ultimo boss è di livello 31."
   - q: "Dov’è l’Excavation Site?"
     a: "Nelle Wetlands, in cima a una collina a sud-est di Whelgar's Excavation Site. Nuove strade portano all’ingresso; in Classic questa zona non era raggiungibile."
   - q: "Cosa c’è di pericoloso nell’Excavation Site?"
@@ -36,7 +36,7 @@ L’Excavation Site è uno dei nuovi dungeon di WoW Forever. L’Explorers' Leag
 | Bottino | Nuovi oggetti blu, il Titan Relic per due catene |
 | Nuovo in Forever | Tutto il dungeon |
 
-La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Wowhead aggiorna la sua guida man mano che i tester completano il dungeon, quindi i dettagli possono ancora cambiare.
+La beta di WoW Forever arriva al livello 30 dal 1° ottobre. I tester stanno ancora esplorando il dungeon, quindi i dettagli possono ancora cambiare.
 
 ## Come arrivarci
 
@@ -200,7 +200,7 @@ Sulla beta Prehistoric Prism per ora non si può completare. Whelgar dà la miss
 
 </div>
 
-Il livello è il più basso a cui si può prendere la missione, secondo Wowhead. Le ricompense vengono dai dati delle missioni della beta e possono ancora cambiare.
+Il livello è il più basso a cui si può prendere la missione. Le ricompense vengono dai dati delle missioni della beta e possono ancora cambiare.
 
 ## L’erba alta
 
@@ -210,7 +210,7 @@ Resta sul sentiero stretto, fuori dall’erba, e combatti nei punti aperti. Se i
 
 ## I boss e il loro bottino
 
-Il bottino di ogni boss viene da Wowhead.
+Il bottino di ogni boss viene dalla beta.
 
 ### Saltspine
 
@@ -263,4 +263,4 @@ Avvia lo scontro con l’Archival Panel a destra del guardiano inattivo. Relic G
 - **Dove porta la Bloody Map**, la ricompensa di Open the Maw.
 - **Quando verranno sistemate Highland Hides e Prehistoric Prism**: entrambe hanno un bug sulla beta.
 - **Le probabilità di drop** del bottino dei boss, tranne quella del Titan Relic.
-- **I cambiamenti quando salirà il limite di livello della beta**: Wowhead tiene aggiornata la sua guida.
+- **I cambiamenti quando salirà il limite di livello della beta**: questa guida li segue.

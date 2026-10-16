@@ -46,7 +46,7 @@ Shadowfang Keep was het kasteel van Baron Silverlaine in Silverpine Forest. Arch
 
 Het kasteel staat in de bergen net ten noorden van Pyrewood Village in Silverpine Forest, op /way 44.5 68.0. Voor de Horde ligt het Sepulcher met alle drie de questgevers op een korte rit.
 
-Voor de Alliance is Silverpine Forest op dit level een lange en gevaarlijke reis. Personages van de Skyborne hebben het makkelijker: zij bereiken de zone vrij snel vanuit Dalaran, schrijft Warcraft Tavern.
+Voor de Alliance is Silverpine Forest op dit level een lange en gevaarlijke reis. Personages van de Skyborne hebben het makkelijker: zij bereiken de zone vrij snel vanuit Dalaran.
 
 ## De route
 
@@ -65,7 +65,7 @@ Voor de Alliance is Silverpine Forest op dit level een lange en gevaarlijke reis
 | <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Deelbaar | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3324"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostly Mantle</a> |
 | <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Deelbaar | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6414"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Sylvanas</a> |
 
-Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead. Geen van de drie vraagt een eerdere quest, dus een groep van de Horde kan ze allemaal tegelijk oppikken en delen. De beloningen komen van Wowhead; waar die er geen noemt, zijn ze nog niet bekend.
+Het level is het laagste level waarop je de quest kan aannemen. Geen van de drie vraagt een eerdere quest, dus een groep van de Horde kan ze allemaal tegelijk oppikken en delen. Waar geen beloning staat, is ze nog niet bekend.
 
 ### Deathstalkers in Shadowfang
 
@@ -83,7 +83,7 @@ Ook twee classquests leiden hierheen: <a href="https://www.wowhead.com/forever/q
 
 ## De bazen en hun loot
 
-De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta.
+De loot per baas heeft de stats uit de bestanden van de beta.
 
 ### Rethilgore
 
@@ -95,7 +95,7 @@ Een elite worgen van level 20 met twee Bleak Worgs en een Shadowfang Whitescalp.
 
 ### Fel Steeds en de Shadow Charger
 
-De <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> en de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> slaan heel hard, en wie er een pullt, pullt ze alle drie, schrijft Wowhead. Polymorph er een en laat een pet van een Hunter of Warlock een andere tanken.
+De <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> en de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> slaan heel hard, en wie er een pullt, pullt ze alle drie. Polymorph er een en laat een pet van een Hunter of Warlock een andere tanken.
 
 | Item | Nieuw in Forever |
 |---|---|
@@ -181,5 +181,5 @@ Na het gevecht ligt de <a class="wf-wh wf-q1" href="https://www.wowhead.com/fore
 ## Wat nog niet bekend is
 
 - **De dropkansen** van de loot van de bazen.
-- **De beloningen van de quests** die Wowhead nog niet noemt.
+- **De beloningen van de quests** die nog niet bekend zijn.
 - **De weg naar binnen voor de Alliance**: hoe snel die echt is voor de Skyborne vanuit Dalaran.

@@ -25,4 +25,4 @@ Manche Spezialisierungen behalten Schmuckstücke aus Throne of Thunder in späte
 
 ## Quellen
 
-Die Listen basieren auf den Ausrüstungsguides von Icy Veins. Einige falsche Herkünfte von Gegenständen auf den Quellseiten wurden anhand der Bosslisten korrigiert, etwa der Raid von Jin'rokh the Breaker, dem ersten Boss von Throne of Thunder.
+Die Listen basieren auf bewährten Ausrüstungsguides. Einige falsche Herkünfte von Gegenständen auf den Quellseiten wurden anhand der Bosslisten korrigiert, etwa der Raid von Jin'rokh the Breaker, dem ersten Boss von Throne of Thunder.

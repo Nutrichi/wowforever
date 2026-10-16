@@ -12,9 +12,9 @@ tags: ["forever", "dungeon", "beta"]
 featured: false
 draft: false
 ---
-Drops from Scarlet Monastery look different on the World of Warcraft: Forever beta. Testers at level 30 find white and green items turned blue, with new effects. The Chain of the Scarlet Crusade set also gets new bonuses, writes Icy Veins.
+Drops from Scarlet Monastery look different on the World of Warcraft: Forever beta. Testers at level 30 find white and green items turned blue, with new effects. The Chain of the Scarlet Crusade set also gets new bonuses.
 
-Not every wing has been cleared yet. The items below come from Graveyard and Library. The data comes from Today in WoW, according to Icy Veins.
+Not every wing has been cleared yet. The items below come from Graveyard and Library.
 
 ## Graveyard
 
@@ -24,7 +24,7 @@ Not every wing has been cleared yet. The items below come from Graveyard and Lib
 
 ![The tooltips of Torturing Poker and Bloody Brass Knuckles on the beta of World of Warcraft: Forever](../../../assets/posts/2026-10-03-wow-forever-torturing-poker-and-bloody-brass-knuckles.jpg)
 
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7684"><img class="wf-wh__icon" src="/wh/inv_shoulder_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloodmage Mantle</a> from Bloodmage Thalnos goes from green to blue. The cloth shoulders give 9 Intellect, up to 9 spell damage and healing, and restore 9 health every 5 seconds. Icy Veins sees a use for Warlocks who use Life Tap.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7684"><img class="wf-wh__icon" src="/wh/inv_shoulder_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloodmage Mantle</a> from Bloodmage Thalnos goes from green to blue. The cloth shoulders give 9 Intellect, up to 9 spell damage and healing, and restore 9 health every 5 seconds. That makes them interesting for Warlocks who use Life Tap.
 
 ![The tooltip of Bloodmage Mantle on the beta of World of Warcraft: Forever](../../../assets/posts/2026-10-03-wow-forever-bloodmage-mantle.jpg)
 
@@ -42,7 +42,7 @@ Loksey also drops a new Houndmaster Boomerang. The thrown weapon gives 4 Stamina
 
 ## New bonuses for the Chain of the Scarlet Crusade
 
-Dataminers found two new effects for [Chain of the Scarlet Crusade](https://www.wowhead.com/forever/item-set=163). No piece of the set has dropped on the beta yet, as far as Icy Veins knows. The files of the build list these bonuses:
+Dataminers found two new effects for [Chain of the Scarlet Crusade](https://www.wowhead.com/forever/item-set=163). No piece of the set is known to have dropped on the beta yet. The files of the build list these bonuses:
 
 | Pieces | Bonus |
 |---|---|
@@ -52,7 +52,7 @@ Dataminers found two new effects for [Chain of the Scarlet Crusade](https://www.
 | 5 | +1% chance to hit |
 | 6 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1293670"><img class="wf-wh__icon" src="/wh/inv_tabard_scarletcrusade_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Guardian</a>: taking damage at or below 20% health gives a shield that absorbs damage for 10 seconds, once every 4 minutes |
 
-Icy Veins calls it a strong set for tanks and for players who level alone. Whether it works like this in the game, only a drop will tell.
+On paper it is a strong set for tanks and for players who level alone. Whether it works like this in the game, only a drop will tell.
 
 ![The armory of the Scarlet Monastery, a round hall with statues and a red floor, a screenshot from World of Warcraft](../../../assets/posts/2026-10-03-wow-forever-scarlet-monastery-armory.jpg)
 

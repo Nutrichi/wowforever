@@ -12,7 +12,7 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
-A newcomer to World of Warcraft asked veterans on X for the one tip they wish they had known before their first adventure. The replies turned into a small beginner's guide for WoW Forever, writes Icy Veins.
+A newcomer to World of Warcraft asked veterans on X for the one tip they wish they had known before their first adventure. The replies turned into a small beginner's guide for WoW Forever.
 
 Trenton Reed posted the question on 2 October. WoW Forever brings together longtime players, returning players and complete newcomers like him, he wrote. He did not want the perfect build, but the advice nobody gave him.
 
@@ -28,13 +28,13 @@ Trenton Reed posted the question on 2 October. WoW Forever brings together longt
 
 ## Take your time
 
-The most common advice was not to rush. Several veterans told newcomers not to bury themselves in guides before they have even played. Go in blind, try out different abilities and discover the world on your own. Icy Veins adds one tip of its own: take screenshots of memorable moments, for an album of your journey.
+The most common advice was not to rush. Several veterans told newcomers not to bury themselves in guides before they have even played. Go in blind, try out different abilities and discover the world on your own. One more tip: take screenshots of memorable moments, for an album of your journey.
 
 ![A night elf temple with domed pavilions and purple trees at dusk, a screenshot from World of Warcraft](../../../assets/posts/2026-10-03-wow-forever-night-elf-temple-at-dusk.jpg)
 
 ## Don't be a stranger
 
-The social side came up often. Make friends and quest together, or simply be nice to people. Blizzard is experimenting with social systems such as a tool to look for a group, but meeting other players in other ways is still worth it, writes Icy Veins. Even a /wave can make someone's day.
+The social side came up often. Make friends and quest together, or simply be nice to people. Blizzard is experimenting with social systems such as a tool to look for a group, but meeting other players in other ways is still worth it. Even a /wave can make someone's day.
 
 ## Use your consumables
 
@@ -48,7 +48,7 @@ Flight paths came up again and again. Talk to the flight master in every new tow
 
 ## Don't fight Hogger at level 8
 
-Newcomers do not need to know everything before they start, concludes Icy Veins: pick something that looks fun, explore and make friends along the way. The most important advice came from slayzdam: do not fight <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a> at level 8.
+Newcomers do not need to know everything before they start: pick something that looks fun, explore and make friends along the way. The most important advice came from slayzdam: do not fight <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a> at level 8.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2106130909414261162">
   <button type="button" class="wf-embed__play">

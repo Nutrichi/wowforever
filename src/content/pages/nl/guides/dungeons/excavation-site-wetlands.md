@@ -7,7 +7,7 @@ updated: 2026-10-14
 lang: nl
 faq:
   - q: "Welk level is de Excavation Site in WoW Forever?"
-    a: "Blizzard geeft 26 tot 31. De quests kun je vanaf level 24 aannemen, maar de laatste baas is level 31, schrijft Wowhead."
+    a: "Blizzard geeft 26 tot 31. De quests kun je vanaf level 24 aannemen, maar de laatste baas is level 31."
   - q: "Waar is de Excavation Site?"
     a: "In de Wetlands, boven op een heuvel ten zuidoosten van Whelgar's Excavation Site. Nieuwe wegen leiden naar de ingang; in Classic was dit gebied onbereikbaar."
   - q: "Wat is gevaarlijk in de Excavation Site?"
@@ -36,7 +36,7 @@ De Excavation Site is een van de nieuwe dungeons van WoW Forever. De Explorers' 
 | Loot | Nieuwe blauwe items, de Titan Relic voor twee reeksen |
 | Nieuw in Forever | De hele dungeon |
 
-De beta van WoW Forever gaat sinds 1 oktober tot level 30. Wowhead werkt zijn gids bij naarmate testers de dungeon doen, dus details kunnen nog veranderen.
+De beta van WoW Forever gaat sinds 1 oktober tot level 30. Testers zijn de dungeon nog aan het verkennen, dus details kunnen nog veranderen.
 
 ## De weg erheen
 
@@ -200,7 +200,7 @@ Op de beta is Prehistoric Prism op dit moment niet af te ronden. Whelgar geeft d
 
 </div>
 
-Het level is het laagste level waarop de quest op te pikken is, volgens Wowhead. De beloningen komen uit de questdata van de beta en kunnen nog veranderen.
+Het level is het laagste level waarop de quest op te pikken is. De beloningen komen uit de questdata van de beta en kunnen nog veranderen.
 
 ## Het hoge gras
 
@@ -210,7 +210,7 @@ Blijf op het smalle pad en uit het gras, en vecht op open plekken. Zit er een Ma
 
 ## De bazen en hun loot
 
-De loot per baas komt van Wowhead.
+De loot per baas komt uit de beta.
 
 ### Saltspine
 
@@ -263,4 +263,4 @@ Start het gevecht met het Archival Panel rechts van de inactieve bewaker. Relic 
 - **Waar de Bloody Map naartoe leidt**, de beloning van Open the Maw.
 - **Wanneer Highland Hides en Prehistoric Prism hersteld worden**: beide zijn kapot op de beta.
 - **De dropkansen** van de loot van de bazen, behalve die van de Titan Relic.
-- **Wijzigingen als de levelgrens van de beta stijgt**: Wowhead houdt zijn gids bij.
+- **Wijzigingen als de levelgrens van de beta stijgt**: deze gids volgt ze.

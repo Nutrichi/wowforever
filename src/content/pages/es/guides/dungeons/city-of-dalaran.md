@@ -7,7 +7,7 @@ updated: 2026-10-16
 lang: es
 faq:
   - q: "¿Qué nivel tiene la City of Dalaran en WoW Forever?"
-    a: "Blizzard da un rango de 28 a 33. Wowhead recomienda los niveles 28 a 35."
+    a: "Blizzard da un rango de 28 a 33. Los niveles recomendados son del 28 al 35."
   - q: "¿Cómo se entra en la City of Dalaran?"
     a: "La Alliance entra por una tubería en Cantrips & Crows, en las Dalaran Sewers. La Horde entra por un túnel fuera de la ciudad, en /way 8.8 59.6; un jugador del grupo necesita la Dalaran Sewer Key."
   - q: "¿Cómo consigue la Horde la Dalaran Sewer Key?"
@@ -15,7 +15,7 @@ faq:
   - q: "¿Funciona el daño arcano en la City of Dalaran?"
     a: "Apenas. Casi todos los monstruos de la mazmorra son inmunes al Arcane, así que Arcane Explosion, Arcane Shot y Counterspell sirven de poco."
   - q: "¿Qué suelta la City of Dalaran?"
-    a: "Aún no se sabe. Los jefes están por encima del límite de nivel de la beta, y Wowhead todavía no tiene botín para ellos."
+    a: "Aún no se sabe. Los jefes están por encima del límite de nivel de la beta, y su botín todavía no se conoce."
   - q: "¿Cómo se invoca a Lyn the Ignored en City of Dalaran?"
     a: "Coge el Black Tome de la sala de Archmage Arugal en Shadowfang Keep, conviértelo en el Tome of Dalaran en el Ambermill Leyline Focus y usa ese libro sobre el círculo morado de las alcantarillas, pasado Atrexis the Grave Knight. El libro no se gasta y vuelve a funcionar a los 3 minutos."
 sources:
@@ -40,7 +40,7 @@ La City of Dalaran es una de las mazmorras nuevas de WoW Forever. La cúpula vio
 | Atención | Casi todos los monstruos son inmunes al Arcane |
 | Nombre corto | CoD |
 
-Desde la [build de la beta del 8 de octubre](/es/news/city-of-dalaran-opens-in-the-fourth-beta-week/), la mazmorra se puede probar en la beta. La beta llega al nivel 30 desde el 1 de octubre. Los últimos jefes están por encima, así que Wowhead aún no conoce todas sus mecánicas.
+Desde la [build de la beta del 8 de octubre](/es/news/city-of-dalaran-opens-in-the-fourth-beta-week/), la mazmorra se puede probar en la beta. La beta llega al nivel 30 desde el 1 de octubre. Los últimos jefes están por encima, así que aún no se conocen todas sus mecánicas.
 
 ## Cómo llegar
 

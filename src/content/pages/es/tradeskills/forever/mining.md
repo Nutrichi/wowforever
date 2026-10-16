@@ -86,7 +86,7 @@ Cada filón da como mucho un punto de habilidad, por muchas veces que lo golpees
 | 125 a 175 | Tin y Silver Vein, Iron Deposit, Gold Vein | Arathi Highlands, Desolace, Stranglethorn Vale, Thousand Needles |
 | 175 a 225 | Gold Vein, Mithril Deposit, Truesilver Deposit | Azshara, Tanaris, The Hinterlands |
 
-Tin deja de dar habilidad a partir de 165 y Silver a partir de 175, así que entonces no vale la pena desviarse. Wowhead aún no ha publicado una ruta de 225 a 300.
+Tin deja de dar habilidad a partir de 165 y Silver a partir de 175, así que entonces no vale la pena desviarse. Aún no se conoce una ruta de 225 a 300.
 
 ## Todos los filones
 
@@ -105,7 +105,7 @@ Los cuatro números son los colores de la habilidad: desde el primero puedes min
 | Small Thorium Vein | 245 / 270 / 295 / 345 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Un'Goro Crater, Silithus, Winterspring, Burning Steppes y más |
 | Rich Thorium Vein | 275 / 300 / 325 / 375 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Azshara, Burning Steppes, Eastern y Western Plaguelands, Un'Goro Crater, Winterspring, Dire Maul |
 
-Los filones también dan piedras y gemas, como <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> y <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> del cobre. Las listas completas por zona están en la guía de Wowhead.
+Los filones también dan piedras y gemas, como <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> y <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> del cobre. Las listas completas cambian según la zona.
 
 ## Fundir
 

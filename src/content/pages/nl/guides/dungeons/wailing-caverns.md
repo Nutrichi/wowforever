@@ -54,7 +54,7 @@ Wailing Caverns is een doolhof van grotten onder The Barrens, waar de druïde Na
 | <a href="https://www.wowhead.com/forever/quest=914">Leaders of the Fang</a><br>Horde | Thunder Bluff, Elder Rise: Nara Wildmane /way 45 23<br><em>Doe eerst 5 quests, te beginnen met The Forgotten Pools van Tonga Runetotem in de Crossroads.</em> | 15 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6505"><img class="wf-wh__icon" src="/wh/inv_staff_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Crescent Staff</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6504"><img class="wf-wh__icon" src="/wh/inv_sword_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wingblade</a> |
 | <a href="https://www.wowhead.com/forever/quest=962">Serpentbloom</a><br>Horde | Thunder Bluff, Pools of Vision: Apothecary Zamah /way 34 21 | 14 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> |
 
-Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead.
+Het level is het laagste level waarop je de quest kan aannemen.
 
 - **Deviate Eradication.** Dood een lijst monsters overal in de dungeon.
 - **Deviate Hides.** Verzamel 20 Deviate Hides; de meeste monsters binnen laten ze vallen.
@@ -70,7 +70,7 @@ De Druids of the Fang zijn de trash om op te letten. Hun Druid's Slumber laat ee
 
 ## De bazen en hun loot
 
-De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta.
+De loot per baas heeft de stats uit de bestanden van de beta.
 
 ### Kresh
 

@@ -1,6 +1,6 @@
 ---
 title: "Seaforium-Fässer räumen Dark-Iron-Gruppen in der Hall of Thanes ab"
-description: "Warcraft Tavern ist die Hall of Thanes Raum für Raum abgelaufen: der versteckte Gang im High Seat, Fässer, die Gruppen sprengen, eine Krankheit der Bloodhound Runts und ein Totem gegen den letzten Boss."
+description: "Die Hall of Thanes Raum für Raum: der versteckte Gang im High Seat, Fässer, die Gruppen sprengen, eine Krankheit der Bloodhound Runts und ein Totem gegen den letzten Boss."
 date: 2026-09-29T23:40:00+02:00
 category: forever
 lang: de
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Warcraft Tavern ist die Hall of Thanes, den neuen Dungeon der Allianz unter Ironforge, Raum für Raum abgelaufen. Der Weg zeigt Fässer, die Dark-Iron-Gruppen sprengen, eine Krankheit, die man besser heilt, und ein Totem, das die Furcht des Endbosses entschärft.
+Ein Weg Raum für Raum durch die Hall of Thanes, den neuen Dungeon der Allianz unter Ironforge, zeigt Fässer, die Dark-Iron-Gruppen sprengen, eine Krankheit, die man besser heilt, und ein Totem, das die Furcht des Endbosses entschärft.
 
 ## Der Weg hinein
 

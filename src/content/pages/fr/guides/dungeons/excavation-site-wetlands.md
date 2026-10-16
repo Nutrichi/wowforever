@@ -7,7 +7,7 @@ updated: 2026-10-14
 lang: fr
 faq:
   - q: "Quel niveau pour l’Excavation Site dans WoW Forever ?"
-    a: "Blizzard donne une fourchette de 26 à 31. Les quêtes se prennent au niveau 24, mais le dernier boss est de niveau 31, écrit Wowhead."
+    a: "Blizzard donne une fourchette de 26 à 31. Les quêtes se prennent au niveau 24, mais le dernier boss est de niveau 31."
   - q: "Où se trouve l’Excavation Site ?"
     a: "Dans les Wetlands, au sommet d’une colline au sud-est de Whelgar's Excavation Site. De nouvelles routes mènent à l’entrée ; dans Classic, cette zone était inaccessible."
   - q: "Qu’est-ce qui est dangereux dans l’Excavation Site ?"
@@ -36,7 +36,7 @@ L’Excavation Site est l’un des nouveaux donjons de WoW Forever. L’Explorer
 | Butin | De nouveaux objets bleus, le Titan Relic pour deux chaînes |
 | Nouveau dans Forever | Tout le donjon |
 
-La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Wowhead met son guide à jour à mesure que les testeurs font le donjon, les détails peuvent donc encore changer.
+La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Les testeurs explorent encore le donjon, les détails peuvent donc encore changer.
 
 ## Comment s’y rendre
 
@@ -200,7 +200,7 @@ Sur la bêta, Prehistoric Prism ne peut pas être terminée pour l’instant. Wh
 
 </div>
 
-Le niveau est le plus bas auquel la quête peut être prise, selon Wowhead. Les récompenses viennent des données de quête de la bêta et peuvent encore changer.
+Le niveau est le plus bas auquel la quête peut être prise. Les récompenses viennent des données de quête de la bêta et peuvent encore changer.
 
 ## Les hautes herbes
 
@@ -210,7 +210,7 @@ Restez sur le chemin étroit, hors des herbes, et combattez dans les zones déga
 
 ## Les boss et leur butin
 
-Le butin par boss vient de Wowhead.
+Le butin par boss vient de la bêta.
 
 ### Saltspine
 
@@ -263,4 +263,4 @@ Lancez le combat avec l’Archival Panel à droite du gardien inactif. Relic Gua
 - **Ce que la Bloody Map indique**, la récompense de Open the Maw.
 - **Quand Highland Hides et Prehistoric Prism seront corrigées** : les deux sont boguées sur la bêta.
 - **Les taux de butin** des boss, à part celui du Titan Relic.
-- **Les changements quand la limite de niveau de la bêta monte** : Wowhead tient son guide à jour.
+- **Les changements quand la limite de niveau de la bêta monte** : ce guide les suit.

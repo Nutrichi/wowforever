@@ -13,7 +13,7 @@ faq:
   - q: "Wie beschwört man Tuten'kash?"
     a: "Schlag den Gong. Zuerst kommen Wellen von Spinnen; schlag nach jeder Welle erneut, bis Tuten'kash erscheint."
   - q: "Hat sich die Beute von Razorfen Downs in WoW Forever geändert?"
-    a: "Teilweise. Glutton's Cleaver, Coldrage Dagger und mehrere Gegenstände für Zauberer bekamen neue Werte. Viele Drops wie X'caliboar stehen noch nicht in den Forever-Daten von Wowhead."
+    a: "Teilweise. Glutton's Cleaver, Coldrage Dagger und mehrere Gegenstände für Zauberer bekamen neue Werte. Viele Drops wie X'caliboar stehen noch nicht in den Forever-Daten."
 sources:
   - name: "Wowhead, der Dungeon-Guide"
     url: "https://www.wowhead.com/forever/guide/razorfen-downs-dungeon-overview-location-rewards"
@@ -53,7 +53,7 @@ Razorfen Downs ist die alte Hauptstadt der Quilboar, gewachsen aus denselben rie
 | <a href="https://www.wowhead.com/forever/quest=3341">Bring the End</a><br>Horde | Undercity, Magic Quarter: Andrew Brownell /way 74.0 32.8 | 37 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10823"><img class="wf-wh__icon" src="/wh/inv_sword_35.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vanquisher's Sword</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10824"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amberglow Talisman</a> |
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter: Varimathras /way 56.6 92.6<br><em>Erledige zuerst An Unholy Alliance aus Razorfen Kraul.</em> | 28 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
 
-Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wowhead. Der Dragonclaw Ring steht noch nicht in den Forever-Daten von Wowhead.
+Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann. Der Dragonclaw Ring steht noch nicht in den Forever-Daten.
 
 - **A Host of Evil.** Töte Death's Head Cultists, Razorfen Battleguards und Razorfen Thornweavers im ganzen Dungeon.
 - **Scourge of the Downs und Extinguishing the Idol.** Jeder Spieler spricht für die erste Quest zweimal mit Belnistrasz; das dritte Gespräch startet die Eskorte. Beschütze ihn, während sein Ritual das Idol abschaltet. Plaguemaw the Rotting kommt am Ende.
@@ -66,7 +66,7 @@ Die geisterhaften Freezing Spirits wirken Frost Nova. Stellt euch zum Tank, dami
 
 ## Die Bosse und ihre Beute
 
-Die Beute pro Boss stammt von Wowhead, mit den Werten aus den Dateien der Beta. Wowhead nennt weitere Drops, die noch nicht in den Forever-Daten seiner Tooltips stehen; sie stehen ohne Link da.
+Die Beute pro Boss hat die Werte aus den Dateien der Beta. Weitere Drops stehen noch nicht in den Forever-Daten; sie stehen ohne Link da.
 
 ### Tuten'kash
 
@@ -99,7 +99,7 @@ Ein einfacher Kampf. Bleib aus seiner Disease Cloud und heile den Tank durch sei
 
 ### Ragglesnout, ein Rare
 
-Sein Dominate Mind ist die Gefahr: Wird der Tank oder Heiler übernommen, springen die Hybriden ein. Unterbrich seinen Heal und seine Shadow Bolts. Wowhead nennt für ihn Savage Boar's Guard, Boar Champion's Belt und X'caliboar.
+Sein Dominate Mind ist die Gefahr: Wird der Tank oder Heiler übernommen, springen die Hybriden ein. Unterbrich seinen Heal und seine Shadow Bolts. Ältere Beutelisten nennen für ihn Savage Boar's Guard, Boar Champion's Belt und X'caliboar.
 
 ### Amnennar the Coldbringer
 
@@ -115,7 +115,7 @@ Der letzte Boss. Tanke ihn mit Blick zum Zelt, in dem er steht, um Amnennar's Wr
 
 ### Plaguemaw the Rotting
 
-Das Ende der Eskorte von Belnistrasz. Töte die Wellen einzeln, am besten mit einem Off-Tank, der sie von Belnistrasz wegzieht. Plaguemaw selbst ist ein einfacher Kampf. Wowhead nennt für ihn Swine Fists und Plaguerot Sprig.
+Das Ende der Eskorte von Belnistrasz. Töte die Wellen einzeln, am besten mit einem Off-Tank, der sie von Belnistrasz wegzieht. Plaguemaw selbst ist ein einfacher Kampf. Ältere Beutelisten nennen für ihn Swine Fists und Plaguerot Sprig.
 
 <div class="wf-shots">
 

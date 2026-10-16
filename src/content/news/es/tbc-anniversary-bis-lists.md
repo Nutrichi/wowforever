@@ -19,7 +19,7 @@ Las [listas best-in-slot](/es/bis/tbc/) de The Burning Crusade Classic Anniversa
 
 Las listas pre-raid usan equipo de mazmorras heroicas, profesiones, reputación, misiones y vendedores de insignias. La fase 1 cubre Karazhan, Gruul's Lair y Magtheridon's Lair, con el Tier 4. La fase 2 cubre Serpentshrine Cavern y Tempest Keep, con el Tier 5. La fase 3 añade Mount Hyjal y Black Temple con el Tier 6, la fase 4 Zul'Aman y la fase 5 Sunwell Plateau.
 
-Los reinos Anniversary aún no habían llegado a las fases 3 a 5 cuando aparecieron estas listas. Esas listas se basan en el lanzamiento original de 2007 y 2008, tal como lo documenta Icy Veins. Para un tercio de las especializaciones, más o menos, Icy Veins da el mismo equipo en la fase 3 y en la fase 4. Las listas lo indican.
+Los reinos Anniversary aún no habían llegado a las fases 3 a 5 cuando aparecieron estas listas. Esas listas se basan en el lanzamiento original de 2007 y 2008. Para un tercio de las especializaciones, más o menos, las guías dan el mismo equipo en la fase 3 y en la fase 4. Las listas lo indican.
 
 ## Elecciones destacadas
 

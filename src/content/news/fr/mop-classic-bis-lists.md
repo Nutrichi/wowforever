@@ -25,4 +25,4 @@ Certaines spécialisations gardent des bijoux de Throne of Thunder dans les phas
 
 ## Sources
 
-Les listes s’appuient sur les guides d’équipement d’Icy Veins. Quelques provenances d’objets erronées sur les pages sources ont été corrigées d’après les listes de rencontres, comme le raid de Jin'rokh the Breaker, le premier boss de Throne of Thunder.
+Les listes s’appuient sur des guides d’équipement reconnus. Quelques provenances d’objets erronées sur les pages sources ont été corrigées d’après les listes de rencontres, comme le raid de Jin'rokh the Breaker, le premier boss de Throne of Thunder.

@@ -36,7 +36,7 @@ Het kamp staat net buiten de Crossroads in The Barrens. De kisten gaan naar <a c
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Veilingmeester | 49.8 29.4 |
 
-Dit zijn de posities van de NPC-pagina's van Wowhead; zijn reputatiegids geeft /way 42 34 voor het kamp. Het kamp van de Alliance bij Three Corners heeft verkopers met recepten voor zeven tradeskills, een mount en titels. Of het kamp van de Horde hetzelfde verkoopt, tonen de gidsen nog niet.
+Dit zijn de posities van de NPC's; een reputatiegids geeft /way 42 34 voor het kamp. Het kamp van de Alliance bij Three Corners heeft verkopers met recepten voor zeven tradeskills, een mount en titels. Of het kamp van de Horde hetzelfde verkoopt, tonen de gidsen nog niet.
 
 ## De standings
 

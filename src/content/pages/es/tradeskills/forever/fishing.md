@@ -25,7 +25,7 @@ Fishing es una profesión secundaria, así que nunca te cuesta una de tus dos pl
 
 ## Qué cambia en Forever
 
-- **La comida de pescado es mejor.** Muchas recetas de Cooking con pescado se han reforzado o añadido, como <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13935"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baked Salmon</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13932"><img class="wf-wh__icon" src="/wh/inv_misc_fish_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Poached Sunscale Salmon</a> y <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=286152"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plated Armorfish</a>, y la mayoría de la comida da ahora un 5 % más de experiencia por muertes, escribe Wowhead.
+- **La comida de pescado es mejor.** Muchas recetas de Cooking con pescado se han reforzado o añadido, como <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13935"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baked Salmon</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13932"><img class="wf-wh__icon" src="/wh/inv_misc_fish_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Poached Sunscale Salmon</a> y <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=286152"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plated Armorfish</a>, y la mayoría de la comida da ahora un 5 % más de experiencia por muertes.
 - **Objetos de campamento:** Fishing fabrica el <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a>, el <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> y la <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a>.
 - **Clases útiles:** un Shaman llega más fácilmente a los bancos con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6196"><img class="wf-wh__icon" src="/wh/spell_nature_farsight.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Far Sight</a> y <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=546"><img class="wf-wh__icon" src="/wh/spell_frost_windwalkon.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Water Walking</a>, y un Hunter alimenta a su mascota con pescado crudo.
 
@@ -120,7 +120,7 @@ Desde 150 necesitas 225 de habilidad para pescar algo siempre en esas zonas, as�
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19022"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nat Pagle's Extreme Angler FC-5000</a> | +25 | 100 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> | +35 | 300 |
 
-Wowhead marca la FC-5000 como solo para la Horde. La Strong Fishing Pole la venden los vendedores de pesca; la Big Iron Fishing Pole se puede comerciar.
+La FC-5000 es solo para la Horde. La Strong Fishing Pole la venden los vendedores de pesca; la Big Iron Fishing Pole se puede comerciar.
 
 | Cebo | Habilidad | Desde |
 |---|---|---|
@@ -153,7 +153,7 @@ Algunos platos de pescado de Classic suben ahora tu habilidad de Fishing durante
 
 ## La Fishing Extravaganza
 
-El torneo de pesca de Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, cambia en dos puntos en Forever, escribe Wowhead:
+El torneo de pesca de Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, cambia en dos puntos en Forever:
 
 - **Ganan los 50 primeros jugadores**, no solo el primero que entrega.
 - **Cada ganador recibe** la <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> y una <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.

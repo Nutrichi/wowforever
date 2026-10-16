@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Een nieuwkomer in World of Warcraft vroeg veteranen op X om de ene tip die ze zelf hadden willen kennen voor hun eerste avontuur. De antwoorden werden een kleine beginnersgids voor WoW Forever, schrijft Icy Veins.
+Een nieuwkomer in World of Warcraft vroeg veteranen op X om de ene tip die ze zelf hadden willen kennen voor hun eerste avontuur. De antwoorden werden een kleine beginnersgids voor WoW Forever.
 
 Trenton Reed stelde de vraag op 2 oktober. WoW Forever brengt spelers van het eerste uur, terugkeerders en volslagen nieuwkomers zoals hij samen, schreef hij. Hij zocht niet de perfecte build, maar het advies dat niemand hem gaf.
 
@@ -29,13 +29,13 @@ Trenton Reed stelde de vraag op 2 oktober. WoW Forever brengt spelers van het ee
 
 ## Neem je tijd
 
-Het advies dat het vaakst terugkwam: haast je niet. Verschillende veteranen raadden nieuwkomers aan zich niet in gidsen te begraven voor ze zelfs maar gespeeld hebben. Ga blind, probeer verschillende abilities uit en ontdek de wereld zelf. Icy Veins voegt er een eigen tip aan toe: maak schermafdrukken van mooie momenten, voor een album van je reis.
+Het advies dat het vaakst terugkwam: haast je niet. Verschillende veteranen raadden nieuwkomers aan zich niet in gidsen te begraven voor ze zelfs maar gespeeld hebben. Ga blind, probeer verschillende abilities uit en ontdek de wereld zelf. Nog een tip: maak schermafdrukken van mooie momenten, voor een album van je reis.
 
 ![Een tempel van de Night Elves met overkoepelde paviljoens en paarse bomen in de schemering, een schermafdruk uit World of Warcraft](../../../assets/posts/2026-10-03-wow-forever-night-elf-temple-at-dusk.jpg)
 
 ## Blijf geen vreemde
 
-De sociale kant kwam vaak aan bod. Maak vrienden en quest samen, of wees gewoon vriendelijk. Blizzard experimenteert met sociale systemen zoals een tool om een groep te zoeken, maar andere spelers op een andere manier leren kennen blijft de moeite, schrijft Icy Veins. Zelfs een /wave kan iemands dag goedmaken.
+De sociale kant kwam vaak aan bod. Maak vrienden en quest samen, of wees gewoon vriendelijk. Blizzard experimenteert met sociale systemen zoals een tool om een groep te zoeken, maar andere spelers op een andere manier leren kennen blijft de moeite. Zelfs een /wave kan iemands dag goedmaken.
 
 ## Gebruik je consumables
 
@@ -49,7 +49,7 @@ Flight paths kwamen keer op keer terug. Spreek de flight master aan in elk nieuw
 
 ## Vecht niet tegen Hogger op level 8
 
-Nieuwkomers hoeven niet alles te weten voor ze beginnen, besluit Icy Veins: kies iets dat leuk lijkt, verken en maak onderweg vrienden. Het belangrijkste advies kwam van slayzdam: vecht niet tegen <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a> op level 8.
+Nieuwkomers hoeven niet alles te weten voor ze beginnen: kies iets dat leuk lijkt, verken en maak onderweg vrienden. Het belangrijkste advies kwam van slayzdam: vecht niet tegen <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a> op level 8.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2106130909414261162">
   <button type="button" class="wf-embed__play">

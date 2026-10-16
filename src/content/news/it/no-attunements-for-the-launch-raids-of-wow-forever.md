@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-I raid con cui apre World of Warcraft: Forever non richiedono attunement. I raid arrivano in formati fissi da 10, 20 e 40 giocatori, e la difficoltà non si adatta mai. Lo dice Blizzard in un'intervista con But Why Tho?, riassunta da Wowhead.
+I raid con cui apre World of Warcraft: Forever non richiedono attunement. I raid arrivano in formati fissi da 10, 20 e 40 giocatori, e la difficoltà non si adatta mai. Lo dice Blizzard in un'intervista con But Why Tho?.
 
 Se i raid successivi al lancio chiederanno un attunement, Blizzard per ora non lo vuole dire.
 

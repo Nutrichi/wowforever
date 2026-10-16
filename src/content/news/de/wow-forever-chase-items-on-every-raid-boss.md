@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Jeder Raidboss in World of Warcraft: Forever lässt ein Chase Item fallen. Blizzard sagte das in einem Interview mit The Sun auf der BlizzCon 2026, meldet Wowhead. Im selben Gespräch ging es um die neuen Zonen, die Talentbäume und die Erfahrungskurve, die sich nicht ändert.
+Jeder Raidboss in World of Warcraft: Forever lässt ein Chase Item fallen. Blizzard sagte das in einem Interview mit The Sun auf der BlizzCon 2026. Im selben Gespräch ging es um die neuen Zonen, die Talentbäume und die Erfahrungskurve, die sich nicht ändert.
 
 The Sun sprach mit Kris Zierhut, Principal Designer, und Michael Nuthals, Senior Encounter Designer.
 

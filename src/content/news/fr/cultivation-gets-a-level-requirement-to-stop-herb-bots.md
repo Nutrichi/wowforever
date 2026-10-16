@@ -33,7 +33,7 @@ Le 18 septembre, un joueur a partagé une capture d'écran sur le subreddit clas
   </button>
 </figure>
 
-Les bots mouraient en chemin vers le nord pour copier des herbes comme Mountain Silversage, Icecap et Black Lotus, écrit Icy Veins. Sur une bêta limitée au niveau 20, ces herbes ne servent pas à grand-chose. L'or des bots se vendait pourtant contre de l'argent réel, a écrit un joueur sur les forums officiels le 19 septembre.
+Les bots mouraient en chemin vers le nord pour copier des herbes comme Mountain Silversage, Icecap et Black Lotus. Sur une bêta limitée au niveau 20, ces herbes ne servent pas à grand-chose. L'or des bots se vendait pourtant contre de l'argent réel, a écrit un joueur sur les forums officiels le 19 septembre.
 
 ## La nouvelle règle
 
@@ -45,6 +45,6 @@ Peacebloom reste accessible à un nouveau personnage. Pour Black Lotus, à 300 d
 
 ## Le temps de recharge
 
-Icy Veins écrit aussi que le temps de recharge est passé de 23 heures à 1 heure, pour que les joueurs utilisent la racial plus souvent. Les notes de développement de Blizzard ne parlent pas du temps de recharge. Un joueur sur les forums voyait déjà un temps de recharge de 1 heure le 20 septembre, avant le nouveau build.
+Le temps de recharge serait aussi passé de 23 heures à 1 heure, pour que les joueurs utilisent la racial plus souvent. Les notes de développement de Blizzard ne parlent pas du temps de recharge. Un joueur sur les forums voyait déjà un temps de recharge de 1 heure le 20 septembre, avant le nouveau build.
 
 On ne sait pas si la règle arrêtera les bots. Les racials de Forever sont dans l'article sur [les nouvelles combinaisons de races et de classes](/fr/news/orc-mages-and-undead-paladins-arrive/).

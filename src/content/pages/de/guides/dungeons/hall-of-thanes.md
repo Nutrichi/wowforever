@@ -98,7 +98,7 @@ Einer der Spione lässt eine [Dark Iron Map](https://www.wowhead.com/forever/ite
 
 ![Afadra Dunwall in einer Bibliothek voller Bücher, oben an der Treppe vom Eingang von The Hall of Thanes](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-afadra-dunwall.jpg)
 
-**An Ancient Grudge.** Ein Ghostly Attendant wartet im zweiten Raum, Anvilmar's Rest. Er bittet darum, den Geist von Faldrim Anvilmar, dem ersten Boss, zur Ruhe zu bringen. Das ist die einzige Quest, die auch die Horde machen kann. Wer ohne Hearthstone geht, kommt auf dem Weg hinaus wieder an ihm vorbei, schreibt Warcraft Tavern. Belohnung: der Catacomb Cloak oder Deepgrave Trousers.
+**An Ancient Grudge.** Ein Ghostly Attendant wartet im zweiten Raum, Anvilmar's Rest. Er bittet darum, den Geist von Faldrim Anvilmar, dem ersten Boss, zur Ruhe zu bringen. Das ist die einzige Quest, die auch die Horde machen kann. Wer ohne Hearthstone geht, kommt auf dem Weg hinaus wieder an ihm vorbei. Belohnung: der Catacomb Cloak oder Deepgrave Trousers.
 
 ![Der Ghostly Attendant mit geöffnetem Questfenster von An Ancient Grudge, zwischen den Geistern des ersten Raums](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-ghostly-attendant.jpg)
 
@@ -160,7 +160,7 @@ Ein Geist, der durch die Mitte von Anvilmar's Rest patrouilliert. Räumt eine Se
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_11.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271096">Aetherwisp Bracers</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Cloth</span></span><span class="wf-item__line">15 Armor</span><span class="wf-item__line">+3 Stamina</span><span class="wf-item__line">Durability 20 / 20</span><span class="wf-item__line">Requires Level 13</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span></div></div>
 </div>
 
-Faldrim zieht die Geister um ihn herum nicht mit, schreibt Warcraft Tavern, aber schaff vor dem Pull trotzdem Platz.
+Faldrim zieht die Geister um ihn herum nicht mit, aber schaff vor dem Pull trotzdem Platz.
 
 ### Magmatus
 

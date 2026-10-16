@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-La missione principale della Hall of Thanes in World of Warcraft: Forever inizia con una mappa. La lasciano cadere le Dark Iron Spies di Dun Morogh, scrive Warcraft Tavern, che ha segnato tutte e cinque le missioni del dungeon. Le altre quattro iniziano al dungeon stesso.
+La missione principale della Hall of Thanes in World of Warcraft: Forever inizia con una mappa. La lasciano cadere le Dark Iron Spies di Dun Morogh, che ha segnato tutte e cinque le missioni del dungeon. Le altre quattro iniziano al dungeon stesso.
 
 ## La catena di Dun Morogh
 

@@ -35,7 +35,7 @@ The camp stands just outside the Crossroads in The Barrens. The crates go to <a 
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Auctioneer | 49.8 29.4 |
 
-These are the positions from the NPC pages of Wowhead; its reputation guide gives /way 42 34 for the camp. The Alliance camp at Three Corners has vendors with recipes for seven tradeskills, a mount and titles. Whether the Horde camp sells the same, the guides do not show yet.
+These are the positions of the NPCs; one reputation guide gives /way 42 34 for the camp. The Alliance camp at Three Corners has vendors with recipes for seven tradeskills, a mount and titles. Whether the Horde camp sells the same, the guides do not show yet.
 
 ## The standings
 

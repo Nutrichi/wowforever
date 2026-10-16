@@ -1,6 +1,6 @@
 ---
 title: "Grouping slows quests, so players level alone"
-description: "Crowded layers, quest drops that are not shared and weaker dungeon rewards make solo levelling the faster choice on the beta, argues Icy Veins, with complaints from Reddit and the forums."
+description: "Crowded layers, quest drops that are not shared and weaker dungeon rewards make solo levelling the faster choice on the beta, going by complaints from Reddit and the forums."
 date: 2026-10-04T20:30:00+02:00
 category: forever
 lang: en
@@ -12,7 +12,7 @@ tags: ["forever", "beta", "leveling", "dungeon"]
 featured: false
 draft: false
 ---
-Players on the beta of World of Warcraft: Forever often level alone, writes Icy Veins. Crowded zones turn questing into a race for objectives, and a group needs more drops. Dungeons also pay out less since the latest nerfs.
+Players on the beta of World of Warcraft: Forever often level alone. Crowded zones turn questing into a race for objectives, and a group needs more drops. Dungeons also pay out less since the latest nerfs.
 
 The article by Zweihander appeared on 4 October at 15.19 Belgian time. It gathers complaints from Reddit and the Blizzard forums, and adds a few suggestions of its own.
 
@@ -20,13 +20,13 @@ The article by Zweihander appeared on 4 October at 15.19 Belgian time. It gather
 
 ## Back to the open world
 
-In Classic, elite dungeon mobs gave 2.5 times the experience, according to Icy Veins. Players therefore ran the same dungeons over and over. Forever takes almost all experience away from dungeon mobs and moves it to dungeon quests, as [Blizzard announced in September](/news/wow-forever-dungeon-experience-changes/). Killing monsters in a dungeon now gives less than questing alone outside.
+In Classic, elite dungeon mobs gave 2.5 times the experience. Players therefore ran the same dungeons over and over. Forever takes almost all experience away from dungeon mobs and moves it to dungeon quests, as [Blizzard announced in September](/news/wow-forever-dungeon-experience-changes/). Killing monsters in a dungeon now gives less than questing alone outside.
 
 ![A group of players fights skeletons and an abomination in the burning streets of Stratholme, a screenshot from World of Warcraft](../../../assets/posts/2026-10-04-wow-forever-group-fights-in-stratholme.jpg)
 
 ## Crowded zones
 
-With more players outside, the race for quest objectives grows. Layers are now tied to a zone, so every layer is full of players, writes Icy Veins. Before, a quiet layer let you quest without interruption. On the classicwow subreddit, a player hopes the crowded layers are only for the beta.
+With more players outside, the race for quest objectives grows. Layers are now tied to a zone, so every layer is full of players. Before, a quiet layer let you quest without interruption. On the classicwow subreddit, a player hopes the crowded layers are only for the beta.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wp7zyy/way_overpopulated_layers_i_hope_its_just_for_the">
   <button type="button" class="wf-embed__play">
@@ -38,11 +38,11 @@ With more players outside, the race for quest objectives grows. Layers are now t
   </button>
 </figure>
 
-Quest items on the ground have too few spawn points and respawn slowly. Several players wait at every spawn of a quest mob. Escort quests are the worst: they often return only every 5 to 15 minutes, and the timer starts after the previous escort ends. Blizzard has raised respawn rates in several zones, but according to Icy Veins that barely helps.
+Quest items on the ground have too few spawn points and respawn slowly. Several players wait at every spawn of a quest mob. Escort quests are the worst: they often return only every 5 to 15 minutes, and the timer starts after the previous escort ends. Blizzard has raised respawn rates in several zones, but that barely seems to help.
 
 ## Why a group does not help
 
-Quest drops and objects are not shared in a group. Every extra member means more drops to collect before the group can move on, so players turn down invites, writes Icy Veins.
+Quest drops and objects are not shared in a group. Every extra member means more drops to collect before the group can move on, so players turn down invites.
 
 ![Two players fight a large thunder lizard in a red canyon in Durotar, a screenshot from World of Warcraft](../../../assets/posts/2026-10-04-wow-forever-leveling-alone-in-durotar.jpg)
 
@@ -60,17 +60,17 @@ Blizzard already spreads quest drops more evenly over a group, with [bad luck pr
 
 ## Less from dungeons
 
-Since the beta patch of 1 October, dungeon quests give [50% less bonus experience](/news/dungeon-quests-give-50-percent-less-bonus-experience/). Only the bonus that Forever added is affected; the base experience stays. Without experience from mobs, the same run now pays even less, according to Icy Veins.
+Since the beta patch of 1 October, dungeon quests give [50% less bonus experience](/news/dungeon-quests-give-50-percent-less-bonus-experience/). Only the bonus that Forever added is affected; the base experience stays. Without experience from mobs, the same run now pays even less.
 
 ![Concept art of Wailing Caverns: a waterfall in a green cave with ruins and old pillars, an official image from World of Warcraft](../../../assets/posts/2026-10-04-wow-forever-wailing-caverns-waterfall.jpg)
 
-Icy Veins takes Wailing Caverns as an example. Deviate Hides can take several runs, the dungeon is long and its trash cannot be skipped. Whoever leaves after an hour with two or three quests done has little reason for a second run. Once your quests are done, a dungeon offers next to nothing, so helping others costs time too.
+Wailing Caverns is a good example. Deviate Hides can take several runs, the dungeon is long and its trash cannot be skipped. Whoever leaves after an hour with two or three quests done has little reason for a second run. Once your quests are done, a dungeon offers next to nothing, so helping others costs time too.
 
 Quest rewards and dungeon drops also lost stats with the patch of 1 October, Senior Game Designer Aidan Moon, known as Zirene, confirmed on the forums. Players saw rare rewards turn into weaker green versions, like the [necklaces for 10 books](/news/necklaces-for-10-books-drop-to-green-quality/).
 
 ## Skips and new players
 
-Because dungeon mobs give almost no experience, groups skip everything that drops no gear and has no quest. That is fast for veterans but daunting for new players, writes Icy Veins. Levelling dungeons that should teach group play start to look like endgame runs, with jumps and routes that newcomers do not know.
+Because dungeon mobs give almost no experience, groups skip everything that drops no gear and has no quest. That is fast for veterans but daunting for new players. Levelling dungeons that should teach group play start to look like endgame runs, with jumps and routes that newcomers do not know.
 
 On the classicwow subreddit, redlow0992 writes that new players feel bad in groups of veterans who skip half the dungeon. Veterans in turn get frustrated by newcomers who do not know the jumps.
 
@@ -86,7 +86,7 @@ On the classicwow subreddit, redlow0992 writes that new players feel bad in grou
 
 ## Tanks and healers
 
-Tank and healing specs level more slowly alone than damage specs, so the nerfs hit them hardest. Dual Specialization unlocks at level 40 and costs 50 gold, too much for many new players, according to Icy Veins. It suggests lowering both the price and the level. On the wowforever subreddit, healers ask Blizzard not to forget them.
+Tank and healing specs level more slowly alone than damage specs, so the nerfs hit them hardest. Dual Specialization unlocks at level 40 and costs 50 gold, too much for many new players. It suggests lowering both the price and the level. On the wowforever subreddit, healers ask Blizzard not to forget them.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/wowforever/comments/1wvmi4k/healers_the_50_dungeon_quest_xp_nerf_blizzard">
   <button type="button" class="wf-embed__play">
@@ -98,4 +98,4 @@ Tank and healing specs level more slowly alone than damage specs, so the nerfs h
   </button>
 </figure>
 
-Icy Veins asks whether shared quest drops in a group would really harm the Classic experience. Whether Blizzard changes anything before the launch on 4 November is not known.
+The open question is whether shared quest drops in a group would really harm the Classic experience. Whether Blizzard changes anything before the launch on 4 November is not known.

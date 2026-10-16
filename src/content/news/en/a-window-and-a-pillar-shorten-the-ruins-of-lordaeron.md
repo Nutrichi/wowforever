@@ -1,6 +1,6 @@
 ---
 title: "A window and a pillar shorten the Ruins of Lordaeron"
-description: "Warcraft Tavern mapped the Ruins of Lordaeron as a U-shaped route with shortcuts, gargoyles that turn to stone and a rare captain that only the Horde can fight."
+description: "The Ruins of Lordaeron follow a U-shaped route with shortcuts, gargoyles that turn to stone and a rare captain that only the Horde can fight."
 date: 2026-09-29T23:45:00+02:00
 category: forever
 lang: en
@@ -12,7 +12,7 @@ tags: ["forever", "beta", "dungeon"]
 featured: false
 draft: false
 ---
-The Ruins of Lordaeron follow a U-shaped route with a few shortcuts, according to a new guide from Warcraft Tavern. A window skips the first spider packs and a broken pillar leads past The Baron. A rare captain only fights the Horde.
+The Ruins of Lordaeron follow a U-shaped route with a few shortcuts. A window skips the first spider packs and a broken pillar leads past The Baron. A rare captain only fights the Horde.
 
 ## The shortcuts
 

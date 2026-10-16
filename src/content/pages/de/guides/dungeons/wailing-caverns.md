@@ -54,7 +54,7 @@ Wailing Caverns ist ein Höhlenlabyrinth unter The Barrens, in dem der Druide Na
 | <a href="https://www.wowhead.com/forever/quest=914">Leaders of the Fang</a><br>Horde | Thunder Bluff, Elder Rise: Nara Wildmane /way 45 23<br><em>Erledige zuerst 5 Quests, beginnend mit The Forgotten Pools von Tonga Runetotem in den Crossroads.</em> | 15 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6505"><img class="wf-wh__icon" src="/wh/inv_staff_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Crescent Staff</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6504"><img class="wf-wh__icon" src="/wh/inv_sword_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wingblade</a> |
 | <a href="https://www.wowhead.com/forever/quest=962">Serpentbloom</a><br>Horde | Thunder Bluff, Pools of Vision: Apothecary Zamah /way 34 21 | 14 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> |
 
-Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wowhead.
+Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann.
 
 - **Deviate Eradication.** Töte eine Liste von Monstern überall im Dungeon.
 - **Deviate Hides.** Sammle 20 Deviate Hides; die meisten Monster drinnen lassen sie fallen.
@@ -70,7 +70,7 @@ Die Druids of the Fang sind der Trash, auf den du achten musst. Ihr Druid's Slum
 
 ## Die Bosse und ihre Beute
 
-Die Beute pro Boss stammt von Wowhead, mit den Werten aus den Dateien der Beta.
+Die Beute pro Boss hat die Werte aus den Dateien der Beta.
 
 ### Kresh
 

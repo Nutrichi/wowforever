@@ -19,7 +19,7 @@ Orgrimmar is de factie van Orgrimmar, de hoofdstad van de orcs, door Thrall gebo
 
 ## Waar je begint
 
-Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, die de databank wago.tools uit build 1.15.9 leest.
+Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, build 1.15.9.
 
 | Jouw ras | Standing bij het begin |
 |---|---|
@@ -45,7 +45,7 @@ De Forsaken zijn de uitzondering. Zij beginnen hier op Neutral, een standing lag
 
 ### Quests
 
-Quests voor Orgrimmar geven de meeste reputatie. Wowhead wijst naar Durotar, Orgrimmar, The Barrens, de Stonetalon Mountains, Silverpine Forest, Azshara, de Blasted Lands en Alterac Valley. De meeste quests voor één stad van de Horde geven ook een kwart van die reputatie aan de andere steden van de Horde.
+Quests voor Orgrimmar geven de meeste reputatie. De beste zones zijn Durotar, Orgrimmar, The Barrens, de Stonetalon Mountains, Silverpine Forest, Azshara, de Blasted Lands en Alterac Valley. De meeste quests voor één stad van de Horde geven ook een kwart van die reputatie aan de andere steden van de Horde.
 
 ### Stofdonaties
 

@@ -25,4 +25,4 @@ Diverse liste segnalano leggendari che restano best-in-slot. Val'anyr, Hammer of
 
 Le liste si basano su guide all’equipaggiamento affermate per la fase 1 di WotLK Classic.
 
-Per la fase 3, Icy Veins divide alcune tabelle per fazione. Le liste usano gli oggetti dell’Alliance; le versioni della Horde cadono dagli stessi boss con lo stesso livello oggetto. Alcune provenienze di oggetti sbagliate sulle pagine di origine sono state corrette con gli elenchi degli scontri.
+Per la fase 3, le guide dividono alcune tabelle per fazione. Le liste usano gli oggetti dell’Alliance; le versioni della Horde cadono dagli stessi boss con lo stesso livello oggetto. Alcune provenienze di oggetti sbagliate sulle pagine di origine sono state corrette con gli elenchi degli scontri.

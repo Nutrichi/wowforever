@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-La misión principal del Hall of Thanes en World of Warcraft: Forever empieza con un mapa. Lo sueltan los Dark Iron Spies de Dun Morogh, escribe Warcraft Tavern, que ha señalado las cinco misiones de la mazmorra. Las otras cuatro empiezan en la propia mazmorra.
+La misión principal del Hall of Thanes en World of Warcraft: Forever empieza con un mapa. Lo sueltan los Dark Iron Spies de Dun Morogh, que ha señalado las cinco misiones de la mazmorra. Las otras cuatro empiezan en la propia mazmorra.
 
 ## La cadena de Dun Morogh
 

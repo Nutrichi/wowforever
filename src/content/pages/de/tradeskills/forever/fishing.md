@@ -25,7 +25,7 @@ Fishing ist ein Nebenberuf und kostet dich also nie einen deiner zwei Hauptplät
 
 ## Was sich in Forever ändert
 
-- **Fischgerichte sind besser.** Viele Cooking-Rezepte mit Fisch wurden verstärkt oder neu hinzugefügt, etwa <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13935"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baked Salmon</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13932"><img class="wf-wh__icon" src="/wh/inv_misc_fish_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Poached Sunscale Salmon</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=286152"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plated Armorfish</a>, und das meiste Essen gibt jetzt 5 % mehr Erfahrung aus Kills, schreibt Wowhead.
+- **Fischgerichte sind besser.** Viele Cooking-Rezepte mit Fisch wurden verstärkt oder neu hinzugefügt, etwa <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13935"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baked Salmon</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13932"><img class="wf-wh__icon" src="/wh/inv_misc_fish_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Poached Sunscale Salmon</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=286152"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plated Armorfish</a>, und das meiste Essen gibt jetzt 5 % mehr Erfahrung aus Kills.
 - **Lagerobjekte:** Fishing stellt die <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a>, das <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> und die <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a> her.
 - **Nützliche Klassen:** Ein Shaman erreicht Fischschwärme leichter mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6196"><img class="wf-wh__icon" src="/wh/spell_nature_farsight.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Far Sight</a> und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=546"><img class="wf-wh__icon" src="/wh/spell_frost_windwalkon.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Water Walking</a>, und ein Hunter füttert sein Tier mit rohem Fisch.
 
@@ -120,7 +120,7 @@ Ab 150 brauchst du dort 225 Skill für einen sicheren Fang, also nimm Köder. Di
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19022"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nat Pagle's Extreme Angler FC-5000</a> | +25 | 100 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> | +35 | 300 |
 
-Wowhead führt die FC-5000 als nur für die Horde. Die Strong Fishing Pole verkaufen die Angelhändler; die Big Iron Fishing Pole ist handelbar.
+Die FC-5000 ist nur für die Horde. Die Strong Fishing Pole verkaufen die Angelhändler; die Big Iron Fishing Pole ist handelbar.
 
 | Köder | Skill | Ab Skill |
 |---|---|---|
@@ -153,7 +153,7 @@ Einige Fischgerichte aus Classic erhöhen jetzt eine Weile deinen Fishing-Skill.
 
 ## Die Fishing Extravaganza
 
-Das Angelturnier in Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, ändert sich in Forever in zwei Punkten, schreibt Wowhead:
+Das Angelturnier in Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, ändert sich in Forever in zwei Punkten:
 
 - **Die ersten 50 Spieler gewinnen**, nicht nur der Erste, der abgibt.
 - **Jeder Gewinner bekommt** die <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> und eine <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.

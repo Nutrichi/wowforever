@@ -19,7 +19,7 @@ Undercity is de factie van de hoofdstad van de Forsaken onder de ruïnes van Lor
 
 ## Waar je begint
 
-Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, die de databank wago.tools uit build 1.15.9 leest.
+Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, build 1.15.9.
 
 | Jouw ras | Standing bij het begin |
 |---|---|
@@ -42,7 +42,7 @@ Orcs, Tauren en Trolls beginnen hier op Neutral, een standing lager dan de Forsa
 
 ### Quests
 
-Quests voor Undercity geven de meeste reputatie. Wowhead wijst naar Tirisfal Glades, Silverpine Forest, Hillsbrad Foothills, de Arathi Highlands, The Hinterlands en de Western Plaguelands. De meeste quests voor één stad van de Horde geven ook een kwart van die reputatie aan de andere steden van de Horde.
+Quests voor Undercity geven de meeste reputatie. De beste zones zijn Tirisfal Glades, Silverpine Forest, Hillsbrad Foothills, de Arathi Highlands, The Hinterlands en de Western Plaguelands. De meeste quests voor één stad van de Horde geven ook een kwart van die reputatie aan de andere steden van de Horde.
 
 ### Stofdonaties
 

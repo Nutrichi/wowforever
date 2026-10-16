@@ -1,6 +1,6 @@
 ---
 title: "Ein Fenster und eine Säule kürzen die Ruins of Lordaeron ab"
-description: "Warcraft Tavern hat die Ruins of Lordaeron als U-förmigen Weg mit Abkürzungen kartiert, mit Gargoyles, die zu Stein werden, und einem seltenen Hauptmann, den nur die Horde bekämpfen kann."
+description: "Die Ruins of Lordaeron folgen einem U-förmigen Weg mit Abkürzungen, mit Gargoyles, die zu Stein werden, und einem seltenen Hauptmann, den nur die Horde bekämpfen kann."
 date: 2026-09-29T23:45:00+02:00
 category: forever
 lang: de
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Die Ruins of Lordaeron folgen einem U-förmigen Weg mit ein paar Abkürzungen, so ein neuer Guide von Warcraft Tavern. Ein Fenster überspringt die ersten Spinnengruppen, und eine zerbrochene Säule führt an The Baron vorbei. Ein seltener Hauptmann kämpft nur gegen die Horde.
+Die Ruins of Lordaeron folgen einem U-förmigen Weg mit ein paar Abkürzungen. Ein Fenster überspringt die ersten Spinnengruppen, und eine zerbrochene Säule führt an The Baron vorbei. Ein seltener Hauptmann kämpft nur gegen die Horde.
 
 ## Die Abkürzungen
 

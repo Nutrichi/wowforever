@@ -25,4 +25,4 @@ Sommige specs houden trinkets uit Throne of Thunder aan in latere fasen. Feral e
 
 ## Bronnen
 
-De lijsten zijn gebaseerd op de gearguides van Icy Veins. Een paar foute herkomsten van items op de bronpagina's zijn rechtgezet aan de hand van de lijsten met encounters, zoals de raid van Jin'rokh the Breaker, de eerste baas van Throne of Thunder.
+De lijsten zijn gebaseerd op gevestigde gearguides. Een paar foute herkomsten van items op de bronpagina's zijn rechtgezet aan de hand van de lijsten met encounters, zoals de raid van Jin'rokh the Breaker, de eerste baas van Throne of Thunder.

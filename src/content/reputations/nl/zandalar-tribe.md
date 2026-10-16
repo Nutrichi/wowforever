@@ -44,7 +44,7 @@ Op **Yojamba Isle**, ten westen van Zul'Gurub. Exzhal geeft de quests, Vinchaxa 
 | Bloodlord Mandokir en Jin'do the Hexxer | 200 |
 | Hakkar | 400 |
 
-Icy Veins rekent ongeveer 2.400 tot 3.000 reputatie voor een volledige run. Zul'Gurub reset elke drie dagen.
+Een volledige run geeft ongeveer 2.400 tot 3.000 reputatie. Zul'Gurub reset elke drie dagen.
 
 ### Munten
 

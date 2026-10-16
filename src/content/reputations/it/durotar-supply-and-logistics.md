@@ -36,7 +36,7 @@ L’accampamento si trova appena fuori dalla Crossroads, in The Barrens. Le cass
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Banditore | 49.8 29.4 |
 
-Sono le posizioni delle pagine PNG di Wowhead; la sua guida alla reputazione dà /way 42 34 per l’accampamento. L’accampamento dell’Alleanza a Three Corners ha venditori con ricette per sette professioni, una cavalcatura e titoli. Se quello dell’Orda venda lo stesso, le guide non lo mostrano ancora.
+Sono le posizioni dei PNG; una guida alla reputazione dà /way 42 34 per l’accampamento. L’accampamento dell’Alleanza a Three Corners ha venditori con ricette per sette professioni, una cavalcatura e titoli. Se quello dell’Orda venda lo stesso, le guide non lo mostrano ancora.
 
 ## I livelli
 

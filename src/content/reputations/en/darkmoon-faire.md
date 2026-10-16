@@ -49,7 +49,7 @@ Every turn-in gives 100 reputation and a number of Darkmoon Faire Prize Tickets.
 | 4 | 12 | 30 | 2,500 into Neutral |
 | 5 | 20 | 40 | 5,999 into Friendly |
 
-Several players report in the comments on Wowhead that tier 5 already stops giving reputation at about 2,000 into Friendly, while the turn-in itself stays available for tickets.
+Several players report that tier 5 already stops giving reputation at about 2,000 into Friendly, while the turn-in itself stays available for tickets.
 
 | Quest giver | Turn-ins | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|---|---|
@@ -76,7 +76,7 @@ The cards can be traded, the trinkets are Bind on Pickup and need level 60.
 ## The fastest way to Exalted
 
 1. Turn in each tier while your level and standing still allow it; a tier you skip disappears once you pass its limit.
-2. After that, only decks count. Wowhead counts about 220 decks to Exalted, so it is a goal for collectors only.
+2. After that, only decks count. It takes about 220 decks to Exalted, so it is a goal for collectors only.
 
 ## What tickets buy
 

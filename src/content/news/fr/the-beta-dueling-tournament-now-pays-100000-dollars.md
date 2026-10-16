@@ -17,7 +17,7 @@ Le premier tournoi de duels de WoW Forever a désormais une cagnotte de 100 000 
 
 ## Le tournoi
 
-Tips, connu sous le nom de TipsOut, a annoncé The Forever Open le 27 septembre, avec Xaryu et Esfand, écrit Icy Veins. Son message sur X donne les règles : le ruleset PvP, le côté Horde, le niveau 30, et au départ une cagnotte de 50 000 dollars.
+Tips, connu sous le nom de TipsOut, a annoncé The Forever Open le 27 septembre, avec Xaryu et Esfand. Son message sur X donne les règles : le ruleset PvP, le côté Horde, le niveau 30, et au départ une cagnotte de 50 000 dollars.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104269843826627048">
   <button type="button" class="wf-embed__play">
@@ -33,7 +33,7 @@ Le tournoi est ouvert à tous. Les joueurs s’inscrivent sur le serveur Discord
 
 ## Une cagnotte doublée
 
-Un jour plus tard, TimTheTatman a ajouté 50 000 dollars de plus, par pur amour de Classic WoW, selon un message sur X qui relayait son annonce. Tips a confirmé les détails dans une nouvelle vidéo animée, écrit Icy Veins.
+Un jour plus tard, TimTheTatman a ajouté 50 000 dollars de plus, par pur amour de Classic WoW, selon un message sur X qui relayait son annonce. Tips a confirmé les détails dans une nouvelle vidéo animée.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104651349300572501">
   <button type="button" class="wf-embed__play">

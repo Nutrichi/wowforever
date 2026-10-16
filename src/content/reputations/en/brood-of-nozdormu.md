@@ -40,7 +40,7 @@ Hated to Exalted is 84,000 reputation, twice as much as a faction that starts at
 
 ### Kills in Ahn'Qiraj
 
-The trash of the Ruins and the Temple of Ahn'Qiraj gives reputation, but only up to Neutral. From there on, quests carry you. Icy Veins counts 500 reputation for each boss of the Temple of Ahn'Qiraj after Neutral.
+The trash of the Ruins and the Temple of Ahn'Qiraj gives reputation, but only up to Neutral. From there on, quests carry you. After Neutral, each boss of the Temple of Ahn'Qiraj gives about 500 reputation.
 
 ### Repeatable quests
 

@@ -7,7 +7,7 @@ updated: 2026-10-14
 lang: de
 faq:
   - q: "Welche Stufe hat die Excavation Site in WoW Forever?"
-    a: "Blizzard nennt einen Bereich von 26 bis 31. Die Quests lassen sich ab Stufe 24 annehmen, aber der letzte Boss ist Stufe 31, schreibt Wowhead."
+    a: "Blizzard nennt einen Bereich von 26 bis 31. Die Quests lassen sich ab Stufe 24 annehmen, aber der letzte Boss ist Stufe 31."
   - q: "Wo liegt die Excavation Site?"
     a: "In den Wetlands, oben auf einem Hügel südöstlich von Whelgar's Excavation Site. Neue Straßen führen zum Eingang; in Classic war dieses Gebiet nicht erreichbar."
   - q: "Was ist in der Excavation Site gefährlich?"
@@ -36,7 +36,7 @@ Die Excavation Site ist einer der neuen Dungeons von WoW Forever. Die Explorers'
 | Beute | Neue blaue Gegenstände, der Titan Relic für zwei Reihen |
 | Neu in Forever | Der ganze Dungeon |
 
-Die Beta von WoW Forever geht seit dem 1. Oktober bis Stufe 30. Wowhead aktualisiert seinen Guide, während Tester den Dungeon spielen, Details können sich also noch ändern.
+Die Beta von WoW Forever geht seit dem 1. Oktober bis Stufe 30. Tester erkunden den Dungeon noch, Details können sich also noch ändern.
 
 ## Der Weg dorthin
 
@@ -200,7 +200,7 @@ Auf der Beta lässt sich Prehistoric Prism derzeit nicht abschließen. Whelgar g
 
 </div>
 
-Die Stufe ist die niedrigste, ab der die Quest angenommen werden kann, laut Wowhead. Die Belohnungen stammen aus den Questdaten der Beta und können sich noch ändern.
+Die Stufe ist die niedrigste, ab der die Quest angenommen werden kann. Die Belohnungen stammen aus den Questdaten der Beta und können sich noch ändern.
 
 ## Das hohe Gras
 
@@ -210,7 +210,7 @@ Bleib auf dem schmalen Pfad und aus dem Gras heraus, und kämpfe an offenen Stel
 
 ## Die Bosse und ihre Beute
 
-Die Beute pro Boss stammt von Wowhead.
+Die Beute pro Boss stammt aus der Beta.
 
 ### Saltspine
 
@@ -263,4 +263,4 @@ Starte den Kampf mit dem Archival Panel rechts vom inaktiven Wächter. Relic Gua
 - **Wohin die Bloody Map führt**, die Belohnung von Open the Maw.
 - **Wann Highland Hides und Prehistoric Prism behoben werden**: Beide sind auf der Beta fehlerhaft.
 - **Die Dropchancen** der Bossbeute, außer der des Titan Relic.
-- **Änderungen, wenn die Stufengrenze der Beta steigt**: Wowhead hält seinen Guide aktuell.
+- **Änderungen, wenn die Stufengrenze der Beta steigt**: dieser Guide zieht nach.

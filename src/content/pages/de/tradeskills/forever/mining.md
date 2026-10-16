@@ -86,7 +86,7 @@ Jedes Vorkommen gibt höchstens einen Skillpunkt, egal wie oft du zuschlägst.
 | 125 bis 175 | Tin und Silver Vein, Iron Deposit, Gold Vein | Arathi Highlands, Desolace, Stranglethorn Vale, Thousand Needles |
 | 175 bis 225 | Gold Vein, Mithril Deposit, Truesilver Deposit | Azshara, Tanaris, The Hinterlands |
 
-Tin gibt ab 165 keinen Skill mehr und Silver ab 175, dann lohnt sich kein Umweg mehr. Eine Route von 225 bis 300 hat Wowhead noch nicht veröffentlicht.
+Tin gibt ab 165 keinen Skill mehr und Silver ab 175, dann lohnt sich kein Umweg mehr. Eine Route von 225 bis 300 ist noch nicht bekannt.
 
 ## Alle Vorkommen
 
@@ -105,7 +105,7 @@ Die vier Zahlen sind die Skillfarben: ab der ersten kannst du es abbauen, dann g
 | Small Thorium Vein | 245 / 270 / 295 / 345 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Un'Goro Crater, Silithus, Winterspring, Burning Steppes und mehr |
 | Rich Thorium Vein | 275 / 300 / 325 / 375 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Azshara, Burning Steppes, Eastern und Western Plaguelands, Un'Goro Crater, Winterspring, Dire Maul |
 
-Vorkommen geben auch Steine und Edelsteine, etwa <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> und <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> aus Kupfer. Die vollständigen Listen pro Zone stehen im Guide von Wowhead.
+Vorkommen geben auch Steine und Edelsteine, etwa <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> und <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> aus Kupfer. Die vollständigen Listen unterscheiden sich je nach Zone.
 
 ## Verhütten
 

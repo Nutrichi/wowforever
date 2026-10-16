@@ -1,6 +1,6 @@
 ---
 title: "Una ventana y una columna acortan las Ruins of Lordaeron"
-description: "Warcraft Tavern trazó las Ruins of Lordaeron como una ruta en U con atajos, gárgolas que se vuelven de piedra y un capitán raro al que solo puede combatir la Horde."
+description: "Las Ruins of Lordaeron siguen una ruta en U con atajos, gárgolas que se vuelven de piedra y un capitán raro al que solo puede combatir la Horde."
 date: 2026-09-29T23:45:00+02:00
 category: forever
 lang: es
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Las Ruins of Lordaeron siguen una ruta en U con algunos atajos, según una nueva guía de Warcraft Tavern. Una ventana se salta los primeros grupos de arañas y una columna rota lleva más allá de The Baron. Un capitán raro solo lucha contra la Horde.
+Las Ruins of Lordaeron siguen una ruta en U con algunos atajos. Una ventana se salta los primeros grupos de arañas y una columna rota lleva más allá de The Baron. Un capitán raro solo lucha contra la Horde.
 
 ## Los atajos
 

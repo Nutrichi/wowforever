@@ -186,7 +186,7 @@ Eine große Spinne, die mit zwei kleineren Spinnen durch King's Alley patrouilli
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_07.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271202">Witherbite Bracers</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Leather</span></span><span class="wf-item__line">37 Armor</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Intellect</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Durability 30 / 30</span><span class="wf-item__line">Requires Level 15</span></div></div>
 </div>
 
-Sie zieht ihre Patrouille nicht mit, schreibt Warcraft Tavern: ein Pull aus der Ferne bringt sie allein.
+Sie zieht ihre Patrouille nicht mit: ein Pull aus der Ferne bringt sie allein.
 
 ### The Baron
 
@@ -290,7 +290,7 @@ Ein Rare mit einer kleinen Chance, auf der Westseite des Dungeons zu erscheinen.
 
 ## Was noch nicht bekannt ist
 
-- Welcher Boss als Endboss gilt. Der Boss auf Stufe 20 hat keinen festen Platz in der Reihenfolge; Warcraft Tavern beendet seinen Weg bei Rath'mael.
+- Welcher Boss als Endboss gilt. Der Boss auf Stufe 20 hat keinen festen Platz in der Reihenfolge; gängige Wege enden bei Rath'mael.
 - Ob Viktor the Vile zum Start immer erscheint. In der Beta tut er das manchmal nicht.
 - Wo der Rest von Rotmender's Raiment fällt, und bei welchem Schritt Unending Torment Slain Baron's Signet gibt.
 - Wie viel Erfahrung The Wrath of Rath'mael bringt

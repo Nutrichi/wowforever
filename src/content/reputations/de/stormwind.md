@@ -19,7 +19,7 @@ Stormwind ist die Fraktion von Stormwind City, der Hauptstadt der Menschen im No
 
 ## Wo du startest
 
-Wo du startest, hängt von deinem Volk ab. Das sind die Werte aus den Fraktionsdaten des Classic-Era-Clients, die die Datenbank wago.tools aus Build 1.15.9 ausliest.
+Wo du startest, hängt von deinem Volk ab. Das sind die Werte aus den Fraktionsdaten des Classic-Era-Clients, Build 1.15.9.
 
 | Dein Volk | Rufstufe am Anfang |
 |---|---|
@@ -42,7 +42,7 @@ Friendly umfasst 6.000 Ruf, ein Charakter aus dem eigenen Volk der Stadt startet
 
 ### Quests
 
-Quests für Stormwind geben den meisten Ruf. Wowhead nennt Elwynn Forest, Westfall, die Redridge Mountains, Duskwood, Stormwind City, das Arathi Highlands, den Dustwallow Marsh, die Stonetalon Mountains und die Western Plaguelands. Die meisten Quests für eine Stadt der Allianz geben auch ein Viertel dieses Rufs an die anderen Städte der Allianz.
+Quests für Stormwind geben den meisten Ruf. Die besten Zonen sind Elwynn Forest, Westfall, die Redridge Mountains, Duskwood, Stormwind City, das Arathi Highlands, den Dustwallow Marsh, die Stonetalon Mountains und die Western Plaguelands. Die meisten Quests für eine Stadt der Allianz geben auch ein Viertel dieses Rufs an die anderen Städte der Allianz.
 
 ### Stoffabgaben
 

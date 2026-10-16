@@ -44,7 +44,7 @@ Sur **Yojamba Isle**, à l'ouest de Zul'Gurub. Exzhal donne les quêtes, Vinchax
 | Bloodlord Mandokir et Jin'do the Hexxer | 200 |
 | Hakkar | 400 |
 
-Icy Veins compte environ 2 400 à 3 000 points de réputation pour un passage complet. Zul'Gurub se réinitialise tous les trois jours.
+Un passage complet donne environ 2 400 à 3 000 points de réputation. Zul'Gurub se réinitialise tous les trois jours.
 
 ### Les pièces
 

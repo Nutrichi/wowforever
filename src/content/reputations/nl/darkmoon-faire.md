@@ -50,7 +50,7 @@ Elke inlevering geeft 100 reputatie en een aantal Darkmoon Faire Prize Tickets. 
 | 4 | 12 | 30 | 2.500 in Neutral |
 | 5 | 20 | 40 | 5.999 in Friendly |
 
-Verschillende spelers melden in de reacties op Wowhead dat tier 5 al rond 2.000 in Friendly geen reputatie meer geeft, terwijl je hem nog wel voor tickets kunt inleveren.
+Verschillende spelers melden dat tier 5 al rond 2.000 in Friendly geen reputatie meer geeft, terwijl je hem nog wel voor tickets kunt inleveren.
 
 | Questgever | Inleveringen | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ De kaarten kun je verhandelen, de trinkets zijn Bind on Pickup en vragen level 6
 ## De snelste weg naar Exalted
 
 1. Lever elke tier in zolang je level en standing het toelaten; een tier die je overslaat, verdwijnt zodra je voorbij de grens bent.
-2. Daarna tellen alleen decks nog. Wowhead rekent ongeveer 220 decks tot Exalted, dus dit is een doel voor verzamelaars.
+2. Daarna tellen alleen decks nog. Tot Exalted zijn ongeveer 220 decks nodig, dus dit is een doel voor verzamelaars.
 
 ## Wat je met tickets koopt
 

@@ -53,7 +53,7 @@ Wailing Caverns is a maze of caves under The Barrens, where the druid Naralex tr
 | <a href="https://www.wowhead.com/forever/quest=914">Leaders of the Fang</a><br>Horde | Thunder Bluff, Elder Rise: Nara Wildmane /way 45 23<br><em>Complete 5 quests first, starting with The Forgotten Pools from Tonga Runetotem in the Crossroads.</em> | 15 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6505"><img class="wf-wh__icon" src="/wh/inv_staff_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Crescent Staff</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6504"><img class="wf-wh__icon" src="/wh/inv_sword_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wingblade</a> |
 | <a href="https://www.wowhead.com/forever/quest=962">Serpentbloom</a><br>Horde | Thunder Bluff, Pools of Vision: Apothecary Zamah /way 34 21 | 14 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> |
 
-The level is the lowest level at which the quest can be picked up, according to Wowhead.
+The level is the lowest level at which the quest can be picked up.
 
 - **Deviate Eradication.** Kill a list of monsters all over the dungeon.
 - **Deviate Hides.** Collect 20 Deviate Hides; most monsters inside drop them.
@@ -69,7 +69,7 @@ The Druids of the Fang are the trash to watch. Their Druid's Slumber puts a play
 
 ## The bosses and their loot
 
-The loot per boss comes from Wowhead, with the stats from the files of the beta.
+The loot per boss has the stats from the files of the beta.
 
 ### Kresh
 

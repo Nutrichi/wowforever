@@ -98,7 +98,7 @@ Un des espions laisse tomber une [Dark Iron Map](https://www.wowhead.com/forever
 
 ![Afadra Dunwall dans une bibliothèque pleine de livres, en haut de l’escalier depuis l’entrée du Hall of Thanes](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-afadra-dunwall.jpg)
 
-**An Ancient Grudge.** Un Ghostly Attendant attend dans la deuxième salle, Anvilmar's Rest. Il demande d’apaiser l’esprit de Faldrim Anvilmar, le premier boss. C’est la seule quête que la Horde peut faire aussi. Qui part sans Hearthstone la repasse en sortant, écrit Warcraft Tavern. Récompense : la Catacomb Cloak ou les Deepgrave Trousers.
+**An Ancient Grudge.** Un Ghostly Attendant attend dans la deuxième salle, Anvilmar's Rest. Il demande d’apaiser l’esprit de Faldrim Anvilmar, le premier boss. C’est la seule quête que la Horde peut faire aussi. Qui part sans Hearthstone la repasse en sortant. Récompense : la Catacomb Cloak ou les Deepgrave Trousers.
 
 ![Le Ghostly Attendant avec la fenêtre de quête d’An Ancient Grudge ouverte, parmi les fantômes de la première salle](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-ghostly-attendant.jpg)
 
@@ -160,7 +160,7 @@ Un fantôme qui patrouille au centre d’Anvilmar's Rest. Nettoyez un côté de 
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_11.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271096">Aetherwisp Bracers</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Cloth</span></span><span class="wf-item__line">15 Armor</span><span class="wf-item__line">+3 Stamina</span><span class="wf-item__line">Durability 20 / 20</span><span class="wf-item__line">Requires Level 13</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span></div></div>
 </div>
 
-Faldrim n’attire pas les fantômes autour de lui, écrit Warcraft Tavern, mais faites tout de même de la place avant le pull.
+Faldrim n’attire pas les fantômes autour de lui, mais faites tout de même de la place avant le pull.
 
 ### Magmatus
 

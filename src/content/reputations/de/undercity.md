@@ -19,7 +19,7 @@ Undercity ist die Fraktion der Hauptstadt der Forsaken unter den Ruinen von Lord
 
 ## Wo du startest
 
-Wo du startest, hängt von deinem Volk ab. Das sind die Werte aus den Fraktionsdaten des Classic-Era-Clients, die die Datenbank wago.tools aus Build 1.15.9 ausliest.
+Wo du startest, hängt von deinem Volk ab. Das sind die Werte aus den Fraktionsdaten des Classic-Era-Clients, Build 1.15.9.
 
 | Dein Volk | Rufstufe am Anfang |
 |---|---|
@@ -42,7 +42,7 @@ Orcs, Tauren und Trolls beginnen hier auf Neutral, eine Stufe unter den Forsaken
 
 ### Quests
 
-Quests für Undercity geben den meisten Ruf. Wowhead nennt die Tirisfal Glades, den Silverpine Forest, die Hillsbrad Foothills, das Arathi Highlands, The Hinterlands und die Western Plaguelands. Die meisten Quests für eine Stadt der Horde geben auch ein Viertel dieses Rufs an die anderen Städte der Horde.
+Quests für Undercity geben den meisten Ruf. Die besten Zonen sind die Tirisfal Glades, den Silverpine Forest, die Hillsbrad Foothills, das Arathi Highlands, The Hinterlands und die Western Plaguelands. Die meisten Quests für eine Stadt der Horde geben auch ein Viertel dieses Rufs an die anderen Städte der Horde.
 
 ### Stoffabgaben
 

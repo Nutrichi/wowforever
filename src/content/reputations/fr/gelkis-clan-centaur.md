@@ -23,7 +23,7 @@ Les Gelkis Clan Centaur vivent dans le sud-ouest de Desolace et sont les ennemis
 
 ## Où vous commencez
 
-Chaque personnage commence à Neutral, 2 000 dans les 3 000 de ce niveau, donc à 1 000 de Friendly. Cette valeur vient des données de faction du client Classic Era, que la base wago.tools lit dans la build 1.15.9.
+Chaque personnage commence à Neutral, 2 000 dans les 3 000 de ce niveau, donc à 1 000 de Friendly. Cette valeur vient des données de faction du client Classic Era, build 1.15.9.
 
 ## Les niveaux de réputation
 

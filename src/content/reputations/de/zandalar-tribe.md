@@ -44,7 +44,7 @@ Auf **Yojamba Isle**, westlich von Zul'Gurub. Exzhal gibt die Quests, Vinchaxa n
 | Bloodlord Mandokir und Jin'do the Hexxer | 200 |
 | Hakkar | 400 |
 
-Icy Veins rechnet mit etwa 2.400 bis 3.000 Ruf für einen vollen Durchlauf. Zul'Gurub setzt sich alle drei Tage zurück.
+Ein voller Durchlauf gibt etwa 2.400 bis 3.000 Ruf. Zul'Gurub setzt sich alle drei Tage zurück.
 
 ### Münzen
 

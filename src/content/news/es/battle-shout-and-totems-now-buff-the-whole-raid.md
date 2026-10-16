@@ -2,6 +2,7 @@
 title: "Battle Shout y los tótems ya llegan a toda la banda"
 description: "La build de la beta del 15 de octubre hace que Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura y cuatro tótems del Shaman lleguen a toda la banda. Los Magos reciben Frost Blast y vuelve Elemental Mastery."
 date: 2026-10-16T04:00:00+02:00
+updated: 2026-10-16T10:15:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-02-wow-forever-warriors-on-a-burning-deck.jpg
@@ -41,7 +42,7 @@ Las varitas y Auto Shot exigen ahora quedarse quieto 0,5 segundos antes de dispa
 ## Hunter
 
 - Un Hunter puede tener a la vez una trampa de fuego y una de hielo activas (antes una trampa en total). Las trampas de fuego escalan ahora con el poder de ataque. Las mascotas aprovechan la Expertise y usan la mayor probabilidad de crítico, cuerpo a cuerpo o a distancia.
-- **Mascotas:** Dismember (Crocolisk) reduce la sanación un 25 % durante 6 segundos, con 15 segundos de reutilización (antes 50 %, 10 segundos y 6 segundos). Sonic Blast (Bat) ralentiza el lanzamiento un 30 % durante 20 segundos, con 60 segundos de reutilización (antes 60 %, 30 y 30). Mine! (Bird of Prey) dura 3 segundos con 90 segundos de reutilización (antes 4 y 60).
+- **Mascotas:** Dismember (Crocolisk) reduce la sanación un 25 % durante 6 segundos, con 15 segundos de reutilización (antes 50 %, 10 segundos y 6 segundos). Sonic Blast (Bat) ralentiza el lanzamiento un 30 % durante 20 segundos, con 60 segundos de reutilización (antes 60 %, 30 y 30). Mine! (Bird of Prey) dura 3 segundos con 90 segundos de reutilización (antes 4 y 60). En los datos de la build, el Furious Howl del lobo llega ahora también a la banda ([más sobre las mascotas](/es/news/hunter-pets-lose-utility-but-wolves-buff-the-raid/)).
 - **Survival:** Strider Kick funciona estando desarmado. Resourcefulness solo se activa con críticos de habilidades cuerpo a cuerpo y a distancia, no con trampas.
 
 ## Mage

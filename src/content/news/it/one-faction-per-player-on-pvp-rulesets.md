@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Su un ruleset PvP di World of Warcraft: Forever un giocatore può avere personaggi di una sola fazione. Sugli altri ruleset sono ammessi entrambi gli schieramenti. Lo dicono il Lead Game Designer Tim Jones e la Lead Software Engineer Nora Mills in un'intervista a Game Informer, riassunta da Wowhead.
+Su un ruleset PvP di World of Warcraft: Forever un giocatore può avere personaggi di una sola fazione. Sugli altri ruleset sono ammessi entrambi gli schieramenti. Lo dicono il Lead Game Designer Tim Jones e la Lead Software Engineer Nora Mills in un'intervista a Game Informer.
 
 ## Un solo schieramento su un ruleset PvP
 

@@ -33,7 +33,7 @@ Op 18 september deelde een speler een schermafdruk op de subreddit classicwow. E
   </button>
 </figure>
 
-De bots stierven zich een weg naar het noorden om kruiden als Mountain Silversage, Icecap en Black Lotus te kopiëren, schrijft Icy Veins. Op een beta die stopt op level 20 heb je weinig aan die kruiden. Goud van de bots werd wel voor echt geld verkocht, schreef een speler op 19 september op de officiële forums.
+De bots stierven zich een weg naar het noorden om kruiden als Mountain Silversage, Icecap en Black Lotus te kopiëren. Op een beta die stopt op level 20 heb je weinig aan die kruiden. Goud van de bots werd wel voor echt geld verkocht, schreef een speler op 19 september op de officiële forums.
 
 ## De nieuwe regel
 
@@ -45,6 +45,6 @@ Peacebloom blijft open voor een nieuw personage. Voor Black Lotus, op 300 skill,
 
 ## De cooldown
 
-Icy Veins schrijft ook dat de cooldown van 23 uur naar 1 uur ging, zodat spelers de racial vaker gebruiken. De ontwikkelingsnotities van Blizzard zeggen niets over de cooldown. Een speler op de forums zag op 20 september al een cooldown van 1 uur, voor de nieuwe build.
+De cooldown ging naar verluidt ook van 23 uur naar 1 uur, zodat spelers de racial vaker gebruiken. De ontwikkelingsnotities van Blizzard zeggen niets over de cooldown. Een speler op de forums zag op 20 september al een cooldown van 1 uur, voor de nieuwe build.
 
 Of de regel de bots tegenhoudt, is niet bekend. De racials van Forever staan in de post over [de nieuwe combinaties van races en classes](/nl/news/orc-mages-and-undead-paladins-arrive/).

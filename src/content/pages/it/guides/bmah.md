@@ -16,12 +16,12 @@ faq:
   - q: "Il Dungeon Set 1 è uguale a Classic?"
     a: "No. In Forever ogni pezzo ha una propria spell power, i bonus dei set si fermano a sei pezzi invece di otto e il bonus di +200 Armor sparisce."
   - q: "Si fanno offerte come sul Black Market di retail?"
-    a: "Non si sa ancora. Wowhead scrive solo che l'equipaggiamento costa 100 oro o più."
+    a: "Non si sa ancora. Per ora si sa solo che l'equipaggiamento costa 100 oro o più."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/buy-gear-pets-mounts-and-more-on-the-wow-forever-black-market-auction-house-383078"
 ---
-La Black Market Auction House, in breve BMAH, vende oggetti rari per molto oro. È comparsa per la prima volta in Mists of Pandaria, con la patch 5.0.4. WoW Forever la porta nel vecchio mondo, nella nuova zona The Riverglades, e Wowhead l'ha trovata sulla beta.
+La Black Market Auction House, in breve BMAH, vende oggetti rari per molto oro. È comparsa per la prima volta in Mists of Pandaria, con la patch 5.0.4. WoW Forever la porta nel vecchio mondo, nella nuova zona The Riverglades, ed è già sulla beta.
 
 ![Mister Graphed e Madam Swyndle, due goblin con il titolo Agent of the Black Market, su un tappeto viola in una tenda, con un Blood Elf davanti, uno screenshot dal gioco](../../../../assets/posts/2026-09-27-wow-forever-black-market-agents.jpg)
 
@@ -45,7 +45,7 @@ The Riverglades si trovano a nord di Redridge Mountains. Una biforcazione di Red
 | [Madam Swyndle](https://www.wowhead.com/forever/npc=263326) | Il Black Market vero e proprio: equipaggiamento, mascotte e oggetti da collezione |
 | [Mister Graphed](https://www.wowhead.com/forever/npc=263384) | Materiali da artigianato e altre merci |
 
-Sono due goblin di livello 60 con il titolo Agent of the Black Market. Wowhead scrive che Forever ha "ancora più agenti" del Black Market, ma non dove si trovano gli altri.
+Sono due goblin di livello 60 con il titolo Agent of the Black Market. Forever ha "ancora più agenti" del Black Market, ma non si sa dove si trovano gli altri.
 
 ## Equipaggiamento: il Dungeon Set 1
 
@@ -60,7 +60,7 @@ La maggior parte di ciò che offre Madam Swyndle è equipaggiamento del Dungeon 
 
 ### In cosa i set differiscono da Classic
 
-I nomi dei set sono rimasti, i bonus sono cambiati. I dati vengono dai tooltip di Wowhead per Forever e per Classic Era.
+I nomi dei set sono rimasti, i bonus sono cambiati. I dati vengono dai tooltip per Forever e per Classic Era.
 
 | Pezzi | Classic Era | WoW Forever |
 |---|---|---|

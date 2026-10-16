@@ -1,6 +1,6 @@
 ---
 title: "Des barils de Seaforium balaient les Dark Iron du Hall of Thanes"
-description: "Warcraft Tavern a parcouru le Hall of Thanes salle par salle : le passage caché de la High Seat, des barils qui font sauter les groupes, une maladie des Bloodhound Runts et un totem contre le dernier boss."
+description: "Le Hall of Thanes salle par salle : le passage caché de la High Seat, des barils qui font sauter les groupes, une maladie des Bloodhound Runts et un totem contre le dernier boss."
 date: 2026-09-29T23:40:00+02:00
 category: forever
 lang: fr
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Warcraft Tavern a parcouru salle par salle le Hall of Thanes, le nouveau donjon de l’Alliance sous Ironforge. Son parcours signale des barils qui font sauter les groupes Dark Iron, une maladie à soigner et un totem qui neutralise la peur du boss final.
+Un parcours salle par salle dans le Hall of Thanes, le nouveau donjon de l’Alliance sous Ironforge, signale des barils qui font sauter les groupes Dark Iron, une maladie à soigner et un totem qui neutralise la peur du boss final.
 
 ## L’entrée
 

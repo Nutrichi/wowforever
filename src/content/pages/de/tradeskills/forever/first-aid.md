@@ -24,7 +24,7 @@ First Aid ist ein Nebenberuf und belegt also nie einen deiner zwei Hauptplätze.
 ## Was sich in Forever ändert
 
 - **Heiltränke** wandern von Alchemy zu First Aid. Sie wirken im Kampf, also lohnt sich First Aid auch für Heiler.
-- **Heilmittel** gegen Krankheit und Blutungen kommen zu den Gegengiften. Die neuen sind im Kampf nicht nutzbar, schreibt Warcraft Tavern.
+- **Heilmittel** gegen Krankheit und Blutungen kommen zu den Gegengiften. Die neuen sind im Kampf nicht nutzbar.
 - **Lagerobjekte:** ein First Aid Kit für Stamina und zwei Werkbänke mit Tränken am Lagerplatz.
 - **Die Verbände** aus Classic gibt es weiterhin alle.
 
@@ -106,7 +106,7 @@ Wie ein Lagerplatz funktioniert, steht im [Camping-Guide](/de/guides/camping/).
 
 ## Skillen
 
-Wowhead hat jetzt zwei vollständige Routen. Beide brauchen ab 150 dieselben Bücher: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> für den Rang und die Handbücher <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, alle bei den Expert-Händlern oben. Sie sind handelbar, also geht auch das Auktionshaus.
+Es gibt jetzt zwei vollständige Routen. Beide brauchen ab 150 dieselben Bücher: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> für den Rang und die Handbücher <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, alle bei den Expert-Händlern oben. Sie sind handelbar, also geht auch das Auktionshaus.
 
 **Die schnelle Route bis 150: Heiltränke.** Die Tränke überspringen die Verbände und brauchen nur Kräuter, eine Phiole und Gewürze von einem Handwerkshändler.
 

@@ -19,7 +19,7 @@ Le [liste best-in-slot](/it/bis/tbc/) di The Burning Crusade Classic Anniversary
 
 Le liste pre-raid usano equipaggiamento da dungeon eroici, professioni, reputazione, missioni e venditori di distintivi. La fase 1 copre Karazhan, Gruul's Lair e Magtheridon's Lair, con il Tier 4. La fase 2 copre Serpentshrine Cavern e Tempest Keep, con il Tier 5. La fase 3 aggiunge Mount Hyjal e Black Temple con il Tier 6, la fase 4 Zul'Aman e la fase 5 Sunwell Plateau.
 
-I reami Anniversary non avevano ancora raggiunto le fasi da 3 a 5 quando queste liste sono uscite. Quelle liste si basano sull’uscita originale del 2007 e del 2008, come documentata da Icy Veins. Per circa un terzo delle specializzazioni, Icy Veins indica lo stesso equipaggiamento per la fase 3 e la fase 4. Le liste lo segnalano.
+I reami Anniversary non avevano ancora raggiunto le fasi da 3 a 5 quando queste liste sono uscite. Quelle liste si basano sull’uscita originale del 2007 e del 2008. Per circa un terzo delle specializzazioni, le guide indicano lo stesso equipaggiamento per la fase 3 e la fase 4. Le liste lo segnalano.
 
 ## Scelte notevoli
 

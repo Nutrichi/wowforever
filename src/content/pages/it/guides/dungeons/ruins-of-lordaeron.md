@@ -186,7 +186,7 @@ Un grande ragno che pattuglia King's Alley con due ragni più piccoli. Ripulite 
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_07.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271202">Witherbite Bracers</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Leather</span></span><span class="wf-item__line">37 Armor</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Intellect</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Durability 30 / 30</span><span class="wf-item__line">Requires Level 15</span></div></div>
 </div>
 
-Non si porta dietro la sua pattuglia, scrive Warcraft Tavern: un pull a distanza la porta da sola.
+Non si porta dietro la sua pattuglia: un pull a distanza la porta da sola.
 
 ### The Baron
 
@@ -290,7 +290,7 @@ Un raro con una piccola probabilità di comparire sul lato ovest del dungeon. L�
 
 ## Cosa non si sa ancora
 
-- Quale boss conti come boss finale. Il boss di livello 20 non ha un posto fisso nell’ordine; Warcraft Tavern chiude il suo percorso con Rath'mael.
+- Quale boss conti come boss finale. Il boss di livello 20 non ha un posto fisso nell’ordine; i percorsi più comuni finiscono con Rath'mael.
 - Se Viktor the Vile comparirà sempre al lancio. Nella beta a volte no.
 - Dove cade il resto del Rotmender's Raiment, e a quale passo Unending Torment dà Slain Baron's Signet.
 - Quanta esperienza dia The Wrath of Rath'mael

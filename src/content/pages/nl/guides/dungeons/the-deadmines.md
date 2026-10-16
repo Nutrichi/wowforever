@@ -70,7 +70,7 @@ De Alliance heeft Sentinel Hill vlakbij. De Horde heeft geen quests in The Deadm
 | <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | In de dungeon: An Unsent Letter, een drop van Edwin VanCleef | 16 | Nog niet bekend |
 | <a href="https://www.wowhead.com/forever/quest=92753">Destruction in Deadmines</a> | Westfall, Sentinel Hill: Alba Fairmoon /way 52.4 53.0<br><em>Nieuw in Forever. Het einde van een reeks van zeven quests die begint met Testing the Wells.</em> | 9 | 4.050 experience, 50 reputatie bij Stormwind |
 
-Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead. De beloningen komen van Wowhead; waar die er geen noemt, zijn ze nog niet bekend.
+Het level is het laagste level waarop je de quest kan aannemen. Waar geen beloning staat, is ze nog niet bekend.
 
 ### Collecting Memories
 
@@ -138,7 +138,7 @@ Edwin VanCleef laat An Unsent Letter vallen, die deze quest vanaf level 16 start
 
 </div>
 
-Paladins van de Alliance komen hier ook voor <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, het einde van de reeks van de Tome of Valor die eindigt met <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: de Whitestone Oak Lumber valt bij de Goblin Woodcarvers vlak bij het begin. Paladins van de Horde krijgen een tegenhanger die nieuw is in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>, schrijft Wowhead. De reeks begint in Bandarion Keep in Tirisfal Glades; Lumina Windsinger geeft de quest in de crypte in Silverpine Forest, /way 43 40. Beide staan in de [dungeongids](/nl/guides/dungeons/).
+Paladins van de Alliance komen hier ook voor <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, het einde van de reeks van de Tome of Valor die eindigt met <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: de Whitestone Oak Lumber valt bij de Goblin Woodcarvers vlak bij het begin. Paladins van de Horde krijgen een tegenhanger die nieuw is in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>. De reeks begint in Bandarion Keep in Tirisfal Glades; Lumina Windsinger geeft de quest in de crypte in Silverpine Forest, /way 43 40. Beide staan in de [dungeongids](/nl/guides/dungeons/).
 
 
 ### Destruction in Deadmines
@@ -158,7 +158,7 @@ Een itembeloning voor de reeks is niet bekend.
 
 ## De bazen en hun loot
 
-De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta.
+De loot per baas heeft de stats uit de bestanden van de beta.
 
 ### Rhahk'Zor
 
@@ -266,5 +266,5 @@ De stats in de bestanden van de beta zijn sinds die post veranderd: de First Mat
 ## Wat nog niet bekend is
 
 - **De dropkansen** van de loot van de bazen.
-- **De beloningen van de quests** die Wowhead nog niet noemt.
+- **De beloningen van de quests** die nog niet bekend zijn.
 - **De Band of the Better Half**: waar hij valt.

@@ -7,7 +7,7 @@ updated: 2026-10-16
 lang: it
 faq:
   - q: "Che livello è la City of Dalaran in WoW Forever?"
-    a: "Blizzard indica un intervallo dal 28 al 33. Wowhead consiglia i livelli dal 28 al 35."
+    a: "Blizzard indica un intervallo dal 28 al 33. I livelli consigliati vanno dal 28 al 35."
   - q: "Come si entra nella City of Dalaran?"
     a: "L’Alliance entra da un tubo in Cantrips & Crows, nelle Dalaran Sewers. La Horde entra da un tunnel fuori città, a /way 8.8 59.6; un giocatore del gruppo deve avere la Dalaran Sewer Key."
   - q: "Come ottiene l’Horde la Dalaran Sewer Key?"
@@ -15,7 +15,7 @@ faq:
   - q: "I danni arcani funzionano nella City of Dalaran?"
     a: "Poco. Quasi tutti i mostri del dungeon sono immuni all’Arcane, quindi Arcane Explosion, Arcane Shot e Counterspell servono a poco."
   - q: "Cosa lascia la City of Dalaran?"
-    a: "Non si sa ancora. I boss sono sopra il limite di livello della beta, e Wowhead non ha ancora bottino per loro."
+    a: "Non si sa ancora. I boss sono sopra il limite di livello della beta, e il loro bottino non è ancora noto."
   - q: "Come si evoca Lyn the Ignored in City of Dalaran?"
     a: "Prendi il Black Tome nella sala di Archmage Arugal a Shadowfang Keep, trasformalo nel Tome of Dalaran all'Ambermill Leyline Focus e usa quel libro sul cerchio viola nelle fogne, dopo Atrexis the Grave Knight. Il libro non si consuma e funziona di nuovo dopo 3 minuti."
 sources:
@@ -40,7 +40,7 @@ La City of Dalaran è uno dei nuovi dungeon di WoW Forever. La cupola viola into
 | Attenzione | Quasi tutti i mostri sono immuni all’Arcane |
 | Nome breve | CoD |
 
-Dalla [build della beta dell'8 ottobre](/it/news/city-of-dalaran-opens-in-the-fourth-beta-week/), il dungeon si può provare nella beta. La beta arriva al livello 30 dal 1° ottobre. Gli ultimi boss sono più in alto, quindi Wowhead non conosce ancora tutte le loro meccaniche.
+Dalla [build della beta dell'8 ottobre](/it/news/city-of-dalaran-opens-in-the-fourth-beta-week/), il dungeon si può provare nella beta. La beta arriva al livello 30 dal 1° ottobre. Gli ultimi boss sono più in alto, quindi non tutte le loro meccaniche sono ancora note.
 
 ## Come arrivarci
 

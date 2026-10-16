@@ -36,7 +36,7 @@ Normally a player of the other faction sees only scrambled words. A shared langu
 
 ## What the files say
 
-The client files of the beta confirm it. In build 1.60.1.70009, published on wago.tools, Darnassian belongs to three races: Night Elf, High Order Skyborne and Windshaper Skyborne. The High Order also speak Common, the Windshapers Orcish.
+The client files of the beta confirm it. In build 1.60.1.70009, Darnassian belongs to three races: Night Elf, High Order Skyborne and Windshaper Skyborne. The High Order also speak Common, the Windshapers Orcish.
 
 In practice that opens one line across the factions. A Windshaper on the Horde side can talk with every Night Elf and every High Order Skyborne of the Alliance. Both Skyborne factions start together on Zephras Isle and descend from the same [Highborne exiles](/news/the-skyborne-choose-their-side/).
 

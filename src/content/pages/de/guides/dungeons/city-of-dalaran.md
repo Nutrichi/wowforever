@@ -7,7 +7,7 @@ updated: 2026-10-16
 lang: de
 faq:
   - q: "Welche Stufe hat die City of Dalaran in WoW Forever?"
-    a: "Blizzard nennt einen Bereich von 28 bis 33. Wowhead empfiehlt Stufe 28 bis 35."
+    a: "Blizzard nennt einen Bereich von 28 bis 33. Empfohlen sind Stufe 28 bis 35."
   - q: "Wie kommt man in die City of Dalaran?"
     a: "Die Alliance geht durch ein Rohr in Cantrips & Crows in den Dalaran Sewers hinein. Die Horde kommt durch einen Tunnel außerhalb der Stadt, bei /way 8.8 59.6; ein Spieler der Gruppe braucht den Dalaran Sewer Key."
   - q: "Wie bekommt die Horde den Dalaran Sewer Key?"
@@ -15,7 +15,7 @@ faq:
   - q: "Wirkt Arkanschaden in der City of Dalaran?"
     a: "Kaum. Fast jedes Monster im Dungeon ist immun gegen Arcane, also helfen Arcane Explosion, Arcane Shot und Counterspell wenig."
   - q: "Was lässt die City of Dalaran fallen?"
-    a: "Noch nicht bekannt. Die Bosse liegen über der Stufengrenze der Beta, und Wowhead hat für sie noch keine Beute."
+    a: "Noch nicht bekannt. Die Bosse liegen über der Stufengrenze der Beta, und ihre Beute ist noch nicht bekannt."
   - q: "Wie beschwört man Lyn the Ignored in City of Dalaran?"
     a: "Nehmt den Black Tome aus dem Raum von Archmage Arugal in Shadowfang Keep, macht ihn am Ambermill Leyline Focus zum Tome of Dalaran und benutzt dieses Buch am violetten Kreis in der Kanalisation hinter Atrexis the Grave Knight. Das Buch wird nicht verbraucht und wirkt nach 3 Minuten wieder."
 sources:
@@ -40,7 +40,7 @@ Die City of Dalaran ist einer der neuen Dungeons von WoW Forever. Die violette K
 | Achtung | Fast jedes Monster ist immun gegen Arcane |
 | Kurzname | CoD |
 
-Seit dem [Betabuild vom 8. Oktober](/de/news/city-of-dalaran-opens-in-the-fourth-beta-week/) lässt sich der Dungeon in der Beta testen. Die Beta geht seit dem 1. Oktober bis Stufe 30. Die letzten Bosse liegen darüber, also kennt Wowhead noch nicht alle ihre Mechaniken.
+Seit dem [Betabuild vom 8. Oktober](/de/news/city-of-dalaran-opens-in-the-fourth-beta-week/) lässt sich der Dungeon in der Beta testen. Die Beta geht seit dem 1. Oktober bis Stufe 30. Die letzten Bosse liegen darüber, also sind noch nicht alle ihre Mechaniken bekannt.
 
 ## Der Weg dorthin
 

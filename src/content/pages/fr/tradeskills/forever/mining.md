@@ -86,7 +86,7 @@ Chaque filon donne au plus un point de compétence, peu importe le nombre de cou
 | 125 à 175 | Tin et Silver Vein, Iron Deposit, Gold Vein | Arathi Highlands, Desolace, Stranglethorn Vale, Thousand Needles |
 | 175 à 225 | Gold Vein, Mithril Deposit, Truesilver Deposit | Azshara, Tanaris, The Hinterlands |
 
-Tin ne donne plus de compétence à partir de 165 et Silver à partir de 175 : un détour n’en vaut alors plus la peine. Wowhead n’a pas encore publié de parcours de 225 à 300.
+Tin ne donne plus de compétence à partir de 165 et Silver à partir de 175 : un détour n’en vaut alors plus la peine. Aucun parcours de 225 à 300 n’est encore connu.
 
 ## Tous les filons
 
@@ -105,7 +105,7 @@ Les quatre nombres sont les couleurs de la compétence : à partir du premier vo
 | Small Thorium Vein | 245 / 270 / 295 / 345 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Un'Goro Crater, Silithus, Winterspring, Burning Steppes et d’autres |
 | Rich Thorium Vein | 275 / 300 / 325 / 375 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Azshara, Burning Steppes, Eastern et Western Plaguelands, Un'Goro Crater, Winterspring, Dire Maul |
 
-Les filons donnent aussi des pierres et des gemmes, comme <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> et <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> sur le cuivre. Les listes complètes par zone sont dans le guide de Wowhead.
+Les filons donnent aussi des pierres et des gemmes, comme <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> et <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> sur le cuivre. Les listes complètes varient selon la zone.
 
 ## La fonte
 

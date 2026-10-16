@@ -13,7 +13,7 @@ faq:
   - q: "Qu’est-ce que la porte arrière de Gnomeregan ?"
     a: "Une seconde entrée au nord du Train Depot, près de Crowd Pummeler 9-60. Il faut la Workshop Key d’Electrocutioner 6000 ou un Rogue avec Lockpicking 150."
   - q: "Le butin de Gnomeregan a-t-il changé dans WoW Forever ?"
-    a: "En partie. Plusieurs objets de lanceurs de sorts ont reçu des dégâts et soins des sorts, et Electrocutioner Leg inflige le double de dégâts aux cibles Mechanical. Thermaplugg's Left Arm et l’Electromagnetic Gigaflux Reactivator ne figurent pas encore dans les données de Forever de Wowhead."
+    a: "En partie. Plusieurs objets de lanceurs de sorts ont reçu des dégâts et soins des sorts, et Electrocutioner Leg inflige le double de dégâts aux cibles Mechanical. Thermaplugg's Left Arm et l’Electromagnetic Gigaflux Reactivator ne figurent pas encore dans les données de Forever."
 sources:
   - name: "Wowhead, le guide du donjon"
     url: "https://www.wowhead.com/forever/guide/gnomeregan-dungeon-overview-location-rewards"
@@ -60,7 +60,7 @@ Gnomeregan était la capitale des gnomes dans Dun Morogh, jusqu’à l’invasio
 | <a href="https://www.wowhead.com/forever/quest=2841">Rig Wars</a><br>Horde | Orgrimmar, Valley of Honor : Nogg /way 76 25 | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9623"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Civinad Robes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9624"><img class="wf-wh__icon" src="/wh/inv_pants_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Triprunner Dungarees</a> ou <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9625"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dual Reinforced Leggings</a> |
 | <a href="https://www.wowhead.com/forever/quest=2842">Chief Engineer Scooty</a><br>Horde | Orgrimmar, Valley of Honor : Sovik /way 76 25<br><em>Prenez d’abord Rig Wars ; continue avec <a href="https://www.wowhead.com/forever/quest=2843">Gnomer-gooooone!</a>.</em> | 20 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9173"><img class="wf-wh__icon" src="/wh/inv_battery_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goblin Transponder</a> |
 
-Le niveau est le niveau minimum pour prendre la quête, selon Wowhead. Les quêtes de l’Alliance donnent aussi de la réputation auprès des Gnomeregan Exiles.
+Le niveau est le niveau minimum pour prendre la quête. Les quêtes de l’Alliance donnent aussi de la réputation auprès des Gnomeregan Exiles.
 
 - **A Fine Mess.** Kernobee attend dans The Dormitory, juste après The Clean Room. Escortez-le jusqu’à l’entrée et rendez la quête à Scooty à Booty Bay.
 - **The Sparklematic 5200!** Mettez 3 Grime-Encrusted Objects dans une machine Sparklematic de The Clean Room. Répétable, avec de l’expérience la première fois seulement.
@@ -74,7 +74,7 @@ Le niveau est le niveau minimum pour prendre la quête, selon Wowhead. Les quêt
 
 ## Les boss et leur butin
 
-Le butin par boss vient de Wowhead, avec les caractéristiques des fichiers de la bêta.
+Le butin par boss a les caractéristiques des fichiers de la bêta.
 
 ### Grubbis
 
@@ -132,7 +132,7 @@ Le dernier boss, dans le Tinkers' Court. Des Walking Bombs sortent de six distri
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9458"><img class="wf-wh__icon" src="/wh/inv_shield_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thermaplugg's Central Core</a> | Ses dégâts de nature quand vous êtes frappé passent de 35-65 à 65-121 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9461"><img class="wf-wh__icon" src="/wh/inv_misc_gear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Charged Gear</a> | Plus d’enchantement aléatoire, niveau 31 |
 
-Wowhead indique aussi pour lui Thermaplugg's Left Arm et l’Electromagnetic Gigaflux Reactivator. Aucun des deux ne figure encore dans les données de Forever de Wowhead.
+D’anciennes listes de butin indiquent aussi pour lui Thermaplugg's Left Arm et l’Electromagnetic Gigaflux Reactivator. Aucun des deux ne figure encore dans les données de Forever.
 
 ## Boîtes et coffres
 

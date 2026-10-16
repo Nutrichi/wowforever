@@ -54,7 +54,7 @@ Razorfen Kraul wuchs dort, wo vor zehntausend Jahren das Blut des Halbgotts Agam
 | <a href="https://www.wowhead.com/forever/quest=1109">Going, Going, Guano!</a><br>Horde | Undercity, The Apothecarium: Master Apothecary Faranell /way 48 69 | 30 | Erfahrung und Silber |
 | <a href="https://www.wowhead.com/forever/quest=6522">An Unholy Alliance</a><br>Horde | Im Dungeon: Small Scroll, eine Beute von Charlga Razorflank | 28 | Geht in Razorfen Downs weiter |
 
-Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wowhead.
+Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann.
 
 - **Blueleaf Tubers.** Nimm die Crate With Holes, das Snufflenose Owner's Manual und den Snufflenose Command Stick neben Mebok mit. Drinnen beschwört die Kiste einen Snufflenose Gopher; mit dem Stab gräbt er eine Knolle aus. Wiederhole das, bis du 6 hast.
 - **Willix the Importer.** Eine Eskorte am Ende des Dungeons. Ihr Weg führt an vielen Blueleaf Tubers vorbei.
@@ -71,7 +71,7 @@ Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wow
 
 ## Die Bosse und ihre Beute
 
-Die Beute pro Boss stammt von Wowhead, mit den Werten aus den Dateien der Beta.
+Die Beute pro Boss hat die Werte aus den Dateien der Beta.
 
 ### Roogug
 

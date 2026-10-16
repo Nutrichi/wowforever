@@ -25,7 +25,7 @@ Fishing is een secundaire tradeskill, dus het kost je nooit een van je twee hoof
 
 ## Wat er verandert in Forever
 
-- **Visgerechten zijn beter.** Veel Cooking-recepten met vis zijn versterkt of nieuw, zoals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13935"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baked Salmon</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13932"><img class="wf-wh__icon" src="/wh/inv_misc_fish_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Poached Sunscale Salmon</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=286152"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plated Armorfish</a>, en het meeste eten geeft nu 5% meer experience van kills, schrijft Wowhead.
+- **Visgerechten zijn beter.** Veel Cooking-recepten met vis zijn versterkt of nieuw, zoals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13935"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baked Salmon</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13932"><img class="wf-wh__icon" src="/wh/inv_misc_fish_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Poached Sunscale Salmon</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=286152"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plated Armorfish</a>, en het meeste eten geeft nu 5% meer experience van kills.
 - **Kampobjecten:** Fishing maakt de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a>, het <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> en de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a>.
 - **Handige classes:** een Shaman bereikt pools makkelijker met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6196"><img class="wf-wh__icon" src="/wh/spell_nature_farsight.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Far Sight</a> en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=546"><img class="wf-wh__icon" src="/wh/spell_frost_windwalkon.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Water Walking</a>, en een Hunter geeft rauwe vis aan zijn pet.
 
@@ -120,7 +120,7 @@ Vanaf 150 heb je in die zones 225 skill nodig om altijd iets te vangen, dus gebr
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19022"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nat Pagle's Extreme Angler FC-5000</a> | +25 | 100 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> | +35 | 300 |
 
-Wowhead zet bij de FC-5000 dat hij alleen voor de Horde is. De Strong Fishing Pole verkopen de visverkopers; de Big Iron Fishing Pole is verhandelbaar.
+De FC-5000 is alleen voor de Horde. De Strong Fishing Pole verkopen de visverkopers; de Big Iron Fishing Pole is verhandelbaar.
 
 | Lure | Skill | Vanaf skill |
 |---|---|---|
@@ -153,7 +153,7 @@ Sommige visgerechten uit Classic verhogen in Forever een tijdje je Fishing-skill
 
 ## De Fishing Extravaganza
 
-Het vistoernooi in Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, verandert in Forever op twee punten, schrijft Wowhead:
+Het vistoernooi in Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, verandert in Forever op twee punten:
 
 - **De eerste 50 spelers winnen**, niet alleen de eerste die inlevert.
 - **Elke winnaar krijgt** de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> en een <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.

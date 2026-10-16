@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Les [listes best-in-slot](/fr/bis/cata/) de Cataclysm Classic couvrent désormais les 30 spécialisations. Il y a 120 listes pour l’équipement pré-raid et trois paliers de raid, jusqu’à Dragon Soul. Elles s’appuient sur les guides d’équipement d’Icy Veins pour Cataclysm Classic.
+Les [listes best-in-slot](/fr/bis/cata/) de Cataclysm Classic couvrent désormais les 30 spécialisations. Il y a 120 listes pour l’équipement pré-raid et trois paliers de raid, jusqu’à Dragon Soul. Elles s’appuient sur des guides d’équipement reconnus pour Cataclysm Classic.
 
 ## Numérotation des phases
 
@@ -21,6 +21,6 @@ La phase 1 couvre Blackwing Descent, The Bastion of Twilight et Throne of the Fo
 
 ## Pré-raid et Heroic
 
-Les listes de raid utilisent les objets Heroic. Les listes pré-raid partent d’un personnage qui vient d’atteindre le niveau 85. Quand Icy Veins tient une liste pour Hour of Twilight, elles utilisent le butin d’End Time, de Well of Eternity et d’Hour of Twilight, ainsi que l’équipement de vaillance.
+Les listes de raid utilisent les objets Heroic. Les listes pré-raid partent d’un personnage qui vient d’atteindre le niveau 85. Quand les guides tiennent une liste pour Hour of Twilight, elles utilisent le butin d’End Time, de Well of Eternity et d’Hour of Twilight, ainsi que l’équipement de vaillance.
 
-Pour quelques spécialisations, Icy Veins n’a qu’une ancienne liste pré-raid, du lancement ou de la période de Firelands. Les notes de ces listes le précisent. Chaque liste reste marquée comme brouillon jusqu’à sa vérification à la main.
+Pour quelques spécialisations, les guides n’ont qu’une ancienne liste pré-raid, du lancement ou de la période de Firelands. Les notes de ces listes le précisent. Chaque liste reste marquée comme brouillon jusqu’à sa vérification à la main.

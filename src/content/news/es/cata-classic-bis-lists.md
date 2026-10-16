@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Las [listas best-in-slot](/es/bis/cata/) de Cataclysm Classic ya cubren las 30 especializaciones. Son 120 listas para el equipo pre-raid y tres niveles de banda, hasta Dragon Soul. Se basan en las guías de equipo de Icy Veins para Cataclysm Classic.
+Las [listas best-in-slot](/es/bis/cata/) de Cataclysm Classic ya cubren las 30 especializaciones. Son 120 listas para el equipo pre-raid y tres niveles de banda, hasta Dragon Soul. Se basan en guías de equipo reconocidas para Cataclysm Classic.
 
 ## Cómo se numeran las fases
 
@@ -21,6 +21,6 @@ La fase 1 cubre Blackwing Descent, The Bastion of Twilight y Throne of the Four 
 
 ## Pre-raid y Heroic
 
-Las listas de banda usan los objetos Heroic. Las listas pre-raid parten de un personaje recién llegado al nivel 85. Donde Icy Veins mantiene una lista para Hour of Twilight, usan botín de End Time, Well of Eternity y Hour of Twilight, además de equipo de valor.
+Las listas de banda usan los objetos Heroic. Las listas pre-raid parten de un personaje recién llegado al nivel 85. Donde las guías mantienen una lista para Hour of Twilight, usan botín de End Time, Well of Eternity y Hour of Twilight, además de equipo de valor.
 
-Para unas pocas especializaciones, Icy Veins solo tiene una lista pre-raid más antigua, del lanzamiento o de la época de Firelands. Las notas de esas listas lo dicen. Cada lista sigue marcada como borrador hasta que se revisa a mano.
+Para unas pocas especializaciones, las guías solo tienen una lista pre-raid más antigua, del lanzamiento o de la época de Firelands. Las notas de esas listas lo dicen. Cada lista sigue marcada como borrador hasta que se revisa a mano.

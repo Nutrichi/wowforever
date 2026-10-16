@@ -24,4 +24,4 @@ Several lists flag legendaries that stay best in slot. Val'anyr, Hammer of Ancie
 
 The lists are based on established WotLK Classic phase 1 gear guides.
 
-For phase 3, Icy Veins splits some tables by faction. The lists use the Alliance items; the Horde versions drop from the same bosses at the same item level. A few item origins that were wrong on the source pages were corrected against the encounter lists.
+For phase 3, the guides split some tables by faction. The lists use the Alliance items; the Horde versions drop from the same bosses at the same item level. A few item origins that were wrong on the source pages were corrected against the encounter lists.

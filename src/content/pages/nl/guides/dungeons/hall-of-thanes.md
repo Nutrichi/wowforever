@@ -98,7 +98,7 @@ Een van de spies laat een [Dark Iron Map](https://www.wowhead.com/forever/item=2
 
 ![Afadra Dunwall in een bibliotheek vol boeken, de trap op vanaf de ingang van The Hall of Thanes](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-afadra-dunwall.jpg)
 
-**An Ancient Grudge.** Een Ghostly Attendant wacht in de tweede kamer, Anvilmar's Rest. Ze vraagt je de geest van Faldrim Anvilmar, de eerste baas, te laten rusten. Dit is de enige quest die ook de Horde kan doen. Wie zonder Hearthstone vertrekt, komt haar op de weg naar buiten opnieuw tegen, schrijft Warcraft Tavern. Beloning: de Catacomb Cloak of Deepgrave Trousers.
+**An Ancient Grudge.** Een Ghostly Attendant wacht in de tweede kamer, Anvilmar's Rest. Ze vraagt je de geest van Faldrim Anvilmar, de eerste baas, te laten rusten. Dit is de enige quest die ook de Horde kan doen. Wie zonder Hearthstone vertrekt, komt haar op de weg naar buiten opnieuw tegen. Beloning: de Catacomb Cloak of Deepgrave Trousers.
 
 ![De Ghostly Attendant met het questvenster van An Ancient Grudge open, tussen de geesten van de eerste kamer](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-ghostly-attendant.jpg)
 
@@ -160,7 +160,7 @@ Een geest die door het midden van Anvilmar's Rest patrouilleert. Ruim één kant
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_11.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271096">Aetherwisp Bracers</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Cloth</span></span><span class="wf-item__line">15 Armor</span><span class="wf-item__line">+3 Stamina</span><span class="wf-item__line">Durability 20 / 20</span><span class="wf-item__line">Requires Level 13</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span></div></div>
 </div>
 
-Faldrim trekt de geesten rond hem niet mee, schrijft Warcraft Tavern, maar maak voor de pull toch ruimte.
+Faldrim trekt de geesten rond hem niet mee, maar maak voor de pull toch ruimte.
 
 ### Magmatus
 

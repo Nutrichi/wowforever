@@ -23,7 +23,7 @@ First Aid is a secondary tradeskill, so it never takes one of your two main slot
 ## What changes in Forever
 
 - **Healing potions** moved from Alchemy to First Aid. They work in combat, so First Aid pays off for healers too.
-- **Curatives** against disease and bleeding join the anti-venoms. The new ones cannot be used in combat, writes Warcraft Tavern.
+- **Curatives** against disease and bleeding join the anti-venoms. The new ones cannot be used in combat.
 - **Camp objects:** a First Aid Kit for Stamina, and two workstations with potions at a campsite.
 - **The bandages** of Classic are all still there.
 
@@ -105,7 +105,7 @@ How a campsite works is in the [camping guide](/guides/camping/).
 
 ## Leveling
 
-Wowhead now has two complete routes. Both need the same books from 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> for the rank, and the manuals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, all from the Expert vendors above. They can be traded, so the Auction House works too.
+There are now two complete routes. Both need the same books from 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> for the rank, and the manuals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, all from the Expert vendors above. They can be traded, so the Auction House works too.
 
 **The fast route to 150: healing potions.** The potions skip the bandages and need only herbs, a vial and spices from a tradeskill vendor.
 

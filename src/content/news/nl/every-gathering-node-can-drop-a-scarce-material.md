@@ -25,7 +25,7 @@ De verzamel-tradeskills van WoW Forever hebben een nieuw soort materiaal. Scarce
 | Herbalism | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249399"><img class="wf-wh__icon" src="/wh/inv_misc_food_109_honeylichen.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frilled Lichen</a> |
 | Skinning | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249427"><img class="wf-wh__icon" src="/wh/item_pristinehide.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pristine Leather</a> |
 
-Het item zegt zelf Scarce in zijn tooltip. Het is een zeldzamere extra bovenop de gewone buit, schrijft Icy Veins.
+Het item zegt zelf Scarce in zijn tooltip. Het is een zeldzamere extra bovenop de gewone buit.
 
 ![Een buitvenster met Peacebloom en Frilled Lichen na het plukken van een kruid, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-09-29-wow-forever-frilled-lichen-loot.jpg)
 
@@ -37,4 +37,4 @@ Ook Pyrite duikt op bij Tailoring, bijvoorbeeld in <a class="wf-wh wf-q3" href="
 
 ## Wat er later komt
 
-<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249425"><img class="wf-wh__icon" src="/wh/inv_ore_manticytenugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bauxite</a> en <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249426"><img class="wf-wh__icon" src="/wh/inv_ore_elethium_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pitchblende</a> staan in de bestanden als Scarce-materialen voor Mining, schrijft Icy Veins. Vanaf welke skill ze verschijnen en of Herbalism en Skinning er ook meer krijgen, zegt Blizzard niet.
+<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249425"><img class="wf-wh__icon" src="/wh/inv_ore_manticytenugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bauxite</a> en <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249426"><img class="wf-wh__icon" src="/wh/inv_ore_elethium_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pitchblende</a> staan in de bestanden als Scarce-materialen voor Mining. Vanaf welke skill ze verschijnen en of Herbalism en Skinning er ook meer krijgen, zegt Blizzard niet.

@@ -85,7 +85,7 @@ Each vein gives at most one skill point, however many times you mine it.
 | 125 to 175 | Tin and Silver Vein, Iron Deposit, Gold Vein | Arathi Highlands, Desolace, Stranglethorn Vale, Thousand Needles |
 | 175 to 225 | Gold Vein, Mithril Deposit, Truesilver Deposit | Azshara, Tanaris, The Hinterlands |
 
-Tin stops giving skill at 165 and Silver at 175, so they are not worth a detour by then. Wowhead has not published a route from 225 to 300 yet.
+Tin stops giving skill at 165 and Silver at 175, so they are not worth a detour by then. A route from 225 to 300 is not known yet.
 
 ## Every vein
 
@@ -104,7 +104,7 @@ The four numbers are the skill colours: from the first you can mine it, then yel
 | Small Thorium Vein | 245 / 270 / 295 / 345 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Un'Goro Crater, Silithus, Winterspring, Burning Steppes and more |
 | Rich Thorium Vein | 275 / 300 / 325 / 375 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Azshara, Burning Steppes, Eastern and Western Plaguelands, Un'Goro Crater, Winterspring, Dire Maul |
 
-Veins also drop stones and gems, such as <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> and <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> from copper. The full lists per zone are in the guide of Wowhead.
+Veins also drop stones and gems, such as <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> and <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> from copper. The full lists differ per zone.
 
 ## Smelting
 

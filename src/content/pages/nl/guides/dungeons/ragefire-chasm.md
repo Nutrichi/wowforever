@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: nl
 faq:
   - q: "Welk level is Ragefire Chasm in WoW Forever?"
-    a: "Groepen doen de dungeon van level 9 tot 19. De bazen zijn level 16. Wowhead raadt level 13 tot 18 aan."
+    a: "Groepen doen de dungeon van level 9 tot 19. De bazen zijn level 16. Aangeraden is level 13 tot 18."
   - q: "Waar is de ingang van Ragefire Chasm?"
     a: "In de Cleft of Shadow in Orgrimmar. Spelers van de Horde lopen zo naar het portaal; voor de Alliance is het een lange corpse run door de stad."
   - q: "Kan de Alliance de quests van Ragefire Chasm doen?"
@@ -54,7 +54,7 @@ Na een wipe staat de Spirit Healer in Durotar, buiten de stad.
 | <a href="https://www.wowhead.com/forever/quest=5722">Searching for the Lost Satchel</a> | Thunder Bluff, Elder Rise: Rahauro /way 70 30<br><em>Gaat verder met <a href="https://www.wowhead.com/forever/quest=5724">Returning the Lost Satchel</a>.</em> | 9 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15452"><img class="wf-wh__icon" src="/wh/inv_bracer_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Featherbead Bracers</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15453"><img class="wf-wh__icon" src="/wh/inv_bracer_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savannah Bracers</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=270003"><img class="wf-wh__icon" src="/wh/inv_bracer_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Garrison Cuffs</a> |
 | <a href="https://www.wowhead.com/forever/quest=5728">Hidden Enemies</a> | Orgrimmar, Valley of Wisdom: Thrall /way 31 37<br><em>Doe eerst 3 quests, te beginnen met Hidden Enemies.</em> | 9 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15443"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Kris of Orgrimmar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15445"><img class="wf-wh__icon" src="/wh/inv_hammer_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hammer of Orgrimmar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15424"><img class="wf-wh__icon" src="/wh/inv_axe_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Orgrimmar</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15444"><img class="wf-wh__icon" src="/wh/inv_staff_goldfeathered_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Orgrimmar</a> |
 
-Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead.
+Het level is het laagste level waarop je de quest kan aannemen.
 
 - **Slaying the Beast.** Breng Taragaman the Hungerer's Heart van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11520">Taragaman the Hungerer</a>. Hij staat midden op het kruisvormige pad voor de laatste zaal.
 - **The Power to Destroy...** Loot Spells of Shadow en Incantations from the Nether. Beide vallen bij de Searing Blade Cultists en Searing Blade Warlocks in de tweede helft van de dungeon.
@@ -64,7 +64,7 @@ Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead.
 
 ## De bazen en hun loot
 
-De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta.
+De loot per baas heeft de stats uit de bestanden van de beta.
 
 ### Oggleflint
 

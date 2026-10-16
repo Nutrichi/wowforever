@@ -19,7 +19,7 @@ Undercity es la facción de la capital de los Forsaken bajo las ruinas de Lordae
 
 ## Dónde empiezas
 
-Dónde empiezas depende de tu raza. Estos son los valores de los datos de facción del cliente de Classic Era, que la base de datos wago.tools lee de la build 1.15.9.
+Dónde empiezas depende de tu raza. Estos son los valores de los datos de facción del cliente de Classic Era, build 1.15.9.
 
 | Tu raza | Nivel al empezar |
 |---|---|
@@ -42,7 +42,7 @@ Los Orcs, los Tauren y los Trolls empiezan aquí en Neutral, un nivel por debajo
 
 ### Misiones
 
-Las misiones para Undercity dan más reputación. Wowhead señala Tirisfal Glades, Silverpine Forest, Hillsbrad Foothills, las Arathi Highlands, The Hinterlands y las Western Plaguelands. La mayoría de las misiones para una ciudad de la Horda dan también una cuarta parte de esa reputación a las demás ciudades de la Horda.
+Las misiones para Undercity dan más reputación. Las mejores zonas son Tirisfal Glades, Silverpine Forest, Hillsbrad Foothills, las Arathi Highlands, The Hinterlands y las Western Plaguelands. La mayoría de las misiones para una ciudad de la Horda dan también una cuarta parte de esa reputación a las demás ciudades de la Horda.
 
 ### Donaciones de tela
 

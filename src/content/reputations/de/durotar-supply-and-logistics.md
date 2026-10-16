@@ -36,7 +36,7 @@ Das Lager steht gleich vor der Crossroads in The Barrens. Die Kisten gehen an <a
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Auktionator | 49.8 29.4 |
 
-Das sind die Positionen von den NPC-Seiten bei Wowhead; sein Ruf-Guide nennt /way 42 34 für das Lager. Das Lager der Allianz bei Three Corners hat Händler mit Rezepten für sieben Berufe, ein Reittier und Titel. Ob das Lager der Horde dasselbe verkauft, zeigen die Guides noch nicht.
+Das sind die Positionen der NPCs; ein Ruf-Guide nennt /way 42 34 für das Lager. Das Lager der Allianz bei Three Corners hat Händler mit Rezepten für sieben Berufe, ein Reittier und Titel. Ob das Lager der Horde dasselbe verkauft, zeigen die Guides noch nicht.
 
 ## Die Stufen
 

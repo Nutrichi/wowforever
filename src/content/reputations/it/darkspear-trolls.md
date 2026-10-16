@@ -19,7 +19,7 @@ I Darkspear Trolls sono la tribù di troll esiliati che si è unita a Thrall e a
 
 ## Da dove parti
 
-Da dove parti dipende dalla tua razza. Questi sono i valori dei dati di fazione del client di Classic Era, che il database wago.tools legge dalla build 1.15.9.
+Da dove parti dipende dalla tua razza. Questi sono i valori dei dati di fazione del client di Classic Era, build 1.15.9.
 
 | La tua razza | Livello di partenza |
 |---|---|
@@ -45,7 +45,7 @@ I Forsaken sono l'eccezione. Qui partono da Neutral, un livello sotto il resto d
 
 ### Missioni
 
-Le missioni per i Darkspear Trolls danno più reputazione. Wowhead indica Durotar e Feralas. La maggior parte delle missioni per una fazione dell'Orda dà anche un quarto di quella reputazione alle altre città dell'Orda.
+Le missioni per i Darkspear Trolls danno più reputazione. Le zone migliori sono Durotar e Feralas. La maggior parte delle missioni per una fazione dell'Orda dà anche un quarto di quella reputazione alle altre città dell'Orda.
 
 ### Donazioni di stoffa
 

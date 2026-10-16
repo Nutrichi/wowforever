@@ -23,7 +23,7 @@ De Magram Clan Centaur wonen in het oosten van Desolace en zijn de gezworen vija
 
 ## Waar je begint
 
-Elk personage begint op Neutral, 2.000 ver in de 3.000 van die standing, dus 1.000 van Friendly. Die waarde komt uit de factiegegevens van de Classic Era-cliënt, die de databank wago.tools uit build 1.15.9 leest.
+Elk personage begint op Neutral, 2.000 ver in de 3.000 van die standing, dus 1.000 van Friendly. Die waarde komt uit de factiegegevens van de Classic Era-cliënt, build 1.15.9.
 
 ## De standings
 

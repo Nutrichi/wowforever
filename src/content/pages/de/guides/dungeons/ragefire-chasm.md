@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: de
 faq:
   - q: "Welche Stufe hat Ragefire Chasm in WoW Forever?"
-    a: "Gruppen spielen den Dungeon von Stufe 9 bis 19. Die Bosse sind Stufe 16. Wowhead empfiehlt Stufe 13 bis 18."
+    a: "Gruppen spielen den Dungeon von Stufe 9 bis 19. Die Bosse sind Stufe 16. Empfohlen sind Stufe 13 bis 18."
   - q: "Wo ist der Eingang von Ragefire Chasm?"
     a: "In der Cleft of Shadow in Orgrimmar. Spieler der Horde gehen direkt zum Portal; für die Alliance ist es ein langer Geisterlauf durch die Stadt."
   - q: "Kann die Alliance die Quests von Ragefire Chasm machen?"
@@ -54,7 +54,7 @@ Nach einem Wipe steht der Spirit Healer in Durotar, außerhalb der Stadt.
 | <a href="https://www.wowhead.com/forever/quest=5722">Searching for the Lost Satchel</a> | Thunder Bluff, Elder Rise: Rahauro /way 70 30<br><em>Geht weiter mit <a href="https://www.wowhead.com/forever/quest=5724">Returning the Lost Satchel</a>.</em> | 9 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15452"><img class="wf-wh__icon" src="/wh/inv_bracer_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Featherbead Bracers</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15453"><img class="wf-wh__icon" src="/wh/inv_bracer_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savannah Bracers</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=270003"><img class="wf-wh__icon" src="/wh/inv_bracer_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Garrison Cuffs</a> |
 | <a href="https://www.wowhead.com/forever/quest=5728">Hidden Enemies</a> | Orgrimmar, Valley of Wisdom: Thrall /way 31 37<br><em>Erledige zuerst 3 Quests, beginnend mit Hidden Enemies.</em> | 9 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15443"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Kris of Orgrimmar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15445"><img class="wf-wh__icon" src="/wh/inv_hammer_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hammer of Orgrimmar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15424"><img class="wf-wh__icon" src="/wh/inv_axe_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Orgrimmar</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15444"><img class="wf-wh__icon" src="/wh/inv_staff_goldfeathered_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Orgrimmar</a> |
 
-Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wowhead.
+Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann.
 
 - **Slaying the Beast.** Bring Taragaman the Hungerer's Heart von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11520">Taragaman the Hungerer</a>. Er steht in der Mitte des kreuzförmigen Wegs vor dem letzten Raum.
 - **The Power to Destroy...** Besorge Spells of Shadow und Incantations from the Nether. Beide fallen bei den Searing Blade Cultists und Searing Blade Warlocks in der zweiten Hälfte des Dungeons.
@@ -64,7 +64,7 @@ Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wow
 
 ## Die Bosse und ihre Beute
 
-Die Beute pro Boss stammt von Wowhead, mit den Werten aus den Dateien der Beta.
+Die Beute pro Boss hat die Werte aus den Dateien der Beta.
 
 ### Oggleflint
 

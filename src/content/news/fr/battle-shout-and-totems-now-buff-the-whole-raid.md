@@ -2,6 +2,7 @@
 title: "Battle Shout et les totems buffent tout le raid"
 description: "Le build bêta du 15 octobre rend Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura et quatre totems du Shaman actifs sur tout le raid. Les Mages reçoivent Frost Blast, et Elemental Mastery revient."
 date: 2026-10-16T04:00:00+02:00
+updated: 2026-10-16T10:15:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-02-wow-forever-warriors-on-a-burning-deck.jpg
@@ -41,7 +42,7 @@ Les baguettes et Auto Shot demandent désormais de rester immobile 0,5 seconde a
 ## Hunter
 
 - Un Hunter peut avoir un piège de feu et un piège de glace actifs en même temps (avant : un piège au total). Les pièges de feu augmentent désormais avec la puissance d’attaque. Les familiers profitent de l’Expertise et prennent la meilleure chance de coup critique, en mêlée ou à distance.
-- **Familiers :** Dismember (Crocolisk) réduit les soins de 25 % pendant 6 secondes, avec 15 secondes de recharge (avant : 50 %, 10 secondes et 6 secondes). Sonic Blast (Bat) ralentit l’incantation de 30 % pendant 20 secondes, avec 60 secondes de recharge (avant : 60 %, 30 et 30). Mine! (Bird of Prey) dure 3 secondes avec 90 secondes de recharge (avant : 4 et 60).
+- **Familiers :** Dismember (Crocolisk) réduit les soins de 25 % pendant 6 secondes, avec 15 secondes de recharge (avant : 50 %, 10 secondes et 6 secondes). Sonic Blast (Bat) ralentit l’incantation de 30 % pendant 20 secondes, avec 60 secondes de recharge (avant : 60 %, 30 et 30). Mine! (Bird of Prey) dure 3 secondes avec 90 secondes de recharge (avant : 4 et 60). Dans les données de la build, le Furious Howl du loup touche désormais aussi le raid ([plus sur les familiers](/fr/news/hunter-pets-lose-utility-but-wolves-buff-the-raid/)).
 - **Survival :** Strider Kick fonctionne même désarmé. Resourcefulness ne se déclenche plus que sur les coups critiques des techniques de mêlée et à distance, pas sur les pièges.
 
 ## Mage

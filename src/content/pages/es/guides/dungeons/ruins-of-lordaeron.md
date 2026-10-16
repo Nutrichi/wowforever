@@ -186,7 +186,7 @@ Una araña grande que patrulla King's Alley con dos arañas más pequeñas. Limp
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_07.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271202">Witherbite Bracers</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Leather</span></span><span class="wf-item__line">37 Armor</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Intellect</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Durability 30 / 30</span><span class="wf-item__line">Requires Level 15</span></div></div>
 </div>
 
-No arrastra a su patrulla, escribe Warcraft Tavern: un pull a distancia la trae sola.
+No arrastra a su patrulla: un pull a distancia la trae sola.
 
 ### The Baron
 
@@ -290,7 +290,7 @@ Un raro con una pequeña probabilidad de aparecer en el lado oeste de la mazmorr
 
 ## Lo que aún no se sabe
 
-- Qué jefe cuenta como jefe final. El jefe de nivel 20 no tiene un lugar fijo en el orden; Warcraft Tavern termina su ruta en Rath'mael.
+- Qué jefe cuenta como jefe final. El jefe de nivel 20 no tiene un lugar fijo en el orden; las rutas habituales terminan en Rath'mael.
 - Si Viktor the Vile aparece siempre en el lanzamiento. En la beta no siempre lo hace.
 - Dónde cae el resto del Rotmender's Raiment, y en qué paso Unending Torment da Slain Baron's Signet.
 - Cuánta experiencia da The Wrath of Rath'mael

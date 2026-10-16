@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Die Addon-Änderungen aus Midnight werden auch in World of Warcraft: Forever aktiv. Blizzard kündigte das im WoW UI Discord an, meldet Wowhead. Forever teilt die Interface-Architektur des modernen WoW, samt Secrets und den neuen Aura Containers.
+Die Addon-Änderungen aus Midnight werden auch in World of Warcraft: Forever aktiv. Blizzard kündigte das im WoW UI Discord an. Forever teilt die Interface-Architektur des modernen WoW, samt Secrets und den neuen Aura Containers.
 
 ## Was Blizzard sagt
 

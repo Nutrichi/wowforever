@@ -17,7 +17,7 @@ El primer torneo de duelos de WoW Forever tiene ya un bote de 100.000 dólares. 
 
 ## El torneo
 
-Tips, conocido como TipsOut, anunció The Forever Open el 27 de septiembre, junto a Xaryu y Esfand, escribe Icy Veins. Su publicación en X da las reglas: el ruleset PvP, el lado de la Horde, nivel 30 y, al principio, un bote de 50.000 dólares.
+Tips, conocido como TipsOut, anunció The Forever Open el 27 de septiembre, junto a Xaryu y Esfand. Su publicación en X da las reglas: el ruleset PvP, el lado de la Horde, nivel 30 y, al principio, un bote de 50.000 dólares.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104269843826627048">
   <button type="button" class="wf-embed__play">
@@ -33,7 +33,7 @@ El torneo está abierto a todos. Los jugadores se inscriben en el servidor de Di
 
 ## El doble de bote
 
-Un día después, TimTheTatman puso otros 50.000 dólares, por puro amor a Classic WoW, según una publicación en X que compartió su anuncio. Tips confirmó los detalles en un nuevo vídeo animado, escribe Icy Veins.
+Un día después, TimTheTatman puso otros 50.000 dólares, por puro amor a Classic WoW, según una publicación en X que compartió su anuncio. Tips confirmó los detalles en un nuevo vídeo animado.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104651349300572501">
   <button type="button" class="wf-embed__play">

@@ -19,7 +19,7 @@ Ironforge es la facción de la capital enana Ironforge, excavada en las montaña
 
 ## Dónde empiezas
 
-Dónde empiezas depende de tu raza. Estos son los valores de los datos de facción del cliente de Classic Era, que la base de datos wago.tools lee de la build 1.15.9.
+Dónde empiezas depende de tu raza. Estos son los valores de los datos de facción del cliente de Classic Era, build 1.15.9.
 
 | Tu raza | Nivel al empezar |
 |---|---|
@@ -42,7 +42,7 @@ Friendly abarca 6.000 de reputación, así que un personaje de la raza propia de
 
 ### Misiones
 
-Las misiones para Ironforge dan más reputación. Wowhead señala Dun Morogh, Loch Modan, los Wetlands y Alterac Valley. La mayoría de las misiones para una ciudad de la Alianza dan también una cuarta parte de esa reputación a las demás ciudades de la Alianza.
+Las misiones para Ironforge dan más reputación. Las mejores zonas son Dun Morogh, Loch Modan, los Wetlands y Alterac Valley. La mayoría de las misiones para una ciudad de la Alianza dan también una cuarta parte de esa reputación a las demás ciudades de la Alianza.
 
 ### Donaciones de tela
 

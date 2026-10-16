@@ -62,13 +62,13 @@ El bloque de celdas es una T. Un pasillo va recto y, al final, salen dos alas a 
 | <a href="https://www.wowhead.com/forever/quest=378">The Fury Runs Deep</a> | Wetlands, Dun Modr: Motley Garmason /way 49 18<br><em>Completa antes <a href="https://www.wowhead.com/forever/quest=303">The Dark Iron War</a>.</em> | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3562"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Belt of Vindication</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1264"><img class="wf-wh__icon" src="/wh/inv_mace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Headbasher</a> |
 | <a href="https://www.wowhead.com/forever/quest=391">The Stockade Riots</a> | Stormwind, fuera de The Stockade: Warden Thelwater /way 41 58<br><em>Completa antes la cadena que empieza con The Unsent Letter en The Deadmines.</em> | 16 | Experiencia y plata |
 
-El nivel es el mínimo para aceptar la misión, según Wowhead. Las recompensas vienen de Wowhead; cuando no indica ninguna, aún no se conocen.
+El nivel es el mínimo para aceptar la misión. Cuando no se indica ninguna recompensa, aún no se conoce.
 
 - **Quell the Uprising.** Mata a 10 Defias Prisoners, 8 Defias Convicts y 8 Defias Insurgents.
 - **The Color of Blood.** Nikova Raskol quiere 10 Red Wool Bandanas. Los sueltan los Defias Captives, Convicts, Inmates, Insurgents y Prisoners, y también Bazil Thredd, Bruegal Ironknuckle y Dextren Ward.
 - **Crime and Punishment.** Lleva la Hand of Dextren Ward a Councilman Millstipe en Darkshire.
 - **What Comes Around...** Lleva la Head of Targorr a Guard Berton en Lakeshire.
-- **The Fury Runs Deep.** Lleva la Head of Deepfury a Motley Garmason en Dun Modr. Antes va The Dark Iron War para el mismo PNJ: 25 de plata, 2.450 de experiencia y 100 de reputación con Ironforge, escribe Warcraft Tavern.
+- **The Fury Runs Deep.** Lleva la Head of Deepfury a Motley Garmason en Dun Modr. Antes va The Dark Iron War para el mismo PNJ: 25 de plata, 2.450 de experiencia y 100 de reputación con Ironforge.
 - **The Stockade Riots.** Lleva la Head of Bazil Thredd a Warden Thelwater. El camino empieza con An Unsent Letter de Edwin VanCleef en [The Deadmines](/es/guides/dungeons/the-deadmines/). Baros Alexston, en Stormwind, te envía al Warden con <a href="https://www.wowhead.com/forever/quest=389">Bazil Thredd</a>. Después de esta misión la cadena sigue en Stormwind, con más reputación con Stormwind.
 
 ## Los jefes y su botín
@@ -95,7 +95,7 @@ Un élite de nivel 29 y el más fuerte de los presos, con adds a su alrededor. L
 
 ### Bruegal Ironknuckle, un raro
 
-Todos los jefes de The Stockade pueden soltar objetos verdes, escribe Wowhead, pero solo Bruegal Ironknuckle suelta con seguridad equipo valioso.
+Todos los jefes de The Stockade pueden soltar objetos verdes, pero solo Bruegal Ironknuckle suelta con seguridad equipo valioso.
 
 Un raro élite de nivel 26 que no siempre aparece. Es el único jefe con botín de verdad, tres objetos azules que mejoraron los tres en los archivos de la beta:
 
@@ -113,4 +113,4 @@ Los tres piden ahora nivel 23 en vez de 21.
 
 - **La probabilidad de botín** de cada jefe.
 - **Kam's Walking Stick**: qué monstruo lo suelta ahora.
-- **Las recompensas de las misiones** que Wowhead aún no indica.
+- **Las recompensas de las misiones** que aún no se conocen.

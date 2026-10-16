@@ -76,7 +76,7 @@ The Horde has Zoram'gar Outpost a short way south, where Je'neu Sancrea hands ou
 | <a href="https://www.wowhead.com/forever/quest=1275">Researching the Corruption</a><br>Shareable | Darkshore, Auberdine: Gershala Nightwhisper /way 38 43 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7003"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beetle Clasps</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7004"><img class="wf-wh__icon" src="/wh/inv_misc_cape_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prelacy Cape</a> |
 | <a href="https://www.wowhead.com/forever/quest=1200">Blackfathom Villainy</a><br>Shareable | Inside the dungeon: Argent Guard Thaelrid | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7002"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arctic Buckler</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> |
 
-The level is the lowest level at which the quest can be picked up, according to Wowhead. The rewards come from Wowhead; where it lists none, they are not known yet.
+The level is the lowest level at which the quest can be picked up. Where no reward is listed, it is not known yet.
 
 ### The quests of the Horde
 
@@ -92,7 +92,7 @@ The level is the lowest level at which the quest can be picked up, according to 
 
 ### The quests of the Alliance
 
-**In Search of Thaelrid.** Dawnwatcher Shaedlass sends you to Argent Guard Thaelrid inside the dungeon. The quest is open to the Horde too, writes Warcraft Tavern, but it starts deep in Darnassus.
+**In Search of Thaelrid.** Dawnwatcher Shaedlass sends you to Argent Guard Thaelrid inside the dungeon. The quest is open to the Horde too, but it starts deep in Darnassus.
 
 **Twilight Falls.** Argent Guard Manados wants 10 Twilight Pendants. They drop from the Twilight Acolytes, Aquamancers, Elementalists, Loreseekers, Reavers and Shadowmages in the dungeon.
 
@@ -106,7 +106,7 @@ Warlocks also come here for <a href="https://www.wowhead.com/forever/quest=1740"
 
 ## The bosses and their loot
 
-The loot per boss comes from Wowhead, with the stats from the files of the beta.
+The loot per boss has the stats from the files of the beta.
 
 ### Ghamoo-ra
 
@@ -166,7 +166,7 @@ An optional level 26 elite who is fought underwater. He heals himself as he atta
 
 ### Aku'mai
 
-Before his lair opens, all four braziers have to be lit, and each one brings a wave of monsters. The wave of turtles hits hardest; an off-tank, a pet or a Rogue with Evasion should take one of them, writes Wowhead.
+Before his lair opens, all four braziers have to be lit, and each one brings a wave of monsters. The wave of turtles hits hardest; an off-tank, a pet or a Rogue with Evasion should take one of them.
 
 The final boss, a level 28 elite hydra. Stay out of his Poison Cloud; it can be interrupted. Frenzied Rage gives him 75% more attack speed for 5 seconds. Save stuns and the tank's cooldowns for it.
 
@@ -191,4 +191,4 @@ Several blue items that bind when equipped dropped in Classic from the monsters 
 ## What is not known yet
 
 - **The drop rates** of the boss loot.
-- **The quest rewards** that Wowhead does not list yet.
+- **The quest rewards** that are not known yet.

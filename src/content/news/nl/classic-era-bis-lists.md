@@ -1,6 +1,6 @@
 ---
 title: "Classic Era heeft BiS-lijsten voor alle 27 specs"
-description: "189 best-in-slotlijsten voor WoW Classic Era dekken elke class en spec over pre-raidgear en zes raidfasen, op basis van de gearguides van Icy Veins."
+description: "189 best-in-slotlijsten voor WoW Classic Era dekken elke class en spec over pre-raidgear en zes raidfasen, op basis van gevestigde gearguides."
 date: 2026-07-22
 category: classic
 lang: nl
@@ -19,8 +19,8 @@ De fasen volgen de originele release van 2019. Molten Core en Onyxia's Lair zijn
 
 ## Bronnen
 
-De lijsten zijn gebaseerd op de gearguides van Icy Veins. Voor fase 2 heeft Icy Veins geen aparte lijst voor Dire Maul. Die fase gebruikt de verfijnde lijst voor Molten Core en Onyxia's Lair, aangevuld met PvP-items en items van world bosses. De lijst voor fase 4 van Icy Veins dekt Zul'Gurub en Blackwing Lair samen. Beide keuzes staan op de lijsten zelf vermeld.
+De lijsten zijn gebaseerd op gevestigde gearguides. Voor fase 2 hebben die guides geen aparte lijst voor Dire Maul. Die fase gebruikt de verfijnde lijst voor Molten Core en Onyxia's Lair, aangevuld met PvP-items en items van world bosses. De lijst voor fase 4 dekt Zul'Gurub en Blackwing Lair samen. Beide keuzes staan op de lijsten zelf vermeld.
 
-De eerste pre-raidlijsten, voor Holy en Discipline Priests en voor Protection Warriors, kwamen uit de communityguides van Warcraft Tavern. Ze gebruiken gear uit dungeons voor level 51 tot 60, zoals Blackrock Depths, Scholomance en Stratholme, plus world drops en quests.
+De eerste pre-raidlijsten, voor Holy en Discipline Priests en voor Protection Warriors, kwamen uit communityguides. Ze gebruiken gear uit dungeons voor level 51 tot 60, zoals Blackrock Depths, Scholomance en Stratholme, plus world drops en quests.
 
 Classic Era heeft geen gem sockets. Blizzard voegde die toe in The Burning Crusade. Elke lijst blijft als concept gemarkeerd tot ze met de hand is nagekeken.

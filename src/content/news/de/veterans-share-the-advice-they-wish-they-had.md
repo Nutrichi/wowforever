@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Ein Neuling in World of Warcraft fragte Veteranen auf X nach dem einen Tipp, den sie gern vor ihrem ersten Abenteuer gekannt hätten. Die Antworten wurden zu einem kleinen Einsteiger-Guide für WoW Forever, schreibt Icy Veins.
+Ein Neuling in World of Warcraft fragte Veteranen auf X nach dem einen Tipp, den sie gern vor ihrem ersten Abenteuer gekannt hätten. Die Antworten wurden zu einem kleinen Einsteiger-Guide für WoW Forever.
 
 Trenton Reed stellte die Frage am 2. Oktober. WoW Forever bringe langjährige Spieler, Rückkehrer und völlige Neulinge wie ihn zusammen, schrieb er. Er suchte nicht den perfekten Build, sondern den Rat, den ihm niemand gegeben hatte.
 
@@ -29,13 +29,13 @@ Trenton Reed stellte die Frage am 2. Oktober. WoW Forever bringe langjährige Sp
 
 ## Lass dir Zeit
 
-Der häufigste Rat: Hetz dich nicht. Mehrere Veteranen empfahlen Neulingen, sich nicht in Guides zu vergraben, bevor sie überhaupt gespielt haben. Geh blind hinein, probier verschiedene Fähigkeiten aus und entdecke die Welt selbst. Icy Veins fügt einen eigenen Tipp hinzu: Mach Screenshots von besonderen Momenten, für ein Album deiner Reise.
+Der häufigste Rat: Hetz dich nicht. Mehrere Veteranen empfahlen Neulingen, sich nicht in Guides zu vergraben, bevor sie überhaupt gespielt haben. Geh blind hinein, probier verschiedene Fähigkeiten aus und entdecke die Welt selbst. Noch ein Tipp: Mach Screenshots von besonderen Momenten, für ein Album deiner Reise.
 
 ![Ein Tempel der Night Elves mit Kuppelpavillons und violetten Bäumen in der Dämmerung, ein Screenshot aus World of Warcraft](../../../assets/posts/2026-10-03-wow-forever-night-elf-temple-at-dusk.jpg)
 
 ## Bleib nicht allein
 
-Die soziale Seite kam oft zur Sprache. Finde Freunde und queste gemeinsam, oder sei einfach nett zu anderen. Blizzard experimentiert mit sozialen Systemen wie einem Werkzeug zur Gruppensuche, aber andere Spieler auf anderen Wegen kennenzulernen lohnt sich weiterhin, schreibt Icy Veins. Schon ein /wave kann jemandem den Tag versüßen.
+Die soziale Seite kam oft zur Sprache. Finde Freunde und queste gemeinsam, oder sei einfach nett zu anderen. Blizzard experimentiert mit sozialen Systemen wie einem Werkzeug zur Gruppensuche, aber andere Spieler auf anderen Wegen kennenzulernen lohnt sich weiterhin. Schon ein /wave kann jemandem den Tag versüßen.
 
 ## Nutze deine Verbrauchsgüter
 
@@ -49,7 +49,7 @@ Flugpunkte kamen immer wieder vor. Sprich in jedem neuen Ort mit dem Flugmeister
 
 ## Kämpf nicht auf Stufe 8 gegen Hogger
 
-Neulinge müssen nicht alles wissen, bevor sie anfangen, schließt Icy Veins: Wähl etwas, das nach Spaß aussieht, erkunde und finde unterwegs Freunde. Der wichtigste Rat kam von slayzdam: Kämpf nicht auf Stufe 8 gegen <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a>.
+Neulinge müssen nicht alles wissen, bevor sie anfangen: Wähl etwas, das nach Spaß aussieht, erkunde und finde unterwegs Freunde. Der wichtigste Rat kam von slayzdam: Kämpf nicht auf Stufe 8 gegen <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a>.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2106130909414261162">
   <button type="button" class="wf-embed__play">

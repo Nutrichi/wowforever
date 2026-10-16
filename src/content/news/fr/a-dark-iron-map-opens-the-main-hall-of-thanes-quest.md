@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-La quête principale du Hall of Thanes dans World of Warcraft: Forever commence par une carte. Elle tombe sur des Dark Iron Spies à Dun Morogh, écrit Warcraft Tavern, qui a répertorié les cinq quêtes du donjon. Les quatre autres commencent au donjon même.
+La quête principale du Hall of Thanes dans World of Warcraft: Forever commence par une carte. Elle tombe sur des Dark Iron Spies à Dun Morogh, qui a répertorié les cinq quêtes du donjon. Les quatre autres commencent au donjon même.
 
 ## La chaîne de Dun Morogh
 

@@ -1,6 +1,6 @@
 ---
 title: "Une fenêtre et un pilier raccourcissent les Ruins of Lordaeron"
-description: "Warcraft Tavern a cartographié les Ruins of Lordaeron comme un parcours en U avec des raccourcis, des gargouilles qui se changent en pierre et un capitaine rare que seule la Horde peut combattre."
+description: "Les Ruins of Lordaeron suivent un parcours en U avec des raccourcis, des gargouilles qui se changent en pierre et un capitaine rare que seule la Horde peut combattre."
 date: 2026-09-29T23:45:00+02:00
 category: forever
 lang: fr
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Les Ruins of Lordaeron suivent un parcours en U avec quelques raccourcis, selon un nouveau guide de Warcraft Tavern. Une fenêtre évite les premiers groupes d’araignées et un pilier brisé mène au-delà de The Baron. Un capitaine rare ne combat que la Horde.
+Les Ruins of Lordaeron suivent un parcours en U avec quelques raccourcis. Une fenêtre évite les premiers groupes d’araignées et un pilier brisé mène au-delà de The Baron. Un capitaine rare ne combat que la Horde.
 
 ## Les raccourcis
 

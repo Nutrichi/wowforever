@@ -47,7 +47,7 @@ The beta of WoW Forever goes up to level 30 since 1 October. Testers clear the G
 
 | Wing | Bosses | Boss levels |
 |---|---|---|
-The other two rares have their loot from Wowhead, with the stats from the files of the beta.
+The loot of the other two rares has the stats from the files of the beta.
 
 **<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6488">Fallen Champion</a>**
 
@@ -83,7 +83,7 @@ The levels come from the NPC data of the beta. The Graveyard and the Library are
 | <a href="https://www.wowhead.com/forever/quest=1050">Mythology of the Titans</a><br>Alliance, level 28 | Library | Ironforge, Hall of Explorers: Librarian Mae Paledust /way 75 12 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7746"><img class="wf-wh__icon" src="/wh/inv_jewelry_talisman_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Explorers' League Commendation</a> |
 | <a href="https://www.wowhead.com/forever/quest=1951">Rituals of Power</a><br>Both, level 30 | Library | Thousand Needles, Shimmering Flats Raceway: Magus Tirth /way 78 75<br><em>Complete 3 quests first, starting with Journey to the Marsh. Mage only.</em> | Not known yet |
 
-The quests come from the data of Classic and can still change. Every dungeon quest of Forever is in the [dungeon guide](/guides/dungeons/). The rewards come from Wowhead; Sword of Omen, Prophetic Cane and Dragon's Blood Necklace are not in its Forever data yet.
+The quests come from the data of Classic and can still change. Every dungeon quest of Forever is in the [dungeon guide](/guides/dungeons/). Sword of Omen, Prophetic Cane and Dragon's Blood Necklace are not in the Forever data yet.
 
 ## Graveyard
 
@@ -115,7 +115,7 @@ The other two rares, <a class="wf-wh wf-plain" href="https://www.wowhead.com/for
 
 ![The tooltips of Loksey's Training Stick and Houndmaster Boomerang on the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-10-03-wow-forever-lokseys-training-stick-and-houndmaster-boomerang.jpg)
 
-Wowhead lists two older drops for Loksey as well:
+Older loot lists name two more drops for Loksey:
 
 | Item | New in Forever |
 |---|---|
@@ -124,7 +124,7 @@ Wowhead lists two older drops for Loksey as well:
 
 ### Arcanist Doan
 
-Doan is level 37, above the cap of the beta. His loot from Wowhead, with the stats from the files of the beta:
+Doan is level 37, above the cap of the beta. His loot, with the stats from the files of the beta:
 
 | Item | New in Forever |
 |---|---|
@@ -135,7 +135,7 @@ Doan is level 37, above the cap of the beta. His loot from Wowhead, with the sta
 
 ## Armory and Cathedral
 
-Herod in the Armory and Fairbanks, Mograine and Whitemane in the Cathedral are level 40 to 42. Nobody on the beta reaches them at level yet; their loot comes from Wowhead, with the stats from the files of the beta.
+Herod in the Armory and Fairbanks, Mograine and Whitemane in the Cathedral are level 40 to 42. Nobody on the beta reaches them at level yet; their loot has the stats from the files of the beta.
 
 ### Herod
 
@@ -145,7 +145,7 @@ Herod in the Armory and Fairbanks, Mograine and Whitemane in the Cathedral are l
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7719"><img class="wf-wh__icon" src="/wh/inv_helmet_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raging Berserker's Helm</a> | Unchanged |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10330"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Leggings</a> | Part of the Chain of the Scarlet Crusade, see below |
 
-Wowhead also lists Herod's Shoulder, which is not in its Forever data yet.
+Older loot lists also name Herod's Shoulder, which is not in the Forever data yet.
 
 ### High Inquisitor Fairbanks
 
@@ -169,7 +169,7 @@ Wowhead also lists Herod's Shoulder, which is not in its Forever data yet.
 |---|---|
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7721"><img class="wf-wh__icon" src="/wh/inv_hammer_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hand of Righteousness</a> | A healer's mace now: up to 94 healing |
 
-Wowhead also lists Whitemane's Chapeau and the Triune Amulet, which are not in its Forever data yet.
+Older loot lists also name Whitemane's Chapeau and the Triune Amulet, which are not in the Forever data yet.
 
 ![The armory of the Scarlet Monastery, a round hall with statues and a red floor, a screenshot from World of Warcraft](../../../../../assets/posts/2026-10-03-wow-forever-scarlet-monastery-armory.jpg)
 
@@ -203,5 +203,5 @@ The comparison with Classic Era is in the [post about the set](/news/scarlet-set
 ## What is not known yet
 
 - **Whitemane's Chapeau, the Triune Amulet and Herod's Shoulder**: whether they still drop in Forever.
-- **The quest rewards** that Wowhead does not list yet.
+- **The quest rewards** that are not known yet.
 - **The Houndmaster Boomerang**: how often it drops.

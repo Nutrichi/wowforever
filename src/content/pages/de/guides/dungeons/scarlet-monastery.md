@@ -48,7 +48,7 @@ Die Beta von WoW Forever geht seit dem 1. Oktober bis Stufe 30. Tester spielen G
 
 | Flügel | Bosse | Stufe der Bosse |
 |---|---|---|
-Die Beute der anderen beiden Rares stammt von Wowhead, mit den Werten aus den Dateien der Beta.
+Die Beute der anderen beiden Rares hat die Werte aus den Dateien der Beta.
 
 **<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6488">Fallen Champion</a>**
 
@@ -84,7 +84,7 @@ Die Stufen stammen aus den NPC-Daten der Beta. Graveyard und Library sind für a
 | <a href="https://www.wowhead.com/forever/quest=1050">Mythology of the Titans</a><br>Alliance, Level 28 | Library | Ironforge, Hall of Explorers: Librarian Mae Paledust /way 75 12 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7746"><img class="wf-wh__icon" src="/wh/inv_jewelry_talisman_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Explorers' League Commendation</a> |
 | <a href="https://www.wowhead.com/forever/quest=1951">Rituals of Power</a><br>Beide, Level 30 | Library | Thousand Needles , Shimmering Flats Raceway: Magus Tirth /way 78 75<br><em>Erledigt zuerst 3 Quests, beginnend mit Journey to the Marsh. Nur Mage.</em> | Noch nicht bekannt |
 
-Die Quests stammen aus den Daten von Classic und können sich noch ändern. Jede Dungeon-Quest von Forever steht im [Dungeon-Guide](/de/guides/dungeons/). Die Belohnungen stammen von Wowhead; Sword of Omen, Prophetic Cane und Dragon's Blood Necklace stehen noch nicht in seinen Daten von Forever.
+Die Quests stammen aus den Daten von Classic und können sich noch ändern. Jede Dungeon-Quest von Forever steht im [Dungeon-Guide](/de/guides/dungeons/). Sword of Omen, Prophetic Cane und Dragon's Blood Necklace stehen noch nicht in den Daten von Forever.
 
 ## Graveyard
 
@@ -116,7 +116,7 @@ Für die anderen beiden Rares, <a class="wf-wh wf-plain" href="https://www.wowhe
 
 ![Die Tooltips von Loksey's Training Stick und Houndmaster Boomerang in der Beta von World of Warcraft: Forever](../../../../../assets/posts/2026-10-03-wow-forever-lokseys-training-stick-and-houndmaster-boomerang.jpg)
 
-Wowhead nennt für Loksey auch zwei ältere Drops:
+Ältere Beutelisten nennen für Loksey noch zwei Drops:
 
 | Gegenstand | Neu in Forever |
 |---|---|
@@ -125,7 +125,7 @@ Wowhead nennt für Loksey auch zwei ältere Drops:
 
 ### Arcanist Doan
 
-Doan ist Stufe 37, über der Grenze der Beta. Seine Beute laut Wowhead, mit den Werten aus den Dateien der Beta:
+Doan ist Stufe 37, über der Grenze der Beta. Seine Beute, mit den Werten aus den Dateien der Beta:
 
 | Gegenstand | Neu in Forever |
 |---|---|
@@ -136,7 +136,7 @@ Doan ist Stufe 37, über der Grenze der Beta. Seine Beute laut Wowhead, mit den 
 
 ## Armory und Cathedral
 
-Herod in der Armory und Fairbanks, Mograine und Whitemane in der Cathedral sind Stufe 40 bis 42. In der Beta erreicht sie noch niemand auf passender Stufe; ihre Beute stammt von Wowhead, mit den Werten aus den Dateien der Beta.
+Herod in der Armory und Fairbanks, Mograine und Whitemane in der Cathedral sind Stufe 40 bis 42. In der Beta erreicht sie noch niemand auf passender Stufe; ihre Beute hat die Werte aus den Dateien der Beta.
 
 ### Herod
 
@@ -146,7 +146,7 @@ Herod in der Armory und Fairbanks, Mograine und Whitemane in der Cathedral sind 
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7719"><img class="wf-wh__icon" src="/wh/inv_helmet_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raging Berserker's Helm</a> | Unverändert |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10330"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Leggings</a> | Teil der Chain of the Scarlet Crusade, siehe unten |
 
-Wowhead nennt auch Herod's Shoulder, die noch nicht in seinen Daten von Forever steht.
+Ältere Beutelisten nennen auch Herod's Shoulder, die noch nicht in den Daten von Forever steht.
 
 ### High Inquisitor Fairbanks
 
@@ -170,7 +170,7 @@ Wowhead nennt auch Herod's Shoulder, die noch nicht in seinen Daten von Forever 
 |---|---|
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7721"><img class="wf-wh__icon" src="/wh/inv_hammer_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hand of Righteousness</a> | Jetzt ein Streitkolben für Heiler: bis zu 94 Heilung |
 
-Wowhead nennt auch Whitemane's Chapeau und das Triune Amulet, die noch nicht in seinen Daten von Forever stehen.
+Ältere Beutelisten nennen auch Whitemane's Chapeau und das Triune Amulet, die noch nicht in den Daten von Forever stehen.
 
 ![Die Waffenkammer des Scarlet Monastery, ein runder Saal mit Statuen und rotem Boden, ein Screenshot aus World of Warcraft](../../../../../assets/posts/2026-10-03-wow-forever-scarlet-monastery-armory.jpg)
 
@@ -204,5 +204,5 @@ Der Vergleich mit Classic Era steht im [Beitrag über das Set](/de/news/scarlet-
 ## Was noch nicht bekannt ist
 
 - **Whitemane's Chapeau, das Triune Amulet und Herod's Shoulder**: ob sie in Forever noch fallen.
-- **Die Questbelohnungen**, die Wowhead noch nicht nennt.
+- **Die Questbelohnungen**, die noch nicht bekannt sind.
 - **Der Houndmaster Boomerang**: wie oft er droppt.

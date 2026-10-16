@@ -24,4 +24,4 @@ Some specs keep trinkets from Throne of Thunder in later phases. Feral and Windw
 
 ## Sources
 
-The lists are based on the gear guides of Icy Veins. A few wrong item origins on the source pages were corrected against the encounter lists, such as the raid of Jin'rokh the Breaker, the first boss of Throne of Thunder.
+The lists are based on established gear guides. A few wrong item origins on the source pages were corrected against the encounter lists, such as the raid of Jin'rokh the Breaker, the first boss of Throne of Thunder.

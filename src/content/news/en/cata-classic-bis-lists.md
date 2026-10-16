@@ -12,7 +12,7 @@ tags: ["cata-classic", "bis"]
 featured: false
 draft: false
 ---
-[Best-in-slot lists](/bis/cata/) for Cataclysm Classic now cover all 30 specs. There are 120 lists for pre-raid gear and three raid tiers, up to Dragon Soul. They are based on the Cataclysm Classic gear guides of Icy Veins.
+[Best-in-slot lists](/bis/cata/) for Cataclysm Classic now cover all 30 specs. There are 120 lists for pre-raid gear and three raid tiers, up to Dragon Soul. They are based on established Cataclysm Classic gear guides.
 
 ## How the phases are numbered
 
@@ -20,6 +20,6 @@ Phase 1 covers Blackwing Descent, The Bastion of Twilight and Throne of the Four
 
 ## Pre-raid and Heroic
 
-The raid lists use the Heroic items. The pre-raid lists start from a fresh level 85. Where Icy Veins keeps a list for Hour of Twilight, they use dungeon drops from End Time, Well of Eternity and Hour of Twilight, plus valor gear.
+The raid lists use the Heroic items. The pre-raid lists start from a fresh level 85. Where the guides keep a list for Hour of Twilight, they use dungeon drops from End Time, Well of Eternity and Hour of Twilight, plus valor gear.
 
-For a few specs, Icy Veins only has an older pre-raid list, from the launch or from the Firelands period. The notes on those lists say so. Each list stays marked as a draft until it has been checked by hand.
+For a few specs, the guides only have an older pre-raid list, from the launch or from the Firelands period. The notes on those lists say so. Each list stays marked as a draft until it has been checked by hand.

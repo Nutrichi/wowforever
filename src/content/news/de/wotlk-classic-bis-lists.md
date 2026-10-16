@@ -25,4 +25,4 @@ Mehrere Listen markieren Legendaries, die Best in Slot bleiben. Val'anyr, Hammer
 
 Die Listen basieren auf bewährten Ausrüstungsguides für Phase 1 von WotLK Classic.
 
-Für Phase 3 trennt Icy Veins manche Tabellen nach Fraktion. Die Listen nutzen die Gegenstände der Alliance; die Versionen der Horde droppen von denselben Bossen auf demselben Itemlevel. Einige Herkünfte von Gegenständen, die auf den Quellseiten falsch standen, wurden anhand der Bosslisten korrigiert.
+Für Phase 3 trennen die Guides manche Tabellen nach Fraktion. Die Listen nutzen die Gegenstände der Alliance; die Versionen der Horde droppen von denselben Bossen auf demselben Itemlevel. Einige Herkünfte von Gegenständen, die auf den Quellseiten falsch standen, wurden anhand der Bosslisten korrigiert.

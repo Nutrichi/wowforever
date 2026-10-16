@@ -18,7 +18,7 @@ Thunder Bluff is the faction of the tauren capital on the high mesas in the nort
 
 ## Where you start
 
-Where you start depends on your race. These are the values in the faction data of the Classic Era client, which the database wago.tools reads out of build 1.15.9.
+Where you start depends on your race. These are the values in the faction data of the Classic Era client, build 1.15.9.
 
 | Your race | Standing at the start |
 |---|---|
@@ -44,7 +44,7 @@ The Forsaken are the exception. They begin at Neutral here, a standing lower tha
 
 ### Quests
 
-Quests for Thunder Bluff give the most reputation. Wowhead points to Mulgore, The Barrens, Thousand Needles and Feralas. Most quests for one Horde city also give a quarter of that reputation to the other Horde cities.
+Quests for Thunder Bluff give the most reputation. The best zones are Mulgore, The Barrens, Thousand Needles and Feralas. Most quests for one Horde city also give a quarter of that reputation to the other Horde cities.
 
 ### Cloth donations
 

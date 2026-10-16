@@ -13,7 +13,7 @@ faq:
   - q: "¿Cómo se invoca a Tuten'kash?"
     a: "Toca el gong. Primero llegan oleadas de arañas; toca de nuevo tras cada oleada hasta que aparezca Tuten'kash."
   - q: "¿Ha cambiado el botín de Razorfen Downs en WoW Forever?"
-    a: "En parte. Glutton's Cleaver, Coldrage Dagger y varios objetos de lanzador tienen estadísticas nuevas. Muchos objetos, como X'caliboar, aún no están en los datos de Forever de Wowhead."
+    a: "En parte. Glutton's Cleaver, Coldrage Dagger y varios objetos de lanzador tienen estadísticas nuevas. Muchos objetos, como X'caliboar, aún no están en los datos de Forever."
 sources:
   - name: "Wowhead, la guía de la mazmorra"
     url: "https://www.wowhead.com/forever/guide/razorfen-downs-dungeon-overview-location-rewards"
@@ -53,7 +53,7 @@ Razorfen Downs es la antigua capital de los quilboar, nacida de las mismas enred
 | <a href="https://www.wowhead.com/forever/quest=3341">Bring the End</a><br>Horde | Undercity, Magic Quarter: Andrew Brownell /way 74.0 32.8 | 37 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10823"><img class="wf-wh__icon" src="/wh/inv_sword_35.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vanquisher's Sword</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10824"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amberglow Talisman</a> |
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter: Varimathras /way 56.6 92.6<br><em>Completa antes An Unholy Alliance de Razorfen Kraul.</em> | 28 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
 
-El nivel es el mínimo para aceptar la misión, según Wowhead. El Dragonclaw Ring aún no está en los datos de Forever de Wowhead.
+El nivel es el mínimo para aceptar la misión. El Dragonclaw Ring aún no está en los datos de Forever.
 
 - **A Host of Evil.** Mata Death's Head Cultists, Razorfen Battleguards y Razorfen Thornweavers por toda la mazmorra.
 - **Scourge of the Downs y Extinguishing the Idol.** Cada jugador habla dos veces con Belnistrasz para la primera misión; la tercera vez empieza la escolta. Protégelo mientras su ritual apaga el ídolo. Plaguemaw the Rotting llega al final.
@@ -66,7 +66,7 @@ Los fantasmales Freezing Spirits lanzan Frost Nova. Juntaos en el tanque para qu
 
 ## Los jefes y su botín
 
-El botín de cada jefe viene de Wowhead, con las estadísticas de los archivos de la beta. Wowhead indica más objetos que aún no están en los datos de Forever de sus tooltips; se nombran sin enlace.
+El botín de cada jefe tiene las estadísticas de los archivos de la beta. Más objetos aún no están en los datos de Forever; se nombran sin enlace.
 
 ### Tuten'kash
 
@@ -99,7 +99,7 @@ Un combate sencillo. Sal de su Disease Cloud y cura al tanque durante su Enrage.
 
 ### Ragglesnout, un raro
 
-Su Dominate Mind es el peligro: si controla al tanque o al sanador, los híbridos los sustituyen. Interrumpe su Heal y sus Shadow Bolts. Wowhead indica para él Savage Boar's Guard, Boar Champion's Belt y X'caliboar.
+Su Dominate Mind es el peligro: si controla al tanque o al sanador, los híbridos los sustituyen. Interrumpe su Heal y sus Shadow Bolts. Listas de botín más antiguas indican para él Savage Boar's Guard, Boar Champion's Belt y X'caliboar.
 
 ### Amnennar the Coldbringer
 
@@ -115,7 +115,7 @@ El último jefe. Tanquéalo mirando a la tienda donde está para neutralizar Amn
 
 ### Plaguemaw the Rotting
 
-El final de la escolta de Belnistrasz. Mata las oleadas de una en una, mejor con un segundo tanque que las aparte de Belnistrasz. Plaguemaw es un combate sencillo. Wowhead indica para él Swine Fists y Plaguerot Sprig.
+El final de la escolta de Belnistrasz. Mata las oleadas de una en una, mejor con un segundo tanque que las aparte de Belnistrasz. Plaguemaw es un combate sencillo. Listas de botín más antiguas indican para él Swine Fists y Plaguerot Sprig.
 
 <div class="wf-shots">
 

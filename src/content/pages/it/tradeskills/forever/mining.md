@@ -86,7 +86,7 @@ Ogni vena dà al massimo un punto di abilità, per quante volte la colpisci.
 | 125 a 175 | Tin e Silver Vein, Iron Deposit, Gold Vein | Arathi Highlands, Desolace, Stranglethorn Vale, Thousand Needles |
 | 175 a 225 | Gold Vein, Mithril Deposit, Truesilver Deposit | Azshara, Tanaris, The Hinterlands |
 
-Tin non dà più abilità da 165 e Silver da 175, quindi a quel punto una deviazione non conviene più. Wowhead non ha ancora pubblicato un percorso da 225 a 300.
+Tin non dà più abilità da 165 e Silver da 175, quindi a quel punto una deviazione non conviene più. Un percorso da 225 a 300 non è ancora noto.
 
 ## Tutte le vene
 
@@ -105,7 +105,7 @@ I quattro numeri sono i colori dell’abilità: dal primo puoi minarla, poi gial
 | Small Thorium Vein | 245 / 270 / 295 / 345 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Un'Goro Crater, Silithus, Winterspring, Burning Steppes e altre |
 | Rich Thorium Vein | 275 / 300 / 325 / 375 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10620"><img class="wf-wh__icon" src="/wh/inv_ore_thorium_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thorium Ore</a> | Azshara, Burning Steppes, Eastern e Western Plaguelands, Un'Goro Crater, Winterspring, Dire Maul |
 
-Le vene danno anche pietre e gemme, come <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> e <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> dal rame. Le liste complete per zona sono nella guida di Wowhead.
+Le vene danno anche pietre e gemme, come <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=774"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Malachite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=818"><img class="wf-wh__icon" src="/wh/inv_misc_gem_opal_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tigerseye</a> e <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1210"><img class="wf-wh__icon" src="/wh/inv_misc_gem_amethyst_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadowgem</a> dal rame. Le liste complete cambiano da zona a zona.
 
 ## Fusione
 

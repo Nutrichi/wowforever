@@ -37,7 +37,7 @@ Di solito un giocatore dell’altra fazione vede solo parole confuse. Una lingua
 
 ## Cosa dicono i file
 
-I file del client della beta lo confermano. Nella build 1.60.1.70009, pubblicata su wago.tools, il Darnassian appartiene a tre razze: Night Elf, High Order Skyborne e Windshaper Skyborne. Gli High Order parlano anche Common, i Windshapers Orcish.
+I file del client della beta lo confermano. Nella build 1.60.1.70009 il Darnassian appartiene a tre razze: Night Elf, High Order Skyborne e Windshaper Skyborne. Gli High Order parlano anche Common, i Windshapers Orcish.
 
 In pratica questo apre una sola linea tra le fazioni. Un Windshaper dalla parte della Horde può parlare con ogni Night Elf e ogni High Order Skyborne dell’Alliance. Le due fazioni Skyborne iniziano insieme su Zephras Isle e discendono dagli stessi [Highborne esiliati](/it/news/the-skyborne-choose-their-side/).
 

@@ -13,7 +13,7 @@ faq:
   - q: "¿Qué es la puerta trasera de Gnomeregan?"
     a: "Una segunda entrada en el lado norte del Train Depot, cerca de Crowd Pummeler 9-60. Hace falta la Workshop Key de Electrocutioner 6000 o un Rogue con Lockpicking 150."
   - q: "¿Ha cambiado el botín de Gnomeregan en WoW Forever?"
-    a: "En parte. Varios objetos de lanzador ganaron daño y sanación con hechizos, y Electrocutioner Leg hace el doble de daño a los objetivos Mechanical. Thermaplugg's Left Arm y el Electromagnetic Gigaflux Reactivator aún no están en los datos de Forever de Wowhead."
+    a: "En parte. Varios objetos de lanzador ganaron daño y sanación con hechizos, y Electrocutioner Leg hace el doble de daño a los objetivos Mechanical. Thermaplugg's Left Arm y el Electromagnetic Gigaflux Reactivator aún no están en los datos de Forever."
 sources:
   - name: "Wowhead, la guía de la mazmorra"
     url: "https://www.wowhead.com/forever/guide/gnomeregan-dungeon-overview-location-rewards"
@@ -60,7 +60,7 @@ Gnomeregan era la capital de los gnomos en Dun Morogh, hasta que la invadieron l
 | <a href="https://www.wowhead.com/forever/quest=2841">Rig Wars</a><br>Horde | Orgrimmar, Valley of Honor: Nogg /way 76 25 | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9623"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Civinad Robes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9624"><img class="wf-wh__icon" src="/wh/inv_pants_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Triprunner Dungarees</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9625"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dual Reinforced Leggings</a> |
 | <a href="https://www.wowhead.com/forever/quest=2842">Chief Engineer Scooty</a><br>Horde | Orgrimmar, Valley of Honor: Sovik /way 76 25<br><em>Coge antes Rig Wars; sigue con <a href="https://www.wowhead.com/forever/quest=2843">Gnomer-gooooone!</a>.</em> | 20 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9173"><img class="wf-wh__icon" src="/wh/inv_battery_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goblin Transponder</a> |
 
-El nivel es el mínimo para aceptar la misión, según Wowhead. Las misiones de la Alliance dan también reputación con Gnomeregan Exiles.
+El nivel es el mínimo para aceptar la misión. Las misiones de la Alliance dan también reputación con Gnomeregan Exiles.
 
 - **A Fine Mess.** Kernobee espera en The Dormitory, justo después de The Clean Room. Escóltalo hasta la entrada y entrega la misión a Scooty en Booty Bay.
 - **The Sparklematic 5200!** Mete 3 Grime-Encrusted Objects en una máquina Sparklematic de The Clean Room. Repetible, con experiencia solo la primera vez.
@@ -74,7 +74,7 @@ El nivel es el mínimo para aceptar la misión, según Wowhead. Las misiones de 
 
 ## Los jefes y su botín
 
-El botín de cada jefe viene de Wowhead, con las estadísticas de los archivos de la beta.
+El botín de cada jefe tiene las estadísticas de los archivos de la beta.
 
 ### Grubbis
 
@@ -132,7 +132,7 @@ El jefe final, en el Tinkers' Court. Durante el combate salen Walking Bombs de s
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9458"><img class="wf-wh__icon" src="/wh/inv_shield_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thermaplugg's Central Core</a> | Su daño de naturaleza al recibir golpes pasa de 35-65 a 65-121 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9461"><img class="wf-wh__icon" src="/wh/inv_misc_gear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Charged Gear</a> | Sin encantamiento aleatorio, nivel 31 |
 
-Wowhead también indica para él Thermaplugg's Left Arm y el Electromagnetic Gigaflux Reactivator. Ninguno de los dos está aún en los datos de Forever de Wowhead.
+Listas de botín más antiguas también indican para él Thermaplugg's Left Arm y el Electromagnetic Gigaflux Reactivator. Ninguno de los dos está aún en los datos de Forever.
 
 ## Cajas y cofres
 

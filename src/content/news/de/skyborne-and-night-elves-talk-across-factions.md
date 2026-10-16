@@ -37,7 +37,7 @@ Normalerweise sieht ein Spieler der anderen Fraktion nur durcheinandergewürfelt
 
 ## Was die Dateien sagen
 
-Die Clientdateien der Beta bestätigen es. In Build 1.60.1.70009, veröffentlicht auf wago.tools, gehört Darnassian zu drei Völkern: Night Elf, High Order Skyborne und Windshaper Skyborne. Die High Order sprechen außerdem Common, die Windshapers Orcish.
+Die Clientdateien der Beta bestätigen es. In Build 1.60.1.70009 gehört Darnassian zu drei Völkern: Night Elf, High Order Skyborne und Windshaper Skyborne. Die High Order sprechen außerdem Common, die Windshapers Orcish.
 
 In der Praxis öffnet das eine einzige Linie zwischen den Fraktionen. Ein Windshaper auf der Seite der Horde kann mit jedem Night Elf und jedem High Order Skyborne der Alliance reden. Beide Skyborne-Fraktionen beginnen gemeinsam auf Zephras Isle und stammen von denselben [verbannten Highborne](/de/news/the-skyborne-choose-their-side/) ab.
 

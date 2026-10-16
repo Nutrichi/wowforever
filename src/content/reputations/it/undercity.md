@@ -19,7 +19,7 @@ Undercity è la fazione della capitale dei Forsaken sotto le rovine di Lordaeron
 
 ## Da dove parti
 
-Da dove parti dipende dalla tua razza. Questi sono i valori dei dati di fazione del client di Classic Era, che il database wago.tools legge dalla build 1.15.9.
+Da dove parti dipende dalla tua razza. Questi sono i valori dei dati di fazione del client di Classic Era, build 1.15.9.
 
 | La tua razza | Livello di partenza |
 |---|---|
@@ -42,7 +42,7 @@ Orc, Tauren e Troll partono qui da Neutral, un livello sotto gli stessi Forsaken
 
 ### Missioni
 
-Le missioni per Undercity danno più reputazione. Wowhead indica Tirisfal Glades, Silverpine Forest, Hillsbrad Foothills, le Arathi Highlands, The Hinterlands e le Western Plaguelands. La maggior parte delle missioni per una città dell'Orda dà anche un quarto di quella reputazione alle altre città dell'Orda.
+Le missioni per Undercity danno più reputazione. Le zone migliori sono Tirisfal Glades, Silverpine Forest, Hillsbrad Foothills, le Arathi Highlands, The Hinterlands e le Western Plaguelands. La maggior parte delle missioni per una città dell'Orda dà anche un quarto di quella reputazione alle altre città dell'Orda.
 
 ### Donazioni di stoffa
 

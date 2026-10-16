@@ -46,7 +46,7 @@ Shadowfang Keep était le château du Baron Silverlaine, dans Silverpine Forest.
 
 Le château se dresse dans les montagnes juste au nord de Pyrewood Village, dans Silverpine Forest, en /way 44.5 68.0. Pour la Horde, le Sepulcher et ses trois donneurs de quêtes sont à quelques minutes de monture.
 
-Pour l’Alliance, Silverpine Forest à ce niveau est un voyage long et dangereux. Les personnages Skyborne ont la tâche plus facile : ils rejoignent la zone assez vite depuis Dalaran, écrit Warcraft Tavern.
+Pour l’Alliance, Silverpine Forest à ce niveau est un voyage long et dangereux. Les personnages Skyborne ont la tâche plus facile : ils rejoignent la zone assez vite depuis Dalaran.
 
 ## Le parcours
 
@@ -65,7 +65,7 @@ Pour l’Alliance, Silverpine Forest à ce niveau est un voyage long et dangereu
 | <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Partageable | Silverpine Forest, Sepulcher : High Executor Hadrec /way 43 41 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3324"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostly Mantle</a> |
 | <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Partageable | Silverpine Forest, Sepulcher : Dalar Dawnweaver /way 44 39 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6414"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Sylvanas</a> |
 
-Le niveau est le niveau minimum pour prendre la quête, selon Wowhead. Aucune des trois ne demande de quête préalable : un groupe de la Horde peut toutes les prendre d’un coup et les partager. Les récompenses viennent de Wowhead ; quand il n’en indique pas, elles ne sont pas encore connues.
+Le niveau est le niveau minimum pour prendre la quête. Aucune des trois ne demande de quête préalable : un groupe de la Horde peut toutes les prendre d’un coup et les partager. Quand aucune récompense n’est indiquée, elle n’est pas encore connue.
 
 ### Deathstalkers in Shadowfang
 
@@ -83,7 +83,7 @@ Deux quêtes de classe mènent aussi ici : <a href="https://www.wowhead.com/fore
 
 ## Les boss et leur butin
 
-Le butin par boss vient de Wowhead, avec les caractéristiques des fichiers de la bêta.
+Le butin par boss a les caractéristiques des fichiers de la bêta.
 
 ### Rethilgore
 
@@ -95,7 +95,7 @@ Un worgen élite de niveau 20 avec deux Bleak Worgs et un Shadowfang Whitescalp.
 
 ### Fel Steeds et le Shadow Charger
 
-Les <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> et le <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> frappent très fort, et en attirer un attire les trois, écrit Wowhead. Métamorphosez-en un et laissez un familier de Hunter ou de Warlock en tanker un autre.
+Les <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> et le <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> frappent très fort, et en attirer un attire les trois. Métamorphosez-en un et laissez un familier de Hunter ou de Warlock en tanker un autre.
 
 | Objet | Nouveau dans Forever |
 |---|---|
@@ -181,5 +181,5 @@ Après le combat, le <a class="wf-wh wf-q1" href="https://www.wowhead.com/foreve
 ## Ce qui n’est pas encore connu
 
 - **Les taux de butin** des boss.
-- **Les récompenses des quêtes** que Wowhead n’indique pas encore.
+- **Les récompenses des quêtes** qui ne sont pas encore connues.
 - **Le chemin de l’Alliance** : sa rapidité réelle pour les Skyborne partant de Dalaran.

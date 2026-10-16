@@ -33,7 +33,7 @@ Am 18. September teilte ein Spieler einen Screenshot im Subreddit classicwow. Ei
   </button>
 </figure>
 
-Die Bots starben sich ihren Weg nach Norden, um Kräuter wie Mountain Silversage, Icecap und Black Lotus zu kopieren, schreibt Icy Veins. In einer Beta mit Levelgrenze 20 nützen diese Kräuter wenig. Das Gold der Bots wurde trotzdem für echtes Geld verkauft, schrieb ein Spieler am 19. September in den offiziellen Foren.
+Die Bots starben sich ihren Weg nach Norden, um Kräuter wie Mountain Silversage, Icecap und Black Lotus zu kopieren. In einer Beta mit Levelgrenze 20 nützen diese Kräuter wenig. Das Gold der Bots wurde trotzdem für echtes Geld verkauft, schrieb ein Spieler am 19. September in den offiziellen Foren.
 
 ## Die neue Regel
 
@@ -45,6 +45,6 @@ Peacebloom bleibt für einen neuen Charakter offen. Für Black Lotus, mit 300 Fe
 
 ## Die Abklingzeit
 
-Icy Veins schreibt auch, dass die Abklingzeit von 23 Stunden auf 1 Stunde sank, damit Spieler das Volkstalent öfter nutzen. Die Entwicklungsnotizen von Blizzard erwähnen die Abklingzeit nicht. Ein Spieler in den Foren sah schon am 20. September eine Abklingzeit von 1 Stunde, vor dem neuen Build.
+Auch die Abklingzeit soll von 23 Stunden auf 1 Stunde gesunken sein, damit Spieler das Volkstalent öfter nutzen. Die Entwicklungsnotizen von Blizzard erwähnen die Abklingzeit nicht. Ein Spieler in den Foren sah schon am 20. September eine Abklingzeit von 1 Stunde, vor dem neuen Build.
 
 Ob die Regel die Bots stoppt, ist nicht bekannt. Die Volkstalente von Forever stehen im Beitrag über [die neuen Kombinationen von Völkern und Klassen](/de/news/orc-mages-and-undead-paladins-arrive/).

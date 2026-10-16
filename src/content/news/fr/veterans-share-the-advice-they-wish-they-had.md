@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Un nouveau venu dans World of Warcraft a demandé sur X aux vétérans le conseil qu’ils auraient aimé connaître avant leur première aventure. Les réponses sont devenues un petit guide du débutant pour WoW Forever, écrit Icy Veins.
+Un nouveau venu dans World of Warcraft a demandé sur X aux vétérans le conseil qu’ils auraient aimé connaître avant leur première aventure. Les réponses sont devenues un petit guide du débutant pour WoW Forever.
 
 Trenton Reed a posé la question le 2 octobre. WoW Forever réunit des joueurs de la première heure, des joueurs de retour et de parfaits débutants comme lui, a-t-il écrit. Il ne cherchait pas le build parfait, mais le conseil que personne ne lui avait donné.
 
@@ -29,13 +29,13 @@ Trenton Reed a posé la question le 2 octobre. WoW Forever réunit des joueurs d
 
 ## Prenez votre temps
 
-Le conseil le plus fréquent : ne vous pressez pas. Plusieurs vétérans ont recommandé aux nouveaux de ne pas se noyer dans les guides avant même d’avoir joué. Partez à l’aveugle, essayez différentes techniques et découvrez le monde par vous-même. Icy Veins ajoute son propre conseil : faites des captures d’écran des moments marquants, pour un album de votre voyage.
+Le conseil le plus fréquent : ne vous pressez pas. Plusieurs vétérans ont recommandé aux nouveaux de ne pas se noyer dans les guides avant même d’avoir joué. Partez à l’aveugle, essayez différentes techniques et découvrez le monde par vous-même. Un conseil de plus : faites des captures d’écran des moments marquants, pour un album de votre voyage.
 
 ![Un temple des Night Elves avec des pavillons à coupole et des arbres violets au crépuscule, une capture d’écran de World of Warcraft](../../../assets/posts/2026-10-03-wow-forever-night-elf-temple-at-dusk.jpg)
 
 ## Ne restez pas seul
 
-L’aspect social est souvent revenu. Faites-vous des amis et faites vos quêtes ensemble, ou soyez simplement gentil avec les autres. Blizzard expérimente des systèmes sociaux comme un outil de recherche de groupe, mais rencontrer d’autres joueurs autrement en vaut toujours la peine, écrit Icy Veins. Même un /wave peut illuminer la journée de quelqu’un.
+L’aspect social est souvent revenu. Faites-vous des amis et faites vos quêtes ensemble, ou soyez simplement gentil avec les autres. Blizzard expérimente des systèmes sociaux comme un outil de recherche de groupe, mais rencontrer d’autres joueurs autrement en vaut toujours la peine. Même un /wave peut illuminer la journée de quelqu’un.
 
 ## Utilisez vos consommables
 
@@ -49,7 +49,7 @@ Les points de vol sont revenus sans cesse. Parlez au maître de vol dans chaque 
 
 ## N’affrontez pas Hogger au niveau 8
 
-Les nouveaux n’ont pas besoin de tout savoir avant de commencer, conclut Icy Veins : choisissez ce qui semble amusant, explorez et faites-vous des amis en chemin. Le conseil le plus important vient de slayzdam : n’affrontez pas <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a> au niveau 8.
+Les nouveaux n’ont pas besoin de tout savoir avant de commencer : choisissez ce qui semble amusant, explorez et faites-vous des amis en chemin. Le conseil le plus important vient de slayzdam : n’affrontez pas <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a> au niveau 8.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2106130909414261162">
   <button type="button" class="wf-embed__play">

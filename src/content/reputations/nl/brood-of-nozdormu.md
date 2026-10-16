@@ -41,7 +41,7 @@ Van Hated naar Exalted is 84.000 reputatie, twee keer zoveel als bij een factie 
 
 ### Kills in Ahn'Qiraj
 
-De trash van de Ruins en de Temple of Ahn'Qiraj geeft reputatie, maar alleen tot Neutral. Daarna dragen quests je verder. Icy Veins rekent 500 reputatie voor elke baas van de Temple of Ahn'Qiraj na Neutral.
+De trash van de Ruins en de Temple of Ahn'Qiraj geeft reputatie, maar alleen tot Neutral. Daarna dragen quests je verder. Na Neutral geeft elke baas van de Temple of Ahn'Qiraj ongeveer 500 reputatie.
 
 ### Herhaalbare quests
 

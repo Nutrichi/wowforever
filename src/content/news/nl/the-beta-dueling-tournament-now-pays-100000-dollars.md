@@ -17,7 +17,7 @@ Het eerste dueltoernooi van WoW Forever heeft nu een prijzenpot van 100.000 doll
 
 ## Het toernooi
 
-Tips, bekend als TipsOut, kondigde The Forever Open op 27 september aan, samen met Xaryu en Esfand, schrijft Icy Veins. Zijn bericht op X geeft de regels: de PvP-ruleset, de kant van de Horde, level 30, en eerst een prijzenpot van 50.000 dollar.
+Tips, bekend als TipsOut, kondigde The Forever Open op 27 september aan, samen met Xaryu en Esfand. Zijn bericht op X geeft de regels: de PvP-ruleset, de kant van de Horde, level 30, en eerst een prijzenpot van 50.000 dollar.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104269843826627048">
   <button type="button" class="wf-embed__play">
@@ -33,7 +33,7 @@ Het toernooi staat open voor iedereen. Spelers schrijven zich in op de Discord-s
 
 ## Een dubbele prijzenpot
 
-Een dag later legde TimTheTatman er nog eens 50.000 dollar bij, puur uit liefde voor Classic WoW, volgens een bericht op X dat zijn aankondiging deelde. Tips bevestigde de details in een nieuwe animatievideo, schrijft Icy Veins.
+Een dag later legde TimTheTatman er nog eens 50.000 dollar bij, puur uit liefde voor Classic WoW, volgens een bericht op X dat zijn aankondiging deelde. Tips bevestigde de details in een nieuwe animatievideo.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104651349300572501">
   <button type="button" class="wf-embed__play">

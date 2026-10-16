@@ -77,7 +77,7 @@ La Horde ha Zoram'gar Outpost poco più a sud, dove Je'neu Sancrea assegna tre d
 | <a href="https://www.wowhead.com/forever/quest=1275">Researching the Corruption</a><br>Condivisibile | Darkshore, Auberdine: Gershala Nightwhisper /way 38 43 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7003"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beetle Clasps</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7004"><img class="wf-wh__icon" src="/wh/inv_misc_cape_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prelacy Cape</a> |
 | <a href="https://www.wowhead.com/forever/quest=1200">Blackfathom Villainy</a><br>Condivisibile | Nel dungeon: Argent Guard Thaelrid | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7002"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arctic Buckler</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> |
 
-Il livello è il minimo per accettare la missione, secondo Wowhead. Le ricompense vengono da Wowhead; dove non ne indica, non sono ancora note.
+Il livello è il minimo per accettare la missione. Dove non è indicata una ricompensa, non è ancora nota.
 
 ### Le missioni della Horde
 
@@ -93,7 +93,7 @@ Il livello è il minimo per accettare la missione, secondo Wowhead. Le ricompens
 
 ### Le missioni dell’Alliance
 
-**In Search of Thaelrid.** Dawnwatcher Shaedlass ti manda da Argent Guard Thaelrid nel dungeon. La missione è aperta anche alla Horde, scrive Warcraft Tavern, ma inizia nel cuore di Darnassus.
+**In Search of Thaelrid.** Dawnwatcher Shaedlass ti manda da Argent Guard Thaelrid nel dungeon. La missione è aperta anche alla Horde, ma inizia nel cuore di Darnassus.
 
 **Twilight Falls.** Argent Guard Manados vuole 10 Twilight Pendants. Li lasciano i Twilight Acolytes, Aquamancers, Elementalists, Loreseekers, Reavers e Shadowmages del dungeon.
 
@@ -107,7 +107,7 @@ Anche i Warlock vengono qui per <a href="https://www.wowhead.com/forever/quest=1
 
 ## I boss e il loro bottino
 
-Il bottino di ogni boss viene da Wowhead, con le statistiche dei file della beta.
+Il bottino di ogni boss ha le statistiche dei file della beta.
 
 ### Ghamoo-ra
 
@@ -167,7 +167,7 @@ Un élite facoltativo di livello 26 che si affronta sott’acqua. Si cura mentre
 
 ### Aku'mai
 
-Prima che la sua tana si apra vanno accesi tutti e quattro i bracieri, e ognuno porta un’ondata di mostri. L’ondata di tartarughe colpisce più forte; un off-tank, un famiglio o un Rogue con Evasion dovrebbe prenderne una, scrive Wowhead.
+Prima che la sua tana si apra vanno accesi tutti e quattro i bracieri, e ognuno porta un’ondata di mostri. L’ondata di tartarughe colpisce più forte; un off-tank, un famiglio o un Rogue con Evasion dovrebbe prenderne una.
 
 Il boss finale, un’idra élite di livello 28. Resta fuori dalla sua Poison Cloud; si può interrompere. Frenzied Rage gli dà il 75% di velocità d’attacco in più per 5 secondi. Tieni gli stordimenti e i cooldown del tank per quel momento.
 
@@ -192,4 +192,4 @@ Diversi oggetti blu che si vincolano quando indossati cadevano in Classic dai mo
 ## Cosa non si sa ancora
 
 - **Le probabilità di drop** del bottino dei boss.
-- **Le ricompense delle missioni** che Wowhead non indica ancora.
+- **Le ricompense delle missioni** che non sono ancora note.

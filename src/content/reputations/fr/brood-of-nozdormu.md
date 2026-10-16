@@ -41,7 +41,7 @@ De Hated à Exalted, il faut 84 000 points, deux fois plus que pour une faction 
 
 ### Les monstres d'Ahn'Qiraj
 
-Les monstres des Ruins et du Temple of Ahn'Qiraj donnent de la réputation, mais seulement jusqu'à Neutral. Ensuite, les quêtes prennent le relais. Icy Veins compte 500 points pour chaque boss du Temple of Ahn'Qiraj après Neutral.
+Les monstres des Ruins et du Temple of Ahn'Qiraj donnent de la réputation, mais seulement jusqu'à Neutral. Ensuite, les quêtes prennent le relais. Après Neutral, chaque boss du Temple of Ahn'Qiraj donne environ 500 points.
 
 ### Les quêtes répétables
 

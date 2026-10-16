@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever admite mandos de forma oficial. El oro de una montura pasa al riding training, que cuesta 100 o 1.000 de oro según el nivel, y la primera montura es gratis. Así lo dice Blizzard en una entrevista con Sportskeeda, resumida por Wowhead.
+World of Warcraft: Forever admite mandos de forma oficial. El oro de una montura pasa al riding training, que cuesta 100 o 1.000 de oro según el nivel, y la primera montura es gratis. Así lo dice Blizzard en una entrevista con Sportskeeda.
 
 ## El soporte de mando es oficial esta vez
 

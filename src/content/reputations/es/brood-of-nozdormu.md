@@ -41,7 +41,7 @@ De Hated a Exalted hay 84.000 de reputación, el doble que en una facción que e
 
 ### Muertes en Ahn'Qiraj
 
-Los enemigos de las Ruins y del Temple of Ahn'Qiraj dan reputación, pero solo hasta Neutral. A partir de ahí te llevan las misiones. Icy Veins cuenta 500 de reputación por cada jefe del Temple of Ahn'Qiraj después de Neutral.
+Los enemigos de las Ruins y del Temple of Ahn'Qiraj dan reputación, pero solo hasta Neutral. A partir de ahí te llevan las misiones. Después de Neutral, cada jefe del Temple of Ahn'Qiraj da unos 500 de reputación.
 
 ### Misiones repetibles
 

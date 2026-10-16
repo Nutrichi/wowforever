@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-De hoofdquest van de Hall of Thanes in World of Warcraft: Forever begint met een kaart. Die valt bij Dark Iron Spies in Dun Morogh, schrijft Warcraft Tavern, dat alle vijf de quests van de dungeon in kaart bracht. De andere vier beginnen bij de dungeon zelf.
+De hoofdquest van de Hall of Thanes in World of Warcraft: Forever begint met een kaart. Die valt bij Dark Iron Spies in Dun Morogh, dat alle vijf de quests van de dungeon in kaart bracht. De andere vier beginnen bij de dungeon zelf.
 
 ## De reeks in Dun Morogh
 

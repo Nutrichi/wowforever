@@ -19,7 +19,7 @@ Thunder Bluff is de factie van de taurenhoofdstad op de hoge tafelbergen in het 
 
 ## Waar je begint
 
-Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, die de databank wago.tools uit build 1.15.9 leest.
+Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, build 1.15.9.
 
 | Jouw ras | Standing bij het begin |
 |---|---|
@@ -45,7 +45,7 @@ De Forsaken zijn de uitzondering. Zij beginnen hier op Neutral, een standing lag
 
 ### Quests
 
-Quests voor Thunder Bluff geven de meeste reputatie. Wowhead wijst naar Mulgore, The Barrens, Thousand Needles en Feralas. De meeste quests voor één stad van de Horde geven ook een kwart van die reputatie aan de andere steden van de Horde.
+Quests voor Thunder Bluff geven de meeste reputatie. De beste zones zijn Mulgore, The Barrens, Thousand Needles en Feralas. De meeste quests voor één stad van de Horde geven ook een kwart van die reputatie aan de andere steden van de Horde.
 
 ### Stofdonaties
 

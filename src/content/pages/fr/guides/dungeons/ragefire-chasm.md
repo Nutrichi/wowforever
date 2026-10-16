@@ -7,7 +7,7 @@ updated: 2026-10-03
 lang: fr
 faq:
   - q: "Quel niveau pour Ragefire Chasm dans WoW Forever ?"
-    a: "Les groupes le font du niveau 9 au 19. Les boss sont de niveau 16. Wowhead conseille les niveaux 13 à 18."
+    a: "Les groupes le font du niveau 9 au 19. Les boss sont de niveau 16. Les niveaux conseillés vont de 13 à 18."
   - q: "Où se trouve l’entrée de Ragefire Chasm ?"
     a: "Dans la Cleft of Shadow à Orgrimmar. Les joueurs de la Horde vont tout droit au portail ; pour l’Alliance, c’est une longue course de fantôme à travers la ville."
   - q: "L’Alliance peut-elle faire les quêtes de Ragefire Chasm ?"
@@ -54,7 +54,7 @@ Après un wipe, le Spirit Healer se trouve dans Durotar, hors de la ville.
 | <a href="https://www.wowhead.com/forever/quest=5722">Searching for the Lost Satchel</a> | Thunder Bluff, Elder Rise : Rahauro /way 70 30<br><em>Continue avec <a href="https://www.wowhead.com/forever/quest=5724">Returning the Lost Satchel</a>.</em> | 9 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15452"><img class="wf-wh__icon" src="/wh/inv_bracer_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Featherbead Bracers</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15453"><img class="wf-wh__icon" src="/wh/inv_bracer_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savannah Bracers</a> ou <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=270003"><img class="wf-wh__icon" src="/wh/inv_bracer_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Garrison Cuffs</a> |
 | <a href="https://www.wowhead.com/forever/quest=5728">Hidden Enemies</a> | Orgrimmar, Valley of Wisdom : Thrall /way 31 37<br><em>Terminez d’abord 3 quêtes, à commencer par Hidden Enemies.</em> | 9 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15443"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Kris of Orgrimmar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15445"><img class="wf-wh__icon" src="/wh/inv_hammer_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hammer of Orgrimmar</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15424"><img class="wf-wh__icon" src="/wh/inv_axe_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Orgrimmar</a> ou <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15444"><img class="wf-wh__icon" src="/wh/inv_staff_goldfeathered_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Orgrimmar</a> |
 
-Le niveau est le niveau minimum pour prendre la quête, selon Wowhead.
+Le niveau est le niveau minimum pour prendre la quête.
 
 - **Slaying the Beast.** Rapportez Taragaman the Hungerer's Heart de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11520">Taragaman the Hungerer</a>. Il se tient au milieu du chemin en croix avant la dernière salle.
 - **The Power to Destroy...** Récupérez Spells of Shadow et Incantations from the Nether. Les deux tombent sur les Searing Blade Cultists et Searing Blade Warlocks dans la seconde moitié du donjon.
@@ -64,7 +64,7 @@ Le niveau est le niveau minimum pour prendre la quête, selon Wowhead.
 
 ## Les boss et leur butin
 
-Le butin par boss vient de Wowhead, avec les caractéristiques des fichiers de la bêta.
+Le butin par boss a les caractéristiques des fichiers de la bêta.
 
 ### Oggleflint
 

@@ -41,7 +41,7 @@ Da Hated a Exalted servono 84.000 punti, il doppio di una fazione che parte da N
 
 ### Uccisioni ad Ahn'Qiraj
 
-I nemici delle Ruins e del Temple of Ahn'Qiraj danno reputazione, ma solo fino a Neutral. Da lì in poi ti portano avanti le missioni. Icy Veins conta 500 punti per ogni boss del Temple of Ahn'Qiraj dopo Neutral.
+I nemici delle Ruins e del Temple of Ahn'Qiraj danno reputazione, ma solo fino a Neutral. Da lì in poi ti portano avanti le missioni. Dopo Neutral, ogni boss del Temple of Ahn'Qiraj dà circa 500 punti.
 
 ### Missioni ripetibili
 

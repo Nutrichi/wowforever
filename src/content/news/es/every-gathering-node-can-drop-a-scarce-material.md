@@ -25,7 +25,7 @@ Las profesiones de recolección de WoW Forever tienen un nuevo tipo de material.
 | Herbalism | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249399"><img class="wf-wh__icon" src="/wh/inv_misc_food_109_honeylichen.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frilled Lichen</a> |
 | Skinning | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249427"><img class="wf-wh__icon" src="/wh/item_pristinehide.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pristine Leather</a> |
 
-El propio objeto dice Scarce en su descripción. Es un extra más raro además del botín normal, escribe Icy Veins.
+El propio objeto dice Scarce en su descripción. Es un extra más raro además del botín normal.
 
 ![Una ventana de botín con Peacebloom y Frilled Lichen tras recoger una hierba, una captura de la beta de World of Warcraft: Forever](../../../assets/posts/2026-09-29-wow-forever-frilled-lichen-loot.jpg)
 
@@ -37,4 +37,4 @@ La Pyrite también aparece en Tailoring, por ejemplo en las <a class="wf-wh wf-q
 
 ## Lo que vendrá después
 
-<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249425"><img class="wf-wh__icon" src="/wh/inv_ore_manticytenugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bauxite</a> y <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249426"><img class="wf-wh__icon" src="/wh/inv_ore_elethium_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pitchblende</a> figuran en los archivos como materiales Scarce de Mining, escribe Icy Veins. A partir de qué nivel aparecen, y si Herbalism y Skinning tendrán más, Blizzard no lo ha dicho.
+<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249425"><img class="wf-wh__icon" src="/wh/inv_ore_manticytenugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bauxite</a> y <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249426"><img class="wf-wh__icon" src="/wh/inv_ore_elethium_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pitchblende</a> figuran en los archivos como materiales Scarce de Mining. A partir de qué nivel aparecen, y si Herbalism y Skinning tendrán más, Blizzard no lo ha dicho.

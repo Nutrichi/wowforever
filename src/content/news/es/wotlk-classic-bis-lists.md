@@ -25,4 +25,4 @@ Varias listas señalan legendarios que siguen siendo best-in-slot. Val'anyr, Ham
 
 Las listas se basan en guías de equipo reconocidas para la fase 1 de WotLK Classic.
 
-Para la fase 3, Icy Veins separa algunas tablas por facción. Las listas usan los objetos de la Alliance; las versiones de la Horde caen de los mismos jefes con el mismo nivel de objeto. Algunas procedencias de objetos que estaban mal en las páginas de origen se corrigieron con las listas de encuentros.
+Para la fase 3, las guías separan algunas tablas por facción. Las listas usan los objetos de la Alliance; las versiones de la Horde caen de los mismos jefes con el mismo nivel de objeto. Algunas procedencias de objetos que estaban mal en las páginas de origen se corrigieron con las listas de encuentros.

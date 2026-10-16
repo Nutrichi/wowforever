@@ -18,7 +18,7 @@ Orgrimmar is the faction of Orgrimmar, the capital of the orcs, built by Thrall 
 
 ## Where you start
 
-Where you start depends on your race. These are the values in the faction data of the Classic Era client, which the database wago.tools reads out of build 1.15.9.
+Where you start depends on your race. These are the values in the faction data of the Classic Era client, build 1.15.9.
 
 | Your race | Standing at the start |
 |---|---|
@@ -44,7 +44,7 @@ The Forsaken are the exception. They begin at Neutral here, a standing lower tha
 
 ### Quests
 
-Quests for Orgrimmar give the most reputation. Wowhead points to Durotar, Orgrimmar, The Barrens, the Stonetalon Mountains, Silverpine Forest, Azshara, the Blasted Lands and Alterac Valley. Most quests for one Horde city also give a quarter of that reputation to the other Horde cities.
+Quests for Orgrimmar give the most reputation. The best zones are Durotar, Orgrimmar, The Barrens, the Stonetalon Mountains, Silverpine Forest, Azshara, the Blasted Lands and Alterac Valley. Most quests for one Horde city also give a quarter of that reputation to the other Horde cities.
 
 ### Cloth donations
 

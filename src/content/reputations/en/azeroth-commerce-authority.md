@@ -53,7 +53,7 @@ The name is familiar from Season of Discovery, where the Azeroth Commerce Exchan
 
 ## Recipes per tradeskill
 
-Every tradeskill vendor sells recipes for Merchant's Favor. The full lists are in the [guide of Wowhead](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Every tradeskill vendor sells recipes for Merchant's Favor. The full lists are in [this reputation guide](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
 
 | Tradeskill | Vendor | Recipes | Skill | Merchant's Favor |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ At skill 300 a vendor sells a certification. It unlocks the title for every char
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271626"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leatherworking Certification</a> | the Leatherworker | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271627"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tailoring Certification</a> | the Tailor | 1000 |
 
-The Enchanting Certification costs 240 in the list of Wowhead, a quarter of the others. Whether that is correct, is not known.
+The Enchanting Certification costs 240 in the list, a quarter of the others. Whether that is correct, is not known.
 
 ## The standings
 

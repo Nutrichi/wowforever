@@ -54,7 +54,7 @@ El nombre suena de Season of Discovery, donde la Azeroth Commerce Exchange funci
 
 ## Recetas por profesión
 
-Cada vendedor de profesión vende recetas por Merchant's Favor. Las listas completas están en la [guía de Wowhead](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Cada vendedor de profesión vende recetas por Merchant's Favor. Las listas completas están en [esta guía de reputación](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
 
 | Profesión | Vendedor | Recetas | Habilidad | Merchant's Favor |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ Con 300 de habilidad, un vendedor ofrece una certificación. Desbloquea el títu
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271626"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leatherworking Certification</a> | the Leatherworker | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271627"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tailoring Certification</a> | the Tailor | 1000 |
 
-La Enchanting Certification cuesta 240 en la lista de Wowhead, una cuarta parte de las demás. Si es correcto, no se sabe.
+La Enchanting Certification cuesta 240 en la lista, una cuarta parte de las demás. Si es correcto, no se sabe.
 
 ## Los niveles
 

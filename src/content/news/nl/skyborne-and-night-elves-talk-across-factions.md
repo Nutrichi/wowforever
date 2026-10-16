@@ -37,7 +37,7 @@ Normaal ziet een speler van de andere factie alleen door elkaar gehusselde woord
 
 ## Wat de bestanden zeggen
 
-De clientbestanden van de beta bevestigen het. In build 1.60.1.70009, gepubliceerd op wago.tools, hoort Darnassian bij drie rassen: Night Elf, High Order Skyborne en Windshaper Skyborne. De High Order spreken daarnaast Common, de Windshapers Orcish.
+De clientbestanden van de beta bevestigen het. In build 1.60.1.70009 hoort Darnassian bij drie rassen: Night Elf, High Order Skyborne en Windshaper Skyborne. De High Order spreken daarnaast Common, de Windshapers Orcish.
 
 In de praktijk opent dat één lijn tussen de facties. Een Windshaper aan de kant van de Horde kan praten met elke Night Elf en elke High Order Skyborne van de Alliance. Beide Skyborne-facties beginnen samen op Zephras Isle en stammen af van dezelfde [verbannen Highborne](/nl/news/the-skyborne-choose-their-side/).
 

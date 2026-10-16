@@ -77,7 +77,7 @@ De Horde heeft Zoram'gar Outpost een eindje naar het zuiden, waar Je'neu Sancrea
 | <a href="https://www.wowhead.com/forever/quest=1275">Researching the Corruption</a><br>Deelbaar | Darkshore, Auberdine: Gershala Nightwhisper /way 38 43 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7003"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beetle Clasps</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7004"><img class="wf-wh__icon" src="/wh/inv_misc_cape_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prelacy Cape</a> |
 | <a href="https://www.wowhead.com/forever/quest=1200">Blackfathom Villainy</a><br>Deelbaar | In de dungeon: Argent Guard Thaelrid | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7002"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arctic Buckler</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> |
 
-Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead. De beloningen komen van Wowhead; waar die er geen noemt, zijn ze nog niet bekend.
+Het level is het laagste level waarop je de quest kan aannemen. Waar geen beloning staat, is ze nog niet bekend.
 
 ### De quests van de Horde
 
@@ -93,7 +93,7 @@ Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead.
 
 ### De quests van de Alliance
 
-**In Search of Thaelrid.** Dawnwatcher Shaedlass stuurt je naar Argent Guard Thaelrid in de dungeon. De quest staat ook open voor de Horde, schrijft Warcraft Tavern, maar hij begint diep in Darnassus.
+**In Search of Thaelrid.** Dawnwatcher Shaedlass stuurt je naar Argent Guard Thaelrid in de dungeon. De quest staat ook open voor de Horde, maar hij begint diep in Darnassus.
 
 **Twilight Falls.** Argent Guard Manados wil 10 Twilight Pendants. Ze vallen bij de Twilight Acolytes, Aquamancers, Elementalists, Loreseekers, Reavers en Shadowmages in de dungeon.
 
@@ -107,7 +107,7 @@ Warlocks komen hier ook voor <a href="https://www.wowhead.com/forever/quest=1740
 
 ## De bazen en hun loot
 
-De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta.
+De loot per baas heeft de stats uit de bestanden van de beta.
 
 ### Ghamoo-ra
 
@@ -167,7 +167,7 @@ Een optionele elite van level 26 die onder water bevochten wordt. Hij geneest zi
 
 ### Aku'mai
 
-Voor zijn hol opengaat, moeten alle vier de vuurschalen branden, en elke schaal brengt een golf monsters. De golf schildpadden slaat het hardst; een off-tank, een pet of een Rogue met Evasion neemt er best een van, schrijft Wowhead.
+Voor zijn hol opengaat, moeten alle vier de vuurschalen branden, en elke schaal brengt een golf monsters. De golf schildpadden slaat het hardst; een off-tank, een pet of een Rogue met Evasion neemt er best een van.
 
 De eindbaas, een elite hydra van level 28. Blijf uit zijn Poison Cloud; die is te onderbreken. Frenzied Rage geeft hem 75% meer aanvalssnelheid gedurende 5 seconden. Bewaar stuns en de cooldowns van de tank daarvoor.
 
@@ -192,4 +192,4 @@ Verschillende blauwe items die binden bij het aandoen, vielen in Classic bij de 
 ## Wat nog niet bekend is
 
 - **De dropkansen** van de loot van de bazen.
-- **De beloningen van de quests** die Wowhead nog niet noemt.
+- **De beloningen van de quests** die nog niet bekend zijn.

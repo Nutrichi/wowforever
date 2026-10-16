@@ -98,7 +98,7 @@ Una delle spie lascia una [Dark Iron Map](https://www.wowhead.com/forever/item=2
 
 ![Afadra Dunwall in una biblioteca piena di libri, in cima alla scala dall’ingresso di The Hall of Thanes](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-afadra-dunwall.jpg)
 
-**An Ancient Grudge.** Un Ghostly Attendant aspetta nella seconda sala, Anvilmar's Rest. Chiede di dare pace allo spirito di Faldrim Anvilmar, il primo boss. È l’unica missione che può fare anche la Horde. Chi esce senza Hearthstone le ripassa accanto uscendo, scrive Warcraft Tavern. Ricompensa: la Catacomb Cloak o i Deepgrave Trousers.
+**An Ancient Grudge.** Un Ghostly Attendant aspetta nella seconda sala, Anvilmar's Rest. Chiede di dare pace allo spirito di Faldrim Anvilmar, il primo boss. È l’unica missione che può fare anche la Horde. Chi esce senza Hearthstone le ripassa accanto uscendo. Ricompensa: la Catacomb Cloak o i Deepgrave Trousers.
 
 ![Il Ghostly Attendant con la finestra della missione An Ancient Grudge aperta, tra i fantasmi della prima sala](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-ghostly-attendant.jpg)
 
@@ -160,7 +160,7 @@ Un fantasma che pattuglia il centro di Anvilmar's Rest. Ripulite un lato della s
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_11.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271096">Aetherwisp Bracers</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Cloth</span></span><span class="wf-item__line">15 Armor</span><span class="wf-item__line">+3 Stamina</span><span class="wf-item__line">Durability 20 / 20</span><span class="wf-item__line">Requires Level 13</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span></div></div>
 </div>
 
-Faldrim non si porta dietro i fantasmi intorno a lui, scrive Warcraft Tavern, ma fai comunque spazio prima del pull.
+Faldrim non si porta dietro i fantasmi intorno a lui, ma fai comunque spazio prima del pull.
 
 ### Magmatus
 

@@ -50,7 +50,7 @@ Ogni consegna dà 100 di reputazione e un certo numero di Darkmoon Faire Prize T
 | 4 | 12 | 30 | 2.500 dentro Neutral |
 | 5 | 20 | 40 | 5.999 dentro Friendly |
 
-Diversi giocatori scrivono nei commenti su Wowhead che il livello 5 smette di dare reputazione già intorno a 2.000 dentro Friendly, mentre la consegna in sé resta disponibile per i ticket.
+Diversi giocatori scrivono che il livello 5 smette di dare reputazione già intorno a 2.000 dentro Friendly, mentre la consegna in sé resta disponibile per i ticket.
 
 | Chi dà la missione | Consegne | Livello 1 | Livello 2 | Livello 3 | Livello 4 | Livello 5 |
 |---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Le carte si possono scambiare, i soprammobili sono Bind on Pickup e chiedono il 
 ## La via più rapida verso Exalted
 
 1. Consegna a ogni livello finché il tuo livello e la tua reputazione lo permettono; un livello che salti sparisce una volta superato il suo limite.
-2. Dopo contano solo i mazzi. Wowhead calcola circa 220 mazzi fino a Exalted, quindi è un obiettivo solo per i collezionisti.
+2. Dopo contano solo i mazzi. Servono circa 220 mazzi fino a Exalted, quindi è un obiettivo solo per i collezionisti.
 
 ## Cosa comprano i ticket
 

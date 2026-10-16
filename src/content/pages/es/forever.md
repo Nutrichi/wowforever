@@ -166,7 +166,7 @@ La aventura abarca los Eastern Kingdoms y Kalimdor, con regiones nuevas, rincone
 
 ### Zephras Isle, niveles 1 a 12
 
-La zona inicial de los Skyborne: una isla apartada en el cielo que ahora ve amenazada su existencia. El estilo es el del Warcraft clásico, con arquitectura inspirada en Skywall. Para jugar allí hace falta el Skyborne Heroic Pack o una edición superior. Los Druids y Shamans de la Horda pueden conseguir allí una reliquia a nivel 5, con la misión Meddlesome Mages. La Alianza no puede aceptar esa misión, descubrió Wowhead en la beta.
+La zona inicial de los Skyborne: una isla apartada en el cielo que ahora ve amenazada su existencia. El estilo es el del Warcraft clásico, con arquitectura inspirada en Skywall. Para jugar allí hace falta el Skyborne Heroic Pack o una edición superior. Los Druids y Shamans de la Horda pueden conseguir allí una reliquia a nivel 5, con la misión Meddlesome Mages. La Alianza no puede aceptar esa misión, como muestra la beta.
 
 ### The Riverglades, hacia los niveles 30 a 45
 
@@ -275,7 +275,7 @@ Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials y 
 - **Transfiguración opcional.** Existe, pero cada jugador elige si la ve. Con la opción desactivada, todos muestran su equipo real.
 - **Gráficos HD o SD.** Personajes, modelos y mundo cambian entre el aspecto original y unos gráficos renovados, con mejor iluminación, niebla y agua.
 - **Layers con caras conocidas.** Cuántos jugadores caben en un layer se fija por zona. El layering también intenta juntar a los jugadores con la gente con la que agruparon, su hermandad y su lista de amigos, dice Josh Greenfield.
-- **Recent Allies.** Una ventana junto a la Friends List guarda a cada jugador con el que un personaje agrupó, con nivel, clase, lugar y actividad, y lo vuelve a invitar con un clic. Los habituales se pueden fijar arriba, escribe Wowhead ([más](/es/news/recent-allies-remembers-every-player-from-a-group/)).
+- **Recent Allies.** Una ventana junto a la Friends List guarda a cada jugador con el que un personaje agrupó, con nivel, clase, lugar y actividad, y lo vuelve a invitar con un clic. Los habituales se pueden fijar arriba ([más](/es/news/recent-allies-remembers-every-player-from-a-group/)).
 - **[Botín de misión más justo en grupo](/es/news/quest-drops-in-a-group-get-bad-luck-protection/).** Los objetos de misión de los monstruos se reparten de forma más pareja entre los jugadores agrupados, con una forma de bad luck protection que sigue siendo aleatoria, dice Josh Greenfield.
 - **Una interfaz de bronce.** El aspecto de bronce desgastado distingue a Forever a primera vista de Classic y del WoW moderno. No está previsto un interruptor a la interfaz de Classic, y los addons pueden seguir cambiándola, dice Tim Jones.
 - **Camping.** Los jugadores montan campamentos en el mundo a los que otros pueden unirse. Allí las tradeskills se dan beneficios entre sí, las mejoras del campamento se fabrican y se amplían, y descansar en él da ventajas. Cada objeto y cada buff están en la [guía de camping](/es/guides/camping/).

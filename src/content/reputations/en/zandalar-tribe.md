@@ -43,7 +43,7 @@ On **Yojamba Isle**, west of Zul'Gurub. Exzhal gives the quests, Vinchaxa takes 
 | Bloodlord Mandokir and Jin'do the Hexxer | 200 |
 | Hakkar | 400 |
 
-Icy Veins counts about 2,400 to 3,000 reputation for a full clear. Zul'Gurub resets every three days.
+A full clear gives about 2,400 to 3,000 reputation. Zul'Gurub resets every three days.
 
 ### Coins
 

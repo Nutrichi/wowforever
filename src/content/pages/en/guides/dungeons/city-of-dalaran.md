@@ -7,7 +7,7 @@ updated: 2026-10-16
 lang: en
 faq:
   - q: "What level is the City of Dalaran in WoW Forever?"
-    a: "Blizzard gives a range of 28 to 33. Wowhead recommends levels 28 to 35."
+    a: "Blizzard gives a range of 28 to 33. The recommended levels are 28 to 35."
   - q: "How do you enter the City of Dalaran?"
     a: "The Alliance goes in through a pipe in Cantrips & Crows, in the Dalaran Sewers. The Horde enters through a tunnel outside the city, at /way 8.8 59.6; one player in the group needs the Dalaran Sewer Key."
   - q: "How does the Horde get the Dalaran Sewer Key?"
@@ -15,7 +15,7 @@ faq:
   - q: "Does Arcane damage work in the City of Dalaran?"
     a: "Hardly. Almost every monster in the dungeon is immune to Arcane, so Arcane Explosion, Arcane Shot and Counterspell do not help much."
   - q: "What does the City of Dalaran drop?"
-    a: "Not known yet. The bosses are above the level cap of the beta, and Wowhead has no loot for them so far."
+    a: "Not known yet. The bosses are above the level cap of the beta, and their loot is not known so far."
   - q: "How do you summon Lyn the Ignored in the City of Dalaran?"
     a: "Take the Black Tome from the room of Archmage Arugal in Shadowfang Keep, turn it into the Tome of Dalaran at the Ambermill Leyline Focus, and use it on the purple circle in the sewers past Atrexis the Grave Knight. The tome is not used up and works again after 3 minutes."
 sources:
@@ -39,7 +39,7 @@ The City of Dalaran is one of the new dungeons of WoW Forever. The violet dome a
 | Watch out | Almost every monster is immune to Arcane |
 | Short name | CoD |
 
-Since the [beta build of 8 October](/news/city-of-dalaran-opens-in-the-fourth-beta-week/), the dungeon can be tested on the beta. The beta goes up to level 30 since 1 October. The last bosses are above that, so Wowhead does not know all their mechanics yet.
+Since the [beta build of 8 October](/news/city-of-dalaran-opens-in-the-fourth-beta-week/), the dungeon can be tested on the beta. The beta goes up to level 30 since 1 October. The last bosses are above that, so not all their mechanics are known yet.
 
 ## Getting there
 

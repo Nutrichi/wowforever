@@ -18,7 +18,7 @@ The Darkspear Trolls are the exiled troll tribe that joined Thrall and the Horde
 
 ## Where you start
 
-Where you start depends on your race. These are the values in the faction data of the Classic Era client, which the database wago.tools reads out of build 1.15.9.
+Where you start depends on your race. These are the values in the faction data of the Classic Era client, build 1.15.9.
 
 | Your race | Standing at the start |
 |---|---|
@@ -44,7 +44,7 @@ The Forsaken are the exception. They begin at Neutral here, a standing lower tha
 
 ### Quests
 
-Quests for the Darkspear Trolls give the most reputation. Wowhead points to Durotar and Feralas. Most quests for one Horde faction also give a quarter of that reputation to the other Horde cities.
+Quests for the Darkspear Trolls give the most reputation. The best zones are Durotar and Feralas. Most quests for one Horde faction also give a quarter of that reputation to the other Horde cities.
 
 ### Cloth donations
 

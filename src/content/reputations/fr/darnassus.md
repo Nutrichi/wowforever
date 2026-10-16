@@ -19,7 +19,7 @@ Darnassus est la faction de Darnassus, la capitale des elfes de la nuit au somme
 
 ## Votre point de départ
 
-Votre point de départ dépend de votre race. Ce sont les valeurs des données de faction du client Classic Era, que la base wago.tools lit dans la build 1.15.9.
+Votre point de départ dépend de votre race. Ce sont les valeurs des données de faction du client Classic Era, build 1.15.9.
 
 | Votre race | Niveau au départ |
 |---|---|
@@ -42,7 +42,7 @@ Friendly contient 6 000 points de réputation : un personnage de la race de la c
 
 ### Les quêtes
 
-Les quêtes pour Darnassus donnent le plus de réputation. Wowhead cite Teldrassil, Darkshore, Ashenvale, les Stonetalon Mountains, Thousand Needles et Feralas. La plupart des quêtes pour une cité de l'Alliance donnent aussi un quart de cette réputation aux autres cités de l'Alliance.
+Les quêtes pour Darnassus donnent le plus de réputation. Les meilleures zones sont Teldrassil, Darkshore, Ashenvale, les Stonetalon Mountains, Thousand Needles et Feralas. La plupart des quêtes pour une cité de l'Alliance donnent aussi un quart de cette réputation aux autres cités de l'Alliance.
 
 ### Les dons de tissu
 

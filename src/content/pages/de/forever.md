@@ -166,7 +166,7 @@ Das Abenteuer umfasst die Eastern Kingdoms und Kalimdor, mit neuen Regionen, unv
 
 ### Zephras Isle, Stufe 1 bis 12
 
-Die Startzone der Skyborne: eine abgelegene Insel am Himmel, deren Existenz nun bedroht ist. Der Stil ist klassisches Warcraft, mit einer Architektur nach dem Vorbild von Skywall. Wer dort spielen will, braucht das Skyborne Heroic Pack oder eine höhere Edition. Druids und Shamans der Horde können dort auf Level 5 ein Relikt bekommen, über die Quest Meddlesome Mages. Die Allianz kann diese Quest nicht annehmen, fand Wowhead in der Beta heraus.
+Die Startzone der Skyborne: eine abgelegene Insel am Himmel, deren Existenz nun bedroht ist. Der Stil ist klassisches Warcraft, mit einer Architektur nach dem Vorbild von Skywall. Wer dort spielen will, braucht das Skyborne Heroic Pack oder eine höhere Edition. Druids und Shamans der Horde können dort auf Level 5 ein Relikt bekommen, über die Quest Meddlesome Mages. Die Allianz kann diese Quest nicht annehmen, wie die Beta zeigt.
 
 ### The Riverglades, etwa Stufe 30 bis 45
 
@@ -275,7 +275,7 @@ Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, und di
 - **Optionales Transmog.** Transmog gibt es, aber jeder Spieler entscheidet, ob er es sieht. Ist die Option aus, zeigt jeder seine echte Ausrüstung.
 - **HD- oder SD-Grafik.** Charaktere, Modelle und die Welt wechseln zwischen dem ursprünglichen Look und erneuerter Grafik, mit besserem Licht, Nebel und Wasser.
 - **Layer mit bekannten Gesichtern.** Wie viele Spieler auf einen Layer passen, ist pro Zone festgelegt. Layering versucht außerdem, Spieler zu den Leuten zu bringen, mit denen sie in einer Gruppe waren, zu ihrer Gilde und ihrer Freundesliste, sagt Josh Greenfield.
-- **Recent Allies.** Ein Fenster neben der Friends List speichert jeden Spieler, mit dem ein Charakter in einer Gruppe war, mit Level, Klasse, Ort und Aktivität, und lädt ihn mit einem Klick wieder ein. Häufige Mitspieler lassen sich oben anheften, schreibt Wowhead ([mehr](/de/news/recent-allies-remembers-every-player-from-a-group/)).
+- **Recent Allies.** Ein Fenster neben der Friends List speichert jeden Spieler, mit dem ein Charakter in einer Gruppe war, mit Level, Klasse, Ort und Aktivität, und lädt ihn mit einem Klick wieder ein. Häufige Mitspieler lassen sich oben anheften ([mehr](/de/news/recent-allies-remembers-every-player-from-a-group/)).
 - **[Fairere Questdrops in der Gruppe](/de/news/quest-drops-in-a-group-get-bad-luck-protection/).** Questgegenstände von Monstern werden gleichmäßiger auf Spieler in einer Gruppe verteilt, mit einer Art Bad Luck Protection, die weiter zufällig bleibt, sagt Josh Greenfield.
 - **Eine bronzene Oberfläche.** Der bronzene, verwitterte Look unterscheidet Forever auf einen Blick von Classic und dem modernen WoW. Ein Schalter zur Oberfläche von Classic ist nicht geplant, und Addons können sie weiterhin ändern, sagt Tim Jones.
 - **Camping.** Spieler bauen Lager in der Welt, denen andere beitreten können. Tradeskills geben sich dort gegenseitig Buffs, Lagereinrichtungen werden hergestellt und verbessert, und Rasten im Lager bringt Vorteile. Jedes Objekt und jeder Buff steht im [Camping-Guide](/de/guides/camping/).

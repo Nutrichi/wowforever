@@ -33,7 +33,7 @@ El 18 de septiembre, un jugador compartió una captura de pantalla en el subredd
   </button>
 </figure>
 
-Los bots morían por el camino hacia el norte para copiar hierbas como Mountain Silversage, Icecap y Black Lotus, escribe Icy Veins. En una beta limitada al nivel 20, esas hierbas sirven de poco. Aun así, el oro de los bots se vendía por dinero real, escribió un jugador en los foros oficiales el 19 de septiembre.
+Los bots morían por el camino hacia el norte para copiar hierbas como Mountain Silversage, Icecap y Black Lotus. En una beta limitada al nivel 20, esas hierbas sirven de poco. Aun así, el oro de los bots se vendía por dinero real, escribió un jugador en los foros oficiales el 19 de septiembre.
 
 ## La nueva regla
 
@@ -45,6 +45,6 @@ Peacebloom sigue abierta para un personaje nuevo. Para Black Lotus, con 300 de h
 
 ## El tiempo de reutilización
 
-Icy Veins también escribe que el tiempo de reutilización pasó de 23 horas a 1 hora, para que los jugadores usen la racial más a menudo. Las notas de desarrollo de Blizzard no mencionan el tiempo de reutilización. Un jugador en los foros ya veía un tiempo de reutilización de 1 hora el 20 de septiembre, antes de la nueva build.
+El tiempo de reutilización también habría pasado de 23 horas a 1 hora, para que los jugadores usen la racial más a menudo. Las notas de desarrollo de Blizzard no mencionan el tiempo de reutilización. Un jugador en los foros ya veía un tiempo de reutilización de 1 hora el 20 de septiembre, antes de la nueva build.
 
 No se sabe si la regla frenará a los bots. Las racials de Forever están en la publicación sobre [las nuevas combinaciones de razas y clases](/es/news/orc-mages-and-undead-paladins-arrive/).

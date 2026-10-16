@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Un recién llegado a World of Warcraft preguntó en X a los veteranos el consejo que les habría gustado conocer antes de su primera aventura. Las respuestas se convirtieron en una pequeña guía para principiantes de WoW Forever, escribe Icy Veins.
+Un recién llegado a World of Warcraft preguntó en X a los veteranos el consejo que les habría gustado conocer antes de su primera aventura. Las respuestas se convirtieron en una pequeña guía para principiantes de WoW Forever.
 
 Trenton Reed hizo la pregunta el 2 de octubre. WoW Forever reúne a jugadores de siempre, jugadores que vuelven y principiantes totales como él, escribió. No buscaba la build perfecta, sino el consejo que nadie le dio.
 
@@ -29,13 +29,13 @@ Trenton Reed hizo la pregunta el 2 de octubre. WoW Forever reúne a jugadores de
 
 ## Tómate tu tiempo
 
-El consejo más repetido: no tengas prisa. Varios veteranos recomendaron a los recién llegados no ahogarse en guías antes de haber jugado. Entra a ciegas, prueba distintas habilidades y descubre el mundo por tu cuenta. Icy Veins añade un consejo propio: haz capturas de los momentos memorables, para tener un álbum de tu viaje.
+El consejo más repetido: no tengas prisa. Varios veteranos recomendaron a los recién llegados no ahogarse en guías antes de haber jugado. Entra a ciegas, prueba distintas habilidades y descubre el mundo por tu cuenta. Un consejo más: haz capturas de los momentos memorables, para tener un álbum de tu viaje.
 
 ![Un templo de los Night Elves con pabellones con cúpula y árboles morados al anochecer, una captura de World of Warcraft](../../../assets/posts/2026-10-03-wow-forever-night-elf-temple-at-dusk.jpg)
 
 ## No vayas solo
 
-El lado social salió a menudo. Haz amigos y haz misiones en compañía, o simplemente sé amable con la gente. Blizzard está probando sistemas sociales como una herramienta para buscar grupo, pero conocer a otros jugadores de otras formas sigue mereciendo la pena, escribe Icy Veins. Hasta un /wave puede alegrarle el día a alguien.
+El lado social salió a menudo. Haz amigos y haz misiones en compañía, o simplemente sé amable con la gente. Blizzard está probando sistemas sociales como una herramienta para buscar grupo, pero conocer a otros jugadores de otras formas sigue mereciendo la pena. Hasta un /wave puede alegrarle el día a alguien.
 
 ## Usa tus consumibles
 
@@ -49,7 +49,7 @@ Los puntos de vuelo salieron una y otra vez. Habla con el maestro de vuelo en ca
 
 ## No luches contra Hogger a nivel 8
 
-Los recién llegados no necesitan saberlo todo antes de empezar, concluye Icy Veins: elige algo que parezca divertido, explora y haz amigos por el camino. El consejo más importante vino de slayzdam: no luches contra <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a> a nivel 8.
+Los recién llegados no necesitan saberlo todo antes de empezar: elige algo que parezca divertido, explora y haz amigos por el camino. El consejo más importante vino de slayzdam: no luches contra <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=448">Hogger</a> a nivel 8.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2106130909414261162">
   <button type="button" class="wf-embed__play">

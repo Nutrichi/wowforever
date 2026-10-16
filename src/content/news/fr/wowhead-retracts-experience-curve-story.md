@@ -1,7 +1,8 @@
 ---
-title: "Wowhead retire son article sur la courbe d’expérience"
-description: "Wowhead annonçait que monter en niveau dans WoW Forever demandait bien moins d’expérience. Blizzard dit que les valeurs n’ont pas changé, et le site a retiré l’article."
+title: "La courbe d’expérience de Forever n’est pas plus basse"
+description: "Un article affirmait que monter en niveau dans WoW Forever demandait bien moins d’expérience. Blizzard dit que les valeurs n’ont pas changé, et l’article a été retiré."
 date: 2026-09-22T23:30:00+02:00
+updated: 2026-10-16T10:00:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-09-21-wow-forever-mulgore.jpg
@@ -13,15 +14,15 @@ featured: false
 draft: false
 manual: true
 ---
-Wowhead a retiré son article sur la courbe d’expérience dans WoW Forever. Le site écrivait que monter en niveau demandait bien moins d’expérience que dans Classic. C’est faux. Blizzard dit que les valeurs n’ont pas changé, et le fichier d’où venaient les données n’est pas lu par le jeu.
+Monter en niveau dans WoW Forever ne demande pas moins d’expérience que dans Classic. Un article qui l’affirmait a été retiré. Blizzard dit que les valeurs n’ont pas changé, et le fichier d’où venaient les données n’est pas lu par le jeu.
 
-L’article d’origine est paru le 22 septembre et a circulé vite. Il affirmait que l’expérience nécessaire par niveau baissait sur toute la ligne, et que la montée jusqu’à 60 était devenue une courbe progressive au lieu d’une suite de paliers.
+L’article est paru le 22 septembre et a circulé vite. Il affirmait que l’expérience nécessaire par niveau baissait sur toute la ligne, et que la montée jusqu’à 60 était devenue une courbe progressive au lieu d’une suite de paliers.
+
+Le retrait figure désormais au-dessus de l’article d’origine :
 
 > We can confirm that there are no changes to the experience amounts required to level in WoW Forever.
 
-Cette phrase vient de Blainie, qui dirige la rédaction de Wowhead, dans une note ajoutée au-dessus de l’article. Blizzard a contacté le site après la publication et a expliqué comment le jeu lit les valeurs d’expérience pour cette version. Les chiffres datamined se trouvaient dans un fichier que le client ne lit pas ; un second fichier, invisible pour l’équipe, est celui qui sert.
-
-Wowhead laisse l’article en ligne avec le retrait en tête, plutôt que de le supprimer.
+Blizzard a expliqué comment le jeu lit les valeurs d’expérience pour cette version. Les chiffres datamined se trouvaient dans un fichier que le client ne lit pas ; un second fichier, invisible de l’extérieur, est celui qui sert.
 
 ## Ce qui a bien changé
 

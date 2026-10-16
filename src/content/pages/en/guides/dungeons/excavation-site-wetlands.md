@@ -7,7 +7,7 @@ updated: 2026-10-14
 lang: en
 faq:
   - q: "What level is the Excavation Site in WoW Forever?"
-    a: "Blizzard gives a range of 26 to 31. The quests can be picked up at level 24, but the last boss is level 31, writes Wowhead."
+    a: "Blizzard gives a range of 26 to 31. The quests can be picked up at level 24, but the last boss is level 31."
   - q: "Where is the Excavation Site?"
     a: "In the Wetlands, on top of a hill southeast of Whelgar's Excavation Site. New roads lead up to the entrance; in Classic this area could not be reached."
   - q: "What is dangerous in the Excavation Site?"
@@ -35,7 +35,7 @@ The Excavation Site is one of the new dungeons of WoW Forever. The Explorers' Le
 | Loot | New blue items, the Titan Relic for two chains |
 | New in Forever | The whole dungeon |
 
-The beta of WoW Forever goes up to level 30 since 1 October. Wowhead updates its guide as testers clear the dungeon, so details can still change.
+The beta of WoW Forever goes up to level 30 since 1 October. Testers are still clearing the dungeon, so details can still change.
 
 ## Getting there
 
@@ -199,7 +199,7 @@ On the beta Prehistoric Prism cannot be completed at the moment. Whelgar gives t
 
 </div>
 
-The level is the lowest level at which the quest can be picked up, according to Wowhead. The rewards come from the quest data of the beta and can still change.
+The level is the lowest level at which the quest can be picked up. The rewards come from the quest data of the beta and can still change.
 
 ## The tall grass
 
@@ -209,7 +209,7 @@ Stay on the narrow path and out of the grass, and fight in open spots. When a Ma
 
 ## The bosses and their loot
 
-The loot per boss comes from Wowhead.
+The loot per boss comes from the beta.
 
 ### Saltspine
 
@@ -262,4 +262,4 @@ Start the fight with the Archival Panel on the right of the inactive guardian. R
 - **What the Bloody Map leads to**, the reward of Open the Maw.
 - **When Highland Hides and Prehistoric Prism are fixed**: both are bugged on the beta.
 - **The drop rates** of the boss loot, apart from the Titan Relic.
-- **Changes after the level cap of the beta rises**: Wowhead keeps its guide up to date.
+- **Changes after the level cap of the beta rises**: this guide follows them.

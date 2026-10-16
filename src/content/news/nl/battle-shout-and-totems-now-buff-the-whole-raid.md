@@ -2,6 +2,7 @@
 title: "Battle Shout en totems buffen nu de hele raid"
 description: "De beta-build van 15 oktober maakt Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura en vier totems van de Shaman raidbreed. Mages krijgen Frost Blast, en Elemental Mastery keert terug."
 date: 2026-10-16T04:00:00+02:00
+updated: 2026-10-16T10:15:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-02-wow-forever-warriors-on-a-burning-deck.jpg
@@ -41,7 +42,7 @@ Wands en Auto Shot vragen nu dat je 0,5 seconde stilstaat voor je schiet, zoals 
 ## Hunter
 
 - Een Hunter mag tegelijk één Fire-trap en één Ice-trap actief hebben (was één trap in totaal). Fire-traps schalen nu met Attack Power. Pets profiteren van Expertise en gebruiken de hoogste kans op critical strikes, melee of ranged.
-- **Pets:** Dismember (Crocolisk) vermindert healing met 25%, 6 seconden lang, met een cooldown van 15 seconden (was 50%, 10 seconden en 6 seconden). Sonic Blast (Bat) vertraagt het casten met 30%, 20 seconden lang, met een cooldown van 60 seconden (was 60%, 30 en 30). Mine! (Bird of Prey) duurt 3 seconden met een cooldown van 90 seconden (was 4 en 60).
+- **Pets:** Dismember (Crocolisk) vermindert healing met 25%, 6 seconden lang, met een cooldown van 15 seconden (was 50%, 10 seconden en 6 seconden). Sonic Blast (Bat) vertraagt het casten met 30%, 20 seconden lang, met een cooldown van 60 seconden (was 60%, 30 en 30). Mine! (Bird of Prey) duurt 3 seconden met een cooldown van 90 seconden (was 4 en 60). In de builddata bereikt Furious Howl van de wolf nu ook raidleden ([meer over de pets](/nl/news/hunter-pets-lose-utility-but-wolves-buff-the-raid/)).
 - **Survival:** Strider Kick werkt ook ontwapend. Resourcefulness activeert alleen nog bij critical strikes van melee- en ranged-abilities, niet bij traps.
 
 ## Mage

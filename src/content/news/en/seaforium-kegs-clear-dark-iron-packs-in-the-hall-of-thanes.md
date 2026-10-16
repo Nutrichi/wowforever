@@ -1,6 +1,6 @@
 ---
 title: "Seaforium kegs clear Dark Iron packs in the Hall of Thanes"
-description: "Warcraft Tavern walked the Hall of Thanes room by room: the hidden passage in the High Seat, kegs that blow up packs, a disease from Bloodhound Runts and a totem against the last boss."
+description: "The Hall of Thanes room by room: the hidden passage in the High Seat, kegs that blow up packs, a disease from Bloodhound Runts and a totem against the last boss."
 date: 2026-09-29T23:40:00+02:00
 category: forever
 lang: en
@@ -12,7 +12,7 @@ tags: ["forever", "beta", "dungeon"]
 featured: false
 draft: false
 ---
-Warcraft Tavern has walked the Hall of Thanes, the new Alliance dungeon under Ironforge, room by room. Its route points out kegs that blow up Dark Iron packs, a disease worth curing and a totem that takes the fear out of the final boss.
+A route through the Hall of Thanes, the new Alliance dungeon under Ironforge, room by room, points out kegs that blow up Dark Iron packs, a disease worth curing and a totem that takes the fear out of the final boss.
 
 ## The way in
 

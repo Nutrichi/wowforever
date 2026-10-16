@@ -16,12 +16,12 @@ faq:
   - q: "¿Es el Dungeon Set 1 igual que en Classic?"
     a: "No. En Forever cada pieza tiene su propio spell power, las bonificaciones de set terminan en seis piezas en lugar de ocho y la bonificación de +200 Armor desaparece."
   - q: "¿Se puja por los objetos como en el Black Market de retail?"
-    a: "Aún no se sabe. Wowhead solo escribe que el equipo cuesta 100 de oro o más."
+    a: "Aún no se sabe. Por ahora solo se sabe que el equipo cuesta 100 de oro o más."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/buy-gear-pets-mounts-and-more-on-the-wow-forever-black-market-auction-house-383078"
 ---
-La Black Market Auction House, BMAH para abreviar, vende objetos raros por mucho oro. Apareció por primera vez en Mists of Pandaria, en el parche 5.0.4. WoW Forever la lleva al mundo antiguo, a la nueva zona The Riverglades, y Wowhead la encontró en la beta.
+La Black Market Auction House, BMAH para abreviar, vende objetos raros por mucho oro. Apareció por primera vez en Mists of Pandaria, en el parche 5.0.4. WoW Forever la lleva al mundo antiguo, a la nueva zona The Riverglades, y ya está en la beta.
 
 ![Mister Graphed y Madam Swyndle, dos goblins con el título Agent of the Black Market, sobre una alfombra morada en una tienda, con un Blood Elf delante, una captura de pantalla del juego](../../../../assets/posts/2026-09-27-wow-forever-black-market-agents.jpg)
 
@@ -45,7 +45,7 @@ The Riverglades están al norte de Redridge Mountains. Un desvío de Redridge qu
 | [Madam Swyndle](https://www.wowhead.com/forever/npc=263326) | El Black Market en sí: equipo, mascotas y coleccionables |
 | [Mister Graphed](https://www.wowhead.com/forever/npc=263384) | Componentes de artesanía y otros artículos |
 
-Los dos son goblins de nivel 60 con el título Agent of the Black Market. Wowhead escribe que Forever tiene "aún más agentes" del Black Market, pero no dónde están los demás.
+Los dos son goblins de nivel 60 con el título Agent of the Black Market. Forever tiene "aún más agentes" del Black Market, pero no se sabe dónde están los demás.
 
 ## Equipo: el Dungeon Set 1
 
@@ -60,7 +60,7 @@ La mayor parte de lo que ofrece Madam Swyndle es equipo del Dungeon Set 1, los s
 
 ### En qué se diferencian los sets de Classic
 
-Los nombres de los sets se quedaron, las bonificaciones cambiaron. Esto sale de los tooltips de Wowhead para Forever y para Classic Era.
+Los nombres de los sets se quedaron, las bonificaciones cambiaron. Esto sale de los tooltips para Forever y para Classic Era.
 
 | Piezas | Classic Era | WoW Forever |
 |---|---|---|

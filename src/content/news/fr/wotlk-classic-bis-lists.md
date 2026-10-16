@@ -25,4 +25,4 @@ Plusieurs listes signalent des légendaires qui restent best-in-slot. Val'anyr, 
 
 Les listes s’appuient sur des guides d’équipement reconnus pour la phase 1 de WotLK Classic.
 
-Pour la phase 3, Icy Veins sépare certains tableaux par faction. Les listes utilisent les objets de l’Alliance ; les versions de la Horde tombent des mêmes boss au même niveau d’objet. Quelques provenances d’objets erronées sur les pages sources ont été corrigées d’après les listes de rencontres.
+Pour la phase 3, les guides séparent certains tableaux par faction. Les listes utilisent les objets de l’Alliance ; les versions de la Horde tombent des mêmes boss au même niveau d’objet. Quelques provenances d’objets erronées sur les pages sources ont été corrigées d’après les listes de rencontres.

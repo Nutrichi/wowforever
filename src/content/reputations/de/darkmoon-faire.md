@@ -50,7 +50,7 @@ Jede Abgabe gibt 100 Ruf und eine Anzahl Darkmoon Faire Prize Tickets. Die Quest
 | 4 | 12 | 30 | 2.500 in Neutral |
 | 5 | 20 | 40 | 5.999 in Friendly |
 
-Mehrere Spieler berichten in den Kommentaren auf Wowhead, dass Stufe 5 schon bei etwa 2.000 in Friendly keinen Ruf mehr gibt, während die Abgabe selbst für Tickets verfügbar bleibt.
+Mehrere Spieler berichten, dass Stufe 5 schon bei etwa 2.000 in Friendly keinen Ruf mehr gibt, während die Abgabe selbst für Tickets verfügbar bleibt.
 
 | Questgeber | Abgaben | Stufe 1 | Stufe 2 | Stufe 3 | Stufe 4 | Stufe 5 |
 |---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Die Karten lassen sich handeln, die Schmuckstücke sind Bind on Pickup und brauc
 ## Der schnellste Weg nach Exalted
 
 1. Gib auf jeder Stufe ab, solange deine Charakterstufe und dein Ruf es zulassen; eine Stufe, die du auslässt, verschwindet, sobald du ihre Grenze überschreitest.
-2. Danach zählen nur noch Decks. Wowhead rechnet mit etwa 220 Decks bis Exalted, also ist das nur ein Ziel für Sammler.
+2. Danach zählen nur noch Decks. Bis Exalted braucht man etwa 220 Decks, also ist das nur ein Ziel für Sammler.
 
 ## Was die Tickets kaufen
 

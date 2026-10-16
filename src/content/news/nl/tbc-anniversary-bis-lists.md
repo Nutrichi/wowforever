@@ -19,7 +19,7 @@ De [best-in-slotlijsten](/nl/bis/tbc/) voor The Burning Crusade Classic Annivers
 
 De pre-raidlijsten gebruiken gear uit heroic dungeons, crafting, reputatie, quests en badge-vendors. Fase 1 dekt Karazhan, Gruul's Lair en Magtheridon's Lair, met Tier 4. Fase 2 dekt Serpentshrine Cavern en Tempest Keep, met Tier 5. Fase 3 voegt Mount Hyjal en Black Temple toe met Tier 6, fase 4 Zul'Aman en fase 5 Sunwell Plateau.
 
-De Anniversary-realms waren nog niet aan fase 3 tot 5 toe toen deze lijsten verschenen. Die lijsten zijn gebaseerd op de originele release van 2007 en 2008, zoals Icy Veins die beschrijft. Voor ongeveer een derde van de specs geeft Icy Veins dezelfde gear voor fase 3 en fase 4. De lijsten vermelden dat.
+De Anniversary-realms waren nog niet aan fase 3 tot 5 toe toen deze lijsten verschenen. Die lijsten zijn gebaseerd op de originele release van 2007 en 2008. Voor ongeveer een derde van de specs geven de guides dezelfde gear voor fase 3 en fase 4. De lijsten vermelden dat.
 
 ## Opvallende keuzes
 

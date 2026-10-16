@@ -44,7 +44,7 @@ En **Yojamba Isle**, al oeste de Zul'Gurub. Exzhal da las misiones, Vinchaxa ace
 | Bloodlord Mandokir y Jin'do the Hexxer | 200 |
 | Hakkar | 400 |
 
-Icy Veins calcula unos 2.400 a 3.000 de reputación por visita completa. Zul'Gurub se reinicia cada tres días.
+Una visita completa da unos 2.400 a 3.000 de reputación. Zul'Gurub se reinicia cada tres días.
 
 ### Monedas
 

@@ -13,9 +13,9 @@ featured: false
 draft: false
 manual: true
 ---
-Les objets de Scarlet Monastery changent sur la bêta de World of Warcraft: Forever. Au niveau 30, les testeurs trouvent des objets blancs et verts devenus bleus, avec de nouveaux effets. Le set Chain of the Scarlet Crusade gagne aussi de nouveaux bonus, écrit Icy Veins.
+Les objets de Scarlet Monastery changent sur la bêta de World of Warcraft: Forever. Au niveau 30, les testeurs trouvent des objets blancs et verts devenus bleus, avec de nouveaux effets. Le set Chain of the Scarlet Crusade gagne aussi de nouveaux bonus.
 
-Toutes les ailes n'ont pas encore été terminées. Les objets ci-dessous viennent de Graveyard et de Library. Les données viennent de Today in WoW, selon Icy Veins.
+Toutes les ailes n'ont pas encore été terminées. Les objets ci-dessous viennent de Graveyard et de Library.
 
 ## Graveyard
 
@@ -25,7 +25,7 @@ Toutes les ailes n'ont pas encore été terminées. Les objets ci-dessous vienne
 
 ![Les infobulles de Torturing Poker et Bloody Brass Knuckles sur la bêta de World of Warcraft: Forever](../../../assets/posts/2026-10-03-wow-forever-torturing-poker-and-bloody-brass-knuckles.jpg)
 
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7684"><img class="wf-wh__icon" src="/wh/inv_shoulder_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloodmage Mantle</a> de Bloodmage Thalnos passe du vert au bleu. Les épaulières en tissu donnent 9 d'Intellect, jusqu'à 9 de dégâts et de soins des sorts, et rendent 9 points de vie toutes les 5 secondes. Icy Veins y voit un intérêt pour les Warlocks qui utilisent Life Tap.
+<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7684"><img class="wf-wh__icon" src="/wh/inv_shoulder_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloodmage Mantle</a> de Bloodmage Thalnos passe du vert au bleu. Les épaulières en tissu donnent 9 d'Intellect, jusqu'à 9 de dégâts et de soins des sorts, et rendent 9 points de vie toutes les 5 secondes. Elles intéressent donc les Warlocks qui utilisent Life Tap.
 
 ![L'infobulle de Bloodmage Mantle sur la bêta de World of Warcraft: Forever](../../../assets/posts/2026-10-03-wow-forever-bloodmage-mantle.jpg)
 
@@ -43,7 +43,7 @@ Loksey laisse aussi tomber un nouvel objet, Houndmaster Boomerang. L'arme de jet
 
 ## De nouveaux bonus pour Chain of the Scarlet Crusade
 
-Les dataminers ont trouvé deux nouveaux effets pour [Chain of the Scarlet Crusade](https://www.wowhead.com/forever/item-set=163). À la connaissance d'Icy Veins, aucune pièce du set n'est encore tombée sur la bêta. Les fichiers du build donnent ces bonus :
+Les dataminers ont trouvé deux nouveaux effets pour [Chain of the Scarlet Crusade](https://www.wowhead.com/forever/item-set=163). À notre connaissance, aucune pièce du set n'est encore tombée sur la bêta. Les fichiers du build donnent ces bonus :
 
 | Pièces | Bonus |
 |---|---|
@@ -53,7 +53,7 @@ Les dataminers ont trouvé deux nouveaux effets pour [Chain of the Scarlet Crusa
 | 5 | +1 % de chances de toucher |
 | 6 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1293670"><img class="wf-wh__icon" src="/wh/inv_tabard_scarletcrusade_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Guardian</a> : subir des dégâts à 20 % de vie ou moins donne un bouclier qui absorbe des dégâts pendant 10 secondes, une fois toutes les 4 minutes |
 
-Icy Veins parle d'un set solide pour les tanks et pour les joueurs qui montent de niveau seuls. Seul un premier drop dira s'il fonctionne ainsi en jeu.
+Sur le papier, c'est un set solide pour les tanks et pour les joueurs qui montent de niveau seuls. Seul un premier drop dira s'il fonctionne ainsi en jeu.
 
 ![L'armurerie du Scarlet Monastery, une salle ronde avec des statues et un sol rouge, une capture d'écran de World of Warcraft](../../../assets/posts/2026-10-03-wow-forever-scarlet-monastery-armory.jpg)
 

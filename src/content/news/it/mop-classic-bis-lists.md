@@ -25,4 +25,4 @@ Alcune specializzazioni tengono monili di Throne of Thunder nelle fasi successiv
 
 ## Fonti
 
-Le liste si basano sulle guide all’equipaggiamento di Icy Veins. Alcune provenienze di oggetti sbagliate sulle pagine di origine sono state corrette con gli elenchi degli scontri, come il raid di Jin'rokh the Breaker, il primo boss di Throne of Thunder.
+Le liste si basano su guide all’equipaggiamento affermate. Alcune provenienze di oggetti sbagliate sulle pagine di origine sono state corrette con gli elenchi degli scontri, come il raid di Jin'rokh the Breaker, il primo boss di Throne of Thunder.

@@ -54,7 +54,7 @@ De naam klinkt bekend uit Season of Discovery, waar de Azeroth Commerce Exchange
 
 ## Recepten per tradeskill
 
-Elke tradeskillverkoper verkoopt recepten voor Merchant's Favor. De volledige lijsten staan in de [gids van Wowhead](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Elke tradeskillverkoper verkoopt recepten voor Merchant's Favor. De volledige lijsten staan in [deze reputatiegids](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
 
 | Tradeskill | Verkoper | Recepten | Skill | Merchant's Favor |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ Op skill 300 verkoopt een verkoper een certificaat. Dat opent de titel voor elk 
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271626"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leatherworking Certification</a> | the Leatherworker | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271627"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tailoring Certification</a> | the Tailor | 1000 |
 
-De Enchanting Certification kost 240 in de lijst van Wowhead, een kwart van de andere. Of dat klopt, is niet bekend.
+De Enchanting Certification kost 240 in de lijst, een kwart van de andere. Of dat klopt, is niet bekend.
 
 ## De standings
 

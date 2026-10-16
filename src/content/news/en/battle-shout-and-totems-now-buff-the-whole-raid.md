@@ -2,6 +2,7 @@
 title: "Battle Shout and totems now buff the whole raid"
 description: "The beta build of 15 October makes Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura and four Shaman totems raid wide. Mages get Frost Blast, and Elemental Mastery returns."
 date: 2026-10-16T04:00:00+02:00
+updated: 2026-10-16T10:15:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-02-wow-forever-warriors-on-a-burning-deck.jpg
@@ -40,7 +41,7 @@ Wands and Auto Shot now require the player to stand still for 0.5 seconds before
 ## Hunter
 
 - A Hunter may have one Fire trap and one Ice trap active at the same time (was one trap in total). Fire traps now scale with Attack Power. Pets benefit from Expertise and use the higher of melee and ranged critical strike chance.
-- **Pets:** Dismember (Crocolisk) reduces healing by 25% for 6 seconds with a 15 second cooldown (was 50%, 10 seconds and 6 seconds). Sonic Blast (Bat) slows casting by 30% for 20 seconds with a 60 second cooldown (was 60%, 30 and 30). Mine! (Bird of Prey) lasts 3 seconds with a 90 second cooldown (was 4 and 60).
+- **Pets:** Dismember (Crocolisk) reduces healing by 25% for 6 seconds with a 15 second cooldown (was 50%, 10 seconds and 6 seconds). Sonic Blast (Bat) slows casting by 30% for 20 seconds with a 60 second cooldown (was 60%, 30 and 30). Mine! (Bird of Prey) lasts 3 seconds with a 90 second cooldown (was 4 and 60). In the build data, Furious Howl of the wolf now reaches raid members too ([more about the pets](/news/hunter-pets-lose-utility-but-wolves-buff-the-raid/)).
 - **Survival:** Strider Kick works while disarmed. Resourcefulness only triggers on critical strikes of melee and ranged abilities, not on traps.
 
 ## Mage

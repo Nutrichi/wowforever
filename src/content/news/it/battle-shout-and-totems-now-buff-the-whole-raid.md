@@ -2,6 +2,7 @@
 title: "Battle Shout e totem ora per tutta l’incursione"
 description: "La build della beta del 15 ottobre estende Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura e quattro totem dello Shaman a tutta l’incursione. I Maghi ricevono Frost Blast, e torna Elemental Mastery."
 date: 2026-10-16T04:00:00+02:00
+updated: 2026-10-16T10:15:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-02-wow-forever-warriors-on-a-burning-deck.jpg
@@ -41,7 +42,7 @@ Bacchette e Auto Shot richiedono ora di stare fermi 0,5 secondi prima di sparare
 ## Hunter
 
 - Un Hunter può avere attivi insieme una trappola di fuoco e una di ghiaccio (prima una trappola in tutto). Le trappole di fuoco scalano ora con la potenza d’attacco. I famigli beneficiano dell’Expertise e usano la probabilità di critico più alta, in mischia o a distanza.
-- **Famigli:** Dismember (Crocolisk) riduce le cure del 25% per 6 secondi, con 15 secondi di ricarica (prima 50%, 10 secondi e 6 secondi). Sonic Blast (Bat) rallenta il lancio del 30% per 20 secondi, con 60 secondi di ricarica (prima 60%, 30 e 30). Mine! (Bird of Prey) dura 3 secondi con 90 secondi di ricarica (prima 4 e 60).
+- **Famigli:** Dismember (Crocolisk) riduce le cure del 25% per 6 secondi, con 15 secondi di ricarica (prima 50%, 10 secondi e 6 secondi). Sonic Blast (Bat) rallenta il lancio del 30% per 20 secondi, con 60 secondi di ricarica (prima 60%, 30 e 30). Mine! (Bird of Prey) dura 3 secondi con 90 secondi di ricarica (prima 4 e 60). Nei dati della build, il Furious Howl del lupo ora raggiunge anche il raid ([altro sui famigli](/it/news/hunter-pets-lose-utility-but-wolves-buff-the-raid/)).
 - **Survival:** Strider Kick funziona anche da disarmati. Resourcefulness si attiva solo con i critici delle abilità in mischia e a distanza, non con le trappole.
 
 ## Mage

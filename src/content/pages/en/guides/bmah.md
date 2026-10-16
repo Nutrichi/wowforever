@@ -15,12 +15,12 @@ faq:
   - q: "Is Dungeon Set 1 the same as in Classic?"
     a: "No. In Forever every piece has spell power of its own, the set bonuses stop at six pieces instead of eight, and the +200 Armor bonus is gone."
   - q: "Do you bid on items like on the retail Black Market?"
-    a: "That is not known yet. Wowhead only writes that the gear goes for 100 gold or more."
+    a: "That is not known yet. So far it is only known that the gear goes for 100 gold or more."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/buy-gear-pets-mounts-and-more-on-the-wow-forever-black-market-auction-house-383078"
 ---
-The Black Market Auction House, BMAH for short, sells rare items for a lot of gold. It first appeared in Mists of Pandaria, in patch 5.0.4. WoW Forever brings it to the old world, in the new zone The Riverglades, and Wowhead found it on the beta.
+The Black Market Auction House, BMAH for short, sells rare items for a lot of gold. It first appeared in Mists of Pandaria, in patch 5.0.4. WoW Forever brings it to the old world, in the new zone The Riverglades, and it is already on the beta.
 
 ![Mister Graphed and Madam Swyndle, two goblins with the title Agent of the Black Market, on a purple carpet in a tent, with a Blood Elf in front of them, a screenshot from the game](../../../../assets/posts/2026-09-27-wow-forever-black-market-agents.jpg)
 
@@ -44,7 +44,7 @@ The Riverglades lie north of Redridge Mountains. A fork in Redridge that used to
 | [Madam Swyndle](https://www.wowhead.com/forever/npc=263326) | The Black Market itself: gear, pets and collectibles |
 | [Mister Graphed](https://www.wowhead.com/forever/npc=263384) | Crafting reagents and other goods |
 
-Both are level 60 goblins with the title Agent of the Black Market. Wowhead writes that Forever has "even more agents" of the Black Market, but not where the others stand.
+Both are level 60 goblins with the title Agent of the Black Market. Forever has "even more agents" of the Black Market, but where the others stand is not known.
 
 ## Gear: Dungeon Set 1
 
@@ -59,7 +59,7 @@ Most of what Madam Swyndle offers is gear from Dungeon Set 1, the blue sets from
 
 ### How the sets differ from Classic
 
-The set names stayed, the bonuses changed. This comes from the tooltips of Wowhead for Forever and for Classic Era.
+The set names stayed, the bonuses changed. This comes from the tooltips for Forever and for Classic Era.
 
 | Pieces | Classic Era | WoW Forever |
 |---|---|---|

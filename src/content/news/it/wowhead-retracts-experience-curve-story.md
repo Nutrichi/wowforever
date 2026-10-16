@@ -1,7 +1,8 @@
 ---
-title: "Wowhead ritira il suo articolo sulla curva di esperienza"
-description: "Wowhead riportava che salire di livello in WoW Forever costava molta meno esperienza. Blizzard dice che i valori non sono cambiati, e il sito ha ritirato l’articolo."
+title: "La curva di esperienza di Forever non è più bassa"
+description: "Un articolo diceva che salire di livello in WoW Forever costava molta meno esperienza. Blizzard dice che i valori non sono cambiati, e l’articolo è stato ritirato."
 date: 2026-09-22T23:30:00+02:00
+updated: 2026-10-16T10:00:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-09-21-wow-forever-mulgore.jpg
@@ -13,15 +14,15 @@ featured: false
 draft: false
 manual: true
 ---
-Wowhead ha ritirato il suo articolo sulla curva di esperienza in WoW Forever. Il sito scriveva che salire di livello costava molta meno esperienza che in Classic. Non è così. Blizzard dice che i valori non sono cambiati, e il file da cui venivano i dati non viene letto dal gioco.
+Salire di livello in WoW Forever non costa meno esperienza che in Classic. Un articolo che lo sosteneva è stato ritirato. Blizzard dice che i valori non sono cambiati, e il file da cui venivano i dati non viene letto dal gioco.
 
-L’articolo originale è uscito il 22 settembre ed è girato in fretta. Sosteneva che l’esperienza richiesta per livello calava lungo tutta la salita, e che la corsa fino a 60 era diventata una curva graduale invece di una serie di gradini.
+L’articolo è uscito il 22 settembre ed è girato in fretta. Sosteneva che l’esperienza richiesta per livello calava lungo tutta la salita, e che la corsa fino a 60 era diventata una curva graduale invece di una serie di gradini.
+
+Il ritiro ora sta sopra l’articolo originale:
 
 > We can confirm that there are no changes to the experience amounts required to level in WoW Forever.
 
-Quella frase è di Blainie, che guida la redazione di Wowhead, in una nota aggiunta sopra l’articolo. Blizzard ha contattato il sito dopo la pubblicazione e ha spiegato come il gioco legge i valori di esperienza per questa versione. I numeri ricavati dal datamining stavano in un file che il client non legge; un secondo file, che la redazione non vedeva, è quello in uso.
-
-Wowhead lascia l’articolo online con il ritiro in cima, invece di cancellarlo.
+Blizzard ha spiegato come il gioco legge i valori di esperienza per questa versione. I numeri ricavati dal datamining stavano in un file che il client non legge; un secondo file, che dall’esterno non si vedeva, è quello in uso.
 
 ## Cosa è cambiato davvero
 

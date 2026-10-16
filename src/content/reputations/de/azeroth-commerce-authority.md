@@ -54,7 +54,7 @@ Der Name ist aus Season of Discovery bekannt, wo die Azeroth Commerce Exchange �
 
 ## Rezepte pro Beruf
 
-Jeder Berufsh채ndler verkauft Rezepte f체r Merchant's Favor. Die vollst채ndigen Listen stehen im [Guide von Wowhead](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Jeder Berufsh채ndler verkauft Rezepte f체r Merchant's Favor. Die vollst채ndigen Listen stehen in [diesem Ruf-Guide](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
 
 | Beruf | H채ndler | Rezepte | Skill | Merchant's Favor |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ Mit Skill 300 verkauft ein H채ndler eine Zertifizierung. Sie schaltet den Titel 
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271626"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leatherworking Certification</a> | the Leatherworker | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271627"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tailoring Certification</a> | the Tailor | 1000 |
 
-Die Enchanting Certification kostet in der Liste von Wowhead 240, ein Viertel der anderen. Ob das stimmt, ist nicht bekannt.
+Die Enchanting Certification kostet in der Liste 240, ein Viertel der anderen. Ob das stimmt, ist nicht bekannt.
 
 ## Die Stufen
 

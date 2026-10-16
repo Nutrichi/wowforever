@@ -23,8 +23,8 @@ Cooking è una professione secondaria, quindi non ti costa mai uno dei tuoi due 
 
 ## Cosa cambia in Forever
 
-- **Esperienza dal cibo.** Quasi tutto il cibo cucinato dà il 5% di esperienza in più dalle uccisioni finché sei Well Fed, scrive Wowhead.
-- **Una stat per piatto.** Le ricette conosciute sono ritoccate per favorire una sola stat primaria, secondo Warcraft Tavern.
+- **Esperienza dal cibo.** Quasi tutto il cibo cucinato dà il 5% di esperienza in più dalle uccisioni finché sei Well Fed.
+- **Una stat per piatto.** Le ricette conosciute sono ritoccate per favorire una sola stat primaria.
 - **Nuove ricette**, come <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=286152"><img class="wf-wh__icon" src="/wh/inv_misc_fish_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plated Armorfish</a> e <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a>.
 - **Fuochi da campo.** Cooking accende il fuoco di ogni accampamento; vedi la [guida al camping](/it/guides/camping/).
 - **Più di 100 ricette**, di cui gli istruttori ne insegnano solo una dozzina. Le altre arrivano da venditori, bottino, missioni e dall’[Azeroth Commerce Authority](/it/reputations/azeroth-commerce-authority/).
@@ -96,7 +96,7 @@ Le ricette vengono dai venditori:
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6330"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Bristle Whisker Catfish</a> | 100 | Catherine Leland, Stormwind (/way 55.0 69.6) | Naal Mistrunner, Thunder Bluff (/way 51.0 52.8) |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=17062"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Mithril Head Trout</a> | 175 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=5162">Tansy Puddlefizz</a>, Ironforge (/way 47.8 6.6) | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3333">Shankys</a>, Orgrimmar (/way 70.0 30.6) |
 
-Wowhead non ha ancora pubblicato un percorso da 225 a 300.
+Un percorso da 225 a 300 non è ancora noto.
 
 ## Vecchi piatti, nuovi buff
 
@@ -119,7 +119,7 @@ Ogni buff dura 15 minuti e parte dopo 10 secondi di pasto.
 
 ## Nuove ricette
 
-Ogni nuova ricetta di Forever con l’abilità che richiede e da dove arriva, secondo Wowhead. «Non ancora noto» vuol dire che la fonte non è ancora stata trovata sulla beta.
+Ogni nuova ricetta di Forever con l’abilità che richiede e da dove arriva. «Non ancora noto» vuol dire che la fonte non è ancora stata trovata sulla beta.
 
 | Ricetta | Abilità | Fonte |
 |---|---|---|

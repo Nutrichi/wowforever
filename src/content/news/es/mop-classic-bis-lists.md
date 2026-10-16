@@ -25,4 +25,4 @@ Algunas especializaciones mantienen abalorios de Throne of Thunder en fases post
 
 ## Fuentes
 
-Las listas se basan en las guías de equipo de Icy Veins. Algunas procedencias de objetos erróneas en las páginas de origen se corrigieron con las listas de encuentros, como la banda de Jin'rokh the Breaker, el primer jefe de Throne of Thunder.
+Las listas se basan en guías de equipo reconocidas. Algunas procedencias de objetos erróneas en las páginas de origen se corrigieron con las listas de encuentros, como la banda de Jin'rokh the Breaker, el primer jefe de Throne of Thunder.

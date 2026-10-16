@@ -13,7 +13,7 @@ faq:
   - q: "Comment invoquer Tuten'kash ?"
     a: "Frappez le gong. Des vagues d’araignées arrivent d’abord ; frappez à nouveau après chaque vague jusqu’à l’apparition de Tuten'kash."
   - q: "Le butin de Razorfen Downs a-t-il changé dans WoW Forever ?"
-    a: "En partie. Glutton's Cleaver, Coldrage Dagger et plusieurs objets de lanceurs de sorts ont de nouvelles caractéristiques. Beaucoup d’objets, comme X'caliboar, ne figurent pas encore dans les données de Forever de Wowhead."
+    a: "En partie. Glutton's Cleaver, Coldrage Dagger et plusieurs objets de lanceurs de sorts ont de nouvelles caractéristiques. Beaucoup d’objets, comme X'caliboar, ne figurent pas encore dans les données de Forever."
 sources:
   - name: "Wowhead, le guide du donjon"
     url: "https://www.wowhead.com/forever/guide/razorfen-downs-dungeon-overview-location-rewards"
@@ -53,7 +53,7 @@ Razorfen Downs est l’ancienne capitale des quilboar, née des mêmes lianes g�
 | <a href="https://www.wowhead.com/forever/quest=3341">Bring the End</a><br>Horde | Undercity, Magic Quarter : Andrew Brownell /way 74.0 32.8 | 37 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10823"><img class="wf-wh__icon" src="/wh/inv_sword_35.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vanquisher's Sword</a> ou <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10824"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amberglow Talisman</a> |
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter : Varimathras /way 56.6 92.6<br><em>Terminez d’abord An Unholy Alliance de Razorfen Kraul.</em> | 28 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> ou <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
 
-Le niveau est le niveau minimum pour prendre la quête, selon Wowhead. La Dragonclaw Ring ne figure pas encore dans les données de Forever de Wowhead.
+Le niveau est le niveau minimum pour prendre la quête. La Dragonclaw Ring ne figure pas encore dans les données de Forever.
 
 - **A Host of Evil.** Tuez des Death's Head Cultists, des Razorfen Battleguards et des Razorfen Thornweavers dans tout le donjon.
 - **Scourge of the Downs et Extinguishing the Idol.** Chaque joueur parle deux fois à Belnistrasz pour la première quête ; la troisième fois lance l’escorte. Protégez-le pendant que son rituel éteint l’idole. Plaguemaw the Rotting arrive à la fin.
@@ -66,7 +66,7 @@ Les Freezing Spirits fantomatiques lancent Frost Nova. Restez groupés sur le ta
 
 ## Les boss et leur butin
 
-Le butin par boss vient de Wowhead, avec les caractéristiques des fichiers de la bêta. Wowhead indique d’autres objets qui ne figurent pas encore dans les données de Forever de ses infobulles ; ils sont cités sans lien.
+Le butin par boss a les caractéristiques des fichiers de la bêta. D’autres objets ne figurent pas encore dans les données de Forever ; ils sont cités sans lien.
 
 ### Tuten'kash
 
@@ -99,7 +99,7 @@ Un combat simple. Sortez de son Disease Cloud et soignez le tank pendant son Enr
 
 ### Ragglesnout, un rare
 
-Son Dominate Mind est le danger : si le tank ou le soigneur est contrôlé, les hybrides prennent le relais. Interrompez son Heal et ses Shadow Bolts. Wowhead indique pour lui Savage Boar's Guard, Boar Champion's Belt et X'caliboar.
+Son Dominate Mind est le danger : si le tank ou le soigneur est contrôlé, les hybrides prennent le relais. Interrompez son Heal et ses Shadow Bolts. D’anciennes listes de butin indiquent pour lui Savage Boar's Guard, Boar Champion's Belt et X'caliboar.
 
 ### Amnennar the Coldbringer
 
@@ -115,7 +115,7 @@ Le dernier boss. Tankez-le face à la tente où il se tient pour neutraliser Amn
 
 ### Plaguemaw the Rotting
 
-La fin de l’escorte de Belnistrasz. Tuez les vagues une par une, idéalement avec un second tank qui les détourne de Belnistrasz. Plaguemaw lui-même est un combat simple. Wowhead indique pour lui Swine Fists et Plaguerot Sprig.
+La fin de l’escorte de Belnistrasz. Tuez les vagues une par une, idéalement avec un second tank qui les détourne de Belnistrasz. Plaguemaw lui-même est un combat simple. D’anciennes listes de butin indiquent pour lui Swine Fists et Plaguerot Sprig.
 
 <div class="wf-shots">
 

@@ -1,6 +1,6 @@
 ---
 title: "Classic Era ha liste BiS per tutte le 27 spec"
-description: "189 liste best-in-slot per WoW Classic Era coprono ogni classe e specializzazione, dall’equipaggiamento pre-raid a sei fasi di raid, sulla base delle guide all’equipaggiamento di Icy Veins."
+description: "189 liste best-in-slot per WoW Classic Era coprono ogni classe e specializzazione, dall’equipaggiamento pre-raid a sei fasi di raid, sulla base di guide all’equipaggiamento affermate."
 date: 2026-07-22
 category: classic
 lang: it
@@ -19,8 +19,8 @@ Le fasi seguono l’uscita originale del 2019. Molten Core e Onyxia's Lair sono 
 
 ## Fonti
 
-Le liste si basano sulle guide all’equipaggiamento di Icy Veins. Per la fase 2, Icy Veins non ha una lista separata per Dire Maul. Quella fase usa la sua lista rifinita per Molten Core e Onyxia's Lair, integrata con oggetti PvP e dei world boss. La lista della fase 4 di Icy Veins copre insieme Zul'Gurub e Blackwing Lair. Entrambe le scelte sono indicate sulle liste stesse.
+Le liste si basano su guide all’equipaggiamento affermate. Per la fase 2, quelle guide non hanno una lista separata per Dire Maul. Quella fase usa la lista rifinita per Molten Core e Onyxia's Lair, integrata con oggetti PvP e dei world boss. La lista della fase 4 copre insieme Zul'Gurub e Blackwing Lair. Entrambe le scelte sono indicate sulle liste stesse.
 
-Le prime liste pre-raid, per Holy e Discipline Priest e per Protection Warrior, venivano dalle guide della community di Warcraft Tavern. Usano equipaggiamento dei dungeon di livello da 51 a 60, come Blackrock Depths, Scholomance e Stratholme, oltre a oggetti trovati nel mondo e missioni.
+Le prime liste pre-raid, per Holy e Discipline Priest e per Protection Warrior, venivano da guide della community. Usano equipaggiamento dei dungeon di livello da 51 a 60, come Blackrock Depths, Scholomance e Stratholme, oltre a oggetti trovati nel mondo e missioni.
 
 Classic Era non ha incastonature per gemme. Blizzard le ha aggiunte in The Burning Crusade. Ogni lista resta segnata come bozza finché non viene controllata a mano.

@@ -98,7 +98,7 @@ Uno de los espías suelta un [Dark Iron Map](https://www.wowhead.com/forever/ite
 
 ![Afadra Dunwall en una biblioteca llena de libros, subiendo la escalera desde la entrada de The Hall of Thanes](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-afadra-dunwall.jpg)
 
-**An Ancient Grudge.** Un Ghostly Attendant espera en la segunda sala, Anvilmar's Rest. Pide dar descanso al espíritu de Faldrim Anvilmar, el primer jefe. Es la única misión que también puede hacer la Horde. Quien sale sin Hearthstone vuelve a pasar a su lado, escribe Warcraft Tavern. Recompensa: la Catacomb Cloak o los Deepgrave Trousers.
+**An Ancient Grudge.** Un Ghostly Attendant espera en la segunda sala, Anvilmar's Rest. Pide dar descanso al espíritu de Faldrim Anvilmar, el primer jefe. Es la única misión que también puede hacer la Horde. Quien sale sin Hearthstone vuelve a pasar a su lado. Recompensa: la Catacomb Cloak o los Deepgrave Trousers.
 
 ![El Ghostly Attendant con la ventana de misión de An Ancient Grudge abierta, entre los fantasmas de la primera sala](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-ghostly-attendant.jpg)
 
@@ -160,7 +160,7 @@ Un fantasma que patrulla el centro de Anvilmar's Rest. Limpia un lado de la sala
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_11.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271096">Aetherwisp Bracers</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Cloth</span></span><span class="wf-item__line">15 Armor</span><span class="wf-item__line">+3 Stamina</span><span class="wf-item__line">Durability 20 / 20</span><span class="wf-item__line">Requires Level 13</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span></div></div>
 </div>
 
-Faldrim no arrastra a los fantasmas de su alrededor, escribe Warcraft Tavern, pero deja espacio antes del pull de todos modos.
+Faldrim no arrastra a los fantasmas de su alrededor, pero deja espacio antes del pull de todos modos.
 
 ### Magmatus
 

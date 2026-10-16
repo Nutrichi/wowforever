@@ -46,7 +46,7 @@ Shadowfang Keep era el castillo del Baron Silverlaine en Silverpine Forest. El A
 
 El castillo está en las montañas justo al norte de Pyrewood Village, en Silverpine Forest, en /way 44.5 68.0. Para la Horde, el Sepulcher con los tres que dan las misiones queda a poca distancia.
 
-Para la Alliance, Silverpine Forest a este nivel es un viaje largo y peligroso. Los personajes Skyborne lo tienen más fácil: llegan a la zona bastante rápido desde Dalaran, escribe Warcraft Tavern.
+Para la Alliance, Silverpine Forest a este nivel es un viaje largo y peligroso. Los personajes Skyborne lo tienen más fácil: llegan a la zona bastante rápido desde Dalaran.
 
 ## La ruta
 
@@ -65,7 +65,7 @@ Para la Alliance, Silverpine Forest a este nivel es un viaje largo y peligroso. 
 | <a href="https://www.wowhead.com/forever/quest=1098">Deathstalkers in Shadowfang</a><br>Compartible | Silverpine Forest, Sepulcher: High Executor Hadrec /way 43 41 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3324"><img class="wf-wh__icon" src="/wh/inv_shoulder_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostly Mantle</a> |
 | <a href="https://www.wowhead.com/forever/quest=1014">Arugal Must Die</a><br>Compartible | Silverpine Forest, Sepulcher: Dalar Dawnweaver /way 44 39 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6414"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Sylvanas</a> |
 
-El nivel es el mínimo para aceptar la misión, según Wowhead. Ninguna de las tres pide una misión previa, así que un grupo de la Horde puede cogerlas todas a la vez y compartirlas. Las recompensas vienen de Wowhead; cuando no indica ninguna, aún no se conocen.
+El nivel es el mínimo para aceptar la misión. Ninguna de las tres pide una misión previa, así que un grupo de la Horde puede cogerlas todas a la vez y compartirlas. Cuando no se indica ninguna recompensa, aún no se conoce.
 
 ### Deathstalkers in Shadowfang
 
@@ -83,7 +83,7 @@ Dos misiones de clase también llevan aquí: <a href="https://www.wowhead.com/fo
 
 ## Los jefes y su botín
 
-El botín de cada jefe viene de Wowhead, con las estadísticas de los archivos de la beta.
+El botín de cada jefe tiene las estadísticas de los archivos de la beta.
 
 ### Rethilgore
 
@@ -95,7 +95,7 @@ Un worgen élite de nivel 20 con dos Bleak Worgs y un Shadowfang Whitescalp. Los
 
 ### Fel Steeds y el Shadow Charger
 
-Los <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> y el <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> pegan muy fuerte, y atraer a uno atrae a los tres, escribe Wowhead. Polimorfa a uno y deja que la mascota de un Hunter o un Warlock tanquee a otro.
+Los <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3864">Fel Steed</a> y el <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3865">Shadow Charger</a> pegan muy fuerte, y atraer a uno atrae a los tres. Polimorfa a uno y deja que la mascota de un Hunter o un Warlock tanquee a otro.
 
 | Objeto | Nuevo en Forever |
 |---|---|
@@ -181,5 +181,5 @@ Tras el combate, el <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever
 ## Lo que aún no se sabe
 
 - **La probabilidad de botín** de cada jefe.
-- **Las recompensas de las misiones** que Wowhead aún no indica.
+- **Las recompensas de las misiones** que aún no se conocen.
 - **El camino de la Alliance**: lo rápido que es de verdad para los Skyborne desde Dalaran.

@@ -19,7 +19,7 @@ Stormwind is de factie van Stormwind City, de hoofdstad van de mensen in het noo
 
 ## Waar je begint
 
-Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, die de databank wago.tools uit build 1.15.9 leest.
+Waar je begint, hangt af van je ras. Dit zijn de waarden uit de factiegegevens van de Classic Era-cliënt, build 1.15.9.
 
 | Jouw ras | Standing bij het begin |
 |---|---|
@@ -42,7 +42,7 @@ Friendly telt 6.000 reputatie, dus een personage van het eigen ras van de stad b
 
 ### Quests
 
-Quests voor Stormwind geven de meeste reputatie. Wowhead wijst naar Elwynn Forest, Westfall, Redridge Mountains, Duskwood, Stormwind City, de Arathi Highlands, Dustwallow Marsh, de Stonetalon Mountains en de Western Plaguelands. De meeste quests voor één stad van de Alliance geven ook een kwart van die reputatie aan de andere steden van de Alliance.
+Quests voor Stormwind geven de meeste reputatie. De beste zones zijn Elwynn Forest, Westfall, Redridge Mountains, Duskwood, Stormwind City, de Arathi Highlands, Dustwallow Marsh, de Stonetalon Mountains en de Western Plaguelands. De meeste quests voor één stad van de Alliance geven ook een kwart van die reputatie aan de andere steden van de Alliance.
 
 ### Stofdonaties
 

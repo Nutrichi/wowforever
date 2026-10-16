@@ -18,7 +18,7 @@ Undercity is the faction of the Forsaken capital under the ruins of Lordaeron in
 
 ## Where you start
 
-Where you start depends on your race. These are the values in the faction data of the Classic Era client, which the database wago.tools reads out of build 1.15.9.
+Where you start depends on your race. These are the values in the faction data of the Classic Era client, build 1.15.9.
 
 | Your race | Standing at the start |
 |---|---|
@@ -41,7 +41,7 @@ Orcs, Tauren and Trolls begin at Neutral here, a standing lower than the Forsake
 
 ### Quests
 
-Quests for Undercity give the most reputation. Wowhead points to Tirisfal Glades, Silverpine Forest, Hillsbrad Foothills, the Arathi Highlands, The Hinterlands and the Western Plaguelands. Most quests for one Horde city also give a quarter of that reputation to the other Horde cities.
+Quests for Undercity give the most reputation. The best zones are Tirisfal Glades, Silverpine Forest, Hillsbrad Foothills, the Arathi Highlands, The Hinterlands and the Western Plaguelands. Most quests for one Horde city also give a quarter of that reputation to the other Horde cities.
 
 ### Cloth donations
 

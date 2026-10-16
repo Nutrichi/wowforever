@@ -13,7 +13,7 @@ faq:
   - q: "Wat is de achterdeur van Gnomeregan?"
     a: "Een tweede ingang aan de noordkant van het Train Depot, bij Crowd Pummeler 9-60. Je hebt de Workshop Key van Electrocutioner 6000 nodig of een Rogue met Lockpicking 150."
   - q: "Is de loot van Gnomeregan veranderd in WoW Forever?"
-    a: "Deels. Verschillende items voor casters kregen spell damage en healing, en Electrocutioner Leg doet dubbele schade aan Mechanical-doelwitten. Thermaplugg's Left Arm en de Electromagnetic Gigaflux Reactivator staan nog niet in de data van Forever van Wowhead."
+    a: "Deels. Verschillende items voor casters kregen spell damage en healing, en Electrocutioner Leg doet dubbele schade aan Mechanical-doelwitten. Thermaplugg's Left Arm en de Electromagnetic Gigaflux Reactivator staan nog niet in de data van Forever."
 sources:
   - name: "Wowhead, de dungeongids"
     url: "https://www.wowhead.com/forever/guide/gnomeregan-dungeon-overview-location-rewards"
@@ -60,7 +60,7 @@ Gnomeregan was de hoofdstad van de gnomes in Dun Morogh, tot troggs binnenvielen
 | <a href="https://www.wowhead.com/forever/quest=2841">Rig Wars</a><br>Horde | Orgrimmar, Valley of Honor: Nogg /way 76 25 | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9623"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Civinad Robes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9624"><img class="wf-wh__icon" src="/wh/inv_pants_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Triprunner Dungarees</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9625"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dual Reinforced Leggings</a> |
 | <a href="https://www.wowhead.com/forever/quest=2842">Chief Engineer Scooty</a><br>Horde | Orgrimmar, Valley of Honor: Sovik /way 76 25<br><em>Neem eerst Rig Wars aan; gaat verder met <a href="https://www.wowhead.com/forever/quest=2843">Gnomer-gooooone!</a>.</em> | 20 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9173"><img class="wf-wh__icon" src="/wh/inv_battery_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goblin Transponder</a> |
 
-Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead. De quests van de Alliance geven ook reputatie bij Gnomeregan Exiles.
+Het level is het laagste level waarop je de quest kan aannemen. De quests van de Alliance geven ook reputatie bij Gnomeregan Exiles.
 
 - **A Fine Mess.** Kernobee wacht in The Dormitory, net na The Clean Room. Escorteer hem naar de ingang en lever in bij Scooty in Booty Bay.
 - **The Sparklematic 5200!** Stop 3 Grime-Encrusted Objects in een Sparklematic-machine in The Clean Room. Herhaalbaar, met experience alleen de eerste keer.
@@ -74,7 +74,7 @@ Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead.
 
 ## De bazen en hun loot
 
-De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta.
+De loot per baas heeft de stats uit de bestanden van de beta.
 
 ### Grubbis
 
@@ -132,7 +132,7 @@ De eindbaas, in het Tinkers' Court. Walking Bombs komen tijdens het gevecht uit 
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9458"><img class="wf-wh__icon" src="/wh/inv_shield_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thermaplugg's Central Core</a> | De Nature damage bij een treffer stijgt van 35-65 naar 65-121 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9461"><img class="wf-wh__icon" src="/wh/inv_misc_gear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Charged Gear</a> | Geen willekeurige enchantment meer, level 31 |
 
-Wowhead noemt voor hem ook Thermaplugg's Left Arm en de Electromagnetic Gigaflux Reactivator. Geen van beide staat al in de data van Forever van Wowhead.
+Oudere lootlijsten noemen voor hem ook Thermaplugg's Left Arm en de Electromagnetic Gigaflux Reactivator. Geen van beide staat al in de data van Forever.
 
 ## Dozen en kisten
 

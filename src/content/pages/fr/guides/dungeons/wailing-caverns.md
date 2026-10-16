@@ -54,7 +54,7 @@ Wailing Caverns est un dédale de grottes sous The Barrens, où le druide Narale
 | <a href="https://www.wowhead.com/forever/quest=914">Leaders of the Fang</a><br>Horde | Thunder Bluff, Elder Rise : Nara Wildmane /way 45 23<br><em>Terminez d’abord 5 quêtes, à commencer par The Forgotten Pools de Tonga Runetotem aux Crossroads.</em> | 15 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6505"><img class="wf-wh__icon" src="/wh/inv_staff_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Crescent Staff</a> ou <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6504"><img class="wf-wh__icon" src="/wh/inv_sword_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wingblade</a> |
 | <a href="https://www.wowhead.com/forever/quest=962">Serpentbloom</a><br>Horde | Thunder Bluff, Pools of Vision : Apothecary Zamah /way 34 21 | 14 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> |
 
-Le niveau est le niveau minimum pour prendre la quête, selon Wowhead.
+Le niveau est le niveau minimum pour prendre la quête.
 
 - **Deviate Eradication.** Tuez une liste de monstres dans tout le donjon.
 - **Deviate Hides.** Récupérez 20 Deviate Hides ; la plupart des monstres à l’intérieur en lâchent.
@@ -70,7 +70,7 @@ Les Druids of the Fang sont les monstres à surveiller. Leur Druid's Slumber end
 
 ## Les boss et leur butin
 
-Le butin par boss vient de Wowhead, avec les caractéristiques des fichiers de la bêta.
+Le butin par boss a les caractéristiques des fichiers de la bêta.
 
 ### Kresh
 

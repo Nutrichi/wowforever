@@ -23,7 +23,7 @@ I Magram Clan Centaur vivono nell'est di Desolace e sono i nemici giurati dei [G
 
 ## Da dove parti
 
-Ogni personaggio parte da Neutral, a 2.000 dei 3.000 di quel livello, quindi a 1.000 da Friendly. Quel valore viene dai dati di fazione del client di Classic Era, che il database wago.tools legge dalla build 1.15.9.
+Ogni personaggio parte da Neutral, a 2.000 dei 3.000 di quel livello, quindi a 1.000 da Friendly. Quel valore viene dai dati di fazione del client di Classic Era, build 1.15.9.
 
 ## I livelli di reputazione
 

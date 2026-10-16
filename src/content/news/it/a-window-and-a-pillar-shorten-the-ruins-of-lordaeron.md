@@ -1,6 +1,6 @@
 ---
 title: "Una finestra e una colonna accorciano le Ruins of Lordaeron"
-description: "Warcraft Tavern ha tracciato le Ruins of Lordaeron come un percorso a U con scorciatoie, gargoyle che tornano di pietra e un capitano raro che solo l’Orda può combattere."
+description: "Le Ruins of Lordaeron seguono un percorso a U con scorciatoie, gargoyle che tornano di pietra e un capitano raro che solo l’Orda può combattere."
 date: 2026-09-29T23:45:00+02:00
 category: forever
 lang: it
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Le Ruins of Lordaeron seguono un percorso a U con alcune scorciatoie, secondo una nuova guida di Warcraft Tavern. Una finestra salta i primi gruppi di ragni e una colonna spezzata porta oltre The Baron. Un capitano raro combatte solo l’Orda.
+Le Ruins of Lordaeron seguono un percorso a U con alcune scorciatoie. Una finestra salta i primi gruppi di ragni e una colonna spezzata porta oltre The Baron. Un capitano raro combatte solo l’Orda.
 
 ## Le scorciatoie
 

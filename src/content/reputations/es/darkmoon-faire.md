@@ -50,7 +50,7 @@ Cada entrega da 100 de reputación y una cantidad de Darkmoon Faire Prize Ticket
 | 4 | 12 | 30 | 2.500 dentro de Neutral |
 | 5 | 20 | 40 | 5.999 dentro de Friendly |
 
-Varios jugadores cuentan en los comentarios de Wowhead que el nivel 5 deja de dar reputación ya alrededor de 2.000 dentro de Friendly, mientras que la entrega en sí sigue disponible para conseguir tickets.
+Varios jugadores cuentan que el nivel 5 deja de dar reputación ya alrededor de 2.000 dentro de Friendly, mientras que la entrega en sí sigue disponible para conseguir tickets.
 
 | Quien da la misión | Entregas | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 | Nivel 5 |
 |---|---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Las cartas se pueden intercambiar; los abalorios son Bind on Pickup y piden nive
 ## El camino más rápido a Exalted
 
 1. Entrega cada nivel mientras tu nivel de personaje y tu reputación lo permitan; un nivel que te saltes desaparece en cuanto pasas su límite.
-2. Después solo cuentan las barajas. Wowhead calcula unas 220 barajas hasta Exalted, así que es un objetivo solo para coleccionistas.
+2. Después solo cuentan las barajas. Hacen falta unas 220 barajas hasta Exalted, así que es un objetivo solo para coleccionistas.
 
 ## Qué compran los tickets
 

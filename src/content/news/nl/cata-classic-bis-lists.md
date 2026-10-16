@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-De [best-in-slotlijsten](/nl/bis/cata/) voor Cataclysm Classic dekken nu alle 30 specs. Het gaat om 120 lijsten voor pre-raidgear en drie raidtiers, tot Dragon Soul. Ze zijn gebaseerd op de gearguides van Icy Veins voor Cataclysm Classic.
+De [best-in-slotlijsten](/nl/bis/cata/) voor Cataclysm Classic dekken nu alle 30 specs. Het gaat om 120 lijsten voor pre-raidgear en drie raidtiers, tot Dragon Soul. Ze zijn gebaseerd op gevestigde gearguides voor Cataclysm Classic.
 
 ## Hoe de fasen genummerd zijn
 
@@ -21,6 +21,6 @@ Fase 1 dekt Blackwing Descent, The Bastion of Twilight en Throne of the Four Win
 
 ## Pre-raid en Heroic
 
-De raidlijsten gebruiken de Heroic-items. De pre-raidlijsten vertrekken van een vers personage op level 85. Waar Icy Veins een lijst voor Hour of Twilight bijhoudt, gebruiken ze drops uit End Time, Well of Eternity en Hour of Twilight, plus valor-gear.
+De raidlijsten gebruiken de Heroic-items. De pre-raidlijsten vertrekken van een vers personage op level 85. Waar de guides een lijst voor Hour of Twilight bijhouden, gebruiken ze drops uit End Time, Well of Eternity en Hour of Twilight, plus valor-gear.
 
-Voor een paar specs heeft Icy Veins alleen een oudere pre-raidlijst, van de launch of uit de periode van Firelands. De notities op die lijsten zeggen dat. Elke lijst blijft als concept gemarkeerd tot ze met de hand is nagekeken.
+Voor een paar specs hebben de guides alleen een oudere pre-raidlijst, van de launch of uit de periode van Firelands. De notities op die lijsten zeggen dat. Elke lijst blijft als concept gemarkeerd tot ze met de hand is nagekeken.

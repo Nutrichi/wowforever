@@ -18,7 +18,7 @@ draft: false
 
 The pre-raid lists use gear from heroic dungeons, crafting, reputation, quests and badge vendors. Phase 1 covers Karazhan, Gruul's Lair and Magtheridon's Lair, with Tier 4. Phase 2 covers Serpentshrine Cavern and Tempest Keep, with Tier 5. Phase 3 adds Mount Hyjal and Black Temple with Tier 6, phase 4 Zul'Aman and phase 5 Sunwell Plateau.
 
-The Anniversary realms had not reached phases 3 to 5 when these lists appeared. Those lists are based on the original release of 2007 and 2008, as documented by Icy Veins. For about a third of the specs, Icy Veins lists the same gear for phase 3 and phase 4. The lists note that.
+The Anniversary realms had not reached phases 3 to 5 when these lists appeared. Those lists are based on the original release of 2007 and 2008. For about a third of the specs, the guides list the same gear for phase 3 and phase 4. The lists note that.
 
 ## Notable picks
 

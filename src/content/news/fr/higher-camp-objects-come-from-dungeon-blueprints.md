@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Le camping de WoW Forever gagne un deuxième et un troisième palier grâce à des blueprints. Plusieurs tombent en donjon, de The Deadmines à Shadowfang Keep. Le premier objet de chaque métier est offert par une quête au niveau 20, écrit Warcraft Tavern.
+Le camping de WoW Forever gagne un deuxième et un troisième palier grâce à des blueprints. Plusieurs tombent en donjon, de The Deadmines à Shadowfang Keep. Le premier objet de chaque métier est offert par une quête au niveau 20.
 
 ## Trois paliers par métier
 
@@ -31,7 +31,7 @@ Un palier supérieur donne le même buff que le palier 1 et ajoute un atelier ou
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Razorclaw the Butcher dans Shadowfang Keep |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a> | Pêché dans des bancs |
 
-Pour les autres blueprints, Warcraft Tavern ne donne pas encore de source.
+On ne sait pas encore d’où viennent les autres blueprints.
 
 ## Les règles d’un camp
 

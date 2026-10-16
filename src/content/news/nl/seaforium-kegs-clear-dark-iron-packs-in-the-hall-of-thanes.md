@@ -1,6 +1,6 @@
 ---
 title: "Seaforium-vaten ruimen Dark Iron-groepen op in de Hall of Thanes"
-description: "Warcraft Tavern liep de Hall of Thanes zaal per zaal door: de verborgen gang in de High Seat, vaten die groepen opblazen, een ziekte van Bloodhound Runts en een totem tegen de laatste baas."
+description: "De Hall of Thanes zaal per zaal: de verborgen gang in de High Seat, vaten die groepen opblazen, een ziekte van Bloodhound Runts en een totem tegen de laatste baas."
 date: 2026-09-29T23:40:00+02:00
 category: forever
 lang: nl
@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-Warcraft Tavern liep de Hall of Thanes, de nieuwe dungeon van de Alliance onder Ironforge, zaal per zaal door. De route wijst op vaten die groepen Dark Iron opblazen, een ziekte die je beter wegwerkt en een totem die de fear van de eindbaas onschadelijk maakt.
+Een route door de Hall of Thanes, de nieuwe dungeon van de Alliance onder Ironforge, zaal per zaal, wijst op vaten die groepen Dark Iron opblazen, een ziekte die je beter wegwerkt en een totem die de fear van de eindbaas onschadelijk maakt.
 
 ## De weg erin
 

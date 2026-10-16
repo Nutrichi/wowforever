@@ -19,7 +19,7 @@ I Gnomeregan Exiles sono gli gnomi fuggiti dalla loro città, Gnomeregan in Dun 
 
 ## Da dove parti
 
-Da dove parti dipende dalla tua razza. Questi sono i valori dei dati di fazione del client di Classic Era, che il database wago.tools legge dalla build 1.15.9.
+Da dove parti dipende dalla tua razza. Questi sono i valori dei dati di fazione del client di Classic Era, build 1.15.9.
 
 | La tua razza | Livello di partenza |
 |---|---|
@@ -42,7 +42,7 @@ Friendly contiene 6.000 di reputazione, quindi un personaggio della razza della 
 
 ### Missioni
 
-Le missioni per i Gnomeregan Exiles danno più reputazione. Wowhead indica Dun Morogh, Loch Modan, le Stonetalon Mountains, Thousand Needles, Tanaris e le Blasted Lands. La maggior parte delle missioni per una città dell'Alleanza dà anche un quarto di quella reputazione alle altre città dell'Alleanza.
+Le missioni per i Gnomeregan Exiles danno più reputazione. Le zone migliori sono Dun Morogh, Loch Modan, le Stonetalon Mountains, Thousand Needles, Tanaris e le Blasted Lands. La maggior parte delle missioni per una città dell'Alleanza dà anche un quarto di quella reputazione alle altre città dell'Alleanza.
 
 ### Donazioni di stoffa
 

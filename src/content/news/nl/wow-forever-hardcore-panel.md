@@ -15,7 +15,7 @@ manual: true
 ---
 Blizzard sprak op het What's Next-panel van BlizzCon 2026 over de toekomst van Hardcore. Twee dingen zijn nieuw voor World of Warcraft: Forever. Het spel waarschuwt spelers voor een world refresh, en een personage dat sterft kan naar elke modus buiten Hardcore.
 
-Tot nu ging een gestorven Hardcore-personage naar een PvE-realm. In Forever kiest de speler de modus, schrijft Wowhead in de liveblog.
+Tot nu ging een gestorven Hardcore-personage naar een PvE-realm. In Forever kiest de speler de modus.
 
 ## Waar Hardcore vandaan komt
 

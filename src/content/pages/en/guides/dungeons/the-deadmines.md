@@ -69,7 +69,7 @@ The Alliance has Sentinel Hill close by. The Horde has no quests in the Deadmine
 | <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Inside the dungeon: An Unsent Letter, a drop from Edwin VanCleef | 16 | Not known yet |
 | <a href="https://www.wowhead.com/forever/quest=92753">Destruction in Deadmines</a> | Westfall, Sentinel Hill: Alba Fairmoon /way 52.4 53.0<br><em>New in Forever. The end of a chain of seven quests that starts with Testing the Wells.</em> | 9 | 4,050 experience, 50 reputation with Stormwind |
 
-The level is the lowest level at which the quest can be picked up, according to Wowhead. The rewards come from Wowhead; where it lists none, they are not known yet.
+The level is the lowest level at which the quest can be picked up. Where no reward is listed, it is not known yet.
 
 ### Collecting Memories
 
@@ -137,7 +137,7 @@ Edwin VanCleef drops An Unsent Letter, which starts this quest from level 16. Br
 
 </div>
 
-Paladins of the Alliance also come here for <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, the end of the Tome of Valor chain that ends with <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: the Whitestone Oak Lumber drops from the Goblin Woodcarvers near the start. Horde Paladins get a counterpart that is new in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>, writes Wowhead. The chain starts in Bandarion Keep in Tirisfal Glades; Lumina Windsinger hands out the quest in the crypt in Silverpine Forest, /way 43 40. Both are in the [dungeon guide](/guides/dungeons/).
+Paladins of the Alliance also come here for <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, the end of the Tome of Valor chain that ends with <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: the Whitestone Oak Lumber drops from the Goblin Woodcarvers near the start. Horde Paladins get a counterpart that is new in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>. The chain starts in Bandarion Keep in Tirisfal Glades; Lumina Windsinger hands out the quest in the crypt in Silverpine Forest, /way 43 40. Both are in the [dungeon guide](/guides/dungeons/).
 
 
 ### Destruction in Deadmines
@@ -157,7 +157,7 @@ No item reward is known for the chain.
 
 ## The bosses and their loot
 
-The loot per boss comes from Wowhead, with the stats from the files of the beta.
+The loot per boss has the stats from the files of the beta.
 
 ### Rhahk'Zor
 
@@ -265,5 +265,5 @@ The stats in the files of the beta have changed since that post: the First Mate 
 ## What is not known yet
 
 - **The drop rates** of the boss loot.
-- **The quest rewards** that Wowhead does not list yet.
+- **The quest rewards** that are not known yet.
 - **The Band of the Better Half**: where it drops.

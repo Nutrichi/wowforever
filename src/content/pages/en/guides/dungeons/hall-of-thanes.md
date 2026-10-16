@@ -97,7 +97,7 @@ One of the spies drops a [Dark Iron Map](https://www.wowhead.com/forever/item=27
 
 ![Afadra Dunwall in a library full of books, up the stairs from the entrance to the Hall of Thanes](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-afadra-dunwall.jpg)
 
-**An Ancient Grudge.** A Ghostly Attendant waits in the second room, Anvilmar's Rest. She asks you to put the spirit of Faldrim Anvilmar, the first boss, to rest. This is the one quest the Horde can do too. Whoever leaves without a Hearthstone passes her again on the way out, writes Warcraft Tavern. Reward: the Catacomb Cloak or Deepgrave Trousers.
+**An Ancient Grudge.** A Ghostly Attendant waits in the second room, Anvilmar's Rest. She asks you to put the spirit of Faldrim Anvilmar, the first boss, to rest. This is the one quest the Horde can do too. Whoever leaves without a Hearthstone passes her again on the way out. Reward: the Catacomb Cloak or Deepgrave Trousers.
 
 ![The Ghostly Attendant with the quest window of An Ancient Grudge open, between the ghosts of the first room](../../../../../assets/posts/2026-09-26-wow-forever-hall-of-thanes-ghostly-attendant.jpg)
 
@@ -159,7 +159,7 @@ A ghost who patrols the middle of Anvilmar's Rest. Clear one side of the room, w
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_11.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271096">Aetherwisp Bracers</a><span class="wf-item__line wf-item__meta">Item Level 18</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Cloth</span></span><span class="wf-item__line">15 Armor</span><span class="wf-item__line">+3 Stamina</span><span class="wf-item__line">Durability 20 / 20</span><span class="wf-item__line">Requires Level 13</span><span class="wf-item__line wf-item__use">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span></div></div>
 </div>
 
-Faldrim does not pull the ghosts around him along, writes Warcraft Tavern, but give yourself room before the pull anyway.
+Faldrim does not pull the ghosts around him along, but give yourself room before the pull anyway.
 
 ### Magmatus
 

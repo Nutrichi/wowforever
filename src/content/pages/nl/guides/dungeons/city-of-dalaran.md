@@ -7,7 +7,7 @@ updated: 2026-10-16
 lang: nl
 faq:
   - q: "Welk level is de City of Dalaran in WoW Forever?"
-    a: "Blizzard geeft 28 tot 33. Wowhead raadt level 28 tot 35 aan."
+    a: "Blizzard geeft 28 tot 33. Aangeraden is level 28 tot 35."
   - q: "Hoe kom je in de City of Dalaran?"
     a: "De Alliance gaat binnen via een buis in Cantrips & Crows, in de Dalaran Sewers. De Horde komt binnen via een tunnel buiten de stad, op /way 8.8 59.6; één speler in de groep heeft de Dalaran Sewer Key nodig."
   - q: "Hoe krijgt de Horde de Dalaran Sewer Key?"
@@ -15,7 +15,7 @@ faq:
   - q: "Werkt Arcane damage in de City of Dalaran?"
     a: "Nauwelijks. Bijna elk monster in de dungeon is immuun voor Arcane, dus Arcane Explosion, Arcane Shot en Counterspell helpen weinig."
   - q: "Wat laat de City of Dalaran vallen?"
-    a: "Nog niet bekend. De bazen liggen boven de levelgrens van de beta, en Wowhead heeft voor hen nog geen loot."
+    a: "Nog niet bekend. De bazen liggen boven de levelgrens van de beta, en hun loot is nog niet bekend."
   - q: "Hoe roep je Lyn the Ignored op in City of Dalaran?"
     a: "Neem de Black Tome uit de kamer van Archmage Arugal in Shadowfang Keep, maak er bij de Ambermill Leyline Focus de Tome of Dalaran van, en gebruik dat boek op de paarse cirkel in het riool voorbij Atrexis the Grave Knight. Het boek raakt niet op en werkt na 3 minuten opnieuw."
 sources:
@@ -40,7 +40,7 @@ De City of Dalaran is een van de nieuwe dungeons van WoW Forever. De violette ko
 | Let op | Bijna elk monster is immuun voor Arcane |
 | Korte naam | CoD |
 
-Sinds de [betabuild van 8 oktober](/nl/news/city-of-dalaran-opens-in-the-fourth-beta-week/) kan de dungeon getest worden op de beta. De beta gaat sinds 1 oktober tot level 30. De laatste bazen liggen daarboven, dus Wowhead kent nog niet al hun mechanieken.
+Sinds de [betabuild van 8 oktober](/nl/news/city-of-dalaran-opens-in-the-fourth-beta-week/) kan de dungeon getest worden op de beta. De beta gaat sinds 1 oktober tot level 30. De laatste bazen liggen daarboven, dus nog niet al hun mechanieken zijn bekend.
 
 ## De weg erheen
 

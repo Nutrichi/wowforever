@@ -33,7 +33,7 @@ Il 18 settembre un giocatore ha condiviso uno screenshot sul subreddit classicwo
   </button>
 </figure>
 
-I bot morivano lungo la strada verso nord per copiare erbe come Mountain Silversage, Icecap e Black Lotus, scrive Icy Veins. Su una beta limitata al livello 20 quelle erbe servono a poco. L'oro dei bot veniva comunque venduto per soldi veri, ha scritto un giocatore sui forum ufficiali il 19 settembre.
+I bot morivano lungo la strada verso nord per copiare erbe come Mountain Silversage, Icecap e Black Lotus. Su una beta limitata al livello 20 quelle erbe servono a poco. L'oro dei bot veniva comunque venduto per soldi veri, ha scritto un giocatore sui forum ufficiali il 19 settembre.
 
 ## La nuova regola
 
@@ -45,6 +45,6 @@ Peacebloom resta aperta a un personaggio nuovo. Per Black Lotus, a 300 di abilit
 
 ## Il tempo di ricarica
 
-Icy Veins scrive anche che il tempo di ricarica è passato da 23 ore a 1 ora, perché i giocatori usino la racial più spesso. Le note di sviluppo di Blizzard non citano il tempo di ricarica. Un giocatore sui forum vedeva già un tempo di ricarica di 1 ora il 20 settembre, prima della nuova build.
+Anche il tempo di ricarica sarebbe passato da 23 ore a 1 ora, perché i giocatori usino la racial più spesso. Le note di sviluppo di Blizzard non citano il tempo di ricarica. Un giocatore sui forum vedeva già un tempo di ricarica di 1 ora il 20 settembre, prima della nuova build.
 
 Non si sa se la regola fermerà i bot. Le racial di Forever sono nel post sulle [nuove combinazioni di razze e classi](/it/news/orc-mages-and-undead-paladins-arrive/).

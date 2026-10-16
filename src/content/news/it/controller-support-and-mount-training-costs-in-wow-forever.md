@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-World of Warcraft: Forever supporta ufficialmente i controller. L'oro per una cavalcatura passa al riding training, che costa 100 o 1.000 monete d'oro a seconda del livello, e la prima cavalcatura è gratuita. Lo dice Blizzard in un'intervista con Sportskeeda, riassunta da Wowhead.
+World of Warcraft: Forever supporta ufficialmente i controller. L'oro per una cavalcatura passa al riding training, che costa 100 o 1.000 monete d'oro a seconda del livello, e la prima cavalcatura è gratuita. Lo dice Blizzard in un'intervista con Sportskeeda.
 
 ## Il supporto ai controller stavolta è ufficiale
 

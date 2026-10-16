@@ -19,7 +19,7 @@ Les Darkspear Trolls sont la tribu de trolls exilés qui a rejoint Thrall et la 
 
 ## Votre point de départ
 
-Votre point de départ dépend de votre race. Ce sont les valeurs des données de faction du client Classic Era, que la base wago.tools lit dans la build 1.15.9.
+Votre point de départ dépend de votre race. Ce sont les valeurs des données de faction du client Classic Era, build 1.15.9.
 
 | Votre race | Niveau au départ |
 |---|---|
@@ -45,7 +45,7 @@ Les Forsaken font exception. Ils commencent ici à Neutral, un niveau sous le re
 
 ### Les quêtes
 
-Les quêtes pour les Darkspear Trolls donnent le plus de réputation. Wowhead cite Durotar et Feralas. La plupart des quêtes pour une faction de la Horde donnent aussi un quart de cette réputation aux autres cités de la Horde.
+Les quêtes pour les Darkspear Trolls donnent le plus de réputation. Les meilleures zones sont Durotar et Feralas. La plupart des quêtes pour une faction de la Horde donnent aussi un quart de cette réputation aux autres cités de la Horde.
 
 ### Les dons de tissu
 

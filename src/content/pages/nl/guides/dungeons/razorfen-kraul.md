@@ -54,7 +54,7 @@ Razorfen Kraul groeide waar het bloed van de halfgod Agamaggan viel, tienduizend
 | <a href="https://www.wowhead.com/forever/quest=1109">Going, Going, Guano!</a><br>Horde | Undercity, The Apothecarium: Master Apothecary Faranell /way 48 69 | 30 | Experience en silver |
 | <a href="https://www.wowhead.com/forever/quest=6522">An Unholy Alliance</a><br>Horde | In de dungeon: Small Scroll, een drop van Charlga Razorflank | 28 | Gaat verder in Razorfen Downs |
 
-Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead.
+Het level is het laagste level waarop je de quest kan aannemen.
 
 - **Blueleaf Tubers.** Neem de Crate With Holes, de Snufflenose Owner's Manual en de Snufflenose Command Stick naast Mebok mee. Binnen roept de krat een Snufflenose Gopher op; met de stok graaft hij een knol op. Herhaal tot je er 6 hebt.
 - **Willix the Importer.** Een escorte aan het einde van de dungeon. Het pad komt langs veel Blueleaf Tubers.
@@ -71,7 +71,7 @@ Het level is het laagste level waarop je de quest kan aannemen, volgens Wowhead.
 
 ## De bazen en hun loot
 
-De loot per baas komt van Wowhead, met de stats uit de bestanden van de beta.
+De loot per baas heeft de stats uit de bestanden van de beta.
 
 ### Roogug
 

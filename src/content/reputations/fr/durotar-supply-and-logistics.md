@@ -36,7 +36,7 @@ Le camp se trouve juste devant la Crossroads, dans The Barrens. Les caisses vont
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Commissaire-priseur | 49.8 29.4 |
 
-Ce sont les positions des pages de PNJ de Wowhead ; son guide de réputation donne /way 42 34 pour le camp. Le camp de l’Alliance à Three Corners a des vendeurs avec des recettes pour sept métiers, une monture et des titres. Si le camp de la Horde vend la même chose, les guides ne le montrent pas encore.
+Ce sont les positions des PNJ ; un guide de réputation donne /way 42 34 pour le camp. Le camp de l’Alliance à Three Corners a des vendeurs avec des recettes pour sept métiers, une monture et des titres. Si le camp de la Horde vend la même chose, les guides ne le montrent pas encore.
 
 ## Les niveaux
 

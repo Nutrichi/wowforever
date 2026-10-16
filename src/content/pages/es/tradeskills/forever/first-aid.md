@@ -24,7 +24,7 @@ First Aid es una profesión secundaria, así que nunca ocupa una de tus dos plaz
 ## Qué cambia en Forever
 
 - **Las pociones de sanación** pasan de Alchemy a First Aid. Funcionan en combate, así que First Aid también compensa a los sanadores.
-- **Remedios** contra enfermedad y sangrado se suman a los antídotos. Los nuevos no se pueden usar en combate, escribe Warcraft Tavern.
+- **Remedios** contra enfermedad y sangrado se suman a los antídotos. Los nuevos no se pueden usar en combate.
 - **Objetos de campamento:** un First Aid Kit para la Stamina, y dos talleres con pociones en el campamento.
 - **Las vendas** de Classic siguen todas ahí.
 
@@ -106,7 +106,7 @@ Cómo funciona un campamento está en la [guía de camping](/es/guides/camping/)
 
 ## Subir la profesión
 
-Wowhead tiene ahora dos rutas completas. Las dos piden los mismos libros desde 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> para el rango, y los manuales <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> y <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, todos de los vendedores Expert de arriba. Se pueden comerciar, así que la casa de subastas también sirve.
+Ahora hay dos rutas completas. Las dos piden los mismos libros desde 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> para el rango, y los manuales <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> y <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, todos de los vendedores Expert de arriba. Se pueden comerciar, así que la casa de subastas también sirve.
 
 **La ruta rápida hasta 150: pociones de sanación.** Las pociones se saltan las vendas y solo piden hierbas, un vial y especias de un vendedor de profesiones.
 

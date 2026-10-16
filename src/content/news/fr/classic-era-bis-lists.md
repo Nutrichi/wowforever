@@ -1,6 +1,6 @@
 ---
 title: "Classic Era a des listes BiS pour les 27 specs"
-description: "189 listes best-in-slot pour WoW Classic Era couvrent chaque classe et spécialisation, de l’équipement pré-raid à six phases de raid, d’après les guides d’équipement d’Icy Veins."
+description: "189 listes best-in-slot pour WoW Classic Era couvrent chaque classe et spécialisation, de l’équipement pré-raid à six phases de raid, d’après des guides d’équipement reconnus."
 date: 2026-07-22
 category: classic
 lang: fr
@@ -19,8 +19,8 @@ Les phases suivent la sortie d’origine de 2019. Molten Core et Onyxia's Lair f
 
 ## Sources
 
-Les listes s’appuient sur les guides d’équipement d’Icy Veins. Pour la phase 2, Icy Veins n’a pas de liste séparée pour Dire Maul. Cette phase utilise sa liste affinée pour Molten Core et Onyxia's Lair, complétée par des objets PvP et de boss mondiaux. La liste de phase 4 d’Icy Veins couvre Zul'Gurub et Blackwing Lair ensemble. Ces deux choix sont indiqués sur les listes elles-mêmes.
+Les listes s’appuient sur des guides d’équipement reconnus. Pour la phase 2, ces guides n’ont pas de liste séparée pour Dire Maul. Cette phase utilise la liste affinée pour Molten Core et Onyxia's Lair, complétée par des objets PvP et de boss mondiaux. La liste de phase 4 couvre Zul'Gurub et Blackwing Lair ensemble. Ces deux choix sont indiqués sur les listes elles-mêmes.
 
-Les premières listes pré-raid, pour les Holy et Discipline Priests et les Protection Warriors, venaient des guides communautaires de Warcraft Tavern. Elles utilisent l’équipement des donjons de niveau 51 à 60, comme Blackrock Depths, Scholomance et Stratholme, ainsi que des objets trouvés dans le monde et des quêtes.
+Les premières listes pré-raid, pour les Holy et Discipline Priests et les Protection Warriors, venaient de guides communautaires. Elles utilisent l’équipement des donjons de niveau 51 à 60, comme Blackrock Depths, Scholomance et Stratholme, ainsi que des objets trouvés dans le monde et des quêtes.
 
 Classic Era n’a pas de châsses. Blizzard les a ajoutées dans The Burning Crusade. Chaque liste reste marquée comme brouillon jusqu’à sa vérification à la main.

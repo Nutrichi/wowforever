@@ -19,7 +19,7 @@ Darnassus è la fazione di Darnassus, la capitale degli elfi della notte in cima
 
 ## Da dove parti
 
-Da dove parti dipende dalla tua razza. Questi sono i valori dei dati di fazione del client di Classic Era, che il database wago.tools legge dalla build 1.15.9.
+Da dove parti dipende dalla tua razza. Questi sono i valori dei dati di fazione del client di Classic Era, build 1.15.9.
 
 | La tua razza | Livello di partenza |
 |---|---|
@@ -42,7 +42,7 @@ Friendly contiene 6.000 di reputazione, quindi un personaggio della razza della 
 
 ### Missioni
 
-Le missioni per Darnassus danno più reputazione. Wowhead indica Teldrassil, Darkshore, Ashenvale, le Stonetalon Mountains, Thousand Needles e Feralas. La maggior parte delle missioni per una città dell'Alleanza dà anche un quarto di quella reputazione alle altre città dell'Alleanza.
+Le missioni per Darnassus danno più reputazione. Le zone migliori sono Teldrassil, Darkshore, Ashenvale, le Stonetalon Mountains, Thousand Needles e Feralas. La maggior parte delle missioni per una città dell'Alleanza dà anche un quarto di quella reputazione alle altre città dell'Alleanza.
 
 ### Donazioni di stoffa
 

@@ -53,7 +53,7 @@ Razorfen Kraul grew where the blood of the demigod Agamaggan fell, ten thousand 
 | <a href="https://www.wowhead.com/forever/quest=1109">Going, Going, Guano!</a><br>Horde | Undercity, The Apothecarium: Master Apothecary Faranell /way 48 69 | 30 | Experience and silver |
 | <a href="https://www.wowhead.com/forever/quest=6522">An Unholy Alliance</a><br>Horde | Inside the dungeon: Small Scroll, a drop from Charlga Razorflank | 28 | Continues in Razorfen Downs |
 
-The level is the lowest level at which the quest can be picked up, according to Wowhead.
+The level is the lowest level at which the quest can be picked up.
 
 - **Blueleaf Tubers.** Take the Crate With Holes, the Snufflenose Owner's Manual and the Snufflenose Command Stick from next to Mebok. Inside, the crate summons a Snufflenose Gopher; the stick makes it dig up a tuber. Repeat until you have 6.
 - **Willix the Importer.** An escort at the end of the dungeon. Its path passes many Blueleaf Tubers.
@@ -70,7 +70,7 @@ The level is the lowest level at which the quest can be picked up, according to 
 
 ## The bosses and their loot
 
-The loot per boss comes from Wowhead, with the stats from the files of the beta.
+The loot per boss has the stats from the files of the beta.
 
 ### Roogug
 

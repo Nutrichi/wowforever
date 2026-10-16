@@ -17,7 +17,7 @@ Il primo torneo di duelli di WoW Forever ha ora un montepremi di 100.000 dollari
 
 ## Il torneo
 
-Tips, noto come TipsOut, ha annunciato The Forever Open il 27 settembre, insieme a Xaryu ed Esfand, scrive Icy Veins. Il suo post su X dà le regole: il ruleset PvP, la parte dell’Orda, il livello 30 e, all’inizio, un montepremi di 50.000 dollari.
+Tips, noto come TipsOut, ha annunciato The Forever Open il 27 settembre, insieme a Xaryu ed Esfand. Il suo post su X dà le regole: il ruleset PvP, la parte dell’Orda, il livello 30 e, all’inizio, un montepremi di 50.000 dollari.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104269843826627048">
   <button type="button" class="wf-embed__play">
@@ -33,7 +33,7 @@ Il torneo è aperto a tutti. I giocatori si iscrivono sul server Discord dell’
 
 ## Il doppio del montepremi
 
-Un giorno dopo TimTheTatman ha messo altri 50.000 dollari, per puro amore di Classic WoW, secondo un post su X che ha condiviso il suo annuncio. Tips ha confermato i dettagli in un nuovo video animato, scrive Icy Veins.
+Un giorno dopo TimTheTatman ha messo altri 50.000 dollari, per puro amore di Classic WoW, secondo un post su X che ha condiviso il suo annuncio. Tips ha confermato i dettagli in un nuovo video animato.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104651349300572501">
   <button type="button" class="wf-embed__play">

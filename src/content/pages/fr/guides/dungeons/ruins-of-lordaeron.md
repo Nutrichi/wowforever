@@ -186,7 +186,7 @@ Une grande araignée qui patrouille dans King's Alley avec deux araignées plus 
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_bracer_07.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q3" href="https://www.wowhead.com/forever/item=271202">Witherbite Bracers</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line">Binds when picked up</span><span class="wf-item__row"><span>Wrist</span><span>Leather</span></span><span class="wf-item__line">37 Armor</span><span class="wf-item__line">+4 Agility</span><span class="wf-item__line">+3 Intellect</span><span class="wf-item__line">+3 Spirit</span><span class="wf-item__line">Durability 30 / 30</span><span class="wf-item__line">Requires Level 15</span></div></div>
 </div>
 
-Elle n’entraîne pas sa patrouille, écrit Warcraft Tavern : un pull à distance l’amène seule.
+Elle n’entraîne pas sa patrouille : un pull à distance l’amène seule.
 
 ### The Baron
 
@@ -290,7 +290,7 @@ Un rare avec une petite chance d’apparaître à l’ouest du donjon. L’Allia
 
 ## Ce qu’on ne sait pas encore
 
-- Quel boss compte comme boss final. Le boss de niveau 20 n’a pas de place fixe dans l’ordre ; Warcraft Tavern termine son parcours par Rath'mael.
+- Quel boss compte comme boss final. Le boss de niveau 20 n’a pas de place fixe dans l’ordre ; les parcours courants finissent par Rath'mael.
 - Si Viktor the Vile apparaît toujours à la sortie. Sur la bêta, ce n’est pas toujours le cas.
 - Où tombe le reste du Rotmender's Raiment, et à quelle étape Unending Torment donne Slain Baron's Signet.
 - Combien d’expérience rapporte The Wrath of Rath'mael

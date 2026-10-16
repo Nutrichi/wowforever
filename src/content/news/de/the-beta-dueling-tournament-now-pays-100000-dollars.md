@@ -17,7 +17,7 @@ Das erste Duellturnier von WoW Forever hat jetzt ein Preisgeld von 100.000 Dolla
 
 ## Das Turnier
 
-Tips, bekannt als TipsOut, kündigte The Forever Open am 27. September an, zusammen mit Xaryu und Esfand, schreibt Icy Veins. Sein Beitrag auf X nennt die Regeln: das PvP-Ruleset, die Seite der Horde, Stufe 30 und zunächst ein Preisgeld von 50.000 Dollar.
+Tips, bekannt als TipsOut, kündigte The Forever Open am 27. September an, zusammen mit Xaryu und Esfand. Sein Beitrag auf X nennt die Regeln: das PvP-Ruleset, die Seite der Horde, Stufe 30 und zunächst ein Preisgeld von 50.000 Dollar.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104269843826627048">
   <button type="button" class="wf-embed__play">
@@ -33,7 +33,7 @@ Das Turnier steht allen offen. Spieler melden sich auf dem Discord-Server der Ve
 
 ## Doppeltes Preisgeld
 
-Einen Tag später legte TimTheTatman weitere 50.000 Dollar drauf, aus reiner Liebe zu Classic WoW, laut einem Beitrag auf X, der seine Ankündigung teilte. Tips bestätigte die Details in einem neuen Animationsvideo, schreibt Icy Veins.
+Einen Tag später legte TimTheTatman weitere 50.000 Dollar drauf, aus reiner Liebe zu Classic WoW, laut einem Beitrag auf X, der seine Ankündigung teilte. Tips bestätigte die Details in einem neuen Animationsvideo.
 
 <figure class="wf-embed wf-embed--x" data-wf-x="2104651349300572501">
   <button type="button" class="wf-embed__play">

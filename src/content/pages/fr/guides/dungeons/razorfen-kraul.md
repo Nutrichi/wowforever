@@ -54,7 +54,7 @@ Razorfen Kraul a poussé là où est tombé le sang du demi-dieu Agamaggan, il y
 | <a href="https://www.wowhead.com/forever/quest=1109">Going, Going, Guano!</a><br>Horde | Undercity, The Apothecarium : Master Apothecary Faranell /way 48 69 | 30 | Expérience et argent |
 | <a href="https://www.wowhead.com/forever/quest=6522">An Unholy Alliance</a><br>Horde | Dans le donjon : Small Scroll, sur Charlga Razorflank | 28 | Continue dans Razorfen Downs |
 
-Le niveau est le niveau minimum pour prendre la quête, selon Wowhead.
+Le niveau est le niveau minimum pour prendre la quête.
 
 - **Blueleaf Tubers.** Prenez la Crate With Holes, le Snufflenose Owner's Manual et le Snufflenose Command Stick à côté de Mebok. À l’intérieur, la caisse invoque un Snufflenose Gopher ; le bâton lui fait déterrer un tubercule. Recommencez jusqu’à en avoir 6.
 - **Willix the Importer.** Une escorte à la fin du donjon. Son chemin passe près de nombreux Blueleaf Tubers.
@@ -71,7 +71,7 @@ Le niveau est le niveau minimum pour prendre la quête, selon Wowhead.
 
 ## Les boss et leur butin
 
-Le butin par boss vient de Wowhead, avec les caractéristiques des fichiers de la bêta.
+Le butin par boss a les caractéristiques des fichiers de la bêta.
 
 ### Roogug
 

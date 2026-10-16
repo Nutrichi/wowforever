@@ -2,6 +2,7 @@
 title: "Battle Shout und Totems für den ganzen Schlachtzug"
 description: "Der Beta-Build vom 15. Oktober macht Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Aura und vier Totems des Schamanen schlachtzugsweit. Magier bekommen Frost Blast, und Elemental Mastery kehrt zurück."
 date: 2026-10-16T04:00:00+02:00
+updated: 2026-10-16T10:15:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-02-wow-forever-warriors-on-a-burning-deck.jpg
@@ -41,7 +42,7 @@ Zauberstäbe und Auto Shot verlangen jetzt, dass man 0,5 Sekunden stillsteht, be
 ## Hunter
 
 - Ein Jäger darf gleichzeitig eine Feuerfalle und eine Eisfalle aktiv haben (vorher eine Falle insgesamt). Feuerfallen skalieren jetzt mit der Angriffskraft. Begleiter profitieren von Expertise und nutzen die höhere kritische Trefferchance aus Nah- und Fernkampf.
-- **Begleiter:** Dismember (Crocolisk) senkt Heilung 6 Sekunden lang um 25 %, mit 15 Sekunden Abklingzeit (vorher 50 %, 10 Sekunden und 6 Sekunden). Sonic Blast (Bat) verlangsamt das Zaubern 20 Sekunden lang um 30 %, mit 60 Sekunden Abklingzeit (vorher 60 %, 30 und 30). Mine! (Bird of Prey) hält 3 Sekunden mit 90 Sekunden Abklingzeit (vorher 4 und 60).
+- **Begleiter:** Dismember (Crocolisk) senkt Heilung 6 Sekunden lang um 25 %, mit 15 Sekunden Abklingzeit (vorher 50 %, 10 Sekunden und 6 Sekunden). Sonic Blast (Bat) verlangsamt das Zaubern 20 Sekunden lang um 30 %, mit 60 Sekunden Abklingzeit (vorher 60 %, 30 und 30). Mine! (Bird of Prey) hält 3 Sekunden mit 90 Sekunden Abklingzeit (vorher 4 und 60). In den Builddaten erreicht Furious Howl des Wolfs jetzt auch Raidmitglieder ([mehr zu den Begleitern](/de/news/hunter-pets-lose-utility-but-wolves-buff-the-raid/)).
 - **Survival:** Strider Kick funktioniert auch entwaffnet. Resourcefulness löst nur noch bei kritischen Treffern von Nah- und Fernkampffähigkeiten aus, nicht bei Fallen.
 
 ## Mage

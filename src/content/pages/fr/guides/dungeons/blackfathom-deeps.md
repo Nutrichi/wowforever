@@ -77,7 +77,7 @@ La Horde a Zoram'gar Outpost un peu au sud, où Je'neu Sancrea donne trois des q
 | <a href="https://www.wowhead.com/forever/quest=1275">Researching the Corruption</a><br>Partageable | Darkshore, Auberdine : Gershala Nightwhisper /way 38 43 | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7003"><img class="wf-wh__icon" src="/wh/inv_bracer_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beetle Clasps</a> ou <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7004"><img class="wf-wh__icon" src="/wh/inv_misc_cape_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prelacy Cape</a> |
 | <a href="https://www.wowhead.com/forever/quest=1200">Blackfathom Villainy</a><br>Partageable | Dans le donjon : Argent Guard Thaelrid | 18 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7002"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arctic Buckler</a> ou <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> |
 
-Le niveau est le niveau minimum pour prendre la quête, selon Wowhead. Les récompenses viennent de Wowhead ; quand il n’en indique pas, elles ne sont pas encore connues.
+Le niveau est le niveau minimum pour prendre la quête. Quand aucune récompense n’est indiquée, elle n’est pas encore connue.
 
 ### Les quêtes de la Horde
 
@@ -93,7 +93,7 @@ Le niveau est le niveau minimum pour prendre la quête, selon Wowhead. Les réco
 
 ### Les quêtes de l’Alliance
 
-**In Search of Thaelrid.** Dawnwatcher Shaedlass vous envoie voir Argent Guard Thaelrid dans le donjon. La quête est aussi ouverte à la Horde, écrit Warcraft Tavern, mais elle commence au cœur de Darnassus.
+**In Search of Thaelrid.** Dawnwatcher Shaedlass vous envoie voir Argent Guard Thaelrid dans le donjon. La quête est aussi ouverte à la Horde, mais elle commence au cœur de Darnassus.
 
 **Twilight Falls.** Argent Guard Manados veut 10 Twilight Pendants. Ils tombent sur les Twilight Acolytes, Aquamancers, Elementalists, Loreseekers, Reavers et Shadowmages du donjon.
 
@@ -107,7 +107,7 @@ Les Warlocks viennent aussi ici pour <a href="https://www.wowhead.com/forever/qu
 
 ## Les boss et leur butin
 
-Le butin par boss vient de Wowhead, avec les caractéristiques des fichiers de la bêta.
+Le butin par boss a les caractéristiques des fichiers de la bêta.
 
 ### Ghamoo-ra
 
@@ -167,7 +167,7 @@ Un élite optionnel de niveau 26 que l’on combat sous l’eau. Il se soigne en
 
 ### Aku'mai
 
-Avant que son antre ne s’ouvre, les quatre braseros doivent être allumés, et chacun amène une vague de monstres. La vague de tortues frappe le plus fort ; un off-tank, un familier ou un Rogue avec Evasion devrait en prendre une, écrit Wowhead.
+Avant que son antre ne s’ouvre, les quatre braseros doivent être allumés, et chacun amène une vague de monstres. La vague de tortues frappe le plus fort ; un off-tank, un familier ou un Rogue avec Evasion devrait en prendre une.
 
 Le dernier boss, une hydre élite de niveau 28. Sortez de son Poison Cloud ; il peut être interrompu. Frenzied Rage lui donne 75 % de vitesse d’attaque en plus pendant 5 secondes. Gardez les étourdissements et les temps de recharge du tank pour ce moment.
 
@@ -192,4 +192,4 @@ Plusieurs objets bleus liés quand équipés tombaient dans Classic sur les mons
 ## Ce qui n’est pas encore connu
 
 - **Les taux de butin** des boss.
-- **Les récompenses des quêtes** que Wowhead n’indique pas encore.
+- **Les récompenses des quêtes** qui ne sont pas encore connues.

@@ -13,7 +13,7 @@ faq:
   - q: "Was ist die Hintertür von Gnomeregan?"
     a: "Ein zweiter Eingang auf der Nordseite des Train Depot, nahe Crowd Pummeler 9-60. Man braucht den Workshop Key von Electrocutioner 6000 oder einen Rogue mit Lockpicking 150."
   - q: "Hat sich die Beute von Gnomeregan in WoW Forever geändert?"
-    a: "Teilweise. Mehrere Gegenstände für Zauberer bekamen Zauberschaden und Heilung, und Electrocutioner Leg verursacht doppelten Schaden an Mechanical-Zielen. Thermaplugg's Left Arm und der Electromagnetic Gigaflux Reactivator stehen noch nicht in den Forever-Daten von Wowhead."
+    a: "Teilweise. Mehrere Gegenstände für Zauberer bekamen Zauberschaden und Heilung, und Electrocutioner Leg verursacht doppelten Schaden an Mechanical-Zielen. Thermaplugg's Left Arm und der Electromagnetic Gigaflux Reactivator stehen noch nicht in den Forever-Daten."
 sources:
   - name: "Wowhead, der Dungeon-Guide"
     url: "https://www.wowhead.com/forever/guide/gnomeregan-dungeon-overview-location-rewards"
@@ -60,7 +60,7 @@ Gnomeregan war die Hauptstadt der Gnome in Dun Morogh, bis Troggs eindrangen und
 | <a href="https://www.wowhead.com/forever/quest=2841">Rig Wars</a><br>Horde | Orgrimmar, Valley of Honor: Nogg /way 76 25 | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9623"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Civinad Robes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9624"><img class="wf-wh__icon" src="/wh/inv_pants_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Triprunner Dungarees</a> oder <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9625"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dual Reinforced Leggings</a> |
 | <a href="https://www.wowhead.com/forever/quest=2842">Chief Engineer Scooty</a><br>Horde | Orgrimmar, Valley of Honor: Sovik /way 76 25<br><em>Nimm zuerst Rig Wars an; geht weiter mit <a href="https://www.wowhead.com/forever/quest=2843">Gnomer-gooooone!</a>.</em> | 20 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9173"><img class="wf-wh__icon" src="/wh/inv_battery_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goblin Transponder</a> |
 
-Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wowhead. Die Quests der Alliance geben auch Ruf bei Gnomeregan Exiles.
+Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann. Die Quests der Alliance geben auch Ruf bei Gnomeregan Exiles.
 
 - **A Fine Mess.** Kernobee wartet in The Dormitory, direkt nach The Clean Room. Eskortiere ihn zum Eingang und gib die Quest bei Scooty in Booty Bay ab.
 - **The Sparklematic 5200!** Steck 3 Grime-Encrusted Objects in eine Sparklematic-Maschine in The Clean Room. Wiederholbar, mit Erfahrung nur beim ersten Mal.
@@ -74,7 +74,7 @@ Die Stufe ist die niedrigste Stufe, ab der man die Quest annehmen kann, laut Wow
 
 ## Die Bosse und ihre Beute
 
-Die Beute pro Boss stammt von Wowhead, mit den Werten aus den Dateien der Beta.
+Die Beute pro Boss hat die Werte aus den Dateien der Beta.
 
 ### Grubbis
 
@@ -132,7 +132,7 @@ Der Endboss, im Tinkers' Court. Während des Kampfes kommen Walking Bombs aus se
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9458"><img class="wf-wh__icon" src="/wh/inv_shield_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thermaplugg's Central Core</a> | Sein Naturschaden bei Treffern steigt von 35-65 auf 65-121 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9461"><img class="wf-wh__icon" src="/wh/inv_misc_gear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Charged Gear</a> | Keine zufällige Verzauberung mehr, Stufe 31 |
 
-Wowhead nennt für ihn auch Thermaplugg's Left Arm und den Electromagnetic Gigaflux Reactivator. Keiner der beiden steht schon in den Forever-Daten von Wowhead.
+Ältere Beutelisten nennen für ihn auch Thermaplugg's Left Arm und den Electromagnetic Gigaflux Reactivator. Keiner der beiden steht schon in den Forever-Daten.
 
 ## Kisten und Truhen
 

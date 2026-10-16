@@ -7,7 +7,7 @@ updated: 2026-10-16
 lang: fr
 faq:
   - q: "Quel niveau pour la City of Dalaran dans WoW Forever ?"
-    a: "Blizzard donne une fourchette de 28 à 33. Wowhead conseille les niveaux 28 à 35."
+    a: "Blizzard donne une fourchette de 28 à 33. Les niveaux conseillés vont de 28 à 35."
   - q: "Comment entrer dans la City of Dalaran ?"
     a: "L’Alliance entre par un tuyau chez Cantrips & Crows, dans les Dalaran Sewers. La Horde entre par un tunnel hors de la ville, en /way 8.8 59.6 ; un joueur du groupe doit avoir la Dalaran Sewer Key."
   - q: "Comment la Horde obtient-elle la Dalaran Sewer Key ?"
@@ -15,7 +15,7 @@ faq:
   - q: "Les dégâts arcaniques fonctionnent-ils dans la City of Dalaran ?"
     a: "À peine. Presque tous les monstres du donjon sont insensibles à l’Arcane, donc Arcane Explosion, Arcane Shot et Counterspell servent peu."
   - q: "Que lâche la City of Dalaran ?"
-    a: "On ne le sait pas encore. Les boss sont au-dessus de la limite de niveau de la bêta, et Wowhead n’a pas encore de butin pour eux."
+    a: "On ne le sait pas encore. Les boss sont au-dessus de la limite de niveau de la bêta, et leur butin n’est pas encore connu."
   - q: "Comment invoquer Lyn the Ignored dans City of Dalaran ?"
     a: "Prenez le Black Tome dans la salle d'Archmage Arugal à Shadowfang Keep, transformez-le en Tome of Dalaran à l'Ambermill Leyline Focus, puis utilisez ce livre sur le cercle violet des égouts, après Atrexis the Grave Knight. Le livre n'est pas consommé et fonctionne à nouveau après 3 minutes."
 sources:
@@ -40,7 +40,7 @@ La City of Dalaran est l’un des nouveaux donjons de WoW Forever. Le dôme viol
 | Attention | Presque tous les monstres sont insensibles à l’Arcane |
 | Abréviation | CoD |
 
-Depuis la [build de la bêta du 8 octobre](/fr/news/city-of-dalaran-opens-in-the-fourth-beta-week/), le donjon peut être testé sur la bêta. La bêta va jusqu’au niveau 30 depuis le 1er octobre. Les derniers boss sont au-dessus, donc Wowhead ne connaît pas encore toutes leurs mécaniques.
+Depuis la [build de la bêta du 8 octobre](/fr/news/city-of-dalaran-opens-in-the-fourth-beta-week/), le donjon peut être testé sur la bêta. La bêta va jusqu’au niveau 30 depuis le 1er octobre. Les derniers boss sont au-dessus, donc toutes leurs mécaniques ne sont pas encore connues.
 
 ## Comment s’y rendre
 

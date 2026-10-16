@@ -36,7 +36,7 @@ El campamento está justo a las afueras de la Crossroads, en The Barrens. Las ca
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Subastador | 49.8 29.4 |
 
-Son las posiciones de las páginas de PNJ de Wowhead; su guía de reputación da /way 42 34 para el campamento. El campamento de la Alliance en Three Corners tiene vendedores con recetas para siete profesiones, una montura y títulos. Si el campamento de la Horde vende lo mismo, las guías aún no lo muestran.
+Son las posiciones de los PNJ; una guía de reputación da /way 42 34 para el campamento. El campamento de la Alliance en Three Corners tiene vendedores con recetas para siete profesiones, una montura y títulos. Si el campamento de la Horde vende lo mismo, las guías aún no lo muestran.
 
 ## Los niveles
 

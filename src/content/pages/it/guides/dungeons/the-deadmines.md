@@ -70,7 +70,7 @@ L’Alliance ha Sentinel Hill a due passi. La Horde non ha missioni in The Deadm
 | <a href="https://www.wowhead.com/forever/quest=373">The Unsent Letter</a> | Nel dungeon: An Unsent Letter, lasciata da Edwin VanCleef | 16 | Non ancora nota |
 | <a href="https://www.wowhead.com/forever/quest=92753">Destruction in Deadmines</a> | Westfall, Sentinel Hill: Alba Fairmoon /way 52.4 53.0<br><em>Nuova in Forever. La fine di una catena di sette missioni che inizia con Testing the Wells.</em> | 9 | 4.050 punti esperienza, 50 di reputazione con Stormwind |
 
-Il livello è il minimo per accettare la missione, secondo Wowhead. Le ricompense vengono da Wowhead; dove non ne indica, non sono ancora note.
+Il livello è il minimo per accettare la missione. Dove non è indicata una ricompensa, non è ancora nota.
 
 ### Collecting Memories
 
@@ -138,7 +138,7 @@ Edwin VanCleef lascia An Unsent Letter, che avvia questa missione dal livello 16
 
 </div>
 
-Anche i Paladin dell’Alliance vengono qui per <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, la fine della catena del Tome of Valor che si conclude con <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: il Whitestone Oak Lumber cade dai Goblin Woodcarvers vicino all’inizio. I Paladin della Horde hanno un equivalente nuovo in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>, scrive Wowhead. La catena inizia a Bandarion Keep a Tirisfal Glades; Lumina Windsinger assegna la missione nella cripta di Silverpine Forest, /way 43 40. Entrambe sono nella [guida ai dungeon](/it/guides/dungeons/).
+Anche i Paladin dell’Alliance vengono qui per <a href="https://www.wowhead.com/forever/quest=1654">The Test of Righteousness</a>, la fine della catena del Tome of Valor che si conclude con <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6953"><img class="wf-wh__icon" src="/wh/inv_hammer_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Verigan's Fist</a>: il Whitestone Oak Lumber cade dai Goblin Woodcarvers vicino all’inizio. I Paladin della Horde hanno un equivalente nuovo in Forever, <a href="https://www.wowhead.com/forever/quest=95036">A Moon-Kissed Blade</a>. La catena inizia a Bandarion Keep a Tirisfal Glades; Lumina Windsinger assegna la missione nella cripta di Silverpine Forest, /way 43 40. Entrambe sono nella [guida ai dungeon](/it/guides/dungeons/).
 
 
 ### Destruction in Deadmines
@@ -158,7 +158,7 @@ Non si conosce nessuna ricompensa in oggetti per la catena.
 
 ## I boss e il loro bottino
 
-Il bottino di ogni boss viene da Wowhead, con le statistiche dei file della beta.
+Il bottino di ogni boss ha le statistiche dei file della beta.
 
 ### Rhahk'Zor
 
@@ -266,5 +266,5 @@ Le statistiche nei file della beta sono cambiate da quell’articolo: la First M
 ## Cosa non si sa ancora
 
 - **Le probabilità di drop** del bottino dei boss.
-- **Le ricompense delle missioni** che Wowhead non indica ancora.
+- **Le ricompense delle missioni** che non sono ancora note.
 - **La Band of the Better Half**: dove cade.

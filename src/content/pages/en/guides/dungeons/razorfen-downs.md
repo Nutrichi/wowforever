@@ -13,7 +13,7 @@ faq:
   - q: "How do you summon Tuten'kash?"
     a: "Ring the gong. Waves of spiders come first; ring the gong again after each wave until Tuten'kash appears."
   - q: "Has the loot of Razorfen Downs changed in WoW Forever?"
-    a: "Partly. Glutton's Cleaver, Coldrage Dagger and several caster items got new stats. Many drops, such as X'caliboar, are not in the Forever data of Wowhead yet."
+    a: "Partly. Glutton's Cleaver, Coldrage Dagger and several caster items got new stats. Many drops, such as X'caliboar, are not in the Forever data yet."
 sources:
   - name: "Wowhead, the dungeon guide"
     url: "https://www.wowhead.com/forever/guide/razorfen-downs-dungeon-overview-location-rewards"
@@ -52,7 +52,7 @@ Razorfen Downs is the old capital of the quillboar, grown from the same giant vi
 | <a href="https://www.wowhead.com/forever/quest=3341">Bring the End</a><br>Horde | Undercity, Magic Quarter: Andrew Brownell /way 74.0 32.8 | 37 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10823"><img class="wf-wh__icon" src="/wh/inv_sword_35.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vanquisher's Sword</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10824"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amberglow Talisman</a> |
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter: Varimathras /way 56.6 92.6<br><em>Complete An Unholy Alliance from Razorfen Kraul first.</em> | 28 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
 
-The level is the lowest level at which the quest can be picked up, according to Wowhead. The Dragonclaw Ring is not in the Forever data of Wowhead yet.
+The level is the lowest level at which the quest can be picked up. The Dragonclaw Ring is not in the Forever data yet.
 
 - **A Host of Evil.** Kill Death's Head Cultists, Razorfen Battleguards and Razorfen Thornweavers throughout the dungeon.
 - **Scourge of the Downs and Extinguishing the Idol.** Every player talks to Belnistrasz twice for the first quest; the third talk starts the escort. Protect him while his ritual shuts down the idol. Plaguemaw the Rotting comes at the end.
@@ -65,7 +65,7 @@ The ghostly Freezing Spirits cast Frost Nova. Stack on the tank so nobody gets f
 
 ## The bosses and their loot
 
-The loot per boss comes from Wowhead, with the stats from the files of the beta. Wowhead lists several more drops that are not in the Forever data of its tooltips yet; they are named without a link.
+The loot per boss has the stats from the files of the beta. Several more drops are not in the Forever data yet; they are named without a link.
 
 ### Tuten'kash
 
@@ -98,7 +98,7 @@ A simple fight. Stay out of his Disease Cloud and heal the tank through his Enra
 
 ### Ragglesnout, a rare
 
-His Dominate Mind is the danger: if the tank or healer is taken over, the hybrids fill in. Interrupt his Heal and Shadow Bolts. Wowhead lists Savage Boar's Guard, Boar Champion's Belt and X'caliboar for him.
+His Dominate Mind is the danger: if the tank or healer is taken over, the hybrids fill in. Interrupt his Heal and Shadow Bolts. Older loot lists name Savage Boar's Guard, Boar Champion's Belt and X'caliboar for him.
 
 ### Amnennar the Coldbringer
 
@@ -114,7 +114,7 @@ The last boss. Tank him facing the tent where he stands to neutralise Amnennar's
 
 ### Plaguemaw the Rotting
 
-The end of the escort of Belnistrasz. Kill the waves one at a time, ideally with an off-tank pulling them off Belnistrasz. Plaguemaw himself is a tank and spank. Wowhead lists Swine Fists and Plaguerot Sprig for him.
+The end of the escort of Belnistrasz. Kill the waves one at a time, ideally with an off-tank pulling them off Belnistrasz. Plaguemaw himself is a tank and spank. Older loot lists name Swine Fists and Plaguerot Sprig for him.
 
 <div class="wf-shots">
 

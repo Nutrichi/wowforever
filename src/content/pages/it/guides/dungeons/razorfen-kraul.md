@@ -54,7 +54,7 @@ Razorfen Kraul è cresciuto dove cadde il sangue del semidio Agamaggan, diecimil
 | <a href="https://www.wowhead.com/forever/quest=1109">Going, Going, Guano!</a><br>Horde | Undercity, The Apothecarium: Master Apothecary Faranell /way 48 69 | 30 | Esperienza e argento |
 | <a href="https://www.wowhead.com/forever/quest=6522">An Unholy Alliance</a><br>Horde | Nel dungeon: Small Scroll, lasciato da Charlga Razorflank | 28 | Prosegue a Razorfen Downs |
 
-Il livello è il minimo per accettare la missione, secondo Wowhead.
+Il livello è il minimo per accettare la missione.
 
 - **Blueleaf Tubers.** Prendi la Crate With Holes, lo Snufflenose Owner's Manual e lo Snufflenose Command Stick accanto a Mebok. Dentro, la cassa evoca uno Snufflenose Gopher; il bastone gli fa scavare un tubero. Ripeti finché non ne hai 6.
 - **Willix the Importer.** Una scorta alla fine del dungeon. Il percorso passa vicino a molti Blueleaf Tubers.
@@ -71,7 +71,7 @@ Il livello è il minimo per accettare la missione, secondo Wowhead.
 
 ## I boss e il loro bottino
 
-Il bottino di ogni boss viene da Wowhead, con le statistiche dei file della beta.
+Il bottino di ogni boss ha le statistiche dei file della beta.
 
 ### Roogug
 

@@ -1,6 +1,6 @@
 ---
 title: "Classic Era ya tiene listas BiS para las 27 specs"
-description: "189 listas best-in-slot para WoW Classic Era cubren cada clase y especialización, del equipo pre-raid a seis fases de banda, a partir de las guías de equipo de Icy Veins."
+description: "189 listas best-in-slot para WoW Classic Era cubren cada clase y especialización, del equipo pre-raid a seis fases de banda, a partir de guías de equipo reconocidas."
 date: 2026-07-22
 category: classic
 lang: es
@@ -19,8 +19,8 @@ Las fases siguen el lanzamiento original de 2019. Molten Core y Onyxia's Lair so
 
 ## Fuentes
 
-Las listas se basan en las guías de equipo de Icy Veins. Para la fase 2, Icy Veins no tiene una lista aparte para Dire Maul. Esa fase usa su lista refinada de Molten Core y Onyxia's Lair, completada con objetos de PvP y de jefes del mundo. La lista de la fase 4 de Icy Veins cubre Zul'Gurub y Blackwing Lair a la vez. Las dos decisiones se indican en las propias listas.
+Las listas se basan en guías de equipo reconocidas. Para la fase 2, esas guías no tienen una lista aparte para Dire Maul. Esa fase usa la lista refinada de Molten Core y Onyxia's Lair, completada con objetos de PvP y de jefes del mundo. La lista de la fase 4 cubre Zul'Gurub y Blackwing Lair a la vez. Las dos decisiones se indican en las propias listas.
 
-Las primeras listas pre-raid, para Holy y Discipline Priests y para Protection Warriors, procedían de las guías comunitarias de Warcraft Tavern. Usan equipo de mazmorras de nivel 51 a 60, como Blackrock Depths, Scholomance y Stratholme, además de objetos del mundo y misiones.
+Las primeras listas pre-raid, para Holy y Discipline Priests y para Protection Warriors, procedían de guías comunitarias. Usan equipo de mazmorras de nivel 51 a 60, como Blackrock Depths, Scholomance y Stratholme, además de objetos del mundo y misiones.
 
 Classic Era no tiene ranuras de gema. Blizzard las añadió en The Burning Crusade. Cada lista sigue marcada como borrador hasta que se revisa a mano.

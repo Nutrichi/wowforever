@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-The main quest of the Hall of Thanes in World of Warcraft: Forever starts with a map. It drops from Dark Iron Spies in Dun Morogh, writes Warcraft Tavern, which mapped all five quests of the dungeon. The other four start at the dungeon itself.
+The main quest of the Hall of Thanes in World of Warcraft: Forever starts with a map. It drops from Dark Iron Spies in Dun Morogh, which mapped all five quests of the dungeon. The other four start at the dungeon itself.
 
 ## The chain in Dun Morogh
 

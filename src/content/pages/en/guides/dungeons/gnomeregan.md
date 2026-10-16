@@ -13,7 +13,7 @@ faq:
   - q: "What is the back door of Gnomeregan?"
     a: "A second entrance on the north side of the Train Depot, near Crowd Pummeler 9-60. It needs the Workshop Key from Electrocutioner 6000 or a Rogue with Lockpicking 150."
   - q: "Has the loot of Gnomeregan changed in WoW Forever?"
-    a: "Partly. Several caster items got spell damage and healing, and Electrocutioner Leg deals double damage to Mechanical targets. Thermaplugg's Left Arm and the Electromagnetic Gigaflux Reactivator are not in the Forever data of Wowhead yet."
+    a: "Partly. Several caster items got spell damage and healing, and Electrocutioner Leg deals double damage to Mechanical targets. Thermaplugg's Left Arm and the Electromagnetic Gigaflux Reactivator are not in the Forever data yet."
 sources:
   - name: "Wowhead, the dungeon guide"
     url: "https://www.wowhead.com/forever/guide/gnomeregan-dungeon-overview-location-rewards"
@@ -59,7 +59,7 @@ Gnomeregan was the capital of the gnomes in Dun Morogh, until troggs invaded it 
 | <a href="https://www.wowhead.com/forever/quest=2841">Rig Wars</a><br>Horde | Orgrimmar, Valley of Honor: Nogg /way 76 25 | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9623"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Civinad Robes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9624"><img class="wf-wh__icon" src="/wh/inv_pants_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Triprunner Dungarees</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9625"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dual Reinforced Leggings</a> |
 | <a href="https://www.wowhead.com/forever/quest=2842">Chief Engineer Scooty</a><br>Horde | Orgrimmar, Valley of Honor: Sovik /way 76 25<br><em>Pick up Rig Wars first; continues with <a href="https://www.wowhead.com/forever/quest=2843">Gnomer-gooooone!</a>.</em> | 20 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9173"><img class="wf-wh__icon" src="/wh/inv_battery_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goblin Transponder</a> |
 
-The level is the lowest level at which the quest can be picked up, according to Wowhead. The Alliance quests also give reputation with Gnomeregan Exiles.
+The level is the lowest level at which the quest can be picked up. The Alliance quests also give reputation with Gnomeregan Exiles.
 
 - **A Fine Mess.** Kernobee waits in The Dormitory, just after The Clean Room. Escort him to the entrance and hand in to Scooty in Booty Bay.
 - **The Sparklematic 5200!** Put 3 Grime-Encrusted Objects into a Sparklematic machine in The Clean Room. Repeatable, with experience only the first time.
@@ -73,7 +73,7 @@ The level is the lowest level at which the quest can be picked up, according to 
 
 ## The bosses and their loot
 
-The loot per boss comes from Wowhead, with the stats from the files of the beta.
+The loot per boss has the stats from the files of the beta.
 
 ### Grubbis
 
@@ -131,7 +131,7 @@ The final boss, in the Tinkers' Court. Walking Bombs come out of six dispensers 
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9458"><img class="wf-wh__icon" src="/wh/inv_shield_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thermaplugg's Central Core</a> | Its Nature damage when struck goes from 35-65 to 65-121 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9461"><img class="wf-wh__icon" src="/wh/inv_misc_gear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Charged Gear</a> | No random enchantment any more, level 31 |
 
-Wowhead also lists Thermaplugg's Left Arm and the Electromagnetic Gigaflux Reactivator for him. Neither is in the Forever data of Wowhead yet.
+Older loot lists also name Thermaplugg's Left Arm and the Electromagnetic Gigaflux Reactivator for him. Neither is in the Forever data yet.
 
 ## Boxes and chests
 

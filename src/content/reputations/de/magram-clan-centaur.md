@@ -23,7 +23,7 @@ Die Magram Clan Centaur leben im Osten von Desolace und sind die Erzfeinde der [
 
 ## Wo du startest
 
-Jeder Charakter beginnt auf Neutral, 2.000 in den 3.000 dieser Stufe, also 1.000 vor Friendly. Dieser Wert stammt aus den Fraktionsdaten des Classic-Era-Clients, die die Datenbank wago.tools aus Build 1.15.9 ausliest.
+Jeder Charakter beginnt auf Neutral, 2.000 in den 3.000 dieser Stufe, also 1.000 vor Friendly. Dieser Wert stammt aus den Fraktionsdaten des Classic-Era-Clients, Build 1.15.9.
 
 ## Die Rufstufen
 
