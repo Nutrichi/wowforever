@@ -1,7 +1,7 @@
 ---
 title: "Blizzard: datamined mounts are not for Forever"
 description: "The newest beta build of World of Warcraft: Forever contained three mounts, three pets, a toy and two transmog sets. Blizzard says these assets are not meant for this version of the game."
-date: 2026-10-17T04:05:00+02:00
+date: 2026-10-17T04:04:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-17-wow-forever-blossoming-ancient.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/datamined-in-the-latest-beta-build/2385060"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 ---
 The newest beta build of World of Warcraft: Forever, from the evening of 16 October, contains a batch of new collectibles: three mounts, three pets, a toy and two transmog sets. Dataminers found them within hours. Many players said the models do not fit the classic look of Forever. That same night, community manager Kaivax answered on the official forums:
 

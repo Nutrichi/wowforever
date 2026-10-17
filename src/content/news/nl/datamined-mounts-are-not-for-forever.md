@@ -1,7 +1,7 @@
 ---
 title: "Blizzard: gevonden mounts zijn niet voor Forever"
 description: "De nieuwste beta-build van World of Warcraft: Forever bevatte drie mounts, drie pets, een toy en twee transmogsets. Blizzard zegt dat die assets niet bedoeld zijn voor deze versie van het spel."
-date: 2026-10-17T04:05:00+02:00
+date: 2026-10-17T04:04:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-17-wow-forever-blossoming-ancient.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/datamined-in-the-latest-beta-build/2385060"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 De nieuwste beta-build van World of Warcraft: Forever, van de avond van 16 oktober, bevat een reeks nieuwe verzamelobjecten: drie mounts, drie pets, een toy en twee transmogsets. Dataminers vonden ze binnen enkele uren. Veel spelers vonden dat de modellen niet passen bij de klassieke look van Forever. Diezelfde nacht antwoordde communitymanager Kaivax op de officiële forums:

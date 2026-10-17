@@ -1,7 +1,7 @@
 ---
 title: "Blizzard: esas monturas no son para Forever"
 description: "La última build de la beta de World of Warcraft: Forever traía tres monturas, tres mascotas, un juguete y dos conjuntos de transfiguración. Blizzard dice que esos recursos no son para esta versión del juego."
-date: 2026-10-17T04:05:00+02:00
+date: 2026-10-17T04:04:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-17-wow-forever-blossoming-ancient.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/datamined-in-the-latest-beta-build/2385060"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 La última build de la beta de World of Warcraft: Forever, de la noche del 16 de octubre, trae una serie de coleccionables nuevos: tres monturas, tres mascotas, un juguete y dos conjuntos de transfiguración. Los dataminers los encontraron en pocas horas. Muchos jugadores dijeron que los modelos no encajan con el aspecto clásico de Forever. Esa misma noche, el community manager Kaivax respondió en los foros oficiales:

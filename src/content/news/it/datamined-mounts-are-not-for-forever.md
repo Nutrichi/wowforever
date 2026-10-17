@@ -1,7 +1,7 @@
 ---
 title: "Blizzard: quelle cavalcature non sono per Forever"
 description: "L'ultima build della beta di World of Warcraft: Forever conteneva tre cavalcature, tre mascotte, un giocattolo e due set di trasmogrificazione. Blizzard dice che queste risorse non sono pensate per questa versione del gioco."
-date: 2026-10-17T04:05:00+02:00
+date: 2026-10-17T04:04:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-17-wow-forever-blossoming-ancient.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/datamined-in-the-latest-beta-build/2385060"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 L'ultima build della beta di World of Warcraft: Forever, della sera del 16 ottobre, contiene una serie di nuovi collezionabili: tre cavalcature, tre mascotte, un giocattolo e due set di trasmogrificazione. I dataminer li hanno trovati in poche ore. Molti giocatori hanno detto che i modelli non si adattano allo stile classico di Forever. La notte stessa il community manager Kaivax ha risposto sui forum ufficiali:

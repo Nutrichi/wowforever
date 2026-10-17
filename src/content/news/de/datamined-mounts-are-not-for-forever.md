@@ -1,7 +1,7 @@
 ---
 title: "Blizzard: gefundene Mounts sind nicht für Forever"
 description: "Der neueste Beta-Build von World of Warcraft: Forever enthielt drei Mounts, drei Haustiere, ein Spielzeug und zwei Transmog-Sets. Blizzard sagt, diese Assets sind nicht für diese Version des Spiels gedacht."
-date: 2026-10-17T04:05:00+02:00
+date: 2026-10-17T04:04:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-17-wow-forever-blossoming-ancient.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/datamined-in-the-latest-beta-build/2385060"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Der neueste Beta-Build von World of Warcraft: Forever vom Abend des 16. Oktober enthält eine Reihe neuer Sammelobjekte: drei Mounts, drei Haustiere, ein Spielzeug und zwei Transmog-Sets. Dataminer fanden sie innerhalb weniger Stunden. Viele Spieler meinten, die Modelle passen nicht zum klassischen Look von Forever. Noch in derselben Nacht antwortete Community Manager Kaivax in den offiziellen Foren:

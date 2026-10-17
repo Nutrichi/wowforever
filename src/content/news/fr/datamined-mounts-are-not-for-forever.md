@@ -1,7 +1,7 @@
 ---
 title: "Blizzard : ces montures ne sont pas pour Forever"
 description: "La dernière build bêta de World of Warcraft: Forever contenait trois montures, trois mascottes, un jouet et deux ensembles de transmo. Blizzard indique que ces ressources ne sont pas destinées à cette version du jeu."
-date: 2026-10-17T04:05:00+02:00
+date: 2026-10-17T04:04:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-17-wow-forever-blossoming-ancient.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/datamined-in-the-latest-beta-build/2385060"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 La dernière build bêta de World of Warcraft: Forever, du soir du 16 octobre, contient une série de nouveaux objets de collection : trois montures, trois mascottes, un jouet et deux ensembles de transmo. Les dataminers les ont trouvés en quelques heures. Beaucoup de joueurs ont jugé que ces modèles ne collent pas au style classique de Forever. La même nuit, le community manager Kaivax a répondu sur les forums officiels :
