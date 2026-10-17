@@ -1,7 +1,7 @@
 ---
 title: "TipsOut noemt zijn toernooi pure chaos"
 description: "In de podcast Pull 10 vertelt TipsOut hoe The Forever Open tot stand kwam, waarom de regels tijdens de beta blijven veranderen en waarom hij geen rated arena's wil in een spel als Forever."
-date: 2026-10-17T05:05:00+02:00
+date: 2026-10-17T05:04:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-16-wow-forever-hyjal-crater-arena.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/the-100k-wow-tournament-is-pure-chaos-the-pull-10-podcast-featuring-tips-out-383470"
 tags: ["forever", "beta", "pvp"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 The Forever Open, het dueltoernooi op de beta van World of Warcraft: Forever met [100.000 dollar aan prijzen](/nl/news/the-beta-dueling-tournament-now-pays-100000-dollars/), begint vandaag. Organisator Tips, bekend als TipsOut, praatte erover in aflevering 8 van Pull 10, een Classic+-podcast van de contentmakers Joardee, rencognito en JurdiJD. Het interview werd opgenomen op 14 oktober.
