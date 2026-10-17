@@ -153,7 +153,7 @@ With Talented: Improved Starfire 5/5, Eclipse 3/3, Nature's Grace 1/1 and Moonfu
 
 Root a second monster with Entangling Roots while you finish the first.
 
-Stats for both Balance builds: Intellect and spell damage, then Stamina and Spirit, then armor.
+Stats for both Balance builds: Intellect and spell damage, then Stamina and Spirit, then armor. More on cooldowns, mana, stats and races for Balance is in the [Balance Druid guide](/guides/balance-druid/).
 
 ## Level 30 Restoration build
 

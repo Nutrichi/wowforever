@@ -73,7 +73,9 @@ export const hubCategories: HubCategory[] = [
     cards: [
       { key: 'races-and-classes', image: '2026-10-05-wow-forever-character-creation-hd-portraits.jpg' },
       { key: 'restoration-druid', image: '2026-09-30-wow-forever-druid-talent-trees.jpg' },
+      { key: 'balance-druid', image: '2026-10-12-wow-forever-night-elf-glade.jpg' },
       { key: 'mage-leveling', image: '2026-10-08-wow-forever-mage-talent-trees.jpg' },
+      { key: 'frost-mage', image: '2026-10-01-wow-forever-dwarf-in-the-snow.jpg' },
       { key: 'affliction-warlock', image: '2026-10-08-wow-forever-warlock-talent-trees.jpg' },
       { key: 'priest-leveling', image: '2026-10-01-wow-forever-priest-talent-trees.jpg' },
       { key: 'rogue-leveling', image: '2026-10-08-wow-forever-rogue-talent-trees.jpg' },

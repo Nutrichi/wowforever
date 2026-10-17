@@ -154,7 +154,7 @@ Met Talented: Improved Starfire 5/5, Eclipse 3/3, Nature's Grace 1/1 en Moonfury
 
 Zet een tweede monster vast met Entangling Roots terwijl je het eerste afmaakt.
 
-Stats voor beide Balance-builds: Intellect en spell damage, dan Stamina en Spirit, dan armor.
+Stats voor beide Balance-builds: Intellect en spell damage, dan Stamina en Spirit, dan armor. Meer over cooldowns, mana, stats en races voor Balance staat in de [Balance Druid-gids](/nl/guides/balance-druid/).
 
 ## Restoration-build voor level 30
 

@@ -154,7 +154,7 @@ Con Talented: Improved Starfire 5/5, Eclipse 3/3, Nature's Grace 1/1 e Moonfury 
 
 Immobilizza un secondo mostro con Entangling Roots mentre finisci il primo.
 
-Statistiche per entrambe le build Balance: Intellect e danni magici, poi Stamina e Spirit, poi armatura.
+Statistiche per entrambe le build Balance: Intellect e danni magici, poi Stamina e Spirit, poi armatura. Altro su cooldown, mana, stats e razze per il Balance nella [guida al Balance Druid](/it/guides/balance-druid/).
 
 ## Build Restoration di livello 30
 

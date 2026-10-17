@@ -3,7 +3,7 @@ title: "Guida al leveling del Mage in WoW Forever"
 metaTitle: "WoW Forever: guida al leveling del Mage, Frost, Fire e Arcane, rotazione e consigli"
 description: "Come livellare un Mage in WoW Forever: perché Frost con Ice Lance è il più veloce, la rotazione di Frost, Fire e Arcane, i livelli chiave, le missioni di classe, le pergamene, il mana e la minaccia."
 short: "Leveling del Mage"
-updated: 2026-10-16
+updated: 2026-10-17
 lang: it
 manual: true
 faq:
@@ -57,7 +57,7 @@ La [build di leveling del Mage](/it/leveling/mage/) dà il talento di ogni livel
 | **Ice Shards** | Raddoppia il bonus critico dei tuoi incantesimi Frost |
 | **Frost Channeling** | Incantesimi Frost più economici del 15% e il 30% di minaccia in meno |
 
-Con punti in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> dal sistema Legacy raggiungi ogni talento fino a cinque livelli prima.
+Con punti in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> dal sistema Legacy raggiungi ogni talento fino a cinque livelli prima. La [guida al Frost Mage](/it/guides/frost-mage/) ha la build di livello 30 con Missile Barrage, oltre a kiting, mana, Shatter ed equipaggiamento.
 
 ## Rotazione
 

@@ -154,7 +154,7 @@ Mit Talented: Improved Starfire 5/5, Eclipse 3/3, Nature's Grace 1/1 und Moonfur
 
 Wurzle ein zweites Monster mit Entangling Roots fest, während du das erste erledigst.
 
-Werte für beide Balance-Builds: Intellect und Zauberschaden, dann Stamina und Spirit, dann Rüstung.
+Werte für beide Balance-Builds: Intellect und Zauberschaden, dann Stamina und Spirit, dann Rüstung. Mehr zu Cooldowns, Mana, Werten und Völkern für Balance steht im [Balance-Druid-Guide](/de/guides/balance-druid/).
 
 ## Restoration-Build für Level 30
 
