@@ -1,7 +1,7 @@
 ---
 title: "Blizzards Wochenrückblick blickt auf Forever"
 description: "Blizzards wöchentlicher Nachrichtenrückblick stellt vier Themen zu Forever nebeneinander: den PvP-Podcast, den Deep Dive zum Paladin, die Abo-Boni und den Soundtrack. Hier liest du mehr zu jedem."
-date: 2026-10-17T06:05:00+02:00
+date: 2026-10-17T06:04:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-12-wow-forever-soundtrack-key-art.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/midnight-12-1-5-live-patch-12-1-7-and-wow-forever-wow-weekly-recap-383465"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Blizzards wöchentlicher Rückblick auf die Nachrichten zu World of Warcraft, erschienen am 16. Oktober, enthält vier Themen zu World of Warcraft: Forever. Sie stehen neben Patch 12.1.5 von Midnight und dem kommenden Update Echoes of the Worldcore für das moderne Spiel. Wir haben alle vier berichtet; hier stehen sie zusammen.

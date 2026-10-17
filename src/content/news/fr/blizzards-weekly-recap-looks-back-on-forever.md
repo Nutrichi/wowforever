@@ -1,7 +1,7 @@
 ---
 title: "Le récap hebdo de Blizzard revient sur Forever"
 description: "Le récapitulatif hebdomadaire de Blizzard réunit quatre sujets sur Forever : le podcast JcJ, le gros plan sur le paladin, les bonus d'abonnement et la bande-son. Voici où en lire plus sur chacun."
-date: 2026-10-17T06:05:00+02:00
+date: 2026-10-17T06:04:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-12-wow-forever-soundtrack-key-art.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/midnight-12-1-5-live-patch-12-1-7-and-wow-forever-wow-weekly-recap-383465"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Le récapitulatif hebdomadaire de l'actualité de World of Warcraft, publié le 16 octobre, contient quatre sujets sur World of Warcraft: Forever. Ils côtoient le patch 12.1.5 de Midnight et la prochaine mise à jour Echoes of the Worldcore du jeu moderne. Nous avons couvert les quatre ; les voici réunis.

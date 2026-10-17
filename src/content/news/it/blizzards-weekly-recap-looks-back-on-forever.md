@@ -1,7 +1,7 @@
 ---
 title: "Il riepilogo settimanale di Blizzard su Forever"
 description: "Il riepilogo settimanale di Blizzard mette insieme quattro notizie su Forever: il podcast sul PvP, l'approfondimento sul paladino, i bonus dell'abbonamento e la colonna sonora. Ecco dove leggere di più su ciascuna."
-date: 2026-10-17T06:05:00+02:00
+date: 2026-10-17T06:04:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-12-wow-forever-soundtrack-key-art.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/midnight-12-1-5-live-patch-12-1-7-and-wow-forever-wow-weekly-recap-383465"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Il riepilogo settimanale delle notizie di World of Warcraft, pubblicato il 16 ottobre, contiene quattro notizie su World of Warcraft: Forever. Stanno accanto alla patch 12.1.5 di Midnight e al prossimo aggiornamento Echoes of the Worldcore del gioco moderno. Le abbiamo trattate tutte e quattro; eccole in un unico posto.

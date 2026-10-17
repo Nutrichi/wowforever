@@ -1,7 +1,7 @@
 ---
 title: "Blizzard's weekly recap looks back on Forever"
 description: "Blizzard's weekly news recap puts four Forever stories side by side: the PvP podcast, the Paladin deep dive, the subscription bonuses and the soundtrack. Here is where to read more about each."
-date: 2026-10-17T06:05:00+02:00
+date: 2026-10-17T06:04:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-12-wow-forever-soundtrack-key-art.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/midnight-12-1-5-live-patch-12-1-7-and-wow-forever-wow-weekly-recap-383465"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 ---
 Blizzard's weekly recap of World of Warcraft news, published on 16 October, has four stories about World of Warcraft: Forever. They sit next to patch 12.1.5 of Midnight and the coming update Echoes of the Worldcore for the modern game. We covered all four; here they are in one place.
 

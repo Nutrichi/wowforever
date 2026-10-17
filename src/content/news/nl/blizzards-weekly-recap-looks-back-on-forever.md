@@ -1,7 +1,7 @@
 ---
 title: "Weekoverzicht van Blizzard blikt terug op Forever"
 description: "Het wekelijkse nieuwsoverzicht van Blizzard zet vier verhalen over Forever naast elkaar: de PvP-podcast, de deep dive over de Paladin, de bonussen bij een abonnement en de soundtrack. Hier lees je meer over elk."
-date: 2026-10-17T06:05:00+02:00
+date: 2026-10-17T06:04:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-12-wow-forever-soundtrack-key-art.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/midnight-12-1-5-live-patch-12-1-7-and-wow-forever-wow-weekly-recap-383465"
 tags: ["forever", "beta"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Het wekelijkse overzicht van het nieuws over World of Warcraft, verschenen op 16 oktober, bevat vier verhalen over World of Warcraft: Forever. Ze staan naast patch 12.1.5 van Midnight en de komende update Echoes of the Worldcore voor het moderne spel. We brachten ze alle vier; hier staan ze bij elkaar.
