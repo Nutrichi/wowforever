@@ -272,7 +272,7 @@ Racials were redesigned as well. Every race now has four racials and the resista
 
 - **Optional transmog.** Transmog exists, but every player chooses whether to see it. With the option off, everyone shows their real gear.
 - **HD or SD graphics.** Characters, models and the world can switch between the original look and updated visuals, with better lighting, fog and water.
-- **Layers with familiar faces.** How many players fit on a layer is set per zone. Layering also tries to put players with the people they grouped with, their guild and their friends list, says Josh Greenfield.
+- **Layers with familiar faces.** How many players fit on a layer is set per zone. Layering also tries to put players with the people they grouped with, their guild and their friends list, says Josh Greenfield. On the beta, leaving a group also moves the group leader to another layer, and bordering zones can sit on different layers ([more](/news/leaving-a-group-moves-the-leader-to-a-new-layer/)).
 - **Recent Allies.** A pane next to the Friends List saves every player a character grouped with, with level, class, place and activity, and invites them again in one click. Favourites can be pinned to the top ([more](/news/recent-allies-remembers-every-player-from-a-group/)).
 - **[Fairer quest drops in a group](/news/quest-drops-in-a-group-get-bad-luck-protection/).** Quest items from monsters are spread more evenly over grouped players, with a form of bad luck protection that is still random, says Josh Greenfield.
 - **A bronze interface.** The bronze, weathered look sets Forever apart from Classic and modern WoW at a glance. A switch to the Classic interface is not planned, and addons can still change it, says Tim Jones.
