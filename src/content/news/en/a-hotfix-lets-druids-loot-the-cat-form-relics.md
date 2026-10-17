@@ -1,7 +1,7 @@
 ---
 title: "A hotfix lets druids loot the Cat Form relics"
 description: "Druids on the beta of World of Warcraft: Forever could not loot the relics for the Cat Form quest. A hotfix on 16 October fixed it, so Cat Form at level 20 works again."
-date: 2026-10-17T03:05:00+02:00
+date: 2026-10-17T03:04:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-06-wow-forever-feral-druid-cat-art.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/druid-cat-form-quest/2384010/56"
 tags: ["forever", "beta", "classes"]
 featured: false
-draft: true
+draft: false
 ---
 Druids on the beta of World of Warcraft: Forever can get Cat Form again. A hotfix on the evening of 16 October fixed a bug that kept them from looting the relics they need for the class quest. Community manager Kaivax wrote on the official forums: "We sent a hotfix to the Beta a few minutes ago that fixed the bug preventing druids from looting the relics necessary to acquire Cat Form."
 

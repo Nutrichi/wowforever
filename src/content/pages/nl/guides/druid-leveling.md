@@ -3,7 +3,7 @@ title: "Druid levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Druid levelgids: builds voor Feral, Balance en Restoration tot 30"
 description: "Zo level je een Druid in WoW Forever: vier builds voor level 30 voor Feral, twee soorten Balance en Restoration, de rotatie, de belangrijke levels, de classquests voor elke vorm, wapens, idols, tradeskills en shapeshiften."
 short: "Druid levelen"
-updated: 2026-10-16
+updated: 2026-10-17
 lang: nl
 manual: true
 faq:
@@ -240,7 +240,7 @@ Een Druid leert de meeste vormen via classquests. De quest voor Bear Form leert 
 
 **Skyborne** volgen op level 10 een eigen weg. Bear Form komt van <a href="https://www.wowhead.com/forever/quest=94006">The Great Ursera Spirit</a> op Zephras Isle, en Teleport: Moonglade van de quest Moonglade, die voor de High Order in Stormwind begint en voor de Windshapers in Thunder Bluff. Op 20 krijgen ze The Great Windborne Cat Spirit: dezelfde reeks, met de Avatar of Saeyleenan in plaats van de Great Cat Spirit.
 
-De quests voor Cat Form zijn nieuw in Forever. Je spreekt met Dendrite Starblaze in Moonglade, zoekt de Great Cat Spirit op in het zuiden van Moonglade, haalt drie relikwieën uit de Stormrage Barrow Den en keert terug naar Dendrite.
+De quests voor Cat Form zijn nieuw in Forever. Je spreekt met Dendrite Starblaze in Moonglade, zoekt de Great Cat Spirit op in het zuiden van Moonglade, haalt drie relikwieën uit de Stormrage Barrow Den en keert terug naar Dendrite. Een bug hield druids tegen om die relikwieën te looten; een hotfix op 16 oktober loste het op ([meer](/nl/news/a-hotfix-lets-druids-loot-the-cat-form-relics/)).
 
 ## Wapens
 

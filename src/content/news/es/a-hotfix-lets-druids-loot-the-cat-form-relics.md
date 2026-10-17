@@ -1,7 +1,7 @@
 ---
 title: "Un parche arregla las reliquias de Cat Form"
 description: "Los druidas de la beta de World of Warcraft: Forever no podían saquear las reliquias de la misión de Cat Form. Una corrección del 16 de octubre lo arregló, así que Cat Form a nivel 20 vuelve a funcionar."
-date: 2026-10-17T03:05:00+02:00
+date: 2026-10-17T03:04:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-06-wow-forever-feral-druid-cat-art.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/druid-cat-form-quest/2384010/56"
 tags: ["forever", "beta", "classes"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Los druidas de la beta de World of Warcraft: Forever pueden volver a conseguir Cat Form. Una corrección de la noche del 16 de octubre arregló un error que les impedía saquear las reliquias que necesitan para la misión de clase. El community manager Kaivax escribió en los foros oficiales: "We sent a hotfix to the Beta a few minutes ago that fixed the bug preventing druids from looting the relics necessary to acquire Cat Form."

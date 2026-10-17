@@ -1,7 +1,7 @@
 ---
 title: "Un correctif débloque les reliques de Cat Form"
 description: "Les druides de la bêta de World of Warcraft: Forever ne pouvaient pas ramasser les reliques de la quête de Cat Form. Un correctif du 16 octobre a réglé le problème, Cat Form au niveau 20 fonctionne de nouveau."
-date: 2026-10-17T03:05:00+02:00
+date: 2026-10-17T03:04:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-06-wow-forever-feral-druid-cat-art.jpg
@@ -10,7 +10,7 @@ source: "Blizzard Entertainment"
 sourceUrl: "https://us.forums.blizzard.com/en/wow/t/druid-cat-form-quest/2384010/56"
 tags: ["forever", "beta", "classes"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Les druides de la bêta de World of Warcraft: Forever peuvent de nouveau obtenir Cat Form. Un correctif déployé le soir du 16 octobre a réglé un bug qui les empêchait de ramasser les reliques nécessaires à la quête de classe. Le community manager Kaivax a écrit sur les forums officiels : "We sent a hotfix to the Beta a few minutes ago that fixed the bug preventing druids from looting the relics necessary to acquire Cat Form."

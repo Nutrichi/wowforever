@@ -3,7 +3,7 @@ title: "Livellare un Druid in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Druid in WoW Forever: build Feral, Balance e Restoration fino al 30"
 description: "Come livellare un Druid in WoW Forever: quattro build di livello 30 per Feral, due tipi di Balance e Restoration, la rotazione, i livelli chiave, le missioni di classe per ogni forma, armi, idoli, professioni e cambio di forma."
 short: "Leveling Druid"
-updated: 2026-10-16
+updated: 2026-10-17
 lang: it
 manual: true
 faq:
@@ -240,7 +240,7 @@ Un Druid impara la maggior parte delle forme con missioni di classe. La missione
 
 Gli **Skyborne** seguono una strada propria al livello 10. Bear Form viene da <a href="https://www.wowhead.com/forever/quest=94006">The Great Ursera Spirit</a> su Zephras Isle, e Teleport: Moonglade dalla missione Moonglade, che parte a Stormwind per l'High Order e a Thunder Bluff per i Windshaper. Al 20 ricevono The Great Windborne Cat Spirit: la stessa catena, con l'Avatar of Saeyleenan al posto del Great Cat Spirit.
 
-Le missioni di Cat Form sono nuove in Forever. Parli con Dendrite Starblaze a Moonglade, cerchi il Great Cat Spirit nel sud di Moonglade, recuperi tre reliquie nello Stormrage Barrow Den e torni da Dendrite.
+Le missioni di Cat Form sono nuove in Forever. Parli con Dendrite Starblaze a Moonglade, cerchi il Great Cat Spirit nel sud di Moonglade, recuperi tre reliquie nello Stormrage Barrow Den e torni da Dendrite. Un bug impediva ai druidi di raccogliere quelle reliquie; un hotfix del 16 ottobre l'ha risolto ([altro](/it/news/a-hotfix-lets-druids-loot-the-cat-form-relics/)).
 
 ## Armi
 

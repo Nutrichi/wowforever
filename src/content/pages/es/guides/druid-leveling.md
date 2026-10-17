@@ -3,7 +3,7 @@ title: "Subir un Druid en WoW Forever: la guía"
 metaTitle: "Guía de subida de Druid en WoW Forever: builds de Feral, Balance y Restoration hasta el 30"
 description: "Cómo subir un Druid en WoW Forever: cuatro builds de nivel 30 para Feral, dos tipos de Balance y Restoration, la rotación, los niveles clave, las misiones de clase para cada forma, armas, ídolos, profesiones y cambios de forma."
 short: "Subir un Druid"
-updated: 2026-10-16
+updated: 2026-10-17
 lang: es
 manual: true
 faq:
@@ -240,7 +240,7 @@ Un Druid aprende la mayoría de sus formas con misiones de clase. La misión de 
 
 Los **Skyborne** siguen su propio camino en el nivel 10. Bear Form viene de <a href="https://www.wowhead.com/forever/quest=94006">The Great Ursera Spirit</a> en Zephras Isle, y Teleport: Moonglade de la misión Moonglade, que empieza en Stormwind para el High Order y en Thunder Bluff para los Windshapers. En el 20 reciben The Great Windborne Cat Spirit: la misma cadena, con el Avatar of Saeyleenan en lugar del Great Cat Spirit.
 
-Las misiones de Cat Form son nuevas en Forever. Hablas con Dendrite Starblaze en Moonglade, buscas al Great Cat Spirit en el sur de Moonglade, recuperas tres reliquias del Stormrage Barrow Den y vuelves con Dendrite.
+Las misiones de Cat Form son nuevas en Forever. Hablas con Dendrite Starblaze en Moonglade, buscas al Great Cat Spirit en el sur de Moonglade, recuperas tres reliquias del Stormrage Barrow Den y vuelves con Dendrite. Un error impedía a los druidas saquear esas reliquias; una corrección del 16 de octubre lo arregló ([más](/es/news/a-hotfix-lets-druids-loot-the-cat-form-relics/)).
 
 ## Armas
 
