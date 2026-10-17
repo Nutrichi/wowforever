@@ -35,9 +35,9 @@ Rivern Frostwind staat boven op **Frostsaber Rock** in Winterspring. De eerste t
 
 | Quest | Reputatie per inlevering |
 |---|---|
-| Frostsaber Provisions | 50 |
-| Winterfall Intrusion | 50 |
-| Rampaging Giants | 75 |
+| [Frostsaber Provisions](https://www.wowhead.com/forever/quest=4970) | 50 |
+| [Winterfall Intrusion](https://www.wowhead.com/forever/quest=5201) | 50 |
+| [Rampaging Giants](https://www.wowhead.com/forever/quest=5981) | 75 |
 
 Frostsaber Provisions is er van bij het begin. Winterfall Intrusion en Rampaging Giants openen later, en Rampaging Giants is een groepsquest. Humans krijgen 10% meer reputatie door hun racial Diplomacy.
 

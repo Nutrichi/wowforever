@@ -49,10 +49,10 @@ Chaque quête pas à pas, avec les coordonnées de la chaîne de Dun Morogh, se 
 
 | Récompense | Type | Quête |
 |---|---|---|
-| Ironforge Greathammer | Masse à deux mains | Old Ironforge Incursion |
+| [Ironforge Greathammer](https://www.wowhead.com/forever/item=279895) | Masse à deux mains | Old Ironforge Incursion |
 | Deepblaze | Baguette | Old Ironforge Incursion |
-| Dwarven Tome | Main gauche | Important Heirlooms |
-| Catacomb Cloak | Cape | An Ancient Grudge |
+| [Dwarven Tome](https://www.wowhead.com/forever/item=279898) | Main gauche | Important Heirlooms |
+| [Catacomb Cloak](https://www.wowhead.com/forever/item=279899) | Cape | An Ancient Grudge |
 
 Qui peut prendre ces quêtes n’est pas clair. Une source les dit toutes les cinq réservées à l’Alliance. Une autre fait une exception pour Important Heirlooms et An Ancient Grudge.
 

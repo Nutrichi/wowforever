@@ -49,10 +49,10 @@ Elke quest geeft tot 9.750 experience. In het spel kleuren ze rood, zelfs op lev
 
 | Beloning | Soort | Quest |
 |---|---|---|
-| The Stitcher | Eenhandige mace, Horde | Light's Justice |
-| Gnarled Necromancer's Staff | Staff | The Wrath of Rath'mael |
-| Slain Baron's Signet | Ring | Abominable Creatures |
-| Tarnished Locket | Halsketting, Alliance | Remember That I Love You |
+| [The Stitcher](https://www.wowhead.com/forever/item=279874) | Eenhandige mace, Horde | Light's Justice |
+| [Gnarled Necromancer's Staff](https://www.wowhead.com/forever/item=251534) | Staff | The Wrath of Rath'mael |
+| [Slain Baron's Signet](https://www.wowhead.com/forever/item=279867) | Ring | Abominable Creatures |
+| [Tarnished Locket](https://www.wowhead.com/forever/item=279870) | Halsketting, Alliance | Remember That I Love You |
 
 Elke quest met zijn questgever, coördinaten en alle beloningen staat in de [gids over de Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/).
 

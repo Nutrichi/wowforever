@@ -27,11 +27,11 @@ It resembles Embrace of the Viper, the leveling set from Wailing Caverns that [t
 
 | Piece | Slot | Item level | Required level | Binds |
 |---|---|---|---|---|
-| Rotmender's Robes | Chest | 23 | 18 | when equipped |
-| Rotmender's Gloves | Hands | 22 | 17 | when equipped |
-| Rotmender's Sash | Waist | 22 | 17 | when equipped |
-| Rotmender's Leggings | Legs | 22 | 17 | when picked up |
-| Rotmender's Treads | Feet | 24 | 19 | when picked up |
+| [Rotmender's Garb](https://www.wowhead.com/forever/item=286978) | Chest | 23 | 18 | when equipped |
+| [Rotmender's Gloves](https://www.wowhead.com/forever/item=286979) | Hands | 22 | 17 | when equipped |
+| [Rotmender's Sash](https://www.wowhead.com/forever/item=286980) | Waist | 22 | 17 | when equipped |
+| [Rotmender's Leggings](https://www.wowhead.com/forever/item=271207) | Legs | 22 | 17 | when picked up |
+| [Rotmender's Treads](https://www.wowhead.com/forever/item=271214) | Feet | 24 | 19 | when picked up |
 
 Two pieces already existed under another name. Rotmender's Leggings used to be Wispcloth Leggings, and Rotmender's Treads were Frostbane Treads. Both are dungeon drops, so the other three probably come from dungeons too. Which dungeons, is not known.
 

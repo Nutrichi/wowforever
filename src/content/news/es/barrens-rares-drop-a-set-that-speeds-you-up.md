@@ -21,7 +21,7 @@ Tres raros de The Barrens sueltan ahora equipo de un conjunto. Humar the Pridelo
 |---|---|---|---|
 | Signet of the Zhevra | Finger | 23 | +6 Agility, +2 Spirit |
 | Mark of the Pack Leader | Neck | 25 | +5 Strength, +5 Intellect |
-| Raptor Hide Cloak | Back | 21 | 19 Armor, +4 Stamina, +3 Spirit |
+| [Raptor Hide Cloak](https://www.wowhead.com/forever/item=285329) | Back | 21 | 19 Armor, +4 Stamina, +3 Spirit |
 
 El conjunto tiene tres objetos y el bonus salta ya con dos, así que el tercero es una elección y no un requisito. Los tres se ligan al recogerlos.
 

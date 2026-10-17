@@ -28,11 +28,11 @@ Es erinnert an Embrace of the Viper, dem Levelset aus Wailing Caverns, das [Drui
 
 | Teil | Platz | Itemlevel | Benötigtes Level | Bindet |
 |---|---|---|---|---|
-| Rotmender's Robes | Brust | 23 | 18 | beim Anlegen |
-| Rotmender's Gloves | Hände | 22 | 17 | beim Anlegen |
-| Rotmender's Sash | Taille | 22 | 17 | beim Anlegen |
-| Rotmender's Leggings | Beine | 22 | 17 | beim Aufheben |
-| Rotmender's Treads | Füße | 24 | 19 | beim Aufheben |
+| [Rotmender's Garb](https://www.wowhead.com/forever/item=286978) | Brust | 23 | 18 | beim Anlegen |
+| [Rotmender's Gloves](https://www.wowhead.com/forever/item=286979) | Hände | 22 | 17 | beim Anlegen |
+| [Rotmender's Sash](https://www.wowhead.com/forever/item=286980) | Taille | 22 | 17 | beim Anlegen |
+| [Rotmender's Leggings](https://www.wowhead.com/forever/item=271207) | Beine | 22 | 17 | beim Aufheben |
+| [Rotmender's Treads](https://www.wowhead.com/forever/item=271214) | Füße | 24 | 19 | beim Aufheben |
 
 Zwei Teile gab es schon unter einem anderen Namen. Rotmender's Leggings hießen früher Wispcloth Leggings, und Rotmender's Treads waren Frostbane Treads. Beide fallen in Dungeons, darum kommen die anderen drei wohl auch aus Dungeons. Aus welchen, ist nicht bekannt.
 

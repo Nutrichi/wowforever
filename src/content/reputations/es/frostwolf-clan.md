@@ -40,8 +40,8 @@ La reputación por muertes se reparte entre toda la banda y llega al momento.
 | Fuente | Reputación |
 |---|---|
 | Matar a Vanndar Stormpike, el general de la Alianza | 389 |
-| Matar a Captain Balinda Stonehearth | 125 |
-| Matar a Ivus the Forest Lord | 125 |
+| Matar a [Captain Balinda Stonehearth](https://www.wowhead.com/forever/npc=11949) | 125 |
+| Matar a [Ivus the Forest Lord](https://www.wowhead.com/forever/npc=13419) | 125 |
 | Matar a un comandante de la Alianza | 12 |
 | Matar a un air master de la Alianza | 5 |
 | Matar a un guardia de la Alianza, hasta Honored | 5 |

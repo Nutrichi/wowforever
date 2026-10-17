@@ -39,7 +39,7 @@ Le fonti non concordano su dove parta un nuovo personaggio dentro Hated: dal fon
 
 | Uccisione | Bloodsail Buccaneers | Booty Bay | Everlook, Gadgetzan e Ratchet |
 |---|---|---|---|
-| Booty Bay Bruiser | +25 | -125 | -62,5 ciascuna |
+| [Booty Bay Bruiser](https://www.wowhead.com/forever/npc=4624) | +25 | -125 | -62,5 ciascuna |
 
 La maggior parte degli altri abitanti di Booty Bay dà 5 punti. Dal fondo di Hated, Friendly richiede 1.800 Bruiser; da 35.500 ne servono 380. Gli Humans ottengono il 10 % di reputazione in più grazie al racial Diplomacy.
 

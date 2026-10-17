@@ -49,10 +49,10 @@ Cada misión da hasta 9.750 de experiencia. En el juego salen en rojo incluso a 
 
 | Recompensa | Tipo | Misión |
 |---|---|---|
-| The Stitcher | Maza de una mano, Horde | Light's Justice |
-| Gnarled Necromancer's Staff | Bastón | The Wrath of Rath'mael |
-| Slain Baron's Signet | Anillo | Abominable Creatures |
-| Tarnished Locket | Collar, Alliance | Remember That I Love You |
+| [The Stitcher](https://www.wowhead.com/forever/item=279874) | Maza de una mano, Horde | Light's Justice |
+| [Gnarled Necromancer's Staff](https://www.wowhead.com/forever/item=251534) | Bastón | The Wrath of Rath'mael |
+| [Slain Baron's Signet](https://www.wowhead.com/forever/item=279867) | Anillo | Abominable Creatures |
+| [Tarnished Locket](https://www.wowhead.com/forever/item=279870) | Collar, Alliance | Remember That I Love You |
 
 Cada misión con quien la da, sus coordenadas y todas las recompensas está en la [guía de Ruins of Lordaeron](/es/guides/dungeons/ruins-of-lordaeron/).
 

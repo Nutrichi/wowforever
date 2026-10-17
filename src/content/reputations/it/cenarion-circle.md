@@ -41,9 +41,9 @@ La maggior parte dei cultisti del Twilight's Hammer dà 1 punto di reputazione p
 
 | Consegna | Reputazione |
 |---|---|
-| Encrypted Twilight Texts | 100 |
-| Abyssal Crests | 50 |
-| Abyssal Signets | 100 |
+| [Encrypted Twilight Texts](https://www.wowhead.com/forever/item=20404) | 100 |
+| [Abyssal Crests](https://www.wowhead.com/forever/item=20513) | 50 |
+| [Abyssal Signets](https://www.wowhead.com/forever/item=20514) | 100 |
 | Field Duty | 25 |
 
 I cultisti lasciano cadere Encrypted Twilight Texts. Le Abyssal Crest e le Abyssal Signet arrivano dagli elementali che si possono evocare alle wind stone di Silithus. Field Duty è una missione ripetibile che apre incarichi di combattimento, logistica e tattica in tutta la zona.

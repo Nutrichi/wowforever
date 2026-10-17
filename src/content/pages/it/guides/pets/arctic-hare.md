@@ -15,7 +15,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=280797"
 ---
-Arctic Hare è una mascotte da compagnia nuova in World of Warcraft: Forever. La impari con <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280797"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Artic)</a>.
+Arctic Hare è una mascotte da compagnia nuova in World of Warcraft: Forever. La impari con <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280797"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Arctic)</a>.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_crate_02.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=280797">Rabbit Crate (Artic)</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line wf-item__use">Use: Teaches you how to summon this companion.</span><span class="wf-item__line">Right Click to summon and dismiss your rabbit.</span></div></div>
@@ -25,7 +25,7 @@ Arctic Hare è una mascotte da compagnia nuova in World of Warcraft: Forever. La
 
 | | |
 |---|---|
-| Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280797"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Artic)</a> |
+| Oggetto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280797"><img class="wf-wh__icon" src="/wh/inv_crate_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rabbit Crate (Arctic)</a> |
 | Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a> |
 | Dove | Dun Morogh |
 | Prezzo | 21 d'argento e 5 di rame |

@@ -48,6 +48,6 @@ El set parece hecho para Mages, pero cualquier lanzador de hechizos puede usarlo
 | **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286988"><img class="wf-wh__icon" src="/wh/inv_pants_cloth_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Leggings</a>** | 34 |
 | **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286987"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Sandals</a>** | 33 |
 | **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286989"><img class="wf-wh__icon" src="/wh/inv_gauntlets_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Wraps</a>** | 33 |
-| **Violet Sorcerer's Robes** | Desconocido |
+| **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273044"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_17.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Robes</a>** | Desconocido |
 
 El manto cae de Shade of the Archmage, uno de los jefes de la mazmorra, con una probabilidad de un 31 % en la beta. Requiere nivel 30. Qué jefes sueltan las otras piezas, aún no se sabe.

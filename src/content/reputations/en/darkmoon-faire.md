@@ -53,8 +53,8 @@ Several players report that tier 5 already stops giving reputation at about 2,00
 
 | Quest giver | Turn-ins | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|---|---|
-| Yebb Neblegear | Animal parts | 5 Small Furry Paw | 5 Torn Bear Pelt | 5 Soft Bushy Tail | 5 Vibrant Plume | 10 Evil Bat Eye or 10 Glowing Scorpid Blood |
-| Kerri Hicks | Blacksmithing items | 10 Coarse Weightstone | 7 Heavy Grinding Stone | 3 Green Iron Bracers | 1 Big Black Mace | 8 Dense Grinding Stone |
+| [Yebb Neblegear](https://www.wowhead.com/forever/npc=14829) | Animal parts | 5 Small Furry Paw | 5 Torn Bear Pelt | 5 Soft Bushy Tail | 5 Vibrant Plume | 10 Evil Bat Eye or 10 Glowing Scorpid Blood |
+| [Kerri Hicks](https://www.wowhead.com/forever/npc=14832) | Blacksmithing items | 10 Coarse Weightstone | 7 Heavy Grinding Stone | 3 Green Iron Bracers | 1 Big Black Mace | 8 Dense Grinding Stone |
 | Rinling | Engineering items | 5 Copper Modulator | 7 Whirring Bronze Gizmo | 36 Green Firework | 6 Mechanical Repair Kit | 6 Thorium Widget |
 | Chronos | Leatherworking items | 3 Embossed Leather Boots | 3 Toughened Leather Armor | 3 Barbaric Harness | 1 Turtle Scale Leggings | 8 Rugged Armor Kit |
 

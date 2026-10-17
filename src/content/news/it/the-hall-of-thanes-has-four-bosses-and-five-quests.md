@@ -49,10 +49,10 @@ Ogni missione passo per passo, con le coordinate della catena di Dun Morogh, è 
 
 | Ricompensa | Tipo | Missione |
 |---|---|---|
-| Ironforge Greathammer | Mazza a due mani | Old Ironforge Incursion |
+| [Ironforge Greathammer](https://www.wowhead.com/forever/item=279895) | Mazza a due mani | Old Ironforge Incursion |
 | Deepblaze | Bacchetta | Old Ironforge Incursion |
-| Dwarven Tome | Mano secondaria | Important Heirlooms |
-| Catacomb Cloak | Mantello | An Ancient Grudge |
+| [Dwarven Tome](https://www.wowhead.com/forever/item=279898) | Mano secondaria | Important Heirlooms |
+| [Catacomb Cloak](https://www.wowhead.com/forever/item=279899) | Mantello | An Ancient Grudge |
 
 Chi possa prendere le missioni non è chiaro. Una fonte le dice tutte e cinque solo per l’Alleanza. Un’altra fa un’eccezione per Important Heirlooms e An Ancient Grudge.
 

@@ -48,6 +48,6 @@ Das Set wirkt wie für Mages gemacht, aber jeder Zauberwirker kann es tragen. Di
 | **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286988"><img class="wf-wh__icon" src="/wh/inv_pants_cloth_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Leggings</a>** | 34 |
 | **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286987"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Sandals</a>** | 33 |
 | **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286989"><img class="wf-wh__icon" src="/wh/inv_gauntlets_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Wraps</a>** | 33 |
-| **Violet Sorcerer's Robes** | Nicht bekannt |
+| **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273044"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_17.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Robes</a>** | Nicht bekannt |
 
 Der Umhang droppt in der Beta bei Shade of the Archmage, einem der Bosse des Dungeons, mit einer Chance von etwa 31 %. Er verlangt Level 30. Welche Bosse die anderen Teile droppen, ist noch nicht bekannt.

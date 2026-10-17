@@ -29,9 +29,9 @@ Le bug est corrigé. Dual Wield Specialization ne donne maintenant plus du tout 
 
 | Talent | Rangée | Effet |
 |---|---|---|
-| **Lingering Rage** | 2 | La Rage commence à baisser 2, 4, 6, 8 ou 10 secondes plus tard après le combat |
-| **Furious Precision** | 3 | 4, 7 ou 10 % de chances de toucher en plus avec la main gauche |
-| **Gore Drinker** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish et Bloodthirst font rendre à vos 3 prochaines attaques de mêlée 0,5 ou 1 % de votre Health maximum ; nécessite Enrage |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323964"><img class="wf-wh__icon" src="/wh/ability_warrior_secondwind.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lingering Rage</a>** | 2 | La Rage commence à baisser 2, 4, 6, 8 ou 10 secondes plus tard après le combat |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323963"><img class="wf-wh__icon" src="/wh/ability_warrior_incite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Furious Precision</a>** | 3 | 4, 7 ou 10 % de chances de toucher en plus avec la main gauche |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323967"><img class="wf-wh__icon" src="/wh/racial_troll_berserk.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gore Drinker</a>** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish et Bloodthirst font rendre à vos 3 prochaines attaques de mêlée 0,5 ou 1 % de votre Health maximum ; nécessite Enrage |
 
 ## Le reste de Fury
 

@@ -40,8 +40,8 @@ La réputation des victimes est partagée par tout le raid et arrive tout de sui
 | Source | Réputation |
 |---|---|
 | Tuer Drek'Thar, le général de la Horde | 389 |
-| Tuer Captain Galvangar | 125 |
-| Tuer Lokholar the Ice Lord | 125 |
+| Tuer [Captain Galvangar](https://www.wowhead.com/forever/npc=11947) | 125 |
+| Tuer [Lokholar the Ice Lord](https://www.wowhead.com/forever/npc=13256) | 125 |
 | Tuer un commandant de la Horde | 12 |
 | Tuer un air master de la Horde | 5 |
 | Tuer un garde de la Horde, jusqu'à Honored | 5 |

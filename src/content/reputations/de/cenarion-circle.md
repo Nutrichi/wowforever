@@ -41,9 +41,9 @@ Die meisten Kultisten des Twilight's Hammer geben 1 Ruf pro Kill, bis Honored. S
 
 | Abgabe | Ruf |
 |---|---|
-| Encrypted Twilight Texts | 100 |
-| Abyssal Crests | 50 |
-| Abyssal Signets | 100 |
+| [Encrypted Twilight Texts](https://www.wowhead.com/forever/item=20404) | 100 |
+| [Abyssal Crests](https://www.wowhead.com/forever/item=20513) | 50 |
+| [Abyssal Signets](https://www.wowhead.com/forever/item=20514) | 100 |
 | Field Duty | 25 |
 
 Die Kultisten lassen Encrypted Twilight Texts fallen. Abyssal Crests und Abyssal Signets stammen von den Elementaren, die man an den Wind Stones von Silithus beschwören kann. Field Duty ist eine wiederholbare Quest, die Aufträge für Kampf, Logistik und Taktik in der ganzen Zone öffnet.

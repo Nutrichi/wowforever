@@ -38,7 +38,7 @@ Sources do not agree on where a new character starts inside Hated: at the very b
 
 | Kill | Bloodsail Buccaneers | Booty Bay | Everlook, Gadgetzan and Ratchet |
 |---|---|---|---|
-| Booty Bay Bruiser | +25 | -125 | -62.5 each |
+| [Booty Bay Bruiser](https://www.wowhead.com/forever/npc=4624) | +25 | -125 | -62.5 each |
 
 Most other citizens of Booty Bay give 5 reputation. From the bottom of Hated, Friendly takes 1,800 Bruisers; from 35,500, it takes 380. Humans get 10% more reputation from their racial Diplomacy.
 

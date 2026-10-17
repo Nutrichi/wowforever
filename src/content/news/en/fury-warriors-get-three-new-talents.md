@@ -28,9 +28,9 @@ The bug is fixed. Dual Wield Specialization now no longer gives hit to the off-h
 
 | Talent | Row | What it does |
 |---|---|---|
-| **Lingering Rage** | 2 | Rage starts to decay 2, 4, 6, 8 or 10 seconds later after combat |
-| **Furious Precision** | 3 | 4, 7 or 10% more chance to hit with the off-hand |
-| **Gore Drinker** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish and Bloodthirst make your next 3 melee attacks restore 0.5 or 1% of your maximum Health; requires Enrage |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323964"><img class="wf-wh__icon" src="/wh/ability_warrior_secondwind.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lingering Rage</a>** | 2 | Rage starts to decay 2, 4, 6, 8 or 10 seconds later after combat |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323963"><img class="wf-wh__icon" src="/wh/ability_warrior_incite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Furious Precision</a>** | 3 | 4, 7 or 10% more chance to hit with the off-hand |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323967"><img class="wf-wh__icon" src="/wh/racial_troll_berserk.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gore Drinker</a>** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish and Bloodthirst make your next 3 melee attacks restore 0.5 or 1% of your maximum Health; requires Enrage |
 
 ## The rest of Fury
 

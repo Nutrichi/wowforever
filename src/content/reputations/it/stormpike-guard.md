@@ -40,8 +40,8 @@ La reputazione per le uccisioni è divisa tra tutto il raid e arriva subito.
 | Fonte | Reputazione |
 |---|---|
 | Uccidere Drek'Thar, il generale dell'Orda | 389 |
-| Uccidere Captain Galvangar | 125 |
-| Uccidere Lokholar the Ice Lord | 125 |
+| Uccidere [Captain Galvangar](https://www.wowhead.com/forever/npc=11947) | 125 |
+| Uccidere [Lokholar the Ice Lord](https://www.wowhead.com/forever/npc=13256) | 125 |
 | Uccidere un comandante dell'Orda | 12 |
 | Uccidere un air master dell'Orda | 5 |
 | Uccidere una guardia dell'Orda, fino a Honored | 5 |

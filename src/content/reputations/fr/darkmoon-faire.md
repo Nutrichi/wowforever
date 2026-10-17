@@ -54,8 +54,8 @@ Plusieurs joueurs signalent que le palier 5 ne donne déjà plus de réputation 
 
 | Donneur de quête | Remises | Palier 1 | Palier 2 | Palier 3 | Palier 4 | Palier 5 |
 |---|---|---|---|---|---|---|
-| Yebb Neblegear | Morceaux d'animaux | 5 Small Furry Paw | 5 Torn Bear Pelt | 5 Soft Bushy Tail | 5 Vibrant Plume | 10 Evil Bat Eye ou 10 Glowing Scorpid Blood |
-| Kerri Hicks | Objets de Blacksmithing | 10 Coarse Weightstone | 7 Heavy Grinding Stone | 3 Green Iron Bracers | 1 Big Black Mace | 8 Dense Grinding Stone |
+| [Yebb Neblegear](https://www.wowhead.com/forever/npc=14829) | Morceaux d'animaux | 5 Small Furry Paw | 5 Torn Bear Pelt | 5 Soft Bushy Tail | 5 Vibrant Plume | 10 Evil Bat Eye ou 10 Glowing Scorpid Blood |
+| [Kerri Hicks](https://www.wowhead.com/forever/npc=14832) | Objets de Blacksmithing | 10 Coarse Weightstone | 7 Heavy Grinding Stone | 3 Green Iron Bracers | 1 Big Black Mace | 8 Dense Grinding Stone |
 | Rinling | Objets d'Engineering | 5 Copper Modulator | 7 Whirring Bronze Gizmo | 36 Green Firework | 6 Mechanical Repair Kit | 6 Thorium Widget |
 | Chronos | Objets de Leatherworking | 3 Embossed Leather Boots | 3 Toughened Leather Armor | 3 Barbaric Harness | 1 Turtle Scale Leggings | 8 Rugged Armor Kit |
 

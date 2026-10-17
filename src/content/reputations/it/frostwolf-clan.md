@@ -40,8 +40,8 @@ La reputazione per le uccisioni è divisa tra tutto il raid e arriva subito.
 | Fonte | Reputazione |
 |---|---|
 | Uccidere Vanndar Stormpike, il generale dell'Alleanza | 389 |
-| Uccidere Captain Balinda Stonehearth | 125 |
-| Uccidere Ivus the Forest Lord | 125 |
+| Uccidere [Captain Balinda Stonehearth](https://www.wowhead.com/forever/npc=11949) | 125 |
+| Uccidere [Ivus the Forest Lord](https://www.wowhead.com/forever/npc=13419) | 125 |
 | Uccidere un comandante dell'Alleanza | 12 |
 | Uccidere un air master dell'Alleanza | 5 |
 | Uccidere una guardia dell'Alleanza, fino a Honored | 5 |

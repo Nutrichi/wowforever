@@ -29,9 +29,9 @@ Il bug è corretto. Dual Wield Specialization ora non dà più alcun bonus al co
 
 | Talento | Fila | Cosa fa |
 |---|---|---|
-| **Lingering Rage** | 2 | La Rage inizia a calare 2, 4, 6, 8 o 10 secondi più tardi dopo il combattimento |
-| **Furious Precision** | 3 | Il 4, 7 o 10% di probabilità in più di colpire con la mano secondaria |
-| **Gore Drinker** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish e Bloodthirst fanno ripristinare ai tuoi prossimi 3 attacchi in mischia lo 0,5 o l'1% della Health massima; richiede Enrage |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323964"><img class="wf-wh__icon" src="/wh/ability_warrior_secondwind.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lingering Rage</a>** | 2 | La Rage inizia a calare 2, 4, 6, 8 o 10 secondi più tardi dopo il combattimento |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323963"><img class="wf-wh__icon" src="/wh/ability_warrior_incite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Furious Precision</a>** | 3 | Il 4, 7 o 10% di probabilità in più di colpire con la mano secondaria |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323967"><img class="wf-wh__icon" src="/wh/racial_troll_berserk.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gore Drinker</a>** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish e Bloodthirst fanno ripristinare ai tuoi prossimi 3 attacchi in mischia lo 0,5 o l'1% della Health massima; richiede Enrage |
 
 ## Il resto di Fury
 

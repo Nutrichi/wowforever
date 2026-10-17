@@ -54,8 +54,8 @@ Diversi giocatori scrivono che il livello 5 smette di dare reputazione già into
 
 | Chi dà la missione | Consegne | Livello 1 | Livello 2 | Livello 3 | Livello 4 | Livello 5 |
 |---|---|---|---|---|---|---|
-| Yebb Neblegear | Parti di animali | 5 Small Furry Paw | 5 Torn Bear Pelt | 5 Soft Bushy Tail | 5 Vibrant Plume | 10 Evil Bat Eye o 10 Glowing Scorpid Blood |
-| Kerri Hicks | Oggetti di Blacksmithing | 10 Coarse Weightstone | 7 Heavy Grinding Stone | 3 Green Iron Bracers | 1 Big Black Mace | 8 Dense Grinding Stone |
+| [Yebb Neblegear](https://www.wowhead.com/forever/npc=14829) | Parti di animali | 5 Small Furry Paw | 5 Torn Bear Pelt | 5 Soft Bushy Tail | 5 Vibrant Plume | 10 Evil Bat Eye o 10 Glowing Scorpid Blood |
+| [Kerri Hicks](https://www.wowhead.com/forever/npc=14832) | Oggetti di Blacksmithing | 10 Coarse Weightstone | 7 Heavy Grinding Stone | 3 Green Iron Bracers | 1 Big Black Mace | 8 Dense Grinding Stone |
 | Rinling | Oggetti di Engineering | 5 Copper Modulator | 7 Whirring Bronze Gizmo | 36 Green Firework | 6 Mechanical Repair Kit | 6 Thorium Widget |
 | Chronos | Oggetti di Leatherworking | 3 Embossed Leather Boots | 3 Toughened Leather Armor | 3 Barbaric Harness | 1 Turtle Scale Leggings | 8 Rugged Armor Kit |
 

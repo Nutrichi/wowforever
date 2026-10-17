@@ -39,7 +39,7 @@ Les sources ne s'accordent pas sur l'endroit où un nouveau personnage commence 
 
 | Monstre | Bloodsail Buccaneers | Booty Bay | Everlook, Gadgetzan et Ratchet |
 |---|---|---|---|
-| Booty Bay Bruiser | +25 | -125 | -62,5 chacune |
+| [Booty Bay Bruiser](https://www.wowhead.com/forever/npc=4624) | +25 | -125 | -62,5 chacune |
 
 La plupart des autres habitants de Booty Bay donnent 5 points. Depuis le bas de Hated, Friendly demande 1 800 Bruisers ; depuis 35 500, il en faut 380. Les Humans gagnent 10 % de réputation en plus grâce à leur racial Diplomacy.
 

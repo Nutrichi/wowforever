@@ -54,8 +54,8 @@ Mehrere Spieler berichten, dass Stufe 5 schon bei etwa 2.000 in Friendly keinen 
 
 | Questgeber | Abgaben | Stufe 1 | Stufe 2 | Stufe 3 | Stufe 4 | Stufe 5 |
 |---|---|---|---|---|---|---|
-| Yebb Neblegear | Tierteile | 5 Small Furry Paw | 5 Torn Bear Pelt | 5 Soft Bushy Tail | 5 Vibrant Plume | 10 Evil Bat Eye oder 10 Glowing Scorpid Blood |
-| Kerri Hicks | Gegenstände aus Blacksmithing | 10 Coarse Weightstone | 7 Heavy Grinding Stone | 3 Green Iron Bracers | 1 Big Black Mace | 8 Dense Grinding Stone |
+| [Yebb Neblegear](https://www.wowhead.com/forever/npc=14829) | Tierteile | 5 Small Furry Paw | 5 Torn Bear Pelt | 5 Soft Bushy Tail | 5 Vibrant Plume | 10 Evil Bat Eye oder 10 Glowing Scorpid Blood |
+| [Kerri Hicks](https://www.wowhead.com/forever/npc=14832) | Gegenstände aus Blacksmithing | 10 Coarse Weightstone | 7 Heavy Grinding Stone | 3 Green Iron Bracers | 1 Big Black Mace | 8 Dense Grinding Stone |
 | Rinling | Gegenstände aus Engineering | 5 Copper Modulator | 7 Whirring Bronze Gizmo | 36 Green Firework | 6 Mechanical Repair Kit | 6 Thorium Widget |
 | Chronos | Gegenstände aus Leatherworking | 3 Embossed Leather Boots | 3 Toughened Leather Armor | 3 Barbaric Harness | 1 Turtle Scale Leggings | 8 Rugged Armor Kit |
 

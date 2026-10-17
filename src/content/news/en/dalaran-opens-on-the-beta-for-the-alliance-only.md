@@ -35,7 +35,7 @@ No flight path lands in Dalaran yet.
 | First Aid | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=251977">Angelique Butler</a> | /way 17.4 61.2 |
 | Enchanting | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=251978">Vanessa Sellers</a> | /way 16.9 62.6 |
 | Cooking | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=252084">Katherine Lee</a> | Silver Enclave, /way 12.7 64.2 |
-| Herbalism | Edward Egan | /way 18.4 63.4 |
+| Herbalism | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=275321">Edward Egan</a> | /way 18.4 63.4 |
 | Blacksmithing | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=28694">Alard Schmied</a> | Violet Plates and Framing, /way 19.6 63.3 |
 | Tailoring | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=251972">Charles Worth</a> | Talismanic Textiles, /way 17.8 60.4 |
 | Alchemy | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=246795">Linzy Blackbolt</a> | The Agronomical Apothecary, /way 18.6 62.4 |

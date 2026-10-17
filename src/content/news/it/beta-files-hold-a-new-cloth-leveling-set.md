@@ -28,11 +28,11 @@ Ricorda Embrace of the Viper, il set di Wailing Caverns che [trasforma i Druids 
 
 | Pezzo | Slot | Livello oggetto | Livello richiesto | Si vincola |
 |---|---|---|---|---|
-| Rotmender's Robes | Torso | 23 | 18 | quando indossato |
-| Rotmender's Gloves | Mani | 22 | 17 | quando indossato |
-| Rotmender's Sash | Vita | 22 | 17 | quando indossato |
-| Rotmender's Leggings | Gambe | 22 | 17 | quando raccolto |
-| Rotmender's Treads | Piedi | 24 | 19 | quando raccolto |
+| [Rotmender's Garb](https://www.wowhead.com/forever/item=286978) | Torso | 23 | 18 | quando indossato |
+| [Rotmender's Gloves](https://www.wowhead.com/forever/item=286979) | Mani | 22 | 17 | quando indossato |
+| [Rotmender's Sash](https://www.wowhead.com/forever/item=286980) | Vita | 22 | 17 | quando indossato |
+| [Rotmender's Leggings](https://www.wowhead.com/forever/item=271207) | Gambe | 22 | 17 | quando raccolto |
+| [Rotmender's Treads](https://www.wowhead.com/forever/item=271214) | Piedi | 24 | 19 | quando raccolto |
 
 Due pezzi esistevano già con un altro nome. Le Rotmender's Leggings si chiamavano Wispcloth Leggings e le Rotmender's Treads erano le Frostbane Treads. Entrambe cadono nei dungeon, quindi probabilmente anche gli altri tre arrivano dai dungeon. Quali, non si sa.
 

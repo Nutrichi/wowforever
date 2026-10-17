@@ -40,8 +40,8 @@ Reputatie voor kills wordt gedeeld met de hele raid en komt meteen binnen.
 | Bron | Reputatie |
 |---|---|
 | Drek'Thar, de generaal van de Horde, doden | 389 |
-| Captain Galvangar doden | 125 |
-| Lokholar the Ice Lord doden | 125 |
+| [Captain Galvangar](https://www.wowhead.com/forever/npc=11947) doden | 125 |
+| [Lokholar the Ice Lord](https://www.wowhead.com/forever/npc=13256) doden | 125 |
 | Een commandant van de Horde doden | 12 |
 | Een air master van de Horde doden | 5 |
 | Een wacht van de Horde doden, tot Honored | 5 |

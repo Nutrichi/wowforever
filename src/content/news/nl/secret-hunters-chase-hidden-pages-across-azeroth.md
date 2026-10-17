@@ -35,7 +35,7 @@ De voorwerpen hieronder vormen één spoor, in deze volgorde.
 | **Torn Page** | Undercity, in een ton bij de achteringang van de riolen. Sinds het onderhoud van 24 september ligt er een mes naast. | 22.9 36.2 | [Keystone Fragment](https://www.wowhead.com/forever/item=281350) |
 | **Kleine rugzak** | The Riverglades, achter een slapende Twilight Peon. Spring naar beneden vanaf /way 26.7 47.7. | 26.6 45.6 | Stone Key |
 | **Burnt Page** | Blasted Lands, in Dreadmaul Hold. Daarvoor is de Stone Key nodig. | 45.2 16.5 | Een aanwijzing |
-| **Hidden Stash** | Un'Goro Crater, in de grot van Ringo, ingang op /way 52.5 51.1. Hij verschijnt alleen met de [Night Watchman's Torch](/nl/guides/night-watchmans-torch/) aangestoken. | 52.2 49.6 | Nog niet bekend |
+| **[Hidden Stash](https://www.wowhead.com/forever/object=674126)** | Un'Goro Crater, in de grot van Ringo, ingang op /way 52.5 51.1. Hij verschijnt alleen met de [Night Watchman's Torch](/nl/guides/night-watchmans-torch/) aangestoken. | 52.2 49.6 | Nog niet bekend |
 
 De Stone Key lag eerst in Blackrock Mountain. Blizzard verplaatste hem tijdens de beta naar The Riverglades, als hetzelfde object.
 

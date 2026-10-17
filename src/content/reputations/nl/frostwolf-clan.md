@@ -40,8 +40,8 @@ Reputatie voor kills wordt gedeeld met de hele raid en komt meteen binnen.
 | Bron | Reputatie |
 |---|---|
 | Vanndar Stormpike, de generaal van de Alliance, doden | 389 |
-| Captain Balinda Stonehearth doden | 125 |
-| Ivus the Forest Lord doden | 125 |
+| [Captain Balinda Stonehearth](https://www.wowhead.com/forever/npc=11949) doden | 125 |
+| [Ivus the Forest Lord](https://www.wowhead.com/forever/npc=13419) doden | 125 |
 | Een commandant van de Alliance doden | 12 |
 | Een air master van de Alliance doden | 5 |
 | Een wacht van de Alliance doden, tot Honored | 5 |

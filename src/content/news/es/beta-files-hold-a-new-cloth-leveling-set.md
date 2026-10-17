@@ -28,11 +28,11 @@ Se parece a Embrace of the Viper, el set de Wailing Caverns que [convierte a los
 
 | Pieza | Ranura | Nivel de objeto | Nivel requerido | Se liga |
 |---|---|---|---|---|
-| Rotmender's Robes | Pecho | 23 | 18 | al equiparse |
-| Rotmender's Gloves | Manos | 22 | 17 | al equiparse |
-| Rotmender's Sash | Cintura | 22 | 17 | al equiparse |
-| Rotmender's Leggings | Piernas | 22 | 17 | al recogerse |
-| Rotmender's Treads | Pies | 24 | 19 | al recogerse |
+| [Rotmender's Garb](https://www.wowhead.com/forever/item=286978) | Pecho | 23 | 18 | al equiparse |
+| [Rotmender's Gloves](https://www.wowhead.com/forever/item=286979) | Manos | 22 | 17 | al equiparse |
+| [Rotmender's Sash](https://www.wowhead.com/forever/item=286980) | Cintura | 22 | 17 | al equiparse |
+| [Rotmender's Leggings](https://www.wowhead.com/forever/item=271207) | Piernas | 22 | 17 | al recogerse |
+| [Rotmender's Treads](https://www.wowhead.com/forever/item=271214) | Pies | 24 | 19 | al recogerse |
 
 Dos piezas ya existían con otro nombre. Las Rotmender's Leggings se llamaban Wispcloth Leggings, y las Rotmender's Treads eran las Frostbane Treads. Ambas caen en mazmorras, así que las otras tres probablemente también salgan de mazmorras. De cuáles, no se sabe.
 

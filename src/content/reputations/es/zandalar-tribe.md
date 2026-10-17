@@ -41,7 +41,7 @@ En **Yojamba Isle**, al oeste de Zul'Gurub. Exzhal da las misiones, Vinchaxa ace
 | Speakers entre los enemigos | 15 |
 | El jefe del Edge of Madness (Gri'lek, Hazza'rah, Renataki o Wushoolay) | 25 |
 | Los High Priests y High Priestesses, y Gahz'ranka | 100 |
-| Bloodlord Mandokir y Jin'do the Hexxer | 200 |
+| [Bloodlord Mandokir](https://www.wowhead.com/forever/npc=11382) y [Jin'do the Hexxer](https://www.wowhead.com/forever/npc=11380) | 200 |
 | Hakkar | 400 |
 
 Una visita completa da unos 2.400 a 3.000 de reputación. Zul'Gurub se reinicia cada tres días.

@@ -40,8 +40,8 @@ La réputation des victimes est partagée par tout le raid et arrive tout de sui
 | Source | Réputation |
 |---|---|
 | Tuer Vanndar Stormpike, le général de l'Alliance | 389 |
-| Tuer Captain Balinda Stonehearth | 125 |
-| Tuer Ivus the Forest Lord | 125 |
+| Tuer [Captain Balinda Stonehearth](https://www.wowhead.com/forever/npc=11949) | 125 |
+| Tuer [Ivus the Forest Lord](https://www.wowhead.com/forever/npc=13419) | 125 |
 | Tuer un commandant de l'Alliance | 12 |
 | Tuer un air master de l'Alliance | 5 |
 | Tuer un garde de l'Alliance, jusqu'à Honored | 5 |

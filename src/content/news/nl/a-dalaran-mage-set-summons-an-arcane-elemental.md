@@ -48,6 +48,6 @@ De set lijkt gemaakt voor Mages, maar elke caster kan hem gebruiken. De stukken 
 | **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286988"><img class="wf-wh__icon" src="/wh/inv_pants_cloth_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Leggings</a>** | 34 |
 | **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286987"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Sandals</a>** | 33 |
 | **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286989"><img class="wf-wh__icon" src="/wh/inv_gauntlets_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Wraps</a>** | 33 |
-| **Violet Sorcerer's Robes** | Niet bekend |
+| **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273044"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_17.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Violet Sorcerer's Robes</a>** | Niet bekend |
 
 De mantel valt op de beta bij Shade of the Archmage, een van de bazen van de dungeon, met een kans van ongeveer 31%. Hij vraagt level 30. Welke bazen de andere stukken laten vallen, is nog niet bekend.

@@ -49,10 +49,10 @@ Ogni missione dà fino a 9.750 punti esperienza. Nel gioco appaiono rosse anche 
 
 | Ricompensa | Tipo | Missione |
 |---|---|---|
-| The Stitcher | Mazza a una mano, Horde | Light's Justice |
-| Gnarled Necromancer's Staff | Bastone | The Wrath of Rath'mael |
-| Slain Baron's Signet | Anello | Abominable Creatures |
-| Tarnished Locket | Collana, Alliance | Remember That I Love You |
+| [The Stitcher](https://www.wowhead.com/forever/item=279874) | Mazza a una mano, Horde | Light's Justice |
+| [Gnarled Necromancer's Staff](https://www.wowhead.com/forever/item=251534) | Bastone | The Wrath of Rath'mael |
+| [Slain Baron's Signet](https://www.wowhead.com/forever/item=279867) | Anello | Abominable Creatures |
+| [Tarnished Locket](https://www.wowhead.com/forever/item=279870) | Collana, Alliance | Remember That I Love You |
 
 Ogni missione con chi la assegna, le coordinate e tutte le ricompense è nella [guida alle Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/).
 

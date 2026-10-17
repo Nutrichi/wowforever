@@ -41,7 +41,7 @@ Op **Yojamba Isle**, ten westen van Zul'Gurub. Exzhal geeft de quests, Vinchaxa 
 | Speakers tussen de trash | 15 |
 | De baas van de Edge of Madness (Gri'lek, Hazza'rah, Renataki of Wushoolay) | 25 |
 | De High Priests en High Priestesses, en Gahz'ranka | 100 |
-| Bloodlord Mandokir en Jin'do the Hexxer | 200 |
+| [Bloodlord Mandokir](https://www.wowhead.com/forever/npc=11382) en [Jin'do the Hexxer](https://www.wowhead.com/forever/npc=11380) | 200 |
 | Hakkar | 400 |
 
 Een volledige run geeft ongeveer 2.400 tot 3.000 reputatie. Zul'Gurub reset elke drie dagen.

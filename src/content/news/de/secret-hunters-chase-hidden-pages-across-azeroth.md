@@ -35,7 +35,7 @@ Die Gegenstände unten bilden eine Spur, in dieser Reihenfolge.
 | **Torn Page** | Undercity, in einem Fass am hinteren Eingang der Kanalisation. Seit der Wartung vom 24. September liegt ein Messer daneben. | 22.9 36.2 | [Keystone Fragment](https://www.wowhead.com/forever/item=281350) |
 | **Kleines Bündel** | The Riverglades, hinter einem schlafenden Twilight Peon. Spring bei /way 26.7 47.7 hinunter. | 26.6 45.6 | Stone Key |
 | **Burnt Page** | Blasted Lands, in Dreadmaul Hold. Dafür braucht es den Stone Key. | 45.2 16.5 | Ein Hinweis |
-| **Hidden Stash** | Un'Goro Crater, in der Höhle von Ringo, Eingang bei /way 52.5 51.1. Er erscheint nur mit brennender [Night Watchman's Torch](/de/guides/night-watchmans-torch/). | 52.2 49.6 | Noch nicht bekannt |
+| **[Hidden Stash](https://www.wowhead.com/forever/object=674126)** | Un'Goro Crater, in der Höhle von Ringo, Eingang bei /way 52.5 51.1. Er erscheint nur mit brennender [Night Watchman's Torch](/de/guides/night-watchmans-torch/). | 52.2 49.6 | Noch nicht bekannt |
 
 Der Stone Key lag zuerst in Blackrock Mountain. Blizzard hat ihn während der Beta nach The Riverglades verlegt, als dasselbe Objekt.
 

@@ -35,9 +35,9 @@ Rivern Frostwind steht oben auf **Frostsaber Rock** in Winterspring. Die ersten 
 
 | Quest | Ruf pro Abgabe |
 |---|---|
-| Frostsaber Provisions | 50 |
-| Winterfall Intrusion | 50 |
-| Rampaging Giants | 75 |
+| [Frostsaber Provisions](https://www.wowhead.com/forever/quest=4970) | 50 |
+| [Winterfall Intrusion](https://www.wowhead.com/forever/quest=5201) | 50 |
+| [Rampaging Giants](https://www.wowhead.com/forever/quest=5981) | 75 |
 
 Frostsaber Provisions gibt es von Anfang an. Winterfall Intrusion und Rampaging Giants öffnen später, und Rampaging Giants ist eine Gruppenquest. Humans bekommen durch ihr Racial Diplomacy 10 % mehr Ruf.
 

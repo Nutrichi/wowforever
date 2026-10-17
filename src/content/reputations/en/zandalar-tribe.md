@@ -40,7 +40,7 @@ On **Yojamba Isle**, west of Zul'Gurub. Exzhal gives the quests, Vinchaxa takes 
 | Speakers among the trash | 15 |
 | The boss of the Edge of Madness (Gri'lek, Hazza'rah, Renataki or Wushoolay) | 25 |
 | The High Priests and High Priestesses, and Gahz'ranka | 100 |
-| Bloodlord Mandokir and Jin'do the Hexxer | 200 |
+| [Bloodlord Mandokir](https://www.wowhead.com/forever/npc=11382) and [Jin'do the Hexxer](https://www.wowhead.com/forever/npc=11380) | 200 |
 | Hakkar | 400 |
 
 A full clear gives about 2,400 to 3,000 reputation. Zul'Gurub resets every three days.

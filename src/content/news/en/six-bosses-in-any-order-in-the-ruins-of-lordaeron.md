@@ -48,10 +48,10 @@ Each quest gives up to 9,750 experience. In the game they show up red even at le
 
 | Reward | Type | Quest |
 |---|---|---|
-| The Stitcher | One-handed mace, Horde | Light's Justice |
-| Gnarled Necromancer's Staff | Staff | The Wrath of Rath'mael |
-| Slain Baron's Signet | Ring | Abominable Creatures |
-| Tarnished Locket | Necklace, Alliance | Remember That I Love You |
+| [The Stitcher](https://www.wowhead.com/forever/item=279874) | One-handed mace, Horde | Light's Justice |
+| [Gnarled Necromancer's Staff](https://www.wowhead.com/forever/item=251534) | Staff | The Wrath of Rath'mael |
+| [Slain Baron's Signet](https://www.wowhead.com/forever/item=279867) | Ring | Abominable Creatures |
+| [Tarnished Locket](https://www.wowhead.com/forever/item=279870) | Necklace, Alliance | Remember That I Love You |
 
 Every quest with its quest giver, coordinates and all the rewards is in the [Ruins of Lordaeron guide](/guides/dungeons/ruins-of-lordaeron/).
 

@@ -49,10 +49,10 @@ Elke quest stap voor stap, met de coördinaten van de reeks in Dun Morogh, staat
 
 | Beloning | Soort | Quest |
 |---|---|---|
-| Ironforge Greathammer | Tweehandige mace | Old Ironforge Incursion |
+| [Ironforge Greathammer](https://www.wowhead.com/forever/item=279895) | Tweehandige mace | Old Ironforge Incursion |
 | Deepblaze | Wand | Old Ironforge Incursion |
-| Dwarven Tome | Off-hand | Important Heirlooms |
-| Catacomb Cloak | Mantel | An Ancient Grudge |
+| [Dwarven Tome](https://www.wowhead.com/forever/item=279898) | Off-hand | Important Heirlooms |
+| [Catacomb Cloak](https://www.wowhead.com/forever/item=279899) | Mantel | An Ancient Grudge |
 
 Wie de quests mag doen, is niet duidelijk. Een bron noemt alle vijf alleen voor de Alliance. Een andere maakt een uitzondering voor Important Heirlooms en An Ancient Grudge.
 

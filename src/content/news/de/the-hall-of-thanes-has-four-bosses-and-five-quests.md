@@ -49,10 +49,10 @@ Jede Quest Schritt für Schritt, mit den Koordinaten der Questreihe in Dun Morog
 
 | Belohnung | Art | Quest |
 |---|---|---|
-| Ironforge Greathammer | Zweihandstreitkolben | Old Ironforge Incursion |
+| [Ironforge Greathammer](https://www.wowhead.com/forever/item=279895) | Zweihandstreitkolben | Old Ironforge Incursion |
 | Deepblaze | Zauberstab | Old Ironforge Incursion |
-| Dwarven Tome | Nebenhand | Important Heirlooms |
-| Catacomb Cloak | Umhang | An Ancient Grudge |
+| [Dwarven Tome](https://www.wowhead.com/forever/item=279898) | Nebenhand | Important Heirlooms |
+| [Catacomb Cloak](https://www.wowhead.com/forever/item=279899) | Umhang | An Ancient Grudge |
 
 Wer die Quests annehmen darf, ist nicht klar. Eine Quelle nennt alle fünf nur für die Allianz. Eine andere macht eine Ausnahme für Important Heirlooms und An Ancient Grudge.
 

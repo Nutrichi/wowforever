@@ -35,9 +35,9 @@ Rivern Frostwind si trova in cima a **Frostsaber Rock**, a Winterspring. Le prim
 
 | Missione | Reputazione per consegna |
 |---|---|
-| Frostsaber Provisions | 50 |
-| Winterfall Intrusion | 50 |
-| Rampaging Giants | 75 |
+| [Frostsaber Provisions](https://www.wowhead.com/forever/quest=4970) | 50 |
+| [Winterfall Intrusion](https://www.wowhead.com/forever/quest=5201) | 50 |
+| [Rampaging Giants](https://www.wowhead.com/forever/quest=5981) | 75 |
 
 Frostsaber Provisions è disponibile fin dall'inizio. Winterfall Intrusion e Rampaging Giants si aprono più tardi, e Rampaging Giants è una missione di gruppo. Gli Humans ottengono il 10 % di reputazione in più grazie al racial Diplomacy.
 

@@ -29,9 +29,9 @@ De bug is opgelost. Dual Wield Specialization geeft de offhand nu helemaal geen 
 
 | Talent | Rij | Wat het doet |
 |---|---|---|
-| **Lingering Rage** | 2 | Rage begint na een gevecht 2, 4, 6, 8 of 10 seconden later te zakken |
-| **Furious Precision** | 3 | 4, 7 of 10% meer kans om te raken met de offhand |
-| **Gore Drinker** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish en Bloodthirst laten je volgende 3 melee-aanvallen 0,5 of 1% van je maximale Health herstellen; vraagt Enrage |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323964"><img class="wf-wh__icon" src="/wh/ability_warrior_secondwind.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lingering Rage</a>** | 2 | Rage begint na een gevecht 2, 4, 6, 8 of 10 seconden later te zakken |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323963"><img class="wf-wh__icon" src="/wh/ability_warrior_incite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Furious Precision</a>** | 3 | 4, 7 of 10% meer kans om te raken met de offhand |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323967"><img class="wf-wh__icon" src="/wh/racial_troll_berserk.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gore Drinker</a>** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish en Bloodthirst laten je volgende 3 melee-aanvallen 0,5 of 1% van je maximale Health herstellen; vraagt Enrage |
 
 ## De rest van Fury
 

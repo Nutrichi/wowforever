@@ -176,7 +176,7 @@ Je wapen is meestal je grootste bron van spell damage of shadow power, dus verva
 |---|---|---|
 | **Lesser Magic Wand** | 5 | Enchanting |
 | **Greater Magic Wand** | 13 | Enchanting |
-| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8071"><img class="wf-wh__icon" src="/wh/inv_staff_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sizzle Stick</a> | 15 of later | Quest in Wailing Caverns |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=8071"><img class="wf-wh__icon" src="/wh/inv_staff_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sizzle Stick</a> | 15 of later | Quest in Wailing Caverns |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> | 18 of later | Quest in Blackfathom Deeps |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=5214"><img class="wf-wh__icon" src="/wh/inv_wand_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wand of Eventide</a> | 27 | World drop, bind on equip |
 

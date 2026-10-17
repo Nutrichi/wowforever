@@ -65,7 +65,7 @@ Gagne en puissance à mesure que Mutilate approche. Ruthlessness et Relentless S
 | **Remorseless Attacks** | 2/2 |
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
-| **Improved Slice and Dice** | 3/3 |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14165"><img class="wf-wh__icon" src="/wh/ability_rogue_slicedice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Slice and Dice</a>** | 3/3 |
 | **Relentless Strikes** | 1/1 |
 | **Lethality** | 1/5 |
 | **Cold Blood** | 1/1 |

@@ -29,9 +29,9 @@ Der Bug ist behoben. Dual Wield Specialization gibt der Nebenhand jetzt überhau
 
 | Talent | Reihe | Was es tut |
 |---|---|---|
-| **Lingering Rage** | 2 | Rage beginnt nach dem Kampf 2, 4, 6, 8 oder 10 Sekunden später zu sinken |
-| **Furious Precision** | 3 | 4, 7 oder 10 % mehr Trefferchance mit der Nebenhand |
-| **Gore Drinker** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish und Bloodthirst lassen deine nächsten 3 Nahkampfangriffe 0,5 oder 1 % deiner maximalen Health wiederherstellen; braucht Enrage |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323964"><img class="wf-wh__icon" src="/wh/ability_warrior_secondwind.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lingering Rage</a>** | 2 | Rage beginnt nach dem Kampf 2, 4, 6, 8 oder 10 Sekunden später zu sinken |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323963"><img class="wf-wh__icon" src="/wh/ability_warrior_incite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Furious Precision</a>** | 3 | 4, 7 oder 10 % mehr Trefferchance mit der Nebenhand |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1323967"><img class="wf-wh__icon" src="/wh/racial_troll_berserk.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gore Drinker</a>** | 6 | Enrage, Berserker Rage, Bloodrage, Death Wish und Bloodthirst lassen deine nächsten 3 Nahkampfangriffe 0,5 oder 1 % deiner maximalen Health wiederherstellen; braucht Enrage |
 
 ## Der Rest von Fury
 

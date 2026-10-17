@@ -1,0 +1,129 @@
+---
+/*
+ * LIVE-knop links van de RestedXP-pil (Nutri, 17 oktober 2026: "a small
+ * button on the left of RestedXP in the banner ... But only show it when I'm
+ * live on YouTube. Like a simple "Live" button with a red icon near it.").
+ *
+ * De knop staat in de HTML maar is verborgen. Het script vraagt de Edge
+ * Function `youtube-live` (lib/youtube.ts) of Nutri nu live is, dezelfde als
+ * het blok FEATURED STREAM op Streams; die houdt het antwoord een minuut vast
+ * en stuurt `max-age=60` mee, dus een bezoek dat van pagina naar pagina gaat,
+ * vraagt het YouTube niet telkens opnieuw. Live: de knop verschijnt en wijst
+ * naar de stream op YouTube. Niet live, geen antwoord of geen endpoint: niets.
+ * Zolang het tabblad open en zichtbaar is, wordt het om de twee minuten
+ * opnieuw gevraagd, zodat de knop ook komt en gaat zonder herladen.
+ *
+ * Het rode bolletje is `--wf-danger`, de enige rode kleur in het palet.
+ * "LIVE" is in elke taal hetzelfde woord; de schermlezer krijgt een zin.
+ */
+import type { Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+import { channelUrl, liveEndpoint } from '../lib/youtube';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+---
+
+{liveEndpoint && (
+  <a
+    class="wf-onair"
+    href={`${channelUrl}/live`}
+    rel="noopener"
+    target="_blank"
+    aria-label={t('live.aria')}
+    data-wf-onair={liveEndpoint}
+    hidden
+  >
+    <span class="wf-onair__dot" aria-hidden="true"></span>
+    <span class="wf-onair__label" aria-hidden="true">Live</span>
+  </a>
+)}
+
+<style>
+  .wf-onair {
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 5px 12px 5px 10px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    color: var(--wf-ink);
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    transition: var(--wf-transition);
+  }
+
+  .wf-onair[hidden] { display: none; }
+
+  .wf-onair:hover { border-color: var(--wf-danger); }
+
+  .wf-onair__dot {
+    position: relative;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--wf-danger);
+  }
+
+  /* Een zachte ring die uitdijt, zoals bij een uitzending. */
+  .wf-onair__dot::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    background: var(--wf-danger);
+    animation: wf-onair-pulse 1.8s ease-out infinite;
+  }
+
+  @keyframes wf-onair-pulse {
+    from { transform: scale(1); opacity: .6; }
+    to { transform: scale(2.6); opacity: 0; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .wf-onair__dot::after { animation: none; display: none; }
+  }
+
+  /* Op een telefoon staan chip en RestedXP al krap op één regel; het woord
+     duwde RestedXP daar naar een tweede regel (gemeten op 390 px in het
+     Nederlands, Frans en Duits). Daar blijft alleen het rode bolletje. */
+  @media (max-width: 899px) {
+    .wf-onair { padding: 0; width: 28px; height: 28px; justify-content: center; }
+    .wf-onair__label { display: none; }
+  }
+</style>
+
+<script>
+  const pill = document.querySelector<HTMLAnchorElement>('[data-wf-onair]');
+
+  if (pill) {
+    const endpoint = pill.dataset.wfOnair ?? '';
+    const channel = pill.href;
+
+    const check = async () => {
+      try {
+        const response = await fetch(endpoint, { signal: AbortSignal.timeout(4_000) });
+        const data = await response.json() as { live: { id: string } | null };
+        const id = data.live?.id;
+        pill.href = id ? `https://www.youtube.com/watch?v=${encodeURIComponent(id)}` : channel;
+        pill.hidden = !id;
+      } catch {
+        // Geen antwoord: de knop blijft zoals hij was.
+      }
+    };
+
+    void check();
+    window.setInterval(() => {
+      if (document.visibilityState === 'visible') void check();
+    }, 120_000);
+  }
+</script>

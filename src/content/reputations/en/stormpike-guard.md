@@ -39,8 +39,8 @@ Reputation for kills is shared by the whole raid and comes in at once.
 | Source | Reputation |
 |---|---|
 | Killing Drek'Thar, the Horde general | 389 |
-| Killing Captain Galvangar | 125 |
-| Killing Lokholar the Ice Lord | 125 |
+| Killing [Captain Galvangar](https://www.wowhead.com/forever/npc=11947) | 125 |
+| Killing [Lokholar the Ice Lord](https://www.wowhead.com/forever/npc=13256) | 125 |
 | Killing a Horde commander | 12 |
 | Killing a Horde air master | 5 |
 | Killing a Horde guard, up to Honored | 5 |

@@ -21,7 +21,7 @@ Tre rari dei Barrens lasciano ora equipaggiamento che appartiene a un set. Humar
 |---|---|---|---|
 | Signet of the Zhevra | Finger | 23 | +6 Agility, +2 Spirit |
 | Mark of the Pack Leader | Neck | 25 | +5 Strength, +5 Intellect |
-| Raptor Hide Cloak | Back | 21 | 19 Armor, +4 Stamina, +3 Spirit |
+| [Raptor Hide Cloak](https://www.wowhead.com/forever/item=285329) | Back | 21 | 19 Armor, +4 Stamina, +3 Spirit |
 
 Il set conta tre oggetti e il bonus scatta già a due, quindi il terzo è una scelta e non un obbligo. Tutti e tre si legano quando li raccogli.
 

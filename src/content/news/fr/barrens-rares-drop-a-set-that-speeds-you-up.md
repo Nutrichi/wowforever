@@ -21,7 +21,7 @@ Trois rares des Barrens lâchent désormais de l’équipement appartenant à un
 |---|---|---|---|
 | Signet of the Zhevra | Finger | 23 | +6 Agility, +2 Spirit |
 | Mark of the Pack Leader | Neck | 25 | +5 Strength, +5 Intellect |
-| Raptor Hide Cloak | Back | 21 | 19 Armor, +4 Stamina, +3 Spirit |
+| [Raptor Hide Cloak](https://www.wowhead.com/forever/item=285329) | Back | 21 | 19 Armor, +4 Stamina, +3 Spirit |
 
 Le set compte trois objets et le bonus tombe dès deux, donc le troisième est un choix et non une obligation. Les trois se lient quand on les ramasse.
 

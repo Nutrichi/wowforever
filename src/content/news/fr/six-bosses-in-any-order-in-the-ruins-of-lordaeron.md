@@ -49,10 +49,10 @@ Chaque quête rapporte jusqu’à 9 750 points d’expérience. En jeu, elles ap
 
 | Récompense | Type | Quête |
 |---|---|---|
-| The Stitcher | Masse à une main, Horde | Light's Justice |
-| Gnarled Necromancer's Staff | Bâton | The Wrath of Rath'mael |
-| Slain Baron's Signet | Anneau | Abominable Creatures |
-| Tarnished Locket | Collier, Alliance | Remember That I Love You |
+| [The Stitcher](https://www.wowhead.com/forever/item=279874) | Masse à une main, Horde | Light's Justice |
+| [Gnarled Necromancer's Staff](https://www.wowhead.com/forever/item=251534) | Bâton | The Wrath of Rath'mael |
+| [Slain Baron's Signet](https://www.wowhead.com/forever/item=279867) | Anneau | Abominable Creatures |
+| [Tarnished Locket](https://www.wowhead.com/forever/item=279870) | Collier, Alliance | Remember That I Love You |
 
 Chaque quête avec son donneur, ses coordonnées et toutes les récompenses se trouve dans le [guide des Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/).
 

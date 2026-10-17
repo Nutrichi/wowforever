@@ -5,7 +5,8 @@
  * Van links naar rechts: de aftelchip naar de launch van WoW Forever, een
  * dunne lijn, de slot (daar komt de era-schakelaar op BIS, CLASSES,
  * TRADESKILLS en REPUTATIONS), en rechts het zoekveld, de Ko-fi-pil (sinds
- * 25 september 2026) en de RestedXP-pil.
+ * 25 september 2026), de LIVE-knop (alleen als Nutri live is op YouTube, sinds
+ * 17 oktober 2026) en de RestedXP-pil.
  *
  * **Zoeken stond eerst in de header** en is hier naartoe gegaan (Nutri,
  * 18 september 2026), zodat de navigatie de volle breedte houdt. Onder 900 px
@@ -25,6 +26,7 @@ import type { Locale } from '../i18n/ui';
 import { localizePath, useTranslations } from '../i18n/utils';
 import { foreverHubPath, launchDate } from '../config/site';
 import KofiPill from './KofiPill.astro';
+import LivePill from './LivePill.astro';
 import RestedXpPill from './RestedXpPill.astro';
 import SearchField from './SearchField.astro';
 
@@ -91,6 +93,7 @@ const ChipTag = hubHref ? 'a' : 'span';
     <div class="wf-bar__right">
       <div class="wf-bar__search"><SearchField locale={locale} variant="bar" /></div>
       <KofiPill locale={locale} variant="bar" />
+      <LivePill locale={locale} />
       <RestedXpPill locale={locale} wide />
     </div>
   </div>

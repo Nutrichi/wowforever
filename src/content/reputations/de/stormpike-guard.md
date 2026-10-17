@@ -40,8 +40,8 @@ Ruf für Tötungen wird mit dem ganzen Schlachtzug geteilt und kommt sofort.
 | Quelle | Ruf |
 |---|---|
 | Drek'Thar töten, den General der Horde | 389 |
-| Captain Galvangar töten | 125 |
-| Lokholar the Ice Lord töten | 125 |
+| [Captain Galvangar](https://www.wowhead.com/forever/npc=11947) töten | 125 |
+| [Lokholar the Ice Lord](https://www.wowhead.com/forever/npc=13256) töten | 125 |
 | Einen Kommandanten der Horde töten | 12 |
 | Einen Air Master der Horde töten | 5 |
 | Eine Wache der Horde töten, bis Honored | 5 |

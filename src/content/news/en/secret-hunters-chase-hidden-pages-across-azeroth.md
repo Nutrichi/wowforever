@@ -34,7 +34,7 @@ The objects below form one trail, in this order.
 | **Torn Page** | Undercity, in a barrel at the back entrance of the sewers. Since the maintenance of 24 September a knife lies next to it. | 22.9 36.2 | [Keystone Fragment](https://www.wowhead.com/forever/item=281350) |
 | **Small pack** | The Riverglades, behind a sleeping Twilight Peon. Jump down from /way 26.7 47.7. | 26.6 45.6 | Stone Key |
 | **Burnt Page** | Blasted Lands, in Dreadmaul Hold. It needs the Stone Key. | 45.2 16.5 | A clue |
-| **Hidden Stash** | Un'Goro Crater, in Ringo's cave, entrance at /way 52.5 51.1. It only shows with the [Night Watchman's Torch](/guides/night-watchmans-torch/) lit. | 52.2 49.6 | Not known yet |
+| **[Hidden Stash](https://www.wowhead.com/forever/object=674126)** | Un'Goro Crater, in Ringo's cave, entrance at /way 52.5 51.1. It only shows with the [Night Watchman's Torch](/guides/night-watchmans-torch/) lit. | 52.2 49.6 | Not known yet |
 
 The Stone Key first lay inside Blackrock Mountain. Blizzard moved it to The Riverglades during the beta, as the same object.
 

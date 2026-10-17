@@ -28,11 +28,11 @@ Hij lijkt op Embrace of the Viper, de levelset uit Wailing Caverns die [Druids i
 
 | Stuk | Plaats | Item level | Vereist level | Bindt |
 |---|---|---|---|---|
-| Rotmender's Robes | Borst | 23 | 18 | bij dragen |
-| Rotmender's Gloves | Handen | 22 | 17 | bij dragen |
-| Rotmender's Sash | Taille | 22 | 17 | bij dragen |
-| Rotmender's Leggings | Benen | 22 | 17 | bij oprapen |
-| Rotmender's Treads | Voeten | 24 | 19 | bij oprapen |
+| [Rotmender's Garb](https://www.wowhead.com/forever/item=286978) | Borst | 23 | 18 | bij dragen |
+| [Rotmender's Gloves](https://www.wowhead.com/forever/item=286979) | Handen | 22 | 17 | bij dragen |
+| [Rotmender's Sash](https://www.wowhead.com/forever/item=286980) | Taille | 22 | 17 | bij dragen |
+| [Rotmender's Leggings](https://www.wowhead.com/forever/item=271207) | Benen | 22 | 17 | bij oprapen |
+| [Rotmender's Treads](https://www.wowhead.com/forever/item=271214) | Voeten | 24 | 19 | bij oprapen |
 
 Twee stukken bestonden al onder een andere naam. Rotmender's Leggings heetten eerst Wispcloth Leggings en Rotmender's Treads waren Frostbane Treads. Beide vallen in dungeons, dus de andere drie komen wellicht ook uit dungeons. Welke dungeons, is niet bekend.
 

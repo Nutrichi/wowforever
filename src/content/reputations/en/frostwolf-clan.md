@@ -39,8 +39,8 @@ Reputation for kills is shared by the whole raid and comes in at once.
 | Source | Reputation |
 |---|---|
 | Killing Vanndar Stormpike, the Alliance general | 389 |
-| Killing Captain Balinda Stonehearth | 125 |
-| Killing Ivus the Forest Lord | 125 |
+| Killing [Captain Balinda Stonehearth](https://www.wowhead.com/forever/npc=11949) | 125 |
+| Killing [Ivus the Forest Lord](https://www.wowhead.com/forever/npc=13419) | 125 |
 | Killing an Alliance commander | 12 |
 | Killing an Alliance air master | 5 |
 | Killing an Alliance guard, up to Honored | 5 |

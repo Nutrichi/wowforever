@@ -21,7 +21,7 @@ Drie rare spawns in The Barrens laten nu gear vallen die bij een set hoort. Huma
 |---|---|---|---|
 | Signet of the Zhevra | Finger | 23 | +6 Agility, +2 Spirit |
 | Mark of the Pack Leader | Neck | 25 | +5 Strength, +5 Intellect |
-| Raptor Hide Cloak | Back | 21 | 19 Armor, +4 Stamina, +3 Spirit |
+| [Raptor Hide Cloak](https://www.wowhead.com/forever/item=285329) | Back | 21 | 19 Armor, +4 Stamina, +3 Spirit |
 
 De set telt drie items en de bonus valt al bij twee, dus het derde is een keuze en geen eis. Alle drie binden bij oppakken.
 

@@ -41,7 +41,7 @@ Auf **Yojamba Isle**, westlich von Zul'Gurub. Exzhal gibt die Quests, Vinchaxa n
 | Speaker unter dem Trash | 15 |
 | Der Boss der Edge of Madness (Gri'lek, Hazza'rah, Renataki oder Wushoolay) | 25 |
 | Die High Priests und High Priestesses, und Gahz'ranka | 100 |
-| Bloodlord Mandokir und Jin'do the Hexxer | 200 |
+| [Bloodlord Mandokir](https://www.wowhead.com/forever/npc=11382) und [Jin'do the Hexxer](https://www.wowhead.com/forever/npc=11380) | 200 |
 | Hakkar | 400 |
 
 Ein voller Durchlauf gibt etwa 2.400 bis 3.000 Ruf. Zul'Gurub setzt sich alle drei Tage zurück.

@@ -49,10 +49,10 @@ Jede Quest bringt bis zu 9.750 Erfahrung. Im Spiel erscheinen sie selbst auf Lev
 
 | Belohnung | Art | Quest |
 |---|---|---|
-| The Stitcher | Einhandstreitkolben, Horde | Light's Justice |
-| Gnarled Necromancer's Staff | Stab | The Wrath of Rath'mael |
-| Slain Baron's Signet | Ring | Abominable Creatures |
-| Tarnished Locket | Halskette, Alliance | Remember That I Love You |
+| [The Stitcher](https://www.wowhead.com/forever/item=279874) | Einhandstreitkolben, Horde | Light's Justice |
+| [Gnarled Necromancer's Staff](https://www.wowhead.com/forever/item=251534) | Stab | The Wrath of Rath'mael |
+| [Slain Baron's Signet](https://www.wowhead.com/forever/item=279867) | Ring | Abominable Creatures |
+| [Tarnished Locket](https://www.wowhead.com/forever/item=279870) | Halskette, Alliance | Remember That I Love You |
 
 Jede Quest mit Questgeber, Koordinaten und allen Belohnungen steht im [Guide zu den Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/).
 

@@ -39,7 +39,7 @@ Las fuentes no coinciden en dónde empieza un personaje nuevo dentro de Hated: e
 
 | Muerte | Bloodsail Buccaneers | Booty Bay | Everlook, Gadgetzan y Ratchet |
 |---|---|---|---|
-| Booty Bay Bruiser | +25 | -125 | -62,5 cada una |
+| [Booty Bay Bruiser](https://www.wowhead.com/forever/npc=4624) | +25 | -125 | -62,5 cada una |
 
 La mayoría de los demás habitantes de Booty Bay dan 5 de reputación. Desde el fondo de Hated, Friendly cuesta 1.800 Bruisers; desde 35.500, son 380. Los Humans ganan un 10 % más de reputación gracias a su racial Diplomacy.
 

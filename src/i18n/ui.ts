@@ -120,6 +120,7 @@ export const ui = {
     'footer.label': 'Site footer',
     'kofi.label': 'Tip',
     'kofi.aria': 'Tip on Ko-fi',
+    'live.aria': 'Nutri is live on YouTube, watch the stream',
 
     'list.heading': 'ALL POSTS, NEWEST FIRST',
     'list.empty': 'No posts yet.',
@@ -264,6 +265,7 @@ export const ui = {
     'footer.label': 'Voettekst',
     'kofi.label': 'Tip',
     'kofi.aria': 'Geef een fooi via Ko-fi',
+    'live.aria': 'Nutri is live op YouTube, bekijk de stream',
 
     'list.heading': 'ALLE POSTS, NIEUWSTE EERST',
     'list.empty': 'Nog geen posts.',
@@ -408,6 +410,7 @@ export const ui = {
     'footer.label': 'Pied de page',
     'kofi.label': 'Pourboire',
     'kofi.aria': 'Laisser un pourboire sur Ko-fi',
+    'live.aria': 'Nutri est en direct sur YouTube, regarder le stream',
 
     'list.heading': 'TOUS LES ARTICLES, DU PLUS RÉCENT',
     'list.empty': 'Pas encore d’articles.',
@@ -552,6 +555,7 @@ export const ui = {
     'footer.label': 'Pie de página',
     'kofi.label': 'Propina',
     'kofi.aria': 'Deja una propina en Ko-fi',
+    'live.aria': 'Nutri está en directo en YouTube, ver el stream',
 
     'list.heading': 'TODAS LAS ENTRADAS, MÁS RECIENTES PRIMERO',
     'list.empty': 'Todavía no hay entradas.',
@@ -696,6 +700,7 @@ export const ui = {
     'footer.label': 'Piè di pagina',
     'kofi.label': 'Mancia',
     'kofi.aria': 'Lascia una mancia su Ko-fi',
+    'live.aria': 'Nutri è in diretta su YouTube, guarda lo stream',
 
     'list.heading': 'TUTTI GLI ARTICOLI, DAL PIÙ RECENTE',
     'list.empty': 'Ancora nessun articolo.',
@@ -840,6 +845,7 @@ export const ui = {
     'footer.label': 'Fußzeile',
     'kofi.label': 'Trinkgeld',
     'kofi.aria': 'Trinkgeld über Ko-fi geben',
+    'live.aria': 'Nutri ist live auf YouTube, zum Stream',
 
     'list.heading': 'ALLE BEITRÄGE, NEUESTE ZUERST',
     'list.empty': 'Noch keine Beiträge.',

@@ -40,8 +40,8 @@ Ruf für Tötungen wird mit dem ganzen Schlachtzug geteilt und kommt sofort.
 | Quelle | Ruf |
 |---|---|
 | Vanndar Stormpike töten, den General der Allianz | 389 |
-| Captain Balinda Stonehearth töten | 125 |
-| Ivus the Forest Lord töten | 125 |
+| [Captain Balinda Stonehearth](https://www.wowhead.com/forever/npc=11949) töten | 125 |
+| [Ivus the Forest Lord](https://www.wowhead.com/forever/npc=13419) töten | 125 |
 | Einen Kommandanten der Allianz töten | 12 |
 | Einen Air Master der Allianz töten | 5 |
 | Eine Wache der Allianz töten, bis Honored | 5 |

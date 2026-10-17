@@ -48,10 +48,10 @@ Every quest step by step, with the coordinates of the chain in Dun Morogh, is in
 
 | Reward | Type | Quest |
 |---|---|---|
-| Ironforge Greathammer | Two-handed mace | Old Ironforge Incursion |
+| [Ironforge Greathammer](https://www.wowhead.com/forever/item=279895) | Two-handed mace | Old Ironforge Incursion |
 | Deepblaze | Wand | Old Ironforge Incursion |
-| Dwarven Tome | Off-hand | Important Heirlooms |
-| Catacomb Cloak | Cloak | An Ancient Grudge |
+| [Dwarven Tome](https://www.wowhead.com/forever/item=279898) | Off-hand | Important Heirlooms |
+| [Catacomb Cloak](https://www.wowhead.com/forever/item=279899) | Cloak | An Ancient Grudge |
 
 Who may take the quests is not clear. One source calls all five Alliance only. Another makes an exception for Important Heirlooms and An Ancient Grudge.
 

@@ -40,8 +40,8 @@ La reputación por muertes se reparte entre toda la banda y llega al momento.
 | Fuente | Reputación |
 |---|---|
 | Matar a Drek'Thar, el general de la Horda | 389 |
-| Matar a Captain Galvangar | 125 |
-| Matar a Lokholar the Ice Lord | 125 |
+| Matar a [Captain Galvangar](https://www.wowhead.com/forever/npc=11947) | 125 |
+| Matar a [Lokholar the Ice Lord](https://www.wowhead.com/forever/npc=13256) | 125 |
 | Matar a un comandante de la Horda | 12 |
 | Matar a un air master de la Horda | 5 |
 | Matar a un guardia de la Horda, hasta Honored | 5 |

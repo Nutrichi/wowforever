@@ -41,9 +41,9 @@ De meeste cultisten van de Twilight's Hammer geven 1 reputatie per kill, tot Hon
 
 | Inlevering | Reputatie |
 |---|---|
-| Encrypted Twilight Texts | 100 |
-| Abyssal Crests | 50 |
-| Abyssal Signets | 100 |
+| [Encrypted Twilight Texts](https://www.wowhead.com/forever/item=20404) | 100 |
+| [Abyssal Crests](https://www.wowhead.com/forever/item=20513) | 50 |
+| [Abyssal Signets](https://www.wowhead.com/forever/item=20514) | 100 |
 | Field Duty | 25 |
 
 De cultisten laten Encrypted Twilight Texts vallen. Abyssal Crests en Abyssal Signets komen van de elementals die je bij de wind stones van Silithus kunt oproepen. Field Duty is een herhaalbare quest die opdrachten voor gevecht, logistiek en tactiek in de hele zone opent.

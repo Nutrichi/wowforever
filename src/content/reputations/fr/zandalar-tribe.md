@@ -41,7 +41,7 @@ Sur **Yojamba Isle**, à l'ouest de Zul'Gurub. Exzhal donne les quêtes, Vinchax
 | Speakers parmi les monstres | 15 |
 | Le boss de l'Edge of Madness (Gri'lek, Hazza'rah, Renataki ou Wushoolay) | 25 |
 | Les High Priests et High Priestesses, et Gahz'ranka | 100 |
-| Bloodlord Mandokir et Jin'do the Hexxer | 200 |
+| [Bloodlord Mandokir](https://www.wowhead.com/forever/npc=11382) et [Jin'do the Hexxer](https://www.wowhead.com/forever/npc=11380) | 200 |
 | Hakkar | 400 |
 
 Un passage complet donne environ 2 400 à 3 000 points de réputation. Zul'Gurub se réinitialise tous les trois jours.
