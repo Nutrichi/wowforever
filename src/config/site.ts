@@ -65,6 +65,8 @@ export const restedxpPages = [
   'guides/rogue-leveling',
   'guides/druid-leveling',
   'guides/warlock-leveling',
+  'guides/paladin-leveling',
+  'guides/warrior-leveling',
 ];
 
 /**

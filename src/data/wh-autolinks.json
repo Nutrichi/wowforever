@@ -812,21 +812,9 @@
 "q": -1,
 "t": "s"
 },
-"Charge": {
-"icon": "ability_warrior_charge",
-"id": 100,
-"q": -1,
-"t": "s"
-},
 "Chastise": {
 "icon": "spell_holy_chastise",
 "id": 1277331,
-"q": -1,
-"t": "s"
-},
-"Cleave": {
-"icon": "ability_warrior_cleave",
-"id": 845,
 "q": -1,
 "t": "s"
 },
@@ -875,12 +863,6 @@
 "Devastation": {
 "icon": "spell_fire_flameshock",
 "id": 18130,
-"q": -1,
-"t": "s"
-},
-"Disarm": {
-"icon": "ability_warrior_disarm",
-"id": 676,
 "q": -1,
 "t": "s"
 },
@@ -4017,6 +3999,10 @@
 "icon": "inv_misc_fish_21",
 "q": 1
 },
+"i:17033": {
+"icon": "inv_stone_weightstone_05",
+"q": 1
+},
 "i:17034": {
 "icon": "inv_misc_food_02",
 "q": 1
@@ -4343,6 +4329,10 @@
 },
 "i:21168": {
 "icon": "inv_drink_19",
+"q": 1
+},
+"i:21177": {
+"icon": "inv_misc_symbolofkings_01",
 "q": 1
 },
 "i:21218": {
@@ -4979,6 +4969,10 @@
 },
 "i:268418": {
 "icon": "inv_farm_pumpkinseed_blue",
+"q": 2
+},
+"i:268484": {
+"icon": "inv_sword_25",
 "q": 2
 },
 "i:268502": {
@@ -6869,8 +6863,20 @@
 "icon": "inv_hammer_05",
 "q": 3
 },
+"i:6972": {
+"icon": "inv_chest_chain_07",
+"q": 3
+},
 "i:6975": {
 "icon": "inv_axe_12",
+"q": 3
+},
+"i:6976": {
+"icon": "inv_hammer_08",
+"q": 3
+},
+"i:6977": {
+"icon": "inv_sword_15",
 "q": 3
 },
 "i:6998": {
@@ -6908,6 +6914,10 @@
 "i:7079": {
 "icon": "inv_misc_orb_01",
 "q": 1
+},
+"i:7133": {
+"icon": "inv_chest_chain_07",
+"q": 3
 },
 "i:7191": {
 "icon": "inv_misc_gear_03",
@@ -7393,6 +7403,10 @@
 "icon": "inv_misc_cape_06",
 "q": 2
 },
+"i:9607": {
+"icon": "inv_shield_06",
+"q": 2
+},
 "i:9608": {
 "icon": "inv_misc_wrench_01",
 "q": 2
@@ -7419,6 +7433,10 @@
 },
 "s:10": {
 "icon": "spell_frost_icestorm",
+"q": -1
+},
+"s:100": {
+"icon": "ability_warrior_charge",
 "q": -1
 },
 "s:1008": {
@@ -7543,6 +7561,10 @@
 },
 "s:11426": {
 "icon": "spell_ice_lament",
+"q": -1
+},
+"s:1152": {
+"icon": "spell_holy_purify",
 "q": -1
 },
 "s:116": {
@@ -7688,6 +7710,14 @@
 "s:1230656": {
 "icon": "inv_misc_enggizmos_13",
 "q": 1
+},
+"s:12317": {
+"icon": "spell_shadow_unholyfrenzy",
+"q": -1
+},
+"s:12323": {
+"icon": "spell_shadow_deathscream",
+"q": -1
 },
 "s:1238122": {
 "icon": "ability_hunter_pet_bear",
@@ -8201,6 +8231,10 @@
 "icon": "spell_shadow_devouringplague",
 "q": -1
 },
+"s:1310185": {
+"icon": "spell_nature_enchantarmor",
+"q": -1
+},
 "s:1310196": {
 "icon": "ability_warrior_decisivestrike",
 "q": -1
@@ -8227,6 +8261,10 @@
 },
 "s:1310735": {
 "icon": "spell_holy_blessedresillience",
+"q": -1
+},
+"s:1310899": {
+"icon": "spell_holy_divineillumination",
 "q": -1
 },
 "s:1310909": {
@@ -8388,6 +8426,10 @@
 "s:16153": {
 "icon": "inv_ingot_07",
 "q": 1
+},
+"s:16462": {
+"icon": "ability_parry",
+"q": -1
 },
 "s:16689": {
 "icon": "spell_nature_natureswrath",
@@ -8561,8 +8603,32 @@
 "icon": "inv_misc_monsterhead_03",
 "q": 1
 },
+"s:20049": {
+"icon": "ability_racial_avatar",
+"q": -1
+},
+"s:20060": {
+"icon": "ability_parry",
+"q": -1
+},
+"s:20066": {
+"icon": "spell_holy_prayerofhealing",
+"q": -1
+},
+"s:20096": {
+"icon": "spell_magic_lesserinvisibilty",
+"q": -1
+},
+"s:20111": {
+"icon": "inv_hammer_04",
+"q": -1
+},
 "s:20127": {
 "icon": "ability_defend",
+"q": -1
+},
+"s:20148": {
+"icon": "inv_shield_06",
 "q": -1
 },
 "s:20154": {
@@ -8573,8 +8639,16 @@
 "icon": "spell_holy_sealofwrath",
 "q": -1
 },
+"s:20189": {
+"icon": "ability_rogue_ambush",
+"q": -1
+},
 "s:20217": {
 "icon": "spell_magic_magearmor",
+"q": -1
+},
+"s:20252": {
+"icon": "ability_rogue_sprint",
 "q": -1
 },
 "s:20271": {
@@ -8657,6 +8731,10 @@
 "icon": "ability_rogue_eviscerate",
 "q": -1
 },
+"s:21082": {
+"icon": "spell_holy_holysmite",
+"q": -1
+},
 "s:2120": {
 "icon": "spell_fire_selfdestruct",
 "q": -1
@@ -8687,6 +8765,10 @@
 },
 "s:23785": {
 "icon": "spell_shadow_shadowpact",
+"q": -1
+},
+"s:2458": {
+"icon": "ability_racial_avatar",
 "q": -1
 },
 "s:24858": {
@@ -8825,6 +8907,10 @@
 "icon": "spell_fire_immolation",
 "q": -1
 },
+"s:355": {
+"icon": "spell_nature_reincarnation",
+"q": -1
+},
 "s:3569": {
 "icon": "inv_ingot_steel",
 "q": 1
@@ -8871,6 +8957,10 @@
 },
 "s:402174": {
 "icon": "spell_holy_penance",
+"q": -1
+},
+"s:402927": {
+"icon": "ability_warrior_devastate",
 "q": -1
 },
 "s:403511": {
@@ -8939,6 +9029,10 @@
 },
 "s:440892": {
 "icon": "warlock_curse_shadow",
+"q": -1
+},
+"s:465": {
+"icon": "spell_holy_devotionaura",
 "q": -1
 },
 "s:467": {
@@ -9061,6 +9155,10 @@
 "icon": "spell_holy_layonhands",
 "q": -1
 },
+"s:635": {
+"icon": "spell_holy_holybolt",
+"q": -1
+},
 "s:6353": {
 "icon": "spell_fire_fireball02",
 "q": -1
@@ -9072,6 +9170,18 @@
 "s:6366": {
 "icon": "inv_misc_gem_bloodstone_02",
 "q": 1
+},
+"s:6552": {
+"icon": "inv_gauntlets_04",
+"q": -1
+},
+"s:6673": {
+"icon": "ability_warrior_battleshout",
+"q": -1
+},
+"s:676": {
+"icon": "ability_warrior_disarm",
+"q": -1
 },
 "s:678": {
 "icon": "classicon_paladin",
@@ -9133,6 +9243,10 @@
 "icon": "spell_shadow_ragingscream",
 "q": -1
 },
+"s:71": {
+"icon": "ability_warrior_defensivestance",
+"q": -1
+},
 "s:710": {
 "icon": "spell_shadow_cripple",
 "q": -1
@@ -9147,6 +9261,14 @@
 },
 "s:7302": {
 "icon": "spell_frost_frostarmor02",
+"q": -1
+},
+"s:7328": {
+"icon": "spell_holy_resurrection",
+"q": -1
+},
+"s:7386": {
+"icon": "ability_warrior_sunder",
 "q": -1
 },
 "s:740": {
@@ -9211,6 +9333,10 @@
 },
 "s:8143": {
 "icon": "spell_nature_tremortotem",
+"q": -1
+},
+"s:845": {
+"icon": "ability_warrior_cleave",
 "q": -1
 },
 "s:8512": {
@@ -15318,6 +15444,12 @@
 "q": 1,
 "t": "i"
 },
+"Anger Management": {
+"icon": "spell_holy_blessingofstamina",
+"id": 12296,
+"q": -1,
+"t": "s"
+},
 "Animist's Caress": {
 "alt": {
 "icon": "temp",
@@ -15347,6 +15479,12 @@
 "id": 6452,
 "q": 1,
 "t": "i"
+},
+"Anticipation": {
+"icon": "spell_nature_mirrorimage",
+"id": 12297,
+"q": -1,
+"t": "s"
 },
 "Anvil": {
 "alt": {
@@ -15724,6 +15862,12 @@
 "icon": "inv_inscription_scroll",
 "id": 213165,
 "q": 1,
+"t": "i"
+},
+"Bastion of Stormwind": {
+"icon": "inv_shield_06",
+"id": 9607,
+"q": 2,
 "t": "i"
 },
 "Bat Hachee": {
@@ -16104,15 +16248,45 @@
 "q": -1,
 "t": "s"
 },
+"Blessing of Freedom": {
+"icon": "spell_holy_sealofvalor",
+"id": 1044,
+"q": -1,
+"t": "s"
+},
 "Blessing of Kings": {
 "icon": "spell_magic_magearmor",
 "id": 20217,
 "q": -1,
 "t": "s"
 },
+"Blessing of Light": {
+"icon": "spell_holy_prayerofhealing02",
+"id": 19977,
+"q": -1,
+"t": "s"
+},
 "Blessing of Might": {
 "icon": "spell_holy_fistofjustice",
 "id": 19740,
+"q": -1,
+"t": "s"
+},
+"Blessing of Protection": {
+"icon": "spell_holy_sealofprotection",
+"id": 1022,
+"q": -1,
+"t": "s"
+},
+"Blessing of Sacrifice": {
+"icon": "spell_holy_sealofsacrifice",
+"id": 6940,
+"q": -1,
+"t": "s"
+},
+"Blessing of Wisdom": {
+"icon": "spell_holy_sealofwisdom",
+"id": 19742,
 "q": -1,
 "t": "s"
 },
@@ -16211,6 +16385,12 @@
 "id": 22742,
 "q": 2,
 "t": "i"
+},
+"Bloodthrill": {
+"icon": "inv_sword_01",
+"id": 1289681,
+"q": -1,
+"t": "s"
 },
 "Bloody Map": {
 "icon": "ability_spy",
@@ -16674,6 +16854,12 @@
 "q": 1,
 "t": "i"
 },
+"Brutal Hauberk": {
+"icon": "inv_chest_chain_07",
+"id": 7133,
+"q": 3,
+"t": "i"
+},
 "Buccaneer's Uniform": {
 "icon": "inv_misc_bag_10_black",
 "id": 22746,
@@ -16842,6 +17028,12 @@
 "q": -1,
 "t": "s"
 },
+"Challenging Shout": {
+"icon": "ability_bullrush",
+"id": 1161,
+"q": -1,
+"t": "s"
+},
 "Charged Mithril Battleaxe": {
 "alt": {
 "icon": "inv_axe_09",
@@ -16907,6 +17099,12 @@
 "id": 280308,
 "q": 2,
 "t": "i"
+},
+"Cleanse": {
+"icon": "spell_holy_renew",
+"id": 4987,
+"q": -1,
+"t": "s"
 },
 "Cleansing Stew": {
 "icon": "spell_shadow_sealofkings",
@@ -17052,6 +17250,18 @@
 "q": -1,
 "t": "s"
 },
+"Concentration Aura": {
+"icon": "spell_holy_mindsooth",
+"id": 19746,
+"q": -1,
+"t": "s"
+},
+"Concussion Blow": {
+"icon": "ability_thunderbolt",
+"id": 12809,
+"q": -1,
+"t": "s"
+},
 "Cone of Cold": {
 "icon": "spell_frost_glacier",
 "id": 120,
@@ -17088,9 +17298,27 @@
 "q": 1,
 "t": "s"
 },
+"Consecrated Ground": {
+"icon": "spell_holy_innerfire",
+"id": 1310905,
+"q": -1,
+"t": "s"
+},
+"Consecration": {
+"icon": "spell_holy_innerfire",
+"id": 20116,
+"q": -1,
+"t": "s"
+},
 "Contingency Plan": {
 "icon": "ability_priest_soulwarding",
 "id": 1277462,
+"q": -1,
+"t": "s"
+},
+"Conviction": {
+"icon": "spell_holy_retributionaura",
+"id": 20117,
 "q": -1,
 "t": "s"
 },
@@ -17315,6 +17543,12 @@
 "id": 2611,
 "q": 1,
 "t": "i"
+},
+"Cruelty": {
+"icon": "ability_rogue_eviscerate",
+"id": 12320,
+"q": -1,
+"t": "s"
 },
 "Crusader's Chain Helm": {
 "alt": {
@@ -17634,6 +17868,12 @@
 "q": -1,
 "t": "s"
 },
+"Defiance": {
+"icon": "ability_warrior_innerrage",
+"id": 12792,
+"q": -1,
+"t": "s"
+},
 "Defiler's Talisman": {
 "icon": "inv_jewelry_talisman_05",
 "id": 21120,
@@ -17741,6 +17981,12 @@
 "id": 918,
 "q": 1,
 "t": "i"
+},
+"Devotion Aura": {
+"icon": "spell_holy_devotionaura",
+"id": 465,
+"q": -1,
+"t": "s"
 },
 "Devour Magic": {
 "icon": "spell_nature_purge",
@@ -17880,9 +18126,27 @@
 "q": -1,
 "t": "s"
 },
+"Divine Intellect": {
+"icon": "spell_nature_sleep",
+"id": 20257,
+"q": -1,
+"t": "s"
+},
+"Divine Intervention": {
+"icon": "spell_nature_timestop",
+"id": 19752,
+"q": -1,
+"t": "s"
+},
 "Divine Precision": {
 "icon": "spell_holy_healingfocus",
 "id": 1310904,
+"q": -1,
+"t": "s"
+},
+"Divine Protection": {
+"icon": "spell_holy_restoration",
+"id": 498,
 "q": -1,
 "t": "s"
 },
@@ -18342,6 +18606,18 @@
 "q": 1,
 "t": "i"
 },
+"Execute": {
+"icon": "inv_sword_48",
+"id": 5308,
+"q": -1,
+"t": "s"
+},
+"Exorcism": {
+"icon": "spell_holy_excorcism_02",
+"id": 879,
+"q": -1,
+"t": "s"
+},
 "Expert Campfire": {
 "icon": "inv_camelot_camping_welcomingcampfire",
 "id": 1291341,
@@ -18618,6 +18894,12 @@
 "q": -1,
 "t": "s"
 },
+"Fire Hardened Hauberk": {
+"icon": "inv_chest_chain_07",
+"id": 6972,
+"q": 3,
+"t": "i"
+},
 "Fire Nova": {
 "icon": "spell_fire_sealoffire",
 "id": 408341,
@@ -18765,6 +19047,12 @@
 "Flash Heal": {
 "icon": "spell_holy_flashheal",
 "id": 2061,
+"q": -1,
+"t": "s"
+},
+"Flash of Light": {
+"icon": "spell_holy_flashheal",
+"id": 19750,
 "q": -1,
 "t": "s"
 },
@@ -19728,6 +20016,12 @@
 "q": 4,
 "t": "i"
 },
+"Hamstring": {
+"icon": "ability_shockwave",
+"id": 1715,
+"q": -1,
+"t": "s"
+},
 "Hand of Ragnaros": {
 "icon": "spell_fire_fireball",
 "id": 19780,
@@ -19779,6 +20073,12 @@
 "Heal": {
 "icon": "spell_holy_heal",
 "id": 2054,
+"q": -1,
+"t": "s"
+},
+"Healing Light": {
+"icon": "spell_holy_holybolt",
+"id": 20237,
 "q": -1,
 "t": "s"
 },
@@ -20039,6 +20339,12 @@
 "id": 18362,
 "q": 3,
 "t": "i"
+},
+"Holy Conduit": {
+"icon": "spell_holy_devineaegis",
+"id": 1237268,
+"q": -1,
+"t": "s"
 },
 "Holy Fire": {
 "icon": "spell_holy_searinglight",
@@ -20304,9 +20610,21 @@
 "q": -1,
 "t": "s"
 },
+"Illumination": {
+"icon": "spell_holy_greaterheal",
+"id": 20210,
+"q": -1,
+"t": "s"
+},
 "Immolate": {
 "icon": "spell_fire_immolation",
 "id": 348,
+"q": -1,
+"t": "s"
+},
+"Impale": {
+"icon": "ability_searingarrow",
+"id": 16493,
 "q": -1,
 "t": "s"
 },
@@ -20343,6 +20661,12 @@
 "Improved Bloodrage": {
 "icon": "ability_racial_bloodrage",
 "id": 12301,
+"q": -1,
+"t": "s"
+},
+"Improved Charge": {
+"icon": "ability_warrior_charge",
+"id": 12285,
 "q": -1,
 "t": "s"
 },
@@ -20412,9 +20736,21 @@
 "q": -1,
 "t": "s"
 },
+"Improved Heroic Strike": {
+"icon": "ability_rogue_ambush",
+"id": 12282,
+"q": -1,
+"t": "s"
+},
 "Improved Holy Strike": {
 "icon": "classicon_paladin",
 "id": 1310902,
+"q": -1,
+"t": "s"
+},
+"Improved Judgement": {
+"icon": "spell_holy_righteousfury",
+"id": 25956,
 "q": -1,
 "t": "s"
 },
@@ -20442,6 +20778,12 @@
 "q": -1,
 "t": "s"
 },
+"Improved Overpower": {
+"icon": "inv_sword_05",
+"id": 12290,
+"q": -1,
+"t": "s"
+},
 "Improved Poisons": {
 "icon": "ability_poisons",
 "id": 14113,
@@ -20466,6 +20808,18 @@
 "q": -1,
 "t": "s"
 },
+"Improved Rend": {
+"icon": "ability_gouge",
+"id": 12286,
+"q": -1,
+"t": "s"
+},
+"Improved Revenge": {
+"icon": "ability_warrior_revenge",
+"id": 12797,
+"q": -1,
+"t": "s"
+},
 "Improved Righteous Fury": {
 "icon": "spell_holy_sealoffury",
 "id": 20468,
@@ -20487,6 +20841,12 @@
 "Improved Seal of Fury": {
 "icon": "spell_holy_righteousnessaura",
 "id": 1314103,
+"q": -1,
+"t": "s"
+},
+"Improved Seals": {
+"icon": "ability_thunderbolt",
+"id": 20224,
 "q": -1,
 "t": "s"
 },
@@ -20622,6 +20982,12 @@
 "q": 1,
 "t": "i"
 },
+"Intercept": {
+"icon": "ability_rogue_sprint",
+"id": 20252,
+"q": -1,
+"t": "s"
+},
 "Intimidating Shout": {
 "icon": "ability_golemthunderclap",
 "id": 5246,
@@ -20727,6 +21093,12 @@
 "Journeyman Riding": {
 "icon": "spell_nature_swiftness",
 "id": 33391,
+"q": -1,
+"t": "s"
+},
+"Judgement": {
+"icon": "spell_holy_righteousfury",
+"id": 20271,
 "q": -1,
 "t": "s"
 },
@@ -21624,6 +21996,12 @@
 "q": -1,
 "t": "s"
 },
+"Master of Defense": {
+"icon": "ability_warrior_shieldguard",
+"id": 23602,
+"q": -1,
+"t": "s"
+},
 "Master of Elements": {
 "icon": "spell_fire_masterofelements",
 "id": 29074,
@@ -21864,6 +22242,12 @@
 "q": 2,
 "t": "i"
 },
+"Mocking Blow": {
+"icon": "ability_warrior_punishingblow",
+"id": 694,
+"q": -1,
+"t": "s"
+},
 "Molten Foundry": {
 "alt": {
 "icon": "inv_blacksmithingalloys_red",
@@ -21905,6 +22289,12 @@
 "id": 24858,
 "q": -1,
 "t": "s"
+},
+"Moonsilver Blade": {
+"icon": "inv_sword_25",
+"id": 268484,
+"q": 2,
+"t": "i"
 },
 "Moonsteel Broadsword": {
 "alt": {
@@ -22200,6 +22590,12 @@
 "q": -1,
 "t": "s"
 },
+"One-Handed Weapon Specialization": {
+"icon": "inv_sword_20",
+"id": 20196,
+"q": -1,
+"t": "s"
+},
 "Opportunity": {
 "icon": "ability_warrior_warcry",
 "id": 14057,
@@ -22266,6 +22662,12 @@
 "q": -1,
 "t": "s"
 },
+"Overpower": {
+"icon": "ability_meleedamage",
+"id": 7384,
+"q": -1,
+"t": "s"
+},
 "Pachimari": {
 "icon": "inv_pachimarapet",
 "id": 280614,
@@ -22295,6 +22697,12 @@
 "id": 180089,
 "q": 1,
 "t": "i"
+},
+"Path of Defense": {
+"icon": "temp",
+"id": 8121,
+"q": -1,
+"t": "s"
 },
 "Pattern: Argent Boots": {
 "icon": "inv_scroll_03",
@@ -22635,6 +23043,12 @@
 "Pick Pocket": {
 "icon": "inv_misc_bag_11",
 "id": 921,
+"q": -1,
+"t": "s"
+},
+"Piercing Howl": {
+"icon": "spell_shadow_deathscream",
+"id": 12323,
 "q": -1,
 "t": "s"
 },
@@ -23184,6 +23598,12 @@
 "q": -1,
 "t": "s"
 },
+"Purify": {
+"icon": "spell_holy_purify",
+"id": 1152,
+"q": -1,
+"t": "s"
+},
 "Purple Lotus": {
 "alt": {
 "icon": "inv_misc_flower_02",
@@ -23219,6 +23639,12 @@
 "id": 18791,
 "q": 4,
 "t": "i"
+},
+"Pursuit of Justice": {
+"icon": "spell_holy_persuitofjustice",
+"id": 26022,
+"q": -1,
+"t": "s"
 },
 "Pyrite": {
 "icon": "inv_ore_pyrite_nugget",
@@ -23448,6 +23874,12 @@
 "q": 1,
 "t": "i"
 },
+"Reckoning": {
+"icon": "spell_holy_blessingofstrength",
+"id": 20177,
+"q": -1,
+"t": "s"
+},
 "Red Dragon Orb": {
 "icon": "inv_misc_orb_05",
 "id": 19054,
@@ -23511,6 +23943,18 @@
 "Red Wolf": {
 "icon": "ability_mount_blackdirewolf",
 "id": 579,
+"q": -1,
+"t": "s"
+},
+"Redemption": {
+"icon": "spell_holy_resurrection",
+"id": 7328,
+"q": -1,
+"t": "s"
+},
+"Redoubt": {
+"icon": "ability_defend",
+"id": 20127,
 "q": -1,
 "t": "s"
 },
@@ -23694,15 +24138,33 @@
 "q": -1,
 "t": "s"
 },
+"Retaliation": {
+"icon": "ability_warrior_challange",
+"id": 20230,
+"q": -1,
+"t": "s"
+},
 "Retribution Aura": {
 "icon": "spell_holy_auraoflight",
 "id": 7294,
 "q": -1,
 "t": "s"
 },
+"Revenge": {
+"icon": "ability_warrior_revenge",
+"id": 6572,
+"q": -1,
+"t": "s"
+},
 "Revive": {
 "icon": "ability_druid_lunarguidance",
 "id": 437138,
+"q": -1,
+"t": "s"
+},
+"Revoke": {
+"icon": "spell_holy_prayerofmendingtga",
+"id": 1325499,
 "q": -1,
 "t": "s"
 },
@@ -24078,6 +24540,18 @@
 "q": 1,
 "t": "i"
 },
+"Salvation": {
+"icon": "spell_holy_sealofsalvation",
+"id": 1038,
+"q": -1,
+"t": "s"
+},
+"Sanctified Judgement": {
+"icon": "ability_paladin_judgementblue",
+"id": 1311074,
+"q": -1,
+"t": "s"
+},
 "Sanguine Sorcery": {
 "icon": "inv_misc_book_06",
 "id": 220345,
@@ -24336,9 +24810,27 @@
 "q": -1,
 "t": "s"
 },
+"Seal of Light": {
+"icon": "spell_holy_healingaura",
+"id": 20165,
+"q": -1,
+"t": "s"
+},
 "Seal of Righteousness": {
 "icon": "ability_thunderbolt",
 "id": 20154,
+"q": -1,
+"t": "s"
+},
+"Seal of Wisdom": {
+"icon": "spell_holy_righteousnessaura",
+"id": 20166,
+"q": -1,
+"t": "s"
+},
+"Seal of the Crusader": {
+"icon": "spell_holy_holysmite",
+"id": 20162,
 "q": -1,
 "t": "s"
 },
@@ -24381,6 +24873,12 @@
 "Sense Demons": {
 "icon": "spell_shadow_metamorphosis",
 "id": 5500,
+"q": -1,
+"t": "s"
+},
+"Sense Undead": {
+"icon": "spell_holy_senseundead",
+"id": 5502,
 "q": -1,
 "t": "s"
 },
@@ -24504,6 +25002,12 @@
 "q": 1,
 "t": "i"
 },
+"Shadow Resistance Aura": {
+"icon": "spell_shadow_sealofkings",
+"id": 19876,
+"q": -1,
+"t": "s"
+},
 "Shadow Ward": {
 "icon": "spell_shadow_antishadow",
 "id": 6229,
@@ -24600,6 +25104,18 @@
 "q": 2,
 "t": "i"
 },
+"Shield Bash": {
+"icon": "ability_warrior_shieldbash",
+"id": 72,
+"q": -1,
+"t": "s"
+},
+"Shield Block": {
+"icon": "ability_defend",
+"id": 2565,
+"q": -1,
+"t": "s"
+},
 "Shield Slam": {
 "icon": "inv_shield_05",
 "id": 23922,
@@ -24609,6 +25125,12 @@
 "Shield Specialization": {
 "icon": "inv_shield_06",
 "id": 12298,
+"q": -1,
+"t": "s"
+},
+"Shield Wall": {
+"icon": "ability_warrior_shieldwall",
+"id": 871,
 "q": -1,
 "t": "s"
 },
@@ -25182,6 +25704,12 @@
 "q": -1,
 "t": "s"
 },
+"Spiritual Focus": {
+"icon": "spell_arcane_blink",
+"id": 20205,
+"q": -1,
+"t": "s"
+},
 "Spotted Frostsaber": {
 "icon": "ability_mount_whitetiger",
 "id": 10789,
@@ -25566,9 +26094,21 @@
 "q": 4,
 "t": "i"
 },
+"Summon Charger": {
+"icon": "ability_mount_charger",
+"id": 23214,
+"q": -1,
+"t": "s"
+},
 "Summon Felhunter": {
 "icon": "spell_shadow_summonfelhunter",
 "id": 691,
+"q": -1,
+"t": "s"
+},
+"Summon Forsaken Charger": {
+"icon": "ability_mount_charger",
+"id": 1296534,
 "q": -1,
 "t": "s"
 },
@@ -25691,6 +26231,12 @@
 "id": 254676,
 "q": 1,
 "t": "i"
+},
+"Sweeping Strikes": {
+"icon": "ability_rogue_slicedice",
+"id": 12292,
+"q": -1,
+"t": "s"
 },
 "Sweetpaw Jam": {
 "alt": {
@@ -25998,6 +26544,18 @@
 "q": -1,
 "t": "s"
 },
+"Symbol of Divinity": {
+"icon": "inv_stone_weightstone_05",
+"id": 17033,
+"q": 1,
+"t": "i"
+},
+"Symbol of Kings": {
+"icon": "inv_misc_symbolofkings_01",
+"id": 21177,
+"q": 1,
+"t": "i"
+},
 "Syncretist's Sigil": {
 "alt": {
 "icon": "temp",
@@ -26093,6 +26651,12 @@
 "id": 274463,
 "q": 1,
 "t": "i"
+},
+"Taunt": {
+"icon": "spell_nature_reincarnation",
+"id": 355,
+"q": -1,
+"t": "s"
 },
 "Teal Kodo": {
 "alt": {
@@ -26400,12 +26964,6 @@
 "q": 4,
 "t": "i"
 },
-"Tome of Valor": {
-"icon": "inv_misc_book_07",
-"id": 6776,
-"q": 1,
-"t": "i"
-},
 "Tome of the Ice Lord": {
 "icon": "inv_misc_book_11",
 "id": 19310,
@@ -26627,6 +27185,12 @@
 "id": 277254,
 "q": 3,
 "t": "i"
+},
+"Turn Undead": {
+"icon": "spell_holy_turnundead",
+"id": 2878,
+"q": -1,
+"t": "s"
 },
 "Turquoise Raptor": {
 "icon": "ability_mount_raptor",
@@ -27077,6 +27641,30 @@
 "id": 8259,
 "q": -1,
 "t": "s"
+},
+"Whirlwind": {
+"icon": "ability_whirlwind",
+"id": 1680,
+"q": -1,
+"t": "s"
+},
+"Whirlwind Axe": {
+"icon": "inv_axe_12",
+"id": 6975,
+"q": 3,
+"t": "i"
+},
+"Whirlwind Sword": {
+"icon": "inv_sword_15",
+"id": 6977,
+"q": 3,
+"t": "i"
+},
+"Whirlwind Warhammer": {
+"icon": "inv_hammer_08",
+"id": 6976,
+"q": 3,
+"t": "i"
 },
 "Whirring Bronze Gizmo": {
 "alt": {

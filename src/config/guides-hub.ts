@@ -81,6 +81,8 @@ export const hubCategories: HubCategory[] = [
       { key: 'rogue-leveling', image: '2026-10-08-wow-forever-rogue-talent-trees.jpg' },
       { key: 'druid-leveling', image: '2026-10-06-wow-forever-feral-druid-cat-art.jpg' },
       { key: 'warlock-leveling', image: '2026-10-16-wow-forever-troll-warlock-casting.jpg' },
+      { key: 'paladin-leveling', image: '2026-10-18-wow-forever-dwarf-paladin-holy-light.jpg' },
+      { key: 'warrior-leveling', image: '2026-10-18-wow-forever-dwarf-warrior-two-weapons.jpg' },
       { key: '/classes', label: 'cardClasses', image: '2026-09-13-wow-forever-key-art.jpg' },
     ],
   },
