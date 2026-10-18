@@ -171,6 +171,7 @@ Stats : les dégâts par seconde de l'arme, puis la Force et la puissance d'atta
 | 36 | Whirlwind | Maître de classe |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Maître de classe |
 | 40 | Armure en plaques, monte, Dual Specialization | Maîtres |
+| 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Maître de classe |
 
 Victory Rush est nouveau pour monter : après avoir tué un monstre, il frappe et vous soigne de 10 % de votre vie maximale. Slam a un temps de recharge de 18 secondes dans Forever. Avec des points dans Talented du système Legacy, vous atteignez chaque talent jusqu'à cinq niveaux plus tôt.
 

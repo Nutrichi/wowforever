@@ -73,6 +73,6 @@ De capture towers in Eastern Plaguelands en de gevechten in Silithus zijn bij de
 
 De ontwikkelaars toonden een duelarena in een krater van Mount Hyjal. De krater bestond in het originele spel, maar de nieuwe zone gebruikt die grond voor ander terrein. Daarom verhuisde Blizzard de krater naar een eigen kaart.
 
-De top 32 van een toernooi uit de gemeenschap duelleert daar op de tweede dag. Het toernooi loopt op 17 en 18 oktober, is niet officieel en kreeg meer dan 6.000 inschrijvingen. Verkopers bieden Soul Shards en reagents aan, en een reset van cooldowns is mogelijk. Spelers kunnen de arena niet vrij bezoeken. Ze kan terugkomen in een latere patch, misschien in de week van de Darkmoon Faire.
+De finalisten van een toernooi uit de gemeenschap duelleren daar op de tweede dag. Het toernooi loopt op 17 en 18 oktober, is niet officieel en kreeg meer dan 6.000 inschrijvingen. Verkopers bieden Soul Shards en reagents aan, en een reset van cooldowns is mogelijk. Spelers kunnen de arena niet vrij bezoeken. Ze kan terugkomen in een latere patch, misschien in de week van de Darkmoon Faire.
 
 Blizzard vroeg Corbett om vier afleveringen, en dit is de vierde. Of de podcast doorgaat, is niet bekend.

@@ -30,7 +30,7 @@ Dueling was never meant as a competitive mode, says Tips. A mage can run at a ro
 
 On the beta, everything is new. Players keep finding bugs, exploits and broken gear, and the rules have to follow. On the day of the interview, someone found something that would "completely break the whole event". Legacy talents are not allowed, and some weapons are banned. "In terms of how the organization of these events goes, it's pure chaos," says Tips. Whoever signs up for a tournament on a beta also takes the risk that Blizzard changes their class.
 
-Esfand put up much of the money in advance; sponsors and partners help pay him back. Esfand and Xaryu broadcast the tournament on Twitch, and every competitor has to stream their own view. Raider.IO helps with the sign-ups and the bracket. On day two, the top 32 duel in [Hyjal Crater](/news/blizzard-opens-hyjal-crater-for-the-forever-open/).
+Esfand put up much of the money in advance; sponsors and partners help pay him back. Esfand and Xaryu broadcast the tournament on Twitch, and every competitor has to stream their own view. Raider.IO helps with the sign-ups and the bracket. On day two, the 36 finalists, four per class, duel in [Hyjal Crater](/news/blizzard-opens-hyjal-crater-for-the-forever-open/).
 
 ## Blizzard does not balance for the tournament
 

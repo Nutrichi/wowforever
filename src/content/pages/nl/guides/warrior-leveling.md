@@ -171,6 +171,7 @@ Stats: wapenschade per seconde, dan Strength en attack power, dan Stamina, dan A
 | 36 | Whirlwind | Classtrainer |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Classtrainer |
 | 40 | Plate armor, riding, Dual Specialization | Trainers |
+| 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Classtrainer |
 
 Victory Rush is nieuw om te levelen: nadat je een monster doodt, slaat het en healt het je voor 10% van je maximale health. Slam heeft in Forever een cooldown van 18 seconden. Met punten in Talented uit het Legacy-systeem bereik je elk talent tot vijf levels sneller.
 

@@ -73,6 +73,6 @@ Le torri da conquistare di Eastern Plaguelands e gli scontri di Silithus non son
 
 Gli sviluppatori hanno mostrato un'arena per duelli in un cratere di Mount Hyjal. Il cratere c'era nel gioco originale, ma la nuova zona usa quel terreno per altro. Così Blizzard ha spostato il cratere su una mappa a sé.
 
-I primi 32 di un torneo della comunità si sfidano lì il secondo giorno. Il torneo si tiene il 17 e 18 ottobre, non è ufficiale e conta oltre 6.000 iscritti. Ci saranno venditori di Soul Shards e reagenti, ed è possibile un azzeramento dei tempi di recupero. I giocatori non possono visitare l'arena liberamente. Potrebbe tornare in una patch futura, magari durante la settimana della Darkmoon Faire.
+I finalisti di un torneo della comunità si sfidano lì il secondo giorno. Il torneo si tiene il 17 e 18 ottobre, non è ufficiale e conta oltre 6.000 iscritti. Ci saranno venditori di Soul Shards e reagenti, ed è possibile un azzeramento dei tempi di recupero. I giocatori non possono visitare l'arena liberamente. Potrebbe tornare in una patch futura, magari durante la settimana della Darkmoon Faire.
 
 Blizzard ha chiesto a Corbett quattro episodi, e questo è il quarto. Se il podcast continua, non si sa.

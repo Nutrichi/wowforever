@@ -171,6 +171,7 @@ Estadísticas: daño por segundo del arma, luego Fuerza y poder de ataque, luego
 | 36 | Whirlwind | Instructor de clase |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Instructor de clase |
 | 40 | Armadura de placas, equitación, Dual Specialization | Instructores |
+| 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Instructor de clase |
 
 Victory Rush es nuevo para subir: después de matar a un monstruo, golpea y te cura un 10% de tu vida máxima. Slam tiene un tiempo de reutilización de 18 segundos en Forever. Con puntos en Talented del sistema Legacy, alcanzas cada talento hasta cinco niveles antes.
 

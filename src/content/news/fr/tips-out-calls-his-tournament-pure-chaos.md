@@ -31,7 +31,7 @@ Le duel n'a jamais été pensé comme un mode compétitif, dit Tips. Un mage peu
 
 Sur la bêta, tout est nouveau. Les joueurs trouvent sans cesse des bugs, des exploits et de l'équipement cassé, et les règles doivent suivre. Le jour de l'interview, quelqu'un a trouvé de quoi « casser complètement tout l'événement ». Les talents Legacy sont interdits, ainsi que certaines armes. « Pour l'organisation de ces événements, c'est un pur chaos », dit Tips. S'inscrire à un tournoi sur une bêta, c'est aussi accepter que Blizzard modifie sa classe.
 
-Esfand a avancé une grande partie de l'argent ; des sponsors et des partenaires aident à le rembourser. Esfand et Xaryu diffusent le tournoi sur Twitch, et chaque participant doit streamer son propre point de vue. Raider.IO aide pour les inscriptions et le tableau. Le deuxième jour, le top 32 s'affronte à [Hyjal Crater](/fr/news/blizzard-opens-hyjal-crater-for-the-forever-open/).
+Esfand a avancé une grande partie de l'argent ; des sponsors et des partenaires aident à le rembourser. Esfand et Xaryu diffusent le tournoi sur Twitch, et chaque participant doit streamer son propre point de vue. Raider.IO aide pour les inscriptions et le tableau. Le deuxième jour, les 36 finalistes, quatre par classe, s'affrontent à [Hyjal Crater](/fr/news/blizzard-opens-hyjal-crater-for-the-forever-open/).
 
 ## Blizzard n'équilibre pas pour le tournoi
 

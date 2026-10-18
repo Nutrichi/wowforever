@@ -72,6 +72,6 @@ The capture towers in Eastern Plaguelands and the fights in Silithus are not act
 
 The developers showed a duel arena in a crater of Mount Hyjal. The crater was there in the original game, but the new zone uses that ground for other terrain. So Blizzard moved the crater to a map of its own.
 
-The top 32 of a community tournament duel there on day two. The tournament runs on 17 and 18 October, is not official and drew over 6,000 sign-ups. Vendors will sell Soul Shards and reagents, and a cooldown reset is possible. Players cannot visit the arena freely. It may come back in a later patch, perhaps during the week of the Darkmoon Faire.
+The finalists of a community tournament duel there on day two. The tournament runs on 17 and 18 October, is not official and drew over 6,000 sign-ups. Vendors will sell Soul Shards and reagents, and a cooldown reset is possible. Players cannot visit the arena freely. It may come back in a later patch, perhaps during the week of the Darkmoon Faire.
 
 Blizzard asked Corbett for four episodes, and this is the fourth. Whether the podcast continues, is not known.

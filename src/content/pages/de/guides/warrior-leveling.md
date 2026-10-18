@@ -171,6 +171,7 @@ Werte: Waffenschaden pro Sekunde, dann Stärke und Angriffskraft, dann Ausdauer,
 | 36 | Whirlwind | Klassenlehrer |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Klassenlehrer |
 | 40 | Plattenrüstung, Reiten, Dual Specialization | Lehrer |
+| 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Klassenlehrer |
 
 Victory Rush ist neu fürs Leveln: Nachdem du ein Monster getötet hast, schlägt es zu und heilt dich um 10 % deines maximalen Lebens. Slam hat in Forever 18 Sekunden Abklingzeit. Mit Punkten in Talented aus dem Legacy-System erreichst du jedes Talent bis zu fünf Level früher.
 

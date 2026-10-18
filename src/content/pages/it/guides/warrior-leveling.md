@@ -171,6 +171,7 @@ Statistiche: danni al secondo dell'arma, poi Forza e potere d'attacco, poi Tempr
 | 36 | Whirlwind | Istruttore di classe |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Istruttore di classe |
 | 40 | Armatura a piastre, cavalcatura, Dual Specialization | Istruttori |
+| 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Istruttore di classe |
 
 Victory Rush è una novità per livellare: dopo che uccidi un mostro, colpisce e ti cura del 10% della vita massima. Slam ha un tempo di recupero di 18 secondi in Forever. Con punti in Talented del sistema Legacy raggiungi ogni talento fino a cinque livelli prima.
 

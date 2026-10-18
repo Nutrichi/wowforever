@@ -31,7 +31,7 @@ Duelle waren nie als Wettkampfmodus gedacht, sagt Tips. Ein Magier kann schon vo
 
 In der Beta ist alles neu. Spieler finden ständig Bugs, Exploits und kaputte Ausrüstung, und die Regeln müssen nachziehen. Am Tag des Interviews fand jemand etwas, das "das ganze Event komplett kaputt machen" würde. Legacy-Talente sind nicht erlaubt, und einige Waffen sind verboten. "Was die Organisation solcher Events angeht, ist das pures Chaos", sagt Tips. Wer sich für ein Turnier in einer Beta anmeldet, nimmt auch das Risiko in Kauf, dass Blizzard seine Klasse ändert.
 
-Esfand hat einen großen Teil des Geldes vorgestreckt; Sponsoren und Partner helfen, es zurückzuzahlen. Esfand und Xaryu übertragen das Turnier auf Twitch, und jeder Teilnehmer muss seine eigene Sicht streamen. Raider.IO hilft bei der Anmeldung und dem Turnierbaum. Am zweiten Tag duellieren sich die besten 32 im [Hyjal Crater](/de/news/blizzard-opens-hyjal-crater-for-the-forever-open/).
+Esfand hat einen großen Teil des Geldes vorgestreckt; Sponsoren und Partner helfen, es zurückzuzahlen. Esfand und Xaryu übertragen das Turnier auf Twitch, und jeder Teilnehmer muss seine eigene Sicht streamen. Raider.IO hilft bei der Anmeldung und dem Turnierbaum. Am zweiten Tag duellieren sich die 36 Finalisten, vier pro Klasse, im [Hyjal Crater](/de/news/blizzard-opens-hyjal-crater-for-the-forever-open/).
 
 ## Blizzard balanciert nicht für das Turnier
 

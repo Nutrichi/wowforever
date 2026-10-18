@@ -179,6 +179,10 @@ Werte: zuerst Zaubermacht, dann Ausdauer, dann Intelligenz, dann Stärke, dann R
 | 40 | Blessing of Light, Reiten, Dual Specialization | Lehrer |
 | 42 | Cleanse | Klassenlehrer |
 | 44 | Hammer of Wrath | Klassenlehrer |
+| 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6940"><img class="wf-wh__icon" src="/wh/spell_holy_sealofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Sacrifice</a> | Klassenlehrer |
+| 52 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25782"><img class="wf-wh__icon" src="/wh/spell_holy_greaterblessingofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Blessing of Might</a> | Klassenlehrer |
+| 54 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25894"><img class="wf-wh__icon" src="/wh/spell_holy_greaterblessingofwisdom.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Blessing of Wisdom</a> | Klassenlehrer |
+| 60 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25898"><img class="wf-wh__icon" src="/wh/spell_magic_greaterblessingofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Blessing of Kings</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterblessingoflight.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Blessing of Light</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25895"><img class="wf-wh__icon" src="/wh/spell_holy_greaterblessingofsalvation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mass Salvation</a> | Klassenlehrer |
 
 Mit Punkten in Talented aus dem Legacy-System erreichst du jedes Talent bis zu fünf Level früher.
 

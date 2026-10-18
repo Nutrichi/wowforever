@@ -1,6 +1,6 @@
 ---
 title: "Blizzard abre Hyjal Crater para el Forever Open"
-description: "El segundo día del Forever Open, el top 32 se bate en duelo en Hyjal Crater, una parte del mapa a la que los jugadores normalmente no llegan. Personal de Blizzard los lleva allí, y unos vendedores ofrecen Soul Shards y componentes."
+description: "El segundo día del Forever Open, los 36 finalistas se baten en duelo en Hyjal Crater, una parte del mapa a la que los jugadores normalmente no llegan. Personal de Blizzard los lleva allí, y unos vendedores ofrecen Soul Shards y componentes."
 date: 2026-10-16T16:30:00+02:00
 category: forever
 lang: es
@@ -27,6 +27,6 @@ La arena ya estaba prevista para más adelante. Blizzard la adelantó a la beta 
 
 ## Ver el torneo
 
-Se inscribieron unos 6.000 jugadores. El top 32 se enfrenta en el cráter el segundo día. [Xaryu](https://www.twitch.tv/xaryu) y [Esfand](https://www.twitch.tv/esfandtv) retransmiten el torneo en directo en Twitch.
+Se inscribieron unos 6.000 jugadores. Los 36 finalistas, cuatro por clase, se enfrentan en el cráter el segundo día. [Xaryu](https://www.twitch.tv/xaryu) y [Esfand](https://www.twitch.tv/esfandtv) retransmiten el torneo en directo en Twitch.
 
 Los objetos de mascota como <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282720"><img class="wf-wh__icon" src="/wh/inv_misc_monsterspidercarapace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spider Swarm</a> están [prohibidos en el torneo](/es/news/spider-swarm-is-banned-from-the-forever-open/). La beta termina el 21 de octubre, tres días después de la final.

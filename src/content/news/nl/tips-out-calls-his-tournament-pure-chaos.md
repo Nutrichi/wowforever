@@ -31,7 +31,7 @@ Duelleren was nooit bedoeld als competitieve modus, zegt Tips. Een mage kan al o
 
 Op de beta is alles nieuw. Spelers vinden steeds bugs, exploits en kapotte gear, en de regels moeten volgen. Op de dag van het interview vond iemand iets dat "het hele evenement volledig zou breken". Legacy-talenten zijn niet toegestaan, en sommige wapens zijn verboden. "Hoe de organisatie van zulke evenementen loopt? Pure chaos," zegt Tips. Wie zich inschrijft voor een toernooi op een beta, neemt ook het risico dat Blizzard zijn class verandert.
 
-Esfand schoot een groot deel van het geld voor; sponsors en partners helpen het terug te betalen. Esfand en Xaryu zenden het toernooi uit op Twitch, en elke deelnemer moet zijn eigen beeld streamen. Raider.IO helpt met de inschrijvingen en het schema. Op dag twee duelleert de top 32 in [Hyjal Crater](/nl/news/blizzard-opens-hyjal-crater-for-the-forever-open/).
+Esfand schoot een groot deel van het geld voor; sponsors en partners helpen het terug te betalen. Esfand en Xaryu zenden het toernooi uit op Twitch, en elke deelnemer moet zijn eigen beeld streamen. Raider.IO helpt met de inschrijvingen en het schema. Op dag twee duelleren de 36 finalisten, vier per class, in [Hyjal Crater](/nl/news/blizzard-opens-hyjal-crater-for-the-forever-open/).
 
 ## Blizzard balanceert niet voor het toernooi
 

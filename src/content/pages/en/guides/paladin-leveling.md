@@ -178,6 +178,10 @@ Stats: spell power first, then Stamina, then Intellect, then Strength, then armo
 | 40 | Blessing of Light, riding, Dual Specialization | Trainers |
 | 42 | Cleanse | Class trainer |
 | 44 | Hammer of Wrath | Class trainer |
+| 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6940"><img class="wf-wh__icon" src="/wh/spell_holy_sealofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Sacrifice</a> | Class trainer |
+| 52 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25782"><img class="wf-wh__icon" src="/wh/spell_holy_greaterblessingofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Blessing of Might</a> | Class trainer |
+| 54 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25894"><img class="wf-wh__icon" src="/wh/spell_holy_greaterblessingofwisdom.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Blessing of Wisdom</a> | Class trainer |
+| 60 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25898"><img class="wf-wh__icon" src="/wh/spell_magic_greaterblessingofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Blessing of Kings</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterblessingoflight.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Blessing of Light</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25895"><img class="wf-wh__icon" src="/wh/spell_holy_greaterblessingofsalvation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mass Salvation</a> | Class trainer |
 
 With points in Talented from the Legacy system, you reach every talent up to five levels sooner.
 

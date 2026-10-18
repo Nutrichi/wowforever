@@ -73,6 +73,6 @@ Las torres a capturar de Eastern Plaguelands y los combates de Silithus no está
 
 Los desarrolladores mostraron una arena de duelos en un cráter de Mount Hyjal. El cráter existía en el juego original, pero la nueva zona usa ese terreno para otra cosa. Por eso Blizzard llevó el cráter a un mapa propio.
 
-El top 32 de un torneo de la comunidad se enfrenta allí el segundo día. El torneo es el 17 y el 18 de octubre, no es oficial y tiene más de 6.000 inscritos. Habrá vendedores de Soul Shards y componentes, y es posible un reinicio de tiempos de reutilización. Los jugadores no pueden visitar la arena libremente. Podría volver en un parche posterior, quizá durante la semana de la Darkmoon Faire.
+Los finalistas de un torneo de la comunidad se enfrentan allí el segundo día. El torneo es el 17 y el 18 de octubre, no es oficial y tiene más de 6.000 inscritos. Habrá vendedores de Soul Shards y componentes, y es posible un reinicio de tiempos de reutilización. Los jugadores no pueden visitar la arena libremente. Podría volver en un parche posterior, quizá durante la semana de la Darkmoon Faire.
 
 Blizzard pidió a Corbett cuatro episodios, y este es el cuarto. Si el pódcast continúa, no se sabe.

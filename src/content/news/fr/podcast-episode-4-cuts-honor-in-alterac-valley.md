@@ -73,6 +73,6 @@ Les tours à capturer d’Eastern Plaguelands et les combats de Silithus ne sont
 
 Les développeurs ont montré une arène de duel dans un cratère de Mount Hyjal. Le cratère existait dans le jeu d’origine, mais la nouvelle zone utilise ce terrain autrement. Blizzard a donc déplacé le cratère sur une carte à part.
 
-Le top 32 d’un tournoi communautaire s’y affronte le deuxième jour. Le tournoi a lieu les 17 et 18 octobre, n’est pas officiel et compte plus de 6 000 inscrits. Des marchands vendront des Soul Shards et des composants, et une remise à zéro des temps de recharge est possible. Les joueurs ne peuvent pas visiter l’arène librement. Elle pourrait revenir dans un patch plus tard, peut-être pendant la semaine de la Darkmoon Faire.
+Les finalistes d’un tournoi communautaire s’y affrontent le deuxième jour. Le tournoi a lieu les 17 et 18 octobre, n’est pas officiel et compte plus de 6 000 inscrits. Des marchands vendront des Soul Shards et des composants, et une remise à zéro des temps de recharge est possible. Les joueurs ne peuvent pas visiter l’arène librement. Elle pourrait revenir dans un patch plus tard, peut-être pendant la semaine de la Darkmoon Faire.
 
 Blizzard a demandé quatre épisodes à Corbett, et c’est le quatrième. On ne sait pas si le podcast continue.

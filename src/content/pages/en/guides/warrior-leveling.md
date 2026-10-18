@@ -170,6 +170,7 @@ Stats: weapon damage per second, then Strength and attack power, then Stamina, t
 | 36 | Whirlwind | Class trainer |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Class trainer |
 | 40 | Plate armor, riding, Dual Specialization | Trainers |
+| 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Class trainer |
 
 Victory Rush is new for leveling: after you kill a monster, it hits and heals you for 10% of your maximum health. Slam has an 18 second cooldown in Forever. With points in Talented from the Legacy system, you reach every talent up to five levels sooner.
 

@@ -73,6 +73,6 @@ Die Eroberungstürme in den Eastern Plaguelands und die Kämpfe in Silithus sind
 
 Die Entwickler zeigten eine Duellarena in einem Krater von Mount Hyjal. Den Krater gab es im ursprünglichen Spiel, aber die neue Zone nutzt den Boden für anderes Gelände. Deshalb hat Blizzard den Krater auf eine eigene Karte verlegt.
 
-Die Top 32 eines Community-Turniers duellieren sich dort am zweiten Tag. Das Turnier läuft am 17. und 18. Oktober, ist nicht offiziell und hat über 6.000 Anmeldungen. Händler verkaufen Soul Shards und Reagenzien, und ein Zurücksetzen der Abklingzeiten ist möglich. Spieler können die Arena nicht frei besuchen. Sie könnte in einem späteren Patch zurückkommen, vielleicht in der Woche des Darkmoon Faire.
+Die Finalisten eines Community-Turniers duellieren sich dort am zweiten Tag. Das Turnier läuft am 17. und 18. Oktober, ist nicht offiziell und hat über 6.000 Anmeldungen. Händler verkaufen Soul Shards und Reagenzien, und ein Zurücksetzen der Abklingzeiten ist möglich. Spieler können die Arena nicht frei besuchen. Sie könnte in einem späteren Patch zurückkommen, vielleicht in der Woche des Darkmoon Faire.
 
 Blizzard bat Corbett um vier Folgen, und dies ist die vierte. Ob der Podcast weitergeht, ist nicht bekannt.
