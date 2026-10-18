@@ -28,7 +28,8 @@ function start(root: HTMLElement) {
   const config = JSON.parse(root.dataset.leveling ?? '{}') as Config;
   const params = new URLSearchParams(location.search);
   const clamp = (value: number, low: number, high: number) => Math.min(high, Math.max(low, value));
-  let level = clamp(Number(params.get('level') ?? config.maxLevel) || config.maxLevel, MIN_LEVEL, config.maxLevel);
+  // Zonder ?level= begint de build op level 10, het eerste talentpunt (Nutri, 19 oktober 2026).
+  let level = clamp(Number(params.get('level') ?? MIN_LEVEL) || MIN_LEVEL, MIN_LEVEL, config.maxLevel);
   let talented = clamp(Number(params.get('talented') ?? 0) || 0, 0, config.maxTalented);
 
   const trees = Array.from(root.querySelectorAll<HTMLElement>('[data-tree]')).map((el) => ({

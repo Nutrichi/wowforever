@@ -8,8 +8,9 @@
  * standaard 0 (Nutri, 10 oktober 2026). Onder de bomen de hele volgorde per level; een
  * tik op een regel springt naar dat level.
  *
- * De pagina wordt gebouwd op het hoogste bekende level, zodat een bezoeker zonder
- * JavaScript en een zoekmachine de volledige build zien. Het adres draagt de keuze
+ * De pagina opent op level 10, het eerste talentpunt (Nutri, 19 oktober 2026: "the
+ * leveling builds should start at level 10, not at level 60"); de volledige volgorde
+ * staat onder de bomen, ook voor een zoekmachine. Het adres draagt de keuze
  * (`?level=24&talented=2`), zodat delen knippen en plakken is.
  */
 import type { Locale } from '../../i18n/ui';
@@ -41,7 +42,7 @@ const base = localizePath('leveling', locale);
 const talentsBase = localizePath('talents', locale);
 const total = totalTalentPoints();
 
-const level = build.maxLevel;
+const level = MIN_LEVEL;
 const ranks = ranksAt(klass, build, level, 0);
 const { count, order } = pointsAt(build, level, 0);
 const current = count > 0 ? order[count - 1] : '';

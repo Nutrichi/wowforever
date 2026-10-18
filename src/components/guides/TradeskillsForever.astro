@@ -10,6 +10,7 @@ import { tradeskillColors, tradeskills } from '../../config/guides';
 import { foreverPerks, legacyPerks } from '../../i18n/forever-tradeskills';
 import { guideT } from '../../i18n/guides';
 import { getPages } from '../../lib/pages';
+import { tsPath, tsSkills } from '../../lib/tradeskills-forever';
 import '../../styles/guides.css';
 
 interface Props {
@@ -24,11 +25,13 @@ const skills = tradeskills.filter((skill) => skill.eras.includes('forever'));
  * Een Forever-gids per tradeskill (29 september 2026) staat als pagina onder
  * tradeskills/forever/<skill>; heeft een tradeskill er een, dan linkt de pil.
  */
-const guideHref = Object.fromEntries(
+const guideHref: Record<string, string> = Object.fromEntries(
   (await getPages(locale))
     .filter((page) => page.key.startsWith('tradeskills/forever/'))
     .map((page) => [page.key.slice('tradeskills/forever/'.length), page.href]),
 );
+// Sinds 19 oktober 2026 heeft elke tradeskill met data een overzicht, recepten en een route.
+for (const key of tsSkills()) guideHref[key] ??= tsPath(locale, key);
 const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), secondary: t('typeSecondary') };
 
 /*

@@ -1,0 +1,13 @@
+---
+/* De recepten van een Forever-tradeskill in het Engels: /tradeskills/forever/<skill>/recipes/. */
+import TradeskillPage from '../../../../components/tradeskills/TradeskillPage.astro';
+import { hasRecipes, tsSkills } from '../../../../lib/tradeskills-forever';
+
+export function getStaticPaths() {
+  return tsSkills().filter(hasRecipes).map((slug) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params;
+---
+
+<TradeskillPage locale="en" skill={slug!} kind="recipes" />

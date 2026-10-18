@@ -40,6 +40,8 @@ const builds = new Set(levelingBuilds().map((build) => build.id));
 const bisSlugs = new Set(listsForEra('forever').map((list) => list.slug));
 const bisHref = (slug: string) => (bisSlugs.has(slug) ? bisPath(locale, 'forever', 'beta', slug) : undefined);
 const activities: Activity[] = ['leveling', 'dungeons', 'raids', 'solo', 'pvp'];
+// De rassen linken naar de gids met alle combinaties van ras en class (Nutri, 19 oktober 2026).
+const racesHref = pagePath('guides/races-and-classes', locale);
 
 const results = classOrder.map((id) => {
   const klass = pickerClasses[id];
@@ -154,7 +156,7 @@ const jsonLd = {
                   <>
                     {index > 0 && <span class="wf-picker__or"> / </span>}
                     <span class="wf-picker__spec">{pick.spec}</span>
-                    {pick.role && <span class="wf-picker__role"> ({t(pick.role)})</span>}
+                    {pick.role && pick.role !== 'damage' && <span class="wf-picker__role"> ({t(pick.role)})</span>}
                   </>
                 ))}
               </dd>
@@ -162,10 +164,10 @@ const jsonLd = {
           ))}
         </dl>
 
-        <h3 class="wf-glabel">{t('races')}</h3>
+        <h3 class="wf-glabel"><a class="wf-picker__raceslink" href={racesHref}>{t('races')} →</a></h3>
         <dl class="wf-picker__races">
-          <div data-race="alliance"><dt>Alliance</dt><dd>{result.races.alliance}</dd></div>
-          <div data-race="horde"><dt>Horde</dt><dd>{result.races.horde}</dd></div>
+          <div data-race="alliance"><dt>Alliance</dt><dd><a href={racesHref}>{result.races.alliance}</a></dd></div>
+          <div data-race="horde"><dt>Horde</dt><dd><a href={racesHref}>{result.races.horde}</a></dd></div>
         </dl>
 
         <p class="wf-picker__also" data-also hidden>{t('alsoFit')}: <span data-also-list></span></p>
@@ -267,6 +269,8 @@ const jsonLd = {
   .wf-picker__spec { font-weight: 700; }
   .wf-picker__role, .wf-picker__or { color: var(--wf-muted); font-size: 13px; }
   .wf-picker__races { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+  .wf-picker__races a, .wf-picker__raceslink { color: inherit; }
+  .wf-picker__races a:hover, .wf-picker__raceslink:hover { color: var(--wf-accent); text-decoration: underline; text-underline-offset: 3px; }
   .wf-picker__races > div.is-mine { border-color: var(--wf-accent-deep); }
   .wf-picker__races > div.is-other { opacity: .55; }
 
@@ -334,8 +338,9 @@ const jsonLd = {
       const winner = ranked[0];
       const klass = data.classes[winner];
 
+      // De rol staat er alleen bij tank en healer: dat een damage-spec schade doet, spreekt vanzelf.
       let spec = klass.start.damage!;
-      let label = data.words.damage;
+      let label = '';
       if (role === 'tank' && klass.start.tank) { spec = klass.start.tank; label = data.words.tank; }
       else if (role === 'healer' && klass.start.healer) { spec = klass.start.healer; label = data.words.healer; }
       else if (range === 'ranged' && klass.start.damageRanged) spec = klass.start.damageRanged;
@@ -346,7 +351,7 @@ const jsonLd = {
         const mine = result.dataset.result === winner;
         result.hidden = !mine;
         if (!mine) return;
-        result.querySelector<HTMLElement>('[data-start-spec]')!.textContent = `${spec} ${klass.name} (${label})`;
+        result.querySelector<HTMLElement>('[data-start-spec]')!.textContent = `${spec} ${klass.name}${label ? ` (${label})` : ''}`;
         const link = result.querySelector<HTMLAnchorElement>('[data-start-bis]')!;
         const href = (label === data.words.tank && klass.bis[`${spec}|tank`]) || klass.bis[spec];
         link.hidden = !href;

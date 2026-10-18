@@ -1,0 +1,13 @@
+---
+/* De levelroute van een Forever-tradeskill in het Engels: /tradeskills/forever/<skill>/leveling/. */
+import TradeskillPage from '../../../../components/tradeskills/TradeskillPage.astro';
+import { hasRoute, tsSkills } from '../../../../lib/tradeskills-forever';
+
+export function getStaticPaths() {
+  return tsSkills().filter(hasRoute).map((slug) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params;
+---
+
+<TradeskillPage locale="en" skill={slug!} kind="leveling" />

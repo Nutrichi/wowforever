@@ -25,6 +25,8 @@ import { guideT } from '../../i18n/guides';
 import GuidesHub from '../guides/GuidesHub.astro';
 import ForeverTimeline from './ForeverTimeline.astro';
 import DungeonBand from '../guides/DungeonBand.astro';
+import TradeskillNav from '../tradeskills/TradeskillNav.astro';
+import { tsData } from '../../lib/tradeskills-forever';
 import { hubCategories } from '../../config/guides-hub';
 import { breadcrumbJsonLd, publisherJsonLd } from '../../lib/structured-data';
 import { isoDate, longDate } from '../../lib/date';
@@ -87,7 +89,9 @@ const categoryMembers = category
     .map((card) => all.find((other) => other.key === `guides/${card.parts?.[0] ?? card.key}`))
     .filter((other): other is (typeof all)[number] => !!other)
   : [];
-const members = !hasChips || pageKey === 'guides' ? []
+// Een Forever-tradeskill toont de twaalf tradeskills en zijn tabs (TradeskillNav), geen chips.
+const tsSkill = pageKey.startsWith('tradeskills/forever/') ? pageKey.split('/')[2] : '';
+const members = !hasChips || pageKey === 'guides' || (tsSkill && tsData(tsSkill)) ? []
   : groupKey && groupMembers.length <= maxGroupChips
     ? groupMembers
     : folder === 'guides'
@@ -172,6 +176,8 @@ const jsonLd = {
         ))}
       </nav>
     )}
+
+    {tsSkill && tsData(tsSkill) && <TradeskillNav locale={locale} skill={tsSkill} current="overview" />}
 
     {/* De tijdlijn van Forever, van de beta tot de zomer van 2027 (19 oktober 2026). */}
     {pageKey === 'forever' && <ForeverTimeline locale={locale} />}

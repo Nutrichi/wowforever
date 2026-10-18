@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "read": "2026-10-10",
- "clientBuild": "1.60.1.70425",
+ "clientBuild": "1.60.1.70450",
  "classes": [
   {
    "id": "druid",

@@ -1,0 +1,418 @@
+---
+/*
+ * Een subpagina van een Forever-tradeskill (Nutri, 19 oktober 2026: "I would like to
+ * actually have all that information also incapsulated on my website in the tradeskills
+ * part ... not 1 giga long page"; gekozen: aparte subpagina's, routes uit de speldata).
+ *
+ * * `recipes`: alle recepten in één tabel met filters (zoeken, skill, bron, categorie,
+ *   alleen nieuw). Per recept de vier kleuren, wat het maakt, de reagents en de bron.
+ * * `leveling`: de route van 1 tot 300 uit tools/tradeskills_forever.py, met de rangen
+ *   die je onderweg moet leren en een boodschappenlijst voor de hele route.
+ * * `overview`: alleen voor de tradeskills zonder eigen tekst in pages/<taal>/tradeskills/
+ *   forever/: een zin uitleg, wat nieuw is in Forever, de kampobjecten en de rangen.
+ *
+ * Elk item en elke spell linkt naar Wowhead Forever. Namen uit het spel blijven Engels.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TradeskillNav from './TradeskillNav.astro';
+import { tradeskills } from '../../config/guides';
+import { foreverPerks } from '../../i18n/forever-tradeskills';
+import { tsIntro, tsT } from '../../i18n/tradeskill-pages';
+import { hasRecipes, hasRoute, money, tsData, tsPath, whItem, whSpell, type TsRecipe } from '../../lib/tradeskills-forever';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import { longDate } from '../../lib/date';
+import { pageT } from '../../i18n/pages';
+import '../../styles/guides.css';
+
+interface Props {
+  locale: Locale;
+  skill: string;
+  kind: 'overview' | 'recipes' | 'leveling';
+}
+
+const { locale, skill, kind } = Astro.props;
+const t = tsT(locale);
+const ui = useTranslations(locale);
+const data = tsData(skill)!;
+const name = tradeskills.find((s) => s.key === skill)?.name ?? skill;
+const items = data.items;
+const recipes = data.recipes;
+const newCount = recipes.filter((r) => r.status === 'new').length;
+
+const title = kind === 'recipes' ? t('recipesTitle', { skill: name }) : kind === 'leveling' ? t('levelingTitle', { skill: name }) : name;
+const metaTitle = kind === 'recipes' ? t('recipesMeta', { skill: name }) : kind === 'leveling' ? t('levelingMeta', { skill: name }) : t('overviewMeta', { skill: name });
+const description = kind === 'recipes'
+  ? t('recipesDesc', { skill: name, n: recipes.length, new: newCount })
+  : kind === 'leveling' ? t('levelingDesc', { skill: name }) : t('overviewDesc', { skill: name, n: recipes.length });
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: ui('nav.tradeskills'), path: `${localizePath('tradeskills', locale)}/` },
+  { name, path: tsPath(locale, skill) },
+  ...(kind === 'overview' ? [] : [{ name: kind === 'recipes' ? t('tabRecipes') : t('tabLeveling'), path: tsPath(locale, skill, kind) }]),
+];
+const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+
+const item = (id: number) => items[String(id)];
+const icon = (id: number) => (item(id)?.icon ? `/wh/${item(id)!.icon}.jpg` : '');
+const sourceLabel = (r: TsRecipe) => (r.sources.length ? r.sources.map((s) => t(s as never)).join(', ') : t('unknown'));
+const hours = (s: number) => (s >= 3600 ? `${Math.round(s / 3600)} h` : `${Math.round(s / 60)} min`);
+const categories = [...new Set(recipes.map((r) => r.category || t('other_cat')))].sort();
+const sources = [...new Set(recipes.flatMap((r) => (r.sources.length ? r.sources : ['unknown'])))];
+const brackets = [[1, 75], [76, 150], [151, 225], [226, 300]];
+/* Eerst 60 recepten, met een knop voor de rest; een filter zoekt altijd in alles. */
+const limit = 60;
+
+/* De route: rangen die je onderweg leert, en de boodschappenlijst. */
+const byId = new Map(recipes.map((r) => [r.id, r]));
+const rankBefore = (from: number, to: number) => data.ranks.slice(1).find((rank, i) => {
+  const cap = data.ranks[i].max;
+  return from <= cap && to > cap;
+});
+const shopping = new Map<number, number>();
+for (const step of data.route) {
+  for (const [rid, n] of byId.get(step.id)?.reagents ?? []) shopping.set(rid, (shopping.get(rid) ?? 0) + n * step.crafts);
+}
+const shopList = [...shopping.entries()].sort((a, b) => (item(a[0])?.name ?? '').localeCompare(item(b[0])?.name ?? ''));
+const vendorList = shopList.filter(([id]) => item(id)?.vendor);
+const farmList = shopList.filter(([id]) => !item(id)?.vendor);
+
+const camp = recipes.filter((r) => r.category === 'Camping');
+const pt = pageT(locale);
+/* De bronregel, zoals onder elke gids (bron alleen hier, nooit in de tekst). */
+const sourceLinks = [
+  { name: `Blizzard, WoW Forever client ${data.build}`, url: 'https://wago.tools/db2/SkillLineAbility' },
+  { name: 'Wowhead, WoW Forever', url: `https://www.wowhead.com/forever/spells/${data.type === 'secondary' ? 'secondary-skills' : 'professions'}/${skill}` },
+  { name: 'wowf.io', url: `https://wowf.io/en/professions/${skill}` },
+];
+---
+
+<BaseLayout locale={locale} title={metaTitle} description={description}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <article class="wf-gdetail wf-page wf-ts" data-pagefind-body>
+    <nav class="wf-gcrumb" aria-label={ui('crumb.label')} data-pagefind-ignore>
+      {crumbs.slice(0, -1).map((crumb) => (
+        <>
+          <a href={crumb.path}>{crumb.name}</a>
+          <span aria-hidden="true">/</span>
+        </>
+      ))}
+      <span>{crumbs[crumbs.length - 1].name}</span>
+    </nav>
+
+    <header class="wf-gdetail__head">
+      <span class="wf-gdetail__diamond" style="--wf-diamond: #e0b77a;" aria-hidden="true"></span>
+      <div>
+        <h1 class="wf-gdetail__title">{title}</h1>
+        <p class="wf-gdetail__meta">WoW Forever · build {data.build} · {longDate(new Date(data.updated), locale)}</p>
+      </div>
+    </header>
+
+    <TradeskillNav locale={locale} skill={skill} current={kind} />
+
+    {kind === 'overview' && (
+      <div class="wf-gprose">
+        {tsIntro[skill] && <p>{tsIntro[skill][locale]}</p>}
+        {foreverPerks[skill] && (
+          <>
+            <h2>{t('inForever')}</h2>
+            <p>{foreverPerks[skill][locale]}</p>
+          </>
+        )}
+        {recipes.length > 0 && (
+          <>
+            <h2>{t('atGlance')}</h2>
+            <ul>
+              <li>{t('glanceRecipes', { n: recipes.length, new: newCount })}</li>
+              {data.ranks.map((rank) => <li><strong>{rank.rank}</strong>: {t('rankRow', { max: rank.max })}</li>)}
+            </ul>
+          </>
+        )}
+        {camp.length > 0 && (
+          <>
+            <h2>{t('camp')}</h2>
+            <p>{t('campText')}</p>
+            <ul>
+              {camp.map((r) => (
+                <li>
+                  <a href={whSpell(r.id)} target="_blank" rel="noopener nofollow"><strong>{r.name}</strong></a>, {t('colSkill').toLowerCase()} {r.learn}: {r.reagents.map(([id, n]) => `${n}× ${item(id)?.name ?? id}`).join(', ')}
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
+        <p class="wf-ts__links">
+          {hasRecipes(skill) && <a class="wf-btn" href={tsPath(locale, skill, 'recipes')}>{t('allRecipes')} →</a>}
+          {hasRoute(skill) && <a class="wf-btn" href={tsPath(locale, skill, 'leveling')}>{t('leveling')} →</a>}
+        </p>
+      </div>
+    )}
+
+    {kind === 'recipes' && (
+      <section class="wf-ts__recipes" data-ts-recipes>
+        <div class="wf-ts__filters" data-pagefind-ignore>
+          <input type="search" class="wf-ts__search" placeholder={t('search')} aria-label={t('search')} data-f-text />
+          <select aria-label={t('allSkill')} data-f-skill>
+            <option value="">{t('allSkill')}</option>
+            {brackets.map(([a, b]) => <option value={`${a}-${b}`}>{a}-{b}</option>)}
+          </select>
+          <select aria-label={t('allSources')} data-f-source>
+            <option value="">{t('allSources')}</option>
+            {sources.map((s) => <option value={s}>{t(s as never)}</option>)}
+          </select>
+          {categories.length > 1 && (
+            <select aria-label={t('allCategories')} data-f-cat>
+              <option value="">{t('allCategories')}</option>
+              {categories.map((c) => <option value={c}>{c}</option>)}
+            </select>
+          )}
+          <label class="wf-ts__check"><input type="checkbox" data-f-new /> {t('newOnly')}</label>
+          <span class="wf-ts__count" data-count data-template={t('shown', { n: '{n}', total: recipes.length })}>{t('shown', { n: recipes.length, total: recipes.length })}</span>
+        </div>
+        <p class="wf-ts__help">{t('colorsHelp')}</p>
+
+        <div class="wf-gprose">
+          <table class="wf-ts__table">
+            <thead>
+              <tr><th>{t('colSkill')}</th><th>{t('colRecipe')}</th><th>{t('colReagents')}</th><th>{t('colSource')}</th></tr>
+            </thead>
+            <tbody>
+              {recipes.map((r) => {
+                const made = r.creates ? item(r.creates[0]) : undefined;
+                const text = [r.name, ...r.reagents.map(([id]) => item(id)?.name ?? '')].join(' ').toLowerCase();
+                return (
+                  <tr
+                    hidden={recipes.indexOf(r) >= limit}
+                    data-learn={r.learn}
+                    data-src={(r.sources.length ? r.sources : ['unknown']).join(' ')}
+                    data-cat={r.category || t('other_cat')}
+                    data-new={r.status === 'new' ? '1' : undefined}
+                    data-text={text}
+                  >
+                    <td class="wf-ts__skill">
+                      <span class="wf-ts__learn">{r.learn}</span>
+                      {r.colors.length === 4 && (
+                        <span class="wf-ts__colors">
+                          <span class="c-o">{r.colors[0] || r.learn}</span><span class="c-y">{r.colors[1]}</span><span class="c-g">{r.colors[2]}</span><span class="c-x">{r.colors[3]}</span>
+                        </span>
+                      )}
+                    </td>
+                    <td>
+                      <a class="wf-ts__item" href={r.creates ? whItem(r.creates[0]) : whSpell(r.id)} target="_blank" rel="noopener nofollow" style={made ? `color: var(--wf-q${made.quality})` : undefined}>
+                        {r.creates && icon(r.creates[0]) && <img src={icon(r.creates[0])} alt="" width="20" height="20" loading="lazy" decoding="async" />}
+                        <span>{r.name}</span>
+                      </a>
+                      {r.creates && r.creates[1] > 1 && <span class="wf-ts__muted"> ×{r.creates[1]}</span>}
+                      {r.status !== 'unchanged' && (
+                        <span class:list={['wf-ts__badge', { 'is-new': r.status === 'new' }]} title={r.changes.join(' ')}>{r.status === 'new' ? t('badgeNew') : t('badgeUpdated')}</span>
+                      )}
+                      {r.cooldown > 0 && <span class="wf-ts__muted wf-ts__cd">{t('cooldown', { t: hours(r.cooldown) })}</span>}
+                    </td>
+                    <td class="wf-ts__reagents">
+                      {r.reagents.map(([id, n]) => (
+                        <a href={whItem(id)} target="_blank" rel="noopener nofollow" title={item(id)?.name}>
+                          {icon(id) && <img src={icon(id)} alt="" width="18" height="18" loading="lazy" decoding="async" />}
+                          <span>{n}× {item(id)?.name ?? id}</span>
+                        </a>
+                      ))}
+                    </td>
+                    <td class="wf-ts__source">
+                      {sourceLabel(r)}{r.cost > 0 && <span class="wf-ts__muted"> · {money(r.cost)}</span>}
+                      {r.detail.filter((d) => d.where?.length || d.favor).map((d) => (
+                        <span class="wf-ts__where">
+                          {d.where?.join(', ')}{d.favor ? `${d.where?.length ? ' · ' : ''}Merchant's Favor ${d.favor}` : ''}{d.standing ? ` · ${d.standing}` : ''}
+                        </span>
+                      ))}
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+        {recipes.length > limit && (
+          <p class="wf-ts__more"><button type="button" class="wf-btn" data-more>{t('showAll', { n: recipes.length })}</button></p>
+        )}
+      </section>
+    )}
+
+    {kind === 'leveling' && (
+      <section class="wf-ts__leveling">
+        <p class="wf-ts__intro">{t('levelingIntro', { build: data.build })}</p>
+        <div class="wf-gprose">
+          <table class="wf-ts__table">
+            <thead>
+              <tr><th>{t('colRange')}</th><th>{t('colMake')}</th><th>{t('colTimes')}</th><th>{t('colMats')}</th></tr>
+            </thead>
+            <tbody>
+              {data.route.map((step) => {
+                const r = byId.get(step.id)!;
+                const rank = rankBefore(step.from, step.to);
+                const made = r.creates ? item(r.creates[0]) : undefined;
+                return (
+                  <>
+                    {rank && (
+                      <tr class="wf-ts__rank"><td colspan="4">{t('rankNote', { rank: rank.rank, max: data.ranks[data.ranks.indexOf(rank) - 1].max })}</td></tr>
+                    )}
+                    <tr>
+                      <td class="wf-ts__range">{t('range', { from: step.from, to: step.to })}</td>
+                      <td>
+                        <a class="wf-ts__item" href={r.creates ? whItem(r.creates[0]) : whSpell(r.id)} target="_blank" rel="noopener nofollow" style={made ? `color: var(--wf-q${made.quality})` : undefined}>
+                          {r.creates && icon(r.creates[0]) && <img src={icon(r.creates[0])} alt="" width="20" height="20" loading="lazy" decoding="async" />}
+                          <span>{r.name}</span>
+                        </a>
+                      </td>
+                      <td class="wf-ts__times">{step.crafts}×</td>
+                      <td class="wf-ts__reagents">
+                        {r.reagents.map(([id, n]) => (
+                          <a href={whItem(id)} target="_blank" rel="noopener nofollow">
+                            {icon(id) && <img src={icon(id)} alt="" width="18" height="18" loading="lazy" decoding="async" />}
+                            <span>{n * step.crafts}× {item(id)?.name ?? id}</span>
+                          </a>
+                        ))}
+                      </td>
+                    </tr>
+                  </>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+
+        <h2 class="wf-ts__h2">{t('shopping')}</h2>
+        <div class="wf-ts__shop">
+          {[[t('shoppingFarm'), farmList], [t('shoppingVendor'), vendorList]].filter(([, list]) => (list as unknown[]).length > 0).map(([label, list]) => (
+            <div class="wf-ts__shopcol">
+              <h3>{label as string}</h3>
+              <ul>
+                {(list as [number, number][]).map(([id, n]) => (
+                  <li>
+                    <a href={whItem(id)} target="_blank" rel="noopener nofollow">
+                      {icon(id) && <img src={icon(id)} alt="" width="18" height="18" loading="lazy" decoding="async" />}
+                      <span>{n}× {item(id)?.name ?? id}</span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+    <p class="wf-page__source" data-pagefind-ignore>
+      {pt('sources')}{' '}
+      {sourceLinks.map((source, index) => (
+        <>{index > 0 && ', '}<a href={source.url} rel="noopener nofollow" target="_blank">{source.name}</a></>
+      ))}
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .wf-ts__filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 8px; }
+  .wf-ts__filters select, .wf-ts__search {
+    padding: 6px 10px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-field, 8px);
+    background: var(--wf-raised);
+    font: inherit;
+    font-size: 14px;
+    color: var(--wf-ink);
+  }
+  .wf-ts__search { flex: 1 1 220px; min-width: 0; }
+  .wf-ts__check { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--wf-body); }
+  .wf-ts__count { margin-left: auto; font-size: 13px; color: var(--wf-label); }
+  .wf-ts__help, .wf-ts__intro { margin: 0 0 12px; font-size: 13.5px; color: var(--wf-muted); }
+  .wf-ts__intro { font-size: 15px; color: var(--wf-body); }
+
+  .wf-ts__table td { vertical-align: middle; }
+  .wf-ts__table tr[hidden] { display: none; }
+  .wf-ts__skill { white-space: nowrap; }
+  .wf-ts__learn { font-weight: 700; }
+  .wf-ts__colors { display: inline-flex; gap: 5px; margin-left: 8px; font-size: 12px; font-weight: 700; }
+  .c-o { color: #c25b00; } .c-y { color: #9a7d00; } .c-g { color: #2f7d1f; } .c-x { color: #7a7a7a; }
+  .wf-ts__item { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; text-decoration: none; }
+  .wf-ts__item:hover span { text-decoration: underline; text-underline-offset: 3px; }
+  .wf-ts img { display: inline-block; flex: none; border-radius: 3px; border: 1px solid rgba(138, 90, 20, .35); }
+  .wf-ts__reagents { font-size: 13px; }
+  .wf-ts__reagents a { display: inline-flex; align-items: center; gap: 4px; margin: 1px 10px 1px 0; color: var(--wf-body); text-decoration: none; white-space: nowrap; }
+  .wf-ts__reagents a:hover span { text-decoration: underline; }
+  .wf-ts__source { font-size: 13px; }
+  .wf-ts__muted { font-size: 12.5px; color: var(--wf-muted); font-weight: 400; }
+  .wf-ts__cd { display: block; }
+  .wf-ts__where { display: block; font-size: 12px; color: var(--wf-muted); white-space: normal; }
+  .wf-ts__more { margin-top: 12px; text-align: center; }
+  .wf-ts__source { min-width: 150px; }
+  .wf-ts__badge {
+    display: inline-block;
+    margin-left: 6px;
+    padding: 0 6px;
+    border: 1px solid rgba(138, 90, 20, .45);
+    border-radius: 999px;
+    font-size: 10.5px;
+    font-weight: 700;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    color: #8a5a14;
+    vertical-align: 1px;
+  }
+  .wf-ts__badge.is-new { background: linear-gradient(180deg, #e0b77a, #c39449); border-color: transparent; color: #1a1408; }
+  .wf-ts__range, .wf-ts__times { white-space: nowrap; font-weight: 700; }
+  .wf-ts__rank td { background: rgba(36, 70, 143, .1) !important; font-weight: 700; color: var(--wf-arcane) !important; }
+
+  .wf-ts__h2 { margin: 26px 0 10px; font-size: 22px; }
+  .wf-ts__shop { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+  .wf-ts__shopcol { padding: 12px 14px; border: 1px solid var(--wf-border); border-radius: var(--wf-r-card-sm, 10px); background: var(--wf-raised); }
+  .wf-ts__shopcol h3 { margin: 0 0 8px; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: var(--wf-label); }
+  .wf-ts__shopcol ul { margin: 0; padding: 0; list-style: none; columns: 2; column-gap: 16px; font-size: 14px; }
+  .wf-ts__shopcol li { break-inside: avoid; padding: 2px 0; }
+  .wf-ts__shopcol a { display: inline-flex; align-items: center; gap: 6px; color: var(--wf-body); text-decoration: none; }
+  .wf-ts__links { display: flex; flex-wrap: wrap; gap: 8px; }
+
+  @media (max-width: 760px) {
+    .wf-ts__table thead { display: none; }
+    .wf-ts__table, .wf-ts__table tbody, .wf-ts__table tr, .wf-ts__table td { display: block; width: 100%; }
+    .wf-ts__table tr { padding: 6px 0; border-bottom: 1px solid var(--wf-line); }
+    .wf-ts__table td { border: 0 !important; padding: 2px 10px !important; }
+    .wf-ts__shopcol ul { columns: 1; }
+  }
+</style>
+
+<script>
+  const root = document.querySelector<HTMLElement>('[data-ts-recipes]');
+  if (root) {
+    const rows = Array.from(root.querySelectorAll<HTMLElement>('tbody tr'));
+    const text = root.querySelector<HTMLInputElement>('[data-f-text]')!;
+    const skill = root.querySelector<HTMLSelectElement>('[data-f-skill]')!;
+    const source = root.querySelector<HTMLSelectElement>('[data-f-source]')!;
+    const cat = root.querySelector<HTMLSelectElement>('[data-f-cat]');
+    const onlyNew = root.querySelector<HTMLInputElement>('[data-f-new]')!;
+    const count = root.querySelector<HTMLElement>('[data-count]')!;
+    const more = root.querySelector<HTMLButtonElement>('[data-more]');
+    let all = !more;
+    const LIMIT = 60;
+    const apply = () => {
+      const q = text.value.trim().toLowerCase();
+      const [lo, hi] = skill.value ? skill.value.split('-').map(Number) : [0, 999];
+      let n = 0;
+      const filtered = !!(q || skill.value || source.value || (cat && cat.value) || onlyNew.checked);
+      for (const row of rows) {
+        const learn = Number(row.dataset.learn);
+        const show = (!q || (row.dataset.text ?? '').includes(q))
+          && learn >= lo && learn <= hi
+          && (!source.value || (row.dataset.src ?? '').split(' ').includes(source.value))
+          && (!cat || !cat.value || row.dataset.cat === cat.value)
+          && (!onlyNew.checked || row.dataset.new === '1');
+        row.hidden = !show || (!all && !filtered && n >= LIMIT);
+        if (show) n += 1;
+      }
+      if (more) more.hidden = all || filtered;
+      count.textContent = (count.dataset.template ?? '{n}').replace('{n}', String(n));
+    };
+    [text, skill, source, onlyNew, ...(cat ? [cat] : [])].forEach((el) => el.addEventListener('input', apply));
+    more?.addEventListener('click', () => { all = true; apply(); });
+  }
+</script>

@@ -1,21 +1,26 @@
 ---
 /*
- * Een Forever-gids onder TRADESKILLS in het Engels: /tradeskills/forever/<skill>/
- * (Nutri, 29 september 2026). Geen era-gids zoals die van Classic Era en
- * later, maar een pagina uit `pages/<taal>/tradeskills/forever/<skill>.md`,
- * met de vorm van de gidsen onder /guides/. Zo blijft het era-systeem van de
- * andere tradeskillgidsen ongemoeid; de pil op /tradeskills/ linkt ernaar.
+ * Het overzicht van een Forever-tradeskill in het Engels: /tradeskills/forever/<skill>/
+ * (Nutri, 29 september 2026). Heeft de tradeskill een eigen tekst in
+ * `pages/<taal>/tradeskills/forever/<skill>.md`, dan is dat het overzicht; de andere
+ * tradeskills (sinds 19 oktober 2026) krijgen een overzicht uit de data
+ * (TradeskillPage.astro). De recepten en de route staan op eigen subpagina's.
  */
 import SitePage from '../../../components/pages/SitePage.astro';
+import TradeskillPage from '../../../components/tradeskills/TradeskillPage.astro';
 import { pageSlugs } from '../../../lib/pages';
+import { tsSkills } from '../../../lib/tradeskills-forever';
 
 export async function getStaticPaths() {
-  return (await pageSlugs('tradeskills/forever'))
-    .filter((slug): slug is string => !!slug)
-    .map((slug) => ({ params: { slug } }));
+  const pages = (await pageSlugs('tradeskills/forever')).filter((slug): slug is string => !!slug);
+  const slugs = [...new Set([...pages, ...tsSkills()])];
+  return slugs.map((slug) => ({ params: { slug }, props: { page: pages.includes(slug) } }));
 }
 
 const { slug } = Astro.params;
+const { page } = Astro.props;
 ---
 
-<SitePage locale="en" pageKey={`tradeskills/forever/${slug}`} />
+{page
+  ? <SitePage locale="en" pageKey={`tradeskills/forever/${slug}`} />
+  : <TradeskillPage locale="en" skill={slug!} kind="overview" />}
