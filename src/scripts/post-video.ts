@@ -1,5 +1,5 @@
 /*
- * Een video, een Reddit-post of een post op X in een nieuwspost.
+ * Een video, een Reddit-post, een post op X of een Twitch-clip in een nieuwspost.
  *
  * **Ze laden vanzelf** (Nutri, 21 september 2026: "Kan je die tussenstap van
  * op die knop te drukken niet gewoon weglaten?"). Tot 21 september stond er
@@ -99,14 +99,33 @@ const playX = (figure: HTMLElement) => {
   mount(figure, frame);
 };
 
+/*
+ * Een clip of video van Twitch (Nutri, 18 oktober 2026: "Why can't the website embed twitch
+ * clips? fix it"). In de Markdown `data-wf-twitch="clip:<slug>"` of `"video:<id>"`. Twitch
+ * speelt alleen af als `parent` het domein van de pagina is, dus dat komt uit de pagina zelf
+ * (wowforever.be, www.wowforever.be of localhost in de dev-server). Geen autoplay, zoals YouTube.
+ */
+const playTwitch = (figure: HTMLElement) => {
+  const [kind, id] = (figure.dataset.wfTwitch ?? '').split(':');
+  if (!id || figure.querySelector('iframe')) return;
+  const parent = encodeURIComponent(location.hostname);
+  const frame = document.createElement('iframe');
+  frame.src = kind === 'video'
+    ? `https://player.twitch.tv/?video=${encodeURIComponent(id)}&parent=${parent}&autoplay=false`
+    : `https://clips.twitch.tv/embed?clip=${encodeURIComponent(id)}&parent=${parent}&autoplay=false`;
+  frame.allow = 'autoplay; fullscreen; picture-in-picture';
+  mount(figure, frame);
+};
+
 const load = (figure: HTMLElement) => {
   if (figure.dataset.wfReddit) playReddit(figure);
   else if (figure.dataset.wfX) playX(figure);
+  else if (figure.dataset.wfTwitch) playTwitch(figure);
   else playVideo(figure);
 };
 
-const embeds = () =>
-  document.querySelectorAll<HTMLElement>('[data-wf-video], [data-wf-reddit], [data-wf-x]');
+const SELECTOR = '[data-wf-video], [data-wf-reddit], [data-wf-x], [data-wf-twitch]';
+const embeds = () => document.querySelectorAll<HTMLElement>(SELECTOR);
 
 /*
  * Laden zodra het blok binnen 800 px van het scherm komt. Kan de browser geen
@@ -133,7 +152,7 @@ if ('IntersectionObserver' in window) {
  */
 document.addEventListener('click', (event) => {
   if (!(event.target instanceof Element)) return;
-  const figure = event.target.closest<HTMLElement>('[data-wf-video], [data-wf-reddit], [data-wf-x]');
+  const figure = event.target.closest<HTMLElement>(SELECTOR);
   if (!figure) return;
   // Cmd- of Ctrl-klik op een link in het blok blijft een gewone link.
   if (event.target.closest('a')) return;

@@ -55,6 +55,16 @@ Layers hangen nu [aan een zone](/nl/news/grouping-slows-quests-so-players-level-
 
 Hetzelfde gebeurt tussen Tirisfal Glades en de Ruins of Lordaeron boven de Undercity, zoals een [Twitch-clip van JurdiJD](https://www.twitch.tv/jurdijd/clip/SmoothWittyFriseeDerp-iQ2kNoGTGfqeobqo) toont.
 
+<figure class="wf-embed" data-wf-twitch="clip:SmoothWittyFriseeDerp-iQ2kNoGTGfqeobqo">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Twitch-clip van JurdiJD</span>
+      <span class="wf-embed__meta">Speel de clip af. JurdiJD op Twitch.</span>
+    </span>
+  </button>
+</figure>
+
 ## Stap voor stap
 
 In [aflevering 4 van de podcast van de ontwikkelaars](/nl/news/podcast-episode-4-cuts-honor-in-alterac-valley/) vroeg een gast naar raidgroepen die plots op een andere layer belanden. "We maken stapjes", zei Lead Designer Tim Jones. Blizzard heeft volgens Jones grote verbeteringen gemaakt zodat world PvP op grote schaal werkt.

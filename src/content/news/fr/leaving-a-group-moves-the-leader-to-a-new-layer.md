@@ -55,6 +55,16 @@ Les layers sont désormais [liés à une zone](/fr/news/grouping-slows-quests-so
 
 La même chose se produit entre Tirisfal Glades et les Ruins of Lordaeron au-dessus de l'Undercity, comme le montre un [clip Twitch de JurdiJD](https://www.twitch.tv/jurdijd/clip/SmoothWittyFriseeDerp-iQ2kNoGTGfqeobqo).
 
+<figure class="wf-embed" data-wf-twitch="clip:SmoothWittyFriseeDerp-iQ2kNoGTGfqeobqo">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Clip Twitch de JurdiJD</span>
+      <span class="wf-embed__meta">Lancez le clip. JurdiJD sur Twitch.</span>
+    </span>
+  </button>
+</figure>
+
 ## Petit à petit
 
 Dans [l'épisode 4 du podcast des développeurs](/fr/news/podcast-episode-4-cuts-honor-in-alterac-valley/), un invité a parlé de groupes de raid qui se retrouvent soudain sur un autre layer. « Nous avançons par petites étapes », a répondu le Lead Designer Tim Jones. Selon Jones, Blizzard a fait de gros progrès pour que le world PvP fonctionne à grande échelle.

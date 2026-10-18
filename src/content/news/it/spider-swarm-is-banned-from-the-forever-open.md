@@ -17,6 +17,16 @@ Il Forever Open vieta <a class="wf-wh wf-q2" href="https://www.wowhead.com/forev
 
 Il torneo si gioca il 17 e il 18 ottobre, con personaggi della Horde di livello 30, e mette in palio [100.000 dollari](/it/news/the-beta-dueling-tournament-now-pays-100000-dollars/). Spider Swarm evoca ragni che proteggono il proprietario per 10 minuti, con 5 cariche e una ricarica di 30 minuti. Una [clip della diretta di Sodapoppin](https://www.twitch.tv/sodapoppin/clip/EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW) mostra l'oggetto in azione.
 
+<figure class="wf-embed" data-wf-twitch="clip:EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Clip Twitch di Sodapoppin</span>
+      <span class="wf-embed__meta">Avvia la clip. Sodapoppin su Twitch.</span>
+    </span>
+  </button>
+</figure>
+
 ## Cosa è vietato
 
 È vietato ogni oggetto con mascotte che non si può indossare, e anche altri cinque oggetti:

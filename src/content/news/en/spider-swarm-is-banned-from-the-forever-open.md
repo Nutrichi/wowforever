@@ -16,6 +16,16 @@ The Forever Open bans <a class="wf-wh wf-q2" href="https://www.wowhead.com/forev
 
 The tournament runs on 17 and 18 October, for level 30 Horde characters, with [100,000 dollars in prizes](/news/the-beta-dueling-tournament-now-pays-100000-dollars/). Spider Swarm summons spiders that protect their owner for 10 minutes, with 5 charges and a cooldown of 30 minutes. A [clip from the stream of Sodapoppin](https://www.twitch.tv/sodapoppin/clip/EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW) shows the item at work.
 
+<figure class="wf-embed" data-wf-twitch="clip:EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Twitch clip from Sodapoppin</span>
+      <span class="wf-embed__meta">Play the clip. Sodapoppin on Twitch.</span>
+    </span>
+  </button>
+</figure>
+
 ## What is banned
 
 Every pet item that cannot be equipped is banned, and so are five other items:

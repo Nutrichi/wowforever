@@ -198,7 +198,7 @@ Met punten in Talented uit het Legacy-systeem bereik je elk talent tot vijf leve
 | 10 | Bear Form, Growl, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6807"><img class="wf-wh__icon" src="/wh/ability_druid_maul.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Maul</a>, Teleport: Moonglade | Classquest |
 | 10 | Nature's Grasp, Demoralizing Roar | Classtrainer |
 | 10 | Improved Wrath, Genesis, Ferocity, Heart of the Wild, Nature's Focus, Furor | Talentboom |
-| 12 | Regrowth, Revive, Enrage | Classtrainer |
+| 12 | Regrowth, Revive, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5229"><img class="wf-wh__icon" src="/wh/ability_druid_enrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> | Classtrainer |
 | 14 | Cure Poison | Classquest |
 | 14 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5211"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bash</a> | Classtrainer |
 | 15 | Moonglow, Nature's Majesty, Feral Swiftness, Naturalist | Talentboom |

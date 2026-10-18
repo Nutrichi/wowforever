@@ -197,7 +197,7 @@ With points in Talented from the Legacy system, you reach every talent up to fiv
 | 10 | Bear Form, Growl, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6807"><img class="wf-wh__icon" src="/wh/ability_druid_maul.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Maul</a>, Teleport: Moonglade | Class quest |
 | 10 | Nature's Grasp, Demoralizing Roar | Class trainer |
 | 10 | Improved Wrath, Genesis, Ferocity, Heart of the Wild, Nature's Focus, Furor | Talent tree |
-| 12 | Regrowth, Revive, Enrage | Class trainer |
+| 12 | Regrowth, Revive, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5229"><img class="wf-wh__icon" src="/wh/ability_druid_enrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> | Class trainer |
 | 14 | Cure Poison | Class quest |
 | 14 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5211"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bash</a> | Class trainer |
 | 15 | Moonglow, Nature's Majesty, Feral Swiftness, Naturalist | Talent tree |

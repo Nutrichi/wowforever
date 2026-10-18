@@ -890,12 +890,6 @@
 "q": -1,
 "t": "s"
 },
-"Enrage": {
-"icon": "ability_druid_enrage",
-"id": 5229,
-"q": -1,
-"t": "s"
-},
 "Eviscerate": {
 "icon": "ability_rogue_eviscerate",
 "id": 2098,
@@ -18521,12 +18515,6 @@
 "id": 271625,
 "q": 2,
 "t": "i"
-},
-"Enrage": {
-"icon": "ability_druid_enrage",
-"id": 5229,
-"q": -1,
-"t": "s"
 },
 "Enraging Light": {
 "icon": "spell_holy_retributionaura",

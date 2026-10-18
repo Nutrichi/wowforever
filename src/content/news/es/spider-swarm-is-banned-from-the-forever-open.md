@@ -17,6 +17,16 @@ El Forever Open prohíbe <a class="wf-wh wf-q2" href="https://www.wowhead.com/fo
 
 El torneo se juega el 17 y el 18 de octubre, con personajes de la Horde de nivel 30, y reparte [100.000 dólares en premios](/es/news/the-beta-dueling-tournament-now-pays-100000-dollars/). Spider Swarm invoca arañas que protegen a su dueño durante 10 minutos, con 5 cargas y un tiempo de reutilización de 30 minutos. Un [clip del directo de Sodapoppin](https://www.twitch.tv/sodapoppin/clip/EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW) muestra el objeto en acción.
 
+<figure class="wf-embed" data-wf-twitch="clip:EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Clip de Twitch de Sodapoppin</span>
+      <span class="wf-embed__meta">Reproduce el clip. Sodapoppin en Twitch.</span>
+    </span>
+  </button>
+</figure>
+
 ## Lo que se prohíbe
 
 Se prohíben todos los objetos de mascota que no se pueden equipar, y otros cinco objetos:

@@ -198,7 +198,7 @@ Con puntos en Talented del sistema Legacy, llegas a cada talento hasta cinco niv
 | 10 | Bear Form, Growl, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6807"><img class="wf-wh__icon" src="/wh/ability_druid_maul.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Maul</a>, Teleport: Moonglade | Misión de clase |
 | 10 | Nature's Grasp, Demoralizing Roar | Instructor de clase |
 | 10 | Improved Wrath, Genesis, Ferocity, Heart of the Wild, Nature's Focus, Furor | Árbol de talentos |
-| 12 | Regrowth, Revive, Enrage | Instructor de clase |
+| 12 | Regrowth, Revive, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5229"><img class="wf-wh__icon" src="/wh/ability_druid_enrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> | Instructor de clase |
 | 14 | Cure Poison | Misión de clase |
 | 14 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5211"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bash</a> | Instructor de clase |
 | 15 | Moonglow, Nature's Majesty, Feral Swiftness, Naturalist | Árbol de talentos |

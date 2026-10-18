@@ -17,6 +17,16 @@ Das Forever Open verbietet <a class="wf-wh wf-q2" href="https://www.wowhead.com/
 
 Das Turnier läuft am 17. und 18. Oktober, für Horde-Charaktere der Stufe 30, mit [100.000 Dollar Preisgeld](/de/news/the-beta-dueling-tournament-now-pays-100000-dollars/). Spider Swarm beschwört Spinnen, die ihren Besitzer 10 Minuten lang schützen, mit 5 Aufladungen und einer Abklingzeit von 30 Minuten. Ein [Clip aus dem Stream von Sodapoppin](https://www.twitch.tv/sodapoppin/clip/EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW) zeigt das Item im Einsatz.
 
+<figure class="wf-embed" data-wf-twitch="clip:EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Twitch-Clip von Sodapoppin</span>
+      <span class="wf-embed__meta">Den Clip abspielen. Sodapoppin auf Twitch.</span>
+    </span>
+  </button>
+</figure>
+
 ## Was verboten ist
 
 Jedes Begleiter-Item, das sich nicht anlegen lässt, ist verboten, dazu fünf weitere Items:

@@ -54,6 +54,16 @@ Layers are now [tied to a zone](/news/grouping-slows-quests-so-players-level-alo
 
 The same happens between Tirisfal Glades and the Ruins of Lordaeron above the Undercity, as a [Twitch clip from JurdiJD](https://www.twitch.tv/jurdijd/clip/SmoothWittyFriseeDerp-iQ2kNoGTGfqeobqo) shows.
 
+<figure class="wf-embed" data-wf-twitch="clip:SmoothWittyFriseeDerp-iQ2kNoGTGfqeobqo">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Twitch clip from JurdiJD</span>
+      <span class="wf-embed__meta">Play the clip. JurdiJD on Twitch.</span>
+    </span>
+  </button>
+</figure>
+
 ## Incremental steps
 
 In [episode 4 of the developer podcast](/news/podcast-episode-4-cuts-honor-in-alterac-valley/), a guest asked about raid groups that suddenly land on another layer. "We're making incremental steps," said Lead Designer Tim Jones. Blizzard has made huge improvements so world PvP works at scale, according to Jones.

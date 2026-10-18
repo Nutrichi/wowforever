@@ -17,6 +17,16 @@ Le Forever Open interdit <a class="wf-wh wf-q2" href="https://www.wowhead.com/fo
 
 Le tournoi a lieu les 17 et 18 octobre, pour des personnages Horde de niveau 30, avec [100 000 dollars de prix](/fr/news/the-beta-dueling-tournament-now-pays-100000-dollars/). Spider Swarm invoque des araignées qui protègent leur propriétaire pendant 10 minutes, avec 5 charges et un temps de recharge de 30 minutes. Un [clip du stream de Sodapoppin](https://www.twitch.tv/sodapoppin/clip/EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW) montre l'objet en action.
 
+<figure class="wf-embed" data-wf-twitch="clip:EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Clip Twitch de Sodapoppin</span>
+      <span class="wf-embed__meta">Lancez le clip. Sodapoppin sur Twitch.</span>
+    </span>
+  </button>
+</figure>
+
 ## Ce qui est interdit
 
 Tout objet de familier qui ne s'équipe pas est interdit, ainsi que cinq autres objets :

@@ -41,12 +41,23 @@ function branchFor(path, frontmatter) {
   return null;
 }
 
+/*
+ * Namen die bij twee classes horen, voor pagina's van één class (18 oktober 2026). Enrage was
+ * overal de Druid-spell 5229, ook in de Fury-post en de Warrior-classgidsen. Op een pagina met
+ * "warrior" in de bestandsnaam wordt het het Fury-talent; elders linkt Enrage niet meer vanzelf
+ * (ook een baasability), behalve in de Classic-, TBC- en WotLK-classgidsen van de Druid.
+ */
+const CLASS_NAMES = {
+  warrior: { Enrage: { icon: 'spell_shadow_unholyfrenzy', id: 12317, q: -1, t: 's' } },
+};
+const classOf = (path) => Object.keys(CLASS_NAMES).find((c) => (path.split('/').pop() ?? '').includes(c)) ?? null;
+
 const cache = new Map();
 /* Een classgids krijgt er ook de losse abilities en talenten bij (Charge, Execute), uit "_class:<tak>". */
-function matcher(branch, withClass = false) {
-  const cacheKey = withClass ? `${branch}+class` : branch;
+function matcher(branch, withClass = false, cls = null) {
+  const cacheKey = `${branch}${withClass ? '+class' : ''}${cls ? `+${cls}` : ''}`;
   if (cache.has(cacheKey)) return cache.get(cacheKey);
-  const all = { ...(dict[branch] ?? {}), ...(withClass ? dict[`_class:${branch}`] ?? {} : {}) };
+  const all = { ...(dict[branch] ?? {}), ...(withClass ? dict[`_class:${branch}`] ?? {} : {}), ...(cls ? CLASS_NAMES[cls] : {}) };
   const names = Object.keys(all).sort((a, b) => b.length - a.length);
   const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/'/g, "['’]");
   const re = names.length ? new RegExp(`(?<![\\p{L}\\p{N}'’-])(${names.map(esc).join('|')})(?![\\p{L}\\p{N}'’-])`, 'gu') : null;
@@ -112,7 +123,7 @@ export default function whAutolink(fctx) {
   if (!branch || !dict[branch]) return { name: 'wh-autolink', element: upgrade };
   // Posts over classes en talenten krijgen ook de losse talenten (Mutilate, Riptide), 8 oktober 2026.
   const aboutClasses = path.includes('/src/content/news/') && (frontmatter?.tags ?? []).some((t) => t === 'classes' || t === 'talents');
-  const { re, byKey } = matcher(branch, path.includes('/src/content/classes/') || aboutClasses);
+  const { re, byKey } = matcher(branch, path.includes('/src/content/classes/') || aboutClasses, classOf(path));
   if (!re) return { name: 'wh-autolink', element: upgrade };
   const seen = new Set();
   // In een classgids is een naam die zowel item als spell is bijna altijd de ability of het talent.

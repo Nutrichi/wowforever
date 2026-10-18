@@ -17,6 +17,16 @@ De Forever Open verbiedt <a class="wf-wh wf-q2" href="https://www.wowhead.com/fo
 
 Het toernooi loopt op 17 en 18 oktober, voor Horde-personages van level 30, met [100.000 dollar aan prijzen](/nl/news/the-beta-dueling-tournament-now-pays-100000-dollars/). Spider Swarm roept spinnen op die hun eigenaar 10 minuten beschermen, met 5 ladingen en een cooldown van 30 minuten. Een [clip uit de stream van Sodapoppin](https://www.twitch.tv/sodapoppin/clip/EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW) toont het item aan het werk.
 
+<figure class="wf-embed" data-wf-twitch="clip:EnchantingAverageCurryDAESuppy-V1rOzmJJI1Z_yrLW">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Twitch-clip van Sodapoppin</span>
+      <span class="wf-embed__meta">Speel de clip af. Sodapoppin op Twitch.</span>
+    </span>
+  </button>
+</figure>
+
 ## Wat verboden is
 
 Elk pet-item dat je niet kunt dragen, is verboden, en daarnaast nog vijf andere items:

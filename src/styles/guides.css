@@ -681,3 +681,41 @@
   .wf-gprose .wf-embed__icon { width: 44px; height: 44px; }
   .wf-gprose .wf-embed__title { font-size: 16px; }
 }
+
+/*
+ * Beelden in een gids groot bekijken (18 oktober 2026, scripts/guide-lightbox.ts). Zelfde
+ * venster als bij het kopbeeld van een post (PostImage.astro).
+ */
+.wf-gprose img.is-zoomable { cursor: zoom-in; transition: var(--wf-transition); }
+.wf-gprose img.is-zoomable:hover,
+.wf-gprose img.is-zoomable:focus-visible { border-color: var(--wf-arcane); }
+
+.wf-lightbox {
+  width: 100vw;
+  max-width: 100vw;
+  height: 100dvh;
+  max-height: 100dvh;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  overflow: hidden;
+}
+.wf-lightbox::backdrop { background: rgba(5, 4, 12, .92); }
+.wf-lightbox__img { width: 100%; height: 100%; object-fit: contain; cursor: zoom-out; }
+.wf-lightbox__close {
+  position: fixed;
+  top: 14px;
+  right: 14px;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  background: var(--wf-raised);
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-field);
+  color: var(--wf-ink);
+  transition: var(--wf-transition);
+}
+.wf-lightbox__close:hover { border-color: var(--wf-arcane); }

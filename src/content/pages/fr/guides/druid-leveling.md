@@ -198,7 +198,7 @@ Avec des points dans Talented du système Legacy, vous atteignez chaque talent j
 | 10 | Bear Form, Growl, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6807"><img class="wf-wh__icon" src="/wh/ability_druid_maul.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Maul</a>, Teleport: Moonglade | Quête de classe |
 | 10 | Nature's Grasp, Demoralizing Roar | Maître de classe |
 | 10 | Improved Wrath, Genesis, Ferocity, Heart of the Wild, Nature's Focus, Furor | Arbre de talents |
-| 12 | Regrowth, Revive, Enrage | Maître de classe |
+| 12 | Regrowth, Revive, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5229"><img class="wf-wh__icon" src="/wh/ability_druid_enrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> | Maître de classe |
 | 14 | Cure Poison | Quête de classe |
 | 14 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5211"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bash</a> | Maître de classe |
 | 15 | Moonglow, Nature's Majesty, Feral Swiftness, Naturalist | Arbre de talents |
