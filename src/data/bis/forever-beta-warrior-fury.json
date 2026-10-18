@@ -1,0 +1,600 @@
+{
+ "expansion": "forever",
+ "phase": "beta",
+ "class": "warrior",
+ "spec": "fury",
+ "role": "Melee DPS",
+ "notes": "Best gear for the level 30 beta, three options per slot, the best first. Some quest rewards differ for the Alliance and the Horde: switch between them above the table. The beta still changes items, so this list follows each new build.",
+ "updated": "2026-10-18",
+ "enchants": [
+  {
+   "slot": "Neck",
+   "name": "Enchant Necklace - Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Lesser Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Forceful Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Forceful Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Forceful Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Two-Hand",
+   "name": "Enchant 2H Weapon - Lesser Strength",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Tusken Helm",
+     "source": "Overlord Ramtusk in Razorfen Kraul"
+    },
+    {
+     "name": "Defender's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Veteran's Chain Helm",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Ghostshard Talisman",
+     "source": "Azshir the Sleepless in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Thermaplugg Medal of Honor",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Wrangling Spaulders",
+     "source": "Reward from the quest Kodo Roundup"
+    },
+    {
+     "name": "Forest Tracker Epaulets",
+     "source": "World drop"
+    },
+    {
+     "name": "Sanguine Pauldrons",
+     "source": "Reward from the quest The Karnitol Shipwreck"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of Shifting Energy",
+     "source": "Arcanic Enigma in City of Dalaran"
+    },
+    {
+     "name": "Golem War Cloak",
+     "source": "Reward from the quest Gleaning Our Future"
+    },
+    {
+     "name": "Yeti Fur Cloak",
+     "source": "Reward from the quest Bartolo's Yeti Fur Cloak"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Avenger's Armor",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Shining Silver Breastplate",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Mana-Warped Chain Shirt",
+     "source": "Arcane Anomaly in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Arathi Armbands",
+     "source": "Reward from the quest Wanted! Otto and Falconcrest"
+    },
+    {
+     "name": "Pugilist Bracers",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Bands of Serra'kis",
+     "source": "Old Serra'kis in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gauntlets of Ogre Strength",
+     "source": "Dropped by Boulderfist Ogre"
+    },
+    {
+     "name": "Stormfire Gauntlets",
+     "source": "Reward from the quest Reagents for Reclaimers Inc."
+    },
+    {
+     "name": "Fists of Impending Doom",
+     "source": "Reward from the quest Solution to Doom"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Officer's Belt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Girdle of Golem Strength",
+     "source": "World drop"
+    },
+    {
+     "name": "Prowler's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Veteran's Silvered Chain Leggings",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Ferine Leggings",
+     "source": "Agathelos the Raging in Razorfen Kraul"
+    },
+    {
+     "name": "Doomcaller's Pants",
+     "source": "Reward from the quest Solution to Doom"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Trouncing Boots",
+     "source": "Dropped by Commander Felstrom"
+    },
+    {
+     "name": "Manascale Treads",
+     "source": "Mana Devourer in City of Dalaran"
+    },
+    {
+     "name": "Half-Eaten Boots",
+     "source": "Fenrus the Devourer in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Swamp Ring",
+     "source": "Reward from the quest Jarl Needs a Blade"
+    },
+    {
+     "name": "Thunderbrow Ring",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Swamp Ring",
+     "source": "Reward from the quest Jarl Needs a Blade"
+    },
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Thunderbrow Ring",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Cursed Murloc Eye",
+     "source": "Gelihast in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    },
+    {
+     "name": "Cursed Murloc Eye",
+     "source": "Gelihast in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Whirlwind Axe",
+     "source": "Reward from the quest Whirlwind Weapon"
+    },
+    {
+     "name": "Whirlwind Warhammer",
+     "source": "Reward from the quest Whirlwind Weapon"
+    },
+    {
+     "name": "Whirlwind Sword",
+     "source": "Reward from the quest Whirlwind Weapon"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Glass Shooter",
+     "source": "Dark Iron Ambassador in Gnomeregan"
+    },
+    {
+     "name": "Master Hunter's Rifle",
+     "source": "Reward from the quest Big Game Hunter"
+    },
+    {
+     "name": "Gravespike Repeater",
+     "source": "Atrexis the Grave Knight in City of Dalaran"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Tusken Helm",
+     "source": "Overlord Ramtusk in Razorfen Kraul"
+    },
+    {
+     "name": "Defender's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Veteran's Chain Helm",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Ghostshard Talisman",
+     "source": "Azshir the Sleepless in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Thermaplugg Medal of Honor",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Wrangling Spaulders",
+     "source": "Reward from the quest Kodo Roundup"
+    },
+    {
+     "name": "Forest Tracker Epaulets",
+     "source": "World drop"
+    },
+    {
+     "name": "Brigand's Pauldrons",
+     "source": "Reward from the quest Taretha's Gift"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of Shifting Energy",
+     "source": "Arcanic Enigma in City of Dalaran"
+    },
+    {
+     "name": "Furs of the Earthen Ring",
+     "source": "Reward from the quest Earthen Echo"
+    },
+    {
+     "name": "Construct Cloak",
+     "source": "Reward from the quest Source of Power"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Avenger's Armor",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Shining Silver Breastplate",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Mana-Warped Chain Shirt",
+     "source": "Arcane Anomaly in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Pugilist Bracers",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Yorgen Bracers",
+     "source": "World drop"
+    },
+    {
+     "name": "Bands of Serra'kis",
+     "source": "Old Serra'kis in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gauntlets of Ogre Strength",
+     "source": "Dropped by Boulderfist Ogre"
+    },
+    {
+     "name": "Warsong Gauntlets",
+     "source": "Reward from the quest Warsong Supplies"
+    },
+    {
+     "name": "Fists of Impending Doom",
+     "source": "Reward from the quest Solution to Doom"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Officer's Belt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Girdle of Golem Strength",
+     "source": "World drop"
+    },
+    {
+     "name": "Prowler's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Veteran's Silvered Chain Leggings",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Ferine Leggings",
+     "source": "Agathelos the Raging in Razorfen Kraul"
+    },
+    {
+     "name": "Doomcaller's Pants",
+     "source": "Reward from the quest Solution to Doom"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Trouncing Boots",
+     "source": "Dropped by Commander Felstrom"
+    },
+    {
+     "name": "Darkspear Boots",
+     "source": "Reward from the quest Split Bone Necklace"
+    },
+    {
+     "name": "Manascale Treads",
+     "source": "Mana Devourer in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Allegiance",
+     "source": "Reward from the quest Service to the Horde"
+    },
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Thunderbrow Ring",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Band of Allegiance",
+     "source": "Reward from the quest Service to the Horde"
+    },
+    {
+     "name": "Thunderbrow Ring",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Transformative Cocoon",
+     "source": "Reward from the quest The Broodmother"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    },
+    {
+     "name": "Transformative Cocoon",
+     "source": "Reward from the quest The Broodmother"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Whirlwind Axe",
+     "source": "Reward from the quest Whirlwind Weapon"
+    },
+    {
+     "name": "Whirlwind Warhammer",
+     "source": "Reward from the quest Whirlwind Weapon"
+    },
+    {
+     "name": "Whirlwind Sword",
+     "source": "Reward from the quest Whirlwind Weapon"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Glass Shooter",
+     "source": "Dark Iron Ambassador in Gnomeregan"
+    },
+    {
+     "name": "Master Hunter's Rifle",
+     "source": "Reward from the quest Big Game Hunter"
+    },
+    {
+     "name": "Gravespike Repeater",
+     "source": "Atrexis the Grave Knight in City of Dalaran"
+    }
+   ]
+  }
+ ]
+}

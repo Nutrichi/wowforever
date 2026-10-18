@@ -20,6 +20,7 @@ export type HubLabels = {
   cardClasses: string;
   cardTradeskills: string;
   cardReputations: string;
+  cardForever: string;
   part: string;
   bandTitle: string;
   bandIntro: string;
@@ -27,6 +28,7 @@ export type HubLabels = {
   bandLegendGuide: string;
   bandLegendSoon: string;
   bandLegendNew: string;
+  categories: string;
   c_dungeons: string;
   c_leveling: string;
   c_classes: string;
@@ -50,6 +52,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "cardClasses": "Classes",
     "cardTradeskills": "Tradeskills",
     "cardReputations": "Reputations",
+    "cardForever": "All about WoW Forever",
     "part": "Part {n}",
     "bandTitle": "Every dungeon by level",
     "bandIntro": "All {n} dungeons of WoW Forever from level 9 to 60. A gold bar has its own guide; a grey one is coming.",
@@ -57,6 +60,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "bandLegendGuide": "Guide",
     "bandLegendSoon": "No guide yet",
     "bandLegendNew": "New in Forever",
+    "categories": "Categories",
     "c_dungeons": "Dungeons",
     "c_leveling": "Leveling",
     "c_classes": "Classes and races",
@@ -78,6 +82,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "cardClasses": "Classes",
     "cardTradeskills": "Tradeskills",
     "cardReputations": "Reputaties",
+    "cardForever": "Alles over WoW Forever",
     "part": "Deel {n}",
     "bandTitle": "Elke dungeon per level",
     "bandIntro": "Alle {n} dungeons van WoW Forever van level 9 tot 60. Een gouden balk heeft een eigen gids; een grijze komt nog.",
@@ -85,6 +90,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "bandLegendGuide": "Gids",
     "bandLegendSoon": "Nog geen gids",
     "bandLegendNew": "Nieuw in Forever",
+    "categories": "Categorieën",
     "c_dungeons": "Dungeons",
     "c_leveling": "Levelen",
     "c_classes": "Classes en races",
@@ -106,6 +112,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "cardClasses": "Classes",
     "cardTradeskills": "Métiers",
     "cardReputations": "Réputations",
+    "cardForever": "Tout sur WoW Forever",
     "part": "Partie {n}",
     "bandTitle": "Chaque donjon par niveau",
     "bandIntro": "Les {n} donjons de WoW Forever du niveau 9 au niveau 60. Une barre dorée a son propre guide ; une barre grise arrive.",
@@ -113,6 +120,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "bandLegendGuide": "Guide",
     "bandLegendSoon": "Pas encore de guide",
     "bandLegendNew": "Nouveau dans Forever",
+    "categories": "Catégories",
     "c_dungeons": "Donjons",
     "c_leveling": "Leveling",
     "c_classes": "Classes et races",
@@ -134,6 +142,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "cardClasses": "Clases",
     "cardTradeskills": "Profesiones",
     "cardReputations": "Reputaciones",
+    "cardForever": "Todo sobre WoW Forever",
     "part": "Parte {n}",
     "bandTitle": "Cada mazmorra por nivel",
     "bandIntro": "Las {n} mazmorras de WoW Forever del nivel 9 al 60. Una barra dorada tiene su propia guía; una gris llegará.",
@@ -141,6 +150,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "bandLegendGuide": "Guía",
     "bandLegendSoon": "Sin guía aún",
     "bandLegendNew": "Nueva en Forever",
+    "categories": "Categorías",
     "c_dungeons": "Mazmorras",
     "c_leveling": "Subir de nivel",
     "c_classes": "Clases y razas",
@@ -162,6 +172,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "cardClasses": "Classi",
     "cardTradeskills": "Professioni",
     "cardReputations": "Reputazioni",
+    "cardForever": "Tutto su WoW Forever",
     "part": "Parte {n}",
     "bandTitle": "Ogni dungeon per livello",
     "bandIntro": "Tutti i {n} dungeon di WoW Forever dal livello 9 al 60. Una barra dorata ha la sua guida; una grigia arriverà.",
@@ -169,6 +180,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "bandLegendGuide": "Guida",
     "bandLegendSoon": "Ancora senza guida",
     "bandLegendNew": "Nuovo in Forever",
+    "categories": "Categorie",
     "c_dungeons": "Dungeon",
     "c_leveling": "Livellamento",
     "c_classes": "Classi e razze",
@@ -190,6 +202,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "cardClasses": "Klassen",
     "cardTradeskills": "Berufe",
     "cardReputations": "Ruf",
+    "cardForever": "Alles über WoW Forever",
     "part": "Teil {n}",
     "bandTitle": "Jeder Dungeon nach Level",
     "bandIntro": "Alle {n} Dungeons von WoW Forever von Level 9 bis 60. Ein goldener Balken hat einen eigenen Guide; ein grauer folgt noch.",
@@ -197,6 +210,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
     "bandLegendGuide": "Guide",
     "bandLegendSoon": "Noch kein Guide",
     "bandLegendNew": "Neu in Forever",
+    "categories": "Kategorien",
     "c_dungeons": "Dungeons",
     "c_leveling": "Leveln",
     "c_classes": "Klassen und Völker",
@@ -250,7 +264,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "routes": "Leveling routes for every expansion of WoW Classic, with comparisons of the leveling addons",
     "classes": "A leveling guide per class and spec for every era, and the racials of WoW Forever",
     "tradeskills": "A guide per profession for every era, the tradeskill perks of WoW Forever and Forever guides for Cooking, First Aid and Fishing",
-    "reputations": "A guide per faction of WoW Forever"
+    "reputations": "A guide per faction of WoW Forever",
+    "forever": "The dates and the roadmap, the zones, dungeons and raids, the Skyborne and the editions"
   },
   "nl": {
     "dungeons/ragefire-chasm": "De weg naar binnen via Orgrimmar, alle zes de quests van de Horde met hun beloningen en de nieuwe loot van Taragaman en Jergosh",
@@ -293,7 +308,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "routes": "Levelroutes voor elke uitbreiding van WoW Classic, met vergelijkingen van de leveladdons",
     "classes": "Een levelgids per class en spec voor elke era, en de racials van WoW Forever",
     "tradeskills": "Een gids per beroep voor elke era, de tradeskill-perks van WoW Forever en Forever-gidsen voor Cooking, First Aid en Fishing",
-    "reputations": "Een gids per factie van WoW Forever"
+    "reputations": "Een gids per factie van WoW Forever",
+    "forever": "De datums en de roadmap, de zones, dungeons en raids, de Skyborne en de edities"
   },
   "fr": {
     "dungeons/ragefire-chasm": "L’entrée par Orgrimmar, les six quêtes de la Horde avec leurs récompenses et le nouveau butin de Taragaman et Jergosh",
@@ -336,7 +352,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "routes": "Des routes de leveling pour chaque extension de WoW Classic, avec des comparaisons des addons de leveling",
     "classes": "Un guide de leveling par classe et spécialisation pour chaque époque, et les traits raciaux de WoW Forever",
     "tradeskills": "Un guide par métier pour chaque époque, les avantages de métier de WoW Forever et des guides Forever pour Cooking, First Aid et Fishing",
-    "reputations": "Un guide par faction de WoW Forever"
+    "reputations": "Un guide par faction de WoW Forever",
+    "forever": "Les dates et la feuille de route, les zones, donjons et raids, les Skyborne et les éditions"
   },
   "es": {
     "dungeons/ragefire-chasm": "La entrada por Orgrimmar, las seis misiones de la Horde con sus recompensas y el botín nuevo de Taragaman y Jergosh",
@@ -379,7 +396,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "routes": "Rutas de subida para cada expansión de WoW Classic, con comparativas de los addons de subida",
     "classes": "Una guía de subida por clase y especialización para cada era, y los rasgos raciales de WoW Forever",
     "tradeskills": "Una guía por profesión para cada era, las ventajas de profesión de WoW Forever y guías de Forever para Cooking, First Aid y Fishing",
-    "reputations": "Una guía por facción de WoW Forever"
+    "reputations": "Una guía por facción de WoW Forever",
+    "forever": "Las fechas y la hoja de ruta, las zonas, mazmorras y bandas, los Skyborne y las ediciones"
   },
   "it": {
     "dungeons/ragefire-chasm": "L’ingresso da Orgrimmar, le sei missioni della Horde con le loro ricompense e il nuovo bottino di Taragaman e Jergosh",
@@ -422,7 +440,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "routes": "Percorsi di livellamento per ogni espansione di WoW Classic, con confronti tra gli addon di livellamento",
     "classes": "Una guida di livellamento per classe e specializzazione per ogni era, e i tratti razziali di WoW Forever",
     "tradeskills": "Una guida per professione per ogni era, i vantaggi delle professioni di WoW Forever e guide Forever per Cooking, First Aid e Fishing",
-    "reputations": "Una guida per fazione di WoW Forever"
+    "reputations": "Una guida per fazione di WoW Forever",
+    "forever": "Le date e la roadmap, le zone, le spedizioni e le incursioni, gli Skyborne e le edizioni"
   },
   "de": {
     "dungeons/ragefire-chasm": "Der Weg hinein über Orgrimmar, alle sechs Quests der Horde mit ihren Belohnungen und die neue Beute von Taragaman und Jergosh",
@@ -465,7 +484,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "routes": "Levelrouten für jede Erweiterung von WoW Classic, mit Vergleichen der Leveladdons",
     "classes": "Ein Levelguide pro Klasse und Spezialisierung für jede Ära, und die Volksfähigkeiten von WoW Forever",
     "tradeskills": "Ein Guide pro Beruf für jede Ära, die Berufsvorteile von WoW Forever und Forever-Guides für Cooking, First Aid und Fishing",
-    "reputations": "Ein Guide pro Fraktion von WoW Forever"
+    "reputations": "Ein Guide pro Fraktion von WoW Forever",
+    "forever": "Die Termine und die Roadmap, die Zonen, Dungeons und Raids, die Skyborne und die Editionen"
   }
 };
 

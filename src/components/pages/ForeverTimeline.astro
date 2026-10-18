@@ -1,0 +1,412 @@
+---
+/*
+ * De tijdlijn bovenaan /forever/ (Nutri, 19 oktober 2026: "I do like this
+ * timeline instead of the blocks with text"). Eén lijn van de beta tot de zomer
+ * van 2027, met wat voorbij is in goud en een merkteken voor vandaag.
+ *
+ * Alle datums komen van Blizzard en staan ook in de tabel "Dates" van de
+ * pagina; verandert er een, dan verandert hij op beide plaatsen. Seizoenen
+ * zonder dag krijgen in `at` een dag midden in dat seizoen, alleen om het
+ * merkteken van vandaag tussen de juiste twee punten te zetten.
+ *
+ * De site is statisch, dus wat voorbij is en waar vandaag staat, rekent het
+ * script in de browser uit. Zonder JavaScript blijft de stand van de build.
+ * Op een telefoon staat de lijn rechtop.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localeTags } from '../../i18n/ui';
+import { launchDate } from '../../config/site';
+import { timelineT, type TimelineKey } from '../../i18n/forever-timeline';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = timelineT(locale);
+
+type Event = { at: string; what: TimelineKey; season?: TimelineKey; big?: boolean };
+
+const events: Event[] = [
+  { at: '2026-09-17', what: 'betaStarts' },
+  { at: '2026-10-01', what: 'levelCap' },
+  { at: '2026-10-21', what: 'betaEnds' },
+  { at: '2026-10-27', what: 'names' },
+  { at: '2026-11-04', what: 'launch', big: true },
+  { at: '2026-12-09', what: 'raids', big: true },
+  { at: '2027-01-15', what: 'hardcore', season: 'winter' },
+  { at: '2027-04-15', what: 'update', season: 'spring' },
+  { at: '2027-07-15', what: 'update', season: 'summer' },
+];
+
+const tag = localeTags[locale];
+const dayMonth = new Intl.DateTimeFormat(tag, { day: 'numeric', month: 'short', timeZone: 'UTC' });
+const when = (event: Event) => (event.season ? t(event.season) : dayMonth.format(new Date(`${event.at}T00:00:00Z`)).replace('.', ''));
+
+/* De stand op het moment van de build; het script werkt hem bij. */
+const now = Date.now();
+const done = (event: Event) => new Date(`${event.at}T00:00:00Z`).getTime() <= now;
+const next = events.findIndex((event) => !done(event));
+---
+
+<section
+  class="wf-tl"
+  aria-labelledby="wf-tl-title"
+  data-wf-tl
+  data-launch={launchDate}
+  data-tag={tag}
+  data-today={t('today')}
+  data-launch-in={t('launchIn')}
+  data-launch-one={t('launchInOne')}
+  data-launch-today={t('launchToday')}
+  style={`--n: ${events.length};`}
+>
+  <header class="wf-tl__head">
+    <h2 class="wf-tl__title" id="wf-tl-title">{t('title')}</h2>
+    <p class="wf-tl__count" data-wf-tl-count hidden></p>
+  </header>
+
+  <div class="wf-tl__track" data-wf-tl-track>
+    <span class="wf-tl__rail" aria-hidden="true"><span class="wf-tl__fill"></span></span>
+    <span class="wf-tl__today" data-wf-tl-today hidden aria-hidden="true">
+      <span class="wf-tl__todaytag" data-wf-tl-todaytag></span>
+    </span>
+
+    <ol class="wf-tl__list" aria-label={t('label')}>
+      {events.map((event, index) => (
+        <li
+          class:list={['wf-tl__event', { 'is-done': done(event), 'is-next': index === next, 'is-big': event.big }]}
+          data-at={event.at}
+          data-side={index % 2 === 0 ? 'above' : 'below'}
+        >
+          <span class="wf-tl__dot" aria-hidden="true"></span>
+          <span class="wf-tl__text">
+            <span class="wf-tl__when">{when(event)}</span>
+            <span class="wf-tl__what">{t(event.what)}</span>
+          </span>
+        </li>
+      ))}
+    </ol>
+  </div>
+</section>
+
+<style>
+  .wf-tl {
+    --wf-tl-pad: calc(100% / var(--n) / 2);
+    --wf-tl-pos: 0;
+    margin: 4px 0 30px;
+    padding: 16px 20px 6px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card);
+    /* Dekkend, zodat de labels dezelfde grond kunnen dragen en de lijn van vandaag erachter verdwijnt. */
+    --wf-tl-ground: linear-gradient(var(--wf-raised-soft), var(--wf-raised-soft)), var(--wf-bg);
+    background: var(--wf-tl-ground);
+  }
+
+  .wf-tl__head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 6px 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--wf-border);
+  }
+
+  .wf-tl__title {
+    margin: 0;
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+  }
+
+  .wf-tl__count {
+    margin: 0;
+    font-family: var(--wf-serif);
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--wf-accent-bright);
+  }
+
+  /* Liggend: de lijn in het midden, de teksten om en om erboven en eronder. */
+  .wf-tl__track {
+    position: relative;
+    height: 196px;
+    margin: 0 18px;
+  }
+
+  .wf-tl__rail {
+    position: absolute;
+    top: 104px;
+    left: var(--wf-tl-pad);
+    right: var(--wf-tl-pad);
+    height: 6px;
+    margin-top: -3px;
+    border-radius: 999px;
+    background: var(--wf-border);
+  }
+
+  .wf-tl__fill {
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: calc(var(--wf-tl-pos) * 100%);
+    border-radius: inherit;
+    background: linear-gradient(90deg, var(--wf-accent-deep), var(--wf-accent));
+  }
+
+  .wf-tl__list {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    grid-template-columns: repeat(var(--n), minmax(0, 1fr));
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .wf-tl__event { position: relative; }
+
+  .wf-tl__dot {
+    position: absolute;
+    top: 104px;
+    left: 50%;
+    width: 14px;
+    height: 14px;
+    margin: -7px 0 0 -7px;
+    border: 2px solid var(--wf-muted-dim, var(--wf-label));
+    border-radius: 999px;
+    background: var(--wf-bg);
+  }
+
+  .is-big .wf-tl__dot {
+    width: 20px;
+    height: 20px;
+    margin: -10px 0 0 -10px;
+  }
+
+  .is-done .wf-tl__dot {
+    border-color: var(--wf-accent);
+    background: var(--wf-accent);
+  }
+
+  .is-next .wf-tl__dot {
+    border-color: var(--wf-accent-bright);
+    box-shadow: 0 0 0 5px var(--wf-accent-wash);
+  }
+
+  .wf-tl__text {
+    position: absolute;
+    z-index: 2;
+    left: 50%;
+    width: max-content;
+    max-width: 168%;
+    padding: 1px 6px;
+    background: var(--wf-tl-ground);
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    text-align: center;
+  }
+
+  [data-side='above'] .wf-tl__text { bottom: calc(196px - 104px + 18px); }
+  [data-side='below'] .wf-tl__text { top: calc(104px + 18px); }
+
+  .wf-tl__when {
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 11.5px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--wf-label);
+  }
+
+  .wf-tl__what {
+    font-family: var(--wf-serif);
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.2;
+    color: var(--wf-muted);
+  }
+
+  .is-done .wf-tl__when { color: var(--wf-accent); }
+  .is-done .wf-tl__what { color: var(--wf-body); }
+  .is-next .wf-tl__when,
+  .is-big .wf-tl__when { color: var(--wf-accent-bright); }
+  .is-next .wf-tl__what,
+  .is-big .wf-tl__what { color: var(--wf-ink); }
+
+  /* Vandaag: een label bovenaan met een dunne lijn naar het punt op de lijn. */
+  .wf-tl__today {
+    position: absolute;
+    top: 0;
+    left: calc(var(--wf-tl-pad) + var(--wf-tl-pos) * (100% - 2 * var(--wf-tl-pad)));
+    height: 104px;
+    width: 0;
+    border-left: 1px solid var(--wf-live);
+    z-index: 1;
+  }
+
+  .wf-tl__today::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: -5px;
+    width: 9px;
+    height: 9px;
+    border-radius: 999px;
+    background: var(--wf-live);
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--wf-live) 30%, transparent);
+  }
+
+  .wf-tl__todaytag {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(-50%);
+    padding: 2px 8px;
+    border: 1px solid var(--wf-live);
+    border-radius: var(--wf-r-badge, 4px);
+    background: var(--wf-bg);
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
+    color: var(--wf-live-ink);
+  }
+
+  .wf-tl__today[hidden] { display: none; }
+
+  /* Rechtop op een smal scherm: de lijn links, elk punt een rij. */
+  @media (max-width: 719px) {
+    .wf-tl { padding: 14px 16px 10px; }
+
+    .wf-tl__track {
+      --row: 48px;
+      height: calc(var(--n) * var(--row));
+      margin: 8px 0 0;
+    }
+
+    .wf-tl__rail {
+      top: calc(var(--row) / 2);
+      bottom: calc(var(--row) / 2);
+      left: 10px;
+      right: auto;
+      width: 6px;
+      height: auto;
+      margin: 0 0 0 -3px;
+    }
+
+    .wf-tl__fill {
+      inset: 0 0 auto 0;
+      width: auto;
+      height: calc(var(--wf-tl-pos) * 100%);
+      background: linear-gradient(180deg, var(--wf-accent-deep), var(--wf-accent));
+    }
+
+    .wf-tl__list {
+      grid-template-columns: minmax(0, 1fr);
+      grid-auto-rows: var(--row);
+    }
+
+    .wf-tl__dot { top: 50%; left: 10px; }
+
+    .wf-tl__text,
+    [data-side] .wf-tl__text {
+      top: 50%;
+      bottom: auto;
+      left: 28px;
+      right: 0;
+      width: auto;
+      max-width: none;
+      background: none;
+      transform: translateY(-50%);
+      flex-direction: row;
+      align-items: baseline;
+      gap: 10px;
+      text-align: left;
+    }
+
+    .wf-tl__when { flex: none; min-width: 92px; }
+
+    .wf-tl__today {
+      top: calc(var(--row) / 2 + var(--wf-tl-pos) * (100% - var(--row)));
+      left: 10px;
+      height: 0;
+      width: auto;
+      right: 0;
+      border-left: 0;
+      border-top: 1px dashed var(--wf-live);
+    }
+
+    .wf-tl__today::after { bottom: auto; top: -5px; left: -5px; }
+
+    .wf-tl__todaytag {
+      top: auto;
+      bottom: 2px;
+      left: auto;
+      right: 0;
+      transform: none;
+      font-size: 11px;
+      padding: 1px 6px;
+    }
+  }
+</style>
+
+<script>
+  const root = document.querySelector<HTMLElement>('[data-wf-tl]');
+
+  if (root) {
+    const day = 24 * 60 * 60 * 1000;
+    const items = Array.from(root.querySelectorAll<HTMLElement>('.wf-tl__event'));
+    const times = items.map((item) => new Date(`${item.dataset.at}T00:00:00Z`).getTime());
+    const today = root.querySelector<HTMLElement>('[data-wf-tl-today]');
+    const tag = root.querySelector<HTMLElement>('[data-wf-tl-todaytag]');
+    const count = root.querySelector<HTMLElement>('[data-wf-tl-count]');
+
+    const update = () => {
+      const now = Date.now();
+      const next = times.findIndex((time) => time > now);
+      items.forEach((item, index) => {
+        item.classList.toggle('is-done', times[index] <= now);
+        item.classList.toggle('is-next', index === next);
+      });
+
+      /* Waar vandaag staat: tussen de twee punten eromheen, naar verhouding. */
+      let pos = 1;
+      if (next === 0) pos = 0;
+      else if (next > 0) {
+        const from = times[next - 1];
+        pos = (next - 1 + (now - from) / (times[next] - from)) / (times.length - 1);
+      }
+      root.style.setProperty('--wf-tl-pos', String(pos));
+
+      if (today && tag && next > 0) {
+        const date = new Intl.DateTimeFormat(root.dataset.tag, { day: 'numeric', month: 'short', timeZone: 'Europe/Brussels' })
+          .format(new Date(now)).replace('.', '');
+        tag.textContent = `${root.dataset.today} ${date}`;
+        today.hidden = false;
+      } else if (today) {
+        today.hidden = true;
+      }
+
+      /* Tot de launch: dagen, zoals de aftelchip in de balk. Daarna niets. */
+      const left = new Date(root.dataset.launch ?? '').getTime() - now;
+      if (count) {
+        const days = Math.floor(left / day);
+        if (left <= 0) count.hidden = true;
+        else {
+          count.textContent = days === 0
+            ? root.dataset.launchToday ?? ''
+            : days === 1 ? root.dataset.launchOne ?? '' : (root.dataset.launchIn ?? '').replace('{n}', String(days));
+          count.hidden = false;
+        }
+      }
+    };
+
+    update();
+  }
+</script>

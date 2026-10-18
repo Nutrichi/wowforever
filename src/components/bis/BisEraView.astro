@@ -15,7 +15,10 @@
  * een gewone link naar een echte pagina. Zo zijn de 174 fasepagina's te
  * vinden door te klikken en niet alleen via de sitemap (PROJECT_SPEC.md §11).
  *
- * Forever heeft nog geen lijsten en toont de lege staat.
+ * Forever toont sinds 18 oktober 2026 de lijsten van de beta (level 30). De
+ * roadmap en wat er per fase opengaat staan sinds 19 oktober 2026 niet meer
+ * hier maar op /forever/ (Nutri: "Just make 1 general forever information page
+ * in the guide section").
  */
 import type { Locale } from '../../i18n/ui';
 import { eras, type EraKey } from '../../config/eras';
@@ -25,7 +28,6 @@ import { bisPath, bisPhasePath, lastUpdated, listsForEra, phasesWithLists } from
 import { bisT, phaseLabel, roleLabel } from '../../i18n/bis';
 import { longDate } from '../../lib/date';
 import BisSpecPill from './BisSpecPill.astro';
-import BisPending from './BisPending.astro';
 
 interface Props {
   locale: Locale;
@@ -48,7 +50,6 @@ const roles = ['all', 'tank', 'healer', 'dps'] as const;
 <header class="wf-bishead">
   <div class="wf-bishead__main">
     <h1 class="wf-bishead__title">{t('hubTitle', { era: info.name })}</h1>
-    <p class="wf-bishead__viewing">{t('viewing', { era: info.name })}</p>
   </div>
   {live && (
     <span class="wf-bishead__live"><span class="wf-bishead__dot" aria-hidden="true"></span>{t('live', { phase: phaseLabel(live, locale) })}</span>
@@ -57,8 +58,6 @@ const roles = ['all', 'tank', 'healer', 'dps'] as const;
     <p class="wf-bishead__count">{t('count', { n: lists.length, date: longDate(updated, locale) })}</p>
   )}
 </header>
-
-{!ready && era === 'forever' && <BisPending locale={locale} />}
 
 {ready && isBisEra(era) && (
   <div class="wf-bis" data-wf-bis data-era={era} data-default-phase={defaultPhase}>
@@ -115,12 +114,6 @@ const roles = ['all', 'tank', 'healer', 'dps'] as const;
     font-size: 32px;
     line-height: 1.15;
     text-shadow: var(--wf-glow-h1);
-  }
-
-  .wf-bishead__viewing {
-    margin-top: 4px;
-    font-size: 13.5px;
-    color: var(--wf-muted);
   }
 
   .wf-bishead__live {

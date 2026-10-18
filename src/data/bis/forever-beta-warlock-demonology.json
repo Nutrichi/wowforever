@@ -1,0 +1,606 @@
+{
+ "expansion": "forever",
+ "phase": "beta",
+ "class": "warlock",
+ "spec": "demonology",
+ "role": "Ranged DPS",
+ "notes": "Best gear for the level 30 beta, three options per slot, the best first. Some quest rewards differ for the Alliance and the Horde: switch between them above the table. The beta still changes items, so this list follows each new build.",
+ "updated": "2026-10-18",
+ "enchants": [
+  {
+   "slot": "Neck",
+   "name": "Enchant Necklace - Spell Power",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Defense",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Lesser Healing Power",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Legs",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Main-Hand",
+   "name": "Enchant Weapon - Revelation",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Filigreed Shadow Circlet",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Silk Headband",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Shadow Hood",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Stygian Bone Amulet",
+     "source": "Blind Hunter in Razorfen Kraul"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Sorcerer Collar",
+     "source": "Rethilgore in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Bloodmage Mantle",
+     "source": "Bloodmage Thalnos in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Berylline Pads",
+     "source": "Reward from the quest The Crone of the Kraul"
+    },
+    {
+     "name": "Death Speaker Mantle",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Brilliant Cloak",
+     "source": "Reward from the quest Strahnbrad Mystery"
+    },
+    {
+     "name": "Thornweaver Drape",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Vine Pruner's Cloak",
+     "source": "Reward from the quest A Green Sample"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Shadow Gown",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Necrology Robes",
+     "source": "Trash in Shadowfang Keep"
+    },
+    {
+     "name": "Dustfall Robes",
+     "source": "Reward from the quest Hints of a New Plague?"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Spidertank Oilrag",
+     "source": "Electrocutioner 6000 in Gnomeregan"
+    },
+    {
+     "name": "Arcane Runed Bracers",
+     "source": "Reward from the quest Wanted! Marez Cowl"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Ephemeral Grips",
+     "source": "Arcane Anomaly in City of Dalaran"
+    },
+    {
+     "name": "Hands of Darkness",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Shadow Gloves",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Arugal",
+     "source": "Archmage Arugal in Shadowfang Keep"
+    },
+    {
+     "name": "Blightleaf Rope",
+     "source": "Fel Ancient in City of Dalaran"
+    },
+    {
+     "name": "Shadow Sash",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Blighted Leggings",
+     "source": "Azshir the Sleepless in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Shadow Leggings",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Gaze Dreamer Pants",
+     "source": "Twilight Lord Kelris in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Black Slippers",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Glinteye Slippers",
+     "source": "Saltspine in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Spidersilk Boots",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Ring of Forlorn Spirits",
+     "source": "Reward from the quest The Legend of Stalvan"
+    },
+    {
+     "name": "Ring of Power Regulation",
+     "source": "Relic Guardian in Excavation Site: Wetlands"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Forlorn Spirits",
+     "source": "Reward from the quest The Legend of Stalvan"
+    },
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Ring of Power Regulation",
+     "source": "Relic Guardian in Excavation Site: Wetlands"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Swinetusk Shank",
+     "source": "Agathelos the Raging in Razorfen Kraul"
+    },
+    {
+     "name": "Tendonscraper Dagger",
+     "source": "Lyn the Ignored in City of Dalaran"
+    },
+    {
+     "name": "Debt Collector",
+     "source": "Bazil Thredd in The Stockade"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Raptor's Gaze",
+     "source": "Shadetooth in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Orb of Soran'ruk",
+     "source": "Reward from the quest The Orb of Soran'ruk"
+    },
+    {
+     "name": "Orb of Mystic Insight",
+     "source": "Crafted with Enchanting"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Burning Sliver",
+     "source": "Reward from the quest Crushridge Warmongers"
+    },
+    {
+     "name": "Gravestone Scepter",
+     "source": "Reward from the quest Blackfathom Villainy"
+    },
+    {
+     "name": "Fizzle's Zippy Lighter",
+     "source": "Reward from the quest News for Fizzle"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Filigreed Shadow Circlet",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Silk Headband",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Shadow Hood",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Stygian Bone Amulet",
+     "source": "Blind Hunter in Razorfen Kraul"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Sorcerer Collar",
+     "source": "Rethilgore in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Bloodmage Mantle",
+     "source": "Bloodmage Thalnos in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Berylline Pads",
+     "source": "Reward from the quest A Vengeful Fate"
+    },
+    {
+     "name": "Death Speaker Mantle",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Brilliant Cloak",
+     "source": "Reward from the quest Strahnbrad Mystery"
+    },
+    {
+     "name": "Thornweaver Drape",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Hillman's Cloak",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Shadow Gown",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Necrology Robes",
+     "source": "Trash in Shadowfang Keep"
+    },
+    {
+     "name": "Zealot's Robe",
+     "source": "Reward from the quest An Unholy Alliance"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Spidertank Oilrag",
+     "source": "Electrocutioner 6000 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Ephemeral Grips",
+     "source": "Arcane Anomaly in City of Dalaran"
+    },
+    {
+     "name": "Hands of Darkness",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Shadow Gloves",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Warsong Sash",
+     "source": "Reward from the quest Warsong Supplies"
+    },
+    {
+     "name": "Belt of Arugal",
+     "source": "Archmage Arugal in Shadowfang Keep"
+    },
+    {
+     "name": "Blightleaf Rope",
+     "source": "Fel Ancient in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Blighted Leggings",
+     "source": "Azshir the Sleepless in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Shadow Leggings",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Gaze Dreamer Pants",
+     "source": "Twilight Lord Kelris in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Black Slippers",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Enchanted Sandals",
+     "source": "Reward from the quest Heart of Disruption"
+    },
+    {
+     "name": "Glinteye Slippers",
+     "source": "Saltspine in Excavation Site: Wetlands"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Ring of Power Regulation",
+     "source": "Relic Guardian in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Snake Hoop",
+     "source": "Reward from the quest Willix the Importer"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ring of Power Regulation",
+     "source": "Relic Guardian in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Reedknot Ring",
+     "source": "Reward from the quest Jarl Needs a Blade"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Swinetusk Shank",
+     "source": "Agathelos the Raging in Razorfen Kraul"
+    },
+    {
+     "name": "Tendonscraper Dagger",
+     "source": "Lyn the Ignored in City of Dalaran"
+    },
+    {
+     "name": "Mindslicer",
+     "source": "Reward from the quest Call to Arms"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Omega Orb",
+     "source": "Reward from the quest Compendium of the Fallen (Orc / Tauren / Troll only)"
+    },
+    {
+     "name": "Raptor's Gaze",
+     "source": "Shadetooth in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Orb of Soran'ruk",
+     "source": "Reward from the quest The Orb of Soran'ruk"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Gravestone Scepter",
+     "source": "Reward from the quest Blackfathom Villainy"
+    },
+    {
+     "name": "Dancing Flame",
+     "source": "Reward from the quest Final Passage"
+    },
+    {
+     "name": "Fizzle's Zippy Lighter",
+     "source": "Reward from the quest News for Fizzle"
+    }
+   ]
+  }
+ ]
+}

@@ -1,8 +1,8 @@
 ---
 /*
- * TOOLS op /talents/ (Nutri, 11 oktober 2026: de tab TALENTS heet Tools): vier grote
- * tegels, voor de talentcalculator, de Legacy-calculator, de raidplanner en de
- * levelbuilds. Elke tegel is in zijn geheel een link.
+ * TOOLS op /talents/ (Nutri, 11 oktober 2026: de tab TALENTS heet Tools). Sinds
+ * 19 oktober 2026 geen vier grote tegels meer maar een lijst: per tool één rij met
+ * icoon, naam en één regel uitleg, en rechts de classes als kleine chips.
  *
  * De tegel van de talenten draagt ook de negen classes, elk in zijn eigen kleur, zodat
  * je met één klik in de juiste boom zit; de tegel zelf opent Druid, de eerste in het
@@ -23,6 +23,8 @@ import { levT } from '../../i18n/leveling';
 import { levelingBuilds } from '../../lib/leveling';
 import { raidT } from '../../i18n/raid';
 import { appStoreUrl } from '../../config/site';
+import { pickT } from '../../i18n/class-picker';
+import { classes as classColors } from '../../config/bis';
 import '../../styles/talents.css';
 
 interface Props {
@@ -46,6 +48,23 @@ const crumbs = [
   { name: ui('nav.talents'), path: `${base}/` },
 ];
 const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
+
+/* Elke tool één rij (Nutri, 19 oktober 2026: "4 giga big blocks ... make it cleaner"). */
+const pick = pickT(locale);
+const tools = [
+  // De Class Picker bovenaan: het eerste wat een nieuwe speler nodig heeft (19 oktober 2026).
+  { name: pick('title'), text: pick('cardText'), icon: '/wh/inv_misc_map06.jpg', href: `${localizePath('class-picker', locale)}/` },
+  {
+    name: t('talentCard'), text: t('talentCardText'), icon: '/icons/inv_misc_book_11.jpg', href: `${base}/${first}/`,
+    classes: classes.map((entry) => ({ id: entry.id, name: entry.name, href: `${base}/${entry.id}/` })),
+  },
+  {
+    name: lev('switch'), text: t('levelingCardText'), icon: '/icons/spell_nature_swiftness.jpg', href: `${levBase}/`,
+    classes: levClasses.map((entry) => ({ id: entry.id, name: entry.name, href: `${levBase}/${entry.id}/` })),
+  },
+  { name: raid('switch'), text: t('raidCardText'), icon: '/icons/ability_warrior_battleshout.jpg', href: `${localizePath('raid', locale)}/` },
+  { name: t('legacyCard'), text: t('legacyCardText'), icon: '/icons/spell_arcane_mindmastery.jpg', href: `${base}/legacy/` },
+];
 ---
 
 <BaseLayout locale={locale} title={t('toolsMetaTitle')} description={t('toolsDescription')}>
@@ -58,66 +77,111 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
       </div>
     </header>
 
-    <div class="wf-calccards wf-tooltiles">
-      <section class="wf-calccard wf-tooltile">
-        <img class="wf-tooltile__icon" src="/icons/inv_misc_book_11.jpg" alt="" width="56" height="56" />
-        <h2 class="wf-calccard__title"><a class="wf-tooltile__link" href={`${base}/${first}/`}>{t('talentCard')}</a></h2>
-        <p class="wf-calccard__text">{t('talentCardText')}</p>
-        <ul class="wf-classlist wf-tooltile__classes">
-          {classes.map((entry) => (
-            <li>
-              <a class="wf-classpill" href={`${base}/${entry.id}/`} data-class={entry.id}>
-                <span class="wf-classpill__diamond" aria-hidden="true"></span>
-                <span class="wf-classpill__name">{entry.name}</span>
-              </a>
-            </li>
-          ))}
-        </ul>
-        <p class="wf-calccard__meta">{totalTalentPoints()} {t('points')}</p>
-      </section>
-
-      <section class="wf-calccard wf-tooltile">
-        <img class="wf-tooltile__icon" src="/icons/spell_arcane_mindmastery.jpg" alt="" width="56" height="56" />
-        <h2 class="wf-calccard__title"><a class="wf-tooltile__link" href={`${base}/legacy/`}>{t('legacyCard')}</a></h2>
-        <p class="wf-calccard__text">{t('legacyCardText')}</p>
-        <p class="wf-calccard__meta">{legacySpendable()} {t('points')}</p>
-      </section>
-
-      <section class="wf-calccard wf-tooltile">
-        <img class="wf-tooltile__icon" src="/icons/ability_warrior_battleshout.jpg" alt="" width="56" height="56" />
-        <h2 class="wf-calccard__title"><a class="wf-tooltile__link" href={`${localizePath('raid', locale)}/`}>{raid('switch')}</a></h2>
-        <p class="wf-calccard__text">{t('raidCardText')}</p>
-        <p class="wf-calccard__meta">5 · 10 · 20 · 40</p>
-      </section>
-
-      <section class="wf-calccard wf-tooltile">
-        <img class="wf-tooltile__icon" src="/icons/spell_nature_swiftness.jpg" alt="" width="56" height="56" />
-        <h2 class="wf-calccard__title"><a class="wf-tooltile__link" href={`${levBase}/`}>{lev('switch')}</a></h2>
-        <p class="wf-calccard__text">{t('levelingCardText')}</p>
-        <ul class="wf-classlist wf-tooltile__classes">
-          {levClasses.map((entry) => (
-            <li>
-              <a class="wf-classpill" href={`${levBase}/${entry.id}/`} data-class={entry.id}>
-                <span class="wf-classpill__diamond" aria-hidden="true"></span>
-                <span class="wf-classpill__name">{entry.name}</span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      </section>
-
-      {appStoreUrl !== '' && (
-        <section class="wf-calccard wf-calccard--app">
-          <h2 class="wf-calccard__title">{t('appCard')}</h2>
-          <p class="wf-calccard__text">{t('appCardText')}</p>
-
-          <a class="wf-btn wf-btn--primary" href={appStoreUrl} rel="noopener" target="_blank">
-            {t('appCardButton')}
+    <ul class="wf-tools">
+      {tools.map((tool) => (
+        <li class="wf-tool">
+          <a class="wf-tool__main" href={tool.href}>
+            <img class="wf-tool__icon" src={tool.icon} alt="" width="40" height="40" />
+            <span class="wf-tool__text">
+              <span class="wf-tool__name">{tool.name}</span>
+              <span class="wf-tool__desc">{tool.text}</span>
+            </span>
           </a>
-        </section>
-      )}
-    </div>
+          {tool.classes && (
+            <ul class="wf-tool__classes">
+              {tool.classes.map((entry) => (
+                <li>
+                  <a class="wf-tool__class" href={entry.href} style={`--wf-class: ${classColors[entry.id]?.color ?? '#e0b77a'};`}>
+                    <span class="wf-tool__diamond" aria-hidden="true"></span>{entry.name}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
+        </li>
+      ))}
+    </ul>
+
+    {appStoreUrl !== '' && (
+      <section class="wf-calccard wf-calccard--app">
+        <h2 class="wf-calccard__title">{t('appCard')}</h2>
+        <p class="wf-calccard__text">{t('appCardText')}</p>
+
+        <a class="wf-btn wf-btn--primary" href={appStoreUrl} rel="noopener" target="_blank">
+          {t('appCardButton')}
+        </a>
+      </section>
+    )}
 
     <p class="wf-talents__source">{t('source', { build: clientBuild() })}</p>
   </div>
 </BaseLayout>
+
+<style>
+  .wf-tools {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 18px 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .wf-tool {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px 20px;
+    padding: 10px 14px;
+    background: var(--wf-raised);
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card-sm, 10px);
+    transition: border-color .15s ease, box-shadow .15s ease;
+  }
+  .wf-tool:hover, .wf-tool:focus-within { border-color: var(--wf-accent-deep); box-shadow: var(--wf-glow-card); }
+
+  .wf-tool__main {
+    flex: 1 1 320px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    min-width: 0;
+    color: inherit;
+    text-decoration: none;
+  }
+  .wf-tool__icon { flex: none; width: 40px; height: 40px; border: 1px solid var(--wf-accent-deep); border-radius: 6px; }
+  .wf-tool__text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+  .wf-tool__name { font-family: var(--wf-display); font-size: 17px; font-weight: 700; line-height: 1.2; color: var(--wf-ink); }
+  .wf-tool__main:hover .wf-tool__name { color: var(--wf-accent); }
+  .wf-tool__desc { font-size: 13.5px; line-height: 1.4; color: var(--wf-muted); }
+
+  .wf-tool__classes {
+    flex: 0 1 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    max-width: 760px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .wf-tool__class {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 9px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    font-size: 12.5px;
+    color: var(--wf-muted);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .wf-tool__class:hover { border-color: var(--wf-class); color: var(--wf-ink); }
+  .wf-tool__diamond { width: 7px; height: 7px; transform: rotate(45deg); background: var(--wf-class); }
+
+  @media (max-width: 599px) {
+    .wf-tool { padding: 10px 12px; }
+    .wf-tool__main { flex-basis: 100%; }
+  }
+</style>

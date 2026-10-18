@@ -19,7 +19,8 @@ import { paneSlotWords } from '../../../../i18n/bis';
 
 export const GET: APIRoute = async ({ site }) => {
   const base = site ?? new URL('https://wowforever.be');
-  const lists = getBisLists();
+  // Forever staat (nog) niet in de API (config/bis.ts), dus ook niet in de telling.
+  const lists = getBisLists().filter((list) => list.era !== 'forever');
 
   const eras = bisEras.map((era) => ({
     era,

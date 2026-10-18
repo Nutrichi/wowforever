@@ -23,6 +23,9 @@ import { getPage, getPages, pagePath } from '../../lib/pages';
 import { pageT } from '../../i18n/pages';
 import { guideT } from '../../i18n/guides';
 import GuidesHub from '../guides/GuidesHub.astro';
+import ForeverTimeline from './ForeverTimeline.astro';
+import DungeonBand from '../guides/DungeonBand.astro';
+import { hubCategories } from '../../config/guides-hub';
 import { breadcrumbJsonLd, publisherJsonLd } from '../../lib/structured-data';
 import { isoDate, longDate } from '../../lib/date';
 import '../../styles/guides.css';
@@ -54,6 +57,7 @@ const all = await getPages(locale);
  * /guides/dungeons/. Op zo'n pagina, en op /guides/dungeons/ zelf, tonen de
  * chips die groep; elders in de map alleen de pagina's van het eerste niveau.
  */
+const parts = pageKey.split('/');
 const depth = (key: string) => key.split('/').length;
 const hasChildren = (key: string) => all.some((other) => other.key.startsWith(`${key}/`));
 const groupKey = depth(pageKey) >= 3
@@ -68,23 +72,40 @@ const maxGroupChips = 20;
 const groupMembers = groupKey
   ? all.filter((other) => other.key === groupKey || other.key.startsWith(`${groupKey}/`))
   : [];
-const members = !hasChips ? []
+/*
+ * Bij de gidsen (19 oktober 2026, Nutri: "This is messy"): geen rij met alle
+ * gidsen op alfabet meer, maar alleen de gidsen uit dezelfde categorie van de
+ * hub (config/guides-hub.ts). De hub zelf heeft zijn tabs en geen chips.
+ */
+const top = parts[1];
+const category = folder === 'guides' && top
+  ? hubCategories.find((cat) => cat.cards.some((card) => card.key === top || card.key.startsWith(`${top}/`)))
+  : undefined;
+const categoryMembers = category
+  ? category.cards
+    .filter((card) => !card.key.startsWith('/'))
+    .map((card) => all.find((other) => other.key === `guides/${card.parts?.[0] ?? card.key}`))
+    .filter((other): other is (typeof all)[number] => !!other)
+  : [];
+const members = !hasChips || pageKey === 'guides' ? []
   : groupKey && groupMembers.length <= maxGroupChips
     ? groupMembers
-    : all.filter((other) => (other.key === folder || other.key.startsWith(`${folder}/`)) && depth(other.key) <= 2);
+    : folder === 'guides'
+      ? categoryMembers
+      : all.filter((other) => (other.key === folder || other.key.startsWith(`${folder}/`)) && depth(other.key) <= 2);
 
 const crumbs = [{ name: ui('crumb.home'), path: localizePath('', locale) }];
 if (folder === 'routes' && pageKey !== 'routes' && all.some((other) => other.key === 'routes')) {
   crumbs.push({ name: t('routesCrumb'), path: pagePath('routes', locale) });
 }
-if (folder === 'guides' && pageKey !== 'guides' && all.some((other) => other.key === 'guides')) {
+// /forever/ hoort sinds 19 oktober 2026 bij de gidsen (Nutri); het adres blijft, want daar wijzen 90 pagina's naar.
+if ((folder === 'guides' || pageKey === 'forever') && pageKey !== 'guides' && all.some((other) => other.key === 'guides')) {
   crumbs.push({ name: ui('nav.guides'), path: pagePath('guides', locale) });
 }
 if (folder === 'tradeskills') {
   crumbs.push({ name: ui('nav.tradeskills'), path: pagePath('tradeskills', locale) });
 }
 // Tussenliggende pagina's, zoals Dungeons tussen Gidsen en een dungeon.
-const parts = pageKey.split('/');
 for (let i = 2; i < parts.length; i++) {
   const parent = all.find((other) => other.key === parts.slice(0, i).join('/'));
   if (parent) crumbs.push({ name: parent.short, path: parent.href });
@@ -151,6 +172,12 @@ const jsonLd = {
         ))}
       </nav>
     )}
+
+    {/* De tijdlijn van Forever, van de beta tot de zomer van 2027 (19 oktober 2026). */}
+    {pageKey === 'forever' && <ForeverTimeline locale={locale} />}
+
+    {/* De levelband van alle dungeons, sinds 19 oktober 2026 hier en niet meer op de hub. */}
+    {pageKey === 'guides/dungeons' && <DungeonBand locale={locale} />}
 
     <div class="wf-gprose">
       <Content />

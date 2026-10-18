@@ -1,0 +1,584 @@
+{
+ "expansion": "forever",
+ "phase": "beta",
+ "class": "shaman",
+ "spec": "enhancement",
+ "role": "Melee DPS",
+ "notes": "Best gear for the level 30 beta, three options per slot, the best first. Some quest rewards differ for the Alliance and the Horde: switch between them above the table. The beta still changes items, so this list follows each new build.",
+ "updated": "2026-10-18",
+ "enchants": [
+  {
+   "slot": "Neck",
+   "name": "Enchant Necklace - Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Lesser Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Lesser Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Strength",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Forceful Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Forceful Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Two-Hand",
+   "name": "Enchant 2H Weapon - Lesser Strength",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Defender's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Cloudy Gustwoven Hood",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Azure Gustwoven Hood",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Mark of the Pack Leader",
+     "source": "Dropped by the rare Humar the Pridelord"
+    },
+    {
+     "name": "Ghostshard Talisman",
+     "source": "Azshir the Sleepless in Scarlet Monastery Graveyard"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Batwing Mantle",
+     "source": "Blind Hunter in Razorfen Kraul"
+    },
+    {
+     "name": "Forest Tracker Epaulets",
+     "source": "World drop"
+    },
+    {
+     "name": "Death Speaker Mantle",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Drape of Shifting Energy",
+     "source": "Arcanic Enigma in City of Dalaran"
+    },
+    {
+     "name": "Golem War Cloak",
+     "source": "Reward from the quest Gleaning Our Future"
+    },
+    {
+     "name": "Yeti Fur Cloak",
+     "source": "Reward from the quest Bartolo's Yeti Fur Cloak"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Totemic Leather Tunic",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Garb of Florid Feathers",
+     "source": "Shadetooth in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Garb of Fallen Felbark",
+     "source": "Fel Ancient in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Arathi Armbands",
+     "source": "Reward from the quest Wanted! Otto and Falconcrest"
+    },
+    {
+     "name": "Glowing Magical Bracelets",
+     "source": "World drop"
+    },
+    {
+     "name": "Graveweave Bindings",
+     "source": "Atrexis the Grave Knight in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gnomish Mechanic's Gloves",
+     "source": "Reward from the quest News for Fizzle"
+    },
+    {
+     "name": "Stormfire Gauntlets",
+     "source": "Reward from the quest Reagents for Reclaimers Inc."
+    },
+    {
+     "name": "Tiger Hunter Gloves",
+     "source": "Reward from the quest Tiger Mastery"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Prowler's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Skirmisher's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Blackened Defias Belt",
+     "source": "Captain Greenskin in The Deadmines"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Ferine Leggings",
+     "source": "Agathelos the Raging in Razorfen Kraul"
+    },
+    {
+     "name": "Doomcaller's Pants",
+     "source": "Reward from the quest Solution to Doom"
+    },
+    {
+     "name": "Totemic Leather Leggings",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Renewing Footpads",
+     "source": "Reward from the quest Heart of Disruption"
+    },
+    {
+     "name": "Disjointed Shoes",
+     "source": "Reward from the quest WANTED: Incinerator Gar'im (Dwarf / Night Elf / Gnome / Skyborne only)"
+    },
+    {
+     "name": "Brawler's Leather Boots",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Swamp Ring",
+     "source": "Reward from the quest Jarl Needs a Blade"
+    },
+    {
+     "name": "Thunderbrow Ring",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Swamp Ring",
+     "source": "Reward from the quest Jarl Needs a Blade"
+    },
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Thunderbrow Ring",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Rage of the Storm",
+     "source": "Reward from the quest The Tempest's Weapons"
+    },
+    {
+     "name": "Rock Pulverizer",
+     "source": "Reward from the quest Murdaloc"
+    },
+    {
+     "name": "Defender of Dalaran",
+     "source": "Reward from the quest Heart of Disruption"
+    }
+   ]
+  },
+  {
+   "slot": "Totem",
+   "items": [
+    {
+     "name": "Polished Driftwood Icon",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Totem of Charged Flames",
+     "source": "Reward from the quest Call of Fire"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Defender's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Cloudy Gustwoven Hood",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Azure Gustwoven Hood",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Mark of the Pack Leader",
+     "source": "Dropped by the rare Humar the Pridelord"
+    },
+    {
+     "name": "Ghostshard Talisman",
+     "source": "Azshir the Sleepless in Scarlet Monastery Graveyard"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Batwing Mantle",
+     "source": "Blind Hunter in Razorfen Kraul"
+    },
+    {
+     "name": "Forest Tracker Epaulets",
+     "source": "World drop"
+    },
+    {
+     "name": "Death Speaker Mantle",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Furs of the Earthen Ring",
+     "source": "Reward from the quest Earthen Echo"
+    },
+    {
+     "name": "Drape of Shifting Energy",
+     "source": "Arcanic Enigma in City of Dalaran"
+    },
+    {
+     "name": "Wolfmaster Cape",
+     "source": "Wolf Master Nandos in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Totemic Leather Tunic",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Garb of Florid Feathers",
+     "source": "Shadetooth in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Dreamer's Chestguard",
+     "source": "Reward from the quest Baron Aquanis"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Graveweave Bindings",
+     "source": "Atrexis the Grave Knight in City of Dalaran"
+    },
+    {
+     "name": "Glowing Magical Bracelets",
+     "source": "World drop"
+    },
+    {
+     "name": "Technician's Bracers",
+     "source": "Reward from the quest A Fine Mess"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gnomish Mechanic's Gloves",
+     "source": "Reward from the quest News for Fizzle"
+    },
+    {
+     "name": "Gloves of Kapelan",
+     "source": "Reward from the quest Alliance Relations"
+    },
+    {
+     "name": "Tiger Hunter Gloves",
+     "source": "Reward from the quest Tiger Mastery"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Prowler's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Skirmisher's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Blackened Defias Belt",
+     "source": "Captain Greenskin in The Deadmines"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Ferine Leggings",
+     "source": "Agathelos the Raging in Razorfen Kraul"
+    },
+    {
+     "name": "Doomcaller's Pants",
+     "source": "Reward from the quest Solution to Doom"
+    },
+    {
+     "name": "Totemic Leather Leggings",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Brawler's Leather Boots",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Fiery Slippers",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Draftsman Boots",
+     "source": "Reward from the quest Gerenzo Wrenchwhistle"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Band of Allegiance",
+     "source": "Reward from the quest Service to the Horde"
+    },
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Thunderbrow Ring",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Band of Allegiance",
+     "source": "Reward from the quest Service to the Horde"
+    },
+    {
+     "name": "Thunderbrow Ring",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Rage of the Storm",
+     "source": "Reward from the quest The Tempest's Weapons"
+    },
+    {
+     "name": "Striking Staff",
+     "source": "Reward from the quest Heart of Disruption"
+    },
+    {
+     "name": "Corpsemaker",
+     "source": "Overlord Ramtusk in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Totem",
+   "items": [
+    {
+     "name": "Polished Driftwood Icon",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Totem of Charged Flames",
+     "source": "Reward from the quest Call of Fire"
+    }
+   ]
+  }
+ ]
+}

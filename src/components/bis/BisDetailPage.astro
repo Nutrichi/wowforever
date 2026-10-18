@@ -32,7 +32,6 @@ import { bisT, gemColorLabel, phaseLabel, roleLabel, slotLabel } from '../../i18
 import { translateSource } from '../../i18n/bis-sources';
 import { translateName } from '../../i18n/bis-names';
 import { qualityClass, splitName, wowheadEntry, wowheadIcon, wowheadLink, wowheadSearch } from '../../lib/bis-items';
-import { translateNotes } from '../../i18n/bis-notes';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import { isoDate, longDate } from '../../lib/date';
 
@@ -53,9 +52,19 @@ const color = classes[list.class]?.color ?? '#e0b77a';
 const updated = list.updated ? new Date(`${list.updated}T00:00:00Z`) : undefined;
 
 const title = t('metaTitle', { name, era: era.name, phase });
-const description = t('detailDescription', { name, era: era.name, phase });
+const description = list.phase === 'beta'
+  ? t('betaDetailDesc', { name })
+  : t('detailDescription', { name, era: era.name, phase });
 
-const notes = translateNotes(list.notes, locale);
+/*
+ * Forever: een lijst voor de Alliance en een voor de Horde, met een schakelaar erboven
+ * (Nutri, 18 oktober 2026: "Alliance/Horde switch"). Beide tabellen staan in de HTML;
+ * zonder JavaScript is de Alliance zichtbaar. De keuze geldt voor elke lijst (wf-faction).
+ */
+const factions: Array<{ key: 'all' | 'alliance' | 'horde'; slots: typeof list.slots }> = list.horde
+  ? [{ key: 'alliance', slots: list.slots }, { key: 'horde', slots: list.horde }]
+  : [{ key: 'all', slots: list.slots }];
+
 const phases = samSpecPhases(list);
 const siblings = siblingSpecs(list);
 
@@ -147,7 +156,8 @@ const enchants = list.enchants.filter((enchant) => !/^(n\/a|none|-)?$/i.test(enc
 const crumbs = [
   { name: ui('crumb.home'), path: localizePath('', locale) },
   { name: t('crumb'), path: bisPath(locale) },
-  { name: era.name, path: bisPath(locale, list.era) },
+  // Forever heeft geen eigen era-pagina: /bis/ is Forever, dus geen tweede stap ernaartoe.
+  ...(list.era === 'forever' ? [] : [{ name: era.name, path: bisPath(locale, list.era) }]),
   { name: phase, path: bisPhasePath(locale, list.era, list.phase) },
   { name: `${name}, ${phase}`, path: bisPath(locale, list.era, list.phase, list.slug) },
 ];
@@ -187,7 +197,7 @@ const jsonLd = {
           <span aria-hidden="true">/</span>
         </>
       ))}
-      <span>{phase}</span>
+      <span>{name}</span>
     </nav>
 
     <header class="wf-bisd__head">
@@ -218,69 +228,88 @@ const jsonLd = {
       </nav>
     )}
 
-    {notes.length > 0 && (
-      <section class="wf-bisd__notes" aria-labelledby="wf-bisd-notes">
-        <h2 class="wf-bisd__label" id="wf-bisd-notes">{t('notes')}</h2>
-        {notes.map((sentence) => <p>{sentence}</p>)}
-      </section>
-    )}
-
     <section class="wf-bisd__block" aria-labelledby="wf-bisd-gear">
       <h2 class="wf-bisd__label" id="wf-bisd-gear">{t('gear')}</h2>
-      <div class="wf-bisd__table">
-        <table>
-          <thead class="wf-bisd__head-row">
-            <tr>
-              <th scope="col">{t('slot')}</th>
-              <th scope="col">{t('item')}</th>
-              <th scope="col">{t('source')}</th>
-            </tr>
-          </thead>
-          <tbody>
-            {list.slots.map((slot) => slot.items.map((item, rank) => {
-              const view = itemView(item);
-              const label = slotLabel(slotParts(slot.slot), locale);
-              return (
-                <tr class:list={[{ 'is-more': rank > 0 }]}>
-                  <th scope="row">
-                    {rank === 0 ? label : <span class="wf-sr">{label}</span>}
-                  </th>
-                  <td>
-                    <span class="wf-bisd__name">
-                      {slot.items.length > 1 && <span class="wf-bisd__rank">{rank + 1}</span>}
-                      {view.none ? (
-                        <span class="is-none">{t('noItem')}</span>
-                      ) : (
-                        view.names.map((part, index) => {
-                          const link = linkView('gear', part);
-                          return (
-                            <>
-                              {index > 0 && <span class="wf-bisd__or"> / </span>}
-                              <a
-                                class:list={['wf-bisd__item', link.quality]}
-                                href={link.href}
-                                target="_blank"
-                                rel="noopener nofollow"
-                                title={t('wowhead', { item: part })}
-                              >
-                                {link.icon && (
-                                  <img class="wf-bisd__icon" src={link.icon} alt="" width="36" height="36" loading="lazy" decoding="async" />
-                                )}
-                                <span>{translateName(part, locale)}</span>
-                              </a>
-                            </>
-                          );
-                        })
+      {list.horde && (
+        <div class="wf-bisd__factions" role="group" aria-label={t('faction')} data-pagefind-ignore>
+          <button type="button" class="wf-bisd__faction" data-faction-pick="alliance" aria-pressed="true">Alliance</button>
+          <button type="button" class="wf-bisd__faction" data-faction-pick="horde" aria-pressed="false">Horde</button>
+        </div>
+      )}
+      {factions.map((faction) => (
+        <div class="wf-bisd__table" data-faction={faction.key} hidden={faction.key === 'horde'}>
+          <table>
+            <thead class="wf-bisd__head-row">
+              <tr>
+                <th scope="col">{t('slot')}</th>
+                <th scope="col">{t('item')}</th>
+                <th scope="col">{t('source')}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {faction.slots.map((slot, slotIndex) => slot.items.map((item, rank) => {
+                const view = itemView(item);
+                const label = slotLabel(slotParts(slot.slot), locale);
+                // Optie 2 en 3 zitten achter de pijl van optie 1 (Nutri, 19 oktober 2026).
+                const group = `${faction.key}-${slotIndex}`;
+                const more = slot.items.length - 1;
+                return (
+                  <tr class:list={[{ 'is-more': rank > 0 }]} data-more-of={rank > 0 ? group : undefined} hidden={rank > 0}>
+                    <th scope="row">
+                      {rank === 0 ? label : <span class="wf-sr">{label}</span>}
+                    </th>
+                    <td>
+                      <span class="wf-bisd__name">
+                        {slot.items.length > 1 && <span class="wf-bisd__rank">{rank + 1}</span>}
+                        {view.none ? (
+                          <span class="is-none">{t('noItem')}</span>
+                        ) : (
+                          view.names.map((part, index) => {
+                            const link = linkView('gear', part);
+                            return (
+                              <>
+                                {index > 0 && <span class="wf-bisd__or"> / </span>}
+                                <a
+                                  class:list={['wf-bisd__item', link.quality]}
+                                  href={link.href}
+                                  target="_blank"
+                                  rel="noopener nofollow"
+                                  title={t('wowhead', { item: part })}
+                                >
+                                  {link.icon && (
+                                    <img class="wf-bisd__icon" src={link.icon} alt="" width="36" height="36" loading="lazy" decoding="async" />
+                                  )}
+                                  <span>{translateName(part, locale)}</span>
+                                </a>
+                              </>
+                            );
+                          })
+                        )}
+                      </span>
+                    </td>
+                    <td class="wf-bisd__source">
+                      <span class="wf-bisd__sourcetext">{view.source}</span>
+                      {rank === 0 && more > 0 && (
+                        <button
+                          type="button"
+                          class="wf-bisd__toggle"
+                          aria-expanded="false"
+                          data-more={group}
+                          aria-label={t('moreOptions', { n: more })}
+                          title={t('moreOptions', { n: more })}
+                        >
+                          <span>+{more}</span>
+                          <svg viewBox="0 0 12 12" width="12" height="12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /></svg>
+                        </button>
                       )}
-                    </span>
-                  </td>
-                  <td class="wf-bisd__source">{view.source}</td>
-                </tr>
-              );
-            }))}
-          </tbody>
-        </table>
-      </div>
+                    </td>
+                  </tr>
+                );
+              }))}
+            </tbody>
+          </table>
+        </div>
+      ))}
     </section>
 
     {enchants.length > 0 && (
@@ -392,8 +421,8 @@ const jsonLd = {
 </BaseLayout>
 
 <style>
+  /* De volle breedte van de pagina (Nutri, 19 oktober 2026: "start using the full webpage"). */
   .wf-bisd {
-    max-width: 820px;
     padding-block: 6px 40px;
   }
 
@@ -464,19 +493,6 @@ const jsonLd = {
     color: var(--wf-accent-bright);
   }
 
-  .wf-bisd__notes {
-    margin-top: 22px;
-    padding: 16px 18px;
-    border: 1px solid var(--wf-border);
-    border-radius: var(--wf-r-card-sm);
-    background: var(--wf-raised-soft);
-    font-size: 14.5px;
-    line-height: 1.65;
-    color: var(--wf-ink-soft);
-  }
-
-  .wf-bisd__notes p + p { margin-top: 8px; }
-
   .wf-bisd__label {
     margin-bottom: 10px;
     font-family: var(--wf-display);
@@ -491,6 +507,35 @@ const jsonLd = {
 
   /* Rand en grond: het perkament uit global.css (29 september 2026). */
   .wf-bisd__table { overflow: hidden; }
+  .wf-bisd__table[hidden] { display: none; }
+
+  /* De schakelaar Alliance/Horde van Forever, in de stijl van de fasechips. */
+  .wf-bisd__factions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    margin-bottom: 12px;
+  }
+
+  .wf-bisd__faction {
+    font: inherit;
+    font-size: 13px;
+    padding: 4px 14px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    background: transparent;
+    color: var(--wf-muted);
+    cursor: pointer;
+    transition: var(--wf-transition), color .16s ease, background-color .16s ease;
+  }
+
+  .wf-bisd__faction:hover { border-color: var(--wf-accent-deep); }
+
+  .wf-bisd__faction[aria-pressed="true"] {
+    background: var(--wf-accent-wash);
+    border-color: var(--wf-accent-deep);
+    color: var(--wf-accent-bright);
+  }
 
   .wf-bisd__table table {
     width: 100%;
@@ -504,8 +549,8 @@ const jsonLd = {
   .wf-bisd__table tr + tr.is-more { border-top: 0; }
 
   .wf-bisd__table th {
-    width: 190px;
-    padding: 11px 16px;
+    width: 150px;
+    padding: 6px 14px;
     vertical-align: top;
     text-align: left;
     font-weight: 500;
@@ -514,9 +559,33 @@ const jsonLd = {
   }
 
   .wf-bisd__table td {
-    padding: 11px 16px 11px 0;
-    vertical-align: top;
+    padding: 6px 14px 6px 0;
+    vertical-align: middle;
   }
+  .wf-bisd__table th { vertical-align: middle; }
+
+  /* Optie 2 en 3: dicht tot de pijl opengaat. Zonder JavaScript staan ze open. */
+  .wf-bisd__table tr.is-more[hidden] { display: none; }
+  .wf-bisd__table tr.is-more td,
+  .wf-bisd__table tr.is-more th { background: rgba(138, 90, 20, .07); }
+
+  .wf-bisd__toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 2px 8px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    background: rgba(255, 250, 241, .5);
+    font: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--wf-accent);
+    cursor: pointer;
+  }
+  .wf-bisd__toggle:hover { border-color: var(--wf-accent); }
+  .wf-bisd__toggle svg { transition: transform .15s ease; }
+  .wf-bisd__toggle[aria-expanded="true"] svg { transform: rotate(180deg); }
 
   .wf-bisd__head-row th {
     padding-block: 10px;
@@ -529,7 +598,11 @@ const jsonLd = {
     border-bottom: 3px double #b5872f;
   }
 
-  .wf-bisd__head-row th + th { padding-left: 14px; }
+  .wf-bisd__head-row th + th { padding-left: 14px; width: auto; }
+  .wf-bisd__head-row th:last-child { width: 40%; }
+
+  /* De 1 van de beste keuze staat er pas als het slot open is: dicht is er maar één. */
+  .wf-bisd__table tr:not(.is-more):not(.is-open) .wf-bisd__rank { display: none; }
 
   /* De lijntjes tussen de kolommen, zoals elke tabel op de site. Alleen breed:
      smal staan de cellen onder elkaar. */
@@ -544,7 +617,7 @@ const jsonLd = {
 
   .wf-bisd__name {
     display: block;
-    font-size: 15px;
+    font-size: 14.5px;
     color: var(--wf-ink);
   }
 
@@ -590,12 +663,15 @@ const jsonLd = {
   .wf-bisd__item:hover span { text-decoration: underline; text-underline-offset: 3px; }
 
   .wf-bisd__table td.wf-bisd__source {
-    width: 32%;
-    padding-right: 16px;
+    width: 42%;
+    padding-right: 10px;
     font-size: 13px;
     line-height: 1.45;
     color: var(--wf-muted);
   }
+
+  /* De pijl staat rechts in de bronkolom, de bron loopt eromheen. */
+  td.wf-bisd__source .wf-bisd__toggle { float: right; margin-left: 10px; }
 
   /* Een toevoeging die bij de naam hoort, maar niet in de link thuis is. */
   .wf-bisd__note.is-inline { display: inline; margin-left: 5px; }
@@ -645,12 +721,49 @@ const jsonLd = {
     .wf-bisd__diamond { width: 11px; height: 11px; margin-top: 10px; }
     .wf-bisd__table th,
     .wf-bisd__table td { display: block; width: auto; }
-    .wf-bisd__table th { padding: 10px 14px 0; font-size: 12px; letter-spacing: .06em; text-transform: uppercase; }
-    .wf-bisd__table td { padding: 4px 14px 11px; }
+    .wf-bisd__table th { padding: 8px 12px 0; font-size: 12px; letter-spacing: .06em; text-transform: uppercase; }
+    .wf-bisd__table td { padding: 3px 12px 8px; }
     /* Onder elkaar heeft een kopregel geen zin meer: de bron staat al onder
        de naam, zoals hiervoor. */
     .wf-bisd__head-row { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
-    .wf-bisd__table td.wf-bisd__source { width: auto; padding: 0 14px 11px; }
+    .wf-bisd__table td.wf-bisd__source { width: auto; padding: 0 12px 8px; }
     .wf-bisd__table tr + tr.is-more { border-top: 0; }
   }
 </style>
+
+<noscript><style>.wf-bisd__table tr.is-more[hidden] { display: table-row; } .wf-bisd__toggle { display: none; }</style></noscript>
+
+<script>
+  // De pijl bij optie 1 klapt optie 2 en 3 van dat slot open en dicht.
+  for (const toggle of document.querySelectorAll<HTMLButtonElement>('[data-more]')) {
+    toggle.addEventListener('click', () => {
+      const open = toggle.getAttribute('aria-expanded') !== 'true';
+      toggle.setAttribute('aria-expanded', String(open));
+      toggle.closest('tr')?.classList.toggle('is-open', open);
+      for (const row of document.querySelectorAll<HTMLElement>(`[data-more-of="${toggle.dataset.more}"]`)) row.hidden = !open;
+    });
+  }
+
+  // Alliance of Horde: de keuze geldt voor elke Forever-lijst en blijft bewaard.
+  const KEY = 'wf-faction';
+  const picks = [...document.querySelectorAll<HTMLButtonElement>('[data-faction-pick]')];
+  const show = (faction: string) => {
+    for (const table of document.querySelectorAll<HTMLElement>('.wf-bisd__table[data-faction]')) {
+      const key = table.dataset.faction;
+      if (key === 'alliance' || key === 'horde') table.hidden = key !== faction;
+    }
+    for (const pick of picks) pick.setAttribute('aria-pressed', String(pick.dataset.factionPick === faction));
+  };
+  if (picks.length) {
+    let saved: string | null = null;
+    try { saved = localStorage.getItem(KEY); } catch { /* geen opslag: Alliance */ }
+    if (saved === 'horde') show('horde');
+    for (const pick of picks) {
+      pick.addEventListener('click', () => {
+        const faction = pick.dataset.factionPick ?? 'alliance';
+        show(faction);
+        try { localStorage.setItem(KEY, faction); } catch { /* niet bewaard */ }
+      });
+    }
+  }
+</script>

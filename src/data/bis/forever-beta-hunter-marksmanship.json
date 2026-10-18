@@ -1,0 +1,626 @@
+{
+ "expansion": "forever",
+ "phase": "beta",
+ "class": "hunter",
+ "spec": "marksmanship",
+ "role": "Ranged DPS",
+ "notes": "Best gear for the level 30 beta, three options per slot, the best first. Some quest rewards differ for the Alliance and the Horde: switch between them above the table. The beta still changes items, so this list follows each new build.",
+ "updated": "2026-10-18",
+ "enchants": [
+  {
+   "slot": "Neck",
+   "name": "Enchant Necklace - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Lesser Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Lesser Stats",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Enchant Gloves - Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Legs",
+   "name": "Forceful Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Lesser Agility",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Ranged",
+   "name": "Deadly Scope",
+   "source": "Engineering"
+  }
+ ],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Tribal Worg Helm",
+     "source": "Dropped by Fenros"
+    },
+    {
+     "name": "Brawler's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Cloudy Windraveled Cover",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Wolfpack Medallion",
+     "source": "Dropped by Terrowulf Packlord"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Replica Crescent Necklace",
+     "source": "Reward from the quest Gleaming Crescent Necklace"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Mantle of Thieves",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Forest Tracker Epaulets",
+     "source": "World drop"
+    },
+    {
+     "name": "Unstable Crystalline Shoulderpads",
+     "source": "Unstable Sentinel in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Explorer's League Dustcover",
+     "source": "Reward from the quest Prehistoric Prism"
+    },
+    {
+     "name": "Tigerstrike Mantle",
+     "source": "World drop"
+    },
+    {
+     "name": "Yeti Fur Cloak",
+     "source": "Reward from the quest Bartolo's Yeti Fur Cloak"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Garb of Florid Feathers",
+     "source": "Shadetooth in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Garb of Fallen Felbark",
+     "source": "Fel Ancient in City of Dalaran"
+    },
+    {
+     "name": "Dusky Leather Armor",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Seadog's Battered Cuffs",
+     "source": "Reward from the quest Cracking Maury's Foot"
+    },
+    {
+     "name": "Barbaric Bracers",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Demonhide Bracers",
+     "source": "Reward from the quest Morganth"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Alterac Assassin's Gloves",
+     "source": "Reward from the quest Crushridge Warmongers"
+    },
+    {
+     "name": "Cartilage Shapers",
+     "source": "Lyn the Ignored in City of Dalaran"
+    },
+    {
+     "name": "Pilferer's Gloves",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Stalker's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Slitherwrap Girdle",
+     "source": "Mana Devourer in City of Dalaran"
+    },
+    {
+     "name": "Green Leather Belt",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Triprunner Dungarees",
+     "source": "Reward from the quest The Grand Betrayal"
+    },
+    {
+     "name": "Dusky Leather Leggings",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Worgpelt Leggings",
+     "source": "Wolf Master Nandos in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Trapper's Leather Boots",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Insignia Boots",
+     "source": "World drop"
+    },
+    {
+     "name": "Feet of the Lynx",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ironspine's Eye",
+     "source": "Ironspine in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Seal of Wrynn",
+     "source": "Reward from the quest An Audience with the King"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Ironspine's Eye",
+     "source": "Ironspine in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Seal of Wrynn",
+     "source": "Reward from the quest An Audience with the King"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Subdued Dragon's Fang",
+     "source": "Reward from the quest Stopping the Cycle"
+    },
+    {
+     "name": "Vendetta",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Prison Shank",
+     "source": "Bruegal Ironknuckle in The Stockade"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Vendetta",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Iron Fists",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Daring Dirk",
+     "source": "Sold by Jutak"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Master Hunter's Bow",
+     "source": "Reward from the quest Big Game Hunter"
+    },
+    {
+     "name": "Master Hunter's Rifle",
+     "source": "Reward from the quest Big Game Hunter"
+    },
+    {
+     "name": "Shrapnel Blaster",
+     "source": "Reward from the quest Colonel Kurzen"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Tribal Worg Helm",
+     "source": "Dropped by Fenros"
+    },
+    {
+     "name": "Brawler's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Spirit Hunter Headdress",
+     "source": "Reward from the quest Frostmaw"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Wolfpack Medallion",
+     "source": "Dropped by Terrowulf Packlord"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Snake Eye Kaleidoscope",
+     "source": "Lady Anacondra in Wailing Caverns"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Mantle of Thieves",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Forest Tracker Epaulets",
+     "source": "World drop"
+    },
+    {
+     "name": "Unstable Crystalline Shoulderpads",
+     "source": "Unstable Sentinel in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Swiftrunner Cape",
+     "source": "Reward from the quest Alliance Relations"
+    },
+    {
+     "name": "Tigerstrike Mantle",
+     "source": "World drop"
+    },
+    {
+     "name": "Glowing Lizardscale Cloak",
+     "source": "Skum in Wailing Caverns"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Garb of Florid Feathers",
+     "source": "Shadetooth in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Garb of Fallen Felbark",
+     "source": "Fel Ancient in City of Dalaran"
+    },
+    {
+     "name": "Dusky Leather Armor",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Seadog's Battered Cuffs",
+     "source": "Reward from the quest Cracking Maury's Foot"
+    },
+    {
+     "name": "Loamflake Bracers",
+     "source": "Reward from the quest Protect Kanati Greycloud"
+    },
+    {
+     "name": "Barbaric Bracers",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Cartilage Shapers",
+     "source": "Lyn the Ignored in City of Dalaran"
+    },
+    {
+     "name": "Razzeric's Racing Grips",
+     "source": "Reward from the quest Safety First"
+    },
+    {
+     "name": "Tiger Hunter Gloves",
+     "source": "Reward from the quest Tiger Mastery"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Stalker's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Slitherwrap Girdle",
+     "source": "Mana Devourer in City of Dalaran"
+    },
+    {
+     "name": "Green Leather Belt",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Triprunner Dungarees",
+     "source": "Reward from the quest Rig Wars"
+    },
+    {
+     "name": "Dusky Leather Leggings",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Worgpelt Leggings",
+     "source": "Wolf Master Nandos in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Warsong Boots",
+     "source": "Reward from the quest Warsong Supplies"
+    },
+    {
+     "name": "Insignia Boots",
+     "source": "World drop"
+    },
+    {
+     "name": "Feet of the Lynx",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ironspine's Eye",
+     "source": "Ironspine in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Lavishly Jeweled Ring",
+     "source": "Gilnid in The Deadmines"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Ironspine's Eye",
+     "source": "Ironspine in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Lavishly Jeweled Ring",
+     "source": "Gilnid in The Deadmines"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Vendetta",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Silent Hunter",
+     "source": "Reward from the quest Call to Arms"
+    },
+    {
+     "name": "Wingblade",
+     "source": "Reward from the quest Leaders of the Fang"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Silent Hunter",
+     "source": "Reward from the quest Call to Arms"
+    },
+    {
+     "name": "Iron Fists",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Daring Dirk",
+     "source": "Sold by Vharr"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Master Hunter's Bow",
+     "source": "Reward from the quest Big Game Hunter"
+    },
+    {
+     "name": "Master Hunter's Rifle",
+     "source": "Reward from the quest Big Game Hunter"
+    },
+    {
+     "name": "Quilboar Blaster",
+     "source": "Reward from the quest A Vengeful Fate"
+    }
+   ]
+  }
+ ]
+}

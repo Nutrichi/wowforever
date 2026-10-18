@@ -13,7 +13,7 @@
 export type HubCard = {
   key: string;
   /** Titel uit i18n (`card...`); anders de korte naam van de pagina. */
-  label?: 'cardDungeons' | 'cardLeveling' | 'cardRoutes' | 'cardClasses' | 'cardTradeskills' | 'cardReputations';
+  label?: 'cardDungeons' | 'cardLeveling' | 'cardRoutes' | 'cardClasses' | 'cardTradeskills' | 'cardReputations' | 'cardForever';
   image?: string;
   levels?: string;
   isNew?: boolean;
@@ -32,6 +32,8 @@ export const hubCategories: HubCategory[] = [
   {
     key: 'dungeons',
     cards: [
+      // Het overzicht met de levelband van alle dungeons, sinds 19 oktober 2026 als eerste rij.
+      { key: 'dungeons', label: 'cardDungeons', image: '2026-10-04-wow-forever-group-fights-in-stratholme.jpg', levels: '9-60' },
       { key: 'dungeons/ragefire-chasm', image: '2026-10-03-wow-forever-ragefire-chasm-taragaman.jpg', levels: '9-19' },
       { key: 'dungeons/hall-of-thanes', image: '2026-09-28-wow-forever-hall-of-thanes-entrance.jpg', levels: '13-18', isNew: true },
       { key: 'dungeons/ruins-of-lordaeron', image: '2026-09-28-wow-forever-ruins-of-lordaeron-entrance.jpg', levels: '15-20', isNew: true },
@@ -96,6 +98,8 @@ export const hubCategories: HubCategory[] = [
   {
     key: 'world',
     cards: [
+      // De algemene pagina over WoW Forever, met de tijdlijn (Nutri, 19 oktober 2026).
+      { key: '/forever', label: 'cardForever', image: '2026-09-17-wow-forever-cinematic-hunter-and-bear.jpg' },
       { key: 'flight-paths', image: '2026-09-28-wow-forever-flight-and-ship-routes-map.jpg' },
       { key: 'camping', image: '2026-09-29-wow-forever-camp-in-teldrassil.jpg' },
       { key: 'bmah', image: '2026-09-27-wow-forever-black-market-agents.jpg' },
@@ -118,9 +122,6 @@ export const hubCategories: HubCategory[] = [
     ],
   },
 ];
-
-/** De kaart naar het dungeonoverzicht, boven de levelband. */
-export const dungeonOverviewKey = 'dungeons';
 
 export type HubDungeon = {
   name: string;

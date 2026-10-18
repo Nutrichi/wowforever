@@ -1,0 +1,623 @@
+{
+ "expansion": "forever",
+ "phase": "beta",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Best gear for the level 30 beta, three options per slot, the best first. Some quest rewards differ for the Alliance and the Horde: switch between them above the table. The beta still changes items, so this list follows each new build.",
+ "updated": "2026-10-18",
+ "enchants": [
+  {
+   "slot": "Neck",
+   "name": "Enchant Necklace - Spell Power",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Defense",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Superior Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Lesser Healing Power",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Legs",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Main-Hand",
+   "name": "Enchant Weapon - Striking",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Shield - Stamina",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Totemic Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Crusader's Silvered Chain Helm",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Crusader's Chain Helm",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Souvenir Sea Shell",
+     "source": "Sold by Gezzy Gunkgear (Honored with Booty Bay)"
+    },
+    {
+     "name": "River Pride Choker",
+     "source": "World drop"
+    },
+    {
+     "name": "Stygian Bone Amulet",
+     "source": "Blind Hunter in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Spellguard Pauldrons",
+     "source": "Reward from the quest Heart of Disruption"
+    },
+    {
+     "name": "Reliquary Mantle",
+     "source": "Relic Guardian in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Sparkleshell Mantle",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cloak of the Divine Storm",
+     "source": "Reward from the quest Return to Delgren"
+    },
+    {
+     "name": "Brilliant Cloak",
+     "source": "Reward from the quest Strahnbrad Mystery"
+    },
+    {
+     "name": "Vine Pruner's Cloak",
+     "source": "Reward from the quest A Green Sample"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Protector's Silvered Chain Shirt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Crusader's Silvered Chain Shirt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Ironspine's Ribcage",
+     "source": "Ironspine in Scarlet Monastery Graveyard"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "War Rider Bracers",
+     "source": "Reward from the quest Wanted! Otto and Falconcrest"
+    },
+    {
+     "name": "Jimmied Handcuffs",
+     "source": "Bruegal Ironknuckle in The Stockade"
+    },
+    {
+     "name": "Auric Bracers",
+     "source": "Reward from the quest Reagents for Reclaimers Inc."
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Protector's Gloves",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Gloves of Insight",
+     "source": "Reward from the quest Return to Vahlarriel"
+    },
+    {
+     "name": "Ogre Grips",
+     "source": "Hamhock in The Stockade"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Warder's Belt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Justicar's Belt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Sentinel's Belt",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Protector's Silvered Chain Leggings",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Crusader's Silvered Chain Leggings",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Dark Ritual Leggings",
+     "source": "Reward from the quest Blackfathom Villainy"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Protector's Boots",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Scarlet Boots",
+     "source": "Trash in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Gnomebot Operating Boots",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Dark Horde Band",
+     "source": "Targorr the Dread in The Stockade"
+    },
+    {
+     "name": "Malignant Root",
+     "source": "Dropped by the rare Nightveiled Rotheap"
+    },
+    {
+     "name": "Talvash's Gold Ring",
+     "source": "Reward from the quest Gnome Improvement"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Malignant Root",
+     "source": "Dropped by the rare Nightveiled Rotheap"
+    },
+    {
+     "name": "Dark Horde Band",
+     "source": "Targorr the Dread in The Stockade"
+    },
+    {
+     "name": "Talvash's Gold Ring",
+     "source": "Reward from the quest Gnome Improvement"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Cursed Murloc Eye",
+     "source": "Gelihast in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    },
+    {
+     "name": "Cursed Murloc Eye",
+     "source": "Gelihast in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Crested Scepter",
+     "source": "Trash in Blackfathom Deeps"
+    },
+    {
+     "name": "Debt Collector",
+     "source": "Bazil Thredd in The Stockade"
+    },
+    {
+     "name": "Bookmaker's Scepter",
+     "source": "Reward from the quest The Hidden Key"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Collection Plate",
+     "source": "Reward from the quest Cracking Maury's Foot"
+    },
+    {
+     "name": "Heart of Agamaggan",
+     "source": "Charlga Razorflank in Razorfen Kraul"
+    },
+    {
+     "name": "Painwalker Buckler",
+     "source": "Interrogator Vishas in Scarlet Monastery Graveyard"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Tenets of the Silver Hand",
+     "source": "Crafted with Enchanting"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Totemic Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Crusader's Silvered Chain Helm",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Crusader's Chain Helm",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Souvenir Sea Shell",
+     "source": "Sold by Gezzy Gunkgear (Honored with Booty Bay)"
+    },
+    {
+     "name": "River Pride Choker",
+     "source": "World drop"
+    },
+    {
+     "name": "Stygian Bone Amulet",
+     "source": "Blind Hunter in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Battle Spaulders",
+     "source": "Reward from the quest Heart of Disruption"
+    },
+    {
+     "name": "Reliquary Mantle",
+     "source": "Relic Guardian in Excavation Site: Wetlands"
+    },
+    {
+     "name": "Brigand's Pauldrons",
+     "source": "Reward from the quest Taretha's Gift"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Brilliant Cloak",
+     "source": "Reward from the quest Strahnbrad Mystery"
+    },
+    {
+     "name": "Hillman's Cloak",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Tigerstrike Mantle",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Protector's Silvered Chain Shirt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Crusader's Silvered Chain Shirt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Ironspine's Ribcage",
+     "source": "Ironspine in Scarlet Monastery Graveyard"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Undead Knight's Bracers",
+     "source": "Reward from the quest The Grave Knight"
+    },
+    {
+     "name": "Duracin Bracers",
+     "source": "Reward from the quest Power Stones"
+    },
+    {
+     "name": "Barbaric Bracers",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Protector's Gloves",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Crusader's Gloves",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Oilrag Handwraps",
+     "source": "Reward from the quest The Lost Pages"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Warder's Belt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Justicar's Belt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Sentinel's Belt",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Protector's Silvered Chain Leggings",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Crusader's Silvered Chain Leggings",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Dark Ritual Leggings",
+     "source": "Reward from the quest Blackfathom Villainy"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Protector's Boots",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Scarlet Boots",
+     "source": "Trash in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Gnomebot Operating Boots",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Reedknot Ring",
+     "source": "Reward from the quest Jarl Needs a Blade"
+    },
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Reedknot Ring",
+     "source": "Reward from the quest Jarl Needs a Blade"
+    },
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Transformative Cocoon",
+     "source": "Reward from the quest The Broodmother"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    },
+    {
+     "name": "Transformative Cocoon",
+     "source": "Reward from the quest The Broodmother"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Skullbreaker",
+     "source": "Reward from the quest An Unholy Alliance"
+    },
+    {
+     "name": "Crested Scepter",
+     "source": "Trash in Blackfathom Deeps"
+    },
+    {
+     "name": "Blade of Silverlaine",
+     "source": "Baron Silverlaine in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Collection Plate",
+     "source": "Reward from the quest Cracking Maury's Foot"
+    },
+    {
+     "name": "Heart of Agamaggan",
+     "source": "Charlga Razorflank in Razorfen Kraul"
+    },
+    {
+     "name": "Painwalker Buckler",
+     "source": "Interrogator Vishas in Scarlet Monastery Graveyard"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Tenets of the Silver Hand",
+     "source": "Crafted with Enchanting"
+    }
+   ]
+  }
+ ]
+}

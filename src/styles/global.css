@@ -275,13 +275,13 @@ button {
   border-collapse: separate;
   border-spacing: 0;
   overflow: hidden;
-  font-size: 15px;
-  line-height: 1.5;
+  font-size: 14.5px;
+  line-height: 1.45;
 }
 
 .wf-prose table thead th,
 .wf-gprose table thead th {
-  padding: 11px 14px;
+  padding: 8px 12px;
   text-align: left;
   vertical-align: bottom;
   font-family: var(--wf-display);
@@ -300,7 +300,8 @@ button {
 
 .wf-prose table td,
 .wf-gprose table td {
-  padding: 10px 14px;
+  /* Compact (Nutri, 19 oktober 2026: "they have too much white space"). */
+  padding: 6px 12px;
   vertical-align: top;
   border-bottom: 1px solid var(--wf-line);
 }
@@ -328,7 +329,7 @@ button {
   .wf-prose table thead th,
   .wf-prose table td,
   .wf-gprose table thead th,
-  .wf-gprose table td { padding: 9px 10px; }
+  .wf-gprose table td { padding: 6px 9px; }
 }
 
 /*
@@ -500,3 +501,23 @@ a.wf-wh.wf-plain:hover { text-decoration-style: solid; }
   justify-content: space-between;
   gap: 12px;
 }
+
+/*
+ * Sinds pagina's en posts de volle breedte gebruiken (19 oktober 2026) zou een
+ * screenshot van 16:9 een scherm hoog worden. Een beeld in de tekst wordt dus
+ * nooit hoger dan 460 px; het blijft heel (geen bijsnijden van talentbomen of
+ * kaarten) en staat links, op de lijn van de tekst. Galerijen houden hun regels.
+ */
+.wf-gprose > p > img,
+.wf-gprose > img,
+.wf-gprose > figure img,
+.wf-prose > p > img,
+.wf-prose > img,
+.wf-prose > figure img {
+  width: auto;
+  max-height: 460px;
+}
+
+/* Een ingesloten video: op de volle breedte zou hij een scherm hoog worden. */
+.wf-prose .wf-embed,
+.wf-gprose .wf-embed { max-width: 820px; }

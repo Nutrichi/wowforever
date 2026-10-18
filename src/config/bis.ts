@@ -11,12 +11,23 @@
 
 import type { EraKey } from './eras';
 
-/** De era's met lijsten, in de volgorde van de era-schakelaar. */
+/**
+ * De era's van WoW Classic met lijsten, in de volgorde van de era-schakelaar.
+ * Elk heeft een eigen pagina onder /bis/<era>/.
+ */
 export const bisEras = ['classic', 'tbc', 'wotlk', 'cata', 'mop'] as const;
-export type BisEra = (typeof bisEras)[number];
+
+/**
+ * Alle era's met lijsten: Forever erbij sinds 18 oktober 2026, met de lijsten van
+ * de beta op level 30 (Nutri: "In BIS -> Forever, and then call it "Beta""). Forever
+ * heeft geen eigen /bis/forever/: dat is /bis/ zelf, zoals voorheen. De API van de
+ * app blijft op `bisEras`: de app kent de schakelaar Alliance/Horde nog niet.
+ */
+export const listEras = ['forever', ...bisEras] as const;
+export type BisEra = (typeof listEras)[number];
 
 export function isBisEra(value: string | null | undefined): value is BisEra {
-  return !!value && (bisEras as readonly string[]).includes(value);
+  return !!value && (listEras as readonly string[]).includes(value);
 }
 
 /**
@@ -28,6 +39,7 @@ export const bisTabEras: readonly EraKey[] = ['forever', ...bisEras];
 
 /** De fasen per era, in volgorde. `preraid` komt altijd eerst. */
 export const phaseIds: Record<BisEra, string[]> = {
+  forever: ['beta'],
   classic: ['preraid', 'p1', 'p2', 'p3', 'p4', 'p5', 'p6'],
   tbc: ['preraid', 'p1', 'p2', 'p3', 'p4', 'p5'],
   wotlk: ['preraid', 'p1', 'p2', 'p3', 'p4'],
@@ -55,6 +67,8 @@ export type PhaseContent = {
 };
 
 export const phaseContent: Record<BisEra, Record<string, PhaseContent>> = {
+  /* De beta van Forever toont geen rij dungeons boven de lijsten (Nutri, 19 oktober 2026). */
+  forever: {},
   classic: {
     preraid: {
       raids: [],
@@ -173,7 +187,7 @@ export const phaseContent: Record<BisEra, Record<string, PhaseContent>> = {
  * namen maar op één plaats staan.
  */
 export const phaseRaids: Record<BisEra, Record<string, string>> = Object.fromEntries(
-  bisEras.map((era) => [
+  listEras.map((era) => [
     era,
     Object.fromEntries(
       Object.entries(phaseContent[era]).map(([phase, content]) => [phase, content.raids.join(', ')]),
@@ -181,175 +195,19 @@ export const phaseRaids: Record<BisEra, Record<string, string>> = Object.fromEnt
   ]),
 ) as Record<BisEra, Record<string, string>>;
 
-/*
- * WoW Forever heeft nog geen BiS-lijsten, want er is nog geen itemdata. Wat er
- * wel is, is wat Blizzard op BlizzCon 2026 en daarna aangekondigd heeft: welke
- * raids en dungeons er per fase opengaan, en wanneer. Dat staat hieronder en
- * draagt /bis/forever/ tot de lijsten er zijn.
- *
- * Bijwerken zodra Blizzard een fase invult (PROJECT_SPEC.md §2.10).
- */
-export type ForeverDungeon = {
-  name: string;
-  /** Het levelbereik zoals Blizzard het op 14 september 2026 publiceerde. */
-  levels: string;
-};
-
-export type ForeverRaid = {
-  name: string;
-  /** Het aantal spelers, als getal, of 0 wanneer Blizzard het niet gezegd heeft. */
-  players: number;
-  /** `revamp` is een bestaande raid die herbouwd wordt; zonder waarde is hij nieuw. */
-  kind?: 'new' | 'revamp';
-};
-
-export type ForeverPhase = {
-  /** `p1`, `p2`, ... zodat de URL gelijk loopt met de andere era's. */
-  id: string;
-  /** De sleutel van het venster in src/i18n/bis.ts: launch, spring27, summer27. */
-  window: string;
-  /** De datum waarop de raids van deze fase opengaan, als hij bekend is. */
-  raidsOpen?: string;
-  raids: ForeverRaid[];
-  dungeons: ForeverDungeon[];
-  /** Hoeveel dungeons er komen als de namen nog niet bekend zijn. */
-  dungeonsUnnamed?: number;
-  /** De sleutel van de notitie in src/i18n/bis.ts, of niets. */
-  note?: string;
-};
-
-/*
- * De officiele roadmap van Blizzard, zoals hij op de slide van BlizzCon 2026
- * staat: vier seizoenen, van links naar rechts.
- *
- * De slide zelf staat als beeld op /bis/ (Nutri, 22 september 2026). Deze
- * gegevens staan ernaast, want de slide is op een telefoon onleesbaar en hij
- * is alleen Engels.
- *
- * Elke tekst hier is een sleutel in src/i18n/bis.ts, behalve de namen uit het
- * spel: die blijven Engels (SCHRIJFSTIJL.md §6). Bij een nieuwe roadmap gaat
- * dit bestand mee met de nieuwspost (PROJECT_SPEC.md §2.10).
- */
-export type RoadmapEntry = {
-  /** De sleutel van de regel in src/i18n/bis.ts. */
-  key: string;
-  /** Wat eronder staat: namen uit het spel blijven Engels, de rest is een sleutel. */
-  lines?: string[];
-  /** Sleutels in src/i18n/bis.ts voor regels die wel vertaald worden. */
-  lineKeys?: string[];
-  /** De datum, als die op de slide staat. */
-  date?: string;
-  /** De fase waar deze kolom bij hoort, als er een BiS-pagina voor is. */
-  phase?: string;
-};
-
-export type RoadmapSeason = {
-  /** autumn, winter, spring, summer. */
-  key: string;
-  entries: RoadmapEntry[];
-};
-
-export const foreverRoadmap: RoadmapSeason[] = [
-  {
-    key: 'autumn',
-    entries: [
-      { key: 'beta', date: '2026-09-17', lineKeys: ['betaLevel'] },
-      { key: 'reservation', date: '2026-10-27' },
-      { key: 'launch', date: '2026-11-04' },
-    ],
-  },
-  {
-    key: 'winter',
-    entries: [
-      {
-        key: 'raidsUnlock',
-        date: '2026-12-09',
-        phase: 'p1',
-        lines: ['Barrow Deeps (10)', 'Hyjal Summit (20)', "Onyxia's Lair (40)"],
-      },
-      { key: 'hardcoreLaunch' },
-    ],
-  },
-  {
-    key: 'spring',
-    entries: [
-      {
-        key: 'majorUpdates',
-        phase: 'p2',
-        lineKeys: ['twoNewRaids', 'twoNewDungeons', 'newQuestsArea', 'newLegendary', 'pvpSeason'],
-      },
-    ],
-  },
-  {
-    key: 'summer',
-    entries: [
-      {
-        key: 'majorUpdates',
-        phase: 'p3',
-        lineKeys: ['revampedRaid', 'newRaid', 'expandedWorld', 'twoNewDungeons', 'pvpSeason', 'professionsLegacy'],
-      },
-    ],
-  },
-];
-
-export const foreverPhases: ForeverPhase[] = [
-  {
-    id: 'p1',
-    window: 'launch',
-    raidsOpen: '2026-12-09',
-    raids: [
-      { name: 'Barrow Deeps', players: 10 },
-      { name: 'Hyjal Summit', players: 20 },
-      { name: "Onyxia's Lair", players: 40 },
-    ],
-    dungeons: [
-      { name: 'The Hall of Thanes', levels: '13-18' },
-      { name: 'Ruins of Lordaeron', levels: '15-20' },
-      { name: 'Excavation Site: Wetlands', levels: '24-29' },
-      { name: 'City of Dalaran', levels: '28-33' },
-      { name: 'The Drowned City', levels: '35-40' },
-      { name: "Krol'dok Stronghold", levels: '40-45' },
-      { name: 'Alcaz Prison', levels: '48-53' },
-      { name: 'Blackmaw Hold', levels: '55-60' },
-      { name: "Shaper's Terrace", levels: '58-60' },
-    ],
-    note: 'p1',
-  },
-  {
-    id: 'p2',
-    window: 'spring27',
-    raids: [
-      { name: '', players: 10 },
-      { name: '', players: 20 },
-    ],
-    dungeons: [],
-    dungeonsUnnamed: 2,
-    note: 'p2',
-  },
-  {
-    id: 'p3',
-    window: 'summer27',
-    raids: [
-      { name: '', players: 0, kind: 'revamp' },
-      { name: '', players: 0, kind: 'new' },
-    ],
-    dungeons: [],
-    dungeonsUnnamed: 2,
-    note: 'p3',
-  },
-];
-
 /**
  * De fase die nu live is op de realms van een era. Alleen waar dat zinvol is;
  * zonder waarde opent de pagina van die era op de laatste fase. Bijwerken
  * wanneer Blizzard een fase opent (TBC Anniversary fase 3: 27 augustus 2026).
  */
 export const livePhase: Partial<Record<BisEra, string>> = {
+  forever: 'beta',
   tbc: 'p3',
 };
 
 /** Het pad op Wowhead voor elke era, voor de zoeklink bij een item. */
 export const wowheadPath: Record<BisEra, string> = {
+  forever: 'forever',
   classic: 'classic',
   tbc: 'tbc',
   wotlk: 'wotlk',

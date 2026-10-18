@@ -23,13 +23,14 @@ import tbc from './bis-notes/tbc.json';
 import wotlk from './bis-notes/wotlk.json';
 import cata from './bis-notes/cata.json';
 import mop from './bis-notes/mop.json';
+import forever from './bis-notes/forever.json';
 
 export type NoteRow = null | string[];
 
 /** De volgorde van de talen in een rij. */
 const columns: Locale[] = ['en', 'nl', 'fr', 'es', 'it', 'de'];
 
-export const noteTable = { ...classic, ...tbc, ...wotlk, ...cata, ...mop } as Record<string, NoteRow>;
+export const noteTable = { ...classic, ...tbc, ...wotlk, ...cata, ...mop, ...forever } as Record<string, NoteRow>;
 
 const CLASS = /\b(Death Knight|Druid|Warrior|Paladin|Hunter|Rogue|Priest|Shaman|Mage|Warlock|Monk)\b/g;
 const SPEC = /\b(Beast Mastery|Balance|Feral|Guardian|Restoration|Arms|Fury|Protection|Holy|Discipline|Shadow|Retribution|Marksmanship|Survival|Assassination|Combat|Subtlety|Elemental|Enhancement|Arcane|Fire|Frost|Affliction|Demonology|Destruction|Blood|Unholy|Brewmaster|Mistweaver|Windwalker)\b/g;

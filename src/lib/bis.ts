@@ -14,7 +14,7 @@ import path from 'node:path';
 import type { Locale } from '../i18n/ui';
 import { localizePath } from '../i18n/utils';
 import { eraKeys, type EraKey } from '../config/eras';
-import { bisEras, bisTabEras, classes, isBisEra, phaseIds, type BisEra } from '../config/bis';
+import { bisTabEras, classes, isBisEra, listEras, phaseIds, type BisEra } from '../config/bis';
 
 export type BisItem = { name: string; source?: string };
 export type BisSlot = { slot: string; items: BisItem[] };
@@ -23,6 +23,11 @@ export type BisGem = { color: string; name: string };
 
 export type BisList = {
   era: BisEra;
+  /**
+   * Alleen bij Forever: de lijst voor de Horde, als die ergens verschilt van `slots`
+   * (questbeloningen). `slots` is dan de lijst voor de Alliance.
+   */
+  horde?: BisSlot[];
   phase: string;
   class: string;
   spec: string;
@@ -60,6 +65,7 @@ function readAll(): BisList[] {
       notes: raw.notes ?? '',
       updated: raw.updated ?? '',
       slots: raw.slots ?? [],
+      horde: raw.horde,
       enchants: raw.enchants ?? [],
       gems: raw.gems ?? [],
       slug: `${raw.class}-${raw.spec}`,
@@ -67,7 +73,7 @@ function readAll(): BisList[] {
   });
 
   return lists.sort((a, b) =>
-    bisEras.indexOf(a.era) - bisEras.indexOf(b.era)
+    listEras.indexOf(a.era) - listEras.indexOf(b.era)
     || phaseIds[a.era].indexOf(a.phase) - phaseIds[b.era].indexOf(b.phase)
     || a.class.localeCompare(b.class)
     || a.spec.localeCompare(b.spec));
@@ -105,8 +111,9 @@ export function lastUpdated(era: EraKey): Date | undefined {
 /** Het adres van het overzicht, een era of één lijst, in een taal. */
 export function bisPath(locale: Locale, era?: EraKey, phase?: string, slug?: string): string {
   // Met slash op het einde: zo stuurt GitHub Pages niet eerst nog door.
+  // Een lijst heeft altijd een eigen adres, ook in Forever (/bis/forever/beta/mage-frost/).
+  if (era && phase && slug) return `${localizePath(`bis/${era}/${phase}/${slug}`, locale)}/`;
   if (!era || era === 'forever') return `${localizePath('bis', locale)}/`;
-  if (phase && slug) return `${localizePath(`bis/${era}/${phase}/${slug}`, locale)}/`;
   return `${localizePath(`bis/${era}`, locale)}/`;
 }
 
@@ -124,12 +131,6 @@ export function bisPhasePath(locale: Locale, era: EraKey, phase: string): string
 /** De adressen van de era-tabs op de BiS-pagina's. */
 export function eraHrefs(locale: Locale): Partial<Record<EraKey, string>> {
   return Object.fromEntries(bisTabEras.map((key) => [key, bisPath(locale, key)]));
-}
-
-/** De era met de meeste lijsten, voor de knop in de lege staat. */
-export function largestEra(): BisEra {
-  const counts = bisEraCounts();
-  return [...bisEras].sort((a, b) => counts[b] - counts[a])[0];
 }
 
 /** Dezelfde class en spec in de andere fasen van een era. */

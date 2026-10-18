@@ -1,0 +1,595 @@
+{
+ "expansion": "forever",
+ "phase": "beta",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Best gear for the level 30 beta, three options per slot, the best first. Some quest rewards differ for the Alliance and the Horde: switch between them above the table. The beta still changes items, so this list follows each new build.",
+ "updated": "2026-10-18",
+ "enchants": [
+  {
+   "slot": "Neck",
+   "name": "Enchant Necklace - Healing Power",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Defense",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Lesser Healing Power",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Legs",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Main-Hand",
+   "name": "Enchant Weapon - Revelation",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Off-Hand",
+   "name": "Enchant Shield - Stamina",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Acolyte's Chain Helm",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Holy Shroud",
+     "source": "World drop"
+    },
+    {
+     "name": "Embalmed Shroud",
+     "source": "Fallen Champion in Scarlet Monastery Graveyard"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Stygian Bone Amulet",
+     "source": "Blind Hunter in Razorfen Kraul"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Sorcerer Collar",
+     "source": "Rethilgore in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Bloodmage Mantle",
+     "source": "Bloodmage Thalnos in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Berylline Pads",
+     "source": "Reward from the quest The Crone of the Kraul"
+    },
+    {
+     "name": "Death Speaker Mantle",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Red Wool Cloak",
+     "source": "Bazil Thredd in The Stockade"
+    },
+    {
+     "name": "Brilliant Cloak",
+     "source": "Reward from the quest Strahnbrad Mystery"
+    },
+    {
+     "name": "Repairman's Cape",
+     "source": "Reward from the quest Data Rescue"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Civinad Robes",
+     "source": "Reward from the quest The Grand Betrayal"
+    },
+    {
+     "name": "Death Speaker Robes",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    },
+    {
+     "name": "Acolyte's Silvered Chain Shirt",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Spidertank Oilrag",
+     "source": "Electrocutioner 6000 in Gnomeregan"
+    },
+    {
+     "name": "Arcane Runed Bracers",
+     "source": "Reward from the quest Wanted! Marez Cowl"
+    },
+    {
+     "name": "Bridgebreaker Bindings",
+     "source": "Kam Deepfury in The Stockade"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Truefaith Gloves",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Naga Battle Gloves",
+     "source": "Lady Sarevess in Blackfathom Deeps"
+    },
+    {
+     "name": "Prospector Gloves",
+     "source": "Reward from the quest Agmond's Fate"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Prefect's Belt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Blightleaf Rope",
+     "source": "Fel Ancient in City of Dalaran"
+    },
+    {
+     "name": "Violet Sash",
+     "source": "Reward from the quest Power Overwhelming"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Acolyte's Silvered Chain Leggings",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Ogre Loincloth",
+     "source": "Rhahk'Zor in The Deadmines"
+    },
+    {
+     "name": "Earthen Leggings",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Gilded Slippers",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Renewing Footpads",
+     "source": "Reward from the quest Heart of Disruption"
+    },
+    {
+     "name": "Rotmender's Treads",
+     "source": "Rath'mael in Ruins of Lordaeron"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Sea Giant's Toe Ring",
+     "source": "Sold by Gezzy Gunkgear (Friendly with Booty Bay)"
+    },
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Sea Giant's Toe Ring",
+     "source": "Sold by Gezzy Gunkgear (Friendly with Booty Bay)"
+    },
+    {
+     "name": "Ring of Power Regulation",
+     "source": "Relic Guardian in Excavation Site: Wetlands"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Royal Diplomatic Scepter",
+     "source": "Dark Iron Ambassador in Gnomeregan"
+    },
+    {
+     "name": "Death Speaker Scepter",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    },
+    {
+     "name": "Debt Collector",
+     "source": "Bazil Thredd in The Stockade"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Heart of Agamaggan",
+     "source": "Charlga Razorflank in Razorfen Kraul"
+    },
+    {
+     "name": "Painwalker Buckler",
+     "source": "Interrogator Vishas in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Ponderous Orb",
+     "source": "Shade of the Archmage in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Tenets of the Silver Hand",
+     "source": "Crafted with Enchanting"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Acolyte's Chain Helm",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Holy Shroud",
+     "source": "World drop"
+    },
+    {
+     "name": "Embalmed Shroud",
+     "source": "Fallen Champion in Scarlet Monastery Graveyard"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Stygian Bone Amulet",
+     "source": "Blind Hunter in Razorfen Kraul"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Sorcerer Collar",
+     "source": "Rethilgore in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Bloodmage Mantle",
+     "source": "Bloodmage Thalnos in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Berylline Pads",
+     "source": "Reward from the quest A Vengeful Fate"
+    },
+    {
+     "name": "Death Speaker Mantle",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Brilliant Cloak",
+     "source": "Reward from the quest Strahnbrad Mystery"
+    },
+    {
+     "name": "Glowing Thresher Cape",
+     "source": "Old Serra'kis in Blackfathom Deeps"
+    },
+    {
+     "name": "Thornweaver Drape",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Civinad Robes",
+     "source": "Reward from the quest Rig Wars"
+    },
+    {
+     "name": "Death Speaker Robes",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    },
+    {
+     "name": "Acolyte's Silvered Chain Shirt",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Spidertank Oilrag",
+     "source": "Electrocutioner 6000 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Truefaith Gloves",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Naga Battle Gloves",
+     "source": "Lady Sarevess in Blackfathom Deeps"
+    },
+    {
+     "name": "Acolyte's Gloves",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Prefect's Belt",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Blightleaf Rope",
+     "source": "Fel Ancient in City of Dalaran"
+    },
+    {
+     "name": "Warsong Sash",
+     "source": "Reward from the quest Warsong Supplies"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Acolyte's Silvered Chain Leggings",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Ogre Loincloth",
+     "source": "Rhahk'Zor in The Deadmines"
+    },
+    {
+     "name": "Earthen Leggings",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Gilded Slippers",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Rotmender's Treads",
+     "source": "Rath'mael in Ruins of Lordaeron"
+    },
+    {
+     "name": "Gnomebot Operating Boots",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Sea Giant's Toe Ring",
+     "source": "Sold by Gezzy Gunkgear (Friendly with Booty Bay)"
+    },
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Solid Gold Band",
+     "source": "Reward from the quest Opportunistic Education"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Sea Giant's Toe Ring",
+     "source": "Sold by Gezzy Gunkgear (Friendly with Booty Bay)"
+    },
+    {
+     "name": "Solid Gold Band",
+     "source": "Reward from the quest Opportunistic Education"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Royal Diplomatic Scepter",
+     "source": "Dark Iron Ambassador in Gnomeregan"
+    },
+    {
+     "name": "Death Speaker Scepter",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    },
+    {
+     "name": "The Stitcher",
+     "source": "Reward from the quest Light's Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Heart of Agamaggan",
+     "source": "Charlga Razorflank in Razorfen Kraul"
+    },
+    {
+     "name": "Painwalker Buckler",
+     "source": "Interrogator Vishas in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Ponderous Orb",
+     "source": "Shade of the Archmage in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Tenets of the Silver Hand",
+     "source": "Crafted with Enchanting"
+    }
+   ]
+  }
+ ]
+}

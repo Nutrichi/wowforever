@@ -5,14 +5,14 @@
  */
 import BisPhasePage from '../../../../../components/bis/BisPhasePage.astro';
 import type { EraKey } from '../../../../../config/eras';
-import { bisEras, foreverPhases } from '../../../../../config/bis';
+import { bisEras } from '../../../../../config/bis';
 import { phasesWithLists } from '../../../../../lib/bis';
 import { defaultLocale, locales, type Locale } from '../../../../../i18n/ui';
 
 export function getStaticPaths() {
   const pairs = [
     ...bisEras.flatMap((era) => phasesWithLists(era).map((phase) => ({ era: era as string, phase }))),
-    ...foreverPhases.map((phase) => ({ era: 'forever', phase: phase.id })),
+    ...phasesWithLists('forever').map((phase) => ({ era: 'forever', phase })),
   ];
   return locales
     .filter((locale) => locale !== defaultLocale)

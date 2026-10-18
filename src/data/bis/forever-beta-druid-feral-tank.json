@@ -1,0 +1,592 @@
+{
+ "expansion": "forever",
+ "phase": "beta",
+ "class": "druid",
+ "spec": "feral-tank",
+ "role": "Tank",
+ "notes": "Best gear for the level 30 beta, three options per slot, the best first. Some quest rewards differ for the Alliance and the Horde: switch between them above the table. The beta still changes items, so this list follows each new build.",
+ "updated": "2026-10-18",
+ "enchants": [
+  {
+   "slot": "Neck",
+   "name": "Enchant Necklace - Deflection",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Defense",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Enchant Chest - Superior Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Thick Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Legs",
+   "name": "Thick Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Enchant Boots - Stamina",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Two-Hand",
+   "name": "Enchant 2H Weapon - Lesser Agility",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Brawler's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Defender's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Defender's Leather Hood",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Souvenir Sea Shell",
+     "source": "Sold by Gezzy Gunkgear (Honored with Booty Bay)"
+    },
+    {
+     "name": "River Pride Choker",
+     "source": "World drop"
+    },
+    {
+     "name": "Thermaplugg Medal of Honor",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Watchman Pauldrons",
+     "source": "Trash in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Unstable Crystalline Shoulderpads",
+     "source": "Unstable Sentinel in City of Dalaran"
+    },
+    {
+     "name": "Cloudy Gustwoven Spaulders",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Fenrus' Hide",
+     "source": "Fenrus the Devourer in Shadowfang Keep"
+    },
+    {
+     "name": "Tigerstrike Mantle",
+     "source": "World drop"
+    },
+    {
+     "name": "Enduring Cape",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Raptor Hunter Tunic",
+     "source": "Reward from the quest Raptor Mastery"
+    },
+    {
+     "name": "Defender's Leather Tunic",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Raptor Hide Harness",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Barbaric Bracers",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Seadog's Battered Cuffs",
+     "source": "Reward from the quest Cracking Maury's Foot"
+    },
+    {
+     "name": "Cultist's Armguards",
+     "source": "Reward from the quest Blackfathom Villainy"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Razzeric's Racing Grips",
+     "source": "Reward from the quest Safety First"
+    },
+    {
+     "name": "Ebon Vise",
+     "source": "Fallen Champion in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Wolfclaw Gloves",
+     "source": "Trash in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Warden's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Skulker's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Prowler's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Triprunner Dungarees",
+     "source": "Reward from the quest The Grand Betrayal"
+    },
+    {
+     "name": "Defender's Leather Kilt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Panther Hunter Leggings",
+     "source": "Reward from the quest Panther Mastery"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Gnomebot Operating Boots",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    },
+    {
+     "name": "Harbinger Boots",
+     "source": "Trash in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Footpads of the Fang",
+     "source": "Lord Serpentis in Wailing Caverns"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Talvash's Gold Ring",
+     "source": "Reward from the quest Gnome Improvement"
+    },
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Rune-Etched Ring",
+     "source": "Reward from the quest Gleaning Our Future"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Talvash's Gold Ring",
+     "source": "Reward from the quest Gnome Improvement"
+    },
+    {
+     "name": "Rune-Etched Ring",
+     "source": "Reward from the quest Gleaning Our Future"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Cursed Murloc Eye",
+     "source": "Gelihast in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Heartwoven"
+    },
+    {
+     "name": "Cursed Murloc Eye",
+     "source": "Gelihast in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Defender of Dalaran",
+     "source": "Reward from the quest Heart of Disruption"
+    },
+    {
+     "name": "Slaghammer",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Manual Crowd Pummeler",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Mystic Mushroom",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Idol of Shifting Tides",
+     "source": "Reward from the quest Aquatic Form"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Brawler's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Defender's Leather Helm",
+     "source": "Crafted with Leatherworking, rare pattern"
+    },
+    {
+     "name": "Defender's Leather Hood",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Souvenir Sea Shell",
+     "source": "Sold by Gezzy Gunkgear (Honored with Booty Bay)"
+    },
+    {
+     "name": "River Pride Choker",
+     "source": "World drop"
+    },
+    {
+     "name": "Thermaplugg Medal of Honor",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Watchman Pauldrons",
+     "source": "Trash in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Unstable Crystalline Shoulderpads",
+     "source": "Unstable Sentinel in City of Dalaran"
+    },
+    {
+     "name": "Cloudy Gustwoven Spaulders",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Grimsteel Cape",
+     "source": "Reward from the quest Vorrel's Revenge"
+    },
+    {
+     "name": "Tigerstrike Mantle",
+     "source": "World drop"
+    },
+    {
+     "name": "Enduring Cape",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Raptor Hunter Tunic",
+     "source": "Reward from the quest Raptor Mastery"
+    },
+    {
+     "name": "Defender's Leather Tunic",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Raptor Hide Harness",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Barbaric Bracers",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Seadog's Battered Cuffs",
+     "source": "Reward from the quest Cracking Maury's Foot"
+    },
+    {
+     "name": "Cultist's Armguards",
+     "source": "Reward from the quest Blackfathom Villainy"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Razzeric's Racing Grips",
+     "source": "Reward from the quest Safety First"
+    },
+    {
+     "name": "Ebon Vise",
+     "source": "Fallen Champion in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Wolfclaw Gloves",
+     "source": "Trash in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Warden's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Skulker's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Prowler's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Triprunner Dungarees",
+     "source": "Reward from the quest Rig Wars"
+    },
+    {
+     "name": "Defender's Leather Kilt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Panther Hunter Leggings",
+     "source": "Reward from the quest Panther Mastery"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Gnomebot Operating Boots",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    },
+    {
+     "name": "Harbinger Boots",
+     "source": "Trash in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Warsong Boots",
+     "source": "Reward from the quest Warsong Supplies"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Seal of Sylvanas",
+     "source": "Reward from the quest Arugal Must Die"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Wyvern Heart Band",
+     "source": "Dropped by the rare Heartrazor"
+    },
+    {
+     "name": "Field Researcher's Loop",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Seal of Sylvanas",
+     "source": "Reward from the quest Arugal Must Die"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Transformative Cocoon",
+     "source": "Reward from the quest The Broodmother"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Satchel of Potions",
+     "source": "Reward from the quest Changing Tastes"
+    },
+    {
+     "name": "Transformative Cocoon",
+     "source": "Reward from the quest The Broodmother"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Striking Staff",
+     "source": "Reward from the quest Heart of Disruption"
+    },
+    {
+     "name": "Slaghammer",
+     "source": "Trash in Razorfen Kraul"
+    },
+    {
+     "name": "Manual Crowd Pummeler",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Mystic Mushroom",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Idol of Shifting Tides",
+     "source": "Reward from the quest Aquatic Form"
+    }
+   ]
+  }
+ ]
+}

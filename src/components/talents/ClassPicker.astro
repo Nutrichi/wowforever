@@ -1,0 +1,389 @@
+---
+/*
+ * De Class Picker voor nieuwe spelers op /class-picker/ (Nutri, 19 oktober 2026).
+ *
+ * Eén vraag tegelijk, met een balk die toont hoe ver je bent en een knop terug.
+ * Na de laatste vraag de uitslag: de class met de meeste punten, de spec om mee te
+ * beginnen (uit de rol en de afstand die je koos), twee classes die ook passen, onze
+ * keuze per activiteit, de rassen per factie en de links naar de gids, de levelbuild,
+ * de talentcalculator en de BiS-lijst. De vragen, punten en aanbevelingen staan in
+ * src/data/class-picker.ts, de vaste woorden in src/i18n/class-picker.ts.
+ *
+ * Alle vragen en alle negen uitslagen staan in de HTML; het script toont er telkens
+ * één. Er gaat niets naar een server.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CalcSwitch from './CalcSwitch.astro';
+import { pickT } from '../../i18n/class-picker';
+import { bisSlug, classOrder, pickerClasses, pickerQuestions, type Activity } from '../../data/class-picker';
+import { classes as classColors } from '../../config/bis';
+import { getPages, pagePath } from '../../lib/pages';
+import { levelingBuilds } from '../../lib/leveling';
+import { bisPath, listsForEra } from '../../lib/bis';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import '../../styles/guides.css';
+import '../../styles/talents.css';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = pickT(locale);
+const ui = useTranslations(locale);
+const base = localizePath('class-picker', locale);
+
+const pages = await getPages(locale);
+const builds = new Set(levelingBuilds().map((build) => build.id));
+const bisSlugs = new Set(listsForEra('forever').map((list) => list.slug));
+const bisHref = (slug: string) => (bisSlugs.has(slug) ? bisPath(locale, 'forever', 'beta', slug) : undefined);
+const activities: Activity[] = ['leveling', 'dungeons', 'raids', 'solo', 'pvp'];
+
+const results = classOrder.map((id) => {
+  const klass = pickerClasses[id];
+  const guideKey = `guides/${id}-leveling`;
+  return {
+    ...klass,
+    color: classColors[id]?.color ?? '#e0b77a',
+    links: [
+      pages.some((page) => page.key === guideKey) ? { label: t('guide'), href: pagePath(guideKey, locale) } : null,
+      builds.has(id) ? { label: t('build'), href: `${localizePath('leveling', locale)}/${id}/` } : null,
+      { label: t('talents'), href: `${localizePath('talents', locale)}/${id}/` },
+    ].filter((link): link is { label: string; href: string } => !!link),
+  };
+});
+
+/* Voor het script: punten per antwoord, en per class de spec per rol en de BiS-link per spec. */
+const payload = {
+  questions: pickerQuestions.map((question) => question.answers.map((answer) => ({
+    w: answer.weights, role: answer.role, range: answer.range, faction: answer.faction,
+  }))),
+  order: classOrder,
+  classes: Object.fromEntries(classOrder.map((id) => {
+    const klass = pickerClasses[id];
+    const specs = new Set([klass.start.tank, klass.start.healer, klass.start.damage, klass.start.damageRanged, klass.start.damageMelee].filter(Boolean) as string[]);
+    return [id, {
+      name: klass.name,
+      start: klass.start,
+      // De tank-spec apart (`Feral|tank`): Feral Druid heeft een lijst als kat en een als beer.
+      bis: Object.fromEntries([
+        ...[...specs].map((spec) => [spec, bisHref(bisSlug(id, spec)) ?? '']),
+        ...(klass.start.tank ? [[`${klass.start.tank}|tank`, bisHref(bisSlug(id, klass.start.tank, 'tank')) ?? '']] : []),
+      ]),
+    }];
+  })),
+  words: { tank: t('tank'), healer: t('healer'), damage: t('damage'), bis: t('bis') },
+};
+
+const crumbs = [
+  { name: ui('crumb.home'), path: localizePath('', locale) },
+  { name: ui('nav.talents'), path: `${localizePath('talents', locale)}/` },
+  { name: t('switch'), path: `${base}/` },
+];
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    breadcrumbJsonLd(crumbs, Astro.site),
+    {
+      '@type': 'WebApplication',
+      name: t('title'),
+      description: t('description'),
+      applicationCategory: 'GameApplication',
+      operatingSystem: 'Web',
+      offers: { '@type': 'Offer', price: '0', priceCurrency: 'EUR' },
+      url: new URL(`${base}/`, Astro.site).href,
+    },
+  ],
+};
+---
+
+<BaseLayout locale={locale} title={t('metaTitle')} description={t('description')}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+
+  <div class="wf-talents wf-picker" data-picker>
+    <CalcSwitch locale={locale} base={localizePath('talents', locale)} current="picker" />
+
+    <header class="wf-ghead">
+      <div class="wf-ghead__main">
+        <h1 class="wf-ghead__title">{t('title')}</h1>
+      </div>
+    </header>
+
+    <noscript><p class="wf-picker__intro">{t('noscript')}</p></noscript>
+
+    <section class="wf-picker__card" data-step="start">
+      <p class="wf-picker__intro">{t('intro')}</p>
+      <button type="button" class="wf-btn wf-btn--primary" data-begin>{t('start')}</button>
+    </section>
+
+    <div class="wf-picker__quiz" data-quiz hidden>
+      <div class="wf-picker__progress">
+        <button type="button" class="wf-picker__back" data-back>← {t('back')}</button>
+        <span class="wf-picker__count" data-count data-template={t('question', { n: '{n}', total: '{total}' })}></span>
+        <span class="wf-picker__bar" aria-hidden="true"><span data-bar></span></span>
+      </div>
+
+      {pickerQuestions.map((question, index) => (
+        <fieldset class="wf-picker__card wf-picker__q" data-q={index} hidden>
+          <legend class="wf-picker__question">{question.text[locale]}</legend>
+          <div class="wf-picker__answers">
+            {question.answers.map((answer, a) => (
+              <button type="button" class="wf-picker__answer" data-answer={a}>{answer.text[locale]}</button>
+            ))}
+          </div>
+        </fieldset>
+      ))}
+    </div>
+
+    {results.map((result) => (
+      <section class="wf-picker__card wf-picker__result" data-result={result.id} hidden style={`--wf-class: ${result.color};`}>
+        <p class="wf-picker__eyebrow">{t('yourClass')}</p>
+        <h2 class="wf-picker__class"><span class="wf-picker__diamond" aria-hidden="true"></span>{result.name}</h2>
+        <p class="wf-picker__pitch">{result.pitch[locale]}</p>
+        <p class="wf-picker__start">{t('startWith')} <strong data-start-spec></strong> <a class="wf-picker__bis" data-start-bis hidden>{t('bis')} →</a></p>
+
+        <h3 class="wf-glabel">{t('perActivity')}</h3>
+        <dl class="wf-picker__picks">
+          {activities.map((activity) => (
+            <div class="wf-picker__pick">
+              <dt>{t(activity)}</dt>
+              <dd>
+                {result.picks[activity].map((pick, index) => (
+                  <>
+                    {index > 0 && <span class="wf-picker__or"> / </span>}
+                    <span class="wf-picker__spec">{pick.spec}</span>
+                    {pick.role && <span class="wf-picker__role"> ({t(pick.role)})</span>}
+                  </>
+                ))}
+              </dd>
+            </div>
+          ))}
+        </dl>
+
+        <h3 class="wf-glabel">{t('races')}</h3>
+        <dl class="wf-picker__races">
+          <div data-race="alliance"><dt>Alliance</dt><dd>{result.races.alliance}</dd></div>
+          <div data-race="horde"><dt>Horde</dt><dd>{result.races.horde}</dd></div>
+        </dl>
+
+        <p class="wf-picker__also" data-also hidden>{t('alsoFit')}: <span data-also-list></span></p>
+
+        <div class="wf-picker__links">
+          {result.links.map((link) => <a class="wf-btn" href={link.href}>{link.label}</a>)}
+          <button type="button" class="wf-btn wf-btn--primary" data-restart>{t('restart')}</button>
+        </div>
+      </section>
+    ))}
+  </div>
+
+  <script type="application/json" id="wf-picker-data" set:html={JSON.stringify(payload)} />
+</BaseLayout>
+
+<style>
+  .wf-picker { padding-block: 6px 40px; }
+
+  .wf-picker__card {
+    margin: 14px 0 0;
+    padding: 20px 22px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card);
+    background: var(--wf-raised);
+  }
+  .wf-picker__card[hidden], .wf-picker__quiz[hidden] { display: none; }
+  fieldset.wf-picker__card { min-width: 0; }
+
+  .wf-picker__intro { margin: 0 0 14px; font-size: 15px; color: var(--wf-body); }
+
+  .wf-picker__progress { display: flex; align-items: center; gap: 14px; margin-top: 14px; }
+  .wf-picker__back {
+    padding: 0;
+    border: 0;
+    background: none;
+    font: inherit;
+    font-size: 13.5px;
+    color: var(--wf-muted);
+    cursor: pointer;
+  }
+  .wf-picker__back:hover { color: var(--wf-ink); }
+  .wf-picker__back:disabled { visibility: hidden; }
+  .wf-picker__count { font-size: 13px; color: var(--wf-label); white-space: nowrap; }
+  .wf-picker__bar { flex: 1; height: 6px; border-radius: 999px; background: var(--wf-border); overflow: hidden; }
+  .wf-picker__bar span { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--wf-accent-deep), var(--wf-accent)); transition: width .2s ease; }
+
+  /* Een legend staat standaard op de rand van de fieldset; zo staat hij erin. */
+  .wf-picker__question {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 14px;
+    font-family: var(--wf-display);
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1.25;
+    color: var(--wf-ink);
+  }
+  .wf-picker__answers { clear: both; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px; }
+  .wf-picker__answer {
+    padding: 12px 14px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card-sm, 10px);
+    background: var(--wf-raised-soft);
+    font: inherit;
+    font-size: 15px;
+    text-align: left;
+    color: var(--wf-ink-soft);
+    cursor: pointer;
+    transition: border-color .15s ease, background-color .15s ease;
+  }
+  .wf-picker__answer:hover, .wf-picker__answer:focus-visible { border-color: var(--wf-accent-deep); background: var(--wf-accent-wash); color: var(--wf-ink); }
+  .wf-picker__answer[aria-pressed="true"] { border-color: var(--wf-accent); background: var(--wf-accent-wash); color: var(--wf-accent-bright); }
+
+  .wf-picker__result { border-top: 3px solid var(--wf-class); }
+  .wf-picker__eyebrow { font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--wf-label); }
+  .wf-picker__class { display: flex; align-items: center; gap: 12px; margin-top: 4px; font-size: 34px; line-height: 1.1; color: var(--wf-ink); }
+  .wf-picker__diamond { width: 16px; height: 16px; transform: rotate(45deg); background: var(--wf-class); box-shadow: 0 0 12px var(--wf-class); }
+  .wf-picker__pitch { margin-top: 8px; font-size: 15.5px; line-height: 1.55; color: var(--wf-body); }
+  .wf-picker__start { margin: 12px 0 20px; font-size: 16px; color: var(--wf-muted); }
+  .wf-picker__start strong { font-family: var(--wf-display); font-size: 19px; color: var(--wf-accent-bright); }
+  .wf-picker__bis { margin-left: 10px; font-size: 13.5px; color: var(--wf-accent); }
+  .wf-picker__bis[hidden] { display: none; }
+
+  .wf-picker__picks, .wf-picker__races {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 8px;
+    margin: 0 0 18px;
+  }
+  .wf-picker__pick, .wf-picker__races > div {
+    padding: 9px 12px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card-sm, 10px);
+    background: var(--wf-raised-soft);
+  }
+  .wf-picker__picks dt, .wf-picker__races dt { font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--wf-label); }
+  .wf-picker__picks dd, .wf-picker__races dd { margin: 3px 0 0; font-size: 14.5px; color: var(--wf-ink); }
+  .wf-picker__spec { font-weight: 700; }
+  .wf-picker__role, .wf-picker__or { color: var(--wf-muted); font-size: 13px; }
+  .wf-picker__races { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+  .wf-picker__races > div.is-mine { border-color: var(--wf-accent-deep); }
+  .wf-picker__races > div.is-other { opacity: .55; }
+
+  .wf-picker__also { margin: 0 0 16px; font-size: 14.5px; color: var(--wf-muted); }
+  .wf-picker__also[hidden] { display: none; }
+  .wf-picker__links { display: flex; flex-wrap: wrap; gap: 8px; }
+
+  @media (max-width: 599px) {
+    .wf-picker__card { padding: 16px; }
+    .wf-picker__question { font-size: 18px; }
+    .wf-picker__class { font-size: 28px; }
+  }
+</style>
+
+<script>
+  type Data = {
+    questions: { w: Record<string, number>; role?: string; range?: string; faction?: string }[][];
+    order: string[];
+    classes: Record<string, { name: string; start: Record<string, string | undefined>; bis: Record<string, string> }>;
+    words: Record<string, string>;
+  };
+
+  const root = document.querySelector<HTMLElement>('[data-picker]');
+  const raw = document.getElementById('wf-picker-data')?.textContent;
+
+  if (root && raw) {
+    const data = JSON.parse(raw) as Data;
+    const start = root.querySelector<HTMLElement>('[data-step="start"]')!;
+    const quiz = root.querySelector<HTMLElement>('[data-quiz]')!;
+    const steps = Array.from(root.querySelectorAll<HTMLElement>('[data-q]'));
+    const results = Array.from(root.querySelectorAll<HTMLElement>('[data-result]'));
+    const back = root.querySelector<HTMLButtonElement>('[data-back]')!;
+    const count = root.querySelector<HTMLElement>('[data-count]')!;
+    const bar = root.querySelector<HTMLElement>('[data-bar]')!;
+
+    let answers: number[] = [];
+
+    const showStep = (index: number) => {
+      start.hidden = true;
+      results.forEach((result) => { result.hidden = true; });
+      quiz.hidden = false;
+      steps.forEach((step, i) => { step.hidden = i !== index; });
+      steps[index].querySelectorAll<HTMLButtonElement>('[data-answer]').forEach((button) => {
+        button.setAttribute('aria-pressed', String(Number(button.dataset.answer) === answers[index]));
+      });
+      count.textContent = (count.dataset.template ?? '{n} / {total}').replace('{n}', String(index + 1)).replace('{total}', String(steps.length));
+      bar.style.width = `${(index / steps.length) * 100}%`;
+      back.disabled = index === 0;
+      root.scrollIntoView({ block: 'start', behavior: 'smooth' });
+    };
+
+    const finish = () => {
+      const scores: Record<string, number> = Object.fromEntries(data.order.map((id) => [id, 0]));
+      let role: string | undefined;
+      let range: string | undefined;
+      let faction: string | undefined;
+      answers.forEach((a, q) => {
+        const answer = data.questions[q][a];
+        for (const [id, points] of Object.entries(answer.w)) scores[id] += points;
+        role = answer.role ?? role;
+        range = answer.range ?? range;
+        faction = answer.faction ?? faction;
+      });
+      const ranked = [...data.order].sort((a, b) => scores[b] - scores[a] || data.order.indexOf(a) - data.order.indexOf(b));
+      const winner = ranked[0];
+      const klass = data.classes[winner];
+
+      let spec = klass.start.damage!;
+      let label = data.words.damage;
+      if (role === 'tank' && klass.start.tank) { spec = klass.start.tank; label = data.words.tank; }
+      else if (role === 'healer' && klass.start.healer) { spec = klass.start.healer; label = data.words.healer; }
+      else if (range === 'ranged' && klass.start.damageRanged) spec = klass.start.damageRanged;
+      else if (range === 'melee' && klass.start.damageMelee) spec = klass.start.damageMelee;
+
+      quiz.hidden = true;
+      results.forEach((result) => {
+        const mine = result.dataset.result === winner;
+        result.hidden = !mine;
+        if (!mine) return;
+        result.querySelector<HTMLElement>('[data-start-spec]')!.textContent = `${spec} ${klass.name} (${label})`;
+        const link = result.querySelector<HTMLAnchorElement>('[data-start-bis]')!;
+        const href = (label === data.words.tank && klass.bis[`${spec}|tank`]) || klass.bis[spec];
+        link.hidden = !href;
+        if (href) link.href = href;
+        const also = result.querySelector<HTMLElement>('[data-also]')!;
+        result.querySelector<HTMLElement>('[data-also-list]')!.textContent = ranked.slice(1, 3).map((id) => data.classes[id].name).join(', ');
+        also.hidden = false;
+        result.querySelectorAll<HTMLElement>('[data-race]').forEach((row) => {
+          row.classList.toggle('is-mine', !!faction && row.dataset.race === faction);
+          row.classList.toggle('is-other', !!faction && row.dataset.race !== faction);
+        });
+      });
+      bar.style.width = '100%';
+      root.scrollIntoView({ block: 'start', behavior: 'smooth' });
+    };
+
+    root.querySelector('[data-begin]')?.addEventListener('click', () => { answers = []; showStep(0); });
+
+    steps.forEach((step, index) => {
+      step.querySelectorAll<HTMLButtonElement>('[data-answer]').forEach((button) => {
+        button.addEventListener('click', () => {
+          answers[index] = Number(button.dataset.answer);
+          answers = answers.slice(0, index + 1);
+          if (index + 1 < steps.length) showStep(index + 1);
+          else finish();
+        });
+      });
+    });
+
+    back.addEventListener('click', () => {
+      const current = steps.findIndex((step) => !step.hidden);
+      if (current > 0) showStep(current - 1);
+    });
+
+    root.querySelectorAll('[data-restart]').forEach((button) => button.addEventListener('click', () => {
+      answers = [];
+      showStep(0);
+    }));
+  }
+</script>

@@ -1,0 +1,602 @@
+{
+ "expansion": "forever",
+ "phase": "beta",
+ "class": "druid",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Best gear for the level 30 beta, three options per slot, the best first. Some quest rewards differ for the Alliance and the Horde: switch between them above the table. The beta still changes items, so this list follows each new build.",
+ "updated": "2026-10-18",
+ "enchants": [
+  {
+   "slot": "Neck",
+   "name": "Enchant Necklace - Healing Power",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Back",
+   "name": "Enchant Cloak - Greater Defense",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Chest",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Wrists",
+   "name": "Enchant Bracer - Lesser Healing Power",
+   "source": "Enchanting"
+  },
+  {
+   "slot": "Hands",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Legs",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Feet",
+   "name": "Mystic Heavy Armor Kit",
+   "source": "Leatherworking"
+  },
+  {
+   "slot": "Main-Hand",
+   "name": "Enchant Weapon - Insight",
+   "source": "Enchanting"
+  }
+ ],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Embalmed Shroud",
+     "source": "Fallen Champion in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Holy Shroud",
+     "source": "World drop"
+    },
+    {
+     "name": "Geomancer Headdress",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Stygian Bone Amulet",
+     "source": "Blind Hunter in Razorfen Kraul"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Giantstone Medallion",
+     "source": "Reward from the quest Gleaning Our Future"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Bloodmage Mantle",
+     "source": "Bloodmage Thalnos in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Berylline Pads",
+     "source": "Reward from the quest The Crone of the Kraul"
+    },
+    {
+     "name": "Death Speaker Mantle",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Red Wool Cloak",
+     "source": "Bazil Thredd in The Stockade"
+    },
+    {
+     "name": "Brilliant Cloak",
+     "source": "Reward from the quest Strahnbrad Mystery"
+    },
+    {
+     "name": "Glowing Thresher Cape",
+     "source": "Old Serra'kis in Blackfathom Deeps"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Civinad Robes",
+     "source": "Reward from the quest The Grand Betrayal"
+    },
+    {
+     "name": "Death Speaker Robes",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    },
+    {
+     "name": "Pristine Gown",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Spidertank Oilrag",
+     "source": "Electrocutioner 6000 in Gnomeregan"
+    },
+    {
+     "name": "Arcane Runed Bracers",
+     "source": "Reward from the quest Wanted! Marez Cowl"
+    },
+    {
+     "name": "Bridgebreaker Bindings",
+     "source": "Kam Deepfury in The Stockade"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Truefaith Gloves",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Naga Battle Gloves",
+     "source": "Lady Sarevess in Blackfathom Deeps"
+    },
+    {
+     "name": "Restorer's Fine Gloves",
+     "source": "Reward from the quest Agmond's Fate"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Mender's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Blightleaf Rope",
+     "source": "Fel Ancient in City of Dalaran"
+    },
+    {
+     "name": "Belt of Arugal",
+     "source": "Archmage Arugal in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Pristine Leggings",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Wisdom's Leather Leggings",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Ogre Loincloth",
+     "source": "Rhahk'Zor in The Deadmines"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Gilded Slippers",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Renewing Footpads",
+     "source": "Reward from the quest Heart of Disruption"
+    },
+    {
+     "name": "Rotmender's Treads",
+     "source": "Rath'mael in Ruins of Lordaeron"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Sea Giant's Toe Ring",
+     "source": "Sold by Gezzy Gunkgear (Friendly with Booty Bay)"
+    },
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Runemender's Seal",
+     "source": "Arcane Anomaly in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Sea Giant's Toe Ring",
+     "source": "Sold by Gezzy Gunkgear (Friendly with Booty Bay)"
+    },
+    {
+     "name": "Runemender's Seal",
+     "source": "Arcane Anomaly in City of Dalaran"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Royal Diplomatic Scepter",
+     "source": "Dark Iron Ambassador in Gnomeregan"
+    },
+    {
+     "name": "Death Speaker Scepter",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    },
+    {
+     "name": "Swinetusk Shank",
+     "source": "Agathelos the Raging in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Orb of Souls",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Ponderous Orb",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Eye of Paleth",
+     "source": "Reward from the quest Cleansing the Eye"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Mystic Mushroom",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Idol of Shifting Tides",
+     "source": "Reward from the quest Aquatic Form"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Embalmed Shroud",
+     "source": "Fallen Champion in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Holy Shroud",
+     "source": "World drop"
+    },
+    {
+     "name": "Geomancer Headdress",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Stygian Bone Amulet",
+     "source": "Blind Hunter in Razorfen Kraul"
+    },
+    {
+     "name": "Archmagister's Faceted Pendant",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Thermaplugg Medal of Honor",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Bloodmage Mantle",
+     "source": "Bloodmage Thalnos in Scarlet Monastery Graveyard"
+    },
+    {
+     "name": "Berylline Pads",
+     "source": "Reward from the quest A Vengeful Fate"
+    },
+    {
+     "name": "Death Speaker Mantle",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Brilliant Cloak",
+     "source": "Reward from the quest Strahnbrad Mystery"
+    },
+    {
+     "name": "Glowing Thresher Cape",
+     "source": "Old Serra'kis in Blackfathom Deeps"
+    },
+    {
+     "name": "Thornweaver Drape",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Civinad Robes",
+     "source": "Reward from the quest Rig Wars"
+    },
+    {
+     "name": "Death Speaker Robes",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    },
+    {
+     "name": "Pristine Gown",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Spidertank Oilrag",
+     "source": "Electrocutioner 6000 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Truefaith Gloves",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Naga Battle Gloves",
+     "source": "Lady Sarevess in Blackfathom Deeps"
+    },
+    {
+     "name": "Wisdom's Leather Gloves",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Mender's Leather Belt",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Blightleaf Rope",
+     "source": "Fel Ancient in City of Dalaran"
+    },
+    {
+     "name": "Belt of Arugal",
+     "source": "Archmage Arugal in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Pristine Leggings",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Wisdom's Leather Leggings",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Ogre Loincloth",
+     "source": "Rhahk'Zor in The Deadmines"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Gilded Slippers",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Rotmender's Treads",
+     "source": "Rath'mael in Ruins of Lordaeron"
+    },
+    {
+     "name": "Gnomebot Operating Boots",
+     "source": "Crowd Pummeler 9-60 in Gnomeregan"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Sea Giant's Toe Ring",
+     "source": "Sold by Gezzy Gunkgear (Friendly with Booty Bay)"
+    },
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Solid Gold Band",
+     "source": "Reward from the quest Opportunistic Education"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Philanthropist's Ring",
+     "source": "Reward for reading 20 Library Books"
+    },
+    {
+     "name": "Sea Giant's Toe Ring",
+     "source": "Sold by Gezzy Gunkgear (Friendly with Booty Bay)"
+    },
+    {
+     "name": "Solid Gold Band",
+     "source": "Reward from the quest Opportunistic Education"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    },
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Roogug's Severed Head",
+     "source": "Roogug in Razorfen Kraul"
+    },
+    {
+     "name": "Worgenbane Talisman",
+     "source": "Commander Springvale in Shadowfang Keep"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Royal Diplomatic Scepter",
+     "source": "Dark Iron Ambassador in Gnomeregan"
+    },
+    {
+     "name": "Death Speaker Scepter",
+     "source": "Death Speaker Jargba in Razorfen Kraul"
+    },
+    {
+     "name": "The Stitcher",
+     "source": "Reward from the quest Light's Justice"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Orb of Souls",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Ponderous Orb",
+     "source": "Shade of the Archmage in City of Dalaran"
+    },
+    {
+     "name": "Omega Orb",
+     "source": "Reward from the quest Compendium of the Fallen (Orc / Tauren / Troll only)"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Mystic Mushroom",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Idol of Shifting Tides",
+     "source": "Reward from the quest Aquatic Form"
+    }
+   ]
+  }
+ ]
+}

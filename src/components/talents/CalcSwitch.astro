@@ -26,6 +26,7 @@ import type { Locale } from '../../i18n/ui';
 import { talT } from '../../i18n/talents';
 import { levT } from '../../i18n/leveling';
 import { raidT } from '../../i18n/raid';
+import { pickT } from '../../i18n/class-picker';
 import { localizePath } from '../../i18n/utils';
 import { talentClasses } from '../../lib/talents';
 
@@ -34,13 +35,14 @@ interface Props {
   /** Het pad van `/talents/` in deze taal, zonder slash op het einde. */
   base: string;
   /** Welke van de vier je nu bekijkt. */
-  current: 'talents' | 'legacy' | 'leveling' | 'raid';
+  current: 'talents' | 'legacy' | 'leveling' | 'raid' | 'picker';
 }
 
 const { locale, base, current } = Astro.props;
 const t = talT(locale);
 const lev = levT(locale);
 const raid = raidT(locale);
+const pick = pickT(locale);
 const first = talentClasses()[0]?.id ?? 'druid';
 ---
 
@@ -65,4 +67,9 @@ const first = talentClasses()[0]?.id ?? 'druid';
     href={`${localizePath('leveling', locale)}/`}
     aria-current={current === 'leveling' ? 'page' : undefined}
   >{lev('switch')}</a>
+  <a
+    class:list={['wf-calcswitch__item', { 'is-current': current === 'picker' }]}
+    href={`${localizePath('class-picker', locale)}/`}
+    aria-current={current === 'picker' ? 'page' : undefined}
+  >{pick('switch')}</a>
 </nav>

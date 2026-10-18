@@ -17,7 +17,7 @@ import { bisEraCounts, bisPath, bisPhasePath, phasesWithLists } from '../lib/bis
 import { guidePath } from '../lib/guides';
 import { getPages } from '../lib/pages';
 import { getReputations, reputationPath } from '../lib/reputations';
-import { bisEras, foreverPhases, phaseContent } from '../config/bis';
+import { bisEras, phaseContent } from '../config/bis';
 import { eras } from '../config/eras';
 
 export const GET: APIRoute = async ({ site }) => {
@@ -48,18 +48,8 @@ export const GET: APIRoute = async ({ site }) => {
      * en "bis molten core" op uitkomen, en een taalmodel dat dit leest weet
      * meteen welke raids bij welke fase horen (PROJECT_SPEC.md §11).
      */
-    ...foreverPhases.map((phase) => {
-      /* Een fase zonder namen zegt wat er wél bekend is: de groepsgroottes. */
-      const names = phase.raids.some((raid) => raid.name)
-        ? phase.raids.map((raid) => (raid.players ? `${raid.name} (${raid.players} players)` : raid.name)).filter(Boolean).join(', ')
-        : phase.raids.map((raid) => (raid.kind === 'revamp'
-          ? 'a revamped iconic raid, not named yet'
-          : raid.players ? `a new raid for ${raid.players} players, not named yet` : 'a raid, not named yet')).join(', ');
-      const dungeons = phase.dungeons.length
-        ? phase.dungeons.map((dungeon) => `${dungeon.name} (levels ${dungeon.levels})`).join(', ')
-        : phase.dungeonsUnnamed ? `${phase.dungeonsUnnamed} new dungeons, not named yet` : '';
-      return `- [WoW Forever BiS ${phase.id.replace('p', 'phase ')}](${url(bisPhasePath(defaultLocale, 'forever', phase.id))}): what opens in this phase of WoW Forever${names ? `. Raids: ${names}` : ''}${dungeons ? `. Dungeons: ${dungeons}` : ''}. Best-in-slot lists follow as soon as there is item data.`;
-    }),
+    // De lijsten van de beta op level 30 (18 oktober 2026), met Alliance en Horde.
+    ...phasesWithLists('forever').map((phase) => `- [WoW Forever BiS for the ${phase} at level 30](${url(bisPhasePath(defaultLocale, 'forever', phase))}): best-in-slot gear for the level 30 beta of WoW Forever, one list per class and spec with three options per slot, separate Alliance and Horde items, and enchants. Items come from the level 30 dungeons, quests, tradeskills and world drops.`),
     ...bisReady.flatMap((era) =>
       phasesWithLists(era).map((phase) => {
         const content = phaseContent[era]?.[phase];
@@ -72,6 +62,7 @@ export const GET: APIRoute = async ({ site }) => {
     `- [Classes](${url(guidePath('classes', defaultLocale))}): leveling guides per class and spec for each era, plus what is known about classes, race and class combinations and racials in WoW Forever.`,
     `- [Tradeskills](${url(guidePath('tradeskills', defaultLocale))}): tradeskill guides for each era, plus the tradeskill perks and Legacy perks of WoW Forever.`,
     `- [Tools](${url(localizePath('talents', defaultLocale))}/): the WoW Forever talent calculator, with all nine classes and their three trees, and the Legacy calculator for the account-wide Legacy perks. A build is shareable as a link.`,
+    `- [Class picker](${url(localizePath('class-picker', defaultLocale))}/): 14 short questions for new players of WoW Forever that pick a class and a spec, with our spec pick for leveling, dungeons, raids, solo play and PvP, the races per faction and links to the guide, level build, talent calculator and BiS list.`,
     `- [Raid planner](${url(localizePath('raid', defaultLocale))}/): the WoW Forever raid planner for 5, 10, 20 and 40 players. It shows every raid buff, group buff and boss debuff the raid brings, sorts the groups for the best buffs in one click, and shares the raid as a link.`,
     ...(factions.length
       ? [`- [Reputations](${url(reputationPath(defaultLocale))}): reputation guides per faction for WoW Forever. The Azeroth Commerce Authority and Durotar Supply and Logistics are Forever's own factions from the beta; the rest start from the factions of Classic Era until Forever shows its own. Per faction: the standings, the fastest way to farm reputation and the rewards per standing.`]

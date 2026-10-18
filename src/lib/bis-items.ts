@@ -36,7 +36,8 @@ const wowheadLocale: Partial<Record<Locale, string>> = {
 
 /** De uitbreiding en de taal samen, zoals ze in elke Wowhead-link staan. */
 function wowheadBase(era: BisEra, locale: Locale): string {
-  const language = wowheadLocale[locale];
+  // Forever linkt overal op de site zonder taal, zoals de links van tools/whlinks.
+  const language = era === 'forever' ? undefined : wowheadLocale[locale];
   return `https://www.wowhead.com/${wowheadPath[era]}${language ? `/${language}` : ''}`;
 }
 

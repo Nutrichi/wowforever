@@ -111,7 +111,7 @@ export function isCurrent(itemPath: string, pathname: string): boolean {
    */
   if (a === 'talents' || a.endsWith('/talents')) {
     const prefix = a.slice(0, -'talents'.length);
-    if (['leveling', 'raid'].some((tool) => b === `${prefix}${tool}` || b.startsWith(`${prefix}${tool}/`))) return true;
+    if (['leveling', 'raid', 'class-picker'].some((tool) => b === `${prefix}${tool}` || b.startsWith(`${prefix}${tool}/`))) return true;
   }
   return b === a || b.startsWith(`${a}/`);
 }

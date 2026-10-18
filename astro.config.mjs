@@ -65,6 +65,30 @@ export default defineConfig({
     '/de/guides/hall-of-thanes-quests': '/de/guides/dungeons/hall-of-thanes',
 
     /*
+     * De drie fasen van de Forever-roadmap hadden tot 19 oktober 2026 een eigen
+     * pagina onder BIS, zonder lijsten. Wat er per fase opengaat staat nu op
+     * /forever/, de algemene pagina over WoW Forever (Nutri).
+     */
+    '/bis/forever/p1': '/forever/',
+    '/bis/forever/p2': '/forever/',
+    '/bis/forever/p3': '/forever/',
+    '/nl/bis/forever/p1': '/nl/forever/',
+    '/nl/bis/forever/p2': '/nl/forever/',
+    '/nl/bis/forever/p3': '/nl/forever/',
+    '/fr/bis/forever/p1': '/fr/forever/',
+    '/fr/bis/forever/p2': '/fr/forever/',
+    '/fr/bis/forever/p3': '/fr/forever/',
+    '/es/bis/forever/p1': '/es/forever/',
+    '/es/bis/forever/p2': '/es/forever/',
+    '/es/bis/forever/p3': '/es/forever/',
+    '/it/bis/forever/p1': '/it/forever/',
+    '/it/bis/forever/p2': '/it/forever/',
+    '/it/bis/forever/p3': '/it/forever/',
+    '/de/bis/forever/p1': '/de/forever/',
+    '/de/bis/forever/p2': '/de/forever/',
+    '/de/bis/forever/p3': '/de/forever/',
+
+    /*
      * De korte link wowforever.be/rxp staat hier niet meer, maar in
      * public/rxp.html (Nutri, 6 oktober 2026: "I want to go INSTANT to my
      * referral link. No delay."). Een redirect van Astro wordt rxp/index.html:

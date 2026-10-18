@@ -23,8 +23,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import EraTabs from '../EraTabs.astro';
 import BisSpecPill from './BisSpecPill.astro';
 import PhaseContents from './PhaseContents.astro';
-import ForeverPhaseCard from './ForeverPhaseCard.astro';
-import { bisTabEras, foreverPhases, isBisEra, phaseContent } from '../../config/bis';
+import { bisTabEras, isBisEra, phaseContent } from '../../config/bis';
 import { bisEraCounts, bisPath, bisPhasePath, eraHrefs, listsForEra, phasesWithLists } from '../../lib/bis';
 import { bisT, phaseLabel } from '../../i18n/bis';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
@@ -44,28 +43,30 @@ const forever = era === 'forever';
 const lists = isBisEra(era)
   ? listsForEra(era).filter((list) => list.phase === phase)
   : [];
-const phases = forever ? foreverPhases.map((p) => p.id) : phasesWithLists(era as never);
+const phases = phasesWithLists(era as never);
 const raids = (isBisEra(era) && phaseContent[era]?.[phase]?.raids.join(', ')) || '';
 const label = phaseLabel(phase, locale);
 const preraid = phase === 'preraid';
+// De beta van Forever heeft lijsten en geen raids: eigen kop en titel (18 oktober 2026).
+const beta = forever && phase === 'beta';
 
 /*
  * De kop is kort en de <title> draagt de woorden waarop mensen zoeken, net als
  * op de era-pagina (PROJECT_SPEC.md §11). Staan er raids in deze fase, dan
  * staan die vooraan in de titel: daar wordt op gezocht, niet op "fase 3".
  */
-const h1 = preraid ? t('preraidH1', { era: info.name }) : t('phaseH1', { era: info.name, phase: label });
+const h1 = beta ? t('betaH1') : preraid ? t('preraidH1', { era: info.name }) : t('phaseH1', { era: info.name, phase: label });
 
-const metaTitle = forever
-  ? t('foreverPhaseMeta', { phase: label })
+const metaTitle = beta
+  ? t('betaMeta')
   : preraid
     ? t('preraidMeta', { era: info.name })
     : raids
       ? t('phaseMetaWithRaids', { raids, era: info.name, phase: label })
       : t('phaseMetaNoRaids', { era: info.name, phase: label });
 
-const description = forever
-  ? t('foreverPhaseDesc', { phase: label })
+const description = beta
+  ? t('betaDesc', { n: lists.length })
   : preraid
     ? t('preraidDesc', { era: info.name, n: lists.length })
     : raids
@@ -83,8 +84,6 @@ const crumbs = [
 ];
 
 const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
-
-const foreverPhase = forever ? foreverPhases.find((p) => p.id === phase) : undefined;
 ---
 
 <BaseLayout locale={locale} title={metaTitle} description={description}>
@@ -107,7 +106,6 @@ const foreverPhase = forever ? foreverPhases.find((p) => p.id === phase) : undef
     </header>
 
     {isBisEra(era) && <PhaseContents locale={locale} era={era} phase={phase} />}
-    {foreverPhase && <ForeverPhaseCard locale={locale} phase={foreverPhase} />}
 
     {lists.length > 0 && (
       <ul class="wf-phasepage__list">

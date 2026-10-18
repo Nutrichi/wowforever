@@ -7,13 +7,15 @@
  */
 import BisPhasePage from '../../../../components/bis/BisPhasePage.astro';
 import type { EraKey } from '../../../../config/eras';
-import { bisEras, foreverPhases } from '../../../../config/bis';
+import { bisEras } from '../../../../config/bis';
 import { phasesWithLists } from '../../../../lib/bis';
 
 export function getStaticPaths() {
   const real = bisEras.flatMap((era) =>
     phasesWithLists(era).map((phase) => ({ params: { era, phase } })));
-  const forever = foreverPhases.map((phase) => ({ params: { era: 'forever', phase: phase.id } }));
+  // Forever: alleen de fase met lijsten (beta). De fasen van de roadmap staan sinds
+  // 19 oktober 2026 op /forever/; hun oude adressen sturen daarheen (astro.config.mjs).
+  const forever = phasesWithLists('forever').map((phase) => ({ params: { era: 'forever', phase } }));
   return [...real, ...forever];
 }
 

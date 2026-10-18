@@ -1,16 +1,23 @@
 ---
 /*
- * De hub /guides/ (Nutri, 10 oktober 2026: "Do everything except for 3").
- * Onder de korte inleiding uit guides.md: Onlangs bijgewerkt, dan per
- * categorie een raster van kaarten met beeld, naam, omschrijving en level, bij
- * Dungeons eerst de levelband van alle dungeons van 9 tot 60, en bij Levelen
- * het RestedXP-blok. De categorieën en kaarten staan in config/guides-hub.ts,
- * de teksten in i18n/guides-hub.ts.
+ * De hub /guides/ (Nutri, 10 oktober 2026; herschikt op 19 oktober 2026: "The
+ * guides section is now 1 gigantic big mess", gekozen: tabs per categorie).
+ *
+ * Onder de korte inleiding uit guides.md: Onlangs bijgewerkt als één rij kleine
+ * kaarten, dan een rij tabs met de categorieën en daaronder alleen de gekozen
+ * categorie, als compacte rijen met een klein beeld, de naam, het levelbereik
+ * en één regel uitleg. Alle categorieën staan in de HTML (een zoekmachine ziet
+ * elke link); het script toont er één en zet de keuze in de hash (#dungeons).
+ * Zonder JavaScript staan ze allemaal onder elkaar. De levelband van de
+ * dungeons staat sinds 19 oktober 2026 op /guides/dungeons/ (DungeonBand.astro).
+ *
+ * De categorieën en kaarten staan in config/guides-hub.ts, de teksten in
+ * i18n/guides-hub.ts.
  */
 import { Image } from 'astro:assets';
 import type { Locale } from '../../i18n/ui';
 import { localizePath } from '../../i18n/utils';
-import { hubDungeons, dungeonOverviewKey, type HubCard } from '../../config/guides-hub';
+import type { HubCard } from '../../config/guides-hub';
 import { hubImageOf, hubModel, isExternalCard } from '../../lib/guides-hub';
 import { hubBlurbs, hubT } from '../../i18n/guides-hub';
 import { guideT } from '../../i18n/guides';
@@ -35,25 +42,20 @@ const isExternal = isExternalCard;
 const hrefOf = (key: string) => (key.startsWith('/') ? `${localizePath(key, locale)}/` : pagePath(`guides/${key}`, locale));
 const titleOf = (card: HubCard) => (card.label ? t(card.label) : pageOf(card.key)?.short ?? card.key);
 const blurbOf = (card: HubCard) => blurbs[card.label === 'cardLeveling' ? 'leveling' : card.key.replace(/^\//, '')] ?? '';
+const nameOf = (key: string) => t(`c_${key}` as Parameters<typeof t>[0]);
 
 const guideCount = (cards: HubCard[]) =>
   cards.filter((card) => !isExternal(card)).reduce((sum, card) => sum + (card.parts?.length ?? 1), 0);
-
-/* De levelband: levels 1 tot 60 op een lijn, streepjes om de tien levels. */
-const scaleMin = 1;
-const scaleMax = 60;
-const pct = (level: number) => ((level - scaleMin) / (scaleMax - scaleMin)) * 100;
-const ticks = [10, 20, 30, 40, 50, 60];
-const overview = pageOf(dungeonOverviewKey);
+const first = categories[0]?.key;
 ---
 
 <section class="wf-hub__block" aria-labelledby="wf-hub-recent" data-pagefind-ignore>
   <h2 class="wf-hub__title" id="wf-hub-recent">{t('recent')}</h2>
-  <div class="wf-hub__grid wf-hub__grid--recent">
+  <div class="wf-hub__recent">
     {recent.map(({ card, updated }) => {
       const image = imageOf(card.image);
       return (
-        <a class="wf-hcard is-compact" href={hrefOf(card.key)}>
+        <a class="wf-hcard" href={hrefOf(card.key)}>
           <span class="wf-hcard__media">
             {image
               ? <Image src={image} alt="" widths={[240, 400]} sizes="(max-width: 600px) 45vw, 200px" loading="lazy" decoding="async" />
@@ -69,114 +71,86 @@ const overview = pageOf(dungeonOverviewKey);
   </div>
 </section>
 
-{categories.map((category) => (
-  <section class="wf-hub__block" aria-labelledby={`wf-hub-${category.key}`}>
-    <div class="wf-hub__head">
-      <h2 class="wf-hub__title" id={`wf-hub-${category.key}`}>{t(`c_${category.key}` as Parameters<typeof t>[0])}</h2>
-      {!category.external && (
-        <span class="wf-hub__count">{guideCount(category.cards) === 1 ? t('guides1') : t('guidesN', { n: guideCount(category.cards) })}</span>
-      )}
-    </div>
+<div class="wf-hub" data-wf-hub>
+  <nav class="wf-hub__tabs" aria-label={t('categories')} data-pagefind-ignore>
+    {categories.map((category) => {
+      const n = category.external ? category.cards.length : guideCount(category.cards);
+      return (
+        <a
+          class="wf-hub__tab"
+          href={`#${category.key}`}
+          data-tab={category.key}
+          aria-current={category.key === first ? 'true' : undefined}
+        >{nameOf(category.key)} <span class="wf-hub__n">{n}</span></a>
+      );
+    })}
+  </nav>
 
-    {category.key === 'dungeons' && (
-      <div class="wf-band">
-        <div class="wf-band__head">
-          <h3 class="wf-band__title">{t('bandTitle')}</h3>
-          {overview && <a class="wf-band__more" href={overview.href}>{t('cardDungeons')} →</a>}
-        </div>
-        <p class="wf-band__intro">{t('bandIntro', { n: hubDungeons.length })}</p>
-        <p class="wf-band__legend" aria-hidden="true">
-          <span><i class="wf-band__swatch is-guide"></i>{t('bandLegendGuide')}</span>
-          <span><i class="wf-band__swatch"></i>{t('bandLegendSoon')}</span>
-          <span><i class="wf-band__dot"></i>{t('bandLegendNew')}</span>
-        </p>
-        <ol class="wf-band__list">
-          <li class="wf-band__scale" aria-hidden="true">
-            <span class="wf-band__name"></span>
-            <span class="wf-band__track">
-              {ticks.map((tick) => <span class="wf-band__tick" style={`left:${pct(tick)}%`}>{tick}</span>)}
-            </span>
-          </li>
-          {hubDungeons.map((dungeon) => {
-            const hasGuide = dungeon.key && pageOf(dungeon.key);
-            const range = `${dungeon.min}-${dungeon.max}`;
-            const style = `left:${pct(dungeon.min)}%;width:${pct(dungeon.max) - pct(dungeon.min)}%`;
-            return (
-              <li class:list={['wf-band__row', { 'has-guide': hasGuide }]}>
-                <span class="wf-band__name">
-                  {hasGuide ? <a href={hrefOf(dungeon.key!)}>{dungeon.name}</a> : <span>{dungeon.name}</span>}
-                  {dungeon.isNew && <i class="wf-band__dot" title={t('bandLegendNew')}><span class="wf-sr">{t('new')}</span></i>}
-                  <span class="wf-band__meta">{range}{!hasGuide && <> · {t('bandSoon')}</>}</span>
+  {categories.map((category) => (
+    <section
+      class="wf-hub__panel"
+      id={category.key}
+      data-panel={category.key}
+      aria-labelledby={`wf-hub-${category.key}`}
+      hidden={category.key !== first}
+    >
+      <h2 class="wf-hub__paneltitle" id={`wf-hub-${category.key}`}>{nameOf(category.key)}</h2>
+      <ul class="wf-hub__rows">
+        {category.cards.map((card) => {
+          const image = imageOf(card.image);
+          return (
+            <li class="wf-hrow">
+              <a class="wf-hrow__link" href={hrefOf(card.key)}>
+                <span class="wf-hrow__media">
+                  {image
+                    ? <Image src={image} alt="" widths={[160, 240]} sizes="120px" loading="lazy" decoding="async" />
+                    : <span class="wf-hcard__stripes" aria-hidden="true"></span>}
                 </span>
-                <span class="wf-band__track">
-                  <span class="wf-band__bar" style={style}></span>
-                  <span class="wf-band__range">{range}{!hasGuide && <> · {t('bandSoon')}</>}</span>
-                </span>
-              </li>
-            );
-          })}
-        </ol>
-      </div>
-    )}
-
-    <div class="wf-hub__grid">
-      {category.cards.map((card) => {
-        const image = imageOf(card.image);
-        return (
-          <article class="wf-hcard">
-            <a class="wf-hcard__link" href={hrefOf(card.key)}>
-              <span class="wf-hcard__media">
-                {image
-                  ? <Image src={image} alt="" widths={[320, 520]} sizes="(max-width: 600px) 92vw, 260px" loading="lazy" decoding="async" />
-                  : <span class="wf-hcard__stripes" aria-hidden="true"></span>}
-                {(card.levels || card.isNew) && (
-                  <span class="wf-hcard__badges">
-                    {card.levels && <span class="wf-hcard__badge">{t('levels', { range: card.levels })}</span>}
-                    {card.isNew && <span class="wf-hcard__badge is-new">{t('new')}</span>}
+                <span class="wf-hrow__body">
+                  <span class="wf-hrow__top">
+                    <span class="wf-hrow__name">{titleOf(card)}</span>
+                    {card.isNew && <span class="wf-hrow__badge is-new">{t('new')}</span>}
+                    {card.levels && <span class="wf-hrow__levels">{t('levels', { range: card.levels })}</span>}
                   </span>
-                )}
-              </span>
-              <span class="wf-hcard__body">
-                <span class="wf-hcard__name">{titleOf(card)}</span>
-                <span class="wf-hcard__text">{blurbOf(card)}</span>
-              </span>
-            </a>
-            {card.parts && (
-              <span class="wf-hcard__parts">
-                {card.parts.filter((key) => pageOf(key)).map((key, index) => (
-                  <a class="wf-gchip" href={hrefOf(key)}>{t('part', { n: index + 1 })}</a>
-                ))}
-              </span>
-            )}
-          </article>
-        );
-      })}
-    </div>
+                  <span class="wf-hrow__text">{blurbOf(card)}</span>
+                </span>
+              </a>
+              {card.parts && (
+                <span class="wf-hrow__parts">
+                  {card.parts.filter((key) => pageOf(key)).map((key, index) => (
+                    <a class="wf-gchip" href={hrefOf(key)}>{t('part', { n: index + 1 })}</a>
+                  ))}
+                </span>
+              )}
+            </li>
+          );
+        })}
+      </ul>
 
-    {category.key === 'leveling' && (
-      <aside class="wf-rxpblock" data-pagefind-ignore>
-        <p>{g('restedxpText')}</p>
-        <a href={restedxpUrl} rel="noopener sponsored">{g('restedxpButton')}</a>
-      </aside>
-    )}
-  </section>
-))}
+      {category.key === 'leveling' && (
+        <aside class="wf-rxpblock" data-pagefind-ignore>
+          <p>{g('restedxpText')}</p>
+          <a href={restedxpUrl} rel="noopener sponsored">{g('restedxpButton')}</a>
+        </aside>
+      )}
+    </section>
+  ))}
+</div>
+
+<noscript><style>.wf-hub__panel[hidden] { display: block !important; } .wf-hub__tabs { display: none; }</style></noscript>
 
 <style>
-  .wf-hub__block { margin-top: 38px; }
-  .wf-hub__head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
-  .wf-hub__title { font-family: var(--wf-display); font-size: 23px; line-height: 1.2; color: var(--wf-ink); }
-  .wf-hub__count { font-size: 12.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--wf-label); }
+  .wf-hub__block { margin-top: 30px; }
+  .wf-hub__title { font-family: var(--wf-display); font-size: 20px; line-height: 1.2; color: var(--wf-ink); }
 
-  .wf-hub__grid {
+  .wf-hub__recent {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-    gap: 16px;
-    margin-top: 16px;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+    margin-top: 12px;
   }
-  .wf-hub__grid--recent { grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 12px; }
 
-  /* Een kaart: beeld 16:9, naam, omschrijving; de rand en gloed zoals de kaarten elders (handoff §4.1). */
+  /* Een kleine kaart onder Onlangs bijgewerkt. */
   .wf-hcard {
     display: flex;
     flex-direction: column;
@@ -185,150 +159,182 @@ const overview = pageOf(dungeonOverviewKey);
     border: 1px solid var(--wf-border);
     border-radius: var(--wf-r-card-sm, 10px);
     overflow: hidden;
-    transition: border-color .15s ease, box-shadow .15s ease, transform .15s ease;
+    color: inherit;
+    text-decoration: none;
+    transition: border-color .15s ease, box-shadow .15s ease;
   }
-  .wf-hcard:hover, .wf-hcard:focus-within { border-color: var(--wf-accent-deep); box-shadow: var(--wf-glow-card); }
-  a.wf-hcard, .wf-hcard__link { display: flex; flex-direction: column; flex: 1; color: inherit; text-decoration: none; }
-
+  .wf-hcard:hover { border-color: var(--wf-accent-deep); box-shadow: var(--wf-glow-card); }
   .wf-hcard__media { position: relative; display: block; aspect-ratio: 16 / 9; overflow: hidden; background: var(--wf-slot-a); }
-  .wf-hcard__media img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .3s ease; }
-  .wf-hcard:hover .wf-hcard__media img { transform: scale(1.03); }
+  .wf-hcard__media img { display: block; width: 100%; height: 100%; object-fit: cover; }
   .wf-hcard__stripes {
     position: absolute;
     inset: 0;
     background: repeating-linear-gradient(45deg, var(--wf-slot-a) 0 10px, var(--wf-slot-b) 10px 20px);
   }
+  .wf-hcard__body { display: flex; flex-direction: column; gap: 3px; padding: 9px 11px 11px; }
+  .wf-hcard__name { font-family: var(--wf-display); font-size: 14.5px; font-weight: 700; line-height: 1.25; color: var(--wf-ink); }
+  .wf-hcard:hover .wf-hcard__name { color: var(--wf-accent); }
+  .wf-hcard__date { font-size: 12px; color: var(--wf-label); }
 
-  .wf-hcard__badges { position: absolute; left: 10px; bottom: 10px; display: flex; gap: 6px; }
-  .wf-hcard__badge {
-    padding: 3px 8px;
-    border-radius: 999px;
-    font-size: 11.5px;
-    font-weight: 600;
-    letter-spacing: .04em;
-    color: #f4e9d6;
-    background: rgba(11, 16, 32, .82);
-    border: 1px solid rgba(224, 183, 122, .45);
+  /* De tabs: een rij chips, op een telefoon horizontaal scrollbaar. */
+  .wf-hub { margin-top: 30px; }
+  .wf-hub__tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--wf-border);
   }
-  .wf-hcard__badge.is-new { color: #1a1408; background: linear-gradient(180deg, #e0b77a, #c39449); border-color: transparent; }
-
-  .wf-hcard__body { display: flex; flex-direction: column; gap: 6px; padding: 12px 14px 14px; }
-  .wf-hcard__name { font-family: var(--wf-display); font-size: 17px; font-weight: 700; line-height: 1.25; color: var(--wf-ink); }
-  .wf-hcard__link:hover .wf-hcard__name, a.wf-hcard:hover .wf-hcard__name { color: var(--wf-accent); }
-  .wf-hcard__text {
+  .wf-hub__tab {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 6px 14px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
     font-size: 14px;
-    line-height: 1.5;
+    color: var(--wf-muted);
+    text-decoration: none;
+    white-space: nowrap;
+    transition: border-color .15s ease, color .15s ease, background-color .15s ease;
+  }
+  .wf-hub__tab:hover { border-color: var(--wf-accent-deep); color: var(--wf-ink); }
+  .wf-hub__tab[aria-current='true'] {
+    background: var(--wf-accent-wash);
+    border-color: var(--wf-accent-deep);
+    color: var(--wf-accent-bright);
+  }
+  .wf-hub__n { font-size: 12px; color: var(--wf-label); }
+  .wf-hub__tab[aria-current='true'] .wf-hub__n { color: var(--wf-accent); }
+
+  .wf-hub__panel { margin-top: 18px; }
+  .wf-hub__panel[hidden] { display: none; }
+  /* De kop zegt hetzelfde als de gekozen tab: alleen voor schermlezers en zonder JavaScript zichtbaar. */
+  .wf-hub__paneltitle {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  /* Een gids als rij: klein beeld, naam met levels, één regel uitleg. */
+  .wf-hub__rows {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .wf-hrow {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    background: var(--wf-raised);
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card-sm, 10px);
+    overflow: hidden;
+    transition: border-color .15s ease, box-shadow .15s ease;
+  }
+  .wf-hrow:hover, .wf-hrow:focus-within { border-color: var(--wf-accent-deep); box-shadow: var(--wf-glow-card); }
+  .wf-hrow__link { display: flex; align-items: center; gap: 12px; padding: 8px; color: inherit; text-decoration: none; }
+  .wf-hrow__media {
+    position: relative;
+    flex: none;
+    width: 112px;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: 6px;
+    background: var(--wf-slot-a);
+  }
+  .wf-hrow__media img { display: block; width: 100%; height: 100%; object-fit: cover; }
+  .wf-hrow__body { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+  .wf-hrow__top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; }
+  .wf-hrow__name { font-family: var(--wf-display); font-size: 15.5px; font-weight: 700; line-height: 1.25; color: var(--wf-ink); }
+  .wf-hrow__link:hover .wf-hrow__name { color: var(--wf-accent); }
+  .wf-hrow__levels { font-size: 12px; color: var(--wf-label); white-space: nowrap; }
+  .wf-hrow__badge {
+    padding: 1px 7px;
+    border-radius: 999px;
+    font-size: 10.5px;
+    font-weight: 700;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  .wf-hrow__badge.is-new { color: #1a1408; background: linear-gradient(180deg, #e0b77a, #c39449); }
+  .wf-hrow__text {
+    font-size: 13px;
+    line-height: 1.4;
     color: var(--wf-muted);
     display: -webkit-box;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
-  .wf-hcard__date { font-size: 12.5px; color: var(--wf-label); }
-  .wf-hcard.is-compact .wf-hcard__body { padding: 10px 12px 12px; gap: 4px; }
-  .wf-hcard.is-compact .wf-hcard__name { font-size: 15px; }
+  .wf-hrow__parts { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 8px 8px 132px; }
+  .wf-hrow__parts .wf-gchip { font-size: 12px; padding: 2px 9px; }
 
-  .wf-hcard__parts { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 14px 14px; }
-  .wf-hcard__parts .wf-gchip { font-size: 12.5px; padding: 3px 10px; }
+  .wf-hub__panel .wf-rxpblock { margin-top: 16px; }
 
-  /* De levelband: elke dungeon als balk op een schaal van level 1 tot 60. */
-  .wf-band {
-    margin-top: 16px;
-    padding: 16px 18px 18px;
-    background: var(--wf-raised-soft);
-    border: 1px solid var(--wf-border);
-    border-radius: var(--wf-r-card-sm, 10px);
-  }
-  .wf-band__head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
-  .wf-band__title { font-family: var(--wf-display); font-size: 17px; color: var(--wf-ink); }
-  .wf-band__more { font-size: 14px; color: var(--wf-accent); text-decoration: none; }
-  .wf-band__more:hover { text-decoration: underline; text-underline-offset: 3px; }
-  .wf-band__intro { margin-top: 6px; font-size: 14px; color: var(--wf-muted); }
-  .wf-band__legend { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 10px; font-size: 12.5px; color: var(--wf-label); }
-  .wf-band__legend > span { display: inline-flex; align-items: center; gap: 6px; }
-  .wf-band__swatch { display: inline-block; width: 18px; height: 6px; border-radius: 3px; background: var(--wf-muted-dim); }
-  .wf-band__swatch.is-guide { background: linear-gradient(90deg, #f0cd97, #e0b77a, #b5872f); }
-  .wf-band__dot {
-    display: inline-block;
-    flex: none;
-    width: 7px;
-    height: 7px;
-    transform: rotate(45deg);
-    background: var(--wf-arcane);
+  @media (max-width: 760px) {
+    /* Onlangs bijgewerkt als één rij om opzij te vegen, niet als een blok van een scherm hoog. */
+    .wf-hub__recent {
+      display: flex;
+      overflow-x: auto;
+      scroll-snap-type: x mandatory;
+      scrollbar-width: none;
+      margin-inline: -16px;
+      padding-inline: 16px;
+    }
+    .wf-hub__recent::-webkit-scrollbar { display: none; }
+    .wf-hub__recent .wf-hcard { flex: none; width: 168px; scroll-snap-align: start; }
+    .wf-hub__rows { grid-template-columns: minmax(0, 1fr); }
   }
 
-  .wf-band__list { list-style: none; margin: 12px 0 0; padding: 0; }
-  .wf-band__row, .wf-band__scale {
-    display: grid;
-    grid-template-columns: minmax(150px, 34%) 1fr;
-    align-items: center;
-    gap: 12px;
-    min-height: 26px;
-  }
-  .wf-band__row + .wf-band__row { border-top: 1px solid rgba(35, 48, 79, .5); }
-  .wf-band__name { display: inline-flex; align-items: center; gap: 7px; min-width: 0; font-size: 13.5px; color: var(--wf-label); }
-  .wf-band__name > a, .wf-band__name > span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .wf-band__row.has-guide .wf-band__name a { color: var(--wf-ink); font-weight: 600; text-decoration: none; }
-  .wf-band__row.has-guide .wf-band__name a:hover { color: var(--wf-accent); }
-
-  .wf-band__track { position: relative; height: 22px; }
-  .wf-band__scale .wf-band__track { height: 16px; }
-  .wf-band__tick {
-    position: absolute;
-    top: 0;
-    transform: translateX(-50%);
-    font-size: 11px;
-    color: var(--wf-label);
-  }
-  .wf-band__bar {
-    position: absolute;
-    top: 8px;
-    height: 6px;
-    min-width: 6px;
-    border-radius: 3px;
-    background: var(--wf-muted-dim);
-    opacity: .7;
-  }
-  .wf-band__row.has-guide .wf-band__bar {
-    background: linear-gradient(90deg, #f0cd97, #e0b77a, #b5872f);
-    opacity: 1;
-    box-shadow: 0 0 10px rgba(224, 183, 122, .25);
-  }
-  .wf-band__range {
-    position: absolute;
-    right: 0;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 11.5px;
-    color: var(--wf-label);
-    opacity: 0;
-    transition: opacity .15s ease;
-    pointer-events: none;
-    background: var(--wf-bg);
-    padding: 0 4px;
-    border-radius: 4px;
-  }
-  .wf-band__row:hover .wf-band__range { opacity: 1; }
-
-  .wf-band__meta { display: none; }
-
-  /* Op een telefoon: naam en bereik op een regel, de balk eronder over de volle breedte. */
   @media (max-width: 599px) {
-    .wf-band { padding: 14px 12px 14px; }
-    .wf-band__row, .wf-band__scale { grid-template-columns: 1fr; gap: 3px; padding: 5px 0; }
-    .wf-band__scale .wf-band__name { display: none; }
-    .wf-band__meta { display: inline; margin-left: auto; padding-left: 8px; font-size: 11.5px; color: var(--wf-label); white-space: nowrap; }
-    .wf-band__range { display: none; }
-    .wf-band__row .wf-band__track { height: 8px; }
-    .wf-band__row .wf-band__bar { top: 1px; }
-  }
-
-  @media (max-width: 399px) {
-    .wf-hub__grid--recent { grid-template-columns: 1fr 1fr; }
+    .wf-hub__tabs { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; }
+    .wf-hub__tabs::-webkit-scrollbar { display: none; }
+    .wf-hub__tab { flex: none; }
+    .wf-hrow__media { width: 88px; }
+    .wf-hrow__parts { padding-left: 8px; }
   }
 
   /* Dag: zachtere rand en geen gloed (handoff §4.2). */
-  :global(:root[data-theme="day"]) .wf-hcard:hover { box-shadow: 0 4px 14px rgba(27, 33, 54, .08); }
-  :global(:root[data-theme="day"]) .wf-band__row + .wf-band__row { border-top-color: #f0e3d6; }
-  :global(:root[data-theme="day"]) .wf-band__range { background: var(--wf-bg); }
+  :global(:root[data-theme="day"]) .wf-hcard:hover,
+  :global(:root[data-theme="day"]) .wf-hrow:hover { box-shadow: 0 4px 14px rgba(27, 33, 54, .08); }
 </style>
+
+<script>
+  const root = document.querySelector<HTMLElement>('[data-wf-hub]');
+
+  if (root) {
+    const tabs = Array.from(root.querySelectorAll<HTMLAnchorElement>('[data-tab]'));
+    const panels = Array.from(root.querySelectorAll<HTMLElement>('[data-panel]'));
+    const keys = panels.map((panel) => panel.dataset.panel);
+
+    const show = (key: string) => {
+      panels.forEach((panel) => { panel.hidden = panel.dataset.panel !== key; });
+      tabs.forEach((tab) => {
+        if (tab.dataset.tab === key) tab.setAttribute('aria-current', 'true');
+        else tab.removeAttribute('aria-current');
+      });
+    };
+
+    tabs.forEach((tab) => tab.addEventListener('click', (event) => {
+      event.preventDefault();
+      const key = tab.dataset.tab ?? '';
+      show(key);
+      // De keuze in de hash, zonder te springen: zo werkt terug en delen.
+      history.replaceState(null, '', `#${key}`);
+    }));
+
+    const fromHash = () => {
+      const key = window.location.hash.slice(1);
+      if (keys.includes(key)) show(key);
+    };
+    window.addEventListener('hashchange', fromHash);
+    fromHash();
+  }
+</script>

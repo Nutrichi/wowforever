@@ -15,8 +15,9 @@ import { jsonResponse } from '../../../../lib/api-feed';
 import { apiBisId, apiBisList } from '../../../../lib/api-bis';
 import { locales } from '../../../../i18n/ui';
 
+/* Forever staat (nog) niet in de API: de app kent de schakelaar Alliance/Horde niet (config/bis.ts). */
 export const getStaticPaths: GetStaticPaths = () =>
-  getBisLists().map((list) => ({ params: { id: apiBisId(list) }, props: { list } }));
+  getBisLists().filter((list) => list.era !== 'forever').map((list) => ({ params: { id: apiBisId(list) }, props: { list } }));
 
 export const GET: APIRoute = ({ props, site }) => {
   const base = site ?? new URL('https://wowforever.be');

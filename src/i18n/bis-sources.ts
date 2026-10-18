@@ -38,6 +38,13 @@ const rules: Rule[] = [
    * regels te halen en te kijken welke gewone Engelse woorden overbleven.
    * Ze staan vooraan, want ze zijn specifieker dan de algemene regels verderop.
    */
+  // Forever-beta (wowf.io, 18 oktober 2026): boeken, rares, zeldzame patronen, voor één ras.
+  { pattern: /\bReward for reading (\d+) Library Books\b/g, nl: 'Beloning voor het lezen van $1 Library Books', fr: 'Récompense pour la lecture de $1 Library Books', es: 'Recompensa por leer $1 Library Books', it: 'Ricompensa per la lettura di $1 Library Books', de: 'Belohnung für das Lesen von $1 Library Books' },
+  { pattern: /\bDropped by the rare\b/g, nl: 'Drop van de rare', fr: 'Butin du rare', es: 'Botín del raro', it: 'Bottino del raro', de: 'Drop vom Rare' },
+  { pattern: /\bDropped by\b/g, nl: 'Drop van', fr: 'Butin de', es: 'Botín de', it: 'Bottino di', de: 'Drop von' },
+  { pattern: /, rare pattern\b/g, nl: ', zeldzaam patroon', fr: ', patron rare', es: ', patrón raro', it: ', schema raro', de: ', seltenes Muster' },
+  { pattern: /\(([A-Z][^()]*?) only\)/g, nl: '(alleen $1)', fr: '($1 uniquement)', es: '(solo $1)', it: '(solo $1)', de: '(nur $1)' },
+
   { pattern: /\bReward from the quest given by the Head of Onyxia that drops when you kill Onyxia in Onyxia's Lair\b/g, nl: "Beloning van de quest van de Head of Onyxia, een drop van Onyxia in Onyxia's Lair", fr: "Récompense de la quête du Head of Onyxia, butin d’Onyxia dans Onyxia's Lair", es: "Recompensa de la misión de la Head of Onyxia, que suelta Onyxia en Onyxia's Lair", it: "Ricompensa della missione della Head of Onyxia, lasciata da Onyxia in Onyxia's Lair", de: "Belohnung der Quest zum Head of Onyxia, einem Drop von Onyxia in Onyxia's Lair" },
   { pattern: /\bquests from turning in Head of Onyxia looted from Onyxia's Lair\b/g, nl: "quests, door de Head of Onyxia uit Onyxia's Lair in te leveren", fr: "quêtes, en rendant le Head of Onyxia d’Onyxia's Lair", es: "misiones, al entregar la Head of Onyxia de Onyxia's Lair", it: "missioni, consegnando la Head of Onyxia di Onyxia's Lair", de: "Quests, durch Abgabe des Head of Onyxia aus Onyxia's Lair" },
   { pattern: /\bReward from the quest you get from turning in the eye that drops from C'Thun in AQ40\b/g, nl: "Beloning van de quest voor het oog dat C'Thun laat vallen in AQ40", fr: "Récompense de la quête obtenue en rendant l’œil que lâche C'Thun dans AQ40", es: "Recompensa de la misión que se obtiene al entregar el ojo que suelta C'Thun en AQ40", it: "Ricompensa della missione che si ottiene consegnando l’occhio lasciato da C'Thun in AQ40", de: "Belohnung der Quest für das Auge, das C'Thun in AQ40 fallen lässt" },
