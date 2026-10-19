@@ -39,6 +39,13 @@ export const restedxpUrl = 'https://shop.restedxp.com/ref/nutri/';
 export const zygorUrl = 'https://zygorguides.com/ref/Nutri/';
 
 /**
+ * De partnerlink van Journey (Nutri, 19 oktober 2026): de creatorcode nutri zit
+ * in de link en geeft de koper 10% korting. Journey is de opvolger van Joana.
+ * Het blok staat onder het RestedXP-blok, overal waar dat blok staat.
+ */
+export const journeyUrl = 'https://getjourney.gg/?code=nutri';
+
+/**
  * De Ko-fi-pagina van Nutri, voor een fooi (Nutri, 25 september 2026). Staat in
  * de voettekst als eerste link, voor YouTube, met een eigen kopje als icoon.
  * Geen partnerlink: gewone `noopener`, geen `sponsored`.
@@ -89,7 +96,7 @@ export const zygorPages = [
  * Bij een tweede partner moet zoiets op elke plek opnieuw, en dan is er altijd
  * een plek die het niet krijgt.
  */
-export const partnerUrls = [restedxpUrl, zygorUrl];
+export const partnerUrls = [restedxpUrl, journeyUrl, zygorUrl];
 
 /** Is dit een van onze partnerlinks? */
 export function isPartnerLink(url: string): boolean {

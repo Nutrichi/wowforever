@@ -22,7 +22,7 @@ import type { HubCard } from '../../config/guides-hub';
 import { hubImageOf, hubModel, isExternalCard } from '../../lib/guides-hub';
 import { hubBlurbs, hubT } from '../../i18n/guides-hub';
 import { guideT } from '../../i18n/guides';
-import { restedxpUrl } from '../../config/site';
+import { journeyUrl, restedxpUrl } from '../../config/site';
 import { pagePath } from '../../lib/pages';
 
 interface Props {
@@ -128,6 +128,12 @@ const first = categories[0]?.key;
         <aside class="wf-rxpblock" data-pagefind-ignore>
           <p>{g('restedxpText')}</p>
           <a href={restedxpUrl} rel="noopener sponsored">{g('restedxpButton')}</a>
+        </aside>
+      )}
+      {category.key === 'leveling' && (
+        <aside class="wf-rxpblock wf-rxpblock--next" data-pagefind-ignore>
+          <p>{g('journeyText')}</p>
+          <a href={journeyUrl} rel="noopener sponsored">{g('journeyButton')}</a>
         </aside>
       )}
     </section>
@@ -274,6 +280,7 @@ const first = categories[0]?.key;
   .wf-hrow__parts .wf-gchip { font-size: 12px; padding: 2px 9px; }
 
   .wf-hub__panel .wf-rxpblock { margin-top: 16px; }
+  .wf-hub__panel .wf-rxpblock--next { margin-top: 12px; }
 
   @media (max-width: 760px) {
     /* Onlangs bijgewerkt als één rij om opzij te vegen, niet als een blok van een scherm hoog. */
