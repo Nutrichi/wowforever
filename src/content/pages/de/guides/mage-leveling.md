@@ -3,7 +3,7 @@ title: "Mage-Levelguide für WoW Forever"
 metaTitle: "WoW Forever Mage-Levelguide: Frost, Fire und Arcane, Rotation und Tipps"
 description: "So levelst du einen Mage in WoW Forever: warum Frost mit Ice Lance am schnellsten ist, die Rotation für Frost, Fire und Arcane, wichtige Level, Klassenquests, Schriftrollen, Mana und Bedrohung."
 short: "Mage leveln"
-updated: 2026-10-17
+updated: 2026-10-19
 lang: de
 manual: true
 faq:
@@ -57,7 +57,7 @@ Der [Levelbuild des Mage](/de/leveling/mage/) gibt das Talent für jedes Level v
 | **Ice Shards** | Verdoppelt den kritischen Bonus deiner Frost-Zauber |
 | **Frost Channeling** | Frost-Zauber 15 % billiger und 30 % weniger Bedrohung |
 
-Mit Punkten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> aus dem Legacy-System erreichst du jedes Talent bis zu fünf Level früher. Der [Frost-Mage-Guide](/de/guides/frost-mage/) hat den Build für Level 30 mit Missile Barrage, dazu Kiten, Mana, Shatter und Ausrüstung.
+Mit Punkten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> aus dem Legacy-System erreichst du jedes Talent bis zu fünf Level früher. Der [Frost-Mage-Guide](/de/guides/frost-mage/) hat den Build für Level 30 mit Missile Barrage, dazu Kiten, Mana, Shatter und Ausrüstung. Der [Arcane-Mage-Guide](/de/guides/arcane-mage/) hat zwei Builds für Level 30 mit Arcane Blast, dazu Burn-Phasen und Mana.
 
 ## Rotation
 

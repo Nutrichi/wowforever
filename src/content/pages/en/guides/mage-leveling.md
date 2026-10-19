@@ -3,7 +3,7 @@ title: "Mage leveling guide for WoW Forever"
 metaTitle: "WoW Forever Mage leveling guide: Frost, Fire and Arcane, rotation and tips"
 description: "How to level a Mage in WoW Forever: why Frost with Ice Lance is the fastest, the rotation for Frost, Fire and Arcane, the key levels, class quests, scrolls, mana and threat."
 short: "Mage leveling"
-updated: 2026-10-17
+updated: 2026-10-19
 lang: en
 faq:
   - q: "What is the best spec to level a Mage in WoW Forever?"
@@ -56,7 +56,7 @@ The [Mage level build](/leveling/mage/) gives the talent for every level from 10
 | **Ice Shards** | Doubles the critical strike bonus of your Frost spells |
 | **Frost Channeling** | 15% cheaper Frost spells and 30% less threat |
 
-With points in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> from the Legacy system, you reach each talent up to five levels sooner. The [Frost Mage guide](/guides/frost-mage/) has the build for level 30 with Missile Barrage, plus kiting, mana, Shatter and gear.
+With points in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> from the Legacy system, you reach each talent up to five levels sooner. The [Frost Mage guide](/guides/frost-mage/) has the build for level 30 with Missile Barrage, plus kiting, mana, Shatter and gear. The [Arcane Mage guide](/guides/arcane-mage/) has two level 30 builds with Arcane Blast, plus burn phases and mana.
 
 ## Rotation
 

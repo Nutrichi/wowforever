@@ -3,7 +3,7 @@ title: "Guide de leveling du Mage dans WoW Forever"
 metaTitle: "WoW Forever : guide de leveling du Mage, Frost, Fire et Arcane, rotation et astuces"
 description: "Comment monter un Mage dans WoW Forever : pourquoi Frost avec Ice Lance est le plus rapide, la rotation Frost, Fire et Arcane, les niveaux clés, les quêtes de classe, les parchemins, la mana et la menace."
 short: "Leveling du Mage"
-updated: 2026-10-17
+updated: 2026-10-19
 lang: fr
 manual: true
 faq:
@@ -57,7 +57,7 @@ Le [build de leveling du Mage](/fr/leveling/mage/) donne le talent de chaque niv
 | **Ice Shards** | Double le bonus de critique de vos sorts Frost |
 | **Frost Channeling** | Sorts Frost 15 % moins chers et 30 % de menace en moins |
 
-Avec des points dans <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> du système Legacy, vous atteignez chaque talent jusqu'à cinq niveaux plus tôt. Le [guide du Frost Mage](/fr/guides/frost-mage/) donne le build niveau 30 avec Missile Barrage, ainsi que le kite, le mana, Shatter et l'équipement.
+Avec des points dans <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> du système Legacy, vous atteignez chaque talent jusqu'à cinq niveaux plus tôt. Le [guide du Frost Mage](/fr/guides/frost-mage/) donne le build niveau 30 avec Missile Barrage, ainsi que le kite, le mana, Shatter et l'équipement. Le [guide de l’Arcane Mage](/fr/guides/arcane-mage/) donne deux builds niveau 30 avec Arcane Blast, ainsi que les phases de burn et le mana.
 
 ## Rotation
 
