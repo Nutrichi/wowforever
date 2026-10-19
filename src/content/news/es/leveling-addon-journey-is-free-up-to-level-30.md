@@ -10,6 +10,7 @@ imageAlt: "Colinas verdes, árboles altos y un río sinuoso en The Riverglades, 
 source: "Journey"
 sourceUrl: "https://getjourney.gg/support"
 tags: ["forever", "leveling"]
+partners: ["restedxp", "journey"]
 featured: false
 draft: false
 ---
@@ -49,6 +50,10 @@ No hay suscripción. Hasta el 4 de diciembre, las dos facciones cuestan 30 dóla
 
 El addon y los niveles 1 a 30 son gratis, como exigen las normas de Blizzard sobre addons; la parte de pago es contenido extra de la guía. La versión gratuita está en [CurseForge](https://www.curseforge.com/wow/addons/journey).
 
+<a class="wf-partner-banner" href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">
+
 ![Banner de las guías de leveling de Journey: usa el código NUTRI para un 10 % de descuento](../../../assets/posts/2026-10-19-wow-forever-journey-code-nutri.jpg)
+
+</a>
 
 El código de creador nutri da un 10 % de descuento: 27 dólares por las dos facciones, 22,50 por una. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Nuestro enlace de socio</a> aplica el código al pagar. Los demás addons para subir de nivel en Forever están en [la comparación de addons de leveling](/es/compare/leveling-addons-forever/).

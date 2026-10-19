@@ -238,6 +238,8 @@ const { sizes, widths } = isPost ? heroImage : featuredImage;
     const inProse = document.querySelectorAll<HTMLImageElement>('.wf-prose img[alt]:not([alt=""])');
 
     for (const shot of inProse) {
+      // Een beeld in een link (de banner van een partner) volgt de link en gaat niet groot open.
+      if (shot.closest('a')) continue;
       shot.classList.add('is-zoomable');
       shot.setAttribute('role', 'button');
       shot.tabIndex = 0;

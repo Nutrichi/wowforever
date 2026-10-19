@@ -10,6 +10,7 @@ imageAlt: "Groene heuvels, hoge bomen en een kronkelende rivier in The Riverglad
 source: "Journey"
 sourceUrl: "https://getjourney.gg/support"
 tags: ["forever", "leveling"]
+partners: ["restedxp", "journey"]
 featured: false
 draft: false
 ---
@@ -49,6 +50,10 @@ Er is geen abonnement. Tot 4 december kosten beide facties 30 dollar en één fa
 
 De addon zelf en level 1 tot 30 zijn gratis, zoals de addonregels van Blizzard vragen; het betaalde deel is extra gidsinhoud. De gratis versie staat op [CurseForge](https://www.curseforge.com/wow/addons/journey).
 
+<a class="wf-partner-banner" href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">
+
 ![Banner van de levelgidsen van Journey: gebruik de code NUTRI voor 10% korting](../../../assets/posts/2026-10-19-wow-forever-journey-code-nutri.jpg)
+
+</a>
 
 De creatorcode nutri geeft 10% korting: 27 dollar voor beide facties, 22,50 voor één. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Onze partnerlink</a> past de code toe bij het afrekenen. De andere leveladdons voor Forever staan naast elkaar in [de vergelijking van leveladdons](/nl/compare/leveling-addons-forever/).

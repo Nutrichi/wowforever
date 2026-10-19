@@ -55,6 +55,11 @@ const postFields = ({ image }: SchemaContext) => ({
   /* Een leeg tekstveld is hetzelfde als geen veld. */
   sourceUrl: z.preprocess((value) => (value === '' ? undefined : value), z.url().optional()),
   tags: z.array(z.string()).default([]),
+  /**
+   * Partnerblokken onderaan een post, zoals onderaan de levelgidsen (Nutri,
+   * 19 oktober 2026, bij de post over Journey). In deze volgorde getoond.
+   */
+  partners: z.array(z.enum(['restedxp', 'journey'])).default([]),
 });
 
 const news = defineCollection({

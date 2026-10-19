@@ -9,6 +9,7 @@ imageAlt: "Green hills, tall trees and a winding river in The Riverglades, a scr
 source: "Journey"
 sourceUrl: "https://getjourney.gg/support"
 tags: ["forever", "leveling"]
+partners: ["restedxp", "journey"]
 featured: false
 draft: false
 ---
@@ -48,6 +49,10 @@ There is no subscription. Until 4 December, both factions cost 30 dollars and on
 
 The addon itself and levels 1 to 30 are free, as Blizzard's addon policy requires; the paid part is extra guide content. The free version is on [CurseForge](https://www.curseforge.com/wow/addons/journey).
 
+<a class="wf-partner-banner" href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">
+
 ![Journey leveling guides banner: use code NUTRI to get 10% off](../../../assets/posts/2026-10-19-wow-forever-journey-code-nutri.jpg)
+
+</a>
 
 The creator code nutri takes 10% off: 27 dollars for both factions, 22.50 for one. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Our partner link</a> applies the code at checkout. The other leveling addons for Forever are compared in [the leveling addon comparison](/compare/leveling-addons-forever/).

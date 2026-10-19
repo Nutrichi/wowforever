@@ -10,6 +10,7 @@ imageAlt: "Grüne Hügel, hohe Bäume und ein gewundener Fluss in The Riverglade
 source: "Journey"
 sourceUrl: "https://getjourney.gg/support"
 tags: ["forever", "leveling"]
+partners: ["restedxp", "journey"]
 featured: false
 draft: false
 ---
@@ -49,6 +50,10 @@ Es gibt kein Abo. Bis zum 4. Dezember kosten beide Fraktionen 30 Dollar und eine
 
 Das Addon selbst und Level 1 bis 30 sind kostenlos, wie es die Addon-Regeln von Blizzard verlangen; der bezahlte Teil sind zusätzliche Guide-Inhalte. Die kostenlose Version gibt es auf [CurseForge](https://www.curseforge.com/wow/addons/journey).
 
+<a class="wf-partner-banner" href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">
+
 ![Banner der Leveling-Guides von Journey: mit dem Code NUTRI 10 % Rabatt](../../../assets/posts/2026-10-19-wow-forever-journey-code-nutri.jpg)
+
+</a>
 
 Der Creator-Code nutri gibt 10 % Rabatt: 27 Dollar für beide Fraktionen, 22,50 für eine. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Unser Partnerlink</a> setzt den Code an der Kasse ein. Die anderen Leveling-Addons für Forever stehen im [Vergleich der Leveling-Addons](/de/compare/leveling-addons-forever/).

@@ -118,37 +118,7 @@
 .wf-card__specs a:hover { color: var(--wf-accent-bright); text-decoration: underline; text-underline-offset: 3px; }
 .wf-card__specs .is-pending { color: var(--wf-label); }
 
-/* --- RestedXP --- */
-
-.wf-rxpblock {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 12px 18px;
-  margin-top: 26px;
-  padding: 14px 16px;
-  border: 1px solid var(--wf-accent-deep);
-  border-radius: var(--wf-r-card);
-  background: var(--wf-accent-soft);
-}
-
-/* Een tweede partnerblok (Zygor) sluit aan op het eerste. */
-.wf-rxpblock--next { margin-top: 12px; }
-
-.wf-rxpblock p { flex: 1 1 300px; font-size: 14.5px; color: var(--wf-ink-soft); }
-
-.wf-rxpblock a {
-  margin-left: auto;
-  padding: 8px 16px;
-  border-radius: var(--wf-r-pill);
-  background: linear-gradient(180deg, #e0b77a, #c39449);
-  color: #1a1408;
-  font-family: var(--wf-display);
-  font-weight: 600;
-  font-size: 12.5px;
-  letter-spacing: .12em;
-  text-transform: uppercase;
-}
+/* --- RestedXP: de partnerblokken staan sinds 19 oktober 2026 in global.css (ook in posts) --- */
 
 /* --- Tradeskillpillen --- */
 
