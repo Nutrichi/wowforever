@@ -27,6 +27,12 @@ import { reputationOrigins, reputationSides, standings } from './config/reputati
 /** Velden die elke post deelt, in welke taal dan ook. */
 const postFields = ({ image }: SchemaContext) => ({
   title: z.string(),
+  /**
+   * De titel voor zoekmachines en de browsertab, als die anders moet zijn dan de kop
+   * (Nutri, 19 oktober 2026: de Journey-post moet gevonden worden op "discount code").
+   * De kop in de feed blijft kort (SCHRIJFSTIJL §3); deze mag langer en zoekwoorden dragen.
+   */
+  metaTitle: z.string().optional(),
   /** De samenvatting onder de titel én de metabeschrijving van de pagina. */
   description: z.string(),
   date: z.coerce.date(),

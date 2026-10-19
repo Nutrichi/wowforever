@@ -1,7 +1,9 @@
 ---
 title: "Leveling-Addon Journey ist bis Level 30 gratis"
-description: "Journey zeigt den nächsten Schritt und einen Pfeil für jede Klasse und jedes Volk in WoW Forever. Die volle Route bis 60 ist ein einmaliger Kauf, der zum Start freigeschaltet wird, mit den neuen Quests von Forever in den Wochen danach."
+metaTitle: "Journey Rabattcode NUTRI: 10 % Rabatt für WoW Forever"
+description: "Der Rabattcode NUTRI gibt 10 % Rabatt auf Journey, das Leveling-Addon für WoW Forever. Level 1 bis 30 sind kostenlos, die volle Route bis 60 ist ein einmaliger Kauf, der zum Start freigeschaltet wird."
 date: 2026-10-19T17:00:00+02:00
+updated: 2026-10-19T17:50:00+02:00
 category: forever
 lang: de
 manual: true
@@ -50,10 +52,12 @@ Es gibt kein Abo. Bis zum 4. Dezember kosten beide Fraktionen 30 Dollar und eine
 
 Das Addon selbst und Level 1 bis 30 sind kostenlos, wie es die Addon-Regeln von Blizzard verlangen; der bezahlte Teil sind zusätzliche Guide-Inhalte. Die kostenlose Version gibt es auf [CurseForge](https://www.curseforge.com/wow/addons/journey).
 
+## Rabattcode für Journey
+
 <a class="wf-partner-banner" href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">
 
 ![Banner der Leveling-Guides von Journey: mit dem Code NUTRI 10 % Rabatt](../../../assets/posts/2026-10-19-wow-forever-journey-code-nutri.jpg)
 
 </a>
 
-Der Creator-Code nutri gibt 10 % Rabatt: 27 Dollar für beide Fraktionen, 22,50 für eine. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Unser Partnerlink</a> setzt den Code an der Kasse ein. Die anderen Leveling-Addons für Forever stehen im [Vergleich der Leveling-Addons](/de/compare/leveling-addons-forever/).
+Der Creator-Code NUTRI gilt als Rabattcode und gibt 10 % Rabatt: 27 Dollar für beide Fraktionen, 22,50 für eine. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Unser Partnerlink</a> setzt den Code an der Kasse ein; selbst eintippen geht auch. Die anderen Leveling-Addons für Forever stehen im [Vergleich der Leveling-Addons](/de/compare/leveling-addons-forever/).

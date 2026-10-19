@@ -89,7 +89,7 @@ const jsonLd = {
 
 <BaseLayout
   locale={locale}
-  title={post.title}
+  title={post.metaTitle ?? post.title}
   description={post.description}
   image={imageUrl}
   ogType="article"

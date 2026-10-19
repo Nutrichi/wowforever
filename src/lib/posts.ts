@@ -43,6 +43,8 @@ export type Post = {
   /** Waar de tekst nog Engels is omdat de vertaling ontbreekt. */
   isFallback: boolean;
   title: string;
+  /** De titel voor zoekmachines, als die anders is dan de kop. */
+  metaTitle?: string;
   description: string;
   date: Date;
   /** Laatste inhoudelijke wijziging; zonder `updated` gelijk aan `date`. */
@@ -112,6 +114,7 @@ function toPost(
     lang,
     isFallback: lang !== wanted,
     title: data.title,
+    metaTitle: data.metaTitle,
     description: data.description,
     date: data.date,
     updated: data.updated ?? data.date,

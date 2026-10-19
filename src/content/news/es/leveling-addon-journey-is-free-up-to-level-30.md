@@ -1,7 +1,9 @@
 ---
 title: "El addon Journey es gratis hasta el nivel 30"
-description: "Journey muestra el siguiente paso y una flecha para cada clase y raza en WoW Forever. La ruta completa hasta el 60 es una compra única que se abre en el lanzamiento, con las nuevas misiones de Forever en las semanas siguientes."
+metaTitle: "Código de descuento Journey NUTRI: 10 % en WoW Forever"
+description: "El código de descuento NUTRI rebaja un 10 % Journey, el addon para subir de nivel en WoW Forever. Los niveles 1 a 30 son gratis, y la ruta completa hasta el 60 es una compra única que se abre en el lanzamiento."
 date: 2026-10-19T17:00:00+02:00
+updated: 2026-10-19T17:50:00+02:00
 category: forever
 lang: es
 manual: true
@@ -50,10 +52,12 @@ No hay suscripción. Hasta el 4 de diciembre, las dos facciones cuestan 30 dóla
 
 El addon y los niveles 1 a 30 son gratis, como exigen las normas de Blizzard sobre addons; la parte de pago es contenido extra de la guía. La versión gratuita está en [CurseForge](https://www.curseforge.com/wow/addons/journey).
 
+## Código de descuento de Journey
+
 <a class="wf-partner-banner" href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">
 
 ![Banner de las guías de leveling de Journey: usa el código NUTRI para un 10 % de descuento](../../../assets/posts/2026-10-19-wow-forever-journey-code-nutri.jpg)
 
 </a>
 
-El código de creador nutri da un 10 % de descuento: 27 dólares por las dos facciones, 22,50 por una. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Nuestro enlace de socio</a> aplica el código al pagar. Los demás addons para subir de nivel en Forever están en [la comparación de addons de leveling](/es/compare/leveling-addons-forever/).
+El código de creador NUTRI funciona como código de descuento y rebaja un 10 %: 27 dólares por las dos facciones, 22,50 por una. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Nuestro enlace de socio</a> aplica el código al pagar; también se puede escribir a mano. Los demás addons para subir de nivel en Forever están en [la comparación de addons de leveling](/es/compare/leveling-addons-forever/).

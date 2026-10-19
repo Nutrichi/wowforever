@@ -1,7 +1,9 @@
 ---
 title: "Leveladdon Journey is gratis tot level 30"
-description: "Journey toont de volgende stap en een pijl voor elke class en elk ras in WoW Forever. De volledige route tot 60 is een eenmalige aankoop die bij de launch opengaat, met de nieuwe quests van Forever in de weken erna."
+metaTitle: "Journey kortingscode NUTRI: 10% korting voor WoW Forever"
+description: "De kortingscode NUTRI geeft 10% korting op Journey, de leveladdon voor WoW Forever. Level 1 tot 30 is gratis, en de volledige route tot 60 is een eenmalige aankoop die bij de launch opengaat."
 date: 2026-10-19T17:00:00+02:00
+updated: 2026-10-19T17:50:00+02:00
 category: forever
 lang: nl
 manual: true
@@ -50,10 +52,12 @@ Er is geen abonnement. Tot 4 december kosten beide facties 30 dollar en één fa
 
 De addon zelf en level 1 tot 30 zijn gratis, zoals de addonregels van Blizzard vragen; het betaalde deel is extra gidsinhoud. De gratis versie staat op [CurseForge](https://www.curseforge.com/wow/addons/journey).
 
+## Kortingscode voor Journey
+
 <a class="wf-partner-banner" href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">
 
 ![Banner van de levelgidsen van Journey: gebruik de code NUTRI voor 10% korting](../../../assets/posts/2026-10-19-wow-forever-journey-code-nutri.jpg)
 
 </a>
 
-De creatorcode nutri geeft 10% korting: 27 dollar voor beide facties, 22,50 voor één. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Onze partnerlink</a> past de code toe bij het afrekenen. De andere leveladdons voor Forever staan naast elkaar in [de vergelijking van leveladdons](/nl/compare/leveling-addons-forever/).
+De creatorcode NUTRI werkt als kortingscode en geeft 10% korting: 27 dollar voor beide facties, 22,50 voor één. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Onze partnerlink</a> past de code toe bij het afrekenen; zelf intypen kan ook. De andere leveladdons voor Forever staan naast elkaar in [de vergelijking van leveladdons](/nl/compare/leveling-addons-forever/).

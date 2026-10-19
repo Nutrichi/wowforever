@@ -1,7 +1,9 @@
 ---
 title: "L’addon Journey est gratuit jusqu’au niveau 30"
-description: "Journey affiche l’étape suivante et une flèche pour chaque classe et chaque race dans WoW Forever. Le parcours complet jusqu’au 60 est un achat unique qui s’ouvre au lancement, avec les nouvelles quêtes de Forever dans les semaines suivantes."
+metaTitle: "Code promo Journey NUTRI : -10 % pour WoW Forever"
+description: "Le code promo NUTRI donne 10 % de réduction sur Journey, l’addon de leveling pour WoW Forever. Les niveaux 1 à 30 sont gratuits, et le parcours complet jusqu’au 60 est un achat unique qui s’ouvre au lancement."
 date: 2026-10-19T17:00:00+02:00
+updated: 2026-10-19T17:50:00+02:00
 category: forever
 lang: fr
 manual: true
@@ -50,10 +52,12 @@ Il n’y a pas d’abonnement. Jusqu’au 4 décembre, les deux factions coûten
 
 L’addon lui-même et les niveaux 1 à 30 sont gratuits, comme l’exigent les règles de Blizzard sur les addons ; la partie payante est un contenu de guide supplémentaire. La version gratuite est sur [CurseForge](https://www.curseforge.com/wow/addons/journey).
 
+## Code promo Journey
+
 <a class="wf-partner-banner" href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">
 
 ![Bannière des guides de leveling de Journey : utilisez le code NUTRI pour 10 % de réduction](../../../assets/posts/2026-10-19-wow-forever-journey-code-nutri.jpg)
 
 </a>
 
-Le code créateur nutri donne 10 % de réduction : 27 dollars pour les deux factions, 22,50 pour une seule. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Notre lien partenaire</a> applique le code au paiement. Les autres addons de montée de niveau pour Forever sont comparés dans [la comparaison des addons de leveling](/fr/compare/leveling-addons-forever/).
+Le code créateur NUTRI sert de code promo et donne 10 % de réduction : 27 dollars pour les deux factions, 22,50 pour une seule. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Notre lien partenaire</a> applique le code au paiement ; on peut aussi le saisir à la main. Les autres addons de montée de niveau pour Forever sont comparés dans [la comparaison des addons de leveling](/fr/compare/leveling-addons-forever/).
