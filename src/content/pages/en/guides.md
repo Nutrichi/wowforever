@@ -6,4 +6,3 @@ short: "Guides"
 updated: 2026-10-19
 lang: en
 ---
-Step-by-step guides for World of Warcraft: Forever, from dungeons to quest chains with a special reward. Every guide names its sources and is updated when the beta changes something.

@@ -7,4 +7,3 @@ updated: 2026-10-19
 lang: es
 manual: true
 ---
-Guías paso a paso para World of Warcraft: Forever, de las mazmorras a las cadenas de misiones con una recompensa especial. Cada guía cita sus fuentes y se actualiza cuando la beta cambia algo.

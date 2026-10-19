@@ -7,4 +7,3 @@ updated: 2026-10-19
 lang: fr
 manual: true
 ---
-Des guides pas à pas pour World of Warcraft: Forever, des donjons aux chaînes de quêtes avec une récompense spéciale. Chaque guide cite ses sources et est mis à jour quand la bêta change quelque chose.

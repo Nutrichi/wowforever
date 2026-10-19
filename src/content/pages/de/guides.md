@@ -7,4 +7,3 @@ updated: 2026-10-19
 lang: de
 manual: true
 ---
-Schritt-für-Schritt-Guides für World of Warcraft: Forever, von Dungeons bis zu Questreihen mit einer besonderen Belohnung. Jeder Guide nennt seine Quellen und wird aktualisiert, wenn die Beta etwas ändert.

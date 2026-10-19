@@ -7,4 +7,3 @@ updated: 2026-10-19
 lang: it
 manual: true
 ---
-Guide passo dopo passo per World of Warcraft: Forever, dai dungeon alle catene di missioni con una ricompensa speciale. Ogni guida cita le sue fonti e viene aggiornata quando la beta cambia qualcosa.

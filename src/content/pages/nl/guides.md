@@ -7,4 +7,3 @@ updated: 2026-10-19
 lang: nl
 manual: true
 ---
-Stap-voor-stapgidsen voor World of Warcraft: Forever, van dungeons tot questreeksen met een bijzondere beloning. Elke gids noemt zijn bronnen en wordt bijgewerkt als de beta iets verandert.
