@@ -35,7 +35,7 @@ I maestri di volo portano i giocatori da una città di Azeroth all'altra per una
 | **Kalimdor** | 19 punti di volo, 33 rotte | 22 punti di volo, 49 rotte |
 | **Nuovo in Forever** | 4 punti di volo, 6 rotte | 3 punti di volo, 6 rotte |
 
-I punti di volo e le rotte vengono dai file della beta, build 1.60.1.70245. Non sono cambiati da fine settembre. Una città con un maestro di volo per ogni fazione, come Everlook, conta una volta per fazione.
+I punti di volo e le rotte vengono dai file della beta. Non sono cambiati da fine settembre. Una città con un maestro di volo per ogni fazione, come Everlook, conta una volta per fazione.
 
 Sulla mappa, una linea blu è una rotta dell'Alliance e una rossa una rotta dell'Horde. Una linea tratteggiata è una nave o uno zeppelin, bianca se entrambe le fazioni possono usarla. Un bordo dorato e la parola NEW indicano una rotta nuova. Uno scudo è un maestro di volo, un cerchio un molo o una torre degli zeppelin.
 

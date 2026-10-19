@@ -96,7 +96,7 @@ Avec Talented : Soul Siphon 3/3, Siphon Life 1/1 et Nightfall 2/2. [Ouvrir la ve
 
 Improved Drains renforce Drain Life, et Fel Concentration empêche les dégâts de repousser votre canalisation. Avec Improved Life Tap, chaque point de vie drainé vaut 1,2 point de mana. Soul Siphon augmente Drain Life jusqu'à 36 % quand vos autres effets sont sur le monstre. Pas de bonne baguette, ou pas envie de vous respécialiser ? Prenez les talents de drain dès le départ.
 
-La build du 15 octobre a retiré Malediction de l'arbre. Ses points vont à Grim Reach, pour plus de portée, et à Malevolence ou Nightfall. Pandemic n'augmente que les dégâts critiques et apporte peu à ces niveaux. Siphon Life inflige peu de dégâts, mais compte comme un effet de plus pour Soul Siphon.
+Malediction a disparu de l'arbre. Ses points vont à Grim Reach, pour plus de portée, et à Malevolence ou Nightfall. Pandemic n'augmente que les dégâts critiques et apporte peu à ces niveaux. Siphon Life inflige peu de dégâts, mais compte comme un effet de plus pour Soul Siphon.
 
 1. Envoyez votre démon.
 2. Engagez avec Bane of Agony.
@@ -236,7 +236,7 @@ Votre arme sert surtout de support de stats. Les dégâts des sorts qu'elle ajou
 | **Épées à une main** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Bâtons** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Les Humans n'ont plus besoin d'une épée : depuis la build du 15 octobre, leur racial Ruthless donne 2 % de chance de coup critique avec n'importe quelle arme. Plus de détails dans [cet article](/fr/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Les Humans n'ont plus besoin d'une épée : leur racial Ruthless donne désormais 2 % de chance de coup critique avec n'importe quelle arme. Plus de détails dans [cet article](/fr/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Baguettes et équipement
 

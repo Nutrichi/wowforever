@@ -200,7 +200,7 @@ Paladins hebben een paar classquests met beloningen die de moeite waard zijn. Fo
 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277205"><img class="wf-wh__icon" src="/wh/inv_misc_cape_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cloak of the Divine Storm</a> | <a href="https://www.wowhead.com/forever/quest=78093">Return to Delgren</a> | |
 | 60 | Summon Charger, Summon Forsaken Charger | Nog niet bekend | Nog niet bekend |
 
-**Verigan's Fist** is de tweehandige mace van de Alliance en heeft een proc sinds de build van 1 oktober. Meer in [deze post](/nl/news/verigans-fist-gets-a-proc-like-the-horde-blade/). De **Cloak of the Divine Storm** komt uit een reeks die voorlopig alleen de Alliance kan afmaken, zie [deze post](/nl/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Forsaken Paladins krijgen op level 60 een [eigen charger](/nl/news/wow-forever-forsaken-charger/).
+**Verigan's Fist** is de tweehandige mace van de Alliance en heeft nu een proc. Meer in [deze post](/nl/news/verigans-fist-gets-a-proc-like-the-horde-blade/). De **Cloak of the Divine Storm** komt uit een reeks die voorlopig alleen de Alliance kan afmaken, zie [deze post](/nl/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Forsaken Paladins krijgen op level 60 een [eigen charger](/nl/news/wow-forever-forsaken-charger/).
 
 ## Wapens
 

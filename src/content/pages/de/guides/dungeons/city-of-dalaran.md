@@ -40,7 +40,7 @@ Die City of Dalaran ist einer der neuen Dungeons von WoW Forever. Die violette K
 | Achtung | Fast jedes Monster ist immun gegen Arcane |
 | Kurzname | CoD |
 
-Seit dem [Betabuild vom 8. Oktober](/de/news/city-of-dalaran-opens-in-the-fourth-beta-week/) lässt sich der Dungeon in der Beta testen. Die Beta geht seit dem 1. Oktober bis Stufe 30. Die letzten Bosse liegen darüber, also sind noch nicht alle ihre Mechaniken bekannt.
+Der Dungeon [lässt sich in der Beta testen](/de/news/city-of-dalaran-opens-in-the-fourth-beta-week/). Die Beta geht seit dem 1. Oktober bis Stufe 30. Die letzten Bosse liegen darüber, also sind noch nicht alle ihre Mechaniken bekannt.
 
 ## Der Weg dorthin
 
@@ -48,7 +48,7 @@ Seit dem [Betabuild vom 8. Oktober](/de/news/city-of-dalaran-opens-in-the-fourth
 
 **Horde.** Die Horde ist in der Stadt nicht willkommen und kommt durch einen Tunnel außerhalb, bei /way 8.8 59.6, wo das <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> Zugang gewährt. Mindestens ein Spieler braucht den <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a>, um das Tor zu öffnen. Von The Sepulcher in Silverpine Forest sind es ein paar Minuten zu Fuß.
 
-Seit dem Beta-Build vom 15. Oktober greift die Stadt Hordespieler sofort an, und die Questreihe für den Dalaran Sewer Key gibt keinen freien Zugang mehr zur Stadt in der offenen Welt. Der Weg in den Dungeon bleibt gleich ([mehr](/de/news/horde-players-are-attacked-on-sight-in-dalaran/)).
+Die Stadt greift Hordespieler jetzt sofort an, und die Questreihe für den Dalaran Sewer Key gibt keinen freien Zugang mehr zur Stadt in der offenen Welt. Der Weg in den Dungeon bleibt gleich ([mehr](/de/news/horde-players-are-attacked-on-sight-in-dalaran/)).
 
 <div class="wf-shots">
 

@@ -37,6 +37,5 @@ Chaque classe a aussi son propre guide par extension dans [Classes](/fr/classes/
 ## Comparatifs
 
 - [RestedXP et Zygor comparés](/fr/compare/restedxp-vs-zygor/)
-- [RestedXP et le guide de Joana comparés](/fr/compare/restedxp-vs-joana/)
 - [Aide au leveling gratuite et payante comparées](/fr/compare/free-vs-premium/)
 - [Donjons ou quêtes pendant le leveling](/fr/compare/dungeon-vs-questing/)

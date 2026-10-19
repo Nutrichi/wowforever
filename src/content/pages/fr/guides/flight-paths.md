@@ -35,7 +35,7 @@ Les maîtres de vol emmènent les joueurs d'une ville d'Azeroth à l'autre pour 
 | **Kalimdor** | 19 points de vol, 33 trajets | 22 points de vol, 49 trajets |
 | **Nouveau dans Forever** | 4 points de vol, 6 trajets | 3 points de vol, 6 trajets |
 
-Les points de vol et les trajets viennent des fichiers de la bêta, build 1.60.1.70245. Ils n'ont pas changé depuis fin septembre. Une ville avec un maître de vol pour chaque faction, comme Everlook, compte une fois par faction.
+Les points de vol et les trajets viennent des fichiers de la bêta. Ils n'ont pas changé depuis fin septembre. Une ville avec un maître de vol pour chaque faction, comme Everlook, compte une fois par faction.
 
 Sur la carte, une ligne bleue est un trajet de l'Alliance et une ligne rouge un trajet de la Horde. Une ligne pointillée est un bateau ou un zeppelin, blanche si les deux factions peuvent l'emprunter. Un bord doré et le mot NEW signalent un nouveau trajet. Un bouclier est un maître de vol, un rond un quai ou une tour de zeppelin.
 

@@ -200,7 +200,7 @@ I Paladin hanno alcune missioni di classe con ricompense che valgono il viaggio.
 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277205"><img class="wf-wh__icon" src="/wh/inv_misc_cape_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cloak of the Divine Storm</a> | <a href="https://www.wowhead.com/forever/quest=78093">Return to Delgren</a> | |
 | 60 | Summon Charger, Summon Forsaken Charger | Non ancora noto | Non ancora noto |
 
-**Verigan's Fist** è la mazza a due mani dell'Alliance e ha un effetto dalla build del 1° ottobre. Altro in [questo articolo](/it/news/verigans-fist-gets-a-proc-like-the-horde-blade/). La **Cloak of the Divine Storm** viene da una catena che per ora solo l'Alliance può completare, vedi [questo articolo](/it/news/paladins-earn-a-cloak-only-the-alliance-can-get/). I Paladin Forsaken ottengono al livello 60 [un destriero tutto loro](/it/news/wow-forever-forsaken-charger/).
+**Verigan's Fist** è la mazza a due mani dell'Alliance e ora ha un effetto. Altro in [questo articolo](/it/news/verigans-fist-gets-a-proc-like-the-horde-blade/). La **Cloak of the Divine Storm** viene da una catena che per ora solo l'Alliance può completare, vedi [questo articolo](/it/news/paladins-earn-a-cloak-only-the-alliance-can-get/). I Paladin Forsaken ottengono al livello 60 [un destriero tutto loro](/it/news/wow-forever-forsaken-charger/).
 
 ## Armi
 

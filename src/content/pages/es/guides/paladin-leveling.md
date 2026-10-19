@@ -200,7 +200,7 @@ Los Paladin tienen algunas misiones de clase con recompensas que merecen el viaj
 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277205"><img class="wf-wh__icon" src="/wh/inv_misc_cape_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cloak of the Divine Storm</a> | <a href="https://www.wowhead.com/forever/quest=78093">Return to Delgren</a> | |
 | 60 | Summon Charger, Summon Forsaken Charger | Aún no se sabe | Aún no se sabe |
 
-**Verigan's Fist** es la maza de dos manos de la Alliance y tiene un efecto desde el build del 1 de octubre. Más en [este artículo](/es/news/verigans-fist-gets-a-proc-like-the-horde-blade/). La **Cloak of the Divine Storm** sale de una cadena que de momento solo la Alliance puede terminar, mira [este artículo](/es/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Los Paladin Forsaken consiguen en el nivel 60 [su propio corcel](/es/news/wow-forever-forsaken-charger/).
+**Verigan's Fist** es la maza de dos manos de la Alliance y ahora tiene un efecto. Más en [este artículo](/es/news/verigans-fist-gets-a-proc-like-the-horde-blade/). La **Cloak of the Divine Storm** sale de una cadena que de momento solo la Alliance puede terminar, mira [este artículo](/es/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Los Paladin Forsaken consiguen en el nivel 60 [su propio corcel](/es/news/wow-forever-forsaken-charger/).
 
 ## Armas
 

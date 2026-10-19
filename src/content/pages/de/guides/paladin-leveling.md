@@ -200,7 +200,7 @@ Paladins haben ein paar Klassenquests mit Belohnungen, die den Weg wert sind. Fo
 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277205"><img class="wf-wh__icon" src="/wh/inv_misc_cape_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cloak of the Divine Storm</a> | <a href="https://www.wowhead.com/forever/quest=78093">Return to Delgren</a> | |
 | 60 | Summon Charger, Summon Forsaken Charger | Noch nicht bekannt | Noch nicht bekannt |
 
-**Verigan's Fist** ist der Zweihandstreitkolben der Alliance und hat seit dem Build vom 1. Oktober einen Proc. Mehr in [diesem Beitrag](/de/news/verigans-fist-gets-a-proc-like-the-horde-blade/). Die **Cloak of the Divine Storm** kommt aus einer Reihe, die vorerst nur die Alliance abschließen kann, siehe [diesen Beitrag](/de/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Forsaken-Paladins bekommen auf Level 60 [ein eigenes Streitross](/de/news/wow-forever-forsaken-charger/).
+**Verigan's Fist** ist der Zweihandstreitkolben der Alliance und hat jetzt einen Proc. Mehr in [diesem Beitrag](/de/news/verigans-fist-gets-a-proc-like-the-horde-blade/). Die **Cloak of the Divine Storm** kommt aus einer Reihe, die vorerst nur die Alliance abschließen kann, siehe [diesen Beitrag](/de/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Forsaken-Paladins bekommen auf Level 60 [ein eigenes Streitross](/de/news/wow-forever-forsaken-charger/).
 
 ## Waffen
 

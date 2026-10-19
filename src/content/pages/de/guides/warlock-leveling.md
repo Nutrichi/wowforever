@@ -96,7 +96,7 @@ Mit Talented: Soul Siphon 3/3, Siphon Life 1/1 und Nightfall 2/2. [Öffne die Ve
 
 Improved Drains macht Drain Life stärker, und Fel Concentration verhindert, dass Schaden deine Kanalisierung zurückwirft. Mit Improved Life Tap ist jeder Punkt entzogener Gesundheit 1,2 Mana wert. Soul Siphon erhöht Drain Life um bis zu 36 %, wenn deine anderen Effekte auf dem Monster liegen. Kein guter Zauberstab, oder keine Lust umzuskillen? Dann nimm die Drain-Talente von Anfang an.
 
-Der Build vom 15. Oktober hat Malediction aus dem Baum entfernt. Seine Punkte gehen in Grim Reach, für mehr Reichweite, und in Malevolence oder Nightfall. Pandemic erhöht nur den kritischen Schaden und bringt auf diesen Leveln wenig. Siphon Life macht wenig Schaden, zählt aber als zusätzlicher Effekt für Soul Siphon.
+Malediction ist aus dem Baum verschwunden. Seine Punkte gehen in Grim Reach, für mehr Reichweite, und in Malevolence oder Nightfall. Pandemic erhöht nur den kritischen Schaden und bringt auf diesen Leveln wenig. Siphon Life macht wenig Schaden, zählt aber als zusätzlicher Effekt für Soul Siphon.
 
 1. Schick deinen Dämon vor.
 2. Pull mit Bane of Agony.
@@ -236,7 +236,7 @@ Deine Waffe ist vor allem ein Werteträger. Der Zauberschaden, den sie bringt, z
 | **Einhandschwerter** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Stäbe** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Humans brauchen kein Schwert mehr: Seit dem Build vom 15. Oktober gibt ihr Volksbonus Ruthless 2 % kritische Trefferchance mit jeder Waffe. Mehr dazu in [diesem Beitrag](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Humans brauchen kein Schwert mehr: Ihr Volksbonus Ruthless gibt jetzt 2 % kritische Trefferchance mit jeder Waffe. Mehr dazu in [diesem Beitrag](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Zauberstäbe und Ausrüstung
 

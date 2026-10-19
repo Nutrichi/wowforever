@@ -199,7 +199,7 @@ Paladins have a few class quests with rewards worth the trip. Forsaken Paladins 
 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277205"><img class="wf-wh__icon" src="/wh/inv_misc_cape_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cloak of the Divine Storm</a> | <a href="https://www.wowhead.com/forever/quest=78093">Return to Delgren</a> | |
 | 60 | Summon Charger, Summon Forsaken Charger | Not known yet | Not known yet |
 
-**Verigan's Fist** is the two-handed mace of the Alliance and has a proc since the build of 1 October. More in [this post](/news/verigans-fist-gets-a-proc-like-the-horde-blade/). The **Cloak of the Divine Storm** comes from a chain that only the Alliance can finish for now, see [this post](/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Forsaken Paladins get a [charger of their own](/news/wow-forever-forsaken-charger/) at level 60.
+**Verigan's Fist** is the two-handed mace of the Alliance and now has a proc. More in [this post](/news/verigans-fist-gets-a-proc-like-the-horde-blade/). The **Cloak of the Divine Storm** comes from a chain that only the Alliance can finish for now, see [this post](/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Forsaken Paladins get a [charger of their own](/news/wow-forever-forsaken-charger/) at level 60.
 
 ## Weapons
 

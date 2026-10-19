@@ -10,7 +10,7 @@ faq:
   - q: "Le Frost Mage est-il bon dans WoW Forever ?"
     a: "Oui. Ice Lance et Fingers of Frost permettent au Frost d'utiliser Shatter sur une seule cible, même sur les boss qu'on ne peut pas geler. L'ancienne spé de leveling et de PvP devient une spé de dégâts solide en donjon et en raid, avec le plus de contrôle des trois spés de Mage."
   - q: "Combien de dégâts fait Ice Lance sur une cible Frozen ?"
-    a: "200 % de plus. Le build bêta du 15 octobre a baissé ce bonus, qui était de 300 %. Ice Lance est instantané, coûte 45 de mana et demande le niveau 20."
+    a: "200 % de plus. Il était de 300 % auparavant. Ice Lance est instantané, coûte 45 de mana et demande le niveau 20."
   - q: "Pourquoi un build Frost prend-il Missile Barrage ?"
     a: "Missile Barrage est passé dans la première rangée de l'arbre Arcane. À 2/2, chaque Frostbolt a 20 % de chances de rendre votre prochain Arcane Missiles gratuit et deux fois plus rapide. Beaucoup de dégâts pour deux points."
   - q: "Puis-je encore utiliser Frostbolt rang 1 ?"
@@ -39,7 +39,7 @@ Le Frost Mage de WoW Forever ralentit et gèle ses cibles, survit mieux que les 
 
 ## Ce qui change pour le Frost
 
-- **Ice Lance est nouveau.** Un talent au niveau 20 : instantané, 45 de mana, et 200 % de dégâts en plus sur les cibles Frozen. Le build bêta du 15 octobre a baissé ce bonus, qui était de 300 %.
+- **Ice Lance est nouveau.** Un talent au niveau 20 : instantané, 45 de mana, et 200 % de dégâts en plus sur les cibles Frozen. Il était de 300 % auparavant.
 - **Fingers of Frost est nouveau.** Vos effets de Chill ont 15 % de chances de traiter vos 2 sorts suivants comme si la cible était Frozen. Cela marche sur les cibles qu'on ne peut pas geler, comme la plupart des boss.
 - **Missile Barrage est à portée.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400588"><img class="wf-wh__icon" src="/wh/ability_mage_missilebarrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Missile Barrage</a> se trouve dans la première rangée de l'arbre Arcane. À 2/2, chaque <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> a 20 % de chances de rendre votre prochain <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5143"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Missiles</a> gratuit et deux fois plus rapide.
 - **Frost Blast** au niveau 24 est une décharge de givre faible et rapide qui ralentit la cible de 40 % pendant 9 secondes.

@@ -37,6 +37,5 @@ Jede Klasse hat außerdem pro Erweiterung einen eigenen Guide unter [Klassen](/d
 ## Vergleiche
 
 - [RestedXP und Zygor im Vergleich](/de/compare/restedxp-vs-zygor/)
-- [RestedXP und Joanas Guide im Vergleich](/de/compare/restedxp-vs-joana/)
 - [Kostenlose und kostenpflichtige Levelhilfe im Vergleich](/de/compare/free-vs-premium/)
 - [Dungeons oder Questen beim Leveln](/de/compare/dungeon-vs-questing/)

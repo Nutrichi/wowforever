@@ -37,6 +37,5 @@ Además, cada clase tiene su propia guía por expansión en [Clases](/es/classes
 ## Comparativas
 
 - [RestedXP y Zygor comparados](/es/compare/restedxp-vs-zygor/)
-- [RestedXP y la guía de Joana comparados](/es/compare/restedxp-vs-joana/)
 - [Ayuda para subir gratuita y de pago comparadas](/es/compare/free-vs-premium/)
 - [Mazmorras o misiones mientras subes](/es/compare/dungeon-vs-questing/)

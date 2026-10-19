@@ -185,6 +185,11 @@ const pages = defineCollection({
     sources: sourcesField,
     /** Een eigen video bij een gids: het id op YouTube. De app speelt hem af in de gids. */
     video: z.string().regex(/^[\w-]{11}$/).optional(),
+    /**
+     * Een dungeon in drie tabs (19 oktober 2026): welke dungeon en welke tab. De kop, de
+     * tabs, de buit en de quests komen uit data/dungeons (components/guides/DungeonPage.astro).
+     */
+    dungeon: z.object({ slug: z.string(), tab: z.enum(['loot', 'quests', 'guide']) }).optional(),
   }),
 });
 

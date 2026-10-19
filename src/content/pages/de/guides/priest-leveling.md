@@ -55,7 +55,7 @@ Nutze <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17">
 
 Werte für jeden Build auf diesen Leveln: zuerst Intellect und Zaubermacht, dann Stamina und Spirit, dann Rüstung.
 
-Der Beta-Build vom 15. Oktober setzt Mental Strength in Reihe 2, wo es jetzt die Intelligenz erhöht, und Improved Power Word: Shield in Reihe 3. Shadow bekommt Dark Inspiration, verliert Improved Fade und Shadow Infinity, und Improved Mind Blast wandert in Reihe 2. Die Builds unten und der Talentrechner folgen den neuen Bäumen; die Builds behalten dieselben Talente. Alle Änderungen stehen in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+Mental Strength steht jetzt in Reihe 2, wo es die Intelligenz erhöht, und Improved Power Word: Shield in Reihe 3. Shadow bekommt Dark Inspiration, verliert Improved Fade und Shadow Infinity, und Improved Mind Blast wandert in Reihe 2. Die Builds unten und der Talentrechner folgen den aktuellen Bäumen. Alle Änderungen stehen in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Discipline-Build für Level 30
 

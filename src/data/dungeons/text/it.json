@@ -1,0 +1,66 @@
+{
+ "hall-of-thanes": {
+  "location": "Old Ironforge, sotto Ironforge",
+  "entrance": "Nel High Seat di Ironforge, dove siede Magni Bronzebeard, si apre a sinistra un passaggio pieno di ragnatele a /way 43.5 52.0. Seguilo fino in fondo, fino al portale. Il sentiero passa sopra la lava, e una caduta è mortale.",
+  "intro": "Il luogo di riposo dei grandi Dwarves degli Eastern Kingdoms, invaso dai Dark Iron Dwarves. Per la maggior parte dei giocatori dell’Alleanza il primo dungeon di WoW Forever: quattro boss, cinque missioni e bottino blu dal livello 13.",
+  "quests": {
+   "96394": {
+    "objective": "Uccidi 15 Enraged Apparitions e 10 Tormented Souls, i fantasmi delle prime sale, e dai pace allo spirito di Anvilmar.",
+    "shots": [
+     {
+      "file": "2026-09-26-wow-forever-hall-of-thanes-afadra-dunwall.jpg",
+      "alt": "Afadra Dunwall in una biblioteca piena di libri, in cima alle scale dall’ingresso della Hall of Thanes"
+     }
+    ]
+   },
+   "96393": {
+    "objective": "Entra nella Hall of Thanes e riporta la testa di Durgen Dirgehammer, l’ultimo boss.",
+    "note": "Earthseer Farsen dà questa missione solo dopo Underground Map, che inizia con la Dark Iron Map lasciata da un Dark Iron Spy durante Nip 'Em in the Bud.",
+    "shots": [
+     {
+      "file": "2026-09-26-wow-forever-hall-of-thanes-earthseer-farsen.jpg",
+      "alt": "Earthseer Farsen nella neve di Dun Morogh, con la finestra della missione Old Ironforge Incursion aperta"
+     },
+     {
+      "file": "2026-09-26-wow-forever-hall-of-thanes-dark-iron-map.jpg",
+      "alt": "La finestra del bottino di un Dark Iron Spy con la Dark Iron Map e il suo tooltip This Item Begins a Quest"
+     }
+    ]
+   },
+   "98423": {
+    "objective": "Porta la tavola di pietra dietro la porta di una cripta nel Reliquary of Kings, l’ultima sala, a Magni Bronzebeard a Ironforge.",
+    "note": "La missione non si può condividere.",
+    "shots": [
+     {
+      "file": "2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg",
+      "alt": "La tavola di The Treaty of Understanding in una cripta del Reliquary of Kings, con la finestra della missione aperta"
+     }
+    ]
+   },
+   "96395": {
+    "objective": "Dai pace allo spirito di Faldrim Anvilmar, il primo boss.",
+    "note": "L’unica missione di questo dungeon che può fare anche l’Orda. Il Ghostly Attendant aspetta nella sala prima di Anvilmar's Rest.",
+    "shots": [
+     {
+      "file": "2026-09-26-wow-forever-hall-of-thanes-ghostly-attendant.jpg",
+      "alt": "Il Ghostly Attendant con la finestra della missione An Ancient Grudge aperta, tra i fantasmi della prima sala"
+     }
+    ]
+   },
+   "96403": {
+    "objective": "Raccogli 8 Dwarven Heirlooms nella Hall of Thanes.",
+    "note": "Sono su piattaforme illuminate da candele in tutto il dungeon. Le cripte del Reliquary of Kings ne contengono abbastanza per un gruppo di cinque.",
+    "shots": [
+     {
+      "file": "2026-09-26-wow-forever-hall-of-thanes-thom-filch.jpg",
+      "alt": "Thom Filch con la finestra della missione Important Heirlooms aperta, appena fuori dalla Hall of Thanes"
+     },
+     {
+      "file": "2026-09-26-wow-forever-hall-of-thanes-dwarven-heirlooms.jpg",
+      "alt": "Una piattaforma di pietra rialzata con candele e Dwarven Heirlooms in un corridoio buio della Hall of Thanes"
+     }
+    ]
+   }
+  }
+ }
+}

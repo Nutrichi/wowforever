@@ -35,7 +35,7 @@ Flight masters brengen spelers voor een handvol zilver van de ene stad van Azero
 | **Kalimdor** | 19 vluchtpunten, 33 routes | 22 vluchtpunten, 49 routes |
 | **Nieuw in Forever** | 4 vluchtpunten, 6 routes | 3 vluchtpunten, 6 routes |
 
-De vluchtpunten en routes komen uit de bestanden van de beta, build 1.60.1.70245. Ze zijn sinds eind september niet veranderd. Een stad met een flight master voor elke factie, zoals Everlook, telt één keer per factie.
+De vluchtpunten en routes komen uit de bestanden van de beta. Ze zijn sinds eind september niet veranderd. Een stad met een flight master voor elke factie, zoals Everlook, telt één keer per factie.
 
 Op de kaart is een blauwe lijn een route van de Alliance en een rode lijn een route van de Horde. Een stippellijn is een boot of een zeppelin, wit als beide facties hem kunnen gebruiken. Een gouden rand en het woord NEW wijzen op een nieuwe route. Een schild is een flight master, een rond teken een haven of zeppelintoren.
 

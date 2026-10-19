@@ -187,9 +187,9 @@ Associate Production Director Clay Stone zei dat de kunststijl van Classic tijdl
 
 De ervaringscurve verandert niet: een personage heeft evenveel nodig voor level 60 als in het oorspronkelijke Classic, zei Blizzard tegen The Sun. Wat verandert, is waar die ervaring vandaan komt, want de nieuwe zones leggen routes aan die het oorspronkelijke spel niet had. The Riverglades en Shen'dralas liggen in het stuk waar het levelen trager gaat, en Mount Hyjal ligt dicht bij 60.
 
-Dungeons werken anders. Ervaring uit monsters in een dungeon gaat omlaag, ervaring uit de dungeonquests gaat fors omhoog. Een eerste run door een dungeon loont, een herhaling veel minder. Blizzard wil spelers in de wereld in plaats van in dezelfde dungeon. Sinds de beta-build van 1 oktober geven dungeonquests 50% minder van die extra experience, omdat testers te snel levelden.
+Dungeons werken anders. Ervaring uit monsters in een dungeon gaat omlaag, ervaring uit de dungeonquests gaat fors omhoog. Een eerste run door een dungeon loont, een herhaling veel minder. Blizzard wil spelers in de wereld in plaats van in dezelfde dungeon. Later verloren dungeonquests de helft van die extra experience, omdat testers te snel levelden.
 
-Per saldo komt het op hetzelfde uit. Van level 1 naar 20 duurt gemiddeld 20,5 uur in Forever tegenover 20,4 in Classic Era, zegt Josh Greenfield in de [eerste podcast van de ontwikkelaars](/nl/news/a-first-developer-podcast-promises-fewer-blues/). De volgende build van de beta geeft ook minder blauwe questbeloningen in dungeons, zodat de stap van wit naar groen naar blauw aanvoelt zoals in Classic, zegt Tim Jones.
+Per saldo komt het op hetzelfde uit. Van level 1 naar 20 duurt gemiddeld 20,5 uur in Forever tegenover 20,4 in Classic Era, zegt Josh Greenfield in de [eerste podcast van de ontwikkelaars](/nl/news/a-first-developer-podcast-promises-fewer-blues/). De volgende update van de beta geeft ook minder blauwe questbeloningen in dungeons, zodat de stap van wit naar groen naar blauw aanvoelt zoals in Classic, zegt Tim Jones.
 
 Er komt geen WoW Token en geen boost, zei Associate Production Director Clay Stone in een interview met Destin. Het inhaalsysteem blijft "speel het spel". Goud dat voor echt geld gekocht is, kost het goud, een schorsing of het account, en het spel toont een waarschuwing bij elke handel met een onbekende, zei Blizzard op 1 oktober.
 
@@ -267,7 +267,7 @@ De bomen houden hun oude vorm, vertelde Blizzard aan The Sun: drie per class, ze
 
 De nieuwe combinaties van ras en class zijn de Undead Paladin, de Dwarf Shaman, de Human Hunter, de Gnome Priest, de Orc Mage en de Troll Warlock, plus de classes van de Skyborne. De Undead Paladin hangt samen met de eerste Forsaken Paladin in Warcraft III Reforged: Forsaken Kingdom.
 
-Ook de racials zijn herwerkt. Elk ras heeft nu vier racials en de resistance-racials zijn weg. Sinds de beta-build van 15 oktober zijn ook de weapon specializations weg: [Humans, Dwarves en Orcs krijgen een bonus op critical strikes](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) die met elk wapen werkt. De volledige tabel van rassen en classes, met elke racial per ras, staat op [Classes](/nl/classes/).
+Ook de racials zijn herwerkt. Elk ras heeft nu vier racials en de resistance-racials zijn weg. Ook de weapon specializations zijn weg: [Humans, Dwarves en Orcs krijgen een bonus op critical strikes](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) die met elk wapen werkt. De volledige tabel van rassen en classes, met elke racial per ras, staat op [Classes](/nl/classes/).
 
 ## Nieuwe systemen
 

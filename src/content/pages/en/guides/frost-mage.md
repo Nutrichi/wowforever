@@ -9,7 +9,7 @@ faq:
   - q: "Is Frost Mage good in WoW Forever?"
     a: "Yes. Ice Lance and Fingers of Frost let Frost use Shatter on one target, even on bosses you cannot freeze. That turns the old leveling and PvP spec into a strong damage spec for dungeons and raids, with the most control of the three Mage specs."
   - q: "How much damage does Ice Lance deal to Frozen targets?"
-    a: "200% more. The beta build of 15 October lowered the bonus from 300%. Ice Lance is instant, costs 45 mana and needs level 20."
+    a: "200% more. It used to be 300%. Ice Lance is instant, costs 45 mana and needs level 20."
   - q: "Why does a Frost build take Missile Barrage?"
     a: "Missile Barrage moved to the first row of the Arcane tree. At 2/2, every Frostbolt has a 20% chance to make your next Arcane Missiles free and twice as fast. That is a lot of damage for two points."
   - q: "Can I still use rank 1 Frostbolt?"
@@ -38,7 +38,7 @@ The Frost Mage in WoW Forever slows and freezes its targets, survives better tha
 
 ## What changes for Frost
 
-- **Ice Lance is new.** A talent at level 20: instant, 45 mana, and 200% more damage to Frozen targets. The beta build of 15 October lowered that from 300%.
+- **Ice Lance is new.** A talent at level 20: instant, 45 mana, and 200% more damage to Frozen targets. It used to be 300%.
 - **Fingers of Frost is new.** Your Chill effects have a 15% chance to treat your next 2 spells as if the target were Frozen. That works on targets you cannot freeze, such as most bosses.
 - **Missile Barrage is in reach.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400588"><img class="wf-wh__icon" src="/wh/ability_mage_missilebarrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Missile Barrage</a> sits in the first row of the Arcane tree. At 2/2 every <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> has a 20% chance to make your next <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5143"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Missiles</a> free and twice as fast.
 - **Frost Blast** at level 24 is a weak, quick blast that slows the target by 40% for 9 seconds.

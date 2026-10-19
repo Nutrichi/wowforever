@@ -36,6 +36,5 @@ Each class also has its own guide per expansion on [Classes](/classes/), with ta
 ## Comparisons
 
 - [RestedXP and Zygor compared](/compare/restedxp-vs-zygor/)
-- [RestedXP and Joana's guide compared](/compare/restedxp-vs-joana/)
 - [Free and paid leveling help compared](/compare/free-vs-premium/)
 - [Dungeons or questing while leveling](/compare/dungeon-vs-questing/)

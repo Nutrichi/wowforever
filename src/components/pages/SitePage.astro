@@ -25,6 +25,7 @@ import { guideT } from '../../i18n/guides';
 import GuidesHub from '../guides/GuidesHub.astro';
 import ForeverTimeline from './ForeverTimeline.astro';
 import DungeonBand from '../guides/DungeonBand.astro';
+import DungeonPage from '../guides/DungeonPage.astro';
 import TradeskillNav from '../tradeskills/TradeskillNav.astro';
 import { tsData } from '../../lib/tradeskills-forever';
 import { hubCategories } from '../../config/guides-hub';
@@ -62,9 +63,13 @@ const all = await getPages(locale);
 const parts = pageKey.split('/');
 const depth = (key: string) => key.split('/').length;
 const hasChildren = (key: string) => all.some((other) => other.key.startsWith(`${key}/`));
-const groupKey = depth(pageKey) >= 3
-  ? pageKey.split('/').slice(0, -1).join('/')
-  : depth(pageKey) === 2 && hasChildren(pageKey) ? pageKey : null;
+// Een dungeon in drie tabs (19 oktober 2026): de chips tonen de andere dungeons, niet de tabs.
+const dungeon = page.entry.data.dungeon;
+const groupKey = dungeon
+  ? 'guides/dungeons'
+  : depth(pageKey) >= 3
+    ? pageKey.split('/').slice(0, -1).join('/')
+    : depth(pageKey) === 2 && hasChildren(pageKey) ? pageKey : null;
 /*
  * Een grote groep (30 september 2026, de petgidsen: meer dan negentig pagina's)
  * krijgt geen rij chips met elke pagina; daar staan de chips van het eerste
@@ -72,7 +77,7 @@ const groupKey = depth(pageKey) >= 3
  */
 const maxGroupChips = 20;
 const groupMembers = groupKey
-  ? all.filter((other) => other.key === groupKey || other.key.startsWith(`${groupKey}/`))
+  ? all.filter((other) => other.key === groupKey || (other.key.startsWith(`${groupKey}/`) && depth(other.key) === depth(groupKey) + 1))
   : [];
 /*
  * Bij de gidsen (19 oktober 2026, Nutri: "This is messy"): geen rij met alle
@@ -116,6 +121,7 @@ for (let i = 2; i < parts.length; i++) {
 }
 crumbs.push({ name: page.short, path: page.href });
 
+const hideSources = folder === 'guides' || folder === 'tradeskills' || pageKey === 'forever';
 const canonical = new URL(page.href, Astro.site ?? 'https://wowforever.be').href;
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -172,7 +178,7 @@ const jsonLd = {
     {members.length > 1 && (
       <nav class="wf-gchips" aria-label={t('otherPages')} data-pagefind-ignore>
         {members.map((other) => (
-          <a class="wf-gchip" href={other.href} aria-current={other.key === page.key ? 'page' : undefined}>{other.short}</a>
+          <a class="wf-gchip" href={other.href} aria-current={other.key === page.key || (dungeon && other.key === `guides/dungeons/${dungeon.slug}`) ? 'page' : undefined}>{other.short}</a>
         ))}
       </nav>
     )}
@@ -185,9 +191,13 @@ const jsonLd = {
     {/* De levelband van alle dungeons, sinds 19 oktober 2026 hier en niet meer op de hub. */}
     {pageKey === 'guides/dungeons' && <DungeonBand locale={locale} />}
 
-    <div class="wf-gprose">
-      <Content />
-    </div>
+    {dungeon
+      ? <DungeonPage locale={locale} slug={dungeon.slug} tab={dungeon.tab}><Content /></DungeonPage>
+      : (
+        <div class="wf-gprose">
+          <Content />
+        </div>
+      )}
 
     {/* De hub /guides/ toont onder de inleiding kaarten per categorie (10 oktober 2026). */}
     {pageKey === 'guides' && <GuidesHub locale={locale} />}
@@ -218,7 +228,12 @@ const jsonLd = {
       </aside>
     )}
 
-    {page.sources.length > 0 && (
+    {/*
+      * Geen bronregel op de gidsen, de tradeskills en /forever/ (19 oktober 2026, Nutri:
+      * "take away any "source" in all of the pages in the guides section"). De bronnen
+      * blijven in de frontmatter staan, zodat we intern weten waar alles vandaan komt.
+      */}
+    {page.sources.length > 0 && !hideSources && (
       <p class="wf-page__source" data-pagefind-ignore>
         {t('sources')}{' '}
         {page.sources.map((source, index) => (

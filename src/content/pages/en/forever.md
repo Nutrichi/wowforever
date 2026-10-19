@@ -186,9 +186,9 @@ Associate Production Director Clay Stone said the Classic art style is timeless 
 
 The experience curve does not change: a character needs the same amount to reach 60 as in the original Classic, Blizzard told The Sun. What changes is where that experience comes from, because the new zones add routes that the original game did not have. The Riverglades and Shen'dralas sit in the stretch where leveling slows down, and Mount Hyjal sits close to 60.
 
-Dungeons work differently. Experience from monsters inside a dungeon goes down and experience from the dungeon quests goes up sharply. A first run through a dungeon pays off, a repeat run much less. Blizzard wants players out in the world instead of grinding the same dungeon. Since the beta build of 1 October, dungeon quests give 50% less of that extra experience, because testers levelled too fast.
+Dungeons work differently. Experience from monsters inside a dungeon goes down and experience from the dungeon quests goes up sharply. A first run through a dungeon pays off, a repeat run much less. Blizzard wants players out in the world instead of grinding the same dungeon. Dungeon quests later lost half of that extra experience, because testers levelled too fast.
 
-Overall it evens out. From level 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/). The next beta build also hands out fewer blue quest rewards in dungeons, so that the step from white to green to blue feels as it did in Classic, says Tim Jones.
+Overall it evens out. From level 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/). The next beta update also hands out fewer blue quest rewards in dungeons, so that the step from white to green to blue feels as it did in Classic, says Tim Jones.
 
 There is no WoW Token and no boost, said Associate Production Director Clay Stone in an interview with Destin. The catch-up system stays "play the game". Gold bought for real money costs the gold, a suspension or the account, and the game will show a warning in every trade with a stranger, Blizzard said on 1 October.
 
@@ -266,7 +266,7 @@ The trees keep the original shape, Blizzard told The Sun: three per class, seven
 
 The new race and class combinations are the Undead Paladin, the Dwarf Shaman, the Human Hunter, the Gnome Priest, the Orc Mage and the Troll Warlock, plus the classes of the Skyborne. The Undead Paladin is tied to the first Forsaken Paladin in Warcraft III Reforged: Forsaken Kingdom.
 
-Racials were redesigned as well. Every race now has four racials and the resistance racials are gone. Since the beta build of 15 October the weapon specializations are gone too: [Humans, Dwarves and Orcs get a critical strike bonus](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) that works with any weapon. The full table of races and classes, with every racial per race, is on [Classes](/classes/).
+Racials were redesigned as well. Every race now has four racials and the resistance racials are gone. The weapon specializations are gone too: [Humans, Dwarves and Orcs get a critical strike bonus](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) that works with any weapon. The full table of races and classes, with every racial per race, is on [Classes](/classes/).
 
 ## New systems
 

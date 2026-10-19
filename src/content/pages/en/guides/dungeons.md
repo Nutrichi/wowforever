@@ -11,7 +11,7 @@ faq:
   - q: "What is the first dungeon in WoW Forever?"
     a: "Ragefire Chasm for the Horde, with quests from level 9, and the Hall of Thanes for the Alliance, for levels 13 to 18. The Ruins of Lordaeron, for 15 to 20, is the first new dungeon in Horde territory."
   - q: "Do dungeon quests still give a lot of experience?"
-    a: "Yes, more than before. Blizzard lowered the experience from monsters in dungeons and raised it for dungeon quests, so a first run with all its quests pays off most. Since the beta build of 1 October, that extra experience from dungeon quests is 50% lower."
+    a: "Yes, more than before. Blizzard lowered the experience from monsters in dungeons and raised it for dungeon quests, so a first run with all its quests pays off most. That extra experience from dungeon quests was later halved."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"

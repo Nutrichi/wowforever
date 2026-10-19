@@ -35,7 +35,7 @@ Flugmeister bringen Spieler für eine Handvoll Silber von einer Stadt Azeroths z
 | **Kalimdor** | 19 Flugpunkte, 33 Routen | 22 Flugpunkte, 49 Routen |
 | **Neu in Forever** | 4 Flugpunkte, 6 Routen | 3 Flugpunkte, 6 Routen |
 
-Die Flugpunkte und Routen stammen aus den Dateien der Beta, Build 1.60.1.70245. Sie haben sich seit Ende September nicht verändert. Eine Stadt mit einem Flugmeister für jede Fraktion, etwa Everlook, zählt einmal pro Fraktion.
+Die Flugpunkte und Routen stammen aus den Dateien der Beta. Sie haben sich seit Ende September nicht verändert. Eine Stadt mit einem Flugmeister für jede Fraktion, etwa Everlook, zählt einmal pro Fraktion.
 
 Auf der Karte ist eine blaue Linie eine Route der Alliance und eine rote Linie eine Route der Horde. Eine gestrichelte Linie ist ein Schiff oder ein Zeppelin, weiß, wenn beide Fraktionen ihn nutzen können. Ein goldener Rand und das Wort NEW markieren eine neue Route. Ein Schild ist ein Flugmeister, ein runder Punkt ein Anleger oder Zeppelinturm.
 

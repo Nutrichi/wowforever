@@ -55,7 +55,7 @@ Utilisez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1
 
 Stats pour tous les builds à ces niveaux : d'abord Intellect et puissance des sorts, puis Stamina et Spirit, puis armure.
 
-Le build bêta du 15 octobre place Mental Strength en rangée 2, où il augmente désormais l’Intelligence, et Improved Power Word: Shield en rangée 3. Shadow reçoit Dark Inspiration, perd Improved Fade et Shadow Infinity, et Improved Mind Blast passe en rangée 2. Les builds ci-dessous et le calculateur de talents suivent les nouveaux arbres ; les builds gardent les mêmes talents. Tous les changements sont dans [cet article](/fr/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+Mental Strength est désormais en rangée 2, où il augmente l’Intelligence, et Improved Power Word: Shield en rangée 3. Shadow reçoit Dark Inspiration, perd Improved Fade et Shadow Infinity, et Improved Mind Blast passe en rangée 2. Les builds ci-dessous et le calculateur de talents suivent les arbres actuels. Tous les changements sont dans [cet article](/fr/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Build Discipline niveau 30
 

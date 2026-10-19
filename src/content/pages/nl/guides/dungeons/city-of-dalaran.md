@@ -40,7 +40,7 @@ De City of Dalaran is een van de nieuwe dungeons van WoW Forever. De violette ko
 | Let op | Bijna elk monster is immuun voor Arcane |
 | Korte naam | CoD |
 
-Sinds de [betabuild van 8 oktober](/nl/news/city-of-dalaran-opens-in-the-fourth-beta-week/) kan de dungeon getest worden op de beta. De beta gaat sinds 1 oktober tot level 30. De laatste bazen liggen daarboven, dus nog niet al hun mechanieken zijn bekend.
+De dungeon [kan getest worden op de beta](/nl/news/city-of-dalaran-opens-in-the-fourth-beta-week/). De beta gaat sinds 1 oktober tot level 30. De laatste bazen liggen daarboven, dus nog niet al hun mechanieken zijn bekend.
 
 ## De weg erheen
 
@@ -48,7 +48,7 @@ Sinds de [betabuild van 8 oktober](/nl/news/city-of-dalaran-opens-in-the-fourth-
 
 **Horde.** De Horde is niet welkom in de stad en komt binnen via een tunnel erbuiten, op /way 8.8 59.6, waar het <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> toegang geeft. Minstens één speler heeft de <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a> nodig om het hek te openen. Vanaf The Sepulcher in Silverpine Forest is het een paar minuten te voet.
 
-Sinds de beta-build van 15 oktober valt de stad Horde-spelers meteen aan, en de reeks voor de Dalaran Sewer Key geeft geen vrije toegang meer tot de stad in de open wereld. De weg naar de dungeon blijft dezelfde ([meer](/nl/news/horde-players-are-attacked-on-sight-in-dalaran/)).
+De stad valt Horde-spelers nu meteen aan, en de reeks voor de Dalaran Sewer Key geeft geen vrije toegang meer tot de stad in de open wereld. De weg naar de dungeon blijft dezelfde ([meer](/nl/news/horde-players-are-attacked-on-sight-in-dalaran/)).
 
 <div class="wf-shots">
 

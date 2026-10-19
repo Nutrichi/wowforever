@@ -95,7 +95,7 @@ With Talented: Soul Siphon 3/3, Siphon Life 1/1 and Nightfall 2/2. [Open the Tal
 
 Improved Drains makes Drain Life stronger, and Fel Concentration keeps damage from pushing back your channel. Improved Life Tap makes every point of drained health worth 1.2 mana. Soul Siphon raises Drain Life by up to 36% when your other effects are on the monster. No good wand, or no wish to respec? Take the drain talents from the start.
 
-The build of 15 October removed Malediction from the tree. Its points go to Grim Reach, for more range, and to Malevolence or Nightfall. Pandemic only raises critical damage and adds little at these levels. Siphon Life deals little damage, but counts as an extra effect for Soul Siphon.
+Malediction is gone from the tree. Its points go to Grim Reach, for more range, and to Malevolence or Nightfall. Pandemic only raises critical damage and adds little at these levels. Siphon Life deals little damage, but counts as an extra effect for Soul Siphon.
 
 1. Send your demon in.
 2. Pull with Bane of Agony.
@@ -235,7 +235,7 @@ Your weapon is a stat stick. The spell damage it adds matters far more than its 
 | **One-handed swords** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Staves** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Humans no longer need a sword: since the build of 15 October their racial Ruthless gives 2% critical strike chance with any weapon. More about it in [this post](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Humans no longer need a sword: their racial Ruthless now gives 2% critical strike chance with any weapon. More about it in [this post](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Wands and gear
 

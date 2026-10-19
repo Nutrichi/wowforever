@@ -37,6 +37,5 @@ Elke class heeft daarnaast per uitbreiding een eigen gids op [Classes](/nl/class
 ## Vergelijkingen
 
 - [RestedXP en Zygor vergeleken](/nl/compare/restedxp-vs-zygor/)
-- [RestedXP en de gids van Joana vergeleken](/nl/compare/restedxp-vs-joana/)
 - [Gratis en betaalde levelhulp vergeleken](/nl/compare/free-vs-premium/)
 - [Dungeons of questen tijdens het levelen](/nl/compare/dungeon-vs-questing/)

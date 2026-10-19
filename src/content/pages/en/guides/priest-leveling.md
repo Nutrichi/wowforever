@@ -54,7 +54,7 @@ Use <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17"><i
 
 Stats for every build at these levels: first Intellect and spell damage, then Stamina and Spirit, then armor.
 
-The beta build of 15 October moves Mental Strength to row 2, where it now raises Intellect, and Improved Power Word: Shield to row 3. Shadow gets Dark Inspiration, loses Improved Fade and Shadow Infinity, and Improved Mind Blast moves to row 2. The builds below and the talent calculator follow the new trees; the builds keep the same talents. All changes are in [this post](/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+Mental Strength now sits in row 2, where it raises Intellect, and Improved Power Word: Shield in row 3. Shadow gets Dark Inspiration, loses Improved Fade and Shadow Infinity, and Improved Mind Blast moves to row 2. The builds below and the talent calculator follow the current trees. All changes are in [this post](/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Level 30 Discipline build
 

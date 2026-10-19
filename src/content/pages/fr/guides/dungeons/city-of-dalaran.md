@@ -40,7 +40,7 @@ La City of Dalaran est l’un des nouveaux donjons de WoW Forever. Le dôme viol
 | Attention | Presque tous les monstres sont insensibles à l’Arcane |
 | Abréviation | CoD |
 
-Depuis la [build de la bêta du 8 octobre](/fr/news/city-of-dalaran-opens-in-the-fourth-beta-week/), le donjon peut être testé sur la bêta. La bêta va jusqu’au niveau 30 depuis le 1er octobre. Les derniers boss sont au-dessus, donc toutes leurs mécaniques ne sont pas encore connues.
+Le donjon [peut être testé sur la bêta](/fr/news/city-of-dalaran-opens-in-the-fourth-beta-week/). La bêta va jusqu’au niveau 30 depuis le 1er octobre. Les derniers boss sont au-dessus, donc toutes leurs mécaniques ne sont pas encore connues.
 
 ## Comment s’y rendre
 
@@ -48,7 +48,7 @@ Depuis la [build de la bêta du 8 octobre](/fr/news/city-of-dalaran-opens-in-the
 
 **Horde.** La Horde n’est pas la bienvenue dans la ville et entre par un tunnel à l’extérieur, en /way 8.8 59.6, où l’<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> donne accès. Au moins un joueur doit avoir la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a> pour ouvrir la grille. Depuis The Sepulcher dans Silverpine Forest, c’est à quelques minutes à pied.
 
-Depuis le build bêta du 15 octobre, la ville attaque les joueurs de la Horde à vue, et la suite de la Dalaran Sewer Key ne donne plus libre accès à la ville dans le monde ouvert. Le chemin du donjon reste le même ([plus](/fr/news/horde-players-are-attacked-on-sight-in-dalaran/)).
+La ville attaque désormais les joueurs de la Horde à vue, et la suite de la Dalaran Sewer Key ne donne plus libre accès à la ville dans le monde ouvert. Le chemin du donjon reste le même ([plus](/fr/news/horde-players-are-attacked-on-sight-in-dalaran/)).
 
 <div class="wf-shots">
 

@@ -40,7 +40,7 @@ La City of Dalaran es una de las mazmorras nuevas de WoW Forever. La cúpula vio
 | Atención | Casi todos los monstruos son inmunes al Arcane |
 | Nombre corto | CoD |
 
-Desde la [build de la beta del 8 de octubre](/es/news/city-of-dalaran-opens-in-the-fourth-beta-week/), la mazmorra se puede probar en la beta. La beta llega al nivel 30 desde el 1 de octubre. Los últimos jefes están por encima, así que aún no se conocen todas sus mecánicas.
+La mazmorra [se puede probar en la beta](/es/news/city-of-dalaran-opens-in-the-fourth-beta-week/). La beta llega al nivel 30 desde el 1 de octubre. Los últimos jefes están por encima, así que aún no se conocen todas sus mecánicas.
 
 ## Cómo llegar
 
@@ -48,7 +48,7 @@ Desde la [build de la beta del 8 de octubre](/es/news/city-of-dalaran-opens-in-t
 
 **Horde.** La Horde no es bienvenida en la ciudad y entra por un túnel de fuera, en /way 8.8 59.6, donde la <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> da acceso. Al menos un jugador necesita la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a> para abrir la reja. Desde The Sepulcher en Silverpine Forest son unos minutos a pie.
 
-Desde la build de la beta del 15 de octubre, la ciudad ataca a los jugadores de la Horda nada más verlos, y la cadena de la Dalaran Sewer Key ya no da acceso libre a la ciudad en el mundo abierto. El camino a la mazmorra no cambia ([más](/es/news/horde-players-are-attacked-on-sight-in-dalaran/)).
+La ciudad ataca ahora a los jugadores de la Horda nada más verlos, y la cadena de la Dalaran Sewer Key ya no da acceso libre a la ciudad en el mundo abierto. El camino a la mazmorra no cambia ([más](/es/news/horde-players-are-attacked-on-sight-in-dalaran/)).
 
 <div class="wf-shots">
 

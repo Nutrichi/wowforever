@@ -96,7 +96,7 @@ Met Talented: Soul Siphon 3/3, Siphon Life 1/1 en Nightfall 2/2. [Open de versie
 
 Improved Drains maakt Drain Life sterker, en Fel Concentration zorgt dat schade je kanalisering niet terugduwt. Met Improved Life Tap is elk punt gedraineerde health 1,2 mana waard. Soul Siphon verhoogt Drain Life met tot 36% als je andere effecten op het monster staan. Geen goede wand, of geen zin om te respeccen? Neem de draintalenten dan vanaf het begin.
 
-De build van 15 oktober haalde Malediction uit de boom. Die punten gaan naar Grim Reach, voor meer bereik, en naar Malevolence of Nightfall. Pandemic verhoogt alleen kritieke schade en levert op deze levels weinig op. Siphon Life doet weinig schade, maar telt als extra effect voor Soul Siphon.
+Malediction is uit de boom verdwenen. Die punten gaan naar Grim Reach, voor meer bereik, en naar Malevolence of Nightfall. Pandemic verhoogt alleen kritieke schade en levert op deze levels weinig op. Siphon Life doet weinig schade, maar telt als extra effect voor Soul Siphon.
 
 1. Stuur je demon erop af.
 2. Pull met Bane of Agony.
@@ -236,7 +236,7 @@ Je wapen is een stat stick. De spell damage die het toevoegt, telt veel meer dan
 | **Eenhandige zwaarden** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Staven** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Humans hebben geen zwaard meer nodig: sinds de build van 15 oktober geeft hun racial Ruthless 2% critical strike chance met elk wapen. Meer daarover in [deze post](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Humans hebben geen zwaard meer nodig: hun racial Ruthless geeft nu 2% critical strike chance met elk wapen. Meer daarover in [deze post](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Wands en gear
 

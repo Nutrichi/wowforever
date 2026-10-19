@@ -114,7 +114,7 @@ Every buff lasts 15 minutes and starts after 10 seconds of eating.
 
 ## Transformation food
 
-<a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> gives an orc version of the ninja and pirate costumes since the beta build of 1 October; the Murloc and Ogre forms of the first days were placeholders, says Blizzard. The recipe needs Cooking 85 and drops in Redridge Mountains; more in the [post about it](/news/savory-whimsyfin-delight-turns-you-into-a-murloc-or-an-ogre/). <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, with its ninja and pirate, is still there too.
+<a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> now gives an orc version of the ninja and pirate costumes; the Murloc and Ogre forms of the first days were placeholders, says Blizzard. The recipe needs Cooking 85 and drops in Redridge Mountains; more in the [post about it](/news/savory-whimsyfin-delight-turns-you-into-a-murloc-or-an-ogre/). <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, with its ninja and pirate, is still there too.
 
 ## New recipes
 

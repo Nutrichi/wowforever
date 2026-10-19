@@ -100,7 +100,8 @@ const jsonLd = {
       <Content />
     </div>
 
-    {data.sources.length > 0 && (
+    {/* Geen bronregel meer (19 oktober 2026, Nutri); de bronnen blijven in de data staan. */}
+    {false && data.sources.length > 0 && (
       <p class="wf-gsource" data-pagefind-ignore>
         {pageT(locale)('sources')}{' '}
         {data.sources.map((source, index) => (

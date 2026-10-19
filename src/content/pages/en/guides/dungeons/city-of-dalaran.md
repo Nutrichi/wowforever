@@ -39,7 +39,7 @@ The City of Dalaran is one of the new dungeons of WoW Forever. The violet dome a
 | Watch out | Almost every monster is immune to Arcane |
 | Short name | CoD |
 
-Since the [beta build of 8 October](/news/city-of-dalaran-opens-in-the-fourth-beta-week/), the dungeon can be tested on the beta. The beta goes up to level 30 since 1 October. The last bosses are above that, so not all their mechanics are known yet.
+The dungeon [can be tested on the beta](/news/city-of-dalaran-opens-in-the-fourth-beta-week/). The beta goes up to level 30 since 1 October. The last bosses are above that, so not all their mechanics are known yet.
 
 ## Getting there
 
@@ -47,7 +47,7 @@ Since the [beta build of 8 October](/news/city-of-dalaran-opens-in-the-fourth-be
 
 **Horde.** The Horde is not welcome in the city and enters through a tunnel outside it, at /way 8.8 59.6, where the <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> grants access. At least one player needs the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a> to open the gate. From The Sepulcher in Silverpine Forest it is a few minutes on foot.
 
-Since the beta build of 15 October, the city attacks Horde players on sight, and the chain for the Dalaran Sewer Key no longer gives free access to the city in the open world. The way into the dungeon stays the same ([more](/news/horde-players-are-attacked-on-sight-in-dalaran/)).
+The city now attacks Horde players on sight, and the chain for the Dalaran Sewer Key no longer gives free access to the city in the open world. The way into the dungeon stays the same ([more](/news/horde-players-are-attacked-on-sight-in-dalaran/)).
 
 <div class="wf-shots">
 

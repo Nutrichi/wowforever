@@ -187,9 +187,9 @@ Associate Production Director Clay Stone sagte, der Kunststil von Classic sei ze
 
 Die Erfahrungskurve ändert sich nicht: Ein Charakter braucht für Stufe 60 genauso viel wie im ursprünglichen Classic, sagte Blizzard zu The Sun. Was sich ändert, ist die Herkunft dieser Erfahrung, denn die neuen Zonen fügen Wege hinzu, die das ursprüngliche Spiel nicht hatte. The Riverglades und Shen'dralas liegen in dem Abschnitt, in dem das Leveln langsamer wird, und Mount Hyjal liegt nahe an 60.
 
-Dungeons funktionieren anders. Die Erfahrung aus Monstern in einem Dungeon sinkt, die aus den Dungeonquests steigt deutlich. Ein erster Durchgang lohnt sich, eine Wiederholung viel weniger. Blizzard will Spieler draußen in der Welt statt im selben Dungeon. Seit dem Beta-Build vom 1. Oktober geben Dungeonquests 50 % weniger von dieser zusätzlichen Erfahrung, weil die Tester zu schnell levelten.
+Dungeons funktionieren anders. Die Erfahrung aus Monstern in einem Dungeon sinkt, die aus den Dungeonquests steigt deutlich. Ein erster Durchgang lohnt sich, eine Wiederholung viel weniger. Blizzard will Spieler draußen in der Welt statt im selben Dungeon. Später verloren Dungeonquests die Hälfte dieser zusätzlichen Erfahrung, weil die Tester zu schnell levelten.
 
-Unterm Strich gleicht es sich aus. Von Level 1 bis 20 braucht man im Schnitt 20,5 Stunden in Forever gegenüber 20,4 in Classic Era, sagt Josh Greenfield im [ersten Podcast der Entwickler](/de/news/a-first-developer-podcast-promises-fewer-blues/). Der nächste Build der Beta gibt in Dungeons außerdem weniger blaue Questbelohnungen, damit sich der Schritt von Weiß über Grün zu Blau wie in Classic anfühlt, sagt Tim Jones.
+Unterm Strich gleicht es sich aus. Von Level 1 bis 20 braucht man im Schnitt 20,5 Stunden in Forever gegenüber 20,4 in Classic Era, sagt Josh Greenfield im [ersten Podcast der Entwickler](/de/news/a-first-developer-podcast-promises-fewer-blues/). Das nächste Update der Beta gibt in Dungeons außerdem weniger blaue Questbelohnungen, damit sich der Schritt von Weiß über Grün zu Blau wie in Classic anfühlt, sagt Tim Jones.
 
 Es gibt weder einen WoW Token noch einen Boost, sagte Associate Production Director Clay Stone in einem Interview mit Destin. Das Aufholsystem bleibt „das Spiel spielen“. Für echtes Geld gekauftes Gold kostet das Gold, eine Sperre oder den Account, und das Spiel zeigt bei jedem Handel mit Fremden eine Warnung, sagte Blizzard am 1. Oktober.
 
@@ -267,7 +267,7 @@ Die Bäume behalten ihre ursprüngliche Form, sagte Blizzard zu The Sun: drei pr
 
 Die neuen Kombinationen aus Volk und Klasse sind der Undead Paladin, der Dwarf Shaman, der Human Hunter, der Gnome Priest, der Orc Mage und der Troll Warlock, dazu die Klassen der Skyborne. Der Undead Paladin hängt mit dem ersten Forsaken Paladin in Warcraft III Reforged: Forsaken Kingdom zusammen.
 
-Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, und die Widerstands-Racials sind weg. Seit dem Beta-Build vom 15. Oktober sind auch die Waffenspezialisierungen weg: [Menschen, Zwerge und Orcs bekommen einen Bonus auf kritische Treffer](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/), der mit jeder Waffe wirkt. Die vollständige Tabelle der Völker und Klassen, mit jedem Racial pro Volk, steht unter [Classes](/de/classes/).
+Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, und die Widerstands-Racials sind weg. Auch die Waffenspezialisierungen sind weg: [Menschen, Zwerge und Orcs bekommen einen Bonus auf kritische Treffer](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/), der mit jeder Waffe wirkt. Die vollständige Tabelle der Völker und Klassen, mit jedem Racial pro Volk, steht unter [Classes](/de/classes/).
 
 ## Neue Systeme
 

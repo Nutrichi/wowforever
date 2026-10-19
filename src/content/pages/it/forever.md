@@ -187,9 +187,9 @@ L’Associate Production Director Clay Stone ha detto che lo stile artistico di 
 
 La curva dell'esperienza non cambia: un personaggio ha bisogno della stessa esperienza per arrivare a 60 del Classic originale, ha detto Blizzard a The Sun. Quello che cambia è da dove arriva quell'esperienza, perché le nuove zone aggiungono percorsi che il gioco originale non aveva. Le Riverglades e Shen'dralas si trovano nel tratto in cui salire di livello rallenta, e Mount Hyjal è vicino al 60.
 
-I dungeon funzionano in modo diverso. L'esperienza dai mostri dentro un dungeon cala e quella delle missioni di dungeon sale parecchio. Una prima visita rende, ripeterla molto meno. Blizzard vuole i giocatori nel mondo invece che nello stesso dungeon. Dalla build della beta del 1° ottobre, le missioni dei dungeon danno il 50% in meno di quell’esperienza extra, perché i tester salivano troppo in fretta.
+I dungeon funzionano in modo diverso. L'esperienza dai mostri dentro un dungeon cala e quella delle missioni di dungeon sale parecchio. Una prima visita rende, ripeterla molto meno. Blizzard vuole i giocatori nel mondo invece che nello stesso dungeon. In seguito le missioni dei dungeon hanno perso metà di quell’esperienza extra, perché i tester salivano troppo in fretta.
 
-Nel complesso si pareggia. Dal livello 1 al 20 servono in media 20,5 ore in Forever contro 20,4 in Classic Era, dice Josh Greenfield nel [primo podcast degli sviluppatori](/it/news/a-first-developer-podcast-promises-fewer-blues/). La prossima build della beta dà anche meno ricompense blu dalle missioni dei dungeon, perché il passaggio dal bianco al verde al blu si senta come in Classic, dice Tim Jones.
+Nel complesso si pareggia. Dal livello 1 al 20 servono in media 20,5 ore in Forever contro 20,4 in Classic Era, dice Josh Greenfield nel [primo podcast degli sviluppatori](/it/news/a-first-developer-podcast-promises-fewer-blues/). Il prossimo aggiornamento della beta dà anche meno ricompense blu dalle missioni dei dungeon, perché il passaggio dal bianco al verde al blu si senta come in Classic, dice Tim Jones.
 
 Non ci sono né un WoW Token né un boost, ha detto l'Associate Production Director Clay Stone in un'intervista con Destin. Il sistema per recuperare resta «giocare al gioco». L’oro comprato con denaro reale costa l’oro, una sospensione o l’account, e il gioco mostrerà un avviso a ogni scambio con uno sconosciuto, ha detto Blizzard il 1° ottobre.
 
@@ -267,7 +267,7 @@ Gli alberi mantengono la forma originale, ha detto Blizzard a The Sun: tre per c
 
 Le nuove combinazioni di razza e classe sono l’Undead Paladin, il Dwarf Shaman, l’Human Hunter, il Gnome Priest, l’Orc Mage e il Troll Warlock, oltre alle classi degli Skyborne. L’Undead Paladin è legato al primo Forsaken Paladin di Warcraft III Reforged: Forsaken Kingdom.
 
-Anche i racials sono stati ripensati. Ogni razza ha ora quattro racials e i racials di resistenza sono spariti. Dalla build della beta del 15 ottobre sono sparite anche le specializzazioni d’arma: [Umani, Nani e Orchi ricevono un bonus ai colpi critici](/it/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) che funziona con qualsiasi arma. La tabella completa di razze e classi, con ogni racial per razza, è su [Classes](/it/classes/).
+Anche i racials sono stati ripensati. Ogni razza ha ora quattro racials e i racials di resistenza sono spariti. Sono sparite anche le specializzazioni d’arma: [Umani, Nani e Orchi ricevono un bonus ai colpi critici](/it/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) che funziona con qualsiasi arma. La tabella completa di razze e classi, con ogni racial per razza, è su [Classes](/it/classes/).
 
 ## Nuovi sistemi
 

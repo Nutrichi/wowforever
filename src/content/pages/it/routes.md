@@ -37,6 +37,5 @@ Ogni classe ha inoltre una guida per espansione in [Classi](/it/classes/), con i
 ## Confronti
 
 - [RestedXP e Zygor a confronto](/it/compare/restedxp-vs-zygor/)
-- [RestedXP e la guida di Joana a confronto](/it/compare/restedxp-vs-joana/)
 - [Aiuto al livellamento gratuito e a pagamento a confronto](/it/compare/free-vs-premium/)
 - [Dungeon o missioni durante il livellamento](/it/compare/dungeon-vs-questing/)

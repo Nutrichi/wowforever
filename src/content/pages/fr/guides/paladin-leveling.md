@@ -200,7 +200,7 @@ Les Paladins ont quelques quêtes de classe dont les récompenses valent le dét
 | 22 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277205"><img class="wf-wh__icon" src="/wh/inv_misc_cape_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cloak of the Divine Storm</a> | <a href="https://www.wowhead.com/forever/quest=78093">Return to Delgren</a> | |
 | 60 | Summon Charger, Summon Forsaken Charger | Pas encore connu | Pas encore connu |
 
-**Verigan's Fist** est la masse à deux mains de l'Alliance et a un effet depuis le build du 1er octobre. Plus d'infos dans [cet article](/fr/news/verigans-fist-gets-a-proc-like-the-horde-blade/). La **Cloak of the Divine Storm** vient d'une chaîne que seule l'Alliance peut terminer pour l'instant, voir [cet article](/fr/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Les Paladins Forsaken obtiennent au niveau 60 [leur propre destrier](/fr/news/wow-forever-forsaken-charger/).
+**Verigan's Fist** est la masse à deux mains de l'Alliance et a désormais un effet. Plus d'infos dans [cet article](/fr/news/verigans-fist-gets-a-proc-like-the-horde-blade/). La **Cloak of the Divine Storm** vient d'une chaîne que seule l'Alliance peut terminer pour l'instant, voir [cet article](/fr/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Les Paladins Forsaken obtiennent au niveau 60 [leur propre destrier](/fr/news/wow-forever-forsaken-charger/).
 
 ## Armes
 

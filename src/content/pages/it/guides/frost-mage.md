@@ -10,7 +10,7 @@ faq:
   - q: "Il Frost Mage è forte in WoW Forever?"
     a: "Sì. Ice Lance e Fingers of Frost permettono al Frost di usare Shatter su un solo bersaglio, anche sui boss che non si possono congelare. La vecchia spec da leveling e PvP diventa una spec di danno solida in dungeon e raid, con il maggior controllo delle tre spec di Mage."
   - q: "Quanti danni fa Ice Lance ai bersagli Frozen?"
-    a: "Il 200% in più. La build della beta del 15 ottobre ha abbassato il bonus dal 300%. Ice Lance è istantaneo, costa 45 di mana e richiede il livello 20."
+    a: "Il 200% in più. Prima era del 300%. Ice Lance è istantaneo, costa 45 di mana e richiede il livello 20."
   - q: "Perché una build Frost prende Missile Barrage?"
     a: "Missile Barrage è passato nella prima riga dell'albero Arcane. A 2/2, ogni Frostbolt ha il 20% di probabilità di rendere il tuo prossimo Arcane Missiles gratuito e due volte più veloce. Molti danni per due punti."
   - q: "Posso ancora usare Frostbolt di rango 1?"
@@ -39,7 +39,7 @@ Il Frost Mage di WoW Forever rallenta e congela i suoi bersagli, sopravvive megl
 
 ## Cosa cambia per il Frost
 
-- **Ice Lance è nuovo.** Un talento al livello 20: istantaneo, 45 di mana e il 200% di danni in più ai bersagli Frozen. La build della beta del 15 ottobre lo ha abbassato dal 300%.
+- **Ice Lance è nuovo.** Un talento al livello 20: istantaneo, 45 di mana e il 200% di danni in più ai bersagli Frozen. Prima era del 300%.
 - **Fingers of Frost è nuovo.** I tuoi effetti di Chill hanno il 15% di probabilità di trattare i tuoi 2 incantesimi successivi come se il bersaglio fosse Frozen. Funziona sui bersagli che non si possono congelare, come la maggior parte dei boss.
 - **Missile Barrage è a portata.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400588"><img class="wf-wh__icon" src="/wh/ability_mage_missilebarrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Missile Barrage</a> si trova nella prima riga dell'albero Arcane. A 2/2, ogni <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> ha il 20% di probabilità di rendere il tuo prossimo <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5143"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Missiles</a> gratuito e due volte più veloce.
 - **Frost Blast** al livello 24 è una raffica di gelo debole e rapida che rallenta il bersaglio del 40% per 9 secondi.

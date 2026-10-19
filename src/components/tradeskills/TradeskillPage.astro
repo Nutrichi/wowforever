@@ -302,12 +302,10 @@ const sourceLinks = [
         </div>
       </section>
     )}
-    <p class="wf-page__source" data-pagefind-ignore>
-      {pt('sources')}{' '}
-      {sourceLinks.map((source, index) => (
-        <>{index > 0 && ', '}<a href={source.url} rel="noopener nofollow" target="_blank">{source.name}</a></>
-      ))}
-    </p>
+    {/*
+      * Geen bronregel meer (19 oktober 2026, Nutri: geen bronnen en geen build op de gidsen,
+      * tradeskills, reputaties en BiS). sourceLinks blijft hier als interne notitie staan.
+      */}
   </article>
 </BaseLayout>
 

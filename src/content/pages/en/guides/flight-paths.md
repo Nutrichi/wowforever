@@ -34,7 +34,7 @@ Flight masters carry players between the towns of Azeroth for a handful of silve
 | **Kalimdor** | 19 flight points, 33 routes | 22 flight points, 49 routes |
 | **New in Forever** | 4 flight points, 6 routes | 3 flight points, 6 routes |
 
-The flight points and routes come from the files of the beta, build 1.60.1.70245. They have not changed since late September. A town with a flight master for each faction, such as Everlook, counts once per faction.
+The flight points and routes come from the files of the beta. They have not changed since late September. A town with a flight master for each faction, such as Everlook, counts once per faction.
 
 On the map, a blue line is an Alliance route and a red line a Horde route. A dashed line is a boat or a zeppelin, white when both factions can use it. A gold border and the word NEW mark a new route. A shield is a flight master, a round mark a dock or zeppelin tower.
 

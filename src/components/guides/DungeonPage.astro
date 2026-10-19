@@ -1,0 +1,295 @@
+---
+/*
+ * Een dungeon in drie delen, Loot, Quests en Guide, elk op een eigen adres met dezelfde
+ * kop en dezelfde tabs (19 oktober 2026, Nutri: "3 big parts: Loot, Quests and Guide ...
+ * more compact, easily readable, not a long page with all information on it").
+ *
+ * De kop en de tabs staan op alle drie. De buit en de quests komen uit de data
+ * (lib/dungeons.ts); de Guide is de Markdown van de pagina zelf (de slot).
+ */
+import type { Locale } from '../../i18n/ui';
+import { dungeonT } from '../../i18n/dungeon';
+import { pagePath } from '../../lib/pages';
+import { Image } from 'astro:assets';
+import { dungeonData, dungeonTabKey, dungeonText, way, type DungeonPlace, type DungeonQuest, type DungeonTab } from '../../lib/dungeons';
+import DungeonMap from './DungeonMap.astro';
+
+// Schermafdrukken bij een quest staan in de tekstdata als bestandsnaam uit assets/posts.
+const shotFiles = import.meta.glob<{ default: ImageMetadata }>('../../assets/posts/*.{jpg,jpeg,png,webp}', { eager: true });
+const shot = (file: string) => shotFiles[`../../assets/posts/${file}`]?.default;
+
+interface Props {
+  locale: Locale;
+  slug: string;
+  tab: DungeonTab;
+}
+
+const { locale, slug, tab } = Astro.props;
+const t = dungeonT(locale);
+const d = dungeonData(slug);
+const text = dungeonText(slug, locale);
+if (!d || !text) throw new Error(`Geen dungeondata voor ${slug}`);
+
+const nf = new Intl.NumberFormat(locale);
+const itemCount = new Set([...d.bosses.flatMap((b) => b.items), ...d.loose]).size;
+const tabs: { key: DungeonTab; label: string; count?: number }[] = [
+  { key: 'loot', label: t('tabLoot'), count: itemCount },
+  { key: 'quests', label: t('tabQuests'), count: d.quests.length },
+  { key: 'guide', label: t('tabGuide') },
+];
+const tabHref = (key: DungeonTab) => pagePath(dungeonTabKey(slug, key), locale);
+const questHref = (id: number) => `${tabHref('quests')}#quest-${id}`;
+const wh = (kind: string, id: number) => `https://www.wowhead.com/forever/${kind}=${id}`;
+
+const side = (q: DungeonQuest) => (q.faction === 'alliance' ? t('alliance') : q.faction === 'horde' ? t('horde') : t('both'));
+const sideClass = (q: DungeonQuest) => (q.faction ? `is-${q.faction}` : 'is-both');
+const card = (id: number) => d.cards[String(id)] ?? '';
+const rewardQuests = d.quests.filter((q) => q.rewards.length > 0);
+
+function placeLine(p: DungeonPlace): string {
+  const bits = [p.zone, p.place].filter(Boolean);
+  if (p.at) bits.push(way(p.at));
+  return bits.join(', ');
+}
+---
+
+<section class="wf-dng">
+  <dl class="wf-dng__facts">
+    <div><dt>{t('level')}</dt><dd>{d.levels}</dd></div>
+    <div><dt>{t('location')}</dt><dd>{text.location}</dd></div>
+    <div><dt>{t('group')}</dt><dd>{t('groupSize', { n: text.group ?? 5 })}</dd></div>
+    <div><dt>{t('bosses')}</dt><dd>{d.bosses.length}</dd></div>
+    <div><dt>{t('items')}</dt><dd>{itemCount}</dd></div>
+    <div><dt>{t('quests')}</dt><dd>{d.quests.length}</dd></div>
+  </dl>
+  <p class="wf-dng__intro">{text.intro}</p>
+  <p class="wf-dng__entrance"><strong>{t('entrance')}.</strong> {text.entrance}</p>
+
+  <nav class="wf-dng__tabs" aria-label={t('tabGuide')}>
+    {tabs.map((x) => (
+      <a class="wf-dng__tab" href={tabHref(x.key)} aria-current={x.key === tab ? 'page' : undefined}>
+        {x.label}{x.count !== undefined && <span class="wf-dng__count">{x.count}</span>}
+      </a>
+    ))}
+  </nav>
+</section>
+
+{tab === 'loot' && (
+  <div class="wf-gprose wf-dng__body">
+    <slot />
+    <h2>{t('bossesTitle')}</h2>
+    {d.bosses.map((b, i) => (
+      <section class="wf-dng__boss" id={b.slug}>
+        <h3>
+          <span class="wf-dng__num">{String(i + 1).padStart(2, '0')}</span>
+          {b.npc ? <a href={wh('npc', b.npc)}>{b.name}</a> : b.name}
+          <span class="wf-dng__sub">{t('bossLevel', { n: b.level })} · {t('drops', { n: b.items.length })}</span>
+        </h3>
+        <div class="wf-items" set:html={b.items.map(card).join('')} />
+      </section>
+    ))}
+    {d.loose.length > 0 && (
+      <section class="wf-dng__boss">
+        <h3>{t('otherLoot')}</h3>
+        <div class="wf-items" set:html={d.loose.map(card).join('')} />
+      </section>
+    )}
+    {rewardQuests.length > 0 && (
+      <>
+        <h2>{t('rewardsTitle')}</h2>
+        <p>{t('rewardsIntro')}</p>
+        {rewardQuests.map((q) => (
+          <section class="wf-dng__boss">
+            <h3><a href={questHref(q.id)}>{q.name}</a><span class="wf-dng__sub">{q.choice && q.rewards.length > 1 ? t('choose') : t('reward')}</span></h3>
+            <div class="wf-items" set:html={q.rewards.map(card).join('')} />
+          </section>
+        ))}
+      </>
+    )}
+  </div>
+)}
+
+{tab === 'quests' && (
+  <div class="wf-gprose wf-dng__body">
+    <slot />
+    {d.quests.length === 0 ? <p>{t('noQuests')}</p> : (
+      <>
+        <p>{t('questsIntro', { n: d.quests.length })}</p>
+        <table>
+          <thead><tr><th>{t('colQuest')}</th><th>{t('colLevel')}</th><th>{t('colAccept')}</th><th>{t('colSide')}</th></tr></thead>
+          <tbody>
+            {d.quests.map((q) => (
+              <tr><td><a href={`#quest-${q.id}`}>{q.name}</a></td><td>{q.level}</td><td>{q.minLevel}</td><td>{side(q)}</td></tr>
+            ))}
+          </tbody>
+        </table>
+        {d.quests.map((q) => {
+          const qt = text.quests[String(q.id)];
+          const giver = q.from[0];
+          const back = q.to[0];
+          return (
+            <section class="wf-dq" id={`quest-${q.id}`}>
+              <h3 class="wf-dq__title"><a href={wh('quest', q.id)}>{q.name}</a></h3>
+              <p class="wf-dq__meta">
+                <span>{t('level')} {q.level}</span>
+                <span>{t('colAccept')} {q.minLevel}</span>
+                <span class={`wf-dq__side ${sideClass(q)}`}>{side(q)}</span>
+                {q.xp && <span>{t('xp', { n: nf.format(q.xp) })}</span>}
+                {q.rep && <span>{q.rep}</span>}
+              </p>
+              {q.chain.length > 0 && (
+                <p class="wf-dq__chain"><strong>{t('prequests')}:</strong>{' '}
+                  {q.chain.map((c, i) => (
+                    <>{i > 0 && ', '}{c.id ? <a href={wh('quest', c.id)}>{c.name}</a> : c.name}{c.optional && ` (${t('optional')})`}</>
+                  ))}
+                </p>
+              )}
+              <ol class="wf-dq__steps">
+                <li>
+                  <strong>{t('stepPickup')}.</strong>{' '}
+                  {giver ? (
+                    <>
+                      {giver.kind === 'npc'
+                        ? <Fragment set:html={t('pickupNpc', { name: giver.npc ? `<a href="${wh('npc', giver.npc)}">${giver.name}</a>` : giver.name })} />
+                        : giver.kind === 'item'
+                          ? <Fragment set:html={t('pickupItem', { name: giver.item ? `<a href="${wh('item', giver.item)}">${giver.name}</a>` : giver.name })} />
+                          : t('pickupObject', { name: giver.name })}
+                      {placeLine(giver) && <>, {placeLine(giver)}</>}
+                      {q.site === 'inside' && !giver.at && giver.zone === undefined && <>, {t('inside')}</>}.
+                      {giver.taxi && <span class="wf-dq__taxi">{t('taxi', { name: giver.taxi.name, yards: giver.taxi.yards })}.</span>}
+                    </>
+                  ) : '—'}
+                </li>
+                <li><strong>{t('stepObjective')}.</strong> {qt?.objective ?? ''}{qt?.note && <span class="wf-dq__note">{qt.note}</span>}</li>
+                <li>
+                  <strong>{t('stepTurnin')}.</strong>{' '}
+                  {back
+                    ? <Fragment set:html={t('turninTo', { name: back.npc ? `<a href="${wh('npc', back.npc)}">${back.name}</a>` : back.name })} />
+                    : giver && giver.kind === 'npc' ? t('turninSame', { name: giver.name }) : '—'}
+                  {back && placeLine(back) && <>, {placeLine(back)}</>}.
+                </li>
+              </ol>
+              {qt?.shots && qt.shots.length > 0 && (
+                <div class={qt.shots.length > 1 ? 'wf-shots' : 'wf-dq__shot'}>
+                  {qt.shots.map((x) => shot(x.file) && <Image src={shot(x.file)!} alt={x.alt} widths={[480, 800]} sizes="(max-width: 700px) 100vw, 480px" loading="lazy" />)}
+                </div>
+              )}
+              {q.rewards.length > 0
+                ? (
+                  <>
+                    <p class="wf-dq__rewardlabel">{q.choice && q.rewards.length > 1 ? t('choose') : t('reward')}</p>
+                    <div class="wf-items" set:html={q.rewards.map(card).join('')} />
+                  </>
+                )
+                : <p class="wf-dq__rewardlabel">{t('noReward')}</p>}
+              {q.next.length > 0 && (
+                <p class="wf-dq__chain"><strong>{t('followups')}:</strong>{' '}
+                  {q.next.map((c, i) => <>{i > 0 && ', '}{c.id ? <a href={wh('quest', c.id)}>{c.name}</a> : c.name}</>)}
+                </p>
+              )}
+            </section>
+          );
+        })}
+      </>
+    )}
+  </div>
+)}
+
+{tab === 'guide' && (
+  <div class="wf-gprose wf-dng__body">
+    <DungeonMap locale={locale} slug={slug} data={d} questHref={questHref} />
+    <slot />
+  </div>
+)}
+
+<style>
+  .wf-dng { margin: 18px 0 8px; }
+
+  .wf-dng__facts {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 1px;
+    margin: 0 0 14px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card);
+    background: var(--wf-border);
+    overflow: hidden;
+  }
+  .wf-dng__facts > div { padding: 9px 12px; background: var(--wf-raised); }
+  .wf-dng__facts dt {
+    font-family: var(--wf-display);
+    font-size: 11.5px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+  }
+  .wf-dng__facts dd { margin: 2px 0 0; font-size: 15px; color: var(--wf-ink); }
+
+  .wf-dng__intro { margin: 0 0 6px; color: var(--wf-ink); }
+  .wf-dng__entrance { margin: 0 0 16px; color: var(--wf-muted); font-size: 14.5px; }
+  .wf-dng__entrance strong { color: var(--wf-ink); }
+
+  .wf-dng__tabs { display: flex; border-bottom: 1px solid var(--wf-border); }
+  .wf-dng__tab {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 9px 18px;
+    margin-bottom: -1px;
+    border-bottom: 2px solid transparent;
+    font-family: var(--wf-display);
+    font-size: 15.5px;
+    font-weight: 600;
+    color: var(--wf-muted);
+    text-decoration: none;
+  }
+  .wf-dng__tab:hover { color: var(--wf-ink); }
+  .wf-dng__tab[aria-current='page'] { color: var(--wf-accent-bright); border-bottom-color: var(--wf-accent); }
+  .wf-dng__count {
+    padding: 0 7px;
+    border-radius: var(--wf-r-pill);
+    background: var(--wf-accent-wash);
+    font-size: 12px;
+    color: var(--wf-accent-bright);
+  }
+
+  .wf-dng__body { margin-top: 18px; }
+  .wf-dng__boss { margin: 0 0 18px; }
+  .wf-dng__boss h3 { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+  .wf-dng__num { font-family: var(--wf-display); color: var(--wf-accent); }
+  .wf-dng__sub { font-size: 13.5px; font-weight: 400; color: var(--wf-muted); }
+
+  .wf-dq {
+    margin: 22px 0;
+    padding: 16px 18px 6px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card);
+    scroll-margin-top: 90px;
+  }
+  .wf-dq:target { border-color: var(--wf-accent-deep); box-shadow: 0 0 0 1px var(--wf-accent-deep); }
+  .wf-gprose .wf-dq__title { margin: 0 0 6px; }
+  .wf-dq__meta { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0 0 8px; font-size: 13.5px; color: var(--wf-muted); }
+  .wf-dq__side.is-alliance { color: var(--wf-arcane); }
+  .wf-dq__side.is-horde { color: var(--wf-red); }
+  .wf-dq__chain { margin: 0 0 8px; font-size: 14.5px; }
+  .wf-gprose .wf-dq__steps { margin: 0 0 10px; }
+  .wf-dq__taxi, .wf-dq__note { display: block; font-size: 13.5px; color: var(--wf-muted); }
+  .wf-dq__shot img { width: 100%; max-width: 560px; height: auto; border-radius: var(--wf-r-card-sm); }
+  .wf-dq .wf-shots { margin: 4px 0 10px; }
+  .wf-dq__rewardlabel {
+    margin: 6px 0 4px;
+    font-family: var(--wf-display);
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--wf-muted);
+  }
+
+  @media (max-width: 899px) {
+    .wf-dng__facts { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  @media (max-width: 599px) {
+    .wf-dng__tab { flex: 1; justify-content: center; padding: 8px 6px; font-size: 14.5px; }
+    .wf-dq { padding: 12px 12px 4px; }
+  }
+</style>

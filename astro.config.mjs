@@ -51,6 +51,17 @@ export default defineConfig({
    * pagina die meteen doorstuurt, zodat links en zoekresultaten blijven werken.
    */
   redirects: {
+    /*
+     * De vergelijking met Joana is weg (19 oktober 2026, Nutri: "Remove Joana right now from
+     * the whole website because Joana does not have a guide for WoW Forever"). Tot er een
+     * vergelijking met Journey is, gaat het oude adres naar RestedXP tegen Zygor.
+     */
+    '/compare/restedxp-vs-joana': '/compare/restedxp-vs-zygor',
+    '/nl/compare/restedxp-vs-joana': '/nl/compare/restedxp-vs-zygor',
+    '/fr/compare/restedxp-vs-joana': '/fr/compare/restedxp-vs-zygor',
+    '/es/compare/restedxp-vs-joana': '/es/compare/restedxp-vs-zygor',
+    '/it/compare/restedxp-vs-joana': '/it/compare/restedxp-vs-zygor',
+    '/de/compare/restedxp-vs-joana': '/de/compare/restedxp-vs-zygor',
     '/guides/ruins-of-lordaeron': '/guides/dungeons/ruins-of-lordaeron',
     '/guides/hall-of-thanes-quests': '/guides/dungeons/hall-of-thanes',
     '/nl/guides/ruins-of-lordaeron': '/nl/guides/dungeons/ruins-of-lordaeron',

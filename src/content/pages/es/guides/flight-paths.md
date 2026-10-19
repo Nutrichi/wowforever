@@ -35,7 +35,7 @@ Los maestros de vuelo llevan a los jugadores de una ciudad de Azeroth a otra por
 | **Kalimdor** | 19 puntos de vuelo, 33 rutas | 22 puntos de vuelo, 49 rutas |
 | **Nuevo en Forever** | 4 puntos de vuelo, 6 rutas | 3 puntos de vuelo, 6 rutas |
 
-Los puntos de vuelo y las rutas salen de los archivos de la beta, build 1.60.1.70245. No han cambiado desde finales de septiembre. Una ciudad con un maestro de vuelo para cada facción, como Everlook, cuenta una vez por facción.
+Los puntos de vuelo y las rutas salen de los archivos de la beta. No han cambiado desde finales de septiembre. Una ciudad con un maestro de vuelo para cada facción, como Everlook, cuenta una vez por facción.
 
 En el mapa, una línea azul es una ruta de la Alliance y una roja, una ruta de la Horde. Una línea discontinua es un barco o un zepelín, blanca si ambas facciones pueden usarla. Un borde dorado y la palabra NEW marcan una ruta nueva. Un escudo es un maestro de vuelo; un círculo, un muelle o una torre de zepelín.
 

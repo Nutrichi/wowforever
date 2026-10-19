@@ -187,9 +187,9 @@ L’Associate Production Director Clay Stone a déclaré que le style artistique
 
 La courbe d'expérience ne change pas : un personnage a besoin d'autant d'expérience pour atteindre 60 que dans le Classic d'origine, a dit Blizzard à The Sun. Ce qui change, c'est d'où vient cette expérience, car les nouvelles zones ajoutent des chemins que le jeu d'origine n'avait pas. Les Riverglades et Shen'dralas se situent dans la tranche où le leveling ralentit, et Mount Hyjal se trouve près du niveau 60.
 
-Les donjons fonctionnent autrement. L'expérience des monstres en donjon baisse et celle des quêtes de donjon monte fortement. Une première visite est rentable, une répétition beaucoup moins. Blizzard veut des joueurs dans le monde plutôt que dans le même donjon. Depuis la build de la bêta du 1er octobre, les quêtes de donjon donnent 50 % de moins de cette expérience supplémentaire, parce que les testeurs montaient trop vite.
+Les donjons fonctionnent autrement. L'expérience des monstres en donjon baisse et celle des quêtes de donjon monte fortement. Une première visite est rentable, une répétition beaucoup moins. Blizzard veut des joueurs dans le monde plutôt que dans le même donjon. Les quêtes de donjon ont ensuite perdu la moitié de cette expérience supplémentaire, parce que les testeurs montaient trop vite.
 
-Au total, cela s’équilibre. Passer du niveau 1 au niveau 20 prend en moyenne 20,5 heures dans Forever contre 20,4 dans Classic Era, dit Josh Greenfield dans le [premier podcast des développeurs](/fr/news/a-first-developer-podcast-promises-fewer-blues/). Le prochain build de la bêta donne aussi moins de récompenses de quête bleues en donjon, pour que le passage du blanc au vert puis au bleu se ressente comme dans Classic, dit Tim Jones.
+Au total, cela s’équilibre. Passer du niveau 1 au niveau 20 prend en moyenne 20,5 heures dans Forever contre 20,4 dans Classic Era, dit Josh Greenfield dans le [premier podcast des développeurs](/fr/news/a-first-developer-podcast-promises-fewer-blues/). La prochaine mise à jour de la bêta donne aussi moins de récompenses de quête bleues en donjon, pour que le passage du blanc au vert puis au bleu se ressente comme dans Classic, dit Tim Jones.
 
 Il n'y a ni WoW Token ni boost, a dit l'Associate Production Director Clay Stone dans un entretien avec Destin. Le système de rattrapage reste « jouer au jeu ». L’or acheté avec de l’argent réel coûte l’or, une suspension ou le compte, et le jeu affichera un avertissement à chaque échange avec un inconnu, a dit Blizzard le 1er octobre.
 
@@ -267,7 +267,7 @@ Les arbres gardent leur forme d'origine, a dit Blizzard à The Sun : trois par c
 
 Les nouvelles combinaisons de race et de classe sont l’Undead Paladin, le Dwarf Shaman, le Human Hunter, le Gnome Priest, l’Orc Mage et le Troll Warlock, plus les classes des Skyborne. L’Undead Paladin est lié au premier Forsaken Paladin de Warcraft III Reforged: Forsaken Kingdom.
 
-Les racials ont aussi été revus. Chaque race a désormais quatre racials et les racials de résistance ont disparu. Depuis le build bêta du 15 octobre, les spécialisations d’arme ont disparu aussi : [Humains, Nains et Orcs reçoivent un bonus aux coups critiques](/fr/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) qui fonctionne avec n’importe quelle arme. Le tableau complet des races et des classes, avec chaque racial par race, se trouve sur [Classes](/fr/classes/).
+Les racials ont aussi été revus. Chaque race a désormais quatre racials et les racials de résistance ont disparu. Les spécialisations d’arme ont disparu aussi : [Humains, Nains et Orcs reçoivent un bonus aux coups critiques](/fr/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) qui fonctionne avec n’importe quelle arme. Le tableau complet des races et des classes, avec chaque racial par race, se trouve sur [Classes](/fr/classes/).
 
 ## Nouveaux systèmes
 

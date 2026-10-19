@@ -187,9 +187,9 @@ El Associate Production Director Clay Stone dijo que el estilo artístico de Cla
 
 La curva de experiencia no cambia: un personaje necesita lo mismo para llegar a 60 que en el Classic original, dijo Blizzard a The Sun. Lo que cambia es de dónde sale esa experiencia, porque las zonas nuevas añaden caminos que el juego original no tenía. The Riverglades y Shen'dralas caen en el tramo donde subir de nivel se ralentiza, y Mount Hyjal está cerca del 60.
 
-Las mazmorras funcionan de otra manera. La experiencia de los monstruos dentro de una mazmorra baja y la de las misiones de mazmorra sube con fuerza. La primera vuelta renta, repetirla mucho menos. Blizzard quiere jugadores por el mundo en lugar de en la misma mazmorra. Desde la build de la beta del 1 de octubre, las misiones de mazmorra dan un 50 % menos de esa experiencia extra, porque los probadores subían demasiado rápido.
+Las mazmorras funcionan de otra manera. La experiencia de los monstruos dentro de una mazmorra baja y la de las misiones de mazmorra sube con fuerza. La primera vuelta renta, repetirla mucho menos. Blizzard quiere jugadores por el mundo en lugar de en la misma mazmorra. Después, las misiones de mazmorra perdieron la mitad de esa experiencia extra, porque los probadores subían demasiado rápido.
 
-En conjunto se equilibra. Del nivel 1 al 20 se tarda de media 20,5 horas en Forever frente a 20,4 en Classic Era, dice Josh Greenfield en el [primer podcast de los desarrolladores](/es/news/a-first-developer-podcast-promises-fewer-blues/). La próxima build de la beta también da menos recompensas de misión azules en las mazmorras, para que el paso del blanco al verde y al azul se sienta como en Classic, dice Tim Jones.
+En conjunto se equilibra. Del nivel 1 al 20 se tarda de media 20,5 horas en Forever frente a 20,4 en Classic Era, dice Josh Greenfield en el [primer podcast de los desarrolladores](/es/news/a-first-developer-podcast-promises-fewer-blues/). La próxima actualización de la beta también da menos recompensas de misión azules en las mazmorras, para que el paso del blanco al verde y al azul se sienta como en Classic, dice Tim Jones.
 
 No hay WoW Token ni boost, dijo el Associate Production Director Clay Stone en una entrevista con Destin. El sistema para ponerse al día sigue siendo "jugar al juego". El oro comprado con dinero real cuesta el oro, una suspensión o la cuenta, y el juego mostrará un aviso en cada intercambio con un desconocido, dijo Blizzard el 1 de octubre.
 
@@ -267,7 +267,7 @@ Los árboles conservan su forma original, contó Blizzard a The Sun: tres por cl
 
 Las nuevas combinaciones de raza y clase son el Undead Paladin, el Dwarf Shaman, el Human Hunter, el Gnome Priest, el Orc Mage y el Troll Warlock, además de las clases de los Skyborne. El Undead Paladin está ligado al primer Forsaken Paladin de Warcraft III Reforged: Forsaken Kingdom.
 
-Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials y los racials de resistencia desaparecen. Desde la build de la beta del 15 de octubre también desaparecen las especializaciones de arma: [Humanos, Enanos y Orcos reciben una bonificación a los críticos](/es/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) que funciona con cualquier arma. La tabla completa de razas y clases, con cada racial por raza, está en [Classes](/es/classes/).
+Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials y los racials de resistencia desaparecen. También desaparecen las especializaciones de arma: [Humanos, Enanos y Orcos reciben una bonificación a los críticos](/es/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) que funciona con cualquier arma. La tabla completa de razas y clases, con cada racial por raza, está en [Classes](/es/classes/).
 
 ## Sistemas nuevos
 

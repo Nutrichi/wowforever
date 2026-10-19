@@ -1,0 +1,259 @@
+{
+ "slug": "hall-of-thanes",
+ "levels": "13–18",
+ "bosses": [
+  {
+   "name": "Faldrim Anvilmar",
+   "slug": "faldrim-anvilmar",
+   "level": "16",
+   "npc": 261306,
+   "items": [
+    270227,
+    271096,
+    271097
+   ]
+  },
+  {
+   "name": "Magmatus",
+   "slug": "magmatus",
+   "level": "16",
+   "npc": 261316,
+   "items": [
+    270230,
+    270231,
+    271095
+   ]
+  },
+  {
+   "name": "Plunder",
+   "slug": "plunder",
+   "level": "16",
+   "npc": 261311,
+   "items": [
+    270228,
+    271098,
+    270229
+   ]
+  },
+  {
+   "name": "Durgen Dirgehammer",
+   "slug": "durgen-dirgehammer",
+   "level": "16",
+   "npc": 261319,
+   "items": [
+    270256,
+    270260,
+    270261
+   ]
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 96394,
+   "name": "The Restless Dead",
+   "level": 15,
+   "minLevel": 10,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 1050,
+   "rep": "Ironforge +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Afadra Dunwall",
+     "kind": "npc",
+     "npc": 264943,
+     "zone": "Ironforge",
+     "at": {
+      "x": 34,
+      "y": 48.8
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 173
+     }
+    }
+   ],
+   "to": [],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    279897,
+    280095
+   ],
+   "choice": true
+  },
+  {
+   "id": 96393,
+   "name": "Old Ironforge Incursion",
+   "level": 16,
+   "minLevel": 9,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 1450,
+   "rep": "Ironforge +100 · Gnomeregan Exiles +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Earthseer Farsen",
+     "kind": "npc",
+     "npc": 264936,
+     "zone": "Dun Morogh",
+     "place": "The Tundrid Hills",
+     "at": {
+      "x": 64.8,
+      "y": 58.4
+     },
+     "taxi": {
+      "name": "Thorium Point, Searing Gorge",
+      "yards": 790
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "King Magni Bronzebeard",
+     "kind": "npc",
+     "npc": 2784,
+     "zone": "Ironforge"
+    }
+   ],
+   "chain": [
+    {
+     "name": "Underground Map",
+     "id": 96391,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [
+    279894,
+    279895,
+    279896
+   ],
+   "choice": true
+  },
+  {
+   "id": 98423,
+   "name": "The Treaty of Understanding",
+   "level": 16,
+   "minLevel": 9,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 3900,
+   "rep": "Ironforge +100 · Gnomeregan +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Treaty of Understanding",
+     "kind": "item",
+     "item": 281030,
+     "zone": "The Hall of Thanes"
+    }
+   ],
+   "to": [
+    {
+     "name": "King Magni Bronzebeard",
+     "kind": "npc",
+     "npc": 2784,
+     "zone": "Ironforge"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 96395,
+   "name": "An Ancient Grudge",
+   "level": 15,
+   "minLevel": 10,
+   "faction": null,
+   "classes": null,
+   "races": null,
+   "xp": 1050,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Ghostly Attendant",
+     "kind": "npc",
+     "npc": 265002,
+     "zone": "The Hall of Thanes"
+    }
+   ],
+   "to": [],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    279899,
+    279900
+   ],
+   "choice": true
+  },
+  {
+   "id": 96403,
+   "name": "Important Heirlooms",
+   "level": 15,
+   "minLevel": 10,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 1350,
+   "rep": "Gadgetzan +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Thom Filch",
+     "kind": "npc",
+     "npc": 265003,
+     "zone": "Ironforge",
+     "at": {
+      "x": 32.6,
+      "y": 44.6
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 185
+     }
+    }
+   ],
+   "to": [],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    279898,
+    280096
+   ],
+   "choice": true
+  }
+ ],
+ "cards": {
+  "270227": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_necklacea8.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270227\">Ephemeral Choker</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "270228": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270228\">Golemheart Stave</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>30 - 46 Damage</span><span>Speed 3.20</span></span><span class=\"wf-item__line\">(11.88 damage per second)</span><span class=\"wf-item__line\">+9 Fire Resistance</span><span class=\"wf-item__line\">Durability 70 / 70</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 18.</span></div></div>",
+  "270229": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270229\">Treads of the Protector Golem</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">122 Armor</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+50 Armor</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "270230": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_20.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270230\">Kindlegem Girdle</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Mail</span></span><span class=\"wf-item__line\">100 Armor</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "270231": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_25.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270231\">Flamefist Grips</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Leather</span></span><span class=\"wf-item__line\">51 Armor</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Durability 25 / 25</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "270256": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270256\">Durgen's Crescent Axe</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>20 - 39 Damage</span><span>Speed 2.40</span></span><span class=\"wf-item__line\">(12.29 damage per second)</span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "270260": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270260\">Direhammer Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">72 Armor</span><span class=\"wf-item__line\">+4 Agility</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "270261": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270261\">Robes of the Disgraced Thane</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">35 Armor</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 8.</span></div></div>",
+  "271095": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bone_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=271095\">Fang of Magmatus</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>9 - 18 Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(7.94 damage per second)</span><span class=\"wf-item__line\">+4 Intellect</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 18.</span></div></div>",
+  "271096": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=271096\">Aetherwisp Bracers</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Cloth</span></span><span class=\"wf-item__line\">15 Armor</span><span class=\"wf-item__line\">+30 Armor</span><span class=\"wf-item__line\">Durability 20 / 20</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span></div></div>",
+  "271097": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=271097\">Spiritwraith Drape</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">17 Armor</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "271098": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_chain.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=271098\">Golemguard Chest</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Mail</span></span><span class=\"wf-item__line\">178 Armor</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">+60 Armor</span><span class=\"wf-item__line\">Durability 95 / 95</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "279894": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_rifle_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=279894\">Calibrated Blunderbuss</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Gun</span></span><span class=\"wf-item__row\"><span>15 - 29 Damage</span><span>Speed 2.30</span></span><span class=\"wf-item__line\">(9.57 damage per second)</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">Durability 50 / 50</span></div></div>",
+  "279895": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_21.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=279895\">Ironforge Greathammer</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>39 - 60 Damage</span><span>Speed 3.10</span></span><span class=\"wf-item__line\">(15.97 damage per second)</span><span class=\"wf-item__line\">Durability 70 / 70</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Blasts a target for 42 Fire damage.</span></div></div>",
+  "279896": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=279896\">Deepblaze</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>22 - 41 Fire Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(18.53 damage per second)</span><span class=\"wf-item__line\">+3 Fire Resistance</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line wf-item__meta\">\"The Great Forge burns within it still.\"</span></div></div>",
+  "279897": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279897\">Dusty Belt</a><span class=\"wf-item__line wf-item__meta\">Item Level 17</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Leather</span></span><span class=\"wf-item__line\">41 Armor</span><span class=\"wf-item__line\">+2 Agility</span><span class=\"wf-item__line\">+2 Spirit</span><span class=\"wf-item__line\">Durability 25 / 25</span></div></div>",
+  "279898": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_book_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279898\">Dwarven Tome</a><span class=\"wf-item__line wf-item__meta\">Item Level 17</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Held In Off-hand</span><span></span></span><span class=\"wf-item__line\">+1 Spirit</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span><span class=\"wf-item__line wf-item__meta\">\"Details the history of dwarves long since forgotten.\"</span></div></div>",
+  "279899": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279899\">Catacomb Cloak</a><span class=\"wf-item__line wf-item__meta\">Item Level 17</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">15 Armor</span><span class=\"wf-item__line\">+2 Stamina</span><span class=\"wf-item__line wf-item__use\">Equip: +3 Attack Power.</span><span class=\"wf-item__line wf-item__use\">Equip: +4 Attack Power against Humanoids.</span></div></div>",
+  "279900": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279900\">Deepgrave Trousers</a><span class=\"wf-item__line wf-item__meta\">Item Level 17</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">64 Armor</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span></div></div>",
+  "280095": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=280095\">Cryptwalker Bracers</a><span class=\"wf-item__line wf-item__meta\">Item Level 17</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Mail</span></span><span class=\"wf-item__line\">69 Armor</span><span class=\"wf-item__line\">+2 Strength</span><span class=\"wf-item__line\">+2 Spirit</span><span class=\"wf-item__line\">Durability 30 / 30</span></div></div>",
+  "280096": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=280096\">Tomb Robber's Gloves</a><span class=\"wf-item__line wf-item__meta\">Item Level 17</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Cloth</span></span><span class=\"wf-item__line\">19 Armor</span><span class=\"wf-item__line\">+1 Stamina</span><span class=\"wf-item__line\">+2 Intellect</span><span class=\"wf-item__line\">Durability 20 / 20</span></div></div>"
+ }
+}

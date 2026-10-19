@@ -12,7 +12,7 @@ faq:
   - q: "¿Cuál es la primera mazmorra de WoW Forever?"
     a: "Ragefire Chasm para la Horde, con misiones desde el nivel 9, y The Hall of Thanes para la Alliance, para los niveles 13 a 18. Ruins of Lordaeron, para 15 a 20, es la primera mazmorra nueva en territorio de la Horde."
   - q: "¿Siguen dando mucha experiencia las misiones de mazmorra?"
-    a: "Sí, más que antes. Blizzard redujo la experiencia de los monstruos en mazmorras y subió la de las misiones de mazmorra, así que una primera vuelta con todas sus misiones es la que más rinde. Desde la build de la beta del 1 de octubre, esa experiencia extra de las misiones de mazmorra es un 50 % menor."
+    a: "Sí, más que antes. Blizzard redujo la experiencia de los monstruos en mazmorras y subió la de las misiones de mazmorra, así que una primera vuelta con todas sus misiones es la que más rinde. Esa experiencia extra de las misiones de mazmorra se redujo después a la mitad."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"

@@ -10,7 +10,7 @@ faq:
   - q: "Is de Frost Mage goed in WoW Forever?"
     a: "Ja. Ice Lance en Fingers of Frost laten Frost Shatter gebruiken op één doel, ook op bazen die je niet kan bevriezen. Zo wordt de oude spec voor levelen en PvP een sterke schadespec voor dungeons en raids, met de meeste controle van de drie Mage-specs."
   - q: "Hoeveel schade doet Ice Lance tegen Frozen doelen?"
-    a: "200% meer. De beta-build van 15 oktober verlaagde de bonus van 300%. Ice Lance is instant, kost 45 mana en vraagt level 20."
+    a: "200% meer. Eerder was dat 300%. Ice Lance is instant, kost 45 mana en vraagt level 20."
   - q: "Waarom neemt een Frost-build Missile Barrage?"
     a: "Missile Barrage verhuisde naar de eerste rij van de Arcane-boom. Op 2/2 heeft elke Frostbolt 20% kans om je volgende Arcane Missiles gratis en dubbel zo snel te maken. Dat is veel schade voor twee punten."
   - q: "Kan ik nog rank 1 Frostbolt gebruiken?"
@@ -39,7 +39,7 @@ De Frost Mage in WoW Forever vertraagt en bevriest zijn doelen, overleeft beter 
 
 ## Wat er verandert voor Frost
 
-- **Ice Lance is nieuw.** Een talent op level 20: instant, 45 mana en 200% meer schade tegen Frozen doelen. De beta-build van 15 oktober verlaagde dat van 300%.
+- **Ice Lance is nieuw.** Een talent op level 20: instant, 45 mana en 200% meer schade tegen Frozen doelen. Eerder was dat 300%.
 - **Fingers of Frost is nieuw.** Je Chill-effecten hebben 15% kans om je volgende 2 spells te behandelen alsof het doel Frozen is. Dat werkt op doelen die je niet kan bevriezen, zoals de meeste bazen.
 - **Missile Barrage ligt binnen bereik.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400588"><img class="wf-wh__icon" src="/wh/ability_mage_missilebarrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Missile Barrage</a> staat in de eerste rij van de Arcane-boom. Op 2/2 heeft elke <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> 20% kans om je volgende <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5143"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Missiles</a> gratis en dubbel zo snel te maken.
 - **Frost Blast** op level 24 is een zwakke, snelle ijsstoot die het doel 9 seconden lang 40% vertraagt.

@@ -12,7 +12,7 @@ faq:
   - q: "Quel est le premier donjon de WoW Forever ?"
     a: "Ragefire Chasm pour la Horde, avec des quêtes dès le niveau 9, et The Hall of Thanes pour l’Alliance, pour les niveaux 13 à 18. Les Ruins of Lordaeron, pour 15 à 20, sont le premier nouveau donjon en territoire de la Horde."
   - q: "Les quêtes de donjon rapportent-elles encore beaucoup d’expérience ?"
-    a: "Oui, plus qu’avant. Blizzard a réduit l’expérience des monstres en donjon et augmenté celle des quêtes de donjon, donc un premier passage avec toutes ses quêtes rapporte le plus. Depuis la build de la bêta du 1er octobre, cette expérience supplémentaire des quêtes de donjon est 50 % plus basse."
+    a: "Oui, plus qu’avant. Blizzard a réduit l’expérience des monstres en donjon et augmenté celle des quêtes de donjon, donc un premier passage avec toutes ses quêtes rapporte le plus. Cette expérience supplémentaire des quêtes de donjon a ensuite été réduite de moitié."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
