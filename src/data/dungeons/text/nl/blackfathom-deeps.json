@@ -1,0 +1,47 @@
+{
+ "location": "Ashenvale, onder de Zoram Strand",
+ "entrance": "Verzonken ruïnes van de Night Elves aan de Zoram Strand, op /way 14.5 14.6. Zwem door de poel onderaan en volg de grot van de naga naar het portaal.",
+ "quests": {
+  "971": {
+   "objective": "Breng het Lorgalis Manuscript naar Gerrig Bonegrip in de Forlorn Cavern.",
+   "note": "Het manuscript ligt in een nis van de ruimte van Ghamoo-ra."
+  },
+  "1198": {
+   "objective": "Vind Argent Guard Thaelrid in de dungeon.",
+   "note": "Hij wacht in een nis van de ruimte van Ghamoo-ra en geeft Blackfathom Villainy."
+  },
+  "1200": {
+   "objective": "Dood Twilight Lord Kelris en breng zijn hoofd naar Dawnwatcher Selgorm in Darnassus."
+  },
+  "1275": {
+   "objective": "Verzamel 8 Corrupted Brain Stems van de saters en naga in en rond de dungeon, Lady Sarevess inbegrepen.",
+   "note": "The Corruption Abroad van Argos Nightwhisper in Stormwind leidt ernaartoe, maar die quest is optioneel."
+  },
+  "1199": {
+   "objective": "Breng 10 Twilight Pendants naar Argent Guard Manados.",
+   "note": "Ze vallen bij de Twilight's Hammer: Acolytes, Aquamancers, Elementalists, Loreseekers, Reavers en Shadowmages."
+  },
+  "6564": {
+   "objective": "Breng de Damp Note naar Je'neu Sancrea in Zoram'gar Outpost.",
+   "note": "Een Blackfathom Tide Priestess buiten de dungeon kan de brief laten vallen."
+  },
+  "6565": {
+   "objective": "Dood Lorgus Jett en meld je terug bij Je'neu Sancrea.",
+   "note": "Hij heeft geen vaste plek en verschijnt op een van meerdere plaatsen in Moonshrine Sanctum."
+  },
+  "6563": {
+   "objective": "Breng 20 Sapphires of Aku'Mai naar Je'neu Sancrea.",
+   "note": "De kristallen groeien op de wanden van de grot voor het portaal. De quest opent pas na Trouble in the Deeps van Tsunaman in Sunrock Retreat."
+  },
+  "6921": {
+   "objective": "Klik op de Fathom Stone onder water, dood Baron Aquanis en breng de Fathom Core naar Je'neu Sancrea.",
+   "note": "Na de dood van de Baron klikt elk groepslid opnieuw op de steen voor een eigen core."
+  },
+  "6561": {
+   "objective": "Dood Twilight Lord Kelris en breng zijn hoofd naar Bashana Runetotem in Thunder Bluff."
+  },
+  "6922": {
+   "objective": "Breng de Strange Water Globe, een drop van Baron Aquanis, naar Je'neu Sancrea."
+  }
+ }
+}

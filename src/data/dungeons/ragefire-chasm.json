@@ -1,0 +1,337 @@
+{
+ "slug": "ragefire-chasm",
+ "levels": "13–18",
+ "bosses": [
+  {
+   "name": "Oggleflint",
+   "slug": "oggleflint",
+   "level": "16",
+   "npc": 11517,
+   "items": [
+    272996,
+    272998,
+    272999
+   ]
+  },
+  {
+   "name": "Taragaman the Hungerer",
+   "slug": "taragaman-the-hungerer",
+   "level": "16",
+   "npc": 11520,
+   "items": [
+    14149,
+    14148,
+    14145
+   ]
+  },
+  {
+   "name": "Jergosh the Invoker",
+   "slug": "jergosh-the-invoker",
+   "level": "16",
+   "npc": 11518,
+   "items": [
+    14150,
+    14147,
+    14151
+   ]
+  },
+  {
+   "name": "Bazzalan",
+   "slug": "bazzalan",
+   "level": "16",
+   "npc": 11519,
+   "items": [
+    273003,
+    273007,
+    273005
+   ]
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 5723,
+   "name": "Testing an Enemy's Strength",
+   "level": 15,
+   "minLevel": 9,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 1050,
+   "rep": "Thunder Bluff +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Rahauro",
+     "kind": "npc",
+     "npc": 11833,
+     "zone": "Thunder Bluff",
+     "place": "Elder Rise",
+     "at": {
+      "x": 70,
+      "y": 29.2
+     },
+     "taxi": {
+      "name": "Thunder Bluff, Mulgore",
+      "yards": 283
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Rahauro",
+     "kind": "npc",
+     "npc": 11833,
+     "zone": "Thunder Bluff",
+     "place": "Elder Rise",
+     "at": {
+      "x": 70,
+      "y": 29.2
+     },
+     "taxi": {
+      "name": "Thunder Bluff, Mulgore",
+      "yards": 283
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 5728,
+   "name": "Hidden Enemies",
+   "level": 16,
+   "minLevel": 9,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 1150,
+   "rep": "Orgrimmar +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Thrall",
+     "kind": "npc",
+     "npc": 4949,
+     "zone": "Orgrimmar",
+     "at": {
+      "x": 32,
+      "y": 37.8
+     },
+     "taxi": {
+      "name": "Orgrimmar, Durotar",
+      "yards": 306
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Thrall",
+     "kind": "npc",
+     "npc": 4949,
+     "zone": "Orgrimmar",
+     "at": {
+      "x": 32,
+      "y": 37.8
+     },
+     "taxi": {
+      "name": "Orgrimmar, Durotar",
+      "yards": 306
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Hidden Enemies",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "Hidden Enemies",
+     "id": null,
+     "optional": false
+    }
+   ],
+   "next": [
+    {
+     "name": "Hidden Enemies",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "Hidden Enemies",
+     "id": null,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 5722,
+   "name": "Searching for the Lost Satchel",
+   "level": 16,
+   "minLevel": 9,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 880,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Rahauro",
+     "kind": "npc",
+     "npc": 11833,
+     "zone": "Thunder Bluff",
+     "place": "Elder Rise",
+     "at": {
+      "x": 70,
+      "y": 29.2
+     },
+     "taxi": {
+      "name": "Thunder Bluff, Mulgore",
+      "yards": 283
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Maur Grimtotem",
+     "kind": "npc",
+     "npc": 11834,
+     "zone": "Ragefire Chasm"
+    }
+   ],
+   "chain": [],
+   "next": [
+    {
+     "name": "Returning the Lost Satchel",
+     "id": 5724,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 5761,
+   "name": "Slaying the Beast",
+   "level": 16,
+   "minLevel": 9,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 1150,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Neeru Fireblade",
+     "kind": "npc",
+     "npc": 3216,
+     "zone": "Orgrimmar",
+     "at": {
+      "x": 49.4,
+      "y": 50.6
+     },
+     "taxi": {
+      "name": "Orgrimmar, Durotar",
+      "yards": 136
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Neeru Fireblade",
+     "kind": "npc",
+     "npc": 3216,
+     "zone": "Orgrimmar",
+     "at": {
+      "x": 49.4,
+      "y": 50.6
+     },
+     "taxi": {
+      "name": "Orgrimmar, Durotar",
+      "yards": 136
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 5725,
+   "name": "The Power to Destroy...",
+   "level": 16,
+   "minLevel": 9,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 1450,
+   "rep": "Undercity +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Varimathras",
+     "kind": "npc",
+     "npc": 2425,
+     "zone": "Undercity",
+     "at": {
+      "x": 56.2,
+      "y": 92.4
+     },
+     "taxi": {
+      "name": "Undercity, Tirisfal",
+      "yards": 290
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Varimathras",
+     "kind": "npc",
+     "npc": 2425,
+     "zone": "Undercity",
+     "at": {
+      "x": 56.2,
+      "y": 92.4
+     },
+     "taxi": {
+      "name": "Undercity, Tirisfal",
+      "yards": 290
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    15449,
+    15450,
+    15451
+   ],
+   "choice": true
+  }
+ ],
+ "cards": {
+  "14145": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=14145\">Cursed Felblade</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>19 - 37 Damage</span><span>Speed 2.30</span></span><span class=\"wf-item__line\">(12.17 damage per second)</span><span class=\"wf-item__line\">Durability 55 / 55</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Reduces target enemy's attack power by 24 for 30 sec.</span></div></div>",
+  "14147": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=14147\">Cavedweller Bracers</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Mail</span></span><span class=\"wf-item__line\">78 Armor</span><span class=\"wf-item__line\">+2 Strength</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 25 / 25</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "14148": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=14148\">Crystalline Cuffs</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Cloth</span></span><span class=\"wf-item__line\">15 Armor</span><span class=\"wf-item__line\">+2 Stamina</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 20 / 20</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "14149": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=14149\">Subterranean Cape</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">17 Armor</span><span class=\"wf-item__line\">+3 Strength</span><span class=\"wf-item__line\">Restores +5 health per 5 sec.</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "14150": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_24.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=14150\">Robe of Evocation</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">35 Armor</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">+4 Intellect</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">Durability 55 / 55</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "14151": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_25.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=14151\">Chanting Blade</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>12 - 24 Damage</span><span>Speed 1.50</span></span><span class=\"wf-item__line\">(12.00 damage per second)</span><span class=\"wf-item__line\">+2 Agility</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "15449": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=15449\">Ghastly Trousers</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">28 Armor</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">+3 Intellect</span><span class=\"wf-item__line\">Durability 40 / 40</span></div></div>",
+  "15450": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=15450\">Dredgemire Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">65 Armor</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 50 / 50</span></div></div>",
+  "15451": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=15451\">Gargoyle Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Mail</span></span><span class=\"wf-item__line\">141 Armor</span><span class=\"wf-item__line\">+3 Strength</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span></div></div>",
+  "272996": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bone_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=272996\">Trogg Scepter</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>13 - 26 Damage</span><span>Speed 2.40</span></span><span class=\"wf-item__line\">(8.13 damage per second)</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 33 and damage done by up to 11 for all magical spells and effects.</span></div></div>",
+  "272998": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/ability_whirlwind.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=272998\">Bone Knuckles</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Fist Weapon</span></span><span class=\"wf-item__row\"><span>17 - 32 Damage</span><span>Speed 2.00</span></span><span class=\"wf-item__line\">(12.25 damage per second)</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Equip: +6 Attack Power.</span><span class=\"wf-item__line wf-item__use\">Equip: +6 Attack Power against Beasts.</span></div></div>",
+  "272999": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_crossbow_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=272999\">Barbaric Crossbow</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Crossbow</span></span><span class=\"wf-item__row\"><span>15 - 23 Damage</span><span>Speed 2.00</span></span><span class=\"wf-item__line\">(9.50 damage per second)</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Wounds the target for 14 Physical damage.</span></div></div>",
+  "273003": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273003\">Searing Dagger</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>9 - 17 Damage</span><span>Speed 1.60</span></span><span class=\"wf-item__line\">(8.13 damage per second)</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Equip: Harmful spell casts sear the target for 7 Fire damage. (10ms cooldown)</span></div></div>",
+  "273005": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273005\">Satyrskin Cloak</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">17 Armor</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">+3 Fire Resistance</span><span class=\"wf-item__line\">Requires Level 13</span></div></div>",
+  "273007": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273007\">Chasm Walkers</a><span class=\"wf-item__line wf-item__meta\">Item Level 18</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Leather</span></span><span class=\"wf-item__line\">56 Armor</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 13</span><span class=\"wf-item__line wf-item__use\">Equip: +4 Attack Power.</span></div></div>"
+ }
+}

@@ -3,7 +3,7 @@ title: "Dungeon guide: every dungeon quest in WoW Forever"
 metaTitle: "WoW Forever dungeon quests: every dungeon, level and quest giver"
 description: "Every dungeon of WoW Forever with its levels and all its quests: where each quest starts, for which faction, what it needs first, and the keys some dungeons ask for."
 short: "Dungeons"
-updated: 2026-10-07
+updated: 2026-10-19
 lang: en
 faq:
   - q: "Which dungeons are in WoW Forever?"
@@ -22,44 +22,48 @@ The beta of WoW Forever goes up to level 30 since 1 October. For the dungeons ab
 
 ## Guides per dungeon
 
-- **[Ragefire Chasm](/guides/dungeons/ragefire-chasm/)**, levels 9-19: the way in through Orgrimmar, all six Horde quests with their rewards and the new loot of Taragaman and Jergosh.
+- **[Ragefire Chasm](/guides/dungeons/ragefire-chasm/)**, levels 13-18: the way in through Orgrimmar, all six Horde quests with their rewards and the new loot of Taragaman and Jergosh.
 - **[The Hall of Thanes](/guides/dungeons/hall-of-thanes/)**, levels 13-18: the way in, all five quests with the chain in Dun Morogh, the four bosses and their loot.
 - **[Ruins of Lordaeron](/guides/dungeons/ruins-of-lordaeron/)**, levels 15-20: the way in for both factions, all ten quests, the six bosses and their loot.
 - **[Wailing Caverns](/guides/dungeons/wailing-caverns/)**, levels 15-24: all seven quests with their rewards, the Lords of the Fang, the Naralex event and the new Embrace of the Viper bonuses.
-- **[The Deadmines](/guides/dungeons/the-deadmines/)**, levels 14-24: the way in through Moonbrook, all seven quests with their rewards and the new loot of every boss.
-- **[Shadowfang Keep](/guides/dungeons/shadowfang-keep/)**, levels 18-28: the way in above Pyrewood Village, the three Horde quests and the new loot of every boss.
-- **[Blackfathom Deeps](/guides/dungeons/blackfathom-deeps/)**, levels 21-30: the way in at the Zoram Strand, the quests of both factions and the new loot of every boss.
+- **[The Deadmines](/guides/dungeons/the-deadmines/)**, levels 17-26: the way in through Moonbrook, all seven quests with their rewards and the new loot of every boss.
+- **[Shadowfang Keep](/guides/dungeons/shadowfang-keep/)**, levels 20-30: the way in above Pyrewood Village, the three Horde quests and the new loot of every boss.
+- **[Blackfathom Deeps](/guides/dungeons/blackfathom-deeps/)**, levels 24-32: the way in at the Zoram Strand, the quests of both factions and the new loot of every boss.
 - **[Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/)**, levels 26-31, new in Forever: the quests for both factions, the tall grass and the three bosses with their loot.
-- **[The Stockade](/guides/dungeons/the-stockade/)**, levels 22-30: the layout of the prison, all six quests and the loot of Bruegal Ironknuckle.
+- **[The Stockade](/guides/dungeons/the-stockade/)**, levels 24-32: the layout of the prison, all six quests and the new blue loot of every boss.
 - **[City of Dalaran](/guides/dungeons/city-of-dalaran/)**, levels 28-33, new in Forever: both entrances, the arcane trash and the seven bosses.
-- **[Razorfen Kraul](/guides/dungeons/razorfen-kraul/)**, levels 25-34: all seven quests with their rewards, the quilboar casters and the new loot of every boss.
-- **[Gnomeregan](/guides/dungeons/gnomeregan/)**, levels 25-38: both doors, the teleport for the Horde, all thirteen quests and the new loot of every boss.
-- **[Scarlet Monastery](/guides/dungeons/scarlet-monastery/)**, levels 26-45: the four wings, every quest with its reward and the loot of every boss.
-- **[Razorfen Downs](/guides/dungeons/razorfen-downs/)**, levels 35-44: all six quests with their rewards, the gong event and the new loot of every boss.
+- **[Razorfen Kraul](/guides/dungeons/razorfen-kraul/)**, levels 29-38: all seven quests with their rewards, the quilboar casters and the new loot of every boss.
+- **[Gnomeregan](/guides/dungeons/gnomeregan/)**, levels 29-38: both doors, the teleport for the Horde, all thirteen quests and the new loot of every boss.
+- **Scarlet Monastery**, levels 30-46, in four wings, each with its own loot, quests and guide: [Graveyard](/guides/dungeons/scarlet-monastery-graveyard/), [Library](/guides/dungeons/scarlet-monastery-library/), [Armory](/guides/dungeons/scarlet-monastery-armory/) and [Cathedral](/guides/dungeons/scarlet-monastery-cathedral/).
+- **[Razorfen Downs](/guides/dungeons/razorfen-downs/)**, levels 37-46: all six quests with their rewards, the gong event and the new loot of every boss.
+- **[Uldaman](/guides/dungeons/uldaman/)**, levels 41-51: the way in from the Badlands, the eight bosses up to Archaedas and the loot known so far.
 
 ## Every dungeon by level
 
-Each range runs from the level at which a group can take on the dungeon to the level at which it becomes easy. For the new dungeons, the range is the one Blizzard published on 14 September 2026.
+For the dungeons with a guide, the range is the one the game itself gives. For the others it runs from the level at which a group can take on the dungeon to the level at which it becomes easy; for the new ones it is the range Blizzard published on 14 September 2026.
 
 | Dungeon | Levels | Quests |
 |---|---|---|
-| [Ragefire Chasm](/guides/dungeons/ragefire-chasm/) | 9-19 | 5 |
+| [Ragefire Chasm](/guides/dungeons/ragefire-chasm/) | 13-18 | 5 |
 | [The Hall of Thanes](/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
 | [Ruins of Lordaeron](/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
 | [Wailing Caverns](/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
-| [The Deadmines](/guides/dungeons/the-deadmines/) | 14-24 | 8 |
-| [Shadowfang Keep](/guides/dungeons/shadowfang-keep/) | 18-28 | 5 |
-| [Blackfathom Deeps](/guides/dungeons/blackfathom-deeps/) | 21-30 | 13 |
+| [The Deadmines](/guides/dungeons/the-deadmines/) | 17-26 | 8 |
+| [Shadowfang Keep](/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
+| [Blackfathom Deeps](/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
 | [Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/) | 26-31 | not known yet |
-| [The Stockade](/guides/dungeons/the-stockade/) | 22-30 | 6 |
+| [The Stockade](/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/guides/dungeons/city-of-dalaran/) | 28-33 | not known yet |
-| [Razorfen Kraul](/guides/dungeons/razorfen-kraul/) | 25-34 | 7 |
-| [Gnomeregan](/guides/dungeons/gnomeregan/) | 25-38 | 13 |
+| [Razorfen Kraul](/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
+| [Gnomeregan](/guides/dungeons/gnomeregan/) | 29-38 | 13 |
 | The Drowned City | 35-40 | not known yet |
-| [Scarlet Monastery](/guides/dungeons/scarlet-monastery/) | 26-45 | 8 |
-| [Razorfen Downs](/guides/dungeons/razorfen-downs/) | 35-44 | 6 |
+| [Scarlet Monastery: Graveyard](/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
+| [Scarlet Monastery: Library](/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
+| [Scarlet Monastery: Armory](/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |
+| [Scarlet Monastery: Cathedral](/guides/dungeons/scarlet-monastery-cathedral/) | 38-46 | 3 |
+| [Razorfen Downs](/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
 | Krol'dok Stronghold | 40-45 | not known yet |
-| Uldaman | 37-47 | 14 |
+| [Uldaman](/guides/dungeons/uldaman/) | 41-51 | 14 |
 | Zul'Farrak | 40-50 | 8 |
 | Maraudon | 41-50 | 11 |
 | Alcaz Prison | 48-53 | not known yet |
@@ -240,7 +244,7 @@ The full guide: [Razorfen Kraul](/guides/dungeons/razorfen-kraul/).
 
 At least one player needs The Scarlet Key for the Armory and the Cathedral; Lockpicking 175 works too.
 
-The full guide: [Scarlet Monastery](/guides/dungeons/scarlet-monastery/).
+The full guide: [Scarlet Monastery](/guides/dungeons/scarlet-monastery-graveyard/).
 
 ### All wings
 

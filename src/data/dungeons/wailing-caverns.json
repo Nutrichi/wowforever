@@ -1,0 +1,551 @@
+{
+ "slug": "wailing-caverns",
+ "levels": "15–24",
+ "bosses": [
+  {
+   "name": "Lady Anacondra",
+   "slug": "lady-anacondra",
+   "level": "20",
+   "npc": 3671,
+   "items": [
+    273088,
+    10412,
+    5404,
+    6446,
+    273098
+   ]
+  },
+  {
+   "name": "Lord Cobrahn",
+   "slug": "lord-cobrahn",
+   "level": "20",
+   "npc": 3669,
+   "items": [
+    6460,
+    10410,
+    6465
+   ]
+  },
+  {
+   "name": "Kresh",
+   "slug": "kresh",
+   "level": "20",
+   "npc": 3653,
+   "items": [
+    273084,
+    13245,
+    6447
+   ]
+  },
+  {
+   "name": "Lord Pythas",
+   "slug": "lord-pythas",
+   "level": "21",
+   "npc": 3670,
+   "items": [
+    273089,
+    6472,
+    6473
+   ]
+  },
+  {
+   "name": "Skum",
+   "slug": "skum",
+   "level": "21",
+   "npc": 3674,
+   "items": [
+    273137,
+    6449,
+    6448
+   ]
+  },
+  {
+   "name": "Lord Serpentis",
+   "slug": "lord-serpentis",
+   "level": "21",
+   "npc": 3673,
+   "items": [
+    6469,
+    5970,
+    10411,
+    6459,
+    273087
+   ]
+  },
+  {
+   "name": "Verdan the Everliving",
+   "slug": "verdan-the-everliving",
+   "level": "21",
+   "npc": 5775,
+   "items": [
+    6630,
+    6631,
+    6629
+   ]
+  },
+  {
+   "name": "Mutanus the Devourer",
+   "slug": "mutanus-the-devourer",
+   "level": "22",
+   "npc": 3654,
+   "items": [
+    6461,
+    6627,
+    6463,
+    10441
+   ]
+  }
+ ],
+ "loose": [
+  5243,
+  6632,
+  10413
+ ],
+ "quests": [
+  {
+   "id": 962,
+   "name": "Serpentbloom",
+   "level": 18,
+   "minLevel": 14,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 1700,
+   "rep": "Undercity +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Apothecary Zamah",
+     "kind": "npc",
+     "npc": 3419,
+     "zone": "Thunder Bluff",
+     "place": "Spirit Rise",
+     "at": {
+      "x": 23,
+      "y": 21
+     },
+     "taxi": {
+      "name": "Thunder Bluff, Mulgore",
+      "yards": 318
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Apothecary Zamah",
+     "kind": "npc",
+     "npc": 3419,
+     "zone": "Thunder Bluff",
+     "place": "Spirit Rise",
+     "at": {
+      "x": 23,
+      "y": 21
+     },
+     "taxi": {
+      "name": "Thunder Bluff, Mulgore",
+      "yards": 318
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    10919,
+    270008,
+    270009
+   ],
+   "choice": true
+  },
+  {
+   "id": 914,
+   "name": "Leaders of the Fang",
+   "level": 22,
+   "minLevel": 11,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 2200,
+   "rep": "Thunder Bluff +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Nara Wildmane",
+     "kind": "npc",
+     "npc": 5770,
+     "zone": "Thunder Bluff",
+     "place": "Elder Rise",
+     "at": {
+      "x": 75.6,
+      "y": 31.6
+     },
+     "taxi": {
+      "name": "Thunder Bluff, Mulgore",
+      "yards": 328
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Nara Wildmane",
+     "kind": "npc",
+     "npc": 5770,
+     "zone": "Thunder Bluff",
+     "place": "Elder Rise",
+     "at": {
+      "x": 75.6,
+      "y": 31.6
+     },
+     "taxi": {
+      "name": "Thunder Bluff, Mulgore",
+      "yards": 328
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Barrens Oases",
+     "id": 886,
+     "optional": true
+    },
+    {
+     "name": "The Forgotten Pools",
+     "id": 870,
+     "optional": false
+    },
+    {
+     "name": "The Stagnant Oasis",
+     "id": 877,
+     "optional": false
+    },
+    {
+     "name": "Altered Beings",
+     "id": 880,
+     "optional": false
+    },
+    {
+     "name": "Hamuul Runetotem",
+     "id": 1489,
+     "optional": false
+    },
+    {
+     "name": "Nara Wildmane",
+     "id": 1490,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [
+    6505,
+    6504,
+    270018
+   ],
+   "choice": true
+  },
+  {
+   "id": 1486,
+   "name": "Deviate Hides",
+   "level": 17,
+   "minLevel": 13,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": 1600,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Nalpak",
+     "kind": "npc",
+     "npc": 5767,
+     "zone": "The Barrens",
+     "at": {
+      "x": 46,
+      "y": 35.7
+     },
+     "taxi": {
+      "name": "Crossroads, The Barrens",
+      "yards": 663
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Nalpak",
+     "kind": "npc",
+     "npc": 5767,
+     "zone": "The Barrens",
+     "at": {
+      "x": 46,
+      "y": 35.7
+     },
+     "taxi": {
+      "name": "Crossroads, The Barrens",
+      "yards": 663
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    918,
+    6480
+   ],
+   "choice": true
+  },
+  {
+   "id": 1491,
+   "name": "Smart Drinks",
+   "level": 18,
+   "minLevel": 13,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": 1350,
+   "rep": "Ratchet +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Mebok Mizzyrix",
+     "kind": "npc",
+     "npc": 3446,
+     "zone": "The Barrens",
+     "place": "Ratchet",
+     "at": {
+      "x": 62.4,
+      "y": 37.6
+     },
+     "taxi": {
+      "name": "Ratchet, The Barrens",
+      "yards": 80
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Mebok Mizzyrix",
+     "kind": "npc",
+     "npc": 3446,
+     "zone": "The Barrens",
+     "place": "Ratchet",
+     "at": {
+      "x": 62.4,
+      "y": 37.6
+     },
+     "taxi": {
+      "name": "Ratchet, The Barrens",
+      "yards": 80
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Raptor Horns",
+     "id": 865,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 959,
+   "name": "Trouble at the Docks",
+   "level": 18,
+   "minLevel": 14,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": 1350,
+   "rep": "Ratchet +100",
+   "site": "entrance",
+   "from": [
+    {
+     "name": "Crane Operator Bigglefuzz",
+     "kind": "npc",
+     "npc": 3665,
+     "zone": "The Barrens",
+     "place": "Ratchet",
+     "at": {
+      "x": 63.1,
+      "y": 37.6
+     },
+     "taxi": {
+      "name": "Ratchet, The Barrens",
+      "yards": 33
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Crane Operator Bigglefuzz",
+     "kind": "npc",
+     "npc": 3665,
+     "zone": "The Barrens",
+     "place": "Ratchet",
+     "at": {
+      "x": 63.1,
+      "y": 37.6
+     },
+     "taxi": {
+      "name": "Ratchet, The Barrens",
+      "yards": 33
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 1487,
+   "name": "Deviate Eradication",
+   "level": 21,
+   "minLevel": 15,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": 2050,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Ebru",
+     "kind": "npc",
+     "npc": 5768,
+     "zone": "The Barrens",
+     "at": {
+      "x": 46,
+      "y": 35.7
+     },
+     "taxi": {
+      "name": "Crossroads, The Barrens",
+      "yards": 663
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Ebru",
+     "kind": "npc",
+     "npc": 5768,
+     "zone": "The Barrens",
+     "at": {
+      "x": 46,
+      "y": 35.7
+     },
+     "taxi": {
+      "name": "Crossroads, The Barrens",
+      "yards": 663
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    6476,
+    8071,
+    6481
+   ],
+   "choice": true
+  },
+  {
+   "id": 6981,
+   "name": "The Glowing Shard",
+   "level": 26,
+   "minLevel": 15,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": 2650,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Glowing Shard",
+     "kind": "item",
+     "item": 10441,
+     "zone": "Wailing Caverns",
+     "drop": "Mutanus the Devourer"
+    }
+   ],
+   "to": [
+    {
+     "name": "Falla Sagewind",
+     "kind": "npc",
+     "npc": 8418,
+     "zone": "The Barrens",
+     "at": {
+      "x": 48.2,
+      "y": 32.8
+     },
+     "taxi": {
+      "name": "Crossroads, The Barrens",
+      "yards": 372
+     }
+    }
+   ],
+   "chain": [],
+   "next": [
+    {
+     "name": "In Nightmares",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "In Nightmares",
+     "id": null,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false
+  }
+ ],
+ "cards": {
+  "918": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bag_07_black.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=918\">Deviate Hide Pack</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">10 Slot Bag</span></div></div>",
+  "5243": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=5243\">Firebelcher</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>27 - 52 Fire Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(23.24 damage per second)</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 18</span><span class=\"wf-item__line wf-item__use\">Equip: Chance on hit to blast the target for 25 to 31 Fire damage. (10ms cooldown)</span></div></div>",
+  "5404": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=5404\">Serpent's Shoulders</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Leather</span></span><span class=\"wf-item__line\">68 Armor</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 18</span></div></div>",
+  "5970": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_19.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=5970\">Serpent Gloves</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Cloth</span></span><span class=\"wf-item__line\">25 Armor</span><span class=\"wf-item__line\">+6 Agility</span><span class=\"wf-item__line\">Durability 20 / 20</span><span class=\"wf-item__line\">Requires Level 18</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 7.</span></div></div>",
+  "6446": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bag_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=6446\">Snakeskin Bag</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">10 Slot Bag</span></div></div>",
+  "6447": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_21.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6447\">Worn Turtle Shell Shield</a><span class=\"wf-item__line wf-item__meta\">Item Level 21</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">490 Armor</span><span class=\"wf-item__line\">9 Block</span><span class=\"wf-item__line\">+40 Armor</span><span class=\"wf-item__line\">Restores +2 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 16</span></div></div>",
+  "6448": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6448\">Tail Spike</a><span class=\"wf-item__line wf-item__meta\">Item Level 21</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>17 - 33 Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(13.89 damage per second)</span><span class=\"wf-item__line\">+3 Strength</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 16</span></div></div>",
+  "6449": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6449\">Glowing Lizardscale Cloak</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">20 Armor</span><span class=\"wf-item__line\">+6 Agility</span><span class=\"wf-item__line\">+2 Nature Resistance</span><span class=\"wf-item__line\">Requires Level 18</span></div></div>",
+  "6459": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6459\">Savage Trodders</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">134 Armor</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">Restores +6 health per 5 sec.</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 18</span></div></div>",
+  "6460": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6460\">Cobrahn's Grasp</a><span class=\"wf-item__line wf-item__meta\">Item Level 22</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Mail</span></span><span class=\"wf-item__line\">107 Armor</span><span class=\"wf-item__line\">+7 Strength</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line\">Requires Level 17</span></div></div>",
+  "6461": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6461\">Slime-encrusted Pads</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Cloth</span></span><span class=\"wf-item__line\">32 Armor</span><span class=\"wf-item__line\">Restores +3 mana per 5 sec.</span><span class=\"wf-item__line\">Restores +10 health per 5 sec.</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 20</span></div></div>",
+  "6463": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6463\">Deep Fathom Ring</a><span class=\"wf-item__line wf-item__meta\">Item Level 24</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">+2 Spell Penetration</span><span class=\"wf-item__line\">Requires Level 19</span></div></div>",
+  "6465": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_36.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6465\">Robe of the Moccasin</a><span class=\"wf-item__line wf-item__meta\">Item Level 22</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">40 Armor</span><span class=\"wf-item__line\">+3 Strength</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 17</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 9 and damage done by up to 3 for all magical spells and effects.</span></div></div>",
+  "6469": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_bow_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6469\">Venomstrike</a><span class=\"wf-item__line wf-item__meta\">Item Level 24</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Bow</span></span><span class=\"wf-item__row\"><span>20 - 38 Damage</span><span>Speed 2.40</span></span><span class=\"wf-item__line\">(12.08 damage per second)</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 19</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Venom Shot the target for 23 to 33 Nature damage.</span></div></div>",
+  "6472": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6472\">Stinging Viper</a><span class=\"wf-item__line wf-item__meta\">Item Level 24</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>30 - 57 Damage</span><span>Speed 2.80</span></span><span class=\"wf-item__line\">(15.54 damage per second)</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 19</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Poisons target for 7 Nature damage every 3 sec for 12 sec.</span></div></div>",
+  "6473": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shirt_16.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6473\">Armor of the Fang</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Leather</span></span><span class=\"wf-item__line\">91 Armor</span><span class=\"wf-item__line\">+3 Strength</span><span class=\"wf-item__line\">+3 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 18</span><span class=\"wf-item__line wf-item__setname\">Embrace of the Viper (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Intellect.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +10 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Taking damage while at or below 25% health causes you to restore 100 health and mana over 5 sec. This effect can only trigger once every 5 min. (5m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Grants your melee attacks a chance to inflict Dream Venom, stunning the target for 1 sec.</span></div></div>",
+  "6476": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=6476\">Pattern: Deviate Scale Belt</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Requires Leatherworking (90)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to craft a Deviate Scale Belt.\"</span></div></div>",
+  "6480": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=6480\">Slick Deviate Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 20</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">68 Armor</span><span class=\"wf-item__line\">+4 Agility</span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">Durability 55 / 55</span></div></div>",
+  "6481": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=6481\">Dagmire Gauntlets</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Mail</span></span><span class=\"wf-item__line\">110 Armor</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+2 Agility</span><span class=\"wf-item__line\">Durability 30 / 30</span></div></div>",
+  "6504": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_16.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6504\">Wingblade</a><span class=\"wf-item__line wf-item__meta\">Item Level 24</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>24 - 45 Damage</span><span>Speed 2.20</span></span><span class=\"wf-item__line\">(15.68 damage per second)</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">+2 Stamina</span><span class=\"wf-item__line\">Durability 75 / 75</span></div></div>",
+  "6505": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6505\">Crescent Staff</a><span class=\"wf-item__line wf-item__meta\">Item Level 24</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>35 - 53 Damage</span><span>Speed 2.90</span></span><span class=\"wf-item__line\">(15.17 damage per second)</span><span class=\"wf-item__line\">+7 Agility</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+7 Intellect</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 26.</span></div></div>",
+  "6627": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_plate08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6627\">Mutant Scale Breastplate</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Mail</span></span><span class=\"wf-item__line\">194 Armor</span><span class=\"wf-item__line\">+10 Strength</span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">Durability 120 / 120</span><span class=\"wf-item__line\">Requires Level 18</span></div></div>",
+  "6629": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6629\">Sporid Cape</a><span class=\"wf-item__line wf-item__meta\">Item Level 22</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">20 Armor</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">Requires Level 17</span><span class=\"wf-item__line wf-item__use\">Equip: When struck in combat, inflicts 1 Nature damage to the attacker.</span></div></div>",
+  "6630": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6630\">Seedcloud Buckler</a><span class=\"wf-item__line wf-item__meta\">Item Level 24</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">547 Armor</span><span class=\"wf-item__line\">11 Block</span><span class=\"wf-item__line\">+5 Intellect</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 19</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 5.</span></div></div>",
+  "6631": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_25.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6631\">Living Root</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>34 - 51 Damage</span><span>Speed 2.90</span></span><span class=\"wf-item__line\">(14.66 damage per second)</span><span class=\"wf-item__line\">+2 Stamina</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">+9 Nature Resistance</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 18</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 45 and damage done by up to 15 for all magical spells and effects.</span></div></div>",
+  "6632": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6632\">Feyscale Cloak</a><span class=\"wf-item__line wf-item__meta\">Item Level 21</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">19 Armor</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Requires Level 16</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 3.</span></div></div>",
+  "8071": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=8071\">Sizzle Stick</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>21 - 39 Fire Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(17.65 damage per second)</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 2.</span></div></div>",
+  "10410": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10410\">Leggings of the Fang</a><span class=\"wf-item__line wf-item__meta\">Item Level 22</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">78 Armor</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+9 Agility</span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 17</span><span class=\"wf-item__line wf-item__setname\">Embrace of the Viper (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Intellect.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +10 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Taking damage while at or below 25% health causes you to restore 100 health and mana over 5 sec. This effect can only trigger once every 5 min. (5m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Grants your melee attacks a chance to inflict Dream Venom, stunning the target for 1 sec.</span></div></div>",
+  "10411": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10411\">Footpads of the Fang</a><span class=\"wf-item__line wf-item__meta\">Item Level 22</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Leather</span></span><span class=\"wf-item__line\">61 Armor</span><span class=\"wf-item__line\">+6 Agility</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 17</span><span class=\"wf-item__line wf-item__setname\">Embrace of the Viper (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Intellect.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +10 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Taking damage while at or below 25% health causes you to restore 100 health and mana over 5 sec. This effect can only trigger once every 5 min. (5m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Grants your melee attacks a chance to inflict Dream Venom, stunning the target for 1 sec.</span></div></div>",
+  "10412": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_30.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10412\">Belt of the Fang</a><span class=\"wf-item__line wf-item__meta\">Item Level 21</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Leather</span></span><span class=\"wf-item__line\">49 Armor</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 16</span><span class=\"wf-item__line wf-item__setname\">Embrace of the Viper (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Intellect.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +10 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Taking damage while at or below 25% health causes you to restore 100 health and mana over 5 sec. This effect can only trigger once every 5 min. (5m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Grants your melee attacks a chance to inflict Dream Venom, stunning the target for 1 sec.</span></div></div>",
+  "10413": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10413\">Gloves of the Fang</a><span class=\"wf-item__line wf-item__meta\">Item Level 19</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Hands</span><span>Leather</span></span><span class=\"wf-item__line\">52 Armor</span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">+6 Agility</span><span class=\"wf-item__line\">Durability 25 / 25</span><span class=\"wf-item__line\">Requires Level 14</span><span class=\"wf-item__line wf-item__setname\">Embrace of the Viper (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Intellect.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +10 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Taking damage while at or below 25% health causes you to restore 100 health and mana over 5 sec. This effect can only trigger once every 5 min. (5m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Grants your melee attacks a chance to inflict Dream Venom, stunning the target for 1 sec.</span></div></div>",
+  "10441": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_stone_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=10441\">Glowing Shard</a><span class=\"wf-item__line wf-item__meta\">Item Level 15</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">This Item Begins a Quest</span><span class=\"wf-item__line\">Requires Level 15</span></div></div>",
+  "10919": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=10919\">Apothecary Gloves</a><span class=\"wf-item__line wf-item__meta\">Item Level 20</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Cloth</span></span><span class=\"wf-item__line\">21 Armor</span><span class=\"wf-item__line\">Durability 20 / 20</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 4.</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Herbalism +2.</span></div></div>",
+  "13245": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13245\">Kresh's Back</a><span class=\"wf-item__line wf-item__meta\">Item Level 23</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">528 Armor</span><span class=\"wf-item__line\">10 Block</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 18</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +5.</span></div></div>",
+  "270008": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=270008\">Heat Resistant Mitts</a><span class=\"wf-item__line wf-item__meta\">Item Level 20</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Leather</span></span><span class=\"wf-item__line\">48 Armor</span><span class=\"wf-item__line\">+4 Agility</span><span class=\"wf-item__line\">+1 Stamina</span><span class=\"wf-item__line\">Durability 25 / 25</span></div></div>",
+  "270009": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=270009\">Safety Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 20</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">115 Armor</span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">+2 Stamina</span><span class=\"wf-item__line\">Durability 40 / 40</span></div></div>",
+  "270018": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270018\">Hammerbone</a><span class=\"wf-item__line wf-item__meta\">Item Level 24</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>55 - 84 Damage</span><span>Speed 3.40</span></span><span class=\"wf-item__line\">(20.44 damage per second)</span><span class=\"wf-item__line\">+7 Strength</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 90 / 90</span></div></div>",
+  "273084": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273084\">Cloak of Hermitic Bliss</a><span class=\"wf-item__line wf-item__meta\">Item Level 22</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">20 Armor</span><span class=\"wf-item__line\">Requires Level 17</span><span class=\"wf-item__line wf-item__use\">Equip: Movement speed reduced by 25%.</span><span class=\"wf-item__line wf-item__use\">Equip: Swim speed increased by 33%.</span></div></div>",
+  "273087": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_garrison_blueprints3.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=273087\">Blueprint: Journeyman Campfire</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Requires Cooking (90)</span><span class=\"wf-item__line\">Craft a Journeyman Campfire.</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to place a Journeyman Campfire at a campsite.\"</span></div></div>",
+  "273088": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_eye_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273088\">Snake Eye Kaleidoscope</a><span class=\"wf-item__line wf-item__meta\">Item Level 22</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+1 Strength</span><span class=\"wf-item__line\">+1 Agility</span><span class=\"wf-item__line\">+1 Stamina</span><span class=\"wf-item__line\">+1 Intellect</span><span class=\"wf-item__line\">+1 Spirit</span><span class=\"wf-item__line\">+1 Arcane Resistance</span><span class=\"wf-item__line\">+1 Fire Resistance</span><span class=\"wf-item__line\">+1 Nature Resistance</span><span class=\"wf-item__line\">+1 Frost Resistance</span><span class=\"wf-item__line\">+1 Shadow Resistance</span><span class=\"wf-item__line\">Requires Level 17</span></div></div>",
+  "273089": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_21.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273089\">Slither Cord</a><span class=\"wf-item__line wf-item__meta\">Item Level 22</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Cloth</span></span><span class=\"wf-item__line\">22 Armor</span><span class=\"wf-item__line\">Restores +3 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 20 / 20</span><span class=\"wf-item__line\">Requires Level 17</span><span class=\"wf-item__line wf-item__use\">Use: Escape all immobilizing effects. (30 Min Cooldown)</span></div></div>",
+  "273098": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_garrison_blueprints3.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=273098\">Blueprint: Field Guide</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Requires Skinning (140)</span><span class=\"wf-item__line\">Craft a Field Guide.</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to place a Field Guide at a campsite.\"</span></div></div>",
+  "273137": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_1h_bucket_c_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273137\">Skum's Bucket</a><span class=\"wf-item__line wf-item__meta\">Item Level 22</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Held In Off-hand</span><span></span></span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">Requires Level 17</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 10 and damage done by up to 3 for all magical spells and effects.</span><span class=\"wf-item__line wf-item__use\">Use: Restores 835 mana over 24 sec. Must remain seated while drinking. (10 Min Cooldown)</span></div></div>"
+ }
+}

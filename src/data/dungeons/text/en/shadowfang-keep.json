@@ -1,0 +1,25 @@
+{
+ "location": "Silverpine Forest, above Pyrewood Village",
+ "entrance": "In the mountains just north of Pyrewood Village, at /way 44.5 68.0. A wooden bridge leads to the gate of the keep.",
+ "quests": {
+  "1654": {
+   "objective": "Collect Whitestone Oak Lumber, Bailor's Refined Ore Shipment, Jordan's Smithing Hammer and a Kor Gem for Jordan Stilwell at the gates of Ironforge.",
+   "note": "A Paladin quest at the end of the Tome of Valor chain. The hammer lies in Shadowfang Keep, the lumber comes from The Deadmines and the Kor Gem from Blackfathom Deeps."
+  },
+  "1098": {
+   "objective": "Find Deathstalker Adamant and Deathstalker Vincent inside the keep.",
+   "note": "Adamant is the prisoner you free after Rethilgore. Vincent's body lies to the right of the stairs into the courtyard, and the quest is handed in there."
+  },
+  "1013": {
+   "objective": "Bring The Book of Ur to Keeper Bel'dugur in the Apothecarium.",
+   "note": "The book lies on a shelf in the room of Fenrus the Devourer."
+  },
+  "1014": {
+   "objective": "Kill Archmage Arugal and bring his head to Dalar Dawnweaver at the Sepulcher."
+  },
+  "1740": {
+   "objective": "Bring 3 Soran'ruk Fragments and 1 Large Soran'ruk Fragment to Doan Karhan in The Barrens.",
+   "note": "A Warlock quest. The large fragment drops from the Shadowfang Darksouls in the keep, the small ones from the Twilight Acolytes in Blackfathom Deeps."
+  }
+ }
+}

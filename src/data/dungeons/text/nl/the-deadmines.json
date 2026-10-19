@@ -1,0 +1,90 @@
+{
+ "location": "Westfall, onder Moonbrook",
+ "entrance": "De Defias Hideout, het grote gebouw in de zuidwesthoek van Moonbrook op /way 42 72. Het portaal ligt onderaan de grotten eronder.",
+ "quests": {
+  "214": {
+   "objective": "Breng 10 Red Silk Bandanas. Elk monster met Defias in zijn naam kan er een laten vallen, en de elites doen dat bijna altijd.",
+   "note": "Scout Riell geeft de quest zodra je met de reeks van The Defias Brotherhood bezig bent.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-deadmines-defias-patrol.jpg",
+     "alt": "Een Defias Overseer en een Defias Evoker op patrouille in The Deadmines, een schermafdruk uit World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-deadmines-defias-pirates.jpg",
+     "alt": "Defias Pirates op de steigers van de baai in The Deadmines, een schermafdruk uit World of Warcraft"
+    }
+   ]
+  },
+  "168": {
+   "objective": "Verzamel 4 Miners' Union Cards van de undead in het spookdeel van de mijn buiten de dungeon: Undead Excavators, Skeletal Miners en Undead Dynamiters.",
+   "note": "Elke undead daar is elite. Foreman Thistlenettle laat de kaarten niet vallen.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-wilder-thistlenettle.jpg",
+     "alt": "Wilder Thistlenettle met een geel uitroepteken in een taverne in Stormwind, een schermafdruk uit World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-deadmines-undead-mine.jpg",
+     "alt": "Het spookdeel van de mijn buiten The Deadmines, met undead mijnwerkers tussen de balken, een schermafdruk uit World of Warcraft"
+    }
+   ]
+  },
+  "92753": {
+   "objective": "Plaats de Extra-Destructive Explosives bij de smidse in de ruimte van Gilnid en ga daarna naar Alba Fairmoon aan de uitgang van The Deadmines.",
+   "note": "Nieuw in Forever, de laatste stap van een reeks van zeven quests. De reeks staat op deze pagina, boven de tabel."
+  },
+  "167": {
+   "objective": "Dood Foreman Thistlenettle achteraan in het spookdeel van de mijn en breng zijn Explorers' League Badge naar Wilder Thistlenettle.",
+   "note": "Een elite van level 20 tussen andere elites. Doe dit samen met Collecting Memories.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-foreman-thistlenettle.jpg",
+     "alt": "Foreman Thistlenettle tussen andere undead aan het eind van de spookmijn, een schermafdruk uit World of Warcraft"
+    }
+   ]
+  },
+  "2040": {
+   "objective": "Breng de Gnoam Sprecklesprocket, een drop van Sneed's Shredder, naar Shoni the Shilent.",
+   "note": "De reeks begint bij Gnoarn in Tinker Town in Ironforge.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-shoni-the-shilent.jpg",
+     "alt": "Shoni the Shilent, de questgever van Underground Assault in Stormwind, een schermafdruk uit World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-sneeds-shredder.jpg",
+     "alt": "Sneed's Shredder in het houthakkerskamp van The Deadmines, een schermafdruk uit World of Warcraft"
+    }
+   ]
+  },
+  "166": {
+   "objective": "Dood Edwin VanCleef en breng zijn hoofd naar Gryan Stoutmantle.",
+   "note": "De laatste van zes quests met dezelfde naam, die je door Westfall, naar Lakeshire en terug sturen.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-gryan-stoutmantle.jpg",
+     "alt": "Gryan Stoutmantle op Sentinel Hill in Westfall, een schermafdruk uit World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-edwin-vancleef.jpg",
+     "alt": "Edwin VanCleef op het bovenste dek van zijn schip in The Deadmines, een schermafdruk uit World of Warcraft"
+    }
+   ]
+  },
+  "373": {
+   "objective": "Breng An Unsent Letter, een drop van Edwin VanCleef, naar Baros Alexston in het stadhuis aan Cathedral Square in Stormwind.",
+   "note": "De eerste stap van een reeks die verdergaat in The Stockade.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-an-unsent-letter.jpg",
+     "alt": "Het questvenster van An Unsent Letter op het schip, met het lichaam van Edwin VanCleef op de achtergrond, een schermafdruk uit World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-baros-alexston.jpg",
+     "alt": "Baros Alexston in City Hall op Cathedral Square in Stormwind, een schermafdruk uit World of Warcraft"
+    }
+   ]
+  }
+ }
+}

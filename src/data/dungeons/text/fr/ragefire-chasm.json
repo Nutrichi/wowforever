@@ -1,0 +1,24 @@
+{
+ "location": "Orgrimmar, sous la Cleft of Shadow",
+ "entrance": "Dans la Cleft of Shadow à Orgrimmar, en /way 53.0 48.9. Le tunnel descend jusqu’au portail.",
+ "quests": {
+  "5723": {
+   "objective": "Tuez 8 Ragefire Troggs et 8 Ragefire Shamans, dans la première grande grotte et les tunnels autour."
+  },
+  "5728": {
+   "objective": "Tuez Bazzalan et Jergosh the Invoker, puis retournez voir Thrall.",
+   "note": "La dernière étape d’une chaîne de Thrall, décrite au-dessus du tableau."
+  },
+  "5722": {
+   "objective": "Trouvez le corps de Maur Grimtotem dans le cul-de-sac près de la lave et fouillez-le pour récupérer sa sacoche.",
+   "note": "La suite est Returning the Lost Satchel, à rapporter à Rahauro."
+  },
+  "5761": {
+   "objective": "Tuez Taragaman the Hungerer et rapportez son cœur à Neeru Fireblade."
+  },
+  "5725": {
+   "objective": "Rapportez les livres Spells of Shadow et Incantations from the Nether à Varimathras.",
+   "note": "Les deux tombent sur les Searing Blade Cultists et Warlocks de la seconde moitié du donjon."
+  }
+ }
+}

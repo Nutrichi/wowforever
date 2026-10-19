@@ -3,7 +3,7 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : chaque donjon, niveau et donneur de quête"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-10-07
+updated: 2026-10-19
 lang: fr
 manual: true
 faq:
@@ -23,44 +23,48 @@ La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les 
 
 ## Guides par donjon
 
-- **[Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/)**, niveaux 9-19 : l’entrée par Orgrimmar, les six quêtes de la Horde avec leurs récompenses et le nouveau butin de Taragaman et Jergosh.
+- **[Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/)**, niveaux 13-18 : l’entrée par Orgrimmar, les six quêtes de la Horde avec leurs récompenses et le nouveau butin de Taragaman et Jergosh.
 - **[The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/)**, niveaux 13-18 : le chemin, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin.
 - **[Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/)**, niveaux 15-20 : le chemin pour les deux factions, les dix quêtes, les six boss et leur butin.
 - **[Wailing Caverns](/fr/guides/dungeons/wailing-caverns/)**, niveaux 15-24 : les sept quêtes avec leurs récompenses, les Lords of the Fang, l’événement de Naralex et les nouveaux bonus d’Embrace of the Viper.
-- **[The Deadmines](/fr/guides/dungeons/the-deadmines/)**, niveaux 14-24 : l’entrée par Moonbrook, les sept quêtes avec leurs récompenses et le nouveau butin de chaque boss.
-- **[Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/)**, niveaux 18-28 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss.
-- **[Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/)**, niveaux 21-30 : l’entrée sur la Zoram Strand, les quêtes des deux factions et le nouveau butin de chaque boss.
+- **[The Deadmines](/fr/guides/dungeons/the-deadmines/)**, niveaux 17-26 : l’entrée par Moonbrook, les sept quêtes avec leurs récompenses et le nouveau butin de chaque boss.
+- **[Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/)**, niveaux 20-30 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss.
+- **[Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/)**, niveaux 24-32 : l’entrée sur la Zoram Strand, les quêtes des deux factions et le nouveau butin de chaque boss.
 - **[Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/)**, niveaux 26-31, nouveau dans Forever : les quêtes des deux factions, les hautes herbes et les trois boss avec leur butin.
-- **[The Stockade](/fr/guides/dungeons/the-stockade/)**, niveaux 22-30 : le plan de la prison, les six quêtes et le butin de Bruegal Ironknuckle.
+- **[The Stockade](/fr/guides/dungeons/the-stockade/)**, niveaux 24-32 : le plan de la prison, les six quêtes et le nouveau butin bleu de chaque boss.
 - **[City of Dalaran](/fr/guides/dungeons/city-of-dalaran/)**, niveaux 28-33, nouveau dans Forever : les deux entrées, les monstres arcaniques et les sept boss.
-- **[Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/)**, niveaux 25-34 : les sept quêtes avec leurs récompenses, les lanceurs de sorts quilboar et le nouveau butin de chaque boss.
-- **[Gnomeregan](/fr/guides/dungeons/gnomeregan/)**, niveaux 25-38 : les deux portes, le téléporteur de la Horde, les treize quêtes et le nouveau butin de chaque boss.
-- **[Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/)**, niveaux 26-45 : les quatre ailes, chaque quête avec sa récompense et le butin de chaque boss.
-- **[Razorfen Downs](/fr/guides/dungeons/razorfen-downs/)**, niveaux 35-44 : les six quêtes avec leurs récompenses, l’événement du gong et le nouveau butin de chaque boss.
+- **[Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/)**, niveaux 29-38 : les sept quêtes avec leurs récompenses, les lanceurs de sorts quilboar et le nouveau butin de chaque boss.
+- **[Gnomeregan](/fr/guides/dungeons/gnomeregan/)**, niveaux 29-38 : les deux portes, le téléporteur de la Horde, les treize quêtes et le nouveau butin de chaque boss.
+- **Scarlet Monastery**, niveaux 30-46, en quatre ailes, chacune avec son butin, ses quêtes et son guide : [Graveyard](/fr/guides/dungeons/scarlet-monastery-graveyard/), [Library](/fr/guides/dungeons/scarlet-monastery-library/), [Armory](/fr/guides/dungeons/scarlet-monastery-armory/) et [Cathedral](/fr/guides/dungeons/scarlet-monastery-cathedral/).
+- **[Razorfen Downs](/fr/guides/dungeons/razorfen-downs/)**, niveaux 37-46 : les six quêtes avec leurs récompenses, l’événement du gong et le nouveau butin de chaque boss.
+- **[Uldaman](/fr/guides/dungeons/uldaman/)**, niveaux 41-51 : l’accès par les Badlands, les huit boss jusqu’à Archaedas et le butin connu à ce jour.
 
 ## Chaque donjon par niveau
 
-Chaque fourchette va du niveau où un groupe peut affronter le donjon au niveau où il devient facile. Pour les nouveaux donjons, la fourchette est celle publiée par Blizzard le 14 septembre 2026.
+Pour les donjons qui ont un guide, la fourchette est celle que donne le jeu. Pour les autres, elle va du niveau où un groupe peut affronter le donjon au niveau où il devient facile ; pour les nouveaux, c’est celle publiée par Blizzard le 14 septembre 2026.
 
 | Donjon | Niveaux | Quêtes |
 |---|---|---|
-| [Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/) | 9-19 | 5 |
+| [Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/) | 13-18 | 5 |
 | [The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
 | [Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
 | [Wailing Caverns](/fr/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
-| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | 14-24 | 8 |
-| [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | 18-28 | 5 |
-| [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | 21-30 | 13 |
+| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | 17-26 | 8 |
+| [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
+| [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
 | [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | 26-31 | pas encore connues |
-| [The Stockade](/fr/guides/dungeons/the-stockade/) | 22-30 | 6 |
+| [The Stockade](/fr/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/fr/guides/dungeons/city-of-dalaran/) | 28-33 | pas encore connues |
-| [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/) | 25-34 | 7 |
-| [Gnomeregan](/fr/guides/dungeons/gnomeregan/) | 25-38 | 13 |
+| [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
+| [Gnomeregan](/fr/guides/dungeons/gnomeregan/) | 29-38 | 13 |
 | The Drowned City | 35-40 | pas encore connues |
-| [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/) | 26-45 | 8 |
-| [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | 35-44 | 6 |
+| [Scarlet Monastery: Graveyard](/fr/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
+| [Scarlet Monastery: Library](/fr/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
+| [Scarlet Monastery: Armory](/fr/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |
+| [Scarlet Monastery: Cathedral](/fr/guides/dungeons/scarlet-monastery-cathedral/) | 38-46 | 3 |
+| [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
 | Krol'dok Stronghold | 40-45 | pas encore connues |
-| Uldaman | 37-47 | 14 |
+| [Uldaman](/fr/guides/dungeons/uldaman/) | 41-51 | 14 |
 | Zul'Farrak | 40-50 | 8 |
 | Maraudon | 41-50 | 11 |
 | Alcaz Prison | 48-53 | pas encore connues |
@@ -241,7 +245,7 @@ Le guide complet : [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/).
 
 Au moins un joueur doit avoir The Scarlet Key pour l’Armory et la Cathedral ; Lockpicking 175 fonctionne aussi.
 
-Le guide complet : [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery/).
+Le guide complet : [Scarlet Monastery](/fr/guides/dungeons/scarlet-monastery-graveyard/).
 
 ### Toutes les ailes
 

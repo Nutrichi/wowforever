@@ -1,116 +1,25 @@
 ---
-title: "The Stockade: de dungeongids voor WoW Forever"
-metaTitle: "The Stockade in WoW Forever: ingang, quests, bazen en de nieuwe loot"
-description: "The Stockade in WoW Forever: de weg naar binnen vanuit de kanalen van Stormwind, de indeling van de gevangenis, alle zes de quests van de Alliance, de zes bazen en wat er aan hun loot veranderde."
+title: "The Stockade"
+metaTitle: "The Stockade in WoW Forever: loot, bazen en drops"
+description: "Elke drop in The Stockade in WoW Forever: de nieuwe blauwe loot van Targorr, Kam Deepfury, Hamhock, Dextren Ward en Bazil Thredd, de rare Bruegal Ironknuckle en de beloningen van de quests."
 short: "The Stockade"
-updated: 2026-10-03
+updated: 2026-10-19
 lang: nl
+manual: true
 faq:
   - q: "Welk level is The Stockade in WoW Forever?"
-    a: "Groepen doen de dungeon van level 22 tot 30. De bazen zijn level 24 tot 29."
+    a: "Het spel geeft 24 tot 32. De bazen zijn level 24 tot 29."
   - q: "Waar is de ingang van The Stockade?"
-    a: "In The Canals van Stormwind City, bij The Mage Quarter, op /way 42 58. Warden Thelwater staat net buiten."
+    a: "In de kanalen van Stormwind City, bij de Mage Quarter, op /way 50.4 66.2. Warden Thelwater staat net buiten."
   - q: "Kan de Horde The Stockade doen?"
     a: "Alleen met veel moeite: de gevangenis ligt midden in Stormwind. Alle zes de quests zijn quests van de Alliance."
-  - q: "Laten de bazen van The Stockade loot vallen?"
-    a: "Nauwelijks. De meeste bazen laten alleen het hoofd of de hand voor een quest vallen. De rare Bruegal Ironknuckle heeft drie blauwe items, die alle drie sterker werden in WoW Forever."
+  - q: "Laten de bazen van The Stockade loot vallen in WoW Forever?"
+    a: "Ja, en dat is nieuw. In Classic lieten de meeste alleen een hoofd of een hand voor een quest vallen. In Forever laat elke baas drie of vier blauwe items vallen."
 sources:
-  - name: "Warcraft Tavern, de dungeongids"
-    url: "https://www.warcrafttavern.com/forever/guides/the-stockade-dungeon-map-location-bosses/"
-  - name: "Warcraft Tavern, de quests"
-    url: "https://www.warcrafttavern.com/forever/guides/the-stockade-quests/"
-  - name: "Wowhead, de dungeongids"
+  - name: "Wowhead, the dungeon guide"
     url: "https://www.wowhead.com/forever/guide/the-stockade-dungeon-overview-location-rewards"
-  - name: "Wowhead, de dungeonquests"
-    url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
-manual: true
+dungeon:
+  slug: "the-stockade"
+  tab: "loot"
 ---
-The Stockade is de gevangenis van Stormwind, diep onder de kanalen van de stad. De gevangenen zijn uit hun cellen gebroken en niemand bewaakt ze nog. Een groep van de Alliance gaat naar binnen om het oproer neer te slaan. De dungeon is dezelfde als in Classic, op de loot na.
-
-![Wachters van Stormwind boven de trap naar het portaal van The Stockade, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../assets/posts/2026-10-03-wow-forever-stockade-entrance-portal.jpg)
-
-## In het kort
-
-| | |
-|---|---|
-| Levels | 22-30, bazen van level 24 tot 29 |
-| Ingang | The Canals van Stormwind City, bij The Mage Quarter, /way 42 58 |
-| Bazen | 6, waarvan Bruegal Ironknuckle een rare is |
-| Quests | 6, allemaal Alliance |
-| Indeling | Een T: één gang en twee vleugels |
-| Korte naam | Stocks |
-
-## De weg erheen
-
-De ingang ligt in The Canals van Stormwind City, bij The Mage Quarter, op /way 42 58. Warden Thelwater staat er vlak buiten en geeft twee van de quests. Voor de Horde is een gevangenis midden in Stormwind op dit level zo goed als onbereikbaar.
-
-## De indeling
-
-Het cellenblok is een T. Een gang loopt rechtdoor, en aan het eind ervan takken twee vleugels af naar links en naar rechts. De vleugels kun je in elke volgorde opruimen.
-
-1. **De gang.** <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1696">Targorr the Dread</a> is meestal de eerste baas die je tegenkomt. Elite Defias in de buurt doen vaak mee.
-2. **De vleugels.** <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1666">Kam Deepfury</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1717">Hamhock</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1663">Dextren Ward</a> en <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1716">Bazil Thredd</a> zitten verspreid over de twee vleugels, elk met Defias rondom. De rare <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1720">Bruegal Ironknuckle</a> verschijnt niet altijd.
-
-## De quests
-
-| Quest | Waar hij begint | Level | Beloning |
-|---|---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=387">Quell the Uprising</a><br>Deelbaar | Stormwind, buiten The Stockade: Warden Thelwater /way 41 58 | 22 | Experience en silver |
-| <a href="https://www.wowhead.com/forever/quest=388">The Color of Blood</a><br>Deelbaar | Stormwind, Old Town: Nikova Raskol, die rondloopt | 22 | Experience en silver |
-| <a href="https://www.wowhead.com/forever/quest=377">Crime and Punishment</a><br>Deelbaar | Duskwood, Darkshire: Councilman Millstipe /way 42 47 | 22 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=2033"><img class="wf-wh__icon" src="/wh/inv_boots_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ambassador's Boots</a> of <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=2906"><img class="wf-wh__icon" src="/wh/inv_pants_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Darkshire Mail Leggings</a> |
-| <a href="https://www.wowhead.com/forever/quest=386">What Comes Around...</a><br>Deelbaar | Redridge Mountains, Lakeshire: Guard Berton /way 26 46 | 22 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=3400"><img class="wf-wh__icon" src="/wh/inv_sword_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lucine Longsword</a> of <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=1317"><img class="wf-wh__icon" src="/wh/inv_staff_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hardened Root Staff</a> |
-| <a href="https://www.wowhead.com/forever/quest=378">The Fury Runs Deep</a> | Wetlands, Dun Modr: Motley Garmason /way 49 18<br><em>Doe eerst <a href="https://www.wowhead.com/forever/quest=303">The Dark Iron War</a>.</em> | 25 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3562"><img class="wf-wh__icon" src="/wh/inv_belt_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Belt of Vindication</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1264"><img class="wf-wh__icon" src="/wh/inv_mace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Headbasher</a> |
-| <a href="https://www.wowhead.com/forever/quest=391">The Stockade Riots</a> | Stormwind, buiten The Stockade: Warden Thelwater /way 41 58<br><em>Doe eerst de reeks die begint met The Unsent Letter in The Deadmines.</em> | 16 | Experience en silver |
-
-Het level is het laagste level waarop je de quest kan aannemen. Waar geen beloning staat, is ze nog niet bekend.
-
-- **Quell the Uprising.** Dood 10 Defias Prisoners, 8 Defias Convicts en 8 Defias Insurgents.
-- **The Color of Blood.** Nikova Raskol wil 10 Red Wool Bandanas. Ze vallen bij de Defias Captives, Convicts, Inmates, Insurgents en Prisoners, en bij Bazil Thredd, Bruegal Ironknuckle en Dextren Ward.
-- **Crime and Punishment.** Breng de Hand of Dextren Ward naar Councilman Millstipe in Darkshire.
-- **What Comes Around...** Breng de Head of Targorr naar Guard Berton in Lakeshire.
-- **The Fury Runs Deep.** Breng de Head of Deepfury naar Motley Garmason in Dun Modr. Daarvoor komt The Dark Iron War voor dezelfde NPC: 25 silver, 2.450 experience en 100 reputatie bij Ironforge.
-- **The Stockade Riots.** Breng de Head of Bazil Thredd naar Warden Thelwater. De weg erheen begint met An Unsent Letter van Edwin VanCleef in [The Deadmines](/nl/guides/dungeons/the-deadmines/). Baros Alexston in Stormwind stuurt je door naar de Warden met <a href="https://www.wowhead.com/forever/quest=389">Bazil Thredd</a>. Na deze quest gaat de reeks verder in Stormwind, met meer reputatie bij Stormwind.
-
-## De bazen en hun loot
-
-### Targorr the Dread
-
-Een elite Blackrock-orc van level 24. Een eenvoudig gevecht op de tank. Dood eerst de Defias die meedoen.
-
-### Kam Deepfury
-
-Een elite Dark Iron-dwerg van level 27. Hij slaat hard en stunt zijn doelwit met Shield Slam. Een vroege stun maakt het de tank moeilijk om threat vast te houden, en de healer moet de piek opvangen.
-
-### Hamhock
-
-Een elite ogre-magiër van level 28 met twee Defias. Dood eerst de Defias. Zijn Chain Lightning is te onderbreken, en zijn Bloodlust kan een Shaman of een Priest wegnemen met purge.
-
-### Dextren Ward
-
-Een elite mens van level 26. Hij slaat hard en werpt Intimidating Shout, waardoor de groep wegrent. De healer moet binnen bereik van de tank staan als het voorbij is.
-
-### Bazil Thredd
-
-Een elite van level 29 en de sterkste van de gevangenen, met adds om zich heen. Ruim de zaal op voor je hem pullt. Hij slaat de tank hard.
-
-### Bruegal Ironknuckle, een rare
-
-Elke baas van The Stockade kan groene items laten vallen, maar alleen Bruegal Ironknuckle laat betrouwbaar waardevolle gear vallen.
-
-Een rare elite van level 26 die niet altijd verschijnt. Hij is de enige baas met echte loot, drie blauwe items die in de bestanden van de beta alle drie beter werden:
-
-| Item | Nieuw in Forever |
-|---|---|
-| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2942"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Iron Knuckles</a> | De onderbrekende klap gaat van 4 naar 25 schade |
-| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2941"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prison Shank</a> | Iets meer schade en Agility |
-| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=3228"><img class="wf-wh__icon" src="/wh/inv_bracer_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Jimmied Handcuffs</a> | 1 Stamina meer |
-
-Alle drie vragen nu level 23 in plaats van 21.
-
-<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2280"><img class="wf-wh__icon" src="/wh/inv_staff_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Kam's Walking Stick</a> was in Classic een item dat bindt bij het aandoen. In de bestanden van de beta bindt hij bij het oppakken, met 10 Agility, tot 32 spell damage en healing, en 10% kortere vertragende effecten. Waar hij in Forever valt, is niet bekend.
-
-## Wat nog niet bekend is
-
-- **De dropkansen** van de loot van de bazen.
-- **Kam's Walking Stick**: welk monster hem nu laat vallen.
-- **De beloningen van de quests** die nog niet bekend zijn.
+In Classic lieten de meeste bazen van The Stockade alleen een hoofd of een hand voor een quest vallen. In Forever heeft elke baas drie of vier eigen blauwe items. De rare Bruegal Ironknuckle, die er niet altijd staat, houdt zijn drie blauwe items; die staan onder Andere drops.

@@ -1,0 +1,74 @@
+{
+ "floors": [
+  {
+   "image": "shadowfang-keep-1.jpg",
+   "label": "The Courtyard",
+   "markers": [
+    {
+     "n": 1,
+     "x": 66.1,
+     "y": 71.1
+    },
+    {
+     "n": 4,
+     "x": 28.0,
+     "y": 59.7
+    }
+   ]
+  },
+  {
+   "image": "shadowfang-keep-2.jpg",
+   "label": "Dining Hall",
+   "markers": [
+    {
+     "n": 2,
+     "x": 48.0,
+     "y": 29.0
+    },
+    {
+     "n": 3,
+     "x": 30.4,
+     "y": 77.4
+    }
+   ]
+  },
+  {
+   "image": "shadowfang-keep-7.jpg",
+   "label": "The Wall Walk",
+   "markers": [
+    {
+     "n": 5,
+     "x": 63.6,
+     "y": 83.8
+    }
+   ]
+  },
+  {
+   "image": "shadowfang-keep-4.jpg",
+   "label": "Lower Observatory",
+   "markers": [
+    {
+     "n": 6,
+     "x": 57.4,
+     "y": 43.3
+    }
+   ]
+  },
+  {
+   "image": "shadowfang-keep-6.jpg",
+   "label": "Lord Godfrey's Chamber",
+   "markers": [
+    {
+     "n": 7,
+     "x": 59.0,
+     "y": 53.3
+    },
+    {
+     "n": 8,
+     "x": 63.9,
+     "y": 20.0
+    }
+   ]
+  }
+ ]
+}

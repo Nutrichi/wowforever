@@ -1,0 +1,14 @@
+{
+ "location": "Tirisfal Glades, het Scarlet Monastery",
+ "entrance": "Het Scarlet Monastery aan de oostkant van Tirisfal Glades, op /way 85.1 31.4. Elke vleugel heeft een eigen deur; deze staat voor iedereen open.",
+ "quests": {
+  "1113": {
+   "objective": "Verzamel 20 Hearts of Zeal van de Scarlet Crusade.",
+   "note": "Ze vallen bij bazen en monsters van de Scarlet in alle vier de vleugels. De quest volgt op Going, Going, Guano! uit Razorfen Kraul."
+  },
+  "1051": {
+   "objective": "Breng de trouwring van Vorrel Sengutz naar Monika Sengutz in Tarren Mill.",
+   "note": "Vorrel zit gevangen in de ruimte van Interrogator Vishas."
+  }
+ }
+}

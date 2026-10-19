@@ -3,7 +3,7 @@ title: "Dungeongids: elke dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: elke dungeon, elk level en elke questgever"
 description: "Elke dungeon van WoW Forever met zijn levels en al zijn quests: waar elke quest begint, voor welke factie, wat eerst moet, en de sleutels die sommige dungeons vragen."
 short: "Dungeons"
-updated: 2026-10-07
+updated: 2026-10-19
 lang: nl
 manual: true
 faq:
@@ -23,44 +23,48 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 
 ## Gidsen per dungeon
 
-- **[Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/)**, level 9-19: de weg naar binnen via Orgrimmar, alle zes de quests van de Horde met hun beloningen en de nieuwe loot van Taragaman en Jergosh.
+- **[Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/)**, level 13-18: de weg naar binnen via Orgrimmar, alle zes de quests van de Horde met hun beloningen en de nieuwe loot van Taragaman en Jergosh.
 - **[The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/)**, level 13-18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot.
 - **[Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/)**, level 15-20: de weg erheen voor beide facties, alle tien de quests, de zes bazen en hun loot.
 - **[Wailing Caverns](/nl/guides/dungeons/wailing-caverns/)**, level 15-24: alle zeven de quests met hun beloningen, de Lords of the Fang, het event van Naralex en de nieuwe bonussen van Embrace of the Viper.
-- **[The Deadmines](/nl/guides/dungeons/the-deadmines/)**, level 14-24: de weg naar binnen via Moonbrook, alle zeven de quests met hun beloningen en de nieuwe loot van elke baas.
-- **[Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/)**, level 18-28: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas.
-- **[Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/)**, level 21-30: de weg naar binnen aan de Zoram Strand, de quests van beide facties en de nieuwe loot van elke baas.
+- **[The Deadmines](/nl/guides/dungeons/the-deadmines/)**, level 17-26: de weg naar binnen via Moonbrook, alle zeven de quests met hun beloningen en de nieuwe loot van elke baas.
+- **[Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/)**, level 20-30: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas.
+- **[Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/)**, level 24-32: de weg naar binnen aan de Zoram Strand, de quests van beide facties en de nieuwe loot van elke baas.
 - **[Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/)**, level 26-31, nieuw in Forever: de quests voor beide facties, het hoge gras en de drie bazen met hun loot.
-- **[The Stockade](/nl/guides/dungeons/the-stockade/)**, level 22-30: de indeling van de gevangenis, alle zes de quests en de loot van Bruegal Ironknuckle.
+- **[The Stockade](/nl/guides/dungeons/the-stockade/)**, level 24-32: de indeling van de gevangenis, alle zes de quests en de nieuwe blauwe loot van elke baas.
 - **[City of Dalaran](/nl/guides/dungeons/city-of-dalaran/)**, level 28-33, nieuw in Forever: beide ingangen, de arcane trash en de zeven bazen.
-- **[Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/)**, level 25-34: alle zeven de quests met hun beloningen, de casters van de quilboar en de nieuwe loot van elke baas.
-- **[Gnomeregan](/nl/guides/dungeons/gnomeregan/)**, level 25-38: beide deuren, de teleport voor de Horde, alle dertien de quests en de nieuwe loot van elke baas.
-- **[Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/)**, level 26-45: de vier vleugels, elke quest met zijn beloning en de loot van elke baas.
-- **[Razorfen Downs](/nl/guides/dungeons/razorfen-downs/)**, level 35-44: alle zes de quests met hun beloningen, het gong-event en de nieuwe loot van elke baas.
+- **[Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/)**, level 29-38: alle zeven de quests met hun beloningen, de casters van de quilboar en de nieuwe loot van elke baas.
+- **[Gnomeregan](/nl/guides/dungeons/gnomeregan/)**, level 29-38: beide deuren, de teleport voor de Horde, alle dertien de quests en de nieuwe loot van elke baas.
+- **Scarlet Monastery**, level 30-46, in vier vleugels, elk met eigen loot, quests en gids: [Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/), [Library](/nl/guides/dungeons/scarlet-monastery-library/), [Armory](/nl/guides/dungeons/scarlet-monastery-armory/) en [Cathedral](/nl/guides/dungeons/scarlet-monastery-cathedral/).
+- **[Razorfen Downs](/nl/guides/dungeons/razorfen-downs/)**, level 37-46: alle zes de quests met hun beloningen, het gong-event en de nieuwe loot van elke baas.
+- **[Uldaman](/nl/guides/dungeons/uldaman/)**, level 41-51: de weg erheen vanuit de Badlands, de acht bazen tot Archaedas en de loot die tot nu toe bekend is.
 
 ## Elke dungeon op level
 
-Elk bereik loopt van het level waarop een groep de dungeon aankan tot het level waarop hij makkelijk wordt. Voor de nieuwe dungeons is het bereik dat van Blizzard, gepubliceerd op 14 september 2026.
+Voor de dungeons met een gids is het bereik dat van het spel zelf. Voor de andere loopt het van het level waarop een groep de dungeon aankan tot het level waarop hij makkelijk wordt; voor de nieuwe is het het bereik dat Blizzard op 14 september 2026 publiceerde.
 
 | Dungeon | Levels | Quests |
 |---|---|---|
-| [Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/) | 9-19 | 5 |
+| [Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/) | 13-18 | 5 |
 | [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
 | [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
 | [Wailing Caverns](/nl/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
-| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | 14-24 | 8 |
-| [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | 18-28 | 5 |
-| [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | 21-30 | 13 |
+| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | 17-26 | 8 |
+| [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
+| [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
 | [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | 26-31 | nog niet bekend |
-| [The Stockade](/nl/guides/dungeons/the-stockade/) | 22-30 | 6 |
+| [The Stockade](/nl/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 | nog niet bekend |
-| [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | 25-34 | 7 |
-| [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | 25-38 | 13 |
+| [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
+| [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | 29-38 | 13 |
 | The Drowned City | 35-40 | nog niet bekend |
-| [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/) | 26-45 | 8 |
-| [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | 35-44 | 6 |
+| [Scarlet Monastery: Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
+| [Scarlet Monastery: Library](/nl/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
+| [Scarlet Monastery: Armory](/nl/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |
+| [Scarlet Monastery: Cathedral](/nl/guides/dungeons/scarlet-monastery-cathedral/) | 38-46 | 3 |
+| [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
 | Krol'dok Stronghold | 40-45 | nog niet bekend |
-| Uldaman | 37-47 | 14 |
+| [Uldaman](/nl/guides/dungeons/uldaman/) | 41-51 | 14 |
 | Zul'Farrak | 40-50 | 8 |
 | Maraudon | 41-50 | 11 |
 | Alcaz Prison | 48-53 | nog niet bekend |
@@ -241,7 +245,7 @@ De volledige gids: [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/).
 
 Minstens één speler heeft The Scarlet Key nodig voor de Armory en de Cathedral; Lockpicking 175 werkt ook.
 
-De volledige gids: [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery/).
+De volledige gids: [Scarlet Monastery](/nl/guides/dungeons/scarlet-monastery-graveyard/).
 
 ### Alle vleugels
 

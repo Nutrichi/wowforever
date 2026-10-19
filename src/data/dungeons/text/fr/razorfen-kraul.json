@@ -1,0 +1,37 @@
+{
+ "location": "The Barrens, à la pointe sud",
+ "entrance": "Dans les ronces à la pointe sud de The Barrens, en /way 42.3 89.9. Tournez vers l’ouest juste avant le Great Lift vers Thousand Needles.",
+ "quests": {
+  "1701": {
+   "objective": "Rassemblez les matériaux demandés par Furen Longbeard, dont la Vial of Phlogiston de Roogug, et apportez-les-lui à Stormwind.",
+   "note": "Une quête de Warrior à la fin d’une chaîne qui commence avec Yorus Barleybrew."
+  },
+  "1142": {
+   "objective": "Trouvez Treshala's Pendant et apportez-le à Treshala Fallowbrook à Darnassus.",
+   "note": "Le corps d’Heralath Fallowbrook gît dans une tente avant le dernier boss. Le pendentif tombe sur les quilboar de l’intérieur."
+  },
+  "1101": {
+   "objective": "Apportez Razorflank's Medallion, laissé par Charlga Razorflank, à Falfindel Waywarder à Thalanaar.",
+   "note": "Elle suit Lonebrow's Journal, posé sur le corps d’un nain au pied du Great Lift."
+  },
+  "1838": {
+   "objective": "Apportez à Thun'grim Firegaze 15 Smoky Iron Ingots, 10 Powdered Azurite, 10 Iron Bars et une Vial of Phlogiston.",
+   "note": "Une quête de Warrior. La fiole tombe sur Roogug."
+  },
+  "1109": {
+   "objective": "Apportez un tas de Kraul Guano à Master Apothecary Faranell.",
+   "note": "Il tombe sur les Kraul Bats de la grotte aux chauves-souris et mène à Hearts of Zeal dans Scarlet Monastery."
+  },
+  "1102": {
+   "objective": "Apportez Razorflank's Heart, laissé par Charlga Razorflank, à Auld Stonespire à Thunder Bluff."
+  },
+  "1221": {
+   "objective": "Invoquez un Snufflenose Gopher avec la Crate with Holes, faites-le creuser avec le Command Stick, puis rapportez 6 Blueleaf Tubers, le bâton et la caisse à Mebok Mizzyrix.",
+   "note": "Prenez la caisse, le bâton et le manuel à côté de Mebok à Ratchet avant d’entrer."
+  },
+  "1144": {
+   "objective": "Escortez Willix the Importer hors du donjon.",
+   "note": "Il est retenu dans une tente avant le dernier boss, et l’escorte se termine à l’entrée."
+  }
+ }
+}

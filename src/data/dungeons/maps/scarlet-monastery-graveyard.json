@@ -1,0 +1,19 @@
+{
+ "floors": [
+  {
+   "image": "scarlet-monastery-graveyard-1.jpg",
+   "markers": [
+    {
+     "n": 1,
+     "x": 72.0,
+     "y": 59.5
+    },
+    {
+     "n": 2,
+     "x": 24.3,
+     "y": 56.3
+    }
+   ]
+  }
+ ]
+}

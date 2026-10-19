@@ -1,0 +1,45 @@
+{
+ "location": "Dun Morogh, sous le Train Depot",
+ "entrance": "La porte principale du Train Depot, à l’ouest de Dun Morogh, en /way 17.7 39.2. La porte arrière, au nord, demande la Workshop Key ou un Rogue avec Lockpicking 150.",
+ "quests": {
+  "2922": {
+   "objective": "Tuez Techbot et rapportez son Memory Core à Tinkmaster Overspark.",
+   "note": "Techbot se trouve dans la Loading Room du Train Depot, hors de l’instance."
+  },
+  "2930": {
+   "objective": "Transformez une White Punch Card en Prismatic Punch Card aux quatre machines Matrix Punchograph 3005, puis apportez-la à Master Mechanic Castpipe.",
+   "note": "La machine A est dehors près de Techbot. B est dans le Dormitory, C dans la salle d’Electrocutioner 6000 et D sous Crowd Pummeler 9-60."
+  },
+  "2924": {
+   "objective": "Rassemblez 12 Essential Artificials sur les machines réparties dans le donjon.",
+   "note": "Certains sont cachés derrière des piliers."
+  },
+  "2928": {
+   "objective": "Rapportez 24 Robo-mechanical Guts à Shoni the Shilent.",
+   "note": "La plupart des monstres mécaniques de l’intérieur en laissent."
+  },
+  "2962": {
+   "objective": "Récoltez du High Potency Radioactive Fallout sur les monstres irradiés et rapportez-le dans la Heavy Leaden Collection Phial à Ozzie Togglevolt.",
+   "note": "Le fallout se dégrade vite, et la fiole doit revenir à Ozzie en moins de 2 heures. La quête suit Gnogaine."
+  },
+  "2929": {
+   "objective": "Tuez Mekgineer Thermaplugg et faites votre rapport à High Tinker Mekkatorque."
+  },
+  "2841": {
+   "objective": "Rapportez les Rig Blueprints et la Thermaplugg's Safe Combination à Nogg.",
+   "note": "Thermaplugg laisse la combinaison, et les plans sont dans son coffre. Sovik, à côté de Nogg, n’a pas de point d’exclamation : parlez-lui pour Chief Engineer Scooty. Si vous terminez celle-ci d’abord via un partage de groupe sans Rig Wars, Nogg ne propose plus Rig Wars."
+  },
+  "2904": {
+   "objective": "Escortez Kernobee jusqu’à la sortie de la Clockwork Run, puis faites votre rapport à Scooty à Booty Bay.",
+   "note": "Kernobee se tient à l’un de plusieurs endroits du Dormitory, juste après la Clean Zone."
+  },
+  "2951": {
+   "objective": "Placez un Grime-Encrusted Object dans The Sparklematic 5200. La machine demande 3 pièces d’argent pour démarrer.",
+   "note": "Répétable, avec de l’expérience la première fois seulement."
+  },
+  "2945": {
+   "objective": "Nettoyez la Grime-Encrusted Ring dans The Sparklematic 5200.",
+   "note": "L’anneau tombe sur les Dark Iron Agents. Return of the Ring va ensuite à Talvash del Kissel à Ironforge ou à Nogg à Orgrimmar."
+  }
+ }
+}

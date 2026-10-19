@@ -1,0 +1,731 @@
+{
+ "slug": "blackfathom-deeps",
+ "levels": "24–32",
+ "bosses": [
+  {
+   "name": "Ghamoo-ra",
+   "slug": "ghamoo-ra",
+   "level": "25",
+   "npc": 4887,
+   "items": [
+    273839,
+    6907,
+    6908
+   ]
+  },
+  {
+   "name": "Lady Sarevess",
+   "slug": "lady-sarevess",
+   "level": "25",
+   "npc": 4831,
+   "items": [
+    888,
+    3078,
+    11121
+   ]
+  },
+  {
+   "name": "Gelihast",
+   "slug": "gelihast",
+   "level": "26",
+   "npc": 6243,
+   "items": [
+    273840,
+    6906,
+    6905,
+    1470,
+    273141
+   ]
+  },
+  {
+   "name": "Lorgus Jett",
+   "slug": "lorgus-jett",
+   "level": "26",
+   "npc": 12902,
+   "items": [
+    273842,
+    273843,
+    273841
+   ]
+  },
+  {
+   "name": "Old Serra'kis",
+   "slug": "old-serra-kis",
+   "level": "26",
+   "npc": 4830,
+   "items": [
+    6901,
+    6902,
+    6904
+   ]
+  },
+  {
+   "name": "Twilight Lord Kelris",
+   "slug": "twilight-lord-kelris",
+   "level": "27",
+   "npc": 4832,
+   "items": [
+    273846,
+    1155,
+    6903
+   ]
+  },
+  {
+   "name": "Aku'mai",
+   "slug": "aku-mai",
+   "level": "28",
+   "npc": 4829,
+   "items": [
+    6911,
+    6910,
+    6909
+   ]
+  }
+ ],
+ "loose": [
+  2567,
+  3413,
+  16782,
+  1486,
+  3416,
+  1491,
+  3414,
+  1454,
+  1481,
+  3417,
+  3415,
+  2271
+ ],
+ "quests": [
+  {
+   "id": 971,
+   "name": "Knowledge in the Deeps",
+   "level": 23,
+   "minLevel": 10,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 2750,
+   "rep": "Ironforge +50",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Gerrig Bonegrip",
+     "kind": "npc",
+     "npc": 2786,
+     "zone": "Ironforge",
+     "at": {
+      "x": 50.6,
+      "y": 5.4
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 228
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Gerrig Bonegrip",
+     "kind": "npc",
+     "npc": 2786,
+     "zone": "Ironforge",
+     "at": {
+      "x": 50.6,
+      "y": 5.4
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 228
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    6743
+   ],
+   "choice": false
+  },
+  {
+   "id": 1198,
+   "name": "In Search of Thaelrid",
+   "level": 24,
+   "minLevel": 18,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 2400,
+   "rep": "Argent Dawn +150 · Darnassus +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Dawnwatcher Shaedlass",
+     "kind": "npc",
+     "npc": 4786,
+     "zone": "Darnassus",
+     "place": "Craftsmen's Terrace",
+     "at": {
+      "x": 55.4,
+      "y": 24.6
+     },
+     "taxi": {
+      "name": "Rut'theran Village, Teldrassil",
+      "yards": 2074
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Argent Guard Thaelrid",
+     "kind": "npc",
+     "npc": 4787,
+     "zone": "Blackfathom Deeps"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 1200,
+   "name": "Blackfathom Villainy",
+   "level": 27,
+   "minLevel": 18,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 3300,
+   "rep": "Argent Dawn +200 · Darnassus +200",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Argent Guard Thaelrid",
+     "kind": "npc",
+     "npc": 4787,
+     "zone": "Blackfathom Deeps"
+    }
+   ],
+   "to": [
+    {
+     "name": "Dawnwatcher Selgorm",
+     "kind": "npc",
+     "npc": null,
+     "zone": "Darnassus",
+     "place": "Craftsmen's Terrace",
+     "at": {
+      "x": 56,
+      "y": 24.6
+     },
+     "taxi": {
+      "name": "Rut'theran Village, Teldrassil",
+      "yards": 2070
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "In Search of Thaelrid",
+     "id": 1198,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [
+    7001,
+    7002,
+    270031,
+    270032
+   ],
+   "choice": true
+  },
+  {
+   "id": 1275,
+   "name": "Researching the Corruption",
+   "level": 24,
+   "minLevel": 18,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 2400,
+   "rep": "Darnassus +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Gershala Nightwhisper",
+     "kind": "npc",
+     "npc": 8997,
+     "zone": "Darkshore",
+     "place": "Auberdine",
+     "at": {
+      "x": 38.3,
+      "y": 43
+     },
+     "taxi": {
+      "name": "Auberdine, Darkshore",
+      "yards": 169
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Gershala Nightwhisper",
+     "kind": "npc",
+     "npc": 8997,
+     "zone": "Darkshore",
+     "place": "Auberdine",
+     "at": {
+      "x": 38.3,
+      "y": 43
+     },
+     "taxi": {
+      "name": "Auberdine, Darkshore",
+      "yards": 169
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Corruption Abroad",
+     "id": 3765,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [
+    7003,
+    7004,
+    270021
+   ],
+   "choice": true
+  },
+  {
+   "id": 1199,
+   "name": "Twilight Falls",
+   "level": 25,
+   "minLevel": 20,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 2550,
+   "rep": "Argent Dawn +150 · Darnassus +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Argent Guard Manados",
+     "kind": "npc",
+     "npc": 4784,
+     "zone": "Darnassus",
+     "place": "Craftsmen's Terrace",
+     "at": {
+      "x": 55.2,
+      "y": 23.6
+     },
+     "taxi": {
+      "name": "Rut'theran Village, Teldrassil",
+      "yards": 2081
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Argent Guard Manados",
+     "kind": "npc",
+     "npc": 4784,
+     "zone": "Darnassus",
+     "place": "Craftsmen's Terrace",
+     "at": {
+      "x": 55.2,
+      "y": 23.6
+     },
+     "taxi": {
+      "name": "Rut'theran Village, Teldrassil",
+      "yards": 2081
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    6998,
+    7000,
+    270025
+   ],
+   "choice": true
+  },
+  {
+   "id": 6564,
+   "name": "Allegiance to the Old Gods",
+   "level": 22,
+   "minLevel": 17,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": "Darkspear Trolls +75",
+   "site": "entrance",
+   "from": [
+    {
+     "name": "Damp Note",
+     "kind": "item",
+     "item": 16790,
+     "zone": "Ashenvale",
+     "place": "The Zoram Strand",
+     "at": {
+      "x": 13.8,
+      "y": 10.7
+     },
+     "taxi": {
+      "name": "Zoram'gar Outpost, Ashenvale",
+      "yards": 892
+     },
+     "drop": "Blackfathom Tide Priestess",
+     "outside": "Blackfathom Deeps"
+    }
+   ],
+   "to": [
+    {
+     "name": "Je'neu Sancrea",
+     "kind": "npc",
+     "npc": 12736,
+     "zone": "Ashenvale",
+     "place": "Zoram'gar Outpost",
+     "at": {
+      "x": 11.6,
+      "y": 34.3
+     },
+     "taxi": {
+      "name": "Zoram'gar Outpost, Ashenvale",
+      "yards": 40
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Trouble in the Deeps",
+     "id": 6562,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 6565,
+   "name": "Allegiance to the Old Gods",
+   "level": 26,
+   "minLevel": 17,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": "Darkspear Trolls +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Je'neu Sancrea",
+     "kind": "npc",
+     "npc": 12736,
+     "zone": "Ashenvale",
+     "place": "Zoram'gar Outpost",
+     "at": {
+      "x": 11.6,
+      "y": 34.3
+     },
+     "taxi": {
+      "name": "Zoram'gar Outpost, Ashenvale",
+      "yards": 40
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Je'neu Sancrea",
+     "kind": "npc",
+     "npc": 12736,
+     "zone": "Ashenvale",
+     "place": "Zoram'gar Outpost",
+     "at": {
+      "x": 11.6,
+      "y": 34.3
+     },
+     "taxi": {
+      "name": "Zoram'gar Outpost, Ashenvale",
+      "yards": 40
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Trouble in the Deeps",
+     "id": 6562,
+     "optional": false
+    },
+    {
+     "name": "Allegiance to the Old Gods",
+     "id": null,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [
+    17694,
+    17695
+   ],
+   "choice": true
+  },
+  {
+   "id": 6563,
+   "name": "The Essence of Aku'Mai",
+   "level": 22,
+   "minLevel": 17,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 1750,
+   "rep": "Darkspear Trolls +100 · Earthen Ring +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Je'neu Sancrea",
+     "kind": "npc",
+     "npc": 12736,
+     "zone": "Ashenvale",
+     "place": "Zoram'gar Outpost",
+     "at": {
+      "x": 11.6,
+      "y": 34.3
+     },
+     "taxi": {
+      "name": "Zoram'gar Outpost, Ashenvale",
+      "yards": 40
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Je'neu Sancrea",
+     "kind": "npc",
+     "npc": 12736,
+     "zone": "Ashenvale",
+     "place": "Zoram'gar Outpost",
+     "at": {
+      "x": 11.6,
+      "y": 34.3
+     },
+     "taxi": {
+      "name": "Zoram'gar Outpost, Ashenvale",
+      "yards": 40
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Trouble in the Deeps",
+     "id": 6562,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 6921,
+   "name": "Amongst the Ruins",
+   "level": 27,
+   "minLevel": 21,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": "Darkspear Trolls +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Je'neu Sancrea",
+     "kind": "npc",
+     "npc": 12736,
+     "zone": "Ashenvale",
+     "place": "Zoram'gar Outpost",
+     "at": {
+      "x": 11.6,
+      "y": 34.3
+     },
+     "taxi": {
+      "name": "Zoram'gar Outpost, Ashenvale",
+      "yards": 40
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Je'neu Sancrea",
+     "kind": "npc",
+     "npc": 12736,
+     "zone": "Ashenvale",
+     "place": "Zoram'gar Outpost",
+     "at": {
+      "x": 11.6,
+      "y": 34.3
+     },
+     "taxi": {
+      "name": "Zoram'gar Outpost, Ashenvale",
+      "yards": 40
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 6561,
+   "name": "Blackfathom Villainy",
+   "level": 27,
+   "minLevel": 18,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 3300,
+   "rep": "Argent Dawn +200 · Thunder Bluff +200",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Argent Guard Thaelrid",
+     "kind": "npc",
+     "npc": 4787,
+     "zone": "Blackfathom Deeps"
+    }
+   ],
+   "to": [
+    {
+     "name": "Bashana Runetotem",
+     "kind": "npc",
+     "npc": null,
+     "zone": "Thunder Bluff",
+     "place": "Elder Rise",
+     "at": {
+      "x": 70.8,
+      "y": 33.8
+     },
+     "taxi": {
+      "name": "Thunder Bluff, Mulgore",
+      "yards": 276
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    7001,
+    7002,
+    270031,
+    270032
+   ],
+   "choice": true
+  },
+  {
+   "id": 6922,
+   "name": "Baron Aquanis",
+   "level": 30,
+   "minLevel": 21,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": "Darkspear Trolls +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Strange Water Globe",
+     "kind": "item",
+     "item": 16782,
+     "zone": "Blackfathom Deeps",
+     "drop": "Baron Aquanis"
+    }
+   ],
+   "to": [
+    {
+     "name": "Je'neu Sancrea",
+     "kind": "npc",
+     "npc": 12736,
+     "zone": "Ashenvale",
+     "place": "Zoram'gar Outpost",
+     "at": {
+      "x": 11.6,
+      "y": 34.3
+     },
+     "taxi": {
+      "name": "Zoram'gar Outpost, Ashenvale",
+      "yards": 40
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    16886,
+    16887,
+    270043
+   ],
+   "choice": true
+  }
+ ],
+ "cards": {
+  "888": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=888\">Naga Battle Gloves</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Leather</span></span><span class=\"wf-item__line\">61 Armor</span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line\">Requires Level 22</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 15 and damage done by up to 5 for all magical spells and effects.</span></div></div>",
+  "1155": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=1155\">Rod of the Sleepwalker</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>39 - 60 Damage</span><span>Speed 2.80</span></span><span class=\"wf-item__line\">(17.68 damage per second)</span><span class=\"wf-item__line\">+11 Spirit</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 24</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 32.</span><span class=\"wf-item__line wf-item__use\">Equip: Reduces the hit chance of Sleep effects against you by 5%.</span></div></div>",
+  "1454": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_21.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=1454\">Axe of the Enforcer</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>33 - 62 Damage</span><span>Speed 2.60</span></span><span class=\"wf-item__line\">(18.27 damage per second)</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 24</span></div></div>",
+  "1470": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bag_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=1470\">Murloc Skin Bag</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">10 Slot Bag</span></div></div>",
+  "1481": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=1481\">Grimclaw</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>24 - 45 Damage</span><span>Speed 2.00</span></span><span class=\"wf-item__line\">(17.25 damage per second)</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 22</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Sends a shadowy bolt at the enemy causing 42 Shadow damage.</span></div></div>",
+  "1486": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shirt_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=1486\">Tree Bark Jacket</a><span class=\"wf-item__line wf-item__meta\">Item Level 26</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">44 Armor</span><span class=\"wf-item__line\">+60 Armor</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 21</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 13.</span></div></div>",
+  "1491": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=1491\">Ring of Precision</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+6 Agility</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Requires Level 22</span></div></div>",
+  "2271": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_31.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=2271\">Staff of the Blessed Seer</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>37 - 57 Damage</span><span>Speed 3.00</span></span><span class=\"wf-item__line\">(15.67 damage per second)</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 20</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 28.</span></div></div>",
+  "2567": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=2567\">Evocator's Blade</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>12 - 23 Damage</span><span>Speed 1.60</span></span><span class=\"wf-item__line\">(10.94 damage per second)</span><span class=\"wf-item__line\">+2 Intellect</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 20</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 28.</span></div></div>",
+  "3078": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_bow_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=3078\">Naga Heartpiercer</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Bow</span></span><span class=\"wf-item__row\"><span>22 - 42 Damage</span><span>Speed 2.40</span></span><span class=\"wf-item__line\">(13.33 damage per second)</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 22</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Wounds the target for 42 damage. Naga are Stunned for 2 sec.</span></div></div>",
+  "3413": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_29.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=3413\">Doomspike</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>18 - 34 Damage</span><span>Speed 1.50</span></span><span class=\"wf-item__line\">(17.33 damage per second)</span><span class=\"wf-item__line\">+3 Strength</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 22</span></div></div>",
+  "3414": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mace_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=3414\">Crested Scepter</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>22 - 41 Damage</span><span>Speed 2.60</span></span><span class=\"wf-item__line\">(12.12 damage per second)</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">+2 Intellect</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 24</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 32.</span></div></div>",
+  "3415": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_32.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=3415\">Staff of the Friar</a><span class=\"wf-item__line wf-item__meta\">Item Level 26</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>33 - 50 Damage</span><span>Speed 2.60</span></span><span class=\"wf-item__line\">(15.96 damage per second)</span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">+3 Intellect</span><span class=\"wf-item__line\">+12 Spirit</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 21</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 52 and damage done by up to 17 for all magical spells and effects.</span></div></div>",
+  "3416": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_chain.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=3416\">Martyr's Chain</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Chest</span><span>Mail</span></span><span class=\"wf-item__line\">211 Armor</span><span class=\"wf-item__line\">+9 Strength</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">Durability 110 / 110</span><span class=\"wf-item__line\">Requires Level 23</span><span class=\"wf-item__line wf-item__use\">Equip: Dying inflicts 420 Holy damage to all enemies within 15 yds.</span></div></div>",
+  "3417": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=3417\">Onyx Claymore</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>51 - 78 Damage</span><span>Speed 2.80</span></span><span class=\"wf-item__line\">(23.04 damage per second)</span><span class=\"wf-item__line\">+10 Strength</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+6 Spirit</span><span class=\"wf-item__line\">Durability 95 / 95</span><span class=\"wf-item__line\">Requires Level 23</span></div></div>",
+  "6743": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=6743\">Sustaining Ring</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">Restores +4 health per 5 sec.</span></div></div>",
+  "6901": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_monsterscales_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6901\">Glowing Thresher Cape</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">23 Armor</span><span class=\"wf-item__line\">+8 Spirit</span><span class=\"wf-item__line\">Requires Level 24</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 7 and damage done by up to 3 for all magical spells and effects.</span></div></div>",
+  "6902": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6902\">Bands of Serra'kis</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Leather</span></span><span class=\"wf-item__line\">43 Armor</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 22</span></div></div>",
+  "6903": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6903\">Gaze Dreamer Pants</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">40 Armor</span><span class=\"wf-item__line\">+9 Spirit</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 23</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 12.</span></div></div>",
+  "6904": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_monsterfang_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6904\">Bite of Serra'kis</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>16 - 30 Damage</span><span>Speed 1.30</span></span><span class=\"wf-item__line\">(17.69 damage per second)</span><span class=\"wf-item__line\">+2 Nature Resistance</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 23</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Poisons target for 14 Nature damage every 3 sec for 9 sec.</span></div></div>",
+  "6905": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_halberd_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6905\">Reef Axe</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>59 - 89 Damage</span><span>Speed 3.30</span></span><span class=\"wf-item__line\">(22.42 damage per second)</span><span class=\"wf-item__line\">+8 Strength</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 22</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 24 and damage done by up to 8 for all magical spells and effects.</span></div></div>",
+  "6906": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6906\">Algae Fists</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Mail</span></span><span class=\"wf-item__line\">132 Armor</span><span class=\"wf-item__line\">+8 Strength</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+5 Nature Resistance</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 23</span></div></div>",
+  "6907": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shirt_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6907\">Tortoise Armor</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Mail</span></span><span class=\"wf-item__line\">208 Armor</span><span class=\"wf-item__line\">+40 Armor</span><span class=\"wf-item__line\">Durability 105 / 105</span><span class=\"wf-item__line\">Requires Level 22</span><span class=\"wf-item__line wf-item__use\">Equip: Spell Damage received is reduced by 5.</span></div></div>",
+  "6908": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_24.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6908\">Ghamoo-ra's Bind</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Cloth</span></span><span class=\"wf-item__line\">25 Armor</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">Durability 25 / 25</span><span class=\"wf-item__line\">Requires Level 22</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 8.</span></div></div>",
+  "6909": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_42.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6909\">Strike of the Hydra</a><span class=\"wf-item__line wf-item__meta\">Item Level 31</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>67 - 102 Damage</span><span>Speed 3.30</span></span><span class=\"wf-item__line\">(25.61 damage per second)</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 26</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Inflict 42 Fire and 14 Frost damage, slow the target by 50% for 5 sec, reduce armor by 50, and inflict 7 Nature damage every 3 sec for 12 sec.</span></div></div>",
+  "6910": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6910\">Leech Pants</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">41 Armor</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Restores +5 mana per 5 sec.</span><span class=\"wf-item__line\">Restores +5 health per 5 sec.</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 24</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 5.</span></div></div>",
+  "6911": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_25.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=6911\">Moss Cinch</a><span class=\"wf-item__line wf-item__meta\">Item Level 30</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Leather</span></span><span class=\"wf-item__line\">58 Armor</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line\">Requires Level 25</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by magical spells and effects by up to 12.</span></div></div>",
+  "6998": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=6998\">Nimbus Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Cloth</span></span><span class=\"wf-item__line\">28 Armor</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 10 and damage done by up to 3 for all magical spells and effects.</span></div></div>",
+  "7000": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=7000\">Heartwood Girdle</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Leather</span></span><span class=\"wf-item__line\">50 Armor</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 6.</span></div></div>",
+  "7001": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=7001\">Gravestone Scepter</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>30 - 57 Shadow Damage</span><span>Speed 1.50</span></span><span class=\"wf-item__line\">(29.00 damage per second)</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by Shadow spells and effects by up to 6.</span></div></div>",
+  "7002": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=7002\">Arctic Buckler</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">642 Armor</span><span class=\"wf-item__line\">13 Block</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">+5 Frost Resistance</span><span class=\"wf-item__line\">Durability 100 / 100</span></div></div>",
+  "7003": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=7003\">Beetle Clasps</a><span class=\"wf-item__line wf-item__meta\">Item Level 26</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Mail</span></span><span class=\"wf-item__line\">81 Armor</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line wf-item__use\">Equip: +6 Attack Power.</span></div></div>",
+  "7004": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=7004\">Prelacy Cape</a><span class=\"wf-item__line wf-item__meta\">Item Level 26</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">20 Armor</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 7 and damage done by up to 2 for all magical spells and effects.</span></div></div>",
+  "11121": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_36.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11121\">Darkwater Talwar</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>26 - 49 Damage</span><span>Speed 2.20</span></span><span class=\"wf-item__line\">(17.05 damage per second)</span><span class=\"wf-item__line\">Durability 70 / 70</span><span class=\"wf-item__line\">Requires Level 22</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Sends a shadowy bolt at the enemy causing 28 Shadow damage.</span></div></div>",
+  "16782": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/spell_shadow_teleport.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=16782\">Strange Water Globe</a><span class=\"wf-item__line wf-item__meta\">Item Level 21</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">This Item Begins a Quest</span><span class=\"wf-item__line\">Requires Level 21</span></div></div>",
+  "16886": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_33.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16886\">Outlaw Sabre</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>38 - 72 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(20.37 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line wf-item__use\">Equip: +16 Attack Power.</span></div></div>",
+  "16887": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16887\">Witch's Finger</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Held In Off-hand</span><span></span></span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">+8 Intellect</span></div></div>",
+  "17694": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=17694\">Band of the Fist</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">+4 Agility</span></div></div>",
+  "17695": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=17695\">Chestnut Mantle</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Cloth</span></span><span class=\"wf-item__line\">31 Armor</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 5.</span></div></div>",
+  "270021": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=270021\">Staghide Armguards</a><span class=\"wf-item__line wf-item__meta\">Item Level 26</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Leather</span></span><span class=\"wf-item__line\">38 Armor</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">Durability 35 / 35</span></div></div>",
+  "270025": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_21.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=270025\">Silvered Gauntlets</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Mail</span></span><span class=\"wf-item__line\">118 Armor</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 9 and damage done by up to 3 for all magical spells and effects.</span></div></div>",
+  "270031": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270031\">Dark Ritual Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">88 Armor</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 14.</span></div></div>",
+  "270032": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270032\">Cultist's Armguards</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Leather</span></span><span class=\"wf-item__line\">44 Armor</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line wf-item__use\">Equip: +10 Attack Power.</span></div></div>",
+  "270043": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_leather_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270043\">Dreamer's Chestguard</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Leather</span></span><span class=\"wf-item__line\">106 Armor</span><span class=\"wf-item__line\">+10 Strength</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+11 Spirit</span><span class=\"wf-item__line\">Durability 100 / 100</span></div></div>",
+  "273141": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_garrison_blueprints3.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=273141\">Blueprint: Fishing Rack</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Requires Fishing (140)</span><span class=\"wf-item__line\">Craft a Fishing Rack.</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to place a Fishing Rack at a campsite.\"</span></div></div>",
+  "273839": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273839\">Spiked Shell Band</a><span class=\"wf-item__line wf-item__meta\">Item Level 27</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Requires Level 22</span><span class=\"wf-item__line wf-item__use\">Equip: When struck in combat, inflicts 2 Nature damage to the attacker.</span></div></div>",
+  "273840": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/spell_shadow_evileye.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273840\">Cursed Murloc Eye</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line\">Requires Level 24</span><span class=\"wf-item__line wf-item__use\">Equip: Spells and attacks deal 2 Shadow damage. Deals 4 times as much damage to Murlocs.</span></div></div>",
+  "273841": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273841\">Twilight Maul</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>60 - 91 Damage</span><span>Speed 3.30</span></span><span class=\"wf-item__line\">(22.88 damage per second)</span><span class=\"wf-item__line\">Durability 95 / 95</span><span class=\"wf-item__line\">Requires Level 23</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 12.</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Blasts a target for 70 Nature damage.</span></div></div>",
+  "273842": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273842\">Treacherous Treads</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">145 Armor</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 23</span><span class=\"wf-item__line wf-item__use\">Equip: Increases all threat generated by 1%.</span></div></div>",
+  "273843": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_bow_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273843\">Fallenroot Longbow</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Bow</span></span><span class=\"wf-item__row\"><span>21 - 40 Damage</span><span>Speed 2.20</span></span><span class=\"wf-item__line\">(13.86 damage per second)</span><span class=\"wf-item__line\">+2 Agility</span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">Durability 70 / 70</span><span class=\"wf-item__line\">Requires Level 23</span></div></div>",
+  "273846": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_27.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=273846\">Twilight Lord Girdle</a><span class=\"wf-item__line wf-item__meta\">Item Level 30</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Mail</span></span><span class=\"wf-item__line\">123 Armor</span><span class=\"wf-item__line\">+8 Strength</span><span class=\"wf-item__line\">+6 Block Value</span><span class=\"wf-item__line\">+5 Shadow Resistance</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 25</span></div></div>"
+ }
+}

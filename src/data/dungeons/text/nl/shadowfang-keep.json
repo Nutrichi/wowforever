@@ -1,0 +1,25 @@
+{
+ "location": "Silverpine Forest, boven Pyrewood Village",
+ "entrance": "In de bergen net ten noorden van Pyrewood Village, op /way 44.5 68.0. Een houten brug leidt naar de poort van het kasteel.",
+ "quests": {
+  "1654": {
+   "objective": "Verzamel Whitestone Oak Lumber, Bailor's Refined Ore Shipment, Jordan's Smithing Hammer en een Kor Gem voor Jordan Stilwell aan de poorten van Ironforge.",
+   "note": "Een Paladin-quest aan het einde van de reeks rond de Tome of Valor. De hamer ligt in Shadowfang Keep, het hout komt uit The Deadmines en de Kor Gem uit Blackfathom Deeps."
+  },
+  "1098": {
+   "objective": "Vind Deathstalker Adamant en Deathstalker Vincent in het kasteel.",
+   "note": "Adamant is de gevangene die je na Rethilgore bevrijdt. Het lichaam van Vincent ligt rechts van de trap naar de binnenplaats, en daar lever je de quest in."
+  },
+  "1013": {
+   "objective": "Breng The Book of Ur naar Keeper Bel'dugur in het Apothecarium.",
+   "note": "Het boek ligt op een plank in de ruimte van Fenrus the Devourer."
+  },
+  "1014": {
+   "objective": "Dood Archmage Arugal en breng zijn hoofd naar Dalar Dawnweaver in de Sepulcher."
+  },
+  "1740": {
+   "objective": "Breng 3 Soran'ruk Fragments en 1 Large Soran'ruk Fragment naar Doan Karhan in The Barrens.",
+   "note": "Een Warlock-quest. Het grote fragment valt bij de Shadowfang Darksouls in het kasteel, de kleine bij de Twilight Acolytes in Blackfathom Deeps."
+  }
+ }
+}

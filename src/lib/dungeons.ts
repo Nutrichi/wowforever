@@ -2,7 +2,7 @@
  * De data van de dungeonpagina's met drie tabs (19 oktober 2026): per dungeon een
  * taalloos bestand data/dungeons/<slug>.json (bazen, buit, quests, itemkaarten, gemaakt
  * door tools/dungeons_build.py en nagekeken bij Wowhead Forever) en per taal de teksten
- * in data/dungeons/text/<taal>.json (plaats, ingang, inleiding, questdoelen), met de hand
+ * in data/dungeons/text/<taal>/<slug>.json (plaats, ingang, questdoelen), met de hand
  * geschreven.
  */
 import type { Locale } from '../i18n/ui';
@@ -58,14 +58,14 @@ export type DungeonText = {
 };
 
 const data = import.meta.glob<DungeonData>('../data/dungeons/*.json', { eager: true, import: 'default' });
-const texts = import.meta.glob<Record<string, DungeonText>>('../data/dungeons/text/*.json', { eager: true, import: 'default' });
+const texts = import.meta.glob<DungeonText>('../data/dungeons/text/*/*.json', { eager: true, import: 'default' });
 
 export function dungeonData(slug: string): DungeonData | undefined {
   return data[`../data/dungeons/${slug}.json`];
 }
 
 export function dungeonText(slug: string, locale: Locale): DungeonText | undefined {
-  return texts[`../data/dungeons/text/${locale}.json`]?.[slug] ?? texts['../data/dungeons/text/en.json']?.[slug];
+  return texts[`../data/dungeons/text/${locale}/${slug}.json`] ?? texts[`../data/dungeons/text/en/${slug}.json`];
 }
 
 /** Het adres van een tab: de buit op het adres van de dungeon zelf, de rest daaronder. */

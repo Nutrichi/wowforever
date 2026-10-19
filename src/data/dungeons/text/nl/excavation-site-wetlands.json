@@ -1,0 +1,158 @@
+{
+ "location": "Wetlands, ten zuidoosten van Whelgar's Excavation Site",
+ "entrance": "Op de heuvel ten zuidoosten van Whelgar's Excavation Site in de Wetlands, op /way 47.8 56.3. Nieuwe wegen leiden de heuvel op; in Classic kon je dit deel van de Wetlands niet bereiken.",
+ "quests": {
+  "95697": {
+   "objective": "Breng Borstan 4 Thicket Raptor Meat van de raptors in de Stalker's Thicket.",
+   "note": "Borstan verkoopt vlees op de bovenste verdieping van The Drag, in dezelfde hut als Zamja, de trainer voor Cooking. Thicket Hunters, Thicket Lurkers en Thicket Stalkers laten het vlees vallen.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-borstan.jpg",
+     "alt": "Borstan met een geel uitroepteken in zijn hut in The Drag in Orgrimmar, met het questvenster van Changing Tastes open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-thicket-raptors-meat.jpg",
+     "alt": "Een speler loot Thicket Raptor Meat van een raptor in het hoge gras van de Stalker's Thicket, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95682": {
+   "objective": "Dood 2 Dragonmaw Saboteurs en 4 Dragonmaw Warders, en breng de Dragonmaw Dispatch van een Dragonmaw Thaumaturgist terug.",
+   "note": "Zaruk in Hammerfall, Arathi Highlands, geeft Dragonmaw Rumors, die je naar de agent achter een heuveltje stuurt. De Dispatch valt volgens de tooltip in 31% van de gevallen. De Bloody Map in de beloning is een soulbound kaart met Dwarvish tekst en een kruisje; waar hij voor dient, is nog niet bekend.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-zaruk.jpg",
+     "alt": "Zaruk in Hammerfall met het questvenster van Dragonmaw Rumors open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-deathstalker-agent.jpg",
+     "alt": "De Deathstalker Agent verstopt achter een heuvel in de Wetlands, met het questvenster van Open the Maw open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-dragonmaw-dispatch.jpg",
+     "alt": "Een speler loot de Dragonmaw Dispatch van een Dragonmaw Thaumaturgist bij een vuur, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-bloody-map.jpg",
+     "alt": "De tekst van de Bloody Map, een ruwe schets van het landschap met Dwarvish woorden, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95664": {
+   "objective": "Breng de Titan Relic naar Bashana Runetotem in een tent op de Elder Rise van Thunder Bluff.",
+   "note": "De relic valt volgens de tooltip in 25% van de gevallen bij Relic Guardian. Bashana geeft daarna Earthen Echo: breng de relic naar Muln Earthfury in de grootste tent van het Skywatcher Plateau, het nieuwe gebied ten noorden van Thunder Bluff, op /way 33.4 22.5. Het pad omhoog begint rond /way 40.3 17.6.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-elder-knowledge.jpg",
+     "alt": "Een speler bij de resten van Relic Guardian met het questvenster van Elder Knowledge open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-bashana.jpg",
+     "alt": "Bashana Runetotem in haar tent op de Elder Rise van Thunder Bluff, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-skywatcher-plateau-path.jpg",
+     "alt": "Het pad ten noorden van Thunder Bluff dat de bergen van Mulgore in klimt, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-skywatcher-plateau-enter.jpg",
+     "alt": "Een grazige pas omhoog naar het Skywatcher Plateau, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-skywatcher-plateau-view.jpg",
+     "alt": "De tenten en windmolens van het Skywatcher Plateau in Mulgore, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-skywatcher-plateau-muln.jpg",
+     "alt": "Muln Earthfury in de grootste tent van het Skywatcher Plateau, met het questvenster van Earthen Echo open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95772": {
+   "objective": "Vind Daewyn, de broer van Dorin Songblade, in de dungeon.",
+   "note": "Daewyn ligt dood in een tent in het kamp van de Dragonmaw, kort na Shadetooth. Klik op zijn lichaam voor Fallen in the Fen, die je na de dungeon bij Dorin in Lakeshire inlevert.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-dorin.jpg",
+     "alt": "Dorin Songblade, de Armorer in Lakeshire, met het questvenster van Songblade Search open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-daewyn.jpg",
+     "alt": "De tent met het lichaam van Daewyn in het kamp van de Dragonmaw, met het questvenster van Fallen in the Fen open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95647": {
+   "objective": "Vind Ardin Grassman, de man van Caitlin, in de dungeon.",
+   "note": "Seeking Caitlin van Llana, de verkoper van reagents in Astranaar, leidt voor wat extra ervaring naar Caitlin. Ardin staat op een houten bouwsel bij de Site of the Guardian; zijn Heartwoven vraagt alleen dat je Caitlin opnieuw bezoekt.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-caitlin.jpg",
+     "alt": "Caitlin Grassman in haar huis in Menethil Harbor, met het questvenster van Lost in the Thicket Things open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-llana.jpg",
+     "alt": "Llana, de verkoopster van reagents in Astranaar, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-ardin.jpg",
+     "alt": "Ardin op een houten stellage bij de Site of the Guardian, met het questvenster van Heartwoven open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  },
+  "98815": {
+   "objective": "Breng James Halloran 4 Thicket Raptor Hides van de raptors rond Shadetooth.",
+   "note": "Op de beta werkt deze quest nu niet goed: hij telt niet als dungeonquest en geeft maar een beetje ervaring en wat zilver.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-james.jpg",
+     "alt": "James Halloran in Menethil Harbor met het questvenster van Highland Hides open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-raptor-hide.jpg",
+     "alt": "Een speler loot een Thicket Raptor Hide van een Thicket Matriarch, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95646": {
+   "objective": "Dood Highland Horror en breng de Horrible Rootcore naar Rethiel the Greenwarden.",
+   "note": "Rethiel geeft deze quest pas na Tramping Paws, Fire Taboo en Blisters on the Land in de Wetlands. De rootcore valt volgens de tooltip in 60% van de gevallen.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-tramping-paws.jpg",
+     "alt": "Een dode Mosshide-gnoll in een kamp van gnolls in de Wetlands, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-fire-taboo-gnolls.jpg",
+     "alt": "Mosshide-gnolls in het mistige midden van de Wetlands, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-fen-creeper.jpg",
+     "alt": "Een Fen Creeper, alleen te zien als een vage omtrek in het water van de Wetlands, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-horrible-rootcore.jpg",
+     "alt": "Een speler loot de Horrible Rootcore van Highland Horror, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95810": {
+   "objective": "Breng de Titan Relic naar Prospector Whelgar in zijn grot in Whelgar's Excavation Site.",
+   "note": "De relic valt volgens de tooltip in 28% van de gevallen bij Relic Guardian. Whelgar geeft daarna Prehistoric Prism voor High Explorer Magellas in Ironforge, op /way 69.4 19.1. Die quest kun je op de beta nu niet afronden.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-titan-relic.jpg",
+     "alt": "Een speler bij de resten van Relic Guardian met de Titan Relic in het lootvenster, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-prehistoric-prism.jpg",
+     "alt": "Prospector Whelgar in zijn grot met het questvenster van Prehistoric Prism open, een schermafdruk uit de beta van World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-prehistoric-prism-magellas.jpg",
+     "alt": "High Explorer Magellas in de Hall of Explorers in Ironforge, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  }
+ }
+}

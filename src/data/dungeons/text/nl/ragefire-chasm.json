@@ -1,0 +1,24 @@
+{
+ "location": "Orgrimmar, onder de Cleft of Shadow",
+ "entrance": "In de Cleft of Shadow in Orgrimmar, op /way 53.0 48.9. De tunnel leidt naar beneden tot het portaal.",
+ "quests": {
+  "5723": {
+   "objective": "Dood 8 Ragefire Troggs en 8 Ragefire Shamans, in de eerste grote grot en de tunnels eromheen."
+  },
+  "5728": {
+   "objective": "Dood Bazzalan en Jergosh the Invoker en meld je terug bij Thrall.",
+   "note": "De laatste stap van een reeks van Thrall, beschreven boven de tabel."
+  },
+  "5722": {
+   "objective": "Zoek het lijk van Maur Grimtotem in het doodlopende stuk naast de lava en doorzoek het naar zijn tas.",
+   "note": "Daarna volgt Returning the Lost Satchel, terug naar Rahauro."
+  },
+  "5761": {
+   "objective": "Dood Taragaman the Hungerer en breng zijn hart naar Neeru Fireblade."
+  },
+  "5725": {
+   "objective": "Breng de boeken Spells of Shadow en Incantations from the Nether naar Varimathras.",
+   "note": "Beide vallen bij de Searing Blade Cultists en Warlocks in de tweede helft van de dungeon."
+  }
+ }
+}

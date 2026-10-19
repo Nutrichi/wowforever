@@ -1,0 +1,25 @@
+{
+ "location": "Silverpine Forest, au-dessus de Pyrewood Village",
+ "entrance": "Dans les montagnes juste au nord de Pyrewood Village, en /way 44.5 68.0. Un pont de bois mène à la porte du donjon.",
+ "quests": {
+  "1654": {
+   "objective": "Rassemblez Whitestone Oak Lumber, Bailor's Refined Ore Shipment, Jordan's Smithing Hammer et une Kor Gem pour Jordan Stilwell aux portes d’Ironforge.",
+   "note": "Une quête de Paladin à la fin de la chaîne du Tome of Valor. Le marteau se trouve dans Shadowfang Keep, le bois vient de The Deadmines et la Kor Gem de Blackfathom Deeps."
+  },
+  "1098": {
+   "objective": "Trouvez Deathstalker Adamant et Deathstalker Vincent dans le donjon.",
+   "note": "Adamant est le prisonnier libéré après Rethilgore. Le corps de Vincent se trouve à droite de l’escalier vers la cour, et la quête se rend sur place."
+  },
+  "1013": {
+   "objective": "Apportez The Book of Ur à Keeper Bel'dugur dans l’Apothecarium.",
+   "note": "Le livre est posé sur une étagère dans la salle de Fenrus the Devourer."
+  },
+  "1014": {
+   "objective": "Tuez Archmage Arugal et rapportez sa tête à Dalar Dawnweaver au Sepulcher."
+  },
+  "1740": {
+   "objective": "Rapportez 3 Soran'ruk Fragments et 1 Large Soran'ruk Fragment à Doan Karhan dans The Barrens.",
+   "note": "Une quête de Warlock. Le grand fragment tombe sur les Shadowfang Darksouls du donjon, les petits sur les Twilight Acolytes de Blackfathom Deeps."
+  }
+ }
+}

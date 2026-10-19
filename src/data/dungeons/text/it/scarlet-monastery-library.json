@@ -1,0 +1,38 @@
+{
+ "location": "Tirisfal Glades, lo Scarlet Monastery",
+ "entrance": "Lo Scarlet Monastery all’estremità est di Tirisfal Glades, a /way 85.1 31.4. Ogni ala ha la sua porta; questa è aperta a tutti.",
+ "quests": {
+  "1050": {
+   "objective": "Trova il libro Mythology of the Titans e portalo a Librarian Mae Paledust a Ironforge.",
+   "note": "Si trova sugli scaffali della Gallery of Treasures."
+  },
+  "96800": {
+   "objective": "Trova il libro The Lost Magic of the Runemasters e portalo a Magus Olvek a Dalaran.",
+   "note": "Nuova in Forever."
+  },
+  "1053": {
+   "objective": "Uccidi High Inquisitor Whitemane, Scarlet Commander Mograine, Herod e Houndmaster Loksey e torna da Raleigh the Devout a Southshore.",
+   "note": "La fine di una catena che inizia con Brother Anton. I boss sono sparsi tra la Library, l’Armory e la Cathedral."
+  },
+  "1113": {
+   "objective": "Raccogli 20 Hearts of Zeal dalla Scarlet Crusade.",
+   "note": "Cadono dai boss e dai mostri Scarlet in tutte e quattro le ali. La missione segue Going, Going, Guano! di Razorfen Kraul."
+  },
+  "1160": {
+   "objective": "Trova The Beginnings of the Undead Threat nell’Athenaeum e portalo a Parqual Fintallas a Undercity.",
+   "note": "Parte di una lunga catena che inizia con Test of Faith."
+  },
+  "1049": {
+   "objective": "Trova il Compendium of the Fallen nell’Athenaeum e portalo a Sage Truthseeker a Thunder Bluff.",
+   "note": "Gli Undead non possono prendere questa missione."
+  },
+  "1048": {
+   "objective": "Uccidi High Inquisitor Whitemane, Scarlet Commander Mograine, Herod e Houndmaster Loksey e torna da Varimathras a Undercity.",
+   "note": "I boss sono sparsi tra la Library, l’Armory e la Cathedral."
+  },
+  "1951": {
+   "objective": "Trova il libro Rituals of Power nell’Athenaeum e portalo a Tabetha a Dustwallow Marsh.",
+   "note": "Una missione da Mage alla fine di una catena che inizia con Journey to the Marsh, da Magus Tirth a Thousand Needles."
+  }
+ }
+}

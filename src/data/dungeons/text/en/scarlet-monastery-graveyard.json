@@ -1,0 +1,14 @@
+{
+ "location": "Tirisfal Glades, the Scarlet Monastery",
+ "entrance": "The Scarlet Monastery at the eastern end of Tirisfal Glades, at /way 85.1 31.4. Each wing has its own door; this one is open to everyone.",
+ "quests": {
+  "1113": {
+   "objective": "Collect 20 Hearts of Zeal from the Scarlet Crusade.",
+   "note": "They drop from Scarlet bosses and monsters in all four wings. The quest follows Going, Going, Guano! from Razorfen Kraul."
+  },
+  "1051": {
+   "objective": "Bring the wedding ring of Vorrel Sengutz to Monika Sengutz in Tarren Mill.",
+   "note": "Vorrel is held in the room of Interrogator Vishas."
+  }
+ }
+}

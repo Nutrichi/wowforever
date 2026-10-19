@@ -53,9 +53,7 @@ const words = {
     bossesTitle: 'The bosses',
     noQuests: 'No quests for this dungeon are known yet.',
     mapTitle: 'Map of the dungeon',
-    mapEntrance: 'Entrance',
-    mapSchematic: 'Schematic map, not to scale. The game has no map of this dungeon.',
-    mapBlizzard: 'The map of the dungeon from the game, with our markers.',
+    mapBlizzard: 'Blizzard\'s map of this dungeon from World of Warcraft. The numbers are the bosses, in the order of the Loot tab.',
   },
   nl: {
     tabLoot: 'Loot',
@@ -104,9 +102,7 @@ const words = {
     bossesTitle: 'De bazen',
     noQuests: 'Er zijn nog geen quests bekend voor deze dungeon.',
     mapTitle: 'Kaart van de dungeon',
-    mapEntrance: 'Ingang',
-    mapSchematic: 'Schematische kaart, niet op schaal. Het spel heeft geen kaart van deze dungeon.',
-    mapBlizzard: 'De kaart van de dungeon uit het spel, met onze markeringen.',
+    mapBlizzard: 'De kaart van deze dungeon van Blizzard, uit World of Warcraft. De cijfers zijn de bazen, in de volgorde van de tab Loot.',
   },
   fr: {
     tabLoot: 'Butin',
@@ -155,9 +151,7 @@ const words = {
     bossesTitle: 'Les boss',
     noQuests: 'Aucune quête n’est encore connue pour ce donjon.',
     mapTitle: 'Carte du donjon',
-    mapEntrance: 'Entrée',
-    mapSchematic: 'Carte schématique, pas à l’échelle. Le jeu n’a pas de carte de ce donjon.',
-    mapBlizzard: 'La carte du donjon tirée du jeu, avec nos repères.',
+    mapBlizzard: 'La carte de ce donjon par Blizzard, tirée de World of Warcraft. Les numéros sont les boss, dans l’ordre de l’onglet Loot.',
   },
   es: {
     tabLoot: 'Botín',
@@ -206,9 +200,7 @@ const words = {
     bossesTitle: 'Los jefes',
     noQuests: 'Aún no se conocen misiones para esta mazmorra.',
     mapTitle: 'Mapa de la mazmorra',
-    mapEntrance: 'Entrada',
-    mapSchematic: 'Mapa esquemático, no a escala. El juego no tiene mapa de esta mazmorra.',
-    mapBlizzard: 'El mapa de la mazmorra del juego, con nuestras marcas.',
+    mapBlizzard: 'El mapa de esta mazmorra de Blizzard, de World of Warcraft. Los números son los jefes, en el orden de la pestaña Loot.',
   },
   it: {
     tabLoot: 'Bottino',
@@ -257,9 +249,7 @@ const words = {
     bossesTitle: 'I boss',
     noQuests: 'Per questo dungeon non si conoscono ancora missioni.',
     mapTitle: 'Mappa del dungeon',
-    mapEntrance: 'Ingresso',
-    mapSchematic: 'Mappa schematica, non in scala. Il gioco non ha una mappa di questo dungeon.',
-    mapBlizzard: 'La mappa del dungeon dal gioco, con i nostri segnaposto.',
+    mapBlizzard: 'La mappa di questo dungeon di Blizzard, da World of Warcraft. I numeri sono i boss, nell’ordine della scheda Loot.',
   },
   de: {
     tabLoot: 'Beute',
@@ -308,9 +298,7 @@ const words = {
     bossesTitle: 'Die Bosse',
     noQuests: 'Für diesen Dungeon sind noch keine Quests bekannt.',
     mapTitle: 'Karte des Dungeons',
-    mapEntrance: 'Eingang',
-    mapSchematic: 'Schematische Karte, nicht maßstabsgetreu. Das Spiel hat keine Karte dieses Dungeons.',
-    mapBlizzard: 'Die Karte des Dungeons aus dem Spiel, mit unseren Markierungen.',
+    mapBlizzard: 'Die Karte dieses Dungeons von Blizzard, aus World of Warcraft. Die Zahlen sind die Bosse, in der Reihenfolge des Tabs Loot.',
   },
 } satisfies Record<Locale, Record<string, string>>;
 

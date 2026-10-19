@@ -62,6 +62,13 @@ export default defineConfig({
     '/es/compare/restedxp-vs-joana': '/es/compare/restedxp-vs-zygor',
     '/it/compare/restedxp-vs-joana': '/it/compare/restedxp-vs-zygor',
     '/de/compare/restedxp-vs-joana': '/de/compare/restedxp-vs-zygor',
+    // Scarlet Monastery in vier vleugels (19 oktober 2026): de oude pagina stuurt door naar de Graveyard.
+    '/guides/dungeons/scarlet-monastery': '/guides/dungeons/scarlet-monastery-graveyard',
+    '/nl/guides/dungeons/scarlet-monastery': '/nl/guides/dungeons/scarlet-monastery-graveyard',
+    '/fr/guides/dungeons/scarlet-monastery': '/fr/guides/dungeons/scarlet-monastery-graveyard',
+    '/es/guides/dungeons/scarlet-monastery': '/es/guides/dungeons/scarlet-monastery-graveyard',
+    '/it/guides/dungeons/scarlet-monastery': '/it/guides/dungeons/scarlet-monastery-graveyard',
+    '/de/guides/dungeons/scarlet-monastery': '/de/guides/dungeons/scarlet-monastery-graveyard',
     '/guides/ruins-of-lordaeron': '/guides/dungeons/ruins-of-lordaeron',
     '/guides/hall-of-thanes-quests': '/guides/dungeons/hall-of-thanes',
     '/nl/guides/ruins-of-lordaeron': '/nl/guides/dungeons/ruins-of-lordaeron',
@@ -100,7 +107,7 @@ export default defineConfig({
     '/de/bis/forever/p3': '/de/forever/',
 
     /*
-     * De korte link wowforever.be/rxp staat hier niet meer, maar in
+     * De korte link wowforever.be/rxp (en zo ook /journey, public/journey.html) staat hier niet meer, maar in
      * public/rxp.html (Nutri, 6 oktober 2026: "I want to go INSTANT to my
      * referral link. No delay."). Een redirect van Astro wordt rxp/index.html:
      * GitHub stuurt /rxp dan eerst door naar /rxp/, en de pagina toont

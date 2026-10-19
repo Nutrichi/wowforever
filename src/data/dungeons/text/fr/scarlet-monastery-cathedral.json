@@ -1,0 +1,18 @@
+{
+ "location": "Tirisfal Glades, le Scarlet Monastery",
+ "entrance": "Le Scarlet Monastery à l’extrémité est de Tirisfal Glades, en /way 85.1 31.4. La porte de cette aile demande The Scarlet Key de la Library, ou un Rogue avec Lockpicking 175.",
+ "quests": {
+  "1053": {
+   "objective": "Tuez High Inquisitor Whitemane, Scarlet Commander Mograine, Herod et Houndmaster Loksey, puis retournez voir Raleigh the Devout à Southshore.",
+   "note": "La fin d’une chaîne qui commence avec Brother Anton. Les boss sont répartis entre la Library, l’Armory et la Cathedral."
+  },
+  "1113": {
+   "objective": "Rassemblez 20 Hearts of Zeal sur la Scarlet Crusade.",
+   "note": "Ils tombent sur les boss et les monstres Scarlet des quatre ailes. La quête suit Going, Going, Guano! de Razorfen Kraul."
+  },
+  "1048": {
+   "objective": "Tuez High Inquisitor Whitemane, Scarlet Commander Mograine, Herod et Houndmaster Loksey, puis retournez voir Varimathras à l’Undercity.",
+   "note": "Les boss sont répartis entre la Library, l’Armory et la Cathedral."
+  }
+ }
+}

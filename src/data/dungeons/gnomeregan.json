@@ -1,0 +1,698 @@
+{
+ "slug": "gnomeregan",
+ "levels": "29–38",
+ "bosses": [
+  {
+   "name": "Grubbis",
+   "slug": "grubbis",
+   "level": "32",
+   "npc": 7361,
+   "items": [
+    9445,
+    274042,
+    274043
+   ]
+  },
+  {
+   "name": "Viscous Fallout",
+   "slug": "viscous-fallout",
+   "level": "30",
+   "npc": 7079,
+   "items": [
+    9454,
+    9453,
+    9452
+   ]
+  },
+  {
+   "name": "Electrocutioner 6000",
+   "slug": "electrocutioner-6000",
+   "level": "32",
+   "npc": 6235,
+   "items": [
+    9447,
+    9446,
+    9448,
+    6893
+   ]
+  },
+  {
+   "name": "Crowd Pummeler 9-60",
+   "slug": "crowd-pummeler-9-60",
+   "level": "32",
+   "npc": 6229,
+   "items": [
+    9449,
+    9450,
+    274049,
+    274068
+   ]
+  },
+  {
+   "name": "Mekgineer Thermaplugg",
+   "slug": "mekgineer-thermaplugg",
+   "level": "34",
+   "npc": 7800,
+   "items": [
+    9461,
+    9458,
+    4415,
+    4413,
+    4411,
+    7742,
+    9492,
+    9459
+   ]
+  }
+ ],
+ "loose": [
+  9491,
+  9510,
+  9488,
+  9486,
+  11827,
+  9444,
+  9455,
+  9456,
+  9457,
+  9508,
+  9509,
+  9487,
+  9485,
+  9490,
+  9489,
+  11826,
+  9327,
+  7191,
+  9308,
+  9326,
+  9279,
+  9280,
+  9282,
+  9281,
+  9316,
+  6672,
+  7192,
+  7560
+ ],
+ "quests": [
+  {
+   "id": 2922,
+   "name": "Save Techbot's Brain!",
+   "level": 26,
+   "minLevel": 20,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Tinkmaster Overspark",
+     "kind": "npc",
+     "npc": 7944,
+     "zone": "Ironforge",
+     "at": {
+      "x": 69.4,
+      "y": 50.4
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 108
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Tinkmaster Overspark",
+     "kind": "npc",
+     "npc": 7944,
+     "zone": "Ironforge",
+     "at": {
+      "x": 69.4,
+      "y": 50.4
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 108
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Tinkmaster Overspark",
+     "id": 2923,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 2930,
+   "name": "Data Rescue",
+   "level": 30,
+   "minLevel": 25,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": "Gnomeregan +200",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Master Mechanic Castpipe",
+     "kind": "npc",
+     "npc": 7950,
+     "zone": "Ironforge",
+     "at": {
+      "x": 69.8,
+      "y": 48.4
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 110
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Master Mechanic Castpipe",
+     "kind": "npc",
+     "npc": 7950,
+     "zone": "Ironforge",
+     "at": {
+      "x": 69.8,
+      "y": 48.4
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 110
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Castpipe's Task",
+     "id": 2931,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [
+    9605,
+    9604
+   ],
+   "choice": true
+  },
+  {
+   "id": 2924,
+   "name": "Essential Artificials",
+   "level": 30,
+   "minLevel": 24,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": "Gnomeregan +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Klockmort Spannerspan",
+     "kind": "npc",
+     "npc": 6169,
+     "zone": "Ironforge",
+     "at": {
+      "x": 68.2,
+      "y": 46.2
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 98
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Klockmort Spannerspan",
+     "kind": "npc",
+     "npc": 6169,
+     "zone": "Ironforge",
+     "at": {
+      "x": 68.2,
+      "y": 46.2
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 98
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Klockmort's Essentials",
+     "id": 2925,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 2928,
+   "name": "Gyrodrillmatic Excavationators",
+   "level": 30,
+   "minLevel": 20,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": "Gnomeregan +100 · Stormwind +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Shoni the Shilent",
+     "kind": "npc",
+     "npc": 6579,
+     "zone": "Stormwind City",
+     "at": {
+      "x": 62.6,
+      "y": 34.2
+     },
+     "taxi": {
+      "name": "Stormwind, Elwynn",
+      "yards": 468
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Shoni the Shilent",
+     "kind": "npc",
+     "npc": 6579,
+     "zone": "Stormwind City",
+     "at": {
+      "x": 62.6,
+      "y": 34.2
+     },
+     "taxi": {
+      "name": "Stormwind, Elwynn",
+      "yards": 468
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    9608,
+    9609,
+    270045
+   ],
+   "choice": true
+  },
+  {
+   "id": 2962,
+   "name": "The Only Cure is More Green Glow",
+   "level": 30,
+   "minLevel": 20,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Ozzie Togglevolt",
+     "kind": "npc",
+     "npc": 1268,
+     "zone": "Dun Morogh",
+     "place": "Kharanos",
+     "at": {
+      "x": 45.9,
+      "y": 49.4
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 972
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Ozzie Togglevolt",
+     "kind": "npc",
+     "npc": 1268,
+     "zone": "Dun Morogh",
+     "place": "Kharanos",
+     "at": {
+      "x": 45.9,
+      "y": 49.4
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 972
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Day After",
+     "id": 2927,
+     "optional": false
+    },
+    {
+     "name": "Gnogaine",
+     "id": 2926,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 2929,
+   "name": "The Grand Betrayal",
+   "level": 35,
+   "minLevel": 25,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": "Gnomeregan +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "High Tinker Mekkatorque",
+     "kind": "npc",
+     "npc": null,
+     "zone": "Ironforge",
+     "at": {
+      "x": 69,
+      "y": 49
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 104
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "High Tinker Mekkatorque",
+     "kind": "npc",
+     "npc": null,
+     "zone": "Ironforge",
+     "at": {
+      "x": 69,
+      "y": 49
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 104
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    9623,
+    9624,
+    9625
+   ],
+   "choice": true
+  },
+  {
+   "id": 2841,
+   "name": "Rig Wars",
+   "level": 35,
+   "minLevel": 25,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": "Orgrimmar +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Nogg",
+     "kind": "npc",
+     "npc": null,
+     "zone": "Orgrimmar",
+     "at": {
+      "x": 75.8,
+      "y": 25.2
+     },
+     "taxi": {
+      "name": "Orgrimmar, Durotar",
+      "yards": 560
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Nogg",
+     "kind": "npc",
+     "npc": null,
+     "zone": "Orgrimmar",
+     "at": {
+      "x": 75.8,
+      "y": 25.2
+     },
+     "taxi": {
+      "name": "Orgrimmar, Durotar",
+      "yards": 560
+     }
+    }
+   ],
+   "chain": [],
+   "next": [
+    {
+     "name": "Chief Engineer Scooty",
+     "id": 2842,
+     "optional": false
+    },
+    {
+     "name": "Gnomer-gooooone!",
+     "id": 2843,
+     "optional": false
+    }
+   ],
+   "rewards": [
+    9623,
+    9624,
+    9625
+   ],
+   "choice": true
+  },
+  {
+   "id": 2904,
+   "name": "A Fine Mess",
+   "level": 30,
+   "minLevel": 24,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Kernobee",
+     "kind": "npc",
+     "npc": 7850,
+     "zone": "Gnomeregan"
+    }
+   ],
+   "to": [
+    {
+     "name": "Scooty",
+     "kind": "npc",
+     "npc": 7853,
+     "zone": "Stranglethorn Vale",
+     "place": "Booty Bay",
+     "at": {
+      "x": 27.6,
+      "y": 77.5
+     },
+     "taxi": {
+      "name": "Booty Bay, Stranglethorn",
+      "yards": 9
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    9535,
+    9536,
+    270042
+   ],
+   "choice": true
+  },
+  {
+   "id": 2951,
+   "name": "The Sparklematic 5200!",
+   "level": 30,
+   "minLevel": 25,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "The Sparklematic 5200",
+     "kind": "object",
+     "object": null,
+     "zone": "Gnomeregan"
+    }
+   ],
+   "to": [
+    {
+     "name": "The Sparklematic 5200",
+     "kind": "object",
+     "object": null,
+     "zone": "Gnomeregan"
+    }
+   ],
+   "chain": [],
+   "next": [
+    {
+     "name": "The Sparklematic 5200!",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "More Sparklematic Action",
+     "id": null,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 2945,
+   "name": "Grime-Encrusted Ring",
+   "level": 34,
+   "minLevel": 28,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Grime-Encrusted Ring",
+     "kind": "item",
+     "item": 9326,
+     "zone": "Gnomeregan",
+     "drop": "Dark Iron Agent"
+    }
+   ],
+   "to": [
+    {
+     "name": "The Sparklematic 5200",
+     "kind": "object",
+     "object": null,
+     "zone": "Gnomeregan"
+    }
+   ],
+   "chain": [],
+   "next": [
+    {
+     "name": "Return of the Ring",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "Gnome Improvement",
+     "id": 2948,
+     "optional": false
+    },
+    {
+     "name": "Return of the Ring",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "Nogg's Ring Redo",
+     "id": 2950,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false
+  }
+ ],
+ "cards": {
+  "4411": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=4411\">Schematic: Flame Deflector</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Requires Engineering (125)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to make a Flame Deflector.\"</span></div></div>",
+  "4413": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=4413\">Schematic: Discombobulator Ray</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Requires Engineering (160)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to make a Discombobulator Ray.\"</span></div></div>",
+  "4415": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=4415\">Schematic: Craftsman's Monocle</a><span class=\"wf-item__line wf-item__meta\">Item Level 37</span><span class=\"wf-item__line\">Requires Engineering (185)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to make a Craftsman's Monocle.\"</span></div></div>",
+  "6672": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=6672\">Schematic: Flash Bomb</a><span class=\"wf-item__line wf-item__meta\">Item Level 37</span><span class=\"wf-item__line\">Requires Engineering (185)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to make a Flash Bomb.\"</span></div></div>",
+  "6893": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_key_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=6893\">Workshop Key</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span></div></div>",
+  "7191": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_gear_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=7191\">Fused Wiring</a><span class=\"wf-item__line wf-item__meta\">Item Level 26</span><span class=\"wf-item__line\">Crafting Reagent</span><span class=\"wf-item__line\">Max Stack: 5</span></div></div>",
+  "7192": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=7192\">Schematic: Goblin Rocket Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 26</span><span class=\"wf-item__line\">Requires Engineering (130)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to make Goblin Rocket Boots.\"</span></div></div>",
+  "7560": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=7560\">Schematic: Gnomish Universal Remote</a><span class=\"wf-item__line wf-item__meta\">Item Level 25</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Requires Engineering (125)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to make a Gnomish Universal Remote.\"</span></div></div>",
+  "7742": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=7742\">Schematic: Gnomish Cloaking Device</a><span class=\"wf-item__line wf-item__meta\">Item Level 40</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Requires Engineering (200)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to make a Gnomish Cloaking Device.\"</span></div></div>",
+  "9279": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_ingot_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=9279\">White Punch Card</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line wf-item__meta\">\"Grants access to Matrix Punchograph 3005-A\"</span><span class=\"wf-item__line\">&lt;Right Click to Read&gt;</span></div></div>",
+  "9280": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_ingot_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=9280\">Yellow Punch Card</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Quest Item</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line wf-item__meta\">\"Grants access to Matrix Punchograph 3005-B\"</span><span class=\"wf-item__line\">&lt;Right Click to Read&gt;</span></div></div>",
+  "9281": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_ingot_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=9281\">Red Punch Card</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Quest Item</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line wf-item__meta\">\"Grants access to Matrix Punchograph 3005-D\"</span><span class=\"wf-item__line\">&lt;Right Click to Read&gt;</span></div></div>",
+  "9282": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_ingot_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=9282\">Blue Punch Card</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Quest Item</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line wf-item__meta\">\"Grants access to Matrix Punchograph 3005-C\"</span><span class=\"wf-item__line\">&lt;Right Click to Read&gt;</span></div></div>",
+  "9308": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_ammo_firetar.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=9308\">Grime-Encrusted Object</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line wf-item__meta\">\"Caked grime obscures the true identity of this object.\"</span><span class=\"wf-item__line\">Max Stack: 20</span></div></div>",
+  "9316": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_ingot_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=9316\">Prismatic Punch Card</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Quest Item</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line wf-item__meta\">\"Data card only\"</span><span class=\"wf-item__line\">&lt;Right Click to Read&gt;</span></div></div>",
+  "9326": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_stone_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=9326\">Grime-Encrusted Ring</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">This Item Begins a Quest</span><span class=\"wf-item__line\">Requires Level 28</span></div></div>",
+  "9327": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_ingot_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=9327\">Security DELTA Data Access Card</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">Requires Engineering (1)</span></div></div>",
+  "9444": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=9444\">Techbot CPU Shell</a><span class=\"wf-item__line wf-item__meta\">Item Level 26</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">475 Armor</span><span class=\"wf-item__line\">9 Block</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 21</span></div></div>",
+  "9445": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9445\">Grubbis Paws</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Mail</span></span><span class=\"wf-item__line\">144 Armor</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">+9 Spirit</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 29</span></div></div>",
+  "9446": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_30.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9446\">Electrocutioner Leg</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>26 - 49 Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(22.06 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 29</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Blasts a target for 19 to 37 Nature damage. Mechanical targets take 2x damage.</span></div></div>",
+  "9447": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_gear_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9447\">Electrocutioner Lagnut</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line\">Requires Level 29</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 9 and damage done by up to 3 for all magical spells and effects.</span></div></div>",
+  "9448": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bandage_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9448\">Spidertank Oilrag</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Cloth</span></span><span class=\"wf-item__line\">22 Armor</span><span class=\"wf-item__line\">Restores +3 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 25 / 25</span><span class=\"wf-item__line\">Requires Level 29</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 9.</span></div></div>",
+  "9449": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mace_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9449\">Manual Crowd Pummeler</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>46 - 70 Damage</span><span>Speed 2.00</span></span><span class=\"wf-item__line\">(29.00 damage per second)</span><span class=\"wf-item__line\">+16 Strength</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 29</span><span class=\"wf-item__line wf-item__use\">Use: Increases your attack speed by 50% for 30 sec. (3 Min Cooldown)</span><span class=\"wf-item__line\">3 Charges</span></div></div>",
+  "9450": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9450\">Gnomebot Operating Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Leather</span></span><span class=\"wf-item__line\">76 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 29</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 11 and damage done by up to 4 for all magical spells and effects.</span></div></div>",
+  "9452": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9452\">Hydrocane</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>44 - 67 Damage</span><span>Speed 2.80</span></span><span class=\"wf-item__line\">(19.82 damage per second)</span><span class=\"wf-item__line\">+15 Frost Resistance</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 27</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 36.</span><span class=\"wf-item__line wf-item__use\">Equip: Underwater Breath lasts 50% longer than normal.</span></div></div>",
+  "9453": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9453\">Toxic Revenger</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>27 - 51 Damage</span><span>Speed 1.90</span></span><span class=\"wf-item__line\">(20.53 damage per second)</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 27</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Deals 14 Nature damage every 3 sec to any enemy in an 8 yard radius around the caster for 12 sec.</span></div></div>",
+  "9454": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9454\">Acidic Walkers</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Cloth</span></span><span class=\"wf-item__line\">34 Armor</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">+5 Nature Resistance</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 27</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 5.</span></div></div>",
+  "9455": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9455\">Emissary Cuffs</a><span class=\"wf-item__line wf-item__meta\">Item Level 35</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Leather</span></span><span class=\"wf-item__line\">49 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">+6 Arcane Resistance</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line\">Requires Level 30</span></div></div>",
+  "9456": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_rifle_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9456\">Glass Shooter</a><span class=\"wf-item__line wf-item__meta\">Item Level 35</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Gun</span></span><span class=\"wf-item__row\"><span>36 - 68 Damage</span><span>Speed 2.90</span></span><span class=\"wf-item__line\">(17.93 damage per second)</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 30</span><span class=\"wf-item__line wf-item__use\">Equip: +12 Attack Power.</span></div></div>",
+  "9457": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mace_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9457\">Royal Diplomatic Scepter</a><span class=\"wf-item__line wf-item__meta\">Item Level 35</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>24 - 46 Damage</span><span>Speed 2.30</span></span><span class=\"wf-item__line\">(15.22 damage per second)</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 30</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 75 and damage done by up to 25 for all magical spells and effects.</span></div></div>",
+  "9458": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9458\">Thermaplugg's Central Core</a><span class=\"wf-item__line wf-item__meta\">Item Level 36</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">776 Armor</span><span class=\"wf-item__line\">17 Block</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 31</span><span class=\"wf-item__line wf-item__use\">Equip: When struck in combat has a 5% chance of inflicting 65 to 121 Nature damage to the attacker. (Proc chance: 5%)</span></div></div>",
+  "9459": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9459\">Thermaplugg's Left Arm</a><span class=\"wf-item__line wf-item__meta\">Item Level 36</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>67 - 102 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(31.30 damage per second)</span><span class=\"wf-item__line\">+17 Strength</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+4 Intellect</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 31</span></div></div>",
+  "9461": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_gear_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9461\">Charged Gear</a><span class=\"wf-item__line wf-item__meta\">Item Level 36</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">+5 Arcane Resistance</span><span class=\"wf-item__line\">+5 Nature Resistance</span><span class=\"wf-item__line\">Requires Level 31</span></div></div>",
+  "9485": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9485\">Vibroblade</a><span class=\"wf-item__line wf-item__meta\">Item Level 30</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>21 - 40 Damage</span><span>Speed 1.60</span></span><span class=\"wf-item__line\">(19.06 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 25</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Punctures target's armor, lowering it by 100.</span></div></div>",
+  "9486": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_21.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9486\">Supercharger Battle Axe</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>51 - 78 Damage</span><span>Speed 2.80</span></span><span class=\"wf-item__line\">(23.04 damage per second)</span><span class=\"wf-item__line\">Durability 95 / 95</span><span class=\"wf-item__line\">Requires Level 23</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Blasts a target for 93 to 117 Nature damage.</span></div></div>",
+  "9487": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_rifle_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9487\">Hi-Tech Supergun</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Ranged</span><span>Gun</span></span><span class=\"wf-item__row\"><span>23 - 43 Damage</span><span>Speed 2.30</span></span><span class=\"wf-item__line\">(14.35 damage per second)</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 24</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +3.</span></div></div>",
+  "9488": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9488\">Oscillating Power Hammer</a><span class=\"wf-item__line wf-item__meta\">Item Level 28</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>24 - 46 Damage</span><span>Speed 2.00</span></span><span class=\"wf-item__line\">(17.50 damage per second)</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+1 Stamina</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 23</span></div></div>",
+  "9489": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9489\">Gyromatic Icemaker</a><span class=\"wf-item__line wf-item__meta\">Item Level 31</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>29 - 56 Frost Damage</span><span>Speed 1.40</span></span><span class=\"wf-item__line\">(30.36 damage per second)</span><span class=\"wf-item__line\">+5 Frost Resistance</span><span class=\"wf-item__line\">Durability 55 / 55</span><span class=\"wf-item__line\">Requires Level 26</span></div></div>",
+  "9490": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_37.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9490\">Gizmotron Megachopper</a><span class=\"wf-item__line wf-item__meta\">Item Level 29</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>61 - 92 Damage</span><span>Speed 3.20</span></span><span class=\"wf-item__line\">(23.91 damage per second)</span><span class=\"wf-item__line\">+14 Strength</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 24</span></div></div>",
+  "9491": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_16.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9491\">Hotshot Pilot's Gloves</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Hands</span><span>Cloth</span></span><span class=\"wf-item__line\">31 Armor</span><span class=\"wf-item__line\">+4 Agility</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 27</span></div></div>",
+  "9492": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gizmo_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9492\">Electromagnetic Gigaflux Reactivator</a><span class=\"wf-item__line wf-item__meta\">Item Level 36</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Cloth</span></span><span class=\"wf-item__line\">43 Armor</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">+9 Spirit</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 31</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 8.</span><span class=\"wf-item__line wf-item__use\">Use: Channels a bolt of lightning and hurls it towards all enemies in front of the caster causing 189 to 209 Nature damage. The caster is then surrounded by a barrier of electricity for 5 min. (5 Min Cooldown)</span></div></div>",
+  "9508": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shirt_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9508\">Mechbuilder's Overalls</a><span class=\"wf-item__line wf-item__meta\">Item Level 31</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">48 Armor</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">+5 Arcane Resistance</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 26</span><span class=\"wf-item__line\">Requires Engineering (75)</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 8.</span></div></div>",
+  "9509": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9509\">Petrolspill Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 30</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">90 Armor</span><span class=\"wf-item__line\">+14 Agility</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 25</span><span class=\"wf-item__line wf-item__use\">Equip: Fire damage taken increased by 10%.</span><span class=\"wf-item__line wf-item__meta\">\"Keep away from fire.\"</span></div></div>",
+  "9510": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9510\">Caverndeep Trudgers</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">154 Armor</span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+40 Armor</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 27</span></div></div>",
+  "9535": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=9535\">Fire-welded Bracers</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Mail</span></span><span class=\"wf-item__line\">89 Armor</span><span class=\"wf-item__line\">+4 Agility</span><span class=\"wf-item__line\">+1 Stamina</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">Durability 35 / 35</span></div></div>",
+  "9536": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=9536\">Fairywing Mantle</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Cloth</span></span><span class=\"wf-item__line\">33 Armor</span><span class=\"wf-item__line\">+1 Stamina</span><span class=\"wf-item__line\">+6 Intellect</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 4.</span></div></div>",
+  "9604": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mace_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=9604\">Mechanic's Pipehammer</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>48 - 73 Damage</span><span>Speed 2.80</span></span><span class=\"wf-item__line\">(21.61 damage per second)</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">Durability 85 / 85</span></div></div>",
+  "9605": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=9605\">Repairman's Cape</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">22 Armor</span><span class=\"wf-item__line\">+3 Intellect</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 6 and damage done by up to 2 for all magical spells and effects.</span></div></div>",
+  "9608": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_wrench_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=9608\">Shoni's Disarming Tool</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>22 - 41 Damage</span><span>Speed 1.90</span></span><span class=\"wf-item__line\">(16.58 damage per second)</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Disarm target's weapon for 5 sec.</span></div></div>",
+  "9609": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_27.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=9609\">Shilly Mitts</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Cloth</span></span><span class=\"wf-item__line\">28 Armor</span><span class=\"wf-item__line\">+6 Spirit</span><span class=\"wf-item__line\">+40 Armor</span><span class=\"wf-item__line\">Durability 25 / 25</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 5.</span></div></div>",
+  "9623": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9623\">Civinad Robes</a><span class=\"wf-item__line wf-item__meta\">Item Level 37</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">54 Armor</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+12 Spirit</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 26 and damage done by up to 9 for all magical spells and effects.</span></div></div>",
+  "9624": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9624\">Triprunner Dungarees</a><span class=\"wf-item__line wf-item__meta\">Item Level 37</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">101 Armor</span><span class=\"wf-item__line\">+3 Strength</span><span class=\"wf-item__line\">+18 Agility</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">Durability 75 / 75</span></div></div>",
+  "9625": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9625\">Dual Reinforced Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 37</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Mail</span></span><span class=\"wf-item__line\">211 Armor</span><span class=\"wf-item__line\">+12 Strength</span><span class=\"wf-item__line\">+120 Armor</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +5.</span></div></div>",
+  "11826": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mechagon_spareparts.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=11826\">Lil' Smoky</a><span class=\"wf-item__line wf-item__meta\">Item Level 41</span><span class=\"wf-item__line wf-item__use\">Use: Teaches you how to summon this companion.</span><span class=\"wf-item__line\">Right Click to summon and dismiss your robot.</span></div></div>",
+  "11827": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=11827\">Schematic: Lil' Smoky</a><span class=\"wf-item__line wf-item__meta\">Item Level 40</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Requires Engineering (205)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to make your own Lil' Smoky robot.\"</span></div></div>",
+  "270042": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=270042\">Technician's Bracers</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Leather</span></span><span class=\"wf-item__line\">42 Armor</span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">+4 Intellect</span><span class=\"wf-item__line\">Durability 30 / 30</span></div></div>",
+  "270045": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_22.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=270045\">Operator's Gloves</a><span class=\"wf-item__line wf-item__meta\">Item Level 32</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Leather</span></span><span class=\"wf-item__line\">60 Armor</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+4 Stamina</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">Durability 30 / 30</span></div></div>",
+  "274042": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=274042\">Skullduggery Belt</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Leather</span></span><span class=\"wf-item__line\">62 Armor</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line\">Requires Level 29</span><span class=\"wf-item__line wf-item__use\">Equip: +16 Attack Power.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases your effective stealth level by 1.</span></div></div>",
+  "274043": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=274043\">Irradiated Shield</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">738 Armor</span><span class=\"wf-item__line\">16 Block</span><span class=\"wf-item__line\">-10 Stamina</span><span class=\"wf-item__line\">+9 Spirit</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 29</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by Nature spells and effects by up to 14.</span></div></div>",
+  "274049": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=274049\">Schematic: 9-60 Battery Pack</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Requires Engineering (125)</span><span class=\"wf-item__line wf-item__meta\">\"Teaches you how to make a 9-60 Battery Pack.\"</span></div></div>",
+  "274068": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_amulet_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=274068\">Thermaplugg Medal of Honor</a><span class=\"wf-item__line wf-item__meta\">Item Level 34</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">+6 Spirit</span><span class=\"wf-item__line\">Requires Level 29</span><span class=\"wf-item__line wf-item__use\">Equip: +10 Attack Power.</span><span class=\"wf-item__line wf-item__meta\">\"Azeroth's Best Pummeler\"</span></div></div>"
+ }
+}

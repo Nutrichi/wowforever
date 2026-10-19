@@ -1,0 +1,158 @@
+{
+ "location": "Wetlands, a sud-est di Whelgar's Excavation Site",
+ "entrance": "Sulla collina a sud-est di Whelgar's Excavation Site nelle Wetlands, a /way 47.8 56.3. Nuove strade salgono la collina; in Classic questa parte delle Wetlands era irraggiungibile.",
+ "quests": {
+  "95697": {
+   "objective": "Portate a Borstan 4 Thicket Raptor Meat dai raptor dello Stalker's Thicket.",
+   "note": "Borstan vende carne al piano di sopra di The Drag, nella stessa capanna di Zamja, l’istruttore di Cooking. Thicket Hunters, Thicket Lurkers e Thicket Stalkers lasciano la carne.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-borstan.jpg",
+     "alt": "Borstan con un punto esclamativo giallo nella sua capanna di The Drag a Orgrimmar, con la finestra di Changing Tastes aperta, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-thicket-raptors-meat.jpg",
+     "alt": "Un giocatore raccoglie Thicket Raptor Meat da un raptor nell’erba alta dello Stalker's Thicket, uno screenshot della beta di World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95682": {
+   "objective": "Uccidete 2 Dragonmaw Saboteurs e 4 Dragonmaw Warders, e riportate il Dragonmaw Dispatch da un Dragonmaw Thaumaturgist.",
+   "note": "Zaruk a Hammerfall, nelle Arathi Highlands, dà Dragonmaw Rumors, che vi manda dall’agente dietro una piccola collina. Il Dispatch cade nel 31% dei casi secondo il suo tooltip. La Bloody Map della ricompensa è una mappa vincolata con un testo in Dwarvish e una X; a cosa serva non si sa ancora.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-zaruk.jpg",
+     "alt": "Zaruk a Hammerfall con la finestra di Dragonmaw Rumors aperta, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-deathstalker-agent.jpg",
+     "alt": "La Deathstalker Agent nascosta dietro una collina nelle Wetlands, con la finestra di Open the Maw aperta, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-dragonmaw-dispatch.jpg",
+     "alt": "Un giocatore raccoglie il Dragonmaw Dispatch da un Dragonmaw Thaumaturgist vicino a un fuoco, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-bloody-map.jpg",
+     "alt": "Il testo della Bloody Map, un disegno grezzo del paesaggio con parole in Dwarvish, uno screenshot della beta di World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95664": {
+   "objective": "Portate la Titan Relic a Bashana Runetotem, in una tenda sull’Elder Rise di Thunder Bluff.",
+   "note": "La reliquia cade da Relic Guardian nel 25% dei casi secondo il suo tooltip. Bashana dà poi Earthen Echo: portate la reliquia a Muln Earthfury nella tenda più grande dello Skywatcher Plateau, la nuova zona a nord di Thunder Bluff, a /way 33.4 22.5. Il sentiero in salita parte intorno a /way 40.3 17.6.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-elder-knowledge.jpg",
+     "alt": "Un giocatore accanto ai resti di Relic Guardian con la finestra di Elder Knowledge aperta, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-bashana.jpg",
+     "alt": "Bashana Runetotem nella sua tenda sull’Elder Rise di Thunder Bluff, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-skywatcher-plateau-path.jpg",
+     "alt": "Il sentiero a nord di Thunder Bluff che sale sulle montagne di Mulgore, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-skywatcher-plateau-enter.jpg",
+     "alt": "Un passo erboso che sale verso lo Skywatcher Plateau, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-skywatcher-plateau-view.jpg",
+     "alt": "Le tende e i mulini dello Skywatcher Plateau in Mulgore, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-skywatcher-plateau-muln.jpg",
+     "alt": "Muln Earthfury nella tenda più grande dello Skywatcher Plateau, con la finestra di Earthen Echo aperta, uno screenshot della beta di World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95772": {
+   "objective": "Trovate Daewyn, il fratello di Dorin Songblade, nel dungeon.",
+   "note": "Daewyn giace morto in una tenda dell’accampamento Dragonmaw, poco dopo Shadetooth. Cliccate sul suo corpo per Fallen in the Fen, da consegnare a Dorin a Lakeshire dopo il dungeon.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-dorin.jpg",
+     "alt": "Dorin Songblade, l’Armorer di Lakeshire, con la finestra di Songblade Search aperta, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-daewyn.jpg",
+     "alt": "La tenda con il corpo di Daewyn nell’accampamento dei Dragonmaw, con la finestra di Fallen in the Fen aperta, uno screenshot della beta di World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95647": {
+   "objective": "Trovate Ardin Grassman, il marito di Caitlin, nel dungeon.",
+   "note": "Seeking Caitlin di Llana, la venditrice di reagenti di Astranaar, porta da Caitlin per un po’ di esperienza in più. Ardin sta su una struttura di legno vicino al Site of the Guardian; il suo Heartwoven chiede solo di tornare da Caitlin.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-caitlin.jpg",
+     "alt": "Caitlin Grassman nella sua casa di Menethil Harbor, con la finestra di Lost in the Thicket Things aperta, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-llana.jpg",
+     "alt": "Llana, la venditrice di reagenti di Astranaar, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-ardin.jpg",
+     "alt": "Ardin su una struttura di legno vicino al Site of the Guardian, con la finestra di Heartwoven aperta, uno screenshot della beta di World of Warcraft: Forever"
+    }
+   ]
+  },
+  "98815": {
+   "objective": "Portate a James Halloran 4 Thicket Raptor Hides dai raptor intorno a Shadetooth.",
+   "note": "Per ora ha un bug sulla beta: non conta come missione del dungeon e dà solo un po’ di esperienza e qualche moneta d’argento.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-james.jpg",
+     "alt": "James Halloran a Menethil Harbor con la finestra di Highland Hides aperta, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-raptor-hide.jpg",
+     "alt": "Un giocatore raccoglie una Thicket Raptor Hide da una Thicket Matriarch, uno screenshot della beta di World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95646": {
+   "objective": "Uccidete Highland Horror e portate lo Horrible Rootcore a Rethiel the Greenwarden.",
+   "note": "Rethiel dà questa missione solo dopo Tramping Paws, Fire Taboo e Blisters on the Land nelle Wetlands. Il rootcore cade nel 60% dei casi secondo il suo tooltip.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-tramping-paws.jpg",
+     "alt": "Uno gnoll Mosshide morto in un accampamento di gnoll nelle Wetlands, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-fire-taboo-gnolls.jpg",
+     "alt": "Gnoll Mosshide nel centro nebbioso delle Wetlands, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-fen-creeper.jpg",
+     "alt": "Un Fen Creeper, visibile solo come un contorno sbiadito nell’acqua delle Wetlands, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-horrible-rootcore.jpg",
+     "alt": "Un giocatore raccoglie l’Horrible Rootcore da Highland Horror, uno screenshot della beta di World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95810": {
+   "objective": "Portate la Titan Relic a Prospector Whelgar nella sua grotta di Whelgar's Excavation Site.",
+   "note": "La reliquia cade da Relic Guardian nel 28% dei casi secondo il suo tooltip. Whelgar dà poi Prehistoric Prism per High Explorer Magellas a Ironforge, a /way 69.4 19.1. Quella missione per ora non si può completare sulla beta.",
+   "shots": [
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-titan-relic.jpg",
+     "alt": "Un giocatore accanto ai resti di Relic Guardian con il Titan Relic nella finestra del bottino, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-prehistoric-prism.jpg",
+     "alt": "Prospector Whelgar nella sua grotta con la finestra di Prehistoric Prism aperta, uno screenshot della beta di World of Warcraft: Forever"
+    },
+    {
+     "file": "2026-10-06-wow-forever-excavation-site-prehistoric-prism-magellas.jpg",
+     "alt": "High Explorer Magellas nella Hall of Explorers di Ironforge, uno screenshot della beta di World of Warcraft: Forever"
+    }
+   ]
+  }
+ }
+}

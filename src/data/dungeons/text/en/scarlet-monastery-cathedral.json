@@ -1,0 +1,18 @@
+{
+ "location": "Tirisfal Glades, the Scarlet Monastery",
+ "entrance": "The Scarlet Monastery at the eastern end of Tirisfal Glades, at /way 85.1 31.4. The door of this wing needs The Scarlet Key from the Library, or a Rogue with Lockpicking 175.",
+ "quests": {
+  "1053": {
+   "objective": "Kill High Inquisitor Whitemane, Scarlet Commander Mograine, Herod and Houndmaster Loksey and report back to Raleigh the Devout in Southshore.",
+   "note": "The end of a chain that starts with Brother Anton. The bosses are spread over the Library, the Armory and the Cathedral."
+  },
+  "1113": {
+   "objective": "Collect 20 Hearts of Zeal from the Scarlet Crusade.",
+   "note": "They drop from Scarlet bosses and monsters in all four wings. The quest follows Going, Going, Guano! from Razorfen Kraul."
+  },
+  "1048": {
+   "objective": "Kill High Inquisitor Whitemane, Scarlet Commander Mograine, Herod and Houndmaster Loksey and report back to Varimathras in the Undercity.",
+   "note": "The bosses are spread over the Library, the Armory and the Cathedral."
+  }
+ }
+}

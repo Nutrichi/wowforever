@@ -1,0 +1,90 @@
+{
+ "location": "Westfall, sotto Moonbrook",
+ "entrance": "La Defias Hideout, il grande edificio nell’angolo sud-ovest di Moonbrook, a /way 42 72. Il portale è in fondo alle grotte sottostanti.",
+ "quests": {
+  "214": {
+   "objective": "Porta 10 Red Silk Bandanas. Ogni mostro con Defias nel nome può lasciarne una, e gli élite lo fanno quasi sempre.",
+   "note": "Scout Riell la offre quando hai iniziato la catena di The Defias Brotherhood.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-deadmines-defias-patrol.jpg",
+     "alt": "Un Defias Overseer e un Defias Evoker di pattuglia in The Deadmines, uno screenshot di World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-deadmines-defias-pirates.jpg",
+     "alt": "Defias Pirates sui moli della baia di The Deadmines, uno screenshot di World of Warcraft"
+    }
+   ]
+  },
+  "168": {
+   "objective": "Raccogli 4 Miners' Union Cards dai non morti della parte infestata della miniera, fuori dal dungeon: Undead Excavators, Skeletal Miners e Undead Dynamiters.",
+   "note": "Ogni non morto lì è élite. Foreman Thistlenettle non lascia le carte.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-wilder-thistlenettle.jpg",
+     "alt": "Wilder Thistlenettle con un punto esclamativo giallo in una taverna di Stormwind, uno screenshot di World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-deadmines-undead-mine.jpg",
+     "alt": "La parte infestata della miniera fuori da The Deadmines, con minatori non morti tra le travi, uno screenshot di World of Warcraft"
+    }
+   ]
+  },
+  "92753": {
+   "objective": "Piazza gli Extra-Destructive Explosives vicino alla forgia, nella sala di Gilnid, poi raggiungi Alba Fairmoon all’uscita di The Deadmines.",
+   "note": "Nuova in Forever, l’ultimo passaggio di una catena di sette missioni. La catena è su questa pagina, sopra la tabella."
+  },
+  "167": {
+   "objective": "Uccidi Foreman Thistlenettle in fondo alla parte infestata della miniera e porta il suo Explorers' League Badge a Wilder Thistlenettle.",
+   "note": "Un élite di livello 20 tra altri élite. Falla insieme a Collecting Memories.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-foreman-thistlenettle.jpg",
+     "alt": "Foreman Thistlenettle tra altri non morti in fondo alla miniera infestata, uno screenshot di World of Warcraft"
+    }
+   ]
+  },
+  "2040": {
+   "objective": "Porta il Gnoam Sprecklesprocket, lasciato da Sneed's Shredder, a Shoni the Shilent.",
+   "note": "La catena inizia da Gnoarn a Tinker Town, a Ironforge.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-shoni-the-shilent.jpg",
+     "alt": "Shoni the Shilent, che assegna Underground Assault a Stormwind, uno screenshot di World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-sneeds-shredder.jpg",
+     "alt": "Sneed's Shredder nel campo dei taglialegna di The Deadmines, uno screenshot di World of Warcraft"
+    }
+   ]
+  },
+  "166": {
+   "objective": "Uccidi Edwin VanCleef e porta la sua testa a Gryan Stoutmantle.",
+   "note": "L’ultima di sei missioni con lo stesso nome, che ti portano per Westfall, a Lakeshire e ritorno.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-gryan-stoutmantle.jpg",
+     "alt": "Gryan Stoutmantle a Sentinel Hill, Westfall, uno screenshot di World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-edwin-vancleef.jpg",
+     "alt": "Edwin VanCleef sul ponte superiore della sua nave in The Deadmines, uno screenshot di World of Warcraft"
+    }
+   ]
+  },
+  "373": {
+   "objective": "Porta An Unsent Letter, lasciata da Edwin VanCleef, a Baros Alexston nel municipio di Cathedral Square, a Stormwind.",
+   "note": "Il primo passo di una catena che prosegue in The Stockade.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-an-unsent-letter.jpg",
+     "alt": "La finestra della missione An Unsent Letter sulla nave, con il corpo di Edwin VanCleef sullo sfondo, uno screenshot di World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-baros-alexston.jpg",
+     "alt": "Baros Alexston nel City Hall di Cathedral Square a Stormwind, uno screenshot di World of Warcraft"
+    }
+   ]
+  }
+ }
+}

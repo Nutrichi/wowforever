@@ -1,0 +1,35 @@
+{
+ "location": "Alterac Mountains, the city of the Kirin Tor",
+ "entrance": "The Alliance goes in through a pipe from Cantrips & Crows in the Dalaran Sewers. The Horde enters through a tunnel outside the city, at /way 8.8 59.6. One player in the group needs the Dalaran Sewer Key.",
+ "quests": {
+  "92456": {
+   "objective": "Bring Shylamiir a Fel Infused Blossom from the City of Dalaran.",
+   "note": "Shylamiir stands in The Park of Stormwind."
+  },
+  "92458": {
+   "objective": "Collect the Arcane Mote inside the dungeon for the Image of Archmage Modera. Taking it gives you the Dalaran Sewer Key.",
+   "note": "An Alarming Request, from level 30, from Emissary Jacques in the town hall of Southshore leads to Modera. Afterwards Friend of the Kirin Tor asks you to speak to Archmage Celindra in the Violet Citadel."
+  },
+  "92489": {
+   "objective": "Kill the Mana Elemental for High Sorcerer Andromath in the Mage Quarter of Stormwind.",
+   "note": "The quest calls the boss Mana Elemental; in the dungeon and on the Loot tab it is Arcanic Enigma."
+  },
+  "96984": {
+   "objective": "Collect the Arcane Mote inside the dungeon and bring it to Magus Wordeen Voidglare in Tarren Mill. Taking it gives you the Dalaran Sewer Key.",
+   "note": "The last step of the chain from Tarren Mill on the Guide tab."
+  },
+  "96987": {
+   "objective": "Bring Rexxie Copperclutch the Founding of Dalaran, a book from inside the dungeon.",
+   "note": "Rexxie stands near the entrance of the sewers."
+  },
+  "96988": {
+   "objective": "Collect 6 Cracked Sentry Cores in the dungeon for Doctor Martin Felben in the Apothecarium of Undercity."
+  },
+  "96986": {
+   "objective": "Kill Atrexis the Grave Knight, the first boss, for Melisara in Tarren Mill."
+  },
+  "92457": {
+   "objective": "Kill 8 Seeking Remnants, 8 Saturated Remnants and 8 Mana Echoes for the Image of Archmage Modera outside the city."
+  }
+ }
+}

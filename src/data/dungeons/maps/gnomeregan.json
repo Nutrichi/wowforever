@@ -1,0 +1,53 @@
+{
+ "floors": [
+  {
+   "image": "gnomeregan-1.jpg",
+   "label": "The Hall of Gears",
+   "markers": [
+    {
+     "n": 1,
+     "x": 77.9,
+     "y": 67.0
+    }
+   ]
+  },
+  {
+   "image": "gnomeregan-2.jpg",
+   "label": "The Dormitory",
+   "markers": [
+    {
+     "n": 2,
+     "x": 76.0,
+     "y": 46.5
+    },
+    {
+     "n": 3,
+     "x": 24.3,
+     "y": 68.4
+    }
+   ]
+  },
+  {
+   "image": "gnomeregan-3.jpg",
+   "label": "Launch Bay",
+   "markers": [
+    {
+     "n": 4,
+     "x": 43.2,
+     "y": 88.3
+    }
+   ]
+  },
+  {
+   "image": "gnomeregan-4.jpg",
+   "label": "Tinkers' Court",
+   "markers": [
+    {
+     "n": 5,
+     "x": 31.1,
+     "y": 30.3
+    }
+   ]
+  }
+ ]
+}

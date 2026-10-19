@@ -1,0 +1,37 @@
+{
+ "location": "The Barrens, alla punta sud",
+ "entrance": "Tra i rovi della punta sud di The Barrens, a /way 42.3 89.9. Gira a ovest appena prima del Great Lift verso Thousand Needles.",
+ "quests": {
+  "1701": {
+   "objective": "Raccogli i materiali che chiede Furen Longbeard, tra cui la Vial of Phlogiston di Roogug, e portaglieli a Stormwind.",
+   "note": "Una missione da Warrior alla fine di una catena che inizia con Yorus Barleybrew."
+  },
+  "1142": {
+   "objective": "Trova Treshala's Pendant e portalo a Treshala Fallowbrook a Darnassus.",
+   "note": "Il corpo di Heralath Fallowbrook giace in una tenda prima dell’ultimo boss. Il ciondolo cade dai quilboar all’interno."
+  },
+  "1101": {
+   "objective": "Porta Razorflank's Medallion, lasciato da Charlga Razorflank, a Falfindel Waywarder a Thalanaar.",
+   "note": "Segue Lonebrow's Journal, che si trova sul corpo di un nano ai piedi del Great Lift."
+  },
+  "1838": {
+   "objective": "Porta a Thun'grim Firegaze 15 Smoky Iron Ingots, 10 Powdered Azurite, 10 Iron Bars e una Vial of Phlogiston.",
+   "note": "Una missione da Warrior. La fiala cade da Roogug."
+  },
+  "1109": {
+   "objective": "Porta un mucchio di Kraul Guano a Master Apothecary Faranell.",
+   "note": "Cade dai Kraul Bats nella grotta dei pipistrelli e porta a Hearts of Zeal in Scarlet Monastery."
+  },
+  "1102": {
+   "objective": "Porta Razorflank's Heart, lasciato da Charlga Razorflank, ad Auld Stonespire a Thunder Bluff."
+  },
+  "1221": {
+   "objective": "Evoca uno Snufflenose Gopher con la Crate with Holes, fallo scavare con il Command Stick e riporta 6 Blueleaf Tubers, il bastone e la cassa a Mebok Mizzyrix.",
+   "note": "Prendi la cassa, il bastone e il manuale accanto a Mebok a Ratchet prima di entrare."
+  },
+  "1144": {
+   "objective": "Scorta Willix the Importer fuori dal dungeon.",
+   "note": "È tenuto in una tenda prima dell’ultimo boss, e la scorta finisce all’ingresso."
+  }
+ }
+}

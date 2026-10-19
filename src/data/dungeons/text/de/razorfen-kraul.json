@@ -1,0 +1,37 @@
+{
+ "location": "The Barrens, an der Südspitze",
+ "entrance": "Im Dornengestrüpp an der Südspitze von The Barrens, bei /way 42.3 89.9. Bieg kurz vor dem Great Lift nach Thousand Needles nach Westen ab.",
+ "quests": {
+  "1701": {
+   "objective": "Sammle die Materialien, die Furen Longbeard verlangt, darunter die Vial of Phlogiston von Roogug, und bring sie ihm nach Stormwind.",
+   "note": "Eine Warrior-Quest am Ende einer Reihe, die bei Yorus Barleybrew beginnt."
+  },
+  "1142": {
+   "objective": "Finde Treshala's Pendant und bring es zu Treshala Fallowbrook in Darnassus.",
+   "note": "Die Leiche von Heralath Fallowbrook liegt in einem Zelt vor dem letzten Boss. Der Anhänger droppt bei den Quilboar drinnen."
+  },
+  "1101": {
+   "objective": "Bring Razorflank's Medallion, einen Drop von Charlga Razorflank, zu Falfindel Waywarder in Thalanaar.",
+   "note": "Sie folgt auf Lonebrow's Journal, das auf der Leiche eines Zwergs am Fuß des Great Lift liegt."
+  },
+  "1838": {
+   "objective": "Bring Thun'grim Firegaze 15 Smoky Iron Ingots, 10 Powdered Azurite, 10 Iron Bars und eine Vial of Phlogiston.",
+   "note": "Eine Warrior-Quest. Die Phiole droppt bei Roogug."
+  },
+  "1109": {
+   "objective": "Bring einen Haufen Kraul Guano zu Master Apothecary Faranell.",
+   "note": "Er droppt bei den Kraul Bats in der Fledermaushöhle und führt zu Hearts of Zeal in Scarlet Monastery."
+  },
+  "1102": {
+   "objective": "Bring Razorflank's Heart, einen Drop von Charlga Razorflank, zu Auld Stonespire in Thunder Bluff."
+  },
+  "1221": {
+   "objective": "Ruf mit der Crate with Holes einen Snufflenose Gopher, lass ihn mit dem Command Stick graben und bring 6 Blueleaf Tubers, den Stab und die Kiste zurück zu Mebok Mizzyrix.",
+   "note": "Nimm Kiste, Stab und Handbuch neben Mebok in Ratchet mit, bevor du hineingehst."
+  },
+  "1144": {
+   "objective": "Begleite Willix the Importer aus dem Dungeon.",
+   "note": "Er wird in einem Zelt vor dem letzten Boss festgehalten, und die Eskorte endet am Eingang."
+  }
+ }
+}

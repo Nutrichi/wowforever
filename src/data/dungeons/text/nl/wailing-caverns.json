@@ -1,0 +1,34 @@
+{
+ "location": "The Barrens, onder de Lushwater Oasis",
+ "entrance": "De grotopening ligt in het ravijn ten zuiden van de Lushwater Oasis, op /way 46.0 36.3. Het pad slingert naar beneden tot een grot met een vijver, waar het portaal is.",
+ "quests": {
+  "962": {
+   "objective": "Pluk 10 Serpentbloom, planten die op de wanden van de dungeon en van de grotten voor het portaal groeien.",
+   "note": "Er zijn er weinig, dus niet iedereen in een groep raakt in één run klaar."
+  },
+  "914": {
+   "objective": "Dood de vier Lords of the Fang, Lady Anacondra, Lord Cobrahn, Lord Pythas en Lord Serpentis, en breng hun edelstenen naar Nara Wildmane.",
+   "note": "De laatste quest van een reeks die begint met The Barrens Oases van Tonga Runetotem in de Crossroads."
+  },
+  "1486": {
+   "objective": "Verzamel 20 Deviate Hides. De meeste beesten in de dungeon laten ze vallen.",
+   "note": "Nalpak staat in de grot boven de ingang, voor het portaal."
+  },
+  "1491": {
+   "objective": "Verzamel 6 porties Wailing Essence van de Devouring, Evolving en Nightmare Ectoplasms.",
+   "note": "Mebok Mizzyrix geeft deze quest pas na Raptor Horns."
+  },
+  "959": {
+   "objective": "Dood Mad Magglish en breng de fles 99-Year-Old Port terug naar Crane Operator Bigglefuzz.",
+   "note": "Mad Magglish is een elite in de grot buiten het portaal, bij Nalpak, op /way 46.1 35.8."
+  },
+  "1487": {
+   "objective": "Dood 7 Deviate Ravagers, 7 Deviate Vipers, 7 Deviate Shamblers en 7 Deviate Dreadfangs.",
+   "note": "Ebru staat naast Nalpak in de grot boven de ingang."
+  },
+  "6981": {
+   "objective": "Mutanus the Devourer laat de Glowing Shard vallen. Breng hem naar Sputtervalve in Ratchet, die je naar Falla Sagewind op de heuvel boven de ingang stuurt.",
+   "note": "Daarna volgt In Nightmares, voor Arch Druid Hamuul Runetotem in Thunder Bluff."
+  }
+ }
+}

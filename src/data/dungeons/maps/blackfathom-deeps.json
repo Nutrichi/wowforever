@@ -1,0 +1,57 @@
+{
+ "floors": [
+  {
+   "image": "blackfathom-deeps-1.jpg",
+   "label": "The Pool of Ask'Ar",
+   "markers": [
+    {
+     "n": 1,
+     "x": 33.3,
+     "y": 60.7
+    },
+    {
+     "n": 2,
+     "x": 11.2,
+     "y": 39.0
+    },
+    {
+     "n": 3,
+     "x": 54.3,
+     "y": 56.4
+    }
+   ]
+  },
+  {
+   "image": "blackfathom-deeps-2.jpg",
+   "label": "Moonshrine Sanctum",
+   "markers": [
+    {
+     "n": 4,
+     "x": 33.8,
+     "y": 72.3
+    },
+    {
+     "n": 6,
+     "x": 52.4,
+     "y": 80.8
+    },
+    {
+     "n": 7,
+     "x": 85.5,
+     "y": 86.4
+    }
+   ]
+  },
+  {
+   "image": "blackfathom-deeps-3.jpg",
+   "label": "The Forgotten Pool",
+   "markers": [
+    {
+     "n": 5,
+     "x": 58.7,
+     "y": 30.9
+    }
+   ]
+  }
+ ]
+}

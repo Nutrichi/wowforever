@@ -1,0 +1,56 @@
+{
+ "location": "Tirisfal Glades, de ruïnes boven de Undercity",
+ "entrance": "Door de voorpoort van de ruïnes van Lordaeron, meteen links voor de burcht: het portaal ligt boven aan een trap, op /way 72.4 11.6.",
+ "quests": {
+  "95250": {
+   "objective": "Dood The Baron en breng zijn hoofd naar Captain Truman.",
+   "note": "Captain Truman wacht bij de ingang, op het bakstenen pad links. Hij is vriendelijk voor de Alliance en vijandig voor de Horde.",
+   "shots": [
+    {
+     "file": "2026-09-28-wow-forever-ruins-of-lordaeron-captain-truman.jpg",
+     "alt": "Captain Truman, een undead soldaat met een lantaarn in een donkere stenen zaal, zijn naam in het rood boven zijn hoofd, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95195": {
+   "objective": "Verzamel 10 Bloodied Insignias van de undead en breng ze naar General Marcus Jonathan in Stormwind.",
+   "note": "De insignes starten de quest; ze vallen bij de undead overal in de dungeon."
+  },
+  "95189": {
+   "objective": "Breng het Crest of Lordaeron naar Lady Dena Kennedy in Stormwind.",
+   "note": "Het wapen ligt niet op een vaste plek. Kijk op de vloer van de gebouwen waar je langskomt."
+  },
+  "92415": {
+   "objective": "Breng de Blood-Stained Letter naar Orphan Matron Nightingale in Stormwind.",
+   "note": "De brief ligt bij Rath'mael. De eerste van twee stappen; de reeks eindigt met de Tarnished Locket. Niet te delen."
+  },
+  "97288": {
+   "objective": "Breng het Abominable Head, een drop van The Baron, naar de Undercity.",
+   "note": "De eerste van vijf stappen bij Master Apothecary Faranell: het lichaam van Othmar, ingrediënten in de stad en het Hissing Serum."
+  },
+  "92401": {
+   "objective": "Zoek uit wat er met Edward Heartweaver gebeurd is.",
+   "note": "Zijn lichaam ligt op het kerkhof naast Rath'mael.",
+   "shots": [
+    {
+     "file": "2026-09-29-wow-forever-ruins-of-lordaeron-edward-heartweaver.jpg",
+     "alt": "Het lichaam van Edward Heartweaver op het kerkhof bij Rath'mael, een schermafdruk uit de beta van World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95204": {
+   "objective": "Breng het Crest of Lordaeron naar Oran Snakewrithe in de Undercity.",
+   "note": "Het wapen ligt niet op een vaste plek. Kijk op de vloer van de gebouwen waar je langskomt."
+  },
+  "92421": {
+   "objective": "Verzamel 25 Intact Limbs van de Scourge in de dungeon voor Morbin Lightbane in de Undercity."
+  },
+  "95216": {
+   "objective": "Breng de Highly Toxic Strain van Witherfang naar Theodore Griffs in de Undercity."
+  },
+  "92422": {
+   "objective": "Dood Rath'mael voor Deathguard Kristof in Brill.",
+   "note": "Kristof staat bij de karavaan tussen Brill en de Undercity."
+  }
+ }
+}

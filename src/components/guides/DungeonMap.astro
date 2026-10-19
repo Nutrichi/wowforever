@@ -1,71 +1,59 @@
 ---
 /*
- * De kaart van een dungeon bovenaan de tab Guide (19 oktober 2026). De Forever-client heeft
- * geen dungeonkaarten; alleen de kaart van Blizzard uit MoP Classic waar de indeling nog de
- * oude is (dan staat `image` in de data). Eigen getekende kaarten zijn geschrapt (Nutri,
- * 19 oktober 2026: "the Hall of Thanes map is garbage"); zonder data toont dit niets.
- * Inline SVG met de kleuren van de site, zodat de kaart dag en nacht volgt. In de kaart
- * staan alleen cijfers, tekens en de Engelse namen van de zalen; de legenda eronder is
- * vertaald.
+ * De kaart van een dungeon bovenaan de tab Guide. De Forever-client heeft geen
+ * dungeonkaarten; we tonen de perkamentkaart van Blizzard uit World of Warcraft waar de
+ * indeling nog die van Forever is, met onze genummerde bazen erop (Nutri, 19 oktober
+ * 2026: "Map with numbered bosses"). Eigen getekende kaarten zijn geschrapt (Nutri:
+ * "the Hall of Thanes map is garbage"); zonder data toont dit niets.
+ *
+ * Data: data/dungeons/maps/<slug>.json, per verdieping een beeld uit
+ * assets/dungeon-maps/ en de bazen als { n, x, y } in procenten van het beeld. Het
+ * nummer is de plaats van de baas in de buit (lib/dungeons.ts), dus gelijk aan de subtabs.
+ * De posities komen van de kaarten van Wowhead (retail) en zijn met het oog nagekeken.
  */
+import { Image } from 'astro:assets';
 import type { Locale } from '../../i18n/ui';
 import { dungeonT } from '../../i18n/dungeon';
 import type { DungeonData } from '../../lib/dungeons';
 
 type MapData = {
-  w: number;
-  h: number;
-  image?: string;
-  paths?: string[];
-  bridges?: string[];
-  rooms?: { shape: 'rect' | 'cave'; x: number; y: number; w: number; h: number; label?: string }[];
-  markers: { type: 'entrance' | 'boss' | 'quest'; n?: number; quest?: number; x: number; y: number }[];
+  floors: { image: string; label?: string; markers: { n: number; x: number; y: number }[] }[];
 };
 
 interface Props {
   locale: Locale;
   slug: string;
   data: DungeonData;
-  questHref: (id: number) => string;
 }
 
-const { locale, slug, data, questHref } = Astro.props;
+const { locale, slug, data } = Astro.props;
 const t = dungeonT(locale);
 const maps = import.meta.glob<MapData>('../../data/dungeons/maps/*.json', { eager: true, import: 'default' });
+const images = import.meta.glob<{ default: ImageMetadata }>('../../assets/dungeon-maps/*.jpg', { eager: true });
 const map = maps[`../../data/dungeons/maps/${slug}.json`];
-const questName = (id?: number) => data.quests.find((q) => q.id === id)?.name ?? '';
-const questMarkers = map?.markers.filter((m) => m.type === 'quest') ?? [];
+const image = (file: string) => images[`../../assets/dungeon-maps/${file}`]?.default;
+const floors = (map?.floors ?? []).filter((f) => image(f.image));
+const several = floors.length > 1;
 ---
 
-{map && (
-  <figure class="wf-dmap">
-    <svg viewBox={`0 0 ${map.w} ${map.h}`} role="img" aria-label={t('mapTitle')}>
-      {map.image && <image href={map.image} x="0" y="0" width={map.w} height={map.h} />}
-      {(map.paths ?? []).map((d) => <path class="wf-dmap__path" d={d} />)}
-      {(map.bridges ?? []).map((d) => <path class="wf-dmap__bridge" d={d} />)}
-      {(map.rooms ?? []).map((r) => (
-        <>
-          {r.shape === 'cave'
-            ? <ellipse class="wf-dmap__room" cx={r.x} cy={r.y} rx={r.w / 2} ry={r.h / 2} />
-            : <rect class="wf-dmap__room" x={r.x} y={r.y} width={r.w} height={r.h} rx="8" />}
-          {r.label && (
-            <text class="wf-dmap__label" x={r.shape === 'cave' ? r.x : r.x + r.w / 2} y={r.shape === 'cave' ? r.y + r.h / 2 + 13 : r.y + r.h + 13}>{r.label}</text>
-          )}
-        </>
+{floors.length > 0 && (
+  <figure class:list={['wf-dmap', { 'is-floors': several }]}>
+    <div class="wf-dmap__floors">
+      {floors.map((f) => (
+        <div class="wf-dmap__floor">
+          {several && f.label && <p class="wf-dmap__label">{f.label}</p>}
+          <div class="wf-dmap__img">
+            <Image src={image(f.image)!} alt={t('mapTitle')} widths={[500, 1000]} sizes={several ? '(max-width: 700px) 100vw, 460px' : '(max-width: 800px) 100vw, 760px'} loading="lazy" />
+            {f.markers.map((m) => (
+              <span class="wf-dmap__pin" style={`left:${m.x}%;top:${m.y}%`} title={data.bosses[m.n - 1]?.name}>{m.n}</span>
+            ))}
+          </div>
+        </div>
       ))}
-      {map.markers.map((m) => (
-        m.type === 'boss'
-          ? <g class="wf-dmap__boss"><circle cx={m.x} cy={m.y} r="11" /><text x={m.x} y={m.y + 4.5}>{m.n}</text></g>
-          : m.type === 'quest'
-            ? <g class="wf-dmap__quest"><circle cx={m.x} cy={m.y} r="9" /><text x={m.x} y={m.y + 4.5}>!</text></g>
-            : <g class="wf-dmap__entrance"><path d={`M ${m.x - 9} ${m.y + 6} L ${m.x} ${m.y - 8} L ${m.x + 9} ${m.y + 6} Z`} /></g>
-      ))}
-    </svg>
+    </div>
     <figcaption class="wf-dmap__legend">
-      <span><i class="wf-dmap__key is-entrance" aria-hidden="true"></i>{t('mapEntrance')}</span>
-      {data.bosses.map((b, i) => <span><i class="wf-dmap__key is-boss" aria-hidden="true">{i + 1}</i>{b.name}</span>)}
-      {questMarkers.map((m) => <span><i class="wf-dmap__key is-quest" aria-hidden="true">!</i><a href={questHref(m.quest!)}>{questName(m.quest)}</a></span>)}
-      <span class="wf-dmap__note">{map.image ? t('mapBlizzard') : t('mapSchematic')}</span>
+      {data.bosses.map((b, i) => <span><i class="wf-dmap__key" aria-hidden="true">{i + 1}</i>{b.name}</span>)}
+      <span class="wf-dmap__note">{t('mapBlizzard')}</span>
     </figcaption>
   </figure>
 )}
@@ -73,20 +61,33 @@ const questMarkers = map?.markers.filter((m) => m.type === 'quest') ?? [];
 <style>
   .wf-dmap {
     margin: 0 0 22px;
-    padding: 14px;
+    padding: 12px;
     border: 1px solid var(--wf-border);
     border-radius: var(--wf-r-card);
     background: var(--wf-raised);
   }
-  .wf-dmap svg { display: block; width: 100%; max-width: 380px; height: auto; margin: 0 auto; }
-  .wf-dmap__path { fill: none; stroke: var(--wf-border); stroke-width: 12; stroke-linecap: round; stroke-linejoin: round; }
-  .wf-dmap__bridge { fill: none; stroke: var(--wf-accent-deep); stroke-width: 6; stroke-dasharray: 3 3; }
-  .wf-dmap__room { fill: var(--wf-raised-soft); stroke: var(--wf-accent-deep); stroke-width: 1.5; }
-  .wf-dmap__label { fill: var(--wf-muted); font-family: var(--wf-display); font-size: 11px; text-anchor: middle; letter-spacing: .04em; }
-  .wf-dmap__boss circle { fill: var(--wf-accent); stroke: var(--wf-bg); stroke-width: 2; }
-  .wf-dmap__boss text, .wf-dmap__quest text { fill: var(--wf-bg); font-family: var(--wf-display); font-size: 13px; font-weight: 700; text-anchor: middle; }
-  .wf-dmap__quest circle { fill: var(--wf-yellow); stroke: var(--wf-bg); stroke-width: 2; }
-  .wf-dmap__entrance path { fill: var(--wf-arcane); stroke: var(--wf-bg); stroke-width: 2; }
+  .wf-dmap__floors { display: grid; gap: 12px; }
+  .wf-dmap:not(.is-floors) { width: fit-content; max-width: 100%; }
+  .wf-dmap:not(.is-floors) .wf-dmap__floors { max-width: 760px; }
+  .wf-dmap:not(.is-floors) .wf-dmap__legend { max-width: 760px; }
+  .is-floors .wf-dmap__floors { grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); }
+  .wf-dmap__label { margin: 0 0 4px; font-family: var(--wf-display); font-size: 13px; color: var(--wf-muted); letter-spacing: .04em; }
+  .wf-dmap__img { position: relative; line-height: 0; }
+  .wf-dmap__img img { display: block; width: 100%; height: auto; border-radius: var(--wf-r-card-sm); }
+  .wf-dmap__pin {
+    position: absolute;
+    display: grid;
+    place-items: center;
+    width: 22px;
+    height: 22px;
+    margin: -11px 0 0 -11px;
+    border: 2px solid #1b1410;
+    border-radius: 50%;
+    background: var(--wf-accent);
+    color: #1b1410;
+    font: 700 12px/1 var(--wf-display);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .5);
+  }
 
   .wf-dmap__legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 12px; font-size: 14px; color: var(--wf-ink); }
   .wf-dmap__legend span { display: inline-flex; align-items: center; gap: 6px; }
@@ -101,9 +102,7 @@ const questMarkers = map?.markers.filter((m) => m.type === 'quest') ?? [];
     font-size: 11px;
     font-weight: 700;
     color: var(--wf-bg);
+    background: var(--wf-accent);
   }
-  .wf-dmap__key.is-boss { background: var(--wf-accent); }
-  .wf-dmap__key.is-quest { background: var(--wf-yellow); }
-  .wf-dmap__key.is-entrance { width: 0; height: 0; border-radius: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 13px solid var(--wf-arcane); }
   .wf-dmap__note { flex-basis: 100%; font-size: 12.5px; color: var(--wf-muted); }
 </style>

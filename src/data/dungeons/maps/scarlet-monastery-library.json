@@ -1,0 +1,19 @@
+{
+ "floors": [
+  {
+   "image": "scarlet-monastery-library-1.jpg",
+   "markers": [
+    {
+     "n": 1,
+     "x": 29.3,
+     "y": 84.2
+    },
+    {
+     "n": 2,
+     "x": 83.3,
+     "y": 74.4
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "floors": [
+  {
+   "image": "scarlet-monastery-armory-1.jpg",
+   "markers": [
+    {
+     "n": 1,
+     "x": 78.6,
+     "y": 10.8
+    }
+   ]
+  }
+ ]
+}

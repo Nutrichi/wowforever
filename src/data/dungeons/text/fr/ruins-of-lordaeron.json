@@ -1,0 +1,56 @@
+{
+ "location": "Tirisfal Glades, les ruines au-dessus de l’Undercity",
+ "entrance": "Par la porte principale des ruines de Lordaeron, tout de suite à gauche avant le donjon : le portail est en haut d’un escalier, en /way 72.4 11.6.",
+ "quests": {
+  "95250": {
+   "objective": "Tuez The Baron et rapportez sa tête à Captain Truman.",
+   "note": "Captain Truman attend près de l’entrée, sur le chemin de briques à gauche. Il est amical envers l’Alliance et hostile à la Horde.",
+   "shots": [
+    {
+     "file": "2026-09-28-wow-forever-ruins-of-lordaeron-captain-truman.jpg",
+     "alt": "Captain Truman, un soldat mort-vivant avec une lanterne dans une salle de pierre sombre, son nom en rouge au-dessus de la tête, une capture d’écran de la bêta de World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95195": {
+   "objective": "Rassemblez 10 Bloodied Insignias sur les morts-vivants et apportez-les à General Marcus Jonathan à Stormwind.",
+   "note": "Les insignes lancent la quête ; ils tombent sur les morts-vivants de tout le donjon."
+  },
+  "95189": {
+   "objective": "Apportez le Crest of Lordaeron à Lady Dena Kennedy à Stormwind.",
+   "note": "Le blason n’a pas de place fixe. Regardez le sol des bâtiments que vous traversez."
+  },
+  "92415": {
+   "objective": "Apportez la Blood-Stained Letter à Orphan Matron Nightingale à Stormwind.",
+   "note": "La lettre se trouve près de Rath'mael. La première de deux étapes ; la chaîne se termine par le Tarnished Locket. Elle ne se partage pas."
+  },
+  "97288": {
+   "objective": "Apportez l’Abominable Head, laissée par The Baron, à l’Undercity.",
+   "note": "La première de cinq étapes avec Master Apothecary Faranell : le corps d’Othmar, des ingrédients en ville et le Hissing Serum."
+  },
+  "92401": {
+   "objective": "Découvrez ce qui est arrivé à Edward Heartweaver.",
+   "note": "Son corps gît dans le cimetière à côté de Rath'mael.",
+   "shots": [
+    {
+     "file": "2026-09-29-wow-forever-ruins-of-lordaeron-edward-heartweaver.jpg",
+     "alt": "Le corps d’Edward Heartweaver dans le cimetière près de Rath'mael, une capture de la bêta de World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95204": {
+   "objective": "Apportez le Crest of Lordaeron à Oran Snakewrithe à l’Undercity.",
+   "note": "Le blason n’a pas de place fixe. Regardez le sol des bâtiments que vous traversez."
+  },
+  "92421": {
+   "objective": "Rassemblez 25 Intact Limbs sur le Scourge du donjon pour Morbin Lightbane à l’Undercity."
+  },
+  "95216": {
+   "objective": "Apportez la Highly Toxic Strain de Witherfang à Theodore Griffs à l’Undercity."
+  },
+  "92422": {
+   "objective": "Tuez Rath'mael pour Deathguard Kristof à Brill.",
+   "note": "Kristof se tient près de la caravane entre Brill et l’Undercity."
+  }
+ }
+}

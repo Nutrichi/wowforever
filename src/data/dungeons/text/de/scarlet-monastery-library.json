@@ -1,0 +1,38 @@
+{
+ "location": "Tirisfal Glades, das Scarlet Monastery",
+ "entrance": "Das Scarlet Monastery am Ostende von Tirisfal Glades, bei /way 85.1 31.4. Jeder Flügel hat eine eigene Tür; diese ist für alle offen.",
+ "quests": {
+  "1050": {
+   "objective": "Finde das Buch Mythology of the Titans und bring es zu Librarian Mae Paledust in Ironforge.",
+   "note": "Es steht in den Regalen der Gallery of Treasures."
+  },
+  "96800": {
+   "objective": "Finde das Buch The Lost Magic of the Runemasters und bring es zu Magus Olvek in Dalaran.",
+   "note": "Neu in Forever."
+  },
+  "1053": {
+   "objective": "Töte High Inquisitor Whitemane, Scarlet Commander Mograine, Herod und Houndmaster Loksey und melde dich bei Raleigh the Devout in Southshore zurück.",
+   "note": "Das Ende einer Reihe, die mit Brother Anton beginnt. Die Bosse sind auf die Library, die Armory und die Cathedral verteilt."
+  },
+  "1113": {
+   "objective": "Sammle 20 Hearts of Zeal vom Scarlet Crusade.",
+   "note": "Sie droppen bei Bossen und Monstern der Scarlet in allen vier Flügeln. Die Quest folgt auf Going, Going, Guano! aus Razorfen Kraul."
+  },
+  "1160": {
+   "objective": "Finde The Beginnings of the Undead Threat im Athenaeum und bring es zu Parqual Fintallas in der Undercity.",
+   "note": "Teil einer langen Reihe, die mit Test of Faith beginnt."
+  },
+  "1049": {
+   "objective": "Finde das Compendium of the Fallen im Athenaeum und bring es zu Sage Truthseeker in Thunder Bluff.",
+   "note": "Undead können diese Quest nicht annehmen."
+  },
+  "1048": {
+   "objective": "Töte High Inquisitor Whitemane, Scarlet Commander Mograine, Herod und Houndmaster Loksey und melde dich bei Varimathras in der Undercity zurück.",
+   "note": "Die Bosse sind auf die Library, die Armory und die Cathedral verteilt."
+  },
+  "1951": {
+   "objective": "Finde das Buch Rituals of Power im Athenaeum und bring es zu Tabetha in Dustwallow Marsh.",
+   "note": "Eine Mage-Quest am Ende einer Reihe, die mit Journey to the Marsh von Magus Tirth in Thousand Needles beginnt."
+  }
+ }
+}

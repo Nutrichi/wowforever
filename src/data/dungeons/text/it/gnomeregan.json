@@ -1,0 +1,45 @@
+{
+ "location": "Dun Morogh, sotto il Train Depot",
+ "entrance": "Il cancello principale nel Train Depot, nell’ovest di Dun Morogh, a /way 17.7 39.2. La porta sul retro, a nord, richiede la Workshop Key o un Rogue con Lockpicking 150.",
+ "quests": {
+  "2922": {
+   "objective": "Uccidi Techbot e porta il suo Memory Core a Tinkmaster Overspark.",
+   "note": "Techbot sta nella Loading Room del Train Depot, fuori dall’istanza."
+  },
+  "2930": {
+   "objective": "Trasforma una White Punch Card in una Prismatic Punch Card alle quattro macchine Matrix Punchograph 3005 e portala a Master Mechanic Castpipe.",
+   "note": "La macchina A è fuori vicino a Techbot. La B è nel Dormitory, la C nella sala di Electrocutioner 6000 e la D sotto Crowd Pummeler 9-60."
+  },
+  "2924": {
+   "objective": "Raccogli 12 Essential Artificials dalle macchine sparse nel dungeon.",
+   "note": "Alcuni sono nascosti dietro i pilastri."
+  },
+  "2928": {
+   "objective": "Porta 24 Robo-mechanical Guts a Shoni the Shilent.",
+   "note": "Quasi tutti i mostri meccanici all’interno li lasciano."
+  },
+  "2962": {
+   "objective": "Raccogli High Potency Radioactive Fallout dai mostri irradiati e portalo nella Heavy Leaden Collection Phial a Ozzie Togglevolt.",
+   "note": "Il fallout decade in fretta, e la fiala deve tornare da Ozzie entro 2 ore. Segue Gnogaine."
+  },
+  "2929": {
+   "objective": "Uccidi Mekgineer Thermaplugg e fai rapporto a High Tinker Mekkatorque."
+  },
+  "2841": {
+   "objective": "Porta i Rig Blueprints e la Thermaplugg's Safe Combination a Nogg.",
+   "note": "Thermaplugg lascia la combinazione, e i progetti sono nella sua cassaforte. Sovik, accanto a Nogg, non ha il punto esclamativo: parlagli per Chief Engineer Scooty. Se completi prima quella condividendola nel gruppo senza Rig Wars, Nogg smette di offrire Rig Wars."
+  },
+  "2904": {
+   "objective": "Scorta Kernobee fino all’uscita della Clockwork Run e fai rapporto a Scooty a Booty Bay.",
+   "note": "Kernobee sta in uno di vari punti del Dormitory, subito dopo la Clean Zone."
+  },
+  "2951": {
+   "objective": "Metti un Grime-Encrusted Object nella The Sparklematic 5200. La macchina richiede 3 monete d’argento per partire.",
+   "note": "Ripetibile, con esperienza solo la prima volta."
+  },
+  "2945": {
+   "objective": "Pulisci il Grime-Encrusted Ring nella The Sparklematic 5200.",
+   "note": "L’anello cade dai Dark Iron Agents. Return of the Ring va poi a Talvash del Kissel a Ironforge o a Nogg a Orgrimmar."
+  }
+ }
+}

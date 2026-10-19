@@ -1,0 +1,45 @@
+{
+ "location": "Dun Morogh, below the Train Depot",
+ "entrance": "The front gate in the Train Depot in western Dun Morogh, at /way 17.7 39.2. The back door on the north side needs the Workshop Key or a Rogue with Lockpicking 150.",
+ "quests": {
+  "2922": {
+   "objective": "Kill Techbot and bring his Memory Core to Tinkmaster Overspark.",
+   "note": "Techbot stands in the Loading Room of the Train Depot, outside the instance."
+  },
+  "2930": {
+   "objective": "Turn a White Punch Card into a Prismatic Punch Card at the four Matrix Punchograph 3005 machines and bring it to Master Mechanic Castpipe.",
+   "note": "Machine A stands outside near Techbot. B is in the Dormitory, C in the room of Electrocutioner 6000 and D below Crowd Pummeler 9-60."
+  },
+  "2924": {
+   "objective": "Collect 12 Essential Artificials from the machines spread through the dungeon.",
+   "note": "Some are tucked behind pillars."
+  },
+  "2928": {
+   "objective": "Bring 24 Robo-mechanical Guts to Shoni the Shilent.",
+   "note": "Most mechanical monsters inside drop them."
+  },
+  "2962": {
+   "objective": "Collect High Potency Radioactive Fallout from the irradiated monsters and bring it in the Heavy Leaden Collection Phial to Ozzie Togglevolt.",
+   "note": "The fallout collapses quickly, and the phial has to be back with Ozzie within 2 hours. It follows Gnogaine."
+  },
+  "2929": {
+   "objective": "Kill Mekgineer Thermaplugg and report to High Tinker Mekkatorque."
+  },
+  "2841": {
+   "objective": "Bring the Rig Blueprints and Thermaplugg's Safe Combination to Nogg.",
+   "note": "Thermaplugg drops the combination, and the blueprints lie in his safe. Sovik next to Nogg has no exclamation mark: talk to him for Chief Engineer Scooty. Finish that one first through a party share without Rig Wars, and Nogg stops offering Rig Wars."
+  },
+  "2904": {
+   "objective": "Escort Kernobee to the exit at the Clockwork Run and report to Scooty in Booty Bay.",
+   "note": "Kernobee stands in one of several spots in the Dormitory, just after the Clean Zone."
+  },
+  "2951": {
+   "objective": "Put a Grime-Encrusted Object into The Sparklematic 5200. The machine needs 3 silver to start.",
+   "note": "Repeatable, with experience only the first time."
+  },
+  "2945": {
+   "objective": "Clean the Grime-Encrusted Ring in The Sparklematic 5200.",
+   "note": "The ring drops from Dark Iron Agents. Return of the Ring then goes to Talvash del Kissel in Ironforge or Nogg in Orgrimmar."
+  }
+ }
+}

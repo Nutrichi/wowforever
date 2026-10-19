@@ -1,0 +1,90 @@
+{
+ "location": "Westfall, unter Moonbrook",
+ "entrance": "Das Defias Hideout, das große Gebäude in der Südwestecke von Moonbrook bei /way 42 72. Das Portal liegt ganz unten in den Höhlen darunter.",
+ "quests": {
+  "214": {
+   "objective": "Bring 10 Red Silk Bandanas. Jedes Monster mit Defias im Namen kann eins fallen lassen, und die Elites tun das fast immer.",
+   "note": "Scout Riell bietet sie an, sobald du an der Reihe von The Defias Brotherhood arbeitest.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-deadmines-defias-patrol.jpg",
+     "alt": "Ein Defias Overseer und ein Defias Evoker auf Patrouille in The Deadmines, ein Screenshot aus World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-deadmines-defias-pirates.jpg",
+     "alt": "Defias Pirates auf den Stegen der Bucht in The Deadmines, ein Screenshot aus World of Warcraft"
+    }
+   ]
+  },
+  "168": {
+   "objective": "Sammle 4 Miners' Union Cards von den Untoten im Spukteil der Mine außerhalb des Dungeons: Undead Excavators, Skeletal Miners und Undead Dynamiters.",
+   "note": "Jeder Untote dort ist Elite. Foreman Thistlenettle lässt die Karten nicht fallen.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-wilder-thistlenettle.jpg",
+     "alt": "Wilder Thistlenettle mit einem gelben Ausrufezeichen in einer Taverne in Stormwind, ein Screenshot aus World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-deadmines-undead-mine.jpg",
+     "alt": "Der Spukteil der Mine außerhalb von The Deadmines, mit untoten Bergleuten zwischen den Balken, ein Screenshot aus World of Warcraft"
+    }
+   ]
+  },
+  "92753": {
+   "objective": "Platziere die Extra-Destructive Explosives an der Schmiede im Raum von Gilnid und triff danach Alba Fairmoon am Ausgang von The Deadmines.",
+   "note": "Neu in Forever, der letzte Schritt einer Reihe von sieben Quests. Die Reihe steht auf dieser Seite, über der Tabelle."
+  },
+  "167": {
+   "objective": "Töte Foreman Thistlenettle am hinteren Ende des Spukteils der Mine und bring sein Explorers' League Badge zu Wilder Thistlenettle.",
+   "note": "Ein Elite der Stufe 20 zwischen anderen Elites. Erledige sie zusammen mit Collecting Memories.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-foreman-thistlenettle.jpg",
+     "alt": "Foreman Thistlenettle zwischen anderen Untoten am Ende der Spukmine, ein Screenshot aus World of Warcraft"
+    }
+   ]
+  },
+  "2040": {
+   "objective": "Bring den Gnoam Sprecklesprocket, einen Drop von Sneed's Shredder, zu Shoni the Shilent.",
+   "note": "Die Reihe beginnt bei Gnoarn in Tinker Town in Ironforge.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-shoni-the-shilent.jpg",
+     "alt": "Shoni the Shilent, die Questgeberin von Underground Assault in Stormwind, ein Screenshot aus World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-sneeds-shredder.jpg",
+     "alt": "Sneed's Shredder im Holzfällerlager von The Deadmines, ein Screenshot aus World of Warcraft"
+    }
+   ]
+  },
+  "166": {
+   "objective": "Töte Edwin VanCleef und bring seinen Kopf zu Gryan Stoutmantle.",
+   "note": "Die letzte von sechs Quests mit demselben Namen, die dich durch Westfall, nach Lakeshire und zurück schicken.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-gryan-stoutmantle.jpg",
+     "alt": "Gryan Stoutmantle auf Sentinel Hill in Westfall, ein Screenshot aus World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-edwin-vancleef.jpg",
+     "alt": "Edwin VanCleef auf dem obersten Deck seines Schiffs in The Deadmines, ein Screenshot aus World of Warcraft"
+    }
+   ]
+  },
+  "373": {
+   "objective": "Bring An Unsent Letter, einen Drop von Edwin VanCleef, zu Baros Alexston im Rathaus am Cathedral Square in Stormwind.",
+   "note": "Der erste Schritt einer Reihe, die in The Stockade weitergeht.",
+   "shots": [
+    {
+     "file": "2026-10-03-wow-forever-an-unsent-letter.jpg",
+     "alt": "Das Questfenster von An Unsent Letter auf dem Schiff, im Hintergrund die Leiche von Edwin VanCleef, ein Screenshot aus World of Warcraft"
+    },
+    {
+     "file": "2026-10-03-wow-forever-baros-alexston.jpg",
+     "alt": "Baros Alexston in der City Hall am Cathedral Square in Stormwind, ein Screenshot aus World of Warcraft"
+    }
+   ]
+  }
+ }
+}

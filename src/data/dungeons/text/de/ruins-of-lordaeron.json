@@ -1,0 +1,56 @@
+{
+ "location": "Tirisfal Glades, die Ruinen über der Undercity",
+ "entrance": "Durch das Haupttor der Ruinen von Lordaeron, gleich links vor der Burg: Das Portal liegt oben an einer Treppe, bei /way 72.4 11.6.",
+ "quests": {
+  "95250": {
+   "objective": "Töte The Baron und bring seinen Kopf zu Captain Truman.",
+   "note": "Captain Truman wartet beim Eingang auf dem Backsteinweg links. Er ist der Alliance freundlich und der Horde feindlich gesinnt.",
+   "shots": [
+    {
+     "file": "2026-09-28-wow-forever-ruins-of-lordaeron-captain-truman.jpg",
+     "alt": "Captain Truman, ein untoter Soldat mit einer Laterne in einer dunklen Steinhalle, sein Name in Rot über dem Kopf, ein Screenshot aus der Beta von World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95195": {
+   "objective": "Sammle 10 Bloodied Insignias von den Untoten und bring sie zu General Marcus Jonathan in Stormwind.",
+   "note": "Die Abzeichen starten die Quest; sie droppen bei den Untoten im ganzen Dungeon."
+  },
+  "95189": {
+   "objective": "Bring das Crest of Lordaeron zu Lady Dena Kennedy in Stormwind.",
+   "note": "Das Wappen hat keinen festen Platz. Schau auf den Böden der Gebäude, an denen du vorbeikommst."
+  },
+  "92415": {
+   "objective": "Bring den Blood-Stained Letter zu Orphan Matron Nightingale in Stormwind.",
+   "note": "Der Brief liegt bei Rath'mael. Der erste von zwei Schritten; die Reihe endet mit dem Tarnished Locket. Nicht teilbar."
+  },
+  "97288": {
+   "objective": "Bring den Abominable Head, einen Drop von The Baron, in die Undercity.",
+   "note": "Der erste von fünf Schritten bei Master Apothecary Faranell: die Leiche von Othmar, Zutaten in der Stadt und das Hissing Serum."
+  },
+  "92401": {
+   "objective": "Finde heraus, was mit Edward Heartweaver geschehen ist.",
+   "note": "Seine Leiche liegt auf dem Friedhof neben Rath'mael.",
+   "shots": [
+    {
+     "file": "2026-09-29-wow-forever-ruins-of-lordaeron-edward-heartweaver.jpg",
+     "alt": "Der Körper von Edward Heartweaver auf dem Friedhof bei Rath'mael, ein Screenshot aus der Beta von World of Warcraft: Forever"
+    }
+   ]
+  },
+  "95204": {
+   "objective": "Bring das Crest of Lordaeron zu Oran Snakewrithe in der Undercity.",
+   "note": "Das Wappen hat keinen festen Platz. Schau auf den Böden der Gebäude, an denen du vorbeikommst."
+  },
+  "92421": {
+   "objective": "Sammle 25 Intact Limbs von der Scourge im Dungeon für Morbin Lightbane in der Undercity."
+  },
+  "95216": {
+   "objective": "Bring den Highly Toxic Strain von Witherfang zu Theodore Griffs in der Undercity."
+  },
+  "92422": {
+   "objective": "Töte Rath'mael für Deathguard Kristof in Brill.",
+   "note": "Kristof steht bei der Karawane zwischen Brill und der Undercity."
+  }
+ }
+}

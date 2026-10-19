@@ -1,0 +1,27 @@
+{
+ "location": "Stormwind City, onder de kanalen",
+ "entrance": "In de kanalen van Stormwind City, bij de Mage Quarter, op /way 50.4 66.2. Een trap leidt naar beneden tot het portaal, met Warden Thelwater er net buiten.",
+ "quests": {
+  "386": {
+   "objective": "Dood Targorr the Dread en breng zijn hoofd naar Guard Berton in Lakeshire."
+  },
+  "377": {
+   "objective": "Breng de hand van Dextren Ward naar Councilman Millstipe in Darkshire."
+  },
+  "387": {
+   "objective": "Dood 10 Defias Prisoners, 8 Defias Convicts en 8 Defias Insurgents."
+  },
+  "388": {
+   "objective": "Verzamel 10 Red Wool Bandanas.",
+   "note": "Elke soort gevangene van de Defias laat ze vallen, en ook Bazil Thredd, Bruegal Ironknuckle en Dextren Ward."
+  },
+  "378": {
+   "objective": "Dood Kam Deepfury en breng zijn hoofd naar Motley Garmason in Dun Modr.",
+   "note": "Motley geeft eerst The Dark Iron War."
+  },
+  "391": {
+   "objective": "Dood Bazil Thredd en breng zijn hoofd naar Warden Thelwater.",
+   "note": "Deel van de reeks die begint met An Unsent Letter in The Deadmines, beschreven boven de tabel."
+  }
+ }
+}

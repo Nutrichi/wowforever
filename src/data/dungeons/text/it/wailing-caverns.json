@@ -1,0 +1,34 @@
+{
+ "location": "The Barrens, sotto la Lushwater Oasis",
+ "entrance": "L’imbocco della grotta è nel burrone a sud della Lushwater Oasis, in /way 46.0 36.3. Il sentiero scende fino a una caverna con una pozza, dove si trova il portale.",
+ "quests": {
+  "962": {
+   "objective": "Raccogli 10 Serpentbloom, piante che crescono sulle pareti del dungeon e delle grotte davanti al portale.",
+   "note": "Sono poche, quindi non tutto il gruppo finisce in una sola visita."
+  },
+  "914": {
+   "objective": "Uccidi i quattro Lords of the Fang, Lady Anacondra, Lord Cobrahn, Lord Pythas e Lord Serpentis, e porta le loro gemme a Nara Wildmane.",
+   "note": "L’ultima missione di una catena che inizia con The Barrens Oases, da Tonga Runetotem ai Crossroads."
+  },
+  "1486": {
+   "objective": "Raccogli 20 Deviate Hides. La maggior parte delle bestie del dungeon le lascia.",
+   "note": "Nalpak sta nella grotta sopra l’ingresso, prima del portale."
+  },
+  "1491": {
+   "objective": "Raccogli 6 porzioni di Wailing Essence dai Devouring, Evolving e Nightmare Ectoplasms.",
+   "note": "Mebok Mizzyrix dà questa missione solo dopo Raptor Horns."
+  },
+  "959": {
+   "objective": "Uccidi Mad Magglish e riporta la bottiglia di 99-Year-Old Port a Crane Operator Bigglefuzz.",
+   "note": "Mad Magglish è un élite nella grotta davanti al portale, vicino a Nalpak, in /way 46.1 35.8."
+  },
+  "1487": {
+   "objective": "Uccidi 7 Deviate Ravagers, 7 Deviate Vipers, 7 Deviate Shamblers e 7 Deviate Dreadfangs.",
+   "note": "Ebru sta accanto a Nalpak nella grotta sopra l’ingresso."
+  },
+  "6981": {
+   "objective": "Mutanus the Devourer lascia il Glowing Shard. Portalo a Sputtervalve a Ratchet, che ti manda da Falla Sagewind sulla collina sopra l’ingresso.",
+   "note": "Prosegue con In Nightmares, per Arch Druid Hamuul Runetotem a Thunder Bluff."
+  }
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "location": "Tirisfal Glades, lo Scarlet Monastery",
+ "entrance": "Lo Scarlet Monastery all’estremità est di Tirisfal Glades, a /way 85.1 31.4. Ogni ala ha la sua porta; questa è aperta a tutti.",
+ "quests": {
+  "1113": {
+   "objective": "Raccogli 20 Hearts of Zeal dalla Scarlet Crusade.",
+   "note": "Cadono dai boss e dai mostri Scarlet in tutte e quattro le ali. La missione segue Going, Going, Guano! di Razorfen Kraul."
+  },
+  "1051": {
+   "objective": "Porta la fede nuziale di Vorrel Sengutz a Monika Sengutz a Tarren Mill.",
+   "note": "Vorrel è prigioniero nella sala di Interrogator Vishas."
+  }
+ }
+}

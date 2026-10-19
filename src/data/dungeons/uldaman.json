@@ -1,0 +1,115 @@
+{
+ "slug": "uldaman",
+ "levels": "41–51",
+ "bosses": [
+  {
+   "name": "Revelosh",
+   "slug": "revelosh",
+   "level": "40",
+   "npc": 6910,
+   "items": [
+    9389,
+    9388,
+    9390,
+    9387
+   ]
+  },
+  {
+   "name": "The Lost Dwarves",
+   "slug": "the-lost-dwarves",
+   "level": "41",
+   "npc": 6906,
+   "items": []
+  },
+  {
+   "name": "Ironaya",
+   "slug": "ironaya",
+   "level": "40",
+   "npc": 7228,
+   "items": [
+    9409,
+    9407
+   ]
+  },
+  {
+   "name": "Obsidian Sentinel",
+   "slug": "obsidian-sentinel",
+   "level": "42",
+   "npc": 7023,
+   "items": []
+  },
+  {
+   "name": "Ancient Stone Keeper",
+   "slug": "ancient-stone-keeper",
+   "level": "44",
+   "npc": 7206,
+   "items": [
+    9411
+   ]
+  },
+  {
+   "name": "Galgann Firehammer",
+   "slug": "galgann-firehammer",
+   "level": "45",
+   "npc": 7291,
+   "items": []
+  },
+  {
+   "name": "Grimlok",
+   "slug": "grimlok",
+   "level": "45",
+   "npc": 4854,
+   "items": [
+    9415,
+    9416,
+    9414
+   ]
+  },
+  {
+   "name": "Archaedas",
+   "slug": "archaedas",
+   "level": "47",
+   "npc": 2748,
+   "items": []
+  }
+ ],
+ "loose": [
+  9431,
+  9420,
+  9397,
+  9406,
+  9428,
+  9396,
+  9393,
+  9381,
+  9426,
+  9384,
+  9386,
+  9391
+ ],
+ "quests": [],
+ "cards": {
+  "9381": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9381\">Earthen Rod</a><span class=\"wf-item__line wf-item__meta\">Item Level 38</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>42 - 79 Nature Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(35.59 damage per second)</span><span class=\"wf-item__line\">+5 Nature Resistance</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 33</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 9 and damage done by up to 3 for all magical spells and effects.</span></div></div>",
+  "9384": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9384\">Stonevault Shiv</a><span class=\"wf-item__line wf-item__meta\">Item Level 36</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>25 - 47 Damage</span><span>Speed 1.50</span></span><span class=\"wf-item__line\">(24.00 damage per second)</span><span class=\"wf-item__line\">+7 Agility</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 31</span></div></div>",
+  "9386": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_torch_lit.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9386\">Excavator's Brand</a><span class=\"wf-item__line wf-item__meta\">Item Level 36</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>43 - 82 Damage</span><span>Speed 2.60</span></span><span class=\"wf-item__line\">(24.04 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 31</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Hurls a fiery ball that causes 51 Fire damage and an additional 12 damage over 6 sec.</span></div></div>",
+  "9387": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_plate_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9387\">Revelosh's Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Plate</span></span><span class=\"wf-item__line\">257 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">Durability 55 / 55</span><span class=\"wf-item__line\">Requires Level 40</span></div></div>",
+  "9388": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_16.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9388\">Revelosh's Armguards</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Mail</span></span><span class=\"wf-item__line\">115 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line\">Requires Level 37</span></div></div>",
+  "9389": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_25.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9389\">Revelosh's Spaulders</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Leather</span></span><span class=\"wf-item__line\">95 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 37</span></div></div>",
+  "9390": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9390\">Revelosh's Gloves</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Cloth</span></span><span class=\"wf-item__line\">38 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">Durability 25 / 25</span><span class=\"wf-item__line\">Requires Level 37</span></div></div>",
+  "9391": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_shovel_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9391\">The Shoveler</a><span class=\"wf-item__line wf-item__meta\">Item Level 37</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>88 - 133 Damage</span><span>Speed 3.40</span></span><span class=\"wf-item__line\">(32.50 damage per second)</span><span class=\"wf-item__line\">+15 Stamina</span><span class=\"wf-item__line\">Durability 100 / 100Classes: Warrior</span><span class=\"wf-item__line\">Requires Level 32</span><span class=\"wf-item__line wf-item__use\">Equip: +20 Attack Power.</span><span class=\"wf-item__line wf-item__use\">Equip: +15 Attack Power against Elementals.</span></div></div>",
+  "9393": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_lantern_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9393\">Beacon of Hope</a><span class=\"wf-item__line wf-item__meta\">Item Level 38</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Held In Off-hand</span><span></span></span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">Requires Level 33</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 22 and damage done by up to 8 for all magical spells and effects.</span></div></div>",
+  "9396": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9396\">Legguards of the Vault</a><span class=\"wf-item__line wf-item__meta\">Item Level 39</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Legs</span><span>Mail</span></span><span class=\"wf-item__line\">218 Armor</span><span class=\"wf-item__line\">+13 Strength</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">+13 Stamina</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 34</span></div></div>",
+  "9397": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9397\">Energy Cloak</a><span class=\"wf-item__line wf-item__meta\">Item Level 39</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">28 Armor</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Requires Level 34</span><span class=\"wf-item__line wf-item__use\">Use: Restores 300 to 340 Mana. (10 Min Cooldown)</span></div></div>",
+  "9406": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_leather_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9406\">Spirewind Fetter</a><span class=\"wf-item__line wf-item__meta\">Item Level 35</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Chest</span><span>Leather</span></span><span class=\"wf-item__line\">112 Armor</span><span class=\"wf-item__line\">+7 Strength</span><span class=\"wf-item__line\">+11 Stamina</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 30</span></div></div>",
+  "9407": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9407\">Stoneweaver Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">53 Armor</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">+12 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 37</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 20 and damage done by up to 7 for all magical spells and effects.</span></div></div>",
+  "9409": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_19.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9409\">Ironaya's Bracers</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Mail</span></span><span class=\"wf-item__line\">115 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">+50 Armor</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 37</span></div></div>",
+  "9411": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9411\">Rockshard Pauldrons</a><span class=\"wf-item__line wf-item__meta\">Item Level 46</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Mail</span></span><span class=\"wf-item__line\">209 Armor</span><span class=\"wf-item__line\">+3 Strength</span><span class=\"wf-item__line\">+13 Intellect</span><span class=\"wf-item__line\">+6 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 41</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 12.</span></div></div>",
+  "9414": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9414\">Oilskin Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 47</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">122 Armor</span><span class=\"wf-item__line\">+18 Agility</span><span class=\"wf-item__line\">+11 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 42</span><span class=\"wf-item__line wf-item__use\">Equip: Increases Feral Combat +1.</span></div></div>",
+  "9415": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shirt_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9415\">Grimlok's Tribal Vestments</a><span class=\"wf-item__line wf-item__meta\">Item Level 47</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">68 Armor</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+5 Intellect</span><span class=\"wf-item__line\">+14 Spirit</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 42</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 29 and damage done by up to 10 for all magical spells and effects.</span></div></div>",
+  "9416": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_spear_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9416\">Grimlok's Charge</a><span class=\"wf-item__line wf-item__meta\">Item Level 47</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Polearm</span></span><span class=\"wf-item__row\"><span>88 - 133 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(40.93 damage per second)</span><span class=\"wf-item__line\">+10 Strength</span><span class=\"wf-item__line\">+15 Agility</span><span class=\"wf-item__line\">+15 Stamina</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 42</span></div></div>",
+  "9420": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9420\">Adventurer's Pith Helmet</a><span class=\"wf-item__line wf-item__meta\">Item Level 37</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Head</span><span>Leather</span></span><span class=\"wf-item__line\">94 Armor</span><span class=\"wf-item__line\">+9 Agility</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 32</span></div></div>",
+  "9426": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_bow_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9426\">Monolithic Bow</a><span class=\"wf-item__line wf-item__meta\">Item Level 41</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Ranged</span><span>Bow</span></span><span class=\"wf-item__row\"><span>41 - 77 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(21.85 damage per second)</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 36</span></div></div>",
+  "9428": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9428\">Unearthed Bands</a><span class=\"wf-item__line wf-item__meta\">Item Level 35</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Wrist</span><span>Leather</span></span><span class=\"wf-item__line\">49 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line\">Requires Level 30</span><span class=\"wf-item__line wf-item__use\">Equip: +8 Attack Power.</span></div></div>",
+  "9431": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_28.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9431\">Papal Fez</a><span class=\"wf-item__line wf-item__meta\">Item Level 43</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Head</span><span>Cloth</span></span><span class=\"wf-item__line\">51 Armor</span><span class=\"wf-item__line\">+17 Intellect</span><span class=\"wf-item__line\">+9 Spirit</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 38</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 22 and damage done by up to 8 for all magical spells and effects.</span></div></div>"
+ }
+}

@@ -49,9 +49,11 @@ const side = (q: DungeonQuest) => (q.faction === 'alliance' ? t('alliance') : q.
 const sideClass = (q: DungeonQuest) => (q.faction ? `is-${q.faction}` : 'is-both');
 const card = (id: number) => d.cards[String(id)] ?? '';
 const rewardQuests = d.quests.filter((q) => q.rewards.length > 0);
-// De subtabs van de buit: elke baas, dan de losse drops, dan de questbeloningen.
+// De subtabs van de buit: elke baas, dan de losse drops, dan de questbeloningen. Een baas
+// zonder buit in de data (Razorfen Downs, Uldaman) krijgt geen subtab; zijn nummer blijft
+// dat van de kaart.
 const lootTabs: { id: string; label: string; count: number; n?: number }[] = [
-  ...d.bosses.map((b, i) => ({ id: b.slug, label: b.name, count: b.items.length, n: i + 1 })),
+  ...d.bosses.flatMap((b, i) => (b.items.length > 0 ? [{ id: b.slug, label: b.name, count: b.items.length, n: i + 1 }] : [])),
   ...(d.loose.length > 0 ? [{ id: 'other-drops', label: t('otherLoot'), count: d.loose.length }] : []),
   ...(rewardQuests.length > 0 ? [{ id: 'quest-rewards', label: t('rewardsTitle'), count: new Set(rewardQuests.flatMap((q) => q.rewards)).size }] : []),
 ];
@@ -94,8 +96,8 @@ function placeLine(p: DungeonPlace): string {
           </a>
         ))}
       </nav>
-      {d.bosses.map((b, i) => (
-        <section class="wf-dng__boss" id={b.slug} data-panel={b.slug} hidden={i !== 0}>
+      {d.bosses.map((b, i) => b.items.length > 0 && (
+        <section class="wf-dng__boss" id={b.slug} data-panel={b.slug} hidden={b.slug !== lootTabs[0]?.id}>
           <h3>
             <span class="wf-dng__num">{String(i + 1).padStart(2, '0')}</span>
             {b.npc ? <a href={wh('npc', b.npc)}>{b.name}</a> : b.name}
@@ -105,7 +107,7 @@ function placeLine(p: DungeonPlace): string {
         </section>
       ))}
       {d.loose.length > 0 && (
-        <section class="wf-dng__boss" id="other-drops" data-panel="other-drops" hidden={d.bosses.length > 0}>
+        <section class="wf-dng__boss" id="other-drops" data-panel="other-drops" hidden={lootTabs[0]?.id !== 'other-drops'}>
           <h3>{t('otherLoot')}</h3>
           <div class="wf-items" set:html={d.loose.map(card).join('')} />
         </section>
@@ -215,7 +217,7 @@ function placeLine(p: DungeonPlace): string {
 
 {tab === 'guide' && (
   <div class="wf-gprose wf-dng__body">
-    <DungeonMap locale={locale} slug={slug} data={d} questHref={questHref} />
+    <DungeonMap locale={locale} slug={slug} data={d} />
     <slot />
   </div>
 )}

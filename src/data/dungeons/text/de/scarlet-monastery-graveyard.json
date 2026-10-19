@@ -1,0 +1,14 @@
+{
+ "location": "Tirisfal Glades, das Scarlet Monastery",
+ "entrance": "Das Scarlet Monastery am Ostende von Tirisfal Glades, bei /way 85.1 31.4. Jeder Flügel hat eine eigene Tür; diese ist für alle offen.",
+ "quests": {
+  "1113": {
+   "objective": "Sammle 20 Hearts of Zeal vom Scarlet Crusade.",
+   "note": "Sie droppen bei Bossen und Monstern der Scarlet in allen vier Flügeln. Die Quest folgt auf Going, Going, Guano! aus Razorfen Kraul."
+  },
+  "1051": {
+   "objective": "Bring den Ehering von Vorrel Sengutz zu Monika Sengutz in Tarren Mill.",
+   "note": "Vorrel wird im Raum von Interrogator Vishas festgehalten."
+  }
+ }
+}

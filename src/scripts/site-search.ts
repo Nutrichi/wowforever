@@ -149,8 +149,15 @@ document.querySelectorAll<HTMLElement>('[data-wf-search]').forEach((box) => {
     }
   });
 
-  // Klikt of tabt de bezoeker ergens anders heen, dan gaat het paneel dicht.
+  // Tabt de bezoeker ergens anders heen, dan gaat het paneel dicht. Safari geeft
+  // een link geen focus bij een klik, dus daar is relatedTarget leeg en sloot
+  // het paneel vóór de klik aankwam (19 oktober 2026); een klik buiten het vak
+  // sluit het daarom via pointerdown.
   box.addEventListener('focusout', (event) => {
-    if (!box.contains(event.relatedTarget as Node | null)) close();
+    const to = event.relatedTarget as Node | null;
+    if (to && !box.contains(to)) close();
+  });
+  document.addEventListener('pointerdown', (event) => {
+    if (!panel.hidden && !box.contains(event.target as Node)) close();
   });
 });

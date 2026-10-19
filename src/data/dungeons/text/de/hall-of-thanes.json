@@ -1,0 +1,63 @@
+{
+ "location": "Old Ironforge, unter Ironforge",
+ "entrance": "Im High Seat von Ironforge, wo Magni Bronzebeard sitzt, öffnet sich links ein Gang voller Spinnweben bei /way 43.5 52.0. Folge ihm ganz nach unten bis zum Portal. Der Weg führt über Lava, und ein Sturz ist tödlich.",
+ "quests": {
+  "96394": {
+   "objective": "Töte 15 Enraged Apparitions und 10 Tormented Souls, die Geister der ersten Räume, und bring den Geist von Anvilmar zur Ruhe.",
+   "shots": [
+    {
+     "file": "2026-09-26-wow-forever-hall-of-thanes-afadra-dunwall.jpg",
+     "alt": "Afadra Dunwall in einer Bibliothek voller Bücher, die Treppe hinauf vom Eingang von The Hall of Thanes"
+    }
+   ]
+  },
+  "96393": {
+   "objective": "Betritt The Hall of Thanes und bring den Kopf von Durgen Dirgehammer, dem letzten Boss, zurück.",
+   "note": "Earthseer Farsen gibt diese Quest erst nach Underground Map, die mit der Dark Iron Map beginnt, die ein Dark Iron Spy während Nip 'Em in the Bud fallen lässt.",
+   "shots": [
+    {
+     "file": "2026-09-26-wow-forever-hall-of-thanes-earthseer-farsen.jpg",
+     "alt": "Earthseer Farsen im Schnee von Dun Morogh, mit geöffnetem Questfenster von Old Ironforge Incursion"
+    },
+    {
+     "file": "2026-09-26-wow-forever-hall-of-thanes-dark-iron-map.jpg",
+     "alt": "Das Beutefenster eines Dark Iron Spy mit der Dark Iron Map und ihrem Tooltip This Item Begins a Quest"
+    }
+   ]
+  },
+  "98423": {
+   "objective": "Bring die Steintafel hinter einer Tresortür im Reliquary of Kings, dem letzten Raum, zu Magni Bronzebeard in Ironforge.",
+   "note": "Die Quest kann nicht geteilt werden.",
+   "shots": [
+    {
+     "file": "2026-09-26-wow-forever-hall-of-thanes-treaty-of-understanding.jpg",
+     "alt": "Die Tafel von The Treaty of Understanding in einem Tresor des Reliquary of Kings, mit geöffnetem Questfenster"
+    }
+   ]
+  },
+  "96395": {
+   "objective": "Bring den Geist von Faldrim Anvilmar, dem ersten Boss, zur Ruhe.",
+   "note": "Die einzige Quest dieses Dungeons, die auch die Horde machen kann. Der Ghostly Attendant wartet im Raum vor Anvilmar's Rest.",
+   "shots": [
+    {
+     "file": "2026-09-26-wow-forever-hall-of-thanes-ghostly-attendant.jpg",
+     "alt": "Der Ghostly Attendant mit geöffnetem Questfenster von An Ancient Grudge, zwischen den Geistern des ersten Raums"
+    }
+   ]
+  },
+  "96403": {
+   "objective": "Sammle 8 Dwarven Heirlooms in The Hall of Thanes.",
+   "note": "Sie liegen auf Plattformen mit Kerzen im ganzen Dungeon. Die Tresore im Reliquary of Kings enthalten genug für eine Gruppe von fünf.",
+   "shots": [
+    {
+     "file": "2026-09-26-wow-forever-hall-of-thanes-thom-filch.jpg",
+     "alt": "Thom Filch mit geöffnetem Questfenster von Important Heirlooms, direkt vor The Hall of Thanes"
+    },
+    {
+     "file": "2026-09-26-wow-forever-hall-of-thanes-dwarven-heirlooms.jpg",
+     "alt": "Eine erhöhte Steinplattform mit Kerzen und Dwarven Heirlooms in einem dunklen Gang von The Hall of Thanes"
+    }
+   ]
+  }
+ }
+}

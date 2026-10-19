@@ -1,0 +1,35 @@
+{
+ "location": "Alterac Mountains, la cité du Kirin Tor",
+ "entrance": "L’Alliance entre par un tuyau depuis Cantrips & Crows, dans les Dalaran Sewers. La Horde entre par un tunnel hors de la ville, en /way 8.8 59.6. Un joueur du groupe doit avoir la Dalaran Sewer Key.",
+ "quests": {
+  "92456": {
+   "objective": "Rapportez à Shylamiir une Fel Infused Blossom de la City of Dalaran.",
+   "note": "Shylamiir se trouve dans The Park, à Stormwind."
+  },
+  "92458": {
+   "objective": "Récupérez l’Arcane Mote dans le donjon pour l’Image of Archmage Modera. La prendre vous donne la Dalaran Sewer Key.",
+   "note": "An Alarming Request, dès le niveau 30, d’Emissary Jacques à l’hôtel de ville de Southshore mène à Modera. Ensuite, Friend of the Kirin Tor vous demande de parler à Archmage Celindra dans la Violet Citadel."
+  },
+  "92489": {
+   "objective": "Tuez le Mana Elemental pour High Sorcerer Andromath dans le Mage Quarter de Stormwind.",
+   "note": "La quête appelle le boss Mana Elemental ; dans le donjon et dans l’onglet Butin, c’est Arcanic Enigma."
+  },
+  "96984": {
+   "objective": "Récupérez l’Arcane Mote dans le donjon et apportez-la à Magus Wordeen Voidglare à Tarren Mill. La prendre vous donne la Dalaran Sewer Key.",
+   "note": "La dernière étape de la chaîne de Tarren Mill décrite dans l’onglet Guide."
+  },
+  "96987": {
+   "objective": "Apportez à Rexxie Copperclutch le Founding of Dalaran, un livre trouvé dans le donjon.",
+   "note": "Rexxie se tient près de l’entrée des égouts."
+  },
+  "96988": {
+   "objective": "Récupérez 6 Cracked Sentry Cores dans le donjon pour Doctor Martin Felben dans l’Apothecarium d’Undercity."
+  },
+  "96986": {
+   "objective": "Tuez Atrexis the Grave Knight, le premier boss, pour Melisara à Tarren Mill."
+  },
+  "92457": {
+   "objective": "Tuez 8 Seeking Remnants, 8 Saturated Remnants et 8 Mana Echoes pour l’Image of Archmage Modera devant la ville."
+  }
+ }
+}

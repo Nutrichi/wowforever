@@ -1,0 +1,89 @@
+{
+ "slug": "razorfen-downs",
+ "levels": "37–46",
+ "bosses": [
+  {
+   "name": "Tuten'kash",
+   "slug": "tuten-kash",
+   "level": "40",
+   "npc": 7355,
+   "items": [
+    10775,
+    10777
+   ]
+  },
+  {
+   "name": "Plaguemaw the Rotting",
+   "slug": "plaguemaw-the-rotting",
+   "level": "40",
+   "npc": 7356,
+   "items": []
+  },
+  {
+   "name": "Mordresh Fire Eye",
+   "slug": "mordresh-fire-eye",
+   "level": "39",
+   "npc": 7357,
+   "items": [
+    10771,
+    10770
+   ]
+  },
+  {
+   "name": "Ragglesnout",
+   "slug": "ragglesnout",
+   "level": "40",
+   "npc": 7354,
+   "items": []
+  },
+  {
+   "name": "Glutton",
+   "slug": "glutton",
+   "level": "40",
+   "npc": 8567,
+   "items": [
+    10774,
+    10772
+   ]
+  },
+  {
+   "name": "Amnennar the Coldbringer",
+   "slug": "amnennar-the-coldbringer",
+   "level": "41",
+   "npc": 7358,
+   "items": [
+    10763,
+    10762,
+    10764,
+    10761,
+    10765
+   ]
+  }
+ ],
+ "loose": [
+  10584,
+  10578,
+  10582,
+  10571,
+  10573
+ ],
+ "quests": [],
+ "cards": {
+  "10571": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bone_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10571\">Ebony Boneclub</a><span class=\"wf-item__line wf-item__meta\">Item Level 37</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>31 - 59 Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(25.00 damage per second)</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+6 Shadow Resistance</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 32</span></div></div>",
+  "10573": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_41.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10573\">Boneslasher</a><span class=\"wf-item__line wf-item__meta\">Item Level 37</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>70 - 106 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(32.59 damage per second)</span><span class=\"wf-item__line\">+16 Strength</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 32</span><span class=\"wf-item__line wf-item__use\">Equip: +15 Attack Power against Undead.</span></div></div>",
+  "10578": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10578\">Thoughtcast Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 38</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Feet</span><span>Cloth</span></span><span class=\"wf-item__line\">38 Armor</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">+13 Spirit</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 33</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 13 and damage done by up to 5 for all magical spells and effects.</span></div></div>",
+  "10582": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10582\">Briar Tredders</a><span class=\"wf-item__line wf-item__meta\">Item Level 36</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Feet</span><span>Leather</span></span><span class=\"wf-item__line\">78 Armor</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">+9 Intellect</span><span class=\"wf-item__line\">+8 Spirit</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 31</span></div></div>",
+  "10584": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10584\">Stormgale Fists</a><span class=\"wf-item__line wf-item__meta\">Item Level 36</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Hands</span><span>Mail</span></span><span class=\"wf-item__line\">149 Armor</span><span class=\"wf-item__line\">+10 Strength</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 31</span></div></div>",
+  "10761": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_34.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10761\">Coldrage Dagger</a><span class=\"wf-item__line wf-item__meta\">Item Level 43</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>30 - 57 Damage</span><span>Speed 1.50</span></span><span class=\"wf-item__line\">(29.00 damage per second)</span><span class=\"wf-item__line\">+3 Frost Resistance</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 38</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Launches a bolt of frost at the enemy causing 34 to 50 Frost damage and slowing movement speed by 50% for 5 sec.</span></div></div>",
+  "10762": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10762\">Robes of the Lich</a><span class=\"wf-item__line wf-item__meta\">Item Level 43</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">62 Armor</span><span class=\"wf-item__line\">+20 Stamina</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 38</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by Frost spells and effects by up to 14.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by Shadow spells and effects by up to 14.</span></div></div>",
+  "10763": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10763\">Icemetal Barbute</a><span class=\"wf-item__line wf-item__meta\">Item Level 43</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Plate</span></span><span class=\"wf-item__line\">341 Armor</span><span class=\"wf-item__line\">+14 Strength</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+10 Frost Resistance</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 40</span></div></div>",
+  "10764": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_plate12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10764\">Deathchill Armor</a><span class=\"wf-item__line wf-item__meta\">Item Level 43</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Mail</span></span><span class=\"wf-item__line\">266 Armor</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">+9 Intellect</span><span class=\"wf-item__line\">+15 Spirit</span><span class=\"wf-item__line\">Durability 120 / 120</span><span class=\"wf-item__line\">Requires Level 39</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 20 and damage done by up to 7 for all magical spells and effects.</span></div></div>",
+  "10765": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10765\">Bonefingers</a><span class=\"wf-item__line wf-item__meta\">Item Level 43</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Leather</span></span><span class=\"wf-item__line\">81 Armor</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+9 Intellect</span><span class=\"wf-item__line\">Restores +4 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 38</span></div></div>",
+  "10770": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bone_elfskull_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10770\">Mordresh's Lifeless Skull</a><span class=\"wf-item__line wf-item__meta\">Item Level 41</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Held In Off-hand</span><span></span></span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Requires Level 36</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by Shadow spells and effects by up to 16.</span></div></div>",
+  "10771": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_24.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10771\">Deathmage Sash</a><span class=\"wf-item__line wf-item__meta\">Item Level 41</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Cloth</span></span><span class=\"wf-item__line\">33 Armor</span><span class=\"wf-item__line\">+15 Intellect</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 36</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 7.</span></div></div>",
+  "10772": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_23.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10772\">Glutton's Cleaver</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>40 - 75 Damage</span><span>Speed 2.00</span></span><span class=\"wf-item__line\">(28.75 damage per second)</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 37</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Wounds the target causing them to bleed for 70 damage over 7 sec.</span></div></div>",
+  "10774": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_28.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10774\">Fleshhide Shoulders</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Leather</span></span><span class=\"wf-item__line\">95 Armor</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+6 Agility</span><span class=\"wf-item__line\">+15 Stamina</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 37</span></div></div>",
+  "10775": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_plate08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10775\">Carapace of Tuten'kash</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Plate</span></span><span class=\"wf-item__line\">373 Armor</span><span class=\"wf-item__line\">+10 Strength</span><span class=\"wf-item__line\">+8 Agility</span><span class=\"wf-item__line\">+15 Stamina</span><span class=\"wf-item__line\">Durability 135 / 135</span><span class=\"wf-item__line\">Requires Level 40</span></div></div>",
+  "10777": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_32.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10777\">Arachnid Gloves</a><span class=\"wf-item__line wf-item__meta\">Item Level 42</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Leather</span></span><span class=\"wf-item__line\">79 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">+10 Nature Resistance</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line\">Requires Level 37</span></div></div>"
+ }
+}

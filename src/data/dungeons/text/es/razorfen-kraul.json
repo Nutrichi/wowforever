@@ -1,0 +1,37 @@
+{
+ "location": "The Barrens, en la punta sur",
+ "entrance": "Entre las zarzas de la punta sur de The Barrens, en /way 42.3 89.9. Gira al oeste justo antes del Great Lift a Thousand Needles.",
+ "quests": {
+  "1701": {
+   "objective": "Reúne los materiales que pide Furen Longbeard, entre ellos la Vial of Phlogiston de Roogug, y llévaselos a Stormwind.",
+   "note": "Una misión de Warrior al final de una cadena que empieza con Yorus Barleybrew."
+  },
+  "1142": {
+   "objective": "Encuentra Treshala's Pendant y llévalo a Treshala Fallowbrook en Darnassus.",
+   "note": "El cuerpo de Heralath Fallowbrook está en una tienda antes del último jefe. El colgante cae de los quilboar de dentro."
+  },
+  "1101": {
+   "objective": "Lleva Razorflank's Medallion, que suelta Charlga Razorflank, a Falfindel Waywarder en Thalanaar.",
+   "note": "Sigue a Lonebrow's Journal, que está sobre el cuerpo de un enano al pie del Great Lift."
+  },
+  "1838": {
+   "objective": "Lleva a Thun'grim Firegaze 15 Smoky Iron Ingots, 10 Powdered Azurite, 10 Iron Bars y una Vial of Phlogiston.",
+   "note": "Una misión de Warrior. El vial cae de Roogug."
+  },
+  "1109": {
+   "objective": "Lleva un montón de Kraul Guano a Master Apothecary Faranell.",
+   "note": "Cae de los Kraul Bats de la cueva de murciélagos y lleva a Hearts of Zeal en Scarlet Monastery."
+  },
+  "1102": {
+   "objective": "Lleva Razorflank's Heart, que suelta Charlga Razorflank, a Auld Stonespire en Thunder Bluff."
+  },
+  "1221": {
+   "objective": "Invoca un Snufflenose Gopher con la Crate with Holes, haz que cave con el Command Stick y devuelve 6 Blueleaf Tubers, el palo y la caja a Mebok Mizzyrix.",
+   "note": "Coge la caja, el palo y el manual junto a Mebok en Ratchet antes de entrar."
+  },
+  "1144": {
+   "objective": "Escolta a Willix the Importer fuera de la mazmorra.",
+   "note": "Está retenido en una tienda antes del último jefe, y la escolta termina en la entrada."
+  }
+ }
+}

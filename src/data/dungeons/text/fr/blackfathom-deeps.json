@@ -1,0 +1,47 @@
+{
+ "location": "Ashenvale, sous la Zoram Strand",
+ "entrance": "Des ruines englouties des Night Elves sur la Zoram Strand, en /way 14.5 14.6. Nagez à travers le bassin du fond et suivez la grotte des nagas jusqu’au portail.",
+ "quests": {
+  "971": {
+   "objective": "Apportez le Lorgalis Manuscript à Gerrig Bonegrip dans la Forlorn Cavern.",
+   "note": "Le manuscrit se trouve dans une alcôve de la salle de Ghamoo-ra."
+  },
+  "1198": {
+   "objective": "Trouvez Argent Guard Thaelrid dans le donjon.",
+   "note": "Il attend dans une alcôve de la salle de Ghamoo-ra et donne Blackfathom Villainy."
+  },
+  "1200": {
+   "objective": "Tuez Twilight Lord Kelris et rapportez sa tête à Dawnwatcher Selgorm à Darnassus."
+  },
+  "1275": {
+   "objective": "Rassemblez 8 Corrupted Brain Stems sur les satyres et les nagas dans et autour du donjon, Lady Sarevess comprise.",
+   "note": "The Corruption Abroad d’Argos Nightwhisper à Stormwind y mène, mais cette quête est facultative."
+  },
+  "1199": {
+   "objective": "Rapportez 10 Twilight Pendants à Argent Guard Manados.",
+   "note": "Ils tombent sur le Twilight's Hammer : Acolytes, Aquamancers, Elementalists, Loreseekers, Reavers et Shadowmages."
+  },
+  "6564": {
+   "objective": "Apportez la Damp Note à Je'neu Sancrea à Zoram'gar Outpost.",
+   "note": "Une Blackfathom Tide Priestess hors du donjon peut laisser la note."
+  },
+  "6565": {
+   "objective": "Tuez Lorgus Jett et retournez voir Je'neu Sancrea.",
+   "note": "Il n’a pas de place fixe et apparaît à l’un de plusieurs endroits du Moonshrine Sanctum."
+  },
+  "6563": {
+   "objective": "Rapportez 20 Sapphires of Aku'Mai à Je'neu Sancrea.",
+   "note": "Les cristaux poussent sur les parois de la grotte devant le portail. La quête ne s’ouvre qu’après Trouble in the Deeps de Tsunaman à Sunrock Retreat."
+  },
+  "6921": {
+   "objective": "Cliquez sur la Fathom Stone sous l’eau, tuez Baron Aquanis et rapportez le Fathom Core à Je'neu Sancrea.",
+   "note": "Après la mort du Baron, chaque membre du groupe clique à nouveau sur la pierre pour obtenir son propre noyau."
+  },
+  "6561": {
+   "objective": "Tuez Twilight Lord Kelris et rapportez sa tête à Bashana Runetotem à Thunder Bluff."
+  },
+  "6922": {
+   "objective": "Apportez la Strange Water Globe, laissée par Baron Aquanis, à Je'neu Sancrea."
+  }
+ }
+}

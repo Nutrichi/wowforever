@@ -1,0 +1,14 @@
+{
+ "location": "Tirisfal Glades, el Scarlet Monastery",
+ "entrance": "El Scarlet Monastery en el extremo este de Tirisfal Glades, en /way 85.1 31.4. Cada ala tiene su propia puerta; esta está abierta a todos.",
+ "quests": {
+  "1113": {
+   "objective": "Reúne 20 Hearts of Zeal de la Scarlet Crusade.",
+   "note": "Caen de los jefes y monstruos Scarlet de las cuatro alas. La misión sigue a Going, Going, Guano! de Razorfen Kraul."
+  },
+  "1051": {
+   "objective": "Lleva el anillo de bodas de Vorrel Sengutz a Monika Sengutz en Tarren Mill.",
+   "note": "Vorrel está retenido en la sala de Interrogator Vishas."
+  }
+ }
+}

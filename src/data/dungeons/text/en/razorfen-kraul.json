@@ -1,0 +1,37 @@
+{
+ "location": "The Barrens, at the southern tip",
+ "entrance": "In the brambles at the southern tip of The Barrens, at /way 42.3 89.9. Turn west just before the Great Lift to Thousand Needles.",
+ "quests": {
+  "1701": {
+   "objective": "Gather the materials Furen Longbeard asks for, among them the Vial of Phlogiston from Roogug, and bring them to him in Stormwind.",
+   "note": "A Warrior quest at the end of a chain that starts with Yorus Barleybrew."
+  },
+  "1142": {
+   "objective": "Find Treshala's Pendant and bring it to Treshala Fallowbrook in Darnassus.",
+   "note": "The body of Heralath Fallowbrook lies in a tent before the last boss. The pendant drops from the quilboar inside."
+  },
+  "1101": {
+   "objective": "Bring Razorflank's Medallion, a drop from Charlga Razorflank, to Falfindel Waywarder in Thalanaar.",
+   "note": "It follows Lonebrow's Journal, which lies on the body of a dwarf at the foot of the Great Lift."
+  },
+  "1838": {
+   "objective": "Bring Thun'grim Firegaze 15 Smoky Iron Ingots, 10 Powdered Azurite, 10 Iron Bars and a Vial of Phlogiston.",
+   "note": "A Warrior quest. The vial drops from Roogug."
+  },
+  "1109": {
+   "objective": "Bring a pile of Kraul Guano to Master Apothecary Faranell.",
+   "note": "It drops from the Kraul Bats in the bat cave and leads to Hearts of Zeal in Scarlet Monastery."
+  },
+  "1102": {
+   "objective": "Bring Razorflank's Heart, a drop from Charlga Razorflank, to Auld Stonespire in Thunder Bluff."
+  },
+  "1221": {
+   "objective": "Summon a Snufflenose Gopher from the Crate with Holes, make it dig with the Command Stick, and bring 6 Blueleaf Tubers, the stick and the crate back to Mebok Mizzyrix.",
+   "note": "Take the crate, the stick and the manual from next to Mebok in Ratchet before you go in."
+  },
+  "1144": {
+   "objective": "Escort Willix the Importer out of the dungeon.",
+   "note": "He is held in a tent before the last boss, and the escort ends at the entrance."
+  }
+ }
+}

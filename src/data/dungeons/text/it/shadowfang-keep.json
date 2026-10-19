@@ -1,0 +1,25 @@
+{
+ "location": "Silverpine Forest, sopra Pyrewood Village",
+ "entrance": "Sulle montagne appena a nord di Pyrewood Village, a /way 44.5 68.0. Un ponte di legno porta al cancello del castello.",
+ "quests": {
+  "1654": {
+   "objective": "Raccogli Whitestone Oak Lumber, Bailor's Refined Ore Shipment, Jordan's Smithing Hammer e una Kor Gem per Jordan Stilwell alle porte di Ironforge.",
+   "note": "Una missione da Paladin alla fine della catena del Tome of Valor. Il martello è in Shadowfang Keep, il legno viene da The Deadmines e la Kor Gem da Blackfathom Deeps."
+  },
+  "1098": {
+   "objective": "Trova Deathstalker Adamant e Deathstalker Vincent nel castello.",
+   "note": "Adamant è il prigioniero che liberi dopo Rethilgore. Il corpo di Vincent è a destra della scala verso il cortile, e la missione si consegna lì."
+  },
+  "1013": {
+   "objective": "Porta The Book of Ur a Keeper Bel'dugur nell’Apothecarium.",
+   "note": "Il libro è su uno scaffale nella sala di Fenrus the Devourer."
+  },
+  "1014": {
+   "objective": "Uccidi Archmage Arugal e porta la sua testa a Dalar Dawnweaver al Sepulcher."
+  },
+  "1740": {
+   "objective": "Porta 3 Soran'ruk Fragments e 1 Large Soran'ruk Fragment a Doan Karhan a The Barrens.",
+   "note": "Una missione da Warlock. Il frammento grande cade dagli Shadowfang Darksouls nel castello, quelli piccoli dai Twilight Acolytes di Blackfathom Deeps."
+  }
+ }
+}

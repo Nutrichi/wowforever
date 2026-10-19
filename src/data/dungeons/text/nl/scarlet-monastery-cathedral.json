@@ -1,0 +1,18 @@
+{
+ "location": "Tirisfal Glades, het Scarlet Monastery",
+ "entrance": "Het Scarlet Monastery aan de oostkant van Tirisfal Glades, op /way 85.1 31.4. De deur van deze vleugel vraagt The Scarlet Key uit de Library, of een Rogue met Lockpicking 175.",
+ "quests": {
+  "1053": {
+   "objective": "Dood High Inquisitor Whitemane, Scarlet Commander Mograine, Herod en Houndmaster Loksey en meld je terug bij Raleigh the Devout in Southshore.",
+   "note": "Het einde van een reeks die begint met Brother Anton. De bazen zitten verspreid over de Library, de Armory en de Cathedral."
+  },
+  "1113": {
+   "objective": "Verzamel 20 Hearts of Zeal van de Scarlet Crusade.",
+   "note": "Ze vallen bij bazen en monsters van de Scarlet in alle vier de vleugels. De quest volgt op Going, Going, Guano! uit Razorfen Kraul."
+  },
+  "1048": {
+   "objective": "Dood High Inquisitor Whitemane, Scarlet Commander Mograine, Herod en Houndmaster Loksey en meld je terug bij Varimathras in de Undercity.",
+   "note": "De bazen zitten verspreid over de Library, de Armory en de Cathedral."
+  }
+ }
+}

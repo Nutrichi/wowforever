@@ -1,0 +1,38 @@
+{
+ "location": "Tirisfal Glades, le Scarlet Monastery",
+ "entrance": "Le Scarlet Monastery à l’extrémité est de Tirisfal Glades, en /way 85.1 31.4. Chaque aile a sa propre porte ; celle-ci est ouverte à tous.",
+ "quests": {
+  "1050": {
+   "objective": "Trouvez le livre Mythology of the Titans et apportez-le à Librarian Mae Paledust à Ironforge.",
+   "note": "Il se trouve sur les étagères de la Gallery of Treasures."
+  },
+  "96800": {
+   "objective": "Trouvez le livre The Lost Magic of the Runemasters et apportez-le à Magus Olvek à Dalaran.",
+   "note": "Nouvelle dans Forever."
+  },
+  "1053": {
+   "objective": "Tuez High Inquisitor Whitemane, Scarlet Commander Mograine, Herod et Houndmaster Loksey, puis retournez voir Raleigh the Devout à Southshore.",
+   "note": "La fin d’une chaîne qui commence avec Brother Anton. Les boss sont répartis entre la Library, l’Armory et la Cathedral."
+  },
+  "1113": {
+   "objective": "Rassemblez 20 Hearts of Zeal sur la Scarlet Crusade.",
+   "note": "Ils tombent sur les boss et les monstres Scarlet des quatre ailes. La quête suit Going, Going, Guano! de Razorfen Kraul."
+  },
+  "1160": {
+   "objective": "Trouvez The Beginnings of the Undead Threat dans l’Athenaeum et apportez-le à Parqual Fintallas à l’Undercity.",
+   "note": "Fait partie d’une longue chaîne qui commence avec Test of Faith."
+  },
+  "1049": {
+   "objective": "Trouvez le Compendium of the Fallen dans l’Athenaeum et apportez-le à Sage Truthseeker à Thunder Bluff.",
+   "note": "Les Undead ne peuvent pas prendre cette quête."
+  },
+  "1048": {
+   "objective": "Tuez High Inquisitor Whitemane, Scarlet Commander Mograine, Herod et Houndmaster Loksey, puis retournez voir Varimathras à l’Undercity.",
+   "note": "Les boss sont répartis entre la Library, l’Armory et la Cathedral."
+  },
+  "1951": {
+   "objective": "Trouvez le livre Rituals of Power dans l’Athenaeum et apportez-le à Tabetha dans Dustwallow Marsh.",
+   "note": "Une quête de Mage à la fin d’une chaîne qui commence avec Journey to the Marsh, donnée par Magus Tirth à Thousand Needles."
+  }
+ }
+}

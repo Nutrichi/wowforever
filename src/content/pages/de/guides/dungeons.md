@@ -3,7 +3,7 @@ title: "Dungeonguide: jede Dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: jeder Dungeon, jedes Level, jeder Questgeber"
 description: "Jeder Dungeon von WoW Forever mit seinen Levels und allen Quests: wo jede Quest beginnt, für welche Fraktion, was vorher nötig ist, und die Schlüssel, die manche Dungeons verlangen."
 short: "Dungeons"
-updated: 2026-10-07
+updated: 2026-10-19
 lang: de
 manual: true
 faq:
@@ -23,44 +23,48 @@ Die Beta von WoW Forever geht seit dem 1. Oktober bis Level 30. Für die Dungeon
 
 ## Guides pro Dungeon
 
-- **[Ragefire Chasm](/de/guides/dungeons/ragefire-chasm/)**, Stufe 9-19: der Weg hinein über Orgrimmar, alle sechs Quests der Horde mit ihren Belohnungen und die neue Beute von Taragaman und Jergosh.
+- **[Ragefire Chasm](/de/guides/dungeons/ragefire-chasm/)**, Stufe 13-18: der Weg hinein über Orgrimmar, alle sechs Quests der Horde mit ihren Belohnungen und die neue Beute von Taragaman und Jergosh.
 - **[The Hall of Thanes](/de/guides/dungeons/hall-of-thanes/)**, Stufe 13-18: der Weg dorthin, alle fünf Quests mit der Reihe in Dun Morogh, die vier Bosse und ihre Beute.
 - **[Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/)**, Stufe 15-20: der Weg dorthin für beide Fraktionen, alle zehn Quests, die sechs Bosse und ihre Beute.
 - **[Wailing Caverns](/de/guides/dungeons/wailing-caverns/)**, Stufe 15-24: alle sieben Quests mit ihren Belohnungen, die Lords of the Fang, das Event von Naralex und die neuen Boni von Embrace of the Viper.
-- **[The Deadmines](/de/guides/dungeons/the-deadmines/)**, Stufe 14-24: der Weg hinein über Moonbrook, alle sieben Quests mit ihren Belohnungen und die neue Beute jedes Bosses.
-- **[Shadowfang Keep](/de/guides/dungeons/shadowfang-keep/)**, Stufe 18-28: der Weg hinein oberhalb von Pyrewood Village, die drei Quests der Horde und die neue Beute jedes Bosses.
-- **[Blackfathom Deeps](/de/guides/dungeons/blackfathom-deeps/)**, Stufe 21-30: der Weg hinein am Zoram Strand, die Quests beider Fraktionen und die neue Beute jedes Bosses.
+- **[The Deadmines](/de/guides/dungeons/the-deadmines/)**, Stufe 17-26: der Weg hinein über Moonbrook, alle sieben Quests mit ihren Belohnungen und die neue Beute jedes Bosses.
+- **[Shadowfang Keep](/de/guides/dungeons/shadowfang-keep/)**, Stufe 20-30: der Weg hinein oberhalb von Pyrewood Village, die drei Quests der Horde und die neue Beute jedes Bosses.
+- **[Blackfathom Deeps](/de/guides/dungeons/blackfathom-deeps/)**, Stufe 24-32: der Weg hinein am Zoram Strand, die Quests beider Fraktionen und die neue Beute jedes Bosses.
 - **[Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/)**, Stufe 26-31, neu in Forever: die Quests beider Fraktionen, das hohe Gras und die drei Bosse mit ihrer Beute.
-- **[The Stockade](/de/guides/dungeons/the-stockade/)**, Stufe 22-30: der Grundriss des Gefängnisses, alle sechs Quests und die Beute von Bruegal Ironknuckle.
+- **[The Stockade](/de/guides/dungeons/the-stockade/)**, Stufe 24-32: der Grundriss des Gefängnisses, alle sechs Quests und die neue blaue Beute jedes Bosses.
 - **[City of Dalaran](/de/guides/dungeons/city-of-dalaran/)**, Stufe 28-33, neu in Forever: beide Eingänge, der arkane Trash und die sieben Bosse.
-- **[Razorfen Kraul](/de/guides/dungeons/razorfen-kraul/)**, Stufe 25-34: alle sieben Quests mit ihren Belohnungen, die Zauberer der Quilboar und die neue Beute jedes Bosses.
-- **[Gnomeregan](/de/guides/dungeons/gnomeregan/)**, Stufe 25-38: beide Türen, der Teleporter für die Horde, alle dreizehn Quests und die neue Beute jedes Bosses.
-- **[Scarlet Monastery](/de/guides/dungeons/scarlet-monastery/)**, Stufe 26-45: die vier Flügel, jede Quest mit ihrer Belohnung und die Beute jedes Bosses.
-- **[Razorfen Downs](/de/guides/dungeons/razorfen-downs/)**, Stufe 35-44: alle sechs Quests mit ihren Belohnungen, das Gong-Event und die neue Beute jedes Bosses.
+- **[Razorfen Kraul](/de/guides/dungeons/razorfen-kraul/)**, Stufe 29-38: alle sieben Quests mit ihren Belohnungen, die Zauberer der Quilboar und die neue Beute jedes Bosses.
+- **[Gnomeregan](/de/guides/dungeons/gnomeregan/)**, Stufe 29-38: beide Türen, der Teleporter für die Horde, alle dreizehn Quests und die neue Beute jedes Bosses.
+- **Scarlet Monastery**, Stufe 30-46, in vier Flügeln, jeder mit eigener Beute, Quests und Guide: [Graveyard](/de/guides/dungeons/scarlet-monastery-graveyard/), [Library](/de/guides/dungeons/scarlet-monastery-library/), [Armory](/de/guides/dungeons/scarlet-monastery-armory/) und [Cathedral](/de/guides/dungeons/scarlet-monastery-cathedral/).
+- **[Razorfen Downs](/de/guides/dungeons/razorfen-downs/)**, Stufe 37-46: alle sechs Quests mit ihren Belohnungen, das Gong-Event und die neue Beute jedes Bosses.
+- **[Uldaman](/de/guides/dungeons/uldaman/)**, Stufe 41-51: der Weg hinein über die Badlands, die acht Bosse bis Archaedas und die bisher bekannte Beute.
 
 ## Jeder Dungeon nach Level
 
-Jeder Bereich reicht vom Level, ab dem eine Gruppe den Dungeon schafft, bis zum Level, auf dem er leicht wird. Für die neuen Dungeons gilt der Bereich, den Blizzard am 14. September 2026 veröffentlicht hat.
+Für die Dungeons mit Guide ist der Bereich der, den das Spiel selbst nennt. Für die anderen reicht er vom Level, ab dem eine Gruppe den Dungeon schafft, bis zum Level, auf dem er leicht wird; für die neuen ist es der Bereich, den Blizzard am 14. September 2026 veröffentlicht hat.
 
 | Dungeon | Level | Quests |
 |---|---|---|
-| [Ragefire Chasm](/de/guides/dungeons/ragefire-chasm/) | 9-19 | 5 |
+| [Ragefire Chasm](/de/guides/dungeons/ragefire-chasm/) | 13-18 | 5 |
 | [The Hall of Thanes](/de/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
 | [Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
 | [Wailing Caverns](/de/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
-| [The Deadmines](/de/guides/dungeons/the-deadmines/) | 14-24 | 8 |
-| [Shadowfang Keep](/de/guides/dungeons/shadowfang-keep/) | 18-28 | 5 |
-| [Blackfathom Deeps](/de/guides/dungeons/blackfathom-deeps/) | 21-30 | 13 |
+| [The Deadmines](/de/guides/dungeons/the-deadmines/) | 17-26 | 8 |
+| [Shadowfang Keep](/de/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
+| [Blackfathom Deeps](/de/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
 | [Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/) | 26-31 | noch nicht bekannt |
-| [The Stockade](/de/guides/dungeons/the-stockade/) | 22-30 | 6 |
+| [The Stockade](/de/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/de/guides/dungeons/city-of-dalaran/) | 28-33 | noch nicht bekannt |
-| [Razorfen Kraul](/de/guides/dungeons/razorfen-kraul/) | 25-34 | 7 |
-| [Gnomeregan](/de/guides/dungeons/gnomeregan/) | 25-38 | 13 |
+| [Razorfen Kraul](/de/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
+| [Gnomeregan](/de/guides/dungeons/gnomeregan/) | 29-38 | 13 |
 | The Drowned City | 35-40 | noch nicht bekannt |
-| [Scarlet Monastery](/de/guides/dungeons/scarlet-monastery/) | 26-45 | 8 |
-| [Razorfen Downs](/de/guides/dungeons/razorfen-downs/) | 35-44 | 6 |
+| [Scarlet Monastery: Graveyard](/de/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
+| [Scarlet Monastery: Library](/de/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
+| [Scarlet Monastery: Armory](/de/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |
+| [Scarlet Monastery: Cathedral](/de/guides/dungeons/scarlet-monastery-cathedral/) | 38-46 | 3 |
+| [Razorfen Downs](/de/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
 | Krol'dok Stronghold | 40-45 | noch nicht bekannt |
-| Uldaman | 37-47 | 14 |
+| [Uldaman](/de/guides/dungeons/uldaman/) | 41-51 | 14 |
 | Zul'Farrak | 40-50 | 8 |
 | Maraudon | 41-50 | 11 |
 | Alcaz Prison | 48-53 | noch nicht bekannt |
@@ -241,7 +245,7 @@ Der vollständige Guide: [Razorfen Kraul](/de/guides/dungeons/razorfen-kraul/).
 
 Mindestens ein Spieler braucht The Scarlet Key für Armory und Cathedral; Lockpicking 175 geht auch.
 
-Der vollständige Guide: [Scarlet Monastery](/de/guides/dungeons/scarlet-monastery/).
+Der vollständige Guide: [Scarlet Monastery](/de/guides/dungeons/scarlet-monastery-graveyard/).
 
 ### Alle Flügel
 

@@ -1,0 +1,37 @@
+{
+ "location": "The Barrens, aan de zuidpunt",
+ "entrance": "In de doornstruiken aan de zuidpunt van The Barrens, op /way 42.3 89.9. Sla net voor de Great Lift naar Thousand Needles af naar het westen.",
+ "quests": {
+  "1701": {
+   "objective": "Verzamel de materialen die Furen Longbeard vraagt, waaronder de Vial of Phlogiston van Roogug, en breng ze naar hem in Stormwind.",
+   "note": "Een Warrior-quest aan het einde van een reeks die begint bij Yorus Barleybrew."
+  },
+  "1142": {
+   "objective": "Vind Treshala's Pendant en breng hem naar Treshala Fallowbrook in Darnassus.",
+   "note": "Het lichaam van Heralath Fallowbrook ligt in een tent voor de laatste baas. De hanger valt bij de quilboar binnen."
+  },
+  "1101": {
+   "objective": "Breng Razorflank's Medallion, een drop van Charlga Razorflank, naar Falfindel Waywarder in Thalanaar.",
+   "note": "De quest volgt op Lonebrow's Journal, dat op het lichaam van een dwerg aan de voet van de Great Lift ligt."
+  },
+  "1838": {
+   "objective": "Breng Thun'grim Firegaze 15 Smoky Iron Ingots, 10 Powdered Azurite, 10 Iron Bars en een Vial of Phlogiston.",
+   "note": "Een Warrior-quest. De fiool valt bij Roogug."
+  },
+  "1109": {
+   "objective": "Breng een hoop Kraul Guano naar Master Apothecary Faranell.",
+   "note": "Die valt bij de Kraul Bats in de vleermuisgrot en leidt naar Hearts of Zeal in Scarlet Monastery."
+  },
+  "1102": {
+   "objective": "Breng Razorflank's Heart, een drop van Charlga Razorflank, naar Auld Stonespire in Thunder Bluff."
+  },
+  "1221": {
+   "objective": "Roep met de Crate with Holes een Snufflenose Gopher op, laat hem graven met de Command Stick, en breng 6 Blueleaf Tubers, de stok en de kist terug naar Mebok Mizzyrix.",
+   "note": "Neem de kist, de stok en de handleiding mee van naast Mebok in Ratchet voor je naar binnen gaat."
+  },
+  "1144": {
+   "objective": "Begeleid Willix the Importer de dungeon uit.",
+   "note": "Hij zit gevangen in een tent voor de laatste baas, en de begeleiding eindigt aan de ingang."
+  }
+ }
+}

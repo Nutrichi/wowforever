@@ -1,0 +1,34 @@
+{
+ "location": "The Barrens, below the Lushwater Oasis",
+ "entrance": "The cave mouth is in the ravine south of the Lushwater Oasis, at /way 46.0 36.3. The path winds down to a cavern with a pool, where the portal is.",
+ "quests": {
+  "962": {
+   "objective": "Pick 10 Serpentbloom, plants that grow on the walls of the dungeon and of the caves before the portal.",
+   "note": "There are few of them, so not everyone in a group finishes in one run."
+  },
+  "914": {
+   "objective": "Kill the four Lords of the Fang, Lady Anacondra, Lord Cobrahn, Lord Pythas and Lord Serpentis, and bring their gems to Nara Wildmane.",
+   "note": "The last quest of a chain that starts with The Barrens Oases from Tonga Runetotem in the Crossroads."
+  },
+  "1486": {
+   "objective": "Collect 20 Deviate Hides. Most beasts in the dungeon drop them.",
+   "note": "Nalpak stands in the cave above the entrance, before the portal."
+  },
+  "1491": {
+   "objective": "Collect 6 portions of Wailing Essence from the Devouring, Evolving and Nightmare Ectoplasms.",
+   "note": "Mebok Mizzyrix only gives this quest after Raptor Horns."
+  },
+  "959": {
+   "objective": "Kill Mad Magglish and bring the bottle of 99-Year-Old Port back to Crane Operator Bigglefuzz.",
+   "note": "Mad Magglish is an elite in the cave outside the portal, near Nalpak, at /way 46.1 35.8."
+  },
+  "1487": {
+   "objective": "Kill 7 Deviate Ravagers, 7 Deviate Vipers, 7 Deviate Shamblers and 7 Deviate Dreadfangs.",
+   "note": "Ebru stands next to Nalpak in the cave above the entrance."
+  },
+  "6981": {
+   "objective": "Mutanus the Devourer drops the Glowing Shard. Take it to Sputtervalve in Ratchet, who sends you to Falla Sagewind on the hill above the entrance.",
+   "note": "It continues with In Nightmares, for Arch Druid Hamuul Runetotem in Thunder Bluff."
+  }
+ }
+}
