@@ -6,6 +6,10 @@
  *
  * De kop en de tabs staan op alle drie. De buit en de quests komen uit de data
  * (lib/dungeons.ts); de Guide is de Markdown van de pagina zelf (de slot).
+ *
+ * Sinds 19 oktober 2026 (Nutri) zonder inleidende zin in de kop, en de buit per baas
+ * in een eigen subtab op dezelfde pagina: alles staat in de HTML, het script toont één
+ * baas en zet de keuze in de hash (#magmatus). Zonder JavaScript staat alles onder elkaar.
  */
 import type { Locale } from '../../i18n/ui';
 import { dungeonT } from '../../i18n/dungeon';
@@ -45,6 +49,12 @@ const side = (q: DungeonQuest) => (q.faction === 'alliance' ? t('alliance') : q.
 const sideClass = (q: DungeonQuest) => (q.faction ? `is-${q.faction}` : 'is-both');
 const card = (id: number) => d.cards[String(id)] ?? '';
 const rewardQuests = d.quests.filter((q) => q.rewards.length > 0);
+// De subtabs van de buit: elke baas, dan de losse drops, dan de questbeloningen.
+const lootTabs: { id: string; label: string; count: number; n?: number }[] = [
+  ...d.bosses.map((b, i) => ({ id: b.slug, label: b.name, count: b.items.length, n: i + 1 })),
+  ...(d.loose.length > 0 ? [{ id: 'other-drops', label: t('otherLoot'), count: d.loose.length }] : []),
+  ...(rewardQuests.length > 0 ? [{ id: 'quest-rewards', label: t('rewardsTitle'), count: new Set(rewardQuests.flatMap((q) => q.rewards)).size }] : []),
+];
 
 function placeLine(p: DungeonPlace): string {
   const bits = [p.zone, p.place].filter(Boolean);
@@ -62,7 +72,6 @@ function placeLine(p: DungeonPlace): string {
     <div><dt>{t('items')}</dt><dd>{itemCount}</dd></div>
     <div><dt>{t('quests')}</dt><dd>{d.quests.length}</dd></div>
   </dl>
-  <p class="wf-dng__intro">{text.intro}</p>
   <p class="wf-dng__entrance"><strong>{t('entrance')}.</strong> {text.entrance}</p>
 
   <nav class="wf-dng__tabs" aria-label={t('tabGuide')}>
@@ -77,35 +86,44 @@ function placeLine(p: DungeonPlace): string {
 {tab === 'loot' && (
   <div class="wf-gprose wf-dng__body">
     <slot />
-    <h2>{t('bossesTitle')}</h2>
-    {d.bosses.map((b, i) => (
-      <section class="wf-dng__boss" id={b.slug}>
-        <h3>
-          <span class="wf-dng__num">{String(i + 1).padStart(2, '0')}</span>
-          {b.npc ? <a href={wh('npc', b.npc)}>{b.name}</a> : b.name}
-          <span class="wf-dng__sub">{t('bossLevel', { n: b.level })} · {t('drops', { n: b.items.length })}</span>
-        </h3>
-        <div class="wf-items" set:html={b.items.map(card).join('')} />
-      </section>
-    ))}
-    {d.loose.length > 0 && (
-      <section class="wf-dng__boss">
-        <h3>{t('otherLoot')}</h3>
-        <div class="wf-items" set:html={d.loose.map(card).join('')} />
-      </section>
-    )}
-    {rewardQuests.length > 0 && (
-      <>
-        <h2>{t('rewardsTitle')}</h2>
-        <p>{t('rewardsIntro')}</p>
-        {rewardQuests.map((q) => (
-          <section class="wf-dng__boss">
-            <h3><a href={questHref(q.id)}>{q.name}</a><span class="wf-dng__sub">{q.choice && q.rewards.length > 1 ? t('choose') : t('reward')}</span></h3>
-            <div class="wf-items" set:html={q.rewards.map(card).join('')} />
-          </section>
+    <div class="wf-dloot" data-wf-loot>
+      <nav class="wf-dloot__tabs" aria-label={t('tabLoot')} data-pagefind-ignore>
+        {lootTabs.map((x, i) => (
+          <a class="wf-dloot__tab" href={`#${x.id}`} data-tab={x.id} aria-current={i === 0 ? 'true' : undefined}>
+            {x.n !== undefined && <span class="wf-dloot__num">{x.n}</span>}{x.label}<span class="wf-dloot__count">{x.count}</span>
+          </a>
         ))}
-      </>
-    )}
+      </nav>
+      {d.bosses.map((b, i) => (
+        <section class="wf-dng__boss" id={b.slug} data-panel={b.slug} hidden={i !== 0}>
+          <h3>
+            <span class="wf-dng__num">{String(i + 1).padStart(2, '0')}</span>
+            {b.npc ? <a href={wh('npc', b.npc)}>{b.name}</a> : b.name}
+            <span class="wf-dng__sub">{t('bossLevel', { n: b.level })} · {t('drops', { n: b.items.length })}</span>
+          </h3>
+          <div class="wf-items" set:html={b.items.map(card).join('')} />
+        </section>
+      ))}
+      {d.loose.length > 0 && (
+        <section class="wf-dng__boss" id="other-drops" data-panel="other-drops" hidden={d.bosses.length > 0}>
+          <h3>{t('otherLoot')}</h3>
+          <div class="wf-items" set:html={d.loose.map(card).join('')} />
+        </section>
+      )}
+      {rewardQuests.length > 0 && (
+        <section id="quest-rewards" data-panel="quest-rewards" hidden={lootTabs[0]?.id !== 'quest-rewards'}>
+          <h3 class="wf-dloot__title">{t('rewardsTitle')}</h3>
+          <p>{t('rewardsIntro')}</p>
+          {rewardQuests.map((q) => (
+            <section class="wf-dng__boss">
+              <h4><a href={questHref(q.id)}>{q.name}</a><span class="wf-dng__sub">{q.choice && q.rewards.length > 1 ? t('choose') : t('reward')}</span></h4>
+              <div class="wf-items" set:html={q.rewards.map(card).join('')} />
+            </section>
+          ))}
+        </section>
+      )}
+    </div>
+    <noscript><style>.wf-dloot [data-panel][hidden] { display: block !important; } .wf-dloot__tabs { display: none; }</style></noscript>
   </div>
 )}
 
@@ -225,7 +243,6 @@ function placeLine(p: DungeonPlace): string {
   }
   .wf-dng__facts dd { margin: 2px 0 0; font-size: 15px; color: var(--wf-ink); }
 
-  .wf-dng__intro { margin: 0 0 6px; color: var(--wf-ink); }
   .wf-dng__entrance { margin: 0 0 16px; color: var(--wf-muted); font-size: 14.5px; }
   .wf-dng__entrance strong { color: var(--wf-ink); }
 
@@ -255,7 +272,32 @@ function placeLine(p: DungeonPlace): string {
 
   .wf-dng__body { margin-top: 18px; }
   .wf-dng__boss { margin: 0 0 18px; }
-  .wf-dng__boss h3 { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+  .wf-dng__boss h3, .wf-dng__boss h4 { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+  [data-panel][hidden] { display: none; }
+
+  /* De subtabs van de buit, als chips zoals de categorieën op /guides/. */
+  .wf-dloot__tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
+  /* .wf-gprose ervoor: anders wint de linkstijl van de lopende tekst. */
+  .wf-gprose .wf-dloot__tab {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 6px 14px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    font-size: 14px;
+    line-height: 1.4;
+    color: var(--wf-muted);
+    text-decoration: none;
+    white-space: nowrap;
+    transition: border-color .15s ease, color .15s ease, background-color .15s ease;
+  }
+  .wf-gprose .wf-dloot__tab:hover { border-color: var(--wf-accent-deep); color: var(--wf-ink); }
+  .wf-gprose .wf-dloot__tab[aria-current='true'] { background: var(--wf-accent-wash); border-color: var(--wf-accent-deep); color: var(--wf-accent-bright); }
+  .wf-dloot__num { font-family: var(--wf-display); font-weight: 700; color: var(--wf-accent); }
+  .wf-dloot__count { font-size: 12px; color: var(--wf-label); }
+  .wf-dloot__tab[aria-current='true'] .wf-dloot__count { color: var(--wf-accent); }
+  .wf-gprose .wf-dloot__title { margin: 0; }
   .wf-dng__num { font-family: var(--wf-display); color: var(--wf-accent); }
   .wf-dng__sub { font-size: 13.5px; font-weight: 400; color: var(--wf-muted); }
 
@@ -291,5 +333,41 @@ function placeLine(p: DungeonPlace): string {
   @media (max-width: 599px) {
     .wf-dng__tab { flex: 1; justify-content: center; padding: 8px 6px; font-size: 14.5px; }
     .wf-dq { padding: 12px 12px 4px; }
+    .wf-dloot__tabs { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; }
+    .wf-dloot__tabs::-webkit-scrollbar { display: none; }
+    .wf-dloot__tab { flex: none; }
   }
 </style>
+
+<script>
+  // De subtabs van de buit: één baas tegelijk, de keuze in de hash (zoals de hub /guides/).
+  const root = document.querySelector<HTMLElement>('[data-wf-loot]');
+
+  if (root) {
+    const tabs = Array.from(root.querySelectorAll<HTMLAnchorElement>('[data-tab]'));
+    const panels = Array.from(root.querySelectorAll<HTMLElement>('[data-panel]'));
+    const keys = panels.map((panel) => panel.dataset.panel);
+
+    const show = (key: string) => {
+      panels.forEach((panel) => { panel.hidden = panel.dataset.panel !== key; });
+      tabs.forEach((tab) => {
+        if (tab.dataset.tab === key) tab.setAttribute('aria-current', 'true');
+        else tab.removeAttribute('aria-current');
+      });
+    };
+
+    tabs.forEach((tab) => tab.addEventListener('click', (event) => {
+      event.preventDefault();
+      const key = tab.dataset.tab ?? '';
+      show(key);
+      history.replaceState(null, '', `#${key}`);
+    }));
+
+    const fromHash = () => {
+      const key = window.location.hash.slice(1);
+      if (keys.includes(key)) show(key);
+    };
+    window.addEventListener('hashchange', fromHash);
+    fromHash();
+  }
+</script>

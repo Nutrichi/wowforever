@@ -3,8 +3,9 @@
  * De hub /guides/ (Nutri, 10 oktober 2026; herschikt op 19 oktober 2026: "The
  * guides section is now 1 gigantic big mess", gekozen: tabs per categorie).
  *
- * Onder de korte inleiding uit guides.md: Onlangs bijgewerkt als één rij kleine
- * kaarten, dan een rij tabs met de categorieën en daaronder alleen de gekozen
+ * Direct onder de titel: Onlangs bijgewerkt als één rij smalle kaarten met een klein
+ * beeld links en de naam, zonder datum (19 oktober 2026, Nutri: kleiner, meer ruimte
+ * voor de tabs), dan een rij tabs met de categorieën en daaronder alleen de gekozen
  * categorie, als compacte rijen met een klein beeld, de naam, het levelbereik
  * en één regel uitleg. Alle categorieën staan in de HTML (een zoekmachine ziet
  * elke link); het script toont er één en zet de keuze in de hash (#dungeons).
@@ -23,7 +24,6 @@ import { hubBlurbs, hubT } from '../../i18n/guides-hub';
 import { guideT } from '../../i18n/guides';
 import { restedxpUrl } from '../../config/site';
 import { pagePath } from '../../lib/pages';
-import { isoDate, longDate } from '../../lib/date';
 
 interface Props {
   locale: Locale;
@@ -52,19 +52,16 @@ const first = categories[0]?.key;
 <section class="wf-hub__block" aria-labelledby="wf-hub-recent" data-pagefind-ignore>
   <h2 class="wf-hub__title" id="wf-hub-recent">{t('recent')}</h2>
   <div class="wf-hub__recent">
-    {recent.map(({ card, updated }) => {
+    {recent.map(({ card }) => {
       const image = imageOf(card.image);
       return (
         <a class="wf-hcard" href={hrefOf(card.key)}>
           <span class="wf-hcard__media">
             {image
-              ? <Image src={image} alt="" widths={[240, 400]} sizes="(max-width: 600px) 45vw, 200px" loading="lazy" decoding="async" />
+              ? <Image src={image} alt="" widths={[160]} sizes="80px" loading="lazy" decoding="async" />
               : <span class="wf-hcard__stripes" aria-hidden="true"></span>}
           </span>
-          <span class="wf-hcard__body">
-            <span class="wf-hcard__name">{titleOf(card)}</span>
-            <time class="wf-hcard__date" datetime={isoDate(updated)}>{t('updated', { date: longDate(updated, locale) })}</time>
-          </span>
+          <span class="wf-hcard__name">{titleOf(card)}</span>
         </a>
       );
     })}
@@ -140,21 +137,23 @@ const first = categories[0]?.key;
 <noscript><style>.wf-hub__panel[hidden] { display: block !important; } .wf-hub__tabs { display: none; }</style></noscript>
 
 <style>
-  .wf-hub__block { margin-top: 30px; }
-  .wf-hub__title { font-family: var(--wf-display); font-size: 20px; line-height: 1.2; color: var(--wf-ink); }
+  .wf-hub__block { margin-top: 18px; }
+  .wf-hub__title { font-family: var(--wf-display); font-size: 16px; line-height: 1.2; color: var(--wf-ink); }
 
   .wf-hub__recent {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 12px;
-    margin-top: 12px;
+    gap: 10px;
+    margin-top: 8px;
   }
 
-  /* Een kleine kaart onder Onlangs bijgewerkt. */
+  /* Een smalle kaart onder Onlangs bijgewerkt: klein beeld links, de naam rechts. */
   .wf-hcard {
     display: flex;
-    flex-direction: column;
+    align-items: center;
+    gap: 10px;
     min-width: 0;
+    padding: 6px;
     background: var(--wf-raised);
     border: 1px solid var(--wf-border);
     border-radius: var(--wf-r-card-sm, 10px);
@@ -164,20 +163,18 @@ const first = categories[0]?.key;
     transition: border-color .15s ease, box-shadow .15s ease;
   }
   .wf-hcard:hover { border-color: var(--wf-accent-deep); box-shadow: var(--wf-glow-card); }
-  .wf-hcard__media { position: relative; display: block; aspect-ratio: 16 / 9; overflow: hidden; background: var(--wf-slot-a); }
+  .wf-hcard__media { position: relative; flex: none; display: block; width: 72px; aspect-ratio: 16 / 9; overflow: hidden; border-radius: 6px; background: var(--wf-slot-a); }
   .wf-hcard__media img { display: block; width: 100%; height: 100%; object-fit: cover; }
   .wf-hcard__stripes {
     position: absolute;
     inset: 0;
     background: repeating-linear-gradient(45deg, var(--wf-slot-a) 0 10px, var(--wf-slot-b) 10px 20px);
   }
-  .wf-hcard__body { display: flex; flex-direction: column; gap: 3px; padding: 9px 11px 11px; }
-  .wf-hcard__name { font-family: var(--wf-display); font-size: 14.5px; font-weight: 700; line-height: 1.25; color: var(--wf-ink); }
+  .wf-hcard__name { min-width: 0; font-family: var(--wf-display); font-size: 14px; font-weight: 700; line-height: 1.25; color: var(--wf-ink); }
   .wf-hcard:hover .wf-hcard__name { color: var(--wf-accent); }
-  .wf-hcard__date { font-size: 12px; color: var(--wf-label); }
 
   /* De tabs: een rij chips, op een telefoon horizontaal scrollbaar. */
-  .wf-hub { margin-top: 30px; }
+  .wf-hub { margin-top: 20px; }
   .wf-hub__tabs {
     display: flex;
     flex-wrap: wrap;
@@ -289,7 +286,7 @@ const first = categories[0]?.key;
       padding-inline: 16px;
     }
     .wf-hub__recent::-webkit-scrollbar { display: none; }
-    .wf-hub__recent .wf-hcard { flex: none; width: 168px; scroll-snap-align: start; }
+    .wf-hub__recent .wf-hcard { flex: none; width: 200px; scroll-snap-align: start; }
     .wf-hub__rows { grid-template-columns: minmax(0, 1fr); }
   }
 

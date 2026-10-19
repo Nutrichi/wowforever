@@ -2,7 +2,6 @@
  "hall-of-thanes": {
   "location": "Old Ironforge, beneath Ironforge",
   "entrance": "Inside the High Seat of Ironforge, where Magni Bronzebeard sits, a cobwebbed passage opens on the left at /way 43.5 52.0. Follow it all the way down to the portal. The path runs above lava, and a fall is lethal.",
-  "intro": "The resting place of the great Dwarves of the Eastern Kingdoms, broken into by the Dark Iron Dwarves. For most Alliance players it is the first dungeon of WoW Forever: four bosses, five quests and blue loot from level 13.",
   "quests": {
    "96394": {
     "objective": "Kill 15 Enraged Apparitions and 10 Tormented Souls, the ghosts in the first rooms, and put the spirit of Anvilmar to rest.",

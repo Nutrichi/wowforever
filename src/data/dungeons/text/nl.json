@@ -2,7 +2,6 @@
  "hall-of-thanes": {
   "location": "Old Ironforge, onder Ironforge",
   "entrance": "In de High Seat van Ironforge, waar Magni Bronzebeard zit, opent links een gang vol spinrag op /way 43.5 52.0. Volg die helemaal naar beneden tot het portaal. Het pad loopt boven lava, en een val is dodelijk.",
-  "intro": "De rustplaats van de grote Dwarves van de Eastern Kingdoms, waar de Dark Iron Dwarves zijn binnengedrongen. Voor de meeste spelers van de Alliance de eerste dungeon van WoW Forever: vier bazen, vijf quests en blauwe loot vanaf level 13.",
   "quests": {
    "96394": {
     "objective": "Dood 15 Enraged Apparitions en 10 Tormented Souls, de geesten in de eerste zalen, en breng de geest van Anvilmar tot rust.",

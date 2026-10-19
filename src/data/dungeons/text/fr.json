@@ -2,7 +2,6 @@
  "hall-of-thanes": {
   "location": "Old Ironforge, sous Ironforge",
   "entrance": "Dans le High Seat d’Ironforge, où siège Magni Bronzebeard, un passage couvert de toiles s’ouvre à gauche en /way 43.5 52.0. Suivez-le jusqu’en bas, jusqu’au portail. Le chemin passe au-dessus de la lave, et une chute est mortelle.",
-  "intro": "Le lieu de repos des grands Dwarves des Eastern Kingdoms, envahi par les Dark Iron Dwarves. Pour la plupart des joueurs de l’Alliance, le premier donjon de WoW Forever : quatre boss, cinq quêtes et du butin bleu dès le niveau 13.",
   "quests": {
    "96394": {
     "objective": "Tuez 15 Enraged Apparitions et 10 Tormented Souls, les fantômes des premières salles, et apaisez l’esprit d’Anvilmar.",

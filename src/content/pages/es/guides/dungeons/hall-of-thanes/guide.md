@@ -1,7 +1,7 @@
 ---
 title: "The Hall of Thanes"
-metaTitle: "Guía de The Hall of Thanes para WoW Forever: mapa, ruta y jefes"
-description: "Cómo hacer The Hall of Thanes en WoW Forever: la entrada, un mapa, la ruta del portal al Reliquary of Kings, los cuatro jefes y el trash que más pega."
+metaTitle: "Guía de The Hall of Thanes para WoW Forever: ruta, trash y jefes"
+description: "Cómo hacer The Hall of Thanes en WoW Forever: la entrada, la ruta del portal al Reliquary of Kings, el trash que más pega y los cuatro jefes."
 short: "Guía"
 updated: 2026-10-19
 lang: es
@@ -17,11 +17,9 @@ dungeon:
 ---
 ## Cómo llegar
 
-**Alliance.** Entra en el High Seat de Ironforge. La puerta a Old Ironforge está enseguida a la izquierda. Sigue el camino hasta abajo, hasta el portal.
+**Alliance.** Entra en la High Seat de Ironforge, donde se sienta King Magni Bronzebeard. A la izquierda se abre un pasaje lleno de telarañas, en /way 43.5 52.0. Síguelo hasta abajo, hasta el portal. El camino pasa sobre la lava, y una caída es mortal.
 
-**Horde.** La mazmorra es la versión de la Alliance de Ragefire Chasm, y el camino es largo. Desde Tarren Mill pasa por las Arathi Highlands, los Wetlands y Loch Modan hasta Dun Morogh, y luego ante los guardias de Ironforge. No se ha encontrado una ruta más rápida. Quítate el equipo antes de los guardias para que no pierda durabilidad al morir.
-
-**La entrada exacta.** Colócate en la Great Forge, de cara a la High Seat, donde está King Magni Bronzebeard. Dentro de su sala se abre a la izquierda un pasaje lleno de telarañas, en /way 43.5 52.0. Síguelo hasta abajo. El camino pasa sobre lava, y una caída es mortal.
+**Horde.** Una larga caminata por tierras de la Alliance: desde la Undercity por Silverpine Forest, las Hillsbrad Foothills, las Arathi Highlands, los Wetlands y Loch Modan hasta Dun Morogh, y luego delante de los guardias de Ironforge. Quítate el equipo antes de los guardias, para que no pierda durabilidad si mueres.
 
 <div class="wf-shots">
 
@@ -33,19 +31,19 @@ dungeon:
 
 </div>
 
-## La ruta por la mazmorra
+## La ruta
 
-El Hall of Thanes es una línea recta con un desvío por una cueva. Desde el portal:
+Una línea recta con un desvío por una cueva. Desde el portal:
 
 1. **La primera sala.** Tormented Souls y Enraged Apparitions, pulls fáciles. Toma el pasillo de la izquierda, hacia el oeste.
-2. **La Ghostly Attendant.** En la sala siguiente da An Ancient Grudge. Después viene Anvilmar's Rest, una gran sala con una tumba en el centro y Faldrim Anvilmar dando vueltas. Limpia antes los fantasmas.
-3. **El lado de los Dark Iron.** Sal de Anvilmar's Rest por el pasillo del sureste. Desde aquí mandan los Dark Iron Dwarves. Por el camino hay barriles de Seaforium Blasting Powder: dispárales a distancia y hacen volar al grupo de alrededor.
-4. **La cueva.** Las tumbas dan paso a una caverna natural, donde Magmatus está entre Dark Iron Dwarves.
-5. **De vuelta a las salas.** Al final del túnel espera un grupo de cuatro con dos barriles al lado. Dispara a los dos barriles a la vez antes del pull.
+2. **Anvilmar's Rest.** En la sala anterior, la Ghostly Attendant da An Ancient Grudge. Faldrim Anvilmar da vueltas alrededor de la tumba del centro.
+3. **El lado de los Dark Iron.** Sal por el pasillo del sureste. Junto a varios grupos hay barriles de Seaforium Blasting Powder: dispárales a distancia y el grupo salta por los aires.
+4. **La cueva.** Magmatus está entre Dark Iron Dwarves.
+5. **De vuelta a las salas.** Arriba del túnel espera un grupo de cuatro con dos barriles al lado. Dispara a los dos barriles a la vez.
 6. **Plunder** patrulla el pasillo justo después.
-7. **La Reliquary of Kings.** Al norte, tras un puente con Lesser Stone Golems, está la última sala, con Durgen Dirgehammer. Detrás de una de las puertas de las criptas está el Treaty of Understanding.
+7. **El Reliquary of Kings.** Al norte, por un puente con Lesser Stone Golems, con Durgen Dirgehammer. El Treaty of Understanding está detrás de una de las puertas de la cámara.
 
-Al salir, entrega An Ancient Grudge a la Ghostly Attendant.
+Al salir, entrega [An Ancient Grudge](/es/guides/dungeons/hall-of-thanes/quests/#quest-96395) a la Ghostly Attendant.
 
 <div class="wf-shots">
 
@@ -57,56 +55,53 @@ Al salir, entrega An Ancient Grudge a la Ghostly Attendant.
 
 </div>
 
+## El trash importante
+
+Los fantasmas de las primeras salas caen rápido. Pasado Faldrim Anvilmar mandan los Dark Iron Dwarves, y esos grupos merecen atención.
+
+**Dark Iron Engineer.** Lanza bombas a su objetivo una y otra vez, y la explosión alcanza a todos los de alrededor. El punto se fija al empezar el lanzamiento, así que apártate y la bomba falla del todo.
+
+**Dark Iron Looter.** Dagas envenenadas y mucho daño. Suele ir con otros Dark Iron Dwarves o con algunos Bloodhound Runts no élite. Mata primero a los Looters.
+
+![Un Dark Iron Looter y un Dark Iron Engineer en una sala oscura de The Hall of Thanes, una captura de la beta de World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-looter-and-engineer.jpg)
+
+**Dark Iron Summoner.** Un lanzador de hechizos con una Fireball potente que además invoca un Fiery Assistant, un elemental de fuego. Los dos lanzamientos se pueden interrumpir y el Summoner se puede aturdir. Haz el pull tras un pilar o una pared, fuera de su vista, para que tenga que acercarse.
+
+![Un Dark Iron Summoner y un Dark Iron Looter junto a un farol, una captura de la beta de World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-summoner.jpg)
+
+**Lesser Stone Golem.** Pega fuerte y rápido y corre más que tú, así que huir no sirve. Solo es asumible; junto a otro grupo hace daño. El último grupo antes del jefe final tiene un Golem, un Looter y un Summoner: [Polymorph](https://www.wowhead.com/forever/spell=118) al Summoner y luego mata al Looter y al Golem.
+
+![Un Lesser Stone Golem, un gigante de piedra gris con runas verdes, una captura de la beta de World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.jpg)
+
+**Bloodhound Runts.** Su mordisco deja Infected Wounds durante 5 minutos: más daño físico recibido. Sin una clase que quite enfermedades, lo cura un Simple Poultice de First Aid o el racial [Stoneform](https://www.wowhead.com/forever/spell=20594) del Dwarf.
+
 ## Los cuatro jefes
 
 ### Faldrim Anvilmar
 
-Un fantasma que patrulla el centro de Anvilmar's Rest. Limpia un lado de la sala, espera a que venga hacia ti y atráelo allí, lejos del trash. Lanza [Mind Blast](https://www.wowhead.com/forever/spell=26048) y pone [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) al tanque durante 10 minutos: velocidad de ataque y de lanzamiento un 20 % menor, pero inmune a venenos y sangrados. Alguien que quite maldiciones lo pone más fácil. Derrotarlo abre las puertas hacia el fondo de la sala, según el [vídeo de mazmorras de Blizzard](/es/news/blizzard-shows-three-launch-dungeons-in-a-video/).
-
-Faldrim no arrastra a los fantasmas de su alrededor, pero deja espacio antes del pull de todos modos.
+Un Dwarf no muerto que patrulla alrededor de su tumba en Anvilmar's Rest, entre los fantasmas. El peligro es hacerle pull junto a un grupo. Despeja antes un hueco y llévalo allí. Lanza [Mind Blast](https://www.wowhead.com/forever/spell=26048) y pone [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) al tanque durante 10 minutos: velocidad de ataque y de lanzamiento un 20 % más lenta, pero inmune a venenos y sangrados. Un jugador que quite maldiciones lo pone más fácil.
 
 ### Magmatus
 
-Un elemental de fuego con un Dark Iron Summoner a su lado. Que el tanque aleje a Magmatus del grupo y matad primero al Summoner, porque el jefe suelta de vez en cuando una nova de fuego. [Combust](https://www.wowhead.com/forever/spell=1293228) prende fuego a un jugador al azar durante 12 segundos. Conviene eliminar antes del pull a un Summoner que patrulle cerca.
+Un elemental de fuego con un Dark Iron Summoner a su lado y más trash alrededor. Elimina al Summoner que patrulla antes del pull. En el combate, el tanque aleja a Magmatus del grupo mientras el resto mata al Summoner: su Fire Nova es instantánea y alcanza a todos los que están cerca. [Combust](https://www.wowhead.com/forever/spell=1293228) prende fuego a un jugador al azar durante 12 segundos.
 
 ![El elemental de fuego Magmatus, nivel 16, se alza sobre un tanque Dwarf en The Hall of Thanes, una captura de la beta de World of Warcraft: Forever](../../../../../../assets/posts/2026-09-24-wow-forever-magmatus.jpg)
 
 ### Plunder
 
-Un gólem que patrulla un pasillo, con una sola habilidad: [Knock Away](https://www.wowhead.com/forever/spell=10101), que lanza lejos a un jugador. Atráelo a un sitio donde nadie caiga sobre el trash, con el grupo contra una pared o en una esquina.
+Un gólem que patrulla su pasillo, con una sola habilidad: [Knock Away](https://www.wowhead.com/forever/spell=10101), que lanza lejos a un jugador. Limpia antes el trash y luego el tanque lo lleva a una esquina. Colócate de modo que un golpe nunca te mande a un grupo.
 
 ![Plunder, un gólem de bronce oscuro con puños enormes, en una sala con alfombra roja, una captura de la beta de World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-plunder.jpg)
 
 ### Durgen Dirgehammer
 
-El jefe final, en el Reliquary of Kings, con dos Lesser Stone Golems a su lado y Dark Iron Looters junto a las paredes. Limpia primero a los Looters: su [Fear](https://www.wowhead.com/forever/spell=26070) manda a los jugadores hacia ellos. También pone [Rend](https://www.wowhead.com/forever/spell=12054) al tanque. Matad a los Golems de uno en uno; un Golem muerto antes de un wipe no vuelve, así que cada intento es más fácil. Tras el combate, un interruptor en la cámara del fondo abre las puertas cerradas, y la salida es corta.
+El jefe final, el responsable de la incursión Dark Iron. Va de izquierda a derecha por su plataforma en el Reliquary of Kings, con dos Lesser Stone Golems a su lado y Dark Iron Looters por la sala. Limpia todos los Looters antes del pull: su [Fear](https://www.wowhead.com/forever/spell=26070) hace huir a los jugadores durante 8 segundos. Después mata a Durgen lo antes posible y a los Golems tras él; juntos pegan muy fuerte al tanque. También pone [Rend](https://www.wowhead.com/forever/spell=12054) al tanque, 44 de daño físico cada 3 segundos. Un Golem que muere antes de un wipe no vuelve.
 
-Un Shaman que pone un [Tremor Totem](https://www.wowhead.com/forever/spell=8143) antes del pull deja el miedo sin efecto.
-
-## Trash
-
-Las primeras salas son fáciles; el lado Dark Iron no.
-
-**Dark Iron Looters y Engineers.** Los Looters atacan rápido con dagas y vacían al tanque si llegan varios a la vez, así que matadlos primero. Los Engineers lanzan bombas a un punto del suelo, y ese daño se puede esquivar por completo.
-
-![Un Dark Iron Looter y un Dark Iron Engineer en una sala oscura de The Hall of Thanes, una captura de la beta de World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-looter-and-engineer.jpg)
-
-**Dark Iron Summoners.** Lanzan Fireball e invocan un Fiery Assistant durante 30 segundos. Atráelos detrás de un pilar o una pared, fuera de su vista, para que tengan que acercarse.
-
-![Un Dark Iron Summoner y un Dark Iron Looter junto a un farol, una captura de la beta de World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-summoner.jpg)
-
-**Lesser Stone Golems.** Son los que más pegan y se mueven rápido. Atráelos de uno en uno si se puede, y acaba con uno antes del siguiente. El último grupo antes del jefe final junta un Summoner, un Looter y un Golem: [Polymorph](https://www.wowhead.com/forever/spell=118) sobre uno de ellos y aturdimientos como [Hammer of Justice](https://www.wowhead.com/forever/spell=853) ayudan. Los sanadores atraen mucha amenaza a estos niveles.
-
-![Un Lesser Stone Golem, un gigante de piedra gris con runas verdes, una captura de la beta de World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.jpg)
-
-**Bloodhound Runts.** Su mordisco deja Infected Wounds durante 5 minutos: más daño físico recibido. Sin una clase que quite enfermedades, un Simple Poultice de First Aid o la racial [Stoneform](https://www.wowhead.com/forever/spell=20594) del Dwarf lo cura.
-
-**Barriles de Seaforium.** Junto a varios grupos Dark Iron hay barriles de Seaforium Blasting Powder. Un jugador a distancia les dispara y el grupo recibe la explosión.
+Un Shaman que pone un [Tremor Totem](https://www.wowhead.com/forever/spell=8143) antes del pull deja el fear sin efecto. Tras el combate, una palanca en la cámara del fondo abre las puertas cerradas, así que la salida es corta.
 
 ## Lo que aún no se sabe
 
-- Si la Horde tendrá un camino más rápido a Ironforge antes del lanzamiento del 4 de noviembre.
-- Si las recompensas y los niveles cambian antes del lanzamiento.
+- Si la Horde tendrá un acceso más rápido. Se rumorea una misión oculta con un teletransporte para la Horde, pero nadie la ha encontrado.
+- Si las recompensas y los niveles cambiarán antes del lanzamiento el 4 de noviembre.
 
 El recorrido de la mazmorra con el vídeo de Jurdi está en el artículo [The Hall of Thanes tiene cuatro jefes y cinco misiones](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Todas las mazmorras están en la [guía de mazmorras](/es/guides/dungeons/).
-

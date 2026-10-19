@@ -1,7 +1,7 @@
 ---
 title: "The Hall of Thanes"
-metaTitle: "De gids van The Hall of Thanes voor WoW Forever: kaart, route en bazen"
-description: "Zo speel je The Hall of Thanes in WoW Forever: de weg erheen, een kaart, de route van het portaal tot de Reliquary of Kings, de vier bazen en de trash die het hardst slaat."
+metaTitle: "De gids van The Hall of Thanes voor WoW Forever: route, trash en bazen"
+description: "Zo speel je The Hall of Thanes in WoW Forever: de weg erheen, de route van het portaal tot de Reliquary of Kings, de trash die het hardst slaat en de vier bazen."
 short: "Gids"
 updated: 2026-10-19
 lang: nl
@@ -17,11 +17,9 @@ dungeon:
 ---
 ## De weg erheen
 
-**Alliance.** Loop de High Seat van Ironforge in. De deur naar Old Ironforge zit meteen links. Volg het pad helemaal naar beneden tot het portaal.
+**Alliance.** Loop de High Seat van Ironforge in, waar King Magni Bronzebeard zit. Links gaat een gang met spinnenwebben open, op /way 43.5 52.0. Volg die helemaal naar beneden tot het portaal. Het pad loopt boven lava, en wie valt, is dood.
 
-**Horde.** De dungeon is de tegenhanger van Ragefire Chasm voor de Alliance, en de weg erheen is lang. Vanaf Tarren Mill gaat het door de Arathi Highlands, de Wetlands en Loch Modan naar Dun Morogh, en dan langs de wachters van Ironforge. Een snellere route is niet gevonden. Doe je gear uit voor de wachters, zodat die geen duurzaamheid verliest als je sterft.
-
-**De precieze weg erin.** Ga bij de Great Forge staan, met je gezicht naar de High Seat, waar King Magni Bronzebeard zit. Binnen in zijn hal gaat links een gang met spinnenwebben open, op /way 43.5 52.0. Volg die helemaal naar beneden. Het pad loopt boven lava, en wie valt, is dood.
+**Horde.** Een lange tocht door Alliance-gebied: vanuit de Undercity door Silverpine Forest, de Hillsbrad Foothills, de Arathi Highlands, de Wetlands en Loch Modan naar Dun Morogh, en dan langs de wachters van Ironforge. Doe je gear uit voor de wachters, zodat die geen duurzaamheid verliest als je sterft.
 
 <div class="wf-shots">
 
@@ -35,17 +33,17 @@ dungeon:
 
 ## De route door de dungeon
 
-De Hall of Thanes is een rechte lijn met een omweg door een grot. Vanaf het portaal:
+Een rechte lijn met een omweg door een grot. Vanaf het portaal:
 
 1. **De eerste zaal.** Tormented Souls en Enraged Apparitions, makkelijke pulls. Neem de gang links, naar het westen.
-2. **De Ghostly Attendant.** In de volgende zaal geeft zij An Ancient Grudge. Daarna komt Anvilmar's Rest, een grote zaal met een graftombe in het midden en Faldrim Anvilmar die eromheen loopt. Ruim eerst de geesten op.
-3. **De kant van de Dark Iron.** Verlaat Anvilmar's Rest door de gang in het zuidoosten. Vanaf hier nemen de Dark Iron Dwarves het over. Langs de weg staan vaten Seaforium Blasting Powder: schiet ze van op afstand en ze blazen de groep eromheen op.
-4. **De grot.** De graven worden een natuurlijke grot, waar Magmatus tussen Dark Iron Dwarves staat.
-5. **Terug in de hallen.** Boven in de tunnel wacht een groep van vier met twee vaten ernaast. Schiet beide vaten tegelijk voor de pull.
-6. **Plunder** patrouilleert meteen daarna in de gang.
-7. **De Reliquary of Kings.** Naar het noorden over een brug met Lesser Stone Golems ligt de laatste zaal, met Durgen Dirgehammer. Achter een van de kluisdeuren ligt het Treaty of Understanding.
+2. **Anvilmar's Rest.** In de zaal ervoor geeft de Ghostly Attendant An Ancient Grudge. Faldrim Anvilmar loopt rond de graftombe in het midden.
+3. **De kant van de Dark Iron.** Ga weg via de gang in het zuidoosten. Naast een aantal groepen staan vaten Seaforium Blasting Powder: schiet erop van op afstand en de groep vliegt de lucht in.
+4. **De grot.** Magmatus staat tussen Dark Iron Dwarves.
+5. **Terug de hallen in.** Boven aan de tunnel wacht een groep van vier met twee vaten ernaast. Schiet beide vaten tegelijk.
+6. **Plunder** patrouilleert in de gang meteen daarna.
+7. **De Reliquary of Kings.** Naar het noorden over een brug met Lesser Stone Golems, met Durgen Dirgehammer. De Treaty of Understanding ligt achter een van de deuren van de kluis.
 
-Lever op de weg naar buiten An Ancient Grudge in bij de Ghostly Attendant.
+Lever op de weg naar buiten [An Ancient Grudge](/nl/guides/dungeons/hall-of-thanes/quests/#quest-96395) in bij de Ghostly Attendant.
 
 <div class="wf-shots">
 
@@ -57,56 +55,53 @@ Lever op de weg naar buiten An Ancient Grudge in bij de Ghostly Attendant.
 
 </div>
 
-## De vier bazen
+## Belangrijke trash
 
-### Faldrim Anvilmar
+De geesten in de eerste zalen gaan snel neer. Na Faldrim Anvilmar nemen de Dark Iron Dwarves het over, en die groepen vragen aandacht.
 
-Een geest die door het midden van Anvilmar's Rest patrouilleert. Ruim één kant van de kamer op, wacht tot hij jouw kant op komt en pull hem daar, weg van de trash. Hij cast [Mind Blast](https://www.wowhead.com/forever/spell=26048) en zet [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) 10 minuten op de tank: aanvallen en casten 20% trager, maar immuun voor gif en bloedingen. Een speler die curses verwijdert, maakt het makkelijker. Wie hem verslaat, opent de poorten dieper de hal in, zegt de [dungeonvideo van Blizzard](/nl/news/blizzard-shows-three-launch-dungeons-in-a-video/).
+**Dark Iron Engineer.** Gooit keer op keer bommen naar zijn doelwit, en de ontploffing raakt iedereen eromheen. De plek ligt vast zodra de cast begint, dus stap opzij en de bom mist volledig.
 
-Faldrim trekt de geesten rond hem niet mee, maar maak voor de pull toch ruimte.
-
-### Magmatus
-
-Een vuurelementaal met een Dark Iron Summoner naast zich. Laat de tank Magmatus wegtrekken van de groep en dood eerst de Summoner, want de baas laat af en toe een fire nova los. [Combust](https://www.wowhead.com/forever/spell=1293228) zet een willekeurige speler 12 seconden in brand. Een patrouillerende Summoner in de buurt schakel je best uit voor de pull.
-
-![De vuurelementaal Magmatus, level 16, torent boven een Dwarf-tank uit in The Hall of Thanes, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../../assets/posts/2026-09-24-wow-forever-magmatus.jpg)
-
-### Plunder
-
-Een golem die door een gang patrouilleert, met één vaardigheid: [Knock Away](https://www.wowhead.com/forever/spell=10101), dat een speler ver wegslaat. Pull hem naar een plek waar niemand in trash landt, met de groep tegen een muur of in een hoek.
-
-![Plunder, een donkere bronzen golem met enorme vuisten, in een zaal met een rode loper, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-plunder.jpg)
-
-### Durgen Dirgehammer
-
-De eindbaas, in de Reliquary of Kings, met twee Lesser Stone Golems naast zich en Dark Iron Looters langs de randen van de kamer. Ruim eerst de Looters op: zijn [Fear](https://www.wowhead.com/forever/spell=26070) jaagt spelers hun kant op. Hij zet ook [Rend](https://www.wowhead.com/forever/spell=12054) op de tank. Dood de Golems een voor een; een Golem die voor een wipe gedood is, komt niet terug, dus elke volgende poging is makkelijker. Na het gevecht opent een schakelaar in de achterste kluis de gesloten deuren, dus de weg naar buiten is kort.
-
-Een Shaman die voor de pull een [Tremor Totem](https://www.wowhead.com/forever/spell=8143) neerzet, maakt de fear onschadelijk.
-
-## Trash
-
-De eerste zalen zijn makkelijk; de kant van de Dark Irons niet.
-
-**Dark Iron Looters en Engineers.** Looters vallen snel aan met dolken en putten de tank snel uit als er meerdere tegelijk komen, dus dood ze eerst. Engineers gooien bommen op een plek op de grond, en die schade is volledig te ontwijken.
+**Dark Iron Looter.** Vergiftigde dolken en veel schade. Meestal samen met andere Dark Iron Dwarves of een paar non-elite Bloodhound Runts. Dood Looters eerst.
 
 ![Een Dark Iron Looter en een Dark Iron Engineer in een donkere zaal van The Hall of Thanes, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-looter-and-engineer.jpg)
 
-**Dark Iron Summoners.** Ze casten Fireball en roepen 30 seconden een Fiery Assistant op. Pull ze rond een pilaar of een muur, uit het zicht, zodat ze dichterbij moeten komen.
+**Dark Iron Summoner.** Een caster met een zware Fireball die ook een Fiery Assistant oproept, een vuurelementaal. Beide casts zijn te onderbreken en de Summoner is te stunnen. Pull rond een pilaar of een muur, uit het zicht, zodat hij naar je toe moet komen.
 
 ![Een Dark Iron Summoner en een Dark Iron Looter naast een lantaarn, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-summoner.jpg)
 
-**Lesser Stone Golems.** Ze slaan het hardst en bewegen snel. Pull ze waar het kan een voor een, en werk er één af voor de volgende. Het laatste groepje voor de eindbaas heeft een Summoner, een Looter en een Golem samen: [Polymorph](https://www.wowhead.com/forever/spell=118) op een van hen en stuns zoals [Hammer of Justice](https://www.wowhead.com/forever/spell=853) helpen. Healers trekken op deze levels veel threat.
+**Lesser Stone Golem.** Slaat hard en snel en loopt sneller dan jij, dus weglopen lukt niet. Alleen valt hij mee; naast een andere groep doet hij pijn. De laatste groep voor de eindbaas heeft een Golem, een Looter en een Summoner: [Polymorph](https://www.wowhead.com/forever/spell=118) op de Summoner, dood dan de Looter en de Golem.
 
 ![Een Lesser Stone Golem, een grijze stenen reus met groene runen, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.jpg)
 
 **Bloodhound Runts.** Hun beet laat 5 minuten Infected Wounds achter: meer fysieke schade. Zonder class die ziekte weghaalt, helpt een Simple Poultice van First Aid of de racial [Stoneform](https://www.wowhead.com/forever/spell=20594) van de Dwarf.
 
-**Seaforium-vaten.** Naast een aantal groepen Dark Iron staan vaten Seaforium Blasting Powder. Een speler op afstand schiet erop en de groep krijgt de ontploffing.
+## De vier bazen
+
+### Faldrim Anvilmar
+
+Een ondode Dwarf die tussen de geesten rond zijn graftombe in Anvilmar's Rest patrouilleert. Het gevaar is dat je hem samen met een groep pullt. Maak eerst een plek vrij en pull hem daarheen. Hij cast [Mind Blast](https://www.wowhead.com/forever/spell=26048) en legt [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) 10 minuten op de tank: aanvals- en castsnelheid 20% trager, maar immuun voor gif en bloedingen. Een speler die curses weghaalt, maakt het makkelijker.
+
+### Magmatus
+
+Een vuurelementaal met een Dark Iron Summoner naast zich, en meer trash eromheen. Ruim de patrouillerende Summoner op voor de pull. In het gevecht sleept de tank Magmatus weg van de groep terwijl de rest de Summoner doodt: zijn Fire Nova is instant en raakt iedereen dicht bij hem. [Combust](https://www.wowhead.com/forever/spell=1293228) zet een willekeurige speler 12 seconden in brand.
+
+![De vuurelementaal Magmatus, level 16, torent boven een Dwarf-tank uit in The Hall of Thanes, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../../assets/posts/2026-09-24-wow-forever-magmatus.jpg)
+
+### Plunder
+
+Een golem die door zijn gang patrouilleert, met één ability: [Knock Away](https://www.wowhead.com/forever/spell=10101), die een speler ver wegslingert. Ruim eerst de trash op, dan pullt de tank hem in een hoek. Ga zo staan dat een klap je nooit in een groep gooit.
+
+![Plunder, een donkere bronzen golem met enorme vuisten, in een zaal met een rode loper, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-plunder.jpg)
+
+### Durgen Dirgehammer
+
+De eindbaas, achter de inval van de Dark Iron. Hij loopt links en rechts over zijn platform in de Reliquary of Kings, met twee Lesser Stone Golems naast zich en Dark Iron Looters rond de zaal. Ruim elke Looter op voor de pull: zijn [Fear](https://www.wowhead.com/forever/spell=26070) laat spelers 8 seconden wegrennen. Dood daarna Durgen zo snel mogelijk en de Golems na hem; samen slaan ze heel hard op de tank. Hij legt ook [Rend](https://www.wowhead.com/forever/spell=12054) op de tank, 44 fysieke schade elke 3 seconden. Een Golem die voor een wipe sterft, komt niet terug.
+
+Een Shaman die voor de pull een [Tremor Totem](https://www.wowhead.com/forever/spell=8143) zet, maakt de fear onschadelijk. Na het gevecht opent een schakelaar in de achterste kluis de gesloten deuren, dus de weg naar buiten is kort.
 
 ## Wat nog niet bekend is
 
-- Of de Horde voor de launch op 4 november een snellere weg naar Ironforge krijgt.
-- Of beloningen en levels voor de launch nog veranderen.
+- Of de Horde een snellere weg erin krijgt. Er gaat een gerucht over een verborgen quest met een teleport voor de Horde, maar niemand heeft hem gevonden.
+- Of beloningen en levels nog veranderen voor de launch op 4 november.
 
-De walkthrough van de dungeon met de video van Jurdi staat in de post [The Hall of Thanes telt vier bazen en vijf quests](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Alle dungeons staan in de [dungeongids](/nl/guides/dungeons/).
-
+De walkthrough met de video van Jurdi staat in de post [The Hall of Thanes telt vier bazen en vijf quests](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Alle dungeons staan in de [dungeongids](/nl/guides/dungeons/).

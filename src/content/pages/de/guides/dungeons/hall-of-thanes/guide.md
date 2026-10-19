@@ -1,7 +1,7 @@
 ---
 title: "The Hall of Thanes"
-metaTitle: "Guide zu The Hall of Thanes für WoW Forever: Karte, Route und Bosse"
-description: "So spielst du The Hall of Thanes in WoW Forever: der Weg hinein, eine Karte, die Route vom Portal bis zum Reliquary of Kings, die vier Bosse und der Trash, der am härtesten zuschlägt."
+metaTitle: "Guide zu The Hall of Thanes für WoW Forever: Route, Trash und Bosse"
+description: "So spielt ihr The Hall of Thanes in WoW Forever: der Weg hinein, die Route vom Portal bis zum Reliquary of Kings, der Trash, der am härtesten zuschlägt, und die vier Bosse."
 short: "Guide"
 updated: 2026-10-19
 lang: de
@@ -17,11 +17,9 @@ dungeon:
 ---
 ## Anreise
 
-**Alliance.** Geht in den High Seat von Ironforge. Die Tür nach Old Ironforge ist gleich links. Folgt dem Weg ganz nach unten bis zum Portal.
+**Alliance.** Geht in den High Seat von Ironforge, wo King Magni Bronzebeard sitzt. Links öffnet sich ein Gang voller Spinnweben, bei /way 43.5 52.0. Folgt ihm ganz nach unten bis zum Portal. Der Weg führt über Lava, und ein Sturz ist tödlich.
 
-**Horde.** Der Dungeon ist das Gegenstück der Alliance zu Ragefire Chasm, und der Weg ist lang. Von Tarren Mill geht es durch die Arathi Highlands, die Wetlands und Loch Modan nach Dun Morogh und dann an den Wachen von Ironforge vorbei. Ein schnellerer Weg ist nicht gefunden. Legt die Ausrüstung vor den Wachen ab, damit sie beim Tod keine Haltbarkeit verliert.
-
-**Der genaue Weg hinein.** Stell dich an die Great Forge, mit Blick auf den High Seat, wo King Magni Bronzebeard sitzt. In seiner Halle öffnet sich links ein Gang voller Spinnweben, bei /way 43.5 52.0. Folge ihm ganz nach unten. Der Weg führt über Lava, und ein Sturz ist tödlich.
+**Horde.** Ein langer Marsch durch Gebiet der Alliance: von der Undercity durch Silverpine Forest, die Hillsbrad Foothills, die Arathi Highlands, die Wetlands und Loch Modan nach Dun Morogh, dann an den Wachen von Ironforge vorbei. Legt eure Ausrüstung vor den Wachen ab, damit sie beim Tod keine Haltbarkeit verliert.
 
 <div class="wf-shots">
 
@@ -33,19 +31,19 @@ dungeon:
 
 </div>
 
-## Der Weg durch den Dungeon
+## Die Route
 
-Die Hall of Thanes ist eine gerade Linie mit einem Umweg durch eine Höhle. Vom Portal aus:
+Eine gerade Linie mit einem Umweg durch eine Höhle. Vom Portal aus:
 
-1. **Der erste Saal.** Tormented Souls und Enraged Apparitions, leichte Pulls. Nimm den Gang links, nach Westen.
-2. **Die Ghostly Attendant.** Im nächsten Raum gibt sie An Ancient Grudge. Danach kommt Anvilmar's Rest, ein großer Saal mit einem Grabmal in der Mitte, um das Faldrim Anvilmar läuft. Räum zuerst die Geister weg.
-3. **Die Seite der Dark Iron.** Verlass Anvilmar's Rest durch den Gang im Südosten. Ab hier übernehmen die Dark Iron Dwarves. Am Weg stehen Fässer mit Seaforium Blasting Powder: schieß sie aus der Ferne an, und sie sprengen die Gruppe drumherum.
-4. **Die Höhle.** Die Gräber gehen in eine natürliche Höhle über, wo Magmatus zwischen Dark Iron Dwarves steht.
-5. **Zurück in die Hallen.** Oben im Tunnel wartet eine Vierergruppe mit zwei Fässern daneben. Schieß beide Fässer gleichzeitig vor dem Pull an.
-6. **Plunder** patrouilliert gleich danach im Gang.
-7. **Die Reliquary of Kings.** Nach Norden über eine Brücke mit Lesser Stone Golems liegt der letzte Saal, mit Durgen Dirgehammer. Hinter einer der Grufttüren liegt der Treaty of Understanding.
+1. **Der erste Saal.** Tormented Souls und Enraged Apparitions, leichte Pulls. Nehmt den linken Gang, nach Westen.
+2. **Anvilmar's Rest.** Im Raum davor gibt die Ghostly Attendant An Ancient Grudge. Faldrim Anvilmar läuft um das Grabmal in der Mitte.
+3. **Die Seite der Dark Iron.** Verlasst den Raum durch den Gang im Südosten. Neben mehreren Gruppen stehen Fässer mit Seaforium Blasting Powder: schießt aus der Ferne darauf, und die Gruppe fliegt mit in die Luft.
+4. **Die Höhle.** Magmatus steht zwischen Dark Iron Dwarves.
+5. **Zurück in die Hallen.** Oben im Tunnel wartet eine Vierergruppe mit zwei Fässern daneben. Schießt beide Fässer gleichzeitig.
+6. **Plunder** patrouilliert direkt danach im Gang.
+7. **Das Reliquary of Kings.** Nach Norden über eine Brücke mit Lesser Stone Golems, mit Durgen Dirgehammer. Der Treaty of Understanding liegt hinter einer der Türen des Gewölbes.
 
-Gib auf dem Weg hinaus An Ancient Grudge bei der Ghostly Attendant ab.
+Gebt auf dem Weg hinaus [An Ancient Grudge](/de/guides/dungeons/hall-of-thanes/quests/#quest-96395) bei der Ghostly Attendant ab.
 
 <div class="wf-shots">
 
@@ -57,56 +55,53 @@ Gib auf dem Weg hinaus An Ancient Grudge bei der Ghostly Attendant ab.
 
 </div>
 
+## Wichtiger Trash
+
+Die Geister in den ersten Räumen fallen schnell. Nach Faldrim Anvilmar übernehmen die Dark Iron Dwarves, und diese Gruppen verdienen Aufmerksamkeit.
+
+**Dark Iron Engineer.** Wirft immer wieder Bomben auf sein Ziel, und die Explosion trifft alle drumherum. Die Stelle steht fest, sobald der Zauber beginnt: geht zur Seite, und die Bombe verfehlt komplett.
+
+**Dark Iron Looter.** Vergiftete Dolche und viel Schaden. Meist mit anderen Dark Iron Dwarves oder ein paar Bloodhound Runts ohne Elitestatus. Tötet Looter zuerst.
+
+![Ein Dark Iron Looter und ein Dark Iron Engineer in einem dunklen Saal von The Hall of Thanes, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-looter-and-engineer.jpg)
+
+**Dark Iron Summoner.** Ein Zauberwirker mit einem starken Fireball, der außerdem einen Fiery Assistant beschwört, einen Feuerelementar. Beide Zauber lassen sich unterbrechen, und der Summoner lässt sich betäuben. Pullt hinter eine Säule oder Wand, außer Sicht, damit er zu euch kommen muss.
+
+![Ein Dark Iron Summoner und ein Dark Iron Looter neben einer Laterne, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-summoner.jpg)
+
+**Lesser Stone Golem.** Schlägt hart und schnell zu und ist schneller als ihr, Weglaufen klappt also nicht. Allein ist er machbar; neben einer anderen Gruppe tut er weh. Die letzte Gruppe vor dem Endboss hat einen Golem, einen Looter und einen Summoner: [Polymorph](https://www.wowhead.com/forever/spell=118) auf den Summoner, dann Looter und Golem töten.
+
+![Ein Lesser Stone Golem, ein grauer Steinriese mit grünen Runen, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.jpg)
+
+**Bloodhound Runts.** Ihr Biss hinterlässt 5 Minuten lang Infected Wounds: mehr erlittener physischer Schaden. Ohne Klasse, die Krankheiten entfernt, hilft ein Simple Poultice aus First Aid oder das Volksvermögen [Stoneform](https://www.wowhead.com/forever/spell=20594) des Dwarf.
+
 ## Die vier Bosse
 
 ### Faldrim Anvilmar
 
-Ein Geist, der durch die Mitte von Anvilmar's Rest patrouilliert. Räumt eine Seite des Raums, wartet, bis er zu euch kommt, und zieht ihn dorthin, weg vom Trash. Er wirkt [Mind Blast](https://www.wowhead.com/forever/spell=26048) und legt [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) für 10 Minuten auf den Tank: Angriffs- und Zaubertempo 20 % langsamer, dafür immun gegen Gifte und Blutungen. Wer Flüche entfernen kann, macht den Kampf leichter. Sein Tod öffnet die Tore tiefer in die Halle, sagt das [Dungeon-Video von Blizzard](/de/news/blizzard-shows-three-launch-dungeons-in-a-video/).
-
-Faldrim zieht die Geister um ihn herum nicht mit, aber schaff vor dem Pull trotzdem Platz.
+Ein untoter Dwarf, der zwischen den Geistern um sein Grabmal in Anvilmar's Rest patrouilliert. Die Gefahr ist, ihn zusammen mit einer Gruppe zu pullen. Macht erst eine Stelle frei und zieht ihn dorthin. Er wirkt [Mind Blast](https://www.wowhead.com/forever/spell=26048) und legt [Anvilmar's Curse](https://www.wowhead.com/forever/spell=1292602) für 10 Minuten auf den Tank: Angriffs- und Zaubertempo 20 % langsamer, dafür immun gegen Gifte und Blutungen. Wer Flüche entfernen kann, macht den Kampf leichter.
 
 ### Magmatus
 
-Ein Feuerelementar mit einem Dark Iron Summoner an seiner Seite. Der Tank zieht Magmatus von der Gruppe weg, und die Gruppe tötet zuerst den Summoner, denn der Boss löst ab und zu eine Feuernova aus. [Combust](https://www.wowhead.com/forever/spell=1293228) setzt einen zufälligen Spieler 12 Sekunden lang in Brand. Einen patrouillierenden Summoner in der Nähe schaltet man am besten vor dem Pull aus.
+Ein Feuerelementar mit einem Dark Iron Summoner an seiner Seite und weiterem Trash drumherum. Schaltet den patrouillierenden Summoner vor dem Pull aus. Im Kampf zieht der Tank Magmatus von der Gruppe weg, während der Rest den Summoner tötet: seine Fire Nova kommt sofort und trifft alle in seiner Nähe. [Combust](https://www.wowhead.com/forever/spell=1293228) setzt einen zufälligen Spieler 12 Sekunden lang in Brand.
 
 ![Der Feuerelementar Magmatus, Level 16, ragt über einem Dwarf-Tank in The Hall of Thanes auf, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-09-24-wow-forever-magmatus.jpg)
 
 ### Plunder
 
-Ein Golem, der durch einen Gang patrouilliert, mit einer einzigen Fähigkeit: [Knock Away](https://www.wowhead.com/forever/spell=10101), das einen Spieler weit wegschleudert. Zieht ihn an eine Stelle, an der niemand im Trash landet, mit der Gruppe an einer Wand oder in einer Ecke.
+Ein Golem, der durch seinen Gang patrouilliert, mit einer einzigen Fähigkeit: [Knock Away](https://www.wowhead.com/forever/spell=10101), das einen Spieler weit wegschleudert. Räumt erst den Trash, dann zieht der Tank ihn in eine Ecke. Stellt euch so, dass euch ein Schlag nie in eine Gruppe wirft.
 
 ![Plunder, ein dunkler Bronzegolem mit riesigen Fäusten, in einem Saal mit rotem Teppich, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-plunder.jpg)
 
 ### Durgen Dirgehammer
 
-Der Endboss, im Reliquary of Kings, mit zwei Lesser Stone Golems an seiner Seite und Dark Iron Looters an den Rändern des Raums. Räumt zuerst die Looters: Sein [Fear](https://www.wowhead.com/forever/spell=26070) treibt Spieler zu ihnen. Er legt außerdem [Rend](https://www.wowhead.com/forever/spell=12054) auf den Tank. Tötet die Golems einzeln; ein Golem, der vor einem Wipe getötet wurde, kommt nicht zurück, jeder weitere Versuch wird also leichter. Nach dem Kampf öffnet ein Schalter im hinteren Gewölbe die verschlossenen Türen, der Weg hinaus ist kurz.
+Der Endboss, hinter dem Einfall der Dark Iron. Er läuft auf seiner Plattform im Reliquary of Kings hin und her, mit zwei Lesser Stone Golems an seiner Seite und Dark Iron Lootern im ganzen Raum. Räumt jeden Looter vor dem Pull: sein [Fear](https://www.wowhead.com/forever/spell=26070) lässt Spieler 8 Sekunden lang davonlaufen. Tötet dann Durgen so schnell wie möglich und danach die Golems; zusammen schlagen sie sehr hart auf den Tank. Er legt außerdem [Rend](https://www.wowhead.com/forever/spell=12054) auf den Tank, 44 physischen Schaden alle 3 Sekunden. Ein Golem, der vor einem Wipe stirbt, kommt nicht zurück.
 
-Ein Shaman, der vor dem Pull einen [Tremor Totem](https://www.wowhead.com/forever/spell=8143) stellt, macht die Furcht harmlos.
-
-## Trash
-
-Die ersten Räume sind leicht; die Seite der Dark Irons nicht.
-
-**Dark Iron Looters und Engineers.** Looters greifen schnell mit Dolchen an und leeren den Tank, wenn mehrere gleichzeitig kommen, also tötet sie zuerst. Engineers werfen Bomben auf eine Stelle am Boden, und dieser Schaden lässt sich komplett ausweichen.
-
-![Ein Dark Iron Looter und ein Dark Iron Engineer in einem dunklen Saal von The Hall of Thanes, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-looter-and-engineer.jpg)
-
-**Dark Iron Summoners.** Sie wirken Fireball und rufen 30 Sekunden lang einen Fiery Assistant herbei. Zieht sie hinter eine Säule oder eine Wand, außer Sicht, damit sie näher kommen müssen.
-
-![Ein Dark Iron Summoner und ein Dark Iron Looter neben einer Laterne, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-summoner.jpg)
-
-**Lesser Stone Golems.** Sie schlagen am härtesten zu und bewegen sich schnell. Zieht sie möglichst einzeln und erledigt einen, bevor ihr den nächsten angeht. Die letzte Gruppe vor dem Endboss bringt einen Summoner, einen Looter und einen Golem zusammen: [Polymorph](https://www.wowhead.com/forever/spell=118) auf einen davon und Betäubungen wie [Hammer of Justice](https://www.wowhead.com/forever/spell=853) helfen. Heiler ziehen auf diesen Levels viel Bedrohung.
-
-![Ein Lesser Stone Golem, ein grauer Steinriese mit grünen Runen, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-09-28-wow-forever-hall-of-thanes-lesser-stone-golem.jpg)
-
-**Bloodhound Runts.** Ihr Biss hinterlässt 5 Minuten Infected Wounds: mehr erlittener körperlicher Schaden. Ohne Klasse, die Krankheiten entfernt, hilft ein Simple Poultice aus First Aid oder die Volksfähigkeit [Stoneform](https://www.wowhead.com/forever/spell=20594) des Dwarf.
-
-**Seaforium-Fässer.** Neben mehreren Dark-Iron-Gruppen stehen Fässer mit Seaforium Blasting Powder. Ein Fernkämpfer schießt sie an, und die Gruppe bekommt die Explosion ab.
+Ein Shaman, der vor dem Pull ein [Tremor Totem](https://www.wowhead.com/forever/spell=8143) stellt, macht den Fear harmlos. Nach dem Kampf öffnet ein Schalter im hinteren Gewölbe die verschlossenen Türen, der Weg hinaus ist also kurz.
 
 ## Was noch nicht bekannt ist
 
-- Ob die Horde vor dem Start am 4. November einen schnelleren Weg nach Ironforge bekommt.
-- Ob sich Belohnungen und Level vor dem Start noch ändern.
+- Ob die Horde einen schnelleren Weg hinein bekommt. Gerüchte sprechen von einer versteckten Quest mit einem Teleport für die Horde, aber niemand hat sie gefunden.
+- Ob sich Belohnungen und Level vor dem Start am 4. November noch ändern.
 
 Die Komplettlösung des Dungeons mit dem Video von Jurdi steht im Artikel [The Hall of Thanes hat vier Bosse und fünf Quests](/de/news/the-hall-of-thanes-has-four-bosses-and-five-quests/). Alle Dungeons stehen im [Dungeonguide](/de/guides/dungeons/).
-

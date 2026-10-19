@@ -169,9 +169,12 @@ const jsonLd = {
       <span class="wf-gdetail__diamond" style="--wf-diamond: #e0b77a;" aria-hidden="true"></span>
       <div>
         <h1 class="wf-gdetail__title">{page.title}</h1>
-        <p class="wf-gdetail__meta">
-          <time datetime={isoDate(page.updated)}>{t('updated', { date: longDate(page.updated, locale) })}</time>
-        </p>
+        {/* Geen datum onder de titel in de gidsen (19 oktober 2026, Nutri: "Useless"). De datum blijft in de JSON-LD. */}
+        {folder !== 'guides' && (
+          <p class="wf-gdetail__meta">
+            <time datetime={isoDate(page.updated)}>{t('updated', { date: longDate(page.updated, locale) })}</time>
+          </p>
+        )}
       </div>
     </header>
 
@@ -193,7 +196,7 @@ const jsonLd = {
 
     {dungeon
       ? <DungeonPage locale={locale} slug={dungeon.slug} tab={dungeon.tab}><Content /></DungeonPage>
-      : (
+      : pageKey !== 'guides' && (
         <div class="wf-gprose">
           <Content />
         </div>

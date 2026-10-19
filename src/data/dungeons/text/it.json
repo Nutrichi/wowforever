@@ -2,7 +2,6 @@
  "hall-of-thanes": {
   "location": "Old Ironforge, sotto Ironforge",
   "entrance": "Nel High Seat di Ironforge, dove siede Magni Bronzebeard, si apre a sinistra un passaggio pieno di ragnatele a /way 43.5 52.0. Seguilo fino in fondo, fino al portale. Il sentiero passa sopra la lava, e una caduta è mortale.",
-  "intro": "Il luogo di riposo dei grandi Dwarves degli Eastern Kingdoms, invaso dai Dark Iron Dwarves. Per la maggior parte dei giocatori dell’Alleanza il primo dungeon di WoW Forever: quattro boss, cinque missioni e bottino blu dal livello 13.",
   "quests": {
    "96394": {
     "objective": "Uccidi 15 Enraged Apparitions e 10 Tormented Souls, i fantasmi delle prime sale, e dai pace allo spirito di Anvilmar.",

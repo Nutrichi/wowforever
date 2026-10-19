@@ -53,7 +53,6 @@ export type DungeonData = {
 export type DungeonText = {
   location: string;
   entrance: string;
-  intro: string;
   group?: number;
   quests: Record<string, { objective: string; note?: string; shots?: { file: string; alt: string }[] }>;
 };
