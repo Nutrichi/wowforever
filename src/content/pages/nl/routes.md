@@ -36,6 +36,9 @@ Elke class heeft daarnaast per uitbreiding een eigen gids op [Classes](/nl/class
 
 ## Vergelijkingen
 
+- [Level-addons voor WoW Forever vergeleken](/nl/compare/leveling-addons-forever/)
+- [RestedXP en Journey vergeleken](/nl/compare/restedxp-vs-journey/)
+- [Journey en Zygor vergeleken](/nl/compare/journey-vs-zygor/)
 - [RestedXP en Zygor vergeleken](/nl/compare/restedxp-vs-zygor/)
 - [Gratis en betaalde levelhulp vergeleken](/nl/compare/free-vs-premium/)
 - [Dungeons of questen tijdens het levelen](/nl/compare/dungeon-vs-questing/)

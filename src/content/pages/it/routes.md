@@ -36,6 +36,9 @@ Ogni classe ha inoltre una guida per espansione in [Classi](/it/classes/), con i
 
 ## Confronti
 
+- [Gli addon di livellamento per WoW Forever a confronto](/it/compare/leveling-addons-forever/)
+- [RestedXP e Journey a confronto](/it/compare/restedxp-vs-journey/)
+- [Journey e Zygor a confronto](/it/compare/journey-vs-zygor/)
 - [RestedXP e Zygor a confronto](/it/compare/restedxp-vs-zygor/)
 - [Aiuto al livellamento gratuito e a pagamento a confronto](/it/compare/free-vs-premium/)
 - [Dungeon o missioni durante il livellamento](/it/compare/dungeon-vs-questing/)

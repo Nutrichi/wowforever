@@ -17,7 +17,7 @@ import { render } from 'astro:content';
 import type { Locale } from '../../i18n/ui';
 import { localeTags } from '../../i18n/ui';
 import { localizePath, useTranslations } from '../../i18n/utils';
-import { isPartnerLink, journeyUrl, restedxpPages, restedxpUrl, zygorPages, zygorUrl } from '../../config/site';
+import { isPartnerLink, restedxpPages, zygorPages } from '../../config/site';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getPage, getPages, pagePath } from '../../lib/pages';
 import { pageT } from '../../i18n/pages';
@@ -25,6 +25,7 @@ import { guideT } from '../../i18n/guides';
 import GuidesHub from '../guides/GuidesHub.astro';
 import ForeverTimeline from './ForeverTimeline.astro';
 import DungeonBand from '../guides/DungeonBand.astro';
+import PartnerBlock from '../PartnerBlock.astro';
 import DungeonPage from '../guides/DungeonPage.astro';
 import TradeskillNav from '../tradeskills/TradeskillNav.astro';
 import { tsData } from '../../lib/tradeskills-forever';
@@ -218,25 +219,16 @@ const jsonLd = {
     )}
 
     {(inGroup || restedxpPages.includes(page.key)) && (
-      <aside class="wf-rxpblock" data-pagefind-ignore>
-        <p>{g('restedxpText')}</p>
-        <a href={restedxpUrl} rel="noopener sponsored">{g('restedxpButton')}</a>
-      </aside>
+      <PartnerBlock locale={locale} partner="restedxp" />
     )}
 
     {/* Journey onder RestedXP, op dezelfde pagina's (Nutri, 19 oktober 2026). */}
     {(inGroup || restedxpPages.includes(page.key)) && (
-      <aside class="wf-rxpblock wf-rxpblock--next" data-pagefind-ignore>
-        <p>{g('journeyText')}</p>
-        <a href={journeyUrl} rel="noopener sponsored">{g('journeyButton')}</a>
-      </aside>
+      <PartnerBlock locale={locale} partner="journey" next />
     )}
 
     {zygorPages.includes(page.key) && (
-      <aside class="wf-rxpblock wf-rxpblock--next" data-pagefind-ignore>
-        <p>{g('zygorText')}</p>
-        <a href={zygorUrl} rel="noopener sponsored">{g('zygorButton')}</a>
-      </aside>
+      <PartnerBlock locale={locale} partner="zygor" next />
     )}
 
     {/*

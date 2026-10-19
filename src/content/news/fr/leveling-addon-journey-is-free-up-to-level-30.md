@@ -38,7 +38,7 @@ Journey fonctionne sans TomTom et tourne à côté de Questie et d’ElvUI. Les 
 
 ## Qui fait les parcours
 
-Journey s’appuie sur les parcours originaux de 1 à 60 de Joana, l’un des premiers speedrunners de Vanilla, avec l’accord de la famille de Joana et de TomCat's Gaming, propriétaire de Joana's Guides. Les parcours pour Forever sont signés Alenya, speedrunner de Classic qui écrit des guides de 1 à 60 depuis huit ans, avec une équipe de speedrunners détenteurs de records et d’experts des classes.
+Les parcours pour Forever sont signés Alenya, speedrunner de Classic qui écrit des guides de 1 à 60 depuis huit ans, avec une équipe de speedrunners détenteurs de records et d’experts des classes.
 
 La partie gratuite contient déjà les nouvelles quêtes de Forever et le départ Skyborne sur Zephras Isle pour les deux factions. Les nouvelles combinaisons de race et de classe, comme l’Undead Paladin, l’Orc Mage et le Dwarf Shaman, ont leurs quêtes de classe dans le parcours. Les étapes de Cooking et du nouveau système de Camping utilisent leur bonus d’expérience.
 

@@ -40,7 +40,7 @@ export const zygorUrl = 'https://zygorguides.com/ref/Nutri/';
 
 /**
  * De partnerlink van Journey (Nutri, 19 oktober 2026): de creatorcode nutri zit
- * in de link en geeft de koper 10% korting. Journey is de opvolger van Joana.
+ * in de link en geeft de koper 10% korting.
  * Het blok staat onder het RestedXP-blok, overal waar dat blok staat.
  */
 export const journeyUrl = 'https://getjourney.gg/?code=nutri';
@@ -83,6 +83,7 @@ export const restedxpPages = [
  */
 export const zygorPages = [
   'compare/leveling-addons-forever',
+  'compare/journey-vs-zygor',
   'compare/restedxp-vs-zygor',
   'compare/free-vs-premium',
 ];

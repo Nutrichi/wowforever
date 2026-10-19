@@ -1,62 +1,78 @@
 ---
-title: "Los addons de subida para WoW Forever"
-metaTitle: "WoW Forever RestedXP y Zygor: addons de subida en el lanzamiento"
-description: "RestedXP y Zygor preparan guías para WoW Forever de cara al lanzamiento del 4 de noviembre de 2026. Qué han anunciado, por qué una ruta de Classic no sirve para Forever, y los addons gratuitos que funcionan el primer día."
-short: "Addons para Forever"
-updated: 2026-09-19
+title: "Los addons para subir de nivel en WoW Forever, comparados"
+metaTitle: "Addons de leveling para WoW Forever comparados: RestedXP, Zygor, Journey"
+description: "Compara los addons para subir de nivel en WoW Forever: RestedXP, Journey y Zygor lado a lado, con sus precios, lo que cubre cada uno en el lanzamiento del 4 de noviembre y cuál te conviene."
+short: "Addons de leveling comparados"
+updated: 2026-10-20
 lang: es
 manual: true
 faq:
-  - q: "¿Funciona RestedXP en WoW Forever?"
-    a: "RestedXP tiene una guía de Forever en su tienda, marcada como nueva y abierta a pedidos. El addon en sí es gratuito; lo que se paga son las rutas."
-  - q: "¿Zygor tiene guías para WoW Forever?"
-    a: "Zygor ha anunciado que sus guías de World of Warcraft: Forever salen en noviembre de 2026, el mismo mes que Forever."
+  - q: "¿Cuál es el mejor addon para subir de nivel en WoW Forever?"
+    a: "Depende de lo que busques. RestedXP está hecho para la ruta más rápida y se compra una vez. Journey te deja probar su ruta gratis hasta el nivel 30. Zygor cubre más que subir de nivel, como mazmorras, equipo y talentos, con una suscripción."
+  - q: "¿Hay un addon gratuito para subir de nivel en WoW Forever?"
+    a: "Journey es gratis del nivel 1 al 30, también después del lanzamiento. Questie y Guidelime también son gratis: Questie muestra los objetivos de las misiones en el mapa, y Guidelime sigue rutas escritas por la comunidad."
+  - q: "¿Cuánto cuestan RestedXP, Journey y Zygor para WoW Forever?"
+    a: "RestedXP cuesta 30 dólares por una facción y 45 por las dos. Journey cuesta 25 y 30 dólares hasta el 4 de diciembre, después 30 y 45. Zygor va incluido en Zygor Elite, 15 dólares al mes o 40 por trimestre. RestedXP y Journey se compran una sola vez."
+  - q: "¿Hay un código de descuento para RestedXP o Journey?"
+    a: "Sí. Nuestro enlace a RestedXP da un 10 % de descuento, y el código NUTRI hace lo mismo con Journey. Los dos enlaces están al final de esta página."
   - q: "¿Puedo usar mi ruta de Classic Era en Forever?"
-    a: "No de principio a fin. Forever añade cuatro zonas y más de 1.000 misiones, y traslada la experiencia de las mazmorras de las muertes a las misiones, así que una ruta pensada para Classic Era te manda al sitio equivocado."
-  - q: "¿Hay alguna opción gratuita?"
-    a: "Questie y Guidelime son gratuitos y siguen funcionando en versiones nuevas, aunque alguien tiene que escribir primero una ruta de Guidelime para Forever."
+    a: "No de principio a fin. Forever añade zonas nuevas y más de 1000 misiones nuevas, y pasa la experiencia de las mazmorras de las muertes a las misiones de mazmorra, así que una ruta pensada para Classic Era te lleva a los sitios equivocados."
 sources:
   - name: "RestedXP"
     url: "https://shop.restedxp.com/ref/nutri/"
+  - name: "Journey"
+    url: "https://getjourney.gg/?code=nutri"
   - name: "Zygor"
     url: "https://zygorguides.com/ref/Nutri/"
 ---
-World of Warcraft: Forever sale el 4 de noviembre de 2026, y los dos addons de subida de pago más conocidos quieren estar ahí. Esta página reúne lo que ha anunciado cada uno y lo que cambia en las rutas de subida de Forever.
+World of Warcraft: Forever sale el 4 de noviembre de 2026, y tres addons de pago para subir de nivel estarán listos: RestedXP, Journey y Zygor. Los tres muestran en el juego el siguiente paso de una ruta, con una flecha hacia el siguiente objetivo. Se diferencian en el precio, en cuánta ruta tienen lista en el lanzamiento y en lo que hacen además de subir de nivel.
 
-## Dónde está cada uno
+## Los tres lado a lado
 
-| | RestedXP | Zygor |
-|---|---|---|
-| Guía de Forever | En la tienda, marcada como nueva y se puede pedir | Anunciada para noviembre de 2026 |
-| Se vende como | Por versión, una compra | Suscripción |
-| El addon en sí | Gratuito; se pagan las rutas | Incluido en la suscripción |
-| Enfoque | Rutas rápidas de speedrunners | Subir de nivel más equipo, talentos, mazmorras y oro |
+| | RestedXP | Journey | Zygor |
+|---|---|---|---|
+| Guía de Forever | A la venta ya | Niveles 1 a 30 gratis ya, 30 a 60 desde el 4 de noviembre | Sale en noviembre |
+| Precio | 30 dólares por una facción, 45 por las dos | 25 y 30 dólares hasta el 4 de diciembre, después 30 y 45 | Zygor Elite: 15 dólares al mes o 40 por trimestre |
+| Pago | Único | Único | Suscripción |
+| Descuento | 10 % con nuestro enlace | 10 % con el código NUTRI | Ninguno |
+| Parte gratis | El addon | El addon y los niveles 1 a 30 | Una prueba gratuita |
+| Hecho por | Speedrunners | Speedrunners | El equipo de Zygor, presente desde el juego original |
+| Además de subir de nivel | Rutas Hardcore en otras versiones | Rutas en dúo, en grupo y Hardcore previstas | Mazmorras, equipo, talentos, profesiones y viajes |
 
-Ninguno ha enseñado todavía su ruta de Forever, y no sorprende: la beta abrió el 17 de septiembre y va hasta el 21 de octubre, con un nivel máximo que sube por el camino. Tómalos como una promesa para el día del lanzamiento y no como algo que puedas probar hoy.
+Precios en dólares, más impuestos. Ninguno de los tres publica mediciones independientes de su velocidad, así que las promesas de horas ahorradas hay que tomarlas con cautela.
 
-<a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored" target="_blank">Guías de RestedXP</a>
+## RestedXP
 
-## Por qué una ruta de Classic no vale
+RestedXP vende su guía de Forever por facción en su tienda, como compra única. El addon en sí es gratis; las rutas son la parte de pago. Las escriben speedrunners, y su ventana compacta acepta y entrega misiones por ti. Hasta dónde llega la ruta de Forever el día del lanzamiento aún no se ha publicado. La comparación fuera de Forever está en [RestedXP y Zygor comparados](/es/compare/restedxp-vs-zygor/).
 
-Forever no es Classic Era con unos añadidos. Tres cambios rompen una ruta existente:
+## Journey
 
-- **Cuatro zonas nuevas y tres puertos.** Mount Hyjal, Shen'Dralas, Riverglades y Zephras Isle llegan en el lanzamiento, con rutas marítimas nuevas. Ver [las cuatro zonas nuevas](/es/news/four-new-zones-and-three-ports-in-wow-forever/).
-- **Más de 1.000 misiones nuevas** sobre las 3.000 que ya existen, lo que cambia dónde está la experiencia.
-- **La experiencia de mazmorra se movió.** Matar dentro de una mazmorra da menos y las misiones de mazmorra mucho más, así que una pasada compensa y la segunda no. Ver [el cambio en la experiencia de mazmorra](/es/news/wow-forever-dungeon-experience-changes/).
+Journey es nuevo y está hecho para Forever. Los niveles 1 a 30 son gratis para todos y ya tienen las misiones nuevas de Forever y el inicio Skyborne en Zephras Isle. El 4 de noviembre, los niveles 30 a 60 empiezan con la ruta clásica; una semana después se añaden las misiones nuevas de Forever, unos cinco niveles cada cuatro o cinco días. El resto está en [el artículo sobre Journey](/es/news/leveling-addon-journey-is-free-up-to-level-30/).
 
-A eso se suma la montura: el oro pasó al entrenamiento y la primera montura es gratis.
+## Zygor
 
-## Las opciones gratuitas
+Zygor actualiza sus guías del 1 al 60 para las zonas nuevas, el inicio Skyborne y las nuevas combinaciones de raza y clase, y añade guías para las nueve mazmorras nuevas. Su sistema de viajes y su asesor de talentos también se actualizan para Forever. Zygor avisa de que el límite de nivel de la beta limita lo que puede probar, así que la ruta podría estar actualizada solo en parte en el lanzamiento y completarse después. Todo va incluido en una suscripción a Zygor Elite.
 
-- **Questie** muestra los objetivos de misión en el mapa y funciona poco después de un parche en cualquier versión. No da una ruta.
-- **Guidelime** reproduce rutas que escribe la comunidad. Funciona en cuanto alguien escriba una ruta de Forever, y eso es lo que hay que esperar.
+## Por qué no sirve una ruta de Classic
 
-Gratuito y de pago no se excluyen. Las diferencias están en [la ayuda gratuita y de pago comparadas](/es/compare/free-vs-premium/).
+Forever no es Classic Era con algunos añadidos. Tres cambios rompen una ruta existente:
 
-## Cuál elegir para Forever
+- **Zonas y puertos nuevos.** Mount Hyjal, Shen'Dralas, Riverglades y Zephras Isle, con nuevas rutas en barco. Mira [las cuatro zonas nuevas](/es/news/four-new-zones-and-three-ports-in-wow-forever/).
+- **Más de 1000 misiones nuevas** además de las unas 3000 que ya hay, lo que cambia dónde está la experiencia.
+- **La experiencia de las mazmorras se movió.** Matar dentro de una mazmorra da menos y las misiones de mazmorra dan mucho más. Mira [el cambio de experiencia en mazmorras](/es/news/wow-forever-dungeon-experience-changes/).
 
-- **Quieres la subida más rápida el primer día y subes más de un personaje.** RestedXP está hecho para eso, y la guía de Forever ya se puede pedir.
-- **Quieres ayuda más allá de subir de nivel,** con equipo, talentos, mazmorras y oro en un solo addon, y no te molesta una suscripción. Zygor cubre más.
-- **No tienes prisa.** Questie y leer por tu cuenta bastan, y en las primeras semanas seguramente aparezca una ruta gratuita de Guidelime.
+## Las opciones gratis
 
-Esta página se actualizará en cuanto alguno de los dos enseñe su ruta real de Forever. La comparación de los dos addons en sí, fuera de Forever, está en [RestedXP y Zygor comparados](/es/compare/restedxp-vs-zygor/).
+- **Questie** muestra los objetivos de las misiones en el mapa y funciona en cada versión poco después de un parche. No da ruta.
+- **Guidelime** sigue rutas escritas por la comunidad, en cuanto alguien escriba una para Forever.
+
+Gratis y de pago no se excluyen. Los pros y contras están en [la ayuda gratis y de pago para subir de nivel, comparadas](/es/compare/free-vs-premium/).
+
+## Cuál elegir
+
+- **Quieres la ruta más rápida y pagar una vez.** RestedXP está hecho para la velocidad, y su guía de Forever ya está a la venta.
+- **Quieres probar antes de comprar.** Journey es gratis hasta el nivel 30, así que ves su ruta antes de gastar nada.
+- **Quieres un solo addon para más que subir de nivel** y no te importa una suscripción. Zygor también cubre mazmorras, equipo y talentos.
+- **No tienes prisa.** Questie y leer por tu cuenta basta, y quizá aparezca una ruta gratis de Guidelime en las primeras semanas.
+
+De dos en dos: [RestedXP y Journey](/es/compare/restedxp-vs-journey/), [Journey y Zygor](/es/compare/journey-vs-zygor/) y [RestedXP y Zygor](/es/compare/restedxp-vs-zygor/). Esta página se actualiza cuando los addons muestren más de sus rutas de Forever.

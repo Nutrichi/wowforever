@@ -68,7 +68,7 @@ function placeLine(p: DungeonPlace): string {
 <section class="wf-dng">
   <dl class="wf-dng__facts">
     <div><dt>{t('level')}</dt><dd>{d.levels}</dd></div>
-    <div><dt>{t('location')}</dt><dd>{text.location}</dd></div>
+    <div class="is-location"><dt>{t('location')}</dt><dd title={text.location}>{text.location}</dd></div>
     <div><dt>{t('group')}</dt><dd>{t('groupSize', { n: text.group ?? 5 })}</dd></div>
     <div><dt>{t('bosses')}</dt><dd>{d.bosses.length}</dd></div>
     <div><dt>{t('items')}</dt><dd>{itemCount}</dd></div>
@@ -227,7 +227,8 @@ function placeLine(p: DungeonPlace): string {
 
   .wf-dng__facts {
     display: grid;
-    grid-template-columns: repeat(6, minmax(0, 1fr));
+    /* Eén regel: de plaats krijgt de ruimte, de getallen alleen wat ze nodig hebben (Nutri, 19 oktober 2026). */
+    grid-template-columns: auto minmax(0, 1fr) repeat(4, auto);
     gap: 1px;
     margin: 0 0 14px;
     border: 1px solid var(--wf-border);
@@ -235,7 +236,7 @@ function placeLine(p: DungeonPlace): string {
     background: var(--wf-border);
     overflow: hidden;
   }
-  .wf-dng__facts > div { padding: 9px 12px; background: var(--wf-raised); }
+  .wf-dng__facts > div { min-width: 0; padding: 9px 16px; background: var(--wf-raised); }
   .wf-dng__facts dt {
     font-family: var(--wf-display);
     font-size: 11.5px;
@@ -243,7 +244,8 @@ function placeLine(p: DungeonPlace): string {
     text-transform: uppercase;
     color: var(--wf-muted);
   }
-  .wf-dng__facts dd { margin: 2px 0 0; font-size: 15px; color: var(--wf-ink); }
+  .wf-dng__facts dd { margin: 2px 0 0; font-size: 15px; color: var(--wf-ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .wf-dng__facts dt { white-space: nowrap; }
 
   .wf-dng__entrance { margin: 0 0 16px; color: var(--wf-muted); font-size: 14.5px; }
   .wf-dng__entrance strong { color: var(--wf-ink); }
@@ -330,11 +332,20 @@ function placeLine(p: DungeonPlace): string {
   }
 
   @media (max-width: 899px) {
-    .wf-dng__facts { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    /* Smaller: de plaats op een eigen rij bovenaan, de vijf korte vakken eronder. */
+    .wf-dng__facts { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+    .wf-dng__facts > .is-location { grid-column: 1 / -1; order: -1; }
+    .wf-dng__facts > div { padding: 8px 9px; }
+    .wf-dng__facts dt { font-size: 10.5px; letter-spacing: .04em; }
+    .wf-dng__facts dd { font-size: 14.5px; }
   }
   @media (max-width: 599px) {
     .wf-dng__tab { flex: 1; justify-content: center; padding: 8px 6px; font-size: 14.5px; }
     .wf-dq { padding: 12px 12px 4px; }
+    /* Telefoon: plaats bovenaan over de volle breedte, de vijf korte vakken in drie kolommen. */
+    .wf-dng__facts { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .wf-dng__facts > div:last-child { grid-column: span 2; }
+    .wf-dng__facts dd { white-space: normal; }
     .wf-dloot__tabs { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; }
     .wf-dloot__tabs::-webkit-scrollbar { display: none; }
     .wf-dloot__tab { flex: none; }

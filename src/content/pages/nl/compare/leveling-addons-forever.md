@@ -1,62 +1,78 @@
 ---
-title: "Level-addons voor WoW Forever"
-metaTitle: "WoW Forever RestedXP en Zygor: level-addons bij de launch"
-description: "RestedXP en Zygor hebben allebei gidsen voor WoW Forever op komst voor de launch op 4 november 2026. Wat er aangekondigd is, waarom een Classic-route Forever niet dekt, en de gratis addons die dag één werken."
-short: "Addons voor Forever"
-updated: 2026-09-19
+title: "Level-addons voor WoW Forever vergeleken"
+metaTitle: "Level-addons voor WoW Forever vergeleken: RestedXP, Zygor, Journey"
+description: "Vergelijk de level-addons voor WoW Forever: RestedXP, Journey en Zygor naast elkaar, met hun prijzen, wat elk dekt bij de launch op 4 november en welke bij jou past."
+short: "Level-addons vergeleken"
+updated: 2026-10-20
 lang: nl
 manual: true
 faq:
-  - q: "Werkt RestedXP in WoW Forever?"
-    a: "RestedXP zet een Forever-gids in de winkel, aangeduid als nieuw en te bestellen. De addon zelf is gratis; de routes zijn het betalende deel."
-  - q: "Heeft Zygor gidsen voor WoW Forever?"
-    a: "Zygor kondigde aan dat de gidsen voor World of Warcraft: Forever in november 2026 verschijnen, de maand waarin Forever zelf uitkomt."
-  - q: "Kan ik mijn route van Classic Era in Forever gebruiken?"
-    a: "Niet van begin tot eind. Forever voegt vier zones en meer dan 1.000 quests toe en verschuift ervaring in dungeons van kills naar dungeonquests, dus een route voor Classic Era stuurt je naar de verkeerde plekken."
-  - q: "Is er een gratis optie?"
-    a: "Questie en Guidelime zijn gratis en blijven werken op nieuwe versies, al moet iemand eerst een Guidelime-route voor Forever schrijven."
+  - q: "Welke level-addon is de beste voor WoW Forever?"
+    a: "Dat hangt af van wat je wilt. RestedXP is gebouwd voor de snelste route en koop je één keer. Journey laat je de route gratis proberen tot level 30. Zygor doet meer dan leveling, zoals dungeons, gear en talenten, met een abonnement."
+  - q: "Is er een gratis level-addon voor WoW Forever?"
+    a: "Journey is gratis van level 1 tot 30, ook na de launch. Questie en Guidelime zijn ook gratis: Questie toont de doelen van quests op de kaart, en Guidelime speelt routes af die de community schrijft."
+  - q: "Wat kosten RestedXP, Journey en Zygor voor WoW Forever?"
+    a: "RestedXP kost 30 dollar voor één factie en 45 voor beide. Journey kost 25 en 30 dollar tot 4 december, daarna 30 en 45. Zygor zit in Zygor Elite, 15 dollar per maand of 40 per kwartaal. RestedXP en Journey koop je één keer."
+  - q: "Is er een kortingscode voor RestedXP of Journey?"
+    a: "Ja. Onze link naar RestedXP geeft 10% korting, en de code NUTRI doet hetzelfde voor Journey. Beide links staan onderaan deze pagina."
+  - q: "Kan ik mijn route uit Classic Era gebruiken in Forever?"
+    a: "Niet van begin tot eind. Forever voegt nieuwe gebieden en meer dan 1.000 nieuwe quests toe, en verschuift de ervaring in dungeons van kills naar dungeonquests, dus een route voor Classic Era stuurt je naar de verkeerde plekken."
 sources:
   - name: "RestedXP"
     url: "https://shop.restedxp.com/ref/nutri/"
+  - name: "Journey"
+    url: "https://getjourney.gg/?code=nutri"
   - name: "Zygor"
     url: "https://zygorguides.com/ref/Nutri/"
 ---
-World of Warcraft: Forever komt uit op 4 november 2026, en de twee bekendste betalende level-addons willen er allebei bij zijn. Deze pagina verzamelt wat elk van de twee aangekondigd heeft, en wat er verandert aan levelroutes in Forever.
+World of Warcraft: Forever start op 4 november 2026, en drie betaalde level-addons staan dan klaar: RestedXP, Journey en Zygor. Alle drie tonen ze in het spel de volgende stap van een route, met een pijl naar het volgende doel. Ze verschillen in prijs, in hoeveel van de route klaar is bij de launch en in wat ze naast leveling doen.
 
-## Waar elk van de twee staat
+## De drie naast elkaar
 
-| | RestedXP | Zygor |
-|---|---|---|
-| Forever-gids | Staat in de winkel als nieuw en te bestellen | Aangekondigd voor november 2026 |
-| Verkocht als | Per versie, één aankoop | Abonnement |
-| De addon zelf | Gratis; de routes zijn het betalende deel | Zit in het abonnement |
-| Focus | Snelle routes van speedrunners | Levelen plus gear, talenten, dungeons en goud |
+| | RestedXP | Journey | Zygor |
+|---|---|---|---|
+| Gids voor Forever | Nu te koop | Level 1 tot 30 nu gratis, 30 tot 60 vanaf 4 november | Komt in november |
+| Prijs | 30 dollar voor één factie, 45 voor beide | 25 en 30 dollar tot 4 december, daarna 30 en 45 | Zygor Elite: 15 dollar per maand of 40 per kwartaal |
+| Betaling | Eenmalig | Eenmalig | Abonnement |
+| Korting | 10% met onze link | 10% met de code NUTRI | Geen |
+| Gratis deel | De addon | De addon en level 1 tot 30 | Een gratis proefperiode |
+| Gemaakt door | Speedrunners | Speedrunners | Het team van Zygor, al bezig sinds het originele spel |
+| Naast leveling | Hardcore-routes in andere versies | Routes voor duo, groep en Hardcore gepland | Dungeons, gear, talenten, beroepen en reizen |
 
-Geen van beide toonde zijn Forever-route al, en dat is logisch: de beta ging pas open op 17 september en loopt tot 21 oktober, met een levelcap die onderweg stijgt. Beschouw het allebei als een belofte voor de launchdag en niet als iets wat je nu kunt uitproberen.
+Prijzen in dollar, plus btw. Geen van de drie publiceert onafhankelijke metingen van zijn snelheid, dus beloftes over uren winst neem je best met een korrel zout.
 
-<a href="https://shop.restedxp.com/ref/nutri/" rel="noopener sponsored" target="_blank">Gidsen van RestedXP</a>
+## RestedXP
+
+RestedXP verkoopt zijn gids voor Forever per factie in de winkel, als eenmalige aankoop. De addon zelf is gratis; de routes zijn het betaalde deel. De routes komen van speedrunners, en het compacte venster neemt quests voor je aan en levert ze in. Hoe ver de route voor Forever op de eerste dag gaat, is nog niet bekend. De vergelijking buiten Forever staat in [RestedXP en Zygor vergeleken](/nl/compare/restedxp-vs-zygor/).
+
+## Journey
+
+Journey is nieuw en gemaakt voor Forever. Level 1 tot 30 is gratis voor iedereen en heeft al de nieuwe quests van Forever en de Skyborne-start op Zephras Isle. Op 4 november beginnen level 30 tot 60 op de klassieke route; ongeveer een week later komen de nieuwe quests van Forever erbij, zo'n vijf levels om de vier à vijf dagen. De rest staat in [de post over Journey](/nl/news/leveling-addon-journey-is-free-up-to-level-30/).
+
+## Zygor
+
+Zygor werkt zijn gidsen van 1 tot 60 bij voor de nieuwe gebieden, de Skyborne-start en de nieuwe combinaties van ras en class, en maakt gidsen voor de negen nieuwe dungeons. Het reissysteem en de talentadviseur krijgen ook updates voor Forever. Zygor waarschuwt dat de levelcap van de beta beperkt wat het kan testen, dus de route kan bij de launch deels bijgewerkt zijn en daarna afgewerkt worden. Alles zit in een abonnement op Zygor Elite.
 
 ## Waarom een Classic-route niet volstaat
 
-Forever is geen Classic Era met wat extra's erop. Drie wijzigingen breken een bestaande route:
+Forever is geen Classic Era met wat extra's erbij. Drie wijzigingen breken een bestaande route:
 
-- **Vier nieuwe zones en drie havens.** Mount Hyjal, Shen'Dralas, Riverglades en Zephras Isle komen er bij de launch bij, met nieuwe bootroutes. Zie [de vier nieuwe zones](/nl/news/four-new-zones-and-three-ports-in-wow-forever/).
-- **Meer dan 1.000 nieuwe quests** bovenop de ongeveer 3.000 die er zijn, wat verandert waar de ervaring zit.
-- **Ervaring in dungeons verschoof.** Kills binnen een dungeon geven minder, de dungeonquests veel meer, dus één run loont en een tweede niet. Zie [de wijziging aan dungeonervaring](/nl/news/wow-forever-dungeon-experience-changes/).
-
-Daarbovenop gaat de mount anders: het goud verhuisde naar de riding training en de eerste mount is gratis.
+- **Nieuwe gebieden en havens.** Mount Hyjal, Shen'Dralas, Riverglades en Zephras Isle, met nieuwe bootroutes. Zie [de vier nieuwe gebieden](/nl/news/four-new-zones-and-three-ports-in-wow-forever/).
+- **Meer dan 1.000 nieuwe quests** bovenop de ongeveer 3.000 die er al zijn, en dat verschuift waar de ervaring zit.
+- **Ervaring in dungeons verschoven.** Doden in een dungeon geeft minder en de dungeonquests geven veel meer. Zie [de wijziging in dungeonervaring](/nl/news/wow-forever-dungeon-experience-changes/).
 
 ## De gratis opties
 
-- **Questie** toont questdoelen op de kaart en werkt kort na een patch op elke versie. Het geeft geen route.
-- **Guidelime** speelt routes af die de gemeenschap schrijft. Het werkt zodra iemand een Forever-route schrijft, en dat is het stuk waarop je wacht.
+- **Questie** toont de doelen van quests op de kaart en werkt op elke versie kort na een patch. Een route geeft het niet.
+- **Guidelime** speelt routes af die de community schrijft, zodra iemand er een voor Forever maakt.
 
-Gratis en betalend sluiten elkaar niet uit. De afwegingen staan in [gratis en betalende levelhulp vergeleken](/nl/compare/free-vs-premium/).
+Gratis en betaald sluiten elkaar niet uit. De afwegingen staan in [gratis en betaalde hulp bij het levelen vergeleken](/nl/compare/free-vs-premium/).
 
-## Welke kiezen voor Forever
+## Welke kies je
 
-- **Je wilt de snelste run op dag één en je levelt meer dan één personage.** Daar is RestedXP voor gebouwd, en een Forever-gids is al te bestellen.
-- **Je wilt hulp die verder gaat dan levelen,** met gear, talenten, dungeons en goud in één addon, en een abonnement stoort je niet. Zygor dekt meer.
-- **Je hebt geen haast.** Questie plus zelf lezen volstaat, en in de eerste weken duikt er wellicht een gratis Guidelime-route op.
+- **Je wilt de snelste route en betaalt één keer.** RestedXP is gebouwd voor snelheid, en de gids voor Forever is nu te koop.
+- **Je wilt eerst proberen.** Journey is gratis tot level 30, dus je ziet de route voor je iets uitgeeft.
+- **Je wilt één addon voor meer dan leveling** en een abonnement stoort je niet. Zygor helpt ook met dungeons, gear en talenten.
+- **Je hebt geen haast.** Questie en zelf lezen volstaat, en een gratis route voor Guidelime duikt misschien op in de eerste weken.
 
-Deze pagina wordt bijgewerkt zodra een van beide zijn echte Forever-route toont. De vergelijking van de twee addons zelf, buiten Forever, staat in [RestedXP en Zygor vergeleken](/nl/compare/restedxp-vs-zygor/).
+Per twee: [RestedXP en Journey](/nl/compare/restedxp-vs-journey/), [Journey en Zygor](/nl/compare/journey-vs-zygor/) en [RestedXP en Zygor](/nl/compare/restedxp-vs-zygor/). Deze pagina wordt bijgewerkt zodra de addons meer van hun routes voor Forever tonen.

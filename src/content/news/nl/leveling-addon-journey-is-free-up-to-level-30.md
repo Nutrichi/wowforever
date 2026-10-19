@@ -38,7 +38,7 @@ Journey werkt zonder TomTom en draait naast Questie en ElvUI. Moeilijke quests k
 
 ## Wie de routes maakt
 
-Journey bouwt op de oorspronkelijke routes van 1 tot 60 van Joana, een van de eerste speedrunners van Vanilla, met toestemming van de familie van Joana en van TomCat's Gaming, dat Joana's Guides bezit. De routes voor Forever zijn van Alenya, een speedrunner in Classic die al acht jaar gidsen van 1 tot 60 schrijft, met een team van speedrunners met records en classexperts.
+De routes voor Forever zijn van Alenya, een speedrunner in Classic die al acht jaar gidsen van 1 tot 60 schrijft, met een team van speedrunners met records en classexperts.
 
 Het gratis deel heeft al de nieuwe quests van Forever en de Skyborne-start op Zephras Isle voor beide facties. De nieuwe combinaties van ras en class, zoals de Undead Paladin, de Orc Mage en de Dwarf Shaman, hebben hun classquests in de route. Stappen voor Cooking en het nieuwe Camping-systeem gebruiken hun bonus op experience.
 

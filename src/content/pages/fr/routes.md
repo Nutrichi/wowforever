@@ -36,6 +36,9 @@ Chaque classe a aussi son propre guide par extension dans [Classes](/fr/classes/
 
 ## Comparatifs
 
+- [Les addons de leveling pour WoW Forever comparés](/fr/compare/leveling-addons-forever/)
+- [RestedXP et Journey comparés](/fr/compare/restedxp-vs-journey/)
+- [Journey et Zygor comparés](/fr/compare/journey-vs-zygor/)
 - [RestedXP et Zygor comparés](/fr/compare/restedxp-vs-zygor/)
 - [Aide au leveling gratuite et payante comparées](/fr/compare/free-vs-premium/)
 - [Donjons ou quêtes pendant le leveling](/fr/compare/dungeon-vs-questing/)

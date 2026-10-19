@@ -38,7 +38,7 @@ Journey funktioniert ohne TomTom und läuft neben Questie und ElvUI. Schwere Que
 
 ## Wer die Routen macht
 
-Journey baut auf den ursprünglichen Routen von 1 bis 60 von Joana auf, einem der ersten Speedrunner von Vanilla, mit Erlaubnis der Familie von Joana und von TomCat's Gaming, dem Joana's Guides gehört. Die Routen für Forever stammen von Alenya, einem Speedrunner aus Classic, der seit acht Jahren Guides von 1 bis 60 schreibt, mit einem Team aus Rekord-Speedrunnern und Klassenexperten.
+Die Routen für Forever stammen von Alenya, einem Speedrunner aus Classic, der seit acht Jahren Guides von 1 bis 60 schreibt, mit einem Team aus Rekord-Speedrunnern und Klassenexperten.
 
 Der kostenlose Teil enthält schon die neuen Quests von Forever und den Skyborne-Start auf Zephras Isle für beide Fraktionen. Die neuen Kombinationen aus Volk und Klasse, etwa der Undead Paladin, der Orc Mage und der Dwarf Shaman, haben ihre Klassenquests in der Route. Die Schritte für Cooking und das neue Camping-System nutzen deren Bonus auf Erfahrung.
 

@@ -22,7 +22,7 @@ import type { HubCard } from '../../config/guides-hub';
 import { hubImageOf, hubModel, isExternalCard } from '../../lib/guides-hub';
 import { hubBlurbs, hubT } from '../../i18n/guides-hub';
 import { guideT } from '../../i18n/guides';
-import { journeyUrl, restedxpUrl } from '../../config/site';
+import PartnerBlock from '../PartnerBlock.astro';
 import { pagePath } from '../../lib/pages';
 
 interface Props {
@@ -36,11 +36,13 @@ const blurbs = hubBlurbs[locale];
 
 const imageOf = hubImageOf;
 
-const { pageOf, categories, recent } = await hubModel(locale);
+const { pages, pageOf, categories, recent } = await hubModel(locale);
 
 const isExternal = isExternalCard;
 const hrefOf = (key: string) => (key.startsWith('/') ? `${localizePath(key, locale)}/` : pagePath(`guides/${key}`, locale));
-const titleOf = (card: HubCard) => (card.label ? t(card.label) : pageOf(card.key)?.short ?? card.key);
+// Een kaart buiten de gidsen (/compare/...) zonder eigen label neemt de korte titel van die pagina.
+const pageFor = (key: string) => (key.startsWith('/') ? pages.find((page) => page.key === key.slice(1)) : pageOf(key));
+const titleOf = (card: HubCard) => (card.label ? t(card.label) : pageFor(card.key)?.short ?? card.key);
 const blurbOf = (card: HubCard) => blurbs[card.label === 'cardLeveling' ? 'leveling' : card.key.replace(/^\//, '')] ?? '';
 const nameOf = (key: string) => t(`c_${key}` as Parameters<typeof t>[0]);
 
@@ -125,16 +127,10 @@ const first = categories[0]?.key;
       </ul>
 
       {category.key === 'leveling' && (
-        <aside class="wf-rxpblock" data-pagefind-ignore>
-          <p>{g('restedxpText')}</p>
-          <a href={restedxpUrl} rel="noopener sponsored">{g('restedxpButton')}</a>
-        </aside>
+        <PartnerBlock locale={locale} partner="restedxp" />
       )}
       {category.key === 'leveling' && (
-        <aside class="wf-rxpblock wf-rxpblock--next" data-pagefind-ignore>
-          <p>{g('journeyText')}</p>
-          <a href={journeyUrl} rel="noopener sponsored">{g('journeyButton')}</a>
-        </aside>
+        <PartnerBlock locale={locale} partner="journey" next />
       )}
     </section>
   ))}

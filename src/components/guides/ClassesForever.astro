@@ -7,9 +7,9 @@
 import type { Locale } from '../../i18n/ui';
 import { classes } from '../../config/bis';
 import { foreverClassOrder, foreverRaces } from '../../config/guides';
-import { restedxpUrl } from '../../config/site';
 import { foreverRacials } from '../../i18n/forever-racials';
 import { guideT } from '../../i18n/guides';
+import PartnerBlock from '../PartnerBlock.astro';
 import { levT } from '../../i18n/leveling';
 import { localizePath } from '../../i18n/utils';
 import { levelingBuilds } from '../../lib/leveling';
@@ -129,7 +129,4 @@ const stateLabel = { new: t('racialNew'), changed: t('racialChanged'), same: t('
   </div>
 </section>
 
-<aside class="wf-rxpblock">
-  <p>{t('restedxpText')}</p>
-  <a href={restedxpUrl} rel="noopener sponsored">{t('restedxpButton')}</a>
-</aside>
+<PartnerBlock locale={locale} partner="restedxp" />

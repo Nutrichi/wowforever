@@ -1,0 +1,41 @@
+---
+/*
+ * Het partnerblok onderaan een pagina: RestedXP, Journey of Zygor. Een tekst,
+ * het officiële logo links (Nutri, 19 oktober 2026: "make sure people can easily
+ * see the difference between the 2 by adding their official icon into the box")
+ * en een knop met de partnerlink. Zygor heeft geen vierkant icoon van formaat,
+ * dus daar staat het woordmerk.
+ *
+ * Stond eerder vijf keer met de hand in de sjablonen; nu één plek.
+ */
+import type { Locale } from '../i18n/ui';
+import { guideT } from '../i18n/guides';
+import { journeyUrl, restedxpUrl, zygorUrl } from '../config/site';
+
+export type Partner = 'restedxp' | 'journey' | 'zygor';
+
+interface Props {
+  locale: Locale;
+  partner: Partner;
+  /** Een tweede blok sluit aan op het eerste. */
+  next?: boolean;
+}
+
+const { locale, partner, next = false } = Astro.props;
+const g = guideT(locale);
+
+const partners = {
+  restedxp: { url: restedxpUrl, logo: '/assets/restedxp.png', name: 'RestedXP', text: g('restedxpText'), button: g('restedxpButton'), wide: false },
+  journey: { url: journeyUrl, logo: '/assets/journey.png', name: 'Journey', text: g('journeyText'), button: g('journeyButton'), wide: false },
+  zygor: { url: zygorUrl, logo: '/assets/zygor.svg', name: 'Zygor', text: g('zygorText'), button: g('zygorButton'), wide: true },
+} as const;
+const p = partners[partner];
+---
+
+<aside class:list={['wf-rxpblock', `is-${partner}`, { 'wf-rxpblock--next': next }]} data-pagefind-ignore>
+  <a class:list={['wf-rxpblock__logo', { 'is-wide': p.wide }]} href={p.url} rel="noopener sponsored" tabindex="-1" aria-hidden="true">
+    <img src={p.logo} alt="" width={p.wide ? 92 : 40} height={p.wide ? 20 : 40} loading="lazy" />
+  </a>
+  <p>{p.text}</p>
+  <a class="wf-rxpblock__button" href={p.url} rel="noopener sponsored" aria-label={`${p.name}: ${p.button}`}>{p.button}</a>
+</aside>

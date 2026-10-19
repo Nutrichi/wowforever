@@ -72,6 +72,13 @@ export const hubCategories: HubCategory[] = [
       },
       { key: 'experience', image: '2026-10-14-wow-forever-camp-tent-and-sleeping-bag.jpg' },
       { key: '/routes', label: 'cardRoutes', image: '2026-09-17-wow-forever-dustwallow-marsh.jpg' },
+      // De vergelijkingen (Nutri, 19 oktober 2026: "on this overview page I also miss the comparison posts").
+      { key: '/compare/leveling-addons-forever', image: '2026-10-19-wow-forever-journey-guide-menu.png' },
+      { key: '/compare/restedxp-vs-journey', image: '2026-10-19-wow-forever-journey-guide-panel.png' },
+      { key: '/compare/journey-vs-zygor', image: '2026-10-19-wow-forever-journey-vendor-step.png' },
+      { key: '/compare/restedxp-vs-zygor', image: '2026-10-04-wow-forever-leveling-alone-in-durotar.jpg' },
+      { key: '/compare/free-vs-premium', image: '2026-10-14-wow-forever-quest-log-colors.jpg' },
+      { key: '/compare/dungeon-vs-questing', image: '2026-10-04-wow-forever-players-queue-for-a-quest-in-a-cave.jpg' },
     ],
   },
   {

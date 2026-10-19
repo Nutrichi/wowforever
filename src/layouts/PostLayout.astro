@@ -27,7 +27,8 @@ import LikeButton from '../components/LikeButton.astro';
 import { publisherJsonLd } from '../lib/structured-data';
 import { podcastSeries } from '../lib/podcast';
 import { guideT } from '../i18n/guides';
-import { isPartnerLink, journeyUrl, restedxpUrl } from '../config/site';
+import PartnerBlock from '../components/PartnerBlock.astro';
+import { isPartnerLink } from '../config/site';
 
 interface Props {
   post: Post;
@@ -40,7 +41,6 @@ const { Content } = await render(post.entry);
 /* De lijst van alle afleveringen, alleen bij een post over de podcast. */
 const series = await podcastSeries(post, locale);
 const g = guideT(locale);
-const partnerLinks = { restedxp: restedxpUrl, journey: journeyUrl } as const;
 const partners = ((post.entry.data as { partners?: ('restedxp' | 'journey')[] }).partners ?? []);
 
 const category = categories[post.category];
@@ -137,10 +137,7 @@ const jsonLd = {
       </div>
 
       {partners.map((key, index) => (
-        <aside class={index > 0 ? 'wf-rxpblock wf-rxpblock--next' : 'wf-rxpblock'} data-pagefind-ignore>
-          <p>{g(key === 'journey' ? 'journeyText' : 'restedxpText')}</p>
-          <a href={partnerLinks[key]} rel="noopener sponsored">{g(key === 'journey' ? 'journeyButton' : 'restedxpButton')}</a>
-        </aside>
+        <PartnerBlock locale={locale} partner={key} next={index > 0} />
       ))}
 
       <div class="wf-post__like" data-pagefind-ignore>

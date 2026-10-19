@@ -38,7 +38,7 @@ Journey funziona senza TomTom e gira insieme a Questie ed ElvUI. Le missioni dif
 
 ## Chi crea i percorsi
 
-Journey parte dai percorsi originali da 1 a 60 di Joana, uno dei primi speedrunner di Vanilla, con il permesso della famiglia di Joana e di TomCat's Gaming, che possiede Joana's Guides. I percorsi per Forever sono di Alenya, speedrunner di Classic che scrive guide da 1 a 60 da otto anni, con un team di speedrunner da record ed esperti delle classi.
+I percorsi per Forever sono di Alenya, speedrunner di Classic che scrive guide da 1 a 60 da otto anni, con un team di speedrunner da record ed esperti delle classi.
 
 La parte gratuita contiene già le nuove missioni di Forever e l’inizio Skyborne su Zephras Isle per entrambe le fazioni. Le nuove combinazioni di razza e classe, come l’Undead Paladin, l’Orc Mage e il Dwarf Shaman, hanno le loro missioni di classe nel percorso. I passi per Cooking e il nuovo sistema di Camping sfruttano il loro bonus di esperienza.
 

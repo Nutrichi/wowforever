@@ -539,9 +539,9 @@ a.wf-wh.wf-plain:hover { text-decoration-style: solid; }
 /* Een tweede partnerblok (Zygor) sluit aan op het eerste. */
 .wf-rxpblock--next { margin-top: 12px; }
 
-.wf-rxpblock p { flex: 1 1 300px; font-size: 14.5px; color: var(--wf-ink-soft); }
+.wf-rxpblock p { flex: 1 1 170px; font-size: 14.5px; color: var(--wf-ink-soft); }
 
-.wf-rxpblock a {
+.wf-rxpblock__button {
   margin-left: auto;
   padding: 8px 16px;
   border-radius: var(--wf-r-pill);
@@ -552,4 +552,23 @@ a.wf-wh.wf-plain:hover { text-decoration-style: solid; }
   font-size: 12.5px;
   letter-spacing: .12em;
   text-transform: uppercase;
+  white-space: nowrap;
+  min-width: 150px;
+  text-align: center;
+}
+
+/* Het officiële logo van de partner, zodat de blokken niet op elkaar lijken. */
+/* Vaste kolom voor het logo, zodat de tekst in elk blok op dezelfde plaats begint (Nutri, 20 oktober 2026). */
+.wf-rxpblock__logo { flex: none; width: 92px; display: flex; align-items: center; justify-content: center; }
+.wf-rxpblock__logo img { display: block; width: 40px; height: 40px; border-radius: 10px; }
+.wf-rxpblock.is-restedxp .wf-rxpblock__logo img { border-radius: 50%; }
+.wf-rxpblock__logo.is-wide img { width: 92px; height: 20px; border-radius: 0; }
+/* Het woordmerk van Zygor is wit; op de lichte dagkleuren een donkere ondergrond. */
+:root[data-theme="day"] .wf-rxpblock__logo.is-wide { box-sizing: border-box; padding: 8px; border-radius: 8px; background: #1b2236; }
+:root[data-theme="day"] .wf-rxpblock__logo.is-wide img { width: 76px; height: 17px; }
+@media (max-width: 599px) {
+  .wf-rxpblock__logo { width: 60px; }
+  .wf-rxpblock__logo.is-wide img { width: 60px; height: 13px; }
+  :root[data-theme="day"] .wf-rxpblock__logo.is-wide { padding: 6px 4px; }
+  :root[data-theme="day"] .wf-rxpblock__logo.is-wide img { width: 52px; height: 11px; }
 }

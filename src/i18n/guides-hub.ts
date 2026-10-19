@@ -224,6 +224,12 @@ export const hubLabels: Record<Locale, HubLabels> = {
 /** Wat een kaart behandelt, per sleutel uit config/guides-hub.ts. */
 export const hubBlurbs: Record<Locale, Record<string, string>> = {
   "en": {
+    "compare/restedxp-vs-journey": "RestedXP and Journey side by side: price, the free part, discount codes and how far each route goes at launch",
+    "compare/journey-vs-zygor": "Journey and Zygor side by side: a one-time price against a subscription, and what each one covers",
+    "compare/leveling-addons-forever": "RestedXP, Journey and Zygor side by side for WoW Forever: prices, what each covers at launch and which one fits you",
+    "compare/restedxp-vs-zygor": "The two best known leveling addons compared: routes, interface, extras and payment",
+    "compare/free-vs-premium": "Free help like Questie and Guidelime against paid route addons, and when each one is enough",
+    "compare/dungeon-vs-questing": "Leveling through dungeons or through quests in WoW Forever, and what the new dungeon experience changes",
     "dungeons/ragefire-chasm": "The way in through Orgrimmar, all six Horde quests with their rewards and the new loot of Taragaman and Jergosh",
     "dungeons/hall-of-thanes": "The way in, all five quests with the chain in Dun Morogh, the four bosses and their loot",
     "dungeons/ruins-of-lordaeron": "The way in for both factions, all ten quests, the six bosses and their loot",
@@ -274,6 +280,12 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "The dates and the roadmap, the zones, dungeons and raids, the Skyborne and the editions"
   },
   "nl": {
+    "compare/restedxp-vs-journey": "RestedXP en Journey naast elkaar: prijs, het gratis deel, kortingscodes en hoe ver elke route gaat bij de launch",
+    "compare/journey-vs-zygor": "Journey en Zygor naast elkaar: een eenmalige prijs tegenover een abonnement, en wat elk dekt",
+    "compare/leveling-addons-forever": "RestedXP, Journey en Zygor naast elkaar voor WoW Forever: prijzen, wat elk dekt bij de launch en welke bij jou past",
+    "compare/restedxp-vs-zygor": "De twee bekendste level-addons vergeleken: routes, venster, extra's en betaling",
+    "compare/free-vs-premium": "Gratis hulp zoals Questie en Guidelime tegenover betaalde route-addons, en wanneer elk volstaat",
+    "compare/dungeon-vs-questing": "Levelen via dungeons of via quests in WoW Forever, en wat de nieuwe dungeonervaring verandert",
     "dungeons/ragefire-chasm": "De weg naar binnen via Orgrimmar, alle zes de quests van de Horde met hun beloningen en de nieuwe loot van Taragaman en Jergosh",
     "dungeons/hall-of-thanes": "De weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot",
     "dungeons/ruins-of-lordaeron": "De weg erheen voor beide facties, alle tien de quests, de zes bazen en hun loot",
@@ -324,6 +336,12 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "De datums en de roadmap, de zones, dungeons en raids, de Skyborne en de edities"
   },
   "fr": {
+    "compare/restedxp-vs-journey": "RestedXP et Journey côte à côte : prix, partie gratuite, codes de réduction et jusqu’où va chaque route au lancement",
+    "compare/journey-vs-zygor": "Journey et Zygor côte à côte : un prix unique face à un abonnement, et ce que chacun couvre",
+    "compare/leveling-addons-forever": "RestedXP, Journey et Zygor côte à côte pour WoW Forever : prix, ce que chacun couvre au lancement et lequel vous convient",
+    "compare/restedxp-vs-zygor": "Les deux addons de leveling les plus connus comparés : routes, interface, extras et paiement",
+    "compare/free-vs-premium": "L’aide gratuite comme Questie et Guidelime face aux addons de route payants, et quand chacun suffit",
+    "compare/dungeon-vs-questing": "Monter de niveau par les donjons ou par les quêtes dans WoW Forever, et ce que change la nouvelle expérience en donjon",
     "dungeons/ragefire-chasm": "L’entrée par Orgrimmar, les six quêtes de la Horde avec leurs récompenses et le nouveau butin de Taragaman et Jergosh",
     "dungeons/hall-of-thanes": "Le chemin, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin",
     "dungeons/ruins-of-lordaeron": "Le chemin pour les deux factions, les dix quêtes, les six boss et leur butin",
@@ -374,6 +392,12 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "Les dates et la feuille de route, les zones, donjons et raids, les Skyborne et les éditions"
   },
   "es": {
+    "compare/restedxp-vs-journey": "RestedXP y Journey lado a lado: precio, la parte gratis, códigos de descuento y hasta dónde llega cada ruta en el lanzamiento",
+    "compare/journey-vs-zygor": "Journey y Zygor lado a lado: un precio único frente a una suscripción, y lo que cubre cada uno",
+    "compare/leveling-addons-forever": "RestedXP, Journey y Zygor lado a lado para WoW Forever: precios, lo que cubre cada uno en el lanzamiento y cuál te conviene",
+    "compare/restedxp-vs-zygor": "Los dos addons para subir de nivel más conocidos, comparados: rutas, interfaz, extras y pago",
+    "compare/free-vs-premium": "La ayuda gratis como Questie y Guidelime frente a los addons de rutas de pago, y cuándo basta cada uno",
+    "compare/dungeon-vs-questing": "Subir de nivel con mazmorras o con misiones en WoW Forever, y lo que cambia la nueva experiencia de mazmorras",
     "dungeons/ragefire-chasm": "La entrada por Orgrimmar, las seis misiones de la Horde con sus recompensas y el botín nuevo de Taragaman y Jergosh",
     "dungeons/hall-of-thanes": "Cómo llegar, las cinco misiones con la cadena de Dun Morogh, los cuatro jefes y su botín",
     "dungeons/ruins-of-lordaeron": "Cómo llegar con las dos facciones, las diez misiones, los seis jefes y su botín",
@@ -424,6 +448,12 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "Las fechas y la hoja de ruta, las zonas, mazmorras y bandas, los Skyborne y las ediciones"
   },
   "it": {
+    "compare/restedxp-vs-journey": "RestedXP e Journey fianco a fianco: prezzo, la parte gratuita, codici sconto e fin dove arriva ogni percorso al lancio",
+    "compare/journey-vs-zygor": "Journey e Zygor fianco a fianco: un prezzo una tantum contro un abbonamento, e cosa copre ognuno",
+    "compare/leveling-addons-forever": "RestedXP, Journey e Zygor fianco a fianco per WoW Forever: prezzi, cosa copre ognuno al lancio e quale fa per te",
+    "compare/restedxp-vs-zygor": "I due addon di livellamento più noti a confronto: percorsi, interfaccia, extra e pagamento",
+    "compare/free-vs-premium": "L'aiuto gratuito come Questie e Guidelime contro gli addon di percorso a pagamento, e quando basta ciascuno",
+    "compare/dungeon-vs-questing": "Livellare con i dungeon o con le missioni in WoW Forever, e cosa cambia la nuova esperienza dei dungeon",
     "dungeons/ragefire-chasm": "L’ingresso da Orgrimmar, le sei missioni della Horde con le loro ricompense e il nuovo bottino di Taragaman e Jergosh",
     "dungeons/hall-of-thanes": "Come arrivarci, le cinque missioni con la catena di Dun Morogh, i quattro boss e il loro bottino",
     "dungeons/ruins-of-lordaeron": "Come arrivarci con entrambe le fazioni, le dieci missioni, i sei boss e il loro bottino",
@@ -474,6 +504,12 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "Le date e la roadmap, le zone, le spedizioni e le incursioni, gli Skyborne e le edizioni"
   },
   "de": {
+    "compare/restedxp-vs-journey": "RestedXP und Journey nebeneinander: Preis, der kostenlose Teil, Rabattcodes und wie weit jede Route zum Start reicht",
+    "compare/journey-vs-zygor": "Journey und Zygor nebeneinander: ein einmaliger Preis gegen ein Abo, und was jedes abdeckt",
+    "compare/leveling-addons-forever": "RestedXP, Journey und Zygor nebeneinander für WoW Forever: Preise, was jedes zum Start abdeckt und welches zu dir passt",
+    "compare/restedxp-vs-zygor": "Die zwei bekanntesten Leveling-Addons im Vergleich: Routen, Oberfläche, Extras und Bezahlung",
+    "compare/free-vs-premium": "Kostenlose Hilfe wie Questie und Guidelime gegen bezahlte Routen-Addons, und wann was reicht",
+    "compare/dungeon-vs-questing": "Leveln über Dungeons oder über Quests in WoW Forever, und was die neue Dungeonerfahrung ändert",
     "dungeons/ragefire-chasm": "Der Weg hinein über Orgrimmar, alle sechs Quests der Horde mit ihren Belohnungen und die neue Beute von Taragaman und Jergosh",
     "dungeons/hall-of-thanes": "Der Weg dorthin, alle fünf Quests mit der Reihe in Dun Morogh, die vier Bosse und ihre Beute",
     "dungeons/ruins-of-lordaeron": "Der Weg dorthin für beide Fraktionen, alle zehn Quests, die sechs Bosse und ihre Beute",
