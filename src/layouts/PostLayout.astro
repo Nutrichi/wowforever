@@ -27,7 +27,7 @@ import LikeButton from '../components/LikeButton.astro';
 import { publisherJsonLd } from '../lib/structured-data';
 import { podcastSeries } from '../lib/podcast';
 import { guideT } from '../i18n/guides';
-import { journeyUrl, restedxpUrl } from '../config/site';
+import { isPartnerLink, journeyUrl, restedxpUrl } from '../config/site';
 
 interface Props {
   post: Post;
@@ -153,7 +153,7 @@ const jsonLd = {
           {post.sourceUrl ? (
             <a
               href={post.sourceUrl}
-              rel={isExternal ? 'noopener nofollow' : undefined}
+              rel={isPartnerLink(post.sourceUrl) ? 'noopener sponsored' : isExternal ? 'noopener nofollow' : undefined}
               target={isExternal ? '_blank' : undefined}
             >{post.source}</a>
           ) : post.source}

@@ -7,7 +7,7 @@ lang: en
 image: ../../../assets/posts/2026-10-19-wow-forever-the-riverglades.jpg
 imageAlt: "Green hills, tall trees and a winding river in The Riverglades, a screenshot of World of Warcraft: Forever"
 source: "Journey"
-sourceUrl: "https://getjourney.gg/support"
+sourceUrl: "https://getjourney.gg/?code=nutri"
 tags: ["forever", "leveling"]
 partners: ["restedxp", "journey"]
 featured: false

@@ -8,7 +8,7 @@ manual: true
 image: ../../../assets/posts/2026-10-19-wow-forever-the-riverglades.jpg
 imageAlt: "Grüne Hügel, hohe Bäume und ein gewundener Fluss in The Riverglades, ein Screenshot aus World of Warcraft: Forever"
 source: "Journey"
-sourceUrl: "https://getjourney.gg/support"
+sourceUrl: "https://getjourney.gg/?code=nutri"
 tags: ["forever", "leveling"]
 partners: ["restedxp", "journey"]
 featured: false

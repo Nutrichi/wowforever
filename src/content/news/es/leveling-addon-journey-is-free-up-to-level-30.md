@@ -8,7 +8,7 @@ manual: true
 image: ../../../assets/posts/2026-10-19-wow-forever-the-riverglades.jpg
 imageAlt: "Colinas verdes, árboles altos y un río sinuoso en The Riverglades, una captura de World of Warcraft: Forever"
 source: "Journey"
-sourceUrl: "https://getjourney.gg/support"
+sourceUrl: "https://getjourney.gg/?code=nutri"
 tags: ["forever", "leveling"]
 partners: ["restedxp", "journey"]
 featured: false
