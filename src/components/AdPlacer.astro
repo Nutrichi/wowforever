@@ -1,0 +1,90 @@
+---
+/*
+ * Zet de advertenties in de lopende tekst van een gids of post (config/ads.ts),
+ * op een plek die er zin heeft (Nutri, 20 oktober 2026: "1-2 ad places.
+ * Depending on how big the article is. It should make sense").
+ *
+ * Komt direct na de tekst (het element met data-wf-ads). Het kleine script hier
+ * draait meteen tijdens het lezen van de pagina, voor de rest getekend wordt,
+ * dus er verspringt niets: het kiest de plek en zet daar een kopie van het
+ * sjabloon neer.
+ *
+ * Gids: na de inleiding en het overzicht, voor de eerste tussenkop die op gewone
+ * tekst of een tabel volgt, als de gids minstens 400 woorden heeft; en een raster
+ * aan het einde van de tekst vanaf 250 woorden.
+ * Post: tot 350 woorden een plek aan het einde; tot 900 woorden een plek
+ * halverwege (voor de tussenkop het dichtst bij het midden, anders na de alinea
+ * het dichtst bij het midden); daarboven halverwege en een raster aan het einde.
+ * Nooit vlak na een kop, nooit naast een beeld of insluiting, en nooit aan het
+ * einde als er een partnerblok volgt.
+ */
+import AdSlot from './AdSlot.astro';
+import { adsVisible } from '../config/ads';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  locale: Locale;
+  mode: 'guide' | 'post';
+  /** Volgt er een partnerblok onder de tekst? Dan geen plek aan het einde. */
+  partnerBelow?: boolean;
+}
+
+const { locale, mode, partnerBelow = false } = Astro.props;
+---
+
+{adsVisible && (
+  <>
+    <template data-wf-ad-tpl="inArticle"><AdSlot locale={locale} kind="inArticle" /></template>
+    <template data-wf-ad-tpl="multiplex"><AdSlot locale={locale} kind="multiplex" /></template>
+    <script is:inline data-mode={mode} data-partner={partnerBelow ? '1' : '0'}>
+      (() => {
+        const me = document.currentScript;
+        const mode = me.dataset.mode;
+        const partnerBelow = me.dataset.partner === '1';
+        const prose = document.querySelector('[data-wf-ads]');
+        if (!prose) return;
+        const tpl = (kind) => document.querySelector(`template[data-wf-ad-tpl="${kind}"]`);
+        const put = (kind, before) => {
+          const t = tpl(kind);
+          if (!t || !t.content.firstElementChild) return;
+          const node = t.content.firstElementChild.cloneNode(true);
+          if (before) prose.insertBefore(node, before); else prose.appendChild(node);
+        };
+        const blocks = Array.from(prose.children);
+        const words = (prose.textContent || '').trim().split(/\s+/).length;
+        // Een plek is goed als het blok ervoor gewone tekst is (geen kop, beeld of insluiting).
+        const okBefore = (el) => {
+          const prev = el && el.previousElementSibling;
+          if (!prev || prev.querySelector('img:not(.wf-wh__icon), iframe, figure')) return false;
+          // Tekst, een lijst of een tabel (een tabel staat soms in een eigen <div>).
+          return /^(P|UL|OL|TABLE)$/.test(prev.tagName) || (prev.tagName === 'DIV' && !!prev.querySelector(':scope > table'));
+        };
+        const h2s = blocks.filter((el) => el.tagName === 'H2');
+        const middle = () => {
+          const total = blocks.length;
+          const pick = (list) => list.reduce((best, el) => {
+            const d = Math.abs(blocks.indexOf(el) - total / 2);
+            return !best || d < best.d ? { el, d } : best;
+          }, null);
+          const byHead = pick(h2s.filter((h) => okBefore(h) && blocks.indexOf(h) > 2 && blocks.indexOf(h) < total - 2));
+          if (byHead) return byHead.el;
+          const paras = blocks.filter((el, i) => el.tagName === 'P' && i > 2 && i < total - 2 && blocks[i + 1] && blocks[i + 1].tagName === 'P');
+          const byPara = pick(paras);
+          return byPara ? byPara.el.nextElementSibling : null;
+        };
+        if (mode === 'guide') {
+          const first = h2s.find((h) => okBefore(h));
+          if (words >= 400 && first) put('inArticle', first);
+          if (words >= 250) put('multiplex', null);
+        } else {
+          if (words < 350) { if (!partnerBelow) put('inArticle', null); }
+          else {
+            const at = middle();
+            if (at) put('inArticle', at);
+            if (words > 900 && !partnerBelow) put('multiplex', null);
+          }
+        }
+      })();
+    </script>
+  </>
+)}

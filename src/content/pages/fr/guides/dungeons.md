@@ -30,7 +30,7 @@ La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les 
 - **[The Deadmines](/fr/guides/dungeons/the-deadmines/)**, niveaux 17-26 : l’entrée par Moonbrook, les sept quêtes avec leurs récompenses et le nouveau butin de chaque boss.
 - **[Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/)**, niveaux 20-30 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss.
 - **[Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/)**, niveaux 24-32 : l’entrée sur la Zoram Strand, les quêtes des deux factions et le nouveau butin de chaque boss.
-- **[Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/)**, niveaux 26-31, nouveau dans Forever : les quêtes des deux factions, les hautes herbes et les trois boss avec leur butin.
+- **[Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/)**, niveaux 24-29, nouveau dans Forever : les quêtes des deux factions, les hautes herbes et les trois boss avec leur butin.
 - **[The Stockade](/fr/guides/dungeons/the-stockade/)**, niveaux 24-32 : le plan de la prison, les six quêtes et le nouveau butin bleu de chaque boss.
 - **[City of Dalaran](/fr/guides/dungeons/city-of-dalaran/)**, niveaux 28-33, nouveau dans Forever : les deux entrées, les monstres arcaniques et les sept boss.
 - **[Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/)**, niveaux 29-38 : les sept quêtes avec leurs récompenses, les lanceurs de sorts quilboar et le nouveau butin de chaque boss.
@@ -52,7 +52,7 @@ Pour les donjons qui ont un guide, la fourchette est celle que donne le jeu. Pou
 | [The Deadmines](/fr/guides/dungeons/the-deadmines/) | 17-26 | 8 |
 | [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
 | [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
-| [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | 26-31 | pas encore connues |
+| [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | 24-29 | pas encore connues |
 | [The Stockade](/fr/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/fr/guides/dungeons/city-of-dalaran/) | 28-33 | pas encore connues |
 | [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
@@ -512,7 +512,7 @@ Les quêtes de six nouveaux donjons de Forever ne sont pas encore connues. L’E
 
 | Donjon | Niveaux |
 |---|---|
-| [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | 26-31 |
+| [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | 24-29 |
 | [City of Dalaran](/fr/guides/dungeons/city-of-dalaran/) | 28-33 |
 | The Drowned City | 35-40 |
 | Krol'dok Stronghold | 40-45 |

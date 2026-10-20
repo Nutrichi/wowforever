@@ -29,7 +29,7 @@ The beta of WoW Forever goes up to level 30 since 1 October. For the dungeons ab
 - **[The Deadmines](/guides/dungeons/the-deadmines/)**, levels 17-26: the way in through Moonbrook, all seven quests with their rewards and the new loot of every boss.
 - **[Shadowfang Keep](/guides/dungeons/shadowfang-keep/)**, levels 20-30: the way in above Pyrewood Village, the three Horde quests and the new loot of every boss.
 - **[Blackfathom Deeps](/guides/dungeons/blackfathom-deeps/)**, levels 24-32: the way in at the Zoram Strand, the quests of both factions and the new loot of every boss.
-- **[Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/)**, levels 26-31, new in Forever: the quests for both factions, the tall grass and the three bosses with their loot.
+- **[Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/)**, levels 24-29, new in Forever: the quests for both factions, the tall grass and the three bosses with their loot.
 - **[The Stockade](/guides/dungeons/the-stockade/)**, levels 24-32: the layout of the prison, all six quests and the new blue loot of every boss.
 - **[City of Dalaran](/guides/dungeons/city-of-dalaran/)**, levels 28-33, new in Forever: both entrances, the arcane trash and the seven bosses.
 - **[Razorfen Kraul](/guides/dungeons/razorfen-kraul/)**, levels 29-38: all seven quests with their rewards, the quilboar casters and the new loot of every boss.
@@ -51,7 +51,7 @@ For the dungeons with a guide, the range is the one the game itself gives. For t
 | [The Deadmines](/guides/dungeons/the-deadmines/) | 17-26 | 8 |
 | [Shadowfang Keep](/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
 | [Blackfathom Deeps](/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
-| [Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/) | 26-31 | not known yet |
+| [Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/) | 24-29 | not known yet |
 | [The Stockade](/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/guides/dungeons/city-of-dalaran/) | 28-33 | not known yet |
 | [Razorfen Kraul](/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
@@ -511,7 +511,7 @@ Six new dungeons of Forever have no known quests yet. The Excavation Site opened
 
 | Dungeon | Levels |
 |---|---|
-| [Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/) | 26-31 |
+| [Excavation Site: Wetlands](/guides/dungeons/excavation-site-wetlands/) | 24-29 |
 | [City of Dalaran](/guides/dungeons/city-of-dalaran/) | 28-33 |
 | The Drowned City | 35-40 |
 | Krol'dok Stronghold | 40-45 |

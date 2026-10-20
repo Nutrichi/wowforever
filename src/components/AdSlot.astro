@@ -1,0 +1,42 @@
+---
+/*
+ * Eén advertentieplek (config/ads.ts). Een kader in de huisstijl met het label
+ * "Advertisement" in de taal van de pagina, vooraf op hoogte zodat de tekst niet
+ * verspringt. Heeft Google niets, dan verdwijnt het kader helemaal (CSS op
+ * data-ad-status="unfilled"). In dev een gestreepte voorbeeldplek.
+ */
+import { ads, adsVisible, adLabel, type AdKind } from '../config/ads';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  locale: Locale;
+  kind: AdKind;
+}
+
+const { locale, kind } = Astro.props;
+const preview = import.meta.env.DEV && !ads.enabled;
+const slot = ads.slots[kind];
+const formats: Record<AdKind, Record<string, string>> = {
+  inArticle: { 'data-ad-format': 'fluid', 'data-ad-layout': 'in-article' },
+  multiplex: { 'data-ad-format': 'autorelaxed' },
+  display: { 'data-ad-format': 'horizontal', 'data-full-width-responsive': 'true' },
+};
+const previewText: Record<AdKind, string> = {
+  inArticle: 'In-article ad · preview in tst only',
+  multiplex: 'Multiplex ad (grid of small tiles) · preview in tst only',
+  display: 'Display ad, horizontal · preview in tst only',
+};
+---
+
+{adsVisible && (preview || slot) && (
+  <aside class={`wf-ad wf-ad--${kind}`} aria-label={adLabel[locale] ?? adLabel.en} data-pagefind-ignore data-wf-ad>
+    <span class="wf-ad__label">{adLabel[locale] ?? adLabel.en}</span>
+    {preview
+      ? <div class="wf-ad__preview"><span>{previewText[kind]}</span></div>
+      : <ins class="adsbygoogle wf-ad__ins" style="display:block" data-ad-client={ads.client} data-ad-slot={slot} {...formats[kind]}></ins>}
+  </aside>
+)}
+
+<script>
+  import '../scripts/ads';
+</script>

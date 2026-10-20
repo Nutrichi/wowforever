@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: release date, beta, roadmap, Skyborne and editions"
 description: "Everything Blizzard has announced about World of Warcraft: Forever: the dates, the roadmap, the new zones, dungeons and raids, the Skyborne, the Legacy system and the editions."
 short: "WoW Forever"
-updated: 2026-10-17
+updated: 2026-10-20
 lang: en
 faq:
   - q: "What is World of Warcraft: Forever?"
@@ -204,19 +204,19 @@ Five new flight points join the network: Farholde Keep, Powderfuse Port and Rog'
 
 Lead Software Engineer Nora Mills presented nine new dungeons and two new raids for launch.
 
-The level ranges come from Blizzard, which published the full list on 14 September 2026 to correct the range of Krol'dok Stronghold. Several ranges shown at BlizzCon were wrong.
+The level ranges come from Blizzard, which published the full list on 14 September 2026 to correct the range of Krol'dok Stronghold. Several ranges shown at BlizzCon were wrong. On 20 October Blizzard described all nine and moved the Excavation Site to 24 to 29 ([more](/news/blizzard-describes-all-nine-new-dungeons/)).
 
 | Dungeon | Levels | What it is |
 |---|---|---|
 | The Hall of Thanes | 13 to 18 | The Hall has been breached and the Alliance protects its old treasures, which the Horde may want for itself. It lies in Old Ironforge beneath the High Seat, with four bosses and five quests: [the walkthrough](/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) and [the guide](/guides/dungeons/hall-of-thanes/). |
 | Ruins of Lordaeron | 15 to 20 | The ruined capital above the Undercity, still full of Scourge. The Horde fights to take it back, and the Alliance has quests there too. Six bosses in any order: [the walkthrough](/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) and [the guide](/guides/dungeons/ruins-of-lordaeron/). |
-| Excavation Site: Wetlands | 26 to 31 | A dig of the Explorers' League in the Wetlands. Open on the beta since 1 October. |
+| Excavation Site: Wetlands | 24 to 29 | A titan site above Whelgar's Excavation in the Wetlands, in a mist that seems frozen in time. Open on the beta since 1 October. |
 | City of Dalaran | 28 to 33 | A city dungeon. The barrier from after Warcraft III is gone, but the Kirin Tor do not have the city under control. The Alliance enters through the Dalaran Sewers, the Horde from outside with the Dalaran Sewer Key ([more](/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). |
-| The Drowned City | 35 to 40 | An old troll ruin off the coast of Stranglethorn Vale, playable on the BlizzCon show floor. |
-| Krol'dok Stronghold | 40 to 45 | An orc stronghold. |
-| Alcaz Prison | 48 to 53 | A prison on Alcaz Island. |
-| Blackmaw Hold | 55 to 60 | A large furbolg city. |
-| Shaper's Terrace | 58 to 60 | The highest of the nine. |
+| The Drowned City | 35 to 40 | Troll ruins risen from the sea west of Grom'gol, with trolls and naga. The entrance is under water, and a storm builds up during the run. Playable on the BlizzCon show floor. |
+| Krol'dok Stronghold | 40 to 45 | An ogre fortress in the Riverglades with workshops and camps, from where ogres raid travelers and villages. |
+| Alcaz Prison | 48 to 53 | The prison on Alcaz Island in Dustwallow Marsh, where the Defias Brotherhood and naga fight each other. |
+| Blackmaw Hold | 55 to 60 | A large furbolg city behind a sealed gate in Azshara, with several routes, fighting a spreading corruption. |
+| Shaper's Terrace | 58 to 60 | A titan facility in the north of Un'Goro Crater. Power crystals from the zone work on consoles inside. |
 
 ### Barrow Deeps, 10 players
 

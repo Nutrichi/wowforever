@@ -3,12 +3,12 @@ title: "Excavation Site: Wetlands"
 metaTitle: "Excavation Site: Wetlands in WoW Forever: loot, bazen en drops"
 description: "Elke drop in de Excavation Site in WoW Forever: de nieuwe blauwe loot van Saltspine, Shadetooth en Relic Guardian, twee blueprints, de Titan Relic en de beloningen van de quests."
 short: "Excavation Site"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: nl
 manual: true
 faq:
   - q: "Welk level is de Excavation Site in WoW Forever?"
-    a: "Het spel geeft 26 tot 31. De quests kun je vanaf level 24 aannemen, maar de laatste baas is level 31."
+    a: "Level 24 tot 29, volgens Blizzard op 20 oktober 2026; daarvoor gaf het spel 26 tot 31. De quests kun je vanaf level 24 aannemen, en de laatste baas is level 31."
   - q: "Waar is de Excavation Site?"
     a: "In de Wetlands, boven op een heuvel ten zuidoosten van Whelgar's Excavation Site, op /way 47.8 56.3. Nieuwe wegen leiden naar de ingang; in Classic was dit gebied onbereikbaar."
   - q: "Wat is gevaarlijk in de Excavation Site?"

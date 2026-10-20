@@ -30,7 +30,7 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 - **[The Deadmines](/nl/guides/dungeons/the-deadmines/)**, level 17-26: de weg naar binnen via Moonbrook, alle zeven de quests met hun beloningen en de nieuwe loot van elke baas.
 - **[Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/)**, level 20-30: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas.
 - **[Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/)**, level 24-32: de weg naar binnen aan de Zoram Strand, de quests van beide facties en de nieuwe loot van elke baas.
-- **[Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/)**, level 26-31, nieuw in Forever: de quests voor beide facties, het hoge gras en de drie bazen met hun loot.
+- **[Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/)**, level 24-29, nieuw in Forever: de quests voor beide facties, het hoge gras en de drie bazen met hun loot.
 - **[The Stockade](/nl/guides/dungeons/the-stockade/)**, level 24-32: de indeling van de gevangenis, alle zes de quests en de nieuwe blauwe loot van elke baas.
 - **[City of Dalaran](/nl/guides/dungeons/city-of-dalaran/)**, level 28-33, nieuw in Forever: beide ingangen, de arcane trash en de zeven bazen.
 - **[Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/)**, level 29-38: alle zeven de quests met hun beloningen, de casters van de quilboar en de nieuwe loot van elke baas.
@@ -52,7 +52,7 @@ Voor de dungeons met een gids is het bereik dat van het spel zelf. Voor de ander
 | [The Deadmines](/nl/guides/dungeons/the-deadmines/) | 17-26 | 8 |
 | [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
 | [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
-| [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | 26-31 | nog niet bekend |
+| [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | 24-29 | nog niet bekend |
 | [The Stockade](/nl/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 | nog niet bekend |
 | [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
@@ -512,7 +512,7 @@ Van zes nieuwe dungeons van Forever zijn de quests nog niet bekend. De Excavatio
 
 | Dungeon | Levels |
 |---|---|
-| [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | 26-31 |
+| [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | 24-29 |
 | [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 |
 | The Drowned City | 35-40 |
 | Krol'dok Stronghold | 40-45 |

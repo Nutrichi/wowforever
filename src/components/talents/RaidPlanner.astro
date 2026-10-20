@@ -31,6 +31,8 @@ import { breadcrumbJsonLd } from '../../lib/structured-data';
 import '../../styles/guides.css';
 import '../../styles/talents.css';
 import '../../styles/raid.css';
+// Advertenties geparkeerd (Nutri, 20 oktober 2026); zie config/ads.ts.
+// import AdSlot from '../AdSlot.astro';
 
 interface Props {
   locale: Locale;
@@ -211,6 +213,8 @@ const payload = {
       {t('sourceAnd')}
       <a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-updated-october-15/2360696">{t('sourceNotes')}</a>
     </p>
+
+    {/* Geparkeerd: <AdSlot locale={locale} kind="display" /> */}
   </div>
 
   <script type="application/json" id="wf-raid-text" is:inline set:html={JSON.stringify(payload)} />

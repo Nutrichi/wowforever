@@ -30,7 +30,7 @@ La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las m
 - **[The Deadmines](/es/guides/dungeons/the-deadmines/)**, niveles 17-26: la entrada por Moonbrook, las siete misiones con sus recompensas y el botín nuevo de cada jefe.
 - **[Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/)**, niveles 20-30: la entrada sobre Pyrewood Village, las tres misiones de la Horde y el botín nuevo de cada jefe.
 - **[Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/)**, niveles 24-32: la entrada en la Zoram Strand, las misiones de ambas facciones y el botín nuevo de cada jefe.
-- **[Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/)**, niveles 26-31, nueva en Forever: las misiones de ambas facciones, la hierba alta y los tres jefes con su botín.
+- **[Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/)**, niveles 24-29, nueva en Forever: las misiones de ambas facciones, la hierba alta y los tres jefes con su botín.
 - **[The Stockade](/es/guides/dungeons/the-stockade/)**, niveles 24-32: la planta de la prisión, las seis misiones y el nuevo botín azul de cada jefe.
 - **[City of Dalaran](/es/guides/dungeons/city-of-dalaran/)**, niveles 28-33, nueva en Forever: las dos entradas, los enemigos arcanos y los siete jefes.
 - **[Razorfen Kraul](/es/guides/dungeons/razorfen-kraul/)**, niveles 29-38: las siete misiones con sus recompensas, los lanzadores quilboar y el botín nuevo de cada jefe.
@@ -52,7 +52,7 @@ Para las mazmorras con guía, el rango es el que da el propio juego. Para las de
 | [The Deadmines](/es/guides/dungeons/the-deadmines/) | 17-26 | 8 |
 | [Shadowfang Keep](/es/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
 | [Blackfathom Deeps](/es/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
-| [Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/) | 26-31 | aún no se conocen |
+| [Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/) | 24-29 | aún no se conocen |
 | [The Stockade](/es/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/es/guides/dungeons/city-of-dalaran/) | 28-33 | aún no se conocen |
 | [Razorfen Kraul](/es/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
@@ -512,7 +512,7 @@ Aún no se conocen las misiones de seis mazmorras nuevas de Forever. La Excavati
 
 | Mazmorra | Niveles |
 |---|---|
-| [Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/) | 26-31 |
+| [Excavation Site: Wetlands](/es/guides/dungeons/excavation-site-wetlands/) | 24-29 |
 | [City of Dalaran](/es/guides/dungeons/city-of-dalaran/) | 28-33 |
 | The Drowned City | 35-40 |
 | Krol'dok Stronghold | 40-45 |

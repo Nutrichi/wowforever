@@ -3,12 +3,12 @@ title: "Excavation Site: Wetlands"
 metaTitle: "Excavation Site: Wetlands en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín de la Excavation Site en WoW Forever: el nuevo botín azul de Saltspine, Shadetooth y Relic Guardian, dos blueprints, la Titan Relic y las recompensas de las misiones."
 short: "Excavation Site"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel tiene el Excavation Site en WoW Forever?"
-    a: "El juego da un rango de 26 a 31. Las misiones se aceptan desde el nivel 24, pero el último jefe es de nivel 31."
+    a: "Niveles 24 a 29, según Blizzard el 20 de octubre de 2026; antes el juego daba 26 a 31. Las misiones se aceptan desde el nivel 24, y el último jefe es de nivel 31."
   - q: "¿Dónde está el Excavation Site?"
     a: "En los Wetlands, en lo alto de una colina al sureste de Whelgar's Excavation Site, en /way 47.8 56.3. Caminos nuevos llevan a la entrada; en Classic no se podía llegar a esta zona."
   - q: "¿Qué es peligroso en el Excavation Site?"

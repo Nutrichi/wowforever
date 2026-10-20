@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-10-17
+updated: 2026-10-20
 lang: nl
 manual: true
 faq:
@@ -205,19 +205,19 @@ Vijf nieuwe vluchtpunten komen erbij: Farholde Keep, Powderfuse Port en Rog'mar 
 
 Lead Software Engineer Nora Mills stelde negen nieuwe dungeons en twee nieuwe raids voor de lancering voor.
 
-De levelbereiken komen van Blizzard, dat de volledige lijst op 14 september 2026 publiceerde om het bereik van Krol'dok Stronghold te verbeteren. Verschillende bereiken die op BlizzCon te zien waren, klopten niet.
+De levelbereiken komen van Blizzard, dat de volledige lijst op 14 september 2026 publiceerde om het bereik van Krol'dok Stronghold te verbeteren. Verschillende bereiken die op BlizzCon te zien waren, klopten niet. Op 20 oktober beschreef Blizzard alle negen en zette de Excavation Site op 24 tot 29 ([meer](/nl/news/blizzard-describes-all-nine-new-dungeons/)).
 
 | Dungeon | Levels | Wat het is |
 |---|---|---|
 | The Hall of Thanes | 13 tot 18 | De Hall is doorbroken en de Alliance beschermt de oude schatten, die de Horde misschien zelf wil. Hij ligt in Old Ironforge onder de High Seat, met vier bazen en vijf quests: [de walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) en [de gids](/nl/guides/dungeons/hall-of-thanes/). |
 | Ruins of Lordaeron | 15 tot 20 | De verwoeste hoofdstad boven de Undercity, nog vol Scourge. De Horde vecht om ze terug te nemen, en ook de Alliance heeft er quests. Zes bazen in willekeurige volgorde: [de walkthrough](/nl/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) en [de gids](/nl/guides/dungeons/ruins-of-lordaeron/). |
-| Excavation Site: Wetlands | 26 tot 31 | Een opgraving van de Explorers' League in de Wetlands. Sinds 1 oktober open in de beta. |
+| Excavation Site: Wetlands | 24 tot 29 | Een titanplek boven Whelgar's Excavation in de Wetlands, in een mist die in de tijd lijkt stilgezet. Sinds 1 oktober open in de beta. |
 | City of Dalaran | 28 tot 33 | Een stadsdungeon. De barrière van na Warcraft III is weg, maar de Kirin Tor hebben de stad niet onder controle. De Alliance gaat erin via de Dalaran Sewers, de Horde van buiten met de Dalaran Sewer Key ([meer](/nl/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). |
-| The Drowned City | 35 tot 40 | Een oude trollenruïne voor de kust van Stranglethorn Vale, speelbaar op de beursvloer van BlizzCon. |
-| Krol'dok Stronghold | 40 tot 45 | Een orcbolwerk. |
-| Alcaz Prison | 48 tot 53 | Een gevangenis op Alcaz Island. |
-| Blackmaw Hold | 55 tot 60 | Een grote furbolgstad. |
-| Shaper's Terrace | 58 tot 60 | De hoogste van de negen. |
+| The Drowned City | 35 tot 40 | Trollenruïnes die ten westen van Grom'gol uit de zee oprezen, met trollen en naga. De ingang ligt onder water, en tijdens de run groeit er een storm. Speelbaar op de beursvloer van BlizzCon. |
+| Krol'dok Stronghold | 40 tot 45 | Een ogrefort in de Riverglades met werkplaatsen en kampen, van waaruit ogres reizigers en dorpen overvallen. |
+| Alcaz Prison | 48 tot 53 | De gevangenis op Alcaz Island in Dustwallow Marsh, waar de Defias Brotherhood en naga tegen elkaar vechten. |
+| Blackmaw Hold | 55 tot 60 | Een grote furbolgstad achter een verzegelde poort in Azshara, met meerdere routes, in strijd met een oprukkend verderf. |
+| Shaper's Terrace | 58 tot 60 | Een titaninstallatie in het noorden van Un'Goro Crater. Power crystals uit het gebied werken op consoles binnenin. |
 
 ### Barrow Deeps, 10 spelers
 

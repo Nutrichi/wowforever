@@ -25,6 +25,8 @@ import { bisPath, listsForEra } from '../../lib/bis';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import '../../styles/guides.css';
 import '../../styles/talents.css';
+// Advertenties geparkeerd (Nutri, 20 oktober 2026); zie config/ads.ts.
+// import AdSlot from '../AdSlot.astro';
 
 interface Props {
   locale: Locale;
@@ -178,6 +180,9 @@ const jsonLd = {
         </div>
       </section>
     ))}
+
+    {/* Onder de vragen en de uitslag (Nutri, 20 oktober 2026), geparkeerd:
+    <AdSlot locale={locale} kind="display" /> */}
   </div>
 
   <script type="application/json" id="wf-picker-data" set:html={JSON.stringify(payload)} />

@@ -26,6 +26,8 @@ import GuidesHub from '../guides/GuidesHub.astro';
 import ForeverTimeline from './ForeverTimeline.astro';
 import DungeonBand from '../guides/DungeonBand.astro';
 import PartnerBlock from '../PartnerBlock.astro';
+// Advertenties geparkeerd (Nutri, 20 oktober 2026); zie config/ads.ts.
+// import AdPlacer from '../AdPlacer.astro';
 import DungeonPage from '../guides/DungeonPage.astro';
 import TradeskillNav from '../tradeskills/TradeskillNav.astro';
 import { tsData } from '../../lib/tradeskills-forever';
@@ -210,6 +212,10 @@ const jsonLd = {
           <Content />
         </div>
       )}
+
+    {/* Advertenties in de gidsen, niet op de dungeons en niet op de hub (Nutri, 20 oktober 2026), geparkeerd.
+        Terugzetten: data-wf-ads={folder === 'guides' ? '' : undefined} op wf-gprose hierboven, en
+    {folder === 'guides' && !dungeon && pageKey !== 'guides' && <AdPlacer locale={locale} mode="guide" />} */}
 
     {/* De hub /guides/ toont onder de inleiding kaarten per categorie (10 oktober 2026). */}
     {pageKey === 'guides' && <GuidesHub locale={locale} />}

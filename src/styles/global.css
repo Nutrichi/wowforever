@@ -572,3 +572,49 @@ a.wf-wh.wf-plain:hover { text-decoration-style: solid; }
   :root[data-theme="day"] .wf-rxpblock__logo.is-wide { padding: 6px 4px; }
   :root[data-theme="day"] .wf-rxpblock__logo.is-wide img { width: 52px; height: 11px; }
 }
+
+/*
+ * Advertenties (20 oktober 2026, config/ads.ts), geparkeerd door Nutri op
+ * 20 oktober 2026. Een kader zoals de tabellen en partnerblokken: dunne rand,
+ * iets donkerder vlak, een klein goud label. Vooraf op hoogte, zodat de tekst
+ * niet verspringt; heeft Google niets, dan verdwijnt het kader helemaal.
+ * Terugzetten: deze regels uit het commentaar halen.
+
+.wf-ad {
+  display: block;
+  margin: 28px 0;
+  padding: 10px 12px 12px;
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card);
+  background: var(--wf-raised-soft);
+  clear: both;
+}
+.wf-ad__label {
+  display: block;
+  margin-bottom: 8px;
+  font-family: var(--wf-display);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--wf-label);
+}
+.wf-ad--inArticle .wf-ad__ins, .wf-ad--inArticle .wf-ad__preview { min-height: 250px; }
+.wf-ad--multiplex .wf-ad__ins, .wf-ad--multiplex .wf-ad__preview { min-height: 320px; }
+.wf-ad--display .wf-ad__ins, .wf-ad--display .wf-ad__preview { min-height: 100px; }
+@media (max-width: 599px) {
+  .wf-ad--display .wf-ad__ins, .wf-ad--display .wf-ad__preview { min-height: 250px; }
+}
+.wf-ad:has(ins[data-ad-status="unfilled"]) { display: none; }
+.wf-ad__preview {
+  display: grid;
+  place-items: center;
+  border: 1px dashed var(--wf-border);
+  border-radius: var(--wf-r-card-sm);
+  background: repeating-linear-gradient(135deg, transparent 0 10px, rgba(127, 127, 127, .06) 10px 20px);
+  color: var(--wf-label);
+  font-size: 13px;
+  text-align: center;
+  padding: 12px;
+}
+*/

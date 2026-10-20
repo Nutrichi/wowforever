@@ -30,7 +30,7 @@ La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Per i dungeon oltre
 - **[The Deadmines](/it/guides/dungeons/the-deadmines/)**, livelli 17-26: l’ingresso da Moonbrook, le sette missioni con le loro ricompense e il nuovo bottino di ogni boss.
 - **[Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/)**, livelli 20-30: l’ingresso sopra Pyrewood Village, le tre missioni della Horde e il nuovo bottino di ogni boss.
 - **[Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/)**, livelli 24-32: l’ingresso sulla Zoram Strand, le missioni di entrambe le fazioni e il nuovo bottino di ogni boss.
-- **[Excavation Site: Wetlands](/it/guides/dungeons/excavation-site-wetlands/)**, livelli 26-31, nuovo in Forever: le missioni di entrambe le fazioni, l’erba alta e i tre boss con il loro bottino.
+- **[Excavation Site: Wetlands](/it/guides/dungeons/excavation-site-wetlands/)**, livelli 24-29, nuovo in Forever: le missioni di entrambe le fazioni, l’erba alta e i tre boss con il loro bottino.
 - **[The Stockade](/it/guides/dungeons/the-stockade/)**, livelli 24-32: la pianta della prigione, le sei missioni e il nuovo bottino blu di ogni boss.
 - **[City of Dalaran](/it/guides/dungeons/city-of-dalaran/)**, livelli 28-33, nuovo in Forever: i due ingressi, i nemici arcani e i sette boss.
 - **[Razorfen Kraul](/it/guides/dungeons/razorfen-kraul/)**, livelli 29-38: le sette missioni con le loro ricompense, gli incantatori quilboar e il nuovo bottino di ogni boss.
@@ -52,7 +52,7 @@ Per i dungeon con una guida, l’intervallo è quello indicato dal gioco. Per gl
 | [The Deadmines](/it/guides/dungeons/the-deadmines/) | 17-26 | 8 |
 | [Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
 | [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
-| [Excavation Site: Wetlands](/it/guides/dungeons/excavation-site-wetlands/) | 26-31 | non ancora note |
+| [Excavation Site: Wetlands](/it/guides/dungeons/excavation-site-wetlands/) | 24-29 | non ancora note |
 | [The Stockade](/it/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/it/guides/dungeons/city-of-dalaran/) | 28-33 | non ancora note |
 | [Razorfen Kraul](/it/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
@@ -512,7 +512,7 @@ Le missioni di sei nuovi dungeon di Forever non sono ancora note. L’Excavation
 
 | Dungeon | Livelli |
 |---|---|
-| [Excavation Site: Wetlands](/it/guides/dungeons/excavation-site-wetlands/) | 26-31 |
+| [Excavation Site: Wetlands](/it/guides/dungeons/excavation-site-wetlands/) | 24-29 |
 | [City of Dalaran](/it/guides/dungeons/city-of-dalaran/) | 28-33 |
 | The Drowned City | 35-40 |
 | Krol'dok Stronghold | 40-45 |

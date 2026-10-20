@@ -30,7 +30,7 @@ Die Beta von WoW Forever geht seit dem 1. Oktober bis Level 30. Für die Dungeon
 - **[The Deadmines](/de/guides/dungeons/the-deadmines/)**, Stufe 17-26: der Weg hinein über Moonbrook, alle sieben Quests mit ihren Belohnungen und die neue Beute jedes Bosses.
 - **[Shadowfang Keep](/de/guides/dungeons/shadowfang-keep/)**, Stufe 20-30: der Weg hinein oberhalb von Pyrewood Village, die drei Quests der Horde und die neue Beute jedes Bosses.
 - **[Blackfathom Deeps](/de/guides/dungeons/blackfathom-deeps/)**, Stufe 24-32: der Weg hinein am Zoram Strand, die Quests beider Fraktionen und die neue Beute jedes Bosses.
-- **[Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/)**, Stufe 26-31, neu in Forever: die Quests beider Fraktionen, das hohe Gras und die drei Bosse mit ihrer Beute.
+- **[Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/)**, Stufe 24-29, neu in Forever: die Quests beider Fraktionen, das hohe Gras und die drei Bosse mit ihrer Beute.
 - **[The Stockade](/de/guides/dungeons/the-stockade/)**, Stufe 24-32: der Grundriss des Gefängnisses, alle sechs Quests und die neue blaue Beute jedes Bosses.
 - **[City of Dalaran](/de/guides/dungeons/city-of-dalaran/)**, Stufe 28-33, neu in Forever: beide Eingänge, der arkane Trash und die sieben Bosse.
 - **[Razorfen Kraul](/de/guides/dungeons/razorfen-kraul/)**, Stufe 29-38: alle sieben Quests mit ihren Belohnungen, die Zauberer der Quilboar und die neue Beute jedes Bosses.
@@ -52,7 +52,7 @@ Für die Dungeons mit Guide ist der Bereich der, den das Spiel selbst nennt. Fü
 | [The Deadmines](/de/guides/dungeons/the-deadmines/) | 17-26 | 8 |
 | [Shadowfang Keep](/de/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
 | [Blackfathom Deeps](/de/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
-| [Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/) | 26-31 | noch nicht bekannt |
+| [Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/) | 24-29 | noch nicht bekannt |
 | [The Stockade](/de/guides/dungeons/the-stockade/) | 24-32 | 6 |
 | [City of Dalaran](/de/guides/dungeons/city-of-dalaran/) | 28-33 | noch nicht bekannt |
 | [Razorfen Kraul](/de/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
@@ -512,7 +512,7 @@ Die Quests von sechs neuen Dungeons von Forever sind noch nicht bekannt. Die Exc
 
 | Dungeon | Level |
 |---|---|
-| [Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/) | 26-31 |
+| [Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/) | 24-29 |
 | [City of Dalaran](/de/guides/dungeons/city-of-dalaran/) | 28-33 |
 | The Drowned City | 35-40 |
 | Krol'dok Stronghold | 40-45 |

@@ -3,12 +3,12 @@ title: "Excavation Site: Wetlands"
 metaTitle: "Excavation Site: Wetlands in WoW Forever: Beute, Bosse und Drops"
 description: "Jeder Drop in der Excavation Site in WoW Forever: die neue blaue Beute von Saltspine, Shadetooth und Relic Guardian, zwei Blueprints, die Titan Relic und die Questbelohnungen."
 short: "Excavation Site"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat die Excavation Site in WoW Forever?"
-    a: "Das Spiel nennt einen Bereich von 26 bis 31. Die Quests lassen sich ab Stufe 24 annehmen, aber der letzte Boss ist Stufe 31."
+    a: "Stufe 24 bis 29, laut Blizzard am 20. Oktober 2026; davor nannte das Spiel 26 bis 31. Die Quests lassen sich ab Stufe 24 annehmen, und der letzte Boss ist Stufe 31."
   - q: "Wo liegt die Excavation Site?"
     a: "In den Wetlands, oben auf einem Hügel südöstlich von Whelgar's Excavation Site, bei /way 47.8 56.3. Neue Straßen führen zum Eingang; in Classic war dieses Gebiet nicht erreichbar."
   - q: "Was ist in der Excavation Site gefährlich?"

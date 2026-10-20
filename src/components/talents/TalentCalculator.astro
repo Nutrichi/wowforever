@@ -27,6 +27,8 @@ import CalcSwitch from './CalcSwitch.astro';
 import { talentTip } from '../../lib/talent-tip';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import '../../styles/talents.css';
+// Advertenties geparkeerd (Nutri, 20 oktober 2026); zie config/ads.ts.
+// import AdSlot from '../AdSlot.astro';
 
 interface Props {
   locale: Locale;
@@ -137,6 +139,8 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
       {t('source', { build: clientBuild() })}
       <a href={`${base}/`}>{t('backToTalents')}</a>
     </p>
+
+    {/* Geparkeerd: <AdSlot locale={locale} kind="display" /> */}
   </div>
 
   <script>

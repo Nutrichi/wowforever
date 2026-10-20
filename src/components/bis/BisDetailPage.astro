@@ -34,6 +34,8 @@ import { translateName } from '../../i18n/bis-names';
 import { qualityClass, splitName, wowheadEntry, wowheadIcon, wowheadLink, wowheadSearch } from '../../lib/bis-items';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import { isoDate, longDate } from '../../lib/date';
+// Advertenties geparkeerd (Nutri, 20 oktober 2026); zie config/ads.ts.
+// import AdSlot from '../AdSlot.astro';
 
 interface Props {
   locale: Locale;
@@ -311,6 +313,9 @@ const jsonLd = {
         </div>
       ))}
     </section>
+
+    {/* Een advertentie tussen gear en enchants (Nutri, 20 oktober 2026), geparkeerd:
+    <AdSlot locale={locale} kind="display" /> */}
 
     {enchants.length > 0 && (
       <section class="wf-bisd__block" aria-labelledby="wf-bisd-enchants">

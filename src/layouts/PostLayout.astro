@@ -28,6 +28,8 @@ import { publisherJsonLd } from '../lib/structured-data';
 import { podcastSeries } from '../lib/podcast';
 import { guideT } from '../i18n/guides';
 import PartnerBlock from '../components/PartnerBlock.astro';
+// Advertenties geparkeerd (Nutri, 20 oktober 2026); zie config/ads.ts.
+// import AdPlacer from '../components/AdPlacer.astro';
 import { isPartnerLink } from '../config/site';
 
 interface Props {
@@ -135,6 +137,8 @@ const jsonLd = {
         <Content />
         {series && <Fragment set:html={series} />}
       </div>
+      {/* Geparkeerd; terugzetten met data-wf-ads op wf-prose hierboven en
+      <AdPlacer locale={locale} mode="post" partnerBelow={partners.length > 0} /> */}
 
       {partners.map((key, index) => (
         <PartnerBlock locale={locale} partner={key} next={index > 0} />
