@@ -30,31 +30,6 @@ export type HubCategory = {
 
 export const hubCategories: HubCategory[] = [
   {
-    key: 'dungeons',
-    cards: [
-      // Het overzicht met de levelband van alle dungeons, sinds 19 oktober 2026 als eerste rij.
-      { key: 'dungeons', label: 'cardDungeons', image: '2026-10-04-wow-forever-group-fights-in-stratholme.jpg', levels: '9-60' },
-      { key: 'dungeons/ragefire-chasm', image: '2026-10-03-wow-forever-ragefire-chasm-taragaman.jpg', levels: '13-18' },
-      { key: 'dungeons/hall-of-thanes', image: '2026-09-28-wow-forever-hall-of-thanes-entrance.jpg', levels: '13-18', isNew: true },
-      { key: 'dungeons/ruins-of-lordaeron', image: '2026-09-28-wow-forever-ruins-of-lordaeron-entrance.jpg', levels: '15-20', isNew: true },
-      { key: 'dungeons/wailing-caverns', image: '2026-10-03-wow-forever-wailing-caverns-entrance.jpg', levels: '15-24' },
-      { key: 'dungeons/the-deadmines', image: '2026-10-03-wow-forever-deadmines-entrance-portal.jpg', levels: '17-26' },
-      { key: 'dungeons/shadowfang-keep', image: '2026-10-03-wow-forever-shadowfang-keep-entrance-portal.jpg', levels: '20-30' },
-      { key: 'dungeons/blackfathom-deeps', image: '2026-10-03-wow-forever-blackfathom-deeps-entrance-portal.jpg', levels: '24-32' },
-      { key: 'dungeons/excavation-site-wetlands', image: '2026-10-03-wow-forever-excavation-site-entrance.jpg', levels: '26-31', isNew: true },
-      { key: 'dungeons/the-stockade', image: '2026-10-03-wow-forever-stockade-entrance-portal.jpg', levels: '24-32' },
-      { key: 'dungeons/city-of-dalaran', image: '2026-09-29-wow-forever-dalaran-at-sunset.jpg', levels: '28-33', isNew: true },
-      { key: 'dungeons/razorfen-kraul', image: '2026-10-03-wow-forever-razorfen-kraul-entrance.jpg', levels: '29-38' },
-      { key: 'dungeons/gnomeregan', image: '2026-10-03-wow-forever-gnomeregan-front-entrance.jpg', levels: '29-38' },
-      { key: 'dungeons/scarlet-monastery-graveyard', image: '2026-10-07-wow-forever-scarlet-crusade-set.jpg', levels: '30-38' },
-      { key: 'dungeons/scarlet-monastery-library', image: '2026-10-07-wow-forever-chain-of-the-scarlet-crusade-pieces.jpg', levels: '33-41' },
-      { key: 'dungeons/scarlet-monastery-armory', image: '2026-10-03-wow-forever-scarlet-monastery-armory.jpg', levels: '36-44' },
-      { key: 'dungeons/scarlet-monastery-cathedral', image: '2026-10-03-wow-forever-scarlet-monastery-cathedral.jpg', levels: '38-46' },
-      { key: 'dungeons/razorfen-downs', image: '2026-10-03-wow-forever-razorfen-downs-entrance.jpg', levels: '37-46' },
-      { key: 'dungeons/uldaman', levels: '41-51' },
-    ],
-  },
-  {
     key: 'leveling',
     cards: [
       {
@@ -79,6 +54,31 @@ export const hubCategories: HubCategory[] = [
       { key: '/compare/restedxp-vs-zygor', image: '2026-10-04-wow-forever-leveling-alone-in-durotar.jpg' },
       { key: '/compare/free-vs-premium', image: '2026-10-14-wow-forever-quest-log-colors.jpg' },
       { key: '/compare/dungeon-vs-questing', image: '2026-10-04-wow-forever-players-queue-for-a-quest-in-a-cave.jpg' },
+    ],
+  },
+  {
+    key: 'dungeons',
+    cards: [
+      // Het overzicht met de levelband van alle dungeons, sinds 19 oktober 2026 als eerste rij.
+      { key: 'dungeons', label: 'cardDungeons', image: '2026-10-04-wow-forever-group-fights-in-stratholme.jpg', levels: '9-60' },
+      { key: 'dungeons/ragefire-chasm', image: '2026-10-03-wow-forever-ragefire-chasm-taragaman.jpg', levels: '13-18' },
+      { key: 'dungeons/hall-of-thanes', image: '2026-09-28-wow-forever-hall-of-thanes-entrance.jpg', levels: '13-18', isNew: true },
+      { key: 'dungeons/ruins-of-lordaeron', image: '2026-09-28-wow-forever-ruins-of-lordaeron-entrance.jpg', levels: '15-20', isNew: true },
+      { key: 'dungeons/wailing-caverns', image: '2026-10-03-wow-forever-wailing-caverns-entrance.jpg', levels: '15-24' },
+      { key: 'dungeons/the-deadmines', image: '2026-10-03-wow-forever-deadmines-entrance-portal.jpg', levels: '17-26' },
+      { key: 'dungeons/shadowfang-keep', image: '2026-10-03-wow-forever-shadowfang-keep-entrance-portal.jpg', levels: '20-30' },
+      { key: 'dungeons/blackfathom-deeps', image: '2026-10-03-wow-forever-blackfathom-deeps-entrance-portal.jpg', levels: '24-32' },
+      { key: 'dungeons/excavation-site-wetlands', image: '2026-10-03-wow-forever-excavation-site-entrance.jpg', levels: '26-31', isNew: true },
+      { key: 'dungeons/the-stockade', image: '2026-10-03-wow-forever-stockade-entrance-portal.jpg', levels: '24-32' },
+      { key: 'dungeons/city-of-dalaran', image: '2026-09-29-wow-forever-dalaran-at-sunset.jpg', levels: '28-33', isNew: true },
+      { key: 'dungeons/razorfen-kraul', image: '2026-10-03-wow-forever-razorfen-kraul-entrance.jpg', levels: '29-38' },
+      { key: 'dungeons/gnomeregan', image: '2026-10-03-wow-forever-gnomeregan-front-entrance.jpg', levels: '29-38' },
+      { key: 'dungeons/scarlet-monastery-graveyard', image: '2026-10-07-wow-forever-scarlet-crusade-set.jpg', levels: '30-38' },
+      { key: 'dungeons/scarlet-monastery-library', image: '2026-10-07-wow-forever-chain-of-the-scarlet-crusade-pieces.jpg', levels: '33-41' },
+      { key: 'dungeons/scarlet-monastery-armory', image: '2026-10-03-wow-forever-scarlet-monastery-armory.jpg', levels: '36-44' },
+      { key: 'dungeons/scarlet-monastery-cathedral', image: '2026-10-03-wow-forever-scarlet-monastery-cathedral.jpg', levels: '38-46' },
+      { key: 'dungeons/razorfen-downs', image: '2026-10-03-wow-forever-razorfen-downs-entrance.jpg', levels: '37-46' },
+      { key: 'dungeons/uldaman', levels: '41-51' },
     ],
   },
   {
