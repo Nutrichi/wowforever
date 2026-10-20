@@ -30,7 +30,11 @@ export const GET: APIRoute = async ({ site }) => {
   const streams = getStreams();
 
   const pages = await getPages(defaultLocale);
-  const pageLine = (page: (typeof pages)[number]) => `- [${page.title}](${url(page.href)}): ${page.description}`;
+  // Drie tabs van een dungeon heten alle drie "Blackfathom Deeps"; dan zegt de metaTitle welke tab het is (20 oktober 2026).
+  const titleCount = new Map<string, number>();
+  for (const page of pages) titleCount.set(page.title, (titleCount.get(page.title) ?? 0) + 1);
+  const pageLine = (page: (typeof pages)[number]) =>
+    `- [${(titleCount.get(page.title) ?? 0) > 1 ? page.metaTitle : page.title}](${url(page.href)}): ${page.description}`;
 
   const bis = bisT(defaultLocale);
   const bisCounts = bisEraCounts();

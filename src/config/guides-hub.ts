@@ -45,6 +45,8 @@ export const hubCategories: HubCategory[] = [
           'leveling/skyborne-druid-14-16',
         ],
       },
+      // De walkthrough van het startgebied van de Skyborne (Nutri, 20 oktober 2026).
+      { key: 'zephras-isle', image: '2026-10-20-wow-forever-zephras-isle-thendal-village.jpg', levels: '1-13', isNew: true },
       { key: 'experience', image: '2026-10-14-wow-forever-camp-tent-and-sleeping-bag.jpg' },
       { key: '/routes', label: 'cardRoutes', image: '2026-09-17-wow-forever-dustwallow-marsh.jpg' },
       // De vergelijkingen (Nutri, 19 oktober 2026: "on this overview page I also miss the comparison posts").
@@ -90,6 +92,7 @@ export const hubCategories: HubCategory[] = [
       { key: 'mage-leveling', image: '2026-10-08-wow-forever-mage-talent-trees.jpg' },
       { key: 'frost-mage', image: '2026-10-01-wow-forever-dwarf-in-the-snow.jpg' },
       { key: 'arcane-mage', image: '2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.jpg' },
+      { key: 'fire-mage', image: '2026-10-09-wow-forever-three-casters.jpg' },
       { key: 'affliction-warlock', image: '2026-10-08-wow-forever-warlock-talent-trees.jpg' },
       { key: 'priest-leveling', image: '2026-10-01-wow-forever-priest-talent-trees.jpg' },
       { key: 'rogue-leveling', image: '2026-10-08-wow-forever-rogue-talent-trees.jpg' },

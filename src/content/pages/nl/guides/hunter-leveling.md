@@ -3,7 +3,7 @@ title: "Hunter levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Hunter-levelgids: builds voor Beast Mastery, Marksmanship en Survival tot 30"
 description: "Een Hunter levelen in WoW Forever: de eerste levels, drie builds voor level 30 voor Beast Mastery, Marksmanship en Survival met talentvolgorde, de rotatie, de belangrijke levels, de temquest, wapens, gear, tradeskills, pets, traps, tracking en Aspects."
 short: "Hunter levelen"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: nl
 manual: true
 faq:
@@ -99,7 +99,7 @@ De meeste schade uit je eigen schoten, zonder je pet op te geven. De pet houdt d
 
 Volgorde: Lethal Attacks op 10 tot 14, Careful Aim op 15 tot 19, Efficiency op 20 tot 22, Rapid Killing op 23 en 24, Mortal Shots op 25 tot 29 en Trueshot Aura op 30.
 
-Efficiency maakt je schoten goedkoper. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> laat je mana regenereren tijdens het casten en scheelt veel drinken, maar het zit diep in de boom en komt pas na level 30. Trek je te vaak threat? Neem <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> en Scatter Shot voor meer controle. De 5 punten van Talented geven daar ruimte voor zonder veel schade te verliezen.
+Efficiency maakt je schoten goedkoper. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> laat je mana regenereren tijdens het casten en scheelt veel drinken, maar het zit diep in de boom: je haalt het op zijn vroegst op level 30, dus de beta gebruikt het amper. Trek je te vaak threat? Neem <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> en Scatter Shot voor meer controle. De 5 punten van Talented geven daar ruimte voor zonder veel schade te verliezen.
 
 1. Houd Aspect of the Hawk en Trueshot Aura aan.
 2. Stuur je pet erop en start Auto Shot.
@@ -186,7 +186,30 @@ Aimed Shot is geen talent meer: elke Hunter leert het op level 20. De talentleve
 
 ## De classquest
 
-Op level 10 doet elke Hunter Taming the Beast. De reeks leert je Tame Beast en Beast Training, zodat je je eerste pet kunt temmen en trainen. Hij begint in je startgebied: Teldrassil voor Night Elves, Dun Morogh voor Dwarves, Zephras Isle voor de High Order Skyborne, Mulgore voor Tauren en Durotar voor Orcs en Trolls.
+Op level 10 doet elke Hunter Taming the Beast. De reeks leert je Tame Beast en Beast Training, zodat je je eerste pet kunt temmen en trainen. Hij begint in je startgebied: Teldrassil voor Night Elves, Dun Morogh voor Dwarves, [Zephras Isle](/nl/guides/zephras-isle/) voor de High Order Skyborne, Mulgore voor Tauren en Durotar voor Orcs en Trolls.
+
+## Waar levelen
+
+Het laagste aanbevolen level per zone. De levels van de dungeons staan in de [dungeongids](/nl/guides/dungeons/).
+
+| Level | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/nl/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
 
 ## Wapens
 

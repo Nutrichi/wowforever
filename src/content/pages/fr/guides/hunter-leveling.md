@@ -3,7 +3,7 @@ title: "Monter un Hunter dans WoW Forever : le guide"
 metaTitle: "Guide leveling Hunter WoW Forever : builds Beast Mastery, Marksmanship et Survival jusqu'au 30"
 description: "Monter un Hunter dans WoW Forever : les premiers niveaux, trois builds niveau 30 pour Beast Mastery, Marksmanship et Survival avec l’ordre des talents, la rotation, les niveaux clés, la quête de dressage, les armes, l’équipement, les métiers, les familiers, les pièges, le pistage et les Aspects."
 short: "Leveling Hunter"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: fr
 manual: true
 faq:
@@ -99,7 +99,7 @@ Le plus de dégâts avec vos propres tirs, sans renoncer à votre familier. Le f
 
 Ordre : Lethal Attacks de 10 à 14, Careful Aim de 15 à 19, Efficiency de 20 à 22, Rapid Killing à 23 et 24, Mortal Shots de 25 à 29 et Trueshot Aura à 30.
 
-Efficiency rend vos tirs moins chers. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> vous fait régénérer du mana pendant l’incantation et économise beaucoup de boisson, mais il est loin dans l’arbre et n’arrive qu’après le niveau 30. Vous prenez trop souvent la menace ? Prenez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> et Scatter Shot pour plus de contrôle. Les 5 points de Talented laissent la place pour cela sans perdre beaucoup de dégâts.
+Efficiency rend vos tirs moins chers. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> vous fait régénérer du mana pendant l’incantation et économise beaucoup de boisson, mais il est loin dans l’arbre : vous l’obtenez au plus tôt au niveau 30, donc la bêta s’en sert à peine. Vous prenez trop souvent la menace ? Prenez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> et Scatter Shot pour plus de contrôle. Les 5 points de Talented laissent la place pour cela sans perdre beaucoup de dégâts.
 
 1. Gardez Aspect of the Hawk et Trueshot Aura.
 2. Envoyez votre familier et lancez Auto Shot.
@@ -186,7 +186,30 @@ Aimed Shot n’est plus un talent : tout Hunter l’apprend au niveau 20. Les ni
 
 ## La quête de classe
 
-Au niveau 10, chaque Hunter fait Taming the Beast. La suite apprend Tame Beast et Beast Training, pour apprivoiser et dresser votre premier familier. Elle commence dans votre zone de départ : Teldrassil pour les Night Elves, Dun Morogh pour les Dwarves, Zephras Isle pour le High Order Skyborne, Mulgore pour les Tauren et Durotar pour les Orcs et les Trolls.
+Au niveau 10, chaque Hunter fait Taming the Beast. La suite apprend Tame Beast et Beast Training, pour apprivoiser et dresser votre premier familier. Elle commence dans votre zone de départ : Teldrassil pour les Night Elves, Dun Morogh pour les Dwarves, [Zephras Isle](/fr/guides/zephras-isle/) pour le High Order Skyborne, Mulgore pour les Tauren et Durotar pour les Orcs et les Trolls.
+
+## Où monter
+
+Le niveau minimum conseillé pour chaque zone. Les niveaux des donjons sont dans le [guide des donjons](/fr/guides/dungeons/).
+
+| Niveau | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/fr/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
 
 ## Armes
 

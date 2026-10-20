@@ -3,7 +3,7 @@ title: "Arcane Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Arcane Mage: Arcane Blast-build, rotatie, mana, stats en races"
 description: "De Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage en Arcane Wrath, twee builds voor level 30 voor solo en dungeons, de rotatie, mana en burnfases, overleven, stats, gear, races en tradeskills."
 short: "Arcane Mage"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: nl
 manual: true
 faq:
@@ -36,6 +36,7 @@ De Arcane Mage heeft in WoW Forever eindelijk eigen schadespells. Arcane Blast s
 | Zwak in | Heel moeilijk manabeheer, afhankelijk van procs en gear |
 | Levelen | [Levelgids voor de Mage](/nl/guides/mage-leveling/) |
 | Talentvolgorde per level | [Levelbuild voor de Mage](/nl/leveling/mage/) |
+| Andere specs | [Frost Mage](/nl/guides/frost-mage/), [Fire Mage](/nl/guides/fire-mage/) |
 
 ## Wat er verandert voor Arcane
 

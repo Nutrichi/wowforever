@@ -1,9 +1,9 @@
 ---
 title: "Guides für WoW Forever"
-metaTitle: "WoW Forever Guides: Dungeonquests, Questreihen und mehr"
-description: "Alle Guides für WoW Forever an einem Ort: der Dungeonguide mit jeder Dungeonquest, The Hall of Thanes und die Ruins of Lordaeron, die Questreihe zum Cozy Sleeping Bag, die Night Watchman's Torch, jede Kombination aus Volk und Klasse, der Restoration Druid, der Balance Druid, der Mage, der Frost Mage, der Arcane Mage, der Hunter, der Affliction Warlock, der Priest, Erfahrung und Erholungs-EP, Camping, das BMAH, jedes Haustier, und die Routen, Klassenguides und Berufsguides der Seite."
+metaTitle: "WoW Forever Guides: Leveln, Dungeons, Klassen und mehr"
+description: "Alle Guides für WoW Forever an einem Ort: Leveln und die Komplettlösung zu Zephras Isle, alle 18 Dungeons, Klassen und Specs, Haustiere, Reittiere, Camping."
 short: "Guides"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: de
 manual: true
 ---

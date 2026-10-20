@@ -3,7 +3,7 @@ title: "Subir un Hunter en WoW Forever: la guía"
 metaTitle: "Guía de subida del Hunter en WoW Forever: builds de Beast Mastery, Marksmanship y Survival hasta el 30"
 description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, tres builds de nivel 30 para Beast Mastery, Marksmanship y Survival con el orden de talentos, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
 short: "Subir un Hunter"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: es
 manual: true
 faq:
@@ -99,7 +99,7 @@ El máximo daño de tus propios disparos, sin renunciar a tu mascota. La mascota
 
 Orden: Lethal Attacks del 10 al 14, Careful Aim del 15 al 19, Efficiency del 20 al 22, Rapid Killing en 23 y 24, Mortal Shots del 25 al 29 y Trueshot Aura en 30.
 
-Efficiency abarata tus disparos. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> te deja regenerar maná mientras lanzas y ahorra mucho beber, pero está muy abajo en el árbol y no llega hasta después del nivel 30. ¿Robas la amenaza demasiado? Coge <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> y Scatter Shot para más control. Los 5 puntos de Talented dejan sitio para eso sin perder mucho daño.
+Efficiency abarata tus disparos. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> te deja regenerar maná mientras lanzas y ahorra mucho beber, pero está muy abajo en el árbol: lo consigues como pronto en el nivel 30, así que la beta apenas lo usa. ¿Robas la amenaza demasiado? Coge <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> y Scatter Shot para más control. Los 5 puntos de Talented dejan sitio para eso sin perder mucho daño.
 
 1. Mantén Aspect of the Hawk y Trueshot Aura.
 2. Manda a tu mascota y empieza con Auto Shot.
@@ -186,7 +186,30 @@ Aimed Shot ya no es un talento: todo Hunter lo aprende a nivel 20. Los niveles d
 
 ## La misión de clase
 
-A nivel 10, todo Hunter hace Taming the Beast. La cadena enseña Tame Beast y Beast Training, para domar y entrenar tu primera mascota. Empieza en tu zona inicial: Teldrassil para los Night Elves, Dun Morogh para los Dwarves, Zephras Isle para el High Order Skyborne, Mulgore para los Tauren y Durotar para los Orcs y los Trolls.
+A nivel 10, todo Hunter hace Taming the Beast. La cadena enseña Tame Beast y Beast Training, para domar y entrenar tu primera mascota. Empieza en tu zona inicial: Teldrassil para los Night Elves, Dun Morogh para los Dwarves, [Zephras Isle](/es/guides/zephras-isle/) para el High Order Skyborne, Mulgore para los Tauren y Durotar para los Orcs y los Trolls.
+
+## Dónde subir
+
+El nivel mínimo recomendado de cada zona. Los niveles de las mazmorras están en la [guía de mazmorras](/es/guides/dungeons/).
+
+| Nivel | Zonas |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/es/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
 
 ## Armas
 

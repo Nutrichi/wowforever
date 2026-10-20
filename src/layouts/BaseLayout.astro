@@ -82,7 +82,15 @@ const withAnalytics = analytics ?? index;
  * mee), en die krijgt de titel die in Google moet staan, vertaald per taal.
  * De sitenaam in og:site_name en de JSON-LD blijft gewoon WoW Forever.
  */
-const pageTitle = title ? `${title} · ${t('site.title')}` : t('site.homeTitle');
+/*
+ * Staat de sitenaam al in de titel ("WoW Forever Fire Mage: ..."), dan komt hij
+ * er niet nog eens achter (20 oktober 2026): Google kort een titel af rond 60
+ * tekens, en "· WoW Forever" achter een titel die er al mee begint, kostte 14
+ * tekens die niets zeiden.
+ */
+const pageTitle = title
+  ? title.includes(t('site.title')) ? title : `${title} · ${t('site.title')}`
+  : t('site.homeTitle');
 const pageDescription = description ?? t('site.description');
 
 const siteUrl = Astro.site ?? new URL('https://wowforever.be');

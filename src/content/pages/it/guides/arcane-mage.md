@@ -3,7 +3,7 @@ title: "Guida all’Arcane Mage in WoW Forever"
 metaTitle: "WoW Forever: Arcane Mage, build Arcane Blast, rotazione, mana, stats e razze"
 description: "L’Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage e Arcane Wrath, due build di livello 30 per il gioco in solitario e i dungeon, la rotazione, il mana e le fasi di burn, la sopravvivenza, le stats, l’equipaggiamento, le razze e le professioni."
 short: "Arcane Mage"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: it
 manual: true
 faq:
@@ -36,6 +36,7 @@ L’Arcane Mage ha finalmente incantesimi di danno propri in WoW Forever. Arcane
 | Punti deboli | Gestione del mana molto difficile, dipende da proc ed equipaggiamento |
 | Livellare | [Guida al leveling del Mage](/it/guides/mage-leveling/) |
 | Ordine dei talenti per livello | [Build di leveling del Mage](/it/leveling/mage/) |
+| Altre spec | [Frost Mage](/it/guides/frost-mage/), [Fire Mage](/it/guides/fire-mage/) |
 
 ## Cosa cambia per Arcane
 

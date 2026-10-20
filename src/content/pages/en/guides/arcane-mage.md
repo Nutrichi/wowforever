@@ -3,7 +3,7 @@ title: "Arcane Mage guide for WoW Forever"
 metaTitle: "WoW Forever Arcane Mage: Arcane Blast build, rotation, mana, stats and races"
 description: "The Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage and Arcane Wrath, two level 30 builds for solo and dungeons, the rotation, mana and burn phases, survival, stats, gear, races and professions."
 short: "Arcane Mage"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: en
 faq:
   - q: "Is Arcane Mage good in WoW Forever?"
@@ -35,6 +35,7 @@ The Arcane Mage in WoW Forever finally has damage spells of its own. Arcane Blas
 | Weakness | Very hard mana management, depends on procs and gear |
 | Leveling | [Mage leveling guide](/guides/mage-leveling/) |
 | Talent order per level | [Mage level build](/leveling/mage/) |
+| Other specs | [Frost Mage](/guides/frost-mage/), [Fire Mage](/guides/fire-mage/) |
 
 ## What changes for Arcane
 

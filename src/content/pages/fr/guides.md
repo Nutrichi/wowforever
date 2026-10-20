@@ -1,9 +1,9 @@
 ---
 title: "Guides pour WoW Forever"
-metaTitle: "Guides WoW Forever : quêtes de donjon, chaînes de quêtes et plus"
-description: "Tous les guides pour WoW Forever au même endroit : le guide des donjons avec chaque quête de donjon, The Hall of Thanes et les Ruins of Lordaeron, la chaîne du Cozy Sleeping Bag, la Night Watchman's Torch, chaque combinaison de race et de classe, le Restoration Druid, le Balance Druid, le Mage, le Frost Mage, l'Arcane Mage, le Hunter, l'Affliction Warlock, le Priest, l'expérience et l'XP reposée, le camping, la BMAH, chaque mascotte, et les routes, guides de classe et guides de métier du site."
+metaTitle: "Guides WoW Forever : leveling, donjons, classes et plus"
+description: "Tous les guides de WoW Forever au même endroit : le leveling et la soluce de Zephras Isle, les 18 donjons, les classes et spés, mascottes, montures et camping."
 short: "Guides"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: fr
 manual: true
 ---

@@ -100,7 +100,8 @@ jobs:
       #
       # Na een push en na een handmatige run (workflow_dispatch, zo komen
       # ingeplande posts live), niet na de geplande runs voor Clips en Streams. De adressen komen uit news-sitemap.xml (de
-      # posts van de laatste twee dagen, in elke taal) plus de zes homepages.
+      # posts van de laatste twee dagen, in elke taal), de zes homepages en sinds
+      # 20 oktober 2026 elke pagina uit sitemap-0.xml met een lastmod van de laatste twee dagen.
       # De sleutel is geen geheim: hij staat als bestand op de site
       # (public/af8e1bae12c985be4b0720e37bebd179.txt), zo bewijst de site dat hij van ons is.
       #
@@ -115,6 +116,10 @@ jobs:
           sleep 60
           urls=$(curl -s https://wowforever.be/news-sitemap.xml | grep -o '<loc>[^<]*' | sed 's/<loc>//')
           for l in "" nl/ fr/ es/ it/ de/; do urls="$urls"$'\n'"https://wowforever.be/$l"; done
+          # Ook elke pagina uit de sitemap met een lastmod van de laatste twee dagen
+          # (20 oktober 2026): gidsen, routes en tradeskills stonden nooit in het seintje.
+          recent=$(curl -s https://wowforever.be/sitemap-0.xml | python3 -c 'import sys,re,datetime; s=sys.stdin.read(); cut=(datetime.datetime.now(datetime.timezone.utc)-datetime.timedelta(days=2)).strftime("%Y-%m-%d"); print("\n".join(u for u,d in re.findall(r"<loc>([^<]+)</loc><lastmod>([^<]+)</lastmod>",s) if d[:10]>=cut))')
+          urls=$(printf '%s\n%s\n' "$urls" "$recent" | grep . | sort -u | head -n 10000)
           body=$(printf '%s\n' "$urls" | grep . | jq -R . | jq -s --arg key "$INDEXNOW_KEY" \
             '{host: "wowforever.be", key: $key, keyLocation: ("https://wowforever.be/" + $key + ".txt"), urlList: .}')
           echo "$body" | jq -r '.urlList | length | "\(.) adressen"'

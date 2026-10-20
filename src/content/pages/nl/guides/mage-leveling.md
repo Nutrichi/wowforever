@@ -3,7 +3,7 @@ title: "Mage levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Mage levelgids: Frost, Fire en Arcane, rotatie en tips"
 description: "Zo level je een Mage in WoW Forever: waarom Frost met Ice Lance het snelst gaat, de rotatie voor Frost, Fire en Arcane, de belangrijke levels, classquests, scrolls, mana en threat."
 short: "Mage levelen"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: nl
 manual: true
 faq:
@@ -57,7 +57,7 @@ De [levelbuild van de Mage](/nl/leveling/mage/) geeft het talent voor elk level 
 | **Ice Shards** | Verdubbelt de critical strike-bonus van je Frost-spells |
 | **Frost Channeling** | Frost-spells 15% goedkoper en 30% minder threat |
 
-Met punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> uit het Legacy-systeem haal je elk talent tot vijf levels eerder. De [Frost Mage-gids](/nl/guides/frost-mage/) geeft de build voor level 30 met Missile Barrage, plus kiten, mana, Shatter en gear. De [Arcane Mage-gids](/nl/guides/arcane-mage/) geeft twee builds voor level 30 met Arcane Blast, plus burnfases en mana.
+Met punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> uit het Legacy-systeem haal je elk talent tot vijf levels eerder. De [Frost Mage-gids](/nl/guides/frost-mage/) geeft de build voor level 30 met Missile Barrage, plus kiten, mana, Shatter en gear. De [Arcane Mage-gids](/nl/guides/arcane-mage/) geeft twee builds voor level 30 met Arcane Blast, plus burnfases en mana. De [Fire Mage-gids](/nl/guides/fire-mage/) geeft twee builds voor level 30 met Heating Up, plus Fire Power en mana.
 
 ## Rotatie
 

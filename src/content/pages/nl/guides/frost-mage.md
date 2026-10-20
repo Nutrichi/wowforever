@@ -3,7 +3,7 @@ title: "Frost Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Frost Mage: Ice Lance-build, rotatie, Shatter, stats en races"
 description: "De Frost Mage in WoW Forever: Ice Lance en Fingers of Frost, de build voor level 30 met Missile Barrage, de rotatie, kiten, mana, Shatter, stats, gear, races en tradeskills."
 short: "Frost Mage"
-updated: 2026-10-17
+updated: 2026-10-20
 lang: nl
 manual: true
 faq:
@@ -36,6 +36,7 @@ De Frost Mage in WoW Forever vertraagt en bevriest zijn doelen, overleeft beter 
 | Zwak | Hangt af van procs, mana |
 | Levelen | [Mage-levelgids](/nl/guides/mage-leveling/) |
 | Talent per level | [Levelbuild Mage](/nl/leveling/mage/) |
+| Andere specs | [Arcane Mage](/nl/guides/arcane-mage/), [Fire Mage](/nl/guides/fire-mage/) |
 
 ## Wat er verandert voor Frost
 

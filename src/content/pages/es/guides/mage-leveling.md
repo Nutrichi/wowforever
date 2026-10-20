@@ -3,7 +3,7 @@ title: "Guía para subir de nivel al Mage en WoW Forever"
 metaTitle: "WoW Forever: guía de subida del Mage, Frost, Fire y Arcane, rotación y consejos"
 description: "Cómo subir un Mage en WoW Forever: por qué Frost con Ice Lance es lo más rápido, la rotación de Frost, Fire y Arcane, los niveles clave, las misiones de clase, los pergaminos, el maná y la amenaza."
 short: "Subir de nivel al Mage"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: es
 manual: true
 faq:
@@ -57,7 +57,7 @@ La [build de subida del Mage](/es/leveling/mage/) da el talento de cada nivel de
 | **Ice Shards** | Duplica la bonificación de crítico de tus hechizos Frost |
 | **Frost Channeling** | Hechizos Frost un 15 % más baratos y un 30 % menos de amenaza |
 
-Con puntos en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> del sistema Legacy, alcanzas cada talento hasta cinco niveles antes. La [guía del Frost Mage](/es/guides/frost-mage/) tiene la build de nivel 30 con Missile Barrage, además del kiteo, el maná, Shatter y el equipo. La [guía del Arcane Mage](/es/guides/arcane-mage/) tiene dos builds de nivel 30 con Arcane Blast, además de las fases de burn y el maná.
+Con puntos en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> del sistema Legacy, alcanzas cada talento hasta cinco niveles antes. La [guía del Frost Mage](/es/guides/frost-mage/) tiene la build de nivel 30 con Missile Barrage, además del kiteo, el maná, Shatter y el equipo. La [guía del Arcane Mage](/es/guides/arcane-mage/) tiene dos builds de nivel 30 con Arcane Blast, además de las fases de burn y el maná. La [guía del Fire Mage](/es/guides/fire-mage/) tiene dos builds de nivel 30 con Heating Up, además de Fire Power y el maná.
 
 ## Rotación
 

@@ -32,6 +32,8 @@ import { tsData } from '../../lib/tradeskills-forever';
 import { hubCategories } from '../../config/guides-hub';
 import { breadcrumbJsonLd, publisherJsonLd } from '../../lib/structured-data';
 import { isoDate, longDate } from '../../lib/date';
+import { pageImage } from '../../lib/page-image';
+import { guidesRssPath } from '../../lib/rss';
 import '../../styles/guides.css';
 
 interface Props {
@@ -124,6 +126,8 @@ crumbs.push({ name: page.short, path: page.href });
 
 const hideSources = folder === 'guides' || folder === 'tradeskills' || pageKey === 'forever';
 const canonical = new URL(page.href, Astro.site ?? 'https://wowforever.be').href;
+const shareImage = pageImage(page);
+const imageUrl = shareImage ? new URL(shareImage.src, Astro.site ?? 'https://wowforever.be').href : undefined;
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
@@ -137,6 +141,7 @@ const jsonLd = {
       mainEntityOfPage: canonical,
       author: publisherJsonLd(Astro.site),
       publisher: publisherJsonLd(Astro.site),
+      ...(imageUrl ? { image: [imageUrl] } : {}),
     },
     ...(page.faq.length
       ? [{
@@ -152,8 +157,11 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout locale={locale} title={page.metaTitle} description={page.description} ogType="article">
+<BaseLayout locale={locale} title={page.metaTitle} description={page.description} image={imageUrl} ogType="article">
   <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+  {folder === 'guides' && (
+    <link rel="alternate" type="application/rss+xml" slot="head" title={`WoW Forever ${ui('nav.guides')} RSS`} href={guidesRssPath(locale)} />
+  )}
 
   <article class="wf-gdetail wf-page" data-pagefind-body data-pagefind-meta={`title:${page.metaTitle}`}>
     <nav class="wf-gcrumb" aria-label={ui('crumb.label')} data-pagefind-ignore>

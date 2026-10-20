@@ -11,6 +11,8 @@
  */
 
 import { getPosts } from './posts';
+import { getPages, pagePath } from './pages';
+import { pageImage } from './page-image';
 import { defaultLocale, localeTags, type Locale } from '../i18n/ui';
 import { localizePath, useTranslations } from '../i18n/utils';
 
@@ -74,6 +76,71 @@ export async function rssResponse(locale: Locale, site: URL | undefined): Promis
       <url>${esc(url('/assets/icon-192.png'))}</url>
       <title>${esc(t('site.title'))}</title>
       <link>${esc(url(localizePath('', locale)))}</link>
+    </image>
+${items}
+  </channel>
+</rss>
+`;
+  return new Response(body, {
+    headers: { 'Content-Type': 'application/rss+xml; charset=utf-8' },
+  });
+}
+
+/*
+ * De feed van de gidsen, één per taal (20 oktober 2026, Nutri: "check all pages
+ * in the guides section if they will be easily found by ... feeds"): /guides/rss.xml
+ * en /nl/guides/rss.xml enzovoort. Tot dan stond geen enkele gids in een feed.
+ * Nieuwste `updated` bovenaan, zodat een bijgewerkte gids weer opduikt; alleen
+ * gidsen die echt in die taal bestaan. De gidsenpagina's verwijzen ernaar met
+ * een eigen <link rel="alternate"> (SitePage).
+ */
+export function guidesRssPath(locale: Locale): string {
+  return `${localizePath('guides', locale)}/rss.xml`;
+}
+
+export async function guidesRssResponse(locale: Locale, site: URL | undefined): Promise<Response> {
+  const base = site ?? new URL('https://wowforever.be');
+  const url = (path: string) => new URL(path, base).href;
+  const t = useTranslations(locale);
+
+  const guides = (await getPages(locale))
+    .filter((page) => !page.isFallback && page.key.startsWith('guides/'))
+    .sort((a, b) => b.updated.getTime() - a.updated.getTime())
+    .slice(0, LIMIT);
+  const built = guides[0]?.updated ?? new Date();
+  const title = `${t('site.title')}: ${t('nav.guides')}`;
+  const home = url(pagePath('guides', locale));
+
+  const items = guides
+    .map((page) => {
+      const link = url(page.href);
+      const img = pageImage(page);
+      const image = img
+        ? `\n      <media:content url="${esc(url(img.src))}" medium="image" type="${mime(img.src)}" />`
+        : '';
+      return `    <item>
+      <title>${esc(page.title)}</title>
+      <link>${esc(link)}</link>
+      <guid isPermaLink="true">${esc(link)}</guid>
+      <pubDate>${page.updated.toUTCString()}</pubDate>
+      <description>${esc(page.description)}</description>${image}
+    </item>`;
+    })
+    .join('\n');
+
+  const body = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>${esc(title)}</title>
+    <link>${esc(home)}</link>
+    <description>${esc(t('site.description'))}</description>
+    <language>${localeTags[locale]}</language>
+    <lastBuildDate>${built.toUTCString()}</lastBuildDate>
+    <atom:link href="${esc(url(guidesRssPath(locale)))}" rel="self" type="application/rss+xml" />
+    <image>
+      <url>${esc(url('/assets/icon-192.png'))}</url>
+      <title>${esc(title)}</title>
+      <link>${esc(home)}</link>
     </image>
 ${items}
   </channel>

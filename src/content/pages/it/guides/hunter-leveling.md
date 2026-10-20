@@ -3,7 +3,7 @@ title: "Livellare un Hunter in WoW Forever: la guida"
 metaTitle: "Guida al leveling dell'Hunter in WoW Forever: build Beast Mastery, Marksmanship e Survival fino al 30"
 description: "Come livellare un Hunter in WoW Forever: i primi livelli, tre build di livello 30 per Beast Mastery, Marksmanship e Survival con l’ordine dei talenti, la rotazione, i livelli chiave, la missione di addomesticamento, armi, equipaggiamento, professioni, famigli, trappole, tracciamento e Aspect."
 short: "Leveling Hunter"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: it
 manual: true
 faq:
@@ -99,7 +99,7 @@ Il massimo dei danni dai tuoi colpi, senza rinunciare al famiglio. Il famiglio t
 
 Ordine: Lethal Attacks dal 10 al 14, Careful Aim dal 15 al 19, Efficiency dal 20 al 22, Rapid Killing al 23 e 24, Mortal Shots dal 25 al 29 e Trueshot Aura al 30.
 
-Efficiency rende più economici i tuoi colpi. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> ti fa rigenerare mana mentre lanci e fa risparmiare molte bevute, ma è in fondo all’albero e arriva solo dopo il livello 30. Rubi la minaccia troppo spesso? Prendi <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> e Scatter Shot per più controllo. I 5 punti di Talented lasciano spazio per questo senza perdere molti danni.
+Efficiency rende più economici i tuoi colpi. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> ti fa rigenerare mana mentre lanci e fa risparmiare molte bevute, ma è in fondo all’albero: lo ottieni al più presto al livello 30, quindi la beta lo usa appena. Rubi la minaccia troppo spesso? Prendi <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> e Scatter Shot per più controllo. I 5 punti di Talented lasciano spazio per questo senza perdere molti danni.
 
 1. Tieni attivi Aspect of the Hawk e Trueshot Aura.
 2. Manda il famiglio e avvia Auto Shot.
@@ -186,7 +186,30 @@ Aimed Shot non è più un talento: ogni Hunter lo impara al livello 20. I livell
 
 ## La missione di classe
 
-Al livello 10 ogni Hunter fa Taming the Beast. La catena insegna Tame Beast e Beast Training, per addomesticare e addestrare il tuo primo famiglio. Parte dalla tua zona iniziale: Teldrassil per i Night Elf, Dun Morogh per i Dwarf, Zephras Isle per il High Order Skyborne, Mulgore per i Tauren e Durotar per Orc e Troll.
+Al livello 10 ogni Hunter fa Taming the Beast. La catena insegna Tame Beast e Beast Training, per addomesticare e addestrare il tuo primo famiglio. Parte dalla tua zona iniziale: Teldrassil per i Night Elf, Dun Morogh per i Dwarf, [Zephras Isle](/it/guides/zephras-isle/) per il High Order Skyborne, Mulgore per i Tauren e Durotar per Orc e Troll.
+
+## Dove livellare
+
+Il livello minimo consigliato per ogni zona. I livelli dei dungeon sono nella [guida ai dungeon](/it/guides/dungeons/).
+
+| Livello | Zone |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/it/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
 
 ## Armi
 

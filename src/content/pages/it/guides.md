@@ -1,9 +1,9 @@
 ---
 title: "Guide per WoW Forever"
-metaTitle: "Guide di WoW Forever: missioni dei dungeon, catene di missioni e altro"
-description: "Tutte le guide per WoW Forever in un unico posto: la guida ai dungeon con ogni missione dei dungeon, The Hall of Thanes e le Ruins of Lordaeron, la catena del Cozy Sleeping Bag, la Night Watchman's Torch, ogni combinazione di razza e classe, il Restoration Druid, il Balance Druid, il Mage, il Frost Mage, l'Arcane Mage, l'Hunter, l'Affliction Warlock, il Priest, l'esperienza e il riposo, il camping, la BMAH, ogni mascotte, e i percorsi, le guide di classe e le guide delle professioni del sito."
+metaTitle: "Guide di WoW Forever: leveling, dungeon, classi e altro"
+description: "Tutte le guide di WoW Forever in un posto: il leveling e Zephras Isle passo per passo, i 18 dungeon, classi e spec, pet, cavalcature, campeggio e altro."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-10-20
 lang: it
 manual: true
 ---

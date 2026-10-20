@@ -3,7 +3,7 @@ title: "Guida al Frost Mage in WoW Forever"
 metaTitle: "WoW Forever: Frost Mage, build Ice Lance, rotazione, Shatter, stats e razze"
 description: "Il Frost Mage in WoW Forever: Ice Lance e Fingers of Frost, la build di livello 30 con Missile Barrage, la rotazione, il kiting, il mana, Shatter, le stats, l'equipaggiamento, le razze e le professioni."
 short: "Frost Mage"
-updated: 2026-10-17
+updated: 2026-10-20
 lang: it
 manual: true
 faq:
@@ -36,6 +36,7 @@ Il Frost Mage di WoW Forever rallenta e congela i suoi bersagli, sopravvive megl
 | Punti deboli | Dipende dai proc, mana |
 | Leveling | [Guida al leveling del Mage](/it/guides/mage-leveling/) |
 | Talento per livello | [Build di leveling del Mage](/it/leveling/mage/) |
+| Altre spec | [Arcane Mage](/it/guides/arcane-mage/), [Fire Mage](/it/guides/fire-mage/) |
 
 ## Cosa cambia per il Frost
 
