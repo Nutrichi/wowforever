@@ -3,7 +3,7 @@ title: "Warrior leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Warrior-Levelguide: Builds für Arms, Fury und Protection bis 30"
 description: "So levelst du einen Warrior in WoW Forever: der erste Build, drei Builds für Level 30 für Arms, Fury und Protection, die Rotation, wichtige Level, die Klassenquests für jede Haltung, Waffen, Haltungen und Rage."
 short: "Warrior leveln"
-updated: 2026-10-18
+updated: 2026-10-21
 lang: de
 manual: true
 faq:
@@ -32,6 +32,7 @@ Der Warrior wächst mit jedem Level. Am Anfang drückst du vor allem Heroic Stri
 | Stärken | Große Pulls mit starken Abklingzeiten, viel Burst, keine Reagenzien |
 | Schwächen | Keine eigenen Heilungen, Pausen zum Essen, ein langsamer Start |
 | Talent pro Level | [Levelbuild für den Warrior](/de/leveling/warrior/) |
+| Guides pro Spezialisierung | [Fury Warrior](/de/guides/fury-warrior/), [Arms Warrior](/de/guides/arms-warrior/), [Protection Warrior](/de/guides/protection-warrior/) |
 | Builds bis Level 60 | Nach dem Launch am 4. November |
 
 ## Mit welcher Spezialisierung leveln

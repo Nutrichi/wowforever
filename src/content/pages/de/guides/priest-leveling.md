@@ -3,7 +3,7 @@ title: "Priest leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Priest Leveling-Guide: Builds für Discipline, Holy und Shadow bis 30"
 description: "So levelst du einen Priest in WoW Forever: drei Builds für Level 30 für Discipline, Holy und Shadow, die Rotation, wichtige Level, Volkszauber, Zauberstäbe, Berufe, Mana und Heilung."
 short: "Priest leveln"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: de
 manual: true
 faq:
@@ -34,7 +34,8 @@ Der Priest levelt in WoW Forever gemütlich: heil dich, schild dich und lass Sch
 | Stärken | Heilung, Schilde, stetiger Schaden mit wenigen Pausen |
 | Schwächen | Langsame Kills am Anfang, Mana, wenig Kontrolle |
 | Talent pro Level | [Leveling-Build für den Priest](/de/leveling/priest/) |
-| Builds bis Level 60 | Nach dem Start am 4. November |
+| Guides pro Spezialisierung | [Shadow Priest](/de/guides/shadow-priest/), [Holy Priest](/de/guides/holy-priest/), [Discipline Priest](/de/guides/discipline-priest/) |
+| Builds bis Level 60 | In den Guides pro Spezialisierung, mit den Talenten des Beta-Builds vom 15. Oktober |
 
 ## Mit welcher Spezialisierung leveln
 

@@ -3,7 +3,7 @@ title: "Rogue leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Rogue-Levelguide: Builds für Assassination, Combat und Subtlety bis 30"
 description: "So levelst du einen Rogue in WoW Forever: vier Builds für Level 30 für Assassination, Combat und zwei Arten von Subtlety, die Rotation, wichtige Level, die Giftquests, Waffen, Berufe und Verbrauchsgüter."
 short: "Rogue leveln"
-updated: 2026-10-15
+updated: 2026-10-21
 lang: de
 manual: true
 faq:
@@ -34,6 +34,7 @@ Der Rogue war nie die einfachste Klasse zum Leveln, aber WoW Forever hilft. Pois
 | Stärken | Schaden auf ein Ziel, Crowd Control, Stealth |
 | Schwächen | Wenig Leben, abhängig von Ausrüstung, wenig Utility |
 | Talent pro Level | [Levelbuild für den Rogue](/de/leveling/rogue/) |
+| Guides pro Spezialisierung | [Assassination Rogue](/de/guides/assassination-rogue/) |
 | Builds bis Level 60 | Nach dem Launch am 4. November |
 
 ## Mit welcher Spezialisierung leveln

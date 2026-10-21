@@ -3,7 +3,7 @@ title: "Warrior levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Warrior levelgids: builds voor Arms, Fury en Protection tot 30"
 description: "Zo level je een Warrior in WoW Forever: de eerste build, drie builds voor level 30 voor Arms, Fury en Protection, de rotatie, de belangrijke levels, de classquests voor elke stance, wapens, stances en Rage."
 short: "Warrior levelen"
-updated: 2026-10-18
+updated: 2026-10-21
 lang: nl
 manual: true
 faq:
@@ -32,6 +32,7 @@ De Warrior groeit met elk level. In het begin druk je vooral Heroic Strike en la
 | Sterk in | Grote pulls met sterke cooldowns, veel burst, geen reagents |
 | Zwak in | Geen eigen heals, rust om te eten, een trage start |
 | Talent per level | [Levelbuild voor de Warrior](/nl/leveling/warrior/) |
+| Gidsen per spec | [Fury Warrior](/nl/guides/fury-warrior/), [Arms Warrior](/nl/guides/arms-warrior/), [Protection Warrior](/nl/guides/protection-warrior/) |
 | Builds tot level 60 | Na de launch op 4 november |
 
 ## Met welke spec levelen

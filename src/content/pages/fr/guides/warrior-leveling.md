@@ -3,7 +3,7 @@ title: "Monter un Warrior dans WoW Forever : le guide"
 metaTitle: "Guide leveling Warrior WoW Forever : builds Arms, Fury et Protection jusqu'au 30"
 description: "Comment monter un Warrior dans WoW Forever : le premier build, trois builds niveau 30 pour Arms, Fury et Protection, la rotation, les niveaux clés, les quêtes de classe pour chaque posture, les armes, les postures et la Rage."
 short: "Leveling Warrior"
-updated: 2026-10-18
+updated: 2026-10-21
 lang: fr
 manual: true
 faq:
@@ -32,6 +32,7 @@ Le Warrior grandit à chaque niveau. Au début, vous appuyez surtout sur Heroic 
 | Points forts | Grosses prises avec de forts temps de recharge, beaucoup de burst, aucun composant |
 | Points faibles | Pas de soins à lui, des pauses pour manger, un début lent |
 | Talent par niveau | [Build de leveling du Warrior](/fr/leveling/warrior/) |
+| Guides par spé | [Fury Warrior](/fr/guides/fury-warrior/), [Arms Warrior](/fr/guides/arms-warrior/), [Protection Warrior](/fr/guides/protection-warrior/) |
 | Builds jusqu'au niveau 60 | Après la sortie le 4 novembre |
 
 ## Quelle spé pour monter

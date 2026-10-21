@@ -3,7 +3,7 @@ title: "Guida al livellamento del Priest in WoW Forever"
 metaTitle: "Guida leveling Priest WoW Forever: build Discipline, Holy e Shadow fino al 30"
 description: "Come livellare un Priest in WoW Forever: tre build di livello 30 per Discipline, Holy e Shadow, la rotazione, i livelli chiave, gli incantesimi razziali, le bacchette, le professioni, il mana e le cure."
 short: "Leveling del Priest"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: it
 manual: true
 faq:
@@ -34,7 +34,8 @@ Il Priest livella con calma in WoW Forever: curati, scudati e lascia che danni n
 | Punti forti | Cure, scudi, danni costanti con poche pause |
 | Punti deboli | Uccisioni lente all'inizio, mana, poco controllo |
 | Talento per livello | [Build di leveling del Priest](/it/leveling/priest/) |
-| Build fino al livello 60 | Dopo il lancio del 4 novembre |
+| Guide per spec | [Shadow Priest](/it/guides/shadow-priest/), [Holy Priest](/it/guides/holy-priest/), [Discipline Priest](/it/guides/discipline-priest/) |
+| Build fino al livello 60 | Nelle guide per spec, con i talenti della build della beta del 15 ottobre |
 
 ## Con quale spec livellare
 

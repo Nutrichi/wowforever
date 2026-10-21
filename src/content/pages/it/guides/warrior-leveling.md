@@ -3,7 +3,7 @@ title: "Livellare un Warrior in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Warrior in WoW Forever: build Arms, Fury e Protection fino al 30"
 description: "Come livellare un Warrior in WoW Forever: la prima build, tre build di livello 30 per Arms, Fury e Protection, la rotazione, i livelli chiave, le missioni di classe per ogni stance, armi, stance e Rage."
 short: "Leveling del Warrior"
-updated: 2026-10-18
+updated: 2026-10-21
 lang: it
 manual: true
 faq:
@@ -32,6 +32,7 @@ Il Warrior cresce a ogni livello. All'inizio premi soprattutto Heroic Strike e l
 | Punti di forza | Grandi ingaggi con forti tempi di recupero, tanto burst, nessun reagente |
 | Punti deboli | Nessuna cura propria, pause per mangiare, un inizio lento |
 | Talento per livello | [Build di leveling del Warrior](/it/leveling/warrior/) |
+| Guide per spec | [Fury Warrior](/it/guides/fury-warrior/), [Arms Warrior](/it/guides/arms-warrior/), [Protection Warrior](/it/guides/protection-warrior/) |
 | Build fino al livello 60 | Dopo il lancio del 4 novembre |
 
 ## Con quale spec livellare

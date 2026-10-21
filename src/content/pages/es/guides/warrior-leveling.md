@@ -3,7 +3,7 @@ title: "Subir un Warrior en WoW Forever: la guía"
 metaTitle: "Guía de subida del Warrior en WoW Forever: builds de Arms, Fury y Protection hasta el 30"
 description: "Cómo subir un Warrior en WoW Forever: el primer build, tres builds de nivel 30 para Arms, Fury y Protection, la rotación, los niveles clave, las misiones de clase para cada actitud, armas, actitudes y Rage."
 short: "Subida del Warrior"
-updated: 2026-10-18
+updated: 2026-10-21
 lang: es
 manual: true
 faq:
@@ -32,6 +32,7 @@ El Warrior crece con cada nivel. Al principio pulsas sobre todo Heroic Strike y 
 | Puntos fuertes | Grandes grupos con fuertes tiempos de reutilización, mucho burst, sin componentes |
 | Puntos débiles | Sin curas propias, pausas para comer, un comienzo lento |
 | Talento por nivel | [Build de subida del Warrior](/es/leveling/warrior/) |
+| Guías por spec | [Fury Warrior](/es/guides/fury-warrior/), [Arms Warrior](/es/guides/arms-warrior/), [Protection Warrior](/es/guides/protection-warrior/) |
 | Builds hasta el nivel 60 | Después del lanzamiento el 4 de noviembre |
 
 ## Con qué spec subir

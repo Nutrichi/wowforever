@@ -3,7 +3,7 @@ title: "Priest levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Priest levelgids: builds voor Discipline, Holy en Shadow tot 30"
 description: "Zo level je een Priest in WoW Forever: drie builds voor level 30 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, tradeskills, mana en healen."
 short: "Priest levelen"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: nl
 manual: true
 faq:
@@ -34,7 +34,8 @@ De Priest levelt in WoW Forever rustig: heal jezelf, schild jezelf en laat schad
 | Sterk in | Healen, schilden, gestage schade met weinig pauzes |
 | Zwak in | Trage kills in het begin, mana, weinig crowd control |
 | Talent per level | [Levelbuild voor de Priest](/nl/leveling/priest/) |
-| Builds tot level 60 | Na de launch op 4 november |
+| Gidsen per spec | [Shadow Priest](/nl/guides/shadow-priest/), [Holy Priest](/nl/guides/holy-priest/), [Discipline Priest](/nl/guides/discipline-priest/) |
+| Builds tot level 60 | In de gidsen per spec, met de talenten van de betabuild van 15 oktober |
 
 ## Met welke spec levelen
 

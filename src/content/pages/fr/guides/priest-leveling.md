@@ -3,7 +3,7 @@ title: "Guide de montée en niveau du Priest dans WoW Forever"
 metaTitle: "Guide de leveling Priest WoW Forever : builds Discipline, Holy et Shadow jusqu'au 30"
 description: "Comment monter un Priest dans WoW Forever : trois builds niveau 30 pour Discipline, Holy et Shadow, la rotation, les niveaux clés, les sorts raciaux, les baguettes, les métiers, le mana et les soins."
 short: "Leveling du Priest"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: fr
 manual: true
 faq:
@@ -34,7 +34,8 @@ Le Priest monte tranquillement dans WoW Forever : soignez-vous, protégez-vous e
 | Points forts | Soins, boucliers, dégâts réguliers avec peu de pauses |
 | Points faibles | Kills lents au début, mana, peu de contrôle |
 | Talent par niveau | [Build de leveling du Priest](/fr/leveling/priest/) |
-| Builds jusqu'au niveau 60 | Après la sortie le 4 novembre |
+| Guides par spé | [Shadow Priest](/fr/guides/shadow-priest/), [Holy Priest](/fr/guides/holy-priest/), [Discipline Priest](/fr/guides/discipline-priest/) |
+| Builds jusqu'au niveau 60 | Dans les guides par spé, avec les talents du build bêta du 15 octobre |
 
 ## Quelle spé pour monter
 
