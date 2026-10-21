@@ -3,7 +3,7 @@ title: "Warlock leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Warlock-Levelguide: Builds für Affliction, Demonology und Destruction bis 30"
 description: "So levelst du einen Warlock in WoW Forever: der erste Build, drei Builds für Level 30 für Affliction, Demonology und Destruction, die Rotation, wichtige Level, die Klassenquests für jeden Dämon, Zauberstäbe, Berufe, Life Tap und Fear."
 short: "Warlock leveln"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: de
 manual: true
 faq:
@@ -34,6 +34,7 @@ Der Warlock ist eine der selbstständigsten Klassen in WoW Forever. Dein Schaden
 | Stärken | Trinkt selten, ein Dämon für jede Lage, Fear |
 | Schwächen | Langsamer Start, Soul Shards sammeln, wenig gegen viele Monster auf einmal |
 | Talent pro Level | [Levelbuild für den Warlock](/de/leveling/warlock/) |
+| Guides pro Spezialisierung | [Affliction Warlock](/de/guides/affliction-warlock/), [Demonology Warlock](/de/guides/demonology-warlock/), [Destruction Warlock](/de/guides/destruction-warlock/) |
 | Builds bis Level 60 | Nach dem Launch am 4. November |
 
 ## Mit welcher Spezialisierung leveln

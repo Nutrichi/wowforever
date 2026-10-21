@@ -94,6 +94,8 @@ export const hubCategories: HubCategory[] = [
       { key: 'arcane-mage', image: '2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.jpg' },
       { key: 'fire-mage', image: '2026-10-09-wow-forever-three-casters.jpg' },
       { key: 'affliction-warlock', image: '2026-10-08-wow-forever-warlock-talent-trees.jpg' },
+      { key: 'demonology-warlock', image: '2026-10-21-wow-forever-demonology-warlock-build.jpg' },
+      { key: 'destruction-warlock', image: '2026-10-21-wow-forever-destruction-warlock-build.jpg' },
       { key: 'priest-leveling', image: '2026-10-01-wow-forever-priest-talent-trees.jpg' },
       { key: 'shadow-priest', image: '2026-10-21-wow-forever-shadow-priest-build.jpg' },
       { key: 'holy-priest', image: '2026-10-21-wow-forever-holy-priest-build.jpg' },

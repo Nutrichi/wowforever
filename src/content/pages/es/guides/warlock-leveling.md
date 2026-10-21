@@ -3,7 +3,7 @@ title: "Subir un Warlock en WoW Forever: la guía"
 metaTitle: "Guía de subida del Warlock en WoW Forever: builds de Affliction, Demonology y Destruction hasta el 30"
 description: "Cómo subir un Warlock en WoW Forever: el primer build, tres builds de nivel 30 para Affliction, Demonology y Destruction, la rotación, los niveles clave, las misiones de clase para cada demonio, varitas, profesiones, Life Tap y Fear."
 short: "Subida del Warlock"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: es
 manual: true
 faq:
@@ -34,6 +34,7 @@ El Warlock es una de las clases más autosuficientes de WoW Forever. Tu daño si
 | Puntos fuertes | Casi no bebe, un demonio para cada situación, Fear |
 | Puntos débiles | Comienzo lento, Soul Shards que farmear, poco contra muchos monstruos a la vez |
 | Talento por nivel | [Build de subida del Warlock](/es/leveling/warlock/) |
+| Guías por spec | [Affliction Warlock](/es/guides/affliction-warlock/), [Demonology Warlock](/es/guides/demonology-warlock/), [Destruction Warlock](/es/guides/destruction-warlock/) |
 | Builds hasta el nivel 60 | Después del lanzamiento el 4 de noviembre |
 
 ## Con qué spec subir

@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "read": "2026-10-10",
+ "read": "2026-10-21",
  "clientBuild": "1.60.1.70450",
  "classes": [
   {
@@ -114,30 +114,30 @@
      "order": [
       "frost/improved-frostbolt",
       "frost/improved-frostbolt",
-      "frost/elemental-precision",
+      "frost/improved-frostbolt",
+      "frost/improved-frostbolt",
+      "frost/improved-frostbolt",
       "frost/elemental-precision",
       "frost/elemental-precision",
       "frost/frostbite",
       "frost/frostbite",
       "frost/frostbite",
-      "frost/ice-shards",
-      "frost/ice-shards",
       "frost/ice-lance",
       "frost/ice-shards",
       "frost/ice-shards",
       "frost/ice-shards",
-      "frost/piercing-ice",
+      "frost/ice-shards",
       "frost/shatter",
       "frost/shatter",
       "frost/shatter",
       "frost/ice-block",
+      "frost/ice-shards",
+      "frost/fingers-of-frost",
+      "frost/fingers-of-frost",
+      "arcane/missile-barrage",
+      "arcane/missile-barrage",
       "frost/piercing-ice",
-      "frost/fingers-of-frost",
-      "frost/fingers-of-frost",
-      "frost/cold-snap",
-      "frost/improved-frostbolt",
-      "frost/improved-frostbolt",
-      "frost/improved-frostbolt"
+      "frost/piercing-ice"
      ]
     }
    ]
@@ -407,7 +407,7 @@
   {
    "id": "warlock",
    "complete": false,
-   "maxLevel": 35,
+   "maxLevel": 40,
    "phases": [
     {
      "from": 10,
@@ -416,12 +416,12 @@
       "affliction/suppression",
       "affliction/suppression",
       "affliction/suppression",
+      "affliction/improved-corruption",
+      "affliction/improved-corruption",
+      "affliction/improved-corruption",
+      "affliction/improved-corruption",
+      "affliction/improved-corruption",
       "affliction/suppression",
-      "affliction/improved-corruption",
-      "affliction/improved-corruption",
-      "affliction/improved-corruption",
-      "affliction/improved-corruption",
-      "affliction/improved-corruption",
       "affliction/pandemic",
       "affliction/pandemic",
       "affliction/pandemic",
@@ -433,11 +433,16 @@
       "affliction/malevolence",
       "affliction/malevolence",
       "affliction/siphon-life",
-      "affliction/nightfall",
-      "affliction/nightfall",
-      "affliction/improved-life-tap",
-      "affliction/improved-life-tap",
-      "affliction/shadow-mastery"
+      "affliction/fel-concentration",
+      "affliction/fel-concentration",
+      "affliction/fel-concentration",
+      "affliction/soul-siphon",
+      "affliction/shadow-mastery",
+      "affliction/shadow-mastery",
+      "affliction/shadow-mastery",
+      "affliction/shadow-mastery",
+      "affliction/shadow-mastery",
+      "affliction/wrack"
      ]
     }
    ]

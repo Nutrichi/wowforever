@@ -3,7 +3,7 @@ title: "Warlock leveling guide for WoW Forever"
 metaTitle: "WoW Forever Warlock leveling guide: Affliction, Demonology and Destruction builds to 30"
 description: "How to level a Warlock in WoW Forever: the early build, three level 30 builds for Affliction, Demonology and Destruction, the rotation, key levels, the class quests for every demon, wands, professions, Life Tap and Fear."
 short: "Warlock leveling"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: en
 faq:
   - q: "What is the best spec to level a Warlock in WoW Forever?"
@@ -33,6 +33,7 @@ The Warlock is one of the most self-sufficient classes in WoW Forever. Your dama
 | Strength | Rarely drinks, a demon for every situation, Fear |
 | Weakness | Slow start, Soul Shards to farm, little to do against many monsters at once |
 | Talent order per level | [Warlock level build](/leveling/warlock/) |
+| Spec guides | [Affliction Warlock](/guides/affliction-warlock/), [Demonology Warlock](/guides/demonology-warlock/), [Destruction Warlock](/guides/destruction-warlock/) |
 | Builds to level 60 | After the launch on 4 November |
 
 ## Which spec to level with

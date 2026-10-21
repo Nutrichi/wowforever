@@ -3,7 +3,7 @@ title: "Guide de l'Affliction Warlock dans WoW Forever"
 metaTitle: "WoW Forever : Affliction Warlock, build drain tank, rotation, Life Tap et races"
 description: "L'Affliction Warlock dans WoW Forever : ce qui change, le build drain tank pour le niveau 30, la rotation, Life Tap et Drain Life, les démons, les stats, les races et les métiers."
 short: "Affliction Warlock"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: fr
 manual: true
 faq:
@@ -35,6 +35,7 @@ L'Affliction Warlock de WoW Forever pose des dégâts sur la durée et draine la
 | Points forts | Autonomie, dégâts en mouvement, utilité pour le groupe |
 | Points faibles | Démarrage lent, remplissage immobile, la vie comme ressource |
 | Talent par niveau | [Build de leveling du Warlock](/fr/leveling/warlock/) |
+| Autres spés | [Demonology Warlock](/fr/guides/demonology-warlock/), [Destruction Warlock](/fr/guides/destruction-warlock/) |
 
 ## Ce qui change pour Affliction
 
@@ -70,7 +71,7 @@ Ce build met 21 points dans le drain tanking. Avec 5 points dans <a class="wf-wh
 
 **Pandemic** n'augmente que les dégâts critiques. Avec peu de critique au niveau 30, il rapporte peu et peut attendre. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** inflige peu de dégâts, mais se rentabilise sur les longs combats et compte comme effet d'Affliction pour Soul Siphon.
 
-Le [build de leveling du Warlock](/fr/leveling/warlock/) de ce site prend une autre route jusqu'au niveau 35, avec Pandemic et Malevolence pour plus de critiques sur vos DoTs. Les deux fonctionnent. Le drain tank échange un peu de dégâts contre moins de pauses.
+Le [build de leveling du Warlock](/fr/leveling/warlock/) de ce site prend une autre route jusqu'au niveau 40, avec Pandemic et Malevolence pour plus de critiques sur vos DoTs. Les deux fonctionnent. Le drain tank échange un peu de dégâts contre moins de pauses.
 
 ## Rotation
 

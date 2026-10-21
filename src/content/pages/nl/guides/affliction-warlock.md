@@ -3,7 +3,7 @@ title: "Affliction Warlock in WoW Forever: de gids"
 metaTitle: "WoW Forever Affliction Warlock: drain tank-build, rotatie, Life Tap en races"
 description: "De Affliction Warlock in WoW Forever: wat er verandert, de drain tank-build voor level 30, de rotatie, Life Tap en Drain Life, demons, stats, races en tradeskills."
 short: "Affliction Warlock"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: nl
 manual: true
 faq:
@@ -35,6 +35,7 @@ De Affliction Warlock zet in WoW Forever schade over tijd op de vijand en draine
 | Sterk in | Zelfvoorziening, schade in beweging, nut voor de groep |
 | Zwak in | Trage start, stilstaande filler, health als bron |
 | Talent per level | [Levelbuild Warlock](/nl/leveling/warlock/) |
+| Andere specs | [Demonology Warlock](/nl/guides/demonology-warlock/), [Destruction Warlock](/nl/guides/destruction-warlock/) |
 
 ## Wat er verandert voor Affliction
 
@@ -70,7 +71,7 @@ Deze build zet 21 punten in op drain tanken. Met 5 punten in <a class="wf-wh wf-
 
 **Pandemic** verhoogt alleen de critical strike-schade. Met weinig crit op level 30 levert het weinig op, dus het kan wachten. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** doet weinig schade, maar betaalt zichzelf terug in lange gevechten en telt als Affliction-effect voor Soul Siphon.
 
-De [levelbuild van de Warlock](/nl/leveling/warlock/) op deze site kiest een andere weg tot level 35, met Pandemic en Malevolence voor meer crit op je DoTs. Beide werken. De drain tank ruilt wat schade in voor minder pauzes.
+De [levelbuild van de Warlock](/nl/leveling/warlock/) op deze site kiest een andere weg tot level 40, met Pandemic en Malevolence voor meer crit op je DoTs. Beide werken. De drain tank ruilt wat schade in voor minder pauzes.
 
 ## Rotatie
 

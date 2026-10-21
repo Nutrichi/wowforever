@@ -3,7 +3,7 @@ title: "Livellare un Warlock in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Warlock in WoW Forever: build Affliction, Demonology e Destruction fino al 30"
 description: "Come livellare un Warlock in WoW Forever: la prima build, tre build di livello 30 per Affliction, Demonology e Destruction, la rotazione, i livelli chiave, le missioni di classe per ogni demone, bacchette, professioni, Life Tap e Fear."
 short: "Leveling del Warlock"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: it
 manual: true
 faq:
@@ -34,6 +34,7 @@ Il Warlock è una delle classi più autosufficienti di WoW Forever. I tuoi danni
 | Punti di forza | Beve raramente, un demone per ogni situazione, Fear |
 | Punti deboli | Inizio lento, Soul Shard da raccogliere, poco contro molti mostri insieme |
 | Talento per livello | [Build di leveling del Warlock](/it/leveling/warlock/) |
+| Guide per spec | [Affliction Warlock](/it/guides/affliction-warlock/), [Demonology Warlock](/it/guides/demonology-warlock/), [Destruction Warlock](/it/guides/destruction-warlock/) |
 | Build fino al livello 60 | Dopo il lancio del 4 novembre |
 
 ## Con quale spec livellare

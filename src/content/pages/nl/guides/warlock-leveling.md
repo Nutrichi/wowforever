@@ -3,7 +3,7 @@ title: "Warlock levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Warlock levelgids: builds voor Affliction, Demonology en Destruction tot 30"
 description: "Zo level je een Warlock in WoW Forever: de eerste build, drie builds voor level 30 voor Affliction, Demonology en Destruction, de rotatie, de belangrijke levels, de classquests voor elke demon, wands, tradeskills, Life Tap en Fear."
 short: "Warlock levelen"
-updated: 2026-10-16
+updated: 2026-10-21
 lang: nl
 manual: true
 faq:
@@ -34,6 +34,7 @@ De Warlock is een van de meest zelfstandige classes in WoW Forever. Je schade bl
 | Sterk in | Drinkt zelden, een demon voor elke situatie, Fear |
 | Zwak in | Trage start, Soul Shards verzamelen, weinig tegen veel monsters tegelijk |
 | Talent per level | [Levelbuild voor de Warlock](/nl/leveling/warlock/) |
+| Gidsen per spec | [Affliction Warlock](/nl/guides/affliction-warlock/), [Demonology Warlock](/nl/guides/demonology-warlock/), [Destruction Warlock](/nl/guides/destruction-warlock/) |
 | Builds tot level 60 | Na de launch op 4 november |
 
 ## Met welke spec levelen
