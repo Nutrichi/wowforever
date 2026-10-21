@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever : date de sortie, bêta, feuille de route, Skyborne et éditions"
 description: "Tout ce que Blizzard a annoncé sur World of Warcraft: Forever : les dates, la feuille de route, les nouvelles zones, donjons et raids, les Skyborne, le système Legacy et les éditions."
 short: "WoW Forever"
-updated: 2026-10-20
+updated: 2026-10-21
 lang: fr
 manual: true
 faq:
@@ -118,7 +118,7 @@ Toutes les dates viennent de Blizzard. Les heures sont données en heure du Paci
 | 9 octobre 2026 | À la PAX Aus de Melbourne, Clay Stone présente en détail l’un des nouveaux donjons. En direct sur Twitch à 03.00 heure belge ([plus](/fr/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 octobre 2026 | Les codes de lancement Invite-A-Friend arrivent par e-mail. |
 | 21 octobre 2026 | Dernière journée complète de la bêta, selon Blizzard, et test de charge pour tous les joueurs, sans abonnement ni accès à la bêta, dès 19 h, heure belge. Il était d'abord prévu le 19 octobre ([plus](/fr/news/the-stress-test-moves-to-21-october/)). La feuille de route montrée à la BlizzCon indiquait le 22 octobre. |
-| Du 27 octobre au 3 novembre | Early Name Reservation : jusqu’à 3 personnages avec n’importe quelle édition. Premier arrivé, premier servi pour les noms. |
+| Du 27 octobre au 3 novembre | Early Name Reservation : jusqu’à 3 personnages avec n’importe quelle édition. Premier arrivé, premier servi pour les noms. L’Europe ouvre à 18 h, heure belge, et les 3 personnages comptent pour tous les rulesets ensemble ([plus](/fr/news/early-name-reservation-opens-on-27-october/)). |
 | 4 novembre 2026 | Lancement à 15 h, heure du Pacifique, soit minuit, heure belge, le 5 novembre. Les 30 jours de Game Time de l’Epic Pack et de la Collection sont ajoutés. |
 | Du 4 au 11 novembre 2026 | Semaine de lancement : les amis invités jouent sans abonnement. |
 | 9 décembre 2026 | Les raids ouvrent : Barrow Deeps (10 joueurs), Hyjal Summit (20) et Onyxia's Lair (40). |

@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
-updated: 2026-10-20
+updated: 2026-10-21
 lang: nl
 manual: true
 faq:
@@ -118,7 +118,7 @@ Alle datums komen van Blizzard. Tijden staan in Pacific time, met de Belgische t
 | 9 oktober 2026 | Op PAX Aus in Melbourne toont Clay Stone een van de nieuwe dungeons. Live op Twitch om 03.00 uur Belgische tijd ([meer](/nl/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 oktober 2026 | De Invite-A-Friend-lanceringscodes komen per mail. |
 | 21 oktober 2026 | De laatste volle dag van de beta, zegt Blizzard, en de stresstest voor elke speler, zonder abonnement of beta-toegang, vanaf 19.00 uur Belgische tijd. Die stond eerst op 19 oktober ([meer](/nl/news/the-stress-test-moves-to-21-october/)). De roadmap op BlizzCon toonde 22 oktober. |
-| 27 oktober tot 3 november | Early Name Reservation: tot 3 personages met elke upgrade-editie. Wie eerst komt, heeft de naam. |
+| 27 oktober tot 3 november | Early Name Reservation: tot 3 personages met elke upgrade-editie. Wie eerst komt, heeft de naam. Europa begint om 18.00 uur Belgische tijd, en de 3 personages tellen voor alle rulesets samen ([meer](/nl/news/early-name-reservation-opens-on-27-october/)). |
 | 4 november 2026 | Lancering om 15.00 uur Pacific time, 00.00 uur Belgische tijd op 5 november. De 30 dagen Game Time van het Epic Pack en de Collection worden toegevoegd. |
 | 4 tot 11 november 2026 | Lanceringsweek: uitgenodigde vrienden spelen zonder abonnement. |
 | 9 december 2026 | De raids openen: Barrow Deeps (10 spelers), Hyjal Summit (20) en Onyxia's Lair (40). |
