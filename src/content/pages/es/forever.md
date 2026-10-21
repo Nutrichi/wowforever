@@ -10,13 +10,13 @@ faq:
   - q: "¿Qué es World of Warcraft: Forever?"
     a: "El Classic+ de Blizzard: el World of Warcraft original que se queda en el nivel 60 para siempre y sigue recibiendo contenido en lugar de pasar a The Burning Crusade. Añade zonas nuevas y ampliadas, más de 1.000 misiones, 9 mazmorras, nuevas bandas para 10 y 20 jugadores, la raza Skyborne y clases renovadas. Blizzard lo anunció en la BlizzCon 2026."
   - q: "¿Cuándo sale WoW Forever?"
-    a: "El 4 de noviembre de 2026 a las 15:00, hora del Pacífico, que son las 00:00, hora belga, del 5 de noviembre. La beta va del 17 de septiembre al 21 de octubre de 2026, y la Early Name Reservation del 27 de octubre al 3 de noviembre."
+    a: "El 4 de noviembre de 2026 a las 15:00, hora del Pacífico, que son las 00:00, hora belga, del 5 de noviembre. La beta va del 17 de septiembre al 23 de octubre de 2026, y la Early Name Reservation del 27 de octubre al 3 de noviembre."
   - q: "¿WoW Forever cuesta algo aparte?"
     a: "No. Forever está incluido en la suscripción de World of Warcraft o en el Game Time, igual que WoW Classic. Las ediciones de pago son opcionales. El único contenido de pago es la raza Skyborne con Zephras Isle, que requiere el Skyborne Heroic Pack o una edición superior."
   - q: "¿Cuánto cuestan las ediciones?"
     a: "En Europa, el Skyborne Heroic Pack cuesta 29,99 euros, el Skyborne Epic Pack 59,99 euros y la Warcraft Forever Collection 79,99 euros, todos en la Battle.net Shop. La Collector's Edition física cuesta 150 euros en la Blizzard Gear Store."
   - q: "¿Cómo se entra en la beta?"
-    a: "El Skyborne Epic Pack, la Warcraft Forever Collection y la Collector's Edition dan acceso a la beta. Los jugadores también pueden apuntarse en la página oficial de World of Warcraft: Forever para optar a una invitación. La beta va del 17 de septiembre al 21 de octubre de 2026. Empieza con un tope de nivel 20 y lo sube a 30 más adelante, donde se queda."
+    a: "El Skyborne Epic Pack, la Warcraft Forever Collection y la Collector's Edition dan acceso a la beta. Los jugadores también pueden apuntarse en la página oficial de World of Warcraft: Forever para optar a una invitación. La beta va del 17 de septiembre al 23 de octubre de 2026. Empieza con un tope de nivel 20 y lo sube a 30 más adelante, donde se queda."
   - q: "¿Cuánto cuesta la raza Skyborne?"
     a: "La forma más barata es el Skyborne Heroic Pack por 29,99 euros. Incluye también la Early Name Reservation, la montura Cerulean Prideclaw, cosméticos, un juguete, decoración para la vivienda del World of Warcraft moderno y un código de lanzamiento Invite-A-Friend."
   - q: "¿Qué clases pueden jugar los Skyborne?"
@@ -70,7 +70,7 @@ World of Warcraft: Forever es el Classic+ que Blizzard anunció en la BlizzCon 2
 | Tema | Detalles |
 |---|---|
 | Lanzamiento | 4 de noviembre de 2026, 15:00, hora del Pacífico (00:00, hora belga, del 5 de noviembre) |
-| Beta | Del 17 de septiembre al 21 de octubre de 2026, tope de nivel 20, y 30 desde el 1 de octubre |
+| Beta | Del 17 de septiembre al 23 de octubre de 2026, tope de nivel 20, y 30 desde el 1 de octubre |
 | Nivel máximo | 60, para siempre |
 | En el lanzamiento | Más de 1.000 misiones nuevas, 9 mazmorras nuevas, zonas nuevas y la raza Skyborne |
 | Primeras bandas | 9 de diciembre de 2026 |
@@ -117,7 +117,8 @@ Todas las fechas son de Blizzard. Las horas van en hora del Pacífico, con la ho
 | 1 de octubre de 2026 | La beta se desconecta por mantenimiento y vuelve horas después con una nueva build y un tope de nivel 30 ([más](/es/news/the-beta-level-cap-rises-from-20-to-30/)). Con ella abren Razorfen Downs, Uldaman y la nueva Excavation Site. |
 | 9 de octubre de 2026 | En la PAX Aus de Melbourne, Clay Stone muestra a fondo una de las nuevas mazmorras. En directo en Twitch a las 03.00 hora belga ([más](/es/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 de octubre de 2026 | Llegan por correo los códigos de lanzamiento Invite-A-Friend. |
-| 21 de octubre de 2026 | Último día completo de la beta, según Blizzard, y prueba de estrés para todos los jugadores, sin suscripción ni acceso a la beta, desde las 19:00 hora belga. Primero estaba prevista el 19 de octubre ([más](/es/news/the-stress-test-moves-to-21-october/)). La hoja de ruta mostrada en la BlizzCon indicaba el 22 de octubre. |
+| 21 de octubre de 2026 | La beta se desconecta para la prueba de estrés para todos los jugadores, sin suscripción ni acceso a la beta, desde las 19:00 hora belga. Primero estaba prevista el 19 de octubre ([más](/es/news/the-stress-test-moves-to-21-october/)). Después la beta vuelve a abrir. |
+| 23 de octubre de 2026 | La beta cierra para siempre a las 10:00, hora del Pacífico, las 19:00, hora belga, dos días más tarde de lo previsto ([más](/es/news/the-beta-stays-open-until-23-october/)). La hoja de ruta mostrada en la BlizzCon indicaba el 22 de octubre. |
 | Del 27 de octubre al 3 de noviembre | Early Name Reservation: hasta 3 personajes con cualquier edición. Los nombres son para quien llegue primero. Europa abre a las 18:00, hora belga, y los 3 personajes cuentan para todos los rulesets juntos ([más](/es/news/early-name-reservation-opens-on-27-october/)). |
 | 4 de noviembre de 2026 | Lanzamiento a las 15:00, hora del Pacífico, las 00:00, hora belga, del 5 de noviembre. Se añaden los 30 días de Game Time del Epic Pack y la Collection. |
 | Del 4 al 11 de noviembre de 2026 | Semana de lanzamiento: los amigos invitados juegan sin suscripción. |
@@ -132,7 +133,7 @@ Blizzard resumió el primer año como «fast-paced production for a slow-paced g
 
 ### Otoño de 2026
 
-- Beta del 17 de septiembre al 21 de octubre, primero hasta el nivel 20 y después hasta el nivel 30.
+- Beta del 17 de septiembre al 23 de octubre, primero hasta el nivel 20 y después hasta el nivel 30.
 - Early Name Reservation y creación de personajes desde el 27 de octubre.
 - Lanzamiento el 4 de noviembre.
 
@@ -221,19 +222,19 @@ Los tramos de nivel vienen de Blizzard, que publicó la lista completa el 14 de 
 
 ### Barrow Deeps, 10 jugadores
 
-La primera banda para 10 jugadores, con tres entradas repartidas por el mundo, una de ellas en Mount Hyjal. Los Night Elves guardan allí prisioneros peligrosos, entre ellos «one particularly infamous character we probably aren't prepared to deal with yet», según Blizzard. Se abre el 9 de diciembre. Tiene ocho jefes y está bajo Mount Hyjal, según el vídeo de Blizzard del 23 de septiembre.
+La primera banda para 10 jugadores, la antigua prisión de Illidan Stormrage bajo Kalimdor, con ocho jefes. Tres entradas llevan dentro: por Mount Hyjal, Winterspring y Blackmaw Hold. Se abre el 9 de diciembre.
 
 ### Hyjal Summit, 20 jugadores
 
-El poder de la cumbre se está agotando. La banda se abre el 9 de diciembre, junto con Onyxia's Lair.
+El poder de la cumbre se está agotando. La banda tiene 13 jefes, empieza con un antiguo guardián y luego deja al grupo elegir entre varios caminos por la montaña. Se abre el 9 de diciembre, junto con Onyxia's Lair.
 
 ### Onyxia's Lair, 40 jugadores
 
-La banda original, que se abre el 9 de diciembre junto a las dos nuevas.
+La banda original, que se abre el 9 de diciembre junto a las dos nuevas. Onyxia lucha en tres fases con mucho daño de fuego, así que la Fire Resistance ayuda. Cada jugador necesita la Drakefire Amulet en las bolsas, de una cadena de attunement propia de cada facción ([cada paso](/es/news/blizzard-details-the-three-raids-of-9-december/)).
 
 Cada jefe de banda suelta un chase item, dijo Blizzard en una entrevista con The Sun. Además llegan misiones legendarias nuevas, conjuntos de tier nuevos y cientos de objetos nuevos, muchos con un efecto al usarlos. Los objetos existentes se ajustan para ser «a little stronger, a little more unique and a little more useful», dice Blizzard.
 
-Las raids con las que abre el juego no piden attunement, dijo Blizzard en una entrevista con But Why Tho?. Si las raids posteriores lo pedirán no se responde por ahora. Los tamaños de 10, 20 y 40 jugadores son fijos en vez de adaptarse, y la dificultad nunca sigue tu nivel ni tu equipo, así que un grupo puede superar una raid en equipo y en nivel.
+Las dos bandas nuevas no piden attunement; Onyxia's Lair mantiene su cadena de Classic, por personaje. Blizzard prevé por ahora un reinicio semanal para cada banda. Los tamaños de 10, 20 y 40 jugadores son fijos en vez de adaptarse, y la dificultad nunca sigue tu nivel ni tu equipo, así que un grupo puede superar una raid en equipo y en nivel.
 
 ## Los Skyborne
 
@@ -351,7 +352,7 @@ Forever no cuesta nada aparte de la suscripción de World of Warcraft o el Game 
 | Veteran Adventurer's Rucksack, transfiguración de espalda* | ✓ | ✓ | ✓ |
 | Juguete Shen'dorei Windwell* | ✓ | ✓ | ✓ |
 | Decoración de vivienda Skyborne, World of Warcraft moderno con Midnight | ✓ | ✓ | ✓ |
-| Acceso a la beta, del 17 de septiembre al 21 de octubre | ✕ | ✓ | ✓ |
+| Acceso a la beta, del 17 de septiembre al 23 de octubre | ✕ | ✓ | ✓ |
 | 30 días de Game Time, añadidos el 4 de noviembre | ✕ | ✓ | ✓ |
 | Montura terrestre Veteran Adventurer's Loyal Companion* | ✕ | ✓ | ✓ |
 | Conjunto de transfiguración Veteran Adventurer's Outdoor Wear* | ✕ | ✓ | ✓ |

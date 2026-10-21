@@ -10,13 +10,13 @@ faq:
   - q: "Wat is World of Warcraft: Forever?"
     a: "De Classic+ van Blizzard: het originele World of Warcraft dat voorgoed op level 60 blijft en nieuwe inhoud blijft krijgen in plaats van door te gaan naar The Burning Crusade. Er komen nieuwe en uitgebreide zones bij, meer dan 1.000 quests, 9 dungeons, nieuwe raids voor 10 en 20 spelers, het ras Skyborne en vernieuwde classes. Blizzard kondigde het aan op BlizzCon 2026."
   - q: "Wanneer verschijnt WoW Forever?"
-    a: "Op 4 november 2026 om 15.00 uur Pacific time, dat is 00.00 uur Belgische tijd op 5 november. De beta loopt van 17 september tot 21 oktober 2026, en Early Name Reservation van 27 oktober tot 3 november."
+    a: "Op 4 november 2026 om 15.00 uur Pacific time, dat is 00.00 uur Belgische tijd op 5 november. De beta loopt van 17 september tot 23 oktober 2026, en Early Name Reservation van 27 oktober tot 3 november."
   - q: "Kost WoW Forever extra?"
     a: "Nee. Forever zit in een abonnement op World of Warcraft of in Game Time, net als WoW Classic. De betaalde edities zijn optioneel. De enige inhoud achter een aankoop is het ras Skyborne met Zephras Isle, waarvoor je het Skyborne Heroic Pack of een hogere editie nodig hebt."
   - q: "Hoeveel kosten de edities?"
     a: "In Europa kost het Skyborne Heroic Pack 29,99 euro, het Skyborne Epic Pack 59,99 euro en de Warcraft Forever Collection 79,99 euro, allemaal in de Battle.net Shop. De fysieke Collector's Edition kost 150 euro in de Blizzard Gear Store."
   - q: "Hoe kom je in de beta?"
-    a: "Het Skyborne Epic Pack, de Warcraft Forever Collection en de Collector's Edition geven toegang tot de beta. Spelers kunnen zich ook aanmelden op de officiële pagina van World of Warcraft: Forever voor een kans op een uitnodiging. De beta loopt van 17 september tot 21 oktober 2026. Ze start met een levelgrens van 20 en verhoogt die later naar 30, waar ze blijft."
+    a: "Het Skyborne Epic Pack, de Warcraft Forever Collection en de Collector's Edition geven toegang tot de beta. Spelers kunnen zich ook aanmelden op de officiële pagina van World of Warcraft: Forever voor een kans op een uitnodiging. De beta loopt van 17 september tot 23 oktober 2026. Ze start met een levelgrens van 20 en verhoogt die later naar 30, waar ze blijft."
   - q: "Hoeveel kost het ras Skyborne?"
     a: "De goedkoopste manier is het Skyborne Heroic Pack voor 29,99 euro. Daar zitten ook Early Name Reservation, de mount Cerulean Prideclaw, cosmetica, een toy, housing-decor voor het moderne World of Warcraft en één Invite-A-Friend-lanceringscode bij."
   - q: "Welke classes kunnen de Skyborne spelen?"
@@ -70,7 +70,7 @@ World of Warcraft: Forever is de Classic+ die Blizzard op 12 september aankondig
 | Onderwerp | Details |
 |---|---|
 | Lancering | 4 november 2026, 15.00 uur Pacific time (00.00 uur Belgische tijd op 5 november) |
-| Beta | 17 september tot 21 oktober 2026, levelgrens 20, en 30 vanaf 1 oktober |
+| Beta | 17 september tot 23 oktober 2026, levelgrens 20, en 30 vanaf 1 oktober |
 | Maximaal level | 60, voorgoed |
 | Bij de lancering | Meer dan 1.000 nieuwe quests, 9 nieuwe dungeons, nieuwe zones en het ras Skyborne |
 | Eerste raids | 9 december 2026 |
@@ -117,7 +117,8 @@ Alle datums komen van Blizzard. Tijden staan in Pacific time, met de Belgische t
 | 1 oktober 2026 | De beta gaat offline voor onderhoud en komt uren later terug met een nieuwe build en een levelgrens van 30 ([meer](/nl/news/the-beta-level-cap-rises-from-20-to-30/)). Razorfen Downs, Uldaman en de nieuwe Excavation Site gaan ermee open. |
 | 9 oktober 2026 | Op PAX Aus in Melbourne toont Clay Stone een van de nieuwe dungeons. Live op Twitch om 03.00 uur Belgische tijd ([meer](/nl/news/a-new-dungeon-gets-a-deep-dive-at-pax-aus/)). |
 | 20 oktober 2026 | De Invite-A-Friend-lanceringscodes komen per mail. |
-| 21 oktober 2026 | De laatste volle dag van de beta, zegt Blizzard, en de stresstest voor elke speler, zonder abonnement of beta-toegang, vanaf 19.00 uur Belgische tijd. Die stond eerst op 19 oktober ([meer](/nl/news/the-stress-test-moves-to-21-october/)). De roadmap op BlizzCon toonde 22 oktober. |
+| 21 oktober 2026 | De beta gaat offline voor de stresstest voor elke speler, zonder abonnement of beta-toegang, vanaf 19.00 uur Belgische tijd. Die stond eerst op 19 oktober ([meer](/nl/news/the-stress-test-moves-to-21-october/)). Daarna gaat de beta weer open. |
+| 23 oktober 2026 | De beta sluit voorgoed om 10.00 uur Pacific time, 19.00 uur Belgische tijd, twee dagen later dan gepland ([meer](/nl/news/the-beta-stays-open-until-23-october/)). De roadmap op BlizzCon toonde 22 oktober. |
 | 27 oktober tot 3 november | Early Name Reservation: tot 3 personages met elke upgrade-editie. Wie eerst komt, heeft de naam. Europa begint om 18.00 uur Belgische tijd, en de 3 personages tellen voor alle rulesets samen ([meer](/nl/news/early-name-reservation-opens-on-27-october/)). |
 | 4 november 2026 | Lancering om 15.00 uur Pacific time, 00.00 uur Belgische tijd op 5 november. De 30 dagen Game Time van het Epic Pack en de Collection worden toegevoegd. |
 | 4 tot 11 november 2026 | Lanceringsweek: uitgenodigde vrienden spelen zonder abonnement. |
@@ -132,7 +133,7 @@ Blizzard vatte het eerste jaar samen als "fast-paced production for a slow-paced
 
 ### Herfst 2026
 
-- Beta van 17 september tot 21 oktober, eerst tot level 20 en later tot level 30.
+- Beta van 17 september tot 23 oktober, eerst tot level 20 en later tot level 30.
 - Early Name Reservation en personages maken vanaf 27 oktober.
 - Lancering op 4 november.
 
@@ -221,19 +222,19 @@ De levelbereiken komen van Blizzard, dat de volledige lijst op 14 september 2026
 
 ### Barrow Deeps, 10 spelers
 
-De eerste raid voor 10 spelers, met drie ingangen verspreid over de wereld, waarvan een op Mount Hyjal. De Night Elves houden er gevaarlijke gevangenen vast, onder wie "one particularly infamous character we probably aren't prepared to deal with yet", aldus Blizzard. De raid opent op 9 december. Hij telt acht bazen en ligt onder Mount Hyjal, volgens de video van Blizzard van 23 september.
+De eerste raid voor 10 spelers, de oude gevangenis van Illidan Stormrage onder Kalimdor, met acht bazen. Drie ingangen leiden naar binnen: via Mount Hyjal, Winterspring en Blackmaw Hold. De raid opent op 9 december.
 
 ### Hyjal Summit, 20 spelers
 
-De kracht van de top wordt weggezogen. De raid opent op 9 december, samen met Onyxia's Lair.
+De kracht van de top wordt weggezogen. De raid telt 13 bazen, begint met een oude bewaker en laat de groep daarna kiezen tussen meerdere wegen over de berg. Hij opent op 9 december, samen met Onyxia's Lair.
 
 ### Onyxia's Lair, 40 spelers
 
-De originele raid, die op 9 december samen met de twee nieuwe opent.
+De originele raid, die op 9 december samen met de twee nieuwe opent. Onyxia vecht in drie fases met zware vuurschade, dus fire resistance helpt. Elke speler heeft de Drakefire Amulet in zijn tassen nodig, uit een aparte attunement-reeks per factie ([elke stap](/nl/news/blizzard-details-the-three-raids-of-9-december/)).
 
 Elke raidboss laat een chase item vallen, zei Blizzard in een interview met The Sun. Daarbovenop komen nieuwe legendary quests, nieuwe tier sets en honderden nieuwe items, veel met een effect bij gebruik. Bestaande items worden bijgesteld om "a little stronger, a little more unique and a little more useful" te zijn, zegt Blizzard.
 
-De raids waarmee het spel opent, vragen geen attunement, zei Blizzard in een interview met But Why Tho?. Of latere raids dat wel doen, wordt voorlopig niet beantwoord. De maten van 10, 20 en 40 spelers liggen vast in plaats van mee te schalen, en de moeilijkheid volgt nooit je level of je gear, dus een groep kan een raid voorbijstreven in gear en in level.
+De twee nieuwe raids vragen geen attunement; Onyxia's Lair houdt zijn reeks uit Classic, per personage. Blizzard plant nu een wekelijkse reset voor elke raid. De maten van 10, 20 en 40 spelers liggen vast in plaats van mee te schalen, en de moeilijkheid volgt nooit je level of je gear, dus een groep kan een raid voorbijstreven in gear en in level.
 
 ## De Skyborne
 
@@ -351,7 +352,7 @@ Forever kost niets extra bovenop een abonnement op World of Warcraft of Game Tim
 | Veteran Adventurer's Rucksack, transmog voor de rug* | ✓ | ✓ | ✓ |
 | Toy Shen'dorei Windwell* | ✓ | ✓ | ✓ |
 | Housing-decor van de Skyborne, modern World of Warcraft met Midnight | ✓ | ✓ | ✓ |
-| Toegang tot de beta, 17 september tot 21 oktober | ✕ | ✓ | ✓ |
+| Toegang tot de beta, 17 september tot 23 oktober | ✕ | ✓ | ✓ |
 | 30 dagen Game Time, toegevoegd op 4 november | ✕ | ✓ | ✓ |
 | Grondmount Veteran Adventurer's Loyal Companion* | ✕ | ✓ | ✓ |
 | Transmogset Veteran Adventurer's Outdoor Wear* | ✕ | ✓ | ✓ |
