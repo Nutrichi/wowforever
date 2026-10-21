@@ -3,7 +3,7 @@ title: "Journey and Zygor compared"
 metaTitle: "Journey vs Zygor: leveling addons for WoW Forever compared"
 description: "Journey and Zygor side by side for WoW Forever: a one-time price against a subscription, what is free, what each covers at launch and which one fits you."
 short: "Journey vs Zygor"
-updated: 2026-10-20
+updated: 2026-10-21
 lang: en
 faq:
   - q: "Which is better for WoW Forever, Journey or Zygor?"
@@ -33,13 +33,13 @@ Journey and Zygor both guide you from 1 to 60 in World of Warcraft: Forever, wit
 | Free part | The addon and levels 1 to 30 | A free trial |
 | Focus | A fast leveling route | Leveling plus dungeons, gear, talents, professions and travel |
 | Dungeons | Dungeon quests later, as an option | Guides for the nine new dungeons |
-| Made by | Speedrunners | The Zygor team, around since the original game |
+| Made by | TomCat (addon) and speedrunners, on Joana's routes | The Zygor team, around since the original game |
 
 Prices are in dollars, plus tax.
 
 ## What Journey offers
 
-The free part already has Forever's new quests, the Skyborne start on Zephras Isle and the class quests of the new race and class combinations. On 4 November, levels 30 to 60 start on the classic route; about a week later Forever's new quests are added, around five levels every four to five days. A purchase covers every character on one Battle.net account. More in [the post about Journey](/news/leveling-addon-journey-is-free-up-to-level-30/).
+The free part already has Forever's new quests, the Skyborne start on Zephras Isle and the class quests of the new race and class combinations. On 4 November, levels 30 to 60 start on the classic route; about a week later Forever's new quests are added, around five levels every four to five days. A purchase covers every character on one Battle.net account. More in [the post about Journey](/news/leveling-addon-journey-is-free-up-to-level-30/). Journey builds its Forever routes on Joana's original 1 to 60 routes; how it relates to Joana's Guides is in [Journey and Joana's Guides compared](/compare/journey-vs-joana/).
 
 ## What Zygor offers
 

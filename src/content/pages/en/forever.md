@@ -189,7 +189,7 @@ The experience curve does not change: a character needs the same amount to reach
 
 Dungeons work differently. Experience from monsters inside a dungeon goes down and experience from the dungeon quests goes up sharply. A first run through a dungeon pays off, a repeat run much less. Blizzard wants players out in the world instead of grinding the same dungeon. Dungeon quests later lost half of that extra experience, because testers levelled too fast.
 
-Overall it evens out. From level 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/). The next beta update also hands out fewer blue quest rewards in dungeons, so that the step from white to green to blue feels as it did in Classic, says Tim Jones.
+Overall it evens out. From level 1 to 20 takes 20.5 hours on average in Forever against 20.4 in Classic Era, says Josh Greenfield in the [first developer podcast](/news/a-first-developer-podcast-promises-fewer-blues/). The next beta update also hands out fewer blue quest rewards in dungeons, so that the step from white to green to blue feels as it did in Classic, says Tim Jones. Which leveling addon fits which player is in [the leveling addon comparison](/compare/leveling-addons-forever/).
 
 There is no WoW Token and no boost, said Associate Production Director Clay Stone in an interview with Destin. The catch-up system stays "play the game". Gold bought for real money costs the gold, a suspension or the account, and the game will show a warning in every trade with a stranger, Blizzard said on 1 October.
 

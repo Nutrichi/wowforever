@@ -3,7 +3,7 @@ title: "RestedXP und Journey im Vergleich"
 metaTitle: "RestedXP vs Journey: welches Leveling-Addon für WoW Forever"
 description: "RestedXP und Journey nebeneinander für WoW Forever: der Preis, was kostenlos ist, wie weit jede Route zum Start reicht, die Rabattcodes und welches zu dir passt."
 short: "RestedXP vs Journey"
-updated: 2026-10-20
+updated: 2026-10-21
 lang: de
 manual: true
 faq:
@@ -30,8 +30,8 @@ RestedXP und Journey sind beide Leveling-Addons mit Routen von Speedrunnern. Bei
 | Guide für Forever | Jetzt erhältlich | Stufe 1 bis 30 jetzt kostenlos, 30 bis 60 ab 4. November |
 | Preis | 30 Dollar für eine Fraktion, 45 für beide | 25 und 30 Dollar bis 4. Dezember, danach 30 und 45 |
 | Rabatt | 10 % mit unserem Link | 10 % mit dem Code NUTRI |
-| Kostenloser Teil | Das Addon | Das Addon und Stufe 1 bis 30 |
-| Gemacht von | Speedrunnern | Speedrunnern |
+| Kostenloser Teil | Das Addon und Stufe 1 bis 20 | Das Addon und Stufe 1 bis 30 |
+| Gemacht von | Speedrunnern | TomCat (Addon) und Speedrunnern, auf Joanas Routen |
 | Andere Versionen | Classic, Hardcore, TBC, WotLK und mehr | Nur Forever |
 | Geplant | Für Forever nichts angekündigt | Routen für Duo, Gruppe und Hardcore |
 
@@ -43,11 +43,11 @@ RestedXP verkauft seinen Guide für Forever pro Fraktion. Das kompakte Fenster z
 
 ## Was Journey bietet
 
-Der kostenlose Teil hat schon die neuen Quests von Forever, den Skyborne-Start auf Zephras Isle und die Klassenquests der neuen Kombinationen aus Volk und Klasse. Schwere Quests lassen sich überspringen, und die Route passt sich an, wenn eine Quest nicht verfügbar ist. Am 4. November beginnen Stufe 30 bis 60 auf der klassischen Route; etwa eine Woche später kommen die neuen Quests von Forever dazu, rund fünf Stufen alle vier bis fünf Tage. Ein Kauf gilt für jeden Charakter auf einem Battle.net-Konto, und eine Rückerstattung ist innerhalb von 14 Tagen möglich. Mehr im [Beitrag über Journey](/de/news/leveling-addon-journey-is-free-up-to-level-30/).
+Der kostenlose Teil hat schon die neuen Quests von Forever, den Skyborne-Start auf Zephras Isle und die Klassenquests der neuen Kombinationen aus Volk und Klasse. Schwere Quests lassen sich überspringen, und die Route passt sich an, wenn eine Quest nicht verfügbar ist. Am 4. November beginnen Stufe 30 bis 60 auf der klassischen Route; etwa eine Woche später kommen die neuen Quests von Forever dazu, rund fünf Stufen alle vier bis fünf Tage. Ein Kauf gilt für jeden Charakter auf einem Battle.net-Konto, und eine Rückerstattung ist innerhalb von 14 Tagen möglich. Mehr im [Beitrag über Journey](/de/news/leveling-addon-journey-is-free-up-to-level-30/). Journey baut seine Routen für Forever auf Joanas ursprünglichen Routen von 1 bis 60; wie es mit Joana's Guides zusammenhängt, steht in [Journey und Joana's Guides im Vergleich](/de/compare/journey-vs-joana/).
 
 ## Welches passt zu wem
 
-- **Du willst erst ausprobieren.** Journey ist bis 30 kostenlos, du siehst die Route also zuerst.
+- **Du willst erst ausprobieren.** RestedXP ist bis 20 und Journey bis 30 kostenlos, du siehst die Route also zuerst.
 - **Du kaufst vor dem 4. Dezember.** Journey ist 5 Dollar günstiger für eine Fraktion und 15 für beide.
 - **Du spielst auch andere Versionen von WoW Classic.** RestedXP deckt sie mit demselben Addon ab.
 - **Du willst die ganze Route bis 60 am ersten Tag fertig.** Das hat noch keines der beiden bestätigt. Journey sagt, dass die Route von 30 bis 60 auf dem klassischen Weg beginnt und die neuen Quests in den Wochen danach bekommt.

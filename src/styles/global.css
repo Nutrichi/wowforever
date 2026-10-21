@@ -539,6 +539,10 @@ a.wf-wh.wf-plain:hover { text-decoration-style: solid; }
 /* Een tweede partnerblok (Zygor) sluit aan op het eerste. */
 .wf-rxpblock--next { margin-top: 12px; }
 
+/* De regel naar de vergelijking van de level-addons, onder de partnerblokken (21 oktober 2026). */
+.wf-comparelink { margin-top: 12px; font-size: 14.5px; color: var(--wf-ink-soft); }
+.wf-comparelink a { color: var(--wf-accent); font-weight: 600; }
+
 .wf-rxpblock p { flex: 1 1 170px; font-size: 14.5px; color: var(--wf-ink-soft); }
 
 .wf-rxpblock__button {

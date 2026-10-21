@@ -26,6 +26,7 @@ import GuidesHub from '../guides/GuidesHub.astro';
 import ForeverTimeline from './ForeverTimeline.astro';
 import DungeonBand from '../guides/DungeonBand.astro';
 import PartnerBlock from '../PartnerBlock.astro';
+import CompareLink from '../CompareLink.astro';
 // Advertenties geparkeerd (Nutri, 20 oktober 2026); zie config/ads.ts.
 // import AdPlacer from '../AdPlacer.astro';
 import DungeonPage from '../guides/DungeonPage.astro';
@@ -243,6 +244,11 @@ const jsonLd = {
 
     {zygorPages.includes(page.key) && (
       <PartnerBlock locale={locale} partner="zygor" next />
+    )}
+
+    {/* Link naar de vergelijking van de level-addons onder de partnerblokken (21 oktober 2026). */}
+    {(inGroup || restedxpPages.includes(page.key)) && page.key !== 'compare/leveling-addons-forever' && (
+      <CompareLink locale={locale} />
     )}
 
     {/*

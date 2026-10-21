@@ -39,6 +39,7 @@ Jede Klasse hat außerdem pro Erweiterung einen eigenen Guide unter [Klassen](/d
 - [Leveling-Addons für WoW Forever im Vergleich](/de/compare/leveling-addons-forever/)
 - [RestedXP und Journey im Vergleich](/de/compare/restedxp-vs-journey/)
 - [Journey und Zygor im Vergleich](/de/compare/journey-vs-zygor/)
+- [Journey und Joana's Guides im Vergleich](/de/compare/journey-vs-joana/)
 - [RestedXP und Zygor im Vergleich](/de/compare/restedxp-vs-zygor/)
 - [Kostenlose und kostenpflichtige Levelhilfe im Vergleich](/de/compare/free-vs-premium/)
 - [Dungeons oder Questen beim Leveln](/de/compare/dungeon-vs-questing/)

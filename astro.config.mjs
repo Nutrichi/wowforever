@@ -53,15 +53,16 @@ export default defineConfig({
   redirects: {
     /*
      * De vergelijking met Joana is weg (19 oktober 2026, Nutri: "Remove Joana right now from
-     * the whole website because Joana does not have a guide for WoW Forever"). Tot er een
-     * vergelijking met Journey is, gaat het oude adres naar RestedXP tegen Zygor.
+     * the whole website because Joana does not have a guide for WoW Forever"). Sinds 21 oktober
+     * 2026 is er Journey tegen Joana's Guides (Nutri, na uitleg van TomCat), dus het oude adres
+     * gaat daarheen.
      */
-    '/compare/restedxp-vs-joana': '/compare/restedxp-vs-zygor',
-    '/nl/compare/restedxp-vs-joana': '/nl/compare/restedxp-vs-zygor',
-    '/fr/compare/restedxp-vs-joana': '/fr/compare/restedxp-vs-zygor',
-    '/es/compare/restedxp-vs-joana': '/es/compare/restedxp-vs-zygor',
-    '/it/compare/restedxp-vs-joana': '/it/compare/restedxp-vs-zygor',
-    '/de/compare/restedxp-vs-joana': '/de/compare/restedxp-vs-zygor',
+    '/compare/restedxp-vs-joana': '/compare/journey-vs-joana',
+    '/nl/compare/restedxp-vs-joana': '/nl/compare/journey-vs-joana',
+    '/fr/compare/restedxp-vs-joana': '/fr/compare/journey-vs-joana',
+    '/es/compare/restedxp-vs-joana': '/es/compare/journey-vs-joana',
+    '/it/compare/restedxp-vs-joana': '/it/compare/journey-vs-joana',
+    '/de/compare/restedxp-vs-joana': '/de/compare/journey-vs-joana',
     // Scarlet Monastery in vier vleugels (19 oktober 2026): de oude pagina stuurt door naar de Graveyard.
     '/guides/dungeons/scarlet-monastery': '/guides/dungeons/scarlet-monastery-graveyard',
     '/nl/guides/dungeons/scarlet-monastery': '/nl/guides/dungeons/scarlet-monastery-graveyard',

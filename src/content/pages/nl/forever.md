@@ -190,7 +190,7 @@ De ervaringscurve verandert niet: een personage heeft evenveel nodig voor level 
 
 Dungeons werken anders. Ervaring uit monsters in een dungeon gaat omlaag, ervaring uit de dungeonquests gaat fors omhoog. Een eerste run door een dungeon loont, een herhaling veel minder. Blizzard wil spelers in de wereld in plaats van in dezelfde dungeon. Later verloren dungeonquests de helft van die extra experience, omdat testers te snel levelden.
 
-Per saldo komt het op hetzelfde uit. Van level 1 naar 20 duurt gemiddeld 20,5 uur in Forever tegenover 20,4 in Classic Era, zegt Josh Greenfield in de [eerste podcast van de ontwikkelaars](/nl/news/a-first-developer-podcast-promises-fewer-blues/). De volgende update van de beta geeft ook minder blauwe questbeloningen in dungeons, zodat de stap van wit naar groen naar blauw aanvoelt zoals in Classic, zegt Tim Jones.
+Per saldo komt het op hetzelfde uit. Van level 1 naar 20 duurt gemiddeld 20,5 uur in Forever tegenover 20,4 in Classic Era, zegt Josh Greenfield in de [eerste podcast van de ontwikkelaars](/nl/news/a-first-developer-podcast-promises-fewer-blues/). De volgende update van de beta geeft ook minder blauwe questbeloningen in dungeons, zodat de stap van wit naar groen naar blauw aanvoelt zoals in Classic, zegt Tim Jones. Welke level-addon bij welke speler past, staat in [de vergelijking van de level-addons](/nl/compare/leveling-addons-forever/).
 
 Er komt geen WoW Token en geen boost, zei Associate Production Director Clay Stone in een interview met Destin. Het inhaalsysteem blijft "speel het spel". Goud dat voor echt geld gekocht is, kost het goud, een schorsing of het account, en het spel toont een waarschuwing bij elke handel met een onbekende, zei Blizzard op 1 oktober.
 

@@ -226,7 +226,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
   "en": {
     "compare/restedxp-vs-journey": "RestedXP and Journey side by side: price, the free part, discount codes and how far each route goes at launch",
     "compare/journey-vs-zygor": "Journey and Zygor side by side: a one-time price against a subscription, and what each one covers",
-    "compare/leveling-addons-forever": "RestedXP, Journey and Zygor side by side for WoW Forever: prices, what each covers at launch and which one fits you",
+    "compare/journey-vs-joana": "Journey and Joana's Guides side by side: how the two are linked, the same routes at launch and how they differ",
+    "compare/leveling-addons-forever": "RestedXP, Journey, Joana's Guides and Zygor side by side for WoW Forever: prices, what each covers at launch and which one fits you",
     "compare/restedxp-vs-zygor": "The two best known leveling addons compared: routes, interface, extras and payment",
     "compare/free-vs-premium": "Free help like Questie and Guidelime against paid route addons, and when each one is enough",
     "compare/dungeon-vs-questing": "Leveling through dungeons or through quests in WoW Forever, and what the new dungeon experience changes",
@@ -293,7 +294,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
   "nl": {
     "compare/restedxp-vs-journey": "RestedXP en Journey naast elkaar: prijs, het gratis deel, kortingscodes en hoe ver elke route gaat bij de launch",
     "compare/journey-vs-zygor": "Journey en Zygor naast elkaar: een eenmalige prijs tegenover een abonnement, en wat elk dekt",
-    "compare/leveling-addons-forever": "RestedXP, Journey en Zygor naast elkaar voor WoW Forever: prijzen, wat elk dekt bij de launch en welke bij jou past",
+    "compare/journey-vs-joana": "Journey en Joana's Guides naast elkaar: hoe de twee verbonden zijn, dezelfde routes bij de launch en waarin ze verschillen",
+    "compare/leveling-addons-forever": "RestedXP, Journey, Joana's Guides en Zygor naast elkaar voor WoW Forever: prijzen, wat elk dekt bij de launch en welke bij jou past",
     "compare/restedxp-vs-zygor": "De twee bekendste level-addons vergeleken: routes, venster, extra's en betaling",
     "compare/free-vs-premium": "Gratis hulp zoals Questie en Guidelime tegenover betaalde route-addons, en wanneer elk volstaat",
     "compare/dungeon-vs-questing": "Levelen via dungeons of via quests in WoW Forever, en wat de nieuwe dungeonervaring verandert",
@@ -360,7 +362,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
   "fr": {
     "compare/restedxp-vs-journey": "RestedXP et Journey côte à côte : prix, partie gratuite, codes de réduction et jusqu’où va chaque route au lancement",
     "compare/journey-vs-zygor": "Journey et Zygor côte à côte : un prix unique face à un abonnement, et ce que chacun couvre",
-    "compare/leveling-addons-forever": "RestedXP, Journey et Zygor côte à côte pour WoW Forever : prix, ce que chacun couvre au lancement et lequel vous convient",
+    "compare/journey-vs-joana": "Journey et Joana's Guides côte à côte : le lien entre les deux, les mêmes routes au lancement et leurs différences",
+    "compare/leveling-addons-forever": "RestedXP, Journey, Joana's Guides et Zygor côte à côte pour WoW Forever : prix, ce que chacun couvre au lancement et lequel vous convient",
     "compare/restedxp-vs-zygor": "Les deux addons de leveling les plus connus comparés : routes, interface, extras et paiement",
     "compare/free-vs-premium": "L’aide gratuite comme Questie et Guidelime face aux addons de route payants, et quand chacun suffit",
     "compare/dungeon-vs-questing": "Monter de niveau par les donjons ou par les quêtes dans WoW Forever, et ce que change la nouvelle expérience en donjon",
@@ -427,7 +430,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
   "es": {
     "compare/restedxp-vs-journey": "RestedXP y Journey lado a lado: precio, la parte gratis, códigos de descuento y hasta dónde llega cada ruta en el lanzamiento",
     "compare/journey-vs-zygor": "Journey y Zygor lado a lado: un precio único frente a una suscripción, y lo que cubre cada uno",
-    "compare/leveling-addons-forever": "RestedXP, Journey y Zygor lado a lado para WoW Forever: precios, lo que cubre cada uno en el lanzamiento y cuál te conviene",
+    "compare/journey-vs-joana": "Journey y Joana's Guides lado a lado: cómo están unidos, las mismas rutas en el lanzamiento y en qué se diferencian",
+    "compare/leveling-addons-forever": "RestedXP, Journey, Joana's Guides y Zygor lado a lado para WoW Forever: precios, lo que cubre cada uno en el lanzamiento y cuál te conviene",
     "compare/restedxp-vs-zygor": "Los dos addons para subir de nivel más conocidos, comparados: rutas, interfaz, extras y pago",
     "compare/free-vs-premium": "La ayuda gratis como Questie y Guidelime frente a los addons de rutas de pago, y cuándo basta cada uno",
     "compare/dungeon-vs-questing": "Subir de nivel con mazmorras o con misiones en WoW Forever, y lo que cambia la nueva experiencia de mazmorras",
@@ -494,7 +498,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
   "it": {
     "compare/restedxp-vs-journey": "RestedXP e Journey fianco a fianco: prezzo, la parte gratuita, codici sconto e fin dove arriva ogni percorso al lancio",
     "compare/journey-vs-zygor": "Journey e Zygor fianco a fianco: un prezzo una tantum contro un abbonamento, e cosa copre ognuno",
-    "compare/leveling-addons-forever": "RestedXP, Journey e Zygor fianco a fianco per WoW Forever: prezzi, cosa copre ognuno al lancio e quale fa per te",
+    "compare/journey-vs-joana": "Journey e Joana's Guides fianco a fianco: come sono legati, gli stessi percorsi al lancio e in cosa differiscono",
+    "compare/leveling-addons-forever": "RestedXP, Journey, Joana's Guides e Zygor fianco a fianco per WoW Forever: prezzi, cosa copre ognuno al lancio e quale fa per te",
     "compare/restedxp-vs-zygor": "I due addon di livellamento più noti a confronto: percorsi, interfaccia, extra e pagamento",
     "compare/free-vs-premium": "L'aiuto gratuito come Questie e Guidelime contro gli addon di percorso a pagamento, e quando basta ciascuno",
     "compare/dungeon-vs-questing": "Livellare con i dungeon o con le missioni in WoW Forever, e cosa cambia la nuova esperienza dei dungeon",
@@ -561,7 +566,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
   "de": {
     "compare/restedxp-vs-journey": "RestedXP und Journey nebeneinander: Preis, der kostenlose Teil, Rabattcodes und wie weit jede Route zum Start reicht",
     "compare/journey-vs-zygor": "Journey und Zygor nebeneinander: ein einmaliger Preis gegen ein Abo, und was jedes abdeckt",
-    "compare/leveling-addons-forever": "RestedXP, Journey und Zygor nebeneinander für WoW Forever: Preise, was jedes zum Start abdeckt und welches zu dir passt",
+    "compare/journey-vs-joana": "Journey und Joana's Guides nebeneinander: wie beide zusammenhängen, dieselben Routen zum Start und worin sie sich unterscheiden",
+    "compare/leveling-addons-forever": "RestedXP, Journey, Joana's Guides und Zygor nebeneinander für WoW Forever: Preise, was jedes zum Start abdeckt und welches zu dir passt",
     "compare/restedxp-vs-zygor": "Die zwei bekanntesten Leveling-Addons im Vergleich: Routen, Oberfläche, Extras und Bezahlung",
     "compare/free-vs-premium": "Kostenlose Hilfe wie Questie und Guidelime gegen bezahlte Routen-Addons, und wann was reicht",
     "compare/dungeon-vs-questing": "Leveln über Dungeons oder über Quests in WoW Forever, und was die neue Dungeonerfahrung ändert",

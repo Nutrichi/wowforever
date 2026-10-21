@@ -190,7 +190,7 @@ Die Erfahrungskurve ändert sich nicht: Ein Charakter braucht für Stufe 60 gena
 
 Dungeons funktionieren anders. Die Erfahrung aus Monstern in einem Dungeon sinkt, die aus den Dungeonquests steigt deutlich. Ein erster Durchgang lohnt sich, eine Wiederholung viel weniger. Blizzard will Spieler draußen in der Welt statt im selben Dungeon. Später verloren Dungeonquests die Hälfte dieser zusätzlichen Erfahrung, weil die Tester zu schnell levelten.
 
-Unterm Strich gleicht es sich aus. Von Level 1 bis 20 braucht man im Schnitt 20,5 Stunden in Forever gegenüber 20,4 in Classic Era, sagt Josh Greenfield im [ersten Podcast der Entwickler](/de/news/a-first-developer-podcast-promises-fewer-blues/). Das nächste Update der Beta gibt in Dungeons außerdem weniger blaue Questbelohnungen, damit sich der Schritt von Weiß über Grün zu Blau wie in Classic anfühlt, sagt Tim Jones.
+Unterm Strich gleicht es sich aus. Von Level 1 bis 20 braucht man im Schnitt 20,5 Stunden in Forever gegenüber 20,4 in Classic Era, sagt Josh Greenfield im [ersten Podcast der Entwickler](/de/news/a-first-developer-podcast-promises-fewer-blues/). Das nächste Update der Beta gibt in Dungeons außerdem weniger blaue Questbelohnungen, damit sich der Schritt von Weiß über Grün zu Blau wie in Classic anfühlt, sagt Tim Jones. Welches Leveling-Addon zu wem passt, steht im [Vergleich der Leveling-Addons](/de/compare/leveling-addons-forever/).
 
 Es gibt weder einen WoW Token noch einen Boost, sagte Associate Production Director Clay Stone in einem Interview mit Destin. Das Aufholsystem bleibt „das Spiel spielen“. Für echtes Geld gekauftes Gold kostet das Gold, eine Sperre oder den Account, und das Spiel zeigt bei jedem Handel mit Fremden eine Warnung, sagte Blizzard am 1. Oktober.
 

@@ -28,6 +28,7 @@ import { publisherJsonLd } from '../lib/structured-data';
 import { podcastSeries } from '../lib/podcast';
 import { guideT } from '../i18n/guides';
 import PartnerBlock from '../components/PartnerBlock.astro';
+import CompareLink from '../components/CompareLink.astro';
 // Advertenties geparkeerd (Nutri, 20 oktober 2026); zie config/ads.ts.
 // import AdPlacer from '../components/AdPlacer.astro';
 import { isPartnerLink } from '../config/site';
@@ -143,6 +144,7 @@ const jsonLd = {
       {partners.map((key, index) => (
         <PartnerBlock locale={locale} partner={key} next={index > 0} />
       ))}
+      {partners.length > 0 && <CompareLink locale={locale} />}
 
       <div class="wf-post__like" data-pagefind-ignore>
         <LikeButton postId={postId} locale={locale} variant="post" />

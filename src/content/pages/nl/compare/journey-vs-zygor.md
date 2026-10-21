@@ -3,7 +3,7 @@ title: "Journey en Zygor vergeleken"
 metaTitle: "Journey vs Zygor: level-addons voor WoW Forever vergeleken"
 description: "Journey en Zygor naast elkaar voor WoW Forever: een eenmalige prijs tegenover een abonnement, wat gratis is, wat elk dekt bij de launch en welke bij jou past."
 short: "Journey vs Zygor"
-updated: 2026-10-20
+updated: 2026-10-21
 lang: nl
 manual: true
 faq:
@@ -34,13 +34,13 @@ Journey en Zygor leiden je allebei van 1 naar 60 in World of Warcraft: Forever, 
 | Gratis deel | De addon en level 1 tot 30 | Een gratis proefperiode |
 | Focus | Een snelle levelroute | Leveling plus dungeons, gear, talenten, beroepen en reizen |
 | Dungeons | Dungeonquests later, als optie | Gidsen voor de negen nieuwe dungeons |
-| Gemaakt door | Speedrunners | Het team van Zygor, al bezig sinds het originele spel |
+| Gemaakt door | TomCat (addon) en speedrunners, op de routes van Joana | Het team van Zygor, al bezig sinds het originele spel |
 
 Prijzen in dollar, plus btw.
 
 ## Wat Journey biedt
 
-Het gratis deel heeft al de nieuwe quests van Forever, de Skyborne-start op Zephras Isle en de classquests van de nieuwe combinaties van ras en class. Op 4 november beginnen level 30 tot 60 op de klassieke route; ongeveer een week later komen de nieuwe quests van Forever erbij, zo'n vijf levels om de vier à vijf dagen. Een aankoop geldt voor elk personage op één Battle.net-account. Meer in [de post over Journey](/nl/news/leveling-addon-journey-is-free-up-to-level-30/).
+Het gratis deel heeft al de nieuwe quests van Forever, de Skyborne-start op Zephras Isle en de classquests van de nieuwe combinaties van ras en class. Op 4 november beginnen level 30 tot 60 op de klassieke route; ongeveer een week later komen de nieuwe quests van Forever erbij, zo'n vijf levels om de vier à vijf dagen. Een aankoop geldt voor elk personage op één Battle.net-account. Meer in [de post over Journey](/nl/news/leveling-addon-journey-is-free-up-to-level-30/). Journey bouwt zijn routes voor Forever op de originele routes van Joana van 1 tot 60; hoe het zich verhoudt tot Joana's Guides, staat in [Journey en Joana's Guides vergeleken](/nl/compare/journey-vs-joana/).
 
 ## Wat Zygor biedt
 

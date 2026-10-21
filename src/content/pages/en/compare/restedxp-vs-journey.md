@@ -3,7 +3,7 @@ title: "RestedXP and Journey compared"
 metaTitle: "RestedXP vs Journey: which leveling addon for WoW Forever"
 description: "RestedXP and Journey side by side for WoW Forever: the price, what is free, how far each route goes at launch, the discount codes and which one fits you."
 short: "RestedXP vs Journey"
-updated: 2026-10-20
+updated: 2026-10-21
 lang: en
 faq:
   - q: "Which is better for WoW Forever, RestedXP or Journey?"
@@ -29,8 +29,8 @@ RestedXP and Journey are both leveling addons with routes written by speedrunner
 | Forever guide | On sale now | Levels 1 to 30 free now, 30 to 60 from 4 November |
 | Price | 30 dollars for one faction, 45 for both | 25 and 30 dollars until 4 December, then 30 and 45 |
 | Discount | 10% with our link | 10% with code NUTRI |
-| Free part | The addon | The addon and levels 1 to 30 |
-| Made by | Speedrunners | Speedrunners |
+| Free part | The addon and levels 1 to 20 | The addon and levels 1 to 30 |
+| Made by | Speedrunners | TomCat (addon) and speedrunners, on Joana's routes |
 | Other versions | Classic, Hardcore, TBC, WotLK and more | Only Forever |
 | Planned | Not announced for Forever | Duo, group and Hardcore routes |
 
@@ -42,11 +42,11 @@ RestedXP sells its Forever guide per faction. Its compact window shows one step 
 
 ## What Journey offers
 
-The free part already has Forever's new quests, the Skyborne start on Zephras Isle and the class quests of the new race and class combinations. Hard quests can be skipped, and the route adjusts when a quest is not available. On 4 November, levels 30 to 60 start on the classic route; about a week later Forever's new quests are added, around five levels every four to five days. A purchase covers every character on one Battle.net account, and a refund is possible within 14 days. More in [the post about Journey](/news/leveling-addon-journey-is-free-up-to-level-30/).
+The free part already has Forever's new quests, the Skyborne start on Zephras Isle and the class quests of the new race and class combinations. Hard quests can be skipped, and the route adjusts when a quest is not available. On 4 November, levels 30 to 60 start on the classic route; about a week later Forever's new quests are added, around five levels every four to five days. A purchase covers every character on one Battle.net account, and a refund is possible within 14 days. More in [the post about Journey](/news/leveling-addon-journey-is-free-up-to-level-30/). Journey builds its Forever routes on Joana's original 1 to 60 routes; how it relates to Joana's Guides is in [Journey and Joana's Guides compared](/compare/journey-vs-joana/).
 
 ## Which one fits whom
 
-- **You want to try before you pay.** Journey is free up to 30, so you see the route first.
+- **You want to try before you pay.** RestedXP is free up to 20 and Journey up to 30, so you see the route first.
 - **You buy before 4 December.** Journey is 5 dollars cheaper for one faction and 15 for both.
 - **You also play other versions of WoW Classic.** RestedXP covers them with the same addon.
 - **You want the whole route to 60 ready on launch day.** Neither has confirmed that yet. Journey says its 30 to 60 route starts on the classic path and gets the new quests over the following weeks.

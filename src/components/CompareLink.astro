@@ -1,0 +1,21 @@
+---
+/*
+ * Eén regel onder de partnerblokken met een link naar de vergelijking van de
+ * level-addons (Nutri, 21 oktober 2026: "The comparison is the most important
+ * one"). Zo linkt elke route, levelgids en partnerpost ernaar, in elke taal.
+ */
+import type { Locale } from '../i18n/ui';
+import { guideT } from '../i18n/guides';
+import { localizePath } from '../i18n/utils';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const g = guideT(locale);
+---
+
+<p class="wf-comparelink" data-pagefind-ignore>
+  {g('compareText')} <a href={`${localizePath('compare/leveling-addons-forever', locale)}/`}>{g('compareLink')}</a>
+</p>

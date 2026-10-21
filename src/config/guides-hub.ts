@@ -53,6 +53,7 @@ export const hubCategories: HubCategory[] = [
       { key: '/compare/leveling-addons-forever', image: '2026-10-19-wow-forever-journey-guide-menu.png' },
       { key: '/compare/restedxp-vs-journey', image: '2026-10-19-wow-forever-journey-guide-panel.png' },
       { key: '/compare/journey-vs-zygor', image: '2026-10-19-wow-forever-journey-vendor-step.png' },
+      { key: '/compare/journey-vs-joana', image: '2026-10-19-wow-forever-journey-skip-quest.png' },
       { key: '/compare/restedxp-vs-zygor', image: '2026-10-04-wow-forever-leveling-alone-in-durotar.jpg' },
       { key: '/compare/free-vs-premium', image: '2026-10-14-wow-forever-quest-log-colors.jpg' },
       { key: '/compare/dungeon-vs-questing', image: '2026-10-04-wow-forever-players-queue-for-a-quest-in-a-cave.jpg' },

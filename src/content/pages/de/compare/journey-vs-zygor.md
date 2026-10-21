@@ -3,7 +3,7 @@ title: "Journey und Zygor im Vergleich"
 metaTitle: "Journey vs Zygor: Leveling-Addons für WoW Forever im Vergleich"
 description: "Journey und Zygor nebeneinander für WoW Forever: ein einmaliger Preis gegen ein Abo, was kostenlos ist, was jedes zum Start abdeckt und welches zu dir passt."
 short: "Journey vs Zygor"
-updated: 2026-10-20
+updated: 2026-10-21
 lang: de
 manual: true
 faq:
@@ -34,13 +34,13 @@ Journey und Zygor führen dich beide von 1 bis 60 in World of Warcraft: Forever,
 | Kostenloser Teil | Das Addon und Stufe 1 bis 30 | Eine kostenlose Testphase |
 | Fokus | Eine schnelle Leveling-Route | Leveling plus Dungeons, Ausrüstung, Talente, Berufe und Reisen |
 | Dungeons | Dungeonquests später, als Option | Guides für die neun neuen Dungeons |
-| Gemacht von | Speedrunnern | Dem Team von Zygor, dabei seit dem Originalspiel |
+| Gemacht von | TomCat (Addon) und Speedrunnern, auf Joanas Routen | Dem Team von Zygor, dabei seit dem Originalspiel |
 
 Preise in Dollar, zuzüglich Steuern.
 
 ## Was Journey bietet
 
-Der kostenlose Teil hat schon die neuen Quests von Forever, den Skyborne-Start auf Zephras Isle und die Klassenquests der neuen Kombinationen aus Volk und Klasse. Am 4. November beginnen Stufe 30 bis 60 auf der klassischen Route; etwa eine Woche später kommen die neuen Quests von Forever dazu, rund fünf Stufen alle vier bis fünf Tage. Ein Kauf gilt für jeden Charakter auf einem Battle.net-Konto. Mehr im [Beitrag über Journey](/de/news/leveling-addon-journey-is-free-up-to-level-30/).
+Der kostenlose Teil hat schon die neuen Quests von Forever, den Skyborne-Start auf Zephras Isle und die Klassenquests der neuen Kombinationen aus Volk und Klasse. Am 4. November beginnen Stufe 30 bis 60 auf der klassischen Route; etwa eine Woche später kommen die neuen Quests von Forever dazu, rund fünf Stufen alle vier bis fünf Tage. Ein Kauf gilt für jeden Charakter auf einem Battle.net-Konto. Mehr im [Beitrag über Journey](/de/news/leveling-addon-journey-is-free-up-to-level-30/). Journey baut seine Routen für Forever auf Joanas ursprünglichen Routen von 1 bis 60; wie es mit Joana's Guides zusammenhängt, steht in [Journey und Joana's Guides im Vergleich](/de/compare/journey-vs-joana/).
 
 ## Was Zygor bietet
 

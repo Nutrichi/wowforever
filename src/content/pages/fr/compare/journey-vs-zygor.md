@@ -3,7 +3,7 @@ title: "Journey et Zygor comparés"
 metaTitle: "Journey vs Zygor : addons de leveling pour WoW Forever comparés"
 description: "Journey et Zygor côte à côte pour WoW Forever : un prix unique face à un abonnement, ce qui est gratuit, ce que chacun couvre au lancement et lequel vous convient."
 short: "Journey vs Zygor"
-updated: 2026-10-20
+updated: 2026-10-21
 lang: fr
 manual: true
 faq:
@@ -34,13 +34,13 @@ Journey et Zygor vous guident tous les deux de 1 à 60 dans World of Warcraft: F
 | Partie gratuite | L’addon et les niveaux 1 à 30 | Un essai gratuit |
 | Objectif | Une route de leveling rapide | Leveling plus donjons, équipement, talents, métiers et déplacements |
 | Donjons | Quêtes de donjon plus tard, en option | Guides pour les neuf nouveaux donjons |
-| Créé par | Des speedrunners | L’équipe de Zygor, présente depuis le jeu original |
+| Créé par | TomCat (addon) et des speedrunners, sur les routes de Joana | L’équipe de Zygor, présente depuis le jeu original |
 
 Prix en dollars, hors taxes.
 
 ## Ce que propose Journey
 
-La partie gratuite contient déjà les nouvelles quêtes de Forever, le départ Skyborne sur Zephras Isle et les quêtes de classe des nouvelles combinaisons de race et de classe. Le 4 novembre, les niveaux 30 à 60 démarrent sur la route classique ; environ une semaine plus tard, les nouvelles quêtes de Forever s’y ajoutent, à raison d’environ cinq niveaux tous les quatre ou cinq jours. Un achat couvre tous les personnages d’un compte Battle.net. Plus de détails dans [l’article sur Journey](/fr/news/leveling-addon-journey-is-free-up-to-level-30/).
+La partie gratuite contient déjà les nouvelles quêtes de Forever, le départ Skyborne sur Zephras Isle et les quêtes de classe des nouvelles combinaisons de race et de classe. Le 4 novembre, les niveaux 30 à 60 démarrent sur la route classique ; environ une semaine plus tard, les nouvelles quêtes de Forever s’y ajoutent, à raison d’environ cinq niveaux tous les quatre ou cinq jours. Un achat couvre tous les personnages d’un compte Battle.net. Plus de détails dans [l’article sur Journey](/fr/news/leveling-addon-journey-is-free-up-to-level-30/). Journey construit ses routes Forever sur les routes originales 1 à 60 de Joana ; son lien avec Joana's Guides est expliqué dans [Journey et Joana's Guides comparés](/fr/compare/journey-vs-joana/).
 
 ## Ce que propose Zygor
 

@@ -3,7 +3,7 @@ title: "Leveling-Addon Journey ist bis Level 30 gratis"
 metaTitle: "Journey Rabattcode NUTRI: 10 % Rabatt für WoW Forever"
 description: "Der Rabattcode NUTRI gibt 10 % Rabatt auf Journey, das Leveling-Addon für WoW Forever. Level 1 bis 30 sind kostenlos, die volle Route bis 60 ist ein einmaliger Kauf, der zum Start freigeschaltet wird."
 date: 2026-10-19T17:00:00+02:00
-updated: 2026-10-19T17:50:00+02:00
+updated: 2026-10-21T21:30:00+02:00
 category: forever
 lang: de
 manual: true
@@ -39,6 +39,8 @@ Journey funktioniert ohne TomTom und läuft neben Questie und ElvUI. Schwere Que
 ## Wer die Routen macht
 
 Die Routen für Forever stammen von Alenya, einem Speedrunner aus Classic, der seit acht Jahren Guides von 1 bis 60 schreibt, mit einem Team aus Rekord-Speedrunnern und Klassenexperten.
+
+Diese Routen bauen auf Joanas ursprünglichen Routen von 1 bis 60 auf. Joana starb Anfang 2024. TomCat hatte das Addon gemeinsam mit Joana gebaut und übernahm die Pflege von Joana's Guides aus Respekt und mit Unterstützung von Joanas Familie; Journey baut mit deren Erlaubnis auf den Routen auf. Journey nutzt dieses Addon in Lizenz von TomCat's Gaming, aber Joana's Guides bleibt ein eigenes Produkt. Wie beide sich unterscheiden, steht in [Journey und Joana's Guides im Vergleich](/de/compare/journey-vs-joana/).
 
 Der kostenlose Teil enthält schon die neuen Quests von Forever und den Skyborne-Start auf Zephras Isle für beide Fraktionen. Die neuen Kombinationen aus Volk und Klasse, etwa der Undead Paladin, der Orc Mage und der Dwarf Shaman, haben ihre Klassenquests in der Route. Die Schritte für Cooking und das neue Camping-System nutzen deren Bonus auf Erfahrung.
 

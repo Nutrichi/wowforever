@@ -3,7 +3,7 @@ title: "Journey e Zygor a confronto"
 metaTitle: "Journey vs Zygor: addon di leveling per WoW Forever a confronto"
 description: "Journey e Zygor fianco a fianco per WoW Forever: un prezzo una tantum contro un abbonamento, cosa è gratis, cosa copre ognuno al lancio e quale fa per te."
 short: "Journey vs Zygor"
-updated: 2026-10-20
+updated: 2026-10-21
 lang: it
 manual: true
 faq:
@@ -34,13 +34,13 @@ Journey e Zygor ti guidano entrambi da 1 a 60 in World of Warcraft: Forever, con
 | Parte gratuita | L'addon e i livelli da 1 a 30 | Una prova gratuita |
 | Obiettivo | Un percorso di livellamento veloce | Livellamento più dungeon, equipaggiamento, talenti, professioni e viaggi |
 | Dungeon | Missioni dei dungeon più avanti, come opzione | Guide per i nove nuovi dungeon |
-| Creato da | Speedrunner | Il team di Zygor, attivo dal gioco originale |
+| Creato da | TomCat (addon) e speedrunner, sui percorsi di Joana | Il team di Zygor, attivo dal gioco originale |
 
 Prezzi in dollari, più le tasse.
 
 ## Cosa offre Journey
 
-La parte gratuita ha già le nuove missioni di Forever, l'inizio Skyborne su Zephras Isle e le missioni di classe delle nuove combinazioni di razza e classe. Il 4 novembre i livelli da 30 a 60 partono sul percorso classico; circa una settimana dopo si aggiungono le nuove missioni di Forever, circa cinque livelli ogni quattro o cinque giorni. Un acquisto vale per tutti i personaggi di un account Battle.net. Di più nel [post su Journey](/it/news/leveling-addon-journey-is-free-up-to-level-30/).
+La parte gratuita ha già le nuove missioni di Forever, l'inizio Skyborne su Zephras Isle e le missioni di classe delle nuove combinazioni di razza e classe. Il 4 novembre i livelli da 30 a 60 partono sul percorso classico; circa una settimana dopo si aggiungono le nuove missioni di Forever, circa cinque livelli ogni quattro o cinque giorni. Un acquisto vale per tutti i personaggi di un account Battle.net. Di più nel [post su Journey](/it/news/leveling-addon-journey-is-free-up-to-level-30/). Journey costruisce i suoi percorsi per Forever sui percorsi originali di Joana da 1 a 60; il legame con Joana's Guides è in [Journey e Joana's Guides a confronto](/it/compare/journey-vs-joana/).
 
 ## Cosa offre Zygor
 

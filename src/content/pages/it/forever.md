@@ -190,7 +190,7 @@ La curva dell'esperienza non cambia: un personaggio ha bisogno della stessa espe
 
 I dungeon funzionano in modo diverso. L'esperienza dai mostri dentro un dungeon cala e quella delle missioni di dungeon sale parecchio. Una prima visita rende, ripeterla molto meno. Blizzard vuole i giocatori nel mondo invece che nello stesso dungeon. In seguito le missioni dei dungeon hanno perso metà di quell’esperienza extra, perché i tester salivano troppo in fretta.
 
-Nel complesso si pareggia. Dal livello 1 al 20 servono in media 20,5 ore in Forever contro 20,4 in Classic Era, dice Josh Greenfield nel [primo podcast degli sviluppatori](/it/news/a-first-developer-podcast-promises-fewer-blues/). Il prossimo aggiornamento della beta dà anche meno ricompense blu dalle missioni dei dungeon, perché il passaggio dal bianco al verde al blu si senta come in Classic, dice Tim Jones.
+Nel complesso si pareggia. Dal livello 1 al 20 servono in media 20,5 ore in Forever contro 20,4 in Classic Era, dice Josh Greenfield nel [primo podcast degli sviluppatori](/it/news/a-first-developer-podcast-promises-fewer-blues/). Il prossimo aggiornamento della beta dà anche meno ricompense blu dalle missioni dei dungeon, perché il passaggio dal bianco al verde al blu si senta come in Classic, dice Tim Jones. Quale addon di livellamento fa per quale giocatore è nel [confronto degli addon di livellamento](/it/compare/leveling-addons-forever/).
 
 Non ci sono né un WoW Token né un boost, ha detto l'Associate Production Director Clay Stone in un'intervista con Destin. Il sistema per recuperare resta «giocare al gioco». L’oro comprato con denaro reale costa l’oro, una sospensione o l’account, e il gioco mostrerà un avviso a ogni scambio con uno sconosciuto, ha detto Blizzard il 1° ottobre.
 

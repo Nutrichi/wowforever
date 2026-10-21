@@ -39,6 +39,7 @@ Además, cada clase tiene su propia guía por expansión en [Clases](/es/classes
 - [Los addons para subir de nivel en WoW Forever, comparados](/es/compare/leveling-addons-forever/)
 - [RestedXP y Journey comparados](/es/compare/restedxp-vs-journey/)
 - [Journey y Zygor comparados](/es/compare/journey-vs-zygor/)
+- [Journey y Joana's Guides comparados](/es/compare/journey-vs-joana/)
 - [RestedXP y Zygor comparados](/es/compare/restedxp-vs-zygor/)
 - [Ayuda para subir gratuita y de pago comparadas](/es/compare/free-vs-premium/)
 - [Mazmorras o misiones mientras subes](/es/compare/dungeon-vs-questing/)
