@@ -224,6 +224,7 @@ export const hubLabels: Record<Locale, HubLabels> = {
 /** Wat een kaart behandelt, per sleutel uit config/guides-hub.ts. */
 export const hubBlurbs: Record<Locale, Record<string, string>> = {
   "en": {
+    "journey": "The Journey leveling addon for WoW Forever: free to level 30, the price for the route to 60, how to install it and 10% off with code NUTRI",
     "compare/restedxp-vs-journey": "RestedXP and Journey side by side: price, the free part, discount codes and how far each route goes at launch",
     "compare/journey-vs-zygor": "Journey and Zygor side by side: a one-time price against a subscription, and what each one covers",
     "compare/journey-vs-joana": "Journey and Joana's Guides side by side: how the two are linked, the same routes at launch and how they differ",
@@ -292,6 +293,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "The dates and the roadmap, the zones, dungeons and raids, the Skyborne and the editions"
   },
   "nl": {
+    "journey": "De leveladdon Journey voor WoW Forever: gratis tot level 30, de prijs voor de route tot 60, installeren en 10% korting met code NUTRI",
     "compare/restedxp-vs-journey": "RestedXP en Journey naast elkaar: prijs, het gratis deel, kortingscodes en hoe ver elke route gaat bij de launch",
     "compare/journey-vs-zygor": "Journey en Zygor naast elkaar: een eenmalige prijs tegenover een abonnement, en wat elk dekt",
     "compare/journey-vs-joana": "Journey en Joana's Guides naast elkaar: hoe de twee verbonden zijn, dezelfde routes bij de launch en waarin ze verschillen",
@@ -360,6 +362,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "De datums en de roadmap, de zones, dungeons en raids, de Skyborne en de edities"
   },
   "fr": {
+    "journey": "L'addon de leveling Journey pour WoW Forever : gratuit jusqu'au niveau 30, le prix de la route jusqu'au 60, l'installation et 10 % de réduction avec le code NUTRI",
     "compare/restedxp-vs-journey": "RestedXP et Journey côte à côte : prix, partie gratuite, codes de réduction et jusqu’où va chaque route au lancement",
     "compare/journey-vs-zygor": "Journey et Zygor côte à côte : un prix unique face à un abonnement, et ce que chacun couvre",
     "compare/journey-vs-joana": "Journey et Joana's Guides côte à côte : le lien entre les deux, les mêmes routes au lancement et leurs différences",
@@ -428,6 +431,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "Les dates et la feuille de route, les zones, donjons et raids, les Skyborne et les éditions"
   },
   "es": {
+    "journey": "El addon de subida Journey para WoW Forever: gratis hasta el nivel 30, el precio de la ruta hasta el 60, cómo instalarlo y un 10 % de descuento con el código NUTRI",
     "compare/restedxp-vs-journey": "RestedXP y Journey lado a lado: precio, la parte gratis, códigos de descuento y hasta dónde llega cada ruta en el lanzamiento",
     "compare/journey-vs-zygor": "Journey y Zygor lado a lado: un precio único frente a una suscripción, y lo que cubre cada uno",
     "compare/journey-vs-joana": "Journey y Joana's Guides lado a lado: cómo están unidos, las mismas rutas en el lanzamiento y en qué se diferencian",
@@ -496,6 +500,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "Las fechas y la hoja de ruta, las zonas, mazmorras y bandas, los Skyborne y las ediciones"
   },
   "it": {
+    "journey": "L'addon di leveling Journey per WoW Forever: gratis fino al livello 30, il prezzo del percorso fino al 60, come installarlo e il 10% di sconto con il codice NUTRI",
     "compare/restedxp-vs-journey": "RestedXP e Journey fianco a fianco: prezzo, la parte gratuita, codici sconto e fin dove arriva ogni percorso al lancio",
     "compare/journey-vs-zygor": "Journey e Zygor fianco a fianco: un prezzo una tantum contro un abbonamento, e cosa copre ognuno",
     "compare/journey-vs-joana": "Journey e Joana's Guides fianco a fianco: come sono legati, gli stessi percorsi al lancio e in cosa differiscono",
@@ -564,6 +569,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "forever": "Le date e la roadmap, le zone, le spedizioni e le incursioni, gli Skyborne e le edizioni"
   },
   "de": {
+    "journey": "Das Leveling-Addon Journey für WoW Forever: kostenlos bis Level 30, der Preis für die Route bis 60, die Installation und 10 % Rabatt mit dem Code NUTRI",
     "compare/restedxp-vs-journey": "RestedXP und Journey nebeneinander: Preis, der kostenlose Teil, Rabattcodes und wie weit jede Route zum Start reicht",
     "compare/journey-vs-zygor": "Journey und Zygor nebeneinander: ein einmaliger Preis gegen ein Abo, und was jedes abdeckt",
     "compare/journey-vs-joana": "Journey und Joana's Guides nebeneinander: wie beide zusammenhängen, dieselben Routen zum Start und worin sie sich unterscheiden",

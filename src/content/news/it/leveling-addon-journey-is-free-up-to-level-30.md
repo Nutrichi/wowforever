@@ -3,7 +3,7 @@ title: "L’addon Journey è gratis fino al livello 30"
 metaTitle: "Codice sconto Journey NUTRI: -10% per WoW Forever"
 description: "Il codice sconto NUTRI dà il 10% di sconto su Journey, l’addon di livellamento per WoW Forever. I livelli da 1 a 30 sono gratuiti, e il percorso completo fino al 60 è un acquisto unico che si apre al lancio."
 date: 2026-10-19T17:00:00+02:00
-updated: 2026-10-21T21:30:00+02:00
+updated: 2026-10-22T23:45:00+02:00
 category: forever
 lang: it
 manual: true
@@ -63,3 +63,5 @@ L’addon e i livelli da 1 a 30 sono gratuiti, come chiedono le regole di Blizza
 </a>
 
 Il codice creatore NUTRI vale come codice sconto e dà il 10% di sconto: 27 dollari per entrambe le fazioni, 22,50 per una. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Il nostro link partner</a> applica il codice al pagamento; si può anche inserire a mano. Gli altri addon di livellamento per Forever sono messi a confronto nel [confronto degli addon di leveling](/it/compare/leveling-addons-forever/).
+
+Tutto sull'addon, dall'installazione al prezzo, è nella [nostra guida a Journey](/it/guides/journey/).

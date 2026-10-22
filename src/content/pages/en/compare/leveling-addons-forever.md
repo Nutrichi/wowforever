@@ -3,7 +3,7 @@ title: "Leveling addons for WoW Forever compared"
 metaTitle: "WoW Forever leveling addons compared: RestedXP, Journey, Joana, Zygor"
 description: "Compare the leveling addons for WoW Forever: RestedXP, Journey, Joana's Guides and Zygor side by side, with their prices, what each one covers at launch on 4 November and which one fits you."
 short: "Leveling addons compared"
-updated: 2026-10-21
+updated: 2026-10-22
 lang: en
 faq:
   - q: "Which leveling addon is best for WoW Forever?"
@@ -48,7 +48,7 @@ RestedXP sells its Forever guide per faction in its store, as a one-time purchas
 
 ## Journey
 
-Journey is new and built for Forever. Levels 1 to 30 are free for everyone and already have Forever's new quests and the Skyborne start on Zephras Isle. On 4 November, levels 30 to 60 start on the classic route; about a week later Forever's new quests are added, around five levels every four to five days. Journey builds its Forever routes on Joana's original 1 to 60 routes and licenses the addon of TomCat's Gaming, the owner of Joana's Guides. Everything else is in [the post about Journey](/news/leveling-addon-journey-is-free-up-to-level-30/).
+Journey is new and built for Forever. Levels 1 to 30 are free for everyone and already have Forever's new quests and the Skyborne start on Zephras Isle. On 4 November, levels 30 to 60 start on the classic route; about a week later Forever's new quests are added, around five levels every four to five days. Journey builds its Forever routes on Joana's original 1 to 60 routes and licenses the addon of TomCat's Gaming, the owner of Joana's Guides. Everything else is in [the post about Journey](/news/leveling-addon-journey-is-free-up-to-level-30/). Everything about the addon, from installing to the price, is in [our Journey guide](/guides/journey/).
 
 ## Joana's Guides
 

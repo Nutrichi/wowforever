@@ -3,7 +3,7 @@ title: "Leveling addon Journey is free up to level 30"
 metaTitle: "Journey discount code NUTRI: 10% off in WoW Forever"
 description: "The Journey discount code NUTRI takes 10% off the leveling addon for WoW Forever. Levels 1 to 30 are free, and the full route to 60 is a one-time purchase that unlocks at launch."
 date: 2026-10-19T17:00:00+02:00
-updated: 2026-10-21T21:30:00+02:00
+updated: 2026-10-22T23:45:00+02:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-19-wow-forever-the-riverglades.jpg
@@ -62,3 +62,5 @@ The addon itself and levels 1 to 30 are free, as Blizzard's addon policy require
 </a>
 
 The creator code NUTRI works as a discount code and takes 10% off: 27 dollars for both factions, 22.50 for one. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Our partner link</a> applies the code at checkout; typing it in by hand works too. The other leveling addons for Forever are compared in [the leveling addon comparison](/compare/leveling-addons-forever/).
+
+Everything about the addon, from installing to the price, is in [our Journey guide](/guides/journey/).

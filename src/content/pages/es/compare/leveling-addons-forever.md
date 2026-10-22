@@ -3,7 +3,7 @@ title: "Los addons para subir de nivel en WoW Forever, comparados"
 metaTitle: "Addons de leveling para WoW Forever comparados: RestedXP, Journey, Joana, Zygor"
 description: "Compara los addons para subir de nivel en WoW Forever: RestedXP, Journey, Joana's Guides y Zygor lado a lado, con sus precios, lo que cubre cada uno en el lanzamiento del 4 de noviembre y cuál te conviene."
 short: "Addons de leveling comparados"
-updated: 2026-10-21
+updated: 2026-10-22
 lang: es
 manual: true
 faq:
@@ -49,7 +49,7 @@ RestedXP vende su guía de Forever por facción en su tienda, como compra única
 
 ## Journey
 
-Journey es nuevo y está hecho para Forever. Los niveles 1 a 30 son gratis para todos y ya tienen las misiones nuevas de Forever y el inicio Skyborne en Zephras Isle. El 4 de noviembre, los niveles 30 a 60 empiezan con la ruta clásica; una semana después se añaden las misiones nuevas de Forever, unos cinco niveles cada cuatro o cinco días. Journey construye sus rutas de Forever sobre las rutas originales de Joana del 1 al 60 y usa con licencia el addon de TomCat's Gaming, dueño de Joana's Guides. El resto está en [el artículo sobre Journey](/es/news/leveling-addon-journey-is-free-up-to-level-30/).
+Journey es nuevo y está hecho para Forever. Los niveles 1 a 30 son gratis para todos y ya tienen las misiones nuevas de Forever y el inicio Skyborne en Zephras Isle. El 4 de noviembre, los niveles 30 a 60 empiezan con la ruta clásica; una semana después se añaden las misiones nuevas de Forever, unos cinco niveles cada cuatro o cinco días. Journey construye sus rutas de Forever sobre las rutas originales de Joana del 1 al 60 y usa con licencia el addon de TomCat's Gaming, dueño de Joana's Guides. El resto está en [el artículo sobre Journey](/es/news/leveling-addon-journey-is-free-up-to-level-30/). Todo sobre el addon, de la instalación al precio, está en [nuestra guía de Journey](/es/guides/journey/).
 
 ## Joana's Guides
 

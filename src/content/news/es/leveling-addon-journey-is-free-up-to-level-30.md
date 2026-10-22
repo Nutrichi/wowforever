@@ -3,7 +3,7 @@ title: "El addon Journey es gratis hasta el nivel 30"
 metaTitle: "Código de descuento Journey NUTRI: 10 % en WoW Forever"
 description: "El código de descuento NUTRI rebaja un 10 % Journey, el addon para subir de nivel en WoW Forever. Los niveles 1 a 30 son gratis, y la ruta completa hasta el 60 es una compra única que se abre en el lanzamiento."
 date: 2026-10-19T17:00:00+02:00
-updated: 2026-10-21T21:30:00+02:00
+updated: 2026-10-22T23:45:00+02:00
 category: forever
 lang: es
 manual: true
@@ -63,3 +63,5 @@ El addon y los niveles 1 a 30 son gratis, como exigen las normas de Blizzard sob
 </a>
 
 El código de creador NUTRI funciona como código de descuento y rebaja un 10 %: 27 dólares por las dos facciones, 22,50 por una. <a href="https://getjourney.gg/?code=nutri" rel="noopener sponsored">Nuestro enlace de socio</a> aplica el código al pagar; también se puede escribir a mano. Los demás addons para subir de nivel en Forever están en [la comparación de addons de leveling](/es/compare/leveling-addons-forever/).
+
+Todo sobre el addon, de la instalación al precio, está en [nuestra guía de Journey](/es/guides/journey/).

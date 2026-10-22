@@ -76,6 +76,7 @@ export const restedxpPages = [
   'guides/warrior-leveling',
   'guides/hunter-leveling',
   'guides/zephras-isle',
+  'guides/journey',
 ];
 
 /**
