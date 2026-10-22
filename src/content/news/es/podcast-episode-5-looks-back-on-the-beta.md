@@ -51,7 +51,7 @@ Los mapas de calor mostraron a testers en zonas a las que aún no debían llegar
 
 ## Tres tamaños de banda por parche
 
-En el lanzamiento hay una banda para 10 (Barrow Deeps), una para 20 (Hyjal Summit) y una para 40 (Onyxia's Lair), mira [las tres bandas del 9 de diciembre](/es/news/blizzard-details-the-three-raids-of-9-december/). Blizzard se compromete a sacar contenido para 10 y para 20 jugadores en cada parche, para que los grupos de esos tamaños puedan planificar. Las dos bandas nuevas suman más de 20 jefes. El objetivo es "beer and pretzels": ven preparado con pociones y un frasco, y la banda debería ser asequible. Sobre Molten Core, Michael Nuthals no dice nada más allá de la palabra "revamped" de la BlizzCon. Las mazmorras antiguas siguen casi como eran; las nuevas deben parecer obra del equipo de 2004.
+En el lanzamiento hay una banda para 10 (Barrow Deeps), una para 20 (Hyjal Summit) y una para 40 (Onyxia's Lair), mira [las tres bandas del 9 de diciembre](/es/news/blizzard-details-the-three-raids-of-9-december/). Blizzard se compromete a sacar contenido para 10 y para 20 jugadores en cada parche, para que los grupos de esos tamaños puedan planificar. Las dos bandas nuevas suman más de 20 jefes. El objetivo es "beer and pretzels": ven preparado con pociones y un frasco, y la banda debería ser asequible. Sobre Molten Core, los desarrolladores no dicen nada más allá de la palabra "revamped" de la BlizzCon y una pista de Aggrend: Golemagg será más que tank and spank. Las mazmorras antiguas siguen casi como eran; las nuevas deben parecer obra del equipo de 2004.
 
 ## Jefes de adelanto
 

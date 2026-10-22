@@ -51,7 +51,7 @@ Heatmaps toonden testers in zones waar ze nog niet hoorden te komen, zoals Hyjal
 
 ## Drie raidgroottes per patch
 
-Bij de launch is er een raid voor 10 (Barrow Deeps), een voor 20 (Hyjal Summit) en een voor 40 (Onyxia's Lair), zie [de drie raids van 9 december](/nl/news/blizzard-details-the-three-raids-of-9-december/). Blizzard belooft in elke patch nieuwe content voor 10 en voor 20 spelers, zodat groepen van die grootte vooruit kunnen plannen. De twee nieuwe raids hebben samen meer dan 20 bosses. Het doel is "beer and pretzels": kom voorbereid met potions en een flask, en de raid moet haalbaar zijn. Over Molten Core zegt Michael Nuthals nog niets, behalve het woord "revamped" van BlizzCon. De oude dungeons blijven grotendeels zoals ze waren; de nieuwe moeten aanvoelen alsof het team van 2004 ze had kunnen maken.
+Bij de launch is er een raid voor 10 (Barrow Deeps), een voor 20 (Hyjal Summit) en een voor 40 (Onyxia's Lair), zie [de drie raids van 9 december](/nl/news/blizzard-details-the-three-raids-of-9-december/). Blizzard belooft in elke patch nieuwe content voor 10 en voor 20 spelers, zodat groepen van die grootte vooruit kunnen plannen. De twee nieuwe raids hebben samen meer dan 20 bosses. Het doel is "beer and pretzels": kom voorbereid met potions en een flask, en de raid moet haalbaar zijn. Over Molten Core zeggen de ontwikkelaars nog niets, behalve het woord "revamped" van BlizzCon en een hint van Aggrend dat Golemagg meer wordt dan tank and spank. De oude dungeons blijven grotendeels zoals ze waren; de nieuwe moeten aanvoelen alsof het team van 2004 ze had kunnen maken.
 
 ## Bosses als voorproefje
 

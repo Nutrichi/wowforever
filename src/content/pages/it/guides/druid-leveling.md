@@ -1,14 +1,14 @@
 ---
 title: "Livellare un Druid in WoW Forever: la guida"
-metaTitle: "Guida al leveling del Druid in WoW Forever: build Feral, Balance e Restoration fino al 30"
-description: "Come livellare un Druid in WoW Forever: quattro build di livello 30 per Feral, due tipi di Balance e Restoration, la rotazione, i livelli chiave, le missioni di classe per ogni forma, armi, idoli, professioni e cambio di forma."
+metaTitle: "Guida al leveling del Druid in WoW Forever: la build Feral dal 10 al 60"
+description: "Come livellare un Druid in WoW Forever: una build Feral con un talento per ogni livello dal 10 al 60, la rotazione, i livelli chiave, le missioni di classe per ogni forma, armi, idoli, professioni e cambio di forma."
 short: "Leveling Druid"
-updated: 2026-10-17
+updated: 2026-10-22
 lang: it
 manual: true
 faq:
   - q: "Qual è la spec migliore per livellare un Druid in WoW Forever?"
-    a: "Feral in Cat Form è la più veloce e fluida: uccidi quasi senza pause per il mana, e Prowl, Dash e Feral Swiftness ti portano da una missione all'altra. Anche Balance funziona, ma più lentamente, e livellare da solo come Restoration è lento."
+    a: "Feral in Cat Form. Uccidi quasi senza pause per il mana, e Prowl, Dash e Feral Swiftness ti portano da una missione all'altra. La build di questa guida resta Feral fino in fondo: Feral Combat fino a Berserk al 40, poi Restoration per Furor, Natural Shapeshifter e Naturalist."
   - q: "Quando ottiene un Druid Bear Form e Cat Form?"
     a: "Bear Form arriva al livello 10 e Cat Form al livello 20, entrambe con una missione di classe. Aquatic Form segue al 16, sempre con una missione, e Travel Form viene semplicemente dall'istruttore al livello 30."
   - q: "Un Druid può bere pozioni in una forma?"
@@ -20,29 +20,29 @@ faq:
   - q: "Quali professioni si addicono a un Druid?"
     a: "Herbalism è la scelta classica, perché raccogli le erbe in Travel Form. Anche Skinning con Leatherworking funziona bene. Cooking conviene a ogni classe in Forever, perché il cibo con buff dà esperienza extra e ti serve per un accampamento."
   - q: "C'è già una build di livello 60?"
-    a: "Non in questa guida: la beta si ferma al livello 30. La nostra build di leveling del Druid dà un talento per ogni livello fino al 60."
+    a: "Sì. La build Feral di questa guida dà un talento per ogni livello dal 10 al 60, e la build di leveling del Druid la mostra livello per livello."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/druid-leveling/"
 ---
-Il Druid in WoW Forever sa fare quasi tutto: tankare da orso, fare danni da gatto o a distanza, e curare. Si muove anche nel mondo più in fretta di qualsiasi altra classe. Al livello 30 scegli tra Feral, due tipi di Balance e Restoration. Questa guida tratta le quattro build, la rotazione, i livelli chiave, le missioni di classe, le armi e le professioni.
+Il Druid in WoW Forever sa fare quasi tutto: tankare da orso, fare danni da gatto o a distanza, e curare. Si muove anche nel mondo più in fretta di qualsiasi altra classe. Livelli da Feral, con una sola build dal livello 10 al 60. Questa guida tratta la build, la rotazione, i livelli chiave, le missioni di classe, le armi e le professioni.
 
 | | |
 |---|---|
 | Spec più facile per livellare | Feral, in Cat Form |
-| Talenti chiave | Ferocity, Feral Charge, Predatory Strikes, Leader of the Pack, Overgrowth |
+| Talenti chiave | Ferocity, Feral Charge, Shifting Power, Leader of the Pack, Berserk |
 | Punti di forza | Mobilità, Stealth, si cura da solo, può tankare e curare |
 | Punti deboli | Partenza lenta prima di Cat Form, mana per ogni cambio di forma |
 | Talento per livello | [Build di leveling del Druid](/it/leveling/druid/) |
-| Build fino al livello 60 | Dopo il lancio del 4 novembre |
+| Build fino al livello 60 | Questa guida, dal livello 10 al 60 |
 
 ## Con quale spec livellare
 
-I primi 20 livelli cambiano molto. Parti con Wrath, ottieni Bear Form al 10 e Cat Form al 20. L'inizio è un po' lento, ma da Cat Form in poi si va veloci.
+I primi 20 livelli cambiano molto. Inizi con Wrath, ricevi Bear Form al 10 e Cat Form al 20. L'inizio è un po' lento, ma da Cat Form in poi va veloce.
 
-**Feral** è la strada più fluida. Un gatto non deve quasi mai fermarsi per mana o cure, e Prowl, Dash e Feral Swiftness ti portano da una missione alla successiva. La stessa build tanka anche in Bear Form. **Balance con Overgrowth** immobilizza fino a tre mostri e lascia lavorare i danni nel tempo: efficiente, ma più impegnativo. **Balance con Eclipse** resta su Wrath e Starfire contro un solo bersaglio, più lento ma più sicuro. **Restoration** uccide lentamente; sceglilo solo se vuoi soprattutto curare nei dungeon.
+**Livella da Feral.** Un gatto non deve quasi mai fermarsi per mana o cure, e Prowl, Dash e Feral Swiftness ti portano da una missione alla successiva. La stessa build tanka anche in Bear Form. Balance e Restoration sono per i gruppi e per il livello 60; hanno le loro guide per [Balance](/it/guides/balance-druid/) e [Restoration](/it/guides/restoration-druid/).
 
-Le build qui sotto sono fatte per la beta, che si ferma al livello 30. Ogni build ha una versione con cinque punti in più per Talented del sistema Legacy. Il calcolatore di talenti mostra queste versioni al livello 35, perché conta ogni punto come un livello. Le build per il livello 60 arriveranno dopo il lancio. I Druid Skyborne hanno anche un percorso passo per passo nella loro zona iniziale, dal [livello 1 al 6](/it/guides/leveling/skyborne-druid-1-6/).
+La build qui sotto dà un talento per ogni livello dal 10 al 60. Con punti in Talented del sistema Legacy, raggiungi ogni talento fino a cinque livelli prima. I Druid Skyborne hanno anche un percorso passo per passo nella loro zona iniziale, dal [livello 1 al 6](/it/guides/leveling/skyborne-druid-1-6/).
 
 ## Livelli da 1 a 10
 
@@ -58,32 +58,34 @@ Per scappare usa <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever
 
 Statistiche a questi livelli: Intellect e danni magici, poi Stamina e Spirit, poi armatura.
 
-## Build Feral di livello 30
+## La build Feral dal 10 al 60
 
-Funziona per gatto e orso insieme. Alza i tuoi danni, dà Leader of the Pack al tuo gruppo e ti rende più veloce con Feral Swiftness e Feral Charge. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=-5320000212003201).
+Una sola build per gatto e orso insieme, con un talento per livello. Fino al livello 39 ogni punto va in Feral Combat; Berserk arriva al 40, e dal 41 i punti vanno in Restoration. [Apri la build al livello 60 nel calcolatore di talenti](/it/talents/druid/?t=-55232032121102212001-05503101001), oppure seguila livello per livello nella [build di leveling del Druid](/it/leveling/druid/).
 
-| Talento | Punti |
+| Livelli | Talenti |
 |---|---|
-| **Ferocity** | 5/5 |
-| **Heart of the Wild** | 3/5 |
-| **Feral Swiftness** | 2/2 |
-| **Savage Fury** | 2/2 |
-| **Feral Charge** | 1/1 |
-| **Sharpened Claws** | 2/2 |
-| **Predatory Strikes** | 3/3 |
-| **Blood Frenzy** | 2/2 |
-| **Leader of the Pack** | 1/1 |
+| **10 a 14** | 5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a> |
+| **15 a 19** | 3 Feral Instinct, 2 Feral Swiftness |
+| **20 a 24** | 1 Feral Charge, 2 Savage Fury, 2 Shredding Attacks |
+| **25 a 29** | 1 Primal Bite, 1 Shredding Attacks, 1 Shifting Power, 2 Sharpened Claws |
+| **30 a 34** | 1 Leader of the Pack, 2 Natural Instinct, 2 Blood Frenzy |
+| **35 a 39** | 2 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16940"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brutal Impact</a>, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
+| **40 a 44** | 1 Berserk, 4 Furor |
+| **45 a 49** | 1 Furor, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16833"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Natural Shapeshifter</a>, 1 Improved Shifting Power |
+| **50 a 54** | 1 Improved Shifting Power, 4 Naturalist |
+| **55 a 59** | 1 Naturalist, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17106"><img class="wf-wh__icon" src="/wh/spell_frost_windwalkon.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reflection</a>, 1 Gift of the Earthmother, 1 Swiftmend, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
+| **60** | 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
 
-Con Talented: Heart of the Wild 5/5 e Furor 3/5 in Restoration. [Apri la versione con Talented](/it/talents/druid/?t=-5520000212003201-03).
+Al livello 30 la build appare [così nel calcolatore](/it/talents/druid/?t=-5023003212110001).
 
-La build salta Shredding Attacks, perché da solo raramente ti trovi dietro un mostro per Shred. Vuoi provare Shifting Power? Metti lì dei punti. Feral Instinct rende Prowl più difficile da notare, e Primal Bite aiuta un orso a tenere la minaccia.
+**Fino al 30** la build riduce il costo dei tuoi attacchi, ti rende più veloce e più difficile da notare in Prowl, e dà Feral Charge, Primal Bite e Shifting Power. **Dal 30** Leader of the Pack, Natural Instinct e Blood Frenzy aumentano i tuoi colpi critici e ciò che restituiscono. **Al 40** Berserk fa colpire a Primal Bite fino a tre mostri, senza tempo di recupero. **In Restoration** Furor ti restituisce l'Energy quando torni in Cat Form, Natural Shapeshifter rende ogni cambio di forma più economico del 30%, e Naturalist aggiunge il 5% a tutti i tuoi danni.
 
 **Da gatto:**
 
 1. Tieni Thorns su di te.
 2. Usa Faerie Fire per ridurre l'armatura, o per attirare a distanza.
 3. Accumula Combo Points con Claw, o con Shred se sei dietro il mostro.
-4. Usa Shifting Power sotto 50 Energy, se l'hai preso.
+4. Usa Shifting Power sotto 50 Energy.
 5. Usa Rip con 4 o 5 Combo Points.
 6. Metti Rake sul mostro. Lascia stare i sanguinamenti se sta per morire.
 7. Finiscilo con Shred o Claw.
@@ -93,98 +95,10 @@ La build salta Shredding Attacks, perché da solo raramente ti trovi dietro un m
 1. Tieni Thorns su di te.
 2. Usa Faerie Fire per l'indebolimento, o per attirare a distanza. In Bear Form ora genera minaccia.
 3. Usa Demoralizing Roar.
-4. Usa Primal Bite appena è pronto, se l'hai preso.
+4. Usa Primal Bite appena è pronto.
 5. Usa Swipe contro più mostri e Maul contro uno solo.
 
 Statistiche da qui in poi: Strength, Agility e Attack Power, poi Stamina, Intellect e Spirit, poi armatura.
-
-## Build Balance con Overgrowth di livello 30
-
-Rafforza i danni nel tempo ed Entangling Roots, così logori più mostri alla volta. Molto efficiente, ma più impegnativa e rischiosa. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=513222311001).
-
-| Talento | Punti |
-|---|---|
-| **Improved Wrath** | 5/5 |
-| **Genesis** | 1/5 |
-| **Moonglow** | 3/3 |
-| **Improved Moonfire** | 2/2 |
-| **Nature's Majesty** | 2/2 |
-| **Nature's Reach** | 2/2 |
-| **Improved Entangling Roots** | 3/3 |
-| **Nature's Splendor** | 1/1 |
-| **Insect Swarm** | 1/1 |
-| **Overgrowth** | 1/2 |
-
-Con Talented: Genesis 5/5 e Overgrowth 2/2. [Apri la versione con Talented](/it/talents/druid/?t=553222311002).
-
-1. Tieni Thorns su di te.
-2. Attira con Wrath.
-3. Metti Moonfire sul mostro.
-4. Aggiungi Insect Swarm, appena ce l'hai.
-5. Immobilizzalo con Entangling Roots.
-6. Ripeti con il mostro successivo.
-7. Logorali uno per uno con Wrath mentre i danni nel tempo fanno effetto.
-
-Con 2 punti in Overgrowth immobilizzi fino a tre mostri alla volta. Con 1 punto, due.
-
-## Build Balance con Eclipse di livello 30
-
-Prende invece Improved Starfire ed Eclipse, per la rotazione su un bersaglio che userai anche al livello 60. Un po' più lenta di Overgrowth, ma più sicura. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=50322201104001).
-
-| Talento | Punti |
-|---|---|
-| **Improved Wrath** | 5/5 |
-| **Moonglow** | 3/3 |
-| **Improved Moonfire** | 2/2 |
-| **Nature's Majesty** | 2/2 |
-| **Nature's Reach** | 2/2 |
-| **Nature's Splendor** | 1/1 |
-| **Insect Swarm** | 1/1 |
-| **Improved Starfire** | 4/5 |
-| **Eclipse** | 1/3 |
-
-Con Talented: Improved Starfire 5/5, Eclipse 3/3, Nature's Grace 1/1 e Moonfury 1/5. [Apri la versione con Talented](/it/talents/druid/?t=503222011050131).
-
-1. Tieni Thorns su di te.
-2. Attira con Wrath.
-3. Metti Moonfire e Insect Swarm sul mostro.
-4. Prima del livello 30: lancia Wrath finché il mostro è quasi morto o il mana scarseggia.
-5. Dal livello 30: alterna due Starfire e un Wrath. Dopo ogni Wrath, Eclipse rende più veloci i due Starfire successivi.
-6. Finiscilo con la tua arma, o lascia fare ai danni nel tempo.
-
-Immobilizza un secondo mostro con Entangling Roots mentre finisci il primo.
-
-Statistiche per entrambe le build Balance: Intellect e danni magici, poi Stamina e Spirit, poi armatura. Altro su cooldown, mana, stats e razze per il Balance nella [guida al Balance Druid](/it/guides/balance-druid/).
-
-## Build Restoration di livello 30
-
-Livellare da guaritore è lento, perché uccidi lentamente. Ogni Druid sa già curare, e dal livello 40 Dual Specialization ti dà una seconda spec per i dungeon. Questa build è per chi vuole curare fin dall'inizio. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=--50500350021).
-
-| Talento | Punti |
-|---|---|
-| **Nature's Focus** | 5/5 |
-| **Naturalist** | 5/5 |
-| **Reflection** | 3/3 |
-| **Gift of Nature** | 5/5 |
-| **Swiftmend** | 1/1 |
-| **Improved Rejuvenation** | 2/3 |
-
-Con Talented: Improved Rejuvenation 3/3, Nature's Swiftness 1/1 e Living Spirit 3/3. [Apri la versione con Talented](/it/talents/druid/?t=--5050035003113).
-
-**Curare:**
-
-1. Usa Swiftmend su un bersaglio con Rejuvenation che ha bisogno di una cura rapida.
-2. Usa Regrowth per una cura più rapida di Healing Touch, o per una cura nel tempo in più prima di danni pesanti.
-3. Usa Healing Touch su un bersaglio a cui manca molta vita. Impara quanto cura ogni rango, così puoi sceglierne uno più basso e risparmiare mana.
-4. Tieni Rejuvenation su chi sta per subire danni, o rabbocca qualcuno tra una cura e l'altra sul tank.
-
-**Da solo:** la stessa rotazione dei livelli da 1 a 10, con Thorns, Wrath e Moonfire.
-
-Statistiche: Intellect e cure, poi Stamina e Spirit, poi armatura.
-
-Di più sul Druid Restoration al livello 60, con le macro e la build completa, nella [guida al Druid Restoration](/it/guides/restoration-druid/).
-
-Con punti in Talented del sistema Legacy, raggiungi ogni talento fino a cinque livelli prima.
 
 ![Illustrazione dipinta di un felino viola che ringhia, con occhi gialli e lunghe zanne, mentre balza da un cielo arancione](../../../../assets/posts/2026-10-06-wow-forever-feral-druid-cat-art.jpg)
 
@@ -197,30 +111,30 @@ Con punti in Talented del sistema Legacy, raggiungi ogni talento fino a cinque l
 | 8 | Entangling Roots | Istruttore di classe |
 | 10 | Bear Form, Growl, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6807"><img class="wf-wh__icon" src="/wh/ability_druid_maul.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Maul</a>, Teleport: Moonglade | Missione di classe |
 | 10 | Nature's Grasp, Demoralizing Roar | Istruttore di classe |
-| 10 | Improved Wrath, Genesis, Ferocity, Heart of the Wild, Nature's Focus, Furor | Albero dei talenti |
+| 10 | Ferocity | Albero dei talenti |
 | 12 | Regrowth, Revive, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5229"><img class="wf-wh__icon" src="/wh/ability_druid_enrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> | Istruttore di classe |
 | 14 | Cure Poison | Missione di classe |
 | 14 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5211"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bash</a> | Istruttore di classe |
-| 15 | Moonglow, Nature's Majesty, Feral Swiftness, Naturalist | Albero dei talenti |
+| 15 | Feral Instinct, Feral Swiftness | Albero dei talenti |
 | 16 | Aquatic Form | Missione di classe |
 | 16 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=779"><img class="wf-wh__icon" src="/wh/inv_misc_monsterclaw_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swipe</a> | Istruttore di classe |
 | 18 | Faerie Fire, Hibernate | Istruttore di classe |
 | 20 | Cat Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1082"><img class="wf-wh__icon" src="/wh/ability_druid_rake.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Claw</a>, Prowl, Rip | Missione di classe |
 | 20 | Shred, Starfire, Rebirth, Omen of Clarity | Istruttore di classe |
 | 20 | Armi ad asta | Istruttore d'armi |
-| 20 | Feral Charge, Nature's Splendor, Gift of the Earthmother | Albero dei talenti |
+| 20 | Feral Charge, Savage Fury, Shredding Attacks | Albero dei talenti |
 | 22 | Soothe Animal | Istruttore di classe |
 | 24 | Rake, Remove Curse | Istruttore di classe |
-| 25 | Insect Swarm, Shifting Power, Primal Bite, Swiftmend | Albero dei talenti |
+| 25 | Primal Bite, Shifting Power, Sharpened Claws | Albero dei talenti |
 | 26 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a>, Abolish Poison | Istruttore di classe |
 | 28 | Cower, Challenging Roar | Istruttore di classe |
 | 30 | Travel Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=740"><img class="wf-wh__icon" src="/wh/spell_nature_tranquility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquility</a> | Istruttore di classe |
-| 30 | Leader of the Pack, Overgrowth, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>, Nature's Swiftness | Albero dei talenti |
+| 30 | Leader of the Pack, Natural Instinct, Blood Frenzy | Albero dei talenti |
 | 32 | Ferocious Bite, Ravage, Track Humanoids | Istruttore di classe |
 | 36 | Pounce, Frenzied Regeneration | Istruttore di classe |
 | 40 | Dire Bear Form, Hurricane, Innervate, Feline Grace | Istruttore di classe |
 | 40 | cavalcature, Dual Specialization | Istruttori |
-| 40 | Moonkin Form, Berserk, Wild Growth | Albero dei talenti |
+| 40 | Berserk, Furor | Albero dei talenti |
 | 42 | Lacerate | Istruttore di classe |
 | 44 | Barkskin | Istruttore di classe |
 
@@ -320,7 +234,7 @@ Restoration aggiunge Swiftmend e Wild Growth con i suoi talenti.
 
 ## Controllo
 
-**Entangling Roots** tiene fermo un mostro, e Nature's Grasp immobilizza chi ti colpisce. Balance immobilizza fino a tre mostri insieme con Overgrowth. I Druid sono bravi nel kiting: immobilizza un mostro, allontanati mentre i danni nel tempo fanno effetto, lancia di nuovo, e passa a Cat Form se ti serve più distanza. Anche da Feral puoi tenere fermo un mostro mentre allontani l'altro.
+**Entangling Roots** tiene fermo un mostro, e Nature's Grasp immobilizza chi ti colpisce. I Druid sono bravi nel kiting: immobilizza un mostro, allontanati mentre i danni nel tempo fanno effetto, lancia di nuovo, e passa a Cat Form se ti serve più distanza. Anche da Feral puoi tenere fermo un mostro mentre allontani l'altro.
 
 **Hibernate** addormenta una bestia o un dragonide, e si spezza con i danni. **Soothe Animal** aiuta gli altri a passare accanto alle bestie. **Faerie Fire** riduce l'armatura di un mostro e lo attira a distanza senza lasciare la forma, anche per staccarlo da un gruppo.
 

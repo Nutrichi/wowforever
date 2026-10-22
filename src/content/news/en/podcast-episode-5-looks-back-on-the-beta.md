@@ -50,7 +50,7 @@ Heat maps showed testers in zones they were not meant to reach yet, such as Hyja
 
 ## Three raid sizes for every patch
 
-At launch there is a raid for 10 (Barrow Deeps), one for 20 (Hyjal Summit) and one for 40 (Onyxia's Lair), see [the three raids of 9 December](/news/blizzard-details-the-three-raids-of-9-december/). Blizzard commits to new content for 10 and 20 players in every patch, so groups of those sizes can plan ahead. The two new raids have more than 20 bosses together. The aim is "beer and pretzels": come prepared with potions and a flask, and the raid should be doable. About Molten Core, Michael Nuthals says nothing yet beyond the word "revamped" from BlizzCon. The old dungeons stay largely as they were; the new ones should feel as if the team of 2004 could have made them.
+At launch there is a raid for 10 (Barrow Deeps), one for 20 (Hyjal Summit) and one for 40 (Onyxia's Lair), see [the three raids of 9 December](/news/blizzard-details-the-three-raids-of-9-december/). Blizzard commits to new content for 10 and 20 players in every patch, so groups of those sizes can plan ahead. The two new raids have more than 20 bosses together. The aim is "beer and pretzels": come prepared with potions and a flask, and the raid should be doable. About Molten Core, the developers share nothing yet beyond the word "revamped" from BlizzCon and a hint from Aggrend that Golemagg is more than tank and spank. The old dungeons stay largely as they were; the new ones should feel as if the team of 2004 could have made them.
 
 ## Bosses teased
 

@@ -1,13 +1,13 @@
 ---
 title: "Druid leveling guide for WoW Forever"
-metaTitle: "WoW Forever Druid leveling guide: Feral, Balance and Restoration builds to 30"
-description: "How to level a Druid in WoW Forever: four level 30 builds for Feral, two kinds of Balance and Restoration, the rotation, key levels, the class quests for every form, weapons, idols, professions and shapeshifting."
+metaTitle: "WoW Forever Druid leveling guide: the Feral build from 10 to 60"
+description: "How to level a Druid in WoW Forever: one Feral build with a talent for every level from 10 to 60, the rotation, key levels, the class quests for every form, weapons, idols, professions and shapeshifting."
 short: "Druid leveling"
-updated: 2026-10-17
+updated: 2026-10-22
 lang: en
 faq:
   - q: "What is the best spec to level a Druid in WoW Forever?"
-    a: "Feral in Cat Form is the fastest and smoothest: you kill with almost no pauses for mana, and Prowl, Dash and Feral Swiftness carry you from quest to quest. Balance works too, but is slower, and leveling alone as Restoration is slow."
+    a: "Feral in Cat Form. You kill with almost no pauses for mana, and Prowl, Dash and Feral Swiftness carry you from quest to quest. The build in this guide stays Feral all the way: Feral Combat up to Berserk at 40, then Restoration for Furor, Natural Shapeshifter and Naturalist."
   - q: "When does a Druid get Bear Form and Cat Form?"
     a: "Bear Form comes at level 10 and Cat Form at level 20, both through a class quest. Aquatic Form follows at 16 through a quest as well, and Travel Form simply comes from the trainer at level 30."
   - q: "Can a Druid drink potions in a form?"
@@ -19,29 +19,29 @@ faq:
   - q: "Which professions suit a Druid?"
     a: "Herbalism is the classic choice, because you pick herbs in Travel Form. Skinning with Leatherworking works well too. Cooking is worth it for every class in Forever, because buff food gives extra experience and you need it for a camp."
   - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: the beta stops at level 30. Our Druid level build gives a talent for every level to 60."
+    a: "Yes. The Feral build in this guide gives a talent for every level from 10 to 60, and the Druid level build shows it level by level."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/druid-leveling/"
 ---
-The Druid can do almost anything in WoW Forever: tank as a bear, deal damage as a cat or from range, and heal. It also moves faster through the world than any other class. At level 30 you choose between Feral, two kinds of Balance and Restoration. This guide covers the four builds, the rotation, the key levels, the class quests, weapons and professions.
+The Druid can do almost anything in WoW Forever: tank as a bear, deal damage as a cat or from range, and heal. It also moves faster through the world than any other class. You level as Feral, with one build from level 10 to 60. This guide covers the build, the rotation, the key levels, the class quests, weapons and professions.
 
 | | |
 |---|---|
 | Easiest spec for leveling | Feral, in Cat Form |
-| Key talents | Ferocity, Feral Charge, Predatory Strikes, Leader of the Pack, Overgrowth |
+| Key talents | Ferocity, Feral Charge, Shifting Power, Leader of the Pack, Berserk |
 | Strength | Mobility, Stealth, self healing, can tank and heal |
 | Weakness | Slow start before Cat Form, mana for every shapeshift |
 | Talent order per level | [Druid level build](/leveling/druid/) |
-| Builds to level 60 | After the launch on 4 November |
+| Builds to level 60 | This guide, level 10 to 60 |
 
 ## Which spec to level with
 
 The first 20 levels change a lot. You start with Wrath, get Bear Form at 10 and Cat Form at 20. The start is a little slow, but from Cat Form on it goes fast.
 
-**Feral** is the smoothest route. A cat hardly needs to stop for mana or healing, and Prowl, Dash and Feral Swiftness bring you from one quest to the next. The same build also tanks in Bear Form. **Balance with Overgrowth** roots up to three monsters and lets damage over time do the work: efficient, but it asks more of you. **Balance with Eclipse** stays with Wrath and Starfire on one target, slower but safer. **Restoration** kills slowly; take it only if you mainly want to heal dungeons.
+**Level as Feral.** A cat hardly needs to stop for mana or healing, and Prowl, Dash and Feral Swiftness bring you from one quest to the next. The same build also tanks in Bear Form. Balance and Restoration are for groups and for level 60; they have their own guides for [Balance](/guides/balance-druid/) and [Restoration](/guides/restoration-druid/).
 
-The builds below are made for the beta, which stops at level 30. Every build has a version with five extra points for Talented from the Legacy system. The talent calculator shows those versions as level 35, because it counts every point as a level. Builds for level 60 follow after the launch. Skyborne Druids also have a step-by-step route through their starting area, from [level 1 to 6](/guides/leveling/skyborne-druid-1-6/).
+The build below gives a talent for every level from 10 to 60. With points in Talented from the Legacy system, you reach every talent up to five levels sooner. Skyborne Druids also have a step-by-step route through their starting area, from [level 1 to 6](/guides/leveling/skyborne-druid-1-6/).
 
 ## Levels 1 to 10
 
@@ -57,32 +57,34 @@ To get away, use <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever
 
 Stats at these levels: Intellect and spell damage, then Stamina and Spirit, then armor.
 
-## Level 30 Feral build
+## The Feral build from 10 to 60
 
-Works for a cat and a bear at once. It raises your damage, gives Leader of the Pack to your group and makes you faster with Feral Swiftness and Feral Charge. [Open the build in the talent calculator](/talents/druid/?t=-5320000212003201).
+One build for a cat and a bear at once, with one talent per level. Up to level 39 every point goes to Feral Combat; Berserk follows at 40, and from 41 the points go to Restoration. [Open the build at level 60 in the talent calculator](/talents/druid/?t=-55232032121102212001-05503101001), or follow it level by level in the [Druid level build](/leveling/druid/).
 
-| Talent | Points |
+| Levels | Talents |
 |---|---|
-| **Ferocity** | 5/5 |
-| **Heart of the Wild** | 3/5 |
-| **Feral Swiftness** | 2/2 |
-| **Savage Fury** | 2/2 |
-| **Feral Charge** | 1/1 |
-| **Sharpened Claws** | 2/2 |
-| **Predatory Strikes** | 3/3 |
-| **Blood Frenzy** | 2/2 |
-| **Leader of the Pack** | 1/1 |
+| **10 to 14** | 5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a> |
+| **15 to 19** | 3 Feral Instinct, 2 Feral Swiftness |
+| **20 to 24** | 1 Feral Charge, 2 Savage Fury, 2 Shredding Attacks |
+| **25 to 29** | 1 Primal Bite, 1 Shredding Attacks, 1 Shifting Power, 2 Sharpened Claws |
+| **30 to 34** | 1 Leader of the Pack, 2 Natural Instinct, 2 Blood Frenzy |
+| **35 to 39** | 2 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16940"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brutal Impact</a>, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
+| **40 to 44** | 1 Berserk, 4 Furor |
+| **45 to 49** | 1 Furor, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16833"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Natural Shapeshifter</a>, 1 Improved Shifting Power |
+| **50 to 54** | 1 Improved Shifting Power, 4 Naturalist |
+| **55 to 59** | 1 Naturalist, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17106"><img class="wf-wh__icon" src="/wh/spell_frost_windwalkon.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reflection</a>, 1 Gift of the Earthmother, 1 Swiftmend, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
+| **60** | 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
 
-With Talented: Heart of the Wild 5/5 and Furor 3/5 in Restoration. [Open the Talented version](/talents/druid/?t=-5520000212003201-03).
+At level 30 the build looks like [this in the calculator](/talents/druid/?t=-5023003212110001).
 
-The build skips Shredding Attacks, because alone you rarely get behind a monster for Shred. Want to try Shifting Power? Move points there. Feral Instinct makes Prowl harder to spot, and Primal Bite helps a bear hold threat.
+**Up to 30** the build lowers the cost of your attacks, makes you faster and harder to spot in Prowl, and gives Feral Charge, Primal Bite and Shifting Power. **From 30** Leader of the Pack, Natural Instinct and Blood Frenzy raise your critical strikes and what they give back. **At 40** Berserk lets Primal Bite hit up to three monsters without a cooldown. **In Restoration** Furor gives back your Energy when you return to Cat Form, Natural Shapeshifter makes every shift 30% cheaper, and Naturalist adds 5% to all your damage.
 
 **As a cat:**
 
 1. Keep Thorns on yourself.
 2. Use Faerie Fire for the armor debuff, or to pull from range.
 3. Build Combo Points with Claw, or with Shred if you stand behind the monster.
-4. Use Shifting Power below 50 Energy, if you took it.
+4. Use Shifting Power below 50 Energy.
 5. Use Rip at 4 or 5 Combo Points.
 6. Put Rake on the monster. Skip the bleeds if it is about to die.
 7. Finish it with Shred or Claw.
@@ -92,98 +94,10 @@ The build skips Shredding Attacks, because alone you rarely get behind a monster
 1. Keep Thorns on yourself.
 2. Use Faerie Fire for the debuff, or to pull from range. In Bear Form it now causes threat.
 3. Use Demoralizing Roar.
-4. Use Primal Bite on cooldown, if you took it.
+4. Use Primal Bite on cooldown.
 5. Use Swipe against more monsters and Maul against one.
 
 Stats from here: Strength, Agility and Attack Power, then Stamina, Intellect and Spirit, then armor.
-
-## Level 30 Balance build with Overgrowth
-
-Strengthens your damage over time and Entangling Roots, so you wear down several monsters at once. Very efficient, but busier and riskier. [Open the build in the talent calculator](/talents/druid/?t=513222311001).
-
-| Talent | Points |
-|---|---|
-| **Improved Wrath** | 5/5 |
-| **Genesis** | 1/5 |
-| **Moonglow** | 3/3 |
-| **Improved Moonfire** | 2/2 |
-| **Nature's Majesty** | 2/2 |
-| **Nature's Reach** | 2/2 |
-| **Improved Entangling Roots** | 3/3 |
-| **Nature's Splendor** | 1/1 |
-| **Insect Swarm** | 1/1 |
-| **Overgrowth** | 1/2 |
-
-With Talented: Genesis 5/5 and Overgrowth 2/2. [Open the Talented version](/talents/druid/?t=553222311002).
-
-1. Keep Thorns on yourself.
-2. Pull with Wrath.
-3. Put Moonfire on the monster.
-4. Put Insect Swarm on it, once you have it.
-5. Root it with Entangling Roots.
-6. Repeat for the next monster.
-7. Wear them down one by one with Wrath while your damage over time ticks.
-
-With 2 points in Overgrowth you root up to three monsters at once. With 1 point it is two.
-
-## Level 30 Balance build with Eclipse
-
-Takes Improved Starfire and Eclipse instead, for the rotation on one target that you will also use at level 60. A little slower than Overgrowth, but safer. [Open the build in the talent calculator](/talents/druid/?t=50322201104001).
-
-| Talent | Points |
-|---|---|
-| **Improved Wrath** | 5/5 |
-| **Moonglow** | 3/3 |
-| **Improved Moonfire** | 2/2 |
-| **Nature's Majesty** | 2/2 |
-| **Nature's Reach** | 2/2 |
-| **Nature's Splendor** | 1/1 |
-| **Insect Swarm** | 1/1 |
-| **Improved Starfire** | 4/5 |
-| **Eclipse** | 1/3 |
-
-With Talented: Improved Starfire 5/5, Eclipse 3/3, Nature's Grace 1/1 and Moonfury 1/5. [Open the Talented version](/talents/druid/?t=503222011050131).
-
-1. Keep Thorns on yourself.
-2. Pull with Wrath.
-3. Put Moonfire and Insect Swarm on the monster.
-4. Before level 30: cast Wrath until the monster is almost dead or your mana runs low.
-5. From level 30: alternate two Starfires with one Wrath. Eclipse makes the next two Starfires faster after every Wrath.
-6. Finish it with your weapon, or let your damage over time do it.
-
-Root a second monster with Entangling Roots while you finish the first.
-
-Stats for both Balance builds: Intellect and spell damage, then Stamina and Spirit, then armor. More on cooldowns, mana, stats and races for Balance is in the [Balance Druid guide](/guides/balance-druid/).
-
-## Level 30 Restoration build
-
-Leveling as a healer is slow, because you kill slowly. Every Druid can heal anyway, and from level 40 Dual Specialization gives you a second spec for dungeons. This build is for players who want to heal from the start. [Open the build in the talent calculator](/talents/druid/?t=--50500350021).
-
-| Talent | Points |
-|---|---|
-| **Nature's Focus** | 5/5 |
-| **Naturalist** | 5/5 |
-| **Reflection** | 3/3 |
-| **Gift of Nature** | 5/5 |
-| **Swiftmend** | 1/1 |
-| **Improved Rejuvenation** | 2/3 |
-
-With Talented: Improved Rejuvenation 3/3, Nature's Swiftness 1/1 and Living Spirit 3/3. [Open the Talented version](/talents/druid/?t=--5050035003113).
-
-**Healing:**
-
-1. Use Swiftmend on a target with Rejuvenation that needs a quick heal.
-2. Use Regrowth for a faster heal than Healing Touch, or for an extra heal over time before heavy damage.
-3. Use Healing Touch on a target that misses a lot of health. Learn how much each rank heals, so you can pick a lower rank and save mana.
-4. Keep Rejuvenation on whoever is about to take damage, or top someone up between heals on the tank.
-
-**Alone:** the same rotation as at levels 1 to 10, with Thorns, Wrath and Moonfire.
-
-Stats: Intellect and healing, then Stamina and Spirit, then armor.
-
-More about the Restoration Druid at level 60, with macros and the full build, is in the [Restoration Druid guide](/guides/restoration-druid/).
-
-With points in Talented from the Legacy system, you reach every talent up to five levels sooner.
 
 ![Painted art of a snarling purple cat with yellow eyes and long fangs, leaping out of an orange sky](../../../../assets/posts/2026-10-06-wow-forever-feral-druid-cat-art.jpg)
 
@@ -196,30 +110,30 @@ With points in Talented from the Legacy system, you reach every talent up to fiv
 | 8 | Entangling Roots | Class trainer |
 | 10 | Bear Form, Growl, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6807"><img class="wf-wh__icon" src="/wh/ability_druid_maul.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Maul</a>, Teleport: Moonglade | Class quest |
 | 10 | Nature's Grasp, Demoralizing Roar | Class trainer |
-| 10 | Improved Wrath, Genesis, Ferocity, Heart of the Wild, Nature's Focus, Furor | Talent tree |
+| 10 | Ferocity | Talent tree |
 | 12 | Regrowth, Revive, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5229"><img class="wf-wh__icon" src="/wh/ability_druid_enrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> | Class trainer |
 | 14 | Cure Poison | Class quest |
 | 14 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5211"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bash</a> | Class trainer |
-| 15 | Moonglow, Nature's Majesty, Feral Swiftness, Naturalist | Talent tree |
+| 15 | Feral Instinct, Feral Swiftness | Talent tree |
 | 16 | Aquatic Form | Class quest |
 | 16 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=779"><img class="wf-wh__icon" src="/wh/inv_misc_monsterclaw_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swipe</a> | Class trainer |
 | 18 | Faerie Fire, Hibernate | Class trainer |
 | 20 | Cat Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1082"><img class="wf-wh__icon" src="/wh/ability_druid_rake.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Claw</a>, Prowl, Rip | Class quest |
 | 20 | Shred, Starfire, Rebirth, Omen of Clarity | Class trainer |
 | 20 | Polearms | Weapon trainer |
-| 20 | Feral Charge, Nature's Splendor, Gift of the Earthmother | Talent tree |
+| 20 | Feral Charge, Savage Fury, Shredding Attacks | Talent tree |
 | 22 | Soothe Animal | Class trainer |
 | 24 | Rake, Remove Curse | Class trainer |
-| 25 | Insect Swarm, Shifting Power, Primal Bite, Swiftmend | Talent tree |
+| 25 | Primal Bite, Shifting Power, Sharpened Claws | Talent tree |
 | 26 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a>, Abolish Poison | Class trainer |
 | 28 | Cower, Challenging Roar | Class trainer |
 | 30 | Travel Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=740"><img class="wf-wh__icon" src="/wh/spell_nature_tranquility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquility</a> | Class trainer |
-| 30 | Leader of the Pack, Overgrowth, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>, Nature's Swiftness | Talent tree |
+| 30 | Leader of the Pack, Natural Instinct, Blood Frenzy | Talent tree |
 | 32 | Ferocious Bite, Ravage, Track Humanoids | Class trainer |
 | 36 | Pounce, Frenzied Regeneration | Class trainer |
 | 40 | Dire Bear Form, Hurricane, Innervate, Feline Grace | Class trainer |
 | 40 | riding, Dual Specialization | Trainers |
-| 40 | Moonkin Form, Berserk, Wild Growth | Talent tree |
+| 40 | Berserk, Furor | Talent tree |
 | 42 | Lacerate | Class trainer |
 | 44 | Barkskin | Class trainer |
 
@@ -319,7 +233,7 @@ Restoration adds Swiftmend and Wild Growth through its talents.
 
 ## Crowd control
 
-**Entangling Roots** holds a monster in place, and Nature's Grasp roots whoever hits you. Balance roots up to three monsters at once with Overgrowth. Druids are good at kiting: root a monster, walk away while your damage over time ticks, cast again, and switch to Cat Form when you need more distance. Even as Feral you can keep one monster rooted while you drag the other one away.
+**Entangling Roots** holds a monster in place, and Nature's Grasp roots whoever hits you. Druids are good at kiting: root a monster, walk away while your damage over time ticks, cast again, and switch to Cat Form when you need more distance. Even as Feral you can keep one monster rooted while you drag the other one away.
 
 **Hibernate** puts a beast or dragonkin to sleep, and breaks on damage. **Soothe Animal** helps others sneak past beasts. **Faerie Fire** lowers the armor of a monster and pulls it from range without leaving your form, also to separate it from a group.
 

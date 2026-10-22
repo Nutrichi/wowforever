@@ -1,14 +1,14 @@
 ---
 title: "Druid levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Druid levelgids: builds voor Feral, Balance en Restoration tot 30"
-description: "Zo level je een Druid in WoW Forever: vier builds voor level 30 voor Feral, twee soorten Balance en Restoration, de rotatie, de belangrijke levels, de classquests voor elke vorm, wapens, idols, tradeskills en shapeshiften."
+metaTitle: "WoW Forever Druid levelgids: de Feral-build van 10 tot 60"
+description: "Zo level je een Druid in WoW Forever: één Feral-build met een talent voor elk level van 10 tot 60, de rotatie, de belangrijke levels, de classquests voor elke vorm, wapens, idols, tradeskills en shapeshiften."
 short: "Druid levelen"
-updated: 2026-10-17
+updated: 2026-10-22
 lang: nl
 manual: true
 faq:
   - q: "Wat is de beste spec om een Druid te levelen in WoW Forever?"
-    a: "Feral in Cat Form is het snelst en het vlotst: je doodt bijna zonder pauzes voor mana, en Prowl, Dash en Feral Swiftness brengen je van quest naar quest. Balance werkt ook, maar trager, en alleen levelen als Restoration gaat traag."
+    a: "Feral in Cat Form. Je doodt bijna zonder pauzes voor mana, en Prowl, Dash en Feral Swiftness brengen je van quest naar quest. De build in deze gids blijft helemaal Feral: Feral Combat tot Berserk op 40, daarna Restoration voor Furor, Natural Shapeshifter en Naturalist."
   - q: "Wanneer krijgt een Druid Bear Form en Cat Form?"
     a: "Bear Form komt op level 10 en Cat Form op level 20, allebei via een classquest. Aquatic Form volgt op 16, ook via een quest, en Travel Form krijg je gewoon van de trainer op level 30."
   - q: "Kan een Druid potions drinken in een vorm?"
@@ -20,29 +20,29 @@ faq:
   - q: "Welke tradeskills passen bij een Druid?"
     a: "Herbalism is de klassieke keuze, want je plukt kruiden in Travel Form. Skinning met Leatherworking werkt ook goed. Cooking loont voor elke class in Forever, want buff food geeft extra ervaring en je hebt het nodig voor een kamp."
   - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de beta stopt op level 30. Onze levelbuild voor de Druid geeft een talent voor elk level tot 60."
+    a: "Ja. De Feral-build in deze gids geeft een talent voor elk level van 10 tot 60, en de levelbuild voor de Druid toont hem level per level."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/druid-leveling/"
 ---
-De Druid kan in WoW Forever bijna alles: tanken als beer, schade doen als kat of van op afstand, en healen. Hij beweegt ook sneller door de wereld dan elke andere class. Op level 30 kies je tussen Feral, twee soorten Balance en Restoration. Deze gids behandelt de vier builds, de rotatie, de belangrijke levels, de classquests, wapens en tradeskills.
+De Druid kan in WoW Forever bijna alles: tanken als beer, schade doen als kat of van op afstand, en healen. Hij beweegt ook sneller door de wereld dan elke andere class. Je levelt als Feral, met één build van level 10 tot 60. Deze gids behandelt de build, de rotatie, de belangrijke levels, de classquests, wapens en tradeskills.
 
 | | |
 |---|---|
 | Makkelijkste spec om te levelen | Feral, in Cat Form |
-| Belangrijke talenten | Ferocity, Feral Charge, Predatory Strikes, Leader of the Pack, Overgrowth |
+| Belangrijke talenten | Ferocity, Feral Charge, Shifting Power, Leader of the Pack, Berserk |
 | Sterk in | Mobiliteit, Stealth, zichzelf healen, kan tanken en healen |
 | Zwak in | Trage start voor Cat Form, mana voor elke shapeshift |
 | Talent per level | [Levelbuild voor de Druid](/nl/leveling/druid/) |
-| Builds tot level 60 | Na de launch op 4 november |
+| Builds tot level 60 | Deze gids, level 10 tot 60 |
 
 ## Met welke spec levelen
 
-De eerste 20 levels veranderen veel. Je begint met Wrath, krijgt Bear Form op 10 en Cat Form op 20. De start gaat wat traag, maar vanaf Cat Form gaat het snel.
+De eerste 20 levels veranderen veel. Je begint met Wrath, krijgt Bear Form op 10 en Cat Form op 20. De start is wat traag, maar vanaf Cat Form gaat het snel.
 
-**Feral** is de vlotste route. Een kat hoeft amper te stoppen voor mana of healing, en Prowl, Dash en Feral Swiftness brengen je van de ene quest naar de volgende. Dezelfde build tankt ook in Bear Form. **Balance met Overgrowth** zet tot drie monsters vast en laat schade over tijd het werk doen: efficiënt, maar het vraagt meer van je. **Balance met Eclipse** blijft bij Wrath en Starfire op één doel, trager maar veiliger. **Restoration** doodt traag; neem het alleen als je vooral dungeons wilt healen.
+**Level als Feral.** Een kat hoeft amper te stoppen voor mana of healing, en Prowl, Dash en Feral Swiftness brengen je van de ene quest naar de volgende. Dezelfde build tankt ook in Bear Form. Balance en Restoration zijn voor groepen en voor level 60; ze hebben hun eigen gidsen voor [Balance](/nl/guides/balance-druid/) en [Restoration](/nl/guides/restoration-druid/).
 
-De builds hieronder zijn gemaakt voor de beta, die stopt op level 30. Elke build heeft een versie met vijf extra punten voor Talented uit het Legacy-systeem. De talentcalculator toont die versies als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen na de launch. Skyborne Druids hebben ook een route stap voor stap door hun startgebied, van [level 1 tot 6](/nl/guides/leveling/skyborne-druid-1-6/).
+De build hieronder geeft een talent voor elk level van 10 tot 60. Met punten in Talented uit het Legacy-systeem bereik je elk talent tot vijf levels eerder. Skyborne Druids hebben ook een route stap voor stap door hun startgebied, van [level 1 tot 6](/nl/guides/leveling/skyborne-druid-1-6/).
 
 ## Level 1 tot 10
 
@@ -58,32 +58,34 @@ Om weg te komen gebruik je <a class="wf-wh wf-spell" href="https://www.wowhead.c
 
 Stats op deze levels: Intellect en spell damage, dan Stamina en Spirit, dan armor.
 
-## Feral-build voor level 30
+## De Feral-build van 10 tot 60
 
-Werkt voor een kat en een beer tegelijk. Hij verhoogt je schade, geeft je groep Leader of the Pack en maakt je sneller met Feral Swiftness en Feral Charge. [Open de build in de talentcalculator](/nl/talents/druid/?t=-5320000212003201).
+Eén build voor een kat en een beer tegelijk, met één talent per level. Tot level 39 gaat elk punt naar Feral Combat; Berserk volgt op 40, en vanaf 41 gaan de punten naar Restoration. [Open de build op level 60 in de talentcalculator](/nl/talents/druid/?t=-55232032121102212001-05503101001), of volg hem level per level in de [levelbuild voor de Druid](/nl/leveling/druid/).
 
-| Talent | Punten |
+| Levels | Talenten |
 |---|---|
-| **Ferocity** | 5/5 |
-| **Heart of the Wild** | 3/5 |
-| **Feral Swiftness** | 2/2 |
-| **Savage Fury** | 2/2 |
-| **Feral Charge** | 1/1 |
-| **Sharpened Claws** | 2/2 |
-| **Predatory Strikes** | 3/3 |
-| **Blood Frenzy** | 2/2 |
-| **Leader of the Pack** | 1/1 |
+| **10 tot 14** | 5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a> |
+| **15 tot 19** | 3 Feral Instinct, 2 Feral Swiftness |
+| **20 tot 24** | 1 Feral Charge, 2 Savage Fury, 2 Shredding Attacks |
+| **25 tot 29** | 1 Primal Bite, 1 Shredding Attacks, 1 Shifting Power, 2 Sharpened Claws |
+| **30 tot 34** | 1 Leader of the Pack, 2 Natural Instinct, 2 Blood Frenzy |
+| **35 tot 39** | 2 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16940"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brutal Impact</a>, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
+| **40 tot 44** | 1 Berserk, 4 Furor |
+| **45 tot 49** | 1 Furor, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16833"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Natural Shapeshifter</a>, 1 Improved Shifting Power |
+| **50 tot 54** | 1 Improved Shifting Power, 4 Naturalist |
+| **55 tot 59** | 1 Naturalist, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17106"><img class="wf-wh__icon" src="/wh/spell_frost_windwalkon.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reflection</a>, 1 Gift of the Earthmother, 1 Swiftmend, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
+| **60** | 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
 
-Met Talented: Heart of the Wild 5/5 en Furor 3/5 in Restoration. [Open de versie met Talented](/nl/talents/druid/?t=-5520000212003201-03).
+Op level 30 ziet de build er [zo uit in de calculator](/nl/talents/druid/?t=-5023003212110001).
 
-De build slaat Shredding Attacks over, want alleen kom je zelden achter een monster voor Shred. Wil je Shifting Power proberen? Zet daar punten. Feral Instinct maakt Prowl moeilijker te zien, en Primal Bite helpt een beer threat te houden.
+**Tot 30** maakt de build je aanvallen goedkoper, maakt hij je sneller en moeilijker te zien in Prowl, en geeft hij Feral Charge, Primal Bite en Shifting Power. **Vanaf 30** verhogen Leader of the Pack, Natural Instinct en Blood Frenzy je critical strikes en wat ze opleveren. **Op 40** laat Berserk Primal Bite tot drie monsters raken, zonder cooldown. **In Restoration** geeft Furor je Energy terug als je naar Cat Form gaat, maakt Natural Shapeshifter elke shift 30% goedkoper, en geeft Naturalist 5% extra op al je schade.
 
 **Als kat:**
 
 1. Hou Thorns op jezelf.
 2. Gebruik Faerie Fire voor de armor-debuff, of om van op afstand te pullen.
 3. Bouw Combo Points op met Claw, of met Shred als je achter het monster staat.
-4. Gebruik Shifting Power onder 50 Energy, als je het genomen hebt.
+4. Gebruik Shifting Power onder 50 Energy.
 5. Gebruik Rip op 4 of 5 Combo Points.
 6. Zet Rake op het monster. Sla de bleeds over als het bijna dood is.
 7. Maak het af met Shred of Claw.
@@ -93,98 +95,10 @@ De build slaat Shredding Attacks over, want alleen kom je zelden achter een mons
 1. Hou Thorns op jezelf.
 2. Gebruik Faerie Fire voor de debuff, of om van op afstand te pullen. In Bear Form maakt het nu threat.
 3. Gebruik Demoralizing Roar.
-4. Gebruik Primal Bite zodra de cooldown om is, als je het genomen hebt.
+4. Gebruik Primal Bite zodra de cooldown om is.
 5. Gebruik Swipe tegen meer monsters en Maul tegen één.
 
 Stats vanaf hier: Strength, Agility en Attack Power, dan Stamina, Intellect en Spirit, dan armor.
-
-## Balance-build met Overgrowth voor level 30
-
-Versterkt je schade over tijd en Entangling Roots, zodat je meerdere monsters tegelijk afmat. Heel efficiënt, maar drukker en riskanter. [Open de build in de talentcalculator](/nl/talents/druid/?t=513222311001).
-
-| Talent | Punten |
-|---|---|
-| **Improved Wrath** | 5/5 |
-| **Genesis** | 1/5 |
-| **Moonglow** | 3/3 |
-| **Improved Moonfire** | 2/2 |
-| **Nature's Majesty** | 2/2 |
-| **Nature's Reach** | 2/2 |
-| **Improved Entangling Roots** | 3/3 |
-| **Nature's Splendor** | 1/1 |
-| **Insect Swarm** | 1/1 |
-| **Overgrowth** | 1/2 |
-
-Met Talented: Genesis 5/5 en Overgrowth 2/2. [Open de versie met Talented](/nl/talents/druid/?t=553222311002).
-
-1. Hou Thorns op jezelf.
-2. Pull met Wrath.
-3. Zet Moonfire op het monster.
-4. Zet er Insect Swarm op, zodra je het hebt.
-5. Zet het vast met Entangling Roots.
-6. Herhaal voor het volgende monster.
-7. Mat ze een voor een af met Wrath terwijl je schade over tijd loopt.
-
-Met 2 punten in Overgrowth zet je tot drie monsters tegelijk vast. Met 1 punt zijn het er twee.
-
-## Balance-build met Eclipse voor level 30
-
-Neemt in de plaats Improved Starfire en Eclipse, voor de rotatie op één doel die je ook op level 60 gebruikt. Iets trager dan Overgrowth, maar veiliger. [Open de build in de talentcalculator](/nl/talents/druid/?t=50322201104001).
-
-| Talent | Punten |
-|---|---|
-| **Improved Wrath** | 5/5 |
-| **Moonglow** | 3/3 |
-| **Improved Moonfire** | 2/2 |
-| **Nature's Majesty** | 2/2 |
-| **Nature's Reach** | 2/2 |
-| **Nature's Splendor** | 1/1 |
-| **Insect Swarm** | 1/1 |
-| **Improved Starfire** | 4/5 |
-| **Eclipse** | 1/3 |
-
-Met Talented: Improved Starfire 5/5, Eclipse 3/3, Nature's Grace 1/1 en Moonfury 1/5. [Open de versie met Talented](/nl/talents/druid/?t=503222011050131).
-
-1. Hou Thorns op jezelf.
-2. Pull met Wrath.
-3. Zet Moonfire en Insect Swarm op het monster.
-4. Voor level 30: cast Wrath tot het monster bijna dood is of je mana laag staat.
-5. Vanaf level 30: wissel twee keer Starfire af met één Wrath. Na elke Wrath maakt Eclipse de volgende twee Starfires sneller.
-6. Maak het af met je wapen, of laat je schade over tijd het doen.
-
-Zet een tweede monster vast met Entangling Roots terwijl je het eerste afmaakt.
-
-Stats voor beide Balance-builds: Intellect en spell damage, dan Stamina en Spirit, dan armor. Meer over cooldowns, mana, stats en races voor Balance staat in de [Balance Druid-gids](/nl/guides/balance-druid/).
-
-## Restoration-build voor level 30
-
-Levelen als healer gaat traag, omdat je traag doodt. Elke Druid kan toch al healen, en vanaf level 40 geeft Dual Specialization je een tweede spec voor dungeons. Deze build is voor wie meteen wil healen. [Open de build in de talentcalculator](/nl/talents/druid/?t=--50500350021).
-
-| Talent | Punten |
-|---|---|
-| **Nature's Focus** | 5/5 |
-| **Naturalist** | 5/5 |
-| **Reflection** | 3/3 |
-| **Gift of Nature** | 5/5 |
-| **Swiftmend** | 1/1 |
-| **Improved Rejuvenation** | 2/3 |
-
-Met Talented: Improved Rejuvenation 3/3, Nature's Swiftness 1/1 en Living Spirit 3/3. [Open de versie met Talented](/nl/talents/druid/?t=--5050035003113).
-
-**Healen:**
-
-1. Gebruik Swiftmend op een doel met Rejuvenation dat snel healing nodig heeft.
-2. Gebruik Regrowth voor een snellere heal dan Healing Touch, of voor een extra heal over tijd voor zware schade.
-3. Gebruik Healing Touch op een doel dat veel leven mist. Leer hoeveel elke rank healt, zodat je een lagere rank kunt kiezen en mana spaart.
-4. Hou Rejuvenation op wie schade gaat krijgen, of vul iemand bij tussen de heals op de tank door.
-
-**Alleen:** dezelfde rotatie als op level 1 tot 10, met Thorns, Wrath en Moonfire.
-
-Stats: Intellect en healing, dan Stamina en Spirit, dan armor.
-
-Meer over de Restoration Druid op level 60, met macro's en de volledige build, staat in de [gids voor de Restoration Druid](/nl/guides/restoration-druid/).
-
-Met punten in Talented uit het Legacy-systeem bereik je elk talent tot vijf levels eerder.
 
 ![Geschilderde afbeelding van een grommende paarse kat met gele ogen en lange slagtanden, die uit een oranje lucht springt](../../../../assets/posts/2026-10-06-wow-forever-feral-druid-cat-art.jpg)
 
@@ -197,30 +111,30 @@ Met punten in Talented uit het Legacy-systeem bereik je elk talent tot vijf leve
 | 8 | Entangling Roots | Classtrainer |
 | 10 | Bear Form, Growl, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6807"><img class="wf-wh__icon" src="/wh/ability_druid_maul.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Maul</a>, Teleport: Moonglade | Classquest |
 | 10 | Nature's Grasp, Demoralizing Roar | Classtrainer |
-| 10 | Improved Wrath, Genesis, Ferocity, Heart of the Wild, Nature's Focus, Furor | Talentboom |
+| 10 | Ferocity | Talentboom |
 | 12 | Regrowth, Revive, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5229"><img class="wf-wh__icon" src="/wh/ability_druid_enrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> | Classtrainer |
 | 14 | Cure Poison | Classquest |
 | 14 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5211"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bash</a> | Classtrainer |
-| 15 | Moonglow, Nature's Majesty, Feral Swiftness, Naturalist | Talentboom |
+| 15 | Feral Instinct, Feral Swiftness | Talentboom |
 | 16 | Aquatic Form | Classquest |
 | 16 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=779"><img class="wf-wh__icon" src="/wh/inv_misc_monsterclaw_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swipe</a> | Classtrainer |
 | 18 | Faerie Fire, Hibernate | Classtrainer |
 | 20 | Cat Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1082"><img class="wf-wh__icon" src="/wh/ability_druid_rake.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Claw</a>, Prowl, Rip | Classquest |
 | 20 | Shred, Starfire, Rebirth, Omen of Clarity | Classtrainer |
 | 20 | Polearms | Wapentrainer |
-| 20 | Feral Charge, Nature's Splendor, Gift of the Earthmother | Talentboom |
+| 20 | Feral Charge, Savage Fury, Shredding Attacks | Talentboom |
 | 22 | Soothe Animal | Classtrainer |
 | 24 | Rake, Remove Curse | Classtrainer |
-| 25 | Insect Swarm, Shifting Power, Primal Bite, Swiftmend | Talentboom |
+| 25 | Primal Bite, Shifting Power, Sharpened Claws | Talentboom |
 | 26 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a>, Abolish Poison | Classtrainer |
 | 28 | Cower, Challenging Roar | Classtrainer |
 | 30 | Travel Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=740"><img class="wf-wh__icon" src="/wh/spell_nature_tranquility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquility</a> | Classtrainer |
-| 30 | Leader of the Pack, Overgrowth, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>, Nature's Swiftness | Talentboom |
+| 30 | Leader of the Pack, Natural Instinct, Blood Frenzy | Talentboom |
 | 32 | Ferocious Bite, Ravage, Track Humanoids | Classtrainer |
 | 36 | Pounce, Frenzied Regeneration | Classtrainer |
 | 40 | Dire Bear Form, Hurricane, Innervate, Feline Grace | Classtrainer |
 | 40 | riding, Dual Specialization | Trainers |
-| 40 | Moonkin Form, Berserk, Wild Growth | Talentboom |
+| 40 | Berserk, Furor | Talentboom |
 | 42 | Lacerate | Classtrainer |
 | 44 | Barkskin | Classtrainer |
 
@@ -320,7 +234,7 @@ Restoration voegt Swiftmend en Wild Growth toe via de talenten.
 
 ## Crowd control
 
-**Entangling Roots** houdt een monster op zijn plaats, en Nature's Grasp zet wie jou raakt vast. Balance zet met Overgrowth tot drie monsters tegelijk vast. Druids zijn goed in kiten: zet een monster vast, loop weg terwijl je schade over tijd loopt, cast opnieuw, en wissel naar Cat Form als je meer afstand nodig hebt. Ook als Feral kun je een monster vastzetten terwijl je het andere wegtrekt.
+**Entangling Roots** houdt een monster op zijn plaats, en Nature's Grasp zet wie jou raakt vast. Druids zijn goed in kiten: zet een monster vast, loop weg terwijl je schade over tijd loopt, cast opnieuw, en wissel naar Cat Form als je meer afstand nodig hebt. Ook als Feral kun je een monster vastzetten terwijl je het andere wegtrekt.
 
 **Hibernate** laat een beest of dragonkin slapen, en breekt bij schade. **Soothe Animal** helpt anderen langs beesten te sluipen. **Faerie Fire** verlaagt de armor van een monster en pullt het van op afstand zonder je vorm te verlaten, ook om het uit een groep te halen.
 
