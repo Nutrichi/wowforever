@@ -379,7 +379,7 @@
    "name": "Starving Arcane",
    "level": 33,
    "minLevel": 24,
-   "faction": null,
+   "faction": "alliance",
    "classes": null,
    "races": null,
    "xp": null,
@@ -396,13 +396,19 @@
       "y": 45.3
      },
      "taxi": {
-      "name": "The Sepulcher, Silverpine Forest",
-      "yards": 967
+      "name": "Southshore, Hillsbrad",
+      "yards": 1554
      }
     }
    ],
    "to": [],
-   "chain": [],
+   "chain": [
+    {
+     "name": "An Alarming Request",
+     "id": 92432,
+     "optional": false
+    }
+   ],
    "next": [],
    "rewards": [
     279837,

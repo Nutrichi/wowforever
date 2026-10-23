@@ -3,7 +3,7 @@ title: "City of Dalaran"
 metaTitle: "City of Dalaran quests in WoW Forever: start, steps and rewards"
 description: "All eight quests of the City of Dalaran in WoW Forever: Heart of Disruption for the key, the other quests from Stormwind, Undercity and Tarren Mill, what to do and the rewards."
 short: "Quests"
-updated: 2026-10-19
+updated: 2026-10-24
 lang: en
 sources:
   - name: "Wowhead, the dungeon guide"

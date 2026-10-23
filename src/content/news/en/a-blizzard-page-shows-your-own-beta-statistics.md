@@ -11,6 +11,7 @@ sourceUrl: "https://www.wowhead.com/forever/news/get-your-wow-forever-beta-stats
 tags: ["forever", "beta"]
 featured: false
 draft: false
+updated: 2026-10-24T00:40:00+02:00
 ---
 Blizzard has opened a page with personal statistics from the beta of World of Warcraft: Forever. Testers see how often they jumped, how many quests they completed and which monster killed them most. The page is [timewalking.blizzard.com](https://timewalking.blizzard.com/).
 
@@ -21,6 +22,12 @@ Every number comes with a percentile, which shows how a tester compares with the
 ## Fourteen statistics
 
 The page counts jumps, camping companions, quests completed and yards traveled. It also shows hours played, characters played, the most played class and zone, the nemesis, levels gained, social countries, gathering actions, items crafted and total chests looted.
+
+## Okra, clams and boars
+
+Not every card is serious. Some count the okra you looted, the clams you opened or the boars you killed, each with a joke: "Boil it, fry it, stick it in a Westfall Stew", "Aw, Shucks!" and "Step 1: Kill Boars. Step 2: ??? Step 3: Become a Legend." Hours played comes with "Your guild leader is proud. Probably."
+
+![Three stats cards from the beta: 11 okra looted, 58 clams opened and 78 boars killed, each with a percentile and a joke, an official image of World of Warcraft: Forever](../../../assets/posts/2026-10-23-wow-forever-beta-stats-okra-clams-boars.jpg)
 
 ## An image to share
 

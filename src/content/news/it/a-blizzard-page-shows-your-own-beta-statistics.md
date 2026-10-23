@@ -11,6 +11,7 @@ sourceUrl: "https://www.wowhead.com/forever/news/get-your-wow-forever-beta-stats
 tags: ["forever", "beta"]
 featured: false
 draft: false
+updated: 2026-10-24T00:40:00+02:00
 manual: true
 ---
 Blizzard ha aperto una pagina con statistiche personali della beta di World of Warcraft: Forever. I tester vedono quante volte hanno saltato, quante missioni hanno completato e quale mostro li ha uccisi più spesso. La pagina è [timewalking.blizzard.com](https://timewalking.blizzard.com/).
@@ -22,6 +23,12 @@ Ogni numero ha un percentile, che mostra come un tester si colloca rispetto agli
 ## Quattordici statistiche
 
 La pagina conta salti, compagni di campo, missioni completate e yard percorse. Mostra anche le ore giocate, i personaggi giocati, la classe e la zona più giocate, la nemesi, i livelli guadagnati, i paesi degli altri giocatori, le azioni di raccolta, gli oggetti creati e i forzieri aperti.
+
+## Okra, clams e boars
+
+Non tutte le schede sono serie. Alcune contano l'okra raccolto, le clams aperte o i boars uccisi, ognuna con una battuta: "Boil it, fry it, stick it in a Westfall Stew", "Aw, Shucks!" and "Step 1: Kill Boars. Step 2: ??? Step 3: Become a Legend." Le ore giocate hanno "Your guild leader is proud. Probably."
+
+![Tre schede di statistiche dalla beta: 11 okra raccolti, 58 clams aperte e 78 boars uccisi, ognuna con un percentile e una battuta, un'immagine ufficiale di World of Warcraft: Forever](../../../assets/posts/2026-10-23-wow-forever-beta-stats-okra-clams-boars.jpg)
 
 ## Un'immagine da condividere
 

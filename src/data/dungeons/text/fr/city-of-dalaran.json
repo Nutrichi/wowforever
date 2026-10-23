@@ -4,7 +4,7 @@
  "quests": {
   "92456": {
    "objective": "Rapportez à Shylamiir une Fel Infused Blossom de la City of Dalaran.",
-   "note": "Shylamiir se trouve dans The Park, à Stormwind."
+   "note": "Shylamiir se trouve dans The Park à Stormwind. La fleur pousse sur Runeweaver Square, où le Fel Ancient marche derrière un bouclier magique : parlez à Magus Fansy Goodbringer, du côté est, pour le retirer."
   },
   "92458": {
    "objective": "Récupérez l’Arcane Mote dans le donjon pour l’Image of Archmage Modera. La prendre vous donne la Dalaran Sewer Key.",
@@ -12,7 +12,7 @@
   },
   "92489": {
    "objective": "Tuez le Mana Elemental pour High Sorcerer Andromath dans le Mage Quarter de Stormwind.",
-   "note": "La quête appelle le boss Mana Elemental ; dans le donjon et dans l’onglet Butin, c’est Arcanic Enigma."
+   "note": "La quête appelle le boss Mana Elemental ; dans le donjon et dans l'onglet Butin, c'est Arcanic Enigma. Il patrouille au nord-est de la ville, autour du Path of Renewal."
   },
   "96984": {
    "objective": "Récupérez l’Arcane Mote dans le donjon et apportez-la à Magus Wordeen Voidglare à Tarren Mill. La prendre vous donne la Dalaran Sewer Key.",
@@ -20,16 +20,18 @@
   },
   "96987": {
    "objective": "Apportez à Rexxie Copperclutch le Founding of Dalaran, un livre trouvé dans le donjon.",
-   "note": "Rexxie se tient près de l’entrée des égouts."
+   "note": "Rexxie se tient à droite de l'entrée des égouts. Le livre dépasse d'une bibliothèque tout au fond de l'Atrium of Fortune, dans la Silver Enclave, derrière de nombreux Angry Tomes."
   },
   "96988": {
-   "objective": "Récupérez 6 Cracked Sentry Cores dans le donjon pour Doctor Martin Felben dans l’Apothecarium d’Undercity."
+   "objective": "Récupérez 6 Cracked Sentry Cores dans le donjon pour Doctor Martin Felben dans l’Apothecarium d’Undercity.",
+   "note": "Les noyaux tombent des golems Fragmented Sentry dans les rues ; certains sont déjà cassés et ne demandent qu'un clic. Six en une seule run, c'est rare, sauf si d'autres joueurs du groupe ont la quête."
   },
   "96986": {
    "objective": "Tuez Atrexis the Grave Knight, le premier boss, pour Melisara à Tarren Mill."
   },
   "92457": {
-   "objective": "Tuez 8 Seeking Remnants, 8 Saturated Remnants et 8 Mana Echoes pour l’Image of Archmage Modera devant la ville."
+   "objective": "Tuez 8 Seeking Remnants, 8 Saturated Remnants et 8 Mana Echoes pour l’Image of Archmage Modera devant la ville.",
+   "note": "Alliance uniquement. An Alarming Request, d'Emissary Jacques à Southshore, mène d'abord à Modera. Il n'y a pas assez de remnants et d'echoes pour une seule run, prévoyez de revenir."
   }
  }
 }

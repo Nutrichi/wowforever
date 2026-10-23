@@ -11,6 +11,7 @@ sourceUrl: "https://www.wowhead.com/forever/news/get-your-wow-forever-beta-stats
 tags: ["forever", "beta"]
 featured: false
 draft: false
+updated: 2026-10-24T00:40:00+02:00
 manual: true
 ---
 Blizzard a ouvert une page avec des statistiques personnelles de la bêta de World of Warcraft: Forever. Les testeurs voient combien de fois ils ont sauté, combien de quêtes ils ont terminées et quel monstre les a le plus tués. La page est [timewalking.blizzard.com](https://timewalking.blizzard.com/).
@@ -22,6 +23,12 @@ Chaque chiffre a un percentile, qui montre comment un testeur se situe par rappo
 ## Quatorze statistiques
 
 La page compte les sauts, les compagnons de camp, les quêtes terminées et les yards parcourus. Elle montre aussi les heures jouées, les personnages joués, la classe et la zone les plus jouées, l'ennemi juré, les niveaux gagnés, les pays des autres joueurs, les actions de récolte, les objets fabriqués et les coffres ouverts.
+
+## Okra, clams et boars
+
+Toutes les cartes ne sont pas sérieuses. Certaines comptent l'okra ramassé, les clams ouvertes ou les boars tués, chacune avec une blague : "Boil it, fry it, stick it in a Westfall Stew", "Aw, Shucks!" and "Step 1: Kill Boars. Step 2: ??? Step 3: Become a Legend." Les heures de jeu s'accompagnent de "Your guild leader is proud. Probably."
+
+![Trois cartes de statistiques de la bêta : 11 okra ramassés, 58 clams ouvertes et 78 boars tués, chacune avec un percentile et une blague, une image officielle de World of Warcraft: Forever](../../../assets/posts/2026-10-23-wow-forever-beta-stats-okra-clams-boars.jpg)
 
 ## Une image à partager
 

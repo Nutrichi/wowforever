@@ -11,6 +11,7 @@ sourceUrl: "https://www.wowhead.com/forever/news/get-your-wow-forever-beta-stats
 tags: ["forever", "beta"]
 featured: false
 draft: false
+updated: 2026-10-24T00:40:00+02:00
 manual: true
 ---
 Blizzard heeft een pagina geopend met persoonlijke cijfers uit de beta van World of Warcraft: Forever. Testers zien hoe vaak ze sprongen, hoeveel quests ze voltooiden en welk monster hen het vaakst doodde. De pagina is [timewalking.blizzard.com](https://timewalking.blizzard.com/).
@@ -22,6 +23,12 @@ Elk cijfer krijgt een percentiel, dat toont hoe een tester zich verhoudt tot de 
 ## Veertien cijfers
 
 De pagina telt sprongen, kampgenoten, voltooide quests en afgelegde yards. Ze toont ook de gespeelde uren, de gespeelde personages, de meest gespeelde class en zone, de aartsvijand, de gewonnen levels, de landen van medespelers, de verzamelacties, de gemaakte items en de geopende kisten.
+
+## Okra, clams en boars
+
+Niet elke kaart is ernstig. Sommige tellen de okra die je lootte, de clams die je opende of de boars die je doodde, elk met een grap: "Boil it, fry it, stick it in a Westfall Stew", "Aw, Shucks!" and "Step 1: Kill Boars. Step 2: ??? Step 3: Become a Legend." Bij de gespeelde uren staat "Your guild leader is proud. Probably."
+
+![Drie statistiekkaarten uit de beta: 11 okra gelooted, 58 clams geopend en 78 boars gedood, elk met een percentiel en een grap, een officieel beeld van World of Warcraft: Forever](../../../assets/posts/2026-10-23-wow-forever-beta-stats-okra-clams-boars.jpg)
 
 ## Een beeld om te delen
 

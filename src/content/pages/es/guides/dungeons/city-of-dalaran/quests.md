@@ -3,7 +3,7 @@ title: "City of Dalaran"
 metaTitle: "Las misiones de la City of Dalaran en WoW Forever: inicio, pasos y recompensas"
 description: "Las ocho misiones de la City of Dalaran en WoW Forever: Heart of Disruption para la llave, las demás misiones de Stormwind, Undercity y Tarren Mill, qué hacer y las recompensas."
 short: "Misiones"
-updated: 2026-10-19
+updated: 2026-10-24
 lang: es
 manual: true
 sources:

@@ -3,7 +3,7 @@ title: "City of Dalaran"
 metaTitle: "Guía de la City of Dalaran para WoW Forever: llave, trash y jefes"
 description: "Cómo hacer la City of Dalaran en WoW Forever: la entrada para las dos facciones, la Dalaran Sewer Key, el trash arcano y la táctica de los ocho jefes."
 short: "Guía"
-updated: 2026-10-19
+updated: 2026-10-24
 lang: es
 manual: true
 sources:
@@ -31,7 +31,7 @@ La ciudad ataca ahora a los jugadores de la Horda nada más verlos, y la cadena 
 
 ## La Dalaran Sewer Key
 
-La Alliance consigue la llave con una sola misión: An Alarming Request, desde el nivel 30, de Emissary Jacques en el ayuntamiento de Southshore, te manda a <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> fuera de la ciudad, y su Heart of Disruption da la llave. La Horde consigue la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a> con una cadena de siete misiones desde Tarren Mill, en Hillsbrad Foothills. Los dos que dan las misiones están en el pueblo. El creador de contenido Farmerfarms muestra toda la cadena en un vídeo.
+La Alliance consigue la llave con una sola misión: An Alarming Request, desde el nivel 30, de Emissary Jacques en el ayuntamiento de Southshore, te manda a <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> fuera de la ciudad, y su Heart of Disruption da la llave. La Horde consigue la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277507"><img class="wf-wh__icon" src="/wh/inv_misc_key_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dalaran Sewer Key</a> con una cadena desde Tarren Mill, en Hillsbrad Foothills, desde el nivel 30: cinco misiones, más dos opcionales. Los dos que dan las misiones están en el pueblo. El creador de contenido Farmerfarms muestra toda la cadena en un vídeo.
 
 <figure class="wf-embed" data-wf-video="fEruSWVwJjM">
   <button type="button" class="wf-embed__play">
@@ -55,7 +55,7 @@ Entrégalas y coge las dos siguientes.
 
 | Misión | De | Tarea |
 |---|---|---|
-| <a href="https://www.wowhead.com/forever/quest=545">Dalaran Patrols</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Mata a 6 Dalaran Summoners y 12 Elemental Slaves |
+| <a href="https://www.wowhead.com/forever/quest=545">Dalaran Patrols</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Mata a 6 Dalaran Summoners y 8 Elemental Slaves |
 | <a href="https://www.wowhead.com/forever/quest=557">Bracers of Binding</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2437">Keeper Bel'varil</a> | Lleva 4 Bracers of Earth Binding |
 
 Entrega también esas, y la cadena pasa a la ciudad.
@@ -64,6 +64,10 @@ Entrega también esas, y la cadena pasa a la ciudad.
 |---|---|---|
 | <a href="https://www.wowhead.com/forever/quest=92434">Blood in the Streets</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2410">Magus Wordeen Voidglare</a> | Entrégala a Image of Archmage Modera fuera de Dalaran |
 | <a href="https://www.wowhead.com/forever/quest=96984">Heart of Disruption</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=269127">Image of Archmage Modera</a> | Recoge el Arcane Mote dentro de la City of Dalaran |
+
+Los cuatro traidores de Prison Break In están en el Lordamere Internment Camp y alrededor: Dermot y Alina en la casa sin techo en /way 18.4 91.4, Ricter en el patio de delante en /way 19.5 91.2, y Kegan Darkmar en el piso de arriba de la casa fuera de la empalizada en /way 16.7 89.3. La Grimy Key de Key to the City está en el Warden's Footlocker de la planta baja de esa misma casa, vigilado por Warden Belamoore. Los traidores siempre sueltan su pieza, pero reaparecen despacio.
+
+Stone Tokens y Bracers of Binding son opcionales: no hacen falta para la llave. Las fichas caen pocas veces de Dalaran Theurgists y Dalaran Shield Guards, que ya son raros, y los Shield Guards devuelven el daño cuerpo a cuerpo con Violent Shield. Después de Heart of Disruption, Shrewd Negotiations devuelve el Arcane Mote a Modera; la Horde no obtiene acceso a la ciudad, solo una promesa para el futuro.
 
 Heart of Disruption da la llave. Cuatro de las misiones vienen de Classic: Prison Break In, Stone Tokens, Dalaran Patrols y Bracers of Binding. Key to the City, Blood in the Streets y Heart of Disruption son nuevas en Forever. Más en el [artículo sobre la llave](/es/news/horde-earns-the-dalaran-sewer-key-in-tarren-mill/).
 
