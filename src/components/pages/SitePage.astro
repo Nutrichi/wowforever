@@ -139,6 +139,7 @@ const jsonLd = {
       '@type': 'Article',
       headline: page.metaTitle,
       description: page.description,
+      datePublished: isoDate(page.updated),
       dateModified: isoDate(page.updated),
       inLanguage: localeTags[page.lang],
       mainEntityOfPage: canonical,
