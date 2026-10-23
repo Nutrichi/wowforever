@@ -3,7 +3,7 @@ title: "Subir un Paladin en WoW Forever: la guía"
 metaTitle: "Guía de subida del Paladin en WoW Forever: builds de Retribution, Protection y Shockadin hasta el 30"
 description: "Cómo subir un Paladin en WoW Forever: el primer build, tres builds de nivel 30 para Retribution, Protection y Shockadin, la rotación, los niveles clave, las misiones de clase y sus armas, seals, auras y blessings."
 short: "Subida del Paladin"
-updated: 2026-10-18
+updated: 2026-10-24
 lang: es
 manual: true
 faq:
@@ -34,6 +34,7 @@ El Paladin sube despacio pero seguro. Te curas tú mismo, tienes una protección
 | Puntos fuertes | Difícil de matar, se cura solo, un seal para cada situación |
 | Puntos débiles | Mata un monstruo a la vez, maná entre combates, poco para escapar |
 | Talento por nivel | [Build de subida del Paladin](/es/leveling/paladin/) |
+| Guías por spec | [Retribution Paladin](/es/guides/retribution-paladin/), [Holy Paladin](/es/guides/holy-paladin/) |
 | Builds hasta el nivel 60 | Después del lanzamiento el 4 de noviembre |
 
 ## Con qué spec subir

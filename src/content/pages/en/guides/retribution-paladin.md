@@ -5,7 +5,6 @@ description: "The Retribution Paladin in WoW Forever: the level 30 build and its
 short: "Retribution Paladin"
 updated: 2026-10-24
 lang: en
-draft: true
 faq:
   - q: "Is Retribution Paladin good in WoW Forever?"
     a: "Yes. Almost everything a Paladin does now scales with spell power, Holy Strike and Judgement go out on cooldown, and Seal of Command hits hard with a slow two-handed weapon. Retribution also brings blessings, auras and Judgements that every group wants, and it is very hard to kill."

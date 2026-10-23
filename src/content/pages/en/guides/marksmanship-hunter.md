@@ -5,7 +5,6 @@ description: "The Marksmanship Hunter in WoW Forever: the 5/46/0 build for level
 short: "Marksmanship Hunter"
 updated: 2026-10-24
 lang: en
-draft: true
 faq:
   - q: "Is Marksmanship Hunter good in WoW Forever?"
     a: "Yes. It is one of the strongest damage specs in the game, especially without a pet thanks to Lone Wolf, and the rotation is easy to learn. You keep every Hunter tool for pulls, crowd control and Feign Death."

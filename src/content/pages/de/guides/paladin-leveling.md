@@ -3,7 +3,7 @@ title: "Paladin leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Paladin-Levelguide: Builds für Retribution, Protection und Shockadin bis 30"
 description: "So levelst du einen Paladin in WoW Forever: der erste Build, drei Builds für Level 30 für Retribution, Protection und Shockadin, die Rotation, wichtige Level, die Klassenquests und ihre Waffen, Seals, Auren und Blessings."
 short: "Paladin leveln"
-updated: 2026-10-18
+updated: 2026-10-24
 lang: de
 manual: true
 faq:
@@ -34,6 +34,7 @@ Der Paladin levelt langsam, aber sicher. Du heilst dich selbst, hast einen Schut
 | Stärken | Schwer zu töten, heilt sich selbst, ein Seal für jede Lage |
 | Schwächen | Tötet ein Monster nach dem anderen, Mana zwischen den Pulls, wenig zum Fliehen |
 | Talent pro Level | [Levelbuild für den Paladin](/de/leveling/paladin/) |
+| Guides pro Spezialisierung | [Retribution Paladin](/de/guides/retribution-paladin/), [Holy Paladin](/de/guides/holy-paladin/) |
 | Builds bis Level 60 | Nach dem Launch am 4. November |
 
 ## Mit welcher Spezialisierung leveln

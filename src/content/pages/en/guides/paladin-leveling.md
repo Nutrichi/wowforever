@@ -3,7 +3,7 @@ title: "Paladin leveling guide for WoW Forever"
 metaTitle: "WoW Forever Paladin leveling guide: Retribution, Protection and Shockadin builds to 30"
 description: "How to level a Paladin in WoW Forever: the early build, three level 30 builds for Retribution, Protection and Shockadin, the rotation, key levels, the class quests and their weapons, seals, auras and blessings."
 short: "Paladin leveling"
-updated: 2026-10-18
+updated: 2026-10-24
 lang: en
 faq:
   - q: "What is the best spec to level a Paladin in WoW Forever?"
@@ -33,6 +33,7 @@ The Paladin levels slowly but safely. You heal yourself, you have a shield again
 | Strength | Hard to kill, heals itself, a seal for every situation |
 | Weakness | Kills one monster at a time, mana between pulls, little to escape with |
 | Talent order per level | [Paladin level build](/leveling/paladin/) |
+| Spec guides | [Retribution Paladin](/guides/retribution-paladin/), [Holy Paladin](/guides/holy-paladin/) |
 | Builds to level 60 | After the launch on 4 November |
 
 ## Which spec to level with

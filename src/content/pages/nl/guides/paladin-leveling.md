@@ -3,7 +3,7 @@ title: "Paladin levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Paladin levelgids: builds voor Retribution, Protection en Shockadin tot 30"
 description: "Zo level je een Paladin in WoW Forever: de eerste build, drie builds voor level 30 voor Retribution, Protection en Shockadin, de rotatie, de belangrijke levels, de classquests en hun wapens, seals, auras en blessings."
 short: "Paladin levelen"
-updated: 2026-10-18
+updated: 2026-10-24
 lang: nl
 manual: true
 faq:
@@ -34,6 +34,7 @@ De Paladin levelt traag maar veilig. Je healt jezelf, je hebt een schild tegen b
 | Sterk in | Moeilijk te doden, healt zichzelf, een seal voor elke situatie |
 | Zwak in | Doodt één monster tegelijk, mana tussen pulls, weinig om mee te vluchten |
 | Talent per level | [Levelbuild voor de Paladin](/nl/leveling/paladin/) |
+| Gidsen per spec | [Retribution Paladin](/nl/guides/retribution-paladin/), [Holy Paladin](/nl/guides/holy-paladin/) |
 | Builds tot level 60 | Na de launch op 4 november |
 
 ## Met welke spec levelen

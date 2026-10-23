@@ -3,7 +3,7 @@ title: "Monter un Rogue dans WoW Forever : le guide"
 metaTitle: "Guide de leveling Rogue WoW Forever : builds Assassination, Combat et Subtlety jusqu'au 30"
 description: "Comment monter un Rogue dans WoW Forever : quatre builds niveau 30 pour Assassination, Combat et deux styles de Subtlety, la rotation, les niveaux clés, les quêtes de poisons, les armes, les métiers et les consommables."
 short: "Leveling Rogue"
-updated: 2026-10-21
+updated: 2026-10-24
 lang: fr
 manual: true
 faq:
@@ -34,7 +34,7 @@ Le Rogue n'a jamais été la classe la plus simple à monter, mais WoW Forever a
 | Points forts | Dégâts sur une cible, contrôle, Stealth |
 | Points faibles | Peu de vie, dépend de l'équipement, peu d'utilitaire |
 | Talent par niveau | [Build de leveling du Rogue](/fr/leveling/rogue/) |
-| Guides par spé | [Assassination Rogue](/fr/guides/assassination-rogue/) |
+| Guides par spé | [Assassination Rogue](/fr/guides/assassination-rogue/), [Combat Rogue](/fr/guides/combat-rogue/), [Subtlety Rogue](/fr/guides/subtlety-rogue/) |
 | Builds jusqu'au niveau 60 | Après la sortie le 4 novembre |
 
 ## Quelle spé pour monter

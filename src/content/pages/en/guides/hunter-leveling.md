@@ -3,7 +3,7 @@ title: "Hunter leveling guide for WoW Forever"
 metaTitle: "WoW Forever Hunter leveling guide: Beast Mastery, Marksmanship and Survival builds to 30"
 description: "How to level a Hunter in WoW Forever: the early levels, three level 30 builds for Beast Mastery, Marksmanship and Survival with talent order, the rotation, key levels, the taming quest, weapons, gear, professions, pets, traps, tracking and Aspects."
 short: "Hunter leveling"
-updated: 2026-10-20
+updated: 2026-10-24
 lang: en
 faq:
   - q: "What is the best spec to level a Hunter in WoW Forever?"
@@ -31,6 +31,7 @@ The Hunter is one of the strongest classes to level. You deal damage from a dist
 | Strength | Ranged damage, a pet that tanks, crowd control, fast travel |
 | Weakness | A slow start until level 10, mana and ammunition |
 | Talent order per level | [Hunter level build](/leveling/hunter/) |
+| Spec guides | [Beast Mastery Hunter](/guides/beast-mastery-hunter/), [Marksmanship Hunter](/guides/marksmanship-hunter/) |
 | Builds to level 60 | After the launch on 4 November |
 
 ## Which spec to level with

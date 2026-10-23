@@ -5,7 +5,6 @@ description: "How to level a Shaman in WoW Forever: the early rotation, level 30
 short: "Shaman leveling"
 updated: 2026-10-24
 lang: en
-draft: true
 faq:
   - q: "What is the best spec to level a Shaman in WoW Forever?"
     a: "Enhancement. It hits hard in melee, mixes in spells, moves fast with Improved Ghost Wolf and brings Windfury Totem to groups. Elemental works but runs out of mana more, and Restoration is slow solo."

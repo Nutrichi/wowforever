@@ -3,7 +3,7 @@ title: "Monter un Hunter dans WoW Forever : le guide"
 metaTitle: "Guide leveling Hunter WoW Forever : builds Beast Mastery, Marksmanship et Survival jusqu'au 30"
 description: "Monter un Hunter dans WoW Forever : les premiers niveaux, trois builds niveau 30 pour Beast Mastery, Marksmanship et Survival avec l’ordre des talents, la rotation, les niveaux clés, la quête de dressage, les armes, l’équipement, les métiers, les familiers, les pièges, le pistage et les Aspects."
 short: "Leveling Hunter"
-updated: 2026-10-20
+updated: 2026-10-24
 lang: fr
 manual: true
 faq:
@@ -32,6 +32,7 @@ Le Hunter est l’une des classes les plus fortes pour monter de niveau. Vous fa
 | Force | Dégâts à distance, un familier qui tank, contrôle, déplacements rapides |
 | Faiblesse | Un début lent jusqu’au niveau 10, le mana et les munitions |
 | Ordre des talents par niveau | [Build de leveling du Hunter](/fr/leveling/hunter/) |
+| Guides par spé | [Beast Mastery Hunter](/fr/guides/beast-mastery-hunter/), [Marksmanship Hunter](/fr/guides/marksmanship-hunter/) |
 | Builds jusqu’au niveau 60 | Après la sortie le 4 novembre |
 
 ## Quelle spé pour monter

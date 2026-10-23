@@ -5,7 +5,6 @@ description: "The Holy Paladin in WoW Forever: the level 30 healing build and it
 short: "Holy Paladin"
 updated: 2026-10-24
 lang: en
-draft: true
 faq:
   - q: "Is Holy Paladin a good healer in WoW Forever?"
     a: "Yes. It is the most straightforward healer: big heals with a cast time, lots of critical strikes and strong mana return through Illumination. It has no healing over time and no shields, so you react to damage rather than prevent it."

@@ -3,7 +3,7 @@ title: "Rogue leveling guide for WoW Forever"
 metaTitle: "WoW Forever Rogue leveling guide: Assassination, Combat and Subtlety builds to 30"
 description: "How to level a Rogue in WoW Forever: four level 30 builds for Assassination, Combat and two kinds of Subtlety, the rotation, key levels, the poison quests, weapons, professions and consumables."
 short: "Rogue leveling"
-updated: 2026-10-21
+updated: 2026-10-24
 lang: en
 faq:
   - q: "What is the best spec to level a Rogue in WoW Forever?"
@@ -33,7 +33,7 @@ The Rogue was never the easiest class to level, but WoW Forever helps. Poisons c
 | Strength | Single target damage, crowd control, Stealth |
 | Weakness | Low health, depends on gear, little utility |
 | Talent order per level | [Rogue level build](/leveling/rogue/) |
-| Spec guides | [Assassination Rogue](/guides/assassination-rogue/) |
+| Spec guides | [Assassination Rogue](/guides/assassination-rogue/), [Combat Rogue](/guides/combat-rogue/), [Subtlety Rogue](/guides/subtlety-rogue/) |
 | Builds to level 60 | After the launch on 4 November |
 
 ## Which spec to level with

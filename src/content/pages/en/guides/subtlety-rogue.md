@@ -5,7 +5,6 @@ description: "The Subtlety Rogue in WoW Forever: an Ambush build with Cutthroat 
 short: "Subtlety Rogue"
 updated: 2026-10-24
 lang: en
-draft: true
 faq:
   - q: "Is Subtlety Rogue good in PvE in WoW Forever?"
     a: "Yes, for the first time. Forever gave Subtlety two real PvE builds: one with critical Ambushes that Cutthroat lets you use in combat, and one with bleeds, Hemorrhage and Thousand Cuts. Both shine in long fights, and poisons can now land critical strikes and scale with attack power."

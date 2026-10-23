@@ -3,7 +3,7 @@ title: "Monter un Paladin dans WoW Forever : le guide"
 metaTitle: "Guide leveling Paladin WoW Forever : builds Retribution, Protection et Shockadin jusqu'au 30"
 description: "Comment monter un Paladin dans WoW Forever : le premier build, trois builds niveau 30 pour Retribution, Protection et Shockadin, la rotation, les niveaux clés, les quêtes de classe et leurs armes, les seals, les auras et les blessings."
 short: "Leveling Paladin"
-updated: 2026-10-18
+updated: 2026-10-24
 lang: fr
 manual: true
 faq:
@@ -34,6 +34,7 @@ Le Paladin monte lentement mais sûrement. Vous vous soignez vous-même, vous av
 | Points forts | Difficile à tuer, se soigne seul, un seal pour chaque situation |
 | Points faibles | Tue un monstre à la fois, du mana entre les combats, peu de moyens de fuir |
 | Talent par niveau | [Build de leveling du Paladin](/fr/leveling/paladin/) |
+| Guides par spé | [Retribution Paladin](/fr/guides/retribution-paladin/), [Holy Paladin](/fr/guides/holy-paladin/) |
 | Builds jusqu'au niveau 60 | Après la sortie le 4 novembre |
 
 ## Quelle spé pour monter

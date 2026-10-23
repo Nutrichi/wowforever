@@ -3,7 +3,7 @@ title: "Livellare un Hunter in WoW Forever: la guida"
 metaTitle: "Guida al leveling dell'Hunter in WoW Forever: build Beast Mastery, Marksmanship e Survival fino al 30"
 description: "Come livellare un Hunter in WoW Forever: i primi livelli, tre build di livello 30 per Beast Mastery, Marksmanship e Survival con l’ordine dei talenti, la rotazione, i livelli chiave, la missione di addomesticamento, armi, equipaggiamento, professioni, famigli, trappole, tracciamento e Aspect."
 short: "Leveling Hunter"
-updated: 2026-10-20
+updated: 2026-10-24
 lang: it
 manual: true
 faq:
@@ -32,6 +32,7 @@ L’Hunter è una delle classi più forti per livellare. Fai danni da lontano, c
 | Punti forti | Danni a distanza, un famiglio che tanka, controllo, viaggi rapidi |
 | Punti deboli | Un inizio lento fino al livello 10, mana e munizioni |
 | Ordine dei talenti per livello | [Build di leveling dell’Hunter](/it/leveling/hunter/) |
+| Guide per spec | [Beast Mastery Hunter](/it/guides/beast-mastery-hunter/), [Marksmanship Hunter](/it/guides/marksmanship-hunter/) |
 | Build fino al livello 60 | Dopo il lancio del 4 novembre |
 
 ## Con quale spec livellare

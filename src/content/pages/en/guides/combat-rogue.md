@@ -5,7 +5,6 @@ description: "The Combat Rogue in WoW Forever: Hack and Slash for every weapon t
 short: "Combat Rogue"
 updated: 2026-10-24
 lang: en
-draft: true
 faq:
   - q: "Is Combat Rogue good in WoW Forever?"
     a: "Yes. Combat was the most popular PvE Rogue spec in Classic, and Forever makes it stronger. Hack and Slash replaces the old weapon specializations, so every weapon type works without a respec, and poisons can now land critical strikes and scale with attack power."

@@ -3,7 +3,7 @@ title: "Subir un Hunter en WoW Forever: la guía"
 metaTitle: "Guía de subida del Hunter en WoW Forever: builds de Beast Mastery, Marksmanship y Survival hasta el 30"
 description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, tres builds de nivel 30 para Beast Mastery, Marksmanship y Survival con el orden de talentos, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
 short: "Subir un Hunter"
-updated: 2026-10-20
+updated: 2026-10-24
 lang: es
 manual: true
 faq:
@@ -32,6 +32,7 @@ El Hunter es una de las clases más fuertes para subir de nivel. Haces daño a d
 | Fuerte en | Daño a distancia, una mascota que tanquea, control, viajes rápidos |
 | Débil en | Un comienzo lento hasta el nivel 10, el maná y la munición |
 | Orden de talentos por nivel | [Build de subida del Hunter](/es/leveling/hunter/) |
+| Guías por spec | [Beast Mastery Hunter](/es/guides/beast-mastery-hunter/), [Marksmanship Hunter](/es/guides/marksmanship-hunter/) |
 | Builds hasta nivel 60 | Tras el lanzamiento del 4 de noviembre |
 
 ## Con qué spec subir

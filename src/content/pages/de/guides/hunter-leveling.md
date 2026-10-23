@@ -3,7 +3,7 @@ title: "Hunter leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Hunter-Levelguide: Builds für Beast Mastery, Marksmanship und Survival bis 30"
 description: "Einen Hunter leveln in WoW Forever: die ersten Level, drei Builds für Level 30 für Beast Mastery, Marksmanship und Survival mit Talentreihenfolge, die Rotation, wichtige Level, die Zähmungsquest, Waffen, Ausrüstung, Berufe, Begleiter, Fallen, Aufspüren und Aspects."
 short: "Hunter leveln"
-updated: 2026-10-20
+updated: 2026-10-24
 lang: de
 manual: true
 faq:
@@ -32,6 +32,7 @@ Der Hunter ist eine der stärksten Klassen zum Leveln. Du machst Schaden aus der
 | Stärke | Fernkampfschaden, ein Begleiter, der tankt, Kontrolle, schnelles Reisen |
 | Schwäche | Ein langsamer Start bis Level 10, Mana und Munition |
 | Talentreihenfolge pro Level | [Leveling-Build für den Hunter](/de/leveling/hunter/) |
+| Guides pro Spezialisierung | [Beast Mastery Hunter](/de/guides/beast-mastery-hunter/), [Marksmanship Hunter](/de/guides/marksmanship-hunter/) |
 | Builds bis Level 60 | Nach dem Launch am 4. November |
 
 ## Mit welcher Spezialisierung leveln

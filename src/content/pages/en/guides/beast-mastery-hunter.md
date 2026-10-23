@@ -5,7 +5,6 @@ description: "The Beast Mastery Hunter in WoW Forever: the 31/20/0 build for lev
 short: "Beast Mastery Hunter"
 updated: 2026-10-24
 lang: en
-draft: true
 faq:
   - q: "Is Beast Mastery Hunter good in WoW Forever?"
     a: "Yes. It is one of the best specs for solo play, because your pet takes the hits while you shoot, and it deals competitive damage in groups with a simple rotation. Marksmanship and Survival can reach higher damage in some fights."

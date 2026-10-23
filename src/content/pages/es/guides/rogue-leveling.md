@@ -3,7 +3,7 @@ title: "Subir un Rogue en WoW Forever: la guía"
 metaTitle: "Guía de subida de Rogue en WoW Forever: builds de Assassination, Combat y Subtlety hasta el 30"
 description: "Cómo subir un Rogue en WoW Forever: cuatro builds de nivel 30 para Assassination, Combat y dos estilos de Subtlety, la rotación, los niveles clave, las misiones de venenos, las armas, las profesiones y los consumibles."
 short: "Subir un Rogue"
-updated: 2026-10-21
+updated: 2026-10-24
 lang: es
 manual: true
 faq:
@@ -34,7 +34,7 @@ El Rogue nunca fue la clase más fácil de subir, pero WoW Forever ayuda. Los Po
 | Puntos fuertes | Daño a un objetivo, control, Stealth |
 | Puntos débiles | Poca vida, depende del equipo, poca utilidad |
 | Talento por nivel | [Build de subida del Rogue](/es/leveling/rogue/) |
-| Guías por spec | [Assassination Rogue](/es/guides/assassination-rogue/) |
+| Guías por spec | [Assassination Rogue](/es/guides/assassination-rogue/), [Combat Rogue](/es/guides/combat-rogue/), [Subtlety Rogue](/es/guides/subtlety-rogue/) |
 | Builds hasta el nivel 60 | Después del lanzamiento el 4 de noviembre |
 
 ## Con qué spec subir
