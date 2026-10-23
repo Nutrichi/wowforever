@@ -1,7 +1,7 @@
 ---
 title: "Portali nascosti anticipano nuovi contenuti"
 description: "Blizzard prepara in WoW Forever il terreno per contenuti futuri. I giocatori hanno trovato nove luoghi nascosti, da Manor Mistmantle a un portale da raid in Shaper's Terrace."
-date: 2026-10-23T23:21:00+02:00
+date: 2026-10-23T23:28:00+02:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-23-wow-forever-manor-mistmantle.jpg

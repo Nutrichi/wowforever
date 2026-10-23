@@ -1,7 +1,7 @@
 ---
 title: "Versteckte Portale deuten neue Inhalte an"
 description: "Blizzard legt in WoW Forever den Grundstein für spätere Inhalte. Spieler fanden neun versteckte Orte, von Manor Mistmantle bis zu einem Raidportal in Shaper's Terrace."
-date: 2026-10-23T23:21:00+02:00
+date: 2026-10-23T23:28:00+02:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-23-wow-forever-manor-mistmantle.jpg

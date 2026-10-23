@@ -1,7 +1,7 @@
 ---
 title: "Verborgen portals wijzen op nieuwe content"
 description: "Blizzard legt in WoW Forever de basis voor latere content. Spelers vonden negen verborgen plekken, van Manor Mistmantle tot een raidportal in Shaper's Terrace."
-date: 2026-10-23T23:21:00+02:00
+date: 2026-10-23T23:28:00+02:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-23-wow-forever-manor-mistmantle.jpg

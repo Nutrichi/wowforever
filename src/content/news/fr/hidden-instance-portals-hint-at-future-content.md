@@ -1,7 +1,7 @@
 ---
 title: "Des portails cachés annoncent du contenu futur"
 description: "Blizzard prépare le terrain dans WoW Forever pour du contenu futur. Les joueurs ont trouvé neuf lieux cachés, de Manor Mistmantle à un portail de raid dans Shaper's Terrace."
-date: 2026-10-23T23:21:00+02:00
+date: 2026-10-23T23:28:00+02:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-23-wow-forever-manor-mistmantle.jpg

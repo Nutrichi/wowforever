@@ -1,7 +1,7 @@
 ---
 title: "Portales ocultos anticipan contenido futuro"
 description: "Blizzard prepara en WoW Forever el terreno para contenido futuro. Los jugadores encontraron nueve lugares ocultos, de Manor Mistmantle a un portal de banda en Shaper's Terrace."
-date: 2026-10-23T23:21:00+02:00
+date: 2026-10-23T23:28:00+02:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-23-wow-forever-manor-mistmantle.jpg
