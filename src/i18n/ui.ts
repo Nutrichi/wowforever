@@ -121,6 +121,8 @@ export const ui = {
     'kofi.label': 'Tip',
     'kofi.aria': 'Tip on Ko-fi',
     'live.aria': 'Nutri is live on YouTube, watch the stream',
+    'live.soon': 'Soon',
+    'live.soon.aria': 'Nutri goes live on YouTube soon, open the scheduled stream',
 
     'list.heading': 'ALL POSTS, NEWEST FIRST',
     'list.empty': 'No posts yet.',
@@ -266,6 +268,8 @@ export const ui = {
     'kofi.label': 'Tip',
     'kofi.aria': 'Geef een fooi via Ko-fi',
     'live.aria': 'Nutri is live op YouTube, bekijk de stream',
+    'live.soon': 'Binnenkort',
+    'live.soon.aria': 'Nutri gaat binnenkort live op YouTube, open de geplande stream',
 
     'list.heading': 'ALLE POSTS, NIEUWSTE EERST',
     'list.empty': 'Nog geen posts.',
@@ -411,6 +415,8 @@ export const ui = {
     'kofi.label': 'Pourboire',
     'kofi.aria': 'Laisser un pourboire sur Ko-fi',
     'live.aria': 'Nutri est en direct sur YouTube, regarder le stream',
+    'live.soon': 'Bientôt',
+    'live.soon.aria': 'Nutri sera bientôt en direct sur YouTube, ouvrir le stream prévu',
 
     'list.heading': 'TOUS LES ARTICLES, DU PLUS RÉCENT',
     'list.empty': 'Pas encore d’articles.',
@@ -556,6 +562,8 @@ export const ui = {
     'kofi.label': 'Propina',
     'kofi.aria': 'Deja una propina en Ko-fi',
     'live.aria': 'Nutri está en directo en YouTube, ver el stream',
+    'live.soon': 'Pronto',
+    'live.soon.aria': 'Nutri estará pronto en directo en YouTube, abrir el stream programado',
 
     'list.heading': 'TODAS LAS ENTRADAS, MÁS RECIENTES PRIMERO',
     'list.empty': 'Todavía no hay entradas.',
@@ -701,6 +709,8 @@ export const ui = {
     'kofi.label': 'Mancia',
     'kofi.aria': 'Lascia una mancia su Ko-fi',
     'live.aria': 'Nutri è in diretta su YouTube, guarda lo stream',
+    'live.soon': 'A breve',
+    'live.soon.aria': 'Nutri sarà in diretta su YouTube a breve, apri lo stream programmato',
 
     'list.heading': 'TUTTI GLI ARTICOLI, DAL PIÙ RECENTE',
     'list.empty': 'Ancora nessun articolo.',
@@ -846,6 +856,8 @@ export const ui = {
     'kofi.label': 'Trinkgeld',
     'kofi.aria': 'Trinkgeld über Ko-fi geben',
     'live.aria': 'Nutri ist live auf YouTube, zum Stream',
+    'live.soon': 'Bald',
+    'live.soon.aria': 'Nutri ist bald live auf YouTube, zum geplanten Stream',
 
     'list.heading': 'ALLE BEITRÄGE, NEUESTE ZUERST',
     'list.empty': 'Noch keine Beiträge.',

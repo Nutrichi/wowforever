@@ -15,6 +15,15 @@
  *
  * Het rode bolletje is `--wf-danger`, de enige rode kleur in het palet.
  * "LIVE" is in elke taal hetzelfde woord; de schermlezer krijgt een zin.
+ *
+ * Gepland (Nutri, 23 oktober 2026: "my website says I'm live even when I
+ * scheduled something. Can I change Live to "Upcoming" or something?"): de
+ * Edge Function geeft een geplande stream nu als `upcoming` met het beginuur.
+ * Zolang er een geplande stream is, staat hier SOON (in de taal van de pagina: Binnenkort, Bientôt, Bald, Pronto, A breve)
+ * met hetzelfde rode, kloppende bolletje als LIVE (Nutri: "keep it as a red
+ * pulsing dot but just SOON"), de datum en het uur in de tooltip; ook
+ * dagen vooruit en ook zonder bekend uur (Nutri, 23 oktober 2026: "keep the
+ * button there whenever there is a scheduled stream, no matter what").
  */
 import type { Locale } from '../i18n/ui';
 import { useTranslations } from '../i18n/utils';
@@ -36,6 +45,11 @@ const t = useTranslations(locale);
     target="_blank"
     aria-label={t('live.aria')}
     data-wf-onair={liveEndpoint}
+    data-label-live="Live"
+    data-label-soon={t('live.soon')}
+    data-aria-live={t('live.aria')}
+    data-aria-soon={t('live.soon.aria')}
+    data-locale={locale}
     hidden
   >
     <span class="wf-onair__dot" aria-hidden="true"></span>
@@ -65,6 +79,7 @@ const t = useTranslations(locale);
   .wf-onair[hidden] { display: none; }
 
   .wf-onair:hover { border-color: var(--wf-danger); }
+
 
   .wf-onair__dot {
     position: relative;
@@ -108,13 +123,25 @@ const t = useTranslations(locale);
   if (pill) {
     const endpoint = pill.dataset.wfOnair ?? '';
     const channel = pill.href;
+    const label = pill.querySelector<HTMLElement>('.wf-onair__label')!;
 
     const check = async () => {
       try {
         const response = await fetch(endpoint, { signal: AbortSignal.timeout(4_000) });
-        const data = await response.json() as { live: { id: string } | null };
-        const id = data.live?.id;
+        const data = await response.json() as {
+          live: { id: string } | null;
+          upcoming?: { id: string; start: number } | null;
+        };
+        const next = data.upcoming;
+        const soon = !data.live && !!next?.id;
+        const id = data.live?.id ?? (soon ? next.id : undefined);
         pill.href = id ? `https://www.youtube.com/watch?v=${encodeURIComponent(id)}` : channel;
+        pill.classList.toggle('is-soon', !!soon);
+        label.textContent = soon ? pill.dataset.labelSoon ?? 'Soon' : pill.dataset.labelLive ?? 'Live';
+        pill.setAttribute('aria-label', (soon ? pill.dataset.ariaSoon : pill.dataset.ariaLive) ?? '');
+        pill.title = soon && next && next.start > 0
+          ? new Date(next.start).toLocaleString(pill.dataset.locale, { weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })
+          : '';
         pill.hidden = !id;
       } catch {
         // Geen antwoord: de knop blijft zoals hij was.
