@@ -28049,6 +28049,138 @@
 "id": 7974,
 "q": 1,
 "t": "i"
+},
+"Ancestral Healing": {
+"icon": "spell_nature_undyingstrength",
+"id": 16176,
+"q": -1,
+"t": "s"
+},
+"Berserking": {
+"icon": "racial_troll_berserk",
+"id": 20554,
+"q": -1,
+"t": "s"
+},
+"Chain Heal": {
+"icon": "spell_nature_healingwavegreater",
+"id": 1064,
+"q": -1,
+"t": "s"
+},
+"Earthbind Totem": {
+"icon": "spell_nature_strengthofearthtotem02",
+"id": 2484,
+"q": -1,
+"t": "s"
+},
+"Ghost Wolf": {
+"icon": "spell_nature_spiritwolf",
+"id": 2645,
+"q": -1,
+"t": "s"
+},
+"Healing Stream Totem": {
+"icon": "inv_spear_04",
+"id": 5394,
+"q": -1,
+"t": "s"
+},
+"Healing Wave": {
+"icon": "spell_nature_magicimmunity",
+"id": 331,
+"q": -1,
+"t": "s"
+},
+"Improved Ghost Wolf": {
+"icon": "spell_nature_spiritwolf",
+"id": 16262,
+"q": -1,
+"t": "s"
+},
+"Improved Healing Wave": {
+"icon": "spell_nature_magicimmunity",
+"id": 16182,
+"q": -1,
+"t": "s"
+},
+"Mana Spring Totem": {
+"icon": "spell_nature_manaregentotem",
+"id": 5675,
+"q": -1,
+"t": "s"
+},
+"Mark of the Wild": {
+"icon": "spell_nature_regeneration",
+"id": 1126,
+"q": -1,
+"t": "s"
+},
+"Mindfulness": {
+"icon": "spell_nature_sleep",
+"id": 1223033,
+"q": -1,
+"t": "s"
+},
+"Natural Reaction": {
+"icon": "ability_bullrush",
+"id": 417051,
+"q": -1,
+"t": "s"
+},
+"Natural Shapeshifter": {
+"icon": "spell_nature_wispsplode",
+"id": 16833,
+"q": -1,
+"t": "s"
+},
+"Poison Cleansing Totem": {
+"icon": "spell_nature_poisoncleansingtotem",
+"id": 8166,
+"q": -1,
+"t": "s"
+},
+"Purge": {
+"icon": "spell_nature_purge",
+"id": 370,
+"q": -1,
+"t": "s"
+},
+"Rend and Tear": {
+"icon": "ability_druid_primalagression",
+"id": 1223246,
+"q": -1,
+"t": "s"
+},
+"Restorative Totems": {
+"icon": "spell_nature_manaregentotem",
+"id": 16187,
+"q": -1,
+"t": "s"
+},
+"Thick Hide": {
+"alt": {
+"icon": "inv_misc_pelt_bear_03",
+"id": 16929,
+"q": -1,
+"t": "s"
+},
+"icon": "inv_misc_pelt_bear_ruin_01",
+"id": 8169,
+"q": 1,
+"t": "i"
+},
+"Tidal Focus": {
+"icon": "spell_frost_manarecharge",
+"id": 16179,
+"q": -1,
+"t": "s"
+},
+"Tidal Mastery": {
+"icon": "spell_nature_tranquility",
+"id": 16194,
+"q": -1,
+"t": "s"
 }
 },
 "mop-classic": {

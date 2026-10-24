@@ -34,6 +34,7 @@ De Shaman in WoW Forever is welkom in elke groep: sterke totembuffs, een instant
 | Sterk in | Totembuffs, zelf helen, snel reizen met Ghost Wolf, kan als Enhancement lage dungeons tanken |
 | Zwak in | Mana, weinig crowd control |
 | Talentvolgorde per level | [Levelbuild voor de Shaman](/nl/leveling/shaman/) |
+| Gidsen per spec | [Restoration Shaman](/nl/guides/restoration-shaman/) |
 | Builds tot level 60 | Na de launch op 4 november |
 
 ## Met welke spec level je

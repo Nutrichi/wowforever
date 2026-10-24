@@ -34,6 +34,7 @@ De Druid kan in WoW Forever bijna alles: tanken als beer, schade doen als kat of
 | Sterk in | Mobiliteit, Stealth, zichzelf healen, kan tanken en healen |
 | Zwak in | Trage start voor Cat Form, mana voor elke shapeshift |
 | Talent per level | [Levelbuild voor de Druid](/nl/leveling/druid/) |
+| Gidsen per spec | [Balance Druid](/nl/guides/balance-druid/), [Feral Druid](/nl/guides/feral-druid/), [Restoration Druid](/nl/guides/restoration-druid/) |
 | Builds tot level 60 | Deze gids, level 10 tot 60 |
 
 ## Met welke spec levelen

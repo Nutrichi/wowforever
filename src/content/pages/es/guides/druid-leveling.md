@@ -34,6 +34,7 @@ El Druid lo puede hacer casi todo en WoW Forever: tanquear como oso, hacer daño
 | Puntos fuertes | Movilidad, Stealth, se sana solo, puede tanquear y sanar |
 | Puntos débiles | Inicio lento antes de Cat Form, maná para cada cambio de forma |
 | Talento por nivel | [Build de subida del Druid](/es/leveling/druid/) |
+| Guías por spec | [Balance Druid](/es/guides/balance-druid/), [Feral Druid](/es/guides/feral-druid/), [Restoration Druid](/es/guides/restoration-druid/) |
 | Builds hasta el nivel 60 | Esta guía, del nivel 10 al 60 |
 
 ## Con qué spec subir

@@ -33,6 +33,7 @@ The Shaman in WoW Forever is a welcome sight in every group: strong totem buffs,
 | Strength | Totem buffs, self-healing, fast travel with Ghost Wolf, can tank low dungeons as Enhancement |
 | Weakness | Mana, little crowd control |
 | Talent order per level | [Shaman level build](/leveling/shaman/) |
+| Spec guides | [Restoration Shaman](/guides/restoration-shaman/) |
 | Builds to level 60 | After the launch on 4 November |
 
 ## Which spec to level with

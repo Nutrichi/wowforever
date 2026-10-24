@@ -34,6 +34,7 @@ Der Shaman in WoW Forever ist in jeder Gruppe willkommen: starke Totembuffs, ein
 | Stärken | Totembuffs, Selbstheilung, schnelles Reisen mit Ghost Wolf, kann als Enhancement niedrige Dungeons tanken |
 | Schwächen | Mana, wenig Kontrolle |
 | Talentreihenfolge pro Level | [Leveling-Build für den Shaman](/de/leveling/shaman/) |
+| Guides pro Spezialisierung | [Restoration Shaman](/de/guides/restoration-shaman/) |
 | Builds bis Level 60 | Nach dem Start am 4. November |
 
 ## Mit welcher Spezialisierung du levelst

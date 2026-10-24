@@ -34,6 +34,7 @@ Der Druid kann in WoW Forever fast alles: als Bär tanken, als Katze oder aus de
 | Stärken | Mobilität, Stealth, Selbstheilung, kann tanken und heilen |
 | Schwächen | Langsamer Start vor Cat Form, Mana für jeden Gestaltwechsel |
 | Talent pro Level | [Levelbuild für den Druid](/de/leveling/druid/) |
+| Guides pro Spezialisierung | [Balance Druid](/de/guides/balance-druid/), [Feral Druid](/de/guides/feral-druid/), [Restoration Druid](/de/guides/restoration-druid/) |
 | Builds bis Level 60 | Dieser Guide, Level 10 bis 60 |
 
 ## Mit welcher Spezialisierung leveln

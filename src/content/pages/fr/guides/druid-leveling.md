@@ -34,6 +34,7 @@ Le Druid sait presque tout faire dans WoW Forever : tanker en ours, faire des d�
 | Points forts | Mobilité, Stealth, auto-soins, peut tanker et soigner |
 | Points faibles | Début lent avant Cat Form, mana pour chaque métamorphose |
 | Talent par niveau | [Build de leveling du Druid](/fr/leveling/druid/) |
+| Guides par spé | [Balance Druid](/fr/guides/balance-druid/), [Feral Druid](/fr/guides/feral-druid/), [Restoration Druid](/fr/guides/restoration-druid/) |
 | Builds jusqu'au niveau 60 | Ce guide, du niveau 10 au 60 |
 
 ## Quelle spé pour monter

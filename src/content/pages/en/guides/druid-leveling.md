@@ -33,6 +33,7 @@ The Druid can do almost anything in WoW Forever: tank as a bear, deal damage as 
 | Strength | Mobility, Stealth, self healing, can tank and heal |
 | Weakness | Slow start before Cat Form, mana for every shapeshift |
 | Talent order per level | [Druid level build](/leveling/druid/) |
+| Spec guides | [Balance Druid](/guides/balance-druid/), [Feral Druid](/guides/feral-druid/), [Restoration Druid](/guides/restoration-druid/) |
 | Builds to level 60 | This guide, level 10 to 60 |
 
 ## Which spec to level with

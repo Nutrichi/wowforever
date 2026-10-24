@@ -34,6 +34,7 @@ Lo Shaman di WoW Forever è benvenuto in ogni gruppo: forti benefici dai totem, 
 | Punti forti | Benefici dei totem, autocura, viaggi rapidi con Ghost Wolf, può fare da tank nei dungeon bassi come Enhancement |
 | Punti deboli | Il mana, poco controllo |
 | Ordine dei talenti per livello | [Build di leveling dello Shaman](/it/leveling/shaman/) |
+| Guide per spec | [Restoration Shaman](/it/guides/restoration-shaman/) |
 | Build fino al livello 60 | Dopo il lancio del 4 novembre |
 
 ## Con quale specializzazione livellare

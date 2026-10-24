@@ -34,6 +34,7 @@ Il Druid in WoW Forever sa fare quasi tutto: tankare da orso, fare danni da gatt
 | Punti di forza | Mobilità, Stealth, si cura da solo, può tankare e curare |
 | Punti deboli | Partenza lenta prima di Cat Form, mana per ogni cambio di forma |
 | Talento per livello | [Build di leveling del Druid](/it/leveling/druid/) |
+| Guide per spec | [Balance Druid](/it/guides/balance-druid/), [Feral Druid](/it/guides/feral-druid/), [Restoration Druid](/it/guides/restoration-druid/) |
 | Build fino al livello 60 | Questa guida, dal livello 10 al 60 |
 
 ## Con quale spec livellare
