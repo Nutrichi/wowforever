@@ -3,7 +3,7 @@ title: "RestedXP e Journey a confronto"
 metaTitle: "RestedXP vs Journey: quale addon di leveling per WoW Forever"
 description: "RestedXP e Journey fianco a fianco per WoW Forever: il prezzo, cosa è gratis, fin dove arriva ogni percorso al lancio, i codici sconto e quale fa per te."
 short: "RestedXP vs Journey"
-updated: 2026-10-21
+updated: 2026-10-25
 lang: it
 manual: true
 faq:
@@ -27,7 +27,7 @@ RestedXP e Journey sono entrambi addon di livellamento con percorsi scritti da s
 
 | | RestedXP | Journey |
 |---|---|---|
-| Guida per Forever | In vendita ora | Livelli da 1 a 30 gratis ora, da 30 a 60 dal 4 novembre |
+| Guida per Forever | 1-35 ora, 35-60 dopo il lancio | Livelli da 1 a 30 gratis ora, da 30 a 60 dal 4 novembre |
 | Prezzo | 30 dollari per una fazione, 45 per entrambe | 25 e 30 dollari fino al 4 dicembre, poi 30 e 45 |
 | Sconto | 10% con il nostro link | 10% con il codice NUTRI |
 | Parte gratuita | L'addon e i livelli da 1 a 20 | L'addon e i livelli da 1 a 30 |
@@ -39,7 +39,7 @@ Prezzi in dollari, più le tasse.
 
 ## Cosa offre RestedXP
 
-RestedXP vende la sua guida per Forever per fazione. La finestra compatta mostra un passo alla volta e può accettare e consegnare le missioni per te. La stessa azienda ha percorsi per le altre versioni di WoW Classic, con percorsi Hardcore a parte, quindi chi passa da una versione all'altra tiene un solo addon. Fin dove arriva il percorso per Forever il giorno del lancio non è ancora stato pubblicato.
+RestedXP vende la sua guida per Forever per fazione. La finestra compatta mostra un passo alla volta e può accettare e consegnare le missioni per te. La stessa azienda ha percorsi per le altre versioni di WoW Classic, con percorsi Hardcore a parte, quindi chi passa da una versione all'altra tiene un solo addon. Il suo percorso per Forever è pronto dal livello 1 al 35. I livelli da 35 a 60 arriveranno dopo il lancio; fino ad allora li copre il percorso di Classic Era. È in preparazione un percorso che sale attraverso le spedizioni.
 
 ## Cosa offre Journey
 
@@ -50,6 +50,6 @@ La parte gratuita ha già le nuove missioni di Forever, l'inizio Skyborne su Zep
 - **Vuoi provare prima di pagare.** RestedXP è gratuito fino al 20 e Journey fino al 30, quindi vedi prima il percorso.
 - **Compri prima del 4 dicembre.** Journey costa 5 dollari in meno per una fazione e 15 in meno per entrambe.
 - **Giochi anche ad altre versioni di WoW Classic.** RestedXP le copre con lo stesso addon.
-- **Vuoi tutto il percorso fino al 60 pronto al lancio.** Nessuno dei due l'ha ancora confermato. Journey dice che il percorso da 30 a 60 parte sulla strada classica e riceve le nuove missioni nelle settimane successive.
+- **Vuoi tutto il percorso fino al 60 pronto al lancio.** Nessuno dei due ce l'ha. RestedXP ha percorsi per Forever fino al livello 35 e aggiunge 35-60 dopo il lancio. Il percorso da 30 a 60 di Journey parte sulla strada classica e riceve le nuove missioni nelle settimane successive.
 
 RestedXP, Journey e Zygor insieme sono in [gli addon di livellamento per WoW Forever a confronto](/it/compare/leveling-addons-forever/).

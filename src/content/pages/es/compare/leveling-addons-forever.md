@@ -3,7 +3,7 @@ title: "Los addons para subir de nivel en WoW Forever, comparados"
 metaTitle: "Addons de leveling para WoW Forever comparados: RestedXP, Journey, Joana, Zygor"
 description: "Compara los addons para subir de nivel en WoW Forever: RestedXP, Journey, Joana's Guides y Zygor lado a lado, con sus precios, lo que cubre cada uno en el lanzamiento del 4 de noviembre y cuál te conviene."
 short: "Addons de leveling comparados"
-updated: 2026-10-22
+updated: 2026-10-25
 lang: es
 manual: true
 faq:
@@ -33,7 +33,7 @@ World of Warcraft: Forever sale el 4 de noviembre de 2026, y cuatro addons de pa
 
 | | RestedXP | Journey | Joana's Guides | Zygor |
 |---|---|---|---|---|
-| Guía de Forever | A la venta | 1 a 30 ya, el resto el 4 de noviembre | Noviembre | Noviembre |
+| Guía de Forever | 1 a 35 ya, 35 a 60 tras el lanzamiento | 1 a 30 ya, el resto el 4 de noviembre | Noviembre | Noviembre |
 | Precio | 30 / 45 dólares | 25 / 30 dólares, después 30 / 45 | 5,95 dólares al mes | 15 dólares al mes |
 | Pago | Único | Único | Mensual o único | Suscripción |
 | Descuento | 10 % con nuestro enlace | 10 % con el código NUTRI | Aún no | Ninguno |
@@ -45,7 +45,7 @@ Precios en dólares, más impuestos, por una facción / las dos. El precio rebaj
 
 ## RestedXP
 
-RestedXP vende su guía de Forever por facción en su tienda, como compra única. El addon y los niveles 1 a 20 son gratis; el resto de la ruta es la parte de pago. Las escriben speedrunners, y su ventana compacta acepta y entrega misiones por ti. Hasta dónde llega la ruta de Forever el día del lanzamiento aún no se ha publicado. La comparación fuera de Forever está en [RestedXP y Zygor comparados](/es/compare/restedxp-vs-zygor/).
+RestedXP vende su guía de Forever por facción en su tienda, como compra única. El addon y los niveles 1 a 20 son gratis; el resto de la ruta es la parte de pago. Las escriben speedrunners, y su ventana compacta acepta y entrega misiones por ti. Su ruta de Forever está lista del nivel 1 al 35. Los niveles 35 a 60 llegarán tras el lanzamiento; hasta entonces los cubre la ruta de Classic Era. Está en preparación una ruta que sube por mazmorras. La comparación fuera de Forever está en [RestedXP y Zygor comparados](/es/compare/restedxp-vs-zygor/).
 
 ## Journey
 

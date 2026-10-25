@@ -120,6 +120,7 @@ export const hubCategories: HubCategory[] = [
       { key: 'hunter-leveling', image: '2026-10-19-wow-forever-night-elf-hunter-and-wolf.jpg' },
       { key: 'beast-mastery-hunter', image: '2026-10-24-wow-forever-beast-mastery-hunter-build.jpg' },
       { key: 'marksmanship-hunter', image: '2026-10-24-wow-forever-marksmanship-hunter-build.jpg' },
+      { key: 'survival-hunter', image: '2026-10-25-wow-forever-survival-hunter-build.jpg' },
       { key: 'shaman-leveling', image: '2026-10-24-wow-forever-shaman-enhancement-build.jpg' },
       { key: 'restoration-shaman', image: '2026-10-24-wow-forever-shaman-restoration-build.jpg' },
       { key: '/classes', label: 'cardClasses', image: '2026-09-13-wow-forever-key-art.jpg' },

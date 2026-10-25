@@ -3,7 +3,7 @@ title: "Level-addons voor WoW Forever vergeleken"
 metaTitle: "Level-addons voor WoW Forever vergeleken: RestedXP, Journey, Joana, Zygor"
 description: "Vergelijk de level-addons voor WoW Forever: RestedXP, Journey, Joana's Guides en Zygor naast elkaar, met hun prijzen, wat elk dekt bij de launch op 4 november en welke bij jou past."
 short: "Level-addons vergeleken"
-updated: 2026-10-22
+updated: 2026-10-25
 lang: nl
 manual: true
 faq:
@@ -33,7 +33,7 @@ World of Warcraft: Forever start op 4 november 2026, en vier betaalde level-addo
 
 | | RestedXP | Journey | Joana's Guides | Zygor |
 |---|---|---|---|---|
-| Gids voor Forever | Nu te koop | 1 tot 30 nu, de rest op 4 november | November | November |
+| Gids voor Forever | 1 tot 35 nu, 35 tot 60 na de launch | 1 tot 30 nu, de rest op 4 november | November | November |
 | Prijs | 30 / 45 dollar | 25 / 30 dollar, later 30 / 45 | 5,95 dollar per maand | 15 dollar per maand |
 | Betaling | Eenmalig | Eenmalig | Per maand of eenmalig | Abonnement |
 | Korting | 10% met onze link | 10% met de code NUTRI | Nog niet | Geen |
@@ -45,7 +45,7 @@ Prijzen in dollar, plus btw, voor één factie / beide. De lagere prijs van Jour
 
 ## RestedXP
 
-RestedXP verkoopt zijn gids voor Forever per factie in de winkel, als eenmalige aankoop. De addon en level 1 tot 20 zijn gratis; de rest van de route is het betaalde deel. De routes komen van speedrunners, en het compacte venster neemt quests voor je aan en levert ze in. Hoe ver de route voor Forever op de eerste dag gaat, is nog niet bekend. De vergelijking buiten Forever staat in [RestedXP en Zygor vergeleken](/nl/compare/restedxp-vs-zygor/).
+RestedXP verkoopt zijn gids voor Forever per factie in de winkel, als eenmalige aankoop. De addon en level 1 tot 20 zijn gratis; de rest van de route is het betaalde deel. De routes komen van speedrunners, en het compacte venster neemt quests voor je aan en levert ze in. De route voor Forever is klaar van level 1 tot 35. Level 35 tot 60 volgt na de launch; tot dan dekt de route van Classic Era die levels. Een route die via dungeons levelt, is in de maak. De vergelijking buiten Forever staat in [RestedXP en Zygor vergeleken](/nl/compare/restedxp-vs-zygor/).
 
 ## Journey
 

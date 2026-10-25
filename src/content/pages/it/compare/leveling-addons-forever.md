@@ -3,7 +3,7 @@ title: "Gli addon di livellamento per WoW Forever a confronto"
 metaTitle: "Addon di leveling per WoW Forever a confronto: RestedXP, Journey, Joana, Zygor"
 description: "Confronta gli addon di livellamento per WoW Forever: RestedXP, Journey, Joana's Guides e Zygor fianco a fianco, con i prezzi, cosa copre ognuno al lancio del 4 novembre e quale fa per te."
 short: "Addon di leveling a confronto"
-updated: 2026-10-22
+updated: 2026-10-25
 lang: it
 manual: true
 faq:
@@ -33,7 +33,7 @@ World of Warcraft: Forever esce il 4 novembre 2026, e quattro addon di livellame
 
 | | RestedXP | Journey | Joana's Guides | Zygor |
 |---|---|---|---|---|
-| Guida per Forever | In vendita | 1-30 ora, il resto il 4 novembre | Novembre | Novembre |
+| Guida per Forever | 1-35 ora, 35-60 dopo il lancio | 1-30 ora, il resto il 4 novembre | Novembre | Novembre |
 | Prezzo | 30 / 45 dollari | 25 / 30 dollari, poi 30 / 45 | 5,95 dollari al mese | 15 dollari al mese |
 | Pagamento | Una tantum | Una tantum | Mensile o una tantum | Abbonamento |
 | Sconto | 10% con il nostro link | 10% con il codice NUTRI | Non ancora | Nessuno |
@@ -45,7 +45,7 @@ Prezzi in dollari, più le tasse, per una fazione / entrambe. Il prezzo ridotto 
 
 ## RestedXP
 
-RestedXP vende la sua guida per Forever per fazione nel suo negozio, come acquisto una tantum. L'addon e i livelli da 1 a 20 sono gratuiti; il resto del percorso è la parte a pagamento. I percorsi sono scritti da speedrunner, e la finestra compatta accetta e consegna le missioni per te. Fin dove arriva il percorso per Forever il giorno del lancio non è ancora stato pubblicato. Il confronto fuori da Forever è in [RestedXP e Zygor a confronto](/it/compare/restedxp-vs-zygor/).
+RestedXP vende la sua guida per Forever per fazione nel suo negozio, come acquisto una tantum. L'addon e i livelli da 1 a 20 sono gratuiti; il resto del percorso è la parte a pagamento. I percorsi sono scritti da speedrunner, e la finestra compatta accetta e consegna le missioni per te. Il suo percorso per Forever è pronto dal livello 1 al 35. I livelli da 35 a 60 arriveranno dopo il lancio; fino ad allora li copre il percorso di Classic Era. È in preparazione un percorso che sale attraverso le spedizioni. Il confronto fuori da Forever è in [RestedXP e Zygor a confronto](/it/compare/restedxp-vs-zygor/).
 
 ## Journey
 

@@ -3,7 +3,7 @@ title: "Les addons de leveling pour WoW Forever comparés"
 metaTitle: "Addons de leveling WoW Forever comparés : RestedXP, Journey, Joana, Zygor"
 description: "Comparez les addons de leveling pour WoW Forever : RestedXP, Journey, Joana's Guides et Zygor côte à côte, avec leurs prix, ce que chacun couvre au lancement le 4 novembre et lequel vous convient."
 short: "Addons de leveling comparés"
-updated: 2026-10-22
+updated: 2026-10-25
 lang: fr
 manual: true
 faq:
@@ -33,7 +33,7 @@ World of Warcraft: Forever sort le 4 novembre 2026, et quatre addons de leveling
 
 | | RestedXP | Journey | Joana's Guides | Zygor |
 |---|---|---|---|---|
-| Guide Forever | En vente | 1 à 30 maintenant, le reste le 4 novembre | Novembre | Novembre |
+| Guide Forever | 1 à 35 maintenant, 35 à 60 après le lancement | 1 à 30 maintenant, le reste le 4 novembre | Novembre | Novembre |
 | Prix | 30 / 45 dollars | 25 / 30 dollars, puis 30 / 45 | 5,95 dollars par mois | 15 dollars par mois |
 | Paiement | Unique | Unique | Mensuel ou unique | Abonnement |
 | Réduction | 10 % avec notre lien | 10 % avec le code NUTRI | Pas encore | Aucune |
@@ -45,7 +45,7 @@ Prix en dollars, hors taxes, pour une faction / les deux. Le prix réduit de Jou
 
 ## RestedXP
 
-RestedXP vend son guide Forever par faction dans sa boutique, en achat unique. L’addon et les niveaux 1 à 20 sont gratuits ; le reste de la route est la partie payante. Les routes sont écrites par des speedrunners, et la fenêtre compacte accepte et rend les quêtes pour vous. Jusqu’où va la route Forever le jour du lancement n’est pas encore publié. La comparaison hors Forever se trouve dans [RestedXP et Zygor comparés](/fr/compare/restedxp-vs-zygor/).
+RestedXP vend son guide Forever par faction dans sa boutique, en achat unique. L’addon et les niveaux 1 à 20 sont gratuits ; le reste de la route est la partie payante. Les routes sont écrites par des speedrunners, et la fenêtre compacte accepte et rend les quêtes pour vous. Sa route Forever est prête du niveau 1 à 35. Les niveaux 35 à 60 suivront après le lancement ; d’ici là, la route Classic Era les couvre. Une route qui monte par les donjons est en préparation. La comparaison hors Forever se trouve dans [RestedXP et Zygor comparés](/fr/compare/restedxp-vs-zygor/).
 
 ## Journey
 

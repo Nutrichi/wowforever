@@ -3,7 +3,7 @@ title: "RestedXP and Journey compared"
 metaTitle: "RestedXP vs Journey: which leveling addon for WoW Forever"
 description: "RestedXP and Journey side by side for WoW Forever: the price, what is free, how far each route goes at launch, the discount codes and which one fits you."
 short: "RestedXP vs Journey"
-updated: 2026-10-21
+updated: 2026-10-25
 lang: en
 faq:
   - q: "Which is better for WoW Forever, RestedXP or Journey?"
@@ -26,7 +26,7 @@ RestedXP and Journey are both leveling addons with routes written by speedrunner
 
 | | RestedXP | Journey |
 |---|---|---|
-| Forever guide | On sale now | Levels 1 to 30 free now, 30 to 60 from 4 November |
+| Forever guide | 1 to 35 now, 35 to 60 after launch | Levels 1 to 30 free now, 30 to 60 from 4 November |
 | Price | 30 dollars for one faction, 45 for both | 25 and 30 dollars until 4 December, then 30 and 45 |
 | Discount | 10% with our link | 10% with code NUTRI |
 | Free part | The addon and levels 1 to 20 | The addon and levels 1 to 30 |
@@ -38,7 +38,7 @@ Prices are in dollars, plus tax.
 
 ## What RestedXP offers
 
-RestedXP sells its Forever guide per faction. Its compact window shows one step at a time and can accept and hand in quests for you. The same company has routes for the other versions of WoW Classic, including separate Hardcore routes, so players who switch between versions keep one addon. How far the Forever route goes on launch day is not published yet.
+RestedXP sells its Forever guide per faction. Its compact window shows one step at a time and can accept and hand in quests for you. The same company has routes for the other versions of WoW Classic, including separate Hardcore routes, so players who switch between versions keep one addon. Its Forever route is ready from level 1 to 35. Levels 35 to 60 follow after launch; until then the Classic Era route covers them. A route that levels through dungeons is in the works.
 
 ## What Journey offers
 
@@ -49,6 +49,6 @@ The free part already has Forever's new quests, the Skyborne start on Zephras Is
 - **You want to try before you pay.** RestedXP is free up to 20 and Journey up to 30, so you see the route first.
 - **You buy before 4 December.** Journey is 5 dollars cheaper for one faction and 15 for both.
 - **You also play other versions of WoW Classic.** RestedXP covers them with the same addon.
-- **You want the whole route to 60 ready on launch day.** Neither has confirmed that yet. Journey says its 30 to 60 route starts on the classic path and gets the new quests over the following weeks.
+- **You want the whole route to 60 ready on launch day.** Neither has it. RestedXP has Forever routes up to level 35 and adds 35 to 60 after launch. Journey's 30 to 60 route starts on the classic path and gets the new quests over the following weeks.
 
 RestedXP, Journey and Zygor together are in [the leveling addons for WoW Forever compared](/compare/leveling-addons-forever/).

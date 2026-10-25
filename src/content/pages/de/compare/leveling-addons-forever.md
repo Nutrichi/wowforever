@@ -3,7 +3,7 @@ title: "Leveling-Addons für WoW Forever im Vergleich"
 metaTitle: "Leveling-Addons für WoW Forever im Vergleich: RestedXP, Journey, Joana, Zygor"
 description: "Vergleiche die Leveling-Addons für WoW Forever: RestedXP, Journey, Joana's Guides und Zygor nebeneinander, mit ihren Preisen, was jedes zum Start am 4. November abdeckt und welches zu dir passt."
 short: "Leveling-Addons im Vergleich"
-updated: 2026-10-22
+updated: 2026-10-25
 lang: de
 manual: true
 faq:
@@ -33,7 +33,7 @@ World of Warcraft: Forever startet am 4. November 2026, und vier kostenpflichtig
 
 | | RestedXP | Journey | Joana's Guides | Zygor |
 |---|---|---|---|---|
-| Guide für Forever | Erhältlich | 1 bis 30 jetzt, der Rest am 4. November | November | November |
+| Guide für Forever | 1 bis 35 jetzt, 35 bis 60 nach dem Start | 1 bis 30 jetzt, der Rest am 4. November | November | November |
 | Preis | 30 / 45 Dollar | 25 / 30 Dollar, später 30 / 45 | 5,95 Dollar im Monat | 15 Dollar im Monat |
 | Zahlung | Einmalig | Einmalig | Monatlich oder einmalig | Abo |
 | Rabatt | 10 % mit unserem Link | 10 % mit dem Code NUTRI | Noch nicht | Keiner |
@@ -45,7 +45,7 @@ Preise in Dollar, zuzüglich Steuern, für eine Fraktion / beide. Der niedrigere
 
 ## RestedXP
 
-RestedXP verkauft seinen Guide für Forever pro Fraktion im Shop, als einmaligen Kauf. Das Addon und Stufe 1 bis 20 sind kostenlos; der Rest der Route ist der bezahlte Teil. Die Routen schreiben Speedrunner, und das kompakte Fenster nimmt Quests für dich an und gibt sie ab. Wie weit die Route für Forever am ersten Tag reicht, ist noch nicht veröffentlicht. Den Vergleich außerhalb von Forever findest du in [RestedXP und Zygor im Vergleich](/de/compare/restedxp-vs-zygor/).
+RestedXP verkauft seinen Guide für Forever pro Fraktion im Shop, als einmaligen Kauf. Das Addon und Stufe 1 bis 20 sind kostenlos; der Rest der Route ist der bezahlte Teil. Die Routen schreiben Speedrunner, und das kompakte Fenster nimmt Quests für dich an und gibt sie ab. Die Route für Forever ist von Stufe 1 bis 35 fertig. Stufe 35 bis 60 folgt nach dem Start; bis dahin deckt die Route von Classic Era sie ab. Eine Route, die über Dungeons levelt, ist in Arbeit. Den Vergleich außerhalb von Forever findest du in [RestedXP und Zygor im Vergleich](/de/compare/restedxp-vs-zygor/).
 
 ## Journey
 

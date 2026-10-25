@@ -3,7 +3,7 @@ title: "RestedXP et Journey comparés"
 metaTitle: "RestedXP vs Journey : quel addon de leveling pour WoW Forever"
 description: "RestedXP et Journey côte à côte pour WoW Forever : le prix, ce qui est gratuit, jusqu’où va chaque route au lancement, les codes de réduction et lequel vous convient."
 short: "RestedXP vs Journey"
-updated: 2026-10-21
+updated: 2026-10-25
 lang: fr
 manual: true
 faq:
@@ -27,7 +27,7 @@ RestedXP et Journey sont deux addons de leveling avec des routes écrites par de
 
 | | RestedXP | Journey |
 |---|---|---|
-| Guide Forever | En vente maintenant | Niveaux 1 à 30 gratuits dès maintenant, 30 à 60 dès le 4 novembre |
+| Guide Forever | 1 à 35 maintenant, 35 à 60 après le lancement | Niveaux 1 à 30 gratuits dès maintenant, 30 à 60 dès le 4 novembre |
 | Prix | 30 dollars pour une faction, 45 pour les deux | 25 et 30 dollars jusqu’au 4 décembre, puis 30 et 45 |
 | Réduction | 10 % avec notre lien | 10 % avec le code NUTRI |
 | Partie gratuite | L’addon et les niveaux 1 à 20 | L’addon et les niveaux 1 à 30 |
@@ -39,7 +39,7 @@ Prix en dollars, hors taxes.
 
 ## Ce que propose RestedXP
 
-RestedXP vend son guide Forever par faction. Sa fenêtre compacte montre une étape à la fois et peut accepter et rendre les quêtes pour vous. La même société a des routes pour les autres versions de WoW Classic, dont des routes Hardcore séparées : qui passe d’une version à l’autre garde un seul addon. Jusqu’où va la route Forever le jour du lancement n’est pas encore publié.
+RestedXP vend son guide Forever par faction. Sa fenêtre compacte montre une étape à la fois et peut accepter et rendre les quêtes pour vous. La même société a des routes pour les autres versions de WoW Classic, dont des routes Hardcore séparées : qui passe d’une version à l’autre garde un seul addon. Sa route Forever est prête du niveau 1 à 35. Les niveaux 35 à 60 suivront après le lancement ; d’ici là, la route Classic Era les couvre. Une route qui monte par les donjons est en préparation.
 
 ## Ce que propose Journey
 
@@ -50,6 +50,6 @@ La partie gratuite contient déjà les nouvelles quêtes de Forever, le départ 
 - **Vous voulez essayer avant de payer.** RestedXP est gratuit jusqu’à 20 et Journey jusqu’à 30 : vous voyez la route d’abord.
 - **Vous achetez avant le 4 décembre.** Journey coûte 5 dollars de moins pour une faction et 15 de moins pour les deux.
 - **Vous jouez aussi à d’autres versions de WoW Classic.** RestedXP les couvre avec le même addon.
-- **Vous voulez toute la route jusqu’à 60 prête le jour du lancement.** Aucun des deux ne l’a encore confirmé. Journey indique que sa route de 30 à 60 commence sur le chemin classique et reçoit les nouvelles quêtes dans les semaines qui suivent.
+- **Vous voulez toute la route jusqu’à 60 prête le jour du lancement.** Aucun des deux ne l’a. RestedXP a des routes Forever jusqu’au niveau 35 et ajoute 35 à 60 après le lancement. La route 30 à 60 de Journey commence sur le chemin classique et reçoit les nouvelles quêtes dans les semaines qui suivent.
 
 RestedXP, Journey et Zygor ensemble sont dans [les addons de leveling pour WoW Forever comparés](/fr/compare/leveling-addons-forever/).

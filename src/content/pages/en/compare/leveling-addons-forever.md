@@ -3,7 +3,7 @@ title: "Leveling addons for WoW Forever compared"
 metaTitle: "WoW Forever leveling addons compared: RestedXP, Journey, Joana, Zygor"
 description: "Compare the leveling addons for WoW Forever: RestedXP, Journey, Joana's Guides and Zygor side by side, with their prices, what each one covers at launch on 4 November and which one fits you."
 short: "Leveling addons compared"
-updated: 2026-10-22
+updated: 2026-10-25
 lang: en
 faq:
   - q: "Which leveling addon is best for WoW Forever?"
@@ -32,7 +32,7 @@ World of Warcraft: Forever launches on 4 November 2026, and four paid leveling a
 
 | | RestedXP | Journey | Joana's Guides | Zygor |
 |---|---|---|---|---|
-| Forever guide | On sale now | 1 to 30 now, the rest on 4 November | November | November |
+| Forever guide | 1 to 35 now, 35 to 60 after launch | 1 to 30 now, the rest on 4 November | November | November |
 | Price | 30 / 45 dollars | 25 / 30 dollars, later 30 / 45 | 5.95 dollars a month | 15 dollars a month |
 | Payment | One-time | One-time | Monthly or one-time | Subscription |
 | Discount | 10% with our link | 10% with code NUTRI | Not yet | None |
@@ -44,7 +44,7 @@ Prices in dollars, plus tax, for one faction / both. Journey's lower price runs 
 
 ## RestedXP
 
-RestedXP sells its Forever guide per faction in its store, as a one-time purchase. The addon and levels 1 to 20 are free; the rest of the route is the paid part. Its routes are written by speedrunners and are known for a compact window that accepts and hands in quests for you. How far the Forever route goes on launch day is not published yet. The comparison outside Forever is in [RestedXP and Zygor compared](/compare/restedxp-vs-zygor/).
+RestedXP sells its Forever guide per faction in its store, as a one-time purchase. The addon and levels 1 to 20 are free; the rest of the route is the paid part. Its routes are written by speedrunners and are known for a compact window that accepts and hands in quests for you. Its Forever route is ready from level 1 to 35. Levels 35 to 60 follow after launch; until then the Classic Era route covers them. A route that levels through dungeons is in the works. The comparison outside Forever is in [RestedXP and Zygor compared](/compare/restedxp-vs-zygor/).
 
 ## Journey
 

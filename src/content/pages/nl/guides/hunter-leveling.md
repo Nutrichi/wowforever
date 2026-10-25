@@ -3,7 +3,7 @@ title: "Hunter levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Hunter-levelgids: builds voor Beast Mastery, Marksmanship en Survival tot 30"
 description: "Een Hunter levelen in WoW Forever: de eerste levels, drie builds voor level 30 voor Beast Mastery, Marksmanship en Survival met talentvolgorde, de rotatie, de belangrijke levels, de temquest, wapens, gear, tradeskills, pets, traps, tracking en Aspects."
 short: "Hunter levelen"
-updated: 2026-10-24
+updated: 2026-10-25
 lang: nl
 manual: true
 faq:
@@ -32,7 +32,7 @@ De Hunter is een van de sterkste classes om te levelen. Je doet schade van afsta
 | Sterk in | Schade van afstand, een pet die tankt, crowd control, snel reizen |
 | Zwak in | Een trage start tot level 10, mana en munitie |
 | Talentvolgorde per level | [Levelbuild voor de Hunter](/nl/leveling/hunter/) |
-| Gidsen per spec | [Beast Mastery Hunter](/nl/guides/beast-mastery-hunter/), [Marksmanship Hunter](/nl/guides/marksmanship-hunter/) |
+| Gidsen per spec | [Beast Mastery Hunter](/nl/guides/beast-mastery-hunter/), [Marksmanship Hunter](/nl/guides/marksmanship-hunter/), [Survival Hunter](/nl/guides/survival-hunter/) |
 | Builds tot level 60 | Na de launch op 4 november |
 
 ## Met welke spec levelen
