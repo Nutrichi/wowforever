@@ -3,7 +3,7 @@ title: "Journey, l'addon di leveling per WoW Forever"
 metaTitle: "Addon Journey per WoW Forever: guida al leveling, prezzo e codice NUTRI"
 description: "Journey è un addon di guida al leveling fatto per WoW Forever: gratis dal livello 1 al 30, un prezzo unico per il percorso fino al 60, come installarlo, e il 10% di sconto con il codice NUTRI."
 short: "Addon di leveling Journey"
-updated: 2026-10-22
+updated: 2026-10-25
 lang: it
 manual: true
 faq:
@@ -35,6 +35,16 @@ Journey è un addon di guida al leveling fatto per World of Warcraft: Forever. I
 | Prezzo | 30 dollari per entrambe le fazioni, 25 per una, fino al 4 dicembre |
 | Sconto | Codice NUTRI, 10% |
 | Download | [CurseForge](https://www.curseforge.com/wow/addons/journey) |
+
+<figure class="wf-embed" data-wf-video="rqPdJwVbzcI">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">Journey: Review of the Leveling Addon for WoW Forever</span>
+      <span class="wf-embed__meta">Avvia il video. Nutri - WoW Forever Guides su YouTube, 9 minuti.</span>
+    </span>
+  </button>
+</figure>
 
 ## Cosa fa Journey
 
