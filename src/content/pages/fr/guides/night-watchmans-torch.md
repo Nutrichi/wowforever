@@ -3,7 +3,7 @@ title: "Night Watchman's Torch : comment l'obtenir dans WoW Forever"
 metaTitle: "Night Watchman's Torch dans WoW Forever : emplacement, apparition nocturne et usage"
 description: "Comment obtenir la Night Watchman's Torch dans WoW Forever : le Night Watch Guard de Duskwood, quand il apparaît, où il se trouve, le trajet pour la Horde et ce que fait la torche."
 short: "Night Watchman's Torch"
-updated: 2026-10-16
+updated: 2026-10-25
 lang: fr
 manual: true
 faq:
@@ -50,7 +50,7 @@ La torche révèle aussi des choses cachées. Une Hidden Stash dans la grotte de
 ## Comment l'obtenir
 
 1. **Allez à Duskwood la nuit.** Le Night Watch Guard n'apparaît que la nuit ; à partir de 20 h, heure du jeu, les chances sont les meilleures.
-2. **Cherchez le garde.** Commencez à Raven Hill, /way Duskwood 18.1 55.2, l'endroit où il apparaît le plus souvent. La macro `/target Night Watch Guard` aide à le trouver dans le noir.
+2. **Cherchez le garde.** Commencez à Raven Hill, /way Duskwood 17.2 54.4, l'endroit où il apparaît le plus souvent. Vérifiez ensuite les cinq autres endroits. La macro `/target Night Watch Guard` aide à le trouver dans le noir.
 3. **Prenez la quête.** Un point d'exclamation jaune flotte au-dessus du corps. Acceptez la quête et terminez-la sur place ; la torche va dans vos sacs.
 
 Plusieurs joueurs peuvent faire la quête sur le même garde. Une fois la torche obtenue, la quête disparaît pour vous, mais le garde reste dans le monde.
@@ -59,14 +59,18 @@ Plusieurs joueurs peuvent faire la quête sur le même garde. Une fois la torche
 
 ## Où se trouve le garde
 
-Il n'a pas d'emplacement fixe. Les joueurs de la bêta l'ont trouvé à ces endroits :
+Il n'a pas d'emplacement fixe. Il apparaît à l'un des six endroits indiqués sur la carte de Duskwood.
+
+![La carte de Duskwood avec les six endroits où peut se trouver le Night Watch Guard, une capture d'écran de la beta de World of Warcraft: Forever](../../../../assets/posts/2026-10-25-wow-forever-night-watch-guard-spawns.jpg)
 
 | Lieu | Où |
 |---|---|
-| **Raven Hill** | Juste au sud du cimetière, /way 18.1 55.2, l'endroit le plus fréquent |
-| **Carrefour** | Au sud de la Twilight Grove, là où les routes se croisent |
-| **Route du sud** | Sur la route du sud vers Stranglethorn Vale |
-| **Nord-est** | Entre la Twilight Grove et Darkshire, au nord de la route |
+| **Raven Hill, nord** | Au nord du cimetière, /way 23.6 33.2 |
+| **Raven Hill, ouest** | À l'ouest des maisons, /way 17.2 54.4, l'endroit le plus fréquent |
+| **Twilight Grove** | Au sud de la Twilight Grove, près de la route, /way 47.6 59.6 |
+| **Route du sud** | Sur la route du sud vers Stranglethorn Vale, /way 45.6 79.0 |
+| **Fermes** | À l'est des champs, à l'ouest du Tranquil Gardens Cemetery, /way 68.8 69.6 |
+| **Nord-est** | Entre la Twilight Grove et Darkshire, /way 66.0 33.8 |
 
 ## Pour la Horde
 

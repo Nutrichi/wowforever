@@ -3,7 +3,7 @@ title: "Night Watchman's Torch: zo krijg je hem in WoW Forever"
 metaTitle: "Night Watchman's Torch in WoW Forever: plek, nachtelijke spawn en gebruik"
 description: "Zo krijg je de Night Watchman's Torch in WoW Forever: de Night Watch Guard in Duskwood, wanneer hij verschijnt, waar hij ligt, de route voor de Horde en wat de fakkel doet."
 short: "Night Watchman's Torch"
-updated: 2026-10-16
+updated: 2026-10-25
 lang: nl
 manual: true
 faq:
@@ -50,7 +50,7 @@ De fakkel toont ook verborgen dingen. Een Hidden Stash in de grot van Ringo in U
 ## Zo krijg je hem
 
 1. **Ga 's nachts naar Duskwood.** De Night Watch Guard verschijnt alleen 's nachts; vanaf 20.00 uur speltijd is de kans het grootst.
-2. **Zoek de wachter.** Begin bij Raven Hill, /way Duskwood 18.1 55.2, de plek waar hij het vaakst opduikt. De macro `/target Night Watch Guard` helpt om hem in het donker te vinden.
+2. **Zoek de wachter.** Begin bij Raven Hill, /way Duskwood 17.2 54.4, de plek waar hij het vaakst opduikt. Kijk daarna de andere vijf plaatsen na. De macro `/target Night Watch Guard` helpt om hem in het donker te vinden.
 3. **Neem de quest.** Boven het lichaam hangt een geel uitroepteken. Aanvaard de quest en rond hem ter plekke af; de fakkel gaat in je tassen.
 
 Meer spelers kunnen de quest bij dezelfde wachter doen. Heb je de fakkel, dan verdwijnt de quest voor jou, maar de wachter blijft in de wereld.
@@ -59,14 +59,18 @@ Meer spelers kunnen de quest bij dezelfde wachter doen. Heb je de fakkel, dan ve
 
 ## Waar de wachter ligt
 
-Hij heeft geen vaste plek. Spelers op de beta vonden hem op deze plaatsen:
+Hij heeft geen vaste plek. Hij verschijnt op een van zes plaatsen, aangeduid op de kaart van Duskwood.
+
+![De kaart van Duskwood met de zes plaatsen waar de Night Watch Guard kan liggen, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-10-25-wow-forever-night-watch-guard-spawns.jpg)
 
 | Plek | Waar |
 |---|---|
-| **Raven Hill** | Net ten zuiden van het kerkhof, /way 18.1 55.2, de vaakste plek |
-| **Kruispunt** | Ten zuiden van de Twilight Grove, waar de wegen samenkomen |
-| **Zuidelijke weg** | Op de weg naar het zuiden richting Stranglethorn Vale |
-| **Noordoosten** | Tussen de Twilight Grove en Darkshire, ten noorden van de weg |
+| **Raven Hill, noord** | Ten noorden van het kerkhof, /way 23.6 33.2 |
+| **Raven Hill, west** | Ten westen van de huizen, /way 17.2 54.4, de vaakste plek |
+| **Twilight Grove** | Ten zuiden van de Twilight Grove, bij de weg, /way 47.6 59.6 |
+| **Zuidelijke weg** | Op de weg naar het zuiden richting Stranglethorn Vale, /way 45.6 79.0 |
+| **Boerderijen** | Ten oosten van de akkers, ten westen van de Tranquil Gardens Cemetery, /way 68.8 69.6 |
+| **Noordoosten** | Tussen de Twilight Grove en Darkshire, /way 66.0 33.8 |
 
 ## Voor de Horde
 
