@@ -3,12 +3,12 @@ title: "Excavation Site: Wetlands"
 metaTitle: "Guide zur Excavation Site für WoW Forever: Route, Trash und Bosse"
 description: "So spielst du die Excavation Site in den Wetlands in WoW Forever: der Weg hinein für beide Fraktionen, die Route durch das hohe Gras, die Raptoren, auf die du achten musst, und die vier Bosse."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-10-26
 lang: de
 manual: true
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
-    url: "https://www.warcrafttavern.com/forever/guides/excavation-site/"
+    url: "https://www.warcrafttavern.com/forever/guides/excavation-site-wetlands/"
 dungeon:
   slug: "excavation-site-wetlands"
   tab: "guide"
@@ -19,7 +19,9 @@ Das Portal steht auf dem Hügel südöstlich von Whelgar's Excavation Site in de
 
 **Alliance.** Menethil Harbor liegt nah und hat jetzt ein Schiff nach Stormwind über Auberdine. Durch Loch Modan zu laufen geht auch.
 
-**Horde.** Ein längerer Fußmarsch durch Hillsbrad Foothills und die Arathi Highlands. Nimm unterwegs die Flugpunkte in Tarren Mill und Hammerfall mit.
+**Horde.** Ein längerer Fußmarsch von Undercity oder The Sepulcher: nach Süden durch Silverpine Forest, nach Osten durch Hillsbrad Foothills und die Arathi Highlands, an Stromgarde Keep vorbei. An der großen Weggabelung nach Norden nach Hammerfall, für den Flugpunkt und für Dragonmaw Rumors von Zaruk bei /way 74.4 35.6: ohne diese Quest bekommt die Horde Open the Maw nicht. Danach nach Süden in die Wetlands. Nimm unterwegs auch den Flugpunkt in Tarren Mill mit.
+
+**Das letzte Stück.** Der Weg den Hügel hinauf beginnt am Meeting Stone bei /way 53.9 65.4, links von Thelgen Rock. Die Spinnen unterwegs sind nicht elite.
 
 ![Das Portal der Excavation Site bei Nacht, ein blauer Wirbel in den Hügeln der Wetlands, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-03-wow-forever-excavation-site-entrance.jpg)
 
@@ -27,9 +29,19 @@ Das Portal steht auf dem Hügel südöstlich von Whelgar's Excavation Site in de
 
 1. **The Lost Marsh.** Krokilisken und junge Raptoren um einen See. <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260322">Saltspine</a> patrouilliert am Ufer.
 2. **The Stalker's Thicket.** Ein Pfad durch hohes Gras voller Raptoren. <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260325">Shadetooth</a> patrouilliert mit zwei Thicket Hunters über den ganzen Pfad.
-3. **Das Lager der Dragonmaw.** Orcs des Dragonmaw-Clans, mit dem Zelt von Daewyn für die Quest der Alliance.
-4. **Die Spinnenhöhlen.** <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260808">Highland Horror</a> wartet zwischen Spinnen und Schleimen. Nur die Alliance braucht ihn.
-5. **The Site of the Guardian.** <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260326">Relic Guardian</a> steht inaktiv in einer Arena; Ardin wartet auf einem Holzgerüst in der Nähe.
+3. **The Lost Dig Site.** Orcs des Dragonmaw-Clans, mit dem Zelt von Daewyn für die Quest der Alliance.
+4. **Nördlich der Ausgrabung.** <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260808">Highland Horror</a> wartet zwischen Oil Slimes; mit einem vorsichtigen Pull bleiben die Schleime zurück. Nur die Alliance braucht ihn.
+5. **The Site of the Guardian.** Südlich der Ausgrabung, an Highland Lurkers und Highland Spiders vorbei. <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260326">Relic Guardian</a> steht inaktiv in einer Arena; Ardin wartet auf einem Holzgerüst in der Nähe.
+
+<div class="wf-shots">
+
+![Zwei Spieler laufen durch hohes Gras zur Lost Dig Site mit Zelten und einem großen Skelett, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-26-wow-forever-excavation-site-lost-dig-site.jpg)
+
+![Spieler kämpfen im hohen Gras des Stalker's Thicket gegen Thicket Lurkers, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-26-wow-forever-excavation-site-thicket-lurkers.jpg)
+
+![Ein Spieler kämpft nachts an einem grasigen Hang gegen den Highland Horror, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-26-wow-forever-excavation-site-highland-horror.jpg)
+
+</div>
 
 ## Wichtiger Trash
 
@@ -37,17 +49,21 @@ Das Portal steht auf dem Hügel südöstlich von Whelgar's Excavation Site in de
 
 **Raptoren.** Young Riptooths kommen zu dritt und beißen hart zu; töte sie einzeln. Thicket Hunters verursachen Infected Wound, eine Krankheit, durch die das Ziel mehr physischen Schaden erleidet: Entferne sie schnell. Matriarchs und Lurkers setzen Rend Flesh.
 
-**Krokilisken.** Marsh Skulkers verursachen Muscle Rot, und Tendon Rip verlangsamt das Ziel stark.
+**Krokilisken.** Marsh Skulkers verursachen Muculent Rot, das Stamina und Spirit senkt, und Tendon Rip verlangsamt das Ziel stark.
 
 **Orcs der Dragonmaw.** Saboteurs werfen Bomben auf eine Stelle, aus der du heraustreten kannst. Warders zaubern Mortal Strike und Net, 10 Sekunden festgehalten. Thaumaturgists zaubern Immolate und Curse of Weakness und kommen mit einem Feuerelementar: Töte ihn zuerst.
 
 **Spinnen.** Highland Lurkers und Spiders vergiften ihr Ziel. Entferne das Gift so schnell wie möglich.
 
+**Raptoren rufen Hilfe.** Wird einer angegriffen, kommen die anderen in der Nähe dazu. Räum jede Gruppe rund um einen Kampf, sonst rennt das halbe Dickicht herbei.
+
+**Krankheiten.** Infected Wound, Muculent Rot und Highland Venom der Spinnen, das Tempo und Schaden senkt, sind alles Krankheiten. Eine Möglichkeit, Krankheiten zu heilen, macht den Dungeon viel leichter.
+
 ## Die Bosse
 
 ### Saltspine
 
-Ein einfacher Kampf, sobald die Umgebung leer ist; er patrouilliert am Seeufer, also zieh ihn allein. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3604"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tendon Rip</a> verlangsamt den Tank stark, und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316382"><img class="wf-wh__icon" src="/wh/spell_shadow_mindsteal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Storm</a> senkt die Trefferchance aller im Umkreis von 10 Metern um 25 %, also halten Zauberer Abstand.
+Ein einfacher Kampf, sobald die Umgebung leer ist; er patrouilliert am Seeufer, also zieh ihn allein. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3604"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tendon Rip</a> verlangsamt den Tank stark, und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316382"><img class="wf-wh__icon" src="/wh/spell_shadow_mindsteal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Storm</a> senkt die Trefferchance aller im Umkreis von 10 Metern um 25 %, also halten Zauberer Abstand. Räum zuerst eine trockene Stelle frei und zieh ihn dorthin.
 
 ### Shadetooth
 

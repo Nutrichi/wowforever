@@ -3,10 +3,12 @@ title: "City of Dalaran"
 metaTitle: "Guide zur City of Dalaran für WoW Forever: Schlüssel, Trash und Bosse"
 description: "So spielst du die City of Dalaran in WoW Forever: der Weg hinein für beide Fraktionen, der Dalaran Sewer Key, der arkane Trash und die Taktik für alle acht Bosse."
 short: "Guide"
-updated: 2026-10-24
+updated: 2026-10-26
 lang: de
 manual: true
 sources:
+  - name: "Warcraft Tavern, der Dungeonguide"
+    url: "https://www.warcrafttavern.com/forever/guides/city-of-dalaran/"
   - name: "Wowhead, der geheime Boss"
     url: "https://www.wowhead.com/forever/news/how-to-find-the-secret-boss-in-the-city-of-dalaran-dungeon-in-wow-forever-383366"
 dungeon:
@@ -28,6 +30,10 @@ Die Stadt greift Hordespieler jetzt sofort an, und die Questreihe für den Dalar
 ![Ein Spieler auf einem runden Gitter vor dem Eingang der City of Dalaran, der Weg hinein für die Horde, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-09-29-wow-forever-dalaran-horde-dungeon-entrance.jpg)
 
 </div>
+
+Auf der Karte von Silverpine Forest liegt der Eingang außerhalb der Stadt bei /way 69.3 45.6, neben dem Image of Archmage Modera bei /way 68.5 45.3. Emissary Jacques, der die Allianz dorthin schickt, steht in Southshore bei /way 48.3 60.1.
+
+![Das runde Kanaltor der City of Dalaran in einem Hang, mit dem Image of Archmage Modera daneben, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-26-wow-forever-dalaran-image-of-modera.jpg)
 
 ## Der Dalaran Sewer Key
 
@@ -71,6 +77,33 @@ Stone Tokens und Bracers of Binding sind freiwillig: Für den Schlüssel brauchs
 
 Heart of Disruption gibt den Schlüssel. Vier der Quests stammen aus Classic: Prison Break In, Stone Tokens, Dalaran Patrols und Bracers of Binding. Key to the City, Blood in the Streets und Heart of Disruption sind neu in Forever. Mehr im [Beitrag über den Schlüssel](/de/news/horde-earns-the-dalaran-sewer-key-in-tarren-mill/).
 
+## Der Weg durch die Stadt
+
+Nach der Kanalisation gehen die Bosse in beliebiger Reihenfolge, solange der Shade of the Archmage zuletzt kommt. Diese Reihenfolge erspart Rückwege:
+
+1. **The Underbelly.** Überquere die Brücke am Start und biege rechts ab, durch die drei großen Rohre, zu Atrexis the Grave Knight.
+2. **Der Seitenraum.** Verlasse die Rohre auf der anderen Seite. Ein Seitengang führt zum Beschwörungskreis von Lyn the Ignored; die Rampe führt aus der Kanalisation.
+3. **The Violet Hold.** Aus der Kanalisation heraus links zum Mana Devourer.
+4. **Krasus' Landing.** Wieder draußen und rechts wartet die Arcane Anomaly.
+5. **Runeweaver Square.** Nähere dich dem Stadtzentrum von Osten für den Fel Ancient.
+6. **The Path of Renewal.** Weiter gegen den Uhrzeigersinn zum Arcanic Enigma.
+7. **The Magus Commerce Exchange.** Nach Westen zum Unstable Sentinel.
+8. **The Violet Citadel.** Archmage Modera auf den Stufen öffnet ein Portal zum letzten Boss.
+
+**Eine Abkürzung.** Gleich nach der Brücke führt links ein Weg hinauf zu einer verschlossenen Tür. Dahinter kommst du vor der Violet Citadel heraus, an fast dem ganzen Dungeon vorbei. Wie sich die Tür öffnen lässt, ist nicht bekannt.
+
+<div class="wf-shots">
+
+![Ein Spieler vor einer verschlossenen Tür mit rundem Fenster am Ende eines Kanalwegs in Dalaran, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-26-wow-forever-dalaran-locked-door.jpg)
+
+![Der violette Ritual Circle von Atrexis the Grave Knight im Underbelly von Dalaran, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-26-wow-forever-dalaran-atrexis-ritual-circle.jpg)
+
+![Eine Gruppe geht zwischen zwei Mauern zum Runeweaver Square, wo der Fel Ancient wartet, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-26-wow-forever-dalaran-fel-ancient-runeweaver-square.jpg)
+
+![Spieler steigen hinter Archmage Modera die breiten Stufen der Violet Citadel hinauf, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-26-wow-forever-dalaran-modera-violet-citadel-steps.jpg)
+
+</div>
+
 ## Wichtiger Trash
 
 **Arkaner Schaden.** Sobald du aus der Kanalisation kommst, ist viel Schaden Arcane, auch die Nahkampfschläge. Tanks als Warrior oder Paladin blocken viel weniger Treffer. Nimm reichlich Wasser mit, wenn die Gruppe wenig Unterbrechungen hat, denn mehrere Monster verbrennen Mana.
@@ -89,6 +122,10 @@ Heart of Disruption gibt den Schlüssel. Vier der Quests stammen aus Classic: Pr
 
 **Fragmented Sentries** treffen alle vor sich mit Arcing Smash.
 
+**Mindless Horrors** wirken eine Furcht, die Spieler in die nächste Gruppe treiben kann. Ein Tremor Totem hilft.
+
+**Mana Fiends** explodieren beim Tod und treffen alle in der Nähe: verteilt euch.
+
 ## Die Bosse
 
 ### Atrexis the Grave Knight
@@ -105,11 +142,11 @@ Im Kampf erweckt der Boss ständig Skelette, wie Atrexis, und zaubert Shadow Bol
 
 ### Arcane Anomaly
 
-Du ziehst ihn aus einer Blase auf einer Terrasse nach der Kanalisation. Er schlägt hart zu, und Arcane Bolt trifft den Tank für etwa 500 Arcane-Schaden. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241501"><img class="wf-wh__icon" src="/wh/ability_mage_arcanesurge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Focal Blast</a> ist ein arkaner Strahl, der nach einem Zauber von 3 Sekunden durch den Raum fegt: Geh aus seiner Bahn, sobald der Zauber beginnt.
+Du ziehst ihn aus einer Blase auf einer Terrasse nach der Kanalisation. Er schlägt hart zu, und Arcane Bolt trifft den Tank für etwa 500 Arcane-Schaden. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241501"><img class="wf-wh__icon" src="/wh/ability_mage_arcanesurge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Focal Blast</a> ist ein arkaner Strahl, der nach einem Zauber von 3 Sekunden durch den Raum fegt: Geh aus seiner Bahn, sobald der Zauber beginnt. Bleibt dicht hinter ihm: nah am Boss weicht ihr dem Strahl viel leichter aus.
 
 ### Fel Ancient
 
-Auf dem Runeweaver Square, mitten in der Stadt, zwischen Suffused Treants. Eine Manabarriere schützt ihn; Grindle Firespark nimmt sie weg, wenn du mit ihm sprichst. Entangle hält einen Spieler 10 Sekunden fest und verletzt ihn, solange es wirkt. Fel Timbers läuft zu einem Spieler, trifft alle im Umkreis von 5 Metern und hinterlässt eine grüne Giftpfütze. Zusammen ist das tödlich: Geh sofort aus den Pfützen, und Blessing of Freedom entfernt die Wurzeln.
+Auf dem Runeweaver Square, mitten in der Stadt, zwischen Suffused Treants. Eine Manabarriere schützt ihn; Magus Fansy Goodbringer auf der Ostseite nimmt sie weg, wenn du mit ihm sprichst. Entangle hält einen Spieler 10 Sekunden fest und verletzt ihn, solange es wirkt. Fel Timbers läuft zu einem Spieler, trifft alle im Umkreis von 5 Metern und hinterlässt eine grüne Giftpfütze. Zusammen ist das tödlich: Geh sofort aus den Pfützen, und Blessing of Freedom entfernt die Wurzeln.
 
 ### Arcanic Enigma
 
@@ -121,11 +158,11 @@ Im Handelsviertel der Stadt. Töte die Angry Tomes, die aus den Gebäuden kommen
 
 ### Shade of the Archmage
 
-Der Endboss, im Purple Parlor oben in der Violet Citadel. Sprich mit dem NPC vor der Violet Citadel im Nordwesten der Stadt, um nach oben teleportiert zu werden; der Shade erscheint, wenn du eintrittst. Arcane Bolt trifft den Tank hart. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> schickt eine Manakugel zu einem Spieler und zurück, die jeden auf ihrer Bahn verletzt und 6 Sekunden zum Schweigen bringt: Stell dich nicht zwischen ihn und diesen Spieler. Danach folgt Arcane Explosion auf alle im Umkreis von 20 Metern. Ist sein Mana leer, zaubert er Mass Polymorph auf die ganze Gruppe, 8 Sekunden lang, und füllt es mit Evocation wieder auf, dann beginnt der Kampf von vorn. Verteilt euch, haltet die Zauberer auf Abstand und versteckt euch während Mass Polymorph hinter der Wand. Verlässt jemand den Raum, setzt er auf volle Gesundheit zurück.
+Der Endboss, im Purple Parlor oben in der Violet Citadel. Sprich mit Archmage Modera auf den Stufen vor der Violet Citadel im Nordwesten der Stadt, um nach oben teleportiert zu werden; der Shade erscheint, wenn du eintrittst. Arcane Bolt trifft den Tank hart. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> schickt eine Manakugel zu einem Spieler und zurück, die jeden auf ihrer Bahn verletzt und 6 Sekunden zum Schweigen bringt: Stell dich nicht zwischen ihn und diesen Spieler. Danach folgt Arcane Explosion auf alle im Umkreis von 20 Metern. Ist sein Mana leer, zaubert er Mass Polymorph auf die ganze Gruppe, 8 Sekunden lang, und füllt es mit Evocation wieder auf, dann beginnt der Kampf von vorn. Verteilt euch, haltet die Zauberer auf Abstand und versteckt euch während Mass Polymorph hinter der Wand. Verlässt jemand den Raum, setzt er auf volle Gesundheit zurück.
 
 ### Mana Devourer
 
-Räum vor dem Pull den ganzen Raum, denn jedes Monster, das noch lebt, kommt in den Kampf dazu. Drain Vitality macht dem Tank Arcane-Schaden über Zeit, und Debilitate macht allen Arcane-Schaden und zieht jedem Spieler 200 Mana ab. Töte ihn schnell, bevor der Gruppe das Mana ausgeht.
+Er wartet in der Violet Hold. Räum vor dem Pull den ganzen Raum, denn jedes Monster, das noch lebt, kommt in den Kampf dazu. Drain Vitality macht dem Tank Arcane-Schaden über Zeit, und Debilitate macht allen Arcane-Schaden und zieht jedem Spieler 200 Mana ab. Töte ihn schnell, bevor der Gruppe das Mana ausgeht.
 
 ## Was noch nicht bekannt ist
 
