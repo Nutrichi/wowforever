@@ -3,7 +3,7 @@ title: "Guía del Shadow Priest en WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: build 14/3/34, rotación y stats"
 description: "El Shadow Priest en WoW Forever: la build 14/3/34 para nivel 60, Improved Mind Flay y Vampiric Embrace, la rotación de DoTs, Shadowform, el maná, los stats y las razas."
 short: "Shadow Priest"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -165,7 +165,7 @@ El orden para un Shadow Priest:
 | Facción | Raza | Por qué |
 |---|---|---|
 | Alianza | Dwarf | Big Game Hunter: un 5% más de daño a las Bestias. La mejor opción contra jefes Bestia, justo detrás de Human contra el resto |
-| Alianza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: un 2% más de probabilidad de crítico. Una opción real en Forever |
+| Alianza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: un 1% más de probabilidad de crítico. Una opción real en Forever |
 | Horda | Troll | Beast Slaying: un 5% más de daño a las Bestias. La mejor opción contra jefes Bestia |
 | Horda | Undead | Touch of the Grave se hizo más fuerte. Contra otros jefes tan bueno como Troll, o mejor salvo que Shadowguard salte a menudo |
 

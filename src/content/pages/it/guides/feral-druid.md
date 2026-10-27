@@ -3,7 +3,7 @@ title: "Feral Druid in WoW Forever: la guida"
 metaTitle: "WoW Forever Feral Druid: build felino e orso, rotazione, stats"
 description: "Il Feral Druid in WoW Forever: quattro build per il livello 60 (ibrida, felino, orso e solo), Shifting Power e Primal Bite, le rotazioni da felino e da orso, le stats e le razze."
 short: "Feral Druid"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Quali stats servono a un Feral Druid?"
     a: "Da felino: Hit, poi Expertise, poi Crit, Agility, Strength e potenza d'attacco. Da orso anche Defense, Dodge, armatura e Stamina, perché un Druid non può bloccare né parare."
   - q: "Qual è la razza migliore per un Feral Druid?"
-    a: "Le differenze sono piccole. Night Elf e Tauren hanno entrambi un bonus ai critici che si sposa con il Feral. Gli Skyborne hanno Haste, e quelli dell'Alliance anche un tempo di recupero per il mana."
+    a: "Le differenze sono piccole. Night Elf ha un bonus ai critici che si sposa con il Feral, Tauren War Stomp e il 5% di vita in più. Gli Skyborne hanno Haste, e quelli dell'Alliance anche un tempo di recupero per il mana."
   - q: "Esiste già una build per il livello 60?"
     a: "Sì. Le quattro build di questa guida usano tutti i 51 punti del livello 60, senza i punti extra di Talented."
 sources:
@@ -171,7 +171,7 @@ Da felino stai dietro al bersaglio: Shred lo richiede, il nemico non può parart
 |---|---|---|
 | Alliance | Night Elf | Bonus ai critici, buono con una build piena di critici |
 | Alliance | Skyborne | Haste e un tempo di recupero per rigenerare mana |
-| Horde | Tauren | Stordimento ad area e bonus ai danni critici |
+| Horde | Tauren | Stordimento ad area e il 5% di vita in più |
 | Horde | Skyborne | Haste e un tempo di recupero di velocità, meno utile di quello per il mana dell'Alliance |
 
 Le differenze sono piccole, quindi scegli la razza che ti piace. **Leatherworking** crea parte del miglior equipaggiamento in cuoio, in parte solo per i conciatori. **Engineering** dà gadget utili. **Herbalism** si addice a un Druid, perché raccogli in Travel Form, e **Alchemy** trasforma quelle erbe nei tuoi consumabili. Di più sui gruppi nelle nostre [guide ai dungeon](/it/guides/dungeons/).

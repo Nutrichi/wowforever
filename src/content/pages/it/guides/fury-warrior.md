@@ -3,7 +3,7 @@ title: "Guida al Fury Warrior in WoW Forever"
 metaTitle: "WoW Forever Fury Warrior: build di livello 30, rotazione e Rage"
 description: "Il Fury Warrior in WoW Forever: la build di livello 30 con Cruelty, Unbridled Wrath e Death Wish, la rotazione, la Rage, lo stance dancing, stats, armi e razze."
 short: "Fury Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Quando ottiene Bloodthirst un Fury Warrior?"
     a: "Bloodthirst è l’ultimo talento dell’albero Fury e chiede 30 punti al suo interno, quindi livello 39 al più presto, o qualche livello prima con Talented del sistema Legacy. La build di livello 30 si ferma a Death Wish."
   - q: "Qual è la razza migliore per un Fury Warrior?"
-    a: "Human per l’Alleanza, per il 2% di probabilità di critico in più. Orc per l’Orda, per Blood Fury e critico extra. Ogni razza può essere Warrior, e ogni scelta funziona."
+    a: "Human per l’Alleanza, per l’1% di probabilità di critico in più, o Dwarf per l’1% di hit. Orc per l’Orda, per Blood Fury. Ogni razza può essere Warrior, e ogni scelta funziona."
   - q: "C’è già una build di livello 60?"
     a: "Non ancora. La beta si ferma al livello 30, e le build di livello 60 arriveranno dopo il lancio del 4 novembre."
 sources:
@@ -130,15 +130,15 @@ Ogni razza può essere Warrior. Ogni scelta funziona, ma alcune sono più forti.
 
 | Fazione | Razza | Perché |
 |---|---|---|
-| Alleanza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: il 2% di probabilità di critico in più. La scelta più forte |
-| Alleanza | Dwarf | Più danni critici, ma molto più debole di Human |
+| Alleanza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: l’1% di probabilità di critico in più |
+| Alleanza | Dwarf | Artisan's Precision: l’1% di hit con incantesimi e attacchi |
 | Alleanza | Gnome | Un tempo di recupero di burst che può essere molto forte |
 | Alleanza | Night Elf | Elune's Light, un tempo di recupero di critico per Rage e danni a comando |
 | Alleanza | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: celerità, rara e forte per te |
-| Orda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> per il potere d’attacco e critico extra |
+| Orda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> per il potere d’attacco |
 | Orda | Troll | Più danni alle Bestie e Berserking per velocità d’attacco a comando |
 | Orda | Undead | Touch of the Grave infligge danni e ti cura un poco |
-| Orda | Tauren | War Stomp, più danni critici e Plainsrunning per la velocità finché continui a muoverti |
+| Orda | Tauren | War Stomp, il 5% di salute in più e Plainsrunning per la velocità finché continui a muoverti |
 | Orda | Windshaper Skyborne | Celerità e un tempo di recupero di velocità molto comodo |
 
 **Professioni.** Blacksmithing crea parte del miglior equipaggiamento di maglia e piastra, molto riservato ai fabbri. Engineering ha congegni utili per ogni spec.

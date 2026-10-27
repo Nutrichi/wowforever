@@ -3,7 +3,7 @@ title: "Marksmanship Hunter in WoW Forever: de gids"
 metaTitle: "WoW Forever Marksmanship Hunter: build voor level 60 en rotatie"
 description: "De Marksmanship Hunter in WoW Forever: de build 5/46/0 voor level 60 met Lone Wolf en Sniper Shot, de rotatie, mana met Rapid Recuperation, stats en races."
 short: "Marksmanship Hunter"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -159,12 +159,12 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 |---|---|---|
 | Alliance | Skyborne | Een haste-bonus, zeldzaam op gear, de sterkste keuze |
 | Alliance | Human | 2% meer critical strike chance |
-| Alliance | Dwarf | 2% meer critical strike-schade |
+| Alliance | Dwarf | 1% hit uit Artisan's Precision |
 | Alliance | Night Elf | Een cooldown voor critical strike chance |
 | Horde | Skyborne | Een haste-bonus en een cooldown voor snelheid |
-| Horde | Orc | Een cooldown voor attack power en 1% meer critical strike chance |
+| Horde | Orc | Een cooldown voor attack power en 5% meer schade van je pet uit Command |
 | Horde | Troll | Meer schade tegen Beasts en een cooldown voor attack speed |
-| Horde | Tauren | Een stun rondom, meer critical strike-schade, en Plainsrunning |
+| Horde | Tauren | Een stun rondom, 5% meer health, en Plainsrunning |
 
 De verschillen zijn klein, dus speel het ras dat je leuk vindt. Voor een build met pet, zie de [gids voor de Beast Mastery Hunter](/nl/guides/beast-mastery-hunter/).
 

@@ -3,7 +3,7 @@ title: "Feral Druid dans WoW Forever : le guide"
 metaTitle: "WoW Forever Feral Druid : builds félin et ours, rotation, stats"
 description: "Le Feral Druid dans WoW Forever : quatre builds niveau 60 (hybride, félin, ours et solo), Shifting Power et Primal Bite, les rotations en félin et en ours, les stats et les races."
 short: "Feral Druid"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: fr
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Quelles stats pour un Feral Druid ?"
     a: "En félin : Hit, puis Expertise, puis Crit, Agility, Strength et puissance d'attaque. En ours, aussi Defense, Dodge, armure et Stamina, car un Druid ne peut ni bloquer ni parer."
   - q: "Quelle race pour un Feral Druid ?"
-    a: "Les écarts sont faibles. Night Elf et Tauren ont tous deux un bonus aux coups critiques qui va bien au Feral. Les Skyborne ont de la Haste, et ceux de l'Alliance aussi un temps de recharge de mana."
+    a: "Les écarts sont faibles. Night Elf a un bonus aux coups critiques qui va bien au Feral, Tauren War Stomp et 5 % de vie en plus. Les Skyborne ont de la Haste, et ceux de l'Alliance aussi un temps de recharge de mana."
   - q: "Y a-t-il déjà un build niveau 60 ?"
     a: "Oui. Les quatre builds de ce guide utilisent les 51 points du niveau 60, sans les points en plus de Talented."
 sources:
@@ -171,7 +171,7 @@ En félin, restez derrière la cible : Shred l'exige, l'ennemi ne peut pas vous 
 |---|---|---|
 | Alliance | Night Elf | Bonus aux coups critiques, bien avec un build plein de critiques |
 | Alliance | Skyborne | Haste et un temps de recharge de régénération de mana |
-| Horde | Tauren | Étourdissement de zone et bonus aux dégâts critiques |
+| Horde | Tauren | Étourdissement de zone et 5 % de vie en plus |
 | Horde | Skyborne | Haste et un temps de recharge de vitesse, moins utile que celui de mana de l'Alliance |
 
 Les écarts sont faibles, alors choisissez la race qui vous plaît. **Leatherworking** fabrique une partie du meilleur équipement en cuir, en partie réservé aux travailleurs du cuir. **Engineering** donne des gadgets utiles. **Herbalism** va bien à un Druid, car vous récoltez en Travel Form, et **Alchemy** transforme ces herbes en vos propres consommables. Plus sur les groupes dans nos [guides de donjons](/fr/guides/dungeons/).

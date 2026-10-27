@@ -3,7 +3,7 @@ title: "Marksmanship Hunter in WoW Forever: der Guide"
 metaTitle: "WoW Forever Marksmanship Hunter: Build für Level 60 und Rotation"
 description: "Der Marksmanship Hunter in WoW Forever: der Build 5/46/0 für Level 60 mit Lone Wolf und Sniper Shot, die Rotation, Mana mit Rapid Recuperation, Werte und Völker."
 short: "Marksmanship Hunter"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -159,12 +159,12 @@ Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
 |---|---|---|
 | Alliance | Skyborne | Ein Tempobonus, selten auf Ausrüstung, die stärkste Wahl |
 | Alliance | Human | 2 % mehr kritische Trefferchance |
-| Alliance | Dwarf | 2 % mehr kritischer Schaden |
+| Alliance | Dwarf | 1 % Hit durch Artisan's Precision |
 | Alliance | Night Elf | Eine Abklingzeit für kritische Trefferchance |
 | Horde | Skyborne | Ein Tempobonus und eine Abklingzeit für Bewegungstempo |
-| Horde | Orc | Eine Abklingzeit für Angriffskraft und 1 % mehr kritische Trefferchance |
+| Horde | Orc | Eine Abklingzeit für Angriffskraft und 5 % mehr Schaden des Begleiters durch Command |
 | Horde | Troll | Mehr Schaden gegen Wildtiere und eine Abklingzeit für Angriffstempo |
-| Horde | Tauren | Eine Flächenbetäubung, mehr kritischer Schaden und Plainsrunning |
+| Horde | Tauren | Eine Flächenbetäubung, 5 % mehr Gesundheit und Plainsrunning |
 
 Die Unterschiede sind klein, also spiel das Volk, das dir gefällt. Für einen Build mit Begleiter siehe den [Guide für den Beast Mastery Hunter](/de/guides/beast-mastery-hunter/).
 

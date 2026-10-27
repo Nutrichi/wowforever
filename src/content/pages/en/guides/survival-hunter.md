@@ -3,7 +3,7 @@ title: "Survival Hunter guide for WoW Forever"
 metaTitle: "WoW Forever Survival Hunter: level 60 build and melee weaving"
 description: "The Survival Hunter in WoW Forever: the 5/13/33 build for level 60 with Lone Wolf and Strider Kick, melee weaving, the rotation, mana with Resourcefulness, stats and races."
 short: "Survival Hunter"
-updated: 2026-10-25
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Survival Hunter good in WoW Forever?"
@@ -179,12 +179,12 @@ Stat priorities for level 60 follow after the launch. Until then:
 |---|---|---|
 | Alliance | Skyborne | A haste bonus, rare on gear, the strongest choice |
 | Alliance | Human | 2% more critical strike chance, good for Resourcefulness |
-| Alliance | Dwarf | 2% more critical strike damage |
+| Alliance | Dwarf | 1% hit from Artisan's Precision |
 | Alliance | Night Elf | A critical strike cooldown |
 | Horde | Skyborne | A haste bonus and a movement speed cooldown for weaving |
-| Horde | Orc | An attack power cooldown and 1% more critical strike chance |
+| Horde | Orc | An attack power cooldown and 5% more pet damage from Command |
 | Horde | Troll | More damage against Beasts and an attack speed cooldown |
-| Horde | Tauren | An area stun, more critical strike damage, and Plainsrunning |
+| Horde | Tauren | An area stun, 5% more Health, and Plainsrunning |
 
 The differences are small, so play the race you like. For a pure ranged build, see the [Marksmanship Hunter guide](/guides/marksmanship-hunter/).
 

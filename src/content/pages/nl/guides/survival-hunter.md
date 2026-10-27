@@ -3,7 +3,7 @@ title: "Survival Hunter in WoW Forever: de gids"
 metaTitle: "WoW Forever Survival Hunter: build voor level 60 en melee weaving"
 description: "De Survival Hunter in WoW Forever: de build 5/13/33 voor level 60 met Lone Wolf en Strider Kick, melee weaving, de rotatie, mana met Resourcefulness, stats en races."
 short: "Survival Hunter"
-updated: 2026-10-25
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -180,12 +180,12 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 |---|---|---|
 | Alliance | Skyborne | Een haste-bonus, zeldzaam op gear, de sterkste keuze |
 | Alliance | Human | 2% meer critical strike chance, goed voor Resourcefulness |
-| Alliance | Dwarf | 2% meer critical strike damage |
+| Alliance | Dwarf | 1% hit uit Artisan's Precision |
 | Alliance | Night Elf | Een cooldown voor critical strike chance |
 | Horde | Skyborne | Een haste-bonus en een cooldown voor bewegingssnelheid bij het weaven |
-| Horde | Orc | Een cooldown voor attack power en 1% meer critical strike chance |
+| Horde | Orc | Een cooldown voor attack power en 5% meer schade van je pet uit Command |
 | Horde | Troll | Meer schade tegen Beasts en een cooldown voor attack speed |
-| Horde | Tauren | Een area-stun, meer critical strike damage, en Plainsrunning |
+| Horde | Tauren | Een area-stun, 5% meer health, en Plainsrunning |
 
 De verschillen zijn klein, dus speel het ras dat je leuk vindt. Voor een build die alleen schiet, zie de [gids voor de Marksmanship Hunter](/nl/guides/marksmanship-hunter/).
 

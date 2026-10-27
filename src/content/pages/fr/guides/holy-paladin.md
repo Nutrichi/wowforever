@@ -3,7 +3,7 @@ title: "Holy Paladin dans WoW Forever : le guide"
 metaTitle: "WoW Forever Holy Paladin : build de soins, sorts et mana"
 description: "Le Holy Paladin dans WoW Forever : le build de soins niveau 30 et sa version Talented, Holy Shock et Light's Vigil, la priorité de soins, le mana, les sceaux, les stats et les races."
 short: "Holy Paladin"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: fr
 manual: true
 faq:
@@ -133,7 +133,7 @@ Les priorités de stats pour le niveau 60 suivront après le lancement. D'ici l�
 | Faction | Race | Pourquoi |
 |---|---|---|
 | Alliance | Human | Des chances de coup critique en plus, le meilleur choix |
-| Alliance | Dwarf | Plus de dégâts et de soins critiques, et Stoneform comme temps de recharge défensif |
+| Alliance | Dwarf | 1 % de hit avec Artisan's Precision, et Stoneform comme temps de recharge défensif |
 | Horde | Undead | Un proc qui inflige des dégâts et vous soigne un peu ; le seul Paladin de la Horde |
 
 **Blacksmithing** fabrique une partie des meilleures plaques et mailles, souvent réservées aux forgerons. **Engineering** offre des gadgets utiles à toute spécialisation. Plus d'infos sur les soins en groupe dans nos [guides de donjons](/fr/guides/dungeons/).

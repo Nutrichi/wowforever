@@ -3,7 +3,7 @@ title: "Survival Hunter in WoW Forever: der Guide"
 metaTitle: "WoW Forever Survival Hunter: Build für Level 60 und Melee Weaving"
 description: "Der Survival Hunter in WoW Forever: der Build 5/13/33 für Level 60 mit Lone Wolf und Strider Kick, Melee Weaving, die Rotation, Mana mit Resourcefulness, Werte und Völker."
 short: "Survival Hunter"
-updated: 2026-10-25
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -180,12 +180,12 @@ Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
 |---|---|---|
 | Alliance | Skyborne | Ein Tempobonus, selten auf Ausrüstung, die stärkste Wahl |
 | Alliance | Human | 2 % mehr kritische Trefferchance, gut für Resourcefulness |
-| Alliance | Dwarf | 2 % mehr kritischer Schaden |
+| Alliance | Dwarf | 1 % Hit durch Artisan's Precision |
 | Alliance | Night Elf | Eine Abklingzeit für kritische Treffer |
 | Horde | Skyborne | Ein Tempobonus und eine Abklingzeit für Bewegungstempo beim Weaving |
-| Horde | Orc | Eine Abklingzeit für Angriffskraft und 1 % mehr kritische Trefferchance |
+| Horde | Orc | Eine Abklingzeit für Angriffskraft und 5 % mehr Schaden des Begleiters durch Command |
 | Horde | Troll | Mehr Schaden gegen Beasts und eine Abklingzeit für Angriffstempo |
-| Horde | Tauren | Eine Flächenbetäubung, mehr kritischer Schaden, und Plainsrunning |
+| Horde | Tauren | Eine Flächenbetäubung, 5 % mehr Gesundheit, und Plainsrunning |
 
 Die Unterschiede sind klein, also spiel das Volk, das dir gefällt. Für einen Build, der nur schießt, siehe den [Guide für den Marksmanship Hunter](/de/guides/marksmanship-hunter/).
 

@@ -3,7 +3,7 @@ title: "Subir un Warlock en WoW Forever: la guía"
 metaTitle: "Guía de subida del Warlock en WoW Forever: builds de Affliction, Demonology y Destruction hasta el 30"
 description: "Cómo subir un Warlock en WoW Forever: el primer build, tres builds de nivel 30 para Affliction, Demonology y Destruction, la rotación, los niveles clave, las misiones de clase para cada demonio, varitas, profesiones, Life Tap y Fear."
 short: "Subida del Warlock"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -237,7 +237,7 @@ Tu arma es sobre todo un soporte de stats. El daño de hechizos que añade cuent
 | **Espadas de una mano** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Bastones** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Los Humans ya no necesitan una espada: su racial Ruthless da ahora un 2 % de probabilidad de golpe crítico con cualquier arma. Más en [este artículo](/es/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Los Humans ya no necesitan una espada: su racial Ruthless da ahora un 1 % de probabilidad de golpe crítico con cualquier arma. Más en [este artículo](/es/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Varitas y equipo
 

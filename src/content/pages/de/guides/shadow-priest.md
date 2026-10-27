@@ -3,7 +3,7 @@ title: "Shadow-Priest-Guide für WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34-Build, Rotation und Werte"
 description: "Der Shadow Priest in WoW Forever: der Build 14/3/34 für Level 60, Improved Mind Flay und Vampiric Embrace, die DoT-Rotation, Shadowform, Mana, Werte und Völker."
 short: "Shadow Priest"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -165,7 +165,7 @@ Die Reihenfolge für einen Shadow Priest:
 | Fraktion | Volk | Warum |
 |---|---|---|
 | Allianz | Dwarf | Big Game Hunter: 5 % mehr Schaden gegen Wildtiere. Die beste Wahl gegen Wildtier-Bosse, knapp hinter Human gegen den Rest |
-| Allianz | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2 % mehr kritische Trefferchance. Eine echte Option in Forever |
+| Allianz | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1 % mehr kritische Trefferchance. Eine echte Option in Forever |
 | Horde | Troll | Beast Slaying: 5 % mehr Schaden gegen Wildtiere. Die beste Wahl gegen Wildtier-Bosse |
 | Horde | Undead | Touch of the Grave wurde stärker. Gegen andere Bosse so gut wie Troll, oder besser, wenn Shadowguard nicht oft auslöst |
 

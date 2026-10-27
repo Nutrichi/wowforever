@@ -3,7 +3,7 @@ title: "Demonology-Warlock-Guide für WoW Forever"
 metaTitle: "WoW Forever Demonology Warlock: Build für Level 30, Demonic Brand und Dämonen"
 description: "Der Demonology Warlock in WoW Forever: der Build für Level 30 mit Demonic Brand, Demonic Knowledge und Soul Link, die Rotation, Bedrohung, Dämonen, Life Tap, Werte und Völker."
 short: "Demonology Warlock"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Wann fange ich mit Searing Pain an?"
     a: "Erst, wenn du Demonic Brand hast, auf Level 25. Ohne macht Searing Pain viel Bedrohung und zieht den Gegner von deinem Dämon weg."
   - q: "Welches Volk ist das beste für einen Demonology Warlock?"
-    a: "Human für die Allianz, für 2 % mehr kritische Trefferchance durch Ruthless. Undead für die Horde, für Touch of the Grave, Cannibalize und Will of the Forsaken. Die Unterschiede sind klein, wähle also das Volk, das dir gefällt."
+    a: "Human für die Allianz, für 1 % mehr kritische Trefferchance durch Ruthless. Undead für die Horde, für Touch of the Grave, Cannibalize und Will of the Forsaken. Die Unterschiede sind klein, wähle also das Volk, das dir gefällt."
   - q: "Gibt es schon einen Build für Level 60?"
     a: "Noch nicht. Die Beta endet bei Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
 sources:
@@ -135,10 +135,10 @@ Leg Attack und Follow auf Tasten, die du ohne Nachdenken drückst, damit du dein
 
 | Fraktion | Volk | Warum |
 |---|---|---|
-| Allianz | Human | Ruthless für 2 % mehr kritische Trefferchance, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> für mehr Willenskraft. Die beste Wahl |
+| Allianz | Human | Ruthless für 1 % mehr kritische Trefferchance, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> für 10 % mehr Willenskraft. Die beste Wahl |
 | Allianz | Gnome | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20591"><img class="wf-wh__icon" src="/wh/inv_enchant_essenceeternallarge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expansive Mind</a> für mehr Mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259817"><img class="wf-wh__icon" src="/wh/inv_gnometoy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eureka!</a> für stärkere, billigere Zauber |
 | Horde | Undead | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260201"><img class="wf-wh__icon" src="/wh/spell_shadow_fingerofdeath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Touch of the Grave</a> skaliert mit Ausdauer, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20577"><img class="wf-wh__icon" src="/wh/ability_racial_cannibalize.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cannibalize</a> gibt auch Mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7744"><img class="wf-wh__icon" src="/wh/spell_shadow_raisedead.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Will of the Forsaken</a> bricht Furcht. Die beste Wahl in den meisten Fällen |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10 % mehr Zaubermacht für 15 Sekunden, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> gegen Flüche |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10 % mehr Zaubermacht für 15 Sekunden, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> gegen Flüche, Command: 5 % mehr Schaden des Begleiters |
 | Horde | Troll | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260270"><img class="wf-wh__icon" src="/wh/ability_racial_regeneratin.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Regeneration</a> heilt 50 % deiner Gesundheit über 6 Sekunden, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20557"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_bear_ruin_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beast Slaying</a> gegen Wildtiere |
 
 Keines davon ist stark genug, um ein Volk auszulassen, das dir besser gefällt.

@@ -3,7 +3,7 @@ title: "Holy Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Holy Paladin: build de sanación, hechizos y maná"
 description: "El Holy Paladin en WoW Forever: la build de sanación de nivel 30 y su versión Talented, Holy Shock y Light's Vigil, la prioridad de curación, el maná, los sellos, los stats y las razas."
 short: "Holy Paladin"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -133,7 +133,7 @@ Las prioridades de stats para el nivel 60 llegarán tras el lanzamiento. Hasta e
 | Facción | Raza | Por qué |
 |---|---|---|
 | Alliance | Human | Probabilidad de crítico extra, la mejor opción |
-| Alliance | Dwarf | Más daño y curación críticos, y Stoneform como reutilización defensiva |
+| Alliance | Dwarf | Un 1% de hit con Artisan's Precision, y Stoneform como reutilización defensiva |
 | Horde | Undead | Un efecto que inflige daño y te cura un poco; el único Paladin de la Horde |
 
 **Blacksmithing** fabrica parte de la mejor placa y malla, mucha solo para herreros. **Engineering** da artilugios útiles a cualquier especialización. Más sobre curar en grupo en nuestras [guías de mazmorras](/es/guides/dungeons/).

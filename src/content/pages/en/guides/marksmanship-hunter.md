@@ -3,7 +3,7 @@ title: "Marksmanship Hunter guide for WoW Forever"
 metaTitle: "WoW Forever Marksmanship Hunter: level 60 build and rotation"
 description: "The Marksmanship Hunter in WoW Forever: the 5/46/0 build for level 60 with Lone Wolf and Sniper Shot, the rotation, mana with Rapid Recuperation, stats and races."
 short: "Marksmanship Hunter"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Marksmanship Hunter good in WoW Forever?"
@@ -158,12 +158,12 @@ Stat priorities for level 60 follow after the launch. Until then:
 |---|---|---|
 | Alliance | Skyborne | A haste bonus, rare on gear, the strongest choice |
 | Alliance | Human | 2% more critical strike chance |
-| Alliance | Dwarf | 2% more critical strike damage |
+| Alliance | Dwarf | 1% hit from Artisan's Precision |
 | Alliance | Night Elf | A critical strike cooldown |
 | Horde | Skyborne | A haste bonus and a movement speed cooldown |
-| Horde | Orc | An attack power cooldown and 1% more critical strike chance |
+| Horde | Orc | An attack power cooldown and 5% more pet damage from Command |
 | Horde | Troll | More damage against Beasts and an attack speed cooldown |
-| Horde | Tauren | An area stun, more critical strike damage, and Plainsrunning |
+| Horde | Tauren | An area stun, 5% more Health, and Plainsrunning |
 
 The differences are small, so play the race you like. For a pet build, see the [Beast Mastery Hunter guide](/guides/beast-mastery-hunter/).
 

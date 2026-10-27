@@ -3,7 +3,7 @@ title: "Protection Warrior guide for WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: level 30 tank build, threat and Rage"
 description: "The Protection Warrior in WoW Forever: the level 30 tank build with Master of Defense, Defiance and Vanguard, the threat rotation, debuffs, Rage, stats and races."
 short: "Protection Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Protection Warrior a good tank in WoW Forever?"
@@ -139,12 +139,12 @@ Every race can play a Warrior. Every pick works, but some are stronger.
 
 | Faction | Race | Why |
 |---|---|---|
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2% more critical strike chance |
-| Alliance | Dwarf | More critical strike damage, and Stoneform is an excellent defensive cooldown |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1% more critical strike chance |
+| Alliance | Dwarf | 1% hit from Artisan's Precision, and Stoneform is an excellent defensive cooldown |
 | Alliance | Gnome | A burst cooldown that can be very strong |
 | Alliance | Night Elf | Elune's Light for Rage and damage on demand, plus extra dodge chance and movement speed |
 | Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: Haste, which is rare and strong for you |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>, extra critical strike chance and a strong cooldown against magic damage |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> and a strong cooldown against magic damage |
 | Horde | Troll | More damage to Beasts, Berserking for attack speed and faster health regeneration |
 | Horde | Undead | Touch of the Grave deals damage and heals you a little |
 | Horde | Tauren | The most health of any race, War Stomp and Plainsrunning for speed while you keep moving |

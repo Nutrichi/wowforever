@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Retribution Paladin: Build, Rotation und Siegel"
 description: "Der Retribution Paladin in WoW Forever: der Build für Level 30 und die Talented-Version, die Rotation mit Seal of Command und Twist of Light, Judgements, Segen, Werte und Völker."
 short: "Retribution Paladin"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -138,7 +138,7 @@ Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin zählen diese We
 | Fraktion | Volk | Warum |
 |---|---|---|
 | Alliance | Human | Zusätzliche kritische Trefferchance, die beste Wahl |
-| Alliance | Dwarf | Mehr kritischer Schaden, und Stoneform als starke defensive Abklingzeit |
+| Alliance | Dwarf | 1 % Hit durch Artisan's Precision, und Stoneform als starke defensive Abklingzeit |
 | Horde | Undead | Ein Effekt, der Schaden verursacht und dich etwas heilt; der einzige Paladin der Horde |
 
 **Blacksmithing** stellt einen Teil der besten Platte und Kette her, vieles davon nur für Schmiede. **Engineering** gibt jeder Spezialisierung nützliche Gadgets. Mehr über die Völker in [Völker und Klassen](/de/guides/races-and-classes/).

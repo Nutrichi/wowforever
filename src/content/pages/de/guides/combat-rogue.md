@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: der Guide"
 metaTitle: "WoW Forever Combat Rogue: Hack-and-Slash-Builds bis Level 60"
 description: "Der Combat Rogue in WoW Forever: Hack and Slash für jeden Waffentyp, ein Build für Level 30 und zwei für Level 60 (Standard und Dolche), Blade Flurry, Adrenaline Rush, Energie, Gifte und Völker."
 short: "Combat Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welche Waffen nutzt ein Combat Rogue?"
     a: "Jeden Typ, dank Hack and Slash. Nimm die besten Waffen, die du findest. Der Dolchbuild spielt mit Backstab statt Sinister Strike und braucht einen Dolch in der Haupthand."
   - q: "Welches Volk ist für einen Combat Rogue am besten?"
-    a: "Human für die Alliance, wegen 2 % kritischer Trefferchance, und Orc für die Horde, wegen 10 % Angriffskraft durch Blood Fury. Night Elf und Troll sind die zweite Wahl."
+    a: "Human für die Alliance, wegen 1 % kritischer Trefferchance, und Orc für die Horde, wegen 10 % Angriffskraft durch Blood Fury. Night Elf und Troll sind die zweite Wahl."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
@@ -183,14 +183,14 @@ Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
 
 | Fraktion | Volk | Warum |
 |---|---|---|
-| Alliance | Human | 2 % kritische Trefferchance durch Ruthless, die beste Wahl |
+| Alliance | Human | 1 % kritische Trefferchance durch Ruthless |
 | Alliance | Night Elf | Elune's Light, 10 % kritische Trefferchance für 15 Sekunden; Shadowmeld und besseres Stealth |
 | Alliance | Gnome | Eureka! für eine Schadensspitze, Engineering Specialization mit Engineering |
-| Alliance | Dwarf | Stoneform entfernt Blutungen, Gifte und Krankheiten; schwach für Schaden |
-| Alliance | Skyborne | 3 % Tempo durch Wind Blessed |
+| Alliance | Dwarf | Stoneform entfernt Blutungen, Gifte und Krankheiten; Artisan's Precision gibt 1 % Hit |
+| Alliance | Skyborne | 2 % Tempo durch Wind Blessed |
 | Horde | Orc | 10 % Angriffskraft durch Blood Fury, die beste Wahl |
 | Horde | Troll | 10 % Tempo durch Berserking und ein Werkzeug zum Überleben |
 | Horde | Undead | Besser im PvP; Cannibalize spart Zeit in der offenen Welt |
-| Horde | Skyborne | 3 % Tempo durch Wind Blessed |
+| Horde | Skyborne | 2 % Tempo durch Wind Blessed |
 
 **Leatherworking** mit Skinning ist das beste Paar: starke Lederausrüstung auf jeder Stufe, Rüstungssets und das Camp Tent aus dem Camping, das das Leveln beschleunigt. **Engineering** bringt Gadgets und Sprengstoff für mehr Schaden. **Herbalism** mit **Alchemy** gibt dir Elixiere, Tränke und Fläschchen. Für einen Giftbuild siehe den [Guide für den Assassination Rogue](/de/guides/assassination-rogue/), und für Ambush und Blutungen den [Guide für den Subtlety Rogue](/de/guides/subtlety-rogue/).

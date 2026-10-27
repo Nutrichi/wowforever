@@ -3,7 +3,7 @@ title: "Balance-Druid-Guide für WoW Forever"
 metaTitle: "WoW Forever Balance Druid: DoT- und Eclipse-Build, Rotation, Werte und Völker"
 description: "Der Balance Druid in WoW Forever: was sich ändert, zwei Builds für Level 30 mit Overgrowth oder Eclipse, die Rotation, Cooldowns, Mana und DoTs, Werte, Ausrüstung, Völker und Berufe."
 short: "Balance Druid"
-updated: 2026-10-17
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Wann bekomme ich Moonkin Form?"
     a: "Moonkin Form ist das letzte Talent des Balance-Baums und braucht Level 40, es ist also nicht in der Beta. Es erhöht die kritische Trefferchance mit Zaubern deiner ganzen Gruppe um 3 % und verdoppelt die Chance auf Omen of Clarity."
   - q: "Welches Volk ist das beste für einen Balance Druid?"
-    a: "Night Elf für Elune's Light, einen Schub kritischer Trefferchance, oder Tauren für mehr kritischen Schaden. Die Skyborne bekommen auf beiden Seiten 3 % Haste. Die Unterschiede sind klein, nimm also das Volk, das dir gefällt."
+    a: "Night Elf für Elune's Light, einen Schub kritischer Trefferchance, oder Tauren für War Stomp und 5 % mehr Gesundheit. Die Skyborne bekommen auf beiden Seiten 2 % Haste. Die Unterschiede sind klein, nimm also das Volk, das dir gefällt."
   - q: "Gibt es schon einen Build für Level 60?"
     a: "Noch nicht. Die Beta endet auf Level 30, Builds für Level 60 folgen nach dem Start am 4. November."
 sources:
@@ -174,9 +174,9 @@ Die genaue Reihenfolge auf Level 60 folgt nach dem Start. Diese Werte helfen ein
 | Fraktion | Volk | Warum |
 |---|---|---|
 | Alliance | Night Elf | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259799"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elune's Light</a>: 10 % mehr kritische Trefferchance für 15 Sekunden |
-| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 3 % Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>: 100 % mehr Regeneration von Gesundheit und Mana |
-| Horde | Tauren | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20550"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Endurance</a>: 2 % mehr kritischer Schaden und 5 % mehr Gesundheit. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20549"><img class="wf-wh__icon" src="/wh/ability_warstomp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">War Stomp</a> betäubt bis zu 5 Gegner |
-| Horde | Windshaper Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 3 % Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259686"><img class="wf-wh__icon" src="/wh/ability_skyreach_lens_flare.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skysight</a> gibt nur Laufgeschwindigkeit |
+| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2 % Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>: 50 % mehr Regeneration von Gesundheit und Mana, 100 % mit Attuned |
+| Horde | Tauren | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20550"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Endurance</a>: 5 % mehr Gesundheit. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20549"><img class="wf-wh__icon" src="/wh/ability_warstomp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">War Stomp</a> betäubt bis zu 5 Gegner |
+| Horde | Windshaper Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2 % Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259686"><img class="wf-wh__icon" src="/wh/ability_skyreach_lens_flare.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skysight</a> gibt nur Laufgeschwindigkeit |
 
 Die Unterschiede sind klein genug, um das Volk zu nehmen, das dir gefällt.
 

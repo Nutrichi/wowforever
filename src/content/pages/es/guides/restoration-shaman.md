@@ -3,7 +3,7 @@ title: "Restoration Shaman en WoW Forever: la guía"
 metaTitle: "WoW Forever Restoration Shaman: build de sanación, tótems, maná"
 description: "El Restoration Shaman en WoW Forever: la build de sanación de nivel 30 y su versión Talented, Water Shield, Riptide y Chain Heal, los tótems, el maná, los stats y las razas."
 short: "Restoration Shaman"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -141,10 +141,10 @@ Las prioridades de stats de nivel 60 llegarán tras el lanzamiento. Hasta entonc
 
 | Facción | Raza | Por qué |
 |---|---|---|
-| Alliance | Dwarf | El único Shaman de la Alliance, con un bonus a los críticos |
-| Horde | Orc | Más probabilidad de crítico y Blood Fury, la opción más fuerte |
+| Alliance | Dwarf | El único Shaman de la Alliance, con un 1% de hit de Artisan's Precision |
+| Horde | Orc | Blood Fury, la opción más fuerte |
 | Horde | Troll | Habilidades de supervivencia y Berserking |
-| Horde | Tauren | Un bonus a los críticos |
-| Horde | Windshaper Skyborne | Un 3 % más de Haste para hechizos y cuerpo a cuerpo |
+| Horde | Tauren | War Stomp y un 5 % más de vida |
+| Horde | Windshaper Skyborne | Un 2 % más de Haste para hechizos y cuerpo a cuerpo |
 
 **Leatherworking** fabrica buen equipo mientras subes, con poder con hechizos, raro al principio. **Engineering** fabrica abalorios potentes y artilugios. **Enchanting** fabrica pronto un tótem fuerte, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=249398"><img class="wf-wh__icon" src="/wh/spell_shaman_totemrecall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polished Driftwood Icon</a>. Más sobre curar en grupo en nuestras [guías de mazmorras](/es/guides/dungeons/).

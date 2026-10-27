@@ -3,7 +3,7 @@ title: "Arms Warrior guide for WoW Forever"
 metaTitle: "WoW Forever Arms Warrior: level 30 build, Rend, Overpower and Rage"
 description: "The Arms Warrior in WoW Forever: the level 30 build with Bloodthrill, Improved Slam and Sweeping Strikes, the rotation, Rend and Overpower, Rage, stats and races."
 short: "Arms Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Arms Warrior good in WoW Forever?"
@@ -15,7 +15,7 @@ faq:
   - q: "When does an Arms Warrior get Mortal Strike?"
     a: "Mortal Strike is the last talent of the Arms tree and needs 30 points in it, so level 39 at the earliest, or a few levels sooner with Talented from the Legacy system."
   - q: "Which race is best for an Arms Warrior?"
-    a: "Human for the Alliance, for 2% more critical strike chance. Orc for the Horde, for Blood Fury and extra critical strike chance. Every race can play a Warrior, and every pick works."
+    a: "Human for the Alliance, for 1% more critical strike chance, or Dwarf for 1% hit. Orc for the Horde, for Blood Fury. Every race can play a Warrior, and every pick works."
   - q: "Is there a level 60 build yet?"
     a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
 sources:
@@ -136,15 +136,15 @@ Every race can play a Warrior. Every pick works, but some are stronger.
 
 | Faction | Race | Why |
 |---|---|---|
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2% more critical strike chance. The strongest pick |
-| Alliance | Dwarf | More critical strike damage, but much weaker than Human |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1% more critical strike chance |
+| Alliance | Dwarf | Artisan's Precision: 1% hit with spells and attacks |
 | Alliance | Gnome | A burst cooldown that can be very strong |
 | Alliance | Night Elf | Elune's Light, a critical strike cooldown for Rage and damage on demand |
 | Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: Haste, which is rare and strong for you |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> for attack power and extra critical strike chance |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> for attack power |
 | Horde | Troll | More damage to Beasts and Berserking for attack speed on demand |
 | Horde | Undead | Touch of the Grave deals damage and heals you a little |
-| Horde | Tauren | War Stomp, more critical strike damage and Plainsrunning for speed while you keep moving |
+| Horde | Tauren | War Stomp, 5% more Health and Plainsrunning for speed while you keep moving |
 | Horde | Windshaper Skyborne | Haste and a speed cooldown that comes in handy |
 
 **Professions.** Blacksmithing makes some of the best Mail and Plate gear, much of it only for Blacksmiths. Engineering has useful gadgets for every spec.

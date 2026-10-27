@@ -3,7 +3,7 @@ title: "Shadow Priest guide for WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34 build, rotation and stats"
 description: "The Shadow Priest in WoW Forever: the 14/3/34 build for level 60, Improved Mind Flay and Vampiric Embrace, the DoT rotation, Shadowform, mana, stats and races."
 short: "Shadow Priest"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Shadow Priest good in WoW Forever?"
@@ -164,7 +164,7 @@ The order for a Shadow Priest:
 | Faction | Race | Why |
 |---|---|---|
 | Alliance | Dwarf | Big Game Hunter: 5% more damage to Beasts. The best pick against Beast bosses, barely behind Human against the rest |
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2% more critical strike chance. A real option in Forever |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1% more critical strike chance. A real option in Forever |
 | Horde | Troll | Beast Slaying: 5% more damage to Beasts. The best pick against Beast bosses |
 | Horde | Undead | Touch of the Grave got stronger. Against non-Beast bosses as good as Troll, or better unless Shadowguard procs often |
 

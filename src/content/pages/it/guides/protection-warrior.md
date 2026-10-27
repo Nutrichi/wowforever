@@ -3,7 +3,7 @@ title: "Guida al Protection Warrior in WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: build da tank di livello 30, minaccia e Rage"
 description: "Il Protection Warrior in WoW Forever: la build da tank di livello 30 con Master of Defense, Defiance e Vanguard, la rotazione della minaccia, gli indebolimenti, la Rage, stats e razze."
 short: "Protection Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -140,12 +140,12 @@ Ogni razza può essere Warrior. Ogni scelta funziona, ma alcune sono più forti.
 
 | Fazione | Razza | Perché |
 |---|---|---|
-| Alleanza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: il 2% di probabilità di critico in più |
-| Alleanza | Dwarf | Più danni critici, e Stoneform è un eccellente tempo di recupero difensivo |
+| Alleanza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: l’1% di probabilità di critico in più |
+| Alleanza | Dwarf | L’1% di hit con Artisan's Precision, e Stoneform è un eccellente tempo di recupero difensivo |
 | Alleanza | Gnome | Un tempo di recupero di burst che può essere molto forte |
 | Alleanza | Night Elf | Elune's Light per Rage e danni a comando, più schivata e velocità di movimento extra |
 | Alleanza | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: celerità, rara e forte per te |
-| Orda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>, critico extra e un forte tempo di recupero contro i danni magici |
+| Orda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> e un forte tempo di recupero contro i danni magici |
 | Orda | Troll | Più danni alle Bestie, Berserking per la velocità d’attacco e rigenerazione della salute più rapida |
 | Orda | Undead | Touch of the Grave infligge danni e ti cura un poco |
 | Orda | Tauren | La salute più alta di tutte le razze, War Stomp e Plainsrunning per la velocità finché continui a muoverti |

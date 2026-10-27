@@ -3,7 +3,7 @@ title: "Retribution Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Retribution Paladin: build, rotación y sellos"
 description: "El Retribution Paladin en WoW Forever: la build de nivel 30 y su versión Talented, la rotación con Seal of Command y Twist of Light, los Judgements, las bendiciones, los stats y las razas."
 short: "Retribution Paladin"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -138,7 +138,7 @@ Las prioridades de stats para el nivel 60 llegarán tras el lanzamiento. Hasta e
 | Facción | Raza | Por qué |
 |---|---|---|
 | Alliance | Human | Probabilidad de crítico extra, la mejor opción |
-| Alliance | Dwarf | Más daño crítico, y Stoneform como fuerte reutilización defensiva |
+| Alliance | Dwarf | Un 1% de hit con Artisan's Precision, y Stoneform como fuerte reutilización defensiva |
 | Horde | Undead | Un efecto que inflige daño y te cura un poco; el único Paladin de la Horde |
 
 **Blacksmithing** fabrica parte de la mejor placa y malla, mucha solo para herreros. **Engineering** da artilugios útiles a cualquier especialización. Más sobre las razas en [Razas y clases](/es/guides/races-and-classes/).

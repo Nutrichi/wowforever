@@ -3,7 +3,7 @@ title: "Guía del Demonology Warlock en WoW Forever"
 metaTitle: "WoW Forever Demonology Warlock: build de nivel 30, Demonic Brand y demonios"
 description: "El Demonology Warlock en WoW Forever: la build de nivel 30 con Demonic Brand, Demonic Knowledge y Soul Link, la rotación, la amenaza, los demonios, Life Tap, los stats y las razas."
 short: "Demonology Warlock"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "¿Cuándo empiezo a lanzar Searing Pain?"
     a: "Solo cuando tengas Demonic Brand, a nivel 25. Sin él, Searing Pain genera mucha amenaza y le quita el enemigo a tu demonio."
   - q: "¿Qué raza es la mejor para un Demonology Warlock?"
-    a: "Human en la Alianza, por un 2 % más de probabilidad de crítico con Ruthless. Undead en la Horda, por Touch of the Grave, Cannibalize y Will of the Forsaken. Las diferencias son pequeñas, así que elige la raza que te guste."
+    a: "Human en la Alianza, por un 1 % más de probabilidad de crítico con Ruthless. Undead en la Horda, por Touch of the Grave, Cannibalize y Will of the Forsaken. Las diferencias son pequeñas, así que elige la raza que te guste."
   - q: "¿Hay ya una build de nivel 60?"
     a: "Todavía no. La beta se detiene en el nivel 30, y las builds de nivel 60 llegarán tras el lanzamiento del 4 de noviembre."
 sources:
@@ -135,10 +135,10 @@ Pon Attack y Follow en teclas que pulses sin pensar, para mandar o retirar a tu 
 
 | Facción | Raza | Por qué |
 |---|---|---|
-| Alianza | Human | Ruthless para un 2 % más de probabilidad de crítico, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> para más Espíritu. La mejor opción |
+| Alianza | Human | Ruthless para un 1 % más de probabilidad de crítico, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> para un 10 % más de Espíritu. La mejor opción |
 | Alianza | Gnome | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20591"><img class="wf-wh__icon" src="/wh/inv_enchant_essenceeternallarge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expansive Mind</a> para más maná, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259817"><img class="wf-wh__icon" src="/wh/inv_gnometoy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eureka!</a> para hechizos más fuertes y baratos |
 | Horda | Undead | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260201"><img class="wf-wh__icon" src="/wh/spell_shadow_fingerofdeath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Touch of the Grave</a> escala con el Aguante, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20577"><img class="wf-wh__icon" src="/wh/ability_racial_cannibalize.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cannibalize</a> también devuelve maná, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7744"><img class="wf-wh__icon" src="/wh/spell_shadow_raisedead.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Will of the Forsaken</a> rompe el miedo. La mejor opción en la mayoría de casos |
-| Horda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: un 10 % más de poder con hechizos durante 15 segundos, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> contra maldiciones |
+| Horda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: un 10 % más de poder con hechizos durante 15 segundos, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> contra maldiciones, Command: un 5 % más de daño de la mascota |
 | Horda | Troll | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260270"><img class="wf-wh__icon" src="/wh/ability_racial_regeneratin.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Regeneration</a> cura el 50 % de tu salud en 6 segundos, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20557"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_bear_ruin_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beast Slaying</a> contra bestias |
 
 Ninguna es tan fuerte como para renunciar a una raza que te guste más.

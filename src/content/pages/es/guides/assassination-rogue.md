@@ -3,7 +3,7 @@ title: "Guía del Assassination Rogue en WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: builds de Mutilate, venenos y rotación"
 description: "El Assassination Rogue en WoW Forever: Mutilate y Venom, dos builds de nivel 30 para ir en solitario y con Improved Expose Armor, la rotación, la energía, los venenos, los stats y las razas."
 short: "Assassination Rogue"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "¿Necesito Improved Expose Armor?"
     a: "Es opcional pero muy fuerte en grupo: Expose Armor cuesta menos energía y devuelve 2 puntos de combo si lo usas con 5. Los grupos con mucho daño cuerpo a cuerpo lo querrán."
   - q: "¿Qué raza es mejor para un Assassination Rogue?"
-    a: "Human para la Alianza, por un 2% más de probabilidad de crítico, que ahora también cuenta para los venenos. Orc para la Horda, por un 10% más de poder de ataque con Blood Fury."
+    a: "Human para la Alianza, por un 1% más de probabilidad de crítico, que ahora también cuenta para los venenos. Orc para la Horda, por un 10% más de poder de ataque con Blood Fury."
   - q: "¿Hay ya una build de nivel 60?"
     a: "Todavía no. La beta se detiene en el nivel 30, y las builds de nivel 60 llegarán tras el lanzamiento del 4 de noviembre."
 sources:
@@ -185,14 +185,14 @@ El orden exacto a nivel 60 llegará tras el lanzamiento. Estos stats ayudan a un
 
 | Facción | Raza | Por qué |
 |---|---|---|
-| Alianza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: un 2% más de crítico, que ahora también cuenta para los venenos. La mejor opción |
+| Alianza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: un 1% más de crítico, que ahora también cuenta para los venenos |
 | Alianza | Night Elf | Elune's Light: un 10% más de crítico durante 15 segundos, más Quickness, Shadowmeld y mejor Stealth. La segunda mejor |
 | Alianza | Gnome | Eureka para la ráfaga, Expansive Mind con Vigor y Engineering Specialization para ingenieros |
-| Alianza | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: un 3% de celeridad, que se solapa con Slice and Dice. Correcta, no la mejor |
+| Alianza | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: un 2% de celeridad, que se solapa con Slice and Dice. Correcta, no la mejor |
 | Alianza | Dwarf | Stoneform es un buen tiempo de reutilización defensivo, pero el resto es flojo en PvE |
 | Horda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: un 10% más de poder de ataque, y un 5% menos de daño mágico recibido. La mejor opción |
 | Horda | Troll | Berserking para un 10% de celeridad y Rapid Regeneration como la cura que si no te falta. La segunda mejor |
-| Horda | Windshaper Skyborne | Un 3% de celeridad, y Skysight para ver mecánicas como el fuego en el suelo |
+| Horda | Windshaper Skyborne | Un 2% de celeridad, y Skysight para ver mecánicas como el fuego en el suelo |
 | Horda | Undead | Touch of the Grave es el único racial de daño, y Cannibalize reduce el tiempo muerto. Mejor en PvP |
 
 **Profesiones.** Leatherworking hace valioso equipo de cuero a todos los niveles, la nueva tienda de campamento y kits de armadura. Skinning la acompaña y da oro a niveles altos. Engineering añade artilugios y explosivos para más daño. Herbalism y Alchemy dan elixires, pociones y frascos, y pueden dar buen dinero.

@@ -3,7 +3,7 @@ title: "Affliction Warlock guide for WoW Forever"
 metaTitle: "WoW Forever Affliction Warlock: drain tank build, rotation, Life Tap and races"
 description: "The Affliction Warlock in WoW Forever: what changes, the drain tank build for level 30, the rotation, Life Tap and Drain Life, demons, stats, races and professions."
 short: "Affliction Warlock"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: en
 faq:
   - q: "What is a drain tank?"
@@ -117,9 +117,9 @@ The new Move command lets you place your demon anywhere. Bind Attack and Follow 
 | Faction | Race | Why |
 |---|---|---|
 | Horde | Undead | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260201"><img class="wf-wh__icon" src="/wh/spell_shadow_fingerofdeath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Touch of the Grave</a> scales with Stamina, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20577"><img class="wf-wh__icon" src="/wh/ability_racial_cannibalize.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cannibalize</a> also restores mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7744"><img class="wf-wh__icon" src="/wh/spell_shadow_raisedead.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Will of the Forsaken</a> breaks Fear |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10% more spell power for 15 seconds, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> against curses |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10% more spell power for 15 seconds, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> against curses, Command: 5% more pet damage |
 | Horde | Troll | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260270"><img class="wf-wh__icon" src="/wh/ability_racial_regeneratin.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Regeneration</a> heals 50% of your health over 6 seconds, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20557"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_bear_ruin_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beast Slaying</a> against beasts |
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> for more Spirit, Ruthless for more critical strike chance with any weapon |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> for 10% more Spirit, Ruthless for 1% more critical strike chance with any weapon |
 | Alliance | Gnome | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20591"><img class="wf-wh__icon" src="/wh/inv_enchant_essenceeternallarge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expansive Mind</a> for more mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259817"><img class="wf-wh__icon" src="/wh/inv_gnometoy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eureka!</a> for 8 seconds of stronger, cheaper spells |
 
 None of these is strong enough to skip a race you like more.

@@ -3,7 +3,7 @@ title: "Monter un Warlock dans WoW Forever : le guide"
 metaTitle: "Guide leveling Warlock WoW Forever : builds Affliction, Demonology et Destruction jusqu'au 30"
 description: "Comment monter un Warlock dans WoW Forever : le premier build, trois builds niveau 30 pour Affliction, Demonology et Destruction, la rotation, les niveaux clés, les quêtes de classe pour chaque démon, les baguettes, les métiers, Life Tap et Fear."
 short: "Leveling Warlock"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: fr
 manual: true
 faq:
@@ -237,7 +237,7 @@ Votre arme sert surtout de support de stats. Les dégâts des sorts qu'elle ajou
 | **Épées à une main** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Bâtons** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Les Humans n'ont plus besoin d'une épée : leur racial Ruthless donne désormais 2 % de chance de coup critique avec n'importe quelle arme. Plus de détails dans [cet article](/fr/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Les Humans n'ont plus besoin d'une épée : leur racial Ruthless donne désormais 1 % de chance de coup critique avec n'importe quelle arme. Plus de détails dans [cet article](/fr/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Baguettes et équipement
 

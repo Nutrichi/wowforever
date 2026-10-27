@@ -3,7 +3,7 @@ title: "Assassination Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: Mutilate builds, poisons and rotation"
 description: "The Assassination Rogue in WoW Forever: Mutilate and Venom, two level 30 builds for solo and Improved Expose Armor, the rotation, Energy, poisons, stats and races."
 short: "Assassination Rogue"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Assassination Rogue good in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Do I need Improved Expose Armor?"
     a: "It is optional but very strong in groups: Expose Armor costs less Energy and gives 2 Combo Points back when you use it with 5. Groups with a lot of melee damage will want it."
   - q: "Which race is best for an Assassination Rogue?"
-    a: "Human for the Alliance, for 2% more critical strike chance, which now also counts for poisons. Orc for the Horde, for 10% more attack power from Blood Fury."
+    a: "Human for the Alliance, for 1% more critical strike chance, which now also counts for poisons. Orc for the Horde, for 10% more attack power from Blood Fury."
   - q: "Is there a level 60 build yet?"
     a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
 sources:
@@ -184,14 +184,14 @@ The exact order at level 60 follows after the launch. These stats help an Assass
 
 | Faction | Race | Why |
 |---|---|---|
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2% more critical strike chance, which now also counts for poisons. The best pick |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1% more critical strike chance, which now also counts for poisons |
 | Alliance | Night Elf | Elune's Light: 10% more critical strike chance for 15 seconds, plus Quickness, Shadowmeld and better Stealth. The second best |
 | Alliance | Gnome | Eureka for burst, Expansive Mind with Vigor and Engineering Specialization for Engineers |
-| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 3% Haste, which overlaps with Slice and Dice. Decent, not the best |
+| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2% Haste, which overlaps with Slice and Dice. Decent, not the best |
 | Alliance | Dwarf | Stoneform is a good defensive cooldown, but the rest is weak for PvE |
 | Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10% more attack power, plus 5% less magic damage taken. The best pick |
 | Horde | Troll | Berserking for 10% Haste and Rapid Regeneration as a heal you otherwise lack. The second best |
-| Horde | Windshaper Skyborne | 3% Haste, and Skysight to spot mechanics such as fire on the ground |
+| Horde | Windshaper Skyborne | 2% Haste, and Skysight to spot mechanics such as fire on the ground |
 | Horde | Undead | Touch of the Grave is the only damage racial, and Cannibalize cuts downtime. Better in PvP |
 
 **Professions.** Leatherworking makes valuable leather gear at every level, the new camp tent and armor kits. Skinning pairs with it and makes gold at high levels. Engineering adds gadgets and explosives for more damage. Herbalism and Alchemy give elixirs, potions and flasks, and can make good money.

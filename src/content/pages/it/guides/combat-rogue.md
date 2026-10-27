@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: la guida"
 metaTitle: "WoW Forever Combat Rogue: build Hack and Slash fino al 60"
 description: "Il Combat Rogue in WoW Forever: Hack and Slash per ogni tipo d'arma, una build di livello 30 e due di livello 60 (standard e pugnali), Blade Flurry, Adrenaline Rush, energia, veleni e razze."
 short: "Combat Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Quali armi usa un Combat Rogue?"
     a: "Qualsiasi tipo, grazie a Hack and Slash. Usa le armi migliori che trovi. La build a pugnali gioca con Backstab al posto di Sinister Strike e richiede un pugnale nella mano principale."
   - q: "Quale razza scegliere per un Combat Rogue?"
-    a: "Human per l'Alliance, per il 2% di critico, e Orc per l'Horde, per il 10% di potere d'attacco con Blood Fury. Night Elf e Troll sono la seconda scelta."
+    a: "Human per l'Alliance, per l'1% di critico, e Orc per l'Horde, per il 10% di potere d'attacco con Blood Fury. Night Elf e Troll sono la seconda scelta."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
@@ -183,14 +183,14 @@ Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad a
 
 | Fazione | Razza | Perché |
 |---|---|---|
-| Alliance | Human | Il 2% di critico con Ruthless, la scelta migliore |
+| Alliance | Human | L’1% di critico con Ruthless |
 | Alliance | Night Elf | Elune's Light, il 10% di critico per 15 secondi; Shadowmeld e uno Stealth migliore |
 | Alliance | Gnome | Eureka! per un picco di danni, Engineering Specialization con Engineering |
-| Alliance | Dwarf | Stoneform rimuove sanguinamenti, veleni e malattie; debole per i danni |
-| Alliance | Skyborne | Il 3% di celerità con Wind Blessed |
+| Alliance | Dwarf | Stoneform rimuove sanguinamenti, veleni e malattie; Artisan's Precision dà l'1% di hit |
+| Alliance | Skyborne | Il 2% di celerità con Wind Blessed |
 | Horde | Orc | Il 10% di potere d'attacco con Blood Fury, la scelta migliore |
 | Horde | Troll | Il 10% di celerità con Berserking e uno strumento di sopravvivenza |
 | Horde | Undead | Meglio in PvP; Cannibalize fa risparmiare tempo nel mondo aperto |
-| Horde | Skyborne | Il 3% di celerità con Wind Blessed |
+| Horde | Skyborne | Il 2% di celerità con Wind Blessed |
 
 **Leatherworking** con Skinning è la coppia migliore: un buon equipaggiamento in cuoio a ogni livello, kit d'armatura e la Camp Tent del campeggio, che velocizza il leveling. **Engineering** porta aggeggi ed esplosivi per più danni. **Herbalism** con **Alchemy** ti dà elisir, pozioni e fiale. Per una build a veleni, vedi la [guida all'Assassination Rogue](/it/guides/assassination-rogue/), e per Ambush e sanguinamenti la [guida al Subtlety Rogue](/it/guides/subtlety-rogue/).

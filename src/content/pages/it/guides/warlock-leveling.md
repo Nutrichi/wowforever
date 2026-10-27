@@ -3,7 +3,7 @@ title: "Livellare un Warlock in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Warlock in WoW Forever: build Affliction, Demonology e Destruction fino al 30"
 description: "Come livellare un Warlock in WoW Forever: la prima build, tre build di livello 30 per Affliction, Demonology e Destruction, la rotazione, i livelli chiave, le missioni di classe per ogni demone, bacchette, professioni, Life Tap e Fear."
 short: "Leveling del Warlock"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -237,7 +237,7 @@ La tua arma serve soprattutto per le statistiche. I danni magici che aggiunge co
 | **Spade a una mano** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Bastoni** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Gli Human non hanno più bisogno di una spada: il loro racial Ruthless dà ora il 2% di probabilità di colpo critico con qualsiasi arma. Altro in [questo articolo](/it/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Gli Human non hanno più bisogno di una spada: il loro racial Ruthless dà ora l'1% di probabilità di colpo critico con qualsiasi arma. Altro in [questo articolo](/it/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Bacchette ed equipaggiamento
 

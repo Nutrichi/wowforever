@@ -3,7 +3,7 @@ title: "Warlock leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Warlock-Levelguide: Builds für Affliction, Demonology und Destruction bis 30"
 description: "So levelst du einen Warlock in WoW Forever: der erste Build, drei Builds für Level 30 für Affliction, Demonology und Destruction, die Rotation, wichtige Level, die Klassenquests für jeden Dämon, Zauberstäbe, Berufe, Life Tap und Fear."
 short: "Warlock leveln"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -237,7 +237,7 @@ Deine Waffe ist vor allem ein Werteträger. Der Zauberschaden, den sie bringt, z
 | **Einhandschwerter** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Stäbe** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Humans brauchen kein Schwert mehr: Ihr Volksbonus Ruthless gibt jetzt 2 % kritische Trefferchance mit jeder Waffe. Mehr dazu in [diesem Beitrag](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Humans brauchen kein Schwert mehr: Ihr Volksbonus Ruthless gibt jetzt 1 % kritische Trefferchance mit jeder Waffe. Mehr dazu in [diesem Beitrag](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Zauberstäbe und Ausrüstung
 

@@ -3,7 +3,7 @@ title: "Holy Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Holy Paladin: healbuild, spells en mana"
 description: "De Holy Paladin in WoW Forever: de healbuild voor level 30 en de Talented-versie, Holy Shock en Light's Vigil, de healprioriteit, mana, seals, stats en races."
 short: "Holy Paladin"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -133,7 +133,7 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 | Factie | Ras | Waarom |
 |---|---|---|
 | Alliance | Human | Extra critical strike chance, de beste keuze |
-| Alliance | Dwarf | Meer critical strike-schade en -genezing, en Stoneform als defensieve cooldown |
+| Alliance | Dwarf | 1% hit uit Artisan's Precision, en Stoneform als defensieve cooldown |
 | Horde | Undead | Een proc die schade doet en je een beetje heelt; de enige Paladin van de Horde |
 
 **Blacksmithing** maakt een deel van de beste plate en mail, veel ervan alleen voor blacksmiths. **Engineering** geeft elke spec handige gadgets. Meer over helen in groepen in onze [dungeongidsen](/nl/guides/dungeons/).

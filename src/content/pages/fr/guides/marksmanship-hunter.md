@@ -3,7 +3,7 @@ title: "Marksmanship Hunter dans WoW Forever : le guide"
 metaTitle: "WoW Forever Marksmanship Hunter : build niveau 60 et rotation"
 description: "Le Marksmanship Hunter dans WoW Forever : le build 5/46/0 pour le niveau 60 avec Lone Wolf et Sniper Shot, la rotation, le mana avec Rapid Recuperation, les stats et les races."
 short: "Marksmanship Hunter"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: fr
 manual: true
 faq:
@@ -159,12 +159,12 @@ Les priorités de stats pour le niveau 60 suivront après le lancement. D'ici l�
 |---|---|---|
 | Alliance | Skyborne | Un bonus de hâte, rare sur l'équipement, le meilleur choix |
 | Alliance | Human | 2 % de chances de coup critique en plus |
-| Alliance | Dwarf | 2 % de dégâts critiques en plus |
+| Alliance | Dwarf | 1 % de hit avec Artisan's Precision |
 | Alliance | Night Elf | Un temps de recharge pour le critique |
 | Horde | Skyborne | Un bonus de hâte et un temps de recharge de vitesse |
-| Horde | Orc | Un temps de recharge de puissance d'attaque et 1 % de critique en plus |
+| Horde | Orc | Un temps de recharge de puissance d'attaque et 5 % de dégâts en plus pour le familier avec Command |
 | Horde | Troll | Plus de dégâts contre les Bêtes et un temps de recharge de vitesse d'attaque |
-| Horde | Tauren | Un étourdissement de zone, plus de dégâts critiques, et Plainsrunning |
+| Horde | Tauren | Un étourdissement de zone, 5 % de vie en plus, et Plainsrunning |
 
 Les écarts sont faibles, jouez la race qui vous plaît. Pour un build avec familier, voyez le [guide du Beast Mastery Hunter](/fr/guides/beast-mastery-hunter/).
 

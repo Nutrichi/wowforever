@@ -3,7 +3,7 @@ title: "Feral Druid in WoW Forever: der Guide"
 metaTitle: "WoW Forever Feral Druid: Katzen- und Bärenbuilds, Rotation, Werte"
 description: "Der Feral Druid in WoW Forever: vier Builds für Level 60 (Hybrid, Katze, Bär und Solo), Shifting Power und Primal Bite, die Rotationen als Katze und Bär, Werte und Völker."
 short: "Feral Druid"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welche Werte braucht ein Feral Druid?"
     a: "Als Katze: Hit, dann Expertise, dann Crit, Agility, Strength und Angriffskraft. Als Bär auch Defense, Dodge, Rüstung und Stamina, denn ein Druid kann weder blocken noch parieren."
   - q: "Welches Volk ist das beste für einen Feral Druid?"
-    a: "Die Unterschiede sind klein. Night Elf und Tauren bekommen beide einen Bonus auf kritische Treffer, der zu Feral passt. Skyborne bekommen Haste, die der Alliance zusätzlich eine Manaabklingzeit."
+    a: "Die Unterschiede sind klein. Night Elf bekommt einen Bonus auf kritische Treffer, der zu Feral passt, Tauren War Stomp und 5 % mehr Gesundheit. Skyborne bekommen Haste, die der Alliance zusätzlich eine Manaabklingzeit."
   - q: "Gibt es schon einen Build für Level 60?"
     a: "Ja. Die vier Builds in diesem Guide nutzen alle 51 Punkte von Level 60, ohne die Zusatzpunkte von Talented."
 sources:
@@ -171,7 +171,7 @@ Als Katze stehst du hinter dem Ziel: Shred verlangt es, der Gegner kann dich nic
 |---|---|---|
 | Alliance | Night Elf | Bonus auf kritische Treffer, gut zu einem Build voller kritischer Treffer |
 | Alliance | Skyborne | Haste und eine Abklingzeit für Manaregeneration |
-| Horde | Tauren | Betäubung im Umkreis und ein Bonus auf kritischen Schaden |
+| Horde | Tauren | Betäubung im Umkreis und 5 % mehr Gesundheit |
 | Horde | Skyborne | Haste und eine Abklingzeit für Tempo, weniger nützlich als die Manaabklingzeit der Alliance |
 
 Die Unterschiede sind klein, nimm also das Volk, das dir gefällt. **Leatherworking** stellt einen Teil der besten Lederausrüstung her, manches nur für Lederer. **Engineering** gibt nützliche Gadgets. **Herbalism** passt zum Druid, weil du in Travel Form sammelst, und **Alchemy** macht aus diesen Kräutern deine eigenen Verbrauchsgüter. Mehr über Gruppen in unseren [Dungeon-Guides](/de/guides/dungeons/).

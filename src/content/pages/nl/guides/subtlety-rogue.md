@@ -3,7 +3,7 @@ title: "Subtlety Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush- en bleedbuilds tot 60"
 description: "De Subtlety Rogue in WoW Forever: een Ambush-build met Cutthroat en een bleedbuild met Hemorrhage en Thousand Cuts, voor level 30 en level 60, met rotaties, Energy, poisons en races."
 short: "Subtlety Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Ambush of bleed: welke Subtlety-build kies ik?"
     a: "De Ambush-build heeft dolken nodig en moet achter het doelwit staan, dus hij is het best in dungeons en raids. De bleedbuild negeert armor en werkt overal, ook als je een monster alleen bevecht, maar sommige monsters zijn immuun voor bleeds."
   - q: "Welk ras is het beste voor een Subtlety Rogue?"
-    a: "Human voor de Alliance, voor 2% critical strike chance, en Orc voor de Horde, voor 10% attack power uit Blood Fury. Night Elf en Troll zijn de tweede keuze."
+    a: "Human voor de Alliance, voor 1% critical strike chance, en Orc voor de Horde, voor 10% attack power uit Blood Fury. Night Elf en Troll zijn de tweede keuze."
   - q: "Waarom voelt Subtlety zwak op lage levels?"
     a: "De beste talenten zitten onderaan de boom. Veel spelers levelen met een andere spec en stappen op een hoger level over naar Subtlety."
 sources:
@@ -204,14 +204,14 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 | Factie | Ras | Waarom |
 |---|---|---|
-| Alliance | Human | 2% critical strike chance uit Ruthless, de beste keuze |
+| Alliance | Human | 1% critical strike chance uit Ruthless |
 | Alliance | Night Elf | Elune's Light, 15 seconden 10% critical strike chance; Shadowmeld en betere Stealth |
 | Alliance | Gnome | Eureka! voor een uithaal, Engineering Specialization met Engineering |
-| Alliance | Dwarf | Stoneform haalt bleeds, poisons en diseases weg; zwak voor schade |
-| Alliance | Skyborne | 3% haste uit Wind Blessed |
+| Alliance | Dwarf | Stoneform haalt bleeds, poisons en diseases weg; Artisan's Precision geeft 1% hit |
+| Alliance | Skyborne | 2% haste uit Wind Blessed |
 | Horde | Orc | 10% attack power uit Blood Fury, de beste keuze |
 | Horde | Troll | 10% haste uit Berserking en een hulpmiddel om te overleven |
 | Horde | Undead | Beter voor PvP; Cannibalize spaart tijd in de open wereld |
-| Horde | Skyborne | 3% haste uit Wind Blessed |
+| Horde | Skyborne | 2% haste uit Wind Blessed |
 
 **Leatherworking** met Skinning is het beste paar: sterke leather gear op elk level, armor kits, en de Camp Tent uit het kampeersysteem die het levelen versnelt. **Engineering** brengt gadgets en explosieven voor meer schade en is de beste partner voor Leatherworking als je Skinning overslaat. **Herbalism** met **Alchemy** geeft je elixirs, potions en flasks.

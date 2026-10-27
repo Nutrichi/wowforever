@@ -3,7 +3,7 @@ title: "Feral Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Feral Druid: cat- en bearbuilds, rotatie, stats"
 description: "De Feral Druid in WoW Forever: vier builds voor level 60 (hybride, cat, bear en solo), Shifting Power en Primal Bite, de rotaties als cat en bear, stats en races."
 short: "Feral Druid"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welke stats heeft een Feral Druid nodig?"
     a: "Als cat: Hit, dan Expertise, dan Crit, Agility, Strength en attack power. Als bear ook Defense, Dodge, armor en Stamina, want een Druid kan niet blocken of parryen."
   - q: "Welk ras is het beste voor een Feral Druid?"
-    a: "De verschillen zijn klein. Night Elf en Tauren krijgen allebei een bonus op critical strikes die bij Feral past. Skyborne krijgen Haste, en Skyborne van de Alliance ook een manacooldown."
+    a: "De verschillen zijn klein. Night Elf krijgt een bonus op critical strikes die bij Feral past, Tauren War Stomp en 5% meer Health. Skyborne krijgen Haste, en Skyborne van de Alliance ook een manacooldown."
   - q: "Is er al een build voor level 60?"
     a: "Ja. De vier builds in deze gids gebruiken alle 51 punten van level 60, zonder de extra punten van Talented."
 sources:
@@ -171,7 +171,7 @@ Als cat sta je achter het doelwit: Shred vraagt het, de vijand kan je niet parry
 |---|---|---|
 | Alliance | Night Elf | Bonus op critical strikes, goed bij een build vol critical strikes |
 | Alliance | Skyborne | Haste en een cooldown voor manaregeneratie |
-| Horde | Tauren | Stun rondom en een bonus op critical strike-schade |
+| Horde | Tauren | Stun rondom en 5% meer Health |
 | Horde | Skyborne | Haste en een snelheidscooldown, minder nuttig dan de manacooldown van de Alliance |
 
 De verschillen zijn klein, dus kies het ras dat je mooi vindt. **Leatherworking** maakt een deel van de beste leather gear, een stuk ervan alleen voor leatherworkers. **Engineering** geeft handige gadgets. **Herbalism** past bij een Druid, want je verzamelt in Travel Form, en **Alchemy** maakt van die kruiden je eigen consumables. Meer over groepen in onze [dungeongidsen](/nl/guides/dungeons/).

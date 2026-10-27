@@ -3,7 +3,7 @@ title: "Warlock leveling guide for WoW Forever"
 metaTitle: "WoW Forever Warlock leveling guide: Affliction, Demonology and Destruction builds to 30"
 description: "How to level a Warlock in WoW Forever: the early build, three level 30 builds for Affliction, Demonology and Destruction, the rotation, key levels, the class quests for every demon, wands, professions, Life Tap and Fear."
 short: "Warlock leveling"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: en
 faq:
   - q: "What is the best spec to level a Warlock in WoW Forever?"
@@ -236,7 +236,7 @@ Your weapon is a stat stick. The spell damage it adds matters far more than its 
 | **One-handed swords** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Staves** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Humans no longer need a sword: their racial Ruthless now gives 2% critical strike chance with any weapon. More about it in [this post](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Humans no longer need a sword: their racial Ruthless now gives 1% critical strike chance with any weapon. More about it in [this post](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Wands and gear
 

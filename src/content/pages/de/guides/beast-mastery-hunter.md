@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: der Guide"
 metaTitle: "WoW Forever Beast Mastery Hunter: Build für Level 60 und Rotation"
 description: "Der Beast Mastery Hunter in WoW Forever: der Build 31/20/0 für Level 60, Summon Hawk und Bestial Wrath, die Rotation gegen ein Ziel und mehrere, Begleiter, Mana, Werte und Völker."
 short: "Beast Mastery Hunter"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -160,12 +160,12 @@ Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
 |---|---|---|
 | Alliance | Skyborne | Ein Tempobonus, selten auf Ausrüstung, die stärkste Wahl |
 | Alliance | Human | 2 % mehr kritische Trefferchance, die auch dein Begleiter erhält |
-| Alliance | Dwarf | 2 % mehr kritischer Schaden |
+| Alliance | Dwarf | 1 % Hit durch Artisan's Precision |
 | Alliance | Night Elf | Eine Abklingzeit für kritische Trefferchance |
 | Horde | Skyborne | Ein Tempobonus und eine Abklingzeit für Bewegungstempo |
-| Horde | Orc | Eine Abklingzeit für Angriffskraft und 1 % mehr kritische Trefferchance |
+| Horde | Orc | Eine Abklingzeit für Angriffskraft und 5 % mehr Schaden des Begleiters durch Command |
 | Horde | Troll | Mehr Schaden gegen Wildtiere und eine Abklingzeit für Angriffstempo |
-| Horde | Tauren | Eine Flächenbetäubung, mehr kritischer Schaden und Plainsrunning für Tempo ohne Benommenheit |
+| Horde | Tauren | Eine Flächenbetäubung, 5 % mehr Gesundheit und Plainsrunning für Tempo ohne Benommenheit |
 
 Die Unterschiede sind klein, also spiel das Volk, das dir gefällt.
 

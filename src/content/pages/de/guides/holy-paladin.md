@@ -3,7 +3,7 @@ title: "Holy Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Holy Paladin: Heilbuild, Zauber und Mana"
 description: "Der Holy Paladin in WoW Forever: der Heilbuild für Level 30 und die Talented-Version, Holy Shock und Light's Vigil, die Heilpriorität, Mana, Siegel, Werte und Völker."
 short: "Holy Paladin"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -133,7 +133,7 @@ Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
 | Fraktion | Volk | Warum |
 |---|---|---|
 | Alliance | Human | Zusätzliche kritische Trefferchance, die beste Wahl |
-| Alliance | Dwarf | Mehr kritischer Schaden und kritische Heilung, und Stoneform als defensive Abklingzeit |
+| Alliance | Dwarf | 1 % Hit durch Artisan's Precision, und Stoneform als defensive Abklingzeit |
 | Horde | Undead | Ein Effekt, der Schaden verursacht und dich etwas heilt; der einzige Paladin der Horde |
 
 **Blacksmithing** stellt einen Teil der besten Platte und Kette her, vieles davon nur für Schmiede. **Engineering** gibt jeder Spezialisierung nützliche Gadgets. Mehr über das Heilen in Gruppen in unseren [Dungeon-Guides](/de/guides/dungeons/).

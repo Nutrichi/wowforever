@@ -3,7 +3,7 @@ title: "Combat Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash builds to level 60"
 description: "The Combat Rogue in WoW Forever: Hack and Slash for every weapon type, a level 30 build and two level 60 builds (standard and daggers), Blade Flurry, Adrenaline Rush, Energy, poisons and races."
 short: "Combat Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Combat Rogue good in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Which weapons should a Combat Rogue use?"
     a: "Any type, thanks to Hack and Slash. Pick the best weapons you can find. The dagger build plays with Backstab instead of Sinister Strike and needs a dagger in the main hand."
   - q: "Which race is best for a Combat Rogue?"
-    a: "Human for the Alliance, for 2% critical strike chance, and Orc for the Horde, for 10% attack power from Blood Fury. Night Elf and Troll are the second choices."
+    a: "Human for the Alliance, for 1% critical strike chance, and Orc for the Horde, for 10% attack power from Blood Fury. Night Elf and Troll are the second choices."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
@@ -182,14 +182,14 @@ Stat priorities for level 60 follow after the launch. Until then:
 
 | Faction | Race | Why |
 |---|---|---|
-| Alliance | Human | 2% critical strike chance from Ruthless, the best choice |
+| Alliance | Human | 1% critical strike chance from Ruthless |
 | Alliance | Night Elf | Elune's Light, 10% critical strike chance for 15 seconds; Shadowmeld and better Stealth |
 | Alliance | Gnome | Eureka! for burst, Engineering Specialization with Engineering |
-| Alliance | Dwarf | Stoneform removes bleeds, poisons and diseases; weak for damage |
-| Alliance | Skyborne | 3% haste from Wind Blessed |
+| Alliance | Dwarf | Stoneform removes bleeds, poisons and diseases; Artisan's Precision gives 1% hit |
+| Alliance | Skyborne | 2% haste from Wind Blessed |
 | Horde | Orc | 10% attack power from Blood Fury, the best choice |
 | Horde | Troll | 10% haste from Berserking and a survival tool |
 | Horde | Undead | Better for PvP; Cannibalize saves time in the open world |
-| Horde | Skyborne | 3% haste from Wind Blessed |
+| Horde | Skyborne | 2% haste from Wind Blessed |
 
 **Leatherworking** with Skinning is the best pair: strong leather gear at every level, armor kits, and the Camp Tent from camping that speeds up leveling. **Engineering** brings gadgets and explosives for more damage. **Herbalism** with **Alchemy** gives you elixirs, potions and flasks. For a poison build, see the [Assassination Rogue guide](/guides/assassination-rogue/), and for Ambush and bleeds the [Subtlety Rogue guide](/guides/subtlety-rogue/).

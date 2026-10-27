@@ -3,7 +3,7 @@ title: "Arms-Warrior-Guide für WoW Forever"
 metaTitle: "WoW Forever Arms Warrior: Build für Level 30, Rend, Overpower und Rage"
 description: "Der Arms Warrior in WoW Forever: der Build für Level 30 mit Bloodthrill, Improved Slam und Sweeping Strikes, die Rotation, Rend und Overpower, Rage, Werte und Völker."
 short: "Arms Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Wann bekommt ein Arms Warrior Mortal Strike?"
     a: "Mortal Strike ist das letzte Talent im Arms-Baum und braucht 30 Punkte darin, also frühestens Level 39, oder ein paar Level früher mit Talented aus dem Legacy-System."
   - q: "Welches Volk ist das beste für einen Arms Warrior?"
-    a: "Human für die Allianz, für 2 % mehr kritische Trefferchance. Orc für die Horde, für Blood Fury und zusätzliche kritische Trefferchance. Jedes Volk kann Warrior spielen, und jede Wahl funktioniert."
+    a: "Human für die Allianz, für 1 % mehr kritische Trefferchance, oder Dwarf für 1 % Hit. Orc für die Horde, für Blood Fury. Jedes Volk kann Warrior spielen, und jede Wahl funktioniert."
   - q: "Gibt es schon einen Build für Level 60?"
     a: "Noch nicht. Die Beta endet bei Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
 sources:
@@ -137,15 +137,15 @@ Jedes Volk kann Warrior spielen. Jede Wahl funktioniert, aber manche sind stärk
 
 | Fraktion | Volk | Warum |
 |---|---|---|
-| Allianz | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2 % mehr kritische Trefferchance. Die stärkste Wahl |
-| Allianz | Dwarf | Mehr kritischer Schaden, aber viel schwächer als Human |
+| Allianz | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1 % mehr kritische Trefferchance |
+| Allianz | Dwarf | Artisan's Precision: 1 % Hit mit Zaubern und Angriffen |
 | Allianz | Gnome | Eine Burst-Abklingzeit, die sehr stark sein kann |
 | Allianz | Night Elf | Elune's Light, eine Krit-Abklingzeit für Rage und Schaden auf Abruf |
 | Allianz | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: Tempo, selten und stark für dich |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> für Angriffskraft und zusätzliche kritische Trefferchance |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> für Angriffskraft |
 | Horde | Troll | Mehr Schaden gegen Wildtiere und Berserking für Angriffstempo auf Abruf |
 | Horde | Undead | Touch of the Grave macht Schaden und heilt dich ein wenig |
-| Horde | Tauren | War Stomp, mehr kritischer Schaden und Plainsrunning für Tempo, solange du dich bewegst |
+| Horde | Tauren | War Stomp, 5 % mehr Gesundheit und Plainsrunning für Tempo, solange du dich bewegst |
 | Horde | Windshaper Skyborne | Tempo und eine praktische Abklingzeit für Bewegungstempo |
 
 **Berufe.** Blacksmithing stellt einen Teil der besten Ketten- und Plattenausrüstung her, vieles davon nur für Schmiede. Engineering hat nützliche Apparate für jede Spezialisierung.

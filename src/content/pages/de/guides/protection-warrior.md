@@ -3,7 +3,7 @@ title: "Protection-Warrior-Guide für WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: Tank-Build für Level 30, Bedrohung und Rage"
 description: "Der Protection Warrior in WoW Forever: der Tank-Build für Level 30 mit Master of Defense, Defiance und Vanguard, die Bedrohungsrotation, Schwächungen, Rage, Werte und Völker."
 short: "Protection Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -140,12 +140,12 @@ Jedes Volk kann Warrior spielen. Jede Wahl funktioniert, aber manche sind stärk
 
 | Fraktion | Volk | Warum |
 |---|---|---|
-| Allianz | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2 % mehr kritische Trefferchance |
-| Allianz | Dwarf | Mehr kritischer Schaden, und Stoneform ist eine hervorragende defensive Abklingzeit |
+| Allianz | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1 % mehr kritische Trefferchance |
+| Allianz | Dwarf | 1 % Hit durch Artisan's Precision, und Stoneform ist eine hervorragende defensive Abklingzeit |
 | Allianz | Gnome | Eine Burst-Abklingzeit, die sehr stark sein kann |
 | Allianz | Night Elf | Elune's Light für Rage und Schaden auf Abruf, dazu mehr Ausweichchance und Bewegungstempo |
 | Allianz | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: Tempo, selten und stark für dich |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>, zusätzliche kritische Trefferchance und eine starke Abklingzeit gegen Magieschaden |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> und eine starke Abklingzeit gegen Magieschaden |
 | Horde | Troll | Mehr Schaden gegen Wildtiere, Berserking für Angriffstempo und schnellere Gesundheitsregeneration |
 | Horde | Undead | Touch of the Grave macht Schaden und heilt dich ein wenig |
 | Horde | Tauren | Die meiste Gesundheit aller Völker, War Stomp und Plainsrunning für Tempo, solange du dich bewegst |

@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash-builds tot level 60"
 description: "De Combat Rogue in WoW Forever: Hack and Slash voor elk wapentype, een build voor level 30 en twee voor level 60 (standaard en dolken), Blade Flurry, Adrenaline Rush, Energy, poisons en races."
 short: "Combat Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welke wapens gebruikt een Combat Rogue?"
     a: "Elk type, dankzij Hack and Slash. Neem de beste wapens die je vindt. De dolkbuild speelt met Backstab in plaats van Sinister Strike en heeft een dolk in de main hand nodig."
   - q: "Welk ras is het beste voor een Combat Rogue?"
-    a: "Human voor de Alliance, voor 2% critical strike chance, en Orc voor de Horde, voor 10% attack power uit Blood Fury. Night Elf en Troll zijn de tweede keuze."
+    a: "Human voor de Alliance, voor 1% critical strike chance, en Orc voor de Horde, voor 10% attack power uit Blood Fury. Night Elf en Troll zijn de tweede keuze."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
@@ -183,14 +183,14 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 | Factie | Ras | Waarom |
 |---|---|---|
-| Alliance | Human | 2% critical strike chance uit Ruthless, de beste keuze |
+| Alliance | Human | 1% critical strike chance uit Ruthless |
 | Alliance | Night Elf | Elune's Light, 15 seconden 10% critical strike chance; Shadowmeld en betere Stealth |
 | Alliance | Gnome | Eureka! voor een uithaal, Engineering Specialization met Engineering |
-| Alliance | Dwarf | Stoneform haalt bleeds, poisons en diseases weg; zwak voor schade |
-| Alliance | Skyborne | 3% haste uit Wind Blessed |
+| Alliance | Dwarf | Stoneform haalt bleeds, poisons en diseases weg; Artisan's Precision geeft 1% hit |
+| Alliance | Skyborne | 2% haste uit Wind Blessed |
 | Horde | Orc | 10% attack power uit Blood Fury, de beste keuze |
 | Horde | Troll | 10% haste uit Berserking en een hulpmiddel om te overleven |
 | Horde | Undead | Beter voor PvP; Cannibalize spaart tijd in de open wereld |
-| Horde | Skyborne | 3% haste uit Wind Blessed |
+| Horde | Skyborne | 2% haste uit Wind Blessed |
 
 **Leatherworking** met Skinning is het beste paar: sterke leather gear op elk level, armor kits, en de Camp Tent uit het kampeersysteem die het levelen versnelt. **Engineering** brengt gadgets en explosieven voor meer schade. **Herbalism** met **Alchemy** geeft je elixirs, potions en flasks. Voor een poisonbuild, zie de [gids voor de Assassination Rogue](/nl/guides/assassination-rogue/), en voor Ambush en bleeds de [gids voor de Subtlety Rogue](/nl/guides/subtlety-rogue/).

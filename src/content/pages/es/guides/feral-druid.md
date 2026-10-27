@@ -3,7 +3,7 @@ title: "Feral Druid en WoW Forever: la guía"
 metaTitle: "WoW Forever Feral Druid: builds de felino y oso, rotación, stats"
 description: "El Feral Druid en WoW Forever: cuatro builds de nivel 60 (híbrida, felino, oso y solo), Shifting Power y Primal Bite, las rotaciones de felino y de oso, los stats y las razas."
 short: "Feral Druid"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "¿Qué stats necesita un Feral Druid?"
     a: "Como felino: Hit, luego Expertise, luego Crit, Agility, Strength y poder de ataque. Como oso, también Defense, Dodge, armadura y Stamina, porque un Druid no puede bloquear ni parar."
   - q: "¿Qué raza es mejor para un Feral Druid?"
-    a: "Las diferencias son pequeñas. Night Elf y Tauren tienen un bonus a los críticos que encaja con el Feral. Los Skyborne tienen Haste, y los de la Alliance también una reutilización de maná."
+    a: "Las diferencias son pequeñas. Night Elf tiene un bonus a los críticos que encaja con el Feral, Tauren War Stomp y un 5 % más de vida. Los Skyborne tienen Haste, y los de la Alliance también una reutilización de maná."
   - q: "¿Hay ya una build de nivel 60?"
     a: "Sí. Las cuatro builds de esta guía usan los 51 puntos del nivel 60, sin los puntos extra de Talented."
 sources:
@@ -171,7 +171,7 @@ Como felino, quédate detrás del objetivo: Shred lo exige, el enemigo no puede 
 |---|---|---|
 | Alliance | Night Elf | Bonus a los críticos, bueno con una build llena de críticos |
 | Alliance | Skyborne | Haste y una reutilización de regeneración de maná |
-| Horde | Tauren | Aturdimiento en área y bonus al daño crítico |
+| Horde | Tauren | Aturdimiento en área y un 5 % más de vida |
 | Horde | Skyborne | Haste y una reutilización de velocidad, menos útil que la de maná de la Alliance |
 
 Las diferencias son pequeñas, así que elige la raza que te guste. **Leatherworking** fabrica parte del mejor equipo de cuero, una parte solo para peleteros. **Engineering** da artilugios útiles. **Herbalism** encaja con un Druid, porque recolectas en Travel Form, y **Alchemy** convierte esas hierbas en tus propios consumibles. Más sobre grupos en nuestras [guías de mazmorras](/es/guides/dungeons/).

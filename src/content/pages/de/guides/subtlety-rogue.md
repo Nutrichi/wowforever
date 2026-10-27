@@ -3,7 +3,7 @@ title: "Subtlety Rogue in WoW Forever: der Guide"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush- und Blutungsbuilds bis 60"
 description: "Der Subtlety Rogue in WoW Forever: ein Ambush-Build mit Cutthroat und ein Blutungsbuild mit Hemorrhage und Thousand Cuts, für Level 30 und Level 60, mit Rotationen, Energie, Giften und Völkern."
 short: "Subtlety Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Ambush oder Blutung: Welchen Subtlety-Build wähle ich?"
     a: "Der Ambush-Build braucht Dolche und muss hinter dem Ziel stehen, er ist also in Dungeons und Schlachtzügen am besten. Der Blutungsbuild ignoriert Rüstung und funktioniert überall, auch allein gegen ein Monster, aber manche Monster sind immun gegen Blutungen."
   - q: "Welches Volk ist für einen Subtlety Rogue am besten?"
-    a: "Human für die Alliance, wegen 2 % kritischer Trefferchance, und Orc für die Horde, wegen 10 % Angriffskraft durch Blood Fury. Night Elf und Troll sind die zweite Wahl."
+    a: "Human für die Alliance, wegen 1 % kritischer Trefferchance, und Orc für die Horde, wegen 10 % Angriffskraft durch Blood Fury. Night Elf und Troll sind die zweite Wahl."
   - q: "Warum fühlt sich Subtlety auf niedrigen Stufen schwach an?"
     a: "Die besten Talente liegen unten im Baum. Viele Spieler leveln mit einer anderen Spezialisierung und wechseln später zu Subtlety."
 sources:
@@ -204,14 +204,14 @@ Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
 
 | Fraktion | Volk | Warum |
 |---|---|---|
-| Alliance | Human | 2 % kritische Trefferchance durch Ruthless, die beste Wahl |
+| Alliance | Human | 1 % kritische Trefferchance durch Ruthless |
 | Alliance | Night Elf | Elune's Light, 10 % kritische Trefferchance für 15 Sekunden; Shadowmeld und besseres Stealth |
 | Alliance | Gnome | Eureka! für eine Schadensspitze, Engineering Specialization mit Engineering |
-| Alliance | Dwarf | Stoneform entfernt Blutungen, Gifte und Krankheiten; schwach für Schaden |
-| Alliance | Skyborne | 3 % Tempo durch Wind Blessed |
+| Alliance | Dwarf | Stoneform entfernt Blutungen, Gifte und Krankheiten; Artisan's Precision gibt 1 % Hit |
+| Alliance | Skyborne | 2 % Tempo durch Wind Blessed |
 | Horde | Orc | 10 % Angriffskraft durch Blood Fury, die beste Wahl |
 | Horde | Troll | 10 % Tempo durch Berserking und ein Werkzeug zum Überleben |
 | Horde | Undead | Besser im PvP; Cannibalize spart Zeit in der offenen Welt |
-| Horde | Skyborne | 3 % Tempo durch Wind Blessed |
+| Horde | Skyborne | 2 % Tempo durch Wind Blessed |
 
 **Leatherworking** mit Skinning ist das beste Paar: starke Lederausrüstung auf jeder Stufe, Rüstungssets und das Camp Tent aus dem Camping, das das Leveln beschleunigt. **Engineering** bringt Gadgets und Sprengstoff für mehr Schaden und ist der beste Partner für Leatherworking, wenn du Skinning auslässt. **Herbalism** mit **Alchemy** gibt dir Elixiere, Tränke und Fläschchen.

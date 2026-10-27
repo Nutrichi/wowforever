@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: la guida"
 metaTitle: "WoW Forever Beast Mastery Hunter: build di livello 60 e rotazione"
 description: "Il Beast Mastery Hunter in WoW Forever: la build 31/20/0 per il livello 60, Summon Hawk e Bestial Wrath, la rotazione su un bersaglio e ad area, i famigli, il mana, le stats e le razze."
 short: "Beast Mastery Hunter"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -160,12 +160,12 @@ Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad a
 |---|---|---|
 | Alliance | Skyborne | Un bonus di celerità, raro sull'equipaggiamento, la scelta migliore |
 | Alliance | Human | Il 2% di probabilità di critico in più, che riceve anche il famiglio |
-| Alliance | Dwarf | Il 2% di danni critici in più |
+| Alliance | Dwarf | L'1% di hit con Artisan's Precision |
 | Alliance | Night Elf | Un tempo di recupero per il critico |
 | Horde | Skyborne | Un bonus di celerità e un tempo di recupero di velocità |
-| Horde | Orc | Un tempo di recupero di potere d'attacco e l'1% di critico in più |
+| Horde | Orc | Un tempo di recupero di potere d'attacco e il 5% di danni in più del famiglio con Command |
 | Horde | Troll | Più danni contro le Bestie e un tempo di recupero di velocità d'attacco |
-| Horde | Tauren | Uno stordimento ad area, più danni critici e Plainsrunning per la velocità senza stordimento |
+| Horde | Tauren | Uno stordimento ad area, il 5% di salute in più e Plainsrunning per la velocità senza stordimento |
 
 Le differenze sono piccole, quindi gioca la razza che ti piace.
 

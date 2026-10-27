@@ -3,7 +3,7 @@ title: "Protection Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Protection Warrior: tankbuild voor level 30, threat en Rage"
 description: "De Protection Warrior in WoW Forever: de tankbuild voor level 30 met Master of Defense, Defiance en Vanguard, de threat-rotatie, debuffs, Rage, stats en races."
 short: "Protection Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -140,12 +140,12 @@ Elk ras kan Warrior spelen. Elke keuze werkt, maar sommige zijn sterker.
 
 | Factie | Ras | Waarom |
 |---|---|---|
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2% meer critical strike chance |
-| Alliance | Dwarf | Meer critical strike-schade, en Stoneform is een uitstekende defensieve cooldown |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1% meer critical strike chance |
+| Alliance | Dwarf | 1% hit uit Artisan's Precision, en Stoneform is een uitstekende defensieve cooldown |
 | Alliance | Gnome | Een burst-cooldown die heel sterk kan zijn |
 | Alliance | Night Elf | Elune's Light voor Rage en schade op afroep, plus extra dodge chance en bewegingssnelheid |
 | Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: Haste, zeldzaam en sterk voor jou |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>, extra critical strike chance en een sterke cooldown tegen magische schade |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> en een sterke cooldown tegen magische schade |
 | Horde | Troll | Meer schade tegen Beasts, Berserking voor aanvalssnelheid en snellere health-regeneratie |
 | Horde | Undead | Touch of the Grave doet schade en heelt je een beetje |
 | Horde | Tauren | De meeste health van alle races, War Stomp en Plainsrunning voor snelheid zolang je blijft bewegen |

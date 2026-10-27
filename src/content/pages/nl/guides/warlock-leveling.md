@@ -3,7 +3,7 @@ title: "Warlock levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Warlock levelgids: builds voor Affliction, Demonology en Destruction tot 30"
 description: "Zo level je een Warlock in WoW Forever: de eerste build, drie builds voor level 30 voor Affliction, Demonology en Destruction, de rotatie, de belangrijke levels, de classquests voor elke demon, wands, tradeskills, Life Tap en Fear."
 short: "Warlock levelen"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -237,7 +237,7 @@ Je wapen is een stat stick. De spell damage die het toevoegt, telt veel meer dan
 | **Eenhandige zwaarden** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Staven** | Ilyenia Moonfire (Darnassus), Woo Ping (Stormwind) | Hanashi, Sayoc (Orgrimmar), Ansekhwa (Thunder Bluff) |
 
-Humans hebben geen zwaard meer nodig: hun racial Ruthless geeft nu 2% critical strike chance met elk wapen. Meer daarover in [deze post](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
+Humans hebben geen zwaard meer nodig: hun racial Ruthless geeft nu 1% critical strike chance met elk wapen. Meer daarover in [deze post](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
 ## Wands en gear
 

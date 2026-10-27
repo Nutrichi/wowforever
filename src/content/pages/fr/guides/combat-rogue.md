@@ -3,7 +3,7 @@ title: "Combat Rogue dans WoW Forever : le guide"
 metaTitle: "WoW Forever Combat Rogue : builds Hack and Slash jusqu'au 60"
 description: "Le Combat Rogue dans WoW Forever : Hack and Slash pour chaque type d'arme, un build niveau 30 et deux builds niveau 60 (standard et dagues), Blade Flurry, Adrenaline Rush, Énergie, poisons et races."
 short: "Combat Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: fr
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Quelles armes pour un Combat Rogue ?"
     a: "N'importe quel type, grâce à Hack and Slash. Prenez les meilleures armes que vous trouvez. Le build dagues joue avec Backstab au lieu de Sinister Strike et demande une dague en main droite."
   - q: "Quelle race choisir pour un Combat Rogue ?"
-    a: "Human pour l'Alliance, pour 2 % de critique, et Orc pour la Horde, pour 10 % de puissance d'attaque avec Blood Fury. Night Elf et Troll sont les seconds choix."
+    a: "Human pour l'Alliance, pour 1 % de critique, et Orc pour la Horde, pour 10 % de puissance d'attaque avec Blood Fury. Night Elf et Troll sont les seconds choix."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
@@ -183,14 +183,14 @@ Les priorités de stats pour le niveau 60 suivront après le lancement. D'ici l�
 
 | Faction | Race | Pourquoi |
 |---|---|---|
-| Alliance | Human | 2 % de critique avec Ruthless, le meilleur choix |
+| Alliance | Human | 1 % de critique avec Ruthless |
 | Alliance | Night Elf | Elune's Light, 10 % de critique pendant 15 secondes ; Shadowmeld et un meilleur Stealth |
 | Alliance | Gnome | Eureka! pour une pointe de dégâts, Engineering Specialization avec Engineering |
-| Alliance | Dwarf | Stoneform retire saignements, poisons et maladies ; faible pour les dégâts |
-| Alliance | Skyborne | 3 % de hâte avec Wind Blessed |
+| Alliance | Dwarf | Stoneform retire saignements, poisons et maladies ; Artisan's Precision donne 1 % de hit |
+| Alliance | Skyborne | 2 % de hâte avec Wind Blessed |
 | Horde | Orc | 10 % de puissance d'attaque avec Blood Fury, le meilleur choix |
 | Horde | Troll | 10 % de hâte avec Berserking et un outil de survie |
 | Horde | Undead | Meilleur en PvP ; Cannibalize fait gagner du temps en monde ouvert |
-| Horde | Skyborne | 3 % de hâte avec Wind Blessed |
+| Horde | Skyborne | 2 % de hâte avec Wind Blessed |
 
 **Leatherworking** avec Skinning est le meilleur duo : un bon équipement en cuir à tous les niveaux, des kits d'armure, et la Camp Tent du camping qui accélère le leveling. **Engineering** apporte gadgets et explosifs pour plus de dégâts. **Herbalism** avec **Alchemy** vous donne élixirs, potions et flacons. Pour un build aux poisons, voyez le [guide de l'Assassination Rogue](/fr/guides/assassination-rogue/), et pour Ambush et saignements le [guide du Subtlety Rogue](/fr/guides/subtlety-rogue/).

@@ -3,7 +3,7 @@ title: "Guida al Destruction Warlock in WoW Forever"
 metaTitle: "WoW Forever Destruction Warlock: build di livello 30, Conflagrate e Hellfire"
 description: "Il Destruction Warlock in WoW Forever: la build di livello 30 con Bane, Aftermath, Shadowburn e Conflagrate, la rotazione, Hellfire nei dungeon, mana, minaccia, statistiche e razze."
 short: "Destruction Warlock"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Destruction va bene per livellare in solo?"
     a: "È la spec Warlock più lenta in solo, perché la maggior parte dei danni viene da lanci per cui resti fermo e consuma più mana di tutte. Brilla nei dungeon, dove il guaritore paga i tuoi Life Tap e Hellfire."
   - q: "Qual è la razza migliore per un Destruction Warlock?"
-    a: "Human per l’Alleanza, per il 2% di probabilità di critico in più da Ruthless. Undead per l’Orda, per Touch of the Grave, Cannibalize e Will of the Forsaken. Anche Berserking del Troll accelera i tuoi lanci. Le differenze sono piccole, quindi scegli la razza che ti piace."
+    a: "Human per l’Alleanza, per l’1% di probabilità di critico in più da Ruthless. Undead per l’Orda, per Touch of the Grave, Cannibalize e Will of the Forsaken. Anche Berserking del Troll accelera i tuoi lanci. Le differenze sono piccole, quindi scegli la razza che ti piace."
   - q: "C’è già una build per il livello 60?"
     a: "Non ancora. La beta si ferma al livello 30, e le build per il livello 60 arriveranno dopo il lancio del 4 novembre."
 sources:
@@ -148,10 +148,10 @@ Il nuovo comando Move ti lascia piazzare il demone dove vuoi. Assegna Attack e F
 
 | Fazione | Razza | Perché |
 |---|---|---|
-| Alleanza | Human | Ruthless per il 2% di probabilità di critico in più, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> per più Spirito. La scelta migliore |
+| Alleanza | Human | Ruthless per l’1% di probabilità di critico in più, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> per il 10% di Spirito in più. La scelta migliore |
 | Alleanza | Gnome | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20591"><img class="wf-wh__icon" src="/wh/inv_enchant_essenceeternallarge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expansive Mind</a> per più mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259817"><img class="wf-wh__icon" src="/wh/inv_gnometoy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eureka!</a> per incantesimi più forti ed economici |
 | Orda | Undead | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260201"><img class="wf-wh__icon" src="/wh/spell_shadow_fingerofdeath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Touch of the Grave</a> scala con la Tempra, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20577"><img class="wf-wh__icon" src="/wh/ability_racial_cannibalize.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cannibalize</a> ridà anche mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7744"><img class="wf-wh__icon" src="/wh/spell_shadow_raisedead.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Will of the Forsaken</a> spezza la paura. La scelta migliore nella maggior parte dei casi |
-| Orda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: il 10% di potere magico in più per 15 secondi, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> contro le maledizioni |
+| Orda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: il 10% di potere magico in più per 15 secondi, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> contro le maledizioni, Command: il 5% di danni in più del famiglio |
 | Orda | Troll | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260270"><img class="wf-wh__icon" src="/wh/ability_racial_regeneratin.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Regeneration</a> cura il 50% della tua vita in 6 secondi, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20557"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_bear_ruin_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beast Slaying</a> contro le bestie, e Berserking accelera i tuoi lanci |
 
 Nessuna è abbastanza forte da farti rinunciare a una razza che ti piace di più.

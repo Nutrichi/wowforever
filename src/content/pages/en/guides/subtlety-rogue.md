@@ -3,7 +3,7 @@ title: "Subtlety Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush and bleed builds to 60"
 description: "The Subtlety Rogue in WoW Forever: an Ambush build with Cutthroat and a bleed build with Hemorrhage and Thousand Cuts, for level 30 and level 60, with rotations, Energy, poisons and races."
 short: "Subtlety Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Subtlety Rogue good in PvE in WoW Forever?"
@@ -15,7 +15,7 @@ faq:
   - q: "Ambush or bleed: which Subtlety build should I pick?"
     a: "The Ambush build needs daggers and needs to stand behind the target, so it is best in dungeons and raids. The bleed build ignores armor and works anywhere, also when you fight a monster alone, but some monsters are immune to bleeds."
   - q: "Which race is best for a Subtlety Rogue?"
-    a: "Human for the Alliance, for 2% critical strike chance, and Orc for the Horde, for 10% attack power from Blood Fury. Night Elf and Troll are the second choices."
+    a: "Human for the Alliance, for 1% critical strike chance, and Orc for the Horde, for 10% attack power from Blood Fury. Night Elf and Troll are the second choices."
   - q: "Why does Subtlety feel weak at low levels?"
     a: "Its best talents sit at the bottom of the tree. Many players level with another spec and switch to Subtlety at a higher level."
 sources:
@@ -203,14 +203,14 @@ Stat priorities for level 60 follow after the launch. Until then:
 
 | Faction | Race | Why |
 |---|---|---|
-| Alliance | Human | 2% critical strike chance from Ruthless, the best choice |
+| Alliance | Human | 1% critical strike chance from Ruthless |
 | Alliance | Night Elf | Elune's Light, 10% critical strike chance for 15 seconds; Shadowmeld and better Stealth |
 | Alliance | Gnome | Eureka! for burst, Engineering Specialization with Engineering |
-| Alliance | Dwarf | Stoneform removes bleeds, poisons and diseases; weak for damage |
-| Alliance | Skyborne | 3% haste from Wind Blessed |
+| Alliance | Dwarf | Stoneform removes bleeds, poisons and diseases; Artisan's Precision gives 1% hit |
+| Alliance | Skyborne | 2% haste from Wind Blessed |
 | Horde | Orc | 10% attack power from Blood Fury, the best choice |
 | Horde | Troll | 10% haste from Berserking and a survival tool |
 | Horde | Undead | Better for PvP; Cannibalize saves time in the open world |
-| Horde | Skyborne | 3% haste from Wind Blessed |
+| Horde | Skyborne | 2% haste from Wind Blessed |
 
 **Leatherworking** with Skinning is the best pair: strong leather gear at every level, armor kits, and the Camp Tent from camping that speeds up leveling. **Engineering** brings gadgets and explosives for more damage and is the best partner for Leatherworking if you skip Skinning. **Herbalism** with **Alchemy** gives you elixirs, potions and flasks.

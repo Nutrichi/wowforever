@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter guide for WoW Forever"
 metaTitle: "WoW Forever Beast Mastery Hunter: level 60 build and rotation"
 description: "The Beast Mastery Hunter in WoW Forever: the 31/20/0 build for level 60, Summon Hawk and Bestial Wrath, the single target and AoE rotation, pets, mana, stats and races."
 short: "Beast Mastery Hunter"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Beast Mastery Hunter good in WoW Forever?"
@@ -159,12 +159,12 @@ Stat priorities for level 60 follow after the launch. Until then:
 |---|---|---|
 | Alliance | Skyborne | A haste bonus, rare on gear, the strongest choice |
 | Alliance | Human | 2% more critical strike chance, which your pet also gets |
-| Alliance | Dwarf | 2% more critical strike damage |
+| Alliance | Dwarf | 1% hit from Artisan's Precision |
 | Alliance | Night Elf | A critical strike cooldown |
 | Horde | Skyborne | A haste bonus and a movement speed cooldown |
-| Horde | Orc | An attack power cooldown and 1% more critical strike chance |
+| Horde | Orc | An attack power cooldown and 5% more pet damage from Command |
 | Horde | Troll | More damage against Beasts and an attack speed cooldown |
-| Horde | Tauren | An area stun, more critical strike damage, and Plainsrunning for speed without being dazed |
+| Horde | Tauren | An area stun, 5% more Health, and Plainsrunning for speed without being dazed |
 
 The differences are small, so play the race you like.
 

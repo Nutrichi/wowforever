@@ -3,7 +3,7 @@ title: "Assassination-Rogue-Guide für WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: Mutilate-Builds, Gifte und Rotation"
 description: "Der Assassination Rogue in WoW Forever: Mutilate und Venom, zwei Builds für Level 30 für Solo und mit Improved Expose Armor, die Rotation, Energie, Gifte, Werte und Völker."
 short: "Assassination Rogue"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Brauche ich Improved Expose Armor?"
     a: "Es ist optional, aber in Gruppen sehr stark: Expose Armor kostet weniger Energie und gibt 2 Combopunkte zurück, wenn du es mit 5 nutzt. Gruppen mit viel Nahkampfschaden werden es wollen."
   - q: "Welches Volk ist das beste für einen Assassination Rogue?"
-    a: "Human für die Allianz, für 2 % mehr kritische Trefferchance, die jetzt auch für Gifte zählt. Orc für die Horde, für 10 % mehr Angriffskraft durch Blood Fury."
+    a: "Human für die Allianz, für 1 % mehr kritische Trefferchance, die jetzt auch für Gifte zählt. Orc für die Horde, für 10 % mehr Angriffskraft durch Blood Fury."
   - q: "Gibt es schon einen Build für Level 60?"
     a: "Noch nicht. Die Beta endet bei Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
 sources:
@@ -185,14 +185,14 @@ Die genaue Reihenfolge auf Level 60 folgt nach dem Start. Diese Werte helfen ein
 
 | Fraktion | Volk | Warum |
 |---|---|---|
-| Allianz | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2 % mehr kritische Trefferchance, die jetzt auch für Gifte zählt. Die beste Wahl |
+| Allianz | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1 % mehr kritische Trefferchance, die jetzt auch für Gifte zählt |
 | Allianz | Night Elf | Elune's Light: 10 % mehr kritische Trefferchance für 15 Sekunden, dazu Quickness, Shadowmeld und besseres Stealth. Die zweitbeste |
 | Allianz | Gnome | Eureka für Burst, Expansive Mind mit Vigor und Engineering Specialization für Ingenieure |
-| Allianz | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 3 % Tempo, das sich mit Slice and Dice überschneidet. Ordentlich, nicht die beste |
+| Allianz | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2 % Tempo, das sich mit Slice and Dice überschneidet. Ordentlich, nicht die beste |
 | Allianz | Dwarf | Stoneform ist eine gute defensive Abklingzeit, aber der Rest ist im PvE schwach |
 | Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10 % mehr Angriffskraft, dazu 5 % weniger erlittener Magieschaden. Die beste Wahl |
 | Horde | Troll | Berserking für 10 % Tempo und Rapid Regeneration als Heilung, die dir sonst fehlt. Die zweitbeste |
-| Horde | Windshaper Skyborne | 3 % Tempo, und Skysight, um Mechaniken wie Feuer am Boden zu sehen |
+| Horde | Windshaper Skyborne | 2 % Tempo, und Skysight, um Mechaniken wie Feuer am Boden zu sehen |
 | Horde | Undead | Touch of the Grave ist der einzige Schadens-Volksbonus, und Cannibalize verkürzt Pausen. Besser im PvP |
 
 **Berufe.** Leatherworking stellt auf jedem Level wertvolle Lederausrüstung her, dazu das neue Lagerzelt und Rüstungssets. Skinning passt dazu und bringt auf hohen Leveln Gold. Engineering bringt Apparate und Sprengstoffe für mehr Schaden. Herbalism und Alchemy liefern Elixiere, Tränke und Fläschchen und können gutes Geld bringen.

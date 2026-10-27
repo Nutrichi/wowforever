@@ -3,7 +3,7 @@ title: "Guía del Protection Warrior en WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: build de tanque de nivel 30, amenaza y Rage"
 description: "El Protection Warrior en WoW Forever: la build de tanque de nivel 30 con Master of Defense, Defiance y Vanguard, la rotación de amenaza, los perjuicios, la Rage, los stats y las razas."
 short: "Protection Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -140,12 +140,12 @@ Todas las razas pueden ser Warrior. Cualquier elección funciona, pero algunas s
 
 | Facción | Raza | Por qué |
 |---|---|---|
-| Alianza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: un 2% más de probabilidad de crítico |
-| Alianza | Dwarf | Más daño crítico, y Stoneform es un tiempo de reutilización defensivo excelente |
+| Alianza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: un 1% más de probabilidad de crítico |
+| Alianza | Dwarf | Un 1% de hit con Artisan's Precision, y Stoneform es un tiempo de reutilización defensivo excelente |
 | Alianza | Gnome | Un tiempo de reutilización de ráfaga que puede ser muy fuerte |
 | Alianza | Night Elf | Elune's Light para Rage y daño a demanda, más esquiva y velocidad de movimiento extra |
 | Alianza | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: celeridad, escasa y fuerte para ti |
-| Horda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>, crítico extra y un tiempo de reutilización fuerte contra el daño mágico |
+| Horda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> y un tiempo de reutilización fuerte contra el daño mágico |
 | Horda | Troll | Más daño a las Bestias, Berserking para velocidad de ataque y regeneración de vida más rápida |
 | Horda | Undead | Touch of the Grave hace daño y te cura un poco |
 | Horda | Tauren | La mayor vida de todas las razas, War Stomp y Plainsrunning para velocidad mientras sigas moviéndote |

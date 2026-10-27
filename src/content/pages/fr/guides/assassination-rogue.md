@@ -3,7 +3,7 @@ title: "Guide de l’Assassination Rogue dans WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue : builds Mutilate, poisons et rotation"
 description: "L’Assassination Rogue dans WoW Forever : Mutilate et Venom, deux builds niveau 30 pour le solo et Improved Expose Armor, la rotation, l’énergie, les poisons, les stats et les races."
 short: "Assassination Rogue"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: fr
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Ai-je besoin d’Improved Expose Armor ?"
     a: "C’est optionnel mais très fort en groupe : Expose Armor coûte moins d’énergie et rend 2 points de combo quand vous l’utilisez avec 5. Les groupes avec beaucoup de dégâts en mêlée le voudront."
   - q: "Quelle race choisir pour un Assassination Rogue ?"
-    a: "Human pour l’Alliance, pour 2 % de chances de critique en plus, ce qui compte maintenant aussi pour les poisons. Orc pour la Horde, pour 10 % de puissance d’attaque en plus avec Blood Fury."
+    a: "Human pour l’Alliance, pour 1 % de chances de critique en plus, ce qui compte maintenant aussi pour les poisons. Orc pour la Horde, pour 10 % de puissance d’attaque en plus avec Blood Fury."
   - q: "Y a-t-il déjà un build niveau 60 ?"
     a: "Pas encore. La bêta s’arrête au niveau 30, et les builds niveau 60 suivront après le lancement du 4 novembre."
 sources:
@@ -185,14 +185,14 @@ L’ordre exact au niveau 60 viendra après le lancement. Ces stats aident un As
 
 | Faction | Race | Pourquoi |
 |---|---|---|
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a> : 2 % de critique en plus, ce qui compte maintenant aussi pour les poisons. Le meilleur choix |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a> : 1 % de critique en plus, ce qui compte maintenant aussi pour les poisons |
 | Alliance | Night Elf | Elune's Light : 10 % de critique en plus pendant 15 secondes, plus Quickness, Shadowmeld et un meilleur Stealth. Le deuxième meilleur |
 | Alliance | Gnome | Eureka pour le burst, Expansive Mind avec Vigor et Engineering Specialization pour les ingénieurs |
-| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a> : 3 % de hâte, qui recoupe Slice and Dice. Correct, pas le meilleur |
+| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a> : 2 % de hâte, qui recoupe Slice and Dice. Correct, pas le meilleur |
 | Alliance | Dwarf | Stoneform est un bon temps de recharge défensif, mais le reste est faible en PvE |
 | Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> : 10 % de puissance d’attaque en plus, plus 5 % de dégâts magiques subis en moins. Le meilleur choix |
 | Horde | Troll | Berserking pour 10 % de hâte et Rapid Regeneration comme soin qui vous manque sinon. Le deuxième meilleur |
-| Horde | Windshaper Skyborne | 3 % de hâte, et Skysight pour repérer des mécaniques comme le feu au sol |
+| Horde | Windshaper Skyborne | 2 % de hâte, et Skysight pour repérer des mécaniques comme le feu au sol |
 | Horde | Undead | Touch of the Grave est le seul racial offensif, et Cannibalize réduit les temps morts. Meilleur en PvP |
 
 **Métiers.** Leatherworking fabrique du précieux équipement en cuir à tous les niveaux, la nouvelle tente de camp et des kits d’armure. Skinning va avec et rapporte de l’or à haut niveau. Engineering ajoute gadgets et explosifs pour plus de dégâts. Herbalism et Alchemy donnent élixirs, potions et flacons, et peuvent bien rapporter.

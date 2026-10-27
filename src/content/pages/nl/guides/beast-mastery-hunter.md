@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: de gids"
 metaTitle: "WoW Forever Beast Mastery Hunter: build voor level 60 en rotatie"
 description: "De Beast Mastery Hunter in WoW Forever: de build 31/20/0 voor level 60, Summon Hawk en Bestial Wrath, de rotatie op één doelwit en op groepen, pets, mana, stats en races."
 short: "Beast Mastery Hunter"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -160,12 +160,12 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 |---|---|---|
 | Alliance | Skyborne | Een haste-bonus, zeldzaam op gear, de sterkste keuze |
 | Alliance | Human | 2% meer critical strike chance, die je pet ook krijgt |
-| Alliance | Dwarf | 2% meer critical strike-schade |
+| Alliance | Dwarf | 1% hit uit Artisan's Precision |
 | Alliance | Night Elf | Een cooldown voor critical strike chance |
 | Horde | Skyborne | Een haste-bonus en een cooldown voor snelheid |
-| Horde | Orc | Een cooldown voor attack power en 1% meer critical strike chance |
+| Horde | Orc | Een cooldown voor attack power en 5% meer schade van je pet uit Command |
 | Horde | Troll | Meer schade tegen Beasts en een cooldown voor attack speed |
-| Horde | Tauren | Een stun rondom, meer critical strike-schade, en Plainsrunning voor snelheid zonder daze |
+| Horde | Tauren | Een stun rondom, 5% meer health, en Plainsrunning voor snelheid zonder daze |
 
 De verschillen zijn klein, dus speel het ras dat je leuk vindt.
 

@@ -3,7 +3,7 @@ title: "Destruction Warlock guide for WoW Forever"
 metaTitle: "WoW Forever Destruction Warlock: level 30 build, Conflagrate and Hellfire"
 description: "The Destruction Warlock in WoW Forever: the level 30 build with Bane, Aftermath, Shadowburn and Conflagrate, the rotation, Hellfire in dungeons, mana, threat, stats and races."
 short: "Destruction Warlock"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: en
 faq:
   - q: "When does a Destruction Warlock get Conflagrate?"
@@ -15,7 +15,7 @@ faq:
   - q: "Is Destruction good for solo leveling?"
     a: "It is the slowest Warlock spec solo, because most of its damage comes from casts you stand still for and it spends the most mana. It shines in dungeons, where your healer pays for your Life Taps and Hellfire."
   - q: "Which race is best for a Destruction Warlock?"
-    a: "Human for the Alliance, for 2% more critical strike chance from Ruthless. Undead for the Horde, for Touch of the Grave, Cannibalize and Will of the Forsaken. Troll Berserking also speeds up your casts. The gaps are small, so pick the race you like."
+    a: "Human for the Alliance, for 1% more critical strike chance from Ruthless. Undead for the Horde, for Touch of the Grave, Cannibalize and Will of the Forsaken. Troll Berserking also speeds up your casts. The gaps are small, so pick the race you like."
   - q: "Is there a level 60 build yet?"
     a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
 sources:
@@ -147,10 +147,10 @@ The new Move command lets you place your demon anywhere. Bind Attack and Follow 
 
 | Faction | Race | Why |
 |---|---|---|
-| Alliance | Human | Ruthless for 2% more critical strike chance, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> for more Spirit. The best choice |
+| Alliance | Human | Ruthless for 1% more critical strike chance, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> for 10% more Spirit. The best choice |
 | Alliance | Gnome | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20591"><img class="wf-wh__icon" src="/wh/inv_enchant_essenceeternallarge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expansive Mind</a> for more mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259817"><img class="wf-wh__icon" src="/wh/inv_gnometoy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eureka!</a> for stronger, cheaper spells |
 | Horde | Undead | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260201"><img class="wf-wh__icon" src="/wh/spell_shadow_fingerofdeath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Touch of the Grave</a> scales with Stamina, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20577"><img class="wf-wh__icon" src="/wh/ability_racial_cannibalize.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cannibalize</a> also restores mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7744"><img class="wf-wh__icon" src="/wh/spell_shadow_raisedead.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Will of the Forsaken</a> breaks Fear. The best choice in most situations |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10% more spell power for 15 seconds, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> against curses |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10% more spell power for 15 seconds, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> against curses, Command: 5% more pet damage |
 | Horde | Troll | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260270"><img class="wf-wh__icon" src="/wh/ability_racial_regeneratin.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Regeneration</a> heals 50% of your health over 6 seconds, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20557"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_bear_ruin_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beast Slaying</a> against beasts, and Berserking speeds up your casts |
 
 None of these is strong enough to skip a race you like more.

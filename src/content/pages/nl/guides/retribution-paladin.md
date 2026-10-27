@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Retribution Paladin: build, rotatie en seals"
 description: "De Retribution Paladin in WoW Forever: de build voor level 30 en de Talented-versie, de rotatie met Seal of Command en Twist of Light, Judgements, blessings, stats en races."
 short: "Retribution Paladin"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -138,7 +138,7 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan tellen deze stats:
 | Factie | Ras | Waarom |
 |---|---|---|
 | Alliance | Human | Extra critical strike chance, de beste keuze |
-| Alliance | Dwarf | Meer critical strike-schade, en Stoneform als sterke defensieve cooldown |
+| Alliance | Dwarf | 1% hit uit Artisan's Precision, en Stoneform als sterke defensieve cooldown |
 | Horde | Undead | Een proc die schade doet en je een beetje heelt; de enige Paladin van de Horde |
 
 **Blacksmithing** maakt een deel van de beste plate en mail, veel ervan alleen voor blacksmiths. **Engineering** geeft elke spec handige gadgets. Meer over de races in [Races en classes](/nl/guides/races-and-classes/).

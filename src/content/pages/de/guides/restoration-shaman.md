@@ -3,7 +3,7 @@ title: "Restoration Shaman in WoW Forever: der Guide"
 metaTitle: "WoW Forever Restoration Shaman: Heilbuild, Totems, Mana"
 description: "Der Restoration Shaman in WoW Forever: der Heilbuild für Level 30 und die Talented-Version, Water Shield, Riptide und Chain Heal, Totems, Mana, Werte und Völker."
 short: "Restoration Shaman"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -141,10 +141,10 @@ Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
 
 | Fraktion | Volk | Warum |
 |---|---|---|
-| Alliance | Dwarf | Der einzige Shaman der Alliance, mit einem Bonus auf kritische Treffer |
-| Horde | Orc | Mehr kritische Trefferchance und Blood Fury, die stärkste Wahl |
+| Alliance | Dwarf | Der einzige Shaman der Alliance, mit 1 % Hit durch Artisan's Precision |
+| Horde | Orc | Blood Fury, die stärkste Wahl |
 | Horde | Troll | Überlebensfähigkeiten und Berserking |
-| Horde | Tauren | Ein Bonus auf kritische Treffer |
-| Horde | Windshaper Skyborne | 3 % mehr Haste für Zauber und Nahkampf |
+| Horde | Tauren | War Stomp und 5 % mehr Gesundheit |
+| Horde | Windshaper Skyborne | 2 % mehr Haste für Zauber und Nahkampf |
 
 **Leatherworking** stellt beim Leveln gute Ausrüstung her, mit Zaubermacht, die früh selten ist. **Engineering** stellt starke Schmuckstücke und Gadgets her. **Enchanting** stellt früh ein starkes Totem her, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=249398"><img class="wf-wh__icon" src="/wh/spell_shaman_totemrecall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polished Driftwood Icon</a>. Mehr über Heilen in Gruppen in unseren [Dungeon-Guides](/de/guides/dungeons/).

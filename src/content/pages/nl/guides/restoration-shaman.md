@@ -3,7 +3,7 @@ title: "Restoration Shaman in WoW Forever: de gids"
 metaTitle: "WoW Forever Restoration Shaman: healbuild, totems, mana"
 description: "De Restoration Shaman in WoW Forever: de healbuild voor level 30 en de Talented-versie, Water Shield, Riptide en Chain Heal, totems, mana, stats en races."
 short: "Restoration Shaman"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -141,10 +141,10 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 | Factie | Ras | Waarom |
 |---|---|---|
-| Alliance | Dwarf | De enige Shaman van de Alliance, met een bonus op critical strikes |
-| Horde | Orc | Meer critical strike chance en Blood Fury, de sterkste keuze |
+| Alliance | Dwarf | De enige Shaman van de Alliance, met 1% hit uit Artisan's Precision |
+| Horde | Orc | Blood Fury, de sterkste keuze |
 | Horde | Troll | Overlevingsabilities en Berserking |
-| Horde | Tauren | Een bonus op critical strikes |
-| Horde | Windshaper Skyborne | 3% meer Haste voor spells en melee |
+| Horde | Tauren | War Stomp en 5% meer Health |
+| Horde | Windshaper Skyborne | 2% meer Haste voor spells en melee |
 
 **Leatherworking** maakt goede gear terwijl je levelt, met spell power, die vroeg zeldzaam is. **Engineering** maakt sterke trinkets en gadgets. **Enchanting** maakt vroeg een sterke totem, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=249398"><img class="wf-wh__icon" src="/wh/spell_shaman_totemrecall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polished Driftwood Icon</a>. Meer over helen in groepen in onze [dungeongidsen](/nl/guides/dungeons/).

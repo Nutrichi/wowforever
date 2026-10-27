@@ -3,7 +3,7 @@ title: "Holy Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Holy Paladin: healing build, spells and mana"
 description: "The Holy Paladin in WoW Forever: the level 30 healing build and its Talented version, Holy Shock and Light's Vigil, the healing priority, mana, seals, stats and races."
 short: "Holy Paladin"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Holy Paladin a good healer in WoW Forever?"
@@ -132,7 +132,7 @@ Stat priorities for level 60 follow after the launch. Until then:
 | Faction | Race | Why |
 |---|---|---|
 | Alliance | Human | Extra critical strike chance, the best choice |
-| Alliance | Dwarf | More critical strike damage and healing, and Stoneform as a defensive cooldown |
+| Alliance | Dwarf | 1% hit from Artisan's Precision, and Stoneform as a defensive cooldown |
 | Horde | Undead | A proc that deals damage and heals you a little; the only Horde Paladin |
 
 **Blacksmithing** makes some of the best plate and mail, much of it only available to blacksmiths. **Engineering** gives useful gadgets to every spec. More about healing in groups in our [dungeon guides](/guides/dungeons/).

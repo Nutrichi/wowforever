@@ -3,7 +3,7 @@ title: "Feral Druid guide for WoW Forever"
 metaTitle: "WoW Forever Feral Druid: cat and bear builds, rotation, stats"
 description: "The Feral Druid in WoW Forever: four builds for level 60 (hybrid, cat, bear and solo), Shifting Power and Primal Bite, the cat and bear rotations, stats and races."
 short: "Feral Druid"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Can a Feral Druid tank and deal damage with one build?"
@@ -17,7 +17,7 @@ faq:
   - q: "Which stats does a Feral Druid need?"
     a: "As a cat: hit, then expertise, then critical strike chance, Agility, Strength and attack power. As a bear: also defense, dodge, armor and Stamina, because a Druid has no block or parry."
   - q: "Which race is best for a Feral Druid?"
-    a: "The differences are small. Night Elf and Tauren both get a critical strike bonus that suits Feral. Skyborne get haste, and Alliance Skyborne also a mana cooldown."
+    a: "The differences are small. Night Elf gets a critical strike bonus that suits Feral, Tauren War Stomp and 5% more Health. Skyborne get haste, and Alliance Skyborne also a mana cooldown."
   - q: "Is there a level 60 build already?"
     a: "Yes. The four builds in this guide use all 51 points of level 60, without the extra points of Talented."
 sources:
@@ -170,7 +170,7 @@ As a cat, stay behind the target: Shred needs it, the enemy cannot parry you and
 |---|---|---|
 | Alliance | Night Elf | Critical strike bonus, good with a build full of critical strikes |
 | Alliance | Skyborne | Haste and a mana regeneration cooldown |
-| Horde | Tauren | Area stun and a critical strike damage bonus |
+| Horde | Tauren | Area stun and 5% more Health |
 | Horde | Skyborne | Haste and a speed cooldown, less useful than the Alliance mana cooldown |
 
 The differences are small, so pick the race you like. **Leatherworking** makes some of the best leather gear, part of it only for leatherworkers. **Engineering** gives useful gadgets. **Herbalism** suits a Druid, because you gather in Travel Form, and **Alchemy** turns those herbs into your own consumables. More about groups in our [dungeon guides](/guides/dungeons/).

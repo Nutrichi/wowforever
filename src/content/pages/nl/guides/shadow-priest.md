@@ -3,7 +3,7 @@ title: "Shadow Priest in WoW Forever: de gids"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34-build, rotatie en stats"
 description: "De Shadow Priest in WoW Forever: de build 14/3/34 voor level 60, Improved Mind Flay en Vampiric Embrace, de DoT-rotatie, Shadowform, mana, stats en races."
 short: "Shadow Priest"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -165,7 +165,7 @@ De volgorde voor een Shadow Priest:
 | Factie | Ras | Waarom |
 |---|---|---|
 | Alliance | Dwarf | Big Game Hunter: 5% meer schade tegen Beasts. De beste keuze tegen Beast-bosses, nipt achter Human tegen de rest |
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2% meer critical strike chance. Een echte optie in Forever |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1% meer critical strike chance. Een echte optie in Forever |
 | Horde | Troll | Beast Slaying: 5% meer schade tegen Beasts. De beste keuze tegen Beast-bosses |
 | Horde | Undead | Touch of the Grave werd sterker. Tegen andere bosses even goed als Troll, of beter tenzij Shadowguard vaak procct |
 

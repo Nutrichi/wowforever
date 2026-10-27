@@ -3,7 +3,7 @@ title: "Restoration Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Restoration Shaman: healing build, totems, mana"
 description: "The Restoration Shaman in WoW Forever: the level 30 healing build and its Talented version, Water Shield, Riptide and Chain Heal, totems, mana, stats and races."
 short: "Restoration Shaman"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Is Restoration Shaman a good healer in WoW Forever?"
@@ -140,10 +140,10 @@ Stat priorities for level 60 follow after the launch. Until then:
 
 | Faction | Race | Why |
 |---|---|---|
-| Alliance | Dwarf | The only Alliance Shaman, with a critical strike bonus |
-| Horde | Orc | More critical strike chance and Blood Fury, the strongest choice |
+| Alliance | Dwarf | The only Alliance Shaman, with 1% hit from Artisan's Precision |
+| Horde | Orc | Blood Fury, the strongest choice |
 | Horde | Troll | Survival abilities and Berserking |
-| Horde | Tauren | A critical strike bonus |
-| Horde | Windshaper Skyborne | 3% more spell and melee haste |
+| Horde | Tauren | War Stomp and 5% more Health |
+| Horde | Windshaper Skyborne | 2% more spell and melee haste |
 
 **Leatherworking** makes well-statted gear while you level, with spell power, which is rare early on. **Engineering** makes strong trinkets and gadgets. **Enchanting** makes a strong totem early, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=249398"><img class="wf-wh__icon" src="/wh/spell_shaman_totemrecall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polished Driftwood Icon</a>. More about healing in groups in our [dungeon guides](/guides/dungeons/).

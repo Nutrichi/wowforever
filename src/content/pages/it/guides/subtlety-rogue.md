@@ -3,7 +3,7 @@ title: "Subtlety Rogue in WoW Forever: la guida"
 metaTitle: "WoW Forever Subtlety Rogue: build Ambush e sanguinamento"
 description: "Il Subtlety Rogue in WoW Forever: una build Ambush con Cutthroat e una a sanguinamento con Hemorrhage e Thousand Cuts, per il livello 30 e il 60, con rotazioni, energia, veleni e razze."
 short: "Subtlety Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Ambush o sanguinamento: quale build Subtlety scegliere?"
     a: "La build Ambush richiede pugnali e di stare dietro al bersaglio, quindi rende di più nei dungeon e nelle incursioni. Quella a sanguinamento ignora l'armatura e funziona ovunque, anche da solo contro un mostro, ma alcuni mostri sono immuni ai sanguinamenti."
   - q: "Quale razza scegliere per un Subtlety Rogue?"
-    a: "Human per l'Alliance, per il 2% di critico, e Orc per l'Horde, per il 10% di potere d'attacco con Blood Fury. Night Elf e Troll sono la seconda scelta."
+    a: "Human per l'Alliance, per l'1% di critico, e Orc per l'Horde, per il 10% di potere d'attacco con Blood Fury. Night Elf e Troll sono la seconda scelta."
   - q: "Perché Subtlety sembra debole ai livelli bassi?"
     a: "I suoi talenti migliori sono in fondo all'albero. Molti giocatori livellano con un'altra specializzazione e passano a Subtlety più avanti."
 sources:
@@ -204,14 +204,14 @@ Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad a
 
 | Fazione | Razza | Perché |
 |---|---|---|
-| Alliance | Human | Il 2% di critico con Ruthless, la scelta migliore |
+| Alliance | Human | L’1% di critico con Ruthless |
 | Alliance | Night Elf | Elune's Light, il 10% di critico per 15 secondi; Shadowmeld e uno Stealth migliore |
 | Alliance | Gnome | Eureka! per un picco di danni, Engineering Specialization con Engineering |
-| Alliance | Dwarf | Stoneform rimuove sanguinamenti, veleni e malattie; debole per i danni |
-| Alliance | Skyborne | Il 3% di celerità con Wind Blessed |
+| Alliance | Dwarf | Stoneform rimuove sanguinamenti, veleni e malattie; Artisan's Precision dà l'1% di hit |
+| Alliance | Skyborne | Il 2% di celerità con Wind Blessed |
 | Horde | Orc | Il 10% di potere d'attacco con Blood Fury, la scelta migliore |
 | Horde | Troll | Il 10% di celerità con Berserking e uno strumento di sopravvivenza |
 | Horde | Undead | Meglio in PvP; Cannibalize fa risparmiare tempo nel mondo aperto |
-| Horde | Skyborne | Il 3% di celerità con Wind Blessed |
+| Horde | Skyborne | Il 2% di celerità con Wind Blessed |
 
 **Leatherworking** con Skinning è la coppia migliore: un buon equipaggiamento in cuoio a ogni livello, kit d'armatura e la Camp Tent del campeggio, che velocizza il leveling. **Engineering** porta aggeggi ed esplosivi per più danni, ed è il miglior partner di Leatherworking se salti Skinning. **Herbalism** con **Alchemy** ti dà elisir, pozioni e fiale.

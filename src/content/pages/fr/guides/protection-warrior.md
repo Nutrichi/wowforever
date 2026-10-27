@@ -3,7 +3,7 @@ title: "Guide du Protection Warrior dans WoW Forever"
 metaTitle: "WoW Forever Protection Warrior : build tank niveau 30, menace et Rage"
 description: "Le Protection Warrior dans WoW Forever : le build tank niveau 30 avec Master of Defense, Defiance et Vanguard, la rotation de menace, les affaiblissements, la Rage, les stats et les races."
 short: "Protection Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: fr
 manual: true
 faq:
@@ -140,12 +140,12 @@ Toutes les races peuvent jouer Warrior. Chaque choix fonctionne, mais certains s
 
 | Faction | Race | Pourquoi |
 |---|---|---|
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a> : 2 % de chances de critique en plus |
-| Alliance | Dwarf | Plus de dégâts critiques, et Stoneform est un excellent temps de recharge défensif |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a> : 1 % de chances de critique en plus |
+| Alliance | Dwarf | 1 % de hit avec Artisan's Precision, et Stoneform est un excellent temps de recharge défensif |
 | Alliance | Gnome | Un temps de recharge de burst qui peut être très fort |
 | Alliance | Night Elf | Elune's Light pour de la Rage et des dégâts à la demande, plus de l’esquive et de la vitesse en plus |
 | Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a> : de la hâte, rare et forte pour vous |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>, des critiques en plus et un fort temps de recharge contre les dégâts magiques |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> et un fort temps de recharge contre les dégâts magiques |
 | Horde | Troll | Plus de dégâts contre les Bêtes, Berserking pour la vitesse d’attaque et une régénération de vie plus rapide |
 | Horde | Undead | Touch of the Grave inflige des dégâts et vous soigne un peu |
 | Horde | Tauren | Le plus de vie de toutes les races, War Stomp et Plainsrunning pour la vitesse tant que vous bougez |

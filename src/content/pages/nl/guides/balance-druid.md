@@ -3,7 +3,7 @@ title: "Balance Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Balance Druid: DoT- en Eclipse-build, rotatie, stats en races"
 description: "De Balance Druid in WoW Forever: wat er verandert, twee builds voor level 30 met Overgrowth of Eclipse, de rotatie, cooldowns, mana en DoTs, stats, gear, races en tradeskills."
 short: "Balance Druid"
-updated: 2026-10-17
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Wanneer krijg ik Moonkin Form?"
     a: "Moonkin Form is het laatste talent van de Balance-boom en vraagt level 40, dus het zit niet in de beta. Het verhoogt de kans op een critical strike met spells van je hele groep met 3% en verdubbelt de kans op Omen of Clarity."
   - q: "Welk ras is het beste voor een Balance Druid?"
-    a: "Night Elf voor Elune's Light, een uitbarsting van critical strike-kans, of Tauren voor meer kritieke schade. De Skyborne krijgen aan beide kanten 3% Haste. De verschillen zijn klein, dus kies het ras dat je mooi vindt."
+    a: "Night Elf voor Elune's Light, een uitbarsting van critical strike-kans, of Tauren voor War Stomp en 5% meer Health. De Skyborne krijgen aan beide kanten 2% Haste. De verschillen zijn klein, dus kies het ras dat je mooi vindt."
   - q: "Is er al een build voor level 60?"
     a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de launch op 4 november."
 sources:
@@ -174,9 +174,9 @@ De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Balan
 | Factie | Ras | Waarom |
 |---|---|---|
 | Alliance | Night Elf | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259799"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elune's Light</a>: 10% meer critical strike-kans, 15 seconden lang |
-| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 3% Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>: 100% meer regeneratie van Health en Mana |
-| Horde | Tauren | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20550"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Endurance</a>: 2% meer kritieke schade en 5% meer Health. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20549"><img class="wf-wh__icon" src="/wh/ability_warstomp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">War Stomp</a> stunt tot 5 vijanden |
-| Horde | Windshaper Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 3% Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259686"><img class="wf-wh__icon" src="/wh/ability_skyreach_lens_flare.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skysight</a> geeft alleen loopsnelheid |
+| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2% Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>: 50% meer regeneratie van Health en Mana, 100% met Attuned |
+| Horde | Tauren | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20550"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Endurance</a>: 5% meer Health. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20549"><img class="wf-wh__icon" src="/wh/ability_warstomp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">War Stomp</a> stunt tot 5 vijanden |
+| Horde | Windshaper Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2% Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259686"><img class="wf-wh__icon" src="/wh/ability_skyreach_lens_flare.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skysight</a> geeft alleen loopsnelheid |
 
 De verschillen zijn klein genoeg om het ras te kiezen dat je mooi vindt.
 

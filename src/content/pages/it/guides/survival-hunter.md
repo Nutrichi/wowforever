@@ -3,7 +3,7 @@ title: "Survival Hunter in WoW Forever: la guida"
 metaTitle: "WoW Forever Survival Hunter: build di livello 60 e melee weaving"
 description: "Il Survival Hunter in WoW Forever: la build 5/13/33 di livello 60 con Lone Wolf e Strider Kick, il melee weaving, la rotazione, il mana con Resourcefulness e le razze."
 short: "Survival Hunter"
-updated: 2026-10-25
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -180,12 +180,12 @@ Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad a
 |---|---|---|
 | Alliance | Skyborne | Un bonus di celerità, raro sull'equipaggiamento, la scelta migliore |
 | Alliance | Human | Il 2% di probabilità di critico in più, utile per Resourcefulness |
-| Alliance | Dwarf | Il 2% di danni critici in più |
+| Alliance | Dwarf | L'1% di hit con Artisan's Precision |
 | Alliance | Night Elf | Un tempo di recupero per il critico |
 | Horde | Skyborne | Un bonus di celerità e un tempo di recupero per la velocità nel weaving |
-| Horde | Orc | Un tempo di recupero per il potere d'attacco e l'1% di critico in più |
+| Horde | Orc | Un tempo di recupero per il potere d'attacco e il 5% di danni in più del famiglio con Command |
 | Horde | Troll | Più danni contro le Beasts e un tempo di recupero per la velocità d'attacco |
-| Horde | Tauren | Uno stordimento ad area, più danni critici, e Plainsrunning |
+| Horde | Tauren | Uno stordimento ad area, il 5% di salute in più, e Plainsrunning |
 
 Le differenze sono piccole, quindi gioca la razza che ti piace. Per una build che spara soltanto, vedi la [guida al Marksmanship Hunter](/it/guides/marksmanship-hunter/).
 

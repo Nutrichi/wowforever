@@ -3,7 +3,7 @@ title: "Assassination Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Assassination Rogue: Mutilate-builds, poisons en rotatie"
 description: "De Assassination Rogue in WoW Forever: Mutilate en Venom, twee builds voor level 30 voor solo en Improved Expose Armor, de rotatie, Energy, poisons, stats en races."
 short: "Assassination Rogue"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Heb ik Improved Expose Armor nodig?"
     a: "Het is optioneel maar heel sterk in groepen: Expose Armor kost minder Energy en geeft 2 Combo Points terug als je het met 5 gebruikt. Groepen met veel melee-schade zullen het willen."
   - q: "Welk ras is het beste voor een Assassination Rogue?"
-    a: "Human voor de Alliance, voor 2% meer critical strike chance, wat nu ook telt voor poisons. Orc voor de Horde, voor 10% meer attack power van Blood Fury."
+    a: "Human voor de Alliance, voor 1% meer critical strike chance, wat nu ook telt voor poisons. Orc voor de Horde, voor 10% meer attack power van Blood Fury."
   - q: "Is er al een build voor level 60?"
     a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de lancering op 4 november."
 sources:
@@ -185,14 +185,14 @@ De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Assa
 
 | Factie | Ras | Waarom |
 |---|---|---|
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2% meer critical strike chance, wat nu ook telt voor poisons. De beste keuze |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1% meer critical strike chance, wat nu ook telt voor poisons |
 | Alliance | Night Elf | Elune's Light: 10% meer critical strike chance voor 15 seconden, plus Quickness, Shadowmeld en betere Stealth. De tweede beste |
 | Alliance | Gnome | Eureka voor burst, Expansive Mind met Vigor en Engineering Specialization voor Engineers |
-| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 3% Haste, dat overlapt met Slice and Dice. Degelijk, niet de beste |
+| Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2% Haste, dat overlapt met Slice and Dice. Degelijk, niet de beste |
 | Alliance | Dwarf | Stoneform is een goede defensieve cooldown, maar de rest is zwak voor PvE |
 | Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10% meer attack power, plus 5% minder magische schade. De beste keuze |
 | Horde | Troll | Berserking voor 10% Haste en Rapid Regeneration als heal die je anders mist. De tweede beste |
-| Horde | Windshaper Skyborne | 3% Haste, en Skysight om mechanieken zoals vuur op de grond te zien |
+| Horde | Windshaper Skyborne | 2% Haste, en Skysight om mechanieken zoals vuur op de grond te zien |
 | Horde | Undead | Touch of the Grave is de enige schade-racial, en Cannibalize verkort je rusttijd. Beter in PvP |
 
 **Tradeskills.** Leatherworking maakt waardevolle leather-gear op elk level, de nieuwe kamptent en armor kits. Skinning past erbij en levert goud op hoge levels. Engineering voegt gadgets en explosieven toe voor meer schade. Herbalism en Alchemy geven elixirs, potions en flasks, en kunnen goed geld opbrengen.

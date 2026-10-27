@@ -3,7 +3,7 @@ title: "Fury Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Fury Warrior: build voor level 30, rotatie en Rage"
 description: "De Fury Warrior in WoW Forever: de build voor level 30 met Cruelty, Unbridled Wrath en Death Wish, de rotatie, Rage, stance dancing, stats, wapens en races."
 short: "Fury Warrior"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Wanneer krijgt een Fury Warrior Bloodthirst?"
     a: "Bloodthirst is het laatste talent van de Fury-boom en vraagt 30 punten daarin, dus op zijn vroegst level 39, of een paar levels eerder met Talented uit het Legacy-systeem. De build voor level 30 stopt bij Death Wish."
   - q: "Welk ras is het beste voor een Fury Warrior?"
-    a: "Human voor de Alliance, voor 2% meer critical strike chance. Orc voor de Horde, voor Blood Fury en extra critical strike chance. Elk ras kan Warrior spelen, en elke keuze werkt."
+    a: "Human voor de Alliance, voor 1% meer critical strike chance, of Dwarf voor 1% hit. Orc voor de Horde, voor Blood Fury. Elk ras kan Warrior spelen, en elke keuze werkt."
   - q: "Is er al een build voor level 60?"
     a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de lancering op 4 november."
 sources:
@@ -130,15 +130,15 @@ Elk ras kan Warrior spelen. Elke keuze werkt, maar sommige zijn sterker.
 
 | Factie | Ras | Waarom |
 |---|---|---|
-| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 2% meer critical strike chance. De sterkste keuze |
-| Alliance | Dwarf | Meer critical strike-schade, maar veel zwakker dan Human |
+| Alliance | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: 1% meer critical strike chance |
+| Alliance | Dwarf | Artisan's Precision: 1% hit met spells en aanvallen |
 | Alliance | Gnome | Een burst-cooldown die heel sterk kan zijn |
 | Alliance | Night Elf | Elune's Light, een critical strike-cooldown voor Rage en schade op afroep |
 | Alliance | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: Haste, zeldzaam en sterk voor jou |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> voor attack power en extra critical strike chance |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a> voor attack power |
 | Horde | Troll | Meer schade tegen Beasts en Berserking voor aanvalssnelheid op afroep |
 | Horde | Undead | Touch of the Grave doet schade en heelt je een beetje |
-| Horde | Tauren | War Stomp, meer critical strike-schade en Plainsrunning voor snelheid zolang je blijft bewegen |
+| Horde | Tauren | War Stomp, 5% meer health en Plainsrunning voor snelheid zolang je blijft bewegen |
 | Horde | Windshaper Skyborne | Haste en een snelheids-cooldown die van pas komt |
 
 **Tradeskills.** Blacksmithing maakt een deel van de beste Mail- en Plate-gear, veel ervan alleen voor Blacksmiths. Engineering heeft handige gadgets voor elke spec.

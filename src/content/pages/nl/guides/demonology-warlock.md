@@ -3,7 +3,7 @@ title: "Demonology Warlock in WoW Forever: de gids"
 metaTitle: "WoW Forever Demonology Warlock: build voor level 30, Demonic Brand en demons"
 description: "De Demonology Warlock in WoW Forever: de build voor level 30 met Demonic Brand, Demonic Knowledge en Soul Link, de rotatie, threat, demons, Life Tap, stats en races."
 short: "Demonology Warlock"
-updated: 2026-10-21
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Wanneer begin ik met Searing Pain?"
     a: "Pas als je Demonic Brand hebt, op level 25. Zonder dat maakt Searing Pain veel threat en trekt het de vijand weg van je demon."
   - q: "Welk ras is het beste voor een Demonology Warlock?"
-    a: "Human voor de Alliance, voor 2% meer critical strike-kans van Ruthless. Undead voor de Horde, voor Touch of the Grave, Cannibalize en Will of the Forsaken. De verschillen zijn klein, dus kies het ras dat je leuk vindt."
+    a: "Human voor de Alliance, voor 1% meer critical strike-kans van Ruthless. Undead voor de Horde, voor Touch of the Grave, Cannibalize en Will of the Forsaken. De verschillen zijn klein, dus kies het ras dat je leuk vindt."
   - q: "Is er al een build voor level 60?"
     a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de launch op 4 november."
 sources:
@@ -135,10 +135,10 @@ Leg Attack en Follow op toetsen die je zonder nadenken indrukt, zodat je je demo
 
 | Factie | Ras | Waarom |
 |---|---|---|
-| Alliance | Human | Ruthless voor 2% meer critical strike-kans, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> voor meer Spirit. De beste keuze |
+| Alliance | Human | Ruthless voor 1% meer critical strike-kans, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20598"><img class="wf-wh__icon" src="/wh/inv_enchant_shardbrilliantsmall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">The Human Spirit</a> voor 10% meer Spirit. De beste keuze |
 | Alliance | Gnome | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20591"><img class="wf-wh__icon" src="/wh/inv_enchant_essenceeternallarge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expansive Mind</a> voor meer mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259817"><img class="wf-wh__icon" src="/wh/inv_gnometoy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eureka!</a> voor sterkere, goedkopere spells |
 | Horde | Undead | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260201"><img class="wf-wh__icon" src="/wh/spell_shadow_fingerofdeath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Touch of the Grave</a> schaalt met Stamina, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20577"><img class="wf-wh__icon" src="/wh/ability_racial_cannibalize.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cannibalize</a> geeft ook mana, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7744"><img class="wf-wh__icon" src="/wh/spell_shadow_raisedead.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Will of the Forsaken</a> breekt Fear. De beste keuze in de meeste situaties |
-| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10% meer spell power gedurende 15 seconden, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> tegen curses |
+| Horde | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: 10% meer spell power gedurende 15 seconden, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1299026"><img class="wf-wh__icon" src="/wh/spell_nature_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter Curse</a> tegen curses, Command: 5% meer schade van je pet |
 | Horde | Troll | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1260270"><img class="wf-wh__icon" src="/wh/ability_racial_regeneratin.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Regeneration</a> healt 50% van je health over 6 seconden, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20557"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_bear_ruin_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Beast Slaying</a> tegen beasts |
 
 Geen van deze is sterk genoeg om een ras dat je leuker vindt over te slaan.
