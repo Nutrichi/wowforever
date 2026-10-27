@@ -3,7 +3,7 @@ title: "Rogue leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Rogue-Levelguide: Builds für Assassination, Combat und Subtlety bis 30"
 description: "So levelst du einen Rogue in WoW Forever: vier Builds für Level 30 für Assassination, Combat und zwei Arten von Subtlety, die Rotation, wichtige Level, die Giftquests, Waffen, Berufe und Verbrauchsgüter."
 short: "Rogue leveln"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -211,6 +211,8 @@ Auf Level 20 lehrt dich eine Reihe von Klassenquests die Poisons.
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
 Weitere Klassenquests mit Gegenständen als Belohnung folgen zum Launch.
+
+Jeden Schritt beider Reihen, mit der Schwäche jedes harten Gegners, zeigt der [Guide zu den Poisons](/de/guides/poisons/).
 
 ## Waffen
 

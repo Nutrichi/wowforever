@@ -3,7 +3,7 @@ title: "Livellare un Rogue in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Rogue in WoW Forever: build Assassination, Combat e Subtlety fino al 30"
 description: "Come livellare un Rogue in WoW Forever: quattro build di livello 30 per Assassination, Combat e due stili di Subtlety, la rotazione, i livelli chiave, le missioni dei veleni, le armi, le professioni e i consumabili."
 short: "Leveling Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: it
 manual: true
 faq:
@@ -211,6 +211,8 @@ Al livello 20 una catena di missioni di classe ti insegna i Poisons.
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
 Altre missioni di classe con oggetti in ricompensa arriveranno al lancio.
+
+Ogni passo delle due catene, con il punto debole di ogni nemico tosto, è nella [guida ai Poisons](/it/guides/poisons/).
 
 ## Armi
 

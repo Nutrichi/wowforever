@@ -3,7 +3,7 @@ title: "Monter un Rogue dans WoW Forever : le guide"
 metaTitle: "Guide de leveling Rogue WoW Forever : builds Assassination, Combat et Subtlety jusqu'au 30"
 description: "Comment monter un Rogue dans WoW Forever : quatre builds niveau 30 pour Assassination, Combat et deux styles de Subtlety, la rotation, les niveaux clés, les quêtes de poisons, les armes, les métiers et les consommables."
 short: "Leveling Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: fr
 manual: true
 faq:
@@ -211,6 +211,8 @@ Au niveau 20, une suite de quêtes de classe vous apprend les Poisons.
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
 D'autres quêtes de classe avec des objets en récompense arriveront à la sortie.
+
+Chaque étape des deux suites, avec le point faible de chaque monstre coriace, se trouve dans le [guide des Poisons](/fr/guides/poisons/).
 
 ## Armes
 

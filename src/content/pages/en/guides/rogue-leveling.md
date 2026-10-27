@@ -3,7 +3,7 @@ title: "Rogue leveling guide for WoW Forever"
 metaTitle: "WoW Forever Rogue leveling guide: Assassination, Combat and Subtlety builds to 30"
 description: "How to level a Rogue in WoW Forever: four level 30 builds for Assassination, Combat and two kinds of Subtlety, the rotation, key levels, the poison quests, weapons, professions and consumables."
 short: "Rogue leveling"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: en
 faq:
   - q: "What is the best spec to level a Rogue in WoW Forever?"
@@ -210,6 +210,8 @@ At level 20 a chain of class quests teaches you Poisons.
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
 More class quests with item rewards follow at launch.
+
+Every step of both chains, with the weak spot of each tough mob, is in the [Rogue Poisons guide](/guides/poisons/).
 
 ## Weapons
 

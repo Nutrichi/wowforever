@@ -3,7 +3,7 @@ title: "Subir un Rogue en WoW Forever: la guía"
 metaTitle: "Guía de subida de Rogue en WoW Forever: builds de Assassination, Combat y Subtlety hasta el 30"
 description: "Cómo subir un Rogue en WoW Forever: cuatro builds de nivel 30 para Assassination, Combat y dos estilos de Subtlety, la rotación, los niveles clave, las misiones de venenos, las armas, las profesiones y los consumibles."
 short: "Subir un Rogue"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -211,6 +211,8 @@ En el nivel 20, una cadena de misiones de clase te enseña los Poisons.
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
 Más misiones de clase con objetos de recompensa llegarán con el lanzamiento.
+
+Cada paso de las dos cadenas, con el punto débil de cada enemigo duro, está en la [guía de los Poisons](/es/guides/poisons/).
 
 ## Armas
 

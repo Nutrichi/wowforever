@@ -3,7 +3,7 @@ title: "Rogue levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Rogue levelgids: builds voor Assassination, Combat en Subtlety tot 30"
 description: "Zo level je een Rogue in WoW Forever: vier builds voor level 30 voor Assassination, Combat en twee soorten Subtlety, de rotatie, de belangrijke levels, de gifquests, wapens, tradeskills en consumables."
 short: "Rogue levelen"
-updated: 2026-10-24
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -211,6 +211,8 @@ Op level 20 leert een reeks classquests je Poisons.
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
 Meer classquests met items als beloning volgen bij de launch.
+
+Elke stap van beide reeksen, met de zwakte van elke lastige mob, staat in de [gids voor de Poisons](/nl/guides/poisons/).
 
 ## Wapens
 
