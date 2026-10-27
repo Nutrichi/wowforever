@@ -1,0 +1,46 @@
+{
+ "location": "Desolace, in the Valley of Spears",
+ "entrance": "In the Valley of Spears in western Desolace. A stone door on the west side of the valley leads into caves full of elites; the path splits there to the orange and the purple portal.",
+ "quests": {
+  "7068": {
+   "objective": "Collect 10 Shadowshard Fragments from the Shadowshard Rumblers and Smashers, elite elementals in the caves outside the portals."
+  },
+  "7070": {
+   "objective": "Collect 10 Shadowshard Fragments from the Shadowshard Rumblers and Smashers, elite elementals in the caves outside the portals."
+  },
+  "7029": {
+   "objective": "Fill the Coated Cerulean Vial at a pool with orange crystals outside the orange portal. Inside, use the filled vial at 8 Vylestem Vines and kill the Noxxious Scion that comes out of each.",
+   "note": "The scions are immune to Nature damage. The blue water around Cavindra does not count."
+  },
+  "7041": {
+   "objective": "Fill the Coated Cerulean Vial at a pool with orange crystals outside the orange portal. Inside, use the filled vial at 8 Vylestem Vines and kill the Noxxious Scion that comes out of each.",
+   "note": "The scions are immune to Nature damage. The blue water around Cavindra does not count."
+  },
+  "7064": {
+   "objective": "Kill Princess Theradras, the last boss of Maraudon."
+  },
+  "7065": {
+   "objective": "Kill Princess Theradras, the last boss of Maraudon."
+  },
+  "7028": {
+   "objective": "Collect 25 Theradric Crystal Carvings. Many monsters inside drop them.",
+   "note": "The Forever data asks for 25; in Classic it was 15. The Nameless Prophet in the caves outside always drops one."
+  },
+  "7067": {
+   "objective": "Kill The Nameless Prophet in the caves outside for the Amulet of Spirits. Use it on the spirits of the five Khans, Kolk, Gelk, Magra, Maraudos and Veng, and combine their gems into the Amulet of Union.",
+   "note": "The Centaur Pariah walks along the road south of Mannoroc Coven."
+  },
+  "7044": {
+   "objective": "Take the Celebrian Rod from Noxxion and the Celebrian Diamond from Lord Vyletongue, then kill Celebras the Cursed and talk to Celebras the Redeemed.",
+   "note": "Cavindra stands in the blue water in the caves outside the orange portal."
+  },
+  "7046": {
+   "objective": "Follow Celebras the Redeemed while he makes the Scepter of Celebras, and talk to him when the ritual is done.",
+   "note": "The scepter takes you straight to Earth Song Falls from a room with four braziers outside the dungeon."
+  },
+  "7066": {
+   "objective": "Take the Seed of Life to Keeper Remulos in Moonglade.",
+   "note": "Zaetar's Spirit appears in the middle of the ring after Princess Theradras dies."
+  }
+ }
+}

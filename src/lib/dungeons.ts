@@ -39,6 +39,8 @@ export type DungeonQuest = {
   next: DungeonQuestLink[];
   rewards: number[];
   choice: boolean;
+  /** De beloningen staan nog niet in de data van Forever (Zul'Farrak, Maraudon: 27 oktober 2026). */
+  rewardsUnknown?: boolean;
 };
 
 export type DungeonData = {

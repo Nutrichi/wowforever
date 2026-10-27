@@ -1,0 +1,495 @@
+{
+ "slug": "zul-farrak",
+ "levels": "40–50",
+ "bosses": [
+  {
+   "name": "Antu'sul",
+   "slug": "antu-sul",
+   "level": "48",
+   "npc": 8127,
+   "items": [
+    9640,
+    9379,
+    9639
+   ]
+  },
+  {
+   "name": "Theka the Martyr",
+   "slug": "theka-the-martyr",
+   "level": "45",
+   "npc": 7272,
+   "items": []
+  },
+  {
+   "name": "Witch Doctor Zum'rah",
+   "slug": "witch-doctor-zum-rah",
+   "level": "46",
+   "npc": 7271,
+   "items": [
+    18082
+   ]
+  },
+  {
+   "name": "Hydromancer Velratha",
+   "slug": "hydromancer-velratha",
+   "level": "46",
+   "npc": 7795,
+   "items": []
+  },
+  {
+   "name": "Gahz'rilla",
+   "slug": "gahz-rilla",
+   "level": "46",
+   "npc": 7273,
+   "items": [
+    9467,
+    9469
+   ]
+  },
+  {
+   "name": "Nekrum & Sezz'ziz",
+   "slug": "nekrum-and-sezz-ziz",
+   "level": "47",
+   "npc": 7275,
+   "items": [
+    9473,
+    9474,
+    9475,
+    9470
+   ]
+  },
+  {
+   "name": "Chief Ukorz Sandscalp",
+   "slug": "chief-ukorz-sandscalp",
+   "level": "48",
+   "npc": 7267,
+   "items": [
+    9476,
+    9477,
+    11086
+   ]
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 2936,
+   "name": "The Spider God",
+   "level": 45,
+   "minLevel": 40,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Master Gadrin",
+     "kind": "npc",
+     "npc": 3188,
+     "zone": "Durotar",
+     "place": "Sen'jin Village",
+     "at": {
+      "x": 56,
+      "y": 74
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Master Gadrin",
+     "kind": "npc",
+     "npc": 3188,
+     "zone": "Durotar",
+     "place": "Sen'jin Village",
+     "at": {
+      "x": 56,
+      "y": 74
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Venom Bottles",
+     "id": 2933,
+     "optional": false
+    },
+    {
+     "name": "Undamaged Venom Sac",
+     "id": 2934,
+     "optional": false
+    },
+    {
+     "name": "Consult Master Gadrin",
+     "id": 2935,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 2991,
+   "name": "Nekrum's Medallion",
+   "level": 47,
+   "minLevel": 40,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Thadius Grimshade",
+     "kind": "npc",
+     "npc": 8022,
+     "zone": "Blasted Lands",
+     "place": "Nethergarde Keep",
+     "at": {
+      "x": 66,
+      "y": 19
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Thadius Grimshade",
+     "kind": "npc",
+     "npc": 8022,
+     "zone": "Blasted Lands",
+     "place": "Nethergarde Keep",
+     "at": {
+      "x": 66,
+      "y": 19
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Witherbark Cages",
+     "id": 2988,
+     "optional": false
+    },
+    {
+     "name": "The Altar of Zul",
+     "id": 2989,
+     "optional": false
+    },
+    {
+     "name": "Thadius Grimshade",
+     "id": 2990,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 2768,
+   "name": "Divino-matic Rod",
+   "level": 47,
+   "minLevel": 40,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Chief Engineer Bilgewhizzle",
+     "kind": "npc",
+     "npc": 7407,
+     "zone": "Tanaris",
+     "place": "Gadgetzan",
+     "at": {
+      "x": 52,
+      "y": 28
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Chief Engineer Bilgewhizzle",
+     "kind": "npc",
+     "npc": 7407,
+     "zone": "Tanaris",
+     "place": "Gadgetzan",
+     "at": {
+      "x": 52,
+      "y": 28
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 2865,
+   "name": "Scarab Shells",
+   "level": 45,
+   "minLevel": 40,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Tran'rek",
+     "kind": "npc",
+     "npc": 7876,
+     "zone": "Tanaris",
+     "place": "Gadgetzan",
+     "at": {
+      "x": 51,
+      "y": 26
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Tran'rek",
+     "kind": "npc",
+     "npc": 7876,
+     "zone": "Tanaris",
+     "place": "Gadgetzan",
+     "at": {
+      "x": 51,
+      "y": 26
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Tran'rek",
+     "id": 2864,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 3042,
+   "name": "Troll Temper",
+   "level": 45,
+   "minLevel": 40,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Trenton Lighthammer",
+     "kind": "npc",
+     "npc": 7804,
+     "zone": "Tanaris",
+     "place": "Gadgetzan",
+     "at": {
+      "x": 51,
+      "y": 28
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Trenton Lighthammer",
+     "kind": "npc",
+     "npc": 7804,
+     "zone": "Tanaris",
+     "place": "Gadgetzan",
+     "at": {
+      "x": 51,
+      "y": 28
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 2846,
+   "name": "Tiara of the Deep",
+   "level": 46,
+   "minLevel": 40,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Tabetha",
+     "kind": "npc",
+     "npc": 6546,
+     "zone": "Dustwallow Marsh",
+     "at": {
+      "x": 46,
+      "y": 57
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Tabetha",
+     "kind": "npc",
+     "npc": 6546,
+     "zone": "Dustwallow Marsh",
+     "at": {
+      "x": 46,
+      "y": 57
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Tabetha's Task",
+     "id": 2861,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 2770,
+   "name": "Gahz'rilla",
+   "level": 50,
+   "minLevel": 40,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Wizzle Brassbolts",
+     "kind": "npc",
+     "npc": 4453,
+     "zone": "Thousand Needles",
+     "place": "Shimmering Flats",
+     "at": {
+      "x": 78,
+      "y": 77
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Wizzle Brassbolts",
+     "kind": "npc",
+     "npc": 4453,
+     "zone": "Thousand Needles",
+     "place": "Shimmering Flats",
+     "at": {
+      "x": 78,
+      "y": 77
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Brassbolts Brothers",
+     "id": 2769,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 3527,
+   "name": "The Prophecy of Mosh'aru",
+   "level": 47,
+   "minLevel": 40,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Yeh'kinya",
+     "kind": "npc",
+     "npc": 8579,
+     "zone": "Tanaris",
+     "place": "Steamwheedle Port",
+     "at": {
+      "x": 67,
+      "y": 22
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Yeh'kinya",
+     "kind": "npc",
+     "npc": 8579,
+     "zone": "Tanaris",
+     "place": "Steamwheedle Port",
+     "at": {
+      "x": 67,
+      "y": 22
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Screecher Spirits",
+     "id": 3520,
+     "optional": false
+    }
+   ],
+   "next": [
+    {
+     "name": "The Ancient Egg",
+     "id": 4787,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {
+  "9379": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_45.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9379\">Sang'thraze the Deflector</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>39 - 74 Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(33.24 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Increases your chance to Parry attacks by 2% for 9 sec.</span></div></div>",
+  "9467": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_monsterfang_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9467\">Gahz'rilla Fang</a><span class=\"wf-item__line wf-item__meta\">Item Level 48</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>40 - 76 Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(32.22 damage per second)</span><span class=\"wf-item__line\">Durability 55 / 55</span><span class=\"wf-item__line\">Requires Level 43</span><span class=\"wf-item__line wf-item__use\">Equip: Movement can generate Static Electricity.</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Deal 84 Nature damage, increased by 2% per stack of Static Electricity. Deals 2 times as much damage to Aquatic enemies.</span></div></div>",
+  "9469": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_chain_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9469\">Gahz'rilla Scale Armor</a><span class=\"wf-item__line wf-item__meta\">Item Level 48</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Mail</span></span><span class=\"wf-item__line\">290 Armor</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+16 Spirit</span><span class=\"wf-item__line\">Durability 120 / 120</span><span class=\"wf-item__line\">Requires Level 43</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 33 and damage done by up to 11 for all magical spells and effects.</span></div></div>",
+  "9470": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_banner_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9470\">Bad Mojo Mask</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Cloth</span></span><span class=\"wf-item__line\">57 Armor</span><span class=\"wf-item__line\">+21 Intellect</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 44</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by Shadow spells and effects by up to 20.</span></div></div>",
+  "9473": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_leather_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9473\">Jinxed Hoodoo Skin</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Leather</span></span><span class=\"wf-item__line\">144 Armor</span><span class=\"wf-item__line\">+10 Strength</span><span class=\"wf-item__line\">+20 Stamina</span><span class=\"wf-item__line\">+8 Spirit</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 44</span></div></div>",
+  "9474": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9474\">Jinxed Hoodoo Kilt</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">126 Armor</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+19 Spirit</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 44</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 24 and damage done by up to 8 for all magical spells and effects.</span></div></div>",
+  "9475": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_spear_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9475\">Diabolic Skiver</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Polearm</span></span><span class=\"wf-item__row\"><span>99 - 149 Damage</span><span>Speed 2.90</span></span><span class=\"wf-item__line\">(42.76 damage per second)</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 44</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Delivers a fatal wound for 164 to 184 Physical damage. Deals 50% increased damage to targets below 25% health.</span></div></div>",
+  "9476": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9476\">Big Bad Pauldrons</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Plate</span></span><span class=\"wf-item__line\">396 Armor</span><span class=\"wf-item__line\">+12 Strength</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">Restores +12 health per 5 sec.</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 45</span></div></div>",
+  "9477": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_goldfeathered_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9477\">The Chief's Enforcer</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>118 - 178 Damage</span><span>Speed 3.40</span></span><span class=\"wf-item__line\">(43.53 damage per second)</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Deal 294 Physical damage and stun for1.5 sec. Trolls take 2 times as much damage and stun duration.</span></div></div>",
+  "9639": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mace_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9639\">The Hand of Antu'sul</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>63 - 117 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(33.33 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Blasts nearby enemies with thunder increasing the time between their attacks by 11% for 10 sec and doing 42 Nature damage to them. Will affect up to 4 targets.</span></div></div>",
+  "9640": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_26.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9640\">Vice Grips</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">330 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Equip: +14 Attack Power.</span></div></div>",
+  "11086": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_43.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11086\">Jang'thraze the Protector</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>44 - 83 Damage</span><span>Speed 1.90</span></span><span class=\"wf-item__line\">(33.42 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Use: Combines Jang'thraze and Sang'thraze to form the mighty sword, Sul'thraze.</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Shields the wielder from physical damage, absorbing 66 to 102 damage. Lasts 20 sec.</span></div></div>",
+  "18082": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18082\">Zum'rah's Vexing Cane</a><span class=\"wf-item__line wf-item__meta\">Item Level 48</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>67 - 101 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(31.11 damage per second)</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 43</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 54.</span><span class=\"wf-item__line wf-item__use\">Equip: Chance on harmful spell cast to summon a Zombie Troll of Zum'rah for 20 sec. (1m cooldown)</span></div></div>"
+ }
+}

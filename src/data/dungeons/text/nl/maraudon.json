@@ -1,0 +1,46 @@
+{
+ "location": "Desolace, in de Valley of Spears",
+ "entrance": "In de Valley of Spears in het westen van Desolace. Een stenen deur aan de westkant van de vallei leidt naar grotten vol elites; daar splitst het pad naar het oranje en het paarse portaal.",
+ "quests": {
+  "7068": {
+   "objective": "Verzamel 10 Shadowshard Fragments van de Shadowshard Rumblers en Smashers, elite elementals in de grotten buiten de portalen."
+  },
+  "7070": {
+   "objective": "Verzamel 10 Shadowshard Fragments van de Shadowshard Rumblers en Smashers, elite elementals in de grotten buiten de portalen."
+  },
+  "7029": {
+   "objective": "Vul de Coated Cerulean Vial bij een vijver met oranje kristallen buiten het oranje portaal. Gebruik de gevulde fles binnen bij 8 Vylestem Vines en dood de Noxxious Scion die uit elke plant komt.",
+   "note": "De scions zijn immuun voor Nature-schade. Het blauwe water rond Cavindra telt niet."
+  },
+  "7041": {
+   "objective": "Vul de Coated Cerulean Vial bij een vijver met oranje kristallen buiten het oranje portaal. Gebruik de gevulde fles binnen bij 8 Vylestem Vines en dood de Noxxious Scion die uit elke plant komt.",
+   "note": "De scions zijn immuun voor Nature-schade. Het blauwe water rond Cavindra telt niet."
+  },
+  "7064": {
+   "objective": "Dood Princess Theradras, de laatste baas van Maraudon."
+  },
+  "7065": {
+   "objective": "Dood Princess Theradras, de laatste baas van Maraudon."
+  },
+  "7028": {
+   "objective": "Verzamel 25 Theradric Crystal Carvings. Veel monsters in de dungeon laten ze vallen.",
+   "note": "De data van Forever vraagt er 25; in Classic waren het er 15. The Nameless Prophet in de grotten buiten laat er altijd een vallen."
+  },
+  "7067": {
+   "objective": "Dood The Nameless Prophet in de grotten buiten voor de Amulet of Spirits. Gebruik die op de geesten van de vijf Khans, Kolk, Gelk, Magra, Maraudos en Veng, en voeg hun edelstenen samen tot de Amulet of Union.",
+   "note": "De Centaur Pariah loopt langs de weg ten zuiden van Mannoroc Coven."
+  },
+  "7044": {
+   "objective": "Neem de Celebrian Rod van Noxxion en de Celebrian Diamond van Lord Vyletongue, dood dan Celebras the Cursed en praat met Celebras the Redeemed.",
+   "note": "Cavindra staat in het blauwe water in de grotten buiten het oranje portaal."
+  },
+  "7046": {
+   "objective": "Volg Celebras the Redeemed terwijl hij de Scepter of Celebras maakt, en praat met hem als het ritueel klaar is.",
+   "note": "De scepter brengt je rechtstreeks naar Earth Song Falls vanuit een kamer met vier vuurschalen buiten de dungeon."
+  },
+  "7066": {
+   "objective": "Breng de Seed of Life naar Keeper Remulos in Moonglade.",
+   "note": "Zaetar's Spirit verschijnt in het midden van de ring als Princess Theradras sterft."
+  }
+ }
+}

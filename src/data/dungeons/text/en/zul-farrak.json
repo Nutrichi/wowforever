@@ -1,0 +1,36 @@
+{
+ "location": "Tanaris, in the northwest",
+ "entrance": "In the northwest corner of Tanaris, at /way 39 20, at the end of a canyon northwest of Gadgetzan.",
+ "quests": {
+  "2936": {
+   "objective": "Read the Tablet of Theka, next to Theka the Martyr, to learn the name of the spider god.",
+   "note": "The chain starts with a Venom Bottle that lies in the troll camps of The Hinterlands, and runs through Apothecary Lydon in the Alterac Mountains."
+  },
+  "2991": {
+   "objective": "Kill Nekrum Gutchewer in the stairs event and bring back Nekrum's Medallion.",
+   "note": "The chain starts with Witherbark Cages from Gryphon Master Talonaxe in Aerie Peak, The Hinterlands. After this quest, it goes on in the Blasted Lands and The Hinterlands."
+  },
+  "2768": {
+   "objective": "Bring back the Divino-matic Rod. Sergeant Bly drops it at the end of the stairs event."
+  },
+  "2865": {
+   "objective": "Collect 5 Uncracked Scarab Shells from the Scarabs inside the dungeon.",
+   "note": "The Scarabs are not elite and only attack when you hit them. Krazek in Booty Bay has an optional quest that sends you to Tran'rek."
+  },
+  "3042": {
+   "objective": "Collect 20 Vials of Troll Temper from the elite trolls inside the dungeon."
+  },
+  "2846": {
+   "objective": "Bring back the Tiara of the Deep. Hydromancer Velratha drops it.",
+   "note": "Mage trainers in the cities give Tabetha's Task, an optional quest that sends you to Tabetha."
+  },
+  "2770": {
+   "objective": "Summon Gahz'rilla at the pool and bring back Gahz'rilla's Electrified Scale.",
+   "note": "One player needs the Mallet of Zul'Farrak to ring the gong. The Brassbolts Brothers, from Klockmort Spannerspan in Tinker Town, sends the Alliance here."
+  },
+  "3527": {
+   "objective": "Bring back the First Mosh'aru Tablet from Theka the Martyr and the Second Mosh'aru Tablet from Hydromancer Velratha.",
+   "note": "First complete Screecher Spirits: kill Vale Screechers in Feralas, use Yeh'kinya's Bramble on the corpse and talk to the spirit, three times. The chain continues towards the Sunken Temple."
+  }
+ }
+}

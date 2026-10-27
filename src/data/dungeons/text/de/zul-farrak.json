@@ -1,0 +1,36 @@
+{
+ "location": "Tanaris, im Nordwesten",
+ "entrance": "In der Nordwestecke von Tanaris, bei /way 39 20, am Ende einer Schlucht nordwestlich von Gadgetzan.",
+ "quests": {
+  "2936": {
+   "objective": "Lies die Tablet of Theka neben Theka the Martyr, um den Namen des Spinnengottes zu erfahren.",
+   "note": "Die Reihe beginnt mit einer Venom Bottle, die in den Trolllagern von The Hinterlands liegt, und führt über Apothecary Lydon in den Alterac Mountains."
+  },
+  "2991": {
+   "objective": "Töte Nekrum Gutchewer im Treppenevent und bring Nekrum's Medallion zurück.",
+   "note": "Die Reihe beginnt mit Witherbark Cages von Gryphon Master Talonaxe in Aerie Peak, The Hinterlands. Nach dieser Quest geht sie in den Blasted Lands und The Hinterlands weiter."
+  },
+  "2768": {
+   "objective": "Bring die Divino-matic Rod zurück. Sergeant Bly lässt sie am Ende des Treppenevents fallen."
+  },
+  "2865": {
+   "objective": "Sammle 5 Uncracked Scarab Shells von den Scarabs im Dungeon.",
+   "note": "Die Scarabs sind keine Elites und greifen erst an, wenn du sie triffst. Krazek in Booty Bay hat eine freiwillige Quest, die dich zu Tran'rek schickt."
+  },
+  "3042": {
+   "objective": "Sammle 20 Vials of Troll Temper von den Elite-Trollen im Dungeon."
+  },
+  "2846": {
+   "objective": "Bring die Tiara of the Deep zurück. Hydromancer Velratha lässt sie fallen.",
+   "note": "Die Magierlehrer in den Hauptstädten geben Tabetha's Task, eine freiwillige Quest, die dich zu Tabetha schickt."
+  },
+  "2770": {
+   "objective": "Beschwöre Gahz'rilla am Teich und bring Gahz'rilla's Electrified Scale zurück.",
+   "note": "Ein Spieler braucht den Mallet of Zul'Farrak, um den Gong zu schlagen. The Brassbolts Brothers, von Klockmort Spannerspan in Tinker Town, schickt die Allianz hierher."
+  },
+  "3527": {
+   "objective": "Bring die First Mosh'aru Tablet von Theka the Martyr und die Second Mosh'aru Tablet von Hydromancer Velratha zurück.",
+   "note": "Erledige zuerst Screecher Spirits: Töte Vale Screechers in Feralas, benutze Yeh'kinya's Bramble auf die Leiche und sprich mit dem Geist, dreimal. Die Reihe geht weiter in Richtung Sunken Temple."
+  }
+ }
+}

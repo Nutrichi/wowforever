@@ -1,0 +1,558 @@
+{
+ "slug": "maraudon",
+ "levels": "41–50",
+ "bosses": [
+  {
+   "name": "Noxxion",
+   "slug": "noxxion",
+   "level": "48",
+   "npc": 13282,
+   "items": [
+    17745
+   ]
+  },
+  {
+   "name": "Razorlash",
+   "slug": "razorlash",
+   "level": "48",
+   "npc": 12258,
+   "items": [
+    17748
+   ]
+  },
+  {
+   "name": "Tinkerer Gizlock",
+   "slug": "tinkerer-gizlock",
+   "level": "50",
+   "npc": 13601,
+   "items": [
+    17717,
+    17719
+   ]
+  },
+  {
+   "name": "Lord Vyletongue",
+   "slug": "lord-vyletongue",
+   "level": "47",
+   "npc": 12236,
+   "items": [
+    17755
+   ]
+  },
+  {
+   "name": "Celebras the Cursed",
+   "slug": "celebras-the-cursed",
+   "level": "49",
+   "npc": 12225,
+   "items": [
+    17738,
+    17739,
+    17740
+   ]
+  },
+  {
+   "name": "Landslide",
+   "slug": "landslide",
+   "level": "50",
+   "npc": 12203,
+   "items": [
+    17943
+   ]
+  },
+  {
+   "name": "Rotgrip",
+   "slug": "rotgrip",
+   "level": "50",
+   "npc": 13596,
+   "items": [
+    17728,
+    17730,
+    17732
+   ]
+  },
+  {
+   "name": "Princess Theradras",
+   "slug": "princess-theradras",
+   "level": "51",
+   "npc": 12201,
+   "items": [
+    17713,
+    17714,
+    17715,
+    17710,
+    17766
+   ]
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 7068,
+   "name": "Shadowshard Fragments",
+   "level": 42,
+   "minLevel": 39,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "entrance",
+   "from": [
+    {
+     "name": "Uthel'nay",
+     "kind": "npc",
+     "npc": 7311,
+     "zone": "Orgrimmar",
+     "place": "Valley of Spirits",
+     "at": {
+      "x": 39,
+      "y": 86
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Uthel'nay",
+     "kind": "npc",
+     "npc": 7311,
+     "zone": "Orgrimmar",
+     "place": "Valley of Spirits",
+     "at": {
+      "x": 39,
+      "y": 86
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7070,
+   "name": "Shadowshard Fragments",
+   "level": 42,
+   "minLevel": 39,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "entrance",
+   "from": [
+    {
+     "name": "Archmage Tervosh",
+     "kind": "npc",
+     "npc": 4967,
+     "zone": "Dustwallow Marsh",
+     "place": "Theramore",
+     "at": {
+      "x": 66,
+      "y": 49
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Archmage Tervosh",
+     "kind": "npc",
+     "npc": 4967,
+     "zone": "Dustwallow Marsh",
+     "place": "Theramore",
+     "at": {
+      "x": 66,
+      "y": 49
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7029,
+   "name": "Vyletongue Corruption",
+   "level": 47,
+   "minLevel": 41,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Vark Battlescar",
+     "kind": "npc",
+     "npc": 11823,
+     "zone": "Desolace",
+     "place": "Shadowprey Village",
+     "at": {
+      "x": 23,
+      "y": 70
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Vark Battlescar",
+     "kind": "npc",
+     "npc": 11823,
+     "zone": "Desolace",
+     "place": "Shadowprey Village",
+     "at": {
+      "x": 23,
+      "y": 70
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7041,
+   "name": "Vyletongue Corruption",
+   "level": 47,
+   "minLevel": 41,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Talendria",
+     "kind": "npc",
+     "npc": 11715,
+     "zone": "Desolace",
+     "place": "Nijel's Point",
+     "at": {
+      "x": 68,
+      "y": 8
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Talendria",
+     "kind": "npc",
+     "npc": 11715,
+     "zone": "Desolace",
+     "place": "Nijel's Point",
+     "at": {
+      "x": 68,
+      "y": 8
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7064,
+   "name": "Corruption of Earth and Seed",
+   "level": 51,
+   "minLevel": 45,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Selendra",
+     "kind": "npc",
+     "npc": 13699,
+     "zone": "Desolace",
+     "at": {
+      "x": 26,
+      "y": 77
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Selendra",
+     "kind": "npc",
+     "npc": 13699,
+     "zone": "Desolace",
+     "at": {
+      "x": 26,
+      "y": 77
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7065,
+   "name": "Corruption of Earth and Seed",
+   "level": 51,
+   "minLevel": 45,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Keeper Marandis",
+     "kind": "npc",
+     "npc": 13698,
+     "zone": "Desolace",
+     "place": "Nijel's Point",
+     "at": {
+      "x": 63,
+      "y": 10
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Keeper Marandis",
+     "kind": "npc",
+     "npc": 13698,
+     "zone": "Desolace",
+     "place": "Nijel's Point",
+     "at": {
+      "x": 63,
+      "y": 10
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7028,
+   "name": "Twisted Evils",
+   "level": 47,
+   "minLevel": 41,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Willow",
+     "kind": "npc",
+     "npc": 13656,
+     "zone": "Desolace",
+     "at": {
+      "x": 62,
+      "y": 39
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Willow",
+     "kind": "npc",
+     "npc": 13656,
+     "zone": "Desolace",
+     "at": {
+      "x": 62,
+      "y": 39
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7067,
+   "name": "The Pariah's Instructions",
+   "level": 48,
+   "minLevel": 39,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "entrance",
+   "from": [
+    {
+     "name": "Centaur Pariah",
+     "kind": "npc",
+     "npc": 13717,
+     "zone": "Desolace",
+     "at": {
+      "x": 48.4,
+      "y": 87.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Centaur Pariah",
+     "kind": "npc",
+     "npc": 13717,
+     "zone": "Desolace",
+     "at": {
+      "x": 48.4,
+      "y": 87.0
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7044,
+   "name": "Legends of Maraudon",
+   "level": 49,
+   "minLevel": 41,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Cavindra",
+     "kind": "npc",
+     "npc": 13697,
+     "zone": "Maraudon"
+    }
+   ],
+   "to": [
+    {
+     "name": "Celebras the Redeemed",
+     "kind": "npc",
+     "npc": 13716,
+     "zone": "Maraudon"
+    }
+   ],
+   "chain": [],
+   "next": [
+    {
+     "name": "The Scepter of Celebras",
+     "id": 7046,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7046,
+   "name": "The Scepter of Celebras",
+   "level": 49,
+   "minLevel": 41,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Celebras the Redeemed",
+     "kind": "npc",
+     "npc": 13716,
+     "zone": "Maraudon"
+    }
+   ],
+   "to": [
+    {
+     "name": "Celebras the Redeemed",
+     "kind": "npc",
+     "npc": 13716,
+     "zone": "Maraudon"
+    }
+   ],
+   "chain": [
+    {
+     "name": "Legends of Maraudon",
+     "id": 7044,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7066,
+   "name": "Seed of Life",
+   "level": 51,
+   "minLevel": 39,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Zaetar's Spirit",
+     "kind": "npc",
+     "npc": 12238,
+     "zone": "Maraudon"
+    }
+   ],
+   "to": [
+    {
+     "name": "Keeper Remulos",
+     "kind": "npc",
+     "npc": 11832,
+     "zone": "Moonglade"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {
+  "17710": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17710\">Charstone Dirk</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>26 - 50 Damage</span><span>Speed 1.60</span></span><span class=\"wf-item__line\">(23.75 damage per second)</span><span class=\"wf-item__line\">+11 Intellect</span><span class=\"wf-item__line\">Restores +2 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 116 and damage done by up to 38 for all magical spells and effects.</span></div></div>",
+  "17713": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17713\">Blackstone Ring</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: +20 Attack Power.</span></div></div>",
+  "17714": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17714\">Bracers of the Stone Princess</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Mail</span></span><span class=\"wf-item__line\">141 Armor</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">+5 Intellect</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: +28 Attack Power.</span></div></div>",
+  "17715": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_crown_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17715\">Eye of Theradras</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Cloth</span></span><span class=\"wf-item__line\">63 Armor</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+19 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "17717": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_rifle_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17717\">Megashot Rifle</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Gun</span></span><span class=\"wf-item__row\"><span>48 - 89 Damage</span><span>Speed 2.50</span></span><span class=\"wf-item__line\">(27.40 damage per second)</span><span class=\"wf-item__line\">+19 Ranged Attack Power</span><span class=\"wf-item__line\">+5 Arcane Resistance</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 48</span></div></div>",
+  "17719": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17719\">Inventor's Focal Sword</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>36 - 67 Damage</span><span>Speed 2.20</span></span><span class=\"wf-item__line\">(23.41 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 60.</span></div></div>",
+  "17728": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17728\">Albino Crocscale Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Leather</span></span><span class=\"wf-item__line\">105 Armor</span><span class=\"wf-item__line\">+20 Agility</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+6 Nature Resistance</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 48</span></div></div>",
+  "17730": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17730\">Gatorbite Axe</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>117 - 176 Damage</span><span>Speed 3.20</span></span><span class=\"wf-item__line\">(45.78 damage per second)</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Wounds the target causing them to bleed for 210 damage over 7 sec.</span></div></div>",
+  "17732": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17732\">Rotgrip Mantle</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Cloth</span></span><span class=\"wf-item__line\">57 Armor</span><span class=\"wf-item__line\">+18 Intellect</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 13.</span></div></div>",
+  "17738": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/ability_whirlwind.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17738\">Claw of Celebras</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Fist Weapon</span></span><span class=\"wf-item__row\"><span>43 - 81 Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(34.44 damage per second)</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Poisons target for 13 Nature damage every 1 sec for 7 sec.</span></div></div>",
+  "17739": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17739\">Grovekeeper's Drape</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">37 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">+10 Nature Resistance</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Reduces the hit chance of Charm effects against you by 5%.</span></div></div>",
+  "17740": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17740\">Soothsayer's Headdress</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Leather</span></span><span class=\"wf-item__line\">122 Armor</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+15 Intellect</span><span class=\"wf-item__line\">+8 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 23.</span></div></div>",
+  "17745": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17745\">Noxious Shooter</a><span class=\"wf-item__line wf-item__meta\">Item Level 51</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>56 - 104 Nature Damage</span><span>Speed 1.60</span></span><span class=\"wf-item__line\">(50.00 damage per second)</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+5 Nature Resistance</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 46</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 5.</span></div></div>",
+  "17748": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17748\">Vinerot Sandals</a><span class=\"wf-item__line wf-item__meta\">Item Level 51</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Cloth</span></span><span class=\"wf-item__line\">50 Armor</span><span class=\"wf-item__line\">+9 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">+12 Nature Resistance</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 46</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 18 and damage done by up to 6 for all magical spells and effects.</span></div></div>",
+  "17755": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_24.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17755\">Satyrmane Sash</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Cloth</span></span><span class=\"wf-item__line\">40 Armor</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+10 Shadow Resistance</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 14.</span></div></div>",
+  "17766": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17766\">Princess Theradras' Scepter</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>126 - 190 Damage</span><span>Speed 3.40</span></span><span class=\"wf-item__line\">(46.47 damage per second)</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Wounds the target for 168 damage and lowers their armor by 100.</span></div></div>",
+  "17943": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17943\">Fist of Stone</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>44 - 83 Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(35.28 damage per second)</span><span class=\"wf-item__line\">+40 Armor</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Chance on hit to restore 32 mana. Restores 3 times as much if attacking an Earth Elemental, Golem, or Titan-forged enemy.</span></div></div>"
+ }
+}

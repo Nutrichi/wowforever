@@ -3,7 +3,7 @@ title: "Guía de mazmorras: cada misión de mazmorra en WoW Forever"
 metaTitle: "Misiones de mazmorra de WoW Forever: cada mazmorra, nivel y PNJ"
 description: "Cada mazmorra de WoW Forever con sus niveles y todas sus misiones: dónde empieza cada una, para qué facción, qué hace falta antes, y las llaves que piden algunas mazmorras."
 short: "Mazmorras"
-updated: 2026-10-19
+updated: 2026-10-27
 lang: es
 manual: true
 faq:
@@ -38,6 +38,8 @@ La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las m
 - **Scarlet Monastery**, niveles 30-46, en cuatro alas, cada una con su botín, sus misiones y su guía: [Graveyard](/es/guides/dungeons/scarlet-monastery-graveyard/), [Library](/es/guides/dungeons/scarlet-monastery-library/), [Armory](/es/guides/dungeons/scarlet-monastery-armory/) y [Cathedral](/es/guides/dungeons/scarlet-monastery-cathedral/).
 - **[Razorfen Downs](/es/guides/dungeons/razorfen-downs/)**, niveles 37-46: las seis misiones con sus recompensas, el evento del gong y el botín nuevo de cada jefe.
 - **[Uldaman](/es/guides/dungeons/uldaman/)**, niveles 41-51: la entrada desde las Badlands, los ocho jefes hasta Archaedas y el botín conocido hasta ahora.
+- **[Zul'Farrak](/es/guides/dungeons/zul-farrak/)**, niveles 40-50: la entrada por Tanaris, las ocho misiones, el evento de las escaleras, el Mallet para Gahz'rilla y el botín de los datos de Forever.
+- **[Maraudon](/es/guides/dungeons/maraudon/)**, niveles 41-50: los tres portales de Desolace, las once misiones, el Scepter of Celebras y los ocho jefes hasta Princess Theradras.
 
 ## Cada mazmorra por nivel
 
@@ -65,8 +67,8 @@ Para las mazmorras con guía, el rango es el que da el propio juego. Para las de
 | [Razorfen Downs](/es/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
 | Krol'dok Stronghold | 40-45 | aún no se conocen |
 | [Uldaman](/es/guides/dungeons/uldaman/) | 41-51 | 14 |
-| Zul'Farrak | 40-50 | 8 |
-| Maraudon | 41-50 | 11 |
+| [Zul'Farrak](/es/guides/dungeons/zul-farrak/) | 40-50 | 8 |
+| [Maraudon](/es/guides/dungeons/maraudon/) | 41-50 | 11 |
 | Alcaz Prison | 48-53 | aún no se conocen |
 | Sunken Temple | 46-54 | 9 |
 | Blackrock Depths | 50-60 | 24 |

@@ -1,0 +1,46 @@
+{
+ "location": "Desolace, im Valley of Spears",
+ "entrance": "Im Valley of Spears im Westen von Desolace. Eine Steintür an der Westseite des Tals führt in Höhlen voller Elites; dort teilt sich der Weg zum orangen und zum lila Portal.",
+ "quests": {
+  "7068": {
+   "objective": "Sammle 10 Shadowshard Fragments von den Shadowshard Rumblers und Smashers, Elite-Elementaren in den Höhlen vor den Portalen."
+  },
+  "7070": {
+   "objective": "Sammle 10 Shadowshard Fragments von den Shadowshard Rumblers und Smashers, Elite-Elementaren in den Höhlen vor den Portalen."
+  },
+  "7029": {
+   "objective": "Füll die Coated Cerulean Vial an einem Teich mit orangen Kristallen vor dem orangen Portal. Benutze die gefüllte Phiole drinnen an 8 Vylestem Vines und töte den Noxxious Scion, der aus jeder kommt.",
+   "note": "Die Scions sind immun gegen Naturschaden. Das blaue Wasser bei Cavindra zählt nicht."
+  },
+  "7041": {
+   "objective": "Füll die Coated Cerulean Vial an einem Teich mit orangen Kristallen vor dem orangen Portal. Benutze die gefüllte Phiole drinnen an 8 Vylestem Vines und töte den Noxxious Scion, der aus jeder kommt.",
+   "note": "Die Scions sind immun gegen Naturschaden. Das blaue Wasser bei Cavindra zählt nicht."
+  },
+  "7064": {
+   "objective": "Töte Princess Theradras, den letzten Boss von Maraudon."
+  },
+  "7065": {
+   "objective": "Töte Princess Theradras, den letzten Boss von Maraudon."
+  },
+  "7028": {
+   "objective": "Sammle 25 Theradric Crystal Carvings. Viele Monster im Dungeon lassen sie fallen.",
+   "note": "Die Daten von Forever verlangen 25; in Classic waren es 15. The Nameless Prophet in den Höhlen draußen lässt immer eine fallen."
+  },
+  "7067": {
+   "objective": "Töte The Nameless Prophet in den Höhlen draußen für das Amulet of Spirits. Benutze es auf die Geister der fünf Khans, Kolk, Gelk, Magra, Maraudos und Veng, und füge ihre Edelsteine zum Amulet of Union zusammen.",
+   "note": "Der Centaur Pariah läuft an der Straße südlich von Mannoroc Coven entlang."
+  },
+  "7044": {
+   "objective": "Hol die Celebrian Rod von Noxxion und den Celebrian Diamond von Lord Vyletongue, töte dann Celebras the Cursed und sprich mit Celebras the Redeemed.",
+   "note": "Cavindra steht im blauen Wasser in den Höhlen vor dem orangen Portal."
+  },
+  "7046": {
+   "objective": "Folge Celebras the Redeemed, während er das Scepter of Celebras herstellt, und sprich mit ihm, wenn das Ritual fertig ist.",
+   "note": "Das Zepter bringt dich direkt nach Earth Song Falls, aus einem Raum mit vier Feuerschalen vor dem Dungeon."
+  },
+  "7066": {
+   "objective": "Bring die Seed of Life zu Keeper Remulos in Moonglade.",
+   "note": "Zaetar's Spirit erscheint in der Mitte des Rings, wenn Princess Theradras stirbt."
+  }
+ }
+}

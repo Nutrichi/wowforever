@@ -1,0 +1,36 @@
+{
+ "location": "Tanaris, in het noordwesten",
+ "entrance": "In de noordwesthoek van Tanaris, op /way 39 20, aan het eind van een kloof ten noordwesten van Gadgetzan.",
+ "quests": {
+  "2936": {
+   "objective": "Lees de Tablet of Theka, naast Theka the Martyr, om de naam van de spinnengod te leren.",
+   "note": "De reeks begint met een Venom Bottle die in de trollenkampen van The Hinterlands ligt, en loopt via Apothecary Lydon in de Alterac Mountains."
+  },
+  "2991": {
+   "objective": "Dood Nekrum Gutchewer in het trappenevent en breng Nekrum's Medallion terug.",
+   "note": "De reeks begint met Witherbark Cages van Gryphon Master Talonaxe in Aerie Peak, The Hinterlands. Na deze quest gaat ze verder in de Blasted Lands en The Hinterlands."
+  },
+  "2768": {
+   "objective": "Breng de Divino-matic Rod terug. Sergeant Bly laat hem vallen aan het eind van het trappenevent."
+  },
+  "2865": {
+   "objective": "Verzamel 5 Uncracked Scarab Shells van de Scarabs in de dungeon.",
+   "note": "De Scarabs zijn geen elites en vallen pas aan als je ze raakt. Krazek in Booty Bay heeft een optionele quest die je naar Tran'rek stuurt."
+  },
+  "3042": {
+   "objective": "Verzamel 20 Vials of Troll Temper van de elite trollen in de dungeon."
+  },
+  "2846": {
+   "objective": "Breng de Tiara of the Deep terug. Hydromancer Velratha laat hem vallen.",
+   "note": "De mage-trainers in de steden geven Tabetha's Task, een optionele quest die je naar Tabetha stuurt."
+  },
+  "2770": {
+   "objective": "Roep Gahz'rilla op bij de vijver en breng Gahz'rilla's Electrified Scale terug.",
+   "note": "Eén speler heeft de Mallet of Zul'Farrak nodig om op de gong te slaan. The Brassbolts Brothers, van Klockmort Spannerspan in Tinker Town, stuurt de Alliance hierheen."
+  },
+  "3527": {
+   "objective": "Breng de First Mosh'aru Tablet van Theka the Martyr en de Second Mosh'aru Tablet van Hydromancer Velratha terug.",
+   "note": "Doe eerst Screecher Spirits: dood Vale Screechers in Feralas, gebruik Yeh'kinya's Bramble op het lijk en praat met de geest, drie keer. De reeks gaat verder richting de Sunken Temple."
+  }
+ }
+}

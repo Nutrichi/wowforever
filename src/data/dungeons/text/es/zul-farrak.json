@@ -1,0 +1,36 @@
+{
+ "location": "Tanaris, al noroeste",
+ "entrance": "En la esquina noroeste de Tanaris, en /way 39 20, al final de un cañón al noroeste de Gadgetzan.",
+ "quests": {
+  "2936": {
+   "objective": "Lee la Tablet of Theka, junto a Theka the Martyr, para conocer el nombre del dios araña.",
+   "note": "La cadena empieza con una Venom Bottle que hay en los campamentos troles de The Hinterlands, y pasa por Apothecary Lydon en las Alterac Mountains."
+  },
+  "2991": {
+   "objective": "Mata a Nekrum Gutchewer en el evento de las escaleras y lleva Nekrum's Medallion.",
+   "note": "La cadena empieza con Witherbark Cages de Gryphon Master Talonaxe en Aerie Peak, The Hinterlands. Tras esta misión sigue en las Blasted Lands y The Hinterlands."
+  },
+  "2768": {
+   "objective": "Lleva la Divino-matic Rod. La suelta Sergeant Bly al final del evento de las escaleras."
+  },
+  "2865": {
+   "objective": "Consigue 5 Uncracked Scarab Shells de los Scarabs de la mazmorra.",
+   "note": "Los Scarabs no son élite y solo atacan si los golpeas. Krazek en Booty Bay tiene una misión opcional que te envía a Tran'rek."
+  },
+  "3042": {
+   "objective": "Consigue 20 Vials of Troll Temper de los troles élite de la mazmorra."
+  },
+  "2846": {
+   "objective": "Lleva la Tiara of the Deep. La suelta Hydromancer Velratha.",
+   "note": "Los instructores de magos de las capitales dan Tabetha's Task, una misión opcional que te envía a Tabetha."
+  },
+  "2770": {
+   "objective": "Invoca a Gahz'rilla en el estanque y lleva Gahz'rilla's Electrified Scale.",
+   "note": "Un jugador necesita el Mallet of Zul'Farrak para golpear el gong. The Brassbolts Brothers, de Klockmort Spannerspan en Tinker Town, envía aquí a la Alianza."
+  },
+  "3527": {
+   "objective": "Lleva la First Mosh'aru Tablet de Theka the Martyr y la Second Mosh'aru Tablet de Hydromancer Velratha.",
+   "note": "Haz primero Screecher Spirits: mata Vale Screechers en Feralas, usa Yeh'kinya's Bramble en el cadáver y habla con el espíritu, tres veces. La cadena sigue hacia el Sunken Temple."
+  }
+ }
+}

@@ -3,7 +3,7 @@ title: "Dungeongids: elke dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: elke dungeon, elk level en elke questgever"
 description: "Elke dungeon van WoW Forever met zijn levels en al zijn quests: waar elke quest begint, voor welke factie, wat eerst moet, en de sleutels die sommige dungeons vragen."
 short: "Dungeons"
-updated: 2026-10-19
+updated: 2026-10-27
 lang: nl
 manual: true
 faq:
@@ -38,6 +38,8 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 - **Scarlet Monastery**, level 30-46, in vier vleugels, elk met eigen loot, quests en gids: [Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/), [Library](/nl/guides/dungeons/scarlet-monastery-library/), [Armory](/nl/guides/dungeons/scarlet-monastery-armory/) en [Cathedral](/nl/guides/dungeons/scarlet-monastery-cathedral/).
 - **[Razorfen Downs](/nl/guides/dungeons/razorfen-downs/)**, level 37-46: alle zes de quests met hun beloningen, het gong-event en de nieuwe loot van elke baas.
 - **[Uldaman](/nl/guides/dungeons/uldaman/)**, level 41-51: de weg erheen vanuit de Badlands, de acht bazen tot Archaedas en de loot die tot nu toe bekend is.
+- **[Zul'Farrak](/nl/guides/dungeons/zul-farrak/)**, level 40-50: de weg erheen door Tanaris, alle acht de quests, het trappenevent, de Mallet voor Gahz'rilla en de loot in de data van Forever.
+- **[Maraudon](/nl/guides/dungeons/maraudon/)**, level 41-50: de drie portalen in Desolace, alle elf de quests, de Scepter of Celebras en de acht bazen tot Princess Theradras.
 
 ## Elke dungeon op level
 
@@ -65,8 +67,8 @@ Voor de dungeons met een gids is het bereik dat van het spel zelf. Voor de ander
 | [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
 | Krol'dok Stronghold | 40-45 | nog niet bekend |
 | [Uldaman](/nl/guides/dungeons/uldaman/) | 41-51 | 14 |
-| Zul'Farrak | 40-50 | 8 |
-| Maraudon | 41-50 | 11 |
+| [Zul'Farrak](/nl/guides/dungeons/zul-farrak/) | 40-50 | 8 |
+| [Maraudon](/nl/guides/dungeons/maraudon/) | 41-50 | 11 |
 | Alcaz Prison | 48-53 | nog niet bekend |
 | Sunken Temple | 46-54 | 9 |
 | Blackrock Depths | 50-60 | 24 |

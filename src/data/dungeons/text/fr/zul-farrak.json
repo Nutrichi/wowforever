@@ -1,0 +1,36 @@
+{
+ "location": "Tanaris, au nord-ouest",
+ "entrance": "Dans le coin nord-ouest de Tanaris, en /way 39 20, au bout d’un canyon au nord-ouest de Gadgetzan.",
+ "quests": {
+  "2936": {
+   "objective": "Lisez la Tablet of Theka, à côté de Theka the Martyr, pour apprendre le nom du dieu araignée.",
+   "note": "La chaîne commence avec une Venom Bottle posée dans les camps trolls de The Hinterlands, et passe par Apothecary Lydon dans les Alterac Mountains."
+  },
+  "2991": {
+   "objective": "Tuez Nekrum Gutchewer pendant l’événement des escaliers et rapportez Nekrum's Medallion.",
+   "note": "La chaîne commence avec Witherbark Cages de Gryphon Master Talonaxe à Aerie Peak, The Hinterlands. Après cette quête, elle continue dans les Blasted Lands et The Hinterlands."
+  },
+  "2768": {
+   "objective": "Rapportez la Divino-matic Rod. Sergeant Bly la laisse à la fin de l’événement des escaliers."
+  },
+  "2865": {
+   "objective": "Récupérez 5 Uncracked Scarab Shells sur les Scarabs du donjon.",
+   "note": "Les Scarabs ne sont pas élites et n’attaquent que si vous les frappez. Krazek à Booty Bay a une quête facultative qui vous envoie à Tran'rek."
+  },
+  "3042": {
+   "objective": "Récupérez 20 Vials of Troll Temper sur les trolls élites du donjon."
+  },
+  "2846": {
+   "objective": "Rapportez la Tiara of the Deep. Hydromancer Velratha la laisse.",
+   "note": "Les maîtres des mages des capitales donnent Tabetha's Task, une quête facultative qui vous envoie à Tabetha."
+  },
+  "2770": {
+   "objective": "Invoquez Gahz'rilla au bassin et rapportez Gahz'rilla's Electrified Scale.",
+   "note": "Un joueur doit avoir le Mallet of Zul'Farrak pour frapper le gong. The Brassbolts Brothers, de Klockmort Spannerspan à Tinker Town, envoie l’Alliance ici."
+  },
+  "3527": {
+   "objective": "Rapportez la First Mosh'aru Tablet de Theka the Martyr et la Second Mosh'aru Tablet de Hydromancer Velratha.",
+   "note": "Faites d’abord Screecher Spirits : tuez des Vale Screechers à Feralas, utilisez Yeh'kinya's Bramble sur le cadavre et parlez à l’esprit, trois fois. La chaîne continue vers le Sunken Temple."
+  }
+ }
+}

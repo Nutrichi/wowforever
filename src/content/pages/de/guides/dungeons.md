@@ -3,7 +3,7 @@ title: "Dungeonguide: jede Dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: jeder Dungeon, jedes Level, jeder Questgeber"
 description: "Jeder Dungeon von WoW Forever mit seinen Levels und allen Quests: wo jede Quest beginnt, für welche Fraktion, was vorher nötig ist, und die Schlüssel, die manche Dungeons verlangen."
 short: "Dungeons"
-updated: 2026-10-19
+updated: 2026-10-27
 lang: de
 manual: true
 faq:
@@ -38,6 +38,8 @@ Die Beta von WoW Forever geht seit dem 1. Oktober bis Level 30. Für die Dungeon
 - **Scarlet Monastery**, Stufe 30-46, in vier Flügeln, jeder mit eigener Beute, Quests und Guide: [Graveyard](/de/guides/dungeons/scarlet-monastery-graveyard/), [Library](/de/guides/dungeons/scarlet-monastery-library/), [Armory](/de/guides/dungeons/scarlet-monastery-armory/) und [Cathedral](/de/guides/dungeons/scarlet-monastery-cathedral/).
 - **[Razorfen Downs](/de/guides/dungeons/razorfen-downs/)**, Stufe 37-46: alle sechs Quests mit ihren Belohnungen, das Gong-Event und die neue Beute jedes Bosses.
 - **[Uldaman](/de/guides/dungeons/uldaman/)**, Stufe 41-51: der Weg hinein über die Badlands, die acht Bosse bis Archaedas und die bisher bekannte Beute.
+- **[Zul'Farrak](/de/guides/dungeons/zul-farrak/)**, Stufe 40-50: die Anreise durch Tanaris, alle acht Quests, das Treppenevent, der Mallet für Gahz'rilla und die Beute in den Daten von Forever.
+- **[Maraudon](/de/guides/dungeons/maraudon/)**, Stufe 41-50: die drei Portale in Desolace, alle elf Quests, das Scepter of Celebras und die acht Bosse bis Princess Theradras.
 
 ## Jeder Dungeon nach Level
 
@@ -65,8 +67,8 @@ Für die Dungeons mit Guide ist der Bereich der, den das Spiel selbst nennt. Fü
 | [Razorfen Downs](/de/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
 | Krol'dok Stronghold | 40-45 | noch nicht bekannt |
 | [Uldaman](/de/guides/dungeons/uldaman/) | 41-51 | 14 |
-| Zul'Farrak | 40-50 | 8 |
-| Maraudon | 41-50 | 11 |
+| [Zul'Farrak](/de/guides/dungeons/zul-farrak/) | 40-50 | 8 |
+| [Maraudon](/de/guides/dungeons/maraudon/) | 41-50 | 11 |
 | Alcaz Prison | 48-53 | noch nicht bekannt |
 | Sunken Temple | 46-54 | 9 |
 | Blackrock Depths | 50-60 | 24 |

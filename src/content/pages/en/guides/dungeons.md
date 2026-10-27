@@ -3,7 +3,7 @@ title: "Dungeon guide: every dungeon quest in WoW Forever"
 metaTitle: "WoW Forever dungeon quests: every dungeon, level and quest giver"
 description: "Every dungeon of WoW Forever with its levels and all its quests: where each quest starts, for which faction, what it needs first, and the keys some dungeons ask for."
 short: "Dungeons"
-updated: 2026-10-19
+updated: 2026-10-27
 lang: en
 faq:
   - q: "Which dungeons are in WoW Forever?"
@@ -37,6 +37,8 @@ The beta of WoW Forever goes up to level 30 since 1 October. For the dungeons ab
 - **Scarlet Monastery**, levels 30-46, in four wings, each with its own loot, quests and guide: [Graveyard](/guides/dungeons/scarlet-monastery-graveyard/), [Library](/guides/dungeons/scarlet-monastery-library/), [Armory](/guides/dungeons/scarlet-monastery-armory/) and [Cathedral](/guides/dungeons/scarlet-monastery-cathedral/).
 - **[Razorfen Downs](/guides/dungeons/razorfen-downs/)**, levels 37-46: all six quests with their rewards, the gong event and the new loot of every boss.
 - **[Uldaman](/guides/dungeons/uldaman/)**, levels 41-51: the way in from the Badlands, the eight bosses up to Archaedas and the loot known so far.
+- **[Zul'Farrak](/guides/dungeons/zul-farrak/)**, levels 40-50: the way in through Tanaris, all eight quests, the stairs event, the Mallet for Gahz'rilla and the loot in the Forever data.
+- **[Maraudon](/guides/dungeons/maraudon/)**, levels 41-50: the three portals in Desolace, all eleven quests, the Scepter of Celebras and the eight bosses up to Princess Theradras.
 
 ## Every dungeon by level
 
@@ -64,8 +66,8 @@ For the dungeons with a guide, the range is the one the game itself gives. For t
 | [Razorfen Downs](/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
 | Krol'dok Stronghold | 40-45 | not known yet |
 | [Uldaman](/guides/dungeons/uldaman/) | 41-51 | 14 |
-| Zul'Farrak | 40-50 | 8 |
-| Maraudon | 41-50 | 11 |
+| [Zul'Farrak](/guides/dungeons/zul-farrak/) | 40-50 | 8 |
+| [Maraudon](/guides/dungeons/maraudon/) | 41-50 | 11 |
 | Alcaz Prison | 48-53 | not known yet |
 | Sunken Temple | 46-54 | 9 |
 | Blackrock Depths | 50-60 | 24 |

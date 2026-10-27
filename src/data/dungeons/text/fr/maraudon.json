@@ -1,0 +1,46 @@
+{
+ "location": "Desolace, dans la Valley of Spears",
+ "entrance": "Dans la Valley of Spears, à l’ouest de Desolace. Une porte de pierre sur le côté ouest de la vallée mène à des grottes pleines d’élites ; le chemin s’y sépare vers le portail orange et le portail violet.",
+ "quests": {
+  "7068": {
+   "objective": "Récupérez 10 Shadowshard Fragments sur les Shadowshard Rumblers et Smashers, des élémentaires élites dans les grottes devant les portails."
+  },
+  "7070": {
+   "objective": "Récupérez 10 Shadowshard Fragments sur les Shadowshard Rumblers et Smashers, des élémentaires élites dans les grottes devant les portails."
+  },
+  "7029": {
+   "objective": "Remplissez la Coated Cerulean Vial à un bassin aux cristaux orange devant le portail orange. À l’intérieur, utilisez la fiole pleine près de 8 Vylestem Vines et tuez le Noxxious Scion qui sort de chacune.",
+   "note": "Les scions sont insensibles aux dégâts de nature. L’eau bleue autour de Cavindra ne compte pas."
+  },
+  "7041": {
+   "objective": "Remplissez la Coated Cerulean Vial à un bassin aux cristaux orange devant le portail orange. À l’intérieur, utilisez la fiole pleine près de 8 Vylestem Vines et tuez le Noxxious Scion qui sort de chacune.",
+   "note": "Les scions sont insensibles aux dégâts de nature. L’eau bleue autour de Cavindra ne compte pas."
+  },
+  "7064": {
+   "objective": "Tuez Princess Theradras, le dernier boss de Maraudon."
+  },
+  "7065": {
+   "objective": "Tuez Princess Theradras, le dernier boss de Maraudon."
+  },
+  "7028": {
+   "objective": "Récupérez 25 Theradric Crystal Carvings. Beaucoup de monstres du donjon en laissent.",
+   "note": "Les données de Forever en demandent 25 ; dans Classic, c’était 15. The Nameless Prophet, dans les grottes devant, en laisse toujours un."
+  },
+  "7067": {
+   "objective": "Tuez The Nameless Prophet dans les grottes devant pour l’Amulet of Spirits. Utilisez-la sur les esprits des cinq Khans, Kolk, Gelk, Magra, Maraudos et Veng, et assemblez leurs gemmes en Amulet of Union.",
+   "note": "Le Centaur Pariah marche le long de la route au sud de Mannoroc Coven."
+  },
+  "7044": {
+   "objective": "Prenez la Celebrian Rod sur Noxxion et le Celebrian Diamond sur Lord Vyletongue, puis tuez Celebras the Cursed et parlez à Celebras the Redeemed.",
+   "note": "Cavindra se tient dans l’eau bleue des grottes devant le portail orange."
+  },
+  "7046": {
+   "objective": "Suivez Celebras the Redeemed pendant qu’il crée le Scepter of Celebras, et parlez-lui quand le rituel est fini.",
+   "note": "Le sceptre vous emmène directement à Earth Song Falls depuis une salle à quatre braseros devant le donjon."
+  },
+  "7066": {
+   "objective": "Apportez la Seed of Life à Keeper Remulos dans Moonglade.",
+   "note": "Zaetar's Spirit apparaît au milieu de l’anneau quand Princess Theradras meurt."
+  }
+ }
+}

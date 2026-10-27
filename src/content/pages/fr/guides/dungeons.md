@@ -3,7 +3,7 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : chaque donjon, niveau et donneur de quête"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-10-19
+updated: 2026-10-27
 lang: fr
 manual: true
 faq:
@@ -38,6 +38,8 @@ La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les 
 - **Scarlet Monastery**, niveaux 30-46, en quatre ailes, chacune avec son butin, ses quêtes et son guide : [Graveyard](/fr/guides/dungeons/scarlet-monastery-graveyard/), [Library](/fr/guides/dungeons/scarlet-monastery-library/), [Armory](/fr/guides/dungeons/scarlet-monastery-armory/) et [Cathedral](/fr/guides/dungeons/scarlet-monastery-cathedral/).
 - **[Razorfen Downs](/fr/guides/dungeons/razorfen-downs/)**, niveaux 37-46 : les six quêtes avec leurs récompenses, l’événement du gong et le nouveau butin de chaque boss.
 - **[Uldaman](/fr/guides/dungeons/uldaman/)**, niveaux 41-51 : l’accès par les Badlands, les huit boss jusqu’à Archaedas et le butin connu à ce jour.
+- **[Zul'Farrak](/fr/guides/dungeons/zul-farrak/)**, niveaux 40-50 : l’accès par Tanaris, les huit quêtes, l’événement des escaliers, le Mallet pour Gahz'rilla et le butin des données de Forever.
+- **[Maraudon](/fr/guides/dungeons/maraudon/)**, niveaux 41-50 : les trois portails en Desolace, les onze quêtes, le Scepter of Celebras et les huit boss jusqu’à Princess Theradras.
 
 ## Chaque donjon par niveau
 
@@ -65,8 +67,8 @@ Pour les donjons qui ont un guide, la fourchette est celle que donne le jeu. Pou
 | [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
 | Krol'dok Stronghold | 40-45 | pas encore connues |
 | [Uldaman](/fr/guides/dungeons/uldaman/) | 41-51 | 14 |
-| Zul'Farrak | 40-50 | 8 |
-| Maraudon | 41-50 | 11 |
+| [Zul'Farrak](/fr/guides/dungeons/zul-farrak/) | 40-50 | 8 |
+| [Maraudon](/fr/guides/dungeons/maraudon/) | 41-50 | 11 |
 | Alcaz Prison | 48-53 | pas encore connues |
 | Sunken Temple | 46-54 | 9 |
 | Blackrock Depths | 50-60 | 24 |

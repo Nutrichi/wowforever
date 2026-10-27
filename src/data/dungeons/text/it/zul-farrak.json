@@ -1,0 +1,36 @@
+{
+ "location": "Tanaris, a nord-ovest",
+ "entrance": "Nell’angolo nord-ovest di Tanaris, a /way 39 20, in fondo a un canyon a nord-ovest di Gadgetzan.",
+ "quests": {
+  "2936": {
+   "objective": "Leggi la Tablet of Theka, accanto a Theka the Martyr, per scoprire il nome del dio ragno.",
+   "note": "La catena inizia con una Venom Bottle che si trova nei campi troll di The Hinterlands, e passa per Apothecary Lydon nelle Alterac Mountains."
+  },
+  "2991": {
+   "objective": "Uccidi Nekrum Gutchewer durante l’evento delle scale e riporta Nekrum's Medallion.",
+   "note": "La catena inizia con Witherbark Cages di Gryphon Master Talonaxe ad Aerie Peak, The Hinterlands. Dopo questa missione continua nelle Blasted Lands e in The Hinterlands."
+  },
+  "2768": {
+   "objective": "Riporta la Divino-matic Rod. La lascia Sergeant Bly alla fine dell’evento delle scale."
+  },
+  "2865": {
+   "objective": "Raccogli 5 Uncracked Scarab Shells dagli Scarab del dungeon.",
+   "note": "Gli Scarab non sono élite e attaccano solo se li colpisci. Krazek a Booty Bay ha una missione facoltativa che ti manda da Tran'rek."
+  },
+  "3042": {
+   "objective": "Raccogli 20 Vials of Troll Temper dai troll élite del dungeon."
+  },
+  "2846": {
+   "objective": "Riporta la Tiara of the Deep. La lascia Hydromancer Velratha.",
+   "note": "Gli istruttori di maghi delle capitali danno Tabetha's Task, una missione facoltativa che ti manda da Tabetha."
+  },
+  "2770": {
+   "objective": "Evoca Gahz'rilla alla vasca e riporta Gahz'rilla's Electrified Scale.",
+   "note": "Un giocatore deve avere il Mallet of Zul'Farrak per colpire il gong. The Brassbolts Brothers, di Klockmort Spannerspan a Tinker Town, manda qui l’Alleanza."
+  },
+  "3527": {
+   "objective": "Riporta la First Mosh'aru Tablet di Theka the Martyr e la Second Mosh'aru Tablet di Hydromancer Velratha.",
+   "note": "Fai prima Screecher Spirits: uccidi dei Vale Screecher a Feralas, usa Yeh'kinya's Bramble sul cadavere e parla con lo spirito, tre volte. La catena prosegue verso il Sunken Temple."
+  }
+ }
+}

@@ -84,6 +84,9 @@ export const hubCategories: HubCategory[] = [
       { key: 'dungeons/scarlet-monastery-cathedral', image: '2026-10-03-wow-forever-scarlet-monastery-cathedral.jpg', levels: '38-46' },
       { key: 'dungeons/razorfen-downs', image: '2026-10-03-wow-forever-razorfen-downs-entrance.jpg', levels: '37-46' },
       { key: 'dungeons/uldaman', levels: '41-51' },
+      // Zul'Farrak en Maraudon (27 oktober 2026): dicht in de beta, buit uit het journal van Classic.
+      { key: 'dungeons/zul-farrak', levels: '40-50' },
+      { key: 'dungeons/maraudon', levels: '41-50' },
     ],
   },
   {
@@ -138,6 +141,8 @@ export const hubCategories: HubCategory[] = [
     cards: [
       // De algemene pagina over WoW Forever, met de tijdlijn (Nutri, 19 oktober 2026).
       { key: '/forever', label: 'cardForever', image: '2026-09-17-wow-forever-cinematic-hunter-and-bear.jpg' },
+      // De rulesets (27 oktober 2026).
+      { key: 'rulesets', image: '2026-09-21-wow-forever-ruleset-hero.jpg' },
       { key: 'flight-paths', image: '2026-09-28-wow-forever-flight-and-ship-routes-map.jpg' },
       { key: 'camping', image: '2026-09-29-wow-forever-camp-in-teldrassil.jpg' },
       { key: 'bmah', image: '2026-09-27-wow-forever-black-market-agents.jpg' },
@@ -192,8 +197,8 @@ export const hubDungeons: HubDungeon[] = [
   { name: 'Razorfen Downs', min: 37, max: 46, key: 'dungeons/razorfen-downs' },
   { name: "Krol'dok Stronghold", min: 40, max: 45, isNew: true },
   { name: 'Uldaman', min: 41, max: 51, key: 'dungeons/uldaman' },
-  { name: "Zul'Farrak", min: 40, max: 50 },
-  { name: 'Maraudon', min: 41, max: 50 },
+  { name: "Zul'Farrak", min: 40, max: 50, key: 'dungeons/zul-farrak' },
+  { name: 'Maraudon', min: 41, max: 50, key: 'dungeons/maraudon' },
   { name: 'Alcaz Prison', min: 48, max: 53, isNew: true },
   { name: 'Sunken Temple', min: 46, max: 54 },
   { name: 'Blackrock Depths', min: 50, max: 60 },

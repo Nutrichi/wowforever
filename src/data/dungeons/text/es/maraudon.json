@@ -1,0 +1,46 @@
+{
+ "location": "Desolace, en el Valley of Spears",
+ "entrance": "En el Valley of Spears, al oeste de Desolace. Una puerta de piedra en el lado oeste del valle lleva a cuevas llenas de élites; allí el camino se divide hacia el portal naranja y el morado.",
+ "quests": {
+  "7068": {
+   "objective": "Consigue 10 Shadowshard Fragments de los Shadowshard Rumblers y Smashers, elementales élite en las cuevas fuera de los portales."
+  },
+  "7070": {
+   "objective": "Consigue 10 Shadowshard Fragments de los Shadowshard Rumblers y Smashers, elementales élite en las cuevas fuera de los portales."
+  },
+  "7029": {
+   "objective": "Llena la Coated Cerulean Vial en un estanque con cristales naranjas fuera del portal naranja. Dentro, usa el vial lleno junto a 8 Vylestem Vines y mata el Noxxious Scion que sale de cada una.",
+   "note": "Los scions son inmunes al daño de naturaleza. El agua azul alrededor de Cavindra no cuenta."
+  },
+  "7041": {
+   "objective": "Llena la Coated Cerulean Vial en un estanque con cristales naranjas fuera del portal naranja. Dentro, usa el vial lleno junto a 8 Vylestem Vines y mata el Noxxious Scion que sale de cada una.",
+   "note": "Los scions son inmunes al daño de naturaleza. El agua azul alrededor de Cavindra no cuenta."
+  },
+  "7064": {
+   "objective": "Mata a Princess Theradras, el último jefe de Maraudon."
+  },
+  "7065": {
+   "objective": "Mata a Princess Theradras, el último jefe de Maraudon."
+  },
+  "7028": {
+   "objective": "Consigue 25 Theradric Crystal Carvings. Muchos monstruos de la mazmorra los sueltan.",
+   "note": "Los datos de Forever piden 25; en Classic eran 15. The Nameless Prophet, en las cuevas de fuera, siempre suelta uno."
+  },
+  "7067": {
+   "objective": "Mata a The Nameless Prophet en las cuevas de fuera para la Amulet of Spirits. Úsala en los espíritus de los cinco Khans, Kolk, Gelk, Magra, Maraudos y Veng, y une sus gemas en la Amulet of Union.",
+   "note": "El Centaur Pariah camina por el camino al sur de Mannoroc Coven."
+  },
+  "7044": {
+   "objective": "Consigue la Celebrian Rod de Noxxion y el Celebrian Diamond de Lord Vyletongue, luego mata a Celebras the Cursed y habla con Celebras the Redeemed.",
+   "note": "Cavindra está en el agua azul de las cuevas fuera del portal naranja."
+  },
+  "7046": {
+   "objective": "Sigue a Celebras the Redeemed mientras crea el Scepter of Celebras, y habla con él cuando acabe el ritual.",
+   "note": "El cetro te lleva directamente a Earth Song Falls desde una sala con cuatro braseros fuera de la mazmorra."
+  },
+  "7066": {
+   "objective": "Lleva la Seed of Life a Keeper Remulos en Moonglade.",
+   "note": "Zaetar's Spirit aparece en el centro del anillo cuando muere Princess Theradras."
+  }
+ }
+}

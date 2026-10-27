@@ -201,7 +201,7 @@ function placeLine(p: DungeonPlace): string {
                     <div class="wf-items" set:html={q.rewards.map(card).join('')} />
                   </>
                 )
-                : <p class="wf-dq__rewardlabel">{t('noReward')}</p>}
+                : <p class="wf-dq__rewardlabel">{t(q.rewardsUnknown ? 'rewardUnknown' : 'noReward')}</p>}
               {q.next.length > 0 && (
                 <p class="wf-dq__chain"><strong>{t('followups')}:</strong>{' '}
                   {q.next.map((c, i) => <>{i > 0 && ', '}{c.id ? <a href={wh('quest', c.id)}>{c.name}</a> : c.name}</>)}
