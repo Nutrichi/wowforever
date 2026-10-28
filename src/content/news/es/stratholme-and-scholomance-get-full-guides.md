@@ -1,7 +1,7 @@
 ---
 title: "Stratholme y Scholomance tienen guías completas"
 description: "Tres nuevas guías de mazmorra para el final del leveo: los dos lados de Stratholme y Scholomance, con botín, misiones, llaves y cada jefe, y lo que ya hay en los datos de Forever."
-date: 2026-10-28T23:45:00+01:00
+date: 2026-10-29T00:05:00+01:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-28-wow-forever-stratholme-map.jpg
@@ -10,7 +10,7 @@ source: "Warcraft Tavern"
 sourceUrl: "https://www.warcrafttavern.com/forever/guides/stratholme/"
 tags: ["forever", "dungeon"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Stratholme y Scholomance ya tienen cada una su propia guía en la web, con botín, misiones y la ruta completa. Stratholme se divide en dos guías, una por lado. En total son 24 misiones y 31 jefes para los niveles 58 a 60.

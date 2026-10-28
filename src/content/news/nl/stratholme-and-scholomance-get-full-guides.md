@@ -1,7 +1,7 @@
 ---
 title: "Stratholme en Scholomance krijgen volledige gidsen"
 description: "Drie nieuwe dungeongidsen voor het einde van de levelweg: beide kanten van Stratholme en Scholomance, met loot, quests, sleutels en elke baas, en wat de data van Forever al bevat."
-date: 2026-10-28T23:45:00+01:00
+date: 2026-10-29T00:05:00+01:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-28-wow-forever-stratholme-map.jpg
@@ -10,7 +10,7 @@ source: "Warcraft Tavern"
 sourceUrl: "https://www.warcrafttavern.com/forever/guides/stratholme/"
 tags: ["forever", "dungeon"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Stratholme en Scholomance hebben nu elk een eigen gids op de site, met loot, quests en de volledige route. Stratholme is opgesplitst in twee gidsen, één per kant. Samen gaat het om 24 quests en 31 bazen voor level 58 tot 60.

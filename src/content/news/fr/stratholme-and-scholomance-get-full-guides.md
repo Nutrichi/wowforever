@@ -1,7 +1,7 @@
 ---
 title: "Stratholme et Scholomance ont des guides complets"
 description: "Trois nouveaux guides de donjon pour la fin du leveling : les deux côtés de Stratholme et Scholomance, avec butin, quêtes, clés et chaque boss, et ce que contiennent déjà les données de Forever."
-date: 2026-10-28T23:45:00+01:00
+date: 2026-10-29T00:05:00+01:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-28-wow-forever-stratholme-map.jpg
@@ -10,7 +10,7 @@ source: "Warcraft Tavern"
 sourceUrl: "https://www.warcrafttavern.com/forever/guides/stratholme/"
 tags: ["forever", "dungeon"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Stratholme et Scholomance ont désormais chacun leur guide sur le site, avec butin, quêtes et parcours complet. Stratholme est divisé en deux guides, un par côté. Au total, cela fait 24 quêtes et 31 boss pour les niveaux 58 à 60.
