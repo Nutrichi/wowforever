@@ -46,6 +46,9 @@ The beta of WoW Forever goes up to level 30 since 1 October. For the dungeons ab
 - **[Dire Maul West](/guides/dungeons/dire-maul-west/)**, levels 56-60: the Crescent Key, the five pylons, all four quests and the five bosses up to Prince Tortheldrin in the Athenaeum.
 - **[Dire Maul North](/guides/dungeons/dire-maul-north/)**, levels 56-60: the keys and doors, the Tribute Run with the Ogre Suit, the King of the Gordok buff, all five quests and the seven ogres up to King Gordok.
 - **[Upper Blackrock Spire](/guides/dungeons/upper-blackrock-spire/)**, levels 58-60: the way up Blackrock Mountain, the Seal of Ascension, all twelve quests and the bosses from Emberseer to General Drakkisath.
+- **[Scholomance](/guides/dungeons/scholomance/)**, levels 58-60: the Skeleton Key, the chain of Eva Sarkhoff, all ten quests and every boss up to Darkmaster Gandling.
+- **[Stratholme Living](/guides/dungeons/stratholme-living/)**, levels 58-60: the main gate, the Scarlet Key, the six postboxes, all six quests and every boss up to Balnazzar.
+- **[Stratholme Undead](/guides/dungeons/stratholme-undead/)**, levels 58-60: the Key to the City, the three ziggurats, Slaughter Square, all eight quests and every boss up to Baron Rivendare.
 
 ## Every dungeon by level
 
@@ -84,8 +87,9 @@ For the dungeons with a guide, the range is the one the game itself gives. For t
 | Blackmaw Hold | 55-60 | not known yet |
 | Shaper's Terrace | 58-60 | not known yet |
 | [Lower Blackrock Spire](/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
-| Scholomance | 54-60 | 10 |
-| Stratholme | 54-60 | 14 |
+| [Scholomance](/guides/dungeons/scholomance/) | 58-60 | 10 |
+| [Stratholme Living](/guides/dungeons/stratholme-living/) | 58-60 | 6 |
+| [Stratholme Undead](/guides/dungeons/stratholme-undead/) | 58-60 | 8 |
 | [Upper Blackrock Spire](/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## How to read the tables

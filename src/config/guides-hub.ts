@@ -95,6 +95,9 @@ export const hubCategories: HubCategory[] = [
       { key: 'dungeons/dire-maul-west', levels: '56-60', isNew: true },
       { key: 'dungeons/dire-maul-north', levels: '56-60', isNew: true },
       { key: 'dungeons/upper-blackrock-spire', levels: '58-60', isNew: true },
+      { key: 'dungeons/scholomance', levels: '58-60', isNew: true },
+      { key: 'dungeons/stratholme-living', levels: '58-60', isNew: true },
+      { key: 'dungeons/stratholme-undead', levels: '58-60', isNew: true },
     ],
   },
   {
@@ -218,7 +221,8 @@ export const hubDungeons: HubDungeon[] = [
   { name: 'Blackmaw Hold', min: 55, max: 60, isNew: true },
   { name: "Shaper's Terrace", min: 58, max: 60, isNew: true },
   { name: 'Lower Blackrock Spire', min: 54, max: 60, key: 'dungeons/lower-blackrock-spire' },
-  { name: 'Scholomance', min: 54, max: 60 },
-  { name: 'Stratholme', min: 54, max: 60 },
+  { name: 'Scholomance', min: 58, max: 60, key: 'dungeons/scholomance' },
+  { name: 'Stratholme: Living', min: 58, max: 60, key: 'dungeons/stratholme-living' },
+  { name: 'Stratholme: Undead', min: 58, max: 60, key: 'dungeons/stratholme-undead' },
   { name: 'Upper Blackrock Spire', min: 54, max: 60, key: 'dungeons/upper-blackrock-spire' },
 ];

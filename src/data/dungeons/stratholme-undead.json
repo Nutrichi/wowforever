@@ -1,0 +1,509 @@
+{
+ "slug": "stratholme-undead",
+ "levels": "58–60",
+ "bosses": [
+  {
+   "name": "Nerub'enkan",
+   "slug": "nerubenkan",
+   "level": "60",
+   "npc": 10437,
+   "items": [
+    16675
+   ]
+  },
+  {
+   "name": "Stonespine",
+   "slug": "stonespine",
+   "level": "60",
+   "npc": 10809,
+   "items": [
+    13397
+   ]
+  },
+  {
+   "name": "Black Guard Swordsmith",
+   "slug": "black-guard-swordsmith",
+   "level": "61",
+   "npc": 11121,
+   "items": [
+    18783,
+    19233
+   ]
+  },
+  {
+   "name": "Baroness Anastari",
+   "slug": "baroness-anastari",
+   "level": "59",
+   "npc": 10436,
+   "items": [
+    16704
+   ]
+  },
+  {
+   "name": "Maleki the Pallid",
+   "slug": "maleki-the-pallid",
+   "level": "61",
+   "npc": 10438,
+   "items": [
+    12833,
+    16691
+   ]
+  },
+  {
+   "name": "Magistrate Barthilas",
+   "slug": "magistrate-barthilas",
+   "level": "58",
+   "npc": 10435,
+   "items": [
+    18722
+   ]
+  },
+  {
+   "name": "Ramstein the Gorger",
+   "slug": "ramstein-the-gorger",
+   "level": "61",
+   "npc": 10439,
+   "items": [
+    16737
+   ]
+  },
+  {
+   "name": "Baron Rivendare",
+   "slug": "baron-rivendare",
+   "level": "62",
+   "npc": 10440,
+   "items": [
+    13340,
+    16678,
+    16687,
+    16694,
+    16699,
+    16709,
+    16719,
+    16728,
+    16732
+   ]
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 6163,
+   "name": "Ramstein",
+   "level": 60,
+   "minLevel": 56,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Nathanos Blightcaller",
+     "kind": "npc",
+     "npc": 11878,
+     "zone": "Eastern Plaguelands",
+     "place": "The Marris Stead",
+     "at": {
+      "x": 26,
+      "y": 74
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Nathanos Blightcaller",
+     "kind": "npc",
+     "npc": 11878,
+     "zone": "Eastern Plaguelands",
+     "place": "The Marris Stead",
+     "at": {
+      "x": 26,
+      "y": 74
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Ranger Lord's Behest",
+     "id": 6133,
+     "optional": false
+    },
+    {
+     "name": "To Kill With Purpose",
+     "id": 6022,
+     "optional": false
+    },
+    {
+     "name": "Un-Life's Little Annoyances",
+     "id": 6042,
+     "optional": false
+    },
+    {
+     "name": "Duskwing, Oh How I Hate Thee...",
+     "id": 6135,
+     "optional": false
+    },
+    {
+     "name": "The Corpulent One",
+     "id": 6136,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5243,
+   "name": "Houses of the Holy",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Leonid Barthalomew the Revered",
+     "kind": "npc",
+     "npc": 11036,
+     "zone": "Eastern Plaguelands",
+     "place": "Light's Hope Chapel",
+     "at": {
+      "x": 81,
+      "y": 57
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Leonid Barthalomew the Revered",
+     "kind": "npc",
+     "npc": 11036,
+     "zone": "Eastern Plaguelands",
+     "place": "Light's Hope Chapel",
+     "at": {
+      "x": 81,
+      "y": 57
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5212,
+   "name": "The Flesh Does Not Lie",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Betina Bigglezink",
+     "kind": "npc",
+     "npc": 11035,
+     "zone": "Eastern Plaguelands",
+     "place": "Light's Hope Chapel",
+     "at": {
+      "x": 81,
+      "y": 59
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Betina Bigglezink",
+     "kind": "npc",
+     "npc": 11035,
+     "zone": "Eastern Plaguelands",
+     "place": "Light's Hope Chapel",
+     "at": {
+      "x": 81,
+      "y": 59
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5213,
+   "name": "The Active Agent",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Betina Bigglezink",
+     "kind": "npc",
+     "npc": 11035,
+     "zone": "Eastern Plaguelands",
+     "place": "Light's Hope Chapel",
+     "at": {
+      "x": 81,
+      "y": 59
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Betina Bigglezink",
+     "kind": "npc",
+     "npc": 11035,
+     "zone": "Eastern Plaguelands",
+     "place": "Light's Hope Chapel",
+     "at": {
+      "x": 81,
+      "y": 59
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Flesh Does Not Lie",
+     "id": 5212,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5125,
+   "name": "Aurius' Reckoning",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Aurius",
+     "kind": "npc",
+     "npc": 10917,
+     "zone": "Stratholme",
+     "place": "Alonsus Chapel"
+    }
+   ],
+   "to": [
+    {
+     "name": "Aurius",
+     "kind": "npc",
+     "npc": 10917,
+     "zone": "Stratholme",
+     "place": "Alonsus Chapel"
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Medallion of Faith",
+     "id": 5122,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5263,
+   "name": "Above and Beyond",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Duke Nicholas Zverenhoff",
+     "kind": "npc",
+     "npc": 11039,
+     "zone": "Eastern Plaguelands",
+     "place": "Light's Hope Chapel",
+     "at": {
+      "x": 81,
+      "y": 59
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Duke Nicholas Zverenhoff",
+     "kind": "npc",
+     "npc": 11039,
+     "zone": "Eastern Plaguelands",
+     "place": "Light's Hope Chapel",
+     "at": {
+      "x": 81,
+      "y": 59
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Archivist",
+     "id": 5251,
+     "optional": false
+    },
+    {
+     "name": "The Truth Comes Crashing Down",
+     "id": 5262,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5463,
+   "name": "Menethil's Gift",
+   "level": 60,
+   "minLevel": 57,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Leonid Barthalomew the Revered",
+     "kind": "npc",
+     "npc": 11036,
+     "zone": "Eastern Plaguelands",
+     "place": "Light's Hope Chapel",
+     "at": {
+      "x": 81,
+      "y": 57
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Menethil's Gift",
+     "kind": "object",
+     "object": null,
+     "zone": "Stratholme",
+     "place": "Slaughter House"
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Human, Ras Frostwhisper",
+     "id": 5461,
+     "optional": false
+    },
+    {
+     "name": "The Dying, Ras Frostwhisper",
+     "id": 5462,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 8945,
+   "name": "Dead Man's Plea",
+   "level": 60,
+   "minLevel": 58,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Anthion Harmon",
+     "kind": "npc",
+     "npc": 16016,
+     "zone": "Eastern Plaguelands",
+     "place": "Stratholme",
+     "at": {
+      "x": 30,
+      "y": 16
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Anthion Harmon",
+     "kind": "npc",
+     "npc": 16016,
+     "zone": "Eastern Plaguelands",
+     "place": "Stratholme",
+     "at": {
+      "x": 30,
+      "y": 16
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "A Supernatural Device",
+     "id": null,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {
+  "12833": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12833\">Plans: Hammer of the Titans</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Requires Blacksmithing (300)</span><span class=\"wf-item__line\">Requires Master Hammersmith</span><span class=\"wf-item__line wf-item__use\">Use: Teaches you how to make a Hammer of the Titans.</span><span class=\"wf-item__line\">Hammer of the Titans</span><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>163 - 246 Damage</span><span>Speed 3.80</span></span><span class=\"wf-item__line\">(53.82 damage per second)</span><span class=\"wf-item__line\">+15 Strength</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Stuns target for 3 sec.</span><span class=\"wf-item__line\">Requires Thorium Bar (50), Arcanite Bar (15), Guardian Stone (4), Enchanted Leather (6), Essence of Earth (10)</span></div></div>",
+  "13340": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_20.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13340\">Cape of the Black Baron</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">45 Armor</span><span class=\"wf-item__line\">+15 Agility</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: +20 Attack Power.</span></div></div>",
+  "13397": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_19.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13397\">Stoneskin Gargoyle Cape</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">43 Armor</span><span class=\"wf-item__line\">+7 Strength</span><span class=\"wf-item__line\">+8 Agility</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+50 Armor</span><span class=\"wf-item__line\">Requires Level 56</span></div></div>",
+  "16675": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_plate_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16675\">Beaststalker's Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">240 Armor</span><span class=\"wf-item__line\">+21 Agility</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+3 Intellect</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__setname\">Beaststalker Armor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +30 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 8% chance to remove a Root effect from yourself. Can only occur once every 60 sec. (Proc chance: 8%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your melee and ranged autoattacks have a 5% chance to energize you for 200 mana. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
+  "16678": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16678\">Beaststalker's Pants</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Mail</span></span><span class=\"wf-item__line\">315 Armor</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+26 Agility</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+12 Spirit</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__setname\">Beaststalker Armor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +30 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 8% chance to remove a Root effect from yourself. Can only occur once every 60 sec. (Proc chance: 8%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your melee and ranged autoattacks have a 5% chance to energize you for 200 mana. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
+  "16687": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16687\">Magister's Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">76 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">+15 Intellect</span><span class=\"wf-item__line\">+21 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 0.9%.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 7.</span><span class=\"wf-item__line wf-item__setname\">Magister's Regalia (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat has a 2% chance of freezing the attacker in place for 3 sec. Can only occur once every 60 sec. (Proc chance: 2%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your spellcasts have a 5% chance to energize you for 200 mana. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
+  "16691": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16691\">Devout Sandals</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Cloth</span></span><span class=\"wf-item__line\">58 Armor</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+17 Spirit</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 11 and damage done by up to 4 for all magical spells and effects.</span><span class=\"wf-item__line wf-item__setname\">Vestments of the Devout (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat has a 2% chance of shielding the wearer in a protective shield which will absorb 488 damage. Can only occur once every 60 sec. (Proc chance: 2%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your spellcasts have a 5% chance to energize you for 200 mana. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
+  "16694": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16694\">Devout Skirt</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">76 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">+15 Intellect</span><span class=\"wf-item__line\">+23 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 24 and damage done by up to 8 for all magical spells and effects.</span><span class=\"wf-item__line wf-item__setname\">Vestments of the Devout (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat has a 2% chance of shielding the wearer in a protective shield which will absorb 488 damage. Can only occur once every 60 sec. (Proc chance: 2%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your spellcasts have a 5% chance to energize you for 200 mana. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
+  "16699": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16699\">Dreadmist Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">76 Armor</span><span class=\"wf-item__line\">+15 Stamina</span><span class=\"wf-item__line\">+14 Intellect</span><span class=\"wf-item__line\">+21 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 12.</span><span class=\"wf-item__line wf-item__setname\">Dreadmist Raiment (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat has a 2% chance of causing the attacker to flee in terror for 2 sec. Can only occur once every 60 sec. (Proc chance: 2%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your spellcasts have a 5% chance to heal you for 270 to 330. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
+  "16704": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16704\">Dreadmist Sandals</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Cloth</span></span><span class=\"wf-item__line\">58 Armor</span><span class=\"wf-item__line\">+17 Stamina</span><span class=\"wf-item__line\">+7 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 9.</span><span class=\"wf-item__line wf-item__setname\">Dreadmist Raiment (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat has a 2% chance of causing the attacker to flee in terror for 2 sec. Can only occur once every 60 sec. (Proc chance: 2%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your spellcasts have a 5% chance to heal you for 270 to 330. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
+  "16709": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16709\">Shadowcraft Pants</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">150 Armor</span><span class=\"wf-item__line\">+25 Agility</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+14 Spirit</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__setname\">Shadowcraft Armor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +30 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 5% chance to remove a Snare effect from yourself. Can only occur once every 60 sec. (Proc chance: 5%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Chance on melee attack to restore 20 Energy.</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 15 health per 5 sec.</span></div></div>",
+  "16719": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16719\">Wildheart Kilt</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">150 Armor</span><span class=\"wf-item__line\">+12 Strength</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+14 Intellect</span><span class=\"wf-item__line\">+14 Spirit</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 24 and damage done by up to 8 for all magical spells and effects.</span><span class=\"wf-item__line wf-item__setname\">Wildheart Raiment (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +30 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 5% chance to increase your movement speed by 10% for 8 sec. Can only occur once every 60 sec. (Proc chance: 5%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Chance on spellcast to restore 200 Mana, on melee attack to regenerate 20 Energy over 5 sec, and when struck by a melee attack to generate 10 Rage.</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
+  "16728": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16728\">Lightforge Legplates</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Plate</span></span><span class=\"wf-item__line\">557 Armor</span><span class=\"wf-item__line\">+20 Strength</span><span class=\"wf-item__line\">+9 Agility</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">Restores +3 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__setname\">Lightforge Armor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck by a harmful spell, has a 7% chance of Silencing the caster for 3 sec. Can only occur once every 60 sec. (Proc chance: 7%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Chance on melee autoattack and spellcast to increase your damage and healing done by magical spells and effects by up to 65 for 10 sec.</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
+  "16732": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16732\">Legplates of Valor</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Plate</span></span><span class=\"wf-item__line\">557 Armor</span><span class=\"wf-item__line\">+23 Strength</span><span class=\"wf-item__line\">+11 Agility</span><span class=\"wf-item__line\">+15 Stamina</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">+17 Block Value</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__setname\">Battlegear of Valor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +15 Strength.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 10% chance to remove a Disarm effect from yourself. Can only occur once every 60 sec. (Proc chance: 10%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Chance on melee attack to heal for 88 to 132 and generate 10 Rage</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 15 health per 5 sec.</span></div></div>",
+  "16737": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_26.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16737\">Gauntlets of Valor</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">386 Armor</span><span class=\"wf-item__line\">+17 Strength</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+8 Spirit</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +4.</span><span class=\"wf-item__line wf-item__setname\">Battlegear of Valor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +15 Strength.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 10% chance to remove a Disarm effect from yourself. Can only occur once every 60 sec. (Proc chance: 10%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Chance on melee attack to heal for 88 to 132 and generate 10 Rage</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 15 health per 5 sec.</span></div></div>",
+  "18722": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18722\">Death Grips</a><span class=\"wf-item__line wf-item__meta\">Item Level 62</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">404 Armor</span><span class=\"wf-item__line\">+22 Strength</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 57</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 0.5%.</span><span class=\"wf-item__line wf-item__use\">Equip: Immune to Disarm.</span></div></div>",
+  "18783": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_note_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18783\">Bottom Half of Advanced Armorsmithing: Volume III</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">Requires Level 50</span><span class=\"wf-item__line wf-item__use\">Use: Combines the Top and Bottom Half of Advanced Armorsmithing: Volume III.</span></div></div>",
+  "19233": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_ticket_tarot_beasts_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=19233\">Five of Beasts</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line wf-item__use\">Use: Combine the Ace through Eight of Beasts to complete the set.</span></div></div>"
+ }
+}

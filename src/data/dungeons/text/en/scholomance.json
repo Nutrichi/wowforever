@@ -1,0 +1,46 @@
+{
+ "location": "Western Plaguelands, on Caer Darrow",
+ "entrance": "The crypt on the island of Caer Darrow in the southeast of the Western Plaguelands. The door needs the Skeleton Key.",
+ "quests": {
+  "5343": {
+   "objective": "Collect the four deeds in Scholomance: Southshore, Tarren Mill, Brill and Caer Darrow.",
+   "note": "Southshore lies in the Reliquary, Tarren Mill in the room after the Chamber of Summoning, Brill in the Laboratory and Caer Darrow next to Lord Alexei Barov. The follow-up The Last Barov sends you into Horde territory."
+  },
+  "5341": {
+   "objective": "Collect the four deeds in Scholomance: Southshore, Tarren Mill, Brill and Caer Darrow.",
+   "note": "The same places as on the Alliance side. The follow-up The Last Barov sends you into Alliance territory."
+  },
+  "5529": {
+   "objective": "Kill 20 Plagued Hatchlings in the Great Ossuary.",
+   "note": "There are a few more than 20 in the room."
+  },
+  "5582": {
+   "objective": "Bring the Healthy Dragon Scale to Betina Bigglezink.",
+   "note": "A Plagued Hatchling drops the scale. Repeatable for Argent Dawn reputation."
+  },
+  "5382": {
+   "objective": "Kill Doctor Theolen Krastinov, then burn the Remains of Eva Sarkhoff and the Remains of Lucien Sarkhoff in his room.",
+   "note": "Leave Jandice Barov and Kirtonos the Herald alive if you want to do the next two quests in the same run."
+  },
+  "5515": {
+   "objective": "Kill Jandice Barov and bring back Krastinov's Bag of Horrors.",
+   "note": "Turn it in outside to Eva Sarkhoff to get the next quest."
+  },
+  "5384": {
+   "objective": "Put the Blood of Innocents in the Brazier of the Herald on the porch and kill Kirtonos the Herald.",
+   "note": "Keep the Spectral Essence you get as a reward: it lets you see Magistrate Marduke."
+  },
+  "4771": {
+   "objective": "Place Dawn's Gambit in the Viewing Room and kill Vectus.",
+   "note": "The chain starts with Tinkee Steamboil at Flame Crest and asks for two runs into The Rookery of Upper Blackrock Spire."
+  },
+  "5466": {
+   "objective": "Use the Soulbound Keepsake on Ras Frostwhisper, kill him in his human form and bring back his head.",
+   "note": "Do not kill him as a lich. The channel takes 10 seconds, and he heals fully when he turns human."
+  },
+  "7668": {
+   "objective": "Use the Divination Scryer in the basement of the Great Ossuary, defeat the spirits and kill Death Knight Darkreaver.",
+   "note": "Shaman only."
+  }
+ }
+}

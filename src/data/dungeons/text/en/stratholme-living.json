@@ -1,0 +1,30 @@
+{
+ "location": "Eastern Plaguelands, in the northwest",
+ "entrance": "The main gate of Stratholme at the end of the stone bridge in the northwest of the Eastern Plaguelands. It leads straight into the Living side.",
+ "quests": {
+  "5848": {
+   "objective": "Find the painting Of Love and Family in the Scarlet Bastion. It hangs behind the Unfinished Painting in the room of Archivist Galford.",
+   "note": "First do the quests of Tirion Fordring at Thondroril River: Redemption, Of Forgotten Memories and Of Lost Honor. Artist Renfray is a ghost in a house on Caer Darrow."
+  },
+  "5214": {
+   "objective": "Kill Ezra Grimm in front of his tobacco shop and bring back Grimm's Premium Tobacco.",
+   "note": "From the main gate, follow the street to the left to a dead end. In the Forever data the quest still carries its old name."
+  },
+  "5251": {
+   "objective": "Kill Archivist Galford and burn the Scarlet Archive, the book on the table behind him.",
+   "note": "Leave Balnazzar alive if you want to do the follow-up in the same run."
+  },
+  "5262": {
+   "objective": "Bring the Head of Balnazzar to Duke Nicholas Zverenhoff at Light's Hope Chapel.",
+   "note": "Only drops after you have turned in The Archivist. The chain continues with Above and Beyond on the Undead side."
+  },
+  "5122": {
+   "objective": "Loot the Medallion of Faith from Malor's Strongbox in the Scarlet Bastion and bring it to Aurius.",
+   "note": "Aurius stands in the chapel at the start of the Undead side. The follow-up is Aurius' Reckoning."
+  },
+  "5282": {
+   "objective": "Use Egan's Blaster on 15 Ghostly or Spectral Citizens, then again on the Restless Soul that appears.",
+   "note": "Do not kill the ghosts. First do the quest of the same name for Caretaker Alen, south of Light's Hope Chapel."
+  }
+ }
+}

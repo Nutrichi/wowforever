@@ -1,0 +1,46 @@
+{
+ "location": "Western Plaguelands, op Caer Darrow",
+ "entrance": "De crypte op het eiland Caer Darrow in het zuidoosten van de Western Plaguelands. De deur vraagt de Skeleton Key.",
+ "quests": {
+  "5343": {
+   "objective": "Verzamel de vier akten in Scholomance: Southshore, Tarren Mill, Brill en Caer Darrow.",
+   "note": "Southshore ligt in de Reliquary, Tarren Mill in de zaal na de Chamber of Summoning, Brill in het Laboratory en Caer Darrow naast Lord Alexei Barov. Het vervolg The Last Barov stuurt je naar het gebied van de Horde."
+  },
+  "5341": {
+   "objective": "Verzamel de vier akten in Scholomance: Southshore, Tarren Mill, Brill en Caer Darrow.",
+   "note": "Dezelfde plekken als bij de Alliance. Het vervolg The Last Barov stuurt je naar het gebied van de Alliance."
+  },
+  "5529": {
+   "objective": "Dood 20 Plagued Hatchlings in de Great Ossuary.",
+   "note": "Er zijn er iets meer dan 20 in de zaal."
+  },
+  "5582": {
+   "objective": "Breng de Healthy Dragon Scale naar Betina Bigglezink.",
+   "note": "Een Plagued Hatchling laat de schub vallen. Herhaalbaar voor reputatie bij de Argent Dawn."
+  },
+  "5382": {
+   "objective": "Dood Doctor Theolen Krastinov en verbrand dan de Remains of Eva Sarkhoff en de Remains of Lucien Sarkhoff in zijn kamer.",
+   "note": "Laat Jandice Barov en Kirtonos the Herald leven als je de volgende twee quests in dezelfde run wilt doen."
+  },
+  "5515": {
+   "objective": "Dood Jandice Barov en breng Krastinov's Bag of Horrors terug.",
+   "note": "Lever buiten in bij Eva Sarkhoff voor de volgende quest."
+  },
+  "5384": {
+   "objective": "Leg het Blood of Innocents in de Brazier of the Herald op de veranda en dood Kirtonos the Herald.",
+   "note": "Houd de Spectral Essence die je als beloning krijgt: daarmee zie je Magistrate Marduke."
+  },
+  "4771": {
+   "objective": "Zet Dawn's Gambit neer in de Viewing Room en dood Vectus.",
+   "note": "De reeks begint bij Tinkee Steamboil in Flame Crest en vraagt twee runs naar The Rookery van Upper Blackrock Spire."
+  },
+  "5466": {
+   "objective": "Gebruik de Soulbound Keepsake op Ras Frostwhisper, dood hem in zijn menselijke vorm en breng zijn hoofd terug.",
+   "note": "Dood hem niet als lich. De channel duurt 10 seconden, en hij healt volledig als hij weer mens wordt."
+  },
+  "7668": {
+   "objective": "Gebruik de Divination Scryer in de kelder van de Great Ossuary, versla de geesten en dood Death Knight Darkreaver.",
+   "note": "Alleen voor Shamans."
+  }
+ }
+}

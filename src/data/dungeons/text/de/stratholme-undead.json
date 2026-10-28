@@ -1,0 +1,38 @@
+{
+ "location": "Eastern Plaguelands, im Nordwesten",
+ "entrance": "Das Eastwall Gate, ein Stück östlich vom Haupttor von Stratholme. Es braucht den Key to the City. Die untote Seite ist auch über die lebende Seite erreichbar.",
+ "quests": {
+  "6163": {
+   "objective": "Töte Ramstein the Gorger auf dem Slaughter Square und bring seinen Kopf zurück.",
+   "note": "Erledige zuerst die fünf Quests von Nathanos Blightcaller in den Eastern Plaguelands, zwei davon Elite. Nur für die Horde."
+  },
+  "5243": {
+   "objective": "Hol 5 Stratholme Holy Water aus den Vorratskisten an den Straßen.",
+   "note": "Manche Kisten sind Fallen und lassen Plagued Insects frei."
+  },
+  "5212": {
+   "objective": "Sammle 20 Plagued Flesh Samples von Untoten in Stratholme.",
+   "note": "Die Daten von Forever verlangen 20 Proben, Classic verlangte 10. Skelette lassen keine fallen. Gib zwischendurch ab, um The Active Agent im selben Run zu machen."
+  },
+  "5213": {
+   "objective": "Finde die Scourge Data in einer kleinen Kiste in einer der drei Zikkurats.",
+   "note": "Die Zikkurats werden von Nerub'enkan, Baroness Anastari und Maleki the Pallid bewacht."
+  },
+  "5125": {
+   "objective": "Sprich nach dem Kampf gegen Baron Rivendare mit Aurius.",
+   "note": "Hat jemand in der Gruppe in dieser Sperre The Medallion of Faith abgegeben, kämpft Aurius gegen den Baron mit."
+  },
+  "5263": {
+   "objective": "Töte Baron Rivendare und bring den Head of Baron Rivendare zu Duke Nicholas Zverenhoff.",
+   "note": "Folgt auf The Archivist und The Truth Comes Crashing Down auf der lebenden Seite."
+  },
+  "5463": {
+   "objective": "Leg das Keepsake of Remembrance auf Menethil's Gift, das leuchtende Zeichen am Boden vor Baron Rivendare.",
+   "note": "Teil der Reihe, die mit Doctor Theolen Krastinov, the Butcher in Scholomance beginnt und mit The Lich, Ras Frostwhisper endet."
+  },
+  "8945": {
+   "objective": "Befreie Ysida Harmon von Baron Rivendare.",
+   "note": "Teil der Reihe für die Sets von Tier 0.5. Das Öffnen des Gauntlet Gate startet einen Timer von 45 Minuten; danach tötet der Baron seine Gefangene."
+  }
+ }
+}

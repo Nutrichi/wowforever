@@ -47,6 +47,9 @@ La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las m
 - **[Dire Maul West](/es/guides/dungeons/dire-maul-west/)**, niveles 56-60: la Crescent Key, los cinco pilones, las cuatro misiones y los cinco jefes hasta Prince Tortheldrin en el Athenaeum.
 - **[Dire Maul North](/es/guides/dungeons/dire-maul-north/)**, niveles 56-60: las llaves y puertas, el Tribute Run con el Ogre Suit, el beneficio King of the Gordok, las cinco misiones y los siete ogros hasta King Gordok.
 - **[Upper Blackrock Spire](/es/guides/dungeons/upper-blackrock-spire/)**, niveles 58-60: la subida por Blackrock Mountain, el Seal of Ascension, las doce misiones y los jefes de Emberseer a General Drakkisath.
+- **[Scholomance](/es/guides/dungeons/scholomance/)**, niveles 58-60: la Skeleton Key, la cadena de Eva Sarkhoff, las diez misiones y cada jefe hasta Darkmaster Gandling.
+- **[Stratholme Living](/es/guides/dungeons/stratholme-living/)**, niveles 58-60: la puerta principal, The Scarlet Key, los seis buzones, las seis misiones y cada jefe hasta Balnazzar.
+- **[Stratholme Undead](/es/guides/dungeons/stratholme-undead/)**, niveles 58-60: la Key to the City, los tres zigurats, Slaughter Square, las ocho misiones y cada jefe hasta Baron Rivendare.
 
 ## Cada mazmorra por nivel
 
@@ -85,8 +88,9 @@ Para las mazmorras con guía, el rango es el que da el propio juego. Para las de
 | Blackmaw Hold | 55-60 | aún no se conocen |
 | Shaper's Terrace | 58-60 | aún no se conocen |
 | [Lower Blackrock Spire](/es/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
-| Scholomance | 54-60 | 10 |
-| Stratholme | 54-60 | 14 |
+| [Scholomance](/es/guides/dungeons/scholomance/) | 58-60 | 10 |
+| [Stratholme Living](/es/guides/dungeons/stratholme-living/) | 58-60 | 6 |
+| [Stratholme Undead](/es/guides/dungeons/stratholme-undead/) | 58-60 | 8 |
 | [Upper Blackrock Spire](/es/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## Cómo leer las tablas

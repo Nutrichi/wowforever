@@ -1,0 +1,38 @@
+{
+ "location": "Eastern Plaguelands, in the northwest",
+ "entrance": "The Eastwall Gate, a little east of the main gate of Stratholme. It needs the Key to the City. The Undead side can also be reached through the Living side.",
+ "quests": {
+  "6163": {
+   "objective": "Kill Ramstein the Gorger in Slaughter Square and bring back his head.",
+   "note": "First do the five quests of Nathanos Blightcaller in the Eastern Plaguelands, two of them elite. Horde only."
+  },
+  "5243": {
+   "objective": "Loot 5 Stratholme Holy Water from the supply crates along the streets.",
+   "note": "Some crates are trapped and release Plagued Insects."
+  },
+  "5212": {
+   "objective": "Loot 20 Plagued Flesh Samples from undead in Stratholme.",
+   "note": "The Forever data asks for 20 samples, Classic asked for 10. Skeletons drop none. Turn it in mid-run to do The Active Agent in the same run."
+  },
+  "5213": {
+   "objective": "Find the Scourge Data in a small box in one of the three ziggurats.",
+   "note": "The ziggurats are guarded by Nerub'enkan, Baroness Anastari and Maleki the Pallid."
+  },
+  "5125": {
+   "objective": "Talk to Aurius after the fight with Baron Rivendare.",
+   "note": "If someone in the group turned in The Medallion of Faith during this lockout, Aurius joins the fight against the Baron."
+  },
+  "5263": {
+   "objective": "Kill Baron Rivendare and bring the Head of Baron Rivendare to Duke Nicholas Zverenhoff.",
+   "note": "Follows The Archivist and The Truth Comes Crashing Down on the Living side."
+  },
+  "5463": {
+   "objective": "Place the Keepsake of Remembrance on Menethil's Gift, the glowing symbol on the floor in front of Baron Rivendare.",
+   "note": "Part of the chain that starts with Doctor Theolen Krastinov, the Butcher in Scholomance and ends with The Lich, Ras Frostwhisper."
+  },
+  "8945": {
+   "objective": "Free Ysida Harmon from Baron Rivendare.",
+   "note": "Part of the chain for the Tier 0.5 sets. Opening the Gauntlet Gate starts a timer of 45 minutes; after that the Baron kills his prisoner."
+  }
+ }
+}

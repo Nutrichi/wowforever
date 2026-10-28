@@ -1,0 +1,30 @@
+{
+ "location": "Eastern Plaguelands, a nord-ovest",
+ "entrance": "La porta principale di Stratholme in fondo al ponte di pietra, a nord-ovest delle Eastern Plaguelands. Porta dritta al lato vivente.",
+ "quests": {
+  "5848": {
+   "objective": "Trova il dipinto Of Love and Family nella Scarlet Bastion. È appeso dietro l'Unfinished Painting, nella sala di Archivist Galford.",
+   "note": "Fai prima le missioni di Tirion Fordring al Thondroril River: Redemption, Of Forgotten Memories e Of Lost Honor. Artist Renfray è un fantasma in una casa di Caer Darrow."
+  },
+  "5214": {
+   "objective": "Uccidi Ezra Grimm davanti al suo negozio di tabacco e riporta Grimm's Premium Tobacco.",
+   "note": "Dalla porta principale segui la strada a sinistra fino a un vicolo cieco. Nei dati di Forever la missione porta ancora il vecchio nome."
+  },
+  "5251": {
+   "objective": "Uccidi Archivist Galford e brucia lo Scarlet Archive, il libro sul tavolo dietro di lui.",
+   "note": "Lascia vivo Balnazzar se vuoi fare il seguito nella stessa run."
+  },
+  "5262": {
+   "objective": "Porta l'Head of Balnazzar a Duke Nicholas Zverenhoff a Light's Hope Chapel.",
+   "note": "Cade solo dopo aver consegnato The Archivist. La catena prosegue con Above and Beyond sul lato non morto."
+  },
+  "5122": {
+   "objective": "Prendi il Medallion of Faith da Malor's Strongbox nella Scarlet Bastion e portalo ad Aurius.",
+   "note": "Aurius sta nella cappella all'inizio del lato non morto. Il seguito è Aurius' Reckoning."
+  },
+  "5282": {
+   "objective": "Usa Egan's Blaster su 15 Ghostly o Spectral Citizens, poi di nuovo sulla Restless Soul che appare.",
+   "note": "Non uccidere i fantasmi. Fai prima la missione con lo stesso nome per Caretaker Alen, a sud di Light's Hope Chapel."
+  }
+ }
+}

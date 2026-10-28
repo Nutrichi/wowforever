@@ -1,0 +1,38 @@
+{
+ "location": "Eastern Plaguelands, a nord-ovest",
+ "entrance": "La Eastwall Gate, poco a est della porta principale di Stratholme. Richiede la Key to the City. Il lato non morto si raggiunge anche dal lato vivente.",
+ "quests": {
+  "6163": {
+   "objective": "Uccidi Ramstein the Gorger in Slaughter Square e riporta la sua testa.",
+   "note": "Fai prima le cinque missioni di Nathanos Blightcaller nelle Eastern Plaguelands, due delle quali élite. Solo per l'Orda."
+  },
+  "5243": {
+   "objective": "Prendi 5 Stratholme Holy Water dalle casse di rifornimento lungo le strade.",
+   "note": "Alcune casse sono trappole e liberano Plagued Insects."
+  },
+  "5212": {
+   "objective": "Raccogli 20 Plagued Flesh Samples dai non morti di Stratholme.",
+   "note": "I dati di Forever chiedono 20 campioni, Classic ne chiedeva 10. Gli scheletri non ne lasciano. Consegna a metà run per fare The Active Agent nella stessa run."
+  },
+  "5213": {
+   "objective": "Trova gli Scourge Data in una piccola cassa, in uno dei tre ziggurat.",
+   "note": "Gli ziggurat sono sorvegliati da Nerub'enkan, Baroness Anastari e Maleki the Pallid."
+  },
+  "5125": {
+   "objective": "Parla con Aurius dopo lo scontro con Baron Rivendare.",
+   "note": "Se qualcuno del gruppo ha consegnato The Medallion of Faith in questo lockout, Aurius combatte con voi contro il Barone."
+  },
+  "5263": {
+   "objective": "Uccidi Baron Rivendare e porta l'Head of Baron Rivendare a Duke Nicholas Zverenhoff.",
+   "note": "Segue The Archivist e The Truth Comes Crashing Down del lato vivente."
+  },
+  "5463": {
+   "objective": "Posa il Keepsake of Remembrance su Menethil's Gift, il simbolo luminoso sul pavimento davanti a Baron Rivendare.",
+   "note": "Fa parte della catena che inizia con Doctor Theolen Krastinov, the Butcher in Scholomance e finisce con The Lich, Ras Frostwhisper."
+  },
+  "8945": {
+   "objective": "Libera Ysida Harmon da Baron Rivendare.",
+   "note": "Fa parte della catena dei set del Tier 0.5. Aprire la Gauntlet Gate fa partire un timer di 45 minuti; poi il Barone uccide la sua prigioniera."
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "location": "Eastern Plaguelands, au nord-ouest",
+ "entrance": "L'Eastwall Gate, un peu à l'est de la porte principale de Stratholme. Elle demande la Key to the City. On peut aussi rejoindre le côté mort-vivant par le côté vivant.",
+ "quests": {
+  "6163": {
+   "objective": "Tuez Ramstein the Gorger sur Slaughter Square et rapportez sa tête.",
+   "note": "Faites d'abord les cinq quêtes de Nathanos Blightcaller dans les Eastern Plaguelands, dont deux élites. Horde uniquement."
+  },
+  "5243": {
+   "objective": "Prenez 5 Stratholme Holy Water dans les caisses de ravitaillement le long des rues.",
+   "note": "Certaines caisses sont piégées et libèrent des Plagued Insects."
+  },
+  "5212": {
+   "objective": "Récupérez 20 Plagued Flesh Samples sur les morts-vivants de Stratholme.",
+   "note": "Les données de Forever demandent 20 échantillons, Classic en demandait 10. Les squelettes n'en donnent pas. Rendez la quête en cours de run pour faire The Active Agent dans la même run."
+  },
+  "5213": {
+   "objective": "Trouvez les Scourge Data dans une petite boîte, dans l'un des trois ziggourats.",
+   "note": "Les ziggourats sont gardés par Nerub'enkan, Baroness Anastari et Maleki the Pallid."
+  },
+  "5125": {
+   "objective": "Parlez à Aurius après le combat contre Baron Rivendare.",
+   "note": "Si quelqu'un du groupe a rendu The Medallion of Faith pendant ce verrouillage, Aurius se joint au combat contre le Baron."
+  },
+  "5263": {
+   "objective": "Tuez Baron Rivendare et apportez le Head of Baron Rivendare à Duke Nicholas Zverenhoff.",
+   "note": "Suit The Archivist et The Truth Comes Crashing Down du côté vivant."
+  },
+  "5463": {
+   "objective": "Posez le Keepsake of Remembrance sur Menethil's Gift, le symbole lumineux au sol devant Baron Rivendare.",
+   "note": "Fait partie de la chaîne qui commence avec Doctor Theolen Krastinov, the Butcher à Scholomance et finit avec The Lich, Ras Frostwhisper."
+  },
+  "8945": {
+   "objective": "Libérez Ysida Harmon de Baron Rivendare.",
+   "note": "Fait partie de la chaîne des ensembles du Tier 0.5. Ouvrir la Gauntlet Gate lance un compte à rebours de 45 minutes ; ensuite le Baron tue sa prisonnière."
+  }
+ }
+}

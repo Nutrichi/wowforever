@@ -1,0 +1,46 @@
+{
+ "location": "Western Plaguelands, en Caer Darrow",
+ "entrance": "La cripta en la isla de Caer Darrow, en el sureste de las Western Plaguelands. La puerta pide la Skeleton Key.",
+ "quests": {
+  "5343": {
+   "objective": "Reúne las cuatro escrituras en Scholomance: Southshore, Tarren Mill, Brill y Caer Darrow.",
+   "note": "Southshore está en la Reliquary, Tarren Mill en la sala tras la Chamber of Summoning, Brill en el Laboratory y Caer Darrow junto a Lord Alexei Barov. La continuación The Last Barov te manda a territorio de la Horda."
+  },
+  "5341": {
+   "objective": "Reúne las cuatro escrituras en Scholomance: Southshore, Tarren Mill, Brill y Caer Darrow.",
+   "note": "Los mismos sitios que en la Alianza. La continuación The Last Barov te manda a territorio de la Alianza."
+  },
+  "5529": {
+   "objective": "Mata a 20 Plagued Hatchlings en la Great Ossuary.",
+   "note": "Hay algo más de 20 en la sala."
+  },
+  "5582": {
+   "objective": "Lleva la Healthy Dragon Scale a Betina Bigglezink.",
+   "note": "Un Plagued Hatchling suelta la escama. Repetible para reputación con la Argent Dawn."
+  },
+  "5382": {
+   "objective": "Mata a Doctor Theolen Krastinov y luego quema los Remains of Eva Sarkhoff y los Remains of Lucien Sarkhoff en su sala.",
+   "note": "Deja vivos a Jandice Barov y Kirtonos the Herald si quieres hacer las dos misiones siguientes en la misma run."
+  },
+  "5515": {
+   "objective": "Mata a Jandice Barov y trae Krastinov's Bag of Horrors.",
+   "note": "Entrégala fuera a Eva Sarkhoff para recibir la siguiente."
+  },
+  "5384": {
+   "objective": "Pon la Blood of Innocents en el Brazier of the Herald del porche y mata a Kirtonos the Herald.",
+   "note": "Guarda la Spectral Essence que recibes como recompensa: con ella ves a Magistrate Marduke."
+  },
+  "4771": {
+   "objective": "Coloca Dawn's Gambit en la Viewing Room y mata a Vectus.",
+   "note": "La cadena empieza con Tinkee Steamboil en Flame Crest y pide dos visitas a The Rookery de Upper Blackrock Spire."
+  },
+  "5466": {
+   "objective": "Usa el Soulbound Keepsake en Ras Frostwhisper, mátalo en su forma humana y trae su cabeza.",
+   "note": "No lo mates como liche. La canalización dura 10 segundos, y se cura del todo al volver a ser humano."
+  },
+  "7668": {
+   "objective": "Usa el Divination Scryer en el sótano de la Great Ossuary, vence a los espíritus y mata a Death Knight Darkreaver.",
+   "note": "Solo para Shamans."
+  }
+ }
+}

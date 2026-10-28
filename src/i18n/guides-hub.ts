@@ -311,7 +311,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/upper-blackrock-spire": "The way up Blackrock Mountain, the Seal of Ascension, all twelve quests and the bosses from Emberseer to General Drakkisath",
     "dungeons/lower-blackrock-spire": "The way up Blackrock Mountain, all twelve quests, the Urok Doomhowl event and the nine bosses up to Overlord Wyrmthalak",
     "dungeons/blackrock-depths": "The way down Blackrock Mountain, the keys, all twenty-two quests, the Ring of Law, the Grim Guzzler and every boss up to the Emperor",
-    "dungeons/sunken-temple": "The way in through the Swamp of Sorrows, Atal'alarion and the shrines, all nine quests, the troll guardians and the Avatar of Hakkar"
+    "dungeons/sunken-temple": "The way in through the Swamp of Sorrows, Atal'alarion and the shrines, all nine quests, the troll guardians and the Avatar of Hakkar",
+    "dungeons/scholomance": "The Skeleton Key, the chain of Eva Sarkhoff, all ten quests and every boss up to Darkmaster Gandling",
+    "dungeons/stratholme-living": "The main gate, the Scarlet Key, the six postboxes, all six quests and every boss up to Balnazzar",
+    "dungeons/stratholme-undead": "The Key to the City, the three ziggurats, Slaughter Square, all eight quests and every boss up to Baron Rivendare"
   },
   "nl": {
     "journey": "De leveladdon Journey voor WoW Forever: gratis tot level 30, de prijs voor de route tot 60, installeren en 10% korting met code NUTRI",
@@ -401,7 +404,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/upper-blackrock-spire": "De weg naar boven in Blackrock Mountain, de Seal of Ascension, alle twaalf de quests en de bazen van Emberseer tot General Drakkisath",
     "dungeons/lower-blackrock-spire": "De weg naar boven in Blackrock Mountain, alle twaalf de quests, het event van Urok Doomhowl en de negen bazen tot Overlord Wyrmthalak",
     "dungeons/blackrock-depths": "De weg naar beneden in Blackrock Mountain, de sleutels, alle tweeëntwintig quests, de Ring of Law, de Grim Guzzler en elke baas tot de keizer",
-    "dungeons/sunken-temple": "De weg erin door de Swamp of Sorrows, Atal'alarion en de heiligdommen, alle negen de quests, de trollenwachters en de Avatar of Hakkar"
+    "dungeons/sunken-temple": "De weg erin door de Swamp of Sorrows, Atal'alarion en de heiligdommen, alle negen de quests, de trollenwachters en de Avatar of Hakkar",
+    "dungeons/scholomance": "De Skeleton Key, de reeks van Eva Sarkhoff, alle tien de quests en elke baas tot Darkmaster Gandling",
+    "dungeons/stratholme-living": "De hoofdpoort, The Scarlet Key, de zes postbussen, alle zes de quests en elke baas tot Balnazzar",
+    "dungeons/stratholme-undead": "De Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare"
   },
   "fr": {
     "journey": "L'addon de leveling Journey pour WoW Forever : gratuit jusqu'au niveau 30, le prix de la route jusqu'au 60, l'installation et 10 % de réduction avec le code NUTRI",
@@ -491,7 +497,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/upper-blackrock-spire": "La montée dans Blackrock Mountain, le Seal of Ascension, les douze quêtes et les boss d’Emberseer à General Drakkisath",
     "dungeons/lower-blackrock-spire": "La montée dans Blackrock Mountain, les douze quêtes, l’événement d’Urok Doomhowl et les neuf boss jusqu’à Overlord Wyrmthalak",
     "dungeons/blackrock-depths": "La descente dans Blackrock Mountain, les clés, les vingt-deux quêtes, le Ring of Law, le Grim Guzzler et chaque boss jusqu’à l’empereur",
-    "dungeons/sunken-temple": "L’accès par le Swamp of Sorrows, Atal'alarion et les autels, les neuf quêtes, les gardiens trolls et l’Avatar of Hakkar"
+    "dungeons/sunken-temple": "L’accès par le Swamp of Sorrows, Atal'alarion et les autels, les neuf quêtes, les gardiens trolls et l’Avatar of Hakkar",
+    "dungeons/scholomance": "La Skeleton Key, la chaîne d’Eva Sarkhoff, les dix quêtes et chaque boss jusqu’à Darkmaster Gandling",
+    "dungeons/stratholme-living": "La porte principale, The Scarlet Key, les six boîtes aux lettres, les six quêtes et chaque boss jusqu’à Balnazzar",
+    "dungeons/stratholme-undead": "La Key to the City, les trois ziggourats, Slaughter Square, les huit quêtes et chaque boss jusqu’à Baron Rivendare"
   },
   "es": {
     "journey": "El addon de subida Journey para WoW Forever: gratis hasta el nivel 30, el precio de la ruta hasta el 60, cómo instalarlo y un 10 % de descuento con el código NUTRI",
@@ -581,7 +590,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/upper-blackrock-spire": "La subida por Blackrock Mountain, el Seal of Ascension, las doce misiones y los jefes de Emberseer a General Drakkisath",
     "dungeons/lower-blackrock-spire": "La subida por Blackrock Mountain, las doce misiones, el evento de Urok Doomhowl y los nueve jefes hasta Overlord Wyrmthalak",
     "dungeons/blackrock-depths": "La bajada por Blackrock Mountain, las llaves, las veintidós misiones, el Ring of Law, el Grim Guzzler y cada jefe hasta el emperador",
-    "dungeons/sunken-temple": "La entrada por el Swamp of Sorrows, Atal'alarion y los santuarios, las nueve misiones, los guardianes trols y el Avatar of Hakkar"
+    "dungeons/sunken-temple": "La entrada por el Swamp of Sorrows, Atal'alarion y los santuarios, las nueve misiones, los guardianes trols y el Avatar of Hakkar",
+    "dungeons/scholomance": "La Skeleton Key, la cadena de Eva Sarkhoff, las diez misiones y cada jefe hasta Darkmaster Gandling",
+    "dungeons/stratholme-living": "La puerta principal, The Scarlet Key, los seis buzones, las seis misiones y cada jefe hasta Balnazzar",
+    "dungeons/stratholme-undead": "La Key to the City, los tres zigurats, Slaughter Square, las ocho misiones y cada jefe hasta Baron Rivendare"
   },
   "it": {
     "journey": "L'addon di leveling Journey per WoW Forever: gratis fino al livello 30, il prezzo del percorso fino al 60, come installarlo e il 10% di sconto con il codice NUTRI",
@@ -671,7 +683,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/upper-blackrock-spire": "La salita in Blackrock Mountain, il Seal of Ascension, le dodici missioni e i boss da Emberseer a General Drakkisath",
     "dungeons/lower-blackrock-spire": "La salita in Blackrock Mountain, le dodici missioni, l’evento di Urok Doomhowl e i nove boss fino a Overlord Wyrmthalak",
     "dungeons/blackrock-depths": "La discesa in Blackrock Mountain, le chiavi, le ventidue missioni, il Ring of Law, il Grim Guzzler e ogni boss fino all’imperatore",
-    "dungeons/sunken-temple": "L’ingresso dallo Swamp of Sorrows, Atal'alarion e i santuari, le nove missioni, i guardiani troll e l’Avatar of Hakkar"
+    "dungeons/sunken-temple": "L’ingresso dallo Swamp of Sorrows, Atal'alarion e i santuari, le nove missioni, i guardiani troll e l’Avatar of Hakkar",
+    "dungeons/scholomance": "La Skeleton Key, la catena di Eva Sarkhoff, le dieci missioni e ogni boss fino a Darkmaster Gandling",
+    "dungeons/stratholme-living": "La porta principale, The Scarlet Key, le sei cassette postali, le sei missioni e ogni boss fino a Balnazzar",
+    "dungeons/stratholme-undead": "La Key to the City, i tre ziggurat, Slaughter Square, le otto missioni e ogni boss fino a Baron Rivendare"
   },
   "de": {
     "journey": "Das Leveling-Addon Journey für WoW Forever: kostenlos bis Level 30, der Preis für die Route bis 60, die Installation und 10 % Rabatt mit dem Code NUTRI",
@@ -761,7 +776,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/upper-blackrock-spire": "Der Weg nach oben in Blackrock Mountain, das Seal of Ascension, alle zwölf Quests und die Bosse von Emberseer bis General Drakkisath",
     "dungeons/lower-blackrock-spire": "Der Weg nach oben in Blackrock Mountain, alle zwölf Quests, das Event von Urok Doomhowl und die neun Bosse bis Overlord Wyrmthalak",
     "dungeons/blackrock-depths": "Der Weg hinunter in Blackrock Mountain, die Schlüssel, alle zweiundzwanzig Quests, der Ring of Law, der Grim Guzzler und jeder Boss bis zum Kaiser",
-    "dungeons/sunken-temple": "Der Weg durch die Swamp of Sorrows, Atal'alarion und die Schreine, alle neun Quests, die Trollwächter und der Avatar of Hakkar"
+    "dungeons/sunken-temple": "Der Weg durch die Swamp of Sorrows, Atal'alarion und die Schreine, alle neun Quests, die Trollwächter und der Avatar of Hakkar",
+    "dungeons/scholomance": "Der Skeleton Key, die Reihe von Eva Sarkhoff, alle zehn Quests und jeder Boss bis Darkmaster Gandling",
+    "dungeons/stratholme-living": "Das Haupttor, The Scarlet Key, die sechs Briefkästen, alle sechs Quests und jeder Boss bis Balnazzar",
+    "dungeons/stratholme-undead": "Der Key to the City, die drei Zikkurats, der Slaughter Square, alle acht Quests und jeder Boss bis Baron Rivendare"
   }
 };
 

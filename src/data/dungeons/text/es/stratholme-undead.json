@@ -1,0 +1,38 @@
+{
+ "location": "Eastern Plaguelands, en el noroeste",
+ "entrance": "La Eastwall Gate, un poco al este de la puerta principal de Stratholme. Pide la Key to the City. Al lado no muerto también se llega por el lado vivo.",
+ "quests": {
+  "6163": {
+   "objective": "Mata a Ramstein the Gorger en Slaughter Square y trae su cabeza.",
+   "note": "Haz primero las cinco misiones de Nathanos Blightcaller en las Eastern Plaguelands, dos de ellas élite. Solo para la Horda."
+  },
+  "5243": {
+   "objective": "Saca 5 Stratholme Holy Water de las cajas de suministros junto a las calles.",
+   "note": "Algunas cajas tienen trampa y sueltan Plagued Insects."
+  },
+  "5212": {
+   "objective": "Consigue 20 Plagued Flesh Samples de no muertos en Stratholme.",
+   "note": "Los datos de Forever piden 20 muestras; Classic pedía 10. Los esqueletos no las sueltan. Entrega a mitad de run para hacer The Active Agent en la misma run."
+  },
+  "5213": {
+   "objective": "Encuentra los Scourge Data en una cajita, en uno de los tres zigurats.",
+   "note": "Los zigurats los guardan Nerub'enkan, Baroness Anastari y Maleki the Pallid."
+  },
+  "5125": {
+   "objective": "Habla con Aurius después del combate con Baron Rivendare.",
+   "note": "Si alguien del grupo entregó The Medallion of Faith en este bloqueo, Aurius lucha contra el Barón con vosotros."
+  },
+  "5263": {
+   "objective": "Mata a Baron Rivendare y lleva el Head of Baron Rivendare a Duke Nicholas Zverenhoff.",
+   "note": "Sigue a The Archivist y The Truth Comes Crashing Down del lado vivo."
+  },
+  "5463": {
+   "objective": "Pon el Keepsake of Remembrance sobre Menethil's Gift, el símbolo brillante del suelo delante de Baron Rivendare.",
+   "note": "Parte de la cadena que empieza con Doctor Theolen Krastinov, the Butcher en Scholomance y termina con The Lich, Ras Frostwhisper."
+  },
+  "8945": {
+   "objective": "Libera a Ysida Harmon de Baron Rivendare.",
+   "note": "Parte de la cadena de los conjuntos de Tier 0.5. Abrir la Gauntlet Gate inicia un temporizador de 45 minutos; después el Barón mata a su prisionera."
+  }
+ }
+}

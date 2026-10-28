@@ -1,0 +1,30 @@
+{
+ "location": "Eastern Plaguelands, in het noordwesten",
+ "entrance": "De hoofdpoort van Stratholme aan het einde van de stenen brug in het noordwesten van de Eastern Plaguelands. Ze leidt rechtstreeks naar de levende kant.",
+ "quests": {
+  "5848": {
+   "objective": "Vind het schilderij Of Love and Family in de Scarlet Bastion. Het hangt achter het Unfinished Painting in de kamer van Archivist Galford.",
+   "note": "Doe eerst de quests van Tirion Fordring aan de Thondroril River: Redemption, Of Forgotten Memories en Of Lost Honor. Artist Renfray is een geest in een huis op Caer Darrow."
+  },
+  "5214": {
+   "objective": "Dood Ezra Grimm voor zijn tabakswinkel en breng Grimm's Premium Tobacco terug.",
+   "note": "Volg vanaf de hoofdpoort de straat naar links tot een doodlopend stuk. In de data van Forever draagt de quest nog zijn oude naam."
+  },
+  "5251": {
+   "objective": "Dood Archivist Galford en steek het Scarlet Archive in brand, het boek op de tafel achter hem.",
+   "note": "Laat Balnazzar leven als je het vervolg in dezelfde run wilt doen."
+  },
+  "5262": {
+   "objective": "Breng het Head of Balnazzar naar Duke Nicholas Zverenhoff in Light's Hope Chapel.",
+   "note": "Valt pas nadat je The Archivist hebt ingeleverd. De reeks gaat verder met Above and Beyond aan de undead kant."
+  },
+  "5122": {
+   "objective": "Haal het Medallion of Faith uit Malor's Strongbox in de Scarlet Bastion en breng het naar Aurius.",
+   "note": "Aurius staat in de kapel aan het begin van de undead kant. Het vervolg is Aurius' Reckoning."
+  },
+  "5282": {
+   "objective": "Gebruik Egan's Blaster op 15 Ghostly of Spectral Citizens, en daarna nog eens op de Restless Soul die verschijnt.",
+   "note": "Dood de geesten niet. Doe eerst de quest met dezelfde naam voor Caretaker Alen, ten zuiden van Light's Hope Chapel."
+  }
+ }
+}

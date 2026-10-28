@@ -1,0 +1,46 @@
+{
+ "location": "Western Plaguelands, sur Caer Darrow",
+ "entrance": "La crypte sur l'île de Caer Darrow, au sud-est des Western Plaguelands. La porte demande la Skeleton Key.",
+ "quests": {
+  "5343": {
+   "objective": "Réunissez les quatre actes dans Scholomance : Southshore, Tarren Mill, Brill et Caer Darrow.",
+   "note": "Southshore se trouve dans la Reliquary, Tarren Mill dans la salle après la Chamber of Summoning, Brill dans le Laboratory et Caer Darrow à côté de Lord Alexei Barov. La suite The Last Barov vous envoie en territoire de la Horde."
+  },
+  "5341": {
+   "objective": "Réunissez les quatre actes dans Scholomance : Southshore, Tarren Mill, Brill et Caer Darrow.",
+   "note": "Les mêmes endroits que pour l'Alliance. La suite The Last Barov vous envoie en territoire de l'Alliance."
+  },
+  "5529": {
+   "objective": "Tuez 20 Plagued Hatchlings dans la Great Ossuary.",
+   "note": "Il y en a un peu plus de 20 dans la salle."
+  },
+  "5582": {
+   "objective": "Apportez la Healthy Dragon Scale à Betina Bigglezink.",
+   "note": "Un Plagued Hatchling laisse tomber l'écaille. Répétable pour la réputation de l'Argent Dawn."
+  },
+  "5382": {
+   "objective": "Tuez Doctor Theolen Krastinov, puis brûlez les Remains of Eva Sarkhoff et les Remains of Lucien Sarkhoff dans sa salle.",
+   "note": "Laissez Jandice Barov et Kirtonos the Herald en vie si vous voulez faire les deux quêtes suivantes dans la même run."
+  },
+  "5515": {
+   "objective": "Tuez Jandice Barov et rapportez Krastinov's Bag of Horrors.",
+   "note": "Rendez la quête dehors à Eva Sarkhoff pour obtenir la suivante."
+  },
+  "5384": {
+   "objective": "Placez le Blood of Innocents dans le Brazier of the Herald, sur le porche, et tuez Kirtonos the Herald.",
+   "note": "Gardez la Spectral Essence reçue en récompense : elle permet de voir Magistrate Marduke."
+  },
+  "4771": {
+   "objective": "Posez Dawn's Gambit dans la Viewing Room et tuez Vectus.",
+   "note": "La chaîne commence auprès de Tinkee Steamboil à Flame Crest et demande deux passages dans The Rookery d'Upper Blackrock Spire."
+  },
+  "5466": {
+   "objective": "Utilisez le Soulbound Keepsake sur Ras Frostwhisper, tuez-le sous sa forme humaine et rapportez sa tête.",
+   "note": "Ne le tuez pas sous sa forme de liche. La canalisation dure 10 secondes, et il se soigne entièrement en redevenant humain."
+  },
+  "7668": {
+   "objective": "Utilisez le Divination Scryer au sous-sol de la Great Ossuary, battez les esprits et tuez Death Knight Darkreaver.",
+   "note": "Shamans uniquement."
+  }
+ }
+}

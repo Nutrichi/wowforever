@@ -1,0 +1,38 @@
+{
+ "location": "Eastern Plaguelands, in het noordwesten",
+ "entrance": "De Eastwall Gate, een stukje ten oosten van de hoofdpoort van Stratholme. Ze vraagt de Key to the City. De undead kant is ook bereikbaar via de levende kant.",
+ "quests": {
+  "6163": {
+   "objective": "Dood Ramstein the Gorger op Slaughter Square en breng zijn hoofd terug.",
+   "note": "Doe eerst de vijf quests van Nathanos Blightcaller in de Eastern Plaguelands, waarvan twee elite. Alleen voor de Horde."
+  },
+  "5243": {
+   "objective": "Haal 5 Stratholme Holy Water uit de voorraadkisten langs de straten.",
+   "note": "Sommige kisten zijn een val en laten Plagued Insects los."
+  },
+  "5212": {
+   "objective": "Verzamel 20 Plagued Flesh Samples van undead in Stratholme.",
+   "note": "De data van Forever vraagt 20 samples, Classic vroeg er 10. Skeletten laten niets vallen. Lever halverwege in om The Active Agent in dezelfde run te doen."
+  },
+  "5213": {
+   "objective": "Vind de Scourge Data in een kistje in een van de drie ziggurats.",
+   "note": "De ziggurats worden bewaakt door Nerub'enkan, Baroness Anastari en Maleki the Pallid."
+  },
+  "5125": {
+   "objective": "Praat met Aurius na het gevecht met Baron Rivendare.",
+   "note": "Leverde iemand in de groep in deze lockout The Medallion of Faith in, dan vecht Aurius mee tegen de Baron."
+  },
+  "5263": {
+   "objective": "Dood Baron Rivendare en breng het Head of Baron Rivendare naar Duke Nicholas Zverenhoff.",
+   "note": "Volgt op The Archivist en The Truth Comes Crashing Down aan de levende kant."
+  },
+  "5463": {
+   "objective": "Leg de Keepsake of Remembrance op Menethil's Gift, het gloeiende teken op de vloer voor Baron Rivendare.",
+   "note": "Deel van de reeks die begint met Doctor Theolen Krastinov, the Butcher in Scholomance en eindigt met The Lich, Ras Frostwhisper."
+  },
+  "8945": {
+   "objective": "Bevrijd Ysida Harmon van Baron Rivendare.",
+   "note": "Deel van de reeks voor de sets van Tier 0.5. Het openen van de Gauntlet Gate start een timer van 45 minuten; daarna doodt de Baron zijn gevangene."
+  }
+ }
+}

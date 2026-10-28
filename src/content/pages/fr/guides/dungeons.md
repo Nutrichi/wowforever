@@ -47,6 +47,9 @@ La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les 
 - **[Dire Maul West](/fr/guides/dungeons/dire-maul-west/)**, niveaux 56-60: la Crescent Key, les cinq pylônes, les quatre quêtes et les cinq boss jusqu’à Prince Tortheldrin dans l’Athenaeum.
 - **[Dire Maul North](/fr/guides/dungeons/dire-maul-north/)**, niveaux 56-60: les clés et les portes, le Tribute Run avec l’Ogre Suit, le buff King of the Gordok, les cinq quêtes et les sept ogres jusqu’à King Gordok.
 - **[Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/)**, niveaux 58-60: la montée dans Blackrock Mountain, le Seal of Ascension, les douze quêtes et les boss d’Emberseer à General Drakkisath.
+- **[Scholomance](/fr/guides/dungeons/scholomance/)**, niveaux 58-60: la Skeleton Key, la chaîne d’Eva Sarkhoff, les dix quêtes et chaque boss jusqu’à Darkmaster Gandling.
+- **[Stratholme Living](/fr/guides/dungeons/stratholme-living/)**, niveaux 58-60: la porte principale, The Scarlet Key, les six boîtes aux lettres, les six quêtes et chaque boss jusqu’à Balnazzar.
+- **[Stratholme Undead](/fr/guides/dungeons/stratholme-undead/)**, niveaux 58-60: la Key to the City, les trois ziggourats, Slaughter Square, les huit quêtes et chaque boss jusqu’à Baron Rivendare.
 
 ## Chaque donjon par niveau
 
@@ -85,8 +88,9 @@ Pour les donjons qui ont un guide, la fourchette est celle que donne le jeu. Pou
 | Blackmaw Hold | 55-60 | pas encore connues |
 | Shaper's Terrace | 58-60 | pas encore connues |
 | [Lower Blackrock Spire](/fr/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
-| Scholomance | 54-60 | 10 |
-| Stratholme | 54-60 | 14 |
+| [Scholomance](/fr/guides/dungeons/scholomance/) | 58-60 | 10 |
+| [Stratholme Living](/fr/guides/dungeons/stratholme-living/) | 58-60 | 6 |
+| [Stratholme Undead](/fr/guides/dungeons/stratholme-undead/) | 58-60 | 8 |
 | [Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## Comment lire les tableaux

@@ -47,6 +47,9 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 - **[Dire Maul West](/nl/guides/dungeons/dire-maul-west/)**, level 56-60: de Crescent Key, de vijf pylonen, alle vier de quests en de vijf bazen tot Prince Tortheldrin in het Athenaeum.
 - **[Dire Maul North](/nl/guides/dungeons/dire-maul-north/)**, level 56-60: de sleutels en deuren, de Tribute Run met het Ogre Suit, de buff King of the Gordok, alle vijf de quests en de zeven ogres tot King Gordok.
 - **[Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/)**, level 58-60: de weg naar boven in Blackrock Mountain, de Seal of Ascension, alle twaalf de quests en de bazen van Emberseer tot General Drakkisath.
+- **[Scholomance](/nl/guides/dungeons/scholomance/)**, level 58-60: de Skeleton Key, de reeks van Eva Sarkhoff, alle tien de quests en elke baas tot Darkmaster Gandling.
+- **[Stratholme Living](/nl/guides/dungeons/stratholme-living/)**, level 58-60: de hoofdpoort, The Scarlet Key, de zes postbussen, alle zes de quests en elke baas tot Balnazzar.
+- **[Stratholme Undead](/nl/guides/dungeons/stratholme-undead/)**, level 58-60: de Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare.
 
 ## Elke dungeon op level
 
@@ -85,8 +88,9 @@ Voor de dungeons met een gids is het bereik dat van het spel zelf. Voor de ander
 | Blackmaw Hold | 55-60 | nog niet bekend |
 | Shaper's Terrace | 58-60 | nog niet bekend |
 | [Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
-| Scholomance | 54-60 | 10 |
-| Stratholme | 54-60 | 14 |
+| [Scholomance](/nl/guides/dungeons/scholomance/) | 58-60 | 10 |
+| [Stratholme Living](/nl/guides/dungeons/stratholme-living/) | 58-60 | 6 |
+| [Stratholme Undead](/nl/guides/dungeons/stratholme-undead/) | 58-60 | 8 |
 | [Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## Zo lees je de tabellen
