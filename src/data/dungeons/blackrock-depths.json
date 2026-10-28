@@ -1,0 +1,1111 @@
+{
+ "slug": "blackrock-depths",
+ "levels": "50–60",
+ "bosses": [
+  {
+   "name": "High Interrogator Gerstahn",
+   "slug": "high-interrogator-gerstahn",
+   "level": "52",
+   "npc": 9018,
+   "items": [
+    22240
+   ]
+  },
+  {
+   "name": "Lord Roccor",
+   "slug": "lord-roccor",
+   "level": "51",
+   "npc": 9025,
+   "items": [
+    11632,
+    11631
+   ]
+  },
+  {
+   "name": "Houndmaster Grebmar",
+   "slug": "houndmaster-grebmar",
+   "level": "52",
+   "npc": 9319,
+   "items": [
+    11627,
+    11628,
+    11623
+   ]
+  },
+  {
+   "name": "Ring of Law",
+   "slug": "ring-of-law",
+   "level": "",
+   "npc": null,
+   "items": [
+    11726,
+    11728,
+    11729,
+    11633,
+    11730,
+    11731
+   ]
+  },
+  {
+   "name": "Pyromancer Loregrain",
+   "slug": "pyromancer-loregrain",
+   "level": "52",
+   "npc": 9024,
+   "items": [
+    11747,
+    11748,
+    11749,
+    11750
+   ]
+  },
+  {
+   "name": "Lord Incendius",
+   "slug": "lord-incendius",
+   "level": "55",
+   "npc": 9017,
+   "items": [
+    11764,
+    11765
+   ]
+  },
+  {
+   "name": "Warder Stilgiss",
+   "slug": "warder-stilgiss",
+   "level": "56",
+   "npc": 9041,
+   "items": [
+    22241
+   ]
+  },
+  {
+   "name": "Fineous Darkvire",
+   "slug": "fineous-darkvire",
+   "level": "54",
+   "npc": 9056,
+   "items": [
+    11841
+   ]
+  },
+  {
+   "name": "Bael'Gar",
+   "slug": "baelgar",
+   "level": "54",
+   "npc": 9016,
+   "items": []
+  },
+  {
+   "name": "General Angerforge",
+   "slug": "general-angerforge",
+   "level": "57",
+   "npc": 9033,
+   "items": [
+    11817,
+    11821
+   ]
+  },
+  {
+   "name": "Golem Lord Argelmach",
+   "slug": "golem-lord-argelmach",
+   "level": "57",
+   "npc": 8983,
+   "items": [
+    11822,
+    11823
+   ]
+  },
+  {
+   "name": "Hurley Blackbreath",
+   "slug": "hurley-blackbreath",
+   "level": "55",
+   "npc": 9537,
+   "items": [
+    11735
+   ]
+  },
+  {
+   "name": "Phalanx",
+   "slug": "phalanx",
+   "level": "55",
+   "npc": 9502,
+   "items": [
+    11745
+   ]
+  },
+  {
+   "name": "Ribbly Screwspigot",
+   "slug": "ribbly-screwspigot",
+   "level": "53",
+   "npc": 9543,
+   "items": [
+    11612
+   ]
+  },
+  {
+   "name": "Plugger Spazzring",
+   "slug": "plugger-spazzring",
+   "level": "55",
+   "npc": 9499,
+   "items": [
+    18653
+   ]
+  },
+  {
+   "name": "Ambassador Flamelash",
+   "slug": "ambassador-flamelash",
+   "level": "57",
+   "npc": 9156,
+   "items": []
+  },
+  {
+   "name": "The Seven",
+   "slug": "the-seven",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "Magmus",
+   "slug": "magmus",
+   "level": "57",
+   "npc": 9938,
+   "items": [
+    11746
+   ]
+  },
+  {
+   "name": "Emperor Dagran Thaurissan",
+   "slug": "emperor-dagran-thaurissan",
+   "level": "59",
+   "npc": 9019,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 4081,
+   "name": "KILL ON SIGHT: Dark Iron Dwarves",
+   "level": 52,
+   "minLevel": 48,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Wanted Poster",
+     "kind": "object",
+     "object": null,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 4,
+      "y": 47
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Warlord Goretooth",
+     "kind": "npc",
+     "npc": 9077,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 6,
+      "y": 47
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4082,
+   "name": "KILL ON SIGHT: High Ranking Dark Iron Officials",
+   "level": 54,
+   "minLevel": 50,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Wanted Poster",
+     "kind": "object",
+     "object": null,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 4,
+      "y": 47
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Warlord Goretooth",
+     "kind": "npc",
+     "npc": 9077,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 6,
+      "y": 47
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4132,
+   "name": "Operation: Death to Angerforge",
+   "level": 58,
+   "minLevel": 52,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Warlord Goretooth",
+     "kind": "npc",
+     "npc": 9077,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 6,
+      "y": 47
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Warlord Goretooth",
+     "kind": "npc",
+     "npc": 9077,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 6,
+      "y": 47
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4134,
+   "name": "Lost Thunderbrew Recipe",
+   "level": 55,
+   "minLevel": 50,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Shadowmage Vivian Lagrave",
+     "kind": "npc",
+     "npc": 9078,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 3,
+      "y": 48
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Shadowmage Vivian Lagrave",
+     "kind": "npc",
+     "npc": 9078,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 3,
+      "y": 48
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7201,
+   "name": "The Last Element",
+   "level": 54,
+   "minLevel": 48,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Shadowmage Vivian Lagrave",
+     "kind": "npc",
+     "npc": 9078,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 3,
+      "y": 48
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Shadowmage Vivian Lagrave",
+     "kind": "npc",
+     "npc": 9078,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 3,
+      "y": 48
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 3907,
+   "name": "Disharmony of Fire",
+   "level": 56,
+   "minLevel": 48,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Thunderheart",
+     "kind": "npc",
+     "npc": 9084,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 3.6,
+      "y": 48.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Thunderheart",
+     "kind": "npc",
+     "npc": 9084,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 3.6,
+      "y": 48.0
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 3981,
+   "name": "Commander Gor'shak",
+   "level": 52,
+   "minLevel": 48,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Galamav the Marksman",
+     "kind": "npc",
+     "npc": 9081,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 6,
+      "y": 47
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Commander Gor'shak",
+     "kind": "npc",
+     "npc": 9020,
+     "zone": "Blackrock Depths"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4003,
+   "name": "The Royal Rescue",
+   "level": 59,
+   "minLevel": 48,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Thrall",
+     "kind": "npc",
+     "npc": 4949,
+     "zone": "Orgrimmar",
+     "place": "Valley of Wisdom",
+     "at": {
+      "x": 32,
+      "y": 38
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Thrall",
+     "kind": "npc",
+     "npc": 4949,
+     "zone": "Orgrimmar",
+     "place": "Valley of Wisdom",
+     "at": {
+      "x": 32,
+      "y": 38
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4063,
+   "name": "The Rise of the Machines",
+   "level": 58,
+   "minLevel": 52,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Lotwil Veriatus",
+     "kind": "npc",
+     "npc": 2921,
+     "zone": "Badlands",
+     "at": {
+      "x": 25,
+      "y": 44
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Lotwil Veriatus",
+     "kind": "npc",
+     "npc": 2921,
+     "zone": "Badlands",
+     "at": {
+      "x": 25,
+      "y": 44
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4263,
+   "name": "Incendius!",
+   "level": 56,
+   "minLevel": 48,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Jalinda Sprig",
+     "kind": "npc",
+     "npc": 9561,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 85,
+      "y": 70
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Jalinda Sprig",
+     "kind": "npc",
+     "npc": 9561,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 85,
+      "y": 70
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4286,
+   "name": "The Good Stuff",
+   "level": 56,
+   "minLevel": 50,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Oralius",
+     "kind": "npc",
+     "npc": 9177,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 84,
+      "y": 68
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Oralius",
+     "kind": "npc",
+     "npc": 9177,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 84,
+      "y": 68
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4126,
+   "name": "Hurley Blackbreath",
+   "level": 55,
+   "minLevel": 50,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Ragnar Thunderbrew",
+     "kind": "npc",
+     "npc": 1267,
+     "zone": "Dun Morogh",
+     "place": "Kharanos",
+     "at": {
+      "x": 46,
+      "y": 52
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Ragnar Thunderbrew",
+     "kind": "npc",
+     "npc": 1267,
+     "zone": "Dun Morogh",
+     "place": "Kharanos",
+     "at": {
+      "x": 46,
+      "y": 52
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4341,
+   "name": "Kharan Mighthammer",
+   "level": 59,
+   "minLevel": 50,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "King Magni Bronzebeard",
+     "kind": "npc",
+     "npc": 2784,
+     "zone": "Ironforge",
+     "place": "Throne Room",
+     "at": {
+      "x": 39,
+      "y": 56
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Kharan Mighthammer",
+     "kind": "npc",
+     "npc": 9021,
+     "zone": "Blackrock Depths"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4362,
+   "name": "The Fate of the Kingdom",
+   "level": 59,
+   "minLevel": 50,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "King Magni Bronzebeard",
+     "kind": "npc",
+     "npc": 2784,
+     "zone": "Ironforge",
+     "place": "Throne Room",
+     "at": {
+      "x": 39,
+      "y": 56
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "King Magni Bronzebeard",
+     "kind": "npc",
+     "npc": 2784,
+     "zone": "Ironforge",
+     "place": "Throne Room",
+     "at": {
+      "x": 39,
+      "y": 56
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4241,
+   "name": "Marshal Windsor",
+   "level": 54,
+   "minLevel": 48,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Marshal Maxwell",
+     "kind": "npc",
+     "npc": 9560,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 84,
+      "y": 68
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Marshal Windsor",
+     "kind": "npc",
+     "npc": 9023,
+     "zone": "Blackrock Depths"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4322,
+   "name": "Jail Break!",
+   "level": 58,
+   "minLevel": 50,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Marshal Windsor",
+     "kind": "npc",
+     "npc": 9023,
+     "zone": "Blackrock Depths"
+    }
+   ],
+   "to": [
+    {
+     "name": "Marshal Maxwell",
+     "kind": "npc",
+     "npc": 9560,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 84,
+      "y": 68
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4136,
+   "name": "Ribbly Screwspigot",
+   "level": 53,
+   "minLevel": 50,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Yuka Screwspigot",
+     "kind": "npc",
+     "npc": 9544,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 66,
+      "y": 21
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Yuka Screwspigot",
+     "kind": "npc",
+     "npc": 9544,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 66,
+      "y": 21
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4123,
+   "name": "The Heart of the Mountain",
+   "level": 55,
+   "minLevel": 50,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Maxwort Uberglint",
+     "kind": "npc",
+     "npc": 9536,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 23
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Maxwort Uberglint",
+     "kind": "npc",
+     "npc": 9536,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 23
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7848,
+   "name": "Attunement to the Core",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Lothos Riftwaker",
+     "kind": "npc",
+     "npc": 14387,
+     "zone": "Blackrock Mountain"
+    }
+   ],
+   "to": [
+    {
+     "name": "Lothos Riftwaker",
+     "kind": "npc",
+     "npc": 14387,
+     "zone": "Blackrock Mountain"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 3802,
+   "name": "Dark Iron Legacy",
+   "level": 52,
+   "minLevel": 48,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Franclorn Forgewright",
+     "kind": "npc",
+     "npc": 8888,
+     "zone": "Blackrock Mountain"
+    }
+   ],
+   "to": [
+    {
+     "name": "Shrine of Thaurissan",
+     "kind": "object",
+     "object": null,
+     "zone": "Blackrock Depths"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4201,
+   "name": "The Love Potion",
+   "level": 54,
+   "minLevel": 50,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Mistress Nagmara",
+     "kind": "npc",
+     "npc": 9500,
+     "zone": "Blackrock Depths",
+     "place": "The Grim Guzzler"
+    }
+   ],
+   "to": [
+    {
+     "name": "Mistress Nagmara",
+     "kind": "npc",
+     "npc": 9500,
+     "zone": "Blackrock Depths",
+     "place": "The Grim Guzzler"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4024,
+   "name": "A Taste of Flame",
+   "level": 58,
+   "minLevel": 52,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Cyrus Therepentous",
+     "kind": "npc",
+     "npc": 9459,
+     "zone": "Burning Steppes",
+     "at": {
+      "x": 95,
+      "y": 31
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Cyrus Therepentous",
+     "kind": "npc",
+     "npc": 9459,
+     "zone": "Burning Steppes",
+     "at": {
+      "x": 95,
+      "y": 31
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {
+  "11612": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11612\">Plans: Dark Iron Plate</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Requires Blacksmithing (260)</span><span class=\"wf-item__line\">Requires Armorsmith</span><span class=\"wf-item__line wf-item__use\">Use: Teaches you how to make Dark Iron Plate.</span><span class=\"wf-item__line\">Dark Iron Plate</span><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Plate</span></span><span class=\"wf-item__line\">617 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">+200 Armor</span><span class=\"wf-item__line\">+19 Fire Resistance</span><span class=\"wf-item__line\">Durability 135 / 135</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line\">Requires Dark Iron Bar (20), Heart of Fire (8)</span></div></div>",
+  "11623": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_20.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11623\">Spritecaster Cape</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">37 Armor</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+6 Intellect</span><span class=\"wf-item__line\">+6 Spirit</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 14.</span></div></div>",
+  "11627": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11627\">Fleetfoot Greaves</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">218 Armor</span><span class=\"wf-item__line\">+19 Agility</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">+6 Intellect</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 48</span></div></div>",
+  "11628": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_bow_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11628\">Houndmaster's Bow</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Bow</span></span><span class=\"wf-item__row\"><span>34 - 64 Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(27.22 damage per second)</span><span class=\"wf-item__line\">+3 Strength</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: +12 Attack Power.</span><span class=\"wf-item__line wf-item__use\">Equip: +12 Attack Power against Beasts.</span></div></div>",
+  "11631": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11631\">Stoneshell Guard</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">1803 Armor</span><span class=\"wf-item__line\">31 Block</span><span class=\"wf-item__line\">+7 Strength</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+100 Armor</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 47</span></div></div>",
+  "11632": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_26.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11632\">Earthslag Shoulders</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Plate</span></span><span class=\"wf-item__line\">410 Armor</span><span class=\"wf-item__line\">+13 Strength</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 11.</span></div></div>",
+  "11633": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_plate02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11633\">Spiderfang Carapace</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Plate</span></span><span class=\"wf-item__line\">567 Armor</span><span class=\"wf-item__line\">+14 Strength</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+13 Intellect</span><span class=\"wf-item__line\">Durability 135 / 135</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 13.</span></div></div>",
+  "11726": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_chain_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q4\" href=\"https://www.wowhead.com/forever/item=11726\">Savage Gladiator Chain</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Mail</span></span><span class=\"wf-item__line\">369 Armor</span><span class=\"wf-item__line\">+16 Strength</span><span class=\"wf-item__line\">+14 Agility</span><span class=\"wf-item__line\">+18 Stamina</span><span class=\"wf-item__line\">Durability 140 / 140</span><span class=\"wf-item__line\">Requires Level 52</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.5%.</span><span class=\"wf-item__line wf-item__use\">Equip: Reduces the hit chance of Fear effects against you by 4%.</span><span class=\"wf-item__line wf-item__setname\">The Gladiator (0/6)</span><span class=\"wf-item__line wf-item__set\">(2) Set: Reduces the hit chance of Fear effects against you by 8%.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +20 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Chance on hit to gain 5% attack speed for 10 sec. Attacks while no allies are within 20 yds are 2 times as likely to activate this effect.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "11728": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11728\">Savage Gladiator Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Mail</span></span><span class=\"wf-item__line\">296 Armor</span><span class=\"wf-item__line\">+12 Strength</span><span class=\"wf-item__line\">+18 Agility</span><span class=\"wf-item__line\">+19 Stamina</span><span class=\"wf-item__line\">Restores +6 health per 5 sec.</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 52</span><span class=\"wf-item__line wf-item__setname\">The Gladiator (0/6)</span><span class=\"wf-item__line wf-item__set\">(2) Set: Reduces the hit chance of Fear effects against you by 8%.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +20 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Chance on hit to gain 5% attack speed for 10 sec. Attacks while no allies are within 20 yds are 2 times as likely to activate this effect.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "11729": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11729\">Savage Gladiator Helm</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Mail</span></span><span class=\"wf-item__line\">275 Armor</span><span class=\"wf-item__line\">+8 Strength</span><span class=\"wf-item__line\">+12 Agility</span><span class=\"wf-item__line\">+26 Stamina</span><span class=\"wf-item__line\">Durability 70 / 70</span><span class=\"wf-item__line\">Requires Level 52</span><span class=\"wf-item__line wf-item__setname\">The Gladiator (0/6)</span><span class=\"wf-item__line wf-item__set\">(2) Set: Reduces the hit chance of Fear effects against you by 8%.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +20 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Chance on hit to gain 5% attack speed for 10 sec. Attacks while no allies are within 20 yds are 2 times as likely to activate this effect.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "11730": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11730\">Savage Gladiator Grips</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Mail</span></span><span class=\"wf-item__line\">211 Armor</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+9 Agility</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 52</span><span class=\"wf-item__line wf-item__setname\">The Gladiator (0/6)</span><span class=\"wf-item__line wf-item__set\">(2) Set: Reduces the hit chance of Fear effects against you by 8%.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +20 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Chance on hit to gain 5% attack speed for 10 sec. Attacks while no allies are within 20 yds are 2 times as likely to activate this effect.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "11731": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11731\">Savage Gladiator Greaves</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">233 Armor</span><span class=\"wf-item__line\">+9 Strength</span><span class=\"wf-item__line\">+15 Agility</span><span class=\"wf-item__line\">+13 Stamina</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 52</span><span class=\"wf-item__line wf-item__setname\">The Gladiator (0/6)</span><span class=\"wf-item__line wf-item__set\">(2) Set: Reduces the hit chance of Fear effects against you by 8%.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +20 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Chance on hit to gain 5% attack speed for 10 sec. Attacks while no allies are within 20 yds are 2 times as likely to activate this effect.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "11735": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_46.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11735\">Ragefury Eyepatch</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Leather</span></span><span class=\"wf-item__line\">132 Armor</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 52</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 2.0%.</span></div></div>",
+  "11745": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_22.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11745\">Fists of Phalanx</a><span class=\"wf-item__line wf-item__meta\">Item Level 56</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">367 Armor</span><span class=\"wf-item__line\">+20 Strength</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 51</span><span class=\"wf-item__line wf-item__use\">Equip: +4 Attack Power.</span><span class=\"wf-item__line wf-item__use\">Equip: +6 Attack Power against Elementals.</span></div></div>",
+  "11746": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_23.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11746\">Golem Skull Helm</a><span class=\"wf-item__line wf-item__meta\">Item Level 56</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Plate</span></span><span class=\"wf-item__line\">477 Armor</span><span class=\"wf-item__line\">+18 Strength</span><span class=\"wf-item__line\">+18 Stamina</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 51</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +8.</span></div></div>",
+  "11747": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11747\">Flamestrider Robes</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Leather</span></span><span class=\"wf-item__line\">153 Armor</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+4 Intellect</span><span class=\"wf-item__line\">+16 Spirit</span><span class=\"wf-item__line\">+10 Fire Resistance</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 20.</span></div></div>",
+  "11748": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11748\">Pyric Caduceus</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>66 - 123 Fire Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(52.50 damage per second)</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by Fire spells and effects by up to 13.</span></div></div>",
+  "11749": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11749\">Searingscale Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Mail</span></span><span class=\"wf-item__line\">277 Armor</span><span class=\"wf-item__line\">+13 Agility</span><span class=\"wf-item__line\">+13 Stamina</span><span class=\"wf-item__line\">+13 Intellect</span><span class=\"wf-item__line\">+6 Spirit</span><span class=\"wf-item__line\">+10 Fire Resistance</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 48</span></div></div>",
+  "11750": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11750\">Kindling Stave</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>79 - 119 Damage</span><span>Speed 2.90</span></span><span class=\"wf-item__line\">(34.14 damage per second)</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">+10 Fire Resistance</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 60.</span><span class=\"wf-item__line wf-item__use\">Equip: Harmful spell casts have a chance to deal 60 to 81 Fire damage. Deals 3 times as much damage to Plants. (10ms cooldown)</span></div></div>",
+  "11764": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11764\">Cinderhide Armsplints</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Leather</span></span><span class=\"wf-item__line\">71 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">+10 Fire Resistance</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line\">Requires Level 52</span></div></div>",
+  "11765": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11765\">Pyremail Wristguards</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Mail</span></span><span class=\"wf-item__line\">148 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">+10 Fire Resistance</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 52</span></div></div>",
+  "11817": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_25.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11817\">Lord General's Sword</a><span class=\"wf-item__line wf-item__meta\">Item Level 56</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>67 - 125 Damage</span><span>Speed 2.60</span></span><span class=\"wf-item__line\">(36.92 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 51</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Increases attack power by 84 for 10 sec.</span></div></div>",
+  "11821": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11821\">Warstrife Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 58</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">144 Armor</span><span class=\"wf-item__line\">+8 Strength</span><span class=\"wf-item__line\">+7 Agility</span><span class=\"wf-item__line\">+22 Stamina</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 53</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +7.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases your chance to Dodge an attack by 1.0%.</span></div></div>",
+  "11822": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11822\">Omnicast Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Cloth</span></span><span class=\"wf-item__line\">58 Armor</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 20.</span></div></div>",
+  "11823": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11823\">Luminary Kilt</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">147 Armor</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+20 Intellect</span><span class=\"wf-item__line\">+8 Spirit</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 22.</span></div></div>",
+  "11841": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11841\">Senior Designer's Pantaloons</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">69 Armor</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+7 Intellect</span><span class=\"wf-item__line\">+18 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 50</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 37 and damage done by up to 12 for all magical spells and effects.</span></div></div>",
+  "18653": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=18653\">Schematic: Goblin Jumper Cables XL</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Requires Engineering (265)</span><span class=\"wf-item__line\">Requires Goblin Engineer</span><span class=\"wf-item__line wf-item__use\">Use: Teaches you how to make a Goblin Jumper Cable XL.</span><span class=\"wf-item__line\">Goblin Jumper Cables XL</span><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line\">Requires Engineering (265)</span><span class=\"wf-item__line wf-item__use\">Use: Jumper Cables will sometimes be able to shock a dead player back to life. Cannot be used when in combat. (30 Min Cooldown)</span><span class=\"wf-item__line\">Requires Thorium Widget (2), Truesilver Transformer (2), Fused Wiring (2), Ironweb Spider Silk (2), Star Ruby (2)</span></div></div>",
+  "22240": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_chain_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=22240\">Greaves of Withering Despair</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">218 Armor</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 11.</span></div></div>",
+  "22241": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=22241\">Dark Warder's Pauldrons</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Leather</span></span><span class=\"wf-item__line\">122 Armor</span><span class=\"wf-item__line\">+11 Strength</span><span class=\"wf-item__line\">+17 Agility</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 52</span></div></div>"
+ }
+}

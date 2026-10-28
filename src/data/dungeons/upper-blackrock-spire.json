@@ -1,0 +1,539 @@
+{
+ "slug": "upper-blackrock-spire",
+ "levels": "58–60",
+ "bosses": [
+  {
+   "name": "Pyroguard Emberseer",
+   "slug": "pyroguard-emberseer",
+   "level": "",
+   "npc": 9816,
+   "items": []
+  },
+  {
+   "name": "Solakar Flamewreath",
+   "slug": "solakar-flamewreath",
+   "level": "60",
+   "npc": 10264,
+   "items": []
+  },
+  {
+   "name": "Goraluk Anvilcrack",
+   "slug": "goraluk-anvilcrack",
+   "level": "61",
+   "npc": 10899,
+   "items": []
+  },
+  {
+   "name": "Warchief Rend Blackhand",
+   "slug": "warchief-rend-blackhand",
+   "level": "",
+   "npc": 10429,
+   "items": [
+    12952
+   ]
+  },
+  {
+   "name": "The Beast",
+   "slug": "the-beast",
+   "level": "",
+   "npc": 10430,
+   "items": []
+  },
+  {
+   "name": "General Drakkisath",
+   "slug": "general-drakkisath",
+   "level": "",
+   "npc": 10363,
+   "items": [
+    13142,
+    12602
+   ]
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 4768,
+   "name": "The Darkstone Tablet",
+   "level": 60,
+   "minLevel": 57,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Shadowmage Vivian Lagrave",
+     "kind": "npc",
+     "npc": 9078,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 3,
+      "y": 48
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Shadowmage Vivian Lagrave",
+     "kind": "npc",
+     "npc": 9078,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 3,
+      "y": 48
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4974,
+   "name": "For The Horde!",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Thrall",
+     "kind": "npc",
+     "npc": 4949,
+     "zone": "Orgrimmar",
+     "place": "Valley of Wisdom",
+     "at": {
+      "x": 31,
+      "y": 37
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Thrall",
+     "kind": "npc",
+     "npc": 4949,
+     "zone": "Orgrimmar",
+     "place": "Valley of Wisdom",
+     "at": {
+      "x": 31,
+      "y": 37
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 6602,
+   "name": "Blood of the Black Dragon Champion",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Rexxar",
+     "kind": "npc",
+     "npc": 10182,
+     "zone": "Desolace"
+    }
+   ],
+   "to": [
+    {
+     "name": "Rexxar",
+     "kind": "npc",
+     "npc": 10182,
+     "zone": "Desolace"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4764,
+   "name": "Doomrigger's Clasp",
+   "level": 60,
+   "minLevel": 57,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Mayara Brightwing",
+     "kind": "npc",
+     "npc": 9565,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 84,
+      "y": 69
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Mayara Brightwing",
+     "kind": "npc",
+     "npc": 9565,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 84,
+      "y": 69
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5102,
+   "name": "General Drakkisath's Demise",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Marshal Maxwell",
+     "kind": "npc",
+     "npc": 9560,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 84,
+      "y": 68
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Marshal Maxwell",
+     "kind": "npc",
+     "npc": 9560,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 84,
+      "y": 68
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 6502,
+   "name": "Drakefire Amulet",
+   "level": 60,
+   "minLevel": 50,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Haleh",
+     "kind": "npc",
+     "npc": 10929,
+     "zone": "Winterspring",
+     "place": "Mazthoril",
+     "at": {
+      "x": 56,
+      "y": 49
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Haleh",
+     "kind": "npc",
+     "npc": 10929,
+     "zone": "Winterspring",
+     "place": "Mazthoril",
+     "at": {
+      "x": 56,
+      "y": 49
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7761,
+   "name": "Blackhand's Command",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Blackhand's Command",
+     "kind": "item",
+     "item": 18987,
+     "zone": "Blackrock Mountain"
+    }
+   ],
+   "to": [
+    {
+     "name": "Drakkisath's Brand",
+     "kind": "object",
+     "object": null,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5160,
+   "name": "The Matron Protectorate",
+   "level": 60,
+   "minLevel": 57,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Awbee",
+     "kind": "npc",
+     "npc": 10740,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "to": [
+    {
+     "name": "Haleh",
+     "kind": "npc",
+     "npc": 10929,
+     "zone": "Winterspring",
+     "place": "Mazthoril",
+     "at": {
+      "x": 56,
+      "y": 49
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5047,
+   "name": "Finkle Einhorn, At Your Service!",
+   "level": 60,
+   "minLevel": 57,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Pip Quickwit",
+     "kind": "npc",
+     "npc": 10776,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "to": [
+    {
+     "name": "Malyfous Darkhammer",
+     "kind": "npc",
+     "npc": 10637,
+     "zone": "Winterspring",
+     "place": "Everlook"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4735,
+   "name": "Egg Collection",
+   "level": 60,
+   "minLevel": 57,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Tinkee Steamboil",
+     "kind": "npc",
+     "npc": 10267,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 23
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Tinkee Steamboil",
+     "kind": "npc",
+     "npc": 10267,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 23
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 6821,
+   "name": "Eye of the Emberseer",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Duke Hydraxis",
+     "kind": "npc",
+     "npc": 13278,
+     "zone": "Azshara",
+     "at": {
+      "x": 79,
+      "y": 73
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Duke Hydraxis",
+     "kind": "npc",
+     "npc": 13278,
+     "zone": "Azshara",
+     "at": {
+      "x": 79,
+      "y": 73
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5127,
+   "name": "The Demon Forge",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Lorax",
+     "kind": "npc",
+     "npc": 10918,
+     "zone": "Winterspring",
+     "at": {
+      "x": 63,
+      "y": 73
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Lorax",
+     "kind": "npc",
+     "npc": 10918,
+     "zone": "Winterspring",
+     "at": {
+      "x": 63,
+      "y": 73
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {
+  "12602": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_20.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12602\">Draconian Deflector</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">2153 Armor</span><span class=\"wf-item__line\">40 Block</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+8 Fire Resistance</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +10.</span></div></div>",
+  "12952": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_23.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12952\">Gyth's Skull</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Plate</span></span><span class=\"wf-item__line\">509 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">+20 Stamina</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 55</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +9.</span></div></div>",
+  "13142": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_33.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13142\">Brigam Girdle</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Plate</span></span><span class=\"wf-item__line\">369 Armor</span><span class=\"wf-item__line\">+14 Strength</span><span class=\"wf-item__line\">+18 Stamina</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span></div></div>"
+ }
+}

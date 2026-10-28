@@ -1,0 +1,15 @@
+{
+ "location": "Swamp of Sorrows, in het meer in het midden",
+ "entrance": "Zwem naar de tempel in het meer, ga naar beneden tot de Hall of Bones en door de brede deuropening naar het portaal.",
+ "quests": {
+  "1445": {"objective": "Verzamel 20 Fetishes of Hakkar bij de trollen in de tempel.", "note": "Eerst komen drie quests."},
+  "4146": {"objective": "Verzamel 5 stalen Atal'ai Haze met de Unloaded Zapper en breng ze naar Larion in Marshal's Refuge.", "note": "De haze komt van de Deep Lurkers, Murk Worms en oozes in de tempel. Eerst komen twee quests."},
+  "1475": {"objective": "Verzamel 10 Atal'ai Tablets in de tempel voor Brohann Caskbelly.", "note": "Het einde van een reeks van zes quests."},
+  "4143": {"objective": "Verzamel 5 stalen Atal'ai Haze en breng ze naar Muigin in Marshal's Refuge.", "note": "De haze komt van de Deep Lurkers, Murk Worms en oozes in de tempel. Eerst komen twee quests."},
+  "1446": {"objective": "Breng het hoofd van Jammal'an naar de Atal'ai Exile.", "note": "De exile staat in het spinnengebied ten zuidwesten van het Altar of Zul."},
+  "3446": {"objective": "Zoek het Altar of Hakkar in de Sunken Temple.", "note": "Eerst komen twee quests van Marvon Rivetseeker."},
+  "3447": {"objective": "Vind het geheim in de cirkel van beelden en open de kist.", "note": "De cirkel van beelden staat rond het Altar of Hakkar."},
+  "3528": {"objective": "Vul het Egg of Hakkar met het bloed van de Hakkari Bloodkeepers en breng het naar Yeh'kinya.", "note": "Het einde van een reeks van drie quests die door Zul'Farrak loopt. Ze roept de Avatar of Hakkar op."},
+  "3373": {"objective": "Leg de Essence of Eranikus in de Essence Font in zijn hol.", "note": "Start bij de essence die de Shade of Eranikus laat vallen."}
+ }
+}

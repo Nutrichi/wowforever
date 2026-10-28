@@ -1,0 +1,28 @@
+{
+ "location": "Blackrock Mountain, entre la Searing Gorge y las Burning Steppes",
+ "entrance": "En lo más hondo de Blackrock Mountain: bajando las cadenas, por la Grinding Quarry hasta la Masonry. El portal está en la esquina del fondo.",
+ "quests": {
+  "4081": {"objective": "Mata a 15 Anvilrage Guardsmen, 10 Anvilrage Wardens y 5 Anvilrage Footmen.", "note": "Empieza en la Wanted Poster de Kargath. Informa a Warlord Goretooth."},
+  "4082": {"objective": "Mata a 10 Anvilrage Medics, 10 Anvilrage Soldiers y 10 Anvilrage Officers.", "note": "Sigue al primer cartel. Informa a Warlord Goretooth."},
+  "4132": {"objective": "Mata a General Angerforge.", "note": "Antes hay tres misiones, entre ellas una larga escolta."},
+  "4134": {"objective": "Lleva la Lost Thunderbrew Recipe a Vivian Lagrave.", "note": "Hurley Blackbreath suelta la receta en el Grim Guzzler. En la Undercity hay una misión previa opcional."},
+  "7201": {"objective": "Recoge 10 Essence of the Elements de los gólems y elementales de la mazmorra."},
+  "3907": {"objective": "Mata a Lord Incendius y trae la Tablet of Kurniya.", "note": "Sigue a Disharmony of Flame, que te manda contra Overmaster Pyron en la cantera de fuera."},
+  "3981": {"objective": "Encuentra a Commander Gor'shak en las celdas del Detention Block.", "note": "La Prison Cell Key de High Interrogator Gerstahn abre su celda. La cadena sigue con Thrall."},
+  "4003": {"objective": "Mata a Emperor Dagran Thaurissan y libera a Princess Moira Bronzebeard.", "note": "El final de la cadena de la Horda que empieza con Commander Gor'shak."},
+  "4063": {"objective": "Mata a Golem Lord Argelmach y recoge 10 Intact Elemental Cores de sus gólems.", "note": "Antes hay dos misiones de Lotwil Veriatus."},
+  "4263": {"objective": "Mata a Lord Incendius.", "note": "Sigue a Overmaster Pyron, que te manda a la cantera fuera de la mazmorra."},
+  "4286": {"objective": "Recoge 20 Dark Iron Fanny Packs de los enanos de la mazmorra."},
+  "4126": {"objective": "Lleva la Lost Thunderbrew Recipe a Ragnar Thunderbrew.", "note": "Hurley Blackbreath suelta la receta en el Grim Guzzler."},
+  "4341": {"objective": "Encuentra a Kharan Mighthammer en las celdas del Detention Block.", "note": "Antes hay dos misiones. La Prison Cell Key de Gerstahn abre su celda."},
+  "4362": {"objective": "Mata a Emperor Dagran Thaurissan y salva a Princess Moira Bronzebeard.", "note": "El final de la cadena de la Alianza con Kharan Mighthammer."},
+  "4241": {"objective": "Averigua qué le pasó a Marshal Windsor. Está en una celda del Detention Block.", "note": "Antes hay dos misiones, de Ragged John y Marshal Maxwell."},
+  "4322": {"objective": "Escolta a Marshal Windsor mientras recupera su equipo y libera a sus amigos.", "note": "El final de una cadena de seis misiones. Una larga escolta por el Detention Block."},
+  "4136": {"objective": "Lleva la cabeza de Ribbly a Yuka Screwspigot.", "note": "Ribbly está en el Grim Guzzler. En Steamwheedle Port hay una misión previa opcional."},
+  "4123": {"objective": "Lleva el Heart of the Mountain a Maxwort Uberglint.", "note": "El corazón está en una caja fuerte de la Black Vault, detrás de Warder Stilgiss."},
+  "7848": {"objective": "Coge un Core Fragment en el portal de Molten Core y llévaselo a Lothos Riftwaker.", "note": "No se puede compartir. El portal está al final del Molten Bridge. Lothos está en Blackrock Mountain."},
+  "3802": {"objective": "Mata a Fineous Darkvire, coge Ironfel y ponlo en la estatua del Shrine of Thaurissan.", "note": "El fantasma de Franclorn Forgewright solo es visible cuando estás muerto. La recompensa es la Shadowforge Key."},
+  "4201": {"objective": "Lleva a Mistress Nagmara 4 Gromsblood, 10 Giant Silver Veins y Nagmara's Filled Vial.", "note": "No se puede compartir."},
+  "4024": {"objective": "Mata a Bael'Gar y usa la Altered Black Dragonflight Molt en sus restos para capturar la Fiery Essence.", "note": "El final de una cadena de once misiones de Cyrus Therepentous."}
+ }
+}

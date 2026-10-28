@@ -1,0 +1,11 @@
+{
+ "location": "Feralas, al centro",
+ "entrance": "Dalla porta nel muro nord del cortile centrale di Dire Maul, con la Crescent Key di Dire Maul East.",
+ "quests": {
+  "1193": {"objective": "Ripara la Broken Trap sul percorso di Guard Slip'kik con una Frost Oil e un Thorium Widget.", "note": "La Frost Oil viene da Alchemy, il Thorium Widget da Engineering; entrambi sono anche all’asta. La trappola congela Slip'kik per il Tribute Run."},
+  "5518": {"objective": "Porta a Knot Thimblejack 8 Rugged Leather, 4 Bolts of Runecloth, 2 Rune Thread e un Ogre Tannin.", "note": "L’Ogre Tannin è in un cesto al piano di sopra, dopo la prima rampa. Con Leatherworking o Tailoring serve metà dei materiali. Il costume inganna Captain Kromcrush."},
+  "5525": {"objective": "Porta a Knot Thimblejack una Gordok Shackle Key. La lasciano gli ogre del dungeon.", "note": "Knot se ne va dopo questa missione e lascia uno scrigno con materiali e a volte una ricetta. Fai prima l’Ogre Suit."},
+  "7703": {"objective": "Uccidi Prince Tortheldrin in Dire Maul West e prendi la Gauntlet of Gordok Might dallo scrigno dietro di lui.", "note": "Captain Kromcrush ti parla solo con l’Ogre Suit o dopo un Tribute Run. La ricompensa è una scelta di guanti."},
+  "5528": {"objective": "Parla con Stomper Kreeg dopo un Tribute Run e prendi le sue bevande gratis.", "note": "Solo con il buff King of the Gordok."}
+ }
+}

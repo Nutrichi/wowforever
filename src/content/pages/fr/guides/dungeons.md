@@ -3,7 +3,7 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : chaque donjon, niveau et donneur de quête"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-10-27
+updated: 2026-10-28
 lang: fr
 manual: true
 faq:
@@ -40,6 +40,13 @@ La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les 
 - **[Uldaman](/fr/guides/dungeons/uldaman/)**, niveaux 41-51 : l’accès par les Badlands, les huit boss jusqu’à Archaedas et le butin connu à ce jour.
 - **[Zul'Farrak](/fr/guides/dungeons/zul-farrak/)**, niveaux 40-50 : l’accès par Tanaris, les huit quêtes, l’événement des escaliers, le Mallet pour Gahz'rilla et le butin des données de Forever.
 - **[Maraudon](/fr/guides/dungeons/maraudon/)**, niveaux 41-50 : les trois portails en Desolace, les onze quêtes, le Scepter of Celebras et les huit boss jusqu’à Princess Theradras.
+- **[Sunken Temple](/fr/guides/dungeons/sunken-temple/)**, niveaux 46-54: l’accès par le Swamp of Sorrows, Atal'alarion et les autels, les neuf quêtes, les gardiens trolls et l’Avatar of Hakkar.
+- **[Blackrock Depths](/fr/guides/dungeons/blackrock-depths/)**, niveaux 50-60: la descente dans Blackrock Mountain, les clés, les vingt-deux quêtes, le Ring of Law, le Grim Guzzler et chaque boss jusqu’à l’empereur.
+- **[Dire Maul East](/fr/guides/dungeons/dire-maul-east/)**, niveaux 54-60: les trois entrées à Feralas, la poursuite de Pusillin pour la Crescent Key, les cinq quêtes et les quatre boss jusqu’à Alzzin.
+- **[Lower Blackrock Spire](/fr/guides/dungeons/lower-blackrock-spire/)**, niveaux 55-60: la montée dans Blackrock Mountain, les douze quêtes, l’événement d’Urok Doomhowl et les neuf boss jusqu’à Overlord Wyrmthalak.
+- **[Dire Maul West](/fr/guides/dungeons/dire-maul-west/)**, niveaux 56-60: la Crescent Key, les cinq pylônes, les quatre quêtes et les cinq boss jusqu’à Prince Tortheldrin dans l’Athenaeum.
+- **[Dire Maul North](/fr/guides/dungeons/dire-maul-north/)**, niveaux 56-60: les clés et les portes, le Tribute Run avec l’Ogre Suit, le buff King of the Gordok, les cinq quêtes et les sept ogres jusqu’à King Gordok.
+- **[Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/)**, niveaux 58-60: la montée dans Blackrock Mountain, le Seal of Ascension, les douze quêtes et les boss d’Emberseer à General Drakkisath.
 
 ## Chaque donjon par niveau
 
@@ -70,15 +77,17 @@ Pour les donjons qui ont un guide, la fourchette est celle que donne le jeu. Pou
 | [Zul'Farrak](/fr/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/fr/guides/dungeons/maraudon/) | 41-50 | 11 |
 | Alcaz Prison | 48-53 | pas encore connues |
-| Sunken Temple | 46-54 | 9 |
-| Blackrock Depths | 50-60 | 24 |
-| Dire Maul | 52-60 | 13 |
+| [Sunken Temple](/fr/guides/dungeons/sunken-temple/) | 46-54 | 9 |
+| [Blackrock Depths](/fr/guides/dungeons/blackrock-depths/) | 50-60 | 24 |
+| [Dire Maul East](/fr/guides/dungeons/dire-maul-east/) | 54-60 | 5 |
+| [Dire Maul West](/fr/guides/dungeons/dire-maul-west/) | 56-60 | 2 |
+| [Dire Maul North](/fr/guides/dungeons/dire-maul-north/) | 56-60 | 6 |
 | Blackmaw Hold | 55-60 | pas encore connues |
 | Shaper's Terrace | 58-60 | pas encore connues |
-| Lower Blackrock Spire | 54-60 | 12 |
+| [Lower Blackrock Spire](/fr/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
 | Scholomance | 54-60 | 10 |
 | Stratholme | 54-60 | 14 |
-| Upper Blackrock Spire | 54-60 | 12 |
+| [Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## Comment lire les tableaux
 

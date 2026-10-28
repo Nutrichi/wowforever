@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, entre la Searing Gorge y las Burning Steppes",
+ "entrance": "Por el portal de Blackrock Spire, en lo alto de Blackrock Mountain. Dentro, el Seal of Ascension abre la puerta a la izquierda de la entrada.",
+ "quests": {
+  "4768": {"objective": "Trae la Darkstone Tablet. Está en Upper Blackrock Spire.", "note": "En la Undercity hay una misión previa opcional que te manda con Vivian Lagrave."},
+  "4974": {"objective": "Mata a Warchief Rend Blackhand y lleva su cabeza a Thrall.", "note": "Haz primero Warlord's Command en Lower Blackrock Spire y Eitrigg's Wisdom."},
+  "6602": {"objective": "Mata a General Drakkisath y lleva su sangre a Rexxar.", "note": "El final del acceso a Onyxia's Lair de la Horda, una cadena de trece misiones que empieza con Warlord's Command. Rexxar recorre Desolace."},
+  "4764": {"objective": "Trae Doomrigger's Clasp. Está en Upper Blackrock Spire.", "note": "En Stormwind Keep hay una misión previa opcional que te manda con Mayara Brightwing."},
+  "5102": {"objective": "Mata a General Drakkisath e informa a Marshal Maxwell.", "note": "Haz primero General Drakkisath's Command, que empieza con un objeto de Overlord Wyrmthalak en Lower Blackrock Spire."},
+  "6502": {"objective": "Mata a General Drakkisath y lleva su sangre a Haleh.", "note": "El final del acceso a Onyxia's Lair de la Alianza, diez misiones que empiezan con Dragonkin Menace. Pisa la runa azul al final de Mazthoril para llamar a Haleh."},
+  "7761": {"objective": "Mata a General Drakkisath y toca su marca detrás de él para obtener la Mark of Drakkisath.", "note": "Empieza con Blackhand's Command, que suelta el Scarshield Quartermaster en el pasillo lateral de Blackrock Mountain. En Classic abría Blackwing Lair."},
+  "5160": {"objective": "Lleva la escama de Awbee a Haleh, en Winterspring.", "note": "Awbee está en una pequeña cornisa en la sala tras Rend Blackhand."},
+  "5047": {"objective": "Habla con Malyfous Darkhammer en Everlook.", "note": "Pip Quickwit solo aparece si un jugador con Skinning 300 despelleja a The Beast."},
+  "4735": {"objective": "Lleva 8 Collected Dragon Eggs y el Collectronic Module a Tinkee Steamboil.", "note": "Los huevos están en la Rookery; coger uno puede despertar a las crías. Antes hay seis misiones de Tinkee."},
+  "6821": {"objective": "Lleva el Eye of the Emberseer a Duke Hydraxis.", "note": "Haz primero dos misiones para Duke Hydraxis en Azshara. La cadena sigue en Molten Core."},
+  "5127": {"objective": "Mata a Goraluk Anvilcrack, usa la Blood Stained Pike en su cuerpo y lleva a Lorax la Soul Stained Pike y la Unforged Rune Covered Breastplate.", "note": "Solo para herreros. En Classic la recompensa era la Demon Forged Breastplate."}
+ }
+}

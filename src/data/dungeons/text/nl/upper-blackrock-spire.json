@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, tussen de Searing Gorge en de Burning Steppes",
+ "entrance": "Via het portaal van Blackrock Spire, hoog in Blackrock Mountain. Binnen opent de Seal of Ascension de deur links van de ingang.",
+ "quests": {
+  "4768": {"objective": "Breng de Darkstone Tablet terug. Hij ligt in Upper Blackrock Spire.", "note": "In de Undercity is er een optionele voorquest die je naar Vivian Lagrave stuurt."},
+  "4974": {"objective": "Dood Warchief Rend Blackhand en breng zijn hoofd naar Thrall.", "note": "Doe eerst Warlord's Command in Lower Blackrock Spire en Eitrigg's Wisdom."},
+  "6602": {"objective": "Dood General Drakkisath en breng zijn bloed naar Rexxar.", "note": "Het einde van de attunement voor Onyxia's Lair bij de Horde, een reeks van dertien quests die met Warlord's Command start. Rexxar loopt door Desolace."},
+  "4764": {"objective": "Breng Doomrigger's Clasp terug. Hij ligt in Upper Blackrock Spire.", "note": "In Stormwind Keep is er een optionele voorquest die je naar Mayara Brightwing stuurt."},
+  "5102": {"objective": "Dood General Drakkisath en meld je bij Marshal Maxwell.", "note": "Doe eerst General Drakkisath's Command, dat start bij een item van Overlord Wyrmthalak in Lower Blackrock Spire."},
+  "6502": {"objective": "Dood General Drakkisath en breng zijn bloed naar Haleh.", "note": "Het einde van de attunement voor Onyxia's Lair bij de Alliance, tien quests die met Dragonkin Menace starten. Stap op de blauwe rune aan het einde van Mazthoril om Haleh op te roepen."},
+  "7761": {"objective": "Dood General Drakkisath en raak zijn brandmerk achter hem aan voor het Mark of Drakkisath.", "note": "Start bij Blackhand's Command, dat de Scarshield Quartermaster laat vallen in de zijgang van Blackrock Mountain. In Classic opende het Blackwing Lair."},
+  "5160": {"objective": "Breng de schub van Awbee naar Haleh in Winterspring.", "note": "Awbee zit op een smalle richel in de zaal na Rend Blackhand."},
+  "5047": {"objective": "Praat met Malyfous Darkhammer in Everlook.", "note": "Pip Quickwit verschijnt alleen als een speler met Skinning 300 The Beast vilt."},
+  "4735": {"objective": "Breng 8 Collected Dragon Eggs en de Collectronic Module naar Tinkee Steamboil.", "note": "De eieren liggen in de Rookery; een ei pakken kan de whelps wekken. Eerst komen zes quests van Tinkee."},
+  "6821": {"objective": "Breng het Eye of the Emberseer naar Duke Hydraxis.", "note": "Doe eerst twee quests voor Duke Hydraxis in Azshara. De reeks gaat verder in Molten Core."},
+  "5127": {"objective": "Dood Goraluk Anvilcrack, gebruik de Blood Stained Pike op zijn lichaam en breng Lorax de Soul Stained Pike en de Unforged Rune Covered Breastplate.", "note": "Alleen voor Blacksmiths. In Classic was de beloning de Demon Forged Breastplate."}
+ }
+}

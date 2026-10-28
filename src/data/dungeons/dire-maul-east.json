@@ -1,0 +1,272 @@
+{
+ "slug": "dire-maul-east",
+ "levels": "54–60",
+ "bosses": [
+  {
+   "name": "Pusillin",
+   "slug": "pusillin",
+   "level": "57",
+   "npc": 14354,
+   "items": []
+  },
+  {
+   "name": "Lethtendris",
+   "slug": "lethtendris",
+   "level": "57",
+   "npc": 14327,
+   "items": []
+  },
+  {
+   "name": "Zevrim Thornhoof",
+   "slug": "zevrim-thornhoof",
+   "level": "57",
+   "npc": 11490,
+   "items": []
+  },
+  {
+   "name": "Hydrospawn",
+   "slug": "hydrospawn",
+   "level": "57",
+   "npc": 13280,
+   "items": []
+  },
+  {
+   "name": "Alzzin the Wildshaper",
+   "slug": "alzzin-the-wildshaper",
+   "level": "58",
+   "npc": 11492,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 7488,
+   "name": "Lethtendris's Web",
+   "level": 57,
+   "minLevel": 54,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Latronicus Moonspear",
+     "kind": "npc",
+     "npc": 7877,
+     "zone": "Feralas",
+     "place": "Feathermoon Stronghold",
+     "at": {
+      "x": 30,
+      "y": 46
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Latronicus Moonspear",
+     "kind": "npc",
+     "npc": 7877,
+     "zone": "Feralas",
+     "place": "Feathermoon Stronghold",
+     "at": {
+      "x": 30,
+      "y": 46
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Feathermoon Stronghold",
+     "id": 7494,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7489,
+   "name": "Lethtendris's Web",
+   "level": 57,
+   "minLevel": 54,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Talo Thornhoof",
+     "kind": "npc",
+     "npc": 7776,
+     "zone": "Feralas",
+     "place": "Camp Mojache",
+     "at": {
+      "x": 76,
+      "y": 43
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Talo Thornhoof",
+     "kind": "npc",
+     "npc": 7776,
+     "zone": "Feralas",
+     "place": "Camp Mojache",
+     "at": {
+      "x": 76,
+      "y": 43
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Camp Mojache",
+     "id": 7492,
+     "optional": true
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7441,
+   "name": "Pusillin and the Elder Azj'Tordin",
+   "level": 58,
+   "minLevel": 54,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Azj'Tordin",
+     "kind": "npc",
+     "npc": 14355,
+     "zone": "Feralas",
+     "place": "Lariss Pavilion",
+     "at": {
+      "x": 76,
+      "y": 37
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Azj'Tordin",
+     "kind": "npc",
+     "npc": 14355,
+     "zone": "Feralas",
+     "place": "Lariss Pavilion",
+     "at": {
+      "x": 76,
+      "y": 37
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5526,
+   "name": "Shards of the Felvine",
+   "level": 60,
+   "minLevel": 56,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Rabine Saturna",
+     "kind": "npc",
+     "npc": 11801,
+     "zone": "Moonglade",
+     "place": "Nighthaven",
+     "at": {
+      "x": 51,
+      "y": 45
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Rabine Saturna",
+     "kind": "npc",
+     "npc": 11801,
+     "zone": "Moonglade",
+     "place": "Nighthaven",
+     "at": {
+      "x": 51,
+      "y": 45
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "A Reliquary of Purity",
+     "id": 5527,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7463,
+   "name": "Arcane Refreshment",
+   "level": 60,
+   "minLevel": 60,
+   "faction": "both",
+   "classes": [
+    "mage"
+   ],
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Lorekeeper Lydros",
+     "kind": "npc",
+     "npc": 14368,
+     "zone": "Dire Maul",
+     "place": "The Athenaeum"
+    }
+   ],
+   "to": [
+    {
+     "name": "Lorekeeper Lydros",
+     "kind": "npc",
+     "npc": 14368,
+     "zone": "Dire Maul",
+     "place": "The Athenaeum"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {}
+}

@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, between the Searing Gorge and the Burning Steppes",
+ "entrance": "Through the portal of Blackrock Spire, high in Blackrock Mountain. Inside, the Seal of Ascension opens the door to the left of the entrance.",
+ "quests": {
+  "4768": {"objective": "Bring back the Darkstone Tablet. It lies in Upper Blackrock Spire.", "note": "The Undercity has an optional breadcrumb that sends you to Vivian Lagrave."},
+  "4974": {"objective": "Kill Warchief Rend Blackhand and bring his head to Thrall.", "note": "First do Warlord's Command in Lower Blackrock Spire and Eitrigg's Wisdom."},
+  "6602": {"objective": "Kill General Drakkisath and bring his blood to Rexxar.", "note": "The end of the Horde attunement for Onyxia's Lair, a chain of thirteen quests that starts with Warlord's Command. Rexxar walks through Desolace."},
+  "4764": {"objective": "Bring back Doomrigger's Clasp. It lies in Upper Blackrock Spire.", "note": "Stormwind Keep has an optional breadcrumb that sends you to Mayara Brightwing."},
+  "5102": {"objective": "Kill General Drakkisath and report to Marshal Maxwell.", "note": "First do General Drakkisath's Command, which starts from an item of Overlord Wyrmthalak in Lower Blackrock Spire."},
+  "6502": {"objective": "Kill General Drakkisath and bring his blood to Haleh.", "note": "The end of the Alliance attunement for Onyxia's Lair, ten quests that start with Dragonkin Menace. Step on the blue rune at the end of Mazthoril to call Haleh."},
+  "7761": {"objective": "Kill General Drakkisath and touch his brand behind him to gain the Mark of Drakkisath.", "note": "Starts from Blackhand's Command, dropped by the Scarshield Quartermaster in the side hall of Blackrock Mountain. In Classic it opened Blackwing Lair."},
+  "5160": {"objective": "Bring Awbee's scale to Haleh in Winterspring.", "note": "Awbee sits on a small ledge in the room after Rend Blackhand."},
+  "5047": {"objective": "Talk to Malyfous Darkhammer in Everlook.", "note": "Pip Quickwit only appears when a player with Skinning 300 skins The Beast."},
+  "4735": {"objective": "Bring 8 Collected Dragon Eggs and the Collectronic Module to Tinkee Steamboil.", "note": "The eggs lie in the Rookery; taking one can wake the whelps. Six quests of Tinkee come first."},
+  "6821": {"objective": "Bring the Eye of the Emberseer to Duke Hydraxis.", "note": "First do two quests for Duke Hydraxis in Azshara. The chain continues in Molten Core."},
+  "5127": {"objective": "Kill Goraluk Anvilcrack, use the Blood Stained Pike on his body and bring Lorax the Soul Stained Pike and the Unforged Rune Covered Breastplate.", "note": "Blacksmiths only. In Classic the reward was the Demon Forged Breastplate."}
+ }
+}

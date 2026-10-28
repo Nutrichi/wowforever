@@ -1,0 +1,556 @@
+{
+ "slug": "lower-blackrock-spire",
+ "levels": "55–60",
+ "bosses": [
+  {
+   "name": "Highlord Omokk",
+   "slug": "highlord-omokk",
+   "level": "59",
+   "npc": 9196,
+   "items": []
+  },
+  {
+   "name": "Shadow Hunter Vosh'gajin",
+   "slug": "shadow-hunter-voshgajin",
+   "level": "58",
+   "npc": 9236,
+   "items": [
+    12651
+   ]
+  },
+  {
+   "name": "War Master Voone",
+   "slug": "war-master-voone",
+   "level": "59",
+   "npc": 9237,
+   "items": []
+  },
+  {
+   "name": "Mother Smolderweb",
+   "slug": "mother-smolderweb",
+   "level": "59",
+   "npc": 10596,
+   "items": []
+  },
+  {
+   "name": "Urok Doomhowl",
+   "slug": "urok-doomhowl",
+   "level": "60",
+   "npc": 10584,
+   "items": []
+  },
+  {
+   "name": "Quartermaster Zigris",
+   "slug": "quartermaster-zigris",
+   "level": "59",
+   "npc": 9736,
+   "items": [
+    12264
+   ]
+  },
+  {
+   "name": "Halycon",
+   "slug": "halycon",
+   "level": "59",
+   "npc": 10220,
+   "items": []
+  },
+  {
+   "name": "Gizrul the Slavener",
+   "slug": "gizrul-the-slavener",
+   "level": "60",
+   "npc": 10268,
+   "items": []
+  },
+  {
+   "name": "Overlord Wyrmthalak",
+   "slug": "overlord-wyrmthalak",
+   "level": "60",
+   "npc": 9568,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 4724,
+   "name": "The Pack Mistress",
+   "level": 59,
+   "minLevel": 55,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Galamav the Marksman",
+     "kind": "npc",
+     "npc": 9081,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 6,
+      "y": 47
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Galamav the Marksman",
+     "kind": "npc",
+     "npc": 9081,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 6,
+      "y": 47
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4981,
+   "name": "Operative Bijou",
+   "level": 59,
+   "minLevel": 55,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Lexlort",
+     "kind": "npc",
+     "npc": 9080,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 5,
+      "y": 47
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Bijou",
+     "kind": "npc",
+     "npc": 10257,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4903,
+   "name": "Warlord's Command",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Warlord Goretooth",
+     "kind": "npc",
+     "npc": 9077,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 5,
+      "y": 47
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Warlord Goretooth",
+     "kind": "npc",
+     "npc": 9077,
+     "zone": "Badlands",
+     "place": "Kargath",
+     "at": {
+      "x": 5,
+      "y": 47
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4701,
+   "name": "Put Her Down",
+   "level": 59,
+   "minLevel": 55,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Helendis Riverhorn",
+     "kind": "npc",
+     "npc": 9562,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 65,
+      "y": 69
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Helendis Riverhorn",
+     "kind": "npc",
+     "npc": 9562,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 65,
+      "y": 69
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5089,
+   "name": "General Drakkisath's Command",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "General Drakkisath's Command",
+     "kind": "item",
+     "item": 12780,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "to": [
+    {
+     "name": "Marshal Maxwell",
+     "kind": "npc",
+     "npc": 9560,
+     "zone": "Burning Steppes",
+     "place": "Morgan's Vigil",
+     "at": {
+      "x": 84,
+      "y": 68
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5001,
+   "name": "Bijou's Belongings",
+   "level": 59,
+   "minLevel": 55,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Bijou",
+     "kind": "npc",
+     "npc": 10257,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "to": [
+    {
+     "name": "Bijou",
+     "kind": "npc",
+     "npc": 10257,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4862,
+   "name": "En-Ay-Es-Tee-Why",
+   "level": 59,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Kibler",
+     "kind": "npc",
+     "npc": 10260,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 21
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Kibler",
+     "kind": "npc",
+     "npc": 10260,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 21
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4729,
+   "name": "Kibler's Exotic Pets",
+   "level": 59,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Kibler",
+     "kind": "npc",
+     "npc": 10260,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 21
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Kibler",
+     "kind": "npc",
+     "npc": 10260,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 21
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4866,
+   "name": "Mother's Milk",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Ragged John",
+     "kind": "npc",
+     "npc": 9563,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 23
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Ragged John",
+     "kind": "npc",
+     "npc": 9563,
+     "zone": "Burning Steppes",
+     "place": "Flame Crest",
+     "at": {
+      "x": 65,
+      "y": 23
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4742,
+   "name": "Seal of Ascension",
+   "level": 60,
+   "minLevel": 57,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Vaelan",
+     "kind": "npc",
+     "npc": 10296,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "to": [
+    {
+     "name": "Vaelan",
+     "kind": "npc",
+     "npc": 10296,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4867,
+   "name": "Urok Doomhowl",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Warosh",
+     "kind": "npc",
+     "npc": 10799,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "to": [
+    {
+     "name": "Warosh",
+     "kind": "npc",
+     "npc": 10799,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4788,
+   "name": "The Final Tablets",
+   "level": 58,
+   "minLevel": 40,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Prospector Ironboot",
+     "kind": "npc",
+     "npc": 10460,
+     "zone": "Tanaris",
+     "place": "Steamwheedle Port",
+     "at": {
+      "x": 66,
+      "y": 24
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Prospector Ironboot",
+     "kind": "npc",
+     "npc": 10460,
+     "zone": "Tanaris",
+     "place": "Steamwheedle Port",
+     "at": {
+      "x": 66,
+      "y": 24
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {
+  "12264": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_box_petcarrier_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=12264\">Worg Carrier</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line wf-item__use\">Use:</span><span class=\"wf-item__line\">Right Click to summon and dismiss your worg pup.</span></div></div>",
+  "12651": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_crossbow_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12651\">Blackcrow</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Crossbow</span></span><span class=\"wf-item__row\"><span>77 - 117 Damage</span><span>Speed 3.20</span></span><span class=\"wf-item__line\">(30.31 damage per second)</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 0.9%.</span></div></div>"
+ }
+}

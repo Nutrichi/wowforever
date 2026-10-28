@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, tussen de Searing Gorge en de Burning Steppes",
+ "entrance": "Via het portaal van Blackrock Spire, hoog in Blackrock Mountain: de deur naast de meeting stone, dan het pad naar boven.",
+ "quests": {
+  "4724": {"objective": "Dood Halycon, de leidster van de Bloodaxe-worgs."},
+  "4981": {"objective": "Zoek uit wat er met Bijou gebeurd is in Blackrock Spire.", "note": "Bijou zit in de dungeon en geeft daarna Bijou's Belongings."},
+  "4903": {"objective": "Dood Highlord Omokk, War Master Voone en Overlord Wyrmthalak, en breng de Important Blackrock Documents terug.", "note": "Kan niet gedeeld worden. De start van de reeks van de Horde naar Onyxia's Lair; daarna volgt Eitrigg's Wisdom in Orgrimmar."},
+  "4701": {"objective": "Dood Halycon, de bron van de worgplaag."},
+  "5089": {"objective": "Breng General Drakkisath's Command naar Marshal Maxwell.", "note": "Start bij het item dat Overlord Wyrmthalak laat vallen. Leidt naar General Drakkisath's Demise in Upper Blackrock Spire."},
+  "5001": {"objective": "Zoek Bijou's Belongings in de dungeon en breng ze terug naar haar."},
+  "4862": {"objective": "Verzamel 15 Spire Spider Eggs in de tunnels van Mother Smolderweb."},
+  "4729": {"objective": "Vang een Bloodaxe Worg Pup met de kooi van Kibler en breng de Caged Worg Pup terug.", "note": "Kan niet gedeeld worden. De welpen lopen in het hol van Halycon."},
+  "4866": {"objective": "Laat Mother Smolderweb je vergiftigen met Mother's Milk en ga terug naar Ragged John terwijl je nog vergiftigd bent."},
+  "4742": {"objective": "Breng Vaelan de Gemstones of Smolderthorn, Spirestone en Bloodaxe en de Unadorned Seal of Ascension.", "note": "War Master Voone, Highlord Omokk en Overlord Wyrmthalak laten de edelstenen vallen; de seal valt van monsters in de dungeon. De afgewerkte seal opent Upper Blackrock Spire."},
+  "4867": {"objective": "Lees Warosh's Scroll en breng Warosh's Mojo naar Warosh.", "note": "Kan niet gedeeld worden. Warosh loopt bij het begin van de dungeon. De mojo valt van Urok Doomhowl."},
+  "4788": {"objective": "Breng de Fifth en Sixth Mosh'aru Tablets naar Prospector Ironboot.", "note": "Het einde van een reeks van vijf quests die in Tanaris start en door Zul'Farrak loopt."}
+ }
+}

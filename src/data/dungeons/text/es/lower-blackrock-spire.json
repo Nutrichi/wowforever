@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, entre la Searing Gorge y las Burning Steppes",
+ "entrance": "Por el portal de Blackrock Spire, en lo alto de Blackrock Mountain: la puerta junto a la piedra de encuentro y luego el camino hacia arriba.",
+ "quests": {
+  "4724": {"objective": "Mata a Halycon, la madre de la manada de huargos Bloodaxe."},
+  "4981": {"objective": "Averigua qué le pasó a Bijou en Blackrock Spire.", "note": "Bijou está en la mazmorra y luego da Bijou's Belongings."},
+  "4903": {"objective": "Mata a Highlord Omokk, War Master Voone y Overlord Wyrmthalak, y trae los Important Blackrock Documents.", "note": "No se puede compartir. El inicio de la cadena de la Horda hacia Onyxia's Lair; después viene Eitrigg's Wisdom en Orgrimmar."},
+  "4701": {"objective": "Mata a Halycon, el origen de la amenaza de los huargos."},
+  "5089": {"objective": "Lleva General Drakkisath's Command a Marshal Maxwell.", "note": "Empieza con el objeto que suelta Overlord Wyrmthalak. Lleva a General Drakkisath's Demise en Upper Blackrock Spire."},
+  "5001": {"objective": "Encuentra Bijou's Belongings en la mazmorra y devuélveselas."},
+  "4862": {"objective": "Recoge 15 Spire Spider Eggs en los túneles de Mother Smolderweb."},
+  "4729": {"objective": "Atrapa un Bloodaxe Worg Pup con la jaula de Kibler y trae el Caged Worg Pup.", "note": "No se puede compartir. Los cachorros corren por la guarida de Halycon."},
+  "4866": {"objective": "Deja que Mother Smolderweb te envenene con Mother's Milk y vuelve con Ragged John mientras sigas envenenado."},
+  "4742": {"objective": "Lleva a Vaelan las Gemstones of Smolderthorn, Spirestone y Bloodaxe y el Unadorned Seal of Ascension.", "note": "War Master Voone, Highlord Omokk y Overlord Wyrmthalak sueltan las gemas; el sello cae de los monstruos de la mazmorra. El sello terminado abre Upper Blackrock Spire."},
+  "4867": {"objective": "Lee Warosh's Scroll y lleva Warosh's Mojo a Warosh.", "note": "No se puede compartir. Warosh pasea cerca del inicio de la mazmorra. El mojo cae de Urok Doomhowl."},
+  "4788": {"objective": "Lleva las Fifth y Sixth Mosh'aru Tablets a Prospector Ironboot.", "note": "El final de una cadena de cinco misiones que empieza en Tanaris y pasa por Zul'Farrak."}
+ }
+}

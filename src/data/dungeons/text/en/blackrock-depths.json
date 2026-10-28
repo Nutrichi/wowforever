@@ -1,0 +1,92 @@
+{
+ "location": "Blackrock Mountain, between the Searing Gorge and the Burning Steppes",
+ "entrance": "Deep in Blackrock Mountain: down the chains, through the Grinding Quarry to the Masonry. The portal is in the far corner.",
+ "quests": {
+  "4081": {
+   "objective": "Kill 15 Anvilrage Guardsmen, 10 Anvilrage Wardens and 5 Anvilrage Footmen.",
+   "note": "Starts at the Wanted Poster in Kargath. Report to Warlord Goretooth."
+  },
+  "4082": {
+   "objective": "Kill 10 Anvilrage Medics, 10 Anvilrage Soldiers and 10 Anvilrage Officers.",
+   "note": "Follows the first poster. Report to Warlord Goretooth."
+  },
+  "4132": {
+   "objective": "Kill General Angerforge.",
+   "note": "Three quests come first, among them a long escort."
+  },
+  "4134": {
+   "objective": "Bring the Lost Thunderbrew Recipe to Vivian Lagrave.",
+   "note": "Hurley Blackbreath drops the recipe in the Grim Guzzler. The Undercity has an optional breadcrumb."
+  },
+  "7201": {
+   "objective": "Collect 10 Essence of the Elements from the golems and elementals in the dungeon."
+  },
+  "3907": {
+   "objective": "Kill Lord Incendius and bring back the Tablet of Kurniya.",
+   "note": "Follows Disharmony of Flame, which sends you to Overmaster Pyron in the quarry outside."
+  },
+  "3981": {
+   "objective": "Find Commander Gor'shak in the prison cells of the Detention Block.",
+   "note": "The Prison Cell Key from High Interrogator Gerstahn opens his cell. The chain continues with Thrall."
+  },
+  "4003": {
+   "objective": "Kill Emperor Dagran Thaurissan and free Princess Moira Bronzebeard.",
+   "note": "The end of the Horde chain that starts with Commander Gor'shak."
+  },
+  "4063": {
+   "objective": "Kill Golem Lord Argelmach and collect 10 Intact Elemental Cores from his golems.",
+   "note": "Two quests of Lotwil Veriatus come first."
+  },
+  "4263": {
+   "objective": "Kill Lord Incendius.",
+   "note": "Follows Overmaster Pyron, which sends you to the quarry outside the dungeon."
+  },
+  "4286": {
+   "objective": "Collect 20 Dark Iron Fanny Packs from the dwarves in the dungeon."
+  },
+  "4126": {
+   "objective": "Bring the Lost Thunderbrew Recipe to Ragnar Thunderbrew.",
+   "note": "Hurley Blackbreath drops the recipe in the Grim Guzzler."
+  },
+  "4341": {
+   "objective": "Find Kharan Mighthammer in the prison cells of the Detention Block.",
+   "note": "Two quests come first. The Prison Cell Key from Gerstahn opens his cell."
+  },
+  "4362": {
+   "objective": "Kill Emperor Dagran Thaurissan and save Princess Moira Bronzebeard.",
+   "note": "The end of the Alliance chain with Kharan Mighthammer."
+  },
+  "4241": {
+   "objective": "Find out what happened to Marshal Windsor. He sits in a cell of the Detention Block.",
+   "note": "Two quests come first, from Ragged John and Marshal Maxwell."
+  },
+  "4322": {
+   "objective": "Escort Marshal Windsor while he gets his gear back and frees his friends.",
+   "note": "The end of a chain of six quests. A long escort through the Detention Block."
+  },
+  "4136": {
+   "objective": "Bring Ribbly's Head to Yuka Screwspigot.",
+   "note": "Ribbly sits in the Grim Guzzler. Steamwheedle Port has an optional breadcrumb."
+  },
+  "4123": {
+   "objective": "Bring the Heart of the Mountain to Maxwort Uberglint.",
+   "note": "The heart lies in a safe of the Black Vault, behind Warder Stilgiss."
+  },
+  "7848": {
+   "objective": "Take a Core Fragment at the portal to Molten Core and bring it to Lothos Riftwaker.",
+   "note": "Cannot be shared. The portal is at the end of the Molten Bridge. Lothos stands in Blackrock Mountain."
+  },
+  "3802": {
+   "objective": "Kill Fineous Darkvire, take Ironfel and place it on the statue at the Shrine of Thaurissan.",
+   "note": "The ghost of Franclorn Forgewright is only visible when you are dead. The reward is the Shadowforge Key."
+  },
+  "4201": {
+   "objective": "Bring Mistress Nagmara 4 Gromsblood, 10 Giant Silver Veins and Nagmara's Filled Vial.",
+   "note": "Cannot be shared."
+  },
+  "4024": {
+   "objective": "Kill Bael'Gar and use the Altered Black Dragonflight Molt on his remains to capture the Fiery Essence.",
+   "note": "The end of a chain of eleven quests from Cyrus Therepentous."
+  }
+ }
+}

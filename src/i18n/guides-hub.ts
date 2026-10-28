@@ -251,6 +251,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/uldaman": "The way in from the Badlands, the eight bosses up to Archaedas and the loot known so far",
     "dungeons/zul-farrak": "The way in through Tanaris, all eight quests, the stairs event, the Mallet for Gahz'rilla and the loot in the Forever data",
     "dungeons/maraudon": "The three portals in Desolace, all eleven quests, the Scepter of Celebras and the eight bosses up to Princess Theradras",
+    "dungeons/dire-maul-east": "The three ways in through Feralas, the chase after Pusillin for the Crescent Key, all five quests and the four bosses up to Alzzin",
     "rulesets": "Normal, PvP, Roleplay, RP-PvP and Hardcore side by side: open PvP, one faction, name rules, permanent death and what you can never change",
     "dungeons/razorfen-downs": "All six quests with their rewards, the gong event and the new loot of every boss",
     "experience": "The experience for every level to 60, quests, kills, dungeons, rested XP and the bonuses from camps, food and the sleeping bag",
@@ -304,7 +305,13 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "classes": "A leveling guide per class and spec for every era, and the racials of WoW Forever",
     "tradeskills": "A guide per profession for every era, the tradeskill perks of WoW Forever and Forever guides for Cooking, First Aid and Fishing",
     "reputations": "A guide per faction of WoW Forever",
-    "forever": "The dates and the roadmap, the zones, dungeons and raids, the Skyborne and the editions"
+    "forever": "The dates and the roadmap, the zones, dungeons and raids, the Skyborne and the editions",
+    "dungeons/dire-maul-west": "The Crescent Key, the five pylons, all four quests and the five bosses up to Prince Tortheldrin in the Athenaeum",
+    "dungeons/dire-maul-north": "The keys and doors, the Tribute Run with the Ogre Suit, the King of the Gordok buff, all five quests and the seven ogres up to King Gordok",
+    "dungeons/upper-blackrock-spire": "The way up Blackrock Mountain, the Seal of Ascension, all twelve quests and the bosses from Emberseer to General Drakkisath",
+    "dungeons/lower-blackrock-spire": "The way up Blackrock Mountain, all twelve quests, the Urok Doomhowl event and the nine bosses up to Overlord Wyrmthalak",
+    "dungeons/blackrock-depths": "The way down Blackrock Mountain, the keys, all twenty-two quests, the Ring of Law, the Grim Guzzler and every boss up to the Emperor",
+    "dungeons/sunken-temple": "The way in through the Swamp of Sorrows, Atal'alarion and the shrines, all nine quests, the troll guardians and the Avatar of Hakkar"
   },
   "nl": {
     "journey": "De leveladdon Journey voor WoW Forever: gratis tot level 30, de prijs voor de route tot 60, installeren en 10% korting met code NUTRI",
@@ -334,6 +341,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/uldaman": "De weg erheen vanuit de Badlands, de acht bazen tot Archaedas en de loot die tot nu toe bekend is",
     "dungeons/zul-farrak": "De weg erheen door Tanaris, alle acht de quests, het trappenevent, de Mallet voor Gahz'rilla en de loot in de data van Forever",
     "dungeons/maraudon": "De drie portalen in Desolace, alle elf de quests, de Scepter of Celebras en de acht bazen tot Princess Theradras",
+    "dungeons/dire-maul-east": "De drie ingangen in Feralas, de achtervolging van Pusillin voor de Crescent Key, alle vijf de quests en de vier bazen tot Alzzin",
     "rulesets": "Normal, PvP, Roleplay, RP-PvP en Hardcore naast elkaar: open PvP, één factie, naamregels, definitief dood en wat je nooit meer verandert",
     "dungeons/razorfen-downs": "Alle zes de quests met hun beloningen, het gong-event en de nieuwe loot van elke baas",
     "experience": "De ervaring voor elk level tot 60, quests, kills, dungeons, rested XP en de bonussen van kampen, eten en de slaapzak",
@@ -387,7 +395,13 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "classes": "Een levelgids per class en spec voor elke era, en de racials van WoW Forever",
     "tradeskills": "Een gids per beroep voor elke era, de tradeskill-perks van WoW Forever en Forever-gidsen voor Cooking, First Aid en Fishing",
     "reputations": "Een gids per factie van WoW Forever",
-    "forever": "De datums en de roadmap, de zones, dungeons en raids, de Skyborne en de edities"
+    "forever": "De datums en de roadmap, de zones, dungeons en raids, de Skyborne en de edities",
+    "dungeons/dire-maul-west": "De Crescent Key, de vijf pylonen, alle vier de quests en de vijf bazen tot Prince Tortheldrin in het Athenaeum",
+    "dungeons/dire-maul-north": "De sleutels en deuren, de Tribute Run met het Ogre Suit, de buff King of the Gordok, alle vijf de quests en de zeven ogres tot King Gordok",
+    "dungeons/upper-blackrock-spire": "De weg naar boven in Blackrock Mountain, de Seal of Ascension, alle twaalf de quests en de bazen van Emberseer tot General Drakkisath",
+    "dungeons/lower-blackrock-spire": "De weg naar boven in Blackrock Mountain, alle twaalf de quests, het event van Urok Doomhowl en de negen bazen tot Overlord Wyrmthalak",
+    "dungeons/blackrock-depths": "De weg naar beneden in Blackrock Mountain, de sleutels, alle tweeëntwintig quests, de Ring of Law, de Grim Guzzler en elke baas tot de keizer",
+    "dungeons/sunken-temple": "De weg erin door de Swamp of Sorrows, Atal'alarion en de heiligdommen, alle negen de quests, de trollenwachters en de Avatar of Hakkar"
   },
   "fr": {
     "journey": "L'addon de leveling Journey pour WoW Forever : gratuit jusqu'au niveau 30, le prix de la route jusqu'au 60, l'installation et 10 % de réduction avec le code NUTRI",
@@ -417,6 +431,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/uldaman": "L’accès par les Badlands, les huit boss jusqu’à Archaedas et le butin connu à ce jour",
     "dungeons/zul-farrak": "L’accès par Tanaris, les huit quêtes, l’événement des escaliers, le Mallet pour Gahz'rilla et le butin des données de Forever",
     "dungeons/maraudon": "Les trois portails en Desolace, les onze quêtes, le Scepter of Celebras et les huit boss jusqu’à Princess Theradras",
+    "dungeons/dire-maul-east": "Les trois entrées à Feralas, la poursuite de Pusillin pour la Crescent Key, les cinq quêtes et les quatre boss jusqu’à Alzzin",
     "rulesets": "Normal, PvP, Roleplay, RP-PvP et Hardcore côte à côte : PvP sauvage, une faction, règles de noms, mort définitive et ce qu’on ne change jamais",
     "dungeons/razorfen-downs": "Les six quêtes avec leurs récompenses, l’événement du gong et le nouveau butin de chaque boss",
     "experience": "L'expérience de chaque niveau jusqu'au 60, les quêtes, les kills, les donjons, l'XP reposée et les bonus des camps, de la nourriture et du sac de couchage",
@@ -470,7 +485,13 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "classes": "Un guide de leveling par classe et spécialisation pour chaque époque, et les traits raciaux de WoW Forever",
     "tradeskills": "Un guide par métier pour chaque époque, les avantages de métier de WoW Forever et des guides Forever pour Cooking, First Aid et Fishing",
     "reputations": "Un guide par faction de WoW Forever",
-    "forever": "Les dates et la feuille de route, les zones, donjons et raids, les Skyborne et les éditions"
+    "forever": "Les dates et la feuille de route, les zones, donjons et raids, les Skyborne et les éditions",
+    "dungeons/dire-maul-west": "La Crescent Key, les cinq pylônes, les quatre quêtes et les cinq boss jusqu’à Prince Tortheldrin dans l’Athenaeum",
+    "dungeons/dire-maul-north": "Les clés et les portes, le Tribute Run avec l’Ogre Suit, le buff King of the Gordok, les cinq quêtes et les sept ogres jusqu’à King Gordok",
+    "dungeons/upper-blackrock-spire": "La montée dans Blackrock Mountain, le Seal of Ascension, les douze quêtes et les boss d’Emberseer à General Drakkisath",
+    "dungeons/lower-blackrock-spire": "La montée dans Blackrock Mountain, les douze quêtes, l’événement d’Urok Doomhowl et les neuf boss jusqu’à Overlord Wyrmthalak",
+    "dungeons/blackrock-depths": "La descente dans Blackrock Mountain, les clés, les vingt-deux quêtes, le Ring of Law, le Grim Guzzler et chaque boss jusqu’à l’empereur",
+    "dungeons/sunken-temple": "L’accès par le Swamp of Sorrows, Atal'alarion et les autels, les neuf quêtes, les gardiens trolls et l’Avatar of Hakkar"
   },
   "es": {
     "journey": "El addon de subida Journey para WoW Forever: gratis hasta el nivel 30, el precio de la ruta hasta el 60, cómo instalarlo y un 10 % de descuento con el código NUTRI",
@@ -500,6 +521,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/uldaman": "La entrada desde las Badlands, los ocho jefes hasta Archaedas y el botín conocido hasta ahora",
     "dungeons/zul-farrak": "La entrada por Tanaris, las ocho misiones, el evento de las escaleras, el Mallet para Gahz'rilla y el botín de los datos de Forever",
     "dungeons/maraudon": "Los tres portales de Desolace, las once misiones, el Scepter of Celebras y los ocho jefes hasta Princess Theradras",
+    "dungeons/dire-maul-east": "Las tres entradas en Feralas, la persecución de Pusillin por la Crescent Key, las cinco misiones y los cuatro jefes hasta Alzzin",
     "rulesets": "Normal, PvP, Roleplay, RP-PvP y Hardcore lado a lado: PvP abierto, una facción, reglas de nombres, muerte definitiva y lo que nunca cambias",
     "dungeons/razorfen-downs": "Las seis misiones con sus recompensas, el evento del gong y el botín nuevo de cada jefe",
     "experience": "La experiencia de cada nivel hasta el 60, misiones, muertes, mazmorras, la experiencia de descanso y los bonus de campamentos, comida y el saco de dormir",
@@ -553,7 +575,13 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "classes": "Una guía de subida por clase y especialización para cada era, y los rasgos raciales de WoW Forever",
     "tradeskills": "Una guía por profesión para cada era, las ventajas de profesión de WoW Forever y guías de Forever para Cooking, First Aid y Fishing",
     "reputations": "Una guía por facción de WoW Forever",
-    "forever": "Las fechas y la hoja de ruta, las zonas, mazmorras y bandas, los Skyborne y las ediciones"
+    "forever": "Las fechas y la hoja de ruta, las zonas, mazmorras y bandas, los Skyborne y las ediciones",
+    "dungeons/dire-maul-west": "La Crescent Key, los cinco pilones, las cuatro misiones y los cinco jefes hasta Prince Tortheldrin en el Athenaeum",
+    "dungeons/dire-maul-north": "Las llaves y puertas, el Tribute Run con el Ogre Suit, el beneficio King of the Gordok, las cinco misiones y los siete ogros hasta King Gordok",
+    "dungeons/upper-blackrock-spire": "La subida por Blackrock Mountain, el Seal of Ascension, las doce misiones y los jefes de Emberseer a General Drakkisath",
+    "dungeons/lower-blackrock-spire": "La subida por Blackrock Mountain, las doce misiones, el evento de Urok Doomhowl y los nueve jefes hasta Overlord Wyrmthalak",
+    "dungeons/blackrock-depths": "La bajada por Blackrock Mountain, las llaves, las veintidós misiones, el Ring of Law, el Grim Guzzler y cada jefe hasta el emperador",
+    "dungeons/sunken-temple": "La entrada por el Swamp of Sorrows, Atal'alarion y los santuarios, las nueve misiones, los guardianes trols y el Avatar of Hakkar"
   },
   "it": {
     "journey": "L'addon di leveling Journey per WoW Forever: gratis fino al livello 30, il prezzo del percorso fino al 60, come installarlo e il 10% di sconto con il codice NUTRI",
@@ -583,6 +611,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/uldaman": "L’ingresso dalle Badlands, gli otto boss fino ad Archaedas e il bottino noto finora",
     "dungeons/zul-farrak": "L’ingresso da Tanaris, le otto missioni, l’evento delle scale, il Mallet per Gahz'rilla e il bottino nei dati di Forever",
     "dungeons/maraudon": "I tre portali in Desolace, le undici missioni, lo Scepter of Celebras e gli otto boss fino a Princess Theradras",
+    "dungeons/dire-maul-east": "I tre ingressi a Feralas, l’inseguimento di Pusillin per la Crescent Key, le cinque missioni e i quattro boss fino ad Alzzin",
     "rulesets": "Normal, PvP, Roleplay, RP-PvP e Hardcore a confronto: PvP nel mondo, una fazione, regole sui nomi, morte definitiva e cosa non cambi mai",
     "dungeons/razorfen-downs": "Le sei missioni con le loro ricompense, l’evento del gong e il nuovo bottino di ogni boss",
     "experience": "L'esperienza di ogni livello fino al 60, missioni, uccisioni, dungeon, esperienza riposata e i bonus di campi, cibo e sacco a pelo",
@@ -636,7 +665,13 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "classes": "Una guida di livellamento per classe e specializzazione per ogni era, e i tratti razziali di WoW Forever",
     "tradeskills": "Una guida per professione per ogni era, i vantaggi delle professioni di WoW Forever e guide Forever per Cooking, First Aid e Fishing",
     "reputations": "Una guida per fazione di WoW Forever",
-    "forever": "Le date e la roadmap, le zone, le spedizioni e le incursioni, gli Skyborne e le edizioni"
+    "forever": "Le date e la roadmap, le zone, le spedizioni e le incursioni, gli Skyborne e le edizioni",
+    "dungeons/dire-maul-west": "La Crescent Key, i cinque piloni, le quattro missioni e i cinque boss fino a Prince Tortheldrin nell’Athenaeum",
+    "dungeons/dire-maul-north": "Le chiavi e le porte, il Tribute Run con l’Ogre Suit, il buff King of the Gordok, le cinque missioni e i sette ogre fino a King Gordok",
+    "dungeons/upper-blackrock-spire": "La salita in Blackrock Mountain, il Seal of Ascension, le dodici missioni e i boss da Emberseer a General Drakkisath",
+    "dungeons/lower-blackrock-spire": "La salita in Blackrock Mountain, le dodici missioni, l’evento di Urok Doomhowl e i nove boss fino a Overlord Wyrmthalak",
+    "dungeons/blackrock-depths": "La discesa in Blackrock Mountain, le chiavi, le ventidue missioni, il Ring of Law, il Grim Guzzler e ogni boss fino all’imperatore",
+    "dungeons/sunken-temple": "L’ingresso dallo Swamp of Sorrows, Atal'alarion e i santuari, le nove missioni, i guardiani troll e l’Avatar of Hakkar"
   },
   "de": {
     "journey": "Das Leveling-Addon Journey für WoW Forever: kostenlos bis Level 30, der Preis für die Route bis 60, die Installation und 10 % Rabatt mit dem Code NUTRI",
@@ -666,6 +701,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/uldaman": "Der Weg hinein über die Badlands, die acht Bosse bis Archaedas und die bisher bekannte Beute",
     "dungeons/zul-farrak": "Die Anreise durch Tanaris, alle acht Quests, das Treppenevent, der Mallet für Gahz'rilla und die Beute in den Daten von Forever",
     "dungeons/maraudon": "Die drei Portale in Desolace, alle elf Quests, das Scepter of Celebras und die acht Bosse bis Princess Theradras",
+    "dungeons/dire-maul-east": "Die drei Eingänge in Feralas, die Jagd auf Pusillin für den Crescent Key, alle fünf Quests und die vier Bosse bis Alzzin",
     "rulesets": "Normal, PvP, Roleplay, RP-PvP und Hardcore im Vergleich: Open-World-PvP, eine Fraktion, Namensregeln, endgültiger Tod und was du nie änderst",
     "dungeons/razorfen-downs": "Alle sechs Quests mit ihren Belohnungen, das Gong-Event und die neue Beute jedes Bosses",
     "experience": "Die Erfahrung für jedes Level bis 60, Quests, Kills, Dungeons, Erholungs-EP und die Boni von Lagern, Essen und dem Schlafsack",
@@ -719,7 +755,13 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "classes": "Ein Levelguide pro Klasse und Spezialisierung für jede Ära, und die Volksfähigkeiten von WoW Forever",
     "tradeskills": "Ein Guide pro Beruf für jede Ära, die Berufsvorteile von WoW Forever und Forever-Guides für Cooking, First Aid und Fishing",
     "reputations": "Ein Guide pro Fraktion von WoW Forever",
-    "forever": "Die Termine und die Roadmap, die Zonen, Dungeons und Raids, die Skyborne und die Editionen"
+    "forever": "Die Termine und die Roadmap, die Zonen, Dungeons und Raids, die Skyborne und die Editionen",
+    "dungeons/dire-maul-west": "Der Crescent Key, die fünf Pylonen, alle vier Quests und die fünf Bosse bis Prince Tortheldrin im Athenaeum",
+    "dungeons/dire-maul-north": "Schlüssel und Türen, der Tribute Run mit dem Ogre Suit, der Buff King of the Gordok, alle fünf Quests und die sieben Oger bis King Gordok",
+    "dungeons/upper-blackrock-spire": "Der Weg nach oben in Blackrock Mountain, das Seal of Ascension, alle zwölf Quests und die Bosse von Emberseer bis General Drakkisath",
+    "dungeons/lower-blackrock-spire": "Der Weg nach oben in Blackrock Mountain, alle zwölf Quests, das Event von Urok Doomhowl und die neun Bosse bis Overlord Wyrmthalak",
+    "dungeons/blackrock-depths": "Der Weg hinunter in Blackrock Mountain, die Schlüssel, alle zweiundzwanzig Quests, der Ring of Law, der Grim Guzzler und jeder Boss bis zum Kaiser",
+    "dungeons/sunken-temple": "Der Weg durch die Swamp of Sorrows, Atal'alarion und die Schreine, alle neun Quests, die Trollwächter und der Avatar of Hakkar"
   }
 };
 

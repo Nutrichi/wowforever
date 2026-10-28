@@ -1,0 +1,423 @@
+{
+ "slug": "sunken-temple",
+ "levels": "46–54",
+ "bosses": [
+  {
+   "name": "Atal'alarion",
+   "slug": "atalalarion",
+   "level": "50",
+   "npc": 8580,
+   "items": []
+  },
+  {
+   "name": "Jammal'an the Prophet",
+   "slug": "jammalan-the-prophet",
+   "level": "54",
+   "npc": 5710,
+   "items": [
+    10807
+   ]
+  },
+  {
+   "name": "Wardens of the Dream",
+   "slug": "wardens-of-the-dream",
+   "level": "",
+   "npc": null,
+   "items": [
+    12465,
+    12466,
+    12243
+   ]
+  },
+  {
+   "name": "Shade of Eranikus",
+   "slug": "shade-of-eranikus",
+   "level": "55",
+   "npc": 5709,
+   "items": [
+    10833
+   ]
+  },
+  {
+   "name": "Avatar of Hakkar",
+   "slug": "avatar-of-hakkar",
+   "level": "",
+   "npc": 8443,
+   "items": [
+    10844,
+    10838
+   ]
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 1445,
+   "name": "The Temple of Atal'Hakkar",
+   "level": 50,
+   "minLevel": 38,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Fel'zerul",
+     "kind": "npc",
+     "npc": 1443,
+     "zone": "Swamp of Sorrows",
+     "place": "Stonard",
+     "at": {
+      "x": 47,
+      "y": 54
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Fel'zerul",
+     "kind": "npc",
+     "npc": 1443,
+     "zone": "Swamp of Sorrows",
+     "place": "Stonard",
+     "at": {
+      "x": 47,
+      "y": 54
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4146,
+   "name": "Zapper Fuel",
+   "level": 52,
+   "minLevel": 47,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Liv Rizzlefix",
+     "kind": "npc",
+     "npc": 8496,
+     "zone": "The Barrens",
+     "place": "Ratchet",
+     "at": {
+      "x": 62,
+      "y": 38
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Larion",
+     "kind": "npc",
+     "npc": 9118,
+     "zone": "Un'Goro Crater",
+     "place": "Marshal's Refuge"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 1475,
+   "name": "Into The Temple of Atal'Hakkar",
+   "level": 50,
+   "minLevel": 38,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Brohann Caskbelly",
+     "kind": "npc",
+     "npc": 5384,
+     "zone": "Stormwind City",
+     "place": "Dwarven District",
+     "at": {
+      "x": 64,
+      "y": 21
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Brohann Caskbelly",
+     "kind": "npc",
+     "npc": 5384,
+     "zone": "Stormwind City",
+     "place": "Dwarven District",
+     "at": {
+      "x": 64,
+      "y": 21
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 4143,
+   "name": "Haze of Evil",
+   "level": 52,
+   "minLevel": 47,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Gregan Brewspewer",
+     "kind": "npc",
+     "npc": 7775,
+     "zone": "Feralas",
+     "place": "Twin Colossals",
+     "at": {
+      "x": 45,
+      "y": 25
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Muigin",
+     "kind": "npc",
+     "npc": 9119,
+     "zone": "Un'Goro Crater",
+     "place": "Marshal's Refuge"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 1446,
+   "name": "Jammal'an the Prophet",
+   "level": 53,
+   "minLevel": 38,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Atal'ai Exile",
+     "kind": "npc",
+     "npc": 5598,
+     "zone": "The Hinterlands",
+     "at": {
+      "x": 33,
+      "y": 75
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Atal'ai Exile",
+     "kind": "npc",
+     "npc": 5598,
+     "zone": "The Hinterlands",
+     "at": {
+      "x": 33,
+      "y": 75
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 3446,
+   "name": "Into the Depths",
+   "level": 51,
+   "minLevel": 46,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Marvon Rivetseeker",
+     "kind": "npc",
+     "npc": 7771,
+     "zone": "Tanaris",
+     "at": {
+      "x": 52,
+      "y": 45
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Altar of Hakkar",
+     "kind": "object",
+     "object": null,
+     "zone": "The Temple of Atal'Hakkar"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 3447,
+   "name": "Secret of the Circle",
+   "level": 51,
+   "minLevel": 46,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Marvon Rivetseeker",
+     "kind": "npc",
+     "npc": 7771,
+     "zone": "Tanaris",
+     "at": {
+      "x": 52,
+      "y": 45
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Marvon Rivetseeker",
+     "kind": "npc",
+     "npc": 7771,
+     "zone": "Tanaris",
+     "at": {
+      "x": 52,
+      "y": 45
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 3528,
+   "name": "The God Hakkar",
+   "level": 53,
+   "minLevel": 40,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Yeh'kinya",
+     "kind": "npc",
+     "npc": 8579,
+     "zone": "Tanaris",
+     "place": "Steamwheedle Port",
+     "at": {
+      "x": 67,
+      "y": 22
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Yeh'kinya",
+     "kind": "npc",
+     "npc": 8579,
+     "zone": "Tanaris",
+     "place": "Steamwheedle Port",
+     "at": {
+      "x": 67,
+      "y": 22
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 3373,
+   "name": "The Essence of Eranikus",
+   "level": 55,
+   "minLevel": 48,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Essence of Eranikus",
+     "kind": "item",
+     "item": 10454,
+     "zone": "The Temple of Atal'Hakkar"
+    }
+   ],
+   "to": [
+    {
+     "name": "Essence Font",
+     "kind": "object",
+     "object": null,
+     "zone": "The Temple of Atal'Hakkar"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {
+  "10807": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10807\">Kilt of the Atal'ai Prophet</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">69 Armor</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+18 Intellect</span><span class=\"wf-item__line\">+18 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 50</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 9 and damage done by up to 3 for all magical spells and effects.</span></div></div>",
+  "10833": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_25.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10833\">Horns of Eranikus</a><span class=\"wf-item__line wf-item__meta\">Item Level 56</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Mail</span></span><span class=\"wf-item__line\">271 Armor</span><span class=\"wf-item__line\">+27 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 70 / 70</span><span class=\"wf-item__line\">Requires Level 51</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 11 and damage done by up to 4 for all magical spells and effects.</span></div></div>",
+  "10838": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mace_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10838\">Might of Hakkar</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>60 - 112 Damage</span><span>Speed 2.40</span></span><span class=\"wf-item__line\">(35.83 damage per second)</span><span class=\"wf-item__line\">+11 Stamina</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 0.5%.</span></div></div>",
+  "10844": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_32.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=10844\">Spire of Hakkar</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>94 - 142 Damage</span><span>Speed 3.40</span></span><span class=\"wf-item__line\">(34.71 damage per second)</span><span class=\"wf-item__line\">+16 Stamina</span><span class=\"wf-item__line\">+16 Spirit</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 62.</span><span class=\"wf-item__line wf-item__use\">Equip: Harmful spell casts have a chance to steal 112 life from the target enemy over 8 sec. (10ms cooldown)</span></div></div>",
+  "12243": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_halberd_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12243\">Smoldering Claw</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Polearm</span></span><span class=\"wf-item__row\"><span>108 - 162 Damage</span><span>Speed 2.90</span></span><span class=\"wf-item__line\">(46.55 damage per second)</span><span class=\"wf-item__line\">+10 Fire Resistance</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Hurls a fiery ball that causes 171 Fire damage and an additional 18 damage over 6 sec.</span></div></div>",
+  "12465": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12465\">Nightfall Drape</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">38 Armor</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 9.</span></div></div>",
+  "12466": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12466\">Dawnspire Cord</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Cloth</span></span><span class=\"wf-item__line\">43 Armor</span><span class=\"wf-item__line\">+19 Intellect</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 18 and damage done by up to 6 for all magical spells and effects.</span></div></div>"
+ }
+}

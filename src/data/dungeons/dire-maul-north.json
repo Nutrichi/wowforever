@@ -1,0 +1,234 @@
+{
+ "slug": "dire-maul-north",
+ "levels": "56–60",
+ "bosses": [
+  {
+   "name": "Guard Mol'dar",
+   "slug": "guard-moldar",
+   "level": "59",
+   "npc": 14326,
+   "items": []
+  },
+  {
+   "name": "Stomper Kreeg",
+   "slug": "stomper-kreeg",
+   "level": "59",
+   "npc": 14322,
+   "items": []
+  },
+  {
+   "name": "Guard Fengus",
+   "slug": "guard-fengus",
+   "level": "59",
+   "npc": 14321,
+   "items": []
+  },
+  {
+   "name": "Guard Slip'kik",
+   "slug": "guard-slipkik",
+   "level": "59",
+   "npc": 14323,
+   "items": []
+  },
+  {
+   "name": "Captain Kromcrush",
+   "slug": "captain-kromcrush",
+   "level": "61",
+   "npc": 14325,
+   "items": []
+  },
+  {
+   "name": "Cho'Rush the Observer",
+   "slug": "chorush-the-observer",
+   "level": "60",
+   "npc": 14324,
+   "items": []
+  },
+  {
+   "name": "King Gordok",
+   "slug": "king-gordok",
+   "level": "62",
+   "npc": 11501,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 1193,
+   "name": "A Broken Trap",
+   "level": 60,
+   "minLevel": 56,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Broken Trap",
+     "kind": "object",
+     "object": null,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "to": [
+    {
+     "name": "Broken Trap",
+     "kind": "object",
+     "object": null,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5518,
+   "name": "The Gordok Ogre Suit",
+   "level": 60,
+   "minLevel": 54,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Knot Thimblejack",
+     "kind": "npc",
+     "npc": 14338,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "to": [
+    {
+     "name": "Knot Thimblejack",
+     "kind": "npc",
+     "npc": 14338,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5525,
+   "name": "Free Knot!",
+   "level": 60,
+   "minLevel": 57,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Knot Thimblejack",
+     "kind": "npc",
+     "npc": 14338,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "to": [
+    {
+     "name": "Knot Thimblejack",
+     "kind": "npc",
+     "npc": 14338,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7703,
+   "name": "Unfinished Gordok Business",
+   "level": 60,
+   "minLevel": 56,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Captain Kromcrush",
+     "kind": "npc",
+     "npc": 14325,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "to": [
+    {
+     "name": "Captain Kromcrush",
+     "kind": "npc",
+     "npc": 14325,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 5528,
+   "name": "The Gordok Taste Test",
+   "level": 60,
+   "minLevel": 56,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Stomper Kreeg",
+     "kind": "npc",
+     "npc": 14322,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "to": [
+    {
+     "name": "Stomper Kreeg",
+     "kind": "npc",
+     "npc": 14322,
+     "zone": "Dire Maul",
+     "place": "Gordok Commons"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {}
+}

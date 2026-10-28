@@ -3,7 +3,7 @@ title: "Guida ai dungeon: ogni missione dei dungeon in WoW Forever"
 metaTitle: "Missioni dei dungeon di WoW Forever: ogni dungeon, livello e PNG"
 description: "Ogni dungeon di WoW Forever con i suoi livelli e tutte le sue missioni: dove inizia ciascuna, per quale fazione, cosa serve prima, e le chiavi che alcuni dungeon richiedono."
 short: "Dungeon"
-updated: 2026-10-27
+updated: 2026-10-28
 lang: it
 manual: true
 faq:
@@ -40,6 +40,13 @@ La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Per i dungeon oltre
 - **[Uldaman](/it/guides/dungeons/uldaman/)**, livelli 41-51: l’ingresso dalle Badlands, gli otto boss fino ad Archaedas e il bottino noto finora.
 - **[Zul'Farrak](/it/guides/dungeons/zul-farrak/)**, livelli 40-50: l’ingresso da Tanaris, le otto missioni, l’evento delle scale, il Mallet per Gahz'rilla e il bottino nei dati di Forever.
 - **[Maraudon](/it/guides/dungeons/maraudon/)**, livelli 41-50: i tre portali in Desolace, le undici missioni, lo Scepter of Celebras e gli otto boss fino a Princess Theradras.
+- **[Sunken Temple](/it/guides/dungeons/sunken-temple/)**, livelli 46-54: l’ingresso dallo Swamp of Sorrows, Atal'alarion e i santuari, le nove missioni, i guardiani troll e l’Avatar of Hakkar.
+- **[Blackrock Depths](/it/guides/dungeons/blackrock-depths/)**, livelli 50-60: la discesa in Blackrock Mountain, le chiavi, le ventidue missioni, il Ring of Law, il Grim Guzzler e ogni boss fino all’imperatore.
+- **[Dire Maul East](/it/guides/dungeons/dire-maul-east/)**, livelli 54-60: i tre ingressi a Feralas, l’inseguimento di Pusillin per la Crescent Key, le cinque missioni e i quattro boss fino ad Alzzin.
+- **[Lower Blackrock Spire](/it/guides/dungeons/lower-blackrock-spire/)**, livelli 55-60: la salita in Blackrock Mountain, le dodici missioni, l’evento di Urok Doomhowl e i nove boss fino a Overlord Wyrmthalak.
+- **[Dire Maul West](/it/guides/dungeons/dire-maul-west/)**, livelli 56-60: la Crescent Key, i cinque piloni, le quattro missioni e i cinque boss fino a Prince Tortheldrin nell’Athenaeum.
+- **[Dire Maul North](/it/guides/dungeons/dire-maul-north/)**, livelli 56-60: le chiavi e le porte, il Tribute Run con l’Ogre Suit, il buff King of the Gordok, le cinque missioni e i sette ogre fino a King Gordok.
+- **[Upper Blackrock Spire](/it/guides/dungeons/upper-blackrock-spire/)**, livelli 58-60: la salita in Blackrock Mountain, il Seal of Ascension, le dodici missioni e i boss da Emberseer a General Drakkisath.
 
 ## Ogni dungeon per livello
 
@@ -70,15 +77,17 @@ Per i dungeon con una guida, l’intervallo è quello indicato dal gioco. Per gl
 | [Zul'Farrak](/it/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/it/guides/dungeons/maraudon/) | 41-50 | 11 |
 | Alcaz Prison | 48-53 | non ancora note |
-| Sunken Temple | 46-54 | 9 |
-| Blackrock Depths | 50-60 | 24 |
-| Dire Maul | 52-60 | 13 |
+| [Sunken Temple](/it/guides/dungeons/sunken-temple/) | 46-54 | 9 |
+| [Blackrock Depths](/it/guides/dungeons/blackrock-depths/) | 50-60 | 24 |
+| [Dire Maul East](/it/guides/dungeons/dire-maul-east/) | 54-60 | 5 |
+| [Dire Maul West](/it/guides/dungeons/dire-maul-west/) | 56-60 | 2 |
+| [Dire Maul North](/it/guides/dungeons/dire-maul-north/) | 56-60 | 6 |
 | Blackmaw Hold | 55-60 | non ancora note |
 | Shaper's Terrace | 58-60 | non ancora note |
-| Lower Blackrock Spire | 54-60 | 12 |
+| [Lower Blackrock Spire](/it/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
 | Scholomance | 54-60 | 10 |
 | Stratholme | 54-60 | 14 |
-| Upper Blackrock Spire | 54-60 | 12 |
+| [Upper Blackrock Spire](/it/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## Come leggere le tabelle
 

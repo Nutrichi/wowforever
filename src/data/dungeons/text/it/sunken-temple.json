@@ -1,0 +1,15 @@
+{
+ "location": "Swamp of Sorrows, nel lago al centro",
+ "entrance": "Nuota fino al tempio nel lago, scendi nella Hall of Bones e attraversa la porta larga verso il portale.",
+ "quests": {
+  "1445": {"objective": "Raccogli 20 Fetishes of Hakkar dai troll del tempio.", "note": "Prima vengono tre missioni."},
+  "4146": {"objective": "Raccogli 5 campioni di Atal'ai Haze con l’Unloaded Zapper e portali a Larion a Marshal's Refuge.", "note": "La foschia viene dai Deep Lurkers, dai Murk Worms e dalle melme del tempio. Prima vengono due missioni."},
+  "1475": {"objective": "Raccogli 10 Atal'ai Tablets nel tempio per Brohann Caskbelly.", "note": "La fine di una catena di sei missioni."},
+  "4143": {"objective": "Raccogli 5 campioni di Atal'ai Haze e portali a Muigin a Marshal's Refuge.", "note": "La foschia viene dai Deep Lurkers, dai Murk Worms e dalle melme del tempio. Prima vengono due missioni."},
+  "1446": {"objective": "Porta la testa di Jammal'an all’Atal'ai Exile.", "note": "L’esule si trova nella zona dei ragni a sud-ovest dell’Altar of Zul."},
+  "3446": {"objective": "Trova l’Altar of Hakkar nel Sunken Temple.", "note": "Prima vengono due missioni di Marvon Rivetseeker."},
+  "3447": {"objective": "Scopri il segreto del cerchio di statue e apri lo scrigno.", "note": "Il cerchio di statue circonda l’Altar of Hakkar."},
+  "3528": {"objective": "Riempi l’Egg of Hakkar con il sangue degli Hakkari Bloodkeepers e portalo a Yeh'kinya.", "note": "La fine di una catena di tre missioni che passa per Zul'Farrak. Evoca l’Avatar of Hakkar."},
+  "3373": {"objective": "Metti l’Essence of Eranikus nell’Essence Font della sua tana.", "note": "Inizia dall’essenza che lascia la Shade of Eranikus."}
+ }
+}

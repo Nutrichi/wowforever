@@ -1,0 +1,85 @@
+{
+ "floors": [
+  {
+   "image": "lower-blackrock-spire-1.jpg",
+   "label": "Mok'Doom",
+   "markers": [
+    {
+     "n": 1,
+     "x": 38.7,
+     "y": 59.0
+    }
+   ]
+  },
+  {
+   "image": "lower-blackrock-spire-2.jpg",
+   "label": "Skitterweb Tunnels",
+   "markers": [
+    {
+     "n": 2,
+     "x": 55.3,
+     "y": 69.3
+    },
+    {
+     "n": 4,
+     "x": 62.1,
+     "y": 74.1
+    }
+   ]
+  },
+  {
+   "image": "lower-blackrock-spire-3.jpg",
+   "label": "Tazz'Alor",
+   "markers": [
+    {
+     "n": 3,
+     "x": 52.5,
+     "y": 54.5
+    }
+   ]
+  },
+  {
+   "image": "lower-blackrock-spire-4.jpg",
+   "label": "Hordemar City",
+   "markers": [
+    {
+     "n": 5,
+     "x": 45.5,
+     "y": 55.7
+    }
+   ]
+  },
+  {
+   "image": "lower-blackrock-spire-5.jpg",
+   "label": "Halycon's Lair",
+   "markers": [
+    {
+     "n": 6,
+     "x": 54.0,
+     "y": 84.4
+    },
+    {
+     "n": 7,
+     "x": 38.0,
+     "y": 84.0
+    },
+    {
+     "n": 8,
+     "x": 39.5,
+     "y": 79.3
+    }
+   ]
+  },
+  {
+   "image": "lower-blackrock-spire-6.jpg",
+   "label": "Chamber of Battle",
+   "markers": [
+    {
+     "n": 9,
+     "x": 57.5,
+     "y": 60.0
+    }
+   ]
+  }
+ ]
+}

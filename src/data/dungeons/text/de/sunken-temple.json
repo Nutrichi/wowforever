@@ -1,0 +1,15 @@
+{
+ "location": "Swamp of Sorrows, im See in der Mitte",
+ "entrance": "Schwimm zum Tempel im See, geh hinunter in die Hall of Bones und durch die breite Tür zum Portal.",
+ "quests": {
+  "1445": {"objective": "Sammle 20 Fetishes of Hakkar von den Trollen im Tempel.", "note": "Vorher kommen drei Quests."},
+  "4146": {"objective": "Sammle mit dem Unloaded Zapper 5 Proben Atal'ai Haze und bring sie zu Larion in Marshal's Refuge.", "note": "Der Dunst kommt von den Deep Lurkers, Murk Worms und Schlammen im Tempel. Vorher kommen zwei Quests."},
+  "1475": {"objective": "Sammle 10 Atal'ai Tablets im Tempel für Brohann Caskbelly.", "note": "Das Ende einer Reihe von sechs Quests."},
+  "4143": {"objective": "Sammle 5 Proben Atal'ai Haze und bring sie zu Muigin in Marshal's Refuge.", "note": "Der Dunst kommt von den Deep Lurkers, Murk Worms und Schlammen im Tempel. Vorher kommen zwei Quests."},
+  "1446": {"objective": "Bring den Kopf von Jammal'an zum Atal'ai Exile.", "note": "Der Verbannte steht im Spinnengebiet südwestlich des Altar of Zul."},
+  "3446": {"objective": "Finde den Altar of Hakkar im Sunken Temple.", "note": "Vorher kommen zwei Quests von Marvon Rivetseeker."},
+  "3447": {"objective": "Finde das Geheimnis im Kreis der Statuen und öffne die Truhe.", "note": "Der Kreis der Statuen steht um den Altar of Hakkar."},
+  "3528": {"objective": "Füll das Egg of Hakkar mit dem Blut der Hakkari Bloodkeepers und bring es zu Yeh'kinya.", "note": "Das Ende einer Reihe von drei Quests, die durch Zul'Farrak führt. Sie ruft den Avatar of Hakkar."},
+  "3373": {"objective": "Leg die Essence of Eranikus in die Essence Font in seinem Unterschlupf.", "note": "Beginnt mit der Essenz, die die Shade of Eranikus fallen lässt."}
+ }
+}

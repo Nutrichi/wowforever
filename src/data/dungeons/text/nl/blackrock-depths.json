@@ -1,0 +1,28 @@
+{
+ "location": "Blackrock Mountain, tussen de Searing Gorge en de Burning Steppes",
+ "entrance": "Diep in Blackrock Mountain: langs de kettingen naar beneden, door de Grinding Quarry naar de Masonry. Het portaal staat in de verste hoek.",
+ "quests": {
+  "4081": {"objective": "Dood 15 Anvilrage Guardsmen, 10 Anvilrage Wardens en 5 Anvilrage Footmen.", "note": "Start bij de Wanted Poster in Kargath. Meld je bij Warlord Goretooth."},
+  "4082": {"objective": "Dood 10 Anvilrage Medics, 10 Anvilrage Soldiers en 10 Anvilrage Officers.", "note": "Volgt op de eerste poster. Meld je bij Warlord Goretooth."},
+  "4132": {"objective": "Dood General Angerforge.", "note": "Eerst komen drie quests, waaronder een lange escort."},
+  "4134": {"objective": "Breng het Lost Thunderbrew Recipe naar Vivian Lagrave.", "note": "Hurley Blackbreath laat het recept vallen in de Grim Guzzler. In de Undercity is er een optionele voorquest."},
+  "7201": {"objective": "Verzamel 10 Essence of the Elements bij de golems en elementals in de dungeon."},
+  "3907": {"objective": "Dood Lord Incendius en breng de Tablet of Kurniya terug.", "note": "Volgt op Disharmony of Flame, dat je naar Overmaster Pyron in de groeve buiten stuurt."},
+  "3981": {"objective": "Zoek Commander Gor'shak in de cellen van het Detention Block.", "note": "De Prison Cell Key van High Interrogator Gerstahn opent zijn cel. De reeks gaat verder bij Thrall."},
+  "4003": {"objective": "Dood Emperor Dagran Thaurissan en bevrijd Princess Moira Bronzebeard.", "note": "Het einde van de reeks van de Horde die met Commander Gor'shak start."},
+  "4063": {"objective": "Dood Golem Lord Argelmach en verzamel 10 Intact Elemental Cores bij zijn golems.", "note": "Eerst komen twee quests van Lotwil Veriatus."},
+  "4263": {"objective": "Dood Lord Incendius.", "note": "Volgt op Overmaster Pyron, dat je naar de groeve buiten de dungeon stuurt."},
+  "4286": {"objective": "Verzamel 20 Dark Iron Fanny Packs bij de dwergen in de dungeon."},
+  "4126": {"objective": "Breng het Lost Thunderbrew Recipe naar Ragnar Thunderbrew.", "note": "Hurley Blackbreath laat het recept vallen in de Grim Guzzler."},
+  "4341": {"objective": "Zoek Kharan Mighthammer in de cellen van het Detention Block.", "note": "Eerst komen twee quests. De Prison Cell Key van Gerstahn opent zijn cel."},
+  "4362": {"objective": "Dood Emperor Dagran Thaurissan en red Princess Moira Bronzebeard.", "note": "Het einde van de reeks van de Alliance met Kharan Mighthammer."},
+  "4241": {"objective": "Zoek uit wat er met Marshal Windsor gebeurd is. Hij zit in een cel van het Detention Block.", "note": "Eerst komen twee quests, van Ragged John en Marshal Maxwell."},
+  "4322": {"objective": "Begeleid Marshal Windsor terwijl hij zijn gear terughaalt en zijn vrienden bevrijdt.", "note": "Het einde van een reeks van zes quests. Een lange escort door het Detention Block."},
+  "4136": {"objective": "Breng het hoofd van Ribbly naar Yuka Screwspigot.", "note": "Ribbly zit in de Grim Guzzler. In Steamwheedle Port is er een optionele voorquest."},
+  "4123": {"objective": "Breng het Heart of the Mountain naar Maxwort Uberglint.", "note": "Het hart ligt in een kluis van de Black Vault, achter Warder Stilgiss."},
+  "7848": {"objective": "Neem een Core Fragment bij het portaal naar Molten Core en breng het naar Lothos Riftwaker.", "note": "Kan niet gedeeld worden. Het portaal staat aan het einde van de Molten Bridge. Lothos staat in Blackrock Mountain."},
+  "3802": {"objective": "Dood Fineous Darkvire, neem Ironfel en leg het op het beeld bij de Shrine of Thaurissan.", "note": "De geest van Franclorn Forgewright zie je alleen als je dood bent. De beloning is de Shadowforge Key."},
+  "4201": {"objective": "Breng Mistress Nagmara 4 Gromsblood, 10 Giant Silver Veins en Nagmara's Filled Vial.", "note": "Kan niet gedeeld worden."},
+  "4024": {"objective": "Dood Bael'Gar en gebruik de Altered Black Dragonflight Molt op zijn resten om de Fiery Essence te vangen.", "note": "Het einde van een reeks van elf quests van Cyrus Therepentous."}
+ }
+}

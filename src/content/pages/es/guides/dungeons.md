@@ -3,7 +3,7 @@ title: "Guía de mazmorras: cada misión de mazmorra en WoW Forever"
 metaTitle: "Misiones de mazmorra de WoW Forever: cada mazmorra, nivel y PNJ"
 description: "Cada mazmorra de WoW Forever con sus niveles y todas sus misiones: dónde empieza cada una, para qué facción, qué hace falta antes, y las llaves que piden algunas mazmorras."
 short: "Mazmorras"
-updated: 2026-10-27
+updated: 2026-10-28
 lang: es
 manual: true
 faq:
@@ -40,6 +40,13 @@ La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las m
 - **[Uldaman](/es/guides/dungeons/uldaman/)**, niveles 41-51: la entrada desde las Badlands, los ocho jefes hasta Archaedas y el botín conocido hasta ahora.
 - **[Zul'Farrak](/es/guides/dungeons/zul-farrak/)**, niveles 40-50: la entrada por Tanaris, las ocho misiones, el evento de las escaleras, el Mallet para Gahz'rilla y el botín de los datos de Forever.
 - **[Maraudon](/es/guides/dungeons/maraudon/)**, niveles 41-50: los tres portales de Desolace, las once misiones, el Scepter of Celebras y los ocho jefes hasta Princess Theradras.
+- **[Sunken Temple](/es/guides/dungeons/sunken-temple/)**, niveles 46-54: la entrada por el Swamp of Sorrows, Atal'alarion y los santuarios, las nueve misiones, los guardianes trols y el Avatar of Hakkar.
+- **[Blackrock Depths](/es/guides/dungeons/blackrock-depths/)**, niveles 50-60: la bajada por Blackrock Mountain, las llaves, las veintidós misiones, el Ring of Law, el Grim Guzzler y cada jefe hasta el emperador.
+- **[Dire Maul East](/es/guides/dungeons/dire-maul-east/)**, niveles 54-60: las tres entradas en Feralas, la persecución de Pusillin por la Crescent Key, las cinco misiones y los cuatro jefes hasta Alzzin.
+- **[Lower Blackrock Spire](/es/guides/dungeons/lower-blackrock-spire/)**, niveles 55-60: la subida por Blackrock Mountain, las doce misiones, el evento de Urok Doomhowl y los nueve jefes hasta Overlord Wyrmthalak.
+- **[Dire Maul West](/es/guides/dungeons/dire-maul-west/)**, niveles 56-60: la Crescent Key, los cinco pilones, las cuatro misiones y los cinco jefes hasta Prince Tortheldrin en el Athenaeum.
+- **[Dire Maul North](/es/guides/dungeons/dire-maul-north/)**, niveles 56-60: las llaves y puertas, el Tribute Run con el Ogre Suit, el beneficio King of the Gordok, las cinco misiones y los siete ogros hasta King Gordok.
+- **[Upper Blackrock Spire](/es/guides/dungeons/upper-blackrock-spire/)**, niveles 58-60: la subida por Blackrock Mountain, el Seal of Ascension, las doce misiones y los jefes de Emberseer a General Drakkisath.
 
 ## Cada mazmorra por nivel
 
@@ -70,15 +77,17 @@ Para las mazmorras con guía, el rango es el que da el propio juego. Para las de
 | [Zul'Farrak](/es/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/es/guides/dungeons/maraudon/) | 41-50 | 11 |
 | Alcaz Prison | 48-53 | aún no se conocen |
-| Sunken Temple | 46-54 | 9 |
-| Blackrock Depths | 50-60 | 24 |
-| Dire Maul | 52-60 | 13 |
+| [Sunken Temple](/es/guides/dungeons/sunken-temple/) | 46-54 | 9 |
+| [Blackrock Depths](/es/guides/dungeons/blackrock-depths/) | 50-60 | 24 |
+| [Dire Maul East](/es/guides/dungeons/dire-maul-east/) | 54-60 | 5 |
+| [Dire Maul West](/es/guides/dungeons/dire-maul-west/) | 56-60 | 2 |
+| [Dire Maul North](/es/guides/dungeons/dire-maul-north/) | 56-60 | 6 |
 | Blackmaw Hold | 55-60 | aún no se conocen |
 | Shaper's Terrace | 58-60 | aún no se conocen |
-| Lower Blackrock Spire | 54-60 | 12 |
+| [Lower Blackrock Spire](/es/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
 | Scholomance | 54-60 | 10 |
 | Stratholme | 54-60 | 14 |
-| Upper Blackrock Spire | 54-60 | 12 |
+| [Upper Blackrock Spire](/es/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## Cómo leer las tablas
 

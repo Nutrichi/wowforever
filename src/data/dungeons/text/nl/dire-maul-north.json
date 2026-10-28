@@ -1,0 +1,11 @@
+{
+ "location": "Feralas, in het midden",
+ "entrance": "Via de deur in de noordmuur van de centrale binnenplaats van Dire Maul, met de Crescent Key uit Dire Maul East.",
+ "quests": {
+  "1193": {"objective": "Herstel de Broken Trap op het pad van Guard Slip'kik met een Frost Oil en een Thorium Widget.", "note": "Frost Oil komt van Alchemy, de Thorium Widget van Engineering; beide staan ook in het auctionhouse. De val bevriest Slip'kik voor de Tribute Run."},
+  "5518": {"objective": "Breng Knot Thimblejack 8 Rugged Leather, 4 Bolts of Runecloth, 2 Rune Thread en een Ogre Tannin.", "note": "De Ogre Tannin ligt in een mand boven, voorbij de eerste helling. Met Leatherworking of Tailoring heb je de helft van de materialen nodig. Het pak misleidt Captain Kromcrush."},
+  "5525": {"objective": "Breng Knot Thimblejack een Gordok Shackle Key. De ogres in de dungeon laten hem vallen.", "note": "Knot vertrekt na deze quest en laat een kist achter met materialen en soms een recept. Maak eerst het Ogre Suit."},
+  "7703": {"objective": "Dood Prince Tortheldrin in Dire Maul West en neem de Gauntlet of Gordok Might uit de kist achter hem.", "note": "Captain Kromcrush praat alleen met je in het Ogre Suit of na een Tribute Run. De beloning is een keuze uit handschoenen."},
+  "5528": {"objective": "Praat na een Tribute Run met Stomper Kreeg en neem zijn gratis drankjes.", "note": "Alleen met de buff King of the Gordok."}
+ }
+}

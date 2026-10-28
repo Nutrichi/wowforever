@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, zwischen der Searing Gorge und den Burning Steppes",
+ "entrance": "Durch das Portal von Blackrock Spire, hoch oben in Blackrock Mountain: die Tür neben dem Versammlungsstein, dann der Weg nach oben.",
+ "quests": {
+  "4724": {"objective": "Töte Halycon, die Rudelmutter der Bloodaxe-Worgs."},
+  "4981": {"objective": "Finde heraus, was mit Bijou in Blackrock Spire passiert ist.", "note": "Bijou sitzt im Dungeon und gibt danach Bijou's Belongings."},
+  "4903": {"objective": "Töte Highlord Omokk, War Master Voone und Overlord Wyrmthalak und bring die Important Blackrock Documents zurück.", "note": "Lässt sich nicht teilen. Der Beginn der Reihe der Horde nach Onyxia's Lair; danach folgt Eitrigg's Wisdom in Orgrimmar."},
+  "4701": {"objective": "Töte Halycon, die Quelle der Worgplage."},
+  "5089": {"objective": "Bring General Drakkisath's Command zu Marshal Maxwell.", "note": "Beginnt mit dem Gegenstand, den Overlord Wyrmthalak fallen lässt. Führt zu General Drakkisath's Demise in Upper Blackrock Spire."},
+  "5001": {"objective": "Finde Bijou's Belongings im Dungeon und bring sie ihr zurück."},
+  "4862": {"objective": "Sammle 15 Spire Spider Eggs in den Tunneln von Mother Smolderweb."},
+  "4729": {"objective": "Fang einen Bloodaxe Worg Pup mit Kiblers Käfig und bring den Caged Worg Pup zurück.", "note": "Lässt sich nicht teilen. Die Welpen laufen in Halycons Höhle."},
+  "4866": {"objective": "Lass dich von Mother Smolderweb mit Mother's Milk vergiften und geh vergiftet zurück zu Ragged John."},
+  "4742": {"objective": "Bring Vaelan die Gemstones of Smolderthorn, Spirestone und Bloodaxe und das Unadorned Seal of Ascension.", "note": "War Master Voone, Highlord Omokk und Overlord Wyrmthalak lassen die Edelsteine fallen; das Siegel fällt von Monstern im Dungeon. Das fertige Siegel öffnet Upper Blackrock Spire."},
+  "4867": {"objective": "Lies Warosh's Scroll und bring Warosh's Mojo zu Warosh.", "note": "Lässt sich nicht teilen. Warosh läuft nahe dem Anfang des Dungeons. Das Mojo fällt von Urok Doomhowl."},
+  "4788": {"objective": "Bring die Fifth und Sixth Mosh'aru Tablets zu Prospector Ironboot.", "note": "Das Ende einer Reihe von fünf Quests, die in Tanaris beginnt und durch Zul'Farrak führt."}
+ }
+}

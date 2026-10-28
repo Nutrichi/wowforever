@@ -1,0 +1,213 @@
+{
+ "slug": "dire-maul-west",
+ "levels": "56–60",
+ "bosses": [
+  {
+   "name": "Tendris Warpwood",
+   "slug": "tendris-warpwood",
+   "level": "60",
+   "npc": 11489,
+   "items": []
+  },
+  {
+   "name": "Illyanna Ravenoak",
+   "slug": "illyanna-ravenoak",
+   "level": "60",
+   "npc": 11488,
+   "items": []
+  },
+  {
+   "name": "Magister Kalendris",
+   "slug": "magister-kalendris",
+   "level": "60",
+   "npc": 11487,
+   "items": []
+  },
+  {
+   "name": "Immol'thar",
+   "slug": "immolthar",
+   "level": "61",
+   "npc": 11496,
+   "items": []
+  },
+  {
+   "name": "Prince Tortheldrin",
+   "slug": "prince-tortheldrin",
+   "level": "61",
+   "npc": 11486,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 7482,
+   "name": "Elven Legends",
+   "level": 60,
+   "minLevel": 54,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Scholar Runethorn",
+     "kind": "npc",
+     "npc": 14374,
+     "zone": "Feralas",
+     "place": "Feathermoon Stronghold",
+     "at": {
+      "x": 31,
+      "y": 43
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Scholar Runethorn",
+     "kind": "npc",
+     "npc": 14374,
+     "zone": "Feralas",
+     "place": "Feathermoon Stronghold",
+     "at": {
+      "x": 31,
+      "y": 43
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7481,
+   "name": "Elven Legends",
+   "level": 60,
+   "minLevel": 54,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Sage Korolusk",
+     "kind": "npc",
+     "npc": 14373,
+     "zone": "Feralas",
+     "place": "Camp Mojache",
+     "at": {
+      "x": 74,
+      "y": 43
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Sage Korolusk",
+     "kind": "npc",
+     "npc": 14373,
+     "zone": "Feralas",
+     "place": "Camp Mojache",
+     "at": {
+      "x": 74,
+      "y": 43
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7461,
+   "name": "The Madness Within",
+   "level": 60,
+   "minLevel": 56,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Shen'dralar Ancient",
+     "kind": "npc",
+     "npc": 14358,
+     "zone": "Dire Maul",
+     "place": "Court of the Highborne"
+    }
+   ],
+   "to": [
+    {
+     "name": "Shen'dralar Ancient",
+     "kind": "npc",
+     "npc": 14358,
+     "zone": "Dire Maul",
+     "place": "Court of the Highborne"
+    }
+   ],
+   "chain": [],
+   "next": [
+    {
+     "name": "The Treasure of the Shen'dralar",
+     "id": 7877,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 7877,
+   "name": "The Treasure of the Shen'dralar",
+   "level": 60,
+   "minLevel": 56,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Shen'dralar Ancient",
+     "kind": "npc",
+     "npc": 14358,
+     "zone": "Dire Maul",
+     "place": "Court of the Highborne"
+    }
+   ],
+   "to": [
+    {
+     "name": "Treasure of the Shen'dralar",
+     "kind": "object",
+     "object": null,
+     "zone": "Dire Maul",
+     "place": "The Athenaeum"
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Madness Within",
+     "id": 7461,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {}
+}

@@ -1,0 +1,15 @@
+{
+ "location": "Swamp of Sorrows, en el lago del centro",
+ "entrance": "Nada hasta el templo del lago, baja al Hall of Bones y cruza la puerta ancha hacia el portal.",
+ "quests": {
+  "1445": {"objective": "Recoge 20 Fetishes of Hakkar de los trols del templo.", "note": "Antes hay tres misiones."},
+  "4146": {"objective": "Recoge 5 muestras de Atal'ai Haze con el Unloaded Zapper y llévalas a Larion en Marshal's Refuge.", "note": "La bruma sale de los Deep Lurkers, Murk Worms y mocos del templo. Antes hay dos misiones."},
+  "1475": {"objective": "Recoge 10 Atal'ai Tablets en el templo para Brohann Caskbelly.", "note": "El final de una cadena de seis misiones."},
+  "4143": {"objective": "Recoge 5 muestras de Atal'ai Haze y llévalas a Muigin en Marshal's Refuge.", "note": "La bruma sale de los Deep Lurkers, Murk Worms y mocos del templo. Antes hay dos misiones."},
+  "1446": {"objective": "Lleva la cabeza de Jammal'an al Atal'ai Exile.", "note": "El exiliado está en la zona de arañas al suroeste del Altar of Zul."},
+  "3446": {"objective": "Encuentra el Altar of Hakkar en el Sunken Temple.", "note": "Antes hay dos misiones de Marvon Rivetseeker."},
+  "3447": {"objective": "Descubre el secreto del círculo de estatuas y abre el cofre.", "note": "El círculo de estatuas rodea el Altar of Hakkar."},
+  "3528": {"objective": "Llena el Egg of Hakkar con la sangre de los Hakkari Bloodkeepers y llévaselo a Yeh'kinya.", "note": "El final de una cadena de tres misiones que pasa por Zul'Farrak. Invoca al Avatar of Hakkar."},
+  "3373": {"objective": "Pon la Essence of Eranikus en la Essence Font de su guarida.", "note": "Empieza con la esencia que suelta la Shade of Eranikus."}
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "location": "Feralas, in der Mitte",
+ "entrance": "Durch die zwei Türen in der Westmauer des zentralen Hofs von Dire Maul. Ein Spieler braucht den Crescent Key aus Dire Maul East.",
+ "quests": {
+  "7482": {"objective": "Finde Kariel Winthalus in Dire Maul. Klick seine Skeletal Remains neben Lorekeeper Lydros im Athenaeum an und wähle, um ihn zu trauern.", "note": "Scholar Runethorn läuft auf der Straße durch Feathermoon Stronghold, also schau dich um. Das Schiff nach Feathermoon fährt an der Forgotten Coast ab, an der Westküste von Feralas."},
+  "7481": {"objective": "Finde Kariel Winthalus in Dire Maul. Klick seine Skeletal Remains neben Lorekeeper Lydros im Athenaeum an und wähle, um ihn zu trauern.", "note": "Sage Korolusk läuft auf der Straße durch Camp Mojache, also schau dich um."},
+  "7461": {"objective": "Schalte die fünf Pylonen ab und töte dann Immol'thar und Prince Tortheldrin.", "note": "Der Shen'dralar Ancient steht auf der Brücke oben im Court of the Highborne. Geh danach zu ihm zurück für die nächste Quest."},
+  "7877": {"objective": "Öffne den Treasure of the Shen'dralar unter der Rampe im Athenaeum und nimm deine Belohnung.", "note": "Folgt auf The Madness Within und lässt sich nicht teilen."}
+ }
+}

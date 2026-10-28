@@ -1,0 +1,28 @@
+{
+ "location": "Blackrock Mountain, zwischen der Searing Gorge und den Burning Steppes",
+ "entrance": "Tief in Blackrock Mountain: die Ketten hinunter, durch die Grinding Quarry zur Masonry. Das Portal steht in der hintersten Ecke.",
+ "quests": {
+  "4081": {"objective": "Töte 15 Anvilrage Guardsmen, 10 Anvilrage Wardens und 5 Anvilrage Footmen.", "note": "Beginnt am Wanted Poster in Kargath. Melde dich bei Warlord Goretooth."},
+  "4082": {"objective": "Töte 10 Anvilrage Medics, 10 Anvilrage Soldiers und 10 Anvilrage Officers.", "note": "Folgt auf das erste Plakat. Melde dich bei Warlord Goretooth."},
+  "4132": {"objective": "Töte General Angerforge.", "note": "Vorher kommen drei Quests, darunter eine lange Eskorte."},
+  "4134": {"objective": "Bring das Lost Thunderbrew Recipe zu Vivian Lagrave.", "note": "Hurley Blackbreath lässt das Rezept im Grim Guzzler fallen. In der Undercity gibt es eine freiwillige Vorquest."},
+  "7201": {"objective": "Sammle 10 Essence of the Elements von den Golems und Elementaren im Dungeon."},
+  "3907": {"objective": "Töte Lord Incendius und bring die Tablet of Kurniya zurück.", "note": "Folgt auf Disharmony of Flame, das dich zu Overmaster Pyron im Steinbruch draußen schickt."},
+  "3981": {"objective": "Finde Commander Gor'shak in den Zellen des Detention Block.", "note": "Der Prison Cell Key von High Interrogator Gerstahn öffnet seine Zelle. Die Reihe geht bei Thrall weiter."},
+  "4003": {"objective": "Töte Emperor Dagran Thaurissan und befreie Princess Moira Bronzebeard.", "note": "Das Ende der Reihe der Horde, die mit Commander Gor'shak beginnt."},
+  "4063": {"objective": "Töte Golem Lord Argelmach und sammle 10 Intact Elemental Cores von seinen Golems.", "note": "Vorher kommen zwei Quests von Lotwil Veriatus."},
+  "4263": {"objective": "Töte Lord Incendius.", "note": "Folgt auf Overmaster Pyron, das dich in den Steinbruch vor dem Dungeon schickt."},
+  "4286": {"objective": "Sammle 20 Dark Iron Fanny Packs von den Zwergen im Dungeon."},
+  "4126": {"objective": "Bring das Lost Thunderbrew Recipe zu Ragnar Thunderbrew.", "note": "Hurley Blackbreath lässt das Rezept im Grim Guzzler fallen."},
+  "4341": {"objective": "Finde Kharan Mighthammer in den Zellen des Detention Block.", "note": "Vorher kommen zwei Quests. Der Prison Cell Key von Gerstahn öffnet seine Zelle."},
+  "4362": {"objective": "Töte Emperor Dagran Thaurissan und rette Princess Moira Bronzebeard.", "note": "Das Ende der Reihe der Allianz mit Kharan Mighthammer."},
+  "4241": {"objective": "Finde heraus, was mit Marshal Windsor passiert ist. Er sitzt in einer Zelle des Detention Block.", "note": "Vorher kommen zwei Quests, von Ragged John und Marshal Maxwell."},
+  "4322": {"objective": "Begleite Marshal Windsor, während er seine Ausrüstung zurückholt und seine Freunde befreit.", "note": "Das Ende einer Reihe von sechs Quests. Eine lange Eskorte durch den Detention Block."},
+  "4136": {"objective": "Bring Ribblys Kopf zu Yuka Screwspigot.", "note": "Ribbly sitzt im Grim Guzzler. In Steamwheedle Port gibt es eine freiwillige Vorquest."},
+  "4123": {"objective": "Bring das Heart of the Mountain zu Maxwort Uberglint.", "note": "Das Herz liegt in einem Safe der Black Vault, hinter Warder Stilgiss."},
+  "7848": {"objective": "Nimm am Portal zu Molten Core ein Core Fragment und bring es zu Lothos Riftwaker.", "note": "Lässt sich nicht teilen. Das Portal liegt am Ende der Molten Bridge. Lothos steht in Blackrock Mountain."},
+  "3802": {"objective": "Töte Fineous Darkvire, nimm Ironfel und leg es auf die Statue am Shrine of Thaurissan.", "note": "Den Geist von Franclorn Forgewright siehst du nur als Toter. Die Belohnung ist der Shadowforge Key."},
+  "4201": {"objective": "Bring Mistress Nagmara 4 Gromsblood, 10 Giant Silver Veins und Nagmara's Filled Vial.", "note": "Lässt sich nicht teilen."},
+  "4024": {"objective": "Töte Bael'Gar und benutze das Altered Black Dragonflight Molt an seinen Überresten, um die Fiery Essence einzufangen.", "note": "Das Ende einer Reihe von elf Quests von Cyrus Therepentous."}
+ }
+}

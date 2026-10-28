@@ -1,0 +1,28 @@
+{
+ "location": "Blackrock Mountain, entre la Searing Gorge et les Burning Steppes",
+ "entrance": "Au fond de Blackrock Mountain : en bas des chaînes, à travers la Grinding Quarry jusqu’à la Masonry. Le portail est dans le coin du fond.",
+ "quests": {
+  "4081": {"objective": "Tuez 15 Anvilrage Guardsmen, 10 Anvilrage Wardens et 5 Anvilrage Footmen.", "note": "Commence à la Wanted Poster de Kargath. Faites votre rapport à Warlord Goretooth."},
+  "4082": {"objective": "Tuez 10 Anvilrage Medics, 10 Anvilrage Soldiers et 10 Anvilrage Officers.", "note": "Suit la première affiche. Faites votre rapport à Warlord Goretooth."},
+  "4132": {"objective": "Tuez General Angerforge.", "note": "Trois quêtes viennent d’abord, dont une longue escorte."},
+  "4134": {"objective": "Apportez la Lost Thunderbrew Recipe à Vivian Lagrave.", "note": "Hurley Blackbreath laisse la recette au Grim Guzzler. L’Undercity a une quête d’introduction facultative."},
+  "7201": {"objective": "Récoltez 10 Essence of the Elements sur les golems et les élémentaires du donjon."},
+  "3907": {"objective": "Tuez Lord Incendius et rapportez la Tablet of Kurniya.", "note": "Suit Disharmony of Flame, qui vous envoie contre Overmaster Pyron dans la carrière dehors."},
+  "3981": {"objective": "Trouvez Commander Gor'shak dans les cellules du Detention Block.", "note": "La Prison Cell Key de High Interrogator Gerstahn ouvre sa cellule. La chaîne continue chez Thrall."},
+  "4003": {"objective": "Tuez Emperor Dagran Thaurissan et libérez Princess Moira Bronzebeard.", "note": "La fin de la chaîne de la Horde qui commence avec Commander Gor'shak."},
+  "4063": {"objective": "Tuez Golem Lord Argelmach et récoltez 10 Intact Elemental Cores sur ses golems.", "note": "Deux quêtes de Lotwil Veriatus viennent d’abord."},
+  "4263": {"objective": "Tuez Lord Incendius.", "note": "Suit Overmaster Pyron, qui vous envoie dans la carrière hors du donjon."},
+  "4286": {"objective": "Récoltez 20 Dark Iron Fanny Packs sur les nains du donjon."},
+  "4126": {"objective": "Apportez la Lost Thunderbrew Recipe à Ragnar Thunderbrew.", "note": "Hurley Blackbreath laisse la recette au Grim Guzzler."},
+  "4341": {"objective": "Trouvez Kharan Mighthammer dans les cellules du Detention Block.", "note": "Deux quêtes viennent d’abord. La Prison Cell Key de Gerstahn ouvre sa cellule."},
+  "4362": {"objective": "Tuez Emperor Dagran Thaurissan et sauvez Princess Moira Bronzebeard.", "note": "La fin de la chaîne de l’Alliance avec Kharan Mighthammer."},
+  "4241": {"objective": "Découvrez ce qui est arrivé à Marshal Windsor. Il est dans une cellule du Detention Block.", "note": "Deux quêtes viennent d’abord, de Ragged John et de Marshal Maxwell."},
+  "4322": {"objective": "Escortez Marshal Windsor pendant qu’il récupère son équipement et libère ses amis.", "note": "La fin d’une chaîne de six quêtes. Une longue escorte dans le Detention Block."},
+  "4136": {"objective": "Apportez la tête de Ribbly à Yuka Screwspigot.", "note": "Ribbly se trouve au Grim Guzzler. Steamwheedle Port a une quête d’introduction facultative."},
+  "4123": {"objective": "Apportez le Heart of the Mountain à Maxwort Uberglint.", "note": "Le cœur est dans un coffre-fort de la Black Vault, derrière Warder Stilgiss."},
+  "7848": {"objective": "Prenez un Core Fragment au portail de Molten Core et apportez-le à Lothos Riftwaker.", "note": "Ne peut pas être partagée. Le portail est au bout du Molten Bridge. Lothos se tient dans Blackrock Mountain."},
+  "3802": {"objective": "Tuez Fineous Darkvire, prenez Ironfel et posez-le sur la statue du Shrine of Thaurissan.", "note": "Le fantôme de Franclorn Forgewright n’est visible que quand vous êtes mort. La récompense est la Shadowforge Key."},
+  "4201": {"objective": "Apportez à Mistress Nagmara 4 Gromsblood, 10 Giant Silver Veins et Nagmara's Filled Vial.", "note": "Ne peut pas être partagée."},
+  "4024": {"objective": "Tuez Bael'Gar et utilisez l’Altered Black Dragonflight Molt sur ses restes pour capturer la Fiery Essence.", "note": "La fin d’une chaîne de onze quêtes de Cyrus Therepentous."}
+ }
+}

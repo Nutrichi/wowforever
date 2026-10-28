@@ -3,7 +3,7 @@ title: "Dungeongids: elke dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: elke dungeon, elk level en elke questgever"
 description: "Elke dungeon van WoW Forever met zijn levels en al zijn quests: waar elke quest begint, voor welke factie, wat eerst moet, en de sleutels die sommige dungeons vragen."
 short: "Dungeons"
-updated: 2026-10-27
+updated: 2026-10-28
 lang: nl
 manual: true
 faq:
@@ -40,6 +40,13 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 - **[Uldaman](/nl/guides/dungeons/uldaman/)**, level 41-51: de weg erheen vanuit de Badlands, de acht bazen tot Archaedas en de loot die tot nu toe bekend is.
 - **[Zul'Farrak](/nl/guides/dungeons/zul-farrak/)**, level 40-50: de weg erheen door Tanaris, alle acht de quests, het trappenevent, de Mallet voor Gahz'rilla en de loot in de data van Forever.
 - **[Maraudon](/nl/guides/dungeons/maraudon/)**, level 41-50: de drie portalen in Desolace, alle elf de quests, de Scepter of Celebras en de acht bazen tot Princess Theradras.
+- **[Sunken Temple](/nl/guides/dungeons/sunken-temple/)**, level 46-54: de weg erin door de Swamp of Sorrows, Atal'alarion en de heiligdommen, alle negen de quests, de trollenwachters en de Avatar of Hakkar.
+- **[Blackrock Depths](/nl/guides/dungeons/blackrock-depths/)**, level 50-60: de weg naar beneden in Blackrock Mountain, de sleutels, alle tweeëntwintig quests, de Ring of Law, de Grim Guzzler en elke baas tot de keizer.
+- **[Dire Maul East](/nl/guides/dungeons/dire-maul-east/)**, level 54-60: de drie ingangen in Feralas, de achtervolging van Pusillin voor de Crescent Key, alle vijf de quests en de vier bazen tot Alzzin.
+- **[Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/)**, level 55-60: de weg naar boven in Blackrock Mountain, alle twaalf de quests, het event van Urok Doomhowl en de negen bazen tot Overlord Wyrmthalak.
+- **[Dire Maul West](/nl/guides/dungeons/dire-maul-west/)**, level 56-60: de Crescent Key, de vijf pylonen, alle vier de quests en de vijf bazen tot Prince Tortheldrin in het Athenaeum.
+- **[Dire Maul North](/nl/guides/dungeons/dire-maul-north/)**, level 56-60: de sleutels en deuren, de Tribute Run met het Ogre Suit, de buff King of the Gordok, alle vijf de quests en de zeven ogres tot King Gordok.
+- **[Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/)**, level 58-60: de weg naar boven in Blackrock Mountain, de Seal of Ascension, alle twaalf de quests en de bazen van Emberseer tot General Drakkisath.
 
 ## Elke dungeon op level
 
@@ -70,15 +77,17 @@ Voor de dungeons met een gids is het bereik dat van het spel zelf. Voor de ander
 | [Zul'Farrak](/nl/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/nl/guides/dungeons/maraudon/) | 41-50 | 11 |
 | Alcaz Prison | 48-53 | nog niet bekend |
-| Sunken Temple | 46-54 | 9 |
-| Blackrock Depths | 50-60 | 24 |
-| Dire Maul | 52-60 | 13 |
+| [Sunken Temple](/nl/guides/dungeons/sunken-temple/) | 46-54 | 9 |
+| [Blackrock Depths](/nl/guides/dungeons/blackrock-depths/) | 50-60 | 24 |
+| [Dire Maul East](/nl/guides/dungeons/dire-maul-east/) | 54-60 | 5 |
+| [Dire Maul West](/nl/guides/dungeons/dire-maul-west/) | 56-60 | 2 |
+| [Dire Maul North](/nl/guides/dungeons/dire-maul-north/) | 56-60 | 6 |
 | Blackmaw Hold | 55-60 | nog niet bekend |
 | Shaper's Terrace | 58-60 | nog niet bekend |
-| Lower Blackrock Spire | 54-60 | 12 |
+| [Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
 | Scholomance | 54-60 | 10 |
 | Stratholme | 54-60 | 14 |
-| Upper Blackrock Spire | 54-60 | 12 |
+| [Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## Zo lees je de tabellen
 

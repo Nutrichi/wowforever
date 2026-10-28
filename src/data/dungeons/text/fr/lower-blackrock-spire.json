@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, entre la Searing Gorge et les Burning Steppes",
+ "entrance": "Par le portail de Blackrock Spire, en haut de Blackrock Mountain : la porte à côté de la pierre de rencontre, puis le chemin vers le haut.",
+ "quests": {
+  "4724": {"objective": "Tuez Halycon, la mère de meute des worgs Bloodaxe."},
+  "4981": {"objective": "Découvrez ce qui est arrivé à Bijou dans Blackrock Spire.", "note": "Bijou se trouve dans le donjon et donne ensuite Bijou's Belongings."},
+  "4903": {"objective": "Tuez Highlord Omokk, War Master Voone et Overlord Wyrmthalak, et rapportez les Important Blackrock Documents.", "note": "Ne peut pas être partagée. Le début de la chaîne de la Horde vers Onyxia's Lair ; ensuite vient Eitrigg's Wisdom à Orgrimmar."},
+  "4701": {"objective": "Tuez Halycon, la source de la menace des worgs."},
+  "5089": {"objective": "Apportez General Drakkisath's Command à Marshal Maxwell.", "note": "Commence par l’objet laissé par Overlord Wyrmthalak. Mène à General Drakkisath's Demise dans Upper Blackrock Spire."},
+  "5001": {"objective": "Trouvez Bijou's Belongings dans le donjon et rapportez-les-lui."},
+  "4862": {"objective": "Récoltez 15 Spire Spider Eggs dans les tunnels de Mother Smolderweb."},
+  "4729": {"objective": "Attrapez un Bloodaxe Worg Pup avec la cage de Kibler et rapportez le Caged Worg Pup.", "note": "Ne peut pas être partagée. Les petits courent dans l’antre d’Halycon."},
+  "4866": {"objective": "Laissez Mother Smolderweb vous empoisonner avec Mother's Milk, puis retournez voir Ragged John tant que vous êtes empoisonné."},
+  "4742": {"objective": "Apportez à Vaelan les Gemstones of Smolderthorn, Spirestone et Bloodaxe et l’Unadorned Seal of Ascension.", "note": "War Master Voone, Highlord Omokk et Overlord Wyrmthalak laissent les gemmes ; le sceau tombe des monstres du donjon. Le sceau terminé ouvre Upper Blackrock Spire."},
+  "4867": {"objective": "Lisez Warosh's Scroll et apportez Warosh's Mojo à Warosh.", "note": "Ne peut pas être partagée. Warosh se promène près du début du donjon. Le mojo tombe d’Urok Doomhowl."},
+  "4788": {"objective": "Apportez les Fifth et Sixth Mosh'aru Tablets à Prospector Ironboot.", "note": "La fin d’une chaîne de cinq quêtes qui commence à Tanaris et passe par Zul'Farrak."}
+ }
+}

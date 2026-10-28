@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, tra la Searing Gorge e le Burning Steppes",
+ "entrance": "Dal portale di Blackrock Spire, in alto in Blackrock Mountain: la porta accanto alla pietra d’incontro, poi il sentiero verso l’alto.",
+ "quests": {
+  "4724": {"objective": "Uccidi Halycon, la madre del branco dei worg Bloodaxe."},
+  "4981": {"objective": "Scopri cosa è successo a Bijou in Blackrock Spire.", "note": "Bijou si trova nel dungeon e poi dà Bijou's Belongings."},
+  "4903": {"objective": "Uccidi Highlord Omokk, War Master Voone e Overlord Wyrmthalak, e riporta gli Important Blackrock Documents.", "note": "Non si può condividere. L’inizio della catena dell’Orda verso Onyxia's Lair; poi viene Eitrigg's Wisdom a Orgrimmar."},
+  "4701": {"objective": "Uccidi Halycon, l’origine della minaccia dei worg."},
+  "5089": {"objective": "Porta General Drakkisath's Command a Marshal Maxwell.", "note": "Inizia dall’oggetto lasciato da Overlord Wyrmthalak. Porta a General Drakkisath's Demise in Upper Blackrock Spire."},
+  "5001": {"objective": "Trova Bijou's Belongings nel dungeon e riportali a lei."},
+  "4862": {"objective": "Raccogli 15 Spire Spider Eggs nei tunnel di Mother Smolderweb."},
+  "4729": {"objective": "Cattura un Bloodaxe Worg Pup con la gabbia di Kibler e riporta il Caged Worg Pup.", "note": "Non si può condividere. I cuccioli corrono nella tana di Halycon."},
+  "4866": {"objective": "Fatti avvelenare da Mother Smolderweb con Mother's Milk e torna da Ragged John finché sei ancora avvelenato."},
+  "4742": {"objective": "Porta a Vaelan le Gemstones of Smolderthorn, Spirestone e Bloodaxe e l’Unadorned Seal of Ascension.", "note": "War Master Voone, Highlord Omokk e Overlord Wyrmthalak lasciano le gemme; il sigillo cade dai mostri del dungeon. Il sigillo finito apre Upper Blackrock Spire."},
+  "4867": {"objective": "Leggi Warosh's Scroll e porta Warosh's Mojo a Warosh.", "note": "Non si può condividere. Warosh gira vicino all’inizio del dungeon. Il mojo cade da Urok Doomhowl."},
+  "4788": {"objective": "Porta le Fifth e Sixth Mosh'aru Tablets a Prospector Ironboot.", "note": "La fine di una catena di cinque missioni che inizia a Tanaris e passa per Zul'Farrak."}
+ }
+}

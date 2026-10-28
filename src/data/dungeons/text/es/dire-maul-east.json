@@ -1,0 +1,11 @@
+{
+ "location": "Feralas, en el centro",
+ "entrance": "Por el patio central de Dire Maul en el centro de Feralas: una puerta en el muro este, una puerta desde Eldreth Row, o la puerta trasera del Lariss Pavilion con la Crescent Key.",
+ "quests": {
+  "7488": {"objective": "Trae Lethtendris's Web. Lo suelta Lethtendris.", "note": "Courier Hammerfall en Ironforge da la misión previa Feathermoon Stronghold. El barco a Feathermoon sale de la Forgotten Coast, en la costa oeste de Feralas."},
+  "7489": {"objective": "Trae Lethtendris's Web. Lo suelta Lethtendris.", "note": "Warcaller Gorlach en Orgrimmar da la misión previa Camp Mojache."},
+  "7441": {"objective": "Consigue el Book of Incantations de Pusillin. Háblale cada vez que se pare y pelea con él en la plataforma al final de la persecución.", "note": "También suelta la Crescent Key. La salida al fondo de su sala lleva directamente a Azj'Tordin."},
+  "5526": {"objective": "Mata a Alzzin the Wildshaper, recoge un Felvine Shard de la Felvine que hay detrás de él y séllalo en el Reliquary of Purity.", "note": "Haz primero A Reliquary of Purity para Rabine Saturna: el relicario está en un edificio de Southwind Village, en Silithus. La misión no se puede compartir."},
+  "7463": {"objective": "Mata a Hydrospawn y lleva su Hydrospawn Essence a Lorekeeper Lydros.", "note": "Solo para Mages. Lydros está en el Athenaeum de Dire Maul West. La recompensa es el rango más alto de Conjure Water."}
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, entre la Searing Gorge et les Burning Steppes",
+ "entrance": "Par le portail de Blackrock Spire, en haut de Blackrock Mountain. À l’intérieur, le Seal of Ascension ouvre la porte à gauche de l’entrée.",
+ "quests": {
+  "4768": {"objective": "Rapportez la Darkstone Tablet. Elle se trouve dans Upper Blackrock Spire.", "note": "L’Undercity a une quête d’introduction facultative qui vous envoie à Vivian Lagrave."},
+  "4974": {"objective": "Tuez Warchief Rend Blackhand et apportez sa tête à Thrall.", "note": "Faites d’abord Warlord's Command dans Lower Blackrock Spire et Eitrigg's Wisdom."},
+  "6602": {"objective": "Tuez General Drakkisath et apportez son sang à Rexxar.", "note": "La fin de l’accès à Onyxia's Lair côté Horde, une chaîne de treize quêtes qui commence par Warlord's Command. Rexxar parcourt Desolace."},
+  "4764": {"objective": "Rapportez Doomrigger's Clasp. Il se trouve dans Upper Blackrock Spire.", "note": "Stormwind Keep a une quête d’introduction facultative qui vous envoie à Mayara Brightwing."},
+  "5102": {"objective": "Tuez General Drakkisath et faites votre rapport à Marshal Maxwell.", "note": "Faites d’abord General Drakkisath's Command, qui commence par un objet d’Overlord Wyrmthalak dans Lower Blackrock Spire."},
+  "6502": {"objective": "Tuez General Drakkisath et apportez son sang à Haleh.", "note": "La fin de l’accès à Onyxia's Lair côté Alliance, dix quêtes qui commencent par Dragonkin Menace. Marchez sur la rune bleue au bout de Mazthoril pour appeler Haleh."},
+  "7761": {"objective": "Tuez General Drakkisath et touchez sa marque derrière lui pour obtenir la Mark of Drakkisath.", "note": "Commence par Blackhand's Command, laissé par le Scarshield Quartermaster dans le couloir latéral de Blackrock Mountain. Dans Classic, elle ouvrait Blackwing Lair."},
+  "5160": {"objective": "Apportez l’écaille d’Awbee à Haleh, à Winterspring.", "note": "Awbee se tient sur une petite corniche dans la salle après Rend Blackhand."},
+  "5047": {"objective": "Parlez à Malyfous Darkhammer à Everlook.", "note": "Pip Quickwit n’apparaît que si un joueur avec Skinning 300 dépèce The Beast."},
+  "4735": {"objective": "Apportez 8 Collected Dragon Eggs et le Collectronic Module à Tinkee Steamboil.", "note": "Les œufs se trouvent dans la Rookery ; en prendre un peut réveiller les dragonnets. Six quêtes de Tinkee viennent d’abord."},
+  "6821": {"objective": "Apportez l’Eye of the Emberseer à Duke Hydraxis.", "note": "Faites d’abord deux quêtes pour Duke Hydraxis à Azshara. La chaîne continue dans Molten Core."},
+  "5127": {"objective": "Tuez Goraluk Anvilcrack, utilisez la Blood Stained Pike sur son corps et apportez à Lorax la Soul Stained Pike et l’Unforged Rune Covered Breastplate.", "note": "Forgerons uniquement. Dans Classic, la récompense était la Demon Forged Breastplate."}
+ }
+}

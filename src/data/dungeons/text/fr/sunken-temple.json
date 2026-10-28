@@ -1,0 +1,15 @@
+{
+ "location": "Swamp of Sorrows, dans le lac au centre",
+ "entrance": "Nagez jusqu’au temple dans le lac, descendez au Hall of Bones et passez la large porte vers le portail.",
+ "quests": {
+  "1445": {"objective": "Récoltez 20 Fetishes of Hakkar sur les trolls du temple.", "note": "Trois quêtes viennent d’abord."},
+  "4146": {"objective": "Récoltez 5 échantillons d’Atal'ai Haze avec l’Unloaded Zapper et apportez-les à Larion à Marshal's Refuge.", "note": "La brume vient des Deep Lurkers, des Murk Worms et des limons du temple. Deux quêtes viennent d’abord."},
+  "1475": {"objective": "Récoltez 10 Atal'ai Tablets dans le temple pour Brohann Caskbelly.", "note": "La fin d’une chaîne de six quêtes."},
+  "4143": {"objective": "Récoltez 5 échantillons d’Atal'ai Haze et apportez-les à Muigin à Marshal's Refuge.", "note": "La brume vient des Deep Lurkers, des Murk Worms et des limons du temple. Deux quêtes viennent d’abord."},
+  "1446": {"objective": "Apportez la tête de Jammal'an à l’Atal'ai Exile.", "note": "L’exilé se tient dans la zone des araignées au sud-ouest de l’Altar of Zul."},
+  "3446": {"objective": "Trouvez l’Altar of Hakkar dans le Sunken Temple.", "note": "Deux quêtes de Marvon Rivetseeker viennent d’abord."},
+  "3447": {"objective": "Trouvez le secret du cercle de statues et ouvrez le coffre.", "note": "Le cercle de statues entoure l’Altar of Hakkar."},
+  "3528": {"objective": "Remplissez l’Egg of Hakkar avec le sang des Hakkari Bloodkeepers et apportez-le à Yeh'kinya.", "note": "La fin d’une chaîne de trois quêtes qui passe par Zul'Farrak. Elle appelle l’Avatar of Hakkar."},
+  "3373": {"objective": "Placez l’Essence of Eranikus dans l’Essence Font de son antre.", "note": "Commence par l’essence que laisse la Shade of Eranikus."}
+ }
+}

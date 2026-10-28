@@ -1,0 +1,18 @@
+{
+ "location": "Blackrock Mountain, between the Searing Gorge and the Burning Steppes",
+ "entrance": "Through the portal of Blackrock Spire, high in Blackrock Mountain: the door next to the meeting stone, then the path up.",
+ "quests": {
+  "4724": {"objective": "Kill Halycon, the pack mistress of the Bloodaxe worgs."},
+  "4981": {"objective": "Find out what happened to Bijou in Blackrock Spire.", "note": "Bijou sits in the dungeon and gives Bijou's Belongings next."},
+  "4903": {"objective": "Kill Highlord Omokk, War Master Voone and Overlord Wyrmthalak, and bring back the Important Blackrock Documents.", "note": "Cannot be shared. The start of the Horde chain towards Onyxia's Lair; next comes Eitrigg's Wisdom in Orgrimmar."},
+  "4701": {"objective": "Kill Halycon, the source of the worg threat."},
+  "5089": {"objective": "Bring General Drakkisath's Command to Marshal Maxwell.", "note": "Starts from the item that Overlord Wyrmthalak drops. Leads to General Drakkisath's Demise in Upper Blackrock Spire."},
+  "5001": {"objective": "Find Bijou's Belongings in the dungeon and bring them back to her."},
+  "4862": {"objective": "Collect 15 Spire Spider Eggs in the tunnels of Mother Smolderweb."},
+  "4729": {"objective": "Catch a Bloodaxe Worg Pup with Kibler's cage and bring back the Caged Worg Pup.", "note": "Cannot be shared. The pups run in Halycon's lair."},
+  "4866": {"objective": "Let Mother Smolderweb poison you with Mother's Milk, then go back to Ragged John while still poisoned."},
+  "4742": {"objective": "Bring Vaelan the Gemstones of Smolderthorn, Spirestone and Bloodaxe and the Unadorned Seal of Ascension.", "note": "War Master Voone, Highlord Omokk and Overlord Wyrmthalak drop the gemstones; the seal drops from monsters in the dungeon. The finished seal opens Upper Blackrock Spire."},
+  "4867": {"objective": "Read Warosh's Scroll and bring Warosh's Mojo to Warosh.", "note": "Cannot be shared. Warosh walks near the beginning of the dungeon. The mojo drops from Urok Doomhowl."},
+  "4788": {"objective": "Bring the Fifth and Sixth Mosh'aru Tablets to Prospector Ironboot.", "note": "The end of a chain of five quests that starts in Tanaris and runs through Zul'Farrak."}
+ }
+}
