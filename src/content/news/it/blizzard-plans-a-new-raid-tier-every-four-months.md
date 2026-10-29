@@ -1,7 +1,7 @@
 ---
 title: "Blizzard prevede un nuovo raid ogni quattro mesi"
 description: "World of Warcraft: Forever riceve un nuovo tier di raid circa ogni 17 settimane, con stagioni PvP allo stesso ritmo e piccoli sblocchi nel mezzo, secondo il designer di Blizzard Kris Zierhut."
-date: 2026-10-29T18:20:00+01:00
+date: 2026-10-29T19:16:00+01:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-09-12-wow-forever-roadmap.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/three-new-raid-tiers-and-pvp-seasons-planned-for-2027/"
 tags: ["forever", "raid", "pvp"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever riceve un nuovo tier di raid circa ogni quattro mesi, cioè 17 settimane. Lo dice Kris Zierhut, principal game designer, in un'intervista. Le stagioni PvP seguono lo stesso ritmo, e piccoli sblocchi riempiono i mesi nel mezzo.

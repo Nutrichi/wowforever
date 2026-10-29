@@ -1,7 +1,7 @@
 ---
 title: "Blizzard prévoit un nouveau raid tous les 4 mois"
 description: "World of Warcraft: Forever reçoit un nouveau palier de raid environ toutes les 17 semaines, avec des saisons PvP au même rythme et de petits ajouts entre les deux, selon Kris Zierhut."
-date: 2026-10-29T18:20:00+01:00
+date: 2026-10-29T19:16:00+01:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-09-12-wow-forever-roadmap.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/three-new-raid-tiers-and-pvp-seasons-planned-for-2027/"
 tags: ["forever", "raid", "pvp"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever reçoit un nouveau palier de raid environ tous les quatre mois, soit 17 semaines. Kris Zierhut, principal game designer, l'annonce dans une interview. Les saisons PvP suivent le même rythme, et de petits ajouts remplissent les mois entre les deux.

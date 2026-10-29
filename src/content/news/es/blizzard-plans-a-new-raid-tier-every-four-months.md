@@ -1,7 +1,7 @@
 ---
 title: "Blizzard planea una banda nueva cada cuatro meses"
 description: "World of Warcraft: Forever recibe un nuevo nivel de banda cada 17 semanas más o menos, con temporadas de PvP al mismo ritmo y pequeños desbloqueos entre medias, según Kris Zierhut."
-date: 2026-10-29T18:20:00+01:00
+date: 2026-10-29T19:16:00+01:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-09-12-wow-forever-roadmap.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/three-new-raid-tiers-and-pvp-seasons-planned-for-2027/"
 tags: ["forever", "raid", "pvp"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever recibe un nuevo nivel de banda más o menos cada cuatro meses, o 17 semanas. Lo dice Kris Zierhut, principal game designer, en una entrevista. Las temporadas de PvP siguen el mismo ritmo, y pequeños desbloqueos llenan los meses intermedios.

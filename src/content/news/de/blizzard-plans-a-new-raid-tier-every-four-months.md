@@ -1,7 +1,7 @@
 ---
 title: "Blizzard plant alle vier Monate einen neuen Raid"
 description: "World of Warcraft: Forever bekommt etwa alle 17 Wochen eine neue Raidstufe, mit PvP-Saisons im selben Rhythmus und kleineren Freischaltungen dazwischen, sagt Blizzard-Designer Kris Zierhut."
-date: 2026-10-29T18:20:00+01:00
+date: 2026-10-29T19:16:00+01:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-09-12-wow-forever-roadmap.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/three-new-raid-tiers-and-pvp-seasons-planned-for-2027/"
 tags: ["forever", "raid", "pvp"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever bekommt etwa alle vier Monate, also alle 17 Wochen, eine neue Raidstufe. Das sagt Principal Game Designer Kris Zierhut in einem Interview. PvP-Saisons folgen demselben Rhythmus, und kleinere Freischaltungen füllen die Monate dazwischen.
