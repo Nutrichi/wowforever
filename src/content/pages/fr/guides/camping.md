@@ -1,9 +1,9 @@
 ---
 title: "Le camping dans WoW Forever : feux de camp, objets et buffs"
-metaTitle: "Guide du camping de WoW Forever : feux de camp, chaque objet de camp et son buff"
+metaTitle: "Camping dans WoW Forever : feux de camp, objets de camp et buffs"
 description: "Le fonctionnement du camping dans WoW Forever : les trois feux de camp, le buff de chaque métier, le coût de chaque objet de camp, les ateliers des paliers 2 et 3 et où tombent les blueprints."
 short: "Camping"
-updated: 2026-10-10
+updated: 2026-10-29
 lang: fr
 video: kYvgaUnDl7A
 faq:
@@ -18,6 +18,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/camping/"
   - name: "Warcraft Tavern, objets de camp"
     url: "https://www.warcrafttavern.com/forever/guides/camping-objects-buffs/"
+  - name: "Warcraft Tavern, la Scarlet Banner"
+    url: "https://www.warcrafttavern.com/forever/guides/scarlet-banner/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever"
 ---
@@ -137,6 +139,30 @@ Les paliers 2 et 3 s’apprennent avec des blueprints. La plupart des sources ne
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273085"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fermenter</a> | [Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/) |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Razorclaw the Butcher dans Shadowfang Keep |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a> | Pêché dans des bancs |
+
+## La Scarlet Banner
+
+<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=278030"><img class="wf-wh__icon" src="/wh/inv_misc_token_scarletcrusade.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Banner</a> est un objet de camp sans métier. On le plante près d'un feu de camp, avec un temps de recharge d'une heure. Pour l'instant, il ne donne aucun buff : il est purement décoratif. On l'obtient grâce à quatre tombes et une énigme dans la [Scarlet Monastery Library](/fr/guides/dungeons/scarlet-monastery-library/). Les Priests de Season of Discovery connaissent le trajet, qui y donnait la rune Pain Suppression.
+
+**1. Récupérez quatre Echoes.** Cliquez sur la tombe à chacun de ces endroits.
+
+| Echo | Où |
+|---|---|
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215427"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arathi Echo</a> | Arathi Highlands, derrière la grange de Go'shek Farm, /way 62.2 54.5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215428"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Theramore Echo</a> | Dustwallow Marsh, le cimetière de l'autre côté du pont de Theramore Isle, /way 63.7 42.4 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215425"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swamp Echo</a> | Swamp of Sorrows, près d'un arbre à Splinterspear Junction, près de Deadwind Pass, /way 16.8 53.6 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215426"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graveyard Echo</a> | Scarlet Monastery Graveyard, dans le coin du fond près du mausolée, côté sud |
+
+**2. Utilisez-les devant quatre statues de la Library.** Les statues se trouvent dans un des couloirs. À côté d'une statue, un buff indique qui elle représente. Utilisez le bon Echo devant la bonne statue, dans cet ordre :
+
+| Ordre | Statue | Echo |
+|---|---|---|
+| **1** | Blake Godwyn, Warrior | Swamp Echo |
+| **2** | Primwell Skye, Mage | Arathi Echo |
+| **3** | Janet Kaitway, Paladin | Theramore Echo |
+| **4** | Brother Paxwell, Priest | Graveyard Echo |
+
+Un mauvais ordre oblige à réinitialiser le donjon et à recommencer. Après le quatrième Echo, la Scarlet Banner est dans vos sacs.
 
 ## Talents Legacy pour le camping
 

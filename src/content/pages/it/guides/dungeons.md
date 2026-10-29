@@ -43,6 +43,7 @@ La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Per i dungeon oltre
 - **[Sunken Temple](/it/guides/dungeons/sunken-temple/)**, livelli 46-54: l’ingresso dallo Swamp of Sorrows, Atal'alarion e i santuari, le nove missioni, i guardiani troll e l’Avatar of Hakkar.
 - **[Blackrock Depths](/it/guides/dungeons/blackrock-depths/)**, livelli 50-60: la discesa in Blackrock Mountain, le chiavi, le ventidue missioni, il Ring of Law, il Grim Guzzler e ogni boss fino all’imperatore.
 - **[Dire Maul East](/it/guides/dungeons/dire-maul-east/)**, livelli 54-60: i tre ingressi a Feralas, l’inseguimento di Pusillin per la Crescent Key, le cinque missioni e i quattro boss fino ad Alzzin.
+- **[Blackrock Spire](/it/guides/dungeons/blackrock-spire/)**, livelli 55-60: le due ali in una panoramica, con l’ingresso in Blackrock Mountain, la via per la catena e i boss di Lower e Upper.
 - **[Lower Blackrock Spire](/it/guides/dungeons/lower-blackrock-spire/)**, livelli 55-60: la salita in Blackrock Mountain, le dodici missioni, l’evento di Urok Doomhowl e i nove boss fino a Overlord Wyrmthalak.
 - **[Dire Maul West](/it/guides/dungeons/dire-maul-west/)**, livelli 56-60: la Crescent Key, i cinque piloni, le quattro missioni e i cinque boss fino a Prince Tortheldrin nell’Athenaeum.
 - **[Dire Maul North](/it/guides/dungeons/dire-maul-north/)**, livelli 56-60: le chiavi e le porte, il Tribute Run con l’Ogre Suit, il buff King of the Gordok, le cinque missioni e i sette ogre fino a King Gordok.
@@ -50,6 +51,8 @@ La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Per i dungeon oltre
 - **[Scholomance](/it/guides/dungeons/scholomance/)**, livelli 58-60: la Skeleton Key, la catena di Eva Sarkhoff, le dieci missioni e ogni boss fino a Darkmaster Gandling.
 - **[Stratholme Living](/it/guides/dungeons/stratholme-living/)**, livelli 58-60: la porta principale, The Scarlet Key, le sei cassette postali, le sei missioni e ogni boss fino a Balnazzar.
 - **[Stratholme Undead](/it/guides/dungeons/stratholme-undead/)**, livelli 58-60: la Key to the City, i tre ziggurat, Slaughter Square, le otto missioni e ogni boss fino a Baron Rivendare.
+- **[The Drowned City](/it/guides/dungeons/the-drowned-city/)**, livelli 35-40: l’ingresso sott’acqua al largo di Stranglethorn Vale, le cinque missioni note e quattro boss dalla demo della BlizzCon.
+- **[Krol'dok Stronghold](/it/guides/dungeons/kroldok-stronghold/)**, livelli 40-45: la fortezza degli ogre nelle Riverglades: l’ingresso in una grotta nascosta, le due chiavi e Overlord Mugg.
 
 ## Ogni dungeon per livello
 
@@ -69,13 +72,13 @@ Per i dungeon con una guida, l’intervallo è quello indicato dal gioco. Per gl
 | [City of Dalaran](/it/guides/dungeons/city-of-dalaran/) | 28-33 | non ancora note |
 | [Razorfen Kraul](/it/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
 | [Gnomeregan](/it/guides/dungeons/gnomeregan/) | 29-38 | 13 |
-| The Drowned City | 35-40 | non ancora note |
+| [The Drowned City](/it/guides/dungeons/the-drowned-city/) | 35-40 | 5 |
 | [Scarlet Monastery: Graveyard](/it/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
 | [Scarlet Monastery: Library](/it/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
 | [Scarlet Monastery: Armory](/it/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |
 | [Scarlet Monastery: Cathedral](/it/guides/dungeons/scarlet-monastery-cathedral/) | 38-46 | 3 |
 | [Razorfen Downs](/it/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
-| Krol'dok Stronghold | 40-45 | non ancora note |
+| [Krol'dok Stronghold](/it/guides/dungeons/kroldok-stronghold/) | 40-45 | non ancora note |
 | [Uldaman](/it/guides/dungeons/uldaman/) | 41-51 | 14 |
 | [Zul'Farrak](/it/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/it/guides/dungeons/maraudon/) | 41-50 | 11 |
@@ -529,8 +532,8 @@ Le missioni di sei nuovi dungeon di Forever non sono ancora note. L’Excavation
 |---|---|
 | [Excavation Site: Wetlands](/it/guides/dungeons/excavation-site-wetlands/) | 24-29 |
 | [City of Dalaran](/it/guides/dungeons/city-of-dalaran/) | 28-33 |
-| The Drowned City | 35-40 |
-| Krol'dok Stronghold | 40-45 |
+| [The Drowned City](/it/guides/dungeons/the-drowned-city/) | 35-40 |
+| [Krol'dok Stronghold](/it/guides/dungeons/kroldok-stronghold/) | 40-45 |
 | Alcaz Prison | 48-53 |
 | Blackmaw Hold | 55-60 |
 | Shaper's Terrace | 58-60 |

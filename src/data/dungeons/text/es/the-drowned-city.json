@@ -1,0 +1,26 @@
+{
+ "location": "Stranglethorn Vale, bajo el agua frente a la costa oeste",
+ "entrance": "Bajo el agua frente a la costa de Stranglethorn Vale, hacia /way 21.4 27.9. Nada más allá de The Vile Reef hasta el Sunken Hollow, cerca de la isla de los elementales de agua, y busca una cueva con una gran losa al lado.",
+ "quests": {
+  "95788": {
+   "objective": "Consigue 5 I'lalai Fetishes de los trols de la Drowned City.",
+   "note": "Aún no se sabe quién da la misión."
+  },
+  "95787": {
+   "objective": "Calca las cuatro Tablets of I'lalai de la Drowned City con la piel y el carbón que recibes con la misión.",
+   "note": "La versión de la Alianza de The Drowned City de la Horda, con la misma tarea."
+  },
+  "95775": {
+   "objective": "Calca las cuatro Tablets of I'lalai de la Drowned City con la piel y el carbón que recibes con la misión.",
+   "note": "La versión de la Horda de Take Two With Water de la Alianza, con la misma tarea."
+  },
+  "95776": {
+   "objective": "Mata a Var'Taka en la Drowned City.",
+   "note": "Var'Taka es uno de los jefes de la mazmorra."
+  },
+  "96774": {
+   "objective": "Recupera un Ancient Gurubashi Idol de la Drowned City.",
+   "note": "Aún no se sabe dónde está Mazu'kon."
+  }
+ }
+}

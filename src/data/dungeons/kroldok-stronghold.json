@@ -1,0 +1,16 @@
+{
+ "slug": "kroldok-stronghold",
+ "levels": "40–45",
+ "bosses": [
+  {
+   "name": "Overlord Mugg",
+   "slug": "overlord-mugg",
+   "level": "",
+   "npc": null,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [],
+ "cards": {}
+}

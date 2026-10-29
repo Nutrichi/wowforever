@@ -1,9 +1,9 @@
 ---
 title: "Il camping in WoW Forever: fuochi da campo, oggetti e buff"
-metaTitle: "Guida al camping di WoW Forever: fuochi da campo, ogni oggetto da campo e il suo buff"
+metaTitle: "Camping in WoW Forever: fuochi da campo, oggetti da campo e buff"
 description: "Come funziona il camping in WoW Forever: i tre fuochi da campo, il buff di ogni professione, quanto costa ogni oggetto da campo, le postazioni dei livelli 2 e 3 e dove cadono i blueprint."
 short: "Camping"
-updated: 2026-10-10
+updated: 2026-10-29
 lang: it
 video: kYvgaUnDl7A
 faq:
@@ -18,6 +18,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/camping/"
   - name: "Warcraft Tavern, oggetti da campo"
     url: "https://www.warcrafttavern.com/forever/guides/camping-objects-buffs/"
+  - name: "Warcraft Tavern, lo Scarlet Banner"
+    url: "https://www.warcrafttavern.com/forever/guides/scarlet-banner/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever"
 ---
@@ -137,6 +139,30 @@ I livelli 2 e 3 si imparano con i blueprint. La maggior parte delle fonti non è
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273085"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fermenter</a> | [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/) |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Razorclaw the Butcher in Shadowfang Keep |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a> | Pescato nei banchi |
+
+## Lo Scarlet Banner
+
+<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=278030"><img class="wf-wh__icon" src="/wh/inv_misc_token_scarletcrusade.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Banner</a> è un oggetto da campo senza professione. Si pianta vicino a un fuoco da campo e ha un tempo di recupero di un'ora. Per ora non dà alcun buff: è solo decorativo. Si ottiene con quattro tombe e un enigma nella [Scarlet Monastery Library](/it/guides/dungeons/scarlet-monastery-library/). I Priest di Season of Discovery conoscono il percorso, che lì dava la runa Pain Suppression.
+
+**1. Raccogli quattro Echoes.** Clicca sulla tomba in ognuno di questi luoghi.
+
+| Echo | Dove |
+|---|---|
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215427"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arathi Echo</a> | Arathi Highlands, dietro il fienile di Go'shek Farm, /way 62.2 54.5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215428"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Theramore Echo</a> | Dustwallow Marsh, il cimitero oltre il ponte di Theramore Isle, /way 63.7 42.4 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215425"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swamp Echo</a> | Swamp of Sorrows, accanto a un albero a Splinterspear Junction, vicino a Deadwind Pass, /way 16.8 53.6 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215426"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graveyard Echo</a> | Scarlet Monastery Graveyard, nell'angolo in fondo vicino al mausoleo sul lato sud |
+
+**2. Usali vicino a quattro statue nella Library.** Le statue si trovano in uno dei corridoi. Accanto a una statua ricevi un buff che dice chi rappresenta. Usa l'Echo giusto alla statua giusta, in questo ordine:
+
+| Ordine | Statua | Echo |
+|---|---|---|
+| **1** | Blake Godwyn, Warrior | Swamp Echo |
+| **2** | Primwell Skye, Mage | Arathi Echo |
+| **3** | Janet Kaitway, Paladin | Theramore Echo |
+| **4** | Brother Paxwell, Priest | Graveyard Echo |
+
+Con un ordine sbagliato bisogna resettare il dungeon e riprovare. Dopo il quarto Echo, lo Scarlet Banner è nelle tue borse.
 
 ## Talenti Legacy per il camping
 

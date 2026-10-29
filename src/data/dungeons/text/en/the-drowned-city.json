@@ -1,0 +1,26 @@
+{
+ "location": "Stranglethorn Vale, under water off the west coast",
+ "entrance": "Under water off the coast of Stranglethorn Vale, around /way 21.4 27.9. Swim past The Vile Reef to the Sunken Hollow, near the island with the water elementals, and look for a cave with a large tablet beside it.",
+ "quests": {
+  "95788": {
+   "objective": "Collect 5 I'lalai Fetishes from the trolls in the Drowned City.",
+   "note": "Who gives the quest is not known yet."
+  },
+  "95787": {
+   "objective": "Make rubbings of the four Tablets of I'lalai in the Drowned City with the hide and charcoal you get with the quest.",
+   "note": "The Alliance version of The Drowned City for the Horde, with the same task."
+  },
+  "95775": {
+   "objective": "Make rubbings of the four Tablets of I'lalai in the Drowned City with the hide and charcoal you get with the quest.",
+   "note": "The Horde version of Take Two With Water for the Alliance, with the same task."
+  },
+  "95776": {
+   "objective": "Kill Var'Taka in the Drowned City.",
+   "note": "Var'Taka is one of the bosses of the dungeon."
+  },
+  "96774": {
+   "objective": "Recover an Ancient Gurubashi Idol from the Drowned City.",
+   "note": "Where Mazu'kon stands is not known yet."
+  }
+ }
+}

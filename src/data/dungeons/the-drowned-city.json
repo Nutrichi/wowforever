@@ -1,0 +1,139 @@
+{
+ "slug": "the-drowned-city",
+ "levels": "35–40",
+ "bosses": [
+  {
+   "name": "Zul'Alai",
+   "slug": "zulalai",
+   "level": "",
+   "npc": 270882,
+   "items": []
+  },
+  {
+   "name": "Zin'aka",
+   "slug": "zinaka",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "Var'Taka",
+   "slug": "vartaka",
+   "level": "",
+   "npc": 270883,
+   "items": []
+  },
+  {
+   "name": "Captain Dreadrise",
+   "slug": "captain-dreadrise",
+   "level": "",
+   "npc": 270884,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [
+  {
+   "id": 95788,
+   "name": "Magics of the Drowned City",
+   "level": 40,
+   "minLevel": 30,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [],
+   "to": [],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 95787,
+   "name": "Take Two With Water",
+   "level": 40,
+   "minLevel": 30,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [],
+   "to": [],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 95775,
+   "name": "The Drowned City",
+   "level": 40,
+   "minLevel": 30,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [],
+   "to": [],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 95776,
+   "name": "The Only Good Brinescale...",
+   "level": 38,
+   "minLevel": 30,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [],
+   "to": [],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 96774,
+   "name": "Ancient Gurubashi Idol",
+   "level": 40,
+   "minLevel": 30,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Mazu'kon",
+     "kind": "npc",
+     "npc": null
+    }
+   ],
+   "to": [],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {}
+}

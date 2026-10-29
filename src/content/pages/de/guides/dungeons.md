@@ -1,6 +1,6 @@
 ---
 title: "Dungeonguide: jede Dungeonquest in WoW Forever"
-metaTitle: "Dungeonquests in WoW Forever: jeder Dungeon, jedes Level, jeder Questgeber"
+metaTitle: "Dungeonquests in WoW Forever: Dungeons, Stufen und Questgeber"
 description: "Jeder Dungeon von WoW Forever mit seinen Levels und allen Quests: wo jede Quest beginnt, für welche Fraktion, was vorher nötig ist, und die Schlüssel, die manche Dungeons verlangen."
 short: "Dungeons"
 updated: 2026-10-28
@@ -43,6 +43,7 @@ Die Beta von WoW Forever geht seit dem 1. Oktober bis Level 30. Für die Dungeon
 - **[Sunken Temple](/de/guides/dungeons/sunken-temple/)**, Stufe 46-54: der Weg durch die Swamp of Sorrows, Atal'alarion und die Schreine, alle neun Quests, die Trollwächter und der Avatar of Hakkar.
 - **[Blackrock Depths](/de/guides/dungeons/blackrock-depths/)**, Stufe 50-60: der Weg hinunter in Blackrock Mountain, die Schlüssel, alle zweiundzwanzig Quests, der Ring of Law, der Grim Guzzler und jeder Boss bis zum Kaiser.
 - **[Dire Maul East](/de/guides/dungeons/dire-maul-east/)**, Stufe 54-60: die drei Eingänge in Feralas, die Jagd auf Pusillin für den Crescent Key, alle fünf Quests und die vier Bosse bis Alzzin.
+- **[Blackrock Spire](/de/guides/dungeons/blackrock-spire/)**, Stufe 55-60: beide Flügel in einer Übersicht, mit dem Eingang in Blackrock Mountain, dem Weg über die Kette und den Bossen von Lower und Upper.
 - **[Lower Blackrock Spire](/de/guides/dungeons/lower-blackrock-spire/)**, Stufe 55-60: der Weg nach oben in Blackrock Mountain, alle zwölf Quests, das Event von Urok Doomhowl und die neun Bosse bis Overlord Wyrmthalak.
 - **[Dire Maul West](/de/guides/dungeons/dire-maul-west/)**, Stufe 56-60: der Crescent Key, die fünf Pylonen, alle vier Quests und die fünf Bosse bis Prince Tortheldrin im Athenaeum.
 - **[Dire Maul North](/de/guides/dungeons/dire-maul-north/)**, Stufe 56-60: schlüssel und Türen, der Tribute Run mit dem Ogre Suit, der Buff King of the Gordok, alle fünf Quests und die sieben Oger bis King Gordok.
@@ -50,6 +51,8 @@ Die Beta von WoW Forever geht seit dem 1. Oktober bis Level 30. Für die Dungeon
 - **[Scholomance](/de/guides/dungeons/scholomance/)**, Stufe 58-60: der Skeleton Key, die Reihe von Eva Sarkhoff, alle zehn Quests und jeder Boss bis Darkmaster Gandling.
 - **[Stratholme Living](/de/guides/dungeons/stratholme-living/)**, Stufe 58-60: das Haupttor, The Scarlet Key, die sechs Briefkästen, alle sechs Quests und jeder Boss bis Balnazzar.
 - **[Stratholme Undead](/de/guides/dungeons/stratholme-undead/)**, Stufe 58-60: der Key to the City, die drei Zikkurats, der Slaughter Square, alle acht Quests und jeder Boss bis Baron Rivendare.
+- **[The Drowned City](/de/guides/dungeons/the-drowned-city/)**, Stufe 35-40: der Eingang unter Wasser vor Stranglethorn Vale, die fünf bekannten Quests und vier Bosse aus der BlizzCon-Demo.
+- **[Krol'dok Stronghold](/de/guides/dungeons/kroldok-stronghold/)**, Stufe 40-45: die Ogerfestung in den Riverglades: der versteckte Höhleneingang, ihre zwei Schlüssel und Overlord Mugg.
 
 ## Jeder Dungeon nach Level
 
@@ -69,13 +72,13 @@ Für die Dungeons mit Guide ist der Bereich der, den das Spiel selbst nennt. Fü
 | [City of Dalaran](/de/guides/dungeons/city-of-dalaran/) | 28-33 | noch nicht bekannt |
 | [Razorfen Kraul](/de/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
 | [Gnomeregan](/de/guides/dungeons/gnomeregan/) | 29-38 | 13 |
-| The Drowned City | 35-40 | noch nicht bekannt |
+| [The Drowned City](/de/guides/dungeons/the-drowned-city/) | 35-40 | 5 |
 | [Scarlet Monastery: Graveyard](/de/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
 | [Scarlet Monastery: Library](/de/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
 | [Scarlet Monastery: Armory](/de/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |
 | [Scarlet Monastery: Cathedral](/de/guides/dungeons/scarlet-monastery-cathedral/) | 38-46 | 3 |
 | [Razorfen Downs](/de/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
-| Krol'dok Stronghold | 40-45 | noch nicht bekannt |
+| [Krol'dok Stronghold](/de/guides/dungeons/kroldok-stronghold/) | 40-45 | noch nicht bekannt |
 | [Uldaman](/de/guides/dungeons/uldaman/) | 41-51 | 14 |
 | [Zul'Farrak](/de/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/de/guides/dungeons/maraudon/) | 41-50 | 11 |
@@ -529,8 +532,8 @@ Die Quests von sechs neuen Dungeons von Forever sind noch nicht bekannt. Die Exc
 |---|---|
 | [Excavation Site: Wetlands](/de/guides/dungeons/excavation-site-wetlands/) | 24-29 |
 | [City of Dalaran](/de/guides/dungeons/city-of-dalaran/) | 28-33 |
-| The Drowned City | 35-40 |
-| Krol'dok Stronghold | 40-45 |
+| [The Drowned City](/de/guides/dungeons/the-drowned-city/) | 35-40 |
+| [Krol'dok Stronghold](/de/guides/dungeons/kroldok-stronghold/) | 40-45 |
 | Alcaz Prison | 48-53 |
 | Blackmaw Hold | 55-60 |
 | Shaper's Terrace | 58-60 |

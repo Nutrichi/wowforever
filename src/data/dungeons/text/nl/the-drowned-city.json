@@ -1,0 +1,26 @@
+{
+ "location": "Stranglethorn Vale, onder water voor de westkust",
+ "entrance": "Onder water voor de kust van Stranglethorn Vale, rond /way 21.4 27.9. Zwem voorbij The Vile Reef naar de Sunken Hollow, bij het eiland met de waterelementen, en zoek een grot met een grote steen ernaast.",
+ "quests": {
+  "95788": {
+   "objective": "Verzamel 5 I'lalai Fetishes bij de trollen in de Drowned City.",
+   "note": "Wie de quest geeft, is nog niet bekend."
+  },
+  "95787": {
+   "objective": "Maak met de huid en houtskool van de quest afdrukken van de vier Tablets of I'lalai in de Drowned City.",
+   "note": "De Alliance-versie van The Drowned City voor de Horde, met dezelfde opdracht."
+  },
+  "95775": {
+   "objective": "Maak met de huid en houtskool van de quest afdrukken van de vier Tablets of I'lalai in de Drowned City.",
+   "note": "De Horde-versie van Take Two With Water voor de Alliance, met dezelfde opdracht."
+  },
+  "95776": {
+   "objective": "Dood Var'Taka in de Drowned City.",
+   "note": "Var'Taka is een van de bazen van de dungeon."
+  },
+  "96774": {
+   "objective": "Haal een Ancient Gurubashi Idol uit de Drowned City.",
+   "note": "Waar Mazu'kon staat, is nog niet bekend."
+  }
+ }
+}

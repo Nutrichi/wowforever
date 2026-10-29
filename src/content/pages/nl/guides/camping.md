@@ -3,7 +3,7 @@ title: "Camping in WoW Forever: kampvuren, kampobjecten en buffs"
 metaTitle: "WoW Forever camping-gids: kampvuren, elk kampobject en zijn buff"
 description: "Hoe camping werkt in WoW Forever: de drie kampvuren, de buff van elke tradeskill, wat elk kampobject kost, de werkplaatsen van tier 2 en 3 en waar de blueprints vallen."
 short: "Camping"
-updated: 2026-10-10
+updated: 2026-10-29
 lang: nl
 video: kYvgaUnDl7A
 faq:
@@ -18,6 +18,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/camping/"
   - name: "Warcraft Tavern, kampobjecten"
     url: "https://www.warcrafttavern.com/forever/guides/camping-objects-buffs/"
+  - name: "Warcraft Tavern, de Scarlet Banner"
+    url: "https://www.warcrafttavern.com/forever/guides/scarlet-banner/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever"
 ---
@@ -137,6 +139,30 @@ Tier 2 en 3 leer je uit blueprints. De meeste bronnen zijn nog niet bekend; deze
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273085"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fermenter</a> | [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Razorclaw the Butcher in Shadowfang Keep |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a> | Opgevist uit pools |
+
+## De Scarlet Banner
+
+<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=278030"><img class="wf-wh__icon" src="/wh/inv_misc_token_scarletcrusade.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Banner</a> is een kampobject zonder tradeskill. Je zet hem bij een kampvuur, met een cooldown van een uur. Voorlopig geeft hij geen buff: hij is er alleen voor de sier. Je verdient hem met vier graven en een puzzel in de [Scarlet Monastery Library](/nl/guides/dungeons/scarlet-monastery-library/). Priests uit Season of Discovery kennen de route: daar gaf ze de rune Pain Suppression.
+
+**1. Verzamel vier Echoes.** Klik op het graf op elk van deze plekken.
+
+| Echo | Waar |
+|---|---|
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215427"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arathi Echo</a> | Arathi Highlands, achter de schuur van Go'shek Farm, /way 62.2 54.5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215428"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Theramore Echo</a> | Dustwallow Marsh, het kerkhof over de brug van Theramore Isle, /way 63.7 42.4 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215425"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swamp Echo</a> | Swamp of Sorrows, bij een boom op Splinterspear Junction, vlak bij Deadwind Pass, /way 16.8 53.6 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215426"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graveyard Echo</a> | Scarlet Monastery Graveyard, in de achterste hoek bij het mausoleum aan de zuidkant |
+
+**2. Gebruik ze bij vier beelden in de Library.** De beelden staan in een van de gangen. Naast een beeld krijg je een buff die zegt wie het voorstelt. Gebruik de juiste Echo bij het juiste beeld, in deze volgorde:
+
+| Volgorde | Beeld | Echo |
+|---|---|---|
+| **1** | Blake Godwyn, Warrior | Swamp Echo |
+| **2** | Primwell Skye, Mage | Arathi Echo |
+| **3** | Janet Kaitway, Paladin | Theramore Echo |
+| **4** | Brother Paxwell, Priest | Graveyard Echo |
+
+Een verkeerde volgorde betekent de dungeon resetten en opnieuw proberen. Na de vierde Echo zit de Scarlet Banner in je tassen.
 
 ## Legacy-talenten voor camping
 

@@ -1,6 +1,6 @@
 ---
 title: "Dungeongids: elke dungeonquest in WoW Forever"
-metaTitle: "Dungeonquests in WoW Forever: elke dungeon, elk level en elke questgever"
+metaTitle: "Dungeonquests in WoW Forever: elke dungeon, level en questgever"
 description: "Elke dungeon van WoW Forever met zijn levels en al zijn quests: waar elke quest begint, voor welke factie, wat eerst moet, en de sleutels die sommige dungeons vragen."
 short: "Dungeons"
 updated: 2026-10-28
@@ -43,6 +43,7 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 - **[Sunken Temple](/nl/guides/dungeons/sunken-temple/)**, level 46-54: de weg erin door de Swamp of Sorrows, Atal'alarion en de heiligdommen, alle negen de quests, de trollenwachters en de Avatar of Hakkar.
 - **[Blackrock Depths](/nl/guides/dungeons/blackrock-depths/)**, level 50-60: de weg naar beneden in Blackrock Mountain, de sleutels, alle tweeëntwintig quests, de Ring of Law, de Grim Guzzler en elke baas tot de keizer.
 - **[Dire Maul East](/nl/guides/dungeons/dire-maul-east/)**, level 54-60: de drie ingangen in Feralas, de achtervolging van Pusillin voor de Crescent Key, alle vijf de quests en de vier bazen tot Alzzin.
+- **[Blackrock Spire](/nl/guides/dungeons/blackrock-spire/)**, level 55-60: beide vleugels in één overzicht, met de ingang in Blackrock Mountain, de weg langs de ketting en de bazen van Lower en Upper.
 - **[Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/)**, level 55-60: de weg naar boven in Blackrock Mountain, alle twaalf de quests, het event van Urok Doomhowl en de negen bazen tot Overlord Wyrmthalak.
 - **[Dire Maul West](/nl/guides/dungeons/dire-maul-west/)**, level 56-60: de Crescent Key, de vijf pylonen, alle vier de quests en de vijf bazen tot Prince Tortheldrin in het Athenaeum.
 - **[Dire Maul North](/nl/guides/dungeons/dire-maul-north/)**, level 56-60: de sleutels en deuren, de Tribute Run met het Ogre Suit, de buff King of the Gordok, alle vijf de quests en de zeven ogres tot King Gordok.
@@ -50,6 +51,8 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 - **[Scholomance](/nl/guides/dungeons/scholomance/)**, level 58-60: de Skeleton Key, de reeks van Eva Sarkhoff, alle tien de quests en elke baas tot Darkmaster Gandling.
 - **[Stratholme Living](/nl/guides/dungeons/stratholme-living/)**, level 58-60: de hoofdpoort, The Scarlet Key, de zes postbussen, alle zes de quests en elke baas tot Balnazzar.
 - **[Stratholme Undead](/nl/guides/dungeons/stratholme-undead/)**, level 58-60: de Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare.
+- **[The Drowned City](/nl/guides/dungeons/the-drowned-city/)**, level 35-40: de ingang onder water voor Stranglethorn Vale, de vijf bekende quests en vier bazen uit de BlizzCon-demo.
+- **[Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/)**, level 40-45: het ogrefort in de Riverglades: de verstopte grot als ingang, de twee sleutels en Overlord Mugg.
 
 ## Elke dungeon op level
 
@@ -69,13 +72,13 @@ Voor de dungeons met een gids is het bereik dat van het spel zelf. Voor de ander
 | [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 | nog niet bekend |
 | [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
 | [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | 29-38 | 13 |
-| The Drowned City | 35-40 | nog niet bekend |
+| [The Drowned City](/nl/guides/dungeons/the-drowned-city/) | 35-40 | 5 |
 | [Scarlet Monastery: Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
 | [Scarlet Monastery: Library](/nl/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
 | [Scarlet Monastery: Armory](/nl/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |
 | [Scarlet Monastery: Cathedral](/nl/guides/dungeons/scarlet-monastery-cathedral/) | 38-46 | 3 |
 | [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
-| Krol'dok Stronghold | 40-45 | nog niet bekend |
+| [Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/) | 40-45 | nog niet bekend |
 | [Uldaman](/nl/guides/dungeons/uldaman/) | 41-51 | 14 |
 | [Zul'Farrak](/nl/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/nl/guides/dungeons/maraudon/) | 41-50 | 11 |
@@ -529,8 +532,8 @@ Van zes nieuwe dungeons van Forever zijn de quests nog niet bekend. De Excavatio
 |---|---|
 | [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | 24-29 |
 | [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 |
-| The Drowned City | 35-40 |
-| Krol'dok Stronghold | 40-45 |
+| [The Drowned City](/nl/guides/dungeons/the-drowned-city/) | 35-40 |
+| [Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/) | 40-45 |
 | Alcaz Prison | 48-53 |
 | Blackmaw Hold | 55-60 |
 | Shaper's Terrace | 58-60 |

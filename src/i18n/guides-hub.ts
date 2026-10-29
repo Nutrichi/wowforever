@@ -314,7 +314,9 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/sunken-temple": "The way in through the Swamp of Sorrows, Atal'alarion and the shrines, all nine quests, the troll guardians and the Avatar of Hakkar",
     "dungeons/scholomance": "The Skeleton Key, the chain of Eva Sarkhoff, all ten quests and every boss up to Darkmaster Gandling",
     "dungeons/stratholme-living": "The main gate, the Scarlet Key, the six postboxes, all six quests and every boss up to Balnazzar",
-    "dungeons/stratholme-undead": "The Key to the City, the three ziggurats, Slaughter Square, all eight quests and every boss up to Baron Rivendare"
+    "dungeons/stratholme-undead": "The Key to the City, the three ziggurats, Slaughter Square, all eight quests and every boss up to Baron Rivendare",
+    "dungeons/the-drowned-city": "The underwater entrance off Stranglethorn Vale, the five known quests and four bosses from the BlizzCon demo",
+    "dungeons/kroldok-stronghold": "The ogre fortress in the Riverglades: the hidden cave entrance, its two keys and Overlord Mugg"
   },
   "nl": {
     "journey": "De leveladdon Journey voor WoW Forever: gratis tot level 30, de prijs voor de route tot 60, installeren en 10% korting met code NUTRI",
@@ -407,7 +409,9 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/sunken-temple": "De weg erin door de Swamp of Sorrows, Atal'alarion en de heiligdommen, alle negen de quests, de trollenwachters en de Avatar of Hakkar",
     "dungeons/scholomance": "De Skeleton Key, de reeks van Eva Sarkhoff, alle tien de quests en elke baas tot Darkmaster Gandling",
     "dungeons/stratholme-living": "De hoofdpoort, The Scarlet Key, de zes postbussen, alle zes de quests en elke baas tot Balnazzar",
-    "dungeons/stratholme-undead": "De Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare"
+    "dungeons/stratholme-undead": "De Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare",
+    "dungeons/the-drowned-city": "De ingang onder water voor Stranglethorn Vale, de vijf bekende quests en vier bazen uit de BlizzCon-demo",
+    "dungeons/kroldok-stronghold": "Het ogrefort in de Riverglades: de verstopte grot als ingang, de twee sleutels en Overlord Mugg"
   },
   "fr": {
     "journey": "L'addon de leveling Journey pour WoW Forever : gratuit jusqu'au niveau 30, le prix de la route jusqu'au 60, l'installation et 10 % de réduction avec le code NUTRI",
@@ -500,7 +504,9 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/sunken-temple": "L’accès par le Swamp of Sorrows, Atal'alarion et les autels, les neuf quêtes, les gardiens trolls et l’Avatar of Hakkar",
     "dungeons/scholomance": "La Skeleton Key, la chaîne d’Eva Sarkhoff, les dix quêtes et chaque boss jusqu’à Darkmaster Gandling",
     "dungeons/stratholme-living": "La porte principale, The Scarlet Key, les six boîtes aux lettres, les six quêtes et chaque boss jusqu’à Balnazzar",
-    "dungeons/stratholme-undead": "La Key to the City, les trois ziggourats, Slaughter Square, les huit quêtes et chaque boss jusqu’à Baron Rivendare"
+    "dungeons/stratholme-undead": "La Key to the City, les trois ziggourats, Slaughter Square, les huit quêtes et chaque boss jusqu’à Baron Rivendare",
+    "dungeons/the-drowned-city": "L’entrée sous l’eau au large de Stranglethorn Vale, les cinq quêtes connues et quatre boss de la démo de la BlizzCon",
+    "dungeons/kroldok-stronghold": "La forteresse des ogres des Riverglades : l’entrée dans une grotte cachée, ses deux clés et Overlord Mugg"
   },
   "es": {
     "journey": "El addon de subida Journey para WoW Forever: gratis hasta el nivel 30, el precio de la ruta hasta el 60, cómo instalarlo y un 10 % de descuento con el código NUTRI",
@@ -593,7 +599,9 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/sunken-temple": "La entrada por el Swamp of Sorrows, Atal'alarion y los santuarios, las nueve misiones, los guardianes trols y el Avatar of Hakkar",
     "dungeons/scholomance": "La Skeleton Key, la cadena de Eva Sarkhoff, las diez misiones y cada jefe hasta Darkmaster Gandling",
     "dungeons/stratholme-living": "La puerta principal, The Scarlet Key, los seis buzones, las seis misiones y cada jefe hasta Balnazzar",
-    "dungeons/stratholme-undead": "La Key to the City, los tres zigurats, Slaughter Square, las ocho misiones y cada jefe hasta Baron Rivendare"
+    "dungeons/stratholme-undead": "La Key to the City, los tres zigurats, Slaughter Square, las ocho misiones y cada jefe hasta Baron Rivendare",
+    "dungeons/the-drowned-city": "La entrada bajo el agua frente a Stranglethorn Vale, las cinco misiones conocidas y cuatro jefes de la demo de la BlizzCon",
+    "dungeons/kroldok-stronghold": "La fortaleza de los ogros de los Riverglades: la entrada por una cueva escondida, sus dos llaves y Overlord Mugg"
   },
   "it": {
     "journey": "L'addon di leveling Journey per WoW Forever: gratis fino al livello 30, il prezzo del percorso fino al 60, come installarlo e il 10% di sconto con il codice NUTRI",
@@ -686,7 +694,9 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/sunken-temple": "L’ingresso dallo Swamp of Sorrows, Atal'alarion e i santuari, le nove missioni, i guardiani troll e l’Avatar of Hakkar",
     "dungeons/scholomance": "La Skeleton Key, la catena di Eva Sarkhoff, le dieci missioni e ogni boss fino a Darkmaster Gandling",
     "dungeons/stratholme-living": "La porta principale, The Scarlet Key, le sei cassette postali, le sei missioni e ogni boss fino a Balnazzar",
-    "dungeons/stratholme-undead": "La Key to the City, i tre ziggurat, Slaughter Square, le otto missioni e ogni boss fino a Baron Rivendare"
+    "dungeons/stratholme-undead": "La Key to the City, i tre ziggurat, Slaughter Square, le otto missioni e ogni boss fino a Baron Rivendare",
+    "dungeons/the-drowned-city": "L’ingresso sott’acqua al largo di Stranglethorn Vale, le cinque missioni note e quattro boss dalla demo della BlizzCon",
+    "dungeons/kroldok-stronghold": "La fortezza degli ogre nelle Riverglades: l’ingresso in una grotta nascosta, le due chiavi e Overlord Mugg"
   },
   "de": {
     "journey": "Das Leveling-Addon Journey für WoW Forever: kostenlos bis Level 30, der Preis für die Route bis 60, die Installation und 10 % Rabatt mit dem Code NUTRI",
@@ -779,7 +789,9 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/sunken-temple": "Der Weg durch die Swamp of Sorrows, Atal'alarion und die Schreine, alle neun Quests, die Trollwächter und der Avatar of Hakkar",
     "dungeons/scholomance": "Der Skeleton Key, die Reihe von Eva Sarkhoff, alle zehn Quests und jeder Boss bis Darkmaster Gandling",
     "dungeons/stratholme-living": "Das Haupttor, The Scarlet Key, die sechs Briefkästen, alle sechs Quests und jeder Boss bis Balnazzar",
-    "dungeons/stratholme-undead": "Der Key to the City, die drei Zikkurats, der Slaughter Square, alle acht Quests und jeder Boss bis Baron Rivendare"
+    "dungeons/stratholme-undead": "Der Key to the City, die drei Zikkurats, der Slaughter Square, alle acht Quests und jeder Boss bis Baron Rivendare",
+    "dungeons/the-drowned-city": "Der Eingang unter Wasser vor Stranglethorn Vale, die fünf bekannten Quests und vier Bosse aus der BlizzCon-Demo",
+    "dungeons/kroldok-stronghold": "Die Ogerfestung in den Riverglades: der versteckte Höhleneingang, ihre zwei Schlüssel und Overlord Mugg"
   }
 };
 

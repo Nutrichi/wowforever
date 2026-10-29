@@ -178,14 +178,14 @@ function placeLine(p: DungeonPlace): string {
                       {q.site === 'inside' && !giver.at && giver.zone === undefined && <>, {t('inside')}</>}.
                       {giver.taxi && <span class="wf-dq__taxi">{t('taxi', { name: giver.taxi.name, yards: giver.taxi.yards })}.</span>}
                     </>
-                  ) : '—'}
+                  ) : t('giverUnknown')}
                 </li>
                 <li><strong>{t('stepObjective')}.</strong> {qt?.objective ?? ''}{qt?.note && <span class="wf-dq__note">{qt.note}</span>}</li>
                 <li>
                   <strong>{t('stepTurnin')}.</strong>{' '}
                   {back
                     ? <Fragment set:html={t('turninTo', { name: back.npc ? `<a href="${wh('npc', back.npc)}">${back.name}</a>` : back.name })} />
-                    : giver && giver.kind === 'npc' ? t('turninSame', { name: giver.name }) : '—'}
+                    : giver && giver.kind === 'npc' ? t('turninSame', { name: giver.name }) : t('giverUnknown')}
                   {back && placeLine(back) && <>, {placeLine(back)}</>}.
                 </li>
               </ol>

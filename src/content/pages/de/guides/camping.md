@@ -3,7 +3,7 @@ title: "Camping in WoW Forever: Lagerfeuer, Lagerobjekte und Buffs"
 metaTitle: "WoW Forever Camping-Guide: Lagerfeuer, jedes Lagerobjekt und sein Buff"
 description: "So funktioniert Camping in WoW Forever: die drei Lagerfeuer, der Buff jedes Berufs, was jedes Lagerobjekt kostet, die Werkbänke von Stufe 2 und 3 und wo die Blueprints droppen."
 short: "Camping"
-updated: 2026-10-10
+updated: 2026-10-29
 lang: de
 video: kYvgaUnDl7A
 faq:
@@ -18,6 +18,8 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/camping/"
   - name: "Warcraft Tavern, Lagerobjekte"
     url: "https://www.warcrafttavern.com/forever/guides/camping-objects-buffs/"
+  - name: "Warcraft Tavern, das Scarlet Banner"
+    url: "https://www.warcrafttavern.com/forever/guides/scarlet-banner/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever"
 ---
@@ -137,6 +139,30 @@ Stufe 2 und 3 lernst du aus Blueprints. Die meisten Quellen sind noch nicht beka
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273085"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fermenter</a> | [Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/) |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Razorclaw the Butcher in Shadowfang Keep |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a> | Aus Fischschwärmen geangelt |
+
+## Das Scarlet Banner
+
+<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=278030"><img class="wf-wh__icon" src="/wh/inv_misc_token_scarletcrusade.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Banner</a> ist ein Lagerobjekt ohne Beruf. Man stellt es an einem Lagerfeuer auf, mit einer Abklingzeit von einer Stunde. Bisher gibt es keinen Buff: Es ist nur Dekoration. Man bekommt es über vier Gräber und ein Rätsel in der [Scarlet Monastery Library](/de/guides/dungeons/scarlet-monastery-library/). Priests aus Season of Discovery kennen den Weg, der dort die Rune Pain Suppression gab.
+
+**1. Vier Echoes sammeln.** Klickt an jedem dieser Orte auf das Grab.
+
+| Echo | Wo |
+|---|---|
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215427"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arathi Echo</a> | Arathi Highlands, hinter der Scheune von Go'shek Farm, /way 62.2 54.5 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215428"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Theramore Echo</a> | Dustwallow Marsh, der Friedhof jenseits der Brücke von Theramore Isle, /way 63.7 42.4 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215425"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swamp Echo</a> | Swamp of Sorrows, an einem Baum bei Splinterspear Junction nahe Deadwind Pass, /way 16.8 53.6 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=215426"><img class="wf-wh__icon" src="/wh/spell_shadow_teleport.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graveyard Echo</a> | Scarlet Monastery Graveyard, in der hinteren Ecke beim Mausoleum auf der Südseite |
+
+**2. An vier Statuen in der Library benutzen.** Die Statuen stehen in einem der Gänge. Neben einer Statue bekommt ihr einen Buff, der sagt, wen sie darstellt. Benutzt das richtige Echo an der richtigen Statue, in dieser Reihenfolge:
+
+| Reihenfolge | Statue | Echo |
+|---|---|---|
+| **1** | Blake Godwyn, Warrior | Swamp Echo |
+| **2** | Primwell Skye, Mage | Arathi Echo |
+| **3** | Janet Kaitway, Paladin | Theramore Echo |
+| **4** | Brother Paxwell, Priest | Graveyard Echo |
+
+Bei einer falschen Reihenfolge muss der Dungeon zurückgesetzt und neu versucht werden. Nach dem vierten Echo liegt das Scarlet Banner in euren Taschen.
 
 ## Legacy-Talente fürs Camping
 
