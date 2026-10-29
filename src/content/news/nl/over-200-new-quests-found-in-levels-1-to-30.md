@@ -1,7 +1,7 @@
 ---
 title: "Meer dan 200 nieuwe quests tot level 30"
 description: "Een betaspeler telde meer dan 200 nieuwe quests tot level 30 in WoW Forever, de meeste in de Wetlands en de startgebieden. Van de 1000 die Blizzard belooft, blijven er zo ongeveer 800 over."
-date: 2026-10-29T18:30:00+01:00
+date: 2026-10-29T19:34:00+01:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-03-wow-forever-newcomers-with-a-quest-giver.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/over-200-new-quests-discovered-on-the-wow-forever-beta/"
 tags: ["forever", "beta", "leveling"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Een speler op de beta van World of Warcraft: Forever telde elke nieuwe quest tot level 30 en kwam aan meer dan 200. Blizzard belooft er meer dan 1000, dus tussen level 30 en 60 wachten er nog ongeveer 800.

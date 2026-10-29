@@ -1,7 +1,7 @@
 ---
 title: "Over 200 new quests found in levels 1 to 30"
 description: "A beta player counted more than 200 new quests up to level 30 in WoW Forever, most of them in the Wetlands and the starting zones. Of the 1,000 that Blizzard promises, about 800 remain."
-date: 2026-10-29T18:30:00+01:00
+date: 2026-10-29T19:34:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-03-wow-forever-newcomers-with-a-quest-giver.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/over-200-new-quests-discovered-on-the-wow-forever-beta/"
 tags: ["forever", "beta", "leveling"]
 featured: false
-draft: true
+draft: false
 ---
 A player on the beta of World of Warcraft: Forever counted every new quest up to level 30 and found more than 200. Blizzard promises over 1,000 new quests, so about 800 would still wait between level 30 and 60.
 

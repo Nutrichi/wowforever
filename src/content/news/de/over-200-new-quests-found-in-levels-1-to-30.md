@@ -1,7 +1,7 @@
 ---
 title: "Über 200 neue Quests bis Stufe 30 gefunden"
 description: "Ein Betaspieler zählte über 200 neue Quests bis Stufe 30 in WoW Forever, die meisten in den Wetlands und den Startgebieten. Von den 1000, die Blizzard verspricht, blieben damit etwa 800 übrig."
-date: 2026-10-29T18:30:00+01:00
+date: 2026-10-29T19:34:00+01:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-03-wow-forever-newcomers-with-a-quest-giver.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/over-200-new-quests-discovered-on-the-wow-forever-beta/"
 tags: ["forever", "beta", "leveling"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Ein Spieler in der Beta von World of Warcraft: Forever zählte jede neue Quest bis Stufe 30 und kam auf mehr als 200. Blizzard verspricht über 1000 neue Quests, also warten zwischen Stufe 30 und 60 noch etwa 800.

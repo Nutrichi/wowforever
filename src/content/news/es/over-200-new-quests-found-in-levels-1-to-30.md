@@ -1,7 +1,7 @@
 ---
 title: "Más de 200 misiones nuevas hasta el nivel 30"
 description: "Un jugador de la beta contó más de 200 misiones nuevas hasta el nivel 30 en WoW Forever, la mayoría en los Wetlands y las zonas iniciales. De las 1000 que promete Blizzard, quedarían unas 800."
-date: 2026-10-29T18:30:00+01:00
+date: 2026-10-29T19:34:00+01:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-03-wow-forever-newcomers-with-a-quest-giver.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/over-200-new-quests-discovered-on-the-wow-forever-beta/"
 tags: ["forever", "beta", "leveling"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Un jugador de la beta de World of Warcraft: Forever contó todas las misiones nuevas hasta el nivel 30 y encontró más de 200. Blizzard promete más de 1000, así que entre los niveles 30 y 60 quedarían unas 800 por descubrir.

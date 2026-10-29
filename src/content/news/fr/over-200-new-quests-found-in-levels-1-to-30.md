@@ -1,7 +1,7 @@
 ---
 title: "Plus de 200 nouvelles quêtes avant le niveau 30"
 description: "Un joueur de la beta a compté plus de 200 nouvelles quêtes jusqu'au niveau 30 dans WoW Forever, surtout dans les Wetlands et les zones de départ. Sur les 1000 promises, il en resterait environ 800."
-date: 2026-10-29T18:30:00+01:00
+date: 2026-10-29T19:34:00+01:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-03-wow-forever-newcomers-with-a-quest-giver.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/over-200-new-quests-discovered-on-the-wow-forever-beta/"
 tags: ["forever", "beta", "leveling"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 Un joueur de la beta de World of Warcraft: Forever a compté chaque nouvelle quête jusqu'au niveau 30 et en a trouvé plus de 200. Blizzard en promet plus de 1000, il en resterait donc environ 800 entre les niveaux 30 et 60.
