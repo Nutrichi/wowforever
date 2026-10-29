@@ -1,7 +1,7 @@
 ---
 title: "Blizzard no descarta una tercera especialización"
 description: "WoW Forever empieza con dos especializaciones, y cambiar talentos sigue costando oro con un instructor de clase. Una tercera podría llegar más tarde, dice Kris Zierhut, los loadouts de retail no."
-date: 2026-10-29T18:25:00+01:00
+date: 2026-10-29T19:25:00+01:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-15-wow-forever-paladin-talents.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/triple-spec-might-come-to-wow-forever/"
 tags: ["forever", "classes", "talents"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever podría recibir más adelante una tercera especialización. Kris Zierhut, principal game designer, no lo descarta en una entrevista. Por ahora bastan dos para casi todo el contenido, y los talentos siguen siendo una elección con un coste.

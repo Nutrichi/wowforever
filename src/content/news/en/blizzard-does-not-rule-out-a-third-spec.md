@@ -1,7 +1,7 @@
 ---
 title: "Blizzard does not rule out a third spec"
 description: "WoW Forever starts with two specs, and respecs still cost gold at a class trainer. A third spec may come later, says Blizzard designer Kris Zierhut, but loadouts like in retail will not."
-date: 2026-10-29T18:25:00+01:00
+date: 2026-10-29T19:25:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-15-wow-forever-paladin-talents.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/triple-spec-might-come-to-wow-forever/"
 tags: ["forever", "classes", "talents"]
 featured: false
-draft: true
+draft: false
 ---
 World of Warcraft: Forever may get a third spec later. Principal game designer Kris Zierhut does not rule it out in an interview. For now, two specs are enough for most content, and talents stay a choice with a cost.
 

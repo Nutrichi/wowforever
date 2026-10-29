@@ -1,7 +1,7 @@
 ---
 title: "Blizzard schließt eine dritte Spec nicht aus"
 description: "WoW Forever startet mit zwei Spezialisierungen, und ein Respec kostet weiter Gold beim Klassenlehrer. Eine dritte könnte später kommen, sagt Designer Kris Zierhut, Loadouts wie in Retail nicht."
-date: 2026-10-29T18:25:00+01:00
+date: 2026-10-29T19:25:00+01:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-15-wow-forever-paladin-talents.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/triple-spec-might-come-to-wow-forever/"
 tags: ["forever", "classes", "talents"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever bekommt später vielleicht eine dritte Spezialisierung. Principal Game Designer Kris Zierhut schließt sie in einem Interview nicht aus. Vorerst reichen zwei für die meisten Inhalte, und Talente bleiben eine Entscheidung, die etwas kostet.

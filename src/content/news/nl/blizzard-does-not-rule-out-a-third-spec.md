@@ -1,7 +1,7 @@
 ---
 title: "Blizzard sluit een derde spec niet uit"
 description: "WoW Forever start met twee specs, en een respec kost nog altijd goud bij een class trainer. Een derde spec kan later komen, zegt Blizzard-designer Kris Zierhut, loadouts zoals in retail niet."
-date: 2026-10-29T18:25:00+01:00
+date: 2026-10-29T19:25:00+01:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-15-wow-forever-paladin-talents.jpg
@@ -10,7 +10,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/triple-spec-might-come-to-wow-forever/"
 tags: ["forever", "classes", "talents"]
 featured: false
-draft: true
+draft: false
 manual: true
 ---
 World of Warcraft: Forever krijgt later misschien een derde spec. Principal game designer Kris Zierhut sluit het niet uit in een interview. Voorlopig volstaan twee specs voor de meeste content, en talenten blijven een keuze die iets kost.
