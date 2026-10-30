@@ -1,0 +1,16 @@
+{
+ "slug": "blackmaw-hold",
+ "levels": "55–60",
+ "bosses": [
+  {
+   "name": "Varrox Bleakhoof",
+   "slug": "varrox-bleakhoof",
+   "level": "",
+   "npc": null,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [],
+ "cards": {}
+}

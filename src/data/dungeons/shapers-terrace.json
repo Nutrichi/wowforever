@@ -1,0 +1,37 @@
+{
+ "slug": "shapers-terrace",
+ "levels": "58–60",
+ "bosses": [
+  {
+   "name": "Bolt",
+   "slug": "bolt",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "Cinder",
+   "slug": "cinder",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "Snowtalon",
+   "slug": "snowtalon",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "Nanaya",
+   "slug": "nanaya",
+   "level": "",
+   "npc": null,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [],
+ "cards": {}
+}

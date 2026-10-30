@@ -3,7 +3,7 @@ title: "Shaman leveling guide for WoW Forever"
 metaTitle: "WoW Forever Shaman leveling: Enhancement, Elemental and Resto"
 description: "How to level a Shaman in WoW Forever: the early rotation, level 30 builds for Enhancement, Elemental and Restoration, key levels, the totem quests, Call of Air weapons, zones and totems."
 short: "Shaman leveling"
-updated: 2026-10-24
+updated: 2026-10-30
 lang: en
 faq:
   - q: "What is the best spec to level a Shaman in WoW Forever?"
@@ -33,7 +33,7 @@ The Shaman in WoW Forever is a welcome sight in every group: strong totem buffs,
 | Strength | Totem buffs, self-healing, fast travel with Ghost Wolf, can tank low dungeons as Enhancement |
 | Weakness | Mana, little crowd control |
 | Talent order per level | [Shaman level build](/leveling/shaman/) |
-| Spec guides | [Restoration Shaman](/guides/restoration-shaman/) |
+| Spec guides | [Elemental Shaman](/guides/elemental-shaman/), [Restoration Shaman](/guides/restoration-shaman/) |
 | Builds to level 60 | After the launch on 4 November |
 
 ## Which spec to level with

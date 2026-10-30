@@ -53,6 +53,9 @@ La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las m
 - **[Stratholme Undead](/es/guides/dungeons/stratholme-undead/)**, niveles 58-60: la Key to the City, los tres zigurats, Slaughter Square, las ocho misiones y cada jefe hasta Baron Rivendare.
 - **[The Drowned City](/es/guides/dungeons/the-drowned-city/)**, niveles 35-40: la entrada bajo el agua frente a Stranglethorn Vale, las cinco misiones conocidas y cuatro jefes de la demo de la BlizzCon.
 - **[Krol'dok Stronghold](/es/guides/dungeons/kroldok-stronghold/)**, niveles 40-45: la fortaleza de los ogros de los Riverglades: la entrada por una cueva escondida, sus dos llaves y Overlord Mugg.
+- **[Alcaz Prison](/es/guides/dungeons/alcaz-prison/)**, niveles 48-53: la vieja prisión frente a Dustwallow Marsh: el portal en el sótano, los Defias y los naga, y Blazeroar.
+- **[Blackmaw Hold](/es/guides/dungeons/blackmaw-hold/)**, niveles 55-60: la ciudad furbolg tras la vieja puerta de Azshara: el túnel hacia Winterspring, su tamaño y Varrox Bleakhoof.
+- **[Shaper's Terrace](/es/guides/dungeons/shapers-terrace/)**, niveles 58-60: la instalación titánica de Un'Goro Crater: la subida, la distribución, los power crystals y cuatro jefes por su nombre.
 
 ## Cada mazmorra por nivel
 
@@ -82,14 +85,14 @@ Para las mazmorras con guía, el rango es el que da el propio juego. Para las de
 | [Uldaman](/es/guides/dungeons/uldaman/) | 41-51 | 14 |
 | [Zul'Farrak](/es/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/es/guides/dungeons/maraudon/) | 41-50 | 11 |
-| Alcaz Prison | 48-53 | aún no se conocen |
+| [Alcaz Prison](/es/guides/dungeons/alcaz-prison/) | 48-53 | aún no se conocen |
 | [Sunken Temple](/es/guides/dungeons/sunken-temple/) | 46-54 | 9 |
 | [Blackrock Depths](/es/guides/dungeons/blackrock-depths/) | 50-60 | 24 |
 | [Dire Maul East](/es/guides/dungeons/dire-maul-east/) | 54-60 | 5 |
 | [Dire Maul West](/es/guides/dungeons/dire-maul-west/) | 56-60 | 2 |
 | [Dire Maul North](/es/guides/dungeons/dire-maul-north/) | 56-60 | 6 |
-| Blackmaw Hold | 55-60 | aún no se conocen |
-| Shaper's Terrace | 58-60 | aún no se conocen |
+| [Blackmaw Hold](/es/guides/dungeons/blackmaw-hold/) | 55-60 | aún no se conocen |
+| [Shaper's Terrace](/es/guides/dungeons/shapers-terrace/) | 58-60 | aún no se conocen |
 | [Lower Blackrock Spire](/es/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
 | [Scholomance](/es/guides/dungeons/scholomance/) | 58-60 | 10 |
 | [Stratholme Living](/es/guides/dungeons/stratholme-living/) | 58-60 | 6 |
@@ -534,8 +537,8 @@ Aún no se conocen las misiones de seis mazmorras nuevas de Forever. La Excavati
 | [City of Dalaran](/es/guides/dungeons/city-of-dalaran/) | 28-33 |
 | [The Drowned City](/es/guides/dungeons/the-drowned-city/) | 35-40 |
 | [Krol'dok Stronghold](/es/guides/dungeons/kroldok-stronghold/) | 40-45 |
-| Alcaz Prison | 48-53 |
-| Blackmaw Hold | 55-60 |
-| Shaper's Terrace | 58-60 |
+| [Alcaz Prison](/es/guides/dungeons/alcaz-prison/) | 48-53 |
+| [Blackmaw Hold](/es/guides/dungeons/blackmaw-hold/) | 55-60 |
+| [Shaper's Terrace](/es/guides/dungeons/shapers-terrace/) | 58-60 |
 
 La City of Dalaran tiene [su propia guía](/es/guides/dungeons/city-of-dalaran/), con las dos entradas y los siete jefes. Su botín aún no se conoce. La cadena de la Horde para la Dalaran Sewer Key y la misión Heart of Disruption están en esa guía.

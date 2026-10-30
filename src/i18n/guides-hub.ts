@@ -260,6 +260,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "restoration-druid": "The healer in WoW Forever: what changes, the standard 11/7/33 build, Dual Specialization, macros and the most asked questions",
     "balance-druid": "The Balance Druid in WoW Forever: two builds for level 30 with Overgrowth or Eclipse, the rotation, mana and DoTs, stats, races and professions",
     "feral-druid": "The Feral Druid in WoW Forever: four builds for level 60, Shifting Power and Primal Bite, the cat and bear rotations, resources, stats and races",
+    "elemental-shaman": "The Elemental Shaman in WoW Forever: the level 30 build, Lava Burst and Lightning Overload, the rotation, totems, mana, stats and races",
     "restoration-shaman": "The Restoration Shaman in WoW Forever: the level 30 healing build, Water Shield, Riptide and Chain Heal, totems, mana, stats and races",
     "mage-leveling": "Leveling a Mage: why Frost with Ice Lance is fastest, the rotation per spec, key levels, class quests and scrolls",
     "frost-mage": "The Frost Mage in WoW Forever: Ice Lance and Fingers of Frost, the level 30 build with Missile Barrage, rotation, kiting, mana, stats and races",
@@ -294,6 +295,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "hunter-leveling": "Leveling a Hunter: the early levels, three level 30 builds for Beast Mastery, Marksmanship and Survival, the rotation, key levels, the taming quest, weapons, pets, traps and tracking",
     "library-books": "All 36 books with /way coordinates in four level bands, where to hand them in and the rewards for 10, 20 and 25 books",
     "night-watchmans-torch": "A torch that lights up the dark for 5 minutes, from a dead guard in Duskwood who only appears at night",
+    "built-in-ui-tools": "No WeakAuras in Forever: how to turn on the Cooldown Manager, Damage Meter and Swing Timer, Edit Mode, Click Casting, and which addons still work",
     "camping": "Campfires, the buff of every tradeskill, what each camp object costs, the tier 2 and 3 workstations and where the blueprints drop",
     "bmah": "The Black Market Auction House at Powderfuse Port in The Riverglades: the agents, the items and Dungeon Set 1 compared with Classic",
     "flight-paths": "Every flight point for the Alliance and the Horde with its flight master, /way and routes, the five new flight points, and every boat and zeppelin",
@@ -316,7 +318,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-living": "The main gate, the Scarlet Key, the six postboxes, all six quests and every boss up to Balnazzar",
     "dungeons/stratholme-undead": "The Key to the City, the three ziggurats, Slaughter Square, all eight quests and every boss up to Baron Rivendare",
     "dungeons/the-drowned-city": "The underwater entrance off Stranglethorn Vale, the five known quests and four bosses from the BlizzCon demo",
-    "dungeons/kroldok-stronghold": "The ogre fortress in the Riverglades: the hidden cave entrance, its two keys and Overlord Mugg"
+    "dungeons/kroldok-stronghold": "The ogre fortress in the Riverglades: the hidden cave entrance, its two keys and Overlord Mugg",
+    "dungeons/alcaz-prison": "The old prison off Dustwallow Marsh: the portal in the basement, the Defias and the naga, and Blazeroar",
+    "dungeons/blackmaw-hold": "The furbolg city behind the old gate in Azshara: the tunnel to Winterspring, its size and Varrox Bleakhoof",
+    "dungeons/shapers-terrace": "The titan facility in Un'Goro Crater: the way up, the layout, the power crystals and four bosses by name"
   },
   "nl": {
     "journey": "De leveladdon Journey voor WoW Forever: gratis tot level 30, de prijs voor de route tot 60, installeren en 10% korting met code NUTRI",
@@ -355,6 +360,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "restoration-druid": "De healer in WoW Forever: wat er verandert, de standaardbuild 11/7/33, Dual Specialization, macro's en de meest gestelde vragen",
     "balance-druid": "De Balance Druid in WoW Forever: twee builds voor level 30 met Overgrowth of Eclipse, de rotatie, mana en DoTs, stats, races en tradeskills",
     "feral-druid": "De Feral Druid in WoW Forever: vier builds voor level 60, Shifting Power en Primal Bite, de rotaties als cat en bear, resources, stats en races",
+    "elemental-shaman": "De Elemental Shaman in WoW Forever: de build voor level 30, Lava Burst en Lightning Overload, de rotatie, totems, mana, stats en races",
     "restoration-shaman": "De Restoration Shaman in WoW Forever: de healbuild voor level 30, Water Shield, Riptide en Chain Heal, totems, mana, stats en races",
     "mage-leveling": "Een Mage levelen: waarom Frost met Ice Lance het snelst gaat, de rotatie per spec, de belangrijke levels, classquests en scrolls",
     "frost-mage": "De Frost Mage in WoW Forever: Ice Lance en Fingers of Frost, de build voor level 30 met Missile Barrage, rotatie, kiten, mana, stats en races",
@@ -389,6 +395,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "hunter-leveling": "Een Hunter levelen: de eerste levels, drie builds voor level 30 voor Beast Mastery, Marksmanship en Survival, de rotatie, de belangrijke levels, de temquest, wapens, pets, traps en tracking",
     "library-books": "Alle 36 boeken met /way in vier levelgroepen, waar je ze inlevert en de beloningen voor 10, 20 en 25 boeken",
     "night-watchmans-torch": "Een fakkel die 5 minuten het donker verlicht, van een dode wachter in Duskwood die alleen 's nachts verschijnt",
+    "built-in-ui-tools": "Geen WeakAuras in Forever: zo zet je de Cooldown Manager, Damage Meter en Swing Timer aan, Edit Mode, Click Casting, en welke addons nog werken",
     "camping": "Kampvuren, de buff van elke tradeskill, wat elk kampobject kost, de werkplaatsen van tier 2 en 3 en waar de blueprints vallen",
     "bmah": "Het Black Market Auction House in Powderfuse Port in The Riverglades: de agenten, de items en Dungeon Set 1 naast Classic",
     "flight-paths": "Elk vluchtpunt voor de Alliance en de Horde met zijn flight master, /way en routes, de vijf nieuwe vluchtpunten, en elke boot en zeppelin",
@@ -411,7 +418,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-living": "De hoofdpoort, The Scarlet Key, de zes postbussen, alle zes de quests en elke baas tot Balnazzar",
     "dungeons/stratholme-undead": "De Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare",
     "dungeons/the-drowned-city": "De ingang onder water voor Stranglethorn Vale, de vijf bekende quests en vier bazen uit de BlizzCon-demo",
-    "dungeons/kroldok-stronghold": "Het ogrefort in de Riverglades: de verstopte grot als ingang, de twee sleutels en Overlord Mugg"
+    "dungeons/kroldok-stronghold": "Het ogrefort in de Riverglades: de verstopte grot als ingang, de twee sleutels en Overlord Mugg",
+    "dungeons/alcaz-prison": "De oude gevangenis voor Dustwallow Marsh: het portaal in de kelder, de Defias en de naga, en Blazeroar",
+    "dungeons/blackmaw-hold": "De furbolgstad achter de oude poort in Azshara: de tunnel naar Winterspring, de grootte en Varrox Bleakhoof",
+    "dungeons/shapers-terrace": "Het titancomplex in Un'Goro Crater: de weg erheen, de indeling, de power crystals en vier bazen bij naam"
   },
   "fr": {
     "journey": "L'addon de leveling Journey pour WoW Forever : gratuit jusqu'au niveau 30, le prix de la route jusqu'au 60, l'installation et 10 % de réduction avec le code NUTRI",
@@ -450,6 +460,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "restoration-druid": "Le soigneur de WoW Forever : ce qui change, le build standard 11/7/33, la Dual Specialization, les macros et les questions les plus fréquentes",
     "balance-druid": "Le Balance Druid dans WoW Forever : deux builds niveau 30 avec Overgrowth ou Eclipse, la rotation, le mana et les DoTs, les stats, les races et les métiers",
     "feral-druid": "Le Feral Druid dans WoW Forever : quatre builds niveau 60, Shifting Power et Primal Bite, les rotations en félin et en ours, les ressources, les stats et les races",
+    "elemental-shaman": "L’Elemental Shaman dans WoW Forever : le build niveau 30, Lava Burst et Lightning Overload, la rotation, les totems, le mana, les stats et les races",
     "restoration-shaman": "Le Restoration Shaman dans WoW Forever : le build de soins niveau 30, Water Shield, Riptide et Chain Heal, les totems, le mana, les stats et les races",
     "mage-leveling": "Monter un Mage : pourquoi Frost avec Ice Lance va le plus vite, la rotation par spé, les niveaux clés, les quêtes de classe et les parchemins",
     "frost-mage": "Le Frost Mage dans WoW Forever : Ice Lance et Fingers of Frost, le build niveau 30 avec Missile Barrage, la rotation, le kite, le mana, les stats et les races",
@@ -484,6 +495,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "hunter-leveling": "Monter un Hunter : les premiers niveaux, trois builds niveau 30 pour Beast Mastery, Marksmanship et Survival, la rotation, les niveaux clés, la quête de dressage, les armes, les familiers, les pièges et le pistage",
     "library-books": "Les 36 livres avec /way en quatre tranches de niveau, où les rendre et les récompenses pour 10, 20 et 25 livres",
     "night-watchmans-torch": "Une torche qui éclaire l'obscurité pendant 5 minutes, sur un garde mort à Duskwood qui n'apparaît que la nuit",
+    "built-in-ui-tools": "Pas de WeakAuras dans Forever : activer le Cooldown Manager, le Damage Meter et le Swing Timer, Edit Mode, Click Casting, et les addons qui marchent encore",
     "camping": "Les feux de camp, le buff de chaque métier, le coût de chaque objet de camp, les ateliers des paliers 2 et 3 et où tombent les blueprints",
     "bmah": "Le Black Market Auction House à Powderfuse Port, dans The Riverglades : les agents, les objets et le Dungeon Set 1 comparé à Classic",
     "flight-paths": "Chaque point de vol de l'Alliance et de la Horde avec son maître de vol, /way et trajets, les cinq nouveaux points de vol, et chaque bateau et zeppelin",
@@ -506,7 +518,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-living": "La porte principale, The Scarlet Key, les six boîtes aux lettres, les six quêtes et chaque boss jusqu’à Balnazzar",
     "dungeons/stratholme-undead": "La Key to the City, les trois ziggourats, Slaughter Square, les huit quêtes et chaque boss jusqu’à Baron Rivendare",
     "dungeons/the-drowned-city": "L’entrée sous l’eau au large de Stranglethorn Vale, les cinq quêtes connues et quatre boss de la démo de la BlizzCon",
-    "dungeons/kroldok-stronghold": "La forteresse des ogres des Riverglades : l’entrée dans une grotte cachée, ses deux clés et Overlord Mugg"
+    "dungeons/kroldok-stronghold": "La forteresse des ogres des Riverglades : l’entrée dans une grotte cachée, ses deux clés et Overlord Mugg",
+    "dungeons/alcaz-prison": "La vieille prison au large de Dustwallow Marsh : le portail au sous-sol, les Defias et les nagas, et Blazeroar",
+    "dungeons/blackmaw-hold": "La cité furbolg derrière l’ancienne porte d’Azshara : le tunnel vers Winterspring, sa taille et Varrox Bleakhoof",
+    "dungeons/shapers-terrace": "Le site titan d’Un'Goro Crater : l’accès, le plan, les power crystals et quatre boss par leur nom"
   },
   "es": {
     "journey": "El addon de subida Journey para WoW Forever: gratis hasta el nivel 30, el precio de la ruta hasta el 60, cómo instalarlo y un 10 % de descuento con el código NUTRI",
@@ -545,6 +560,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "restoration-druid": "El sanador de WoW Forever: qué cambia, la build estándar 11/7/33, la Dual Specialization, macros y las preguntas más frecuentes",
     "balance-druid": "El Balance Druid en WoW Forever: dos builds de nivel 30 con Overgrowth o Eclipse, la rotación, el maná y los DoTs, los stats, las razas y las profesiones",
     "feral-druid": "El Feral Druid en WoW Forever: cuatro builds de nivel 60, Shifting Power y Primal Bite, las rotaciones de felino y de oso, los recursos, los stats y las razas",
+    "elemental-shaman": "El Elemental Shaman en WoW Forever: la build de nivel 30, Lava Burst y Lightning Overload, la rotación, los tótems, el maná, los stats y las razas",
     "restoration-shaman": "El Restoration Shaman en WoW Forever: la build de sanación de nivel 30, Water Shield, Riptide y Chain Heal, los tótems, el maná, los stats y las razas",
     "mage-leveling": "Subir un Mage: por qué Frost con Ice Lance es lo más rápido, la rotación por spec, los niveles clave, las misiones de clase y los pergaminos",
     "frost-mage": "El Frost Mage en WoW Forever: Ice Lance y Fingers of Frost, la build de nivel 30 con Missile Barrage, la rotación, el kiteo, el maná, los stats y las razas",
@@ -579,6 +595,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "hunter-leveling": "Subir un Hunter: los primeros niveles, tres builds de nivel 30 para Beast Mastery, Marksmanship y Survival, la rotación, los niveles clave, la misión de doma, las armas, las mascotas, las trampas y el rastreo",
     "library-books": "Los 36 libros con /way en cuatro franjas de nivel, dónde entregarlos y las recompensas por 10, 20 y 25 libros",
     "night-watchmans-torch": "Una antorcha que ilumina la oscuridad durante 5 minutos, de un guardia muerto en Duskwood que solo aparece de noche",
+    "built-in-ui-tools": "Sin WeakAuras en Forever: cómo activar el Cooldown Manager, el Damage Meter y el Swing Timer, Edit Mode, Click Casting, y qué addons siguen funcionando",
     "camping": "Las hogueras, el buff de cada profesión, lo que cuesta cada objeto de campamento, los talleres de los niveles 2 y 3 y dónde caen los blueprints",
     "bmah": "La Black Market Auction House de Powderfuse Port, en The Riverglades: los agentes, los objetos y el Dungeon Set 1 comparado con Classic",
     "flight-paths": "Cada punto de vuelo de la Alliance y la Horde con su maestro de vuelo, /way y rutas, los cinco puntos de vuelo nuevos, y cada barco y zepelín",
@@ -601,7 +618,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-living": "La puerta principal, The Scarlet Key, los seis buzones, las seis misiones y cada jefe hasta Balnazzar",
     "dungeons/stratholme-undead": "La Key to the City, los tres zigurats, Slaughter Square, las ocho misiones y cada jefe hasta Baron Rivendare",
     "dungeons/the-drowned-city": "La entrada bajo el agua frente a Stranglethorn Vale, las cinco misiones conocidas y cuatro jefes de la demo de la BlizzCon",
-    "dungeons/kroldok-stronghold": "La fortaleza de los ogros de los Riverglades: la entrada por una cueva escondida, sus dos llaves y Overlord Mugg"
+    "dungeons/kroldok-stronghold": "La fortaleza de los ogros de los Riverglades: la entrada por una cueva escondida, sus dos llaves y Overlord Mugg",
+    "dungeons/alcaz-prison": "La vieja prisión frente a Dustwallow Marsh: el portal en el sótano, los Defias y los naga, y Blazeroar",
+    "dungeons/blackmaw-hold": "La ciudad furbolg tras la vieja puerta de Azshara: el túnel hacia Winterspring, su tamaño y Varrox Bleakhoof",
+    "dungeons/shapers-terrace": "La instalación titánica de Un'Goro Crater: la subida, la distribución, los power crystals y cuatro jefes por su nombre"
   },
   "it": {
     "journey": "L'addon di leveling Journey per WoW Forever: gratis fino al livello 30, il prezzo del percorso fino al 60, come installarlo e il 10% di sconto con il codice NUTRI",
@@ -640,6 +660,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "restoration-druid": "Il guaritore di WoW Forever: cosa cambia, la build standard 11/7/33, la Dual Specialization, le macro e le domande più frequenti",
     "balance-druid": "Il Balance Druid in WoW Forever: due build di livello 30 con Overgrowth o Eclipse, la rotazione, mana e DoT, le stats, le razze e le professioni",
     "feral-druid": "Il Feral Druid in WoW Forever: quattro build per il livello 60, Shifting Power e Primal Bite, le rotazioni da felino e da orso, le risorse, le stats e le razze",
+    "elemental-shaman": "L’Elemental Shaman in WoW Forever: la build di livello 30, Lava Burst e Lightning Overload, la rotazione, i totem, il mana, le stats e le razze",
     "restoration-shaman": "Il Restoration Shaman in WoW Forever: la build da guaritore di livello 30, Water Shield, Riptide e Chain Heal, i totem, il mana, le stats e le razze",
     "mage-leveling": "Livellare un Mage: perché Frost con Ice Lance è il più veloce, la rotazione per spec, i livelli chiave, le missioni di classe e le pergamene",
     "frost-mage": "Il Frost Mage in WoW Forever: Ice Lance e Fingers of Frost, la build di livello 30 con Missile Barrage, rotazione, kiting, mana, stats e razze",
@@ -674,6 +695,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "hunter-leveling": "Livellare un Hunter: i primi livelli, tre build di livello 30 per Beast Mastery, Marksmanship e Survival, la rotazione, i livelli chiave, la missione di addomesticamento, le armi, i famigli, le trappole e il tracciamento",
     "library-books": "Tutti i 36 libri con /way in quattro fasce di livello, dove consegnarli e le ricompense per 10, 20 e 25 libri",
     "night-watchmans-torch": "Una torcia che illumina il buio per 5 minuti, da una guardia morta a Duskwood che appare solo di notte",
+    "built-in-ui-tools": "Niente WeakAuras in Forever: come attivare Cooldown Manager, Damage Meter e Swing Timer, Edit Mode, Click Casting, e quali addon funzionano ancora",
     "camping": "I fuochi da campo, il buff di ogni professione, quanto costa ogni oggetto da campo, le postazioni dei livelli 2 e 3 e dove cadono i blueprint",
     "bmah": "La Black Market Auction House a Powderfuse Port, in The Riverglades: gli agenti, gli oggetti e il Dungeon Set 1 confrontato con Classic",
     "flight-paths": "Ogni punto di volo dell'Alliance e dell'Horde con il suo maestro di volo, /way e rotte, i cinque nuovi punti di volo, e ogni nave e zeppelin",
@@ -696,7 +718,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-living": "La porta principale, The Scarlet Key, le sei cassette postali, le sei missioni e ogni boss fino a Balnazzar",
     "dungeons/stratholme-undead": "La Key to the City, i tre ziggurat, Slaughter Square, le otto missioni e ogni boss fino a Baron Rivendare",
     "dungeons/the-drowned-city": "L’ingresso sott’acqua al largo di Stranglethorn Vale, le cinque missioni note e quattro boss dalla demo della BlizzCon",
-    "dungeons/kroldok-stronghold": "La fortezza degli ogre nelle Riverglades: l’ingresso in una grotta nascosta, le due chiavi e Overlord Mugg"
+    "dungeons/kroldok-stronghold": "La fortezza degli ogre nelle Riverglades: l’ingresso in una grotta nascosta, le due chiavi e Overlord Mugg",
+    "dungeons/alcaz-prison": "La vecchia prigione al largo di Dustwallow Marsh: il portale nel seminterrato, i Defias e i naga, e Blazeroar",
+    "dungeons/blackmaw-hold": "La città dei furbolg dietro la vecchia porta di Azshara: il tunnel verso Winterspring, le dimensioni e Varrox Bleakhoof",
+    "dungeons/shapers-terrace": "Il complesso dei titani in Un'Goro Crater: la salita, la struttura, i power crystals e quattro boss per nome"
   },
   "de": {
     "journey": "Das Leveling-Addon Journey für WoW Forever: kostenlos bis Level 30, der Preis für die Route bis 60, die Installation und 10 % Rabatt mit dem Code NUTRI",
@@ -735,6 +760,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "restoration-druid": "Der Heiler in WoW Forever: was sich ändert, der Standardbuild 11/7/33, Dual Specialization, Makros und die häufigsten Fragen",
     "balance-druid": "Der Balance Druid in WoW Forever: zwei Builds für Level 30 mit Overgrowth oder Eclipse, die Rotation, Mana und DoTs, Werte, Völker und Berufe",
     "feral-druid": "Der Feral Druid in WoW Forever: vier Builds für Level 60, Shifting Power und Primal Bite, die Rotationen als Katze und Bär, Ressourcen, Werte und Völker",
+    "elemental-shaman": "Der Elemental Shaman in WoW Forever: der Build für Level 30, Lava Burst und Lightning Overload, Rotation, Totems, Mana, Werte und Völker",
     "restoration-shaman": "Der Restoration Shaman in WoW Forever: der Heilbuild für Level 30, Water Shield, Riptide und Chain Heal, Totems, Mana, Werte und Völker",
     "mage-leveling": "Einen Mage leveln: warum Frost mit Ice Lance am schnellsten ist, die Rotation pro Spec, wichtige Level, Klassenquests und Schriftrollen",
     "frost-mage": "Der Frost Mage in WoW Forever: Ice Lance und Fingers of Frost, der Build für Level 30 mit Missile Barrage, Rotation, Kiten, Mana, Werte und Völker",
@@ -769,6 +795,7 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "hunter-leveling": "Einen Hunter leveln: die ersten Level, drei Builds für Level 30 für Beast Mastery, Marksmanship und Survival, die Rotation, wichtige Level, die Zähmungsquest, Waffen, Begleiter, Fallen und Aufspüren",
     "library-books": "Alle 36 Bücher mit /way in vier Levelstufen, wo man sie abgibt und die Belohnungen für 10, 20 und 25 Bücher",
     "night-watchmans-torch": "Eine Fackel, die 5 Minuten lang die Dunkelheit erhellt, von einem toten Wächter in Duskwood, der nur nachts erscheint",
+    "built-in-ui-tools": "Kein WeakAuras in Forever: Cooldown Manager, Damage Meter und Swing Timer einschalten, Edit Mode, Click Casting, und welche Addons noch laufen",
     "camping": "Lagerfeuer, der Buff jedes Berufs, was jedes Lagerobjekt kostet, die Werkbänke von Stufe 2 und 3 und wo die Blueprints droppen",
     "bmah": "Das Black Market Auction House in Powderfuse Port in The Riverglades: die Agenten, die Gegenstände und Dungeon Set 1 im Vergleich mit Classic",
     "flight-paths": "Jeder Flugpunkt für Alliance und Horde mit Flugmeister, /way und Routen, die fünf neuen Flugpunkte und jedes Schiff und jeder Zeppelin",
@@ -791,7 +818,10 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-living": "Das Haupttor, The Scarlet Key, die sechs Briefkästen, alle sechs Quests und jeder Boss bis Balnazzar",
     "dungeons/stratholme-undead": "Der Key to the City, die drei Zikkurats, der Slaughter Square, alle acht Quests und jeder Boss bis Baron Rivendare",
     "dungeons/the-drowned-city": "Der Eingang unter Wasser vor Stranglethorn Vale, die fünf bekannten Quests und vier Bosse aus der BlizzCon-Demo",
-    "dungeons/kroldok-stronghold": "Die Ogerfestung in den Riverglades: der versteckte Höhleneingang, ihre zwei Schlüssel und Overlord Mugg"
+    "dungeons/kroldok-stronghold": "Die Ogerfestung in den Riverglades: der versteckte Höhleneingang, ihre zwei Schlüssel und Overlord Mugg",
+    "dungeons/alcaz-prison": "Das alte Gefängnis vor Dustwallow Marsh: das Portal im Keller, die Defias und die Naga, und Blazeroar",
+    "dungeons/blackmaw-hold": "Die Furbolg-Stadt hinter dem alten Tor in Azshara: der Tunnel nach Winterspring, ihre Größe und Varrox Bleakhoof",
+    "dungeons/shapers-terrace": "Die Titanenanlage in Un'Goro Crater: der Weg hinauf, der Aufbau, die Power Crystals und vier Bosse beim Namen"
   }
 };
 

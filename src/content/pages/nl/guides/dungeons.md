@@ -53,6 +53,9 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 - **[Stratholme Undead](/nl/guides/dungeons/stratholme-undead/)**, level 58-60: de Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare.
 - **[The Drowned City](/nl/guides/dungeons/the-drowned-city/)**, level 35-40: de ingang onder water voor Stranglethorn Vale, de vijf bekende quests en vier bazen uit de BlizzCon-demo.
 - **[Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/)**, level 40-45: het ogrefort in de Riverglades: de verstopte grot als ingang, de twee sleutels en Overlord Mugg.
+- **[Alcaz Prison](/nl/guides/dungeons/alcaz-prison/)**, level 48-53: de oude gevangenis voor Dustwallow Marsh: het portaal in de kelder, de Defias en de naga, en Blazeroar.
+- **[Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/)**, level 55-60: de furbolgstad achter de oude poort in Azshara: de tunnel naar Winterspring, de grootte en Varrox Bleakhoof.
+- **[Shaper's Terrace](/nl/guides/dungeons/shapers-terrace/)**, level 58-60: het titancomplex in Un'Goro Crater: de weg erheen, de indeling, de power crystals en vier bazen bij naam.
 
 ## Elke dungeon op level
 
@@ -82,14 +85,14 @@ Voor de dungeons met een gids is het bereik dat van het spel zelf. Voor de ander
 | [Uldaman](/nl/guides/dungeons/uldaman/) | 41-51 | 14 |
 | [Zul'Farrak](/nl/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/nl/guides/dungeons/maraudon/) | 41-50 | 11 |
-| Alcaz Prison | 48-53 | nog niet bekend |
+| [Alcaz Prison](/nl/guides/dungeons/alcaz-prison/) | 48-53 | nog niet bekend |
 | [Sunken Temple](/nl/guides/dungeons/sunken-temple/) | 46-54 | 9 |
 | [Blackrock Depths](/nl/guides/dungeons/blackrock-depths/) | 50-60 | 24 |
 | [Dire Maul East](/nl/guides/dungeons/dire-maul-east/) | 54-60 | 5 |
 | [Dire Maul West](/nl/guides/dungeons/dire-maul-west/) | 56-60 | 2 |
 | [Dire Maul North](/nl/guides/dungeons/dire-maul-north/) | 56-60 | 6 |
-| Blackmaw Hold | 55-60 | nog niet bekend |
-| Shaper's Terrace | 58-60 | nog niet bekend |
+| [Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/) | 55-60 | nog niet bekend |
+| [Shaper's Terrace](/nl/guides/dungeons/shapers-terrace/) | 58-60 | nog niet bekend |
 | [Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
 | [Scholomance](/nl/guides/dungeons/scholomance/) | 58-60 | 10 |
 | [Stratholme Living](/nl/guides/dungeons/stratholme-living/) | 58-60 | 6 |
@@ -534,8 +537,8 @@ Van zes nieuwe dungeons van Forever zijn de quests nog niet bekend. De Excavatio
 | [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 |
 | [The Drowned City](/nl/guides/dungeons/the-drowned-city/) | 35-40 |
 | [Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/) | 40-45 |
-| Alcaz Prison | 48-53 |
-| Blackmaw Hold | 55-60 |
-| Shaper's Terrace | 58-60 |
+| [Alcaz Prison](/nl/guides/dungeons/alcaz-prison/) | 48-53 |
+| [Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/) | 55-60 |
+| [Shaper's Terrace](/nl/guides/dungeons/shapers-terrace/) | 58-60 |
 
 De City of Dalaran heeft [een eigen gids](/nl/guides/dungeons/city-of-dalaran/), met beide ingangen en de zeven bazen. Zijn loot is nog niet bekend. De reeks van de Horde voor de Dalaran Sewer Key en de quest Heart of Disruption staan in die gids.

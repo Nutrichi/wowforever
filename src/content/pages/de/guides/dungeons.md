@@ -53,6 +53,9 @@ Die Beta von WoW Forever geht seit dem 1. Oktober bis Level 30. Für die Dungeon
 - **[Stratholme Undead](/de/guides/dungeons/stratholme-undead/)**, Stufe 58-60: der Key to the City, die drei Zikkurats, der Slaughter Square, alle acht Quests und jeder Boss bis Baron Rivendare.
 - **[The Drowned City](/de/guides/dungeons/the-drowned-city/)**, Stufe 35-40: der Eingang unter Wasser vor Stranglethorn Vale, die fünf bekannten Quests und vier Bosse aus der BlizzCon-Demo.
 - **[Krol'dok Stronghold](/de/guides/dungeons/kroldok-stronghold/)**, Stufe 40-45: die Ogerfestung in den Riverglades: der versteckte Höhleneingang, ihre zwei Schlüssel und Overlord Mugg.
+- **[Alcaz Prison](/de/guides/dungeons/alcaz-prison/)**, Stufe 48-53: das alte Gefängnis vor Dustwallow Marsh: das Portal im Keller, die Defias und die Naga, und Blazeroar.
+- **[Blackmaw Hold](/de/guides/dungeons/blackmaw-hold/)**, Stufe 55-60: die Furbolg-Stadt hinter dem alten Tor in Azshara: der Tunnel nach Winterspring, ihre Größe und Varrox Bleakhoof.
+- **[Shaper's Terrace](/de/guides/dungeons/shapers-terrace/)**, Stufe 58-60: die Titanenanlage in Un'Goro Crater: der Weg hinauf, der Aufbau, die Power Crystals und vier Bosse beim Namen.
 
 ## Jeder Dungeon nach Level
 
@@ -82,14 +85,14 @@ Für die Dungeons mit Guide ist der Bereich der, den das Spiel selbst nennt. Fü
 | [Uldaman](/de/guides/dungeons/uldaman/) | 41-51 | 14 |
 | [Zul'Farrak](/de/guides/dungeons/zul-farrak/) | 40-50 | 8 |
 | [Maraudon](/de/guides/dungeons/maraudon/) | 41-50 | 11 |
-| Alcaz Prison | 48-53 | noch nicht bekannt |
+| [Alcaz Prison](/de/guides/dungeons/alcaz-prison/) | 48-53 | noch nicht bekannt |
 | [Sunken Temple](/de/guides/dungeons/sunken-temple/) | 46-54 | 9 |
 | [Blackrock Depths](/de/guides/dungeons/blackrock-depths/) | 50-60 | 24 |
 | [Dire Maul East](/de/guides/dungeons/dire-maul-east/) | 54-60 | 5 |
 | [Dire Maul West](/de/guides/dungeons/dire-maul-west/) | 56-60 | 2 |
 | [Dire Maul North](/de/guides/dungeons/dire-maul-north/) | 56-60 | 6 |
-| Blackmaw Hold | 55-60 | noch nicht bekannt |
-| Shaper's Terrace | 58-60 | noch nicht bekannt |
+| [Blackmaw Hold](/de/guides/dungeons/blackmaw-hold/) | 55-60 | noch nicht bekannt |
+| [Shaper's Terrace](/de/guides/dungeons/shapers-terrace/) | 58-60 | noch nicht bekannt |
 | [Lower Blackrock Spire](/de/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
 | [Scholomance](/de/guides/dungeons/scholomance/) | 58-60 | 10 |
 | [Stratholme Living](/de/guides/dungeons/stratholme-living/) | 58-60 | 6 |
@@ -534,8 +537,8 @@ Die Quests von sechs neuen Dungeons von Forever sind noch nicht bekannt. Die Exc
 | [City of Dalaran](/de/guides/dungeons/city-of-dalaran/) | 28-33 |
 | [The Drowned City](/de/guides/dungeons/the-drowned-city/) | 35-40 |
 | [Krol'dok Stronghold](/de/guides/dungeons/kroldok-stronghold/) | 40-45 |
-| Alcaz Prison | 48-53 |
-| Blackmaw Hold | 55-60 |
-| Shaper's Terrace | 58-60 |
+| [Alcaz Prison](/de/guides/dungeons/alcaz-prison/) | 48-53 |
+| [Blackmaw Hold](/de/guides/dungeons/blackmaw-hold/) | 55-60 |
+| [Shaper's Terrace](/de/guides/dungeons/shapers-terrace/) | 58-60 |
 
 Die City of Dalaran hat [einen eigenen Guide](/de/guides/dungeons/city-of-dalaran/), mit beiden Eingängen und den sieben Bossen. Ihre Beute ist noch nicht bekannt. Die Reihe der Horde für den Dalaran Sewer Key und die Quest Heart of Disruption stehen in diesem Guide.

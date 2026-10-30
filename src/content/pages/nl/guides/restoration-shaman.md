@@ -3,7 +3,7 @@ title: "Restoration Shaman in WoW Forever: de gids"
 metaTitle: "WoW Forever Restoration Shaman: healbuild, totems, mana"
 description: "De Restoration Shaman in WoW Forever: de healbuild voor level 30 en de Talented-versie, Water Shield, Riptide en Chain Heal, totems, mana, stats en races."
 short: "Restoration Shaman"
-updated: 2026-10-27
+updated: 2026-10-30
 lang: nl
 manual: true
 faq:
@@ -34,7 +34,7 @@ De Restoration Shaman in WoW Forever heelt met een paar eenvoudige spells en vul
 | Belangrijkste talenten | Mindfulness, Water Shield, Ancestral Healing, Tidal Mastery, Mana Tide Totem, Nature's Swiftness |
 | Sterk in | Eenvoudige en sterke heals, totems voor de hele raid, veel utility |
 | Zwak in | Mana, geen harde crowd control, de plaats van je totems |
-| Andere gidsen voor de Shaman | [Shaman levelen](/nl/guides/shaman-leveling/), [levelbuild voor de Shaman](/nl/leveling/shaman/) |
+| Andere gidsen voor de Shaman | [Elemental Shaman](/nl/guides/elemental-shaman/), [Shaman levelen](/nl/guides/shaman-leveling/), [levelbuild voor de Shaman](/nl/leveling/shaman/) |
 
 ## Sterktes en zwaktes
 

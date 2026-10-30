@@ -1,0 +1,16 @@
+{
+ "slug": "alcaz-prison",
+ "levels": "48–53",
+ "bosses": [
+  {
+   "name": "Blazeroar",
+   "slug": "blazeroar",
+   "level": "",
+   "npc": null,
+   "items": []
+  }
+ ],
+ "loose": [],
+ "quests": [],
+ "cards": {}
+}
