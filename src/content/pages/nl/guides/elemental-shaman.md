@@ -3,7 +3,7 @@ title: "Gids voor de Elemental Shaman in WoW Forever"
 metaTitle: "WoW Forever Elemental Shaman: build, Lava Burst, totems, mana"
 description: "De Elemental Shaman in WoW Forever: de build voor level 30 en de Talented-versie, Lava Burst en Lightning Overload, de rotatie, totems, mana, stats en races."
 short: "Elemental Shaman"
-updated: 2026-10-30
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
@@ -34,7 +34,7 @@ De Elemental Shaman in WoW Forever vecht op afstand met bliksem en lava. De spec
 | Belangrijkste talenten | Elemental Focus, Trial by Fire, Earthbound, Lava Burst, Lightning Overload |
 | Sterk in | Goede schade op groepen, totems voor de hele raid, veel utility |
 | Zwak in | Mana, geen harde crowd control, de plaats van je totems |
-| Andere gidsen voor de Shaman | [Restoration Shaman](/nl/guides/restoration-shaman/), [Shaman levelen](/nl/guides/shaman-leveling/), [levelbuild voor de Shaman](/nl/leveling/shaman/) |
+| Andere gidsen voor de Shaman | [Enhancement Shaman](/nl/guides/enhancement-shaman/), [Restoration Shaman](/nl/guides/restoration-shaman/), [Shaman levelen](/nl/guides/shaman-leveling/), [levelbuild voor de Shaman](/nl/leveling/shaman/) |
 
 ## Sterktes en zwaktes
 

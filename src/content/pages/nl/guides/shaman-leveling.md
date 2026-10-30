@@ -3,7 +3,7 @@ title: "Levelgids voor de Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman levelen: Enhancement, Elemental en Resto"
 description: "Zo level je een Shaman in WoW Forever: builds voor level 30 voor Enhancement, Elemental en Restoration, belangrijke levels, de totemquests, de wapens van Call of Air en zones."
 short: "Shaman levelen"
-updated: 2026-10-30
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
@@ -34,7 +34,7 @@ De Shaman in WoW Forever is welkom in elke groep: sterke totembuffs, een instant
 | Sterk in | Totembuffs, zelf helen, snel reizen met Ghost Wolf, kan als Enhancement lage dungeons tanken |
 | Zwak in | Mana, weinig crowd control |
 | Talentvolgorde per level | [Levelbuild voor de Shaman](/nl/leveling/shaman/) |
-| Gidsen per spec | [Elemental Shaman](/nl/guides/elemental-shaman/), [Restoration Shaman](/nl/guides/restoration-shaman/) |
+| Gidsen per spec | [Enhancement Shaman](/nl/guides/enhancement-shaman/), [Elemental Shaman](/nl/guides/elemental-shaman/), [Restoration Shaman](/nl/guides/restoration-shaman/) |
 | Builds tot level 60 | Na de launch op 4 november |
 
 ## Met welke spec level je

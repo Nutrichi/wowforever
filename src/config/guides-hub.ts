@@ -143,6 +143,7 @@ export const hubCategories: HubCategory[] = [
       { key: 'marksmanship-hunter', image: '2026-10-24-wow-forever-marksmanship-hunter-build.jpg' },
       { key: 'survival-hunter', image: '2026-10-25-wow-forever-survival-hunter-build.jpg' },
       { key: 'shaman-leveling', image: '2026-10-24-wow-forever-shaman-enhancement-build.jpg' },
+      { key: 'enhancement-shaman', image: '2026-10-24-wow-forever-shaman-enhancement-build.jpg', isNew: true },
       { key: 'elemental-shaman', image: '2026-10-30-wow-forever-elemental-shaman-build.jpg', isNew: true },
       { key: 'restoration-shaman', image: '2026-10-24-wow-forever-shaman-restoration-build.jpg' },
       { key: '/classes', label: 'cardClasses', image: '2026-09-13-wow-forever-key-art.jpg' },

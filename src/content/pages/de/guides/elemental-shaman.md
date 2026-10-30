@@ -3,7 +3,7 @@ title: "Guide zum Elemental Shaman für WoW Forever"
 metaTitle: "WoW Forever Elemental Shaman: Build, Lava Burst, Totems, Mana"
 description: "Der Elemental Shaman in WoW Forever: der Build für Level 30 und seine Talented-Version, Lava Burst und Lightning Overload, Rotation, Totems, Mana, Werte und Völker."
 short: "Elemental Shaman"
-updated: 2026-10-30
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
@@ -34,7 +34,7 @@ Der Elemental Shaman in WoW Forever kämpft auf Distanz mit Blitz und Lava. Die 
 | Wichtigste Talente | Elemental Focus, Trial by Fire, Earthbound, Lava Burst, Lightning Overload |
 | Stärken | Guter Schaden auf Gruppen, Totems für den ganzen Raid, viel Nutzen |
 | Schwächen | Mana, keine harte Kontrolle, die Platzierung der Totems |
-| Weitere Guides zum Shaman | [Restoration Shaman](/de/guides/restoration-shaman/), [Shaman leveln](/de/guides/shaman-leveling/), [Levelbuild für den Shaman](/de/leveling/shaman/) |
+| Weitere Guides zum Shaman | [Enhancement Shaman](/de/guides/enhancement-shaman/), [Restoration Shaman](/de/guides/restoration-shaman/), [Shaman leveln](/de/guides/shaman-leveling/), [Levelbuild für den Shaman](/de/leveling/shaman/) |
 
 ## Stärken und Schwächen
 

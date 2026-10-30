@@ -3,7 +3,7 @@ title: "Restoration Shaman in WoW Forever: der Guide"
 metaTitle: "WoW Forever Restoration Shaman: Heilbuild, Totems, Mana"
 description: "Der Restoration Shaman in WoW Forever: der Heilbuild für Level 30 und die Talented-Version, Water Shield, Riptide und Chain Heal, Totems, Mana, Werte und Völker."
 short: "Restoration Shaman"
-updated: 2026-10-30
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
@@ -34,7 +34,7 @@ Der Restoration Shaman in WoW Forever heilt mit wenigen einfachen Zaubern und f�
 | Wichtigste Talente | Mindfulness, Water Shield, Ancestral Healing, Tidal Mastery, Mana Tide Totem, Nature's Swiftness |
 | Stärken | Einfache und starke Heilungen, Totems für den ganzen Raid, viel Nutzen |
 | Schwächen | Mana, keine harte Kontrolle, die Platzierung der Totems |
-| Weitere Guides zum Shaman | [Elemental Shaman](/de/guides/elemental-shaman/), [Shaman leveln](/de/guides/shaman-leveling/), [Levelbuild für den Shaman](/de/leveling/shaman/) |
+| Weitere Guides zum Shaman | [Enhancement Shaman](/de/guides/enhancement-shaman/), [Elemental Shaman](/de/guides/elemental-shaman/), [Shaman leveln](/de/guides/shaman-leveling/), [Levelbuild für den Shaman](/de/leveling/shaman/) |
 
 ## Stärken und Schwächen
 
