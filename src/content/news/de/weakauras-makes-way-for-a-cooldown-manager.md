@@ -1,7 +1,7 @@
 ---
 title: "WeakAuras weicht einem Cooldown Manager"
 description: "WeakAuras funktioniert in WoW Forever nicht, das die Addon-Regeln von Midnight nutzt. Ein eingebauter Cooldown Manager, Damage Meter und Swing Timer ersetzen es teilweise."
-date: 2026-10-30T17:30:00+01:00
+date: 2026-10-30T17:21:00+01:00
 category: forever
 lang: de
 manual: true
@@ -11,7 +11,7 @@ source: "Icy Veins"
 sourceUrl: "https://www.icy-veins.com/wow-forever/news/no-weakauras-in-wow-forever-heres-what-to-use-instead/"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 ---
 WeakAuras funktioniert in World of Warcraft: Forever nicht. Das Spiel nutzt die Addon-Beschränkungen, die Midnight ins moderne Spiel brachte, und die einschränken, was Addons im Kampf sehen und tun. Eingebaute Werkzeuge übernehmen einen Teil der Arbeit, angefangen mit einem Cooldown Manager.
 
