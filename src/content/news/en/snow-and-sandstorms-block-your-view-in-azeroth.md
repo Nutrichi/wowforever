@@ -1,7 +1,7 @@
 ---
 title: "Snow and sandstorms block your view in Azeroth"
 description: "A video from Blizzard shows light snow and a nearly blinding storm in Dun Morogh. Testers also filmed a sandstorm in Tanaris, on top of the rain and lightning seen earlier."
-date: 2026-10-31T10:05:00+01:00
+date: 2026-10-31T00:45:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-31-wow-forever-dun-morogh-snow.jpg

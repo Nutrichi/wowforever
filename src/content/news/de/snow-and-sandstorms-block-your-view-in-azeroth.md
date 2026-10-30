@@ -1,7 +1,7 @@
 ---
 title: "Schnee und Sandstürme nehmen dir die Sicht"
 description: "Ein Video von Blizzard zeigt leichten Schnee und einen fast blendenden Sturm in Dun Morogh. Tester filmten außerdem einen Sandsturm in Tanaris, nach Regen und Blitzen zuvor."
-date: 2026-10-31T10:05:00+01:00
+date: 2026-10-31T00:45:00+01:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-31-wow-forever-dun-morogh-snow.jpg

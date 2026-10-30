@@ -1,7 +1,7 @@
 ---
 title: "Neve e tempeste di sabbia oscurano la vista"
 description: "Un video di Blizzard mostra neve leggera e una tempesta quasi accecante a Dun Morogh. I tester hanno filmato anche una tempesta di sabbia a Tanaris, dopo pioggia e fulmini."
-date: 2026-10-31T10:05:00+01:00
+date: 2026-10-31T00:45:00+01:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-31-wow-forever-dun-morogh-snow.jpg

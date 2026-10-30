@@ -1,7 +1,7 @@
 ---
 title: "Nieve y tormentas de arena te quitan la vista"
 description: "Un vídeo de Blizzard muestra nieve ligera y una tormenta casi cegadora en Dun Morogh. Los testers también grabaron una tormenta de arena en Tanaris, tras la lluvia y los rayos."
-date: 2026-10-31T10:05:00+01:00
+date: 2026-10-31T00:45:00+01:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-31-wow-forever-dun-morogh-snow.jpg

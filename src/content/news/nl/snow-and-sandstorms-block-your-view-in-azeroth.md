@@ -1,7 +1,7 @@
 ---
 title: "Sneeuw- en zandstormen benemen je het zicht"
 description: "Een video van Blizzard toont lichte sneeuw en een bijna verblindende storm in Dun Morogh. Testers filmden ook een zandstorm in Tanaris, naast de regen en bliksem van eerder."
-date: 2026-10-31T10:05:00+01:00
+date: 2026-10-31T00:45:00+01:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-31-wow-forever-dun-morogh-snow.jpg
