@@ -1,7 +1,7 @@
 ---
 title: "Groups no longer move you to a new layer"
 description: "At launch, joining a group shows a pop-up with a time window instead of moving you straight away. Forced world refreshes become rare, Blizzard says in podcast episode 6."
-date: 2026-10-30T08:05:00+01:00
+date: 2026-10-30T08:04:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-30-wow-forever-tower-by-a-river.jpg

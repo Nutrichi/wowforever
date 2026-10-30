@@ -1,7 +1,7 @@
 ---
 title: "Un groupe ne vous change plus de layer d'office"
 description: "Au lancement, rejoindre un groupe affiche une fenêtre avec un délai au lieu de vous déplacer tout de suite. Les refresh forcés deviennent rares, dit Blizzard dans l'épisode 6 du podcast."
-date: 2026-10-30T08:05:00+01:00
+date: 2026-10-30T08:04:00+01:00
 category: forever
 lang: fr
 manual: true

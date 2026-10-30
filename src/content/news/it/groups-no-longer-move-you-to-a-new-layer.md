@@ -1,7 +1,7 @@
 ---
 title: "Un gruppo non ti cambia più layer all'istante"
 description: "Al lancio, entrare in un gruppo mostra un avviso con un limite di tempo invece di spostarti subito. I refresh forzati diventano rari, dice Blizzard nell'episodio 6 del podcast."
-date: 2026-10-30T08:05:00+01:00
+date: 2026-10-30T08:04:00+01:00
 category: forever
 lang: it
 manual: true

@@ -1,7 +1,7 @@
 ---
 title: "Een groep verplaatst je niet meer meteen"
 description: "Bij de launch toont een groep eerst een pop-up met een tijdvenster, in plaats van je meteen te verplaatsen. Gedwongen refreshes worden zeldzaam, zegt Blizzard in aflevering 6 van de podcast."
-date: 2026-10-30T08:05:00+01:00
+date: 2026-10-30T08:04:00+01:00
 category: forever
 lang: nl
 manual: true

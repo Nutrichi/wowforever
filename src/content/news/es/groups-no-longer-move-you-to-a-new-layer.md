@@ -1,7 +1,7 @@
 ---
 title: "Un grupo ya no te cambia de layer al instante"
 description: "En el lanzamiento, unirse a un grupo muestra un aviso con un plazo en vez de moverte en el acto. Los refresh forzados serán raros, dice Blizzard en el episodio 6 del podcast."
-date: 2026-10-30T08:05:00+01:00
+date: 2026-10-30T08:04:00+01:00
 category: forever
 lang: es
 manual: true

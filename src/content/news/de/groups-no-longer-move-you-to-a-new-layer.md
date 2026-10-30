@@ -1,7 +1,7 @@
 ---
 title: "Gruppen verschieben dich nicht mehr sofort"
 description: "Zum Launch zeigt der Beitritt zu einer Gruppe ein Pop-up mit Zeitfenster, statt dich sofort zu verschieben. Erzwungene Refreshes werden selten, sagt Blizzard in Podcast-Folge 6."
-date: 2026-10-30T08:05:00+01:00
+date: 2026-10-30T08:04:00+01:00
 category: forever
 lang: de
 manual: true
