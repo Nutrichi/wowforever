@@ -3,18 +3,18 @@ title: "Feral Druid in WoW Forever: der Guide"
 metaTitle: "WoW Forever Feral Druid: Katzen- und Bärenbuilds, Rotation, Werte"
 description: "Der Feral Druid in WoW Forever: vier Builds für Level 60 (Hybrid, Katze, Bär und Solo), Shifting Power und Primal Bite, die Rotationen als Katze und Bär, Werte und Völker."
 short: "Feral Druid"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
   - q: "Kann ein Feral Druid mit einem Build tanken und Schaden machen?"
-    a: "Ja. Der Hybridbuild 9/42/0 hat alles für beide Rollen: Thick Hide und Primal Bite für den Bären, Shredding Attacks und Shifting Power für die Katze. Du kannst sogar mitten im Kampf die Rolle wechseln."
+    a: "Ja. Der Hybridbuild 9/37/5 hat alles für beide Rollen: Thick Hide und Primal Bite für den Bären, Shredding Attacks und Shifting Power für die Katze. Du kannst sogar mitten im Kampf die Rolle wechseln."
   - q: "Funktioniert Powershifting noch in WoW Forever?"
     a: "Nein. Der Wechsel in Cat Form füllt deine Energie nicht mehr auf. Furor gibt dir jetzt die Energie zurück, die du beim Verlassen der Cat Form hattest, plus 10 Energie pro Sekunde außerhalb der Bear Form, also bleib so lange wie möglich in einer Form. Shifting Power übernimmt die Rolle: Es wandelt Mana in 40 Energie um."
   - q: "Was macht Shifting Power?"
-    a: "Es wandelt sofort 55 % deines Grundmanas in 40 Energie um, ohne die Cat Form zu verlassen. Nutze es unter 50 Energie. Improved Shifting Power senkt die Abklingzeit um 8 Sekunden."
+    a: "Es wandelt sofort 55 % deines Grundmanas in 40 Energie um, ohne die Cat Form zu verlassen. Nutze es unter 50 Energie."
   - q: "Was ist Primal Bite?"
-    a: "Ein neuer Bärenangriff mit kurzer Abklingzeit, der Waffenschaden und viel Bedrohung verursacht. Mit Berserk trifft er bis zu 3 Ziele ohne Abklingzeit: dein Knopf für Bedrohung auf Gruppen."
+    a: "Ein neuer Bärenangriff mit kurzer Abklingzeit, der Waffenschaden und viel Bedrohung verursacht. dein Knopf für Bedrohung auf Gruppen."
   - q: "Welche Werte braucht ein Feral Druid?"
     a: "Als Katze: Hit, dann Expertise, dann Crit, Agility, Strength und Angriffskraft. Als Bär auch Defense, Dodge, Rüstung und Stamina, denn ein Druid kann weder blocken noch parieren."
   - q: "Welches Volk ist das beste für einen Feral Druid?"
@@ -30,8 +30,8 @@ Der Feral Druid in WoW Forever ist zwei Specs in einer: eine Katze, die mit Ener
 | | |
 |---|---|
 | Rolle | Nahkampfschaden in Cat Form, Tank in Bear Form |
-| Builds für Level 60 | Hybrid 9/42/0, Katze 9/40/2, Bär 9/42/0, Solo 0/35/16 |
-| Wichtigste Talente | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Berserk, Nature's Reach |
+| Builds für Level 60 | Hybrid 9/37/5, Katze 9/37/5, Bär 9/37/5, Solo 0/35/16 |
+| Wichtigste Talente | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Nature's Reach |
 | Stärken | Zwei Rollen in einer, Leader of the Pack, die schnellste Figur drinnen und draußen |
 | Schwächen | Schaden eines Hybriden, drei Ressourcen im Blick, schwer zu meistern |
 | Weitere Guides zum Druid | [Druid leveln](/de/guides/druid-leveling/), [Balance Druid](/de/guides/balance-druid/), [Restoration Druid](/de/guides/restoration-druid/) |
@@ -52,44 +52,48 @@ Der Feral Druid in WoW Forever ist zwei Specs in einer: eine Katze, die mit Ener
 
 Alle vier nutzen 51 Punkte, die volle Talentzahl von Level 60. Jeder Build setzt 9 Punkte in Balance für Genesis 5/5, Nature's Majesty 2/2 und Nature's Reach 2/2, außer dem Solobuild.
 
-### Hybrid, 9/42/0
+### Hybrid, 9/37/5
 
-Katze und Bär in einem Build, für Endgame-Gruppen, die eine der beiden Rollen brauchen. [Öffne den Build im Talentrechner](/de/talents/druid/?t=050022-35230332121132212051).
+Katze und Bär in einem Build, für Endgame-Gruppen, die eine der beiden Rollen brauchen. [Öffne den Build im Talentrechner](/de/talents/druid/?t=050022-50230232123112125011-05).
 
 | Talent | Punkte |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a>** | 3/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a>** | 5/5 |
+| **Genesis** | 5/5 |
+| **Nature's Majesty** | 2/2 |
+| **Nature's Reach** | 2/2 |
+| **Ferocity** | 5/5 |
 | **Feral Swiftness** | 2/2 |
 | **Feral Instinct** | 3/3 |
-| **Thick Hide** | 3/3 |
+| **Thick Hide** | 2/3 |
 | **Shredding Attacks** | 3/3 |
 | **Savage Fury** | 2/2 |
 | **Feral Charge** | 1/1 |
 | **Sharpened Claws** | 2/2 |
-| **Shifting Power** | 1/1 |
-| **Primal Bite** | 1/1 |
 | **Predatory Strikes** | 3/3 |
+| **Lacerate** | 1/1 |
+| **Predatory Discipline** | 1/1 |
 | **Blood Frenzy** | 2/2 |
-| **Improved Shifting Power** | 2/2 |
 | **Leader of the Pack** | 1/1 |
 | **Natural Instinct** | 2/2 |
 | **Rend and Tear** | 5/5 |
-| **Berserk** | 1/1 |
+| **Primal Bite** | 1/1 |
+| **Lacerate** | Neues Talent in Feral Combat seit dem Hotfix |
+| **Shifting Power** | 1/1 |
+| **Heart of the Wild** | 5/5 |
 
-![Der Hybridbuild 9/42/0 des Feral Druid in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
+![Der Hybridbuild 9/37/5 des Feral Druid in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
 
-### Katze, 9/40/2
+### Katze, 9/37/5
 
-Für einen Druid, der nie tankt. [Öffne den Build im Talentrechner](/de/talents/druid/?t=050022-55230032121032212051-02). Gegenüber dem Hybridbuild: Ferocity 5/5 statt 3/5, kein Thick Hide und kein Primal Bite, dafür Furor 2/5 in Restoration.
+Für einen Druid, der nie tankt. [Öffne den Build im Talentrechner](/de/talents/druid/?t=050022-53230032123112125001-05).
 
-### Bär, 9/42/0
+### Bär, 9/37/5
 
-Für einen Druid, der nur tankt, mit mehr Wut und Überleben. [Öffne den Build im Talentrechner](/de/talents/druid/?t=050022-55230302120132012451). Gegenüber dem Hybridbuild: Ferocity 5/5 und Natural Reaction 4/5, ohne Shredding Attacks, Shifting Power und Improved Shifting Power.
+Für einen Druid, der nur tankt, mit mehr Wut und Überleben. [Öffne den Build im Talentrechner](/de/talents/druid/?t=050022-5023030212310212541-05).
 
 ### Solo, 0/35/16
 
-Zum Questen und Farmen allein: günstigere Gestaltwandel und effiziente Selbstheilung, auf Kosten etwas Leistung in der Gruppe. [Öffne den Build im Talentrechner](/de/talents/druid/?t=-05230032121032212051-15503001001). Feral Combat wie im Katzenbuild ohne Ferocity, und in Restoration Nature's Focus 1/5, Furor 5/5, Naturalist 5/5, Natural Shapeshifter 3/3, Gift of the Earthmother 1/1 und Swiftmend 1/1.
+Zum Questen und Farmen allein: günstigere Gestaltwandel und effiziente Selbstheilung, auf Kosten etwas Leistung in der Gruppe. [Öffne den Build im Talentrechner](/de/talents/druid/?t=-05231032123112125001-15513000001).
 
 ## Was die wichtigsten Talente tun
 
@@ -104,9 +108,7 @@ Zum Questen und Farmen allein: günstigere Gestaltwandel und effiziente Selbsthe
 | **Leader of the Pack** | 3 % mehr kritische Trefferchance im Nah- und Fernkampf für Gruppe oder Raid im Umkreis von 45 Metern |
 | **Natural Reaction** | 5 % mehr Ausweichen und 5 Wut bei jedem Ausweichen |
 | **Rend and Tear** | 10 % mehr Schaden mit Nahkampffähigkeiten gegen blutende Ziele |
-| **Berserk** | Primal Bite trifft bis zu 3 Ziele ohne Abklingzeit, 100 % mehr kritische Trefferchance für Combo-Point-Aufbauer, und es entfernt und verhindert Furcht |
 | **Furor** | 10 Wut beim Wechsel in Bear Form; Cat Form gibt die Energie zurück, die du hattest, plus 10 Energie pro Sekunde außerhalb der Bear Form |
-| **Gift of the Earthmother** | 0,5 Sekunden kürzere globale Abklingzeit für Rejuvenation, Swiftmend und Wild Growth |
 
 Für den Solobuild: ein schnelles Rejuvenation und Swiftmend heilen dich hoch, dann geht es zurück in die Form.
 

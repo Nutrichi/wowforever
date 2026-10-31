@@ -3,7 +3,7 @@ title: "Fire-Mage-Guide für WoW Forever"
 metaTitle: "WoW Forever Fire Mage: Heating-Up-Build, Rotation und Werte"
 description: "Der Fire Mage in WoW Forever: Heating Up und das neue Fire Power, zwei Builds für Level 30 für Dungeons und Solo, die Pyroblast-Rotation, Mana, Werte, Völker."
 short: "Fire Mage"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Was macht Fire Power jetzt?"
     a: "Es zählt deine Feuereffekte auf dem Ziel: den Brand von Fireball, Improved Scorch, Ignite und den Brand von Pyroblast. Jeder Effekt bringt 1 % Feuerschaden pro Punkt, bis zu 3 % pro Effekt und 12 % bei 3/3. Der Bonus erscheint nicht als Buff."
   - q: "Welcher Build ist besser, Dungeon oder Solo?"
-    a: "Dungeon gegen Bosse über deinem Level: Elemental Precision sorgt dafür, dass deine Zauber nicht verfehlen. Solo gegen Monster auf oder unter deinem Level: Du lässt die Trefferchance weg und nimmst Critical Mass für mehr kritische Treffer."
+    a: "Dungeon gegen Bosse über deinem Level: Precision sorgt dafür, dass deine Zauber nicht verfehlen. Solo gegen Monster auf oder unter deinem Level: Du lässt die Trefferchance weg und nimmst Critical Mass für mehr kritische Treffer."
   - q: "Kann man Ignite noch rollen lassen?"
     a: "Nein. Ignite wurde in Forever abgeschwächt und brennt jetzt für 40 % des kritischen Treffers über 4 Sekunden. Ignite Rolling lohnt sich nicht mehr."
   - q: "Welches Volk ist das beste für einen Fire Mage?"
@@ -40,7 +40,7 @@ Der Fire Mage in WoW Forever lebt von kritischen Treffern. Heating Up macht aus 
 ## Was sich für Fire ändert
 
 - **Heating Up ist neu.** Ein Talent auf Level 25. Jeder nicht periodische kritische Treffer mit Fireball, Frostfire Bolt, Fire Blast oder Scorch macht deinen nächsten Pyroblast innerhalb von 20 Sekunden 25 % schneller, bis zu 3 Stapel. Fire Blast gibt bei jedem Treffer einen Stapel.
-- **Critical Mass ist stärker.** 2 % kritische Trefferchance für Feuerzauber pro Punkt, 10 % bei 5/5.
+- **Critical Mass ist stärker.** 2 % kritische Trefferchance für Feuerzauber pro Punkt, 6 % bei 3/3.
 - **Fire Power ist überarbeitet.** Es zählt jetzt deine Feuereffekte auf dem Ziel, bis zu vier: 3 % mehr Feuerschaden pro Effekt bei 3/3, also höchstens 12 %.
 - **Ignite ist schwächer.** Es brennt für 40 % des kritischen Treffers über 4 Sekunden. Ignite von einem Crit zum nächsten rollen zu lassen, lohnt sich nicht mehr.
 - **Flamestrike stapelt nicht mehr.** Nur ein Brand von Flamestrike bleibt auf einem Ziel.
@@ -60,52 +60,52 @@ Beide Builds nutzen die 21 Punkte, die du auf Level 30 hast. Talented aus dem Le
 
 ### Dungeon-Build
 
-Für Dungeons und Bosse über deinem Level. 2/5 Elemental Precision in Frost sorgt dafür, dass deine Zauber nicht verfehlen, und 3/3 Improved Scorch ist auch ohne Talented dabei, weil der Bonus auf Feuerschaden so stark ist. Für Critical Mass oder Master of Elements bleiben keine Punkte, ohne Trefferchance aufzugeben. [Build im Talentrechner öffnen](/de/talents/mage/?t=-015500301301-002).
+Für Dungeons und Bosse über deinem Level. 2/3 Precision in Frost sorgt dafür, dass deine Zauber nicht verfehlen, und 3/3 Improved Scorch ist auch ohne Talented dabei, weil der Bonus auf Feuerschaden so stark ist. Für Critical Mass oder Master of Elements bleiben keine Punkte, ohne Trefferchance aufzugeben. [Build im Talentrechner öffnen](/de/talents/mage/?t=-155003010301-002).
 
 | Talent | Punkte |
 |---|---|
-| **Improved Fireball** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 1/3 |
+| **Incineration** | 1/5 |
+| **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
 | **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Elemental Precision** | 2/5 |
+| **Precision** | 2/3 |
 
-[Talented-Version öffnen](/de/talents/mage/?t=-02550030130103-003) mit Incineration 2/3, Critical Mass 3/5 und Elemental Precision 3/5.
+[Talented-Version öffnen](/de/talents/mage/?t=-25500301030103-003) mit Incineration 2/5, Critical Mass 3/3 und Precision 3/3.
 
 ### Solo-Build
 
-Zum Questen gegen Monster auf oder unter deinem Level, also ohne Elemental Precision. Alle Punkte gehen in Fire, mit Incineration 2/3 und dem ersten Punkt in Critical Mass für mehr kritische Treffer. [Build im Talentrechner öffnen](/de/talents/mage/?t=-02550030130101).
+Zum Questen gegen Monster auf oder unter deinem Level, also ohne Precision. Alle Punkte gehen in Fire, mit Incineration 2/5 und dem ersten Punkt in Critical Mass für mehr kritische Treffer. [Build im Talentrechner öffnen](/de/talents/mage/?t=-25500301030101).
 
 | Talent | Punkte |
 |---|---|
-| **Improved Fireball** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 2/3 |
+| **Incineration** | 2/5 |
+| **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
 | **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Critical Mass** | 1/5 |
+| **Critical Mass** | 1/3 |
 
-[Talented-Version öffnen](/de/talents/mage/?t=-0255003013010501) mit Critical Mass 5/5 und Fire Power 1/3. Mehr Burst gewünscht? Nimm <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> statt Fire Power, für einen Flächenangriff alle 45 Sekunden. Der [Leveling-Build für den Mage](/de/leveling/mage/) gibt ein Talent für jedes Level von 10 bis 35.
+[Talented-Version öffnen](/de/talents/mage/?t=-4550030103010301) mit Incineration 4/5, Critical Mass 3/3 und Fire Power 1/3. Mehr Burst gewünscht? Nimm <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> statt Fire Power, für einen Flächenangriff alle 45 Sekunden. Der [Leveling-Build für den Mage](/de/leveling/mage/) gibt ein Talent für jedes Level von 10 bis 35.
 
 ### Was die wichtigsten Talente tun
 
 | Talent | Was es in Forever tut |
 |---|---|
-| **Improved Fireball** | Fireball und Frostfire Bolt wirken bei 5/5 0,5 Sekunden schneller. Pflicht |
+| **Accelerant** | Fireball und Frostfire Bolt wirken bei 5/5 0,5 Sekunden schneller. Pflicht |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 6 % mehr kritische Trefferchance für Fire Blast und Scorch bei 3/3, auch für Arcane Blast und Ice Lance. Jeder Punkt bringt mehr Heating Up |
 | **Ignite** | Jeder kritische Feuertreffer lässt das Ziel für 40 % seines Schadens über 4 Sekunden brennen |
 | **Pyroblast** | Ein langer Zauber mit schwerem Schaden und einem Brand. Das Herz der Spezialisierung |
 | **Burning Soul** | 70 % Chance, bei Schaden weiterzuzaubern, und 30 % weniger Bedrohung durch Feuerzauber |
 | **Improved Scorch** | Jeder Scorch gibt einen Stapel: 3 % mehr Feuerschaden von dir pro Stapel, 15 % bei 5 Stapeln |
 | **Heating Up** | Bis zu 75 % schnellerer Pyroblast nach kritischen Treffern. Ohne das fällt die Spezialisierung auseinander |
-| **Critical Mass** | 10 % mehr kritische Trefferchance für Feuerzauber bei 5/5 |
+| **Critical Mass** | 6 % mehr kritische Trefferchance für Feuerzauber bei 3/3 |
 | **Fire Power** | Mehr Feuerschaden für jeden Feuereffekt auf dem Ziel, siehe unten |
-| **Elemental Precision** | 1 % mehr Trefferchance mit Feuer- und Frostzaubern pro Punkt. Nötig gegen Bosse |
+| **Precision** | 1 % mehr Trefferchance mit Feuer- und Frostzaubern pro Punkt. Nötig gegen Bosse |
 
 ## Rotation
 

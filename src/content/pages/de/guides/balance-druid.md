@@ -3,7 +3,7 @@ title: "Balance-Druid-Guide für WoW Forever"
 metaTitle: "WoW Forever Balance Druid: DoT- und Eclipse-Build, Rotation, Werte und Völker"
 description: "Der Balance Druid in WoW Forever: was sich ändert, zwei Builds für Level 30 mit Overgrowth oder Eclipse, die Rotation, Cooldowns, Mana und DoTs, Werte, Ausrüstung, Völker und Berufe."
 short: "Balance Druid"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: de
 manual: true
 faq:

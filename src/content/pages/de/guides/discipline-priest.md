@@ -3,7 +3,7 @@ title: "Discipline-Priest-Guide für WoW Forever"
 metaTitle: "WoW Forever Discipline Priest: 31/20/0-Build, Penance und Werte"
 description: "Der Discipline Priest in WoW Forever: der Build 31/20/0 für Level 60, Penance, Divine Aegis, Renewed Hope und Power Infusion, Tankheilung, Mana, Werte und Völker."
 short: "Discipline Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
@@ -56,7 +56,7 @@ Der Discipline Priest in WoW Forever schildet und heilt, mit Penance als neuer B
 
 ## Der Build für Level 60 (31/20/0)
 
-Dieser Build nutzt alle 51 Punkte von Level 60: 31 in Discipline bis Power Infusion und 20 in Holy für Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing und Binding Heal. [Öffne den Build im Talentrechner](/de/talents/priest/?t=005005031330011531-035050030301).
+Dieser Build nutzt alle 51 Punkte von Level 60: 31 in Discipline bis Power Infusion und 20 in Holy für Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing. [Öffne den Build im Talentrechner](/de/talents/priest/?t=005005031330011531-035050030301).
 
 | Talent | Punkte |
 |---|---|
@@ -76,7 +76,7 @@ Dieser Build nutzt alle 51 Punkte von Level 60: 31 in Discipline bis Power Infus
 | **Divine Fury** | 5/5 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 
 ![Der Discipline-Priest-Build 31/20/0 in unserem Talentrechner](../../../../assets/posts/2026-10-21-wow-forever-discipline-priest-build.jpg)
 
@@ -105,13 +105,13 @@ Ein Heiler hat keine feste Rotation. Du reagierst auf den eingehenden Schaden un
 - Renew auf einen Tank, der gleichmäßig Schaden nimmt.
 - Power Word: Shield auf den Tank vor einem großen Treffer, und auf dich gegen Zauberverzögerung.
 - Penance, um auf einmal viel Gesundheit zurückzugeben.
-- Flash Heal oder Binding Heal, wenn der Tank schnell Gesundheit braucht.
+- Flash Heal, wenn der Tank schnell Gesundheit braucht.
 - Greater Heal mit Inner Focus, wenn du weißt, dass ein großer Treffer kommt.
 
 **Die Gruppe heilen**
 - Renew auf so viele Ziele wie möglich, die gleichmäßig Schaden nehmen.
 - Schilde auf jeden, der gleich einen großen Treffer abbekommt. Ein Schild auf einem Zauberer schützt auch ihn vor Verzögerung.
-- Flash Heal oder Binding Heal, um Ziele nacheinander aufzufüllen.
+- Flash Heal, um Ziele nacheinander aufzufüllen.
 - Greater Heal mit Inner Focus für große Lücken.
 
 **Abklingzeiten und Nutzen**
