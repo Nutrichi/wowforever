@@ -1,7 +1,7 @@
 ---
 title: "Druid e Paladin cambiano gli alberi di talenti"
 description: "Hotfix prima del lancio spostano i talenti di Druid e Paladin, ne aggiungono di nuovi e modificano Mage, Hunter, Priest, Warlock e Warrior. Blizzard non li ha confermati nelle note."
-date: 2026-10-31T10:10:00+01:00
+date: 2026-10-31T00:53:00+01:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-18-wow-forever-dwarf-paladin-holy-light.jpg

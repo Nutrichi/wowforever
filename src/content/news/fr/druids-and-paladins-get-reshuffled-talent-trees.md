@@ -1,7 +1,7 @@
 ---
 title: "Les arbres des Druids et Paladins sont remaniés"
 description: "Des correctifs avant la sortie déplacent des talents des Druids et Paladins, en ajoutent de nouveaux et modifient Mages, Hunters, Priests, Warlocks et Warriors. Sans confirmation de Blizzard."
-date: 2026-10-31T10:10:00+01:00
+date: 2026-10-31T00:53:00+01:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-18-wow-forever-dwarf-paladin-holy-light.jpg

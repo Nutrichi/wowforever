@@ -1,7 +1,7 @@
 ---
 title: "Druids und Paladins bekommen neue Talentbäume"
 description: "Hotfixes vor dem Start verschieben Talente von Druids und Paladins, ergänzen neue und ändern Mages, Hunters, Priests, Warlocks und Warriors. Blizzard hat sie nicht in Notizen bestätigt."
-date: 2026-10-31T10:10:00+01:00
+date: 2026-10-31T00:53:00+01:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-18-wow-forever-dwarf-paladin-holy-light.jpg

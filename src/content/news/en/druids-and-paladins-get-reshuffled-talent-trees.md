@@ -1,7 +1,7 @@
 ---
 title: "Druids and Paladins get reshuffled talent trees"
 description: "Hotfixes before the launch move talents around for Druids and Paladins, add new talents, and change Mages, Hunters, Priests, Warlocks and Warriors. Blizzard has not confirmed them in notes."
-date: 2026-10-31T10:10:00+01:00
+date: 2026-10-31T00:53:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-18-wow-forever-dwarf-paladin-holy-light.jpg

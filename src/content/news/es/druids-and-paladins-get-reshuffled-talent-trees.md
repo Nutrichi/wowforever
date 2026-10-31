@@ -1,7 +1,7 @@
 ---
 title: "Druids y Paladins cambian sus árboles de talentos"
 description: "Correcciones antes del lanzamiento mueven talentos de Druids y Paladins, añaden otros nuevos y cambian a Mages, Hunters, Priests, Warlocks y Warriors. Blizzard no los ha confirmado en notas."
-date: 2026-10-31T10:10:00+01:00
+date: 2026-10-31T00:53:00+01:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-18-wow-forever-dwarf-paladin-holy-light.jpg
