@@ -1,7 +1,7 @@
 ---
 title: "Una pizarra del podcast apunta a una Hidden Blade"
 description: "La pizarra tras Aggrend en el episodio 6 del podcast lleva una línea en darnassiano. Los jugadores leen Hidden Blade y señalan a Onyxia y Quel'Serrar. Blizzard no lo ha explicado."
-date: 2026-10-31T11:00:00+01:00
+date: 2026-10-31T19:30:00+01:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-31-wow-forever-podcast-episode-6.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Un tableau du podcast évoque une Hidden Blade"
 description: "Le tableau derrière Aggrend dans l'épisode 6 du podcast porte une ligne en darnassien. Des joueurs y lisent Hidden Blade et évoquent Onyxia et Quel'Serrar. Blizzard ne l'a pas expliquée."
-date: 2026-10-31T11:00:00+01:00
+date: 2026-10-31T19:30:00+01:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-31-wow-forever-podcast-episode-6.jpg

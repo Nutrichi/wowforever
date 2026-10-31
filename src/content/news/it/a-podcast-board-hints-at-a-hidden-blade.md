@@ -1,7 +1,7 @@
 ---
 title: "Una lavagna del podcast allude a una Hidden Blade"
 description: "La lavagna dietro Aggrend nell'episodio 6 del podcast riporta una riga in darnassiano. I giocatori vi leggono Hidden Blade e citano Onyxia e Quel'Serrar. Blizzard non l'ha spiegata."
-date: 2026-10-31T11:00:00+01:00
+date: 2026-10-31T19:30:00+01:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-31-wow-forever-podcast-episode-6.jpg

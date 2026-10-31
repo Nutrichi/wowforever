@@ -1,7 +1,7 @@
 ---
 title: "Tafel im Podcast deutet auf eine Hidden Blade"
 description: "Die Tafel hinter Aggrend in Folge 6 des Podcasts trägt eine Zeile auf Darnassisch. Spieler lesen darin Hidden Blade und verweisen auf Onyxia und Quel'Serrar. Blizzard erklärte sie nicht."
-date: 2026-10-31T11:00:00+01:00
+date: 2026-10-31T19:30:00+01:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-31-wow-forever-podcast-episode-6.jpg

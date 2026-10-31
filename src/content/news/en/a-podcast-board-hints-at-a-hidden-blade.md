@@ -1,7 +1,7 @@
 ---
 title: "A podcast board hints at a Hidden Blade"
 description: "The board behind Aggrend in episode 6 of the podcast carries a Darnassian line. Players read Hidden Blade in it and point to Onyxia and Quel'Serrar. Blizzard has not explained it."
-date: 2026-10-31T11:00:00+01:00
+date: 2026-10-31T19:30:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-31-wow-forever-podcast-episode-6.jpg

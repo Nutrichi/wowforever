@@ -1,7 +1,7 @@
 ---
 title: "Bord in de podcast wijst op een Hidden Blade"
 description: "Het bord achter Aggrend in aflevering 6 van de podcast draagt een regel in het Darnassian. Spelers lezen er Hidden Blade in en wijzen naar Onyxia en Quel'Serrar. Blizzard legde het niet uit."
-date: 2026-10-31T11:00:00+01:00
+date: 2026-10-31T19:30:00+01:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-31-wow-forever-podcast-episode-6.jpg
