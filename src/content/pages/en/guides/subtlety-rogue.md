@@ -22,7 +22,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/subtlety-rogue/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
 
 The Subtlety Rogue in WoW Forever finally has two real PvE builds. One deals huge critical Ambushes, and the new talent Cutthroat lets you use Ambush in combat. The other builds on bleeds, with Hemorrhage, a stronger Rupture and the new Thousand Cuts. Poisons can now land critical strikes and scale with attack power too. This guide covers both builds for level 30 and 60, the rotations, Energy, poisons, survival, stats and races.
 
@@ -54,7 +54,7 @@ The Subtlety Rogue in WoW Forever finally has two real PvE builds. One deals hug
 At level 30 you have 21 points, and Talented adds 5. Both builds are explained in our [Rogue leveling guide](/guides/rogue-leveling/).
 
 - **Ambush:** kills monsters as fast as possible with critical Ambushes from Stealth. [Open the build](/talents/rogue/?t=02-02-032320331), [Talented version](/talents/rogue/?t=025-02-032320331).
-- **Bleed:** Garrote, Hemorrhage and Rupture, with Serrated Blades for a stronger Rupture and Preparation for an extra Slice and Dice. [Open the build](/talents/rogue/?t=--0323220310013001), [Talented version](/talents/rogue/?t=002--0323220310013211).
+- **Bleed:** Garrote, Hemorrhage and Rupture, with Serrated Blades for a stronger Rupture and Preparation for an extra Slice and Dice. [Open the build](/talents/rogue/?t=--3320002313210001), [Talented version](/talents/rogue/?t=002--3322002313210011).
 
 ## Level 60 Ambush build with Cutthroat: 10/11/30
 

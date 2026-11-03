@@ -46,4 +46,4 @@ Windfury Weapon y Windfury Totem muestran ahora el golpe extra con una animació
 
 ## Qué significa para nuestras guías
 
-Los árboles nuevos aún no están en los datos del juego. Nuestra [guía del Shaman Elemental](/es/guides/elemental-shaman/) y la [guía de subida de nivel del Shaman](/es/guides/shaman-leveling/) giran todavía alrededor de Lava Burst, y la [calculadora de talentos](/es/talents/shaman/) muestra aún los árboles antiguos. Las actualizamos en cuanto los árboles nuevos estén en el juego.
+Los árboles nuevos ya están en nuestra [calculadora de talentos](/es/talents/shaman/). Nuestra [guía del Shaman Elemental](/es/guides/elemental-shaman/) y la [guía de subida de nivel del Shaman](/es/guides/shaman-leveling/) giran todavía alrededor de Lava Burst. Las actualizamos muy pronto.

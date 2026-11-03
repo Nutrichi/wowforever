@@ -24,7 +24,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
 
 The Rogue was never the easiest class to level, but WoW Forever helps. Poisons can crit, single target damage is higher and each spec has its own identity. At level 30 you choose between Assassination, Combat and two kinds of Subtlety. This guide covers the four builds, the rotation, the key levels, the poison quests, weapons and professions.
 
@@ -144,7 +144,7 @@ With Talented: Malice 5/5 in Assassination. [Open the Talented version](/talents
 
 ## Level 30 Subtlety bleed build
 
-Builds on Garrote, Hemorrhage and Rupture, and on Serrated Blades, which makes Rupture hit harder. [Open the build in the talent calculator](/talents/rogue/?t=--0323220310013001).
+Builds on Garrote, Hemorrhage and Rupture, and on Serrated Blades, which makes Rupture hit harder. [Open the build in the talent calculator](/talents/rogue/?t=--3320002313210001).
 
 | Talent | Points |
 |---|---|
@@ -159,7 +159,7 @@ Builds on Garrote, Hemorrhage and Rupture, and on Serrated Blades, which makes R
 | **Serrated Blades** | 3/3 |
 | **Hemorrhage** | 1/1 |
 
-With Talented: Dirty Deeds 2/2, Preparation 1/1 and Malice 2/5 in Assassination. [Open the Talented version](/talents/rogue/?t=002--0323220310013211).
+With Talented: Dirty Deeds 2/2, Preparation 1/1 and Malice 2/5 in Assassination. [Open the Talented version](/talents/rogue/?t=002--3322002313210011).
 
 1. Open from Stealth with Garrote.
 2. Build Combo Points with Hemorrhage.

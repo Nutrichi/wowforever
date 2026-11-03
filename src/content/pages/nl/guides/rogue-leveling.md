@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
 
 De Rogue was nooit de makkelijkste class om te levelen, maar WoW Forever helpt. Poisons kunnen critten, de schade op één doel ligt hoger en elke spec heeft een eigen gezicht. Op level 30 kies je tussen Assassination, Combat en twee soorten Subtlety. Deze gids behandelt de vier builds, de rotatie, de belangrijke levels, de gifquests, wapens en tradeskills.
 
@@ -145,7 +145,7 @@ Met Talented: Malice 5/5 in Assassination. [Open de versie met Talented](/nl/tal
 
 ## Subtlety-build met bleeds voor level 30
 
-Bouwt op Garrote, Hemorrhage en Rupture, en op Serrated Blades, dat Rupture harder laat raken. [Open de build in de talentcalculator](/nl/talents/rogue/?t=--0323220310013001).
+Bouwt op Garrote, Hemorrhage en Rupture, en op Serrated Blades, dat Rupture harder laat raken. [Open de build in de talentcalculator](/nl/talents/rogue/?t=--3320002313210001).
 
 | Talent | Punten |
 |---|---|
@@ -160,7 +160,7 @@ Bouwt op Garrote, Hemorrhage en Rupture, en op Serrated Blades, dat Rupture hard
 | **Serrated Blades** | 3/3 |
 | **Hemorrhage** | 1/1 |
 
-Met Talented: Dirty Deeds 2/2, Preparation 1/1 en Malice 2/5 in Assassination. [Open de versie met Talented](/nl/talents/rogue/?t=002--0323220310013211).
+Met Talented: Dirty Deeds 2/2, Preparation 1/1 en Malice 2/5 in Assassination. [Open de versie met Talented](/nl/talents/rogue/?t=002--3322002313210011).
 
 1. Open vanuit Stealth met Garrote.
 2. Bouw Combo Points op met Hemorrhage.

@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
 
 De Restoration Shaman in WoW Forever heelt met een paar eenvoudige spells en vult de rest op met utility. Chain Heal is de grote groepsheal, Lesser Healing Wave redt een doelwit in nood, en je totems buffen de hele raid. Nieuw in Forever zijn Riptide, Water Shield en Mindfulness, die het oudste probleem van de spec aanpakken: mana. Deze gids behandelt de build voor level 30, de belangrijkste talenten, de healprioriteit, totems, mana, stats en races.
 

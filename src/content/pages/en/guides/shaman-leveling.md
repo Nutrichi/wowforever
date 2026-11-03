@@ -24,7 +24,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot: Lava Burst is removed, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+> **Update 3 November:** the development notes of 2 November change this class a lot: Lava Burst is removed, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
 
 The Shaman in WoW Forever is a welcome sight in every group: strong totem buffs, an instant Ghost Wolf with Improved Ghost Wolf, and three specs that each work. You can be a melee spellblade, a caster who throws lightning and lava, or a healer. This guide covers the early rotation, a level 30 build for each spec, the key levels, the totem quests, the Call of Air weapons, zones, gear, totems and mana.
 

@@ -66,4 +66,4 @@ Blizzard también corrigió Hemorrhage y Ghostly Strike, que pegaban demasiado f
 
 ## Qué significa para nuestras guías
 
-Los árboles nuevos aún no están en los datos del juego. Nuestra [calculadora de talentos](/es/talents/rogue/) y las guías de [Assassination](/es/guides/assassination-rogue/), [Combat](/es/guides/combat-rogue/), [Subtlety](/es/guides/subtlety-rogue/) y [subida de nivel del Rogue](/es/guides/rogue-leveling/) muestran todavía los árboles antiguos. Las actualizamos en cuanto los árboles nuevos estén en el juego.
+Los árboles nuevos ya están en nuestra [calculadora de talentos](/es/talents/rogue/). Las guías de [Assassination](/es/guides/assassination-rogue/), [Combat](/es/guides/combat-rogue/), [Subtlety](/es/guides/subtlety-rogue/) y [subida de nivel del Rogue](/es/guides/rogue-leveling/) aún no los siguen en todo. Las actualizamos muy pronto.

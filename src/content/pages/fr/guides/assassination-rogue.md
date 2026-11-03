@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Les nouveaux arbres ne sont pas encore dans les données du jeu, donc les builds et talents ci-dessous suivent encore l'ancien arbre. Nous mettons ce guide à jour dès que les nouveaux arbres seront dans le jeu.
+> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
 
 L’Assassination Rogue de WoW Forever est l’empoisonneur. Mutilate donne à la spé son propre générateur de points de combo avec des dagues, Venom est un nouveau coup de grâce qui renforce les poisons, et les poisons peuvent maintenant faire des critiques. Pas besoin d’astuces de Stealth ni de simples attaques automatiques pour faire des dégâts. Ce guide couvre deux builds niveau 30, la rotation, l’énergie, les poisons, la survie, les stats et les races.
 

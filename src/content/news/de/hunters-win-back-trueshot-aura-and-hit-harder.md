@@ -49,4 +49,4 @@ Trueshot Aura wirkt auf den ganzen Raid, also profitiert auch jeder Nahkämpfer 
 - Lacerating Strikes aus Survival ersetzt immer deinen eigenen älteren Effekt.
 - Begleiter behalten ihr angeborenes Angriffstempo, wenn du sie verlernen lässt.
 
-Die neuen Werte sind im Spiel, aber unser [Talentrechner](/de/talents/hunter/) zeigt Pathfinding noch in Reihe 2, bis der neue Baum in den Spieldaten ist. Builds stehen in den Guides zu [Marksmanship](/de/guides/marksmanship-hunter/), [Beast Mastery](/de/guides/beast-mastery-hunter/) und [Survival](/de/guides/survival-hunter/).
+Die neuen Werte sind im Spiel, und unser [Talentrechner](/de/talents/hunter/) zeigt Pathfinding jetzt in Reihe 3. Builds stehen in den Guides zu [Marksmanship](/de/guides/marksmanship-hunter/), [Beast Mastery](/de/guides/beast-mastery-hunter/) und [Survival](/de/guides/survival-hunter/).

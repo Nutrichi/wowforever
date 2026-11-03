@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/). Les nouveaux arbres ne sont pas encore dans les données du jeu, donc les builds et talents ci-dessous suivent encore l'ancien arbre. Nous mettons ce guide à jour dès que les nouveaux arbres seront dans le jeu.
+> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
 
 Le Fury Warrior de WoW Forever est le berserker : deux armes, des coups rapides et une barre de Rage qui se remplit à chaque coup critique. La rotation est rapide et réactive, et Cleave et Whirlwind font de Fury l’une des meilleures spés contre plusieurs ennemis. Ce guide couvre le build niveau 30, la rotation, la Rage, le stance dancing, les stats, les armes et les races.
 
@@ -57,7 +57,7 @@ Le Fury Warrior de WoW Forever est le berserker : deux armes, des coups rapides 
 
 ## Le build niveau 30
 
-Ce build utilise 26 points : les 21 points du niveau 30 plus 5 de Talented dans le système Legacy. Sans Talented, arrêtez-vous à 21 points ; le [build de leveling du Warrior](/fr/leveling/warrior/) donne l’ordre par niveau. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=-0505302505001).
+Ce build utilise 26 points : les 21 points du niveau 30 plus 5 de Talented dans le système Legacy. Sans Talented, arrêtez-vous à 21 points ; le [build de leveling du Warrior](/fr/leveling/warrior/) donne l’ordre par niveau. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=-0505302550001).
 
 | Talent | Points |
 |---|---|

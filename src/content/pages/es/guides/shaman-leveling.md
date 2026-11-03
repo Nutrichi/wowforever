@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
-> **Actualización del 3 de noviembre:** las notas de desarrollo del 2 de noviembre cambian mucho esta clase: Lava Burst desaparece, más en [nuestra noticia](/es/news/shamans-lose-lava-burst-before-the-launch/). Los árboles nuevos aún no están en los datos del juego, así que las builds y talentos de abajo siguen el árbol antiguo. Actualizamos esta guía en cuanto los árboles nuevos estén en el juego.
+> **Actualización del 3 de noviembre:** las notas de desarrollo del 2 de noviembre cambian mucho esta clase: Lava Burst desaparece, más en [nuestra noticia](/es/news/shamans-lose-lava-burst-before-the-launch/). Los árboles nuevos ya están en nuestra calculadora de talentos, pero las builds y talentos de abajo aún no los siguen en todo. Actualizamos esta guía muy pronto.
 
 El Shaman de WoW Forever es bienvenido en cualquier grupo: fuertes beneficios de tótems, un Ghost Wolf instantáneo con Improved Ghost Wolf y tres especializaciones que funcionan todas. Puedes ser un guerrero de hechizos cuerpo a cuerpo, un lanzador que arroja rayos y lava, o un sanador. Esta guía cubre la rotación inicial, una build de nivel 30 por especialización, los niveles clave, las misiones de tótems, las armas de Call of Air, las zonas, el equipo, los tótems y el maná.
 

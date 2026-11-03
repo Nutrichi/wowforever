@@ -24,7 +24,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot: Lava Burst is removed, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+> **Update 3 November:** the development notes of 2 November change this class a lot: Lava Burst is removed, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
 
 The Elemental Shaman in WoW Forever fights at range with lightning and lava. The spec starts slow, but once Lava Burst is in your build, the big critical hits and the extra Lightning Bolts from Lightning Overload stack up fast. Totems make you welcome in every group. This guide covers the level 30 build, the key talents, the rotation, totems, mana, stats and races.
 

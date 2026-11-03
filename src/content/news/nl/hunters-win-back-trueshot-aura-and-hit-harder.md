@@ -49,4 +49,4 @@ Trueshot Aura werkt voor de hele raid, dus elke melee en Hunter erin heeft er oo
 - Lacerating Strikes uit Survival vervangt altijd je eigen oudere effect.
 - Huisdieren houden hun eigen aanvalssnelheid als je ze afleert.
 
-De nieuwe waarden zitten in het spel, maar onze [talentcalculator](/nl/talents/hunter/) zet Pathfinding nog in rij 2 tot de nieuwe boom in de speldata zit. Builds staan in de gidsen voor [Marksmanship](/nl/guides/marksmanship-hunter/), [Beast Mastery](/nl/guides/beast-mastery-hunter/) en [Survival](/nl/guides/survival-hunter/).
+De nieuwe waarden zitten in het spel, en onze [talentcalculator](/nl/talents/hunter/) zet Pathfinding nu in rij 3. Builds staan in de gidsen voor [Marksmanship](/nl/guides/marksmanship-hunter/), [Beast Mastery](/nl/guides/beast-mastery-hunter/) en [Survival](/nl/guides/survival-hunter/).

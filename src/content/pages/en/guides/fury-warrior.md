@@ -22,7 +22,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
 
 The Fury Warrior in WoW Forever is the berserker: two weapons, fast swings and a Rage bar that fills with every critical strike. The rotation is quick and reactive, and Cleave and Whirlwind make Fury one of the best specs against several enemies. This guide covers the level 30 build, rotation, Rage, stance dancing, stats, weapons and races.
 
@@ -56,7 +56,7 @@ The Fury Warrior in WoW Forever is the berserker: two weapons, fast swings and a
 
 ## The level 30 build
 
-This build uses 26 points: the 21 points of level 30 plus 5 from Talented in the Legacy system. Without Talented, stop at 21 points; the [Warrior level build](/leveling/warrior/) gives the order per level. [Open the build in the talent calculator](/talents/warrior/?t=-0505302505001).
+This build uses 26 points: the 21 points of level 30 plus 5 from Talented in the Legacy system. Without Talented, stop at 21 points; the [Warrior level build](/leveling/warrior/) gives the order per level. [Open the build in the talent calculator](/talents/warrior/?t=-0505302550001).
 
 | Talent | Points |
 |---|---|

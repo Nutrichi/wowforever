@@ -66,4 +66,4 @@ Blizzard verhielp ook Hemorrhage en Ghostly Strike, die met een dolk veel te har
 
 ## Wat dit betekent voor onze gidsen
 
-De nieuwe bomen zitten nog niet in de speldata. Onze [talentcalculator](/nl/talents/rogue/) en de gidsen voor [Assassination](/nl/guides/assassination-rogue/), [Combat](/nl/guides/combat-rogue/), [Subtlety](/nl/guides/subtlety-rogue/) en [Rogue leveling](/nl/guides/rogue-leveling/) tonen nog de oude bomen. We werken ze bij zodra de nieuwe bomen in het spel zitten.
+De nieuwe bomen staan nu in onze [talentcalculator](/nl/talents/rogue/). De gidsen voor [Assassination](/nl/guides/assassination-rogue/), [Combat](/nl/guides/combat-rogue/), [Subtlety](/nl/guides/subtlety-rogue/) en [Rogue leveling](/nl/guides/rogue-leveling/) volgen ze nog niet overal. We werken ze binnenkort bij.

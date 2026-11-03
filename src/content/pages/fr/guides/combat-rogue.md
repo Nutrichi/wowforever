@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Les nouveaux arbres ne sont pas encore dans les données du jeu, donc les builds et talents ci-dessous suivent encore l'ancien arbre. Nous mettons ce guide à jour dès que les nouveaux arbres seront dans le jeu.
+> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
 
 Le Combat Rogue de WoW Forever inflige d'énormes dégâts en attaques automatiques et a une forte pointe de dégâts avec Blade Flurry et Adrenaline Rush. Forever réunit toutes les anciennes spécialisations d'arme en un seul talent, Hack and Slash, donc chaque type d'arme marche désormais. Les poisons peuvent faire des critiques et évoluent avec la puissance d'attaque, et Combat est la seule spécialisation de Rogue qui frappe plusieurs cibles. Ce guide couvre un build niveau 30, deux builds niveau 60, la rotation, l'Énergie, les poisons, les stats et les races.
 

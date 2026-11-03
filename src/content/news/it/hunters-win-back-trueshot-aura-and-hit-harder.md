@@ -49,4 +49,4 @@ Trueshot Aura vale per tutta l'incursione, quindi ogni giocatore in mischia e og
 - Lacerating Strikes di Survival sostituisce sempre il tuo effetto precedente.
 - I famigli mantengono la loro velocità d'attacco innata quando togli loro l'addestramento.
 
-I nuovi valori sono nel gioco, ma il nostro [calcolatore dei talenti](/it/talents/hunter/) mette ancora Pathfinding nella riga 2 finché il nuovo albero non sarà nei dati del gioco. Le build sono nelle guide per [Marksmanship](/it/guides/marksmanship-hunter/), [Beast Mastery](/it/guides/beast-mastery-hunter/) e [Survival](/it/guides/survival-hunter/).
+I nuovi valori sono nel gioco, e il nostro [calcolatore dei talenti](/it/talents/hunter/) mette ora Pathfinding nella riga 3. Le build sono nelle guide per [Marksmanship](/it/guides/marksmanship-hunter/), [Beast Mastery](/it/guides/beast-mastery-hunter/) e [Survival](/it/guides/survival-hunter/).

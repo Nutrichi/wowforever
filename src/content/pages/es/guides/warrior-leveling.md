@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
-> **Actualización del 3 de noviembre:** las notas de desarrollo del 2 de noviembre cambian mucho esta clase, más en [nuestra noticia](/es/news/blizzard-raises-class-damage-and-monster-health/). Los árboles nuevos aún no están en los datos del juego, así que las builds y talentos de abajo siguen el árbol antiguo. Actualizamos esta guía en cuanto los árboles nuevos estén en el juego.
+> **Actualización del 3 de noviembre:** las notas de desarrollo del 2 de noviembre cambian mucho esta clase, más en [nuestra noticia](/es/news/blizzard-raises-class-damage-and-monster-health/). Los árboles nuevos ya están en nuestra calculadora de talentos, pero las builds y talentos de abajo aún no los siguen en todo. Actualizamos esta guía muy pronto.
 
 El Warrior crece con cada nivel. Al principio pulsas sobre todo Heroic Strike y dejas que Rend haga efecto. Llegan más ataques instantáneos a medida que subes, y con los grandes talentos desde el nivel 40 notas de verdad lo que puede hacer la clase. En el nivel 30 eliges entre Arms, Fury y Protection, y las tres suben bien. Esta guía cubre los builds, la rotación, los niveles clave, las misiones de clase y cómo funcionan las actitudes y la Rage.
 
@@ -89,7 +89,7 @@ Estadísticas: el daño del arma cuenta más que el daño por segundo, luego Fue
 
 ## Build de Fury para el nivel 30
 
-Como Fury luchas con dos armas y aprovechas toda la Rage extra que eso da. Tus mejores ataques no llegan hasta después del nivel 30, así que hasta entonces la spec puede parecer algo floja. [Abre el build en la calculadora de talentos](/es/talents/warrior/?t=-0505302505001).
+Como Fury luchas con dos armas y aprovechas toda la Rage extra que eso da. Tus mejores ataques no llegan hasta después del nivel 30, así que hasta entonces la spec puede parecer algo floja. [Abre el build en la calculadora de talentos](/es/talents/warrior/?t=-0505302550001).
 
 | Talento | Puntos |
 |---|---|

@@ -24,7 +24,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
 
 The Assassination Rogue in WoW Forever is the poisoner. Mutilate gives the spec its own Combo Point generator with daggers, Venom is a new finishing move that makes poisons stronger, and poisons can now land critical strikes. You do not need Stealth tricks or pure auto attacks to deal damage. This guide covers two level 30 builds, the rotation, Energy, poisons, survival, stats and races.
 

@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/). Les nouveaux arbres ne sont pas encore dans les données du jeu, donc les builds et talents ci-dessous suivent encore l'ancien arbre. Nous mettons ce guide à jour dès que les nouveaux arbres seront dans le jeu.
+> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
 
 Le Warrior grandit à chaque niveau. Au début, vous appuyez surtout sur Heroic Strike et laissez Rend faire effet. D'autres attaques instantanées arrivent au fil des niveaux, et avec les grands talents dès le niveau 40, vous sentez vraiment ce que la classe sait faire. Au niveau 30, vous choisissez entre Arms, Fury et Protection, et les trois montent bien. Ce guide couvre les builds, la rotation, les niveaux clés, les quêtes de classe et le fonctionnement des postures et de la Rage.
 
@@ -89,7 +89,7 @@ Stats : les dégâts de l'arme comptent plus que les dégâts par seconde, puis 
 
 ## Build Fury niveau 30
 
-En Fury, vous combattez avec deux armes et utilisez toute la Rage en plus que ça donne. Vos meilleures attaques n'arrivent qu'après le niveau 30, la spé peut donc sembler un peu faible jusque-là. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=-0505302505001).
+En Fury, vous combattez avec deux armes et utilisez toute la Rage en plus que ça donne. Vos meilleures attaques n'arrivent qu'après le niveau 30, la spé peut donc sembler un peu faible jusque-là. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=-0505302550001).
 
 | Talent | Points |
 |---|---|

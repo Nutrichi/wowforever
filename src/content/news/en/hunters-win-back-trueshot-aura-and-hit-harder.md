@@ -48,4 +48,4 @@ Trueshot Aura works for the whole raid, so every melee and Hunter in it gains as
 - Lacerating Strikes from Survival always replaces your own older effect.
 - Pets keep their innate attack speed when you untrain them.
 
-The new values are in the game, but our [talent calculator](/talents/hunter/) still places Pathfinding in row 2 until the new tree is in the game data. Builds are in the [Marksmanship](/guides/marksmanship-hunter/), [Beast Mastery](/guides/beast-mastery-hunter/) and [Survival](/guides/survival-hunter/) guides.
+The new values are in the game, and our [talent calculator](/talents/hunter/) now places Pathfinding in row 3. Builds are in the [Marksmanship](/guides/marksmanship-hunter/), [Beast Mastery](/guides/beast-mastery-hunter/) and [Survival](/guides/survival-hunter/) guides.

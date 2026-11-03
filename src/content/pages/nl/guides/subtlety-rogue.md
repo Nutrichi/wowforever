@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/subtlety-rogue/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
 
 De Subtlety Rogue in WoW Forever heeft eindelijk twee echte PvE-builds. De ene deelt enorme kritieke Ambushes uit, en het nieuwe talent Cutthroat laat je Ambush in gevecht gebruiken. De andere bouwt op bleeds, met Hemorrhage, een sterkere Rupture en het nieuwe Thousand Cuts. Poisons kunnen nu ook critical strikes landen en schalen met attack power. Deze gids behandelt beide builds voor level 30 en 60, de rotaties, Energy, poisons, overleven, stats en races.
 
@@ -55,7 +55,7 @@ De Subtlety Rogue in WoW Forever heeft eindelijk twee echte PvE-builds. De ene d
 Op level 30 heb je 21 punten, en Talented voegt er 5 toe. Beide builds staan uitgelegd in onze [levelgids voor de Rogue](/nl/guides/rogue-leveling/).
 
 - **Ambush:** doodt monsters zo snel mogelijk met kritieke Ambushes vanuit Stealth. [Open de build](/nl/talents/rogue/?t=02-02-032320331), [Talented-versie](/nl/talents/rogue/?t=025-02-032320331).
-- **Bleed:** Garrote, Hemorrhage en Rupture, met Serrated Blades voor een sterkere Rupture en Preparation voor een extra Slice and Dice. [Open de build](/nl/talents/rogue/?t=--0323220310013001), [Talented-versie](/nl/talents/rogue/?t=002--0323220310013211).
+- **Bleed:** Garrote, Hemorrhage en Rupture, met Serrated Blades voor een sterkere Rupture en Preparation voor een extra Slice and Dice. [Open de build](/nl/talents/rogue/?t=--3320002313210001), [Talented-versie](/nl/talents/rogue/?t=002--3322002313210011).
 
 ## Ambush-build met Cutthroat voor level 60: 10/11/30
 

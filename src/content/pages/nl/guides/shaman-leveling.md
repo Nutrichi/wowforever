@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class: Lava Burst verdwijnt, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class: Lava Burst verdwijnt, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
 
 De Shaman in WoW Forever is welkom in elke groep: sterke totembuffs, een instant Ghost Wolf met Improved Ghost Wolf, en drie specs die elk werken. Je kunt een melee-spellblade zijn, een caster die bliksem en lava gooit, of een healer. Deze gids behandelt de rotatie in het begin, een build voor level 30 per spec, de belangrijke levels, de totemquests, de wapens van Call of Air, zones, gear, totems en mana.
 

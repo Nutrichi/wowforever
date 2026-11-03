@@ -22,7 +22,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
 
 The Combat Rogue in WoW Forever deals huge damage with auto attacks and has a strong burst with Blade Flurry and Adrenaline Rush. Forever folds all old weapon specializations into one talent, Hack and Slash, so every weapon type now works. Poisons can land critical strikes and scale with attack power, and Combat is the only Rogue spec that can cleave. This guide covers a level 30 build, two level 60 builds, the rotation, Energy, poisons, stats and races.
 

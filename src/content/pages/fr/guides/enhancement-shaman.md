@@ -27,7 +27,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/shamans-lose-lava-burst-before-the-launch/). Les nouveaux arbres ne sont pas encore dans les données du jeu, donc les builds et talents ci-dessous suivent encore l'ancien arbre. Nous mettons ce guide à jour dès que les nouveaux arbres seront dans le jeu.
+> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/shamans-lose-lava-burst-before-the-launch/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
 
 L'Enhancement Shaman de WoW Forever combat au corps à corps et y mêle des sorts. Une arme à deux mains lente avec Windfury Weapon porte les gros coups, tandis que Stormstrike et Maelstrom Weapon ajoutent Lightning Bolt à la rotation. Les totems vous rendent bienvenu dans chaque groupe. Ce guide couvre le build niveau 30, les talents clés, la rotation, les totems, le mana, le tanking, les stats et les races.
 

@@ -49,4 +49,4 @@ Trueshot Aura agit sur tout le raid, donc chaque joueur de mêlée et chaque Hun
 - Lacerating Strikes de Survival remplace toujours votre propre effet plus ancien.
 - Les familiers gardent leur vitesse d'attaque innée quand vous les faites désapprendre.
 
-Les nouvelles valeurs sont dans le jeu, mais notre [calculateur de talents](/fr/talents/hunter/) place encore Pathfinding à la rangée 2 tant que le nouvel arbre n'est pas dans les données du jeu. Les builds sont dans les guides [Marksmanship](/fr/guides/marksmanship-hunter/), [Beast Mastery](/fr/guides/beast-mastery-hunter/) et [Survival](/fr/guides/survival-hunter/).
+Les nouvelles valeurs sont dans le jeu, et notre [calculateur de talents](/fr/talents/hunter/) place maintenant Pathfinding à la rangée 3. Les builds sont dans les guides [Marksmanship](/fr/guides/marksmanship-hunter/), [Beast Mastery](/fr/guides/beast-mastery-hunter/) et [Survival](/fr/guides/survival-hunter/).

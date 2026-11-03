@@ -66,4 +66,4 @@ Blizzard hat außerdem Hemorrhage und Ghostly Strike korrigiert, die mit einem D
 
 ## Was das für unsere Guides bedeutet
 
-Die neuen Bäume sind noch nicht in den Spieldaten. Unser [Talentrechner](/de/talents/rogue/) und die Guides zu [Assassination](/de/guides/assassination-rogue/), [Combat](/de/guides/combat-rogue/), [Subtlety](/de/guides/subtlety-rogue/) und zum [Rogue-Leveling](/de/guides/rogue-leveling/) zeigen noch die alten Bäume. Wir aktualisieren sie, sobald die neuen Bäume im Spiel sind.
+Die neuen Bäume sind jetzt in unserem [Talentrechner](/de/talents/rogue/). Die Guides zu [Assassination](/de/guides/assassination-rogue/), [Combat](/de/guides/combat-rogue/), [Subtlety](/de/guides/subtlety-rogue/) und zum [Rogue-Leveling](/de/guides/rogue-leveling/) folgen ihnen noch nicht überall. Wir aktualisieren sie in Kürze.

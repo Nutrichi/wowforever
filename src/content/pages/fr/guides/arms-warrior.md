@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/). Les nouveaux arbres ne sont pas encore dans les données du jeu, donc les builds et talents ci-dessous suivent encore l'ancien arbre. Nous mettons ce guide à jour dès que les nouveaux arbres seront dans le jeu.
+> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
 
 L’Arms Warrior de WoW Forever manie une grande arme lente. Rend continue de saigner, Overpower s’allume encore et encore, et chaque coup arrache un morceau visible à l’ennemi. Beaucoup de ses talents penchent vers le PvP, ce qui fait d’Arms le choix naturel pour les champs de bataille. Ce guide couvre le build niveau 30, la rotation, Rend et Overpower, la Rage, les stats, les armes et les races.
 

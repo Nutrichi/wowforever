@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/subtlety-rogue/"
 ---
-> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Die neuen Bäume sind noch nicht in den Spieldaten, deshalb folgen Builds und Talente unten noch dem alten Baum. Wir aktualisieren diesen Guide, sobald die neuen Bäume im Spiel sind.
+> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Die neuen Bäume sind jetzt in unserem Talentrechner, aber Builds und Talente unten folgen ihnen noch nicht überall. Wir aktualisieren diesen Guide in Kürze.
 
 Der Subtlety Rogue in WoW Forever hat endlich zwei echte PvE-Builds. Der eine teilt riesige kritische Ambushes aus, und das neue Talent Cutthroat lässt dich Ambush im Kampf nutzen. Der andere setzt auf Blutungen, mit Hemorrhage, einem stärkeren Rupture und dem neuen Thousand Cuts. Gifte können jetzt auch kritisch treffen und skalieren mit Angriffskraft. Dieser Guide behandelt beide Builds für Level 30 und 60, die Rotationen, Energie, Gifte, Überleben, Werte und Völker.
 
@@ -55,7 +55,7 @@ Der Subtlety Rogue in WoW Forever hat endlich zwei echte PvE-Builds. Der eine te
 Auf Level 30 hast du 21 Punkte, und Talented gibt 5 dazu. Beide Builds stehen erklärt in unserem [Leveling-Guide für den Rogue](/de/guides/rogue-leveling/).
 
 - **Ambush:** tötet Monster so schnell wie möglich mit kritischen Ambushes aus Stealth. [Öffne den Build](/de/talents/rogue/?t=02-02-032320331), [Talented-Version](/de/talents/rogue/?t=025-02-032320331).
-- **Blutung:** Garrote, Hemorrhage und Rupture, mit Serrated Blades für ein stärkeres Rupture und Preparation für ein zusätzliches Slice and Dice. [Öffne den Build](/de/talents/rogue/?t=--0323220310013001), [Talented-Version](/de/talents/rogue/?t=002--0323220310013211).
+- **Blutung:** Garrote, Hemorrhage und Rupture, mit Serrated Blades für ein stärkeres Rupture und Preparation für ein zusätzliches Slice and Dice. [Öffne den Build](/de/talents/rogue/?t=--3320002313210001), [Talented-Version](/de/talents/rogue/?t=002--3322002313210011).
 
 ## Ambush-Build mit Cutthroat für Level 60: 10/11/30
 

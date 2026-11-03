@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
-> **Actualización del 3 de noviembre:** las notas de desarrollo del 2 de noviembre cambian mucho esta clase, más en [nuestra noticia](/es/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Los árboles nuevos aún no están en los datos del juego, así que las builds y talentos de abajo siguen el árbol antiguo. Actualizamos esta guía en cuanto los árboles nuevos estén en el juego.
+> **Actualización del 3 de noviembre:** las notas de desarrollo del 2 de noviembre cambian mucho esta clase, más en [nuestra noticia](/es/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Los árboles nuevos ya están en nuestra calculadora de talentos, pero las builds y talentos de abajo aún no los siguen en todo. Actualizamos esta guía muy pronto.
 
 El Rogue nunca fue la clase más fácil de subir, pero WoW Forever ayuda. Los Poisons pueden ser críticos, el daño a un objetivo es mayor y cada spec tiene su propia identidad. En el nivel 30 eliges entre Assassination, Combat y dos estilos de Subtlety. Esta guía cubre las cuatro builds, la rotación, los niveles clave, las misiones de venenos, las armas y las profesiones.
 
@@ -145,7 +145,7 @@ Con Talented: Malice 5/5 en Assassination. [Abrir la versión con Talented](/es/
 
 ## Build de Subtlety con sangrados para el nivel 30
 
-Se basa en Garrote, Hemorrhage y Rupture, y en Serrated Blades, que hace que Rupture golpee más fuerte. [Abrir la build en la calculadora de talentos](/es/talents/rogue/?t=--0323220310013001).
+Se basa en Garrote, Hemorrhage y Rupture, y en Serrated Blades, que hace que Rupture golpee más fuerte. [Abrir la build en la calculadora de talentos](/es/talents/rogue/?t=--3320002313210001).
 
 | Talento | Puntos |
 |---|---|
@@ -160,7 +160,7 @@ Se basa en Garrote, Hemorrhage y Rupture, y en Serrated Blades, que hace que Rup
 | **Serrated Blades** | 3/3 |
 | **Hemorrhage** | 1/1 |
 
-Con Talented: Dirty Deeds 2/2, Preparation 1/1 y Malice 2/5 en Assassination. [Abrir la versión con Talented](/es/talents/rogue/?t=002--0323220310013211).
+Con Talented: Dirty Deeds 2/2, Preparation 1/1 y Malice 2/5 en Assassination. [Abrir la versión con Talented](/es/talents/rogue/?t=002--3322002313210011).
 
 1. Abre desde Stealth con Garrote.
 2. Genera Combo Points con Hemorrhage.

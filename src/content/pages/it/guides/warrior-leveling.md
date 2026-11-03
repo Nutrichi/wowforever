@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
-> **Aggiornamento del 3 novembre:** le note di sviluppo del 2 novembre cambiano molto questa classe, di più nel [nostro articolo](/it/news/blizzard-raises-class-damage-and-monster-health/). I nuovi alberi non sono ancora nei dati del gioco, quindi le build e i talenti qui sotto seguono ancora il vecchio albero. Aggiorniamo questa guida appena i nuovi alberi saranno nel gioco.
+> **Aggiornamento del 3 novembre:** le note di sviluppo del 2 novembre cambiano molto questa classe, di più nel [nostro articolo](/it/news/blizzard-raises-class-damage-and-monster-health/). I nuovi alberi sono ora nel nostro calcolatore dei talenti, ma le build e i talenti qui sotto non li seguono ancora ovunque. Aggiorneremo questa guida a breve.
 
 Il Warrior cresce a ogni livello. All'inizio premi soprattutto Heroic Strike e lasci agire Rend. Altri attacchi istantanei arrivano salendo di livello, e con i grandi talenti dal livello 40 senti davvero cosa sa fare la classe. Al livello 30 scegli tra Arms, Fury e Protection, e tutte e tre livellano bene. Questa guida copre le build, la rotazione, i livelli chiave, le missioni di classe e come funzionano stance e Rage.
 
@@ -89,7 +89,7 @@ Statistiche: i danni dell'arma contano più dei danni al secondo, poi Forza e po
 
 ## Build Fury di livello 30
 
-Come Fury combatti con due armi e sfrutti tutta la Rage in più che ne deriva. I tuoi attacchi migliori arrivano solo dopo il livello 30, quindi fino ad allora la spec può sembrare un po' debole. [Apri la build nel calcolatore dei talenti](/it/talents/warrior/?t=-0505302505001).
+Come Fury combatti con due armi e sfrutti tutta la Rage in più che ne deriva. I tuoi attacchi migliori arrivano solo dopo il livello 30, quindi fino ad allora la spec può sembrare un po' debole. [Apri la build nel calcolatore dei talenti](/it/talents/warrior/?t=-0505302550001).
 
 | Talento | Punti |
 |---|---|

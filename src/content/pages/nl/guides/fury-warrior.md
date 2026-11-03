@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
 
 De Fury Warrior in WoW Forever is de berserker: twee wapens, snelle slagen en een Rage-balk die vol loopt met elke critical strike. De rotatie is snel en reactief, en Cleave en Whirlwind maken Fury een van de beste specs tegen meerdere vijanden. Deze gids behandelt de build voor level 30, de rotatie, Rage, stance dancing, stats, wapens en races.
 
@@ -57,7 +57,7 @@ De Fury Warrior in WoW Forever is de berserker: twee wapens, snelle slagen en ee
 
 ## De build voor level 30
 
-Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van Talented uit het Legacy-systeem. Zonder Talented stop je bij 21 punten; de [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft de volgorde per level. [Open de build in de talentcalculator](/nl/talents/warrior/?t=-0505302505001).
+Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van Talented uit het Legacy-systeem. Zonder Talented stop je bij 21 punten; de [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft de volgorde per level. [Open de build in de talentcalculator](/nl/talents/warrior/?t=-0505302550001).
 
 | Talent | Punten |
 |---|---|

@@ -22,7 +22,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
 
 The Warrior grows with every level. At the start you mostly press Heroic Strike and keep Rend ticking. More instant attacks follow as you level, and with the big talents from level 40 you really feel what the class can do. At level 30 you choose between Arms, Fury and Protection, and all three level well. This guide covers the builds, the rotation, the key levels, the class quests and how stances and Rage work.
 
@@ -88,7 +88,7 @@ Stats: weapon damage matters more than damage per second, then Strength and atta
 
 ## Level 30 Fury build
 
-As Fury you fight with two weapons and use all the extra Rage that gives. Your best attacks only come after level 30, so the spec can feel a little weak until then. [Open the build in the talent calculator](/talents/warrior/?t=-0505302505001).
+As Fury you fight with two weapons and use all the extra Rage that gives. Your best attacks only come after level 30, so the spec can feel a little weak until then. [Open the build in the talent calculator](/talents/warrior/?t=-0505302550001).
 
 | Talent | Points |
 |---|---|

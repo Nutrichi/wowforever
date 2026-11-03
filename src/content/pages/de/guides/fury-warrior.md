@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
-> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/blizzard-raises-class-damage-and-monster-health/). Die neuen Bäume sind noch nicht in den Spieldaten, deshalb folgen Builds und Talente unten noch dem alten Baum. Wir aktualisieren diesen Guide, sobald die neuen Bäume im Spiel sind.
+> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/blizzard-raises-class-damage-and-monster-health/). Die neuen Bäume sind jetzt in unserem Talentrechner, aber Builds und Talente unten folgen ihnen noch nicht überall. Wir aktualisieren diesen Guide in Kürze.
 
 Der Fury Warrior in WoW Forever ist der Berserker: zwei Waffen, schnelle Schläge und eine Rage-Leiste, die sich mit jedem kritischen Treffer füllt. Die Rotation ist schnell und reaktiv, und Cleave und Whirlwind machen Fury zu einer der besten Spezialisierungen gegen mehrere Gegner. Dieser Guide behandelt den Build für Level 30, die Rotation, Rage, Stance Dancing, Werte, Waffen und Völker.
 
@@ -57,7 +57,7 @@ Der Fury Warrior in WoW Forever ist der Berserker: zwei Waffen, schnelle Schläg
 
 ## Der Build für Level 30
 
-Dieser Build nutzt 26 Punkte: die 21 Punkte von Level 30 plus 5 von Talented aus dem Legacy-System. Ohne Talented hörst du bei 21 Punkten auf; der [Level-Build für den Warrior](/de/leveling/warrior/) gibt die Reihenfolge pro Level. [Öffne den Build im Talentrechner](/de/talents/warrior/?t=-0505302505001).
+Dieser Build nutzt 26 Punkte: die 21 Punkte von Level 30 plus 5 von Talented aus dem Legacy-System. Ohne Talented hörst du bei 21 Punkten auf; der [Level-Build für den Warrior](/de/leveling/warrior/) gibt die Reihenfolge pro Level. [Öffne den Build im Talentrechner](/de/talents/warrior/?t=-0505302550001).
 
 | Talent | Punkte |
 |---|---|

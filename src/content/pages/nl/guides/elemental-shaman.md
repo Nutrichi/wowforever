@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class: Lava Burst verdwijnt, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class: Lava Burst verdwijnt, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
 
 De Elemental Shaman in WoW Forever vecht op afstand met bliksem en lava. De spec begint traag, maar zodra Lava Burst in je build zit, stapelen de grote critical hits en de extra Lightning Bolts van Lightning Overload zich snel op. Met je totems ben je in elke groep welkom. Deze gids gaat over de build voor level 30, de belangrijkste talenten, de rotatie, totems, mana, stats en races.
 

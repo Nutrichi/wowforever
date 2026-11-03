@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
 ---
-> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/). Die neuen Bäume sind noch nicht in den Spieldaten, deshalb folgen Builds und Talente unten noch dem alten Baum. Wir aktualisieren diesen Guide, sobald die neuen Bäume im Spiel sind.
+> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/). Die neuen Bäume sind jetzt in unserem Talentrechner, aber Builds und Talente unten folgen ihnen noch nicht überall. Wir aktualisieren diesen Guide in Kürze.
 
 Der Restoration Shaman in WoW Forever heilt mit wenigen einfachen Zaubern und füllt den Rest mit Nutzen. Chain Heal ist die große Gruppenheilung, Lesser Healing Wave rettet ein Ziel in Not, und deine Totems stärken den ganzen Raid. Neu in Forever sind Riptide, Water Shield und Mindfulness, die das älteste Problem der Spec angehen: Mana. Dieser Guide behandelt den Build für Level 30, die wichtigsten Talente, die Heilpriorität, Totems, Mana, Werte und Völker.
 

@@ -49,4 +49,4 @@ Trueshot Aura funciona para toda la banda, así que cada cuerpo a cuerpo y cada 
 - Lacerating Strikes de Survival siempre sustituye tu propio efecto anterior.
 - Las mascotas conservan su velocidad de ataque innata cuando les quitas el entrenamiento.
 
-Los valores nuevos ya están en el juego, pero nuestra [calculadora de talentos](/es/talents/hunter/) aún pone Pathfinding en la fila 2 hasta que el árbol nuevo esté en los datos del juego. Las builds están en las guías de [Marksmanship](/es/guides/marksmanship-hunter/), [Beast Mastery](/es/guides/beast-mastery-hunter/) y [Survival](/es/guides/survival-hunter/).
+Los valores nuevos ya están en el juego, y nuestra [calculadora de talentos](/es/talents/hunter/) ya pone Pathfinding en la fila 3. Las builds están en las guías de [Marksmanship](/es/guides/marksmanship-hunter/), [Beast Mastery](/es/guides/beast-mastery-hunter/) y [Survival](/es/guides/survival-hunter/).
