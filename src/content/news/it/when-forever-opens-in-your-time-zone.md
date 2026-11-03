@@ -1,7 +1,7 @@
 ---
 title: "A che ora apre Forever nel tuo fuso orario"
 description: "World of Warcraft: Forever apre in tutto il mondo nello stesso momento: alle 15:00 ora del Pacifico del 4 novembre, alle 00:00 in Italia. Gli orari per regione e cosa c'è nel gioco al lancio."
-date: 2026-11-03T18:45:00+01:00
+date: 2026-11-03T19:14:00+01:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-23-wow-forever-login-screen.jpg

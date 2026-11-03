@@ -1,7 +1,7 @@
 ---
 title: "Hoe laat Forever opent in jouw tijdzone"
 description: "World of Warcraft: Forever opent overal tegelijk: om 15.00 uur Pacific-tijd op 4 november, om 00.00 uur in België. De uren per regio, en wat er bij de launch in het spel zit."
-date: 2026-11-03T18:45:00+01:00
+date: 2026-11-03T19:14:00+01:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-23-wow-forever-login-screen.jpg

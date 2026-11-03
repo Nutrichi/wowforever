@@ -1,7 +1,7 @@
 ---
 title: "L'heure d'ouverture de Forever chez vous"
 description: "World of Warcraft: Forever ouvre partout en même temps : à 15 h heure du Pacifique le 4 novembre, à 00 h en Belgique. Les horaires par région, et ce que contient le jeu au lancement."
-date: 2026-11-03T18:45:00+01:00
+date: 2026-11-03T19:14:00+01:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-23-wow-forever-login-screen.jpg

@@ -1,7 +1,7 @@
 ---
 title: "When Forever opens in your time zone"
 description: "World of Warcraft: Forever opens worldwide at the same moment: 15:00 Pacific time on 4 November, 00:00 in Belgium. The times for every region, and what is in the game at the launch."
-date: 2026-11-03T18:45:00+01:00
+date: 2026-11-03T19:14:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-23-wow-forever-login-screen.jpg

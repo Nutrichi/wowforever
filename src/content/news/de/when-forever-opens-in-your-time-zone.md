@@ -1,7 +1,7 @@
 ---
 title: "Wann Forever in deiner Zeitzone startet"
 description: "World of Warcraft: Forever startet weltweit gleichzeitig: um 15:00 Uhr Pazifikzeit am 4. November, um 00:00 Uhr in Deutschland. Die Zeiten pro Region und was zum Launch im Spiel ist."
-date: 2026-11-03T18:45:00+01:00
+date: 2026-11-03T19:14:00+01:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-23-wow-forever-login-screen.jpg
