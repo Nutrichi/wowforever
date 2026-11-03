@@ -3,7 +3,7 @@ title: "Guida al leveling dello Shaman in WoW Forever"
 metaTitle: "WoW Forever leveling Shaman: Enhancement, Elemental e Resto"
 description: "Livellare uno Shaman in WoW Forever: build di livello 30 per Enhancement, Elemental e Restoration, livelli chiave, missioni dei totem, armi di Call of Air e zone."
 short: "Leveling Shaman"
-updated: 2026-10-31
+updated: 2026-11-03
 lang: it
 manual: true
 faq:
@@ -25,6 +25,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
+> **Aggiornamento del 3 novembre:** le note di sviluppo del 2 novembre cambiano molto questa classe: Lava Burst è rimosso, di più nel [nostro articolo](/it/news/shamans-lose-lava-burst-before-the-launch/). I nuovi alberi non sono ancora nei dati del gioco, quindi le build e i talenti qui sotto seguono ancora il vecchio albero. Aggiorniamo questa guida appena i nuovi alberi saranno nel gioco.
+
 Lo Shaman di WoW Forever è benvenuto in ogni gruppo: forti benefici dai totem, un Ghost Wolf istantaneo con Improved Ghost Wolf e tre specializzazioni che funzionano tutte. Puoi essere una lama magica in mischia, un incantatore che lancia fulmini e lava, o un guaritore. Questa guida copre la rotazione iniziale, una build di livello 30 per specializzazione, i livelli chiave, le missioni dei totem, le armi di Call of Air, le zone, l'equipaggiamento, i totem e il mana.
 
 | | |

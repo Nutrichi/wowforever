@@ -3,7 +3,7 @@ title: "Livellare un Warrior in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Warrior in WoW Forever: build Arms, Fury e Protection fino al 30"
 description: "Come livellare un Warrior in WoW Forever: la prima build, tre build di livello 30 per Arms, Fury e Protection, la rotazione, i livelli chiave, le missioni di classe per ogni stance, armi, stance e Rage."
 short: "Leveling del Warrior"
-updated: 2026-10-21
+updated: 2026-11-03
 lang: it
 manual: true
 faq:
@@ -23,6 +23,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
+> **Aggiornamento del 3 novembre:** le note di sviluppo del 2 novembre cambiano molto questa classe, di più nel [nostro articolo](/it/news/blizzard-raises-class-damage-and-monster-health/). I nuovi alberi non sono ancora nei dati del gioco, quindi le build e i talenti qui sotto seguono ancora il vecchio albero. Aggiorniamo questa guida appena i nuovi alberi saranno nel gioco.
+
 Il Warrior cresce a ogni livello. All'inizio premi soprattutto Heroic Strike e lasci agire Rend. Altri attacchi istantanei arrivano salendo di livello, e con i grandi talenti dal livello 40 senti davvero cosa sa fare la classe. Al livello 30 scegli tra Arms, Fury e Protection, e tutte e tre livellano bene. Questa guida copre le build, la rotazione, i livelli chiave, le missioni di classe e come funzionano stance e Rage.
 
 | | |

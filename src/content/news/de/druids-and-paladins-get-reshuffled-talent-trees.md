@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update vom 3. November:** Blizzard bestätigt diese Änderungen in den Entwicklungsnotizen vom 2. November. Mehr in [unserem Beitrag zu den Notizen](/de/news/blizzard-raises-class-damage-and-monster-health/).
+
 Druids und Paladins haben Tage vor dem Start von World of Warcraft: Forever eine neue Talentanordnung. Talente sind umgezogen, und neue wie Lacerate und Bloom kamen hinzu. Auch Mages ändern sich stark. Die Hotfixes sind aktiv, Entwicklungsnotizen bestätigen sie aber nicht.
 
 ## Druid

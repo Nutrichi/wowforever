@@ -3,7 +3,7 @@ title: "Subtlety Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush- en bleedbuilds tot 60"
 description: "De Subtlety Rogue in WoW Forever: een Ambush-build met Cutthroat en een bleedbuild met Hemorrhage en Thousand Cuts, voor level 30 en level 60, met rotaties, Energy, poisons en races."
 short: "Subtlety Rogue"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: nl
 manual: true
 faq:
@@ -23,6 +23,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/subtlety-rogue/"
 ---
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+
 De Subtlety Rogue in WoW Forever heeft eindelijk twee echte PvE-builds. De ene deelt enorme kritieke Ambushes uit, en het nieuwe talent Cutthroat laat je Ambush in gevecht gebruiken. De andere bouwt op bleeds, met Hemorrhage, een sterkere Rupture en het nieuwe Thousand Cuts. Poisons kunnen nu ook critical strikes landen en schalen met attack power. Deze gids behandelt beide builds voor level 30 en 60, de rotaties, Energy, poisons, overleven, stats en races.
 
 | | |

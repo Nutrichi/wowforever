@@ -3,7 +3,7 @@ title: "Enhancement Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "The Enhancement Shaman in WoW Forever: the level 30 build and its Talented version, Stormstrike and Maelstrom Weapon, the rotation, totems, mana, tanking, stats and races."
 short: "Enhancement Shaman"
-updated: 2026-10-31
+updated: 2026-11-03
 lang: en
 faq:
   - q: "Is Enhancement Shaman good in WoW Forever?"
@@ -26,6 +26,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+
 The Enhancement Shaman in WoW Forever fights in melee and mixes in spells. A slow two-handed weapon with Windfury Weapon delivers the big hits, while Stormstrike and Maelstrom Weapon add Lightning Bolt to the rotation. Totems make you welcome in every group. This guide covers the level 30 build, the key talents, the rotation, totems, mana, tanking, stats and races.
 
 | | |

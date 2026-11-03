@@ -12,6 +12,8 @@ tags: ["forever", "classes"]
 featured: false
 draft: false
 ---
+> **Update 3 November:** Blizzard confirms these changes in the development notes of 2 November. More in [our post about the notes](/news/blizzard-raises-class-damage-and-monster-health/).
+
 Druids and Paladins have new talent layouts days before the launch of World of Warcraft: Forever. Talents moved, and new ones such as Lacerate and Bloom appeared. Mages also see many changes. The hotfixes are live, but development notes do not confirm them.
 
 ## Druid

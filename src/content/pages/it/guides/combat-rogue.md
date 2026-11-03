@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: la guida"
 metaTitle: "WoW Forever Combat Rogue: build Hack and Slash fino al 60"
 description: "Il Combat Rogue in WoW Forever: Hack and Slash per ogni tipo d'arma, una build di livello 30 e due di livello 60 (standard e pugnali), Blade Flurry, Adrenaline Rush, energia, veleni e razze."
 short: "Combat Rogue"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: it
 manual: true
 faq:
@@ -23,6 +23,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
 ---
+> **Aggiornamento del 3 novembre:** le note di sviluppo del 2 novembre cambiano molto questa classe, di più nel [nostro articolo](/it/news/rogues-get-shank-and-death-mark-in-a-big-rework/). I nuovi alberi non sono ancora nei dati del gioco, quindi le build e i talenti qui sotto seguono ancora il vecchio albero. Aggiorniamo questa guida appena i nuovi alberi saranno nel gioco.
+
 Il Combat Rogue di WoW Forever infligge danni enormi con gli attacchi automatici e ha un forte picco di danni con Blade Flurry e Adrenaline Rush. Forever riunisce tutte le vecchie specializzazioni d'arma in un solo talento, Hack and Slash, quindi ora va bene ogni tipo d'arma. I veleni possono fare critici e scalano con il potere d'attacco, e Combat è l'unica specializzazione del Rogue che colpisce più bersagli. Questa guida copre una build di livello 30, due di livello 60, la rotazione, l'energia, i veleni, le stats e le razze.
 
 | | |

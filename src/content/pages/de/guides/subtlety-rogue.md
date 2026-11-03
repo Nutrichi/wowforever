@@ -3,7 +3,7 @@ title: "Subtlety Rogue in WoW Forever: der Guide"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush- und Blutungsbuilds bis 60"
 description: "Der Subtlety Rogue in WoW Forever: ein Ambush-Build mit Cutthroat und ein Blutungsbuild mit Hemorrhage und Thousand Cuts, für Level 30 und Level 60, mit Rotationen, Energie, Giften und Völkern."
 short: "Subtlety Rogue"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: de
 manual: true
 faq:
@@ -23,6 +23,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/subtlety-rogue/"
 ---
+> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Die neuen Bäume sind noch nicht in den Spieldaten, deshalb folgen Builds und Talente unten noch dem alten Baum. Wir aktualisieren diesen Guide, sobald die neuen Bäume im Spiel sind.
+
 Der Subtlety Rogue in WoW Forever hat endlich zwei echte PvE-Builds. Der eine teilt riesige kritische Ambushes aus, und das neue Talent Cutthroat lässt dich Ambush im Kampf nutzen. Der andere setzt auf Blutungen, mit Hemorrhage, einem stärkeren Rupture und dem neuen Thousand Cuts. Gifte können jetzt auch kritisch treffen und skalieren mit Angriffskraft. Dieser Guide behandelt beide Builds für Level 30 und 60, die Rotationen, Energie, Gifte, Überleben, Werte und Völker.
 
 | | |

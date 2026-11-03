@@ -3,7 +3,7 @@ title: "Gids voor de Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "De Enhancement Shaman in WoW Forever: de build voor level 30 en de Talented-versie, Stormstrike en Maelstrom Weapon, de rotatie, totems, mana, tanken, stats en races."
 short: "Enhancement Shaman"
-updated: 2026-10-31
+updated: 2026-11-03
 lang: nl
 manual: true
 faq:
@@ -27,6 +27,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+
 De Enhancement Shaman in WoW Forever vecht in melee en mengt er spells door. Een traag tweehandig wapen met Windfury Weapon levert de grote klappen, terwijl Stormstrike en Maelstrom Weapon Lightning Bolt aan de rotatie toevoegen. Totems maken je welkom in elke groep. Deze gids behandelt de build voor level 30, de belangrijkste talenten, de rotatie, totems, mana, tanken, stats en races.
 
 | | |

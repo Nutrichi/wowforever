@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash-builds tot level 60"
 description: "De Combat Rogue in WoW Forever: Hack and Slash voor elk wapentype, een build voor level 30 en twee voor level 60 (standaard en dolken), Blade Flurry, Adrenaline Rush, Energy, poisons en races."
 short: "Combat Rogue"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: nl
 manual: true
 faq:
@@ -23,6 +23,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
 ---
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+
 De Combat Rogue in WoW Forever doet enorme schade met auto attacks en heeft een sterke uithaal met Blade Flurry en Adrenaline Rush. Forever bundelt alle oude wapenspecialisaties in één talent, Hack and Slash, dus elk wapentype werkt nu. Poisons kunnen critical strikes landen en schalen met attack power, en Combat is de enige Rogue-spec die kan cleaven. Deze gids behandelt een build voor level 30, twee voor level 60, de rotatie, Energy, poisons, stats en races.
 
 | | |

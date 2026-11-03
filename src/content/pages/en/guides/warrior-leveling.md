@@ -3,7 +3,7 @@ title: "Warrior leveling guide for WoW Forever"
 metaTitle: "WoW Forever Warrior leveling guide: Arms, Fury and Protection builds to 30"
 description: "How to level a Warrior in WoW Forever: the early build, three level 30 builds for Arms, Fury and Protection, the rotation, key levels, the class quests for every stance, weapons, stances and Rage."
 short: "Warrior leveling"
-updated: 2026-10-21
+updated: 2026-11-03
 lang: en
 faq:
   - q: "What is the best spec to level a Warrior in WoW Forever?"
@@ -22,6 +22,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+
 The Warrior grows with every level. At the start you mostly press Heroic Strike and keep Rend ticking. More instant attacks follow as you level, and with the big talents from level 40 you really feel what the class can do. At level 30 you choose between Arms, Fury and Protection, and all three level well. This guide covers the builds, the rotation, the key levels, the class quests and how stances and Rage work.
 
 | | |

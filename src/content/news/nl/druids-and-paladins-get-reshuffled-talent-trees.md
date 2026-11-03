@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 3 november:** Blizzard bevestigt deze wijzigingen in de ontwikkelnotities van 2 november. Meer in [onze post over de notities](/nl/news/blizzard-raises-class-damage-and-monster-health/).
+
 Druids en Paladins hebben dagen voor de launch van World of Warcraft: Forever een andere indeling van hun talenten. Talenten verhuisden, en nieuwe zoals Lacerate en Bloom kwamen erbij. Ook Mages veranderen flink. De hotfixes zijn live, maar ontwikkelingsnotities bevestigen ze niet.
 
 ## Druid

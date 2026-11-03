@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Actualización del 3 de noviembre:** Blizzard confirma estos cambios en las notas de desarrollo del 2 de noviembre. Más en [nuestra noticia sobre las notas](/es/news/blizzard-raises-class-damage-and-monster-health/).
+
 Druids y Paladins tienen una nueva disposición de talentos a días del lanzamiento de World of Warcraft: Forever. Hay talentos movidos y otros nuevos, como Lacerate y Bloom. Los Mages también cambian mucho. Las correcciones ya están activas, pero las notas de desarrollo no las confirman.
 
 ## Druid

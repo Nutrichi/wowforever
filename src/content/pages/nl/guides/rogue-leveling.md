@@ -3,7 +3,7 @@ title: "Rogue levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Rogue levelgids: builds voor Assassination, Combat en Subtlety tot 30"
 description: "Zo level je een Rogue in WoW Forever: vier builds voor level 30 voor Assassination, Combat en twee soorten Subtlety, de rotatie, de belangrijke levels, de gifquests, wapens, tradeskills en consumables."
 short: "Rogue levelen"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: nl
 manual: true
 faq:
@@ -25,6 +25,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+
 De Rogue was nooit de makkelijkste class om te levelen, maar WoW Forever helpt. Poisons kunnen critten, de schade op één doel ligt hoger en elke spec heeft een eigen gezicht. Op level 30 kies je tussen Assassination, Combat en twee soorten Subtlety. Deze gids behandelt de vier builds, de rotatie, de belangrijke levels, de gifquests, wapens en tradeskills.
 
 | | |

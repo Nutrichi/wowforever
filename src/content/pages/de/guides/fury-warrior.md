@@ -3,7 +3,7 @@ title: "Fury-Warrior-Guide für WoW Forever"
 metaTitle: "WoW Forever Fury Warrior: Build für Level 30, Rotation und Rage"
 description: "Der Fury Warrior in WoW Forever: der Build für Level 30 mit Cruelty, Unbridled Wrath und Death Wish, die Rotation, Rage, Stance Dancing, Werte, Waffen und Völker."
 short: "Fury Warrior"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: de
 manual: true
 faq:
@@ -23,6 +23,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
+> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/blizzard-raises-class-damage-and-monster-health/). Die neuen Bäume sind noch nicht in den Spieldaten, deshalb folgen Builds und Talente unten noch dem alten Baum. Wir aktualisieren diesen Guide, sobald die neuen Bäume im Spiel sind.
+
 Der Fury Warrior in WoW Forever ist der Berserker: zwei Waffen, schnelle Schläge und eine Rage-Leiste, die sich mit jedem kritischen Treffer füllt. Die Rotation ist schnell und reaktiv, und Cleave und Whirlwind machen Fury zu einer der besten Spezialisierungen gegen mehrere Gegner. Dieser Guide behandelt den Build für Level 30, die Rotation, Rage, Stance Dancing, Werte, Waffen und Völker.
 
 | | |

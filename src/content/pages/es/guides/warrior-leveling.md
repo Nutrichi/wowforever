@@ -3,7 +3,7 @@ title: "Subir un Warrior en WoW Forever: la guía"
 metaTitle: "Guía de subida del Warrior en WoW Forever: builds de Arms, Fury y Protection hasta el 30"
 description: "Cómo subir un Warrior en WoW Forever: el primer build, tres builds de nivel 30 para Arms, Fury y Protection, la rotación, los niveles clave, las misiones de clase para cada actitud, armas, actitudes y Rage."
 short: "Subida del Warrior"
-updated: 2026-10-21
+updated: 2026-11-03
 lang: es
 manual: true
 faq:
@@ -23,6 +23,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
+> **Actualización del 3 de noviembre:** las notas de desarrollo del 2 de noviembre cambian mucho esta clase, más en [nuestra noticia](/es/news/blizzard-raises-class-damage-and-monster-health/). Los árboles nuevos aún no están en los datos del juego, así que las builds y talentos de abajo siguen el árbol antiguo. Actualizamos esta guía en cuanto los árboles nuevos estén en el juego.
+
 El Warrior crece con cada nivel. Al principio pulsas sobre todo Heroic Strike y dejas que Rend haga efecto. Llegan más ataques instantáneos a medida que subes, y con los grandes talentos desde el nivel 40 notas de verdad lo que puede hacer la clase. En el nivel 30 eliges entre Arms, Fury y Protection, y las tres suben bien. Esta guía cubre los builds, la rotación, los niveles clave, las misiones de clase y cómo funcionan las actitudes y la Rage.
 
 | | |

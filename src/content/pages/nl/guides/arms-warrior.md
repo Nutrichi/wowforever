@@ -3,7 +3,7 @@ title: "Arms Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Arms Warrior: build voor level 30, Rend, Overpower en Rage"
 description: "De Arms Warrior in WoW Forever: de build voor level 30 met Bloodthrill, Improved Slam en Sweeping Strikes, de rotatie, Rend en Overpower, Rage, stats en races."
 short: "Arms Warrior"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: nl
 manual: true
 faq:
@@ -23,6 +23,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
 ---
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+
 De Arms Warrior in WoW Forever zwaait met één groot, traag wapen. Rend blijft bloeden, Overpower licht keer op keer op, en elke slag haalt een zichtbaar stuk van de vijand af. Veel talenten leunen naar PvP, wat Arms de vanzelfsprekende keuze maakt voor battlegrounds. Deze gids behandelt de build voor level 30, de rotatie, Rend en Overpower, Rage, stats, wapens en races.
 
 | | |

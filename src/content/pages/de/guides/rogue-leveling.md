@@ -3,7 +3,7 @@ title: "Rogue leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Rogue-Levelguide: Builds für Assassination, Combat und Subtlety bis 30"
 description: "So levelst du einen Rogue in WoW Forever: vier Builds für Level 30 für Assassination, Combat und zwei Arten von Subtlety, die Rotation, wichtige Level, die Giftquests, Waffen, Berufe und Verbrauchsgüter."
 short: "Rogue leveln"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: de
 manual: true
 faq:
@@ -25,6 +25,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
+> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Die neuen Bäume sind noch nicht in den Spieldaten, deshalb folgen Builds und Talente unten noch dem alten Baum. Wir aktualisieren diesen Guide, sobald die neuen Bäume im Spiel sind.
+
 Der Rogue war nie die einfachste Klasse zum Leveln, aber WoW Forever hilft. Poisons können critten, der Schaden auf ein Ziel ist höher und jede Spezialisierung hat ihren eigenen Charakter. Auf Level 30 wählst du zwischen Assassination, Combat und zwei Arten von Subtlety. Dieser Guide zeigt die vier Builds, die Rotation, wichtige Level, die Giftquests, Waffen und Berufe.
 
 | | |

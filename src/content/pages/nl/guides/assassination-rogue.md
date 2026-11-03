@@ -3,7 +3,7 @@ title: "Assassination Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Assassination Rogue: Mutilate-builds, poisons en rotatie"
 description: "De Assassination Rogue in WoW Forever: Mutilate en Venom, twee builds voor level 30 voor solo en Improved Expose Armor, de rotatie, Energy, poisons, stats en races."
 short: "Assassination Rogue"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: nl
 manual: true
 faq:
@@ -25,6 +25,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
 ---
+> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen zitten nog niet in de speldata, dus de builds en talenten hieronder volgen nog de oude boom. We werken deze gids bij zodra de nieuwe bomen in het spel zitten.
+
 De Assassination Rogue in WoW Forever is de gifmenger. Mutilate geeft de spec een eigen Combo Point-generator met dolken, Venom is een nieuwe finishing move die poisons sterker maakt, en poisons kunnen nu critical strikes landen. Je hebt geen Stealth-trucs of pure auto attacks nodig om schade te doen. Deze gids behandelt twee builds voor level 30, de rotatie, Energy, poisons, overleven, stats en races.
 
 | | |

@@ -3,7 +3,7 @@ title: "Arms Warrior guide for WoW Forever"
 metaTitle: "WoW Forever Arms Warrior: level 30 build, Rend, Overpower and Rage"
 description: "The Arms Warrior in WoW Forever: the level 30 build with Bloodthrill, Improved Slam and Sweeping Strikes, the rotation, Rend and Overpower, Rage, stats and races."
 short: "Arms Warrior"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: en
 faq:
   - q: "Is Arms Warrior good in WoW Forever?"
@@ -22,6 +22,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
 ---
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+
 The Arms Warrior in WoW Forever swings one big, slow weapon. Rend keeps bleeding, Overpower lights up again and again, and every hit takes a visible chunk off the enemy. Many of its talents lean towards PvP, which makes Arms the natural pick for battlegrounds. This guide covers the level 30 build, rotation, Rend and Overpower, Rage, stats, weapons and races.
 
 | | |

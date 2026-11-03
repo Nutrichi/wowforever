@@ -3,7 +3,7 @@ title: "Subir un Rogue en WoW Forever: la guía"
 metaTitle: "Guía de subida de Rogue en WoW Forever: builds de Assassination, Combat y Subtlety hasta el 30"
 description: "Cómo subir un Rogue en WoW Forever: cuatro builds de nivel 30 para Assassination, Combat y dos estilos de Subtlety, la rotación, los niveles clave, las misiones de venenos, las armas, las profesiones y los consumibles."
 short: "Subir un Rogue"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: es
 manual: true
 faq:
@@ -25,6 +25,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
+> **Actualización del 3 de noviembre:** las notas de desarrollo del 2 de noviembre cambian mucho esta clase, más en [nuestra noticia](/es/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Los árboles nuevos aún no están en los datos del juego, así que las builds y talentos de abajo siguen el árbol antiguo. Actualizamos esta guía en cuanto los árboles nuevos estén en el juego.
+
 El Rogue nunca fue la clase más fácil de subir, pero WoW Forever ayuda. Los Poisons pueden ser críticos, el daño a un objetivo es mayor y cada spec tiene su propia identidad. En el nivel 30 eliges entre Assassination, Combat y dos estilos de Subtlety. Esta guía cubre las cuatro builds, la rotación, los niveles clave, las misiones de venenos, las armas y las profesiones.
 
 | | |

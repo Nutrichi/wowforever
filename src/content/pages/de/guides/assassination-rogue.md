@@ -3,7 +3,7 @@ title: "Assassination-Rogue-Guide für WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: Mutilate-Builds, Gifte und Rotation"
 description: "Der Assassination Rogue in WoW Forever: Mutilate und Venom, zwei Builds für Level 30 für Solo und mit Improved Expose Armor, die Rotation, Energie, Gifte, Werte und Völker."
 short: "Assassination Rogue"
-updated: 2026-10-27
+updated: 2026-11-03
 lang: de
 manual: true
 faq:
@@ -25,6 +25,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
 ---
+> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Die neuen Bäume sind noch nicht in den Spieldaten, deshalb folgen Builds und Talente unten noch dem alten Baum. Wir aktualisieren diesen Guide, sobald die neuen Bäume im Spiel sind.
+
 Der Assassination Rogue in WoW Forever ist der Giftmischer. Mutilate gibt der Spezialisierung einen eigenen Combopunkt-Generator mit Dolchen, Venom ist ein neuer Finishing Move, der Gifte stärker macht, und Gifte können jetzt kritisch treffen. Du brauchst weder Stealth-Tricks noch reine automatische Angriffe, um Schaden zu machen. Dieser Guide behandelt zwei Builds für Level 30, die Rotation, Energie, Gifte, Überleben, Werte und Völker.
 
 | | |

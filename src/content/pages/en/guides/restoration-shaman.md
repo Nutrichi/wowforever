@@ -3,7 +3,7 @@ title: "Restoration Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Restoration Shaman: healing build, totems, mana"
 description: "The Restoration Shaman in WoW Forever: the level 30 healing build and its Talented version, Water Shield, Riptide and Chain Heal, totems, mana, stats and races."
 short: "Restoration Shaman"
-updated: 2026-10-31
+updated: 2026-11-03
 lang: en
 faq:
   - q: "Is Restoration Shaman a good healer in WoW Forever?"
@@ -24,6 +24,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
 ---
+> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/). The new trees are not in the game data yet, so the builds and talents below still follow the old tree. We update this guide as soon as the new trees are in the game.
+
 The Restoration Shaman in WoW Forever heals with a few simple spells and fills the gaps with utility. Chain Heal is the big group heal, Lesser Healing Wave saves a target in trouble, and your totems buff the whole raid. New in Forever are Riptide, Water Shield and Mindfulness, which help the oldest problem of the spec: mana. This guide covers the level 30 build, the key talents, the healing priority, totems, mana, stats and races.
 
 | | |

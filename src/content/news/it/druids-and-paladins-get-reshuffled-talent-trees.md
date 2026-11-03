@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Aggiornamento del 3 novembre:** Blizzard conferma queste modifiche nelle note di sviluppo del 2 novembre. Di più nel [nostro articolo sulle note](/it/news/blizzard-raises-class-damage-and-monster-health/).
+
 Druid e Paladin hanno una nuova disposizione dei talenti a pochi giorni dal lancio di World of Warcraft: Forever. Alcuni talenti si sono spostati, e ne sono arrivati di nuovi come Lacerate e Bloom. Anche i Mage cambiano molto. Gli hotfix sono attivi, ma le note di sviluppo non li confermano.
 
 ## Druid
