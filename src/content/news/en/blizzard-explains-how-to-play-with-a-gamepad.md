@@ -1,7 +1,7 @@
 ---
 title: "Blizzard explains how to play with a gamepad"
 description: "Every XInput controller works in WoW Forever, with four action bars per set, three sets and shortcuts on the shoulder buttons. Gamepad support is still a working beta."
-date: 2026-11-04T10:05:00+01:00
+date: 2026-11-04T10:28:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-11-04-wow-forever-gamepad-hud.jpg

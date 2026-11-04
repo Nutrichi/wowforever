@@ -1,7 +1,7 @@
 ---
 title: "Blizzard explica cómo jugar con mando"
 description: "Cualquier mando XInput funciona en WoW Forever, con cuatro barras de acción por conjunto, tres conjuntos y atajos en los botones superiores. Sigue en beta."
-date: 2026-11-04T10:05:00+01:00
+date: 2026-11-04T10:28:00+01:00
 category: forever
 lang: es
 manual: true

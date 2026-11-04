@@ -1,7 +1,7 @@
 ---
 title: "Blizzard spiega come giocare con un controller"
 description: "Ogni controller XInput funziona in WoW Forever, con quattro barre delle azioni per set, tre set e scorciatoie sui tasti dorsali. Il supporto è ancora in beta."
-date: 2026-11-04T10:05:00+01:00
+date: 2026-11-04T10:28:00+01:00
 category: forever
 lang: it
 manual: true

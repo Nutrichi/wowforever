@@ -1,7 +1,7 @@
 ---
 title: "Blizzard legt uit hoe je met een gamepad speelt"
 description: "Elke XInput-controller werkt in WoW Forever, met vier actiebalken per set, drie sets en snelkoppelingen op de schouderknoppen. De gamepad is nog een werkende beta."
-date: 2026-11-04T10:05:00+01:00
+date: 2026-11-04T10:28:00+01:00
 category: forever
 lang: nl
 manual: true

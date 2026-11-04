@@ -1,7 +1,7 @@
 ---
 title: "Blizzard explique comment jouer à la manette"
 description: "Toute manette XInput fonctionne dans WoW Forever, avec quatre barres d'action par ensemble, trois ensembles et des raccourcis sur les gâchettes. Encore en bêta."
-date: 2026-11-04T10:05:00+01:00
+date: 2026-11-04T10:28:00+01:00
 category: forever
 lang: fr
 manual: true

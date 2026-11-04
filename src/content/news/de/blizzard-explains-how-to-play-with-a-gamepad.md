@@ -1,7 +1,7 @@
 ---
 title: "Blizzard erklärt das Spielen mit Gamepad"
 description: "Jeder XInput-Controller läuft in WoW Forever, mit vier Aktionsleisten pro Satz, drei Sätzen und Kurzbefehlen auf den Schultertasten. Die Steuerung ist noch in der Beta."
-date: 2026-11-04T10:05:00+01:00
+date: 2026-11-04T10:28:00+01:00
 category: forever
 lang: de
 manual: true
