@@ -1,7 +1,7 @@
 ---
 title: "Warrior leveln in WoW Forever: der Guide"
-metaTitle: "WoW Forever Warrior-Levelguide: Builds für Arms, Fury und Protection bis 30"
-description: "So levelst du einen Warrior in WoW Forever: der erste Build, drei Builds für Level 30 für Arms, Fury und Protection, die Rotation, wichtige Level, die Klassenquests für jede Haltung, Waffen, Haltungen und Rage."
+metaTitle: "WoW Forever Warrior-Levelguide: Arms, Fury, Protection bis 30"
+description: "So levelst du einen Warrior in WoW Forever: der erste Build, drei Builds für Level 30 für Arms, Fury und Protection, Rotation, wichtige Level, Haltungsquests und Rage."
 short: "Warrior leveln"
 updated: 2026-11-04
 lang: de

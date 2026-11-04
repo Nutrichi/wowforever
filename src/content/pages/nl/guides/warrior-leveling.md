@@ -1,7 +1,7 @@
 ---
 title: "Warrior levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Warrior levelgids: builds voor Arms, Fury en Protection tot 30"
-description: "Zo level je een Warrior in WoW Forever: de eerste build, drie builds voor level 30 voor Arms, Fury en Protection, de rotatie, de belangrijke levels, de classquests voor elke stance, wapens, stances en Rage."
+metaTitle: "WoW Forever Warrior levelgids: Arms, Fury en Protection tot 30"
+description: "Zo level je een Warrior in WoW Forever: de eerste build, drie builds voor level 30 voor Arms, Fury en Protection, de rotatie, belangrijke levels, stancequests en Rage."
 short: "Warrior levelen"
 updated: 2026-11-04
 lang: nl

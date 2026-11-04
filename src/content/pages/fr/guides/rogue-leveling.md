@@ -1,7 +1,7 @@
 ---
 title: "Monter un Rogue dans WoW Forever : le guide"
-metaTitle: "Guide de leveling Rogue WoW Forever : builds Assassination, Combat et Subtlety jusqu'au 30"
-description: "Comment monter un Rogue dans WoW Forever : quatre builds niveau 30 pour Assassination, Combat et deux styles de Subtlety, la rotation, les niveaux clés, les quêtes de poisons, les armes, les métiers et les consommables."
+metaTitle: "Leveling Rogue WoW Forever : builds de chaque spé jusqu'au 30"
+description: "Monter un Rogue dans WoW Forever : quatre builds niveau 30 pour Assassination, Combat et Subtlety, la rotation, les niveaux clés, les quêtes de poisons et les armes."
 short: "Leveling Rogue"
 updated: 2026-11-04
 lang: fr

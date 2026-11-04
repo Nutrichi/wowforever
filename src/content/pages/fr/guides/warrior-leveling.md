@@ -1,7 +1,7 @@
 ---
 title: "Monter un Warrior dans WoW Forever : le guide"
-metaTitle: "Guide leveling Warrior WoW Forever : builds Arms, Fury et Protection jusqu'au 30"
-description: "Comment monter un Warrior dans WoW Forever : le premier build, trois builds niveau 30 pour Arms, Fury et Protection, la rotation, les niveaux clés, les quêtes de classe pour chaque posture, les armes, les postures et la Rage."
+metaTitle: "Leveling Warrior WoW Forever : Arms, Fury et Protection au 30"
+description: "Monter un Warrior dans WoW Forever : le premier build, trois builds niveau 30 pour Arms, Fury et Protection, la rotation, les niveaux clés, les quêtes de posture et la Rage."
 short: "Leveling Warrior"
 updated: 2026-11-04
 lang: fr

@@ -1,6 +1,6 @@
 ---
 title: "Frost Mage in WoW Forever: de gids"
-metaTitle: "WoW Forever Frost Mage: Ice Lance-build, rotatie, Shatter, stats en races"
+metaTitle: "WoW Forever Frost Mage: Ice Lance-build, rotatie en Shatter"
 description: "De Frost Mage in WoW Forever: Ice Lance en Fingers of Frost, de build voor level 30, de rotatie, kiten, mana, Shatter, stats, gear, races en tradeskills."
 short: "Frost Mage"
 updated: 2026-10-31

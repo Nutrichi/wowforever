@@ -1,7 +1,7 @@
 ---
 title: "Guía del Protection Warrior en WoW Forever"
-metaTitle: "WoW Forever Protection Warrior: build de tanque de nivel 30, amenaza y Rage"
-description: "El Protection Warrior en WoW Forever: la build de tanque de nivel 30 con Master of Defense, Defiance y Vanguard, la rotación de amenaza, los perjuicios, la Rage, los stats y las razas."
+metaTitle: "WoW Forever Protection Warrior: build de tanque, amenaza y Rage"
+description: "El Protection Warrior en WoW Forever: la build de tanque de nivel 30 con Master of Defense, Defiance y Vanguard, la rotación de amenaza, la Rage, los stats y las razas."
 short: "Protection Warrior"
 updated: 2026-11-04
 lang: es

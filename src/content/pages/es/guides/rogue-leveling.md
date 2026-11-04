@@ -1,7 +1,7 @@
 ---
 title: "Subir un Rogue en WoW Forever: la guía"
-metaTitle: "Guía de subida de Rogue en WoW Forever: builds de Assassination, Combat y Subtlety hasta el 30"
-description: "Cómo subir un Rogue en WoW Forever: cuatro builds de nivel 30 para Assassination, Combat y dos estilos de Subtlety, la rotación, los niveles clave, las misiones de venenos, las armas, las profesiones y los consumibles."
+metaTitle: "Subida de Rogue en WoW Forever: builds de cada spec hasta el 30"
+description: "Cómo subir un Rogue en WoW Forever: cuatro builds de nivel 30 para Assassination, Combat y Subtlety, la rotación, niveles clave, misiones de venenos y armas."
 short: "Subir un Rogue"
 updated: 2026-11-04
 lang: es

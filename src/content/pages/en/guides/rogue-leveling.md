@@ -1,7 +1,7 @@
 ---
 title: "Rogue leveling guide for WoW Forever"
-metaTitle: "WoW Forever Rogue leveling guide: Assassination, Combat and Subtlety builds to 30"
-description: "How to level a Rogue in WoW Forever: four level 30 builds for Assassination, Combat and two kinds of Subtlety, the rotation, key levels, the poison quests, weapons, professions and consumables."
+metaTitle: "WoW Forever Rogue leveling: builds for all three specs to 30"
+description: "How to level a Rogue in WoW Forever: four level 30 builds for Assassination, Combat and Subtlety, the rotation, key levels, poison quests, weapons and professions."
 short: "Rogue leveling"
 updated: 2026-11-04
 lang: en

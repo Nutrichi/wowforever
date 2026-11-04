@@ -1,6 +1,6 @@
 ---
 title: "Protection Warrior in WoW Forever: de gids"
-metaTitle: "WoW Forever Protection Warrior: tankbuild voor level 30, threat en Rage"
+metaTitle: "WoW Forever Protection Warrior: tankbuild, threat en Rage"
 description: "De Protection Warrior in WoW Forever: de tankbuild voor level 30 met Master of Defense, Defiance en Vanguard, de threat-rotatie, debuffs, Rage, stats en races."
 short: "Protection Warrior"
 updated: 2026-11-04

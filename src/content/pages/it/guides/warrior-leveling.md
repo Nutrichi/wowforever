@@ -1,7 +1,7 @@
 ---
 title: "Livellare un Warrior in WoW Forever: la guida"
-metaTitle: "Guida al leveling del Warrior in WoW Forever: build Arms, Fury e Protection fino al 30"
-description: "Come livellare un Warrior in WoW Forever: la prima build, tre build di livello 30 per Arms, Fury e Protection, la rotazione, i livelli chiave, le missioni di classe per ogni stance, armi, stance e Rage."
+metaTitle: "Leveling del Warrior in WoW Forever: Arms, Fury e Protection"
+description: "Come livellare un Warrior in WoW Forever: la prima build, tre build di livello 30 per Arms, Fury e Protection, la rotazione, i livelli chiave, le missioni delle stance e Rage."
 short: "Leveling del Warrior"
 updated: 2026-11-04
 lang: it

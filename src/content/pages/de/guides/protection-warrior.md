@@ -1,6 +1,6 @@
 ---
 title: "Protection-Warrior-Guide für WoW Forever"
-metaTitle: "WoW Forever Protection Warrior: Tank-Build für Level 30, Bedrohung und Rage"
+metaTitle: "WoW Forever Protection Warrior: Tank-Build, Bedrohung und Rage"
 description: "Der Protection Warrior in WoW Forever: der Tank-Build für Level 30 mit Master of Defense, Defiance und Vanguard, die Bedrohungsrotation, Schwächungen, Rage, Werte und Völker."
 short: "Protection Warrior"
 updated: 2026-11-04

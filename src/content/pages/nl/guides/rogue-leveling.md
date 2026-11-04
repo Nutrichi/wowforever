@@ -1,7 +1,7 @@
 ---
 title: "Rogue levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Rogue levelgids: builds voor Assassination, Combat en Subtlety tot 30"
-description: "Zo level je een Rogue in WoW Forever: vier builds voor level 30 voor Assassination, Combat en twee soorten Subtlety, de rotatie, de belangrijke levels, de gifquests, wapens, tradeskills en consumables."
+metaTitle: "WoW Forever Rogue levelgids: builds voor elke spec tot 30"
+description: "Zo level je een Rogue in WoW Forever: vier builds voor level 30 voor Assassination, Combat en Subtlety, de rotatie, belangrijke levels, gifquests, wapens en tradeskills."
 short: "Rogue levelen"
 updated: 2026-11-04
 lang: nl

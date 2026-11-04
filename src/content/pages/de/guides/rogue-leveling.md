@@ -1,7 +1,7 @@
 ---
 title: "Rogue leveln in WoW Forever: der Guide"
-metaTitle: "WoW Forever Rogue-Levelguide: Builds für Assassination, Combat und Subtlety bis 30"
-description: "So levelst du einen Rogue in WoW Forever: vier Builds für Level 30 für Assassination, Combat und zwei Arten von Subtlety, die Rotation, wichtige Level, die Giftquests, Waffen, Berufe und Verbrauchsgüter."
+metaTitle: "WoW Forever Rogue-Levelguide: Builds für jede Spec bis 30"
+description: "So levelst du einen Rogue in WoW Forever: vier Builds für Level 30 für Assassination, Combat und Subtlety, Rotation, wichtige Level, Giftquests, Waffen und Berufe."
 short: "Rogue leveln"
 updated: 2026-11-04
 lang: de

@@ -1,7 +1,7 @@
 ---
 title: "Livellare un Rogue in WoW Forever: la guida"
-metaTitle: "Guida al leveling del Rogue in WoW Forever: build Assassination, Combat e Subtlety fino al 30"
-description: "Come livellare un Rogue in WoW Forever: quattro build di livello 30 per Assassination, Combat e due stili di Subtlety, la rotazione, i livelli chiave, le missioni dei veleni, le armi, le professioni e i consumabili."
+metaTitle: "Leveling del Rogue in WoW Forever: build per ogni spec al 30"
+description: "Come livellare un Rogue in WoW Forever: quattro build di livello 30 per Assassination, Combat e Subtlety, la rotazione, i livelli chiave, le missioni dei veleni e le armi."
 short: "Leveling Rogue"
 updated: 2026-11-04
 lang: it

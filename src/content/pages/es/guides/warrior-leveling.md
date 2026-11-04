@@ -1,7 +1,7 @@
 ---
 title: "Subir un Warrior en WoW Forever: la guía"
-metaTitle: "Guía de subida del Warrior en WoW Forever: builds de Arms, Fury y Protection hasta el 30"
-description: "Cómo subir un Warrior en WoW Forever: el primer build, tres builds de nivel 30 para Arms, Fury y Protection, la rotación, los niveles clave, las misiones de clase para cada actitud, armas, actitudes y Rage."
+metaTitle: "Subida de Warrior en WoW Forever: Arms, Fury y Protection al 30"
+description: "Cómo subir un Warrior en WoW Forever: el primer build, tres builds de nivel 30 para Arms, Fury y Protection, la rotación, niveles clave, misiones de actitud y Rage."
 short: "Subida del Warrior"
 updated: 2026-11-04
 lang: es

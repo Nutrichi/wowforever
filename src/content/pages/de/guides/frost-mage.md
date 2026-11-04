@@ -1,6 +1,6 @@
 ---
 title: "Frost-Mage-Guide für WoW Forever"
-metaTitle: "WoW Forever Frost Mage: Ice-Lance-Build, Rotation, Shatter, Werte und Völker"
+metaTitle: "WoW Forever Frost Mage: Ice-Lance-Build, Rotation und Shatter"
 description: "Der Frost Mage in WoW Forever: Ice Lance und Fingers of Frost, der Build für Level 30, die Rotation, Kiten, Mana, Shatter, Werte, Ausrüstung, Völker und Berufe."
 short: "Frost Mage"
 updated: 2026-10-31
