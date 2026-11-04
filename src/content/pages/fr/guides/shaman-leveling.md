@@ -3,7 +3,7 @@ title: "Guide de leveling du Shaman dans WoW Forever"
 metaTitle: "WoW Forever leveling Shaman : Enhancement, Elemental et Resto"
 description: "Monter un Shaman dans WoW Forever : builds niveau 30 pour Enhancement, Elemental et Restoration, niveaux clés, quêtes de totems, armes de Call of Air et zones."
 short: "Leveling Shaman"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: fr
 manual: true
 faq:
@@ -12,7 +12,7 @@ faq:
   - q: "Les Shamans ont-ils encore besoin d'objets de totem dans leurs sacs ?"
     a: "Oui. Les quêtes de classe aux niveaux 4, 10, 20 et 30 donnent l'Earth, la Fire, la Water et l'Air Totem, et ces objets doivent rester dans vos sacs pour lancer les totems de cet élément."
   - q: "Les Shamans peuvent-ils encore faire du totem twisting ?"
-    a: "Non. Le totem twisting n'existe plus dans Forever. En échange, Call of the Elements pose quatre totems enregistrés d'un seul bouton, et Totemic Projection et Totemic Recall déplacent ou récupèrent vos totems."
+    a: "Non. Le totem twisting n'existe plus dans Forever. En échange, Call of the Elements pose quatre totems enregistrés d'un seul bouton, et Totemic Call et Totemic Recall ramènent vos totems vers vous ou les récupèrent."
   - q: "Ghost Wolf est-il meilleur dans Forever ?"
     a: "Oui. Avec Improved Ghost Wolf en Enhancement, il est instantané et marche en intérieur, vous pouvez donc l'utiliser en combat et en donjon."
   - q: "Quelle arme un Shaman reçoit-il au niveau 30 ?"
@@ -25,14 +25,14 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe : Lava Burst est supprimé, plus de détails dans [notre article](/fr/news/shamans-lose-lava-burst-before-the-launch/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
+> **Mise à jour du 4 novembre :** les builds et talents ci-dessous suivent les nouveaux arbres des notes de développement du 2 novembre, plus de détails dans [notre article](/fr/news/shamans-lose-lava-burst-before-the-launch/).
 
-Le Shaman de WoW Forever est le bienvenu dans chaque groupe : de fortes améliorations de totems, un Ghost Wolf instantané avec Improved Ghost Wolf, et trois spécialisations qui marchent toutes. Vous pouvez être une lame de sorts en mêlée, un lanceur de sorts qui jette foudre et lave, ou un soigneur. Ce guide couvre la rotation de départ, un build niveau 30 par spécialisation, les niveaux clés, les quêtes de totems, les armes de Call of Air, les zones, l'équipement, les totems et le mana.
+Le Shaman de WoW Forever est le bienvenu dans chaque groupe : de fortes améliorations de totems, un Ghost Wolf instantané avec Improved Ghost Wolf, et trois spécialisations qui marchent toutes. Vous pouvez être une lame de sorts en mêlée, un lanceur de sorts qui jette foudre et feu, ou un soigneur. Ce guide couvre la rotation de départ, un build niveau 30 par spécialisation, les niveaux clés, les quêtes de totems, les armes de Call of Air, les zones, l'équipement, les totems et le mana.
 
 | | |
 |---|---|
 | Spécialisation la plus simple pour monter | Enhancement, avec Windfury Weapon dès le niveau 30 |
-| Talents clés | Thundering Strikes, Mental Dexterity, Improved Ghost Wolf, Flurry, Stormstrike, Lava Burst |
+| Talents clés | Thundering Strikes, Mental Dexterity, Flurry, Stormstrike, Call of Thunder |
 | Points forts | Améliorations de totems, autosoins, voyage rapide avec Ghost Wolf, peut tanker les donjons de bas niveau en Enhancement |
 | Points faibles | Le mana, peu de contrôle |
 | Ordre des talents par niveau | [Build de leveling du Shaman](/fr/leveling/shaman/) |
@@ -61,24 +61,24 @@ Stoneclaw Totem et Earthbind Totem aident quand un pull tourne mal. Stats au dé
 
 ## Build Enhancement niveau 30
 
-Le build de leveling le plus fort, et il tient jusqu'au contenu de haut niveau. Le totem twisting a disparu, ce qui simplifie la rotation. [Ouvrir le build dans le calculateur de talents](/fr/talents/shaman/?t=-0500321310051).
+Le build de leveling le plus fort, et il tient jusqu'au contenu de haut niveau. Le totem twisting a disparu, ce qui simplifie la rotation. [Ouvrir le build dans le calculateur de talents](/fr/talents/shaman/?t=-052031310051).
 
 | Talent | Points |
 |---|---|
 | **Thundering Strikes** | 5/5 |
+| **Ancestral Knowledge** | 2/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Ghost Wolf** | 2/2 |
 | **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
 
-[Ouvrir la version Talented](/fr/talents/shaman/?t=-05003213100510221) avec Mental Quickness 2/2, Improved Stormstrike 2/2 et Maelstrom Weapon 1/5.
+[Ouvrir la version Talented](/fr/talents/shaman/?t=-05203131005100221) avec Mental Quickness 2/2, Improved Stormstrike 2/2 et Maelstrom Weapon 1/5.
 
 ![Le build Talented de l'Enhancement Shaman dans notre calculateur de talents](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
 
-Mental Dexterity convertit votre Intelligence en puissance d'attaque, et Mental Quickness en dégâts des sorts, donc l'Intelligence vaut plus qu'on ne le croirait. Improved Ghost Wolf rend Ghost Wolf instantané et utilisable en intérieur.
+Mental Dexterity convertit votre Intelligence en puissance d'attaque, et Mental Quickness en dégâts des sorts, donc l'Intelligence vaut plus qu'on ne le croirait. Improved Ghost Wolf, qui rend Ghost Wolf instantané et utilisable en intérieur, est au quatrième rang depuis le 2 novembre et n'entre pas dans ce build.
 
 1. Gardez Lightning Shield et Windfury Weapon actifs.
 2. Posez Searing Totem et Strength of Earth Totem en combat.
@@ -103,7 +103,7 @@ Pour un pur lanceur de sorts à distance. [Ouvrir le build dans le calculateur d
 | **Elemental Focus** | 1/1 |
 | **Trial by Fire** | 2/2 |
 | **Eye of the Storm** | 3/3 |
-| **Lava Burst** | 1/1 |
+| **Call of Thunder** | 1/1 |
 
 [Ouvrir la version Talented](/fr/talents/shaman/?t=350033102301131) avec Elemental Reach 1/2, Lightning Overload 3/3 et Elemental Fury 1/5.
 
@@ -111,11 +111,10 @@ Pour un pur lanceur de sorts à distance. [Ouvrir le build dans le calculateur d
 
 1. Gardez Lightning Shield actif.
 2. Posez Searing Totem pour une cible, Magma Totem pour plusieurs, et Mana Spring Totem si vous restez assez longtemps au même endroit.
-3. Engagez avec Lava Burst.
-4. Lancez Flame Shock juste à la fin de Lava Burst : le choc instantané arrive avant la lave plus lente, et Lava Burst inflige alors plus de dégâts à la cible enflammée.
+3. Engagez avec Lightning Bolt.
+4. Lancez Flame Shock.
 5. Gardez Flame Shock sur la cible.
-6. Lancez Lava Burst dès qu'il est prêt.
-7. Remplissez avec Lightning Bolt.
+6. Remplissez avec Lightning Bolt.
 
 Stats : dégâts des sorts et Intelligence, puis critique, puis Endurance et Esprit, puis armure.
 
@@ -155,12 +154,12 @@ Chez le maître, sauf indication contraire. Avec Talented, du système Legacy, l
 | 16 | Cure Poison |
 | 18 | Tremor Totem |
 | 20 | Ghost Wolf, Frost Shock, Frostbrand Weapon, Lesser Healing Wave, Call of the Elements, Totemic Recall ; Healing Stream Totem avec la quête de l'Eau ; Water Shield (talent) |
-| 22 | Totemic Projection, Cure Disease, Poison Cleansing Totem |
+| 22 | Totemic Call, Cure Disease, Poison Cleansing Totem |
 | 24 | Frost Resistance Totem |
 | 25 | Stormstrike et Mana Tide Totem (talents) |
 | 26 | Magma Totem, Mana Spring Totem |
 | 28 | Fire Resistance Totem, Flametongue Totem |
-| 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation ; Lava Burst et Nature's Swiftness (talents) |
+| 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation ; Call of Thunder et Nature's Swiftness (talents) |
 | 32 | Chain Lightning, Windfury Totem |
 | 40 | Chain Heal, Call of the Spirits, Dual Spec |
 
@@ -255,7 +254,7 @@ Ne posez que les totems utiles maintenant : chaque totem coûte du mana et un te
 | Healing Stream Totem | Soigne un peu, encore et encore |
 | Mana Spring Totem | Rend du mana à votre groupe |
 
-Call of the Elements pose un ensemble enregistré de quatre totems d'un seul bouton. Totemic Projection les déplace et Totemic Recall les reprend.
+Call of the Elements pose un ensemble enregistré de quatre totems d'un seul bouton. Totemic Call les ramène vers vous et Totemic Recall les reprend.
 
 ## Déplacement et mana
 

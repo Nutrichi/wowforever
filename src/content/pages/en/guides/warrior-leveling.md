@@ -3,7 +3,7 @@ title: "Warrior leveling guide for WoW Forever"
 metaTitle: "WoW Forever Warrior leveling guide: Arms, Fury and Protection builds to 30"
 description: "How to level a Warrior in WoW Forever: the early build, three level 30 builds for Arms, Fury and Protection, the rotation, key levels, the class quests for every stance, weapons, stances and Rage."
 short: "Warrior leveling"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: en
 faq:
   - q: "What is the best spec to level a Warrior in WoW Forever?"
@@ -22,7 +22,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/).
 
 The Warrior grows with every level. At the start you mostly press Heroic Strike and keep Rend ticking. More instant attacks follow as you level, and with the big talents from level 40 you really feel what the class can do. At level 30 you choose between Arms, Fury and Protection, and all three level well. This guide covers the builds, the rotation, the key levels, the class quests and how stances and Rage work.
 
@@ -57,26 +57,26 @@ Stats at these levels: weapon damage per second first, then Strength and attack 
 
 ## Level 30 Arms build
 
-The recommended leveling build. It is about Overpower and heavy hits with a slow two-handed weapon. Much of the time you let Rend tick and wait for Overpower. Sweeping Strikes later adds the damage against groups that Arms needs, and it is satisfying to use. [Open the build in the talent calculator](/talents/warrior/?t=323202031224101).
+The recommended leveling build. It is about Overpower and heavy hits with a slow two-handed weapon. Much of the time you let Rend tick and wait for Overpower. Sweeping Strikes later adds the damage against groups that Arms needs, and it is satisfying to use. [Open the build in the talent calculator](/talents/warrior/?t=333202031322101).
 
 | Talent | Points |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 2/5 |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
 | **Improved Rend** | 3/3 |
 | **Improved Charge** | 2/2 |
 | **Improved Overpower** | 2/2 |
 | **Deep Wounds** | 3/3 |
 | **Spearing Strike** | 1/1 |
-| **Two-Handed Weapon Specialization** | 2/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
 | **Impale** | 2/2 |
-| **Bloodthrill** | 4/5 |
+| **Bloodthrill** | 2/2 |
 | **Sweeping Strikes** | 1/1 |
 | **Improved Slam** | 1/2 |
 
 Bloodthrill is the heart of the build: your main-hand attacks against a monster with your Rend on it can make Overpower available. Improved Overpower raises its critical strike chance by 50%, and Deep Wounds and Impale make those critical strikes hurt. Sweeping Strikes lets your next five attacks also hit a monster next to it.
 
-There is some room to change it. You can take Improved Tactical Mastery instead of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>, but then you will hardly find the points for Anger Management. Spearing Strike mainly helps against Giants and Dragonkin, which you rarely meet early on; skip it and you can max Two-Handed Weapon Specialization. At the end you choose between Bloodthrill and Weaponmaster. You want both in time, so it is about which you take first. Bloodthrill means more Overpowers.
+There is some room to change it. You can take Improved Tactical Mastery instead of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>, but then you will hardly find the points for Anger Management. Spearing Strike mainly helps against Giants and Dragonkin, which you rarely meet early on; skip it and you can take Weaponmaster sooner. At the end you choose between Bloodthrill and Weaponmaster. You want both in time, so it is about which you take first. Bloodthrill means more Overpowers.
 
 1. Keep Battle Shout up in combat.
 2. Charge the monster.
@@ -102,7 +102,7 @@ As Fury you fight with two weapons and use all the extra Rage that gives. Your b
 
 Unbridled Wrath and Dual Wield Specialization give you more Rage from every hit, and Furious Precision makes your off-hand miss less. Cruelty adds critical strike chance, and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12317"><img class="wf-wh__icon" src="/wh/spell_shadow_unholyfrenzy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> raises your damage after you take a hit. Death Wish raises your physical damage by 20% for 30 seconds, but you also take 5% more.
 
-There are a few options here. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12323"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Piercing Howl</a> slows everything around you, good for kiting monsters and players. Lingering Rage keeps your Rage longer after a fight, which keeps the pace high when you go from monster to monster. Once you have Whirlwind at 36, Raging Blows is worth it too, but not before.
+There are a few options here. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12323"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Piercing Howl</a> slows everything around you, good for kiting monsters and players. Lingering Rage keeps your Rage longer after a fight, which keeps the pace high when you go from monster to monster. Raging Blows is gone since 2 November. In its place, Reckless Swings in the fourth row gives 5 extra Rage on each of your next 4 attacks.
 
 1. Keep Battle Shout up in combat.
 2. Charge the monster.

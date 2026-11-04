@@ -3,7 +3,7 @@ title: "Warrior levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Warrior levelgids: builds voor Arms, Fury en Protection tot 30"
 description: "Zo level je een Warrior in WoW Forever: de eerste build, drie builds voor level 30 voor Arms, Fury en Protection, de rotatie, de belangrijke levels, de classquests voor elke stance, wapens, stances en Rage."
 short: "Warrior levelen"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
+> **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/).
 
 De Warrior groeit met elk level. In het begin druk je vooral Heroic Strike en laat je Rend tikken. Er komen meer instant aanvallen bij naarmate je levelt, en met de grote talenten vanaf level 40 voel je echt wat de class kan. Op level 30 kies je tussen Arms, Fury en Protection, en alle drie levelen goed. Deze gids behandelt de builds, de rotatie, de belangrijke levels, de classquests en hoe stances en Rage werken.
 
@@ -58,26 +58,26 @@ Stats op deze levels: eerst wapenschade per seconde, dan Strength en attack powe
 
 ## Arms-build voor level 30
 
-De aangeraden build om te levelen. Hij draait om Overpower en zware klappen met een traag tweehandig wapen. Een groot deel van de tijd laat je Rend tikken en wacht je op Overpower. Sweeping Strikes voegt later de schade tegen groepen toe die Arms nodig heeft, en het is heerlijk om te gebruiken. [Open de build in de talentcalculator](/nl/talents/warrior/?t=323202031224101).
+De aangeraden build om te levelen. Hij draait om Overpower en zware klappen met een traag tweehandig wapen. Een groot deel van de tijd laat je Rend tikken en wacht je op Overpower. Sweeping Strikes voegt later de schade tegen groepen toe die Arms nodig heeft, en het is heerlijk om te gebruiken. [Open de build in de talentcalculator](/nl/talents/warrior/?t=333202031322101).
 
 | Talent | Punten |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 2/5 |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
 | **Improved Rend** | 3/3 |
 | **Improved Charge** | 2/2 |
 | **Improved Overpower** | 2/2 |
 | **Deep Wounds** | 3/3 |
 | **Spearing Strike** | 1/1 |
-| **Two-Handed Weapon Specialization** | 2/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
 | **Impale** | 2/2 |
-| **Bloodthrill** | 4/5 |
+| **Bloodthrill** | 2/2 |
 | **Sweeping Strikes** | 1/1 |
 | **Improved Slam** | 1/2 |
 
 Bloodthrill is het hart van de build: je main-hand-aanvallen op een monster met jouw Rend erop kunnen Overpower beschikbaar maken. Improved Overpower verhoogt zijn critical strike chance met 50%, en Deep Wounds en Impale laten die critical strikes pijn doen. Met Sweeping Strikes raken je volgende vijf aanvallen ook een monster ernaast.
 
-Er is wat ruimte om te schuiven. Je kan Improved Tactical Mastery nemen in plaats van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>, maar dan vind je moeilijk de punten voor Anger Management. Spearing Strike helpt vooral tegen Giants en Dragonkin, die je vroeg zelden tegenkomt; sla het over en je kan Two-Handed Weapon Specialization volzetten. Op het einde kies je tussen Bloodthrill en Weaponmaster. Je wil op termijn allebei, dus het gaat erom welke je eerst neemt. Bloodthrill betekent meer Overpowers.
+Er is wat ruimte om te schuiven. Je kan Improved Tactical Mastery nemen in plaats van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>, maar dan vind je moeilijk de punten voor Anger Management. Spearing Strike helpt vooral tegen Giants en Dragonkin, die je vroeg zelden tegenkomt; sla het over en je kan Weaponmaster sneller nemen. Op het einde kies je tussen Bloodthrill en Weaponmaster. Je wil op termijn allebei, dus het gaat erom welke je eerst neemt. Bloodthrill betekent meer Overpowers.
 
 1. Houd Battle Shout actief in een gevecht.
 2. Charge het monster.
@@ -103,7 +103,7 @@ Als Fury vecht je met twee wapens en gebruik je alle extra Rage die dat geeft. J
 
 Unbridled Wrath en Dual Wield Specialization geven je meer Rage bij elke slag, en Furious Precision laat je off-hand minder missen. Cruelty voegt critical strike chance toe, en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12317"><img class="wf-wh__icon" src="/wh/spell_shadow_unholyfrenzy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> verhoogt je schade nadat je een klap krijgt. Death Wish verhoogt je fysieke schade 30 seconden met 20%, maar je krijgt ook 5% meer.
 
-Hier zijn er een paar opties. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12323"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Piercing Howl</a> vertraagt alles rond je, handig om monsters en spelers te kiten. Lingering Rage houdt je Rage langer vast na een gevecht, wat het tempo hoog houdt als je van monster naar monster gaat. Zodra je Whirlwind hebt op 36, is Raging Blows ook de moeite, maar niet ervoor.
+Hier zijn er een paar opties. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12323"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Piercing Howl</a> vertraagt alles rond je, handig om monsters en spelers te kiten. Lingering Rage houdt je Rage langer vast na een gevecht, wat het tempo hoog houdt als je van monster naar monster gaat. Raging Blows is weg sinds 2 november. In de plaats geeft Reckless Swings in de vierde rij 5 extra Rage op elk van je volgende 4 aanvallen.
 
 1. Houd Battle Shout actief in een gevecht.
 2. Charge het monster.

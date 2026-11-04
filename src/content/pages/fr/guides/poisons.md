@@ -3,7 +3,7 @@ title: "Guide des Poisons du Rogue dans WoW Forever"
 metaTitle: "WoW Forever, Poisons du Rogue : quêtes, rangs, charges, composants"
 description: "Les Poisons du Rogue dans WoW Forever : les quêtes Alliance et Horde au niveau 20, chaque poison et rang, les nouvelles charges, les composants et ce qui change."
 short: "Rogue Poisons"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: fr
 manual: true
 faq:
@@ -143,9 +143,9 @@ Les rangs supérieurs demandent davantage des mêmes composants, <a class="wf-wh
 | **Malice** | Jusqu'à 5 % de chances de critique avec les attaques et les Poisons |
 | **Improved Poisons** | Jusqu'à 10 % de chances en plus d'appliquer les Poisons, et 50 % de chances de ne pas consommer de charge |
 | **Vile Poisons** | Jusqu'à 20 % de dégâts en plus avec les Poisons, qui résistent plus souvent aux dissipations |
-| **Venom** | Nouveau coup de grâce : 30 % de dégâts en plus avec les Poisons et 10 % de chances en plus de les appliquer, 9 à 21 secondes |
+| **Venom** | Passif au cinquième rang : Shank augmente vos dégâts avec les Poisons de 30 % et vos chances de les appliquer de 20 % pendant 6 secondes |
 
-Venom se trouve en bas de l'arbre Assassination. Pour un build complet avec ces talents, voir le [guide du Rogue Assassination](/fr/guides/assassination-rogue/). Pour les quêtes pendant la montée de niveau, voir le [guide de leveling du Rogue](/fr/guides/rogue-leveling/).
+Venom se trouve au cinquième rang de l'arbre Assassination depuis le 2 novembre. Pour un build complet avec ces talents, voir le [guide du Rogue Assassination](/fr/guides/assassination-rogue/). Pour les quêtes pendant la montée de niveau, voir le [guide de leveling du Rogue](/fr/guides/rogue-leveling/).
 
 ## Quel poison utiliser
 

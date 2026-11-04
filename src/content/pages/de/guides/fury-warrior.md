@@ -3,7 +3,7 @@ title: "Fury-Warrior-Guide für WoW Forever"
 metaTitle: "WoW Forever Fury Warrior: Build für Level 30, Rotation und Rage"
 description: "Der Fury Warrior in WoW Forever: der Build für Level 30 mit Cruelty, Unbridled Wrath und Death Wish, die Rotation, Rage, Stance Dancing, Werte, Waffen und Völker."
 short: "Fury Warrior"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: de
 manual: true
 faq:
@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
-> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/blizzard-raises-class-damage-and-monster-health/). Die neuen Bäume sind jetzt in unserem Talentrechner, aber Builds und Talente unten folgen ihnen noch nicht überall. Wir aktualisieren diesen Guide in Kürze.
+> **Update vom 4. November:** Builds und Talente unten folgen den neuen Bäumen aus den Entwicklungsnotizen vom 2. November, mehr in [unserem Beitrag](/de/news/blizzard-raises-class-damage-and-monster-health/).
 
 Der Fury Warrior in WoW Forever ist der Berserker: zwei Waffen, schnelle Schläge und eine Rage-Leiste, die sich mit jedem kritischen Treffer füllt. Die Rotation ist schnell und reaktiv, und Cleave und Whirlwind machen Fury zu einer der besten Spezialisierungen gegen mehrere Gegner. Dieser Guide behandelt den Build für Level 30, die Rotation, Rage, Stance Dancing, Werte, Waffen und Völker.
 
@@ -71,7 +71,7 @@ Dieser Build nutzt 26 Punkte: die 21 Punkte von Level 30 plus 5 von Talented aus
 
 ![Der Fury-Warrior-Build für Level 30 in unserem Talentrechner](../../../../assets/posts/2026-10-21-wow-forever-fury-warrior-build.jpg)
 
-Nach Level 30 kommen Flurry, für 25 % mehr Angriffstempo nach einem kritischen Treffer, und Bloodthirst unten im Baum.
+Nach Level 30 kommen Flurry, für 30 % mehr Angriffstempo nach einem kritischen Treffer, und Bloodthirst unten im Baum.
 
 ## Was die wichtigsten Talente tun
 
@@ -83,7 +83,7 @@ Nach Level 30 kommen Flurry, für 25 % mehr Angriffstempo nach einem kritischen 
 | **Dual Wield Specialization** | 25 % mehr Schaden mit der Schildhand und 50 % mehr Rage daraus |
 | **Enrage** | 10 % mehr körperlicher Schaden für 12 Sekunden, oft genug, um zu zählen |
 | **Death Wish** | Eine starke Schadens-Abklingzeit, mit Recklessness noch stärker |
-| **Flurry** | 25 % mehr Angriffstempo für 3 Schläge nach einem kritischen Treffer. Nach Level 30 |
+| **Flurry** | 30 % mehr Angriffstempo für 3 Schläge nach einem kritischen Treffer. Nach Level 30 |
 | **Bloodthirst** | Ein Sofortangriff auf Basis der Angriffskraft statt des Waffenschadens. Nach Level 30 |
 
 ## Rotation

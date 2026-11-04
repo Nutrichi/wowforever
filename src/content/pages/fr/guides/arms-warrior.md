@@ -3,16 +3,16 @@ title: "Guide de l’Arms Warrior dans WoW Forever"
 metaTitle: "WoW Forever Arms Warrior : build niveau 30, Rend, Overpower et Rage"
 description: "L’Arms Warrior dans WoW Forever : le build niveau 30 avec Bloodthrill, Improved Slam et Sweeping Strikes, la rotation, Rend et Overpower, la Rage, les stats et les races."
 short: "Arms Warrior"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: fr
 manual: true
 faq:
   - q: "L’Arms Warrior est-il bon dans WoW Forever ?"
     a: "Arms est amusant et frappe fort avec une arme à deux mains lente, et Sweeping Strikes, Cleave et Whirlwind le rendent fort contre plusieurs ennemis. Plusieurs de ses techniques, comme Mortal Strike et Spearing Strike, sont meilleures en PvP qu’en PvE."
   - q: "Comment fonctionne Bloodthrill ?"
-    a: "Bloodthrill est nouveau : vos attaques de main droite contre une cible avec votre Rend ont 20 % de chances à 5/5 de rendre Overpower utilisable. C’est pourquoi Rend doit toujours tourner."
+    a: "Bloodthrill est nouveau : vos attaques de main droite contre une cible avec votre Rend ont 20 % de chances à 2/2 de rendre Overpower utilisable. C’est pourquoi Rend doit toujours tourner."
   - q: "Slam vaut-il le coup dans Forever ?"
-    a: "Oui, avec Improved Slam. À 2/2, Slam n’interrompt plus votre coup, son incantation et son temps de recharge global sont plus courts et son temps de recharge baisse de 3 secondes, ce qui en fait un remplissage presque instantané."
+    a: "Oui, avec Improved Slam. À 2/2, Slam n’interrompt plus votre coup, son incantation et son temps de recharge global sont plus courts et son temps de recharge baisse de 5 secondes, ce qui en fait un remplissage presque instantané."
   - q: "Quand un Arms Warrior obtient-il Mortal Strike ?"
     a: "Mortal Strike est le dernier talent de l’arbre Arms et demande 30 points dedans, donc niveau 39 au plus tôt, ou quelques niveaux avant avec Talented du système Legacy."
   - q: "Quelle race choisir pour un Arms Warrior ?"
@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
+> **Mise à jour du 4 novembre :** les builds et talents ci-dessous suivent les nouveaux arbres des notes de développement du 2 novembre, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/).
 
 L’Arms Warrior de WoW Forever manie une grande arme lente. Rend continue de saigner, Overpower s’allume encore et encore, et chaque coup arrache un morceau visible à l’ennemi. Beaucoup de ses talents penchent vers le PvP, ce qui fait d’Arms le choix naturel pour les champs de bataille. Ce guide couvre le build niveau 30, la rotation, Rend et Overpower, la Rage, les stats, les armes et les races.
 
@@ -39,10 +39,10 @@ L’Arms Warrior de WoW Forever manie une grande arme lente. Rend continue de sa
 
 ## Ce qui change pour Arms
 
-- **Bloodthrill est nouveau.** Les attaques de main droite sur une cible avec votre Rend ont 20 % de chances de rendre Overpower utilisable, à 5/5.
+- **Bloodthrill est nouveau.** Les attaques de main droite sur une cible avec votre Rend ont 20 % de chances de rendre Overpower utilisable, à 2/2.
 - **Improved Rend** donne à Rend 35 % de dégâts de saignement en plus à 3/3.
-- **Improved Slam fait bien plus.** Incantation et temps de recharge global plus courts, coup non interrompu et temps de recharge réduit de 3 secondes.
-- **Spearing Strike est nouveau.** 40 % des dégâts de l’arme, et 80 % de plus contre les Géants, les Draconiens et les cibles montées, qu’il fait descendre de leur monture.
+- **Improved Slam fait bien plus.** Incantation et temps de recharge global plus courts, coup non interrompu et temps de recharge réduit de 5 secondes.
+- **Spearing Strike est nouveau.** 75 % des dégâts de l’arme, et 75 % de plus contre les Géants, les Draconiens et les cibles montées, qu’il fait descendre de leur monture.
 - **Impale** augmente maintenant de 20 % le bonus de dégâts critiques de vos techniques à 2/2.
 - **Weaponmaster est nouveau.** Un bonus par type d’arme : critiques avec haches et armes d’hast, pénétration d’armure avec masses et bâtons, attaques en plus avec épées.
 
@@ -56,20 +56,20 @@ L’Arms Warrior de WoW Forever manie une grande arme lente. Rend continue de sa
 
 ## Le build niveau 30
 
-Ce build utilise 26 points : les 21 points du niveau 30 plus 5 de Talented dans le système Legacy. Sans Talented, arrêtez-vous à 21 points ; le [build de leveling du Warrior](/fr/leveling/warrior/) donne l’ordre par niveau. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=323202031224101).
+Ce build utilise 26 points : les 21 points du niveau 30 plus 5 de Talented dans le système Legacy. Sans Talented, arrêtez-vous à 21 points ; le [build de leveling du Warrior](/fr/leveling/warrior/) donne l’ordre par niveau. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=333202031322101).
 
 | Talent | Points |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
-| **Deflection** | 2/5 |
+| **Deflection** | 3/5 |
 | **Improved Rend** | 3/3 |
 | **Improved Charge** | 2/2 |
 | **Improved Overpower** | 2/2 |
 | **Deep Wounds** | 3/3 |
 | **Spearing Strike** | 1/1 |
-| **Two-Handed Weapon Specialization** | 2/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
 | **Impale** | 2/2 |
-| **Bloodthrill** | 4/5 |
+| **Bloodthrill** | 2/2 |
 | **Sweeping Strikes** | 1/1 |
 | **Improved Slam** | 1/2 |
 
@@ -86,7 +86,7 @@ Après le niveau 30 viennent Weaponmaster et Mortal Strike en bas de l’arbre.
 | **Bloodthrill** | Des procs d’Overpower sur les coups de main droite contre les cibles avec votre Rend |
 | **Improved Slam** | Fait de Slam un remplissage presque instantané qui ne réinitialise pas votre coup |
 | **Impale** | 20 % de bonus de dégâts critiques en plus pour vos techniques |
-| **Two-Handed Weapon Specialization** | 3 % de dégâts en plus avec les armes à deux mains à 3/3 |
+| **Two-Handed Weapon Specialization** | 6 % de dégâts en plus avec les armes à deux mains à 3/3 |
 | **Mortal Strike** | L’une de vos attaques les plus fortes en toute situation. Après le niveau 30 |
 | **Weaponmaster** | Un bonus par type d’arme. Après le niveau 30 |
 

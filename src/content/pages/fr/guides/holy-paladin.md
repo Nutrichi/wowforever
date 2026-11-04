@@ -3,7 +3,7 @@ title: "Holy Paladin dans WoW Forever : le guide"
 metaTitle: "WoW Forever Holy Paladin : build de soins, sorts et mana"
 description: "Le Holy Paladin dans WoW Forever : le build de soins niveau 30 et sa version Talented, Holy Shock et Light's Vigil, la priorité de soins, le mana, les sceaux, les stats et les races."
 short: "Holy Paladin"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: fr
 manual: true
 faq:
@@ -30,8 +30,8 @@ Le Holy Paladin de WoW Forever est le soigneur le plus simple du jeu. Vous lance
 | | |
 |---|---|
 | Rôle | Soigneur, surtout mono-cible |
-| Build niveau 30 | 21 points en Holy, Talented ajoute Healing Light, Purifying Power, Divine Precision et Holy Power |
-| Talents clés | Divine Intellect, Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
+| Build niveau 30 | 21 points en Holy, Talented ajoute Purifying Power, Boundless Light et Holy Power |
+| Talents clés | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Points forts | Gros soins, utilité de groupe, très difficile à tuer |
 | Points faibles | Surtout réactif, un seul soin de groupe |
 | Montée en niveau | [Guide de leveling du Paladin](/fr/guides/paladin-leveling/), [build de leveling du Paladin](/fr/leveling/paladin/) |
@@ -48,20 +48,20 @@ Le Holy Paladin de WoW Forever est le soigneur le plus simple du jeu. Vous lance
 
 ## Le build niveau 30
 
-La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented, du système Legacy, en ajoute 5. [Ouvrir le build dans le calculateur de talents](/fr/talents/paladin/?t=05220003025101).
+La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented, du système Legacy, en ajoute 5. [Ouvrir le build dans le calculateur de talents](/fr/talents/paladin/?t=50320015022001).
 
 | Talent | Points |
 |---|---|
-| **Divine Intellect** | 5/5 |
-| **Healing Light** | 2/3 |
-| **Spiritual Focus** | 2/2 |
-| **Reverence** | 3/3 |
-| **Infusion of Light** | 2/2 |
-| **Illumination** | 5/5 |
+| **Spiritual Focus** | 5/5 |
+| **Healing Light** | 3/3 |
+| **Reverence** | 2/2 |
 | **Divine Favor** | 1/1 |
+| **Illumination** | 5/5 |
+| **Divine Precision** | 2/2 |
+| **Infusion of Light** | 2/2 |
 | **Holy Shock** | 1/1 |
 
-[Ouvrir la version Talented](/fr/talents/paladin/?t=0532000322511101) avec Healing Light 3/3, Purifying Power 2/2, Divine Precision 1/3 et Holy Power 1/5.
+[Ouvrir la version Talented](/fr/talents/paladin/?t=5032021502200121) avec Purifying Power 2/2, Boundless Light 2/2 et Holy Power 1/5.
 
 ![Le build Talented du Holy Paladin dans notre calculateur de talents](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
 
@@ -71,7 +71,6 @@ Holy Shock est au cinquième rang et demande 20 points au-dessus. Avec 21 points
 
 | Talent | Ce qu'il fait dans Forever |
 |---|---|
-| **Divine Intellect** | 10 % d'Intelligence en plus |
 | **Healing Light** | Holy Light, Flash of Light et Holy Shock soignent 12 % de plus |
 | **Spiritual Focus** | 70 % de chances de ne pas perdre de temps d'incantation quand vous subissez des dégâts, pour Flash of Light, Holy Light et Light's Vigil |
 | **Reverence** | 30 % de votre régénération de mana continue pendant l'incantation |
@@ -79,7 +78,7 @@ Holy Shock est au cinquième rang et demande 20 points au-dessus. Avec 21 points
 | **Infusion of Light** | Un Holy Shock ou un Flash of Light critique rend votre prochain Holy Light 1 seconde plus rapide |
 | **Illumination** | Un soin critique rend un mana égal à 50 % du coût de base du sort |
 | **Divine Favor** | Votre prochain Flash of Light, Holy Light ou Holy Shock est critique |
-| **Divine Precision** | 18 % de chances de toucher en plus avec les sorts du Sacré, pour que Judgement et Holy Shock portent |
+| **Divine Precision** | 8 % de chances de toucher en plus avec les sorts du Sacré, pour que Judgement et Holy Shock portent |
 | **Holy Shock** | Une décharge instantanée de dégâts du Sacré sur un ennemi, ou un soin instantané sur un allié |
 | **Holy Power** | 15 % de chances de critique en plus pour Holy Shock et Holy Strike, 5 % pour tous les autres sorts |
 | **Light's Vigil** | Votre prochain Holy Shock sur la cible n'a pas de temps de recharge et soigne tout son groupe |

@@ -3,7 +3,7 @@ title: "Discipline Priest guide for WoW Forever"
 metaTitle: "WoW Forever Discipline Priest: 31/20/0 build, Penance and stats"
 description: "The Discipline Priest in WoW Forever: the 31/20/0 build for level 60, Penance, Divine Aegis, Renewed Hope and Power Infusion, tank healing, mana, stats and races."
 short: "Discipline Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: en
 faq:
   - q: "Is Discipline Priest good in WoW Forever?"
@@ -55,7 +55,7 @@ The Discipline Priest in WoW Forever shields and heals, with Penance as a new bu
 
 ## The level 60 build (31/20/0)
 
-This build uses all 51 points of level 60: 31 in Discipline up to Power Infusion and 20 in Holy for Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing and Binding Heal. [Open the build in the talent calculator](/talents/priest/?t=005005031330011531-035050030301).
+This build uses all 51 points of level 60: 31 in Discipline up to Power Infusion and 20 in Holy for Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing. [Open the build in the talent calculator](/talents/priest/?t=005005031330011531-035050030301).
 
 | Talent | Points |
 |---|---|
@@ -75,7 +75,7 @@ This build uses all 51 points of level 60: 31 in Discipline up to Power Infusion
 | **Divine Fury** | 5/5 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 
 ![The 31/20/0 Discipline Priest build in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-discipline-priest-build.jpg)
 
@@ -104,13 +104,13 @@ A healer has no fixed rotation. You respond to the damage that comes in and to y
 - Renew on a tank that takes steady damage.
 - Power Word: Shield on the tank before a big hit, and on yourself against pushback.
 - Penance to put a lot of health back at once.
-- Flash Heal or Binding Heal when the tank needs health fast.
+- Flash Heal when the tank needs health fast.
 - Greater Heal with Inner Focus when you know a big hit is coming.
 
 **Healing the group**
 - Renew on as many targets as possible that take steady damage.
 - Shields on whoever is about to take a big hit. A shield on a caster also keeps them from being pushed back.
-- Flash Heal or Binding Heal to top up targets one after the other.
+- Flash Heal to top up targets one after the other.
 - Greater Heal with Inner Focus for big gaps.
 
 **Cooldowns and utility**

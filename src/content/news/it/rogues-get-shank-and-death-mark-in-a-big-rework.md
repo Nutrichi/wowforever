@@ -66,4 +66,4 @@ Blizzard ha anche corretto Hemorrhage e Ghostly Strike, che colpivano troppo for
 
 ## Cosa cambia per le nostre guide
 
-I nuovi alberi sono ora nel nostro [calcolatore dei talenti](/it/talents/rogue/). Le guide per [Assassination](/it/guides/assassination-rogue/), [Combat](/it/guides/combat-rogue/), [Subtlety](/it/guides/subtlety-rogue/) e il [livellamento del Rogue](/it/guides/rogue-leveling/) non li seguono ancora ovunque. Le aggiorneremo a breve.
+I nuovi alberi sono ora nel nostro [calcolatore dei talenti](/it/talents/rogue/). Le guide per [Assassination](/it/guides/assassination-rogue/), [Combat](/it/guides/combat-rogue/), [Subtlety](/it/guides/subtlety-rogue/) e il [livellamento del Rogue](/it/guides/rogue-leveling/) li seguono dal 4 novembre.

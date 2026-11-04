@@ -3,7 +3,7 @@ title: "Shaman leveling guide for WoW Forever"
 metaTitle: "WoW Forever Shaman leveling: Enhancement, Elemental and Resto"
 description: "How to level a Shaman in WoW Forever: the early rotation, level 30 builds for Enhancement, Elemental and Restoration, key levels, the totem quests, Call of Air weapons, zones and totems."
 short: "Shaman leveling"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: en
 faq:
   - q: "What is the best spec to level a Shaman in WoW Forever?"
@@ -11,7 +11,7 @@ faq:
   - q: "Do Shamans still need totem items in their bags?"
     a: "Yes. The class quests at levels 4, 10, 20 and 30 give you the Earth, Fire, Water and Air Totem, and those items must stay in your bags to cast totems of that element."
   - q: "Can Shamans still twist totems?"
-    a: "No. Totem twisting is gone in Forever. In return, Call of the Elements places four saved totems with one button, and Totemic Projection and Totemic Recall move or pick up your totems."
+    a: "No. Totem twisting is gone in Forever. In return, Call of the Elements places four saved totems with one button, and Totemic Call and Totemic Recall bring your totems to you or pick them up."
   - q: "Is Ghost Wolf better in Forever?"
     a: "Yes. With Improved Ghost Wolf in Enhancement it is instant and works indoors, so you can use it in combat and in dungeons."
   - q: "Which weapon does a Shaman get at level 30?"
@@ -24,14 +24,14 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot: Lava Burst is removed, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/).
 
-The Shaman in WoW Forever is a welcome sight in every group: strong totem buffs, an instant Ghost Wolf with Improved Ghost Wolf, and three specs that each work. You can be a melee spellblade, a caster who throws lightning and lava, or a healer. This guide covers the early rotation, a level 30 build for each spec, the key levels, the totem quests, the Call of Air weapons, zones, gear, totems and mana.
+The Shaman in WoW Forever is a welcome sight in every group: strong totem buffs, an instant Ghost Wolf with Improved Ghost Wolf, and three specs that each work. You can be a melee spellblade, a caster who throws lightning and fire, or a healer. This guide covers the early rotation, a level 30 build for each spec, the key levels, the totem quests, the Call of Air weapons, zones, gear, totems and mana.
 
 | | |
 |---|---|
 | Easiest spec for leveling | Enhancement, with Windfury Weapon from level 30 |
-| Key talents | Thundering Strikes, Mental Dexterity, Improved Ghost Wolf, Flurry, Stormstrike, Lava Burst |
+| Key talents | Thundering Strikes, Mental Dexterity, Flurry, Stormstrike, Call of Thunder |
 | Strength | Totem buffs, self-healing, fast travel with Ghost Wolf, can tank low dungeons as Enhancement |
 | Weakness | Mana, little crowd control |
 | Talent order per level | [Shaman level build](/leveling/shaman/) |
@@ -60,24 +60,24 @@ Stoneclaw Totem and Earthbind Totem help when a pull goes wrong. Stats early on:
 
 ## Level 30 Enhancement build
 
-The strongest leveling build, and it scales into the endgame. Totem twisting is gone, which makes the rotation simpler. [Open the build in the talent calculator](/talents/shaman/?t=-0500321310051).
+The strongest leveling build, and it scales into the endgame. Totem twisting is gone, which makes the rotation simpler. [Open the build in the talent calculator](/talents/shaman/?t=-052031310051).
 
 | Talent | Points |
 |---|---|
 | **Thundering Strikes** | 5/5 |
+| **Ancestral Knowledge** | 2/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Ghost Wolf** | 2/2 |
 | **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
 
-[Open the Talented version](/talents/shaman/?t=-05003213100510221) with Mental Quickness 2/2, Improved Stormstrike 2/2 and Maelstrom Weapon 1/5.
+[Open the Talented version](/talents/shaman/?t=-05203131005100221) with Mental Quickness 2/2, Improved Stormstrike 2/2 and Maelstrom Weapon 1/5.
 
 ![The Talented Enhancement Shaman build in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
 
-Mental Dexterity turns your Intellect into attack power, and Mental Quickness turns it into spell damage, so Intellect is worth more than you would expect. Improved Ghost Wolf makes Ghost Wolf instant and usable indoors.
+Mental Dexterity turns your Intellect into attack power, and Mental Quickness turns it into spell damage, so Intellect is worth more than you would expect. Improved Ghost Wolf, which makes Ghost Wolf instant and usable indoors, sits in the fourth row since 2 November and does not fit in this build.
 
 1. Keep Lightning Shield and Windfury Weapon up.
 2. Keep Searing Totem and Strength of Earth Totem down in combat.
@@ -102,7 +102,7 @@ For a pure caster at range. [Open the build in the talent calculator](/talents/s
 | **Elemental Focus** | 1/1 |
 | **Trial by Fire** | 2/2 |
 | **Eye of the Storm** | 3/3 |
-| **Lava Burst** | 1/1 |
+| **Call of Thunder** | 1/1 |
 
 [Open the Talented version](/talents/shaman/?t=350033102301131) with Elemental Reach 1/2, Lightning Overload 3/3 and Elemental Fury 1/5.
 
@@ -110,11 +110,10 @@ For a pure caster at range. [Open the build in the talent calculator](/talents/s
 
 1. Keep Lightning Shield up.
 2. Keep Searing Totem down for one target, Magma Totem for several, and Mana Spring Totem if you stay in one place long enough.
-3. Pull with Lava Burst.
-4. Cast Flame Shock right as Lava Burst finishes: the instant shock lands before the slower lava, and Lava Burst then deals more damage to the burning target.
+3. Pull with Lightning Bolt.
+4. Cast Flame Shock.
 5. Keep Flame Shock on the target.
-6. Cast Lava Burst on cooldown.
-7. Fill with Lightning Bolt.
+6. Fill with Lightning Bolt.
 
 Stats: spell damage and Intellect, then critical strike chance, then Stamina and Spirit, then armor.
 
@@ -154,12 +153,12 @@ From the trainer unless noted. With Talented from the Legacy system, talents com
 | 16 | Cure Poison |
 | 18 | Tremor Totem |
 | 20 | Ghost Wolf, Frost Shock, Frostbrand Weapon, Lesser Healing Wave, Call of the Elements, Totemic Recall; Healing Stream Totem from the Water quest; Water Shield (talent) |
-| 22 | Totemic Projection, Cure Disease, Poison Cleansing Totem |
+| 22 | Totemic Call, Cure Disease, Poison Cleansing Totem |
 | 24 | Frost Resistance Totem |
 | 25 | Stormstrike and Mana Tide Totem (talents) |
 | 26 | Magma Totem, Mana Spring Totem |
 | 28 | Fire Resistance Totem, Flametongue Totem |
-| 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation; Lava Burst and Nature's Swiftness (talents) |
+| 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation; Call of Thunder and Nature's Swiftness (talents) |
 | 32 | Chain Lightning, Windfury Totem |
 | 40 | Chain Heal, Call of the Spirits, Dual Spec |
 
@@ -254,7 +253,7 @@ Only drop the totems that help right now: every totem costs mana and a global co
 | Healing Stream Totem | Heals a little, again and again |
 | Mana Spring Totem | Restores mana to your group |
 
-Call of the Elements places a saved set of four totems with one button. Totemic Projection moves them and Totemic Recall takes them back.
+Call of the Elements places a saved set of four totems with one button. Totemic Call brings them to you and Totemic Recall takes them back.
 
 ## Movement and mana
 

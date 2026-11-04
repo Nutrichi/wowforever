@@ -3,18 +3,18 @@ title: "Feral Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Feral Druid: cat- en bearbuilds, rotatie, stats"
 description: "De Feral Druid in WoW Forever: vier builds voor level 60 (hybride, cat, bear en solo), Shifting Power en Primal Bite, de rotaties als cat en bear, stats en races."
 short: "Feral Druid"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
   - q: "Kan een Feral Druid met één build tanken en schade doen?"
-    a: "Ja. De hybride build 9/42/0 heeft alles voor beide rollen: Thick Hide en Primal Bite voor de bear, Shredding Attacks en Shifting Power voor de cat. Je kunt zelfs midden in een gevecht van rol wisselen."
+    a: "Ja. De hybride build 9/37/5 heeft alles voor beide rollen: Thick Hide en Primal Bite voor de bear, Shredding Attacks en Shifting Power voor de cat. Je kunt zelfs midden in een gevecht van rol wisselen."
   - q: "Werkt powershifting nog in WoW Forever?"
     a: "Nee. Naar Cat Form shiften vult je Energy niet meer bij. Furor geeft nu de Energy terug die je had toen je Cat Form verliet, plus 10 Energy per seconde buiten Bear Form, dus blijf zoveel mogelijk in één vorm. Shifting Power neemt die rol over: het zet mana om in 40 Energy."
   - q: "Wat doet Shifting Power?"
-    a: "Het zet meteen 55% van je basismana om in 40 Energy, zonder Cat Form te verlaten. Gebruik het als je onder 50 Energy zit. Improved Shifting Power verlaagt de cooldown met 8 seconden."
+    a: "Het zet meteen 55% van je basismana om in 40 Energy, zonder Cat Form te verlaten. Gebruik het als je onder 50 Energy zit."
   - q: "Wat is Primal Bite?"
-    a: "Een nieuwe aanval als bear met een korte cooldown, die wapenschade en veel threat doet. Met Berserk raakt hij tot 3 doelwitten zonder cooldown, en dat is je knop voor threat op een groep."
+    a: "Een nieuwe aanval als bear met een korte cooldown, die wapenschade en veel threat doet."
   - q: "Welke stats heeft een Feral Druid nodig?"
     a: "Als cat: Hit, dan Expertise, dan Crit, Agility, Strength en attack power. Als bear ook Defense, Dodge, armor en Stamina, want een Druid kan niet blocken of parryen."
   - q: "Welk ras is het beste voor een Feral Druid?"
@@ -30,8 +30,8 @@ De Feral Druid in WoW Forever is twee specs in één: een cat die melee-schade d
 | | |
 |---|---|
 | Rol | Melee-schade in Cat Form, tank in Bear Form |
-| Builds voor level 60 | Hybride 9/42/0, Cat 9/40/2, Bear 9/42/0, Solo 0/35/16 |
-| Belangrijkste talenten | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Berserk, Nature's Reach |
+| Builds voor level 60 | Hybride 9/37/5, Cat 9/37/5, Bear 9/37/5, Solo 0/35/16 |
+| Belangrijkste talenten | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Nature's Reach |
 | Sterk in | Twee rollen in één, Leader of the Pack, het snelste personage binnen en buiten |
 | Zwak in | Schade van een hybride, drie resources om te volgen, moeilijk te beheersen |
 | Andere gidsen voor de Druid | [Druid levelen](/nl/guides/druid-leveling/), [Balance Druid](/nl/guides/balance-druid/), [Restoration Druid](/nl/guides/restoration-druid/) |
@@ -52,44 +52,48 @@ De Feral Druid in WoW Forever is twee specs in één: een cat die melee-schade d
 
 Alle vier gebruiken 51 punten, het volledige aantal talentpunten van level 60. Elke build neemt 9 punten in Balance voor Genesis 5/5, Nature's Majesty 2/2 en Nature's Reach 2/2, behalve de soloversie.
 
-### Hybride, 9/42/0
+### Hybride, 9/37/5
 
-Cat en bear in één build, voor groepen in de endgame die om een van beide rollen vragen. [Open de build in de talentcalculator](/nl/talents/druid/?t=050022-35230332121132212051).
+Cat en bear in één build, voor groepen in de endgame die om een van beide rollen vragen. [Open de build in de talentcalculator](/nl/talents/druid/?t=050022-50230232123112125011-05).
 
 | Talent | Punten |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a>** | 3/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a>** | 5/5 |
+| **Genesis** | 5/5 |
+| **Nature's Majesty** | 2/2 |
+| **Nature's Reach** | 2/2 |
+| **Ferocity** | 5/5 |
 | **Feral Swiftness** | 2/2 |
 | **Feral Instinct** | 3/3 |
-| **Thick Hide** | 3/3 |
+| **Thick Hide** | 2/3 |
 | **Shredding Attacks** | 3/3 |
 | **Savage Fury** | 2/2 |
 | **Feral Charge** | 1/1 |
 | **Sharpened Claws** | 2/2 |
-| **Shifting Power** | 1/1 |
-| **Primal Bite** | 1/1 |
 | **Predatory Strikes** | 3/3 |
+| **Lacerate** | 1/1 |
+| **Predatory Discipline** | 1/1 |
 | **Blood Frenzy** | 2/2 |
-| **Improved Shifting Power** | 2/2 |
 | **Leader of the Pack** | 1/1 |
 | **Natural Instinct** | 2/2 |
 | **Rend and Tear** | 5/5 |
-| **Berserk** | 1/1 |
+| **Primal Bite** | 1/1 |
+| **Lacerate** | Nieuw talent in Feral Combat, sinds de hotfix |
+| **Shifting Power** | 1/1 |
+| **Heart of the Wild** | 5/5 |
 
-![De hybride build 9/42/0 van de Feral Druid in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
+![De hybride build 9/37/5 van de Feral Druid in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
 
-### Cat, 9/40/2
+### Cat, 9/37/5
 
-Voor een Druid die nooit tankt. [Open de build in de talentcalculator](/nl/talents/druid/?t=050022-55230032121032212051-02). Tegenover de hybride build: Ferocity 5/5 in plaats van 3/5, geen Thick Hide en geen Primal Bite, en Furor 2/5 in Restoration.
+Voor een Druid die nooit tankt. [Open de build in de talentcalculator](/nl/talents/druid/?t=050022-53230032123112125001-05).
 
-### Bear, 9/42/0
+### Bear, 9/37/5
 
-Voor een Druid die alleen tankt, met meer Rage en overleving. [Open de build in de talentcalculator](/nl/talents/druid/?t=050022-55230302120132012451). Tegenover de hybride build: Ferocity 5/5 en Natural Reaction 4/5, geen Shredding Attacks, geen Shifting Power en geen Improved Shifting Power.
+Voor een Druid die alleen tankt, met meer Rage en overleving. [Open de build in de talentcalculator](/nl/talents/druid/?t=050022-5023030212310212541-05).
 
 ### Solo, 0/35/16
 
-Voor alleen questen en farmen: goedkopere shapeshifts en efficiënt jezelf helen, ten koste van wat prestaties in een groep. [Open de build in de talentcalculator](/nl/talents/druid/?t=-05230032121032212051-15503001001). Feral Combat zoals in de cat-build zonder Ferocity, en in Restoration Nature's Focus 1/5, Furor 5/5, Naturalist 5/5, Natural Shapeshifter 3/3, Gift of the Earthmother 1/1 en Swiftmend 1/1.
+Voor alleen questen en farmen: goedkopere shapeshifts en efficiënt jezelf helen, ten koste van wat prestaties in een groep. [Open de build in de talentcalculator](/nl/talents/druid/?t=-05231032123112125001-15513000001).
 
 ## Wat de belangrijkste talenten doen
 
@@ -104,9 +108,7 @@ Voor alleen questen en farmen: goedkopere shapeshifts en efficiënt jezelf helen
 | **Leader of the Pack** | 3% meer critical strike chance voor melee en ranged voor de party of raid binnen 45 yards |
 | **Natural Reaction** | 5% meer kans om te ontwijken en 5 Rage bij elke dodge |
 | **Rend and Tear** | 10% meer schade met melee-abilities op bloedende doelwitten |
-| **Berserk** | Primal Bite raakt tot 3 doelwitten zonder cooldown, 100% meer critical strike chance voor Combo Point-builders, en het haalt Fear weg en houdt het tegen |
 | **Furor** | 10 Rage als je naar Bear Form shift; Cat Form geeft de Energy terug die je had, plus 10 Energy per seconde buiten Bear Form |
-| **Gift of the Earthmother** | 0,5 seconden kortere global cooldown op Rejuvenation, Swiftmend en Wild Growth |
 
 Voor de soloversie: een snelle Rejuvenation en Swiftmend helen je op, en dan ga je terug in je vorm.
 

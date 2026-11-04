@@ -3,7 +3,7 @@ title: "Combat Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash builds to level 60"
 description: "The Combat Rogue in WoW Forever: Hack and Slash for every weapon type, a level 30 build and two level 60 builds (standard and daggers), Blade Flurry, Adrenaline Rush, Energy, poisons and races."
 short: "Combat Rogue"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: en
 faq:
   - q: "Is Combat Rogue good in WoW Forever?"
@@ -22,7 +22,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
 The Combat Rogue in WoW Forever deals huge damage with auto attacks and has a strong burst with Blade Flurry and Adrenaline Rush. Forever folds all old weapon specializations into one talent, Hack and Slash, so every weapon type now works. Poisons can land critical strikes and scale with attack power, and Combat is the only Rogue spec that can cleave. This guide covers a level 30 build, two level 60 builds, the rotation, Energy, poisons, stats and races.
 
@@ -49,63 +49,66 @@ The Combat Rogue in WoW Forever deals huge damage with auto attacks and has a st
 
 ## Level 30 build
 
-At level 30 you have 21 points, and Talented adds 5. The build is about surviving and killing quickly: Deflection and Riposte cut down your rests, Improved Eviscerate and your auto attacks do the damage. [Open the build in the talent calculator](/talents/rogue/?t=-3200332110141), [Talented version](/talents/rogue/?t=-32003321101415) with Hack and Slash 5/5. More in our [Rogue leveling guide](/guides/rogue-leveling/).
+At level 30 you have 21 points, and Talented adds 5. The build is about surviving and killing quickly: Deflection and Riposte cut down your rests, Coup de Grace and your auto attacks do the damage. [Open the build in the talent calculator](/talents/rogue/?t=-3200331210011301), [Talented version](/talents/rogue/?t=-32003312100113015) with Hack and Slash 5/5. More in our [Rogue leveling guide](/guides/rogue-leveling/).
 
 ## Level 60 standard build: 18/33/0
 
-The beta stopped at level 30, but the talent trees for level 60 are in the game files. We checked this build point for point in [our talent calculator](/talents/rogue/?t=005303124-32003321101515231). It goes all the way to Adrenaline Rush and takes Malice, Slice and Dice, Combo Points and Energy from Assassination.
+The beta stopped at level 30, but the talent trees for level 60 are in the game files. We checked this build point for point in [our talent calculator](/talents/rogue/?t=015323202-3200332210012321521). It goes all the way to Adrenaline Rush and takes Malice, Slice and Dice, Combo Points and Vigor for more Energy from Assassination.
 
 | Talent | Points |
 |---|---|
+| **Remorseless Attacks** (Assassination) | 1/2 |
 | **Malice** (Assassination) | 5/5 |
 | **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Relentless Strikes** (Assassination) | 1/1 |
 | **Improved Expose Armor** (Assassination) | 2/2 |
-| **Lethality** (Assassination) | 4/5 |
-| **Improved Eviscerate** | 3/3 |
-| **Improved Sinister Strike** | 2/2 |
+| **Improved Slice and Dice** (Assassination) | 3/3 |
+| **Vigor** (Assassination) | 2/2 |
+| **Lethality** (Assassination) | 2/2 |
+| **Coup de Grace** | 3/3 |
+| **Efficient Strikes** | 2/2 |
 | **Deflection** | 3/3 |
 | **Precision** | 3/3 |
+| **Improved Sprint** | 2/2 |
 | **Endurance** | 2/2 |
 | **Riposte** | 1/1 |
-| **Improved Sprint** | 1/2 |
 | **Flawless Execution** | 1/1 |
-| **Dual Wield Specialization** | 5/5 |
-| **Blade Flurry** | 1/1 |
-| **Hack and Slash** | 5/5 |
 | **Weapon Expertise** | 2/2 |
 | **Aggression** | 3/3 |
+| **Dual Wield Specialization** | 2/2 |
+| **Blade Flurry** | 1/1 |
+| **Hack and Slash** | 5/5 |
+| **Flash of Steel** | 2/5 |
 | **Adrenaline Rush** | 1/1 |
 
 ![The Combat Rogue standard build 18/33/0 in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-combat-rogue-build.jpg)
 
 ## Level 60 dagger build: 16/33/2
 
-The same path, but built around Backstab. [Open the build in the talent calculator](/talents/rogue/?t=005303122-32030320201515231-002). Puncturing Wounds and a second point in Improved Sprint replace Deflection and Riposte, Lethality drops to 2/5, and Opportunity 2/2 in Subtlety makes Backstab and Ambush hit harder.
+The same path, but built around Backstab. [Open the build in the talent calculator](/talents/rogue/?t=005323102-3023032200012321531-002). Puncturing Wounds replaces Deflection and Riposte, Lightning Reflexes replaces Efficient Strikes, which only makes Sinister Strike cheaper, and Opportunity 2/2 in Subtlety makes Backstab and Ambush hit harder.
 
 | Talent | Points |
 |---|---|
 | **Malice** (Assassination) | 5/5 |
 | **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Relentless Strikes** (Assassination) | 1/1 |
 | **Improved Expose Armor** (Assassination) | 2/2 |
-| **Lethality** (Assassination) | 2/5 |
-| **Improved Eviscerate** | 3/3 |
-| **Improved Sinister Strike** | 2/2 |
+| **Improved Slice and Dice** (Assassination) | 3/3 |
+| **Vigor** (Assassination) | 1/2 |
+| **Lethality** (Assassination) | 2/2 |
+| **Coup de Grace** | 3/3 |
+| **Lightning Reflexes** | 2/5 |
 | **Puncturing Wounds** | 3/3 |
 | **Precision** | 3/3 |
-| **Endurance** | 2/2 |
 | **Improved Sprint** | 2/2 |
+| **Endurance** | 2/2 |
 | **Flawless Execution** | 1/1 |
-| **Dual Wield Specialization** | 5/5 |
-| **Blade Flurry** | 1/1 |
-| **Hack and Slash** | 5/5 |
 | **Weapon Expertise** | 2/2 |
 | **Aggression** | 3/3 |
+| **Dual Wield Specialization** | 2/2 |
+| **Blade Flurry** | 1/1 |
+| **Hack and Slash** | 5/5 |
+| **Flash of Steel** | 3/5 |
 | **Adrenaline Rush** | 1/1 |
-| **Opportunity** (Subtlety) | 2/2 |
+| **Opportunity** (Subtlety) | 2/5 |
 
 If another player in your group already lowers armor, you can move the points in Improved Expose Armor elsewhere.
 
@@ -116,18 +119,20 @@ If another player in your group already lowers armor, you can move the points in
 | **Malice** | 5% more critical strike chance with attacks and poisons |
 | **Ruthlessness** | Finishing moves have a 60% chance to add a Combo Point |
 | **Improved Slice and Dice** | Slice and Dice lasts 45% longer |
-| **Relentless Strikes** | Finishing moves have a 20% chance per Combo Point to restore 25 Energy |
+| **Vigor** | 10 more maximum Energy |
 | **Lethality** | More critical strike damage for Sinister Strike, Gouge, Backstab and other generators |
 | **Improved Expose Armor** | Expose Armor costs 10 Energy less and gives 2 Combo Points back at 5 |
-| **Improved Eviscerate** | Eviscerate deals 20% more damage |
+| **Coup de Grace** | Eviscerate deals 20% more damage |
 | **Precision** | 3% more chance to hit |
 | **Riposte** | After a parry: 150% weapon damage and a 6 second disarm |
-| **Flawless Execution** | Eviscerate costs 10 Energy less |
-| **Dual Wield Specialization** | Your off-hand weapon deals 25% more damage |
+| **Flawless Execution** | Eviscerate costs 15 Energy less |
+| **Efficient Strikes** | Sinister Strike and Hemorrhage cost 5 Energy less |
+| **Dual Wield Specialization** | Your off-hand weapon deals 50% more damage at 2/2 |
 | **Hack and Slash** | Swords and axes: 5% chance for an extra swing. Daggers and fist weapons: more critical strike chance. Maces: 15% armor penetration |
 | **Blade Flurry** | 20% more attack speed, and your attacks also hit a nearby enemy, for 15 seconds |
 | **Weapon Expertise** | Your attacks are dodged and parried 2% less often |
-| **Aggression** | Sinister Strike, Backstab and Eviscerate deal 6% more damage |
+| **Aggression** | Sinister Strike and Eviscerate deal 15% more damage |
+| **Flash of Steel** | Shank gives up to 15 more Energy and its cooldown drops by up to 2 seconds |
 | **Adrenaline Rush** | Energy regenerates 100% faster for 15 seconds |
 
 ## Rotation
@@ -155,7 +160,7 @@ Sinister Strike stays your generator all the way to level 60, unless you play da
 
 ## Energy
 
-Energy now regenerates smoothly, 10 points per second. Adrenaline Rush doubles that to 20 per second for 15 seconds, and Thistle Tea gives a large amount back. Never use a generator at 5 Combo Points, do not finish with too few Combo Points, and do not spend Energy on Kick, Feint, Gouge or Blind without a reason.
+Energy now regenerates smoothly, 10 points per second. Adrenaline Rush doubles that to 20 per second for 15 seconds, and Thistle Tea gives a large amount back. Shank, from level 24, costs 5 Energy and gives 15 back every 10 seconds, so use it on cooldown. Never use a generator at 5 Combo Points, do not finish with too few Combo Points, and do not spend Energy on Kick, Feint, Gouge or Blind without a reason.
 
 ## Poisons
 

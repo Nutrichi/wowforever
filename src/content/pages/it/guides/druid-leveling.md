@@ -3,12 +3,12 @@ title: "Livellare un Druid in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Druid in WoW Forever: la build Feral dal 10 al 60"
 description: "Come livellare un Druid in WoW Forever: una build Feral con un talento per ogni livello dal 10 al 60, la rotazione, i livelli chiave, le missioni di classe per ogni forma, armi, idoli, professioni e cambio di forma."
 short: "Leveling Druid"
-updated: 2026-10-22
+updated: 2026-10-31
 lang: it
 manual: true
 faq:
   - q: "Qual è la spec migliore per livellare un Druid in WoW Forever?"
-    a: "Feral in Cat Form. Uccidi quasi senza pause per il mana, e Prowl, Dash e Feral Swiftness ti portano da una missione all'altra. La build di questa guida resta Feral fino in fondo: Feral Combat fino a Berserk al 40, poi Restoration per Furor, Natural Shapeshifter e Naturalist."
+    a: "Feral in Cat Form. Uccidi quasi senza pause per il mana, e Prowl, Dash e Feral Swiftness ti portano da una missione all'altra."
   - q: "Quando ottiene un Druid Bear Form e Cat Form?"
     a: "Bear Form arriva al livello 10 e Cat Form al livello 20, entrambe con una missione di classe. Aquatic Form segue al 16, sempre con una missione, e Travel Form viene semplicemente dall'istruttore al livello 30."
   - q: "Un Druid può bere pozioni in una forma?"
@@ -30,7 +30,7 @@ Il Druid in WoW Forever sa fare quasi tutto: tankare da orso, fare danni da gatt
 | | |
 |---|---|
 | Spec più facile per livellare | Feral, in Cat Form |
-| Talenti chiave | Ferocity, Feral Charge, Shifting Power, Leader of the Pack, Berserk |
+| Talenti chiave | Ferocity, Feral Charge, Shifting Power, Leader of the Pack |
 | Punti di forza | Mobilità, Stealth, si cura da solo, può tankare e curare |
 | Punti deboli | Partenza lenta prima di Cat Form, mana per ogni cambio di forma |
 | Talento per livello | [Build di leveling del Druid](/it/leveling/druid/) |
@@ -61,25 +61,25 @@ Statistiche a questi livelli: Intellect e danni magici, poi Stamina e Spirit, po
 
 ## La build Feral dal 10 al 60
 
-Una sola build per gatto e orso insieme, con un talento per livello. Fino al livello 39 ogni punto va in Feral Combat; Berserk arriva al 40, e dal 41 i punti vanno in Restoration. [Apri la build al livello 60 nel calcolatore di talenti](/it/talents/druid/?t=-55232032121102212001-05503101001), oppure seguila livello per livello nella [build di leveling del Druid](/it/leveling/druid/).
+Una sola build per gatto e orso insieme, con un talento per livello. [Apri la build al livello 60 nel calcolatore di talenti](/it/talents/druid/?t=-55232032120112120011-05533000001), oppure seguila livello per livello nella [build di leveling del Druid](/it/leveling/druid/).
 
 | Livelli | Talenti |
 |---|---|
-| **10 a 14** | 5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a> |
+| **10 a 14** | 5 Ferocity |
 | **15 a 19** | 3 Feral Instinct, 2 Feral Swiftness |
 | **20 a 24** | 1 Feral Charge, 2 Savage Fury, 2 Shredding Attacks |
-| **25 a 29** | 1 Primal Bite, 1 Shredding Attacks, 1 Shifting Power, 2 Sharpened Claws |
+| **25 a 29** | 1 Shredding Attacks, 2 Sharpened Claws, 1 Lacerate, 1 Predatory Discipline |
 | **30 a 34** | 1 Leader of the Pack, 2 Natural Instinct, 2 Blood Frenzy |
-| **35 a 39** | 2 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16940"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brutal Impact</a>, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
-| **40 a 44** | 1 Berserk, 4 Furor |
-| **45 a 49** | 1 Furor, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16833"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Natural Shapeshifter</a>, 1 Improved Shifting Power |
-| **50 a 54** | 1 Improved Shifting Power, 4 Naturalist |
-| **55 a 59** | 1 Naturalist, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17106"><img class="wf-wh__icon" src="/wh/spell_frost_windwalkon.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reflection</a>, 1 Gift of the Earthmother, 1 Swiftmend, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
-| **60** | 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
+| **35 a 39** | 5 Furor |
+| **40 a 44** | 1 Primal Bite, 1 Shifting Power, 2 Brutal Impact, 1 Heart of the Wild |
+| **45 a 49** | 4 Heart of the Wild, 1 Natural Shapeshifter |
+| **50 a 54** | 2 Natural Shapeshifter, 3 Naturalist |
+| **55 a 59** | 2 Naturalist, 3 Reflection |
+| **60** | 1 Swiftmend |
 
-Al livello 30 la build appare [così nel calcolatore](/it/talents/druid/?t=-5023003212110001).
+Al livello 30 la build appare [così nel calcolatore](/it/talents/druid/?t=-502300321201101).
 
-**Fino al 30** la build riduce il costo dei tuoi attacchi, ti rende più veloce e più difficile da notare in Prowl, e dà Feral Charge, Primal Bite e Shifting Power. **Dal 30** Leader of the Pack, Natural Instinct e Blood Frenzy aumentano i tuoi colpi critici e ciò che restituiscono. **Al 40** Berserk fa colpire a Primal Bite fino a tre mostri, senza tempo di recupero. **In Restoration** Furor ti restituisce l'Energy quando torni in Cat Form, Natural Shapeshifter rende ogni cambio di forma più economico del 30%, e Naturalist aggiunge il 5% a tutti i tuoi danni.
+**Fino al livello 30** la build riduce il costo degli attacchi, ti rende più veloce e difficile da vedere in Prowl, e dà Feral Charge, Lacerate e Leader of the Pack. **Dal 30** Natural Instinct e Blood Frenzy aumentano ciò che i critici restituiscono, e Furor rende utile cambiare forma. **Al 40** Primal Bite e Shifting Power si aprono nell'ultima riga. **In Restoration** Heart of the Wild, Natural Shapeshifter e Naturalist completano la build.
 
 **Da gatto:**
 
@@ -126,16 +126,16 @@ Statistiche da qui in poi: Strength, Agility e Attack Power, poi Stamina, Intell
 | 20 | Feral Charge, Savage Fury, Shredding Attacks | Albero dei talenti |
 | 22 | Soothe Animal | Istruttore di classe |
 | 24 | Rake, Remove Curse | Istruttore di classe |
-| 25 | Primal Bite, Shifting Power, Sharpened Claws | Albero dei talenti |
+| 25 | Sharpened Claws, Lacerate, Predatory Discipline | Albero dei talenti |
 | 26 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a>, Abolish Poison | Istruttore di classe |
 | 28 | Cower, Challenging Roar | Istruttore di classe |
 | 30 | Travel Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=740"><img class="wf-wh__icon" src="/wh/spell_nature_tranquility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquility</a> | Istruttore di classe |
 | 30 | Leader of the Pack, Natural Instinct, Blood Frenzy | Albero dei talenti |
 | 32 | Ferocious Bite, Ravage, Track Humanoids | Istruttore di classe |
 | 36 | Pounce, Frenzied Regeneration | Istruttore di classe |
-| 40 | Dire Bear Form, Hurricane, Innervate, Feline Grace | Istruttore di classe |
-| 40 | cavalcature, Dual Specialization | Istruttori |
-| 40 | Berserk, Furor | Albero dei talenti |
+| 40 | Primal Bite, Shifting Power, Brutal Impact | Istruttore di classe |
+| 40 | Primal Bite, Shifting Power, Brutal Impact | Istruttori |
+| 40 | Primal Bite, Shifting Power, Brutal Impact | Albero dei talenti |
 | 42 | Lacerate | Istruttore di classe |
 | 44 | Barkskin | Istruttore di classe |
 
@@ -205,7 +205,7 @@ Forever toglie molti attriti. Pozioni, incantamenti dell'arma ed effetti a innes
 
 Cambiare forma libera ancora da immobilizzazioni e rallentamenti. Fallo invece di aspettare che un root finisca. Esci dalla forma per curarti o per un incantesimo che funziona solo fuori forma.
 
-**Il powershifting non c'è più.** Con cinque punti, Furor restituisce l'Energy che avevi l'ultima volta che hai lasciato Cat Form, più 10 Energy al secondo fuori da Bear Form, fino a 100. Uscire e rientrare in fretta quindi non dà nulla. Il talento Shifting Power trasforma invece il mana in 40 Energy, con un tempo di recupero di 16 secondi, o 8 con Improved Shifting Power. Di più in [questo post](/it/news/shifting-power-replaces-powershifting-for-ferals/).
+**Il powershifting non c'è più.** Con cinque punti, Furor restituisce l'Energy che avevi l'ultima volta che hai lasciato Cat Form, più 10 Energy al secondo fuori da Bear Form, fino a 100. Uscire e rientrare in fretta quindi non dà nulla. Di più in [questo post](/it/news/shifting-power-replaces-powershifting-for-ferals/).
 
 ## Stealth e movimento
 

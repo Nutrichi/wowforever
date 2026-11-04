@@ -3,7 +3,7 @@ title: "Shadow Priest in WoW Forever: de gids"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34-build, rotatie en stats"
 description: "De Shadow Priest in WoW Forever: de build 14/3/34 voor level 60, Improved Mind Flay en Vampiric Embrace, de DoT-rotatie, Shadowform, mana, stats en races."
 short: "Shadow Priest"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:

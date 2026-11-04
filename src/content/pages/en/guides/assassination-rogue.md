@@ -1,17 +1,17 @@
 ---
 title: "Assassination Rogue guide for WoW Forever"
-metaTitle: "WoW Forever Assassination Rogue: Mutilate builds, poisons and rotation"
-description: "The Assassination Rogue in WoW Forever: Mutilate and Venom, two level 30 builds for solo and Improved Expose Armor, the rotation, Energy, poisons, stats and races."
+metaTitle: "WoW Forever Assassination Rogue: poison builds, Venom and rotation"
+description: "The Assassination Rogue in WoW Forever: Venom and Shank, Mutilate from level 40, two level 30 builds for solo and Improved Expose Armor, the rotation, Energy, poisons and races."
 short: "Assassination Rogue"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: en
 faq:
   - q: "Is Assassination Rogue good in WoW Forever?"
-    a: "Yes. Mutilate and Venom turned Assassination into a real dagger spec with very strong poison damage. Poisons can now land critical strikes and scale with attack power, so the spec scales well with gear and levels. It has a busy rotation and needs good gear to shine."
+    a: "Yes. Venom and Shank put poisons at the heart of the spec, and Mutilate gives daggers their own generator from level 40. Poisons can now land critical strikes and scale with attack power, so the spec scales well with gear and levels. It has a busy rotation and needs good gear to shine."
   - q: "What does Mutilate do?"
-    a: "Mutilate is a new talent: an instant attack with both weapons for 75% weapon damage plus a bonus, 20% stronger against poisoned targets, that gives 2 Combo Points. It needs daggers."
+    a: "Mutilate is a new talent in the seventh row: an instant attack with both weapons for 90% weapon damage plus a bonus, 20% stronger against poisoned targets, that gives 2 Combo Points. It needs daggers and 30 points in Assassination, so you get it at level 40."
   - q: "What does Venom do?"
-    a: "Venom is a new finishing move at the bottom of the tree: 30% more poison damage and 10% more chance to apply poisons, for 9 seconds at 1 Combo Point up to 21 seconds at 5."
+    a: "Since 2 November Venom is a passive talent in the fifth row: Shank raises your poison damage by 30% and your chance to apply poisons by 20% for 6 seconds. Shank is a cheap off-hand strike that every Rogue learns at level 24."
   - q: "Which poisons should I use?"
     a: "Instant Poison and Deadly Poison in most fights. Instant Poison works better on slow weapons, Deadly Poison on fast ones. Switch to Crippling, Mind-numbing or Wound Poison when an enemy must be slowed, cast slower or healed less."
   - q: "Do I need Improved Expose Armor?"
@@ -24,23 +24,23 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-The Assassination Rogue in WoW Forever is the poisoner. Mutilate gives the spec its own Combo Point generator with daggers, Venom is a new finishing move that makes poisons stronger, and poisons can now land critical strikes. You do not need Stealth tricks or pure auto attacks to deal damage. This guide covers two level 30 builds, the rotation, Energy, poisons, survival, stats and races.
+The Assassination Rogue in WoW Forever is the poisoner. Venom makes your poisons stronger after every Shank, Mutilate gives daggers their own Combo Point generator from level 40, and poisons can now land critical strikes. You do not need Stealth tricks or pure auto attacks to deal damage. This guide covers two level 30 builds, the rotation, Energy, poisons, survival, stats and races.
 
 | | |
 |---|---|
 | Role | Melee damage with daggers and poisons |
-| Build at level 30 | 21 points in Assassination, Talented adds Lethality and Opportunity |
-| Key talents | Malice, Ruthlessness, Relentless Strikes, Improved Slice and Dice, Improved Poisons, Mutilate |
+| Build at level 30 | 21 points in Assassination, Talented adds Relentless Strikes and Opportunity |
+| Key talents | Malice, Ruthlessness, Improved Slice and Dice, Improved Poisons, Venom, Mutilate |
 | Strength | Very high damage that scales with every level, lots of crowd control |
 | Weakness | A busy rotation, needs gear |
 | Leveling | [Rogue leveling guide](/guides/rogue-leveling/), [Rogue level build](/leveling/rogue/) |
 
 ## What changes for Assassination
 
-- **Mutilate is new.** Attacks with both daggers for 2 Combo Points, 20% stronger against poisoned targets.
-- **Venom is new.** A finishing move for 30% more poison damage and 10% more poison applications.
+- **Mutilate is new.** Attacks with both daggers for 2 Combo Points, 20% stronger against poisoned targets. Since 2 November it sits in the seventh row, so you get it at level 40.
+- **Venom is new.** A passive in the fifth row: every Shank gives 30% more poison damage and a 20% higher chance to apply poisons for 6 seconds. Shank itself is new for every Rogue at level 24: a cheap off-hand strike that gives 15 Energy back.
 - **Poisons land critical strikes** and get stronger with attack power. Malice now also counts for poisons.
 - **Improved Poisons does more.** 10% more chance to apply poisons and a 50% chance to keep the charge at 5/5.
 - **Improved Expose Armor is reworked.** 10 Energy less, and 2 Combo Points back when you use Expose Armor with 5.
@@ -62,7 +62,7 @@ Both builds use the 21 points you have at level 30. Talented from the Legacy sys
 
 ### Solo build
 
-Built for as much damage as possible: 5% critical strike chance from Malice, extra Combo Points from Ruthlessness and Relentless Strikes, more poison procs from Improved Poisons and Mutilate as your generator. [Open the build in the talent calculator](/talents/rogue/?t=02530310100501).
+Built for as much damage as possible: 5% critical strike chance from Malice, extra Combo Points from Ruthlessness, more poison procs from Improved Poisons, and Venom for stronger poisons after every Shank. Mutilate follows at level 40. [Open the build in the talent calculator](/talents/rogue/?t=02530300200501).
 
 | Talent | Points |
 |---|---|
@@ -70,32 +70,30 @@ Built for as much damage as possible: 5% critical strike chance from Malice, ext
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
 | **Improved Slice and Dice** | 3/3 |
-| **Relentless Strikes** | 1/1 |
-| **Lethality** | 1/5 |
+| **Lethality** | 2/2 |
 | **Improved Poisons** | 5/5 |
-| **Mutilate** | 1/1 |
+| **Venom** | 1/1 |
 
-[Open the Talented version](/talents/rogue/?t=02530310400501--002) with Lethality 4/5 and Opportunity 2/2 in Subtlety, for more Mutilate damage.
+[Open the Talented version](/talents/rogue/?t=02530300200531--002) with Relentless Strikes 3/5 and Opportunity 2/5 in Subtlety, for more Energy and harder Ambushes.
 
 ![The Talented Assassination Rogue solo build in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-assassination-rogue-build.jpg)
 
 ### Improved Expose Armor build
 
-Almost the same, but with Improved Expose Armor, which makes Expose Armor much easier to use in dungeon groups, on bosses and on trash. [Open the build in the talent calculator](/talents/rogue/?t=02530312100301).
+Almost the same, but with Improved Expose Armor, which makes Expose Armor much easier to use in dungeon groups, on bosses and on trash. [Open the build in the talent calculator](/talents/rogue/?t=02532300200301).
 
 | Talent | Points |
 |---|---|
 | **Remorseless Attacks** | 2/2 |
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
-| **Improved Slice and Dice** | 3/3 |
-| **Relentless Strikes** | 1/1 |
 | **Improved Expose Armor** | 2/2 |
-| **Lethality** | 1/5 |
+| **Improved Slice and Dice** | 3/3 |
+| **Lethality** | 2/2 |
 | **Improved Poisons** | 3/5 |
-| **Mutilate** | 1/1 |
+| **Venom** | 1/1 |
 
-[Open the Talented version](/talents/rogue/?t=02530312400501) with Lethality 4/5 and Improved Poisons 5/5.
+[Open the Talented version](/talents/rogue/?t=02532300200531) with Improved Poisons 5/5 and Relentless Strikes 3/5.
 
 ## What the key talents do
 
@@ -105,26 +103,27 @@ Almost the same, but with Improved Expose Armor, which makes Expose Armor much e
 | **Remorseless Attacks** | 40% more critical strike chance for your next Mutilate or Ambush after a kill. Great for farming and dungeon packs |
 | **Ruthlessness** | A 60% chance for a Combo Point after a finishing move |
 | **Improved Slice and Dice** | 45% longer Slice and Dice. The build does not work without it |
-| **Relentless Strikes** | 25 Energy back after a finishing move, 20% chance per Combo Point |
+| **Relentless Strikes** | At 3/5: a 12% chance per Combo Point to get 25 Energy back after a finishing move |
 | **Improved Expose Armor** | Cheaper Expose Armor and 2 Combo Points back at 5 points. Optional, but your group will thank you |
-| **Lethality** | A 20% bigger critical strike damage bonus for Mutilate at 5/5, even better with Remorseless Attacks |
+| **Lethality** | A 20% bigger critical strike damage bonus for Sinister Strike, Backstab and Mutilate at 2/2, even better with Remorseless Attacks |
 | **Cold Blood** | 100% critical strike chance for your next Ambush or Mutilate |
 | **Improved Poisons** | More poison applications and fewer used charges |
-| **Mutilate** | Your Combo Point generator with two daggers. Hits very hard with the right gear |
-| **Opportunity** | 10% more damage for Mutilate and Ambush |
+| **Venom** | Shank raises your poison damage by 30% and your chance to apply poisons by 20% for 6 seconds |
+| **Mutilate** | Your Combo Point generator with two daggers from level 40, in the seventh row. Hits very hard with the right gear |
+| **Opportunity** | At 2/5: 8% more damage for Backstab, Ambush, Garrote and Mutilate |
 
 ## Rotation
 
 **Normal enemies**
 1. Open from Stealth with Ambush.
-2. Mutilate for Combo Points. At 4 Combo Points, Sinister Strike for the last point saves Energy.
+2. Sinister Strike for Combo Points, and Shank whenever it is ready for Energy and Venom. From level 40 Mutilate takes over, with Sinister Strike for the last point at 4 Combo Points.
 3. Slice and Dice, and refresh it every time it runs out.
 4. Eviscerate at 5 Combo Points, or with what you have when the target is almost dead.
 5. Kick every cast, Evasion when you take the hits, Vanish when you need to get away.
 
 **Bosses**
 1. Open from Stealth with Ambush.
-2. Mutilate as your generator, Sinister Strike at 4 Combo Points.
+2. Sinister Strike, or Mutilate from level 40, as your generator, and Shank on cooldown.
 3. Expose Armor as soon as you can.
 4. Then Slice and Dice as soon as you can.
 5. Refresh Expose Armor and Slice and Dice before they run out. Expose Armor comes first, because it is shorter.
@@ -133,7 +132,7 @@ Almost the same, but with Improved Expose Armor, which makes Expose Armor much e
 
 **Packs.** The Rogue has no area attacks. Kill one target at a time and never switch targets while you build Combo Points: they stay on the old target.
 
-At high levels, with Venom, the order for long fights becomes Slice and Dice, then Venom, then Expose Armor.
+Venom works through Shank, so keep Shank on cooldown in every fight.
 
 ## Cooldowns and utility
 
@@ -151,11 +150,11 @@ At high levels, with Venom, the order for long fights becomes Slice and Dice, th
 
 **Stealth** makes you slow, so you do not travel in it, but use it against most enemies while questing and as much as you can in dungeons. In Stealth you get a separate action bar with openers: Ambush for heavy damage, Garrote for a bleed, Sap and Cheap Shot to disable. Pick Pocket and Distract also only work in Stealth.
 
-**Generators and finishing moves.** You start with Sinister Strike and switch to Mutilate. Sinister Strike only stays for the last point at 4 Combo Points. Eviscerate is your first finishing move; later you mainly use it to finish targets off. Slice and Dice is your strongest finishing move and should be up in almost every fight. Expose Armor joins against bosses, and Venom at high levels. Rupture is not worth the Energy and time for Assassination.
+**Generators and finishing moves.** You start with Sinister Strike and switch to Mutilate at level 40. Sinister Strike then only stays for the last point at 4 Combo Points. Eviscerate is your first finishing move; later you mainly use it to finish targets off. Slice and Dice is your strongest finishing move and should be up in almost every fight. Expose Armor joins against bosses. Rupture is not worth the Energy and time for Assassination.
 
 ## Energy
 
-Every Rogue ability costs Energy. In Forever it comes back smoothly: 1 every 0.1 seconds, 10 per second. Assassination cannot make it regenerate faster, but Vigor raises your maximum Energy. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7676"><img class="wf-wh__icon" src="/wh/inv_drink_milk_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thistle Tea</a> gives a big chunk of Energy with a long cooldown.
+Every Rogue ability costs Energy. In Forever it comes back smoothly: 1 every 0.1 seconds, 10 per second. Assassination cannot make it regenerate faster, but Vigor raises your maximum Energy. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7676"><img class="wf-wh__icon" src="/wh/inv_drink_milk_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thistle Tea</a> gives a big chunk of Energy with a long cooldown. Shank, from level 24, costs 5 Energy and gives 15 back every 10 seconds.
 
 So spend with care. At 5 Combo Points, never use another generator. At 4 Combo Points, Mutilate wastes a point. Kick, Feint, Gouge and Blind cost Energy too, so only use them with a good reason.
 
@@ -165,7 +164,7 @@ From level 20 a Rogue makes poisons after a class quest chain; the [Rogue leveli
 
 ## Survival
 
-The Rogue is fragile but hits hard, so how you start a fight decides whether you survive it. Easy enemies: Ambush, a few Mutilates and Eviscerate. Dangerous enemies: Sap one out of the pack, casters first, open with Cheap Shot, follow with Kidney Shot, then Gouge to wait for Energy or Blind to wait for cooldowns. Then your normal rotation with Evasion, and Kick on every caster. If even a health potion is not enough, Vanish drops you out of combat and back into Stealth.
+The Rogue is fragile but hits hard, so how you start a fight decides whether you survive it. Easy enemies: Ambush, a few Sinister Strikes or Mutilates and Eviscerate. Dangerous enemies: Sap one out of the pack, casters first, open with Cheap Shot, follow with Kidney Shot, then Gouge to wait for Energy or Blind to wait for cooldowns. Then your normal rotation with Evasion, and Kick on every caster. If even a health potion is not enough, Vanish drops you out of combat and back into Stealth.
 
 ## Stats and gear
 

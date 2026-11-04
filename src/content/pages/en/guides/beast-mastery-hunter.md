@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter guide for WoW Forever"
 metaTitle: "WoW Forever Beast Mastery Hunter: level 60 build and rotation"
 description: "The Beast Mastery Hunter in WoW Forever: the 31/20/0 build for level 60, Summon Hawk and Bestial Wrath, the single target and AoE rotation, pets, mana, stats and races."
 short: "Beast Mastery Hunter"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: en
 faq:
   - q: "Is Beast Mastery Hunter good in WoW Forever?"
@@ -49,12 +49,12 @@ The Beast Mastery Hunter in WoW Forever lets your pets do a large share of the w
 
 ## The level 60 build: 31/20/0
 
-The beta stopped at level 30, but the talent trees for level 60 are in the game files. We checked this build point for point in [our talent calculator](/talents/hunter/?t=5120201505101251-30500520014): 31 points in Beast Mastery and 20 in Marksmanship, 51 in total.
+The beta stopped at level 30, but the talent trees for level 60 are in the game files. We checked this build point for point in [our talent calculator](/talents/hunter/?t=5320021505101051-30500520014): 31 points in Beast Mastery and 20 in Marksmanship, 51 in total.
 
 | Talent | Points |
 |---|---|
 | **Deadly Aspects** | 5/5 |
-| **Endurance Training** | 1/5 |
+| **Endurance Training** | 3/5 |
 | **Focused Fire** | 2/2 |
 | **Pathfinding** | 2/2 |
 | **Bestial Swiftness** | 1/1 |
@@ -62,9 +62,14 @@ The beta stopped at level 30, but the talent trees for level 60 are in the game 
 | **Ferocity** | 5/5 |
 | **Summon Hawk** | 1/1 |
 | **Intimidation** | 1/1 |
-| **Bestial Discipline** | 2/2 |
 | **Frenzy** | 5/5 |
 | **Bestial Wrath** | 1/1 |
+| **Hawk Eye** | 3/3 |
+| **Lethal Attacks** | 5/5 |
+| **Careful Aim** | 5/5 |
+| **Rapid Killing** | 2/2 |
+| **Trueshot Aura** | 1/1 |
+| **Mortal Shots** | 4/5 |
 | **Hawk Eye** (Marksmanship) | 3/3 |
 | **Lethal Attacks** (Marksmanship) | 5/5 |
 | **Careful Aim** (Marksmanship) | 5/5 |

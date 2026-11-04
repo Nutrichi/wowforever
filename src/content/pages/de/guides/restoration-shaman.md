@@ -3,16 +3,16 @@ title: "Restoration Shaman in WoW Forever: der Guide"
 metaTitle: "WoW Forever Restoration Shaman: Heilbuild, Totems, Mana"
 description: "Der Restoration Shaman in WoW Forever: der Heilbuild für Level 30 und die Talented-Version, Water Shield, Riptide und Chain Heal, Totems, Mana, Werte und Völker."
 short: "Restoration Shaman"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: de
 manual: true
 faq:
   - q: "Ist der Restoration Shaman ein guter Heiler in WoW Forever?"
     a: "Ja. Das Heilen ist einfach und stark, mit Chain Heal für Gruppen und Lesser Healing Wave für Notfälle, und die Spec bringt Totems mit, die jede Gruppe will. Die Schwächen sind Mana und fehlende Kontrolle."
   - q: "Was ist neu für den Restoration Shaman in Forever?"
-    a: "Riptide, Water Shield und Mindfulness. Totems wirken jetzt für den ganzen Raid, und Totemic Projection versetzt deine aktiven Totems. Heilen per Mouseover ist ins Spiel eingebaut."
+    a: "Riptide, Water Shield und Mindfulness. Totems wirken jetzt für den ganzen Raid, und Totemic Call holt deine aktiven Totems zu dir. Heilen per Mouseover ist ins Spiel eingebaut."
   - q: "Was macht Riptide?"
-    a: "Eine Sofortheilung mit Heilung über Zeit, und Chain Heal direkt auf dieses Ziel heilt 25 % mehr. Es ist das letzte Talent im Restoration-Baum, der Build für Level 30 erreicht es also noch nicht."
+    a: "Eine sofortige Heilung über Zeit für 15 Sekunden, und Chain Heal direkt auf dieses Ziel heilt 25 % mehr. Seit den Entwicklungsnotizen vom 2. November heilt es nicht mehr sofort und hat 12 Sekunden Abklingzeit. Es ist das letzte Talent im Restoration-Baum, der Build für Level 30 erreicht es also noch nicht."
   - q: "Wie hält ein Restoration Shaman sein Mana oben?"
     a: "Spirit auf der Ausrüstung, Mindfulness für 50 % deiner Manaregeneration beim Zaubern, Water Shield bei kritischen Heilungen, immer Mana Spring Totem und Mana Tide Totem, wenn die Gruppe trocken läuft."
   - q: "Welche Werte braucht ein Restoration Shaman?"
@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
 ---
-> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/). Die neuen Bäume sind jetzt in unserem Talentrechner, aber Builds und Talente unten folgen ihnen noch nicht überall. Wir aktualisieren diesen Guide in Kürze.
+> **Update vom 4. November:** Builds und Talente unten folgen den neuen Bäumen aus den Entwicklungsnotizen vom 2. November, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/).
 
 Der Restoration Shaman in WoW Forever heilt mit wenigen einfachen Zaubern und füllt den Rest mit Nutzen. Chain Heal ist die große Gruppenheilung, Lesser Healing Wave rettet ein Ziel in Not, und deine Totems stärken den ganzen Raid. Neu in Forever sind Riptide, Water Shield und Mindfulness, die das älteste Problem der Spec angehen: Mana. Dieser Guide behandelt den Build für Level 30, die wichtigsten Talente, die Heilpriorität, Totems, Mana, Werte und Völker.
 
@@ -86,7 +86,7 @@ Nature's Swiftness sitzt in der fünften Reihe und braucht 20 Punkte darüber, e
 | **Restorative Totems** | Bei 4/5: Mana Spring Totem 20 % stärker, Healing Stream Totem 40 % stärker |
 | **Mana Tide Totem** | Ein Totem, das 12 Sekunden lang alle 3 Sekunden 88 Mana an die Gruppe im Umkreis von 30 Metern zurückgibt |
 | **Nature's Swiftness** | Dein nächster Naturzauber mit Zauberzeit wird sofort gewirkt |
-| **Riptide** | Eine Sofortheilung plus Heilung über Zeit, und 25 % mehr Heilung von Chain Heal auf dieses Ziel |
+| **Riptide** | Heilung über Zeit für 15 Sekunden, 12 Sekunden Abklingzeit, und 25 % mehr Heilung von Chain Heal auf dieses Ziel |
 
 Water Shield gibt in Forever kein passives Mana, aber mit vielen kritischen Heilungen summiert es sich. Riptide ist das letzte Talent des Baums, in der siebten Reihe, auf Level 30 außer Reichweite.
 
@@ -100,7 +100,7 @@ Ein Heiler hat keine feste Reihenfolge: Reagiere auf das, was passiert. Als Rich
 4. Healing Wave für gleichmäßigen Schaden.
 5. Healing Stream Totem für dauernde Heilung, wenn dein Platz für Wassertotems frei ist.
 
-Beim Tankheilen lohnt Chain Heal nur, wenn der Tank bei anderen Verletzten steht. Riptide ist sofort, du kannst es also direkt nach einer Heilung mit Zauberzeit wirken, für einen zusätzlichen Schub. Ein Makro mit Nature's Swiftness und Healing Wave, oder mit Chain Heal, gibt dir einen Notfallknopf.
+Beim Tankheilen lohnt Chain Heal nur, wenn der Tank bei anderen Verletzten steht. Riptide ist sofort und heilt über 15 Sekunden, setz es also auf den Tank, bevor der Schaden kommt. Ein Makro mit Nature's Swiftness und Healing Wave, oder mit Chain Heal, gibt dir einen Notfallknopf.
 
 ## Mana
 
@@ -114,7 +114,7 @@ Beim Tankheilen lohnt Chain Heal nur, wenn der Tank bei anderen Verletzten steht
 - **Windfury Totem** ist der beste Nahkampfbuff im Spiel und bringt dir Einladungen. Ohne die Beschränkung auf die Gruppe wirkt es für den ganzen Raid.
 - **Tremor Totem** entfernt Furcht, Schlaf und Bezauberung bei Verbündeten in Reichweite. Gutes Timing rettet Runs.
 - **Poison Cleansing Totem** und **Disease Cleansing Totem** entfernen pro Puls einen Effekt, ohne dass du jeden Spieler einzeln heilen musst.
-- **Totemic Recall** holt deine Totems gegen etwas Mana zurück. **Totemic Projection** versetzt deine aktiven Totems bis zu 30 Meter, kostet aber viel Mana.
+- **Totemic Recall** holt deine Totems gegen etwas Mana zurück. **Totemic Call** holt deine aktiven Totems dorthin, wo du stehst, mit 30 Sekunden Abklingzeit.
 - **Ghost Wolf** mit Improved Ghost Wolf ist sofort und wirkt drinnen. Rein und raus aus der Form kostet eine globale Abklingzeit.
 
 In Bewegung hast du vor allem Riptide und Nature's Swiftness zum Heilen. Überleg, wohin der Kampf geht, bevor du deine Totems stellst.

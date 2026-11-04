@@ -3,14 +3,14 @@ title: "Guía del Arcane Mage en WoW Forever"
 metaTitle: "WoW Forever: Arcane Mage, build de Arcane Blast, rotación, maná, stats y razas"
 description: "El Arcane Mage en WoW Forever: Arcane Blast, Missile Barrage y Arcane Wrath, dos builds de nivel 30 para jugar en solitario y en mazmorras, la rotación, el maná y las fases de burn, la supervivencia, los stats, el equipo, las razas y las profesiones."
 short: "Arcane Mage"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: es
 manual: true
 faq:
   - q: "¿Es bueno el Arcane Mage en WoW Forever?"
     a: "Sí, para daño a un solo objetivo. Arcane Blast, Missile Barrage y Arcane Wrath convierten el antiguo árbol de apoyo en una spec de burst con hechizos propios. El precio es el maná: Arcane es la spec de Mage más difícil de jugar bien, y depende de los procs y del equipo."
   - q: "¿Cómo funciona Arcane Blast?"
-    a: "Cada lanzamiento te da el 15% de tu Intellect como poder con hechizos, hasta 4 acumulaciones, así que el 60% con todas. Cada acumulación también encarece el siguiente Arcane Blast un 175%. Arcane Blast es un talento de nivel 20 con 1,5 segundos de lanzamiento."
+    a: "Cada lanzamiento te da el 12% de tu Intellect como poder con hechizos, hasta 4 acumulaciones, así que el 48% con todas. Cada acumulación también encarece el siguiente Arcane Blast un 100%. Arcane Blast es un talento de nivel 20 con 1,5 segundos de lanzamiento."
   - q: "¿Cuándo lanzo Arcane Wrath?"
     a: "Con 3 o 4 acumulaciones de Arcane Blast, para lanzar dos por ventana. Tarda 3,5 segundos, tiene 6 segundos de reutilización y gana poder con hechizos igual al 5% de tu maná máximo."
   - q: "¿Qué build es mejor, un objetivo o mazmorra?"
@@ -40,7 +40,7 @@ El Arcane Mage por fin tiene hechizos de daño propios en WoW Forever. Arcane Bl
 
 ## Qué cambia para Arcane
 
-- **Arcane Blast es nuevo.** Un talento de nivel 20 con 1,5 segundos de lanzamiento. Cada lanzamiento da el 15% de tu Intellect como poder con hechizos, hasta 4 acumulaciones, y encarece el siguiente Arcane Blast un 175%.
+- **Arcane Blast es nuevo.** Un talento de nivel 20 con 1,5 segundos de lanzamiento. Cada lanzamiento da el 12% de tu Intellect como poder con hechizos, hasta 4 acumulaciones, y encarece el siguiente Arcane Blast un 100%.
 - **Missile Barrage es nuevo.** Con 2/2, Arcane Blast tiene un 40% de probabilidad, y Arcane Wrath, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=133"><img class="wf-wh__icon" src="/wh/spell_fire_flamebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fireball</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> y Frostfire Bolt un 20%, de que tu siguiente Arcane Missiles sea gratis y el doble de rápido. Los impactos de Arcane Missiles también tienen un 10%.
 - **Arcane Wrath es nuevo.** Un talento de nivel 25: 3,5 segundos de lanzamiento, 6 segundos de reutilización y poder con hechizos extra igual al 5% de tu maná máximo.
 - **Arcane Meditation es más fuerte.** Con 3/3, el 50% de tu regeneración de maná sigue mientras lanzas. Con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6117"><img class="wf-wh__icon" src="/wh/spell_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mage Armor</a> a nivel 34 llega al 100%.
@@ -61,38 +61,38 @@ Las dos builds usan los 21 puntos que tienes a nivel 30. Talented, del sistema L
 
 ### Build de un objetivo
 
-Para hacer misiones y el mundo abierto. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11237"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Channeling</a> 5/5 mantiene tus lanzamientos cuando los monstruos te golpean, y la build baja todo lo posible hacia Arcane Mind. El precio es el 6% de probabilidad de crítico de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11242"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Impact</a>. [Abrir la build en la calculadora de talentos](/es/talents/mage/?t=03520050001003101).
+Para hacer misiones y el mundo abierto. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11237"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Channeling</a> 5/5 mantiene tus lanzamientos cuando los monstruos te golpean, y la build baja todo lo posible hacia Arcane Mind. El precio es el 6% de probabilidad de crítico de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11242"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Impact</a>. [Abrir la build en la calculadora de talentos](/es/talents/mage/?t=0530052001003101).
 
 | Talento | Puntos |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11222"><img class="wf-wh__icon" src="/wh/spell_holy_devotion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Focus</a>** | 3/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11237"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Channeling</a>** | 5/5 |
+| **Improved Channeling** | 5/5 |
+| **Arcane Resilience** | 3/3 |
+| **Arcane Concentration** | 5/5 |
 | **Missile Barrage** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11213"><img class="wf-wh__icon" src="/wh/spell_shadow_manaburn.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Concentration</a>** | 5/5 |
 | **Arcane Blast** | 1/1 |
 | **Arcane Meditation** | 3/3 |
 | **Arcane Wrath** | 1/1 |
 | **Arcane Mind** | 1/5 |
 
-[Abrir la versión Talented](/es/talents/mage/?t=035200500010031051) con Arcane Mind 5/5 y Arcane Instability 1/3.
+[Abrir la versión Talented](/es/talents/mage/?t=05300520010031051) con Arcane Mind 5/5 y Arcane Instability 1/3.
 
 ### Build de mazmorra
 
-Para mazmorras, cuando tanquea otro. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11210"><img class="wf-wh__icon" src="/wh/spell_holy_dispelmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Subtlety</a> reduce un 30% la amenaza de tus hechizos Arcane, para que puedas spamear Arcane Explosion, y Arcane Impact 3/3 añade un 6% de probabilidad de crítico. Sin Improved Channeling, los monstruos que te golpean retrasan cada lanzamiento. [Abrir la build en la calculadora de talentos](/es/talents/mage/?t=03022050031003101).
+Para mazmorras, cuando tanquea otro. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11210"><img class="wf-wh__icon" src="/wh/spell_holy_dispelmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Subtlety</a> reduce un 30% la amenaza de tus hechizos Arcane, para que puedas spamear Arcane Explosion, y Arcane Impact 3/3 añade un 6% de probabilidad de crítico. Sin Improved Channeling, los monstruos que te golpean retrasan cada lanzamiento. [Abrir la build en la calculadora de talentos](/es/talents/mage/?t=0230052031003101).
 
 | Talento | Puntos |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11222"><img class="wf-wh__icon" src="/wh/spell_holy_devotion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Focus</a>** | 3/5 |
+| **Improved Channeling** | 2/5 |
+| **Arcane Resilience** | 3/3 |
+| **Arcane Concentration** | 5/5 |
 | **Missile Barrage** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11210"><img class="wf-wh__icon" src="/wh/spell_holy_dispelmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Subtlety</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11213"><img class="wf-wh__icon" src="/wh/spell_shadow_manaburn.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Concentration</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11242"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Impact</a>** | 3/3 |
+| **Arcane Impact** | 3/3 |
 | **Arcane Blast** | 1/1 |
 | **Arcane Meditation** | 3/3 |
 | **Arcane Wrath** | 1/1 |
 | **Arcane Mind** | 1/5 |
 
-[Abrir la versión Talented](/es/talents/mage/?t=030220500310031051) con Arcane Mind 5/5 y Arcane Instability 1/3. La [build de subida del Mage](/es/leveling/mage/) da un talento para cada nivel del 10 al 35.
+[Abrir la versión Talented](/es/talents/mage/?t=02300520310031051) con Arcane Mind 5/5 y Arcane Instability 1/3. La [build de subida del Mage](/es/leveling/mage/) da un talento para cada nivel del 10 al 35.
 
 ### Qué hacen los talentos clave
 
@@ -126,7 +126,7 @@ Para mazmorras, cuando tanquea otro. <a class="wf-wh wf-spell" href="https://www
 
 ## Acumulaciones de Arcane Blast y procs
 
-La spec se juega en fases de burn. El primer Arcane Blast inicia un buff de 15 segundos que acumula hasta 4. Cuatro Arcane Blasts seguidos y luego todo lo demás sería lo ideal, pero el coste de maná rara vez lo permite, sobre todo a niveles bajos. Así que espacias tus Arcane Blasts y te apoyas en dos procs.
+La spec se juega en fases de burn. El primer Arcane Blast inicia un buff de 18 segundos que acumula hasta 4. Cuatro Arcane Blasts seguidos y luego todo lo demás sería lo ideal, pero el coste de maná rara vez lo permite, sobre todo a niveles bajos. Así que espacias tus Arcane Blasts y te apoyas en dos procs.
 
 1. **Primero Clearcasting.** Úsalo en Arcane Blast para una acumulación gratis, sobre todo si ya tienes 4.
 2. **Después Missile Barrage.** Arcane Missiles puede activar por sí mismo otro Missile Barrage o un Clearcasting.
@@ -164,7 +164,7 @@ Usa Frost Blast o Frostbolt rango 1 para ralentizar desde lejos, Cone of Cold co
 La prioridad exacta a nivel 60 llegará tras el lanzamiento. Estos stats ayudan a un Arcane Mage:
 
 - **El poder con hechizos y el poder con hechizos Arcane** primero. El poder con hechizos Arcane solo ayuda a los hechizos Arcane.
-- **El Intellect** pesa más para Arcane que para las otras specs de Mage: más reserva de maná, un 10% extra de Arcane Mind, y Arcane Blast convierte el 15% en poder con hechizos por acumulación.
+- **El Intellect** pesa más para Arcane que para las otras specs de Mage: más reserva de maná, un 10% extra de Arcane Mind, y Arcane Blast convierte el 18% en poder con hechizos por acumulación.
 - **La probabilidad de crítico.** Arcane Impact y Arcane Mind refuerzan los críticos. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a> en el árbol Fire añade un 6% de probabilidad de crítico a Arcane Blast.
 - **La Haste** significa lanzamientos más rápidos y más procs. A niveles bajos solo la tienen el Troll (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20554"><img class="wf-wh__icon" src="/wh/racial_troll_berserk.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Berserking</a>) y el High Order Skyborne (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>).
 - **El Spirit y el maná cada 5 segundos** valen más para Arcane que para otros Mages, gracias a Arcane Meditation y luego Mage Armor.

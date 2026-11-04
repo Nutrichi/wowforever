@@ -1,18 +1,16 @@
 ---
 title: "Retribution Paladin dans WoW Forever : le guide"
 metaTitle: "WoW Forever Retribution Paladin : build, rotation et sceaux"
-description: "Le Retribution Paladin dans WoW Forever : le build niveau 30 et sa version Talented, la rotation avec Seal of Command et Twist of Light, les Judgements, les bénédictions, les stats et les races."
+description: "Le Retribution Paladin dans WoW Forever : le build niveau 30 et sa version Talented, la rotation avec Seal of Command, les Judgements, les bénédictions, les stats et les races."
 short: "Retribution Paladin"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: fr
 manual: true
 faq:
   - q: "Le Retribution Paladin est-il bon dans WoW Forever ?"
     a: "Oui. Presque tout ce que fait un Paladin évolue désormais avec la puissance des sorts, Holy Strike et Judgement partent dès qu'ils sont prêts, et Seal of Command frappe fort avec une arme à deux mains lente. Retribution apporte aussi des bénédictions, des auras et des Judgements que chaque groupe veut, et il est très difficile à tuer."
   - q: "Quel est le meilleur sceau pour Retribution ?"
-    a: "Seal of Command pour les dégâts, avec une arme à deux mains lente. Ouvrez avec Judgement of the Crusader pour plus de dégâts du Sacré, ou gardez Judgement of Wisdom si votre groupe a besoin de mana. Avec Twist of Light, vous gardez Seal of Righteousness actif à côté de Seal of Command."
-  - q: "Que fait Twist of Light ?"
-    a: "C'est le nouveau dernier talent de l'arbre. Les sceaux coûtent 20 % de mana en moins, et quand vous remplacez Seal of Command ou Seal of Righteousness par un autre sceau, votre prochaine attaque de mêlée applique encore l'ancien. En pratique, vous avez deux sceaux à la fois."
+    a: "Seal of Command pour les dégâts, avec une arme à deux mains lente. Ouvrez avec Judgement of the Crusader pour plus de dégâts du Sacré, ou gardez Judgement of Wisdom si votre groupe a besoin de mana. Avec vous gardez Seal of Righteousness actif à côté de Seal of Command."
   - q: "De quelles stats un Retribution Paladin a-t-il besoin ?"
     a: "D'abord le toucher, pour que vos attaques et sorts portent, puis les chances de coup critique, la Force et la puissance d'attaque, et la puissance des sorts. Champion of the Light convertit l'Intelligence en puissance des sorts, donc l'Intelligence vaut plus que dans Classic."
   - q: "Quelle race choisir pour un Retribution Paladin ?"
@@ -29,7 +27,7 @@ Le Retribution Paladin de WoW Forever est le guerrier sacré à la grande arme �
 |---|---|
 | Rôle | Dégâts de mêlée avec une arme à deux mains lente |
 | Build niveau 30 | 21 points en Retribution, Talented ajoute Two-Handed Weapon Specialization et Vengeance |
-| Talents clés | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Twist of Light |
+| Talents clés | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Unsealed Wrath |
 | Points forts | Utilité de groupe, très difficile à tuer, grosses pointes de dégâts |
 | Points faibles | Lent à atteindre une cible, le mana peut manquer |
 | Montée en niveau | [Guide de leveling du Paladin](/fr/guides/paladin-leveling/), [build de leveling du Paladin](/fr/leveling/paladin/) |
@@ -42,25 +40,26 @@ Le Retribution Paladin de WoW Forever est le guerrier sacré à la grande arme �
 
 **Lent pour arriver.** Pas de charge, pas de transfert, pas de sprint. Pursuit of Justice donne 15 % de vitesse, et c'est tout.
 
-**Le mana.** Vous ne construisez pas de ressource avant un combat, mais le mana peut s'épuiser. Sanctified Judgement et Holy Conduit aident, et Judgement of Wisdom aide tout le groupe.
+**Le mana.** Vous ne construisez pas de ressource avant un combat, mais le mana peut s'épuiser. Sanctified Judgement aident, et Judgement of Wisdom aide tout le groupe.
 
 ## Le build niveau 30
 
-La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented, du système Legacy, en ajoute 5. [Ouvrir le build dans le calculateur de talents](/fr/talents/paladin/?t=--5012503120101).
+La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented, du système Legacy, en ajoute 5. [Ouvrir le build dans le calculateur de talents](/fr/talents/paladin/?t=--502330212011001).
 
 | Talent | Points |
 |---|---|
 | **Deflection** | 5/5 |
-| **Improved Judgement** | 1/2 |
-| **Holy Conduit** | 2/2 |
-| **Conviction** | 5/5 |
+| **Improved Judgement** | 2/2 |
+| **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
+| **Unyielding Faith** | 2/2 |
 | **Seal of Command** | 1/1 |
 | **Pursuit of Justice** | 2/2 |
 | **Sacred Arbiter** | 1/1 |
+| **Two-Handed Weapon Specialization** | 1/3 |
 | **Vengeance** | 1/3 |
 
-[Ouvrir la version Talented](/fr/talents/paladin/?t=--5012503120133) avec Two-Handed Weapon Specialization 3/3 et Vengeance 3/3.
+[Ouvrir la version Talented](/fr/talents/paladin/?t=--512330212013003) avec Benediction 1/5, Two-Handed Weapon Specialization 3/3 et Vengeance 3/3.
 
 ![Le build Talented du Retribution Paladin dans notre calculateur de talents](../../../../assets/posts/2026-10-24-wow-forever-retribution-paladin-build.jpg)
 
@@ -71,8 +70,7 @@ La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented
 | Talent | Ce qu'il fait dans Forever |
 |---|---|
 | **Improved Judgement** | Judgement revient 1 seconde plus tôt par point |
-| **Holy Conduit** | Consecration, Holy Wrath, Exorcism et Hammer of Wrath coûtent 40 % de mana en moins |
-| **Conviction** | 5 % de chances de coup critique en plus en mêlée |
+| **Conviction** | 6 % de chances de critique en plus avec tous les sorts et attaques |
 | **Sanctified Judgement** | Judgement rend 60 % du coût en mana du sceau jugé |
 | **Seal of Command** | Une chance d'infliger à nouveau 70 % des dégâts de l'arme en dégâts du Sacré, une arme lente y gagne le plus |
 | **Pursuit of Justice** | 15 % de vitesse de déplacement, aussi à monture |
@@ -80,10 +78,9 @@ La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented
 | **Two-Handed Weapon Specialization** | 6 % de dégâts en plus avec les armes à deux mains |
 | **Vengeance** | 3 % de dégâts physiques et du Sacré en plus pendant 30 secondes après un coup critique, cumulable 3 fois |
 | **Champion of the Light** | Des dégâts des sorts égaux à jusqu'à 30 % de votre Intelligence |
-| **Instrument of Law** | Hammer of Wrath se lance 1 seconde plus vite, et vous générez 20 % de menace en moins sans Righteous Fury |
-| **Twist of Light** | Les sceaux coûtent 20 % de moins, et un Seal of Command ou Seal of Righteousness remplacé agit encore pour un coup |
+| **Unsealed Wrath** | Les attaques de mêlée stockent votre Seal, jusqu'à 3 fois. Un coup avec un autre Seal consomme les charges pour des chances en plus |
 
-Champion of the Light, Instrument of Law et Twist of Light sont aux rangs 6 et 7, hors de portée au niveau 30. Ce sont les raisons de descendre plus bas dans l'arbre après le lancement.
+Champion of the Light et Unsealed Wrath se trouvent aux rangées 6 et 7, hors de portée au niveau 30. Ils sont la raison de continuer dans l'arbre après la sortie.
 
 ## Rotation
 
@@ -94,7 +91,6 @@ Champion of the Light, Instrument of Law et Twist of Light sont aux rangs 6 et 7
 5. Lancez Holy Strike dès qu'il est prêt.
 6. Gardez Consecration actif.
 7. Contre les morts-vivants, lancez Exorcism dès qu'il est prêt.
-8. Avec Twist of Light, gardez Seal of Command et Seal of Righteousness actifs quand c'est possible.
 
 ## Sceaux et Judgements
 
@@ -104,7 +100,7 @@ Chaque Paladin ne peut garder qu'un Judgement sur une cible, vous choisissez don
 - **Seal of Wisdom** et son Judgement rendent du mana. Votre groupe vous remerciera de le garder sur le boss.
 - **Seal of Light** et son Judgement rendent un peu de soins, utile dans les combats avec beaucoup de petits dégâts de zone.
 - **Seal of Command** est votre sceau de dégâts. Son Judgement inflige aussi un gros coup de dégâts du Sacré.
-- **Seal of Righteousness** ajoute des dégâts du Sacré à chaque coup et frappe fort quand il est jugé. Avec Twist of Light, c'est le second sceau à côté de Seal of Command.
+- **Seal of Righteousness** ajoute des dégâts du Sacré à chaque coup et frappe fort quand il est jugé. Avec c'est le second sceau à côté de Seal of Command.
 
 ## Temps de recharge et utilité
 

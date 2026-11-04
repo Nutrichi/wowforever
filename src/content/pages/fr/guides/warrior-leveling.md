@@ -3,7 +3,7 @@ title: "Monter un Warrior dans WoW Forever : le guide"
 metaTitle: "Guide leveling Warrior WoW Forever : builds Arms, Fury et Protection jusqu'au 30"
 description: "Comment monter un Warrior dans WoW Forever : le premier build, trois builds niveau 30 pour Arms, Fury et Protection, la rotation, les niveaux clés, les quêtes de classe pour chaque posture, les armes, les postures et la Rage."
 short: "Leveling Warrior"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: fr
 manual: true
 faq:
@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
+> **Mise à jour du 4 novembre :** les builds et talents ci-dessous suivent les nouveaux arbres des notes de développement du 2 novembre, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/).
 
 Le Warrior grandit à chaque niveau. Au début, vous appuyez surtout sur Heroic Strike et laissez Rend faire effet. D'autres attaques instantanées arrivent au fil des niveaux, et avec les grands talents dès le niveau 40, vous sentez vraiment ce que la classe sait faire. Au niveau 30, vous choisissez entre Arms, Fury et Protection, et les trois montent bien. Ce guide couvre les builds, la rotation, les niveaux clés, les quêtes de classe et le fonctionnement des postures et de la Rage.
 
@@ -58,26 +58,26 @@ Stats à ces niveaux : d'abord les dégâts par seconde de l'arme, puis la Force
 
 ## Build Arms niveau 30
 
-Le build conseillé pour monter. Il tourne autour d'Overpower et des gros coups avec une arme à deux mains lente. Une bonne partie du temps, vous laissez Rend faire effet et attendez Overpower. Sweeping Strikes ajoute plus tard les dégâts de zone dont Arms a besoin, et c'est un plaisir à utiliser. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=323202031224101).
+Le build conseillé pour monter. Il tourne autour d'Overpower et des gros coups avec une arme à deux mains lente. Une bonne partie du temps, vous laissez Rend faire effet et attendez Overpower. Sweeping Strikes ajoute plus tard les dégâts de zone dont Arms a besoin, et c'est un plaisir à utiliser. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=333202031322101).
 
 | Talent | Points |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 2/5 |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
 | **Improved Rend** | 3/3 |
 | **Improved Charge** | 2/2 |
 | **Improved Overpower** | 2/2 |
 | **Deep Wounds** | 3/3 |
 | **Spearing Strike** | 1/1 |
-| **Two-Handed Weapon Specialization** | 2/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
 | **Impale** | 2/2 |
-| **Bloodthrill** | 4/5 |
+| **Bloodthrill** | 2/2 |
 | **Sweeping Strikes** | 1/1 |
 | **Improved Slam** | 1/2 |
 
 Bloodthrill est le cœur du build : vos attaques de main droite sur un monstre qui porte votre Rend peuvent rendre Overpower disponible. Improved Overpower augmente ses chances de critique de 50 %, et Deep Wounds et Impale rendent ces critiques douloureux. Sweeping Strikes fait toucher à vos cinq attaques suivantes un monstre voisin.
 
-Il y a un peu de marge. Vous pouvez prendre Improved Tactical Mastery au lieu de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>, mais vous aurez alors du mal à trouver les points pour Anger Management. Spearing Strike aide surtout contre les Giants et les Dragonkin, rares en début de jeu ; sans lui, vous pouvez maximiser Two-Handed Weapon Specialization. À la fin, vous choisissez entre Bloodthrill et Weaponmaster. Vous voudrez les deux à terme, la question est de savoir lequel prendre en premier. Bloodthrill, c'est plus d'Overpower.
+Il y a un peu de marge. Vous pouvez prendre Improved Tactical Mastery au lieu de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>, mais vous aurez alors du mal à trouver les points pour Anger Management. Spearing Strike aide surtout contre les Giants et les Dragonkin, rares en début de jeu ; sans lui, vous pouvez prendre Weaponmaster plus tôt. À la fin, vous choisissez entre Bloodthrill et Weaponmaster. Vous voudrez les deux à terme, la question est de savoir lequel prendre en premier. Bloodthrill, c'est plus d'Overpower.
 
 1. Gardez Battle Shout en combat.
 2. Chargez le monstre avec Charge.
@@ -103,7 +103,7 @@ En Fury, vous combattez avec deux armes et utilisez toute la Rage en plus que ç
 
 Unbridled Wrath et Dual Wield Specialization vous donnent plus de Rage à chaque coup, et Furious Precision fait moins rater votre main gauche. Cruelty ajoute des chances de critique, et <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12317"><img class="wf-wh__icon" src="/wh/spell_shadow_unholyfrenzy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> augmente vos dégâts après un coup reçu. Death Wish augmente vos dégâts physiques de 20 % pendant 30 secondes, mais vous en subissez aussi 5 % de plus.
 
-Il y a quelques options. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12323"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Piercing Howl</a> ralentit tout autour de vous, pratique pour tenir à distance monstres et joueurs. Lingering Rage garde votre Rage plus longtemps après un combat, ce qui garde le rythme quand vous enchaînez les monstres. Une fois Whirlwind obtenu au 36, Raging Blows vaut aussi le coup, mais pas avant.
+Il y a quelques options. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12323"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Piercing Howl</a> ralentit tout autour de vous, pratique pour tenir à distance monstres et joueurs. Lingering Rage garde votre Rage plus longtemps après un combat, ce qui garde le rythme quand vous enchaînez les monstres. Raging Blows a disparu le 2 novembre. À sa place, Reckless Swings au quatrième rang donne 5 de Rage en plus sur chacune de vos 4 prochaines attaques.
 
 1. Gardez Battle Shout en combat.
 2. Chargez le monstre avec Charge.

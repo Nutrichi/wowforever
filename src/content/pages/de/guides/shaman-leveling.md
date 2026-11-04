@@ -3,7 +3,7 @@ title: "Leveling-Guide für den Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman leveln: Enhancement, Elemental und Resto"
 description: "So levelst du einen Shaman in WoW Forever: Builds für Level 30 für Enhancement, Elemental und Restoration, wichtige Stufen, Totemquests, Waffen aus Call of Air und Zonen."
 short: "Shaman leveln"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: de
 manual: true
 faq:
@@ -12,7 +12,7 @@ faq:
   - q: "Brauchen Shamans noch Totem-Gegenstände in der Tasche?"
     a: "Ja. Die Klassenquests auf Stufe 4, 10, 20 und 30 geben dir das Earth, Fire, Water und Air Totem, und diese Gegenstände müssen in deinen Taschen bleiben, damit du Totems dieses Elements wirken kannst."
   - q: "Können Shamans noch Totem Twisting machen?"
-    a: "Nein. Totem Twisting gibt es in Forever nicht mehr. Dafür stellt Call of the Elements vier gespeicherte Totems mit einer Taste auf, und Totemic Projection und Totemic Recall versetzen oder holen deine Totems zurück."
+    a: "Nein. Totem Twisting gibt es in Forever nicht mehr. Dafür stellt Call of the Elements vier gespeicherte Totems mit einer Taste auf, und Totemic Call und Totemic Recall holen deine Totems zu dir oder nehmen sie zurück."
   - q: "Ist Ghost Wolf in Forever besser?"
     a: "Ja. Mit Improved Ghost Wolf in Enhancement ist er sofort und funktioniert drinnen, du nutzt ihn also auch im Kampf und in Dungeons."
   - q: "Welche Waffe bekommt ein Shaman auf Level 30?"
@@ -25,14 +25,14 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
-> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark: Lava Burst wird entfernt, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/). Die neuen Bäume sind jetzt in unserem Talentrechner, aber Builds und Talente unten folgen ihnen noch nicht überall. Wir aktualisieren diesen Guide in Kürze.
+> **Update vom 4. November:** Builds und Talente unten folgen den neuen Bäumen aus den Entwicklungsnotizen vom 2. November, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/).
 
-Der Shaman in WoW Forever ist in jeder Gruppe willkommen: starke Totembuffs, ein sofortiger Ghost Wolf mit Improved Ghost Wolf und drei Spezialisierungen, die alle funktionieren. Du kannst ein Zauberschwert im Nahkampf sein, ein Zauberer, der Blitze und Lava schleudert, oder ein Heiler. Dieser Guide behandelt die Rotation am Anfang, einen Build für Level 30 pro Spezialisierung, wichtige Stufen, die Totemquests, die Waffen aus Call of Air, Zonen, Ausrüstung, Totems und Mana.
+Der Shaman in WoW Forever ist in jeder Gruppe willkommen: starke Totembuffs, ein sofortiger Ghost Wolf mit Improved Ghost Wolf und drei Spezialisierungen, die alle funktionieren. Du kannst ein Zauberschwert im Nahkampf sein, ein Zauberer, der Blitze und Feuer schleudert, oder ein Heiler. Dieser Guide behandelt die Rotation am Anfang, einen Build für Level 30 pro Spezialisierung, wichtige Stufen, die Totemquests, die Waffen aus Call of Air, Zonen, Ausrüstung, Totems und Mana.
 
 | | |
 |---|---|
 | Einfachste Spezialisierung zum Leveln | Enhancement, mit Windfury Weapon ab Level 30 |
-| Wichtigste Talente | Thundering Strikes, Mental Dexterity, Improved Ghost Wolf, Flurry, Stormstrike, Lava Burst |
+| Wichtigste Talente | Thundering Strikes, Mental Dexterity, Flurry, Stormstrike, Call of Thunder |
 | Stärken | Totembuffs, Selbstheilung, schnelles Reisen mit Ghost Wolf, kann als Enhancement niedrige Dungeons tanken |
 | Schwächen | Mana, wenig Kontrolle |
 | Talentreihenfolge pro Level | [Leveling-Build für den Shaman](/de/leveling/shaman/) |
@@ -61,24 +61,24 @@ Stoneclaw Totem und Earthbind Totem helfen, wenn ein Pull schiefgeht. Werte am A
 
 ## Enhancement-Build für Level 30
 
-Der stärkste Leveling-Build, und er skaliert bis ins Endgame. Totem Twisting ist weg, was die Rotation einfacher macht. [Öffne den Build im Talentrechner](/de/talents/shaman/?t=-0500321310051).
+Der stärkste Leveling-Build, und er skaliert bis ins Endgame. Totem Twisting ist weg, was die Rotation einfacher macht. [Öffne den Build im Talentrechner](/de/talents/shaman/?t=-052031310051).
 
 | Talent | Punkte |
 |---|---|
 | **Thundering Strikes** | 5/5 |
+| **Ancestral Knowledge** | 2/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Ghost Wolf** | 2/2 |
 | **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
 
-[Öffne die Talented-Version](/de/talents/shaman/?t=-05003213100510221) mit Mental Quickness 2/2, Improved Stormstrike 2/2 und Maelstrom Weapon 1/5.
+[Öffne die Talented-Version](/de/talents/shaman/?t=-05203131005100221) mit Mental Quickness 2/2, Improved Stormstrike 2/2 und Maelstrom Weapon 1/5.
 
 ![Der Talented-Build des Enhancement Shaman in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
 
-Mental Dexterity wandelt deine Intelligenz in Angriffskraft um, und Mental Quickness in Zauberschaden, also ist Intelligenz mehr wert, als du denkst. Improved Ghost Wolf macht Ghost Wolf sofort und drinnen nutzbar.
+Mental Dexterity wandelt deine Intelligenz in Angriffskraft um, und Mental Quickness in Zauberschaden, also ist Intelligenz mehr wert, als du denkst. Improved Ghost Wolf, das Ghost Wolf sofort und drinnen nutzbar macht, steht seit dem 2. November in der vierten Reihe und passt nicht in diesen Build.
 
 1. Halte Lightning Shield und Windfury Weapon aktiv.
 2. Stell im Kampf Searing Totem und Strength of Earth Totem auf.
@@ -103,7 +103,7 @@ Für einen reinen Zauberer auf Distanz. [Öffne den Build im Talentrechner](/de/
 | **Elemental Focus** | 1/1 |
 | **Trial by Fire** | 2/2 |
 | **Eye of the Storm** | 3/3 |
-| **Lava Burst** | 1/1 |
+| **Call of Thunder** | 1/1 |
 
 [Öffne die Talented-Version](/de/talents/shaman/?t=350033102301131) mit Elemental Reach 1/2, Lightning Overload 3/3 und Elemental Fury 1/5.
 
@@ -111,11 +111,10 @@ Für einen reinen Zauberer auf Distanz. [Öffne den Build im Talentrechner](/de/
 
 1. Halte Lightning Shield aktiv.
 2. Stell Searing Totem gegen ein Ziel auf, Magma Totem gegen mehrere, und Mana Spring Totem, wenn du lange genug an einer Stelle bleibst.
-3. Pull mit Lava Burst.
-4. Wirk Flame Shock genau, wenn Lava Burst fertig ist: der sofortige Schock trifft vor der langsameren Lava, und Lava Burst macht dann mehr Schaden am brennenden Ziel.
+3. Pull mit Lightning Bolt.
+4. Wirk Flame Shock.
 5. Halte Flame Shock auf dem Ziel.
-6. Wirk Lava Burst bei Abklingzeit.
-7. Füll mit Lightning Bolt auf.
+6. Füll mit Lightning Bolt auf.
 
 Werte: Zauberschaden und Intelligenz, dann kritische Trefferchance, dann Ausdauer und Willenskraft, dann Rüstung.
 
@@ -155,12 +154,12 @@ Beim Lehrer, sofern nicht anders angegeben. Mit Talented aus dem Legacy-System k
 | 16 | Cure Poison |
 | 18 | Tremor Totem |
 | 20 | Ghost Wolf, Frost Shock, Frostbrand Weapon, Lesser Healing Wave, Call of the Elements, Totemic Recall; Healing Stream Totem aus der Wasserquest; Water Shield (Talent) |
-| 22 | Totemic Projection, Cure Disease, Poison Cleansing Totem |
+| 22 | Totemic Call, Cure Disease, Poison Cleansing Totem |
 | 24 | Frost Resistance Totem |
 | 25 | Stormstrike und Mana Tide Totem (Talente) |
 | 26 | Magma Totem, Mana Spring Totem |
 | 28 | Fire Resistance Totem, Flametongue Totem |
-| 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation; Lava Burst und Nature's Swiftness (Talente) |
+| 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation; Call of Thunder und Nature's Swiftness (Talente) |
 | 32 | Chain Lightning, Windfury Totem |
 | 40 | Chain Heal, Call of the Spirits, Dual Spec |
 
@@ -255,7 +254,7 @@ Stell nur die Totems auf, die gerade helfen: Jedes Totem kostet Mana und eine gl
 | Healing Stream Totem | Heilt immer wieder ein wenig |
 | Mana Spring Totem | Gibt deiner Gruppe Mana zurück |
 
-Call of the Elements stellt ein gespeichertes Set aus vier Totems mit einer Taste auf. Totemic Projection versetzt sie und Totemic Recall holt sie zurück.
+Call of the Elements stellt ein gespeichertes Set aus vier Totems mit einer Taste auf. Totemic Call holt sie zu dir und Totemic Recall holt sie zurück.
 
 ## Bewegung und Mana
 

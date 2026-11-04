@@ -3,14 +3,14 @@ title: "Arcane Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Arcane Mage: Arcane Blast-build, rotatie, mana, stats en races"
 description: "De Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage en Arcane Wrath, twee builds voor level 30 voor solo en dungeons, de rotatie, mana en burnfases, overleven, stats, gear, races en tradeskills."
 short: "Arcane Mage"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
   - q: "Is de Arcane Mage goed in WoW Forever?"
     a: "Ja, voor schade op één doelwit. Arcane Blast, Missile Barrage en Arcane Wrath maken van de oude ondersteunende boom een burstspec met eigen spells. De prijs is mana: Arcane is de moeilijkste Mage-spec om goed te spelen, en leunt op procs en gear."
   - q: "Hoe werkt Arcane Blast?"
-    a: "Elke cast geeft je 15% van je Intellect als spell damage, tot 4 stacks, dus 60% bij volle stacks. Elke stack maakt de volgende Arcane Blast ook 175% duurder. Arcane Blast is een talent op level 20 met een cast van 1,5 seconde."
+    a: "Elke cast geeft je 12% van je Intellect als spell damage, tot 4 stacks, dus 48% bij volle stacks. Elke stack maakt de volgende Arcane Blast ook 100% duurder. Arcane Blast is een talent op level 20 met een cast van 1,5 seconde."
   - q: "Wanneer cast ik Arcane Wrath?"
     a: "Bij 3 of 4 stacks van Arcane Blast, zodat je twee casts in één venster krijgt. De cast duurt 3,5 seconden met een cooldown van 6 seconden, en Arcane Wrath krijgt extra spell damage gelijk aan 5% van je maximale mana."
   - q: "Welke build is beter, single target of dungeon?"
@@ -40,7 +40,7 @@ De Arcane Mage heeft in WoW Forever eindelijk eigen schadespells. Arcane Blast s
 
 ## Wat er verandert voor Arcane
 
-- **Arcane Blast is nieuw.** Een talent op level 20 met een cast van 1,5 seconde. Elke cast geeft 15% van je Intellect als spell damage, tot 4 stacks, en maakt de volgende Arcane Blast 175% duurder.
+- **Arcane Blast is nieuw.** Een talent op level 20 met een cast van 1,5 seconde. Elke cast geeft 12% van je Intellect als spell damage, tot 4 stacks, en maakt de volgende Arcane Blast 100% duurder.
 - **Missile Barrage is nieuw.** Op 2/2 heeft Arcane Blast 40% kans, en Arcane Wrath, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=133"><img class="wf-wh__icon" src="/wh/spell_fire_flamebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fireball</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> en Frostfire Bolt 20%, om je volgende Arcane Missiles gratis en twee keer zo snel te maken. Treffers van Arcane Missiles hebben ook 10% kans.
 - **Arcane Wrath is nieuw.** Een talent op level 25: cast van 3,5 seconden, cooldown van 6 seconden, met extra spell damage gelijk aan 5% van je maximale mana.
 - **Arcane Meditation is sterker.** Op 3/3 loopt 50% van je manaregeneratie door tijdens het casten. Met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6117"><img class="wf-wh__icon" src="/wh/spell_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mage Armor</a> op level 34 wordt dat 100%.
@@ -61,38 +61,38 @@ Beide builds gebruiken de 21 punten die je op level 30 hebt. Talented uit het Le
 
 ### Build voor één doelwit
 
-Om te questen en in de open wereld. 5/5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11237"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Channeling</a> houdt je casts gaande als monsters je raken, en de build gaat zo diep als hij kan richting Arcane Mind. De prijs is de 6% critical strike chance van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11242"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Impact</a>. [Open de build in de talentcalculator](/nl/talents/mage/?t=03520050001003101).
+Om te questen en in de open wereld. 5/5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11237"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Channeling</a> houdt je casts gaande als monsters je raken, en de build gaat zo diep als hij kan richting Arcane Mind. De prijs is de 6% critical strike chance van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11242"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Impact</a>. [Open de build in de talentcalculator](/nl/talents/mage/?t=0530052001003101).
 
 | Talent | Punten |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11222"><img class="wf-wh__icon" src="/wh/spell_holy_devotion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Focus</a>** | 3/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11237"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Channeling</a>** | 5/5 |
+| **Improved Channeling** | 5/5 |
+| **Arcane Resilience** | 3/3 |
+| **Arcane Concentration** | 5/5 |
 | **Missile Barrage** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11213"><img class="wf-wh__icon" src="/wh/spell_shadow_manaburn.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Concentration</a>** | 5/5 |
 | **Arcane Blast** | 1/1 |
 | **Arcane Meditation** | 3/3 |
 | **Arcane Wrath** | 1/1 |
 | **Arcane Mind** | 1/5 |
 
-[Open de Talented-versie](/nl/talents/mage/?t=035200500010031051) met Arcane Mind 5/5 en Arcane Instability 1/3.
+[Open de Talented-versie](/nl/talents/mage/?t=05300520010031051) met Arcane Mind 5/5 en Arcane Instability 1/3.
 
 ### Build voor dungeons
 
-Voor dungeons, als iemand anders tankt. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11210"><img class="wf-wh__icon" src="/wh/spell_holy_dispelmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Subtlety</a> verlaagt de threat van je Arcane-spells met 30%, zodat je Arcane Explosion kunt spammen, en Arcane Impact 3/3 geeft 6% extra critical strike chance. Zonder Improved Channeling vertragen monsters die je raken elke cast. [Open de build in de talentcalculator](/nl/talents/mage/?t=03022050031003101).
+Voor dungeons, als iemand anders tankt. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11210"><img class="wf-wh__icon" src="/wh/spell_holy_dispelmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Subtlety</a> verlaagt de threat van je Arcane-spells met 30%, zodat je Arcane Explosion kunt spammen, en Arcane Impact 3/3 geeft 6% extra critical strike chance. Zonder Improved Channeling vertragen monsters die je raken elke cast. [Open de build in de talentcalculator](/nl/talents/mage/?t=0230052031003101).
 
 | Talent | Punten |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11222"><img class="wf-wh__icon" src="/wh/spell_holy_devotion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Focus</a>** | 3/5 |
+| **Improved Channeling** | 2/5 |
+| **Arcane Resilience** | 3/3 |
+| **Arcane Concentration** | 5/5 |
 | **Missile Barrage** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11210"><img class="wf-wh__icon" src="/wh/spell_holy_dispelmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Subtlety</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11213"><img class="wf-wh__icon" src="/wh/spell_shadow_manaburn.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Concentration</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11242"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Impact</a>** | 3/3 |
+| **Arcane Impact** | 3/3 |
 | **Arcane Blast** | 1/1 |
 | **Arcane Meditation** | 3/3 |
 | **Arcane Wrath** | 1/1 |
 | **Arcane Mind** | 1/5 |
 
-[Open de Talented-versie](/nl/talents/mage/?t=030220500310031051) met Arcane Mind 5/5 en Arcane Instability 1/3. De [levelbuild voor de Mage](/nl/leveling/mage/) geeft een talent voor elk level van 10 tot 35.
+[Open de Talented-versie](/nl/talents/mage/?t=02300520310031051) met Arcane Mind 5/5 en Arcane Instability 1/3. De [levelbuild voor de Mage](/nl/leveling/mage/) geeft een talent voor elk level van 10 tot 35.
 
 ### Wat de belangrijkste talenten doen
 
@@ -126,7 +126,7 @@ Voor dungeons, als iemand anders tankt. <a class="wf-wh wf-spell" href="https://
 
 ## Stacks van Arcane Blast en procs
 
-De spec speelt in burnfases. De eerste Arcane Blast start een buff van 15 seconden die tot 4 stapelt. Vier Arcane Blasts na elkaar en dan de rest zou ideaal zijn, maar de manakost laat dat zelden toe, zeker op lage levels. Dus spreid je je Arcane Blasts en leun je op twee procs.
+De spec speelt in burnfases. De eerste Arcane Blast start een buff van 18 seconden die tot 4 stapelt. Vier Arcane Blasts na elkaar en dan de rest zou ideaal zijn, maar de manakost laat dat zelden toe, zeker op lage levels. Dus spreid je je Arcane Blasts en leun je op twee procs.
 
 1. **Eerst Clearcasting.** Gebruik het op Arcane Blast voor een gratis stack, zeker als je al op 4 stacks zit.
 2. **Dan Missile Barrage.** Arcane Missiles kan zelf een nieuwe Missile Barrage of Clearcasting geven.
@@ -164,7 +164,7 @@ Gebruik Frost Blast of Frostbolt rank 1 om een doelwit van ver te vertragen, Con
 De exacte volgorde op level 60 volgt na de launch. Deze stats helpen een Arcane Mage:
 
 - **Spell damage en Arcane spell damage** eerst. Arcane spell damage helpt alleen Arcane-spells.
-- **Intellect** telt zwaarder voor Arcane dan voor de andere Mage-specs: een grotere manapool, 10% extra uit Arcane Mind, en Arcane Blast zet er per stack 15% van om in spell damage.
+- **Intellect** telt zwaarder voor Arcane dan voor de andere Mage-specs: een grotere manapool, 10% extra uit Arcane Mind, en Arcane Blast zet er per stack 18% van om in spell damage.
 - **Critical strike chance.** Arcane Impact en Arcane Mind maken crits sterker. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a> in de Fire-boom geeft Arcane Blast 6% extra critical strike chance.
 - **Haste** betekent snellere casts en meer procs. Op lage levels krijgen alleen Troll (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20554"><img class="wf-wh__icon" src="/wh/racial_troll_berserk.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Berserking</a>) en High Order Skyborne (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>) het.
 - **Spirit en mana per 5 seconden** zijn voor Arcane meer waard dan voor andere Mages, dankzij Arcane Meditation en later Mage Armor.

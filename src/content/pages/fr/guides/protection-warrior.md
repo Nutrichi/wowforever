@@ -3,7 +3,7 @@ title: "Guide du Protection Warrior dans WoW Forever"
 metaTitle: "WoW Forever Protection Warrior : build tank niveau 30, menace et Rage"
 description: "Le Protection Warrior dans WoW Forever : le build tank niveau 30 avec Master of Defense, Defiance et Vanguard, la rotation de menace, les affaiblissements, la Rage, les stats et les races."
 short: "Protection Warrior"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: fr
 manual: true
 faq:
@@ -41,7 +41,7 @@ Le Protection Warrior de WoW Forever est le chevalier classique : armure lourde,
 - **Master of Defense est nouveau.** 5 de Rage à chaque esquive et parade tant que vous portez un bouclier.
 - **Vanguard est nouveau.** Charge fonctionne en Defensive Stance.
 - **Focused Rage est nouveau.** Vos techniques offensives coûtent 3 de Rage en moins à 3/3.
-- **Defiance** donne 15 % de menace en plus en Defensive Stance avec un bouclier à 3/3.
+- **Defiance** donne 20 % de menace en plus en Defensive Stance avec un bouclier à 3/3.
 - **Last Stand** donne maintenant 30 % de votre vie maximale pendant 20 secondes.
 - **Bastion** donne 10 % de dégâts en plus avec un bouclier à 5/5, et **Shield Slam** dissipe aussi un effet magique une fois sur deux.
 - **Improved Shield Wall** retire 11 minutes au temps de recharge de Shield Wall à 2/2.
@@ -85,7 +85,7 @@ Après le niveau 30 viennent Bastion, Improved Shield Wall, Improved Thunder Cla
 | **Anticipation** | 20 de compétence en Défense en plus à 5/5 |
 | **Master of Defense** | 5 de Rage par esquive et parade avec un bouclier |
 | **Improved Revenge** | 60 % de dégâts en plus pour Revenge, donc plus de menace |
-| **Defiance** | 15 % de menace en plus en Defensive Stance avec un bouclier |
+| **Defiance** | 20 % de menace en plus en Defensive Stance avec un bouclier |
 | **Last Stand** | 30 % de vie maximale en plus pendant 20 secondes |
 | **Vanguard** | Ouvrez chaque pull avec Charge, sans quitter Defensive Stance |
 | **Focused Rage** | 3 de Rage en moins pour vos techniques offensives |

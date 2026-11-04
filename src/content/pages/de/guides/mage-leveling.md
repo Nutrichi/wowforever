@@ -3,7 +3,7 @@ title: "Mage-Levelguide für WoW Forever"
 metaTitle: "WoW Forever Mage-Levelguide: Frost, Fire und Arcane, Rotation und Tipps"
 description: "So levelst du einen Mage in WoW Forever: warum Frost mit Ice Lance am schnellsten ist, die Rotation für Frost, Fire und Arcane, wichtige Level, Klassenquests, Schriftrollen, Mana und Bedrohung."
 short: "Mage leveln"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
@@ -46,7 +46,7 @@ Der Mage levelt in WoW Forever schnell und allein, mit endlosem Essen und Wasser
 
 ## Der Frost-Build
 
-Der [Levelbuild des Mage](/de/leveling/mage/) gibt das Talent für jedes Level von 10 bis 35. Kurz gesagt: zuerst <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a> und Elemental Precision, dann <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a> auf 17 bis 19, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a> auf 20, Ice Shards, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a> auf 25 bis 27, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a> auf 28, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a> auf 30 und 31, Missile Barrage aus dem Arcane-Baum auf 32 und 33 und Piercing Ice auf 34 und 35.
+Der [Levelbuild des Mage](/de/leveling/mage/) gibt das Talent für jedes Level von 10 bis 35.
 
 | Talent | Was es in Forever tut |
 |---|---|
@@ -57,7 +57,7 @@ Der [Levelbuild des Mage](/de/leveling/mage/) gibt das Talent für jedes Level v
 | **Ice Shards** | Verdoppelt den kritischen Bonus deiner Frost-Zauber |
 | **Frost Channeling** | Frost-Zauber 15 % billiger und 30 % weniger Bedrohung |
 
-Mit Punkten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> aus dem Legacy-System erreichst du jedes Talent bis zu fünf Level früher. Der [Frost-Mage-Guide](/de/guides/frost-mage/) hat den Build für Level 30 mit Missile Barrage, dazu Kiten, Mana, Shatter und Ausrüstung. Der [Arcane-Mage-Guide](/de/guides/arcane-mage/) hat zwei Builds für Level 30 mit Arcane Blast, dazu Burn-Phasen und Mana. Der [Fire-Mage-Guide](/de/guides/fire-mage/) hat zwei Builds für Level 30 mit Heating Up, dazu Fire Power und Mana.
+Mit Punkten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> aus dem Legacy-System erreichst du jedes Talent bis zu fünf Level früher. Der [Arcane-Mage-Guide](/de/guides/arcane-mage/) hat zwei Builds für Level 30 mit Arcane Blast, dazu Burn-Phasen und Mana. Der [Fire-Mage-Guide](/de/guides/fire-mage/) hat zwei Builds für Level 30 mit Heating Up, dazu Fire Power und Mana.
 
 ## Rotation
 
@@ -80,11 +80,10 @@ Mit Punkten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/s
 **Arcane**
 - <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400574"><img class="wf-wh__icon" src="/wh/spell_arcane_blast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Blast</a>, um Stapel aufzubauen und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400588"><img class="wf-wh__icon" src="/wh/ability_mage_missilebarrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Missile Barrage</a> auszulösen.
 - <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5143"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Missiles</a> mit 1 oder 2 Stapeln Arcane Blast.
-- <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2136"><img class="wf-wh__icon" src="/wh/spell_fire_fireball.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Blast</a> oder <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1449"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Explosion</a>, um die Stapel zu verbrauchen, wenn Missile Barrage nicht procct.
 
 In jedem Spec: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=122"><img class="wf-wh__icon" src="/wh/spell_frost_frostnova.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Nova</a> und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> zur Flucht, Frost Blast ab Level 24 zum Verlangsamen und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=118"><img class="wf-wh__icon" src="/wh/spell_nature_polymorph.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polymorph</a> auf ein gefährliches zusätzliches Ziel.
 
-Arcane Blast gibt jetzt pro Stapel 15 Sekunden lang Zaubermacht, und Missile Barrage steht in der ersten Reihe. Der [Arcane-Mage-Guide](/de/guides/arcane-mage/) hat die aktuelle Rotation. Alle Änderungen stehen in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+Der [Arcane-Mage-Guide](/de/guides/arcane-mage/) hat die aktuelle Rotation. Alle Änderungen stehen in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Wichtige Level
 

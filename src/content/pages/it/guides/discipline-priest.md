@@ -3,7 +3,7 @@ title: "Guida al Discipline Priest in WoW Forever"
 metaTitle: "WoW Forever Discipline Priest: build 31/20/0, Penance e stats"
 description: "Il Discipline Priest in WoW Forever: la build 31/20/0 per il livello 60, Penance, Divine Aegis, Renewed Hope e Power Infusion, cure del tank, mana, stats e razze."
 short: "Discipline Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: it
 manual: true
 faq:
@@ -56,7 +56,7 @@ Il Discipline Priest di WoW Forever protegge con gli scudi e cura, con Penance c
 
 ## La build di livello 60 (31/20/0)
 
-Questa build usa tutti i 51 punti del livello 60: 31 in Discipline fino a Power Infusion e 20 in Holy per Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing e Binding Heal. [Apri la build nel calcolatore dei talenti](/it/talents/priest/?t=005005031330011531-035050030301).
+Questa build usa tutti i 51 punti del livello 60: 31 in Discipline fino a Power Infusion e 20 in Holy per Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing. [Apri la build nel calcolatore dei talenti](/it/talents/priest/?t=005005031330011531-035050030301).
 
 | Talento | Punti |
 |---|---|
@@ -76,7 +76,7 @@ Questa build usa tutti i 51 punti del livello 60: 31 in Discipline fino a Power 
 | **Divine Fury** | 5/5 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 
 ![La build 31/20/0 del Discipline Priest nel nostro calcolatore dei talenti](../../../../assets/posts/2026-10-21-wow-forever-discipline-priest-build.jpg)
 
@@ -105,13 +105,13 @@ Un guaritore non ha una rotazione fissa. Rispondi ai danni che arrivano e al tuo
 - Renew su un tank che subisce danni costanti.
 - Power Word: Shield sul tank prima di un colpo grosso, e su di te contro i rallentamenti del lancio.
 - Penance per ridare molta salute in una volta.
-- Flash Heal o Binding Heal quando il tank ha bisogno di salute in fretta.
+- Flash Heal quando il tank ha bisogno di salute in fretta.
 - Greater Heal con Inner Focus quando sai che arriva un colpo grosso.
 
 **Curare il gruppo**
 - Renew sul maggior numero possibile di bersagli che subiscono danni costanti.
 - Scudi su chi sta per subire un colpo grosso. Uno scudo su un incantatore lo protegge anche dai rallentamenti del lancio.
-- Flash Heal o Binding Heal per rialzare i bersagli uno dopo l’altro.
+- Flash Heal per rialzare i bersagli uno dopo l’altro.
 - Greater Heal con Inner Focus per i buchi grandi.
 
 **Tempi di recupero e utilità**

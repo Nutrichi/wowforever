@@ -3,7 +3,7 @@ title: "Guía de los Poisons del Rogue en WoW Forever"
 metaTitle: "WoW Forever, Poisons del Rogue: misiones, rangos, cargas y componentes"
 description: "Cómo desbloquea un Rogue los Poisons en WoW Forever: las misiones de Alianza y Horda a nivel 20, cada veneno y rango, las nuevas cargas, los componentes y qué cambia."
 short: "Rogue Poisons"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: es
 manual: true
 faq:
@@ -143,9 +143,9 @@ Los rangos altos piden más de lo mismo, <a class="wf-wh wf-q1" href="https://ww
 | **Malice** | Hasta un 5% de probabilidad de crítico con ataques y Poisons |
 | **Improved Poisons** | Hasta un 10% más de probabilidad de aplicar Poisons, y un 50% de no gastar carga |
 | **Vile Poisons** | Hasta un 20% más de daño con Poisons, que resisten más a menudo las disipaciones |
-| **Venom** | Nuevo remate: 30% más de daño con Poisons y 10% más de probabilidad de aplicarlos, de 9 a 21 segundos |
+| **Venom** | Pasivo en la quinta fila: Shank sube tu daño con Poisons un 30% y tu probabilidad de aplicarlos un 20% durante 6 segundos |
 
-Venom está al fondo del árbol de Assassination. Para una build completa con estos talentos, mira la [guía del Rogue Assassination](/es/guides/assassination-rogue/). Para las misiones durante la subida de nivel, mira la [guía de leveo del Rogue](/es/guides/rogue-leveling/).
+Venom está en la quinta fila del árbol de Assassination desde el 2 de noviembre. Para una build completa con estos talentos, mira la [guía del Rogue Assassination](/es/guides/assassination-rogue/). Para las misiones durante la subida de nivel, mira la [guía de leveo del Rogue](/es/guides/rogue-leveling/).
 
 ## Qué veneno usar
 

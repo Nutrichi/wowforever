@@ -3,7 +3,7 @@ title: "Gids voor de Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "De Enhancement Shaman in WoW Forever: de build voor level 30 en de Talented-versie, Stormstrike en Maelstrom Weapon, de rotatie, totems, mana, tanken, stats en races."
 short: "Enhancement Shaman"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
@@ -27,7 +27,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
+> **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/).
 
 De Enhancement Shaman in WoW Forever vecht in melee en mengt er spells door. Een traag tweehandig wapen met Windfury Weapon levert de grote klappen, terwijl Stormstrike en Maelstrom Weapon Lightning Bolt aan de rotatie toevoegen. Totems maken je welkom in elke groep. Deze gids behandelt de build voor level 30, de belangrijkste talenten, de rotatie, totems, mana, tanken, stats en races.
 
@@ -35,7 +35,7 @@ De Enhancement Shaman in WoW Forever vecht in melee en mengt er spells door. Een
 |---|---|
 | Rol | Melee damage, één doel en groepen, tank in vroege dungeons |
 | Build op level 30 | 21 punten in Enhancement, Talented voegt Mental Quickness 2/2, Improved Stormstrike 2/2 en Maelstrom Weapon 1/5 toe |
-| Belangrijkste talenten | Improved Ghost Wolf, Mental Dexterity, Shamanistic Focus, Flurry, Stormstrike, Improved Stormstrike, Maelstrom Weapon |
+| Belangrijkste talenten | Mental Dexterity, Shamanistic Focus, Flurry, Stormstrike, Improved Stormstrike, Maelstrom Weapon |
 | Sterk | Stevige damage, totems voor de hele raid, veel utility |
 | Zwak | Mana, afhankelijk van je wapen, weinig verdedigende opties |
 | Andere Shaman-gidsen | [Elemental Shaman](/nl/guides/elemental-shaman/), [Restoration Shaman](/nl/guides/restoration-shaman/), [Shaman leveling](/nl/guides/shaman-leveling/), [Shaman level build](/nl/leveling/shaman/) |
@@ -58,20 +58,20 @@ De Enhancement Shaman in WoW Forever vecht in melee en mengt er spells door. Een
 
 ## De build voor level 30
 
-De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem geeft er 5 bij. [Open de build in de talent calculator](/nl/talents/shaman/?t=-0500321310051).
+De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem geeft er 5 bij. [Open de build in de talent calculator](/nl/talents/shaman/?t=-052031310051).
 
 | Talent | Punten |
 |---|---|
 | **Thundering Strikes** | 5/5 |
+| **Ancestral Knowledge** | 2/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Ghost Wolf** | 2/2 |
 | **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
 
-[Open de Talented-versie](/nl/talents/shaman/?t=-05003213100510221) met Mental Quickness 2/2, Improved Stormstrike 2/2 en Maelstrom Weapon 1/5.
+[Open de Talented-versie](/nl/talents/shaman/?t=-05203131005100221) met Mental Quickness 2/2, Improved Stormstrike 2/2 en Maelstrom Weapon 1/5.
 
 ![De Talented-build van de Enhancement Shaman in onze talent calculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
 
@@ -82,12 +82,12 @@ Onze [Shaman-levelgids](/nl/guides/shaman-leveling/) gebruikt dezelfde build en 
 | Talent | Wat het doet in Forever |
 |---|---|
 | **Thundering Strikes** | 5% meer critical strike chance met alle spells en aanvallen |
-| **Mental Dexterity** | Attack power gelijk aan 100% van je Intellect |
-| **Improved Ghost Wolf** | Ghost Wolf wordt instant en werkt binnen |
+| **Mental Dexterity** | Attack power gelijk aan 150% van je Intellect |
+| **Ancestral Knowledge** | Op 2/5: 4% meer Intellect, die Mental Dexterity omzet in meer attack power |
 | **Elemental Weapons** | Rockbiter Weapon 20% meer attack power, Windfury Weapon 40% sterker, Flametongue en Frostbrand Weapon 15% meer damage |
 | **Shamanistic Focus** | Shocks en Lightning Shield kosten 45% minder mana |
-| **Flurry** | 25% meer attack speed voor 3 slagen na een melee critical strike |
-| **Stormstrike** | Instant slag met wapenschade. Je volgende Lightning Bolt, Chain Lightning of Earth Shock doet binnen 12 seconden 20% meer damage. Cooldown 8 seconden |
+| **Flurry** | 30% meer attack speed voor 3 slagen na een melee critical strike |
+| **Stormstrike** | Instant slag met 150% wapenschade. Je volgende Lightning Bolt, Chain Lightning of Earth Shock doet binnen 12 seconden 20% meer damage. Cooldown 6 seconden |
 | **Mental Quickness** | Spell damage en healing gelijk aan 30% van je Intellect |
 | **Improved Stormstrike** | Stormstrike geeft 15 seconden 50% manaregeneratie tijdens het casten. Een dodge of parry zet de cooldown terug |
 | **Maelstrom Weapon** | Meleeslagen kunnen de casttijd en manakost van je volgende Lightning Bolt verlagen, tot 5 stacks. 4% per stack op 1/5, 20% per stack op 5/5 |
@@ -128,7 +128,7 @@ Zonder mana heb je nog je gewone slagen, maar je damage zakt sterk tot de mana t
 ## Totems en beweging
 
 - **Call of the Elements** en de andere Call-spells zetten met één knop een opgeslagen set van vier totems neer. Ze hebben een casttijd.
-- **Totemic Recall** neemt je totems terug. **Totemic Projection** verplaatst je actieve totems, maar kost veel mana.
+- **Totemic Recall** neemt je totems terug. **Totemic Call** brengt je actieve totems naar de plek waar je staat, met een cooldown van 30 seconden.
 - **Windfury Totem** is de beste meleebuff in het spel. Zonder de partybeperking werkt hij voor de hele raid. Windfury-effecten stapelen niet.
 - **Tremor Totem** haalt fear, sleep en charm weg bij bondgenoten binnen bereik. Goede timing redt runs.
 - **Poison Cleansing Totem** en **Disease Cleansing Totem** halen per puls één effect weg.
@@ -153,7 +153,7 @@ Stat-prioriteiten voor level 60 volgen na de launch. Tot dan:
 - **Wapenschade**: je grootste bron van schaling, via Stormstrike en Windfury.
 - **Hit**: vroeg minder belangrijk, een hoge prioriteit rond level 60. Een gemiste vaardigheid verspilt damage en mana.
 - **Strength**: 2 attack power per punt.
-- **Intellect**: 1 attack power per punt met Mental Dexterity, plus een grotere manapool. Het kan Strength verslaan als mana je probleem is.
+- **Intellect**: 1,5 attack power per punt met Mental Dexterity, plus een grotere manapool. Het kan Strength verslaan als mana je probleem is.
 - **Critical strike chance**: houdt Flurry draaiende, en ook Windfury-slagen kunnen crit zijn.
 - **Spirit**: nuttiger dan het lijkt, want Improved Stormstrike houdt regeneratie actief tijdens het casten.
 - **Spell damage**: Enhancement cast aardig wat spells, dus gear met spell power kan een verbetering zijn.

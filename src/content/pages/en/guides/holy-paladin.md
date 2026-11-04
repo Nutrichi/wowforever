@@ -3,7 +3,7 @@ title: "Holy Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Holy Paladin: healing build, spells and mana"
 description: "The Holy Paladin in WoW Forever: the level 30 healing build and its Talented version, Holy Shock and Light's Vigil, the healing priority, mana, seals, stats and races."
 short: "Holy Paladin"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: en
 faq:
   - q: "Is Holy Paladin a good healer in WoW Forever?"
@@ -29,8 +29,8 @@ The Holy Paladin in WoW Forever is the most straightforward healer in the game. 
 | | |
 |---|---|
 | Role | Healer, mostly single target |
-| Build at level 30 | 21 points in Holy, Talented adds Healing Light, Purifying Power, Divine Precision and Holy Power |
-| Key talents | Divine Intellect, Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
+| Build at level 30 | 21 points in Holy, Talented adds Purifying Power, Boundless Light and Holy Power |
+| Key talents | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Strength | Big heals, group utility, very hard to kill |
 | Weakness | Mostly reactive, only one area heal |
 | Leveling | [Paladin leveling guide](/guides/paladin-leveling/), [Paladin level build](/leveling/paladin/) |
@@ -47,20 +47,20 @@ The Holy Paladin in WoW Forever is the most straightforward healer in the game. 
 
 ## The level 30 build
 
-The beta stopped at level 30, so the build uses 21 points. Talented from the Legacy system adds 5 more. [Open the build in the talent calculator](/talents/paladin/?t=05220003025101).
+The beta stopped at level 30, so the build uses 21 points. Talented from the Legacy system adds 5 more. [Open the build in the talent calculator](/talents/paladin/?t=50320015022001).
 
 | Talent | Points |
 |---|---|
-| **Divine Intellect** | 5/5 |
-| **Healing Light** | 2/3 |
-| **Spiritual Focus** | 2/2 |
-| **Reverence** | 3/3 |
-| **Infusion of Light** | 2/2 |
-| **Illumination** | 5/5 |
+| **Spiritual Focus** | 5/5 |
+| **Healing Light** | 3/3 |
+| **Reverence** | 2/2 |
 | **Divine Favor** | 1/1 |
+| **Illumination** | 5/5 |
+| **Divine Precision** | 2/2 |
+| **Infusion of Light** | 2/2 |
 | **Holy Shock** | 1/1 |
 
-[Open the Talented version](/talents/paladin/?t=0532000322511101) with Healing Light 3/3, Purifying Power 2/2, Divine Precision 1/3 and Holy Power 1/5.
+[Open the Talented version](/talents/paladin/?t=5032021502200121) with Purifying Power 2/2, Boundless Light 2/2 and Holy Power 1/5.
 
 ![The Talented Holy Paladin build in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
 
@@ -70,7 +70,6 @@ Holy Shock sits in the fifth row and needs 20 points above it. At 21 points that
 
 | Talent | What it does in Forever |
 |---|---|
-| **Divine Intellect** | 10% more Intellect |
 | **Healing Light** | Holy Light, Flash of Light and Holy Shock heal 12% more |
 | **Spiritual Focus** | 70% chance not to lose cast time when you take damage, for Flash of Light, Holy Light and Light's Vigil |
 | **Reverence** | 30% of your mana regeneration continues while you cast |
@@ -78,7 +77,7 @@ Holy Shock sits in the fifth row and needs 20 points above it. At 21 points that
 | **Infusion of Light** | A critical Holy Shock or Flash of Light makes your next Holy Light 1 second faster |
 | **Illumination** | A critical heal gives back mana equal to 50% of the base cost of the spell |
 | **Divine Favor** | Your next Flash of Light, Holy Light or Holy Shock is a critical effect |
-| **Divine Precision** | 18% more chance to hit with Holy spells, so Judgement and Holy Shock land |
+| **Divine Precision** | 8% more chance to hit with Holy spells, so Judgement and Holy Shock land |
 | **Holy Shock** | An instant blast of Holy damage on an enemy, or an instant heal on an ally |
 | **Holy Power** | 15% more critical strike chance for Holy Shock and Holy Strike, 5% for all other spells |
 | **Light's Vigil** | Your next Holy Shock on the target has no cooldown and heals their whole party |

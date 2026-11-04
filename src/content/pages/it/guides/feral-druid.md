@@ -3,18 +3,18 @@ title: "Feral Druid in WoW Forever: la guida"
 metaTitle: "WoW Forever Feral Druid: build felino e orso, rotazione, stats"
 description: "Il Feral Druid in WoW Forever: quattro build per il livello 60 (ibrida, felino, orso e solo), Shifting Power e Primal Bite, le rotazioni da felino e da orso, le stats e le razze."
 short: "Feral Druid"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: it
 manual: true
 faq:
   - q: "Un Feral Druid può tankare e fare danni con una sola build?"
-    a: "Sì. La build ibrida 9/42/0 ha tutto per entrambi i ruoli: Thick Hide e Primal Bite per l'orso, Shredding Attacks e Shifting Power per il felino. Puoi persino cambiare ruolo a metà combattimento."
+    a: "Sì. La build ibrida 9/37/5 ha tutto per entrambi i ruoli: Thick Hide e Primal Bite per l'orso, Shredding Attacks e Shifting Power per il felino. Puoi persino cambiare ruolo a metà combattimento."
   - q: "Il powershifting funziona ancora in WoW Forever?"
     a: "No. Passare in Cat Form non ricarica più l'energia. Furor ora ti restituisce l'energia che avevi uscendo da Cat Form, più 10 energia al secondo fuori da Bear Form, quindi resta il più possibile in una forma. Shifting Power prende quel ruolo: trasforma mana in 40 energia."
   - q: "Cosa fa Shifting Power?"
-    a: "Trasforma subito il 55% del tuo mana base in 40 energia, senza uscire da Cat Form. Usalo sotto 50 energia. Improved Shifting Power riduce il suo tempo di recupero di 8 secondi."
+    a: "Trasforma subito il 55% del tuo mana base in 40 energia, senza uscire da Cat Form. Usalo sotto 50 energia."
   - q: "Cos'è Primal Bite?"
-    a: "Un nuovo attacco da orso con un breve tempo di recupero, che infligge i danni dell'arma e molta minaccia. Con Berserk colpisce fino a 3 bersagli senza tempo di recupero: è il tuo tasto per la minaccia ad area."
+    a: "Un nuovo attacco da orso con un breve tempo di recupero, che infligge i danni dell'arma e molta minaccia. è il tuo tasto per la minaccia ad area."
   - q: "Quali stats servono a un Feral Druid?"
     a: "Da felino: Hit, poi Expertise, poi Crit, Agility, Strength e potenza d'attacco. Da orso anche Defense, Dodge, armatura e Stamina, perché un Druid non può bloccare né parare."
   - q: "Qual è la razza migliore per un Feral Druid?"
@@ -30,8 +30,8 @@ Il Feral Druid di WoW Forever sono due spec in una: un felino che fa danni in mi
 | | |
 |---|---|
 | Ruolo | Danni in mischia in Cat Form, tank in Bear Form |
-| Build per il livello 60 | Ibrida 9/42/0, Felino 9/40/2, Orso 9/42/0, Solo 0/35/16 |
-| Talenti chiave | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Berserk, Nature's Reach |
+| Build per il livello 60 | Ibrida 9/37/5, Felino 9/37/5, Orso 9/37/5, Solo 0/35/16 |
+| Talenti chiave | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Nature's Reach |
 | Punti forti | Due ruoli in uno, Leader of the Pack, il personaggio più veloce al chiuso e all'aperto |
 | Punti deboli | Danni da ibrido, tre risorse da seguire, difficile da padroneggiare |
 | Altre guide del Druid | [Guida al leveling del Druid](/it/guides/druid-leveling/), [Balance Druid](/it/guides/balance-druid/), [Restoration Druid](/it/guides/restoration-druid/) |
@@ -52,44 +52,48 @@ Il Feral Druid di WoW Forever sono due spec in una: un felino che fa danni in mi
 
 Tutte e quattro usano 51 punti, il totale dei talenti al livello 60. Ogni build mette 9 punti in Balance per Genesis 5/5, Nature's Majesty 2/2 e Nature's Reach 2/2, tranne quella in solitaria.
 
-### Ibrida, 9/42/0
+### Ibrida, 9/37/5
 
-Felino e orso in una sola build, per i gruppi di endgame che chiedono l'uno o l'altro ruolo. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=050022-35230332121132212051).
+Felino e orso in una sola build, per i gruppi di endgame che chiedono l'uno o l'altro ruolo. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=050022-50230232123112125011-05).
 
 | Talento | Punti |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a>** | 3/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a>** | 5/5 |
+| **Genesis** | 5/5 |
+| **Nature's Majesty** | 2/2 |
+| **Nature's Reach** | 2/2 |
+| **Ferocity** | 5/5 |
 | **Feral Swiftness** | 2/2 |
 | **Feral Instinct** | 3/3 |
-| **Thick Hide** | 3/3 |
+| **Thick Hide** | 2/3 |
 | **Shredding Attacks** | 3/3 |
 | **Savage Fury** | 2/2 |
 | **Feral Charge** | 1/1 |
 | **Sharpened Claws** | 2/2 |
-| **Shifting Power** | 1/1 |
-| **Primal Bite** | 1/1 |
 | **Predatory Strikes** | 3/3 |
+| **Lacerate** | 1/1 |
+| **Predatory Discipline** | 1/1 |
 | **Blood Frenzy** | 2/2 |
-| **Improved Shifting Power** | 2/2 |
 | **Leader of the Pack** | 1/1 |
 | **Natural Instinct** | 2/2 |
 | **Rend and Tear** | 5/5 |
-| **Berserk** | 1/1 |
+| **Primal Bite** | 1/1 |
+| **Lacerate** | Nuovo talento di Feral Combat dopo l'hotfix |
+| **Shifting Power** | 1/1 |
+| **Heart of the Wild** | 5/5 |
 
-![La build ibrida 9/42/0 del Feral Druid nel nostro calcolatore di talenti](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
+![La build ibrida 9/37/5 del Feral Druid nel nostro calcolatore di talenti](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
 
-### Felino, 9/40/2
+### Felino, 9/37/5
 
-Per un Druid che non tanka mai. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=050022-55230032121032212051-02). Rispetto alla build ibrida: Ferocity 5/5 invece di 3/5, niente Thick Hide e niente Primal Bite, e Furor 2/5 in Restoration.
+Per un Druid che non tanka mai. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=050022-53230032123112125001-05).
 
-### Orso, 9/42/0
+### Orso, 9/37/5
 
-Per un Druid che tanka soltanto, con più rabbia e sopravvivenza. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=050022-55230302120132012451). Rispetto alla build ibrida: Ferocity 5/5 e Natural Reaction 4/5, senza Shredding Attacks, Shifting Power e Improved Shifting Power.
+Per un Druid che tanka soltanto, con più rabbia e sopravvivenza. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=050022-5023030212310212541-05).
 
 ### Solo, 0/35/16
 
-Per missioni e farm in solitaria: cambi di forma più economici e cure su di te efficienti, al prezzo di un po' di rendimento in gruppo. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=-05230032121032212051-15503001001). Feral Combat come nella build da felino senza Ferocity, e in Restoration Nature's Focus 1/5, Furor 5/5, Naturalist 5/5, Natural Shapeshifter 3/3, Gift of the Earthmother 1/1 e Swiftmend 1/1.
+Per missioni e farm in solitaria: cambi di forma più economici e cure su di te efficienti, al prezzo di un po' di rendimento in gruppo. [Apri la build nel calcolatore di talenti](/it/talents/druid/?t=-05231032123112125001-15513000001).
 
 ## Cosa fanno i talenti chiave
 
@@ -104,9 +108,7 @@ Per missioni e farm in solitaria: cambi di forma più economici e cure su di te 
 | **Leader of the Pack** | Il 3% di probabilità di critico in più in mischia e a distanza per il gruppo o il raid entro 45 metri |
 | **Natural Reaction** | Il 5% di schivata in più e 5 rabbia a ogni schivata |
 | **Rend and Tear** | Il 10% di danni in più con le abilità in mischia sui bersagli che sanguinano |
-| **Berserk** | Primal Bite colpisce fino a 3 bersagli senza tempo di recupero, il 100% di probabilità di critico in più per i generatori di Combo Points, e rimuove e blocca la paura |
 | **Furor** | 10 rabbia entrando in Bear Form; Cat Form ti restituisce l'energia che avevi, più 10 energia per ogni secondo passato fuori da Bear Form |
-| **Gift of the Earthmother** | Tempo di recupero globale più corto di 0,5 secondi su Rejuvenation, Swiftmend e Wild Growth |
 
 Per la build in solitaria: un Rejuvenation veloce e Swiftmend ti curano, e torni nella tua forma.
 

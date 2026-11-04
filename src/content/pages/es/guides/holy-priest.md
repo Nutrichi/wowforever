@@ -1,14 +1,14 @@
 ---
 title: "Guía del Holy Priest en WoW Forever"
 metaTitle: "WoW Forever Holy Priest: build 18/33/0, curación y stats"
-description: "El Holy Priest en WoW Forever: la build 18/33/0 para nivel 60, Prayer of Mending, Binding Heal y Litany of Light, curación de tanque y de grupo, maná, stats y razas."
+description: "El Holy Priest en WoW Forever: la build 18/33/0 para nivel 60, Prayer of Mending y Litany of Light, curación de tanque y de grupo, maná, stats y razas."
 short: "Holy Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: es
 manual: true
 faq:
   - q: "¿Es bueno el Holy Priest en WoW Forever?"
-    a: "Sí, Holy es un sanador de banda muy sólido con una herramienta para casi cada situación: Renew, escudos, curas rápidas a un objetivo, Binding Heal, Holy Nova y Prayer of Mending. Sus puntos débiles son la movilidad y algo de azar en los saltos de Prayer of Mending."
+    a: "Sí, Holy es un sanador de banda muy sólido con una herramienta para casi cada situación: Renew, escudos, curas rápidas a un objetivo, Holy Nova y Prayer of Mending. Sus puntos débiles son la movilidad y algo de azar en los saltos de Prayer of Mending."
   - q: "¿Qué hace Prayer of Mending?"
     a: "Se queda sobre un objetivo y lo cura la próxima vez que recibe daño. Luego salta a otro miembro del grupo o de la banda a 20 metros, hasta 5 veces, y dura 30 segundos tras cada salto. Solo puede haber uno activo por Priest."
   - q: "¿Qué es Litany of Light?"
@@ -23,13 +23,13 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"
 ---
-El Holy Priest de WoW Forever es un sanador con una respuesta para cada herida: Renew para el daño constante, Flash Heal y Binding Heal para la rapidez, Greater Heal para los golpes grandes y Prayer of Mending para toda la banda. Los talentos nuevos te premian por alternar las curas. Esta guía cubre la build, la curación según la situación, el maná, la curación con el ratón encima, los stats y el equipo.
+El Holy Priest de WoW Forever es un sanador con una respuesta para cada herida: Renew para el daño constante, Flash Heal para la rapidez, Greater Heal para los golpes grandes y Prayer of Mending para toda la banda. Los talentos nuevos te premian por alternar las curas. Esta guía cubre la build, la curación según la situación, el maná, la curación con el ratón encima, los stats y el equipo.
 
 | | |
 |---|---|
 | Rol | Sanador, mejor curando al grupo y a la banda |
 | Build para nivel 60 | 18/33/0, con los talentos de la build de la beta del 15 de octubre |
-| Talentos clave | Improved Renew, Binding Heal, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
+| Talentos clave | Improved Renew, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
 | Fuerte en | Un sanador de banda muy sólido con muchas herramientas |
 | Débil en | Casi sin movilidad, azar en Prayer of Mending |
 | Subir de nivel | [Guía para subir un Priest](/es/guides/priest-leveling/), [build de nivel del Priest](/es/leveling/priest/) |
@@ -38,7 +38,6 @@ El Holy Priest de WoW Forever es un sanador con una respuesta para cada herida: 
 ## Qué cambia para Holy
 
 - **Prayer of Mending es el nuevo último talento.** Una cura que espera sobre un objetivo y salta al siguiente que recibe daño, hasta 5 veces.
-- **Binding Heal es nuevo.** Cura a un aliado y a ti a la vez, por más o menos el coste de un Flash Heal.
 - **Litany of Light es nuevo.** Maná de vuelta si tu cura es un hechizo distinto al anterior.
 - **Spiritual Guidance se ha rehecho.** Hasta el 25% de tu Espíritu total se convierte en poder de curación.
 - **Inspiration cuenta cada cura crítica no periódica.** Un 25% más de armadura en el objetivo durante 15 segundos.
@@ -71,7 +70,8 @@ Esta build usa los 51 puntos del nivel 60. Los 18 puntos en Discipline pagan Twi
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
+| **Holy Binding** | Cada Flash Heal en otro también te cura un 50% de esa cantidad, sin amenaza |
 | **Litany of Light** | 2/2 |
 | **Spirit of Redemption** | 1/1 |
 | **Spiritual Guidance** | 5/5 |
@@ -91,7 +91,6 @@ Esta build usa los 51 puntos del nivel 60. Los 18 puntos en Discipline pagan Twi
 | Talento | Qué hace en Forever |
 |---|---|
 | **Improved Renew** | Un 15% más de curación de Renew a 3/3. Una forma barata de reforzar un hechizo que lanzas sin parar |
-| **Binding Heal** | Cura a tu objetivo y a ti por más o menos el coste de un Flash Heal. Dos curas al precio de una |
 | **Spiritual Guidance** | Hasta el 25% de tu Espíritu total como curación extra, así tu Espíritu nunca se pierde |
 | **Litany of Light** | El 10% del coste base de vuelta cuando cambias a otra cura |
 | **Spiritual Healing** | Un 10% más de curación de todos tus hechizos |
@@ -105,14 +104,14 @@ Un sanador no tiene una rotación fija. Respondes al daño que llega y a tu asig
 **Curar a un tanque**
 - Renew sobre un tanque que recibe daño constante.
 - Power Word: Shield sobre el tanque antes de un golpe grande, y sobre ti contra el retroceso. Un escudo sobre un lanzador también lo libra del retroceso.
-- Flash Heal o Binding Heal cuando el tanque necesita vida rápido.
+- Flash Heal cuando el tanque necesita vida rápido.
 - Greater Heal cuando sabes que llega un golpe grande, o cuando necesitas mucha curación de una vez. Combínalo con Inner Focus.
 - Holy Nova o Prayer of Mending cuando varias personas reciben daño.
 
 **Curar al grupo** (la fortaleza de Holy)
 - Renew sobre tantos objetivos como puedas que reciban daño constante.
 - Escudos sobre quien va a recibir un golpe grande.
-- Flash Heal o Binding Heal para subir objetivos uno tras otro.
+- Flash Heal para subir objetivos uno tras otro.
 - Greater Heal con Inner Focus para los huecos grandes.
 - Holy Nova cuando todo el grupo recibe daño a la vez.
 

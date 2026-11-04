@@ -3,7 +3,7 @@ title: "Fury Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Fury Warrior: build voor level 30, rotatie en Rage"
 description: "De Fury Warrior in WoW Forever: de build voor level 30 met Cruelty, Unbridled Wrath en Death Wish, de rotatie, Rage, stance dancing, stats, wapens en races."
 short: "Fury Warrior"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
+> **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/).
 
 De Fury Warrior in WoW Forever is de berserker: twee wapens, snelle slagen en een Rage-balk die vol loopt met elke critical strike. De rotatie is snel en reactief, en Cleave en Whirlwind maken Fury een van de beste specs tegen meerdere vijanden. Deze gids behandelt de build voor level 30, de rotatie, Rage, stance dancing, stats, wapens en races.
 
@@ -71,7 +71,7 @@ Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van Talented uit
 
 ![De Fury Warrior-build voor level 30 in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-fury-warrior-build.jpg)
 
-Na level 30 komen Flurry, voor 25% meer aanvalssnelheid na een critical strike, en Bloodthirst onderaan de boom.
+Na level 30 komen Flurry, voor 30% meer aanvalssnelheid na een critical strike, en Bloodthirst onderaan de boom.
 
 ## Wat de belangrijkste talenten doen
 
@@ -83,7 +83,7 @@ Na level 30 komen Flurry, voor 25% meer aanvalssnelheid na een critical strike, 
 | **Dual Wield Specialization** | 25% meer off-hand-schade en 50% meer Rage ervan |
 | **Enrage** | 10% meer fysieke schade voor 12 seconden, vaak genoeg om te tellen |
 | **Death Wish** | Een sterke schade-cooldown, en nog sterker met Recklessness |
-| **Flurry** | 25% meer aanvalssnelheid voor 3 slagen na een critical strike. Na level 30 |
+| **Flurry** | 30% meer aanvalssnelheid voor 3 slagen na een critical strike. Na level 30 |
 | **Bloodthirst** | Een instant aanval op basis van attack power in plaats van wapenschade. Na level 30 |
 
 ## Rotatie

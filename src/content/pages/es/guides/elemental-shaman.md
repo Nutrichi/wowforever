@@ -1,18 +1,18 @@
 ---
 title: "Guía del Elemental Shaman para WoW Forever"
-metaTitle: "WoW Forever Elemental Shaman: build, Lava Burst, tótems, maná"
-description: "El Elemental Shaman en WoW Forever: la build de nivel 30 y su versión Talented, Lava Burst y Lightning Overload, la rotación, los tótems, el maná, los stats y las razas."
+metaTitle: "WoW Forever Elemental Shaman: build, Lightning Overload, tótems, maná"
+description: "El Elemental Shaman en WoW Forever: la build de nivel 30 y su versión Talented, Call of Thunder y Lightning Overload, la rotación, los tótems, el maná, los stats y las razas."
 short: "Elemental Shaman"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: es
 manual: true
 faq:
   - q: "¿Es bueno el Elemental Shaman en WoW Forever?"
     a: "Sí, una vez arranca. La spec empieza lenta, pero hace buen daño a un objetivo y a grupos, y aporta tótems que mejoran a toda la banda. Sus puntos débiles son el maná y la falta de control."
   - q: "¿Qué cambia para el Elemental Shaman en Forever?"
-    a: "Lava Burst y Lightning Overload como talentos, Fire Nova como hechizo propio alrededor de tu tótem de fuego, tótems para toda la banda, Totemic Projection, los hechizos Call que ponen cuatro tótems a la vez, e Improved Ghost Wolf en interiores."
+    a: "Call of Thunder y Lightning Overload como talentos, Fire Nova como hechizo propio alrededor de tu tótem de fuego, tótems para toda la banda, Totemic Call, los hechizos Call que ponen cuatro tótems a la vez, e Improved Ghost Wolf en interiores."
   - q: "¿Cuál es la rotación del Elemental Shaman?"
-    a: "Mantén un tótem de fuego, empieza con Lava Burst, lanza Flame Shock justo después, mantén Flame Shock en el objetivo, lanza Lava Burst en cuanto esté listo y rellena con Lightning Bolt. En grupos, añade Fire Nova y Chain Lightning."
+    a: "Mantén un tótem de fuego, empieza con Lightning Bolt, lanza Flame Shock y mantenlo en el objetivo, y rellena con Lightning Bolt. En grupos, añade Fire Nova y Chain Lightning."
   - q: "¿Cómo mantiene el maná un Elemental Shaman?"
     a: "Gasta cada Clearcasting de Elemental Focus, coge Convection, toma Mindfulness en el árbol Restoration cuando te sobren puntos, mantén Mana Spring Totem y lleva pociones de maná. El Espíritu en el equipo es tu principal regeneración."
   - q: "¿Qué stats necesita un Elemental Shaman?"
@@ -25,15 +25,15 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
 ---
-> **Actualización del 3 de noviembre:** las notas de desarrollo del 2 de noviembre cambian mucho esta clase: Lava Burst desaparece, más en [nuestra noticia](/es/news/shamans-lose-lava-burst-before-the-launch/). Los árboles nuevos ya están en nuestra calculadora de talentos, pero las builds y talentos de abajo aún no los siguen en todo. Actualizamos esta guía muy pronto.
+> **Actualización del 4 de noviembre:** las builds y talentos de abajo siguen los árboles nuevos de las notas de desarrollo del 2 de noviembre, más en [nuestra noticia](/es/news/shamans-lose-lava-burst-before-the-launch/).
 
-El Elemental Shaman de WoW Forever lucha a distancia con rayos y lava. La spec empieza lenta, pero cuando Lava Burst entra en tu build, los grandes críticos y los Lightning Bolt extra de Lightning Overload se acumulan rápido. Tus tótems te abren cualquier grupo. Esta guía trata la build de nivel 30, los talentos clave, la rotación, los tótems, el maná, los stats y las razas.
+El Elemental Shaman de WoW Forever lucha a distancia con rayos y fuego. La spec empieza lenta, pero cuando Call of Thunder y Lightning Overload entran en tu build, los grandes críticos y los Lightning Bolt extra de Lightning Overload se acumulan rápido. Tus tótems te abren cualquier grupo. Esta guía trata la build de nivel 30, los talentos clave, la rotación, los tótems, el maná, los stats y las razas.
 
 | | |
 |---|---|
 | Rol | Daño a distancia, a un objetivo y a grupos |
 | Build de nivel 30 | 21 puntos en Elemental, Talented añade Trial by Fire 2/2, Lightning Overload 3/3 y Elemental Fury 1/5 |
-| Talentos clave | Elemental Focus, Trial by Fire, Earthbound, Lava Burst, Lightning Overload |
+| Talentos clave | Elemental Focus, Trial by Fire, Earthbound, Call of Thunder, Lightning Overload |
 | Fortalezas | Buen daño a grupos, tótems para toda la banda, mucha utilidad |
 | Debilidades | El maná, sin control duro, la colocación de los tótems |
 | Otras guías del Shaman | [Enhancement Shaman](/es/guides/enhancement-shaman/), [Restoration Shaman](/es/guides/restoration-shaman/), [Guía de leveling del Shaman](/es/guides/shaman-leveling/), [build de leveling del Shaman](/es/leveling/shaman/) |
@@ -66,28 +66,28 @@ La beta se quedó en el nivel 30, así que la build usa 21 puntos. Talented, del
 | **Trial by Fire** | 1/2 |
 | **Eye of the Storm** | 3/3 |
 | **Earthbound** | 1/1 |
-| **Lava Burst** | 1/1 |
+| **Call of Thunder** | 1/1 |
 
 [Abre la versión Talented](/es/talents/shaman/?t=350033102310131) con Trial by Fire 2/2, Lightning Overload 3/3 y Elemental Fury 1/5.
 
 ![La build Talented del Elemental Shaman en nuestra calculadora de talentos](../../../../assets/posts/2026-10-30-wow-forever-elemental-shaman-build.jpg)
 
-Lava Burst está en la quinta fila y pide 20 puntos por encima, así que es el punto 21. Nuestra [guía de leveling del Shaman](/es/guides/shaman-leveling/) tiene una versión en solitario con el segundo punto en Trial by Fire en lugar de Earthbound.
+Call of Thunder está en la quinta fila y pide 20 puntos por encima, así que es el punto 21. Nuestra [guía de leveling del Shaman](/es/guides/shaman-leveling/) tiene una versión en solitario con el segundo punto en Trial by Fire en lugar de Earthbound.
 
 ## Qué hacen los talentos clave
 
 | Talento | Qué hace en Forever |
 |---|---|
-| **Convection** | A 3/5: los Shocks, Lightning Bolt, Lava Burst y Chain Lightning cuestan un 6 % menos de maná |
+| **Convection** | A 3/5: los Shocks, Lightning Bolt y Chain Lightning cuestan un 6 % menos de maná |
 | **Concussion** | Lightning Bolt, Chain Lightning y Earth Shock hacen un 5 % más de daño |
-| **Elemental Alacrity** | Lightning Bolt, Chain Lightning y Lava Burst se lanzan 0,5 segundos más rápido |
-| **Call of Flame** | Los tótems de fuego, Flame Shock, Fire Nova y Lava Burst hacen un 15 % más de daño, y Flame Shock dura 9 segundos más |
+| **Elemental Alacrity** | Lightning Bolt y Chain Lightning se lanzan 0,5 segundos más rápido |
+| **Call of Flame** | Los tótems de fuego, Flame Shock y Fire Nova hacen un 15 % más de daño, y Flame Shock dura 9 segundos más |
 | **Elemental Focus** | Un 10 % de probabilidad, tras un hechizo de daño, de que el siguiente no cueste maná |
 | **Trial by Fire** | A 2/2: Fire Nova hace un 20 % más de daño con un tiempo de reutilización 4 segundos menor, y Magma Totem dura 20 segundos más |
-| **Eye of the Storm** | Un 70 % de probabilidad de que el daño no retrase Lightning Bolt, Chain Lightning y Lava Burst |
+| **Eye of the Storm** | Un 70 % de probabilidad de que el daño no retrase Lightning Bolt y Chain Lightning |
 | **Earthbound** | Earthbind Totem inmoviliza a los enemigos cercanos 5 segundos al ponerlo |
-| **Lava Burst** | Lanza lava por 113 a 146 de daño de Fuego, un 20 % más si tu Flame Shock está en el objetivo. Lanzamiento de 2,5 segundos, reutilización de 10 segundos |
-| **Lightning Overload** | Un 10 % de probabilidad de que Lightning Bolt y Chain Lightning lancen una segunda copia con la mitad del daño, gratis y sin amenaza |
+| **Call of Thunder** | Un 5 % más de probabilidad de crítico para Lightning Bolt y Chain Lightning |
+| **Lightning Overload** | A 3/3: un 30 % de probabilidad de que Lightning Bolt y Chain Lightning lancen una segunda copia con la mitad del daño, gratis y sin amenaza |
 | **Elemental Fury** | A 1/5: un 20 % más de daño crítico para tus hechizos de fuego, escarcha y naturaleza y tus Searing y Magma Totems |
 
 Lightning Overload es el talento que hace divertida la spec en Forever: el hechizo extra no te cuesta nada. Elemental Fury crece con cada punto que añades tras el nivel 30.
@@ -97,16 +97,14 @@ Lightning Overload es el talento que hace divertida la spec en Forever: el hechi
 ### Un objetivo
 
 1. Mantén Searing Totem. Entra primero en combate, para no desperdiciar el tótem.
-2. Empieza con Lava Burst.
-3. Lanza Flame Shock justo después: el choque instantáneo llega antes que la lava, más lenta, y Lava Burst hace entonces más daño.
-4. Mantén Flame Shock en el objetivo.
-5. Lanza Lava Burst en cuanto esté listo.
-6. Rellena con Lightning Bolt.
+2. Empieza con Lightning Bolt.
+3. Lanza Flame Shock y mantenlo en el objetivo.
+4. Rellena con Lightning Bolt.
 
 ### Grupos
 
 1. Mantén Magma Totem al alcance de los enemigos.
-2. Empieza con Lava Burst y luego Flame Shock justo después.
+2. Empieza con Lightning Bolt y luego Flame Shock.
 3. Lanza Fire Nova en cuanto esté listo.
 4. Lanza Chain Lightning mientras el maná lo permita.
 
@@ -121,7 +119,7 @@ Lightning Overload es el talento que hace divertida la spec en Forever: el hechi
 ## Tótems y movimiento
 
 - **Call of the Elements** y los demás hechizos Call ponen un conjunto guardado de cuatro tótems con un botón. Tienen tiempo de lanzamiento.
-- **Totemic Recall** recoge tus tótems a cambio de un poco de maná. **Totemic Projection** mueve tus tótems activos hasta 30 metros, pero cuesta mucho maná: úsalo con moderación.
+- **Totemic Recall** recoge tus tótems a cambio de un poco de maná. **Totemic Call** lleva tus tótems activos hasta donde estás, con una reutilización de 30 segundos.
 - **Windfury Totem** es la mejor mejora cuerpo a cuerpo del juego. Sin la limitación al grupo, funciona para toda la banda.
 - **Tremor Totem** quita miedo, sueño y encantamiento a los aliados a su alcance. Un buen momento salva mazmorras.
 - **Poison Cleansing Totem** y **Disease Cleansing Totem** quitan un efecto por pulso.

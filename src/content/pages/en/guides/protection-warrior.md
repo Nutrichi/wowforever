@@ -3,7 +3,7 @@ title: "Protection Warrior guide for WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: level 30 tank build, threat and Rage"
 description: "The Protection Warrior in WoW Forever: the level 30 tank build with Master of Defense, Defiance and Vanguard, the threat rotation, debuffs, Rage, stats and races."
 short: "Protection Warrior"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: en
 faq:
   - q: "Is Protection Warrior a good tank in WoW Forever?"
@@ -40,7 +40,7 @@ The Protection Warrior in WoW Forever is the classic knight: heavy armor, a big 
 - **Master of Defense is new.** 5 Rage on every dodge and parry while you carry a shield.
 - **Vanguard is new.** Charge works in Defensive Stance.
 - **Focused Rage is new.** Your offensive abilities cost 3 Rage less at 3/3.
-- **Defiance** gives 15% more threat in Defensive Stance with a shield at 3/3.
+- **Defiance** gives 20% more threat in Defensive Stance with a shield at 3/3.
 - **Last Stand** now gives 30% of your maximum health for 20 seconds.
 - **Bastion** gives 10% more damage while you carry a shield at 5/5, and **Shield Slam** also dispels a Magic effect half of the time.
 - **Improved Shield Wall** takes 11 minutes off the cooldown of Shield Wall at 2/2.
@@ -84,7 +84,7 @@ After level 30 come Bastion, Improved Shield Wall, Improved Thunder Clap, Improv
 | **Anticipation** | 20 more Defense Skill at 5/5 |
 | **Master of Defense** | 5 Rage per dodge and parry with a shield |
 | **Improved Revenge** | 60% more damage from Revenge, so more threat |
-| **Defiance** | 15% more threat in Defensive Stance with a shield |
+| **Defiance** | 20% more threat in Defensive Stance with a shield |
 | **Last Stand** | 30% extra maximum health for 20 seconds |
 | **Vanguard** | Open every pull with Charge, without leaving Defensive Stance |
 | **Focused Rage** | 3 Rage less for your offensive abilities |

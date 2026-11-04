@@ -3,7 +3,7 @@ title: "Guía para subir de nivel un Priest en WoW Forever"
 metaTitle: "Guía de leveling de Priest en WoW Forever: builds de Discipline, Holy y Shadow hasta el 30"
 description: "Cómo subir un Priest en WoW Forever: tres builds de nivel 30 para Discipline, Holy y Shadow, la rotación, los niveles clave, los hechizos raciales, las varitas, las profesiones, el maná y la sanación."
 short: "Leveling de Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: es
 manual: true
 faq:
@@ -92,7 +92,7 @@ Para quien quiere sanar muchas mazmorras y no quiere Discipline. [Abre la build 
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 | **Litany of Light** | 1/2 |
 
 En solitario, la rotación es la de Discipline sin Penance: Power Word: Shield, Smite, Shadow Word: Pain y la varita.
@@ -133,7 +133,7 @@ En Shadow, el poder de sombras cuenta junto al Intellect y el poder con hechizos
 | 20 | Mind Flay, Inner Focus, Holy Nova | Árbol de talentos |
 | 22 | Mind Vision | Instructor de clase |
 | 24 | Mana Burn | Instructor de clase |
-| 25 | Vampiric Embrace, Binding Heal | Árbol de talentos |
+| 25 | Vampiric Embrace | Árbol de talentos |
 | 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Instructor de clase |
 | 30 | Penance, Silence | Árbol de talentos |
 | 32 | Shadow Word: Death, Abolish Disease | Instructor de clase |
@@ -218,7 +218,7 @@ Incluso como Shadow te sanas a ti y a otros.
 - **Penance** sana en ráfagas como Discipline, o hace daño a un enemigo.
 - **Power Word: Shield** no es una sanación sino un escudo que funciona como una segunda barra de vida.
 
-Holy añade Prayer of Mending, que salta al siguiente objetivo cada vez que alguien recibe daño, y Binding Heal, que te sana a ti y a tu objetivo a la vez.
+Holy añade Prayer of Mending, que salta al siguiente objetivo cada vez que alguien recibe daño.
 
 ## Control y utilidad
 

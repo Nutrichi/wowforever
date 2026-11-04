@@ -3,7 +3,7 @@ title: "Livellare un Hunter in WoW Forever: la guida"
 metaTitle: "Guida al leveling dell'Hunter in WoW Forever: build Beast Mastery, Marksmanship e Survival fino al 30"
 description: "Come livellare un Hunter in WoW Forever: i primi livelli, tre build di livello 30 per Beast Mastery, Marksmanship e Survival con l’ordine dei talenti, la rotazione, i livelli chiave, la missione di addomesticamento, armi, equipaggiamento, professioni, famigli, trappole, tracciamento e Aspect."
 short: "Leveling Hunter"
-updated: 2026-10-25
+updated: 2026-10-31
 lang: it
 manual: true
 faq:
@@ -57,18 +57,18 @@ Inizia ogni pull dal punto più lontano possibile: ogni metro in più è un colp
 
 ## Build Beast Mastery di livello 30
 
-La build consigliata per livellare. Il famiglio colpisce più forte e resiste più a lungo, con un po’ di mana e velocità in più. [Apri la build nel calcolatore dei talenti](/it/talents/hunter/?t=512020050411).
+La build consigliata per livellare. Il famiglio colpisce più forte e resiste più a lungo, con un po’ di mana e velocità in più. [Apri la build nel calcolatore dei talenti](/it/talents/hunter/?t=532002050211).
 
 | Talento | Punti |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19552"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deadly Aspects</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19583"><img class="wf-wh__icon" src="/wh/spell_nature_reincarnation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Endurance Training</a>** | 1/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223755"><img class="wf-wh__icon" src="/wh/inv_weapon_crossbow_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Focused Fire</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19559"><img class="wf-wh__icon" src="/wh/ability_mount_jungletiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pathfinding</a>** | 2/2 |
+| **Deadly Aspects** | 5/5 |
+| **Endurance Training** | 3/5 |
+| **Focused Fire** | 2/2 |
+| **Pathfinding** | 2/2 |
 | **Unleashed Fury** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19598"><img class="wf-wh__icon" src="/wh/inv_misc_monsterclaw_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a>** | 4/5 |
+| **Ferocity** | 2/5 |
 | **Summon Hawk** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19578"><img class="wf-wh__icon" src="/wh/ability_druid_demoralizingroar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spirit Bond</a>** | 1/2 |
+| **Spirit Bond** | 1/2 |
 
 Ordine: Deadly Aspects dal 10 al 14, Focused Fire al 15 e 16, Pathfinding al 17 e 18, Endurance Training al 19, Unleashed Fury dal 20 al 24, Ferocity dal 25 al 28, Summon Hawk al 29 e Spirit Bond al 30.
 

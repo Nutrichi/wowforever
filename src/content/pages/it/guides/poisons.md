@@ -3,7 +3,7 @@ title: "Guida ai Poisons del Rogue in WoW Forever"
 metaTitle: "WoW Forever, Poisons del Rogue: missioni, ranghi, cariche e reagenti"
 description: "Come un Rogue sblocca i Poisons in WoW Forever: le missioni di Alleanza e Orda al livello 20, ogni veleno e rango, le nuove cariche, i reagenti e cosa cambia per critici e potenza d'attacco."
 short: "Rogue Poisons"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: it
 manual: true
 faq:
@@ -143,9 +143,9 @@ I ranghi alti chiedono più degli stessi reagenti, <a class="wf-wh wf-q1" href="
 | **Malice** | Fino al 5% di probabilità di critico con attacchi e Poisons |
 | **Improved Poisons** | Fino al 10% di probabilità in più di applicare i Poisons, e il 50% di non consumare una carica |
 | **Vile Poisons** | Fino al 20% di danni in più con i Poisons, che resistono più spesso alle dissoluzioni |
-| **Venom** | Nuova mossa finale: 30% di danni in più con i Poisons e 10% di probabilità in più di applicarli, da 9 a 21 secondi |
+| **Venom** | Passivo nella quinta riga: Shank aumenta i tuoi danni con i Poisons del 30% e la probabilità di applicarli del 20% per 6 secondi |
 
-Venom è in fondo all'albero Assassination. Per una build completa con questi talenti, vedi la [guida al Rogue Assassination](/it/guides/assassination-rogue/). Per le missioni durante il livellamento, vedi la [guida al livellamento del Rogue](/it/guides/rogue-leveling/).
+Venom è nella quinta riga dell'albero Assassination dal 2 novembre. Per una build completa con questi talenti, vedi la [guida al Rogue Assassination](/it/guides/assassination-rogue/). Per le missioni durante il livellamento, vedi la [guida al livellamento del Rogue](/it/guides/rogue-leveling/).
 
 ## Quale veleno usare
 

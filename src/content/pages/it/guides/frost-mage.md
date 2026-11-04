@@ -1,18 +1,16 @@
 ---
 title: "Guida al Frost Mage in WoW Forever"
 metaTitle: "WoW Forever: Frost Mage, build Ice Lance, rotazione, Shatter, stats e razze"
-description: "Il Frost Mage in WoW Forever: Ice Lance e Fingers of Frost, la build di livello 30 con Missile Barrage, la rotazione, il kiting, il mana, Shatter, le stats, l'equipaggiamento, le razze e le professioni."
+description: "Il Frost Mage in WoW Forever: Ice Lance e Fingers of Frost, la build di livello 30, la rotazione, il kiting, il mana, Shatter, le stats, l'equipaggiamento, le razze e le professioni."
 short: "Frost Mage"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: it
 manual: true
 faq:
   - q: "Il Frost Mage è forte in WoW Forever?"
     a: "Sì. Ice Lance e Fingers of Frost permettono al Frost di usare Shatter su un solo bersaglio, anche sui boss che non si possono congelare. La vecchia spec da leveling e PvP diventa una spec di danno solida in dungeon e raid, con il maggior controllo delle tre spec di Mage."
   - q: "Quanti danni fa Ice Lance ai bersagli Frozen?"
-    a: "Il 200% in più. Prima era del 300%. Ice Lance è istantaneo, costa 45 di mana e richiede il livello 20."
-  - q: "Perché una build Frost prende Missile Barrage?"
-    a: "Missile Barrage è passato nella prima riga dell'albero Arcane. A 2/2, ogni Frostbolt ha il 20% di probabilità di rendere il tuo prossimo Arcane Missiles gratuito e due volte più veloce. Molti danni per due punti."
+    a: "Il 300% in più. Prima era del 200%. Ice Lance è istantaneo, costa 45 di mana e richiede il livello 20."
   - q: "Posso ancora usare Frostbolt di rango 1?"
     a: "Solo per il rallentamento. In WoW Forever i ranghi inferiori hanno molta meno probabilità di attivare effetti come Frostbite e Fingers of Frost, quindi il rango 1 non serve più a cercare proc."
   - q: "Quando ottengo Ice Barrier?"
@@ -30,7 +28,7 @@ Il Frost Mage di WoW Forever rallenta e congela i suoi bersagli, sopravvive megl
 | | |
 |---|---|
 | Ruolo | Danni a distanza con rallentamenti, congelamenti e burst |
-| Build al livello 30 | 21 punti in Frost, Talented aggiunge Missile Barrage |
+| Build al livello 30 | 21 punti in Frost, Talented aggiunge Permafrost |
 | Talenti chiave | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a> |
 | Punti di forza | Burst sui bersagli Frozen, controllo, sopravvivenza |
 | Punti deboli | Dipende dai proc, mana |
@@ -40,9 +38,8 @@ Il Frost Mage di WoW Forever rallenta e congela i suoi bersagli, sopravvive megl
 
 ## Cosa cambia per il Frost
 
-- **Ice Lance è nuovo.** Un talento al livello 20: istantaneo, 45 di mana e il 200% di danni in più ai bersagli Frozen. Prima era del 300%.
+- **Ice Lance è nuovo.** Un talento al livello 20: istantaneo, 45 di mana e il 300% di danni in più ai bersagli Frozen. Prima era del 200%.
 - **Fingers of Frost è nuovo.** I tuoi effetti di Chill hanno il 15% di probabilità di trattare i tuoi 2 incantesimi successivi come se il bersaglio fosse Frozen. Funziona sui bersagli che non si possono congelare, come la maggior parte dei boss.
-- **Missile Barrage è a portata.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400588"><img class="wf-wh__icon" src="/wh/ability_mage_missilebarrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Missile Barrage</a> si trova nella prima riga dell'albero Arcane. A 2/2, ogni <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> ha il 20% di probabilità di rendere il tuo prossimo <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5143"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Missiles</a> gratuito e due volte più veloce.
 - **Frost Blast** al livello 24 è una raffica di gelo debole e rapida che rallenta il bersaglio del 40% per 9 secondi.
 - **I ranghi inferiori attivano meno.** Un rango inferiore di un incantesimo ha molta meno probabilità di attivare effetti. Frostbolt di rango 1 rallenta ancora, ma non cerca più Frostbite né Fingers of Frost.
 
@@ -57,20 +54,20 @@ Il Frost Mage di WoW Forever rallenta e congela i suoi bersagli, sopravvive megl
 
 ## La build per il livello 30
 
-La build usa 21 punti in Frost, quelli che hai al livello 30. [Apri la build nel calcolatore di talenti](/it/talents/mage/?t=--05253000010013001).
+La build usa 21 punti in Frost, quelli che hai al livello 30. [Apri la build nel calcolatore di talenti](/it/talents/mage/?t=--0525300001013001).
 
 | Talento | Punti |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29438"><img class="wf-wh__icon" src="/wh/spell_ice_magicdamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elemental Precision</a>** | 2/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a>** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a>** | 1/2 |
+| **Improved Frostbolt** | 5/5 |
+| **Precision** | 2/3 |
+| **Ice Shards** | 5/5 |
+| **Frostbite** | 3/3 |
+| **Ice Lance** | 1/1 |
+| **Ice Block** | 1/1 |
+| **Shatter** | 3/3 |
+| **Fingers of Frost** | 1/2 |
 
-Con 5 punti in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> dal sistema Legacy hai 26 punti: Missile Barrage 2/2 in Arcane, Elemental Precision 3/5, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12472"><img class="wf-wh__icon" src="/wh/spell_frost_wizardmark.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cold Snap</a> 1/1 e Fingers of Frost 2/2. [Apri la versione con Talented](/it/talents/mage/?t=0002--05353000010013012).
+Con 5 punti in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> dal sistema Legacy hai 26 punti: Permafrost 2/3, Precision 3/3, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12472"><img class="wf-wh__icon" src="/wh/spell_frost_wizardmark.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cold Snap</a> 1/1 e Fingers of Frost 2/2. [Apri la versione con Talented](/it/talents/mage/?t=--0535302001013012).
 
 Non c'è posto per Frostbite e <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11175"><img class="wf-wh__icon" src="/wh/spell_frost_wisp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Permafrost</a> insieme, quindi scegli tra congelamenti casuali e rallentamenti più lunghi e forti. Per meno minaccia e incantesimi più economici nei dungeon, prendi 1 punto in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11160"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Channeling</a> invece di Cold Snap. La [build di leveling del Mage](/it/leveling/mage/) dà il talento di ogni livello dal 10 al 35.
 
@@ -82,7 +79,7 @@ Non c'è posto per Frostbite e <a class="wf-wh wf-spell" href="https://www.wowhe
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29438"><img class="wf-wh__icon" src="/wh/spell_ice_magicdamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elemental Precision</a>** | L'1% di probabilità di colpire in più con gli incantesimi Frost e Fire per punto. Serve contro nemici di livello superiore |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a>** | Raddoppia il bonus critico dei tuoi incantesimi Frost a 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>** | Gli effetti di Chill hanno il 15% di probabilità di congelare il bersaglio per 5 secondi a 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>** | Istantaneo, il 200% di danni in più ai bersagli Frozen |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>** | Istantaneo, il 300% di danni in più ai bersagli Frozen |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a>** | Il 50% di probabilità di critico in più contro i bersagli Frozen a 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a>** | 10 secondi immune a tutti gli attacchi e incantesimi, cooldown di 5 minuti |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a>** | Il 15% di probabilità con Chill di trattare i tuoi 2 incantesimi successivi come se il bersaglio fosse Frozen |
@@ -94,7 +91,6 @@ Non c'è posto per Frostbite e <a class="wf-wh wf-spell" href="https://www.wowhe
 1. Tieni attivi <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a> e <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=168"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Armor</a>.
 2. Lancia <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> come incantesimo principale.
 3. Lancia Ice Lance quando si attiva Fingers of Frost, o quando Frostbite congela il bersaglio.
-4. Lancia Arcane Missiles quando si attiva Missile Barrage.
 5. Se il nemico si avvicina: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=122"><img class="wf-wh__icon" src="/wh/spell_frost_frostnova.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Nova</a> e Ice Lance finché il congelamento si rompe.
 6. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=120"><img class="wf-wh__icon" src="/wh/spell_frost_glacier.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cone of Cold</a> per rallentare o riposizionarti se Frost Nova è in cooldown, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1326053"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Blast</a> se lo sono entrambi.
 7. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2136"><img class="wf-wh__icon" src="/wh/spell_fire_fireball.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Blast</a> mentre ti muovi, se il bersaglio non è congelato.

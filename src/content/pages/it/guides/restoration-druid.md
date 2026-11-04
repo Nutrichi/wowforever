@@ -1,14 +1,14 @@
 ---
 title: "Restoration Druid: la guida alle cure per WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talenti, macro e FAQ"
-description: "Il Restoration Druid in WoW Forever: cosa cambia per il guaritore, punti di forza e debolezze, la build standard 11/7/33, la Dual Specialization, macro utili, i riquadri delle unità e le domande più frequenti."
+description: "Il Restoration Druid in WoW Forever: cosa cambia per il guaritore, punti di forza e debolezze, la build standard 11/0/40, la Dual Specialization, macro utili, i riquadri delle unità e le domande più frequenti."
 short: "Restoration Druid"
-updated: 2026-10-09
+updated: 2026-10-31
 lang: it
 manual: true
 faq:
   - q: "Qual è la migliore build di talenti per un Restoration Druid in WoW Forever?"
-    a: "La maggior parte dei Restoration Druid gioca 11 punti in Balance, 7 in Feral Combat e 33 in Restoration, con Gift of the Earthmother, Improved Regrowth e Wild Growth. I punti in Balance servono soprattutto per Nature's Splendor."
+    a: "La maggior parte dei Restoration Druid gioca 11 punti in Balance, 0 in Feral Combat e 40 in Restoration, con Improved Regrowth e Wild Growth. I punti in Balance servono soprattutto per Nature's Splendor."
   - q: "Swiftmend consuma ancora l'HoT?"
     a: "No. In WoW Forever Swiftmend non consuma più il Rejuvenation o il Regrowth che usa. Funziona anche sull'HoT di un altro Druid: con più HoT sul bersaglio usa sempre quello con più potere di cura, chiunque l'abbia lanciato."
   - q: "Healing Touch vale ancora la pena?"
@@ -31,8 +31,8 @@ Il Restoration Druid di WoW Forever resta un guaritore che anticipa i danni, con
 | | |
 |---|---|
 | Ruolo | Guaritore, più forte nelle cure del raid |
-| Build standard | 11 Balance, 7 Feral Combat, 33 Restoration |
-| Talenti chiave | Gift of the Earthmother, Improved Regrowth, Wild Growth |
+| Build standard | 11 Balance, 0 Feral Combat, 40 Restoration |
+| Talenti chiave | Improved Regrowth, Wild Growth |
 | Punti forti | Cure del raid, mobilità, utilità |
 | Punti deboli | Nessuna dissipazione di Magia o Malattie, nessuno scudo |
 | Stats e BiS | Sconosciuti prima del lancio |
@@ -62,17 +62,14 @@ Il Restoration Druid di WoW Forever resta un guaritore che anticipa i danni, con
 
 ## La build standard
 
-La maggior parte dei Restoration Druid giocherà una build molto simile a questa in quasi ogni situazione, secondo un sondaggio tra i giocatori della specializzazione. Aprila nel [calcolatore di talenti](/it/talents/druid/?t=05102201-052-5050035103113051): 11 punti in Balance, 7 in Feral Combat e 33 in Restoration, 51 punti in tutto per il livello 60.
+La maggior parte dei Restoration Druid giocherà una build molto simile a questa in quasi ogni situazione, secondo un sondaggio tra i giocatori della specializzazione. Aprila nel [calcolatore di talenti](/it/talents/druid/?t=05102201--5553005123113051): 11 punti in Balance, 0 in Feral Combat e 40 in Restoration, 51 punti in tutto per il livello 60.
 
-![Gli alberi dei talenti del Druid con 11 punti in Balance, 7 in Feral Combat e 33 in Restoration, la build standard di un Restoration Druid, nel calcolatore di talenti di wowforever.be](../../../../assets/posts/2026-10-09-wow-forever-restoration-druid-build.jpg)
+![Gli alberi dei talenti del Druid con 11 punti in Balance, 0 in Feral Combat e 40 in Restoration, la build standard di un Restoration Druid, nel calcolatore di talenti di wowforever.be](../../../../assets/posts/2026-10-09-wow-forever-restoration-druid-build.jpg)
 
 | Albero | Talenti |
 |---|---|
-| **Restoration (33)** | Nature's Focus 5, Naturalist 5, Reflection 3, Gift of Nature 5, Gift of the Earthmother 1, Improved Rejuvenation 3, Swiftmend 1, Nature's Swiftness 1, Living Spirit 3, Improved Regrowth 5, Wild Growth 1 |
 | **Balance (11)** | Genesis 5, Moonglow 1, Nature's Majesty 2, Nature's Reach 2, Nature's Splendor 1 |
-| **Feral Combat (7)** | Heart of the Wild 5, Feral Swiftness 2 |
-
-**Gift of the Earthmother** è il primo talento traguardo di Restoration, a 11 punti. Riduce il tempo di recupero globale di <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=774"><img class="wf-wh__icon" src="/wh/spell_nature_rejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rejuvenation</a>, Wild Growth e Swiftmend di 0,5 secondi. Così un Druid può coprire di HoT un intero raid, lo stile di cura in cui la specializzazione ha sempre eccelso.
+| **Restoration (40)** | Nature's Focus 5, Heart of the Wild 5, Naturalist 5, Reflection 3, Gift of Nature 5, Bloom 1, Tranquil Spirit 2, Improved Rejuvenation 3, Swiftmend 1, Nature's Swiftness 1, Living Spirit 3, Improved Regrowth 5, Wild Growth 1 |
 
 **Improved Regrowth** è ora uno dei talenti con più valore per punto.
 

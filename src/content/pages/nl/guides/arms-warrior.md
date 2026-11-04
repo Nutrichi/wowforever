@@ -3,16 +3,16 @@ title: "Arms Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Arms Warrior: build voor level 30, Rend, Overpower en Rage"
 description: "De Arms Warrior in WoW Forever: de build voor level 30 met Bloodthrill, Improved Slam en Sweeping Strikes, de rotatie, Rend en Overpower, Rage, stats en races."
 short: "Arms Warrior"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
   - q: "Is de Arms Warrior goed in WoW Forever?"
     a: "Arms is leuk en slaat hard met een traag tweehandig wapen, en Sweeping Strikes, Cleave en Whirlwind maken het sterk tegen meerdere vijanden. Een paar van zijn aanvallen, zoals Mortal Strike en Spearing Strike, zijn beter in PvP dan in PvE."
   - q: "Hoe werkt Bloodthrill?"
-    a: "Bloodthrill is nieuw: je main hand-aanvallen tegen een doelwit met jouw Rend hebben bij 5/5 20% kans om Overpower bruikbaar te maken. Daarom moet Rend altijd lopen."
+    a: "Bloodthrill is nieuw: je main hand-aanvallen tegen een doelwit met jouw Rend hebben bij 2/2 20% kans om Overpower bruikbaar te maken. Daarom moet Rend altijd lopen."
   - q: "Is Slam de moeite in Forever?"
-    a: "Ja, met Improved Slam. Bij 2/2 onderbreekt Slam je slag niet meer, zijn cast time en global cooldown zijn korter en zijn cooldown zakt met 3 seconden, wat er een bijna instant filler van maakt."
+    a: "Ja, met Improved Slam. Bij 2/2 onderbreekt Slam je slag niet meer, zijn cast time en global cooldown zijn korter en zijn cooldown zakt met 5 seconden, wat er een bijna instant filler van maakt."
   - q: "Wanneer krijgt een Arms Warrior Mortal Strike?"
     a: "Mortal Strike is het laatste talent van de Arms-boom en vraagt 30 punten daarin, dus op zijn vroegst level 39, of een paar levels eerder met Talented uit het Legacy-systeem."
   - q: "Welk ras is het beste voor een Arms Warrior?"
@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
+> **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/).
 
 De Arms Warrior in WoW Forever zwaait met één groot, traag wapen. Rend blijft bloeden, Overpower licht keer op keer op, en elke slag haalt een zichtbaar stuk van de vijand af. Veel talenten leunen naar PvP, wat Arms de vanzelfsprekende keuze maakt voor battlegrounds. Deze gids behandelt de build voor level 30, de rotatie, Rend en Overpower, Rage, stats, wapens en races.
 
@@ -39,10 +39,10 @@ De Arms Warrior in WoW Forever zwaait met één groot, traag wapen. Rend blijft 
 
 ## Wat er verandert voor Arms
 
-- **Bloodthrill is nieuw.** Main hand-aanvallen op een doelwit met jouw Rend hebben 20% kans om Overpower bruikbaar te maken, bij 5/5.
+- **Bloodthrill is nieuw.** Main hand-aanvallen op een doelwit met jouw Rend hebben 20% kans om Overpower bruikbaar te maken, bij 2/2.
 - **Improved Rend** geeft Rend 35% meer bloedschade bij 3/3.
-- **Improved Slam doet veel meer.** Kortere cast en global cooldown, geen onderbroken slag en 3 seconden kortere cooldown.
-- **Spearing Strike is nieuw.** 40% wapenschade, en 80% extra tegen Giants, Dragonkin en doelwitten op een mount, die het van hun mount haalt.
+- **Improved Slam doet veel meer.** Kortere cast en global cooldown, geen onderbroken slag en 5 seconden kortere cooldown.
+- **Spearing Strike is nieuw.** 75% wapenschade, en 75% extra tegen Giants, Dragonkin en doelwitten op een mount, die het van hun mount haalt.
 - **Impale** geeft je aanvallen nu 20% meer bonus op critical strike-schade bij 2/2.
 - **Weaponmaster is nieuw.** Een bonus per wapentype: critical strike chance met bijlen en polearms, armorpenetratie met maces en staven, extra aanvallen met zwaarden.
 
@@ -56,20 +56,20 @@ De Arms Warrior in WoW Forever zwaait met één groot, traag wapen. Rend blijft 
 
 ## De build voor level 30
 
-Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van Talented uit het Legacy-systeem. Zonder Talented stop je bij 21 punten; de [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft de volgorde per level. [Open de build in de talentcalculator](/nl/talents/warrior/?t=323202031224101).
+Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van Talented uit het Legacy-systeem. Zonder Talented stop je bij 21 punten; de [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft de volgorde per level. [Open de build in de talentcalculator](/nl/talents/warrior/?t=333202031322101).
 
 | Talent | Punten |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
-| **Deflection** | 2/5 |
+| **Deflection** | 3/5 |
 | **Improved Rend** | 3/3 |
 | **Improved Charge** | 2/2 |
 | **Improved Overpower** | 2/2 |
 | **Deep Wounds** | 3/3 |
 | **Spearing Strike** | 1/1 |
-| **Two-Handed Weapon Specialization** | 2/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
 | **Impale** | 2/2 |
-| **Bloodthrill** | 4/5 |
+| **Bloodthrill** | 2/2 |
 | **Sweeping Strikes** | 1/1 |
 | **Improved Slam** | 1/2 |
 
@@ -86,7 +86,7 @@ Na level 30 komen Weaponmaster en Mortal Strike onderaan de boom.
 | **Bloodthrill** | Overpower-procs van main hand-treffers op doelwitten met jouw Rend |
 | **Improved Slam** | Maakt van Slam een bijna instant filler die je slag niet reset |
 | **Impale** | 20% meer bonus op critical strike-schade voor je aanvallen |
-| **Two-Handed Weapon Specialization** | 3% meer schade met tweehandige wapens bij 3/3 |
+| **Two-Handed Weapon Specialization** | 6% meer schade met tweehandige wapens bij 3/3 |
 | **Mortal Strike** | Een van je sterkste aanvallen in elke situatie. Na level 30 |
 | **Weaponmaster** | Een bonus per wapentype. Na level 30 |
 

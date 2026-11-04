@@ -1,14 +1,14 @@
 ---
 title: "Holy-Priest-Guide für WoW Forever"
 metaTitle: "WoW Forever Holy Priest: 18/33/0-Build, Heilung und Werte"
-description: "Der Holy Priest in WoW Forever: der Build 18/33/0 für Level 60, Prayer of Mending, Binding Heal und Litany of Light, Tank- und Gruppenheilung, Mana, Werte und Völker."
+description: "Der Holy Priest in WoW Forever: der Build 18/33/0 für Level 60, Prayer of Mending und Litany of Light, Tank- und Gruppenheilung, Mana, Werte und Völker."
 short: "Holy Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
   - q: "Ist der Holy Priest gut in WoW Forever?"
-    a: "Ja, Holy ist ein sehr solider Schlachtzugsheiler mit einem Werkzeug für fast jede Lage: Renew, Schilde, schnelle Heilung auf ein Ziel, Binding Heal, Holy Nova und Prayer of Mending. Die Schwächen sind Mobilität und etwas Zufall dabei, wohin Prayer of Mending springt."
+    a: "Ja, Holy ist ein sehr solider Schlachtzugsheiler mit einem Werkzeug für fast jede Lage: Renew, Schilde, schnelle Heilung auf ein Ziel, Holy Nova und Prayer of Mending. Die Schwächen sind Mobilität und etwas Zufall dabei, wohin Prayer of Mending springt."
   - q: "Was macht Prayer of Mending?"
     a: "Es sitzt auf einem Ziel und heilt es, sobald es das nächste Mal Schaden nimmt. Dann springt es auf ein anderes Gruppen- oder Schlachtzugsmitglied in 20 Metern, bis zu 5 Mal, und hält nach jedem Sprung 30 Sekunden. Pro Priest kann nur eines aktiv sein."
   - q: "Was ist Litany of Light?"
@@ -23,13 +23,13 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"
 ---
-Der Holy Priest in WoW Forever ist ein Heiler mit einer Antwort auf jede Wunde: Renew für gleichmäßigen Schaden, Flash Heal und Binding Heal für Tempo, Greater Heal für große Treffer und Prayer of Mending für den ganzen Schlachtzug. Neue Talente belohnen dich, wenn du deine Heilungen abwechselst. Dieser Guide behandelt den Build, Heilung je nach Lage, Mana, Mouseover-Heilung, Werte und Ausrüstung.
+Der Holy Priest in WoW Forever ist ein Heiler mit einer Antwort auf jede Wunde: Renew für gleichmäßigen Schaden, Flash Heal für Tempo, Greater Heal für große Treffer und Prayer of Mending für den ganzen Schlachtzug. Neue Talente belohnen dich, wenn du deine Heilungen abwechselst. Dieser Guide behandelt den Build, Heilung je nach Lage, Mana, Mouseover-Heilung, Werte und Ausrüstung.
 
 | | |
 |---|---|
 | Rolle | Heiler, am stärksten in Gruppen- und Schlachtzugsheilung |
 | Build für Level 60 | 18/33/0, mit den Talenten des Beta-Builds vom 15. Oktober |
-| Wichtige Talente | Improved Renew, Binding Heal, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
+| Wichtige Talente | Improved Renew, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
 | Stärke | Ein sehr solider Schlachtzugsheiler mit vielen Werkzeugen |
 | Schwäche | Kaum Mobilität, Zufall bei Prayer of Mending |
 | Leveln | [Leveling-Guide für den Priest](/de/guides/priest-leveling/), [Level-Build für den Priest](/de/leveling/priest/) |
@@ -38,7 +38,6 @@ Der Holy Priest in WoW Forever ist ein Heiler mit einer Antwort auf jede Wunde: 
 ## Was sich für Holy ändert
 
 - **Prayer of Mending ist das neue letzte Talent.** Eine Heilung, die auf einem Ziel wartet und zum nächsten springt, das Schaden nimmt, bis zu 5 Mal.
-- **Binding Heal ist neu.** Es heilt einen Verbündeten und dich gleichzeitig, für etwa die Kosten eines Flash Heal.
 - **Litany of Light ist neu.** Mana zurück, wenn deine Heilung ein anderer Zauber ist als die vorige.
 - **Spiritual Guidance wurde überarbeitet.** Bis zu 25 % deiner gesamten Willenskraft werden zu Heilkraft.
 - **Inspiration zählt jede nicht periodische kritische Heilung.** 25 % mehr Rüstung auf dem Ziel für 15 Sekunden.
@@ -71,7 +70,8 @@ Dieser Build nutzt alle 51 Punkte von Level 60. Die 18 Punkte in Discipline beza
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
+| **Holy Binding** | Jedes Flash Heal auf andere heilt auch dich um 50% davon, ohne Bedrohung |
 | **Litany of Light** | 2/2 |
 | **Spirit of Redemption** | 1/1 |
 | **Spiritual Guidance** | 5/5 |
@@ -91,7 +91,6 @@ Dieser Build nutzt alle 51 Punkte von Level 60. Die 18 Punkte in Discipline beza
 | Talent | Was es in Forever tut |
 |---|---|
 | **Improved Renew** | 15 % mehr Heilung von Renew bei 3/3. Ein günstiger Weg, einen Zauber zu stärken, den du ständig wirkst |
-| **Binding Heal** | Heilt dein Ziel und dich für etwa die Kosten eines Flash Heal. Zwei Heilungen zum Preis von einer |
 | **Spiritual Guidance** | Bis zu 25 % deiner gesamten Willenskraft als zusätzliche Heilung, deine Willenskraft geht also nie verloren |
 | **Litany of Light** | 10 % der Grundkosten zurück, wenn du zu einer anderen Heilung wechselst |
 | **Spiritual Healing** | 10 % mehr Heilung aller deiner Zauber |
@@ -105,14 +104,14 @@ Ein Heiler hat keine feste Rotation. Du reagierst auf den eingehenden Schaden un
 **Einen Tank heilen**
 - Renew auf einen Tank, der gleichmäßig Schaden nimmt.
 - Power Word: Shield auf den Tank vor einem großen Treffer, und auf dich gegen Zauberverzögerung. Ein Schild auf einem Zauberer schützt auch ihn vor Verzögerung.
-- Flash Heal oder Binding Heal, wenn der Tank schnell Gesundheit braucht.
+- Flash Heal, wenn der Tank schnell Gesundheit braucht.
 - Greater Heal, wenn du weißt, dass ein großer Treffer kommt, oder wenn du viel Heilung auf einmal brauchst. Kombiniere es mit Inner Focus.
 - Holy Nova oder Prayer of Mending, wenn mehrere Leute Schaden nehmen.
 
 **Die Gruppe heilen** (die Stärke von Holy)
 - Renew auf so viele Ziele wie möglich, die gleichmäßig Schaden nehmen.
 - Schilde auf jeden, der gleich einen großen Treffer abbekommt.
-- Flash Heal oder Binding Heal, um Ziele nacheinander aufzufüllen.
+- Flash Heal, um Ziele nacheinander aufzufüllen.
 - Greater Heal mit Inner Focus für große Lücken.
 - Holy Nova, wenn die ganze Gruppe gleichzeitig Schaden nimmt.
 

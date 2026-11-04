@@ -3,7 +3,7 @@ title: "Priest levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Priest levelgids: builds voor Discipline, Holy en Shadow tot 30"
 description: "Zo level je een Priest in WoW Forever: drie builds voor level 30 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, tradeskills, mana en healen."
 short: "Priest levelen"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
@@ -92,7 +92,7 @@ Voor wie veel dungeons wil healen en geen Discipline wil. [Open de build in de t
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 | **Litany of Light** | 1/2 |
 
 Alleen is de rotatie dezelfde als voor Discipline zonder Penance: Power Word: Shield, Smite, Shadow Word: Pain en je wand.
@@ -133,7 +133,7 @@ Voor Shadow telt shadow power mee naast Intellect en spell damage. Met punten in
 | 20 | Mind Flay, Inner Focus, Holy Nova | Talentboom |
 | 22 | Mind Vision | Classtrainer |
 | 24 | Mana Burn | Classtrainer |
-| 25 | Vampiric Embrace, Binding Heal | Talentboom |
+| 25 | Vampiric Embrace | Talentboom |
 | 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Classtrainer |
 | 30 | Penance, Silence | Talentboom |
 | 32 | Shadow Word: Death, Abolish Disease | Classtrainer |
@@ -218,7 +218,7 @@ Ook als Shadow heal je jezelf en anderen.
 - **Penance** healt in stoten als Discipline, of doet schade op een vijand.
 - **Power Word: Shield** is geen heal, maar een schild dat werkt als een tweede levensbalk.
 
-Holy voegt Prayer of Mending toe, die naar het volgende doelwit springt telkens iemand schade krijgt, en Binding Heal, die jou en je doelwit tegelijk healt.
+Holy voegt Prayer of Mending toe, die naar het volgende doelwit springt telkens iemand schade krijgt.
 
 ## Crowd control en utility
 

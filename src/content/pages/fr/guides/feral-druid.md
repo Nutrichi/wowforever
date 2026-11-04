@@ -3,18 +3,18 @@ title: "Feral Druid dans WoW Forever : le guide"
 metaTitle: "WoW Forever Feral Druid : builds félin et ours, rotation, stats"
 description: "Le Feral Druid dans WoW Forever : quatre builds niveau 60 (hybride, félin, ours et solo), Shifting Power et Primal Bite, les rotations en félin et en ours, les stats et les races."
 short: "Feral Druid"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: fr
 manual: true
 faq:
   - q: "Un Feral Druid peut-il tanker et faire des dégâts avec un seul build ?"
-    a: "Oui. Le build hybride 9/42/0 a tout pour les deux rôles : Thick Hide et Primal Bite pour l'ours, Shredding Attacks et Shifting Power pour le félin. Vous pouvez même changer de rôle en plein combat."
+    a: "Oui. Le build hybride 9/37/5 a tout pour les deux rôles : Thick Hide et Primal Bite pour l'ours, Shredding Attacks et Shifting Power pour le félin. Vous pouvez même changer de rôle en plein combat."
   - q: "Le powershifting marche-t-il encore dans WoW Forever ?"
     a: "Non. Passer en Cat Form ne remplit plus votre Énergie. Furor rend maintenant l'Énergie que vous aviez en quittant Cat Form, plus 10 Énergie par seconde hors de Bear Form, donc restez autant que possible dans une seule forme. Shifting Power prend ce rôle : il transforme du mana en 40 Énergie."
   - q: "Que fait Shifting Power ?"
-    a: "Il transforme aussitôt 55 % de votre mana de base en 40 Énergie, sans quitter Cat Form. Utilisez-le sous 50 Énergie. Improved Shifting Power réduit son temps de recharge de 8 secondes."
+    a: "Il transforme aussitôt 55 % de votre mana de base en 40 Énergie, sans quitter Cat Form. Utilisez-le sous 50 Énergie."
   - q: "Qu'est-ce que Primal Bite ?"
-    a: "Une nouvelle attaque d'ours à courte recharge, qui inflige les dégâts de l'arme et beaucoup de menace. Avec Berserk, elle touche jusqu'à 3 cibles sans recharge : c'est votre bouton de menace de zone."
+    a: "Une nouvelle attaque d'ours à courte recharge, qui inflige les dégâts de l'arme et beaucoup de menace. Avec elle touche jusqu'à 3 cibles sans recharge : c'est votre bouton de menace de zone."
   - q: "Quelles stats pour un Feral Druid ?"
     a: "En félin : Hit, puis Expertise, puis Crit, Agility, Strength et puissance d'attaque. En ours, aussi Defense, Dodge, armure et Stamina, car un Druid ne peut ni bloquer ni parer."
   - q: "Quelle race pour un Feral Druid ?"
@@ -30,8 +30,8 @@ Le Feral Druid de WoW Forever, ce sont deux specs en une : un félin qui fait de
 | | |
 |---|---|
 | Rôle | Dégâts en mêlée en Cat Form, tank en Bear Form |
-| Builds niveau 60 | Hybride 9/42/0, Félin 9/40/2, Ours 9/42/0, Solo 0/35/16 |
-| Talents clés | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Berserk, Nature's Reach |
+| Builds niveau 60 | Hybride 9/37/5, Félin 9/37/5, Ours 9/37/5, Solo 0/35/16 |
+| Talents clés | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Nature's Reach |
 | Points forts | Deux rôles en un, Leader of the Pack, le personnage le plus rapide en intérieur comme en extérieur |
 | Points faibles | Dégâts d'hybride, trois ressources à suivre, difficile à maîtriser |
 | Autres guides du Druid | [Guide de leveling du Druid](/fr/guides/druid-leveling/), [Balance Druid](/fr/guides/balance-druid/), [Restoration Druid](/fr/guides/restoration-druid/) |
@@ -52,44 +52,48 @@ Le Feral Druid de WoW Forever, ce sont deux specs en une : un félin qui fait de
 
 Les quatre utilisent 51 points, le total des talents au niveau 60. Chaque build prend 9 points en Balance pour Genesis 5/5, Nature's Majesty 2/2 et Nature's Reach 2/2, sauf le build solo.
 
-### Hybride, 9/42/0
+### Hybride, 9/37/5
 
-Félin et ours dans un seul build, pour les groupes de fin de jeu qui demandent l'un ou l'autre rôle. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=050022-35230332121132212051).
+Félin et ours dans un seul build, pour les groupes de fin de jeu qui demandent l'un ou l'autre rôle. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=050022-50230232123112125011-05).
 
 | Talent | Points |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a>** | 3/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a>** | 5/5 |
+| **Genesis** | 5/5 |
+| **Nature's Majesty** | 2/2 |
+| **Nature's Reach** | 2/2 |
+| **Ferocity** | 5/5 |
 | **Feral Swiftness** | 2/2 |
 | **Feral Instinct** | 3/3 |
-| **Thick Hide** | 3/3 |
+| **Thick Hide** | 2/3 |
 | **Shredding Attacks** | 3/3 |
 | **Savage Fury** | 2/2 |
 | **Feral Charge** | 1/1 |
 | **Sharpened Claws** | 2/2 |
-| **Shifting Power** | 1/1 |
-| **Primal Bite** | 1/1 |
 | **Predatory Strikes** | 3/3 |
+| **Lacerate** | 1/1 |
+| **Predatory Discipline** | 1/1 |
 | **Blood Frenzy** | 2/2 |
-| **Improved Shifting Power** | 2/2 |
 | **Leader of the Pack** | 1/1 |
 | **Natural Instinct** | 2/2 |
 | **Rend and Tear** | 5/5 |
-| **Berserk** | 1/1 |
+| **Primal Bite** | 1/1 |
+| **Lacerate** | Nouveau talent de Feral Combat depuis le correctif |
+| **Shifting Power** | 1/1 |
+| **Heart of the Wild** | 5/5 |
 
-![Le build hybride 9/42/0 du Feral Druid dans notre calculateur de talents](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
+![Le build hybride 9/37/5 du Feral Druid dans notre calculateur de talents](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
 
-### Félin, 9/40/2
+### Félin, 9/37/5
 
-Pour un Druid qui ne tanke jamais. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=050022-55230032121032212051-02). Par rapport au build hybride : Ferocity 5/5 au lieu de 3/5, ni Thick Hide ni Primal Bite, et Furor 2/5 en Restoration.
+Pour un Druid qui ne tanke jamais. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=050022-53230032123112125001-05).
 
-### Ours, 9/42/0
+### Ours, 9/37/5
 
-Pour un Druid qui ne fait que tanker, avec plus de Rage et de survie. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=050022-55230302120132012451). Par rapport au build hybride : Ferocity 5/5 et Natural Reaction 4/5, sans Shredding Attacks, Shifting Power ni Improved Shifting Power.
+Pour un Druid qui ne fait que tanker, avec plus de Rage et de survie. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=050022-5023030212310212541-05).
 
 ### Solo, 0/35/16
 
-Pour les quêtes et le farm en solo : des changements de forme moins chers et des soins sur vous-même efficaces, au prix d'un peu de performance en groupe. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=-05230032121032212051-15503001001). Feral Combat comme dans le build félin sans Ferocity, et en Restoration Nature's Focus 1/5, Furor 5/5, Naturalist 5/5, Natural Shapeshifter 3/3, Gift of the Earthmother 1/1 et Swiftmend 1/1.
+Pour les quêtes et le farm en solo : des changements de forme moins chers et des soins sur vous-même efficaces, au prix d'un peu de performance en groupe. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=-05231032123112125001-15513000001).
 
 ## Ce que font les talents clés
 
@@ -104,9 +108,7 @@ Pour les quêtes et le farm en solo : des changements de forme moins chers et de
 | **Leader of the Pack** | 3 % de chances de critique en plus en mêlée et à distance pour le groupe ou le raid à 45 mètres |
 | **Natural Reaction** | 5 % d'esquive en plus et 5 Rage à chaque esquive |
 | **Rend and Tear** | 10 % de dégâts en plus avec les techniques de mêlée sur les cibles qui saignent |
-| **Berserk** | Primal Bite touche jusqu'à 3 cibles sans recharge, 100 % de chances de critique en plus pour les générateurs de Combo Points, et il retire et bloque la Peur |
 | **Furor** | 10 Rage en passant en Bear Form ; Cat Form rend l'Énergie que vous aviez, plus 10 Énergie par seconde passée hors de Bear Form |
-| **Gift of the Earthmother** | Temps de recharge global réduit de 0,5 seconde sur Rejuvenation, Swiftmend et Wild Growth |
 
 Pour le build solo : un Rejuvenation rapide puis Swiftmend vous remettent sur pied, et vous reprenez votre forme.
 

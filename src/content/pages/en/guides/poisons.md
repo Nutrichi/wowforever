@@ -3,7 +3,7 @@ title: "Rogue Poisons guide for WoW Forever"
 metaTitle: "WoW Forever Rogue Poisons: quests, ranks, charges and reagents"
 description: "How a Rogue unlocks Poisons in WoW Forever: the Alliance and Horde quests at level 20, every poison and rank, the new charges, the reagents and what changed for crits and attack power."
 short: "Rogue Poisons"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: en
 faq:
   - q: "When can a Rogue make Poisons in WoW Forever?"
@@ -142,9 +142,9 @@ Higher ranks need more of the same, <a class="wf-wh wf-q1" href="https://www.wow
 | **Malice** | Up to 5% critical strike chance with attacks and poisons |
 | **Improved Poisons** | Up to 10% more chance to apply poisons, and a 50% chance not to use a charge |
 | **Vile Poisons** | Up to 20% more poison damage, and poisons resist dispels more often |
-| **Venom** | New finishing move: 30% more poison damage and 10% more chance to apply poisons, 9 to 21 seconds |
+| **Venom** | Passive in the fifth row: Shank raises your poison damage by 30% and your chance to apply poisons by 20% for 6 seconds |
 
-Venom sits at the bottom of the Assassination tree. For a full build with these talents, see the [Assassination Rogue guide](/guides/assassination-rogue/). For the quests in the context of leveling, see the [Rogue leveling guide](/guides/rogue-leveling/).
+Venom sits in the fifth row of the Assassination tree since 2 November. For a full build with these talents, see the [Assassination Rogue guide](/guides/assassination-rogue/). For the quests in the context of leveling, see the [Rogue leveling guide](/guides/rogue-leveling/).
 
 ## Which poison to use
 

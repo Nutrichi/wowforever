@@ -3,7 +3,7 @@ title: "Holy Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Holy Paladin: healbuild, spells en mana"
 description: "De Holy Paladin in WoW Forever: de healbuild voor level 30 en de Talented-versie, Holy Shock en Light's Vigil, de healprioriteit, mana, seals, stats en races."
 short: "Holy Paladin"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
@@ -30,8 +30,8 @@ De Holy Paladin in WoW Forever is de eenvoudigste healer van het spel. Je cast h
 | | |
 |---|---|
 | Rol | Healer, vooral op één doelwit |
-| Build op level 30 | 21 punten in Holy, Talented voegt Healing Light, Purifying Power, Divine Precision en Holy Power toe |
-| Belangrijkste talenten | Divine Intellect, Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
+| Build op level 30 | 21 punten in Holy, Talented voegt Purifying Power, Boundless Light en Holy Power toe |
+| Belangrijkste talenten | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Sterk in | Grote heals, utility voor de groep, heel moeilijk te doden |
 | Zwak in | Vooral reactief, maar één groepsheal |
 | Levelen | [Levelgids voor de Paladin](/nl/guides/paladin-leveling/), [levelbuild voor de Paladin](/nl/leveling/paladin/) |
@@ -48,20 +48,20 @@ De Holy Paladin in WoW Forever is de eenvoudigste healer van het spel. Je cast h
 
 ## De build voor level 30
 
-De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem voegt er 5 aan toe. [Open de build in de talentcalculator](/nl/talents/paladin/?t=05220003025101).
+De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem voegt er 5 aan toe. [Open de build in de talentcalculator](/nl/talents/paladin/?t=50320015022001).
 
 | Talent | Punten |
 |---|---|
-| **Divine Intellect** | 5/5 |
-| **Healing Light** | 2/3 |
-| **Spiritual Focus** | 2/2 |
-| **Reverence** | 3/3 |
-| **Infusion of Light** | 2/2 |
-| **Illumination** | 5/5 |
+| **Spiritual Focus** | 5/5 |
+| **Healing Light** | 3/3 |
+| **Reverence** | 2/2 |
 | **Divine Favor** | 1/1 |
+| **Illumination** | 5/5 |
+| **Divine Precision** | 2/2 |
+| **Infusion of Light** | 2/2 |
 | **Holy Shock** | 1/1 |
 
-[Open de Talented-versie](/nl/talents/paladin/?t=0532000322511101) met Healing Light 3/3, Purifying Power 2/2, Divine Precision 1/3 en Holy Power 1/5.
+[Open de Talented-versie](/nl/talents/paladin/?t=5032021502200121) met Purifying Power 2/2, Boundless Light 2/2 en Holy Power 1/5.
 
 ![De Talented-build van de Holy Paladin in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
 
@@ -71,7 +71,6 @@ Holy Shock zit in de vijfde rij en vraagt 20 punten erboven. Met 21 punten is er
 
 | Talent | Wat het doet in Forever |
 |---|---|
-| **Divine Intellect** | 10% meer Intellect |
 | **Healing Light** | Holy Light, Flash of Light en Holy Shock helen 12% meer |
 | **Spiritual Focus** | 70% kans om geen casttijd te verliezen als je schade krijgt, voor Flash of Light, Holy Light en Light's Vigil |
 | **Reverence** | 30% van je manaregeneratie loopt door terwijl je cast |
@@ -79,7 +78,7 @@ Holy Shock zit in de vijfde rij en vraagt 20 punten erboven. Met 21 punten is er
 | **Infusion of Light** | Een kritieke Holy Shock of Flash of Light maakt je volgende Holy Light 1 seconde sneller |
 | **Illumination** | Een kritieke heal geeft mana terug gelijk aan 50% van de basiskost van de spell |
 | **Divine Favor** | Je volgende Flash of Light, Holy Light of Holy Shock is kritiek |
-| **Divine Precision** | 18% meer kans om te raken met Holy-spells, zodat Judgement en Holy Shock landen |
+| **Divine Precision** | 8% meer kans om te raken met Holy-spells, zodat Judgement en Holy Shock landen |
 | **Holy Shock** | Een instant stoot Holy-schade op een vijand, of een instant heal op een bondgenoot |
 | **Holy Power** | 15% meer critical strike chance voor Holy Shock en Holy Strike, 5% voor alle andere spells |
 | **Light's Vigil** | Je volgende Holy Shock op het doelwit heeft geen cooldown en heelt zijn hele party |

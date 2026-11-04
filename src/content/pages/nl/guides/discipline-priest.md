@@ -3,7 +3,7 @@ title: "Discipline Priest in WoW Forever: de gids"
 metaTitle: "WoW Forever Discipline Priest: 31/20/0-build, Penance en stats"
 description: "De Discipline Priest in WoW Forever: de build 31/20/0 voor level 60, Penance, Divine Aegis, Renewed Hope en Power Infusion, tankhealing, mana, stats en races."
 short: "Discipline Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
@@ -56,7 +56,7 @@ De Discipline Priest in WoW Forever shieldt en heelt, met Penance als nieuwe bur
 
 ## De build voor level 60 (31/20/0)
 
-Deze build gebruikt alle 51 punten van level 60: 31 in Discipline tot Power Infusion en 20 in Holy voor Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing en Binding Heal. [Open de build in de talentcalculator](/nl/talents/priest/?t=005005031330011531-035050030301).
+Deze build gebruikt alle 51 punten van level 60: 31 in Discipline tot Power Infusion en 20 in Holy voor Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing. [Open de build in de talentcalculator](/nl/talents/priest/?t=005005031330011531-035050030301).
 
 | Talent | Punten |
 |---|---|
@@ -76,7 +76,7 @@ Deze build gebruikt alle 51 punten van level 60: 31 in Discipline tot Power Infu
 | **Divine Fury** | 5/5 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 
 ![De Discipline Priest-build 31/20/0 in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-discipline-priest-build.jpg)
 
@@ -105,13 +105,13 @@ Een healer heeft geen vaste rotatie. Je reageert op de schade die binnenkomt en 
 - Renew op een tank die constant schade krijgt.
 - Power Word: Shield op de tank voor een grote klap, en op jezelf tegen pushback.
 - Penance om in één keer veel health terug te zetten.
-- Flash Heal of Binding Heal als de tank snel health nodig heeft.
+- Flash Heal als de tank snel health nodig heeft.
 - Greater Heal met Inner Focus als je weet dat er een grote klap komt.
 
 **De groep healen**
 - Renew op zoveel mogelijk doelwitten die constant schade krijgen.
 - Shields op wie een grote klap gaat krijgen. Een shield op een caster houdt die ook vrij van pushback.
-- Flash Heal of Binding Heal om doelwitten na elkaar bij te vullen.
+- Flash Heal om doelwitten na elkaar bij te vullen.
 - Greater Heal met Inner Focus voor grote gaten.
 
 **Cooldowns en utility**

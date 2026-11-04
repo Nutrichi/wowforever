@@ -3,7 +3,7 @@ title: "Holy Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Holy Paladin: build de sanación, hechizos y maná"
 description: "El Holy Paladin en WoW Forever: la build de sanación de nivel 30 y su versión Talented, Holy Shock y Light's Vigil, la prioridad de curación, el maná, los sellos, los stats y las razas."
 short: "Holy Paladin"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: es
 manual: true
 faq:
@@ -30,8 +30,8 @@ El Holy Paladin de WoW Forever es el sanador más sencillo del juego. Lanzas cur
 | | |
 |---|---|
 | Rol | Sanador, sobre todo a un objetivo |
-| Build de nivel 30 | 21 puntos en Holy, Talented añade Healing Light, Purifying Power, Divine Precision y Holy Power |
-| Talentos clave | Divine Intellect, Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
+| Build de nivel 30 | 21 puntos en Holy, Talented añade Purifying Power, Boundless Light y Holy Power |
+| Talentos clave | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Fortalezas | Curas grandes, utilidad de grupo, muy difícil de matar |
 | Debilidades | Sobre todo reactivo, una sola cura de grupo |
 | Subir de nivel | [Guía de leveling del Paladin](/es/guides/paladin-leveling/), [build de leveling del Paladin](/es/leveling/paladin/) |
@@ -48,20 +48,20 @@ El Holy Paladin de WoW Forever es el sanador más sencillo del juego. Lanzas cur
 
 ## La build de nivel 30
 
-La beta se quedó en el nivel 30, así que la build usa 21 puntos. Talented, del sistema Legacy, añade 5 más. [Abre la build en la calculadora de talentos](/es/talents/paladin/?t=05220003025101).
+La beta se quedó en el nivel 30, así que la build usa 21 puntos. Talented, del sistema Legacy, añade 5 más. [Abre la build en la calculadora de talentos](/es/talents/paladin/?t=50320015022001).
 
 | Talento | Puntos |
 |---|---|
-| **Divine Intellect** | 5/5 |
-| **Healing Light** | 2/3 |
-| **Spiritual Focus** | 2/2 |
-| **Reverence** | 3/3 |
-| **Infusion of Light** | 2/2 |
-| **Illumination** | 5/5 |
+| **Spiritual Focus** | 5/5 |
+| **Healing Light** | 3/3 |
+| **Reverence** | 2/2 |
 | **Divine Favor** | 1/1 |
+| **Illumination** | 5/5 |
+| **Divine Precision** | 2/2 |
+| **Infusion of Light** | 2/2 |
 | **Holy Shock** | 1/1 |
 
-[Abre la versión Talented](/es/talents/paladin/?t=0532000322511101) con Healing Light 3/3, Purifying Power 2/2, Divine Precision 1/3 y Holy Power 1/5.
+[Abre la versión Talented](/es/talents/paladin/?t=5032021502200121) con Purifying Power 2/2, Boundless Light 2/2 y Holy Power 1/5.
 
 ![La build Talented del Holy Paladin en nuestra calculadora de talentos](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
 
@@ -71,7 +71,6 @@ Holy Shock está en la quinta fila y pide 20 puntos por encima. Con 21 puntos qu
 
 | Talento | Qué hace en Forever |
 |---|---|
-| **Divine Intellect** | Un 10% más de Intelecto |
 | **Healing Light** | Holy Light, Flash of Light y Holy Shock curan un 12% más |
 | **Spiritual Focus** | Un 70% de probabilidad de no perder tiempo de lanzamiento al recibir daño, para Flash of Light, Holy Light y Light's Vigil |
 | **Reverence** | El 30% de tu regeneración de maná sigue mientras lanzas |

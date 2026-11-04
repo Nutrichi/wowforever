@@ -3,7 +3,7 @@ title: "Protection-Warrior-Guide für WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: Tank-Build für Level 30, Bedrohung und Rage"
 description: "Der Protection Warrior in WoW Forever: der Tank-Build für Level 30 mit Master of Defense, Defiance und Vanguard, die Bedrohungsrotation, Schwächungen, Rage, Werte und Völker."
 short: "Protection Warrior"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: de
 manual: true
 faq:
@@ -41,7 +41,7 @@ Der Protection Warrior in WoW Forever ist der klassische Ritter: schwere Rüstun
 - **Master of Defense ist neu.** 5 Rage bei jedem Ausweichen und Parieren, solange du einen Schild trägst.
 - **Vanguard ist neu.** Charge funktioniert in Defensive Stance.
 - **Focused Rage ist neu.** Deine offensiven Fähigkeiten kosten bei 3/3 3 Rage weniger.
-- **Defiance** gibt bei 3/3 15 % mehr Bedrohung in Defensive Stance mit Schild.
+- **Defiance** gibt bei 3/3 20 % mehr Bedrohung in Defensive Stance mit Schild.
 - **Last Stand** gibt jetzt 30 % deiner maximalen Gesundheit für 20 Sekunden.
 - **Bastion** gibt bei 5/5 10 % mehr Schaden, solange du einen Schild trägst, und **Shield Slam** bannt in der Hälfte der Fälle auch einen Magieeffekt.
 - **Improved Shield Wall** nimmt bei 2/2 11 Minuten von der Abklingzeit von Shield Wall.
@@ -85,7 +85,7 @@ Nach Level 30 kommen Bastion, Improved Shield Wall, Improved Thunder Clap, Impro
 | **Anticipation** | 20 mehr Verteidigungsfertigkeit bei 5/5 |
 | **Master of Defense** | 5 Rage pro Ausweichen und Parieren mit Schild |
 | **Improved Revenge** | 60 % mehr Schaden von Revenge, also mehr Bedrohung |
-| **Defiance** | 15 % mehr Bedrohung in Defensive Stance mit Schild |
+| **Defiance** | 20 % mehr Bedrohung in Defensive Stance mit Schild |
 | **Last Stand** | 30 % zusätzliche maximale Gesundheit für 20 Sekunden |
 | **Vanguard** | Eröffne jeden Pull mit Charge, ohne Defensive Stance zu verlassen |
 | **Focused Rage** | 3 Rage weniger für deine offensiven Fähigkeiten |

@@ -3,15 +3,15 @@ title: "Arms Warrior guide for WoW Forever"
 metaTitle: "WoW Forever Arms Warrior: level 30 build, Rend, Overpower and Rage"
 description: "The Arms Warrior in WoW Forever: the level 30 build with Bloodthrill, Improved Slam and Sweeping Strikes, the rotation, Rend and Overpower, Rage, stats and races."
 short: "Arms Warrior"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: en
 faq:
   - q: "Is Arms Warrior good in WoW Forever?"
     a: "Arms is fun and hits hard with a slow two-handed weapon, and Sweeping Strikes, Cleave and Whirlwind make it strong against several enemies. Several of its abilities, such as Mortal Strike and Spearing Strike, are better in PvP than in PvE."
   - q: "How does Bloodthrill work?"
-    a: "Bloodthrill is new: your main hand attacks against a target with your Rend have a 20% chance at 5/5 to make Overpower usable. That is why Rend should always be ticking."
+    a: "Bloodthrill is new: your main hand attacks against a target with your Rend have a 20% chance at 2/2 to make Overpower usable. That is why Rend should always be ticking."
   - q: "Is Slam worth using in Forever?"
-    a: "Yes, with Improved Slam. At 2/2 Slam no longer interrupts your swing, its cast time and global cooldown are shorter and its cooldown drops by 3 seconds, which makes it an almost instant filler."
+    a: "Yes, with Improved Slam. At 2/2 Slam no longer interrupts your swing, its cast time and global cooldown are shorter and its cooldown drops by 5 seconds, which makes it an almost instant filler."
   - q: "When does an Arms Warrior get Mortal Strike?"
     a: "Mortal Strike is the last talent of the Arms tree and needs 30 points in it, so level 39 at the earliest, or a few levels sooner with Talented from the Legacy system."
   - q: "Which race is best for an Arms Warrior?"
@@ -22,7 +22,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/).
 
 The Arms Warrior in WoW Forever swings one big, slow weapon. Rend keeps bleeding, Overpower lights up again and again, and every hit takes a visible chunk off the enemy. Many of its talents lean towards PvP, which makes Arms the natural pick for battlegrounds. This guide covers the level 30 build, rotation, Rend and Overpower, Rage, stats, weapons and races.
 
@@ -38,10 +38,10 @@ The Arms Warrior in WoW Forever swings one big, slow weapon. Rend keeps bleeding
 
 ## What changes for Arms
 
-- **Bloodthrill is new.** Main hand attacks on a target with your Rend have a 20% chance to make Overpower usable, at 5/5.
+- **Bloodthrill is new.** Main hand attacks on a target with your Rend have a 20% chance to make Overpower usable, at 2/2.
 - **Improved Rend** gives Rend 35% more bleed damage at 3/3.
-- **Improved Slam does much more.** Shorter cast and global cooldown, no interrupted swing and a 3 seconds shorter cooldown.
-- **Spearing Strike is new.** 40% weapon damage, and 80% extra against Giants, Dragonkin and mounted targets, which it pulls off their mount.
+- **Improved Slam does much more.** Shorter cast and global cooldown, no interrupted swing and a 5 seconds shorter cooldown.
+- **Spearing Strike is new.** 75% weapon damage, and 75% extra against Giants, Dragonkin and mounted targets, which it pulls off their mount.
 - **Impale** now gives your abilities a 20% bigger critical strike damage bonus at 2/2.
 - **Weaponmaster is new.** A bonus per weapon type: critical strike chance with axes and polearms, armor penetration with maces and staves, extra attacks with swords.
 
@@ -55,20 +55,20 @@ The Arms Warrior in WoW Forever swings one big, slow weapon. Rend keeps bleeding
 
 ## The level 30 build
 
-This build uses 26 points: the 21 points of level 30 plus 5 from Talented in the Legacy system. Without Talented, stop at 21 points; the [Warrior level build](/leveling/warrior/) gives the order per level. [Open the build in the talent calculator](/talents/warrior/?t=323202031224101).
+This build uses 26 points: the 21 points of level 30 plus 5 from Talented in the Legacy system. Without Talented, stop at 21 points; the [Warrior level build](/leveling/warrior/) gives the order per level. [Open the build in the talent calculator](/talents/warrior/?t=333202031322101).
 
 | Talent | Points |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
-| **Deflection** | 2/5 |
+| **Deflection** | 3/5 |
 | **Improved Rend** | 3/3 |
 | **Improved Charge** | 2/2 |
 | **Improved Overpower** | 2/2 |
 | **Deep Wounds** | 3/3 |
 | **Spearing Strike** | 1/1 |
-| **Two-Handed Weapon Specialization** | 2/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
 | **Impale** | 2/2 |
-| **Bloodthrill** | 4/5 |
+| **Bloodthrill** | 2/2 |
 | **Sweeping Strikes** | 1/1 |
 | **Improved Slam** | 1/2 |
 
@@ -85,7 +85,7 @@ After level 30 come Weaponmaster and Mortal Strike at the bottom of the tree.
 | **Bloodthrill** | Overpower procs from main hand hits on targets with your Rend |
 | **Improved Slam** | Makes Slam an almost instant filler that does not reset your swing |
 | **Impale** | A 20% bigger critical strike damage bonus for your abilities |
-| **Two-Handed Weapon Specialization** | 3% more damage with two-handed weapons at 3/3 |
+| **Two-Handed Weapon Specialization** | 6% more damage with two-handed weapons at 3/3 |
 | **Mortal Strike** | One of your strongest attacks in any situation. After level 30 |
 | **Weaponmaster** | A bonus per weapon type. After level 30 |
 

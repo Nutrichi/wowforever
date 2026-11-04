@@ -3,7 +3,7 @@ title: "Protection Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Protection Warrior: tankbuild voor level 30, threat en Rage"
 description: "De Protection Warrior in WoW Forever: de tankbuild voor level 30 met Master of Defense, Defiance en Vanguard, de threat-rotatie, debuffs, Rage, stats en races."
 short: "Protection Warrior"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
@@ -41,7 +41,7 @@ De Protection Warrior in WoW Forever is de klassieke ridder: zware armor, een gr
 - **Master of Defense is nieuw.** 5 Rage bij elke dodge en parry zolang je een shield draagt.
 - **Vanguard is nieuw.** Charge werkt in Defensive Stance.
 - **Focused Rage is nieuw.** Je offensieve aanvallen kosten 3 Rage minder bij 3/3.
-- **Defiance** geeft 15% meer threat in Defensive Stance met een shield bij 3/3.
+- **Defiance** geeft 20% meer threat in Defensive Stance met een shield bij 3/3.
 - **Last Stand** geeft nu 30% van je maximale health voor 20 seconden.
 - **Bastion** geeft 10% meer schade zolang je een shield draagt bij 5/5, en **Shield Slam** dispelt ook de helft van de keren een Magic-effect.
 - **Improved Shield Wall** haalt 11 minuten van de cooldown van Shield Wall bij 2/2.
@@ -85,7 +85,7 @@ Na level 30 komen Bastion, Improved Shield Wall, Improved Thunder Clap, Improved
 | **Anticipation** | 20 meer Defense Skill bij 5/5 |
 | **Master of Defense** | 5 Rage per dodge en parry met een shield |
 | **Improved Revenge** | 60% meer schade van Revenge, dus meer threat |
-| **Defiance** | 15% meer threat in Defensive Stance met een shield |
+| **Defiance** | 20% meer threat in Defensive Stance met een shield |
 | **Last Stand** | 30% extra maximale health voor 20 seconden |
 | **Vanguard** | Open elke pull met Charge, zonder Defensive Stance te verlaten |
 | **Focused Rage** | 3 Rage minder voor je offensieve aanvallen |

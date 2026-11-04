@@ -1,13 +1,13 @@
 ---
 title: "Holy Priest guide for WoW Forever"
 metaTitle: "WoW Forever Holy Priest: 18/33/0 build, healing and stats"
-description: "The Holy Priest in WoW Forever: the 18/33/0 build for level 60, Prayer of Mending, Binding Heal and Litany of Light, tank and group healing, mana, stats and races."
+description: "The Holy Priest in WoW Forever: the 18/33/0 build for level 60, Prayer of Mending and Litany of Light, tank and group healing, mana, stats and races."
 short: "Holy Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: en
 faq:
   - q: "Is Holy Priest good in WoW Forever?"
-    a: "Yes, Holy is a very solid raid healer with a tool for almost every situation: Renew, shields, fast single target heals, Binding Heal, Holy Nova and Prayer of Mending. Its weak points are movement and some randomness in where Prayer of Mending jumps."
+    a: "Yes, Holy is a very solid raid healer with a tool for almost every situation: Renew, shields, fast single target heals, Holy Nova and Prayer of Mending. Its weak points are movement and some randomness in where Prayer of Mending jumps."
   - q: "What does Prayer of Mending do?"
     a: "It sits on a target and heals them the next time they take damage. Then it jumps to another party or raid member within 20 yards, up to 5 times, and lasts 30 seconds after each jump. Only one can be active per Priest."
   - q: "What is Litany of Light?"
@@ -22,13 +22,13 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"
 ---
-The Holy Priest in WoW Forever is a healer with an answer for every injury: Renew for steady damage, Flash Heal and Binding Heal for speed, Greater Heal for big hits and Prayer of Mending for the whole raid. New talents reward you for mixing your heals. This guide covers the build, healing per situation, mana, mouseover healing, stats and gear.
+The Holy Priest in WoW Forever is a healer with an answer for every injury: Renew for steady damage, Flash Heal for speed, Greater Heal for big hits and Prayer of Mending for the whole raid. New talents reward you for mixing your heals. This guide covers the build, healing per situation, mana, mouseover healing, stats and gear.
 
 | | |
 |---|---|
 | Role | Healer, best at group and raid healing |
 | Build for level 60 | 18/33/0, with the talents of the beta build of 15 October |
-| Key talents | Improved Renew, Binding Heal, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
+| Key talents | Improved Renew, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
 | Strength | A very solid raid healer with many tools |
 | Weakness | Almost no movement, randomness in Prayer of Mending |
 | Leveling | [Priest leveling guide](/guides/priest-leveling/), [Priest level build](/leveling/priest/) |
@@ -37,7 +37,6 @@ The Holy Priest in WoW Forever is a healer with an answer for every injury: Rene
 ## What changes for Holy
 
 - **Prayer of Mending is the new last talent.** A heal that waits on a target and jumps on to the next one who takes damage, up to 5 times.
-- **Binding Heal is new.** It heals a friendly target and yourself at the same time, for about the cost of a Flash Heal.
 - **Litany of Light is new.** Mana back when your heal is a different spell than the one before it.
 - **Spiritual Guidance is reworked.** Up to 25% of your total Spirit becomes healing power.
 - **Inspiration counts every non-periodic critical heal.** 25% more Armor on the target for 15 seconds.
@@ -70,7 +69,8 @@ This build uses all 51 points of level 60. The 18 Discipline points pay for Twin
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
+| **Holy Binding** | Each Flash Heal on someone else also heals you for 50% as much, without threat |
 | **Litany of Light** | 2/2 |
 | **Spirit of Redemption** | 1/1 |
 | **Spiritual Guidance** | 5/5 |
@@ -90,7 +90,6 @@ This build uses all 51 points of level 60. The 18 Discipline points pay for Twin
 | Talent | What it does in Forever |
 |---|---|
 | **Improved Renew** | 15% more healing from Renew at 3/3. A cheap way to make a spell you cast all the time stronger |
-| **Binding Heal** | Heals your target and yourself for about the cost of a Flash Heal. Two heals for the price of one |
 | **Spiritual Guidance** | Up to 25% of your total Spirit as extra healing, so your Spirit is never wasted |
 | **Litany of Light** | 10% of the base cost back when you switch to another heal |
 | **Spiritual Healing** | 10% more healing from all your spells |
@@ -104,14 +103,14 @@ A healer has no fixed rotation. You respond to the damage that comes in and to y
 **Healing a tank**
 - Renew on a tank that takes steady damage.
 - Power Word: Shield on the tank before a big hit, and on yourself against pushback. A shield on a caster also keeps them from being pushed back.
-- Flash Heal or Binding Heal when the tank needs health fast.
+- Flash Heal when the tank needs health fast.
 - Greater Heal when you know a big hit is coming, or when you need a lot of healing at once. Combine it with Inner Focus.
 - Holy Nova or Prayer of Mending when more people take damage.
 
 **Healing the group** (the strength of Holy)
 - Renew on as many targets as possible that take steady damage.
 - Shields on whoever is about to take a big hit.
-- Flash Heal or Binding Heal to top up targets one after the other.
+- Flash Heal to top up targets one after the other.
 - Greater Heal with Inner Focus for big gaps.
 - Holy Nova when the whole group takes damage at once.
 

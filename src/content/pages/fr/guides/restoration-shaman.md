@@ -3,16 +3,16 @@ title: "Restoration Shaman dans WoW Forever : le guide"
 metaTitle: "WoW Forever Restoration Shaman : build de soins, totems, mana"
 description: "Le Restoration Shaman dans WoW Forever : le build de soins niveau 30 et sa version Talented, Water Shield, Riptide et Chain Heal, les totems, le mana, les stats et les races."
 short: "Restoration Shaman"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: fr
 manual: true
 faq:
   - q: "Le Restoration Shaman est-il un bon soigneur dans WoW Forever ?"
     a: "Oui. Les soins sont simples et puissants, avec Chain Heal pour les groupes et Lesser Healing Wave pour les urgences, et la spec apporte des totems que chaque groupe veut. Ses points faibles sont le mana et le manque de contrôle."
   - q: "Qu'est-ce qui change pour le Restoration Shaman dans Forever ?"
-    a: "Riptide, Water Shield et Mindfulness. Les totems marchent maintenant pour tout le raid, et Totemic Projection déplace vos totems actifs. Les soins au survol de la souris sont intégrés au jeu."
+    a: "Riptide, Water Shield et Mindfulness. Les totems marchent maintenant pour tout le raid, et Totemic Call ramène vos totems actifs vers vous. Les soins au survol de la souris sont intégrés au jeu."
   - q: "Que fait Riptide ?"
-    a: "Un soin instantané avec un soin sur la durée, et un Chain Heal lancé directement sur cette cible soigne 25 % de plus. C'est le dernier talent de l'arbre Restoration, donc le build niveau 30 ne l'atteint pas encore."
+    a: "Un soin sur la durée instantané de 15 secondes, et un Chain Heal lancé directement sur cette cible soigne 25 % de plus. Depuis les notes de développement du 2 novembre, il ne soigne plus immédiatement et a une recharge de 12 secondes. C'est le dernier talent de l'arbre Restoration, donc le build niveau 30 ne l'atteint pas encore."
   - q: "Comment un Restoration Shaman garde-t-il son mana ?"
     a: "Spirit sur l'équipement, Mindfulness pour 50 % de votre régénération de mana pendant l'incantation, Water Shield sur les soins critiques, Mana Spring Totem en permanence et Mana Tide Totem quand le groupe est à sec."
   - q: "Quelles stats pour un Restoration Shaman ?"
@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/shamans-lose-lava-burst-before-the-launch/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
+> **Mise à jour du 4 novembre :** les builds et talents ci-dessous suivent les nouveaux arbres des notes de développement du 2 novembre, plus de détails dans [notre article](/fr/news/shamans-lose-lava-burst-before-the-launch/).
 
 Le Restoration Shaman de WoW Forever soigne avec quelques sorts simples et comble le reste avec de l'utilitaire. Chain Heal est le grand soin de groupe, Lesser Healing Wave sauve une cible en difficulté, et vos totems renforcent tout le raid. Nouveaux dans Forever : Riptide, Water Shield et Mindfulness, qui s'attaquent au plus vieux problème de la spec, le mana. Ce guide couvre le build niveau 30, les talents clés, la priorité de soins, les totems, le mana, les stats et les races.
 
@@ -86,7 +86,7 @@ Nature's Swiftness est au cinquième rang et demande 20 points au-dessus : c'est
 | **Restorative Totems** | À 4/5 : Mana Spring Totem 20 % plus fort, Healing Stream Totem 40 % plus fort |
 | **Mana Tide Totem** | Un totem qui rend 88 mana toutes les 3 secondes pendant 12 secondes au groupe à 30 mètres |
 | **Nature's Swiftness** | Votre prochain sort de Nature avec temps d'incantation devient instantané |
-| **Riptide** | Un soin instantané plus un soin sur la durée, et 25 % de soins en plus pour Chain Heal sur cette cible |
+| **Riptide** | Un soin sur la durée de 15 secondes, recharge de 12 secondes, et 25 % de soins en plus pour Chain Heal sur cette cible |
 
 Water Shield ne donne pas de mana passif dans Forever, mais avec beaucoup de soins critiques, ça finit par compter. Riptide est le dernier talent de l'arbre, au septième rang, hors de portée au niveau 30.
 
@@ -100,7 +100,7 @@ Un soigneur n'a pas d'ordre fixe : réagissez à ce qui se passe. À titre indic
 4. Healing Wave pour les dégâts réguliers.
 5. Healing Stream Totem pour un soin continu quand votre emplacement de totem d'eau est libre.
 
-Sur le tank, Chain Heal ne vaut le coup que s'il se tient près d'autres joueurs blessés. Riptide est instantané : lancez-le juste après un soin à incantation pour un pic de soins en plus. Une macro avec Nature's Swiftness et Healing Wave, ou avec Chain Heal, vous donne un bouton d'urgence.
+Sur le tank, Chain Heal ne vaut le coup que s'il se tient près d'autres joueurs blessés. Riptide est instantané et soigne sur 15 secondes : posez-le sur le tank avant que les dégâts arrivent. Une macro avec Nature's Swiftness et Healing Wave, ou avec Chain Heal, vous donne un bouton d'urgence.
 
 ## Le mana
 
@@ -114,7 +114,7 @@ Sur le tank, Chain Heal ne vaut le coup que s'il se tient près d'autres joueurs
 - **Windfury Totem** est le meilleur buff de mêlée du jeu et vous vaut des invitations. Sans la limite au groupe, il marche pour tout le raid.
 - **Tremor Totem** retire peur, sommeil et charme aux alliés à portée. Un bon timing sauve des donjons.
 - **Poison Cleansing Totem** et **Disease Cleansing Totem** retirent un effet par impulsion, sans devoir guérir chaque joueur.
-- **Totemic Recall** reprend vos totems contre un peu de mana. **Totemic Projection** déplace vos totems actifs jusqu'à 30 mètres, mais coûte beaucoup de mana.
+- **Totemic Recall** reprend vos totems contre un peu de mana. **Totemic Call** ramène vos totems actifs là où vous êtes, avec une recharge de 30 secondes.
 - **Ghost Wolf** avec Improved Ghost Wolf est instantané et marche en intérieur. Entrer et sortir de la forme coûte un temps de recharge global.
 
 En mouvement, vous avez surtout Riptide et Nature's Swiftness pour soigner. Réfléchissez à la direction du combat avant de poser vos totems.

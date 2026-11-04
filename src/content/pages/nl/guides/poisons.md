@@ -3,7 +3,7 @@ title: "Gids voor de Poisons van de Rogue in WoW Forever"
 metaTitle: "WoW Forever Rogue Poisons: quests, rangen, charges en reagents"
 description: "Zo krijgt een Rogue Poisons in WoW Forever: de quests van Alliance en Horde op level 20, elk gif en elke rang, de nieuwe charges, de reagents en wat er verandert voor crits en attack power."
 short: "Rogue Poisons"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
@@ -143,9 +143,9 @@ Hogere rangen vragen meer van hetzelfde, <a class="wf-wh wf-q1" href="https://ww
 | **Malice** | Tot 5% crit chance met aanvallen en Poisons |
 | **Improved Poisons** | Tot 10% meer kans om Poisons toe te passen, en 50% kans dat een charge niet opgaat |
 | **Vile Poisons** | Tot 20% meer schade met Poisons, en Poisons weerstaan vaker een dispel |
-| **Venom** | Nieuwe finishing move: 30% meer schade met Poisons en 10% meer kans om ze toe te passen, 9 tot 21 seconden |
+| **Venom** | Passief in de vijfde rij: Shank verhoogt je schade met Poisons met 30% en je kans om ze toe te passen met 20%, 6 seconden lang |
 
-Venom zit onderaan de boom van Assassination. Voor een volledige build met deze talenten, zie de [gids voor de Assassination Rogue](/nl/guides/assassination-rogue/). Voor de quests tijdens het levelen, zie de [levelgids voor de Rogue](/nl/guides/rogue-leveling/).
+Venom zit sinds 2 november in de vijfde rij van de boom van Assassination. Voor een volledige build met deze talenten, zie de [gids voor de Assassination Rogue](/nl/guides/assassination-rogue/). Voor de quests tijdens het levelen, zie de [levelgids voor de Rogue](/nl/guides/rogue-leveling/).
 
 ## Welk gif je gebruikt
 

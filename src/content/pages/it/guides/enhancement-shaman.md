@@ -3,7 +3,7 @@ title: "Guida all'Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totem"
 description: "L'Enhancement Shaman in WoW Forever: la build di livello 30 e la versione Talented, Stormstrike e Maelstrom Weapon, la rotazione, i totem, il mana, il tanking, le stats e le razze."
 short: "Enhancement Shaman"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: it
 manual: true
 faq:
@@ -27,7 +27,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
-> **Aggiornamento del 3 novembre:** le note di sviluppo del 2 novembre cambiano molto questa classe, di più nel [nostro articolo](/it/news/shamans-lose-lava-burst-before-the-launch/). I nuovi alberi sono ora nel nostro calcolatore dei talenti, ma le build e i talenti qui sotto non li seguono ancora ovunque. Aggiorneremo questa guida a breve.
+> **Aggiornamento del 4 novembre:** le build e i talenti qui sotto seguono i nuovi alberi delle note di sviluppo del 2 novembre, di più nel [nostro articolo](/it/news/shamans-lose-lava-burst-before-the-launch/).
 
 L'Enhancement Shaman di WoW Forever combatte in mischia e aggiunge incantesimi. Un'arma a due mani lenta con Windfury Weapon porta i colpi pesanti, mentre Stormstrike e Maelstrom Weapon inseriscono Lightning Bolt nella rotazione. I totem ti rendono benvenuto in ogni gruppo. Questa guida copre la build di livello 30, i talenti chiave, la rotazione, i totem, il mana, il tanking, le stats e le razze.
 
@@ -35,7 +35,7 @@ L'Enhancement Shaman di WoW Forever combatte in mischia e aggiunge incantesimi. 
 |---|---|
 | Ruolo | Danni in mischia, bersaglio singolo e gruppi, tank nei primi dungeon |
 | Build a livello 30 | 21 punti in Enhancement, Talented aggiunge Mental Quickness 2/2, Improved Stormstrike 2/2 e Maelstrom Weapon 1/5 |
-| Talenti chiave | Improved Ghost Wolf, Mental Dexterity, Shamanistic Focus, Flurry, Stormstrike, Improved Stormstrike, Maelstrom Weapon |
+| Talenti chiave | Mental Dexterity, Shamanistic Focus, Flurry, Stormstrike, Improved Stormstrike, Maelstrom Weapon |
 | Punti di forza | Danno solido, totem per tutto il raid, molta utilità |
 | Punti deboli | Mana, dipendenza dall'arma, poche opzioni difensive |
 | Altre guide Shaman | [Elemental Shaman](/it/guides/elemental-shaman/), [Restoration Shaman](/it/guides/restoration-shaman/), [Shaman leveling](/it/guides/shaman-leveling/), [Shaman level build](/it/leveling/shaman/) |
@@ -58,20 +58,20 @@ L'Enhancement Shaman di WoW Forever combatte in mischia e aggiunge incantesimi. 
 
 ## La build di livello 30
 
-La beta si fermava al livello 30, quindi la build usa 21 punti. Talented del sistema Legacy ne aggiunge altri 5. [Apri la build nel calcolatore di talenti](/it/talents/shaman/?t=-0500321310051).
+La beta si fermava al livello 30, quindi la build usa 21 punti. Talented del sistema Legacy ne aggiunge altri 5. [Apri la build nel calcolatore di talenti](/it/talents/shaman/?t=-052031310051).
 
 | Talento | Punti |
 |---|---|
 | **Thundering Strikes** | 5/5 |
+| **Ancestral Knowledge** | 2/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Ghost Wolf** | 2/2 |
 | **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
 
-[Apri la versione Talented](/it/talents/shaman/?t=-05003213100510221) con Mental Quickness 2/2, Improved Stormstrike 2/2 e Maelstrom Weapon 1/5.
+[Apri la versione Talented](/it/talents/shaman/?t=-05203131005100221) con Mental Quickness 2/2, Improved Stormstrike 2/2 e Maelstrom Weapon 1/5.
 
 ![La build Talented dell'Enhancement Shaman nel nostro calcolatore di talenti](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
 
@@ -82,12 +82,12 @@ La nostra [guida al leveling dello Shaman](/it/guides/shaman-leveling/) usa la s
 | Talento | Cosa fa in Forever |
 |---|---|
 | **Thundering Strikes** | 5% in più di probabilità di critico con tutti gli incantesimi e gli attacchi |
-| **Mental Dexterity** | Potenza d'attacco pari al 100% del tuo Intellect |
-| **Improved Ghost Wolf** | Ghost Wolf diventa istantaneo e funziona al chiuso |
+| **Mental Dexterity** | Potenza d'attacco pari al 150% del tuo Intellect |
+| **Ancestral Knowledge** | A 2/5: il 4% di Intellect in più, che Mental Dexterity trasforma in potenza d'attacco |
 | **Elemental Weapons** | Rockbiter Weapon 20% di potenza d'attacco in più, Windfury Weapon 40% più forte, Flametongue e Frostbrand Weapon 15% di danni in più |
 | **Shamanistic Focus** | Gli Shock e Lightning Shield costano il 45% di mana in meno |
-| **Flurry** | 25% di velocità d'attacco in più per 3 colpi dopo un critico in mischia |
-| **Stormstrike** | Colpo istantaneo con i danni dell'arma. Il tuo prossimo Lightning Bolt, Chain Lightning o Earth Shock infligge il 20% di danni in più entro 12 secondi. Cooldown di 8 secondi |
+| **Flurry** | 30% di velocità d'attacco in più per 3 colpi dopo un critico in mischia |
+| **Stormstrike** | Colpo istantaneo con il 150% dei danni dell'arma. Il tuo prossimo Lightning Bolt, Chain Lightning o Earth Shock infligge il 20% di danni in più entro 12 secondi. Cooldown di 6 secondi |
 | **Mental Quickness** | Danni magici e cure pari al 30% del tuo Intellect |
 | **Improved Stormstrike** | Stormstrike dà il 50% di rigenerazione del mana durante il lancio per 15 secondi. Una schivata o una parata azzera il cooldown |
 | **Maelstrom Weapon** | I colpi in mischia possono ridurre il tempo di lancio e il costo in mana del prossimo Lightning Bolt, fino a 5 cariche. 4% per carica a 1/5, 20% per carica a 5/5 |
@@ -128,7 +128,7 @@ Senza mana restano i colpi bianchi, ma il danno cala molto finché non si ricari
 ## Totem e movimento
 
 - **Call of the Elements** e gli altri incantesimi Call piazzano con un tasto un set salvato di quattro totem. Hanno un tempo di lancio.
-- **Totemic Recall** riprende i totem. **Totemic Projection** sposta i totem attivi, ma costa molto mana.
+- **Totemic Recall** riprende i totem. **Totemic Call** porta i tuoi totem attivi dove ti trovi, con una ricarica di 30 secondi.
 - **Windfury Totem** è il miglior buff da mischia del gioco. Senza il limite di gruppo, funziona per tutto il raid. Gli effetti Windfury non si sommano.
 - **Tremor Totem** rimuove paura, sonno e charme dagli alleati a portata. Un buon tempismo salva le run.
 - **Poison Cleansing Totem** e **Disease Cleansing Totem** rimuovono un effetto per impulso.
@@ -153,7 +153,7 @@ Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad a
 - **Danni dell'arma**: la tua principale fonte di scalata, tramite Stormstrike e Windfury.
 - **Hit**: meno importante all'inizio, alta priorità vicino al livello 60. Un'abilità mancata spreca danni e mana.
 - **Strength**: 2 di potenza d'attacco per punto.
-- **Intellect**: 1 di potenza d'attacco per punto con Mental Dexterity, più riserva di mana. Può superare Strength se il mana è il tuo problema.
+- **Intellect**: 1,5 di potenza d'attacco per punto con Mental Dexterity, più riserva di mana. Può superare Strength se il mana è il tuo problema.
 - **Probabilità di critico**: tiene attivo Flurry, e anche i colpi di Windfury possono essere critici.
 - **Spirit**: più utile di quanto sembri, perché Improved Stormstrike mantiene la rigenerazione durante il lancio.
 - **Danni magici**: Enhancement lancia parecchi incantesimi, quindi l'equipaggiamento con potere magico può essere un miglioramento.

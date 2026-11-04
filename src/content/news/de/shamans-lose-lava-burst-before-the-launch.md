@@ -46,4 +46,4 @@ Windfury Weapon und Windfury Totem zeigen den zusätzlichen Schlag jetzt als Ani
 
 ## Was das für unsere Guides bedeutet
 
-Die neuen Bäume sind jetzt in unserem [Talentrechner](/de/talents/shaman/). Unser [Guide zum Elemental Shaman](/de/guides/elemental-shaman/) und der [Leveling-Guide für den Shaman](/de/guides/shaman-leveling/) drehen sich noch um Lava Burst. Wir aktualisieren sie in Kürze.
+Die neuen Bäume sind jetzt in unserem [Talentrechner](/de/talents/shaman/). Unser [Guide zum Elemental Shaman](/de/guides/elemental-shaman/) und der [Leveling-Guide für den Shaman](/de/guides/shaman-leveling/) drehen sich seit dem 4. November um Call of Thunder.

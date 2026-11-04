@@ -3,7 +3,7 @@ title: "Guide du Discipline Priest dans WoW Forever"
 metaTitle: "WoW Forever Discipline Priest : build 31/20/0, Penance et stats"
 description: "Le Discipline Priest dans WoW Forever : le build 31/20/0 pour le niveau 60, Penance, Divine Aegis, Renewed Hope et Power Infusion, soins de tank, mana, stats et races."
 short: "Discipline Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: fr
 manual: true
 faq:
@@ -56,7 +56,7 @@ Le Discipline Priest de WoW Forever protège et soigne, avec Penance comme nouve
 
 ## Le build niveau 60 (31/20/0)
 
-Ce build utilise les 51 points du niveau 60 : 31 en Discipline jusqu’à Power Infusion et 20 en Holy pour Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing et Binding Heal. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=005005031330011531-035050030301).
+Ce build utilise les 51 points du niveau 60 : 31 en Discipline jusqu’à Power Infusion et 20 en Holy pour Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=005005031330011531-035050030301).
 
 | Talent | Points |
 |---|---|
@@ -76,7 +76,7 @@ Ce build utilise les 51 points du niveau 60 : 31 en Discipline jusqu’à Power 
 | **Divine Fury** | 5/5 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 
 ![Le build Discipline Priest 31/20/0 dans notre calculateur de talents](../../../../assets/posts/2026-10-21-wow-forever-discipline-priest-build.jpg)
 
@@ -105,13 +105,13 @@ Un soigneur n’a pas de rotation fixe. Vous réagissez aux dégâts qui arriven
 - Renew sur un tank qui prend des dégâts réguliers.
 - Power Word: Shield sur le tank avant un gros coup, et sur vous contre le recul.
 - Penance pour rendre beaucoup de vie d’un coup.
-- Flash Heal ou Binding Heal quand le tank a besoin de vie rapidement.
+- Flash Heal quand le tank a besoin de vie rapidement.
 - Greater Heal avec Inner Focus quand vous savez qu’un gros coup arrive.
 
 **Soigner le groupe**
 - Renew sur le plus de cibles possible qui prennent des dégâts réguliers.
 - Des boucliers sur ceux qui vont prendre un gros coup. Un bouclier sur un lanceur de sorts le protège aussi du recul.
-- Flash Heal ou Binding Heal pour remonter les cibles l’une après l’autre.
+- Flash Heal pour remonter les cibles l’une après l’autre.
 - Greater Heal avec Inner Focus pour les gros trous.
 
 **Temps de recharge et utilité**

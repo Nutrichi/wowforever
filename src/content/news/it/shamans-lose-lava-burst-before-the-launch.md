@@ -46,4 +46,4 @@ Windfury Weapon e Windfury Totem ora mostrano il colpo extra con un'animazione.
 
 ## Cosa cambia per le nostre guide
 
-I nuovi alberi sono ora nel nostro [calcolatore dei talenti](/it/talents/shaman/). La nostra [guida allo Shaman Elemental](/it/guides/elemental-shaman/) e la [guida al livellamento dello Shaman](/it/guides/shaman-leveling/) ruotano ancora attorno a Lava Burst. Le aggiorneremo a breve.
+I nuovi alberi sono ora nel nostro [calcolatore dei talenti](/it/talents/shaman/). La nostra [guida allo Shaman Elemental](/it/guides/elemental-shaman/) e la [guida al livellamento dello Shaman](/it/guides/shaman-leveling/) ruotano dal 4 novembre attorno a Call of Thunder.

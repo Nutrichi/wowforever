@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash-builds tot level 60"
 description: "De Combat Rogue in WoW Forever: Hack and Slash voor elk wapentype, een build voor level 30 en twee voor level 60 (standaard en dolken), Blade Flurry, Adrenaline Rush, Energy, poisons en races."
 short: "Combat Rogue"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
@@ -23,7 +23,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
+> **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
 De Combat Rogue in WoW Forever doet enorme schade met auto attacks en heeft een sterke uithaal met Blade Flurry en Adrenaline Rush. Forever bundelt alle oude wapenspecialisaties in één talent, Hack and Slash, dus elk wapentype werkt nu. Poisons kunnen critical strikes landen en schalen met attack power, en Combat is de enige Rogue-spec die kan cleaven. Deze gids behandelt een build voor level 30, twee voor level 60, de rotatie, Energy, poisons, stats en races.
 
@@ -50,63 +50,66 @@ De Combat Rogue in WoW Forever doet enorme schade met auto attacks en heeft een 
 
 ## Build voor level 30
 
-Op level 30 heb je 21 punten, en Talented voegt er 5 toe. De build draait om overleven en snel doden: Deflection en Riposte verkorten je pauzes, Improved Eviscerate en je auto attacks doen de schade. [Open de build in de talentcalculator](/nl/talents/rogue/?t=-3200332110141), [Talented-versie](/nl/talents/rogue/?t=-32003321101415) met Hack and Slash 5/5. Meer in onze [levelgids voor de Rogue](/nl/guides/rogue-leveling/).
+Op level 30 heb je 21 punten, en Talented voegt er 5 toe. De build draait om overleven en snel doden: Deflection en Riposte verkorten je pauzes, Coup de Grace en je auto attacks doen de schade. [Open de build in de talentcalculator](/nl/talents/rogue/?t=-3200331210011301), [Talented-versie](/nl/talents/rogue/?t=-32003312100113015) met Hack and Slash 5/5. Meer in onze [levelgids voor de Rogue](/nl/guides/rogue-leveling/).
 
 ## Standaardbuild voor level 60: 18/33/0
 
-De beta stopte op level 30, maar de talentbomen voor level 60 zitten in de spelbestanden. We hebben deze build punt voor punt nagekeken in [onze talentcalculator](/nl/talents/rogue/?t=005303124-32003321101515231). Hij gaat helemaal tot Adrenaline Rush en haalt Malice, Slice and Dice, Combo Points en Energy uit Assassination.
+De beta stopte op level 30, maar de talentbomen voor level 60 zitten in de spelbestanden. We hebben deze build punt voor punt nagekeken in [onze talentcalculator](/nl/talents/rogue/?t=015323202-3200332210012321521). Hij gaat helemaal tot Adrenaline Rush en haalt Malice, Slice and Dice, Combo Points en Vigor voor meer Energy uit Assassination.
 
 | Talent | Punten |
 |---|---|
+| **Remorseless Attacks** (Assassination) | 1/2 |
 | **Malice** (Assassination) | 5/5 |
 | **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Relentless Strikes** (Assassination) | 1/1 |
 | **Improved Expose Armor** (Assassination) | 2/2 |
-| **Lethality** (Assassination) | 4/5 |
-| **Improved Eviscerate** | 3/3 |
-| **Improved Sinister Strike** | 2/2 |
+| **Improved Slice and Dice** (Assassination) | 3/3 |
+| **Vigor** (Assassination) | 2/2 |
+| **Lethality** (Assassination) | 2/2 |
+| **Coup de Grace** | 3/3 |
+| **Efficient Strikes** | 2/2 |
 | **Deflection** | 3/3 |
 | **Precision** | 3/3 |
+| **Improved Sprint** | 2/2 |
 | **Endurance** | 2/2 |
 | **Riposte** | 1/1 |
-| **Improved Sprint** | 1/2 |
 | **Flawless Execution** | 1/1 |
-| **Dual Wield Specialization** | 5/5 |
-| **Blade Flurry** | 1/1 |
-| **Hack and Slash** | 5/5 |
 | **Weapon Expertise** | 2/2 |
 | **Aggression** | 3/3 |
+| **Dual Wield Specialization** | 2/2 |
+| **Blade Flurry** | 1/1 |
+| **Hack and Slash** | 5/5 |
+| **Flash of Steel** | 2/5 |
 | **Adrenaline Rush** | 1/1 |
 
 ![De standaardbuild 18/33/0 van de Combat Rogue in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-combat-rogue-build.jpg)
 
 ## Dolkbuild voor level 60: 16/33/2
 
-Hetzelfde pad, maar rond Backstab. [Open de build in de talentcalculator](/nl/talents/rogue/?t=005303122-32030320201515231-002). Puncturing Wounds en een tweede punt in Improved Sprint vervangen Deflection en Riposte, Lethality zakt naar 2/5, en Opportunity 2/2 in Subtlety laat Backstab en Ambush harder slaan.
+Hetzelfde pad, maar rond Backstab. [Open de build in de talentcalculator](/nl/talents/rogue/?t=005323102-3023032200012321531-002). Puncturing Wounds vervangt Deflection en Riposte, Lightning Reflexes vervangt Efficient Strikes, dat alleen Sinister Strike goedkoper maakt, en Opportunity 2/2 in Subtlety laat Backstab en Ambush harder slaan.
 
 | Talent | Punten |
 |---|---|
 | **Malice** (Assassination) | 5/5 |
 | **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Relentless Strikes** (Assassination) | 1/1 |
 | **Improved Expose Armor** (Assassination) | 2/2 |
-| **Lethality** (Assassination) | 2/5 |
-| **Improved Eviscerate** | 3/3 |
-| **Improved Sinister Strike** | 2/2 |
+| **Improved Slice and Dice** (Assassination) | 3/3 |
+| **Vigor** (Assassination) | 1/2 |
+| **Lethality** (Assassination) | 2/2 |
+| **Coup de Grace** | 3/3 |
+| **Lightning Reflexes** | 2/5 |
 | **Puncturing Wounds** | 3/3 |
 | **Precision** | 3/3 |
-| **Endurance** | 2/2 |
 | **Improved Sprint** | 2/2 |
+| **Endurance** | 2/2 |
 | **Flawless Execution** | 1/1 |
-| **Dual Wield Specialization** | 5/5 |
-| **Blade Flurry** | 1/1 |
-| **Hack and Slash** | 5/5 |
 | **Weapon Expertise** | 2/2 |
 | **Aggression** | 3/3 |
+| **Dual Wield Specialization** | 2/2 |
+| **Blade Flurry** | 1/1 |
+| **Hack and Slash** | 5/5 |
+| **Flash of Steel** | 3/5 |
 | **Adrenaline Rush** | 1/1 |
-| **Opportunity** (Subtlety) | 2/2 |
+| **Opportunity** (Subtlety) | 2/5 |
 
 Verlaagt een andere speler in je groep al de armor, dan kun je de punten in Improved Expose Armor elders zetten.
 
@@ -117,18 +120,20 @@ Verlaagt een andere speler in je groep al de armor, dan kun je de punten in Impr
 | **Malice** | 5% meer critical strike chance met aanvallen en poisons |
 | **Ruthlessness** | Finishing moves hebben 60% kans om een Combo Point toe te voegen |
 | **Improved Slice and Dice** | Slice and Dice duurt 45% langer |
-| **Relentless Strikes** | Finishing moves hebben per Combo Point 20% kans om 25 Energy terug te geven |
+| **Vigor** | 10 meer maximale Energy |
 | **Lethality** | Meer critical strike-schade voor Sinister Strike, Gouge, Backstab en andere generators |
 | **Improved Expose Armor** | Expose Armor kost 10 Energy minder en geeft bij 5 Combo Points er 2 terug |
-| **Improved Eviscerate** | Eviscerate doet 20% meer schade |
+| **Coup de Grace** | Eviscerate doet 20% meer schade |
 | **Precision** | 3% meer kans om te raken |
 | **Riposte** | Na een parry: 150% wapenschade en een disarm van 6 seconden |
-| **Flawless Execution** | Eviscerate kost 10 Energy minder |
-| **Dual Wield Specialization** | Je off-hand doet 25% meer schade |
+| **Flawless Execution** | Eviscerate kost 15 Energy minder |
+| **Efficient Strikes** | Sinister Strike en Hemorrhage kosten 5 Energy minder |
+| **Dual Wield Specialization** | Je off-hand doet 50% meer schade op 2/2 |
 | **Hack and Slash** | Zwaarden en bijlen: 5% kans op een extra slag. Dolken en vuistwapens: meer critical strike chance. Maces: 15% armor penetration |
 | **Blade Flurry** | 15 seconden 20% meer attack speed, en je aanvallen raken ook een vijand in de buurt |
 | **Weapon Expertise** | Je aanvallen worden 2% minder vaak ontweken en gepareerd |
-| **Aggression** | Sinister Strike, Backstab en Eviscerate doen 6% meer schade |
+| **Aggression** | Sinister Strike en Eviscerate doen 15% meer schade |
+| **Flash of Steel** | Shank geeft tot 15 extra Energy en zijn cooldown zakt tot 2 seconden |
 | **Adrenaline Rush** | Energy komt 15 seconden 100% sneller terug |
 
 ## Rotatie
@@ -156,7 +161,7 @@ Sinister Strike blijft je generator tot level 60, tenzij je met dolken speelt. S
 
 ## Energy
 
-Energy komt nu vloeiend terug, 10 punten per seconde. Adrenaline Rush verdubbelt dat 15 seconden tot 20 per seconde, en Thistle Tea geeft een flinke hoop terug. Gebruik nooit een generator op 5 Combo Points, sluit niet af met te weinig Combo Points, en geef geen Energy uit aan Kick, Feint, Gouge of Blind zonder reden.
+Energy komt nu vloeiend terug, 10 punten per seconde. Adrenaline Rush verdubbelt dat 15 seconden tot 20 per seconde, en Thistle Tea geeft een flinke hoop terug. Shank, vanaf level 24, kost 5 Energy en geeft er elke 10 seconden 15 terug, dus gebruik hem op cooldown. Gebruik nooit een generator op 5 Combo Points, sluit niet af met te weinig Combo Points, en geef geen Energy uit aan Kick, Feint, Gouge of Blind zonder reden.
 
 ## Poisons
 

@@ -3,7 +3,7 @@ title: "Hunter levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Hunter-levelgids: builds voor Beast Mastery, Marksmanship en Survival tot 30"
 description: "Een Hunter levelen in WoW Forever: de eerste levels, drie builds voor level 30 voor Beast Mastery, Marksmanship en Survival met talentvolgorde, de rotatie, de belangrijke levels, de temquest, wapens, gear, tradeskills, pets, traps, tracking en Aspects."
 short: "Hunter levelen"
-updated: 2026-10-25
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
@@ -57,18 +57,18 @@ Begin elke pull van zo ver als je kunt: elke extra meter is een extra schot. Sta
 
 ## Beast Mastery-build voor level 30
 
-De aangeraden build om te levelen. Je pet slaat harder en overleeft langer, met wat mana en snelheid erbij. [Open de build in de talentcalculator](/nl/talents/hunter/?t=512020050411).
+De aangeraden build om te levelen. Je pet slaat harder en overleeft langer, met wat mana en snelheid erbij. [Open de build in de talentcalculator](/nl/talents/hunter/?t=532002050211).
 
 | Talent | Punten |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19552"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deadly Aspects</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19583"><img class="wf-wh__icon" src="/wh/spell_nature_reincarnation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Endurance Training</a>** | 1/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223755"><img class="wf-wh__icon" src="/wh/inv_weapon_crossbow_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Focused Fire</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19559"><img class="wf-wh__icon" src="/wh/ability_mount_jungletiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pathfinding</a>** | 2/2 |
+| **Deadly Aspects** | 5/5 |
+| **Endurance Training** | 3/5 |
+| **Focused Fire** | 2/2 |
+| **Pathfinding** | 2/2 |
 | **Unleashed Fury** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19598"><img class="wf-wh__icon" src="/wh/inv_misc_monsterclaw_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a>** | 4/5 |
+| **Ferocity** | 2/5 |
 | **Summon Hawk** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19578"><img class="wf-wh__icon" src="/wh/ability_druid_demoralizingroar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spirit Bond</a>** | 1/2 |
+| **Spirit Bond** | 1/2 |
 
 Volgorde: Deadly Aspects op 10 tot 14, Focused Fire op 15 en 16, Pathfinding op 17 en 18, Endurance Training op 19, Unleashed Fury op 20 tot 24, Ferocity op 25 tot 28, Summon Hawk op 29 en Spirit Bond op 30.
 

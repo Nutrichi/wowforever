@@ -45,4 +45,4 @@ Windfury Weapon and Windfury Totem now show the extra swing as an animation.
 
 ## What this means for our guides
 
-The new trees are now in our [talent calculator](/talents/shaman/). Our [Elemental Shaman guide](/guides/elemental-shaman/) and the [Shaman leveling guide](/guides/shaman-leveling/) are still built around Lava Burst. We update them soon.
+The new trees are now in our [talent calculator](/talents/shaman/). Our [Elemental Shaman guide](/guides/elemental-shaman/) and the [Shaman leveling guide](/guides/shaman-leveling/) are built around Call of Thunder since 4 November.

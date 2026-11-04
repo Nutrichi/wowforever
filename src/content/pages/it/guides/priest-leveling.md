@@ -3,7 +3,7 @@ title: "Guida al livellamento del Priest in WoW Forever"
 metaTitle: "Guida leveling Priest WoW Forever: build Discipline, Holy e Shadow fino al 30"
 description: "Come livellare un Priest in WoW Forever: tre build di livello 30 per Discipline, Holy e Shadow, la rotazione, i livelli chiave, gli incantesimi razziali, le bacchette, le professioni, il mana e le cure."
 short: "Leveling del Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: it
 manual: true
 faq:
@@ -92,7 +92,7 @@ Per chi vuole curare molti dungeon e non vuole Discipline. [Apri la build nel ca
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 | **Litany of Light** | 1/2 |
 
 Da soli, la rotazione è quella di Discipline senza Penance: Power Word: Shield, Smite, Shadow Word: Pain e la bacchetta.
@@ -133,7 +133,7 @@ Per Shadow, il potere d'ombra conta insieme a Intellect e potere magico. Con pun
 | 20 | Mind Flay, Inner Focus, Holy Nova | Albero dei talenti |
 | 22 | Mind Vision | Istruttore di classe |
 | 24 | Mana Burn | Istruttore di classe |
-| 25 | Vampiric Embrace, Binding Heal | Albero dei talenti |
+| 25 | Vampiric Embrace | Albero dei talenti |
 | 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Istruttore di classe |
 | 30 | Penance, Silence | Albero dei talenti |
 | 32 | Shadow Word: Death, Abolish Disease | Istruttore di classe |
@@ -218,7 +218,7 @@ Anche da Shadow curi te stesso e gli altri.
 - **Penance** cura a raffiche da Discipline, o fa danni a un nemico.
 - **Power Word: Shield** non è una cura ma uno scudo che funziona come una seconda barra della vita.
 
-Holy aggiunge Prayer of Mending, che salta al bersaglio successivo ogni volta che qualcuno subisce danni, e Binding Heal, che cura te e il tuo bersaglio insieme.
+Holy aggiunge Prayer of Mending, che salta al bersaglio successivo ogni volta che qualcuno subisce danni.
 
 ## Controllo e utilità
 

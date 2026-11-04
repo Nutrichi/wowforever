@@ -3,15 +3,15 @@ title: "Restoration Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Restoration Shaman: healing build, totems, mana"
 description: "The Restoration Shaman in WoW Forever: the level 30 healing build and its Talented version, Water Shield, Riptide and Chain Heal, totems, mana, stats and races."
 short: "Restoration Shaman"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: en
 faq:
   - q: "Is Restoration Shaman a good healer in WoW Forever?"
     a: "Yes. The healing is simple and strong, with Chain Heal for groups and Lesser Healing Wave for emergencies, and the spec brings totems that every group wants. The weak points are mana and a lack of crowd control."
   - q: "What is new for the Restoration Shaman in Forever?"
-    a: "Riptide, Water Shield and Mindfulness. Totems now work for the whole raid, and Totemic Projection moves your active totems. Mouseover healing is built into the game."
+    a: "Riptide, Water Shield and Mindfulness. Totems now work for the whole raid, and Totemic Call brings your active totems to you. Mouseover healing is built into the game."
   - q: "What does Riptide do?"
-    a: "An instant heal with a heal over time, and Chain Heal cast directly on that target heals 25% more. It is the last talent of the Restoration tree, so the level 30 build cannot reach it yet."
+    a: "An instant heal over time for 15 seconds, and Chain Heal cast directly on that target heals 25% more. Since the development notes of 2 November it no longer heals right away and has a 12 second cooldown. It is the last talent of the Restoration tree, so the level 30 build cannot reach it yet."
   - q: "How does a Restoration Shaman keep their mana up?"
     a: "Spirit on gear, Mindfulness for 50% of your mana regeneration while casting, Water Shield on critical heals, Mana Spring Totem all the time and Mana Tide Totem when the group runs dry."
   - q: "Which stats does a Restoration Shaman need?"
@@ -24,7 +24,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/).
 
 The Restoration Shaman in WoW Forever heals with a few simple spells and fills the gaps with utility. Chain Heal is the big group heal, Lesser Healing Wave saves a target in trouble, and your totems buff the whole raid. New in Forever are Riptide, Water Shield and Mindfulness, which help the oldest problem of the spec: mana. This guide covers the level 30 build, the key talents, the healing priority, totems, mana, stats and races.
 
@@ -85,7 +85,7 @@ Nature's Swiftness sits in the fifth row and needs 20 points above it, so it is 
 | **Restorative Totems** | At 4/5: Mana Spring Totem 20% stronger, Healing Stream Totem 40% stronger |
 | **Mana Tide Totem** | A totem that restores 88 mana every 3 seconds for 12 seconds to the group within 30 yards |
 | **Nature's Swiftness** | Your next Nature spell with a cast time is instant |
-| **Riptide** | An instant heal plus a heal over time, and 25% more healing from Chain Heal cast on that target |
+| **Riptide** | A heal over time for 15 seconds, 12 second cooldown, and 25% more healing from Chain Heal cast on that target |
 
 Water Shield gives no passive mana in Forever, but with a lot of critical heals it adds up. Riptide is the last talent of the tree, in the seventh row, out of reach at level 30.
 
@@ -99,7 +99,7 @@ There is no fixed order for a healer: react to what happens. As a guide:
 4. Healing Wave for steady damage.
 5. Healing Stream Totem for constant healing when your Water Totem slot is free.
 
-For tank healing, Chain Heal only pays off when the tank stands near others who are hurt. Riptide is instant, so you can cast it right after a heal with a cast time lands, for an extra burst. A macro with Nature's Swiftness and Healing Wave, or with Chain Heal, gives you an emergency button.
+For tank healing, Chain Heal only pays off when the tank stands near others who are hurt. Riptide is instant and heals over 15 seconds, so put it on the tank before the damage comes. A macro with Nature's Swiftness and Healing Wave, or with Chain Heal, gives you an emergency button.
 
 ## Mana
 
@@ -113,7 +113,7 @@ For tank healing, Chain Heal only pays off when the tank stands near others who 
 - **Windfury Totem** is the best melee buff in the game and gets you invited. Without the party restriction, it works for the whole raid.
 - **Tremor Totem** removes fear, sleep and charm from allies in range. Good timing saves runs.
 - **Poison Cleansing Totem** and **Disease Cleansing Totem** remove one effect per pulse, so you do not need to cure each player.
-- **Totemic Recall** takes your totems back for a little mana. **Totemic Projection** moves your active totems up to 30 yards, but costs a lot of mana.
+- **Totemic Recall** takes your totems back for a little mana. **Totemic Call** brings your active totems to where you stand, with a 30 second cooldown.
 - **Ghost Wolf** with Improved Ghost Wolf is instant and works indoors. Shifting in and out costs a global cooldown.
 
 While moving you mainly have Riptide and Nature's Swiftness for healing. Think about where the fight goes before you drop your totems.

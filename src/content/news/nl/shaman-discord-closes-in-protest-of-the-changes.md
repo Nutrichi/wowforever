@@ -27,4 +27,4 @@ De timing is geen toeval. In de [ontwikkelnotities van 2 november](/nl/news/sham
 
 Een class-Discord ging al eerder dicht uit protest. In augustus 2025 sloot de Paladin-Discord van het moderne spel zijn Retribution-kanalen, omdat de spec zich achtergelaten voelde. Dat protest duurde minder dan 24 uur: Blizzard kondigde kort daarna buffs aan voor Retribution. Niets wees erop dat de sluiting die buffs veroorzaakte.
 
-De server [ging na bijna 13 uur weer open](/nl/news/shaman-discord-opens-again-after-13-hours/). De nieuwe bomen staan in onze [talentcalculator](/nl/talents/shaman/), en onze [gids voor de Elemental Shaman](/nl/guides/elemental-shaman/) en [levelgids voor de Shaman](/nl/guides/shaman-leveling/) volgen binnenkort.
+De server [ging na bijna 13 uur weer open](/nl/news/shaman-discord-opens-again-after-13-hours/). De nieuwe bomen staan in onze [talentcalculator](/nl/talents/shaman/), en onze [gids voor de Elemental Shaman](/nl/guides/elemental-shaman/) en [levelgids voor de Shaman](/nl/guides/shaman-leveling/) volgen ze sinds 4 november.

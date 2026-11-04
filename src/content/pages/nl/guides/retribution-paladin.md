@@ -1,18 +1,16 @@
 ---
 title: "Retribution Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Retribution Paladin: build, rotatie en seals"
-description: "De Retribution Paladin in WoW Forever: de build voor level 30 en de Talented-versie, de rotatie met Seal of Command en Twist of Light, Judgements, blessings, stats en races."
+description: "De Retribution Paladin in WoW Forever: de build voor level 30 en de Talented-versie, de rotatie met Seal of Command, Judgements, blessings, stats en races."
 short: "Retribution Paladin"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
   - q: "Is de Retribution Paladin goed in WoW Forever?"
     a: "Ja. Bijna alles wat een Paladin doet, schaalt nu met spell power, Holy Strike en Judgement gaan uit op cooldown, en Seal of Command slaat hard met een traag tweehandig wapen. Retribution brengt ook blessings, auras en Judgements die elke groep wil, en is heel moeilijk te doden."
   - q: "Wat is de beste seal voor Retribution?"
-    a: "Seal of Command voor schade, met een traag tweehandig wapen. Open met Judgement of the Crusader voor meer Holy-schade, of hou Judgement of Wisdom op als je groep mana nodig heeft. Met Twist of Light hou je Seal of Righteousness naast Seal of Command actief."
-  - q: "Wat doet Twist of Light?"
-    a: "Het is het nieuwe laatste talent van de boom. Seals kosten 20% minder mana, en als je Seal of Command of Seal of Righteousness vervangt door een andere seal, past je volgende melee-aanval de oude nog toe. In de praktijk heb je twee seals tegelijk."
+    a: "Seal of Command voor schade, met een traag tweehandig wapen. Open met Judgement of the Crusader voor meer Holy-schade, of hou Judgement of Wisdom op als je groep mana nodig heeft."
   - q: "Welke stats heeft een Retribution Paladin nodig?"
     a: "Eerst hit, zodat je aanvallen en spells raken, dan critical strike chance, Strength en attack power, en spell power. Champion of the Light zet Intellect om in spell power, dus Intellect is meer waard dan in Classic."
   - q: "Welk ras is het beste voor een Retribution Paladin?"
@@ -29,7 +27,7 @@ De Retribution Paladin in WoW Forever is de heilige krijger met een groot tweeha
 |---|---|
 | Rol | Melee-schade met een traag tweehandig wapen |
 | Build op level 30 | 21 punten in Retribution, Talented voegt Two-Handed Weapon Specialization en Vengeance toe |
-| Belangrijkste talenten | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Twist of Light |
+| Belangrijkste talenten | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Unsealed Wrath |
 | Sterk in | Utility voor de groep, heel moeilijk te doden, grote uithalen |
 | Zwak in | Traag bij een doelwit, mana kan opraken |
 | Levelen | [Levelgids voor de Paladin](/nl/guides/paladin-leveling/), [levelbuild voor de Paladin](/nl/leveling/paladin/) |
@@ -42,25 +40,26 @@ De Retribution Paladin in WoW Forever is de heilige krijger met een groot tweeha
 
 **Traag ter plaatse.** Je hebt geen charge, geen blink en geen sprint. Pursuit of Justice geeft 15% snelheid, en daar blijft het bij.
 
-**Mana.** Je bouwt voor een gevecht geen resource op, maar mana kan opraken. Sanctified Judgement en Holy Conduit helpen, en Judgement of Wisdom helpt de hele groep.
+**Mana.** Je bouwt voor een gevecht geen resource op, maar mana kan opraken. Sanctified Judgement helpen, en Judgement of Wisdom helpt de hele groep.
 
 ## De build voor level 30
 
-De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem voegt er 5 aan toe. [Open de build in de talentcalculator](/nl/talents/paladin/?t=--5012503120101).
+De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem voegt er 5 aan toe. [Open de build in de talentcalculator](/nl/talents/paladin/?t=--502330212011001).
 
 | Talent | Punten |
 |---|---|
 | **Deflection** | 5/5 |
-| **Improved Judgement** | 1/2 |
-| **Holy Conduit** | 2/2 |
-| **Conviction** | 5/5 |
+| **Improved Judgement** | 2/2 |
+| **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
+| **Unyielding Faith** | 2/2 |
 | **Seal of Command** | 1/1 |
 | **Pursuit of Justice** | 2/2 |
 | **Sacred Arbiter** | 1/1 |
+| **Two-Handed Weapon Specialization** | 1/3 |
 | **Vengeance** | 1/3 |
 
-[Open de Talented-versie](/nl/talents/paladin/?t=--5012503120133) met Two-Handed Weapon Specialization 3/3 en Vengeance 3/3.
+[Open de Talented-versie](/nl/talents/paladin/?t=--512330212013003) met Benediction 1/5, Two-Handed Weapon Specialization 3/3 en Vengeance 3/3.
 
 ![De Talented-build van de Retribution Paladin in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-retribution-paladin-build.jpg)
 
@@ -71,8 +70,7 @@ De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Le
 | Talent | Wat het doet in Forever |
 |---|---|
 | **Improved Judgement** | Judgement komt per punt 1 seconde sneller terug |
-| **Holy Conduit** | Consecration, Holy Wrath, Exorcism en Hammer of Wrath kosten 40% minder mana |
-| **Conviction** | 5% meer critical strike chance in melee |
+| **Conviction** | 6% meer critical strike chance met alle spells en aanvallen |
 | **Sanctified Judgement** | Judgement geeft 60% van de manakost van de gebruikte seal terug |
 | **Seal of Command** | Kans om 70% van je wapenschade nog eens als Holy-schade te doen, dus een traag wapen wint het meest |
 | **Pursuit of Justice** | 15% snelheid, ook op je mount |
@@ -80,10 +78,9 @@ De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Le
 | **Two-Handed Weapon Specialization** | 6% meer schade met tweehandige wapens |
 | **Vengeance** | 3% meer Physical- en Holy-schade gedurende 30 seconden na een critical strike, tot 3 keer stapelbaar |
 | **Champion of the Light** | Spell damage gelijk aan tot 30% van je Intellect |
-| **Instrument of Law** | Hammer of Wrath cast 1 seconde sneller, en je maakt 20% minder threat zonder Righteous Fury |
-| **Twist of Light** | Seals kosten 20% minder, en een vervangen Seal of Command of Seal of Righteousness werkt nog één slag door |
+| **Unsealed Wrath** | Meleeaanvallen slaan je Seal op, tot 3 keer. Een slag met een andere Seal gebruikt de stacks voor extra kansen |
 
-Champion of the Light, Instrument of Law en Twist of Light zitten in rij 6 en 7, buiten bereik op level 30. Zij zijn de reden om na de launch verder af te dalen in de boom.
+Champion of the Light en Unsealed Wrath staan op rij 6 en 7, buiten bereik op level 30. Ze zijn de reden om na de launch verder in de boom te gaan.
 
 ## Rotatie
 
@@ -94,7 +91,6 @@ Champion of the Light, Instrument of Law en Twist of Light zitten in rij 6 en 7,
 5. Cast Holy Strike zodra hij klaar is.
 6. Hou Consecration actief.
 7. Tegen Undead: cast Exorcism zodra hij klaar is.
-8. Met Twist of Light hou je Seal of Command en Seal of Righteousness waar het kan allebei actief.
 
 ## Seals en Judgements
 
@@ -104,7 +100,7 @@ Elke Paladin kan maar één Judgement op een doelwit houden, dus je kiest per gr
 - **Seal of Wisdom** en zijn Judgement geven mana terug. Je groep zal je dankbaar zijn als je hem op de boss houdt.
 - **Seal of Light** en zijn Judgement geven wat genezing terug, handig in gevechten met veel kleine schade rondom.
 - **Seal of Command** is je schade-seal. Zijn Judgement doet ook een flinke klap Holy-schade.
-- **Seal of Righteousness** voegt Holy-schade toe aan elke slag en slaat ook hard als je hem judget. Met Twist of Light is hij de tweede seal naast Seal of Command.
+- **Seal of Righteousness** voegt Holy-schade toe aan elke slag en slaat ook hard als je hem judget.
 
 ## Cooldowns en utility
 

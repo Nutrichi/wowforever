@@ -3,7 +3,7 @@ title: "Balance Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Balance Druid: DoT- en Eclipse-build, rotatie, stats en races"
 description: "De Balance Druid in WoW Forever: wat er verandert, twee builds voor level 30 met Overgrowth of Eclipse, de rotatie, cooldowns, mana en DoTs, stats, gear, races en tradeskills."
 short: "Balance Druid"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:

@@ -1,17 +1,15 @@
 ---
 title: "Frost Mage guide for WoW Forever"
 metaTitle: "WoW Forever Frost Mage: Ice Lance build, rotation, Shatter, stats and races"
-description: "The Frost Mage in WoW Forever: Ice Lance and Fingers of Frost, the build for level 30 with Missile Barrage, the rotation, kiting, mana, Shatter, stats, gear, races and professions."
+description: "The Frost Mage in WoW Forever: Ice Lance and Fingers of Frost, the build for level 30, the rotation, kiting, mana, Shatter, stats, gear, races and professions."
 short: "Frost Mage"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: en
 faq:
   - q: "Is Frost Mage good in WoW Forever?"
     a: "Yes. Ice Lance and Fingers of Frost let Frost use Shatter on one target, even on bosses you cannot freeze. That turns the old leveling and PvP spec into a strong damage spec for dungeons and raids, with the most control of the three Mage specs."
   - q: "How much damage does Ice Lance deal to Frozen targets?"
-    a: "200% more. It used to be 300%. Ice Lance is instant, costs 45 mana and needs level 20."
-  - q: "Why does a Frost build take Missile Barrage?"
-    a: "Missile Barrage moved to the first row of the Arcane tree. At 2/2, every Frostbolt has a 20% chance to make your next Arcane Missiles free and twice as fast. That is a lot of damage for two points."
+    a: "300% more. It used to be 200%. Ice Lance is instant, costs 45 mana and needs level 20."
   - q: "Can I still use rank 1 Frostbolt?"
     a: "Only for the slow. In WoW Forever, lower ranks have a much smaller chance to trigger effects such as Frostbite and Fingers of Frost, so rank 1 no longer helps you fish for procs."
   - q: "When do I get Ice Barrier?"
@@ -29,7 +27,7 @@ The Frost Mage in WoW Forever slows and freezes its targets, survives better tha
 | | |
 |---|---|
 | Role | Ranged damage with slows, freezes and burst |
-| Build at level 30 | 21 points in Frost, Talented adds Missile Barrage |
+| Build at level 30 | 21 points in Frost, Talented adds Permafrost |
 | Key talents | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a> |
 | Strength | Burst on Frozen targets, control, survival |
 | Weakness | Depends on procs, mana |
@@ -39,9 +37,8 @@ The Frost Mage in WoW Forever slows and freezes its targets, survives better tha
 
 ## What changes for Frost
 
-- **Ice Lance is new.** A talent at level 20: instant, 45 mana, and 200% more damage to Frozen targets. It used to be 300%.
+- **Ice Lance is new.** A talent at level 20: instant, 45 mana, and 300% more damage to Frozen targets. It used to be 200%.
 - **Fingers of Frost is new.** Your Chill effects have a 15% chance to treat your next 2 spells as if the target were Frozen. That works on targets you cannot freeze, such as most bosses.
-- **Missile Barrage is in reach.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400588"><img class="wf-wh__icon" src="/wh/ability_mage_missilebarrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Missile Barrage</a> sits in the first row of the Arcane tree. At 2/2 every <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> has a 20% chance to make your next <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5143"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Missiles</a> free and twice as fast.
 - **Frost Blast** at level 24 is a weak, quick blast that slows the target by 40% for 9 seconds.
 - **Lower ranks proc less.** A lower rank of a spell has a much smaller chance to trigger effects. Rank 1 Frostbolt still slows, but no longer fishes for Frostbite or Fingers of Frost.
 
@@ -56,20 +53,20 @@ The Frost Mage in WoW Forever slows and freezes its targets, survives better tha
 
 ## The build at level 30
 
-The build uses 21 points in Frost, the points you have at level 30. [Open the build in the talent calculator](/talents/mage/?t=--05253000010013001).
+The build uses 21 points in Frost, the points you have at level 30. [Open the build in the talent calculator](/talents/mage/?t=--0525300001013001).
 
 | Talent | Points |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29438"><img class="wf-wh__icon" src="/wh/spell_ice_magicdamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elemental Precision</a>** | 2/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a>** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a>** | 1/2 |
+| **Improved Frostbolt** | 5/5 |
+| **Precision** | 2/3 |
+| **Ice Shards** | 5/5 |
+| **Frostbite** | 3/3 |
+| **Ice Lance** | 1/1 |
+| **Ice Block** | 1/1 |
+| **Shatter** | 3/3 |
+| **Fingers of Frost** | 1/2 |
 
-With 5 points in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> from the Legacy system you have 26 points: Missile Barrage 2/2 in Arcane, Elemental Precision 3/5, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12472"><img class="wf-wh__icon" src="/wh/spell_frost_wizardmark.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cold Snap</a> 1/1 and Fingers of Frost 2/2. [Open the Talented version](/talents/mage/?t=0002--05353000010013012).
+With 5 points in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> from the Legacy system you have 26 points: Permafrost 2/3, Precision 3/3, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12472"><img class="wf-wh__icon" src="/wh/spell_frost_wizardmark.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cold Snap</a> 1/1 and Fingers of Frost 2/2. [Open the Talented version](/talents/mage/?t=--0535302001013012).
 
 There is no room for both Frostbite and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11175"><img class="wf-wh__icon" src="/wh/spell_frost_wisp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Permafrost</a>, so you choose between random freezes and longer, stronger slows. For less threat and cheaper spells in dungeons, take 1 point in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11160"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Channeling</a> instead of Cold Snap. The [Mage level build](/leveling/mage/) gives the talent for every level from 10 to 35.
 
@@ -81,7 +78,7 @@ There is no room for both Frostbite and <a class="wf-wh wf-spell" href="https://
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29438"><img class="wf-wh__icon" src="/wh/spell_ice_magicdamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elemental Precision</a>** | 1% more chance to hit with Frost and Fire spells per point. Needed against enemies above your level |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a>** | Doubles the critical strike bonus of your Frost spells at 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>** | Chill effects have a 15% chance to freeze the target for 5 seconds at 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>** | Instant, 200% more damage to Frozen targets |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>** | Instant, 300% more damage to Frozen targets |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a>** | 50% more critical strike chance against Frozen targets at 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a>** | 10 seconds immune to all attacks and spells, 5 minute cooldown |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a>** | 15% chance on Chill to treat your next 2 spells as if the target were Frozen |
@@ -93,7 +90,6 @@ There is no room for both Frostbite and <a class="wf-wh wf-spell" href="https://
 1. Keep <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a> and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=168"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Armor</a> up.
 2. Cast <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=116"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbolt</a> as your main spell.
 3. Cast Ice Lance when Fingers of Frost procs, or when Frostbite freezes the target.
-4. Cast Arcane Missiles when Missile Barrage procs.
 5. When the enemy gets close: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=122"><img class="wf-wh__icon" src="/wh/spell_frost_frostnova.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Nova</a> and Ice Lance until the freeze breaks.
 6. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=120"><img class="wf-wh__icon" src="/wh/spell_frost_glacier.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cone of Cold</a> to slow or reposition when Frost Nova is on cooldown, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1326053"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Blast</a> when both are.
 7. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2136"><img class="wf-wh__icon" src="/wh/spell_fire_fireball.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Blast</a> while you move, if the target is not frozen.

@@ -3,7 +3,7 @@ title: "Guide zu den Poisons des Rogues in WoW Forever"
 metaTitle: "WoW Forever Rogue Poisons: Quests, Ränge, Ladungen und Reagenzien"
 description: "So schaltet ein Rogue in WoW Forever Poisons frei: die Quests von Allianz und Horde ab Level 20, jedes Gift und jeder Rang, die neuen Ladungen, die Reagenzien und was sich ändert."
 short: "Rogue Poisons"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: de
 manual: true
 faq:
@@ -143,9 +143,9 @@ Höhere Ränge verlangen mehr vom Gleichen, <a class="wf-wh wf-q1" href="https:/
 | **Malice** | Bis zu 5 % kritische Trefferchance mit Angriffen und Poisons |
 | **Improved Poisons** | Bis zu 10 % mehr Chance, Poisons anzuwenden, und 50 % Chance, keine Ladung zu verbrauchen |
 | **Vile Poisons** | Bis zu 20 % mehr Schaden mit Poisons, die öfter einer Bannung widerstehen |
-| **Venom** | Neuer Finishing Move: 30 % mehr Schaden mit Poisons und 10 % mehr Chance, sie anzuwenden, 9 bis 21 Sekunden |
+| **Venom** | Passiv in der fünften Reihe: Shank erhöht deinen Schaden mit Poisons um 30 % und deine Chance, sie anzuwenden, um 20 %, für 6 Sekunden |
 
-Venom sitzt unten im Baum von Assassination. Einen kompletten Build mit diesen Talenten findest du im [Guide zum Assassination Rogue](/de/guides/assassination-rogue/). Die Quests beim Leveln stehen im [Leveling-Guide für den Rogue](/de/guides/rogue-leveling/).
+Venom sitzt seit dem 2. November in der fünften Reihe des Baums von Assassination. Einen kompletten Build mit diesen Talenten findest du im [Guide zum Assassination Rogue](/de/guides/assassination-rogue/). Die Quests beim Leveln stehen im [Leveling-Guide für den Rogue](/de/guides/rogue-leveling/).
 
 ## Welches Gift du nimmst
 

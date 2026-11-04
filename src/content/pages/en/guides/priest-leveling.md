@@ -3,7 +3,7 @@ title: "Priest leveling guide for WoW Forever"
 metaTitle: "WoW Forever Priest leveling guide: Discipline, Holy and Shadow builds to 30"
 description: "How to level a Priest in WoW Forever: three level 30 builds for Discipline, Holy and Shadow, the rotation, key levels, racial spells, wands, professions, mana and healing."
 short: "Priest leveling"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: en
 faq:
   - q: "What is the best spec to level a Priest in WoW Forever?"
@@ -91,7 +91,7 @@ For players who want to heal a lot of dungeons and do not want Discipline. [Open
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 | **Litany of Light** | 1/2 |
 
 The rotation alone is the same as for Discipline without Penance: Power Word: Shield, Smite, Shadow Word: Pain and your wand.
@@ -132,7 +132,7 @@ For Shadow, shadow power counts with Intellect and spell damage. With points in 
 | 20 | Mind Flay, Inner Focus, Holy Nova | Talent tree |
 | 22 | Mind Vision | Class trainer |
 | 24 | Mana Burn | Class trainer |
-| 25 | Vampiric Embrace, Binding Heal | Talent tree |
+| 25 | Vampiric Embrace | Talent tree |
 | 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Class trainer |
 | 30 | Penance, Silence | Talent tree |
 | 32 | Shadow Word: Death, Abolish Disease | Class trainer |
@@ -217,7 +217,7 @@ Even as Shadow you heal yourself and others.
 - **Penance** heals in bursts as Discipline, or deals damage on an enemy.
 - **Power Word: Shield** is not a heal, but a shield that works as a second health bar.
 
-Holy adds Prayer of Mending, which jumps to the next target each time someone takes damage, and Binding Heal, which heals you and your target at once.
+Holy adds Prayer of Mending, which jumps to the next target each time someone takes damage.
 
 ## Crowd control and utility
 

@@ -1,18 +1,18 @@
 ---
 title: "Assassination Rogue in WoW Forever: de gids"
-metaTitle: "WoW Forever Assassination Rogue: Mutilate-builds, poisons en rotatie"
-description: "De Assassination Rogue in WoW Forever: Mutilate en Venom, twee builds voor level 30 voor solo en Improved Expose Armor, de rotatie, Energy, poisons, stats en races."
+metaTitle: "WoW Forever Assassination Rogue: poison-builds, Venom en rotatie"
+description: "De Assassination Rogue in WoW Forever: Venom en Shank, Mutilate vanaf level 40, twee builds voor level 30 voor solo en Improved Expose Armor, de rotatie, Energy en poisons."
 short: "Assassination Rogue"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
   - q: "Is de Assassination Rogue goed in WoW Forever?"
-    a: "Ja. Mutilate en Venom maakten van Assassination een echte dolkspec met heel sterke poison-schade. Poisons kunnen nu critical strikes landen en schalen met attack power, dus de spec groeit goed met gear en levels. De rotatie is druk en de spec heeft goede gear nodig om te schitteren."
+    a: "Ja. Venom en Shank zetten poisons in het hart van de spec, en Mutilate geeft dolken vanaf level 40 een eigen generator. Poisons kunnen nu critical strikes landen en schalen met attack power, dus de spec groeit goed met gear en levels. De rotatie is druk en de spec heeft goede gear nodig om te schitteren."
   - q: "Wat doet Mutilate?"
-    a: "Mutilate is een nieuw talent: een instant aanval met beide wapens voor 75% wapenschade plus een bonus, 20% sterker tegen vergiftigde doelwitten, die 2 Combo Points geeft. Het vraagt dolken."
+    a: "Mutilate is een nieuw talent in de zevende rij: een instant aanval met beide wapens voor 90% wapenschade plus een bonus, 20% sterker tegen vergiftigde doelwitten, die 2 Combo Points geeft. Het vraagt dolken en 30 punten in Assassination, dus je krijgt het op level 40."
   - q: "Wat doet Venom?"
-    a: "Venom is een nieuwe finishing move onderaan de boom: 30% meer poison-schade en 10% meer kans om poisons aan te brengen, voor 9 seconden bij 1 Combo Point tot 21 seconden bij 5."
+    a: "Sinds 2 november is Venom een passief talent in de vijfde rij: Shank verhoogt je poison-schade met 30% en je kans om poisons aan te brengen met 20%, 6 seconden lang. Shank is een goedkope off-hand-slag die elke Rogue leert op level 24."
   - q: "Welke poisons gebruik ik?"
     a: "Instant Poison en Deadly Poison in de meeste gevechten. Instant Poison werkt beter op trage wapens, Deadly Poison op snelle. Wissel naar Crippling, Mind-numbing of Wound Poison als een vijand vertraagd moet worden, trager moet casten of minder geheeld moet worden."
   - q: "Heb ik Improved Expose Armor nodig?"
@@ -25,23 +25,23 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
+> **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-De Assassination Rogue in WoW Forever is de gifmenger. Mutilate geeft de spec een eigen Combo Point-generator met dolken, Venom is een nieuwe finishing move die poisons sterker maakt, en poisons kunnen nu critical strikes landen. Je hebt geen Stealth-trucs of pure auto attacks nodig om schade te doen. Deze gids behandelt twee builds voor level 30, de rotatie, Energy, poisons, overleven, stats en races.
+De Assassination Rogue in WoW Forever is de gifmenger. Venom maakt je poisons sterker na elke Shank, Mutilate geeft dolken vanaf level 40 een eigen Combo Point-generator, en poisons kunnen nu critical strikes landen. Je hebt geen Stealth-trucs of pure auto attacks nodig om schade te doen. Deze gids behandelt twee builds voor level 30, de rotatie, Energy, poisons, overleven, stats en races.
 
 | | |
 |---|---|
 | Rol | Melee-schade met dolken en poisons |
-| Build op level 30 | 21 punten in Assassination, Talented voegt Lethality en Opportunity toe |
-| Belangrijkste talenten | Malice, Ruthlessness, Relentless Strikes, Improved Slice and Dice, Improved Poisons, Mutilate |
+| Build op level 30 | 21 punten in Assassination, Talented voegt Relentless Strikes en Opportunity toe |
+| Belangrijkste talenten | Malice, Ruthlessness, Improved Slice and Dice, Improved Poisons, Venom, Mutilate |
 | Sterk in | Heel hoge schade die met elk level groeit, veel crowd control |
 | Zwak in | Een drukke rotatie, heeft gear nodig |
 | Levelen | [Levelgids voor de Rogue](/nl/guides/rogue-leveling/), [levelbuild voor de Rogue](/nl/leveling/rogue/) |
 
 ## Wat er verandert voor Assassination
 
-- **Mutilate is nieuw.** Valt aan met beide dolken voor 2 Combo Points, 20% sterker tegen vergiftigde doelwitten.
-- **Venom is nieuw.** Een finishing move voor 30% meer poison-schade en 10% meer poison-toepassingen.
+- **Mutilate is nieuw.** Valt aan met beide dolken voor 2 Combo Points, 20% sterker tegen vergiftigde doelwitten. Sinds 2 november staat het in de zevende rij, dus je krijgt het op level 40.
+- **Venom is nieuw.** Een passief talent in de vijfde rij: elke Shank geeft 6 seconden 30% meer poison-schade en 20% meer kans om poisons aan te brengen. Shank zelf is nieuw voor elke Rogue op level 24: een goedkope off-hand-slag die 15 Energy teruggeeft.
 - **Poisons landen critical strikes** en worden sterker met attack power. Malice telt nu ook voor poisons.
 - **Improved Poisons doet meer.** 10% meer kans om poisons aan te brengen en 50% kans om de charge te houden bij 5/5.
 - **Improved Expose Armor is herwerkt.** 10 Energy minder, en 2 Combo Points terug als je Expose Armor met 5 gebruikt.
@@ -63,7 +63,7 @@ Beide builds gebruiken de 21 punten die je op level 30 hebt. Talented uit het Le
 
 ### Solobuild
 
-Gebouwd voor zoveel mogelijk schade: 5% critical strike chance van Malice, extra Combo Points van Ruthlessness en Relentless Strikes, meer poison-procs van Improved Poisons en Mutilate als generator. [Open de build in de talentcalculator](/nl/talents/rogue/?t=02530310100501).
+Gebouwd voor zoveel mogelijk schade: 5% critical strike chance van Malice, extra Combo Points van Ruthlessness, meer poison-procs van Improved Poisons, en Venom voor sterkere poisons na elke Shank. Mutilate volgt op level 40. [Open de build in de talentcalculator](/nl/talents/rogue/?t=02530300200501).
 
 | Talent | Punten |
 |---|---|
@@ -71,32 +71,30 @@ Gebouwd voor zoveel mogelijk schade: 5% critical strike chance van Malice, extra
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
 | **Improved Slice and Dice** | 3/3 |
-| **Relentless Strikes** | 1/1 |
-| **Lethality** | 1/5 |
+| **Lethality** | 2/2 |
 | **Improved Poisons** | 5/5 |
-| **Mutilate** | 1/1 |
+| **Venom** | 1/1 |
 
-[Open de Talented-versie](/nl/talents/rogue/?t=02530310400501--002) met Lethality 4/5 en Opportunity 2/2 in Subtlety, voor meer schade met Mutilate.
+[Open de Talented-versie](/nl/talents/rogue/?t=02530300200531--002) met Relentless Strikes 3/5 en Opportunity 2/5 in Subtlety, voor meer Energy en hardere Ambushes.
 
 ![De Talented-solobuild voor de Assassination Rogue in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-assassination-rogue-build.jpg)
 
 ### Build met Improved Expose Armor
 
-Bijna hetzelfde, maar met Improved Expose Armor, dat Expose Armor veel makkelijker maakt in dungeongroepen, op bosses en op trash. [Open de build in de talentcalculator](/nl/talents/rogue/?t=02530312100301).
+Bijna hetzelfde, maar met Improved Expose Armor, dat Expose Armor veel makkelijker maakt in dungeongroepen, op bosses en op trash. [Open de build in de talentcalculator](/nl/talents/rogue/?t=02532300200301).
 
 | Talent | Punten |
 |---|---|
 | **Remorseless Attacks** | 2/2 |
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
-| **Improved Slice and Dice** | 3/3 |
-| **Relentless Strikes** | 1/1 |
 | **Improved Expose Armor** | 2/2 |
-| **Lethality** | 1/5 |
+| **Improved Slice and Dice** | 3/3 |
+| **Lethality** | 2/2 |
 | **Improved Poisons** | 3/5 |
-| **Mutilate** | 1/1 |
+| **Venom** | 1/1 |
 
-[Open de Talented-versie](/nl/talents/rogue/?t=02530312400501) met Lethality 4/5 en Improved Poisons 5/5.
+[Open de Talented-versie](/nl/talents/rogue/?t=02532300200531) met Improved Poisons 5/5 en Relentless Strikes 3/5.
 
 ## Wat de belangrijkste talenten doen
 
@@ -106,26 +104,27 @@ Bijna hetzelfde, maar met Improved Expose Armor, dat Expose Armor veel makkelijk
 | **Remorseless Attacks** | 40% meer critical strike chance voor je volgende Mutilate of Ambush na een kill. Top voor farmen en groepen in dungeons |
 | **Ruthlessness** | 60% kans op een Combo Point na een finishing move |
 | **Improved Slice and Dice** | 45% langere Slice and Dice. Zonder werkt de build niet |
-| **Relentless Strikes** | 25 Energy terug na een finishing move, 20% kans per Combo Point |
+| **Relentless Strikes** | Op 3/5: 12% kans per Combo Point om na een finishing move 25 Energy terug te krijgen |
 | **Improved Expose Armor** | Goedkopere Expose Armor en 2 Combo Points terug bij 5 punten. Optioneel, maar je groep zal je dankbaar zijn |
-| **Lethality** | 20% meer bonus op critical strike-schade voor Mutilate bij 5/5, nog beter met Remorseless Attacks |
+| **Lethality** | 20% meer bonus op critical strike-schade voor Sinister Strike, Backstab en Mutilate bij 2/2, nog beter met Remorseless Attacks |
 | **Cold Blood** | 100% critical strike chance voor je volgende Ambush of Mutilate |
 | **Improved Poisons** | Meer poison-toepassingen en minder verbruikte charges |
-| **Mutilate** | Je Combo Point-generator met twee dolken. Slaat heel hard met de juiste gear |
-| **Opportunity** | 10% meer schade voor Mutilate en Ambush |
+| **Venom** | Shank verhoogt je poison-schade met 30% en je kans om poisons aan te brengen met 20%, 6 seconden lang |
+| **Mutilate** | Je Combo Point-generator met twee dolken vanaf level 40, in de zevende rij. Slaat heel hard met de juiste gear |
+| **Opportunity** | Op 2/5: 8% meer schade voor Backstab, Ambush, Garrote en Mutilate |
 
 ## Rotatie
 
 **Gewone vijanden**
 1. Open vanuit Stealth met Ambush.
-2. Mutilate voor Combo Points. Bij 4 Combo Points spaart Sinister Strike voor het laatste punt Energy.
+2. Sinister Strike voor Combo Points, en Shank zodra hij klaar is, voor Energy en Venom. Vanaf level 40 neemt Mutilate het over, met Sinister Strike voor het laatste punt bij 4 Combo Points.
 3. Slice and Dice, en ververs het telkens het afloopt.
 4. Eviscerate bij 5 Combo Points, of met wat je hebt als het doelwit bijna dood is.
 5. Kick op elke cast, Evasion als jij de klappen krijgt, Vanish als je weg moet.
 
 **Bosses**
 1. Open vanuit Stealth met Ambush.
-2. Mutilate als generator, Sinister Strike bij 4 Combo Points.
+2. Sinister Strike, of Mutilate vanaf level 40, als generator, en Shank op cooldown.
 3. Expose Armor zo snel mogelijk.
 4. Dan Slice and Dice zo snel mogelijk.
 5. Ververs Expose Armor en Slice and Dice voor ze aflopen. Expose Armor eerst, want het is korter.
@@ -134,7 +133,7 @@ Bijna hetzelfde, maar met Improved Expose Armor, dat Expose Armor veel makkelijk
 
 **Groepen.** De Rogue heeft geen aanvallen rondom zich. Dood één doelwit tegelijk en wissel nooit van doelwit terwijl je Combo Points opbouwt: ze blijven op het oude doelwit staan.
 
-Op hoge levels, met Venom, wordt de volgorde voor lange gevechten Slice and Dice, dan Venom, dan Expose Armor.
+Venom werkt via Shank, dus hou Shank in elk gevecht op cooldown.
 
 ## Cooldowns en utility
 
@@ -152,11 +151,11 @@ Op hoge levels, met Venom, wordt de volgorde voor lange gevechten Slice and Dice
 
 **Stealth** maakt je traag, dus reis je er niet mee, maar gebruik het tegen de meeste vijanden tijdens het questen en zoveel je kunt in dungeons. In Stealth krijg je een aparte actiebalk met openers: Ambush voor zware schade, Garrote voor een bloeding, Sap en Cheap Shot om uit te schakelen. Pick Pocket en Distract werken ook alleen in Stealth.
 
-**Generators en finishing moves.** Je begint met Sinister Strike en schakelt over naar Mutilate. Sinister Strike blijft alleen voor het laatste punt bij 4 Combo Points. Eviscerate is je eerste finishing move; later gebruik je het vooral om doelwitten af te maken. Slice and Dice is je sterkste finishing move en hoort in bijna elk gevecht op te staan. Expose Armor komt erbij tegen bosses, en Venom op hoge levels. Rupture is voor Assassination de Energy en de tijd niet waard.
+**Generators en finishing moves.** Je begint met Sinister Strike en schakelt op level 40 over naar Mutilate. Sinister Strike blijft dan alleen voor het laatste punt bij 4 Combo Points. Eviscerate is je eerste finishing move; later gebruik je het vooral om doelwitten af te maken. Slice and Dice is je sterkste finishing move en hoort in bijna elk gevecht op te staan. Expose Armor komt erbij tegen bosses. Rupture is voor Assassination de Energy en de tijd niet waard.
 
 ## Energy
 
-Elke Rogue-aanval kost Energy. In Forever komt het vloeiend terug: 1 per 0,1 seconde, 10 per seconde. Assassination kan het niet sneller laten terugkomen, maar Vigor verhoogt je maximale Energy. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7676"><img class="wf-wh__icon" src="/wh/inv_drink_milk_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thistle Tea</a> geeft een groot brok Energy met een lange cooldown.
+Elke Rogue-aanval kost Energy. In Forever komt het vloeiend terug: 1 per 0,1 seconde, 10 per seconde. Assassination kan het niet sneller laten terugkomen, maar Vigor verhoogt je maximale Energy. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7676"><img class="wf-wh__icon" src="/wh/inv_drink_milk_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thistle Tea</a> geeft een groot brok Energy met een lange cooldown. Shank, vanaf level 24, kost 5 Energy en geeft er elke 10 seconden 15 terug.
 
 Besteed dus met zorg. Bij 5 Combo Points gebruik je nooit nog een generator. Bij 4 Combo Points verspilt Mutilate een punt. Kick, Feint, Gouge en Blind kosten ook Energy, dus gebruik ze alleen met een goede reden.
 
@@ -166,7 +165,7 @@ Vanaf level 20 maakt een Rogue poisons na een classquest-reeks; de [levelgids vo
 
 ## Overleven
 
-De Rogue is breekbaar maar slaat hard, dus hoe je een gevecht begint, beslist of je het overleeft. Makkelijke vijanden: Ambush, een paar keer Mutilate en Eviscerate. Gevaarlijke vijanden: Sap er één uit de groep, casters eerst, open met Cheap Shot, volg met Kidney Shot, dan Gouge om op Energy te wachten of Blind om op cooldowns te wachten. Daarna je normale rotatie met Evasion, en Kick op elke caster. Volstaat zelfs een health potion niet, dan haalt Vanish je uit het gevecht en terug in Stealth.
+De Rogue is breekbaar maar slaat hard, dus hoe je een gevecht begint, beslist of je het overleeft. Makkelijke vijanden: Ambush, een paar keer Sinister Strike of Mutilate en Eviscerate. Gevaarlijke vijanden: Sap er één uit de groep, casters eerst, open met Cheap Shot, volg met Kidney Shot, dan Gouge om op Energy te wachten of Blind om op cooldowns te wachten. Daarna je normale rotatie met Evasion, en Kick op elke caster. Volstaat zelfs een health potion niet, dan haalt Vanish je uit het gevecht en terug in Stealth.
 
 ## Stats en gear
 

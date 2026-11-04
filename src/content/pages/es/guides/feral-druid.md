@@ -3,18 +3,18 @@ title: "Feral Druid en WoW Forever: la guía"
 metaTitle: "WoW Forever Feral Druid: builds de felino y oso, rotación, stats"
 description: "El Feral Druid en WoW Forever: cuatro builds de nivel 60 (híbrida, felino, oso y solo), Shifting Power y Primal Bite, las rotaciones de felino y de oso, los stats y las razas."
 short: "Feral Druid"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: es
 manual: true
 faq:
   - q: "¿Puede un Feral Druid tanquear y hacer daño con una sola build?"
-    a: "Sí. La build híbrida 9/42/0 tiene todo para los dos roles: Thick Hide y Primal Bite para el oso, Shredding Attacks y Shifting Power para el felino. Incluso puedes cambiar de rol en mitad de un combate."
+    a: "Sí. La build híbrida 9/37/5 tiene todo para los dos roles: Thick Hide y Primal Bite para el oso, Shredding Attacks y Shifting Power para el felino. Incluso puedes cambiar de rol en mitad de un combate."
   - q: "¿Sigue funcionando el powershifting en WoW Forever?"
     a: "No. Pasar a Cat Form ya no rellena tu energía. Furor ahora te devuelve la energía que tenías al salir de Cat Form, más 10 de energía por segundo fuera de Bear Form, así que quédate en una forma todo lo que puedas. Shifting Power toma ese papel: convierte maná en 40 de energía."
   - q: "¿Qué hace Shifting Power?"
-    a: "Convierte al instante el 55 % de tu maná base en 40 de energía, sin salir de Cat Form. Úsalo por debajo de 50 de energía. Improved Shifting Power reduce su reutilización en 8 segundos."
+    a: "Convierte al instante el 55 % de tu maná base en 40 de energía, sin salir de Cat Form. Úsalo por debajo de 50 de energía."
   - q: "¿Qué es Primal Bite?"
-    a: "Un nuevo ataque de oso con reutilización corta, que hace el daño del arma y mucha amenaza. Con Berserk golpea hasta 3 objetivos sin reutilización: es tu botón de amenaza en área."
+    a: "Un nuevo ataque de oso con reutilización corta, que hace el daño del arma y mucha amenaza. es tu botón de amenaza en área."
   - q: "¿Qué stats necesita un Feral Druid?"
     a: "Como felino: Hit, luego Expertise, luego Crit, Agility, Strength y poder de ataque. Como oso, también Defense, Dodge, armadura y Stamina, porque un Druid no puede bloquear ni parar."
   - q: "¿Qué raza es mejor para un Feral Druid?"
@@ -30,8 +30,8 @@ El Feral Druid de WoW Forever son dos specs en una: un felino que hace daño cue
 | | |
 |---|---|
 | Rol | Daño cuerpo a cuerpo en Cat Form, tanque en Bear Form |
-| Builds de nivel 60 | Híbrida 9/42/0, Felino 9/40/2, Oso 9/42/0, Solo 0/35/16 |
-| Talentos clave | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Berserk, Nature's Reach |
+| Builds de nivel 60 | Híbrida 9/37/5, Felino 9/37/5, Oso 9/37/5, Solo 0/35/16 |
+| Talentos clave | Feral Charge, Shifting Power, Primal Bite, Leader of the Pack, Nature's Reach |
 | Fortalezas | Dos roles en uno, Leader of the Pack, el personaje más rápido dentro y fuera |
 | Debilidades | Daño de híbrido, tres recursos que vigilar, difícil de dominar |
 | Otras guías del Druid | [Guía de leveling del Druid](/es/guides/druid-leveling/), [Balance Druid](/es/guides/balance-druid/), [Restoration Druid](/es/guides/restoration-druid/) |
@@ -52,44 +52,48 @@ El Feral Druid de WoW Forever son dos specs en una: un felino que hace daño cue
 
 Las cuatro usan 51 puntos, el total de talentos del nivel 60. Todas ponen 9 puntos en Balance para Genesis 5/5, Nature's Majesty 2/2 y Nature's Reach 2/2, salvo la build en solitario.
 
-### Híbrida, 9/42/0
+### Híbrida, 9/37/5
 
-Felino y oso en una sola build, para grupos de endgame que piden cualquiera de los dos roles. [Abre la build en la calculadora de talentos](/es/talents/druid/?t=050022-35230332121132212051).
+Felino y oso en una sola build, para grupos de endgame que piden cualquiera de los dos roles. [Abre la build en la calculadora de talentos](/es/talents/druid/?t=050022-50230232123112125011-05).
 
 | Talento | Puntos |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a>** | 3/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a>** | 5/5 |
+| **Genesis** | 5/5 |
+| **Nature's Majesty** | 2/2 |
+| **Nature's Reach** | 2/2 |
+| **Ferocity** | 5/5 |
 | **Feral Swiftness** | 2/2 |
 | **Feral Instinct** | 3/3 |
-| **Thick Hide** | 3/3 |
+| **Thick Hide** | 2/3 |
 | **Shredding Attacks** | 3/3 |
 | **Savage Fury** | 2/2 |
 | **Feral Charge** | 1/1 |
 | **Sharpened Claws** | 2/2 |
-| **Shifting Power** | 1/1 |
-| **Primal Bite** | 1/1 |
 | **Predatory Strikes** | 3/3 |
+| **Lacerate** | 1/1 |
+| **Predatory Discipline** | 1/1 |
 | **Blood Frenzy** | 2/2 |
-| **Improved Shifting Power** | 2/2 |
 | **Leader of the Pack** | 1/1 |
 | **Natural Instinct** | 2/2 |
 | **Rend and Tear** | 5/5 |
-| **Berserk** | 1/1 |
+| **Primal Bite** | 1/1 |
+| **Lacerate** | Talento nuevo de Feral Combat desde la corrección |
+| **Shifting Power** | 1/1 |
+| **Heart of the Wild** | 5/5 |
 
-![La build híbrida 9/42/0 del Feral Druid en nuestra calculadora de talentos](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
+![La build híbrida 9/37/5 del Feral Druid en nuestra calculadora de talentos](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
 
-### Felino, 9/40/2
+### Felino, 9/37/5
 
-Para un Druid que nunca tanquea. [Abre la build en la calculadora de talentos](/es/talents/druid/?t=050022-55230032121032212051-02). Frente a la build híbrida: Ferocity 5/5 en vez de 3/5, sin Thick Hide ni Primal Bite, y Furor 2/5 en Restoration.
+Para un Druid que nunca tanquea. [Abre la build en la calculadora de talentos](/es/talents/druid/?t=050022-53230032123112125001-05).
 
-### Oso, 9/42/0
+### Oso, 9/37/5
 
-Para un Druid que solo tanquea, con más ira y supervivencia. [Abre la build en la calculadora de talentos](/es/talents/druid/?t=050022-55230302120132012451). Frente a la build híbrida: Ferocity 5/5 y Natural Reaction 4/5, sin Shredding Attacks, Shifting Power ni Improved Shifting Power.
+Para un Druid que solo tanquea, con más ira y supervivencia. [Abre la build en la calculadora de talentos](/es/talents/druid/?t=050022-5023030212310212541-05).
 
 ### Solo, 0/35/16
 
-Para hacer misiones y farmear en solitario: cambios de forma más baratos y autocuración eficiente, a cambio de algo de rendimiento en grupo. [Abre la build en la calculadora de talentos](/es/talents/druid/?t=-05230032121032212051-15503001001). Feral Combat como en la build de felino sin Ferocity, y en Restoration Nature's Focus 1/5, Furor 5/5, Naturalist 5/5, Natural Shapeshifter 3/3, Gift of the Earthmother 1/1 y Swiftmend 1/1.
+Para hacer misiones y farmear en solitario: cambios de forma más baratos y autocuración eficiente, a cambio de algo de rendimiento en grupo. [Abre la build en la calculadora de talentos](/es/talents/druid/?t=-05231032123112125001-15513000001).
 
 ## Qué hacen los talentos clave
 
@@ -104,9 +108,7 @@ Para hacer misiones y farmear en solitario: cambios de forma más baratos y auto
 | **Leader of the Pack** | Un 3 % más de probabilidad de crítico cuerpo a cuerpo y a distancia para el grupo o la banda a 45 metros |
 | **Natural Reaction** | Un 5 % más de esquiva y 5 de ira con cada esquiva |
 | **Rend and Tear** | Un 10 % más de daño con las habilidades cuerpo a cuerpo contra objetivos que sangran |
-| **Berserk** | Primal Bite golpea hasta 3 objetivos sin reutilización, un 100 % más de probabilidad de crítico para los generadores de Combo Points, y quita y bloquea el miedo |
 | **Furor** | 10 de ira al pasar a Bear Form; Cat Form te devuelve la energía que tenías, más 10 de energía por segundo pasado fuera de Bear Form |
-| **Gift of the Earthmother** | Tiempo de reutilización global 0,5 segundos más corto en Rejuvenation, Swiftmend y Wild Growth |
 
 Para la build en solitario: un Rejuvenation rápido y Swiftmend te curan, y vuelves a tu forma.
 

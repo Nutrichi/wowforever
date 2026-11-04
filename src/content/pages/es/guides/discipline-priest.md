@@ -3,7 +3,7 @@ title: "Guía del Discipline Priest en WoW Forever"
 metaTitle: "WoW Forever Discipline Priest: build 31/20/0, Penance y stats"
 description: "El Discipline Priest en WoW Forever: la build 31/20/0 para nivel 60, Penance, Divine Aegis, Renewed Hope y Power Infusion, curación de tanque, maná, stats y razas."
 short: "Discipline Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: es
 manual: true
 faq:
@@ -56,7 +56,7 @@ El Discipline Priest de WoW Forever escuda y cura, con Penance como nueva cura d
 
 ## La build de nivel 60 (31/20/0)
 
-Esta build usa los 51 puntos del nivel 60: 31 en Discipline hasta Power Infusion y 20 en Holy para Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing y Binding Heal. [Abrir la build en la calculadora de talentos](/es/talents/priest/?t=005005031330011531-035050030301).
+Esta build usa los 51 puntos del nivel 60: 31 en Discipline hasta Power Infusion y 20 en Holy para Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing. [Abrir la build en la calculadora de talentos](/es/talents/priest/?t=005005031330011531-035050030301).
 
 | Talento | Puntos |
 |---|---|
@@ -76,7 +76,7 @@ Esta build usa los 51 puntos del nivel 60: 31 en Discipline hasta Power Infusion
 | **Divine Fury** | 5/5 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 
 ![La build 31/20/0 del Discipline Priest en nuestra calculadora de talentos](../../../../assets/posts/2026-10-21-wow-forever-discipline-priest-build.jpg)
 
@@ -105,13 +105,13 @@ Un sanador no tiene una rotación fija. Respondes al daño que llega y a tu asig
 - Renew sobre un tanque que recibe daño constante.
 - Power Word: Shield sobre el tanque antes de un golpe grande, y sobre ti contra el retroceso.
 - Penance para devolver mucha vida de una vez.
-- Flash Heal o Binding Heal cuando el tanque necesita vida rápido.
+- Flash Heal cuando el tanque necesita vida rápido.
 - Greater Heal con Inner Focus cuando sabes que llega un golpe grande.
 
 **Curar al grupo**
 - Renew sobre tantos objetivos como puedas que reciban daño constante.
 - Escudos sobre quien va a recibir un golpe grande. Un escudo sobre un lanzador también lo libra del retroceso.
-- Flash Heal o Binding Heal para subir objetivos uno tras otro.
+- Flash Heal para subir objetivos uno tras otro.
 - Greater Heal con Inner Focus para los huecos grandes.
 
 **Tiempos de reutilización y utilidad**

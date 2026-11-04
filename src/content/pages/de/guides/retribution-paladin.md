@@ -1,18 +1,16 @@
 ---
 title: "Retribution Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Retribution Paladin: Build, Rotation und Siegel"
-description: "Der Retribution Paladin in WoW Forever: der Build für Level 30 und die Talented-Version, die Rotation mit Seal of Command und Twist of Light, Judgements, Segen, Werte und Völker."
+description: "Der Retribution Paladin in WoW Forever: der Build für Level 30 und die Talented-Version, die Rotation mit Seal of Command, Judgements, Segen, Werte und Völker."
 short: "Retribution Paladin"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
   - q: "Ist der Retribution Paladin in WoW Forever gut?"
     a: "Ja. Fast alles, was ein Paladin tut, skaliert jetzt mit Zaubermacht, Holy Strike und Judgement gehen bei Abklingzeit raus, und Seal of Command trifft mit einer langsamen Zweihandwaffe hart. Retribution bringt außerdem Segen, Auren und Judgements, die jede Gruppe will, und ist sehr schwer zu töten."
   - q: "Welches Siegel ist für Retribution am besten?"
-    a: "Seal of Command für Schaden, mit einer langsamen Zweihandwaffe. Eröffne mit Judgement of the Crusader für mehr Heiligschaden, oder halte Judgement of Wisdom aufrecht, wenn deine Gruppe Mana braucht. Mit Twist of Light hältst du Seal of Righteousness neben Seal of Command aktiv."
-  - q: "Was macht Twist of Light?"
-    a: "Es ist das neue letzte Talent des Baums. Siegel kosten 20 % weniger Mana, und wenn du Seal of Command oder Seal of Righteousness durch ein anderes Siegel ersetzt, wendet dein nächster Nahkampfangriff noch das alte an. In der Praxis hast du zwei Siegel gleichzeitig."
+    a: "Seal of Command für Schaden, mit einer langsamen Zweihandwaffe. Eröffne mit Judgement of the Crusader für mehr Heiligschaden, oder halte Judgement of Wisdom aufrecht, wenn deine Gruppe Mana braucht."
   - q: "Welche Werte braucht ein Retribution Paladin?"
     a: "Zuerst Trefferwertung, damit Angriffe und Zauber sitzen, dann kritische Trefferchance, Stärke und Angriffskraft, und Zaubermacht. Champion of the Light wandelt Intelligenz in Zaubermacht um, daher ist Intelligenz mehr wert als in Classic."
   - q: "Welches Volk ist für einen Retribution Paladin am besten?"
@@ -29,7 +27,7 @@ Der Retribution Paladin in WoW Forever ist der heilige Krieger mit der großen Z
 |---|---|
 | Rolle | Nahkampfschaden mit einer langsamen Zweihandwaffe |
 | Build auf Level 30 | 21 Punkte in Retribution, Talented fügt Two-Handed Weapon Specialization und Vengeance hinzu |
-| Wichtigste Talente | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Twist of Light |
+| Wichtigste Talente | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Unsealed Wrath |
 | Stärken | Nutzen für die Gruppe, sehr schwer zu töten, große Schadensspitzen |
 | Schwächen | Langsam am Ziel, Mana kann ausgehen |
 | Leveln | [Leveling-Guide für den Paladin](/de/guides/paladin-leveling/), [Leveling-Build für den Paladin](/de/leveling/paladin/) |
@@ -42,25 +40,26 @@ Der Retribution Paladin in WoW Forever ist der heilige Krieger mit der großen Z
 
 **Langsam unterwegs.** Kein Sturmangriff, kein Blinzeln, kein Sprint. Pursuit of Justice gibt 15 % Tempo, und das war es.
 
-**Mana.** Du baust vor einem Kampf keine Ressource auf, aber Mana kann ausgehen. Sanctified Judgement und Holy Conduit helfen, und Judgement of Wisdom hilft der ganzen Gruppe.
+**Mana.** Du baust vor einem Kampf keine Ressource auf, aber Mana kann ausgehen. Sanctified Judgement helfen, und Judgement of Wisdom hilft der ganzen Gruppe.
 
 ## Der Build für Level 30
 
-Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem Legacy-System gibt 5 dazu. [Öffne den Build im Talentrechner](/de/talents/paladin/?t=--5012503120101).
+Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem Legacy-System gibt 5 dazu. [Öffne den Build im Talentrechner](/de/talents/paladin/?t=--502330212011001).
 
 | Talent | Punkte |
 |---|---|
 | **Deflection** | 5/5 |
-| **Improved Judgement** | 1/2 |
-| **Holy Conduit** | 2/2 |
-| **Conviction** | 5/5 |
+| **Improved Judgement** | 2/2 |
+| **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
+| **Unyielding Faith** | 2/2 |
 | **Seal of Command** | 1/1 |
 | **Pursuit of Justice** | 2/2 |
 | **Sacred Arbiter** | 1/1 |
+| **Two-Handed Weapon Specialization** | 1/3 |
 | **Vengeance** | 1/3 |
 
-[Öffne die Talented-Version](/de/talents/paladin/?t=--5012503120133) mit Two-Handed Weapon Specialization 3/3 und Vengeance 3/3.
+[Öffne die Talented-Version](/de/talents/paladin/?t=--512330212013003) mit Benediction 1/5, Two-Handed Weapon Specialization 3/3 und Vengeance 3/3.
 
 ![Der Talented-Build des Retribution Paladin in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-retribution-paladin-build.jpg)
 
@@ -71,8 +70,7 @@ Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem 
 | Talent | Was es in Forever tut |
 |---|---|
 | **Improved Judgement** | Judgement ist pro Punkt 1 Sekunde früher bereit |
-| **Holy Conduit** | Consecration, Holy Wrath, Exorcism und Hammer of Wrath kosten 40 % weniger Mana |
-| **Conviction** | 5 % mehr kritische Trefferchance im Nahkampf |
+| **Conviction** | 6% mehr kritische Trefferchance mit allen Zaubern und Angriffen |
 | **Sanctified Judgement** | Judgement gibt 60 % der Manakosten des verbrauchten Siegels zurück |
 | **Seal of Command** | Chance, 70 % deines Waffenschadens noch einmal als Heiligschaden zu verursachen, eine langsame Waffe profitiert am meisten |
 | **Pursuit of Justice** | 15 % Bewegungstempo, auch auf dem Reittier |
@@ -80,10 +78,9 @@ Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem 
 | **Two-Handed Weapon Specialization** | 6 % mehr Schaden mit Zweihandwaffen |
 | **Vengeance** | 3 % mehr physischer und Heiligschaden für 30 Sekunden nach einem kritischen Treffer, bis zu 3-mal stapelbar |
 | **Champion of the Light** | Zauberschaden in Höhe von bis zu 30 % deiner Intelligenz |
-| **Instrument of Law** | Hammer of Wrath wird 1 Sekunde schneller gewirkt, und du erzeugst ohne Righteous Fury 20 % weniger Bedrohung |
-| **Twist of Light** | Siegel kosten 20 % weniger, und ein ersetztes Seal of Command oder Seal of Righteousness wirkt noch einen Schlag lang |
+| **Unsealed Wrath** | Nahkampfangriffe speichern dein Seal, bis zu 3 Mal. Ein Treffer mit einem anderen Seal verbraucht die Stapel für zusätzliche Chancen |
 
-Champion of the Light, Instrument of Law und Twist of Light liegen in Reihe 6 und 7, außer Reichweite auf Level 30. Sie sind der Grund, nach dem Start tiefer in den Baum zu gehen.
+Champion of the Light und Unsealed Wrath stehen in Reihe 6 und 7, auf Level 30 außer Reichweite. Sie sind der Grund, nach dem Start im Baum weiterzugehen.
 
 ## Rotation
 
@@ -94,7 +91,6 @@ Champion of the Light, Instrument of Law und Twist of Light liegen in Reihe 6 un
 5. Wirk Holy Strike, sobald es bereit ist.
 6. Halte Consecration aktiv.
 7. Gegen Untote: Wirk Exorcism, sobald es bereit ist.
-8. Mit Twist of Light hältst du Seal of Command und Seal of Righteousness wo möglich beide aktiv.
 
 ## Siegel und Judgements
 
@@ -104,7 +100,7 @@ Jeder Paladin kann nur ein Judgement auf einem Ziel halten, also wählst du je n
 - **Seal of Wisdom** und sein Judgement geben Mana zurück. Deine Gruppe dankt es dir, wenn du es auf dem Boss hältst.
 - **Seal of Light** und sein Judgement geben etwas Heilung zurück, nützlich in Kämpfen mit viel kleinem Flächenschaden.
 - **Seal of Command** ist dein Schadenssiegel. Sein Judgement verursacht auch einen kräftigen Schlag Heiligschaden.
-- **Seal of Righteousness** fügt jedem Schlag Heiligschaden hinzu und trifft beim Richten hart. Mit Twist of Light ist es das zweite Siegel neben Seal of Command.
+- **Seal of Righteousness** fügt jedem Schlag Heiligschaden hinzu und trifft beim Richten hart.
 
 ## Abklingzeiten und Nutzen
 

@@ -3,7 +3,7 @@ title: "Fury Warrior guide for WoW Forever"
 metaTitle: "WoW Forever Fury Warrior: level 30 build, rotation and Rage"
 description: "The Fury Warrior in WoW Forever: the level 30 build with Cruelty, Unbridled Wrath and Death Wish, the rotation, Rage, stance dancing, stats, weapons and races."
 short: "Fury Warrior"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: en
 faq:
   - q: "Is Fury Warrior good in WoW Forever?"
@@ -22,7 +22,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/).
 
 The Fury Warrior in WoW Forever is the berserker: two weapons, fast swings and a Rage bar that fills with every critical strike. The rotation is quick and reactive, and Cleave and Whirlwind make Fury one of the best specs against several enemies. This guide covers the level 30 build, rotation, Rage, stance dancing, stats, weapons and races.
 
@@ -70,7 +70,7 @@ This build uses 26 points: the 21 points of level 30 plus 5 from Talented in the
 
 ![The level 30 Fury Warrior build in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-fury-warrior-build.jpg)
 
-After level 30 come Flurry, for 25% more attack speed after a critical strike, and Bloodthirst at the bottom of the tree.
+After level 30 come Flurry, for 30% more attack speed after a critical strike, and Bloodthirst at the bottom of the tree.
 
 ## What the key talents do
 
@@ -82,7 +82,7 @@ After level 30 come Flurry, for 25% more attack speed after a critical strike, a
 | **Dual Wield Specialization** | 25% more off-hand damage and 50% more Rage from it |
 | **Enrage** | 10% more physical damage for 12 seconds, often enough to matter |
 | **Death Wish** | A strong damage cooldown, and even stronger with Recklessness |
-| **Flurry** | 25% more attack speed for 3 swings after a critical strike. After level 30 |
+| **Flurry** | 30% more attack speed for 3 swings after a critical strike. After level 30 |
 | **Bloodthirst** | An instant attack based on attack power instead of weapon damage. After level 30 |
 
 ## Rotation

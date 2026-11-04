@@ -3,18 +3,18 @@ title: "Monter un Rogue dans WoW Forever : le guide"
 metaTitle: "Guide de leveling Rogue WoW Forever : builds Assassination, Combat et Subtlety jusqu'au 30"
 description: "Comment monter un Rogue dans WoW Forever : quatre builds niveau 30 pour Assassination, Combat et deux styles de Subtlety, la rotation, les niveaux clés, les quêtes de poisons, les armes, les métiers et les consommables."
 short: "Leveling Rogue"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: fr
 manual: true
 faq:
   - q: "Quelle est la meilleure spé pour monter un Rogue dans WoW Forever ?"
-    a: "Combat est le départ le plus sûr : Deflection et Riposte vous gardent en vie et vous enchaînez les monstres sans pause. Subtlety avec Ambush tue le plus vite depuis Stealth, et Assassination ne devient fort qu'avec Mutilate au niveau 30."
+    a: "Combat est le départ le plus sûr : Deflection et Riposte vous gardent en vie et vous enchaînez les monstres sans pause. Subtlety avec Ambush tue le plus vite depuis Stealth, et Assassination ne devient fort qu'avec Mutilate au niveau 40."
   - q: "Un Rogue peut-il utiliser des haches dans WoW Forever ?"
     a: "Oui. Les haches à une main sont nouvelles pour le Rogue dans Forever. Avec Hack and Slash, Combat reçoit un bonus pour chaque type d'arme : une attaque en plus pour les haches et les épées, du crit pour les dagues et les armes de pugilat, et de la pénétration d'armure pour les masses."
   - q: "Quand un Rogue obtient-il les Poisons ?"
     a: "Au niveau 20, avec une quête de classe. Les Rogues de l'Alliance commencent par Mathias and the Defias, ceux de la Horde par The Shattered Salute. Dans Forever, les Poisons peuvent faire des critiques et restent sur l'arme à côté d'une Sharpening Stone."
   - q: "Quand un Rogue obtient-il Mutilate ?"
-    a: "Mutilate est le talent à 21 points en Assassination, donc au niveau 30, ou jusqu'à cinq niveaux avant avec Talented du système Legacy. Il faut une dague dans chaque main."
+    a: "Depuis le 2 novembre, Mutilate est le talent à 30 points en Assassination, donc au niveau 40, ou jusqu'à cinq niveaux avant avec Talented du système Legacy. Il faut une dague dans chaque main."
   - q: "Un Rogue a-t-il besoin d'eau ?"
     a: "Non. Les Rogues utilisent l'Energy, pas le mana, donc la nourriture suffit. La nourriture à buff donne de l'expérience en plus dans Forever, alors restez Well Fed."
   - q: "Quels métiers conviennent à un Rogue ?"
@@ -25,14 +25,14 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
-> **Mise à jour du 3 novembre :** les notes de développement du 2 novembre changent beaucoup cette classe, plus de détails dans [notre article](/fr/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Les nouveaux arbres sont maintenant dans notre calculateur de talents, mais les builds et talents ci-dessous ne les suivent pas encore partout. Nous mettons ce guide à jour très bientôt.
+> **Mise à jour du 4 novembre :** les builds et talents ci-dessous suivent les nouveaux arbres des notes de développement du 2 novembre, plus de détails dans [notre article](/fr/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
 Le Rogue n'a jamais été la classe la plus simple à monter, mais WoW Forever aide. Les Poisons peuvent faire des critiques, les dégâts sur une cible sont plus élevés et chaque spé a sa propre identité. Au niveau 30, vous choisissez entre Assassination, Combat et deux styles de Subtlety. Ce guide couvre les quatre builds, la rotation, les niveaux clés, les quêtes de poisons, les armes et les métiers.
 
 | | |
 |---|---|
 | Spé la plus simple pour monter | Combat |
-| Talents clés | Remorseless Attacks, Deflection, Riposte, Mutilate, Improved Ambush |
+| Talents clés | Remorseless Attacks, Deflection, Riposte, Venom, Improved Ambush |
 | Points forts | Dégâts sur une cible, contrôle, Stealth |
 | Points faibles | Peu de vie, dépend de l'équipement, peu d'utilitaire |
 | Talent par niveau | [Build de leveling du Rogue](/fr/leveling/rogue/) |
@@ -41,7 +41,7 @@ Le Rogue n'a jamais été la classe la plus simple à monter, mais WoW Forever a
 
 ## Quelle spé pour monter
 
-**Combat** est le départ le plus tolérant. Deflection et Riposte vous gardent en vie, et vous passez de monstre en monstre sans pause. Grâce à Hack and Slash, Combat peut aussi utiliser tous les types d'armes. **Subtlety avec Ambush** ouvre depuis Stealth avec un énorme coup critique et tue vite, mais elle est plus faible en donjon. **Subtlety avec saignements** repose sur Garrote, Hemorrhage et Rupture. **Assassination** ne devient forte qu'avec Mutilate au niveau 30, ce n'est donc pas un build de départ.
+**Combat** est le départ le plus tolérant. Deflection et Riposte vous gardent en vie, et vous passez de monstre en monstre sans pause. Grâce à Hack and Slash, Combat peut aussi utiliser tous les types d'armes. **Subtlety avec Ambush** ouvre depuis Stealth avec un énorme coup critique et tue vite, mais elle est plus faible en donjon. **Subtlety avec saignements** repose sur Garrote, Hemorrhage et Rupture. **Assassination** ne devient forte qu'avec Mutilate au niveau 40, ce n'est donc pas un build de départ.
 
 Les builds ci-dessous sont faits pour la bêta, qui s'arrête au niveau 30. Chaque build a une version avec cinq points en plus pour Talented du système Legacy. Le calculateur de talents affiche ces versions au niveau 35, car il compte chaque point comme un niveau. Les builds pour le niveau 60 suivront après la sortie.
 
@@ -61,7 +61,7 @@ Caractéristiques à ces niveaux : Agility, puis Attack Power, Strength, Stamina
 
 ## Build Assassination niveau 30
 
-Gagne en puissance à mesure que Mutilate approche. Ruthlessness et Relentless Strikes donnent plus de Combo Points et d'Energy, mais il vous manque la survie de Combat et le burst de Subtlety. [Ouvrir le build dans le calculateur de talents](/fr/talents/rogue/?t=02530310101401).
+Gagne en puissance à mesure que Mutilate approche, au niveau 40. Ruthlessness donne plus de Combo Points, et Venom renforce vos poisons après chaque Shank, mais il vous manque la survie de Combat et le burst de Subtlety. [Ouvrir le build dans le calculateur de talents](/fr/talents/rogue/?t=02530300201401).
 
 | Talent | Points |
 |---|---|
@@ -69,16 +69,15 @@ Gagne en puissance à mesure que Mutilate approche. Ruthlessness et Relentless S
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14165"><img class="wf-wh__icon" src="/wh/ability_rogue_slicedice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Slice and Dice</a>** | 3/3 |
-| **Relentless Strikes** | 1/1 |
-| **Lethality** | 1/5 |
+| **Lethality** | 2/2 |
 | **Cold Blood** | 1/1 |
 | **Improved Poisons** | 4/5 |
-| **Mutilate** | 1/1 |
+| **Venom** | 1/1 |
 
-Avec Talented : Lethality 4/5 et Opportunity 2/2 en Subtlety. [Ouvrir la version avec Talented](/fr/talents/rogue/?t=02530310401401--002).
+Avec Talented : Relentless Strikes 3/5 et Opportunity 2/5 en Subtlety. [Ouvrir la version avec Talented](/fr/talents/rogue/?t=02530300201431--002).
 
 1. Ouvrez depuis Stealth avec Ambush.
-2. Générez des Combo Points avec Mutilate.
+2. Générez des Combo Points avec Sinister Strike, et utilisez Shank dès qu'il est prêt.
 3. Gardez Slice and Dice actif.
 4. Achevez avec Eviscerate.
 5. Utilisez Expose Armor avant Eviscerate, et maintenez-le sur un boss.
@@ -90,24 +89,25 @@ Caractéristiques à partir d'ici pour chaque build : chance de coup critique, p
 
 ## Build Combat niveau 30
 
-Défensif et offensif à la fois : plus de dégâts sur Eviscerate et vos attaques automatiques, et Deflection et Riposte contre les pauses. Blade Flurry et Flawless Execution arrivent plus tard. [Ouvrir le build dans le calculateur de talents](/fr/talents/rogue/?t=-3200332110141).
+Défensif et offensif à la fois : plus de dégâts sur Eviscerate et vos attaques automatiques, et Deflection et Riposte contre les pauses. Flawless Execution, Aggression et Blade Flurry complètent le build. [Ouvrir le build dans le calculateur de talents](/fr/talents/rogue/?t=-3200331210011301).
 
 | Talent | Points |
 |---|---|
-| **Improved Eviscerate** | 3/3 |
-| **Improved Sinister Strike** | 2/2 |
+| **Coup de Grace** | 3/3 |
+| **Efficient Strikes** | 2/2 |
 | **Deflection** | 3/3 |
 | **Precision** | 3/3 |
+| **Improved Sprint** | 1/2 |
 | **Endurance** | 2/2 |
 | **Riposte** | 1/1 |
-| **Improved Sprint** | 1/2 |
 | **Flawless Execution** | 1/1 |
-| **Dual Wield Specialization** | 4/5 |
+| **Weapon Expertise** | 1/2 |
+| **Aggression** | 3/3 |
 | **Blade Flurry** | 1/1 |
 
-Avec Talented : Hack and Slash 5/5. [Ouvrir la version avec Talented](/fr/talents/rogue/?t=-32003321101415).
+Avec Talented : Hack and Slash 5/5. [Ouvrir la version avec Talented](/fr/talents/rogue/?t=-32003312100113015).
 
-Vous mourez trop souvent parce que votre équipement est faible ? Prenez Lightning Reflexes à la place d'Improved Eviscerate, Improved Sprint et Flawless Execution. Vous comptez alors davantage sur les attaques automatiques et les Poisons que sur les coups de grâce.
+Vous mourez trop souvent parce que votre équipement est faible ? Prenez Lightning Reflexes à la place de Coup de Grace, Improved Sprint et Flawless Execution. Vous comptez alors davantage sur les attaques automatiques et les Poisons que sur les coups de grâce.
 
 1. Ouvrez depuis Stealth avec Cheap Shot, ou approchez simplement et attaquez. Avec des dagues, ouvrez avec Ambush.
 2. Utilisez Blade Flurry au début de chaque combat, contre un monstre ou plusieurs.
@@ -119,21 +119,21 @@ Vous mourez trop souvent parce que votre équipement est faible ? Prenez Lightni
 
 ## Build Subtlety Ambush niveau 30
 
-Tue le plus vite possible avec des Ambush critiques. Vous passez souvent en Stealth et profitez de chaque Remorseless Attacks. La plupart des monstres sont presque morts après l'ouverture. En donjon, le build est plus faible, car Ambush demande Stealth tant que vous n'avez pas Cutthroat, à un niveau plus élevé. [Ouvrir le build dans le calculateur de talents](/fr/talents/rogue/?t=02-02-032320331).
+Tue le plus vite possible avec des Ambush critiques. Vous passez souvent en Stealth et profitez de chaque Remorseless Attacks. La plupart des monstres sont presque morts après l'ouverture. En donjon, le build est plus faible, car Ambush demande Stealth. Ghostly Strike vous donne de temps en temps un Ambush en combat. [Ouvrir le build dans le calculateur de talents](/fr/talents/rogue/?t=02--333003031021).
 
 | Talent | Points |
 |---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Improved Sinister Strike** | 2/2 |
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 2/2 |
+| **Remorseless Attacks** (Assassination) | 2/2 |
 | **Setup** | 3/3 |
-| **Elusiveness** | 2/2 |
+| **Master of Deception** | 3/3 |
+| **Opportunity** | 3/5 |
 | **Improved Ambush** | 3/3 |
 | **Initiative** | 3/3 |
+| **Premeditation** | 1/1 |
+| **Elusiveness** | 2/2 |
 | **Ghostly Strike** | 1/1 |
 
-Avec Talented : Malice 5/5 en Assassination. [Ouvrir la version avec Talented](/fr/talents/rogue/?t=025-02-032320331).
+Avec Talented : Malice 5/5 en Assassination. [Ouvrir la version avec Talented](/fr/talents/rogue/?t=025--333003031021).
 
 1. Ouvrez depuis Stealth avec Ambush.
 2. Générez des Combo Points avec Sinister Strike.
@@ -180,23 +180,24 @@ Avec des points dans Talented du système Legacy, vous atteignez chaque talent j
 | Niveau | Ce que vous obtenez | Auprès de |
 |---|---|---|
 | 10 | Sap, Slice and Dice, Sprint, Dual Wield | Maître de classe |
-| 10 | Remorseless Attacks, Malice, Improved Sinister Strike, Improved Eviscerate, Opportunity, Master of Deception | Arbre de talents |
+| 10 | Remorseless Attacks, Malice, Coup de Grace, Efficient Strikes, Setup, Opportunity, Master of Deception | Arbre de talents |
 | 14 | Expose Armor, Garrote | Maître de classe |
-| 15 | Ruthlessness, Improved Slice and Dice, Precision, Setup, Improved Ambush | Arbre de talents |
+| 15 | Ruthlessness, Improved Slice and Dice, Precision, Improved Ambush | Arbre de talents |
 | 16 | Feint, Pick Lock | Maître de classe |
-| 18 | Ambush | Maître de classe |
+| 18 | Ambush, Poised | Maître de classe |
 | 20 | Poisons | Quête de classe |
 | 20 | Rupture | Maître de classe |
-| 20 | Riposte, Ghostly Strike, Lethality, Relentless Strikes | Arbre de talents |
+| 20 | Riposte, Lethality, Premeditation | Arbre de talents |
 | 22 | Distract, Vanish | Maître de classe |
-| 25 | Cold Blood, Flawless Execution, Premeditation | Arbre de talents |
+| 24 | Shank | Maître de classe |
+| 25 | Cold Blood, Flawless Execution, Aggression, Ghostly Strike | Arbre de talents |
 | 26 | Cheap Shot | Maître de classe |
 | 30 | Kidney Shot, Disarm Trap | Maître de classe |
-| 30 | Mutilate, Blade Flurry, Hemorrhage, Preparation | Arbre de talents |
+| 30 | Venom, Relentless Strikes, Blade Flurry, Hemorrhage, Preparation | Arbre de talents |
 | 34 | Blind | Maître de classe |
-| 35 | Seal Fate, Aggression, Cutthroat, Quietus | Arbre de talents |
+| 35 | Seal Fate, Flash of Steel, Boot Knife | Arbre de talents |
 | 40 | Safe Fall, monte, Dual Specialization | Maîtres |
-| 40 | Venom, Adrenaline Rush, Thousand Cuts | Arbre de talents |
+| 40 | Mutilate, Adrenaline Rush, Death Mark | Arbre de talents |
 
 Les techniques plus anciennes viennent du maître de classe : Stealth au 1, Backstab et Pick Pocket au 4, Gouge au 6, Evasion au 8, Kick et Parry au 12.
 

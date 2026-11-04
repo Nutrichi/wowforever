@@ -46,4 +46,4 @@ Windfury Weapon en Windfury Totem tonen de extra slag nu ook als animatie.
 
 ## Wat dit betekent voor onze gidsen
 
-De nieuwe bomen staan nu in onze [talentcalculator](/nl/talents/shaman/). Onze [gids voor de Elemental Shaman](/nl/guides/elemental-shaman/) en de [levelgids voor de Shaman](/nl/guides/shaman-leveling/) draaien nog om Lava Burst. We werken ze binnenkort bij.
+De nieuwe bomen staan nu in onze [talentcalculator](/nl/talents/shaman/). Onze [gids voor de Elemental Shaman](/nl/guides/elemental-shaman/) en de [levelgids voor de Shaman](/nl/guides/shaman-leveling/) draaien sinds 4 november om Call of Thunder.

@@ -1,14 +1,14 @@
 ---
 title: "Guide du Holy Priest dans WoW Forever"
 metaTitle: "WoW Forever Holy Priest : build 18/33/0, soins et stats"
-description: "Le Holy Priest dans WoW Forever : le build 18/33/0 pour le niveau 60, Prayer of Mending, Binding Heal et Litany of Light, soins de tank et de groupe, mana, stats et races."
+description: "Le Holy Priest dans WoW Forever : le build 18/33/0 pour le niveau 60, Prayer of Mending et Litany of Light, soins de tank et de groupe, mana, stats et races."
 short: "Holy Priest"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: fr
 manual: true
 faq:
   - q: "Le Holy Priest est-il bon dans WoW Forever ?"
-    a: "Oui, Holy est un soigneur de raid très solide avec un outil pour presque chaque situation : Renew, boucliers, soins rapides sur une cible, Binding Heal, Holy Nova et Prayer of Mending. Ses points faibles sont la mobilité et un peu de hasard dans les sauts de Prayer of Mending."
+    a: "Oui, Holy est un soigneur de raid très solide avec un outil pour presque chaque situation : Renew, boucliers, soins rapides sur une cible, Holy Nova et Prayer of Mending. Ses points faibles sont la mobilité et un peu de hasard dans les sauts de Prayer of Mending."
   - q: "Que fait Prayer of Mending ?"
     a: "Il se pose sur une cible et la soigne la prochaine fois qu’elle subit des dégâts. Puis il saute sur un autre membre du groupe ou du raid à 20 mètres, jusqu’à 5 fois, et dure 30 secondes après chaque saut. Un seul peut être actif par Priest."
   - q: "Qu’est-ce que Litany of Light ?"
@@ -23,13 +23,13 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"
 ---
-Le Holy Priest de WoW Forever est un soigneur avec une réponse à chaque blessure : Renew pour les dégâts réguliers, Flash Heal et Binding Heal pour la vitesse, Greater Heal pour les gros coups et Prayer of Mending pour tout le raid. De nouveaux talents récompensent l’alternance des soins. Ce guide couvre le build, les soins selon la situation, le mana, le soin au survol, les stats et l’équipement.
+Le Holy Priest de WoW Forever est un soigneur avec une réponse à chaque blessure : Renew pour les dégâts réguliers, Flash Heal pour la vitesse, Greater Heal pour les gros coups et Prayer of Mending pour tout le raid. De nouveaux talents récompensent l’alternance des soins. Ce guide couvre le build, les soins selon la situation, le mana, le soin au survol, les stats et l’équipement.
 
 | | |
 |---|---|
 | Rôle | Soigneur, au mieux en soins de groupe et de raid |
 | Build pour le niveau 60 | 18/33/0, avec les talents du build bêta du 15 octobre |
-| Talents clés | Improved Renew, Binding Heal, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
+| Talents clés | Improved Renew, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
 | Force | Un soigneur de raid très solide avec beaucoup d’outils |
 | Faiblesse | Presque aucune mobilité, hasard dans Prayer of Mending |
 | Leveling | [Guide de leveling du Priest](/fr/guides/priest-leveling/), [build de leveling du Priest](/fr/leveling/priest/) |
@@ -38,7 +38,6 @@ Le Holy Priest de WoW Forever est un soigneur avec une réponse à chaque blessu
 ## Ce qui change pour Holy
 
 - **Prayer of Mending est le nouveau dernier talent.** Un soin qui attend sur une cible et saute vers le prochain qui prend des dégâts, jusqu’à 5 fois.
-- **Binding Heal est nouveau.** Il soigne un allié et vous-même en même temps, pour à peu près le coût d’un Flash Heal.
 - **Litany of Light est nouveau.** Du mana rendu quand votre soin est un autre sort que le précédent.
 - **Spiritual Guidance est retravaillé.** Jusqu’à 25 % de votre Esprit total devient puissance de soin.
 - **Inspiration compte chaque soin critique non périodique.** 25 % d’armure en plus sur la cible pendant 15 secondes.
@@ -71,7 +70,8 @@ Ce build utilise les 51 points du niveau 60. Les 18 points en Discipline paient 
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
+| **Holy Binding** | Chaque Flash Heal sur un autre vous soigne aussi de 50 % de ce montant, sans menace |
 | **Litany of Light** | 2/2 |
 | **Spirit of Redemption** | 1/1 |
 | **Spiritual Guidance** | 5/5 |
@@ -91,7 +91,6 @@ Ce build utilise les 51 points du niveau 60. Les 18 points en Discipline paient 
 | Talent | Ce qu’il fait dans Forever |
 |---|---|
 | **Improved Renew** | 15 % de soins en plus pour Renew à 3/3. Une façon peu chère de renforcer un sort que vous lancez sans cesse |
-| **Binding Heal** | Soigne votre cible et vous-même pour à peu près le coût d’un Flash Heal. Deux soins pour le prix d’un |
 | **Spiritual Guidance** | Jusqu’à 25 % de votre Esprit total en soins en plus, donc votre Esprit n’est jamais perdu |
 | **Litany of Light** | 10 % du coût de base rendu quand vous passez à un autre soin |
 | **Spiritual Healing** | 10 % de soins en plus pour tous vos sorts |
@@ -105,14 +104,14 @@ Un soigneur n’a pas de rotation fixe. Vous réagissez aux dégâts qui arriven
 **Soigner un tank**
 - Renew sur un tank qui prend des dégâts réguliers.
 - Power Word: Shield sur le tank avant un gros coup, et sur vous contre le recul. Un bouclier sur un lanceur de sorts le protège aussi du recul.
-- Flash Heal ou Binding Heal quand le tank a besoin de vie rapidement.
+- Flash Heal quand le tank a besoin de vie rapidement.
 - Greater Heal quand vous savez qu’un gros coup arrive, ou quand il faut beaucoup de soins d’un coup. Combinez avec Inner Focus.
 - Holy Nova ou Prayer of Mending quand plusieurs personnes prennent des dégâts.
 
 **Soigner le groupe** (la force de Holy)
 - Renew sur le plus de cibles possible qui prennent des dégâts réguliers.
 - Des boucliers sur ceux qui vont prendre un gros coup.
-- Flash Heal ou Binding Heal pour remonter les cibles l’une après l’autre.
+- Flash Heal pour remonter les cibles l’une après l’autre.
 - Greater Heal avec Inner Focus pour les gros trous.
 - Holy Nova quand tout le groupe prend des dégâts en même temps.
 

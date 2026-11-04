@@ -1,17 +1,17 @@
 ---
 title: "Elemental Shaman guide for WoW Forever"
-metaTitle: "WoW Forever Elemental Shaman: build, Lava Burst, totems, mana"
-description: "The Elemental Shaman in WoW Forever: the level 30 build and its Talented version, Lava Burst and Lightning Overload, the rotation, totems, mana, stats and races."
+metaTitle: "WoW Forever Elemental Shaman: build, Lightning Overload, totems, mana"
+description: "The Elemental Shaman in WoW Forever: the level 30 build and its Talented version, Call of Thunder and Lightning Overload, the rotation, totems, mana, stats and races."
 short: "Elemental Shaman"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: en
 faq:
   - q: "Is Elemental Shaman good in WoW Forever?"
     a: "Yes, once it gets going. The spec starts slow, but deals good damage to one target and to groups, and brings totems that buff the whole raid. The weak points are mana and a lack of crowd control."
   - q: "What is new for the Elemental Shaman in Forever?"
-    a: "Lava Burst and Lightning Overload as talents, Fire Nova as its own spell around your fire totem, totems that work for the whole raid, Totemic Projection, the Call spells that drop four totems at once, and Improved Ghost Wolf indoors."
+    a: "Call of Thunder and Lightning Overload as talents, Fire Nova as its own spell around your fire totem, totems that work for the whole raid, Totemic Call, the Call spells that drop four totems at once, and Improved Ghost Wolf indoors."
   - q: "What is the Elemental Shaman rotation?"
-    a: "Keep a fire totem down, pull with Lava Burst, cast Flame Shock right after it, keep Flame Shock up, cast Lava Burst on cooldown and fill with Lightning Bolt. On groups, add Fire Nova and Chain Lightning."
+    a: "Keep a fire totem down, pull with Lightning Bolt, cast Flame Shock and keep it up, and fill with Lightning Bolt. On groups, add Fire Nova and Chain Lightning."
   - q: "How does an Elemental Shaman keep their mana up?"
     a: "Spend every Clearcasting proc from Elemental Focus, take Convection, pick up Mindfulness in the Restoration tree when you have spare points, keep Mana Spring Totem down and carry mana potions. Spirit on gear is your main regeneration."
   - q: "Which stats does an Elemental Shaman need?"
@@ -24,15 +24,15 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot: Lava Burst is removed, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/).
 
-The Elemental Shaman in WoW Forever fights at range with lightning and lava. The spec starts slow, but once Lava Burst is in your build, the big critical hits and the extra Lightning Bolts from Lightning Overload stack up fast. Totems make you welcome in every group. This guide covers the level 30 build, the key talents, the rotation, totems, mana, stats and races.
+The Elemental Shaman in WoW Forever fights at range with lightning and fire. The spec starts slow, but once Call of Thunder and Lightning Overload are in your build, the big critical hits and the extra Lightning Bolts from Lightning Overload stack up fast. Totems make you welcome in every group. This guide covers the level 30 build, the key talents, the rotation, totems, mana, stats and races.
 
 | | |
 |---|---|
 | Role | Ranged damage, single target and groups |
 | Build at level 30 | 21 points in Elemental, Talented adds Trial by Fire 2/2, Lightning Overload 3/3 and Elemental Fury 1/5 |
-| Key talents | Elemental Focus, Trial by Fire, Earthbound, Lava Burst, Lightning Overload |
+| Key talents | Elemental Focus, Trial by Fire, Earthbound, Call of Thunder, Lightning Overload |
 | Strength | Good damage on groups, raid-wide totems, a lot of utility |
 | Weakness | Mana, no hard crowd control, totem positioning |
 | Other Shaman guides | [Enhancement Shaman](/guides/enhancement-shaman/), [Restoration Shaman](/guides/restoration-shaman/), [Shaman leveling](/guides/shaman-leveling/), [Shaman level build](/leveling/shaman/) |
@@ -65,28 +65,28 @@ The beta stopped at level 30, so the build uses 21 points. Talented from the Leg
 | **Trial by Fire** | 1/2 |
 | **Eye of the Storm** | 3/3 |
 | **Earthbound** | 1/1 |
-| **Lava Burst** | 1/1 |
+| **Call of Thunder** | 1/1 |
 
 [Open the Talented version](/talents/shaman/?t=350033102310131) with Trial by Fire 2/2, Lightning Overload 3/3 and Elemental Fury 1/5.
 
 ![The Talented Elemental Shaman build in our talent calculator](../../../../assets/posts/2026-10-30-wow-forever-elemental-shaman-build.jpg)
 
-Lava Burst sits in the fifth row and needs 20 points above it, so it is the 21st point. Our [Shaman leveling guide](/guides/shaman-leveling/) has a solo version with the second point in Trial by Fire instead of Earthbound.
+Call of Thunder sits in the fifth row and needs 20 points above it, so it is the 21st point. Our [Shaman leveling guide](/guides/shaman-leveling/) has a solo version with the second point in Trial by Fire instead of Earthbound.
 
 ## What the key talents do
 
 | Talent | What it does in Forever |
 |---|---|
-| **Convection** | At 3/5: Shocks, Lightning Bolt, Lava Burst and Chain Lightning cost 6% less mana |
+| **Convection** | At 3/5: Shocks, Lightning Bolt and Chain Lightning cost 6% less mana |
 | **Concussion** | Lightning Bolt, Chain Lightning and Earth Shock deal 5% more damage |
-| **Elemental Alacrity** | Lightning Bolt, Chain Lightning and Lava Burst cast 0.5 seconds faster |
-| **Call of Flame** | Fire totems, Flame Shock, Fire Nova and Lava Burst deal 15% more damage, and Flame Shock lasts 9 seconds longer |
+| **Elemental Alacrity** | Lightning Bolt and Chain Lightning cast 0.5 seconds faster |
+| **Call of Flame** | Fire totems, Flame Shock and Fire Nova deal 15% more damage, and Flame Shock lasts 9 seconds longer |
 | **Elemental Focus** | 10% chance after a damage spell that your next damage spell costs no mana |
 | **Trial by Fire** | At 2/2: Fire Nova deals 20% more damage with a 4 seconds shorter cooldown, and Magma Totem lasts 20 seconds longer |
-| **Eye of the Storm** | 70% chance that damage does not push back Lightning Bolt, Chain Lightning and Lava Burst |
+| **Eye of the Storm** | 70% chance that damage does not push back Lightning Bolt and Chain Lightning |
 | **Earthbound** | Earthbind Totem roots nearby enemies for 5 seconds when you drop it |
-| **Lava Burst** | Hurls lava for 113 to 146 Fire damage, 20% more if your Flame Shock is on the target. 2.5 second cast, 10 second cooldown |
-| **Lightning Overload** | 10% chance that Lightning Bolt and Chain Lightning cast a second copy for half damage, free and without threat |
+| **Call of Thunder** | 5% more critical strike chance for Lightning Bolt and Chain Lightning |
+| **Lightning Overload** | At 3/3: 30% chance that Lightning Bolt and Chain Lightning cast a second copy for half damage, free and without threat |
 | **Elemental Fury** | At 1/5: 20% more critical strike damage for your fire, frost and nature spells and your Searing and Magma Totems |
 
 Lightning Overload is the talent that makes the spec fun in Forever: the extra spell costs you nothing. Elemental Fury grows with every point you add after level 30.
@@ -96,16 +96,14 @@ Lightning Overload is the talent that makes the spec fun in Forever: the extra s
 ### One target
 
 1. Keep Searing Totem down. Be in combat first, so the totem does not waste time.
-2. Pull with Lava Burst.
-3. Cast Flame Shock right after it: the instant shock lands before the slower lava, and Lava Burst then deals more damage.
-4. Keep Flame Shock on the target.
-5. Cast Lava Burst whenever it is off cooldown.
-6. Fill with Lightning Bolt.
+2. Pull with Lightning Bolt.
+3. Cast Flame Shock and keep it on the target.
+4. Fill with Lightning Bolt.
 
 ### Groups
 
 1. Keep Magma Totem down in range of the enemies.
-2. Pull with Lava Burst, then Flame Shock right after it.
+2. Pull with Lightning Bolt, then Flame Shock.
 3. Cast Fire Nova whenever it is off cooldown.
 4. Cast Chain Lightning as long as your mana allows.
 
@@ -120,7 +118,7 @@ Lightning Overload is the talent that makes the spec fun in Forever: the extra s
 ## Totems and movement
 
 - **Call of the Elements** and the other Call spells drop a saved set of four totems with one button. They have a cast time.
-- **Totemic Recall** takes your totems back for a little mana. **Totemic Projection** moves your active totems up to 30 yards, but costs a lot of mana: use it sparingly.
+- **Totemic Recall** takes your totems back for a little mana. **Totemic Call** brings your active totems to where you stand, with a 30 second cooldown.
 - **Windfury Totem** is the best melee buff in the game. Without the party restriction, it works for the whole raid.
 - **Tremor Totem** removes fear, sleep and charm from allies in range. Good timing saves runs.
 - **Poison Cleansing Totem** and **Disease Cleansing Totem** remove one effect per pulse.

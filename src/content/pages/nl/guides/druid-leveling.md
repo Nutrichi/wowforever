@@ -3,12 +3,12 @@ title: "Druid levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Druid levelgids: de Feral-build van 10 tot 60"
 description: "Zo level je een Druid in WoW Forever: één Feral-build met een talent voor elk level van 10 tot 60, de rotatie, de belangrijke levels, de classquests voor elke vorm, wapens, idols, tradeskills en shapeshiften."
 short: "Druid levelen"
-updated: 2026-10-22
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
   - q: "Wat is de beste spec om een Druid te levelen in WoW Forever?"
-    a: "Feral in Cat Form. Je doodt bijna zonder pauzes voor mana, en Prowl, Dash en Feral Swiftness brengen je van quest naar quest. De build in deze gids blijft helemaal Feral: Feral Combat tot Berserk op 40, daarna Restoration voor Furor, Natural Shapeshifter en Naturalist."
+    a: "Feral in Cat Form. Je doodt bijna zonder pauzes voor mana, en Prowl, Dash en Feral Swiftness brengen je van quest naar quest."
   - q: "Wanneer krijgt een Druid Bear Form en Cat Form?"
     a: "Bear Form komt op level 10 en Cat Form op level 20, allebei via een classquest. Aquatic Form volgt op 16, ook via een quest, en Travel Form krijg je gewoon van de trainer op level 30."
   - q: "Kan een Druid potions drinken in een vorm?"
@@ -30,7 +30,7 @@ De Druid kan in WoW Forever bijna alles: tanken als beer, schade doen als kat of
 | | |
 |---|---|
 | Makkelijkste spec om te levelen | Feral, in Cat Form |
-| Belangrijke talenten | Ferocity, Feral Charge, Shifting Power, Leader of the Pack, Berserk |
+| Belangrijke talenten | Ferocity, Feral Charge, Shifting Power, Leader of the Pack |
 | Sterk in | Mobiliteit, Stealth, zichzelf healen, kan tanken en healen |
 | Zwak in | Trage start voor Cat Form, mana voor elke shapeshift |
 | Talent per level | [Levelbuild voor de Druid](/nl/leveling/druid/) |
@@ -61,25 +61,25 @@ Stats op deze levels: Intellect en spell damage, dan Stamina en Spirit, dan armo
 
 ## De Feral-build van 10 tot 60
 
-Eén build voor een kat en een beer tegelijk, met één talent per level. Tot level 39 gaat elk punt naar Feral Combat; Berserk volgt op 40, en vanaf 41 gaan de punten naar Restoration. [Open de build op level 60 in de talentcalculator](/nl/talents/druid/?t=-55232032121102212001-05503101001), of volg hem level per level in de [levelbuild voor de Druid](/nl/leveling/druid/).
+Eén build voor een kat en een beer tegelijk, met één talent per level. [Open de build op level 60 in de talentcalculator](/nl/talents/druid/?t=-55232032120112120011-05533000001), of volg hem level per level in de [levelbuild voor de Druid](/nl/leveling/druid/).
 
 | Levels | Talenten |
 |---|---|
-| **10 tot 14** | 5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16934"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_hyena.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ferocity</a> |
+| **10 tot 14** | 5 Ferocity |
 | **15 tot 19** | 3 Feral Instinct, 2 Feral Swiftness |
 | **20 tot 24** | 1 Feral Charge, 2 Savage Fury, 2 Shredding Attacks |
-| **25 tot 29** | 1 Primal Bite, 1 Shredding Attacks, 1 Shifting Power, 2 Sharpened Claws |
+| **25 tot 29** | 1 Shredding Attacks, 2 Sharpened Claws, 1 Lacerate, 1 Predatory Discipline |
 | **30 tot 34** | 1 Leader of the Pack, 2 Natural Instinct, 2 Blood Frenzy |
-| **35 tot 39** | 2 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16940"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brutal Impact</a>, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
-| **40 tot 44** | 1 Berserk, 4 Furor |
-| **45 tot 49** | 1 Furor, 3 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16833"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Natural Shapeshifter</a>, 1 Improved Shifting Power |
-| **50 tot 54** | 1 Improved Shifting Power, 4 Naturalist |
-| **55 tot 59** | 1 Naturalist, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17106"><img class="wf-wh__icon" src="/wh/spell_frost_windwalkon.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reflection</a>, 1 Gift of the Earthmother, 1 Swiftmend, 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
-| **60** | 1 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17003"><img class="wf-wh__icon" src="/wh/spell_holy_blessingofagility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Wild</a> |
+| **35 tot 39** | 5 Furor |
+| **40 tot 44** | 1 Primal Bite, 1 Shifting Power, 2 Brutal Impact, 1 Heart of the Wild |
+| **45 tot 49** | 4 Heart of the Wild, 1 Natural Shapeshifter |
+| **50 tot 54** | 2 Natural Shapeshifter, 3 Naturalist |
+| **55 tot 59** | 2 Naturalist, 3 Reflection |
+| **60** | 1 Swiftmend |
 
-Op level 30 ziet de build er [zo uit in de calculator](/nl/talents/druid/?t=-5023003212110001).
+Op level 30 ziet de build er [zo uit in de calculator](/nl/talents/druid/?t=-502300321201101).
 
-**Tot 30** maakt de build je aanvallen goedkoper, maakt hij je sneller en moeilijker te zien in Prowl, en geeft hij Feral Charge, Primal Bite en Shifting Power. **Vanaf 30** verhogen Leader of the Pack, Natural Instinct en Blood Frenzy je critical strikes en wat ze opleveren. **Op 40** laat Berserk Primal Bite tot drie monsters raken, zonder cooldown. **In Restoration** geeft Furor je Energy terug als je naar Cat Form gaat, maakt Natural Shapeshifter elke shift 30% goedkoper, en geeft Naturalist 5% extra op al je schade.
+**Tot 30** verlaagt de build de kosten van je aanvallen, maakt je sneller en moeilijker te zien in Prowl, en geeft Feral Charge, Lacerate en Leader of the Pack. **Vanaf 30** verhogen Natural Instinct en Blood Frenzy wat je critical strikes teruggeven, en maakt Furor wisselen de moeite waard. **Op 40** komen Primal Bite en Shifting Power vrij in de laatste rij. **In Restoration** maken Heart of the Wild, Natural Shapeshifter en Naturalist de build af.
 
 **Als kat:**
 
@@ -126,16 +126,16 @@ Stats vanaf hier: Strength, Agility en Attack Power, dan Stamina, Intellect en S
 | 20 | Feral Charge, Savage Fury, Shredding Attacks | Talentboom |
 | 22 | Soothe Animal | Classtrainer |
 | 24 | Rake, Remove Curse | Classtrainer |
-| 25 | Primal Bite, Shifting Power, Sharpened Claws | Talentboom |
+| 25 | Sharpened Claws, Lacerate, Predatory Discipline | Talentboom |
 | 26 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a>, Abolish Poison | Classtrainer |
 | 28 | Cower, Challenging Roar | Classtrainer |
 | 30 | Travel Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=740"><img class="wf-wh__icon" src="/wh/spell_nature_tranquility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquility</a> | Classtrainer |
 | 30 | Leader of the Pack, Natural Instinct, Blood Frenzy | Talentboom |
 | 32 | Ferocious Bite, Ravage, Track Humanoids | Classtrainer |
 | 36 | Pounce, Frenzied Regeneration | Classtrainer |
-| 40 | Dire Bear Form, Hurricane, Innervate, Feline Grace | Classtrainer |
-| 40 | riding, Dual Specialization | Trainers |
-| 40 | Berserk, Furor | Talentboom |
+| 40 | Primal Bite, Shifting Power, Brutal Impact | Classtrainer |
+| 40 | Primal Bite, Shifting Power, Brutal Impact | Trainers |
+| 40 | Primal Bite, Shifting Power, Brutal Impact | Talentboom |
 | 42 | Lacerate | Classtrainer |
 | 44 | Barkskin | Classtrainer |
 
@@ -205,7 +205,7 @@ Forever haalt veel wrijving weg. Potions, weapon enchants en procs werken in een
 
 Shapeshiften zelf breekt nog altijd roots en vertragingen. Doe dat in plaats van te wachten tot een root afloopt. Verlaat je vorm om jezelf te healen of voor een spell die alleen buiten een vorm werkt.
 
-**Powershifting is weg.** Met vijf punten geeft Furor de Energy terug die je had toen je Cat Form het laatst verliet, plus 10 Energy per seconde buiten Bear Form, tot 100. Snel uit en weer in de vorm levert dus niets op. Het talent Shifting Power zet in de plaats mana om in 40 Energy, met een cooldown van 16 seconden, of 8 met Improved Shifting Power. Meer daarover in [deze post](/nl/news/shifting-power-replaces-powershifting-for-ferals/).
+**Powershifting is weg.** Met vijf punten geeft Furor de Energy terug die je had toen je Cat Form het laatst verliet, plus 10 Energy per seconde buiten Bear Form, tot 100. Snel uit en weer in de vorm levert dus niets op. Meer daarover in [deze post](/nl/news/shifting-power-replaces-powershifting-for-ferals/).
 
 ## Stealth en beweging
 

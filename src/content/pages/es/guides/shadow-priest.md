@@ -3,7 +3,7 @@ title: "Guía del Shadow Priest en WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: build 14/3/34, rotación y stats"
 description: "El Shadow Priest en WoW Forever: la build 14/3/34 para nivel 60, Improved Mind Flay y Vampiric Embrace, la rotación de DoTs, Shadowform, el maná, los stats y las razas."
 short: "Shadow Priest"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: es
 manual: true
 faq:

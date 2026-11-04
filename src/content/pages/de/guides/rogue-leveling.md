@@ -3,18 +3,18 @@ title: "Rogue leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Rogue-Levelguide: Builds für Assassination, Combat und Subtlety bis 30"
 description: "So levelst du einen Rogue in WoW Forever: vier Builds für Level 30 für Assassination, Combat und zwei Arten von Subtlety, die Rotation, wichtige Level, die Giftquests, Waffen, Berufe und Verbrauchsgüter."
 short: "Rogue leveln"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: de
 manual: true
 faq:
   - q: "Was ist die beste Spezialisierung, um einen Rogue in WoW Forever zu leveln?"
-    a: "Combat ist der sicherste Start: Deflection und Riposte halten dich am Leben, und du tötest ein Monster nach dem anderen ohne Pausen. Subtlety mit Ambush tötet aus Stealth am schnellsten, und Assassination wird erst stark, wenn Mutilate auf Level 30 dazukommt."
+    a: "Combat ist der sicherste Start: Deflection und Riposte halten dich am Leben, und du tötest ein Monster nach dem anderen ohne Pausen. Subtlety mit Ambush tötet aus Stealth am schnellsten, und Assassination wird erst stark, wenn Mutilate auf Level 40 dazukommt."
   - q: "Kann ein Rogue in WoW Forever Äxte benutzen?"
     a: "Ja. Einhandäxte sind für den Rogue in Forever neu. Mit Hack and Slash bekommt Combat einen Bonus für jede Waffenart: einen Extraangriff für Äxte und Schwerter, Crit für Dolche und Faustwaffen und Rüstungsdurchschlag für Streitkolben."
   - q: "Wann bekommt ein Rogue Poisons?"
     a: "Auf Level 20, über eine Klassenquest. Rogues der Allianz beginnen mit Mathias and the Defias, Rogues der Horde mit The Shattered Salute. In Forever können Poisons critten und bleiben neben einem Sharpening Stone auf der Waffe."
   - q: "Wann bekommt ein Rogue Mutilate?"
-    a: "Mutilate ist das Talent bei 21 Punkten in Assassination, also Level 30, oder bis zu fünf Level früher mit Talented aus dem Legacy-System. Du brauchst einen Dolch in jeder Hand."
+    a: "Seit dem 2. November ist Mutilate das Talent bei 30 Punkten in Assassination, also Level 40, oder bis zu fünf Level früher mit Talented aus dem Legacy-System. Du brauchst einen Dolch in jeder Hand."
   - q: "Braucht ein Rogue Wasser?"
     a: "Nein. Rogues nutzen Energy, kein Mana, also reicht Essen. Buff-Food gibt in Forever zusätzliche Erfahrung, also bleib Well Fed."
   - q: "Welche Berufe passen zu einem Rogue?"
@@ -25,14 +25,14 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
-> **Update vom 3. November:** Die Entwicklungsnotizen vom 2. November ändern diese Klasse stark, mehr in [unserem Beitrag](/de/news/rogues-get-shank-and-death-mark-in-a-big-rework/). Die neuen Bäume sind jetzt in unserem Talentrechner, aber Builds und Talente unten folgen ihnen noch nicht überall. Wir aktualisieren diesen Guide in Kürze.
+> **Update vom 4. November:** Builds und Talente unten folgen den neuen Bäumen aus den Entwicklungsnotizen vom 2. November, mehr in [unserem Beitrag](/de/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
 Der Rogue war nie die einfachste Klasse zum Leveln, aber WoW Forever hilft. Poisons können critten, der Schaden auf ein Ziel ist höher und jede Spezialisierung hat ihren eigenen Charakter. Auf Level 30 wählst du zwischen Assassination, Combat und zwei Arten von Subtlety. Dieser Guide zeigt die vier Builds, die Rotation, wichtige Level, die Giftquests, Waffen und Berufe.
 
 | | |
 |---|---|
 | Einfachste Spezialisierung zum Leveln | Combat |
-| Wichtige Talente | Remorseless Attacks, Deflection, Riposte, Mutilate, Improved Ambush |
+| Wichtige Talente | Remorseless Attacks, Deflection, Riposte, Venom, Improved Ambush |
 | Stärken | Schaden auf ein Ziel, Crowd Control, Stealth |
 | Schwächen | Wenig Leben, abhängig von Ausrüstung, wenig Utility |
 | Talent pro Level | [Levelbuild für den Rogue](/de/leveling/rogue/) |
@@ -41,7 +41,7 @@ Der Rogue war nie die einfachste Klasse zum Leveln, aber WoW Forever hilft. Pois
 
 ## Mit welcher Spezialisierung leveln
 
-**Combat** ist der verzeihendste Start. Deflection und Riposte halten dich am Leben, und du gehst ohne Pausen von Monster zu Monster. Dank Hack and Slash kann Combat außerdem jede Waffenart nutzen. **Subtlety mit Ambush** eröffnet aus Stealth mit einem riesigen kritischen Treffer und tötet schnell, ist aber in Dungeons schwächer. **Subtlety mit Blutungen** baut auf Garrote, Hemorrhage und Rupture. **Assassination** wird erst stark, wenn Mutilate auf Level 30 dazukommt, und ist deshalb kein Startbuild.
+**Combat** ist der verzeihendste Start. Deflection und Riposte halten dich am Leben, und du gehst ohne Pausen von Monster zu Monster. Dank Hack and Slash kann Combat außerdem jede Waffenart nutzen. **Subtlety mit Ambush** eröffnet aus Stealth mit einem riesigen kritischen Treffer und tötet schnell, ist aber in Dungeons schwächer. **Subtlety mit Blutungen** baut auf Garrote, Hemorrhage und Rupture. **Assassination** wird erst stark, wenn Mutilate auf Level 40 dazukommt, und ist deshalb kein Startbuild.
 
 Die Builds unten sind für die Beta gemacht, die auf Level 30 endet. Jeder Build hat eine Version mit fünf zusätzlichen Punkten für Talented aus dem Legacy-System. Der Talentrechner zeigt diese Versionen als Level 35, weil er jeden Punkt als Level zählt. Builds für Level 60 folgen nach dem Launch.
 
@@ -61,7 +61,7 @@ Werte auf diesen Leveln: Agility, dann Attack Power, Strength, Stamina und Rüst
 
 ## Assassination-Build für Level 30
 
-Wird stärker, je näher Mutilate rückt. Ruthlessness und Relentless Strikes geben mehr Combo Points und Energy, aber dir fehlt das Überleben von Combat und der Burst von Subtlety. [Den Build im Talentrechner öffnen](/de/talents/rogue/?t=02530310101401).
+Wird stärker, je näher Mutilate auf Level 40 rückt. Ruthlessness gibt mehr Combo Points, und Venom macht deine Gifte nach jedem Shank stärker, aber dir fehlt das Überleben von Combat und der Burst von Subtlety. [Den Build im Talentrechner öffnen](/de/talents/rogue/?t=02530300201401).
 
 | Talent | Punkte |
 |---|---|
@@ -69,16 +69,15 @@ Wird stärker, je näher Mutilate rückt. Ruthlessness und Relentless Strikes ge
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14165"><img class="wf-wh__icon" src="/wh/ability_rogue_slicedice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Slice and Dice</a>** | 3/3 |
-| **Relentless Strikes** | 1/1 |
-| **Lethality** | 1/5 |
+| **Lethality** | 2/2 |
 | **Cold Blood** | 1/1 |
 | **Improved Poisons** | 4/5 |
-| **Mutilate** | 1/1 |
+| **Venom** | 1/1 |
 
-Mit Talented: Lethality 4/5 und Opportunity 2/2 in Subtlety. [Die Version mit Talented öffnen](/de/talents/rogue/?t=02530310401401--002).
+Mit Talented: Relentless Strikes 3/5 und Opportunity 2/5 in Subtlety. [Die Version mit Talented öffnen](/de/talents/rogue/?t=02530300201431--002).
 
 1. Eröffne aus Stealth mit Ambush.
-2. Baue Combo Points mit Mutilate auf.
+2. Baue Combo Points mit Sinister Strike auf, und nutze Shank, sobald er bereit ist.
 3. Halte Slice and Dice aufrecht.
 4. Erledige das Ziel mit Eviscerate.
 5. Nutze Expose Armor vor Eviscerate und halte es bei einem Boss aufrecht.
@@ -90,24 +89,25 @@ Werte ab hier für jeden Build: kritische Trefferchance, dann Agility, Attack Po
 
 ## Combat-Build für Level 30
 
-Defensiv und offensiv zugleich: mehr Schaden auf Eviscerate und deine automatischen Angriffe, dazu Deflection und Riposte gegen Pausen. Blade Flurry und Flawless Execution kommen später. [Den Build im Talentrechner öffnen](/de/talents/rogue/?t=-3200332110141).
+Defensiv und offensiv zugleich: mehr Schaden auf Eviscerate und deine automatischen Angriffe, dazu Deflection und Riposte gegen Pausen. Flawless Execution, Aggression und Blade Flurry runden den Build ab. [Den Build im Talentrechner öffnen](/de/talents/rogue/?t=-3200331210011301).
 
 | Talent | Punkte |
 |---|---|
-| **Improved Eviscerate** | 3/3 |
-| **Improved Sinister Strike** | 2/2 |
+| **Coup de Grace** | 3/3 |
+| **Efficient Strikes** | 2/2 |
 | **Deflection** | 3/3 |
 | **Precision** | 3/3 |
+| **Improved Sprint** | 1/2 |
 | **Endurance** | 2/2 |
 | **Riposte** | 1/1 |
-| **Improved Sprint** | 1/2 |
 | **Flawless Execution** | 1/1 |
-| **Dual Wield Specialization** | 4/5 |
+| **Weapon Expertise** | 1/2 |
+| **Aggression** | 3/3 |
 | **Blade Flurry** | 1/1 |
 
-Mit Talented: Hack and Slash 5/5. [Die Version mit Talented öffnen](/de/talents/rogue/?t=-32003321101415).
+Mit Talented: Hack and Slash 5/5. [Die Version mit Talented öffnen](/de/talents/rogue/?t=-32003312100113015).
 
-Stirbst du zu oft, weil deine Ausrüstung schwach ist? Nimm dann Lightning Reflexes statt Improved Eviscerate, Improved Sprint und Flawless Execution. Du verlässt dich dann mehr auf automatische Angriffe und Poisons als auf Finisher.
+Stirbst du zu oft, weil deine Ausrüstung schwach ist? Nimm dann Lightning Reflexes statt Coup de Grace, Improved Sprint und Flawless Execution. Du verlässt dich dann mehr auf automatische Angriffe und Poisons als auf Finisher.
 
 1. Eröffne aus Stealth mit Cheap Shot oder lauf einfach hin und greif an. Mit Dolchen eröffnest du mit Ambush.
 2. Nutze Blade Flurry zu Beginn jedes Kampfes, gegen ein Monster oder mehrere.
@@ -119,21 +119,21 @@ Stirbst du zu oft, weil deine Ausrüstung schwach ist? Nimm dann Lightning Refle
 
 ## Subtlety-Build mit Ambush für Level 30
 
-Tötet so schnell wie möglich mit kritischen Ambushes. Du gehst oft in Stealth und nutzt jedes Remorseless Attacks. Die meisten Monster sind nach dem Opener fast tot. In Dungeons ist der Build schwächer, weil Ambush Stealth braucht, bis du auf höherem Level Cutthroat erreichst. [Den Build im Talentrechner öffnen](/de/talents/rogue/?t=02-02-032320331).
+Tötet so schnell wie möglich mit kritischen Ambushes. Du gehst oft in Stealth und nutzt jedes Remorseless Attacks. Die meisten Monster sind nach dem Opener fast tot. In Dungeons ist der Build schwächer, weil Ambush Stealth braucht. Ghostly Strike gibt dir ab und zu ein Ambush im Kampf. [Den Build im Talentrechner öffnen](/de/talents/rogue/?t=02--333003031021).
 
 | Talent | Punkte |
 |---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Improved Sinister Strike** | 2/2 |
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 2/2 |
+| **Remorseless Attacks** (Assassination) | 2/2 |
 | **Setup** | 3/3 |
-| **Elusiveness** | 2/2 |
+| **Master of Deception** | 3/3 |
+| **Opportunity** | 3/5 |
 | **Improved Ambush** | 3/3 |
 | **Initiative** | 3/3 |
+| **Premeditation** | 1/1 |
+| **Elusiveness** | 2/2 |
 | **Ghostly Strike** | 1/1 |
 
-Mit Talented: Malice 5/5 in Assassination. [Die Version mit Talented öffnen](/de/talents/rogue/?t=025-02-032320331).
+Mit Talented: Malice 5/5 in Assassination. [Die Version mit Talented öffnen](/de/talents/rogue/?t=025--333003031021).
 
 1. Eröffne aus Stealth mit Ambush.
 2. Baue Combo Points mit Sinister Strike auf.
@@ -180,23 +180,24 @@ Mit Punkten in Talented aus dem Legacy-System erreichst du jedes Talent bis zu f
 | Level | Was du bekommst | Von |
 |---|---|---|
 | 10 | Sap, Slice and Dice, Sprint, Dual Wield | Klassenlehrer |
-| 10 | Remorseless Attacks, Malice, Improved Sinister Strike, Improved Eviscerate, Opportunity, Master of Deception | Talentbaum |
+| 10 | Remorseless Attacks, Malice, Coup de Grace, Efficient Strikes, Setup, Opportunity, Master of Deception | Talentbaum |
 | 14 | Expose Armor, Garrote | Klassenlehrer |
-| 15 | Ruthlessness, Improved Slice and Dice, Precision, Setup, Improved Ambush | Talentbaum |
+| 15 | Ruthlessness, Improved Slice and Dice, Precision, Improved Ambush | Talentbaum |
 | 16 | Feint, Pick Lock | Klassenlehrer |
-| 18 | Ambush | Klassenlehrer |
+| 18 | Ambush, Poised | Klassenlehrer |
 | 20 | Poisons | Klassenquest |
 | 20 | Rupture | Klassenlehrer |
-| 20 | Riposte, Ghostly Strike, Lethality, Relentless Strikes | Talentbaum |
+| 20 | Riposte, Lethality, Premeditation | Talentbaum |
 | 22 | Distract, Vanish | Klassenlehrer |
-| 25 | Cold Blood, Flawless Execution, Premeditation | Talentbaum |
+| 24 | Shank | Klassenlehrer |
+| 25 | Cold Blood, Flawless Execution, Aggression, Ghostly Strike | Talentbaum |
 | 26 | Cheap Shot | Klassenlehrer |
 | 30 | Kidney Shot, Disarm Trap | Klassenlehrer |
-| 30 | Mutilate, Blade Flurry, Hemorrhage, Preparation | Talentbaum |
+| 30 | Venom, Relentless Strikes, Blade Flurry, Hemorrhage, Preparation | Talentbaum |
 | 34 | Blind | Klassenlehrer |
-| 35 | Seal Fate, Aggression, Cutthroat, Quietus | Talentbaum |
+| 35 | Seal Fate, Flash of Steel, Boot Knife | Talentbaum |
 | 40 | Safe Fall, Reiten, Dual Specialization | Lehrer |
-| 40 | Venom, Adrenaline Rush, Thousand Cuts | Talentbaum |
+| 40 | Mutilate, Adrenaline Rush, Death Mark | Talentbaum |
 
 Frühere Fähigkeiten kommen vom Klassenlehrer: Stealth auf 1, Backstab und Pick Pocket auf 4, Gouge auf 6, Evasion auf 8, Kick und Parry auf 12.
 

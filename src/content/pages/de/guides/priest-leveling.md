@@ -3,7 +3,7 @@ title: "Priest leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Priest Leveling-Guide: Builds für Discipline, Holy und Shadow bis 30"
 description: "So levelst du einen Priest in WoW Forever: drei Builds für Level 30 für Discipline, Holy und Shadow, die Rotation, wichtige Level, Volkszauber, Zauberstäbe, Berufe, Mana und Heilung."
 short: "Priest leveln"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
@@ -92,7 +92,7 @@ Für alle, die viele Dungeons heilen wollen und kein Discipline möchten. [Build
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Binding Heal** | 1/1 |
+| **Holy Binding** | 1/1 |
 | **Litany of Light** | 1/2 |
 
 Allein ist die Rotation dieselbe wie bei Discipline ohne Penance: Power Word: Shield, Smite, Shadow Word: Pain und dein Zauberstab.
@@ -133,7 +133,7 @@ Für Shadow zählt Schattenmacht neben Intellect und Zaubermacht. Mit Punkten in
 | 20 | Mind Flay, Inner Focus, Holy Nova | Talentbaum |
 | 22 | Mind Vision | Klassenlehrer |
 | 24 | Mana Burn | Klassenlehrer |
-| 25 | Vampiric Embrace, Binding Heal | Talentbaum |
+| 25 | Vampiric Embrace | Talentbaum |
 | 30 | Divine Spirit, Prayer of Healing, Mind Control, Shadow Protection | Klassenlehrer |
 | 30 | Penance, Silence | Talentbaum |
 | 32 | Shadow Word: Death, Abolish Disease | Klassenlehrer |
@@ -218,7 +218,7 @@ Auch als Shadow heilst du dich und andere.
 - **Penance** heilt als Discipline in Stößen oder macht Schaden an einem Gegner.
 - **Power Word: Shield** ist keine Heilung, sondern ein Schild, der wie eine zweite Lebensleiste wirkt.
 
-Holy bringt Prayer of Mending, das jedes Mal zum nächsten Ziel springt, wenn jemand Schaden nimmt, und Binding Heal, das dich und dein Ziel gleichzeitig heilt.
+Holy bringt Prayer of Mending, das jedes Mal zum nächsten Ziel springt, wenn jemand Schaden nimmt.
 
 ## Kontrolle und Nutzen
 

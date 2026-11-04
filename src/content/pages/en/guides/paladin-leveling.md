@@ -3,7 +3,7 @@ title: "Paladin leveling guide for WoW Forever"
 metaTitle: "WoW Forever Paladin leveling guide: Retribution, Protection and Shockadin builds to 30"
 description: "How to level a Paladin in WoW Forever: the early build, three level 30 builds for Retribution, Protection and Shockadin, the rotation, key levels, the class quests and their weapons, seals, auras and blessings."
 short: "Paladin leveling"
-updated: 2026-10-24
+updated: 2026-10-31
 lang: en
 faq:
   - q: "What is the best spec to level a Paladin in WoW Forever?"
@@ -60,20 +60,21 @@ Stats at these levels: Strength and attack power first, then Stamina, then spell
 
 ## Level 30 Retribution build
 
-The recommended leveling build. You hit hard with a slow two-handed weapon, and the build is all about mana: Sanctified Judgement gives mana back on every Judgement, so you kill monster after monster with little rest. That also works on groups, with Consecration kept up. [Open the build in the talent calculator](/talents/paladin/?t=--50125031201330).
+The recommended leveling build. You hit hard with a slow two-handed weapon, and the build is all about mana: Sanctified Judgement gives mana back on every Judgement, so you kill monster after monster with little rest. That also works on groups, with Consecration kept up. [Open the build in the talent calculator](/talents/paladin/?t=--512330212013003).
 
 | Talent | Points |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20060"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 5/5 |
-| **Improved Judgement** | 1/2 |
-| **Holy Conduit** | 2/2 |
-| **Conviction** | 5/5 |
+| **Deflection** | 5/5 |
+| **Benediction** | 1/5 |
+| **Improved Judgement** | 2/2 |
+| **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
+| **Unyielding Faith** | 2/2 |
 | **Seal of Command** | 1/1 |
 | **Pursuit of Justice** | 2/2 |
 | **Sacred Arbiter** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20111"><img class="wf-wh__icon" src="/wh/inv_hammer_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Two-Handed Weapon Specialization</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20049"><img class="wf-wh__icon" src="/wh/ability_racial_avatar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vengeance</a>** | 3/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
+| **Vengeance** | 3/3 |
 
 Seal of Command gives your swings a chance to deal 70% of your weapon damage again as Holy damage, so the slower and heavier your weapon, the better. Conviction and Vengeance work together: more critical strikes, and every critical strike raises your damage for 30 seconds. Sacred Arbiter makes Holy Strike stronger and lets it refresh your Judgement on the monster. Pursuit of Justice makes you run 15% faster, which saves a lot of time between quests.
 
@@ -91,22 +92,22 @@ Stats: Strength and attack power, then Stamina, then spell power and Intellect, 
 
 ## Level 30 Protection build
 
-Built to take hits. Gather a group of monsters, put down Consecration and let them wear themselves out on your shield. You need a one-handed weapon and a shield. [Open the build in the talent calculator](/talents/paladin/?t=-05302133013014).
+Built to take hits. Gather a group of monsters, put down Consecration and let them wear themselves out on your shield. You need a one-handed weapon and a shield. [Open the build in the talent calculator](/talents/paladin/?t=-053021022133004).
 
 | Talent | Points |
 |---|---|
 | **Redoubt** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20189"><img class="wf-wh__icon" src="/wh/ability_rogue_ambush.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Precision</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20096"><img class="wf-wh__icon" src="/wh/spell_magic_lesserinvisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Anticipation</a>** | 2/5 |
-| **Improved Seal of Fury** | 1/1 |
-| **Improved Righteous Fury** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20148"><img class="wf-wh__icon" src="/wh/inv_shield_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shield Specialization</a>** | 3/3 |
-| **Swift Judgement** | 1/1 |
-| **One-Handed Weapon Specialization** | 3/3 |
+| **Precision** | 3/3 |
+| **Sacred Duty** | 2/2 |
 | **Templar's Bulwark** | 1/1 |
+| **Shield Specialization** | 2/2 |
+| **Toughness** | 2/5 |
+| **Swift Judgement** | 1/1 |
+| **Improved Righteous Fury** | 3/3 |
+| **Anticipation** | 3/5 |
 | **Reckoning** | 4/5 |
 
-Redoubt and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20148"><img class="wf-wh__icon" src="/wh/inv_shield_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shield Specialization</a> make you block often, and every block gives mana back. Improved Seal of Fury returns mana when the shield of Seal of Fury is used up. Reckoning gives you extra attacks after blocks and critical hits against you. Templar's Bulwark is your emergency button: a shield as large as your maximum health for 8 seconds.
+Redoubt and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20148"><img class="wf-wh__icon" src="/wh/inv_shield_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shield Specialization</a> make you block often, and every block gives mana back. Reckoning gives you extra attacks after blocks and critical hits against you. Templar's Bulwark is your emergency button: a shield as large as your maximum health for 8 seconds.
 
 1. Keep Blessing of Kings and Retribution Aura up.
 2. Cast Seal of Fury before you pull.
@@ -121,21 +122,20 @@ Stats: spell power first, then Stamina, then Intellect, then Strength, then armo
 
 ## Level 30 Shockadin build
 
-Leveling as a healer is not recommended, but a Shockadin deals more damage than you would expect. Almost everything a Paladin does now scales with spell power, and this Holy build adds Holy Shock and better healing. [Open the build in the talent calculator](/talents/paladin/?t=0522300302212121).
+Leveling as a healer is not recommended, but a Shockadin deals more damage than you would expect. Almost everything a Paladin does now scales with spell power, and this Holy build adds Holy Shock and better healing. [Open the build in the talent calculator](/talents/paladin/?t=5032501202202101).
 
 | Talent | Points |
 |---|---|
-| **Divine Intellect** | 5/5 |
-| **Healing Light** | 2/3 |
-| **Spiritual Focus** | 2/2 |
-| **Improved Seals** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310899"><img class="wf-wh__icon" src="/wh/spell_holy_divineillumination.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reverence</a>** | 3/3 |
-| **Infusion of Light** | 2/2 |
-| **Illumination** | 2/5 |
+| **Spiritual Focus** | 5/5 |
+| **Healing Light** | 3/3 |
+| **Reverence** | 2/2 |
+| **Improved Seals** | 5/5 |
 | **Divine Favor** | 1/1 |
-| **Divine Precision** | 2/3 |
-| **Holy Shock** | 1/1 |
+| **Illumination** | 2/5 |
+| **Divine Precision** | 2/2 |
+| **Infusion of Light** | 2/2 |
 | **Consecrated Ground** | 2/2 |
+| **Holy Shock** | 1/1 |
 | **Holy Power** | 1/5 |
 
 Holy Shock is an instant blast of Holy damage, or an instant heal on an ally. Improved Seals raises the damage of your seals and Judgements. Reverence keeps part of your mana regeneration going while you cast, and Divine Precision makes your Holy spells miss less.

@@ -3,7 +3,7 @@ title: "Mage levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Mage levelgids: Frost, Fire en Arcane, rotatie en tips"
 description: "Zo level je een Mage in WoW Forever: waarom Frost met Ice Lance het snelst gaat, de rotatie voor Frost, Fire en Arcane, de belangrijke levels, classquests, scrolls, mana en threat."
 short: "Mage levelen"
-updated: 2026-10-21
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
@@ -46,7 +46,7 @@ De Mage levelt in WoW Forever snel en alleen, met eindeloos eten en drinken en v
 
 ## De Frost-build
 
-De [levelbuild van de Mage](/nl/leveling/mage/) geeft het talent voor elk level van 10 tot 35. In het kort: eerst <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a> en Elemental Precision, dan <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a> op 17 tot 19, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a> op 20, Ice Shards, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a> op 25 tot 27, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a> op 28, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a> op 30 en 31, Missile Barrage uit de Arcane-boom op 32 en 33, en Piercing Ice op 34 en 35.
+De [levelbuild van de Mage](/nl/leveling/mage/) geeft het talent voor elk level van 10 tot 35.
 
 | Talent | Wat het doet in Forever |
 |---|---|
@@ -57,7 +57,7 @@ De [levelbuild van de Mage](/nl/leveling/mage/) geeft het talent voor elk level 
 | **Ice Shards** | Verdubbelt de critical strike-bonus van je Frost-spells |
 | **Frost Channeling** | Frost-spells 15% goedkoper en 30% minder threat |
 
-Met punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> uit het Legacy-systeem haal je elk talent tot vijf levels eerder. De [Frost Mage-gids](/nl/guides/frost-mage/) geeft de build voor level 30 met Missile Barrage, plus kiten, mana, Shatter en gear. De [Arcane Mage-gids](/nl/guides/arcane-mage/) geeft twee builds voor level 30 met Arcane Blast, plus burnfases en mana. De [Fire Mage-gids](/nl/guides/fire-mage/) geeft twee builds voor level 30 met Heating Up, plus Fire Power en mana.
+Met punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> uit het Legacy-systeem haal je elk talent tot vijf levels eerder. De [Arcane Mage-gids](/nl/guides/arcane-mage/) geeft twee builds voor level 30 met Arcane Blast, plus burnfases en mana. De [Fire Mage-gids](/nl/guides/fire-mage/) geeft twee builds voor level 30 met Heating Up, plus Fire Power en mana.
 
 ## Rotatie
 
@@ -80,11 +80,10 @@ Met punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/sp
 **Arcane**
 - <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400574"><img class="wf-wh__icon" src="/wh/spell_arcane_blast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Blast</a> om stacks op te bouwen en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400588"><img class="wf-wh__icon" src="/wh/ability_mage_missilebarrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Missile Barrage</a> te triggeren.
 - <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5143"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Missiles</a> met 1 of 2 stacks Arcane Blast.
-- <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2136"><img class="wf-wh__icon" src="/wh/spell_fire_fireball.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Blast</a> of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1449"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Explosion</a> om de stacks te verbruiken als Missile Barrage niet proct.
 
 In elke spec: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=122"><img class="wf-wh__icon" src="/wh/spell_frost_frostnova.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Nova</a> en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> om weg te komen, Frost Blast vanaf level 24 om te vertragen, en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=118"><img class="wf-wh__icon" src="/wh/spell_nature_polymorph.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polymorph</a> op een gevaarlijk extra doelwit.
 
-Arcane Blast geeft nu per stapel 15 seconden lang spell damage, en Missile Barrage staat in de eerste rij. De [Arcane Mage-gids](/nl/guides/arcane-mage/) heeft de huidige rotatie. Alle wijzigingen staan in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).
+De [Arcane Mage-gids](/nl/guides/arcane-mage/) heeft de huidige rotatie. Alle wijzigingen staan in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
 ## Belangrijke levels
 

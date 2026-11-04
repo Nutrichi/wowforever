@@ -1,18 +1,18 @@
 ---
 title: "Gids voor de Elemental Shaman in WoW Forever"
-metaTitle: "WoW Forever Elemental Shaman: build, Lava Burst, totems, mana"
-description: "De Elemental Shaman in WoW Forever: de build voor level 30 en de Talented-versie, Lava Burst en Lightning Overload, de rotatie, totems, mana, stats en races."
+metaTitle: "WoW Forever Elemental Shaman: build, Lightning Overload, totems, mana"
+description: "De Elemental Shaman in WoW Forever: de build voor level 30 en de Talented-versie, Call of Thunder en Lightning Overload, de rotatie, totems, mana, stats en races."
 short: "Elemental Shaman"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
   - q: "Is de Elemental Shaman goed in WoW Forever?"
     a: "Ja, zodra hij op gang komt. De spec begint traag, maar doet goede schade op één doelwit en op groepen, en brengt totems die de hele raid versterken. De zwakke punten zijn mana en weinig crowd control."
   - q: "Wat is nieuw voor de Elemental Shaman in Forever?"
-    a: "Lava Burst en Lightning Overload als talenten, Fire Nova als eigen spell rond je vuurtotem, totems voor de hele raid, Totemic Projection, de Call-spells die vier totems tegelijk neerzetten, en Improved Ghost Wolf binnen."
+    a: "Call of Thunder en Lightning Overload als talenten, Fire Nova als eigen spell rond je vuurtotem, totems voor de hele raid, Totemic Call, de Call-spells die vier totems tegelijk neerzetten, en Improved Ghost Wolf binnen."
   - q: "Wat is de rotatie van de Elemental Shaman?"
-    a: "Hou een vuurtotem neer, pull met Lava Burst, cast meteen daarna Flame Shock, hou Flame Shock op het doelwit, cast Lava Burst zodra die klaar is en vul aan met Lightning Bolt. Op groepen komen Fire Nova en Chain Lightning erbij."
+    a: "Hou een vuurtotem neer, pull met Lightning Bolt, cast Flame Shock en hou die op het doelwit, en vul aan met Lightning Bolt. Op groepen komen Fire Nova en Chain Lightning erbij."
   - q: "Hoe houdt een Elemental Shaman zijn mana op peil?"
     a: "Gebruik elke Clearcasting van Elemental Focus, neem Convection, pak Mindfulness in de Restoration-boom zodra je punten over hebt, hou Mana Spring Totem neer en neem manadrankjes mee. Spirit op je gear is je belangrijkste regeneratie."
   - q: "Welke stats heeft een Elemental Shaman nodig?"
@@ -25,15 +25,15 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class: Lava Burst verdwijnt, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
+> **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/).
 
-De Elemental Shaman in WoW Forever vecht op afstand met bliksem en lava. De spec begint traag, maar zodra Lava Burst in je build zit, stapelen de grote critical hits en de extra Lightning Bolts van Lightning Overload zich snel op. Met je totems ben je in elke groep welkom. Deze gids gaat over de build voor level 30, de belangrijkste talenten, de rotatie, totems, mana, stats en races.
+De Elemental Shaman in WoW Forever vecht op afstand met bliksem en vuur. De spec begint traag, maar zodra Call of Thunder en Lightning Overload in je build zitten, stapelen de grote critical hits en de extra Lightning Bolts van Lightning Overload zich snel op. Met je totems ben je in elke groep welkom. Deze gids gaat over de build voor level 30, de belangrijkste talenten, de rotatie, totems, mana, stats en races.
 
 | | |
 |---|---|
 | Rol | Schade op afstand, op één doelwit en op groepen |
 | Build op level 30 | 21 punten in Elemental, Talented voegt Trial by Fire 2/2, Lightning Overload 3/3 en Elemental Fury 1/5 toe |
-| Belangrijkste talenten | Elemental Focus, Trial by Fire, Earthbound, Lava Burst, Lightning Overload |
+| Belangrijkste talenten | Elemental Focus, Trial by Fire, Earthbound, Call of Thunder, Lightning Overload |
 | Sterk in | Goede schade op groepen, totems voor de hele raid, veel utility |
 | Zwak in | Mana, geen harde crowd control, de plaats van je totems |
 | Andere gidsen voor de Shaman | [Enhancement Shaman](/nl/guides/enhancement-shaman/), [Restoration Shaman](/nl/guides/restoration-shaman/), [Shaman levelen](/nl/guides/shaman-leveling/), [levelbuild voor de Shaman](/nl/leveling/shaman/) |
@@ -66,28 +66,28 @@ De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Le
 | **Trial by Fire** | 1/2 |
 | **Eye of the Storm** | 3/3 |
 | **Earthbound** | 1/1 |
-| **Lava Burst** | 1/1 |
+| **Call of Thunder** | 1/1 |
 
 [Open de Talented-versie](/nl/talents/shaman/?t=350033102310131) met Trial by Fire 2/2, Lightning Overload 3/3 en Elemental Fury 1/5.
 
 ![De Talented-build van de Elemental Shaman in onze talentcalculator](../../../../assets/posts/2026-10-30-wow-forever-elemental-shaman-build.jpg)
 
-Lava Burst staat in de vijfde rij en vraagt 20 punten erboven, dus het is het 21ste punt. Onze [gids om een Shaman te levelen](/nl/guides/shaman-leveling/) heeft een soloversie met het tweede punt in Trial by Fire in plaats van Earthbound.
+Call of Thunder staat in de vijfde rij en vraagt 20 punten erboven, dus het is het 21ste punt. Onze [gids om een Shaman te levelen](/nl/guides/shaman-leveling/) heeft een soloversie met het tweede punt in Trial by Fire in plaats van Earthbound.
 
 ## Wat de belangrijkste talenten doen
 
 | Talent | Wat het doet in Forever |
 |---|---|
-| **Convection** | Op 3/5: Shocks, Lightning Bolt, Lava Burst en Chain Lightning kosten 6% minder mana |
+| **Convection** | Op 3/5: Shocks, Lightning Bolt en Chain Lightning kosten 6% minder mana |
 | **Concussion** | Lightning Bolt, Chain Lightning en Earth Shock doen 5% meer schade |
-| **Elemental Alacrity** | Lightning Bolt, Chain Lightning en Lava Burst casten 0,5 seconde sneller |
-| **Call of Flame** | Vuurtotems, Flame Shock, Fire Nova en Lava Burst doen 15% meer schade, en Flame Shock duurt 9 seconden langer |
+| **Elemental Alacrity** | Lightning Bolt en Chain Lightning casten 0,5 seconde sneller |
+| **Call of Flame** | Vuurtotems, Flame Shock en Fire Nova doen 15% meer schade, en Flame Shock duurt 9 seconden langer |
 | **Elemental Focus** | 10% kans na een schadespell dat je volgende schadespell geen mana kost |
 | **Trial by Fire** | Op 2/2: Fire Nova doet 20% meer schade met een cooldown die 4 seconden korter is, en Magma Totem blijft 20 seconden langer staan |
-| **Eye of the Storm** | 70% kans dat schade Lightning Bolt, Chain Lightning en Lava Burst niet vertraagt |
+| **Eye of the Storm** | 70% kans dat schade Lightning Bolt en Chain Lightning niet vertraagt |
 | **Earthbound** | Earthbind Totem houdt vijanden in de buurt 5 seconden vast wanneer je hem neerzet |
-| **Lava Burst** | Gooit lava voor 113 tot 146 Fire-schade, 20% meer als je Flame Shock op het doelwit staat. 2,5 seconden cast, 10 seconden cooldown |
-| **Lightning Overload** | 10% kans dat Lightning Bolt en Chain Lightning een tweede exemplaar casten voor de helft van de schade, gratis en zonder threat |
+| **Call of Thunder** | 5% meer kans op een critical hit voor Lightning Bolt en Chain Lightning |
+| **Lightning Overload** | Op 3/3: 30% kans dat Lightning Bolt en Chain Lightning een tweede exemplaar casten voor de helft van de schade, gratis en zonder threat |
 | **Elemental Fury** | Op 1/5: 20% meer critical damage voor je vuur-, vorst- en natuurspells en je Searing en Magma Totems |
 
 Lightning Overload is het talent dat de spec in Forever leuk maakt: de extra spell kost je niets. Elemental Fury groeit met elk punt dat je na level 30 toevoegt.
@@ -97,16 +97,14 @@ Lightning Overload is het talent dat de spec in Forever leuk maakt: de extra spe
 ### Eén doelwit
 
 1. Hou Searing Totem neer. Zit eerst in het gevecht, zodat de totem geen tijd verliest.
-2. Pull met Lava Burst.
-3. Cast meteen daarna Flame Shock: de instant shock landt voor de tragere lava, en Lava Burst doet dan meer schade.
-4. Hou Flame Shock op het doelwit.
-5. Cast Lava Burst zodra die van de cooldown af is.
-6. Vul aan met Lightning Bolt.
+2. Pull met Lightning Bolt.
+3. Cast Flame Shock en hou die op het doelwit.
+4. Vul aan met Lightning Bolt.
 
 ### Groepen
 
 1. Hou Magma Totem neer binnen bereik van de vijanden.
-2. Pull met Lava Burst, meteen daarna Flame Shock.
+2. Pull met Lightning Bolt, daarna Flame Shock.
 3. Cast Fire Nova zodra die van de cooldown af is.
 4. Cast Chain Lightning zolang je mana het toelaat.
 
@@ -121,7 +119,7 @@ Lightning Overload is het talent dat de spec in Forever leuk maakt: de extra spe
 ## Totems en bewegen
 
 - **Call of the Elements** en de andere Call-spells zetten een bewaarde set van vier totems neer met één knop. Ze hebben een casttijd.
-- **Totemic Recall** haalt je totems terug voor een beetje mana. **Totemic Projection** verplaatst je actieve totems tot 30 meter, maar kost veel mana: gebruik hem spaarzaam.
+- **Totemic Recall** haalt je totems terug voor een beetje mana. **Totemic Call** brengt je actieve totems naar de plek waar je staat, met een cooldown van 30 seconden.
 - **Windfury Totem** is de beste buff voor melee in het spel. Zonder de beperking tot je party werkt hij voor de hele raid.
 - **Tremor Totem** haalt fear, sleep en charm weg bij bondgenoten binnen bereik. Goede timing redt runs.
 - **Poison Cleansing Totem** en **Disease Cleansing Totem** halen per puls één effect weg.

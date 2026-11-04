@@ -3,7 +3,7 @@ title: "Guide du Fire Mage dans WoW Forever"
 metaTitle: "WoW Forever Fire Mage : build Heating Up, rotation et stats"
 description: "Le Fire Mage dans WoW Forever : Heating Up et le nouveau Fire Power, deux builds niveau 30 donjon et solo, la rotation Pyroblast, le mana, les stats et races."
 short: "Fire Mage"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: fr
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Que fait Fire Power maintenant ?"
     a: "Il compte vos effets de Feu sur la cible : la brûlure de Fireball, Improved Scorch, Ignite et la brûlure de Pyroblast. Chaque effet ajoute 1 % de dégâts de Feu par point, jusqu’à 3 % par effet et 12 % à 3/3. Le bonus ne s’affiche pas comme un buff."
   - q: "Quel build est le meilleur, donjon ou solo ?"
-    a: "Donjon contre des boss de niveau supérieur : Elemental Precision empêche vos sorts de rater. Solo contre des monstres de votre niveau ou plus faibles : vous laissez le toucher de côté et prenez Critical Mass pour plus de coups critiques."
+    a: "Donjon contre des boss de niveau supérieur : Precision empêche vos sorts de rater. Solo contre des monstres de votre niveau ou plus faibles : vous laissez le toucher de côté et prenez Critical Mass pour plus de coups critiques."
   - q: "Peut-on encore faire rouler Ignite ?"
     a: "Non. Ignite a été affaibli dans Forever et brûle maintenant pour 40 % du coup critique en 4 secondes. L’Ignite rolling ne vaut plus la peine."
   - q: "Quelle race est la meilleure pour un Fire Mage ?"
@@ -40,7 +40,7 @@ Le Fire Mage de WoW Forever vit de coups critiques. Heating Up transforme les cr
 ## Ce qui change pour Fire
 
 - **Heating Up est nouveau.** Un talent au niveau 25. Chaque coup critique non périodique avec Fireball, Frostfire Bolt, Fire Blast ou Scorch rend votre prochain Pyroblast dans les 20 secondes 25 % plus rapide, jusqu’à 3 cumuls. Fire Blast donne un cumul à chaque impact.
-- **Critical Mass est plus fort.** 2 % de chances de coup critique pour les sorts de Feu par point, 10 % à 5/5.
+- **Critical Mass est plus fort.** 2 % de chances de coup critique pour les sorts de Feu par point, 6 % à 3/3.
 - **Fire Power est refait.** Il compte maintenant vos effets de Feu sur la cible, jusqu’à quatre : 3 % de dégâts de Feu en plus par effet à 3/3, donc 12 % au maximum.
 - **Ignite est plus faible.** Il brûle pour 40 % du coup critique en 4 secondes. Faire rouler Ignite d’un critique à l’autre ne rapporte plus.
 - **Flamestrike ne se cumule plus.** Une seule brûlure de Flamestrike reste sur une cible.
@@ -60,52 +60,52 @@ Les deux builds utilisent les 21 points que vous avez au niveau 30. Talented, du
 
 ### Build donjon
 
-Pour les donjons et les boss de niveau supérieur. 2/5 en Elemental Precision dans Frost empêche vos sorts de rater, et 3/3 en Improved Scorch est pris même sans Talented, tant le bonus aux dégâts de Feu est fort. Il ne reste pas de points pour Critical Mass ou Master of Elements sans sacrifier le toucher. [Ouvrir le build dans le calculateur de talents](/fr/talents/mage/?t=-015500301301-002).
+Pour les donjons et les boss de niveau supérieur. 2/5 en Precision dans Frost empêche vos sorts de rater, et 3/3 en Improved Scorch est pris même sans Talented, tant le bonus aux dégâts de Feu est fort. Il ne reste pas de points pour Critical Mass ou Master of Elements sans sacrifier le toucher. [Ouvrir le build dans le calculateur de talents](/fr/talents/mage/?t=-155003010301-002).
 
 | Talent | Points |
 |---|---|
-| **Improved Fireball** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 1/3 |
+| **Incineration** | 1/5 |
+| **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
 | **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Elemental Precision** | 2/5 |
+| **Precision** | 2/3 |
 
-[Ouvrir la version Talented](/fr/talents/mage/?t=-02550030130103-003) avec Incineration 2/3, Critical Mass 3/5 et Elemental Precision 3/5.
+[Ouvrir la version Talented](/fr/talents/mage/?t=-25500301030103-003) avec Incineration 2/5, Critical Mass 3/3 et Precision 3/3.
 
 ### Build solo
 
-Pour les quêtes contre des monstres de votre niveau ou plus faibles, donc sans Elemental Precision. Tous les points vont en Feu, avec Incineration 2/3 et le premier point de Critical Mass pour plus de coups critiques. [Ouvrir le build dans le calculateur de talents](/fr/talents/mage/?t=-02550030130101).
+Pour les quêtes contre des monstres de votre niveau ou plus faibles, donc sans Precision. Tous les points vont en Feu, avec Incineration 2/5 et le premier point de Critical Mass pour plus de coups critiques. [Ouvrir le build dans le calculateur de talents](/fr/talents/mage/?t=-25500301030101).
 
 | Talent | Points |
 |---|---|
-| **Improved Fireball** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 2/3 |
+| **Incineration** | 2/5 |
+| **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
 | **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Critical Mass** | 1/5 |
+| **Critical Mass** | 1/3 |
 
-[Ouvrir la version Talented](/fr/talents/mage/?t=-0255003013010501) avec Critical Mass 5/5 et Fire Power 1/3. Envie de plus de burst ? Prenez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> à la place de Fire Power, pour une attaque de zone toutes les 45 secondes. Le [build de leveling du Mage](/fr/leveling/mage/) donne un talent pour chaque niveau de 10 à 35.
+[Ouvrir la version Talented](/fr/talents/mage/?t=-4550030103010301) avec Incineration 4/5, Critical Mass 3/3 et Fire Power 1/3. Envie de plus de burst ? Prenez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> à la place de Fire Power, pour une attaque de zone toutes les 45 secondes. Le [build de leveling du Mage](/fr/leveling/mage/) donne un talent pour chaque niveau de 10 à 35.
 
 ### Ce que font les talents clés
 
 | Talent | Ce qu’il fait dans Forever |
 |---|---|
-| **Improved Fireball** | Fireball et Frostfire Bolt s’incantent 0,5 seconde plus vite à 5/5. Indispensable |
+| **Accelerant** | Fireball et Frostfire Bolt s’incantent 0,5 seconde plus vite à 5/5. Indispensable |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 6 % de chances de coup critique en plus pour Fire Blast et Scorch à 3/3, aussi pour Arcane Blast et Ice Lance. Chaque point donne plus de Heating Up |
 | **Ignite** | Chaque coup critique de Feu fait brûler la cible pour 40 % de ses dégâts en 4 secondes |
 | **Pyroblast** | Une longue incantation avec de gros dégâts et une brûlure. Le cœur de la spé |
 | **Burning Soul** | 70 % de chances de continuer l’incantation quand vous subissez des dégâts, et 30 % de menace en moins avec les sorts de Feu |
 | **Improved Scorch** | Chaque Scorch ajoute un cumul : 3 % de dégâts de Feu en plus de votre part par cumul, 15 % à 5 cumuls |
 | **Heating Up** | Pyroblast jusqu’à 75 % plus rapide après des coups critiques. Sans lui, la spé s’effondre |
-| **Critical Mass** | 10 % de chances de coup critique en plus pour les sorts de Feu à 5/5 |
+| **Critical Mass** | 6 % de chances de coup critique en plus pour les sorts de Feu à 3/3 |
 | **Fire Power** | Plus de dégâts de Feu pour chaque effet de Feu sur la cible, voir plus bas |
-| **Elemental Precision** | 1 % de chances de toucher en plus avec les sorts de Feu et de Givre par point. Nécessaire contre les boss |
+| **Precision** | 1 % de chances de toucher en plus avec les sorts de Feu et de Givre par point. Nécessaire contre les boss |
 
 ## Rotation
 

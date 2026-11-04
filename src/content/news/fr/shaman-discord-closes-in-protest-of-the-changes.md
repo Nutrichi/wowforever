@@ -27,4 +27,4 @@ Le moment n'a rien d'un hasard. Dans les [notes de développement du 2 novembre]
 
 Un Discord de classe a déjà fermé en signe de protestation. En août 2025, le Discord des Paladins du jeu moderne a fermé ses salons Retribution, parce que la spécialisation se sentait abandonnée. Cette protestation a duré moins de 24 heures : Blizzard a annoncé peu après des améliorations pour Retribution. Rien ne montrait que la fermeture en était la cause.
 
-Le serveur [a rouvert après près de 13 heures](/fr/news/shaman-discord-opens-again-after-13-hours/). Les nouveaux arbres sont dans notre [calculateur de talents](/fr/talents/shaman/), et notre [guide du Shaman Elemental](/fr/guides/elemental-shaman/) et notre [guide de leveling du Shaman](/fr/guides/shaman-leveling/) suivent très bientôt.
+Le serveur [a rouvert après près de 13 heures](/fr/news/shaman-discord-opens-again-after-13-hours/). Les nouveaux arbres sont dans notre [calculateur de talents](/fr/talents/shaman/), et notre [guide du Shaman Elemental](/fr/guides/elemental-shaman/) et notre [guide de leveling du Shaman](/fr/guides/shaman-leveling/) les suivent depuis le 4 novembre.

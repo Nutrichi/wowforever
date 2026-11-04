@@ -3,7 +3,7 @@ title: "Balance Druid guide for WoW Forever"
 metaTitle: "WoW Forever Balance Druid: DoT and Eclipse builds, rotation, stats and races"
 description: "The Balance Druid in WoW Forever: what changes, two builds for level 30 with Overgrowth or Eclipse, the rotation, cooldowns, mana and DoTs, stats, gear, races and professions."
 short: "Balance Druid"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: en
 faq:
   - q: "Is Balance Druid good in WoW Forever?"

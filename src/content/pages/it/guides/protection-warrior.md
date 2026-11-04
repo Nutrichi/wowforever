@@ -3,7 +3,7 @@ title: "Guida al Protection Warrior in WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: build da tank di livello 30, minaccia e Rage"
 description: "Il Protection Warrior in WoW Forever: la build da tank di livello 30 con Master of Defense, Defiance e Vanguard, la rotazione della minaccia, gli indebolimenti, la Rage, stats e razze."
 short: "Protection Warrior"
-updated: 2026-10-27
+updated: 2026-11-04
 lang: it
 manual: true
 faq:
@@ -41,7 +41,7 @@ Il Protection Warrior di WoW Forever è il cavaliere classico: armatura pesante,
 - **Master of Defense è nuovo.** 5 di Rage a ogni schivata e parata finché porti uno scudo.
 - **Vanguard è nuovo.** Charge funziona in Defensive Stance.
 - **Focused Rage è nuovo.** Le tue abilità offensive costano 3 di Rage in meno a 3/3.
-- **Defiance** dà il 15% di minaccia in più in Defensive Stance con uno scudo a 3/3.
+- **Defiance** dà il 20% di minaccia in più in Defensive Stance con uno scudo a 3/3.
 - **Last Stand** dà ora il 30% della salute massima per 20 secondi.
 - **Bastion** dà il 10% di danni in più finché porti uno scudo a 5/5, e **Shield Slam** dissipa anche un effetto magico una volta su due.
 - **Improved Shield Wall** toglie 11 minuti al tempo di recupero di Shield Wall a 2/2.
@@ -85,7 +85,7 @@ Dopo il livello 30 arrivano Bastion, Improved Shield Wall, Improved Thunder Clap
 | **Anticipation** | 20 di abilità in Difesa in più a 5/5 |
 | **Master of Defense** | 5 di Rage per schivata e parata con uno scudo |
 | **Improved Revenge** | Il 60% di danni in più da Revenge, quindi più minaccia |
-| **Defiance** | Il 15% di minaccia in più in Defensive Stance con uno scudo |
+| **Defiance** | Il 20% di minaccia in più in Defensive Stance con uno scudo |
 | **Last Stand** | Il 30% di salute massima extra per 20 secondi |
 | **Vanguard** | Apri ogni pull con Charge, senza lasciare Defensive Stance |
 | **Focused Rage** | 3 di Rage in meno per le tue abilità offensive |

@@ -3,7 +3,7 @@ title: "Levelgids voor de Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman levelen: Enhancement, Elemental en Resto"
 description: "Zo level je een Shaman in WoW Forever: builds voor level 30 voor Enhancement, Elemental en Restoration, belangrijke levels, de totemquests, de wapens van Call of Air en zones."
 short: "Shaman levelen"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: nl
 manual: true
 faq:
@@ -12,7 +12,7 @@ faq:
   - q: "Hebben Shamans nog totem-items in hun tassen nodig?"
     a: "Ja. De classquests op level 4, 10, 20 en 30 geven je de Earth, Fire, Water en Air Totem, en die items moeten in je tassen blijven om totems van dat element te casten."
   - q: "Kunnen Shamans nog totems twisten?"
-    a: "Nee. Totem twisting bestaat niet meer in Forever. In ruil zet Call of the Elements vier opgeslagen totems neer met één knop, en verplaatsen of halen Totemic Projection en Totemic Recall je totems op."
+    a: "Nee. Totem twisting bestaat niet meer in Forever. In ruil zet Call of the Elements vier opgeslagen totems neer met één knop, en halen Totemic Call en Totemic Recall je totems naar je toe of op."
   - q: "Is Ghost Wolf beter in Forever?"
     a: "Ja. Met Improved Ghost Wolf in Enhancement is hij instant en werkt hij binnen, dus je gebruikt hem ook in gevecht en in dungeons."
   - q: "Welk wapen krijgt een Shaman op level 30?"
@@ -25,14 +25,14 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
-> **Update 3 november:** de ontwikkelnotities van 2 november veranderen veel aan deze class: Lava Burst verdwijnt, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/). De nieuwe bomen staan nu in onze talentcalculator, maar de builds en talenten hieronder volgen ze nog niet overal. We werken deze gids binnenkort bij.
+> **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/).
 
-De Shaman in WoW Forever is welkom in elke groep: sterke totembuffs, een instant Ghost Wolf met Improved Ghost Wolf, en drie specs die elk werken. Je kunt een melee-spellblade zijn, een caster die bliksem en lava gooit, of een healer. Deze gids behandelt de rotatie in het begin, een build voor level 30 per spec, de belangrijke levels, de totemquests, de wapens van Call of Air, zones, gear, totems en mana.
+De Shaman in WoW Forever is welkom in elke groep: sterke totembuffs, een instant Ghost Wolf met Improved Ghost Wolf, en drie specs die elk werken. Je kunt een melee-spellblade zijn, een caster die bliksem en vuur gooit, of een healer. Deze gids behandelt de rotatie in het begin, een build voor level 30 per spec, de belangrijke levels, de totemquests, de wapens van Call of Air, zones, gear, totems en mana.
 
 | | |
 |---|---|
 | Makkelijkste spec om te levelen | Enhancement, met Windfury Weapon vanaf level 30 |
-| Belangrijkste talenten | Thundering Strikes, Mental Dexterity, Improved Ghost Wolf, Flurry, Stormstrike, Lava Burst |
+| Belangrijkste talenten | Thundering Strikes, Mental Dexterity, Flurry, Stormstrike, Call of Thunder |
 | Sterk in | Totembuffs, zelf helen, snel reizen met Ghost Wolf, kan als Enhancement lage dungeons tanken |
 | Zwak in | Mana, weinig crowd control |
 | Talentvolgorde per level | [Levelbuild voor de Shaman](/nl/leveling/shaman/) |
@@ -61,24 +61,24 @@ Stoneclaw Totem en Earthbind Totem helpen als een pull misloopt. Stats in het be
 
 ## Enhancement-build voor level 30
 
-De sterkste levelbuild, en hij schaalt mee tot het endgame. Totem twisting is weg, wat de rotatie eenvoudiger maakt. [Open de build in de talentcalculator](/nl/talents/shaman/?t=-0500321310051).
+De sterkste levelbuild, en hij schaalt mee tot het endgame. Totem twisting is weg, wat de rotatie eenvoudiger maakt. [Open de build in de talentcalculator](/nl/talents/shaman/?t=-052031310051).
 
 | Talent | Punten |
 |---|---|
 | **Thundering Strikes** | 5/5 |
+| **Ancestral Knowledge** | 2/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Ghost Wolf** | 2/2 |
 | **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
 
-[Open de Talented-versie](/nl/talents/shaman/?t=-05003213100510221) met Mental Quickness 2/2, Improved Stormstrike 2/2 en Maelstrom Weapon 1/5.
+[Open de Talented-versie](/nl/talents/shaman/?t=-05203131005100221) met Mental Quickness 2/2, Improved Stormstrike 2/2 en Maelstrom Weapon 1/5.
 
 ![De Talented-build van de Enhancement Shaman in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
 
-Mental Dexterity zet je Intellect om in attack power, en Mental Quickness zet hem om in spell damage, dus Intellect is meer waard dan je zou denken. Improved Ghost Wolf maakt Ghost Wolf instant en bruikbaar binnen.
+Mental Dexterity zet je Intellect om in attack power, en Mental Quickness zet hem om in spell damage, dus Intellect is meer waard dan je zou denken. Improved Ghost Wolf, dat Ghost Wolf instant en binnen bruikbaar maakt, staat sinds 2 november in de vierde rij en past niet in deze build.
 
 1. Hou Lightning Shield en Windfury Weapon actief.
 2. Zet in gevecht Searing Totem en Strength of Earth Totem neer.
@@ -103,7 +103,7 @@ Voor een pure caster op afstand. [Open de build in de talentcalculator](/nl/tale
 | **Elemental Focus** | 1/1 |
 | **Trial by Fire** | 2/2 |
 | **Eye of the Storm** | 3/3 |
-| **Lava Burst** | 1/1 |
+| **Call of Thunder** | 1/1 |
 
 [Open de Talented-versie](/nl/talents/shaman/?t=350033102301131) met Elemental Reach 1/2, Lightning Overload 3/3 en Elemental Fury 1/5.
 
@@ -111,11 +111,10 @@ Voor een pure caster op afstand. [Open de build in de talentcalculator](/nl/tale
 
 1. Hou Lightning Shield actief.
 2. Zet Searing Totem neer voor één doelwit, Magma Totem voor meerdere, en Mana Spring Totem als je lang genoeg op één plek blijft.
-3. Pull met Lava Burst.
-4. Cast Flame Shock precies als Lava Burst klaar is: de instant shock landt voor de tragere lava, en Lava Burst doet dan meer schade op het brandende doelwit.
+3. Pull met Lightning Bolt.
+4. Cast Flame Shock.
 5. Hou Flame Shock op het doelwit.
-6. Cast Lava Burst op cooldown.
-7. Vul aan met Lightning Bolt.
+6. Vul aan met Lightning Bolt.
 
 Stats: spell damage en Intellect, dan critical strike chance, dan Stamina en Spirit, dan armor.
 
@@ -155,12 +154,12 @@ Bij de trainer, tenzij anders vermeld. Met Talented uit het Legacy-systeem komen
 | 16 | Cure Poison |
 | 18 | Tremor Totem |
 | 20 | Ghost Wolf, Frost Shock, Frostbrand Weapon, Lesser Healing Wave, Call of the Elements, Totemic Recall; Healing Stream Totem uit de Water-quest; Water Shield (talent) |
-| 22 | Totemic Projection, Cure Disease, Poison Cleansing Totem |
+| 22 | Totemic Call, Cure Disease, Poison Cleansing Totem |
 | 24 | Frost Resistance Totem |
 | 25 | Stormstrike en Mana Tide Totem (talenten) |
 | 26 | Magma Totem, Mana Spring Totem |
 | 28 | Fire Resistance Totem, Flametongue Totem |
-| 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation; Lava Burst en Nature's Swiftness (talenten) |
+| 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation; Call of Thunder en Nature's Swiftness (talenten) |
 | 32 | Chain Lightning, Windfury Totem |
 | 40 | Chain Heal, Call of the Spirits, Dual Spec |
 
@@ -255,7 +254,7 @@ Zet alleen de totems neer die nu helpen: elke totem kost mana en een global cool
 | Healing Stream Totem | Heelt telkens een beetje |
 | Mana Spring Totem | Geeft je groep mana terug |
 
-Call of the Elements zet een opgeslagen set van vier totems neer met één knop. Totemic Projection verplaatst ze en Totemic Recall neemt ze terug.
+Call of the Elements zet een opgeslagen set van vier totems neer met één knop. Totemic Call haalt ze naar je toe en Totemic Recall neemt ze terug.
 
 ## Bewegen en mana
 

@@ -3,7 +3,7 @@ title: "Holy Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Holy Paladin: Heilbuild, Zauber und Mana"
 description: "Der Holy Paladin in WoW Forever: der Heilbuild für Level 30 und die Talented-Version, Holy Shock und Light's Vigil, die Heilpriorität, Mana, Siegel, Werte und Völker."
 short: "Holy Paladin"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: de
 manual: true
 faq:
@@ -30,8 +30,8 @@ Der Holy Paladin in WoW Forever ist der einfachste Heiler im Spiel. Du wirkst He
 | | |
 |---|---|
 | Rolle | Heiler, vor allem auf ein Ziel |
-| Build auf Level 30 | 21 Punkte in Holy, Talented fügt Healing Light, Purifying Power, Divine Precision und Holy Power hinzu |
-| Wichtigste Talente | Divine Intellect, Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
+| Build auf Level 30 | 21 Punkte in Holy, Talented fügt Purifying Power, Boundless Light und Holy Power hinzu |
+| Wichtigste Talente | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Stärken | Große Heilungen, Nutzen für die Gruppe, sehr schwer zu töten |
 | Schwächen | Vor allem reaktiv, nur eine Gruppenheilung |
 | Leveln | [Leveling-Guide für den Paladin](/de/guides/paladin-leveling/), [Leveling-Build für den Paladin](/de/leveling/paladin/) |
@@ -48,20 +48,20 @@ Der Holy Paladin in WoW Forever ist der einfachste Heiler im Spiel. Du wirkst He
 
 ## Der Build für Level 30
 
-Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem Legacy-System gibt 5 dazu. [Öffne den Build im Talentrechner](/de/talents/paladin/?t=05220003025101).
+Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem Legacy-System gibt 5 dazu. [Öffne den Build im Talentrechner](/de/talents/paladin/?t=50320015022001).
 
 | Talent | Punkte |
 |---|---|
-| **Divine Intellect** | 5/5 |
-| **Healing Light** | 2/3 |
-| **Spiritual Focus** | 2/2 |
-| **Reverence** | 3/3 |
-| **Infusion of Light** | 2/2 |
-| **Illumination** | 5/5 |
+| **Spiritual Focus** | 5/5 |
+| **Healing Light** | 3/3 |
+| **Reverence** | 2/2 |
 | **Divine Favor** | 1/1 |
+| **Illumination** | 5/5 |
+| **Divine Precision** | 2/2 |
+| **Infusion of Light** | 2/2 |
 | **Holy Shock** | 1/1 |
 
-[Öffne die Talented-Version](/de/talents/paladin/?t=0532000322511101) mit Healing Light 3/3, Purifying Power 2/2, Divine Precision 1/3 und Holy Power 1/5.
+[Öffne die Talented-Version](/de/talents/paladin/?t=5032021502200121) mit Purifying Power 2/2, Boundless Light 2/2 und Holy Power 1/5.
 
 ![Der Talented-Build des Holy Paladin in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
 
@@ -71,7 +71,6 @@ Holy Shock liegt in der fünften Reihe und braucht 20 Punkte darüber. Mit 21 Pu
 
 | Talent | Was es in Forever tut |
 |---|---|
-| **Divine Intellect** | 10 % mehr Intelligenz |
 | **Healing Light** | Holy Light, Flash of Light und Holy Shock heilen 12 % mehr |
 | **Spiritual Focus** | 70 % Chance, bei erlittenem Schaden keine Zauberzeit zu verlieren, für Flash of Light, Holy Light und Light's Vigil |
 | **Reverence** | 30 % deiner Manaregeneration laufen beim Wirken weiter |
@@ -79,7 +78,7 @@ Holy Shock liegt in der fünften Reihe und braucht 20 Punkte darüber. Mit 21 Pu
 | **Infusion of Light** | Ein kritischer Holy Shock oder Flash of Light macht dein nächstes Holy Light 1 Sekunde schneller |
 | **Illumination** | Eine kritische Heilung gibt Mana in Höhe von 50 % der Grundkosten des Zaubers zurück |
 | **Divine Favor** | Dein nächstes Flash of Light, Holy Light oder Holy Shock ist kritisch |
-| **Divine Precision** | 18 % mehr Trefferchance mit Heiligzaubern, damit Judgement und Holy Shock sitzen |
+| **Divine Precision** | 8 % mehr Trefferchance mit Heiligzaubern, damit Judgement und Holy Shock sitzen |
 | **Holy Shock** | Ein sofortiger Stoß Heiligschaden auf einen Feind, oder eine sofortige Heilung auf einen Verbündeten |
 | **Holy Power** | 15 % mehr kritische Trefferchance für Holy Shock und Holy Strike, 5 % für alle anderen Zauber |
 | **Light's Vigil** | Dein nächster Holy Shock auf das Ziel hat keine Abklingzeit und heilt seine ganze Gruppe |

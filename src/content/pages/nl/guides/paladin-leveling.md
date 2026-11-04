@@ -3,7 +3,7 @@ title: "Paladin levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Paladin levelgids: builds voor Retribution, Protection en Shockadin tot 30"
 description: "Zo level je een Paladin in WoW Forever: de eerste build, drie builds voor level 30 voor Retribution, Protection en Shockadin, de rotatie, de belangrijke levels, de classquests en hun wapens, seals, auras en blessings."
 short: "Paladin levelen"
-updated: 2026-10-24
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
@@ -61,20 +61,21 @@ Stats op deze levels: eerst Strength en attack power, dan Stamina, dan spell pow
 
 ## Retribution-build voor level 30
 
-De aangeraden build om te levelen. Je slaat hard met een traag tweehandig wapen, en de build draait om mana: Sanctified Judgement geeft mana terug bij elke Judgement, zodat je monster na monster doodt met weinig rust. Dat werkt ook op groepen, met Consecration altijd actief. [Open de build in de talentcalculator](/nl/talents/paladin/?t=--50125031201330).
+De aangeraden build om te levelen. Je slaat hard met een traag tweehandig wapen, en de build draait om mana: Sanctified Judgement geeft mana terug bij elke Judgement, zodat je monster na monster doodt met weinig rust. Dat werkt ook op groepen, met Consecration altijd actief. [Open de build in de talentcalculator](/nl/talents/paladin/?t=--512330212013003).
 
 | Talent | Punten |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20060"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 5/5 |
-| **Improved Judgement** | 1/2 |
-| **Holy Conduit** | 2/2 |
-| **Conviction** | 5/5 |
+| **Deflection** | 5/5 |
+| **Benediction** | 1/5 |
+| **Improved Judgement** | 2/2 |
+| **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
+| **Unyielding Faith** | 2/2 |
 | **Seal of Command** | 1/1 |
 | **Pursuit of Justice** | 2/2 |
 | **Sacred Arbiter** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20111"><img class="wf-wh__icon" src="/wh/inv_hammer_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Two-Handed Weapon Specialization</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20049"><img class="wf-wh__icon" src="/wh/ability_racial_avatar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vengeance</a>** | 3/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
+| **Vengeance** | 3/3 |
 
 Seal of Command geeft je slagen een kans om 70% van je wapenschade opnieuw te doen als Holy-schade, dus hoe trager en zwaarder je wapen, hoe beter. Conviction en Vengeance werken samen: meer critical strikes, en elke critical strike verhoogt je schade 30 seconden lang. Sacred Arbiter maakt Holy Strike sterker en laat het je Judgement op het monster vernieuwen. Pursuit of Justice laat je 15% sneller lopen, wat veel tijd spaart tussen quests.
 
@@ -92,22 +93,22 @@ Stats: Strength en attack power, dan Stamina, dan spell power en Intellect, dan 
 
 ## Protection-build voor level 30
 
-Gemaakt om klappen te incasseren. Verzamel een groep monsters, leg Consecration neer en laat ze zich kapotslaan op je schild. Je hebt een eenhandig wapen en een schild nodig. [Open de build in de talentcalculator](/nl/talents/paladin/?t=-05302133013014).
+Gemaakt om klappen te incasseren. Verzamel een groep monsters, leg Consecration neer en laat ze zich kapotslaan op je schild. Je hebt een eenhandig wapen en een schild nodig. [Open de build in de talentcalculator](/nl/talents/paladin/?t=-053021022133004).
 
 | Talent | Punten |
 |---|---|
 | **Redoubt** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20189"><img class="wf-wh__icon" src="/wh/ability_rogue_ambush.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Precision</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20096"><img class="wf-wh__icon" src="/wh/spell_magic_lesserinvisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Anticipation</a>** | 2/5 |
-| **Improved Seal of Fury** | 1/1 |
-| **Improved Righteous Fury** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20148"><img class="wf-wh__icon" src="/wh/inv_shield_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shield Specialization</a>** | 3/3 |
-| **Swift Judgement** | 1/1 |
-| **One-Handed Weapon Specialization** | 3/3 |
+| **Precision** | 3/3 |
+| **Sacred Duty** | 2/2 |
 | **Templar's Bulwark** | 1/1 |
+| **Shield Specialization** | 2/2 |
+| **Toughness** | 2/5 |
+| **Swift Judgement** | 1/1 |
+| **Improved Righteous Fury** | 3/3 |
+| **Anticipation** | 3/5 |
 | **Reckoning** | 4/5 |
 
-Door Redoubt en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20148"><img class="wf-wh__icon" src="/wh/inv_shield_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shield Specialization</a> blokkeer je vaak, en elke block geeft mana terug. Improved Seal of Fury geeft mana terug als het schild van Seal of Fury op is. Reckoning geeft je extra aanvallen na blocks en na critical hits tegen jou. Templar's Bulwark is je noodknop: een schild zo groot als je maximale health, 8 seconden lang.
+Door Redoubt en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20148"><img class="wf-wh__icon" src="/wh/inv_shield_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shield Specialization</a> blokkeer je vaak, en elke block geeft mana terug. Reckoning geeft je extra aanvallen na blocks en na critical hits tegen jou. Templar's Bulwark is je noodknop: een schild zo groot als je maximale health, 8 seconden lang.
 
 1. Houd Blessing of Kings en Retribution Aura actief.
 2. Cast Seal of Fury voor je pullt.
@@ -122,21 +123,20 @@ Stats: eerst spell power, dan Stamina, dan Intellect, dan Strength, dan armor.
 
 ## Shockadin-build voor level 30
 
-Levelen als healer wordt afgeraden, maar een Shockadin doet meer schade dan je zou denken. Bijna alles wat een Paladin doet, schaalt nu met spell power, en deze Holy-build voegt Holy Shock en betere healing toe. [Open de build in de talentcalculator](/nl/talents/paladin/?t=0522300302212121).
+Levelen als healer wordt afgeraden, maar een Shockadin doet meer schade dan je zou denken. Bijna alles wat een Paladin doet, schaalt nu met spell power, en deze Holy-build voegt Holy Shock en betere healing toe. [Open de build in de talentcalculator](/nl/talents/paladin/?t=5032501202202101).
 
 | Talent | Punten |
 |---|---|
-| **Divine Intellect** | 5/5 |
-| **Healing Light** | 2/3 |
-| **Spiritual Focus** | 2/2 |
-| **Improved Seals** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310899"><img class="wf-wh__icon" src="/wh/spell_holy_divineillumination.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reverence</a>** | 3/3 |
-| **Infusion of Light** | 2/2 |
-| **Illumination** | 2/5 |
+| **Spiritual Focus** | 5/5 |
+| **Healing Light** | 3/3 |
+| **Reverence** | 2/2 |
+| **Improved Seals** | 5/5 |
 | **Divine Favor** | 1/1 |
-| **Divine Precision** | 2/3 |
-| **Holy Shock** | 1/1 |
+| **Illumination** | 2/5 |
+| **Divine Precision** | 2/2 |
+| **Infusion of Light** | 2/2 |
 | **Consecrated Ground** | 2/2 |
+| **Holy Shock** | 1/1 |
 | **Holy Power** | 1/5 |
 
 Holy Shock is een instant stoot Holy-schade, of een instant heal op een bondgenoot. Improved Seals verhoogt de schade van je seals en Judgements. Reverence laat een deel van je manaregeneratie doorlopen terwijl je cast, en Divine Precision laat je Holy-spells minder missen.

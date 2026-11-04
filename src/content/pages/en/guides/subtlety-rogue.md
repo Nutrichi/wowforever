@@ -1,17 +1,17 @@
 ---
 title: "Subtlety Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush and bleed builds to 60"
-description: "The Subtlety Rogue in WoW Forever: an Ambush build with Cutthroat and a bleed build with Hemorrhage and Thousand Cuts, for level 30 and level 60, with rotations, Energy, poisons and races."
+description: "The Subtlety Rogue in WoW Forever: an Ambush build and a bleed build, both with Death Mark, for level 30 and level 60, with rotations, Energy, Shank, poisons and races."
 short: "Subtlety Rogue"
-updated: 2026-11-03
+updated: 2026-11-04
 lang: en
 faq:
   - q: "Is Subtlety Rogue good in PvE in WoW Forever?"
-    a: "Yes, for the first time. Forever gave Subtlety two real PvE builds: one with critical Ambushes that Cutthroat lets you use in combat, and one with bleeds, Hemorrhage and Thousand Cuts. Both shine in long fights, and poisons can now land critical strikes and scale with attack power."
-  - q: "What does Cutthroat do?"
-    a: "It is a new Subtlety talent: Backstab gets a 15% chance per point, up to 5 points, to let you use your next Ambush within 10 seconds without Stealth. It turns Ambush from an opener into a regular attack."
-  - q: "What does Thousand Cuts do?"
-    a: "It is the new last talent of the Subtlety tree: every tick of Rupture lowers the Energy cost of your next Hemorrhage or Backstab by 3, stacking up to 5 times."
+    a: "Yes, for the first time. Forever gave Subtlety two real PvE builds: one with critical Ambushes, which Ghostly Strike lets you use in combat, and one with bleeds and Hemorrhage. Both end in Death Mark, and poisons can now land critical strikes and scale with attack power."
+  - q: "What does Death Mark do?"
+    a: "It is the last talent of the Subtlety tree since 2 November: a finishing move that stores part of your damage per Combo Point, Garrote and Rupture at twice the rate, and deals it after 6 seconds. 25 Energy, 20 yards, 10 second cooldown."
+  - q: "What does Boot Knife do?"
+    a: "It is new in the sixth row: at 5/5 every Shank adds 2 Combo Points. Shank is a cheap off-hand strike that every Rogue learns at level 24."
   - q: "Ambush or bleed: which Subtlety build should I pick?"
     a: "The Ambush build needs daggers and needs to stand behind the target, so it is best in dungeons and raids. The bleed build ignores armor and works anywhere, also when you fight a monster alone, but some monsters are immune to bleeds."
   - q: "Which race is best for a Subtlety Rogue?"
@@ -22,22 +22,22 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/subtlety-rogue/"
 ---
-> **Update 3 November:** the development notes of 2 November change this class a lot, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/). The new trees are now in our talent calculator, but the builds and talents below do not follow them everywhere yet. We update this guide soon.
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-The Subtlety Rogue in WoW Forever finally has two real PvE builds. One deals huge critical Ambushes, and the new talent Cutthroat lets you use Ambush in combat. The other builds on bleeds, with Hemorrhage, a stronger Rupture and the new Thousand Cuts. Poisons can now land critical strikes and scale with attack power too. This guide covers both builds for level 30 and 60, the rotations, Energy, poisons, survival, stats and races.
+The Subtlety Rogue in WoW Forever has two real PvE builds. One deals huge critical Ambushes, and Ghostly Strike lets you use Ambush in combat. The other is built on bleeds, with Hemorrhage and a stronger Rupture. Both end in Death Mark, a finishing move that stores your damage and releases it later. Poisons now land critical strikes and scale with attack power. This guide covers both builds for level 30 and 60, the rotations, Energy, poisons, survival, stats and races.
 
 | | |
 |---|---|
 | Role | Melee damage, with daggers or bleeds |
-| Builds | Ambush with Cutthroat (10/11/30) and bleed with Thousand Cuts (12/8/31) at level 60 |
-| Key talents | Malice, Opportunity, Initiative, Ghostly Strike, Serrated Blades, Preparation, Hemorrhage, Cutthroat, Thousand Cuts |
+| Builds | Ambush (10/10/31) and bleed (12/8/31), both with Death Mark, at level 60 |
+| Key talents | Malice, Opportunity, Initiative, Ghostly Strike, Serrated Blades, Preparation, Hemorrhage, Boot Knife, Death Mark |
 | Strength | Two playstyles, bleeds ignore armor, lots of crowd control |
 | Weakness | Needs gear, best talents only at high level |
 | Leveling | [Rogue leveling guide](/guides/rogue-leveling/), [Rogue level build](/leveling/rogue/) |
 
 ## Strengths and weaknesses
 
-**Two playstyles.** Ambush with Cutthroat or bleeds with Hemorrhage. Both hold up well in long fights.
+**Two playstyles.** Ambush with Ghostly Strike or bleeds with Hemorrhage, both ending in Death Mark. Both hold up well in long fights.
 
 **Bleeds ignore armor.** Rupture and Garrote ignore armor completely, which pays off against heavily armored monsters and bosses.
 
@@ -53,68 +53,69 @@ The Subtlety Rogue in WoW Forever finally has two real PvE builds. One deals hug
 
 At level 30 you have 21 points, and Talented adds 5. Both builds are explained in our [Rogue leveling guide](/guides/rogue-leveling/).
 
-- **Ambush:** kills monsters as fast as possible with critical Ambushes from Stealth. [Open the build](/talents/rogue/?t=02-02-032320331), [Talented version](/talents/rogue/?t=025-02-032320331).
+- **Ambush:** kills monsters as fast as possible with critical Ambushes from Stealth. [Open the build](/talents/rogue/?t=02--333003031021), [Talented version](/talents/rogue/?t=025--333003031021).
 - **Bleed:** Garrote, Hemorrhage and Rupture, with Serrated Blades for a stronger Rupture and Preparation for an extra Slice and Dice. [Open the build](/talents/rogue/?t=--3320002313210001), [Talented version](/talents/rogue/?t=002--3322002313210011).
 
-## Level 60 Ambush build with Cutthroat: 10/11/30
+## Level 60 Ambush build with Death Mark: 10/10/31
 
-The beta stopped at level 30, but the talent trees for level 60 are in the game files. We checked this build point for point in [our talent calculator](/talents/rogue/?t=005023-302303-032322331001301105). Cutthroat makes Backstab your main generator and gives you procs to Ambush in combat. Serrated Blades adds 9% armor penetration, and Hemorrhage covers fights where you cannot stand behind the monster.
+The beta stopped at level 30, but the talent trees for level 60 are in the game files. We checked this build point for point in [our talent calculator](/talents/rogue/?t=025003-302302-335003231321001121). Backstab is your main generator, and Ghostly Strike lets your next Ambush skip Stealth. Serrated Blades adds 9% armor penetration, Hemorrhage covers fights where you cannot stand behind the monster, and Death Mark at the bottom stores your damage and releases it after 6 seconds.
 
 | Talent | Points |
 |---|---|
+| **Remorseless Attacks** (Assassination) | 2/2 |
 | **Malice** (Assassination) | 5/5 |
-| **Murder** (Assassination) | 2/2 |
 | **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Improved Eviscerate** (Combat) | 3/3 |
+| **Coup de Grace** (Combat) | 3/3 |
 | **Lightning Reflexes** (Combat) | 2/5 |
 | **Puncturing Wounds** (Combat) | 3/3 |
-| **Precision** (Combat) | 3/3 |
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 2/2 |
+| **Precision** (Combat) | 2/3 |
 | **Setup** | 3/3 |
-| **Elusiveness** | 2/2 |
-| **Dirty Tricks** | 2/2 |
+| **Master of Deception** | 3/3 |
+| **Opportunity** | 5/5 |
 | **Improved Ambush** | 3/3 |
+| **Dirty Tricks** | 2/2 |
 | **Initiative** | 3/3 |
-| **Ghostly Strike** | 1/1 |
 | **Premeditation** | 1/1 |
 | **Serrated Blades** | 3/3 |
+| **Elusiveness** | 2/2 |
+| **Ghostly Strike** | 1/1 |
 | **Preparation** | 1/1 |
 | **Hemorrhage** | 1/1 |
-| **Cutthroat** | 5/5 |
+| **Boot Knife** | 2/5 |
+| **Death Mark** | 1/1 |
 
-![The Subtlety Rogue Ambush build with Cutthroat in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-subtlety-rogue-build.jpg)
+![The Subtlety Rogue Ambush build with Death Mark in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-subtlety-rogue-build.jpg)
 
-There are not enough points left for Relentless Strikes, so Murder takes the last 2 points in Assassination. Ruthlessness 2/3 is an alternative, with a lower chance to proc.
+Murder is gone since 2 November, so the last 2 points in Assassination go to Remorseless Attacks. Ruthlessness 2/3 is an alternative.
 
-## Level 60 bleed build with Thousand Cuts: 12/8/31
+## Level 60 bleed build with Death Mark: 12/8/31
 
-All the way down the Subtlety tree. [Open the build in the talent calculator](/talents/rogue/?t=0053031-302003-1323220310013211501). Quietus raises the damage of Hemorrhage and Ghostly Strike against monsters below 35% health, and Thousand Cuts makes Hemorrhage cheaper with every tick of Rupture.
+All the way down the Subtlety tree. [Open the build in the talent calculator](/talents/rogue/?t=015303-302003-332210231321001151). Hemorrhage makes your Rupture and Garrote hit 15% harder, Boot Knife 5/5 turns every Shank into 2 Combo Points, and Death Mark stores Garrote and Rupture damage at twice the rate.
 
 | Talent | Points |
 |---|---|
+| **Remorseless Attacks** (Assassination) | 1/2 |
 | **Malice** (Assassination) | 5/5 |
 | **Ruthlessness** (Assassination) | 3/3 |
 | **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Relentless Strikes** (Assassination) | 1/1 |
-| **Improved Eviscerate** (Combat) | 3/3 |
+| **Coup de Grace** (Combat) | 3/3 |
 | **Lightning Reflexes** (Combat) | 2/5 |
 | **Precision** (Combat) | 3/3 |
-| **Camouflage** | 1/5 |
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 2/2 |
 | **Setup** | 3/3 |
-| **Elusiveness** | 2/2 |
+| **Master of Deception** | 3/3 |
+| **Opportunity** | 2/5 |
+| **Dirty Deeds** | 2/2 |
+| **Camouflage** | 1/3 |
 | **Dirty Tricks** | 2/2 |
 | **Initiative** | 3/3 |
-| **Ghostly Strike** | 1/1 |
 | **Premeditation** | 1/1 |
 | **Serrated Blades** | 3/3 |
-| **Dirty Deeds** | 2/2 |
+| **Elusiveness** | 2/2 |
+| **Ghostly Strike** | 1/1 |
 | **Preparation** | 1/1 |
 | **Hemorrhage** | 1/1 |
-| **Quietus** | 5/5 |
-| **Thousand Cuts** | 1/1 |
+| **Boot Knife** | 5/5 |
+| **Death Mark** | 1/1 |
 
 ## What the key talents do
 
@@ -124,21 +125,19 @@ All the way down the Subtlety tree. [Open the build in the talent calculator](/t
 | **Remorseless Attacks** | After a kill, 40% more critical strike chance on your next Sinister Strike, Backstab, Ambush, Mutilate or Ghostly Strike |
 | **Ruthlessness** | Finishing moves have a 60% chance to add a Combo Point |
 | **Improved Slice and Dice** | Slice and Dice lasts 45% longer |
-| **Relentless Strikes** | Finishing moves have a 20% chance per Combo Point to restore 25 Energy |
 | **Precision** | 3% more chance to hit |
-| **Opportunity** | Backstab, Garrote, Ambush and Mutilate deal 10% more damage |
+| **Opportunity** | Backstab, Garrote, Ambush and Mutilate deal up to 20% more damage, at 5/5 |
 | **Master of Deception** | Monsters detect you in Stealth as if you were 3 levels higher |
-| **Setup** | A Combo Point whenever you dodge an attack or resist a spell |
+| **Setup** | At 3/3: a 45% chance for a Combo Point when you dodge an attack or resist a spell |
 | **Initiative** | Ambush, Garrote and Cheap Shot add an extra Combo Point |
-| **Ghostly Strike** | 180% weapon damage with a dagger and 15% more dodge for 7 seconds |
+| **Ghostly Strike** | 180% weapon damage with a dagger, 15% more dodge for 7 seconds, and your next Ambush or Garrote within 7 seconds needs no Stealth |
 | **Serrated Blades** | Your attacks ignore 9% armor, and Rupture deals 30% more damage |
 | **Premeditation** | Adds 2 Combo Points to your target |
 | **Preparation** | Finishes the cooldown of your other Rogue abilities |
 | **Hemorrhage** | 145% weapon damage with a dagger, and 15% more Rupture damage on the target for 15 seconds |
 | **Dirty Deeds** | Cheap Shot and Garrote cost 20 Energy less, and Garrote no longer needs you behind the target |
-| **Quietus** | Sinister Strike, Ghostly Strike and Hemorrhage deal 10% more damage below 35% health |
-| **Cutthroat** | Backstab has a 15% chance to let your next Ambush within 10 seconds skip Stealth |
-| **Thousand Cuts** | Every tick of Rupture makes your next Hemorrhage or Backstab 3 Energy cheaper, up to 5 times |
+| **Boot Knife** | At 5/5 every Shank adds 2 Combo Points |
+| **Death Mark** | A finishing move that stores part of your damage per Combo Point, Garrote and Rupture at twice the rate, and deals it after 6 seconds. 25 Energy, 10 second cooldown |
 
 ## Rotation
 
@@ -148,10 +147,10 @@ All the way down the Subtlety tree. [Open the build in the talent calculator](/t
 2. Open with Ambush.
 3. Stay behind the target and use Backstab as your generator. Where you cannot stand behind it, use Hemorrhage.
 4. Use Ghostly Strike on cooldown.
-5. Use Ambush whenever Cutthroat procs and you have fewer than 5 Combo Points. At 5, use a finishing move first.
+5. Use Ambush right after Ghostly Strike, which lets it skip Stealth for 7 seconds. At 5 Combo Points, use a finishing move first.
 6. At 5 Combo Points, cast Slice and Dice and renew it when it runs out.
 7. In long fights, cast Expose Armor at the next 5 Combo Points.
-8. Spend the rest on Eviscerate.
+8. Cast Death Mark at 5 Combo Points whenever it is ready, and spend the rest on Eviscerate.
 9. Vanish and Ambush for burst, and Preparation to reset your cooldowns or to escape.
 
 ### Bleed build
@@ -160,8 +159,8 @@ All the way down the Subtlety tree. [Open the build in the talent calculator](/t
 2. Open with Garrote.
 3. Use Hemorrhage as your generator and Ghostly Strike on cooldown.
 4. At 5 Combo Points, cast Slice and Dice, then Rupture at the next 5.
-5. Spend Thousand Cuts on Hemorrhage before or at 5 stacks.
-6. Spend the rest on Eviscerate, and Expose Armor on bosses if your group needs it.
+5. Use Shank whenever it is ready: with Boot Knife it adds 2 Combo Points.
+6. Cast Death Mark at 5 Combo Points while Garrote and Rupture tick, the rest on Eviscerate, and Expose Armor on bosses if your group needs it.
 7. Vanish and Garrote for burst, and Preparation to reset your cooldowns or to escape.
 
 ### Several monsters
@@ -172,11 +171,11 @@ Rogues have no area attacks: kill one monster at a time. Never switch targets wh
 
 Stealth slows you, up to 50% at low levels and 30% at level 60, so you do not travel in it, but you do use it against most monsters. In Stealth you get openers: Ambush for a big hit, Garrote for a bleed, Sap and Cheap Shot to disable.
 
-Your generators are Sinister Strike at first, later Backstab, Ghostly Strike and Hemorrhage. Your finishing moves are Eviscerate, Slice and Dice, Expose Armor and Rupture. Keeping Slice and Dice up is the biggest damage boost you have. Kidney Shot stuns a dangerous monster.
+Your generators are Sinister Strike at first, later Backstab, Ghostly Strike and Hemorrhage, plus Shank from level 24. Your finishing moves are Eviscerate, Slice and Dice, Expose Armor, Rupture and, at the bottom of the tree, Death Mark. Keeping Slice and Dice up is the biggest damage boost you have. Kidney Shot stuns a dangerous monster.
 
 ## Energy
 
-Energy now regenerates smoothly, 1 point every 0.1 seconds, so 10 per second. Thousand Cuts saves up to 15 Energy on a Hemorrhage, and Thistle Tea gives a large amount back on a long cooldown. Otherwise: never build a Combo Point above 5, and do not spend Energy on Kick, Feint, Gouge or Blind without a reason.
+Energy now regenerates smoothly, 1 point every 0.1 seconds, so 10 per second. Shank, from level 24, costs 5 Energy and gives 15 back every 10 seconds, and Thistle Tea gives a large amount back on a long cooldown. Otherwise: never build a Combo Point above 5, and do not spend Energy on Kick, Feint, Gouge or Blind without a reason.
 
 ## Poisons
 

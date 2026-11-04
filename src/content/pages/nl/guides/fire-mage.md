@@ -3,7 +3,7 @@ title: "Fire Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Fire Mage: Heating Up-build, rotatie en stats"
 description: "De Fire Mage in WoW Forever: Heating Up en de nieuwe Fire Power, twee builds voor level 30 voor dungeons en solo, de Pyroblast-rotatie, mana, stats en races."
 short: "Fire Mage"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: nl
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Wat doet Fire Power nu?"
     a: "Het telt je Fire-effecten op het doelwit: de brand van Fireball, Improved Scorch, Ignite en de brand van Pyroblast. Elk effect geeft 1% Fire-schade per punt, tot 3% per effect en 12% bij 3/3. De bonus staat niet als buff in beeld."
   - q: "Welke build is beter, dungeon of solo?"
-    a: "Dungeon tegen bazen boven je level: Elemental Precision zorgt dat je spells niet missen. Solo tegen monsters op of onder je level: je laat de hit chance vallen en neemt Critical Mass voor meer critical strikes."
+    a: "Dungeon tegen bazen boven je level: Precision zorgt dat je spells niet missen. Solo tegen monsters op of onder je level: je laat de hit chance vallen en neemt Critical Mass voor meer critical strikes."
   - q: "Kan ik Ignite nog laten doorrollen?"
     a: "Nee. Ignite is in Forever verzwakt en brandt nu voor 40% van de critical strike over 4 seconden. Ignite rolling is het niet meer waard om rond te spelen."
   - q: "Welk ras is het beste voor een Fire Mage?"
@@ -40,7 +40,7 @@ De Fire Mage in WoW Forever leeft van critical strikes. Heating Up maakt van cri
 ## Wat er verandert voor Fire
 
 - **Heating Up is nieuw.** Een talent op level 25. Elke niet-periodieke critical strike met Fireball, Frostfire Bolt, Fire Blast of Scorch maakt je volgende Pyroblast binnen 20 seconden 25% sneller, tot 3 stacks. Fire Blast geeft een stack bij elke treffer.
-- **Critical Mass is sterker.** 2% critical strike chance voor Fire-spells per punt, 10% bij 5/5.
+- **Critical Mass is sterker.** 2% critical strike chance voor Fire-spells per punt, 6% bij 3/3.
 - **Fire Power is herwerkt.** Het telt nu je Fire-effecten op het doelwit, tot vier: 3% meer Fire-schade per effect bij 3/3, dus hoogstens 12%.
 - **Ignite is zwakker.** Het brandt voor 40% van de critical strike over 4 seconden. Ignite van de ene crit naar de volgende laten doorrollen loont niet meer.
 - **Flamestrike stapelt niet meer.** Er blijft maar één brand van Flamestrike op een doelwit.
@@ -60,52 +60,52 @@ Beide builds gebruiken de 21 punten die je op level 30 hebt. Talented uit het Le
 
 ### Dungeonbuild
 
-Voor dungeons en bazen boven je level. 2/5 Elemental Precision in Frost zorgt dat je spells niet missen, en 3/3 Improved Scorch zit er ook zonder Talented in, omdat de bonus op Fire-schade zo sterk is. Voor Critical Mass of Master of Elements blijven geen punten over zonder hit chance op te geven. [Open de build in de talentcalculator](/nl/talents/mage/?t=-015500301301-002).
+Voor dungeons en bazen boven je level. 2/3 Precision in Frost zorgt dat je spells niet missen, en 3/3 Improved Scorch zit er ook zonder Talented in, omdat de bonus op Fire-schade zo sterk is. Voor Critical Mass of Master of Elements blijven geen punten over zonder hit chance op te geven. [Open de build in de talentcalculator](/nl/talents/mage/?t=-155003010301-002).
 
 | Talent | Punten |
 |---|---|
-| **Improved Fireball** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 1/3 |
+| **Incineration** | 1/5 |
+| **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
 | **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Elemental Precision** | 2/5 |
+| **Precision** | 2/3 |
 
-[Open de Talented-versie](/nl/talents/mage/?t=-02550030130103-003) met Incineration 2/3, Critical Mass 3/5 en Elemental Precision 3/5.
+[Open de Talented-versie](/nl/talents/mage/?t=-25500301030103-003) met Incineration 2/5, Critical Mass 3/3 en Precision 3/3.
 
 ### Solobuild
 
-Om te questen tegen monsters op of onder je level, dus zonder Elemental Precision. Alle punten gaan naar Fire, met Incineration 2/3 en het eerste punt van Critical Mass voor meer critical strikes. [Open de build in de talentcalculator](/nl/talents/mage/?t=-02550030130101).
+Om te questen tegen monsters op of onder je level, dus zonder Precision. Alle punten gaan naar Fire, met Incineration 2/5 en het eerste punt van Critical Mass voor meer critical strikes. [Open de build in de talentcalculator](/nl/talents/mage/?t=-25500301030101).
 
 | Talent | Punten |
 |---|---|
-| **Improved Fireball** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 2/3 |
+| **Incineration** | 2/5 |
+| **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
 | **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Critical Mass** | 1/5 |
+| **Critical Mass** | 1/3 |
 
-[Open de Talented-versie](/nl/talents/mage/?t=-0255003013010501) met Critical Mass 5/5 en Fire Power 1/3. Meer burst? Neem <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> in plaats van Fire Power, voor een aanval rondom je om de 45 seconden. De [levelbuild voor de Mage](/nl/leveling/mage/) geeft een talent voor elk level van 10 tot 35.
+[Open de Talented-versie](/nl/talents/mage/?t=-4550030103010301) met Incineration 4/5, Critical Mass 3/3 en Fire Power 1/3. Meer burst? Neem <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> in plaats van Fire Power, voor een aanval rondom je om de 45 seconden. De [levelbuild voor de Mage](/nl/leveling/mage/) geeft een talent voor elk level van 10 tot 35.
 
 ### Wat de belangrijkste talenten doen
 
 | Talent | Wat het doet in Forever |
 |---|---|
-| **Improved Fireball** | Fireball en Frostfire Bolt casten 0,5 seconde sneller bij 5/5. Verplicht |
+| **Accelerant** | Fireball en Frostfire Bolt casten 0,5 seconde sneller bij 5/5. Verplicht |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 6% meer critical strike chance voor Fire Blast en Scorch bij 3/3, ook voor Arcane Blast en Ice Lance. Elk punt betekent meer Heating Up |
 | **Ignite** | Elke critical strike met Fire laat het doelwit branden voor 40% van de schade over 4 seconden |
 | **Pyroblast** | Een lange cast met zware schade en een brand. Het hart van de spec |
 | **Burning Soul** | 70% kans om door te casten als je schade krijgt, en 30% minder threat van Fire-spells |
 | **Improved Scorch** | Elke Scorch geeft een stack: 3% meer Fire-schade van jou per stack, 15% bij 5 stacks |
 | **Heating Up** | Tot 75% snellere Pyroblast na critical strikes. Zonder dit valt de spec uit elkaar |
-| **Critical Mass** | 10% meer critical strike chance voor Fire-spells bij 5/5 |
+| **Critical Mass** | 6% meer critical strike chance voor Fire-spells bij 3/3 |
 | **Fire Power** | Meer Fire-schade voor elk Fire-effect op het doelwit, zie verderop |
-| **Elemental Precision** | 1% meer kans om te raken met Fire- en Frost-spells per punt. Nodig tegen bazen |
+| **Precision** | 1% meer kans om te raken met Fire- en Frost-spells per punt. Nodig tegen bazen |
 
 ## Rotatie
 

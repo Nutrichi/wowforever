@@ -3,7 +3,7 @@ title: "Guida al Fire Mage in WoW Forever"
 metaTitle: "WoW Forever Fire Mage: build Heating Up, rotazione e stats"
 description: "Il Fire Mage in WoW Forever: Heating Up e il nuovo Fire Power, due build di livello 30 per dungeon e solo, la rotazione Pyroblast, mana, stats e razze."
 short: "Fire Mage"
-updated: 2026-10-27
+updated: 2026-10-31
 lang: it
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Cosa fa ora Fire Power?"
     a: "Conta i tuoi effetti di Fuoco sul bersaglio: la bruciatura di Fireball, Improved Scorch, Ignite e la bruciatura di Pyroblast. Ogni effetto aggiunge l’1% di danni da Fuoco per punto, fino al 3% per effetto e al 12% con 3/3. Il bonus non appare come buff."
   - q: "Quale build è meglio, dungeon o solitario?"
-    a: "Dungeon contro boss di livello superiore: Elemental Precision evita che i tuoi incantesimi manchino. Solitario contro mostri del tuo livello o più deboli: lasci perdere la probabilità di colpire e prendi Critical Mass per più critici."
+    a: "Dungeon contro boss di livello superiore: Precision evita che i tuoi incantesimi manchino. Solitario contro mostri del tuo livello o più deboli: lasci perdere la probabilità di colpire e prendi Critical Mass per più critici."
   - q: "Si può ancora far rotolare Ignite?"
     a: "No. Ignite è stato indebolito in Forever e ora brucia per il 40% del critico in 4 secondi. L’Ignite rolling non vale più la pena."
   - q: "Qual è la razza migliore per un Fire Mage?"
@@ -40,7 +40,7 @@ Il Fire Mage di WoW Forever vive di colpi critici. Heating Up trasforma i critic
 ## Cosa cambia per Fire
 
 - **Heating Up è nuovo.** Un talento al livello 25. Ogni colpo critico non periodico con Fireball, Frostfire Bolt, Fire Blast o Scorch rende il tuo prossimo Pyroblast entro 20 secondi più veloce del 25%, fino a 3 accumuli. Fire Blast dà un accumulo a ogni colpo.
-- **Critical Mass è più forte.** Il 2% di probabilità di critico per gli incantesimi di Fuoco per punto, il 10% con 5/5.
+- **Critical Mass è più forte.** Il 2% di probabilità di critico per gli incantesimi di Fuoco per punto, il 6% con 3/3.
 - **Fire Power è rifatto.** Ora conta i tuoi effetti di Fuoco sul bersaglio, fino a quattro: il 3% di danni da Fuoco in più per effetto con 3/3, quindi al massimo il 12%.
 - **Ignite è più debole.** Brucia per il 40% del critico in 4 secondi. Far rotolare Ignite da un critico all’altro non conviene più.
 - **Flamestrike non si accumula più.** Su un bersaglio resta una sola bruciatura di Flamestrike.
@@ -60,52 +60,52 @@ Entrambe le build usano i 21 punti che hai al livello 30. Talented, dal sistema 
 
 ### Build da dungeon
 
-Per i dungeon e i boss di livello superiore. 2/5 in Elemental Precision in Frost evita che i tuoi incantesimi manchino, e 3/3 in Improved Scorch entra anche senza Talented, perché il bonus ai danni da Fuoco è molto forte. Non restano punti per Critical Mass o Master of Elements senza rinunciare alla probabilità di colpire. [Apri la build nel calcolatore dei talenti](/it/talents/mage/?t=-015500301301-002).
+Per i dungeon e i boss di livello superiore. 2/5 in Precision in Frost evita che i tuoi incantesimi manchino, e 3/3 in Improved Scorch entra anche senza Talented, perché il bonus ai danni da Fuoco è molto forte. Non restano punti per Critical Mass o Master of Elements senza rinunciare alla probabilità di colpire. [Apri la build nel calcolatore dei talenti](/it/talents/mage/?t=-155003010301-002).
 
 | Talento | Punti |
 |---|---|
-| **Improved Fireball** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 1/3 |
+| **Incineration** | 1/5 |
+| **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
 | **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Elemental Precision** | 2/5 |
+| **Precision** | 2/3 |
 
-[Apri la versione Talented](/it/talents/mage/?t=-02550030130103-003) con Incineration 2/3, Critical Mass 3/5 ed Elemental Precision 3/5.
+[Apri la versione Talented](/it/talents/mage/?t=-25500301030103-003) con Incineration 2/5, Critical Mass 3/3 e Precision 3/3.
 
 ### Build in solitario
 
-Per le quest contro mostri del tuo livello o più deboli, quindi senza Elemental Precision. Tutti i punti vanno in Fire, con Incineration 2/3 e il primo punto di Critical Mass per più critici. [Apri la build nel calcolatore dei talenti](/it/talents/mage/?t=-02550030130101).
+Per le quest contro mostri del tuo livello o più deboli, quindi senza Precision. Tutti i punti vanno in Fire, con Incineration 2/5 e il primo punto di Critical Mass per più critici. [Apri la build nel calcolatore dei talenti](/it/talents/mage/?t=-25500301030101).
 
 | Talento | Punti |
 |---|---|
-| **Improved Fireball** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | 2/3 |
+| **Incineration** | 2/5 |
+| **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
 | **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Critical Mass** | 1/5 |
+| **Critical Mass** | 1/3 |
 
-[Apri la versione Talented](/it/talents/mage/?t=-0255003013010501) con Critical Mass 5/5 e Fire Power 1/3. Vuoi più burst? Prendi <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> al posto di Fire Power, per un attacco ad area ogni 45 secondi. La [build di leveling del Mage](/it/leveling/mage/) dà un talento per ogni livello dal 10 al 35.
+[Apri la versione Talented](/it/talents/mage/?t=-4550030103010301) con Incineration 4/5, Critical Mass 3/3 e Fire Power 1/3. Vuoi più burst? Prendi <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> al posto di Fire Power, per un attacco ad area ogni 45 secondi. La [build di leveling del Mage](/it/leveling/mage/) dà un talento per ogni livello dal 10 al 35.
 
 ### Cosa fanno i talenti chiave
 
 | Talento | Cosa fa in Forever |
 |---|---|
-| **Improved Fireball** | Fireball e Frostfire Bolt si lanciano 0,5 secondi più in fretta con 5/5. Obbligatorio |
+| **Accelerant** | Fireball e Frostfire Bolt si lanciano 0,5 secondi più in fretta con 5/5. Obbligatorio |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a>** | Il 6% di probabilità di critico in più per Fire Blast e Scorch con 3/3, anche per Arcane Blast e Ice Lance. Ogni punto dà più Heating Up |
 | **Ignite** | Ogni critico di Fuoco fa bruciare il bersaglio per il 40% dei danni in 4 secondi |
 | **Pyroblast** | Un lancio lungo con danni pesanti e una bruciatura. Il cuore della spec |
 | **Burning Soul** | Il 70% di probabilità di continuare il lancio quando subisci danni, e il 30% di minaccia in meno con gli incantesimi di Fuoco |
 | **Improved Scorch** | Ogni Scorch aggiunge un accumulo: il 3% di danni da Fuoco in più da parte tua per accumulo, il 15% con 5 |
 | **Heating Up** | Pyroblast fino al 75% più veloce dopo i critici. Senza, la spec crolla |
-| **Critical Mass** | Il 10% di probabilità di critico in più per gli incantesimi di Fuoco con 5/5 |
+| **Critical Mass** | Il 6% di probabilità di critico in più per gli incantesimi di Fuoco con 3/3 |
 | **Fire Power** | Più danni da Fuoco per ogni effetto di Fuoco sul bersaglio, vedi sotto |
-| **Elemental Precision** | L’1% di probabilità di colpire in più con gli incantesimi di Fuoco e Gelo per punto. Necessario contro i boss |
+| **Precision** | L’1% di probabilità di colpire in più con gli incantesimi di Fuoco e Gelo per punto. Necessario contro i boss |
 
 ## Rotazione
 
