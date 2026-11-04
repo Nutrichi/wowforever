@@ -24,7 +24,7 @@
  */
 import type { Locale } from '../i18n/ui';
 import { localizePath, useTranslations } from '../i18n/utils';
-import { foreverHubPath, launchDate } from '../config/site';
+import { foreverHubPath, launchDate, raidsDate } from '../config/site';
 import KofiPill from './KofiPill.astro';
 import LivePill from './LivePill.astro';
 import RestedXpPill from './RestedXpPill.astro';
@@ -46,7 +46,17 @@ function split(msLeft: number) {
   return { days: Math.floor(ms / day), hours: Math.floor((ms % day) / hour) };
 }
 
-const initial = split(new Date(launchDate).getTime() - Date.now());
+/*
+ * Tot de launch telt de chip af naar de launch, daarna naar de eerste raids
+ * (Nutri, 4 november 2026). De build kiest de stand, het script in de browser
+ * schakelt zelf om als de launch voorbij is.
+ */
+const phases = [
+  { at: launchDate, label: t('countdown.label'), pattern: t('countdown.aria') },
+  { at: raidsDate, label: t('countdown.raidsLabel'), pattern: t('countdown.raidsAria') },
+];
+const phase = phases.find((p) => new Date(p.at).getTime() > Date.now()) ?? phases[phases.length - 1];
+const initial = split(new Date(phase.at).getTime() - Date.now());
 const pad = (n: number) => String(n).padStart(2, '0');
 
 /* Enkelvoud en meervoud per eenheid, voor de zin van de schermlezer. */
@@ -62,7 +72,7 @@ const fill = (pattern: string, d: number, h: number) =>
     .replace('{du}', d === 1 ? units.d[0] : units.d[1])
     .replace('{hu}', h === 1 ? units.h[0] : units.h[1]);
 
-const ariaText = fill(t('countdown.aria'), initial.days, initial.hours);
+const ariaText = fill(phase.pattern, initial.days, initial.hours);
 /* Met slash op het einde, zoals de menulinks: zo stuurt GitHub Pages niet eerst door. */
 const hubHref = foreverHubPath ? `${localizePath(foreverHubPath, locale)}/` : '';
 const ChipTag = hubHref ? 'a' : 'span';
@@ -71,19 +81,20 @@ const ChipTag = hubHref ? 'a' : 'span';
 <div
   class="wf-bar"
   data-wf-countdown
-  data-target={launchDate}
+  data-target={phase.at}
+  data-phases={JSON.stringify(phases)}
   data-units={JSON.stringify(units)}
 >
   <div class:list={['wf-bar__inner', { 'has-content': hasContent }]}>
     <ChipTag class="wf-chip" href={hubHref || undefined}>
       <span class="wf-chip__diamond" aria-hidden="true"></span>
-      <span class="wf-chip__label" aria-hidden="true">{t('countdown.label')}</span>
+      <span class="wf-chip__label" aria-hidden="true" data-wf-label>{phase.label}</span>
       <span class="wf-chip__value wf-nums" aria-hidden="true">
         <span data-wf-days>{initial.days}</span>{t('countdown.dayUnit')}
         <span data-wf-hours>{pad(initial.hours)}</span>{t('countdown.hourUnit')}
       </span>
       <!-- Een schermlezer krijgt één rustige zin in plaats van losse cijfers. -->
-      <span class="wf-sr" data-wf-countdown-sr data-pattern={t('countdown.aria')}>{ariaText}</span>
+      <span class="wf-sr" data-wf-countdown-sr data-pattern={phase.pattern}>{ariaText}</span>
     </ChipTag>
 
     {hasContent && <span class="wf-bar__rule" aria-hidden="true"></span>}
@@ -226,7 +237,10 @@ const ChipTag = hubHref ? 'a' : 'span';
   const root = document.querySelector<HTMLElement>('[data-wf-countdown]');
 
   if (root) {
-    const target = new Date(root.dataset.target ?? '').getTime();
+    type Phase = { at: string; label: string; pattern: string };
+    const phases: Phase[] = JSON.parse(root.dataset.phases ?? '[]');
+    const labelEl = root.querySelector<HTMLElement>('[data-wf-label]');
+    let target = new Date(root.dataset.target ?? '').getTime();
     const daysEl = root.querySelector<HTMLElement>('[data-wf-days]');
     const hoursEl = root.querySelector<HTMLElement>('[data-wf-hours]');
     const srEl = root.querySelector<HTMLElement>('[data-wf-countdown-sr]');
@@ -235,6 +249,13 @@ const ChipTag = hubHref ? 'a' : 'span';
     const pad = (n: number) => String(n).padStart(2, '0');
 
     const tick = () => {
+      // Voorbij de launch: door naar de volgende mijlpaal, ook zonder nieuwe build.
+      const phase = phases.find((p) => new Date(p.at).getTime() > Date.now());
+      if (phase) {
+        target = new Date(phase.at).getTime();
+        if (labelEl) labelEl.textContent = phase.label;
+        if (srEl) srEl.dataset.pattern = phase.pattern;
+      }
       const ms = Math.max(0, target - Date.now());
       const hour = 3_600_000;
       const days = Math.floor(ms / (24 * hour));

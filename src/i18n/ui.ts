@@ -105,6 +105,8 @@ export const ui = {
     'countdown.hoursOne': 'hour',
     'countdown.hoursMany': 'hours',
     'countdown.aria': '{d} {du} and {h} {hu} until WoW Forever launches on 4 November 2026',
+    'countdown.raidsLabel': 'Raids in',
+    'countdown.raidsAria': '{d} {du} and {h} {hu} until the first raids of WoW Forever open on 9 December 2026',
 
     'restedxp.wide': 'RESTEDXP · 10% OFF',
     'restedxp.short': '−10%',
@@ -258,6 +260,8 @@ export const ui = {
     'countdown.hoursOne': 'uur',
     'countdown.hoursMany': 'uur',
     'countdown.aria': '{d} {du} en {h} {hu} tot de launch van WoW Forever op 4 november 2026',
+    'countdown.raidsLabel': 'Raids over',
+    'countdown.raidsAria': '{d} {du} en {h} {hu} tot de eerste raids van WoW Forever op 9 december 2026 opengaan',
 
     'restedxp.wide': 'RESTEDXP · 10% KORTING',
     'restedxp.short': '−10%',
@@ -405,6 +409,8 @@ export const ui = {
     'countdown.hoursOne': 'heure',
     'countdown.hoursMany': 'heures',
     'countdown.aria': '{d} {du} et {h} {hu} avant la sortie de WoW Forever le 4 novembre 2026',
+    'countdown.raidsLabel': 'Raids dans',
+    'countdown.raidsAria': '{d} {du} et {h} {hu} avant l’ouverture des premiers raids de WoW Forever le 9 décembre 2026',
 
     'restedxp.wide': 'RESTEDXP · 10 % DE RÉDUCTION',
     'restedxp.short': '−10 %',
@@ -552,6 +558,8 @@ export const ui = {
     'countdown.hoursOne': 'hora',
     'countdown.hoursMany': 'horas',
     'countdown.aria': '{d} {du} y {h} {hu} hasta el lanzamiento de WoW Forever el 4 de noviembre de 2026',
+    'countdown.raidsLabel': 'Bandas en',
+    'countdown.raidsAria': '{d} {du} y {h} {hu} hasta que abran las primeras bandas de WoW Forever el 9 de diciembre de 2026',
 
     'restedxp.wide': 'RESTEDXP · 10 % DE DESCUENTO',
     'restedxp.short': '−10 %',
@@ -699,6 +707,8 @@ export const ui = {
     'countdown.hoursOne': 'ora',
     'countdown.hoursMany': 'ore',
     'countdown.aria': '{d} {du} e {h} {hu} all’uscita di WoW Forever il 4 novembre 2026',
+    'countdown.raidsLabel': 'Raid tra',
+    'countdown.raidsAria': '{d} {du} e {h} {hu} all’apertura delle prime incursioni di WoW Forever il 9 dicembre 2026',
 
     'restedxp.wide': 'RESTEDXP · 10% DI SCONTO',
     'restedxp.short': '−10%',
@@ -846,6 +856,8 @@ export const ui = {
     'countdown.hoursOne': 'Stunde',
     'countdown.hoursMany': 'Stunden',
     'countdown.aria': '{d} {du} und {h} {hu} bis zum Launch von WoW Forever am 4. November 2026',
+    'countdown.raidsLabel': 'Raids in',
+    'countdown.raidsAria': '{d} {du} und {h} {hu} bis die ersten Raids von WoW Forever am 9. Dezember 2026 öffnen',
 
     'restedxp.wide': 'RESTEDXP · 10 % RABATT',
     'restedxp.short': '−10 %',

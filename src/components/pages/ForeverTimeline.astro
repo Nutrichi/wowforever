@@ -15,7 +15,7 @@
  */
 import type { Locale } from '../../i18n/ui';
 import { localeTags } from '../../i18n/ui';
-import { launchDate } from '../../config/site';
+import { launchDate, raidsDate } from '../../config/site';
 import { timelineT, type TimelineKey } from '../../i18n/forever-timeline';
 
 interface Props {
@@ -59,6 +59,10 @@ const next = events.findIndex((event) => !done(event));
   data-launch-in={t('launchIn')}
   data-launch-one={t('launchInOne')}
   data-launch-today={t('launchToday')}
+  data-raids={raidsDate}
+  data-raids-in={t('raidsIn')}
+  data-raids-one={t('raidsInOne')}
+  data-raids-today={t('raidsToday')}
   style={`--n: ${events.length};`}
 >
   <header class="wf-tl__head">
@@ -393,15 +397,20 @@ const next = events.findIndex((event) => !done(event));
         today.hidden = true;
       }
 
-      /* Tot de launch: dagen, zoals de aftelchip in de balk. Daarna niets. */
-      const left = new Date(root.dataset.launch ?? '').getTime() - now;
+      /* Dagen tot de launch, daarna tot de raids, zoals de aftelchip in de balk. Daarna niets. */
+      const d = root.dataset;
+      const goals = [
+        { at: d.launch, today: d.launchToday, one: d.launchOne, many: d.launchIn },
+        { at: d.raids, today: d.raidsToday, one: d.raidsOne, many: d.raidsIn },
+      ];
+      const goal = goals.find((g) => new Date(g.at ?? '').getTime() > now);
       if (count) {
-        const days = Math.floor(left / day);
-        if (left <= 0) count.hidden = true;
+        if (!goal) count.hidden = true;
         else {
+          const days = Math.floor((new Date(goal.at ?? '').getTime() - now) / day);
           count.textContent = days === 0
-            ? root.dataset.launchToday ?? ''
-            : days === 1 ? root.dataset.launchOne ?? '' : (root.dataset.launchIn ?? '').replace('{n}', String(days));
+            ? goal.today ?? ''
+            : days === 1 ? goal.one ?? '' : (goal.many ?? '').replace('{n}', String(days));
           count.hidden = false;
         }
       }

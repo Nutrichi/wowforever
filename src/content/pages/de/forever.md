@@ -3,14 +3,14 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: Release, Beta, Roadmap, Skyborne und Editionen"
 description: "Alles, was Blizzard zu World of Warcraft: Forever angekündigt hat: die Termine, die Roadmap, die neuen Zonen, Dungeons und Raids, die Skyborne, das Legacy-System und die Editionen."
 short: "WoW Forever"
-updated: 2026-10-21
+updated: 2026-11-05
 lang: de
 manual: true
 faq:
   - q: "Was ist World of Warcraft: Forever?"
     a: "Das Classic+ von Blizzard: das ursprüngliche World of Warcraft, das für immer auf Stufe 60 bleibt und weiter neue Inhalte bekommt, statt zu The Burning Crusade weiterzuziehen. Es bringt neue und erweiterte Zonen, mehr als 1.000 Quests, 9 Dungeons, neue Raids für 10 und 20 Spieler, das Volk der Skyborne und überarbeitete Klassen. Blizzard kündigte es auf der BlizzCon 2026 an."
   - q: "Wann erscheint WoW Forever?"
-    a: "Am 4. November 2026 um 15:00 Uhr pazifischer Zeit, das ist 00:00 Uhr belgischer Zeit am 5. November. Die Beta läuft vom 17. September bis 23. Oktober 2026, die Early Name Reservation vom 27. Oktober bis 3. November."
+    a: "WoW Forever erschien am 4. November 2026 um 15:00 Uhr pazifischer Zeit, das ist 00:00 Uhr belgischer Zeit am 5. November. Die Beta lief vom 17. September bis 23. Oktober 2026. Die ersten Raids öffnen am 9. Dezember 2026; die Uhrzeit hat Blizzard noch nicht genannt."
   - q: "Kostet WoW Forever extra?"
     a: "Nein. Forever ist in einem Abonnement für World of Warcraft oder in Game Time enthalten, genau wie WoW Classic. Die kostenpflichtigen Editionen sind optional. Der einzige kostenpflichtige Inhalt ist das Volk der Skyborne mit Zephras Isle, dafür braucht es das Skyborne Heroic Pack oder eine höhere Edition."
   - q: "Was kosten die Editionen?"
@@ -65,7 +65,7 @@ sources:
   - name: "Wowhead, The Hall of Thanes"
     url: "https://www.wowhead.com/forever/news/the-hall-of-thanes-new-dungeon-walkthrough-for-wow-forever-382991"
 ---
-World of Warcraft: Forever ist das Classic+, das Blizzard am 12. September auf der BlizzCon 2026 angekündigt hat. Es ist das ursprüngliche Azeroth, erneuert und erweitert, und es bleibt für immer auf Stufe 60. Neue Patches bringen Geschichten, Dungeons, Raids und Systeme auf Stufe 60 und auf dem Weg von 1 bis 60. Forever erscheint am 4. November 2026 und ist im Abonnement für World of Warcraft enthalten.
+World of Warcraft: Forever ist das Classic+, das Blizzard am 12. September auf der BlizzCon 2026 angekündigt hat. Es ist das ursprüngliche Azeroth, erneuert und erweitert, und es bleibt für immer auf Stufe 60. Neue Patches bringen Geschichten, Dungeons, Raids und Systeme auf Stufe 60 und auf dem Weg von 1 bis 60. Forever erschien am 4. November 2026 und ist im Abonnement für World of Warcraft enthalten.
 
 | Thema | Details |
 |---|---|
@@ -73,7 +73,7 @@ World of Warcraft: Forever ist das Classic+, das Blizzard am 12. September auf d
 | Beta | 17. September bis 23. Oktober 2026, Stufengrenze 20, ab 1. Oktober 30 |
 | Höchststufe | 60, für immer |
 | Zum Launch | Mehr als 1.000 neue Quests, 9 neue Dungeons, neue Zonen und das Volk der Skyborne |
-| Erste Raids | 9. Dezember 2026 |
+| Erste Raids | 9. Dezember 2026: Barrow Deeps, Hyjal Summit und Onyxia's Lair (Uhrzeit noch nicht bekannt) |
 | Preis | Im Abonnement oder in Game Time enthalten; optionale Editionen ab 29,99 Euro |
 
 ## Was Forever ist
@@ -120,7 +120,7 @@ Alle Termine stammen von Blizzard. Die Zeiten sind pazifische Zeit, mit belgisch
 | 21. Oktober 2026 | Die Beta geht offline für den Stresstest für alle Spieler, ohne Abo und ohne Betazugang, ab 19:00 Uhr belgischer Zeit. Er war zuerst für den 19. Oktober geplant ([mehr](/de/news/the-stress-test-moves-to-21-october/)). Danach öffnet die Beta wieder. |
 | 23. Oktober 2026 | Die Beta schließt endgültig um 10:00 Uhr pazifischer Zeit, 19:00 Uhr belgischer Zeit, zwei Tage später als geplant ([mehr](/de/news/the-beta-stays-open-until-23-october/)). Die Roadmap auf der BlizzCon zeigte den 22. Oktober. |
 | 27. Oktober bis 3. November | Early Name Reservation: bis zu 3 Charaktere mit jeder Edition. Namen gehen an den, der zuerst kommt. Europa startet um 18:00 Uhr belgischer Zeit, und die 3 Charaktere zählen für alle Rulesets zusammen ([mehr](/de/news/early-name-reservation-opens-on-27-october/)). |
-| 4. November 2026 | Launch um 15:00 Uhr pazifischer Zeit, 00:00 Uhr belgischer Zeit am 5. November. Die 30 Tage Game Time aus Epic Pack und Collection werden gutgeschrieben. |
+| 4. November 2026 | Forever erschien um 15:00 Uhr pazifischer Zeit, 00:00 Uhr belgischer Zeit am 5. November. Die 30 Tage Game Time aus Epic Pack und Collection wurden gutgeschrieben. |
 | 4. bis 11. November 2026 | Launchwoche: eingeladene Freunde spielen ohne Abonnement. |
 | 9. Dezember 2026 | Die Raids öffnen: Barrow Deeps (10 Spieler), Hyjal Summit (20) und Onyxia's Lair (40). |
 | 11. Januar 2027 | Letzter Tag, um die Warcraft Forever Collection zu kaufen. |

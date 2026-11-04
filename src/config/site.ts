@@ -13,6 +13,14 @@ export const ga4Id = 'G-66BFB2QS27';
 export const launchDate = '2026-11-04T23:00:00Z';
 
 /**
+ * De eerste raids (Barrow Deeps, Hyjal Summit, Onyxia's Lair): 9 december 2026.
+ * Blizzard noemt geen uur (stand 4 november 2026); tot dan rekenen we met
+ * hetzelfde uur als de launch, 15.00 uur PST, 00.00 uur Belgische tijd op
+ * 10 december. Na de launch rekent de aftelchip hierop.
+ */
+export const raidsDate = '2026-12-09T23:00:00Z';
+
+/**
  * De sociale links uit §10. Aangeleverd door Nutri op 14 september 2026.
  * De voettekst laat een link weg zolang zijn URL leeg is, dus leeghalen
  * volstaat om er een te verbergen.

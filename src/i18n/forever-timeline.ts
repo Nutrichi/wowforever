@@ -23,6 +23,9 @@ const words = {
     launchIn: 'Launch in {n} days',
     launchInOne: 'Launch in 1 day',
     launchToday: 'Launch today',
+    raidsIn: 'Raids in {n} days',
+    raidsInOne: 'Raids in 1 day',
+    raidsToday: 'Raids open today',
   },
   nl: {
     title: 'Roadmap',
@@ -42,6 +45,9 @@ const words = {
     launchIn: 'Launch over {n} dagen',
     launchInOne: 'Launch over 1 dag',
     launchToday: 'Launch vandaag',
+    raidsIn: 'Raids over {n} dagen',
+    raidsInOne: 'Raids over 1 dag',
+    raidsToday: 'Raids gaan vandaag open',
   },
   fr: {
     title: 'Feuille de route',
@@ -61,6 +67,9 @@ const words = {
     launchIn: 'Sortie dans {n} jours',
     launchInOne: 'Sortie dans 1 jour',
     launchToday: 'Sortie aujourd’hui',
+    raidsIn: 'Raids dans {n} jours',
+    raidsInOne: 'Raids dans 1 jour',
+    raidsToday: 'Les raids ouvrent aujourd’hui',
   },
   es: {
     title: 'Hoja de ruta',
@@ -80,6 +89,9 @@ const words = {
     launchIn: 'Lanzamiento en {n} días',
     launchInOne: 'Lanzamiento en 1 día',
     launchToday: 'Lanzamiento hoy',
+    raidsIn: 'Bandas en {n} días',
+    raidsInOne: 'Bandas en 1 día',
+    raidsToday: 'Las bandas abren hoy',
   },
   it: {
     title: 'Roadmap',
@@ -99,6 +111,9 @@ const words = {
     launchIn: 'Uscita tra {n} giorni',
     launchInOne: 'Uscita tra 1 giorno',
     launchToday: 'Uscita oggi',
+    raidsIn: 'Incursioni tra {n} giorni',
+    raidsInOne: 'Incursioni tra 1 giorno',
+    raidsToday: 'Le incursioni aprono oggi',
   },
   de: {
     title: 'Roadmap',
@@ -118,6 +133,9 @@ const words = {
     launchIn: 'Launch in {n} Tagen',
     launchInOne: 'Launch in 1 Tag',
     launchToday: 'Launch heute',
+    raidsIn: 'Raids in {n} Tagen',
+    raidsInOne: 'Raids in 1 Tag',
+    raidsToday: 'Raids öffnen heute',
   },
 } satisfies Record<Locale, Record<string, string>>;
 
