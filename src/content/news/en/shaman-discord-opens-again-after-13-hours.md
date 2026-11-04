@@ -1,7 +1,7 @@
 ---
 title: "Shaman Discord opens again after 13 hours"
 description: "The Shaman Classic Discord closed every channel in protest of the Shaman changes in WoW Forever. Almost 13 hours later, the moderators opened the doors again."
-date: 2026-11-04T10:10:00+01:00
+date: 2026-11-04T10:39:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-01-wow-forever-shaman-changes.jpg

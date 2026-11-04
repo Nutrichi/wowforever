@@ -1,7 +1,7 @@
 ---
 title: "Il Discord degli Shaman riapre dopo 13 ore"
 description: "Il Discord Shaman Classic aveva chiuso tutti i canali per protesta contro le modifiche allo Shaman in WoW Forever. Quasi 13 ore dopo, i moderatori hanno riaperto le porte."
-date: 2026-11-04T10:10:00+01:00
+date: 2026-11-04T10:39:00+01:00
 category: forever
 lang: it
 manual: true

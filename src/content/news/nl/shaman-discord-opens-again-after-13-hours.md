@@ -1,7 +1,7 @@
 ---
 title: "Shaman-Discord gaat na 13 uur weer open"
 description: "De Shaman Classic Discord sloot elk kanaal uit protest tegen de Shaman-wijzigingen in WoW Forever. Bijna 13 uur later zetten de moderators de deuren weer open."
-date: 2026-11-04T10:10:00+01:00
+date: 2026-11-04T10:39:00+01:00
 category: forever
 lang: nl
 manual: true

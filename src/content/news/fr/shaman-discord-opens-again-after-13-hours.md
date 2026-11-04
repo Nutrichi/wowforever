@@ -1,7 +1,7 @@
 ---
 title: "Le Discord Shaman rouvre après 13 heures"
 description: "Le Discord Shaman Classic avait fermé ses salons pour protester contre les changements du Shaman dans WoW Forever. Près de 13 heures plus tard, il a rouvert."
-date: 2026-11-04T10:10:00+01:00
+date: 2026-11-04T10:39:00+01:00
 category: forever
 lang: fr
 manual: true
