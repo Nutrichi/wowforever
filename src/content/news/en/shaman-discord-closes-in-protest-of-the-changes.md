@@ -26,4 +26,4 @@ The timing is no coincidence. In the [development notes of 2 November](/news/sha
 
 A class Discord closed in protest before. In August 2025, the Paladin Discord of the modern game shut its Retribution channels, because the spec felt left behind. That protest lasted less than 24 hours: Blizzard announced buffs for Retribution soon after. Nothing showed that the closure caused those buffs.
 
-Blizzard has not responded yet. Our [Elemental Shaman guide](/guides/elemental-shaman/) and [Shaman leveling guide](/guides/shaman-leveling/) get the new trees as soon as they are in the game.
+The server [opened again after almost 13 hours](/news/shaman-discord-opens-again-after-13-hours/). The new trees are in our [talent calculator](/talents/shaman/), and our [Elemental Shaman guide](/guides/elemental-shaman/) and [Shaman leveling guide](/guides/shaman-leveling/) follow soon.

@@ -27,4 +27,4 @@ Der Zeitpunkt ist kein Zufall. In den [Entwicklernotizen vom 2. November](/de/ne
 
 Ein Klassen-Discord hat schon einmal aus Protest geschlossen. Im August 2025 sperrte der Paladin-Discord des modernen Spiels seine Retribution-Kanäle, weil sich die Spezialisierung vergessen fühlte. Dieser Protest dauerte weniger als 24 Stunden: Blizzard kündigte kurz danach Buffs für Retribution an. Nichts deutete darauf hin, dass die Schließung die Buffs ausgelöst hat.
 
-Blizzard hat noch nicht reagiert. Unser [Guide zum Elemental Shaman](/de/guides/elemental-shaman/) und unser [Levelguide für den Shaman](/de/guides/shaman-leveling/) bekommen die neuen Bäume, sobald sie im Spiel sind.
+Der Server [öffnete nach fast 13 Stunden wieder](/de/news/shaman-discord-opens-again-after-13-hours/). Die neuen Bäume stehen in unserem [Talentrechner](/de/talents/shaman/), unser [Guide zum Elemental Shaman](/de/guides/elemental-shaman/) und unser [Levelguide für den Shaman](/de/guides/shaman-leveling/) folgen in Kürze.
