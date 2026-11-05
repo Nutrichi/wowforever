@@ -1,7 +1,7 @@
 ---
 title: "Druid leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Druid Leveling-Guide: der Feral-Build von 10 bis 60"
-description: "So levelst du einen Druid in WoW Forever: ein Feral-Build mit einem Talent für jedes Level von 10 bis 60, die Rotation, die wichtigen Level, die Klassenquests für jede Form, Waffen, Götzen, Berufe und Gestaltwandel."
+description: "So levelst du einen Druid in WoW Forever: ein voller Cat-Form-Build mit einem Talent pro Level von 10 bis 60, Rotation, wichtige Level, Klassenquests, Waffen und Berufe."
 short: "Druid leveln"
 updated: 2026-11-05
 lang: de

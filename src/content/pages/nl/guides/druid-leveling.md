@@ -1,7 +1,7 @@
 ---
 title: "Druid levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Druid levelgids: de Feral-build van 10 tot 60"
-description: "Zo level je een Druid in WoW Forever: één Feral-build met een talent voor elk level van 10 tot 60, de rotatie, de belangrijke levels, de classquests voor elke vorm, wapens, idols, tradeskills en shapeshiften."
+description: "Zo level je een Druid in WoW Forever: een volle Cat Form-build met een talent voor elk level van 10 tot 60, de rotatie, belangrijke levels, classquests, wapens en tradeskills."
 short: "Druid levelen"
 updated: 2026-11-05
 lang: nl

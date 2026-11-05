@@ -1,7 +1,7 @@
 ---
 title: "Livellare un Druid in WoW Forever: la guida"
-metaTitle: "Guida al leveling del Druid in WoW Forever: la build Feral dal 10 al 60"
-description: "Come livellare un Druid in WoW Forever: una build Feral con un talento per ogni livello dal 10 al 60, la rotazione, i livelli chiave, le missioni di classe per ogni forma, armi, idoli, professioni e cambio di forma."
+metaTitle: "Leveling del Druid in WoW Forever: la build Feral dal 10 al 60"
+description: "Come livellare un Druid in WoW Forever: una build completa in Cat Form con un talento per livello dal 10 al 60, la rotazione, i livelli chiave, le missioni e le armi."
 short: "Leveling Druid"
 updated: 2026-11-05
 lang: it

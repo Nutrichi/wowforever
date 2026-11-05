@@ -1,7 +1,7 @@
 ---
 title: "Subir un Druid en WoW Forever: la guía"
 metaTitle: "Guía de subida de Druid en WoW Forever: la build Feral del 10 al 60"
-description: "Cómo subir un Druid en WoW Forever: una build Feral con un talento para cada nivel del 10 al 60, la rotación, los niveles clave, las misiones de clase para cada forma, armas, ídolos, profesiones y cambios de forma."
+description: "Cómo subir un Druid en WoW Forever: una build completa de Cat Form con un talento por nivel del 10 al 60, la rotación, niveles clave, misiones de clase y armas."
 short: "Subir un Druid"
 updated: 2026-11-05
 lang: es

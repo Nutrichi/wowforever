@@ -1,7 +1,7 @@
 ---
 title: "Monter un Druid dans WoW Forever : le guide"
 metaTitle: "Guide de leveling Druid WoW Forever : le build Feral du 10 au 60"
-description: "Comment monter un Druid dans WoW Forever : un build Feral avec un talent pour chaque niveau du 10 au 60, la rotation, les niveaux clés, les quêtes de classe pour chaque forme, les armes, les idoles, les métiers et les métamorphoses."
+description: "Monter un Druid dans WoW Forever : un build complet en Cat Form avec un talent par niveau de 10 à 60, la rotation, les niveaux clés, les quêtes de classe et les armes."
 short: "Leveling Druid"
 updated: 2026-11-05
 lang: fr
