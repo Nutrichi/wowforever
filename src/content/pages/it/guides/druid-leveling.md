@@ -3,7 +3,7 @@ title: "Livellare un Druid in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Druid in WoW Forever: la build Feral dal 10 al 60"
 description: "Come livellare un Druid in WoW Forever: una build Feral con un talento per ogni livello dal 10 al 60, la rotazione, i livelli chiave, le missioni di classe per ogni forma, armi, idoli, professioni e cambio di forma."
 short: "Leveling Druid"
-updated: 2026-10-31
+updated: 2026-11-05
 lang: it
 manual: true
 faq:
@@ -30,7 +30,7 @@ Il Druid in WoW Forever sa fare quasi tutto: tankare da orso, fare danni da gatt
 | | |
 |---|---|
 | Spec più facile per livellare | Feral, in Cat Form |
-| Talenti chiave | Ferocity, Feral Charge, Shifting Power, Leader of the Pack |
+| Talenti chiave | Ferocity, Furor, Rend and Tear, Shifting Power |
 | Punti di forza | Mobilità, Stealth, si cura da solo, può tankare e curare |
 | Punti deboli | Partenza lenta prima di Cat Form, mana per ogni cambio di forma |
 | Talento per livello | [Build di leveling del Druid](/it/leveling/druid/) |
@@ -41,7 +41,7 @@ Il Druid in WoW Forever sa fare quasi tutto: tankare da orso, fare danni da gatt
 
 I primi 20 livelli cambiano molto. Inizi con Wrath, ricevi Bear Form al 10 e Cat Form al 20. L'inizio è un po' lento, ma da Cat Form in poi va veloce.
 
-**Livella da Feral.** Un gatto non deve quasi mai fermarsi per mana o cure, e Prowl, Dash e Feral Swiftness ti portano da una missione alla successiva. La stessa build tanka anche in Bear Form. Balance e Restoration sono per i gruppi e per il livello 60; hanno le loro guide per [Balance](/it/guides/balance-druid/) e [Restoration](/it/guides/restoration-druid/).
+**Livella da Feral.** Un gatto non deve quasi mai fermarsi per mana o cure, e Prowl, Dash e Feral Swiftness ti portano da una missione alla successiva. La build è pensata per la Cat Form; per tankare nei dungeon, vedi la [guida al Feral Druid](/it/guides/feral-druid/). Balance e Restoration sono per i gruppi e per il livello 60; hanno le loro guide per [Balance](/it/guides/balance-druid/) e [Restoration](/it/guides/restoration-druid/).
 
 La build qui sotto dà un talento per ogni livello dal 10 al 60. Con punti in Talented del sistema Legacy, raggiungi ogni talento fino a cinque livelli prima. I Druid Skyborne hanno anche un percorso passo per passo nella loro zona iniziale, dal [livello 1 al 6](/it/guides/leveling/skyborne-druid-1-6/).
 
@@ -61,25 +61,25 @@ Statistiche a questi livelli: Intellect e danni magici, poi Stamina e Spirit, po
 
 ## La build Feral dal 10 al 60
 
-Una sola build per gatto e orso insieme, con un talento per livello. [Apri la build al livello 60 nel calcolatore di talenti](/it/talents/druid/?t=-55232032120112120011-05533000001), oppure seguila livello per livello nella [build di leveling del Druid](/it/leveling/druid/).
+Una build completa per la Cat Form con un talento per livello: tutti i talenti del gatto in Feral, poi critico e colpo da Balance e danni da Restoration. [Apri la build al livello 60 nel calcolatore di talenti](/it/talents/druid/?t=050022-55200002123012125001-055), oppure seguila livello per livello nella [build di leveling del Druid](/it/leveling/druid/).
 
 | Livelli | Talenti |
 |---|---|
 | **10 a 14** | 5 Ferocity |
-| **15 a 19** | 3 Feral Instinct, 2 Feral Swiftness |
-| **20 a 24** | 1 Feral Charge, 2 Savage Fury, 2 Shredding Attacks |
-| **25 a 29** | 1 Shredding Attacks, 2 Sharpened Claws, 1 Lacerate, 1 Predatory Discipline |
-| **30 a 34** | 1 Leader of the Pack, 2 Natural Instinct, 2 Blood Frenzy |
-| **35 a 39** | 5 Furor |
-| **40 a 44** | 1 Primal Bite, 1 Shifting Power, 2 Brutal Impact, 1 Heart of the Wild |
-| **45 a 49** | 4 Heart of the Wild, 1 Natural Shapeshifter |
-| **50 a 54** | 2 Natural Shapeshifter, 3 Naturalist |
-| **55 a 59** | 2 Naturalist, 3 Reflection |
-| **60** | 1 Swiftmend |
+| **15 a 19** | 4 Furor, 1 Feral Swiftness |
+| **20 a 24** | 1 Feral Swiftness, 2 Savage Fury, 2 Sharpened Claws |
+| **25 a 29** | 1 Predatory Discipline, 2 Blood Frenzy, 1 Feral Charge, 1 Predatory Strikes |
+| **30 a 34** | 2 Natural Instinct, 1 Leader of the Pack, 2 Predatory Strikes |
+| **35 a 39** | 5 Rend and Tear |
+| **40 a 44** | 1 Shifting Power, 1 Furor, 3 Genesis |
+| **45 a 49** | 2 Genesis, 2 Nature's Majesty, 1 Nature's Reach |
+| **50 a 54** | 1 Nature's Reach, 4 Heart of the Wild |
+| **55 a 59** | 1 Heart of the Wild, 4 Naturalist |
+| **60** | 1 Naturalist |
 
-Al livello 30 la build appare [così nel calcolatore](/it/talents/druid/?t=-502300321201101).
+Al livello 30 la build appare [così nel calcolatore](/it/talents/druid/?t=-5420000212101201).
 
-**Fino al livello 30** la build riduce il costo degli attacchi, ti rende più veloce e difficile da vedere in Prowl, e dà Feral Charge, Lacerate e Leader of the Pack. **Dal 30** Natural Instinct e Blood Frenzy aumentano ciò che i critici restituiscono, e Furor rende utile cambiare forma. **Al 40** Primal Bite e Shifting Power si aprono nell'ultima riga. **In Restoration** Heart of the Wild, Natural Shapeshifter e Naturalist completano la build.
+**Fino al livello 30** la build riduce il costo degli attacchi, prende Furor presto per l'energia ogni volta che torni in Cat Form, e aggiunge Savage Fury, Sharpened Claws, Blood Frenzy e Feral Charge. **Dal 30** Natural Instinct, Leader of the Pack e Predatory Strikes aumentano i critici e la potenza d'attacco, e al 35 Rend and Tear aggiunge il 15% di danni contro i bersagli sanguinanti. **Al 40** arriva Shifting Power; la build salta Primal Bite, perché gioca quasi solo in Cat Form. **Dal 42** Genesis rafforza Rake e Rip, Nature's Majesty aggiunge il 4% di critico e Nature's Reach il 4% di colpo, e Heart of the Wild e Naturalist chiudono la build al 60. Se usi poco la Bear Form, puoi anche prendere Furor prima di Ferocity.
 
 **Da gatto:**
 
@@ -96,8 +96,7 @@ Al livello 30 la build appare [così nel calcolatore](/it/talents/druid/?t=-5023
 1. Tieni Thorns su di te.
 2. Usa Faerie Fire per l'indebolimento, o per attirare a distanza. In Bear Form ora genera minaccia.
 3. Usa Demoralizing Roar.
-4. Usa Primal Bite appena è pronto.
-5. Usa Swipe contro più mostri e Maul contro uno solo.
+4. Usa Swipe contro più mostri e Maul contro uno solo.
 
 Statistiche da qui in poi: Strength, Agility e Attack Power, poi Stamina, Intellect e Spirit, poi armatura.
 
@@ -116,27 +115,26 @@ Statistiche da qui in poi: Strength, Agility e Attack Power, poi Stamina, Intell
 | 12 | Regrowth, Revive, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5229"><img class="wf-wh__icon" src="/wh/ability_druid_enrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> | Istruttore di classe |
 | 14 | Cure Poison | Missione di classe |
 | 14 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5211"><img class="wf-wh__icon" src="/wh/ability_druid_bash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bash</a> | Istruttore di classe |
-| 15 | Feral Instinct, Feral Swiftness | Albero dei talenti |
+| 15 | Furor, Feral Swiftness | Albero dei talenti |
 | 16 | Aquatic Form | Missione di classe |
 | 16 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=779"><img class="wf-wh__icon" src="/wh/inv_misc_monsterclaw_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swipe</a> | Istruttore di classe |
 | 18 | Faerie Fire, Hibernate | Istruttore di classe |
 | 20 | Cat Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1082"><img class="wf-wh__icon" src="/wh/ability_druid_rake.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Claw</a>, Prowl, Rip | Missione di classe |
 | 20 | Shred, Starfire, Rebirth, Omen of Clarity | Istruttore di classe |
 | 20 | Armi ad asta | Istruttore d'armi |
-| 20 | Feral Charge, Savage Fury, Shredding Attacks | Albero dei talenti |
+| 20 | Savage Fury, Sharpened Claws | Albero dei talenti |
 | 22 | Soothe Animal | Istruttore di classe |
 | 24 | Rake, Remove Curse | Istruttore di classe |
-| 25 | Sharpened Claws, Lacerate, Predatory Discipline | Albero dei talenti |
+| 25 | Predatory Discipline, Blood Frenzy, Feral Charge, Predatory Strikes | Albero dei talenti |
 | 26 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a>, Abolish Poison | Istruttore di classe |
 | 28 | Cower, Challenging Roar | Istruttore di classe |
 | 30 | Travel Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=740"><img class="wf-wh__icon" src="/wh/spell_nature_tranquility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquility</a> | Istruttore di classe |
-| 30 | Leader of the Pack, Natural Instinct, Blood Frenzy | Albero dei talenti |
+| 30 | Natural Instinct, Leader of the Pack | Albero dei talenti |
 | 32 | Ferocious Bite, Ravage, Track Humanoids | Istruttore di classe |
+| 35 | Rend and Tear | Albero dei talenti |
 | 36 | Pounce, Frenzied Regeneration | Istruttore di classe |
-| 40 | Primal Bite, Shifting Power, Brutal Impact | Istruttore di classe |
-| 40 | Primal Bite, Shifting Power, Brutal Impact | Istruttori |
-| 40 | Primal Bite, Shifting Power, Brutal Impact | Albero dei talenti |
-| 42 | Lacerate | Istruttore di classe |
+| 40 | Shifting Power | Albero dei talenti |
+| 42 | Genesis, Nature's Majesty, Nature's Reach | Albero dei talenti |
 | 44 | Barkskin | Istruttore di classe |
 
 Mark of the Wild, Wrath e Healing Touch li hai dal livello 1. Shred arriva al 20 in Forever (prima al 22), e Nature's Grasp e Omen of Clarity non sono più talenti. Tiger's Fury non c'è più.
