@@ -2,6 +2,7 @@
 title: "Ogni asta costa almeno 1 argento di deposito"
 description: "In WoW Forever ogni asta costa almeno 1 argento di deposito, anche per oggetti da pochi rame. Un'asta invenduta lo perde. Se Blizzard voglia questo minimo, non è noto."
 date: 2026-11-06T11:58:00+01:00
+updated: 2026-11-06T21:10:00+01:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-11-06-wow-forever-auction-deposit-24-hours.jpg
@@ -13,6 +14,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Aggiornamento 6 novembre:** Blizzard riporta il minimo a 1 rame, non ancora ma presto. Di più nel [nostro articolo](/it/news/auction-deposits-go-back-to-1-copper/).
+
 Ogni asta in World of Warcraft: Forever costa almeno 1 argento di deposito. Nel gioco originale il deposito seguiva il prezzo di vendita al mercante, spesso pochi rame. Se l'oggetto non si vende, quell'argento è perso.
 
 ## Come funziona il deposito

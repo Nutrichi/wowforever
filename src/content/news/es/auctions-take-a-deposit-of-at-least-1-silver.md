@@ -2,6 +2,7 @@
 title: "Cada subasta pide al menos 1 de plata de depósito"
 description: "En WoW Forever cada subasta cuesta al menos 1 de plata de depósito, incluso para objetos de pocos cobres. Una subasta sin vender lo pierde. No se sabe si es a propósito."
 date: 2026-11-06T11:58:00+01:00
+updated: 2026-11-06T21:10:00+01:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-11-06-wow-forever-auction-deposit-24-hours.jpg
@@ -13,6 +14,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Actualización 6 de noviembre:** Blizzard devuelve el mínimo a 1 de cobre, aún no pero pronto. Más en [nuestro artículo](/es/news/auction-deposits-go-back-to-1-copper/).
+
 Cada subasta en World of Warcraft: Forever cuesta al menos 1 de plata de depósito. En el juego original, el depósito seguía el precio de venta al vendedor, a menudo unos cobres. Si el objeto no se vende, esa plata se pierde.
 
 ## Cómo funciona el depósito

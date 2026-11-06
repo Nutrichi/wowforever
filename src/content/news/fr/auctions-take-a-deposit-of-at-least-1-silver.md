@@ -2,6 +2,7 @@
 title: "Chaque enchère coûte au moins 1 argent de dépôt"
 description: "Dans WoW Forever, chaque enchère coûte au moins 1 argent de dépôt, même pour un objet de quelques cuivres. Une enchère invendue le perd. Rien ne dit si c'est voulu."
 date: 2026-11-06T11:58:00+01:00
+updated: 2026-11-06T21:10:00+01:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-11-06-wow-forever-auction-deposit-24-hours.jpg
@@ -13,6 +14,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Mise à jour du 6 novembre :** Blizzard ramène le minimum à 1 cuivre, pas encore mais bientôt. Plus dans [notre article](/fr/news/auction-deposits-go-back-to-1-copper/).
+
 Chaque enchère dans World of Warcraft: Forever coûte au moins 1 argent de dépôt. Dans le jeu original, le dépôt suivait le prix de vente au marchand, souvent quelques cuivres. Si l'objet ne se vend pas, cet argent est perdu.
 
 ## Comment fonctionne le dépôt

@@ -2,6 +2,7 @@
 title: "Elke veiling kost minstens 1 zilver borg"
 description: "In WoW Forever kost elke veiling minstens 1 zilver borg, ook voor items van een paar koper. Een onverkochte veiling verliest die borg. Of dat zo bedoeld is, is niet bekend."
 date: 2026-11-06T11:58:00+01:00
+updated: 2026-11-06T21:10:00+01:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-11-06-wow-forever-auction-deposit-24-hours.jpg
@@ -13,6 +14,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 6 november:** Blizzard zet de ondergrens terug op 1 koper, nog niet maar binnenkort. Meer in [onze post](/nl/news/auction-deposits-go-back-to-1-copper/).
+
 Elke veiling in World of Warcraft: Forever kost minstens 1 zilver borg. In het originele spel volgde de borg de verkoopprijs bij een verkoper, vaak een paar koper. Raakt het item niet verkocht, dan is dat zilver weg.
 
 ## Hoe de borg werkt

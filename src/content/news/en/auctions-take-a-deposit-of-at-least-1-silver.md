@@ -2,6 +2,7 @@
 title: "Auctions take a deposit of at least 1 silver"
 description: "In WoW Forever every auction costs at least 1 silver in deposit, even for items worth a few copper. An unsold auction loses it. Whether Blizzard intends the minimum is not known."
 date: 2026-11-06T11:58:00+01:00
+updated: 2026-11-06T21:10:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-11-06-wow-forever-auction-deposit-24-hours.jpg
@@ -12,6 +13,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Update 6 November:** Blizzard is setting the minimum back to 1 copper, not yet but soon. More in [our post](/news/auction-deposits-go-back-to-1-copper/).
+
 Every auction in World of Warcraft: Forever takes a deposit of at least 1 silver. In the original game the deposit followed the vendor price of the item, often a few copper. If the item does not sell, that silver is gone.
 
 ## How the deposit works

@@ -2,6 +2,7 @@
 title: "Jede Auktion kostet mindestens 1 Silber Pfand"
 description: "In WoW Forever kostet jede Auktion mindestens 1 Silber Pfand, auch für Gegenstände von ein paar Kupfer. Unverkauft ist es weg. Ob das Absicht ist, ist nicht bekannt."
 date: 2026-11-06T11:58:00+01:00
+updated: 2026-11-06T21:10:00+01:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-11-06-wow-forever-auction-deposit-24-hours.jpg
@@ -13,6 +14,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 6. November:** Blizzard setzt die Untergrenze wieder auf 1 Kupfer, noch nicht, aber bald. Mehr in [unserem Beitrag](/de/news/auction-deposits-go-back-to-1-copper/).
+
 Jede Auktion in World of Warcraft: Forever kostet mindestens 1 Silber Pfand. Im Originalspiel richtete sich das Pfand nach dem Händlerpreis des Gegenstands, oft ein paar Kupfer. Verkauft sich der Gegenstand nicht, ist das Silber weg.
 
 ## So funktioniert das Pfand
