@@ -76,7 +76,7 @@
    "id": 95250,
    "name": "Abominable Creatures",
    "level": 21,
-   "minLevel": 16,
+   "minLevel": 15,
    "faction": "alliance",
    "classes": null,
    "races": null,
@@ -105,7 +105,7 @@
    "id": 95195,
    "name": "Bloodied Insignia",
    "level": 22,
-   "minLevel": 16,
+   "minLevel": 15,
    "faction": "alliance",
    "classes": null,
    "races": null,
@@ -133,7 +133,7 @@
    "id": 95189,
    "name": "Crest of Lordaeron",
    "level": 22,
-   "minLevel": 16,
+   "minLevel": 15,
    "faction": "alliance",
    "classes": null,
    "races": null,
@@ -191,7 +191,7 @@
    "id": 97288,
    "name": "Unending Torment",
    "level": 21,
-   "minLevel": 16,
+   "minLevel": 15,
    "faction": "horde",
    "classes": null,
    "races": null,
@@ -274,7 +274,7 @@
    "id": 95204,
    "name": "Crest of Lordaeron",
    "level": 22,
-   "minLevel": 16,
+   "minLevel": 15,
    "faction": "horde",
    "classes": null,
    "races": null,
@@ -337,7 +337,7 @@
    "id": 95216,
    "name": "The New Plague",
    "level": 22,
-   "minLevel": 16,
+   "minLevel": 15,
    "faction": "horde",
    "classes": null,
    "races": null,
@@ -361,7 +361,23 @@
     }
    ],
    "to": [],
-   "chain": [],
+   "chain": [
+    {
+     "name": "A Recipe For Death",
+     "id": 447,
+     "optional": false
+    },
+    {
+     "name": "A Recipe For Death",
+     "id": 450,
+     "optional": false
+    },
+    {
+     "name": "A Recipe For Death",
+     "id": 451,
+     "optional": false
+    }
+   ],
    "next": [],
    "rewards": [
     279876,
@@ -397,7 +413,18 @@
     }
    ],
    "to": [],
-   "chain": [],
+   "chain": [
+    {
+     "name": "Rear Guard Patrol",
+     "id": 356,
+     "optional": false
+    },
+    {
+     "name": "Rear Guard Patrol",
+     "id": 99156,
+     "optional": false
+    }
+   ],
    "next": [],
    "rewards": [
     251533,

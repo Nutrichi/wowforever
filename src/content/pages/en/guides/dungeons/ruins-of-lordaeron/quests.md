@@ -3,7 +3,7 @@ title: "Ruins of Lordaeron"
 metaTitle: "Ruins of Lordaeron quests in WoW Forever: start, steps and rewards"
 description: "All ten quests of the Ruins of Lordaeron in WoW Forever: six for the Horde from Brill, Silverpine Forest and the Undercity, four for the Alliance inside, and the rewards."
 short: "Quests"
-updated: 2026-10-19
+updated: 2026-11-06
 lang: en
 sources:
   - name: "Wowhead, the news article"
@@ -16,8 +16,8 @@ dungeon:
   slug: "ruins-of-lordaeron"
   tab: "quests"
 ---
-All quests require level 15 or 16, but the quests themselves are level 21 and 22. That is why they show up red at level 17, while the dungeon can be cleared at that level.
+All quests require level 15 since the launch, but the quests themselves are level 21 and 22. That is why they show up red at level 17, while the dungeon can be cleared at that level.
 
-**Horde.** Pick up the four quests outside before the first pull. They lie on the way: Brill, the Undercity, and a detour to Silverpine Forest.
+**Horde.** Pick up the four quests outside before the first pull. They lie on the way: Brill, the Undercity, and a detour to Silverpine Forest. Two of them need a quest chain first since the launch: The Wrath of Rath'mael comes after two parts of Rear Guard Patrol (Deathguard Linnea in Tirisfal Glades, /way 65.4 60.2), The New Plague after three parts of A Recipe For Death (Apothecary Renferrel in Silverpine Forest, /way 42.8 40.8). More in [our post](/news/two-ruins-of-lordaeron-quests-now-need-a-chain/).
 
 **Alliance.** The Alliance finds all four quests inside. Three of them are handed in at Stormwind, so a Hearthstone set to Stormwind saves the long trip back.
