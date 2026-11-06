@@ -1,6 +1,6 @@
 ---
 title: "Ruins of Lordaeron"
-metaTitle: "Les quêtes des Ruins of Lordaeron dans WoW Forever : départ, étapes et récompenses"
+metaTitle: "Quêtes des Ruins of Lordaeron dans WoW Forever : départ et récompenses"
 description: "Les dix quêtes des Ruins of Lordaeron dans WoW Forever : six pour la Horde depuis Brill, Silverpine Forest et l’Undercity, quatre pour l’Alliance à l’intérieur, et les récompenses."
 short: "Quêtes"
 updated: 2026-11-06

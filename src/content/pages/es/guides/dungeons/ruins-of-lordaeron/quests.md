@@ -1,6 +1,6 @@
 ---
 title: "Ruins of Lordaeron"
-metaTitle: "Las misiones de Ruins of Lordaeron en WoW Forever: inicio, pasos y recompensas"
+metaTitle: "Misiones de Ruins of Lordaeron en WoW Forever: inicio y recompensas"
 description: "Las diez misiones de Ruins of Lordaeron en WoW Forever: seis para la Horde desde Brill, Silverpine Forest y la Undercity, cuatro para la Alliance dentro, y las recompensas."
 short: "Misiones"
 updated: 2026-11-06
