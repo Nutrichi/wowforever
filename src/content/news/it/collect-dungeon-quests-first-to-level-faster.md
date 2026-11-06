@@ -1,7 +1,7 @@
 ---
 title: "Prima le missioni dei dungeon per salire in fretta"
 description: "In WoW Forever l'esperienza di un dungeon arriva soprattutto dalle missioni. Sono sparse per Azeroth, a volte dopo una catena. Le schede Missioni di 14 dungeon."
-date: 2026-11-06T20:40:00+01:00
+date: 2026-11-06T20:36:00+01:00
 category: forever
 lang: it
 image: ../../../assets/posts/2026-10-14-wow-forever-launch-dungeons.jpg

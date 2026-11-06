@@ -1,7 +1,7 @@
 ---
 title: "Misiones de mazmorra primero para subir rápido"
 description: "En WoW Forever, la experiencia de una mazmorra viene sobre todo de las misiones. Están repartidas por Azeroth, a veces tras una cadena. Pestañas de 14 mazmorras."
-date: 2026-11-06T20:40:00+01:00
+date: 2026-11-06T20:36:00+01:00
 category: forever
 lang: es
 image: ../../../assets/posts/2026-10-14-wow-forever-launch-dungeons.jpg

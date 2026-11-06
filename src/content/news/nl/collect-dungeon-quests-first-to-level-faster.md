@@ -1,7 +1,7 @@
 ---
 title: "Verzamel eerst je dungeonquests en level sneller"
 description: "De meeste experience in een dungeon in WoW Forever komt van quests, niet van kills. De quests liggen verspreid over Azeroth, soms na een reeks. Onze questtabs voor 14 dungeons."
-date: 2026-11-06T20:40:00+01:00
+date: 2026-11-06T20:36:00+01:00
 category: forever
 lang: nl
 image: ../../../assets/posts/2026-10-14-wow-forever-launch-dungeons.jpg

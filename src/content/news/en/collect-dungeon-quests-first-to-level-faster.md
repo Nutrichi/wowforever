@@ -1,7 +1,7 @@
 ---
 title: "Collect dungeon quests first to level faster"
 description: "Most dungeon experience in WoW Forever comes from quests, not kills. The quests are spread over Azeroth and some need a chain first. Our quest tabs for 14 dungeons up to level 41."
-date: 2026-11-06T20:40:00+01:00
+date: 2026-11-06T20:36:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-14-wow-forever-launch-dungeons.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Vos quêtes de donjon d'abord pour monter plus vite"
 description: "Dans WoW Forever, l'expérience d'un donjon vient surtout des quêtes. Elles sont dispersées dans Azeroth, parfois après une chaîne. Nos onglets Quêtes pour 14 donjons."
-date: 2026-11-06T20:40:00+01:00
+date: 2026-11-06T20:36:00+01:00
 category: forever
 lang: fr
 image: ../../../assets/posts/2026-10-14-wow-forever-launch-dungeons.jpg

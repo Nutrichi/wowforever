@@ -1,7 +1,7 @@
 ---
 title: "Erst Dungeonquests sammeln, dann schneller leveln"
 description: "In WoW Forever kommt die Erfahrung eines Dungeons vor allem aus Quests. Sie sind über Azeroth verteilt, manche erst nach einer Reihe. Unsere Questtabs für 14 Dungeons."
-date: 2026-11-06T20:40:00+01:00
+date: 2026-11-06T20:36:00+01:00
 category: forever
 lang: de
 image: ../../../assets/posts/2026-10-14-wow-forever-launch-dungeons.jpg
