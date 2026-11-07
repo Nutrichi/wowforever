@@ -3,7 +3,7 @@ title: "Protection Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Protection Warrior: tankbuild, threat en Rage"
 description: "De Protection Warrior in WoW Forever: de tankbuild voor level 30 met Master of Defense, Defiance en Vanguard, de threat-rotatie, debuffs, Rage, stats en races."
 short: "Protection Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welk ras is het beste voor een Protection Warrior?"
     a: "Night Elf of Dwarf voor de Alliance, voor extra dodge of Stoneform. Tauren voor de Horde, voor de meeste health, of Orc voor Blood Fury en zijn cooldown tegen magische schade. Elk ras werkt."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de lancering op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/protection-warrior/"
@@ -122,7 +122,7 @@ Blijf op de boss. Open met Charge voor Rage en een directe start, in Defensive S
 
 ## Stats en gear
 
-De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Protection Warrior:
+De exacte volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Protection Warrior:
 
 - **Hit chance.** Een misser doet niets en geeft geen Rage.
 - **Stamina, Armor en avoidance.** Meer health is altijd beter voor een tank. Zoek een evenwicht tussen verdediging en genoeg aanval om threat te houden.
@@ -134,7 +134,7 @@ De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Prot
 
 **Wapens.** Je wapen telt nog altijd voor threat. Draag altijd een shield, voor Bastion en Shield Slam. Een afstandswapen telt alleen voor zijn stats.
 
-## Races en tradeskills
+## Races en beroepen
 
 Elk ras kan Warrior spelen. Elke keuze werkt, maar sommige zijn sterker.
 
@@ -151,4 +151,4 @@ Elk ras kan Warrior spelen. Elke keuze werkt, maar sommige zijn sterker.
 | Horde | Tauren | De meeste health van alle races, War Stomp en Plainsrunning voor snelheid zolang je blijft bewegen |
 | Horde | Windshaper Skyborne | Haste en een snelheids-cooldown die van pas komt |
 
-**Tradeskills.** Blacksmithing maakt een deel van de beste Mail- en Plate-gear, veel ervan alleen voor Blacksmiths. Engineering heeft handige gadgets voor elke spec.
+**Beroepen.** Blacksmithing maakt een deel van de beste Mail- en Plate-gear, veel ervan alleen voor Blacksmiths. Engineering heeft handige gadgets voor elke spec.

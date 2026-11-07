@@ -3,7 +3,7 @@ title: "Ragefire Chasm"
 metaTitle: "De gids van Ragefire Chasm voor WoW Forever: route, trash en bazen"
 description: "Zo speel je Ragefire Chasm in WoW Forever: de weg erheen via de Cleft of Shadow, de route langs de troggs en de Burning Blade, de trash om op te letten en de vier bazen."
 short: "Gids"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: nl
 manual: true
 sources:
@@ -74,4 +74,4 @@ Op een richel met twee adds; de rechtse add kun je zonder hem trekken. Bazzalan 
 ## Wat nog niet bekend is
 
 - **De dropkansen** van de loot van de bazen.
-- **De beloningen van de quests** kunnen nog veranderen voor de launch.
+- **De beloningen van de quests** komen uit de spelbestanden en kunnen nog veranderen met een hotfix.

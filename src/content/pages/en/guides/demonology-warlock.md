@@ -3,7 +3,7 @@ title: "Demonology Warlock guide for WoW Forever"
 metaTitle: "WoW Forever Demonology Warlock: level 30 build, Demonic Brand and demons"
 description: "The Demonology Warlock in WoW Forever: the level 30 build with Demonic Brand, Demonic Knowledge and Soul Link, the rotation, threat, demons, Life Tap, stats and races."
 short: "Demonology Warlock"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Can the Succubus tank in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Which race is best for a Demonology Warlock?"
     a: "Human for the Alliance, for 1% more critical strike chance from Ruthless. Undead for the Horde, for Touch of the Grave, Cannibalize and Will of the Forsaken. The gaps are small, so pick the race you like."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/demonology-warlock/"

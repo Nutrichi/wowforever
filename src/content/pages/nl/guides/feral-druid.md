@@ -167,7 +167,7 @@ Als cat sta je achter het doelwit: Shred vraagt het, de vijand kan je niet parry
 
 **Gear.** Leather met de stats hierboven. Feral-aanvallen gebruiken in Forever wapenschade, dus zoek een hard slaand tweehandig wapen, maar niet een met nutteloze stats. Een **idol** in het relic-slot geeft een kleine bonus; er twee meenemen om te wisselen kan. Gear voor level 60 is nog niet bekend.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|

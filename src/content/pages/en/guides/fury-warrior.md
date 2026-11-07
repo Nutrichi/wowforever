@@ -3,7 +3,7 @@ title: "Fury Warrior guide for WoW Forever"
 metaTitle: "WoW Forever Fury Warrior: level 30 build, rotation and Rage"
 description: "The Fury Warrior in WoW Forever: the level 30 build with Cruelty, Unbridled Wrath and Death Wish, the rotation, Rage, stance dancing, stats, weapons and races."
 short: "Fury Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Fury Warrior good in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Which race is best for a Fury Warrior?"
     a: "Human for the Alliance, for 1% more critical strike chance, or Dwarf for 1% hit. Orc for the Horde, for Blood Fury. Every race can play a Warrior, and every pick works."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
@@ -115,7 +115,7 @@ Rage is everything. With endless Rage you would never stop pressing buttons, so 
 
 ## Stats and gear
 
-The exact order at level 60 follows after the launch. These stats help a Fury Warrior:
+The exact order at level 60 follows once we can test level 60 in the live game. These stats help a Fury Warrior:
 
 - **Hit chance.** A miss deals nothing and gives no Rage.
 - **Critical strike chance.** More damage and more Rage, one of the best stats you can get. Agility adds some critical strike chance too.

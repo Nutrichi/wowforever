@@ -38,7 +38,7 @@ export const ui = {
   en: {
     'site.title': 'WoW Forever',
     'site.homeTitle': 'WoW Forever - News, BiS and Guides for WoW Forever and Classic',
-    'site.description': 'An independent fansite for World of Warcraft: Forever and WoW Classic, with news, best-in-slot lists, class guides and tradeskills.',
+    'site.description': 'An independent fansite for World of Warcraft: Forever and WoW Classic, with news, best-in-slot lists, class guides and professions.',
     'site.disclaimer':
       'Not affiliated with or endorsed by Blizzard Entertainment.',
 
@@ -49,7 +49,7 @@ export const ui = {
     'nav.guides': 'Guides',
     'nav.bis': 'BiS',
     'nav.classes': 'Classes',
-    'nav.tradeskills': 'Tradeskills',
+    'nav.tradeskills': 'Professions',
     'nav.talents': 'Tools',
     'nav.reputations': 'Reputations',
     'nav.clips': 'Clips',
@@ -193,7 +193,7 @@ export const ui = {
 
   nl: {
     'site.homeTitle': 'WoW Forever - Nieuws, BiS en gidsen voor WoW Forever en Classic',
-    'site.description': 'Een onafhankelijke fansite over World of Warcraft: Forever en WoW Classic, met nieuws, best-in-slotlijsten, classgidsen en tradeskills.',
+    'site.description': 'Een onafhankelijke fansite over World of Warcraft: Forever en WoW Classic, met nieuws, best-in-slotlijsten, classgidsen en beroepen.',
     'site.disclaimer':
       'Geen band met en niet goedgekeurd door Blizzard Entertainment.',
 
@@ -204,7 +204,7 @@ export const ui = {
     'nav.guides': 'Gidsen',
     'nav.bis': 'BiS',
     'nav.classes': 'Classes',
-    'nav.tradeskills': 'Tradeskills',
+    'nav.tradeskills': 'Beroepen',
     'nav.talents': 'Tools',
     'nav.reputations': 'Reputaties',
     'nav.clips': 'Clips',
@@ -342,7 +342,7 @@ export const ui = {
 
   fr: {
     'site.homeTitle': 'WoW Forever - Actualités, BiS et guides pour WoW Forever et Classic',
-    'site.description': 'Un site de fans indépendant sur World of Warcraft: Forever et WoW Classic, avec l’actualité, les listes best-in-slot, les guides de classe et les tradeskills.',
+    'site.description': 'Un site de fans indépendant sur World of Warcraft: Forever et WoW Classic, avec l’actualité, les listes best-in-slot, les guides de classe et les métiers.',
     'site.disclaimer':
       'Non affilié à Blizzard Entertainment ni approuvé par celui-ci.',
 
@@ -353,7 +353,7 @@ export const ui = {
     'nav.guides': 'Guides',
     'nav.bis': 'BiS',
     'nav.classes': 'Classes',
-    'nav.tradeskills': 'Tradeskills',
+    'nav.tradeskills': 'Métiers',
     'nav.talents': 'Outils',
     'nav.reputations': 'Réputations',
     'nav.clips': 'Clips',
@@ -491,7 +491,7 @@ export const ui = {
 
   es: {
     'site.homeTitle': 'WoW Forever - Noticias, BiS y guías de WoW Forever y Classic',
-    'site.description': 'Un sitio de fans independiente sobre World of Warcraft: Forever y WoW Classic, con noticias, listas best-in-slot, guías de clase y tradeskills.',
+    'site.description': 'Un sitio de fans independiente sobre World of Warcraft: Forever y WoW Classic, con noticias, listas best-in-slot, guías de clase y profesiones.',
     'site.disclaimer':
       'Sin vínculo con Blizzard Entertainment ni aprobado por esta.',
 
@@ -502,7 +502,7 @@ export const ui = {
     'nav.guides': 'Guías',
     'nav.bis': 'BiS',
     'nav.classes': 'Clases',
-    'nav.tradeskills': 'Tradeskills',
+    'nav.tradeskills': 'Profesiones',
     'nav.talents': 'Herramientas',
     'nav.reputations': 'Reputaciones',
     'nav.clips': 'Clips',
@@ -640,7 +640,7 @@ export const ui = {
 
   it: {
     'site.homeTitle': 'WoW Forever - Notizie, BiS e guide per WoW Forever e Classic',
-    'site.description': 'Un sito di fan indipendente su World of Warcraft: Forever e WoW Classic, con notizie, liste best-in-slot, guide delle classi e tradeskill.',
+    'site.description': 'Un sito di fan indipendente su World of Warcraft: Forever e WoW Classic, con notizie, liste best-in-slot, guide delle classi e professioni.',
     'site.disclaimer':
       'Non affiliato né approvato da Blizzard Entertainment.',
 
@@ -651,7 +651,7 @@ export const ui = {
     'nav.guides': 'Guide',
     'nav.bis': 'BiS',
     'nav.classes': 'Classi',
-    'nav.tradeskills': 'Tradeskills',
+    'nav.tradeskills': 'Professioni',
     'nav.talents': 'Strumenti',
     'nav.reputations': 'Reputazioni',
     'nav.clips': 'Clip',
@@ -789,7 +789,7 @@ export const ui = {
 
   de: {
     'site.homeTitle': 'WoW Forever - News, BiS und Guides für WoW Forever und Classic',
-    'site.description': 'Eine unabhängige Fanseite zu World of Warcraft: Forever und WoW Classic, mit News, Best-in-Slot-Listen, Klassenguides und Tradeskills.',
+    'site.description': 'Eine unabhängige Fanseite zu World of Warcraft: Forever und WoW Classic, mit News, Best-in-Slot-Listen, Klassenguides und Berufe.',
     'site.disclaimer':
       'Nicht mit Blizzard Entertainment verbunden oder von ihm unterstützt.',
 
@@ -800,7 +800,7 @@ export const ui = {
     'nav.guides': 'Guides',
     'nav.bis': 'BiS',
     'nav.classes': 'Klassen',
-    'nav.tradeskills': 'Tradeskills',
+    'nav.tradeskills': 'Berufe',
     'nav.talents': 'Tools',
     'nav.reputations': 'Ruf',
     'nav.clips': 'Clips',

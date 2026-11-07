@@ -3,7 +3,7 @@ title: "Gnomeregan"
 metaTitle: "Guide de Gnomeregan pour WoW Forever : parcours, trash et boss"
 description: "Comment faire Gnomeregan dans WoW Forever : la porte avant et la porte arrière au Train Depot, l’accès de la Horde, le parcours sur quatre niveaux et les cinq boss."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: fr
 manual: true
 sources:
@@ -66,4 +66,4 @@ Le boss final, dans le Tinkers' Court. Tankez-le au milieu de la salle. Knock Aw
 ## Ce qu’on ne sait pas encore
 
 - **Les taux de butin** des boss.
-- **Les récompenses des quêtes** peuvent encore changer avant le lancement.
+- **Les récompenses des quêtes** viennent des fichiers du jeu et peuvent encore changer avec un hotfix.

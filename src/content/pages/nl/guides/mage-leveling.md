@@ -3,7 +3,7 @@ title: "Mage levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Mage levelgids: Frost, Fire en Arcane, rotatie en tips"
 description: "Zo level je een Mage in WoW Forever: waarom Frost met Ice Lance het snelst gaat, de rotatie voor Frost, Fire en Arcane, de belangrijke levels, classquests, scrolls, mana en threat."
 short: "Mage levelen"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -17,10 +17,10 @@ faq:
     a: "Het is een nieuwe Mage-spell op level 6 die scrolls ontcijfert die je in de wereld vindt. Die scrolls werken alleen voor Mages en doen van alles, van een Frog Familiar tot een wapeneffect of een scroll die sloten opent."
   - q: "Krijgt de Mage classquests in WoW Forever?"
     a: "Ja, op level 10, 15 en 26. Ze leren geen spells, maar geven items zoals staves, off-hands, robes en wands."
-  - q: "Welke tradeskills passen bij een Mage?"
+  - q: "Welk beroeps passen bij een Mage?"
     a: "Tailoring met Enchanting is het klassieke duo. Cooking loont voor elke class in Forever, want buff food geeft nu ook extra experience en je hebt het nodig voor een kamp."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30. Onze levelbuild loopt tot level 35 en wordt aangevuld zodra de builds voor hogere levels bekend zijn."
+    a: "Nog niet. De beta stopte op level 30. Onze levelbuild loopt tot level 35 en wordt aangevuld zodra de builds voor hogere levels bekend zijn."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/mage-leveling/"
@@ -34,7 +34,7 @@ De Mage levelt in WoW Forever snel en alleen, met eindeloos eten en drinken en v
 | Sterk in | Schade, crowd control, gratis eten en drinken |
 | Zwak in | Mana, threat in dungeons, weinig health |
 | Talent per level | [Levelbuild Mage](/nl/leveling/mage/) |
-| Builds tot level 60 | Na de launch op 4 november |
+| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/mage/) gaat tot 35 |
 
 ## Met welke spec level je
 

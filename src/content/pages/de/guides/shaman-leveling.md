@@ -3,7 +3,7 @@ title: "Leveling-Guide für den Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman leveln: Enhancement, Elemental und Resto"
 description: "So levelst du einen Shaman in WoW Forever: Builds für Level 30 für Enhancement, Elemental und Restoration, wichtige Stufen, Totemquests, Waffen aus Call of Air und Zonen."
 short: "Shaman leveln"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Wann bekommt ein Shaman Dual Spec?"
     a: "Auf Level 40, beim Klassenlehrer. Das ist der Moment, neben Enhancement oder Elemental eine Heilspezialisierung hinzuzufügen."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endete auf Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
@@ -37,7 +37,7 @@ Der Shaman in WoW Forever ist in jeder Gruppe willkommen: starke Totembuffs, ein
 | Schwächen | Mana, wenig Kontrolle |
 | Talentreihenfolge pro Level | [Leveling-Build für den Shaman](/de/leveling/shaman/) |
 | Guides pro Spezialisierung | [Enhancement Shaman](/de/guides/enhancement-shaman/), [Elemental Shaman](/de/guides/elemental-shaman/), [Restoration Shaman](/de/guides/restoration-shaman/) |
-| Builds bis Level 60 | Nach dem Start am 4. November |
+| Builds bis Level 60 | Der [Levelbuild](/de/leveling/shaman/), jedes Level bis 60 |
 
 ## Mit welcher Spezialisierung du levelst
 

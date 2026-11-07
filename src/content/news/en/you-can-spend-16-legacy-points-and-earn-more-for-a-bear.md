@@ -16,7 +16,7 @@ Legacy is the account-wide progression of World of Warcraft: Forever, and at the
 
 ## One point per challenge, once per account
 
-[Every Legacy challenge is worth one point](/news/legacy-points-one-per-challenge/). There are six categories. Classes and Professions fill up as you play: a class to level 25, 45 and 60, a tradeskill to 150, 225 and 300. PvP and Dungeons ask more of you. Novice Spelunker, for example, needs Ruins of Lordaeron, Wailing Caverns, The Deadmines, Shadowfang Keep, Excavation Site: Wetlands, and Ragefire Chasm or Hall of Thanes.
+[Every Legacy challenge is worth one point](/news/legacy-points-one-per-challenge/). There are six categories. Classes and Professions fill up as you play: a class to level 25, 45 and 60, a profession to 150, 225 and 300. PvP and Dungeons ask more of you. Novice Spelunker, for example, needs Ruins of Lordaeron, Wailing Caverns, The Deadmines, Shadowfang Keep, Excavation Site: Wetlands, and Ragefire Chasm or Hall of Thanes.
 
 Each challenge counts once for the whole account. A second Druid to level 25 gives nothing; a Mage to level 25 does. Your first character earns the points slowly, but every next character starts with them.
 
@@ -26,7 +26,7 @@ The points go into three trees: Professions, Adventure and Resourcefulness. Bliz
 
 | Tree | For | Example |
 |---|---|---|
-| Professions | Tradeskills and gathering | Working Overtime, more chance at a skill point; Bountiful Harvest, more Scarce materials |
+| Professions | Professions and gathering | Working Overtime, more chance at a skill point; Bountiful Harvest, more Scarce materials |
 | Adventure | Levelling, exploring, the open world | Well Rested, up to 20% faster rested experience and a 20% higher cap; Talented |
 | Resourcefulness | Resources, reputation and buffs | Gourmand, food buffs that last up to twice as long |
 

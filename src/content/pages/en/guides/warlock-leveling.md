@@ -3,7 +3,7 @@ title: "Warlock leveling guide for WoW Forever"
 metaTitle: "WoW Forever Warlock leveling guide: Affliction, Demonology and Destruction builds to 30"
 description: "How to level a Warlock in WoW Forever: the early build, three level 30 builds for Affliction, Demonology and Destruction, the rotation, key levels, the class quests for every demon, wands, professions, Life Tap and Fear."
 short: "Warlock leveling"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is the best spec to level a Warlock in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which professions suit a Warlock?"
     a: "Tailoring with Enchanting is the classic pair: Tailoring makes Shadow gear and its camp gives Spirit, Enchanting makes the first good wands. First Aid is useful too, because it now makes cures for poison, disease and bleeds."
   - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: the beta stops at level 30. Our Warlock level build gives a talent for every level to 60."
+    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Warlock level build gives a talent for every level to 40."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warlock-leveling/"
@@ -34,7 +34,7 @@ The Warlock is one of the most self-sufficient classes in WoW Forever. Your dama
 | Weakness | Slow start, Soul Shards to farm, little to do against many monsters at once |
 | Talent order per level | [Warlock level build](/leveling/warlock/) |
 | Spec guides | [Affliction Warlock](/guides/affliction-warlock/), [Demonology Warlock](/guides/demonology-warlock/), [Destruction Warlock](/guides/destruction-warlock/) |
-| Builds to level 60 | After the launch on 4 November |
+| Builds to level 60 | Not yet, the [level build](/leveling/warlock/) goes to 40 |
 
 ## Which spec to level with
 
@@ -42,7 +42,7 @@ You can level with all three, but **Affliction** is the smoothest route. Most of
 
 **Demonology** becomes comfortable with Demonic Brand at 25 points: then your demon holds the monsters. **Destruction** is the hardest alone, because it stands still and casts, and its spells cost more mana. It is strong in dungeons.
 
-The builds below are made for the beta, which stops at level 30. The Affliction build has a version with five extra points for Talented from the Legacy system. The talent calculator shows that version as level 35, because it counts every point as a level. Builds for level 60 follow after the launch.
+The builds below were made on the beta, which stopped at level 30. The Affliction build has a version with five extra points for Talented from the Legacy system. The talent calculator shows that version as level 35, because it counts every point as a level. Builds for level 60 follow once we can test them in the live game.
 
 More about the spec at level 60 is in the [Affliction Warlock guide](/guides/affliction-warlock/).
 

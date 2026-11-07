@@ -3,7 +3,7 @@ title: "Assassination-Rogue-Guide für WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: Gift-Builds, Venom und Rotation"
 description: "Der Assassination Rogue in WoW Forever: Venom und Shank, Mutilate ab Level 40, zwei Builds für Level 30 für Solo und mit Improved Expose Armor, Rotation, Energie und Gifte."
 short: "Assassination Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welches Volk ist das beste für einen Assassination Rogue?"
     a: "Human für die Allianz, für 1 % mehr kritische Trefferchance, die jetzt auch für Gifte zählt. Orc für die Horde, für 10 % mehr Angriffskraft durch Blood Fury."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endet bei Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
@@ -169,7 +169,7 @@ Der Rogue ist zerbrechlich, trifft aber hart, also entscheidet der Kampfbeginn, 
 
 ## Werte und Ausrüstung
 
-Die genaue Reihenfolge auf Level 60 folgt nach dem Start. Diese Werte helfen einem Assassination Rogue:
+Die genaue Reihenfolge auf Level 60 folgt, sobald wir Level 60 im Live-Spiel testen können. Diese Werte helfen einem Assassination Rogue:
 
 - **Beweglichkeit.** Dein Kernwert: 1 Angriffskraft pro Punkt, 1 % kritische Trefferchance pro 29 Punkte und 1 % Ausweichen pro 14,5 Punkte. Staple so viel wie möglich.
 - **Angriffskraft.** Mehr Waffen- und Fähigkeitsschaden, und in Forever auch mehr Giftschaden.

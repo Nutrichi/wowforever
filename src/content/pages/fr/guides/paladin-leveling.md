@@ -3,7 +3,7 @@ title: "Monter un Paladin dans WoW Forever : le guide"
 metaTitle: "Guide leveling Paladin WoW Forever : builds Retribution, Protection et Shockadin jusqu'au 30"
 description: "Comment monter un Paladin dans WoW Forever : le premier build, trois builds niveau 30 pour Retribution, Protection et Shockadin, la rotation, les niveaux clés, les quêtes de classe et leurs armes, les seals, les auras et les blessings."
 short: "Leveling Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quels métiers conviennent à un Paladin ?"
     a: "Blacksmithing avec Mining. Blacksmithing fabrique de l'équipement lié avec des stats qu'on trouve rarement ailleurs, comme de la puissance des sorts pour la plaque. Cooking est indispensable pour toutes les classes, pour le bonus d'expérience et votre propre feu de camp."
   - q: "Y a-t-il déjà un build niveau 60 ?"
-    a: "Pas dans ce guide : la bêta s'arrête au niveau 30. Notre build de leveling du Paladin donne un talent pour chaque niveau jusqu'au 60."
+    a: "Pas dans ce guide : ses builds s'arrêtent au niveau 30, là où la bêta s'arrêtait. Notre build de leveling du Paladin donne un talent pour chaque niveau jusqu’au 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/paladin-leveling/"
@@ -35,7 +35,7 @@ Le Paladin monte lentement mais sûrement. Vous vous soignez vous-même, vous av
 | Points faibles | Tue un monstre à la fois, du mana entre les combats, peu de moyens de fuir |
 | Talent par niveau | [Build de leveling du Paladin](/fr/leveling/paladin/) |
 | Guides par spé | [Retribution Paladin](/fr/guides/retribution-paladin/), [Holy Paladin](/fr/guides/holy-paladin/) |
-| Builds jusqu'au niveau 60 | Après la sortie le 4 novembre |
+| Builds jusqu'au niveau 60 | Pas encore, le [build de leveling](/fr/leveling/paladin/) va jusqu’au 35 |
 
 ## Quelle spé pour monter
 
@@ -43,7 +43,7 @@ Vous pouvez monter avec les trois. **Retribution** est le choix classique : une 
 
 Pendant les 20 à 30 premiers niveaux, mettez vos points en Retribution, même si vous comptez tanker des donjons avec un bouclier plus tard. Dans chaque spé, l'essentiel de vos dégâts vient des trois mêmes touches : un seal, Judgement et Holy Strike.
 
-Les builds ci-dessous sont faits pour la bêta, qui s'arrête au niveau 30. Chacun a 26 points : vous les avez au niveau 30 avec cinq points de plus de Talented du système Legacy, ou au niveau 35 sans eux. Le calculateur de talents affiche un tel build comme niveau 35, car il compte chaque point comme un niveau. Les builds niveau 60 suivront après la sortie.
+Les builds ci-dessous ont été faits sur la bêta, qui s'arrêtait au niveau 30. Chacun a 26 points : vous les avez au niveau 30 avec cinq points de plus de Talented du système Legacy, ou au niveau 35 sans eux. Le calculateur de talents affiche un tel build comme niveau 35, car il compte chaque point comme un niveau. Les builds niveau 60 suivront dès que nous pourrons les tester dans le jeu live.
 
 ## Niveaux 1 à 10
 

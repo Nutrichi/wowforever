@@ -3,7 +3,7 @@ title: "Paladin leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Paladin-Levelguide: Builds für Retribution, Protection und Shockadin bis 30"
 description: "So levelst du einen Paladin in WoW Forever: der erste Build, drei Builds für Level 30 für Retribution, Protection und Shockadin, die Rotation, wichtige Level, die Klassenquests und ihre Waffen, Seals, Auren und Blessings."
 short: "Paladin leveln"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welche Berufe passen zu einem Paladin?"
     a: "Blacksmithing mit Mining. Blacksmithing stellt gebundene Ausrüstung mit Werten her, die du sonst selten findest, etwa Zaubermacht für Plattenträger. Cooking ist für jede Klasse Pflicht, für den Erfahrungsbuff und dein eigenes Lagerfeuer."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Nicht in diesem Guide: Die Beta endet auf Level 30. Unser Levelbuild für den Paladin gibt ein Talent für jedes Level bis 60."
+    a: "Nicht in diesem Guide: Seine Builds enden bei Level 30, wo die Beta endete. Unser Levelbuild für den Paladin gibt ein Talent für jedes Level bis 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/paladin-leveling/"
@@ -35,7 +35,7 @@ Der Paladin levelt langsam, aber sicher. Du heilst dich selbst, hast einen Schut
 | Schwächen | Tötet ein Monster nach dem anderen, Mana zwischen den Pulls, wenig zum Fliehen |
 | Talent pro Level | [Levelbuild für den Paladin](/de/leveling/paladin/) |
 | Guides pro Spezialisierung | [Retribution Paladin](/de/guides/retribution-paladin/), [Holy Paladin](/de/guides/holy-paladin/) |
-| Builds bis Level 60 | Nach dem Launch am 4. November |
+| Builds bis Level 60 | Noch nicht, der [Levelbuild](/de/leveling/paladin/) geht bis 35 |
 
 ## Mit welcher Spezialisierung leveln
 
@@ -43,7 +43,7 @@ Du kannst mit allen drei leveln. **Retribution** ist die klassische Wahl: eine g
 
 Setz deine Punkte in den ersten 20 bis 30 Leveln in Retribution, auch wenn du später mit einem Schild Dungeons tanken willst. In jeder Spezialisierung kommt der meiste Schaden von denselben drei Tasten: ein Seal, Judgement und Holy Strike.
 
-Die Builds unten sind für die Beta gemacht, die auf Level 30 endet. Jeder hat 26 Punkte: Die hast du auf Level 30 mit fünf zusätzlichen Punkten aus Talented im Legacy-System, oder auf Level 35 ohne sie. Der Talentrechner zeigt so einen Build als Level 35, weil er jeden Punkt als Level zählt. Builds für Level 60 folgen nach dem Launch.
+Die Builds unten wurden auf der Beta gemacht, die auf Level 30 endete. Jeder hat 26 Punkte: Die hast du auf Level 30 mit fünf zusätzlichen Punkten aus Talented im Legacy-System, oder auf Level 35 ohne sie. Der Talentrechner zeigt so einen Build als Level 35, weil er jeden Punkt als Level zählt. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können.
 
 ## Level 1 bis 10
 

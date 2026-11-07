@@ -3,7 +3,7 @@ title: "Discipline Priest in WoW Forever: de gids"
 metaTitle: "WoW Forever Discipline Priest: 31/20/0-build, Penance en stats"
 description: "De Discipline Priest in WoW Forever: de build 31/20/0 voor level 60, Penance, Divine Aegis, Renewed Hope en Power Infusion, tankhealing, mana, stats en races."
 short: "Discipline Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Kan Discipline schade doen?"
     a: "Smite-builds kunnen met talenten zoals Power in Light en Penance, maar Smite heeft nog altijd zijn problemen. Deze gids houdt het bij healen."
   - q: "Is deze build definitief?"
-    a: "Nee. Hij gebruikt de talenten van de betabuild van 15 oktober voor level 60. De beta stopt op level 30, dus waarden kunnen nog veranderen voor of na de lancering op 4 november."
+    a: "Nee. Hij gebruikt de talenten van de betabuild van 15 oktober voor level 60. De beta stopte op level 30, dus deze talenten zijn nooit op level 60 getest en kunnen nog veranderen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/discipline-priest/"
@@ -149,7 +149,7 @@ De volgorde voor een Discipline Priest:
 
 **Ring.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281635"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Philanthropist's Ring</a> geeft 10 spell power voor 20 boeken. Zie de [gids voor de bibliotheekboeken](/nl/guides/library-books/).
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|
@@ -159,4 +159,4 @@ De volgorde voor een Discipline Priest:
 
 De verschillen tussen de races zijn heel klein. Kies het ras dat je leuk vindt.
 
-**Tradeskills.** Tailoring geeft je cloth-gear, en Forever voegt nieuwe patterns toe, zoals belts op level 10 met healing power. Enchanting maakt je eigen wands en enchants. Engineering krijgt nieuwe schematics en trinkets in Forever en is altijd een sterke keuze.
+**Beroepen.** Tailoring geeft je cloth-gear, en Forever voegt nieuwe patterns toe, zoals belts op level 10 met healing power. Enchanting maakt je eigen wands en enchants. Engineering krijgt nieuwe schematics en trinkets in Forever en is altijd een sterke keuze.

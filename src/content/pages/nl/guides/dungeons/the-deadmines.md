@@ -12,7 +12,7 @@ faq:
   - q: "Waar is de ingang van The Deadmines?"
     a: "In Westfall, in de Defias Hideout, het grote gebouw in het zuidwesten van Moonbrook op /way 42 72. Het portaal ligt onderaan de grotten eronder."
   - q: "Is de loot van The Deadmines veranderd in WoW Forever?"
-    a: "Ja. Bijna elke drop van een baas is nu blauw, vaak met een nieuw effect. Rockslicer delft erts zonder de tradeskill, Smelting Pants smelten sneller en de set Defias Leather heeft nieuwe bonussen."
+    a: "Ja. Bijna elke drop van een baas is nu blauw, vaak met een nieuw effect. Rockslicer delft erts zonder het beroep, Smelting Pants smelten sneller en de set Defias Leather heeft nieuwe bonussen."
   - q: "Kan de Horde de quests van The Deadmines doen?"
     a: "Nee. Alle zeven de quests van The Deadmines zijn quests van de Alliance. Spelers van de Horde kunnen de dungeon wel lopen voor de loot."
 sources:

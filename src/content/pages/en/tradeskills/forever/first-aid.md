@@ -16,7 +16,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/first-aid/"
 ---
-First Aid is a secondary tradeskill, so it never takes one of your two main slots. In WoW Forever it does far more than bandages: it now crafts the healing potions, and curatives against poison, disease and bleeding.
+First Aid is a secondary profession, so it never takes one of your two main slots. In WoW Forever it does far more than bandages: it now crafts the healing potions, and curatives against poison, disease and bleeding.
 
 ![Doctor Gustaf VanHowzen, Trauma Surgeon, in his infirmary in Theramore, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-doctor-gustaf-vanhowzen.jpg)
 
@@ -74,7 +74,7 @@ First Aid is a secondary tradeskill, so it never takes one of your two main slot
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3928"><img class="wf-wh__icon" src="/wh/inv_potion_53.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Superior Healing Potion</a> | 215 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=255725"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Superior Healing Potion</a> | |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13446"><img class="wf-wh__icon" src="/wh/inv_potion_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Healing Potion</a> | 275 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=255729"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Major Healing Potion</a> | |
 
-Besides the herb, a potion takes a vial and spices from a tradeskill vendor. The herbs of the higher potions are not in the guides yet.
+Besides the herb, a potion takes a vial and spices from a profession vendor. The herbs of the higher potions are not in the guides yet.
 
 ## Curatives
 
@@ -107,7 +107,7 @@ How a campsite works is in the [camping guide](/guides/camping/).
 
 There are now two complete routes. Both need the same books from 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> for the rank, and the manuals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, all from the Expert vendors above. They can be traded, so the Auction House works too.
 
-**The fast route to 150: healing potions.** The potions skip the bandages and need only herbs, a vial and spices from a tradeskill vendor.
+**The fast route to 150: healing potions.** The potions skip the bandages and need only herbs, a vial and spices from a profession vendor.
 
 | Skill | Craft | Materials |
 |---|---|---|
@@ -159,8 +159,8 @@ Where the cloth drops:
 
 | Perk | Effect |
 |---|---|
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Higher chance on a skill point in any tradeskill |
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Once a day a free skill point in your lowest tradeskill |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Higher chance on a skill point in any profession |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Once a day a free skill point in your lowest profession |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225475"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Medicine</a> | Shorter Recently Bandaged, in the open world only |
 
 The perks are in the [Legacy calculator](/talents/legacy/).

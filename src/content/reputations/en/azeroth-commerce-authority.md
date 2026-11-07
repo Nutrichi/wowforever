@@ -1,6 +1,6 @@
 ---
 title: "Azeroth Commerce Authority reputation guide"
-description: "Azeroth Commerce Authority in WoW Forever: the Alliance supply camp at Three Corners, crates for Merchant's Favor, recipes for seven tradeskills, the Pack Kodo, titles and tabard."
+description: "Azeroth Commerce Authority in WoW Forever: the Alliance supply camp at Three Corners, crates for Merchant's Favor, recipes for seven professions, the Pack Kodo, titles and tabard."
 lang: en
 updated: 2026-09-29
 faction: "Azeroth Commerce Authority"
@@ -10,14 +10,14 @@ origin: forever
 start: neutral
 cap: exalted
 method: "Loot crates in the world, fill them and hand them in to Marcy Baker at the camp at Three Corners in Redridge Mountains."
-rewards: "Recipes for seven tradeskills, tradeskill titles, the Pack Kodo mount, a Minimule pet, a tradeskill sign toy at Honored and two tabards at Exalted."
+rewards: "Recipes for seven professions, profession titles, the Pack Kodo mount, a Minimule pet, a profession sign toy at Honored and two tabards at Exalted."
 sources:
   - name: "Wowhead, the reputation guide"
     url: "https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions"
   - name: "Wowhead, the faction"
     url: "https://www.wowhead.com/forever/faction=2586/azeroth-commerce-authority"
 ---
-The Azeroth Commerce Authority is the Alliance supply faction of WoW Forever. You loot crates in the world, fill them and hand them in at its camp for Merchant's Favor. That currency buys recipes, a mount, a pet, a toy and tradeskill titles. The Horde counterpart is [Durotar Supply and Logistics](/reputations/durotar-supply-and-logistics/).
+The Azeroth Commerce Authority is the Alliance supply faction of WoW Forever. You loot crates in the world, fill them and hand them in at its camp for Merchant's Favor. That currency buys recipes, a mount, a pet, a toy and profession titles. The Horde counterpart is [Durotar Supply and Logistics](/reputations/durotar-supply-and-logistics/).
 
 ![The vendor window of Huey Sunnydale with the Reins of the Pack Kodo for 6000 Merchant's Favor, a screenshot from the beta of World of Warcraft: Forever](../../../assets/posts/2026-09-23-wow-forever-pack-kodo-vendor.jpg)
 
@@ -39,7 +39,7 @@ The camp stands at Three Corners in Redridge Mountains, just outside town where 
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | Leatherworking | 10.0 72.9 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | An Auction House, linked to the Alliance capitals | 9.7 72.0 |
 
-The name is familiar from Season of Discovery, where the Azeroth Commerce Exchange worked in a comparable way. In Forever the faction is larger and tied to the tradeskills.
+The name is familiar from Season of Discovery, where the Azeroth Commerce Exchange worked in a comparable way. In Forever the faction is larger and tied to the professions.
 
 ## What Merchant's Favor buys
 
@@ -51,11 +51,11 @@ The name is familiar from Season of Discovery, where the Azeroth Commerce Exchan
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | | Exalted |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280449"><img class="wf-wh__icon" src="/wh/8101155.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skyborne Tabard</a> | | Exalted, according to the item itself |
 
-## Recipes per tradeskill
+## Recipes per profession
 
-Every tradeskill vendor sells recipes for Merchant's Favor. The full lists are in [this reputation guide](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Every profession vendor sells recipes for Merchant's Favor. The full lists are in [this reputation guide](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
 
-| Tradeskill | Vendor | Recipes | Skill | Merchant's Favor |
+| Profession | Vendor | Recipes | Skill | Merchant's Favor |
 |---|---|---|---|---|
 | Enchanting | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256732">Alynsia</a> | 39 | 130 to 300 | 45 to 240 |
 | Alchemy | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256729">Nina Surefire</a> | 29 | 65 to 300 | 45 to 240 |
@@ -67,9 +67,9 @@ Every tradeskill vendor sells recipes for Merchant's Favor. The full lists are i
 
 A few examples: <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249479"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Weapon - Insight</a> and <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274401"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Bracer - Greater Spellpower</a> for Enchanting, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250374"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Elixir of Sages</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250384"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Elixir of the Whale</a> for Alchemy, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=264235"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Schematic: Ultralight Goblin Glider</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=264222"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Schematic: Loot-A-Rang</a> for Engineering.
 
-## Titles for tradeskill 300
+## Titles for profession 300
 
-At skill 300 a vendor sells a certification. It unlocks the title for every character on the account; a character shows it only with 300 in that tradeskill itself.
+At skill 300 a vendor sells a certification. It unlocks the title for every character on the account; a character shows it only with 300 in that profession itself.
 
 | Certification | Title | Merchant's Favor |
 |---|---|---|
@@ -104,4 +104,4 @@ The scale is the standard one, so from Neutral to Exalted is 42,000 reputation.
 
 - **How much reputation a crate gives**, and whether there is a daily or weekly limit.
 - **Where a new character starts.** Neutral is the assumption here, not a confirmed value.
-- **Which crate belongs to which tradeskill**, and how many you can carry.
+- **Which crate belongs to which profession**, and how many you can carry.

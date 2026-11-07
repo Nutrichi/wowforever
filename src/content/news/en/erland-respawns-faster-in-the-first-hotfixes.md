@@ -25,7 +25,7 @@ The hotfixes are dated 5 November and appeared that night on the forums of Blizz
 
 ## Items
 
-- The trade supply vendors on Zephras Isle sell the apprentice tradeskill bags again.
+- The trade supply vendors on Zephras Isle sell the apprentice profession bags again.
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2678"><img class="wf-wh__icon" src="/wh/inv_misc_food_wheat_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mild Spices</a> sell to a vendor for 1 copper each, down from 2 copper.
 
 ## Player versus Player

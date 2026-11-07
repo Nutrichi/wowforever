@@ -1,9 +1,9 @@
 ---
 title: "Hunter levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Hunter-levelgids: builds voor Beast Mastery, Marksmanship en Survival tot 30"
-description: "Een Hunter levelen in WoW Forever: de eerste levels, drie builds voor level 30 voor Beast Mastery, Marksmanship en Survival met talentvolgorde, de rotatie, de belangrijke levels, de temquest, wapens, gear, tradeskills, pets, traps, tracking en Aspects."
+description: "Een Hunter levelen in WoW Forever: de eerste levels, drie builds voor level 30 voor Beast Mastery, Marksmanship en Survival met talentvolgorde, de rotatie, de belangrijke levels, de temquest, wapens, gear, beroepen, pets, traps, tracking en Aspects."
 short: "Hunter levelen"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -15,10 +15,10 @@ faq:
     a: "Nee. Lone Wolf geeft 20% meer schade zonder pet, maar juist de pet maakt levelen als Hunter vlot: hij houdt de threat vast en houdt monsters bij je weg."
   - q: "Wat is nieuw voor Hunters in WoW Forever?"
     a: "Summon Hawk in Beast Mastery, Lone Wolf, Careful Aim, Rapid Killing en Rapid Recuperation in Marksmanship, en Strider Kick, Expose Prey, Predator's Edge en Lacerating Strikes in Survival. Aimed Shot leer je nu op level 20 bij de trainer. Pets krijgen ook de buffs van Camping."
-  - q: "Welke tradeskills passen bij een Hunter?"
+  - q: "Welk beroeps passen bij een Hunter?"
     a: "Skinning met Leatherworking, voor sterke soulbound levelgear en een kampbuff van 2% critical strike chance. Cooking is een must voor elke class, voor de experiencebuff en je eigen kampvuur. Engineers maken scopes voor je afstandswapen."
   - q: "Is er al een build voor level 60?"
-    a: "Niet uit deze gids: de beta stopt op level 30. Onze levelbuild voor de Hunter geeft een talent voor elk level tot 35."
+    a: "Niet uit deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Hunter geeft een talent voor elk level tot 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/hunter-leveling/"
@@ -33,13 +33,13 @@ De Hunter is een van de sterkste classes om te levelen. Je doet schade van afsta
 | Zwak in | Een trage start tot level 10, mana en munitie |
 | Talentvolgorde per level | [Levelbuild voor de Hunter](/nl/leveling/hunter/) |
 | Gidsen per spec | [Beast Mastery Hunter](/nl/guides/beast-mastery-hunter/), [Marksmanship Hunter](/nl/guides/marksmanship-hunter/), [Survival Hunter](/nl/guides/survival-hunter/) |
-| Builds tot level 60 | Na de launch op 4 november |
+| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/hunter/) gaat tot 35 |
 
 ## Met welke spec levelen
 
 Alle drie de bomen levelen. **Beast Mastery** gaat het vlotst: je pet doet meer schade en overleeft meer, en met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2649"><img class="wf-wh__icon" src="/wh/ability_physical_taunt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Growl</a> houdt hij het monster op zich terwijl jij schiet. **Marksmanship** doet meer schade met je eigen schoten, dus trek je vaker threat en moet je kiten. **Survival** mengt melee, traps en schoten, en vraagt het meest van je.
 
-Hunters kunnen ook goed om met monsters een paar levels hoger, dankzij hun bereik en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. De builds hieronder zijn gemaakt voor de beta, die stopt op level 30, met 21 punten. Talented uit het Legacy-systeem geeft 5 punten extra, en je bereikt elk talent tot vijf levels eerder. Builds voor level 60 volgen na de launch.
+Hunters kunnen ook goed om met monsters een paar levels hoger, dankzij hun bereik en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. De builds hieronder zijn gemaakt op de beta, die stopte op level 30, met 21 punten. Talented uit het Legacy-systeem geeft 5 punten extra, en je bereikt elk talent tot vijf levels eerder. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
 
 ## Level 1 tot 10
 
@@ -248,9 +248,9 @@ Leer je een nieuw soort wapen, dan moet je eerst de skill trainen voor je er bet
 
 **Gemaakte gear en dungeonloot.** Leatherworking kreeg vroeg sterke nieuwe recepten, zoals <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=252425"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dark Leather Boots</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=252504"><img class="wf-wh__icon" src="/wh/inv_helmet_31.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brawler's Leather Hood</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=252521"><img class="wf-wh__icon" src="/wh/inv_belt_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Stalker's Leather Belt</a>. Dungeons geven upgrades zoals <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271212"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bloodied Chestwraps</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9624"><img class="wf-wh__icon" src="/wh/inv_pants_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Triprunner Dungarees</a>.
 
-## Tradeskills
+## Beroepen
 
-Level je tradeskills samen met je Hunter, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elke tradeskill, en in Forever krijgt je pet ze ook.
+Level je beroepen samen met je Hunter, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elk beroep, en in Forever krijgt je pet ze ook.
 
 - **Cooking** is een must: buffvoedsel geeft extra experience, en je hebt het nodig voor een kampvuur.
 - **Leatherworking** maakt sterke soulbound levelgear en geeft een buff voor rested experience aan je kamp.

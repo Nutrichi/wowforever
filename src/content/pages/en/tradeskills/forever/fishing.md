@@ -15,7 +15,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
 ---
-Fishing is a secondary tradeskill, so it never costs you one of your two main slots. Little changes in the fishing itself in WoW Forever, but the fish matter more: Cooking turns them into food with a buff and 5% bonus experience.
+Fishing is a secondary profession, so it never costs you one of your two main slots. Little changes in the fishing itself in WoW Forever, but the fish matter more: Cooking turns them into food with a buff and 5% bonus experience.
 
 <div class="wf-gallery">
   <figure><img src="/guides/camping/fish-bowl.jpg" alt="The Fish Bowl, a metal bowl of water at a campsite" width="480" height="360" loading="lazy"><figcaption><strong>Fish Bowl</strong> 8% all stats at a camp</figcaption></figure>

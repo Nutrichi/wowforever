@@ -9,7 +9,7 @@ faq:
   - q: "Hoe ver kun je Mining levelen door te smelten in WoW Forever?"
     a: "Tot 185. Koper, tin, brons, zilver, ijzer en goud smelten geeft allemaal skill, behalve tussen 140 en 155. Na 185 kom je alleen nog hoger door aders te minen."
   - q: "Kun je Mining leren zonder trainer?"
-    a: "Ja. Een vroege quest in de startgebieden laat je Mining for Dummies kiezen, dat Apprentice Mining leert als je minder dan twee primaire tradeskills hebt."
+    a: "Ja. Een vroege quest in de startgebieden laat je Mining for Dummies kiezen, dat Apprentice Mining leert als je minder dan twee primaire beroepen hebt."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/mining/overview-leveling"
@@ -148,4 +148,4 @@ Twee andere items helpen zonder bonus. <a class="wf-wh wf-q3" href="https://www.
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1306126"><img class="wf-wh__icon" src="/wh/item_elementiumbar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Smelt Heavy Thorium</a> | 300 | Trainer, vraagt een Molten Foundry |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263071"><img class="wf-wh__icon" src="/wh/inv_blacksmithingalloys_red.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Molten Foundry</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273122"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Molten Foundry</a> |
 
-De perks van Mining, zoals Made of Metal, staan op de [tradeskillspagina](/nl/tradeskills/), en de Legacy-perks in de [Legacy-calculator](/nl/talents/legacy/). De volledige route van Classic staat in de [gids voor Classic Era](/nl/tradeskills/classic/mining/).
+De perks van Mining, zoals Made of Metal, staan op de [beroepenpagina](/nl/tradeskills/), en de Legacy-perks in de [Legacy-calculator](/nl/talents/legacy/). De volledige route van Classic staat in de [gids voor Classic Era](/nl/tradeskills/classic/mining/).

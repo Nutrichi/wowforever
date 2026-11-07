@@ -3,7 +3,7 @@ title: "Mage leveling guide for WoW Forever"
 metaTitle: "WoW Forever Mage leveling guide: Frost, Fire and Arcane, rotation and tips"
 description: "How to level a Mage in WoW Forever: why Frost with Ice Lance is the fastest, the rotation for Frost, Fire and Arcane, the key levels, class quests, scrolls, mana and threat."
 short: "Mage leveling"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is the best spec to level a Mage in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which professions suit a Mage?"
     a: "Tailoring with Enchanting is the classic pair. Cooking is worth it for every class in Forever, because buff food now also gives extra experience and you need it for a camp."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30. Our level build runs to level 35 and will be extended as soon as the builds for higher levels are known."
+    a: "Not yet. The beta stopped at level 30. Our level build runs to level 35 and will be extended as soon as the builds for higher levels are known."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/mage-leveling/"
@@ -33,7 +33,7 @@ The Mage in WoW Forever levels fast and alone, with endless food and water and a
 | Strength | Damage, crowd control, free food and water |
 | Weakness | Mana, threat in dungeons, low health |
 | Talent order per level | [Mage level build](/leveling/mage/) |
-| Builds to level 60 | After the launch on 4 November |
+| Builds to level 60 | Not yet, the [level build](/leveling/mage/) goes to 35 |
 
 ## Which spec to level with
 

@@ -3,7 +3,7 @@ title: "Fire Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Fire Mage: Heating Up-build, rotatie en stats"
 description: "De Fire Mage in WoW Forever: Heating Up en de nieuwe Fire Power, twee builds voor level 30 voor dungeons en solo, de Pyroblast-rotatie, mana, stats en races."
 short: "Fire Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welk ras is het beste voor een Fire Mage?"
     a: "Orc bij de Horde, omdat Blood Fury 10% spell power geeft, met Troll als tweede. Bij de Alliance eerst Human voor 1% critical strike chance, daarna de High Order Skyborne. Kies het ras dat je mooi vindt als je niet op elk procent jaagt."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de launch op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fire-mage/"
@@ -159,7 +159,7 @@ Gebruik Frost Blast of rank 1 Frostbolt om een doelwit van ver te vertragen, Con
 
 ## Stats en gear
 
-De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Fire Mage:
+De precieze volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Fire Mage:
 
 - **Spell damage en Fire spell damage** eerst. Fire spell damage helpt alleen Fire-spells, en werkt samen met Fire Power.
 - **Critical strike chance** is het hart van de spec: een critical strike doet 50% meer schade, en Heating Up, Incineration, Critical Mass, Ignite en Combustion bouwen er allemaal op.
@@ -176,7 +176,7 @@ De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Fire 
 
 ![Een Undead, een Orc en een Troll in rode en paarse casterrobes in een bos](../../../../assets/posts/2026-10-09-wow-forever-three-casters.jpg)
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|
@@ -189,4 +189,4 @@ De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Fire 
 
 Orc is de sterkste keuze in PvE, Troll de tweede. Bij de Alliance komt Human eerst voor de critical strike chance en de High Order Skyborne als tweede. Gnome kreeg nerfs in de beta en blijft vooral interessant met Engineering. Niets hiervan is sterk genoeg om een ras over te slaan dat je liever hebt.
 
-**Tradeskills.** Tailoring maakt sets van cloth met spell damage en Intellect, en past bij Enchanting voor je eigen wands en enchants. Engineering is de beste partner voor Tailoring als je de meeste schade wil. Herbalism levert aan Alchemy, dat elixirs, potions en flasks maakt.
+**Beroepen.** Tailoring maakt sets van cloth met spell damage en Intellect, en past bij Enchanting voor je eigen wands en enchants. Engineering is de beste partner voor Tailoring als je de meeste schade wil. Herbalism levert aan Alchemy, dat elixirs, potions en flasks maakt.

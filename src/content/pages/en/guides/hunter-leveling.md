@@ -3,7 +3,7 @@ title: "Hunter leveling guide for WoW Forever"
 metaTitle: "WoW Forever Hunter leveling guide: Beast Mastery, Marksmanship and Survival builds to 30"
 description: "How to level a Hunter in WoW Forever: the early levels, three level 30 builds for Beast Mastery, Marksmanship and Survival with talent order, the rotation, key levels, the taming quest, weapons, gear, professions, pets, traps, tracking and Aspects."
 short: "Hunter leveling"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is the best spec to level a Hunter in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Which professions suit a Hunter?"
     a: "Skinning with Leatherworking, for strong soulbound leveling gear and a 2% critical strike camp buff. Cooking is a must for every class, for the experience buff and your own campfire. Engineers make scopes for your ranged weapon."
   - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: the beta stops at level 30. Our Hunter level build gives a talent for every level to 35."
+    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Hunter level build gives a talent for every level to 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/hunter-leveling/"
@@ -32,13 +32,13 @@ The Hunter is one of the strongest classes to level. You deal damage from a dist
 | Weakness | A slow start until level 10, mana and ammunition |
 | Talent order per level | [Hunter level build](/leveling/hunter/) |
 | Spec guides | [Beast Mastery Hunter](/guides/beast-mastery-hunter/), [Marksmanship Hunter](/guides/marksmanship-hunter/), [Survival Hunter](/guides/survival-hunter/) |
-| Builds to level 60 | After the launch on 4 November |
+| Builds to level 60 | Not yet, the [level build](/leveling/hunter/) goes to 35 |
 
 ## Which spec to level with
 
 All three trees level. **Beast Mastery** is the smoothest: your pet deals more damage and survives more, and with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2649"><img class="wf-wh__icon" src="/wh/ability_physical_taunt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Growl</a> it keeps the monster on itself while you shoot. **Marksmanship** deals more damage from your own shots, so you pull threat more often and have to kite. **Survival** mixes melee, traps and shots, and asks the most of you.
 
-Hunters also handle monsters a few levels above them well, thanks to their range and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. The builds below are made for the beta, which stops at level 30, with 21 points. Talented from the Legacy system gives 5 extra points, and you reach each talent up to five levels sooner. Builds for level 60 follow after the launch.
+Hunters also handle monsters a few levels above them well, thanks to their range and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. The builds below were made on the beta, which stopped at level 30, with 21 points. Talented from the Legacy system gives 5 extra points, and you reach each talent up to five levels sooner. Builds for level 60 follow once we can test them in the live game.
 
 ## Levels 1 to 10
 

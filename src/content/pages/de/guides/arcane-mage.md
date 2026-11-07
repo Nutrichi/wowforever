@@ -3,7 +3,7 @@ title: "Arcane-Mage-Guide für WoW Forever"
 metaTitle: "WoW Forever Arcane Mage: Arcane-Blast-Build, Rotation, Mana, Werte und Völker"
 description: "Der Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage und Arcane Wrath, zwei Builds für Level 30 für Solo und Dungeons, die Rotation, Mana und Burn-Phasen, Überleben, Werte, Ausrüstung, Völker und Berufe."
 short: "Arcane Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welches Volk ist am besten für einen Arcane Mage?"
     a: "Orc bei der Horde, für 10 % Zaubermacht von Blood Fury alle 2 Minuten, Troll auf Platz zwei. Bei der Allianz der High Order Skyborne für Haste und zusätzliche Regeneration, danach Human. Nimm das Volk, das dir gefällt, wenn du nicht jedem Prozent nachjagst."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endet bei Level 30, Builds für Level 60 folgen nach dem Launch am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arcane-mage/"
@@ -161,7 +161,7 @@ Nutze Frost Blast oder Frostbolt Rang 1, um ein Ziel aus der Ferne zu verlangsam
 
 ## Werte und Ausrüstung
 
-Die genaue Reihenfolge auf Level 60 folgt nach dem Launch. Diese Werte helfen einem Arcane Mage:
+Die genaue Reihenfolge auf Level 60 folgt, sobald wir Level 60 im Live-Spiel testen können. Diese Werte helfen einem Arcane Mage:
 
 - **Zauberschaden und Arcane-Zauberschaden** zuerst. Arcane-Zauberschaden hilft nur Arcane-Zaubern.
 - **Intellect** zählt für Arcane mehr als für die anderen Mage-Spezialisierungen: ein größerer Manapool, 10 % mehr durch Arcane Mind, und Arcane Blast wandelt pro Stapel 18 % davon in Zauberschaden um.

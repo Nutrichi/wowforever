@@ -3,7 +3,7 @@ title: "Ragefire Chasm"
 metaTitle: "Guida a Ragefire Chasm per WoW Forever: percorso, trash e boss"
 description: "Come affrontare Ragefire Chasm in WoW Forever: l’ingresso dalla Cleft of Shadow, il percorso tra troggs e Burning Blade, il trash da tenere d’occhio e i quattro boss."
 short: "Guida"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: it
 manual: true
 sources:
@@ -74,4 +74,4 @@ Su una sporgenza con due add; quello a destra si può attirare senza di lui. Baz
 ## Cosa non si sa ancora
 
 - **Le probabilità di drop** del bottino dei boss.
-- **Le ricompense delle missioni** possono ancora cambiare prima del lancio.
+- **Le ricompense delle missioni** vengono dai file del gioco e possono ancora cambiare con un hotfix.

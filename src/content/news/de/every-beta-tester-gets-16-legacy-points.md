@@ -25,6 +25,6 @@ Community Manager Kaivax gab das am 1. Oktober in den Foren bekannt. In den erst
 
 ## Was 16 Punkte bringen
 
-[Legacy-Punkte](/de/news/legacy-points-one-per-challenge/) kommen aus Challenges: ein erstes Level 25 mit einer Klasse, eine Stufe in einem Tradeskill, ein erster Clear eines Dungeons. Jede Challenge ist einen Punkt wert. Mit 16 Punkten kann ein Tester sofort mehrere Knoten im Legacy-Baum ausprobieren.
+[Legacy-Punkte](/de/news/legacy-points-one-per-challenge/) kommen aus Challenges: ein erstes Level 25 mit einer Klasse, eine Stufe in einem Beruf, ein erster Clear eines Dungeons. Jede Challenge ist einen Punkt wert. Mit 16 Punkten kann ein Tester sofort mehrere Knoten im Legacy-Baum ausprobieren.
 
 Welche Knoten in 16 Punkte passen, lässt sich im [Legacy-Rechner](/de/talents/legacy/) nachsehen. Die Punkte gelten nur für die Beta. Ob Charaktere zum Launch mit Punkten starten, sagt Blizzard nicht.

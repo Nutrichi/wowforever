@@ -3,7 +3,7 @@ title: "Subir un Warrior en WoW Forever: la guía"
 metaTitle: "Subida de Warrior en WoW Forever: Arms, Fury y Protection al 30"
 description: "Cómo subir un Warrior en WoW Forever: el primer build, tres builds de nivel 30 para Arms, Fury y Protection, la rotación, niveles clave, misiones de actitud y Rage."
 short: "Subida del Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "¿Qué profesiones le van bien a un Warrior?"
     a: "Blacksmithing con Mining. Blacksmithing fabrica equipo ligado con estadísticas que rara vez encuentras en otro sitio, por ejemplo más Defensa para tanques. Cooking es imprescindible para todas las clases, por el bonus de experiencia y tu propia hoguera."
   - q: "¿Hay ya un build para el nivel 60?"
-    a: "No en esta guía: la beta se detiene en el nivel 30. Nuestro build de subida del Warrior da un talento para cada nivel hasta el 60."
+    a: "No en esta guía: sus builds llegan al nivel 30, donde terminaba la beta. Nuestro build de subida del Warrior da un talento para cada nivel hasta el 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
@@ -35,13 +35,13 @@ El Warrior crece con cada nivel. Al principio pulsas sobre todo Heroic Strike y 
 | Puntos débiles | Sin curas propias, pausas para comer, un comienzo lento |
 | Talento por nivel | [Build de subida del Warrior](/es/leveling/warrior/) |
 | Guías por spec | [Fury Warrior](/es/guides/fury-warrior/), [Arms Warrior](/es/guides/arms-warrior/), [Protection Warrior](/es/guides/protection-warrior/) |
-| Builds hasta el nivel 60 | Después del lanzamiento el 4 de noviembre |
+| Builds hasta el nivel 60 | La [build de subida](/es/leveling/warrior/), cada nivel hasta el 60 |
 
 ## Con qué spec subir
 
 Los tres árboles suben bien. La mayoría de jugadores sube tradicionalmente como **Arms**, por su burst y su juego estable. **Fury** recibe mucho daño, así que paras más a menudo a comer, pero su daño puede compensarlo. **Protection** es mucho más fuerte que antes: quema grupos de monstruos mientras pierdes poca vida.
 
-Los builds de abajo están hechos para la beta, que se detiene en el nivel 30. Cada uno tiene 26 puntos: los tienes en el nivel 30 con cinco puntos extra de Talented del sistema Legacy, o en el nivel 35 sin ellos. La calculadora de talentos muestra un build así como nivel 35, porque cuenta cada punto como un nivel. Los builds para el nivel 60 llegarán después del lanzamiento.
+Los builds de abajo se hicieron en la beta, que terminaba en el nivel 30. Cada uno tiene 26 puntos: los tienes en el nivel 30 con cinco puntos extra de Talented del sistema Legacy, o en el nivel 35 sin ellos. La calculadora de talentos muestra un build así como nivel 35, porque cuenta cada punto como un nivel. Los builds para el nivel 60 llegarán cuando podamos probarlas en el juego en vivo.
 
 ## Niveles 1 a 10
 

@@ -9,12 +9,12 @@ faq:
   - q: "How far can you level Mining by smelting in WoW Forever?"
     a: "Up to 185. Smelting copper, tin, bronze, silver, iron and gold all gives skill, except between 140 and 155. Past 185 the only way up is mining veins."
   - q: "Can you learn Mining without a trainer?"
-    a: "Yes. An early quest in the starting zones lets you choose Mining for Dummies, which teaches Apprentice Mining if you have fewer than two primary tradeskills."
+    a: "Yes. An early quest in the starting zones lets you choose Mining for Dummies, which teaches Apprentice Mining if you have fewer than two primary professions."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/mining/overview-leveling"
 ---
-Mining is a gathering tradeskill: you mine ore from veins and smelt it into bars. Blacksmiths, Engineers, Enchanters and Tailors in WoW Forever all use those bars, and whatever you do not use yourself sells at the Auction House. It needs no gold to get started.
+Mining is a gathering profession: you mine ore from veins and smelt it into bars. Blacksmiths, Engineers, Enchanters and Tailors in WoW Forever all use those bars, and whatever you do not use yourself sells at the Auction House. It needs no gold to get started.
 
 <div class="wf-gallery">
   <figure><img src="/guides/camping/lodestone.jpg" alt="The Lodestone, a standing stone with a glowing rune" width="480" height="360" loading="lazy"><figcaption><strong>Lodestone</strong> melee Attack Power at a camp</figcaption></figure>
@@ -147,4 +147,4 @@ Two more items help without a bonus. <a class="wf-wh wf-q3" href="https://www.wo
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1306126"><img class="wf-wh__icon" src="/wh/item_elementiumbar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Smelt Heavy Thorium</a> | 300 | Trainer, needs a Molten Foundry |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263071"><img class="wf-wh__icon" src="/wh/inv_blacksmithingalloys_red.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Molten Foundry</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273122"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Molten Foundry</a> |
 
-The perks of Mining, such as Made of Metal, are on the [tradeskills page](/tradeskills/), and the Legacy perks in the [Legacy calculator](/talents/legacy/). The full route of Classic is in the [Classic Era guide](/tradeskills/classic/mining/).
+The perks of Mining, such as Made of Metal, are on the [professions page](/tradeskills/), and the Legacy perks in the [Legacy calculator](/talents/legacy/). The full route of Classic is in the [Classic Era guide](/tradeskills/classic/mining/).

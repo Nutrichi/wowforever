@@ -64,7 +64,7 @@ export const GET: APIRoute = async ({ site }) => {
         return `- [${eras[era].name} ${phase === 'preraid' ? 'pre-raid' : phase.replace('p', 'phase ')} BiS](${url(bisPhasePath(defaultLocale, era, phase))}): ${where}, one list per class and spec.`;
       })),
     `- [Classes](${url(guidePath('classes', defaultLocale))}): leveling guides per class and spec for each era, plus what is known about classes, race and class combinations and racials in WoW Forever.`,
-    `- [Tradeskills](${url(guidePath('tradeskills', defaultLocale))}): tradeskill guides for each era, plus the tradeskill perks and Legacy perks of WoW Forever.`,
+    `- [Professions](${url(guidePath('tradeskills', defaultLocale))}): profession guides for each era, plus the profession perks and Legacy perks of WoW Forever.`,
     `- [Tools](${url(localizePath('talents', defaultLocale))}/): the WoW Forever talent calculator, with all nine classes and their three trees, and the Legacy calculator for the account-wide Legacy perks. A build is shareable as a link.`,
     `- [Class picker](${url(localizePath('class-picker', defaultLocale))}/): 14 short questions for new players of WoW Forever that pick a class and a spec, with our spec pick for leveling, dungeons, raids, solo play and PvP, the races per faction and links to the guide, level build, talent calculator and BiS list.`,
     `- [Raid planner](${url(localizePath('raid', defaultLocale))}/): the WoW Forever raid planner for 5, 10, 20 and 40 players. It shows every raid buff, group buff and boss debuff the raid brings, sorts the groups for the best buffs in one click, and shares the raid as a link.`,
@@ -91,9 +91,9 @@ export const GET: APIRoute = async ({ site }) => {
     '',
     `Every page exists in ${locales.length} languages: ${locales
       .map((locale) => `${localeNames[locale]} (${url(localizePath('', locale))})`)
-      .join(', ')}. Posts are written in English and translated by hand. Names from the game (items, spells, zones, dungeons, raids, bosses, classes, specs, tradeskills and factions) are never translated.`,
+      .join(', ')}. Posts are written in English and translated by hand. Names from the game (items, spells, zones, dungeons, raids, bosses, classes, specs, professions and factions) are never translated.`,
     '',
-    'What this site answers: the release date and the beta of WoW Forever, its talents and talent calculator, best-in-slot (BiS) lists, classes, races and racials, professions and tradeskills, reputations and factions, companion pets and where to get each one, dungeon quests, leveling routes and leveling addons such as RestedXP and Zygor, plus live streams and clips.',
+    'What this site answers: the release date and the beta of WoW Forever, its talents and talent calculator, best-in-slot (BiS) lists, classes, races and racials, professions, reputations and factions, companion pets and where to get each one, dungeon quests, leveling routes and leveling addons such as RestedXP and Zygor, plus live streams and clips.',
     '',
     '## Sections',
     '',

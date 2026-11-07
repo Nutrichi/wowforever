@@ -23,11 +23,11 @@ De Arcane Sentries staan nadrukkelijker in de stad. Ze zijn nu elites van level 
 
 ![Een Arcane Sentry van de Kirin Tor in Dalaran, een groot paars constructie met arcane kristallen, met de tooltip Level 55 (Elite), een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-10-23-wow-forever-dalaran-arcane-sentry.jpg)
 
-Kirin Tor Guards wijzen nu de weg. Ze tonen het weeshuis, de herberg, de brievenbus, de trainers van tradeskills, de kapper, de stallen en de transmogrifier.
+Kirin Tor Guards wijzen nu de weg. Ze tonen het weeshuis, de herberg, de brievenbus, de trainers van beroepen, de kapper, de stallen en de transmogrifier.
 
 ![Het venster van een Kirin Tor Guard met de keuzes The Orphanage, The Inn, Mailbox, Professions, The barbershop, Stables en The transmogrifier, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-10-23-wow-forever-dalaran-kirin-tor-guard.jpg)
 
-Naast trainers voor tradeskills heeft Dalaran ook classtrainers. Daaronder zijn een trainer voor Druid en een voor Mage.
+Naast trainers voor beroepen heeft Dalaran ook classtrainers. Daaronder zijn een trainer voor Druid en een voor Mage.
 
 ![Jessa Weaver, Mage Trainer, in een ronde zaal in Dalaran met drie Arcane Familiars, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-10-23-wow-forever-dalaran-mage-trainer.jpg)
 

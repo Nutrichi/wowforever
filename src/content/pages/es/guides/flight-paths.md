@@ -3,7 +3,7 @@ title: "Rutas de vuelo: cada maestro de vuelo de WoW Forever"
 metaTitle: "Rutas de vuelo de WoW Forever: maestros de vuelo, rutas y barcos"
 description: "Cada punto de vuelo de WoW Forever para la Alliance y la Horde: el maestro de vuelo, las coordenadas y los destinos, además de los cinco puntos de vuelo nuevos y cada barco y zepelín."
 short: "Flight Paths"
-updated: 2026-10-07
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -190,6 +190,6 @@ Seis de estas rutas son nuevas. Stormwind Harbor recibe un barco a Auberdine, y 
 
 - **Powderfuse Port tiene una sola ruta**, a Farholde Keep. El punto de vuelo no lleva facción en los archivos, pero su única ruta va a una fortaleza de la Alliance y su montura es un grifo. Aún no se conoce ningún maestro de vuelo allí.
 - **Espera un sexto punto de vuelo nuevo**: Tidegear Coast, en Dun Morogh, está en los archivos sin una sola ruta. No se sabe para qué sirve.
-- **Las rutas aún pueden cambiar** antes del lanzamiento del 4 de noviembre.
+- **Las rutas aún pueden cambiar** con un hotfix o un parche.
 - **Zephras Isle no tiene un lugar fijo** en el mapa del mundo de los archivos. El mapa sitúa Valanaar en el grupo de islas al norte del Maelstrom.
 - **Cuánto dura un vuelo** no está en los archivos. El mapa muestra por dónde pasa una ruta, no cuánto tarda.

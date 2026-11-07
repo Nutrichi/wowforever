@@ -3,7 +3,7 @@ title: "Guide de montée en niveau du Priest dans WoW Forever"
 metaTitle: "Guide de leveling Priest WoW Forever : builds Discipline, Holy et Shadow jusqu'au 30"
 description: "Comment monter un Priest dans WoW Forever : trois builds niveau 30 pour Discipline, Holy et Shadow, la rotation, les niveaux clés, les sorts raciaux, les baguettes, les métiers, le mana et les soins."
 short: "Leveling du Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quels métiers conviennent au Priest ?"
     a: "Tailoring avec Enchanting est le duo classique : équipement en tissu lié, baguettes et huiles de puissance des sorts. Cooking vaut la peine pour toutes les classes dans Forever, car la nourriture à buff donne de l'expérience en plus et il la faut pour un camp."
   - q: "Existe-t-il déjà un build niveau 60 ?"
-    a: "Pas dans ce guide : la bêta s'arrête au niveau 30. Notre build de leveling du Priest donne un talent pour chaque niveau jusqu'au 60, avec une respé aux niveaux 30 et 40."
+    a: "Pas dans ce guide : ses builds s'arrêtent au niveau 30, là où la bêta s'arrêtait. Notre build de leveling du Priest donne un talent pour chaque niveau jusqu'au 60, avec une respé aux niveaux 30 et 40."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
@@ -43,7 +43,7 @@ Les 20 à 30 premiers niveaux diffèrent à peine. Vous commencez avec <a class=
 
 **Discipline** garde ce style tranquille et ajoute Penance au niveau 30, pour des dégâts ou un soin rapide. **Shadow** tue plus vite avec Mind Flay et Mind Blast, mais ne brille qu'à partir du niveau 28 environ, sauf avec une bonne puissance des sorts. **Holy** s'adresse à ceux qui passent une grande partie du leveling à soigner des donjons. Monter seul en Holy est lent.
 
-Les builds ci-dessous sont faits pour la bêta, qui s'arrête au niveau 30. Les builds niveau 60 suivront après la sortie.
+Les builds ci-dessous ont été faits sur la bêta, qui s'arrêtait au niveau 30. Les builds niveau 60 suivront dès que nous pourrons les tester dans le jeu live.
 
 ## Niveaux 1 à 10
 

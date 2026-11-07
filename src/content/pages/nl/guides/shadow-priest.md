@@ -3,7 +3,7 @@ title: "Shadow Priest in WoW Forever: de gids"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34-build, rotatie en stats"
 description: "De Shadow Priest in WoW Forever: de build 14/3/34 voor level 60, Improved Mind Flay en Vampiric Embrace, de DoT-rotatie, Shadowform, mana, stats en races."
 short: "Shadow Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welk ras is het beste voor een Shadow Priest?"
     a: "Dwarf voor de Alliance en Troll voor de Horde als de boss een Beast is, want allebei doen ze 5% meer schade tegen Beasts. Anders zijn Human en Undead even goed. De verschillen zijn klein, dus kies het ras dat je leuk vindt."
   - q: "Is deze build definitief?"
-    a: "Nee. Hij gebruikt de talenten van de betabuild van 15 oktober voor level 60. De beta stopt op level 30, dus waarden kunnen nog veranderen voor of na de lancering op 4 november."
+    a: "Nee. Hij gebruikt de talenten van de betabuild van 15 oktober voor level 60. De beta stopte op level 30, dus deze talenten zijn nooit op level 60 getest en kunnen nog veranderen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shadow-priest/"
@@ -160,7 +160,7 @@ De volgorde voor een Shadow Priest:
 
 **Trinket.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273840"><img class="wf-wh__icon" src="/wh/spell_shadow_evileye.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cursed Murloc Eye</a> valt van Gelihast in Blackfathom Deeps. Farm hem niet, maar neem hem mee als je hem tegenkomt tijdens je questrun.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|
@@ -171,4 +171,4 @@ De volgorde voor een Shadow Priest:
 
 De verschillen tussen de races zijn heel klein. Kies het ras dat je leuk vindt, niet het ras dat een fractie van een procent wint.
 
-**Tradeskills.** Tailoring past bij elke Priest: cloth-gear met spell damage, en Forever voegt nieuwe patterns toe, van gear voor één magieschool tot nieuwe belts op level 10 met spell damage. Enchanting geeft je eigen wands en enchants, en maakt jou de Enchanter van je guild. Engineering krijgt nieuwe schematics en nieuwe trinkets in Forever en is altijd een sterke hoofdtradeskill.
+**Beroepen.** Tailoring past bij elke Priest: cloth-gear met spell damage, en Forever voegt nieuwe patterns toe, van gear voor één magieschool tot nieuwe belts op level 10 met spell damage. Enchanting geeft je eigen wands en enchants, en maakt jou de Enchanter van je guild. Engineering krijgt nieuwe schematics en nieuwe trinkets in Forever en is altijd een sterk hoofdberoep.

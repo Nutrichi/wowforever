@@ -3,7 +3,7 @@ title: "Guide du Balance Druid dans WoW Forever"
 metaTitle: "WoW Forever : Balance Druid, builds DoT et Eclipse, rotation, stats et races"
 description: "Le Balance Druid dans WoW Forever : ce qui change, deux builds niveau 30 avec Overgrowth ou Eclipse, la rotation, les cooldowns, le mana et les DoTs, les stats, l'équipement, les races et les métiers."
 short: "Balance Druid"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -16,11 +16,11 @@ faq:
   - q: "Wrath consomme-t-il Clearcasting ?"
     a: "Non. Le Clearcasting d'Omen of Clarity n'est pas consommé par Wrath, le sort gratuit va donc à un sort plus cher comme Starfire."
   - q: "Quand ai-je Moonkin Form ?"
-    a: "Moonkin Form est le dernier talent de l'arbre Balance et demande le niveau 40, il n'est donc pas dans la bêta. Il augmente de 3 % les chances de coup critique des sorts de tout votre groupe et double la chance de déclencher Omen of Clarity."
+    a: "Moonkin Form est le dernier talent de l'arbre Balance et demande le niveau 40, il n'était donc pas dans la bêta. Il augmente de 3 % les chances de coup critique des sorts de tout votre groupe et double la chance de déclencher Omen of Clarity."
   - q: "Quelle race choisir pour un Balance Druid ?"
     a: "Night Elf pour Elune's Light, une poussée de chances de coup critique, ou Tauren pour War Stomp et 5 % de vie en plus. Les Skyborne ont 2 % de Haste des deux côtés. Les écarts sont faibles, prenez la race qui vous plaît."
   - q: "Existe-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. La bêta s'arrête au niveau 30, et les builds niveau 60 suivront après le lancement du 4 novembre."
+    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/balance-druid/"
@@ -154,7 +154,7 @@ Ne renouvelez pas un DoT avant sa fin, car vous perdez les ticks qui restaient. 
 
 ## Stats et équipement
 
-L'ordre exact au niveau 60 suivra après le lancement. Ces stats aident un Balance Druid :
+L'ordre exact au niveau 60 suivra dès que nous pourrons tester le niveau 60 dans le jeu live. Ces stats aident un Balance Druid :
 
 - **Dégâts des sorts** d'abord. Les objets avec seulement des dégâts Arcane ou Nature aident la moitié de vos sorts.
 - **Hit.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a> en donne 4 %, assez pendant le leveling. En raid, vous voudrez atteindre le cap de Hit.

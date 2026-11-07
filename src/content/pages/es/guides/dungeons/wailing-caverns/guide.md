@@ -3,7 +3,7 @@ title: "Wailing Caverns"
 metaTitle: "Guía de Wailing Caverns para WoW Forever: ruta, trash y jefes"
 description: "Cómo hacer Wailing Caverns en WoW Forever: la entrada en la Lushwater Oasis, la ruta por los cuatro Lords of the Fang, los Druids of the Fang y el evento de Naralex."
 short: "Guía"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: es
 manual: true
 sources:
@@ -101,4 +101,4 @@ Durante el ritual, oleadas de oozes y Deviate Moccasins atacan al Disciple. Mát
 ## Lo que aún no se sabe
 
 - **Las probabilidades de botín** de los jefes.
-- **Las recompensas de las misiones** aún pueden cambiar antes del lanzamiento.
+- **Las recompensas de las misiones** vienen de los archivos del juego y aún pueden cambiar con un hotfix.

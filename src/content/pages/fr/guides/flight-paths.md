@@ -3,7 +3,7 @@ title: "Trajets aériens : chaque maître de vol de WoW Forever"
 metaTitle: "Trajets aériens de WoW Forever : maîtres de vol, routes et bateaux"
 description: "Chaque point de vol de WoW Forever pour l'Alliance et la Horde : le maître de vol, les coordonnées et les destinations, plus les cinq nouveaux points de vol et chaque bateau et zeppelin."
 short: "Flight Paths"
-updated: 2026-10-07
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -190,6 +190,6 @@ Six de ces trajets sont nouveaux. Stormwind Harbor reçoit un bateau vers Auberd
 
 - **Powderfuse Port n'a qu'un trajet**, vers Farholde Keep. Le point de vol ne porte aucune faction dans les fichiers, mais son seul trajet mène à une forteresse de l'Alliance et sa monture est un griffon. Aucun maître de vol n'y est encore connu.
 - **Un sixième nouveau point de vol attend** : Tidegear Coast, dans Dun Morogh, figure dans les fichiers sans aucun trajet. Son rôle n'est pas connu.
-- **Les trajets peuvent encore changer** avant la sortie du 4 novembre.
+- **Les trajets peuvent encore changer** avec un hotfix ou un patch.
 - **Zephras Isle n'a pas de place fixe** sur la carte du monde des fichiers. La carte place Valanaar sur le groupe d'îles au nord du Maelstrom.
 - **La durée d'un vol** ne figure pas dans les fichiers. La carte montre où passe un trajet, pas combien de temps il dure.

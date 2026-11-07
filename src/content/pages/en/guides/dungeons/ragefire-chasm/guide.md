@@ -3,7 +3,7 @@ title: "Ragefire Chasm"
 metaTitle: "Ragefire Chasm guide for WoW Forever: route, trash and bosses"
 description: "How to run Ragefire Chasm in WoW Forever: the way in from the Cleft of Shadow, the route past the troggs and the Burning Blade, the trash to watch and the four bosses."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: en
 sources:
   - name: "Wowhead, the dungeon guide"
@@ -75,4 +75,4 @@ On a ledge with two adds; the add on the right can be pulled without him. Bazzal
 ## What is not known yet
 
 - **The drop rates** of the boss loot.
-- **The quest rewards** may still change before the launch.
+- **The quest rewards** come from the game files and can still change with a hotfix.

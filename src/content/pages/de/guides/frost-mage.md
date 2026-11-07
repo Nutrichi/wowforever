@@ -3,7 +3,7 @@ title: "Frost-Mage-Guide für WoW Forever"
 metaTitle: "WoW Forever Frost Mage: Ice-Lance-Build, Rotation und Shatter"
 description: "Der Frost Mage in WoW Forever: Ice Lance und Fingers of Frost, der Build für Level 30, die Rotation, Kiten, Mana, Shatter, Werte, Ausrüstung, Völker und Berufe."
 short: "Frost Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -14,11 +14,11 @@ faq:
   - q: "Kann ich noch Frostbolt Rang 1 nutzen?"
     a: "Nur für die Verlangsamung. In WoW Forever haben niedrigere Ränge eine viel kleinere Chance, Effekte wie Frostbite und Fingers of Frost auszulösen, Rang 1 hilft also nicht mehr, Procs herauszukitzeln."
   - q: "Wann bekomme ich Ice Barrier?"
-    a: "Ice Barrier ist das letzte Talent des Frost-Baums und braucht Level 40, es ist also nicht in der Beta. Bis dahin verlässt du dich auf Einfrieren, Mana Shield und Blink."
+    a: "Ice Barrier ist das letzte Talent des Frost-Baums und braucht Level 40, es war also nicht in der Beta. Bis Level 40 verlässt du dich auf Einfrieren, Mana Shield und Blink."
   - q: "Welches Volk ist das beste für einen Frost Mage?"
     a: "Orc bei der Horde, dank 10 % Zaubermacht von Blood Fury, mit Troll und Berserking knapp dahinter. Bei der Allianz Human mit 1 % kritischer Trefferchance oder Skyborne mit 2 % Haste. Nimm das Volk, das dir gefällt, wenn du nicht jedem Prozent nachjagst."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endet auf Level 30, Builds für Level 60 folgen nach dem Start am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/frost-mage/"
@@ -137,7 +137,7 @@ Deine Gesundheit bleibt niedrig. Bis <a class="wf-wh wf-spell" href="https://www
 
 ## Werte und Ausrüstung
 
-Die genaue Reihenfolge auf Level 60 folgt nach dem Start. Diese Werte helfen einem Frost Mage:
+Die genaue Reihenfolge auf Level 60 folgt, sobald wir Level 60 im Live-Spiel testen können. Diese Werte helfen einem Frost Mage:
 
 - **Zauberschaden und Frostzauberschaden** zuerst. Frostzauberschaden hilft nur Frost-Zaubern.
 - **Haste** macht jeden Zauber schneller, also mehr Schaden und mehr Procs. Auf niedrigen Levels ist es selten.

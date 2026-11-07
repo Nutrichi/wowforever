@@ -3,7 +3,7 @@ title: "Marksmanship Hunter in WoW Forever: la guida"
 metaTitle: "WoW Forever Marksmanship Hunter: build di livello 60 e rotazione"
 description: "Il Marksmanship Hunter in WoW Forever: la build 5/46/0 per il livello 60 con Lone Wolf e Sniper Shot, la rotazione, il mana con Rapid Recuperation, le stats e le razze."
 short: "Marksmanship Hunter"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -137,7 +137,7 @@ Lone Wolf ti chiede di giocare senza famiglio. In incursione e nei dungeon è il
 
 ## Stats ed equipaggiamento
 
-Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad allora:
+Le priorità delle stats per il livello 60 arriveranno quando potremo provare il livello 60 nel gioco live. Fino ad allora:
 
 - **Agilità**: 2 di potere d'attacco a distanza per punto e critico, circa l'1% ogni 53 di Agilità al livello 60.
 - **Indice di colpo**: contro un boss di livello 63 serve il 9% con 300 di abilità con le armi, o il 6% con 305.

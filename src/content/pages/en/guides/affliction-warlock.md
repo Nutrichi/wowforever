@@ -3,7 +3,7 @@ title: "Affliction Warlock guide for WoW Forever"
 metaTitle: "WoW Forever Affliction Warlock: drain tank build, rotation, Life Tap and races"
 description: "The Affliction Warlock in WoW Forever: what changes, the drain tank build for level 30, the rotation, Life Tap and Drain Life, demons, stats, races and professions."
 short: "Affliction Warlock"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is a drain tank?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which race is best for an Affliction Warlock?"
     a: "Undead for the Horde and Human or Gnome for the Alliance have small advantages, but none is strong enough to skip a race you like more."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/affliction-warlock/"

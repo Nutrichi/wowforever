@@ -3,7 +3,7 @@ title: "Holy Paladin in WoW Forever: la guida"
 metaTitle: "WoW Forever Holy Paladin: build da guaritore, magie e mana"
 description: "L'Holy Paladin in WoW Forever: la build da guaritore di livello 30 e la versione Talented, Holy Shock e Light's Vigil, la priorità di cura, il mana, i sigilli, le stats e le razze."
 short: "Holy Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quale razza scegliere per un Holy Paladin?"
     a: "Human per l'Alliance, per la probabilità di critico in più. Dwarf ha Stoneform come tempo di recupero difensivo. I Paladin dell'Horde sono sempre Undead."
   - q: "C'è già una build per il livello 60?"
-    a: "Non ancora. La beta si è fermata al livello 30, e le build per il livello 60 arriveranno dopo il lancio del 4 novembre."
+    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
@@ -114,7 +114,7 @@ Prima di uno scontro, dai a ciascuno la benedizione giusta, e a tutti tranne il 
 
 ## Stats ed equipaggiamento
 
-Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad allora:
+Le priorità delle stats per il livello 60 arriveranno quando potremo provare il livello 60 nel gioco live. Fino ad allora:
 
 - **Potere curativo e magico**, per cure più forti e più economiche: con più potere curativo basta un rango inferiore.
 - **Intelletto**, per più mana e più probabilità di critico.

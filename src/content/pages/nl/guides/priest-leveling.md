@@ -1,9 +1,9 @@
 ---
 title: "Priest levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Priest levelgids: builds voor Discipline, Holy en Shadow tot 30"
-description: "Zo level je een Priest in WoW Forever: drie builds voor level 30 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, tradeskills, mana en healen."
+description: "Zo level je een Priest in WoW Forever: drie builds voor level 30 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, beroepen, mana en healen."
 short: "Priest levelen"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -17,15 +17,15 @@ faq:
     a: "Elk ras krijgt er twee, op level 10 en 20 via een classquest. Gnome Priests zijn nieuw en krijgen Confounding Flash en Contingency Plan. Fear Ward en Devouring Plague zijn niet langer racial: elke Priest leert ze op level 20."
   - q: "Snapshotten schade en healing over tijd?"
     a: "Op de beta niet: spreuken zoals Renew, Shadow Word: Pain en Devouring Plague passen hun waarde aan terwijl ze lopen, in plaats van de waarde van het moment van casten te houden. Blizzard heeft dat niet aangekondigd."
-  - q: "Welke tradeskills passen bij een Priest?"
+  - q: "Welk beroeps passen bij een Priest?"
     a: "Tailoring met Enchanting is het klassieke paar: soulbound stoffen gear, wands en olie voor spell power. Cooking loont voor elke class in Forever, want buff food geeft extra ervaring en je hebt het nodig voor een kamp."
   - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de beta stopt op level 30. Onze levelbuild voor de Priest geeft een talent voor elk level tot 60, met een respec op 30 en 40."
+    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Priest geeft een talent voor elk level tot 60, met een respec op 30 en 40."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
 ---
-De Priest levelt in WoW Forever rustig: heal jezelf, schild jezelf en laat schade over tijd en een wand het werk doen. Op level 30 kies je tussen Discipline, Holy en Shadow. Deze gids behandelt de drie builds, de rotatie, de belangrijke levels, racial spells, wands en tradeskills.
+De Priest levelt in WoW Forever rustig: heal jezelf, schild jezelf en laat schade over tijd en een wand het werk doen. Op level 30 kies je tussen Discipline, Holy en Shadow. Deze gids behandelt de drie builds, de rotatie, de belangrijke levels, racial spells, wands en beroepen.
 
 | | |
 |---|---|
@@ -43,7 +43,7 @@ De eerste 20 tot 30 levels verschillen nauwelijks. Je begint met <a class="wf-wh
 
 **Discipline** houdt die rustige stijl en voegt op 30 Penance toe, voor schade of een snelle heal. **Shadow** doodt sneller met Mind Flay en Mind Blast, maar komt pas rond level 28 tot zijn recht, tenzij je behoorlijk wat spell power hebt. **Holy** is voor wie een groot deel van het levelen dungeons healt. Alleen levelen als Holy gaat traag.
 
-De builds hieronder zijn gemaakt voor de beta, die stopt op level 30. Builds voor level 60 volgen na de launch.
+De builds hieronder zijn gemaakt op de beta, die stopte op level 30. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
 
 ## Level 1 tot 10
 
@@ -126,7 +126,7 @@ Voor Shadow telt shadow power mee naast Intellect en spell damage. Met punten in
 
 | Level | Wat je krijgt | Bij |
 |---|---|---|
-| 5 | Lesser Magic Wand, beginnende tradeskills | Enchanting, tradeskilltrainers |
+| 5 | Lesser Magic Wand, beginnende beroepen | Enchanting, beroepstrainers |
 | 10 | Eerste racial spell | Classquest |
 | 13 | Greater Magic Wand | Enchanting |
 | 20 | Tweede racial spell, Fear Ward, Devouring Plague, Flash Heal, Holy Fire, Shackle Undead, Mind Soothe | Classquest, classtrainer |
@@ -138,7 +138,7 @@ Voor Shadow telt shadow power mee naast Intellect en spell damage. Met punten in
 | 30 | Penance, Silence | Talentboom |
 | 32 | Shadow Word: Death, Abolish Disease | Classtrainer |
 | 34 | Levitate | Classtrainer |
-| 35 | Tradeskills op Artisan | Tradeskilltrainers |
+| 35 | Beroepen op Artisan | Beroepstrainers |
 | 40 | Greater Heal, rijden, Dual Specialization | Trainers |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Talentboom |
 | 48 | Prayer of Fortitude | Classtrainer |
@@ -181,9 +181,9 @@ Je wapen is meestal je grootste bron van spell damage of shadow power, dus verva
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> | 18 of later | Quest in Blackfathom Deeps |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=5214"><img class="wf-wh__icon" src="/wh/inv_wand_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wand of Eventide</a> | 27 | World drop, bind on equip |
 
-## Tradeskills
+## Beroepen
 
-Een tradeskill meelevelen met je Priest geeft gear, consumables en goud, en bespaart inhaalwerk later. In Forever telt het meer: de coëfficiënten van spell damage veranderden, waardoor gemaakte gear aantrekkelijker wordt, en kampen geven buffs aan elke tradeskill.
+Een beroep meelevelen met je Priest geeft gear, consumables en goud, en bespaart inhaalwerk later. In Forever telt het meer: de coëfficiënten van spell damage veranderden, waardoor gemaakte gear aantrekkelijker wordt, en kampen geven buffs aan elk beroep.
 
 - **Cooking** helpt elke class: eten geeft extra ervaring, en je hebt het nodig voor een kampvuur.
 - **Tailoring** heeft sterke soulbound levelgear die je nergens anders krijgt.

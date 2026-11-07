@@ -1,9 +1,9 @@
 ---
 title: "Rogue levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Rogue levelgids: builds voor elke spec tot 30"
-description: "Zo level je een Rogue in WoW Forever: vier builds voor level 30 voor Assassination, Combat en Subtlety, de rotatie, belangrijke levels, gifquests, wapens en tradeskills."
+description: "Zo level je een Rogue in WoW Forever: vier builds voor level 30 voor Assassination, Combat en Subtlety, de rotatie, belangrijke levels, gifquests, wapens en beroepen."
 short: "Rogue levelen"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -17,17 +17,17 @@ faq:
     a: "Sinds 2 november is Mutilate het talent op 30 punten in Assassination, dus level 40, of tot vijf levels eerder met Talented uit het Legacy-systeem. Je hebt een dolk in elke hand nodig."
   - q: "Heeft een Rogue water nodig?"
     a: "Nee. Rogues gebruiken Energy, geen mana, dus eten volstaat. Buff food geeft in Forever extra ervaring, dus blijf Well Fed."
-  - q: "Welke tradeskills passen bij een Rogue?"
+  - q: "Welk beroeps passen bij een Rogue?"
     a: "Skinning met Leatherworking is het natuurlijke paar: je doodt veel beesten, en Forever heeft nieuwe lederrecepten zoals Dark Leather Boots en Brawler's Leather Belt. Cooking loont voor elke class, want buff food geeft extra ervaring en je hebt het nodig voor een kamp."
   - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de beta stopt op level 30. Onze levelbuild voor de Rogue geeft een talent voor elk level tot 60."
+    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Rogue geeft een talent voor elk level tot 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-De Rogue was nooit de makkelijkste class om te levelen, maar WoW Forever helpt. Poisons kunnen critten, de schade op één doel ligt hoger en elke spec heeft een eigen gezicht. Op level 30 kies je tussen Assassination, Combat en twee soorten Subtlety. Deze gids behandelt de vier builds, de rotatie, de belangrijke levels, de gifquests, wapens en tradeskills.
+De Rogue was nooit de makkelijkste class om te levelen, maar WoW Forever helpt. Poisons kunnen critten, de schade op één doel ligt hoger en elke spec heeft een eigen gezicht. Op level 30 kies je tussen Assassination, Combat en twee soorten Subtlety. Deze gids behandelt de vier builds, de rotatie, de belangrijke levels, de gifquests, wapens en beroepen.
 
 | | |
 |---|---|
@@ -37,13 +37,13 @@ De Rogue was nooit de makkelijkste class om te levelen, maar WoW Forever helpt. 
 | Zwak in | Weinig leven, afhankelijk van gear, weinig utility |
 | Talent per level | [Levelbuild voor de Rogue](/nl/leveling/rogue/) |
 | Gidsen per spec | [Assassination Rogue](/nl/guides/assassination-rogue/), [Combat Rogue](/nl/guides/combat-rogue/), [Subtlety Rogue](/nl/guides/subtlety-rogue/) |
-| Builds tot level 60 | Na de launch op 4 november |
+| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/rogue/) gaat tot 35 |
 
 ## Met welke spec levelen
 
 **Combat** is de meest vergevingsgezinde start. Deflection en Riposte houden je in leven, en je loopt van monster naar monster zonder pauzes. Combat kan dankzij Hack and Slash ook elk soort wapen gebruiken. **Subtlety met Ambush** opent vanuit Stealth met een enorme critical strike en doodt snel, maar is zwakker in dungeons. **Subtlety met bleeds** bouwt op Garrote, Hemorrhage en Rupture. **Assassination** wordt pas sterk zodra Mutilate er op level 40 bij komt, en is dus geen startbuild.
 
-De builds hieronder zijn gemaakt voor de beta, die stopt op level 30. Elke build heeft een versie met vijf extra punten voor Talented uit het Legacy-systeem. De talentcalculator toont die versies als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen na de launch.
+De builds hieronder zijn gemaakt op de beta, die stopte op level 30. Elke build heeft een versie met vijf extra punten voor Talented uit het Legacy-systeem. De talentcalculator toont die versies als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
 
 ## Level 1 tot 10
 
@@ -213,7 +213,7 @@ Op level 20 leert een reeks classquests je Poisons.
 | 4 | <a href="https://www.wowhead.com/forever/quest=2608">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2479">Hinott's Assistance</a> |
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
-Meer classquests met items als beloning volgen bij de launch.
+Meer classquests met items als beloning worden verwacht boven level 30, dat de beta niet haalde.
 
 Elke stap van beide reeksen, met de zwakte van elke lastige mob, staat in de [gids voor de Poisons](/nl/guides/poisons/).
 
@@ -248,12 +248,12 @@ De sterkste levelgear komt van Leatherworking en uit dungeons. Forever herwerkte
 
 Zoek naar Agility, Attack Power, Strength en Stamina. Een tweede set met Spirit helpt je sneller te herstellen tussen gevechten. In Forever kun je itemsets bewaren op het characterscherm en ertussen wisselen.
 
-## Tradeskills
+## Beroepen
 
-Een paar tradeskills maken een groot verschil in hoe snel je doodt en hoe goed je overleeft. Level ze mee met je Rogue, zodat je geen bonussen mist. Kampen geven een buff voor elke tradeskill.
+Een paar beroepen maken een groot verschil in hoe snel je doodt en hoe goed je overleeft. Level ze mee met je Rogue, zodat je geen bonussen mist. Kampen geven een buff voor elk beroep.
 
 - **Skinning** levert goed op, want je doodt veel beesten.
-- **Leatherworking** is het natuurlijke paar met Skinning en een van de beste tradeskills voor een Rogue, met veel nieuwe en herwerkte recepten en later sterke gear.
+- **Leatherworking** is het natuurlijke paar met Skinning en een van de beste beroepen voor een Rogue, met veel nieuwe en herwerkte recepten en later sterke gear.
 - **Herbalism** levert alles voor Alchemy, maar losse kruiden brengen weinig op.
 - **Alchemy** geeft potions en elixirs, en wordt later winstgevender.
 - **Cooking** is een must: buff food geeft extra ervaring, en je hebt het nodig voor een kampvuur.

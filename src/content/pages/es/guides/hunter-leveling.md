@@ -3,7 +3,7 @@ title: "Subir un Hunter en WoW Forever: la guía"
 metaTitle: "Guía de subida del Hunter en WoW Forever: builds de Beast Mastery, Marksmanship y Survival hasta el 30"
 description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, tres builds de nivel 30 para Beast Mastery, Marksmanship y Survival con el orden de talentos, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
 short: "Subir un Hunter"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "¿Qué profesiones le van a un Hunter?"
     a: "Skinning con Leatherworking, por el buen equipo de subida ligado y un buff de campamento del 2% de probabilidad de crítico. Cooking es imprescindible para todas las clases, por el buff de experiencia y tu propia hoguera. Los ingenieros fabrican miras para tu arma a distancia."
   - q: "¿Hay ya una build de nivel 60?"
-    a: "No en esta guía: la beta llega hasta el nivel 30. Nuestra build de subida del Hunter da un talento para cada nivel hasta el 35."
+    a: "No en esta guía: sus builds llegan al nivel 30, donde terminaba la beta. Nuestra build de subida del Hunter da un talento para cada nivel hasta el 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/hunter-leveling/"
@@ -33,13 +33,13 @@ El Hunter es una de las clases más fuertes para subir de nivel. Haces daño a d
 | Débil en | Un comienzo lento hasta el nivel 10, el maná y la munición |
 | Orden de talentos por nivel | [Build de subida del Hunter](/es/leveling/hunter/) |
 | Guías por spec | [Beast Mastery Hunter](/es/guides/beast-mastery-hunter/), [Marksmanship Hunter](/es/guides/marksmanship-hunter/), [Survival Hunter](/es/guides/survival-hunter/) |
-| Builds hasta nivel 60 | Tras el lanzamiento del 4 de noviembre |
+| Builds hasta nivel 60 | Todavía no, la [build de subida](/es/leveling/hunter/) llega al 35 |
 
 ## Con qué spec subir
 
 Los tres árboles sirven para subir. **Beast Mastery** es el más fluido: tu mascota hace más daño y aguanta más, y con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2649"><img class="wf-wh__icon" src="/wh/ability_physical_taunt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Growl</a> mantiene al monstruo sobre ella mientras disparas. **Marksmanship** hace más daño con tus propios disparos, así que robas la amenaza más a menudo y tienes que kitear. **Survival** mezcla cuerpo a cuerpo, trampas y disparos, y es la que más exige.
 
-Los Hunters también se manejan bien contra monstruos de unos niveles más, gracias a su alcance y a <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. Las builds de abajo están hechas para la beta, que llega hasta el nivel 30, con 21 puntos. Talented, del sistema Legacy, da 5 puntos más, y alcanzas cada talento hasta cinco niveles antes. Las builds de nivel 60 llegarán tras el lanzamiento.
+Los Hunters también se manejan bien contra monstruos de unos niveles más, gracias a su alcance y a <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. Las builds de abajo se hicieron en la beta, que terminaba en el nivel 30, con 21 puntos. Talented, del sistema Legacy, da 5 puntos más, y alcanzas cada talento hasta cinco niveles antes. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo.
 
 ## Niveles 1 a 10
 

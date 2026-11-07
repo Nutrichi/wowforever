@@ -3,7 +3,7 @@ title: "Razorfen Kraul"
 metaTitle: "Guida a Razorfen Kraul per WoW Forever: percorso, trash e boss"
 description: "Come affrontare Razorfen Kraul in WoW Forever: l’ingresso a sud di The Barrens, il percorso nel labirinto di rovi, gli incantatori quilboar da tenere d’occhio e i sei boss."
 short: "Guida"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: it
 manual: true
 sources:
@@ -82,4 +82,4 @@ Il Blind Hunter nella grotta dei pipistrelli lancia Sonic Burst, un silenzio su 
 ## Cosa non si sa ancora
 
 - **Le probabilità di drop** del bottino dei boss.
-- **Le ricompense delle missioni** possono ancora cambiare prima del lancio.
+- **Le ricompense delle missioni** vengono dai file del gioco e possono ancora cambiare con un hotfix.

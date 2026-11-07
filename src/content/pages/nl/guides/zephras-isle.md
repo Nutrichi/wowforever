@@ -14,11 +14,11 @@ faq:
   - q: "Wat is het verschil tussen de High Order en de Windshapers?"
     a: "De High Order Skyborne sluiten zich aan bij de Alliance, de Windshapers bij de Horde. Beide beginnen in hetzelfde dorp, maar elk heeft eigen factiequests, een eigen Elder in Shen'dar Village en een eigen leider in Valanaar."
   - q: "Waar is de trainer voor Engineering op Zephras Isle?"
-    a: "Shen'dar Village en Valanaar hebben elke tradeskilltrainer behalve Engineering. The Strange Hermit, een gnome-knutselaar in Shadowgale Forest op /way 54.0 38.9, leert het je."
+    a: "Shen'dar Village en Valanaar hebben elk beroeptrainer behalve Engineering. The Strange Hermit, een gnome-knutselaar in Shadowgale Forest op /way 54.0 38.9, leert het je."
   - q: "Hoe krijg ik het huisdier Musical Gustjumper?"
     a: "Ten zuiden van de Shriekling Den loop je om het grote rotsblok op /way 51.5 72.3 naar een rots met kleurige kikkers. Kies er een als doelwit en typ /sing. Er verschijnt een nieuwe Musical Gustjumper op de boomstam achter je, en die kan je oppakken."
   - q: "Wat zijn Windstones?"
-    a: "Stenen overal op Zephras Isle waarop je kan klikken. Een Windstone geeft health en mana terug zoals een potion, maar werkt alleen op het eiland. Harvesting Windstones in Thendal Village leert je ze kennen en geeft een bon voor een verzameltradeskill."
+    a: "Stenen overal op Zephras Isle waarop je kan klikken. Een Windstone geeft health en mana terug zoals een potion, maar werkt alleen op het eiland. Harvesting Windstones in Thendal Village leert je ze kennen en geeft een bon voor een verzamelberoep."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/zephras-isle-walkthrough/"
@@ -118,7 +118,7 @@ Harvesting Windstones vraagt 15 Windstone Clusters. De beloning is een bon voor 
 1. **Twee quests van Aetheen.** <a href="https://www.wowhead.com/forever/quest=92472">The Next Step</a> nodigt je uit in Shen'dar Village, The Adventurer stelt het kamperen voor.
 2. **Al'Aketh Thugs.** Op de weg naar het zuiden geeft Hanaa Nightwind op /way 38.4 30.1 <a href="https://www.wowhead.com/forever/quest=92544">Al'Aketh Thugs</a>: 6 Al'Aketh Brutes, 4 Al'Aketh Neophytes en Malduko Cloudcrash in de ruïnes in het zuidwesten. Langs de weg liggen Al'Aketh Ambushers op de loer.
 3. **Kamperen.** Bij de tent op /way 41.7 44.7 in de Shen'dar Highlands lever je The Adventurer in en neem je The Great Outdoors van Raan Wildwind. Zit een minuut bij zijn kampvuur met /sit. Meer in de [kampeergids](/nl/guides/camping/).
-4. **Shen'dar Village.** Constable Aonda op /way 45.6 45.5 geeft <a href="https://www.wowhead.com/forever/quest=93461">Welcome to Shen'dar Village</a> (Alliance) of <a href="https://www.wowhead.com/forever/quest=92514">Welcome to Shen'dar Village</a> (Horde). Het dorp heeft class- en tradeskilltrainers (behalve Engineering) en een brievenbus. Zet je Hearthstone bij herbergierster Coriella Calmbreeze op /way 43.1 43.3.
+4. **Shen'dar Village.** Constable Aonda op /way 45.6 45.5 geeft <a href="https://www.wowhead.com/forever/quest=93461">Welcome to Shen'dar Village</a> (Alliance) of <a href="https://www.wowhead.com/forever/quest=92514">Welcome to Shen'dar Village</a> (Horde). Het dorp heeft class- en beroepstrainers (behalve Engineering) en een brievenbus. Zet je Hearthstone bij herbergierster Coriella Calmbreeze op /way 43.1 43.3.
 5. **Je Elder.** High Order: Rathiril Sunlance op /way 45.0 46.4, met <a href="https://www.wowhead.com/forever/quest=92596">The High Order</a> en daarna <a href="https://www.wowhead.com/forever/quest=94413">A Magical Affront</a>. Windshapers: Illaya Amberwind op /way 43.6 44.8, met <a href="https://www.wowhead.com/forever/quest=92595">The Windshapers</a> en daarna <a href="https://www.wowhead.com/forever/quest=94411">Meddlesome Mages</a>. De eerste quest is een verhaal waar je naar luistert. Keer daarna terug naar Constable Aonda.
 6. **Zes quests tegelijk.** Zie de tabel hieronder. Ga eerst naar het westen voor de bandieten, daarna naar het oosten voor de Hippogryphs en het opsporingsbericht.
 7. **Onderweg.** Dood elke Galestrider en Prideclaw die je tegenkomt. Galestriders laten Strider Meat vallen voor Restocking the Larders, Prideclaws de vachten voor The Problem With Prideclaws. Galestriders laten ook Small Eggs vallen, maar de Hippogryphs later veel vaker.
@@ -156,7 +156,7 @@ Harvesting Windstones vraagt 15 Windstone Clusters. De beloning is een bon voor 
 
 ![Shen'dar Village vanaf de weg, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-10-20-wow-forever-zephras-isle-shendar-village.jpg)
 
-![Het kamp van Raan Wildwind met het venster van de tradeskills, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-10-20-wow-forever-zephras-isle-shendar-adventurer.jpg)
+![Het kamp van Raan Wildwind met het venster van de beroepen, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-10-20-wow-forever-zephras-isle-shendar-adventurer.jpg)
 
 ![Het plein van Shen'dar Village, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-10-20-wow-forever-zephras-isle-shendar-square.jpg)
 
@@ -219,7 +219,7 @@ Op de toog in het gebouw van Commander Cyclas staat een opnamekristal op /way 49
 
 ## Hoofdstuk 4: Valanaar, level 9
 
-Constable Aonda geeft To Valanaar en <a href="https://www.wowhead.com/forever/quest=93948">Deliver the Signet</a>. Valanaar is de hoofdstad van het eiland, met elke class- en tradeskilltrainer, een bank en de aanlegsteiger voor de luchtschepen naar Azeroth. Verlaat Shen'dar Village richting de westelijke wachttoren en ga bij de splitsing naar het zuiden, door de Gustberry Lowlands, het boerenland van het eiland.
+Constable Aonda geeft To Valanaar en <a href="https://www.wowhead.com/forever/quest=93948">Deliver the Signet</a>. Valanaar is de hoofdstad van het eiland, met elke class- en beroepstrainer, een bank en de aanlegsteiger voor de luchtschepen naar Azeroth. Verlaat Shen'dar Village richting de westelijke wachttoren en ga bij de splitsing naar het zuiden, door de Gustberry Lowlands, het boerenland van het eiland.
 
 1. **Het boomhuis.** Klim naar de top van het grote hoofdgebouw. Rond /way 66.2 76.6 staan Valennia Stormfist en Talanis Shadowsong. Lever beide quests in.
 2. **Je leider.** Valennia stuurt de High Order met <a href="https://www.wowhead.com/forever/quest=92699">The Supreme Magister</a> naar Elaadrin Evengale op /way 66.6 79.9, en de Windshapers met <a href="https://www.wowhead.com/forever/quest=92700">The Grand Skyseer</a> naar Ayessa Dawnsinger op /way 59.1 79.7.
@@ -326,7 +326,7 @@ Terug in Valanaar leveren de Windshapers The Broken Construct in en wachten tot 
 
 **Eerst de factiequest.** De Windshapers vinden Belathaan Brightwish op /way 60.0 57.0, een High Order Skyborne die een deal sluit met de Al'Aketh, voor A Firm Response. Verstoor het gesprek, dood de Living Storms en lever in bij Ayessa Dawnsinger. De High Order legt de Index Esoteria bij de Overlook Standing Stones (/way 48.0 69.1) voor Catching Wind en houdt de plek een paar minuten tegen Windshaper Shamans. Daarna nemen beide facties In Service of Zephras in Valanaar, plus Blood for Blood (Horde) of <a href="https://www.wowhead.com/forever/quest=92834">Avenged Tenfold</a> (Alliance).
 
-**De trainer voor Engineering.** Ga Shadowgale Forest in en houd links aan tot /way 54.0 38.9. The Strange Hermit is een gnome-knutselaar die door een scheur viel en nu met zijn constructen leeft. <a href="https://www.wowhead.com/forever/quest=93159">The Strange Hermit</a> laat je kennismaken, en hij leert Engineering, de enige tradeskilltrainer die in de dorpen ontbreekt.
+**De trainer voor Engineering.** Ga Shadowgale Forest in en houd links aan tot /way 54.0 38.9. The Strange Hermit is een gnome-knutselaar die door een scheur viel en nu met zijn constructen leeft. <a href="https://www.wowhead.com/forever/quest=93159">The Strange Hermit</a> laat je kennismaken, en hij leert Engineering, de enige beroepstrainer die in de dorpen ontbreekt.
 
 **De quests in het bos.** De Hermit geeft <a href="https://www.wowhead.com/forever/quest=93160">The Forest's Bounty</a> en <a href="https://www.wowhead.com/forever/quest=93172">Free the Hollows</a>. Elegael Thornpaw op /way 61.7 39.2 geeft <a href="https://www.wowhead.com/forever/quest=94485">Tears of the Lady</a>, <a href="https://www.wowhead.com/forever/quest=94486">Feathers for Binding</a> en <a href="https://www.wowhead.com/forever/quest=94487">Unwanted and Unworthy</a>. Vayn Moongaze bij de Nightclaw Cavern geeft <a href="https://www.wowhead.com/forever/quest=93165">Mercy Falls on Deaf Ears</a> en verkoopt het huisdier [Shadowgale Squirrel](/nl/guides/pets/shadowgale-squirrel/).
 

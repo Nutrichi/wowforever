@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Retribution Paladin: Build, Rotation und Siegel"
 description: "Der Retribution Paladin in WoW Forever: der Build für Level 30 und die Talented-Version, die Rotation mit Seal of Command, Judgements, Segen, Werte und Völker."
 short: "Retribution Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Welches Volk ist für einen Retribution Paladin am besten?"
     a: "Human für die Alliance, wegen der zusätzlichen kritischen Trefferchance. Dwarf hat Stoneform, eine starke defensive Abklingzeit. Paladins der Horde sind immer Undead."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endete auf Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/retribution-paladin/"
@@ -80,7 +80,7 @@ Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem 
 | **Champion of the Light** | Zauberschaden in Höhe von bis zu 30 % deiner Intelligenz |
 | **Unsealed Wrath** | Nahkampfangriffe speichern dein Seal, bis zu 3 Mal. Ein Treffer mit einem anderen Seal verbraucht die Stapel für zusätzliche Chancen |
 
-Champion of the Light und Unsealed Wrath stehen in Reihe 6 und 7, auf Level 30 außer Reichweite. Sie sind der Grund, nach dem Start im Baum weiterzugehen.
+Champion of the Light und Unsealed Wrath stehen in Reihe 6 und 7, auf Level 30 außer Reichweite. Sie sind der Grund, nach Level 30 im Baum weiterzugehen.
 
 ## Rotation
 
@@ -115,7 +115,7 @@ Gib vor einem Kampf jedem den richtigen Segen, und allen außer dem Tank auch Bl
 
 ## Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin zählen diese Werte:
+Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin zählen diese Werte:
 
 - **Trefferwertung**, damit Angriffe und Zauber sitzen.
 - **Kritische Trefferchance**, die mit Conviction und Vengeance zusammenwirkt.

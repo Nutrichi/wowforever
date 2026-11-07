@@ -3,7 +3,7 @@ title: "Fire Mage guide for WoW Forever"
 metaTitle: "WoW Forever Fire Mage: Heating Up build, rotation and stats"
 description: "The Fire Mage in WoW Forever: Heating Up and the new Fire Power, two level 30 builds for dungeons and solo, the Pyroblast rotation, mana, stats and races."
 short: "Fire Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Fire Mage good in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which race is best for a Fire Mage?"
     a: "Orc for the Horde, because Blood Fury gives 10% spell power, with Troll second. For the Alliance, Human first for 1% critical strike chance, then High Order Skyborne. Pick the race you like if you do not chase every percent."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fire-mage/"
@@ -158,7 +158,7 @@ Use Frost Blast or rank 1 Frostbolt to slow a target from a distance, Cone of Co
 
 ## Stats and gear
 
-The exact priority at level 60 follows after the launch. These stats help a Fire Mage:
+The exact priority at level 60 follows once we can test level 60 in the live game. These stats help a Fire Mage:
 
 - **Spell damage and Fire spell damage** first. Fire spell damage only helps Fire spells, and it works with Fire Power.
 - **Critical strike chance** is the heart of the spec: a critical strike deals 50% more damage, and Heating Up, Incineration, Critical Mass, Ignite and Combustion all build on it.

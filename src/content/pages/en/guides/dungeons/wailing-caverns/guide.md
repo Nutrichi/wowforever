@@ -3,7 +3,7 @@ title: "Wailing Caverns"
 metaTitle: "Wailing Caverns guide for WoW Forever: route, trash and bosses"
 description: "How to run Wailing Caverns in WoW Forever: the way in at the Lushwater Oasis, the route past the four Lords of the Fang, the Druids of the Fang and the Naralex event."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: en
 sources:
   - name: "Wowhead, the dungeon guide"
@@ -100,4 +100,4 @@ During the ritual, waves of oozes and Deviate Moccasins attack the Disciple. Kil
 ## What is not known yet
 
 - **The drop rates** of the boss loot.
-- **The quest rewards** may still change before the launch.
+- **The quest rewards** come from the game files and can still change with a hotfix.

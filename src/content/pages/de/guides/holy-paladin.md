@@ -3,7 +3,7 @@ title: "Holy Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Holy Paladin: Heilbuild, Zauber und Mana"
 description: "Der Holy Paladin in WoW Forever: der Heilbuild für Level 30 und die Talented-Version, Holy Shock und Light's Vigil, die Heilpriorität, Mana, Siegel, Werte und Völker."
 short: "Holy Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welches Volk ist für einen Holy Paladin am besten?"
     a: "Human für die Alliance, wegen der zusätzlichen kritischen Trefferchance. Dwarf hat Stoneform als defensive Abklingzeit. Paladins der Horde sind immer Undead."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endete auf Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
@@ -114,7 +114,7 @@ Gib vor einem Kampf jedem den richtigen Segen, und allen außer dem Tank auch Bl
 
 ## Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
+Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
 
 - **Heilkraft und Zaubermacht**, für stärkere und günstigere Heilungen: Mit mehr Heilkraft reicht ein niedrigerer Rang.
 - **Intelligenz**, für mehr Mana und mehr kritische Trefferchance.

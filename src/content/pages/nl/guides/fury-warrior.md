@@ -3,7 +3,7 @@ title: "Fury Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Fury Warrior: build voor level 30, rotatie en Rage"
 description: "De Fury Warrior in WoW Forever: de build voor level 30 met Cruelty, Unbridled Wrath en Death Wish, de rotatie, Rage, stance dancing, stats, wapens en races."
 short: "Fury Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welk ras is het beste voor een Fury Warrior?"
     a: "Human voor de Alliance, voor 1% meer critical strike chance, of Dwarf voor 1% hit. Orc voor de Horde, voor Blood Fury. Elk ras kan Warrior spelen, en elke keuze werkt."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de lancering op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
@@ -116,7 +116,7 @@ Rage is alles. Met eindeloze Rage zou je nooit stoppen met knoppen drukken, dus 
 
 ## Stats en gear
 
-De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Fury Warrior:
+De exacte volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Fury Warrior:
 
 - **Hit chance.** Een misser doet niets en geeft geen Rage.
 - **Critical strike chance.** Meer schade en meer Rage, een van de beste stats die je kunt krijgen. Agility geeft ook wat critical strike chance.
@@ -126,7 +126,7 @@ De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Fury
 
 **Wapens.** Het belangrijkste deel van je gear. Je vecht met twee wapens, het liefst met een trage, hard slaande main hand. Een afstandswapen telt alleen voor zijn stats.
 
-## Races en tradeskills
+## Races en beroepen
 
 Elk ras kan Warrior spelen. Elke keuze werkt, maar sommige zijn sterker.
 
@@ -143,4 +143,4 @@ Elk ras kan Warrior spelen. Elke keuze werkt, maar sommige zijn sterker.
 | Horde | Tauren | War Stomp, 5% meer health en Plainsrunning voor snelheid zolang je blijft bewegen |
 | Horde | Windshaper Skyborne | Haste en een snelheids-cooldown die van pas komt |
 
-**Tradeskills.** Blacksmithing maakt een deel van de beste Mail- en Plate-gear, veel ervan alleen voor Blacksmiths. Engineering heeft handige gadgets voor elke spec.
+**Beroepen.** Blacksmithing maakt een deel van de beste Mail- en Plate-gear, veel ervan alleen voor Blacksmiths. Engineering heeft handige gadgets voor elke spec.

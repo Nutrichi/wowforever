@@ -3,7 +3,7 @@ title: "Arms-Warrior-Guide für WoW Forever"
 metaTitle: "WoW Forever Arms Warrior: Build für Level 30, Rend, Overpower und Rage"
 description: "Der Arms Warrior in WoW Forever: der Build für Level 30 mit Bloodthrill, Improved Slam und Sweeping Strikes, die Rotation, Rend und Overpower, Rage, Werte und Völker."
 short: "Arms Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welches Volk ist das beste für einen Arms Warrior?"
     a: "Human für die Allianz, für 1 % mehr kritische Trefferchance, oder Dwarf für 1 % Hit. Orc für die Horde, für Blood Fury. Jedes Volk kann Warrior spielen, und jede Wahl funktioniert."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endet bei Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
@@ -123,7 +123,7 @@ Bleib am Boss. Außerhalb des Kampfes eröffnest du immer mit Charge, für Rage 
 
 ## Werte und Ausrüstung
 
-Die genaue Reihenfolge auf Level 60 folgt nach dem Start. Diese Werte helfen einem Arms Warrior:
+Die genaue Reihenfolge auf Level 60 folgt, sobald wir Level 60 im Live-Spiel testen können. Diese Werte helfen einem Arms Warrior:
 
 - **Stärke und Angriffskraft.** Dein Hauptwert: 1 Stärke gibt 2 Angriffskraft, Stärke ist pro Punkt also mehr wert.
 - **Trefferchance.** Ein Fehlschlag macht nichts und gibt keine Rage.

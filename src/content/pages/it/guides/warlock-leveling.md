@@ -3,7 +3,7 @@ title: "Livellare un Warlock in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Warlock in WoW Forever: build Affliction, Demonology e Destruction fino al 30"
 description: "Come livellare un Warlock in WoW Forever: la prima build, tre build di livello 30 per Affliction, Demonology e Destruction, la rotazione, i livelli chiave, le missioni di classe per ogni demone, bacchette, professioni, Life Tap e Fear."
 short: "Leveling del Warlock"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quali professioni si adattano a un Warlock?"
     a: "Tailoring con Enchanting è la coppia classica: Tailoring crea equipaggiamento Shadow e il suo campo dà Spirit, Enchanting crea le prime bacchette buone. Anche First Aid è utile, perché ora crea rimedi contro veleno, malattia e sanguinamento."
   - q: "C'è già una build per il livello 60?"
-    a: "Non in questa guida: la beta si ferma al livello 30. La nostra build di leveling del Warlock dà un talento per ogni livello fino al 60."
+    a: "Non in questa guida: le sue build arrivano al livello 30, dove finiva la beta. La nostra build di leveling del Warlock dà un talento per ogni livello fino al 40."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warlock-leveling/"
@@ -35,7 +35,7 @@ Il Warlock è una delle classi più autosufficienti di WoW Forever. I tuoi danni
 | Punti deboli | Inizio lento, Soul Shard da raccogliere, poco contro molti mostri insieme |
 | Talento per livello | [Build di leveling del Warlock](/it/leveling/warlock/) |
 | Guide per spec | [Affliction Warlock](/it/guides/affliction-warlock/), [Demonology Warlock](/it/guides/demonology-warlock/), [Destruction Warlock](/it/guides/destruction-warlock/) |
-| Build fino al livello 60 | Dopo il lancio del 4 novembre |
+| Build fino al livello 60 | Non ancora, la [build di leveling](/it/leveling/warlock/) arriva al 40 |
 
 ## Con quale spec livellare
 
@@ -43,7 +43,7 @@ Puoi livellare con tutte e tre, ma **Affliction** è la strada più fluida. Quas
 
 **Demonology** diventa comoda con Demonic Brand a 25 punti: allora il tuo demone tiene i mostri. **Destruction** è la più difficile da soli, perché resta ferma a lanciare, e i suoi incantesimi costano più mana. È forte nei dungeon.
 
-Le build qui sotto sono fatte per la beta, che si ferma al livello 30. La build Affliction ha una versione con cinque punti in più per Talented del sistema Legacy. Il calcolatore dei talenti mostra quella versione come livello 35, perché conta ogni punto come un livello. Le build per il livello 60 arriveranno dopo il lancio.
+Le build qui sotto sono state fatte sulla beta, che si fermava al livello 30. La build Affliction ha una versione con cinque punti in più per Talented del sistema Legacy. Il calcolatore dei talenti mostra quella versione come livello 35, perché conta ogni punto come un livello. Le build per il livello 60 arriveranno quando potremo provarle nel gioco live.
 
 Altro sulla spec al livello 60 nella [guida del Warlock Affliction](/it/guides/affliction-warlock/).
 

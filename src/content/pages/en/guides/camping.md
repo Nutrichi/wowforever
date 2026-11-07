@@ -1,14 +1,14 @@
 ---
 title: "Camping in WoW Forever: campfires, camp objects and buffs"
 metaTitle: "WoW Forever camping guide: campfires, every camp object and its buff"
-description: "How camping works in WoW Forever: the three campfires, the buff of every tradeskill, what each camp object costs, the tier 2 and 3 workstations and where the blueprints drop."
+description: "How camping works in WoW Forever: the three campfires, the buff of every profession, what each camp object costs, the tier 2 and 3 workstations and where the blueprints drop."
 short: "Camping"
 updated: 2026-10-29
 lang: en
 video: kYvgaUnDl7A
 faq:
-  - q: "Do I need a tradeskill to get a camp buff?"
-    a: "No. Anyone who sits at a campsite for a minute gets the buffs of the objects placed there, whatever tradeskills they have."
+  - q: "Do I need a profession to get a camp buff?"
+    a: "No. Anyone who sits at a campsite for a minute gets the buffs of the objects placed there, whatever professions they have."
   - q: "Do camp buffs stack with class buffs?"
     a: "No. Each camp buff is a slightly weaker version of a class buff, such as Arcane Intellect or Power Word: Fortitude, and does not stack with it."
   - q: "How many objects fit in one camp?"
@@ -23,7 +23,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever"
 ---
-Camping is a new system in WoW Forever. Someone lights a campfire, every tradeskill adds an object around it, and anyone who sits there for a minute gets the buffs. Higher tiers add workstations, a vendor and a repair bot.
+Camping is a new system in WoW Forever. Someone lights a campfire, every profession adds an object around it, and anyone who sits there for a minute gets the buffs. Higher tiers add workstations, a vendor and a repair bot.
 
 <figure class="wf-embed" data-wf-video="kYvgaUnDl7A">
   <button type="button" class="wf-embed__play">
@@ -71,11 +71,11 @@ Each camp buff is a weaker copy of a class buff and does not stack with it. The 
 
 ![Three players resting at a campfire with a first aid kit in the red dust of Durotar, a screenshot from the beta of World of Warcraft: Forever](../../../../assets/posts/2026-09-29-wow-forever-camp-in-durotar.jpg)
 
-## Tier 1: the buff of every tradeskill
+## Tier 1: the buff of every profession
 
 The tooltips show the buffs in steps; the table gives the highest step. What decides the step, the tooltip does not say.
 
-| Tradeskill | Object | Buff | Materials |
+| Profession | Object | Buff | Materials |
 |---|---|---|---|
 | Alchemy | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1230564"><img class="wf-wh__icon" src="/wh/spell_arcane_manatap.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Well</a> | Up to 29 mana per 5 sec, like <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25290"><img class="wf-wh__icon" src="/wh/spell_holy_sealofwisdom.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Wisdom</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2447"><img class="wf-wh__icon" src="/wh/inv_misc_flower_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Peacebloom</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3371"><img class="wf-wh__icon" src="/wh/inv_potion_84.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Empty Vial</a> |
 | Blacksmithing | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1230171"><img class="wf-wh__icon" src="/wh/inv_stone_grindingstone_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sharpening Wheel</a> | Up to 34 Strength, like <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25361"><img class="wf-wh__icon" src="/wh/spell_nature_earthbindtotem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Strength of Earth Totem</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2835"><img class="wf-wh__icon" src="/wh/inv_stone_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rough Stone</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2840"><img class="wf-wh__icon" src="/wh/inv_ingot_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Copper Bar</a> |
@@ -109,9 +109,9 @@ The Camp Chair is a real chair: sit on it instead of the ground. The Faction Ban
 
 ## Tier 2 and 3: workstations and services
 
-A higher object keeps the buff of tier 1 and adds something. It can be placed over a lower one of the same tradeskill in the same camp, without waiting for the cooldown.
+A higher object keeps the buff of tier 1 and adds something. It can be placed over a lower one of the same profession in the same camp, without waiting for the cooldown.
 
-| Tradeskill | Tier 2 (skill 140) | Tier 3 (skill 300) |
+| Profession | Tier 2 (skill 140) | Tier 3 (skill 300) |
 |---|---|---|
 | Alchemy | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263005"><img class="wf-wh__icon" src="/wh/inv_alchemy_90_cauldron.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fermenter</a>: workstation for some reagents | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263078"><img class="wf-wh__icon" src="/wh/10prof_portabletable_alchemy01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alchemy Laboratory</a>: workstation for some recipes |
 | Blacksmithing | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263041"><img class="wf-wh__icon" src="/wh/inv_blacksmith_anvil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Anvil</a>: craft plans anywhere | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263073"><img class="wf-wh__icon" src="/wh/inv_mace_1h_blacksmithing_b_01_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Forge</a>: workstation for some plans |
@@ -142,7 +142,7 @@ Tier 2 and 3 are learned from blueprints. Most sources are not known yet; these 
 
 ## The Scarlet Banner
 
-<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=278030"><img class="wf-wh__icon" src="/wh/inv_misc_token_scarletcrusade.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Banner</a> is a camp object without a tradeskill. You raise it near a campfire, and it has a cooldown of an hour. So far it gives no buff: it is only for the look. You earn it with four graves and a puzzle in the [Scarlet Monastery Library](/guides/dungeons/scarlet-monastery-library/). Priests from Season of Discovery know the route, which gave the Pain Suppression rune there.
+<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=278030"><img class="wf-wh__icon" src="/wh/inv_misc_token_scarletcrusade.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Banner</a> is a camp object without a profession. You raise it near a campfire, and it has a cooldown of an hour. So far it gives no buff: it is only for the look. You earn it with four graves and a puzzle in the [Scarlet Monastery Library](/guides/dungeons/scarlet-monastery-library/). Priests from Season of Discovery know the route, which gave the Pain Suppression rune there.
 
 **1. Collect four Echoes.** Click the grave in each of these places.
 

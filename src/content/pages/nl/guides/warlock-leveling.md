@@ -1,9 +1,9 @@
 ---
 title: "Warlock levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Warlock levelgids: builds voor Affliction, Demonology en Destruction tot 30"
-description: "Zo level je een Warlock in WoW Forever: de eerste build, drie builds voor level 30 voor Affliction, Demonology en Destruction, de rotatie, de belangrijke levels, de classquests voor elke demon, wands, tradeskills, Life Tap en Fear."
+description: "Zo level je een Warlock in WoW Forever: de eerste build, drie builds voor level 30 voor Affliction, Demonology en Destruction, de rotatie, de belangrijke levels, de classquests voor elke demon, wands, beroepen, Life Tap en Fear."
 short: "Warlock levelen"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -17,15 +17,15 @@ faq:
     a: "Curses zijn opgesplitst in Banes en Curses. Banes doen schade over tijd, Curses zijn utility. Je kan van elk één op hetzelfde doel hebben, dus Bane of Agony en Curse of Weakness lopen samen."
   - q: "Hoe krijg ik Soul Shards in WoW Forever?"
     a: "Drain Soul heeft nu een kans op een Soul Shard terwijl het een doel schade doet, en een doel dat sterft aan Drain Soul geeft er altijd een. Laat je demon tanken en kanaliseer rank 1 van Drain Soul tot je genoeg hebt."
-  - q: "Welke tradeskills passen bij een Warlock?"
+  - q: "Welk beroeps passen bij een Warlock?"
     a: "Tailoring met Enchanting is het klassieke paar: Tailoring maakt Shadow-gear en zijn kamp geeft Spirit, Enchanting maakt de eerste goede wands. First Aid is ook nuttig, want het maakt nu middelen tegen gif, ziekte en bloedingen."
   - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de beta stopt op level 30. Onze levelbuild voor de Warlock geeft een talent voor elk level tot 60."
+    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Warlock geeft een talent voor elk level tot 40."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warlock-leveling/"
 ---
-De Warlock is een van de meest zelfstandige classes in WoW Forever. Je schade blijft tikken terwijl je beweegt, je demon tankt of vecht mee, en je zet je eigen health om in mana. Op level 30 kies je tussen Affliction, Demonology en Destruction. Deze gids behandelt de builds, de rotatie, de belangrijke levels, de classquests, wands en tradeskills.
+De Warlock is een van de meest zelfstandige classes in WoW Forever. Je schade blijft tikken terwijl je beweegt, je demon tankt of vecht mee, en je zet je eigen health om in mana. Op level 30 kies je tussen Affliction, Demonology en Destruction. Deze gids behandelt de builds, de rotatie, de belangrijke levels, de classquests, wands en beroepen.
 
 | | |
 |---|---|
@@ -35,7 +35,7 @@ De Warlock is een van de meest zelfstandige classes in WoW Forever. Je schade bl
 | Zwak in | Trage start, Soul Shards verzamelen, weinig tegen veel monsters tegelijk |
 | Talent per level | [Levelbuild voor de Warlock](/nl/leveling/warlock/) |
 | Gidsen per spec | [Affliction Warlock](/nl/guides/affliction-warlock/), [Demonology Warlock](/nl/guides/demonology-warlock/), [Destruction Warlock](/nl/guides/destruction-warlock/) |
-| Builds tot level 60 | Na de launch op 4 november |
+| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/warlock/) gaat tot 40 |
 
 ## Met welke spec levelen
 
@@ -43,7 +43,7 @@ Je kan met alle drie levelen, maar **Affliction** is de vlotste weg. De meeste s
 
 **Demonology** wordt comfortabel met Demonic Brand op 25 punten: dan houdt je demon de monsters vast. **Destruction** is alleen het moeilijkst, want het staat stil en cast, en zijn spells kosten meer mana. In dungeons is het sterk.
 
-De builds hieronder zijn gemaakt voor de beta, die stopt op level 30. De Affliction-build heeft een versie met vijf extra punten voor Talented uit het Legacy-systeem. De talentcalculator toont die versie als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen na de launch.
+De builds hieronder zijn gemaakt op de beta, die stopte op level 30. De Affliction-build heeft een versie met vijf extra punten voor Talented uit het Legacy-systeem. De talentcalculator toont die versie als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
 
 Meer over de spec op level 60 staat in de [gids voor de Affliction Warlock](/nl/guides/affliction-warlock/).
 
@@ -250,13 +250,13 @@ Humans hebben geen zwaard meer nodig: hun racial Ruthless geeft nu 1% critical s
 
 **Tailoring** heeft nieuwe soulbound Shadow-stukken zoals <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253967"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gown</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_27.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gloves</a>. Alleen de tailor die ze maakte, kan ze dragen.
 
-## Tradeskills
+## Beroepen
 
-Level je tradeskills mee met je Warlock, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elke tradeskill.
+Level je beroepen mee met je Warlock, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elk beroep.
 
 - **Cooking** is een must: buff food geeft extra ervaring, en je hebt het nodig voor een kampvuur.
 - **First Aid** past goed bij een Warlock. Verbind jezelf tussen pulls of terwijl een monster in Fear zit, en zet die health met Life Tap om in mana. First Aid maakt nu ook healing potions en middelen tegen gif, ziekte en bloedingen, die een Warlock anders niet kan verwijderen.
-- **Tailoring** is de klassieke tradeskill voor casters. Het maakt Shadow-gear op bijna elk level, en zijn kamp geeft Spirit, wat de mana uit Life Tap verhoogt.
+- **Tailoring** is het klassieke beroep voor casters. Het maakt Shadow-gear op bijna elk level, en zijn kamp geeft Spirit, wat de mana uit Life Tap verhoogt.
 - **Enchanting** past perfect bij Tailoring: je disenchant de gear die je tijdens het levelen maakt. Enchanters maken de eerste goede wands, staven en weapon oils.
 - **Herbalism** is makkelijk geld voor je spells, en zijn kamp geeft Intellect.
 - **Alchemy** gaat goed samen met Herbalism en geeft potions en een kamp voor manaregeneratie.

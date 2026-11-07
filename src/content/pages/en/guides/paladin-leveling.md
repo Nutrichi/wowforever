@@ -3,7 +3,7 @@ title: "Paladin leveling guide for WoW Forever"
 metaTitle: "WoW Forever Paladin leveling guide: Retribution, Protection and Shockadin builds to 30"
 description: "How to level a Paladin in WoW Forever: the early build, three level 30 builds for Retribution, Protection and Shockadin, the rotation, key levels, the class quests and their weapons, seals, auras and blessings."
 short: "Paladin leveling"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is the best spec to level a Paladin in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which professions suit a Paladin?"
     a: "Blacksmithing with Mining. Blacksmithing makes soulbound gear with stats you rarely find elsewhere, such as spell power for plate wearers. Cooking is a must for every class, for the experience buff and your own campfire."
   - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: the beta stops at level 30. Our Paladin level build gives a talent for every level to 60."
+    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Paladin level build gives a talent for every level to 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/paladin-leveling/"
@@ -34,7 +34,7 @@ The Paladin levels slowly but safely. You heal yourself, you have a shield again
 | Weakness | Kills one monster at a time, mana between pulls, little to escape with |
 | Talent order per level | [Paladin level build](/leveling/paladin/) |
 | Spec guides | [Retribution Paladin](/guides/retribution-paladin/), [Holy Paladin](/guides/holy-paladin/) |
-| Builds to level 60 | After the launch on 4 November |
+| Builds to level 60 | Not yet, the [level build](/leveling/paladin/) goes to 35 |
 
 ## Which spec to level with
 
@@ -42,7 +42,7 @@ You can level with all three. **Retribution** is the classic choice: a large two
 
 For the first 20 to 30 levels, spend your points in Retribution, even if you plan to tank dungeons with a shield later. Most of your damage comes from the same three buttons in every spec: a seal, Judgement and Holy Strike.
 
-The builds below are made for the beta, which stops at level 30. Each has 26 points: you reach that at level 30 with five extra points from Talented in the Legacy system, or at level 35 without them. The talent calculator shows such a build as level 35, because it counts every point as a level. Builds for level 60 follow after the launch.
+The builds below were made on the beta, which stopped at level 30. Each has 26 points: you reach that at level 30 with five extra points from Talented in the Legacy system, or at level 35 without them. The talent calculator shows such a build as level 35, because it counts every point as a level. Builds for level 60 follow once we can test them in the live game.
 
 ## Levels 1 to 10
 

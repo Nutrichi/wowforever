@@ -3,7 +3,7 @@ title: "Warrior levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Warrior levelgids: Arms, Fury en Protection tot 30"
 description: "Zo level je een Warrior in WoW Forever: de eerste build, drie builds voor level 30 voor Arms, Fury en Protection, de rotatie, belangrijke levels, stancequests en Rage."
 short: "Warrior levelen"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -15,10 +15,10 @@ faq:
     a: "Rage is genormaliseerd: wat je van een slag krijgt, hangt af van de snelheid van je wapen, niet van zijn schade. Critical strikes geven extra Rage. Van stance wisselen kost Rage, maar met Tactical Mastery op level 14 houd je er 10 over."
   - q: "Heeft een Warrior reagents nodig?"
     a: "Nee. Een Warrior heeft helemaal geen reagents nodig. Eten, bandages en healing potions is alles wat je meedraagt."
-  - q: "Welke tradeskills passen bij een Warrior?"
+  - q: "Welk beroeps passen bij een Warrior?"
     a: "Blacksmithing met Mining. Blacksmithing maakt soulbound gear met stats die je elders zelden vindt, bijvoorbeeld meer Defense voor tanks. Cooking is voor elke class een must, voor de experiencebuff en je eigen kampvuur."
   - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de beta stopt op level 30. Onze levelbuild voor de Warrior geeft een talent voor elk level tot 60."
+    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Warrior geeft een talent voor elk level tot 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
@@ -35,13 +35,13 @@ De Warrior groeit met elk level. In het begin druk je vooral Heroic Strike en la
 | Zwak in | Geen eigen heals, rust om te eten, een trage start |
 | Talent per level | [Levelbuild voor de Warrior](/nl/leveling/warrior/) |
 | Gidsen per spec | [Fury Warrior](/nl/guides/fury-warrior/), [Arms Warrior](/nl/guides/arms-warrior/), [Protection Warrior](/nl/guides/protection-warrior/) |
-| Builds tot level 60 | Na de launch op 4 november |
+| Builds tot level 60 | De [levelbuild](/nl/leveling/warrior/), elk level tot 60 |
 
 ## Met welke spec levelen
 
 Alle drie de bomen levelen goed. De meeste spelers levelen traditioneel als **Arms**, voor de burst en het stabiele spel. **Fury** krijgt veel schade, dus je stopt vaker om te eten, maar de schade kan dat waard zijn. **Protection** is veel sterker dan vroeger: het brandt groepen monsters weg terwijl je weinig health verliest.
 
-De builds hieronder zijn gemaakt voor de beta, die stopt op level 30. Elke build heeft 26 punten: die heb je op level 30 met vijf extra punten van Talented uit het Legacy-systeem, of op level 35 zonder. De talentcalculator toont zo'n build als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen na de launch.
+De builds hieronder zijn gemaakt op de beta, die stopte op level 30. Elke build heeft 26 punten: die heb je op level 30 met vijf extra punten van Talented uit het Legacy-systeem, of op level 35 zonder. De talentcalculator toont zo'n build als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
 
 ## Level 1 tot 10
 
@@ -215,9 +215,9 @@ Leer je een nieuw wapentype, dan moet je eerst de skill ervan trainen voor je er
 
 **Wapens** zijn veruit de belangrijkste upgrade. Meestal wil je een traag, zwaar wapen: dat verhoogt de schade van instant aanvallen zoals Overpower, Whirlwind en Mortal Strike. Humans, Dwarves en Orcs krijgen geen extra weapon skill meer voor een wapentype, dus je kiest je wapen vrij. Meer in [deze post](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/).
 
-## Tradeskills
+## Beroepen
 
-Level je tradeskills samen met je Warrior, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elke tradeskill.
+Level je beroepen samen met je Warrior, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elk beroep.
 
 - **Cooking** is een must: buffvoedsel geeft extra experience, en je hebt het nodig voor een kampvuur.
 - **Blacksmithing** maakt je eigen gear, ook soulbound stukken met stats die je elders zelden vindt, zoals meer Defense voor een tank.

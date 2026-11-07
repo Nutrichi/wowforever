@@ -3,7 +3,7 @@ title: "Livellare un Paladin in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Paladin in WoW Forever: build Retribution, Protection e Shockadin fino al 30"
 description: "Come livellare un Paladin in WoW Forever: la prima build, tre build di livello 30 per Retribution, Protection e Shockadin, la rotazione, i livelli chiave, le missioni di classe e le loro armi, seal, aure e blessing."
 short: "Leveling del Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quali professioni sono adatte a un Paladin?"
     a: "Blacksmithing con Mining. Blacksmithing crea equipaggiamento vincolato con statistiche che trovi raramente altrove, come potere magico per chi porta piastre. Cooking è indispensabile per ogni classe, per il bonus all'esperienza e il tuo fuoco da campo."
   - q: "C'è già una build per il livello 60?"
-    a: "Non in questa guida: la beta si ferma al livello 30. La nostra build di leveling del Paladin dà un talento per ogni livello fino al 60."
+    a: "Non in questa guida: le sue build arrivano al livello 30, dove finiva la beta. La nostra build di leveling del Paladin dà un talento per ogni livello fino al 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/paladin-leveling/"
@@ -35,7 +35,7 @@ Il Paladin livella lentamente ma in sicurezza. Ti curi da solo, hai una protezio
 | Punti deboli | Uccide un mostro alla volta, mana tra un combattimento e l'altro, poco per fuggire |
 | Talento per livello | [Build di leveling del Paladin](/it/leveling/paladin/) |
 | Guide per spec | [Retribution Paladin](/it/guides/retribution-paladin/), [Holy Paladin](/it/guides/holy-paladin/) |
-| Build fino al livello 60 | Dopo il lancio del 4 novembre |
+| Build fino al livello 60 | Non ancora, la [build di leveling](/it/leveling/paladin/) arriva al 35 |
 
 ## Con quale spec livellare
 
@@ -43,7 +43,7 @@ Puoi livellare con tutte e tre. **Retribution** è la scelta classica: una grand
 
 Nei primi 20-30 livelli metti i punti in Retribution, anche se più avanti vuoi fare il tank nei dungeon con uno scudo. In ogni spec, la maggior parte dei danni viene dagli stessi tre tasti: un seal, Judgement e Holy Strike.
 
-Le build qui sotto sono pensate per la beta, che si ferma al livello 30. Ognuna ha 26 punti: li hai al livello 30 con cinque punti in più da Talented del sistema Legacy, oppure al livello 35 senza. Il calcolatore dei talenti mostra una build così come livello 35, perché conta ogni punto come un livello. Le build per il livello 60 arriveranno dopo il lancio.
+Le build qui sotto sono state fatte sulla beta, che si fermava al livello 30. Ognuna ha 26 punti: li hai al livello 30 con cinque punti in più da Talented del sistema Legacy, oppure al livello 35 senza. Il calcolatore dei talenti mostra una build così come livello 35, perché conta ogni punto come un livello. Le build per il livello 60 arriveranno quando potremo provarle nel gioco live.
 
 ## Livelli da 1 a 10
 

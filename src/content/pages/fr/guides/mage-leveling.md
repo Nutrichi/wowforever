@@ -3,7 +3,7 @@ title: "Guide de leveling du Mage dans WoW Forever"
 metaTitle: "WoW Forever : guide de leveling du Mage, Frost, Fire et Arcane, rotation et astuces"
 description: "Comment monter un Mage dans WoW Forever : pourquoi Frost avec Ice Lance est le plus rapide, la rotation Frost, Fire et Arcane, les niveaux clés, les quêtes de classe, les parchemins, la mana et la menace."
 short: "Leveling du Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quels métiers conviennent à un Mage ?"
     a: "Tailoring avec Enchanting est le duo classique. Cooking vaut le coup pour toutes les classes dans Forever, car la nourriture à buff donne maintenant aussi de l'expérience en plus et sert pour un camp."
   - q: "Y a-t-il déjà un build pour le niveau 60 ?"
-    a: "Pas encore. La bêta s'arrête au niveau 30. Notre build de leveling va jusqu'au niveau 35 et sera complété dès que les builds des niveaux suivants seront connus."
+    a: "Pas encore. La bêta s'arrêtait au niveau 30. Notre build de leveling va jusqu'au niveau 35 et sera complété dès que les builds des niveaux suivants seront connus."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/mage-leveling/"
@@ -34,7 +34,7 @@ Le Mage monte vite et seul dans WoW Forever, avec de la nourriture et de l'eau �
 | Points forts | Dégâts, contrôle, nourriture et eau gratuites |
 | Points faibles | Mana, menace en donjon, peu de points de vie |
 | Talent par niveau | [Build de leveling du Mage](/fr/leveling/mage/) |
-| Builds jusqu'au niveau 60 | Après la sortie du 4 novembre |
+| Builds jusqu'au niveau 60 | Pas encore, le [build de leveling](/fr/leveling/mage/) va jusqu’au 35 |
 
 ## Quelle spécialisation pour monter
 

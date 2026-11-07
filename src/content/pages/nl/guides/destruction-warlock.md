@@ -3,7 +3,7 @@ title: "Destruction Warlock in WoW Forever: de gids"
 metaTitle: "WoW Forever Destruction Warlock: build voor level 30, Conflagrate en Hellfire"
 description: "De Destruction Warlock in WoW Forever: de build voor level 30 met Bane, Aftermath, Shadowburn en Conflagrate, de rotatie, Hellfire in dungeons, mana, threat, stats en races."
 short: "Destruction Warlock"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welk ras is het beste voor een Destruction Warlock?"
     a: "Human voor de Alliance, voor 1% meer critical strike-kans van Ruthless. Undead voor de Horde, voor Touch of the Grave, Cannibalize en Will of the Forsaken. Berserking van de Troll maakt je casts ook sneller. De verschillen zijn klein, dus kies het ras dat je leuk vindt."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de launch op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/destruction-warlock/"
@@ -144,7 +144,7 @@ Met het nieuwe Move-commando zet je je demon waar je wilt. Leg Attack en Follow 
 - **Wapens.** Je wapen is een stat stick, de Spell Power telt meer dan de schade. De Warlock-quest voor de Orb of Soran'ruk laat je kiezen tussen <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>.
 - **Wands.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> uit Blackfathom Deeps is de sterkste wand voor level 30. Gebruik hem als je weinig mana en weinig health hebt.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|
@@ -156,4 +156,4 @@ Met het nieuwe Move-commando zet je je demon waar je wilt. Leg Attack en Follow 
 
 Geen van deze is sterk genoeg om een ras dat je leuker vindt over te slaan.
 
-**Tradeskills.** Tailoring maakt Flame- en Shadow-gear op bijna elk level, en de kampbuff geeft Spirit. Enchanting past er goed bij. First Aid geeft bandages en nu ook potions en middeltjes tegen poison, disease en bleeds, die een Warlock anders niet weg krijgt. Alchemy maakt <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250342"><img class="wf-wh__icon" src="/wh/inv_potion_107.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcane Elixir</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250340"><img class="wf-wh__icon" src="/wh/inv_potion_126.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Mageblood Elixir</a>.
+**Beroepen.** Tailoring maakt Flame- en Shadow-gear op bijna elk level, en de kampbuff geeft Spirit. Enchanting past er goed bij. First Aid geeft bandages en nu ook potions en middeltjes tegen poison, disease en bleeds, die een Warlock anders niet weg krijgt. Alchemy maakt <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250342"><img class="wf-wh__icon" src="/wh/inv_potion_107.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcane Elixir</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250340"><img class="wf-wh__icon" src="/wh/inv_potion_126.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Mageblood Elixir</a>.

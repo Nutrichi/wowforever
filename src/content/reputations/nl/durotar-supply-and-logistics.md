@@ -11,7 +11,7 @@ origin: forever
 start: neutral
 cap: exalted
 method: "Buit kisten in de wereld, vul ze en lever ze in bij Dokimi in het kamp buiten de Crossroads in The Barrens."
-rewards: "Een tradeskill sign als speeltje op Honored, en de tabard van de factie op Exalted."
+rewards: "Een beroep sign als speeltje op Honored, en de tabard van de factie op Exalted."
 sources:
   - name: "Wowhead, de factie"
     url: "https://www.wowhead.com/forever/faction=2587/durotar-supply-and-logistics"
@@ -24,7 +24,7 @@ Durotar Supply and Logistics is de bevoorradingsfactie van de Horde in WoW Forev
 
 - **Een speeltje op Honored.** De Advertising License Application begint een quest voor de Orcish Tradeskill Sign, een speeltje dat laat zien wat je maakt.
 - **De tabard op Exalted.** De <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262764"><img class="wf-wh__icon" src="/wh/inv_tabard_merchanthordec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Durotar Supply and Logistics Tabard</a> vraagt Exalted.
-- **Het beloont wat je toch al doet.** De reputatie komt van kisten inleveren, dus de tradeskills die je toch levelt, voeden haar.
+- **Het beloont wat je toch al doet.** De reputatie komt van kisten inleveren, dus de beroepen die je toch levelt, voeden haar.
 
 ## Het kamp buiten de Crossroads
 
@@ -36,7 +36,7 @@ Het kamp staat net buiten de Crossroads in The Barrens. De kisten gaan naar <a c
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Veilingmeester | 49.8 29.4 |
 
-Dit zijn de posities van de NPC's; een reputatiegids geeft /way 42 34 voor het kamp. Het kamp van de Alliance bij Three Corners heeft verkopers met recepten voor zeven tradeskills, een mount en titels. Of het kamp van de Horde hetzelfde verkoopt, tonen de gidsen nog niet.
+Dit zijn de posities van de NPC's; een reputatiegids geeft /way 42 34 voor het kamp. Het kamp van de Alliance bij Three Corners heeft verkopers met recepten voor zeven beroepen, een mount en titels. Of het kamp van de Horde hetzelfde verkoopt, tonen de gidsen nog niet.
 
 ## De standings
 

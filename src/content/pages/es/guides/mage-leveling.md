@@ -3,7 +3,7 @@ title: "Guía para subir de nivel al Mage en WoW Forever"
 metaTitle: "WoW Forever: guía de subida del Mage, Frost, Fire y Arcane, rotación y consejos"
 description: "Cómo subir un Mage en WoW Forever: por qué Frost con Ice Lance es lo más rápido, la rotación de Frost, Fire y Arcane, los niveles clave, las misiones de clase, los pergaminos, el maná y la amenaza."
 short: "Subir de nivel al Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "¿Qué profesiones le van bien a un Mage?"
     a: "Tailoring con Enchanting es la pareja clásica. Cooking merece la pena para cualquier clase en Forever, porque la comida con bufo ahora también da experiencia extra y la necesitas para un campamento."
   - q: "¿Hay ya una build para nivel 60?"
-    a: "Todavía no. La beta se detiene en el nivel 30. Nuestra build de subida llega al nivel 35 y se ampliará en cuanto se conozcan las builds de niveles más altos."
+    a: "Todavía no. La beta terminaba en el nivel 30. Nuestra build de subida llega al nivel 35 y se ampliará en cuanto se conozcan las builds de niveles más altos."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/mage-leveling/"
@@ -34,7 +34,7 @@ El Mage sube rápido y en solitario en WoW Forever, con comida y agua infinitas 
 | Puntos fuertes | Daño, control, comida y agua gratis |
 | Puntos débiles | Maná, amenaza en mazmorras, poca vida |
 | Talento por nivel | [Build de subida del Mage](/es/leveling/mage/) |
-| Builds hasta nivel 60 | Tras el lanzamiento del 4 de noviembre |
+| Builds hasta nivel 60 | Todavía no, la [build de subida](/es/leveling/mage/) llega al 35 |
 
 ## Con qué especialización subir
 

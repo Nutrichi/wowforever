@@ -3,7 +3,7 @@ title: "Guida al livellamento del Priest in WoW Forever"
 metaTitle: "Guida leveling Priest WoW Forever: build Discipline, Holy e Shadow fino al 30"
 description: "Come livellare un Priest in WoW Forever: tre build di livello 30 per Discipline, Holy e Shadow, la rotazione, i livelli chiave, gli incantesimi razziali, le bacchette, le professioni, il mana e le cure."
 short: "Leveling del Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quali professioni sono adatte a un Priest?"
     a: "Tailoring con Enchanting è la coppia classica: equipaggiamento di stoffa vincolato, bacchette e oli per il potere magico. Cooking conviene a ogni classe in Forever, perché il cibo con buff dà esperienza in più e serve per un campo."
   - q: "Esiste già una build di livello 60?"
-    a: "Non in questa guida: la beta si ferma al livello 30. La nostra build di leveling per il Priest dà un talento per ogni livello fino al 60, con un respec al 30 e al 40."
+    a: "Non in questa guida: le sue build arrivano al livello 30, dove finiva la beta. La nostra build di leveling per il Priest dà un talento per ogni livello fino al 60, con un respec al 30 e al 40."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
@@ -43,7 +43,7 @@ I primi 20-30 livelli cambiano poco. Inizi con <a class="wf-wh wf-spell" href="h
 
 **Discipline** mantiene questo stile tranquillo e aggiunge Penance al 30, per danni o una cura rapida. **Shadow** uccide più in fretta con Mind Flay e Mind Blast, ma rende solo da circa il livello 28, a meno di avere un buon potere magico. **Holy** è per chi passa gran parte del leveling a curare dungeon. Livellare da soli come Holy è lento.
 
-Le build qui sotto sono pensate per la beta, che si ferma al livello 30. Le build di livello 60 arriveranno dopo il lancio.
+Le build qui sotto sono state fatte sulla beta, che si fermava al livello 30. Le build di livello 60 arriveranno quando potremo provarle nel gioco live.
 
 ## Livelli da 1 a 10
 

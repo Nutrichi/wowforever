@@ -3,7 +3,7 @@ title: "Guida all'Affliction Warlock in WoW Forever"
 metaTitle: "WoW Forever: Affliction Warlock, build drain tank, rotazione, Life Tap e razze"
 description: "L'Affliction Warlock in WoW Forever: cosa cambia, la build drain tank per il livello 30, la rotazione, Life Tap e Drain Life, i demoni, le statistiche, le razze e le professioni."
 short: "Affliction Warlock"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Qual è la razza migliore per un Affliction Warlock?"
     a: "Undead per l'Orda e Human o Gnome per l'Alleanza hanno piccoli vantaggi, ma nessuna è abbastanza forte da rinunciare a una razza che ti piace di più."
   - q: "C'è già una build per il livello 60?"
-    a: "Non ancora. La beta si ferma al livello 30, e le build per il livello 60 arriveranno dopo il lancio del 4 novembre."
+    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/affliction-warlock/"

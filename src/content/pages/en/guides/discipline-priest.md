@@ -3,7 +3,7 @@ title: "Discipline Priest guide for WoW Forever"
 metaTitle: "WoW Forever Discipline Priest: 31/20/0 build, Penance and stats"
 description: "The Discipline Priest in WoW Forever: the 31/20/0 build for level 60, Penance, Divine Aegis, Renewed Hope and Power Infusion, tank healing, mana, stats and races."
 short: "Discipline Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Discipline Priest good in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Can Discipline deal damage?"
     a: "Smite builds are possible with talents such as Power in Light and Penance, but Smite still has its problems. This guide sticks to healing."
   - q: "Is this build final?"
-    a: "No. It uses the talents of the beta build of 15 October for level 60. The beta stops at level 30, so values can still change before or after the launch on 4 November."
+    a: "No. It uses the talents of the beta build of 15 October for level 60. The beta stopped at level 30, so these talents were never tested at level 60 and can still change."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/discipline-priest/"

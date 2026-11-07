@@ -3,7 +3,7 @@ title: "Holy Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Holy Paladin: healing build, spells and mana"
 description: "The Holy Paladin in WoW Forever: the level 30 healing build and its Talented version, Holy Shock and Light's Vigil, the healing priority, mana, seals, stats and races."
 short: "Holy Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Holy Paladin a good healer in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which race is best for a Holy Paladin?"
     a: "Human for the Alliance, for the extra critical strike chance. Dwarf has Stoneform as a defensive cooldown. Horde Paladins are always Undead."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stopped at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
@@ -113,7 +113,7 @@ Before a fight, give everyone the right blessing, and everyone except the tank a
 
 ## Stats and gear
 
-Stat priorities for level 60 follow after the launch. Until then:
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
 
 - **Healing power and spell power**, for stronger heals and cheaper ones: with more healing power, a lower rank does the job.
 - **Intellect**, for more mana and more critical strike chance.

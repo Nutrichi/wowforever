@@ -17,7 +17,7 @@ Legacy is de vooruitgang over je hele account in World of Warcraft: Forever, en 
 
 ## Eén punt per challenge, één keer per account
 
-[Elke Legacy-challenge is één punt waard](/nl/news/legacy-points-one-per-challenge/). Er zijn zes categorieën. Classes en Professions vullen zich terwijl je speelt: een class naar level 25, 45 en 60, een tradeskill naar 150, 225 en 300. PvP en Dungeons vragen meer. Novice Spelunker vraagt bijvoorbeeld Ruins of Lordaeron, Wailing Caverns, The Deadmines, Shadowfang Keep, Excavation Site: Wetlands, en Ragefire Chasm of Hall of Thanes.
+[Elke Legacy-challenge is één punt waard](/nl/news/legacy-points-one-per-challenge/). Er zijn zes categorieën. Classes en Professions vullen zich terwijl je speelt: een class naar level 25, 45 en 60, een beroep naar 150, 225 en 300. PvP en Dungeons vragen meer. Novice Spelunker vraagt bijvoorbeeld Ruins of Lordaeron, Wailing Caverns, The Deadmines, Shadowfang Keep, Excavation Site: Wetlands, en Ragefire Chasm of Hall of Thanes.
 
 Elke challenge telt één keer voor het hele account. Een tweede Druid naar level 25 levert niets op, een Mage naar level 25 wel. Je eerste personage verdient de punten traag, maar elk volgend personage begint ermee.
 
@@ -27,7 +27,7 @@ De punten gaan naar drie bomen: Professions, Adventure en Resourcefulness. Blizz
 
 | Boom | Voor | Voorbeeld |
 |---|---|---|
-| Professions | Tradeskills en verzamelen | Working Overtime, meer kans op een skillpunt; Bountiful Harvest, meer Scarce-materialen |
+| Professions | Beroepen en verzamelen | Working Overtime, meer kans op een skillpunt; Bountiful Harvest, meer Scarce-materialen |
 | Adventure | Levelen, verkennen, de open wereld | Well Rested, tot 20% sneller rested experience en een 20% hoger plafond; Talented |
 | Resourcefulness | Middelen, reputatie en buffs | Gourmand, voedselbuffs die tot twee keer zo lang duren |
 

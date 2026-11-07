@@ -14,7 +14,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/herbalism/overview-leveling"
 ---
-Herbalism is a gathering tradeskill: you pick herbs from plants all over the world. Alchemists always need them, and in WoW Forever more tradeskills use herbs than before. On the way to level 60 you pass herbs everywhere, so it earns gold while you level.
+Herbalism is a gathering profession: you pick herbs from plants all over the world. Alchemists always need them, and in WoW Forever more professions use herbs than before. On the way to level 60 you pass herbs everywhere, so it earns gold while you level.
 
 <div class="wf-gallery">
   <figure><img src="/guides/camping/incense-candle.jpg" alt="The Incense Candle, a thick burning candle in the grass" width="480" height="360" loading="lazy"><figcaption><strong>Incense Candle</strong> Intellect at a camp</figcaption></figure>
@@ -98,4 +98,4 @@ The gloves and the enchant stack to +10. The gloves are leather, but the enchant
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262980"><img class="wf-wh__icon" src="/wh/inv_misc_herb_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greenhouse</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273106"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Greenhouse</a> |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263070"><img class="wf-wh__icon" src="/wh/inv_farm_herbseed.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seed Hybridizer</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273120"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Seed Hybridizer</a> |
 
-The perks of Herbalism, such as Natural Talent, are on the [tradeskills page](/tradeskills/), and the Legacy perks in the [Legacy calculator](/talents/legacy/). The full route of Classic is in the [Classic Era guide](/tradeskills/classic/herbalism/).
+The perks of Herbalism, such as Natural Talent, are on the [professions page](/tradeskills/), and the Legacy perks in the [Legacy calculator](/talents/legacy/). The full route of Classic is in the [Classic Era guide](/tradeskills/classic/herbalism/).

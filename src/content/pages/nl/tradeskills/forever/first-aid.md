@@ -17,7 +17,7 @@ sources:
     url: "https://www.warcrafttavern.com/forever/guides/first-aid/"
 manual: true
 ---
-First Aid is een secundaire tradeskill, dus het neemt nooit een van je twee hoofdplaatsen in. In WoW Forever doet het veel meer dan verband: het maakt nu de healing potions, en middelen tegen gif, ziekte en bloedingen.
+First Aid is een secundair beroep, dus het neemt nooit een van je twee hoofdplaatsen in. In WoW Forever doet het veel meer dan verband: het maakt nu de healing potions, en middelen tegen gif, ziekte en bloedingen.
 
 ![Doctor Gustaf VanHowzen, Trauma Surgeon, in zijn ziekenzaal in Theramore, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-doctor-gustaf-vanhowzen.jpg)
 
@@ -75,7 +75,7 @@ First Aid is een secundaire tradeskill, dus het neemt nooit een van je twee hoof
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3928"><img class="wf-wh__icon" src="/wh/inv_potion_53.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Superior Healing Potion</a> | 215 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=255725"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Superior Healing Potion</a> | |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13446"><img class="wf-wh__icon" src="/wh/inv_potion_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Healing Potion</a> | 275 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=255729"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Major Healing Potion</a> | |
 
-Naast het kruid vraagt een potion een flesje en kruiden van een tradeskill-verkoper. De kruiden van de hogere potions staan nog niet in de gidsen.
+Naast het kruid vraagt een potion een flesje en kruiden van een beroepsverkoper. De kruiden van de hogere potions staan nog niet in de gidsen.
 
 ## Geneesmiddelen
 
@@ -108,7 +108,7 @@ Hoe een kampplaats werkt, staat in de [gids over camping](/nl/guides/camping/).
 
 Er zijn nu twee volledige routes. Allebei vragen ze vanaf 150 dezelfde boeken: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> voor de rang, en de manuals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, allemaal van de Expert-verkopers hierboven. Ze zijn verhandelbaar, dus het Auction House werkt ook.
 
-**De snelle route tot 150: healing potions.** De potions slaan het verband over en vragen alleen kruiden, een vial en specerijen van een tradeskillverkoper.
+**De snelle route tot 150: healing potions.** De potions slaan het verband over en vragen alleen kruiden, een vial en specerijen van een beroepsverkoper.
 
 | Skill | Maak | Materiaal |
 |---|---|---|
@@ -160,8 +160,8 @@ Waar de stof valt:
 
 | Perk | Effect |
 |---|---|
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Meer kans op een skillpunt in elke tradeskill |
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Een keer per dag een gratis skillpunt in je laagste tradeskill |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Meer kans op een skillpunt in elk beroep |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Een keer per dag een gratis skillpunt in je laagste beroep |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225475"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Medicine</a> | Kortere Recently Bandaged, alleen in de open wereld |
 
 De perks staan in de [Legacy-calculator](/nl/talents/legacy/).

@@ -3,7 +3,7 @@ title: "Flugrouten: jeder Flugmeister in WoW Forever"
 metaTitle: "Flugrouten in WoW Forever: Flugmeister, Routen und Schiffe"
 description: "Jeder Flugpunkt von WoW Forever für Alliance und Horde: der Flugmeister, die Koordinaten und die Ziele, dazu die fünf neuen Flugpunkte und jedes Schiff und jeder Zeppelin."
 short: "Flight Paths"
-updated: 2026-10-07
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -190,6 +190,6 @@ Sechs dieser Routen sind neu. Stormwind Harbor bekommt ein Schiff nach Auberdine
 
 - **Powderfuse Port hat eine Route**, nach Farholde Keep. Der Flugpunkt trägt in den Dateien keine Fraktion, aber seine einzige Route führt zu einer Festung der Alliance, und das Reittier ist ein Greif. Ein Flugmeister ist dort noch nicht bekannt.
 - **Ein sechster neuer Flugpunkt wartet**: Tidegear Coast in Dun Morogh steht ohne eine einzige Route in den Dateien. Wofür er gedacht ist, ist nicht bekannt.
-- **Die Routen können sich bis zum Start am 4. November noch ändern.**
+- **Die Routen können sich mit einem Hotfix oder Patch noch ändern.**
 - **Zephras Isle hat keinen festen Platz** auf der Weltkarte in den Dateien. Die Karte setzt Valanaar auf die Inselgruppe nördlich des Maelstrom.
 - **Wie lange ein Flug dauert**, steht nicht in den Dateien. Die Karte zeigt, wo eine Route verläuft, nicht wie lange sie dauert.

@@ -1,6 +1,6 @@
 ---
 title: "Dalaran gaat open op de beta, alleen voor de Alliance"
-description: "Dalaran in WoW Forever: drie wegen naar binnen, een stofdonatie voor de High Order, trainers, battlemasters, een juwelier zonder tradeskill, en de twee ingangen van de dungeon City of Dalaran."
+description: "Dalaran in WoW Forever: drie wegen naar binnen, een stofdonatie voor de High Order, trainers, battlemasters, een juwelier zonder beroep, en de twee ingangen van de dungeon City of Dalaran."
 date: 2026-09-29T21:40:00+02:00
 category: forever
 lang: nl
@@ -66,7 +66,7 @@ De Horde gaat erin van buiten de stad, op /way 8.8 59.6, met de <a class="wf-wh 
 
 ![Een speler op een rond rooster voor de ingang van de City of Dalaran, de weg voor de Horde, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-09-29-wow-forever-dalaran-horde-dungeon-entrance.jpg)
 
-## Een juwelier zonder tradeskill
+## Een juwelier zonder beroep
 
 In Cartier & Co. Fine Jewelry, op /way 18.1 61.9, staat Timothy Jones, een Apprentice Jeweler. Die titel hoort meestal bij een trainer. Jewelcrafting zit niet in Forever, en hij leert voorlopig niets.
 

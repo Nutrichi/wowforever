@@ -3,7 +3,7 @@ title: "Shadow-Priest-Guide für WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34-Build, Rotation und Werte"
 description: "Der Shadow Priest in WoW Forever: der Build 14/3/34 für Level 60, Improved Mind Flay und Vampiric Embrace, die DoT-Rotation, Shadowform, Mana, Werte und Völker."
 short: "Shadow Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welches Volk ist das beste für einen Shadow Priest?"
     a: "Dwarf für die Allianz und Troll für die Horde, wenn der Boss ein Wildtier ist, denn beide machen 5 % mehr Schaden gegen Wildtiere. Sonst sind Human und Undead gleich gut. Die Unterschiede sind klein, wähle also das Volk, das dir gefällt."
   - q: "Ist dieser Build endgültig?"
-    a: "Nein. Er nutzt die Talente des Beta-Builds vom 15. Oktober für Level 60. Die Beta endet bei Level 30, Werte können sich also vor oder nach dem Start am 4. November noch ändern."
+    a: "Nein. Er nutzt die Talente des Beta-Builds vom 15. Oktober für Level 60. Die Beta endete bei Level 30, diese Talente wurden also nie auf Level 60 getestet und können sich noch ändern."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shadow-priest/"

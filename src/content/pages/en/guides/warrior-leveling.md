@@ -3,7 +3,7 @@ title: "Warrior leveling guide for WoW Forever"
 metaTitle: "WoW Forever Warrior leveling: Arms, Fury and Protection to 30"
 description: "How to level a Warrior in WoW Forever: the early build, three level 30 builds for Arms, Fury and Protection, the rotation, key levels, stance quests and Rage."
 short: "Warrior leveling"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is the best spec to level a Warrior in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Which professions suit a Warrior?"
     a: "Blacksmithing with Mining. Blacksmithing makes soulbound gear with stats you rarely find elsewhere, for example more Defense for tanks. Cooking is a must for every class, for the experience buff and your own campfire."
   - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: the beta stops at level 30. Our Warrior level build gives a talent for every level to 60."
+    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Warrior level build gives a talent for every level to 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
@@ -34,13 +34,13 @@ The Warrior grows with every level. At the start you mostly press Heroic Strike 
 | Weakness | No heals of its own, rests to eat, a slow start |
 | Talent order per level | [Warrior level build](/leveling/warrior/) |
 | Spec guides | [Fury Warrior](/guides/fury-warrior/), [Arms Warrior](/guides/arms-warrior/), [Protection Warrior](/guides/protection-warrior/) |
-| Builds to level 60 | After the launch on 4 November |
+| Builds to level 60 | The [level build](/leveling/warrior/), every level to 60 |
 
 ## Which spec to level with
 
 All three trees level well. Most players traditionally level as **Arms**, for its burst and steady play. **Fury** takes a lot of damage, so you stop to eat more often, but its damage can be worth that. **Protection** is much stronger than it used to be: it burns down groups of monsters while you lose little health.
 
-The builds below are made for the beta, which stops at level 30. Each has 26 points: you reach that at level 30 with five extra points from Talented in the Legacy system, or at level 35 without them. The talent calculator shows such a build as level 35, because it counts every point as a level. Builds for level 60 follow after the launch.
+The builds below were made on the beta, which stopped at level 30. Each has 26 points: you reach that at level 30 with five extra points from Talented in the Legacy system, or at level 35 without them. The talent calculator shows such a build as level 35, because it counts every point as a level. Builds for level 60 follow once we can test them in the live game.
 
 ## Levels 1 to 10
 

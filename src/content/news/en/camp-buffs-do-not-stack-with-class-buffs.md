@@ -1,6 +1,6 @@
 ---
 title: "Camp buffs do not stack with class buffs"
-description: "Blizzard explains Camping in WoW Forever with the numbers for every tradeskill. Each camp buff is a variant of a class buff, from Power Word: Fortitude to Moonkin Aura."
+description: "Blizzard explains Camping in WoW Forever with the numbers for every profession. Each camp buff is a variant of a class buff, from Power Word: Fortitude to Moonkin Aura."
 date: 2026-10-21T19:40:00+02:00
 category: forever
 lang: en
@@ -12,19 +12,19 @@ tags: ["forever", "tradeskills"]
 featured: false
 draft: false
 ---
-Every camp buff in World of Warcraft: Forever is a variant of a class buff and does not stack with it. Blizzard explains Camping in a new blog post, with the numbers for each tradeskill. A campfire from Cooking holds up to three objects from other players.
+Every camp buff in World of Warcraft: Forever is a variant of a class buff and does not stack with it. Blizzard explains Camping in a new blog post, with the numbers for each profession. A campfire from Cooking holds up to three objects from other players.
 
 ## How a camp works
 
-A cook places a <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229737"><img class="wf-wh__icon" src="/wh/inv_camelot_camping_welcomingcampfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Basic Campfire</a>. Nearby players can each add one camp object from their tradeskill, up to three in total. Anyone who sits or crafts at the camp for at least 1 minute gets the benefits of the other objects there.
+A cook places a <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229737"><img class="wf-wh__icon" src="/wh/inv_camelot_camping_welcomingcampfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Basic Campfire</a>. Nearby players can each add one camp object from their profession, up to three in total. Anyone who sits or crafts at the camp for at least 1 minute gets the benefits of the other objects there.
 
-Every camp object needs a campfire nearby, and all of them share a cooldown of 1 hour. Cooks later learn larger campfires that hold 5 or even 10 objects. Other tradeskills unlock workstations such as the Alchemy Laboratory and the Tanning Rack.
+Every camp object needs a campfire nearby, and all of them share a cooldown of 1 hour. Cooks later learn larger campfires that hold 5 or even 10 objects. Other professions unlock workstations such as the Alchemy Laboratory and the Tanning Rack.
 
 A quest early in the game introduces the system. From skill 20, the first camp objects come from quests in the starting zones or from a trainer. Objects that need skill 140 or more drop in dungeons and raids.
 
-## What each tradeskill gives
+## What each profession gives
 
-| Tradeskill | Object | Buff | Does not stack with |
+| Profession | Object | Buff | Does not stack with |
 |---|---|---|---|
 | First Aid | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1230117"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">First Aid Kit</a> | 3 to 56 Stamina | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=10938"><img class="wf-wh__icon" src="/wh/spell_holy_wordfortitude.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Fortitude</a> |
 | Fishing | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a> | 8% to all stats | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20217"><img class="wf-wh__icon" src="/wh/spell_magic_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Kings</a> |

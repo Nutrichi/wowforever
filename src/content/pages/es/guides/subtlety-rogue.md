@@ -3,7 +3,7 @@ title: "Subtlety Rogue en WoW Forever: la guía"
 metaTitle: "WoW Forever Subtlety Rogue: builds de Ambush y sangrado"
 description: "El Subtlety Rogue en WoW Forever: una build de Ambush y una de sangrado, las dos con Death Mark, para el nivel 30 y el 60, con rotaciones, energía, Shank, venenos y razas."
 short: "Subtlety Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -188,7 +188,7 @@ Los Rogues pegan fuerte pero caen rápido. Valora cada pull: aplica Sap a un mon
 
 ## Stats y equipo
 
-Las prioridades de stats para el nivel 60 llegarán tras el lanzamiento. Hasta entonces:
+Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
 
 - **Agilidad**: 1 de poder de ataque por punto, un 1% de crítico por cada 29 de Agilidad, un 1% de esquiva por cada 14,5 de Agilidad.
 - **Poder de ataque**, que ahora también sube el daño de tus venenos.

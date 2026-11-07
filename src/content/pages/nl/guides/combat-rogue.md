@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash-builds tot level 60"
 description: "De Combat Rogue in WoW Forever: Hack and Slash voor elk wapentype, een build voor level 30 en twee voor level 60 (standaard en dolken), Blade Flurry, Adrenaline Rush, Energy, poisons en races."
 short: "Combat Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -173,7 +173,7 @@ Sap één monster uit een groep, bij voorkeur een caster. Open met Cheap Shot, v
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen na de launch. Tot dan:
+Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
 
 - **Agility**: 1 attack power per punt, 1% critical strike chance per 29 Agility, 1% dodge per 14,5 Agility.
 - **Attack power**, die nu ook de schade van je poisons verhoogt.
@@ -186,7 +186,7 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 **Wapens.** Wapens zijn nu op elk level veel sterker, en dankzij Hack and Slash werkt elk type. Voor Combat tellen ze meer dan voor elke andere Rogue-spec.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|

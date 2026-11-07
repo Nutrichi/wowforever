@@ -3,7 +3,7 @@ title: "Subtlety Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush and bleed builds to 60"
 description: "The Subtlety Rogue in WoW Forever: an Ambush build and a bleed build, both with Death Mark, for level 30 and level 60, with rotations, Energy, Shank, poisons and races."
 short: "Subtlety Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Subtlety Rogue good in PvE in WoW Forever?"
@@ -187,7 +187,7 @@ Rogues hit hard but fall fast. Judge every pull: Sap one monster out of a group,
 
 ## Stats and gear
 
-Stat priorities for level 60 follow after the launch. Until then:
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
 
 - **Agility**: 1 attack power per point, 1% critical strike chance per 29 Agility, 1% dodge per 14.5 Agility.
 - **Attack power**, which now also raises the damage of your poisons.

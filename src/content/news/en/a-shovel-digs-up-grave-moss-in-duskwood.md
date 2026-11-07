@@ -14,7 +14,7 @@ draft: false
 ---
 A new weapon on the WoW Forever beta digs up <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3369"><img class="wf-wh__icon" src="/wh/inv_misc_dust_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grave Moss</a>. The <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273817"><img class="wf-wh__icon" src="/wh/inv_misc_shovel_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graverobber's Shovel</a> has 20 charges to open graves at Raven Hill Cemetery in Duskwood and at the Scarlet Monastery Graveyard. One player spent all 20 and got 9 Grave Moss.
 
-It is the second weapon with a gathering effect in Forever. Early in the beta, players found the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=872"><img class="wf-wh__icon" src="/wh/inv_throwingaxe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rockslicer</a>, an axe from The Deadmines that [mines without the tradeskill](/news/a-deadmines-axe-mines-without-the-tradeskill/).
+It is the second weapon with a gathering effect in Forever. Early in the beta, players found the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=872"><img class="wf-wh__icon" src="/wh/inv_throwingaxe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rockslicer</a>, an axe from The Deadmines that [mines without the profession](/news/a-deadmines-axe-mines-without-the-tradeskill/).
 
 ## The shovel
 

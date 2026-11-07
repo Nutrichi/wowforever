@@ -3,7 +3,7 @@ title: "Razorfen Kraul"
 metaTitle: "Guide zu Razorfen Kraul für WoW Forever: Route, Trash und Bosse"
 description: "So spielst du Razorfen Kraul in WoW Forever: der Weg hinein im Süden von The Barrens, die Route durch das Dornenlabyrinth, die Zauberer der Quilboar und alle sechs Bosse."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: de
 manual: true
 sources:
@@ -82,4 +82,4 @@ Der Blind Hunter in der Fledermaushöhle zaubert Sonic Burst, eine Stille auf al
 ## Was noch nicht bekannt ist
 
 - **Die Dropchancen** der Beute der Bosse.
-- **Die Belohnungen der Quests** können sich vor dem Launch noch ändern.
+- **Die Belohnungen der Quests** stammen aus den Spieldateien und können sich mit einem Hotfix noch ändern.

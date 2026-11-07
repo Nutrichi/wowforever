@@ -3,7 +3,7 @@ title: "Guida al Fire Mage in WoW Forever"
 metaTitle: "WoW Forever Fire Mage: build Heating Up, rotazione e stats"
 description: "Il Fire Mage in WoW Forever: Heating Up e il nuovo Fire Power, due build di livello 30 per dungeon e solo, la rotazione Pyroblast, mana, stats e razze."
 short: "Fire Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Qual è la razza migliore per un Fire Mage?"
     a: "Orc per l’Orda, perché Blood Fury dà il 10% di potere magico, con Troll al secondo posto. Per l’Alleanza, prima Human per l’1% di probabilità di critico, poi l’High Order Skyborne. Scegli la razza che ti piace se non insegui ogni punto percentuale."
   - q: "C’è già una build per il livello 60?"
-    a: "Non ancora. La beta si ferma al livello 30, e le build per il livello 60 arriveranno dopo il lancio del 4 novembre."
+    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fire-mage/"
@@ -159,7 +159,7 @@ Usa Frost Blast o Frostbolt rango 1 per rallentare un bersaglio a distanza, Cone
 
 ## Stats ed equipaggiamento
 
-L’ordine esatto al livello 60 arriverà dopo il lancio. Queste stats aiutano un Fire Mage:
+L’ordine esatto al livello 60 arriverà quando potremo provare il livello 60 nel gioco live. Queste stats aiutano un Fire Mage:
 
 - **Il potere magico e il potere magico da Fuoco** per primi. Quello da Fuoco aiuta solo gli incantesimi di Fuoco, e funziona con Fire Power.
 - **La probabilità di critico** è il cuore della spec: un critico fa il 50% di danni in più, e Heating Up, Incineration, Critical Mass, Ignite e Combustion si basano tutti su di essa.

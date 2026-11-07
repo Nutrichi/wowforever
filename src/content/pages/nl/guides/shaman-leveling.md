@@ -3,7 +3,7 @@ title: "Levelgids voor de Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman levelen: Enhancement, Elemental en Resto"
 description: "Zo level je een Shaman in WoW Forever: builds voor level 30 voor Enhancement, Elemental en Restoration, belangrijke levels, de totemquests, de wapens van Call of Air en zones."
 short: "Shaman levelen"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Wanneer krijgt een Shaman Dual Spec?"
     a: "Op level 40, bij je classtrainer. Dat is het moment om naast Enhancement of Elemental een healspec toe te voegen."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopte op level 30, en builds voor level 60 volgen na de launch op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
@@ -37,7 +37,7 @@ De Shaman in WoW Forever is welkom in elke groep: sterke totembuffs, een instant
 | Zwak in | Mana, weinig crowd control |
 | Talentvolgorde per level | [Levelbuild voor de Shaman](/nl/leveling/shaman/) |
 | Gidsen per spec | [Enhancement Shaman](/nl/guides/enhancement-shaman/), [Elemental Shaman](/nl/guides/elemental-shaman/), [Restoration Shaman](/nl/guides/restoration-shaman/) |
-| Builds tot level 60 | Na de launch op 4 november |
+| Builds tot level 60 | De [levelbuild](/nl/leveling/shaman/), elk level tot 60 |
 
 ## Met welke spec level je
 
@@ -229,7 +229,7 @@ De levels van elke dungeon staan in onze [dungeongidsen](/nl/guides/dungeons/).
 
 **Reagents.** Reincarnation vraagt een Ankh, Water Breathing een Shiny Fish Scale en Water Walking Fish Oil, tenzij je het Legacy-talent hebt dat reagents overbodig maakt.
 
-## Tradeskills
+## Beroepen
 
 - **Cooking** is een must: buffs van eten zijn sterker, geven ervaring en laten je een eigen kamp opzetten.
 - **Leatherworking** met **Skinning** maakt goed gestatte gear tijdens het levelen, vooral met spell power, die in het begin zeldzaam is.

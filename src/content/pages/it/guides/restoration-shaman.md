@@ -3,7 +3,7 @@ title: "Restoration Shaman in WoW Forever: la guida"
 metaTitle: "WoW Forever Restoration Shaman: build da guaritore, totem, mana"
 description: "Il Restoration Shaman in WoW Forever: la build da guaritore di livello 30 e la sua versione Talented, Water Shield, Riptide e Chain Heal, i totem, il mana, le stats e le razze."
 short: "Restoration Shaman"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Qual è la razza migliore per un Restoration Shaman?"
     a: "Dwarf è l'unico Shaman dell'Alliance. Nell'Horde, Orc è la scelta più forte, ma anche Troll, Tauren e Windshaper Skyborne vanno bene."
   - q: "Esiste già una build per il livello 60?"
-    a: "Non ancora. La beta si è fermata al livello 30, e le build per il livello 60 arriveranno dopo il lancio del 4 novembre."
+    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
@@ -125,7 +125,7 @@ Il lancio al passaggio del mouse è integrato in Forever. Attivalo in Options, C
 
 ## Stats ed equipaggiamento
 
-Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad allora:
+Le priorità delle stats per il livello 60 arriveranno quando potremo provare il livello 60 nel gioco live. Fino ad allora:
 
 - **Potenza di cura**: cure più grandi, quindi meno lanci e meno mana.
 - **Spirit**: la tua rigenerazione di mana principale in Forever.

@@ -27,7 +27,7 @@ Monsters en objecten in Hillsbrad Foothills, Ashenvale, de Wetlands, Duskwood en
 
 De Honor-kost van PvP-gear en upgradetokens stijgt voor de meeste items met ongeveer 50%. De Honor-cap gaat van 15.000 naar 25.000 om plaats te maken voor de nieuwe prijzen.
 
-## Tradeskills en items
+## Beroepen en items
 
 - **Skinning**: een wezen kan weer maar één keer gevild worden voor het verdwijnt.
 - **Mining**: minder Poor Copper Veins in de startgebieden.

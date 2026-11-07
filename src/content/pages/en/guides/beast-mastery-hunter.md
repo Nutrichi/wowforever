@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter guide for WoW Forever"
 metaTitle: "WoW Forever Beast Mastery Hunter: level 60 build and rotation"
 description: "The Beast Mastery Hunter in WoW Forever: the 31/20/0 build for level 60, Summon Hawk and Bestial Wrath, the single target and AoE rotation, pets, mana, stats and races."
 short: "Beast Mastery Hunter"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Beast Mastery Hunter good in WoW Forever?"
@@ -142,7 +142,7 @@ Your pet is a large share of your damage, so keep it alive and on the target. Us
 
 ## Stats and gear
 
-Stat priorities for level 60 follow after the launch. Until then:
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
 
 - **Agility**: 2 ranged attack power per point and critical strike chance, about 1% per 53 Agility at level 60. Your pet gets 100% of your critical strike chance and 10% of your attack power.
 - **Hit**: against a level 63 boss you need 9% with 300 weapon skill, or 6% with 305.

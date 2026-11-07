@@ -3,7 +3,7 @@ title: "Guide du Holy Priest dans WoW Forever"
 metaTitle: "WoW Forever Holy Priest : build 18/33/0, soins et stats"
 description: "Le Holy Priest dans WoW Forever : le build 18/33/0 pour le niveau 60, Prayer of Mending et Litany of Light, soins de tank et de groupe, mana, stats et races."
 short: "Holy Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Quelle race choisir pour un Holy Priest ?"
     a: "Gnome ou Human pour l’Alliance, Undead pour la Horde. Undead a Dark Sacrifice pour le mana, alors que Troll n’apporte presque rien à un soigneur."
   - q: "Ce build est-il définitif ?"
-    a: "Non. Il utilise les talents du build bêta du 15 octobre pour le niveau 60. La bêta s’arrête au niveau 30, donc les valeurs peuvent encore changer avant ou après le lancement du 4 novembre."
+    a: "Non. Il utilise les talents du build bêta du 15 octobre pour le niveau 60. La bêta s’arrêtait au niveau 30, ces talents n’ont donc jamais été testés au niveau 60 et peuvent encore changer."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"

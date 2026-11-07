@@ -3,7 +3,7 @@ title: "Combat Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash builds to level 60"
 description: "The Combat Rogue in WoW Forever: Hack and Slash for every weapon type, a level 30 build and two level 60 builds (standard and daggers), Blade Flurry, Adrenaline Rush, Energy, poisons and races."
 short: "Combat Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Combat Rogue good in WoW Forever?"
@@ -172,7 +172,7 @@ Sap one monster out of a group, preferably a caster. Open with Cheap Shot, follo
 
 ## Stats and gear
 
-Stat priorities for level 60 follow after the launch. Until then:
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
 
 - **Agility**: 1 attack power per point, 1% critical strike chance per 29 Agility, 1% dodge per 14.5 Agility.
 - **Attack power**, which now also raises the damage of your poisons.

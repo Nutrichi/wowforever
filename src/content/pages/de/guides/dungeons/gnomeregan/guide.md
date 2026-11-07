@@ -3,7 +3,7 @@ title: "Gnomeregan"
 metaTitle: "Guide zu Gnomeregan für WoW Forever: Route, Trash und Bosse"
 description: "So spielst du Gnomeregan in WoW Forever: die Vorder- und Hintertür am Train Depot, der Weg hinein für die Horde, die Route über vier Ebenen und die fünf Bosse."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: de
 manual: true
 sources:
@@ -66,4 +66,4 @@ Der Endboss, im Tinkers' Court. Tank ihn in der Mitte des Raums. Knock Away schl
 ## Was noch nicht bekannt ist
 
 - **Die Dropchancen** der Beute der Bosse.
-- **Die Belohnungen der Quests** können sich vor dem Launch noch ändern.
+- **Die Belohnungen der Quests** stammen aus den Spieldateien und können sich mit einem Hotfix noch ändern.

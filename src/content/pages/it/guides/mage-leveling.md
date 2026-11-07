@@ -3,7 +3,7 @@ title: "Guida al leveling del Mage in WoW Forever"
 metaTitle: "WoW Forever: guida al leveling del Mage, Frost, Fire e Arcane, rotazione e consigli"
 description: "Come livellare un Mage in WoW Forever: perché Frost con Ice Lance è il più veloce, la rotazione di Frost, Fire e Arcane, i livelli chiave, le missioni di classe, le pergamene, il mana e la minaccia."
 short: "Leveling del Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quali professioni sono adatte a un Mage?"
     a: "Tailoring con Enchanting è la coppia classica. Cooking conviene a ogni classe in Forever, perché il cibo con bonus ora dà anche esperienza extra e ti serve per un accampamento."
   - q: "C'è già una build per il livello 60?"
-    a: "Non ancora. La beta si ferma al livello 30. La nostra build di leveling arriva al livello 35 e sarà completata appena saranno note le build per i livelli successivi."
+    a: "Non ancora. La beta si fermava al livello 30. La nostra build di leveling arriva al livello 35 e sarà completata appena saranno note le build per i livelli successivi."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/mage-leveling/"
@@ -34,7 +34,7 @@ Il Mage livella in fretta e da solo in WoW Forever, con cibo e acqua infiniti e 
 | Punti di forza | Danni, controllo, cibo e acqua gratis |
 | Punti deboli | Mana, minaccia nei dungeon, poca vita |
 | Talento per livello | [Build di leveling del Mage](/it/leveling/mage/) |
-| Build fino al livello 60 | Dopo il lancio del 4 novembre |
+| Build fino al livello 60 | Non ancora, la [build di leveling](/it/leveling/mage/) arriva al 35 |
 
 ## Con quale specializzazione livellare
 

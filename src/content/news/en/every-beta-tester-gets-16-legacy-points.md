@@ -24,6 +24,6 @@ Community manager Kaivax announced it on 1 October on the forums. Over the first
 
 ## What 16 points buy
 
-[Legacy points](/news/legacy-points-one-per-challenge/) come from challenges: a first level 25 on a class, a skill milestone in a tradeskill, a first clear of a dungeon. Each challenge is worth one point. With 16 points a tester can try several nodes in the Legacy tree right away.
+[Legacy points](/news/legacy-points-one-per-challenge/) come from challenges: a first level 25 on a class, a skill milestone in a profession, a first clear of a dungeon. Each challenge is worth one point. With 16 points a tester can try several nodes in the Legacy tree right away.
 
 Which nodes fit within 16 points can be checked in the [Legacy calculator](/talents/legacy/). The grant only applies to the beta. Whether characters at launch start with any points, Blizzard does not say.

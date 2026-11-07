@@ -3,7 +3,7 @@ title: "Guida al Demonology Warlock in WoW Forever"
 metaTitle: "WoW Forever Demonology Warlock: build di livello 30, Demonic Brand e demoni"
 description: "Il Demonology Warlock in WoW Forever: la build di livello 30 con Demonic Brand, Demonic Knowledge e Soul Link, la rotazione, la minaccia, i demoni, Life Tap, statistiche e razze."
 short: "Demonology Warlock"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Qual è la razza migliore per un Demonology Warlock?"
     a: "Human per l’Alleanza, per l’1% di probabilità di critico in più da Ruthless. Undead per l’Orda, per Touch of the Grave, Cannibalize e Will of the Forsaken. Le differenze sono piccole, quindi scegli la razza che ti piace."
   - q: "C’è già una build per il livello 60?"
-    a: "Non ancora. La beta si ferma al livello 30, e le build per il livello 60 arriveranno dopo il lancio del 4 novembre."
+    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/demonology-warlock/"

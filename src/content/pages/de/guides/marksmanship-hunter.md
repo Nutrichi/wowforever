@@ -3,7 +3,7 @@ title: "Marksmanship Hunter in WoW Forever: der Guide"
 metaTitle: "WoW Forever Marksmanship Hunter: Build für Level 60 und Rotation"
 description: "Der Marksmanship Hunter in WoW Forever: der Build 5/46/0 für Level 60 mit Lone Wolf und Sniper Shot, die Rotation, Mana mit Rapid Recuperation, Werte und Völker."
 short: "Marksmanship Hunter"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -137,7 +137,7 @@ Lone Wolf verlangt, ohne Begleiter zu spielen. In Schlachtzügen und Dungeons is
 
 ## Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
+Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
 
 - **Beweglichkeit**: 2 Fernkampfangriffskraft pro Punkt und kritische Trefferchance, etwa 1 % pro 53 Beweglichkeit auf Level 60.
 - **Trefferwertung**: Gegen einen Boss der Stufe 63 brauchst du 9 % mit 300 Waffenfertigkeit oder 6 % mit 305.

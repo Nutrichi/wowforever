@@ -3,7 +3,7 @@ title: "Gnomeregan"
 metaTitle: "Guía de Gnomeregan para WoW Forever: ruta, trash y jefes"
 description: "Cómo hacer Gnomeregan en WoW Forever: la puerta delantera y la trasera del Train Depot, la entrada para la Horde, la ruta por cuatro niveles y los cinco jefes."
 short: "Guía"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: es
 manual: true
 sources:
@@ -66,4 +66,4 @@ El jefe final, en el Tinkers' Court. Tanquéalo en el centro de la sala. Knock A
 ## Lo que aún no se sabe
 
 - **Las probabilidades de botín** de los jefes.
-- **Las recompensas de las misiones** aún pueden cambiar antes del lanzamiento.
+- **Las recompensas de las misiones** vienen de los archivos del juego y aún pueden cambiar con un hotfix.

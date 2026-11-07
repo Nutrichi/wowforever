@@ -1,9 +1,9 @@
 ---
 title: "Frost Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Frost Mage: Ice Lance-build, rotatie en Shatter"
-description: "De Frost Mage in WoW Forever: Ice Lance en Fingers of Frost, de build voor level 30, de rotatie, kiten, mana, Shatter, stats, gear, races en tradeskills."
+description: "De Frost Mage in WoW Forever: Ice Lance en Fingers of Frost, de build voor level 30, de rotatie, kiten, mana, Shatter, stats, gear, races en beroepen."
 short: "Frost Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -14,11 +14,11 @@ faq:
   - q: "Kan ik nog rank 1 Frostbolt gebruiken?"
     a: "Alleen voor de vertraging. In WoW Forever hebben lagere ranks een veel kleinere kans op effecten zoals Frostbite en Fingers of Frost, dus rank 1 helpt niet meer om procs uit te lokken."
   - q: "Wanneer krijg ik Ice Barrier?"
-    a: "Ice Barrier is het laatste talent van de Frost-boom en vraagt level 40, dus het zit niet in de beta. Tot dan steun je op bevriezen, Mana Shield en Blink."
+    a: "Ice Barrier is het laatste talent van de Frost-boom en vraagt level 40, dus het zat niet in de beta. Tot level 40 steun je op bevriezen, Mana Shield en Blink."
   - q: "Welk ras is het beste voor een Frost Mage?"
     a: "Orc bij de Horde, dankzij 10% spell power van Blood Fury, met Troll en Berserking vlak daarachter. Bij de Alliance Human met 1% critical strike-kans of Skyborne met 2% Haste. Kies het ras dat je mooi vindt als je niet op elke procent jaagt."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de launch op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/frost-mage/"
@@ -137,7 +137,7 @@ Je Health blijft laag. Tot <a class="wf-wh wf-spell" href="https://www.wowhead.c
 
 ## Stats en gear
 
-De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Frost Mage:
+De precieze volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Frost Mage:
 
 - **Spell damage en Frost spell damage** eerst. Frost spell damage helpt alleen Frost-spells.
 - **Haste** maakt elke cast sneller, dus meer schade en meer procs. Op lage levels is het zeldzaam.
@@ -152,7 +152,7 @@ De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Frost
 
 **Wands.** De nieuwe wands van Enchanting dragen je: <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11287"><img class="wf-wh__icon" src="/wh/inv_staff_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Magic Wand</a> en <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11288"><img class="wf-wh__icon" src="/wh/inv_staff_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Magic Wand</a> in het begin, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249232"><img class="wf-wh__icon" src="/wh/inv_wand_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Eternal Wand</a> en <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249237"><img class="wf-wh__icon" src="/wh/inv_wand_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Eternal Wand</a> later. <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=279246"><img class="wf-wh__icon" src="/wh/inv_torch_lit.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Torch of Light</a> wacht op level 60. Kijk naar spell damage en schade per seconde van de wand.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|
@@ -165,4 +165,4 @@ De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Frost
 
 Orc is de sterkste keuze in PvE, Troll de tweede. Gnome is de zwakste voor Frost, tenzij je Engineering neemt. Niets ervan is sterk genoeg om een ras over te slaan dat je mooier vindt.
 
-**Tradeskills.** Tailoring maakt cloth-sets met spell damage en Intellect, en gaat samen met Enchanting voor je eigen wands en enchants. Engineering is de beste partner voor Tailoring als je de meeste schade wil. Herbalism voedt Alchemy, dat elixirs, potions en flasks maakt.
+**Beroepen.** Tailoring maakt cloth-sets met spell damage en Intellect, en gaat samen met Enchanting voor je eigen wands en enchants. Engineering is de beste partner voor Tailoring als je de meeste schade wil. Herbalism voedt Alchemy, dat elixirs, potions en flasks maakt.

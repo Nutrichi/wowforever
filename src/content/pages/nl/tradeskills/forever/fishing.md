@@ -16,7 +16,7 @@ sources:
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
 manual: true
 ---
-Fishing is een secundaire tradeskill, dus het kost je nooit een van je twee hoofdplaatsen. Aan het vissen zelf verandert weinig in WoW Forever, maar de vis telt meer: Cooking maakt er eten van met een buff en 5% extra experience.
+Fishing is een secundair beroep, dus het kost je nooit een van je twee hoofdplaatsen. Aan het vissen zelf verandert weinig in WoW Forever, maar de vis telt meer: Cooking maakt er eten van met een buff en 5% extra experience.
 
 <div class="wf-gallery">
   <figure><img src="/guides/camping/fish-bowl.jpg" alt="De Fish Bowl, een metalen kom met water bij een kampplaats" width="480" height="360" loading="lazy"><figcaption><strong>Fish Bowl</strong> 8% alle stats bij een kamp</figcaption></figure>

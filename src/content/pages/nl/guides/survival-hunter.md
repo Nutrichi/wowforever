@@ -3,7 +3,7 @@ title: "Survival Hunter in WoW Forever: de gids"
 metaTitle: "WoW Forever Survival Hunter: build voor level 60 en melee weaving"
 description: "De Survival Hunter in WoW Forever: de build 5/13/33 voor level 60 met Lone Wolf en Strider Kick, melee weaving, de rotatie, mana met Resourcefulness, stats en races."
 short: "Survival Hunter"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -158,7 +158,7 @@ De build neemt Lone Wolf en speelt zonder pet. In dungeons en raids is dat de me
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen na de launch. Tot dan:
+Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
 
 - **Agility**: 2 ranged en 1 melee attack power per punt, en critical strike chance, ongeveer 1% per 53 Agility op level 60. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a> geeft er 10% bij.
 - **Hit**: tegen een boss van level 63 heb je 9% nodig met 300 weapon skill, of 6% met 305. Dat geldt voor ranged-aanvallen en tweehandige melee-wapens. Surefooted geeft al 3%.
@@ -174,7 +174,7 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 **Wapens.** Survival heeft een goed ranged-wapen en een goed melee-wapen nodig. Kijk naar schade per seconde en naar snelheid, want allebei veranderen ze de timing van je rotatie.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|

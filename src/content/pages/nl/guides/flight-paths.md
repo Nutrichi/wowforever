@@ -3,7 +3,7 @@ title: "Vluchtroutes: elke flight master in WoW Forever"
 metaTitle: "Vluchtroutes in WoW Forever: elke flight master, route en boot"
 description: "Elk vluchtpunt van WoW Forever voor de Alliance en de Horde: de flight master, de coördinaten en waar je naartoe vliegt, plus de vijf nieuwe vluchtpunten en elke boot en zeppelin."
 short: "Flight Paths"
-updated: 2026-10-07
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -190,6 +190,6 @@ Zes van deze routes zijn nieuw. Stormwind Harbor krijgt een boot naar Auberdine,
 
 - **Powderfuse Port heeft één route**, naar Farholde Keep. Het vluchtpunt draagt in de bestanden geen factie, maar zijn enige route gaat naar een burcht van de Alliance en het rijdier is een gryphon. Een flight master is er nog niet bekend.
 - **Een zesde nieuw vluchtpunt wacht**: Tidegear Coast in Dun Morogh staat in de bestanden, zonder een enkele route. Waar het voor dient, is niet bekend.
-- **De routes kunnen nog veranderen** voor de launch op 4 november.
+- **De routes kunnen nog veranderen** met een hotfix of een patch.
 - **Zephras Isle heeft geen vaste plek** op de wereldkaart in de bestanden. De kaart zet Valanaar op de eilandengroep ten noorden van de Maelstrom.
 - **Hoe lang een vlucht duurt**, staat niet in de bestanden. De kaart toont waar een route loopt, niet hoe lang hij duurt.

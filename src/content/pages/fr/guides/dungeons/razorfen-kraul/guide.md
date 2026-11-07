@@ -3,7 +3,7 @@ title: "Razorfen Kraul"
 metaTitle: "Guide de Razorfen Kraul pour WoW Forever : parcours, trash et boss"
 description: "Comment faire Razorfen Kraul dans WoW Forever : l’accès au sud de The Barrens, le parcours dans le dédale de ronces, les lanceurs de sorts quilboar à surveiller et les six boss."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: fr
 manual: true
 sources:
@@ -82,4 +82,4 @@ Le Blind Hunter de la grotte aux chauves-souris lance Sonic Burst, un silence su
 ## Ce qu’on ne sait pas encore
 
 - **Les taux de butin** des boss.
-- **Les récompenses des quêtes** peuvent encore changer avant le lancement.
+- **Les récompenses des quêtes** viennent des fichiers du jeu et peuvent encore changer avec un hotfix.

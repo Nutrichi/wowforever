@@ -3,7 +3,7 @@ title: "Subtlety Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush- en bleedbuilds tot 60"
 description: "De Subtlety Rogue in WoW Forever: een Ambush-build en een bleedbuild, allebei met Death Mark, voor level 30 en level 60, met rotaties, Energy, Shank, poisons en races."
 short: "Subtlety Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -188,7 +188,7 @@ Rogues slaan hard maar vallen snel. Beoordeel elke pull: Sap één monster uit e
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen na de launch. Tot dan:
+Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
 
 - **Agility**: 1 attack power per punt, 1% critical strike chance per 29 Agility, 1% dodge per 14,5 Agility.
 - **Attack power**, die nu ook de schade van je poisons verhoogt.
@@ -201,7 +201,7 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 **Wapens.** Wapens zijn nu op elk level veel sterker. Elk type werkt, maar je abilities schalen het best met dolken, en de Ambush-build heeft ze nodig. Goede voorbeelden zijn Meteor Shard, Toxic Revenger, Assassin's Blade en Torturing Poker.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|

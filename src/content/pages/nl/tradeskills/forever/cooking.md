@@ -17,7 +17,7 @@ sources:
     url: "https://www.wowhead.com/forever/guide/professions/cooking/overview-leveling"
 manual: true
 ---
-Cooking is een secundaire tradeskill, dus het kost je nooit een van je twee hoofdplaatsen. In WoW Forever telt het vanaf level 1: de meeste gerechten geven extra experience, en elk kamp begint met een kampvuur van Cooking.
+Cooking is een secundair beroep, dus het kost je nooit een van je twee hoofdplaatsen. In WoW Forever telt het vanaf level 1: de meeste gerechten geven extra experience, en elk kamp begint met een kampvuur van Cooking.
 
 ![Een speler kookt bij een klein kampvuur in een droge vallei bij valavond, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-cooking-at-a-campfire.jpg)
 
@@ -200,8 +200,8 @@ De Horde koopt ze bij <a class="wf-wh wf-plain" href="https://www.wowhead.com/fo
 
 | Perk | Effect |
 |---|---|
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Meer kans op een skillpunt in elke tradeskill |
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Een keer per dag een gratis skillpunt in je laagste tradeskill |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Meer kans op een skillpunt in elk beroep |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Een keer per dag een gratis skillpunt in je laagste beroep |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225457"><img class="wf-wh__icon" src="/wh/achievement_profession_chefhat.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Chef</a> | Kans om er een extra te koken |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225499"><img class="wf-wh__icon" src="/wh/inv_misc_food_64.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gourmand</a> | Voedselbuffs duren langer |
 

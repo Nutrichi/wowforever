@@ -3,7 +3,7 @@ title: "Elemental Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Elemental Shaman: build, Lightning Overload, totems, mana"
 description: "The Elemental Shaman in WoW Forever: the level 30 build and its Talented version, Call of Thunder and Lightning Overload, the rotation, totems, mana, stats and races."
 short: "Elemental Shaman"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Elemental Shaman good in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which race is best for an Elemental Shaman?"
     a: "Dwarf is the only Alliance Shaman. On the Horde, Orc is the strongest choice thanks to Blood Fury, and Windshaper Skyborne gets 2% haste."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stopped at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
@@ -132,7 +132,7 @@ Mouseover casting is built into Forever. Turn it on in Options, Combat: your spe
 
 ## Stats and gear
 
-Stat priorities for level 60 follow after the launch. Until then:
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
 
 - **Spell damage**: your main damage stat, and not on every piece of gear.
 - **Critical strike chance**: every critical hit is worth more mana, and Elemental Fury makes them hit harder.

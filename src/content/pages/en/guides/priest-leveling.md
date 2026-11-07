@@ -3,7 +3,7 @@ title: "Priest leveling guide for WoW Forever"
 metaTitle: "WoW Forever Priest leveling guide: Discipline, Holy and Shadow builds to 30"
 description: "How to level a Priest in WoW Forever: three level 30 builds for Discipline, Holy and Shadow, the rotation, key levels, racial spells, wands, professions, mana and healing."
 short: "Priest leveling"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is the best spec to level a Priest in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which professions suit a Priest?"
     a: "Tailoring with Enchanting is the classic pair: soulbound cloth gear, wands and spell power oils. Cooking is worth it for every class in Forever, because buff food gives extra experience and you need it for a camp."
   - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: the beta stops at level 30. Our Priest level build gives a talent for every level to 60, with a respec at 30 and 40."
+    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Priest level build gives a talent for every level to 60, with a respec at 30 and 40."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
@@ -42,7 +42,7 @@ The first 20 to 30 levels barely differ. You start with <a class="wf-wh wf-spell
 
 **Discipline** keeps that calm style and adds Penance at 30, for damage or a quick heal. **Shadow** kills faster with Mind Flay and Mind Blast, but only shines from about level 28, unless you have decent spell power. **Holy** is for players who spend a lot of their leveling time healing dungeons. Leveling alone as Holy is slow.
 
-The builds below are made for the beta, which stops at level 30. Builds for level 60 follow after the launch.
+The builds below were made on the beta, which stopped at level 30. Builds for level 60 follow once we can test them in the live game.
 
 ## Levels 1 to 10
 

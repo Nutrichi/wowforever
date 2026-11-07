@@ -3,7 +3,7 @@ title: "Razorfen Kraul"
 metaTitle: "Razorfen Kraul guide for WoW Forever: route, trash and bosses"
 description: "How to run Razorfen Kraul in WoW Forever: the way in at the south of The Barrens, the route through the thorny maze, the quilboar casters to watch and all six bosses."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: en
 sources:
   - name: "Wowhead, the dungeon guide"
@@ -83,4 +83,4 @@ The Blind Hunter in the bat cave casts Sonic Burst, a silence on everyone nearby
 ## What is not known yet
 
 - **The drop rates** of the boss loot.
-- **The quest rewards** may still change before the launch.
+- **The quest rewards** come from the game files and can still change with a hotfix.

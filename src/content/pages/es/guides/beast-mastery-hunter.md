@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter en WoW Forever: la guía"
 metaTitle: "WoW Forever Beast Mastery Hunter: build de nivel 60 y rotación"
 description: "El Beast Mastery Hunter en WoW Forever: la build 31/20/0 para el nivel 60, Summon Hawk y Bestial Wrath, la rotación a un objetivo y en área, las mascotas, el maná, los stats y las razas."
 short: "Beast Mastery Hunter"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -143,7 +143,7 @@ Tu mascota es buena parte de tu daño, así que mantenla viva y en el objetivo. 
 
 ## Stats y equipo
 
-Las prioridades de stats para el nivel 60 llegarán tras el lanzamiento. Hasta entonces:
+Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
 
 - **Agilidad**: 2 de poder de ataque a distancia por punto y crítico, más o menos un 1% por cada 53 de Agilidad en el nivel 60. Tu mascota recibe el 100% de tu crítico y el 10% de tu poder de ataque.
 - **Índice de golpe**: contra un jefe de nivel 63 necesitas un 9% con 300 de habilidad con armas, o un 6% con 305.

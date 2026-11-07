@@ -3,7 +3,7 @@ title: "Protection-Warrior-Guide für WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: Tank-Build, Bedrohung und Rage"
 description: "Der Protection Warrior in WoW Forever: der Tank-Build für Level 30 mit Master of Defense, Defiance und Vanguard, die Bedrohungsrotation, Schwächungen, Rage, Werte und Völker."
 short: "Protection Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welches Volk ist das beste für einen Protection Warrior?"
     a: "Night Elf oder Dwarf für die Allianz, für zusätzliches Ausweichen oder Stoneform. Tauren für die Horde, für die meiste Gesundheit, oder Orc für Blood Fury und die Abklingzeit gegen Magieschaden. Jedes Volk funktioniert."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endet bei Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/protection-warrior/"
@@ -122,7 +122,7 @@ Bleib am Boss. Eröffne mit Charge für Rage und einen sofortigen Start, dank Va
 
 ## Werte und Ausrüstung
 
-Die genaue Reihenfolge auf Level 60 folgt nach dem Start. Diese Werte helfen einem Protection Warrior:
+Die genaue Reihenfolge auf Level 60 folgt, sobald wir Level 60 im Live-Spiel testen können. Diese Werte helfen einem Protection Warrior:
 
 - **Trefferchance.** Ein Fehlschlag macht nichts und gibt keine Rage.
 - **Ausdauer, Rüstung und Vermeidung.** Mehr Gesundheit ist für einen Tank immer besser. Finde ein Gleichgewicht zwischen Verteidigung und genug Angriff, um die Bedrohung zu halten.

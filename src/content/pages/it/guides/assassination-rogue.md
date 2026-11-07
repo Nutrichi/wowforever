@@ -3,7 +3,7 @@ title: "Guida all’Assassination Rogue in WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: build con veleni, Venom e rotazione"
 description: "L’Assassination Rogue in WoW Forever: Venom e Shank, Mutilate dal livello 40, due build di livello 30 in solitaria e con Improved Expose Armor, la rotazione e i veleni."
 short: "Assassination Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Qual è la razza migliore per un Assassination Rogue?"
     a: "Human per l’Alleanza, per l’1% di probabilità di critico in più, che ora conta anche per i veleni. Orc per l’Orda, per il 10% di potere d’attacco in più con Blood Fury."
   - q: "C’è già una build di livello 60?"
-    a: "Non ancora. La beta si ferma al livello 30, e le build di livello 60 arriveranno dopo il lancio del 4 novembre."
+    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
@@ -169,7 +169,7 @@ Il Rogue è fragile ma colpisce forte, quindi il modo in cui inizi uno scontro d
 
 ## Stats ed equipaggiamento
 
-L’ordine esatto al livello 60 arriverà dopo il lancio. Queste stats aiutano un Assassination Rogue:
+L’ordine esatto al livello 60 arriverà quando potremo provare il livello 60 nel gioco live. Queste stats aiutano un Assassination Rogue:
 
 - **Agilità.** La tua stat principale: 1 di potere d’attacco per punto, l’1% di critico ogni 29 punti e l’1% di schivata ogni 14,5 punti. Accumulane il più possibile.
 - **Potere d’attacco.** Più danni dell’arma e delle abilità, e in Forever anche più danni da veleno.

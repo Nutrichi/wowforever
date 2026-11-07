@@ -22,7 +22,7 @@ faq:
   - q: "¿Cuál es la mejor raza para un Enhancement Shaman?"
     a: "Dwarf es el único Shaman de la Alliance. En la Horde, Orc es la opción más fuerte gracias a Blood Fury, y Windshaper Skyborne obtiene un 2% de haste."
   - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. La beta se detuvo en el nivel 30, y las builds de nivel 60 llegarán tras el lanzamiento del 4 de noviembre."
+    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
@@ -150,7 +150,7 @@ Tanquear funciona mientras subes de nivel, con inconvenientes: sin taunt real, s
 
 > **Actualización del 7 de noviembre:** con los hotfixes del 10 de noviembre, la Fuerza pasa a ser la mejor stat de Enhancement, y Blizzard aconseja guardar equipo con Fuerza y poder de ataque mientras subes de nivel. Los consejos sobre Intelecto y poder con hechizos de abajo cambiarán entonces, más en [nuestra noticia](/es/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
 
-Las prioridades de stats para el nivel 60 llegarán tras el lanzamiento. Hasta entonces:
+Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
 
 - **Daño de arma**: tu principal fuente de escalado, con Stormstrike y Windfury.
 - **Hit**: menos importante al principio, alta prioridad cerca del nivel 60. Una habilidad fallada desperdicia daño y maná.

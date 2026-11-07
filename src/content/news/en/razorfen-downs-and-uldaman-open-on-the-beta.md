@@ -26,7 +26,7 @@ Monsters and objects in Hillsbrad Foothills, Ashenvale, the Wetlands, Duskwood a
 
 Honor costs for PvP gear and upgrade tokens go up by about 50% for most items. The Honor cap rises from 15,000 to 25,000 to make room for the new prices.
 
-## Tradeskills and items
+## Professions and items
 
 - **Skinning**: a creature can be skinned only once again before it disappears.
 - **Mining**: fewer Poor Copper Veins in the starting areas.

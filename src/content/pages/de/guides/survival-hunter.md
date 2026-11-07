@@ -3,7 +3,7 @@ title: "Survival Hunter in WoW Forever: der Guide"
 metaTitle: "WoW Forever Survival Hunter: Build für Level 60 und Melee Weaving"
 description: "Der Survival Hunter in WoW Forever: der Build 5/13/33 für Level 60 mit Lone Wolf und Strider Kick, Melee Weaving, die Rotation, Mana mit Resourcefulness, Werte und Völker."
 short: "Survival Hunter"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -158,7 +158,7 @@ Der Build nimmt Lone Wolf und spielt ohne Begleiter. In Dungeons und Raids ist d
 
 ## Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
+Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
 
 - **Agility**: 2 Fernkampf- und 1 Nahkampfangriffskraft pro Punkt und kritische Trefferchance, etwa 1 % pro 53 Agility auf Level 60. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a> gibt 10 % dazu.
 - **Hit**: Gegen einen Boss auf Level 63 brauchst du 9 % mit 300 Waffenfertigkeit oder 6 % mit 305. Das gilt für Fernkampfangriffe und Zweihand-Nahkampfwaffen. Surefooted gibt schon 3 %.

@@ -3,7 +3,7 @@ title: "Frost Mage guide for WoW Forever"
 metaTitle: "WoW Forever Frost Mage: Ice Lance build, rotation and Shatter"
 description: "The Frost Mage in WoW Forever: Ice Lance and Fingers of Frost, the build for level 30, the rotation, kiting, mana, Shatter, stats, gear, races and professions."
 short: "Frost Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Frost Mage good in WoW Forever?"
@@ -13,11 +13,11 @@ faq:
   - q: "Can I still use rank 1 Frostbolt?"
     a: "Only for the slow. In WoW Forever, lower ranks have a much smaller chance to trigger effects such as Frostbite and Fingers of Frost, so rank 1 no longer helps you fish for procs."
   - q: "When do I get Ice Barrier?"
-    a: "Ice Barrier is the last talent of the Frost tree and needs level 40, so it is not on the beta. Until then you rely on freezes, Mana Shield and Blink."
+    a: "Ice Barrier is the last talent of the Frost tree and needs level 40, so it was not on the beta. Until level 40 you rely on freezes, Mana Shield and Blink."
   - q: "Which race is best for a Frost Mage?"
     a: "Orc for the Horde, thanks to 10% spell power from Blood Fury, with Troll and Berserking close behind. For the Alliance, Human with 1% critical strike chance or Skyborne with 2% Haste. Pick the race you like if you do not chase every percent."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/frost-mage/"
@@ -136,7 +136,7 @@ Your health stays low. Until <a class="wf-wh wf-spell" href="https://www.wowhead
 
 ## Stats and gear
 
-The exact priority at level 60 follows after the launch. These stats help a Frost Mage:
+The exact priority at level 60 follows once we can test level 60 in the live game. These stats help a Frost Mage:
 
 - **Spell damage and Frost spell damage** first. Frost spell damage only helps Frost spells.
 - **Haste** makes every cast faster, which means more damage and more procs. It is rare at low levels.

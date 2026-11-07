@@ -27,7 +27,7 @@ Los monstruos y objetos de Hillsbrad Foothills, Ashenvale, los Wetlands, Duskwoo
 
 El coste en Honor del equipo JcJ y de las fichas de mejora sube alrededor de un 50 % en la mayoría de los objetos. El tope de Honor pasa de 15 000 a 25 000 para dejar sitio a los nuevos precios.
 
-## Tradeskills y objetos
+## Profesiones y objetos
 
 - **Skinning**: una criatura vuelve a poder desollarse solo una vez antes de desaparecer.
 - **Mining**: menos Poor Copper Veins en las zonas iniciales.

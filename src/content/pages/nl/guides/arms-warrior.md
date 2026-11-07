@@ -3,7 +3,7 @@ title: "Arms Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Arms Warrior: build voor level 30, Rend, Overpower en Rage"
 description: "De Arms Warrior in WoW Forever: de build voor level 30 met Bloodthrill, Improved Slam en Sweeping Strikes, de rotatie, Rend en Overpower, Rage, stats en races."
 short: "Arms Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welk ras is het beste voor een Arms Warrior?"
     a: "Human voor de Alliance, voor 1% meer critical strike chance, of Dwarf voor 1% hit. Orc voor de Horde, voor Blood Fury. Elk ras kan Warrior spelen, en elke keuze werkt."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de lancering op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
@@ -123,7 +123,7 @@ Blijf op de boss. Open buiten gevecht altijd met Charge, voor Rage en een direct
 
 ## Stats en gear
 
-De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Arms Warrior:
+De exacte volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Arms Warrior:
 
 - **Strength en attack power.** Je hoofdstat: 1 Strength geeft 2 attack power, dus Strength is per punt meer waard.
 - **Hit chance.** Een misser doet niets en geeft geen Rage.
@@ -133,7 +133,7 @@ De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Arms
 
 **Wapens.** Zoek trage, hard slaande tweehandige wapens. Het meeste van je schade komt van instant aanvallen zoals Mortal Strike, Overpower en Slam, die met de wapenschade schalen. Een afstandswapen telt alleen voor zijn stats.
 
-## Races en tradeskills
+## Races en beroepen
 
 Elk ras kan Warrior spelen. Elke keuze werkt, maar sommige zijn sterker.
 
@@ -150,4 +150,4 @@ Elk ras kan Warrior spelen. Elke keuze werkt, maar sommige zijn sterker.
 | Horde | Tauren | War Stomp, 5% meer health en Plainsrunning voor snelheid zolang je blijft bewegen |
 | Horde | Windshaper Skyborne | Haste en een snelheids-cooldown die van pas komt |
 
-**Tradeskills.** Blacksmithing maakt een deel van de beste Mail- en Plate-gear, veel ervan alleen voor Blacksmiths. Engineering heeft handige gadgets voor elke spec.
+**Beroepen.** Blacksmithing maakt een deel van de beste Mail- en Plate-gear, veel ervan alleen voor Blacksmiths. Engineering heeft handige gadgets voor elke spec.

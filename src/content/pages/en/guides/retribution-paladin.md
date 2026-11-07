@@ -3,7 +3,7 @@ title: "Retribution Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Retribution Paladin: build, rotation and seals"
 description: "The Retribution Paladin in WoW Forever: the level 30 build and its Talented version, the rotation with Seal of Command, Judgements, blessings, stats and races."
 short: "Retribution Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Retribution Paladin good in WoW Forever?"
@@ -15,7 +15,7 @@ faq:
   - q: "Which race is best for a Retribution Paladin?"
     a: "Human for the Alliance, for the extra critical strike chance. Dwarf has Stoneform, a strong defensive cooldown. Horde Paladins are always Undead."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stopped at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/retribution-paladin/"
@@ -79,7 +79,7 @@ The beta stopped at level 30, so the build uses 21 points. Talented from the Leg
 | **Champion of the Light** | Spell damage equal to up to 30% of your Intellect |
 | **Unsealed Wrath** | Melee attacks store your Seal, up to 3 times. A hit with another Seal uses the stacks for extra chances |
 
-Champion of the Light and Unsealed Wrath sit in rows 6 and 7, out of reach at level 30. They are the reason to keep going down the tree after the launch.
+Champion of the Light and Unsealed Wrath sit in rows 6 and 7, out of reach at level 30. They are the reason to keep going down the tree after level 30.
 
 ## Rotation
 
@@ -114,7 +114,7 @@ Before a fight, give everyone the right blessing, and everyone except the tank a
 
 ## Stats and gear
 
-Stat priorities for level 60 follow after the launch. Until then, these are the stats that count:
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then, these are the stats that count:
 
 - **Hit**, so your attacks and spells land.
 - **Critical strike chance**, which works with Conviction and Vengeance.

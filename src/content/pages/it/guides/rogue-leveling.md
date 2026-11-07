@@ -3,7 +3,7 @@ title: "Livellare un Rogue in WoW Forever: la guida"
 metaTitle: "Leveling del Rogue in WoW Forever: build per ogni spec al 30"
 description: "Come livellare un Rogue in WoW Forever: quattro build di livello 30 per Assassination, Combat e Subtlety, la rotazione, i livelli chiave, le missioni dei veleni e le armi."
 short: "Leveling Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quali professioni sono adatte a un Rogue?"
     a: "Skinning con Leatherworking è la coppia naturale: uccidi molte bestie, e Forever ha nuove ricette di cuoio come Dark Leather Boots e Brawler's Leather Belt. Cooking conviene a ogni classe, perché il cibo con buff dà esperienza in più e serve per un accampamento."
   - q: "Esiste già una build per il livello 60?"
-    a: "Non in questa guida: la beta si ferma al livello 30. La nostra build di leveling del Rogue dà un talento per ogni livello fino al 60."
+    a: "Non in questa guida: le sue build arrivano al livello 30, dove finiva la beta. La nostra build di leveling del Rogue dà un talento per ogni livello fino al 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
@@ -37,13 +37,13 @@ Il Rogue non è mai stato la classe più facile da livellare, ma WoW Forever aiu
 | Punti deboli | Poca vita, dipende dall'equipaggiamento, poca utilità |
 | Talento per livello | [Build di leveling del Rogue](/it/leveling/rogue/) |
 | Guide per spec | [Assassination Rogue](/it/guides/assassination-rogue/), [Combat Rogue](/it/guides/combat-rogue/), [Subtlety Rogue](/it/guides/subtlety-rogue/) |
-| Build fino al livello 60 | Dopo il lancio del 4 novembre |
+| Build fino al livello 60 | Non ancora, la [build di leveling](/it/leveling/rogue/) arriva al 35 |
 
 ## Con quale spec livellare
 
 **Combat** è l'inizio più indulgente. Deflection e Riposte ti tengono in vita, e passi da un mostro all'altro senza pause. Grazie a Hack and Slash, Combat può anche usare ogni tipo di arma. **Subtlety con Ambush** apre da Stealth con un enorme colpo critico e uccide in fretta, ma è più debole nei dungeon. **Subtlety con sanguinamenti** punta su Garrote, Hemorrhage e Rupture. **Assassination** diventa forte solo quando arriva Mutilate al livello 40, quindi non è una build per iniziare.
 
-Le build qui sotto sono fatte per la beta, che si ferma al livello 30. Ogni build ha una versione con cinque punti in più per Talented del sistema Legacy. Il calcolatore di talenti mostra queste versioni al livello 35, perché conta ogni punto come un livello. Le build per il livello 60 arriveranno dopo il lancio.
+Le build qui sotto sono state fatte sulla beta, che si fermava al livello 30. Ogni build ha una versione con cinque punti in più per Talented del sistema Legacy. Il calcolatore di talenti mostra queste versioni al livello 35, perché conta ogni punto come un livello. Le build per il livello 60 arriveranno quando potremo provarle nel gioco live.
 
 ## Livelli da 1 a 10
 
@@ -213,7 +213,7 @@ Al livello 20 una catena di missioni di classe ti insegna i Poisons.
 | 4 | <a href="https://www.wowhead.com/forever/quest=2608">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2479">Hinott's Assistance</a> |
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
-Altre missioni di classe con oggetti in ricompensa arriveranno al lancio.
+Altre missioni di classe con oggetti in ricompensa sono attese oltre il livello 30, che la beta non raggiungeva.
 
 Ogni passo delle due catene, con il punto debole di ogni nemico tosto, è nella [guida ai Poisons](/it/guides/poisons/).
 

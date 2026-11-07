@@ -1,6 +1,6 @@
 ---
 title: "Kampbuffs stapelen niet met classbuffs"
-description: "Blizzard legt Camping in WoW Forever uit, met de cijfers van elke tradeskill. Elke kampbuff is een variant van een classbuff, van Power Word: Fortitude tot Moonkin Aura."
+description: "Blizzard legt Camping in WoW Forever uit, met de cijfers van elk beroep. Elke kampbuff is een variant van een classbuff, van Power Word: Fortitude tot Moonkin Aura."
 date: 2026-10-21T19:40:00+02:00
 category: forever
 lang: nl
@@ -13,19 +13,19 @@ featured: false
 draft: false
 manual: true
 ---
-Elke kampbuff in World of Warcraft: Forever is een variant van een classbuff en stapelt er niet mee. Blizzard legt Camping uit in een nieuwe blogpost, met de cijfers van elke tradeskill. Een kampvuur van Cooking draagt tot drie objecten van andere spelers.
+Elke kampbuff in World of Warcraft: Forever is een variant van een classbuff en stapelt er niet mee. Blizzard legt Camping uit in een nieuwe blogpost, met de cijfers van elk beroep. Een kampvuur van Cooking draagt tot drie objecten van andere spelers.
 
 ## Hoe een kamp werkt
 
-Een kok zet een <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229737"><img class="wf-wh__icon" src="/wh/inv_camelot_camping_welcomingcampfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Basic Campfire</a> neer. Spelers in de buurt kunnen elk één kampobject van hun tradeskill toevoegen, tot drie in totaal. Wie minstens 1 minuut bij het kamp zit of craft, krijgt de voordelen van de andere objecten.
+Een kok zet een <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229737"><img class="wf-wh__icon" src="/wh/inv_camelot_camping_welcomingcampfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Basic Campfire</a> neer. Spelers in de buurt kunnen elk één kampobject van hun beroep toevoegen, tot drie in totaal. Wie minstens 1 minuut bij het kamp zit of craft, krijgt de voordelen van de andere objecten.
 
-Elk kampobject heeft een kampvuur in de buurt nodig, en ze delen allemaal een cooldown van 1 uur. Koks leren later grotere kampvuren voor 5 of zelfs 10 objecten. Andere tradeskills ontgrendelen werkplaatsen zoals het Alchemy Laboratory en het Tanning Rack.
+Elk kampobject heeft een kampvuur in de buurt nodig, en ze delen allemaal een cooldown van 1 uur. Koks leren later grotere kampvuren voor 5 of zelfs 10 objecten. Andere beroepen ontgrendelen werkplaatsen zoals het Alchemy Laboratory en het Tanning Rack.
 
 Een quest vroeg in het spel stelt het systeem voor. Vanaf skill 20 komen de eerste kampobjecten uit quests in de startzones of van een trainer. Objecten die skill 140 of meer vragen, vallen in dungeons en raids.
 
-## Wat elke tradeskill geeft
+## Wat elk beroep geeft
 
-| Tradeskill | Object | Buff | Stapelt niet met |
+| Beroep | Object | Buff | Stapelt niet met |
 |---|---|---|---|
 | First Aid | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1230117"><img class="wf-wh__icon" src="/wh/inv_misc_bandage_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">First Aid Kit</a> | 3 tot 56 Stamina | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=10938"><img class="wf-wh__icon" src="/wh/spell_holy_wordfortitude.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Power Word: Fortitude</a> |
 | Fishing | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a> | 8% op alle stats | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20217"><img class="wf-wh__icon" src="/wh/spell_magic_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Kings</a> |

@@ -3,7 +3,7 @@ title: "Survival Hunter guide for WoW Forever"
 metaTitle: "WoW Forever Survival Hunter: level 60 build and melee weaving"
 description: "The Survival Hunter in WoW Forever: the 5/13/33 build for level 60 with Lone Wolf and Strider Kick, melee weaving, the rotation, mana with Resourcefulness, stats and races."
 short: "Survival Hunter"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Survival Hunter good in WoW Forever?"
@@ -157,7 +157,7 @@ The build takes Lone Wolf and plays without a pet. In dungeons and raids that is
 
 ## Stats and gear
 
-Stat priorities for level 60 follow after the launch. Until then:
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
 
 - **Agility**: 2 ranged and 1 melee attack power per point, and critical strike chance, about 1% per 53 Agility at level 60. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a> adds 10%.
 - **Hit**: against a level 63 boss you need 9% with 300 weapon skill, or 6% with 305. That goes for ranged attacks and two-handed melee weapons. Surefooted already gives 3%.

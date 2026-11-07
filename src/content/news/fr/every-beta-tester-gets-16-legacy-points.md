@@ -25,6 +25,6 @@ Le community manager Kaivax l’a annoncé le 1er octobre sur les forums. Pendan
 
 ## Ce que permettent 16 points
 
-[Les points Legacy](/fr/news/legacy-points-one-per-challenge/) viennent des défis : un premier niveau 25 avec une classe, un palier dans une tradeskill, un premier clear d’un donjon. Chaque défi vaut un point. Avec 16 points, un testeur peut essayer tout de suite plusieurs nœuds de l’arbre Legacy.
+[Les points Legacy](/fr/news/legacy-points-one-per-challenge/) viennent des défis : un premier niveau 25 avec une classe, un palier dans un métier, un premier clear d’un donjon. Chaque défi vaut un point. Avec 16 points, un testeur peut essayer tout de suite plusieurs nœuds de l’arbre Legacy.
 
 Les nœuds qui tiennent dans 16 points se vérifient dans le [calculateur Legacy](/fr/talents/legacy/). Les points ne valent que pour la bêta. Si les personnages commenceront avec des points au lancement, Blizzard ne le dit pas.

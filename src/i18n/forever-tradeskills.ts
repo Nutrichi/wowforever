@@ -37,12 +37,12 @@ export const foreverPerks: Record<string, Words> = {
     de: 'Ringverzauberungen, Splitter in eine höhere Stufe umwandeln und Stäbe herstellen.',
   },
   engineering: {
-    en: 'Still one of the strongest tradeskills for combat, with more gadgets, bombs and trinkets, and a Goblin or Gnomish specialization.',
-    nl: 'Nog altijd een van de sterkste tradeskills voor gevechten, met meer gadgets, bommen en trinkets, en een specialisatie Goblin of Gnomish.',
-    fr: 'Toujours l’un des tradeskills les plus forts au combat, avec plus de gadgets, de bombes et de bijoux, et une spécialisation Goblin ou Gnomish.',
-    es: 'Sigue siendo uno de los tradeskills más fuertes en combate, con más artilugios, bombas y abalorios, y una especialización Goblin o Gnomish.',
-    it: 'Resta una delle tradeskill più forti in combattimento, con più gadget, bombe e monili, e una specializzazione Goblin o Gnomish.',
-    de: 'Weiterhin einer der stärksten Tradeskills im Kampf, mit mehr Gadgets, Bomben und Schmuckstücken und einer Spezialisierung Goblin oder Gnomish.',
+    en: 'Still one of the strongest professions for combat, with more gadgets, bombs and trinkets, and a Goblin or Gnomish specialization.',
+    nl: 'Nog altijd een van de sterkste beroepen voor gevechten, met meer gadgets, bommen en trinkets, en een specialisatie Goblin of Gnomish.',
+    fr: 'Toujours l’un des métiers les plus forts au combat, avec plus de gadgets, de bombes et de bijoux, et une spécialisation Goblin ou Gnomish.',
+    es: 'Sigue siendo una de las profesiones más fuertes en combate, con más artilugios, bombas y abalorios, y una especialización Goblin o Gnomish.',
+    it: 'Resta una delle professioni più forti in combattimento, con più gadget, bombe e monili, e una specializzazione Goblin o Gnomish.',
+    de: 'Weiterhin einer der stärksten Berufe im Kampf, mit mehr Gadgets, Bomben und Schmuckstücken und einer Spezialisierung Goblin oder Gnomish.',
   },
   herbalism: {
     en: 'Natural Talent: higher resistance to all schools of magic. Better odds on a rare lotus and more herbs per node.',
@@ -118,12 +118,12 @@ export const legacyPerks: LegacyPerk[] = [
   {
     name: 'Working Overtime',
     text: {
-      en: '+4% chance per rank to gain skill in any tradeskill.',
-      nl: '+4% kans per rank om skill te krijgen in elke tradeskill.',
-      fr: '+4 % de chances par rang de gagner du skill dans n’importe quel tradeskill.',
-      es: '+4 % de probabilidad por rango de ganar skill en cualquier tradeskill.',
-      it: '+4% di probabilità per grado di guadagnare skill in qualsiasi tradeskill.',
-      de: '+4 % Chance pro Rang, in jedem Tradeskill Skill zu gewinnen.',
+      en: '+4% chance per rank to gain skill in any profession.',
+      nl: '+4% kans per rank om skill te krijgen in elk beroep.',
+      fr: '+4 % de chances par rang de gagner du skill dans n’importe quel métier.',
+      es: '+4 % de probabilidad por rango de ganar skill en cualquier profesión.',
+      it: '+4% di probabilità per grado di guadagnare skill in qualsiasi professione.',
+      de: '+4 % Chance pro Rang, in jedem Beruf Skill zu gewinnen.',
     },
   },
   {
@@ -173,12 +173,12 @@ export const legacyPerks: LegacyPerk[] = [
   {
     name: 'Dedicated Study',
     text: {
-      en: 'Once every 23 hours, +1 skill in your lowest tradeskill; with everything at 300, 2 to 4 random Elemental Essences instead.',
-      nl: 'Eens per 23 uur +1 skill in je laagste tradeskill; staat alles op 300, dan 2 tot 4 willekeurige Elemental Essences.',
-      fr: 'Une fois toutes les 23 heures, +1 skill dans votre tradeskill le plus bas ; si tout est à 300, 2 à 4 Elemental Essences aléatoires à la place.',
-      es: 'Una vez cada 23 horas, +1 skill en tu tradeskill más bajo; con todo a 300, de 2 a 4 Elemental Essences al azar.',
-      it: 'Una volta ogni 23 ore, +1 skill nella tua tradeskill più bassa; con tutto a 300, da 2 a 4 Elemental Essences casuali.',
-      de: 'Einmal alle 23 Stunden +1 Skill im niedrigsten Tradeskill; steht alles auf 300, stattdessen 2 bis 4 zufällige Elemental Essences.',
+      en: 'Once every 23 hours, +1 skill in your lowest profession; with everything at 300, 2 to 4 random Elemental Essences instead.',
+      nl: 'Eens per 23 uur +1 skill in je laagste beroep; staat alles op 300, dan 2 tot 4 willekeurige Elemental Essences.',
+      fr: 'Une fois toutes les 23 heures, +1 skill dans votre métier le plus bas ; si tout est à 300, 2 à 4 Elemental Essences aléatoires à la place.',
+      es: 'Una vez cada 23 horas, +1 skill en tu profesión más baja; con todo a 300, de 2 a 4 Elemental Essences al azar.',
+      it: 'Una volta ogni 23 ore, +1 skill nella tua professione più bassa; con tutto a 300, da 2 a 4 Elemental Essences casuali.',
+      de: 'Einmal alle 23 Stunden +1 Skill im niedrigsten Beruf; steht alles auf 300, stattdessen 2 bis 4 zufällige Elemental Essences.',
     },
   },
 ];

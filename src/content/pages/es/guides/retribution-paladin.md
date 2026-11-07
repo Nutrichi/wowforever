@@ -3,7 +3,7 @@ title: "Retribution Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Retribution Paladin: build, rotación y sellos"
 description: "El Retribution Paladin en WoW Forever: la build de nivel 30 y su versión Talented, la rotación con Seal of Command, los Judgements, las bendiciones, los stats y las razas."
 short: "Retribution Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "¿Qué raza es mejor para un Retribution Paladin?"
     a: "Human en la Alliance, por la probabilidad de crítico extra. Dwarf tiene Stoneform, una fuerte reutilización defensiva. Los Paladins de la Horde siempre son Undead."
   - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. La beta se quedó en el nivel 30, y las builds de nivel 60 llegarán tras el lanzamiento del 4 de noviembre."
+    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/retribution-paladin/"
@@ -80,7 +80,7 @@ La beta se quedó en el nivel 30, así que la build usa 21 puntos. Talented, del
 | **Champion of the Light** | Daño de hechizos igual a hasta el 30% de tu Intelecto |
 | **Unsealed Wrath** | Los ataques cuerpo a cuerpo guardan tu Seal, hasta 3 veces. Un golpe con otro Seal usa las acumulaciones para más probabilidades |
 
-Champion of the Light y Unsealed Wrath están en las filas 6 y 7, fuera de alcance a nivel 30. Son el motivo para seguir bajando por el árbol tras el lanzamiento.
+Champion of the Light y Unsealed Wrath están en las filas 6 y 7, fuera de alcance a nivel 30. Son el motivo para seguir bajando por el árbol después del nivel 30.
 
 ## Rotación
 
@@ -115,7 +115,7 @@ Antes de un combate, dale a cada uno la bendición adecuada, y a todos salvo al 
 
 ## Stats y equipo
 
-Las prioridades de stats para el nivel 60 llegarán tras el lanzamiento. Hasta entonces, estos son los stats que cuentan:
+Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces, estos son los stats que cuentan:
 
 - **Índice de golpe**, para que tus ataques y hechizos impacten.
 - **Probabilidad de crítico**, que funciona con Conviction y Vengeance.

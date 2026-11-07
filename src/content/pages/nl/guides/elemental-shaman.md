@@ -3,7 +3,7 @@ title: "Gids voor de Elemental Shaman in WoW Forever"
 metaTitle: "WoW Forever Elemental Shaman: build, Lightning Overload, totems, mana"
 description: "De Elemental Shaman in WoW Forever: de build voor level 30 en de Talented-versie, Call of Thunder en Lightning Overload, de rotatie, totems, mana, stats en races."
 short: "Elemental Shaman"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welk ras is het beste voor een Elemental Shaman?"
     a: "Dwarf is de enige Shaman van de Alliance. Bij de Horde is Orc de sterkste keuze dankzij Blood Fury, en Windshaper Skyborne krijgt 2% Haste."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopte op level 30, en builds voor level 60 volgen na de launch op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
@@ -133,7 +133,7 @@ Mouseover-casting zit in Forever in het spel zelf. Zet het aan in Options, Comba
 
 ## Stats en gear
 
-De statprioriteiten voor level 60 volgen na de launch. Tot dan:
+De statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
 
 - **Spell damage**: je belangrijkste schadestat, en niet op elk stuk gear.
 - **Critical strike chance**: elke critical hit haalt meer uit je mana, en Elemental Fury maakt ze harder.
@@ -148,7 +148,7 @@ De statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 **Totems.** Het relicvak van de Shaman. Nog zeldzaam; zoek er een die je mana helpt.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|

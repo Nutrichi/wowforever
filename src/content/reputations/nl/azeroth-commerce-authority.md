@@ -1,6 +1,6 @@
 ---
 title: "Reputatiegids voor de Azeroth Commerce Authority"
-description: "Azeroth Commerce Authority in WoW Forever: het bevoorradingskamp van de Alliance bij Three Corners, kisten voor Merchant's Favor, recepten voor zeven tradeskills, de Pack Kodo, titels en tabard."
+description: "Azeroth Commerce Authority in WoW Forever: het bevoorradingskamp van de Alliance bij Three Corners, kisten voor Merchant's Favor, recepten voor zeven beroepen, de Pack Kodo, titels en tabard."
 lang: nl
 manual: true
 updated: 2026-09-29
@@ -11,14 +11,14 @@ origin: forever
 start: neutral
 cap: exalted
 method: "Buit kisten in de wereld, vul ze en lever ze in bij Marcy Baker in het kamp bij Three Corners in Redridge Mountains."
-rewards: "Recepten voor zeven tradeskills, tradeskilltitels, de Pack Kodo als mount, een Minimule als pet, een tradeskill sign als speeltje op Honored en twee tabards op Exalted."
+rewards: "Recepten voor zeven beroepen, beroepstitels, de Pack Kodo als mount, een Minimule als pet, een beroep sign als speeltje op Honored en twee tabards op Exalted."
 sources:
   - name: "Wowhead, de reputatiegids"
     url: "https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions"
   - name: "Wowhead, de factie"
     url: "https://www.wowhead.com/forever/faction=2586/azeroth-commerce-authority"
 ---
-De Azeroth Commerce Authority is de bevoorradingsfactie van de Alliance in WoW Forever. Je buit kisten in de wereld, vult ze en levert ze in bij haar kamp voor Merchant's Favor. Die munt koopt recepten, een mount, een pet, een speeltje en tradeskilltitels. De tegenhanger bij de Horde is [Durotar Supply and Logistics](/nl/reputations/durotar-supply-and-logistics/).
+De Azeroth Commerce Authority is de bevoorradingsfactie van de Alliance in WoW Forever. Je buit kisten in de wereld, vult ze en levert ze in bij haar kamp voor Merchant's Favor. Die munt koopt recepten, een mount, een pet, een speeltje en beroepstitels. De tegenhanger bij de Horde is [Durotar Supply and Logistics](/nl/reputations/durotar-supply-and-logistics/).
 
 ![Het verkoopvenster van Huey Sunnydale met de Reins of the Pack Kodo voor 6000 Merchant's Favor, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-09-23-wow-forever-pack-kodo-vendor.jpg)
 
@@ -40,7 +40,7 @@ Het kamp staat bij Three Corners in Redridge Mountains, net buiten het stadje wa
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | Leatherworking | 10.0 72.9 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Een Auction House, gekoppeld aan de hoofdsteden van de Alliance | 9.7 72.0 |
 
-De naam klinkt bekend uit Season of Discovery, waar de Azeroth Commerce Exchange op een vergelijkbare manier werkte. In Forever is de factie groter en hangt ze vast aan de tradeskills.
+De naam klinkt bekend uit Season of Discovery, waar de Azeroth Commerce Exchange op een vergelijkbare manier werkte. In Forever is de factie groter en hangt ze vast aan de beroepen.
 
 ## Wat Merchant's Favor koopt
 
@@ -52,11 +52,11 @@ De naam klinkt bekend uit Season of Discovery, waar de Azeroth Commerce Exchange
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | | Exalted |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280449"><img class="wf-wh__icon" src="/wh/8101155.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skyborne Tabard</a> | | Exalted, volgens het item zelf |
 
-## Recepten per tradeskill
+## Recepten per beroep
 
-Elke tradeskillverkoper verkoopt recepten voor Merchant's Favor. De volledige lijsten staan in [deze reputatiegids](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Elk beroepverkoper verkoopt recepten voor Merchant's Favor. De volledige lijsten staan in [deze reputatiegids](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
 
-| Tradeskill | Verkoper | Recepten | Skill | Merchant's Favor |
+| Beroep | Verkoper | Recepten | Skill | Merchant's Favor |
 |---|---|---|---|---|
 | Enchanting | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256732">Alynsia</a> | 39 | 130 tot 300 | 45 tot 240 |
 | Alchemy | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256729">Nina Surefire</a> | 29 | 65 tot 300 | 45 tot 240 |
@@ -68,9 +68,9 @@ Elke tradeskillverkoper verkoopt recepten voor Merchant's Favor. De volledige li
 
 Een paar voorbeelden: <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249479"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Weapon - Insight</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274401"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Bracer - Greater Spellpower</a> voor Enchanting, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250374"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Elixir of Sages</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250384"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Elixir of the Whale</a> voor Alchemy, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=264235"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Schematic: Ultralight Goblin Glider</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=264222"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Schematic: Loot-A-Rang</a> voor Engineering.
 
-## Titels voor tradeskill 300
+## Titels voor beroep 300
 
-Op skill 300 verkoopt een verkoper een certificaat. Dat opent de titel voor elk personage op het account; een personage toont hem alleen met zelf 300 in die tradeskill.
+Op skill 300 verkoopt een verkoper een certificaat. Dat opent de titel voor elk personage op het account; een personage toont hem alleen met zelf 300 in dat beroep.
 
 | Certificaat | Titel | Merchant's Favor |
 |---|---|---|
@@ -107,4 +107,4 @@ Onder Neutral loopt de schaal ook zoals gewoonlijk: Hated is 36.000 breed, Hosti
 
 - **Hoeveel reputatie een kist geeft**, en of er een daglimiet of weeklimiet is.
 - **Waar een nieuw personage begint.** Neutral is hier een aanname, geen bevestigde waarde.
-- **Welke kist bij welke tradeskill hoort**, en hoeveel je er kunt dragen.
+- **Welke kist bij welk beroep hoort**, en hoeveel je er kunt dragen.

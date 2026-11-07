@@ -15,7 +15,7 @@ sources:
     url: "https://www.wowhead.com/forever/guide/professions/herbalism/overview-leveling"
 manual: true
 ---
-Herbalism is een verzamelberoep: je plukt kruiden van planten overal in de wereld. Alchemists hebben ze altijd nodig, en in WoW Forever gebruiken meer tradeskills kruiden dan vroeger. Op weg naar level 60 kom je overal kruiden tegen, dus het levert goud op terwijl je levelt.
+Herbalism is een verzamelberoep: je plukt kruiden van planten overal in de wereld. Alchemists hebben ze altijd nodig, en in WoW Forever gebruiken meer beroepen kruiden dan vroeger. Op weg naar level 60 kom je overal kruiden tegen, dus het levert goud op terwijl je levelt.
 
 <div class="wf-gallery">
   <figure><img src="/guides/camping/incense-candle.jpg" alt="De Incense Candle, een dikke brandende kaars in het gras" width="480" height="360" loading="lazy"><figcaption><strong>Incense Candle</strong> Intellect in een kamp</figcaption></figure>
@@ -99,4 +99,4 @@ De handschoenen en de enchant tellen op tot +10. De handschoenen zijn leer, maar
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262980"><img class="wf-wh__icon" src="/wh/inv_misc_herb_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greenhouse</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273106"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Greenhouse</a> |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263070"><img class="wf-wh__icon" src="/wh/inv_farm_herbseed.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seed Hybridizer</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273120"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Seed Hybridizer</a> |
 
-De perks van Herbalism, zoals Natural Talent, staan op de [tradeskillspagina](/nl/tradeskills/), en de Legacy-perks in de [Legacy-calculator](/nl/talents/legacy/). De volledige route van Classic staat in de [gids voor Classic Era](/nl/tradeskills/classic/herbalism/).
+De perks van Herbalism, zoals Natural Talent, staan op de [beroepenpagina](/nl/tradeskills/), en de Legacy-perks in de [Legacy-calculator](/nl/talents/legacy/). De volledige route van Classic staat in de [gids voor Classic Era](/nl/tradeskills/classic/herbalism/).

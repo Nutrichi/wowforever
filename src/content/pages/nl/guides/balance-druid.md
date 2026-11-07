@@ -1,9 +1,9 @@
 ---
 title: "Balance Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Balance Druid: DoT- en Eclipse-build, rotatie, stats en races"
-description: "De Balance Druid in WoW Forever: wat er verandert, twee builds voor level 30 met Overgrowth of Eclipse, de rotatie, cooldowns, mana en DoTs, stats, gear, races en tradeskills."
+description: "De Balance Druid in WoW Forever: wat er verandert, twee builds voor level 30 met Overgrowth of Eclipse, de rotatie, cooldowns, mana en DoTs, stats, gear, races en beroepen."
 short: "Balance Druid"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -16,16 +16,16 @@ faq:
   - q: "Gebruikt Wrath Clearcasting?"
     a: "Nee. Clearcasting van Omen of Clarity wordt niet door Wrath verbruikt, dus de gratis cast gaat naar een duurdere spell zoals Starfire."
   - q: "Wanneer krijg ik Moonkin Form?"
-    a: "Moonkin Form is het laatste talent van de Balance-boom en vraagt level 40, dus het zit niet in de beta. Het verhoogt de kans op een critical strike met spells van je hele groep met 3% en verdubbelt de kans op Omen of Clarity."
+    a: "Moonkin Form is het laatste talent van de Balance-boom en vraagt level 40, dus het zat niet in de beta. Het verhoogt de kans op een critical strike met spells van je hele groep met 3% en verdubbelt de kans op Omen of Clarity."
   - q: "Welk ras is het beste voor een Balance Druid?"
     a: "Night Elf voor Elune's Light, een uitbarsting van critical strike-kans, of Tauren voor War Stomp en 5% meer Health. De Skyborne krijgen aan beide kanten 2% Haste. De verschillen zijn klein, dus kies het ras dat je mooi vindt."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de launch op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/balance-druid/"
 ---
-De Balance Druid in WoW Forever is een caster met twee spells voor schade over tijd, twee spells die je moet casten en een grote zak utility. In Classic stond hij bekend als de Druid zonder mana. In Forever lossen nieuwe talenten dat op en krijgt de spec een echte rotatie. Deze gids behandelt de builds, de rotatie, stats, races en tradeskills.
+De Balance Druid in WoW Forever is een caster met twee spells voor schade over tijd, twee spells die je moet casten en een grote zak utility. In Classic stond hij bekend als de Druid zonder mana. In Forever lossen nieuwe talenten dat op en krijgt de spec een echte rotatie. Deze gids behandelt de builds, de rotatie, stats, races en beroepen.
 
 | | |
 |---|---|
@@ -154,7 +154,7 @@ Vernieuw een DoT niet voor hij afloopt, want dan verlies je de ticks die nog ove
 
 ## Stats en gear
 
-De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Balance Druid:
+De precieze volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Balance Druid:
 
 - **Spell damage** eerst. Items met alleen Arcane- of Nature-schade helpen de helft van je spells.
 - **Hit.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a> geeft 4%, genoeg tijdens het levelen. Voor raids wil je de hit cap halen.
@@ -169,7 +169,7 @@ De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Balan
 
 **Wapens.** Voor een caster is een wapen een zak stats. Een eenhandige mace of dagger met een off-hand geeft meestal het meest, maar een goede staff werkt ook.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|
@@ -180,4 +180,4 @@ De precieze volgorde op level 60 volgt na de launch. Deze stats helpen een Balan
 
 De verschillen zijn klein genoeg om het ras te kiezen dat je mooi vindt.
 
-**Tradeskills.** Leatherworking maakt een deel van de beste leather gear, waarvan een stuk alleen voor leatherworkers. Herbalism past bij een Druid, want je verzamelt in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=783"><img class="wf-wh__icon" src="/wh/ability_druid_travelform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Travel Form</a>. Alchemy maakt van die kruiden je eigen potions en elixirs. Engineering geeft elke spec nuttige gadgets.
+**Beroepen.** Leatherworking maakt een deel van de beste leather gear, waarvan een stuk alleen voor leatherworkers. Herbalism past bij een Druid, want je verzamelt in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=783"><img class="wf-wh__icon" src="/wh/ability_druid_travelform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Travel Form</a>. Alchemy maakt van die kruiden je eigen potions en elixirs. Engineering geeft elke spec nuttige gadgets.

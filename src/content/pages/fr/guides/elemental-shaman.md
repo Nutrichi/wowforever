@@ -3,7 +3,7 @@ title: "Guide de l'Elemental Shaman pour WoW Forever"
 metaTitle: "WoW Forever Elemental Shaman : build, Lightning Overload, totems, mana"
 description: "L'Elemental Shaman dans WoW Forever : le build niveau 30 et sa version Talented, Call of Thunder et Lightning Overload, la rotation, les totems, le mana, les stats et les races."
 short: "Elemental Shaman"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quelle race pour un Elemental Shaman ?"
     a: "Le Dwarf est le seul Shaman de l'Alliance. Côté Horde, l'Orc est le choix le plus fort grâce à Blood Fury, et le Windshaper Skyborne gagne 2 % de Hâte."
   - q: "Existe-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. La bêta s'est arrêtée au niveau 30, et les builds niveau 60 suivront après le lancement du 4 novembre."
+    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
@@ -133,7 +133,7 @@ Le lancement au survol de la souris est intégré à Forever. Activez-le dans Op
 
 ## Stats et équipement
 
-Les priorités de stats pour le niveau 60 suivront après le lancement. D'ici là :
+Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester le niveau 60 dans le jeu live. D'ici là :
 
 - **Dégâts des sorts** : votre stat de dégâts principale, et pas sur chaque pièce.
 - **Score de critique** : chaque critique rentabilise davantage votre mana, et Elemental Fury les rend plus forts.

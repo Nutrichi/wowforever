@@ -3,7 +3,7 @@ title: "Guía para subir de nivel un Priest en WoW Forever"
 metaTitle: "Guía de leveling de Priest en WoW Forever: builds de Discipline, Holy y Shadow hasta el 30"
 description: "Cómo subir un Priest en WoW Forever: tres builds de nivel 30 para Discipline, Holy y Shadow, la rotación, los niveles clave, los hechizos raciales, las varitas, las profesiones, el maná y la sanación."
 short: "Leveling de Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "¿Qué profesiones le van a un Priest?"
     a: "Tailoring con Enchanting es la pareja clásica: equipo de tela ligado, varitas y aceites de poder con hechizos. Cooking compensa para cualquier clase en Forever, porque la comida con bufo da experiencia extra y la necesitas para un campamento."
   - q: "¿Hay ya una build de nivel 60?"
-    a: "No en esta guía: la beta se detiene en el nivel 30. Nuestra build de leveling para Priest da un talento por cada nivel hasta el 60, con un cambio de talentos en el 30 y el 40."
+    a: "No en esta guía: sus builds llegan al nivel 30, donde terminaba la beta. Nuestra build de leveling para Priest da un talento por cada nivel hasta el 60, con un cambio de talentos en el 30 y el 40."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
@@ -43,7 +43,7 @@ Los primeros 20 a 30 niveles apenas cambian. Empiezas con <a class="wf-wh wf-spe
 
 **Discipline** mantiene ese estilo tranquilo y añade Penance en el 30, para daño o una sanación rápida. **Shadow** mata más rápido con Mind Flay y Mind Blast, pero no brilla hasta cerca del nivel 28, salvo que tengas bastante poder con hechizos. **Holy** es para quien pasa buena parte del leveling sanando mazmorras. Subir solo como Holy es lento.
 
-Las builds de abajo están hechas para la beta, que se detiene en el nivel 30. Las builds de nivel 60 llegarán tras el lanzamiento.
+Las builds de abajo se hicieron en la beta, que terminaba en el nivel 30. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo.
 
 ## Niveles 1 a 10
 

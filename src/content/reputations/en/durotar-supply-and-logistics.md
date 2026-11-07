@@ -10,7 +10,7 @@ origin: forever
 start: neutral
 cap: exalted
 method: "Loot crates in the world, fill them and hand them in to Dokimi at the camp outside the Crossroads in The Barrens."
-rewards: "A tradeskill sign toy at Honored, and the faction tabard at Exalted."
+rewards: "A profession sign toy at Honored, and the faction tabard at Exalted."
 sources:
   - name: "Wowhead, the faction"
     url: "https://www.wowhead.com/forever/faction=2587/durotar-supply-and-logistics"
@@ -23,7 +23,7 @@ Durotar Supply and Logistics is the Horde supply faction of WoW Forever. Its own
 
 - **A toy at Honored.** The Advertising License Application starts a quest for the Orcish Tradeskill Sign, a toy that advertises what you craft.
 - **The tabard at Exalted.** The <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262764"><img class="wf-wh__icon" src="/wh/inv_tabard_merchanthordec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Durotar Supply and Logistics Tabard</a> asks for Exalted.
-- **It rewards what you already do.** The reputation comes from handing in crates, so the tradeskills you level anyway feed it.
+- **It rewards what you already do.** The reputation comes from handing in crates, so the professions you level anyway feed it.
 
 ## The camp outside the Crossroads
 
@@ -35,7 +35,7 @@ The camp stands just outside the Crossroads in The Barrens. The crates go to <a 
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a> | Supply Officer | 49.4 29.4 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Auctioneer | 49.8 29.4 |
 
-These are the positions of the NPCs; one reputation guide gives /way 42 34 for the camp. The Alliance camp at Three Corners has vendors with recipes for seven tradeskills, a mount and titles. Whether the Horde camp sells the same, the guides do not show yet.
+These are the positions of the NPCs; one reputation guide gives /way 42 34 for the camp. The Alliance camp at Three Corners has vendors with recipes for seven professions, a mount and titles. Whether the Horde camp sells the same, the guides do not show yet.
 
 ## The standings
 

@@ -26,7 +26,7 @@ De hotfixes dragen de datum 5 november en verschenen die nacht op de forums van 
 
 ## Items
 
-- De verkopers van handelswaar op Zephras Isle verkopen de apprentice-tassen voor tradeskills weer.
+- De verkopers van handelswaar op Zephras Isle verkopen de apprentice-tassen voor beroepen weer.
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2678"><img class="wf-wh__icon" src="/wh/inv_misc_food_wheat_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mild Spices</a> brengen bij een verkoper 1 koper per stuk op, in plaats van 2 koper.
 
 ## Player versus Player

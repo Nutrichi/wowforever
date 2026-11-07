@@ -3,7 +3,7 @@ title: "Livellare un Hunter in WoW Forever: la guida"
 metaTitle: "Guida al leveling dell'Hunter in WoW Forever: build Beast Mastery, Marksmanship e Survival fino al 30"
 description: "Come livellare un Hunter in WoW Forever: i primi livelli, tre build di livello 30 per Beast Mastery, Marksmanship e Survival con l’ordine dei talenti, la rotazione, i livelli chiave, la missione di addomesticamento, armi, equipaggiamento, professioni, famigli, trappole, tracciamento e Aspect."
 short: "Leveling Hunter"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Quali professioni per un Hunter?"
     a: "Skinning con Leatherworking, per un buon equipaggiamento vincolato da leveling e un buff del campo del 2% di probabilità di critico. Cooking è indispensabile per ogni classe, per il buff all’esperienza e il tuo falò. Gli ingegneri creano mirini per la tua arma a distanza."
   - q: "C’è già una build di livello 60?"
-    a: "Non in questa guida: la beta si ferma al livello 30. La nostra build di leveling dell’Hunter dà un talento per ogni livello fino al 35."
+    a: "Non in questa guida: le sue build arrivano al livello 30, dove finiva la beta. La nostra build di leveling dell’Hunter dà un talento per ogni livello fino al 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/hunter-leveling/"
@@ -33,13 +33,13 @@ L’Hunter è una delle classi più forti per livellare. Fai danni da lontano, c
 | Punti deboli | Un inizio lento fino al livello 10, mana e munizioni |
 | Ordine dei talenti per livello | [Build di leveling dell’Hunter](/it/leveling/hunter/) |
 | Guide per spec | [Beast Mastery Hunter](/it/guides/beast-mastery-hunter/), [Marksmanship Hunter](/it/guides/marksmanship-hunter/), [Survival Hunter](/it/guides/survival-hunter/) |
-| Build fino al livello 60 | Dopo il lancio del 4 novembre |
+| Build fino al livello 60 | Non ancora, la [build di leveling](/it/leveling/hunter/) arriva al 35 |
 
 ## Con quale spec livellare
 
 Tutti e tre gli alberi vanno bene. **Beast Mastery** è il più fluido: il famiglio fa più danni e resiste di più, e con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2649"><img class="wf-wh__icon" src="/wh/ability_physical_taunt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Growl</a> tiene il mostro su di sé mentre tu tiri. **Marksmanship** fa più danni con i tuoi colpi, quindi rubi più spesso la minaccia e devi kitare. **Survival** mescola mischia, trappole e colpi, ed è la più impegnativa.
 
-Gli Hunter se la cavano bene anche contro mostri di qualche livello in più, grazie alla gittata e a <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. Le build qui sotto sono fatte per la beta, che si ferma al livello 30, con 21 punti. Talented, dal sistema Legacy, dà 5 punti in più, e raggiungi ogni talento fino a cinque livelli prima. Le build di livello 60 arriveranno dopo il lancio.
+Gli Hunter se la cavano bene anche contro mostri di qualche livello in più, grazie alla gittata e a <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. Le build qui sotto sono state fatte sulla beta, che si fermava al livello 30, con 21 punti. Talented, dal sistema Legacy, dà 5 punti in più, e raggiungi ogni talento fino a cinque livelli prima. Le build di livello 60 arriveranno quando potremo provarle nel gioco live.
 
 ## Livelli da 1 a 10
 

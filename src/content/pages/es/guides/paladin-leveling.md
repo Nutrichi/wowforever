@@ -3,7 +3,7 @@ title: "Subir un Paladin en WoW Forever: la guía"
 metaTitle: "Guía de subida del Paladin en WoW Forever: builds de Retribution, Protection y Shockadin hasta el 30"
 description: "Cómo subir un Paladin en WoW Forever: el primer build, tres builds de nivel 30 para Retribution, Protection y Shockadin, la rotación, los niveles clave, las misiones de clase y sus armas, seals, auras y blessings."
 short: "Subida del Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "¿Qué profesiones le van bien a un Paladin?"
     a: "Blacksmithing con Mining. Blacksmithing fabrica equipo ligado con estadísticas que rara vez encuentras en otro sitio, como poder con hechizos para placas. Cooking es imprescindible para todas las clases, por el bonus de experiencia y tu propia hoguera."
   - q: "¿Hay ya un build para el nivel 60?"
-    a: "No en esta guía: la beta se detiene en el nivel 30. Nuestro build de subida del Paladin da un talento para cada nivel hasta el 60."
+    a: "No en esta guía: sus builds llegan al nivel 30, donde terminaba la beta. Nuestro build de subida del Paladin da un talento para cada nivel hasta el 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/paladin-leveling/"
@@ -35,7 +35,7 @@ El Paladin sube despacio pero seguro. Te curas tú mismo, tienes una protección
 | Puntos débiles | Mata un monstruo a la vez, maná entre combates, poco para escapar |
 | Talento por nivel | [Build de subida del Paladin](/es/leveling/paladin/) |
 | Guías por spec | [Retribution Paladin](/es/guides/retribution-paladin/), [Holy Paladin](/es/guides/holy-paladin/) |
-| Builds hasta el nivel 60 | Después del lanzamiento el 4 de noviembre |
+| Builds hasta el nivel 60 | Todavía no, la [build de subida](/es/leveling/paladin/) llega al 35 |
 
 ## Con qué spec subir
 
@@ -43,7 +43,7 @@ Puedes subir con las tres. **Retribution** es la elección clásica: una gran ar
 
 Durante los primeros 20 a 30 niveles, pon tus puntos en Retribution, aunque pienses tanquear mazmorras con escudo más adelante. En cada spec, la mayor parte de tu daño viene de los mismos tres botones: un seal, Judgement y Holy Strike.
 
-Los builds de abajo están hechos para la beta, que se detiene en el nivel 30. Cada uno tiene 26 puntos: los tienes en el nivel 30 con cinco puntos extra de Talented del sistema Legacy, o en el nivel 35 sin ellos. La calculadora de talentos muestra un build así como nivel 35, porque cuenta cada punto como un nivel. Los builds para el nivel 60 llegarán después del lanzamiento.
+Los builds de abajo se hicieron en la beta, que terminaba en el nivel 30. Cada uno tiene 26 puntos: los tienes en el nivel 30 con cinco puntos extra de Talented del sistema Legacy, o en el nivel 35 sin ellos. La calculadora de talentos muestra un build así como nivel 35, porque cuenta cada punto como un nivel. Los builds para el nivel 60 llegarán cuando podamos probarlas en el juego en vivo.
 
 ## Niveles 1 a 10
 

@@ -3,7 +3,7 @@ title: "Marksmanship Hunter in WoW Forever: de gids"
 metaTitle: "WoW Forever Marksmanship Hunter: build voor level 60 en rotatie"
 description: "De Marksmanship Hunter in WoW Forever: de build 5/46/0 voor level 60 met Lone Wolf en Sniper Shot, de rotatie, mana met Rapid Recuperation, stats en races."
 short: "Marksmanship Hunter"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -137,7 +137,7 @@ Lone Wolf vraagt je zonder pet te spelen. In raids en dungeons is dat de meeste 
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen na de launch. Tot dan:
+Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
 
 - **Agility**: 2 ranged attack power per punt en critical strike chance, ongeveer 1% per 53 Agility op level 60.
 - **Hit**: tegen een boss van level 63 heb je 9% nodig met 300 weapon skill, of 6% met 305.
@@ -153,7 +153,7 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 **Wapens.** Je ranged-wapen is veruit je belangrijkste stuk. Je melee-wapen draag je vooral voor de stats.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|

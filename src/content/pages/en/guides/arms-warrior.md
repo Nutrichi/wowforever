@@ -3,7 +3,7 @@ title: "Arms Warrior guide for WoW Forever"
 metaTitle: "WoW Forever Arms Warrior: level 30 build, Rend, Overpower and Rage"
 description: "The Arms Warrior in WoW Forever: the level 30 build with Bloodthrill, Improved Slam and Sweeping Strikes, the rotation, Rend and Overpower, Rage, stats and races."
 short: "Arms Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Arms Warrior good in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Which race is best for an Arms Warrior?"
     a: "Human for the Alliance, for 1% more critical strike chance, or Dwarf for 1% hit. Orc for the Horde, for Blood Fury. Every race can play a Warrior, and every pick works."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
@@ -122,7 +122,7 @@ Stay on the boss. Out of combat, always open with Charge for Rage and an instant
 
 ## Stats and gear
 
-The exact order at level 60 follows after the launch. These stats help an Arms Warrior:
+The exact order at level 60 follows once we can test level 60 in the live game. These stats help an Arms Warrior:
 
 - **Strength and attack power.** Your main stat: 1 Strength gives 2 attack power, so Strength is worth more per point.
 - **Hit chance.** A miss deals nothing and gives no Rage.

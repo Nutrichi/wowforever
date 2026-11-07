@@ -3,7 +3,7 @@ title: "Shaman leveling guide for WoW Forever"
 metaTitle: "WoW Forever Shaman leveling: Enhancement, Elemental and Resto"
 description: "How to level a Shaman in WoW Forever: the early rotation, level 30 builds for Enhancement, Elemental and Restoration, key levels, the totem quests, Call of Air weapons, zones and totems."
 short: "Shaman leveling"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is the best spec to level a Shaman in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "When does a Shaman get Dual Spec?"
     a: "At level 40, from your class trainer. That is the moment to add a healing spec next to Enhancement or Elemental."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stopped at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
@@ -36,7 +36,7 @@ The Shaman in WoW Forever is a welcome sight in every group: strong totem buffs,
 | Weakness | Mana, little crowd control |
 | Talent order per level | [Shaman level build](/leveling/shaman/) |
 | Spec guides | [Enhancement Shaman](/guides/enhancement-shaman/), [Elemental Shaman](/guides/elemental-shaman/), [Restoration Shaman](/guides/restoration-shaman/) |
-| Builds to level 60 | After the launch on 4 November |
+| Builds to level 60 | The [level build](/leveling/shaman/), every level to 60 |
 
 ## Which spec to level with
 

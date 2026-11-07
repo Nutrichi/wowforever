@@ -3,7 +3,7 @@ title: "Shadow Priest guide for WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34 build, rotation and stats"
 description: "The Shadow Priest in WoW Forever: the 14/3/34 build for level 60, Improved Mind Flay and Vampiric Embrace, the DoT rotation, Shadowform, mana, stats and races."
 short: "Shadow Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Shadow Priest good in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Which race is best for a Shadow Priest?"
     a: "Dwarf for the Alliance and Troll for the Horde when the boss is a Beast, because both deal 5% more damage to Beasts. Otherwise Human and Undead are just as good. The gaps are small, so pick the race you like."
   - q: "Is this build final?"
-    a: "No. It uses the talents of the beta build of 15 October for level 60. The beta stops at level 30, so values can still change before or after the launch on 4 November."
+    a: "No. It uses the talents of the beta build of 15 October for level 60. The beta stopped at level 30, so these talents were never tested at level 60 and can still change."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shadow-priest/"

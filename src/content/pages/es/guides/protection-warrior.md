@@ -3,7 +3,7 @@ title: "Guía del Protection Warrior en WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: build de tanque, amenaza y Rage"
 description: "El Protection Warrior en WoW Forever: la build de tanque de nivel 30 con Master of Defense, Defiance y Vanguard, la rotación de amenaza, la Rage, los stats y las razas."
 short: "Protection Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "¿Qué raza es mejor para un Protection Warrior?"
     a: "Night Elf o Dwarf para la Alianza, por la esquiva extra o Stoneform. Tauren para la Horda, por la mayor vida, u Orc por Blood Fury y su tiempo de reutilización contra el daño mágico. Todas las razas funcionan."
   - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. La beta se detiene en el nivel 30, y las builds de nivel 60 llegarán tras el lanzamiento del 4 de noviembre."
+    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/protection-warrior/"
@@ -122,7 +122,7 @@ Quédate pegado al jefe. Abre con Charge para la Rage y un inicio inmediato, en 
 
 ## Stats y equipo
 
-El orden exacto a nivel 60 llegará tras el lanzamiento. Estos stats ayudan a un Protection Warrior:
+El orden exacto a nivel 60 llegará cuando podamos probar el nivel 60 en el juego en vivo. Estos stats ayudan a un Protection Warrior:
 
 - **Golpe.** Un fallo no hace nada y no da Rage.
 - **Aguante, armadura y evasión.** Más vida siempre es mejor para un tanque. Equilibra la defensa con suficiente ataque para mantener la amenaza.

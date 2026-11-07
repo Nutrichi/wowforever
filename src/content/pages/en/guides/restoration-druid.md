@@ -3,7 +3,7 @@ title: "Restoration Druid: the healing guide for WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talents, macros and FAQ"
 description: "The Restoration Druid in WoW Forever: what changes for the healer, strengths and weaknesses, the standard 11/0/40 build, Dual Specialization, useful macros, unit frames and the most asked questions."
 short: "Restoration Druid"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is the best talent build for a Restoration Druid in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Can a Restoration Druid dispel Magic or Disease?"
     a: "No. The Druid has no Magic or Disease dispel, which is one of the weaknesses of the spec."
   - q: "What are the stat priority and the BiS list?"
-    a: "That information follows after the launch on 4 November."
+    a: "Not yet. Both follow once we can test level 60 in the live game."
   - q: "Does a Restoration Druid get a raid spot?"
     a: "Every raid wants healers, and the Restoration Druid has a strong and broad kit. The spec brings less to a raid than the other two Druid specs, but is a strong choice against many kinds of damage."
   - q: "Should a Restoration Druid deal damage?"
@@ -34,14 +34,14 @@ The Restoration Druid in WoW Forever is still a healer who works ahead of the da
 | Key talents | Improved Regrowth, Wild Growth |
 | Strength | Raid healing, mobility, utility |
 | Weakness | No Magic or Disease dispel, no shields |
-| Stats and BiS | Not known before the launch |
+| Stats and BiS | Not known yet |
 
 ## What changes for the healer
 
 - **Omen of Clarity is baseline** and can now proc on spell casts, about twice per minute. The proc makes the next spell free, so it pays off most on an expensive heal.
 - **Wild Growth** is the new capstone of the tree: a strong area heal on the party of the target.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> no longer consumes** the HoT it uses.
-- **HoTs can crit.** The extra crit chance of Improved Regrowth probably also counts for the HoT part of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. That comes from the game data and cannot be tested on the beta yet.
+- **HoTs can crit.** The extra crit chance of Improved Regrowth probably also counts for the HoT part of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. That comes from the game data and could not be tested on the beta.
 - **HoTs of several Druids stack** on one target. A bug still prevents that in some cases.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a>** no longer stacks its armor reduction with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=704"><img class="wf-wh__icon" src="/wh/spell_shadow_unholystrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Recklessness</a> from Warlocks.
 - **Mana costs** have changed, and Regrowth heals a lot more than before.
@@ -84,7 +84,7 @@ The change to <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/sp
 
 ## Macros
 
-Some macro conditions do not work as expected on the beta yet. The modern client also does a lot without macros or addons: mouseover casting, click casting and moving interface elements are in the game settings.
+Some macro conditions did not work as expected on the beta. The modern client also does a lot without macros or addons: mouseover casting, click casting and moving interface elements are in the game settings.
 
 **Mouseover.** Casts the spell on the friendly, living unit under the mouse, otherwise on the friendly target, otherwise on yourself. Remove `nodead` when you use it for <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20484"><img class="wf-wh__icon" src="/wh/spell_nature_reincarnation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rebirth</a> or Revive.
 
@@ -93,7 +93,7 @@ Some macro conditions do not work as expected on the beta yet. The modern client
 /use [@mouseover,help,nodead][@target,help,nodead][@player] SpellName
 ```
 
-**Emergency heal.** Stops what you are doing and casts an instant Healing Touch with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Because of a bug on the beta, it may need more than one press for now.
+**Emergency heal.** Stops what you are doing and casts an instant Healing Touch with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Because of a bug on the beta, it could need more than one press.
 
 ```
 #showtooltip
@@ -139,4 +139,4 @@ Some macro conditions do not work as expected on the beta yet. The modern client
 
 The default unit frames can be adjusted less than players of older versions of the game are used to. Some addons add filters for buffs and debuffs, which helps a lot for a class that heals with HoTs. EllesmereUI is the most approachable and flexible addon for unit frames.
 
-The built-in Cooldown Manager replaces a central group of WeakAuras, and addons can restyle it. On the beta it is still being rolled out step by step. More in the [post about the Cooldown Manager](/news/cooldown-manager-arrives-in-forever-from-midnight/).
+The built-in Cooldown Manager replaces a central group of WeakAuras, and addons can restyle it. On the beta it was rolled out step by step. More in the [post about the Cooldown Manager](/news/cooldown-manager-arrives-in-forever-from-midnight/).

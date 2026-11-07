@@ -3,7 +3,7 @@ title: "Guía del Frost Mage en WoW Forever"
 metaTitle: "WoW Forever: Frost Mage, build de Ice Lance, rotación y Shatter"
 description: "El Frost Mage en WoW Forever: Ice Lance y Fingers of Frost, la build de nivel 30, la rotación, el kiteo, el maná, Shatter, los stats, el equipo, las razas y las profesiones."
 short: "Frost Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -14,11 +14,11 @@ faq:
   - q: "¿Puedo seguir usando Frostbolt de rango 1?"
     a: "Solo para la ralentización. En WoW Forever los rangos inferiores tienen mucha menos probabilidad de activar efectos como Frostbite y Fingers of Frost, así que el rango 1 ya no sirve para buscar procs."
   - q: "¿Cuándo consigo Ice Barrier?"
-    a: "Ice Barrier es el último talento del árbol de Frost y pide nivel 40, así que no está en la beta. Hasta entonces dependes de las congelaciones, Mana Shield y Blink."
+    a: "Ice Barrier es el último talento del árbol de Frost y pide nivel 40, así que no estaba en la beta. Hasta el nivel 40 dependes de las congelaciones, Mana Shield y Blink."
   - q: "¿Qué raza es la mejor para un Frost Mage?"
     a: "Orc en la Horde, gracias al 10 % de poder con hechizos de Blood Fury, con Troll y Berserking justo detrás. En la Alianza, Human con un 1 % de probabilidad de crítico o Skyborne con un 2 % de Haste. Elige la raza que te guste si no persigues cada punto porcentual."
   - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. La beta se detiene en el nivel 30, y las builds de nivel 60 llegarán tras el lanzamiento del 4 de noviembre."
+    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/frost-mage/"
@@ -137,7 +137,7 @@ Tu vida sigue siendo baja. Hasta <a class="wf-wh wf-spell" href="https://www.wow
 
 ## Stats y equipo
 
-El orden exacto a nivel 60 llegará tras el lanzamiento. Estos stats ayudan a un Frost Mage:
+El orden exacto a nivel 60 llegará cuando podamos probar el nivel 60 en el juego en vivo. Estos stats ayudan a un Frost Mage:
 
 - **Daño de hechizos y daño de Frost** primero. El daño de Frost solo ayuda a los hechizos de Frost.
 - **Haste** acelera cada lanzamiento, es decir más daño y más procs. Es rara a niveles bajos.

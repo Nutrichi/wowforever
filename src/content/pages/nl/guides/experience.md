@@ -209,7 +209,7 @@ Forever voegt drie bonussen toe die met elkaar en met rested XP stapelen.
 
 **Camp Tent.** Bij een kamp kan een Leatherworker een Camp Tent opzetten. Rusten daar geeft rested experience zoals in een herberg, tot 5% van een level. De buff duurt een uur en blijft als je sterft. De [campinggids](/nl/guides/camping/) behandelt elk kampobject.
 
-**Well Fed.** Het meeste eten van Cooking geeft Well Fed, met 5% meer ervaring uit kills bovenop de andere stats. Het duurt meestal ongeveer 15 minuten en verdwijnt als je sterft. Cooking is een secundaire tradeskill, dus het komt bovenop je twee hoofdberoepen, en je hebt het nodig om een kampvuur aan te steken.
+**Well Fed.** Het meeste eten van Cooking geeft Well Fed, met 5% meer ervaring uit kills bovenop de andere stats. Het duurt meestal ongeveer 15 minuten en verdwijnt als je sterft. Cooking is een secundair beroep, dus het komt bovenop je twee hoofdberoepen, en je hebt het nodig om een kampvuur aan te steken.
 
 **Cozy Sleeping Bag.** Rol hem overal uit en ga liggen voor tot 3 stacks van Well-Rested, 1% meer ervaring per stack. De buff blijft als je sterft, en in de slaapzak liggen telt als een rustplek, ook als je uitgelogd bent. De [slaapzakgids](/nl/guides/cozy-sleeping-bag/) loopt de questreeks over beide continenten door.
 

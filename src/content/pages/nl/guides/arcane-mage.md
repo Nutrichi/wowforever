@@ -1,9 +1,9 @@
 ---
 title: "Arcane Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Arcane Mage: Arcane Blast-build, rotatie, mana, stats en races"
-description: "De Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage en Arcane Wrath, twee builds voor level 30 voor solo en dungeons, de rotatie, mana en burnfases, overleven, stats, gear, races en tradeskills."
+description: "De Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage en Arcane Wrath, twee builds voor level 30 voor solo en dungeons, de rotatie, mana en burnfases, overleven, stats, gear, races en beroepen."
 short: "Arcane Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welk ras is het beste voor een Arcane Mage?"
     a: "Orc bij de Horde, voor 10% spell power van Blood Fury om de 2 minuten, met Troll als tweede. Bij de Alliance de High Order Skyborne voor Haste en extra regeneratie, daarna Human. Kies het ras dat je mooi vindt als je niet op elk procent jaagt."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de launch op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arcane-mage/"
@@ -161,7 +161,7 @@ Gebruik Frost Blast of Frostbolt rank 1 om een doelwit van ver te vertragen, Con
 
 ## Stats en gear
 
-De exacte volgorde op level 60 volgt na de launch. Deze stats helpen een Arcane Mage:
+De exacte volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Arcane Mage:
 
 - **Spell damage en Arcane spell damage** eerst. Arcane spell damage helpt alleen Arcane-spells.
 - **Intellect** telt zwaarder voor Arcane dan voor de andere Mage-specs: een grotere manapool, 10% extra uit Arcane Mind, en Arcane Blast zet er per stack 18% van om in spell damage.
@@ -178,7 +178,7 @@ De exacte volgorde op level 60 volgt na de launch. Deze stats helpen een Arcane 
 
 ![Een Mage cast in een paarse gloed naast een gevallen quilboar, met Charlga Razorflank op de achtergrond](../../../../assets/posts/2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.jpg)
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|
@@ -191,4 +191,4 @@ De exacte volgorde op level 60 volgt na de launch. Deze stats helpen een Arcane 
 
 Orc is de sterkste keuze in PvE, Troll de tweede. Bij de Alliance komt de High Order Skyborne eerst en Human tweede. Gnome kreeg nerfs op de beta en blijft vooral interessant met Engineering. Niets ervan is sterk genoeg om een ras over te slaan dat je liever speelt.
 
-**Tradeskills.** Tailoring maakt cloth-sets met spell damage en Intellect, en past bij Enchanting voor je eigen wands en enchants. Engineering is de beste partner voor Tailoring als je de meeste schade wilt. Herbalism voedt Alchemy, dat elixirs, potions en flasks maakt.
+**Beroepen.** Tailoring maakt cloth-sets met spell damage en Intellect, en past bij Enchanting voor je eigen wands en enchants. Engineering is de beste partner voor Tailoring als je de meeste schade wilt. Herbalism voedt Alchemy, dat elixirs, potions en flasks maakt.

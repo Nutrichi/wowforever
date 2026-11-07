@@ -3,7 +3,7 @@ title: "Gnomeregan"
 metaTitle: "Gnomeregan guide for WoW Forever: route, trash and bosses"
 description: "How to run Gnomeregan in WoW Forever: the front and back door at the Train Depot, the way in for the Horde, the route over four levels and the five bosses."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: en
 sources:
   - name: "Wowhead, the dungeon guide"
@@ -67,4 +67,4 @@ The final boss, in the Tinkers' Court. Tank him in the middle of the room. Knock
 ## What is not known yet
 
 - **The drop rates** of the boss loot.
-- **The quest rewards** may still change before the launch.
+- **The quest rewards** come from the game files and can still change with a hotfix.

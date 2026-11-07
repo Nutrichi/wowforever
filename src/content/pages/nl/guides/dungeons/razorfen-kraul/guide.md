@@ -3,7 +3,7 @@ title: "Razorfen Kraul"
 metaTitle: "De gids van Razorfen Kraul voor WoW Forever: route, trash en bazen"
 description: "Zo speel je Razorfen Kraul in WoW Forever: de weg erheen in het zuiden van The Barrens, de route door het doornige doolhof, de quilboar-casters om op te letten en alle zes de bazen."
 short: "Gids"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: nl
 manual: true
 sources:
@@ -82,4 +82,4 @@ De Blind Hunter in de vleermuisgrot cast Sonic Burst, een silence op iedereen in
 ## Wat nog niet bekend is
 
 - **De dropkansen** van de loot van de bazen.
-- **De beloningen van de quests** kunnen nog veranderen voor de launch.
+- **De beloningen van de quests** komen uit de spelbestanden en kunnen nog veranderen met een hotfix.

@@ -3,7 +3,7 @@ title: "Combat Rogue en WoW Forever: la guía"
 metaTitle: "WoW Forever Combat Rogue: builds de Hack and Slash hasta el 60"
 description: "El Combat Rogue en WoW Forever: Hack and Slash para cada tipo de arma, una build de nivel 30 y dos de nivel 60 (estándar y dagas), Blade Flurry, Adrenaline Rush, energía, venenos y razas."
 short: "Combat Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -173,7 +173,7 @@ Aplica Sap a un monstruo de un grupo, mejor si es un lanzador de hechizos. Abre 
 
 ## Stats y equipo
 
-Las prioridades de stats para el nivel 60 llegarán tras el lanzamiento. Hasta entonces:
+Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
 
 - **Agilidad**: 1 de poder de ataque por punto, un 1% de crítico por cada 29 de Agilidad, un 1% de esquiva por cada 14,5 de Agilidad.
 - **Poder de ataque**, que ahora también sube el daño de tus venenos.

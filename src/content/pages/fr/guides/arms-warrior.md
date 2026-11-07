@@ -3,7 +3,7 @@ title: "Guide de l’Arms Warrior dans WoW Forever"
 metaTitle: "WoW Forever Arms Warrior : build niveau 30, Rend, Overpower et Rage"
 description: "L’Arms Warrior dans WoW Forever : le build niveau 30 avec Bloodthrill, Improved Slam et Sweeping Strikes, la rotation, Rend et Overpower, la Rage, les stats et les races."
 short: "Arms Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Quelle race choisir pour un Arms Warrior ?"
     a: "Human pour l’Alliance, pour 1 % de chances de critique en plus, ou Dwarf pour 1 % de hit. Orc pour la Horde, pour Blood Fury. Toutes les races peuvent jouer Warrior, et chaque choix fonctionne."
   - q: "Y a-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. La bêta s’arrête au niveau 30, et les builds niveau 60 suivront après le lancement du 4 novembre."
+    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
@@ -123,7 +123,7 @@ Restez sur le boss. Hors combat, ouvrez toujours avec Charge, pour la Rage et un
 
 ## Stats et équipement
 
-L’ordre exact au niveau 60 viendra après le lancement. Ces stats aident un Arms Warrior :
+L’ordre exact au niveau 60 suivra dès que nous pourrons tester le niveau 60 dans le jeu live. Ces stats aident un Arms Warrior :
 
 - **Force et puissance d’attaque.** Votre stat principale : 1 de Force donne 2 de puissance d’attaque, donc la Force vaut plus par point.
 - **Toucher.** Un raté n’inflige rien et ne donne pas de Rage.

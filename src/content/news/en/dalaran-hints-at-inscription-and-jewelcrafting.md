@@ -1,6 +1,6 @@
 ---
 title: "Dalaran hints at Inscription and Jewelcrafting"
-description: "An apprentice jeweler, an empty scribes' shop and two lines in the Statistics pane point to two tradeskills that Classic never had. Blizzard has announced neither."
+description: "An apprentice jeweler, an empty scribes' shop and two lines in the Statistics pane point to two professions that Classic never had. Blizzard has announced neither."
 date: 2026-10-06T22:35:00+02:00
 category: forever
 lang: en
@@ -12,7 +12,7 @@ tags: ["forever", "beta", "tradeskills"]
 featured: false
 draft: false
 ---
-Dalaran on the Forever beta holds traces of two tradeskills that Classic never had. A jewelry shop has an apprentice jeweler, a scribes' shop stands empty, and the Statistics pane counts Inscription. Blizzard has announced neither tradeskill.
+Dalaran on the Forever beta holds traces of two professions that Classic never had. A jewelry shop has an apprentice jeweler, a scribes' shop stands empty, and the Statistics pane counts Inscription. Blizzard has announced neither profession.
 
 ## Jewelcrafting
 
@@ -38,10 +38,10 @@ Elsewhere in the Magus Commerce Exchange is The Scribes' Sacellum, the Inscripti
 
 ![The empty counter of The Scribes' Sacellum, with a red and a blue quill, a screenshot from the beta of World of Warcraft: Forever](../../../assets/posts/2026-10-06-wow-forever-dalaran-scribes-sacellum.jpg)
 
-The layout of the Magus Commerce Exchange comes from the Dalaran of Wrath of the Lich King, where both tradeskills existed. The two shops may simply be a leftover of that.
+The layout of the Magus Commerce Exchange comes from the Dalaran of Wrath of the Lich King, where both professions existed. The two shops may simply be a leftover of that.
 
-The [Statistics pane](/news/a-statistics-pane-counts-kills-gold-and-deaths/) in the character window points the other way. Under Professions it lists Highest Inscription skill and Inscriptions learned, between the tradeskills of Classic. Jewelcrafting does not appear in that list.
+The [Statistics pane](/news/a-statistics-pane-counts-kills-gold-and-deaths/) in the character window points the other way. Under Professions it lists Highest Inscription skill and Inscriptions learned, between the professions of Classic. Jewelcrafting does not appear in that list.
 
-![The Statistics pane with Highest Inscription skill and Inscriptions learned between the other tradeskills, a screenshot from the beta of World of Warcraft: Forever](../../../assets/posts/2026-10-06-wow-forever-statistics-inscription.jpg)
+![The Statistics pane with Highest Inscription skill and Inscriptions learned between the other professions, a screenshot from the beta of World of Warcraft: Forever](../../../assets/posts/2026-10-06-wow-forever-statistics-inscription.jpg)
 
-Whether Forever gets new tradeskills, and when, Blizzard has not said.
+Whether Forever gets new professions, and when, Blizzard has not said.

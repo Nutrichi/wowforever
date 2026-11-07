@@ -3,7 +3,7 @@ title: "Retribution Paladin dans WoW Forever : le guide"
 metaTitle: "WoW Forever Retribution Paladin : build, rotation et sceaux"
 description: "Le Retribution Paladin dans WoW Forever : le build niveau 30 et sa version Talented, la rotation avec Seal of Command, les Judgements, les bénédictions, les stats et les races."
 short: "Retribution Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Quelle race choisir pour un Retribution Paladin ?"
     a: "Human pour l'Alliance, pour les chances de coup critique en plus. Dwarf a Stoneform, un fort temps de recharge défensif. Les Paladins de la Horde sont toujours Undead."
   - q: "Existe-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. La bêta s'est arrêtée au niveau 30, et les builds niveau 60 suivront après le lancement du 4 novembre."
+    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/retribution-paladin/"
@@ -80,7 +80,7 @@ La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented
 | **Champion of the Light** | Des dégâts des sorts égaux à jusqu'à 30 % de votre Intelligence |
 | **Unsealed Wrath** | Les attaques de mêlée stockent votre Seal, jusqu'à 3 fois. Un coup avec un autre Seal consomme les charges pour des chances en plus |
 
-Champion of the Light et Unsealed Wrath se trouvent aux rangées 6 et 7, hors de portée au niveau 30. Ils sont la raison de continuer dans l'arbre après la sortie.
+Champion of the Light et Unsealed Wrath se trouvent aux rangées 6 et 7, hors de portée au niveau 30. Ils sont la raison de continuer dans l'arbre après le niveau 30.
 
 ## Rotation
 
@@ -115,7 +115,7 @@ Avant un combat, donnez à chacun la bonne bénédiction, et à tous sauf au tan
 
 ## Stats et équipement
 
-Les priorités de stats pour le niveau 60 suivront après le lancement. D'ici là, voici ce qui compte :
+Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester le niveau 60 dans le jeu live. D'ici là, voici ce qui compte :
 
 - **Le toucher**, pour que vos attaques et sorts portent.
 - **Les chances de coup critique**, qui vont avec Conviction et Vengeance.

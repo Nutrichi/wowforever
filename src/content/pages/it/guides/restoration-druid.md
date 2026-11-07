@@ -3,7 +3,7 @@ title: "Restoration Druid: la guida alle cure per WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talenti, macro e FAQ"
 description: "Il Restoration Druid in WoW Forever: cosa cambia per il guaritore, punti di forza e debolezze, la build standard 11/0/40, la Dual Specialization, macro utili, i riquadri delle unità e le domande più frequenti."
 short: "Restoration Druid"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Un Restoration Druid può dissipare Magia o Malattie?"
     a: "No. Il Druid non ha una dissipazione di Magia né di Malattie, uno dei punti deboli della specializzazione."
   - q: "Qual è la priorità delle statistiche e la lista BiS?"
-    a: "Queste informazioni arriveranno dopo il lancio del 4 novembre."
+    a: "Non ancora. Arriveranno entrambe quando potremo provare il livello 60 nel gioco live."
   - q: "Un Restoration Druid trova posto nel raid?"
     a: "Ogni raid vuole guaritori, e il Restoration Druid ha un kit forte e ampio. La specializzazione porta a un raid meno delle altre due di Druid, ma è una scelta forte contro molti tipi di danni."
   - q: "Un Restoration Druid deve fare danni?"
@@ -35,14 +35,14 @@ Il Restoration Druid di WoW Forever resta un guaritore che anticipa i danni, con
 | Talenti chiave | Improved Regrowth, Wild Growth |
 | Punti forti | Cure del raid, mobilità, utilità |
 | Punti deboli | Nessuna dissipazione di Magia o Malattie, nessuno scudo |
-| Stats e BiS | Sconosciuti prima del lancio |
+| Stats e BiS | Ancora sconosciuti |
 
 ## Cosa cambia per il guaritore
 
 - **Omen of Clarity è di base** e ora può attivarsi con gli incantesimi, circa due volte al minuto. Il proc rende gratuito l'incantesimo successivo, quindi rende di più su una cura costosa.
 - **Wild Growth** è il nuovo talento finale dell'albero: una cura potente su tutto il gruppo del bersaglio.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> non consuma più** l'HoT che usa.
-- **Gli HoT possono fare critico.** Il critico extra di Improved Regrowth probabilmente vale anche per la parte HoT di <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Viene dai dati del gioco e non si può ancora testare sulla beta.
+- **Gli HoT possono fare critico.** Il critico extra di Improved Regrowth probabilmente vale anche per la parte HoT di <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Viene dai dati del gioco e non si poteva testare sulla beta.
 - **Gli HoT di più Druid si sommano** sullo stesso bersaglio. Un bug lo impedisce ancora in alcuni casi.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a>** non somma più la sua riduzione di armatura con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=704"><img class="wf-wh__icon" src="/wh/spell_shadow_unholystrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Recklessness</a> dei Warlock.
 - **I costi in mana** sono cambiati, e Regrowth cura molto più di prima.
@@ -85,7 +85,7 @@ La modifica a <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/sp
 
 ## Macro
 
-Alcune condizioni delle macro non funzionano ancora come previsto sulla beta. Il client moderno fa anche molto senza macro né addon: il lancio al passaggio del mouse, il lancio con clic e lo spostamento degli elementi dell'interfaccia sono nelle impostazioni di gioco.
+Alcune condizioni delle macro non funzionavano come previsto sulla beta. Il client moderno fa anche molto senza macro né addon: il lancio al passaggio del mouse, il lancio con clic e lo spostamento degli elementi dell'interfaccia sono nelle impostazioni di gioco.
 
 **Mouseover.** Lancia l'incantesimo sull'unità alleata viva sotto il mouse, altrimenti sul bersaglio alleato, altrimenti su di te. Togli `nodead` se la usi per <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20484"><img class="wf-wh__icon" src="/wh/spell_nature_reincarnation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rebirth</a> o Revive.
 
@@ -94,7 +94,7 @@ Alcune condizioni delle macro non funzionano ancora come previsto sulla beta. Il
 /use [@mouseover,help,nodead][@target,help,nodead][@player] SpellName
 ```
 
-**Cura d'emergenza.** Interrompe ciò che stai facendo e lancia un Healing Touch istantaneo con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Per un bug sulla beta, per ora può servire premere più di una volta.
+**Cura d'emergenza.** Interrompe ciò che stai facendo e lancia un Healing Touch istantaneo con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Per un bug sulla beta, poteva servire premere più di una volta.
 
 ```
 #showtooltip
@@ -140,4 +140,4 @@ Alcune condizioni delle macro non funzionano ancora come previsto sulla beta. Il
 
 I riquadri delle unità di base si personalizzano meno di quanto siano abituati i giocatori delle versioni precedenti del gioco. Alcuni addon aggiungono filtri per buff e debuff, molto utili per una classe che cura con gli HoT. EllesmereUI è l'addon per i riquadri delle unità più accessibile e personalizzabile.
 
-Il Cooldown Manager integrato sostituisce un gruppo centrale di WeakAuras, e gli addon possono cambiarne l'aspetto. Sulla beta viene ancora distribuito poco alla volta. Altro nell'[articolo sul Cooldown Manager](/it/news/cooldown-manager-arrives-in-forever-from-midnight/).
+Il Cooldown Manager integrato sostituisce un gruppo centrale di WeakAuras, e gli addon possono cambiarne l'aspetto. Sulla beta è stato distribuito poco alla volta. Altro nell'[articolo sul Cooldown Manager](/it/news/cooldown-manager-arrives-in-forever-from-midnight/).

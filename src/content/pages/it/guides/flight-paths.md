@@ -3,7 +3,7 @@ title: "Rotte di volo: ogni maestro di volo di WoW Forever"
 metaTitle: "Rotte di volo di WoW Forever: maestri di volo, rotte e navi"
 description: "Ogni punto di volo di WoW Forever per l'Alliance e l'Horde: il maestro di volo, le coordinate e le destinazioni, più i cinque nuovi punti di volo e ogni nave e zeppelin."
 short: "Flight Paths"
-updated: 2026-10-07
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -190,6 +190,6 @@ Sei di queste rotte sono nuove. Stormwind Harbor riceve una nave per Auberdine, 
 
 - **Powderfuse Port ha una sola rotta**, verso Farholde Keep. Nei file il punto di volo non ha fazione, ma la sua unica rotta porta a una fortezza dell'Alliance e la cavalcatura è un grifone. Non vi si conosce ancora nessun maestro di volo.
 - **Un sesto nuovo punto di volo attende**: Tidegear Coast, in Dun Morogh, è nei file senza nemmeno una rotta. A cosa serva non è noto.
-- **Le rotte possono ancora cambiare** prima del lancio del 4 novembre.
+- **Le rotte possono ancora cambiare** con un hotfix o una patch.
 - **Zephras Isle non ha un posto fisso** sulla mappa del mondo dei file. La mappa colloca Valanaar sul gruppo di isole a nord del Maelstrom.
 - **Quanto dura un volo** non è nei file. La mappa mostra dove passa una rotta, non quanto dura.

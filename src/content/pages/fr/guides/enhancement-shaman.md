@@ -22,7 +22,7 @@ faq:
   - q: "Quelle est la meilleure race pour un Enhancement Shaman ?"
     a: "Dwarf est le seul Shaman de l'Alliance. Côté Horde, Orc est le choix le plus fort grâce à Blood Fury, et Windshaper Skyborne obtient 2 % de haste."
   - q: "Existe-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. La bêta s'arrêtait au niveau 30, et les builds niveau 60 suivront après la sortie du 4 novembre."
+    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
@@ -150,7 +150,7 @@ Le tanking fonctionne pendant le leveling, avec des inconvénients : pas de vrai
 
 > **Mise à jour du 7 novembre :** avec les hotfixes du 10 novembre, la Force devient la meilleure stat de l'Enhancement, et Blizzard conseille de garder l'équipement avec Force et puissance d'attaque pendant le leveling. Les conseils sur l'Intelligence et la puissance des sorts ci-dessous changeront alors, plus de détails dans [notre article](/fr/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
 
-Les priorités de stats pour le niveau 60 suivront après la sortie. En attendant :
+Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester le niveau 60 dans le jeu live. En attendant :
 
 - **Dégâts de l'arme** : votre principale source de progression, via Stormstrike et Windfury.
 - **Hit** : moins important au début, une priorité élevée vers le niveau 60. Une capacité ratée gaspille dégâts et mana.

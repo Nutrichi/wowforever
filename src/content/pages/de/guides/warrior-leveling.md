@@ -3,7 +3,7 @@ title: "Warrior leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Warrior-Levelguide: Arms, Fury, Protection bis 30"
 description: "So levelst du einen Warrior in WoW Forever: der erste Build, drei Builds für Level 30 für Arms, Fury und Protection, Rotation, wichtige Level, Haltungsquests und Rage."
 short: "Warrior leveln"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welche Berufe passen zu einem Warrior?"
     a: "Blacksmithing mit Mining. Blacksmithing stellt gebundene Ausrüstung mit Werten her, die du sonst selten findest, etwa mehr Verteidigung für Tanks. Cooking ist für jede Klasse Pflicht, für den Erfahrungsbuff und dein eigenes Lagerfeuer."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Nicht in diesem Guide: Die Beta endet auf Level 30. Unser Levelbuild für den Warrior gibt ein Talent für jedes Level bis 60."
+    a: "Nicht in diesem Guide: Seine Builds enden bei Level 30, wo die Beta endete. Unser Levelbuild für den Warrior gibt ein Talent für jedes Level bis 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
@@ -35,13 +35,13 @@ Der Warrior wächst mit jedem Level. Am Anfang drückst du vor allem Heroic Stri
 | Schwächen | Keine eigenen Heilungen, Pausen zum Essen, ein langsamer Start |
 | Talent pro Level | [Levelbuild für den Warrior](/de/leveling/warrior/) |
 | Guides pro Spezialisierung | [Fury Warrior](/de/guides/fury-warrior/), [Arms Warrior](/de/guides/arms-warrior/), [Protection Warrior](/de/guides/protection-warrior/) |
-| Builds bis Level 60 | Nach dem Launch am 4. November |
+| Builds bis Level 60 | Der [Levelbuild](/de/leveling/warrior/), jedes Level bis 60 |
 
 ## Mit welcher Spezialisierung leveln
 
 Alle drei Bäume leveln gut. Die meisten Spieler leveln traditionell als **Arms**, wegen des Bursts und des stabilen Spiels. **Fury** steckt viel ein, also hältst du öfter zum Essen an, aber der Schaden kann das wert sein. **Protection** ist viel stärker als früher: Es brennt Gruppen von Monstern weg, während du wenig Leben verlierst.
 
-Die Builds unten sind für die Beta gemacht, die auf Level 30 endet. Jeder hat 26 Punkte: Die hast du auf Level 30 mit fünf zusätzlichen Punkten aus Talented im Legacy-System, oder auf Level 35 ohne sie. Der Talentrechner zeigt so einen Build als Level 35, weil er jeden Punkt als Level zählt. Builds für Level 60 folgen nach dem Launch.
+Die Builds unten wurden auf der Beta gemacht, die auf Level 30 endete. Jeder hat 26 Punkte: Die hast du auf Level 30 mit fünf zusätzlichen Punkten aus Talented im Legacy-System, oder auf Level 35 ohne sie. Der Talentrechner zeigt so einen Build als Level 35, weil er jeden Punkt als Level zählt. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können.
 
 ## Level 1 bis 10
 

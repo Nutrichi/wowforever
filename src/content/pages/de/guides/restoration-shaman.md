@@ -3,7 +3,7 @@ title: "Restoration Shaman in WoW Forever: der Guide"
 metaTitle: "WoW Forever Restoration Shaman: Heilbuild, Totems, Mana"
 description: "Der Restoration Shaman in WoW Forever: der Heilbuild für Level 30 und die Talented-Version, Water Shield, Riptide und Chain Heal, Totems, Mana, Werte und Völker."
 short: "Restoration Shaman"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welches Volk ist das beste für einen Restoration Shaman?"
     a: "Dwarf ist der einzige Shaman der Alliance. Bei der Horde ist Orc die stärkste Wahl, aber Troll, Tauren und Windshaper Skyborne sind auch gut."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endete bei Level 30, und Builds für Level 60 folgen nach dem Start am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
@@ -125,7 +125,7 @@ Zaubern per Mouseover ist in Forever eingebaut. Schalte es unter Options, Combat
 
 ## Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
+Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
 
 - **Heilkraft**: größere Heilungen, also weniger Zauber und weniger Mana.
 - **Spirit**: deine wichtigste Manaregeneration in Forever.

@@ -3,7 +3,7 @@ title: "Assassination Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: poison builds, Venom and rotation"
 description: "The Assassination Rogue in WoW Forever: Venom and Shank, Mutilate from level 40, two level 30 builds for solo and Improved Expose Armor, the rotation, Energy, poisons and races."
 short: "Assassination Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Assassination Rogue good in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which race is best for an Assassination Rogue?"
     a: "Human for the Alliance, for 1% more critical strike chance, which now also counts for poisons. Orc for the Horde, for 10% more attack power from Blood Fury."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
@@ -168,7 +168,7 @@ The Rogue is fragile but hits hard, so how you start a fight decides whether you
 
 ## Stats and gear
 
-The exact order at level 60 follows after the launch. These stats help an Assassination Rogue:
+The exact order at level 60 follows once we can test level 60 in the live game. These stats help an Assassination Rogue:
 
 - **Agility.** Your core stat: 1 attack power per point, 1% critical strike chance per 29 points and 1% dodge per 14.5 points. Stack as much as you can.
 - **Attack power.** More weapon and ability damage, and in Forever more poison damage too.

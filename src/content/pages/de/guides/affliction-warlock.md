@@ -3,7 +3,7 @@ title: "Affliction-Warlock-Guide für WoW Forever"
 metaTitle: "WoW Forever Affliction Warlock: Drain-Tank-Build, Rotation, Life Tap und Völker"
 description: "Der Affliction Warlock in WoW Forever: was sich ändert, der Drain-Tank-Build für Level 30, die Rotation, Life Tap und Drain Life, Dämonen, Werte, Völker und Berufe."
 short: "Affliction Warlock"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welches Volk ist das beste für einen Affliction Warlock?"
     a: "Undead bei der Horde und Human oder Gnome bei der Allianz haben kleine Vorteile, aber keines ist stark genug, um auf ein Volk zu verzichten, das dir besser gefällt."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endet auf Level 30, und Builds für Level 60 folgen nach dem Launch am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/affliction-warlock/"

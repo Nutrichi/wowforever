@@ -3,7 +3,7 @@ title: "Restoration Shaman dans WoW Forever : le guide"
 metaTitle: "WoW Forever Restoration Shaman : build de soins, totems, mana"
 description: "Le Restoration Shaman dans WoW Forever : le build de soins niveau 30 et sa version Talented, Water Shield, Riptide et Chain Heal, les totems, le mana, les stats et les races."
 short: "Restoration Shaman"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quelle race pour un Restoration Shaman ?"
     a: "Dwarf est le seul Shaman de l'Alliance. Côté Horde, Orc est le choix le plus fort, mais Troll, Tauren et Windshaper Skyborne sont bons aussi."
   - q: "Y a-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. La bêta s'est arrêtée au niveau 30, et les builds niveau 60 suivront après la sortie du 4 novembre."
+    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
@@ -125,7 +125,7 @@ L'incantation au survol est intégrée à Forever. Activez-la dans Options, Comb
 
 ## Stats et équipement
 
-Les priorités de stats niveau 60 suivront après la sortie. En attendant :
+Les priorités de stats niveau 60 suivront dès que nous pourrons tester le niveau 60 dans le jeu live. En attendant :
 
 - **Puissance de soins** : de plus gros soins, donc moins d'incantations et moins de mana.
 - **Spirit** : votre principale régénération de mana dans Forever.

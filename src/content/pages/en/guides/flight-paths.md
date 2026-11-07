@@ -3,7 +3,7 @@ title: "Flight paths: every flight master in WoW Forever"
 metaTitle: "WoW Forever flight paths: every flight master, route and boat"
 description: "Every flight point of WoW Forever for the Alliance and the Horde: the flight master, the coordinates and where it flies, plus the five new flight points and every boat and zeppelin."
 short: "Flight Paths"
-updated: 2026-10-07
+updated: 2026-11-07
 lang: en
 faq:
   - q: "How many flight points does WoW Forever have?"
@@ -189,6 +189,6 @@ Six of these routes are new. Stormwind Harbor gets a boat to Auberdine, and a bo
 
 - **Powderfuse Port has one route**, to Farholde Keep. The flight point carries no faction in the files, but its only route leads to an Alliance keep and its mount is a gryphon. No flight master is known there yet.
 - **A sixth new flight point waits**: Tidegear Coast in Dun Morogh stands in the files without a single route. What it is for is not known.
-- **The routes can still change** before the launch on 4 November.
+- **The routes can still change** with a hotfix or a patch.
 - **Zephras Isle has no fixed place** on the world map in the files. The map puts Valanaar on the group of islands north of the Maelstrom.
 - **How long a flight takes** is not in the files. The map shows where a route runs, not how long it lasts.

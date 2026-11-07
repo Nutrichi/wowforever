@@ -3,7 +3,7 @@ title: "Ragefire Chasm"
 metaTitle: "Guide de Ragefire Chasm pour WoW Forever : parcours, trash et boss"
 description: "Comment faire Ragefire Chasm dans WoW Forever : l’accès par la Cleft of Shadow, le parcours parmi les troggs et la Burning Blade, le trash à surveiller et les quatre boss."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: fr
 manual: true
 sources:
@@ -74,4 +74,4 @@ Sur une corniche avec deux adds ; celui de droite peut être attiré sans lui. B
 ## Ce qu’on ne sait pas encore
 
 - **Les taux de butin** des boss.
-- **Les récompenses des quêtes** peuvent encore changer avant le lancement.
+- **Les récompenses des quêtes** viennent des fichiers du jeu et peuvent encore changer avec un hotfix.

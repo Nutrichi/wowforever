@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: la guida"
 metaTitle: "WoW Forever Beast Mastery Hunter: build di livello 60 e rotazione"
 description: "Il Beast Mastery Hunter in WoW Forever: la build 31/20/0 per il livello 60, Summon Hawk e Bestial Wrath, la rotazione su un bersaglio e ad area, i famigli, il mana, le stats e le razze."
 short: "Beast Mastery Hunter"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -143,7 +143,7 @@ Il famiglio è buona parte dei tuoi danni, quindi tienilo vivo e sul bersaglio. 
 
 ## Stats ed equipaggiamento
 
-Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad allora:
+Le priorità delle stats per il livello 60 arriveranno quando potremo provare il livello 60 nel gioco live. Fino ad allora:
 
 - **Agilità**: 2 di potere d'attacco a distanza per punto e critico, circa l'1% ogni 53 di Agilità al livello 60. Il famiglio riceve il 100% del tuo critico e il 10% del tuo potere d'attacco.
 - **Indice di colpo**: contro un boss di livello 63 serve il 9% con 300 di abilità con le armi, o il 6% con 305.

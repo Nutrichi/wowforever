@@ -3,7 +3,7 @@ title: "Razorfen Kraul"
 metaTitle: "Guía de Razorfen Kraul para WoW Forever: ruta, trash y jefes"
 description: "Cómo hacer Razorfen Kraul en WoW Forever: la entrada al sur de The Barrens, la ruta por el laberinto de espinos, los lanzadores quilboar que hay que vigilar y los seis jefes."
 short: "Guía"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: es
 manual: true
 sources:
@@ -82,4 +82,4 @@ El Blind Hunter de la cueva de murciélagos lanza Sonic Burst, un silencio a tod
 ## Lo que aún no se sabe
 
 - **Las probabilidades de botín** de los jefes.
-- **Las recompensas de las misiones** aún pueden cambiar antes del lanzamiento.
+- **Las recompensas de las misiones** vienen de los archivos del juego y aún pueden cambiar con un hotfix.

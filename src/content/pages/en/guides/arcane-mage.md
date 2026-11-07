@@ -3,7 +3,7 @@ title: "Arcane Mage guide for WoW Forever"
 metaTitle: "WoW Forever Arcane Mage: Arcane Blast build, rotation, mana, stats and races"
 description: "The Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage and Arcane Wrath, two level 30 builds for solo and dungeons, the rotation, mana and burn phases, survival, stats, gear, races and professions."
 short: "Arcane Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Arcane Mage good in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which race is best for an Arcane Mage?"
     a: "Orc for the Horde, for 10% spell power from Blood Fury every 2 minutes, with Troll second. For the Alliance, High Order Skyborne for Haste and extra regeneration, then Human. Pick the race you like if you do not chase every percent."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arcane-mage/"
@@ -160,7 +160,7 @@ Use Frost Blast or rank 1 Frostbolt to slow a target from a distance, Cone of Co
 
 ## Stats and gear
 
-The exact priority at level 60 follows after the launch. These stats help an Arcane Mage:
+The exact priority at level 60 follows once we can test level 60 in the live game. These stats help an Arcane Mage:
 
 - **Spell damage and Arcane spell damage** first. Arcane spell damage only helps Arcane spells.
 - **Intellect** matters more for Arcane than for the other Mage specs: a bigger mana pool, 10% extra from Arcane Mind, and Arcane Blast turns 18% of it into spell damage per stack.

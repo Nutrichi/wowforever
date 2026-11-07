@@ -3,7 +3,7 @@ title: "Paladin levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Paladin levelgids: builds voor Retribution, Protection en Shockadin tot 30"
 description: "Zo level je een Paladin in WoW Forever: de eerste build, drie builds voor level 30 voor Retribution, Protection en Shockadin, de rotatie, de belangrijke levels, de classquests en hun wapens, seals, auras en blessings."
 short: "Paladin levelen"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -17,10 +17,10 @@ faq:
     a: "Alliance Paladins krijgen Verigan's Fist, een tweehandige mace, uit de reeks die eindigt met The Test of Righteousness. Forsaken Paladins krijgen de Moonsilver Blade of Wolfsbane uit twee eigen quests."
   - q: "Wanneer krijg ik Seal of Command?"
     a: "Seal of Command is een Retribution-talent in de derde rij, dus je kan het op level 20 nemen. Daarvoor, en met een eenhandig wapen, gebruik je Seal of Righteousness."
-  - q: "Welke tradeskills passen bij een Paladin?"
+  - q: "Welk beroeps passen bij een Paladin?"
     a: "Blacksmithing met Mining. Blacksmithing maakt soulbound gear met stats die je elders zelden vindt, zoals spell power voor plate. Cooking is voor elke class een must, voor de experiencebuff en je eigen kampvuur."
   - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de beta stopt op level 30. Onze levelbuild voor de Paladin geeft een talent voor elk level tot 60."
+    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Paladin geeft een talent voor elk level tot 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/paladin-leveling/"
@@ -35,7 +35,7 @@ De Paladin levelt traag maar veilig. Je healt jezelf, je hebt een schild tegen b
 | Zwak in | Doodt één monster tegelijk, mana tussen pulls, weinig om mee te vluchten |
 | Talent per level | [Levelbuild voor de Paladin](/nl/leveling/paladin/) |
 | Gidsen per spec | [Retribution Paladin](/nl/guides/retribution-paladin/), [Holy Paladin](/nl/guides/holy-paladin/) |
-| Builds tot level 60 | Na de launch op 4 november |
+| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/paladin/) gaat tot 35 |
 
 ## Met welke spec levelen
 
@@ -43,7 +43,7 @@ Je kan met alle drie levelen. **Retribution** is de klassieke keuze: een groot t
 
 Zet je punten de eerste 20 tot 30 levels in Retribution, ook als je later met een schild dungeons wil tanken. De meeste schade komt in elke spec van dezelfde drie knoppen: een seal, Judgement en Holy Strike.
 
-De builds hieronder zijn gemaakt voor de beta, die stopt op level 30. Elke build heeft 26 punten: die heb je op level 30 met vijf extra punten van Talented uit het Legacy-systeem, of op level 35 zonder. De talentcalculator toont zo'n build als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen na de launch.
+De builds hieronder zijn gemaakt op de beta, die stopte op level 30. Elke build heeft 26 punten: die heb je op level 30 met vijf extra punten van Talented uit het Legacy-systeem, of op level 35 zonder. De talentcalculator toont zo'n build als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
 
 ## Level 1 tot 10
 
@@ -225,9 +225,9 @@ Leer je een nieuw wapentype, dan moet je eerst de skill ervan trainen voor je er
 
 **Librams** gaan in het relicslot en geven bonussen voor je class. De eerste is <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=249397"><img class="wf-wh__icon" src="/wh/inv_misc_book_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tenets of the Silver Hand</a>, gemaakt door enchanters en soulbound. Tijdens het levelen is hij de moeite niet, tenzij je zelf Enchanting levelt.
 
-## Tradeskills
+## Beroepen
 
-Level je tradeskills samen met je Paladin, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elke tradeskill.
+Level je beroepen samen met je Paladin, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elk beroep.
 
 - **Cooking** is een must: buffvoedsel geeft extra experience, en je hebt het nodig voor een kampvuur.
 - **Blacksmithing** maakt je eigen gear, ook soulbound stukken met stats die je elders zelden vindt. Wil je rond spell power bouwen, dan geeft Blacksmithing je er veel meer van.

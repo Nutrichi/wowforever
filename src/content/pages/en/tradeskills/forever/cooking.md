@@ -16,7 +16,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/cooking/overview-leveling"
 ---
-Cooking is a secondary tradeskill, so it never costs you one of your two main slots. In WoW Forever it matters from level 1: most dishes add bonus experience, and every camp starts with a campfire from Cooking.
+Cooking is a secondary profession, so it never costs you one of your two main slots. In WoW Forever it matters from level 1: most dishes add bonus experience, and every camp starts with a campfire from Cooking.
 
 ![A player cooking at a small campfire in a dry valley at dusk, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-cooking-at-a-campfire.jpg)
 
@@ -199,8 +199,8 @@ The Horde gets them from <a class="wf-wh wf-plain" href="https://www.wowhead.com
 
 | Perk | Effect |
 |---|---|
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Higher chance on a skill point in any tradeskill |
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Once a day a free skill point in your lowest tradeskill |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Higher chance on a skill point in any profession |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Once a day a free skill point in your lowest profession |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225457"><img class="wf-wh__icon" src="/wh/achievement_profession_chefhat.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Chef</a> | A chance to cook one extra |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225499"><img class="wf-wh__icon" src="/wh/inv_misc_food_64.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gourmand</a> | Food buffs last longer |
 

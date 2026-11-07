@@ -3,7 +3,7 @@ title: "Gnomeregan"
 metaTitle: "De gids van Gnomeregan voor WoW Forever: route, trash en bazen"
 description: "Zo speel je Gnomeregan in WoW Forever: de voor- en achterdeur bij het Train Depot, de weg naar binnen voor de Horde, de route over vier niveaus en de vijf bazen."
 short: "Gids"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: nl
 manual: true
 sources:
@@ -66,4 +66,4 @@ De eindbaas, in het Tinkers' Court. Tank hem in het midden van de ruimte. Knock 
 ## Wat nog niet bekend is
 
 - **De dropkansen** van de loot van de bazen.
-- **De beloningen van de quests** kunnen nog veranderen voor de launch.
+- **De beloningen van de quests** komen uit de spelbestanden en kunnen nog veranderen met een hotfix.

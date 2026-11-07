@@ -25,6 +25,6 @@ Il community manager Kaivax l'ha annunciato il 1° ottobre sui forum. Nelle prim
 
 ## Cosa danno 16 punti
 
-[I punti Legacy](/it/news/legacy-points-one-per-challenge/) vengono dalle sfide: un primo livello 25 con una classe, una soglia in una tradeskill, un primo clear di un dungeon. Ogni sfida vale un punto. Con 16 punti un tester può provare subito vari nodi dell'albero Legacy.
+[I punti Legacy](/it/news/legacy-points-one-per-challenge/) vengono dalle sfide: un primo livello 25 con una classe, una soglia in una professione, un primo clear di un dungeon. Ogni sfida vale un punto. Con 16 punti un tester può provare subito vari nodi dell'albero Legacy.
 
 Quali nodi entrano in 16 punti si può verificare nel [calcolatore Legacy](/it/talents/legacy/). I punti valgono solo per la beta. Se i personaggi partiranno con dei punti al lancio, Blizzard non lo dice.

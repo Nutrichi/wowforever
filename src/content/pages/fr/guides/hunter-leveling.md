@@ -3,7 +3,7 @@ title: "Monter un Hunter dans WoW Forever : le guide"
 metaTitle: "Guide leveling Hunter WoW Forever : builds Beast Mastery, Marksmanship et Survival jusqu'au 30"
 description: "Monter un Hunter dans WoW Forever : les premiers niveaux, trois builds niveau 30 pour Beast Mastery, Marksmanship et Survival avec l’ordre des talents, la rotation, les niveaux clés, la quête de dressage, les armes, l’équipement, les métiers, les familiers, les pièges, le pistage et les Aspects."
 short: "Leveling Hunter"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Quels métiers pour un Hunter ?"
     a: "Skinning avec Leatherworking, pour du bon équipement de leveling lié et un buff de camp de 2 % de chances de coup critique. Cooking est indispensable pour toutes les classes, pour le buff d’expérience et votre propre feu de camp. Les ingénieurs fabriquent des lunettes de visée pour votre arme à distance."
   - q: "Y a-t-il déjà un build niveau 60 ?"
-    a: "Pas dans ce guide : la bêta s’arrête au niveau 30. Notre build de leveling du Hunter donne un talent pour chaque niveau jusqu’au 35."
+    a: "Pas dans ce guide : ses builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Notre build de leveling du Hunter donne un talent pour chaque niveau jusqu’au 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/hunter-leveling/"
@@ -33,13 +33,13 @@ Le Hunter est l’une des classes les plus fortes pour monter de niveau. Vous fa
 | Faiblesse | Un début lent jusqu’au niveau 10, le mana et les munitions |
 | Ordre des talents par niveau | [Build de leveling du Hunter](/fr/leveling/hunter/) |
 | Guides par spé | [Beast Mastery Hunter](/fr/guides/beast-mastery-hunter/), [Marksmanship Hunter](/fr/guides/marksmanship-hunter/), [Survival Hunter](/fr/guides/survival-hunter/) |
-| Builds jusqu’au niveau 60 | Après la sortie le 4 novembre |
+| Builds jusqu’au niveau 60 | Pas encore, le [build de leveling](/fr/leveling/hunter/) va jusqu’au 35 |
 
 ## Quelle spé pour monter
 
 Les trois arbres permettent de monter. **Beast Mastery** est le plus fluide : votre familier fait plus de dégâts et survit mieux, et avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2649"><img class="wf-wh__icon" src="/wh/ability_physical_taunt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Growl</a> il garde le monstre sur lui pendant que vous tirez. **Marksmanship** fait plus de dégâts avec vos propres tirs, vous prenez donc plus souvent la menace et devez kiter. **Survival** mêle mêlée, pièges et tirs, et demande le plus d’attention.
 
-Les Hunters gèrent aussi bien les monstres de quelques niveaux au-dessus d’eux, grâce à leur portée et à <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. Les builds ci-dessous sont faits pour la bêta, qui s’arrête au niveau 30, avec 21 points. Talented, du système Legacy, donne 5 points de plus, et vous atteignez chaque talent jusqu’à cinq niveaux plus tôt. Les builds niveau 60 suivront après la sortie.
+Les Hunters gèrent aussi bien les monstres de quelques niveaux au-dessus d’eux, grâce à leur portée et à <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. Les builds ci-dessous ont été faits sur la bêta, qui s’arrêtait au niveau 30, avec 21 points. Talented, du système Legacy, donne 5 points de plus, et vous atteignez chaque talent jusqu’à cinq niveaux plus tôt. Les builds niveau 60 suivront dès que nous pourrons les tester dans le jeu live.
 
 ## Niveaux 1 à 10
 

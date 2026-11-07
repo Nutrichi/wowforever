@@ -3,7 +3,7 @@ title: "Ragefire Chasm"
 metaTitle: "Guía de Ragefire Chasm para WoW Forever: ruta, trash y jefes"
 description: "Cómo hacer Ragefire Chasm en WoW Forever: la entrada por la Cleft of Shadow, la ruta entre los troggs y la Burning Blade, el trash que hay que vigilar y los cuatro jefes."
 short: "Guía"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: es
 manual: true
 sources:
@@ -74,4 +74,4 @@ En una cornisa con dos adds; el de la derecha se puede atraer sin él. Bazzalan 
 ## Lo que aún no se sabe
 
 - **Las probabilidades de botín** de los jefes.
-- **Las recompensas de las misiones** aún pueden cambiar antes del lanzamiento.
+- **Las recompensas de las misiones** vienen de los archivos del juego y aún pueden cambiar con un hotfix.

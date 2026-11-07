@@ -3,7 +3,7 @@ title: "Guide du Protection Warrior dans WoW Forever"
 metaTitle: "WoW Forever Protection Warrior : build tank niveau 30, menace et Rage"
 description: "Le Protection Warrior dans WoW Forever : le build tank niveau 30 avec Master of Defense, Defiance et Vanguard, la rotation de menace, la Rage, les stats et les races."
 short: "Protection Warrior"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Quelle race choisir pour un Protection Warrior ?"
     a: "Night Elf ou Dwarf pour l’Alliance, pour l’esquive en plus ou Stoneform. Tauren pour la Horde, pour le plus de vie, ou Orc pour Blood Fury et son temps de recharge contre les dégâts magiques. Toutes les races fonctionnent."
   - q: "Y a-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. La bêta s’arrête au niveau 30, et les builds niveau 60 suivront après le lancement du 4 novembre."
+    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/protection-warrior/"
@@ -122,7 +122,7 @@ Restez sur le boss. Ouvrez avec Charge pour la Rage et un départ immédiat, en 
 
 ## Stats et équipement
 
-L’ordre exact au niveau 60 viendra après le lancement. Ces stats aident un Protection Warrior :
+L’ordre exact au niveau 60 suivra dès que nous pourrons tester le niveau 60 dans le jeu live. Ces stats aident un Protection Warrior :
 
 - **Toucher.** Un raté n’inflige rien et ne donne pas de Rage.
 - **Endurance, armure et évitement.** Plus de vie est toujours mieux pour un tank. Équilibrez la défense avec assez d’attaque pour tenir la menace.

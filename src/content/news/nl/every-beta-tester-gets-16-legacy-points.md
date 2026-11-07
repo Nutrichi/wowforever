@@ -25,6 +25,6 @@ Community manager Kaivax maakte het op 1 oktober bekend op de forums. In de eers
 
 ## Wat 16 punten opleveren
 
-[Legacy-punten](/nl/news/legacy-points-one-per-challenge/) komen uit challenges: een eerste level 25 met een class, een mijlpaal in een tradeskill, een eerste clear van een dungeon. Elke challenge is één punt waard. Met 16 punten kan een tester meteen verschillende nodes in de Legacy-boom uitproberen.
+[Legacy-punten](/nl/news/legacy-points-one-per-challenge/) komen uit challenges: een eerste level 25 met een class, een mijlpaal in een beroep, een eerste clear van een dungeon. Elke challenge is één punt waard. Met 16 punten kan een tester meteen verschillende nodes in de Legacy-boom uitproberen.
 
 Welke nodes binnen 16 punten passen, is na te gaan in de [Legacy-calculator](/nl/talents/legacy/). De punten gelden alleen voor de beta. Of personages bij de launch met punten beginnen, zegt Blizzard niet.

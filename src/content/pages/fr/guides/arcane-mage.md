@@ -3,7 +3,7 @@ title: "Guide de l’Arcane Mage dans WoW Forever"
 metaTitle: "WoW Forever : Arcane Mage, build Arcane Blast, rotation, mana, stats et races"
 description: "L’Arcane Mage dans WoW Forever : Arcane Blast, Missile Barrage et Arcane Wrath, deux builds niveau 30 pour le solo et les donjons, la rotation, le mana et les phases de burn, la survie, les stats, l’équipement, les races et les métiers."
 short: "Arcane Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quelle race pour un Arcane Mage ?"
     a: "Orc chez la Horde, pour les 10 % de puissance des sorts de Blood Fury toutes les 2 minutes, Troll en deuxième. Chez l’Alliance, le High Order Skyborne pour la Haste et la régénération, puis Human. Prenez la race qui vous plaît si vous ne cherchez pas chaque pourcent."
   - q: "Y a-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. La bêta s’arrête au niveau 30, et les builds niveau 60 suivront après la sortie le 4 novembre."
+    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arcane-mage/"
@@ -161,7 +161,7 @@ Utilisez Frost Blast ou Frostbolt rang 1 pour ralentir une cible de loin, Cone o
 
 ## Stats et équipement
 
-L’ordre exact au niveau 60 suivra après la sortie. Ces stats aident un Arcane Mage :
+L’ordre exact au niveau 60 suivra dès que nous pourrons tester le niveau 60 dans le jeu live. Ces stats aident un Arcane Mage :
 
 - **La puissance des sorts et la puissance des sorts Arcane** d’abord. La puissance des sorts Arcane n’aide que les sorts Arcane.
 - **L’Intellect** compte plus pour Arcane que pour les autres spés de Mage : une plus grande réserve de mana, 10 % en plus avec Arcane Mind, et Arcane Blast en convertit 18 % en puissance des sorts par cumul.

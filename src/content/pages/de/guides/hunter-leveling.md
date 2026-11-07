@@ -3,7 +3,7 @@ title: "Hunter leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Hunter-Levelguide: Builds für Beast Mastery, Marksmanship und Survival bis 30"
 description: "Einen Hunter leveln in WoW Forever: die ersten Level, drei Builds für Level 30 für Beast Mastery, Marksmanship und Survival mit Talentreihenfolge, die Rotation, wichtige Level, die Zähmungsquest, Waffen, Ausrüstung, Berufe, Begleiter, Fallen, Aufspüren und Aspects."
 short: "Hunter leveln"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welche Berufe passen zu einem Hunter?"
     a: "Skinning mit Leatherworking, für starke seelengebundene Levelausrüstung und einen Lagerbuff mit 2 % kritischer Trefferchance. Cooking ist für jede Klasse Pflicht, für den Erfahrungsbuff und dein eigenes Lagerfeuer. Ingenieure bauen Zielfernrohre für deine Fernkampfwaffe."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Nicht in diesem Guide: Die Beta endet bei Level 30. Unser Leveling-Build für den Hunter gibt ein Talent für jedes Level bis 35."
+    a: "Nicht in diesem Guide: Seine Builds enden bei Level 30, wo die Beta endete. Unser Leveling-Build für den Hunter gibt ein Talent für jedes Level bis 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/hunter-leveling/"
@@ -33,13 +33,13 @@ Der Hunter ist eine der stärksten Klassen zum Leveln. Du machst Schaden aus der
 | Schwäche | Ein langsamer Start bis Level 10, Mana und Munition |
 | Talentreihenfolge pro Level | [Leveling-Build für den Hunter](/de/leveling/hunter/) |
 | Guides pro Spezialisierung | [Beast Mastery Hunter](/de/guides/beast-mastery-hunter/), [Marksmanship Hunter](/de/guides/marksmanship-hunter/), [Survival Hunter](/de/guides/survival-hunter/) |
-| Builds bis Level 60 | Nach dem Launch am 4. November |
+| Builds bis Level 60 | Noch nicht, der [Levelbuild](/de/leveling/hunter/) geht bis 35 |
 
 ## Mit welcher Spezialisierung leveln
 
 Alle drei Bäume leveln. **Beast Mastery** ist am flüssigsten: Dein Begleiter macht mehr Schaden und hält mehr aus, und mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2649"><img class="wf-wh__icon" src="/wh/ability_physical_taunt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Growl</a> hält er das Monster bei sich, während du schießt. **Marksmanship** macht mehr Schaden mit deinen eigenen Schüssen, also ziehst du öfter Bedrohung und musst kiten. **Survival** mischt Nahkampf, Fallen und Schüsse und verlangt am meisten.
 
-Hunter kommen auch mit Monstern ein paar Level über ihnen gut zurecht, dank ihrer Reichweite und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. Die Builds unten sind für die Beta gemacht, die bei Level 30 endet, mit 21 Punkten. Talented aus dem Legacy-System gibt 5 Punkte mehr, und du erreichst jedes Talent bis zu fünf Level früher. Builds für Level 60 folgen nach dem Launch.
+Hunter kommen auch mit Monstern ein paar Level über ihnen gut zurecht, dank ihrer Reichweite und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. Die Builds unten wurden auf der Beta gemacht, die bei Level 30 endete, mit 21 Punkten. Talented aus dem Legacy-System gibt 5 Punkte mehr, und du erreichst jedes Talent bis zu fünf Level früher. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können.
 
 ## Level 1 bis 10
 

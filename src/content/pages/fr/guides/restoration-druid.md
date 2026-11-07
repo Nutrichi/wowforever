@@ -3,7 +3,7 @@ title: "Restoration Druid : le guide de soin pour WoW Forever"
 metaTitle: "Restoration Druid dans WoW Forever : build, talents, macros et FAQ"
 description: "Le Restoration Druid dans WoW Forever : ce qui change pour le soigneur, forces et faiblesses, le build standard 11/0/40, la Dual Specialization, des macros utiles, les cadres d'unité et les questions les plus fréquentes."
 short: "Restoration Druid"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Un Restoration Druid peut-il dissiper la Magie ou les Maladies ?"
     a: "Non. Le Druid n'a pas de dissipation de Magie ni de Maladie, une des faiblesses de la spécialisation."
   - q: "Quelle priorité de stats et quelle liste BiS ?"
-    a: "Ces informations arriveront après le lancement du 4 novembre."
+    a: "Pas encore. Les deux suivront dès que nous pourrons tester le niveau 60 dans le jeu live."
   - q: "Un Restoration Druid a-t-il sa place en raid ?"
     a: "Tous les raids veulent des soigneurs, et le Restoration Druid a un kit fort et varié. La spécialisation apporte moins à un raid que les deux autres spécialisations de Druid, mais reste un choix fort contre de nombreux types de dégâts."
   - q: "Un Restoration Druid doit-il faire des dégâts ?"
@@ -35,14 +35,14 @@ Le Restoration Druid de WoW Forever reste un soigneur qui anticipe les dégâts,
 | Talents clés | Improved Regrowth, Wild Growth |
 | Points forts | Soin de raid, mobilité, utilitaires |
 | Points faibles | Pas de dissipation de Magie ni de Maladie, pas de boucliers |
-| Stats et BiS | Inconnus avant le lancement |
+| Stats et BiS | Pas encore connus |
 
 ## Ce qui change pour le soigneur
 
 - **Omen of Clarity est de base** et peut désormais se déclencher sur les sorts, environ deux fois par minute. Le proc rend le sort suivant gratuit : il rapporte le plus sur un soin coûteux.
 - **Wild Growth** est le nouveau talent final de l'arbre : un soin puissant sur tout le groupe de la cible.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> ne consomme plus** le HoT qu'il utilise.
-- **Les HoTs peuvent faire des critiques.** Le bonus de critique d'Improved Regrowth s'applique probablement aussi à la partie HoT de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Cela vient des données du jeu et ne peut pas encore être testé sur la bêta.
+- **Les HoTs peuvent faire des critiques.** Le bonus de critique d'Improved Regrowth s'applique probablement aussi à la partie HoT de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Cela vient des données du jeu et ne pouvait pas être testé sur la bêta.
 - **Les HoTs de plusieurs Druids se cumulent** sur une même cible. Un bug l'empêche encore dans certains cas.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a>** ne cumule plus sa réduction d'armure avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=704"><img class="wf-wh__icon" src="/wh/spell_shadow_unholystrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Recklessness</a> des Warlocks.
 - **Les coûts en mana** ont changé, et Regrowth soigne bien plus qu'avant.
@@ -85,7 +85,7 @@ Le changement de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever
 
 ## Macros
 
-Certaines conditions de macro ne fonctionnent pas encore comme prévu sur la bêta. Le client moderne fait aussi beaucoup sans macros ni addons : le lancement au survol, le lancement au clic et le déplacement des éléments d'interface se trouvent dans les options du jeu.
+Certaines conditions de macro ne fonctionnaient pas comme prévu sur la bêta. Le client moderne fait aussi beaucoup sans macros ni addons : le lancement au survol, le lancement au clic et le déplacement des éléments d'interface se trouvent dans les options du jeu.
 
 **Survol.** Lance le sort sur l'unité alliée vivante sous la souris, sinon sur la cible alliée, sinon sur vous. Retirez `nodead` pour l'utiliser avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20484"><img class="wf-wh__icon" src="/wh/spell_nature_reincarnation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rebirth</a> ou Revive.
 
@@ -94,7 +94,7 @@ Certaines conditions de macro ne fonctionnent pas encore comme prévu sur la bê
 /use [@mouseover,help,nodead][@target,help,nodead][@player] SpellName
 ```
 
-**Soin d'urgence.** Interrompt ce que vous faites et lance un Healing Touch instantané avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. À cause d'un bug sur la bêta, il faut parfois appuyer plusieurs fois pour l'instant.
+**Soin d'urgence.** Interrompt ce que vous faites et lance un Healing Touch instantané avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. À cause d'un bug sur la bêta, il fallait parfois appuyer plusieurs fois.
 
 ```
 #showtooltip
@@ -140,4 +140,4 @@ Certaines conditions de macro ne fonctionnent pas encore comme prévu sur la bê
 
 Les cadres d'unité de base se personnalisent moins que ce dont les joueurs des anciennes versions du jeu ont l'habitude. Certains addons ajoutent des filtres pour les buffs et débuffs, très utiles pour une classe qui soigne avec des HoTs. EllesmereUI est l'addon de cadres d'unité le plus accessible et le plus personnalisable.
 
-Le Cooldown Manager intégré remplace un groupe central de WeakAuras, et des addons peuvent en changer l'apparence. Sur la bêta, il est encore déployé petit à petit. Plus de détails dans l'[article sur le Cooldown Manager](/fr/news/cooldown-manager-arrives-in-forever-from-midnight/).
+Le Cooldown Manager intégré remplace un groupe central de WeakAuras, et des addons peuvent en changer l'apparence. Sur la bêta, il a été déployé petit à petit. Plus de détails dans l'[article sur le Cooldown Manager](/fr/news/cooldown-manager-arrives-in-forever-from-midnight/).

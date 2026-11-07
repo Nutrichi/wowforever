@@ -3,7 +3,7 @@ title: "Balance Druid guide for WoW Forever"
 metaTitle: "WoW Forever Balance Druid: DoT and Eclipse builds, rotation, stats and races"
 description: "The Balance Druid in WoW Forever: what changes, two builds for level 30 with Overgrowth or Eclipse, the rotation, cooldowns, mana and DoTs, stats, gear, races and professions."
 short: "Balance Druid"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Balance Druid good in WoW Forever?"
@@ -15,11 +15,11 @@ faq:
   - q: "Does Wrath use Clearcasting?"
     a: "No. Clearcasting from Omen of Clarity is not consumed by Wrath, so the free cast goes to a more expensive spell such as Starfire."
   - q: "When do I get Moonkin Form?"
-    a: "Moonkin Form is the last talent of the Balance tree and needs level 40, so it is not on the beta. It raises the spell critical strike chance of your whole group by 3% and doubles the chance to trigger Omen of Clarity."
+    a: "Moonkin Form is the last talent of the Balance tree and needs level 40, so it was not on the beta. It raises the spell critical strike chance of your whole group by 3% and doubles the chance to trigger Omen of Clarity."
   - q: "Which race is best for a Balance Druid?"
     a: "Night Elf for Elune's Light, a burst of critical strike chance, or Tauren for War Stomp and 5% more Health. The Skyborne get 2% Haste on both sides. The differences are small, so pick the race you like."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stops at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/balance-druid/"
@@ -153,7 +153,7 @@ Do not refresh a DoT before it runs out, because you lose the ticks it had left.
 
 ## Stats and gear
 
-The exact priority at level 60 follows after the launch. These stats help a Balance Druid:
+The exact priority at level 60 follows once we can test level 60 in the live game. These stats help a Balance Druid:
 
 - **Spell damage** first. Items with only Arcane or Nature damage help half of your spells.
 - **Hit.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a> gives 4%, enough while you level. For raids you will want to reach the hit cap.

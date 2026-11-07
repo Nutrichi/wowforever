@@ -25,6 +25,6 @@ El community manager Kaivax lo anunció el 1 de octubre en los foros. En las dos
 
 ## Qué dan 16 puntos
 
-[Los puntos Legacy](/es/news/legacy-points-one-per-challenge/) salen de desafíos: un primer nivel 25 con una clase, un hito en una tradeskill, un primer clear de una mazmorra. Cada desafío vale un punto. Con 16 puntos, un probador puede probar enseguida varios nodos del árbol Legacy.
+[Los puntos Legacy](/es/news/legacy-points-one-per-challenge/) salen de desafíos: un primer nivel 25 con una clase, un hito en una profesión, un primer clear de una mazmorra. Cada desafío vale un punto. Con 16 puntos, un probador puede probar enseguida varios nodos del árbol Legacy.
 
 Qué nodos caben en 16 puntos se puede comprobar en la [calculadora Legacy](/es/talents/legacy/). Los puntos solo valen para la beta. Si los personajes empezarán con puntos en el lanzamiento, Blizzard no lo dice.

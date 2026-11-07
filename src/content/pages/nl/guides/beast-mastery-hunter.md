@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: de gids"
 metaTitle: "WoW Forever Beast Mastery Hunter: build voor level 60 en rotatie"
 description: "De Beast Mastery Hunter in WoW Forever: de build 31/20/0 voor level 60, Summon Hawk en Bestial Wrath, de rotatie op één doelwit en op groepen, pets, mana, stats en races."
 short: "Beast Mastery Hunter"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -143,7 +143,7 @@ Je pet is een groot deel van je schade, dus hou hem in leven en op het doelwit. 
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen na de launch. Tot dan:
+Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
 
 - **Agility**: 2 ranged attack power per punt en critical strike chance, ongeveer 1% per 53 Agility op level 60. Je pet krijgt 100% van je critical strike chance en 10% van je attack power.
 - **Hit**: tegen een boss van level 63 heb je 9% nodig met 300 weapon skill, of 6% met 305.
@@ -159,7 +159,7 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 **Wapens.** Je ranged-wapen is je belangrijkste bron van eigen schade. Je melee-wapen draag je vooral voor de stats. Hunters kunnen bijna elk wapentype gebruiken, behalve maces.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|

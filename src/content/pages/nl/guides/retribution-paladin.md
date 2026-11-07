@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Retribution Paladin: build, rotatie en seals"
 description: "De Retribution Paladin in WoW Forever: de build voor level 30 en de Talented-versie, de rotatie met Seal of Command, Judgements, blessings, stats en races."
 short: "Retribution Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -16,7 +16,7 @@ faq:
   - q: "Welk ras is het beste voor een Retribution Paladin?"
     a: "Human voor de Alliance, voor de extra critical strike chance. Dwarf heeft Stoneform, een sterke defensieve cooldown. Paladins van de Horde zijn altijd Undead."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopte op level 30, en builds voor level 60 volgen na de launch op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/retribution-paladin/"
@@ -80,7 +80,7 @@ De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Le
 | **Champion of the Light** | Spell damage gelijk aan tot 30% van je Intellect |
 | **Unsealed Wrath** | Meleeaanvallen slaan je Seal op, tot 3 keer. Een slag met een andere Seal gebruikt de stacks voor extra kansen |
 
-Champion of the Light en Unsealed Wrath staan op rij 6 en 7, buiten bereik op level 30. Ze zijn de reden om na de launch verder in de boom te gaan.
+Champion of the Light en Unsealed Wrath staan op rij 6 en 7, buiten bereik op level 30. Ze zijn de reden om na level 30 verder in de boom te gaan.
 
 ## Rotatie
 
@@ -115,7 +115,7 @@ Geef voor een gevecht iedereen de juiste blessing, en iedereen behalve de tank o
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen na de launch. Tot dan tellen deze stats:
+Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan tellen deze stats:
 
 - **Hit**, zodat je aanvallen en spells raken.
 - **Critical strike chance**, die samenwerkt met Conviction en Vengeance.
@@ -129,7 +129,7 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan tellen deze stats:
 
 **Librams.** Paladins dragen een libram in het ranged-slot, met een kleine passieve bonus. Kies er een die bij je spells past.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|

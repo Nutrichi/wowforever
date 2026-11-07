@@ -19,13 +19,13 @@ De site heeft twee nieuwe classgidsen: een voor de Arcane Mage en een om een Hun
 
 De [Arcane Mage-gids](/nl/guides/arcane-mage/) behandelt een spec die eindelijk eigen schadespells heeft. Arcane Blast geeft per stack 15% van je Intellect als spell damage, tot 4 stacks, maar maakt elke volgende cast 175% duurder. Missile Barrage en Arcane Wrath maken de rotatie af.
 
-De gids heeft twee builds: een om te questen met Improved Channeling, en een voor dungeons met minder threat en meer critical strike chance. Hij legt ook de burnfases uit, mana, overleven zonder Ice Block, stats, races en tradeskills.
+De gids heeft twee builds: een om te questen met Improved Channeling, en een voor dungeons met minder threat en meer critical strike chance. Hij legt ook de burnfases uit, mana, overleven zonder Ice Block, stats, races en beroepen.
 
 ## Hunter levelen
 
 De [levelgids voor de Hunter](/nl/guides/hunter-leveling/) heeft builds voor Beast Mastery, Marksmanship en Survival, elk met de volgorde waarin je de talenten neemt. Beast Mastery levelt het vlotst: de pet vangt de klappen op terwijl jij schiet.
 
-De gids zet ook elk belangrijk level van 1 tot 60 op een rij. Aimed Shot is geen talent meer: elke Hunter leert het op level 20. Daarbij komen de temquest, wapens, afstandswapens tot level 30, tradeskills, traps, tracking en Aspects.
+De gids zet ook elk belangrijk level van 1 tot 60 op een rij. Aimed Shot is geen talent meer: elke Hunter leert het op level 20. Daarbij komen de temquest, wapens, afstandswapens tot level 30, beroepen, traps, tracking en Aspects.
 
 De getallen volgen de tooltips van de beta. Scare Beast duurt op rank 1 bijvoorbeeld tot 10 seconden, en Tranquilizing Shot verwijdert een Frenzy-effect.
 

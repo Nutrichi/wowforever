@@ -3,7 +3,7 @@ title: "Assassination Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Assassination Rogue: poison-builds, Venom en rotatie"
 description: "De Assassination Rogue in WoW Forever: Venom en Shank, Mutilate vanaf level 40, twee builds voor level 30 voor solo en Improved Expose Armor, de rotatie, Energy en poisons."
 short: "Assassination Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welk ras is het beste voor een Assassination Rogue?"
     a: "Human voor de Alliance, voor 1% meer critical strike chance, wat nu ook telt voor poisons. Orc voor de Horde, voor 10% meer attack power van Blood Fury."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopt op level 30, en builds voor level 60 volgen na de lancering op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
@@ -169,7 +169,7 @@ De Rogue is breekbaar maar slaat hard, dus hoe je een gevecht begint, beslist of
 
 ## Stats en gear
 
-De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Assassination Rogue:
+De exacte volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Assassination Rogue:
 
 - **Agility.** Je kernstat: 1 attack power per punt, 1% critical strike chance per 29 punten en 1% dodge per 14,5 punten. Stapel zoveel je kunt.
 - **Attack power.** Meer wapen- en aanvalsschade, en in Forever ook meer poison-schade.
@@ -182,7 +182,7 @@ De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Assa
 
 **Wapens.** Wapens werden veel sterker in Forever. Je gebruikt dolken, en er zijn goede vanaf lage levels: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6220"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Meteor Shard</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9453"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Toxic Revenger</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1935"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_24.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Assassin's Blade</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7682"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Torturing Poker</a>.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|
@@ -196,4 +196,4 @@ De exacte volgorde op level 60 volgt na de lancering. Deze stats helpen een Assa
 | Horde | Windshaper Skyborne | 2% Haste, en Skysight om mechanieken zoals vuur op de grond te zien |
 | Horde | Undead | Touch of the Grave is de enige schade-racial, en Cannibalize verkort je rusttijd. Beter in PvP |
 
-**Tradeskills.** Leatherworking maakt waardevolle leather-gear op elk level, de nieuwe kamptent en armor kits. Skinning past erbij en levert goud op hoge levels. Engineering voegt gadgets en explosieven toe voor meer schade. Herbalism en Alchemy geven elixirs, potions en flasks, en kunnen goed geld opbrengen.
+**Beroepen.** Leatherworking maakt waardevolle leather-gear op elk level, de nieuwe kamptent en armor kits. Skinning past erbij en levert goud op hoge levels. Engineering voegt gadgets en explosieven toe voor meer schade. Herbalism en Alchemy geven elixirs, potions en flasks, en kunnen goed geld opbrengen.

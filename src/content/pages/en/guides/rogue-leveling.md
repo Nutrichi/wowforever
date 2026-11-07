@@ -3,7 +3,7 @@ title: "Rogue leveling guide for WoW Forever"
 metaTitle: "WoW Forever Rogue leveling: builds for all three specs to 30"
 description: "How to level a Rogue in WoW Forever: four level 30 builds for Assassination, Combat and Subtlety, the rotation, key levels, poison quests, weapons and professions."
 short: "Rogue leveling"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "What is the best spec to level a Rogue in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which professions suit a Rogue?"
     a: "Skinning with Leatherworking is the natural pair: you kill many beasts, and Forever has new leather recipes such as Dark Leather Boots and Brawler's Leather Belt. Cooking is worth it for every class, because buff food gives extra experience and you need it for a camp."
   - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: the beta stops at level 30. Our Rogue level build gives a talent for every level to 60."
+    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Rogue level build gives a talent for every level to 35."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
@@ -36,13 +36,13 @@ The Rogue was never the easiest class to level, but WoW Forever helps. Poisons c
 | Weakness | Low health, depends on gear, little utility |
 | Talent order per level | [Rogue level build](/leveling/rogue/) |
 | Spec guides | [Assassination Rogue](/guides/assassination-rogue/), [Combat Rogue](/guides/combat-rogue/), [Subtlety Rogue](/guides/subtlety-rogue/) |
-| Builds to level 60 | After the launch on 4 November |
+| Builds to level 60 | Not yet, the [level build](/leveling/rogue/) goes to 35 |
 
 ## Which spec to level with
 
 **Combat** is the most forgiving start. Deflection and Riposte keep you alive, and you walk from monster to monster without pauses. Combat can also use every weapon type, thanks to Hack and Slash. **Subtlety with Ambush** opens from Stealth with a huge critical strike and kills fast, but is weaker in dungeons. **Subtlety with bleeds** builds on Garrote, Hemorrhage and Rupture. **Assassination** only gets strong once Mutilate arrives at level 40, so it is not a starter build.
 
-The builds below are made for the beta, which stops at level 30. Every build has a version with five extra points for Talented from the Legacy system. The talent calculator shows those versions as level 35, because it counts every point as a level. Builds for level 60 follow after the launch.
+The builds below were made on the beta, which stopped at level 30. Every build has a version with five extra points for Talented from the Legacy system. The talent calculator shows those versions as level 35, because it counts every point as a level. Builds for level 60 follow once we can test them in the live game.
 
 ## Levels 1 to 10
 
@@ -212,7 +212,7 @@ At level 20 a chain of class quests teaches you Poisons.
 | 4 | <a href="https://www.wowhead.com/forever/quest=2608">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2479">Hinott's Assistance</a> |
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
-More class quests with item rewards follow at launch.
+More class quests with item rewards are expected above level 30, which the beta did not reach.
 
 Every step of both chains, with the weak spot of each tough mob, is in the [Rogue Poisons guide](/guides/poisons/).
 

@@ -3,7 +3,7 @@ title: "Ragefire Chasm"
 metaTitle: "Guide zu Ragefire Chasm für WoW Forever: Route, Trash und Bosse"
 description: "So spielst du Ragefire Chasm in WoW Forever: der Weg hinein über die Cleft of Shadow, die Route vorbei an Troggs und der Burning Blade, der wichtige Trash und die vier Bosse."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: de
 manual: true
 sources:
@@ -74,4 +74,4 @@ Auf einem Vorsprung mit zwei Adds; das rechte Add lässt sich ohne ihn ziehen. B
 ## Was noch nicht bekannt ist
 
 - **Die Dropchancen** der Beute der Bosse.
-- **Die Belohnungen der Quests** können sich vor dem Launch noch ändern.
+- **Die Belohnungen der Quests** stammen aus den Spieldateien und können sich mit einem Hotfix noch ändern.

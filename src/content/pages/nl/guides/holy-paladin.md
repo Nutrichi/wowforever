@@ -3,7 +3,7 @@ title: "Holy Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Holy Paladin: healbuild, spells en mana"
 description: "De Holy Paladin in WoW Forever: de healbuild voor level 30 en de Talented-versie, Holy Shock en Light's Vigil, de healprioriteit, mana, seals, stats en races."
 short: "Holy Paladin"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welk ras is het beste voor een Holy Paladin?"
     a: "Human voor de Alliance, voor de extra critical strike chance. Dwarf heeft Stoneform als defensieve cooldown. Paladins van de Horde zijn altijd Undead."
   - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopte op level 30, en builds voor level 60 volgen na de launch op 4 november."
+    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
@@ -114,7 +114,7 @@ Geef voor een gevecht iedereen de juiste blessing, en iedereen behalve de tank o
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen na de launch. Tot dan:
+Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
 
 - **Healing power en spell power**, voor sterkere en goedkopere heals: met meer healing power volstaat een lagere rank.
 - **Intellect**, voor meer mana en meer critical strike chance.
@@ -127,7 +127,7 @@ Statprioriteiten voor level 60 volgen na de launch. Tot dan:
 
 **Librams.** Een libram in het ranged-slot geeft een kleine passieve bonus. Kies er een die bij je heals past.
 
-## Races en tradeskills
+## Races en beroepen
 
 | Factie | Ras | Waarom |
 |---|---|---|

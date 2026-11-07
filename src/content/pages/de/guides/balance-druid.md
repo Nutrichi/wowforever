@@ -3,7 +3,7 @@ title: "Balance-Druid-Guide für WoW Forever"
 metaTitle: "WoW Forever Balance Druid: DoT- und Eclipse-Build, Rotation, Werte und Völker"
 description: "Der Balance Druid in WoW Forever: was sich ändert, zwei Builds für Level 30 mit Overgrowth oder Eclipse, die Rotation, Cooldowns, Mana und DoTs, Werte, Ausrüstung, Völker und Berufe."
 short: "Balance Druid"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -16,11 +16,11 @@ faq:
   - q: "Verbraucht Wrath Clearcasting?"
     a: "Nein. Clearcasting von Omen of Clarity wird nicht von Wrath verbraucht, der freie Zauber geht also an einen teureren Zauber wie Starfire."
   - q: "Wann bekomme ich Moonkin Form?"
-    a: "Moonkin Form ist das letzte Talent des Balance-Baums und braucht Level 40, es ist also nicht in der Beta. Es erhöht die kritische Trefferchance mit Zaubern deiner ganzen Gruppe um 3 % und verdoppelt die Chance auf Omen of Clarity."
+    a: "Moonkin Form ist das letzte Talent des Balance-Baums und braucht Level 40, es war also nicht in der Beta. Es erhöht die kritische Trefferchance mit Zaubern deiner ganzen Gruppe um 3 % und verdoppelt die Chance auf Omen of Clarity."
   - q: "Welches Volk ist das beste für einen Balance Druid?"
     a: "Night Elf für Elune's Light, einen Schub kritischer Trefferchance, oder Tauren für War Stomp und 5 % mehr Gesundheit. Die Skyborne bekommen auf beiden Seiten 2 % Haste. Die Unterschiede sind klein, nimm also das Volk, das dir gefällt."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Die Beta endet auf Level 30, Builds für Level 60 folgen nach dem Start am 4. November."
+    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/balance-druid/"
@@ -154,7 +154,7 @@ Erneuere einen DoT nicht, bevor er ausläuft, sonst verlierst du die restlichen 
 
 ## Werte und Ausrüstung
 
-Die genaue Reihenfolge auf Level 60 folgt nach dem Start. Diese Werte helfen einem Balance Druid:
+Die genaue Reihenfolge auf Level 60 folgt, sobald wir Level 60 im Live-Spiel testen können. Diese Werte helfen einem Balance Druid:
 
 - **Zauberschaden** zuerst. Gegenstände mit nur Arcane- oder Nature-Schaden helfen der Hälfte deiner Zauber.
 - **Hit.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a> gibt 4 %, genug beim Leveln. Für Raids willst du das Hit-Cap erreichen.

@@ -27,7 +27,7 @@ Monster und Objekte in Hillsbrad Foothills, Ashenvale, den Wetlands, Duskwood un
 
 Die Honor-Kosten für PvP-Ausrüstung und Aufwertungsmarken steigen bei den meisten Gegenständen um etwa 50 %. Das Honor-Limit steigt von 15.000 auf 25.000, um Platz für die neuen Preise zu schaffen.
 
-## Tradeskills und Gegenstände
+## Berufe und Gegenstände
 
 - **Skinning**: Eine Kreatur lässt sich wieder nur einmal häuten, bevor sie verschwindet.
 - **Mining**: weniger Poor Copper Veins in den Startgebieten.

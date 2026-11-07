@@ -15,7 +15,7 @@ manual: true
 ---
 Een nieuw wapen op de beta van WoW Forever graaft <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3369"><img class="wf-wh__icon" src="/wh/inv_misc_dust_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grave Moss</a> op. De <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273817"><img class="wf-wh__icon" src="/wh/inv_misc_shovel_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Graverobber's Shovel</a> heeft 20 charges om graven te openen op Raven Hill Cemetery in Duskwood en op de Scarlet Monastery Graveyard. Een speler gebruikte ze alle 20 en kreeg 9 Grave Moss.
 
-Het is het tweede wapen met een verzameleffect in Forever. Vroeg in de beta vonden spelers de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=872"><img class="wf-wh__icon" src="/wh/inv_throwingaxe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rockslicer</a>, een bijl uit The Deadmines die [mijnt zonder de tradeskill](/nl/news/a-deadmines-axe-mines-without-the-tradeskill/).
+Het is het tweede wapen met een verzameleffect in Forever. Vroeg in de beta vonden spelers de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=872"><img class="wf-wh__icon" src="/wh/inv_throwingaxe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rockslicer</a>, een bijl uit The Deadmines die [mijnt zonder het beroep](/nl/news/a-deadmines-axe-mines-without-the-tradeskill/).
 
 ## De schop
 

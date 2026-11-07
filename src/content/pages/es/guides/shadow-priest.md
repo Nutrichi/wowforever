@@ -3,7 +3,7 @@ title: "Guía del Shadow Priest en WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: build 14/3/34, rotación y stats"
 description: "El Shadow Priest en WoW Forever: la build 14/3/34 para nivel 60, Improved Mind Flay y Vampiric Embrace, la rotación de DoTs, Shadowform, el maná, los stats y las razas."
 short: "Shadow Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "¿Qué raza es mejor para un Shadow Priest?"
     a: "Dwarf para la Alianza y Troll para la Horda cuando el jefe es una Bestia, porque ambas hacen un 5% más de daño a las Bestias. Si no, Human y Undead valen lo mismo. Las diferencias son pequeñas, así que elige la raza que te guste."
   - q: "¿Es definitiva esta build?"
-    a: "No. Usa los talentos de la build de la beta del 15 de octubre para nivel 60. La beta se detiene en el nivel 30, así que los valores aún pueden cambiar antes o después del lanzamiento del 4 de noviembre."
+    a: "No. Usa los talentos de la build de la beta del 15 de octubre para nivel 60. La beta terminaba en el nivel 30, así que estos talentos nunca se probaron a nivel 60 y aún pueden cambiar."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shadow-priest/"

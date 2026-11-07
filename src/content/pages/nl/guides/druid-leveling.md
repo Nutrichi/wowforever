@@ -1,7 +1,7 @@
 ---
 title: "Druid levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Druid levelgids: de Feral-build van 10 tot 60"
-description: "Zo level je een Druid in WoW Forever: een volle Cat Form-build met een talent voor elk level van 10 tot 60, de rotatie, belangrijke levels, classquests, wapens en tradeskills."
+description: "Zo level je een Druid in WoW Forever: een volle Cat Form-build met een talent voor elk level van 10 tot 60, de rotatie, belangrijke levels, classquests, wapens en beroepen."
 short: "Druid levelen"
 updated: 2026-11-05
 lang: nl
@@ -17,7 +17,7 @@ faq:
     a: "Nee. Furor geeft nu de Energy terug die je had toen je Cat Form het laatst verliet, dus snel uit en weer in de vorm levert niets op. Het talent Shifting Power neemt de plaats in: 40 Energy voor mana, met een cooldown."
   - q: "Kan een Druid polearms gebruiken in WoW Forever?"
     a: "Ja. Polearms zijn nieuw voor de Druid in Forever en leer je vanaf level 20. In een dierenvorm doen je gewone aanvallen de schade per seconde van je wapen, dus een beter wapen verhoogt al je melee-schade."
-  - q: "Welke tradeskills passen bij een Druid?"
+  - q: "Welk beroeps passen bij een Druid?"
     a: "Herbalism is de klassieke keuze, want je plukt kruiden in Travel Form. Skinning met Leatherworking werkt ook goed. Cooking loont voor elke class in Forever, want buff food geeft extra ervaring en je hebt het nodig voor een kamp."
   - q: "Is er al een build voor level 60?"
     a: "Ja. De Feral-build in deze gids geeft een talent voor elk level van 10 tot 60, en de levelbuild voor de Druid toont hem level per level."
@@ -25,7 +25,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/druid-leveling/"
 ---
-De Druid kan in WoW Forever bijna alles: tanken als beer, schade doen als kat of van op afstand, en healen. Hij beweegt ook sneller door de wereld dan elke andere class. Je levelt als Feral, met één build van level 10 tot 60. Deze gids behandelt de build, de rotatie, de belangrijke levels, de classquests, wapens en tradeskills.
+De Druid kan in WoW Forever bijna alles: tanken als beer, schade doen als kat of van op afstand, en healen. Hij beweegt ook sneller door de wereld dan elke andere class. Je levelt als Feral, met één build van level 10 tot 60. Deze gids behandelt de build, de rotatie, de belangrijke levels, de classquests, wapens en beroepen.
 
 | | |
 |---|---|
@@ -176,9 +176,9 @@ De set **Embrace of the Viper** uit [Wailing Caverns](/nl/guides/dungeons/wailin
 
 Twee beroemde items zijn terug voor Feral Druids. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9449"><img class="wf-wh__icon" src="/wh/inv_mace_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual Crowd Pummeler</a> valt in [Gnomeregan](/nl/guides/dungeons/gnomeregan/) en vraagt level 29. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8345"><img class="wf-wh__icon" src="/wh/inv_helmet_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wolfshead Helm</a> komt uit Leatherworking op level 40 en geeft nu 5 extra Energy uit Shifting Power. Geen van beide blijft waarschijnlijk de beste keuze tot 60.
 
-## Tradeskills
+## Beroepen
 
-Level je tradeskills mee met je Druid, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elke tradeskill.
+Level je beroepen mee met je Druid, zodat je op het juiste level verzamelt en maakt. Kampen geven buffs voor elk beroep.
 
 - **Cooking** is een must: buff food geeft extra ervaring, en je hebt het nodig voor een kampvuur.
 - **Herbalism** is de klassieke keuze: je plukt kruiden zonder Travel Form te verlaten. Het kamp geeft Intellect.

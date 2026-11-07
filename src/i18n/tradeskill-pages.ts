@@ -122,7 +122,7 @@ const words = {
     glanceRecipes: '{n} recepten, waarvan {new} nieuw in Forever',
     inForever: 'Nieuw in Forever',
     camp: 'Kampobjecten',
-    campText: 'In Forever bouwt elke tradeskill objecten voor je kamp. Dit zijn de recepten:',
+    campText: 'In Forever bouwt elk beroep objecten voor je kamp. Dit zijn de recepten:',
     ranks: 'Rangen',
     rankRow: 'tot skill {max}',
     allRecipes: 'Alle recepten',

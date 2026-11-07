@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: der Guide"
 metaTitle: "WoW Forever Beast Mastery Hunter: Build für Level 60 und Rotation"
 description: "Der Beast Mastery Hunter in WoW Forever: der Build 31/20/0 für Level 60, Summon Hawk und Bestial Wrath, die Rotation gegen ein Ziel und mehrere, Begleiter, Mana, Werte und Völker."
 short: "Beast Mastery Hunter"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -143,7 +143,7 @@ Dein Begleiter ist ein großer Teil deines Schadens, also halte ihn am Leben und
 
 ## Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
+Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
 
 - **Beweglichkeit**: 2 Fernkampfangriffskraft pro Punkt und kritische Trefferchance, etwa 1 % pro 53 Beweglichkeit auf Level 60. Dein Begleiter erhält 100 % deiner kritischen Trefferchance und 10 % deiner Angriffskraft.
 - **Trefferwertung**: Gegen einen Boss der Stufe 63 brauchst du 9 % mit 300 Waffenfertigkeit oder 6 % mit 305.

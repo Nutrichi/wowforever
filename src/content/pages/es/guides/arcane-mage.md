@@ -3,7 +3,7 @@ title: "Guía del Arcane Mage en WoW Forever"
 metaTitle: "WoW Forever: Arcane Mage, build de Arcane Blast, rotación, maná, stats y razas"
 description: "El Arcane Mage en WoW Forever: Arcane Blast, Missile Barrage y Arcane Wrath, dos builds de nivel 30 para jugar en solitario y en mazmorras, la rotación, el maná y las fases de burn, la supervivencia, los stats, el equipo, las razas y las profesiones."
 short: "Arcane Mage"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "¿Qué raza es mejor para un Arcane Mage?"
     a: "Orc en la Horda, por el 10% de poder con hechizos de Blood Fury cada 2 minutos, con Troll en segundo lugar. En la Alianza, el High Order Skyborne por la Haste y la regeneración extra, luego Human. Elige la raza que te guste si no buscas cada porcentaje."
   - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. La beta llega hasta el nivel 30, y las builds de nivel 60 llegarán tras el lanzamiento del 4 de noviembre."
+    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arcane-mage/"
@@ -161,7 +161,7 @@ Usa Frost Blast o Frostbolt rango 1 para ralentizar desde lejos, Cone of Cold co
 
 ## Stats y equipo
 
-La prioridad exacta a nivel 60 llegará tras el lanzamiento. Estos stats ayudan a un Arcane Mage:
+La prioridad exacta a nivel 60 llegará cuando podamos probar el nivel 60 en el juego en vivo. Estos stats ayudan a un Arcane Mage:
 
 - **El poder con hechizos y el poder con hechizos Arcane** primero. El poder con hechizos Arcane solo ayuda a los hechizos Arcane.
 - **El Intellect** pesa más para Arcane que para las otras specs de Mage: más reserva de maná, un 10% extra de Arcane Mind, y Arcane Blast convierte el 18% en poder con hechizos por acumulación.

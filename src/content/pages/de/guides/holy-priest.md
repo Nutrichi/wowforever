@@ -3,7 +3,7 @@ title: "Holy-Priest-Guide für WoW Forever"
 metaTitle: "WoW Forever Holy Priest: 18/33/0-Build, Heilung und Werte"
 description: "Der Holy Priest in WoW Forever: der Build 18/33/0 für Level 60, Prayer of Mending und Litany of Light, Tank- und Gruppenheilung, Mana, Werte und Völker."
 short: "Holy Priest"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Welches Volk ist das beste für einen Holy Priest?"
     a: "Gnome oder Human für die Allianz, Undead für die Horde. Undead hat Dark Sacrifice für Mana, während Troll einem Heiler kaum etwas bietet."
   - q: "Ist dieser Build endgültig?"
-    a: "Nein. Er nutzt die Talente des Beta-Builds vom 15. Oktober für Level 60. Die Beta endet bei Level 30, Werte können sich also vor oder nach dem Start am 4. November noch ändern."
+    a: "Nein. Er nutzt die Talente des Beta-Builds vom 15. Oktober für Level 60. Die Beta endete bei Level 30, diese Talente wurden also nie auf Level 60 getestet und können sich noch ändern."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"

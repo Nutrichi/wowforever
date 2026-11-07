@@ -27,7 +27,7 @@ Les monstres et objets de Hillsbrad Foothills, Ashenvale, des Wetlands, de Duskw
 
 Le coût en Honor de l’équipement PvP et des jetons d’amélioration augmente d’environ 50 % pour la plupart des objets. Le plafond d’Honor passe de 15 000 à 25 000 pour faire place aux nouveaux prix.
 
-## Tradeskills et objets
+## Métiers et objets
 
 - **Skinning** : une créature ne peut de nouveau être dépecée qu’une fois avant de disparaître.
 - **Mining** : moins de Poor Copper Veins dans les zones de départ.

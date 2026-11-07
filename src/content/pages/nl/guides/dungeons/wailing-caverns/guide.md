@@ -3,7 +3,7 @@ title: "Wailing Caverns"
 metaTitle: "De gids van Wailing Caverns voor WoW Forever: route, trash en bazen"
 description: "Zo speel je Wailing Caverns in WoW Forever: de weg erheen bij de Lushwater Oasis, de route langs de vier Lords of the Fang, de Druids of the Fang en het event van Naralex."
 short: "Gids"
-updated: 2026-10-19
+updated: 2026-11-07
 lang: nl
 manual: true
 sources:
@@ -101,4 +101,4 @@ Tijdens het ritueel vallen golven oozes en Deviate Moccasins de Disciple aan. Do
 ## Wat nog niet bekend is
 
 - **De dropkansen** van de loot van de bazen.
-- **De beloningen van de quests** kunnen nog veranderen voor de launch.
+- **De beloningen van de quests** komen uit de spelbestanden en kunnen nog veranderen met een hotfix.

@@ -1,14 +1,14 @@
 ---
 title: "Camping in WoW Forever: kampvuren, kampobjecten en buffs"
 metaTitle: "WoW Forever camping-gids: kampvuren, elk kampobject en zijn buff"
-description: "Hoe camping werkt in WoW Forever: de drie kampvuren, de buff van elke tradeskill, wat elk kampobject kost, de werkplaatsen van tier 2 en 3 en waar de blueprints vallen."
+description: "Hoe camping werkt in WoW Forever: de drie kampvuren, de buff van elk beroep, wat elk kampobject kost, de werkplaatsen van tier 2 en 3 en waar de blueprints vallen."
 short: "Camping"
 updated: 2026-10-29
 lang: nl
 video: kYvgaUnDl7A
 faq:
-  - q: "Heb ik een tradeskill nodig voor een kampbuff?"
-    a: "Nee. Wie een minuut bij een kampplaats zit, krijgt de buffs van de objecten die er staan, welke tradeskills hij ook heeft."
+  - q: "Heb ik een beroep nodig voor een kampbuff?"
+    a: "Nee. Wie een minuut bij een kampplaats zit, krijgt de buffs van de objecten die er staan, welke beroepen hij ook heeft."
   - q: "Stapelen kampbuffs met class-buffs?"
     a: "Nee. Elke kampbuff is een iets zwakkere versie van een class-buff, zoals Arcane Intellect of Power Word: Fortitude, en stapelt er niet mee."
   - q: "Hoeveel objecten passen in een kamp?"
@@ -23,7 +23,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever"
 ---
-Camping is een nieuw systeem in WoW Forever. Iemand steekt een kampvuur aan, elke tradeskill zet er een object bij, en wie er een minuut zit, krijgt de buffs. Hogere tiers voegen werkplaatsen, een verkoper en een reparatierobot toe.
+Camping is een nieuw systeem in WoW Forever. Iemand steekt een kampvuur aan, elk beroep zet er een object bij, en wie er een minuut zit, krijgt de buffs. Hogere tiers voegen werkplaatsen, een verkoper en een reparatierobot toe.
 
 <figure class="wf-embed" data-wf-video="kYvgaUnDl7A">
   <button type="button" class="wf-embed__play">
@@ -71,11 +71,11 @@ Elke kampbuff is een zwakkere kopie van een class-buff en stapelt er niet mee. D
 
 ![Drie spelers rusten bij een kampvuur met een verbanddoos in het rode stof van Durotar, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-09-29-wow-forever-camp-in-durotar.jpg)
 
-## Tier 1: de buff van elke tradeskill
+## Tier 1: de buff van elk beroep
 
 De tooltips tonen de buffs in stappen; de tabel geeft de hoogste stap. Wat de stap bepaalt, zegt de tooltip niet.
 
-| Tradeskill | Object | Buff | Materialen |
+| Beroep | Object | Buff | Materialen |
 |---|---|---|---|
 | Alchemy | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1230564"><img class="wf-wh__icon" src="/wh/spell_arcane_manatap.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Well</a> | Tot 29 mana per 5 sec, zoals <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25290"><img class="wf-wh__icon" src="/wh/spell_holy_sealofwisdom.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Wisdom</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2447"><img class="wf-wh__icon" src="/wh/inv_misc_flower_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Peacebloom</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3371"><img class="wf-wh__icon" src="/wh/inv_potion_84.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Empty Vial</a> |
 | Blacksmithing | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1230171"><img class="wf-wh__icon" src="/wh/inv_stone_grindingstone_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sharpening Wheel</a> | Tot 34 Strength, zoals <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25361"><img class="wf-wh__icon" src="/wh/spell_nature_earthbindtotem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Strength of Earth Totem</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2835"><img class="wf-wh__icon" src="/wh/inv_stone_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rough Stone</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2840"><img class="wf-wh__icon" src="/wh/inv_ingot_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Copper Bar</a> |
@@ -109,9 +109,9 @@ De Camp Chair is een echte stoel: ga erop zitten in plaats van op de grond. De F
 
 ## Tier 2 en 3: werkplaatsen en diensten
 
-Een hoger object houdt de buff van tier 1 en voegt iets toe. Het mag over een lager object van dezelfde tradeskill in hetzelfde kamp, zonder op de cooldown te wachten.
+Een hoger object houdt de buff van tier 1 en voegt iets toe. Het mag over een lager object van hetzelfde beroep in hetzelfde kamp, zonder op de cooldown te wachten.
 
-| Tradeskill | Tier 2 (skill 140) | Tier 3 (skill 300) |
+| Beroep | Tier 2 (skill 140) | Tier 3 (skill 300) |
 |---|---|---|
 | Alchemy | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263005"><img class="wf-wh__icon" src="/wh/inv_alchemy_90_cauldron.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fermenter</a>: werkplaats voor sommige reagents | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263078"><img class="wf-wh__icon" src="/wh/10prof_portabletable_alchemy01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alchemy Laboratory</a>: werkplaats voor sommige recepten |
 | Blacksmithing | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263041"><img class="wf-wh__icon" src="/wh/inv_blacksmith_anvil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Anvil</a>: overal plans maken | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263073"><img class="wf-wh__icon" src="/wh/inv_mace_1h_blacksmithing_b_01_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Forge</a>: werkplaats voor sommige plans |
@@ -142,7 +142,7 @@ Tier 2 en 3 leer je uit blueprints. De meeste bronnen zijn nog niet bekend; deze
 
 ## De Scarlet Banner
 
-<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=278030"><img class="wf-wh__icon" src="/wh/inv_misc_token_scarletcrusade.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Banner</a> is een kampobject zonder tradeskill. Je zet hem bij een kampvuur, met een cooldown van een uur. Voorlopig geeft hij geen buff: hij is er alleen voor de sier. Je verdient hem met vier graven en een puzzel in de [Scarlet Monastery Library](/nl/guides/dungeons/scarlet-monastery-library/). Priests uit Season of Discovery kennen de route: daar gaf ze de rune Pain Suppression.
+<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=278030"><img class="wf-wh__icon" src="/wh/inv_misc_token_scarletcrusade.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scarlet Banner</a> is een kampobject zonder beroep. Je zet hem bij een kampvuur, met een cooldown van een uur. Voorlopig geeft hij geen buff: hij is er alleen voor de sier. Je verdient hem met vier graven en een puzzel in de [Scarlet Monastery Library](/nl/guides/dungeons/scarlet-monastery-library/). Priests uit Season of Discovery kennen de route: daar gaf ze de rune Pain Suppression.
 
 **1. Verzamel vier Echoes.** Klik op het graf op elk van deze plekken.
 

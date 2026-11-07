@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: der Guide"
 metaTitle: "WoW Forever Combat Rogue: Hack-and-Slash-Builds bis Level 60"
 description: "Der Combat Rogue in WoW Forever: Hack and Slash für jeden Waffentyp, ein Build für Level 30 und zwei für Level 60 (Standard und Dolche), Blade Flurry, Adrenaline Rush, Energie, Gifte und Völker."
 short: "Combat Rogue"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -173,7 +173,7 @@ Nimm mit Sap ein Monster aus einer Gruppe, am besten einen Zauberer. Eröffne mi
 
 ## Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen nach dem Start. Bis dahin:
+Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
 
 - **Beweglichkeit**: 1 Angriffskraft pro Punkt, 1 % kritische Trefferchance pro 29 Beweglichkeit, 1 % Ausweichen pro 14,5 Beweglichkeit.
 - **Angriffskraft**, die jetzt auch den Schaden deiner Gifte erhöht.

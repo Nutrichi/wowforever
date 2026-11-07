@@ -3,7 +3,7 @@ title: "Restoration Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Restoration Shaman: healing build, totems, mana"
 description: "The Restoration Shaman in WoW Forever: the level 30 healing build and its Talented version, Water Shield, Riptide and Chain Heal, totems, mana, stats and races."
 short: "Restoration Shaman"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "Is Restoration Shaman a good healer in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which race is best for a Restoration Shaman?"
     a: "Dwarf is the only Alliance Shaman. On the Horde, Orc is the strongest choice, but Troll, Tauren and Windshaper Skyborne are good too."
   - q: "Is there a level 60 build yet?"
-    a: "Not yet. The beta stopped at level 30, and builds for level 60 follow after the launch on 4 November."
+    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
@@ -124,7 +124,7 @@ Mouseover casting is built into Forever. Turn it on in Options, Combat: your hea
 
 ## Stats and gear
 
-Stat priorities for level 60 follow after the launch. Until then:
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
 
 - **Healing power**: bigger heals, so fewer casts and less mana.
 - **Spirit**: your main mana regeneration in Forever.

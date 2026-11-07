@@ -195,7 +195,7 @@ const rules: Rule[] = [
   { pattern: /\bfor shadow bolt builds\b/g, nl: 'voor Shadow Bolt-builds', fr: 'pour les builds Shadow Bolt', es: 'para builds de Shadow Bolt', it: 'per build Shadow Bolt', de: 'für Shadow-Bolt-Builds' },
   { pattern: /\botherwise\b/g, nl: 'anders', fr: 'sinon', es: 'si no', it: 'altrimenti', de: 'sonst' },
   { pattern: /\bNaxx veterans:/g, nl: 'Wie Naxxramas deed:', fr: 'Vétérans de Naxxramas :', es: 'Veteranos de Naxxramas:', it: 'Veterani di Naxxramas:', de: 'Naxxramas-Veteranen:' },
-  { pattern: /\bprofession recipe\b/gi, en: 'tradeskill recipe', nl: 'tradeskillrecept', fr: 'recette de tradeskill', es: 'receta de tradeskill', it: 'ricetta di tradeskill', de: 'Tradeskill-Rezept' },
+  { pattern: /\bprofession recipe\b/gi, en: 'profession recipe', nl: 'beroepsrecept', fr: 'recette de métier', es: 'receta de profesión', it: 'ricetta di professione', de: 'Berufsrezept' },
   { pattern: /\btier alternative if not using offset\b/g, nl: 'tier als alternatief zonder offset', fr: 'alternative de tier sans offset', es: 'alternativa de tier sin offset', it: 'alternativa di tier senza offset', de: 'Tier-Alternative ohne Offset' },
   { pattern: /\bor the legendary\b/g, nl: 'of de legendary', fr: 'ou la légendaire', es: 'o el legendario', it: 'o il leggendario', de: 'oder das legendäre' },
   { pattern: /\bfrom Ulduar if available\b/g, nl: 'uit Ulduar als je die hebt', fr: 'd’Ulduar si disponible', es: 'de Ulduar si se tiene', it: 'da Ulduar se disponibile', de: 'aus Ulduar, falls vorhanden' },

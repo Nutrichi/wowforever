@@ -27,7 +27,7 @@ Mostri e oggetti di Hillsbrad Foothills, Ashenvale, Wetlands, Duskwood e Thousan
 
 Il costo in Honor dell'equipaggiamento PvP e dei gettoni di potenziamento sale di circa il 50% per la maggior parte degli oggetti. Il tetto di Honor passa da 15.000 a 25.000 per fare spazio ai nuovi prezzi.
 
-## Tradeskill e oggetti
+## Professioni e oggetti
 
 - **Skinning**: una creatura si può di nuovo scuoiare una sola volta prima che sparisca.
 - **Mining**: meno Poor Copper Vein nelle zone iniziali.

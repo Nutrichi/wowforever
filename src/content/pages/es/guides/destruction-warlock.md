@@ -3,7 +3,7 @@ title: "Guía del Destruction Warlock en WoW Forever"
 metaTitle: "WoW Forever Destruction Warlock: build de nivel 30, Conflagrate y Hellfire"
 description: "El Destruction Warlock en WoW Forever: la build de nivel 30 con Bane, Aftermath, Shadowburn y Conflagrate, la rotación, Hellfire en mazmorras, el maná, la amenaza, los stats y las razas."
 short: "Destruction Warlock"
-updated: 2026-10-27
+updated: 2026-11-07
 lang: es
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "¿Qué raza es la mejor para un Destruction Warlock?"
     a: "Human en la Alianza, por un 1 % más de probabilidad de crítico con Ruthless. Undead en la Horda, por Touch of the Grave, Cannibalize y Will of the Forsaken. Berserking del Troll también acelera tus hechizos. Las diferencias son pequeñas, así que elige la raza que te guste."
   - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. La beta se detiene en el nivel 30, y las builds de nivel 60 llegarán tras el lanzamiento del 4 de noviembre."
+    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/destruction-warlock/"

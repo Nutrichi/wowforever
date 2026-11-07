@@ -1,6 +1,6 @@
 ---
 title: "Hogere kampobjecten komen uit blueprints in dungeons"
-description: "De tweede en derde tier van camping in WoW Forever leer je uit blueprints, waarvan een aantal in dungeons valt. Het eerste object van elke tradeskill krijg je gratis met een quest."
+description: "De tweede en derde tier van camping in WoW Forever leer je uit blueprints, waarvan een aantal in dungeons valt. Het eerste object van elk beroep krijg je gratis met een quest."
 date: 2026-09-29T18:30:00+02:00
 category: forever
 lang: nl
@@ -13,11 +13,11 @@ featured: false
 draft: false
 manual: true
 ---
-Camping in WoW Forever krijgt een tweede en derde tier uit blueprints. Een aantal valt in dungeons, van The Deadmines tot Shadowfang Keep. Het eerste object van elke tradeskill krijg je gratis met een quest bij skill 20.
+Camping in WoW Forever krijgt een tweede en derde tier uit blueprints. Een aantal valt in dungeons, van The Deadmines tot Shadowfang Keep. Het eerste object van elk beroep krijg je gratis met een quest bij skill 20.
 
-## Drie tiers per tradeskill
+## Drie tiers per beroep
 
-Elke tradeskill maakt drie objecten voor een kampplaats. Tier 1 leer je bij skill 20 van de trainer, of gratis met de Camping 101-quest van je tradeskill in de startgebieden. Tier 2 volgt bij 140 en tier 3 bij 300, allebei uit een blueprint die je buit of van een andere speler koopt.
+Elk beroep maakt drie objecten voor een kampplaats. Tier 1 leer je bij skill 20 van de trainer, of gratis met de Camping 101-quest van je beroep in de startgebieden. Tier 2 volgt bij 140 en tier 3 bij 300, allebei uit een blueprint die je buit of van een andere speler koopt.
 
 Een hogere tier geeft dezelfde buff als tier 1 en voegt een werkplaats of een dienst toe: een <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263041"><img class="wf-wh__icon" src="/wh/inv_blacksmith_anvil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Anvil</a> voor Blacksmithing, een <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263034"><img class="wf-wh__icon" src="/wh/inv_robotpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Repair Bot</a> die ook repareert, een <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262980"><img class="wf-wh__icon" src="/wh/inv_misc_herb_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greenhouse</a> die kruiden uit zaden kweekt.
 

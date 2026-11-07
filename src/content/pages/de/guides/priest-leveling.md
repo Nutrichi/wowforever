@@ -3,7 +3,7 @@ title: "Priest leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Priest Leveling-Guide: Builds für Discipline, Holy und Shadow bis 30"
 description: "So levelst du einen Priest in WoW Forever: drei Builds für Level 30 für Discipline, Holy und Shadow, die Rotation, wichtige Level, Volkszauber, Zauberstäbe, Berufe, Mana und Heilung."
 short: "Priest leveln"
-updated: 2026-10-31
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welche Berufe passen zum Priest?"
     a: "Tailoring mit Enchanting ist das klassische Paar: gebundene Stoffausrüstung, Zauberstäbe und Öle für Zaubermacht. Cooking lohnt sich in Forever für jede Klasse, weil Buff-Essen zusätzliche Erfahrung gibt und du es für ein Lager brauchst."
   - q: "Gibt es schon einen Build für Level 60?"
-    a: "Nicht in diesem Guide: Die Beta endet auf Level 30. Unser Leveling-Build für den Priest gibt ein Talent für jedes Level bis 60, mit einem Umskillen auf 30 und 40."
+    a: "Nicht in diesem Guide: Seine Builds enden bei Level 30, wo die Beta endete. Unser Leveling-Build für den Priest gibt ein Talent für jedes Level bis 60, mit einem Umskillen auf 30 und 40."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
@@ -43,7 +43,7 @@ Die ersten 20 bis 30 Level unterscheiden sich kaum. Du beginnst mit <a class="wf
 
 **Discipline** behält diesen ruhigen Stil und bringt auf 30 Penance dazu, für Schaden oder eine schnelle Heilung. **Shadow** tötet mit Mind Flay und Mind Blast schneller, glänzt aber erst ab etwa Level 28, außer du hast ordentlich Zaubermacht. **Holy** ist für alle, die einen großen Teil des Levelns Dungeons heilen. Allein als Holy zu leveln geht langsam.
 
-Die Builds unten sind für die Beta gemacht, die auf Level 30 endet. Builds für Level 60 folgen nach dem Start.
+Die Builds unten wurden auf der Beta gemacht, die auf Level 30 endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können.
 
 ## Level 1 bis 10
 
