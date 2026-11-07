@@ -40,7 +40,7 @@ Il Frost Mage di WoW Forever rallenta e congela i suoi bersagli, sopravvive megl
 
 - **Ice Lance è nuovo.** Un talento al livello 20: istantaneo, 45 di mana e il 300% di danni in più ai bersagli Frozen. Prima era del 200%.
 - **Fingers of Frost è nuovo.** I tuoi effetti di Chill hanno il 15% di probabilità di trattare i tuoi 2 incantesimi successivi come se il bersaglio fosse Frozen. Funziona sui bersagli che non si possono congelare, come la maggior parte dei boss.
-- **Frost Blast** al livello 24 è una raffica di gelo debole e rapida che rallenta il bersaglio del 40% per 9 secondi.
+- **Frost Blast** non c'è più: le note di sviluppo del 2 novembre lo hanno rimosso.
 - **I ranghi inferiori attivano meno.** Un rango inferiore di un incantesimo ha molta meno probabilità di attivare effetti. Frostbolt di rango 1 rallenta ancora, ma non cerca più Frostbite né Fingers of Frost.
 
 ## Punti di forza e debolezze
@@ -75,7 +75,7 @@ Non c'è posto per Frostbite e <a class="wf-wh wf-spell" href="https://www.wowhe
 
 | Talento | Cosa fa in Forever |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | Frostbolt e Frost Blast si lanciano 0,5 secondi più veloci a 5/5 |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | Frostbolt si lancia 0,5 secondi più veloce a 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29438"><img class="wf-wh__icon" src="/wh/spell_ice_magicdamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elemental Precision</a>** | L'1% di probabilità di colpire in più con gli incantesimi Frost e Fire per punto. Serve contro nemici di livello superiore |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a>** | Raddoppia il bonus critico dei tuoi incantesimi Frost a 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>** | Gli effetti di Chill hanno il 15% di probabilità di congelare il bersaglio per 5 secondi a 3/3 |
@@ -117,7 +117,7 @@ Se ti aspetti un proc dal Frostbolt che stai lanciando, premi Ice Lance proprio 
 
 Il Frost tiene lontani i nemici. Oltre ai tuoi rallentamenti conta come ti muovi. Recinzioni, colline, edifici e alberi interrompono la linea di vista, e un nemico rallentato deve girarci intorno. Funziona bene contro gli elite. Lo spostamento laterale può anche disturbare il percorso di un nemico da mischia, ma non di tutti, e non degli incantatori. Contro un incantatore, interrompi la linea di vista quando Counterspell è in cooldown.
 
-Frost Blast o Frostbolt di rango 1 rallentano un nemico da lontano quando non lo vuoi vicino.
+Frostbolt di rango 1 rallenta un nemico da lontano quando non lo vuoi vicino.
 
 ## Mana
 

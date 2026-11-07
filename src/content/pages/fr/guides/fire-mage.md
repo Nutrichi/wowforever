@@ -145,7 +145,7 @@ Les sorts de Feu coûtent cher, mais Fire demande moins de gestion du mana qu’
 
 Fire survit moins bien que Frost et n’a pas d’Ice Block. Tuez une cible avant qu’elle vous tue, et choisissez vos combats. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> et Frost Nova vous sortent de la plupart des ennuis. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> coûte trop de mana pour un usage constant, mais Mana Shield avec Evocation peut vous sauver en dernier recours.
 
-Utilisez Frost Blast ou Frostbolt rang 1 pour ralentir une cible à distance, Cone of Cold comme ralentissement instantané (les quatre premières cibles sont les plus ralenties), et Polymorph pour sortir une cible du combat. Blast Wave hébète aussi tout autour de vous. Les clôtures, collines et bâtiments coupent la ligne de vue, ce qui vous fait gagner des incantations.
+Utilisez Frostbolt rang 1 pour ralentir une cible à distance, Cone of Cold comme ralentissement instantané (les quatre premières cibles sont les plus ralenties), et Polymorph pour sortir une cible du combat. Blast Wave hébète aussi tout autour de vous. Les clôtures, collines et bâtiments coupent la ligne de vue, ce qui vous fait gagner des incantations.
 
 ## Temps de recharge et utilité
 

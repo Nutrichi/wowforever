@@ -145,7 +145,7 @@ Feuerzauber kosten viel, aber Fire verlangt weniger Manakontrolle als Arcane.
 
 Fire überlebt schlechter als Frost und hat keinen Ice Block. Töte ein Ziel, bevor es dich tötet, und wähle deine Kämpfe. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> und Frost Nova holen dich aus den meisten Schwierigkeiten. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> kostet zu viel Mana für den Dauereinsatz, aber Mana Shield mit Evocation kann dich als letzter Ausweg retten.
 
-Nutze Frost Blast oder Frostbolt Rang 1, um ein Ziel aus der Ferne zu verlangsamen, Cone of Cold als sofortige Verlangsamung (die ersten vier Ziele werden am stärksten verlangsamt) und Polymorph, um ein Ziel aus dem Kampf zu nehmen. Blast Wave macht außerdem alles um dich herum benommen. Zäune, Hügel und Gebäude brechen die Sichtlinie, und das bringt dir Zauber.
+Nutze Frostbolt Rang 1, um ein Ziel aus der Ferne zu verlangsamen, Cone of Cold als sofortige Verlangsamung (die ersten vier Ziele werden am stärksten verlangsamt) und Polymorph, um ein Ziel aus dem Kampf zu nehmen. Blast Wave macht außerdem alles um dich herum benommen. Zäune, Hügel und Gebäude brechen die Sichtlinie, und das bringt dir Zauber.
 
 ## Abklingzeiten und Nutzen
 

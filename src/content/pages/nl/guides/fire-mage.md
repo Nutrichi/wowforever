@@ -145,7 +145,7 @@ Fire-spells kosten veel, maar Fire vraagt minder manabeheer dan Arcane.
 
 Fire overleeft minder goed dan Frost en heeft geen Ice Block. Dood een doelwit voor het jou doodt, en kies je gevechten. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> en Frost Nova halen je uit de meeste problemen. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> kost te veel mana om altijd te gebruiken, maar Mana Shield met Evocation kan je als laatste redmiddel redden.
 
-Gebruik Frost Blast of rank 1 Frostbolt om een doelwit van ver te vertragen, Cone of Cold als directe vertraging (de eerste vier doelwitten worden het sterkst vertraagd), en Polymorph om een doelwit uit het gevecht te halen. Blast Wave maakt ook alles rondom je Dazed. Hekken, heuvels en gebouwen breken de zichtlijn, en dat levert je casts op.
+Gebruik rank 1 Frostbolt om een doelwit van ver te vertragen, Cone of Cold als directe vertraging (de eerste vier doelwitten worden het sterkst vertraagd), en Polymorph om een doelwit uit het gevecht te halen. Blast Wave maakt ook alles rondom je Dazed. Hekken, heuvels en gebouwen breken de zichtlijn, en dat levert je casts op.
 
 ## Cooldowns en utility
 

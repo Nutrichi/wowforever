@@ -145,7 +145,7 @@ Gli incantesimi di Fuoco costano molto, ma Fire chiede meno gestione del mana di
 
 Fire sopravvive meno di Frost e non ha Ice Block. Uccidi il bersaglio prima che uccida te, e scegli i tuoi scontri. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> e Frost Nova ti tirano fuori dalla maggior parte dei guai. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> costa troppo mana per usarlo sempre, ma Mana Shield con Evocation può salvarti come ultima risorsa.
 
-Usa Frost Blast o Frostbolt rango 1 per rallentare un bersaglio a distanza, Cone of Cold come rallentamento istantaneo (i primi quattro bersagli rallentano di più), e Polymorph per togliere un bersaglio dallo scontro. Blast Wave stordisce anche tutto intorno a te. Recinti, colline ed edifici bloccano la linea di vista, e questo ti fa guadagnare lanci.
+Usa Frostbolt rango 1 per rallentare un bersaglio a distanza, Cone of Cold come rallentamento istantaneo (i primi quattro bersagli rallentano di più), e Polymorph per togliere un bersaglio dallo scontro. Blast Wave stordisce anche tutto intorno a te. Recinti, colline ed edifici bloccano la linea di vista, e questo ti fa guadagnare lanci.
 
 ## Tempi di recupero e utilità
 

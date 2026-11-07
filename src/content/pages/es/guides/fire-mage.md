@@ -145,7 +145,7 @@ Los hechizos de Fuego cuestan mucho, pero Fire exige menos control del maná que
 
 Fire sobrevive peor que Frost y no tiene Ice Block. Mata al objetivo antes de que te mate, y elige tus combates. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> y Frost Nova te sacan de la mayoría de los apuros. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> cuesta demasiado maná para usarlo siempre, pero Mana Shield con Evocation puede salvarte como último recurso.
 
-Usa Frost Blast o Frostbolt rango 1 para ralentizar a un objetivo a distancia, Cone of Cold como ralentización instantánea (los cuatro primeros objetivos se ralentizan más), y Polymorph para sacar a un objetivo del combate. Blast Wave también aturde todo a tu alrededor. Las vallas, colinas y edificios cortan la línea de visión, y eso te da lanzamientos.
+Usa Frostbolt rango 1 para ralentizar a un objetivo a distancia, Cone of Cold como ralentización instantánea (los cuatro primeros objetivos se ralentizan más), y Polymorph para sacar a un objetivo del combate. Blast Wave también aturde todo a tu alrededor. Las vallas, colinas y edificios cortan la línea de visión, y eso te da lanzamientos.
 
 ## Tiempos de reutilización y utilidad
 

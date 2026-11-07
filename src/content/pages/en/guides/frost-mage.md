@@ -39,7 +39,7 @@ The Frost Mage in WoW Forever slows and freezes its targets, survives better tha
 
 - **Ice Lance is new.** A talent at level 20: instant, 45 mana, and 300% more damage to Frozen targets. It used to be 200%.
 - **Fingers of Frost is new.** Your Chill effects have a 15% chance to treat your next 2 spells as if the target were Frozen. That works on targets you cannot freeze, such as most bosses.
-- **Frost Blast** at level 24 is a weak, quick blast that slows the target by 40% for 9 seconds.
+- **Frost Blast** is gone: the development notes of 2 November removed it.
 - **Lower ranks proc less.** A lower rank of a spell has a much smaller chance to trigger effects. Rank 1 Frostbolt still slows, but no longer fishes for Frostbite or Fingers of Frost.
 
 ## Strengths and weaknesses
@@ -74,7 +74,7 @@ There is no room for both Frostbite and <a class="wf-wh wf-spell" href="https://
 
 | Talent | What it does in Forever |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | Frostbolt and Frost Blast cast 0.5 seconds faster at 5/5 |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | Frostbolt casts 0.5 seconds faster at 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29438"><img class="wf-wh__icon" src="/wh/spell_ice_magicdamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elemental Precision</a>** | 1% more chance to hit with Frost and Fire spells per point. Needed against enemies above your level |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a>** | Doubles the critical strike bonus of your Frost spells at 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>** | Chill effects have a 15% chance to freeze the target for 5 seconds at 3/3 |
@@ -116,7 +116,7 @@ If you expect a proc from the Frostbolt you are casting, press Ice Lance right a
 
 Frost keeps enemies away. Besides your slows, the way you move matters. Fences, hills, buildings and trees break line of sight, and an enemy has to walk around them while it is slowed. That works well against elites. Strafing can also disturb the path of a melee enemy, but not of every enemy, and not of casters. Against a caster, break line of sight when Counterspell is on cooldown.
 
-Frost Blast or rank 1 Frostbolt slow an enemy from a distance when you do not want it near you.
+Rank 1 Frostbolt slows an enemy from a distance when you do not want it near you.
 
 ## Mana
 

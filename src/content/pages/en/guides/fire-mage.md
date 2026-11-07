@@ -144,7 +144,7 @@ Fire spells cost a lot, but Fire needs less mana control than Arcane.
 
 Fire has less survival than Frost and no Ice Block. Kill a target before it kills you, and pick your fights. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> and Frost Nova get you out of most trouble. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> costs too much mana to use all the time, but Mana Shield with Evocation can save you as a last resort.
 
-Use Frost Blast or rank 1 Frostbolt to slow a target from a distance, Cone of Cold as an instant slow (the first four targets are slowed the most), and Polymorph to take a target out of the fight. Blast Wave also dazes everything around you. Fences, hills and buildings break line of sight, which buys you casts.
+Use rank 1 Frostbolt to slow a target from a distance, Cone of Cold as an instant slow (the first four targets are slowed the most), and Polymorph to take a target out of the fight. Blast Wave also dazes everything around you. Fences, hills and buildings break line of sight, which buys you casts.
 
 ## Cooldowns and utility
 

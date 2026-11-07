@@ -148,7 +148,7 @@ Desde la tercera acumulación de Arcane Blast, lanzar sin pensar es el camino m�
 
 Arcane sobrevive peor que Frost y no tiene Ice Block. Mata a un objetivo antes de que te mate, y elige tus combates. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> y Frost Nova te sacan de la mayoría de los apuros. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> cuesta demasiado maná para usarlo siempre, pero Mana Shield con Evocation puede salvarte como último recurso.
 
-Usa Frost Blast o Frostbolt rango 1 para ralentizar desde lejos, Cone of Cold como ralentización instantánea y Polymorph para sacar a un objetivo del combate. Vallas, colinas, edificios y árboles cortan la línea de visión: un enemigo tiene que rodearlos, y eso te da lanzamientos. Contra un lanzador de hechizos, corta la línea de visión cuando Counterspell esté en reutilización.
+Usa Frostbolt rango 1 para ralentizar desde lejos, Cone of Cold como ralentización instantánea y Polymorph para sacar a un objetivo del combate. Vallas, colinas, edificios y árboles cortan la línea de visión: un enemigo tiene que rodearlos, y eso te da lanzamientos. Contra un lanzador de hechizos, corta la línea de visión cuando Counterspell esté en reutilización.
 
 ## Reutilizaciones y utilidad
 

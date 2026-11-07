@@ -148,7 +148,7 @@ Ab dem dritten Stapel von Arcane Blast ist gedankenloses Zaubern der schnellste 
 
 Arcane überlebt schlechter als Frost und hat kein Ice Block. Töte ein Ziel, bevor es dich tötet, und wähle deine Kämpfe. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> und Frost Nova holen dich aus den meisten Schwierigkeiten. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> kostet zu viel Mana für den Dauereinsatz, aber Mana Shield mit Evocation kann dich als letzte Rettung retten.
 
-Nutze Frost Blast oder Frostbolt Rang 1, um ein Ziel aus der Ferne zu verlangsamen, Cone of Cold als sofortige Verlangsamung und Polymorph, um ein Ziel aus dem Kampf zu nehmen. Zäune, Hügel, Gebäude und Bäume unterbrechen die Sichtlinie: Ein Gegner muss um sie herumlaufen, und das gibt dir Zauber. Gegen einen Zauberwirker unterbrichst du die Sichtlinie, wenn Counterspell abklingt.
+Nutze Frostbolt Rang 1, um ein Ziel aus der Ferne zu verlangsamen, Cone of Cold als sofortige Verlangsamung und Polymorph, um ein Ziel aus dem Kampf zu nehmen. Zäune, Hügel, Gebäude und Bäume unterbrechen die Sichtlinie: Ein Gegner muss um sie herumlaufen, und das gibt dir Zauber. Gegen einen Zauberwirker unterbrichst du die Sichtlinie, wenn Counterspell abklingt.
 
 ## Abklingzeiten und Nützliches
 

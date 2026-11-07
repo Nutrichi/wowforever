@@ -148,7 +148,7 @@ Dalla terza carica di Arcane Blast, lanciare senza pensare è la via più breve 
 
 Arcane sopravvive meno di Frost e non ha Ice Block. Uccidi il bersaglio prima che uccida te, e scegli i tuoi combattimenti. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> e Frost Nova ti tirano fuori dalla maggior parte dei guai. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> costa troppo mana per usarlo sempre, ma Mana Shield con Evocation può salvarti come ultima risorsa.
 
-Usa Frost Blast o Frostbolt rango 1 per rallentare da lontano, Cone of Cold come rallentamento istantaneo e Polymorph per togliere un bersaglio dal combattimento. Recinti, colline, edifici e alberi interrompono la linea di vista: un nemico deve aggirarli, e questo ti dà lanci. Contro un incantatore, interrompi la linea di vista quando Counterspell è in ricarica.
+Usa Frostbolt rango 1 per rallentare da lontano, Cone of Cold come rallentamento istantaneo e Polymorph per togliere un bersaglio dal combattimento. Recinti, colline, edifici e alberi interrompono la linea di vista: un nemico deve aggirarli, e questo ti dà lanci. Contro un incantatore, interrompi la linea di vista quando Counterspell è in ricarica.
 
 ## Ricariche e utilità
 

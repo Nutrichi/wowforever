@@ -129,12 +129,12 @@ export const legacyPerks: LegacyPerk[] = [
   {
     name: 'Bountiful Harvest',
     text: {
-      en: '20% more Scarce materials from Mining, Herbalism and Skinning.',
-      nl: '20% meer Scarce-materialen uit Mining, Herbalism en Skinning.',
-      fr: '20 % de matériaux Scarce en plus avec Mining, Herbalism et Skinning.',
-      es: '20 % más de materiales Scarce con Mining, Herbalism y Skinning.',
-      it: '20% di materiali Scarce in più da Mining, Herbalism e Skinning.',
-      de: '20 % mehr Scarce-Materialien aus Mining, Herbalism und Skinning.',
+      en: '20% more likely to find Scarce materials from Mining, Herbalism and Skinning.',
+      nl: '20% meer kans op Scarce-materialen uit Mining, Herbalism en Skinning.',
+      fr: '20 % de chances en plus de trouver des matériaux Scarce avec Mining, Herbalism et Skinning.',
+      es: '20 % más de probabilidad de encontrar materiales Scarce con Mining, Herbalism y Skinning.',
+      it: '20% di probabilità in più di trovare materiali Scarce con Mining, Herbalism e Skinning.',
+      de: '20 % höhere Chance auf Scarce-Materialien aus Mining, Herbalism und Skinning.',
     },
   },
   {

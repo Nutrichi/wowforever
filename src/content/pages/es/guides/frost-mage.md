@@ -40,7 +40,7 @@ El Frost Mage de WoW Forever ralentiza y congela a sus objetivos, sobrevive mejo
 
 - **Ice Lance es nuevo.** Un talento a nivel 20: instantáneo, 45 de maná y un 300 % más de daño a objetivos Frozen. Antes era del 200 %.
 - **Fingers of Frost es nuevo.** Tus efectos de Chill tienen un 15 % de probabilidad de tratar tus 2 hechizos siguientes como si el objetivo estuviera Frozen. Funciona en objetivos que no se pueden congelar, como la mayoría de los jefes.
-- **Frost Blast** a nivel 24 es una ráfaga de escarcha débil y rápida que ralentiza al objetivo un 40 % durante 9 segundos.
+- **Frost Blast** ya no está: las notas de desarrollo del 2 de noviembre lo quitaron.
 - **Los rangos inferiores activan menos.** Un rango inferior de un hechizo tiene mucha menos probabilidad de activar efectos. Frostbolt de rango 1 sigue ralentizando, pero ya no busca Frostbite ni Fingers of Frost.
 
 ## Puntos fuertes y débiles
@@ -75,7 +75,7 @@ No hay sitio para Frostbite y <a class="wf-wh wf-spell" href="https://www.wowhea
 
 | Talento | Qué hace en Forever |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | Frostbolt y Frost Blast se lanzan 0,5 segundos más rápido a 5/5 |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | Frostbolt se lanza 0,5 segundos más rápido a 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29438"><img class="wf-wh__icon" src="/wh/spell_ice_magicdamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elemental Precision</a>** | Un 1 % más de probabilidad de golpe con hechizos de Frost y Fire por punto. Necesario contra enemigos de nivel superior |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a>** | Duplica la bonificación de crítico de tus hechizos de Frost a 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>** | Los efectos de Chill tienen un 15 % de probabilidad de congelar al objetivo 5 segundos a 3/3 |
@@ -117,7 +117,7 @@ Si esperas un proc del Frostbolt que estás lanzando, pulsa Ice Lance justo cuan
 
 Frost mantiene lejos a los enemigos. Además de tus ralentizaciones, importa cómo te mueves. Vallas, colinas, edificios y árboles cortan la línea de visión, y un enemigo ralentizado tiene que rodearlos. Eso funciona bien contra élites. Moverte de lado también puede alterar el camino de un enemigo cuerpo a cuerpo, pero no de todos, ni de los lanzadores. Contra un lanzador, corta la línea de visión cuando Counterspell esté en reutilización.
 
-Frost Blast o Frostbolt de rango 1 ralentizan a un enemigo desde lejos cuando no lo quieres cerca.
+Frostbolt de rango 1 ralentiza a un enemigo desde lejos cuando no lo quieres cerca.
 
 ## Maná
 

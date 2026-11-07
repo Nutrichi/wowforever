@@ -148,7 +148,7 @@ Avec Arcane, tout tourne autour du mana. Hors combat, <a class="wf-wh wf-spell" 
 
 Arcane survit moins bien que Frost et n’a pas Ice Block. Tuez une cible avant qu’elle ne vous tue, et choisissez vos combats. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> et Frost Nova vous sortent de la plupart des problèmes. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> coûte trop de mana pour un usage permanent, mais Mana Shield avec Evocation peut vous sauver en dernier recours.
 
-Utilisez Frost Blast ou Frostbolt rang 1 pour ralentir une cible de loin, Cone of Cold comme ralentissement instantané et Polymorph pour sortir une cible du combat. Les clôtures, collines, bâtiments et arbres coupent la ligne de vue : un ennemi doit les contourner, ce qui vous donne des incantations. Contre un lanceur de sorts, coupez la ligne de vue quand Counterspell est en recharge.
+Utilisez Frostbolt rang 1 pour ralentir une cible de loin, Cone of Cold comme ralentissement instantané et Polymorph pour sortir une cible du combat. Les clôtures, collines, bâtiments et arbres coupent la ligne de vue : un ennemi doit les contourner, ce qui vous donne des incantations. Contre un lanceur de sorts, coupez la ligne de vue quand Counterspell est en recharge.
 
 ## Temps de recharge et utilitaires
 

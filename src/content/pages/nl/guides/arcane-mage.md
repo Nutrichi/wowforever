@@ -148,7 +148,7 @@ Vanaf de derde stack van Arcane Blast is gedachteloos casten de snelste weg naar
 
 Arcane overleeft minder goed dan Frost en heeft geen Ice Block. Dood een doelwit voor het jou doodt, en kies je gevechten. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1953"><img class="wf-wh__icon" src="/wh/spell_arcane_blink.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blink</a> en Frost Nova halen je uit de meeste problemen. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1463"><img class="wf-wh__icon" src="/wh/spell_shadow_detectlesserinvisibility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mana Shield</a> kost te veel mana om altijd te gebruiken, maar Mana Shield met Evocation kan je als laatste redmiddel redden.
 
-Gebruik Frost Blast of Frostbolt rank 1 om een doelwit van ver te vertragen, Cone of Cold als directe slow en Polymorph om een doelwit uit het gevecht te halen. Hekken, heuvels, gebouwen en bomen breken de zichtlijn: een vijand moet eromheen lopen, en dat geeft je casts. Breek tegen een caster de zichtlijn als Counterspell op cooldown staat.
+Gebruik Frostbolt rank 1 om een doelwit van ver te vertragen, Cone of Cold als directe slow en Polymorph om een doelwit uit het gevecht te halen. Hekken, heuvels, gebouwen en bomen breken de zichtlijn: een vijand moet eromheen lopen, en dat geeft je casts. Breek tegen een caster de zichtlijn als Counterspell op cooldown staat.
 
 ## Cooldowns en utility
 

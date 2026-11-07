@@ -40,7 +40,7 @@ De Frost Mage in WoW Forever vertraagt en bevriest zijn doelen, overleeft beter 
 
 - **Ice Lance is nieuw.** Een talent op level 20: instant, 45 mana en 300% meer schade tegen Frozen doelen. Eerder was dat 200%.
 - **Fingers of Frost is nieuw.** Je Chill-effecten hebben 15% kans om je volgende 2 spells te behandelen alsof het doel Frozen is. Dat werkt op doelen die je niet kan bevriezen, zoals de meeste bazen.
-- **Frost Blast** op level 24 is een zwakke, snelle ijsstoot die het doel 9 seconden lang 40% vertraagt.
+- **Frost Blast** is weg: de ontwikkelnotities van 2 november haalden het eruit.
 - **Lagere ranks proccen minder.** Een lagere rank van een spell heeft een veel kleinere kans op effecten. Rank 1 Frostbolt vertraagt nog, maar lokt geen Frostbite of Fingers of Frost meer uit.
 
 ## Sterktes en zwaktes
@@ -75,7 +75,7 @@ Er is geen plaats voor zowel Frostbite als <a class="wf-wh wf-spell" href="https
 
 | Talent | Wat het doet in Forever |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | Frostbolt en Frost Blast casten 0,5 seconde sneller op 5/5 |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11070"><img class="wf-wh__icon" src="/wh/spell_frost_frostbolt02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Frostbolt</a>** | Frostbolt cast 0,5 seconde sneller op 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29438"><img class="wf-wh__icon" src="/wh/spell_ice_magicdamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elemental Precision</a>** | 1% meer kans om te raken met Frost- en Fire-spells per punt. Nodig tegen vijanden boven je level |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a>** | Verdubbelt de critical strike-bonus van je Frost-spells op 5/5 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>** | Chill-effecten hebben 15% kans om het doel 5 seconden te bevriezen op 3/3 |
@@ -117,7 +117,7 @@ Verwacht je een proc van de Frostbolt die je aan het casten bent, druk dan Ice L
 
 Frost houdt vijanden op afstand. Naast je vertragingen telt hoe je beweegt. Hekken, heuvels, gebouwen en bomen breken de zichtlijn, en een vijand moet eromheen lopen terwijl hij vertraagd is. Dat werkt goed tegen elites. Strafen kan ook het pad van een melee-vijand verstoren, maar niet van elke vijand, en niet van casters. Breek tegen een caster de zichtlijn als Counterspell op cooldown staat.
 
-Frost Blast of rank 1 Frostbolt vertragen een vijand van ver als je hem niet in je buurt wil.
+Rank 1 Frostbolt vertraagt een vijand van ver als je hem niet in je buurt wil.
 
 ## Mana
 
