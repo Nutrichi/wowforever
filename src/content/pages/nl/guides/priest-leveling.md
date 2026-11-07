@@ -162,6 +162,29 @@ Elke Priest krijgt twee racial spells, op level 10 en 20, via een classquest. In
 
 Meer over de wijzigingen staat in de [class deep dive](/nl/news/warriors-keep-rage-through-armor-and-every-priest-gets-fear-ward/).
 
+## Waar levelen
+
+Het laagste aanbevolen level per zone. De levels van de dungeons staan in de [dungeongids](/nl/guides/dungeons/).
+
+| Level | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/nl/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Wapens en wands
 
 Priests gebruiken daggers, eenhandige maces, staves en wands. Maces en wands horen bij de class; daggers en staves vragen een wapentrainer.

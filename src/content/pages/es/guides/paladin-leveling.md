@@ -203,6 +203,29 @@ Los Paladin tienen algunas misiones de clase con recompensas que merecen el viaj
 
 **Verigan's Fist** es la maza de dos manos de la Alliance y ahora tiene un efecto. Más en [este artículo](/es/news/verigans-fist-gets-a-proc-like-the-horde-blade/). La **Cloak of the Divine Storm** sale de una cadena que de momento solo la Alliance puede terminar, mira [este artículo](/es/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Los Paladin Forsaken consiguen en el nivel 60 [su propio corcel](/es/news/wow-forever-forsaken-charger/).
 
+## Dónde subir
+
+El nivel mínimo recomendado de cada zona. Los niveles de las mazmorras están en la [guía de mazmorras](/es/guides/dungeons/).
+
+| Nivel | Zonas |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/es/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Armas
 
 | Arma | Alliance | Horde |

@@ -182,7 +182,7 @@ With points in Talented from the Legacy system, you reach every talent up to fiv
 | 10 | Remorseless Attacks, Malice, Coup de Grace, Efficient Strikes, Setup, Opportunity, Master of Deception | Talent tree |
 | 14 | Expose Armor, Garrote | Class trainer |
 | 15 | Ruthlessness, Improved Slice and Dice, Precision, Improved Ambush | Talent tree |
-| 16 | Feint, Pick Lock | Class trainer |
+| 16 | Feint, [Pick Lock](/guides/lockpicking/) | Class trainer |
 | 18 | Ambush, Poised | Class trainer |
 | 20 | Poisons | Class quest |
 | 20 | Rupture | Class trainer |
@@ -215,6 +215,29 @@ At level 20 a chain of class quests teaches you Poisons.
 More class quests with item rewards are expected above level 30, which the beta did not reach.
 
 Every step of both chains, with the weak spot of each tough mob, is in the [Rogue Poisons guide](/guides/poisons/).
+
+## Where to level
+
+The lowest recommended level for each zone. The levels of the dungeons are in the [dungeon guide](/guides/dungeons/).
+
+| Level | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
 
 ## Weapons
 

@@ -162,6 +162,29 @@ Ogni Priest riceve due incantesimi razziali, ai livelli 10 e 20, tramite una mis
 
 I cambiamenti sono spiegati nel [class deep dive](/it/news/warriors-keep-rage-through-armor-and-every-priest-gets-fear-ward/).
 
+## Dove livellare
+
+Il livello minimo consigliato per ogni zona. I livelli dei dungeon sono nella [guida ai dungeon](/it/guides/dungeons/).
+
+| Livello | Zone |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/it/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Armi e bacchette
 
 I Priest usano pugnali, mazze a una mano, bastoni e bacchette. Mazze e bacchette vengono con la classe; pugnali e bastoni richiedono un istruttore d'armi.

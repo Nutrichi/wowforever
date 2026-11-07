@@ -183,7 +183,7 @@ Mit Punkten in Talented aus dem Legacy-System erreichst du jedes Talent bis zu f
 | 10 | Remorseless Attacks, Malice, Coup de Grace, Efficient Strikes, Setup, Opportunity, Master of Deception | Talentbaum |
 | 14 | Expose Armor, Garrote | Klassenlehrer |
 | 15 | Ruthlessness, Improved Slice and Dice, Precision, Improved Ambush | Talentbaum |
-| 16 | Feint, Pick Lock | Klassenlehrer |
+| 16 | Feint, [Pick Lock](/de/guides/lockpicking/) | Klassenlehrer |
 | 18 | Ambush, Poised | Klassenlehrer |
 | 20 | Poisons | Klassenquest |
 | 20 | Rupture | Klassenlehrer |
@@ -216,6 +216,29 @@ Auf Level 20 lehrt dich eine Reihe von Klassenquests die Poisons.
 Weitere Klassenquests mit Gegenständen als Belohnung werden über Level 30 erwartet, das die Beta nicht erreichte.
 
 Jeden Schritt beider Reihen, mit der Schwäche jedes harten Gegners, zeigt der [Guide zu den Poisons](/de/guides/poisons/).
+
+## Wo leveln
+
+Das niedrigste empfohlene Level pro Gebiet. Die Level der Dungeons stehen im [Dungeon-Guide](/de/guides/dungeons/).
+
+| Level | Gebiete |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/de/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
 
 ## Waffen
 

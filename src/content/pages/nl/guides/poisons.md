@@ -3,7 +3,7 @@ title: "Gids voor de Poisons van de Rogue in WoW Forever"
 metaTitle: "WoW Forever Rogue Poisons: quests, rangen, charges en reagents"
 description: "Zo krijgt een Rogue Poisons in WoW Forever: de quests van Alliance en Horde op level 20, elk gif en elke rang, de nieuwe charges, de reagents en wat er verandert voor crits en attack power."
 short: "Rogue Poisons"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: nl
 manual: true
 faq:
@@ -51,7 +51,7 @@ Een hogere rang doet meer schade en heeft meer charges, maar de kans blijft geli
 
 Op level 20 leert een reeks classquests je Poisons. Elke factie heeft een eigen reeks, en allebei sturen ze je een bewaakte toren in, met mobs die heel hard slaan. De reeks van de Horde is duidelijk de zwaarste.
 
-Voor allebei heb je **80 Lockpicking** nodig. Level 20 volstaat als je voorzichtig speelt, maar op level 22 krijg je Vanish en Distract, en dan wordt de reeks een stuk veiliger. Een groep of betere gear helpt ook. Elke lastige mob in de reeks heeft een zwakte voor een ability van de Rogue; notities in de quests wijzen ze aan, en de stappen hieronder noemen ze.
+Voor allebei heb je [**80 Lockpicking**](/nl/guides/lockpicking/) nodig. Level 20 volstaat als je voorzichtig speelt, maar op level 22 krijg je Vanish en Distract, en dan wordt de reeks een stuk veiliger. Een groep of betere gear helpt ook. Elke lastige mob in de reeks heeft een zwakte voor een ability van de Rogue; notities in de quests wijzen ze aan, en de stappen hieronder noemen ze.
 
 ### Alliance
 

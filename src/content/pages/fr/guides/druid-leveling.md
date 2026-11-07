@@ -3,7 +3,7 @@ title: "Monter un Druid dans WoW Forever : le guide"
 metaTitle: "Guide de leveling Druid WoW Forever : le build Feral du 10 au 60"
 description: "Monter un Druid dans WoW Forever : un build complet en Cat Form avec un talent par niveau de 10 à 60, la rotation, les niveaux clés, les quêtes de classe et les armes."
 short: "Leveling Druid"
-updated: 2026-11-05
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -154,6 +154,46 @@ Un Druid apprend la plupart de ses formes par des quêtes de classe. La quête d
 Les **Skyborne** suivent leur propre chemin au niveau 10. Bear Form vient de <a href="https://www.wowhead.com/forever/quest=94006">The Great Ursera Spirit</a> sur Zephras Isle, et Teleport: Moonglade de la quête Moonglade, qui commence à Stormwind pour le High Order et à Thunder Bluff pour les Windshapers. Au 20, ils ont The Great Windborne Cat Spirit : la même suite, avec l'Avatar of Saeyleenan au lieu du Great Cat Spirit.
 
 Les quêtes de Cat Form sont nouvelles dans Forever. Vous parlez à Dendrite Starblaze à Moonglade, cherchez le Great Cat Spirit dans le sud de Moonglade, récupérez trois reliques dans le Stormrage Barrow Den et retournez voir Dendrite. Un bug empêchait les druides de ramasser ces reliques ; un correctif du 16 octobre l'a réglé ([plus](/fr/news/a-hotfix-lets-druids-loot-the-cat-form-relics/)).
+
+### Skyborne, étape par étape
+
+**Bear Form, niveau 10.** Les deux factions commencent sur Zephras Isle : la quête est la même pour le High Order et les Windshapers.
+
+1. Lotheluum Starbreeze, le maître des Druides à Valanaar (/way 64.0 75.1), donne <a href="https://www.wowhead.com/forever/quest=94006">The Great Ursera Spirit</a>. Elle vous envoie au Great Windborne Bear Spirit, Urs'endris, sur un petit îlot à l'est de Zephras Isle (/way 69.8 61.7).
+2. Urs'endris donne <a href="https://www.wowhead.com/forever/quest=94638">Strength and Mercy</a> : sa compagne Ur'endra est devenue folle. Elle attend dans une grotte au sommet d'une colline des Shen'dar Highlands, au sud de l'île (vers /way 53.9 65.4).
+3. Tuez Ur'endra et revenez voir Urs'endris. Vous apprenez Bear Form, Growl et Maul.
+
+**Cat Form, niveau 20.**
+
+1. Votre maître des Druides donne The Great Cat Spirit : Mathrengyl Bearwalker dans le Cenarion Enclave de Darnassus (/way 35.2 8.3) ou Turak Runetotem sur l'Elder Rise de Thunder Bluff (/way 76.6 27.6).
+2. Utilisez Teleport: Moonglade et montez à l'étage du bâtiment juste devant vous. Dendrite Starblaze à Nighthaven (/way 56.2 30.5) donne <a href="https://www.wowhead.com/forever/quest=98341">The Great Windborne Cat Spirit</a>.
+3. L'Avatar of Saeyleenan, au sud de Moonglade (/way 44.0 73.5), donne l'étape suivante, aussi appelée <a href="https://www.wowhead.com/forever/quest=98404">The Great Windborne Cat Spirit</a>, et vous envoie au Stormrage Barrow Den à l'est (/way 71.8 61.9).
+4. Juste après l'entrée, cliquez sur le Great Cat Spirit Statue. Son buff, Feline Blessing of the Silent Shadow, vous fait traverser le tertre sans être vu.
+5. Ramassez trois reliques, chacune devant une statue de chat : la Relic of the Claw de l'autre côté du pont dans la première salle, la Relic of the Fang dans une petite pièce un niveau plus bas et la Relic of the Silent Shadow au centre de la salle sous le pont.
+6. Rapportez les reliques à l'Avatar, prenez <a href="https://www.wowhead.com/forever/quest=98738">Blessings of the Great Windborne Cat Spirit</a> et parlez à Dendrite à Nighthaven. Back to Darnassus ou Back to Thunder Bluff vous renvoie à votre maître, qui enseigne Cat Form, Claw, Prowl et Rip.
+
+## Où monter
+
+Le niveau minimum conseillé pour chaque zone. Les niveaux des donjons sont dans le [guide des donjons](/fr/guides/dungeons/).
+
+| Niveau | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/fr/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
 
 ## Armes
 

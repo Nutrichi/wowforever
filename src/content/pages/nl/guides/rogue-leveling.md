@@ -183,7 +183,7 @@ Met punten in Talented uit het Legacy-systeem haal je elk talent tot vijf levels
 | 10 | Remorseless Attacks, Malice, Coup de Grace, Efficient Strikes, Setup, Opportunity, Master of Deception | Talentboom |
 | 14 | Expose Armor, Garrote | Classtrainer |
 | 15 | Ruthlessness, Improved Slice and Dice, Precision, Improved Ambush | Talentboom |
-| 16 | Feint, Pick Lock | Classtrainer |
+| 16 | Feint, [Pick Lock](/nl/guides/lockpicking/) | Classtrainer |
 | 18 | Ambush, Poised | Classtrainer |
 | 20 | Poisons | Classquest |
 | 20 | Rupture | Classtrainer |
@@ -216,6 +216,29 @@ Op level 20 leert een reeks classquests je Poisons.
 Meer classquests met items als beloning worden verwacht boven level 30, dat de beta niet haalde.
 
 Elke stap van beide reeksen, met de zwakte van elke lastige mob, staat in de [gids voor de Poisons](/nl/guides/poisons/).
+
+## Waar levelen
+
+Het laagste aanbevolen level per zone. De levels van de dungeons staan in de [dungeongids](/nl/guides/dungeons/).
+
+| Level | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/nl/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
 
 ## Wapens
 

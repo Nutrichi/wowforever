@@ -202,6 +202,29 @@ Paladins have a few class quests with rewards worth the trip. Forsaken Paladins 
 
 **Verigan's Fist** is the two-handed mace of the Alliance and now has a proc. More in [this post](/news/verigans-fist-gets-a-proc-like-the-horde-blade/). The **Cloak of the Divine Storm** comes from a chain that only the Alliance can finish for now, see [this post](/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Forsaken Paladins get a [charger of their own](/news/wow-forever-forsaken-charger/) at level 60.
 
+## Where to level
+
+The lowest recommended level for each zone. The levels of the dungeons are in the [dungeon guide](/guides/dungeons/).
+
+| Level | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Weapons
 
 | Weapon | Alliance | Horde |

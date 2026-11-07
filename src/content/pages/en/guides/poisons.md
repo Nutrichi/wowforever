@@ -3,7 +3,7 @@ title: "Rogue Poisons guide for WoW Forever"
 metaTitle: "WoW Forever Rogue Poisons: quests, ranks, charges and reagents"
 description: "How a Rogue unlocks Poisons in WoW Forever: the Alliance and Horde quests at level 20, every poison and rank, the new charges, the reagents and what changed for crits and attack power."
 short: "Rogue Poisons"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: en
 faq:
   - q: "When can a Rogue make Poisons in WoW Forever?"
@@ -50,7 +50,7 @@ A higher rank deals more damage and has more charges, but the chance to apply st
 
 At level 20 a class quest chain teaches you Poisons. Each faction has its own chain, and both send you into a guarded tower with mobs that hit very hard. The Horde chain is clearly the harder one.
 
-You need **80 Lockpicking** for both. Level 20 is enough if you play carefully, but at level 22 you get Vanish and Distract, and the chain becomes much safer. A group or better gear helps too. Every tough mob in the chain has a weakness for a Rogue ability; notes in the quests point them out, and the steps below name them.
+You need [**80 Lockpicking**](/guides/lockpicking/) for both. Level 20 is enough if you play carefully, but at level 22 you get Vanish and Distract, and the chain becomes much safer. A group or better gear helps too. Every tough mob in the chain has a weakness for a Rogue ability; notes in the quests point them out, and the steps below name them.
 
 ### Alliance
 

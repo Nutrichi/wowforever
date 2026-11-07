@@ -226,6 +226,29 @@ Les Warlocks de la Horde choisissent entre la quête du Voidwalker d'Orgrimmar e
 
 **<a href="https://www.wowhead.com/forever/quest=1740">The Orb of Soran'ruk</a>** vient de Doan Karhan dans les Barrens. Vous choisissez entre <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> et <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>. Les fragments viennent de [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) et de [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/).
 
+## Où monter
+
+Le niveau minimum conseillé pour chaque zone. Les niveaux des donjons sont dans le [guide des donjons](/fr/guides/dungeons/).
+
+| Niveau | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/fr/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Armes
 
 Votre arme sert surtout de support de stats. Les dégâts des sorts qu'elle ajoute comptent bien plus que ses propres dégâts, alors changez-la dès que vous trouvez mieux.

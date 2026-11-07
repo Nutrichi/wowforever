@@ -203,6 +203,29 @@ Les Paladins ont quelques quêtes de classe dont les récompenses valent le dét
 
 **Verigan's Fist** est la masse à deux mains de l'Alliance et a désormais un effet. Plus d'infos dans [cet article](/fr/news/verigans-fist-gets-a-proc-like-the-horde-blade/). La **Cloak of the Divine Storm** vient d'une chaîne que seule l'Alliance peut terminer pour l'instant, voir [cet article](/fr/news/paladins-earn-a-cloak-only-the-alliance-can-get/). Les Paladins Forsaken obtiennent au niveau 60 [leur propre destrier](/fr/news/wow-forever-forsaken-charger/).
 
+## Où monter
+
+Le niveau minimum conseillé pour chaque zone. Les niveaux des donjons sont dans le [guide des donjons](/fr/guides/dungeons/).
+
+| Niveau | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/fr/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Armes
 
 | Arme | Alliance | Horde |

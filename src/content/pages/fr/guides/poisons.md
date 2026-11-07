@@ -3,7 +3,7 @@ title: "Guide des Poisons du Rogue dans WoW Forever"
 metaTitle: "WoW Forever, Poisons du Rogue : quêtes, rangs, charges, composants"
 description: "Les Poisons du Rogue dans WoW Forever : les quêtes Alliance et Horde au niveau 20, chaque poison et rang, les nouvelles charges, les composants et ce qui change."
 short: "Rogue Poisons"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: fr
 manual: true
 faq:
@@ -51,7 +51,7 @@ Un rang supérieur fait plus de dégâts et a plus de charges, mais la chance re
 
 Au niveau 20, une suite de quêtes de classe vous apprend les Poisons. Chaque faction a la sienne, et les deux vous envoient dans une tour gardée, avec des monstres qui frappent très fort. La suite de la Horde est nettement la plus dure.
 
-Il faut **80 en Lockpicking** dans les deux cas. Le niveau 20 suffit si vous jouez prudemment, mais au niveau 22 vous obtenez Vanish et Distract, et la suite devient bien plus sûre. Un groupe ou un meilleur équipement aide aussi. Chaque monstre coriace de la suite a un point faible face à une technique du Rogue ; des notes dans les quêtes les signalent, et les étapes ci-dessous les nomment.
+Il faut [**80 en Lockpicking**](/fr/guides/lockpicking/) dans les deux cas. Le niveau 20 suffit si vous jouez prudemment, mais au niveau 22 vous obtenez Vanish et Distract, et la suite devient bien plus sûre. Un groupe ou un meilleur équipement aide aussi. Chaque monstre coriace de la suite a un point faible face à une technique du Rogue ; des notes dans les quêtes les signalent, et les étapes ci-dessous les nomment.
 
 ### Alliance
 

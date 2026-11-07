@@ -3,7 +3,7 @@ title: "Guide zu den Poisons des Rogues in WoW Forever"
 metaTitle: "WoW Forever Rogue Poisons: Quests, Ränge, Ladungen und Reagenzien"
 description: "So schaltet ein Rogue in WoW Forever Poisons frei: die Quests von Allianz und Horde ab Level 20, jedes Gift und jeder Rang, die neuen Ladungen, die Reagenzien und was sich ändert."
 short: "Rogue Poisons"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: de
 manual: true
 faq:
@@ -51,7 +51,7 @@ Ein höherer Rang macht mehr Schaden und hat mehr Ladungen, die Chance bleibt ab
 
 Auf Level 20 bringt dir eine Reihe von Klassenquests Poisons bei. Jede Fraktion hat ihre eigene, und beide schicken dich in einen bewachten Turm mit Gegnern, die sehr hart zuschlagen. Die Reihe der Horde ist klar die schwerere.
 
-Für beide brauchst du **80 Lockpicking**. Level 20 reicht, wenn du vorsichtig spielst, aber auf Level 22 bekommst du Vanish und Distract, und die Reihe wird viel sicherer. Eine Gruppe oder bessere Ausrüstung hilft ebenfalls. Jeder harte Gegner der Reihe hat eine Schwäche gegen eine Fähigkeit des Rogues; Notizen in den Quests weisen darauf hin, und die Schritte unten nennen sie.
+Für beide brauchst du [**80 Lockpicking**](/de/guides/lockpicking/). Level 20 reicht, wenn du vorsichtig spielst, aber auf Level 22 bekommst du Vanish und Distract, und die Reihe wird viel sicherer. Eine Gruppe oder bessere Ausrüstung hilft ebenfalls. Jeder harte Gegner der Reihe hat eine Schwäche gegen eine Fähigkeit des Rogues; Notizen in den Quests weisen darauf hin, und die Schritte unten nennen sie.
 
 ### Allianz
 

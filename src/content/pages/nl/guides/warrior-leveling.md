@@ -191,6 +191,29 @@ Warriors hebben een paar belangrijke classquests. De belangrijkste ontgrendelen 
 
 De reeks voor Humans begint in Stormwind met <a href="https://www.wowhead.com/forever/quest=1639">Bartleby the Drunk</a>. Path of Defense komt van Uzzek in the Barrens. The Affray begint bij Klannoc Macleod in the Barrens en heeft een timer van 10 minuten. Whirlwind Weapon komt van Bath'rah the Windwatcher in Alterac Mountains en is een lange reeks: je kan ze op 30 beginnen, maar de meeste spelers maken ze later af.
 
+## Waar levelen
+
+Het laagste aanbevolen level per zone. De levels van de dungeons staan in de [dungeongids](/nl/guides/dungeons/).
+
+| Level | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/nl/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Wapens
 
 Een Warrior kan elk wapen gebruiken behalve wands, maar de meeste leer je bij een wapentrainer.

@@ -191,6 +191,29 @@ Les Warriors ont quelques quêtes de classe importantes. Les plus importantes d�
 
 La chaîne des Humans commence à Stormwind avec <a href="https://www.wowhead.com/forever/quest=1639">Bartleby the Drunk</a>. Path of Defense vient d'Uzzek dans les Barrens. The Affray commence auprès de Klannoc Macleod dans les Barrens et a une limite de 10 minutes. Whirlwind Weapon vient de Bath'rah the Windwatcher dans les Alterac Mountains et c'est une longue chaîne : vous pouvez la commencer au 30, mais la plupart des joueurs la terminent plus tard.
 
+## Où monter
+
+Le niveau minimum conseillé pour chaque zone. Les niveaux des donjons sont dans le [guide des donjons](/fr/guides/dungeons/).
+
+| Niveau | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/fr/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Armes
 
 Un Warrior peut utiliser toutes les armes sauf les baguettes, mais vous apprenez la plupart auprès d'un maître d'armes.

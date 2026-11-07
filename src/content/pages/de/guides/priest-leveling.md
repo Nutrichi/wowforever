@@ -162,6 +162,29 @@ Jeder Priest bekommt zwei Volkszauber, auf Level 10 und 20, über eine Klassenqu
 
 Mehr zu den Änderungen steht im [Class Deep Dive](/de/news/warriors-keep-rage-through-armor-and-every-priest-gets-fear-ward/).
 
+## Wo leveln
+
+Das niedrigste empfohlene Level pro Gebiet. Die Level der Dungeons stehen im [Dungeon-Guide](/de/guides/dungeons/).
+
+| Level | Gebiete |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/de/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Waffen und Zauberstäbe
 
 Priests nutzen Dolche, Einhandstreitkolben, Stäbe und Zauberstäbe. Streitkolben und Zauberstäbe gehören zur Klasse; Dolche und Stäbe brauchen einen Waffenlehrer.

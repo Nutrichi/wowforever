@@ -129,6 +129,8 @@ export const hubCategories: HubCategory[] = [
       { key: 'subtlety-rogue', image: '2026-10-24-wow-forever-subtlety-rogue-build.jpg' },
       // Rogue Poisons (27 oktober 2026).
       { key: 'poisons', image: '2026-10-27-wow-forever-poisons-window.jpg' },
+      // Rogue Lockpicking (7 november 2026).
+      { key: 'lockpicking', image: '2026-10-16-wow-forever-gold-and-chests.jpg' },
       { key: 'druid-leveling', image: '2026-10-06-wow-forever-feral-druid-cat-art.jpg' },
       { key: 'warlock-leveling', image: '2026-10-16-wow-forever-troll-warlock-casting.jpg' },
       { key: 'paladin-leveling', image: '2026-10-18-wow-forever-dwarf-paladin-holy-light.jpg' },

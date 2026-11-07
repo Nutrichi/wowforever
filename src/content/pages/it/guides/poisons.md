@@ -3,7 +3,7 @@ title: "Guida ai Poisons del Rogue in WoW Forever"
 metaTitle: "WoW Forever, Poisons del Rogue: missioni, ranghi, cariche e reagenti"
 description: "Come un Rogue sblocca i Poisons in WoW Forever: le missioni di Alleanza e Orda al livello 20, ogni veleno e rango, le nuove cariche, i reagenti e cosa cambia per critici e potenza d'attacco."
 short: "Rogue Poisons"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -51,7 +51,7 @@ Un rango più alto fa più danni e ha più cariche, ma la probabilità resta ugu
 
 Al livello 20 una catena di missioni di classe ti insegna i Poisons. Ogni fazione ha la sua, ed entrambe ti mandano in una torre sorvegliata, con nemici che colpiscono molto forte. La catena dell'Orda è nettamente la più dura.
 
-In entrambi i casi servono **80 di Lockpicking**. Il livello 20 basta se giochi con prudenza, ma al livello 22 ottieni Vanish e Distract, e la catena diventa molto più sicura. Aiutano anche un gruppo o un equipaggiamento migliore. Ogni nemico tosto della catena ha un punto debole contro un'abilità del Rogue; delle note nelle missioni lo indicano, e i passi qui sotto lo nominano.
+In entrambi i casi servono [**80 di Lockpicking**](/it/guides/lockpicking/). Il livello 20 basta se giochi con prudenza, ma al livello 22 ottieni Vanish e Distract, e la catena diventa molto più sicura. Aiutano anche un gruppo o un equipaggiamento migliore. Ogni nemico tosto della catena ha un punto debole contro un'abilità del Rogue; delle note nelle missioni lo indicano, e i passi qui sotto lo nominano.
 
 ### Alleanza
 

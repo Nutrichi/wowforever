@@ -190,6 +190,29 @@ Warriors have a few important class quests. The most important ones unlock Defen
 
 The human chain starts in Stormwind with <a href="https://www.wowhead.com/forever/quest=1639">Bartleby the Drunk</a>. Path of Defense comes from Uzzek in the Barrens. The Affray starts with Klannoc Macleod in the Barrens and has a 10 minute timer. Whirlwind Weapon comes from Bath'rah the Windwatcher in Alterac Mountains and is a long chain: you can start it at 30, but most players finish it later.
 
+## Where to level
+
+The lowest recommended level for each zone. The levels of the dungeons are in the [dungeon guide](/guides/dungeons/).
+
+| Level | Zones |
+|---|---|
+| **1** | Elwynn Forest, Dun Morogh, Teldrassil, [Zephras Isle](/guides/zephras-isle/), Durotar, Mulgore, Tirisfal Glades |
+| **10** | Westfall, Loch Modan, Darkshore, The Barrens, Silverpine Forest |
+| **15** | Redridge Mountains, Stonetalon Mountains |
+| **18** | Ashenvale |
+| **20** | Wetlands, Hillsbrad Foothills, Duskwood |
+| **25** | Thousand Needles |
+| **30** | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
+| **35** | Badlands, Dustwallow Marsh, Feralas, Riverglades, Swamp of Sorrows |
+| **40** | Shen'dralas, Tanaris, The Hinterlands |
+| **43** | Searing Gorge |
+| **45** | Azshara, Felwood, Blasted Lands |
+| **48** | Un'Goro Crater |
+| **50** | Burning Steppes, Western Plaguelands |
+| **53** | Winterspring, Eastern Plaguelands |
+| **55** | Silithus, Deadwind Pass |
+| **60** | Mount Hyjal |
+
 ## Weapons
 
 A Warrior can use every weapon except wands, but you learn most of them from a weapon trainer.
