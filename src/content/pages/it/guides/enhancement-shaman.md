@@ -3,7 +3,7 @@ title: "Guida all'Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totem"
 description: "L'Enhancement Shaman in WoW Forever: la build di livello 30 e la versione Talented, Stormstrike e Maelstrom Weapon, la rotazione, i totem, il mana, il tanking, le stats e le razze."
 short: "Enhancement Shaman"
-updated: 2026-11-04
+updated: 2026-11-07
 lang: it
 manual: true
 faq:
@@ -147,6 +147,8 @@ Il tanking funziona durante il leveling, con degli svantaggi: nessun vero taunt,
 - **Abilità:** Rockbiter Weapon per danni e minaccia, Lightning Shield sempre attivo, Earth Shock appena pronto per più minaccia. Il resto della rotazione non cambia. Aggiungi Stoneskin Totem quando puoi.
 
 ## Stats ed equipaggiamento
+
+> **Aggiornamento del 7 novembre:** con gli hotfix del 10 novembre la Forza diventa la stat migliore per l'Enhancement, e Blizzard consiglia di tenere l'equipaggiamento con Forza e potenza d'attacco durante il leveling. I consigli su Intelletto e potere magico qui sotto cambieranno allora, di più nel [nostro articolo](/it/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
 
 Le priorità delle stats per il livello 60 arriveranno dopo il lancio. Fino ad allora:
 
