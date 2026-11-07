@@ -89,7 +89,7 @@ Deux choix possibles :
 | **Rapid Killing** | Rapid Fire revient 2 minutes plus tôt, et une mise à mort ou une mort sous votre Serpent Sting donne plus de dégâts à votre tir suivant |
 | **Improved Arcane Shot** | Arcane Shot revient 1,5 seconde plus tôt |
 | **Lone Wolf** | 20 % de dégâts en plus avec toutes les attaques sans familier actif |
-| **Trueshot Aura** | 30 de puissance d'attaque à distance pour votre groupe ou raid |
+| **Trueshot Aura** | 20 de puissance d'attaque à distance pour votre groupe ou raid, 35 dès le rang 2 au niveau 32 |
 | **Mortal Shots** | Les coups critiques des techniques à distance infligent 30 % de dégâts supplémentaires en plus |
 | **Rapid Recuperation** | Serpent Sting laisse 50 % de votre régénération de mana continuer pendant l'incantation pendant 15 secondes, 100 % après Rapid Killing |
 | **Barrage** | Multi-Shot, Aimed Shot et Volley infligent 10 % de dégâts en plus |

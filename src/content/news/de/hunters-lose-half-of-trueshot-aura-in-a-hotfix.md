@@ -40,7 +40,7 @@ Trueshot Aura ist das Marksmanship-Talent, das jedem Gruppen- oder Raidmitglied 
 | **3** | 50 | 30 |
 | **4** | 75 | 40 |
 
-Der [Guide zum Marksmanship Hunter](/de/guides/marksmanship-hunter/) nennt noch den alten Wert von 30 auf Rang 1.
+Der [Guide zum Marksmanship Hunter](/de/guides/marksmanship-hunter/) folgt jetzt Build 70862 vom 7. November: 20 auf Rang 1 und 35 auf Rang 2.
 
 ## Elixir of Wisdom
 

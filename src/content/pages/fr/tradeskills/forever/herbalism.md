@@ -1,9 +1,9 @@
 ---
 title: "Herbalism dans WoW Forever : maîtres, progression et nouvelles herbes"
-metaTitle: "Guide Herbalism de WoW Forever : maîtres, progression de 1 à 225, graines et nouvelles herbes"
-description: "Herbalism dans WoW Forever : chaque maître, le parcours de 1 à 225, le racial tauren renforcé, l’équipement qui augmente la compétence, les graines, les matériaux Scarce, les nouvelles herbes et les objets de camp."
+metaTitle: "WoW Forever Herbalism : maîtres, de 1 à 300 et nouvelles herbes"
+description: "Herbalism dans WoW Forever : chaque maître, le parcours de 1 à 300, le racial tauren renforcé, l’équipement qui augmente la compétence, les graines, les matériaux Scarce, les nouvelles herbes et les objets de camp."
 short: "Herbalism"
-updated: 2026-10-03
+updated: 2026-11-07
 lang: fr
 faq:
   - q: "Les Taurens ont-ils encore un bonus d’Herbalism dans WoW Forever ?"
@@ -11,6 +11,8 @@ faq:
   - q: "Faut-il un outil pour Herbalism ?"
     a: "Non. Activez Find Herbs pour voir les herbes sur la minicarte, et cueillez toute herbe que votre compétence permet."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/herbalism/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/herbalism/overview-leveling"
 manual: true
@@ -69,7 +71,7 @@ Trois maîtres des zones de départ n’enseignent qu’Apprentice. Les autres e
 | Les deux | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=908">Flora Silverwind</a> | Booty Bay, Stranglethorn Vale | 27.6 77.6 | Tous les rangs |
 | Les deux | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12025">Malvor</a> | Nighthaven, Moonglade | 45.6 46.8 | Tous les rangs |
 
-## Progresser de 1 à 225
+## Progresser de 1 à 300
 
 | Compétence | Herbes | Où |
 |---|---|---|
@@ -78,8 +80,10 @@ Trois maîtres des zones de départ n’enseignent qu’Apprentice. Les autres e
 | 115 à 170 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3820"><img class="wf-wh__icon" src="/wh/inv_misc_herb_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Stranglekelp</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2453"><img class="wf-wh__icon" src="/wh/inv_misc_herb_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bruiseweed</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3355"><img class="wf-wh__icon" src="/wh/inv_misc_flower_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wild Steelbloom</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3356"><img class="wf-wh__icon" src="/wh/inv_misc_herb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Kingsblood</a> dès 125, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3357"><img class="wf-wh__icon" src="/wh/inv_misc_root_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Liferoot</a> dès 150 | Hillsbrad Foothills, Wetlands, Stonetalon Mountains |
 | 170 à 205 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3356"><img class="wf-wh__icon" src="/wh/inv_misc_herb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Kingsblood</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3357"><img class="wf-wh__icon" src="/wh/inv_misc_root_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Liferoot</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3818"><img class="wf-wh__icon" src="/wh/inv_misc_herb_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fadeleaf</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3821"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goldthorn</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3358"><img class="wf-wh__icon" src="/wh/inv_misc_herb_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Khadgar's Whisker</a> dès 185 | Stranglethorn Vale, Arathi Highlands |
 | 205 à 225 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3818"><img class="wf-wh__icon" src="/wh/inv_misc_herb_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fadeleaf</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3821"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goldthorn</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3358"><img class="wf-wh__icon" src="/wh/inv_misc_herb_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Khadgar's Whisker</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3819"><img class="wf-wh__icon" src="/wh/inv_misc_flower_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wintersbite</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4625"><img class="wf-wh__icon" src="/wh/inv_misc_herb_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Firebloom</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8831"><img class="wf-wh__icon" src="/wh/inv_misc_herb_17.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Purple Lotus</a> | Alterac Mountains, Tanaris, Searing Gorge |
+| 225 à 270 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8831"><img class="wf-wh__icon" src="/wh/inv_misc_herb_17.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Purple Lotus</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4625"><img class="wf-wh__icon" src="/wh/inv_misc_herb_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Firebloom</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8838"><img class="wf-wh__icon" src="/wh/inv_misc_herb_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sungrass</a> dès 230, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8845"><img class="wf-wh__icon" src="/wh/inv_mushroom_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghost Mushroom</a> dès 245, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8846"><img class="wf-wh__icon" src="/wh/inv_misc_herb_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gromsblood</a> dès 250, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13464"><img class="wf-wh__icon" src="/wh/inv_misc_herb_sansamroot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Golden Sansam</a> dès 260 | The Hinterlands, Tanaris, Searing Gorge |
+| 270 à 300 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13464"><img class="wf-wh__icon" src="/wh/inv_misc_herb_sansamroot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Golden Sansam</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13463"><img class="wf-wh__icon" src="/wh/inv_misc_herb_dreamfoil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dreamfoil</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13465"><img class="wf-wh__icon" src="/wh/inv_misc_herb_mountainsilversage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mountain Silversage</a> dès 280, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13466"><img class="wf-wh__icon" src="/wh/inv_misc_herb_plaguebloom.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plaguebloom</a> dès 285, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13467"><img class="wf-wh__icon" src="/wh/inv_misc_herb_icecap.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Icecap</a> dès 290 | Felwood, Un'Goro Crater, Winterspring, Eastern et Western Plaguelands |
 
-Stranglekelp ne pousse que sous l’eau, et Wintersbite que dans la neige des Alterac Mountains. Aucun parcours de 225 à 300 n’est encore connu.
+Stranglekelp ne pousse que sous l’eau, et Wintersbite que dans la neige des Alterac Mountains. Le Ghost Mushroom pousse dans les grottes, comme la grotte des trolls de The Hinterlands. Le Black Lotus demande 300 et ne donne donc plus de compétence.
 
 ## L’équipement qui augmente la compétence
 

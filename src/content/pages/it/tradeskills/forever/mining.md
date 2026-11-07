@@ -1,9 +1,9 @@
 ---
 title: "Mining in WoW Forever: istruttori, salire e nuovi minerali"
-metaTitle: "Guida Mining di WoW Forever: istruttori, salire da 1 a 225, vene, fusione e nuove barre"
-description: "Mining in WoW Forever: ogni istruttore, come salire fondendo fino a 185 e minando fino a 225, ogni vena con la sua abilità, la tabella di fusione, le nuove barre e il nuovo minerale, e i tre oggetti da campo."
+metaTitle: "WoW Forever Mining: istruttori, da 1 a 300, vene e nuove barre"
+description: "Mining in WoW Forever: ogni istruttore, come salire fondendo fino a 185 e minando fino a 300, ogni vena con la sua abilità, la tabella di fusione, le nuove barre e il nuovo minerale, e i tre oggetti da campo."
 short: "Mining"
-updated: 2026-10-03
+updated: 2026-11-07
 lang: it
 faq:
   - q: "Fin dove si sale con Mining fondendo in WoW Forever?"
@@ -11,6 +11,8 @@ faq:
   - q: "Si può imparare Mining senza istruttore?"
     a: "Sì. Una delle prime missioni delle zone iniziali fa scegliere Mining for Dummies, che insegna Apprentice Mining se hai meno di due professioni primarie."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/mining/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/mining/overview-leveling"
 manual: true
@@ -27,6 +29,7 @@ Mining è una professione di raccolta: estrai minerale dalle vene e lo fondi in 
 - **Nuove barre e nuovo minerale** per l’endgame: <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251290"><img class="wf-wh__icon" src="/wh/inv_blacksmithing_70_demonsteelbar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Legionite Bar</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251291"><img class="wf-wh__icon" src="/wh/item_elementiumbar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Thorium Bar</a> e <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249726"><img class="wf-wh__icon" src="/wh/inv_ingot_livingsteel.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azerothium Bar</a>, e il minerale <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=248815"><img class="wf-wh__icon" src="/wh/inv_ore_oxxein.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Thorium Ore</a>. Per ora le Legionite Bars sembrano arrivare solo dagli alchimisti che trasmutano Heavy Thorium Bars.
 - **Materiali Scarce.** Minando a volte ottieni <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249391"><img class="wf-wh__icon" src="/wh/inv_ore_pyrite_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pyrite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249425"><img class="wf-wh__icon" src="/wh/inv_ore_manticytenugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bauxite</a> o <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249426"><img class="wf-wh__icon" src="/wh/inv_ore_elethium_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pitchblende</a> oltre al minerale; vedi l’[articolo sui materiali Scarce](/it/news/every-gathering-node-can-drop-a-scarce-material/).
 - **Un inizio gratis.** Una delle prime missioni di ogni zona iniziale fa scegliere <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=247840"><img class="wf-wh__icon" src="/wh/inv_10_specialization_professionbook_mining_orig.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mining for Dummies</a>, che insegna Apprentice Mining.
+- **Ricompaiono prima.** Le vene tornano più in fretta quando ci sono più giocatori in giro, e le zone iniziali come Northshire hanno Poor Copper Veins da minare dal livello 1.
 
 **Una buona coppia:** Herbalism, perché incontri erbe sugli stessi percorsi, oppure Blacksmithing ed Engineering, che usano le tue barre. I druidi evitano gli scontri con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=9913"><img class="wf-wh__icon" src="/wh/ability_ambush.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prowl</a> e <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=783"><img class="wf-wh__icon" src="/wh/ability_druid_travelform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Travel Form</a>; cacciatori e stregoni lasciano che il famiglio tenga un mostro mentre minano, e un cacciatore esce dal combattimento con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5384"><img class="wf-wh__icon" src="/wh/ability_rogue_feigndeath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Feign Death</a>.
 
@@ -75,7 +78,7 @@ Fondere dà abilità fino a 185. In base ai prezzi, compra il minerale, estrailo
 
 Tieni 60 Copper Bars dal primo passo e 60 Tin Bars dal secondo: il passo del bronzo ne ha bisogno. Lista della spesa: 130 Copper Ore, 60 Tin Ore, 70 Silver Ore, 35 Iron Ore e 60 Gold Ore.
 
-## Salire minando, 1 a 225
+## Salire minando, 1 a 300
 
 Ogni vena dà al massimo un punto di abilità, per quante volte la colpisci.
 
@@ -85,8 +88,11 @@ Ogni vena dà al massimo un punto di abilità, per quante volte la colpisci.
 | 65 a 125 | Copper, Tin e Silver Vein | Ashenvale, Redridge Mountains, The Barrens, Thousand Needles |
 | 125 a 175 | Tin e Silver Vein, Iron Deposit, Gold Vein | Arathi Highlands, Desolace, Stranglethorn Vale, Thousand Needles |
 | 175 a 225 | Gold Vein, Mithril Deposit, Truesilver Deposit | Azshara, Tanaris, The Hinterlands |
+| 225 a 245 | Mithril Deposit, Truesilver Deposit, Dark Iron Deposit | Searing Gorge, Burning Steppes, Badlands, The Hinterlands |
+| 245 a 275 | Truesilver Deposit, Small Thorium Vein | Un'Goro Crater, Winterspring, Silithus, Feralas, Eastern e Western Plaguelands |
+| 275 a 300 | Small Thorium Vein, Rich Thorium Vein | Un'Goro Crater, Winterspring, Burning Steppes, Eastern e Western Plaguelands |
 
-Tin non dà più abilità da 165 e Silver da 175, quindi a quel punto una deviazione non conviene più. Un percorso da 225 a 300 non è ancora noto.
+Tin non dà più abilità da 165 e Silver da 175, quindi a quel punto una deviazione non conviene più. Il Dark Iron si trova solo in Searing Gorge e Burning Steppes. Le Rich Thorium Veins sono rare, quindi l’ultimo tratto è soprattutto Small Thorium.
 
 ## Tutte le vene
 

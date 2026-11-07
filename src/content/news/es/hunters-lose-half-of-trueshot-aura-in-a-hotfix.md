@@ -40,7 +40,7 @@ Trueshot Aura es el talento de Marksmanship que da ranged attack power a cada mi
 | **3** | 50 | 30 |
 | **4** | 75 | 40 |
 
-La [guía del Marksmanship Hunter](/es/guides/marksmanship-hunter/) todavía indica el valor antiguo de 30 en el rango 1.
+La [guía del Marksmanship Hunter](/es/guides/marksmanship-hunter/) sigue ahora la build 70862 del 7 de noviembre: 20 en el rango 1 y 35 en el rango 2.
 
 ## Elixir of Wisdom
 

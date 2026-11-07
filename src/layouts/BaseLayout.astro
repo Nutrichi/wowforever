@@ -88,10 +88,28 @@ const withAnalytics = analytics ?? index;
  * tekens, en "· WoW Forever" achter een titel die er al mee begint, kostte 14
  * tekens die niets zeiden.
  */
+/*
+ * De sitenaam komt er ook niet achter als de titel daarmee langer wordt dan 70
+ * tekens (7 november 2026): 370 titels werden zo te lang voor de SEO-check.
+ */
+const withSite = title ? `${title} · ${t('site.title')}` : '';
 const pageTitle = title
-  ? title.includes(t('site.title')) ? title : `${title} · ${t('site.title')}`
+  ? title.includes(t('site.title')) || withSite.length > 70 ? title : withSite
   : t('site.homeTitle');
-const pageDescription = description ?? t('site.description');
+/*
+ * Een meta-description van meer dan 200 tekens wordt afgekort op de laatste
+ * volle zin, anders het laatste woord, onder de 200 (7 november 2026). De tekst
+ * op de pagina zelf blijft volledig.
+ */
+function clampDescription(text: string, max = 200): string {
+  if (text.length <= max) return text;
+  const cut = text.slice(0, max);
+  const sentence = cut.lastIndexOf('. ');
+  if (sentence >= 70) return cut.slice(0, sentence + 1);
+  const word = cut.lastIndexOf(' ');
+  return cut.slice(0, word > 70 ? word : max).replace(/[,;:]$/, '') + '…';
+}
+const pageDescription = clampDescription(description ?? t('site.description'));
 
 const siteUrl = Astro.site ?? new URL('https://wowforever.be');
 const canonical = new URL(Astro.url.pathname, siteUrl).href;

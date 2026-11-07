@@ -205,8 +205,8 @@ A new weapon type starts at a low skill. Raise it on easy monsters before you ta
 | 18 | Ashenvale |
 | 20 | Wetlands, Hillsbrad Foothills, Duskwood |
 | 25 | Thousand Needles |
-| 30 | Alterac Mountains, Arathi Highlands, Desolace, Stranglethorn Vale |
-| 35 | Badlands, Dustwallow Marsh, Feralas, The Riverglades, Swamp of Sorrows |
+| 30 | Alterac Mountains, Arathi Highlands, Desolace, The Riverglades, Stranglethorn Vale |
+| 35 | Badlands, Dustwallow Marsh, Feralas, Swamp of Sorrows |
 | 40 | Shen'dralas, Tanaris, The Hinterlands |
 | 43 | Searing Gorge |
 | 45 | Azshara, Felwood, Blasted Lands |

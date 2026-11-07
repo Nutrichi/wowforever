@@ -1,9 +1,9 @@
 ---
 title: "Mining in WoW Forever: Lehrer, Skillen und neue Erze"
-metaTitle: "WoW Forever Mining-Guide: Lehrer, Skillen von 1 bis 225, Vorkommen, Verhütten und neue Barren"
-description: "Mining in WoW Forever: jeder Lehrer, Skillen durch Verhütten bis 185 und durch Abbauen bis 225, jedes Vorkommen mit Skill, die Verhüttungstabelle, die neuen Barren und das neue Erz und die drei Lagerobjekte."
+metaTitle: "WoW Forever Mining: Lehrer, Skillen von 1 bis 300, Vorkommen, Barren"
+description: "Mining in WoW Forever: jeder Lehrer, Skillen durch Verhütten bis 185 und durch Abbauen bis 300, jedes Vorkommen mit Skill, die Verhüttungstabelle, die neuen Barren und das neue Erz und die drei Lagerobjekte."
 short: "Mining"
-updated: 2026-10-03
+updated: 2026-11-07
 lang: de
 faq:
   - q: "Wie weit kann man Mining in WoW Forever durch Verhütten skillen?"
@@ -11,6 +11,8 @@ faq:
   - q: "Kann man Mining ohne Lehrer lernen?"
     a: "Ja. Eine frühe Quest in den Startgebieten lässt dich Mining for Dummies wählen, das Apprentice Mining lehrt, wenn du weniger als zwei Hauptberufe hast."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/mining/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/mining/overview-leveling"
 manual: true
@@ -27,6 +29,7 @@ Mining ist ein Sammelberuf: Du baust Erz aus Vorkommen ab und verhüttest es zu 
 - **Neue Barren und neues Erz** fürs Endgame: <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251290"><img class="wf-wh__icon" src="/wh/inv_blacksmithing_70_demonsteelbar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Legionite Bar</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251291"><img class="wf-wh__icon" src="/wh/item_elementiumbar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Thorium Bar</a> und <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249726"><img class="wf-wh__icon" src="/wh/inv_ingot_livingsteel.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azerothium Bar</a>, dazu das Erz <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=248815"><img class="wf-wh__icon" src="/wh/inv_ore_oxxein.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Thorium Ore</a>. Legionite Bars scheinen vorerst nur von Alchemisten zu kommen, die Heavy Thorium Bars transmutieren.
 - **Scarce-Materialien.** Beim Abbauen bekommst du manchmal <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249391"><img class="wf-wh__icon" src="/wh/inv_ore_pyrite_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pyrite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249425"><img class="wf-wh__icon" src="/wh/inv_ore_manticytenugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bauxite</a> oder <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249426"><img class="wf-wh__icon" src="/wh/inv_ore_elethium_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pitchblende</a> zusätzlich zum Erz; siehe den [Beitrag über Scarce-Materialien](/de/news/every-gathering-node-can-drop-a-scarce-material/).
 - **Ein kostenloser Start.** Eine frühe Quest in jedem Startgebiet lässt dich <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=247840"><img class="wf-wh__icon" src="/wh/inv_10_specialization_professionbook_mining_orig.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mining for Dummies</a> wählen, das Apprentice Mining lehrt.
+- **Schneller wieder da.** Vorkommen erscheinen schneller wieder, wenn mehr Spieler in der Nähe sind, und Startgebiete wie Northshire haben Poor Copper Veins, die du ab Level 1 abbauen kannst.
 
 **Ein gutes Paar:** Herbalism, weil du auf denselben Wegen an Kräutern vorbeikommst, oder Blacksmithing und Engineering, die deine Barren verwenden. Druiden meiden Kämpfe mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=9913"><img class="wf-wh__icon" src="/wh/ability_ambush.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prowl</a> und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=783"><img class="wf-wh__icon" src="/wh/ability_druid_travelform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Travel Form</a>; Jäger und Hexenmeister lassen das Begleittier ein Monster halten, während sie abbauen, und ein Jäger verlässt den Kampf mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5384"><img class="wf-wh__icon" src="/wh/ability_rogue_feigndeath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Feign Death</a>.
 
@@ -75,7 +78,7 @@ Verhütten gibt Skill bis 185. Je nach Preisen kaufst du Erz, baust es selbst ab
 
 Behalte 60 Copper Bars aus dem ersten Schritt und 60 Tin Bars aus dem zweiten: Der Bronzeschritt braucht sie. Einkaufsliste: 130 Copper Ore, 60 Tin Ore, 70 Silver Ore, 35 Iron Ore und 60 Gold Ore.
 
-## Skillen durch Abbauen, 1 bis 225
+## Skillen durch Abbauen, 1 bis 300
 
 Jedes Vorkommen gibt höchstens einen Skillpunkt, egal wie oft du zuschlägst.
 
@@ -85,8 +88,11 @@ Jedes Vorkommen gibt höchstens einen Skillpunkt, egal wie oft du zuschlägst.
 | 65 bis 125 | Copper, Tin und Silver Vein | Ashenvale, Redridge Mountains, The Barrens, Thousand Needles |
 | 125 bis 175 | Tin und Silver Vein, Iron Deposit, Gold Vein | Arathi Highlands, Desolace, Stranglethorn Vale, Thousand Needles |
 | 175 bis 225 | Gold Vein, Mithril Deposit, Truesilver Deposit | Azshara, Tanaris, The Hinterlands |
+| 225 bis 245 | Mithril Deposit, Truesilver Deposit, Dark Iron Deposit | Searing Gorge, Burning Steppes, Badlands, The Hinterlands |
+| 245 bis 275 | Truesilver Deposit, Small Thorium Vein | Un'Goro Crater, Winterspring, Silithus, Feralas, Eastern und Western Plaguelands |
+| 275 bis 300 | Small Thorium Vein, Rich Thorium Vein | Un'Goro Crater, Winterspring, Burning Steppes, Eastern und Western Plaguelands |
 
-Tin gibt ab 165 keinen Skill mehr und Silver ab 175, dann lohnt sich kein Umweg mehr. Eine Route von 225 bis 300 ist noch nicht bekannt.
+Tin gibt ab 165 keinen Skill mehr und Silver ab 175, dann lohnt sich kein Umweg mehr. Dark Iron gibt es nur in Searing Gorge und Burning Steppes. Rich Thorium Veins sind selten, also ist die letzte Strecke vor allem Small Thorium.
 
 ## Alle Vorkommen
 

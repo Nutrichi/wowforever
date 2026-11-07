@@ -89,7 +89,7 @@ Zwei Punkte lassen sich verschieben:
 | **Rapid Killing** | Rapid Fire ist 2 Minuten früher bereit, und ein Kill oder ein Tod unter deinem Serpent Sting gibt deinem nächsten Schuss mehr Schaden |
 | **Improved Arcane Shot** | Arcane Shot ist 1,5 Sekunden früher bereit |
 | **Lone Wolf** | 20 % mehr Schaden mit allen Angriffen ohne aktiven Begleiter |
-| **Trueshot Aura** | 30 Fernkampfangriffskraft für deine Gruppe oder deinen Schlachtzug |
+| **Trueshot Aura** | 20 Fernkampfangriffskraft für deine Gruppe oder deinen Schlachtzug, 35 ab Rang 2 auf Level 32 |
 | **Mortal Shots** | Kritische Treffer von Fernkampffähigkeiten verursachen 30 % mehr Zusatzschaden |
 | **Rapid Recuperation** | Serpent Sting lässt 15 Sekunden lang 50 % deiner Manaregeneration beim Wirken weiterlaufen, 100 % nach Rapid Killing |
 | **Barrage** | Multi-Shot, Aimed Shot und Volley verursachen 10 % mehr Schaden |

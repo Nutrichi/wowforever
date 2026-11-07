@@ -1,9 +1,9 @@
 ---
 title: "Mining in WoW Forever: trainers, leveling and new ores"
-metaTitle: "WoW Forever Mining guide: trainers, leveling 1 to 225, veins, smelting and new bars"
-description: "Mining in WoW Forever: every trainer, leveling by smelting to 185 and by mining to 225, every vein with its skill, the smelting table, the new bars and ore, and the three camp objects."
+metaTitle: "WoW Forever Mining: trainers, leveling 1 to 300, veins and new bars"
+description: "Mining in WoW Forever: every trainer, leveling by smelting to 185 and by mining to 300, every vein with its skill, the smelting table, the new bars and ore, and the three camp objects."
 short: "Mining"
-updated: 2026-10-03
+updated: 2026-11-07
 lang: en
 faq:
   - q: "How far can you level Mining by smelting in WoW Forever?"
@@ -11,6 +11,8 @@ faq:
   - q: "Can you learn Mining without a trainer?"
     a: "Yes. An early quest in the starting zones lets you choose Mining for Dummies, which teaches Apprentice Mining if you have fewer than two primary professions."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/mining/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/mining/overview-leveling"
 ---
@@ -26,6 +28,7 @@ Mining is a gathering profession: you mine ore from veins and smelt it into bars
 - **New bars and ore** for the endgame: <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251290"><img class="wf-wh__icon" src="/wh/inv_blacksmithing_70_demonsteelbar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Legionite Bar</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251291"><img class="wf-wh__icon" src="/wh/item_elementiumbar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Thorium Bar</a> and <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249726"><img class="wf-wh__icon" src="/wh/inv_ingot_livingsteel.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azerothium Bar</a>, and the ore <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=248815"><img class="wf-wh__icon" src="/wh/inv_ore_oxxein.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heavy Thorium Ore</a>. For now, Legionite Bars seem to come only from Alchemists who transmute Heavy Thorium Bars.
 - **Scarce materials.** While mining you sometimes get <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249391"><img class="wf-wh__icon" src="/wh/inv_ore_pyrite_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pyrite</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249425"><img class="wf-wh__icon" src="/wh/inv_ore_manticytenugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bauxite</a> or <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249426"><img class="wf-wh__icon" src="/wh/inv_ore_elethium_nugget.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pitchblende</a> on top of the ore; see the [post about Scarce materials](/news/every-gathering-node-can-drop-a-scarce-material/).
 - **A free start.** An early quest in every starting zone lets you choose <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=247840"><img class="wf-wh__icon" src="/wh/inv_10_specialization_professionbook_mining_orig.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mining for Dummies</a>, which teaches Apprentice Mining.
+- **Faster respawns.** Veins come back faster when more players are around, and starting areas such as Northshire have Poor Copper Veins you can mine from level 1.
 
 **A good pair:** Herbalism, because you pass herbs on the same routes, or Blacksmithing and Engineering, which use your bars. Druids avoid fights with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=9913"><img class="wf-wh__icon" src="/wh/ability_ambush.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Prowl</a> and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=783"><img class="wf-wh__icon" src="/wh/ability_druid_travelform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Travel Form</a>; Hunters and Warlocks let the pet hold a monster while they mine, and a Hunter drops combat with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5384"><img class="wf-wh__icon" src="/wh/ability_rogue_feigndeath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Feign Death</a>.
 
@@ -74,7 +77,7 @@ Smelting gives skill up to 185. Depending on the prices, buy ore or mine it your
 
 Keep 60 Copper Bars from the first step and 60 Tin Bars from the second: the bronze step needs them. Shopping list: 130 Copper Ore, 60 Tin Ore, 70 Silver Ore, 35 Iron Ore and 60 Gold Ore.
 
-## Leveling by mining, 1 to 225
+## Leveling by mining, 1 to 300
 
 Each vein gives at most one skill point, however many times you mine it.
 
@@ -84,8 +87,11 @@ Each vein gives at most one skill point, however many times you mine it.
 | 65 to 125 | Copper, Tin and Silver Vein | Ashenvale, Redridge Mountains, The Barrens, Thousand Needles |
 | 125 to 175 | Tin and Silver Vein, Iron Deposit, Gold Vein | Arathi Highlands, Desolace, Stranglethorn Vale, Thousand Needles |
 | 175 to 225 | Gold Vein, Mithril Deposit, Truesilver Deposit | Azshara, Tanaris, The Hinterlands |
+| 225 to 245 | Mithril Deposit, Truesilver Deposit, Dark Iron Deposit | Searing Gorge, Burning Steppes, Badlands, The Hinterlands |
+| 245 to 275 | Truesilver Deposit, Small Thorium Vein | Un'Goro Crater, Winterspring, Silithus, Feralas, Eastern and Western Plaguelands |
+| 275 to 300 | Small Thorium Vein, Rich Thorium Vein | Un'Goro Crater, Winterspring, Burning Steppes, Eastern and Western Plaguelands |
 
-Tin stops giving skill at 165 and Silver at 175, so they are not worth a detour by then. A route from 225 to 300 is not known yet.
+Tin stops giving skill at 165 and Silver at 175, so they are not worth a detour by then. Dark Iron only grows in Searing Gorge and Burning Steppes. Rich Thorium Veins are rare, so most of the last stretch is Small Thorium.
 
 ## Every vein
 

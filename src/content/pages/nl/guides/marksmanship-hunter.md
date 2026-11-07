@@ -89,7 +89,7 @@ Twee punten kunnen schuiven:
 | **Rapid Killing** | Rapid Fire komt 2 minuten sneller terug, en een kill of een dood onder je Serpent Sting geeft je volgende shot meer schade |
 | **Improved Arcane Shot** | Arcane Shot komt 1,5 seconde sneller terug |
 | **Lone Wolf** | 20% meer schade met alle aanvallen zolang je geen actieve pet hebt |
-| **Trueshot Aura** | 30 ranged attack power voor je party of raid |
+| **Trueshot Aura** | 20 ranged attack power voor je party of raid, 35 vanaf rang 2 op level 32 |
 | **Mortal Shots** | Critical strikes met ranged-abilities doen 30% meer extra schade |
 | **Rapid Recuperation** | Serpent Sting laat 15 seconden 50% van je manaregeneratie doorlopen terwijl je cast, 100% na Rapid Killing |
 | **Barrage** | Multi-Shot, Aimed Shot en Volley doen 10% meer schade |

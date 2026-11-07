@@ -89,7 +89,7 @@ Dos puntos pueden moverse:
 | **Rapid Killing** | Rapid Fire vuelve 2 minutos antes, y una muerte bajo tu Serpent Sting da más daño a tu siguiente disparo |
 | **Improved Arcane Shot** | Arcane Shot vuelve 1,5 segundos antes |
 | **Lone Wolf** | Un 20% más de daño con todos los ataques sin mascota activa |
-| **Trueshot Aura** | 30 de poder de ataque a distancia para tu grupo o banda |
+| **Trueshot Aura** | 20 de poder de ataque a distancia para tu grupo o banda, 35 desde el rango 2 a nivel 32 |
 | **Mortal Shots** | Los críticos de las habilidades a distancia infligen un 30% más de daño extra |
 | **Rapid Recuperation** | Serpent Sting deja que el 50% de tu regeneración de maná siga mientras lanzas durante 15 segundos, el 100% tras Rapid Killing |
 | **Barrage** | Multi-Shot, Aimed Shot y Volley infligen un 10% más de daño |

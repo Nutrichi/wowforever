@@ -88,7 +88,7 @@ Two points can move:
 | **Rapid Killing** | Rapid Fire comes back 2 minutes sooner, and a kill or a death under your Serpent Sting gives your next shot more damage |
 | **Improved Arcane Shot** | Arcane Shot comes back 1.5 seconds sooner |
 | **Lone Wolf** | 20% more damage with all attacks while you have no active pet |
-| **Trueshot Aura** | 30 ranged attack power for your party or raid |
+| **Trueshot Aura** | 20 ranged attack power for your party or raid, 35 from rank 2 at level 32 |
 | **Mortal Shots** | Critical strikes with ranged abilities deal 30% more extra damage |
 | **Rapid Recuperation** | Serpent Sting lets 50% of your mana regeneration continue while you cast for 15 seconds, 100% after Rapid Killing |
 | **Barrage** | Multi-Shot, Aimed Shot and Volley deal 10% more damage |
