@@ -562,6 +562,136 @@
    ],
    "rewards": [],
    "choice": false
+  },
+  {
+   "id": 1654,
+   "name": "The Test of Righteousness",
+   "level": 22,
+   "minLevel": 20,
+   "faction": "alliance",
+   "classes": [
+    "paladin"
+   ],
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Jordan Stilwell",
+     "kind": "npc",
+     "npc": 6181,
+     "zone": "Dun Morogh",
+     "place": "Gates of Ironforge",
+     "at": {
+      "x": 52.5,
+      "y": 36.9
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 458
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Jordan Stilwell",
+     "kind": "npc",
+     "npc": 6181,
+     "zone": "Dun Morogh",
+     "place": "Gates of Ironforge",
+     "at": {
+      "x": 52.5,
+      "y": 36.9
+     },
+     "taxi": {
+      "name": "Ironforge, Dun Morogh",
+      "yards": 458
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Tome of Valor",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "The Tome of Valor",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "The Tome of Valor",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "The Tome of Valor",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "The Tome of Valor",
+     "id": null,
+     "optional": false
+    },
+    {
+     "name": "The Test of Righteousness",
+     "id": null,
+     "optional": false
+    }
+   ],
+   "next": [
+    {
+     "name": "The Test of Righteousness",
+     "id": null,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 95036,
+   "name": "A Moon-Kissed Blade",
+   "level": 25,
+   "minLevel": 20,
+   "faction": "horde",
+   "classes": [
+    "paladin"
+   ],
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Lumina Windsinger",
+     "kind": "npc",
+     "npc": null,
+     "zone": "Silverpine Forest",
+     "place": "The Sepulcher",
+     "at": {
+      "x": 43.0,
+      "y": 40.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Trevan Rol",
+     "kind": "npc",
+     "npc": 248840,
+     "zone": "Silverpine Forest",
+     "place": "The Sepulcher"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
   }
  ],
  "cards": {

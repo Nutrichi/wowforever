@@ -14,28 +14,39 @@
    "slug": "lethtendris",
    "level": "57",
    "npc": 14327,
-   "items": []
+   "items": [
+    18302
+   ]
   },
   {
    "name": "Zevrim Thornhoof",
    "slug": "zevrim-thornhoof",
    "level": "57",
    "npc": 11490,
-   "items": []
+   "items": [
+    18323,
+    18319
+   ]
   },
   {
    "name": "Hydrospawn",
    "slug": "hydrospawn",
    "level": "57",
    "npc": 13280,
-   "items": []
+   "items": [
+    18305,
+    18324
+   ]
   },
   {
    "name": "Alzzin the Wildshaper",
    "slug": "alzzin-the-wildshaper",
    "level": "58",
    "npc": 11492,
-   "items": []
+   "items": [
+    18326,
+    18315
+   ]
   }
  ],
  "loose": [],
@@ -85,9 +96,10 @@
     }
    ],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    18491
+   ],
+   "choice": false
   },
   {
    "id": 7489,
@@ -134,9 +146,10 @@
     }
    ],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    18491
+   ],
+   "choice": false
   },
   {
    "id": 7441,
@@ -177,9 +190,11 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    18411,
+    18410
+   ],
+   "choice": true
   },
   {
    "id": 5526,
@@ -264,9 +279,19 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   }
  ],
- "cards": {}
+ "cards": {
+  "18302": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_20.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18302\">Band of Vigor</a><span class=\"wf-item__line wf-item__meta\">Item Level 58</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+8 Strength</span><span class=\"wf-item__line\">+7 Agility</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Requires Level 53</span></div></div>",
+  "18305": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18305\">Breakwater Legguards</a><span class=\"wf-item__line wf-item__meta\">Item Level 58</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Plate</span></span><span class=\"wf-item__line\">531 Armor</span><span class=\"wf-item__line\">+22 Strength</span><span class=\"wf-item__line\">+10 Frost Resistance</span><span class=\"wf-item__line\">Durability 85 / 85</span><span class=\"wf-item__line\">Requires Level 53</span><span class=\"wf-item__line wf-item__use\">Equip: Increases your chance to Parry an attack by 1.0%.</span></div></div>",
+  "18315": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_28.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18315\">Ring of Demonic Potency</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">Restores +12 health per 5 sec.</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +7.</span></div></div>",
+  "18319": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_38.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18319\">Fervent Helm</a><span class=\"wf-item__line wf-item__meta\">Item Level 58</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Mail</span></span><span class=\"wf-item__line\">279 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">Restores +12 health per 5 sec.</span><span class=\"wf-item__line\">Durability 70 / 70</span><span class=\"wf-item__line\">Requires Level 53</span><span class=\"wf-item__line wf-item__use\">Equip: Increases your chance to Parry an attack by 1.0%.</span></div></div>",
+  "18323": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_bow_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18323\">Satyr's Bow</a><span class=\"wf-item__line wf-item__meta\">Item Level 58</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Bow</span></span><span class=\"wf-item__row\"><span>50 - 93 Damage</span><span>Speed 2.40</span></span><span class=\"wf-item__line\">(29.79 damage per second)</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 53</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: +4 Attack Power.</span><span class=\"wf-item__line wf-item__use\">Equip: +6 Attack Power against Elementals.</span></div></div>",
+  "18324": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18324\">Waveslicer</a><span class=\"wf-item__line wf-item__meta\">Item Level 58</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>123 - 185 Damage</span><span>Speed 3.10</span></span><span class=\"wf-item__line\">(49.68 damage per second)</span><span class=\"wf-item__line\">+23 Strength</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 53</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Slice the target, dealing 70 Nature damage. Deals 3 times as much damage to Aquatic enemies.</span></div></div>",
+  "18326": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_31.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18326\">Razor Gauntlets</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">386 Armor</span><span class=\"wf-item__line\">+9 Strength</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: When struck in combat, inflicts 7 Nature damage to the attacker.</span></div></div>",
+  "18410": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_28.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=18410\">Sprinter's Sword</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>99 - 149 Damage</span><span>Speed 2.80</span></span><span class=\"wf-item__line\">(44.29 damage per second)</span><span class=\"wf-item__line\">Durability 85 / 85</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Increases run speed by 35% for 10 sec.</span></div></div>",
+  "18411": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=18411\">Spry Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Leather</span></span><span class=\"wf-item__line\">102 Armor</span><span class=\"wf-item__line\">+8 Agility</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line wf-item__use\">Equip: Increases your chance to Dodge an attack by 0.8%.</span><span class=\"wf-item__line wf-item__use\">Equip: Minor increase to running and swimming speed. Does not stack with similar effects.</span></div></div>",
+  "18491": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_21.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18491\">Lorespinner</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>26 - 49 Damage</span><span>Speed 1.50</span></span><span class=\"wf-item__line\">(25.00 damage per second)</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+6 Intellect</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Restores +3 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 124 and damage done by up to 41 for all magical spells and effects.</span></div></div>"
+ }
 }

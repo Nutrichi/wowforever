@@ -3,7 +3,7 @@ title: "The Deadmines"
 metaTitle: "The Deadmines in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in The Deadmines in WoW Forever: die Drops von Rhahk'Zor, Sneed, Gilnid, Mr. Smite, Cookie, Greenskin und VanCleef, das Set Defias Leather, Partners in Crime und die Belohnungen der Quests."
 short: "The Deadmines"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: de
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Hat sich die Beute von The Deadmines in WoW Forever geändert?"
     a: "Ja. Fast jede Bossbeute ist jetzt blau, oft mit einem neuen Effekt. Rockslicer baut Erz ohne den Beruf ab, Smelting Pants verhütten schneller und das Set Defias Leather hat neue Boni."
   - q: "Kann die Horde die Quests von The Deadmines machen?"
-    a: "Nein. Alle sieben Quests von The Deadmines sind Quests der Alliance. Spieler der Horde können den Dungeon trotzdem wegen der Beute laufen."
+    a: "Nur Paladins der Horde, mit A Moon-Kissed Blade. Die anderen acht Quests von The Deadmines sind Quests der Alliance. Spieler der Horde können den Dungeon trotzdem wegen der Beute laufen."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"

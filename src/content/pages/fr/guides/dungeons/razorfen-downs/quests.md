@@ -1,9 +1,9 @@
 ---
 title: "Razorfen Downs"
-metaTitle: "Les quêtes de Razorfen Downs dans WoW Forever : départ, étapes et récompenses"
+metaTitle: "Les quêtes de Razorfen Downs dans WoW Forever : départ et récompenses"
 description: "Les quêtes de Razorfen Downs dans WoW Forever : l’escorte de Belnistrasz, Bring the Light et Bring the End, An Unholy Alliance et ce que montrent les données de Forever."
 short: "Quêtes"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: fr
 manual: true
 sources:
@@ -13,7 +13,7 @@ dungeon:
   slug: "razorfen-downs"
   tab: "quests"
 ---
-Les données de Forever n’ont pas encore de quêtes pour Razorfen Downs. Voici les quêtes qui mènent ici dans Classic :
+Les six quêtes de Razorfen Downs sont maintenant dans les données de Forever. Leur départ et leurs récompenses suivent Classic :
 
 | Quête | Où elle commence | Niveau | Récompense |
 |---|---|---|---|

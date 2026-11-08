@@ -3,7 +3,7 @@ title: "The Deadmines"
 metaTitle: "De gids van The Deadmines voor WoW Forever: route, trash en bazen"
 description: "Zo speel je The Deadmines in WoW Forever: de weg erheen via Moonbrook, de route van de mijn tot het schip, de trash om op te letten en elke baas van Rhahk'Zor tot VanCleef."
 short: "Gids"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: nl
 manual: true
 sources:
@@ -21,7 +21,7 @@ De ingang is de Defias Hideout, het grote gebouw in de zuidwesthoek van Moonbroo
 
 Onderweg naar beneden leidt een zijgang naar het spookdeel van de mijn. Dat ligt buiten de dungeon, maar elke undead daar is elite. Twee quests van Wilder Thistlenettle speel je daar.
 
-De Horde heeft hier geen quests en een lange weg door Westfall, maar de loot is voor beide facties gelijk.
+De Horde heeft hier alleen een Paladin-quest en een lange weg door Westfall, maar de loot is voor beide facties gelijk.
 
 ![Het portaal van The Deadmines aan het einde van een groen verlichte mijntunnel met twee lantaarns, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../../assets/posts/2026-10-03-wow-forever-deadmines-entrance-portal.jpg)
 

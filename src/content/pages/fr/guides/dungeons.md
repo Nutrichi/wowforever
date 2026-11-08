@@ -3,7 +3,7 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : donjons, niveaux et donneurs"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-10-28
+updated: 2026-11-08
 lang: fr
 manual: true
 faq:
@@ -51,7 +51,7 @@ La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les 
 - **[Scholomance](/fr/guides/dungeons/scholomance/)**, niveaux 58-60: la Skeleton Key, la chaîne d’Eva Sarkhoff, les dix quêtes et chaque boss jusqu’à Darkmaster Gandling.
 - **[Stratholme Living](/fr/guides/dungeons/stratholme-living/)**, niveaux 58-60: la porte principale, The Scarlet Key, les six boîtes aux lettres, les six quêtes et chaque boss jusqu’à Balnazzar.
 - **[Stratholme Undead](/fr/guides/dungeons/stratholme-undead/)**, niveaux 58-60: la Key to the City, les trois ziggourats, Slaughter Square, les huit quêtes et chaque boss jusqu’à Baron Rivendare.
-- **[The Drowned City](/fr/guides/dungeons/the-drowned-city/)**, niveaux 35-40: l’entrée sous l’eau au large de Stranglethorn Vale, les cinq quêtes connues et quatre boss de la démo de la BlizzCon.
+- **[The Drowned City](/fr/guides/dungeons/the-drowned-city/)**, niveaux 35-40: l’entrée sous l’eau au large de Stranglethorn Vale, les cinq quêtes connues et comment battre les six boss et le rare Umbra.
 - **[Krol'dok Stronghold](/fr/guides/dungeons/kroldok-stronghold/)**, niveaux 40-45: la forteresse des ogres des Riverglades : l’entrée dans une grotte cachée, ses deux clés et Overlord Mugg.
 - **[Alcaz Prison](/fr/guides/dungeons/alcaz-prison/)**, niveaux 48-53: la vieille prison au large de Dustwallow Marsh : le portail au sous-sol, les Defias et les nagas, et Blazeroar.
 - **[Blackmaw Hold](/fr/guides/dungeons/blackmaw-hold/)**, niveaux 55-60: la cité furbolg derrière l’ancienne porte d’Azshara : le tunnel vers Winterspring, sa taille et Varrox Bleakhoof.

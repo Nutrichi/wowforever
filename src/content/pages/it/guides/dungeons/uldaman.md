@@ -3,7 +3,7 @@ title: "Uldaman"
 metaTitle: "Uldaman in WoW Forever: bottino, boss e oggetti"
 description: "Tutto il bottino noto di Uldaman in WoW Forever: gli oggetti di Revelosh, Ironaya, l’Ancient Stone Keeper e Grimlok, e gli oggetti blu dei troggs e dei nani Dark Iron."
 short: "Uldaman"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: it
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Quanti boss ha Uldaman?"
     a: "Otto: Revelosh, i Lost Dwarves, Ironaya, l’Obsidian Sentinel, l’Ancient Stone Keeper, Galgann Firehammer, Grimlok e Archaedas."
   - q: "Uldaman ha missioni in WoW Forever?"
-    a: "I dati di Forever non ne hanno ancora per Uldaman. In Classic, più di dieci missioni da Ironforge, Loch Modan, le Badlands, Orgrimmar e Undercity portano qui."
+    a: "Sì, quattordici: sette per l'Alleanza, tre per l'Orda e quattro per entrambe le fazioni, da Ironforge, Loch Modan, le Badlands, Dustwallow Marsh e la Undercity. Due iniziano nel dungeon e due con una collana lasciata dai nemici."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/uldaman/"

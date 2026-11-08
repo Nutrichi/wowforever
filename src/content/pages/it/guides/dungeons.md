@@ -3,7 +3,7 @@ title: "Guida ai dungeon: ogni missione dei dungeon in WoW Forever"
 metaTitle: "Missioni dei dungeon di WoW Forever: ogni dungeon, livello e PNG"
 description: "Ogni dungeon di WoW Forever con i suoi livelli e tutte le sue missioni: dove inizia ciascuna, per quale fazione, cosa serve prima, e le chiavi che alcuni dungeon richiedono."
 short: "Dungeon"
-updated: 2026-10-28
+updated: 2026-11-08
 lang: it
 manual: true
 faq:
@@ -51,7 +51,7 @@ La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Per i dungeon oltre
 - **[Scholomance](/it/guides/dungeons/scholomance/)**, livelli 58-60: la Skeleton Key, la catena di Eva Sarkhoff, le dieci missioni e ogni boss fino a Darkmaster Gandling.
 - **[Stratholme Living](/it/guides/dungeons/stratholme-living/)**, livelli 58-60: la porta principale, The Scarlet Key, le sei cassette postali, le sei missioni e ogni boss fino a Balnazzar.
 - **[Stratholme Undead](/it/guides/dungeons/stratholme-undead/)**, livelli 58-60: la Key to the City, i tre ziggurat, Slaughter Square, le otto missioni e ogni boss fino a Baron Rivendare.
-- **[The Drowned City](/it/guides/dungeons/the-drowned-city/)**, livelli 35-40: l’ingresso sott’acqua al largo di Stranglethorn Vale, le cinque missioni note e quattro boss dalla demo della BlizzCon.
+- **[The Drowned City](/it/guides/dungeons/the-drowned-city/)**, livelli 35-40: l’ingresso sott’acqua al largo di Stranglethorn Vale, le cinque missioni note e come battere i sei boss e il raro Umbra.
 - **[Krol'dok Stronghold](/it/guides/dungeons/kroldok-stronghold/)**, livelli 40-45: la fortezza degli ogre nelle Riverglades: l’ingresso in una grotta nascosta, le due chiavi e Overlord Mugg.
 - **[Alcaz Prison](/it/guides/dungeons/alcaz-prison/)**, livelli 48-53: la vecchia prigione al largo di Dustwallow Marsh: il portale nel seminterrato, i Defias e i naga, e Blazeroar.
 - **[Blackmaw Hold](/it/guides/dungeons/blackmaw-hold/)**, livelli 55-60: la città dei furbolg dietro la vecchia porta di Azshara: il tunnel verso Winterspring, le dimensioni e Varrox Bleakhoof.

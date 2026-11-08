@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "The Drowned City in WoW Forever: loot, bosses and drops"
 description: "The Drowned City is a new dungeon for levels 35 to 40 off Stranglethorn Vale in WoW Forever. Its loot is not known yet; here is what the game data shows so far."
 short: "The Drowned City"
-updated: 2026-10-29
+updated: 2026-11-08
 lang: en
 faq:
   - q: "What level is The Drowned City?"
@@ -11,14 +11,16 @@ faq:
   - q: "Where is The Drowned City?"
     a: "Under water off the coast of Stranglethorn Vale, around /way 21.4 27.9, past The Vile Reef. The entrance is a cave with a large tablet beside it."
   - q: "What does The Drowned City drop?"
-    a: "That is not known yet. The dungeon opens above level 30, so it was not on the beta, and the game data does not link items to its bosses yet."
+    a: "The boss loot is not known yet, because the game data does not link items to its bosses so far. The Horde quest The Only Good Brinescale... gives a choice of Tidesoaked Leggings or Naga Priestess's Mantle."
 sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/guide/the-drowned-city-dungeon-overview-location-rewards"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/the-drowned-city/"
 dungeon:
   slug: "the-drowned-city"
   tab: "loot"
 ---
-No loot of The Drowned City is known yet. The dungeon opens above level 30, so it was not on the beta, and the game data does not link any items to its bosses yet. This page fills up once players run it after the launch on 4 November.
+No boss loot of The Drowned City is known yet: the game data does not link any items to its bosses so far. The first quest reward is known: The Only Good Brinescale... for the Horde lets you choose <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=279888"><img class="wf-wh__icon" src="/wh/inv_pants_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tidesoaked Leggings</a> or <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=279889"><img class="wf-wh__icon" src="/wh/inv_shoulder_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Naga Priestess's Mantle</a>.
 
 The trash does drop two quest items: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=270305"><img class="wf-wh__icon" src="/wh/inv_staff_115.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brinescale Trident</a> from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=262397">Brinescale Skirmisher</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=270333"><img class="wf-wh__icon" src="/wh/trade_archaeology_troll_tablet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Voodoo-Infused Artifact</a> from Saltseer Manhunters. Which quests ask for them is not known yet.

@@ -3,7 +3,7 @@ title: "The Deadmines"
 metaTitle: "The Deadmines in WoW Forever: loot, bosses and drops"
 description: "Every drop in the Deadmines in WoW Forever: the loot of Rhahk'Zor, Sneed, Gilnid, Mr. Smite, Cookie, Greenskin and VanCleef, the Defias Leather set, Partners in Crime and the quest rewards."
 short: "The Deadmines"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: en
 faq:
   - q: "What level is the Deadmines in WoW Forever?"
@@ -13,7 +13,7 @@ faq:
   - q: "Has the loot of the Deadmines changed in WoW Forever?"
     a: "Yes. Almost every boss drop is blue now, many with a new effect. Rockslicer mines ore without the profession, Smelting Pants smelt faster, and the Defias Leather set has new bonuses."
   - q: "Can the Horde do the Deadmines quests?"
-    a: "No. All seven quests of the Deadmines are Alliance quests. Horde players can still run the dungeon for its loot."
+    a: "Only Horde Paladins, with A Moon-Kissed Blade. The other eight quests of the Deadmines are Alliance quests. Horde players can still run the dungeon for its loot."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"

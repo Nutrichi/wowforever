@@ -3,7 +3,7 @@ title: "Zul'Farrak"
 metaTitle: "Zul'Farrak in WoW Forever: loot, bazen en drops"
 description: "De loot van Zul'Farrak in WoW Forever: de drops van Antu'sul, Zum'rah, Gahz'rilla, Nekrum en Sezz'ziz en Chief Ukorz Sandscalp, nagekeken in de data van Forever."
 short: "Zul'Farrak"
-updated: 2026-10-27
+updated: 2026-11-08
 lang: nl
 manual: true
 faq:
@@ -22,6 +22,6 @@ dungeon:
   slug: "zul-farrak"
   tab: "loot"
 ---
-De lijst volgt het dungeon journal dat Blizzard voor Zul'Farrak maakte in Classic, en toont alleen items die in de data van Forever bestaan. Vier items van die lijst staan er nog niet in: [Lifeblood Amulet](https://www.wowhead.com/classic/item=9641) van Antu'sul, [Jumanza Grips](https://www.wowhead.com/classic/item=18083) van Zum'rah, en [Ripsaw](https://www.wowhead.com/classic/item=9478) en [Embrace of the Lycan](https://www.wowhead.com/classic/item=9479) van Chief Ukorz Sandscalp.
+De lijst volgt het dungeon journal dat Blizzard voor Zul'Farrak maakte in Classic, en toont alleen items die in de data van Forever bestaan. Alle items van die lijst staan er nu in.
 
 Theka the Martyr en Hydromancer Velratha hebben in het journal geen eigen items. Velratha laat de Tiara of the Deep vallen en Theka de First Mosh'aru Tablet, voor de quests. De rares Zerillis, Dustwraith en Sandarr Dunereaver staan niet in de lijst.

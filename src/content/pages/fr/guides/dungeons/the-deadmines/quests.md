@@ -1,9 +1,9 @@
 ---
 title: "The Deadmines"
-metaTitle: "Les quêtes de The Deadmines dans WoW Forever : départ, étapes et récompenses"
-description: "Les sept quêtes de The Deadmines dans WoW Forever : où chacune commence à Stormwind et Westfall, la nouvelle chaîne Destruction in Deadmines, ce qu’il faut faire et les récompenses."
+metaTitle: "Les quêtes de The Deadmines dans WoW Forever : départ et récompenses"
+description: "Les quêtes de The Deadmines dans WoW Forever : où chacune commence à Stormwind et Westfall, la nouvelle chaîne Destruction in Deadmines, ce qu’il faut faire et les récompenses."
 short: "Quêtes"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: fr
 manual: true
 sources:
@@ -15,7 +15,7 @@ dungeon:
   slug: "the-deadmines"
   tab: "quests"
 ---
-Les sept quêtes sont pour l’Alliance. Collecting Memories, Oh Brother... et Underground Assault peuvent être partagées.
+Sept quêtes sont pour l’Alliance, plus une quête de Paladin pour chaque faction. Collecting Memories, Oh Brother... et Underground Assault peuvent être partagées.
 
 **La chaîne de Destruction in Deadmines** est nouvelle dans Forever et commence auprès d’Alba Fairmoon à Sentinel Hill, /way 52.4 53.0. Elle se prend dès le niveau 9 :
 

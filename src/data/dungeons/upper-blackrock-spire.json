@@ -91,9 +91,11 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    15861,
+    15860
+   ],
+   "choice": true
   },
   {
    "id": 4974,
@@ -134,9 +136,12 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    13966,
+    13968,
+    13965
+   ],
+   "choice": true
   },
   {
    "id": 6602,
@@ -167,9 +172,10 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    16309
+   ],
+   "choice": false
   },
   {
    "id": 4764,
@@ -211,8 +217,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 5102,
@@ -253,9 +258,12 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    13966,
+    13968,
+    13965
+   ],
+   "choice": true
   },
   {
    "id": 6502,
@@ -296,9 +304,10 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    16309
+   ],
+   "choice": false
   },
   {
    "id": 7761,
@@ -330,8 +339,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 5160,
@@ -368,8 +376,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 5047,
@@ -402,8 +409,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 4735,
@@ -445,8 +451,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 6821,
@@ -486,8 +491,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 5127,
@@ -526,14 +530,26 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    12696,
+    9224,
+    12849
+   ],
+   "choice": true
   }
  ],
  "cards": {
+  "9224": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_potion_27.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=9224\">Potion of Demon Slaying</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Requires Level 40</span><span class=\"wf-item__line wf-item__use\">Use: Increases Attack Power by 180 against Demons. Lasts 5 min.</span><span class=\"wf-item__line\">Max Stack: 20Dropped by: Cenarion Hold Infantry</span></div></div>",
   "12602": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_20.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12602\">Draconian Deflector</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">2153 Armor</span><span class=\"wf-item__line\">40 Block</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+8 Fire Resistance</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +10.</span></div></div>",
+  "12696": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12696\">Plans: Demon Forged Breastplate</a><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Requires Blacksmithing (260)</span><span class=\"wf-item__line\">Requires Armorsmith</span><span class=\"wf-item__line wf-item__use\">Use: Teaches you how to make a Demon Forged Breastplate.</span><span class=\"wf-item__line\">Demon Forged Breastplate</span><span class=\"wf-item__line wf-item__meta\">Item Level 57</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Chest</span><span>Plate</span></span><span class=\"wf-item__line\">597 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">Durability 135 / 135</span><span class=\"wf-item__line\">Requires Level 52</span><span class=\"wf-item__line wf-item__use\">Equip: When struck has a 3% chance of stealing 240 life from the attacker over 4 sec. (Proc chance: 3%)</span><span class=\"wf-item__line\">Requires Thorium Bar (40), Demonic Rune (10), Blue Sapphire (4), Star Ruby (4)</span></div></div>",
+  "12849": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bag_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=12849\">Demon Kissed Sack</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">&lt;Right Click to Open&gt;</span></div></div>",
   "12952": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_23.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12952\">Gyth's Skull</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Plate</span></span><span class=\"wf-item__line\">509 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">+20 Stamina</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 55</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +9.</span></div></div>",
-  "13142": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_33.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13142\">Brigam Girdle</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Plate</span></span><span class=\"wf-item__line\">369 Armor</span><span class=\"wf-item__line\">+14 Strength</span><span class=\"wf-item__line\">+18 Stamina</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span></div></div>"
+  "13142": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_33.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13142\">Brigam Girdle</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Plate</span></span><span class=\"wf-item__line\">369 Armor</span><span class=\"wf-item__line\">+14 Strength</span><span class=\"wf-item__line\">+18 Stamina</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span></div></div>",
+  "13965": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_armorkit_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13965\">Blackhand's Breadth</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a Critical Strike with Melee and Ranged attacks by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Use: Marks your target, increasing your Critical Strike chance against them by 5% for 20 sec. This effect is doubled against Orcs and Ogres. (5 Min Cooldown)</span></div></div>",
+  "13966": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_talisman_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13966\">Mark of Tyranny</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line wf-item__use\">Equip: Increases your chance to Dodge an attack by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Use: Increases maximum health by 620 for 15 sec. This effect is doubled in Strongholds and Cities. (5 Min Cooldown)</span></div></div>",
+  "13968": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_talisman_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13968\">Eye of the Beast</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a Critical Strike with Spells by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Use: Increases your Spell Hit chance by 7% for 20 sec. (5 Min Cooldown)</span></div></div>",
+  "15860": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=15860\">Blinkstrike Armguards</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Plate</span></span><span class=\"wf-item__line\">249 Armor</span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 0.5%.</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Daggers +1.</span></div></div>",
+  "15861": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=15861\">Swiftfoot Treads</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Leather</span></span><span class=\"wf-item__line\">106 Armor</span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">+14 Agility</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">Durability 45 / 45</span></div></div>",
+  "16309": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_talisman_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16309\">Drakefire Amulet</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+15 Fire Resistance</span><span class=\"wf-item__line\">Requires Level 50</span><span class=\"wf-item__line wf-item__meta\">\"The Blood of Drakkisath Flows Within...\"</span></div></div>"
  }
 }

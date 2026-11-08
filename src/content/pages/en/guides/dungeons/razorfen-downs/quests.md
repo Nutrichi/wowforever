@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Razorfen Downs quests in WoW Forever: start, steps and rewards"
 description: "The quests of Razorfen Downs in WoW Forever: the escort of Belnistrasz, Bring the Light and Bring the End, An Unholy Alliance and what the Forever data shows so far."
 short: "Quests"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: en
 sources:
   - name: "Wowhead, the dungeon quests"
@@ -12,7 +12,7 @@ dungeon:
   slug: "razorfen-downs"
   tab: "quests"
 ---
-The Forever data has no quests for Razorfen Downs yet. These are the quests that lead here in Classic:
+All six quests of Razorfen Downs are in the Forever data now. Where they start and what they give follows Classic:
 
 | Quest | Where it starts | Level | Reward |
 |---|---|---|---|

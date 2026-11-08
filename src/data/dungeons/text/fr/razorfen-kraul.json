@@ -32,6 +32,10 @@
   "1144": {
    "objective": "Escortez Willix the Importer hors du donjon.",
    "note": "Il est retenu dans une tente avant le dernier boss, et l’escorte se termine à l’entrée."
+  },
+  "6522": {
+   "objective": "Apportez le Small Scroll à Varimathras à l'Undercity.",
+   "note": "Charlga Razorflank lâche le parchemin. Il mène à An Unholy Alliance dans Razorfen Downs."
   }
  }
 }

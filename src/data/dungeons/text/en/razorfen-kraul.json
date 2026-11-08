@@ -32,6 +32,10 @@
   "1144": {
    "objective": "Escort Willix the Importer out of the dungeon.",
    "note": "He is held in a tent before the last boss, and the escort ends at the entrance."
+  },
+  "6522": {
+   "objective": "Take the Small Scroll to Varimathras in the Undercity.",
+   "note": "Charlga Razorflank drops the scroll. It leads to An Unholy Alliance in Razorfen Downs."
   }
  }
 }

@@ -1,9 +1,9 @@
 ---
 title: "The Deadmines"
 metaTitle: "The Deadmines quests in WoW Forever: start, steps and rewards"
-description: "All seven quests of the Deadmines in WoW Forever: where each one starts in Stormwind and Westfall, the new Destruction in Deadmines chain, what to do and the rewards."
+description: "The quests of the Deadmines in WoW Forever: where each one starts in Stormwind and Westfall, the new Destruction in Deadmines chain, what to do and the rewards."
 short: "Quests"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: en
 sources:
   - name: "Warcraft Tavern, the quests"
@@ -14,7 +14,7 @@ dungeon:
   slug: "the-deadmines"
   tab: "quests"
 ---
-All seven quests are for the Alliance. Collecting Memories, Oh Brother... and Underground Assault can be shared.
+Seven quests are for the Alliance, plus a Paladin quest for each faction. Collecting Memories, Oh Brother... and Underground Assault can be shared.
 
 **The chain of Destruction in Deadmines** is new in Forever and starts with Alba Fairmoon at Sentinel Hill, /way 52.4 53.0. It can be picked up from level 9:
 

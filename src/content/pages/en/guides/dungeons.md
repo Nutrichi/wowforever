@@ -3,7 +3,7 @@ title: "Dungeon guide: every dungeon quest in WoW Forever"
 metaTitle: "WoW Forever dungeon quests: every dungeon, level and quest giver"
 description: "Every dungeon of WoW Forever with its levels and all its quests: where each quest starts, for which faction, what it needs first, and the keys some dungeons ask for."
 short: "Dungeons"
-updated: 2026-10-28
+updated: 2026-11-08
 lang: en
 faq:
   - q: "Which dungeons are in WoW Forever?"
@@ -50,7 +50,7 @@ The beta of WoW Forever goes up to level 30 since 1 October. For the dungeons ab
 - **[Scholomance](/guides/dungeons/scholomance/)**, levels 58-60: the Skeleton Key, the chain of Eva Sarkhoff, all ten quests and every boss up to Darkmaster Gandling.
 - **[Stratholme Living](/guides/dungeons/stratholme-living/)**, levels 58-60: the main gate, the Scarlet Key, the six postboxes, all six quests and every boss up to Balnazzar.
 - **[Stratholme Undead](/guides/dungeons/stratholme-undead/)**, levels 58-60: the Key to the City, the three ziggurats, Slaughter Square, all eight quests and every boss up to Baron Rivendare.
-- **[The Drowned City](/guides/dungeons/the-drowned-city/)**, levels 35-40: the underwater entrance off Stranglethorn Vale, the five known quests and four bosses from the BlizzCon demo.
+- **[The Drowned City](/guides/dungeons/the-drowned-city/)**, levels 35-40: the underwater entrance off Stranglethorn Vale, the five known quests and how to beat the six bosses and the rare Umbra.
 - **[Krol'dok Stronghold](/guides/dungeons/kroldok-stronghold/)**, levels 40-45: the ogre fortress in the Riverglades: the hidden cave entrance, its two keys and Overlord Mugg.
 - **[Alcaz Prison](/guides/dungeons/alcaz-prison/)**, levels 48-53: the old prison off Dustwallow Marsh: the portal in the basement, the Defias and the naga, and Blazeroar.
 - **[Blackmaw Hold](/guides/dungeons/blackmaw-hold/)**, levels 55-60: the furbolg city behind the old gate in Azshara: the tunnel to Winterspring, its size and Varrox Bleakhoof.

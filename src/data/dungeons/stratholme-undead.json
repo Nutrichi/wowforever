@@ -8,6 +8,7 @@
    "level": "60",
    "npc": 10437,
    "items": [
+    13529,
     16675
    ]
   },
@@ -17,7 +18,8 @@
    "level": "60",
    "npc": 10809,
    "items": [
-    13397
+    13397,
+    13954
    ]
   },
   {
@@ -36,7 +38,8 @@
    "level": "59",
    "npc": 10436,
    "items": [
-    16704
+    16704,
+    18730
    ]
   },
   {
@@ -46,7 +49,9 @@
    "npc": 10438,
    "items": [
     12833,
-    16691
+    13524,
+    16691,
+    18737
    ]
   },
   {
@@ -55,7 +60,9 @@
    "level": "58",
    "npc": 10435,
    "items": [
-    18722
+    18722,
+    18725,
+    18727
    ]
   },
   {
@@ -64,7 +71,9 @@
    "level": "61",
    "npc": 10439,
    "items": [
-    16737
+    13374,
+    16737,
+    18723
    ]
   },
   {
@@ -74,6 +83,7 @@
    "npc": 10440,
    "items": [
     13340,
+    13346,
     16678,
     16687,
     16694,
@@ -81,7 +91,8 @@
     16709,
     16719,
     16728,
-    16732
+    16732,
+    22408
    ]
   }
  ],
@@ -195,9 +206,11 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    13216,
+    13217
+   ],
+   "choice": true
   },
   {
    "id": 5212,
@@ -239,8 +252,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 5213,
@@ -287,9 +299,11 @@
     }
    ],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    13209,
+    19812
+   ],
+   "choice": true
   },
   {
    "id": 5125,
@@ -328,9 +342,11 @@
     }
    ],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    17044,
+    17045
+   ],
+   "choice": true
   },
   {
    "id": 5263,
@@ -383,8 +399,7 @@
    ],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 5463,
@@ -433,8 +448,7 @@
    ],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 8945,
@@ -481,15 +495,24 @@
     }
    ],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    22137
+   ],
+   "choice": false
   }
  ],
  "cards": {
   "12833": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_scroll_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=12833\">Plans: Hammer of the Titans</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Requires Blacksmithing (300)</span><span class=\"wf-item__line\">Requires Master Hammersmith</span><span class=\"wf-item__line wf-item__use\">Use: Teaches you how to make a Hammer of the Titans.</span><span class=\"wf-item__line\">Hammer of the Titans</span><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>163 - 246 Damage</span><span>Speed 3.80</span></span><span class=\"wf-item__line\">(53.82 damage per second)</span><span class=\"wf-item__line\">+15 Strength</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Stuns target for 3 sec.</span><span class=\"wf-item__line\">Requires Thorium Bar (50), Arcanite Bar (15), Guardian Stone (4), Enchanted Leather (6), Essence of Earth (10)</span></div></div>",
+  "13209": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_armorkit_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13209\">Seal of the Dawn</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped: Trinket of the Dawn (1)</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line wf-item__use\">Equip: +78 Attack Power against Undead.</span></div></div>",
+  "13216": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=13216\">Crown of the Penitent</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Cloth</span></span><span class=\"wf-item__line\">64 Armor</span><span class=\"wf-item__line\">+20 Intellect</span><span class=\"wf-item__line\">Restores +6 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 10 and damage done by up to 3 for all magical spells and effects.</span></div></div>",
+  "13217": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_30.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=13217\">Band of the Penitent</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">Restores +6 health per 5 sec.</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
   "13340": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_20.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13340\">Cape of the Black Baron</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">45 Armor</span><span class=\"wf-item__line\">+15 Agility</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: +20 Attack Power.</span></div></div>",
+  "13346": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13346\">Robes of the Exalted</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">89 Armor</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">+25 Spirit</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 40 and damage done by up to 13 for all magical spells and effects.</span></div></div>",
+  "13374": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13374\">Soulstealer Mantle</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Cloth</span></span><span class=\"wf-item__line\">64 Armor</span><span class=\"wf-item__line\">+22 Intellect</span><span class=\"wf-item__line\">Requires Level 55</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span></div></div>",
   "13397": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_19.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13397\">Stoneskin Gargoyle Cape</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">43 Armor</span><span class=\"wf-item__line\">+7 Strength</span><span class=\"wf-item__line\">+8 Agility</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+50 Armor</span><span class=\"wf-item__line\">Requires Level 56</span></div></div>",
+  "13524": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bone_humanskull_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13524\">Skull of Burning Shadows</a><span class=\"wf-item__line wf-item__meta\">Item Level 62</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Held In Off-hand</span><span></span></span><span class=\"wf-item__line\">+10 Fire Resistance</span><span class=\"wf-item__line\">+10 Shadow Resistance</span><span class=\"wf-item__line\">Requires Level 57</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span></div></div>",
+  "13529": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13529\">Husk of Nerub'enkan</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">2089 Armor</span><span class=\"wf-item__line\">38 Block</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+15 Nature Resistance</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +2.</span></div></div>",
+  "13954": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=13954\">Verdant Footpads</a><span class=\"wf-item__line wf-item__meta\">Item Level 62</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Leather</span></span><span class=\"wf-item__line\">120 Armor</span><span class=\"wf-item__line\">Restores +5 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 57</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 38 and damage done by up to 12 for all magical spells and effects.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done to Undead by magical spells and effects by up to 21.</span></div></div>",
   "16675": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_plate_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16675\">Beaststalker's Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Mail</span></span><span class=\"wf-item__line\">240 Armor</span><span class=\"wf-item__line\">+21 Agility</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+3 Intellect</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__setname\">Beaststalker Armor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +30 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 8% chance to remove a Root effect from yourself. Can only occur once every 60 sec. (Proc chance: 8%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your melee and ranged autoattacks have a 5% chance to energize you for 200 mana. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
   "16678": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16678\">Beaststalker's Pants</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Mail</span></span><span class=\"wf-item__line\">315 Armor</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+26 Agility</span><span class=\"wf-item__line\">+6 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+12 Spirit</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__setname\">Beaststalker Armor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +30 Attack Power.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 8% chance to remove a Root effect from yourself. Can only occur once every 60 sec. (Proc chance: 8%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your melee and ranged autoattacks have a 5% chance to energize you for 200 mana. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
   "16687": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16687\">Magister's Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">76 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">+15 Intellect</span><span class=\"wf-item__line\">+21 Spirit</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 0.9%.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 7.</span><span class=\"wf-item__line wf-item__setname\">Magister's Regalia (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat has a 2% chance of freezing the attacker in place for 3 sec. Can only occur once every 60 sec. (Proc chance: 2%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Your spellcasts have a 5% chance to energize you for 200 mana. (Proc chance: 5%)</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
@@ -502,8 +525,18 @@
   "16728": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16728\">Lightforge Legplates</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Plate</span></span><span class=\"wf-item__line\">557 Armor</span><span class=\"wf-item__line\">+20 Strength</span><span class=\"wf-item__line\">+9 Agility</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">Restores +3 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__setname\">Lightforge Armor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: Increases damage and healing done by magical spells and effects by up to 18.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck by a harmful spell, has a 7% chance of Silencing the caster for 3 sec. Can only occur once every 60 sec. (Proc chance: 7%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Chance on melee autoattack and spellcast to increase your damage and healing done by magical spells and effects by up to 65 for 10 sec.</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 8 mana per 5 sec.</span></div></div>",
   "16732": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16732\">Legplates of Valor</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Plate</span></span><span class=\"wf-item__line\">557 Armor</span><span class=\"wf-item__line\">+23 Strength</span><span class=\"wf-item__line\">+11 Agility</span><span class=\"wf-item__line\">+15 Stamina</span><span class=\"wf-item__line\">+4 Spirit</span><span class=\"wf-item__line\">+17 Block Value</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__setname\">Battlegear of Valor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +15 Strength.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 10% chance to remove a Disarm effect from yourself. Can only occur once every 60 sec. (Proc chance: 10%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Chance on melee attack to heal for 88 to 132 and generate 10 Rage</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 15 health per 5 sec.</span></div></div>",
   "16737": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_26.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=16737\">Gauntlets of Valor</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">386 Armor</span><span class=\"wf-item__line\">+17 Strength</span><span class=\"wf-item__line\">+3 Agility</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+8 Spirit</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +4.</span><span class=\"wf-item__line wf-item__setname\">Battlegear of Valor (0/8)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +8 All Resistances.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +15 Strength.</span><span class=\"wf-item__line wf-item__set\">(4) Set: When struck in combat, has a 10% chance to remove a Disarm effect from yourself. Can only occur once every 60 sec. (Proc chance: 10%, 1m cooldown)</span><span class=\"wf-item__line wf-item__set\">(5) Set: Chance on melee attack to heal for 88 to 132 and generate 10 Rage</span><span class=\"wf-item__line wf-item__set\">(6) Set: Restores 15 health per 5 sec.</span></div></div>",
+  "17044": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_talisman_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17044\">Will of the Martyr</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line wf-item__use\">Equip: +30 Attack Power.</span></div></div>",
+  "17045": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_25.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17045\">Blood of the Martyr</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 12.</span></div></div>",
   "18722": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18722\">Death Grips</a><span class=\"wf-item__line wf-item__meta\">Item Level 62</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">404 Armor</span><span class=\"wf-item__line\">+22 Strength</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 57</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 0.5%.</span><span class=\"wf-item__line wf-item__use\">Equip: Immune to Disarm.</span></div></div>",
+  "18723": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_necklace_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18723\">Animated Chain Necklace</a><span class=\"wf-item__line wf-item__meta\">Item Level 62</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line\">Requires Level 57</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 33 and damage done by up to 11 for all magical spells and effects.</span></div></div>",
+  "18725": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_spear_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18725\">Peacemaker</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Polearm</span></span><span class=\"wf-item__row\"><span>137 - 206 Damage</span><span>Speed 3.40</span></span><span class=\"wf-item__line\">(50.44 damage per second)</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: +56 Attack Power.</span></div></div>",
+  "18727": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_51.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18727\">Crimson Felt Hat</a><span class=\"wf-item__line wf-item__meta\">Item Level 59</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Cloth</span></span><span class=\"wf-item__line\">68 Armor</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 54</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 30.</span></div></div>",
+  "18730": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_16.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18730\">Shadowy Laced Handwraps</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Cloth</span></span><span class=\"wf-item__line\">53 Armor</span><span class=\"wf-item__line\">+15 Intellect</span><span class=\"wf-item__line\">Restores +3 mana per 5 sec.</span><span class=\"wf-item__line\">+12 Shadow Resistance</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 55</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 11.</span></div></div>",
+  "18737": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18737\">Bone Slicing Hatchet</a><span class=\"wf-item__line wf-item__meta\">Item Level 62</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>48 - 90 Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(40.59 damage per second)</span><span class=\"wf-item__line\">+13 Agility</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Requires Level 57</span><span class=\"wf-item__line wf-item__use\">Equip: +9 Attack Power against Undead.</span></div></div>",
   "18783": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_note_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18783\">Bottom Half of Advanced Armorsmithing: Volume III</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">Requires Level 50</span><span class=\"wf-item__line wf-item__use\">Use: Combines the Top and Bottom Half of Advanced Armorsmithing: Volume III.</span></div></div>",
-  "19233": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_ticket_tarot_beasts_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=19233\">Five of Beasts</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line wf-item__use\">Use: Combine the Ace through Eight of Beasts to complete the set.</span></div></div>"
+  "19233": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_ticket_tarot_beasts_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=19233\">Five of Beasts</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line wf-item__use\">Use: Combine the Ace through Eight of Beasts to complete the set.</span></div></div>",
+  "19812": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_rune_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=19812\">Rune of the Dawn</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped: Trinket of the Dawn (1)</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done to Undead by magical spells and effects by up to 46.</span></div></div>",
+  "22137": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bag_20.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=22137\">Ysida's Satchel</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">&lt;Right Click to Open&gt;</span></div></div>",
+  "22408": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=22408\">Ritssyn's Wand of Bad Mojo</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>58 - 108 Shadow Damage</span><span>Speed 1.30</span></span><span class=\"wf-item__line\">(63.85 damage per second)</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 11.</span></div></div>"
  }
 }

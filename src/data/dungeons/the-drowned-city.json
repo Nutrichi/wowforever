@@ -10,13 +10,6 @@
    "items": []
   },
   {
-   "name": "Zin'aka",
-   "slug": "zinaka",
-   "level": "",
-   "npc": null,
-   "items": []
-  },
-  {
    "name": "Var'Taka",
    "slug": "vartaka",
    "level": "",
@@ -28,6 +21,41 @@
    "slug": "captain-dreadrise",
    "level": "",
    "npc": 270884,
+   "items": []
+  },
+  {
+   "name": "Deathless Marrow",
+   "slug": "deathless-marrow",
+   "level": "",
+   "npc": 270885,
+   "items": []
+  },
+  {
+   "name": "Gill",
+   "slug": "gill",
+   "level": "",
+   "npc": 270888,
+   "items": []
+  },
+  {
+   "name": "Min'loth the Serpent",
+   "slug": "minloth-the-serpent",
+   "level": "",
+   "npc": 270886,
+   "items": []
+  },
+  {
+   "name": "Umbra",
+   "slug": "umbra",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "Zin'aka",
+   "slug": "zinaka",
+   "level": "",
+   "npc": null,
    "items": []
   }
  ],
@@ -68,8 +96,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 95775,
@@ -105,9 +132,11 @@
    "to": [],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    279888,
+    279889
+   ],
+   "choice": true
   },
   {
    "id": 96774,
@@ -131,9 +160,11 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   }
  ],
- "cards": {}
+ "cards": {
+  "279888": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279888\">Tidesoaked Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 40</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">96 Armor</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line wf-item__use\">Equip: +14 Attack Power against Undead.</span></div></div>",
+  "279889": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279889\">Naga Priestess's Mantle</a><span class=\"wf-item__line wf-item__meta\">Item Level 40</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Cloth</span></span><span class=\"wf-item__line\">40 Armor</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+6 Spirit</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 10 and damage done by up to 3 for all magical spells and effects.</span></div></div>"
+ }
 }

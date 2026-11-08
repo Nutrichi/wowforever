@@ -1,9 +1,9 @@
 ---
 title: "Razorfen Downs"
-metaTitle: "De quests van Razorfen Downs in WoW Forever: start, stappen en beloningen"
+metaTitle: "De quests van Razorfen Downs in WoW Forever: start en beloningen"
 description: "De quests van Razorfen Downs in WoW Forever: de begeleiding van Belnistrasz, Bring the Light en Bring the End, An Unholy Alliance en wat de data van Forever tot nu toe toont."
 short: "Quests"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: nl
 manual: true
 sources:
@@ -13,7 +13,7 @@ dungeon:
   slug: "razorfen-downs"
   tab: "quests"
 ---
-De data van Forever heeft nog geen quests voor Razorfen Downs. Dit zijn de quests die hier in Classic naartoe leiden:
+Alle zes quests van Razorfen Downs staan nu in de data van Forever. Waar ze beginnen en wat ze geven, volgt Classic:
 
 | Quest | Waar hij begint | Level | Beloning |
 |---|---|---|---|

@@ -3,7 +3,7 @@ title: "The Deadmines"
 metaTitle: "The Deadmines in WoW Forever: loot, bazen en drops"
 description: "Elke drop in The Deadmines in WoW Forever: de loot van Rhahk'Zor, Sneed, Gilnid, Mr. Smite, Cookie, Greenskin en VanCleef, de set Defias Leather, Partners in Crime en de beloningen van de quests."
 short: "The Deadmines"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: nl
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Is de loot van The Deadmines veranderd in WoW Forever?"
     a: "Ja. Bijna elke drop van een baas is nu blauw, vaak met een nieuw effect. Rockslicer delft erts zonder het beroep, Smelting Pants smelten sneller en de set Defias Leather heeft nieuwe bonussen."
   - q: "Kan de Horde de quests van The Deadmines doen?"
-    a: "Nee. Alle zeven de quests van The Deadmines zijn quests van de Alliance. Spelers van de Horde kunnen de dungeon wel lopen voor de loot."
+    a: "Alleen Paladins van de Horde, met A Moon-Kissed Blade. De andere acht quests van The Deadmines zijn quests van de Alliance. Spelers van de Horde kunnen de dungeon wel lopen voor de loot."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"

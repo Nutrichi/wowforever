@@ -32,6 +32,10 @@
   "1144": {
    "objective": "Scorta Willix the Importer fuori dal dungeon.",
    "note": "È tenuto in una tenda prima dell’ultimo boss, e la scorta finisce all’ingresso."
+  },
+  "6522": {
+   "objective": "Porta lo Small Scroll a Varimathras nella Undercity.",
+   "note": "Charlga Razorflank lascia cadere la pergamena. Porta ad An Unholy Alliance in Razorfen Downs."
   }
  }
 }

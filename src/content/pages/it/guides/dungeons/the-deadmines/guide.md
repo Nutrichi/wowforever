@@ -3,7 +3,7 @@ title: "The Deadmines"
 metaTitle: "Guida a The Deadmines per WoW Forever: percorso, trash e boss"
 description: "Come affrontare The Deadmines in WoW Forever: l’ingresso da Moonbrook, il percorso dalla miniera alla nave, il trash da tenere d’occhio e ogni boss da Rhahk'Zor a VanCleef."
 short: "Guida"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: it
 manual: true
 sources:
@@ -21,7 +21,7 @@ L’ingresso è la Defias Hideout, il grande edificio nell’angolo sud-ovest di
 
 Scendendo, un passaggio laterale porta alla parte infestata della miniera. È fuori dal dungeon, ma ogni non morto lì è élite. Due missioni di Wilder Thistlenettle si fanno lì.
 
-La Horde non ha missioni qui e una lunga strada attraverso Westfall, ma il bottino è lo stesso per entrambe le fazioni.
+La Horde qui ha solo una missione da Paladin e una lunga strada attraverso Westfall, ma il bottino è lo stesso per entrambe le fazioni.
 
 ![Il portale di The Deadmines alla fine di una galleria illuminata di verde con due lanterne, uno screenshot della beta di World of Warcraft: Forever](../../../../../../assets/posts/2026-10-03-wow-forever-deadmines-entrance-portal.jpg)
 

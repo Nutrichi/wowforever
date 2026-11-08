@@ -9,6 +9,7 @@
    "npc": 8127,
    "items": [
     9640,
+    9641,
     9379,
     9639
    ]
@@ -26,7 +27,8 @@
    "level": "46",
    "npc": 7271,
    "items": [
-    18082
+    18082,
+    18083
    ]
   },
   {
@@ -66,7 +68,9 @@
    "items": [
     9476,
     9477,
-    11086
+    9478,
+    11086,
+    9479
    ]
   }
  ],
@@ -128,8 +132,7 @@
    ],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 2991,
@@ -187,8 +190,7 @@
    ],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 2768,
@@ -229,9 +231,12 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    9533,
+    9534,
+    270099
+   ],
+   "choice": true
   },
   {
    "id": 2865,
@@ -279,8 +284,7 @@
    ],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 3042,
@@ -322,8 +326,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 2846,
@@ -368,9 +371,11 @@
     }
    ],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    9531,
+    270098
+   ],
+   "choice": true
   },
   {
    "id": 2770,
@@ -417,9 +422,10 @@
     }
    ],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    11122
+   ],
+   "choice": false
   },
   {
    "id": 3527,
@@ -473,8 +479,7 @@
     }
    ],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   }
  ],
  "cards": {
@@ -487,9 +492,19 @@
   "9475": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_spear_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9475\">Diabolic Skiver</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Polearm</span></span><span class=\"wf-item__row\"><span>99 - 149 Damage</span><span>Speed 2.90</span></span><span class=\"wf-item__line\">(42.76 damage per second)</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 44</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Delivers a fatal wound for 164 to 184 Physical damage. Deals 50% increased damage to targets below 25% health.</span></div></div>",
   "9476": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9476\">Big Bad Pauldrons</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Plate</span></span><span class=\"wf-item__line\">396 Armor</span><span class=\"wf-item__line\">+12 Strength</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">Restores +12 health per 5 sec.</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 45</span></div></div>",
   "9477": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_goldfeathered_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9477\">The Chief's Enforcer</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>118 - 178 Damage</span><span>Speed 3.40</span></span><span class=\"wf-item__line\">(43.53 damage per second)</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Deal 294 Physical damage and stun for1.5 sec. Trolls take 2 times as much damage and stun duration.</span></div></div>",
+  "9478": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_axe_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9478\">Ripsaw</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Axe</span></span><span class=\"wf-item__row\"><span>63 - 117 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(33.33 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Equip: +10 Attack Power.</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Wounds the target for 70 Physical damage.</span></div></div>",
+  "9479": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/ability_mount_whitedirewolf.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9479\">Embrace of the Lycan</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Leather</span></span><span class=\"wf-item__line\">117 Armor</span><span class=\"wf-item__line\">+8 Strength</span><span class=\"wf-item__line\">+16 Stamina</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 44</span><span class=\"wf-item__line wf-item__use\">Equip: +32 Attack Power.</span></div></div>",
+  "9531": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_23.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=9531\">Gemshale Pauldrons</a><span class=\"wf-item__line wf-item__meta\">Item Level 48</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Plate</span></span><span class=\"wf-item__line\">347 Armor</span><span class=\"wf-item__line\">+5 Strength</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">Durability 70 / 70</span></div></div>",
+  "9533": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9533\">Masons Fraternity Ring</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+14 Agility</span><span class=\"wf-item__line\">+5 Stamina</span></div></div>",
+  "9534": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_33.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9534\">Engineer's Guild Headpiece</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Leather</span></span><span class=\"wf-item__line\">117 Armor</span><span class=\"wf-item__line\">+22 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 29 and damage done by up to 10 for all magical spells and effects.</span></div></div>",
   "9639": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mace_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9639\">The Hand of Antu'sul</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>63 - 117 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(33.33 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Blasts nearby enemies with thunder increasing the time between their attacks by 11% for 10 sec and doing 42 Nature damage to them. Will affect up to 4 targets.</span></div></div>",
   "9640": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_26.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9640\">Vice Grips</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">330 Armor</span><span class=\"wf-item__line\">&lt;Random enchantment&gt;</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Equip: +14 Attack Power.</span></div></div>",
+  "9641": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_necklace_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=9641\">Lifeblood Amulet</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">Restores +8 health per 5 sec.</span><span class=\"wf-item__line\">Requires Level 45</span></div></div>",
   "11086": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_43.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=11086\">Jang'thraze the Protector</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>44 - 83 Damage</span><span>Speed 1.90</span></span><span class=\"wf-item__line\">(33.42 damage per second)</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Use: Combines Jang'thraze and Sang'thraze to form the mighty sword, Sul'thraze.</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Shields the wielder from physical damage, absorbing 66 to 102 damage. Lasts 20 sec.</span></div></div>",
-  "18082": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18082\">Zum'rah's Vexing Cane</a><span class=\"wf-item__line wf-item__meta\">Item Level 48</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>67 - 101 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(31.11 damage per second)</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 43</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 54.</span><span class=\"wf-item__line wf-item__use\">Equip: Chance on harmful spell cast to summon a Zombie Troll of Zum'rah for 20 sec. (1m cooldown)</span></div></div>"
+  "11122": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_food_54.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=11122\">Carrot on a Stick</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line wf-item__use\">Equip: Increases mount speed by 3%.</span></div></div>",
+  "18082": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18082\">Zum'rah's Vexing Cane</a><span class=\"wf-item__line wf-item__meta\">Item Level 48</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>67 - 101 Damage</span><span>Speed 2.70</span></span><span class=\"wf-item__line\">(31.11 damage per second)</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 43</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 54.</span><span class=\"wf-item__line wf-item__use\">Equip: Chance on harmful spell cast to summon a Zombie Troll of Zum'rah for 20 sec. (1m cooldown)</span></div></div>",
+  "18083": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18083\">Jumanza Grips</a><span class=\"wf-item__line wf-item__meta\">Item Level 48</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Cloth</span></span><span class=\"wf-item__line\">43 Armor</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+7 Intellect</span><span class=\"wf-item__line\">Restores +4 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 43</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 18 and damage done by up to 6 for all magical spells and effects.</span></div></div>",
+  "270098": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=270098\">Dank Shoulderpads</a><span class=\"wf-item__line wf-item__meta\">Item Level 48</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Leather</span></span><span class=\"wf-item__line\">96 Armor</span><span class=\"wf-item__line\">+4 Agility</span><span class=\"wf-item__line\">+13 Stamina</span></div></div>",
+  "270099": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=270099\">Magister Cowl</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Cloth</span></span><span class=\"wf-item__line\">57 Armor</span><span class=\"wf-item__line\">Restores +8 mana per 5 sec.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 18.</span></div></div>"
  }
 }

@@ -32,6 +32,10 @@
   "1144": {
    "objective": "Begleite Willix the Importer aus dem Dungeon.",
    "note": "Er wird in einem Zelt vor dem letzten Boss festgehalten, und die Eskorte endet am Eingang."
+  },
+  "6522": {
+   "objective": "Bring die Small Scroll zu Varimathras in der Undercity.",
+   "note": "Charlga Razorflank droppt die Schriftrolle. Sie führt zu An Unholy Alliance in Razorfen Downs."
   }
  }
 }

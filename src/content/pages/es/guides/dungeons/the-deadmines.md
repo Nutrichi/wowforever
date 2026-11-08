@@ -3,7 +3,7 @@ title: "The Deadmines"
 metaTitle: "The Deadmines en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín de The Deadmines en WoW Forever: los objetos de Rhahk'Zor, Sneed, Gilnid, Mr. Smite, Cookie, Greenskin y VanCleef, el set Defias Leather, Partners in Crime y las recompensas de las misiones."
 short: "The Deadmines"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: es
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "¿Ha cambiado el botín de The Deadmines en WoW Forever?"
     a: "Sí. Casi todo lo que sueltan los jefes es azul ahora, muchas veces con un efecto nuevo. Rockslicer extrae mineral sin la profesión, Smelting Pants funde más rápido y el set Defias Leather tiene bonificaciones nuevas."
   - q: "¿Puede la Horde hacer las misiones de The Deadmines?"
-    a: "No. Las siete misiones de The Deadmines son de la Alliance. Los jugadores de la Horde pueden hacer la mazmorra por el botín."
+    a: "Solo los Paladins de la Horde, con A Moon-Kissed Blade. Las otras ocho misiones de The Deadmines son de la Alliance. Los jugadores de la Horde pueden hacer la mazmorra por el botín."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/the-deadmines/"

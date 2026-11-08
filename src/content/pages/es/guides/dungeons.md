@@ -3,7 +3,7 @@ title: "Guía de mazmorras: cada misión de mazmorra en WoW Forever"
 metaTitle: "Misiones de mazmorra de WoW Forever: cada mazmorra, nivel y PNJ"
 description: "Cada mazmorra de WoW Forever con sus niveles y todas sus misiones: dónde empieza cada una, para qué facción, qué hace falta antes, y las llaves que piden algunas mazmorras."
 short: "Mazmorras"
-updated: 2026-10-28
+updated: 2026-11-08
 lang: es
 manual: true
 faq:
@@ -51,7 +51,7 @@ La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las m
 - **[Scholomance](/es/guides/dungeons/scholomance/)**, niveles 58-60: la Skeleton Key, la cadena de Eva Sarkhoff, las diez misiones y cada jefe hasta Darkmaster Gandling.
 - **[Stratholme Living](/es/guides/dungeons/stratholme-living/)**, niveles 58-60: la puerta principal, The Scarlet Key, los seis buzones, las seis misiones y cada jefe hasta Balnazzar.
 - **[Stratholme Undead](/es/guides/dungeons/stratholme-undead/)**, niveles 58-60: la Key to the City, los tres zigurats, Slaughter Square, las ocho misiones y cada jefe hasta Baron Rivendare.
-- **[The Drowned City](/es/guides/dungeons/the-drowned-city/)**, niveles 35-40: la entrada bajo el agua frente a Stranglethorn Vale, las cinco misiones conocidas y cuatro jefes de la demo de la BlizzCon.
+- **[The Drowned City](/es/guides/dungeons/the-drowned-city/)**, niveles 35-40: la entrada bajo el agua frente a Stranglethorn Vale, las cinco misiones conocidas y cómo vencer a los seis jefes y al raro Umbra.
 - **[Krol'dok Stronghold](/es/guides/dungeons/kroldok-stronghold/)**, niveles 40-45: la fortaleza de los ogros de los Riverglades: la entrada por una cueva escondida, sus dos llaves y Overlord Mugg.
 - **[Alcaz Prison](/es/guides/dungeons/alcaz-prison/)**, niveles 48-53: la vieja prisión frente a Dustwallow Marsh: el portal en el sótano, los Defias y los naga, y Blazeroar.
 - **[Blackmaw Hold](/es/guides/dungeons/blackmaw-hold/)**, niveles 55-60: la ciudad furbolg tras la vieja puerta de Azshara: el túnel hacia Winterspring, su tamaño y Varrox Bleakhoof.

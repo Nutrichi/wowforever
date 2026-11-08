@@ -32,6 +32,10 @@
   "1144": {
    "objective": "Escolta a Willix the Importer fuera de la mazmorra.",
    "note": "Está retenido en una tienda antes del último jefe, y la escolta termina en la entrada."
+  },
+  "6522": {
+   "objective": "Lleva el Small Scroll a Varimathras en la Undercity.",
+   "note": "Charlga Razorflank suelta el pergamino. Lleva a An Unholy Alliance en Razorfen Downs."
   }
  }
 }

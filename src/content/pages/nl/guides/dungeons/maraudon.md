@@ -3,7 +3,7 @@ title: "Maraudon"
 metaTitle: "Maraudon in WoW Forever: loot, bazen en drops"
 description: "De loot van Maraudon in WoW Forever: de drops van alle acht de bazen, van Noxxion tot Princess Theradras, nagekeken in de data van Forever, en wat er nog ontbreekt."
 short: "Maraudon"
-updated: 2026-10-27
+updated: 2026-11-08
 lang: nl
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Wat doet de Scepter of Celebras?"
     a: "Hij brengt je rechtstreeks naar Earth Song Falls, het binnenste deel van Maraudon, vanuit een kleine kamer met vier vuurschalen buiten de dungeon. Je krijgt hem met de quest The Scepter of Celebras."
   - q: "Zit Heart of Noxxion in WoW Forever?"
-    a: "Niet in de data van Forever tot nu toe. Noxxion heeft daar alleen Noxious Shooter; Heart of Noxxion en Noxxion's Shackles ontbreken."
+    a: "Ja. Heart of Noxxion en Noxxion's Shackles staan nu in de data van Forever, naast Noxious Shooter."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/maraudon/"
@@ -22,6 +22,6 @@ dungeon:
   slug: "maraudon"
   tab: "loot"
 ---
-De lijst volgt het dungeon journal dat Blizzard voor Maraudon maakte in Classic, en toont alleen items die in de data van Forever bestaan. Daardoor vallen veertien van de eenendertig items weg, meer dan in elke andere dungeon op deze site: [Heart of Noxxion](https://www.wowhead.com/classic/item=17744), [Noxxion's Shackles](https://www.wowhead.com/classic/item=17746), [Phytoskin Spaulders](https://www.wowhead.com/classic/item=17749), [Chloromesh Girdle](https://www.wowhead.com/classic/item=17750), [Brusslehide Leggings](https://www.wowhead.com/classic/item=17751), [Satyr's Lash](https://www.wowhead.com/classic/item=17752), [Infernal Trickster Leggings](https://www.wowhead.com/classic/item=17754), [Gizlock's Hypertech Buckler](https://www.wowhead.com/classic/item=17718), [Helm of the Mountain](https://www.wowhead.com/classic/item=17734), [Rockgrip Gauntlets](https://www.wowhead.com/classic/item=17736), [Cloud Stone](https://www.wowhead.com/classic/item=17737), [Gemshard Heart](https://www.wowhead.com/classic/item=17707), [Elemental Rockridge Leggings](https://www.wowhead.com/classic/item=17711) en [Blade of Eternal Darkness](https://www.wowhead.com/classic/item=17780).
+De lijst volgt het dungeon journal dat Blizzard voor Maraudon maakte in Classic, en toont alleen items die in de data van Forever bestaan. 30 van de 31 items staan nu in die data; alleen [Blade of Eternal Darkness](https://www.wowhead.com/classic/item=17780) ontbreekt nog.
 
-Of Blizzard die items voor Forever heeft geschrapt of dat ze gewoon nog niet in de data staan, is niet bekend. Meshlok the Harvester, de rare bij Poison Falls, staat niet in de lijst.
+Of Blizzard dat item voor Forever heeft geschrapt of dat het gewoon nog niet in de data staat, is niet bekend. Meshlok the Harvester, de rare bij Poison Falls, staat niet in de lijst.

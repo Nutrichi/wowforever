@@ -3,7 +3,7 @@ title: "Dire Maul East"
 metaTitle: "Dire Maul East dans WoW Forever : butin, boss et drops"
 description: "Le butin de Dire Maul East dans WoW Forever : les drops de Classic de Lethtendris, Zevrim Thornhoof, Hydrospawn et Alzzin the Wildshaper, et ce que contiennent déjà les données de Forever."
 short: "Dire Maul East"
-updated: 2026-10-28
+updated: 2026-11-08
 lang: fr
 manual: true
 faq:
@@ -22,15 +22,15 @@ dungeon:
   slug: "dire-maul-east"
   tab: "loot"
 ---
-La liste suit le journal des donjons que Blizzard a fait pour Dire Maul dans Classic, et seuls les objets qui existent dans les données de Forever ont une carte. Aucun des 24 objets des quatre boss n’y est encore. Si Blizzard change le butin pour Forever ou si les objets n’y sont simplement pas encore, on ne le sait pas.
+La liste suit le journal des donjons que Blizzard a fait pour Dire Maul dans Classic, et seuls les objets qui existent dans les données de Forever ont une carte. 7 des 24 objets des quatre boss y sont maintenant. Si Blizzard change le butin pour Forever ou si les objets n’y sont simplement pas encore, on ne le sait pas.
 
-Voici les drops dans Classic :
+Ces drops de Classic ne sont pas encore dans les données de Forever :
 
 | Boss | Butin dans Classic |
 |---|---|
-| Lethtendris | [Lethtendris's Wand](https://www.wowhead.com/classic/item=18301), [Felhide Cap](https://www.wowhead.com/classic/item=18325), [Band of Vigor](https://www.wowhead.com/classic/item=18302), [Quel'dorai Channeling Rod](https://www.wowhead.com/classic/item=18311) |
-| Zevrim Thornhoof | [Helm of Awareness](https://www.wowhead.com/classic/item=18313), [Gloves of Shadowy Mist](https://www.wowhead.com/classic/item=18306), [Satyr's Bow](https://www.wowhead.com/classic/item=18323), [Clever Hat](https://www.wowhead.com/classic/item=18308), [Fervent Helm](https://www.wowhead.com/classic/item=18319) |
-| Hydrospawn | [Breakwater Legguards](https://www.wowhead.com/classic/item=18305), [Waterspout Boots](https://www.wowhead.com/classic/item=18322), [Riptide Shoes](https://www.wowhead.com/classic/item=18307), [Waveslicer](https://www.wowhead.com/classic/item=18324), [Tempest Talisman](https://www.wowhead.com/classic/item=18317) |
-| Alzzin the Wildshaper | [Energetic Rod](https://www.wowhead.com/classic/item=18321), [Gloves of Restoration](https://www.wowhead.com/classic/item=18309), [Fiendish Machete](https://www.wowhead.com/classic/item=18310), [Razor Gauntlets](https://www.wowhead.com/classic/item=18326), [Whipvine Cord](https://www.wowhead.com/classic/item=18327), [Shadewood Cloak](https://www.wowhead.com/classic/item=18328), [Energized Chestplate](https://www.wowhead.com/classic/item=18312), [Ring of Demonic Guile](https://www.wowhead.com/classic/item=18314), [Ring of Demonic Potency](https://www.wowhead.com/classic/item=18315), [Merciful Greaves](https://www.wowhead.com/classic/item=18318) |
+| Lethtendris | [Lethtendris's Wand](https://www.wowhead.com/classic/item=18301), [Felhide Cap](https://www.wowhead.com/classic/item=18325), [Quel'dorai Channeling Rod](https://www.wowhead.com/classic/item=18311) |
+| Zevrim Thornhoof | [Helm of Awareness](https://www.wowhead.com/classic/item=18313), [Gloves of Shadowy Mist](https://www.wowhead.com/classic/item=18306), [Clever Hat](https://www.wowhead.com/classic/item=18308) |
+| Hydrospawn | [Waterspout Boots](https://www.wowhead.com/classic/item=18322), [Riptide Shoes](https://www.wowhead.com/classic/item=18307), [Tempest Talisman](https://www.wowhead.com/classic/item=18317) |
+| Alzzin the Wildshaper | [Energetic Rod](https://www.wowhead.com/classic/item=18321), [Gloves of Restoration](https://www.wowhead.com/classic/item=18309), [Fiendish Machete](https://www.wowhead.com/classic/item=18310), [Whipvine Cord](https://www.wowhead.com/classic/item=18327), [Shadewood Cloak](https://www.wowhead.com/classic/item=18328), [Energized Chestplate](https://www.wowhead.com/classic/item=18312), [Ring of Demonic Guile](https://www.wowhead.com/classic/item=18314), [Merciful Greaves](https://www.wowhead.com/classic/item=18318) |
 
 Pusillin n’a pas d’équipement à lui. Il laisse la <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18249"><img class="wf-wh__icon" src="/wh/inv_misc_key_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Crescent Key</a> et le <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18261"><img class="wf-wh__icon" src="/wh/inv_misc_book_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Book of Incantations</a>, pour la quête.

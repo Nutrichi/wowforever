@@ -3,7 +3,7 @@ title: "Dungeonguide: jede Dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: Dungeons, Stufen und Questgeber"
 description: "Jeder Dungeon von WoW Forever mit seinen Levels und allen Quests: wo jede Quest beginnt, für welche Fraktion, was vorher nötig ist, und die Schlüssel, die manche Dungeons verlangen."
 short: "Dungeons"
-updated: 2026-10-28
+updated: 2026-11-08
 lang: de
 manual: true
 faq:
@@ -51,7 +51,7 @@ Die Beta von WoW Forever geht seit dem 1. Oktober bis Level 30. Für die Dungeon
 - **[Scholomance](/de/guides/dungeons/scholomance/)**, Stufe 58-60: der Skeleton Key, die Reihe von Eva Sarkhoff, alle zehn Quests und jeder Boss bis Darkmaster Gandling.
 - **[Stratholme Living](/de/guides/dungeons/stratholme-living/)**, Stufe 58-60: das Haupttor, The Scarlet Key, die sechs Briefkästen, alle sechs Quests und jeder Boss bis Balnazzar.
 - **[Stratholme Undead](/de/guides/dungeons/stratholme-undead/)**, Stufe 58-60: der Key to the City, die drei Zikkurats, der Slaughter Square, alle acht Quests und jeder Boss bis Baron Rivendare.
-- **[The Drowned City](/de/guides/dungeons/the-drowned-city/)**, Stufe 35-40: der Eingang unter Wasser vor Stranglethorn Vale, die fünf bekannten Quests und vier Bosse aus der BlizzCon-Demo.
+- **[The Drowned City](/de/guides/dungeons/the-drowned-city/)**, Stufe 35-40: der Eingang unter Wasser vor Stranglethorn Vale, die fünf bekannten Quests und wie du die sechs Bosse und den Rare Umbra besiegst.
 - **[Krol'dok Stronghold](/de/guides/dungeons/kroldok-stronghold/)**, Stufe 40-45: die Ogerfestung in den Riverglades: der versteckte Höhleneingang, ihre zwei Schlüssel und Overlord Mugg.
 - **[Alcaz Prison](/de/guides/dungeons/alcaz-prison/)**, Stufe 48-53: das alte Gefängnis vor Dustwallow Marsh: das Portal im Keller, die Defias und die Naga, und Blazeroar.
 - **[Blackmaw Hold](/de/guides/dungeons/blackmaw-hold/)**, Stufe 55-60: die Furbolg-Stadt hinter dem alten Tor in Azshara: der Tunnel nach Winterspring, ihre Größe und Varrox Bleakhoof.

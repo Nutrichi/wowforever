@@ -1,9 +1,9 @@
 ---
 title: "Razorfen Downs"
-metaTitle: "Le missioni di Razorfen Downs in WoW Forever: inizio, passaggi e ricompense"
+metaTitle: "Le missioni di Razorfen Downs in WoW Forever: inizio e ricompense"
 description: "Le missioni di Razorfen Downs in WoW Forever: la scorta di Belnistrasz, Bring the Light e Bring the End, An Unholy Alliance e cosa mostrano i dati di Forever."
 short: "Missioni"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: it
 manual: true
 sources:
@@ -13,7 +13,7 @@ dungeon:
   slug: "razorfen-downs"
   tab: "quests"
 ---
-I dati di Forever non hanno ancora missioni per Razorfen Downs. Queste sono le missioni che portano qui in Classic:
+Tutte e sei le missioni di Razorfen Downs ora sono nei dati di Forever. Dove iniziano e cosa danno segue Classic:
 
 | Missione | Dove inizia | Livello | Ricompensa |
 |---|---|---|---|

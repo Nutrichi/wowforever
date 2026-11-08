@@ -42,14 +42,26 @@
    "slug": "chorush-the-observer",
    "level": "60",
    "npc": 14324,
-   "items": []
+   "items": [
+    18483,
+    18485
+   ]
   },
   {
    "name": "King Gordok",
    "slug": "king-gordok",
    "level": "62",
    "npc": 11501,
-   "items": []
+   "items": [
+    18520,
+    18521,
+    18522,
+    18523,
+    18524,
+    18525,
+    18526,
+    18527
+   ]
   }
  ],
  "loose": [],
@@ -86,8 +98,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 5518,
@@ -120,9 +131,10 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    18258
+   ],
+   "choice": false
   },
   {
    "id": 5525,
@@ -156,8 +168,7 @@
    "chain": [],
    "next": [],
    "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "choice": false
   },
   {
    "id": 7703,
@@ -190,9 +201,13 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    18366,
+    18367,
+    18368,
+    18369
+   ],
+   "choice": true
   },
   {
    "id": 5528,
@@ -225,10 +240,30 @@
    ],
    "chain": [],
    "next": [],
-   "rewards": [],
-   "choice": false,
-   "rewardsUnknown": true
+   "rewards": [
+    18269,
+    18284
+   ],
+   "choice": true
   }
  ],
- "cards": {}
+ "cards": {
+  "18258": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_chain_14.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=18258\">Gordok Ogre Suit</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line\">Requires Level 55</span><span class=\"wf-item__line wf-item__use\">Use: Disguise yourself as one of the Gordok ogres, and maybe even fool a particular captain in the process! The suit will only hold together for 10 min.</span><span class=\"wf-item__line wf-item__meta\">\"It lifts AND supports!\"</span></div></div>",
+  "18269": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_drink_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=18269\">Gordok Green Grog</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line wf-item__use\">Use: Increases Stamina by 10 for 15 min and gets you drunk to boot. Green means it's good!</span><span class=\"wf-item__line\">Max Stack: 10</span></div></div>",
+  "18284": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_drink_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=18284\">Kreeg's Stout Beatdown</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line wf-item__use\">Use: Increases Spirit by 25, but decreases Intelligence by 5 for 15 min. Smoooooth.</span><span class=\"wf-item__line\">Max Stack: 10</span></div></div>",
+  "18366": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18366\">Gordok's Handguards</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">392 Armor</span><span class=\"wf-item__line\">+10 Strength</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+9 Spirit</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "18367": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18367\">Gordok's Gauntlets</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Mail</span></span><span class=\"wf-item__line\">221 Armor</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 11.</span></div></div>",
+  "18368": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18368\">Gordok's Gloves</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Leather</span></span><span class=\"wf-item__line\">106 Armor</span><span class=\"wf-item__line\">+9 Agility</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "18369": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18369\">Gordok's Handwraps</a><span class=\"wf-item__line wf-item__meta\">Item Level 60</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Cloth</span></span><span class=\"wf-item__line\">53 Armor</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 20 and damage done by up to 7 for all magical spells and effects.</span></div></div>",
+  "18483": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18483\">Mana Channeling Wand</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>68 - 127 Frost Damage</span><span>Speed 1.60</span></span><span class=\"wf-item__line\">(60.94 damage per second)</span><span class=\"wf-item__line\">Restores +2 mana per 5 sec.</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__use\">Equip: Chance on hit to restore 65 mana. (10ms cooldown)</span></div></div>",
+  "18485": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18485\">Observer's Shield</a><span class=\"wf-item__line wf-item__meta\">Item Level 61</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">2089 Armor</span><span class=\"wf-item__line\">38 Block</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+14 Intellect</span><span class=\"wf-item__line\">Requires Level 56</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span></div></div>",
+  "18520": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_11.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18520\">Barbarous Blade</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Sword</span></span><span class=\"wf-item__row\"><span>138 - 207 Damage</span><span>Speed 3.20</span></span><span class=\"wf-item__line\">(53.91 damage per second)</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: +50 Attack Power.</span><span class=\"wf-item__line wf-item__use\">Equip: +33 Attack Power against Humanoids.</span></div></div>",
+  "18521": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_plate_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18521\">Grimy Metal Boots</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Feet</span><span>Plate</span></span><span class=\"wf-item__line\">452 Armor</span><span class=\"wf-item__line\">+17 Strength</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+100 Armor</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Increases your chance to Dodge an attack by 1.0%.</span></div></div>",
+  "18522": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_32.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18522\">Band of the Ogre King</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+14 Strength</span><span class=\"wf-item__line\">+13 Stamina</span><span class=\"wf-item__line\">Requires Level 58</span></div></div>",
+  "18523": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_orb_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18523\">Brightly Glowing Stone</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Held In Off-hand</span><span></span></span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 29 and damage done by up to 10 for all magical spells and effects.</span></div></div>",
+  "18524": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18524\">Leggings of Destruction</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Mail</span></span><span class=\"wf-item__line\">324 Armor</span><span class=\"wf-item__line\">+14 Agility</span><span class=\"wf-item__line\">+21 Stamina</span><span class=\"wf-item__line\">+13 Intellect</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "18525": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18525\">Bracers of Prosperity</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Leather</span></span><span class=\"wf-item__line\">77 Armor</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+5 Spirit</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 22 and damage done by up to 7 for all magical spells and effects.</span></div></div>",
+  "18526": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_crown_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18526\">Crown of the Ogre King</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Cloth</span></span><span class=\"wf-item__line\">73 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">+16 Intellect</span><span class=\"wf-item__line\">+11 Spirit</span><span class=\"wf-item__line\">+4 Spell Penetration</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "18527": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=18527\">Harmonious Gauntlets</a><span class=\"wf-item__line wf-item__meta\">Item Level 63</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Mail</span></span><span class=\"wf-item__line\">231 Armor</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Requires Level 58</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 33 and damage done by up to 11 for all magical spells and effects.</span></div></div>"
+ }
 }

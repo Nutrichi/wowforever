@@ -3,7 +3,7 @@ title: "Dungeongids: elke dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: elke dungeon, level en questgever"
 description: "Elke dungeon van WoW Forever met zijn levels en al zijn quests: waar elke quest begint, voor welke factie, wat eerst moet, en de sleutels die sommige dungeons vragen."
 short: "Dungeons"
-updated: 2026-10-28
+updated: 2026-11-08
 lang: nl
 manual: true
 faq:
@@ -51,7 +51,7 @@ De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daar
 - **[Scholomance](/nl/guides/dungeons/scholomance/)**, level 58-60: de Skeleton Key, de reeks van Eva Sarkhoff, alle tien de quests en elke baas tot Darkmaster Gandling.
 - **[Stratholme Living](/nl/guides/dungeons/stratholme-living/)**, level 58-60: de hoofdpoort, The Scarlet Key, de zes postbussen, alle zes de quests en elke baas tot Balnazzar.
 - **[Stratholme Undead](/nl/guides/dungeons/stratholme-undead/)**, level 58-60: de Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare.
-- **[The Drowned City](/nl/guides/dungeons/the-drowned-city/)**, level 35-40: de ingang onder water voor Stranglethorn Vale, de vijf bekende quests en vier bazen uit de BlizzCon-demo.
+- **[The Drowned City](/nl/guides/dungeons/the-drowned-city/)**, level 35-40: de ingang onder water voor Stranglethorn Vale, de vijf bekende quests en hoe je de zes bazen en de rare Umbra verslaat.
 - **[Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/)**, level 40-45: het ogrefort in de Riverglades: de verstopte grot als ingang, de twee sleutels en Overlord Mugg.
 - **[Alcaz Prison](/nl/guides/dungeons/alcaz-prison/)**, level 48-53: de oude gevangenis voor Dustwallow Marsh: het portaal in de kelder, de Defias en de naga, en Blazeroar.
 - **[Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/)**, level 55-60: de furbolgstad achter de oude poort in Azshara: de tunnel naar Winterspring, de grootte en Varrox Bleakhoof.

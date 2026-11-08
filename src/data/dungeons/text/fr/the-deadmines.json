@@ -85,6 +85,14 @@
      "alt": "Baros Alexston dans le City Hall de Cathedral Square à Stormwind, une capture d’écran de World of Warcraft"
     }
    ]
+  },
+  "1654": {
+   "objective": "Rassemblez Whitestone Oak Lumber, Bailor's Refined Ore Shipment, Jordan's Smithing Hammer et une Kor Gem pour Jordan Stilwell aux portes d’Ironforge.",
+   "note": "Une quête de Paladin à la fin de la chaîne du Tome of Valor. Le marteau se trouve dans Shadowfang Keep, le bois vient de The Deadmines et la Kor Gem de Blackfathom Deeps."
+  },
+  "95036": {
+   "objective": "Apportez à Trevan Rol, au Sepulcher, les matériaux de ses notes : Whitestone Oak Lumber, un Enchanted Silver Ingot et une Purified Kor Gem.",
+   "note": "L'équivalent Horde de The Test of Righteousness, nouveau dans Forever. Dans Classic, le Whitestone Oak Lumber tombe sur les Goblin Woodcarvers de The Deadmines."
   }
  }
 }

@@ -3,7 +3,7 @@ title: "Uldaman"
 metaTitle: "Uldaman in WoW Forever: loot, bosses and drops"
 description: "Every known drop in Uldaman in WoW Forever: the loot of Revelosh, Ironaya, the Ancient Stone Keeper and Grimlok, and the blue drops of the troggs and Dark Iron dwarves."
 short: "Uldaman"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: en
 faq:
   - q: "What level is Uldaman in WoW Forever?"
@@ -13,7 +13,7 @@ faq:
   - q: "How many bosses does Uldaman have?"
     a: "Eight: Revelosh, the Lost Dwarves, Ironaya, the Obsidian Sentinel, the Ancient Stone Keeper, Galgann Firehammer, Grimlok and Archaedas."
   - q: "Does Uldaman have quests in WoW Forever?"
-    a: "The Forever data has none for Uldaman yet. In Classic, more than a dozen quests from Ironforge, Loch Modan, the Badlands, Orgrimmar and the Undercity lead here."
+    a: "Yes, fourteen: seven for the Alliance, three for the Horde and four for both factions, from Ironforge, Loch Modan, the Badlands, Dustwallow Marsh and the Undercity. Two start inside the dungeon and two from a dropped necklace."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/uldaman/"

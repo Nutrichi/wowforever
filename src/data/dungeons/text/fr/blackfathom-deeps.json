@@ -42,6 +42,14 @@
   },
   "6922": {
    "objective": "Apportez la Strange Water Globe, laissée par Baron Aquanis, à Je'neu Sancrea."
+  },
+  "1654": {
+   "objective": "Rassemblez Whitestone Oak Lumber, Bailor's Refined Ore Shipment, Jordan's Smithing Hammer et une Kor Gem pour Jordan Stilwell aux portes d’Ironforge.",
+   "note": "Une quête de Paladin à la fin de la chaîne du Tome of Valor. Le marteau se trouve dans Shadowfang Keep, le bois vient de The Deadmines et la Kor Gem de Blackfathom Deeps."
+  },
+  "1740": {
+   "objective": "Rapportez 3 Soran'ruk Fragments et 1 Large Soran'ruk Fragment à Doan Karhan dans The Barrens.",
+   "note": "Une quête de Warlock. Le grand fragment tombe sur les Shadowfang Darksouls du donjon, les petits sur les Twilight Acolytes de Blackfathom Deeps."
   }
  }
 }

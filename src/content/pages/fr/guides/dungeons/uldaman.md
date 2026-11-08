@@ -3,7 +3,7 @@ title: "Uldaman"
 metaTitle: "Uldaman dans WoW Forever : butin, boss et objets"
 description: "Tout le butin connu d’Uldaman dans WoW Forever : les objets de Revelosh, Ironaya, l’Ancient Stone Keeper et Grimlok, et les objets bleus des troggs et des nains Dark Iron."
 short: "Uldaman"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: fr
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Combien de boss compte Uldaman ?"
     a: "Huit : Revelosh, les Lost Dwarves, Ironaya, l’Obsidian Sentinel, l’Ancient Stone Keeper, Galgann Firehammer, Grimlok et Archaedas."
   - q: "Uldaman a-t-il des quêtes dans WoW Forever ?"
-    a: "Les données de Forever n’en ont pas encore pour Uldaman. Dans Classic, plus d’une dizaine de quêtes d’Ironforge, Loch Modan, des Badlands, d’Orgrimmar et de l’Undercity mènent ici."
+    a: "Oui, quatorze : sept pour l'Alliance, trois pour la Horde et quatre pour les deux factions, depuis Ironforge, Loch Modan, les Badlands, Dustwallow Marsh et l'Undercity. Deux commencent dans le donjon et deux avec un collier tombé sur un monstre."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/uldaman/"

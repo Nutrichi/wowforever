@@ -1,9 +1,9 @@
 ---
 title: "The Deadmines"
-metaTitle: "De quests van The Deadmines in WoW Forever: start, stappen en beloningen"
-description: "Alle zeven de quests van The Deadmines in WoW Forever: waar elke quest begint in Stormwind en Westfall, de nieuwe reeks Destruction in Deadmines, wat je moet doen en de beloningen."
+metaTitle: "De quests van The Deadmines in WoW Forever: start en beloningen"
+description: "De quests van The Deadmines in WoW Forever: waar elke quest begint in Stormwind en Westfall, de nieuwe reeks Destruction in Deadmines, wat je moet doen en de beloningen."
 short: "Quests"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: nl
 manual: true
 sources:
@@ -15,7 +15,7 @@ dungeon:
   slug: "the-deadmines"
   tab: "quests"
 ---
-Alle zeven de quests zijn voor de Alliance. Collecting Memories, Oh Brother... en Underground Assault kun je delen.
+Zeven quests zijn voor de Alliance, plus een Paladin-quest voor elke kant. Collecting Memories, Oh Brother... en Underground Assault kun je delen.
 
 **De reeks van Destruction in Deadmines** is nieuw in Forever en begint bij Alba Fairmoon op Sentinel Hill, /way 52.4 53.0. Je kunt ze oppikken vanaf level 9:
 

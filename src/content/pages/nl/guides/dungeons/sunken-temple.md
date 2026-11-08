@@ -3,7 +3,7 @@ title: "Sunken Temple"
 metaTitle: "Sunken Temple in WoW Forever: loot, bazen en drops"
 description: "De loot van de Sunken Temple in WoW Forever: de drops van Jammal'an the Prophet, de Wardens of the Dream, de Shade of Eranikus en de Avatar of Hakkar, zeven ervan in de data van Forever."
 short: "Sunken Temple"
-updated: 2026-10-28
+updated: 2026-11-08
 lang: nl
 manual: true
 faq:
@@ -22,15 +22,13 @@ dungeon:
   slug: "sunken-temple"
   tab: "loot"
 ---
-De lijst volgt het dungeon journal dat Blizzard voor de Temple of Atal'Hakkar maakte, en alleen items die in de data van Forever bestaan, krijgen een kaart. Zeven van de 25 items staan in die data. In het journal delen de vier draken Weaver, Dreamscythe, Hazzas en Morphaz één lijst als de Wardens of the Dream. Of Blizzard de rest voor Forever verandert of die items er gewoon nog niet in staan, is niet bekend.
+De lijst volgt het dungeon journal dat Blizzard voor de Temple of Atal'Hakkar maakte, en alleen items die in de data van Forever bestaan, krijgen een kaart. 22 van de 25 items staan nu in die data. In het journal delen de vier draken Weaver, Dreamscythe, Hazzas en Morphaz één lijst als de Wardens of the Dream. Of Blizzard de rest voor Forever verandert of die items er gewoon nog niet in staan, is niet bekend.
 
 Deze drops uit Classic staan nog niet in de data van Forever:
 
 | Baas | Loot in Classic |
 |---|---|
-| Jammal'an the Prophet | [Gloves of the Atal'ai Prophet](https://www.wowhead.com/classic/item=10808), [Vestments of the Atal'ai Prophet](https://www.wowhead.com/classic/item=10806) |
-| Wardens of the Dream | [Bloodfire Talons](https://www.wowhead.com/classic/item=12464), [Drakeclaw Band](https://www.wowhead.com/classic/item=10795), [Drakestone](https://www.wowhead.com/classic/item=10796), [Firebreather](https://www.wowhead.com/classic/item=10797), [Drakefang Butcher](https://www.wowhead.com/classic/item=12463) |
-| Shade of Eranikus | [Crest of Supremacy](https://www.wowhead.com/classic/item=10835), [Dire Nail](https://www.wowhead.com/classic/item=10828), [Rod of Corrosion](https://www.wowhead.com/classic/item=10836), [Dragon's Eye](https://www.wowhead.com/classic/item=10829), [Tooth of Eranikus](https://www.wowhead.com/classic/item=10837), [Dragon's Call](https://www.wowhead.com/classic/item=10847) |
-| Avatar of Hakkar | [Windscale Sarong](https://www.wowhead.com/classic/item=10842), [Featherskin Cape](https://www.wowhead.com/classic/item=10843), [Warrior's Embrace](https://www.wowhead.com/classic/item=10845), [Bloodshot Greaves](https://www.wowhead.com/classic/item=10846), [Embrace of the Wind Serpent](https://www.wowhead.com/classic/item=12462) |
+| Wardens of the Dream | [Bloodfire Talons](https://www.wowhead.com/classic/item=12464), [Firebreather](https://www.wowhead.com/classic/item=10797) |
+| Avatar of Hakkar | [Embrace of the Wind Serpent](https://www.wowhead.com/classic/item=12462) |
 
 Atal'alarion en de zes trollenwachters op de balkons hebben geen items in het journal.

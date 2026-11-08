@@ -554,6 +554,47 @@
     274078
    ],
    "choice": true
+  },
+  {
+   "id": 6522,
+   "name": "An Unholy Alliance",
+   "level": 36,
+   "minLevel": 28,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Small Scroll",
+     "kind": "item",
+     "item": 17008,
+     "zone": "The Barrens",
+     "place": "Razorfen Kraul",
+     "drop": "Charlga Razorflank"
+    }
+   ],
+   "to": [
+    {
+     "name": "Varimathras",
+     "kind": "npc",
+     "npc": 2425,
+     "zone": "Undercity",
+     "place": "Royal Quarter"
+    }
+   ],
+   "chain": [],
+   "next": [
+    {
+     "name": "An Unholy Alliance",
+     "id": null,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false
   }
  ],
  "cards": {

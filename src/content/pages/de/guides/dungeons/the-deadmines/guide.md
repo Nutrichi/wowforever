@@ -3,7 +3,7 @@ title: "The Deadmines"
 metaTitle: "Guide zu The Deadmines für WoW Forever: Route, Trash und Bosse"
 description: "So spielst du The Deadmines in WoW Forever: der Weg hinein über Moonbrook, die Route von der Mine bis zum Schiff, der Trash, auf den du achten musst, und jeder Boss von Rhahk'Zor bis VanCleef."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-08
 lang: de
 manual: true
 sources:
@@ -21,7 +21,7 @@ Der Eingang ist das Defias Hideout, das große Gebäude in der Südwestecke von 
 
 Auf dem Weg nach unten führt ein Seitengang in den Spukteil der Mine. Er liegt außerhalb des Dungeons, aber jeder Untote dort ist Elite. Zwei Quests von Wilder Thistlenettle erledigst du dort.
 
-Die Horde hat hier keine Quests und einen langen Weg durch Westfall, aber die Beute ist für beide Fraktionen gleich.
+Die Horde hat hier nur eine Paladin-Quest und einen langen Weg durch Westfall, aber die Beute ist für beide Fraktionen gleich.
 
 ![Das Portal von The Deadmines am Ende eines grün beleuchteten Minentunnels mit zwei Laternen, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../../../assets/posts/2026-10-03-wow-forever-deadmines-entrance-portal.jpg)
 
