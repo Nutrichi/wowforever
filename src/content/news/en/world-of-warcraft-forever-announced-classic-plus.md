@@ -9,7 +9,7 @@ imageAlt: "The World of Warcraft: Forever logo over painted landscape art of Aze
 source: "Blizzard Entertainment"
 sourceUrl: "https://worldofwarcraft.blizzard.com/en-gb/forever"
 tags: ["forever"]
-featured: true
+featured: false
 draft: false
 ---
 Blizzard has announced World of Warcraft: Forever. The game launches on 4 November 2026 and is included in a regular subscription. Forever is a reworked original Azeroth that stays at level 60 for good. The beta starts on 17 September.

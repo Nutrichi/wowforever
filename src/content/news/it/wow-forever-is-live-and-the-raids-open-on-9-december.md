@@ -9,7 +9,7 @@ imageAlt: "Il logo di World of Warcraft: Forever sopra le parole Launch Overview
 source: "Blizzard Entertainment"
 sourceUrl: "https://worldofwarcraft.blizzard.com/en-gb/news/24303009"
 tags: ["forever", "raids"]
-featured: false
+featured: true
 draft: false
 manual: true
 ---

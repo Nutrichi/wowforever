@@ -9,7 +9,7 @@ imageAlt: "Het logo van World of Warcraft: Forever over geschilderde landschapsa
 source: "Blizzard Entertainment"
 sourceUrl: "https://worldofwarcraft.blizzard.com/en-gb/forever"
 tags: ["forever"]
-featured: true
+featured: false
 draft: false
 manual: true
 ---

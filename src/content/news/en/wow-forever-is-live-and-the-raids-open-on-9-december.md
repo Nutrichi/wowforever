@@ -9,7 +9,7 @@ imageAlt: "The World of Warcraft: Forever logo above the words Launch Overview, 
 source: "Blizzard Entertainment"
 sourceUrl: "https://worldofwarcraft.blizzard.com/en-gb/news/24303009"
 tags: ["forever", "raids"]
-featured: false
+featured: true
 draft: false
 ---
 World of Warcraft: Forever is live. The realms opened on 4 November at 15:00 Pacific time, 00:00 Belgian time on 5 November, after [five hours of maintenance](/news/five-hours-of-maintenance-before-the-launch/).

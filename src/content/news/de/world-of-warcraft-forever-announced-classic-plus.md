@@ -9,7 +9,7 @@ imageAlt: "Das Logo von World of Warcraft: Forever über gemalter Landschaftskun
 source: "Blizzard Entertainment"
 sourceUrl: "https://worldofwarcraft.blizzard.com/en-gb/forever"
 tags: ["forever"]
-featured: true
+featured: false
 draft: false
 manual: true
 ---

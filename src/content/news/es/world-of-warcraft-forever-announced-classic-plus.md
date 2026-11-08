@@ -9,7 +9,7 @@ imageAlt: "El logo de World of Warcraft: Forever sobre un paisaje pintado de Aze
 source: "Blizzard Entertainment"
 sourceUrl: "https://worldofwarcraft.blizzard.com/en-gb/forever"
 tags: ["forever"]
-featured: true
+featured: false
 draft: false
 manual: true
 ---
