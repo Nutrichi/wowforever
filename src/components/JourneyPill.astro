@@ -1,0 +1,59 @@
+---
+/*
+ * De Journey-pil in de tweede balk, naast RestedXP (Nutri, 9 november 2026:
+ * "make a button with my affiliate link towards Journey. Include the logo as well").
+ *
+ * Zelfde vorm als de RestedXP-pil, maar met een rand in plaats van een gevulde
+ * achtergrond, zodat RestedXP de hoofdknop blijft. Het logo is het kompas uit
+ * de addon (JourneyLogoMed.png, transparant, 48 px). Wijkt in de balk na Ko-fi en
+ * zoeken, vóór LIVE en RestedXP, als er geen plaats is (SecondBar, ORDER). Onder 900 px staat hij niet
+ * in de balk: daar is de regel al vol met timers, LIVE en RestedXP.
+ *
+ * `rel="sponsored"`, want het is een partnerlink.
+ */
+import type { Locale } from '../i18n/ui';
+import { useTranslations } from '../i18n/utils';
+import { journeyUrl } from '../config/site';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+---
+
+<a class="wf-journey" href={journeyUrl} rel="noopener sponsored" target="_blank" aria-label={t('journey.aria')}>
+  <img class="wf-journey__icon" src="/assets/journey-icon.png" width="22" height="22" alt="" />
+  <span aria-hidden="true">{t('journey.wide')}</span>
+</a>
+
+<style>
+  .wf-journey {
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 4px 13px 4px 5px;
+    border: 1px solid var(--wf-accent-deep);
+    border-radius: var(--wf-r-pill);
+    color: var(--wf-accent);
+    font-family: var(--wf-display);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: .08em;
+    white-space: nowrap;
+    transition: var(--wf-transition);
+  }
+
+  .wf-journey:hover {
+    border-color: var(--wf-accent);
+    box-shadow: var(--wf-glow-primary);
+  }
+
+  .wf-journey__icon { flex: none; }
+
+  @media (max-width: 899px) {
+    .wf-journey { display: none; }
+  }
+</style>

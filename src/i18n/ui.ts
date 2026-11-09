@@ -129,6 +129,8 @@ export const ui = {
     'restedxp.wide': 'RESTEDXP · 10% OFF',
     'restedxp.short': '−10%',
     'restedxp.aria': 'RestedXP leveling guides, 10% off with the partner link',
+    'journey.wide': 'JOURNEY · 10% OFF',
+    'journey.aria': 'Journey leveling guides, 10% off with the code nutri',
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.youtube': 'YouTube',
@@ -302,6 +304,8 @@ export const ui = {
     'restedxp.wide': 'RESTEDXP · 10% KORTING',
     'restedxp.short': '−10%',
     'restedxp.aria': 'Levelgidsen van RestedXP, 10% korting met de partnerlink',
+    'journey.wide': 'JOURNEY · 10% KORTING',
+    'journey.aria': 'Levelgidsen van Journey, 10% korting met de code nutri',
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Voettekst',
@@ -469,6 +473,8 @@ export const ui = {
     'restedxp.wide': 'RESTEDXP · 10 % DE RÉDUCTION',
     'restedxp.short': '−10 %',
     'restedxp.aria': 'Guides de leveling RestedXP, 10 % de réduction avec le lien partenaire',
+    'journey.wide': 'JOURNEY · 10 % DE RÉDUCTION',
+    'journey.aria': 'Guides de leveling Journey, 10 % de réduction avec le code nutri',
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Pied de page',
@@ -636,6 +642,8 @@ export const ui = {
     'restedxp.wide': 'RESTEDXP · 10 % DE DESCUENTO',
     'restedxp.short': '−10 %',
     'restedxp.aria': 'Guías de subida de nivel de RestedXP, 10 % de descuento con el enlace de socio',
+    'journey.wide': 'JOURNEY · 10 % DE DESCUENTO',
+    'journey.aria': 'Guías de subida de nivel de Journey, 10 % de descuento con el código nutri',
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Pie de página',
@@ -803,6 +811,8 @@ export const ui = {
     'restedxp.wide': 'RESTEDXP · 10% DI SCONTO',
     'restedxp.short': '−10%',
     'restedxp.aria': 'Guide di leveling di RestedXP, 10% di sconto con il link partner',
+    'journey.wide': 'JOURNEY · 10% DI SCONTO',
+    'journey.aria': 'Guide di leveling di Journey, 10% di sconto con il codice nutri',
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Piè di pagina',
@@ -970,6 +980,8 @@ export const ui = {
     'restedxp.wide': 'RESTEDXP · 10 % RABATT',
     'restedxp.short': '−10 %',
     'restedxp.aria': 'Leveling-Guides von RestedXP, 10 % Rabatt mit dem Partnerlink',
+    'journey.wide': 'JOURNEY · 10 % RABATT',
+    'journey.aria': 'Leveling-Guides von Journey, 10 % Rabatt mit dem Code nutri',
 
     'footer.copyright': '© {y} wowforever.be',
     'footer.label': 'Fußzeile',

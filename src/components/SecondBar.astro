@@ -6,7 +6,7 @@
  * dunne lijn, de slot (daar komt de era-schakelaar op BIS, CLASSES,
  * TRADESKILLS en REPUTATIONS), en rechts het zoekveld, de Ko-fi-pil (sinds
  * 25 september 2026), de LIVE-knop (alleen als Nutri live is op YouTube, sinds
- * 17 oktober 2026) en de RestedXP-pil.
+ * 17 oktober 2026), de Journey-pil (sinds 9 november 2026) en de RestedXP-pil.
  *
  * **Zoeken stond eerst in de header** en is hier naartoe gegaan (Nutri,
  * 18 september 2026), zodat de navigatie de volle breedte houdt. Onder 900 px
@@ -23,6 +23,7 @@
  * op één regel.
  */
 import type { Locale } from '../i18n/ui';
+import JourneyPill from './JourneyPill.astro';
 import KofiPill from './KofiPill.astro';
 import LivePill from './LivePill.astro';
 import RestedXpPill from './RestedXpPill.astro';
@@ -51,6 +52,7 @@ const { locale, hasContent = false } = Astro.props;
       <div class="wf-bar__search"><SearchField locale={locale} variant="bar" /></div>
       <KofiPill locale={locale} variant="bar" />
       <LivePill locale={locale} />
+      <JourneyPill locale={locale} />
       <RestedXpPill locale={locale} wide />
     </div>
   </div>
@@ -59,12 +61,12 @@ const { locale, hasContent = false } = Astro.props;
 <script>
   /*
    * Passen of wijken (Nutri, 9 november 2026): is er rechts niet genoeg plaats, dan verdwijnt eerst
-   * Ko-fi, dan het zoekveld, dan de LIVE-knop en pas als laatste RestedXP. Is er plaats, dan blijft
+   * Ko-fi, dan het zoekveld, dan Journey (sinds 9 november 2026, vóór LIVE zodat volle balken blijven zoals ze waren), dan de LIVE-knop en pas als laatste RestedXP. Is er plaats, dan blijft
    * alles staan. Gemeten in de browser, niet met vaste breekpunten: de breedte hangt af van de taal,
    * van de era-rij in de balk en van de timers. Onder 900 px loopt de balk over twee regels en
    * regelt de CSS het zelf.
    */
-  const ORDER = ['.wf-kofi', '.wf-bar__search', '.wf-onair', '.wf-rxp'];
+  const ORDER = ['.wf-kofi', '.wf-bar__search', '.wf-journey', '.wf-onair', '.wf-rxp'];
   const SEARCH_MIN = 120;
 
   function fit(right: HTMLElement) {

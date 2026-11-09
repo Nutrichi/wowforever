@@ -43,10 +43,11 @@ const size = wide ? 22 : 20;
     display: inline-flex;
     align-items: center;
     gap: 7px;
-    padding: 5px 13px 5px 6px;
+    /* Omlijnd in goud, zoals de Journey-pil (Nutri, 9 november 2026: "a gold outline instead of a fill"). */
+    padding: 4px 13px 4px 5px;
+    border: 1px solid var(--wf-accent-deep);
     border-radius: var(--wf-r-pill);
-    background: var(--wf-button);
-    color: var(--wf-button-ink);
+    color: var(--wf-accent);
     font-family: var(--wf-display);
     font-weight: 600;
     font-size: 12px;
@@ -55,7 +56,10 @@ const size = wide ? 22 : 20;
     transition: box-shadow .16s ease;
   }
 
-  .wf-rxp:hover { box-shadow: var(--wf-glow-primary); }
+  .wf-rxp:hover {
+    border-color: var(--wf-accent);
+    box-shadow: var(--wf-glow-primary);
+  }
 
   .wf-rxp__icon {
     flex: none;
