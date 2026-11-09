@@ -34,16 +34,18 @@ Der DMF-Knopf in der Leiste oben auf der Seite zählt bis zur nächsten Faire, f
 
 Alle zwei Stunden stellt dir <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14822">Sayge</a> zwei Fragen. Deine Antworten bestimmen den Buff. Die meisten Spieler nehmen 10 % Schaden: zweimal die erste Antwort.
 
-| Antworten | Buff |
-|---|---|
-| **1 und 1** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23768"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Damage</a>, 10 % Schaden |
-| **1 und 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23769"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Resistance</a>, 25 auf alle Widerstände |
-| **1 und 3** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23767"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Armor</a>, 10 % Rüstung |
-| **2 und 1** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23738"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Spirit</a>, 10 % Spirit |
-| **2 und 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23766"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Intelligence</a>, 10 % Intellect |
-| **3 und 1** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23737"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Stamina</a>, 10 % Stamina |
-| **3 und 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23735"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Strength</a>, 10 % Strength |
-| **3 und 3** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23736"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Agility</a>, 10 % Agility |
+| Antworten | Buff | Was du anklickst | Geht auch |
+|---|---|---|---|
+| **1 und 1** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23768"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Damage</a>, 10 % Schaden | Slay the Man, Execute your friend painfully | - |
+| **1 und 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23769"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Resistance</a>, 25 auf alle Widerstände | Slay the Man, Execute your friend painlessly | **2 und 3**: Turn him over to liege, Remain quiet |
+| **1 und 3** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23767"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Armor</a>, 10 % Rüstung | Slay the Man, Let your friend go | **4 und 3**: Let him go and have the corn, Let the knight take credit |
+| **2 und 1** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23738"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Spirit</a>, 10 % Spirit | Turn him over to liege, Confront the diplomat | **4 und 2**: Let him go and have the corn, Take credit, share the gold |
+| **2 und 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23766"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Intelligence</a>, 10 % Intellect | Turn him over to liege, Show not-so-quiet defiance | **4 und 1**: Let him go and have the corn, Take credit, keep gold |
+| **3 und 1** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23737"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Stamina</a>, 10 % Stamina | Confiscate the corn, Speak against your brother openly | - |
+| **3 und 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23735"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Strength</a>, 10 % Strength | Confiscate the corn, Help your brother in | - |
+| **3 und 3** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23736"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Agility</a>, 10 % Agility | Confiscate the corn, Keep your brother out without letting him know | - |
+
+Die Antworten sind die englischen Texte aus dem Spiel. Manche Buffs haben einen zweiten Weg, oft über die vierte Antwort auf die erste Frage.
 
 Der Buff ist weniger wert als in Classic. [Weltbuffs wirken in Forever nicht in Raids](/de/news/darkmoon-faire-opens-first-in-elwynn-forest/), nur in der offenen Welt.
 
