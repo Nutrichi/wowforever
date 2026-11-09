@@ -3,7 +3,7 @@ title: "Guía de reputación de la Azeroth Commerce Authority"
 description: "Azeroth Commerce Authority en WoW Forever: el campamento de suministros de la Alliance en Three Corners, cajas por Merchant's Favor, recetas para siete profesiones, el Pack Kodo, títulos y tabardo."
 lang: es
 manual: true
-updated: 2026-09-29
+updated: 2026-11-09
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -38,7 +38,7 @@ El campamento está en Three Corners, en Redridge Mountains, justo a las afueras
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | Blacksmithing | 10.4 74.7 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | Tailoring | 10.0 73.0 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | Leatherworking | 10.0 72.9 |
-| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Una casa de subastas, conectada con las capitales de la Alliance | 9.7 72.0 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Una casa de subastas neutral, conectada con las demás neutrales | 9.7 72.0 |
 
 El nombre suena de Season of Discovery, donde la Azeroth Commerce Exchange funcionaba de forma parecida. En Forever la facción es más grande y va ligada a las profesiones.
 
@@ -49,12 +49,12 @@ El nombre suena de Season of Discovery, donde la Azeroth Commerce Exchange funci
 | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=262766"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Pack Kodo</a> | 6000 | Nivel 60 y Journeyman Riding, para toda la cuenta |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> | 1500 | Enseña la mascota [Minimule](/es/guides/pets/minimule/) |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=270888"><img class="wf-wh__icon" src="/wh/inv_misc_notescript2b.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Advertising License Application</a> | 1200 | Honored; empieza la misión del juguete Dwarven Tradeskill Sign |
-| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | | Exalted |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | 200 | Exalted |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280449"><img class="wf-wh__icon" src="/wh/8101155.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skyborne Tabard</a> | | Exalted, según el propio objeto |
 
 ## Recetas por profesión
 
-Cada vendedor de profesión vende recetas por Merchant's Favor. Las listas completas están en [esta guía de reputación](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Cada vendedor de profesión vende recetas por Merchant's Favor.
 
 | Profesión | Vendedor | Recetas | Habilidad | Merchant's Favor |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ Cada vendedor de profesión vende recetas por Merchant's Favor. Las listas compl
 | Alchemy | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256729">Nina Surefire</a> | 29 | 65 a 300 | 45 a 240 |
 | Cooking | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256731">Kalsey Sanden</a> | 6 batidos | 25 a 250 | 30 a 90 |
 | Engineering | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256733">Fritz Fizzle</a> | 28 | 25 a 300 | 45 a 360 |
-| Blacksmithing | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | 60 | 45 a 300 | 30 a 120 |
+| Blacksmithing | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | 61 | 45 a 300 | 30 a 120 |
 | Tailoring | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | 67 | 60 a 235 | 30 a 90 |
 | Leatherworking | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | 81 | 60 a 235 | 30 a 90 |
 
@@ -76,12 +76,10 @@ Con 300 de habilidad, un vendedor ofrece una certificación. Desbloquea el títu
 |---|---|---|
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271621"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alchemy Certification</a> | the Alchemist | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271622"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blacksmithing Certification</a> | the Blacksmith | 1000 |
-| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271624"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchanting Certification</a> | the Enchanter | 240 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271624"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchanting Certification</a> | the Enchanter | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271625"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Engineering Certification</a> | the Engineer | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271626"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leatherworking Certification</a> | the Leatherworker | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271627"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tailoring Certification</a> | the Tailor | 1000 |
-
-La Enchanting Certification cuesta 240 en la lista, una cuarta parte de las demás. Si es correcto, no se sabe.
 
 ## Los niveles
 
@@ -99,12 +97,20 @@ Por debajo de Neutral la escala también es la habitual: Hated mide 36.000, y Ho
 
 ## De dónde sale la reputación
 
-**Las cajas.** Una caja como la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> se saquea por el mundo, se llena y se entrega a Marcy Baker. La perk de Legacy Performance Bonus da un 5, 10 o 15 % de probabilidad de doble Merchant's Favor por caja; mira la [calculadora de Legacy](/es/talents/legacy/).
+**Los Craftsman's Writs dan la reputación.** Un writ es un objeto que inicia una misión diaria: llevas un objeto fabricado a un PNJ en algún lugar de Azeroth. Un objeto mejor da más reputación. Los writs se pueden vender en la casa de subastas, así que eliges los que sabes fabricar.
 
-**Los Craftsman's Writs** también existen, y quizá desde el nivel 10. Qué piden y si Marcy Baker los acepta, aún no se sabe.
+**Las cajas dan Merchant's Favor.** Una Waylaid Supply Crate como la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> cae al azar en mazmorras y en el mundo abierto, según tu nivel y la zona. La llenas con uno de los lotes que indica la caja y la entregas a Marcy Baker. La perk de Legacy Performance Bonus da un 5, 10 o 15 % de probabilidad de doble Merchant's Favor por caja; mira la [calculadora de Legacy](/es/talents/legacy/).
+
+| Caja | Calidad | Merchant's Favor |
+|---|---|---|
+| Sealed Apprentice Crate | Common (blanca) | 5 |
+| Sealed Apprentice Crate | Uncommon (verde) | 10 |
+| Sealed Apprentice Crate | Rare (azul) | aún no se sabe |
+| Sealed Journeyman Crate | Common (blanca) | 10 |
+| Sealed Journeyman Crate | Uncommon (verde) | 20 |
 
 ## Lo que aún no se sabe
 
-- **Cuánta reputación da una caja**, y si hay un límite diario o semanal.
+- **Cuánto da una caja rara**, y cuánta reputación da cada writ.
 - **Dónde empieza un personaje nuevo.** Neutral es aquí una suposición, no un valor confirmado.
 - **Qué caja va con qué profesión**, y cuántas puedes llevar.

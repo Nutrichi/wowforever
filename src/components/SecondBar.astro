@@ -47,7 +47,7 @@ const { locale, hasContent = false } = Astro.props;
 
     {hasContent && <div class="wf-bar__slot"><slot /></div>}
 
-    <div class="wf-bar__right">
+    <div class="wf-bar__right" data-wf-fit>
       <div class="wf-bar__search"><SearchField locale={locale} variant="bar" /></div>
       <KofiPill locale={locale} variant="bar" />
       <LivePill locale={locale} />
@@ -56,7 +56,59 @@ const { locale, hasContent = false } = Astro.props;
   </div>
 </div>
 
+<script>
+  /*
+   * Passen of wijken (Nutri, 9 november 2026): is er rechts niet genoeg plaats, dan verdwijnt eerst
+   * Ko-fi, dan het zoekveld, dan de LIVE-knop en pas als laatste RestedXP. Is er plaats, dan blijft
+   * alles staan. Gemeten in de browser, niet met vaste breekpunten: de breedte hangt af van de taal,
+   * van de era-rij in de balk en van de timers. Onder 900 px loopt de balk over twee regels en
+   * regelt de CSS het zelf.
+   */
+  const ORDER = ['.wf-kofi', '.wf-bar__search', '.wf-onair', '.wf-rxp'];
+  const SEARCH_MIN = 120;
+
+  function fit(right: HTMLElement) {
+    const items = ORDER.map((sel) => right.querySelector<HTMLElement>(`:scope > ${sel}`)).filter(
+      (el): el is HTMLElement => el !== null,
+    );
+    for (const el of items) el.removeAttribute('data-fit-hidden');
+    if (window.innerWidth < 900) return;
+    const gap = parseFloat(getComputedStyle(right).columnGap) || 0;
+    const width = (el: HTMLElement) => (el.matches('.wf-bar__search') ? SEARCH_MIN : el.scrollWidth);
+    const shown = () => items.filter((el) => !el.hasAttribute('data-fit-hidden') && el.getClientRects().length > 0);
+    const need = () => {
+      const s = shown();
+      return s.reduce((sum, el) => sum + width(el), 0) + gap * Math.max(0, s.length - 1);
+    };
+    for (const el of items) {
+      if (need() <= right.clientWidth + 0.5) break;
+      el.setAttribute('data-fit-hidden', '');
+    }
+  }
+
+  for (const right of document.querySelectorAll<HTMLElement>('[data-wf-fit]')) {
+    let queued = false;
+    const run = () => {
+      if (queued) return;
+      queued = true;
+      requestAnimationFrame(() => {
+        queued = false;
+        fit(right);
+      });
+    };
+    const ro = new ResizeObserver(run);
+    ro.observe(right.parentElement ?? right);
+    for (const el of right.children) ro.observe(el);
+    /* De LIVE-knop gaat aan en uit met het attribuut hidden. */
+    new MutationObserver(run).observe(right, { subtree: true, attributes: true, attributeFilter: ['hidden'] });
+    document.fonts?.ready.then(run);
+    run();
+  }
+</script>
+
 <style>
+  .wf-bar__right :global([data-fit-hidden]) { display: none !important; }
+
   .wf-bar {
     background: var(--wf-bar);
     border-top: 1px solid var(--wf-border);

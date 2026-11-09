@@ -3,7 +3,7 @@ title: "Ruf-Guide für die Azeroth Commerce Authority"
 description: "Azeroth Commerce Authority in WoW Forever: das Nachschublager der Allianz bei Three Corners, Kisten für Merchant's Favor, Rezepte für sieben Berufe, der Pack Kodo, Titel und Wappenrock."
 lang: de
 manual: true
-updated: 2026-09-29
+updated: 2026-11-09
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -38,7 +38,7 @@ Das Lager steht bei Three Corners in den Redridge Mountains, gleich vor dem Ort,
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | Blacksmithing | 10.4 74.7 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | Tailoring | 10.0 73.0 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | Leatherworking | 10.0 72.9 |
-| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Ein Auktionshaus, verbunden mit den Hauptstädten der Allianz | 9.7 72.0 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Ein neutrales Auktionshaus, verbunden mit den anderen neutralen | 9.7 72.0 |
 
 Der Name ist aus Season of Discovery bekannt, wo die Azeroth Commerce Exchange ähnlich funktionierte. In Forever ist die Fraktion größer und an die Berufe gebunden.
 
@@ -49,12 +49,12 @@ Der Name ist aus Season of Discovery bekannt, wo die Azeroth Commerce Exchange �
 | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=262766"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Pack Kodo</a> | 6000 | Stufe 60 und Journeyman Riding, accountweit |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> | 1500 | Lehrt das Haustier [Minimule](/de/guides/pets/minimule/) |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=270888"><img class="wf-wh__icon" src="/wh/inv_misc_notescript2b.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Advertising License Application</a> | 1200 | Honored; startet die Quest für das Spielzeug Dwarven Tradeskill Sign |
-| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | | Exalted |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | 200 | Exalted |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280449"><img class="wf-wh__icon" src="/wh/8101155.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skyborne Tabard</a> | | Exalted, laut dem Item selbst |
 
 ## Rezepte pro Beruf
 
-Jeder Berufshändler verkauft Rezepte für Merchant's Favor. Die vollständigen Listen stehen in [diesem Ruf-Guide](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Jeder Berufshändler verkauft Rezepte für Merchant's Favor.
 
 | Beruf | Händler | Rezepte | Skill | Merchant's Favor |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ Jeder Berufshändler verkauft Rezepte für Merchant's Favor. Die vollständigen 
 | Alchemy | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256729">Nina Surefire</a> | 29 | 65 bis 300 | 45 bis 240 |
 | Cooking | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256731">Kalsey Sanden</a> | 6 Smoothies | 25 bis 250 | 30 bis 90 |
 | Engineering | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256733">Fritz Fizzle</a> | 28 | 25 bis 300 | 45 bis 360 |
-| Blacksmithing | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | 60 | 45 bis 300 | 30 bis 120 |
+| Blacksmithing | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | 61 | 45 bis 300 | 30 bis 120 |
 | Tailoring | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | 67 | 60 bis 235 | 30 bis 90 |
 | Leatherworking | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | 81 | 60 bis 235 | 30 bis 90 |
 
@@ -76,12 +76,10 @@ Mit Skill 300 verkauft ein Händler eine Zertifizierung. Sie schaltet den Titel 
 |---|---|---|
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271621"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alchemy Certification</a> | the Alchemist | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271622"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blacksmithing Certification</a> | the Blacksmith | 1000 |
-| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271624"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchanting Certification</a> | the Enchanter | 240 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271624"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchanting Certification</a> | the Enchanter | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271625"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Engineering Certification</a> | the Engineer | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271626"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leatherworking Certification</a> | the Leatherworker | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271627"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tailoring Certification</a> | the Tailor | 1000 |
-
-Die Enchanting Certification kostet in der Liste 240, ein Viertel der anderen. Ob das stimmt, ist nicht bekannt.
 
 ## Die Stufen
 
@@ -99,12 +97,20 @@ Unter Neutral läuft die Skala ebenfalls wie üblich: Hated ist 36.000 breit, Ho
 
 ## Woher der Ruf kommt
 
-**Kisten.** Eine Kiste wie die <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> erbeutest du in der Welt, füllst sie und gibst sie bei Marcy Baker ab. Der Legacy-Perk Performance Bonus gibt 5, 10 oder 15 Prozent Chance auf doppeltes Merchant's Favor pro Kiste; siehe den [Legacy-Rechner](/de/talents/legacy/).
+**Craftsman's Writs bringen den Ruf.** Ein Writ ist ein Gegenstand, der eine tägliche Quest startet: Du bringst einen hergestellten Gegenstand zu einem NPC irgendwo in Azeroth. Ein besserer Gegenstand bringt mehr Ruf. Writs lassen sich im Auktionshaus handeln, also wählst du die, die du selbst herstellen kannst.
 
-**Craftsman's Writs** gibt es auch, womöglich ab Stufe 10. Was sie verlangen und ob Marcy Baker sie annimmt, ist noch nicht bekannt.
+**Kisten bringen Merchant's Favor.** Eine Waylaid Supply Crate wie die <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> fällt zufällig in Dungeons und in der offenen Welt, passend zu deiner Stufe und der Zone. Du füllst sie mit einem der Bündel, die auf der Kiste stehen, und gibst sie bei Marcy Baker ab. Der Legacy-Perk Performance Bonus gibt 5, 10 oder 15 Prozent Chance auf doppeltes Merchant's Favor pro Kiste; siehe den [Legacy-Rechner](/de/talents/legacy/).
+
+| Kiste | Qualität | Merchant's Favor |
+|---|---|---|
+| Sealed Apprentice Crate | Common (weiß) | 5 |
+| Sealed Apprentice Crate | Uncommon (grün) | 10 |
+| Sealed Apprentice Crate | Rare (blau) | noch nicht bekannt |
+| Sealed Journeyman Crate | Common (weiß) | 10 |
+| Sealed Journeyman Crate | Uncommon (grün) | 20 |
 
 ## Was noch nicht bekannt ist
 
-- **Wie viel Ruf eine Kiste bringt**, und ob es ein Tages- oder Wochenlimit gibt.
+- **Wie viel eine seltene Kiste bringt**, und wie viel Ruf jeder Writ bringt.
 - **Wo ein neuer Charakter beginnt.** Neutral ist hier eine Annahme, kein bestätigter Wert.
 - **Welche Kiste zu welchem Beruf gehört**, und wie viele du tragen kannst.

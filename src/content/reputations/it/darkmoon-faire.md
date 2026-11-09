@@ -3,7 +3,7 @@ title: "Guida alla reputazione Darkmoon Faire"
 description: "Darkmoon Faire in WoW Forever, sulla base di Classic Era: dove e quando si monta la fiera, le consegne per i ticket con i loro limiti di reputazione, i Darkmoon deck e cosa comprano i ticket."
 lang: it
 manual: true
-updated: 2026-09-15
+updated: 2026-11-09
 faction: "Darkmoon Faire"
 zone: "Elwynn Forest e Mulgore"
 side: both
@@ -14,6 +14,8 @@ rewards: "La reputazione cambia solo i prezzi dei venditori; i ticket comprano p
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/classic/guide/classic-darkmoon-faire"
+  - name: "Wowhead, la fazione"
+    url: "https://www.wowhead.com/forever/faction=909/darkmoon-faire"
 ---
 La Darkmoon Faire è il luna park itinerante di Silas Darkmoon, con venditori esotici, giochi, predizioni e premi. Sia l'Alleanza sia l'Orda possono visitarla. Ogni personaggio parte da Neutral. In Classic Era la reputazione non dà nulla oltre al solito cambiamento nei prezzi dei venditori.
 
@@ -24,7 +26,16 @@ La fiera arriva una volta al mese e si alterna tra due posti:
 - **Elwynn Forest:** appena a sud di Goldshire, sotto la strada che va da est a ovest. Chi viene dall'Orda deve fare attenzione alle guardie di Goldshire, sul lato nord.
 - **Mulgore:** a sud-ovest di Thunder Bluff, ben lontano dalle guardie dell'Orda.
 
-La fiera è organizzata attorno all'inizio del mese. Il montaggio comincia di venerdì, apre il lunedì successivo e chiude la domenica dopo. Durante il montaggio i venditori, i giochi e chi dà le missioni non sono ancora disponibili. Melnan Darkstone a Ironforge e Kruban Darkblade a Orgrimmar ne annunciano l'arrivo.
+In WoW Forever la fiera apre di lunedì alle 04:00, ora del reame, e chiude una settimana dopo, il lunedì alle 04:00. Sui reami europei sono le 04:00, ora belga. Il pulsante DMF nella barra in alto del sito fa il conto alla rovescia fino alla prossima. I buff di Sayge sono nell'[articolo sulla prima fiera](/it/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
+
+| Mese | Dove | Date |
+|---|---|---|
+| Novembre 2026 | Elwynn Forest | dal 9 al 15 novembre |
+| Dicembre 2026 | Mulgore | dal 7 al 13 dicembre |
+| Gennaio 2027 | Elwynn Forest | dal 4 al 10 gennaio |
+| Febbraio 2027 | Mulgore | dal 8 al 14 febbraio |
+| Marzo 2027 | Elwynn Forest | dal 8 al 14 marzo |
+| Aprile 2027 | Mulgore | dal 5 al 11 aprile |
 
 ## I livelli di reputazione
 
@@ -90,6 +101,7 @@ Gelvas Grimegate vende:
 | 10 | Last Month's Mutton | 25 |
 | 12 | Lesser Darkmoon Prize | 30 |
 | 40 | Greater Darkmoon Prize | 45 |
+| 40 | Schematic: Steam Tonk Controller | |
 | 50 | Darkmoon Storage Box, una borsa unica da 14 spazi | 6 |
 | 50 | Last Year's Mutton | 45 |
 | 1.200 | Amulet of the Darkmoon | 55 |

@@ -1,16 +1,16 @@
 ---
 title: "Flugrouten: jeder Flugmeister in WoW Forever"
 metaTitle: "Flugrouten in WoW Forever: Flugmeister, Routen und Schiffe"
-description: "Jeder Flugpunkt von WoW Forever für Alliance und Horde: der Flugmeister, die Koordinaten und die Ziele, dazu die fünf neuen Flugpunkte und jedes Schiff und jeder Zeppelin."
+description: "Jeder Flugpunkt von WoW Forever für Alliance und Horde: der Flugmeister, die Koordinaten und die Ziele, dazu die vier neuen Flugpunkte und jedes Schiff und jeder Zeppelin."
 short: "Flight Paths"
-updated: 2026-11-07
+updated: 2026-11-09
 lang: de
 manual: true
 faq:
   - q: "Wie viele Flugpunkte hat WoW Forever?"
-    a: "37 für die Alliance und 35 für die Horde, verteilt auf die Eastern Kingdoms und Kalimdor. Fünf davon sind neu: Farholde Keep, Powderfuse Port und Rog'mar in The Riverglades sowie Tainted Foothills und Summit of Eternity auf Mount Hyjal."
+    a: "36 für die Alliance und 35 für die Horde, verteilt auf die Eastern Kingdoms und Kalimdor. Vier davon sind neu: Farholde Keep und Rog'mar in The Riverglades sowie Tainted Foothills und Summit of Eternity auf Mount Hyjal."
   - q: "Gibt es die alten Flugrouten in WoW Forever noch?"
-    a: "Ja. Jede Route aus Classic Era steht noch in den Dateien der Beta, mit demselben Start und Ziel. Forever fügt nur elf Routen hinzu."
+    a: "Ja. Jede Route aus Classic Era gibt es noch im Spiel, mit demselben Start und Ziel. Forever fügt nur zehn Routen hinzu."
   - q: "Wo steht der Flugmeister in The Riverglades?"
     a: "Für die Alliance Gretchen Mayberry in Farholde Keep, /way 60.6 81.4. Für die Horde Grakna in Rog'mar, /way 59.6 45.2."
   - q: "Können beide Fraktionen die Flugpunkte auf Mount Hyjal nutzen?"
@@ -18,12 +18,12 @@ faq:
   - q: "Kann Fliegen in WoW Forever günstiger werden?"
     a: "Ja. Der Legacy-Vorteil Frequent Flier gibt 50 % Rabatt auf jede Flugroute und macht den Flug 20 % schneller."
 sources:
-  - name: "wago.tools, die Dateien der Beta"
-    url: "https://wago.tools/db2/TaxiNodes?build=1.60.1.70245"
+  - name: "wago.tools, die Spieldateien"
+    url: "https://wago.tools/db2/TaxiNodes?build=1.60.1.70862"
   - name: "Wowhead, die Weltkarte"
     url: "https://www.wowhead.com/forever/world-map"
 ---
-Flugmeister bringen Spieler für eine Handvoll Silber von einer Stadt Azeroths zur nächsten. WoW Forever behält jede Flugroute aus Classic und fügt fünf Flugpunkte hinzu, in The Riverglades und auf Mount Hyjal. Dieser Guide listet jeden Flugpunkt mit seinem Flugmeister, den Koordinaten und den Zielen.
+Flugmeister bringen Spieler für eine Handvoll Silber von einer Stadt Azeroths zur nächsten. WoW Forever behält jede Flugroute aus Classic und fügt vier Flugpunkte hinzu, in The Riverglades und auf Mount Hyjal. Dieser Guide listet jeden Flugpunkt mit seinem Flugmeister, den Koordinaten und den Zielen.
 
 ![Jede Flugroute von WoW Forever auf der Weltkarte des Spiels, mit Kalimdor links und den Eastern Kingdoms rechts, die Alliance in Blau, die Horde in Rot, Schiffe und Zeppeline gestrichelt und die neuen Routen mit goldenem Rand und dem Wort NEW](../../../../assets/posts/2026-09-28-wow-forever-flight-and-ship-routes-map.jpg)
 
@@ -33,29 +33,28 @@ Flugmeister bringen Spieler für eine Handvoll Silber von einer Stadt Azeroths z
 |---|---|---|
 | **Eastern Kingdoms** | 18 Flugpunkte, 39 Routen | 13 Flugpunkte, 26 Routen |
 | **Kalimdor** | 19 Flugpunkte, 33 Routen | 22 Flugpunkte, 49 Routen |
-| **Neu in Forever** | 4 Flugpunkte, 6 Routen | 3 Flugpunkte, 6 Routen |
+| **Neu in Forever** | 3 Flugpunkte, 5 Routen | 3 Flugpunkte, 6 Routen |
 
-Die Flugpunkte und Routen stammen aus den Dateien der Beta. Sie haben sich seit Ende September nicht verändert. Eine Stadt mit einem Flugmeister für jede Fraktion, etwa Everlook, zählt einmal pro Fraktion.
+Die Flugpunkte und Routen stammen aus den Dateien des Live-Spiels, Build 1.60.1.70862. Seit der Beta ist nur die Route zwischen Farholde Keep und Powderfuse Port verschwunden. Eine Stadt mit einem Flugmeister für jede Fraktion, etwa Everlook, zählt einmal pro Fraktion.
 
 Auf der Karte ist eine blaue Linie eine Route der Alliance und eine rote Linie eine Route der Horde. Eine gestrichelte Linie ist ein Schiff oder ein Zeppelin, weiß, wenn beide Fraktionen ihn nutzen können. Ein goldener Rand und das Wort NEW markieren eine neue Route. Ein Schild ist ein Flugmeister, ein runder Punkt ein Anleger oder Zeppelinturm.
 
-## Die fünf neuen Flugpunkte
+## Die vier neuen Flugpunkte
 
 | Flugpunkt | Für | Flugmeister | /way | Fliegt nach |
 |---|---|---|---|---|
-| Farholde Keep | Alliance | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=257087">Gretchen Mayberry</a> | 60.6 81.4 | Lakeshire, Morgan's Vigil, Powderfuse Port, Thelsamar |
-| Powderfuse Port | Alliance | noch nicht bekannt | noch nicht bekannt | Farholde Keep |
+| Farholde Keep | Alliance | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=257087">Gretchen Mayberry</a> | 60.6 81.4 | Lakeshire, Morgan's Vigil, Thelsamar |
 | Rog'mar | Horde | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=255993">Grakna</a> | 59.6 45.2 | Flame Crest, Hammerfall, Kargath, Stonard |
 | Summit of Eternity | beide Fraktionen | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=41861">Fayran Elthas</a> | 68.6 44.0 | Tainted Foothills |
 | Tainted Foothills | beide Fraktionen | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260626">Bluebell</a> | 55.0 82.8 | Everlook, Summit of Eternity |
 
-[The Riverglades](/de/forever/) ist die neue Zone für die Stufen 30 bis 45. Beide Fraktionen bekommen dort einen Flugpunkt, der sie mit den Zonen ringsum verbindet. Die Alliance fliegt weiter nach Redridge Mountains, Loch Modan und Burning Steppes, die Horde nach Swamp of Sorrows, Arathi Highlands, Badlands und Burning Steppes. Powderfuse Port, wo das [Black Market Auction House](/de/guides/bmah/) steht, liegt einen kurzen Flug von Farholde Keep entfernt.
+[The Riverglades](/de/forever/) ist die neue Zone für die Stufen 30 bis 45. Beide Fraktionen bekommen dort einen Flugpunkt, der sie mit den Zonen ringsum verbindet. Die Alliance fliegt weiter nach Redridge Mountains, Loch Modan und Burning Steppes, die Horde nach Swamp of Sorrows, Arathi Highlands, Badlands und Burning Steppes. Powderfuse Port, wo das [Black Market Auction House](/de/guides/bmah/) steht, hat keinen Flugmeister. Reite von Farholde Keep hin oder nimm das Schiff ab Steamwheedle Port.
 
 Mount Hyjal ist der Abschluss des Levelns, mit einem Lager, in dem Horde und Alliance zusammensitzen. Beide Flugpunkte auf dem Berg dienen beiden Fraktionen, und Tainted Foothills ist für jede Seite mit Everlook in Winterspring verbunden.
 
 ## Eastern Kingdoms
 
-![Die Flugrouten der Eastern Kingdoms in WoW Forever, von Light's Hope Chapel im Norden bis Booty Bay im Süden, mit den neuen Punkten Rog'mar, Powderfuse Port und Farholde Keep in The Riverglades](../../../../assets/posts/2026-10-07-wow-forever-flight-paths-eastern-kingdoms.jpg)
+![Die Flugrouten der Eastern Kingdoms in WoW Forever, von Light's Hope Chapel im Norden bis Booty Bay im Süden, mit den neuen Punkten Rog'mar und Farholde Keep in The Riverglades](../../../../assets/posts/2026-10-07-wow-forever-flight-paths-eastern-kingdoms.jpg)
 
 ### Alliance
 
@@ -65,14 +64,13 @@ Mount Hyjal ist der Abschluss des Levelns, mit einem Lager, in dem Horde und All
 | Booty Bay | Stranglethorn Vale | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2859">Gyll</a> | 27.4 77.8 | Darkshire, Sentinel Hill, Stormwind |
 | Chillwind Camp | Western Plaguelands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12596">Bibilfaz Featherwhistle</a> | 42.8 85.0 | Aerie Peak, Ironforge, Light's Hope Chapel, Southshore |
 | Darkshire | Duskwood | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2409">Felicia Maline</a> | 77.4 44.4 | Booty Bay, Lakeshire, Nethergarde Keep, Sentinel Hill, Stormwind |
-| Farholde Keep (neu) | The Riverglades | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=257087">Gretchen Mayberry</a> | 60.6 81.4 | Lakeshire, Morgan's Vigil, Powderfuse Port, Thelsamar |
+| Farholde Keep (neu) | The Riverglades | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=257087">Gretchen Mayberry</a> | 60.6 81.4 | Lakeshire, Morgan's Vigil, Thelsamar |
 | Ironforge | Ironforge | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1573">Gryth Thurden</a> | 55.8 48.0 | Aerie Peak, Chillwind Camp, Light's Hope Chapel, Menethil Harbor, Refuge Pointe, Southshore, Stormwind, Thelsamar, Thorium Point |
 | Lakeshire | Redridge Mountains | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=931">Ariena Stormfeather</a> | 30.6 59.4 | Darkshire, Farholde Keep, Morgan's Vigil, Sentinel Hill, Stormwind |
 | Light's Hope Chapel | Eastern Plaguelands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12617">Khaelyn Steelwing</a> | 81.6 59.2 | Aerie Peak, Chillwind Camp, Ironforge |
 | Menethil Harbor | Wetlands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1571">Shellei Brondir</a> | 9.4 59.6 | Ironforge, Refuge Pointe, Southshore, Thelsamar |
 | Morgan's Vigil | Burning Steppes | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2299">Borgus Stoutarm</a> | 84.4 68.2 | Farholde Keep, Lakeshire, Nethergarde Keep, Stormwind, Thorium Point |
 | Nethergarde Keep | Blasted Lands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8609">Alexandra Constantine</a> | 65.4 24.4 | Darkshire, Morgan's Vigil, Stormwind |
-| Powderfuse Port (neu) | The Riverglades | noch nicht bekannt | noch nicht bekannt | Farholde Keep |
 | Refuge Pointe | Arathi Highlands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2835">Cedrik Prose</a> | 45.6 46.0 | Aerie Peak, Ironforge, Menethil Harbor, Southshore, Thelsamar |
 | Sentinel Hill | Westfall | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=523">Thor</a> | 56.4 52.6 | Booty Bay, Darkshire, Lakeshire, Stormwind |
 | Southshore | Hillsbrad Foothills | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2432">Darla Harris</a> | 49.4 52.2 | Aerie Peak, Chillwind Camp, Ironforge, Menethil Harbor, Refuge Pointe |
@@ -80,7 +78,7 @@ Mount Hyjal ist der Abschluss des Levelns, mit einem Lager, in dem Horde und All
 | Thelsamar | Loch Modan | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1572">Thorgrum Borrelson</a> | 33.8 50.8 | Farholde Keep, Ironforge, Menethil Harbor, Refuge Pointe |
 | Thorium Point | Searing Gorge | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2941">Lanie Reed</a> | 37.8 30.6 | Ironforge, Morgan's Vigil |
 
-Ironforge hat die meisten Routen der Alliance, neun. Farholde Keep bekommt gleich vier, so viele wie Thelsamar.
+Ironforge hat die meisten Routen der Alliance, neun. Farholde Keep bekommt gleich drei.
 
 ### Horde
 
@@ -161,12 +159,14 @@ Nighthaven in Moonglade ist nur für Druids. Sie fliegen von Rut'theran Village 
 
 ## Schiffe und Zeppeline
 
+![Jede Schiffs- und Zeppelinroute von WoW Forever auf der Weltkarte, Alliance in Blau, Horde in Rot, Routen für beide Fraktionen in Weiß und die neuen Routen mit goldenem Rand und dem Wort NEW](../../../../assets/posts/2026-11-09-wow-forever-boat-and-zeppelin-routes-map.jpg)
+
 | Route | Art | Für | Neu |
 |---|---|---|---|
 | Dalaran nach Valanaar | Zeppelin | beide Fraktionen | ja |
 | Menethil Harbor nach Southshore | Schiff | Alliance | ja |
-| Powderfuse Port nach Steamwheedle Port | Schiff | beide Fraktionen | ja |
 | Southshore nach Auberdine | Schiff | Alliance | ja |
+| Steamwheedle Port nach Powderfuse Port | Schiff | beide Fraktionen | ja |
 | Stormwind nach Auberdine | Schiff | Alliance | ja |
 | Valanaar nach Skywatcher Plateau | Zeppelin | Horde | ja |
 | Auberdine nach Rut'theran Village | Schiff | Alliance |  |
@@ -188,8 +188,8 @@ Sechs dieser Routen sind neu. Stormwind Harbor bekommt ein Schiff nach Auberdine
 
 ## Was nicht sicher ist
 
-- **Powderfuse Port hat eine Route**, nach Farholde Keep. Der Flugpunkt trägt in den Dateien keine Fraktion, aber seine einzige Route führt zu einer Festung der Alliance, und das Reittier ist ein Greif. Ein Flugmeister ist dort noch nicht bekannt.
-- **Ein sechster neuer Flugpunkt wartet**: Tidegear Coast in Dun Morogh steht ohne eine einzige Route in den Dateien. Wofür er gedacht ist, ist nicht bekannt.
+- **Powderfuse Port hat keine Flugroute.** In der Beta flog es nach Farholde Keep, im Live-Spiel ist diese Route weg. Der Flugpunkt steht noch in den Dateien, ohne Flugmeister.
+- **Ein weiterer Flugpunkt wartet**: Tidegear Coast in Dun Morogh steht ohne eine einzige Route in den Dateien. Wofür er gedacht ist, ist nicht bekannt.
 - **Die Routen können sich mit einem Hotfix oder Patch noch ändern.**
 - **Zephras Isle hat keinen festen Platz** auf der Weltkarte in den Dateien. Die Karte setzt Valanaar auf die Inselgruppe nördlich des Maelstrom.
 - **Wie lange ein Flug dauert**, steht nicht in den Dateien. Die Karte zeigt, wo eine Route verläuft, nicht wie lange sie dauert.

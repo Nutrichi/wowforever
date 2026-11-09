@@ -1,16 +1,16 @@
 ---
 title: "Rotte di volo: ogni maestro di volo di WoW Forever"
 metaTitle: "Rotte di volo di WoW Forever: maestri di volo, rotte e navi"
-description: "Ogni punto di volo di WoW Forever per l'Alliance e l'Horde: il maestro di volo, le coordinate e le destinazioni, più i cinque nuovi punti di volo e ogni nave e zeppelin."
+description: "Ogni punto di volo di WoW Forever per l'Alliance e l'Horde: il maestro di volo, le coordinate e le destinazioni, più i quattro nuovi punti di volo e ogni nave e zeppelin."
 short: "Flight Paths"
-updated: 2026-11-07
+updated: 2026-11-09
 lang: it
 manual: true
 faq:
   - q: "Quanti punti di volo ha WoW Forever?"
-    a: "37 per l'Alliance e 35 per l'Horde, tra gli Eastern Kingdoms e Kalimdor. Cinque sono nuovi: Farholde Keep, Powderfuse Port e Rog'mar in The Riverglades, e Tainted Foothills e Summit of Eternity sul Mount Hyjal."
+    a: "36 per l'Alliance e 35 per l'Horde, tra gli Eastern Kingdoms e Kalimdor. Quattro sono nuovi: Farholde Keep e Rog'mar in The Riverglades, e Tainted Foothills e Summit of Eternity sul Mount Hyjal."
   - q: "Le vecchie rotte esistono ancora in WoW Forever?"
-    a: "Sì. Ogni rotta di Classic Era è ancora nei file della beta, con la stessa partenza e lo stesso arrivo. Forever aggiunge soltanto undici rotte."
+    a: "Sì. Ogni rotta di Classic Era è ancora nel gioco, con la stessa partenza e lo stesso arrivo. Forever aggiunge soltanto dieci rotte."
   - q: "Dove si trova il maestro di volo di The Riverglades?"
     a: "Per l'Alliance, Gretchen Mayberry a Farholde Keep, /way 60.6 81.4. Per l'Horde, Grakna a Rog'mar, /way 59.6 45.2."
   - q: "Entrambe le fazioni possono usare i punti di volo del Mount Hyjal?"
@@ -18,12 +18,12 @@ faq:
   - q: "Volare può costare meno in WoW Forever?"
     a: "Sì. Il vantaggio Legacy Frequent Flier dà uno sconto del 50% su ogni rotta di volo e rende il volo più veloce del 20%."
 sources:
-  - name: "wago.tools, i file della beta"
-    url: "https://wago.tools/db2/TaxiNodes?build=1.60.1.70245"
+  - name: "wago.tools, i file del gioco"
+    url: "https://wago.tools/db2/TaxiNodes?build=1.60.1.70862"
   - name: "Wowhead, la mappa del mondo"
     url: "https://www.wowhead.com/forever/world-map"
 ---
-I maestri di volo portano i giocatori da una città di Azeroth all'altra per una manciata d'argento. WoW Forever mantiene ogni rotta di volo di Classic e aggiunge cinque punti di volo, in The Riverglades e sul Mount Hyjal. Questa guida elenca ogni punto di volo con il suo maestro di volo, le coordinate e le destinazioni.
+I maestri di volo portano i giocatori da una città di Azeroth all'altra per una manciata d'argento. WoW Forever mantiene ogni rotta di volo di Classic e aggiunge quattro punti di volo, in The Riverglades e sul Mount Hyjal. Questa guida elenca ogni punto di volo con il suo maestro di volo, le coordinate e le destinazioni.
 
 ![Ogni rotta di volo di WoW Forever sulla mappa del mondo del gioco, con Kalimdor a sinistra e gli Eastern Kingdoms a destra, l'Alliance in blu, l'Horde in rosso, navi e zeppelin tratteggiati e le nuove rotte con un bordo dorato e la parola NEW](../../../../assets/posts/2026-09-28-wow-forever-flight-and-ship-routes-map.jpg)
 
@@ -33,29 +33,28 @@ I maestri di volo portano i giocatori da una città di Azeroth all'altra per una
 |---|---|---|
 | **Eastern Kingdoms** | 18 punti di volo, 39 rotte | 13 punti di volo, 26 rotte |
 | **Kalimdor** | 19 punti di volo, 33 rotte | 22 punti di volo, 49 rotte |
-| **Nuovo in Forever** | 4 punti di volo, 6 rotte | 3 punti di volo, 6 rotte |
+| **Nuovo in Forever** | 3 punti di volo, 5 rotte | 3 punti di volo, 6 rotte |
 
-I punti di volo e le rotte vengono dai file della beta. Non sono cambiati da fine settembre. Una città con un maestro di volo per ogni fazione, come Everlook, conta una volta per fazione.
+I punti di volo e le rotte vengono dai file del gioco live, build 1.60.1.70862. Rispetto alla beta è sparita solo la rotta tra Farholde Keep e Powderfuse Port. Una città con un maestro di volo per ogni fazione, come Everlook, conta una volta per fazione.
 
 Sulla mappa, una linea blu è una rotta dell'Alliance e una rossa una rotta dell'Horde. Una linea tratteggiata è una nave o uno zeppelin, bianca se entrambe le fazioni possono usarla. Un bordo dorato e la parola NEW indicano una rotta nuova. Uno scudo è un maestro di volo, un cerchio un molo o una torre degli zeppelin.
 
-## I cinque nuovi punti di volo
+## I quattro nuovi punti di volo
 
 | Punto di volo | Per | Maestro di volo | /way | Vola verso |
 |---|---|---|---|---|
-| Farholde Keep | Alliance | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=257087">Gretchen Mayberry</a> | 60.6 81.4 | Lakeshire, Morgan's Vigil, Powderfuse Port, Thelsamar |
-| Powderfuse Port | Alliance | non ancora noto | non ancora noto | Farholde Keep |
+| Farholde Keep | Alliance | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=257087">Gretchen Mayberry</a> | 60.6 81.4 | Lakeshire, Morgan's Vigil, Thelsamar |
 | Rog'mar | Horde | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=255993">Grakna</a> | 59.6 45.2 | Flame Crest, Hammerfall, Kargath, Stonard |
 | Summit of Eternity | entrambe le fazioni | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=41861">Fayran Elthas</a> | 68.6 44.0 | Tainted Foothills |
 | Tainted Foothills | entrambe le fazioni | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260626">Bluebell</a> | 55.0 82.8 | Everlook, Summit of Eternity |
 
-[The Riverglades](/it/forever/) è la nuova zona per i livelli dal 30 al 45. Ogni fazione vi riceve un punto di volo che la collega alle zone vicine. L'Alliance vola verso Redridge Mountains, Loch Modan e Burning Steppes, l'Horde verso Swamp of Sorrows, Arathi Highlands, Badlands e Burning Steppes. Powderfuse Port, dove si trova la [Black Market Auction House](/it/guides/bmah/), è a un breve volo da Farholde Keep.
+[The Riverglades](/it/forever/) è la nuova zona per i livelli dal 30 al 45. Ogni fazione vi riceve un punto di volo che la collega alle zone vicine. L'Alliance vola verso Redridge Mountains, Loch Modan e Burning Steppes, l'Horde verso Swamp of Sorrows, Arathi Highlands, Badlands e Burning Steppes. Powderfuse Port, dove si trova la [Black Market Auction House](/it/guides/bmah/), non ha un maestro di volo. Arrivaci in sella da Farholde Keep, oppure prendi la nave da Steamwheedle Port.
 
 Il Mount Hyjal è il traguardo del livellamento, con un accampamento dove Horde e Alliance stanno insieme. Entrambi i punti di volo della montagna servono le due fazioni, e Tainted Foothills è collegato a Everlook, in Winterspring, per ogni schieramento.
 
 ## Eastern Kingdoms
 
-![Le rotte di volo degli Eastern Kingdoms in WoW Forever, da Light's Hope Chapel a nord a Booty Bay a sud, con i nuovi punti Rog'mar, Powderfuse Port e Farholde Keep in The Riverglades](../../../../assets/posts/2026-10-07-wow-forever-flight-paths-eastern-kingdoms.jpg)
+![Le rotte di volo degli Eastern Kingdoms in WoW Forever, da Light's Hope Chapel a nord a Booty Bay a sud, con i nuovi punti Rog'mar e Farholde Keep in The Riverglades](../../../../assets/posts/2026-10-07-wow-forever-flight-paths-eastern-kingdoms.jpg)
 
 ### Alliance
 
@@ -65,14 +64,13 @@ Il Mount Hyjal è il traguardo del livellamento, con un accampamento dove Horde 
 | Booty Bay | Stranglethorn Vale | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2859">Gyll</a> | 27.4 77.8 | Darkshire, Sentinel Hill, Stormwind |
 | Chillwind Camp | Western Plaguelands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12596">Bibilfaz Featherwhistle</a> | 42.8 85.0 | Aerie Peak, Ironforge, Light's Hope Chapel, Southshore |
 | Darkshire | Duskwood | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2409">Felicia Maline</a> | 77.4 44.4 | Booty Bay, Lakeshire, Nethergarde Keep, Sentinel Hill, Stormwind |
-| Farholde Keep (nuovo) | The Riverglades | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=257087">Gretchen Mayberry</a> | 60.6 81.4 | Lakeshire, Morgan's Vigil, Powderfuse Port, Thelsamar |
+| Farholde Keep (nuovo) | The Riverglades | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=257087">Gretchen Mayberry</a> | 60.6 81.4 | Lakeshire, Morgan's Vigil, Thelsamar |
 | Ironforge | Ironforge | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1573">Gryth Thurden</a> | 55.8 48.0 | Aerie Peak, Chillwind Camp, Light's Hope Chapel, Menethil Harbor, Refuge Pointe, Southshore, Stormwind, Thelsamar, Thorium Point |
 | Lakeshire | Redridge Mountains | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=931">Ariena Stormfeather</a> | 30.6 59.4 | Darkshire, Farholde Keep, Morgan's Vigil, Sentinel Hill, Stormwind |
 | Light's Hope Chapel | Eastern Plaguelands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12617">Khaelyn Steelwing</a> | 81.6 59.2 | Aerie Peak, Chillwind Camp, Ironforge |
 | Menethil Harbor | Wetlands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1571">Shellei Brondir</a> | 9.4 59.6 | Ironforge, Refuge Pointe, Southshore, Thelsamar |
 | Morgan's Vigil | Burning Steppes | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2299">Borgus Stoutarm</a> | 84.4 68.2 | Farholde Keep, Lakeshire, Nethergarde Keep, Stormwind, Thorium Point |
 | Nethergarde Keep | Blasted Lands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8609">Alexandra Constantine</a> | 65.4 24.4 | Darkshire, Morgan's Vigil, Stormwind |
-| Powderfuse Port (nuovo) | The Riverglades | non ancora noto | non ancora noto | Farholde Keep |
 | Refuge Pointe | Arathi Highlands | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2835">Cedrik Prose</a> | 45.6 46.0 | Aerie Peak, Ironforge, Menethil Harbor, Southshore, Thelsamar |
 | Sentinel Hill | Westfall | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=523">Thor</a> | 56.4 52.6 | Booty Bay, Darkshire, Lakeshire, Stormwind |
 | Southshore | Hillsbrad Foothills | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2432">Darla Harris</a> | 49.4 52.2 | Aerie Peak, Chillwind Camp, Ironforge, Menethil Harbor, Refuge Pointe |
@@ -80,7 +78,7 @@ Il Mount Hyjal è il traguardo del livellamento, con un accampamento dove Horde 
 | Thelsamar | Loch Modan | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1572">Thorgrum Borrelson</a> | 33.8 50.8 | Farholde Keep, Ironforge, Menethil Harbor, Refuge Pointe |
 | Thorium Point | Searing Gorge | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2941">Lanie Reed</a> | 37.8 30.6 | Ironforge, Morgan's Vigil |
 
-Ironforge ha più rotte di ogni altro punto dell'Alliance, nove. Farholde Keep ne riceve subito quattro, quante Thelsamar.
+Ironforge ha più rotte di ogni altro punto dell'Alliance, nove. Farholde Keep ne riceve subito tre.
 
 ### Horde
 
@@ -161,12 +159,14 @@ Nighthaven, in Moonglade, è riservata ai Druid. Ci volano da Rut'theran Village
 
 ## Navi e zeppelin
 
+![Ogni rotta di navi e zeppelin di WoW Forever sulla mappa del mondo, l'Alliance in blu, l'Horde in rosso, le rotte per entrambe le fazioni in bianco e le nuove rotte con un bordo dorato e la parola NEW](../../../../assets/posts/2026-11-09-wow-forever-boat-and-zeppelin-routes-map.jpg)
+
 | Rotta | Tipo | Per | Nuova |
 |---|---|---|---|
 | Dalaran verso Valanaar | zeppelin | entrambe le fazioni | sì |
 | Menethil Harbor verso Southshore | nave | Alliance | sì |
-| Powderfuse Port verso Steamwheedle Port | nave | entrambe le fazioni | sì |
 | Southshore verso Auberdine | nave | Alliance | sì |
+| Steamwheedle Port verso Powderfuse Port | nave | entrambe le fazioni | sì |
 | Stormwind verso Auberdine | nave | Alliance | sì |
 | Valanaar verso Skywatcher Plateau | zeppelin | Horde | sì |
 | Auberdine verso Rut'theran Village | nave | Alliance |  |
@@ -188,8 +188,8 @@ Sei di queste rotte sono nuove. Stormwind Harbor riceve una nave per Auberdine, 
 
 ## Cosa non è certo
 
-- **Powderfuse Port ha una sola rotta**, verso Farholde Keep. Nei file il punto di volo non ha fazione, ma la sua unica rotta porta a una fortezza dell'Alliance e la cavalcatura è un grifone. Non vi si conosce ancora nessun maestro di volo.
-- **Un sesto nuovo punto di volo attende**: Tidegear Coast, in Dun Morogh, è nei file senza nemmeno una rotta. A cosa serva non è noto.
+- **Powderfuse Port non ha rotte di volo.** Nella beta volava verso Farholde Keep, ma nel gioco live quella rotta non c'è più. Il punto di volo è ancora nei file, senza maestro di volo.
+- **Un altro punto di volo attende**: Tidegear Coast, in Dun Morogh, è nei file senza nemmeno una rotta. A cosa serva non è noto.
 - **Le rotte possono ancora cambiare** con un hotfix o una patch.
 - **Zephras Isle non ha un posto fisso** sulla mappa del mondo dei file. La mappa colloca Valanaar sul gruppo di isole a nord del Maelstrom.
 - **Quanto dura un volo** non è nei file. La mappa mostra dove passa una rotta, non quanto dura.

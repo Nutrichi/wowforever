@@ -2,7 +2,7 @@
 title: "Azeroth Commerce Authority reputation guide"
 description: "Azeroth Commerce Authority in WoW Forever: the Alliance supply camp at Three Corners, crates for Merchant's Favor, recipes for seven professions, the Pack Kodo, titles and tabard."
 lang: en
-updated: 2026-09-29
+updated: 2026-11-09
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -37,7 +37,7 @@ The camp stands at Three Corners in Redridge Mountains, just outside town where 
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | Blacksmithing | 10.4 74.7 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | Tailoring | 10.0 73.0 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | Leatherworking | 10.0 72.9 |
-| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | An Auction House, linked to the Alliance capitals | 9.7 72.0 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | A neutral Auction House, linked to the other neutral ones | 9.7 72.0 |
 
 The name is familiar from Season of Discovery, where the Azeroth Commerce Exchange worked in a comparable way. In Forever the faction is larger and tied to the professions.
 
@@ -48,12 +48,12 @@ The name is familiar from Season of Discovery, where the Azeroth Commerce Exchan
 | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=262766"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Pack Kodo</a> | 6000 | Level 60 and Journeyman Riding, account-wide |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> | 1500 | Teaches the [Minimule](/guides/pets/minimule/) pet |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=270888"><img class="wf-wh__icon" src="/wh/inv_misc_notescript2b.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Advertising License Application</a> | 1200 | Honored; starts the quest for the Dwarven Tradeskill Sign toy |
-| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | | Exalted |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | 200 | Exalted |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280449"><img class="wf-wh__icon" src="/wh/8101155.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skyborne Tabard</a> | | Exalted, according to the item itself |
 
 ## Recipes per profession
 
-Every profession vendor sells recipes for Merchant's Favor. The full lists are in [this reputation guide](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Every profession vendor sells recipes for Merchant's Favor.
 
 | Profession | Vendor | Recipes | Skill | Merchant's Favor |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ Every profession vendor sells recipes for Merchant's Favor. The full lists are i
 | Alchemy | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256729">Nina Surefire</a> | 29 | 65 to 300 | 45 to 240 |
 | Cooking | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256731">Kalsey Sanden</a> | 6 smoothies | 25 to 250 | 30 to 90 |
 | Engineering | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256733">Fritz Fizzle</a> | 28 | 25 to 300 | 45 to 360 |
-| Blacksmithing | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | 60 | 45 to 300 | 30 to 120 |
+| Blacksmithing | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | 61 | 45 to 300 | 30 to 120 |
 | Tailoring | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | 67 | 60 to 235 | 30 to 90 |
 | Leatherworking | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | 81 | 60 to 235 | 30 to 90 |
 
@@ -75,12 +75,10 @@ At skill 300 a vendor sells a certification. It unlocks the title for every char
 |---|---|---|
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271621"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alchemy Certification</a> | the Alchemist | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271622"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blacksmithing Certification</a> | the Blacksmith | 1000 |
-| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271624"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchanting Certification</a> | the Enchanter | 240 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271624"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchanting Certification</a> | the Enchanter | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271625"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Engineering Certification</a> | the Engineer | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271626"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leatherworking Certification</a> | the Leatherworker | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271627"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tailoring Certification</a> | the Tailor | 1000 |
-
-The Enchanting Certification costs 240 in the list, a quarter of the others. Whether that is correct, is not known.
 
 ## The standings
 
@@ -96,12 +94,20 @@ The scale is the standard one, so from Neutral to Exalted is 42,000 reputation.
 
 ## Where the reputation comes from
 
-**Crates.** A crate such as the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> is looted in the world, filled and handed in to Marcy Baker. The Legacy perk Performance Bonus gives a 5, 10 or 15 percent chance on double Merchant's Favor per crate; see the [Legacy calculator](/talents/legacy/).
+**Craftsman's Writs give the reputation.** A writ is an item that starts a daily quest: you bring a crafted item to an NPC somewhere in Azeroth. A better item gives more reputation. Writs can be traded on the Auction House, so you can pick the ones you can make.
 
-**Craftsman's Writs** also exist, and may be available from level 10. What they ask and whether Marcy Baker takes them, is not known yet.
+**Crates give Merchant's Favor.** A Waylaid Supply Crate such as the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> is a random drop in dungeons and in the open world, matching your level and the zone. You fill it with one of the bundles listed on the crate and hand it in to Marcy Baker. The Legacy perk Performance Bonus gives a 5, 10 or 15 percent chance on double Merchant's Favor per crate; see the [Legacy calculator](/talents/legacy/).
+
+| Crate | Quality | Merchant's Favor |
+|---|---|---|
+| Sealed Apprentice Crate | Common (white) | 5 |
+| Sealed Apprentice Crate | Uncommon (green) | 10 |
+| Sealed Apprentice Crate | Rare (blue) | not known yet |
+| Sealed Journeyman Crate | Common (white) | 10 |
+| Sealed Journeyman Crate | Uncommon (green) | 20 |
 
 ## What is not known yet
 
-- **How much reputation a crate gives**, and whether there is a daily or weekly limit.
+- **How much a rare crate gives**, and how much reputation each writ gives.
 - **Where a new character starts.** Neutral is the assumption here, not a confirmed value.
 - **Which crate belongs to which profession**, and how many you can carry.

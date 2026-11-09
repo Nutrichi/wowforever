@@ -3,7 +3,7 @@ title: "Reputatiegids voor Darkmoon Faire"
 description: "Darkmoon Faire in WoW Forever, op basis van Classic Era: waar en wanneer de kermis staat, de ticketinleveringen met hun grenzen, de Darkmoon-decks, en wat je met tickets koopt."
 lang: nl
 manual: true
-updated: 2026-09-15
+updated: 2026-11-09
 faction: "Darkmoon Faire"
 zone: "Elwynn Forest en Mulgore"
 side: both
@@ -14,6 +14,8 @@ rewards: "De reputatie verandert alleen verkoopprijzen; met tickets koop je prij
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/classic/guide/classic-darkmoon-faire"
+  - name: "Wowhead, de factie"
+    url: "https://www.wowhead.com/forever/faction=909/darkmoon-faire"
 ---
 De Darkmoon Faire is de reizende kermis van Silas Darkmoon, met exotische verkopers, spelletjes, waarzeggerij en prijzen. Alliance en Horde kunnen er allebei naartoe. Elk personage begint op Neutral. In Classic Era geeft de reputatie niets behalve de gewone verandering in verkoopprijzen.
 
@@ -24,7 +26,16 @@ De kermis komt één keer per maand en wisselt tussen twee plaatsen:
 - **Elwynn Forest:** net ten zuiden van Goldshire, onder de weg van oost naar west. Spelers van de Horde letten beter op de wachters van Goldshire aan de noordkant.
 - **Mulgore:** ten zuidwesten van Thunder Bluff, ver weg van de wachters van de Horde.
 
-De kermis valt rond het begin van de maand. Hij begint op een vrijdag met opbouwen, gaat de maandag erna open en sluit de zondag daarna. Tijdens het opbouwen zijn de verkopers, spelletjes en questgevers er nog niet. Melnan Darkstone in Ironforge en Kruban Darkblade in Orgrimmar kondigen de komst aan.
+In WoW Forever gaat de kermis open op een maandag om 04.00 uur realmtijd en sluit hij een week later, op maandag om 04.00 uur. Op Europese realms is dat 04.00 uur Belgische tijd. De DMF-knop in de balk bovenaan de site telt af naar de volgende. De buffs van Sayge staan in [de post over de eerste kermis](/nl/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
+
+| Maand | Waar | Data |
+|---|---|---|
+| november 2026 | Elwynn Forest | 9 tot 15 november |
+| december 2026 | Mulgore | 7 tot 13 december |
+| januari 2027 | Elwynn Forest | 4 tot 10 januari |
+| februari 2027 | Mulgore | 8 tot 14 februari |
+| maart 2027 | Elwynn Forest | 8 tot 14 maart |
+| april 2027 | Mulgore | 5 tot 11 april |
 
 ## De standings
 
@@ -90,6 +101,7 @@ Gelvas Grimegate verkoopt:
 | 10 | Last Month's Mutton | 25 |
 | 12 | Lesser Darkmoon Prize | 30 |
 | 40 | Greater Darkmoon Prize | 45 |
+| 40 | Schematic: Steam Tonk Controller | |
 | 50 | Darkmoon Storage Box, een unieke tas met 14 plaatsen | 6 |
 | 50 | Last Year's Mutton | 45 |
 | 1.200 | Amulet of the Darkmoon | 55 |

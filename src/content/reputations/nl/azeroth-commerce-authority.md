@@ -3,7 +3,7 @@ title: "Reputatiegids voor de Azeroth Commerce Authority"
 description: "Azeroth Commerce Authority in WoW Forever: het bevoorradingskamp van de Alliance bij Three Corners, kisten voor Merchant's Favor, recepten voor zeven beroepen, de Pack Kodo, titels en tabard."
 lang: nl
 manual: true
-updated: 2026-09-29
+updated: 2026-11-09
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -38,7 +38,7 @@ Het kamp staat bij Three Corners in Redridge Mountains, net buiten het stadje wa
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | Blacksmithing | 10.4 74.7 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | Tailoring | 10.0 73.0 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | Leatherworking | 10.0 72.9 |
-| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Een Auction House, gekoppeld aan de hoofdsteden van de Alliance | 9.7 72.0 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Een neutraal Auction House, gekoppeld aan de andere neutrale | 9.7 72.0 |
 
 De naam klinkt bekend uit Season of Discovery, waar de Azeroth Commerce Exchange op een vergelijkbare manier werkte. In Forever is de factie groter en hangt ze vast aan de beroepen.
 
@@ -49,12 +49,12 @@ De naam klinkt bekend uit Season of Discovery, waar de Azeroth Commerce Exchange
 | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=262766"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Pack Kodo</a> | 6000 | Level 60 en Journeyman Riding, voor het hele account |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=284664"><img class="wf-wh__icon" src="/wh/inv_misc_food_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Packmule Treat</a> | 1500 | Leert de [Minimule](/nl/guides/pets/minimule/) als pet |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=270888"><img class="wf-wh__icon" src="/wh/inv_misc_notescript2b.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Advertising License Application</a> | 1200 | Honored; begint de quest voor het speeltje Dwarven Tradeskill Sign |
-| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | | Exalted |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262765"><img class="wf-wh__icon" src="/wh/inv_tabard_merchantalliancec60.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Azeroth Commerce Authority Tabard</a> | 200 | Exalted |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280449"><img class="wf-wh__icon" src="/wh/8101155.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skyborne Tabard</a> | | Exalted, volgens het item zelf |
 
 ## Recepten per beroep
 
-Elk beroepverkoper verkoopt recepten voor Merchant's Favor. De volledige lijsten staan in [deze reputatiegids](https://www.wowhead.com/forever/guide/azeroth-commerce-authority-reputation-professions).
+Elk beroepverkoper verkoopt recepten voor Merchant's Favor.
 
 | Beroep | Verkoper | Recepten | Skill | Merchant's Favor |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ Elk beroepverkoper verkoopt recepten voor Merchant's Favor. De volledige lijsten
 | Alchemy | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256729">Nina Surefire</a> | 29 | 65 tot 300 | 45 tot 240 |
 | Cooking | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256731">Kalsey Sanden</a> | 6 smoothies | 25 tot 250 | 30 tot 90 |
 | Engineering | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256733">Fritz Fizzle</a> | 28 | 25 tot 300 | 45 tot 360 |
-| Blacksmithing | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | 60 | 45 tot 300 | 30 tot 120 |
+| Blacksmithing | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | 61 | 45 tot 300 | 30 tot 120 |
 | Tailoring | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | 67 | 60 tot 235 | 30 tot 90 |
 | Leatherworking | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | 81 | 60 tot 235 | 30 tot 90 |
 
@@ -76,12 +76,10 @@ Op skill 300 verkoopt een verkoper een certificaat. Dat opent de titel voor elk 
 |---|---|---|
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271621"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alchemy Certification</a> | the Alchemist | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271622"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blacksmithing Certification</a> | the Blacksmith | 1000 |
-| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271624"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchanting Certification</a> | the Enchanter | 240 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271624"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchanting Certification</a> | the Enchanter | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271625"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Engineering Certification</a> | the Engineer | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271626"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Leatherworking Certification</a> | the Leatherworker | 1000 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=271627"><img class="wf-wh__icon" src="/wh/inv_scroll_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tailoring Certification</a> | the Tailor | 1000 |
-
-De Enchanting Certification kost 240 in de lijst, een kwart van de andere. Of dat klopt, is niet bekend.
 
 ## De standings
 
@@ -99,12 +97,20 @@ Onder Neutral loopt de schaal ook zoals gewoonlijk: Hated is 36.000 breed, Hosti
 
 ## Waar de reputatie vandaan komt
 
-**Kisten.** Een kist zoals de <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> buit je in de wereld, vul je en lever je in bij Marcy Baker. De Legacy-perk Performance Bonus geeft 5, 10 of 15 procent kans op dubbele Merchant's Favor per kist; zie de [Legacy-calculator](/nl/talents/legacy/).
+**Craftsman's Writs geven de reputatie.** Een writ is een item dat een dagelijkse quest start: je brengt een gemaakt item naar een NPC ergens in Azeroth. Een beter item geeft meer reputatie. Writs zijn te verhandelen op het Auction House, dus je kiest de writs die je zelf kunt maken.
 
-**Craftsman's Writs** bestaan ook, en zijn mogelijk vanaf level 10 beschikbaar. Wat ze vragen en of Marcy Baker ze aanneemt, is nog niet bekend.
+**Kisten geven Merchant's Favor.** Een Waylaid Supply Crate zoals de <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=248549"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Waylaid Crate</a> valt willekeurig in dungeons en in de open wereld, passend bij je level en de zone. Je vult hem met een van de bundels die op de kist staan en levert hem in bij Marcy Baker. De Legacy-perk Performance Bonus geeft 5, 10 of 15 procent kans op dubbele Merchant's Favor per kist; zie de [Legacy-calculator](/nl/talents/legacy/).
+
+| Kist | Kwaliteit | Merchant's Favor |
+|---|---|---|
+| Sealed Apprentice Crate | Common (wit) | 5 |
+| Sealed Apprentice Crate | Uncommon (groen) | 10 |
+| Sealed Apprentice Crate | Rare (blauw) | nog niet bekend |
+| Sealed Journeyman Crate | Common (wit) | 10 |
+| Sealed Journeyman Crate | Uncommon (groen) | 20 |
 
 ## Wat nog niet bekend is
 
-- **Hoeveel reputatie een kist geeft**, en of er een daglimiet of weeklimiet is.
+- **Hoeveel een blauwe kist geeft**, en hoeveel reputatie elke writ geeft.
 - **Waar een nieuw personage begint.** Neutral is hier een aanname, geen bevestigde waarde.
 - **Welke kist bij welk beroep hoort**, en hoeveel je er kunt dragen.

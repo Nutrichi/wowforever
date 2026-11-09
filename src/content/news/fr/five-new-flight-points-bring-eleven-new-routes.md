@@ -1,5 +1,5 @@
 ---
-title: "Cinq nouveaux points de vol ajoutent onze routes"
+title: "Quatre nouveaux points de vol ajoutent dix routes"
 description: "Chaque route aérienne de WoW Forever sur la carte, pour l'Alliance et la Horde : les points de vol et les routes que Classic avait déjà, et ce qu'ajoutent The Riverglades et Mount Hyjal."
 date: 2026-09-28T18:45:00+02:00
 category: forever
@@ -7,17 +7,20 @@ lang: fr
 image: ../../../assets/posts/2026-09-28-wow-forever-flight-and-ship-routes-map.jpg
 imageAlt: "La carte du monde du jeu avec chaque route aérienne de WoW Forever, l'Alliance en bleu et la Horde en rouge, et les bateaux et zeppelins en pointillé ; les nouvelles routes ont un bord doré et le mot NEW"
 source: "wago.tools"
-sourceUrl: "https://wago.tools/db2/TaxiPath?build=1.60.1.70009"
-tags: ["forever", "beta"]
+sourceUrl: "https://wago.tools/db2/TaxiPath?build=1.60.1.70862"
+tags: ["forever"]
 featured: false
 draft: false
+updated: 2026-11-09
 manual: true
 ---
-WoW Forever ajoute cinq points de vol : Farholde Keep, Powderfuse Port et Rog'mar dans The Riverglades, Tainted Foothills et Summit of Eternity sur Mount Hyjal. Ensemble, ils apportent onze nouvelles routes. Aucune route existante ne disparaît, montrent les fichiers de la bêta.
+WoW Forever ajoute quatre points de vol : Farholde Keep et Rog'mar dans The Riverglades, Tainted Foothills et Summit of Eternity sur Mount Hyjal. Ensemble, ils apportent dix nouvelles routes. Aucune route existante ne disparaît, montrent les fichiers du jeu live.
+
+*Mis à jour le 9 novembre : dans la bêta, Powderfuse Port, dans The Riverglades, était un cinquième nouveau point de vol, avec une route vers Farholde Keep. Cette route a disparu du jeu live, donc cet article compte désormais quatre points de vol et dix routes.*
 
 ## D'où viennent les routes
 
-Blizzard n'a publié aucune liste des routes aériennes de Forever. Les routes de cette page viennent des fichiers du dernier build de la bêta, 1.60.1.70009. Elles sont comparées aux mêmes fichiers de Classic Era, build 1.15.9.69722. Les noms des nouveaux maîtres de vol viennent d’[une carte du monde de Forever en ligne](https://www.wowhead.com/forever/world-map).
+Blizzard n'a publié aucune liste des routes aériennes de Forever. Les routes de cette page viennent des fichiers du jeu live, build 1.60.1.70862. Elles sont comparées aux mêmes fichiers de Classic Era, build 1.15.9.69722.
 
 La carte trace chaque route comme une ligne entre deux lieux, et non comme le vol se déroule vraiment dans le jeu. Elle reste ainsi lisible. Le fond est la carte du monde du client de Forever, qui montre déjà The Riverglades à l'est de Redridge Mountains. Les bateaux et les zeppelins viennent de la même carte du monde.
 
@@ -25,25 +28,28 @@ Une ligne bleue est une route de l'Alliance, une ligne rouge une route de la Hor
 
 ![Chaque route aérienne de WoW Forever sur la carte du monde du jeu, avec Kalimdor à gauche et les Eastern Kingdoms à droite, l'Alliance en bleu, la Horde en rouge, les bateaux et zeppelins en pointillé et les nouvelles routes au bord doré avec le mot NEW](../../../assets/posts/2026-09-28-wow-forever-flight-and-ship-routes-map.jpg)
 
-## Les cinq nouveaux points de vol
+## Les quatre nouveaux points de vol
 
 | Point de vol | Zone | Pour | Maître de vol | Vole vers |
 |---|---|---|---|---|
-| Farholde Keep | The Riverglades | Alliance | [Gretchen Mayberry](https://www.wowhead.com/forever/npc=257087) | Lakeshire, Thelsamar, Morgan's Vigil, Powderfuse Port |
-| Powderfuse Port | The Riverglades | Alliance | pas encore connu | Farholde Keep |
+| Farholde Keep | The Riverglades | Alliance | [Gretchen Mayberry](https://www.wowhead.com/forever/npc=257087) | Lakeshire, Thelsamar, Morgan's Vigil |
 | Rog'mar | The Riverglades | Horde | [Grakna](https://www.wowhead.com/forever/npc=255993) | Stonard, Hammerfall, Kargath, Flame Crest |
 | Tainted Foothills | Mount Hyjal | les deux factions | [Bluebell](https://www.wowhead.com/forever/npc=260626) | Everlook, Summit of Eternity |
 | Summit of Eternity | Mount Hyjal | les deux factions | [Fayran Elthas](https://www.wowhead.com/forever/npc=41861) | Tainted Foothills |
 
 [The Riverglades](/fr/forever/) est la nouvelle zone des niveaux 30 à 45. Chaque faction y reçoit un point de vol qui la relie aux zones voisines : l'Alliance vole vers Redridge Mountains, Loch Modan et Burning Steppes, la Horde vers Swamp of Sorrows, Arathi Highlands, Badlands et Burning Steppes.
 
+![Les routes aériennes des Eastern Kingdoms dans WoW Forever, avec les nouveaux points Rog'mar et Farholde Keep dans The Riverglades](../../../assets/posts/2026-10-07-wow-forever-flight-paths-eastern-kingdoms.jpg)
+
 Mount Hyjal est le final de la montée en niveau, avec un camp où Horde et Alliance se côtoient. Les routes le reflètent. Les deux points de vol de la montagne servent les deux factions, et Tainted Foothills relie chaque camp à Everlook, dans Winterspring.
+
+![Les routes aériennes de Kalimdor dans WoW Forever, avec les nouveaux points Tainted Foothills et Summit of Eternity sur Mount Hyjal](../../../assets/posts/2026-10-07-wow-forever-flight-paths-kalimdor.jpg)
 
 ## Alliance
 
-L'Alliance gagne quatre points de vol et six routes. Dans les Eastern Kingdoms, Farholde Keep rejoint Lakeshire, Thelsamar et Morgan's Vigil, et un vol court continue vers Powderfuse Port. En Kalimdor, Everlook mène à Tainted Foothills, puis à Summit of Eternity.
+L'Alliance gagne trois points de vol et cinq routes. Dans les Eastern Kingdoms, Farholde Keep rejoint Lakeshire, Thelsamar et Morgan's Vigil. En Kalimdor, Everlook mène à Tainted Foothills, puis à Summit of Eternity.
 
-**Eastern Kingdoms, 18 points de vol.** Existants : Aerie Peak, Booty Bay, Chillwind Camp, Darkshire, Ironforge, Lakeshire, Light's Hope Chapel, Menethil Harbor, Morgan's Vigil, Nethergarde Keep, Refuge Pointe, Sentinel Hill, Southshore, Stormwind, Thelsamar et Thorium Point. Nouveaux : Farholde Keep et Powderfuse Port.
+**Eastern Kingdoms, 17 points de vol.** Existants : Aerie Peak, Booty Bay, Chillwind Camp, Darkshire, Ironforge, Lakeshire, Light's Hope Chapel, Menethil Harbor, Morgan's Vigil, Nethergarde Keep, Refuge Pointe, Sentinel Hill, Southshore, Stormwind, Thelsamar et Thorium Point. Nouveau : Farholde Keep.
 
 **Kalimdor, 19 points de vol.** Existants : Astranaar, Auberdine, Cenarion Hold, Everlook, Feathermoon, Gadgetzan, Marshal's Refuge, Moonglade, Nighthaven (pour les Druids, depuis Rut'theran Village), Nijel's Point, Ratchet, Rut'theran Village, Stonetalon Peak, Talonbranch Glade, Talrendis Point, Thalanaar et Theramore. Nouveaux : Tainted Foothills et Summit of Eternity.
 
@@ -61,19 +67,21 @@ Une route est ici un vol direct entre deux points de vol. Une ville avec un maî
 
 | | Classic Era | WoW Forever |
 |---|---|---|
-| Alliance, Eastern Kingdoms | 16 points, 35 routes | 18 points, 39 routes |
+| Alliance, Eastern Kingdoms | 16 points, 35 routes | 17 points, 38 routes |
 | Alliance, Kalimdor | 17 points, 31 routes | 19 points, 33 routes |
 | Horde, Eastern Kingdoms | 12 points, 22 routes | 13 points, 26 routes |
 | Horde, Kalimdor | 20 points, 47 routes | 22 points, 49 routes |
 
 Chaque route de Classic Era est toujours là, avec le même départ et la même arrivée. Forever ne fait qu'ajouter. À côté des routes aériennes arrivent [trois nouvelles routes maritimes](/fr/news/wow-forever-three-new-ship-routes/), dont un bateau de The Riverglades vers Steamwheedle Port, en Tanaris. Avec la perk Legacy Frequent Flier, un vol coûte moitié moins et va 20 % plus vite, voir [la présentation de Forever](/fr/forever/).
 
+![Chaque trajet en bateau et en zeppelin de WoW Forever sur la carte du monde, l'Alliance en bleu, la Horde en rouge, les trajets des deux factions en blanc et les nouveaux trajets avec un bord doré et le mot NEW](../../../assets/posts/2026-11-09-wow-forever-boat-and-zeppelin-routes-map.jpg)
+
 Chaque point de vol avec son maître de vol, ses coordonnées et ses trajets se trouve dans le [guide des trajets aériens](/fr/guides/flight-paths/).
 
 ## Ce qui n'est pas certain
 
-- **Powderfuse Port n'a qu'une route**, vers Farholde Keep. Le point de vol ne porte aucune faction dans les fichiers, mais sa seule route mène à une forteresse de l'Alliance et sa monture est un gryphon. Aucune route pour la Horde n'existe dans ce build. Aucun maître de vol n'y est encore connu.
-- **Un sixième nouveau point de vol attend** : Tidegear Coast, dans Dun Morogh, figure dans les fichiers, sans la moindre route. Son usage n'est pas connu.
-- **Les routes peuvent encore changer** avant le lancement du 4 novembre. Le build 1.60.1.70009 est une bêta, et les fichiers contiennent encore d'anciennes versions des points de vol de The Riverglades qui ne servent plus.
+- **Powderfuse Port n'a aucune route aérienne.** Dans la bêta, il volait vers Farholde Keep, mais cette route a disparu du jeu live. Le port garde le bateau vers Steamwheedle Port, dans Tanaris.
+- **Un autre point de vol attend** : Tidegear Coast, dans Dun Morogh, figure dans les fichiers, sans la moindre route. Son usage n'est pas connu.
+- **Les routes peuvent encore changer** avec un hotfix ou un patch.
 - **Zephras Isle n'a pas de place fixe** sur la carte du monde dans les fichiers. La carte place Valanaar, où arrivent les nouveaux zeppelins de Dalaran et de Skywatcher Plateau, sur le groupe d'îles au nord du Maelstrom.
 - **La durée d'un vol** ne figure pas dans ces fichiers. La carte montre donc où passe une route, pas combien de temps elle dure.
