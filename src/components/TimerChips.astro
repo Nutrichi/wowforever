@@ -212,16 +212,22 @@ const phase = raidPhases[0];
   }
   .wf-timers__panel[hidden] { display: none; }
 
-  /* Op een telefoon past de balk op één regel: de DMF-chip toont dan alleen ticket, bolletje en tijd. */
-  @media (max-width: 480px) {
+  /* Op een telefoon past de balk op één regel: de DMF-chip toont dan alleen ticket, bolletje en tijd.
+     Tot 749 px (Nutri, 10 november 2026: tussen 421 en ongeveer 650 px liep de balk over twee regels). */
+  @media (max-width: 749px) {
     .wf-timers { gap: 6px; }
     .wf-chip { padding: 5px 9px; gap: 6px; }
     .wf-chip--dmf .wf-chip__label { display: none; }
     .wf-chip--dmf .wf-chip__live { font-size: 0; gap: 0; }
   }
-  /* Smalste telefoons: ook het woord bij de raidchip weg; het paneel legt het uit. */
-  @media (max-width: 420px) {
+  /* Smalle telefoons: ook het woord bij de raidchip weg; het paneel legt het uit. Tot 449 px (was 420; op 421-440 liep de balk over twee regels). */
+  @media (max-width: 449px) {
     .wf-chip[data-wf-toggle]:not(.wf-chip--dmf) .wf-chip__label { display: none; }
+  }
+  /* Smalste telefoons (360-389 px): minder lucht, anders past het Duits en Spaans niet op één regel. */
+  @media (max-width: 389px) {
+    .wf-timers { gap: 4px; }
+    .wf-chip { padding: 5px 7px; gap: 5px; }
   }
 
   .wf-timers__head { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }

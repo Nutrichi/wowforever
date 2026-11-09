@@ -44,8 +44,9 @@ const size = wide ? 22 : 20;
     align-items: center;
     gap: 7px;
     /* Omlijnd in goud, zoals de Journey-pil (Nutri, 9 november 2026: "a gold outline instead of a fill"). */
-    padding: 4px 13px 4px 5px;
-    border: 1px solid var(--wf-accent-deep);
+    /* 2 px rand (Nutri, 10 november 2026: "make the outline ... bigger"); padding 1 px kleiner, zelfde maat. */
+    padding: 3px 12px 3px 4px;
+    border: 2px solid var(--wf-accent-deep);
     border-radius: var(--wf-r-pill);
     color: var(--wf-accent);
     font-family: var(--wf-display);
@@ -69,7 +70,8 @@ const size = wide ? 22 : 20;
   /* In de brede vorm staat de korte tekst er alleen op een heel smal scherm. */
   .only-narrow { display: none; }
 
-  @media (max-width: 420px) {
+  /* Tot 749 px de korte vorm (10 november 2026), anders liep de balk tussen 421 en ongeveer 650 px over twee regels. */
+  @media (max-width: 749px) {
     .is-long { display: none; }
     .only-narrow { display: inline; }
   }

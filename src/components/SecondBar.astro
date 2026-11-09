@@ -195,4 +195,8 @@ const { locale, hasContent = false } = Astro.props;
     /* Zoeken zit op mobiel in het menu achter de hamburger. */
     .wf-bar__search { display: none; }
   }
+  @media (max-width: 389px) {
+    .wf-bar__inner { gap: 8px 6px; }
+    .wf-bar__right { gap: 6px; }
+  }
 </style>

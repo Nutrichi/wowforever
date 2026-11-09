@@ -340,8 +340,11 @@ async function fetchClips(picks) {
  *
  * De nieuwste video is de nieuwste upload die geen opname van een stream is en
  * geen Short: Nutri koos voor de gemonteerde video's. Een opname van een
- * stream herken je aan `liveStreamingDetails`, een Short aan de lengte. Dat
- * kost 2 eenheden en gebeurt bij elke run.
+ * stream herken je aan `liveStreamingDetails`, een Short aan zijn staande beeld
+ * (de speler van `part=player` is hoger dan breed). Eerst was het de lengte (tot
+ * drie minuten), maar dan viel ook een gewone liggende video van 2:12 weg (Nutri,
+ * 10 november 2026: "In CLIPS, I don't see my latest video"). Dat kost 2 eenheden
+ * en gebeurt bij elke run.
  *
  * Of Nutri zelf live is, vraagt de pagina bij elk bezoek aan de Edge Function
  * `youtube-live` (supabase/functions/youtube-live in het privé-repo): de build
@@ -355,9 +358,15 @@ async function fetchClips(picks) {
 const NUTRI = {
   channelId: 'UCpmxHiFItoNHeJaMtPcMSTg',
   uploads: 'UUpmxHiFItoNHeJaMtPcMSTg',
-  /** Een Short duurt hoogstens drie minuten. */
-  minSeconds: 181,
+  /** Korter dan dit is geen video maar een flard (een Short herkennen we aan het staande beeld). */
+  minSeconds: 30,
 };
+
+/** Een Short staat rechtop: de speler is hoger dan breed. Zonder maten tellen we het niet als Short. */
+function isVertical(video) {
+  const w = Number(video.player?.embedWidth), h = Number(video.player?.embedHeight);
+  return w > 0 && h > w;
+}
 
 function toVideo(video) {
   const thumbs = video.snippet.thumbnails ?? {};
@@ -386,13 +395,14 @@ async function fetchYoutube() {
   })}`);
   const ids = list.items.map((item) => item.contentDetails?.videoId).filter(Boolean);
   const { items: uploads } = await getJson(`https://www.googleapis.com/youtube/v3/videos?${new URLSearchParams({
-    part: 'snippet,contentDetails,liveStreamingDetails', id: ids.join(','), key,
+    part: 'snippet,contentDetails,liveStreamingDetails,player', maxWidth: '640', id: ids.join(','), key,
   })}`);
 
   const newestFirst = uploads.sort((a, b) => Date.parse(b.snippet.publishedAt) - Date.parse(a.snippet.publishedAt));
   const latest = newestFirst.find((video) =>
     video.snippet.liveBroadcastContent === 'none'
     && !video.liveStreamingDetails
+    && !isVertical(video)
     && seconds(video.contentDetails?.duration) >= NUTRI.minSeconds);
   const live = newestFirst.find((video) => video.snippet.liveBroadcastContent === 'live');
 
