@@ -1,7 +1,7 @@
 ---
 title: "Arcane-Mage-Guide für WoW Forever"
 metaTitle: "WoW Forever Arcane Mage: Arcane-Blast-Build, Rotation, Mana, Werte und Völker"
-description: "Der Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage und Arcane Wrath, zwei Builds für Level 30 für Solo und Dungeons, die Rotation, Mana und Burn-Phasen, Überleben, Werte, Ausrüstung, Völker und Berufe."
+description: "Der Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage und Arcane Wrath, Builds für Level 60 für Raids, Leveln und PvP, die Rotation, Mana und Burn-Phasen, Überleben, Werte, Ausrüstung, Völker und Berufe."
 short: "Arcane Mage"
 updated: 2026-11-07
 lang: de
@@ -19,9 +19,11 @@ faq:
     a: "Stapel Arcane Blast nicht über 2, wenn du wenig Mana hast, nutze jeden Clearcasting-Proc für Arcane Blast und wirke Arcane Missiles, sobald Missile Barrage auslöst. Arcane Meditation behält 50 % deiner Regeneration beim Zaubern. Evocation und ein Mana Agate decken lange Kämpfe ab."
   - q: "Welches Volk ist am besten für einen Arcane Mage?"
     a: "Orc bei der Horde, für 10 % Zaubermacht von Blood Fury alle 2 Minuten, Troll auf Platz zwei. Bei der Allianz der High Order Skyborne für Haste und zusätzliche Regeneration, danach Human. Nimm das Volk, das dir gefällt, wenn du nicht jedem Prozent nachjagst."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/arcane/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arcane-mage/"
 ---
@@ -30,7 +32,7 @@ Der Arcane Mage hat in WoW Forever endlich eigene Schadenszauber. Arcane Blast s
 | | |
 |---|---|
 | Rolle | Fernkampf-Burst auf ein Ziel |
-| Build auf Level 30 | 21 Punkte in Arcane, Talented fügt Arcane Mind und Arcane Instability hinzu |
+| Build auf Level 60 | 32/16/3 |
 | Wichtige Talente | Arcane Blast, Missile Barrage, Arcane Wrath, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11213"><img class="wf-wh__icon" src="/wh/spell_shadow_manaburn.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Concentration</a>, Arcane Meditation |
 | Stärke | Hoher Schaden, wächst mit der Ausrüstung, Nutzen für die Gruppe |
 | Schwäche | Sehr schwieriges Manamanagement, abhängig von Procs und Ausrüstung |
@@ -55,44 +57,43 @@ Der Arcane Mage hat in WoW Forever endlich eigene Schadenszauber. Arcane Blast s
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=604"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dampen Magic</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1008"><img class="wf-wh__icon" src="/wh/spell_holy_flashheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amplify Magic</a>, Essen, Wasser und Portale | Ohne Clearcasting- oder Missile-Barrage-Procs bricht die Rotation zusammen |
 | Missile Barrage macht Arcane Missiles zu einem echten Schadenszauber | Weniger Überleben als Frost und kein <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a> |
 
-## Zwei Builds für Level 30
+## Builds für Level 60
 
-Beide Builds nutzen die 21 Punkte, die du auf Level 30 hast. Talented aus dem Legacy-System gibt jedem 5 Punkte dazu: Arcane Mind 5/5 und Arcane Instability 1/3.
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
 
-### Build für ein Ziel
+### Raid-Build, 32/16/3
 
-Zum Questen und für die offene Welt. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11237"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Channeling</a> 5/5 hält deine Zauber am Laufen, wenn Monster dich treffen, und der Build geht so tief wie möglich in Richtung Arcane Mind. Der Preis sind die 6 % kritische Trefferchance von <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11242"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Impact</a>. [Build im Talentrechner öffnen](/de/talents/mage/?t=0530052001003101).
+32 Punkte in Arcane, 16 in Fire und 3 in Frost. [Raid-Build im Talentrechner öffnen](/de/talents/mage/?t=050205203100311531-525000012001-003).
 
 | Talent | Punkte |
 |---|---|
 | **Improved Channeling** | 5/5 |
-| **Arcane Resilience** | 3/3 |
-| **Arcane Concentration** | 5/5 |
-| **Missile Barrage** | 2/2 |
-| **Arcane Blast** | 1/1 |
-| **Arcane Meditation** | 3/3 |
-| **Arcane Wrath** | 1/1 |
-| **Arcane Mind** | 1/5 |
-
-[Talented-Version öffnen](/de/talents/mage/?t=05300520010031051) mit Arcane Mind 5/5 und Arcane Instability 1/3.
-
-### Build für Dungeons
-
-Für Dungeons, wenn jemand anderes tankt. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11210"><img class="wf-wh__icon" src="/wh/spell_holy_dispelmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Subtlety</a> senkt die Bedrohung deiner Arcane-Zauber um 30 %, damit du Arcane Explosion spammen kannst, und Arcane Impact 3/3 gibt 6 % kritische Trefferchance. Ohne Improved Channeling verzögern Monster, die dich treffen, jeden Zauber. [Build im Talentrechner öffnen](/de/talents/mage/?t=0230052031003101).
-
-| Talent | Punkte |
-|---|---|
-| **Improved Channeling** | 2/5 |
-| **Arcane Resilience** | 3/3 |
+| **Arcane Subtlety** | 2/2 |
 | **Arcane Concentration** | 5/5 |
 | **Missile Barrage** | 2/2 |
 | **Arcane Impact** | 3/3 |
 | **Arcane Blast** | 1/1 |
 | **Arcane Meditation** | 3/3 |
 | **Arcane Wrath** | 1/1 |
-| **Arcane Mind** | 1/5 |
+| **Presence of Mind** | 1/1 |
+| **Arcane Mind** | 5/5 |
+| **Arcane Instability** | 3/3 |
+| **Arcane Power** | 1/1 |
+| **Incineration** | 5/5 |
+| **Accelerant** | 2/5 |
+| **Ignite** | 5/5 |
+| **Pyroblast** | 1/1 |
+| **Improved Fire Blast** | 2/2 |
+| **Heating Up** | 1/1 |
+| **Precision** | 3/3 |
 
-[Talented-Version öffnen](/de/talents/mage/?t=02300520310031051) mit Arcane Mind 5/5 und Arcane Instability 1/3. Der [Leveling-Build für den Mage](/de/leveling/mage/) gibt ein Talent für jedes Level von 10 bis 35.
+### Leveling-Build, 18/0/33
+
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/mage/?t=0502052001003--053530000101331251). Der [Level-Build für den Mage](/de/leveling/mage/) gibt das Talent für jedes Level.
+
+### PvP-Build, 32/19/0
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/mage/?t=050205220102211531-505230012001).
 
 ### Was die wichtigen Talente tun
 

@@ -1,7 +1,7 @@
 ---
 title: "Feral Druid in WoW Forever: der Guide"
 metaTitle: "WoW Forever Feral Druid: Katzen- und Bärenbuilds, Rotation, Werte"
-description: "Der Feral Druid in WoW Forever: vier Builds für Level 60 (Hybrid, Katze, Bär und Solo), Shifting Power und Primal Bite, die Rotationen als Katze und Bär, Werte und Völker."
+description: "Der Feral Druid in WoW Forever: Builds für Level 60 für Raids, Leveln und PvP, Shifting Power und Primal Bite, die Rotationen als Katze und Bär, Werte und Völker."
 short: "Feral Druid"
 updated: 2026-10-31
 lang: de
@@ -19,9 +19,11 @@ faq:
     a: "Als Katze: Hit, dann Expertise, dann Crit, Agility, Strength und Angriffskraft. Als Bär auch Defense, Dodge, Rüstung und Stamina, denn ein Druid kann weder blocken noch parieren."
   - q: "Welches Volk ist das beste für einen Feral Druid?"
     a: "Die Unterschiede sind klein. Night Elf bekommt einen Bonus auf kritische Treffer, der zu Feral passt, Tauren War Stomp und 5 % mehr Gesundheit. Skyborne bekommen Haste, die der Alliance zusätzlich eine Manaabklingzeit."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Ja. Die vier Builds in diesem Guide nutzen alle 51 Punkte von Level 60, ohne die Zusatzpunkte von Talented."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/druid/feral/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/feral-druid/"
 ---
@@ -48,13 +50,13 @@ Der Feral Druid in WoW Forever ist zwei Specs in einer: eine Katze, die mit Ener
 
 **Drei Ressourcen.** Die Katze behält Energie, Combo Points und, für Shifting Power, Mana im Blick. Der Bär hat Wut. Dazu Blutungen und Debuffs, und Feral wird eine der schwierigeren Specs.
 
-## Vier Builds für Level 60
+## Builds für Level 60
 
-Alle vier nutzen 51 Punkte, die volle Talentzahl von Level 60. Jeder Build setzt 9 Punkte in Balance für Genesis 5/5, Nature's Majesty 2/2 und Nature's Reach 2/2, außer dem Solobuild.
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
 
-### Hybrid, 9/37/5
+### Raid-Build, 9/32/10
 
-Katze und Bär in einem Build, für Endgame-Gruppen, die eine der beiden Rollen brauchen. [Öffne den Build im Talentrechner](/de/talents/druid/?t=050022-50230232123112125011-05).
+9 Punkte in Balance, 32 in Feral Combat und 10 in Restoration. [Raid-Build im Talentrechner öffnen](/de/talents/druid/?t=050022-53200032123012124001-055).
 
 | Talent | Punkte |
 |---|---|
@@ -62,38 +64,29 @@ Katze und Bär in einem Build, für Endgame-Gruppen, die eine der beiden Rollen 
 | **Nature's Majesty** | 2/2 |
 | **Nature's Reach** | 2/2 |
 | **Ferocity** | 5/5 |
+| **Furor** | 3/5 |
 | **Feral Swiftness** | 2/2 |
-| **Feral Instinct** | 3/3 |
-| **Thick Hide** | 2/3 |
 | **Shredding Attacks** | 3/3 |
 | **Savage Fury** | 2/2 |
 | **Feral Charge** | 1/1 |
 | **Sharpened Claws** | 2/2 |
 | **Predatory Strikes** | 3/3 |
-| **Lacerate** | 1/1 |
 | **Predatory Discipline** | 1/1 |
 | **Blood Frenzy** | 2/2 |
 | **Leader of the Pack** | 1/1 |
 | **Natural Instinct** | 2/2 |
-| **Rend and Tear** | 5/5 |
-| **Primal Bite** | 1/1 |
-| **Lacerate** | Neues Talent in Feral Combat seit dem Hotfix |
+| **Rend and Tear** | 4/5 |
 | **Shifting Power** | 1/1 |
 | **Heart of the Wild** | 5/5 |
+| **Naturalist** | 5/5 |
 
-![Der Hybridbuild 9/37/5 des Feral Druid in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
+### Leveling-Build, 9/32/10
 
-### Katze, 9/37/5
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/druid/?t=050022-55200002123012125001-055). Der [Level-Build für den Druid](/de/leveling/druid/) gibt das Talent für jedes Level.
 
-Für einen Druid, der nie tankt. [Öffne den Build im Talentrechner](/de/talents/druid/?t=050022-53230032123112125001-05).
+### PvP-Build, 0/35/16
 
-### Bär, 9/37/5
-
-Für einen Druid, der nur tankt, mit mehr Wut und Überleben. [Öffne den Build im Talentrechner](/de/talents/druid/?t=050022-5023030212310212541-05).
-
-### Solo, 0/35/16
-
-Zum Questen und Farmen allein: günstigere Gestaltwandel und effiziente Selbstheilung, auf Kosten etwas Leistung in der Gruppe. [Öffne den Build im Talentrechner](/de/talents/druid/?t=-05231032123112125001-15513000001).
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/druid/?t=-55202002123112124011-05433000001).
 
 ## Was die wichtigsten Talente tun
 

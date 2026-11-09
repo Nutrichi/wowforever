@@ -17,8 +17,10 @@ faq:
   - q: "Which race is best for a Shadow Priest?"
     a: "Dwarf for the Alliance and Troll for the Horde when the boss is a Beast, because both deal 5% more damage to Beasts. Otherwise Human and Undead are just as good. The gaps are small, so pick the race you like."
   - q: "Is this build final?"
-    a: "No. It uses the talents of the beta build of 15 October for level 60. The beta stopped at level 30, so these talents were never tested at level 60 and can still change."
+    a: "No."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/shadow/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shadow-priest/"
 ---
@@ -27,7 +29,7 @@ The Shadow Priest in WoW Forever deals Shadow damage with two damage over time s
 | | |
 |---|---|
 | Role | Ranged damage over time, with group healing from Vampiric Embrace |
-| Build for level 60 | 14/3/34, with the talents of the beta build of 15 October |
+| Build for level 60 | 15/3/33 |
 | Key talents | Mind Flay, Improved Mind Flay, Vampiric Embrace, Shadow Weaving, Silence, Shadowform |
 | Strength | Very good mana, group healing that never stops |
 | Weakness | Almost no movement, a slow start, weak against more than four targets |
@@ -53,16 +55,21 @@ The Shadow Priest in WoW Forever deals Shadow damage with two damage over time s
 | DoTs and burst spells fit together without a complicated rotation | Weak direct damage against more than four targets |
 | Silence, Psychic Scream and Dispel Magic for utility | No healing spells in Shadowform |
 
-## The level 60 build (14/3/34)
+## Builds for level 60
 
-This build uses all 51 points of level 60. Fourteen go into Discipline for Twin Disciplines, Inner Focus and Meditation, three into Holy for Twilight Focus, and the rest into Shadow up to Shadowform. [Open the build in the talent calculator](/talents/priest/?t=00530200103-3-50042201251312051).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 15/3/33
+
+15 points in Discipline, 3 in Holy and 33 in Shadow. [Open the raid build in the talent calculator](/talents/priest/?t=00530400003-3-50042201251302051).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/priest/?t=00530200003--50542201251302051).
 
 | Talent | Points |
 |---|---|
 | **Twin Disciplines** | 5/5 |
 | **Silent Resolve** | 3/3 |
-| **Mental Strength** | 2/5 |
-| **Inner Focus** | 1/1 |
+| **Mental Strength** | 4/5 |
 | **Meditation** | 3/3 |
 | **Twilight Focus** | 3/3 |
 | **Shadow Focus** | 5/5 |
@@ -74,20 +81,17 @@ This build uses all 51 points of level 60. Fourteen go into Discipline for Twin 
 | **Dark Inspiration** | 5/5 |
 | **Vampiric Embrace** | 1/1 |
 | **Shadow Weaving** | 3/3 |
-| **Silence** | 1/1 |
 | **Devouring Contagion** | 2/2 |
 | **Darkness** | 5/5 |
 | **Shadowform** | 1/1 |
 
-![The 14/3/34 Shadow Priest build in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-shadow-priest-build.jpg)
+### Leveling build, 16/0/35
 
-**Free points.** A few points can move without much loss:
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/priest/?t=00500520103--50542201201302251). The [Priest level build](/leveling/priest/) gives the talent for every level.
 
-- Inner Focus does little for Shadow. Its point can go elsewhere.
-- Devouring Contagion only helps when targets die with Devouring Plague on them. In a raid you rarely need the mana, so one or two points can go.
-- More points in Early Demise or Mental Strength are small gains.
-- Spirit Tap helps a lot in dungeons, where enemies die all the time, and little in raids.
-- If your raid needs you to dispel enemies, one point in Holy Precision makes Dispel Magic miss less.
+### PvP build, 16/3/32
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/priest/?t=00530020033-3-55002221201312051).
 
 ## What the key talents do
 

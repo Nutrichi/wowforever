@@ -1,7 +1,7 @@
 ---
 title: "Gids voor de Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
-description: "De Enhancement Shaman in WoW Forever: de build voor level 30 en de Talented-versie, Stormstrike en Maelstrom Weapon, de rotatie, totems, mana, tanken, stats en races."
+description: "De Enhancement Shaman in WoW Forever: de build voor level 60, Stormstrike en Maelstrom Weapon, de rotatie, totems, mana, tanken, stats en races."
 short: "Enhancement Shaman"
 updated: 2026-11-07
 lang: nl
@@ -21,20 +21,22 @@ faq:
     a: "Eerst wapenschade, dan hit naarmate level 60 dichterbij komt, Strength en Intellect, critical strike chance, Spirit en spell damage. Intellect geeft attack power via Mental Dexterity en ook een grotere manapool."
   - q: "Welk ras is het beste voor een Enhancement Shaman?"
     a: "Dwarf is de enige Shaman bij de Alliance. Bij de Horde is Orc de sterkste keuze dankzij Blood Fury, en Windshaper Skyborne krijgt 2% haste."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/).
 
-De Enhancement Shaman in WoW Forever vecht in melee en mengt er spells door. Een traag tweehandig wapen met Windfury Weapon levert de grote klappen, terwijl Stormstrike en Maelstrom Weapon Lightning Bolt aan de rotatie toevoegen. Totems maken je welkom in elke groep. Deze gids behandelt de build voor level 30, de belangrijkste talenten, de rotatie, totems, mana, tanken, stats en races.
+De Enhancement Shaman in WoW Forever vecht in melee en mengt er spells door. Een traag tweehandig wapen met Windfury Weapon levert de grote klappen, terwijl Stormstrike en Maelstrom Weapon Lightning Bolt aan de rotatie toevoegen. Totems maken je welkom in elke groep. Deze gids behandelt de build voor level 60, de belangrijkste talenten, de rotatie, totems, mana, tanken, stats en races.
 
 | | |
 |---|---|
 | Rol | Melee damage, één doel en groepen, tank in vroege dungeons |
-| Build op level 30 | 21 punten in Enhancement, Talented voegt Mental Quickness 2/2, Improved Stormstrike 2/2 en Maelstrom Weapon 1/5 toe |
+| Build op level 60 | 17/34/0 |
 | Belangrijkste talenten | Mental Dexterity, Shamanistic Focus, Flurry, Stormstrike, Improved Stormstrike, Maelstrom Weapon |
 | Sterk | Stevige damage, totems voor de hele raid, veel utility |
 | Zwak | Mana, afhankelijk van je wapen, weinig verdedigende opties |
@@ -56,26 +58,45 @@ De Enhancement Shaman in WoW Forever vecht in melee en mengt er spells door. Een
 
 **Weinig verdediging.** Geen harde crowd control en geen echte verdedigende cooldown. Stoneskin Totem en je eigen healing gaan maar zo ver.
 
-## De build voor level 30
+## Builds voor level 60
 
-De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem geeft er 5 bij. [Open de build in de talent calculator](/nl/talents/shaman/?t=-052031310051).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 17/34/0
+
+17 punten in Elemental en 34 in Enhancement. [Open de raidbuild in de talentcalculator](/nl/talents/shaman/?t=053303102-053030310051212251).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/shaman/?t=05330310201-0530303100212122-053).
 
 | Talent | Punten |
 |---|---|
+| **Concussion** | 5/5 |
+| **Elemental Devastation** | 3/3 |
+| **Reverberation** | 3/5 |
+| **Call of Flame** | 3/3 |
+| **Elemental Focus** | 1/1 |
+| **Trial by Fire** | 2/2 |
 | **Thundering Strikes** | 5/5 |
-| **Ancestral Knowledge** | 2/5 |
+| **Ancestral Knowledge** | 3/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
+| **Improved Ghost Wolf** | 2/2 |
+| **Spirit Weapons** | 1/1 |
+| **Mental Quickness** | 2/2 |
+| **Improved Stormstrike** | 2/2 |
+| **Maelstrom Weapon** | 5/5 |
+| **Rage of the Farseer** | 1/1 |
 
-[Open de Talented-versie](/nl/talents/shaman/?t=-05203131005100221) met Mental Quickness 2/2, Improved Stormstrike 2/2 en Maelstrom Weapon 1/5.
+### Levelbuild, 19/32/0
 
-![De Talented-build van de Enhancement Shaman in onze talent calculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/shaman/?t=45300310201-053030310051012251). De [levelbuild voor de Shaman](/nl/leveling/shaman/) geeft het talent voor elk level.
 
-Onze [Shaman-levelgids](/nl/guides/shaman-leveling/) gebruikt dezelfde build en legt de weg naar level 30 uit.
+### PvP-build, 18/26/7
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/shaman/?t=05350310001-2502300130212122-050002).
 
 ## Wat de belangrijkste talenten doen
 
@@ -91,9 +112,9 @@ Onze [Shaman-levelgids](/nl/guides/shaman-leveling/) gebruikt dezelfde build en 
 | **Mental Quickness** | Spell damage en healing gelijk aan 30% van je Intellect |
 | **Improved Stormstrike** | Stormstrike geeft 15 seconden 50% manaregeneratie tijdens het casten. Een dodge of parry zet de cooldown terug |
 | **Maelstrom Weapon** | Meleeslagen kunnen de casttijd en manakost van je volgende Lightning Bolt verlagen, tot 5 stacks. 4% per stack op 1/5, 20% per stack op 5/5 |
-| **Rage of the Farseer** | Het onderste talent van de boom: 25 seconden 30% meer attack speed, cooldown 3 minuten. Buiten bereik op level 30 |
+| **Rage of the Farseer** | Het onderste talent van de boom: 25 seconden 30% meer attack speed, cooldown 3 minuten |
 
-Maelstrom Weapon vraagt veel punten voor het een gratis, instant Lightning Bolt wordt. Met 1/5 in de Talented-build halen 5 stacks er maar 20% af.
+Maelstrom Weapon vraagt veel punten voor het een gratis, instant Lightning Bolt wordt.
 
 ## Rotatie
 

@@ -1,7 +1,7 @@
 ---
 title: "Rogue leveling guide for WoW Forever"
-metaTitle: "WoW Forever Rogue leveling: builds for all three specs to 30"
-description: "How to level a Rogue in WoW Forever: four level 30 builds for Assassination, Combat and Subtlety, the rotation, key levels, poison quests, weapons and professions."
+metaTitle: "WoW Forever Rogue leveling: builds for all three specs to 60"
+description: "How to level a Rogue in WoW Forever: level 60 builds for Assassination, Combat and Subtlety, the rotation, key levels, poison quests, weapons and professions."
 short: "Rogue leveling"
 updated: 2026-11-07
 lang: en
@@ -18,15 +18,15 @@ faq:
     a: "No. Rogues use Energy, not mana, so food is enough. Buff food gives extra experience in Forever, so stay Well Fed."
   - q: "Which professions suit a Rogue?"
     a: "Skinning with Leatherworking is the natural pair: you kill many beasts, and Forever has new leather recipes such as Dark Leather Boots and Brawler's Leather Belt. Cooking is worth it for every class, because buff food gives extra experience and you need it for a camp."
-  - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Rogue level build gives a talent for every level to 35."
+  - q: "Is there a level 60 build?"
+    a: "The Rogue level build gives a talent for every level to 35 for now. Every spec guide has its own builds for level 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
 > **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-The Rogue was never the easiest class to level, but WoW Forever helps. Poisons can crit, single target damage is higher and each spec has its own identity. At level 30 you choose between Assassination, Combat and two kinds of Subtlety. This guide covers the four builds, the rotation, the key levels, the poison quests, weapons and professions.
+The Rogue was never the easiest class to level, but WoW Forever helps. Poisons can crit, single target damage is higher and each spec has its own identity. You choose between Assassination, Combat and two kinds of Subtlety. This guide covers the four builds, the rotation, the key levels, the poison quests, weapons and professions.
 
 | | |
 |---|---|
@@ -41,9 +41,6 @@ The Rogue was never the easiest class to level, but WoW Forever helps. Poisons c
 ## Which spec to level with
 
 **Combat** is the most forgiving start. Deflection and Riposte keep you alive, and you walk from monster to monster without pauses. Combat can also use every weapon type, thanks to Hack and Slash. **Subtlety with Ambush** opens from Stealth with a huge critical strike and kills fast, but is weaker in dungeons. **Subtlety with bleeds** builds on Garrote, Hemorrhage and Rupture. **Assassination** only gets strong once Mutilate arrives at level 40, so it is not a starter build.
-
-The builds below were made on the beta, which stopped at level 30. Every build has a version with five extra points for Talented from the Legacy system. The talent calculator shows those versions as level 35, because it counts every point as a level. Builds for level 60 follow once we can test them in the live game.
-
 ## Levels 1 to 10
 
 You have no talents yet, only <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1752"><img class="wf-wh__icon" src="/wh/spell_shadow_ritualofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sinister Strike</a> and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2098"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eviscerate</a>. Stealth, Backstab and Evasion follow quickly.
@@ -58,121 +55,11 @@ An opener from Stealth on every monster slows you down at these levels. Save it 
 
 Stats at these levels: Agility, then Attack Power, Strength, Stamina and armor.
 
-## Level 30 Assassination build
+## Talent builds
 
-Grows stronger the closer you get to Mutilate at level 40. Ruthlessness gives more Combo Points, and Venom makes your poisons stronger after every Shank, but you lack the survival of Combat and the burst of Subtlety. [Open the build in the talent calculator](/talents/rogue/?t=02530300201401).
+The [Rogue level build](/leveling/rogue/) gives the talent for every level from 10 to 35. The rest of the order follows once it is known.
 
-| Talent | Points |
-|---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Malice** | 5/5 |
-| **Ruthlessness** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14165"><img class="wf-wh__icon" src="/wh/ability_rogue_slicedice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Slice and Dice</a>** | 3/3 |
-| **Lethality** | 2/2 |
-| **Cold Blood** | 1/1 |
-| **Improved Poisons** | 4/5 |
-| **Venom** | 1/1 |
-
-With Talented: Relentless Strikes 3/5 and Opportunity 2/5 in Subtlety. [Open the Talented version](/talents/rogue/?t=02530300201431--002).
-
-1. Open from Stealth with Ambush.
-2. Build Combo Points with Sinister Strike, and use Shank whenever it is ready.
-3. Keep Slice and Dice up.
-4. Finish with Eviscerate.
-5. Use Expose Armor before Eviscerate, and keep it up on a boss.
-6. Interrupt with Kick or Gouge, and escape with Vanish.
-7. On a dangerous monster: Cheap Shot, then Kidney Shot.
-8. Attack the next monster before Remorseless Attacks runs out.
-
-Stats from here for every build: critical strike chance, then Agility, Attack Power, Strength, Stamina and armor.
-
-## Level 30 Combat build
-
-Defensive and offensive at once: more damage on Eviscerate and your auto attacks, and Deflection and Riposte against pauses. Flawless Execution, Aggression and Blade Flurry finish the build. [Open the build in the talent calculator](/talents/rogue/?t=-3200331210011301).
-
-| Talent | Points |
-|---|---|
-| **Coup de Grace** | 3/3 |
-| **Efficient Strikes** | 2/2 |
-| **Deflection** | 3/3 |
-| **Precision** | 3/3 |
-| **Improved Sprint** | 1/2 |
-| **Endurance** | 2/2 |
-| **Riposte** | 1/1 |
-| **Flawless Execution** | 1/1 |
-| **Weapon Expertise** | 1/2 |
-| **Aggression** | 3/3 |
-| **Blade Flurry** | 1/1 |
-
-With Talented: Hack and Slash 5/5. [Open the Talented version](/talents/rogue/?t=-32003312100113015).
-
-Do you die too often because your gear is weak? Take Lightning Reflexes instead of Coup de Grace, Improved Sprint and Flawless Execution. You then rely more on auto attacks and Poisons than on finishers.
-
-1. Open from Stealth with Cheap Shot, or simply walk up and attack. With daggers, open with Ambush.
-2. Use Blade Flurry at the start of every fight, against one monster or more.
-3. Build Combo Points with Sinister Strike.
-4. Keep Slice and Dice up.
-5. Use Eviscerate at 3 to 5 Combo Points.
-6. Use Expose Armor before Eviscerate, and keep it up on a boss.
-7. Interrupt with Kick or Gouge, and escape with Vanish.
-
-## Level 30 Subtlety Ambush build
-
-Kills as fast as possible with critical Ambushes. You go into Stealth often and use every Remorseless Attacks. Most monsters are nearly dead after the opener. In dungeons the build is weaker, because Ambush needs Stealth. Ghostly Strike gives you one Ambush in combat now and then. [Open the build in the talent calculator](/talents/rogue/?t=02--333003031021).
-
-| Talent | Points |
-|---|---|
-| **Remorseless Attacks** (Assassination) | 2/2 |
-| **Setup** | 3/3 |
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 3/5 |
-| **Improved Ambush** | 3/3 |
-| **Initiative** | 3/3 |
-| **Premeditation** | 1/1 |
-| **Elusiveness** | 2/2 |
-| **Ghostly Strike** | 1/1 |
-
-With Talented: Malice 5/5 in Assassination. [Open the Talented version](/talents/rogue/?t=025--333003031021).
-
-1. Open from Stealth with Ambush.
-2. Build Combo Points with Sinister Strike.
-3. Finish a weakened monster with Eviscerate. Against a monster with a lot of health, use Slice and Dice instead.
-4. To kill a target fast: Gouge, Vanish and another Ambush.
-5. Interrupt with Kick.
-6. On a dungeon boss: Slice and Dice and Expose Armor before Eviscerate.
-7. Attack the next monster before Remorseless Attacks runs out.
-
-## Level 30 Subtlety bleed build
-
-Builds on Garrote, Hemorrhage and Rupture, and on Serrated Blades, which makes Rupture hit harder. [Open the build in the talent calculator](/talents/rogue/?t=--3320002313210001).
-
-| Talent | Points |
-|---|---|
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 2/2 |
-| **Setup** | 3/3 |
-| **Elusiveness** | 2/2 |
-| **Dirty Tricks** | 2/2 |
-| **Initiative** | 3/3 |
-| **Ghostly Strike** | 1/1 |
-| **Premeditation** | 1/1 |
-| **Serrated Blades** | 3/3 |
-| **Hemorrhage** | 1/1 |
-
-With Talented: Dirty Deeds 2/2, Preparation 1/1 and Malice 2/5 in Assassination. [Open the Talented version](/talents/rogue/?t=002--3322002313210011).
-
-1. Open from Stealth with Garrote.
-2. Build Combo Points with Hemorrhage.
-3. Keep Slice and Dice up.
-4. Use Rupture at 3 to 5 Combo Points on a boss or a monster with a lot of health.
-5. Finish a weakened monster with Eviscerate.
-6. On a boss: Vanish and a new Garrote once the first one runs out.
-7. Interrupt with Kick.
-8. Use Expose Armor on a dungeon boss if your group has several physical damage dealers.
-
-With points in Talented from the Legacy system, you reach every talent up to five levels sooner.
-
-![The three Rogue talent trees in World of Warcraft: Forever: Assassination, Combat and Subtlety, with 51 unspent talent points](../../../../assets/posts/2026-10-08-wow-forever-rogue-talent-trees.jpg)
+For level 60, every spec guide has its own builds for raids, leveling and PvP: [Assassination](/guides/assassination-rogue/), [Combat](/guides/combat-rogue/) and [Subtlety](/guides/subtlety-rogue/).
 
 ## Key levels
 

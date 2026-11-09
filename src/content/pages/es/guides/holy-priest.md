@@ -18,8 +18,10 @@ faq:
   - q: "¿Qué raza es mejor para un Holy Priest?"
     a: "Gnome o Human para la Alianza, Undead para la Horda. Undead tiene Dark Sacrifice para el maná, mientras que Troll casi no aporta nada a un sanador."
   - q: "¿Es definitiva esta build?"
-    a: "No. Usa los talentos de la build de la beta del 15 de octubre para nivel 60. La beta terminaba en el nivel 30, así que estos talentos nunca se probaron a nivel 60 y aún pueden cambiar."
+    a: "No."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"
 ---
@@ -28,7 +30,7 @@ El Holy Priest de WoW Forever es un sanador con una respuesta para cada herida: 
 | | |
 |---|---|
 | Rol | Sanador, mejor curando al grupo y a la banda |
-| Build para nivel 60 | 18/33/0, con los talentos de la build de la beta del 15 de octubre |
+| Build para nivel 60 | 18/33/0 |
 | Talentos clave | Improved Renew, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
 | Fuerte en | Un sanador de banda muy sólido con muchas herramientas |
 | Débil en | Casi sin movilidad, azar en Prayer of Mending |
@@ -52,9 +54,15 @@ El Holy Priest de WoW Forever es un sanador con una respuesta para cada herida: 
 | Buen maná gracias a Meditation y Litany of Light | Menos adecuado que Discipline para mantener vivo a un solo tanque |
 | Fear Ward, Dispel Magic y Abolish Disease para el grupo | |
 
-## La build de nivel 60 (18/33/0)
+## Builds para nivel 60
 
-Esta build usa los 51 puntos del nivel 60. Los 18 puntos en Discipline pagan Twin Disciplines, Mental Strength, Inner Focus, Improved Power Word: Shield, Meditation y Soul Warding. El resto va a Holy hasta Prayer of Mending. [Abrir la build en la calculadora de talentos](/es/talents/priest/?t=00500500133001-03505103030121531).
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+### Build de banda, 18/33/0
+
+18 puntos en Discipline y 33 en Holy. [Abre la build de banda en la calculadora de talentos](/es/talents/priest/?t=00500500133001-10505103230121531).
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/priest/?t=025005001330011-0350510303002053).
 
 | Talento | Puntos |
 |---|---|
@@ -64,27 +72,27 @@ Esta build usa los 51 puntos del nivel 60. Los 18 puntos en Discipline pagan Twi
 | **Improved Power Word: Shield** | 3/3 |
 | **Meditation** | 3/3 |
 | **Soul Warding** | 1/1 |
-| **Improved Renew** | 3/3 |
+| **Twilight Focus** | 1/3 |
 | **Holy Specialization** | 5/5 |
 | **Divine Fury** | 5/5 |
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
+| **Holy Reach** | 2/2 |
 | **Improved Healing** | 3/3 |
 | **Holy Binding** | 1/1 |
-| **Holy Binding** | Cada Flash Heal en otro también te cura un 50% de esa cantidad, sin amenaza |
 | **Litany of Light** | 2/2 |
 | **Spirit of Redemption** | 1/1 |
 | **Spiritual Guidance** | 5/5 |
 | **Spiritual Healing** | 3/3 |
 | **Prayer of Mending** | 1/1 |
 
-![La build 18/33/0 del Holy Priest en nuestra calculadora de talentos](../../../../assets/posts/2026-10-21-wow-forever-holy-priest-build.jpg)
+### Build para subir de nivel, 16/0/35
 
-**Puntos libres.**
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/priest/?t=00500520103--50542201201302251). La [build de nivel del Priest](/es/leveling/priest/) da el talento de cada nivel.
 
-- ¿Te quedas sin maná con mucho Renew? Pasa unos puntos a Mental Agility, que abarata tus hechizos instantáneos.
-- Si a tu banda le faltan disipaciones ofensivas y te toca a ti, unos puntos en Holy Precision hacen que Dispel Magic falle menos.
-- Twilight Focus ayuda contra el retroceso, pero solo en combates en los que recibes daño mientras lanzas.
+### Build de PvP, 34/17/0
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/priest/?t=005305201333011331-3020511302).
 
 ## Qué hacen los talentos clave
 

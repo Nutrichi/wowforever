@@ -1,7 +1,7 @@
 ---
 title: "Demonology Warlock guide for WoW Forever"
-metaTitle: "WoW Forever Demonology Warlock: level 30 build, Demonic Brand and demons"
-description: "The Demonology Warlock in WoW Forever: the level 30 build with Demonic Brand, Demonic Knowledge and Soul Link, the rotation, threat, demons, Life Tap, stats and races."
+metaTitle: "WoW Forever Demonology Warlock: level 60 build, Demonic Brand and demons"
+description: "The Demonology Warlock in WoW Forever: the level 60 build with Demonic Brand, Demonic Knowledge and Soul Link, the rotation, threat, demons, Life Tap, stats and races."
 short: "Demonology Warlock"
 updated: 2026-11-07
 lang: en
@@ -9,16 +9,18 @@ faq:
   - q: "Can the Succubus tank in WoW Forever?"
     a: "Yes, with Demonic Brand. Searing Pain brands the target, and your demon's next attacks against it deal extra damage and extra threat. At 3/3 the Succubus holds threat for almost the whole fight."
   - q: "Do demons scale with gear in WoW Forever?"
-    a: "Yes. Your demons now scale with your gear, and Demonic Knowledge gives you and your demon Spell Power equal to your level at 3/3. That is 30 Spell Power each at level 30."
+    a: "Yes. Your demons now scale with your gear, and Demonic Knowledge gives you and your demon Spell Power equal to your level at 3/3."
   - q: "Should I use Demonic Sacrifice?"
     a: "No. It is a 1 point requirement for Soul Link. Sacrificing your demon removes your tank and most of your damage."
   - q: "When should I start casting Searing Pain?"
     a: "Only once you have Demonic Brand at level 25. Without it Searing Pain makes a lot of threat and pulls the enemy off your demon."
   - q: "Which race is best for a Demonology Warlock?"
     a: "Human for the Alliance, for 1% more critical strike chance from Ruthless. Undead for the Horde, for Touch of the Grave, Cannibalize and Will of the Forsaken. The gaps are small, so pick the race you like."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/warlock/demonology/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/demonology-warlock/"
 ---
@@ -27,7 +29,7 @@ The Demonology Warlock in WoW Forever lets the demon do the work. You brand the 
 | | |
 |---|---|
 | Role | Damage through your demon, the safest Warlock spec solo |
-| Build at level 30 | 24 points in Demonology and 2 in Destruction, with the 5 extra points from Talented |
+| Build at level 60 | 2/31/18 |
 | Key talents | Unholy Power, Demonic Energies, Demonic Brand, Demonic Knowledge, Soul Link |
 | Strength | Your demon tanks, strong pet damage, group utility |
 | Weakness | Everything depends on your demon, the Brand needs constant upkeep |
@@ -51,27 +53,42 @@ The Demonology Warlock in WoW Forever lets the demon do the work. You brand the 
 | Your demon deals most of your damage while you cast DoTs and Searing Pain | The Brand runs out about every 6 seconds and Searing Pain is a 1.5 second cast |
 | Soulstone, Healthstones, summons and a Succubus that seduces an extra enemy | One target at a time, your demon has no area damage |
 
-## The build at level 30
+## Builds for level 60
 
-This build uses 26 points: the 21 points of level 30 plus 5 from <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> in the Legacy system. Twenty points in Demonology open Demonic Knowledge and Soul Link. The last 2 points are free: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17917"><img class="wf-wh__icon" src="/wh/spell_shadow_corpseexplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Destructive Reach</a> for 20% more range on your Destruction spells such as Searing Pain, Improved Corruption for a faster Corruption, or Improved Life Tap for more mana. [Open the build in the talent calculator](/talents/warlock/?t=-00350032012013013-2).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 2/31/18
+
+2 points in Affliction, 31 in Demonology and 18 in Destruction. [Open the raid build in the talent calculator](/talents/warlock/?t=011-0305003201220301351-0050055003).
 
 | Talent | Points |
 |---|---|
-| **Demonic Embrace** | 3/5 |
+| **Suppression** | 1/5 |
+| **Improved Corruption** | 1/5 |
+| **Improved Imp** | 3/3 |
 | **Unholy Power** | 5/5 |
 | **Fel Vitality** | 3/3 |
 | **Demonic Energies** | 2/2 |
 | **Demonic Sacrifice** | 1/1 |
 | **Master Summoner** | 2/2 |
-| **Fel Domination** | 1/1 |
+| **Decimation** | 2/2 |
 | **Demonic Brand** | 3/3 |
 | **Soul Link** | 1/1 |
 | **Demonic Knowledge** | 3/3 |
-| **Destructive Reach** | 2/2 |
+| **Master Demonologist** | 5/5 |
+| **Demonic Pact** | 1/1 |
+| **Bane** | 5/5 |
+| **Aftermath** | 5/5 |
+| **Ruin** | 5/5 |
+| **Agonizing Flames** | 3/3 |
 
-![The Demonology Warlock build for level 30 in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-demonology-warlock-build.jpg)
+### Leveling build, 41/10/0
 
-After level 30, Master Demonologist and Demonic Pact follow at the bottom of the tree.
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/warlock/?t=2552032303520135-00050032). The [Warlock level build](/leveling/warlock/) gives the talent for every level.
+
+### PvP build, 20/31/0
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/warlock/?t=0052030313021-0050233201201131151).
 
 ## What the key talents do
 
@@ -109,7 +126,7 @@ Searing Pain has no travel time, and rank 2 arrives at level 26. Before you have
 ## Demons
 
 - **Succubus or Incubus** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=712"><img class="wf-wh__icon" src="/wh/spell_shadow_summonsuccubus.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Succubus</a>): the most damage of any demon, and with Demonic Brand it holds threat for almost the whole fight. Your default solo demon. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6358"><img class="wf-wh__icon" src="/wh/spell_shadow_mindsteal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seduction</a> keeps a humanoid out of the fight in dungeons.
-- **Voidwalker** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=697"><img class="wf-wh__icon" src="/wh/spell_shadow_summonvoidwalker.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Voidwalker</a>): your backup tank for enemies that hit too hard. Torment holds threat much better than in Classic, and rank 3 at level 30 fixes the threat problems of the late 20s.
+- **Voidwalker** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=697"><img class="wf-wh__icon" src="/wh/spell_shadow_summonvoidwalker.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Voidwalker</a>): your backup tank for enemies that hit too hard. Torment holds threat much better than in Classic, and rank 3 at level 60 fixes the threat problems of the late 20s.
 - **Felhunter** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=691"><img class="wf-wh__icon" src="/wh/spell_shadow_summonfelhunter.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Felhunter</a>): almost the damage of the Succubus, and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19505"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Devour Magic</a> removes magic effects. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19244"><img class="wf-wh__icon" src="/wh/spell_shadow_mindrot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spell Lock</a> only arrives at level 36.
 - **Imp** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=688"><img class="wf-wh__icon" src="/wh/spell_shadow_summonimp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Imp</a>): little damage, but <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6307"><img class="wf-wh__icon" src="/wh/spell_shadow_bloodboil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Pact</a> gives the group Stamina.
 
@@ -124,7 +141,7 @@ Bind Attack and Follow to keys you can press without thinking, so you can send y
 
 ## Stats and gear
 
-**Spell Power, Shadow damage and Fire damage** first, then **Stamina and Spirit**, then **Intellect**. Spell Power also makes your demon stronger. Shadow damage helps Corruption and Bane of Agony, Fire damage helps Searing Pain. Stamina gives more health to tap, Spirit more mana per Life Tap. Hit and crit are rare on gear at level 30, and this build has no Suppression, so you miss enemies of your level 4% of the time.
+**Spell Power, Shadow damage and Fire damage** first, then **Stamina and Spirit**, then **Intellect**. Spell Power also makes your demon stronger. Shadow damage helps Corruption and Bane of Agony, Fire damage helps Searing Pain. Stamina gives more health to tap, Spirit more mana per Life Tap. Hit and crit are rare on gear at level 60, and this build has no Suppression, so you miss enemies of your level 4% of the time.
 
 - **Tailoring** has new soulbound Shadow pieces such as <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253967"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gown</a> and <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_27.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gloves</a>, and Flame pieces that boost Searing Pain. Only the tailor can wear them.
 - **Weapons.** Your weapon is a stat stick, its Spell Power matters more than its damage. The Warlock quest for the Orb of Soran'ruk lets you choose between <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> and <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2549"><img class="wf-wh__icon" src="/wh/inv_staff_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of the Shade</a> from Razorfen Kraul has more Shadow damage, but does nothing for Searing Pain.

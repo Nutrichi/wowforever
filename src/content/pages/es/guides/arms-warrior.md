@@ -1,7 +1,7 @@
 ---
 title: "Guía del Arms Warrior en WoW Forever"
-metaTitle: "WoW Forever Arms Warrior: build de nivel 30, Rend, Overpower y Rage"
-description: "El Arms Warrior en WoW Forever: la build de nivel 30 con Bloodthrill, Improved Slam y Sweeping Strikes, la rotación, Rend y Overpower, la Rage, los stats y las razas."
+metaTitle: "WoW Forever Arms Warrior: build de nivel 60, Rend, Overpower y Rage"
+description: "El Arms Warrior en WoW Forever: la build de nivel 60 con Bloodthrill, Improved Slam y Sweeping Strikes, la rotación, Rend y Overpower, la Rage, los stats y las razas."
 short: "Arms Warrior"
 updated: 2026-11-07
 lang: es
@@ -17,20 +17,22 @@ faq:
     a: "Mortal Strike es el último talento del árbol de Arms y pide 30 puntos en él, así que nivel 39 como pronto, o unos niveles antes con Talented del sistema Legacy."
   - q: "¿Qué raza es mejor para un Arms Warrior?"
     a: "Human para la Alianza, por un 1% más de probabilidad de crítico, o Dwarf por un 1% de hit. Orc para la Horda, por Blood Fury. Todas las razas pueden ser Warrior, y cualquier elección funciona."
-  - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/arms/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
 ---
 > **Actualización del 4 de noviembre:** las builds y talentos de abajo siguen los árboles nuevos de las notas de desarrollo del 2 de noviembre, más en [nuestra noticia](/es/news/blizzard-raises-class-damage-and-monster-health/).
 
-El Arms Warrior de WoW Forever blande una gran arma lenta. Rend sigue sangrando, Overpower se ilumina una y otra vez, y cada golpe arranca un trozo visible al enemigo. Muchos de sus talentos tiran hacia el PvP, lo que hace de Arms la elección natural para los campos de batalla. Esta guía cubre la build de nivel 30, la rotación, Rend y Overpower, la Rage, los stats, las armas y las razas.
+El Arms Warrior de WoW Forever blande una gran arma lenta. Rend sigue sangrando, Overpower se ilumina una y otra vez, y cada golpe arranca un trozo visible al enemigo. Muchos de sus talentos tiran hacia el PvP, lo que hace de Arms la elección natural para los campos de batalla. Esta guía cubre la build de nivel 60, la rotación, Rend y Overpower, la Rage, los stats, las armas y las razas.
 
 | | |
 |---|---|
 | Rol | Daño cuerpo a cuerpo con un arma de dos manos |
-| Build a nivel 30 | 26 puntos en Arms, con los 5 puntos extra de Talented |
+| Build a nivel 60 | 32/17/2 |
 | Talentos clave | Improved Rend, Improved Overpower, Bloodthrill, Improved Slam, Impale, Two-Handed Weapon Specialization |
 | Fuerte en | Golpes grandes, daño en área cercana fuerte con Sweeping Strikes |
 | Débil en | Juego lento, habilidades más propias del PvP |
@@ -54,28 +56,43 @@ El Arms Warrior de WoW Forever blande una gran arma lenta. Rend sigue sangrando,
 | Sweeping Strikes, Cleave y Whirlwind para un daño en área cercana fuerte | Spearing Strike y Mortal Strike encajan mejor en PvP que en PvE |
 | La mejor spec de Warrior para los campos de batalla | |
 
-## La build de nivel 30
+## Builds para nivel 60
 
-Esta build usa 26 puntos: los 21 puntos del nivel 30 más 5 de Talented en el sistema Legacy. Sin Talented, detente en 21 puntos; la [build de nivel del Warrior](/es/leveling/warrior/) da el orden por nivel. [Abrir la build en la calculadora de talentos](/es/talents/warrior/?t=333202031322101).
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+### Build de banda, 32/17/2
+
+32 puntos en Arms, 17 en Fury y 2 en Protection. [Abre la build de banda en la calculadora de talentos](/es/talents/warrior/?t=30303213132215201-05500005002-2).
 
 | Talento | Puntos |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
-| **Deflection** | 3/5 |
 | **Improved Rend** | 3/3 |
-| **Improved Charge** | 2/2 |
+| **Improved Tactical Mastery** | 3/3 |
 | **Improved Overpower** | 2/2 |
+| **Anger Management** | 1/1 |
 | **Deep Wounds** | 3/3 |
 | **Spearing Strike** | 1/1 |
 | **Two-Handed Weapon Specialization** | 3/3 |
 | **Impale** | 2/2 |
 | **Bloodthrill** | 2/2 |
 | **Sweeping Strikes** | 1/1 |
-| **Improved Slam** | 1/2 |
+| **Weaponmaster** | 5/5 |
+| **Improved Slam** | 2/2 |
+| **Mortal Strike** | 1/1 |
+| **Cruelty** | 5/5 |
+| **Lingering Rage** | 5/5 |
+| **Enrage** | 5/5 |
+| **Improved Execute** | 2/2 |
+| **Improved Bloodrage** | 2/2 |
 
-![La build de nivel 30 del Arms Warrior en nuestra calculadora de talentos](../../../../assets/posts/2026-10-21-wow-forever-arms-warrior-build.jpg)
+### Build para subir de nivel, 35/16/0
 
-Después del nivel 30 llegan Weaponmaster y Mortal Strike al final del árbol.
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/warrior/?t=05323213032215201-05500105). La [build de nivel del Warrior](/es/leveling/warrior/) da el talento de cada nivel.
+
+### Build de PvP, 35/16/0
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/warrior/?t=03303213132215231-55000105).
 
 ## Qué hacen los talentos clave
 
@@ -87,8 +104,8 @@ Después del nivel 30 llegan Weaponmaster y Mortal Strike al final del árbol.
 | **Improved Slam** | Convierte Slam en un relleno casi instantáneo que no reinicia tu golpe |
 | **Impale** | Un 20% más de bonificación al daño crítico para tus habilidades |
 | **Two-Handed Weapon Specialization** | Un 6% más de daño con armas de dos manos a 3/3 |
-| **Mortal Strike** | Uno de tus ataques más fuertes en cualquier situación. Después del nivel 30 |
-| **Weaponmaster** | Una bonificación por tipo de arma. Después del nivel 30 |
+| **Mortal Strike** | Uno de tus ataques más fuertes en cualquier situación |
+| **Weaponmaster** | Una bonificación por tipo de arma |
 
 ## Rotación
 

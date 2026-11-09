@@ -18,8 +18,10 @@ faq:
   - q: "Quelle race choisir pour un Holy Priest ?"
     a: "Gnome ou Human pour l’Alliance, Undead pour la Horde. Undead a Dark Sacrifice pour le mana, alors que Troll n’apporte presque rien à un soigneur."
   - q: "Ce build est-il définitif ?"
-    a: "Non. Il utilise les talents du build bêta du 15 octobre pour le niveau 60. La bêta s’arrêtait au niveau 30, ces talents n’ont donc jamais été testés au niveau 60 et peuvent encore changer."
+    a: "Non."
 sources:
+  - name: "Wowhead, builds de talents"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"
 ---
@@ -28,7 +30,7 @@ Le Holy Priest de WoW Forever est un soigneur avec une réponse à chaque blessu
 | | |
 |---|---|
 | Rôle | Soigneur, au mieux en soins de groupe et de raid |
-| Build pour le niveau 60 | 18/33/0, avec les talents du build bêta du 15 octobre |
+| Build pour le niveau 60 | 18/33/0 |
 | Talents clés | Improved Renew, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
 | Force | Un soigneur de raid très solide avec beaucoup d’outils |
 | Faiblesse | Presque aucune mobilité, hasard dans Prayer of Mending |
@@ -52,9 +54,15 @@ Le Holy Priest de WoW Forever est un soigneur avec une réponse à chaque blessu
 | Bon mana grâce à Meditation et Litany of Light | Moins adapté que Discipline pour garder un seul tank en vie |
 | Fear Ward, Dispel Magic et Abolish Disease pour le groupe | |
 
-## Le build niveau 60 (18/33/0)
+## Les builds pour le niveau 60
 
-Ce build utilise les 51 points du niveau 60. Les 18 points en Discipline paient Twin Disciplines, Mental Strength, Inner Focus, Improved Power Word: Shield, Meditation et Soul Warding. Le reste va en Holy jusqu’à Prayer of Mending. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=00500500133001-03505103030121531).
+Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chaque build s’ouvre dans notre calculateur de talents.
+
+### Build de raid, 18/33/0
+
+18 points en Discipline et 33 en Holy. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/priest/?t=00500500133001-10505103230121531).
+
+Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/priest/?t=025005001330011-0350510303002053).
 
 | Talent | Points |
 |---|---|
@@ -64,27 +72,27 @@ Ce build utilise les 51 points du niveau 60. Les 18 points en Discipline paient 
 | **Improved Power Word: Shield** | 3/3 |
 | **Meditation** | 3/3 |
 | **Soul Warding** | 1/1 |
-| **Improved Renew** | 3/3 |
+| **Twilight Focus** | 1/3 |
 | **Holy Specialization** | 5/5 |
 | **Divine Fury** | 5/5 |
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
+| **Holy Reach** | 2/2 |
 | **Improved Healing** | 3/3 |
 | **Holy Binding** | 1/1 |
-| **Holy Binding** | Chaque Flash Heal sur un autre vous soigne aussi de 50 % de ce montant, sans menace |
 | **Litany of Light** | 2/2 |
 | **Spirit of Redemption** | 1/1 |
 | **Spiritual Guidance** | 5/5 |
 | **Spiritual Healing** | 3/3 |
 | **Prayer of Mending** | 1/1 |
 
-![Le build Holy Priest 18/33/0 dans notre calculateur de talents](../../../../assets/posts/2026-10-21-wow-forever-holy-priest-build.jpg)
+### Build de leveling, 16/0/35
 
-**Points libres.**
+Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/priest/?t=00500520103--50542201201302251). Le [build de leveling du Priest](/fr/leveling/priest/) donne le talent de chaque niveau.
 
-- À court de mana avec beaucoup de Renew ? Déplacez quelques points vers Mental Agility, qui réduit le coût de vos sorts instantanés.
-- Si votre raid manque de dissipations offensives et que c’est à vous de le faire, quelques points dans Holy Precision font moins rater Dispel Magic.
-- Twilight Focus aide contre le recul d’incantation, mais seulement sur les combats où vous prenez des dégâts en incantant.
+### Build PvP, 34/17/0
+
+Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/priest/?t=005305201333011331-3020511302).
 
 ## Ce que font les talents clés
 

@@ -20,6 +20,8 @@ faq:
   - q: "Welches Volk ist das beste für einen Survival Hunter?"
     a: "Skyborne auf beiden Seiten, wegen des Tempobonus. Human für die Allianz und Orc für die Horde sind starke Alternativen. Die Unterschiede sind klein."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/survival-hunter/"
 ---
@@ -48,37 +50,42 @@ Der Survival Hunter in WoW Forever kämpft auf Distanz und im Nahkampf. Du webst
 
 **Die tote Zone.** Zwischen Nahkampfreichweite und 8 Metern kannst du weder Nahkampf noch Fernkampf einsetzen. Auch Survival hat dieses Problem.
 
-## Der Build für Level 60: 5/13/33
+## Builds für Level 60
 
-Die Beta endete auf Level 30, aber die Talentbäume für Level 60 stehen in den Spieldateien. Wir haben diesen Build Punkt für Punkt in [unserem Talentrechner](/de/talents/hunter/?t=5-005005201-530200230050222151) geprüft: 5 Punkte in Beast Mastery, 13 in Marksmanship und 33 in Survival, zusammen 51.
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 16/4/31
+
+16 Punkte in Beast Mastery, 4 in Marksmanship und 31 in Survival. [Raid-Build im Talentrechner öffnen](/de/talents/hunter/?t=51202005001-004-500230230050022151).
 
 | Talent | Punkte |
 |---|---|
-| **Deadly Aspects** (Beast Mastery) | 5/5 |
-| **Lethal Attacks** (Marksmanship) | 5/5 |
-| **Careful Aim** (Marksmanship) | 5/5 |
-| **Rapid Killing** (Marksmanship) | 2/2 |
-| **Lone Wolf** (Marksmanship) | 1/1 |
+| **Deadly Aspects** | 5/5 |
+| **Endurance Training** | 1/5 |
+| **Focused Fire** | 2/2 |
+| **Improved Revive Pet** | 2/2 |
+| **Unleashed Fury** | 5/5 |
+| **Summon Hawk** | 1/1 |
+| **Lethal Attacks** | 4/5 |
 | **Improved Tracking** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19295"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
 | **Savage Strikes** | 2/2 |
+| **Survivalist** | 3/5 |
 | **Clever Traps** | 2/2 |
 | **Surefooted** | 3/3 |
 | **Predator's Edge** | 5/5 |
-| **Resourcefulness** | 2/2 |
 | **Expose Prey** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310496"><img class="wf-wh__icon" src="/wh/ability_hunter_mastertactitian.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Survivalist's Discipline</a>** | 2/2 |
+| **Survivalist's Discipline** | 2/2 |
 | **Strider Kick** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a>** | 5/5 |
+| **Lightning Reflexes** | 5/5 |
 | **Lacerating Strikes** | 1/1 |
 
-![Der Build 5/13/33 des Survival Hunter in unserem Talentrechner](../../../../assets/posts/2026-10-25-wow-forever-survival-hunter-build.jpg)
+### Leveling-Build, 31/20/0
 
-Drei Entscheidungen lassen sich verschieben:
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/hunter/?t=5120221405101241-00503520005). Der [Level-Build für den Hunter](/de/leveling/hunter/) gibt das Talent für jedes Level.
 
-- **Lone Wolf** zu 1 Punkt in **Efficiency** oder **Improved Stings**, wenn du deinen Begleiter behalten willst, zum Beispiel beim Questen.
-- **Rapid Killing** zu 2 Punkten in **Efficiency** oder **Improved Stings**, wenn du Rapid Fire nicht öfter brauchst und günstigere oder stärkere Stings willst.
-- **Deadly Aspects** zu 2 Punkten in **Efficiency** oder **Improved Stings** plus 3 Punkten in **Mortal Shots**.
+### PvP-Build, 16/0/35
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/hunter/?t=50230014001--502203031051222151).
 
 ## Was die wichtigsten Talente tun
 

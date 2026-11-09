@@ -1,7 +1,7 @@
 ---
 title: "Frost Mage guide for WoW Forever"
 metaTitle: "WoW Forever Frost Mage: Ice Lance build, rotation and Shatter"
-description: "The Frost Mage in WoW Forever: Ice Lance and Fingers of Frost, the build for level 30, the rotation, kiting, mana, Shatter, stats, gear, races and professions."
+description: "The Frost Mage in WoW Forever: Ice Lance and Fingers of Frost, the build for level 60, the rotation, kiting, mana, Shatter, stats, gear, races and professions."
 short: "Frost Mage"
 updated: 2026-11-07
 lang: en
@@ -16,9 +16,11 @@ faq:
     a: "Ice Barrier is the last talent of the Frost tree and needs level 40. Until level 40 you rely on freezes, Mana Shield and Blink."
   - q: "Which race is best for a Frost Mage?"
     a: "Orc for the Horde, thanks to 10% spell power from Blood Fury, with Troll and Berserking close behind. For the Alliance, Human with 1% critical strike chance or Skyborne with 2% Haste. Pick the race you like if you do not chase every percent."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/frost/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/frost-mage/"
 ---
@@ -27,7 +29,7 @@ The Frost Mage in WoW Forever slows and freezes its targets, survives better tha
 | | |
 |---|---|
 | Role | Ranged damage with slows, freezes and burst |
-| Build at level 30 | 21 points in Frost, Talented adds Permafrost |
+| Build at level 60 | 18/0/33 |
 | Key talents | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a> |
 | Strength | Burst on Frozen targets, control, survival |
 | Weakness | Depends on procs, mana |
@@ -51,24 +53,42 @@ The Frost Mage in WoW Forever slows and freezes its targets, survives better tha
 | The most survival of the Mage specs | Low health like every Mage |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=604"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dampen Magic</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1008"><img class="wf-wh__icon" src="/wh/spell_holy_flashheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amplify Magic</a>, food, water and portals | Ice Barrier only comes at level 40 |
 
-## The build at level 30
+## Builds for level 60
 
-The build uses 21 points in Frost, the points you have at level 30. [Open the build in the talent calculator](/talents/mage/?t=--0525300001013001).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 18/0/33
+
+18 points in Arcane and 33 in Frost. [Open the raid build in the talent calculator](/talents/mage/?t=2032050030003--053500031100331251).
 
 | Talent | Points |
 |---|---|
+| **Wand Specialization** | 2/2 |
+| **Arcane Resilience** | 3/3 |
+| **Arcane Subtlety** | 2/2 |
+| **Arcane Concentration** | 5/5 |
+| **Arcane Impact** | 3/3 |
+| **Arcane Meditation** | 3/3 |
 | **Improved Frostbolt** | 5/5 |
-| **Precision** | 2/3 |
+| **Precision** | 3/3 |
 | **Ice Shards** | 5/5 |
-| **Frostbite** | 3/3 |
+| **Frost Channeling** | 3/3 |
+| **Improved Blizzard** | 1/3 |
 | **Ice Lance** | 1/1 |
-| **Ice Block** | 1/1 |
 | **Shatter** | 3/3 |
-| **Fingers of Frost** | 1/2 |
+| **Improved Cone of Cold** | 3/3 |
+| **Cold Snap** | 1/1 |
+| **Fingers of Frost** | 2/2 |
+| **Winter's Chill** | 5/5 |
+| **Ice Barrier** | 1/1 |
 
-With 5 points in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> from the Legacy system you have 26 points: Permafrost 2/3, Precision 3/3, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12472"><img class="wf-wh__icon" src="/wh/spell_frost_wizardmark.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cold Snap</a> 1/1 and Fingers of Frost 2/2. [Open the Talented version](/talents/mage/?t=--0535302001013012).
+### Leveling build, 18/0/33
 
-There is no room for both Frostbite and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11175"><img class="wf-wh__icon" src="/wh/spell_frost_wisp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Permafrost</a>, so you choose between random freezes and longer, stronger slows. For less threat and cheaper spells in dungeons, take 1 point in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11160"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Channeling</a> instead of Cold Snap. The [Mage level build](/leveling/mage/) gives the talent for every level from 10 to 35.
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/mage/?t=0502052001003--053530000101331251). The [Mage level build](/leveling/mage/) gives the talent for every level.
+
+### PvP build, 12/0/39
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/mage/?t=2032202001--053532301101331251).
 
 ### What the key talents do
 

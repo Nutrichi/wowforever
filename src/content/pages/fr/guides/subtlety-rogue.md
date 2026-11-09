@@ -1,7 +1,7 @@
 ---
 title: "Subtlety Rogue dans WoW Forever : le guide"
 metaTitle: "WoW Forever Subtlety Rogue : builds Ambush et saignements"
-description: "Le Subtlety Rogue dans WoW Forever : un build Ambush et un build saignements, tous deux avec Death Mark, aux niveaux 30 et 60, avec rotations, Énergie, Shank, poisons et races."
+description: "Le Subtlety Rogue dans WoW Forever : un build Ambush et un build saignements, tous deux avec Death Mark, au niveau 60, avec rotations, Énergie, Shank, poisons et races."
 short: "Subtlety Rogue"
 updated: 2026-11-07
 lang: fr
@@ -20,12 +20,14 @@ faq:
   - q: "Pourquoi Subtlety semble faible à bas niveau ?"
     a: "Ses meilleurs talents sont en bas de l'arbre. Beaucoup de joueurs montent de niveau avec une autre spécialisation et passent à Subtlety plus tard."
 sources:
+  - name: "Wowhead, builds de talents"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/subtlety/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/subtlety-rogue/"
 ---
 > **Mise à jour du 4 novembre :** les builds et talents ci-dessous suivent les nouveaux arbres des notes de développement du 2 novembre, plus de détails dans [notre article](/fr/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-Le Subtlety Rogue de WoW Forever a deux vrais builds PvE. L'un inflige d'énormes Ambush critiques, et Ghostly Strike permet d'utiliser Ambush en combat. L'autre repose sur les saignements, avec Hemorrhage et un Rupture plus fort. Les deux finissent sur Death Mark, un coup de grâce qui stocke vos dégâts et les libère plus tard. Les poisons font maintenant des critiques et évoluent avec la puissance d'attaque. Ce guide couvre les deux builds aux niveaux 30 et 60, les rotations, l'Énergie, les poisons, la survie, les stats et les races.
+Le Subtlety Rogue de WoW Forever a deux vrais builds PvE. L'un inflige d'énormes Ambush critiques, et Ghostly Strike permet d'utiliser Ambush en combat. L'autre repose sur les saignements, avec Hemorrhage et un Rupture plus fort. Les deux finissent sur Death Mark, un coup de grâce qui stocke vos dégâts et les libère plus tard. Les poisons font maintenant des critiques et évoluent avec la puissance d'attaque. Ce guide couvre les deux builds au niveau 60, les rotations, l'Énergie, les poisons, la survie, les stats et les races.
 
 | | |
 |---|---|
@@ -50,26 +52,25 @@ Le Subtlety Rogue de WoW Forever a deux vrais builds PvE. L'un inflige d'énorme
 
 **Demande des niveaux.** Les meilleurs talents sont en bas de l'arbre. Beaucoup de joueurs montent avec une autre spécialisation et passent à Subtlety plus tard.
 
-## Builds niveau 30
+## Les builds pour le niveau 60
 
-Au niveau 30, vous avez 21 points, et Talented en ajoute 5. Les deux builds sont expliqués dans notre [guide de leveling du Rogue](/fr/guides/rogue-leveling/).
+Deux builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons et un pour monter de niveau. Chaque build s’ouvre dans notre calculateur de talents.
 
-- **Ambush :** tue les monstres le plus vite possible avec des Ambush critiques depuis Stealth. [Ouvrir le build](/fr/talents/rogue/?t=02--333003031021), [version Talented](/fr/talents/rogue/?t=025--333003031021).
-- **Saignements :** Garrote, Hemorrhage et Rupture, avec Serrated Blades pour un Rupture plus fort et Preparation pour un Slice and Dice en plus. [Ouvrir le build](/fr/talents/rogue/?t=--3320002313210001), [version Talented](/fr/talents/rogue/?t=002--3322002313210011).
+### Build de raid, 10/10/31
 
-## Build Ambush avec Death Mark niveau 60 : 10/10/31
+10 points en Assassination, 10 en Combat et 31 en Subtlety. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/rogue/?t=025003-302302-335003231321001121).
 
-La bêta s'est arrêtée au niveau 30, mais les arbres de talents du niveau 60 sont dans les fichiers du jeu. Nous avons vérifié ce build point par point dans [notre calculateur de talents](/fr/talents/rogue/?t=025003-302302-335003231321001121). Backstab est votre générateur principal, et Ghostly Strike permet votre prochain Ambush sans Stealth. Serrated Blades ajoute 9 % de pénétration d'armure, Hemorrhage couvre les combats où vous ne pouvez pas vous placer derrière le monstre, et Death Mark tout en bas stocke vos dégâts et les libère après 6 secondes.
+Le build saignement échange les gros Ambush contre Hemorrhage et un Rupture plus fort : [ouvrir le build saignement](/fr/talents/rogue/?t=015303-302003-332210231321001151).
 
 | Talent | Points |
 |---|---|
-| **Remorseless Attacks** (Assassination) | 2/2 |
-| **Malice** (Assassination) | 5/5 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Coup de Grace** (Combat) | 3/3 |
-| **Lightning Reflexes** (Combat) | 2/5 |
-| **Puncturing Wounds** (Combat) | 3/3 |
-| **Precision** (Combat) | 2/3 |
+| **Remorseless Attacks** | 2/2 |
+| **Malice** | 5/5 |
+| **Improved Slice and Dice** | 3/3 |
+| **Coup de Grace** | 3/3 |
+| **Lightning Reflexes** | 2/5 |
+| **Puncturing Wounds** | 3/3 |
+| **Precision** | 2/3 |
 | **Setup** | 3/3 |
 | **Master of Deception** | 3/3 |
 | **Opportunity** | 5/5 |
@@ -85,38 +86,11 @@ La bêta s'est arrêtée au niveau 30, mais les arbres de talents du niveau 60 s
 | **Boot Knife** | 2/5 |
 | **Death Mark** | 1/1 |
 
-![Le build Ambush avec Death Mark du Subtlety Rogue dans notre calculateur de talents](../../../../assets/posts/2026-10-24-wow-forever-subtlety-rogue-build.jpg)
+### Build de leveling
 
-Murder a disparu le 2 novembre, donc les 2 derniers points en Assassination vont dans Remorseless Attacks. Ruthlessness 2/3 est une alternative.
+Le [build de leveling du Rogue](/fr/leveling/rogue/) donne le talent de chaque niveau de 10 à 35. La suite de l’ordre viendra dès qu’elle sera connue.
 
-## Build saignements avec Death Mark niveau 60 : 12/8/31
-
-Jusqu'au bas de l'arbre Subtlety. [Ouvrir le build dans le calculateur de talents](/fr/talents/rogue/?t=015303-302003-332210231321001151). Hemorrhage fait frapper Rupture et Garrote 15 % plus fort, Boot Knife 5/5 transforme chaque Shank en 2 points de combo, et Death Mark stocke les dégâts de Garrote et Rupture deux fois plus vite.
-
-| Talent | Points |
-|---|---|
-| **Remorseless Attacks** (Assassination) | 1/2 |
-| **Malice** (Assassination) | 5/5 |
-| **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Coup de Grace** (Combat) | 3/3 |
-| **Lightning Reflexes** (Combat) | 2/5 |
-| **Precision** (Combat) | 3/3 |
-| **Setup** | 3/3 |
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 2/5 |
-| **Dirty Deeds** | 2/2 |
-| **Camouflage** | 1/3 |
-| **Dirty Tricks** | 2/2 |
-| **Initiative** | 3/3 |
-| **Premeditation** | 1/1 |
-| **Serrated Blades** | 3/3 |
-| **Elusiveness** | 2/2 |
-| **Ghostly Strike** | 1/1 |
-| **Preparation** | 1/1 |
-| **Hemorrhage** | 1/1 |
-| **Boot Knife** | 5/5 |
-| **Death Mark** | 1/1 |
+Aucun build PvP n’est encore connu pour les nouveaux arbres de talents. Cette section sera mise à jour dès qu’il y en aura un.
 
 ## Ce que font les talents clés
 

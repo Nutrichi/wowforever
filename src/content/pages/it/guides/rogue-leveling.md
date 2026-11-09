@@ -1,7 +1,7 @@
 ---
 title: "Livellare un Rogue in WoW Forever: la guida"
-metaTitle: "Leveling del Rogue in WoW Forever: build per ogni spec al 30"
-description: "Come livellare un Rogue in WoW Forever: quattro build di livello 30 per Assassination, Combat e Subtlety, la rotazione, i livelli chiave, le missioni dei veleni e le armi."
+metaTitle: "Leveling del Rogue in WoW Forever: build per ogni spec al 60"
+description: "Come livellare un Rogue in WoW Forever: build di livello 60 per Assassination, Combat e Subtlety, la rotazione, i livelli chiave, le missioni dei veleni e le armi."
 short: "Leveling Rogue"
 updated: 2026-11-07
 lang: it
@@ -19,15 +19,15 @@ faq:
     a: "No. I Rogue usano l'Energy, non il mana, quindi basta il cibo. Il cibo con buff dà esperienza in più in Forever, quindi resta Well Fed."
   - q: "Quali professioni sono adatte a un Rogue?"
     a: "Skinning con Leatherworking è la coppia naturale: uccidi molte bestie, e Forever ha nuove ricette di cuoio come Dark Leather Boots e Brawler's Leather Belt. Cooking conviene a ogni classe, perché il cibo con buff dà esperienza in più e serve per un accampamento."
-  - q: "Esiste già una build per il livello 60?"
-    a: "Non in questa guida: le sue build arrivano al livello 30, dove finiva la beta. La nostra build di leveling del Rogue dà un talento per ogni livello fino al 35."
+  - q: "C'è una build per il livello 60?"
+    a: "La build di leveling del Rogue dà per ora un talento per ogni livello fino al 35. Ogni guida di specializzazione ha le sue build per il livello 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
 > **Aggiornamento del 4 novembre:** le build e i talenti qui sotto seguono i nuovi alberi delle note di sviluppo del 2 novembre, di più nel [nostro articolo](/it/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-Il Rogue non è mai stato la classe più facile da livellare, ma WoW Forever aiuta. I Poisons possono fare critici, i danni su un bersaglio sono più alti e ogni spec ha una sua identità. Al livello 30 scegli tra Assassination, Combat e due stili di Subtlety. Questa guida tratta le quattro build, la rotazione, i livelli chiave, le missioni dei veleni, le armi e le professioni.
+Il Rogue non è mai stato la classe più facile da livellare, ma WoW Forever aiuta. I Poisons possono fare critici, i danni su un bersaglio sono più alti e ogni spec ha una sua identità. Scegli tra Assassination, Combat e due stili di Subtlety. Questa guida tratta le quattro build, la rotazione, i livelli chiave, le missioni dei veleni, le armi e le professioni.
 
 | | |
 |---|---|
@@ -42,9 +42,6 @@ Il Rogue non è mai stato la classe più facile da livellare, ma WoW Forever aiu
 ## Con quale spec livellare
 
 **Combat** è l'inizio più indulgente. Deflection e Riposte ti tengono in vita, e passi da un mostro all'altro senza pause. Grazie a Hack and Slash, Combat può anche usare ogni tipo di arma. **Subtlety con Ambush** apre da Stealth con un enorme colpo critico e uccide in fretta, ma è più debole nei dungeon. **Subtlety con sanguinamenti** punta su Garrote, Hemorrhage e Rupture. **Assassination** diventa forte solo quando arriva Mutilate al livello 40, quindi non è una build per iniziare.
-
-Le build qui sotto sono state fatte sulla beta, che si fermava al livello 30. Ogni build ha una versione con cinque punti in più per Talented del sistema Legacy. Il calcolatore di talenti mostra queste versioni al livello 35, perché conta ogni punto come un livello. Le build per il livello 60 arriveranno quando potremo provarle nel gioco live.
-
 ## Livelli da 1 a 10
 
 Non hai ancora talenti, solo <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1752"><img class="wf-wh__icon" src="/wh/spell_shadow_ritualofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sinister Strike</a> ed <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2098"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eviscerate</a>. Stealth, Backstab ed Evasion arrivano presto.
@@ -59,121 +56,11 @@ Aprire da Stealth su ogni mostro ti rallenta a questi livelli. Tienilo per i mos
 
 Statistiche a questi livelli: Agility, poi Attack Power, Strength, Stamina e armatura.
 
-## Build Assassination di livello 30
+## Build dei talenti
 
-Cresce di forza man mano che Mutilate si avvicina, al livello 40. Ruthlessness dà più Combo Points, e Venom rafforza i tuoi veleni dopo ogni Shank, ma ti manca la sopravvivenza di Combat e il burst di Subtlety. [Apri la build nel calcolatore di talenti](/it/talents/rogue/?t=02530300201401).
+La [build di leveling del Rogue](/it/leveling/rogue/) dà il talento per ogni livello dal 10 al 35. Il resto dell'ordine arriverà appena sarà noto.
 
-| Talento | Punti |
-|---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Malice** | 5/5 |
-| **Ruthlessness** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14165"><img class="wf-wh__icon" src="/wh/ability_rogue_slicedice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Slice and Dice</a>** | 3/3 |
-| **Lethality** | 2/2 |
-| **Cold Blood** | 1/1 |
-| **Improved Poisons** | 4/5 |
-| **Venom** | 1/1 |
-
-Con Talented: Relentless Strikes 3/5 e Opportunity 2/5 in Subtlety. [Apri la versione con Talented](/it/talents/rogue/?t=02530300201431--002).
-
-1. Apri da Stealth con Ambush.
-2. Accumula Combo Points con Sinister Strike, e usa Shank appena è pronto.
-3. Tieni attivo Slice and Dice.
-4. Finisci con Eviscerate.
-5. Usa Expose Armor prima di Eviscerate, e tienilo attivo su un boss.
-6. Interrompi con Kick o Gouge, e fuggi con Vanish.
-7. Contro un mostro pericoloso: Cheap Shot, poi Kidney Shot.
-8. Attacca il mostro successivo prima che Remorseless Attacks finisca.
-
-Statistiche da qui per ogni build: probabilità di colpo critico, poi Agility, Attack Power, Strength, Stamina e armatura.
-
-## Build Combat di livello 30
-
-Difensiva e offensiva insieme: più danni con Eviscerate e con gli attacchi automatici, e Deflection e Riposte contro le pause. Flawless Execution, Aggression e Blade Flurry completano la build. [Apri la build nel calcolatore di talenti](/it/talents/rogue/?t=-3200331210011301).
-
-| Talento | Punti |
-|---|---|
-| **Coup de Grace** | 3/3 |
-| **Efficient Strikes** | 2/2 |
-| **Deflection** | 3/3 |
-| **Precision** | 3/3 |
-| **Improved Sprint** | 1/2 |
-| **Endurance** | 2/2 |
-| **Riposte** | 1/1 |
-| **Flawless Execution** | 1/1 |
-| **Weapon Expertise** | 1/2 |
-| **Aggression** | 3/3 |
-| **Blade Flurry** | 1/1 |
-
-Con Talented: Hack and Slash 5/5. [Apri la versione con Talented](/it/talents/rogue/?t=-32003312100113015).
-
-Muori troppo spesso perché il tuo equipaggiamento è debole? Prendi Lightning Reflexes al posto di Coup de Grace, Improved Sprint e Flawless Execution. Ti affidi così più agli attacchi automatici e ai Poisons che alle mosse finali.
-
-1. Apri da Stealth con Cheap Shot, oppure avvicinati e attacca. Con i pugnali, apri con Ambush.
-2. Usa Blade Flurry all'inizio di ogni combattimento, contro uno o più mostri.
-3. Accumula Combo Points con Sinister Strike.
-4. Tieni attivo Slice and Dice.
-5. Usa Eviscerate con 3-5 Combo Points.
-6. Usa Expose Armor prima di Eviscerate, e tienilo attivo su un boss.
-7. Interrompi con Kick o Gouge, e fuggi con Vanish.
-
-## Build Subtlety Ambush di livello 30
-
-Uccide il più in fretta possibile con Ambush critici. Entri spesso in Stealth e sfrutti ogni Remorseless Attacks. La maggior parte dei mostri è quasi morta dopo l'apertura. Nei dungeon la build è più debole, perché Ambush richiede Stealth. Ghostly Strike ti dà ogni tanto un Ambush in combattimento. [Apri la build nel calcolatore di talenti](/it/talents/rogue/?t=02--333003031021).
-
-| Talento | Punti |
-|---|---|
-| **Remorseless Attacks** (Assassination) | 2/2 |
-| **Setup** | 3/3 |
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 3/5 |
-| **Improved Ambush** | 3/3 |
-| **Initiative** | 3/3 |
-| **Premeditation** | 1/1 |
-| **Elusiveness** | 2/2 |
-| **Ghostly Strike** | 1/1 |
-
-Con Talented: Malice 5/5 in Assassination. [Apri la versione con Talented](/it/talents/rogue/?t=025--333003031021).
-
-1. Apri da Stealth con Ambush.
-2. Accumula Combo Points con Sinister Strike.
-3. Finisci un mostro indebolito con Eviscerate. Contro un mostro con molta vita, usa invece Slice and Dice.
-4. Per uccidere in fretta un bersaglio: Gouge, Vanish e un altro Ambush.
-5. Interrompi con Kick.
-6. Su un boss di dungeon: Slice and Dice ed Expose Armor prima di Eviscerate.
-7. Attacca il mostro successivo prima che Remorseless Attacks finisca.
-
-## Build Subtlety sanguinamenti di livello 30
-
-Punta su Garrote, Hemorrhage e Rupture, e su Serrated Blades, che rende Rupture più forte. [Apri la build nel calcolatore di talenti](/it/talents/rogue/?t=--3320002313210001).
-
-| Talento | Punti |
-|---|---|
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 2/2 |
-| **Setup** | 3/3 |
-| **Elusiveness** | 2/2 |
-| **Dirty Tricks** | 2/2 |
-| **Initiative** | 3/3 |
-| **Ghostly Strike** | 1/1 |
-| **Premeditation** | 1/1 |
-| **Serrated Blades** | 3/3 |
-| **Hemorrhage** | 1/1 |
-
-Con Talented: Dirty Deeds 2/2, Preparation 1/1 e Malice 2/5 in Assassination. [Apri la versione con Talented](/it/talents/rogue/?t=002--3322002313210011).
-
-1. Apri da Stealth con Garrote.
-2. Accumula Combo Points con Hemorrhage.
-3. Tieni attivo Slice and Dice.
-4. Usa Rupture con 3-5 Combo Points su un boss o su un mostro con molta vita.
-5. Finisci un mostro indebolito con Eviscerate.
-6. Su un boss: Vanish e un nuovo Garrote appena il primo finisce.
-7. Interrompi con Kick.
-8. Usa Expose Armor su un boss di dungeon se il tuo gruppo ha più DPS fisici.
-
-Con punti in Talented del sistema Legacy raggiungi ogni talento fino a cinque livelli prima.
-
-![I tre alberi di talenti del Rogue in World of Warcraft: Forever: Assassination, Combat e Subtlety, con 51 punti talento non spesi](../../../../assets/posts/2026-10-08-wow-forever-rogue-talent-trees.jpg)
+Per il livello 60 ogni guida di specializzazione ha le sue build per raid, leveling e PvP: [Assassination](/it/guides/assassination-rogue/), [Combat](/it/guides/combat-rogue/) e [Subtlety](/it/guides/subtlety-rogue/).
 
 ## Livelli chiave
 

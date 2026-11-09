@@ -1,0 +1,374 @@
+---
+/*
+ * De timers links in de tweede balk (Nutri, 9 november 2026): de raidchip en de chip van de
+ * Darkmoon Faire, met één paneel dat beide uitlegt.
+ *
+ * - Raidchip: telt af naar de launch en naar de eerste raids (zoals vroeger), daarna naar de
+ *   volgende reset van de regio. Het paneel toont de raids van de fase met hun spelers en reset.
+ * - DMF-chip: het ticket van de Darkmoon Faire, en de tijd tot ze opengaat, of "Live" met de tijd
+ *   tot ze sluit. Data in config/site.ts (`darkmoonFaire`).
+ * - Regio: EU of US (Nutri: "EU and US, switchable"), standaard EU, onthouden in localStorage
+ *   (`wf-region`). De build rekent in EU; het script zet alles meteen goed voor de bezoeker.
+ *
+ * De tijd in het paneel staat in de tijdzone van de bezoeker (Intl), met de dag erbij.
+ */
+import type { Locale } from '../i18n/ui';
+import { localizePath, useTranslations } from '../i18n/utils';
+import { darkmoonFaire, foreverHubPath, launchDate, raidPhases, raidsDate, regions } from '../config/site';
+
+interface Props { locale: Locale }
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+
+const HOUR = 3_600_000;
+const DAY = 24 * HOUR;
+const split = (ms: number) => {
+  const x = Math.max(0, ms);
+  return { days: Math.floor(x / DAY), hours: Math.floor((x % DAY) / HOUR) };
+};
+const pad = (n: number) => String(n).padStart(2, '0');
+
+/* Dezelfde rekenregels als het script hieronder, voor de eerste weergave (regio EU). */
+const now = Date.now();
+const nextReset = (r: { day: number; hourUtc: number }, at: number) => {
+  const d = new Date(at);
+  let x = Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate(), r.hourUtc);
+  while (new Date(x).getUTCDay() !== r.day || x <= at) x += DAY;
+  return x;
+};
+const dmfWindow = (f: { from: string; to: string }, r: { hourUtc: number }) => {
+  const open = Date.parse(`${f.from}T00:00:00Z`) + r.hourUtc * HOUR;
+  const close = Date.parse(`${f.to}T00:00:00Z`) + DAY + r.hourUtc * HOUR;
+  return { open, close };
+};
+
+const raidsAt = Date.parse(raidsDate);
+const launchAt = Date.parse(launchDate);
+const raidMode = now < launchAt ? 'launch' : now < raidsAt ? 'raids' : 'reset';
+const raidTarget = raidMode === 'launch' ? launchAt : raidMode === 'raids' ? raidsAt : nextReset(regions.eu, now);
+const raid = split(raidTarget - now);
+const raidLabel = { launch: t('countdown.label'), raids: t('countdown.raidsLabel'), reset: t('timers.reset') }[raidMode];
+
+const fair = darkmoonFaire.map((f) => ({ ...f, ...dmfWindow(f, regions.eu) })).find((f) => f.close > now);
+const dmfLive = !!fair && fair.open <= now;
+const dmf = fair ? split((dmfLive ? fair.close : fair.open) - now) : null;
+
+const units = { d: [t('countdown.daysOne'), t('countdown.daysMany')], h: [t('countdown.hoursOne'), t('countdown.hoursMany')] };
+const data = {
+  launchDate, raidsDate, regions, raidPhases, darkmoonFaire, units,
+  text: {
+    launch: t('countdown.label'), launchAria: t('countdown.aria'),
+    raids: t('countdown.raidsLabel'), raidsAria: t('countdown.raidsAria'),
+    reset: t('timers.reset'), resetAria: t('timers.resetAria'),
+    dmfAria: t('timers.dmfAria'), dmfLiveAria: t('timers.dmfLiveAria'),
+    players: t('timers.players'), opens: t('timers.opens'), nextReset: t('timers.nextReset'),
+    dmfOpen: t('timers.dmfOpen'), dmfNext: t('timers.dmfNext'), weekly: t('timers.weekly'),
+  },
+  locale,
+};
+const hubHref = foreverHubPath ? `${localizePath(foreverHubPath, locale)}/` : '';
+const phase = raidPhases[0];
+---
+
+<div class="wf-timers" data-wf-timers data-config={JSON.stringify(data)}>
+  <button type="button" class="wf-chip" data-wf-toggle aria-expanded="false" aria-controls="wf-timers-panel" title={t('timers.open')}>
+    <span class="wf-chip__diamond" aria-hidden="true"></span>
+    <span class="wf-chip__label" aria-hidden="true" data-wf-raid-label>{raidLabel}</span>
+    <span class="wf-chip__value wf-nums" aria-hidden="true">
+      <span data-wf-raid-d>{raid.days}</span>{t('countdown.dayUnit')}<span data-wf-raid-h>{pad(raid.hours)}</span>{t('countdown.hourUnit')}
+    </span>
+    <span class="wf-sr" data-wf-raid-sr></span>
+  </button>
+
+  {fair && (
+    <button type="button" class:list={['wf-chip', 'wf-chip--dmf', { 'is-live': dmfLive }]} data-wf-toggle data-wf-dmf aria-expanded="false" aria-controls="wf-timers-panel" title={t('timers.open')}>
+      <img class="wf-chip__icon" src="/wh/inv_misc_ticket_darkmoon_01.jpg" alt="" width="16" height="16" />
+      <span class="wf-chip__label" aria-hidden="true">{t('timers.dmf')}</span>
+      <span class="wf-chip__live" aria-hidden="true" data-wf-dmf-live hidden={!dmfLive}><span class="wf-chip__dot"></span>{t('timers.live')}</span>
+      <span class="wf-chip__value wf-nums" aria-hidden="true">
+        <span data-wf-dmf-d>{dmf?.days}</span>{t('countdown.dayUnit')}<span data-wf-dmf-h>{pad(dmf?.hours ?? 0)}</span>{t('countdown.hourUnit')}
+      </span>
+      <span class="wf-sr" data-wf-dmf-sr></span>
+    </button>
+  )}
+
+  <div class="wf-timers__panel" id="wf-timers-panel" role="dialog" aria-label={t('timers.open')} hidden data-wf-panel>
+    <div class="wf-timers__head">
+      <span class="wf-timers__region-label">{t('timers.region')}</span>
+      <div class="wf-timers__region" role="group" aria-label={t('timers.region')}>
+        <button type="button" data-wf-region="eu" aria-pressed="true">EU</button>
+        <button type="button" data-wf-region="us" aria-pressed="false">US</button>
+      </div>
+      <button type="button" class="wf-timers__close" data-wf-close aria-label={t('timers.close')}>×</button>
+    </div>
+
+    <h2 class="wf-timers__h">{t('timers.raidsHead').replace('{n}', String(phase.phase))}</h2>
+    <ul class="wf-timers__list">
+      {phase.raids.map((r) => (
+        <li><span class="wf-timers__name">{r.name}</span><span class="wf-timers__meta">{t('timers.players').replace('{n}', String(r.size))}</span></li>
+      ))}
+    </ul>
+    <p class="wf-timers__line" data-wf-raid-line></p>
+
+    {fair && (
+      <>
+        <h2 class="wf-timers__h"><img src="/wh/inv_misc_ticket_darkmoon_01.jpg" alt="" width="16" height="16" />{t('timers.dmfHead')}</h2>
+        <p class="wf-timers__line" data-wf-dmf-line></p>
+        <p class="wf-timers__line wf-timers__muted" data-wf-dmf-next></p>
+      </>
+    )}
+
+    {hubHref && <a class="wf-timers__hub" href={hubHref}>{t('timers.hub')} →</a>}
+  </div>
+</div>
+
+<style>
+  .wf-timers {
+    position: relative;
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .wf-chip {
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    padding: 5px 11px;
+    font: inherit;
+    font-size: 12px;
+    color: var(--wf-muted);
+    background: transparent;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: var(--wf-transition);
+  }
+  .wf-chip:hover, .wf-chip[aria-expanded='true'] { border-color: var(--wf-accent-deep); }
+
+  .wf-chip__diamond {
+    width: 7px;
+    height: 7px;
+    background: var(--wf-accent);
+    transform: rotate(45deg);
+  }
+  .wf-chip__icon { width: 16px; height: 16px; border-radius: 3px; }
+
+  .wf-chip__label {
+    font-family: var(--wf-display);
+    font-weight: 500;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+  .wf-chip__value { color: var(--wf-accent); font-weight: 600; }
+
+  .wf-chip__live {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    color: var(--wf-text);
+  }
+  .wf-chip__live[hidden] { display: none; }
+  .wf-chip__dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--wf-live);
+  }
+
+  .wf-timers__panel {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    z-index: 60;
+    width: 300px;
+    max-width: calc(100vw - 32px);
+    padding: 12px 14px 14px;
+    background: linear-gradient(var(--wf-raised), var(--wf-raised)), var(--wf-bg);
+    border: 1px solid var(--wf-border);
+    border-radius: var(--wf-r-card);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, .45);
+    font-size: 13px;
+    color: var(--wf-text);
+    white-space: normal;
+  }
+  .wf-timers__panel[hidden] { display: none; }
+
+  /* Op een telefoon past de balk op één regel: de DMF-chip toont dan alleen ticket, bolletje en tijd. */
+  @media (max-width: 480px) {
+    .wf-timers { gap: 6px; }
+    .wf-chip { padding: 5px 9px; gap: 6px; }
+    .wf-chip--dmf .wf-chip__label { display: none; }
+    .wf-chip--dmf .wf-chip__live { font-size: 0; gap: 0; }
+  }
+  /* Smalste telefoons: ook het woord bij de raidchip weg; het paneel legt het uit. */
+  @media (max-width: 420px) {
+    .wf-chip[data-wf-toggle]:not(.wf-chip--dmf) .wf-chip__label { display: none; }
+  }
+
+  .wf-timers__head { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+  .wf-timers__region-label { color: var(--wf-muted); font-size: 12px; }
+  .wf-timers__region { display: inline-flex; border: 1px solid var(--wf-border); border-radius: var(--wf-r-pill); overflow: hidden; }
+  .wf-timers__region button {
+    font: inherit;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .06em;
+    padding: 3px 10px;
+    border: 0;
+    background: transparent;
+    color: var(--wf-muted);
+    cursor: pointer;
+  }
+  .wf-timers__region button[aria-pressed='true'] { background: var(--wf-accent); color: var(--wf-button-ink); }
+  .wf-timers__close {
+    margin-left: auto;
+    font-size: 18px;
+    line-height: 1;
+    border: 0;
+    background: transparent;
+    color: var(--wf-muted);
+    cursor: pointer;
+  }
+
+  .wf-timers__h {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 12px 0 6px;
+    font-family: var(--wf-display);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--wf-accent);
+  }
+  .wf-timers__h img { border-radius: 3px; }
+  .wf-timers__list { list-style: none; margin: 0; padding: 0; }
+  .wf-timers__list li {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 4px 0;
+    border-bottom: 1px solid var(--wf-border);
+  }
+  .wf-timers__meta { color: var(--wf-muted); }
+  .wf-timers__line { margin: 6px 0 0; }
+  .wf-timers__muted { color: var(--wf-muted); }
+  .wf-timers__hub { display: inline-block; margin-top: 12px; color: var(--wf-accent); font-size: 12px; }
+</style>
+
+<script>
+  type Reg = { day: number; hourUtc: number };
+  type Fair = { from: string; to: string; where: string };
+  const root = document.querySelector<HTMLElement>('[data-wf-timers]');
+
+  if (root) {
+    const C = JSON.parse(root.dataset.config ?? '{}');
+    const HOUR = 3_600_000;
+    const DAY = 24 * HOUR;
+    const pad = (n: number) => String(n).padStart(2, '0');
+    const $ = <T extends HTMLElement>(s: string) => root.querySelector<T>(s);
+    const panel = $('[data-wf-panel]');
+    const toggles = [...root.querySelectorAll<HTMLButtonElement>('[data-wf-toggle]')];
+
+    let region: 'eu' | 'us' = 'eu';
+    try { if (localStorage.getItem('wf-region') === 'us') region = 'us'; } catch (e) { /* geen opslag */ }
+
+    const split = (ms: number) => {
+      const x = Math.max(0, ms);
+      return { d: Math.floor(x / DAY), h: Math.floor((x % DAY) / HOUR) };
+    };
+    const say = (pattern: string, d: number, h: number, where = '') => pattern
+      .replace('{d}', String(d)).replace('{h}', String(h))
+      .replace('{du}', d === 1 ? C.units.d[0] : C.units.d[1])
+      .replace('{hu}', h === 1 ? C.units.h[0] : C.units.h[1])
+      .replace('{where}', where);
+    const nextReset = (r: Reg, at: number) => {
+      const d = new Date(at);
+      let x = Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate(), r.hourUtc);
+      while (new Date(x).getUTCDay() !== r.day || x <= at) x += DAY;
+      return x;
+    };
+    const win = (f: Fair, r: Reg) => ({
+      ...f,
+      open: Date.parse(`${f.from}T00:00:00Z`) + r.hourUtc * HOUR,
+      close: Date.parse(`${f.to}T00:00:00Z`) + DAY + r.hourUtc * HOUR,
+    });
+    const when = (ms: number) => new Intl.DateTimeFormat(C.locale, {
+      weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit', hourCycle: 'h23',
+    }).format(new Date(ms));
+    const day = (ms: number) => new Intl.DateTimeFormat(C.locale, { day: 'numeric', month: 'long' }).format(new Date(ms));
+    const sep = C.locale === 'fr' ? ' : ' : ': ';  // Frans: spatie voor de dubbele punt
+    const set = (sel: string, text: string) => { const el = $(sel); if (el) el.textContent = text; };
+
+    const tick = () => {
+      const now = Date.now();
+      const r: Reg = C.regions[region];
+      const launch = Date.parse(C.launchDate);
+      const raids = Date.parse(C.raidsDate);
+
+      // raidchip
+      const mode = now < launch ? 'launch' : now < raids ? 'raids' : 'reset';
+      const target = mode === 'launch' ? launch : mode === 'raids' ? raids : nextReset(r, now);
+      const a = split(target - now);
+      set('[data-wf-raid-label]', C.text[mode]);
+      set('[data-wf-raid-d]', String(a.d));
+      set('[data-wf-raid-h]', pad(a.h));
+      set('[data-wf-raid-sr]', say(C.text[mode + 'Aria'], a.d, a.h));
+      set('[data-wf-raid-line]', mode === 'reset'
+        ? `${C.text.nextReset}${sep}${when(target)}`
+        : `${C.text.opens}${sep}${when(raids)}`);
+
+      // Darkmoon Faire
+      const dmfBtn = $('[data-wf-dmf]');
+      const fairs = (C.darkmoonFaire as Fair[]).map((f) => win(f, r)).filter((f) => f.close > now);
+      const f = fairs[0];
+      if (dmfBtn) dmfBtn.hidden = !f;
+      if (f) {
+        const live = f.open <= now;
+        const b = split((live ? f.close : f.open) - now);
+        dmfBtn?.classList.toggle('is-live', live);
+        const liveEl = $('[data-wf-dmf-live]');
+        if (liveEl) liveEl.hidden = !live;
+        set('[data-wf-dmf-d]', String(b.d));
+        set('[data-wf-dmf-h]', pad(b.h));
+        set('[data-wf-dmf-sr]', say(live ? C.text.dmfLiveAria : C.text.dmfAria, b.d, b.h, f.where));
+        set('[data-wf-dmf-line]', live
+          ? `${f.where}. ${C.text.dmfOpen} ${when(f.close)}`
+          : `${f.where}. ${C.text.opens}${sep}${when(f.open)}`);
+        const n = fairs[1];
+        set('[data-wf-dmf-next]', n ? `${C.text.dmfNext}${sep}${n.where}, ${day(n.open)}` : '');
+      }
+    };
+
+    const showRegion = () => root.querySelectorAll<HTMLButtonElement>('[data-wf-region]').forEach((b) =>
+      b.setAttribute('aria-pressed', String(b.dataset.wfRegion === region)));
+    root.querySelectorAll<HTMLButtonElement>('[data-wf-region]').forEach((b) => b.addEventListener('click', () => {
+      region = b.dataset.wfRegion === 'us' ? 'us' : 'eu';
+      try { localStorage.setItem('wf-region', region); } catch (e) { /* geen opslag */ }
+      showRegion();
+      tick();
+    }));
+
+    const open = (on: boolean) => {
+      if (!panel) return;
+      panel.hidden = !on;
+      toggles.forEach((b) => b.setAttribute('aria-expanded', String(on)));
+    };
+    toggles.forEach((b) => b.addEventListener('click', (e) => { e.stopPropagation(); open(panel?.hidden ?? false); }));
+    $('[data-wf-close]')?.addEventListener('click', () => open(false));
+    document.addEventListener('click', (e) => { if (panel && !panel.hidden && !root.contains(e.target as Node)) open(false); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') open(false); });
+
+    showRegion();
+    tick();
+    window.setInterval(tick, 30_000);
+  }
+</script>

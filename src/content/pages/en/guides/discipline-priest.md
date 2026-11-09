@@ -17,8 +17,10 @@ faq:
   - q: "Can Discipline deal damage?"
     a: "Smite builds are possible with talents such as Power in Light and Penance, but Smite still has its problems. This guide sticks to healing."
   - q: "Is this build final?"
-    a: "No. It uses the talents of the beta build of 15 October for level 60. The beta stopped at level 30, so these talents were never tested at level 60 and can still change."
+    a: "No."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/discipline/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/discipline-priest/"
 ---
@@ -27,7 +29,7 @@ The Discipline Priest in WoW Forever shields and heals, with Penance as a new bu
 | | |
 |---|---|
 | Role | Healer, best at tank healing, with Power Infusion for the raid |
-| Build for level 60 | 31/20/0, with the talents of the beta build of 15 October |
+| Build for level 60 | 31/20/0 |
 | Key talents | Meditation, Soul Warding, Penance, Renewed Hope, Divine Aegis, Power Infusion, Inspiration |
 | Strength | Very strong tank healing, many tools, Power Infusion |
 | Weakness | Almost no movement, less effective at healing the whole group |
@@ -53,9 +55,15 @@ The Discipline Priest in WoW Forever shields and heals, with Penance as a new bu
 | Power Infusion, one of the strongest buffs in the game | Smite damage builds still have their problems |
 | Fear Ward, Dispel Magic and Abolish Disease | |
 
-## The level 60 build (31/20/0)
+## Builds for level 60
 
-This build uses all 51 points of level 60: 31 in Discipline up to Power Infusion and 20 in Holy for Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing. [Open the build in the talent calculator](/talents/priest/?t=005005031330011531-035050030301).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 31/20/0
+
+31 points in Discipline and 20 in Holy. [Open the raid build in the talent calculator](/talents/priest/?t=005005031330011531-0350501303).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/priest/?t=025015021330011531-0150510303).
 
 | Talent | Points |
 |---|---|
@@ -73,16 +81,17 @@ This build uses all 51 points of level 60: 31 in Discipline up to Power Infusion
 | **Improved Renew** | 3/3 |
 | **Holy Specialization** | 5/5 |
 | **Divine Fury** | 5/5 |
+| **Blessed Recovery** | 1/3 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Holy Binding** | 1/1 |
 
-![The 31/20/0 Discipline Priest build in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-discipline-priest-build.jpg)
+### Leveling build, 16/0/35
 
-**Free points.**
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/priest/?t=00500520103--50542201201302251). The [Priest level build](/leveling/priest/) gives the talent for every level.
 
-- If your raid lacks offensive dispels and you have to do it, a few points in Holy Precision make Dispel Magic miss less.
-- Twilight Focus helps against pushback, but only on fights where you take damage while casting.
+### PvP build, 29/17/5
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/priest/?t=0053002013332115-320501320001-05).
 
 ## What the key talents do
 

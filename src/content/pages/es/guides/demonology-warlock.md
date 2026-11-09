@@ -1,7 +1,7 @@
 ---
 title: "Guía del Demonology Warlock en WoW Forever"
-metaTitle: "WoW Forever Demonology Warlock: build de nivel 30, Demonic Brand y demonios"
-description: "El Demonology Warlock en WoW Forever: la build de nivel 30 con Demonic Brand, Demonic Knowledge y Soul Link, la rotación, la amenaza, los demonios, Life Tap, los stats y las razas."
+metaTitle: "WoW Forever Demonology Warlock: build de nivel 60, Demonic Brand y demonios"
+description: "El Demonology Warlock en WoW Forever: la build de nivel 60 con Demonic Brand, Demonic Knowledge y Soul Link, la rotación, la amenaza, los demonios, Life Tap, los stats y las razas."
 short: "Demonology Warlock"
 updated: 2026-11-07
 lang: es
@@ -10,16 +10,18 @@ faq:
   - q: "¿Puede tanquear la Succubus en WoW Forever?"
     a: "Sí, con Demonic Brand. Searing Pain marca al objetivo, y los siguientes ataques de tu demonio contra él hacen daño y amenaza extra. Con 3/3 la Succubus aguanta la amenaza casi todo el combate."
   - q: "¿Los demonios escalan con el equipo en WoW Forever?"
-    a: "Sí. Tus demonios ahora escalan con tu equipo, y Demonic Knowledge os da a ti y a tu demonio poder con hechizos igual a tu nivel con 3/3. Son 30 de poder con hechizos para cada uno a nivel 30."
+    a: "Sí. Tus demonios ahora escalan con tu equipo, y Demonic Knowledge os da a ti y a tu demonio poder con hechizos igual a tu nivel con 3/3."
   - q: "¿Debo usar Demonic Sacrifice?"
     a: "No. Es un requisito de 1 punto para Soul Link. Si sacrificas a tu demonio pierdes tu tanque y la mayor parte de tu daño."
   - q: "¿Cuándo empiezo a lanzar Searing Pain?"
     a: "Solo cuando tengas Demonic Brand, a nivel 25. Sin él, Searing Pain genera mucha amenaza y le quita el enemigo a tu demonio."
   - q: "¿Qué raza es la mejor para un Demonology Warlock?"
     a: "Human en la Alianza, por un 1 % más de probabilidad de crítico con Ruthless. Undead en la Horda, por Touch of the Grave, Cannibalize y Will of the Forsaken. Las diferencias son pequeñas, así que elige la raza que te guste."
-  - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/warlock/demonology/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/demonology-warlock/"
 ---
@@ -28,7 +30,7 @@ El Demonology Warlock en WoW Forever deja que su demonio haga el trabajo. Marcas
 | | |
 |---|---|
 | Rol | Daño a través de tu demonio, la spec de Warlock más segura en solitario |
-| Build a nivel 30 | 24 puntos en Demonology y 2 en Destruction, con los 5 puntos extra de Talented |
+| Build a nivel 60 | 2/31/18 |
 | Talentos clave | Unholy Power, Demonic Energies, Demonic Brand, Demonic Knowledge, Soul Link |
 | Fuerte en | Tu demonio tanquea, mucho daño de la mascota, utilidad para el grupo |
 | Débil en | Todo depende de tu demonio, la marca pide mantenimiento constante |
@@ -52,27 +54,42 @@ El Demonology Warlock en WoW Forever deja que su demonio haga el trabajo. Marcas
 | Tu demonio hace la mayor parte del daño mientras tú lanzas DoTs y Searing Pain | La marca caduca cada 6 segundos más o menos y Searing Pain tarda 1,5 segundos en lanzarse |
 | Soulstone, Healthstones, invocaciones y una Succubus que seduce a un enemigo extra | Un objetivo a la vez, tu demonio no tiene daño en área |
 
-## La build de nivel 30
+## Builds para nivel 60
 
-Esta build usa 26 puntos: los 21 puntos del nivel 30 más 5 de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> en el sistema Legacy. Veinte puntos en Demonology abren Demonic Knowledge y Soul Link. Los 2 últimos puntos son libres: <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17917"><img class="wf-wh__icon" src="/wh/spell_shadow_corpseexplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Destructive Reach</a> para un 20 % más de alcance en tus hechizos de Destruction como Searing Pain, Improved Corruption para una Corruption más rápida, o Improved Life Tap para más maná. [Abrir la build en la calculadora de talentos](/es/talents/warlock/?t=-00350032012013013-2).
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+### Build de banda, 2/31/18
+
+2 puntos en Affliction, 31 en Demonology y 18 en Destruction. [Abre la build de banda en la calculadora de talentos](/es/talents/warlock/?t=011-0305003201220301351-0050055003).
 
 | Talento | Puntos |
 |---|---|
-| **Demonic Embrace** | 3/5 |
+| **Suppression** | 1/5 |
+| **Improved Corruption** | 1/5 |
+| **Improved Imp** | 3/3 |
 | **Unholy Power** | 5/5 |
 | **Fel Vitality** | 3/3 |
 | **Demonic Energies** | 2/2 |
 | **Demonic Sacrifice** | 1/1 |
 | **Master Summoner** | 2/2 |
-| **Fel Domination** | 1/1 |
+| **Decimation** | 2/2 |
 | **Demonic Brand** | 3/3 |
 | **Soul Link** | 1/1 |
 | **Demonic Knowledge** | 3/3 |
-| **Destructive Reach** | 2/2 |
+| **Master Demonologist** | 5/5 |
+| **Demonic Pact** | 1/1 |
+| **Bane** | 5/5 |
+| **Aftermath** | 5/5 |
+| **Ruin** | 5/5 |
+| **Agonizing Flames** | 3/3 |
 
-![La build de nivel 30 del Demonology Warlock en nuestra calculadora de talentos](../../../../assets/posts/2026-10-21-wow-forever-demonology-warlock-build.jpg)
+### Build para subir de nivel, 41/10/0
 
-Después del nivel 30 llegan Master Demonologist y Demonic Pact al final del árbol.
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/warlock/?t=2552032303520135-00050032). La [build de nivel del Warlock](/es/leveling/warlock/) da el talento de cada nivel.
+
+### Build de PvP, 20/31/0
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/warlock/?t=0052030313021-0050233201201131151).
 
 ## Qué hacen los talentos clave
 
@@ -110,7 +127,7 @@ Searing Pain no tiene tiempo de vuelo, y el rango 2 llega a nivel 26. No lo lanc
 ## Demonios
 
 - **Succubus o Incubus** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=712"><img class="wf-wh__icon" src="/wh/spell_shadow_summonsuccubus.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Succubus</a>): el que más daño hace de todos los demonios, y con Demonic Brand aguanta la amenaza casi todo el combate. Tu demonio por defecto en solitario. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6358"><img class="wf-wh__icon" src="/wh/spell_shadow_mindsteal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seduction</a> saca a un humanoide del combate en mazmorras.
-- **Voidwalker** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=697"><img class="wf-wh__icon" src="/wh/spell_shadow_summonvoidwalker.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Voidwalker</a>): tu tanque de reserva para enemigos que pegan demasiado fuerte. Torment aguanta la amenaza mucho mejor que en Classic, y el rango 3 a nivel 30 arregla los problemas de amenaza del final de los 20.
+- **Voidwalker** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=697"><img class="wf-wh__icon" src="/wh/spell_shadow_summonvoidwalker.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Voidwalker</a>): tu tanque de reserva para enemigos que pegan demasiado fuerte. Torment aguanta la amenaza mucho mejor que en Classic, y el rango 3 a nivel 60 arregla los problemas de amenaza del final de los 20.
 - **Felhunter** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=691"><img class="wf-wh__icon" src="/wh/spell_shadow_summonfelhunter.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Felhunter</a>): casi el daño de la Succubus, y <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19505"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Devour Magic</a> quita efectos mágicos. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19244"><img class="wf-wh__icon" src="/wh/spell_shadow_mindrot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spell Lock</a> no llega hasta el nivel 36.
 - **Imp** (<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=688"><img class="wf-wh__icon" src="/wh/spell_shadow_summonimp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Summon Imp</a>): poco daño, pero <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6307"><img class="wf-wh__icon" src="/wh/spell_shadow_bloodboil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Pact</a> da Aguante al grupo.
 
@@ -125,7 +142,7 @@ Pon Attack y Follow en teclas que pulses sin pensar, para mandar o retirar a tu 
 
 ## Stats y equipo
 
-**Poder con hechizos, daño de Sombras y daño de Fuego** primero, luego **Aguante y Espíritu**, luego **Intelecto**. El poder con hechizos también hace más fuerte a tu demonio. El daño de Sombras ayuda a Corruption y Bane of Agony, el de Fuego a Searing Pain. El Aguante da más salud para Life Tap, el Espíritu más maná por Life Tap. El índice de golpe y el crítico son raros en el equipo a nivel 30, y esta build no tiene Suppression, así que fallas contra enemigos de tu nivel un 4 % de las veces.
+**Poder con hechizos, daño de Sombras y daño de Fuego** primero, luego **Aguante y Espíritu**, luego **Intelecto**. El poder con hechizos también hace más fuerte a tu demonio. El daño de Sombras ayuda a Corruption y Bane of Agony, el de Fuego a Searing Pain. El Aguante da más salud para Life Tap, el Espíritu más maná por Life Tap. El índice de golpe y el crítico son raros en el equipo a nivel 60, y esta build no tiene Suppression, así que fallas contra enemigos de tu nivel un 4 % de las veces.
 
 - **Tailoring** tiene nuevas piezas de Sombras ligadas como <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253967"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gown</a> y <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_27.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gloves</a>, y piezas de Llama que refuerzan Searing Pain. Solo el sastre que las fabrica puede llevarlas.
 - **Armas.** Tu arma es un palo de stats, su poder con hechizos cuenta más que su daño. La misión de Warlock del Orb of Soran'ruk te deja elegir entre <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> y <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2549"><img class="wf-wh__icon" src="/wh/inv_staff_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of the Shade</a> de Razorfen Kraul tiene más daño de Sombras, pero no hace nada por Searing Pain.

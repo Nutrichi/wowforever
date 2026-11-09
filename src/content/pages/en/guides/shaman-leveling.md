@@ -1,7 +1,7 @@
 ---
 title: "Shaman leveling guide for WoW Forever"
 metaTitle: "WoW Forever Shaman leveling: Enhancement, Elemental and Resto"
-description: "How to level a Shaman in WoW Forever: the early rotation, level 30 builds for Enhancement, Elemental and Restoration, key levels, the totem quests, Call of Air weapons, zones and totems."
+description: "How to level a Shaman in WoW Forever: the early rotation, level 60 builds for Enhancement, Elemental and Restoration, key levels, the totem quests, Call of Air weapons, zones and totems."
 short: "Shaman leveling"
 updated: 2026-11-07
 lang: en
@@ -18,15 +18,15 @@ faq:
     a: "The Call of Air quest chain gives a weapon for your spec: Rage of the Storm for Enhancement, Lightning's Grasp for Elemental or Tidebringer's Claw for Restoration. Casters can add Elementalist's Guard from the same quest."
   - q: "When does a Shaman get Dual Spec?"
     a: "At level 40, from your class trainer. That is the moment to add a healing spec next to Enhancement or Elemental."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. The Shaman level build gives a talent for every level to 60, and every spec guide has builds for raids, leveling and PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
 > **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/).
 
-The Shaman in WoW Forever is a welcome sight in every group: strong totem buffs, an instant Ghost Wolf with Improved Ghost Wolf, and three specs that each work. You can be a melee spellblade, a caster who throws lightning and fire, or a healer. This guide covers the early rotation, a level 30 build for each spec, the key levels, the totem quests, the Call of Air weapons, zones, gear, totems and mana.
+The Shaman in WoW Forever is a welcome sight in every group: strong totem buffs, an instant Ghost Wolf with Improved Ghost Wolf, and three specs that each work. You can be a melee spellblade, a caster who throws lightning and fire, or a healer. This guide covers the early rotation, the talent builds, the key levels, the totem quests, the Call of Air weapons, zones, gear, totems and mana.
 
 | | |
 |---|---|
@@ -58,85 +58,11 @@ You fight with Lightning Bolt at range and Rockbiter Weapon for your melee swing
 
 Stoneclaw Totem and Earthbind Totem help when a pull goes wrong. Stats early on: spell damage, then Strength, then Intellect, then Stamina and Spirit, then armor.
 
-## Level 30 Enhancement build
+## Talent builds
 
-The strongest leveling build, and it scales into the endgame. Totem twisting is gone, which makes the rotation simpler. [Open the build in the talent calculator](/talents/shaman/?t=-052031310051).
+The [Shaman level build](/leveling/shaman/) gives the talent for every level from 10 to 60. [Open the end result in the talent calculator](/talents/shaman/?t=45300310201-053030310051012251).
 
-| Talent | Points |
-|---|---|
-| **Thundering Strikes** | 5/5 |
-| **Ancestral Knowledge** | 2/5 |
-| **Mental Dexterity** | 3/3 |
-| **Improved Lightning Shield** | 1/3 |
-| **Elemental Weapons** | 3/3 |
-| **Shamanistic Focus** | 1/1 |
-| **Flurry** | 5/5 |
-| **Stormstrike** | 1/1 |
-
-[Open the Talented version](/talents/shaman/?t=-05203131005100221) with Mental Quickness 2/2, Improved Stormstrike 2/2 and Maelstrom Weapon 1/5.
-
-![The Talented Enhancement Shaman build in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
-
-Mental Dexterity turns your Intellect into attack power, and Mental Quickness turns it into spell damage, so Intellect is worth more than you would expect. Improved Ghost Wolf, which makes Ghost Wolf instant and usable indoors, sits in the fourth row since 2 November and does not fit in this build.
-
-1. Keep Lightning Shield and Windfury Weapon up.
-2. Keep Searing Totem and Strength of Earth Totem down in combat.
-3. Pull with Lightning Bolt.
-4. Keep Flame Shock on the target, and renew it only when it is about to run out.
-5. Cast Stormstrike on cooldown.
-6. Use Earth Shock as filler.
-7. Spend Maelstrom Weapon at 5 stacks on an instant Lightning Bolt. With more points in Maelstrom Weapon, this moves up.
-
-Stats: hit, then Strength, then Intellect, then critical strike chance, then spell damage, then Agility.
-
-## Level 30 Elemental build
-
-For a pure caster at range. [Open the build in the talent calculator](/talents/shaman/?t=3500331023001).
-
-| Talent | Points |
-|---|---|
-| **Convection** | 3/5 |
-| **Concussion** | 5/5 |
-| **Elemental Alacrity** | 3/3 |
-| **Call of Flame** | 3/3 |
-| **Elemental Focus** | 1/1 |
-| **Trial by Fire** | 2/2 |
-| **Eye of the Storm** | 3/3 |
-| **Call of Thunder** | 1/1 |
-
-[Open the Talented version](/talents/shaman/?t=350033102301131) with Elemental Reach 1/2, Lightning Overload 3/3 and Elemental Fury 1/5.
-
-![The Talented Elemental Shaman build in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-elemental-build.jpg)
-
-1. Keep Lightning Shield up.
-2. Keep Searing Totem down for one target, Magma Totem for several, and Mana Spring Totem if you stay in one place long enough.
-3. Pull with Lightning Bolt.
-4. Cast Flame Shock.
-5. Keep Flame Shock on the target.
-6. Fill with Lightning Bolt.
-
-Stats: spell damage and Intellect, then critical strike chance, then Stamina and Spirit, then armor.
-
-## Level 30 Restoration build
-
-Not recommended for solo leveling, but it works in a group. [Open the build in the talent calculator](/talents/shaman/?t=--53300030140101).
-
-| Talent | Points |
-|---|---|
-| **Improved Healing Wave** | 5/5 |
-| **Tidal Focus** | 3/5 |
-| **Mindfulness** | 3/3 |
-| **Ancestral Healing** | 3/3 |
-| **Water Shield** | 1/1 |
-| **Tidal Mastery** | 4/5 |
-| **Mana Tide Totem** | 1/1 |
-| **Nature's Swiftness** | 1/1 |
-
-[Open the Talented version](/talents/shaman/?t=--53300030154101) with Tidal Mastery 5/5 and Restorative Totems 4/5.
-
-![The Talented Restoration Shaman build in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-restoration-build.jpg)
-
-Healing: keep Water Shield up, keep Healing Stream Totem or Mana Spring Totem down depending on whether you need healing or mana, cast Healing Wave as your normal heal and Lesser Healing Wave when it has to be fast. Dealing damage: Water Shield, Searing Totem and Flame Shock, then Lightning Bolt.
+For level 60, every spec guide has its own builds for raids, leveling and PvP: [Elemental](/guides/elemental-shaman/), [Enhancement](/guides/enhancement-shaman/) and [Restoration](/guides/restoration-shaman/).
 
 ## Key levels
 

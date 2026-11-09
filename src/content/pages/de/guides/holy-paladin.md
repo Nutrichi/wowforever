@@ -1,7 +1,7 @@
 ---
 title: "Holy Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Holy Paladin: Heilbuild, Zauber und Mana"
-description: "Der Holy Paladin in WoW Forever: der Heilbuild für Level 30 und die Talented-Version, Holy Shock und Light's Vigil, die Heilpriorität, Mana, Siegel, Werte und Völker."
+description: "Der Holy Paladin in WoW Forever: der Heilbuild für Level 60, Holy Shock und Light's Vigil, die Heilpriorität, Mana, Siegel, Werte und Völker."
 short: "Holy Paladin"
 updated: 2026-11-07
 lang: de
@@ -19,18 +19,20 @@ faq:
     a: "Zuerst Heilkraft und Zaubermacht, dann Intelligenz für Mana und kritische Treffer, dann kritische Trefferchance für größere Heilungen und Illumination. Mit Reverence regeneriert Willenskraft Mana, während du wirkst, also zählt auch Willenskraft."
   - q: "Welches Volk ist für einen Holy Paladin am besten?"
     a: "Human für die Alliance, wegen der zusätzlichen kritischen Trefferchance. Dwarf hat Stoneform als defensive Abklingzeit. Paladins der Horde sind immer Undead."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
 ---
-Der Holy Paladin in WoW Forever ist der einfachste Heiler im Spiel. Du wirkst Heilungen mit Zauberzeit, heilst für große Zahlen und lebst von kritischen Treffern, die dir über Illumination Mana zurückgeben. Keine Heilung über Zeit, keine Schilde: Du heilst, was verletzt ist. Dieser Guide behandelt den Build für Level 30, Holy Shock und Light's Vigil, die Heilpriorität, Mana, Siegel, Werte und Völker.
+Der Holy Paladin in WoW Forever ist der einfachste Heiler im Spiel. Du wirkst Heilungen mit Zauberzeit, heilst für große Zahlen und lebst von kritischen Treffern, die dir über Illumination Mana zurückgeben. Keine Heilung über Zeit, keine Schilde: Du heilst, was verletzt ist. Dieser Guide behandelt den Build für Level 60, Holy Shock und Light's Vigil, die Heilpriorität, Mana, Siegel, Werte und Völker.
 
 | | |
 |---|---|
 | Rolle | Heiler, vor allem auf ein Ziel |
-| Build auf Level 30 | 21 Punkte in Holy, Talented fügt Purifying Power, Boundless Light und Holy Power hinzu |
+| Build auf Level 60 | 31/7/13 |
 | Wichtigste Talente | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Stärken | Große Heilungen, Nutzen für die Gruppe, sehr schwer zu töten |
 | Schwächen | Vor allem reaktiv, nur eine Gruppenheilung |
@@ -46,26 +48,45 @@ Der Holy Paladin in WoW Forever ist der einfachste Heiler im Spiel. Du wirkst He
 
 **Eine Gruppenheilung.** Light's Vigil ist dein einziger Weg, die ganze Gruppe zu heilen, und er ist teuer.
 
-## Der Build für Level 30
+## Builds für Level 60
 
-Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem Legacy-System gibt 5 dazu. [Öffne den Build im Talentrechner](/de/talents/paladin/?t=50320015022001).
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 31/7/13
+
+31 Punkte in Holy, 7 in Protection und 13 in Retribution. [Raid-Build im Talentrechner öffnen](/de/talents/paladin/?t=50320115022101251-50002-050330002).
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/paladin/?t=50320015222121251-5-052300002).
 
 | Talent | Punkte |
 |---|---|
 | **Spiritual Focus** | 5/5 |
 | **Healing Light** | 3/3 |
 | **Reverence** | 2/2 |
+| **Purifying Power** | 1/2 |
 | **Divine Favor** | 1/1 |
 | **Illumination** | 5/5 |
 | **Divine Precision** | 2/2 |
 | **Infusion of Light** | 2/2 |
+| **Oath of Light** | 1/1 |
 | **Holy Shock** | 1/1 |
+| **Boundless Light** | 2/2 |
+| **Holy Power** | 5/5 |
+| **Light's Vigil** | 1/1 |
+| **Divine Intellect** | 5/5 |
+| **Sacred Duty** | 2/2 |
+| **Benediction** | 5/5 |
+| **Conviction** | 3/3 |
+| **Sanctified Judgement** | 3/3 |
+| **Pursuit of Justice** | 2/2 |
 
-[Öffne die Talented-Version](/de/talents/paladin/?t=5032021502200121) mit Purifying Power 2/2, Boundless Light 2/2 und Holy Power 1/5.
+### Leveling-Build, 0/31/20
 
-![Der Talented-Build des Holy Paladin in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/paladin/?t=-55300102113001531-05233301201). Der [Level-Build für den Paladin](/de/leveling/paladin/) gibt das Talent für jedes Level.
 
-Holy Shock liegt in der fünften Reihe und braucht 20 Punkte darüber. Mit 21 Punkten ist also genau Platz für die acht Talente oben. Die Talented-Version ist der volle Build mit 26 Punkten.
+### PvP-Build, 32/7/12
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/paladin/?t=50320215022101251-5002-052300002).
 
 ## Was die wichtigsten Talente tun
 
@@ -83,7 +104,7 @@ Holy Shock liegt in der fünften Reihe und braucht 20 Punkte darüber. Mit 21 Pu
 | **Holy Power** | 15 % mehr kritische Trefferchance für Holy Shock und Holy Strike, 5 % für alle anderen Zauber |
 | **Light's Vigil** | Dein nächster Holy Shock auf das Ziel hat keine Abklingzeit und heilt seine ganze Gruppe |
 
-Light's Vigil liegt in der siebten Reihe, außer Reichweite auf Level 30. Spiritual Focus wirkt am besten mit Concentration Aura. Divine Favor und Illumination verstärken sich: eine sichere kritische Heilung gibt auch Mana zurück.
+Light's Vigil liegt in der siebten Reihe. Spiritual Focus wirkt am besten mit Concentration Aura. Divine Favor und Illumination verstärken sich: eine sichere kritische Heilung gibt auch Mana zurück.
 
 ## Heilpriorität
 

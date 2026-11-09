@@ -1,7 +1,7 @@
 ---
 title: "Warrior leveling guide for WoW Forever"
-metaTitle: "WoW Forever Warrior leveling: Arms, Fury and Protection to 30"
-description: "How to level a Warrior in WoW Forever: the early build, three level 30 builds for Arms, Fury and Protection, the rotation, key levels, stance quests and Rage."
+metaTitle: "WoW Forever Warrior leveling: Arms, Fury and Protection to 60"
+description: "How to level a Warrior in WoW Forever: the early build, level 60 builds for Arms, Fury and Protection, the rotation, key levels, stance quests and Rage."
 short: "Warrior leveling"
 updated: 2026-11-07
 lang: en
@@ -16,15 +16,15 @@ faq:
     a: "No. A Warrior needs no reagents at all. Food, bandages and healing potions are all you carry."
   - q: "Which professions suit a Warrior?"
     a: "Blacksmithing with Mining. Blacksmithing makes soulbound gear with stats you rarely find elsewhere, for example more Defense for tanks. Cooking is a must for every class, for the experience buff and your own campfire."
-  - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Warrior level build gives a talent for every level to 60."
+  - q: "Is there a level 60 build?"
+    a: "Yes. The Warrior level build gives a talent for every level to 60, and every spec guide has builds for raids, leveling and PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
 > **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/).
 
-The Warrior grows with every level. At the start you mostly press Heroic Strike and keep Rend ticking. More instant attacks follow as you level, and with the big talents from level 40 you really feel what the class can do. At level 30 you choose between Arms, Fury and Protection, and all three level well. This guide covers the builds, the rotation, the key levels, the class quests and how stances and Rage work.
+The Warrior grows with every level. At the start you mostly press Heroic Strike and keep Rend ticking. More instant attacks follow as you level, and with the big talents from level 40 you really feel what the class can do. You choose between Arms, Fury and Protection, and all three level well. This guide covers the builds, the rotation, the key levels, the class quests and how stances and Rage work.
 
 | | |
 |---|---|
@@ -39,9 +39,6 @@ The Warrior grows with every level. At the start you mostly press Heroic Strike 
 ## Which spec to level with
 
 All three trees level well. Most players traditionally level as **Arms**, for its burst and steady play. **Fury** takes a lot of damage, so you stop to eat more often, but its damage can be worth that. **Protection** is much stronger than it used to be: it burns down groups of monsters while you lose little health.
-
-The builds below were made on the beta, which stopped at level 30. Each has 26 points: you reach that at level 30 with five extra points from Talented in the Legacy system, or at level 35 without them. The talent calculator shows such a build as level 35, because it counts every point as a level. Builds for level 60 follow once we can test them in the live game.
-
 ## Levels 1 to 10
 
 You start with Heroic Strike and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6673"><img class="wf-wh__icon" src="/wh/ability_warrior_battleshout.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Battle Shout</a>, without talents or stances to choose from. Rend and Charge follow at 4, Thunder Clap at 6 and Hamstring at 8.
@@ -55,96 +52,11 @@ Need some room? Hamstring slows the monster so you can walk away. Against severa
 
 Stats at these levels: weapon damage per second first, then Strength and attack power, then Stamina, then Agility, then armor.
 
-## Level 30 Arms build
+## Talent builds
 
-The recommended leveling build. It is about Overpower and heavy hits with a slow two-handed weapon. Much of the time you let Rend tick and wait for Overpower. Sweeping Strikes later adds the damage against groups that Arms needs, and it is satisfying to use. [Open the build in the talent calculator](/talents/warrior/?t=333202031322101).
+The [Warrior level build](/leveling/warrior/) gives the talent for every level from 10 to 60. [Open the end result in the talent calculator](/talents/warrior/?t=2502301-0501-250033020331001351).
 
-| Talent | Points |
-|---|---|
-| **Improved Heroic Strike** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
-| **Improved Rend** | 3/3 |
-| **Improved Charge** | 2/2 |
-| **Improved Overpower** | 2/2 |
-| **Deep Wounds** | 3/3 |
-| **Spearing Strike** | 1/1 |
-| **Two-Handed Weapon Specialization** | 3/3 |
-| **Impale** | 2/2 |
-| **Bloodthrill** | 2/2 |
-| **Sweeping Strikes** | 1/1 |
-| **Improved Slam** | 1/2 |
-
-Bloodthrill is the heart of the build: your main-hand attacks against a monster with your Rend on it can make Overpower available. Improved Overpower raises its critical strike chance by 50%, and Deep Wounds and Impale make those critical strikes hurt. Sweeping Strikes lets your next five attacks also hit a monster next to it.
-
-There is some room to change it. You can take Improved Tactical Mastery instead of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>, but then you will hardly find the points for Anger Management. Spearing Strike mainly helps against Giants and Dragonkin, which you rarely meet early on; skip it and you can take Weaponmaster sooner. At the end you choose between Bloodthrill and Weaponmaster. You want both in time, so it is about which you take first. Bloodthrill means more Overpowers.
-
-1. Keep Battle Shout up in combat.
-2. Charge the monster.
-3. Cast Overpower whenever it lights up.
-4. Cast Rend if the monster will live long enough for a few ticks.
-5. Use your spare Rage on Heroic Strike, or on Slam once you have Improved Slam.
-
-Stats: weapon damage matters more than damage per second, then Strength and attack power, then Stamina, then Agility, then armor.
-
-## Level 30 Fury build
-
-As Fury you fight with two weapons and use all the extra Rage that gives. Your best attacks only come after level 30, so the spec can feel a little weak until then. [Open the build in the talent calculator](/talents/warrior/?t=-0505302550001).
-
-| Talent | Points |
-|---|---|
-| **Cruelty** | 5/5 |
-| **Unbridled Wrath** | 5/5 |
-| **Furious Precision** | 3/3 |
-| **Blood Craze** | 2/3 |
-| **Dual Wield Specialization** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12317"><img class="wf-wh__icon" src="/wh/spell_shadow_unholyfrenzy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a>** | 5/5 |
-| **Death Wish** | 1/1 |
-
-Unbridled Wrath and Dual Wield Specialization give you more Rage from every hit, and Furious Precision makes your off-hand miss less. Cruelty adds critical strike chance, and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12317"><img class="wf-wh__icon" src="/wh/spell_shadow_unholyfrenzy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> raises your damage after you take a hit. Death Wish raises your physical damage by 20% for 30 seconds, but you also take 5% more.
-
-There are a few options here. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12323"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Piercing Howl</a> slows everything around you, good for kiting monsters and players. Lingering Rage keeps your Rage longer after a fight, which keeps the pace high when you go from monster to monster. Raging Blows is gone since 2 November. In its place, Reckless Swings in the fourth row gives 5 extra Rage on each of your next 4 attacks.
-
-1. Keep Battle Shout up in combat.
-2. Charge the monster.
-3. Cast Overpower whenever it lights up.
-4. Cast Rend if the monster will live long enough for a few ticks.
-5. Use your spare Rage on Heroic Strike.
-
-From level 30, Fury fights in Berserker Stance, where you take 10% more damage, magic included, and 5% more on top while Death Wish runs. More in [this post](/news/fury-takes-10-percent-more-damage-in-berserker-stance/).
-
-Stats: weapon damage per second, then Strength and attack power, then Stamina, then Agility, then armor.
-
-## Level 30 Protection build
-
-Leveling as a tank used to be slow. Not anymore: as Protection you burn down groups of monsters and lose little health doing it. You need a one-handed weapon and a shield. [Open the build in the talent calculator](/talents/warrior/?t=--2505301203010013).
-
-| Talent | Points |
-|---|---|
-| **Improved Bloodrage** | 2/2 |
-| **Shield Specialization** | 5/5 |
-| **Anticipation** | 5/5 |
-| **Improved Revenge** | 3/3 |
-| **Last Stand** | 1/1 |
-| **Master of Defense** | 2/2 |
-| **Defiance** | 3/3 |
-| **Vanguard** | 1/1 |
-| **Concussion Blow** | 1/1 |
-| **Focused Rage** | 3/3 |
-
-Shield Specialization and Master of Defense give you Rage whenever you block, dodge or parry, so the more monsters hit you, the more you can do. Vanguard lets you Charge in Defensive Stance, so you never have to switch. Focused Rage makes your attacks cheaper, and Concussion Blow stuns a monster for 5 seconds. Last Stand gives you 30% extra health for 20 seconds when things go wrong.
-
-There is little room to change it if you go deep into the tree. Doing few dungeons? Move the points from Defiance to Improved Thunder Clap.
-
-1. Keep Battle Shout up in combat.
-2. Charge the monster.
-3. Cast Revenge whenever it lights up.
-4. Cast Rend if the monster will live long enough for a few ticks.
-5. Keep Thunder Clap on cooldown.
-6. Use your spare Rage on Heroic Strike.
-
-Stats: weapon damage per second, then Strength and attack power, then Stamina, then Agility, then armor.
-
-![A red-bearded Dwarf Warrior with a sword and a mace in a forest, with two furbolgs in the background](../../../../assets/posts/2026-10-18-wow-forever-dwarf-warrior-two-weapons.jpg)
+For level 60, every spec guide has its own builds for raids, leveling and PvP: [Arms](/guides/arms-warrior/), [Fury](/guides/fury-warrior/) and [Protection](/guides/protection-warrior/).
 
 ## Key levels
 

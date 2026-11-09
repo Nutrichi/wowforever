@@ -1,7 +1,7 @@
 ---
 title: "Holy Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Holy Paladin: build de sanación, hechizos y maná"
-description: "El Holy Paladin en WoW Forever: la build de sanación de nivel 30 y su versión Talented, Holy Shock y Light's Vigil, la prioridad de curación, el maná, los sellos, los stats y las razas."
+description: "El Holy Paladin en WoW Forever: la build de sanación de nivel 60, Holy Shock y Light's Vigil, la prioridad de curación, el maná, los sellos, los stats y las razas."
 short: "Holy Paladin"
 updated: 2026-11-07
 lang: es
@@ -19,18 +19,20 @@ faq:
     a: "Primero poder de curación y con hechizos, luego Intelecto para maná y crítico, y luego probabilidad de crítico para curas más grandes e Illumination. Con Reverence, el Espíritu regenera maná mientras lanzas, así que también cuenta."
   - q: "¿Qué raza es mejor para un Holy Paladin?"
     a: "Human en la Alliance, por la probabilidad de crítico extra. Dwarf tiene Stoneform como reutilización defensiva. Los Paladins de la Horde siempre son Undead."
-  - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
 ---
-El Holy Paladin de WoW Forever es el sanador más sencillo del juego. Lanzas curas con tiempo de lanzamiento, curas por cifras grandes y vives de los críticos, que te devuelven maná gracias a Illumination. No tienes curación en el tiempo ni escudos: curas lo que está herido. Esta guía cubre la build de nivel 30, Holy Shock y Light's Vigil, la prioridad de curación, el maná, los sellos, los stats y las razas.
+El Holy Paladin de WoW Forever es el sanador más sencillo del juego. Lanzas curas con tiempo de lanzamiento, curas por cifras grandes y vives de los críticos, que te devuelven maná gracias a Illumination. No tienes curación en el tiempo ni escudos: curas lo que está herido. Esta guía cubre la build de nivel 60, Holy Shock y Light's Vigil, la prioridad de curación, el maná, los sellos, los stats y las razas.
 
 | | |
 |---|---|
 | Rol | Sanador, sobre todo a un objetivo |
-| Build de nivel 30 | 21 puntos en Holy, Talented añade Purifying Power, Boundless Light y Holy Power |
+| Build de nivel 60 | 31/7/13 |
 | Talentos clave | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Fortalezas | Curas grandes, utilidad de grupo, muy difícil de matar |
 | Debilidades | Sobre todo reactivo, una sola cura de grupo |
@@ -46,26 +48,45 @@ El Holy Paladin de WoW Forever es el sanador más sencillo del juego. Lanzas cur
 
 **Una cura de grupo.** Light's Vigil es tu única forma de curar a todo el grupo, y es cara.
 
-## La build de nivel 30
+## Builds para nivel 60
 
-La beta se quedó en el nivel 30, así que la build usa 21 puntos. Talented, del sistema Legacy, añade 5 más. [Abre la build en la calculadora de talentos](/es/talents/paladin/?t=50320015022001).
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+### Build de banda, 31/7/13
+
+31 puntos en Holy, 7 en Protection y 13 en Retribution. [Abre la build de banda en la calculadora de talentos](/es/talents/paladin/?t=50320115022101251-50002-050330002).
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/paladin/?t=50320015222121251-5-052300002).
 
 | Talento | Puntos |
 |---|---|
 | **Spiritual Focus** | 5/5 |
 | **Healing Light** | 3/3 |
 | **Reverence** | 2/2 |
+| **Purifying Power** | 1/2 |
 | **Divine Favor** | 1/1 |
 | **Illumination** | 5/5 |
 | **Divine Precision** | 2/2 |
 | **Infusion of Light** | 2/2 |
+| **Oath of Light** | 1/1 |
 | **Holy Shock** | 1/1 |
+| **Boundless Light** | 2/2 |
+| **Holy Power** | 5/5 |
+| **Light's Vigil** | 1/1 |
+| **Divine Intellect** | 5/5 |
+| **Sacred Duty** | 2/2 |
+| **Benediction** | 5/5 |
+| **Conviction** | 3/3 |
+| **Sanctified Judgement** | 3/3 |
+| **Pursuit of Justice** | 2/2 |
 
-[Abre la versión Talented](/es/talents/paladin/?t=5032021502200121) con Purifying Power 2/2, Boundless Light 2/2 y Holy Power 1/5.
+### Build para subir de nivel, 0/31/20
 
-![La build Talented del Holy Paladin en nuestra calculadora de talentos](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/paladin/?t=-55300102113001531-05233301201). La [build de nivel del Paladin](/es/leveling/paladin/) da el talento de cada nivel.
 
-Holy Shock está en la quinta fila y pide 20 puntos por encima. Con 21 puntos queda sitio justo para los ocho talentos de arriba. La versión Talented es la build completa de 26 puntos.
+### Build de PvP, 32/7/12
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/paladin/?t=50320215022101251-5002-052300002).
 
 ## Qué hacen los talentos clave
 
@@ -83,7 +104,7 @@ Holy Shock está en la quinta fila y pide 20 puntos por encima. Con 21 puntos qu
 | **Holy Power** | Un 15% más de crítico para Holy Shock y Holy Strike, un 5% para los demás hechizos |
 | **Light's Vigil** | Tu siguiente Holy Shock en el objetivo no tiene reutilización y cura a todo su grupo |
 
-Light's Vigil está en la séptima fila, fuera de alcance en el nivel 30. Spiritual Focus funciona mejor con Concentration Aura. Divine Favor e Illumination se refuerzan: una cura crítica asegurada también devuelve maná.
+Light's Vigil está en la séptima fila. Spiritual Focus funciona mejor con Concentration Aura. Divine Favor e Illumination se refuerzan: una cura crítica asegurada también devuelve maná.
 
 ## Prioridad de curación
 

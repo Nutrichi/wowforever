@@ -1,7 +1,7 @@
 ---
 title: "Gids voor de Elemental Shaman in WoW Forever"
 metaTitle: "WoW Forever Elemental Shaman: build, Lightning Overload, totems, mana"
-description: "De Elemental Shaman in WoW Forever: de build voor level 30 en de Talented-versie, Call of Thunder en Lightning Overload, de rotatie, totems, mana, stats en races."
+description: "De Elemental Shaman in WoW Forever: de build voor level 60, Call of Thunder en Lightning Overload, de rotatie, totems, mana, stats en races."
 short: "Elemental Shaman"
 updated: 2026-11-07
 lang: nl
@@ -19,20 +19,22 @@ faq:
     a: "Eerst spell damage, dan critical strike chance, en hit naarmate je dichter bij level 60 komt. Intellect en Spirit houden je mana op peil. Haste maakt je casts sneller, maar je verbruikt je mana ook sneller."
   - q: "Welk ras is het beste voor een Elemental Shaman?"
     a: "Dwarf is de enige Shaman van de Alliance. Bij de Horde is Orc de sterkste keuze dankzij Blood Fury, en Windshaper Skyborne krijgt 2% Haste."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/elemental/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/).
 
-De Elemental Shaman in WoW Forever vecht op afstand met bliksem en vuur. De spec begint traag, maar zodra Call of Thunder en Lightning Overload in je build zitten, stapelen de grote critical hits en de extra Lightning Bolts van Lightning Overload zich snel op. Met je totems ben je in elke groep welkom. Deze gids gaat over de build voor level 30, de belangrijkste talenten, de rotatie, totems, mana, stats en races.
+De Elemental Shaman in WoW Forever vecht op afstand met bliksem en vuur. De spec begint traag, maar zodra Call of Thunder en Lightning Overload in je build zitten, stapelen de grote critical hits en de extra Lightning Bolts van Lightning Overload zich snel op. Met je totems ben je in elke groep welkom. Deze gids gaat over de build voor level 60, de belangrijkste talenten, de rotatie, totems, mana, stats en races.
 
 | | |
 |---|---|
 | Rol | Schade op afstand, op één doelwit en op groepen |
-| Build op level 30 | 21 punten in Elemental, Talented voegt Trial by Fire 2/2, Lightning Overload 3/3 en Elemental Fury 1/5 toe |
+| Build op level 60 | 31/4/16 |
 | Belangrijkste talenten | Elemental Focus, Trial by Fire, Earthbound, Call of Thunder, Lightning Overload |
 | Sterk in | Goede schade op groepen, totems voor de hele raid, veel utility |
 | Zwak in | Mana, geen harde crowd control, de plaats van je totems |
@@ -52,27 +54,44 @@ De Elemental Shaman in WoW Forever vecht op afstand met bliksem en vuur. De spec
 
 **Plaatsing.** Windfury Totem moet de melee bereiken, je stattotems de groep, en Magma Totem de vijanden die je met Fire Nova raakt.
 
-## De build voor level 30
+## Builds voor level 60
 
-De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem voegt er 5 aan toe. [Open de build in de talentcalculator](/nl/talents/shaman/?t=3500331013101).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 31/4/16
+
+31 punten in Elemental, 4 in Enhancement en 16 in Restoration. [Open de raidbuild in de talentcalculator](/nl/talents/shaman/?t=5500331013001351-04-053150001001).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/shaman/?t=5500331023001351-05500001-053).
 
 | Talent | Punten |
 |---|---|
-| **Convection** | 3/5 |
+| **Convection** | 5/5 |
 | **Concussion** | 5/5 |
 | **Elemental Alacrity** | 3/3 |
 | **Call of Flame** | 3/3 |
 | **Elemental Focus** | 1/1 |
 | **Trial by Fire** | 1/2 |
 | **Eye of the Storm** | 3/3 |
-| **Earthbound** | 1/1 |
 | **Call of Thunder** | 1/1 |
+| **Lightning Overload** | 3/3 |
+| **Elemental Fury** | 5/5 |
+| **Lightning Mastery** | 1/1 |
+| **Thundering Strikes** | 4/5 |
+| **Tidal Focus** | 5/5 |
+| **Mindfulness** | 3/3 |
+| **Natural Grace** | 1/3 |
+| **Totemic Focus** | 5/5 |
+| **Water Shield** | 1/1 |
+| **Mana Tide Totem** | 1/1 |
 
-[Open de Talented-versie](/nl/talents/shaman/?t=350033102310131) met Trial by Fire 2/2, Lightning Overload 3/3 en Elemental Fury 1/5.
+### Levelbuild, 19/32/0
 
-![De Talented-build van de Elemental Shaman in onze talentcalculator](../../../../assets/posts/2026-10-30-wow-forever-elemental-shaman-build.jpg)
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/shaman/?t=45300310201-053030310051012251). De [levelbuild voor de Shaman](/nl/leveling/shaman/) geeft het talent voor elk level.
 
-Call of Thunder staat in de vijfde rij en vraagt 20 punten erboven, dus het is het 21ste punt. Onze [gids om een Shaman te levelen](/nl/guides/shaman-leveling/) heeft een soloversie met het tweede punt in Trial by Fire in plaats van Earthbound.
+### PvP-build, 33/17/1
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/shaman/?t=5500331003121351-2502020130002-01).
 
 ## Wat de belangrijkste talenten doen
 
@@ -90,7 +109,7 @@ Call of Thunder staat in de vijfde rij en vraagt 20 punten erboven, dus het is h
 | **Lightning Overload** | Op 3/3: 30% kans dat Lightning Bolt en Chain Lightning een tweede exemplaar casten voor de helft van de schade, gratis en zonder threat |
 | **Elemental Fury** | Op 1/5: 20% meer critical damage voor je vuur-, vorst- en natuurspells en je Searing en Magma Totems |
 
-Lightning Overload is het talent dat de spec in Forever leuk maakt: de extra spell kost je niets. Elemental Fury groeit met elk punt dat je na level 30 toevoegt.
+Lightning Overload is het talent dat de spec in Forever leuk maakt: de extra spell kost je niets. Elemental Fury groeit met elk punt dat je toevoegt.
 
 ## Rotatie
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancement Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
-description: "The Enhancement Shaman in WoW Forever: the level 30 build and its Talented version, Stormstrike and Maelstrom Weapon, the rotation, totems, mana, tanking, stats and races."
+description: "The Enhancement Shaman in WoW Forever: the level 60 build, Stormstrike and Maelstrom Weapon, the rotation, totems, mana, tanking, stats and races."
 short: "Enhancement Shaman"
 updated: 2026-11-07
 lang: en
@@ -20,20 +20,22 @@ faq:
     a: "Weapon damage first, then hit as you get closer to level 60, Strength and Intellect, critical strike chance, Spirit and spell damage. Intellect gives attack power through Mental Dexterity and also a bigger mana pool."
   - q: "Which race is best for an Enhancement Shaman?"
     a: "Dwarf is the only Alliance Shaman. On the Horde, Orc is the strongest choice thanks to Blood Fury, and Windshaper Skyborne gets 2% haste."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
 > **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/).
 
-The Enhancement Shaman in WoW Forever fights in melee and mixes in spells. A slow two-handed weapon with Windfury Weapon delivers the big hits, while Stormstrike and Maelstrom Weapon add Lightning Bolt to the rotation. Totems make you welcome in every group. This guide covers the level 30 build, the key talents, the rotation, totems, mana, tanking, stats and races.
+The Enhancement Shaman in WoW Forever fights in melee and mixes in spells. A slow two-handed weapon with Windfury Weapon delivers the big hits, while Stormstrike and Maelstrom Weapon add Lightning Bolt to the rotation. Totems make you welcome in every group. This guide covers the level 60 build, the key talents, the rotation, totems, mana, tanking, stats and races.
 
 | | |
 |---|---|
 | Role | Melee damage, single target and groups, tank in early dungeons |
-| Build at level 30 | 21 points in Enhancement, Talented adds Mental Quickness 2/2, Improved Stormstrike 2/2 and Maelstrom Weapon 1/5 |
+| Build at level 60 | 17/34/0 |
 | Key talents | Mental Dexterity, Shamanistic Focus, Flurry, Stormstrike, Improved Stormstrike, Maelstrom Weapon |
 | Strength | Solid damage, raid-wide totems, a lot of utility |
 | Weakness | Mana, dependence on your weapon, few defensive options |
@@ -55,26 +57,45 @@ The Enhancement Shaman in WoW Forever fights in melee and mixes in spells. A slo
 
 **Few defensive options.** No hard crowd control and no real defensive cooldown. Stoneskin Totem and your own healing only go so far.
 
-## The level 30 build
+## Builds for level 60
 
-The beta stopped at level 30, so the build uses 21 points. Talented from the Legacy system adds 5 more. [Open the build in the talent calculator](/talents/shaman/?t=-052031310051).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 17/34/0
+
+17 points in Elemental and 34 in Enhancement. [Open the raid build in the talent calculator](/talents/shaman/?t=053303102-053030310051212251).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/shaman/?t=05330310201-0530303100212122-053).
 
 | Talent | Points |
 |---|---|
+| **Concussion** | 5/5 |
+| **Elemental Devastation** | 3/3 |
+| **Reverberation** | 3/5 |
+| **Call of Flame** | 3/3 |
+| **Elemental Focus** | 1/1 |
+| **Trial by Fire** | 2/2 |
 | **Thundering Strikes** | 5/5 |
-| **Ancestral Knowledge** | 2/5 |
+| **Ancestral Knowledge** | 3/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
+| **Improved Ghost Wolf** | 2/2 |
+| **Spirit Weapons** | 1/1 |
+| **Mental Quickness** | 2/2 |
+| **Improved Stormstrike** | 2/2 |
+| **Maelstrom Weapon** | 5/5 |
+| **Rage of the Farseer** | 1/1 |
 
-[Open the Talented version](/talents/shaman/?t=-05203131005100221) with Mental Quickness 2/2, Improved Stormstrike 2/2 and Maelstrom Weapon 1/5.
+### Leveling build, 19/32/0
 
-![The Talented Enhancement Shaman build in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/shaman/?t=45300310201-053030310051012251). The [Shaman level build](/leveling/shaman/) gives the talent for every level.
 
-Our [Shaman leveling guide](/guides/shaman-leveling/) uses the same build and explains the road to level 30.
+### PvP build, 18/26/7
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/shaman/?t=05350310001-2502300130212122-050002).
 
 ## What the key talents do
 
@@ -90,9 +111,9 @@ Our [Shaman leveling guide](/guides/shaman-leveling/) uses the same build and ex
 | **Mental Quickness** | Spell damage and healing equal to 30% of your Intellect |
 | **Improved Stormstrike** | Stormstrike gives 50% mana regeneration while casting for 15 seconds. A dodge or parry resets its cooldown |
 | **Maelstrom Weapon** | Melee hits can reduce the cast time and mana cost of your next Lightning Bolt, up to 5 stacks. 4% per stack at 1/5, 20% per stack at 5/5 |
-| **Rage of the Farseer** | The bottom talent of the tree: 30% more attack speed for 25 seconds, 3 minute cooldown. Out of reach at level 30 |
+| **Rage of the Farseer** | The bottom talent of the tree: 30% more attack speed for 25 seconds, 3 minute cooldown |
 
-Maelstrom Weapon needs many points before it becomes a free, instant Lightning Bolt. With 1/5 in the Talented build, 5 stacks only shave off 20%.
+Maelstrom Weapon needs many points before it becomes a free, instant Lightning Bolt.
 
 ## Rotation
 

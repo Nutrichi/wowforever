@@ -19,6 +19,8 @@ faq:
   - q: "Which race is best for a Survival Hunter?"
     a: "Skyborne on both sides, for the haste bonus. Human for the Alliance and Orc for the Horde are strong alternatives. The differences are small."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/survival-hunter/"
 ---
@@ -47,37 +49,42 @@ The Survival Hunter in WoW Forever fights at range and in melee. You weave Rapto
 
 **The dead zone.** Between melee range and 8 yards you can use neither melee nor ranged attacks. Survival has that problem too.
 
-## The level 60 build: 5/13/33
+## Builds for level 60
 
-The beta stopped at level 30, but the talent trees for level 60 are in the game files. We checked this build point for point in [our talent calculator](/talents/hunter/?t=5-005005201-530200230050222151): 5 points in Beast Mastery, 13 in Marksmanship and 33 in Survival, 51 in total.
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 16/4/31
+
+16 points in Beast Mastery, 4 in Marksmanship and 31 in Survival. [Open the raid build in the talent calculator](/talents/hunter/?t=51202005001-004-500230230050022151).
 
 | Talent | Points |
 |---|---|
-| **Deadly Aspects** (Beast Mastery) | 5/5 |
-| **Lethal Attacks** (Marksmanship) | 5/5 |
-| **Careful Aim** (Marksmanship) | 5/5 |
-| **Rapid Killing** (Marksmanship) | 2/2 |
-| **Lone Wolf** (Marksmanship) | 1/1 |
+| **Deadly Aspects** | 5/5 |
+| **Endurance Training** | 1/5 |
+| **Focused Fire** | 2/2 |
+| **Improved Revive Pet** | 2/2 |
+| **Unleashed Fury** | 5/5 |
+| **Summon Hawk** | 1/1 |
+| **Lethal Attacks** | 4/5 |
 | **Improved Tracking** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19295"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
 | **Savage Strikes** | 2/2 |
+| **Survivalist** | 3/5 |
 | **Clever Traps** | 2/2 |
 | **Surefooted** | 3/3 |
 | **Predator's Edge** | 5/5 |
-| **Resourcefulness** | 2/2 |
 | **Expose Prey** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310496"><img class="wf-wh__icon" src="/wh/ability_hunter_mastertactitian.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Survivalist's Discipline</a>** | 2/2 |
+| **Survivalist's Discipline** | 2/2 |
 | **Strider Kick** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a>** | 5/5 |
+| **Lightning Reflexes** | 5/5 |
 | **Lacerating Strikes** | 1/1 |
 
-![The Survival Hunter build 5/13/33 in our talent calculator](../../../../assets/posts/2026-10-25-wow-forever-survival-hunter-build.jpg)
+### Leveling build, 31/20/0
 
-Three choices can move:
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/hunter/?t=5120221405101241-00503520005). The [Hunter level build](/leveling/hunter/) gives the talent for every level.
 
-- **Lone Wolf** to 1 point in **Efficiency** or **Improved Stings** if you want to keep your pet, for example while questing.
-- **Rapid Killing** to 2 points in **Efficiency** or **Improved Stings** if you do not need Rapid Fire more often and want cheaper or stronger Stings.
-- **Deadly Aspects** to 2 points in **Efficiency** or **Improved Stings** plus 3 points in **Mortal Shots**.
+### PvP build, 16/0/35
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/hunter/?t=50230014001--502203031051222151).
 
 ## What the key talents do
 

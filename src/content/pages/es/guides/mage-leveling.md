@@ -19,8 +19,8 @@ faq:
     a: "Sí, a nivel 10, 15 y 26. No enseñan hechizos, pero dan objetos como bastones, piezas de mano izquierda, túnicas y varitas."
   - q: "¿Qué profesiones le van bien a un Mage?"
     a: "Tailoring con Enchanting es la pareja clásica. Cooking merece la pena para cualquier clase en Forever, porque la comida con bufo ahora también da experiencia extra y la necesitas para un campamento."
-  - q: "¿Hay ya una build para nivel 60?"
-    a: "Todavía no. La beta terminaba en el nivel 30. Nuestra build de subida llega al nivel 35 y se ampliará en cuanto se conozcan las builds de niveles más altos."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. La build de nivel del Mage da un talento por cada nivel hasta el 60, y cada guía de especialización tiene builds para bandas, subir de nivel y PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/mage-leveling/"
@@ -34,7 +34,7 @@ El Mage sube rápido y en solitario en WoW Forever, con comida y agua infinitas 
 | Puntos fuertes | Daño, control, comida y agua gratis |
 | Puntos débiles | Maná, amenaza en mazmorras, poca vida |
 | Talento por nivel | [Build de subida del Mage](/es/leveling/mage/) |
-| Builds hasta nivel 60 | Todavía no, la [build de subida](/es/leveling/mage/) llega al 35 |
+| Builds hasta nivel 60 | Sí, la [build de subida](/es/leveling/mage/) llega al 60 |
 
 ## Con qué especialización subir
 
@@ -46,7 +46,7 @@ El Mage sube rápido y en solitario en WoW Forever, con comida y agua infinitas 
 
 ## La build Frost
 
-La [build de subida del Mage](/es/leveling/mage/) da el talento de cada nivel del 10 al 35.
+La [build de subida del Mage](/es/leveling/mage/) da el talento de cada nivel del 10 al 60.
 
 | Talento | Qué hace en Forever |
 |---|---|
@@ -57,7 +57,7 @@ La [build de subida del Mage](/es/leveling/mage/) da el talento de cada nivel de
 | **Ice Shards** | Duplica la bonificación de crítico de tus hechizos Frost |
 | **Frost Channeling** | Hechizos Frost un 15 % más baratos y un 30 % menos de amenaza |
 
-Con puntos en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> del sistema Legacy, alcanzas cada talento hasta cinco niveles antes. La [guía del Arcane Mage](/es/guides/arcane-mage/) tiene dos builds de nivel 30 con Arcane Blast, además de las fases de burn y el maná. La [guía del Fire Mage](/es/guides/fire-mage/) tiene dos builds de nivel 30 con Heating Up, además de Fire Power y el maná.
+Con puntos en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> del sistema Legacy, alcanzas cada talento hasta cinco niveles antes. La [guía del Arcane Mage](/es/guides/arcane-mage/) tiene builds de nivel 60 para bandas, subir de nivel y PvP, con Arcane Blast, además de las fases de burn y el maná. La [guía del Fire Mage](/es/guides/fire-mage/) tiene builds de nivel 60 para bandas, subir de nivel y PvP, con Heating Up, además de Fire Power y el maná.
 
 ## Rotación
 

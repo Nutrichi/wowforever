@@ -1,7 +1,7 @@
 ---
 title: "Guía del Balance Druid en WoW Forever"
 metaTitle: "WoW Forever: Balance Druid, builds DoT y Eclipse, rotación, stats y razas"
-description: "El Balance Druid en WoW Forever: qué cambia, dos builds de nivel 30 con Overgrowth o Eclipse, la rotación, los cooldowns, el maná y los DoTs, los stats, el equipo, las razas y las profesiones."
+description: "El Balance Druid en WoW Forever: qué cambia, builds de nivel 60 para bandas, subir de nivel y PvP, la rotación, los cooldowns, el maná y los DoTs, los stats, el equipo, las razas y las profesiones."
 short: "Balance Druid"
 updated: 2026-11-07
 lang: es
@@ -9,8 +9,6 @@ manual: true
 faq:
   - q: "¿Es bueno el Balance Druid en WoW Forever?"
     a: "Sí. Improved Wrath, Moonglow y Eclipse dan a Balance una rotación de verdad y mucho mejor maná que en Classic. Como híbrido hace algo menos de daño que un Mage o un Warlock, pero aporta buffs, debuffs, una resurrección en combate y algo de sanación."
-  - q: "¿Qué build de Balance uso a nivel 30?"
-    a: "La build de DoTs con Overgrowth inmoviliza hasta tres enemigos y los desgasta con daño en el tiempo. Es la más eficiente, pero más exigente. La build de Eclipse es más lenta y más segura, y usa la rotación a un objetivo que también jugarás a nivel 60."
   - q: "¿Qué hace Eclipse?"
     a: "Cada Wrath acelera tus dos Starfire siguientes, 0,5 segundos a 3/3. Guarda hasta 4 cargas y dura 15 segundos. Así Balance pasa a ser una rotación de dos Starfire y un Wrath."
   - q: "¿Wrath consume Clearcasting?"
@@ -19,9 +17,11 @@ faq:
     a: "Moonkin Form es el último talento del árbol de Balance y pide nivel 40. Sube un 3 % la probabilidad de crítico con hechizos de todo tu grupo y duplica la probabilidad de activar Omen of Clarity."
   - q: "¿Qué raza es la mejor para un Balance Druid?"
     a: "Night Elf por Elune's Light, un golpe de probabilidad de crítico, o Tauren por War Stomp y un 5 % más de vida. Los Skyborne tienen 2 % de Haste en los dos bandos. Las diferencias son pequeñas, así que elige la raza que te guste."
-  - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/druid/balance/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/balance-druid/"
 ---
@@ -30,7 +30,7 @@ El Balance Druid de WoW Forever es un lanzador con dos hechizos de daño en el t
 | | |
 |---|---|
 | Rol | Daño a distancia con daño en el tiempo, raíces y utilidad |
-| Builds a nivel 30 | DoTs con Overgrowth, o Eclipse |
+| Builds a nivel 60 | 38/0/13 |
 | Talentos clave | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5570"><img class="wf-wh__icon" src="/wh/spell_nature_insectswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Insect Swarm</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17245"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Overgrowth</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a> |
 | Puntos fuertes | Una rotación constante, buffs y debuffs, utilidad |
 | Puntos débiles | Daño de híbrido, lanzamientos quieto, sin burst |
@@ -56,46 +56,41 @@ El Balance Druid de WoW Forever es un lanzador con dos hechizos de daño en el t
 
 **Moonkin Form** es la razón por la que una banda quiere un Balance Druid. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> sube un 3 % la probabilidad de crítico con hechizos de cada miembro del grupo o banda a 45 metros y duplica tu probabilidad de activar Omen of Clarity. Pide nivel 40 y no deja lanzar hechizos de sanación.
 
-## Dos builds para el nivel 30
+## Builds para nivel 60
 
-Las dos builds usan 21 puntos, los que tienes a nivel 30. Con 5 puntos en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> del sistema Legacy tienes 26 puntos, que el segundo enlace de cada build ya gasta. El talento de cada nivel mientras subes está en la [guía para subir un Druid](/es/guides/druid-leveling/).
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
 
-### La build de DoTs con Overgrowth
+### Build de banda, 38/0/13
 
-Refuerza tu daño en el tiempo y Entangling Roots, para desgastar a varios enemigos a la vez. Muy eficiente, pero más exigente y arriesgada. [Abrir la build en la calculadora de talentos](/es/talents/druid/?t=513222311001).
-
-| Talento | Puntos |
-|---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223081"><img class="wf-wh__icon" src="/wh/spell_arcane_arcane03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Genesis</a>** | 1/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16821"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Moonfire</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223082"><img class="wf-wh__icon" src="/wh/inv_staff_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Majesty</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16918"><img class="wf-wh__icon" src="/wh/spell_nature_stranglevines.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Entangling Roots</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223083"><img class="wf-wh__icon" src="/wh/spell_nature_natureresistancetotem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Splendor</a>** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5570"><img class="wf-wh__icon" src="/wh/spell_nature_insectswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Insect Swarm</a>** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17245"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Overgrowth</a>** | 1/2 |
-
-Con Talented: Genesis 5/5 y Overgrowth 2/2. [Abrir la versión con Talented](/es/talents/druid/?t=553222311002).
-
-### La build de Eclipse
-
-Coge en su lugar <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16850"><img class="wf-wh__icon" src="/wh/spell_arcane_starfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Starfire</a> y Eclipse, para la rotación a un objetivo que también usarás a nivel 60. Algo más lenta que la build de DoTs, pero más segura. [Abrir la build en la calculadora de talentos](/es/talents/druid/?t=50322201104001).
+38 puntos en Balance y 13 en Restoration. [Abre la build de banda en la calculadora de talentos](/es/talents/druid/?t=5232220115501351--5053).
 
 | Talento | Puntos |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16821"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Moonfire</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223082"><img class="wf-wh__icon" src="/wh/inv_staff_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Majesty</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223083"><img class="wf-wh__icon" src="/wh/spell_nature_natureresistancetotem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Splendor</a>** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5570"><img class="wf-wh__icon" src="/wh/spell_nature_insectswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Insect Swarm</a>** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16850"><img class="wf-wh__icon" src="/wh/spell_arcane_starfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Starfire</a>** | 4/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>** | 1/3 |
+| **Improved Wrath** | 5/5 |
+| **Genesis** | 2/5 |
+| **Moonglow** | 3/3 |
+| **Improved Moonfire** | 2/2 |
+| **Nature's Majesty** | 2/2 |
+| **Nature's Reach** | 2/2 |
+| **Nature's Splendor** | 1/1 |
+| **Insect Swarm** | 1/1 |
+| **Vengeance** | 5/5 |
+| **Improved Starfire** | 5/5 |
+| **Nature's Grace** | 1/1 |
+| **Eclipse** | 3/3 |
+| **Moonfury** | 5/5 |
+| **Moonkin Form** | 1/1 |
+| **Nature's Focus** | 5/5 |
+| **Naturalist** | 5/5 |
+| **Reflection** | 3/3 |
 
-Con Talented: Improved Starfire 5/5, Eclipse 3/3, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16880"><img class="wf-wh__icon" src="/wh/spell_nature_naturesblessing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Grace</a> 1/1 y <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16896"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonfury</a> 1/5. [Abrir la versión con Talented](/es/talents/druid/?t=503222011050131).
+### Build para subir de nivel, 9/32/10
+
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/druid/?t=050022-55200002123012125001-055). La [build de nivel del Druid](/es/leveling/druid/) da el talento de cada nivel.
+
+### Build de PvP, 36/10/5
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/druid/?t=5332223115021051-050023-5).
 
 ### Qué hacen los talentos clave
 

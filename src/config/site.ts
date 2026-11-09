@@ -21,6 +21,48 @@ export const launchDate = '2026-11-04T23:00:00Z';
 export const raidsDate = '2026-12-09T23:00:00Z';
 
 /**
+ * Regio's voor de timers in de balk (Nutri, 9 november 2026: "EU and US, switchable"). De
+ * wekelijkse reset in UTC, vast het hele jaar: EU woensdag 04.00 (05.00 Belgische tijd in de
+ * winter), US dinsdag 15.00 (16.00 Belgische tijd). `day` is de weekdag van getUTCDay (0 = zondag).
+ * Blizzard zegt alleen dat elke raid wekelijks reset (podcast en blog, oktober 2026).
+ */
+export const regions = {
+  eu: { day: 3, hourUtc: 4 },
+  us: { day: 2, hourUtc: 15 },
+} as const;
+export type Region = keyof typeof regions;
+
+/**
+ * De raids per fase, met hun reset. Een nieuwe fase: een regel erbij met haar datum (`opens`) en
+ * raids. `reset` is het aantal dagen tussen twee resets; 7 = de wekelijkse reset van de regio.
+ */
+export const raidPhases = [
+  {
+    phase: 1,
+    opens: raidsDate,
+    raids: [
+      { name: 'Barrow Deeps', size: 10, reset: 7 },
+      { name: 'Hyjal Summit', size: 20, reset: 7 },
+      { name: "Onyxia's Lair", size: 40, reset: 7 },
+    ],
+  },
+] as const;
+
+/**
+ * De Darkmoon Faire (kalender van Nutri, 9 november 2026). `from` en `to` zijn de dagen van de
+ * kalender (maandag tot zondag); de Faire gaat open op `from` op het uur van de wekelijkse reset
+ * van de regio en sluit de dag na `to` op hetzelfde uur (Nutri: "Same as the weekly reset").
+ */
+export const darkmoonFaire = [
+  { from: '2026-11-09', to: '2026-11-15', where: 'Elwynn Forest' },
+  { from: '2026-12-07', to: '2026-12-13', where: 'Mulgore' },
+  { from: '2027-01-04', to: '2027-01-10', where: 'Elwynn Forest' },
+  { from: '2027-02-08', to: '2027-02-14', where: 'Mulgore' },
+  { from: '2027-03-08', to: '2027-03-14', where: 'Elwynn Forest' },
+  { from: '2027-04-05', to: '2027-04-11', where: 'Mulgore' },
+] as const;
+
+/**
  * De sociale links uit §10. Aangeleverd door Nutri op 14 september 2026.
  * De voettekst laat een link weg zolang zijn URL leeg is, dus leeghalen
  * volstaat om er een te verbergen.

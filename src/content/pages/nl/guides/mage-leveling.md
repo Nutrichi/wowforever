@@ -19,8 +19,8 @@ faq:
     a: "Ja, op level 10, 15 en 26. Ze leren geen spells, maar geven items zoals staves, off-hands, robes en wands."
   - q: "Welk beroeps passen bij een Mage?"
     a: "Tailoring met Enchanting is het klassieke duo. Cooking loont voor elke class in Forever, want buff food geeft nu ook extra experience en je hebt het nodig voor een kamp."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. De beta stopte op level 30. Onze levelbuild loopt tot level 35 en wordt aangevuld zodra de builds voor hogere levels bekend zijn."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. De levelbuild voor de Mage geeft een talent voor elk level tot 60, en elke specgids heeft builds voor raids, levelen en PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/mage-leveling/"
@@ -34,7 +34,7 @@ De Mage levelt in WoW Forever snel en alleen, met eindeloos eten en drinken en v
 | Sterk in | Schade, crowd control, gratis eten en drinken |
 | Zwak in | Mana, threat in dungeons, weinig health |
 | Talent per level | [Levelbuild Mage](/nl/leveling/mage/) |
-| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/mage/) gaat tot 35 |
+| Builds tot level 60 | Ja, de [levelbuild](/nl/leveling/mage/) gaat tot 60 |
 
 ## Met welke spec level je
 
@@ -46,7 +46,7 @@ De Mage levelt in WoW Forever snel en alleen, met eindeloos eten en drinken en v
 
 ## De Frost-build
 
-De [levelbuild van de Mage](/nl/leveling/mage/) geeft het talent voor elk level van 10 tot 35.
+De [levelbuild van de Mage](/nl/leveling/mage/) geeft het talent voor elk level van 10 tot 60.
 
 | Talent | Wat het doet in Forever |
 |---|---|
@@ -57,7 +57,7 @@ De [levelbuild van de Mage](/nl/leveling/mage/) geeft het talent voor elk level 
 | **Ice Shards** | Verdubbelt de critical strike-bonus van je Frost-spells |
 | **Frost Channeling** | Frost-spells 15% goedkoper en 30% minder threat |
 
-Met punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> uit het Legacy-systeem haal je elk talent tot vijf levels eerder. De [Arcane Mage-gids](/nl/guides/arcane-mage/) geeft twee builds voor level 30 met Arcane Blast, plus burnfases en mana. De [Fire Mage-gids](/nl/guides/fire-mage/) geeft twee builds voor level 30 met Heating Up, plus Fire Power en mana.
+Met punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> uit het Legacy-systeem haal je elk talent tot vijf levels eerder. De [Arcane Mage-gids](/nl/guides/arcane-mage/) geeft builds voor level 60 voor raids, levelen en PvP, met Arcane Blast, plus burnfases en mana. De [Fire Mage-gids](/nl/guides/fire-mage/) geeft builds voor level 60 voor raids, levelen en PvP, met Heating Up, plus Fire Power en mana.
 
 ## Rotatie
 

@@ -18,8 +18,10 @@ faq:
   - q: "¿Puede Discipline hacer daño?"
     a: "Hay builds de Smite posibles con talentos como Power in Light y Penance, pero Smite sigue teniendo sus problemas. Esta guía se centra en la curación."
   - q: "¿Es definitiva esta build?"
-    a: "No. Usa los talentos de la build de la beta del 15 de octubre para nivel 60. La beta terminaba en el nivel 30, así que estos talentos nunca se probaron a nivel 60 y aún pueden cambiar."
+    a: "No."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/discipline/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/discipline-priest/"
 ---
@@ -28,7 +30,7 @@ El Discipline Priest de WoW Forever escuda y cura, con Penance como nueva cura d
 | | |
 |---|---|
 | Rol | Sanador, mejor curando al tanque, con Power Infusion para la banda |
-| Build para nivel 60 | 31/20/0, con los talentos de la build de la beta del 15 de octubre |
+| Build para nivel 60 | 31/20/0 |
 | Talentos clave | Meditation, Soul Warding, Penance, Renewed Hope, Divine Aegis, Power Infusion, Inspiration |
 | Fuerte en | Curación de tanque muy fuerte, muchas herramientas, Power Infusion |
 | Débil en | Casi sin movilidad, menos eficaz curando a todo el grupo |
@@ -54,9 +56,15 @@ El Discipline Priest de WoW Forever escuda y cura, con Penance como nueva cura d
 | Power Infusion, uno de los beneficios más fuertes del juego | Las builds de Smite siguen teniendo sus problemas |
 | Fear Ward, Dispel Magic y Abolish Disease | |
 
-## La build de nivel 60 (31/20/0)
+## Builds para nivel 60
 
-Esta build usa los 51 puntos del nivel 60: 31 en Discipline hasta Power Infusion y 20 en Holy para Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing. [Abrir la build en la calculadora de talentos](/es/talents/priest/?t=005005031330011531-035050030301).
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+### Build de banda, 31/20/0
+
+31 puntos en Discipline y 20 en Holy. [Abre la build de banda en la calculadora de talentos](/es/talents/priest/?t=005005031330011531-0350501303).
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/priest/?t=025015021330011531-0150510303).
 
 | Talento | Puntos |
 |---|---|
@@ -74,16 +82,17 @@ Esta build usa los 51 puntos del nivel 60: 31 en Discipline hasta Power Infusion
 | **Improved Renew** | 3/3 |
 | **Holy Specialization** | 5/5 |
 | **Divine Fury** | 5/5 |
+| **Blessed Recovery** | 1/3 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Holy Binding** | 1/1 |
 
-![La build 31/20/0 del Discipline Priest en nuestra calculadora de talentos](../../../../assets/posts/2026-10-21-wow-forever-discipline-priest-build.jpg)
+### Build para subir de nivel, 16/0/35
 
-**Puntos libres.**
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/priest/?t=00500520103--50542201201302251). La [build de nivel del Priest](/es/leveling/priest/) da el talento de cada nivel.
 
-- Si a tu banda le faltan disipaciones ofensivas y te toca a ti, unos puntos en Holy Precision hacen que Dispel Magic falle menos.
-- Twilight Focus ayuda contra el retroceso, pero solo en combates en los que recibes daño mientras lanzas.
+### Build de PvP, 29/17/5
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/priest/?t=0053002013332115-320501320001-05).
 
 ## Qué hacen los talentos clave
 

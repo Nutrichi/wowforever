@@ -1,7 +1,7 @@
 ---
 title: "Guía del Enhancement Shaman en WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, tótems"
-description: "El Enhancement Shaman en WoW Forever: la build de nivel 30 y su versión Talented, Stormstrike y Maelstrom Weapon, la rotación, los tótems, el maná, tanquear, los stats y las razas."
+description: "El Enhancement Shaman en WoW Forever: la build de nivel 60, Stormstrike y Maelstrom Weapon, la rotación, los tótems, el maná, tanquear, los stats y las razas."
 short: "Enhancement Shaman"
 updated: 2026-11-07
 lang: es
@@ -21,20 +21,22 @@ faq:
     a: "Primero daño de arma, luego hit al acercarte al nivel 60, Strength e Intellect, probabilidad de crítico, Spirit y daño de hechizos. Intellect da poder de ataque con Mental Dexterity y además más reserva de maná."
   - q: "¿Cuál es la mejor raza para un Enhancement Shaman?"
     a: "Dwarf es el único Shaman de la Alliance. En la Horde, Orc es la opción más fuerte gracias a Blood Fury, y Windshaper Skyborne obtiene un 2% de haste."
-  - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
 > **Actualización del 4 de noviembre:** las builds y talentos de abajo siguen los árboles nuevos de las notas de desarrollo del 2 de noviembre, más en [nuestra noticia](/es/news/shamans-lose-lava-burst-before-the-launch/).
 
-El Enhancement Shaman de WoW Forever lucha cuerpo a cuerpo y mezcla hechizos. Un arma a dos manos lenta con Windfury Weapon da los grandes golpes, mientras Stormstrike y Maelstrom Weapon añaden Lightning Bolt a la rotación. Los tótems te hacen bienvenido en cualquier grupo. Esta guía cubre la build de nivel 30, los talentos clave, la rotación, los tótems, el maná, tanquear, los stats y las razas.
+El Enhancement Shaman de WoW Forever lucha cuerpo a cuerpo y mezcla hechizos. Un arma a dos manos lenta con Windfury Weapon da los grandes golpes, mientras Stormstrike y Maelstrom Weapon añaden Lightning Bolt a la rotación. Los tótems te hacen bienvenido en cualquier grupo. Esta guía cubre la build de nivel 60, los talentos clave, la rotación, los tótems, el maná, tanquear, los stats y las razas.
 
 | | |
 |---|---|
 | Rol | Daño cuerpo a cuerpo, un objetivo y grupos, tanque en las primeras mazmorras |
-| Build a nivel 30 | 21 puntos en Enhancement, Talented añade Mental Quickness 2/2, Improved Stormstrike 2/2 y Maelstrom Weapon 1/5 |
+| Build a nivel 60 | 17/34/0 |
 | Talentos clave | Mental Dexterity, Shamanistic Focus, Flurry, Stormstrike, Improved Stormstrike, Maelstrom Weapon |
 | Fortalezas | Daño sólido, tótems para toda la raid, mucha utilidad |
 | Debilidades | Maná, dependencia del arma, pocas opciones defensivas |
@@ -56,26 +58,45 @@ El Enhancement Shaman de WoW Forever lucha cuerpo a cuerpo y mezcla hechizos. Un
 
 **Pocas defensas.** Sin control duro y sin un enfriamiento defensivo real. Stoneskin Totem y tu propia curación tienen un límite.
 
-## La build de nivel 30
+## Builds para nivel 60
 
-La beta se detuvo en el nivel 30, así que la build usa 21 puntos. Talented del sistema Legacy añade 5 más. [Abre la build en la calculadora de talentos](/es/talents/shaman/?t=-052031310051).
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+### Build de banda, 17/34/0
+
+17 puntos en Elemental y 34 en Enhancement. [Abre la build de banda en la calculadora de talentos](/es/talents/shaman/?t=053303102-053030310051212251).
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/shaman/?t=05330310201-0530303100212122-053).
 
 | Talento | Puntos |
 |---|---|
+| **Concussion** | 5/5 |
+| **Elemental Devastation** | 3/3 |
+| **Reverberation** | 3/5 |
+| **Call of Flame** | 3/3 |
+| **Elemental Focus** | 1/1 |
+| **Trial by Fire** | 2/2 |
 | **Thundering Strikes** | 5/5 |
-| **Ancestral Knowledge** | 2/5 |
+| **Ancestral Knowledge** | 3/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
+| **Improved Ghost Wolf** | 2/2 |
+| **Spirit Weapons** | 1/1 |
+| **Mental Quickness** | 2/2 |
+| **Improved Stormstrike** | 2/2 |
+| **Maelstrom Weapon** | 5/5 |
+| **Rage of the Farseer** | 1/1 |
 
-[Abre la versión Talented](/es/talents/shaman/?t=-05203131005100221) con Mental Quickness 2/2, Improved Stormstrike 2/2 y Maelstrom Weapon 1/5.
+### Build para subir de nivel, 19/32/0
 
-![La build Talented del Enhancement Shaman en nuestra calculadora de talentos](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/shaman/?t=45300310201-053030310051012251). La [build de nivel del Shaman](/es/leveling/shaman/) da el talento de cada nivel.
 
-Nuestra [guía de leveling de Shaman](/es/guides/shaman-leveling/) usa la misma build y explica el camino hasta el nivel 30.
+### Build de PvP, 18/26/7
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/shaman/?t=05350310001-2502300130212122-050002).
 
 ## Qué hacen los talentos clave
 
@@ -91,9 +112,9 @@ Nuestra [guía de leveling de Shaman](/es/guides/shaman-leveling/) usa la misma 
 | **Mental Quickness** | Daño de hechizos y curación igual al 30% de tu Intellect |
 | **Improved Stormstrike** | Stormstrike da un 50% de regeneración de maná al lanzar durante 15 segundos. Una esquiva o parada reinicia su enfriamiento |
 | **Maelstrom Weapon** | Los golpes cuerpo a cuerpo pueden reducir el tiempo de lanzamiento y el coste de maná de tu siguiente Lightning Bolt, hasta 5 acumulaciones. 4% por acumulación a 1/5, 20% por acumulación a 5/5 |
-| **Rage of the Farseer** | El talento inferior del árbol: 30% más de velocidad de ataque durante 25 segundos, enfriamiento de 3 minutos. Fuera de alcance a nivel 30 |
+| **Rage of the Farseer** | El talento inferior del árbol: 30% más de velocidad de ataque durante 25 segundos, enfriamiento de 3 minutos |
 
-Maelstrom Weapon necesita muchos puntos antes de dar un Lightning Bolt gratis e instantáneo. Con 1/5 en la build Talented, 5 acumulaciones solo quitan un 20%.
+Maelstrom Weapon necesita muchos puntos antes de dar un Lightning Bolt gratis e instantáneo.
 
 ## Rotación
 

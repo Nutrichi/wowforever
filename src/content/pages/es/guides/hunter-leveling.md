@@ -1,7 +1,7 @@
 ---
 title: "Subir un Hunter en WoW Forever: la guía"
-metaTitle: "Guía de subida del Hunter en WoW Forever: builds de Beast Mastery, Marksmanship y Survival hasta el 30"
-description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, tres builds de nivel 30 para Beast Mastery, Marksmanship y Survival con el orden de talentos, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
+metaTitle: "Guía de subida del Hunter en WoW Forever: builds de Beast Mastery, Marksmanship y Survival hasta el 60"
+description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, builds de nivel 60 para Beast Mastery, Marksmanship y Survival, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
 short: "Subir un Hunter"
 updated: 2026-11-07
 lang: es
@@ -17,8 +17,8 @@ faq:
     a: "Summon Hawk en Beast Mastery, Lone Wolf, Careful Aim, Rapid Killing y Rapid Recuperation en Marksmanship, y Strider Kick, Expose Prey, Predator's Edge y Lacerating Strikes en Survival. Aimed Shot se aprende ahora en el instructor a nivel 20. Las mascotas también reciben los buffs de Camping."
   - q: "¿Qué profesiones le van a un Hunter?"
     a: "Skinning con Leatherworking, por el buen equipo de subida ligado y un buff de campamento del 2% de probabilidad de crítico. Cooking es imprescindible para todas las clases, por el buff de experiencia y tu propia hoguera. Los ingenieros fabrican miras para tu arma a distancia."
-  - q: "¿Hay ya una build de nivel 60?"
-    a: "No en esta guía: sus builds llegan al nivel 30, donde terminaba la beta. Nuestra build de subida del Hunter da un talento para cada nivel hasta el 35."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. La build de nivel del Hunter da un talento por cada nivel hasta el 60, y cada guía de especialización tiene builds para bandas, subir de nivel y PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/hunter-leveling/"
@@ -33,14 +33,11 @@ El Hunter es una de las clases más fuertes para subir de nivel. Haces daño a d
 | Débil en | Un comienzo lento hasta el nivel 10, el maná y la munición |
 | Orden de talentos por nivel | [Build de subida del Hunter](/es/leveling/hunter/) |
 | Guías por spec | [Beast Mastery Hunter](/es/guides/beast-mastery-hunter/), [Marksmanship Hunter](/es/guides/marksmanship-hunter/), [Survival Hunter](/es/guides/survival-hunter/) |
-| Builds hasta nivel 60 | Todavía no, la [build de subida](/es/leveling/hunter/) llega al 35 |
+| Builds hasta nivel 60 | Sí, la [build de subida](/es/leveling/hunter/) llega al 60 |
 
 ## Con qué spec subir
 
 Los tres árboles sirven para subir. **Beast Mastery** es el más fluido: tu mascota hace más daño y aguanta más, y con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2649"><img class="wf-wh__icon" src="/wh/ability_physical_taunt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Growl</a> mantiene al monstruo sobre ella mientras disparas. **Marksmanship** hace más daño con tus propios disparos, así que robas la amenaza más a menudo y tienes que kitear. **Survival** mezcla cuerpo a cuerpo, trampas y disparos, y es la que más exige.
-
-Los Hunters también se manejan bien contra monstruos de unos niveles más, gracias a su alcance y a <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. Las builds de abajo se hicieron en la beta, que terminaba en el nivel 30, con 21 puntos. Talented, del sistema Legacy, da 5 puntos más, y alcanzas cada talento hasta cinco niveles antes. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo.
-
 ## Niveles 1 a 10
 
 Empiezas sin talentos y sin mascota, con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=75"><img class="wf-wh__icon" src="/wh/ability_whirlwind.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Auto Shot</a> y Raptor Strike. Los monstruos te alcanzan rápido, así que a menudo los rematas cuerpo a cuerpo.
@@ -55,99 +52,11 @@ Empiezas sin talentos y sin mascota, con <a class="wf-wh wf-spell" href="https:/
 
 Empieza cada pull desde lo más lejos posible: cada metro de más es un disparo más. Stats a estos niveles: Agility, luego poder de ataque, luego Intellect, luego Stamina y Spirit, luego armadura.
 
-## Build de Beast Mastery de nivel 30
+## Builds de talentos
 
-La build recomendada para subir. Tu mascota pega más fuerte y aguanta más, con algo de maná y velocidad extra. [Abrir la build en la calculadora de talentos](/es/talents/hunter/?t=532002050211).
+La [build de nivel del Hunter](/es/leveling/hunter/) da el talento de cada nivel del 10 al 60. [Abre el resultado final en la calculadora de talentos](/es/talents/hunter/?t=5120221405101241-00503520005).
 
-| Talento | Puntos |
-|---|---|
-| **Deadly Aspects** | 5/5 |
-| **Endurance Training** | 3/5 |
-| **Focused Fire** | 2/2 |
-| **Pathfinding** | 2/2 |
-| **Unleashed Fury** | 5/5 |
-| **Ferocity** | 2/5 |
-| **Summon Hawk** | 1/1 |
-| **Spirit Bond** | 1/2 |
-
-Orden: Deadly Aspects del 10 al 14, Focused Fire en 15 y 16, Pathfinding en 17 y 18, Endurance Training en 19, Unleashed Fury del 20 al 24, Ferocity del 25 al 28, Summon Hawk en 29 y Spirit Bond en 30.
-
-¿Todo para la mascota? Coge <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19596"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bestial Swiftness</a> y más puntos en Ferocity. Con los 5 puntos de Talented también coges <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19577"><img class="wf-wh__icon" src="/wh/ability_devour.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Intimidation</a> y un punto en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19621"><img class="wf-wh__icon" src="/wh/inv_misc_monsterclaw_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frenzy</a>.
-
-1. Mantén <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13165"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Hawk</a>.
-2. Manda a tu mascota y empieza con Auto Shot.
-3. Lanza Serpent Sting.
-4. Lanza Summon Hawk cada vez que esté listo, cuando lo tengas.
-5. Lanza Arcane Shot cuando haya dos halcones con al menos 6 segundos restantes. Summon Hawk y Arcane Shot comparten reutilización.
-6. Lanza Aimed Shot cada vez que esté listo.
-7. Lanza <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3045"><img class="wf-wh__icon" src="/wh/ability_hunter_runningshot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Fire</a> cada vez que esté listo.
-8. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2974"><img class="wf-wh__icon" src="/wh/ability_rogue_trip.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wing Clip</a>, Concussive Shot o Frost Trap cuando un monstruo vaya a por ti.
-
-Stats: Agility, poder de ataque, crítico, Intellect, Stamina y Spirit, Strength, armadura.
-
-## Build de Marksmanship de nivel 30
-
-El máximo daño de tus propios disparos, sin renunciar a tu mascota. La mascota retiene peor la amenaza, así que atraes monstruos más a menudo y tienes que kitear. Deja de lado el nuevo talento <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=415370"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lone Wolf</a> mientras subes: un 20% más de daño no compensa perder la mascota. [Abrir la build en la calculadora de talentos](/es/talents/hunter/?t=-00503520015).
-
-| Talento | Puntos |
-|---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19426"><img class="wf-wh__icon" src="/wh/ability_searingarrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lethal Attacks</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19416"><img class="wf-wh__icon" src="/wh/spell_frost_wizardmark.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Efficiency</a>** | 3/5 |
-| **Careful Aim** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=415405"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidkilling.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Killing</a>** | 2/2 |
-| **Trueshot Aura** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19485"><img class="wf-wh__icon" src="/wh/ability_piercedamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mortal Shots</a>** | 5/5 |
-
-Orden: Lethal Attacks del 10 al 14, Careful Aim del 15 al 19, Efficiency del 20 al 22, Rapid Killing en 23 y 24, Mortal Shots del 25 al 29 y Trueshot Aura en 30.
-
-Efficiency abarata tus disparos. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> te deja regenerar maná mientras lanzas y ahorra mucho beber, pero está muy abajo en el árbol: lo consigues como pronto en el nivel 30, así que solo cuenta desde el nivel 30. ¿Robas la amenaza demasiado? Coge <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> y Scatter Shot para más control. Los 5 puntos de Talented dejan sitio para eso sin perder mucho daño.
-
-1. Mantén Aspect of the Hawk y Trueshot Aura.
-2. Manda a tu mascota y empieza con Auto Shot.
-3. Lanza Serpent Sting.
-4. Lanza Arcane Shot cada vez que esté listo.
-5. Lanza Aimed Shot cada vez que esté listo.
-6. Lanza Rapid Fire cada vez que esté listo.
-7. Wing Clip, Concussive Shot o Frost Trap cuando un monstruo vaya a por ti.
-
-Stats: Agility, poder de ataque, crítico, Intellect, Stamina y Spirit, Strength, armadura.
-
-## Build de Survival de nivel 30
-
-Survival alterna cuerpo a cuerpo, trampas y disparos. Es difícil cuando un monstruo va a por ti: volver a distancia lleva tiempo. A cambio tienes más control y más defensa. [Abrir la build en la calculadora de talentos](/es/talents/hunter/?t=--5032002300501).
-
-| Talento | Puntos |
-|---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24293"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Tracking</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19184"><img class="wf-wh__icon" src="/wh/spell_nature_stranglevines.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Entrapment</a>** | 3/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19159"><img class="wf-wh__icon" src="/wh/ability_racial_bloodrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savage Strikes</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19239"><img class="wf-wh__icon" src="/wh/spell_nature_timestop.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Clever Traps</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19290"><img class="wf-wh__icon" src="/wh/ability_kick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Surefooted</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310627"><img class="wf-wh__icon" src="/wh/ability_dualwield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Predator's Edge</a>** | 5/5 |
-| **Resourcefulness** | 1/2 |
-
-Orden: Improved Tracking del 10 al 14, Savage Strikes en 15 y 16, Entrapment del 17 al 19, Surefooted del 20 al 22, Clever Traps en 23 y 24, Predator's Edge del 25 al 29 y Resourcefulness en 30.
-
-Puedes jugarla de dos formas: alternar disparos y cuerpo a cuerpo, o luchar solo cuerpo a cuerpo. Con los 5 puntos de Talented también coges Strider Kick y Expose Prey.
-
-**Alternar cuerpo a cuerpo y distancia**
-1. Mantén Aspect of the Hawk o <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13161"><img class="wf-wh__icon" src="/wh/ability_mount_pinktiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Beast</a>, y el rastreo adecuado para el tipo de monstruo.
-2. Manda a tu mascota y empieza con Auto Shot.
-3. Lanza Serpent Sting, Arcane Shot y Aimed Shot.
-4. Lanza Rapid Fire cada vez que esté listo.
-5. Ve al cuerpo a cuerpo y lanza Raptor Strike, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13795"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Immolation Trap</a>, Mongoose Bite cuando se ilumine y Strider Kick si lo tienes.
-6. Retrocede y vuelve a disparar.
-7. Wing Clip, Concussive Shot o Frost Trap cuando robes la amenaza.
-
-**Solo cuerpo a cuerpo**
-1. Mantén Aspect of the Beast y el rastreo adecuado.
-2. Manda a tu mascota, empieza con Auto Shot, lanza Serpent Sting y Arcane Shot, y Rapid Fire cada vez que esté listo.
-3. Ve al cuerpo a cuerpo y usa Raptor Strike, Immolation Trap, Mongoose Bite y Strider Kick cada vez que estén listos.
-4. Wing Clip, Concussive Shot o Frost Trap cuando tengas que kitear.
-
-Stats: Agility, poder de ataque, crítico, Strength, Intellect, Stamina y Spirit, armadura.
-
-![Una Night Elf Hunter con un arco y un lobo oscuro en una colina frente a una casa Night Elf](../../../../assets/posts/2026-10-19-wow-forever-night-elf-hunter-and-wolf.jpg)
+Para el nivel 60, cada guía de especialización tiene sus propias builds para bandas, subir de nivel y PvP: [Beast Mastery](/es/guides/beast-mastery-hunter/), [Survival](/es/guides/survival-hunter/) y [Marksmanship](/es/guides/marksmanship-hunter/).
 
 ## Niveles clave
 

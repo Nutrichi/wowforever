@@ -20,6 +20,8 @@ faq:
   - q: "¿Qué raza es mejor para un Survival Hunter?"
     a: "Skyborne en ambos bandos, por la bonificación de celeridad. Human para la Alianza y Orc para la Horda son buenas alternativas. Las diferencias son pequeñas."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/survival-hunter/"
 ---
@@ -48,37 +50,42 @@ El Survival Hunter de WoW Forever lucha a distancia y cuerpo a cuerpo. Intercala
 
 **La zona muerta.** Entre el alcance cuerpo a cuerpo y 8 metros no puedes usar ni cuerpo a cuerpo ni distancia. Survival también tiene ese problema.
 
-## La build de nivel 60: 5/13/33
+## Builds para nivel 60
 
-La beta se detuvo en el nivel 30, pero los árboles de talentos del nivel 60 están en los archivos del juego. Comprobamos esta build punto por punto en [nuestra calculadora de talentos](/es/talents/hunter/?t=5-005005201-530200230050222151): 5 puntos en Beast Mastery, 13 en Marksmanship y 33 en Survival, 51 en total.
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+### Build de banda, 16/4/31
+
+16 puntos en Beast Mastery, 4 en Marksmanship y 31 en Survival. [Abre la build de banda en la calculadora de talentos](/es/talents/hunter/?t=51202005001-004-500230230050022151).
 
 | Talento | Puntos |
 |---|---|
-| **Deadly Aspects** (Beast Mastery) | 5/5 |
-| **Lethal Attacks** (Marksmanship) | 5/5 |
-| **Careful Aim** (Marksmanship) | 5/5 |
-| **Rapid Killing** (Marksmanship) | 2/2 |
-| **Lone Wolf** (Marksmanship) | 1/1 |
+| **Deadly Aspects** | 5/5 |
+| **Endurance Training** | 1/5 |
+| **Focused Fire** | 2/2 |
+| **Improved Revive Pet** | 2/2 |
+| **Unleashed Fury** | 5/5 |
+| **Summon Hawk** | 1/1 |
+| **Lethal Attacks** | 4/5 |
 | **Improved Tracking** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19295"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
 | **Savage Strikes** | 2/2 |
+| **Survivalist** | 3/5 |
 | **Clever Traps** | 2/2 |
 | **Surefooted** | 3/3 |
 | **Predator's Edge** | 5/5 |
-| **Resourcefulness** | 2/2 |
 | **Expose Prey** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310496"><img class="wf-wh__icon" src="/wh/ability_hunter_mastertactitian.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Survivalist's Discipline</a>** | 2/2 |
+| **Survivalist's Discipline** | 2/2 |
 | **Strider Kick** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a>** | 5/5 |
+| **Lightning Reflexes** | 5/5 |
 | **Lacerating Strikes** | 1/1 |
 
-![La build 5/13/33 del Survival Hunter en nuestra calculadora de talentos](../../../../assets/posts/2026-10-25-wow-forever-survival-hunter-build.jpg)
+### Build para subir de nivel, 31/20/0
 
-Tres elecciones se pueden mover:
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/hunter/?t=5120221405101241-00503520005). La [build de nivel del Hunter](/es/leveling/hunter/) da el talento de cada nivel.
 
-- **Lone Wolf** a 1 punto en **Efficiency** o **Improved Stings** si quieres conservar la mascota, por ejemplo mientras haces misiones.
-- **Rapid Killing** a 2 puntos en **Efficiency** o **Improved Stings** si no necesitas Rapid Fire más a menudo y prefieres Stings más baratas o más fuertes.
-- **Deadly Aspects** a 2 puntos en **Efficiency** o **Improved Stings** más 3 puntos en **Mortal Shots**.
+### Build de PvP, 16/0/35
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/hunter/?t=50230014001--502203031051222151).
 
 ## Qué hacen los talentos clave
 

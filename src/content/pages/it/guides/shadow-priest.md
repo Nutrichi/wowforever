@@ -18,8 +18,10 @@ faq:
   - q: "Qual è la razza migliore per uno Shadow Priest?"
     a: "Dwarf per l’Alleanza e Troll per l’Orda quando il boss è una Bestia, perché entrambi infliggono il 5% di danni in più alle Bestie. Altrimenti Human e Undead si equivalgono. Le differenze sono minime, quindi scegli la razza che ti piace."
   - q: "Questa build è definitiva?"
-    a: "No. Usa i talenti della build della beta del 15 ottobre per il livello 60. La beta si fermava al livello 30, quindi questi talenti non sono mai stati provati al livello 60 e possono ancora cambiare."
+    a: "No."
 sources:
+  - name: "Wowhead, build dei talenti"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/shadow/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shadow-priest/"
 ---
@@ -28,7 +30,7 @@ Lo Shadow Priest di WoW Forever infligge danni d’Ombra con due incantesimi di 
 | | |
 |---|---|
 | Ruolo | Danni nel tempo a distanza, con cure di gruppo tramite Vampiric Embrace |
-| Build per il livello 60 | 14/3/34, con i talenti della build della beta del 15 ottobre |
+| Build per il livello 60 | 15/3/33 |
 | Talenti chiave | Mind Flay, Improved Mind Flay, Vampiric Embrace, Shadow Weaving, Silence, Shadowform |
 | Punti forti | Mana ottimo, cure di gruppo che non si fermano mai |
 | Punti deboli | Quasi nessuna mobilità, avvio lento, debole contro più di quattro bersagli |
@@ -54,16 +56,21 @@ Lo Shadow Priest di WoW Forever infligge danni d’Ombra con due incantesimi di 
 | DoT e incantesimi di burst si incastrano senza una rotazione complicata | Pochi danni diretti contro più di quattro bersagli |
 | Silence, Psychic Scream e Dispel Magic come utilità | Nessuna cura in Shadowform |
 
-## La build di livello 60 (14/3/34)
+## Build per il livello 60
 
-Questa build usa tutti i 51 punti del livello 60. Quattordici vanno in Discipline per Twin Disciplines, Inner Focus e Meditation, tre in Holy per Twilight Focus, e il resto in Shadow fino a Shadowform. [Apri la build nel calcolatore dei talenti](/it/talents/priest/?t=00530200103-3-50042201251312051).
+Tre build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ogni build si apre nel nostro calcolatore di talenti.
+
+### Build da raid, 15/3/33
+
+15 punti in Discipline, 3 in Holy e 33 in Shadow. [Apri la build da raid nel calcolatore di talenti](/it/talents/priest/?t=00530400003-3-50042201251302051).
+
+Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/talents/priest/?t=00530200003--50542201251302051).
 
 | Talento | Punti |
 |---|---|
 | **Twin Disciplines** | 5/5 |
 | **Silent Resolve** | 3/3 |
-| **Mental Strength** | 2/5 |
-| **Inner Focus** | 1/1 |
+| **Mental Strength** | 4/5 |
 | **Meditation** | 3/3 |
 | **Twilight Focus** | 3/3 |
 | **Shadow Focus** | 5/5 |
@@ -75,20 +82,17 @@ Questa build usa tutti i 51 punti del livello 60. Quattordici vanno in Disciplin
 | **Dark Inspiration** | 5/5 |
 | **Vampiric Embrace** | 1/1 |
 | **Shadow Weaving** | 3/3 |
-| **Silence** | 1/1 |
 | **Devouring Contagion** | 2/2 |
 | **Darkness** | 5/5 |
 | **Shadowform** | 1/1 |
 
-![La build 14/3/34 dello Shadow Priest nel nostro calcolatore dei talenti](../../../../assets/posts/2026-10-21-wow-forever-shadow-priest-build.jpg)
+### Build per livellare, 16/0/35
 
-**Punti liberi.** Alcuni punti si possono spostare senza perdere molto:
+La build per livellare prende prima i talenti che aiutano a uccidere da soli. [Aprila nel calcolatore di talenti](/it/talents/priest/?t=00500520103--50542201201302251). La [build di leveling del Priest](/it/leveling/priest/) dà il talento per ogni livello.
 
-- Inner Focus fa poco per Shadow. Il suo punto può andare altrove.
-- Devouring Contagion aiuta solo se i bersagli muoiono con Devouring Plague addosso. In incursione il mana manca di rado, quindi uno o due punti possono andarsene.
-- Altri punti in Early Demise o Mental Strength sono piccoli guadagni.
-- Spirit Tap aiuta molto nei dungeon, dove i nemici muoiono di continuo, e poco nelle incursioni.
-- Se la tua incursione ti chiede di dissipare i nemici, un punto in Holy Precision fa mancare meno Dispel Magic.
+### Build PvP, 16/3/32
+
+La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel calcolatore di talenti](/it/talents/priest/?t=00530020033-3-55002221201312051).
 
 ## Cosa fanno i talenti chiave
 

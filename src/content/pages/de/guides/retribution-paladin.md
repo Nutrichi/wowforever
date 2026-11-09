@@ -1,7 +1,7 @@
 ---
 title: "Retribution Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Retribution Paladin: Build, Rotation und Siegel"
-description: "Der Retribution Paladin in WoW Forever: der Build für Level 30 und die Talented-Version, die Rotation mit Seal of Command, Judgements, Segen, Werte und Völker."
+description: "Der Retribution Paladin in WoW Forever: der Build für Level 60, die Rotation mit Seal of Command, Judgements, Segen, Werte und Völker."
 short: "Retribution Paladin"
 updated: 2026-11-07
 lang: de
@@ -15,18 +15,20 @@ faq:
     a: "Zuerst Trefferwertung, damit Angriffe und Zauber sitzen, dann kritische Trefferchance, Stärke und Angriffskraft, und Zaubermacht. Champion of the Light wandelt Intelligenz in Zaubermacht um, daher ist Intelligenz mehr wert als in Classic."
   - q: "Welches Volk ist für einen Retribution Paladin am besten?"
     a: "Human für die Alliance, wegen der zusätzlichen kritischen Trefferchance. Dwarf hat Stoneform, eine starke defensive Abklingzeit. Paladins der Horde sind immer Undead."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/retribution/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/retribution-paladin/"
 ---
-Der Retribution Paladin in WoW Forever ist der heilige Krieger mit der großen Zweihandwaffe. Du schlägst langsam, aber hart zu, wirkst zwischendurch ein paar Zauber, und fast alles skaliert jetzt mit Zaubermacht. Du drückst nicht in jeder globalen Abklingzeit eine Taste, aber Judgement, Holy Strike und Consecration halten dich beschäftigt. Dieser Guide behandelt den Build für Level 30, die Rotation, Siegel, Segen, Werte und Völker.
+Der Retribution Paladin in WoW Forever ist der heilige Krieger mit der großen Zweihandwaffe. Du schlägst langsam, aber hart zu, wirkst zwischendurch ein paar Zauber, und fast alles skaliert jetzt mit Zaubermacht. Du drückst nicht in jeder globalen Abklingzeit eine Taste, aber Judgement, Holy Strike und Consecration halten dich beschäftigt. Dieser Guide behandelt den Build für Level 60, die Rotation, Siegel, Segen, Werte und Völker.
 
 | | |
 |---|---|
 | Rolle | Nahkampfschaden mit einer langsamen Zweihandwaffe |
-| Build auf Level 30 | 21 Punkte in Retribution, Talented fügt Two-Handed Weapon Specialization und Vengeance hinzu |
+| Build auf Level 60 | 14/6/31 |
 | Wichtigste Talente | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Unsealed Wrath |
 | Stärken | Nutzen für die Gruppe, sehr schwer zu töten, große Schadensspitzen |
 | Schwächen | Langsam am Ziel, Mana kann ausgehen |
@@ -42,28 +44,43 @@ Der Retribution Paladin in WoW Forever ist der heilige Krieger mit der großen Z
 
 **Mana.** Du baust vor einem Kampf keine Ressource auf, aber Mana kann ausgehen. Sanctified Judgement helfen, und Judgement of Wisdom hilft der ganzen Gruppe.
 
-## Der Build für Level 30
+## Builds für Level 60
 
-Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem Legacy-System gibt 5 dazu. [Öffne den Build im Talentrechner](/de/talents/paladin/?t=--502330212011001).
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 14/6/31
+
+14 Punkte in Holy, 6 in Protection und 31 in Retribution. [Raid-Build im Talentrechner öffnen](/de/talents/paladin/?t=050250002-501-05233011201301351).
 
 | Talent | Punkte |
 |---|---|
-| **Deflection** | 5/5 |
+| **Divine Strength** | 5/5 |
+| **Reverence** | 2/2 |
+| **Improved Seals** | 5/5 |
+| **Holy Conduit** | 2/2 |
+| **Divine Intellect** | 5/5 |
+| **Precision** | 1/3 |
+| **Benediction** | 5/5 |
 | **Improved Judgement** | 2/2 |
 | **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
-| **Unyielding Faith** | 2/2 |
+| **Unyielding Faith** | 1/2 |
 | **Seal of Command** | 1/1 |
 | **Pursuit of Justice** | 2/2 |
 | **Sacred Arbiter** | 1/1 |
-| **Two-Handed Weapon Specialization** | 1/3 |
-| **Vengeance** | 1/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
+| **Repentance** | 1/1 |
+| **Vengeance** | 3/3 |
+| **Champion of the Light** | 5/5 |
+| **Unsealed Wrath** | 1/1 |
 
-[Öffne die Talented-Version](/de/talents/paladin/?t=--512330212013003) mit Benediction 1/5, Two-Handed Weapon Specialization 3/3 und Vengeance 3/3.
+### Leveling-Build, 0/31/20
 
-![Der Talented-Build des Retribution Paladin in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-retribution-paladin-build.jpg)
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/paladin/?t=-55300102113001531-05233301201). Der [Level-Build für den Paladin](/de/leveling/paladin/) gibt das Talent für jedes Level.
 
-**Benediction statt Deflection.** Deflection gibt nur Parieren. Geht dir in langen Kämpfen das Mana aus, setz diese 5 Punkte in Benediction: Spontanzauber und Fähigkeiten kosten dann 10 % weniger Mana.
+### PvP-Build, 12/6/33
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/paladin/?t=05025-501-50233011221301351).
 
 ## Was die wichtigsten Talente tun
 
@@ -80,7 +97,7 @@ Die Beta endete auf Level 30, daher nutzt der Build 21 Punkte. Talented aus dem 
 | **Champion of the Light** | Zauberschaden in Höhe von bis zu 30 % deiner Intelligenz |
 | **Unsealed Wrath** | Nahkampfangriffe speichern dein Seal, bis zu 3 Mal. Ein Treffer mit einem anderen Seal verbraucht die Stapel für zusätzliche Chancen |
 
-Champion of the Light und Unsealed Wrath stehen in Reihe 6 und 7, auf Level 30 außer Reichweite. Sie sind der Grund, nach Level 30 im Baum weiterzugehen.
+Champion of the Light und Unsealed Wrath stehen in Reihe 6 und 7.
 
 ## Rotation
 

@@ -19,6 +19,8 @@ faq:
   - q: "Which race is best for a Marksmanship Hunter?"
     a: "Skyborne on both sides, for the haste bonus. Human for the Alliance and Orc for the Horde are strong alternatives. The differences are small."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/marksmanship/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/marksmanship-hunter/"
 ---
@@ -47,14 +49,17 @@ The Marksmanship Hunter in WoW Forever is the sharpshooter. You can play with a 
 
 **The dead zone.** Between melee range and 8 yards you can use neither melee nor ranged attacks.
 
-## The level 60 build: 5/46/0
+## Builds for level 60
 
-The beta stopped at level 30, but the talent trees for level 60 are in the game files. We checked this build point for point in [our talent calculator](/talents/hunter/?t=5-30535525115023051): 5 points in Beast Mastery and 46 in Marksmanship, 51 in total.
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 5/41/5
+
+5 points in Beast Mastery, 41 in Marksmanship and 5 in Survival. [Open the raid build in the talent calculator](/talents/hunter/?t=5-00535525115021051-5).
 
 | Talent | Points |
 |---|---|
-| **Deadly Aspects** (Beast Mastery) | 5/5 |
-| **Hawk Eye** | 3/3 |
+| **Deadly Aspects** | 5/5 |
 | **Lethal Attacks** | 5/5 |
 | **Improved Stings** | 3/3 |
 | **Efficiency** | 5/5 |
@@ -65,16 +70,18 @@ The beta stopped at level 30, but the talent trees for level 60 are in the game 
 | **Trueshot Aura** | 1/1 |
 | **Mortal Shots** | 5/5 |
 | **Rapid Recuperation** | 2/2 |
-| **Barrage** | 3/3 |
+| **Barrage** | 1/3 |
 | **Ranged Weapon Specialization** | 5/5 |
 | **Sniper Shot** | 1/1 |
+| **Improved Tracking** | 5/5 |
 
-![The Marksmanship Hunter build 5/46/0 in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-marksmanship-hunter-build.jpg)
+### Leveling build, 31/20/0
 
-Two points can move:
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/hunter/?t=5120221405101241-00503520005). The [Hunter level build](/leveling/hunter/) gives the talent for every level.
 
-- **Lone Wolf** to 1 point in **Improved Tracking** (Survival) if you want to keep your pet, for example while questing.
-- **Hawk Eye** to 3 points in **Improved Tracking** if you do not need the extra range and want more damage.
+### PvP build, 0/40/11
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/hunter/?t=-05530505115003151-500050001).
 
 ## What the key talents do
 

@@ -1,7 +1,7 @@
 ---
 title: "Hunter levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Hunter-levelgids: builds voor Beast Mastery, Marksmanship en Survival tot 30"
-description: "Een Hunter levelen in WoW Forever: de eerste levels, drie builds voor level 30 voor Beast Mastery, Marksmanship en Survival met talentvolgorde, de rotatie, de belangrijke levels, de temquest, wapens, gear, beroepen, pets, traps, tracking en Aspects."
+metaTitle: "WoW Forever Hunter-levelgids: builds voor Beast Mastery, Marksmanship en Survival tot 60"
+description: "Een Hunter levelen in WoW Forever: de eerste levels, builds voor level 60 voor Beast Mastery, Marksmanship en Survival, de rotatie, de belangrijke levels, de temquest, wapens, gear, beroepen, pets, traps, tracking en Aspects."
 short: "Hunter levelen"
 updated: 2026-11-07
 lang: nl
@@ -17,8 +17,8 @@ faq:
     a: "Summon Hawk in Beast Mastery, Lone Wolf, Careful Aim, Rapid Killing en Rapid Recuperation in Marksmanship, en Strider Kick, Expose Prey, Predator's Edge en Lacerating Strikes in Survival. Aimed Shot leer je nu op level 20 bij de trainer. Pets krijgen ook de buffs van Camping."
   - q: "Welk beroeps passen bij een Hunter?"
     a: "Skinning met Leatherworking, voor sterke soulbound levelgear en een kampbuff van 2% critical strike chance. Cooking is een must voor elke class, voor de experiencebuff en je eigen kampvuur. Engineers maken scopes voor je afstandswapen."
-  - q: "Is er al een build voor level 60?"
-    a: "Niet uit deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Hunter geeft een talent voor elk level tot 35."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. De levelbuild voor de Hunter geeft een talent voor elk level tot 60, en elke specgids heeft builds voor raids, levelen en PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/hunter-leveling/"
@@ -33,14 +33,11 @@ De Hunter is een van de sterkste classes om te levelen. Je doet schade van afsta
 | Zwak in | Een trage start tot level 10, mana en munitie |
 | Talentvolgorde per level | [Levelbuild voor de Hunter](/nl/leveling/hunter/) |
 | Gidsen per spec | [Beast Mastery Hunter](/nl/guides/beast-mastery-hunter/), [Marksmanship Hunter](/nl/guides/marksmanship-hunter/), [Survival Hunter](/nl/guides/survival-hunter/) |
-| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/hunter/) gaat tot 35 |
+| Builds tot level 60 | Ja, de [levelbuild](/nl/leveling/hunter/) gaat tot 60 |
 
 ## Met welke spec levelen
 
 Alle drie de bomen levelen. **Beast Mastery** gaat het vlotst: je pet doet meer schade en overleeft meer, en met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2649"><img class="wf-wh__icon" src="/wh/ability_physical_taunt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Growl</a> houdt hij het monster op zich terwijl jij schiet. **Marksmanship** doet meer schade met je eigen schoten, dus trek je vaker threat en moet je kiten. **Survival** mengt melee, traps en schoten, en vraagt het meest van je.
-
-Hunters kunnen ook goed om met monsters een paar levels hoger, dankzij hun bereik en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13809"><img class="wf-wh__icon" src="/wh/spell_frost_freezingbreath.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Trap</a>. De builds hieronder zijn gemaakt op de beta, die stopte op level 30, met 21 punten. Talented uit het Legacy-systeem geeft 5 punten extra, en je bereikt elk talent tot vijf levels eerder. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
-
 ## Level 1 tot 10
 
 Je begint zonder talenten en zonder pet, met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=75"><img class="wf-wh__icon" src="/wh/ability_whirlwind.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Auto Shot</a> en Raptor Strike. Monsters bereiken je snel, dus vaak maak je ze in melee af.
@@ -55,99 +52,11 @@ Je begint zonder talenten en zonder pet, met <a class="wf-wh wf-spell" href="htt
 
 Begin elke pull van zo ver als je kunt: elke extra meter is een extra schot. Stats op deze levels: Agility, dan attack power, dan Intellect, dan Stamina en Spirit, dan armor.
 
-## Beast Mastery-build voor level 30
+## Talentbuilds
 
-De aangeraden build om te levelen. Je pet slaat harder en overleeft langer, met wat mana en snelheid erbij. [Open de build in de talentcalculator](/nl/talents/hunter/?t=532002050211).
+De [levelbuild voor de Hunter](/nl/leveling/hunter/) geeft het talent voor elk level van 10 tot 60. [Open het eindresultaat in de talentcalculator](/nl/talents/hunter/?t=5120221405101241-00503520005).
 
-| Talent | Punten |
-|---|---|
-| **Deadly Aspects** | 5/5 |
-| **Endurance Training** | 3/5 |
-| **Focused Fire** | 2/2 |
-| **Pathfinding** | 2/2 |
-| **Unleashed Fury** | 5/5 |
-| **Ferocity** | 2/5 |
-| **Summon Hawk** | 1/1 |
-| **Spirit Bond** | 1/2 |
-
-Volgorde: Deadly Aspects op 10 tot 14, Focused Fire op 15 en 16, Pathfinding op 17 en 18, Endurance Training op 19, Unleashed Fury op 20 tot 24, Ferocity op 25 tot 28, Summon Hawk op 29 en Spirit Bond op 30.
-
-Alles op de pet? Neem <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19596"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bestial Swiftness</a> en meer punten in Ferocity. Met de 5 punten van Talented krijg je ook <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19577"><img class="wf-wh__icon" src="/wh/ability_devour.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Intimidation</a> en een punt in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19621"><img class="wf-wh__icon" src="/wh/inv_misc_monsterclaw_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frenzy</a>.
-
-1. Houd <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13165"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Hawk</a> aan.
-2. Stuur je pet erop en start Auto Shot.
-3. Cast Serpent Sting.
-4. Cast Summon Hawk op cooldown, zodra je het hebt.
-5. Cast Arcane Shot als er twee hawks zijn met nog minstens 6 seconden. Summon Hawk en Arcane Shot delen een cooldown.
-6. Cast Aimed Shot op cooldown.
-7. Cast <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3045"><img class="wf-wh__icon" src="/wh/ability_hunter_runningshot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Fire</a> op cooldown.
-8. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2974"><img class="wf-wh__icon" src="/wh/ability_rogue_trip.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wing Clip</a>, Concussive Shot of Frost Trap als een monster zich tegen jou keert.
-
-Stats: Agility, attack power, critical strike, Intellect, Stamina en Spirit, Strength, armor.
-
-## Marksmanship-build voor level 30
-
-De meeste schade uit je eigen schoten, zonder je pet op te geven. De pet houdt de threat minder goed vast, dus trek je vaker monsters en moet je kiten. Sla het nieuwe talent <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=415370"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lone Wolf</a> over tijdens het levelen: 20% meer schade maakt het verlies van je pet niet goed. [Open de build in de talentcalculator](/nl/talents/hunter/?t=-00503520015).
-
-| Talent | Punten |
-|---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19426"><img class="wf-wh__icon" src="/wh/ability_searingarrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lethal Attacks</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19416"><img class="wf-wh__icon" src="/wh/spell_frost_wizardmark.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Efficiency</a>** | 3/5 |
-| **Careful Aim** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=415405"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidkilling.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Killing</a>** | 2/2 |
-| **Trueshot Aura** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19485"><img class="wf-wh__icon" src="/wh/ability_piercedamage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mortal Shots</a>** | 5/5 |
-
-Volgorde: Lethal Attacks op 10 tot 14, Careful Aim op 15 tot 19, Efficiency op 20 tot 22, Rapid Killing op 23 en 24, Mortal Shots op 25 tot 29 en Trueshot Aura op 30.
-
-Efficiency maakt je schoten goedkoper. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1223987"><img class="wf-wh__icon" src="/wh/ability_hunter_rapidregeneration.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rapid Recuperation</a> laat je mana regenereren tijdens het casten en scheelt veel drinken, maar het zit diep in de boom: je haalt het op zijn vroegst op level 30, dus het telt pas vanaf level 30. Trek je te vaak threat? Neem <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19407"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Concussive Shot</a> en Scatter Shot voor meer controle. De 5 punten van Talented geven daar ruimte voor zonder veel schade te verliezen.
-
-1. Houd Aspect of the Hawk en Trueshot Aura aan.
-2. Stuur je pet erop en start Auto Shot.
-3. Cast Serpent Sting.
-4. Cast Arcane Shot op cooldown.
-5. Cast Aimed Shot op cooldown.
-6. Cast Rapid Fire op cooldown.
-7. Wing Clip, Concussive Shot of Frost Trap als een monster zich tegen jou keert.
-
-Stats: Agility, attack power, critical strike, Intellect, Stamina en Spirit, Strength, armor.
-
-## Survival-build voor level 30
-
-Survival wisselt tussen melee, traps en schoten. Dat is lastig als een monster zich tegen jou keert: terug naar afstand kost tijd. In ruil krijg je meer controle en meer verdediging. [Open de build in de talentcalculator](/nl/talents/hunter/?t=--5032002300501).
-
-| Talent | Punten |
-|---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24293"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_black.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Tracking</a>** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19184"><img class="wf-wh__icon" src="/wh/spell_nature_stranglevines.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Entrapment</a>** | 3/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19159"><img class="wf-wh__icon" src="/wh/ability_racial_bloodrage.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savage Strikes</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19239"><img class="wf-wh__icon" src="/wh/spell_nature_timestop.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Clever Traps</a>** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19290"><img class="wf-wh__icon" src="/wh/ability_kick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Surefooted</a>** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310627"><img class="wf-wh__icon" src="/wh/ability_dualwield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Predator's Edge</a>** | 5/5 |
-| **Resourcefulness** | 1/2 |
-
-Volgorde: Improved Tracking op 10 tot 14, Savage Strikes op 15 en 16, Entrapment op 17 tot 19, Surefooted op 20 tot 22, Clever Traps op 23 en 24, Predator's Edge op 25 tot 29 en Resourcefulness op 30.
-
-Je kunt het op twee manieren spelen: wisselen tussen schoten en melee, of alleen in melee vechten. Met de 5 punten van Talented krijg je ook Strider Kick en Expose Prey.
-
-**Melee weave**
-1. Houd Aspect of the Hawk of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13161"><img class="wf-wh__icon" src="/wh/ability_mount_pinktiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Beast</a> aan, en de juiste Tracking voor het type monster.
-2. Stuur je pet erop en start Auto Shot.
-3. Cast Serpent Sting, Arcane Shot en Aimed Shot.
-4. Cast Rapid Fire op cooldown.
-5. Loop erheen en cast Raptor Strike, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13795"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Immolation Trap</a>, Mongoose Bite als het oplicht en Strider Kick als je het hebt.
-6. Stap terug en schiet opnieuw.
-7. Wing Clip, Concussive Shot of Frost Trap als je threat trekt.
-
-**Alleen melee**
-1. Houd Aspect of the Beast aan, en de juiste Tracking.
-2. Stuur je pet erop, start Auto Shot, cast Serpent Sting en Arcane Shot, en Rapid Fire op cooldown.
-3. Loop erheen en houd Raptor Strike, Immolation Trap, Mongoose Bite en Strider Kick op cooldown.
-4. Wing Clip, Concussive Shot of Frost Trap als je moet kiten.
-
-Stats: Agility, attack power, critical strike, Strength, Intellect, Stamina en Spirit, armor.
-
-![Een Night Elf Hunter met een boog en een donkere wolf op een heuvel voor een Night Elf-huis](../../../../assets/posts/2026-10-19-wow-forever-night-elf-hunter-and-wolf.jpg)
+Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: [Beast Mastery](/nl/guides/beast-mastery-hunter/), [Survival](/nl/guides/survival-hunter/) en [Marksmanship](/nl/guides/marksmanship-hunter/).
 
 ## Belangrijke levels
 

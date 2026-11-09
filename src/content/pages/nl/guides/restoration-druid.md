@@ -60,22 +60,44 @@ De Restoration Druid in WoW Forever blijft een healer die de schade voor is, met
 | De beste mobiliteit van alle healers | Geen dispel voor Magic of Disease |
 | Raiddebuffs | |
 
-## De standaardbuild
+## Builds voor level 60
 
-De meeste Restoration Druids zullen in bijna elke situatie een build spelen die hier sterk op lijkt, blijkt uit een bevraging onder spelers van de spec. Open hem in de [talentcalculator](/nl/talents/druid/?t=05102201--5553005123113051): 11 punten in Balance, 0 in Feral Combat en 40 in Restoration, samen 51 punten voor level 60.
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
 
-![De talentbomen van de Druid met 11 punten in Balance, 0 in Feral Combat en 40 in Restoration, de standaardbuild voor een Restoration Druid, in de talentcalculator van wowforever.be](../../../../assets/posts/2026-10-09-wow-forever-restoration-druid-build.jpg)
+### Raidbuild, 21/0/30
 
-| Boom | Talenten |
+21 punten in Balance en 30 in Restoration. [Open de raidbuild in de talentcalculator](/nl/talents/druid/?t=5530203110001--055300510311105).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/druid/?t=503222011550135--05530011001).
+
+| Talent | Punten |
 |---|---|
-| **Balance (11)** | Genesis 5, Moonglow 1, Nature's Majesty 2, Nature's Reach 2, Nature's Splendor 1 |
-| **Restoration (40)** | Nature's Focus 5, Heart of the Wild 5, Naturalist 5, Reflection 3, Gift of Nature 5, Bloom 1, Tranquil Spirit 2, Improved Rejuvenation 3, Swiftmend 1, Nature's Swiftness 1, Living Spirit 3, Improved Regrowth 5, Wild Growth 1 |
+| **Improved Wrath** | 5/5 |
+| **Genesis** | 5/5 |
+| **Moonglow** | 3/3 |
+| **Nature's Majesty** | 2/2 |
+| **Improved Entangling Roots** | 3/3 |
+| **Nature's Splendor** | 1/1 |
+| **Insect Swarm** | 1/1 |
+| **Nature's Grace** | 1/1 |
+| **Heart of the Wild** | 5/5 |
+| **Naturalist** | 5/5 |
+| **Reflection** | 3/3 |
+| **Gift of Nature** | 5/5 |
+| **Bloom** | 1/1 |
+| **Improved Rejuvenation** | 3/3 |
+| **Swiftmend** | 1/1 |
+| **Nature's Swiftness** | 1/1 |
+| **Living Spirit** | 1/3 |
+| **Improved Regrowth** | 5/5 |
 
-**Improved Regrowth** is nu een van de talenten met de meeste waarde per punt.
+### Levelbuild, 9/32/10
 
-**<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24968"><img class="wf-wh__icon" src="/wh/spell_holy_elunesgrace.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquil Spirit</a>** verloor waarde samen met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5185"><img class="wf-wh__icon" src="/wh/spell_nature_healingtouch.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Healing Touch</a>: de sterkere Regrowth en de straf op lagere ranks maken Healing Touch minder aantrekkelijk. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17123"><img class="wf-wh__icon" src="/wh/spell_nature_tranquility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Tranquility</a>** is een kleine buff voor een knop die al zwak was, en zal nauwelijks gebruikt worden.
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/druid/?t=050022-55200002123012125001-055). De [levelbuild voor de Druid](/nl/leveling/druid/) geeft het talent voor elk level.
 
-**Balance** mag je vrij invullen. Waar het om draait, is Nature's Splendor op het elfde punt, dat Moonfire, Rejuvenation en Regrowth langer laat duren. Sommige spelers nemen de verbeteringen aan <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5176"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrath</a> samen met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>, voor meer schade en meer kansen op Omen of Clarity.
+### PvP-build, 16/11/24
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/druid/?t=500222311-052021001-555330010011).
 
 ## Dual Specialization en andere builds
 

@@ -1,7 +1,7 @@
 ---
 title: "Feral Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Feral Druid: cat- en bearbuilds, rotatie, stats"
-description: "De Feral Druid in WoW Forever: vier builds voor level 60 (hybride, cat, bear en solo), Shifting Power en Primal Bite, de rotaties als cat en bear, stats en races."
+description: "De Feral Druid in WoW Forever: builds voor level 60 voor raids, levelen en PvP, Shifting Power en Primal Bite, de rotaties als cat en bear, stats en races."
 short: "Feral Druid"
 updated: 2026-10-31
 lang: nl
@@ -19,9 +19,11 @@ faq:
     a: "Als cat: Hit, dan Expertise, dan Crit, Agility, Strength en attack power. Als bear ook Defense, Dodge, armor en Stamina, want een Druid kan niet blocken of parryen."
   - q: "Welk ras is het beste voor een Feral Druid?"
     a: "De verschillen zijn klein. Night Elf krijgt een bonus op critical strikes die bij Feral past, Tauren War Stomp en 5% meer Health. Skyborne krijgen Haste, en Skyborne van de Alliance ook een manacooldown."
-  - q: "Is er al een build voor level 60?"
-    a: "Ja. De vier builds in deze gids gebruiken alle 51 punten van level 60, zonder de extra punten van Talented."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/druid/feral/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/feral-druid/"
 ---
@@ -48,13 +50,13 @@ De Feral Druid in WoW Forever is twee specs in één: een cat die melee-schade d
 
 **Drie resources.** Een cat volgt Energy, Combo Points en, voor Shifting Power, mana. Een bear heeft Rage. Tel daar bleeds en debuffs bij, en Feral is een van de moeilijkere specs om te beheersen.
 
-## Vier builds voor level 60
+## Builds voor level 60
 
-Alle vier gebruiken 51 punten, het volledige aantal talentpunten van level 60. Elke build neemt 9 punten in Balance voor Genesis 5/5, Nature's Majesty 2/2 en Nature's Reach 2/2, behalve de soloversie.
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
 
-### Hybride, 9/37/5
+### Raidbuild, 9/32/10
 
-Cat en bear in één build, voor groepen in de endgame die om een van beide rollen vragen. [Open de build in de talentcalculator](/nl/talents/druid/?t=050022-50230232123112125011-05).
+9 punten in Balance, 32 in Feral Combat en 10 in Restoration. [Open de raidbuild in de talentcalculator](/nl/talents/druid/?t=050022-53200032123012124001-055).
 
 | Talent | Punten |
 |---|---|
@@ -62,38 +64,29 @@ Cat en bear in één build, voor groepen in de endgame die om een van beide roll
 | **Nature's Majesty** | 2/2 |
 | **Nature's Reach** | 2/2 |
 | **Ferocity** | 5/5 |
+| **Furor** | 3/5 |
 | **Feral Swiftness** | 2/2 |
-| **Feral Instinct** | 3/3 |
-| **Thick Hide** | 2/3 |
 | **Shredding Attacks** | 3/3 |
 | **Savage Fury** | 2/2 |
 | **Feral Charge** | 1/1 |
 | **Sharpened Claws** | 2/2 |
 | **Predatory Strikes** | 3/3 |
-| **Lacerate** | 1/1 |
 | **Predatory Discipline** | 1/1 |
 | **Blood Frenzy** | 2/2 |
 | **Leader of the Pack** | 1/1 |
 | **Natural Instinct** | 2/2 |
-| **Rend and Tear** | 5/5 |
-| **Primal Bite** | 1/1 |
-| **Lacerate** | Nieuw talent in Feral Combat, sinds de hotfix |
+| **Rend and Tear** | 4/5 |
 | **Shifting Power** | 1/1 |
 | **Heart of the Wild** | 5/5 |
+| **Naturalist** | 5/5 |
 
-![De hybride build 9/37/5 van de Feral Druid in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
+### Levelbuild, 9/32/10
 
-### Cat, 9/37/5
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/druid/?t=050022-55200002123012125001-055). De [levelbuild voor de Druid](/nl/leveling/druid/) geeft het talent voor elk level.
 
-Voor een Druid die nooit tankt. [Open de build in de talentcalculator](/nl/talents/druid/?t=050022-53230032123112125001-05).
+### PvP-build, 0/35/16
 
-### Bear, 9/37/5
-
-Voor een Druid die alleen tankt, met meer Rage en overleving. [Open de build in de talentcalculator](/nl/talents/druid/?t=050022-5023030212310212541-05).
-
-### Solo, 0/35/16
-
-Voor alleen questen en farmen: goedkopere shapeshifts en efficiënt jezelf helen, ten koste van wat prestaties in een groep. [Open de build in de talentcalculator](/nl/talents/druid/?t=-05231032123112125001-15513000001).
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/druid/?t=-55202002123112124011-05433000001).
 
 ## Wat de belangrijkste talenten doen
 

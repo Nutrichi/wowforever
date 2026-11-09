@@ -1,7 +1,7 @@
 ---
 title: "Frost Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Frost Mage: Ice Lance-build, rotatie en Shatter"
-description: "De Frost Mage in WoW Forever: Ice Lance en Fingers of Frost, de build voor level 30, de rotatie, kiten, mana, Shatter, stats, gear, races en beroepen."
+description: "De Frost Mage in WoW Forever: Ice Lance en Fingers of Frost, de build voor level 60, de rotatie, kiten, mana, Shatter, stats, gear, races en beroepen."
 short: "Frost Mage"
 updated: 2026-11-07
 lang: nl
@@ -17,9 +17,11 @@ faq:
     a: "Ice Barrier is het laatste talent van de Frost-boom en vraagt level 40. Tot level 40 steun je op bevriezen, Mana Shield en Blink."
   - q: "Welk ras is het beste voor een Frost Mage?"
     a: "Orc bij de Horde, dankzij 10% spell power van Blood Fury, met Troll en Berserking vlak daarachter. Bij de Alliance Human met 1% critical strike-kans of Skyborne met 2% Haste. Kies het ras dat je mooi vindt als je niet op elke procent jaagt."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/frost/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/frost-mage/"
 ---
@@ -28,7 +30,7 @@ De Frost Mage in WoW Forever vertraagt en bevriest zijn doelen, overleeft beter 
 | | |
 |---|---|
 | Rol | Schade op afstand met vertragingen, bevriezen en burst |
-| Build op level 30 | 21 punten in Frost, Talented voegt Permafrost toe |
+| Build op level 60 | 18/0/33 |
 | Belangrijke talenten | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a> |
 | Sterk | Burst op Frozen doelen, controle, overleven |
 | Zwak | Hangt af van procs, mana |
@@ -52,24 +54,42 @@ De Frost Mage in WoW Forever vertraagt en bevriest zijn doelen, overleeft beter 
 | Overleeft het best van de Mage-specs | Weinig Health, zoals elke Mage |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=604"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dampen Magic</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1008"><img class="wf-wh__icon" src="/wh/spell_holy_flashheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amplify Magic</a>, eten, drinken en portals | Ice Barrier komt pas op level 40 |
 
-## De build voor level 30
+## Builds voor level 60
 
-De build gebruikt 21 punten in Frost, de punten die je op level 30 hebt. [Open de build in de talentcalculator](/nl/talents/mage/?t=--0525300001013001).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 18/0/33
+
+18 punten in Arcane en 33 in Frost. [Open de raidbuild in de talentcalculator](/nl/talents/mage/?t=2032050030003--053500031100331251).
 
 | Talent | Punten |
 |---|---|
+| **Wand Specialization** | 2/2 |
+| **Arcane Resilience** | 3/3 |
+| **Arcane Subtlety** | 2/2 |
+| **Arcane Concentration** | 5/5 |
+| **Arcane Impact** | 3/3 |
+| **Arcane Meditation** | 3/3 |
 | **Improved Frostbolt** | 5/5 |
-| **Precision** | 2/3 |
+| **Precision** | 3/3 |
 | **Ice Shards** | 5/5 |
-| **Frostbite** | 3/3 |
+| **Frost Channeling** | 3/3 |
+| **Improved Blizzard** | 1/3 |
 | **Ice Lance** | 1/1 |
-| **Ice Block** | 1/1 |
 | **Shatter** | 3/3 |
-| **Fingers of Frost** | 1/2 |
+| **Improved Cone of Cold** | 3/3 |
+| **Cold Snap** | 1/1 |
+| **Fingers of Frost** | 2/2 |
+| **Winter's Chill** | 5/5 |
+| **Ice Barrier** | 1/1 |
 
-Met 5 punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> uit het Legacy-systeem heb je 26 punten: Permafrost 2/3, Precision 3/3, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12472"><img class="wf-wh__icon" src="/wh/spell_frost_wizardmark.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cold Snap</a> 1/1 en Fingers of Frost 2/2. [Open de versie met Talented](/nl/talents/mage/?t=--0535302001013012).
+### Levelbuild, 18/0/33
 
-Er is geen plaats voor zowel Frostbite als <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11175"><img class="wf-wh__icon" src="/wh/spell_frost_wisp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Permafrost</a>, dus je kiest tussen toevallige bevriezingen en langere, sterkere vertragingen. Voor minder threat en goedkopere spells in dungeons neem je 1 punt in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11160"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Channeling</a> in plaats van Cold Snap. De [levelbuild van de Mage](/nl/leveling/mage/) geeft het talent voor elk level van 10 tot 35.
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/mage/?t=0502052001003--053530000101331251). De [levelbuild voor de Mage](/nl/leveling/mage/) geeft het talent voor elk level.
+
+### PvP-build, 12/0/39
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/mage/?t=2032202001--053532301101331251).
 
 ### Wat de belangrijkste talenten doen
 

@@ -1,7 +1,7 @@
 ---
 title: "Assassination Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Assassination Rogue: poison-builds, Venom en rotatie"
-description: "De Assassination Rogue in WoW Forever: Venom en Shank, Mutilate vanaf level 40, twee builds voor level 30 voor solo en Improved Expose Armor, de rotatie, Energy en poisons."
+description: "De Assassination Rogue in WoW Forever: Venom en Shank, Mutilate vanaf level 40, de levelbuild voor de Rogue, de rotatie, Energy en poisons."
 short: "Assassination Rogue"
 updated: 2026-11-07
 lang: nl
@@ -19,20 +19,22 @@ faq:
     a: "Het is optioneel maar heel sterk in groepen: Expose Armor kost minder Energy en geeft 2 Combo Points terug als je het met 5 gebruikt. Groepen met veel melee-schade zullen het willen."
   - q: "Welk ras is het beste voor een Assassination Rogue?"
     a: "Human voor de Alliance, voor 1% meer critical strike chance, wat nu ook telt voor poisons. Orc voor de Horde, voor 10% meer attack power van Blood Fury."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Nog niet voor raids en PvP: er is nog geen build voor de nieuwe talentbomen bekend. De levelbuild voor de Rogue geeft het talent voor elk level van 10 tot 35, de rest volgt zodra die bekend is."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-De Assassination Rogue in WoW Forever is de gifmenger. Venom maakt je poisons sterker na elke Shank, Mutilate geeft dolken vanaf level 40 een eigen Combo Point-generator, en poisons kunnen nu critical strikes landen. Je hebt geen Stealth-trucs of pure auto attacks nodig om schade te doen. Deze gids behandelt twee builds voor level 30, de rotatie, Energy, poisons, overleven, stats en races.
+De Assassination Rogue in WoW Forever is de gifmenger. Venom maakt je poisons sterker na elke Shank, Mutilate geeft dolken vanaf level 40 een eigen Combo Point-generator, en poisons kunnen nu critical strikes landen. Je hebt geen Stealth-trucs of pure auto attacks nodig om schade te doen. Deze gids behandelt twee builds voor level 60, de rotatie, Energy, poisons, overleven, stats en races.
 
 | | |
 |---|---|
 | Rol | Melee-schade met dolken en poisons |
-| Build op level 30 | 21 punten in Assassination, Talented voegt Relentless Strikes en Opportunity toe |
+| Build op level 60 | |
 | Belangrijkste talenten | Malice, Ruthlessness, Improved Slice and Dice, Improved Poisons, Venom, Mutilate |
 | Sterk in | Heel hoge schade die met elk level groeit, veel crowd control |
 | Zwak in | Een drukke rotatie, heeft gear nodig |
@@ -57,44 +59,13 @@ De Assassination Rogue in WoW Forever is de gifmenger. Venom maakt je poisons st
 | Kick, Gouge, Sap, Cheap Shot, Kidney Shot en Blind | Heeft veel attack power nodig voor hij echt loskomt |
 | Poisons voor elke situatie, en de makkelijkste weg naar Improved Expose Armor | Geen schade rondom je |
 
-## Twee builds voor level 30
+## Builds voor level 60
 
-Beide builds gebruiken de 21 punten die je op level 30 hebt. Talented uit het Legacy-systeem voegt er telkens 5 aan toe.
+Een raid- en PvP-build voor de nieuwe talentbomen is nog niet bekend. Deze sectie wordt bijgewerkt zodra er een is.
 
-### Solobuild
+### Levelbuild
 
-Gebouwd voor zoveel mogelijk schade: 5% critical strike chance van Malice, extra Combo Points van Ruthlessness, meer poison-procs van Improved Poisons, en Venom voor sterkere poisons na elke Shank. Mutilate volgt op level 40. [Open de build in de talentcalculator](/nl/talents/rogue/?t=02530300200501).
-
-| Talent | Punten |
-|---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Malice** | 5/5 |
-| **Ruthlessness** | 3/3 |
-| **Improved Slice and Dice** | 3/3 |
-| **Lethality** | 2/2 |
-| **Improved Poisons** | 5/5 |
-| **Venom** | 1/1 |
-
-[Open de Talented-versie](/nl/talents/rogue/?t=02530300200531--002) met Relentless Strikes 3/5 en Opportunity 2/5 in Subtlety, voor meer Energy en hardere Ambushes.
-
-![De Talented-solobuild voor de Assassination Rogue in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-assassination-rogue-build.jpg)
-
-### Build met Improved Expose Armor
-
-Bijna hetzelfde, maar met Improved Expose Armor, dat Expose Armor veel makkelijker maakt in dungeongroepen, op bosses en op trash. [Open de build in de talentcalculator](/nl/talents/rogue/?t=02532300200301).
-
-| Talent | Punten |
-|---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Malice** | 5/5 |
-| **Ruthlessness** | 3/3 |
-| **Improved Expose Armor** | 2/2 |
-| **Improved Slice and Dice** | 3/3 |
-| **Lethality** | 2/2 |
-| **Improved Poisons** | 3/5 |
-| **Venom** | 1/1 |
-
-[Open de Talented-versie](/nl/talents/rogue/?t=02532300200531) met Improved Poisons 5/5 en Relentless Strikes 3/5.
+De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
 
 ## Wat de belangrijkste talenten doen
 

@@ -1,7 +1,7 @@
 ---
 title: "Combat Rogue in WoW Forever: der Guide"
 metaTitle: "WoW Forever Combat Rogue: Hack-and-Slash-Builds bis Level 60"
-description: "Der Combat Rogue in WoW Forever: Hack and Slash für jeden Waffentyp, ein Build für Level 30 und zwei für Level 60 (Standard und Dolche), Blade Flurry, Adrenaline Rush, Energie, Gifte und Völker."
+description: "Der Combat Rogue in WoW Forever: Hack and Slash für jeden Waffentyp, zwei Builds für Level 60 (Standard und Dolche), Blade Flurry, Adrenaline Rush, Energie, Gifte und Völker."
 short: "Combat Rogue"
 updated: 2026-11-07
 lang: de
@@ -20,17 +20,19 @@ faq:
   - q: "Welches Volk ist für einen Combat Rogue am besten?"
     a: "Human für die Alliance, wegen 1 % kritischer Trefferchance, und Orc für die Horde, wegen 10 % Angriffskraft durch Blood Fury. Night Elf und Troll sind die zweite Wahl."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
 ---
 > **Update vom 4. November:** Builds und Talente unten folgen den neuen Bäumen aus den Entwicklungsnotizen vom 2. November, mehr in [unserem Beitrag](/de/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-Der Combat Rogue in WoW Forever macht riesigen Schaden mit automatischen Angriffen und hat mit Blade Flurry und Adrenaline Rush eine starke Schadensspitze. Forever fasst alle alten Waffenspezialisierungen in einem Talent zusammen, Hack and Slash, also funktioniert jetzt jeder Waffentyp. Gifte können kritisch treffen und skalieren mit Angriffskraft, und Combat ist die einzige Rogue-Spezialisierung, die mehrere Ziele trifft. Dieser Guide behandelt einen Build für Level 30, zwei für Level 60, die Rotation, Energie, Gifte, Werte und Völker.
+Der Combat Rogue in WoW Forever macht riesigen Schaden mit automatischen Angriffen und hat mit Blade Flurry und Adrenaline Rush eine starke Schadensspitze. Forever fasst alle alten Waffenspezialisierungen in einem Talent zusammen, Hack and Slash, also funktioniert jetzt jeder Waffentyp. Gifte können kritisch treffen und skalieren mit Angriffskraft, und Combat ist die einzige Rogue-Spezialisierung, die mehrere Ziele trifft. Dieser Guide behandelt einen Build für Level 60, zwei für Level 60, die Rotation, Energie, Gifte, Werte und Völker.
 
 | | |
 |---|---|
 | Rolle | Nahkampfschaden mit zwei Waffen |
-| Builds | Combat auf Level 30, Standard auf Level 60 (18/33/0) und Dolche auf Level 60 (16/33/2) |
+| Builds | Standard auf Level 60 (18/33/0) und Dolche auf Level 60 (16/33/2) |
 | Wichtigste Talente | Malice, Improved Slice and Dice, Precision, Dual Wield Specialization, Hack and Slash, Blade Flurry, Aggression, Adrenaline Rush |
 | Stärken | Sehr hoher Schaden, starke Schadensspitze, der einzige Mehrzielangriff des Rogue, jeder Waffentyp |
 | Schwächen | Hängt stark von Ausrüstung ab, vor allem von Waffen |
@@ -48,23 +50,25 @@ Der Combat Rogue in WoW Forever macht riesigen Schaden mit automatischen Angriff
 
 **Ausrüstung.** Combat hängt mehr als alles andere von Ausrüstung ab, und am meisten von Waffen, weil so viel Schaden aus automatischen Angriffen kommt.
 
-## Build für Level 30
+## Builds für Level 60
 
-Auf Level 30 hast du 21 Punkte, und Talented gibt 5 dazu. Der Build dreht sich ums Überleben und schnelle Töten: Deflection und Riposte verkürzen deine Pausen, Coup de Grace und deine automatischen Angriffe machen den Schaden. [Öffne den Build im Talentrechner](/de/talents/rogue/?t=-3200331210011301), [Talented-Version](/de/talents/rogue/?t=-32003312100113015) mit Hack and Slash 5/5. Mehr in unserem [Leveling-Guide für den Rogue](/de/guides/rogue-leveling/).
+Zwei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons und einer zum Leveln. Jeder Build öffnet sich in unserem Talentrechner.
 
-## Standardbuild für Level 60: 18/33/0
+### Raid-Build, 18/33/0
 
-Die Beta endete auf Level 30, aber die Talentbäume für Level 60 stecken in den Spieldateien. Wir haben diesen Build Punkt für Punkt in [unserem Talentrechner](/de/talents/rogue/?t=015323202-3200332210012321521) geprüft. Er geht bis Adrenaline Rush und holt Malice, Slice and Dice, Combopunkte und Vigor für mehr Energie aus Assassination.
+18 Punkte in Assassination und 33 in Combat. [Raid-Build im Talentrechner öffnen](/de/talents/rogue/?t=015323202-3200332210012321521).
+
+Mit Dolchen statt Schwertern oder Streitkolben passt der Dolch-Build besser: [Dolch-Build öffnen](/de/talents/rogue/?t=005323102-3023032200012321531-002).
 
 | Talent | Punkte |
 |---|---|
-| **Remorseless Attacks** (Assassination) | 1/2 |
-| **Malice** (Assassination) | 5/5 |
-| **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Expose Armor** (Assassination) | 2/2 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Vigor** (Assassination) | 2/2 |
-| **Lethality** (Assassination) | 2/2 |
+| **Remorseless Attacks** | 1/2 |
+| **Malice** | 5/5 |
+| **Ruthlessness** | 3/3 |
+| **Improved Expose Armor** | 2/2 |
+| **Improved Slice and Dice** | 3/3 |
+| **Vigor** | 2/2 |
+| **Lethality** | 2/2 |
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
 | **Deflection** | 3/3 |
@@ -81,37 +85,11 @@ Die Beta endete auf Level 30, aber die Talentbäume für Level 60 stecken in den
 | **Flash of Steel** | 2/5 |
 | **Adrenaline Rush** | 1/1 |
 
-![Der Standardbuild 18/33/0 des Combat Rogue in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-combat-rogue-build.jpg)
+### Leveling-Build
 
-## Dolchbuild für Level 60: 16/33/2
+Der [Level-Build für den Rogue](/de/leveling/rogue/) gibt das Talent für jedes Level von 10 bis 35. Der Rest der Reihenfolge folgt, sobald er bekannt ist.
 
-Derselbe Weg, aber um Backstab herum. [Öffne den Build im Talentrechner](/de/talents/rogue/?t=005323102-3023032200012321531-002). Puncturing Wounds ersetzt Deflection und Riposte, Lightning Reflexes ersetzt Efficient Strikes, das nur Sinister Strike billiger macht, und Opportunity 2/2 in Subtlety lässt Backstab und Ambush härter treffen.
-
-| Talent | Punkte |
-|---|---|
-| **Malice** (Assassination) | 5/5 |
-| **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Expose Armor** (Assassination) | 2/2 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Vigor** (Assassination) | 1/2 |
-| **Lethality** (Assassination) | 2/2 |
-| **Coup de Grace** | 3/3 |
-| **Lightning Reflexes** | 2/5 |
-| **Puncturing Wounds** | 3/3 |
-| **Precision** | 3/3 |
-| **Improved Sprint** | 2/2 |
-| **Endurance** | 2/2 |
-| **Flawless Execution** | 1/1 |
-| **Weapon Expertise** | 2/2 |
-| **Aggression** | 3/3 |
-| **Dual Wield Specialization** | 2/2 |
-| **Blade Flurry** | 1/1 |
-| **Hack and Slash** | 5/5 |
-| **Flash of Steel** | 3/5 |
-| **Adrenaline Rush** | 1/1 |
-| **Opportunity** (Subtlety) | 2/5 |
-
-Senkt ein anderer Spieler in deiner Gruppe schon die Rüstung, kannst du die Punkte aus Improved Expose Armor anderswo setzen.
+Ein PvP-Build für die neuen Talentbäume ist noch nicht bekannt. Dieser Abschnitt wird aktualisiert, sobald es einen gibt.
 
 ## Was die wichtigsten Talente tun
 

@@ -18,8 +18,10 @@ faq:
   - q: "Kan Discipline schade doen?"
     a: "Smite-builds kunnen met talenten zoals Power in Light en Penance, maar Smite heeft nog altijd zijn problemen. Deze gids houdt het bij healen."
   - q: "Is deze build definitief?"
-    a: "Nee. Hij gebruikt de talenten van de betabuild van 15 oktober voor level 60. De beta stopte op level 30, dus deze talenten zijn nooit op level 60 getest en kunnen nog veranderen."
+    a: "Nee."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/discipline/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/discipline-priest/"
 ---
@@ -28,7 +30,7 @@ De Discipline Priest in WoW Forever shieldt en heelt, met Penance als nieuwe bur
 | | |
 |---|---|
 | Rol | Healer, het sterkst in tankhealing, met Power Infusion voor de raid |
-| Build voor level 60 | 31/20/0, met de talenten van de betabuild van 15 oktober |
+| Build voor level 60 | 31/20/0 |
 | Belangrijkste talenten | Meditation, Soul Warding, Penance, Renewed Hope, Divine Aegis, Power Infusion, Inspiration |
 | Sterk in | Heel sterke tankhealing, veel middelen, Power Infusion |
 | Zwak in | Bijna geen beweging, minder effectief om de hele groep te healen |
@@ -54,9 +56,15 @@ De Discipline Priest in WoW Forever shieldt en heelt, met Penance als nieuwe bur
 | Power Infusion, een van de sterkste buffs in het spel | Smite-builds hebben nog altijd hun problemen |
 | Fear Ward, Dispel Magic en Abolish Disease | |
 
-## De build voor level 60 (31/20/0)
+## Builds voor level 60
 
-Deze build gebruikt alle 51 punten van level 60: 31 in Discipline tot Power Infusion en 20 in Holy voor Improved Renew, Holy Specialization, Divine Fury, Inspiration, Improved Healing. [Open de build in de talentcalculator](/nl/talents/priest/?t=005005031330011531-035050030301).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 31/20/0
+
+31 punten in Discipline en 20 in Holy. [Open de raidbuild in de talentcalculator](/nl/talents/priest/?t=005005031330011531-0350501303).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/priest/?t=025015021330011531-0150510303).
 
 | Talent | Punten |
 |---|---|
@@ -74,16 +82,17 @@ Deze build gebruikt alle 51 punten van level 60: 31 in Discipline tot Power Infu
 | **Improved Renew** | 3/3 |
 | **Holy Specialization** | 5/5 |
 | **Divine Fury** | 5/5 |
+| **Blessed Recovery** | 1/3 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
-| **Holy Binding** | 1/1 |
 
-![De Discipline Priest-build 31/20/0 in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-discipline-priest-build.jpg)
+### Levelbuild, 16/0/35
 
-**Vrije punten.**
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/priest/?t=00500520103--50542201201302251). De [levelbuild voor de Priest](/nl/leveling/priest/) geeft het talent voor elk level.
 
-- Mist je raid offensieve dispels en moet jij het doen, dan laten een paar punten in Holy Precision Dispel Magic minder missen.
-- Twilight Focus helpt tegen pushback, maar alleen in gevechten waarin je schade krijgt terwijl je cast.
+### PvP-build, 29/17/5
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/priest/?t=0053002013332115-320501320001-05).
 
 ## Wat de belangrijkste talenten doen
 

@@ -17,8 +17,10 @@ faq:
   - q: "Which race is best for a Holy Priest?"
     a: "Gnome or Human for the Alliance, Undead for the Horde. Undead gets Dark Sacrifice for mana, while Troll offers a healer almost nothing."
   - q: "Is this build final?"
-    a: "No. It uses the talents of the beta build of 15 October for level 60. The beta stopped at level 30, so these talents were never tested at level 60 and can still change."
+    a: "No."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"
 ---
@@ -27,7 +29,7 @@ The Holy Priest in WoW Forever is a healer with an answer for every injury: Rene
 | | |
 |---|---|
 | Role | Healer, best at group and raid healing |
-| Build for level 60 | 18/33/0, with the talents of the beta build of 15 October |
+| Build for level 60 | 18/33/0 |
 | Key talents | Improved Renew, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
 | Strength | A very solid raid healer with many tools |
 | Weakness | Almost no movement, randomness in Prayer of Mending |
@@ -51,9 +53,15 @@ The Holy Priest in WoW Forever is a healer with an answer for every injury: Rene
 | Good mana thanks to Meditation and Litany of Light | Less suited to keeping one tank alive than Discipline |
 | Fear Ward, Dispel Magic and Abolish Disease for the group | |
 
-## The level 60 build (18/33/0)
+## Builds for level 60
 
-This build uses all 51 points of level 60. The 18 Discipline points pay for Twin Disciplines, Mental Strength, Inner Focus, Improved Power Word: Shield, Meditation and Soul Warding. The rest goes into Holy up to Prayer of Mending. [Open the build in the talent calculator](/talents/priest/?t=00500500133001-03505103030121531).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 18/33/0
+
+18 points in Discipline and 33 in Holy. [Open the raid build in the talent calculator](/talents/priest/?t=00500500133001-10505103230121531).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/priest/?t=025005001330011-0350510303002053).
 
 | Talent | Points |
 |---|---|
@@ -63,27 +71,27 @@ This build uses all 51 points of level 60. The 18 Discipline points pay for Twin
 | **Improved Power Word: Shield** | 3/3 |
 | **Meditation** | 3/3 |
 | **Soul Warding** | 1/1 |
-| **Improved Renew** | 3/3 |
+| **Twilight Focus** | 1/3 |
 | **Holy Specialization** | 5/5 |
 | **Divine Fury** | 5/5 |
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
+| **Holy Reach** | 2/2 |
 | **Improved Healing** | 3/3 |
 | **Holy Binding** | 1/1 |
-| **Holy Binding** | Each Flash Heal on someone else also heals you for 50% as much, without threat |
 | **Litany of Light** | 2/2 |
 | **Spirit of Redemption** | 1/1 |
 | **Spiritual Guidance** | 5/5 |
 | **Spiritual Healing** | 3/3 |
 | **Prayer of Mending** | 1/1 |
 
-![The 18/33/0 Holy Priest build in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-holy-priest-build.jpg)
+### Leveling build, 16/0/35
 
-**Free points.**
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/priest/?t=00500520103--50542201201302251). The [Priest level build](/leveling/priest/) gives the talent for every level.
 
-- Running out of mana with a lot of Renew? Move a few points to Mental Agility, which lowers the cost of your instant spells.
-- If your raid lacks offensive dispels and you have to do it, a few points in Holy Precision make Dispel Magic miss less.
-- Twilight Focus helps against pushback, but only on fights where you take damage while casting.
+### PvP build, 34/17/0
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/priest/?t=005305201333011331-3020511302).
 
 ## What the key talents do
 

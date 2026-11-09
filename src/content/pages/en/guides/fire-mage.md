@@ -1,7 +1,7 @@
 ---
 title: "Fire Mage guide for WoW Forever"
 metaTitle: "WoW Forever Fire Mage: Heating Up build, rotation and stats"
-description: "The Fire Mage in WoW Forever: Heating Up and the new Fire Power, two level 30 builds for dungeons and solo, the Pyroblast rotation, mana, stats and races."
+description: "The Fire Mage in WoW Forever: Heating Up and the new Fire Power, level 60 builds for raids, leveling and PvP, the Pyroblast rotation, mana, stats and races."
 short: "Fire Mage"
 updated: 2026-11-07
 lang: en
@@ -18,9 +18,11 @@ faq:
     a: "No. Ignite was nerfed in Forever and now burns for 40% of the critical strike over 4 seconds. Ignite rolling is no longer worth playing around."
   - q: "Which race is best for a Fire Mage?"
     a: "Orc for the Horde, because Blood Fury gives 10% spell power, with Troll second. For the Alliance, Human first for 1% critical strike chance, then High Order Skyborne. Pick the race you like if you do not chase every percent."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/fire/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fire-mage/"
 ---
@@ -29,7 +31,7 @@ The Fire Mage in WoW Forever lives on critical strikes. Heating Up turns crits i
 | | |
 |---|---|
 | Role | Ranged damage, critical strikes and burns |
-| Build at level 30 | 19 to 21 points in Fire, Talented adds Critical Mass and hit chance |
+| Build at level 60 | 16/32/3 |
 | Key talents | Heating Up, Pyroblast, Ignite, Improved Scorch, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a> |
 | Strength | High damage that scales with gear, good mana, group utility |
 | Weakness | Needs critical strike chance, weak while leveling |
@@ -53,43 +55,42 @@ The Fire Mage in WoW Forever lives on critical strikes. Heating Up turns crits i
 | Better on mana than Arcane, later with Master of Elements | Less survival than Frost, and no <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a> |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=604"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dampen Magic</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1008"><img class="wf-wh__icon" src="/wh/spell_holy_flashheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amplify Magic</a>, food, water and portals | Needs hit chance against bosses, which costs talent points |
 
-## Two builds for level 30
+## Builds for level 60
 
-Both builds use the 21 points you have at level 30. Talented from the Legacy system adds 5 points to each.
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
 
-### Dungeon build
+### Raid build, 16/32/3
 
-For dungeons and bosses above your level. 2/3 Precision in Frost keeps your spells from missing, and 3/3 Improved Scorch is in even without Talented, because the Fire damage bonus is so strong. There are no points left for Critical Mass or Master of Elements without giving up hit chance. [Open the build in the talent calculator](/talents/mage/?t=-155003010301-002).
-
-| Talent | Points |
-|---|---|
-| **Incineration** | 1/5 |
-| **Accelerant** | 5/5 |
-| **Ignite** | 5/5 |
-| **Burning Soul** | 3/3 |
-| **Pyroblast** | 1/1 |
-| **Improved Scorch** | 3/3 |
-| **Heating Up** | 1/1 |
-| **Precision** | 2/3 |
-
-[Open the Talented version](/talents/mage/?t=-25500301030103-003) with Incineration 2/5, Critical Mass 3/3 and Precision 3/3.
-
-### Solo build
-
-For questing against monsters at or below your level, so without Precision. All points go into Fire, with Incineration 2/5 and the first point of Critical Mass for more critical strikes. [Open the build in the talent calculator](/talents/mage/?t=-25500301030101).
+16 points in Arcane, 32 in Fire and 3 in Frost. [Open the raid build in the talent calculator](/talents/mage/?t=0502052001001-55500001230133031-003).
 
 | Talent | Points |
 |---|---|
-| **Incineration** | 2/5 |
+| **Improved Channeling** | 5/5 |
+| **Arcane Subtlety** | 2/2 |
+| **Arcane Concentration** | 5/5 |
+| **Missile Barrage** | 2/2 |
+| **Arcane Blast** | 1/1 |
+| **Arcane Meditation** | 1/3 |
+| **Incineration** | 5/5 |
 | **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
-| **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
+| **Improved Fire Blast** | 2/2 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Critical Mass** | 1/3 |
+| **Master of Elements** | 3/3 |
+| **Critical Mass** | 3/3 |
+| **Fire Power** | 3/3 |
+| **Combustion** | 1/1 |
+| **Precision** | 3/3 |
 
-[Open the Talented version](/talents/mage/?t=-4550030103010301) with Incineration 4/5, Critical Mass 3/3 and Fire Power 1/3. Want more burst? Take <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> instead of Fire Power, for an area attack every 45 seconds. The [Mage level build](/leveling/mage/) gives a talent for every level from 10 to 35.
+### Leveling build, 18/0/33
+
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/mage/?t=0502052001003--053530000101331251). The [Mage level build](/leveling/mage/) gives the talent for every level.
+
+### PvP build, 21/28/2
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/mage/?t=050205220002201-35523001230103-002).
 
 ### What the key talents do
 
@@ -134,7 +135,7 @@ At higher levels the rotation looks like this: Improved Scorch at 5 stacks, Fire
 
 Fire spells cost a lot, but Fire needs less mana control than Arcane.
 
-- **Master of Elements** refunds 30% of the base mana cost of every Fire or Frost critical strike at 3/3. Out of reach at level 30, but later it procs almost all the time.
+- **Master of Elements** refunds 30% of the base mana cost of every Fire or Frost critical strike at 3/3. It procs almost all the time.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6117"><img class="wf-wh__icon" src="/wh/spell_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mage Armor</a>** from level 34 keeps 50% of your mana regeneration while casting. A dip into Arcane Meditation makes it 100%.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12051"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Evocation</a>** restores your mana over a few seconds, with a long cooldown. Save it for long boss fights. A High Order Skyborne can combine it with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>.
 - **Mana gems** such as <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=759"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Conjure Mana Agate</a> restore mana with one charge per gem. Make a new one before every long fight.

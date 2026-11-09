@@ -20,6 +20,8 @@ faq:
   - q: "Wat is de dode zone van de Hunter?"
     a: "Het stuk tussen melee-bereik en 8 meter, waar je geen melee- en geen ranged-aanvallen kunt gebruiken. Stap terug tot 8 meter om weer te schieten."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/beast-mastery/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/beast-mastery-hunter/"
 ---
@@ -48,44 +50,41 @@ Met de Beast Mastery Hunter in WoW Forever laat je een groot deel van het werk a
 
 **De dode zone.** Tussen melee-bereik en 8 meter kun je geen melee- en geen ranged-aanvallen gebruiken. Stap terug om weer te schieten.
 
-## De build voor level 60: 31/20/0
+## Builds voor level 60
 
-De beta stopte op level 30, maar de talentbomen voor level 60 zitten in de spelbestanden. We hebben deze build punt voor punt nagekeken in [onze talentcalculator](/nl/talents/hunter/?t=5320021505101051-30500520014): 31 punten in Beast Mastery en 20 in Marksmanship, 51 in totaal.
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 31/20/0
+
+31 punten in Beast Mastery en 20 in Marksmanship. [Open de raidbuild in de talentcalculator](/nl/talents/hunter/?t=5320001505101251-00520503014).
 
 | Talent | Punten |
 |---|---|
 | **Deadly Aspects** | 5/5 |
 | **Endurance Training** | 3/5 |
 | **Focused Fire** | 2/2 |
-| **Pathfinding** | 2/2 |
 | **Bestial Swiftness** | 1/1 |
 | **Unleashed Fury** | 5/5 |
 | **Ferocity** | 5/5 |
 | **Summon Hawk** | 1/1 |
 | **Intimidation** | 1/1 |
+| **Bestial Discipline** | 2/2 |
 | **Frenzy** | 5/5 |
 | **Bestial Wrath** | 1/1 |
-| **Hawk Eye** | 3/3 |
 | **Lethal Attacks** | 5/5 |
+| **Improved Stings** | 2/3 |
 | **Careful Aim** | 5/5 |
-| **Rapid Killing** | 2/2 |
+| **Improved Arcane Shot** | 3/5 |
 | **Trueshot Aura** | 1/1 |
 | **Mortal Shots** | 4/5 |
-| **Hawk Eye** (Marksmanship) | 3/3 |
-| **Lethal Attacks** (Marksmanship) | 5/5 |
-| **Careful Aim** (Marksmanship) | 5/5 |
-| **Rapid Killing** (Marksmanship) | 2/2 |
-| **Trueshot Aura** (Marksmanship) | 1/1 |
-| **Mortal Shots** (Marksmanship) | 4/5 |
 
-![De build 31/20/0 van de Beast Mastery Hunter in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-beast-mastery-hunter-build.jpg)
+### Levelbuild, 31/20/0
 
-Een paar punten kunnen schuiven:
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/hunter/?t=5120221405101241-00503520005). De [levelbuild voor de Hunter](/nl/leveling/hunter/) geeft het talent voor elk level.
 
-- **Endurance Training** naar **Improved Revive Pet** als je je pet vaak moet reanimeren.
-- **Hawk Eye** naar **Efficiency** als je het extra bereik niet nodig hebt en goedkopere shots wilt.
-- **Trueshot Aura** naar het laatste punt van **Mortal Shots** als een Marksmanship-Hunter in je raid de aura al meebrengt.
-- **Summon Hawk** naar **Endurance Training** of **Improved Revive Pet** als je haviken steeds sneuvelen voor hun tijd om is.
+### PvP-build, 31/16/4
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/hunter/?t=5023001505101251-0550050001-4).
 
 ## Wat de belangrijkste talenten doen
 

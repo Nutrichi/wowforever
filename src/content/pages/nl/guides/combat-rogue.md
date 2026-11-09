@@ -1,7 +1,7 @@
 ---
 title: "Combat Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash-builds tot level 60"
-description: "De Combat Rogue in WoW Forever: Hack and Slash voor elk wapentype, een build voor level 30 en twee voor level 60 (standaard en dolken), Blade Flurry, Adrenaline Rush, Energy, poisons en races."
+description: "De Combat Rogue in WoW Forever: Hack and Slash voor elk wapentype, twee builds voor level 60 (standaard en dolken), Blade Flurry, Adrenaline Rush, Energy, poisons en races."
 short: "Combat Rogue"
 updated: 2026-11-07
 lang: nl
@@ -20,17 +20,19 @@ faq:
   - q: "Welk ras is het beste voor een Combat Rogue?"
     a: "Human voor de Alliance, voor 1% critical strike chance, en Orc voor de Horde, voor 10% attack power uit Blood Fury. Night Elf en Troll zijn de tweede keuze."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/combat-rogue/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-De Combat Rogue in WoW Forever doet enorme schade met auto attacks en heeft een sterke uithaal met Blade Flurry en Adrenaline Rush. Forever bundelt alle oude wapenspecialisaties in één talent, Hack and Slash, dus elk wapentype werkt nu. Poisons kunnen critical strikes landen en schalen met attack power, en Combat is de enige Rogue-spec die kan cleaven. Deze gids behandelt een build voor level 30, twee voor level 60, de rotatie, Energy, poisons, stats en races.
+De Combat Rogue in WoW Forever doet enorme schade met auto attacks en heeft een sterke uithaal met Blade Flurry en Adrenaline Rush. Forever bundelt alle oude wapenspecialisaties in één talent, Hack and Slash, dus elk wapentype werkt nu. Poisons kunnen critical strikes landen en schalen met attack power, en Combat is de enige Rogue-spec die kan cleaven. Deze gids behandelt een build voor level 60, twee voor level 60, de rotatie, Energy, poisons, stats en races.
 
 | | |
 |---|---|
 | Rol | Melee-schade met twee wapens |
-| Builds | Combat op level 30, standaard op level 60 (18/33/0) en dolken op level 60 (16/33/2) |
+| Builds | Standaard op level 60 (18/33/0) en dolken op level 60 (16/33/2) |
 | Belangrijkste talenten | Malice, Improved Slice and Dice, Precision, Dual Wield Specialization, Hack and Slash, Blade Flurry, Aggression, Adrenaline Rush |
 | Sterk in | Heel hoge schade, sterke uithaal, de enige cleave van de Rogue, elk wapentype |
 | Zwak in | Hangt sterk af van gear, vooral van wapens |
@@ -48,23 +50,25 @@ De Combat Rogue in WoW Forever doet enorme schade met auto attacks en heeft een 
 
 **Gear.** Combat hangt meer dan wat ook af van gear, en het meest van wapens, omdat zoveel schade uit auto attacks komt.
 
-## Build voor level 30
+## Builds voor level 60
 
-Op level 30 heb je 21 punten, en Talented voegt er 5 toe. De build draait om overleven en snel doden: Deflection en Riposte verkorten je pauzes, Coup de Grace en je auto attacks doen de schade. [Open de build in de talentcalculator](/nl/talents/rogue/?t=-3200331210011301), [Talented-versie](/nl/talents/rogue/?t=-32003312100113015) met Hack and Slash 5/5. Meer in onze [levelgids voor de Rogue](/nl/guides/rogue-leveling/).
+Twee builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons en een om te levelen. Elke build opent in onze talentcalculator.
 
-## Standaardbuild voor level 60: 18/33/0
+### Raidbuild, 18/33/0
 
-De beta stopte op level 30, maar de talentbomen voor level 60 zitten in de spelbestanden. We hebben deze build punt voor punt nagekeken in [onze talentcalculator](/nl/talents/rogue/?t=015323202-3200332210012321521). Hij gaat helemaal tot Adrenaline Rush en haalt Malice, Slice and Dice, Combo Points en Vigor voor meer Energy uit Assassination.
+18 punten in Assassination en 33 in Combat. [Open de raidbuild in de talentcalculator](/nl/talents/rogue/?t=015323202-3200332210012321521).
+
+Met dolken in plaats van zwaarden of knotsen past de dolkbuild beter: [open de dolkbuild](/nl/talents/rogue/?t=005323102-3023032200012321531-002).
 
 | Talent | Punten |
 |---|---|
-| **Remorseless Attacks** (Assassination) | 1/2 |
-| **Malice** (Assassination) | 5/5 |
-| **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Expose Armor** (Assassination) | 2/2 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Vigor** (Assassination) | 2/2 |
-| **Lethality** (Assassination) | 2/2 |
+| **Remorseless Attacks** | 1/2 |
+| **Malice** | 5/5 |
+| **Ruthlessness** | 3/3 |
+| **Improved Expose Armor** | 2/2 |
+| **Improved Slice and Dice** | 3/3 |
+| **Vigor** | 2/2 |
+| **Lethality** | 2/2 |
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
 | **Deflection** | 3/3 |
@@ -81,37 +85,11 @@ De beta stopte op level 30, maar de talentbomen voor level 60 zitten in de spelb
 | **Flash of Steel** | 2/5 |
 | **Adrenaline Rush** | 1/1 |
 
-![De standaardbuild 18/33/0 van de Combat Rogue in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-combat-rogue-build.jpg)
+### Levelbuild
 
-## Dolkbuild voor level 60: 16/33/2
+De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
 
-Hetzelfde pad, maar rond Backstab. [Open de build in de talentcalculator](/nl/talents/rogue/?t=005323102-3023032200012321531-002). Puncturing Wounds vervangt Deflection en Riposte, Lightning Reflexes vervangt Efficient Strikes, dat alleen Sinister Strike goedkoper maakt, en Opportunity 2/2 in Subtlety laat Backstab en Ambush harder slaan.
-
-| Talent | Punten |
-|---|---|
-| **Malice** (Assassination) | 5/5 |
-| **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Expose Armor** (Assassination) | 2/2 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Vigor** (Assassination) | 1/2 |
-| **Lethality** (Assassination) | 2/2 |
-| **Coup de Grace** | 3/3 |
-| **Lightning Reflexes** | 2/5 |
-| **Puncturing Wounds** | 3/3 |
-| **Precision** | 3/3 |
-| **Improved Sprint** | 2/2 |
-| **Endurance** | 2/2 |
-| **Flawless Execution** | 1/1 |
-| **Weapon Expertise** | 2/2 |
-| **Aggression** | 3/3 |
-| **Dual Wield Specialization** | 2/2 |
-| **Blade Flurry** | 1/1 |
-| **Hack and Slash** | 5/5 |
-| **Flash of Steel** | 3/5 |
-| **Adrenaline Rush** | 1/1 |
-| **Opportunity** (Subtlety) | 2/5 |
-
-Verlaagt een andere speler in je groep al de armor, dan kun je de punten in Improved Expose Armor elders zetten.
+Een PvP-build voor de nieuwe talentbomen is nog niet bekend. Deze sectie wordt bijgewerkt zodra er een is.
 
 ## Wat de belangrijkste talenten doen
 

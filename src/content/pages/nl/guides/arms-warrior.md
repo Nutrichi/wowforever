@@ -1,7 +1,7 @@
 ---
 title: "Arms Warrior in WoW Forever: de gids"
-metaTitle: "WoW Forever Arms Warrior: build voor level 30, Rend, Overpower en Rage"
-description: "De Arms Warrior in WoW Forever: de build voor level 30 met Bloodthrill, Improved Slam en Sweeping Strikes, de rotatie, Rend en Overpower, Rage, stats en races."
+metaTitle: "WoW Forever Arms Warrior: build voor level 60, Rend, Overpower en Rage"
+description: "De Arms Warrior in WoW Forever: de build voor level 60 met Bloodthrill, Improved Slam en Sweeping Strikes, de rotatie, Rend en Overpower, Rage, stats en races."
 short: "Arms Warrior"
 updated: 2026-11-07
 lang: nl
@@ -17,20 +17,22 @@ faq:
     a: "Mortal Strike is het laatste talent van de Arms-boom en vraagt 30 punten daarin, dus op zijn vroegst level 39, of een paar levels eerder met Talented uit het Legacy-systeem."
   - q: "Welk ras is het beste voor een Arms Warrior?"
     a: "Human voor de Alliance, voor 1% meer critical strike chance, of Dwarf voor 1% hit. Orc voor de Horde, voor Blood Fury. Elk ras kan Warrior spelen, en elke keuze werkt."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/arms/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/).
 
-De Arms Warrior in WoW Forever zwaait met één groot, traag wapen. Rend blijft bloeden, Overpower licht keer op keer op, en elke slag haalt een zichtbaar stuk van de vijand af. Veel talenten leunen naar PvP, wat Arms de vanzelfsprekende keuze maakt voor battlegrounds. Deze gids behandelt de build voor level 30, de rotatie, Rend en Overpower, Rage, stats, wapens en races.
+De Arms Warrior in WoW Forever zwaait met één groot, traag wapen. Rend blijft bloeden, Overpower licht keer op keer op, en elke slag haalt een zichtbaar stuk van de vijand af. Veel talenten leunen naar PvP, wat Arms de vanzelfsprekende keuze maakt voor battlegrounds. Deze gids behandelt de build voor level 60, de rotatie, Rend en Overpower, Rage, stats, wapens en races.
 
 | | |
 |---|---|
 | Rol | Melee-schade met een tweehandig wapen |
-| Build op level 30 | 26 punten in Arms, met de 5 extra punten van Talented |
+| Build op level 60 | 32/17/2 |
 | Belangrijkste talenten | Improved Rend, Improved Overpower, Bloodthrill, Improved Slam, Impale, Two-Handed Weapon Specialization |
 | Sterk in | Grote klappen, sterke cleave met Sweeping Strikes |
 | Zwak in | Traag spel, aanvallen die beter passen bij PvP |
@@ -54,28 +56,43 @@ De Arms Warrior in WoW Forever zwaait met één groot, traag wapen. Rend blijft 
 | Sweeping Strikes, Cleave en Whirlwind voor sterke cleave | Spearing Strike en Mortal Strike passen beter bij PvP dan bij PvE |
 | De beste Warrior-spec voor battlegrounds | |
 
-## De build voor level 30
+## Builds voor level 60
 
-Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van Talented uit het Legacy-systeem. Zonder Talented stop je bij 21 punten; de [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft de volgorde per level. [Open de build in de talentcalculator](/nl/talents/warrior/?t=333202031322101).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 32/17/2
+
+32 punten in Arms, 17 in Fury en 2 in Protection. [Open de raidbuild in de talentcalculator](/nl/talents/warrior/?t=30303213132215201-05500005002-2).
 
 | Talent | Punten |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
-| **Deflection** | 3/5 |
 | **Improved Rend** | 3/3 |
-| **Improved Charge** | 2/2 |
+| **Improved Tactical Mastery** | 3/3 |
 | **Improved Overpower** | 2/2 |
+| **Anger Management** | 1/1 |
 | **Deep Wounds** | 3/3 |
 | **Spearing Strike** | 1/1 |
 | **Two-Handed Weapon Specialization** | 3/3 |
 | **Impale** | 2/2 |
 | **Bloodthrill** | 2/2 |
 | **Sweeping Strikes** | 1/1 |
-| **Improved Slam** | 1/2 |
+| **Weaponmaster** | 5/5 |
+| **Improved Slam** | 2/2 |
+| **Mortal Strike** | 1/1 |
+| **Cruelty** | 5/5 |
+| **Lingering Rage** | 5/5 |
+| **Enrage** | 5/5 |
+| **Improved Execute** | 2/2 |
+| **Improved Bloodrage** | 2/2 |
 
-![De Arms Warrior-build voor level 30 in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-arms-warrior-build.jpg)
+### Levelbuild, 35/16/0
 
-Na level 30 komen Weaponmaster en Mortal Strike onderaan de boom.
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/warrior/?t=05323213032215201-05500105). De [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft het talent voor elk level.
+
+### PvP-build, 35/16/0
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/warrior/?t=03303213132215231-55000105).
 
 ## Wat de belangrijkste talenten doen
 
@@ -87,8 +104,8 @@ Na level 30 komen Weaponmaster en Mortal Strike onderaan de boom.
 | **Improved Slam** | Maakt van Slam een bijna instant filler die je slag niet reset |
 | **Impale** | 20% meer bonus op critical strike-schade voor je aanvallen |
 | **Two-Handed Weapon Specialization** | 6% meer schade met tweehandige wapens bij 3/3 |
-| **Mortal Strike** | Een van je sterkste aanvallen in elke situatie. Na level 30 |
-| **Weaponmaster** | Een bonus per wapentype. Na level 30 |
+| **Mortal Strike** | Een van je sterkste aanvallen in elke situatie |
+| **Weaponmaster** | Een bonus per wapentype |
 
 ## Rotatie
 

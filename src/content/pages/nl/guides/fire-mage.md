@@ -1,7 +1,7 @@
 ---
 title: "Fire Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Fire Mage: Heating Up-build, rotatie en stats"
-description: "De Fire Mage in WoW Forever: Heating Up en de nieuwe Fire Power, twee builds voor level 30 voor dungeons en solo, de Pyroblast-rotatie, mana, stats en races."
+description: "De Fire Mage in WoW Forever: Heating Up en de nieuwe Fire Power, builds voor level 60 voor raids, levelen en PvP, de Pyroblast-rotatie, mana, stats en races."
 short: "Fire Mage"
 updated: 2026-11-07
 lang: nl
@@ -19,9 +19,11 @@ faq:
     a: "Nee. Ignite is in Forever verzwakt en brandt nu voor 40% van de critical strike over 4 seconden. Ignite rolling is het niet meer waard om rond te spelen."
   - q: "Welk ras is het beste voor een Fire Mage?"
     a: "Orc bij de Horde, omdat Blood Fury 10% spell power geeft, met Troll als tweede. Bij de Alliance eerst Human voor 1% critical strike chance, daarna de High Order Skyborne. Kies het ras dat je mooi vindt als je niet op elk procent jaagt."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/fire/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fire-mage/"
 ---
@@ -30,7 +32,7 @@ De Fire Mage in WoW Forever leeft van critical strikes. Heating Up maakt van cri
 | | |
 |---|---|
 | Rol | Schade op afstand, critical strikes en brand |
-| Build op level 30 | 19 tot 21 punten in Fire, Talented voegt Critical Mass en hit chance toe |
+| Build op level 60 | 16/32/3 |
 | Belangrijkste talenten | Heating Up, Pyroblast, Ignite, Improved Scorch, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a> |
 | Sterk in | Hoge schade die meegroeit met gear, zuinig met mana, utility voor de groep |
 | Zwak in | Heeft critical strike chance nodig, zwak tijdens het levelen |
@@ -54,43 +56,42 @@ De Fire Mage in WoW Forever leeft van critical strikes. Heating Up maakt van cri
 | Zuiniger met mana dan Arcane, later met Master of Elements | Minder overlevingskracht dan Frost, en geen <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a> |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=604"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dampen Magic</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1008"><img class="wf-wh__icon" src="/wh/spell_holy_flashheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amplify Magic</a>, eten, water en portalen | Heeft hit chance nodig tegen bazen, en dat kost talentpunten |
 
-## Twee builds voor level 30
+## Builds voor level 60
 
-Beide builds gebruiken de 21 punten die je op level 30 hebt. Talented uit het Legacy-systeem geeft elk 5 punten extra.
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
 
-### Dungeonbuild
+### Raidbuild, 16/32/3
 
-Voor dungeons en bazen boven je level. 2/3 Precision in Frost zorgt dat je spells niet missen, en 3/3 Improved Scorch zit er ook zonder Talented in, omdat de bonus op Fire-schade zo sterk is. Voor Critical Mass of Master of Elements blijven geen punten over zonder hit chance op te geven. [Open de build in de talentcalculator](/nl/talents/mage/?t=-155003010301-002).
-
-| Talent | Punten |
-|---|---|
-| **Incineration** | 1/5 |
-| **Accelerant** | 5/5 |
-| **Ignite** | 5/5 |
-| **Burning Soul** | 3/3 |
-| **Pyroblast** | 1/1 |
-| **Improved Scorch** | 3/3 |
-| **Heating Up** | 1/1 |
-| **Precision** | 2/3 |
-
-[Open de Talented-versie](/nl/talents/mage/?t=-25500301030103-003) met Incineration 2/5, Critical Mass 3/3 en Precision 3/3.
-
-### Solobuild
-
-Om te questen tegen monsters op of onder je level, dus zonder Precision. Alle punten gaan naar Fire, met Incineration 2/5 en het eerste punt van Critical Mass voor meer critical strikes. [Open de build in de talentcalculator](/nl/talents/mage/?t=-25500301030101).
+16 punten in Arcane, 32 in Fire en 3 in Frost. [Open de raidbuild in de talentcalculator](/nl/talents/mage/?t=0502052001001-55500001230133031-003).
 
 | Talent | Punten |
 |---|---|
-| **Incineration** | 2/5 |
+| **Improved Channeling** | 5/5 |
+| **Arcane Subtlety** | 2/2 |
+| **Arcane Concentration** | 5/5 |
+| **Missile Barrage** | 2/2 |
+| **Arcane Blast** | 1/1 |
+| **Arcane Meditation** | 1/3 |
+| **Incineration** | 5/5 |
 | **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
-| **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
+| **Improved Fire Blast** | 2/2 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Critical Mass** | 1/3 |
+| **Master of Elements** | 3/3 |
+| **Critical Mass** | 3/3 |
+| **Fire Power** | 3/3 |
+| **Combustion** | 1/1 |
+| **Precision** | 3/3 |
 
-[Open de Talented-versie](/nl/talents/mage/?t=-4550030103010301) met Incineration 4/5, Critical Mass 3/3 en Fire Power 1/3. Meer burst? Neem <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> in plaats van Fire Power, voor een aanval rondom je om de 45 seconden. De [levelbuild voor de Mage](/nl/leveling/mage/) geeft een talent voor elk level van 10 tot 35.
+### Levelbuild, 18/0/33
+
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/mage/?t=0502052001003--053530000101331251). De [levelbuild voor de Mage](/nl/leveling/mage/) geeft het talent voor elk level.
+
+### PvP-build, 21/28/2
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/mage/?t=050205220002201-35523001230103-002).
 
 ### Wat de belangrijkste talenten doen
 
@@ -135,7 +136,7 @@ Op hogere levels ziet de rotatie er zo uit: Improved Scorch op 5 stacks, Fire Bl
 
 Fire-spells kosten veel, maar Fire vraagt minder manabeheer dan Arcane.
 
-- **Master of Elements** geeft bij 3/3 30% van de basiskosten terug bij elke critical strike met Fire of Frost. Buiten bereik op level 30, maar later procet het bijna altijd.
+- **Master of Elements** geeft bij 3/3 30% van de basiskosten terug bij elke critical strike met Fire of Frost. Het procet bijna altijd.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6117"><img class="wf-wh__icon" src="/wh/spell_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mage Armor</a>** vanaf level 34 houdt 50% van je manaregeneratie tijdens het casten. Met een uitstap naar Arcane Meditation wordt dat 100%.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12051"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Evocation</a>** vult je mana aan in een paar seconden, met een lange cooldown. Bewaar het voor lange baasgevechten. Een High Order Skyborne combineert het met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>.
 - **Manastenen** zoals <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=759"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Conjure Mana Agate</a> geven mana terug met één lading per steen. Maak een nieuwe voor elk lang gevecht.

@@ -18,8 +18,10 @@ faq:
   - q: "Welches Volk ist das beste für einen Holy Priest?"
     a: "Gnome oder Human für die Allianz, Undead für die Horde. Undead hat Dark Sacrifice für Mana, während Troll einem Heiler kaum etwas bietet."
   - q: "Ist dieser Build endgültig?"
-    a: "Nein. Er nutzt die Talente des Beta-Builds vom 15. Oktober für Level 60. Die Beta endete bei Level 30, diese Talente wurden also nie auf Level 60 getestet und können sich noch ändern."
+    a: "Nein. Oktober für Level 60."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"
 ---
@@ -28,7 +30,7 @@ Der Holy Priest in WoW Forever ist ein Heiler mit einer Antwort auf jede Wunde: 
 | | |
 |---|---|
 | Rolle | Heiler, am stärksten in Gruppen- und Schlachtzugsheilung |
-| Build für Level 60 | 18/33/0, mit den Talenten des Beta-Builds vom 15. Oktober |
+| Build für Level 60 | 18/33/0 |
 | Wichtige Talente | Improved Renew, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
 | Stärke | Ein sehr solider Schlachtzugsheiler mit vielen Werkzeugen |
 | Schwäche | Kaum Mobilität, Zufall bei Prayer of Mending |
@@ -52,9 +54,15 @@ Der Holy Priest in WoW Forever ist ein Heiler mit einer Antwort auf jede Wunde: 
 | Gutes Mana dank Meditation und Litany of Light | Weniger geeignet als Discipline, um einen einzelnen Tank am Leben zu halten |
 | Fear Ward, Dispel Magic und Abolish Disease für die Gruppe | |
 
-## Der Build für Level 60 (18/33/0)
+## Builds für Level 60
 
-Dieser Build nutzt alle 51 Punkte von Level 60. Die 18 Punkte in Discipline bezahlen Twin Disciplines, Mental Strength, Inner Focus, Improved Power Word: Shield, Meditation und Soul Warding. Der Rest geht in Holy bis Prayer of Mending. [Öffne den Build im Talentrechner](/de/talents/priest/?t=00500500133001-03505103030121531).
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 18/33/0
+
+18 Punkte in Discipline und 33 in Holy. [Raid-Build im Talentrechner öffnen](/de/talents/priest/?t=00500500133001-10505103230121531).
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/priest/?t=025005001330011-0350510303002053).
 
 | Talent | Punkte |
 |---|---|
@@ -64,27 +72,27 @@ Dieser Build nutzt alle 51 Punkte von Level 60. Die 18 Punkte in Discipline beza
 | **Improved Power Word: Shield** | 3/3 |
 | **Meditation** | 3/3 |
 | **Soul Warding** | 1/1 |
-| **Improved Renew** | 3/3 |
+| **Twilight Focus** | 1/3 |
 | **Holy Specialization** | 5/5 |
 | **Divine Fury** | 5/5 |
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
+| **Holy Reach** | 2/2 |
 | **Improved Healing** | 3/3 |
 | **Holy Binding** | 1/1 |
-| **Holy Binding** | Jedes Flash Heal auf andere heilt auch dich um 50% davon, ohne Bedrohung |
 | **Litany of Light** | 2/2 |
 | **Spirit of Redemption** | 1/1 |
 | **Spiritual Guidance** | 5/5 |
 | **Spiritual Healing** | 3/3 |
 | **Prayer of Mending** | 1/1 |
 
-![Der Holy-Priest-Build 18/33/0 in unserem Talentrechner](../../../../assets/posts/2026-10-21-wow-forever-holy-priest-build.jpg)
+### Leveling-Build, 16/0/35
 
-**Freie Punkte.**
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/priest/?t=00500520103--50542201201302251). Der [Level-Build für den Priest](/de/leveling/priest/) gibt das Talent für jedes Level.
 
-- Geht dir mit viel Renew das Mana aus? Verschiebe ein paar Punkte zu Mental Agility, das deine Spontanzauber billiger macht.
-- Fehlen deinem Schlachtzug offensive Banne und musst du ran, lassen ein paar Punkte in Holy Precision Dispel Magic seltener verfehlen.
-- Twilight Focus hilft gegen Zauberverzögerung, aber nur in Kämpfen, in denen du beim Zaubern Schaden nimmst.
+### PvP-Build, 34/17/0
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/priest/?t=005305201333011331-3020511302).
 
 ## Was die wichtigsten Talente tun
 

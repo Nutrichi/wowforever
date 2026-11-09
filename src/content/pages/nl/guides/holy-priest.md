@@ -18,8 +18,10 @@ faq:
   - q: "Welk ras is het beste voor een Holy Priest?"
     a: "Gnome of Human voor de Alliance, Undead voor de Horde. Undead krijgt Dark Sacrifice voor mana, terwijl Troll een healer bijna niets biedt."
   - q: "Is deze build definitief?"
-    a: "Nee. Hij gebruikt de talenten van de betabuild van 15 oktober voor level 60. De beta stopte op level 30, dus deze talenten zijn nooit op level 60 getest en kunnen nog veranderen."
+    a: "Nee."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-priest/"
 ---
@@ -28,7 +30,7 @@ De Holy Priest in WoW Forever is een healer met een antwoord op elke wonde: Rene
 | | |
 |---|---|
 | Rol | Healer, het sterkst in groeps- en raidhealing |
-| Build voor level 60 | 18/33/0, met de talenten van de betabuild van 15 oktober |
+| Build voor level 60 | 18/33/0 |
 | Belangrijkste talenten | Improved Renew, Spiritual Guidance, Litany of Light, Spiritual Healing, Prayer of Mending, Meditation |
 | Sterk in | Een heel degelijke raidhealer met veel middelen |
 | Zwak in | Bijna geen beweging, toeval in Prayer of Mending |
@@ -52,9 +54,15 @@ De Holy Priest in WoW Forever is een healer met een antwoord op elke wonde: Rene
 | Goede mana dankzij Meditation en Litany of Light | Minder geschikt dan Discipline om één tank in leven te houden |
 | Fear Ward, Dispel Magic en Abolish Disease voor de groep | |
 
-## De build voor level 60 (18/33/0)
+## Builds voor level 60
 
-Deze build gebruikt alle 51 punten van level 60. De 18 punten in Discipline betalen Twin Disciplines, Mental Strength, Inner Focus, Improved Power Word: Shield, Meditation en Soul Warding. De rest gaat naar Holy tot Prayer of Mending. [Open de build in de talentcalculator](/nl/talents/priest/?t=00500500133001-03505103030121531).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 18/33/0
+
+18 punten in Discipline en 33 in Holy. [Open de raidbuild in de talentcalculator](/nl/talents/priest/?t=00500500133001-10505103230121531).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/priest/?t=025005001330011-0350510303002053).
 
 | Talent | Punten |
 |---|---|
@@ -64,27 +72,27 @@ Deze build gebruikt alle 51 punten van level 60. De 18 punten in Discipline beta
 | **Improved Power Word: Shield** | 3/3 |
 | **Meditation** | 3/3 |
 | **Soul Warding** | 1/1 |
-| **Improved Renew** | 3/3 |
+| **Twilight Focus** | 1/3 |
 | **Holy Specialization** | 5/5 |
 | **Divine Fury** | 5/5 |
 | **Holy Nova** | 1/1 |
 | **Inspiration** | 3/3 |
+| **Holy Reach** | 2/2 |
 | **Improved Healing** | 3/3 |
 | **Holy Binding** | 1/1 |
-| **Holy Binding** | Elke Flash Heal op iemand anders heelt jou ook voor 50% daarvan, zonder threat |
 | **Litany of Light** | 2/2 |
 | **Spirit of Redemption** | 1/1 |
 | **Spiritual Guidance** | 5/5 |
 | **Spiritual Healing** | 3/3 |
 | **Prayer of Mending** | 1/1 |
 
-![De Holy Priest-build 18/33/0 in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-holy-priest-build.jpg)
+### Levelbuild, 16/0/35
 
-**Vrije punten.**
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/priest/?t=00500520103--50542201201302251). De [levelbuild voor de Priest](/nl/leveling/priest/) geeft het talent voor elk level.
 
-- Raak je zonder mana met veel Renew? Schuif een paar punten naar Mental Agility, dat je instant spells goedkoper maakt.
-- Mist je raid offensieve dispels en moet jij het doen, dan laten een paar punten in Holy Precision Dispel Magic minder missen.
-- Twilight Focus helpt tegen pushback, maar alleen in gevechten waarin je schade krijgt terwijl je cast.
+### PvP-build, 34/17/0
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/priest/?t=005305201333011331-3020511302).
 
 ## Wat de belangrijkste talenten doen
 

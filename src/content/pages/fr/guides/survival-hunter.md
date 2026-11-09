@@ -20,6 +20,8 @@ faq:
   - q: "Quelle race est la meilleure pour un Survival Hunter ?"
     a: "Skyborne des deux côtés, pour le bonus de hâte. Human pour l'Alliance et Orc pour la Horde sont de bonnes alternatives. Les différences sont faibles."
 sources:
+  - name: "Wowhead, builds de talents"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/survival-hunter/"
 ---
@@ -48,37 +50,42 @@ Le Survival Hunter de WoW Forever combat à distance et en mêlée. Vous glissez
 
 **La zone morte.** Entre la portée de mêlée et 8 mètres, vous ne pouvez utiliser ni mêlée ni distance. Le Survival a aussi ce problème.
 
-## Le build niveau 60 : 5/13/33
+## Les builds pour le niveau 60
 
-La beta s'arrêtait au niveau 30, mais les arbres de talents du niveau 60 sont dans les fichiers du jeu. Nous avons vérifié ce build point par point dans [notre calculateur de talents](/fr/talents/hunter/?t=5-005005201-530200230050222151) : 5 points en Beast Mastery, 13 en Marksmanship et 33 en Survival, 51 au total.
+Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chaque build s’ouvre dans notre calculateur de talents.
+
+### Build de raid, 16/4/31
+
+16 points en Beast Mastery, 4 en Marksmanship et 31 en Survival. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/hunter/?t=51202005001-004-500230230050022151).
 
 | Talent | Points |
 |---|---|
-| **Deadly Aspects** (Beast Mastery) | 5/5 |
-| **Lethal Attacks** (Marksmanship) | 5/5 |
-| **Careful Aim** (Marksmanship) | 5/5 |
-| **Rapid Killing** (Marksmanship) | 2/2 |
-| **Lone Wolf** (Marksmanship) | 1/1 |
+| **Deadly Aspects** | 5/5 |
+| **Endurance Training** | 1/5 |
+| **Focused Fire** | 2/2 |
+| **Improved Revive Pet** | 2/2 |
+| **Unleashed Fury** | 5/5 |
+| **Summon Hawk** | 1/1 |
+| **Lethal Attacks** | 4/5 |
 | **Improved Tracking** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19295"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
 | **Savage Strikes** | 2/2 |
+| **Survivalist** | 3/5 |
 | **Clever Traps** | 2/2 |
 | **Surefooted** | 3/3 |
 | **Predator's Edge** | 5/5 |
-| **Resourcefulness** | 2/2 |
 | **Expose Prey** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310496"><img class="wf-wh__icon" src="/wh/ability_hunter_mastertactitian.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Survivalist's Discipline</a>** | 2/2 |
+| **Survivalist's Discipline** | 2/2 |
 | **Strider Kick** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a>** | 5/5 |
+| **Lightning Reflexes** | 5/5 |
 | **Lacerating Strikes** | 1/1 |
 
-![Le build 5/13/33 du Survival Hunter dans notre calculateur de talents](../../../../assets/posts/2026-10-25-wow-forever-survival-hunter-build.jpg)
+### Build de leveling, 31/20/0
 
-Trois choix peuvent bouger :
+Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/hunter/?t=5120221405101241-00503520005). Le [build de leveling du Hunter](/fr/leveling/hunter/) donne le talent de chaque niveau.
 
-- **Lone Wolf** vers 1 point dans **Efficiency** ou **Improved Stings** si vous voulez garder votre familier, par exemple pendant les quêtes.
-- **Rapid Killing** vers 2 points dans **Efficiency** ou **Improved Stings** si vous n'avez pas besoin de Rapid Fire plus souvent et préférez des Stings moins chères ou plus fortes.
-- **Deadly Aspects** vers 2 points dans **Efficiency** ou **Improved Stings** plus 3 points dans **Mortal Shots**.
+### Build PvP, 16/0/35
+
+Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/hunter/?t=50230014001--502203031051222151).
 
 ## Ce que font les talents clés
 

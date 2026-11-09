@@ -1,14 +1,14 @@
 ---
 title: "Affliction Warlock in WoW Forever: de gids"
 metaTitle: "WoW Forever Affliction Warlock: drain tank-build, rotatie, Life Tap en races"
-description: "De Affliction Warlock in WoW Forever: wat er verandert, de drain tank-build voor level 30, de rotatie, Life Tap en Drain Life, demons, stats, races en beroepen."
+description: "De Affliction Warlock in WoW Forever: wat er verandert, de drain tank-build voor level 60, de rotatie, Life Tap en Drain Life, demons, stats, races en beroepen."
 short: "Affliction Warlock"
 updated: 2026-11-07
 lang: nl
 manual: true
 faq:
   - q: "Wat is een drain tank?"
-    a: "Een Affliction Warlock die zich laat raken en alles terugheelt met Drain Life. De nieuwe drain-talents maken Drain Life sterk genoeg om de Life Taps te betalen die je cast, zodat je zelden stopt om te eten of te drinken."
+    a: "Een Affliction Warlock die zich laat raken en alles terugheelt met Drain Life."
   - q: "Wat zijn Banes?"
     a: "Bane of Agony en Bane of Doom zijn in WoW Forever geen Curses meer. Een Warlock kan nu een Bane en een Curse op hetzelfde doelwit hebben, bijvoorbeeld Bane of Agony met Curse of Weakness."
   - q: "Kunnen DoTs critten in WoW Forever?"
@@ -19,9 +19,11 @@ faq:
     a: "De Succubus of Incubus doet de meeste schade en is de standaard voor solo spelen terwijl je drain tankt. Neem de Voidwalker voor elites en gevaarlijke pulls, en de Felhunter tegen casters."
   - q: "Welk ras is het beste voor een Affliction Warlock?"
     a: "Undead bij de Horde en Human of Gnome bij de Alliance hebben kleine voordelen, maar geen enkel is sterk genoeg om een ras dat je liever hebt over te slaan."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/warlock/affliction/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/affliction-warlock/"
 ---
@@ -30,7 +32,7 @@ De Affliction Warlock zet in WoW Forever schade over tijd op de vijand en draine
 | | |
 |---|---|
 | Rol | Schade, de meest zelfstandige Warlock-spec solo |
-| Build op level 30 | Drain tank, 21 punten in Affliction |
+| Build op level 60 | 33/0/18 |
 | Belangrijke talents | Improved Corruption, Suppression, Improved Drains, Soul Siphon |
 | Sterk in | Zelfvoorziening, schade in beweging, nut voor de groep |
 | Zwak in | Trage start, stilstaande filler, health als bron |
@@ -54,24 +56,41 @@ De Affliction Warlock zet in WoW Forever schade over tijd op de vijand en draine
 | DoTs op meerdere doelwitten tegelijk | Elke Life Tap kost health |
 | Soulstone, Healthstones en summons | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1949"><img class="wf-wh__icon" src="/wh/spell_fire_incinerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hellfire</a> verbrandt ook je eigen health |
 
-## De drain tank-build op level 30
+## Builds voor level 60
 
-Deze build zet 21 punten in op drain tanken. Met 5 punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> uit het Legacy-systeem heb je 26 punten op level 30. Neem dan eerst <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17804"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Soul Siphon</a> naar 3/3, en twee extra punten in Grim Reach, dat Malediction verving, brengen je op 25 punten in Affliction, wat <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18271"><img class="wf-wh__icon" src="/wh/spell_shadow_shadetruesight.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Mastery</a> opent voor het laatste punt.
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
 
-| Talent | Wat het doet in Forever |
+### Raidbuild, 33/0/18
+
+33 punten in Affliction en 18 in Destruction. [Open de raidbuild in de talentcalculator](/nl/talents/warlock/?t=25500000135201351--0550005003).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/warlock/?t=2550001013520105--0550205103).
+
+| Talent | Punten |
 |---|---|
-| **Improved Corruption** | Op 5/5 wordt <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> instant en doet 10% meer schade |
-| **Suppression** | 1% hit en 4% minder threat per punt. 4 punten halen alle misses weg tegen vijanden van je level |
-| **Improved Drains** | Drain Life en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1120"><img class="wf-wh__icon" src="/wh/spell_shadow_haunting.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Soul</a> doen 20% meer op 3/3 |
-| **Fel Concentration** | Tot 70% kans dat schade je drains niet vertraagt |
-| **Improved Life Tap** | 20% meer mana uit Life Tap op 2/2 |
-| **Amplify Curse** | Een sterkere Bane of Agony bij elke cooldown, nodig voor <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18223"><img class="wf-wh__icon" src="/wh/spell_shadow_grimward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Exhaustion</a> |
-| **Soul Siphon** | Drains doen per punt 4% meer per Affliction-effect op het doelwit, tot 36% op 3/3 |
-| **Grim Reach** | 10% meer bereik voor Affliction-spells per punt, 20% op 2/2 |
+| **Improved Life Tap** | 2/2 |
+| **Suppression** | 5/5 |
+| **Improved Corruption** | 5/5 |
+| **Amplify Curse** | 1/1 |
+| **Pandemic** | 3/3 |
+| **Malevolence** | 5/5 |
+| **Nightfall** | 2/2 |
+| **Siphon Life** | 1/1 |
+| **Soul Siphon** | 3/3 |
+| **Shadow Mastery** | 5/5 |
+| **Wrack** | 1/1 |
+| **Improved Shadow Bolt** | 5/5 |
+| **Bane** | 5/5 |
+| **Ruin** | 5/5 |
+| **Agonizing Flames** | 3/3 |
 
-**Pandemic** verhoogt alleen de critical strike-schade. Met weinig crit op level 30 levert het weinig op, dus het kan wachten. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** doet weinig schade, maar betaalt zichzelf terug in lange gevechten en telt als Affliction-effect voor Soul Siphon.
+### Levelbuild, 41/10/0
 
-De [levelbuild van de Warlock](/nl/leveling/warlock/) op deze site kiest een andere weg tot level 40, met Pandemic en Malevolence voor meer crit op je DoTs. Beide werken. De drain tank ruilt wat schade in voor minder pauzes.
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/warlock/?t=2552032303520135-00050032). De [levelbuild voor de Warlock](/nl/leveling/warlock/) geeft het talent voor elk level.
+
+### PvP-build, 30/21/0
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/warlock/?t=2252002013421105-0050233201201101).
 
 ## Rotatie
 
@@ -107,7 +126,7 @@ Met het nieuwe commando Move zet je je demon waar je wil. Leg Attack en Follow o
 
 ## Stats en gear
 
-**Spell damage en Shadow damage** eerst, dan **Stamina en Spirit**, dan **Intellect**. Stamina geeft meer health om te tappen, Spirit meer mana per Life Tap. Hit en crit zijn zeldzaam op gear op level 30, en Haste doet niets voor DoTs of channels.
+**Spell damage en Shadow damage** eerst, dan **Stamina en Spirit**, dan **Intellect**. Stamina geeft meer health om te tappen, Spirit meer mana per Life Tap. Haste doet niets voor DoTs of channels.
 
 - **Tailoring** heeft nieuwe soulbound Shadow-stukken zoals <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253967"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gown</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_27.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gloves</a>, die alleen de tailor zelf kan dragen.
 - **Wapens.** Met de Warlock-quest voor de Orb of Soran'ruk kies je tussen <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2549"><img class="wf-wh__icon" src="/wh/inv_staff_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of the Shade</a> uit Razorfen Kraul is uitstekend als hij dropt.

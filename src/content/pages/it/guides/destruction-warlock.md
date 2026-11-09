@@ -1,7 +1,7 @@
 ---
 title: "Guida al Destruction Warlock in WoW Forever"
-metaTitle: "WoW Forever Destruction Warlock: build di livello 30, Conflagrate e Hellfire"
-description: "Il Destruction Warlock in WoW Forever: la build di livello 30 con Bane, Aftermath, Shadowburn e Conflagrate, la rotazione, Hellfire nei dungeon, mana, minaccia, statistiche e razze."
+metaTitle: "WoW Forever Destruction Warlock: build di livello 60, Conflagrate e Hellfire"
+description: "Il Destruction Warlock in WoW Forever: la build di livello 60 con Bane, Aftermath, Shadowburn e Conflagrate, la rotazione, Hellfire nei dungeon, mana, minaccia, statistiche e razze."
 short: "Destruction Warlock"
 updated: 2026-11-07
 lang: it
@@ -10,16 +10,18 @@ faq:
   - q: "Quando ottiene Conflagrate un Destruction Warlock?"
     a: "Al livello 25 in WoW Forever, invece che al 40. Consuma il tuo Immolate per danni da Fuoco istantanei, con un tempo di recupero di 10 secondi."
   - q: "Hellfire può fare critico in WoW Forever?"
-    a: "Sì. Hellfire ora può fare colpi critici, il che rende Destruction una delle spec ad area più forti al livello 30. Continua però a bruciare la tua vita mentre lo canalizzi."
+    a: "Sì. Continua però a bruciare la tua vita mentre lo canalizzi."
   - q: "Devo lanciare Conflagrate appena è pronto?"
-    a: "Non al livello 30. Conflagrate consuma Immolate, quindi lascia scorrere Immolate e lancia Conflagrate poco prima dell’ultimo tick. Dal livello 40, Shadow and Flame a 5/5 tiene Immolate sul bersaglio e lo lanci appena è pronto."
+    a: "Conflagrate consuma Immolate, quindi lascia scorrere Immolate e lancia Conflagrate poco prima dell’ultimo tick. Dal livello 40, Shadow and Flame a 5/5 tiene Immolate sul bersaglio e lo lanci appena è pronto."
   - q: "Destruction va bene per livellare in solo?"
     a: "È la spec Warlock più lenta in solo, perché la maggior parte dei danni viene da lanci per cui resti fermo e consuma più mana di tutte. Brilla nei dungeon, dove il guaritore paga i tuoi Life Tap e Hellfire."
   - q: "Qual è la razza migliore per un Destruction Warlock?"
     a: "Human per l’Alleanza, per l’1% di probabilità di critico in più da Ruthless. Undead per l’Orda, per Touch of the Grave, Cannibalize e Will of the Forsaken. Anche Berserking del Troll accelera i tuoi lanci. Le differenze sono piccole, quindi scegli la razza che ti piace."
-  - q: "C’è già una build per il livello 60?"
-    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
+  - q: "C'è una build per il livello 60?"
+    a: "Sì. Questa guida ha tre build per il livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ognuna si apre nel nostro calcolatore di talenti."
 sources:
+  - name: "Wowhead, build dei talenti"
+    url: "https://www.wowhead.com/forever/guide/classes/warlock/destruction/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/destruction-warlock/"
 ---
@@ -28,7 +30,7 @@ Il Destruction Warlock in WoW Forever dà fuoco a tutto. Spargi Immolate, lo fai
 | | |
 |---|---|
 | Ruolo | Burst a distanza e danni ad area, al meglio nei dungeon |
-| Build al livello 30 | 21 punti in Destruction e 5 in Affliction, con i 5 punti extra di Talented |
+| Build al livello 60 | 14/4/33 |
 | Talenti chiave | Bane, Aftermath, Shadowburn, Conflagrate, Agonizing Flames, Suppression |
 | Punti forti | Burst con Conflagrate e Shadowburn, Hellfire contro i gruppi |
 | Punti deboli | Mana, minaccia, restare fermo |
@@ -52,27 +54,43 @@ Il Destruction Warlock in WoW Forever dà fuoco a tutto. Spargi Immolate, lo fai
 | Immolate su un gruppo e Hellfire per danni ad area forti | Molta minaccia immediata con Immolate, Conflagrate e Hellfire |
 | Soulstone, Healthstones ed evocazioni per il gruppo | Resti fermo per gran parte di ogni combattimento |
 
-## La build di livello 30
+## Build per il livello 60
 
-Questa build usa 26 punti: i 21 punti del livello 30 più 5 di <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> nel sistema Legacy. Prendi Bane, Aftermath, Shadowburn, Conflagrate e Agonizing Flames, poi 3 punti in Cataclysm e 2 in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17917"><img class="wf-wh__icon" src="/wh/spell_shadow_corpseexplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Destructive Reach</a>, per il 20% di portata in più, fino a 20 punti in Destruction. Cinque punti in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18174"><img class="wf-wh__icon" src="/wh/spell_shadow_unsummonbuilding.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Suppression</a> danno precisione e meno minaccia, e l’ultimo punto va a Bane of Havoc per i dungeon. [Apri la build nel calcolatore dei talenti](/it/talents/warlock/?t=05--2050350103101).
+Tre build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ogni build si apre nel nostro calcolatore di talenti.
+
+### Build da raid, 14/4/33
+
+14 punti in Affliction, 4 in Demonology e 33 in Destruction. [Apri la build da raid nel calcolatore di talenti](/it/talents/warlock/?t=2530000013-0004-0050355103101351).
+
+Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/talents/warlock/?t=2350000013-0004-0050355103101351).
 
 | Talento | Punti |
 |---|---|
+| **Improved Life Tap** | 2/2 |
 | **Suppression** | 5/5 |
-| **Destructive Reach** | 2/2 |
+| **Improved Corruption** | 3/5 |
+| **Amplify Curse** | 1/1 |
+| **Pandemic** | 3/3 |
+| **Unholy Power** | 4/5 |
 | **Bane** | 5/5 |
 | **Cataclysm** | 3/3 |
 | **Aftermath** | 5/5 |
+| **Ruin** | 5/5 |
 | **Shadowburn** | 1/1 |
 | **Agonizing Flames** | 3/3 |
 | **Conflagrate** | 1/1 |
 | **Bane of Havoc** | 1/1 |
+| **Fire and Brimstone** | 3/3 |
+| **Shadow and Flame** | 5/5 |
+| **Incinerate** | 1/1 |
 
-![La build di livello 30 del Destruction Warlock nel nostro calcolatore dei talenti](../../../../assets/posts/2026-10-21-wow-forever-destruction-warlock-build.jpg)
+### Build per livellare, 41/10/0
 
-Giochi soprattutto in solo? Metti 3 punti in Suppression, 2 in Improved Life Tap e 1 in Improved Corruption, e salta Bane of Havoc. [Apri la versione solo](/it/talents/warlock/?t=231--20503501031).
+La build per livellare prende prima i talenti che aiutano a uccidere da soli. [Aprila nel calcolatore di talenti](/it/talents/warlock/?t=2552032303520135-00050032). La [build di leveling del Warlock](/it/leveling/warlock/) dà il talento per ogni livello.
 
-Dopo il livello 30 arrivano Fire and Brimstone, Shadow and Flame e Incinerate più in basso nell’albero.
+### Build PvP, 0/21/30
+
+La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel calcolatore di talenti](/it/talents/warlock/?t=-1050203201221101-20550551031003).
 
 ## Cosa fanno i talenti chiave
 
@@ -86,8 +104,6 @@ Dopo il livello 30 arrivano Fire and Brimstone, Shadow and Flame e Incinerate pi
 | **Suppression** | L’1% di precisione per punto e meno minaccia |
 | **Cataclysm** | Il 10% di costo in mana in meno per gli incantesimi di Destruction a 3/3 |
 | **Bane of Havoc** | Il 15% dei tuoi danni sugli altri nemici va al suo bersaglio. Conviene sui gruppi di 4 o più con Hellfire |
-
-Ruin e Improved Shadow Bolt chiedono più critico di quanto ne hai al livello 30. Fire and Brimstone aggiunge solo circa 2 danni al secondo a questo livello, meno di 3 punti di Suppression.
 
 ## Rotazione
 
@@ -138,7 +154,7 @@ Il nuovo comando Move ti lascia piazzare il demone dove vuoi. Assegna Attack e F
 
 ## Statistiche ed equipaggiamento
 
-**Potere magico, danni da Fuoco e danni da Ombra** prima, poi **Intelletto e Spirito**, poi **Tempra**. I danni da Fuoco aiutano Immolate, Conflagrate e Hellfire, quelli da Ombra Shadow Bolt e Shadowburn. L’Intelletto conta più che per le altre spec, perché Destruction consuma più mana di tutte. Con Suppression a 5/5 non manchi più i nemici del tuo livello. Il critico aiuta Destruction più delle altre spec, ma è raro sull’equipaggiamento al livello 30.
+**Potere magico, danni da Fuoco e danni da Ombra** prima, poi **Intelletto e Spirito**, poi **Tempra**. I danni da Fuoco aiutano Immolate, Conflagrate e Hellfire, quelli da Ombra Shadow Bolt e Shadowburn. L’Intelletto conta più che per le altre spec, perché Destruction consuma più mana di tutte. Con Suppression a 5/5 non manchi più i nemici del tuo livello. Il critico aiuta Destruction più delle altre spec.
 
 - **Tailoring** ha nuovi pezzi di Fiamma vincolati che potenziano Immolate, Conflagrate e Hellfire, e pezzi d’Ombra come <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253967"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gown</a>. Solo il sarto che li crea può indossarli.
 - **Armi.** La tua arma è un bastone di statistiche, il suo potere magico conta più dei danni. La missione Warlock dell’Orb of Soran'ruk ti fa scegliere tra <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> e <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>.

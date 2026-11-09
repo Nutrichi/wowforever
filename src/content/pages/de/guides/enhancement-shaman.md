@@ -1,7 +1,7 @@
 ---
 title: "Guide zum Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: Build, Stormstrike, Totems"
-description: "Der Enhancement Shaman in WoW Forever: der Build für Level 30 und seine Talented-Version, Stormstrike und Maelstrom Weapon, Rotation, Totems, Mana, Tanken, Werte und Völker."
+description: "Der Enhancement Shaman in WoW Forever: der Build für Level 60, Stormstrike und Maelstrom Weapon, Rotation, Totems, Mana, Tanken, Werte und Völker."
 short: "Enhancement Shaman"
 updated: 2026-11-07
 lang: de
@@ -21,20 +21,22 @@ faq:
     a: "Zuerst Waffenschaden, dann Hit, je näher Level 60 rückt, Strength und Intellect, kritische Trefferchance, Spirit und Zauberschaden. Intellect gibt über Mental Dexterity Angriffskraft und außerdem einen größeren Manavorrat."
   - q: "Welches Volk ist am besten für einen Enhancement Shaman?"
     a: "Dwarf ist der einzige Shaman der Alliance. Bei der Horde ist Orc dank Blood Fury die stärkste Wahl, und Windshaper Skyborne erhält 2% Haste."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
 > **Update vom 4. November:** Builds und Talente unten folgen den neuen Bäumen aus den Entwicklungsnotizen vom 2. November, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/).
 
-Der Enhancement Shaman in WoW Forever kämpft im Nahkampf und mischt Zauber hinein. Eine langsame Zweihandwaffe mit Windfury Weapon liefert die großen Treffer, während Stormstrike und Maelstrom Weapon Lightning Bolt in die Rotation bringen. Totems machen dich in jeder Gruppe willkommen. Diese Guide behandelt den Build für Level 30, die wichtigsten Talente, die Rotation, Totems, Mana, Tanken, Werte und Völker.
+Der Enhancement Shaman in WoW Forever kämpft im Nahkampf und mischt Zauber hinein. Eine langsame Zweihandwaffe mit Windfury Weapon liefert die großen Treffer, während Stormstrike und Maelstrom Weapon Lightning Bolt in die Rotation bringen. Totems machen dich in jeder Gruppe willkommen. Diese Guide behandelt den Build für Level 60, die wichtigsten Talente, die Rotation, Totems, Mana, Tanken, Werte und Völker.
 
 | | |
 |---|---|
 | Rolle | Nahkampfschaden, ein Ziel und Gruppen, Tank in frühen Dungeons |
-| Build auf Level 30 | 21 Punkte in Enhancement, Talented ergänzt Mental Quickness 2/2, Improved Stormstrike 2/2 und Maelstrom Weapon 1/5 |
+| Build auf Level 60 | 17/34/0 |
 | Wichtige Talente | Mental Dexterity, Shamanistic Focus, Flurry, Stormstrike, Improved Stormstrike, Maelstrom Weapon |
 | Stärken | Solider Schaden, Totems für den ganzen Raid, viel Nutzen |
 | Schwächen | Mana, Abhängigkeit von der Waffe, wenige defensive Optionen |
@@ -56,26 +58,45 @@ Der Enhancement Shaman in WoW Forever kämpft im Nahkampf und mischt Zauber hine
 
 **Wenig Verteidigung.** Keine harte Crowd Control und kein echter defensiver Cooldown. Stoneskin Totem und deine eigene Heilung reichen nur so weit.
 
-## Der Build für Level 30
+## Builds für Level 60
 
-Die Beta endete bei Level 30, also nutzt der Build 21 Punkte. Talented aus dem Legacy-System gibt 5 weitere. [Den Build im Talentrechner öffnen](/de/talents/shaman/?t=-052031310051).
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 17/34/0
+
+17 Punkte in Elemental und 34 in Enhancement. [Raid-Build im Talentrechner öffnen](/de/talents/shaman/?t=053303102-053030310051212251).
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/shaman/?t=05330310201-0530303100212122-053).
 
 | Talent | Punkte |
 |---|---|
+| **Concussion** | 5/5 |
+| **Elemental Devastation** | 3/3 |
+| **Reverberation** | 3/5 |
+| **Call of Flame** | 3/3 |
+| **Elemental Focus** | 1/1 |
+| **Trial by Fire** | 2/2 |
 | **Thundering Strikes** | 5/5 |
-| **Ancestral Knowledge** | 2/5 |
+| **Ancestral Knowledge** | 3/5 |
 | **Mental Dexterity** | 3/3 |
-| **Improved Lightning Shield** | 1/3 |
 | **Elemental Weapons** | 3/3 |
 | **Shamanistic Focus** | 1/1 |
 | **Flurry** | 5/5 |
 | **Stormstrike** | 1/1 |
+| **Improved Ghost Wolf** | 2/2 |
+| **Spirit Weapons** | 1/1 |
+| **Mental Quickness** | 2/2 |
+| **Improved Stormstrike** | 2/2 |
+| **Maelstrom Weapon** | 5/5 |
+| **Rage of the Farseer** | 1/1 |
 
-[Die Talented-Version öffnen](/de/talents/shaman/?t=-05203131005100221) mit Mental Quickness 2/2, Improved Stormstrike 2/2 und Maelstrom Weapon 1/5.
+### Leveling-Build, 19/32/0
 
-![Der Talented-Build des Enhancement Shaman in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/shaman/?t=45300310201-053030310051012251). Der [Level-Build für den Shaman](/de/leveling/shaman/) gibt das Talent für jedes Level.
 
-Unsere [Leveling-Guide für den Shaman](/de/guides/shaman-leveling/) nutzt denselben Build und erklärt den Weg bis Level 30.
+### PvP-Build, 18/26/7
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/shaman/?t=05350310001-2502300130212122-050002).
 
 ## Was die wichtigsten Talente tun
 
@@ -91,9 +112,9 @@ Unsere [Leveling-Guide für den Shaman](/de/guides/shaman-leveling/) nutzt dense
 | **Mental Quickness** | Zauberschaden und Heilung in Höhe von 30% deines Intellect |
 | **Improved Stormstrike** | Stormstrike gibt 15 Sekunden lang 50% Manaregeneration beim Zaubern. Ein Ausweichen oder Parieren setzt den Cooldown zurück |
 | **Maelstrom Weapon** | Nahkampftreffer können Zauberzeit und Manakosten deines nächsten Lightning Bolt senken, bis zu 5 Stapel. 4% pro Stapel bei 1/5, 20% pro Stapel bei 5/5 |
-| **Rage of the Farseer** | Das unterste Talent des Baums: 25 Sekunden lang 30% mehr Angriffstempo, Cooldown 3 Minuten. Auf Level 30 außer Reichweite |
+| **Rage of the Farseer** | Das unterste Talent des Baums: 25 Sekunden lang 30% mehr Angriffstempo, Cooldown 3 Minuten |
 
-Maelstrom Weapon braucht viele Punkte, bevor daraus ein kostenloser, sofortiger Lightning Bolt wird. Mit 1/5 im Talented-Build ziehen 5 Stapel nur 20% ab.
+Maelstrom Weapon braucht viele Punkte, bevor daraus ein kostenloser, sofortiger Lightning Bolt wird.
 
 ## Rotation
 

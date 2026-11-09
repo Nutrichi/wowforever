@@ -1,7 +1,7 @@
 ---
 title: "Guide du Fury Warrior dans WoW Forever"
-metaTitle: "WoW Forever Fury Warrior : build niveau 30, rotation et Rage"
-description: "Le Fury Warrior dans WoW Forever : le build niveau 30 avec Cruelty, Unbridled Wrath et Death Wish, la rotation, la Rage, le stance dancing, les stats, les armes et les races."
+metaTitle: "WoW Forever Fury Warrior : build niveau 60, rotation et Rage"
+description: "Le Fury Warrior dans WoW Forever : le build niveau 60 avec Cruelty, Unbridled Wrath et Death Wish, la rotation, la Rage, le stance dancing, les stats, les armes et les races."
 short: "Fury Warrior"
 updated: 2026-11-07
 lang: fr
@@ -14,23 +14,25 @@ faq:
   - q: "Un Fury Warrior doit-il faire du stance dancing ?"
     a: "Peut-être. Rend progresse mieux dans Forever et Overpower coûte peu de Rage, donc de courts passages en Battle Stance peuvent payer. Chaque point de Rage perdu en changeant de posture coûte des dégâts, alors gardez ces passages courts."
   - q: "Quand un Fury Warrior obtient-il Bloodthirst ?"
-    a: "Bloodthirst est le dernier talent de l’arbre Fury et demande 30 points dedans, donc niveau 39 au plus tôt, ou quelques niveaux avant avec Talented du système Legacy. Le build niveau 30 s’arrête à Death Wish."
+    a: "Bloodthirst est le dernier talent de l’arbre Fury et demande 30 points dedans, donc niveau 39 au plus tôt, ou quelques niveaux avant avec Talented du système Legacy."
   - q: "Quelle race choisir pour un Fury Warrior ?"
     a: "Human pour l’Alliance, pour 1 % de chances de critique en plus, ou Dwarf pour 1 % de hit. Orc pour la Horde, pour Blood Fury. Toutes les races peuvent jouer Warrior, et chaque choix fonctionne."
-  - q: "Y a-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
+  - q: "Existe-t-il un build pour le niveau 60 ?"
+    a: "Oui. Ce guide propose trois builds pour le niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chacun s’ouvre dans notre calculateur de talents."
 sources:
+  - name: "Wowhead, builds de talents"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
 > **Mise à jour du 4 novembre :** les builds et talents ci-dessous suivent les nouveaux arbres des notes de développement du 2 novembre, plus de détails dans [notre article](/fr/news/blizzard-raises-class-damage-and-monster-health/).
 
-Le Fury Warrior de WoW Forever est le berserker : deux armes, des coups rapides et une barre de Rage qui se remplit à chaque coup critique. La rotation est rapide et réactive, et Cleave et Whirlwind font de Fury l’une des meilleures spés contre plusieurs ennemis. Ce guide couvre le build niveau 30, la rotation, la Rage, le stance dancing, les stats, les armes et les races.
+Le Fury Warrior de WoW Forever est le berserker : deux armes, des coups rapides et une barre de Rage qui se remplit à chaque coup critique. La rotation est rapide et réactive, et Cleave et Whirlwind font de Fury l’une des meilleures spés contre plusieurs ennemis. Ce guide couvre le build niveau 60, la rotation, la Rage, le stance dancing, les stats, les armes et les races.
 
 | | |
 |---|---|
 | Rôle | Dégâts en mêlée avec deux armes |
-| Build au niveau 30 | 26 points en Fury, avec les 5 points en plus de Talented |
+| Build au niveau 60 | 17/34/0 |
 | Talents clés | Cruelty, Unbridled Wrath, Furious Precision, Dual Wield Specialization, Enrage, Death Wish |
 | Force | Rotation rapide et réactive, cleave très fort |
 | Faiblesse | Un kit PvE qui ne fait rien pour votre survie |
@@ -55,23 +57,45 @@ Le Fury Warrior de WoW Forever est le berserker : deux armes, des coups rapides 
 | Cleave et Whirlwind rendent Fury imbattable contre les packs | Rien dans la spé ne vous aide contre les joueurs |
 | Recklessness et Death Wish pour un gros burst | Whirlwind touche tout autour de vous, votre tank doit suivre |
 
-## Le build niveau 30
+## Les builds pour le niveau 60
 
-Ce build utilise 26 points : les 21 points du niveau 30 plus 5 de Talented dans le système Legacy. Sans Talented, arrêtez-vous à 21 points ; le [build de leveling du Warrior](/fr/leveling/warrior/) donne l’ordre par niveau. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=-0505302550001).
+Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chaque build s’ouvre dans notre calculateur de talents.
+
+### Build de raid, 17/34/0
+
+17 points en Arms et 34 en Fury. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/warrior/?t=30303213002-050530045122100231).
+
+Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/warrior/?t=30303213002-051530055120100231).
 
 | Talent | Points |
 |---|---|
+| **Improved Heroic Strike** | 3/3 |
+| **Improved Rend** | 3/3 |
+| **Improved Tactical Mastery** | 3/3 |
+| **Improved Overpower** | 2/2 |
+| **Anger Management** | 1/1 |
+| **Deep Wounds** | 3/3 |
+| **Impale** | 2/2 |
 | **Cruelty** | 5/5 |
 | **Unbridled Wrath** | 5/5 |
 | **Furious Precision** | 3/3 |
-| **Blood Craze** | 2/3 |
+| **Enrage** | 4/5 |
 | **Dual Wield Specialization** | 5/5 |
-| **Enrage** | 5/5 |
+| **Reckless Swings** | 1/1 |
+| **Improved Execute** | 2/2 |
+| **Improved Berserker Rage** | 2/2 |
 | **Death Wish** | 1/1 |
+| **Improved Whirlwind** | 2/2 |
+| **Flurry** | 3/3 |
+| **Bloodthirst** | 1/1 |
 
-![Le build Fury Warrior niveau 30 dans notre calculateur de talents](../../../../assets/posts/2026-10-21-wow-forever-fury-warrior-build.jpg)
+### Build de leveling, 13/6/32
 
-Après le niveau 30 viennent Flurry, pour 30 % de vitesse d’attaque en plus après un coup critique, et Bloodthirst en bas de l’arbre.
+Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/warrior/?t=2502301-0501-250033020331001351). Le [build de leveling du Warrior](/fr/leveling/warrior/) donne le talent de chaque niveau.
+
+### Build PvP, 17/34/0
+
+Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/warrior/?t=03303213002-550011350102122231).
 
 ## Ce que font les talents clés
 
@@ -83,8 +107,8 @@ Après le niveau 30 viennent Flurry, pour 30 % de vitesse d’attaque en plus ap
 | **Dual Wield Specialization** | 25 % de dégâts en plus avec la main gauche et 50 % de Rage en plus |
 | **Enrage** | 10 % de dégâts physiques en plus pendant 12 secondes, assez souvent pour compter |
 | **Death Wish** | Un fort temps de recharge offensif, encore plus fort avec Recklessness |
-| **Flurry** | 30 % de vitesse d’attaque en plus pendant 3 coups après un critique. Après le niveau 30 |
-| **Bloodthirst** | Une attaque instantanée basée sur la puissance d’attaque et non sur les dégâts de l’arme. Après le niveau 30 |
+| **Flurry** | 30 % de vitesse d’attaque en plus pendant 3 coups après un critique |
+| **Bloodthirst** | Une attaque instantanée basée sur la puissance d’attaque et non sur les dégâts de l’arme |
 
 ## Rotation
 

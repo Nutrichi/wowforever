@@ -1,7 +1,7 @@
 ---
 title: "Arms Warrior guide for WoW Forever"
-metaTitle: "WoW Forever Arms Warrior: level 30 build, Rend, Overpower and Rage"
-description: "The Arms Warrior in WoW Forever: the level 30 build with Bloodthrill, Improved Slam and Sweeping Strikes, the rotation, Rend and Overpower, Rage, stats and races."
+metaTitle: "WoW Forever Arms Warrior: level 60 build, Rend, Overpower and Rage"
+description: "The Arms Warrior in WoW Forever: the level 60 build with Bloodthrill, Improved Slam and Sweeping Strikes, the rotation, Rend and Overpower, Rage, stats and races."
 short: "Arms Warrior"
 updated: 2026-11-07
 lang: en
@@ -16,20 +16,22 @@ faq:
     a: "Mortal Strike is the last talent of the Arms tree and needs 30 points in it, so level 39 at the earliest, or a few levels sooner with Talented from the Legacy system."
   - q: "Which race is best for an Arms Warrior?"
     a: "Human for the Alliance, for 1% more critical strike chance, or Dwarf for 1% hit. Orc for the Horde, for Blood Fury. Every race can play a Warrior, and every pick works."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/arms/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arms-warrior/"
 ---
 > **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/blizzard-raises-class-damage-and-monster-health/).
 
-The Arms Warrior in WoW Forever swings one big, slow weapon. Rend keeps bleeding, Overpower lights up again and again, and every hit takes a visible chunk off the enemy. Many of its talents lean towards PvP, which makes Arms the natural pick for battlegrounds. This guide covers the level 30 build, rotation, Rend and Overpower, Rage, stats, weapons and races.
+The Arms Warrior in WoW Forever swings one big, slow weapon. Rend keeps bleeding, Overpower lights up again and again, and every hit takes a visible chunk off the enemy. Many of its talents lean towards PvP, which makes Arms the natural pick for battlegrounds. This guide covers the level 60 build, rotation, Rend and Overpower, Rage, stats, weapons and races.
 
 | | |
 |---|---|
 | Role | Melee damage with a two-handed weapon |
-| Build at level 30 | 26 points in Arms, with the 5 extra points from Talented |
+| Build at level 60 | 32/17/2 |
 | Key talents | Improved Rend, Improved Overpower, Bloodthrill, Improved Slam, Impale, Two-Handed Weapon Specialization |
 | Strength | Big hits, strong cleave with Sweeping Strikes |
 | Weakness | Slow play, abilities that suit PvP better |
@@ -53,28 +55,43 @@ The Arms Warrior in WoW Forever swings one big, slow weapon. Rend keeps bleeding
 | Sweeping Strikes, Cleave and Whirlwind for strong cleave | Spearing Strike and Mortal Strike suit PvP better than PvE |
 | The best Warrior spec for battlegrounds | |
 
-## The level 30 build
+## Builds for level 60
 
-This build uses 26 points: the 21 points of level 30 plus 5 from Talented in the Legacy system. Without Talented, stop at 21 points; the [Warrior level build](/leveling/warrior/) gives the order per level. [Open the build in the talent calculator](/talents/warrior/?t=333202031322101).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 32/17/2
+
+32 points in Arms, 17 in Fury and 2 in Protection. [Open the raid build in the talent calculator](/talents/warrior/?t=30303213132215201-05500005002-2).
 
 | Talent | Points |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
-| **Deflection** | 3/5 |
 | **Improved Rend** | 3/3 |
-| **Improved Charge** | 2/2 |
+| **Improved Tactical Mastery** | 3/3 |
 | **Improved Overpower** | 2/2 |
+| **Anger Management** | 1/1 |
 | **Deep Wounds** | 3/3 |
 | **Spearing Strike** | 1/1 |
 | **Two-Handed Weapon Specialization** | 3/3 |
 | **Impale** | 2/2 |
 | **Bloodthrill** | 2/2 |
 | **Sweeping Strikes** | 1/1 |
-| **Improved Slam** | 1/2 |
+| **Weaponmaster** | 5/5 |
+| **Improved Slam** | 2/2 |
+| **Mortal Strike** | 1/1 |
+| **Cruelty** | 5/5 |
+| **Lingering Rage** | 5/5 |
+| **Enrage** | 5/5 |
+| **Improved Execute** | 2/2 |
+| **Improved Bloodrage** | 2/2 |
 
-![The level 30 Arms Warrior build in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-arms-warrior-build.jpg)
+### Leveling build, 35/16/0
 
-After level 30 come Weaponmaster and Mortal Strike at the bottom of the tree.
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/warrior/?t=05323213032215201-05500105). The [Warrior level build](/leveling/warrior/) gives the talent for every level.
+
+### PvP build, 35/16/0
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/warrior/?t=03303213132215231-55000105).
 
 ## What the key talents do
 
@@ -86,8 +103,8 @@ After level 30 come Weaponmaster and Mortal Strike at the bottom of the tree.
 | **Improved Slam** | Makes Slam an almost instant filler that does not reset your swing |
 | **Impale** | A 20% bigger critical strike damage bonus for your abilities |
 | **Two-Handed Weapon Specialization** | 6% more damage with two-handed weapons at 3/3 |
-| **Mortal Strike** | One of your strongest attacks in any situation. After level 30 |
-| **Weaponmaster** | A bonus per weapon type. After level 30 |
+| **Mortal Strike** | One of your strongest attacks in any situation |
+| **Weaponmaster** | A bonus per weapon type |
 
 ## Rotation
 

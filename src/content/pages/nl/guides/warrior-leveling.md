@@ -1,7 +1,7 @@
 ---
 title: "Warrior levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Warrior levelgids: Arms, Fury en Protection tot 30"
-description: "Zo level je een Warrior in WoW Forever: de eerste build, drie builds voor level 30 voor Arms, Fury en Protection, de rotatie, belangrijke levels, stancequests en Rage."
+metaTitle: "WoW Forever Warrior levelgids: Arms, Fury en Protection tot 60"
+description: "Zo level je een Warrior in WoW Forever: de eerste build, builds voor level 60 voor Arms, Fury en Protection, de rotatie, belangrijke levels, stancequests en Rage."
 short: "Warrior levelen"
 updated: 2026-11-07
 lang: nl
@@ -17,15 +17,15 @@ faq:
     a: "Nee. Een Warrior heeft helemaal geen reagents nodig. Eten, bandages en healing potions is alles wat je meedraagt."
   - q: "Welk beroeps passen bij een Warrior?"
     a: "Blacksmithing met Mining. Blacksmithing maakt soulbound gear met stats die je elders zelden vindt, bijvoorbeeld meer Defense voor tanks. Cooking is voor elke class een must, voor de experiencebuff en je eigen kampvuur."
-  - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Warrior geeft een talent voor elk level tot 60."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. De levelbuild voor de Warrior geeft een talent voor elk level tot 60, en elke specgids heeft builds voor raids, levelen en PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warrior-leveling/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/).
 
-De Warrior groeit met elk level. In het begin druk je vooral Heroic Strike en laat je Rend tikken. Er komen meer instant aanvallen bij naarmate je levelt, en met de grote talenten vanaf level 40 voel je echt wat de class kan. Op level 30 kies je tussen Arms, Fury en Protection, en alle drie levelen goed. Deze gids behandelt de builds, de rotatie, de belangrijke levels, de classquests en hoe stances en Rage werken.
+De Warrior groeit met elk level. In het begin druk je vooral Heroic Strike en laat je Rend tikken. Er komen meer instant aanvallen bij naarmate je levelt, en met de grote talenten vanaf level 40 voel je echt wat de class kan. Je kiest tussen Arms, Fury en Protection, en alle drie levelen goed. Deze gids behandelt de builds, de rotatie, de belangrijke levels, de classquests en hoe stances en Rage werken.
 
 | | |
 |---|---|
@@ -40,9 +40,6 @@ De Warrior groeit met elk level. In het begin druk je vooral Heroic Strike en la
 ## Met welke spec levelen
 
 Alle drie de bomen levelen goed. De meeste spelers levelen traditioneel als **Arms**, voor de burst en het stabiele spel. **Fury** krijgt veel schade, dus je stopt vaker om te eten, maar de schade kan dat waard zijn. **Protection** is veel sterker dan vroeger: het brandt groepen monsters weg terwijl je weinig health verliest.
-
-De builds hieronder zijn gemaakt op de beta, die stopte op level 30. Elke build heeft 26 punten: die heb je op level 30 met vijf extra punten van Talented uit het Legacy-systeem, of op level 35 zonder. De talentcalculator toont zo'n build als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
-
 ## Level 1 tot 10
 
 Je begint met Heroic Strike en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6673"><img class="wf-wh__icon" src="/wh/ability_warrior_battleshout.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Battle Shout</a>, zonder talenten of stances om uit te kiezen. Rend en Charge volgen op 4, Thunder Clap op 6 en Hamstring op 8.
@@ -56,96 +53,11 @@ Wat ruimte nodig? Hamstring vertraagt het monster zodat je kan weglopen. Tegen m
 
 Stats op deze levels: eerst wapenschade per seconde, dan Strength en attack power, dan Stamina, dan Agility, dan armor.
 
-## Arms-build voor level 30
+## Talentbuilds
 
-De aangeraden build om te levelen. Hij draait om Overpower en zware klappen met een traag tweehandig wapen. Een groot deel van de tijd laat je Rend tikken en wacht je op Overpower. Sweeping Strikes voegt later de schade tegen groepen toe die Arms nodig heeft, en het is heerlijk om te gebruiken. [Open de build in de talentcalculator](/nl/talents/warrior/?t=333202031322101).
+De [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft het talent voor elk level van 10 tot 60. [Open het eindresultaat in de talentcalculator](/nl/talents/warrior/?t=2502301-0501-250033020331001351).
 
-| Talent | Punten |
-|---|---|
-| **Improved Heroic Strike** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
-| **Improved Rend** | 3/3 |
-| **Improved Charge** | 2/2 |
-| **Improved Overpower** | 2/2 |
-| **Deep Wounds** | 3/3 |
-| **Spearing Strike** | 1/1 |
-| **Two-Handed Weapon Specialization** | 3/3 |
-| **Impale** | 2/2 |
-| **Bloodthrill** | 2/2 |
-| **Sweeping Strikes** | 1/1 |
-| **Improved Slam** | 1/2 |
-
-Bloodthrill is het hart van de build: je main-hand-aanvallen op een monster met jouw Rend erop kunnen Overpower beschikbaar maken. Improved Overpower verhoogt zijn critical strike chance met 50%, en Deep Wounds en Impale laten die critical strikes pijn doen. Met Sweeping Strikes raken je volgende vijf aanvallen ook een monster ernaast.
-
-Er is wat ruimte om te schuiven. Je kan Improved Tactical Mastery nemen in plaats van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16462"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>, maar dan vind je moeilijk de punten voor Anger Management. Spearing Strike helpt vooral tegen Giants en Dragonkin, die je vroeg zelden tegenkomt; sla het over en je kan Weaponmaster sneller nemen. Op het einde kies je tussen Bloodthrill en Weaponmaster. Je wil op termijn allebei, dus het gaat erom welke je eerst neemt. Bloodthrill betekent meer Overpowers.
-
-1. Houd Battle Shout actief in een gevecht.
-2. Charge het monster.
-3. Cast Overpower telkens het oplicht.
-4. Cast Rend als het monster lang genoeg leeft voor een paar ticks.
-5. Steek je overschot aan Rage in Heroic Strike, of in Slam zodra je Improved Slam hebt.
-
-Stats: wapenschade weegt zwaarder dan schade per seconde, dan Strength en attack power, dan Stamina, dan Agility, dan armor.
-
-## Fury-build voor level 30
-
-Als Fury vecht je met twee wapens en gebruik je alle extra Rage die dat geeft. Je beste aanvallen komen pas na level 30, dus tot dan kan de spec wat zwak aanvoelen. [Open de build in de talentcalculator](/nl/talents/warrior/?t=-0505302550001).
-
-| Talent | Punten |
-|---|---|
-| **Cruelty** | 5/5 |
-| **Unbridled Wrath** | 5/5 |
-| **Furious Precision** | 3/3 |
-| **Blood Craze** | 2/3 |
-| **Dual Wield Specialization** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12317"><img class="wf-wh__icon" src="/wh/spell_shadow_unholyfrenzy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a>** | 5/5 |
-| **Death Wish** | 1/1 |
-
-Unbridled Wrath en Dual Wield Specialization geven je meer Rage bij elke slag, en Furious Precision laat je off-hand minder missen. Cruelty voegt critical strike chance toe, en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12317"><img class="wf-wh__icon" src="/wh/spell_shadow_unholyfrenzy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enrage</a> verhoogt je schade nadat je een klap krijgt. Death Wish verhoogt je fysieke schade 30 seconden met 20%, maar je krijgt ook 5% meer.
-
-Hier zijn er een paar opties. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12323"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Piercing Howl</a> vertraagt alles rond je, handig om monsters en spelers te kiten. Lingering Rage houdt je Rage langer vast na een gevecht, wat het tempo hoog houdt als je van monster naar monster gaat. Raging Blows is weg sinds 2 november. In de plaats geeft Reckless Swings in de vierde rij 5 extra Rage op elk van je volgende 4 aanvallen.
-
-1. Houd Battle Shout actief in een gevecht.
-2. Charge het monster.
-3. Cast Overpower telkens het oplicht.
-4. Cast Rend als het monster lang genoeg leeft voor een paar ticks.
-5. Steek je overschot aan Rage in Heroic Strike.
-
-Vanaf level 30 vecht Fury in Berserker Stance, waar je 10% meer schade krijgt, magie inbegrepen, en nog 5% meer zolang Death Wish loopt. Meer in [deze post](/nl/news/fury-takes-10-percent-more-damage-in-berserker-stance/).
-
-Stats: wapenschade per seconde, dan Strength en attack power, dan Stamina, dan Agility, dan armor.
-
-## Protection-build voor level 30
-
-Levelen als tank was vroeger traag. Nu niet meer: als Protection brand je groepen monsters weg en verlies je daarbij weinig health. Je hebt een eenhandig wapen en een schild nodig. [Open de build in de talentcalculator](/nl/talents/warrior/?t=--2505301203010013).
-
-| Talent | Punten |
-|---|---|
-| **Improved Bloodrage** | 2/2 |
-| **Shield Specialization** | 5/5 |
-| **Anticipation** | 5/5 |
-| **Improved Revenge** | 3/3 |
-| **Last Stand** | 1/1 |
-| **Master of Defense** | 2/2 |
-| **Defiance** | 3/3 |
-| **Vanguard** | 1/1 |
-| **Concussion Blow** | 1/1 |
-| **Focused Rage** | 3/3 |
-
-Shield Specialization en Master of Defense geven je Rage telkens je blokt, ontwijkt of pareert, dus hoe meer monsters je slaan, hoe meer je kan doen. Met Vanguard kan je Charge gebruiken in Defensive Stance, zodat je nooit hoeft te wisselen. Focused Rage maakt je aanvallen goedkoper, en Concussion Blow stunt een monster 5 seconden. Last Stand geeft je 20 seconden 30% extra health als het misloopt.
-
-Er is weinig ruimte om te schuiven als je diep in de boom gaat. Doe je weinig dungeons? Zet de punten van Defiance dan in Improved Thunder Clap.
-
-1. Houd Battle Shout actief in een gevecht.
-2. Charge het monster.
-3. Cast Revenge telkens het oplicht.
-4. Cast Rend als het monster lang genoeg leeft voor een paar ticks.
-5. Houd Thunder Clap op cooldown.
-6. Steek je overschot aan Rage in Heroic Strike.
-
-Stats: wapenschade per seconde, dan Strength en attack power, dan Stamina, dan Agility, dan armor.
-
-![Een Dwarf Warrior met een rode baard, een zwaard en een mace in een bos, met twee furbolgs op de achtergrond](../../../../assets/posts/2026-10-18-wow-forever-dwarf-warrior-two-weapons.jpg)
+Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: [Arms](/nl/guides/arms-warrior/), [Fury](/nl/guides/fury-warrior/) en [Protection](/nl/guides/protection-warrior/).
 
 ## Belangrijke levels
 

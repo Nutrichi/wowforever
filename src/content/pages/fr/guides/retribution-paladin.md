@@ -1,7 +1,7 @@
 ---
 title: "Retribution Paladin dans WoW Forever : le guide"
 metaTitle: "WoW Forever Retribution Paladin : build, rotation et sceaux"
-description: "Le Retribution Paladin dans WoW Forever : le build niveau 30 et sa version Talented, la rotation avec Seal of Command, les Judgements, les bénédictions, les stats et les races."
+description: "Le Retribution Paladin dans WoW Forever : le build niveau 60, la rotation avec Seal of Command, les Judgements, les bénédictions, les stats et les races."
 short: "Retribution Paladin"
 updated: 2026-11-07
 lang: fr
@@ -15,18 +15,20 @@ faq:
     a: "D'abord le toucher, pour que vos attaques et sorts portent, puis les chances de coup critique, la Force et la puissance d'attaque, et la puissance des sorts. Champion of the Light convertit l'Intelligence en puissance des sorts, donc l'Intelligence vaut plus que dans Classic."
   - q: "Quelle race choisir pour un Retribution Paladin ?"
     a: "Human pour l'Alliance, pour les chances de coup critique en plus. Dwarf a Stoneform, un fort temps de recharge défensif. Les Paladins de la Horde sont toujours Undead."
-  - q: "Existe-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
+  - q: "Existe-t-il un build pour le niveau 60 ?"
+    a: "Oui. Ce guide propose trois builds pour le niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chacun s’ouvre dans notre calculateur de talents."
 sources:
+  - name: "Wowhead, builds de talents"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/retribution/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/retribution-paladin/"
 ---
-Le Retribution Paladin de WoW Forever est le guerrier sacré à la grande arme à deux mains. Vous frappez lentement mais fort, lancez quelques sorts entre deux coups, et presque tout évolue désormais avec la puissance des sorts. Vous n'appuyez pas sur une touche à chaque temps de recharge global, mais Judgement, Holy Strike et Consecration vous occupent. Ce guide couvre le build niveau 30, la rotation, les sceaux, les bénédictions, les stats et les races.
+Le Retribution Paladin de WoW Forever est le guerrier sacré à la grande arme à deux mains. Vous frappez lentement mais fort, lancez quelques sorts entre deux coups, et presque tout évolue désormais avec la puissance des sorts. Vous n'appuyez pas sur une touche à chaque temps de recharge global, mais Judgement, Holy Strike et Consecration vous occupent. Ce guide couvre le build niveau 60, la rotation, les sceaux, les bénédictions, les stats et les races.
 
 | | |
 |---|---|
 | Rôle | Dégâts de mêlée avec une arme à deux mains lente |
-| Build niveau 30 | 21 points en Retribution, Talented ajoute Two-Handed Weapon Specialization et Vengeance |
+| Build niveau 60 | 14/6/31 |
 | Talents clés | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Unsealed Wrath |
 | Points forts | Utilité de groupe, très difficile à tuer, grosses pointes de dégâts |
 | Points faibles | Lent à atteindre une cible, le mana peut manquer |
@@ -42,28 +44,43 @@ Le Retribution Paladin de WoW Forever est le guerrier sacré à la grande arme �
 
 **Le mana.** Vous ne construisez pas de ressource avant un combat, mais le mana peut s'épuiser. Sanctified Judgement aident, et Judgement of Wisdom aide tout le groupe.
 
-## Le build niveau 30
+## Les builds pour le niveau 60
 
-La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented, du système Legacy, en ajoute 5. [Ouvrir le build dans le calculateur de talents](/fr/talents/paladin/?t=--502330212011001).
+Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chaque build s’ouvre dans notre calculateur de talents.
+
+### Build de raid, 14/6/31
+
+14 points en Holy, 6 en Protection et 31 en Retribution. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/paladin/?t=050250002-501-05233011201301351).
 
 | Talent | Points |
 |---|---|
-| **Deflection** | 5/5 |
+| **Divine Strength** | 5/5 |
+| **Reverence** | 2/2 |
+| **Improved Seals** | 5/5 |
+| **Holy Conduit** | 2/2 |
+| **Divine Intellect** | 5/5 |
+| **Precision** | 1/3 |
+| **Benediction** | 5/5 |
 | **Improved Judgement** | 2/2 |
 | **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
-| **Unyielding Faith** | 2/2 |
+| **Unyielding Faith** | 1/2 |
 | **Seal of Command** | 1/1 |
 | **Pursuit of Justice** | 2/2 |
 | **Sacred Arbiter** | 1/1 |
-| **Two-Handed Weapon Specialization** | 1/3 |
-| **Vengeance** | 1/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
+| **Repentance** | 1/1 |
+| **Vengeance** | 3/3 |
+| **Champion of the Light** | 5/5 |
+| **Unsealed Wrath** | 1/1 |
 
-[Ouvrir la version Talented](/fr/talents/paladin/?t=--512330212013003) avec Benediction 1/5, Two-Handed Weapon Specialization 3/3 et Vengeance 3/3.
+### Build de leveling, 0/31/20
 
-![Le build Talented du Retribution Paladin dans notre calculateur de talents](../../../../assets/posts/2026-10-24-wow-forever-retribution-paladin-build.jpg)
+Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/paladin/?t=-55300102113001531-05233301201). Le [build de leveling du Paladin](/fr/leveling/paladin/) donne le talent de chaque niveau.
 
-**Benediction au lieu de Deflection.** Deflection ne donne que de la parade. Si vous manquez de mana dans les longs combats, placez ces 5 points dans Benediction : les sorts et techniques instantanés coûtent alors 10 % de mana en moins.
+### Build PvP, 12/6/33
+
+Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/paladin/?t=05025-501-50233011221301351).
 
 ## Ce que font les talents clés
 
@@ -80,7 +97,7 @@ La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented
 | **Champion of the Light** | Des dégâts des sorts égaux à jusqu'à 30 % de votre Intelligence |
 | **Unsealed Wrath** | Les attaques de mêlée stockent votre Seal, jusqu'à 3 fois. Un coup avec un autre Seal consomme les charges pour des chances en plus |
 
-Champion of the Light et Unsealed Wrath se trouvent aux rangées 6 et 7, hors de portée au niveau 30. Ils sont la raison de continuer dans l'arbre après le niveau 30.
+Champion of the Light et Unsealed Wrath se trouvent aux rangées 6 et 7.
 
 ## Rotation
 

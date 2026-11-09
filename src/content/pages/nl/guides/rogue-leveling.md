@@ -1,7 +1,7 @@
 ---
 title: "Rogue levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Rogue levelgids: builds voor elke spec tot 30"
-description: "Zo level je een Rogue in WoW Forever: vier builds voor level 30 voor Assassination, Combat en Subtlety, de rotatie, belangrijke levels, gifquests, wapens en beroepen."
+metaTitle: "WoW Forever Rogue levelgids: builds voor elke spec tot 60"
+description: "Zo level je een Rogue in WoW Forever: builds voor level 60 voor Assassination, Combat en Subtlety, de rotatie, belangrijke levels, gifquests, wapens en beroepen."
 short: "Rogue levelen"
 updated: 2026-11-07
 lang: nl
@@ -19,15 +19,15 @@ faq:
     a: "Nee. Rogues gebruiken Energy, geen mana, dus eten volstaat. Buff food geeft in Forever extra ervaring, dus blijf Well Fed."
   - q: "Welk beroeps passen bij een Rogue?"
     a: "Skinning met Leatherworking is het natuurlijke paar: je doodt veel beesten, en Forever heeft nieuwe lederrecepten zoals Dark Leather Boots en Brawler's Leather Belt. Cooking loont voor elke class, want buff food geeft extra ervaring en je hebt het nodig voor een kamp."
-  - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Rogue geeft een talent voor elk level tot 35."
+  - q: "Is er een build voor level 60?"
+    a: "De levelbuild voor de Rogue geeft voorlopig een talent voor elk level tot 35. Elke specgids heeft zijn eigen builds voor level 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/rogue-leveling/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-De Rogue was nooit de makkelijkste class om te levelen, maar WoW Forever helpt. Poisons kunnen critten, de schade op één doel ligt hoger en elke spec heeft een eigen gezicht. Op level 30 kies je tussen Assassination, Combat en twee soorten Subtlety. Deze gids behandelt de vier builds, de rotatie, de belangrijke levels, de gifquests, wapens en beroepen.
+De Rogue was nooit de makkelijkste class om te levelen, maar WoW Forever helpt. Poisons kunnen critten, de schade op één doel ligt hoger en elke spec heeft een eigen gezicht. Je kiest tussen Assassination, Combat en twee soorten Subtlety. Deze gids behandelt de vier builds, de rotatie, de belangrijke levels, de gifquests, wapens en beroepen.
 
 | | |
 |---|---|
@@ -42,9 +42,6 @@ De Rogue was nooit de makkelijkste class om te levelen, maar WoW Forever helpt. 
 ## Met welke spec levelen
 
 **Combat** is de meest vergevingsgezinde start. Deflection en Riposte houden je in leven, en je loopt van monster naar monster zonder pauzes. Combat kan dankzij Hack and Slash ook elk soort wapen gebruiken. **Subtlety met Ambush** opent vanuit Stealth met een enorme critical strike en doodt snel, maar is zwakker in dungeons. **Subtlety met bleeds** bouwt op Garrote, Hemorrhage en Rupture. **Assassination** wordt pas sterk zodra Mutilate er op level 40 bij komt, en is dus geen startbuild.
-
-De builds hieronder zijn gemaakt op de beta, die stopte op level 30. Elke build heeft een versie met vijf extra punten voor Talented uit het Legacy-systeem. De talentcalculator toont die versies als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
-
 ## Level 1 tot 10
 
 Je hebt nog geen talenten, alleen <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1752"><img class="wf-wh__icon" src="/wh/spell_shadow_ritualofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sinister Strike</a> en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2098"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eviscerate</a>. Stealth, Backstab en Evasion volgen snel.
@@ -59,121 +56,11 @@ Een opener vanuit Stealth op elk monster vertraagt je op deze levels. Hou hem vo
 
 Stats op deze levels: Agility, dan Attack Power, Strength, Stamina en armor.
 
-## Assassination-build voor level 30
+## Talentbuilds
 
-Wordt sterker naarmate Mutilate op level 40 dichterbij komt. Ruthlessness geeft meer Combo Points, en Venom maakt je poisons sterker na elke Shank, maar je mist het overleven van Combat en de burst van Subtlety. [Open de build in de talentcalculator](/nl/talents/rogue/?t=02530300201401).
+De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
 
-| Talent | Punten |
-|---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Malice** | 5/5 |
-| **Ruthlessness** | 3/3 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14165"><img class="wf-wh__icon" src="/wh/ability_rogue_slicedice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Slice and Dice</a>** | 3/3 |
-| **Lethality** | 2/2 |
-| **Cold Blood** | 1/1 |
-| **Improved Poisons** | 4/5 |
-| **Venom** | 1/1 |
-
-Met Talented: Relentless Strikes 3/5 en Opportunity 2/5 in Subtlety. [Open de versie met Talented](/nl/talents/rogue/?t=02530300201431--002).
-
-1. Open vanuit Stealth met Ambush.
-2. Bouw Combo Points op met Sinister Strike, en gebruik Shank zodra hij klaar is.
-3. Hou Slice and Dice op.
-4. Maak af met Eviscerate.
-5. Gebruik Expose Armor voor Eviscerate, en hou het op bij een boss.
-6. Onderbreek met Kick of Gouge, en ontsnap met Vanish.
-7. Bij een gevaarlijk monster: Cheap Shot, dan Kidney Shot.
-8. Val het volgende monster aan voor Remorseless Attacks afloopt.
-
-Stats vanaf hier voor elke build: critical strike chance, dan Agility, Attack Power, Strength, Stamina en armor.
-
-## Combat-build voor level 30
-
-Verdedigend en aanvallend tegelijk: meer schade op Eviscerate en je auto attacks, en Deflection en Riposte tegen pauzes. Flawless Execution, Aggression en Blade Flurry maken de build af. [Open de build in de talentcalculator](/nl/talents/rogue/?t=-3200331210011301).
-
-| Talent | Punten |
-|---|---|
-| **Coup de Grace** | 3/3 |
-| **Efficient Strikes** | 2/2 |
-| **Deflection** | 3/3 |
-| **Precision** | 3/3 |
-| **Improved Sprint** | 1/2 |
-| **Endurance** | 2/2 |
-| **Riposte** | 1/1 |
-| **Flawless Execution** | 1/1 |
-| **Weapon Expertise** | 1/2 |
-| **Aggression** | 3/3 |
-| **Blade Flurry** | 1/1 |
-
-Met Talented: Hack and Slash 5/5. [Open de versie met Talented](/nl/talents/rogue/?t=-32003312100113015).
-
-Ga je te vaak dood omdat je gear zwak is? Neem dan Lightning Reflexes in plaats van Coup de Grace, Improved Sprint en Flawless Execution. Je steunt dan meer op auto attacks en Poisons dan op finishers.
-
-1. Open vanuit Stealth met Cheap Shot, of loop gewoon naar het monster toe en val aan. Met dolken open je met Ambush.
-2. Gebruik Blade Flurry aan het begin van elk gevecht, tegen één monster of meer.
-3. Bouw Combo Points op met Sinister Strike.
-4. Hou Slice and Dice op.
-5. Gebruik Eviscerate bij 3 tot 5 Combo Points.
-6. Gebruik Expose Armor voor Eviscerate, en hou het op bij een boss.
-7. Onderbreek met Kick of Gouge, en ontsnap met Vanish.
-
-## Subtlety-build met Ambush voor level 30
-
-Doodt zo snel mogelijk met kritieke Ambushes. Je gaat vaak in Stealth en gebruikt elke Remorseless Attacks. De meeste monsters zijn na de opener bijna dood. In dungeons is de build zwakker, omdat Ambush Stealth nodig heeft. Ghostly Strike geeft je af en toe een Ambush in gevecht. [Open de build in de talentcalculator](/nl/talents/rogue/?t=02--333003031021).
-
-| Talent | Punten |
-|---|---|
-| **Remorseless Attacks** (Assassination) | 2/2 |
-| **Setup** | 3/3 |
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 3/5 |
-| **Improved Ambush** | 3/3 |
-| **Initiative** | 3/3 |
-| **Premeditation** | 1/1 |
-| **Elusiveness** | 2/2 |
-| **Ghostly Strike** | 1/1 |
-
-Met Talented: Malice 5/5 in Assassination. [Open de versie met Talented](/nl/talents/rogue/?t=025--333003031021).
-
-1. Open vanuit Stealth met Ambush.
-2. Bouw Combo Points op met Sinister Strike.
-3. Maak een verzwakt monster af met Eviscerate. Tegen een monster met veel leven gebruik je Slice and Dice.
-4. Om een doel snel te doden: Gouge, Vanish en nog een Ambush.
-5. Onderbreek met Kick.
-6. Bij een boss in een dungeon: Slice and Dice en Expose Armor voor Eviscerate.
-7. Val het volgende monster aan voor Remorseless Attacks afloopt.
-
-## Subtlety-build met bleeds voor level 30
-
-Bouwt op Garrote, Hemorrhage en Rupture, en op Serrated Blades, dat Rupture harder laat raken. [Open de build in de talentcalculator](/nl/talents/rogue/?t=--3320002313210001).
-
-| Talent | Punten |
-|---|---|
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 2/2 |
-| **Setup** | 3/3 |
-| **Elusiveness** | 2/2 |
-| **Dirty Tricks** | 2/2 |
-| **Initiative** | 3/3 |
-| **Ghostly Strike** | 1/1 |
-| **Premeditation** | 1/1 |
-| **Serrated Blades** | 3/3 |
-| **Hemorrhage** | 1/1 |
-
-Met Talented: Dirty Deeds 2/2, Preparation 1/1 en Malice 2/5 in Assassination. [Open de versie met Talented](/nl/talents/rogue/?t=002--3322002313210011).
-
-1. Open vanuit Stealth met Garrote.
-2. Bouw Combo Points op met Hemorrhage.
-3. Hou Slice and Dice op.
-4. Gebruik Rupture bij 3 tot 5 Combo Points op een boss of een monster met veel leven.
-5. Maak een verzwakt monster af met Eviscerate.
-6. Bij een boss: Vanish en een nieuwe Garrote zodra de eerste afloopt.
-7. Onderbreek met Kick.
-8. Gebruik Expose Armor bij een boss in een dungeon als je groep meerdere fysieke damage dealers heeft.
-
-Met punten in Talented uit het Legacy-systeem haal je elk talent tot vijf levels eerder.
-
-![De drie talentbomen van de Rogue in World of Warcraft: Forever: Assassination, Combat en Subtlety, met 51 ongebruikte talentpunten](../../../../assets/posts/2026-10-08-wow-forever-rogue-talent-trees.jpg)
+Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: [Assassination](/nl/guides/assassination-rogue/), [Combat](/nl/guides/combat-rogue/) en [Subtlety](/nl/guides/subtlety-rogue/).
 
 ## Belangrijke levels
 

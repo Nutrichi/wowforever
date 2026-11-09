@@ -1,7 +1,7 @@
 ---
 title: "Guide de montée en niveau du Priest dans WoW Forever"
-metaTitle: "Guide de leveling Priest WoW Forever : builds Discipline, Holy et Shadow jusqu'au 30"
-description: "Comment monter un Priest dans WoW Forever : trois builds niveau 30 pour Discipline, Holy et Shadow, la rotation, les niveaux clés, les sorts raciaux, les baguettes, les métiers, le mana et les soins."
+metaTitle: "Guide de leveling Priest WoW Forever : builds Discipline, Holy et Shadow jusqu'au 60"
+description: "Comment monter un Priest dans WoW Forever : builds niveau 60 pour Discipline, Holy et Shadow, la rotation, les niveaux clés, les sorts raciaux, les baguettes, les métiers, le mana et les soins."
 short: "Leveling du Priest"
 updated: 2026-11-07
 lang: fr
@@ -19,13 +19,13 @@ faq:
     a: "Pas sur la bêta : des sorts comme Renew, Shadow Word: Pain et Devouring Plague mettent leur valeur à jour pendant leur durée au lieu de garder celle du moment du lancement. Blizzard ne l'a pas annoncé."
   - q: "Quels métiers conviennent au Priest ?"
     a: "Tailoring avec Enchanting est le duo classique : équipement en tissu lié, baguettes et huiles de puissance des sorts. Cooking vaut la peine pour toutes les classes dans Forever, car la nourriture à buff donne de l'expérience en plus et il la faut pour un camp."
-  - q: "Existe-t-il déjà un build niveau 60 ?"
-    a: "Pas dans ce guide : ses builds s'arrêtent au niveau 30, là où la bêta s'arrêtait. Notre build de leveling du Priest donne un talent pour chaque niveau jusqu'au 60, avec une respé aux niveaux 30 et 40."
+  - q: "Existe-t-il un build pour le niveau 60 ?"
+    a: "Oui. Le build de leveling du Priest donne un talent pour chaque niveau jusqu’à 60, et chaque guide de spécialisation a des builds pour les raids, le leveling et le PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
 ---
-Le Priest monte tranquillement dans WoW Forever : soignez-vous, protégez-vous et laissez les dégâts sur la durée et une baguette faire le travail. Au niveau 30, vous choisissez entre Discipline, Holy et Shadow. Ce guide couvre les trois builds, la rotation, les niveaux clés, les sorts raciaux, les baguettes et les métiers.
+Le Priest monte tranquillement dans WoW Forever : soignez-vous, protégez-vous et laissez les dégâts sur la durée et une baguette faire le travail. Vous choisissez entre Discipline, Holy et Shadow. Ce guide couvre les trois builds, la rotation, les niveaux clés, les sorts raciaux, les baguettes et les métiers.
 
 | | |
 |---|---|
@@ -35,16 +35,13 @@ Le Priest monte tranquillement dans WoW Forever : soignez-vous, protégez-vous e
 | Points faibles | Kills lents au début, mana, peu de contrôle |
 | Talent par niveau | [Build de leveling du Priest](/fr/leveling/priest/) |
 | Guides par spé | [Shadow Priest](/fr/guides/shadow-priest/), [Holy Priest](/fr/guides/holy-priest/), [Discipline Priest](/fr/guides/discipline-priest/) |
-| Builds jusqu'au niveau 60 | Dans les guides par spé, avec les talents du build bêta du 15 octobre |
+| Builds jusqu'au niveau 60 | Dans les guides par spé |
 
 ## Quelle spé pour monter
 
 Les 20 à 30 premiers niveaux diffèrent à peine. Vous commencez avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=585"><img class="wf-wh__icon" src="/wh/spell_holy_holysmite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Smite</a>, obtenez une baguette dès que possible, puis gardez votre vie avec des soins et des boucliers pendant que la baguette tue. Vers le niveau 30, la route se sépare.
 
 **Discipline** garde ce style tranquille et ajoute Penance au niveau 30, pour des dégâts ou un soin rapide. **Shadow** tue plus vite avec Mind Flay et Mind Blast, mais ne brille qu'à partir du niveau 28 environ, sauf avec une bonne puissance des sorts. **Holy** s'adresse à ceux qui passent une grande partie du leveling à soigner des donjons. Monter seul en Holy est lent.
-
-Les builds ci-dessous ont été faits sur la bêta, qui s'arrêtait au niveau 30. Les builds niveau 60 suivront dès que nous pourrons les tester dans le jeu live.
-
 ## Niveaux 1 à 10
 
 Vous n'avez pas encore de talents. Smite et Lesser Heal sont vos sorts jusqu'à ce que vous ayez une baguette.
@@ -58,69 +55,11 @@ Stats pour tous les builds à ces niveaux : d'abord Intellect et puissance des s
 
 Mental Strength est désormais en rangée 2, où il augmente l’Intelligence, et Improved Power Word: Shield en rangée 3. Shadow reçoit Dark Inspiration, perd Improved Fade et Shadow Infinity, et Improved Mind Blast passe en rangée 2. Les builds ci-dessous et le calculateur de talents suivent les arbres actuels. Tous les changements sont dans [cet article](/fr/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
-## Build Discipline niveau 30
+## Les builds de talents
 
-Le même style à la baguette, avec le moins de pauses possible. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=024015011330001).
+Le [build de leveling du Priest](/fr/leveling/priest/) donne le talent de chaque niveau de 10 à 60. [Ouvrir le résultat final dans le calculateur de talents](/fr/talents/priest/?t=00500520103--50542201201302251).
 
-| Talent | Points |
-|---|---|
-| **Wand Specialization** | 2/2 |
-| **Twin Disciplines** | 4/5 |
-| **Holy Precision** | 1/3 |
-| **Improved Power Word: Shield** | 3/3 |
-| **Mental Agility** | 1/3 |
-| **Inner Focus** | 1/1 |
-| **Meditation** | 3/3 |
-| **Mental Strength** | 5/5 |
-| **Penance** | 1/1 |
-
-1. Gardez Power Word: Shield quand votre mana le permet, pour que les dégâts ne ralentissent pas vos sorts.
-2. Ouvrez avec Smite.
-3. Lancez Shadow Word: Pain quand votre mana le permet.
-4. Dès le niveau 30 : lancez Penance dès qu'il est prêt, pour des dégâts ou pour vous soigner.
-5. Finissez à la baguette, ou laissez Shadow Word: Pain le faire.
-
-## Build Holy niveau 30
-
-Pour ceux qui veulent soigner beaucoup de donjons sans passer Discipline. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=-2050510303011).
-
-| Talent | Points |
-|---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14913"><img class="wf-wh__icon" src="/wh/spell_holy_healingfocus.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Twilight Focus</a>** | 2/3 |
-| **Holy Specialization** | 5/5 |
-| **Divine Fury** | 5/5 |
-| **Holy Nova** | 1/1 |
-| **Inspiration** | 3/3 |
-| **Improved Healing** | 3/3 |
-| **Holy Binding** | 1/1 |
-| **Litany of Light** | 1/2 |
-
-En solo, la rotation est celle de Discipline sans Penance : Power Word: Shield, Smite, Shadow Word: Pain et la baguette.
-
-## Build Shadow niveau 30
-
-Pour ceux qui préfèrent les dégâts, ne veulent pas soigner et ne veulent pas attendre Shadowform au niveau 40. [Ouvrir le build dans le calculateur de talents](/fr/talents/priest/?t=--305420012013).
-
-| Talent | Points |
-|---|---|
-| **Shadow Focus** | 3/5 |
-| **Spirit Tap** | 5/5 |
-| **Improved Shadow Word: Pain** | 2/2 |
-| **Improved Mind Blast** | 4/5 |
-| **Mind Flay** | 1/1 |
-| **Improved Mind Flay** | 2/2 |
-| **Vampiric Embrace** | 1/1 |
-| **Shadow Weaving** | 3/3 |
-
-1. Dès le niveau 20 : lancez Mind Flay sur la cible jusqu'à ce qu'elle vous atteigne.
-2. Gardez Shadow Word: Pain.
-3. Lancez Mind Blast dès qu'il est prêt.
-4. Dès le niveau 20 : lancez Devouring Plague dès qu'il est prêt et que votre mana le permet ; il vous soigne aussi.
-5. Finissez à la baguette, ou laissez vos dégâts sur la durée le faire.
-
-En Shadow, la puissance d'ombre compte avec l'Intellect et la puissance des sorts. Avec des points dans Talented du système Legacy, vous atteignez chaque talent jusqu'à cinq niveaux plus tôt.
-
-![Les trois arbres de talents du Priest dans World of Warcraft: Forever : Discipline, Holy et Shadow Magic](../../../../assets/posts/2026-10-01-wow-forever-priest-talent-trees.jpg)
+Pour le niveau 60, chaque guide de spécialisation a ses propres builds pour les raids, le leveling et le PvP : [Discipline](/fr/guides/discipline-priest/), [Holy](/fr/guides/holy-priest/) et [Shadow](/fr/guides/shadow-priest/).
 
 ## Niveaux clés
 

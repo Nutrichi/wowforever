@@ -1,7 +1,7 @@
 ---
 title: "Arcane Mage in WoW Forever: de gids"
 metaTitle: "WoW Forever Arcane Mage: Arcane Blast-build, rotatie, mana, stats en races"
-description: "De Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage en Arcane Wrath, twee builds voor level 30 voor solo en dungeons, de rotatie, mana en burnfases, overleven, stats, gear, races en beroepen."
+description: "De Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage en Arcane Wrath, builds voor level 60 voor raids, levelen en PvP, de rotatie, mana en burnfases, overleven, stats, gear, races en beroepen."
 short: "Arcane Mage"
 updated: 2026-11-07
 lang: nl
@@ -19,9 +19,11 @@ faq:
     a: "Stack Arcane Blast niet voorbij 2 als je mana laag is, gebruik elke Clearcasting-proc op Arcane Blast en cast Arcane Missiles zodra Missile Barrage procet. Arcane Meditation houdt 50% van je regeneratie tijdens het casten. Evocation en een Mana Agate dekken lange gevechten."
   - q: "Welk ras is het beste voor een Arcane Mage?"
     a: "Orc bij de Horde, voor 10% spell power van Blood Fury om de 2 minuten, met Troll als tweede. Bij de Alliance de High Order Skyborne voor Haste en extra regeneratie, daarna Human. Kies het ras dat je mooi vindt als je niet op elk procent jaagt."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/arcane/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arcane-mage/"
 ---
@@ -30,7 +32,7 @@ De Arcane Mage heeft in WoW Forever eindelijk eigen schadespells. Arcane Blast s
 | | |
 |---|---|
 | Rol | Burst op afstand op één doelwit |
-| Build op level 30 | 21 punten in Arcane, Talented voegt Arcane Mind en Arcane Instability toe |
+| Build op level 60 | 32/16/3 |
 | Belangrijkste talenten | Arcane Blast, Missile Barrage, Arcane Wrath, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11213"><img class="wf-wh__icon" src="/wh/spell_shadow_manaburn.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Concentration</a>, Arcane Meditation |
 | Sterk in | Hoge schade, groeit met gear, utility voor de groep |
 | Zwak in | Heel moeilijk manabeheer, afhankelijk van procs en gear |
@@ -55,44 +57,43 @@ De Arcane Mage heeft in WoW Forever eindelijk eigen schadespells. Arcane Blast s
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=604"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dampen Magic</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1008"><img class="wf-wh__icon" src="/wh/spell_holy_flashheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amplify Magic</a>, eten, water en portals | Zonder Clearcasting- of Missile Barrage-procs valt de rotatie uit elkaar |
 | Missile Barrage maakt van Arcane Missiles een echte schadespell | Minder overleving dan Frost, en geen <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a> |
 
-## Twee builds voor level 30
+## Builds voor level 60
 
-Beide builds gebruiken de 21 punten die je op level 30 hebt. Talented uit het Legacy-systeem geeft elk 5 punten extra: Arcane Mind 5/5 en Arcane Instability 1/3.
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
 
-### Build voor één doelwit
+### Raidbuild, 32/16/3
 
-Om te questen en in de open wereld. 5/5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11237"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Channeling</a> houdt je casts gaande als monsters je raken, en de build gaat zo diep als hij kan richting Arcane Mind. De prijs is de 6% critical strike chance van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11242"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Impact</a>. [Open de build in de talentcalculator](/nl/talents/mage/?t=0530052001003101).
+32 punten in Arcane, 16 in Fire en 3 in Frost. [Open de raidbuild in de talentcalculator](/nl/talents/mage/?t=050205203100311531-525000012001-003).
 
 | Talent | Punten |
 |---|---|
 | **Improved Channeling** | 5/5 |
-| **Arcane Resilience** | 3/3 |
-| **Arcane Concentration** | 5/5 |
-| **Missile Barrage** | 2/2 |
-| **Arcane Blast** | 1/1 |
-| **Arcane Meditation** | 3/3 |
-| **Arcane Wrath** | 1/1 |
-| **Arcane Mind** | 1/5 |
-
-[Open de Talented-versie](/nl/talents/mage/?t=05300520010031051) met Arcane Mind 5/5 en Arcane Instability 1/3.
-
-### Build voor dungeons
-
-Voor dungeons, als iemand anders tankt. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11210"><img class="wf-wh__icon" src="/wh/spell_holy_dispelmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Subtlety</a> verlaagt de threat van je Arcane-spells met 30%, zodat je Arcane Explosion kunt spammen, en Arcane Impact 3/3 geeft 6% extra critical strike chance. Zonder Improved Channeling vertragen monsters die je raken elke cast. [Open de build in de talentcalculator](/nl/talents/mage/?t=0230052031003101).
-
-| Talent | Punten |
-|---|---|
-| **Improved Channeling** | 2/5 |
-| **Arcane Resilience** | 3/3 |
+| **Arcane Subtlety** | 2/2 |
 | **Arcane Concentration** | 5/5 |
 | **Missile Barrage** | 2/2 |
 | **Arcane Impact** | 3/3 |
 | **Arcane Blast** | 1/1 |
 | **Arcane Meditation** | 3/3 |
 | **Arcane Wrath** | 1/1 |
-| **Arcane Mind** | 1/5 |
+| **Presence of Mind** | 1/1 |
+| **Arcane Mind** | 5/5 |
+| **Arcane Instability** | 3/3 |
+| **Arcane Power** | 1/1 |
+| **Incineration** | 5/5 |
+| **Accelerant** | 2/5 |
+| **Ignite** | 5/5 |
+| **Pyroblast** | 1/1 |
+| **Improved Fire Blast** | 2/2 |
+| **Heating Up** | 1/1 |
+| **Precision** | 3/3 |
 
-[Open de Talented-versie](/nl/talents/mage/?t=02300520310031051) met Arcane Mind 5/5 en Arcane Instability 1/3. De [levelbuild voor de Mage](/nl/leveling/mage/) geeft een talent voor elk level van 10 tot 35.
+### Levelbuild, 18/0/33
+
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/mage/?t=0502052001003--053530000101331251). De [levelbuild voor de Mage](/nl/leveling/mage/) geeft het talent voor elk level.
+
+### PvP-build, 32/19/0
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/mage/?t=050205220102211531-505230012001).
 
 ### Wat de belangrijkste talenten doen
 

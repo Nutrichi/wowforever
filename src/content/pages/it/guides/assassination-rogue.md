@@ -1,7 +1,7 @@
 ---
 title: "Guida all’Assassination Rogue in WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: build con veleni, Venom e rotazione"
-description: "L’Assassination Rogue in WoW Forever: Venom e Shank, Mutilate dal livello 40, due build di livello 30 in solitaria e con Improved Expose Armor, la rotazione e i veleni."
+description: "L’Assassination Rogue in WoW Forever: Venom e Shank, Mutilate dal livello 40, la build di leveling del Rogue, la rotazione e i veleni."
 short: "Assassination Rogue"
 updated: 2026-11-07
 lang: it
@@ -19,20 +19,22 @@ faq:
     a: "È opzionale ma molto forte in gruppo: Expose Armor costa meno energia e restituisce 2 punti combo se lo usi con 5. I gruppi con molti danni in mischia lo vorranno."
   - q: "Qual è la razza migliore per un Assassination Rogue?"
     a: "Human per l’Alleanza, per l’1% di probabilità di critico in più, che ora conta anche per i veleni. Orc per l’Orda, per il 10% di potere d’attacco in più con Blood Fury."
-  - q: "C’è già una build di livello 60?"
-    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
+  - q: "C'è una build per il livello 60?"
+    a: "Non ancora per raid e PvP: non è nota nessuna build per i nuovi alberi dei talenti. La build di leveling del Rogue dà il talento per ogni livello dal 10 al 35, il resto arriverà appena sarà noto."
 sources:
+  - name: "Wowhead, build dei talenti"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
 ---
 > **Aggiornamento del 4 novembre:** le build e i talenti qui sotto seguono i nuovi alberi delle note di sviluppo del 2 novembre, di più nel [nostro articolo](/it/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-L’Assassination Rogue di WoW Forever è l’avvelenatore. Venom rafforza i tuoi veleni dopo ogni Shank, Mutilate dà ai pugnali un generatore di punti combo tutto loro dal livello 40, e i veleni ora possono fare critici. Non servono trucchi di Stealth né semplici attacchi automatici per fare danni. Questa guida tratta due build di livello 30, la rotazione, l’energia, i veleni, la sopravvivenza, le stats e le razze.
+L’Assassination Rogue di WoW Forever è l’avvelenatore. Venom rafforza i tuoi veleni dopo ogni Shank, Mutilate dà ai pugnali un generatore di punti combo tutto loro dal livello 40, e i veleni ora possono fare critici. Non servono trucchi di Stealth né semplici attacchi automatici per fare danni. Questa guida tratta due build di livello 60, la rotazione, l’energia, i veleni, la sopravvivenza, le stats e le razze.
 
 | | |
 |---|---|
 | Ruolo | Danni in mischia con pugnali e veleni |
-| Build al livello 30 | 21 punti in Assassination, Talented aggiunge Relentless Strikes e Opportunity |
+| Build al livello 60 | |
 | Talenti chiave | Malice, Ruthlessness, Improved Slice and Dice, Improved Poisons, Venom, Mutilate |
 | Punti forti | Danni molto alti che crescono a ogni livello, tanto controllo |
 | Punti deboli | Una rotazione intensa, ha bisogno di equipaggiamento |
@@ -57,44 +59,13 @@ L’Assassination Rogue di WoW Forever è l’avvelenatore. Venom rafforza i tuo
 | Kick, Gouge, Sap, Cheap Shot, Kidney Shot e Blind | Ha bisogno di molto potere d’attacco prima di decollare davvero |
 | Veleni per ogni situazione, e la via più facile per Improved Expose Armor | Nessun danno ad area |
 
-## Due build per il livello 30
+## Build per il livello 60
 
-Entrambe le build usano i 21 punti che hai al livello 30. Talented del sistema Legacy ne aggiunge 5 a ciascuna.
+Una build da raid e PvP per i nuovi alberi dei talenti non è ancora nota. Questa sezione verrà aggiornata appena ce ne sarà una.
 
-### Build in solitario
+### Build per livellare
 
-Pensata per il massimo dei danni: il 5% di critico da Malice, punti combo extra da Ruthlessness, più attivazioni di veleno da Improved Poisons, e Venom per veleni più forti dopo ogni Shank. Mutilate arriva al livello 40. [Apri la build nel calcolatore dei talenti](/it/talents/rogue/?t=02530300200501).
-
-| Talento | Punti |
-|---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Malice** | 5/5 |
-| **Ruthlessness** | 3/3 |
-| **Improved Slice and Dice** | 3/3 |
-| **Lethality** | 2/2 |
-| **Improved Poisons** | 5/5 |
-| **Venom** | 1/1 |
-
-[Apri la versione Talented](/it/talents/rogue/?t=02530300200531--002) con Relentless Strikes 3/5 e Opportunity 2/5 in Subtlety, per più energia e Ambush più forti.
-
-![La build in solitario Talented dell’Assassination Rogue nel nostro calcolatore dei talenti](../../../../assets/posts/2026-10-21-wow-forever-assassination-rogue-build.jpg)
-
-### Build con Improved Expose Armor
-
-Quasi uguale, ma con Improved Expose Armor, che rende Expose Armor molto più facile da usare nei gruppi da dungeon, sui boss e sui nemici minori. [Apri la build nel calcolatore dei talenti](/it/talents/rogue/?t=02532300200301).
-
-| Talento | Punti |
-|---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Malice** | 5/5 |
-| **Ruthlessness** | 3/3 |
-| **Improved Expose Armor** | 2/2 |
-| **Improved Slice and Dice** | 3/3 |
-| **Lethality** | 2/2 |
-| **Improved Poisons** | 3/5 |
-| **Venom** | 1/1 |
-
-[Apri la versione Talented](/it/talents/rogue/?t=02532300200531) con Improved Poisons 5/5 e Relentless Strikes 3/5.
+La [build di leveling del Rogue](/it/leveling/rogue/) dà il talento per ogni livello dal 10 al 35. Il resto dell'ordine arriverà appena sarà noto.
 
 ## Cosa fanno i talenti chiave
 

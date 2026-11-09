@@ -23,12 +23,11 @@
  * op één regel.
  */
 import type { Locale } from '../i18n/ui';
-import { localizePath, useTranslations } from '../i18n/utils';
-import { foreverHubPath, launchDate, raidsDate } from '../config/site';
 import KofiPill from './KofiPill.astro';
 import LivePill from './LivePill.astro';
 import RestedXpPill from './RestedXpPill.astro';
 import SearchField from './SearchField.astro';
+import TimerChips from './TimerChips.astro';
 
 interface Props {
   locale: Locale;
@@ -37,65 +36,12 @@ interface Props {
 }
 
 const { locale, hasContent = false } = Astro.props;
-const t = useTranslations(locale);
-
-function split(msLeft: number) {
-  const ms = Math.max(0, msLeft); // klemmen op nul
-  const hour = 3_600_000;
-  const day = 24 * hour;
-  return { days: Math.floor(ms / day), hours: Math.floor((ms % day) / hour) };
-}
-
-/*
- * Tot de launch telt de chip af naar de launch, daarna naar de eerste raids
- * (Nutri, 4 november 2026). De build kiest de stand, het script in de browser
- * schakelt zelf om als de launch voorbij is.
- */
-const phases = [
-  { at: launchDate, label: t('countdown.label'), pattern: t('countdown.aria') },
-  { at: raidsDate, label: t('countdown.raidsLabel'), pattern: t('countdown.raidsAria') },
-];
-const phase = phases.find((p) => new Date(p.at).getTime() > Date.now()) ?? phases[phases.length - 1];
-const initial = split(new Date(phase.at).getTime() - Date.now());
-const pad = (n: number) => String(n).padStart(2, '0');
-
-/* Enkelvoud en meervoud per eenheid, voor de zin van de schermlezer. */
-const units = {
-  d: [t('countdown.daysOne'), t('countdown.daysMany')],
-  h: [t('countdown.hoursOne'), t('countdown.hoursMany')],
-};
-
-const fill = (pattern: string, d: number, h: number) =>
-  pattern
-    .replace('{d}', String(d))
-    .replace('{h}', String(h))
-    .replace('{du}', d === 1 ? units.d[0] : units.d[1])
-    .replace('{hu}', h === 1 ? units.h[0] : units.h[1]);
-
-const ariaText = fill(phase.pattern, initial.days, initial.hours);
-/* Met slash op het einde, zoals de menulinks: zo stuurt GitHub Pages niet eerst door. */
-const hubHref = foreverHubPath ? `${localizePath(foreverHubPath, locale)}/` : '';
-const ChipTag = hubHref ? 'a' : 'span';
+/* De aftelchip zit sinds 9 november 2026 in TimerChips (raids, reset en Darkmoon Faire). */
 ---
 
-<div
-  class="wf-bar"
-  data-wf-countdown
-  data-target={phase.at}
-  data-phases={JSON.stringify(phases)}
-  data-units={JSON.stringify(units)}
->
+<div class="wf-bar">
   <div class:list={['wf-bar__inner', { 'has-content': hasContent }]}>
-    <ChipTag class="wf-chip" href={hubHref || undefined}>
-      <span class="wf-chip__diamond" aria-hidden="true"></span>
-      <span class="wf-chip__label" aria-hidden="true" data-wf-label>{phase.label}</span>
-      <span class="wf-chip__value wf-nums" aria-hidden="true">
-        <span data-wf-days>{initial.days}</span>{t('countdown.dayUnit')}
-        <span data-wf-hours>{pad(initial.hours)}</span>{t('countdown.hourUnit')}
-      </span>
-      <!-- Een schermlezer krijgt één rustige zin in plaats van losse cijfers. -->
-      <span class="wf-sr" data-wf-countdown-sr data-pattern={phase.pattern}>{ariaText}</span>
-    </ChipTag>
+    <TimerChips locale={locale} />
 
     {hasContent && <span class="wf-bar__rule" aria-hidden="true"></span>}
 
@@ -126,41 +72,6 @@ const ChipTag = hubHref ? 'a' : 'span';
     margin: 0 auto;
     padding: 8px 26px;
     min-height: 49px;
-  }
-
-  .wf-chip {
-    flex: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    border: 1px solid var(--wf-border);
-    border-radius: var(--wf-r-pill);
-    padding: 5px 11px;
-    font-size: 12px;
-    color: var(--wf-muted);
-    white-space: nowrap;
-    transition: var(--wf-transition);
-  }
-
-  a.wf-chip:hover { border-color: var(--wf-accent-deep); }
-
-  .wf-chip__diamond {
-    width: 7px;
-    height: 7px;
-    background: var(--wf-accent);
-    transform: rotate(45deg);
-  }
-
-  .wf-chip__label {
-    font-family: var(--wf-display);
-    font-weight: 500;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-  }
-
-  .wf-chip__value {
-    color: var(--wf-accent);
-    font-weight: 600;
   }
 
   .wf-bar__rule {
@@ -231,50 +142,3 @@ const ChipTag = hubHref ? 'a' : 'span';
     .wf-bar__search { display: none; }
   }
 </style>
-
-<script>
-  // Tikt per halve minuut; de chip toont dagen en uren. Klemt op nul.
-  const root = document.querySelector<HTMLElement>('[data-wf-countdown]');
-
-  if (root) {
-    type Phase = { at: string; label: string; pattern: string };
-    const phases: Phase[] = JSON.parse(root.dataset.phases ?? '[]');
-    const labelEl = root.querySelector<HTMLElement>('[data-wf-label]');
-    let target = new Date(root.dataset.target ?? '').getTime();
-    const daysEl = root.querySelector<HTMLElement>('[data-wf-days]');
-    const hoursEl = root.querySelector<HTMLElement>('[data-wf-hours]');
-    const srEl = root.querySelector<HTMLElement>('[data-wf-countdown-sr]');
-    type Units = { d: [string, string]; h: [string, string] };
-    const units: Units = JSON.parse(root.dataset.units ?? '{}');
-    const pad = (n: number) => String(n).padStart(2, '0');
-
-    const tick = () => {
-      // Voorbij de launch: door naar de volgende mijlpaal, ook zonder nieuwe build.
-      const phase = phases.find((p) => new Date(p.at).getTime() > Date.now());
-      if (phase) {
-        target = new Date(phase.at).getTime();
-        if (labelEl) labelEl.textContent = phase.label;
-        if (srEl) srEl.dataset.pattern = phase.pattern;
-      }
-      const ms = Math.max(0, target - Date.now());
-      const hour = 3_600_000;
-      const days = Math.floor(ms / (24 * hour));
-      const hours = Math.floor((ms % (24 * hour)) / hour);
-
-      if (daysEl) daysEl.textContent = String(days);
-      if (hoursEl) hoursEl.textContent = pad(hours);
-
-      // Stil bijgewerkt: geen aria-live, dus dit praat niet mee.
-      if (srEl) {
-        srEl.textContent = (srEl.dataset.pattern ?? '')
-          .replace('{d}', String(days))
-          .replace('{h}', String(hours))
-          .replace('{du}', days === 1 ? units.d[0] : units.d[1])
-          .replace('{hu}', hours === 1 ? units.h[0] : units.h[1]);
-      }
-    };
-
-    tick();
-    window.setInterval(tick, 30_000);
-  }
-</script>

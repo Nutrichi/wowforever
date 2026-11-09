@@ -1,7 +1,7 @@
 ---
 title: "Fury Warrior in WoW Forever: de gids"
-metaTitle: "WoW Forever Fury Warrior: build voor level 30, rotatie en Rage"
-description: "De Fury Warrior in WoW Forever: de build voor level 30 met Cruelty, Unbridled Wrath en Death Wish, de rotatie, Rage, stance dancing, stats, wapens en races."
+metaTitle: "WoW Forever Fury Warrior: build voor level 60, rotatie en Rage"
+description: "De Fury Warrior in WoW Forever: de build voor level 60 met Cruelty, Unbridled Wrath en Death Wish, de rotatie, Rage, stance dancing, stats, wapens en races."
 short: "Fury Warrior"
 updated: 2026-11-07
 lang: nl
@@ -14,23 +14,25 @@ faq:
   - q: "Moet een Fury Warrior stance dancen?"
     a: "Misschien. Rend schaalt beter in Forever en Overpower kost weinig Rage, dus korte uitstapjes naar Battle Stance kunnen lonen. Elke Rage die je verliest bij het wisselen kost schade, dus houd die uitstapjes kort."
   - q: "Wanneer krijgt een Fury Warrior Bloodthirst?"
-    a: "Bloodthirst is het laatste talent van de Fury-boom en vraagt 30 punten daarin, dus op zijn vroegst level 39, of een paar levels eerder met Talented uit het Legacy-systeem. De build voor level 30 stopt bij Death Wish."
+    a: "Bloodthirst is het laatste talent van de Fury-boom en vraagt 30 punten daarin, dus op zijn vroegst level 39, of een paar levels eerder met Talented uit het Legacy-systeem."
   - q: "Welk ras is het beste voor een Fury Warrior?"
     a: "Human voor de Alliance, voor 1% meer critical strike chance, of Dwarf voor 1% hit. Orc voor de Horde, voor Blood Fury. Elk ras kan Warrior spelen, en elke keuze werkt."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fury-warrior/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/blizzard-raises-class-damage-and-monster-health/).
 
-De Fury Warrior in WoW Forever is de berserker: twee wapens, snelle slagen en een Rage-balk die vol loopt met elke critical strike. De rotatie is snel en reactief, en Cleave en Whirlwind maken Fury een van de beste specs tegen meerdere vijanden. Deze gids behandelt de build voor level 30, de rotatie, Rage, stance dancing, stats, wapens en races.
+De Fury Warrior in WoW Forever is de berserker: twee wapens, snelle slagen en een Rage-balk die vol loopt met elke critical strike. De rotatie is snel en reactief, en Cleave en Whirlwind maken Fury een van de beste specs tegen meerdere vijanden. Deze gids behandelt de build voor level 60, de rotatie, Rage, stance dancing, stats, wapens en races.
 
 | | |
 |---|---|
 | Rol | Melee-schade met twee wapens |
-| Build op level 30 | 26 punten in Fury, met de 5 extra punten van Talented |
+| Build op level 60 | 17/34/0 |
 | Belangrijkste talenten | Cruelty, Unbridled Wrath, Furious Precision, Dual Wield Specialization, Enrage, Death Wish |
 | Sterk in | Snelle, reactieve rotatie, heel sterke cleave |
 | Zwak in | Een PvE-kit die niets doet voor je eigen overleven |
@@ -55,23 +57,45 @@ De Fury Warrior in WoW Forever is de berserker: twee wapens, snelle slagen en ee
 | Cleave en Whirlwind maken Fury ongeëvenaard tegen groepen | Niets in de spec helpt je tegen spelers |
 | Recklessness en Death Wish voor grote burst | Whirlwind raakt alles rondom je, dus je tank moet bijblijven |
 
-## De build voor level 30
+## Builds voor level 60
 
-Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van Talented uit het Legacy-systeem. Zonder Talented stop je bij 21 punten; de [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft de volgorde per level. [Open de build in de talentcalculator](/nl/talents/warrior/?t=-0505302550001).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 17/34/0
+
+17 punten in Arms en 34 in Fury. [Open de raidbuild in de talentcalculator](/nl/talents/warrior/?t=30303213002-050530045122100231).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/warrior/?t=30303213002-051530055120100231).
 
 | Talent | Punten |
 |---|---|
+| **Improved Heroic Strike** | 3/3 |
+| **Improved Rend** | 3/3 |
+| **Improved Tactical Mastery** | 3/3 |
+| **Improved Overpower** | 2/2 |
+| **Anger Management** | 1/1 |
+| **Deep Wounds** | 3/3 |
+| **Impale** | 2/2 |
 | **Cruelty** | 5/5 |
 | **Unbridled Wrath** | 5/5 |
 | **Furious Precision** | 3/3 |
-| **Blood Craze** | 2/3 |
+| **Enrage** | 4/5 |
 | **Dual Wield Specialization** | 5/5 |
-| **Enrage** | 5/5 |
+| **Reckless Swings** | 1/1 |
+| **Improved Execute** | 2/2 |
+| **Improved Berserker Rage** | 2/2 |
 | **Death Wish** | 1/1 |
+| **Improved Whirlwind** | 2/2 |
+| **Flurry** | 3/3 |
+| **Bloodthirst** | 1/1 |
 
-![De Fury Warrior-build voor level 30 in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-fury-warrior-build.jpg)
+### Levelbuild, 13/6/32
 
-Na level 30 komen Flurry, voor 30% meer aanvalssnelheid na een critical strike, en Bloodthirst onderaan de boom.
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/warrior/?t=2502301-0501-250033020331001351). De [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft het talent voor elk level.
+
+### PvP-build, 17/34/0
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/warrior/?t=03303213002-550011350102122231).
 
 ## Wat de belangrijkste talenten doen
 
@@ -83,8 +107,8 @@ Na level 30 komen Flurry, voor 30% meer aanvalssnelheid na een critical strike, 
 | **Dual Wield Specialization** | 25% meer off-hand-schade en 50% meer Rage ervan |
 | **Enrage** | 10% meer fysieke schade voor 12 seconden, vaak genoeg om te tellen |
 | **Death Wish** | Een sterke schade-cooldown, en nog sterker met Recklessness |
-| **Flurry** | 30% meer aanvalssnelheid voor 3 slagen na een critical strike. Na level 30 |
-| **Bloodthirst** | Een instant aanval op basis van attack power in plaats van wapenschade. Na level 30 |
+| **Flurry** | 30% meer aanvalssnelheid voor 3 slagen na een critical strike |
+| **Bloodthirst** | Een instant aanval op basis van attack power in plaats van wapenschade |
 
 ## Rotatie
 

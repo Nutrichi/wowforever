@@ -1,7 +1,7 @@
 ---
 title: "Subtlety Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush- en bleedbuilds tot 60"
-description: "De Subtlety Rogue in WoW Forever: een Ambush-build en een bleedbuild, allebei met Death Mark, voor level 30 en level 60, met rotaties, Energy, Shank, poisons en races."
+description: "De Subtlety Rogue in WoW Forever: een Ambush-build en een bleedbuild, allebei met Death Mark, voor level 60, met rotaties, Energy, Shank, poisons en races."
 short: "Subtlety Rogue"
 updated: 2026-11-07
 lang: nl
@@ -20,12 +20,14 @@ faq:
   - q: "Waarom voelt Subtlety zwak op lage levels?"
     a: "De beste talenten zitten onderaan de boom. Veel spelers levelen met een andere spec en stappen op een hoger level over naar Subtlety."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/subtlety/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/subtlety-rogue/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-De Subtlety Rogue in WoW Forever heeft twee echte PvE-builds. De ene deelt enorme kritieke Ambushes uit, en Ghostly Strike laat je Ambush in gevecht gebruiken. De andere bouwt op bleeds, met Hemorrhage en een sterkere Rupture. Beide eindigen in Death Mark, een finishing move die je schade opslaat en later loslaat. Poisons landen nu critical strikes en schalen met attack power. Deze gids behandelt beide builds voor level 30 en 60, de rotaties, Energy, poisons, overleven, stats en races.
+De Subtlety Rogue in WoW Forever heeft twee echte PvE-builds. De ene deelt enorme kritieke Ambushes uit, en Ghostly Strike laat je Ambush in gevecht gebruiken. De andere bouwt op bleeds, met Hemorrhage en een sterkere Rupture. Beide eindigen in Death Mark, een finishing move die je schade opslaat en later loslaat. Poisons landen nu critical strikes en schalen met attack power. Deze gids behandelt de builds voor level 60, de rotaties, Energy, poisons, overleven, stats en races.
 
 | | |
 |---|---|
@@ -50,26 +52,25 @@ De Subtlety Rogue in WoW Forever heeft twee echte PvE-builds. De ene deelt enorm
 
 **Heeft levels nodig.** De beste talenten zitten onderaan de boom. Veel spelers levelen met een andere spec en stappen later over naar Subtlety.
 
-## Builds voor level 30
+## Builds voor level 60
 
-Op level 30 heb je 21 punten, en Talented voegt er 5 toe. Beide builds staan uitgelegd in onze [levelgids voor de Rogue](/nl/guides/rogue-leveling/).
+Twee builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons en een om te levelen. Elke build opent in onze talentcalculator.
 
-- **Ambush:** doodt monsters zo snel mogelijk met kritieke Ambushes vanuit Stealth. [Open de build](/nl/talents/rogue/?t=02--333003031021), [Talented-versie](/nl/talents/rogue/?t=025--333003031021).
-- **Bleed:** Garrote, Hemorrhage en Rupture, met Serrated Blades voor een sterkere Rupture en Preparation voor een extra Slice and Dice. [Open de build](/nl/talents/rogue/?t=--3320002313210001), [Talented-versie](/nl/talents/rogue/?t=002--3322002313210011).
+### Raidbuild, 10/10/31
 
-## Ambush-build met Death Mark voor level 60: 10/10/31
+10 punten in Assassination, 10 in Combat en 31 in Subtlety. [Open de raidbuild in de talentcalculator](/nl/talents/rogue/?t=025003-302302-335003231321001121).
 
-De beta stopte op level 30, maar de talentbomen voor level 60 zitten in de spelbestanden. We hebben deze build punt voor punt nagekeken in [onze talentcalculator](/nl/talents/rogue/?t=025003-302302-335003231321001121). Backstab is je belangrijkste generator, en Ghostly Strike laat je volgende Ambush zonder Stealth toe. Serrated Blades voegt 9% armor penetration toe, Hemorrhage dekt gevechten waarin je niet achter het monster kunt staan, en Death Mark onderaan slaat je schade op en laat die na 6 seconden los.
+De bleedbuild ruilt de grote Ambushes in voor Hemorrhage en een sterkere Rupture: [open de bleedbuild](/nl/talents/rogue/?t=015303-302003-332210231321001151).
 
 | Talent | Punten |
 |---|---|
-| **Remorseless Attacks** (Assassination) | 2/2 |
-| **Malice** (Assassination) | 5/5 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Coup de Grace** (Combat) | 3/3 |
-| **Lightning Reflexes** (Combat) | 2/5 |
-| **Puncturing Wounds** (Combat) | 3/3 |
-| **Precision** (Combat) | 2/3 |
+| **Remorseless Attacks** | 2/2 |
+| **Malice** | 5/5 |
+| **Improved Slice and Dice** | 3/3 |
+| **Coup de Grace** | 3/3 |
+| **Lightning Reflexes** | 2/5 |
+| **Puncturing Wounds** | 3/3 |
+| **Precision** | 2/3 |
 | **Setup** | 3/3 |
 | **Master of Deception** | 3/3 |
 | **Opportunity** | 5/5 |
@@ -85,38 +86,11 @@ De beta stopte op level 30, maar de talentbomen voor level 60 zitten in de spelb
 | **Boot Knife** | 2/5 |
 | **Death Mark** | 1/1 |
 
-![De Ambush-build met Death Mark van de Subtlety Rogue in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-subtlety-rogue-build.jpg)
+### Levelbuild
 
-Murder is weg sinds 2 november, dus de laatste 2 punten in Assassination gaan naar Remorseless Attacks. Ruthlessness 2/3 is een alternatief.
+De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
 
-## Bleedbuild met Death Mark voor level 60: 12/8/31
-
-Helemaal naar beneden in de Subtlety-boom. [Open de build in de talentcalculator](/nl/talents/rogue/?t=015303-302003-332210231321001151). Hemorrhage laat je Rupture en Garrote 15% harder raken, Boot Knife 5/5 maakt van elke Shank 2 Combo Points, en Death Mark slaat de schade van Garrote en Rupture dubbel zo snel op.
-
-| Talent | Punten |
-|---|---|
-| **Remorseless Attacks** (Assassination) | 1/2 |
-| **Malice** (Assassination) | 5/5 |
-| **Ruthlessness** (Assassination) | 3/3 |
-| **Improved Slice and Dice** (Assassination) | 3/3 |
-| **Coup de Grace** (Combat) | 3/3 |
-| **Lightning Reflexes** (Combat) | 2/5 |
-| **Precision** (Combat) | 3/3 |
-| **Setup** | 3/3 |
-| **Master of Deception** | 3/3 |
-| **Opportunity** | 2/5 |
-| **Dirty Deeds** | 2/2 |
-| **Camouflage** | 1/3 |
-| **Dirty Tricks** | 2/2 |
-| **Initiative** | 3/3 |
-| **Premeditation** | 1/1 |
-| **Serrated Blades** | 3/3 |
-| **Elusiveness** | 2/2 |
-| **Ghostly Strike** | 1/1 |
-| **Preparation** | 1/1 |
-| **Hemorrhage** | 1/1 |
-| **Boot Knife** | 5/5 |
-| **Death Mark** | 1/1 |
+Een PvP-build voor de nieuwe talentbomen is nog niet bekend. Deze sectie wordt bijgewerkt zodra er een is.
 
 ## Wat de belangrijkste talenten doen
 

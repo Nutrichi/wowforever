@@ -1,7 +1,7 @@
 ---
 title: "Paladin leveling guide for WoW Forever"
-metaTitle: "WoW Forever Paladin leveling guide: Retribution, Protection and Shockadin builds to 30"
-description: "How to level a Paladin in WoW Forever: the early build, three level 30 builds for Retribution, Protection and Shockadin, the rotation, key levels, the class quests and their weapons, seals, auras and blessings."
+metaTitle: "WoW Forever Paladin leveling guide: Retribution, Protection and Shockadin builds to 60"
+description: "How to level a Paladin in WoW Forever: the early build, level 60 builds for Retribution, Protection and Shockadin, the rotation, key levels, the class quests and their weapons, seals, auras and blessings."
 short: "Paladin leveling"
 updated: 2026-11-07
 lang: en
@@ -18,13 +18,13 @@ faq:
     a: "Seal of Command is a Retribution talent in the third row, so you can take it at level 20. Before that, and with a one-handed weapon, use Seal of Righteousness."
   - q: "Which professions suit a Paladin?"
     a: "Blacksmithing with Mining. Blacksmithing makes soulbound gear with stats you rarely find elsewhere, such as spell power for plate wearers. Cooking is a must for every class, for the experience buff and your own campfire."
-  - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Paladin level build gives a talent for every level to 35."
+  - q: "Is there a level 60 build?"
+    a: "Yes. The Paladin level build gives a talent for every level to 60, and every spec guide has builds for raids, leveling and PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/paladin-leveling/"
 ---
-The Paladin levels slowly but safely. You heal yourself, you have a shield against almost every mistake, and in Forever you press more than auto attack: Judgement and Holy Strike go out on cooldown. At level 30 you choose between Retribution, Protection and a Holy build that deals damage with Holy Shock. This guide covers the builds, the rotation, the key levels, the class quests and the seals, auras and blessings.
+The Paladin levels slowly but safely. You heal yourself, you have a shield against almost every mistake, and in Forever you press more than auto attack: Judgement and Holy Strike go out on cooldown. You choose between Retribution, Protection and a Holy build that deals damage with Holy Shock. This guide covers the builds, the rotation, the key levels, the class quests and the seals, auras and blessings.
 
 | | |
 |---|---|
@@ -34,16 +34,13 @@ The Paladin levels slowly but safely. You heal yourself, you have a shield again
 | Weakness | Kills one monster at a time, mana between pulls, little to escape with |
 | Talent order per level | [Paladin level build](/leveling/paladin/) |
 | Spec guides | [Retribution Paladin](/guides/retribution-paladin/), [Holy Paladin](/guides/holy-paladin/) |
-| Builds to level 60 | Not yet, the [level build](/leveling/paladin/) goes to 35 |
+| Builds to level 60 | Yes, the [level build](/leveling/paladin/) goes to 60 |
 
 ## Which spec to level with
 
 You can level with all three. **Retribution** is the classic choice: a large two-handed weapon, Seal of Command and big hits. **Protection** is just as fast if you like to gather four monsters and burn them down with Consecration while you barely lose health. **Holy** does little damage until it has Holy Shock, but then plays much like Protection, with more spell power and more healing.
 
 For the first 20 to 30 levels, spend your points in Retribution, even if you plan to tank dungeons with a shield later. Most of your damage comes from the same three buttons in every spec: a seal, Judgement and Holy Strike.
-
-The builds below were made on the beta, which stopped at level 30. Each has 26 points: you reach that at level 30 with five extra points from Talented in the Legacy system, or at level 35 without them. The talent calculator shows such a build as level 35, because it counts every point as a level. Builds for level 60 follow once we can test them in the live game.
-
 ## Levels 1 to 10
 
 You start with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20154"><img class="wf-wh__icon" src="/wh/ability_thunderbolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Righteousness</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=635"><img class="wf-wh__icon" src="/wh/spell_holy_holybolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Holy Light</a> and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=465"><img class="wf-wh__icon" src="/wh/spell_holy_devotionaura.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Devotion Aura</a>. Judgement and Blessing of Might follow at 4, Divine Protection and Holy Strike at 6, Hammer of Justice at 8. Until level 6 you mostly hit with your weapon.
@@ -58,99 +55,11 @@ Use Holy Light to heal yourself when needed. If you need a heal in combat, cast 
 
 Stats at these levels: Strength and attack power first, then Stamina, then spell power, then armor.
 
-## Level 30 Retribution build
+## Talent builds
 
-The recommended leveling build. You hit hard with a slow two-handed weapon, and the build is all about mana: Sanctified Judgement gives mana back on every Judgement, so you kill monster after monster with little rest. That also works on groups, with Consecration kept up. [Open the build in the talent calculator](/talents/paladin/?t=--512330212013003).
+The [Paladin level build](/leveling/paladin/) gives the talent for every level from 10 to 60. [Open the end result in the talent calculator](/talents/paladin/?t=-55300102113001531-05233301201).
 
-| Talent | Points |
-|---|---|
-| **Deflection** | 5/5 |
-| **Benediction** | 1/5 |
-| **Improved Judgement** | 2/2 |
-| **Conviction** | 3/3 |
-| **Sanctified Judgement** | 3/3 |
-| **Unyielding Faith** | 2/2 |
-| **Seal of Command** | 1/1 |
-| **Pursuit of Justice** | 2/2 |
-| **Sacred Arbiter** | 1/1 |
-| **Two-Handed Weapon Specialization** | 3/3 |
-| **Vengeance** | 3/3 |
-
-Seal of Command gives your swings a chance to deal 70% of your weapon damage again as Holy damage, so the slower and heavier your weapon, the better. Conviction and Vengeance work together: more critical strikes, and every critical strike raises your damage for 30 seconds. Sacred Arbiter makes Holy Strike stronger and lets it refresh your Judgement on the monster. Pursuit of Justice makes you run 15% faster, which saves a lot of time between quests.
-
-There is little room to change it. The only real option is one point less in the fifth row for <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20066"><img class="wf-wh__icon" src="/wh/spell_holy_prayerofhealing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Repentance</a>, which takes a humanoid out of the fight for up to 6 seconds.
-
-1. Keep Blessing of Might and Retribution Aura up.
-2. Cast Seal of Command before you pull. Below level 20, with a one-handed weapon or with a lot of spell power, use Seal of Righteousness.
-3. Cast Judgement as you run to the monster.
-4. Cast Holy Strike.
-5. Cast Judgement and Holy Strike on cooldown and renew your seal.
-
-The Judgement of Seal of Command deals almost double damage to a stunned target. Open with Hammer of Justice, then judge.
-
-Stats: Strength and attack power, then Stamina, then spell power and Intellect, then armor.
-
-## Level 30 Protection build
-
-Built to take hits. Gather a group of monsters, put down Consecration and let them wear themselves out on your shield. You need a one-handed weapon and a shield. [Open the build in the talent calculator](/talents/paladin/?t=-053021022133004).
-
-| Talent | Points |
-|---|---|
-| **Redoubt** | 5/5 |
-| **Precision** | 3/3 |
-| **Sacred Duty** | 2/2 |
-| **Templar's Bulwark** | 1/1 |
-| **Shield Specialization** | 2/2 |
-| **Toughness** | 2/5 |
-| **Swift Judgement** | 1/1 |
-| **Improved Righteous Fury** | 3/3 |
-| **Anticipation** | 3/5 |
-| **Reckoning** | 4/5 |
-
-Redoubt and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20148"><img class="wf-wh__icon" src="/wh/inv_shield_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shield Specialization</a> make you block often, and every block gives mana back. Reckoning gives you extra attacks after blocks and critical hits against you. Templar's Bulwark is your emergency button: a shield as large as your maximum health for 8 seconds.
-
-1. Keep Blessing of Kings and Retribution Aura up.
-2. Cast Seal of Fury before you pull.
-3. Cast Judgement as you run to the monster.
-4. Cast Consecration once you are in melee range.
-5. Cast Holy Strike.
-6. Cast Judgement, Holy Strike and Consecration on cooldown and renew your seal.
-
-Consecration hits the first four monsters that walk into it harder, so four is the number to pull. Seal of Fury is also your taunt: its Judgement makes a monster attack you for 4 seconds. More about it in [this post](/news/paladins-get-a-taunt-with-seal-of-fury/).
-
-Stats: spell power first, then Stamina, then Intellect, then Strength, then armor.
-
-## Level 30 Shockadin build
-
-Leveling as a healer is not recommended, but a Shockadin deals more damage than you would expect. Almost everything a Paladin does now scales with spell power, and this Holy build adds Holy Shock and better healing. [Open the build in the talent calculator](/talents/paladin/?t=5032501202202101).
-
-| Talent | Points |
-|---|---|
-| **Spiritual Focus** | 5/5 |
-| **Healing Light** | 3/3 |
-| **Reverence** | 2/2 |
-| **Improved Seals** | 5/5 |
-| **Divine Favor** | 1/1 |
-| **Illumination** | 2/5 |
-| **Divine Precision** | 2/2 |
-| **Infusion of Light** | 2/2 |
-| **Consecrated Ground** | 2/2 |
-| **Holy Shock** | 1/1 |
-| **Holy Power** | 1/5 |
-
-Holy Shock is an instant blast of Holy damage, or an instant heal on an ally. Improved Seals raises the damage of your seals and Judgements. Reverence keeps part of your mana regeneration going while you cast, and Divine Precision makes your Holy spells miss less.
-
-1. Keep Blessing of Kings and Retribution Aura up.
-2. Cast Seal of Righteousness before you pull.
-3. Pull with Holy Shock.
-4. Cast Judgement as you run to the monster.
-5. Cast Consecration once you are in melee range.
-6. Cast Holy Strike.
-7. Cast Holy Shock, Judgement, Holy Strike and Consecration on cooldown and renew your seal.
-
-Stats: spell power first, then Stamina, then Intellect, then Strength, then armor.
-
-![A Dwarf Paladin with a shield, surrounded by golden holy light on a cobblestone path](../../../../assets/posts/2026-10-18-wow-forever-dwarf-paladin-holy-light.jpg)
+For level 60, every spec guide has its own builds for raids, leveling and PvP: [Holy](/guides/holy-paladin/) and [Retribution](/guides/retribution-paladin/).
 
 ## Key levels
 

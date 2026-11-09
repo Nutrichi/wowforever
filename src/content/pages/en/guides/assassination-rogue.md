@@ -1,7 +1,7 @@
 ---
 title: "Assassination Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: poison builds, Venom and rotation"
-description: "The Assassination Rogue in WoW Forever: Venom and Shank, Mutilate from level 40, two level 30 builds for solo and Improved Expose Armor, the rotation, Energy, poisons and races."
+description: "The Assassination Rogue in WoW Forever: Venom and Shank, Mutilate from level 40, the Rogue level build, the rotation, Energy, poisons and races."
 short: "Assassination Rogue"
 updated: 2026-11-07
 lang: en
@@ -18,20 +18,22 @@ faq:
     a: "It is optional but very strong in groups: Expose Armor costs less Energy and gives 2 Combo Points back when you use it with 5. Groups with a lot of melee damage will want it."
   - q: "Which race is best for an Assassination Rogue?"
     a: "Human for the Alliance, for 1% more critical strike chance, which now also counts for poisons. Orc for the Horde, for 10% more attack power from Blood Fury."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Not for raids and PvP yet: no build for the new talent trees is known. The Rogue level build gives the talent for every level from 10 to 35, and the rest follows once it is known."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/assassination-rogue/"
 ---
 > **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
 
-The Assassination Rogue in WoW Forever is the poisoner. Venom makes your poisons stronger after every Shank, Mutilate gives daggers their own Combo Point generator from level 40, and poisons can now land critical strikes. You do not need Stealth tricks or pure auto attacks to deal damage. This guide covers two level 30 builds, the rotation, Energy, poisons, survival, stats and races.
+The Assassination Rogue in WoW Forever is the poisoner. Venom makes your poisons stronger after every Shank, Mutilate gives daggers their own Combo Point generator from level 40, and poisons can now land critical strikes. You do not need Stealth tricks or pure auto attacks to deal damage. This guide covers two level 60 builds, the rotation, Energy, poisons, survival, stats and races.
 
 | | |
 |---|---|
 | Role | Melee damage with daggers and poisons |
-| Build at level 30 | 21 points in Assassination, Talented adds Relentless Strikes and Opportunity |
+| Build at level 60 | |
 | Key talents | Malice, Ruthlessness, Improved Slice and Dice, Improved Poisons, Venom, Mutilate |
 | Strength | Very high damage that scales with every level, lots of crowd control |
 | Weakness | A busy rotation, needs gear |
@@ -56,44 +58,13 @@ The Assassination Rogue in WoW Forever is the poisoner. Venom makes your poisons
 | Kick, Gouge, Sap, Cheap Shot, Kidney Shot and Blind | Needs a lot of attack power before it truly takes off |
 | Poisons for every situation, and the easiest route to Improved Expose Armor | No area damage |
 
-## Two builds for level 30
+## Builds for level 60
 
-Both builds use the 21 points you have at level 30. Talented from the Legacy system adds 5 points to each.
+A raid and PvP build for the new talent trees is not known yet. This section gets updated as soon as there is one.
 
-### Solo build
+### Leveling build
 
-Built for as much damage as possible: 5% critical strike chance from Malice, extra Combo Points from Ruthlessness, more poison procs from Improved Poisons, and Venom for stronger poisons after every Shank. Mutilate follows at level 40. [Open the build in the talent calculator](/talents/rogue/?t=02530300200501).
-
-| Talent | Points |
-|---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Malice** | 5/5 |
-| **Ruthlessness** | 3/3 |
-| **Improved Slice and Dice** | 3/3 |
-| **Lethality** | 2/2 |
-| **Improved Poisons** | 5/5 |
-| **Venom** | 1/1 |
-
-[Open the Talented version](/talents/rogue/?t=02530300200531--002) with Relentless Strikes 3/5 and Opportunity 2/5 in Subtlety, for more Energy and harder Ambushes.
-
-![The Talented Assassination Rogue solo build in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-assassination-rogue-build.jpg)
-
-### Improved Expose Armor build
-
-Almost the same, but with Improved Expose Armor, which makes Expose Armor much easier to use in dungeon groups, on bosses and on trash. [Open the build in the talent calculator](/talents/rogue/?t=02532300200301).
-
-| Talent | Points |
-|---|---|
-| **Remorseless Attacks** | 2/2 |
-| **Malice** | 5/5 |
-| **Ruthlessness** | 3/3 |
-| **Improved Expose Armor** | 2/2 |
-| **Improved Slice and Dice** | 3/3 |
-| **Lethality** | 2/2 |
-| **Improved Poisons** | 3/5 |
-| **Venom** | 1/1 |
-
-[Open the Talented version](/talents/rogue/?t=02532300200531) with Improved Poisons 5/5 and Relentless Strikes 3/5.
+The [Rogue level build](/leveling/rogue/) gives the talent for every level from 10 to 35. The rest of the order follows once it is known.
 
 ## What the key talents do
 

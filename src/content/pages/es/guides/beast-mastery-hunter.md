@@ -20,6 +20,8 @@ faq:
   - q: "¿Qué es la zona muerta del Hunter?"
     a: "El hueco entre el alcance cuerpo a cuerpo y 8 metros, donde no puedes usar ni ataques cuerpo a cuerpo ni a distancia. Retrocede a 8 metros para volver a disparar."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/beast-mastery/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/beast-mastery-hunter/"
 ---
@@ -48,44 +50,41 @@ Con el Beast Mastery Hunter de WoW Forever, tus bestias hacen buena parte del tr
 
 **La zona muerta.** Entre el alcance cuerpo a cuerpo y 8 metros no puedes usar ni cuerpo a cuerpo ni distancia. Retrocede para volver a disparar.
 
-## La build de nivel 60: 31/20/0
+## Builds para nivel 60
 
-La beta se quedó en el nivel 30, pero los árboles de talentos del nivel 60 están en los archivos del juego. Hemos comprobado esta build punto por punto en [nuestra calculadora de talentos](/es/talents/hunter/?t=5320021505101051-30500520014): 31 puntos en Beast Mastery y 20 en Marksmanship, 51 en total.
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+### Build de banda, 31/20/0
+
+31 puntos en Beast Mastery y 20 en Marksmanship. [Abre la build de banda en la calculadora de talentos](/es/talents/hunter/?t=5320001505101251-00520503014).
 
 | Talento | Puntos |
 |---|---|
 | **Deadly Aspects** | 5/5 |
 | **Endurance Training** | 3/5 |
 | **Focused Fire** | 2/2 |
-| **Pathfinding** | 2/2 |
 | **Bestial Swiftness** | 1/1 |
 | **Unleashed Fury** | 5/5 |
 | **Ferocity** | 5/5 |
 | **Summon Hawk** | 1/1 |
 | **Intimidation** | 1/1 |
+| **Bestial Discipline** | 2/2 |
 | **Frenzy** | 5/5 |
 | **Bestial Wrath** | 1/1 |
-| **Hawk Eye** | 3/3 |
 | **Lethal Attacks** | 5/5 |
+| **Improved Stings** | 2/3 |
 | **Careful Aim** | 5/5 |
-| **Rapid Killing** | 2/2 |
+| **Improved Arcane Shot** | 3/5 |
 | **Trueshot Aura** | 1/1 |
 | **Mortal Shots** | 4/5 |
-| **Hawk Eye** (Marksmanship) | 3/3 |
-| **Lethal Attacks** (Marksmanship) | 5/5 |
-| **Careful Aim** (Marksmanship) | 5/5 |
-| **Rapid Killing** (Marksmanship) | 2/2 |
-| **Trueshot Aura** (Marksmanship) | 1/1 |
-| **Mortal Shots** (Marksmanship) | 4/5 |
 
-![La build 31/20/0 del Beast Mastery Hunter en nuestra calculadora de talentos](../../../../assets/posts/2026-10-24-wow-forever-beast-mastery-hunter-build.jpg)
+### Build para subir de nivel, 31/20/0
 
-Algunos puntos pueden moverse:
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/hunter/?t=5120221405101241-00503520005). La [build de nivel del Hunter](/es/leveling/hunter/) da el talento de cada nivel.
 
-- **Endurance Training** a **Improved Revive Pet** si resucitas a menudo a tu mascota.
-- **Hawk Eye** a **Efficiency** si no necesitas el alcance extra y prefieres disparos más baratos.
-- **Trueshot Aura** al último punto de **Mortal Shots** si un Hunter Marksmanship de tu banda ya lleva el aura.
-- **Summon Hawk** a **Endurance Training** o **Improved Revive Pet** si tus halcones mueren antes de acabar su duración.
+### Build de PvP, 31/16/4
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/hunter/?t=5023001505101251-0550050001-4).
 
 ## Qué hacen los talentos clave
 

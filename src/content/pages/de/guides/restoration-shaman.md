@@ -1,7 +1,7 @@
 ---
 title: "Restoration Shaman in WoW Forever: der Guide"
 metaTitle: "WoW Forever Restoration Shaman: Heilbuild, Totems, Mana"
-description: "Der Restoration Shaman in WoW Forever: der Heilbuild für Level 30 und die Talented-Version, Water Shield, Riptide und Chain Heal, Totems, Mana, Werte und Völker."
+description: "Der Restoration Shaman in WoW Forever: der Heilbuild für Level 60, Water Shield, Riptide und Chain Heal, Totems, Mana, Werte und Völker."
 short: "Restoration Shaman"
 updated: 2026-11-07
 lang: de
@@ -12,27 +12,29 @@ faq:
   - q: "Was ist neu für den Restoration Shaman in Forever?"
     a: "Riptide, Water Shield und Mindfulness. Totems wirken jetzt für den ganzen Raid, und Totemic Call holt deine aktiven Totems zu dir. Heilen per Mouseover ist ins Spiel eingebaut."
   - q: "Was macht Riptide?"
-    a: "Eine sofortige Heilung über Zeit für 15 Sekunden, und Chain Heal direkt auf dieses Ziel heilt 25 % mehr. Seit den Entwicklungsnotizen vom 2. November heilt es nicht mehr sofort und hat 12 Sekunden Abklingzeit. Es ist das letzte Talent im Restoration-Baum, der Build für Level 30 erreicht es also noch nicht."
+    a: "Eine sofortige Heilung über Zeit für 15 Sekunden, und Chain Heal direkt auf dieses Ziel heilt 25 % mehr. Seit den Entwicklungsnotizen vom 2. November heilt es nicht mehr sofort und hat 12 Sekunden Abklingzeit."
   - q: "Wie hält ein Restoration Shaman sein Mana oben?"
     a: "Spirit auf der Ausrüstung, Mindfulness für 50 % deiner Manaregeneration beim Zaubern, Water Shield bei kritischen Heilungen, immer Mana Spring Totem und Mana Tide Totem, wenn die Gruppe trocken läuft."
   - q: "Welche Werte braucht ein Restoration Shaman?"
     a: "Zuerst Heilkraft, dann Spirit für Mana, dann Intellect für einen größeren Manapool und Crit, dann Crit selbst. Haste hilft, verbraucht das Mana aber schneller."
   - q: "Welches Volk ist das beste für einen Restoration Shaman?"
     a: "Dwarf ist der einzige Shaman der Alliance. Bei der Horde ist Orc die stärkste Wahl, aber Troll, Tauren und Windshaper Skyborne sind auch gut."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/restoration/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/restoration-shaman/"
 ---
 > **Update vom 4. November:** Builds und Talente unten folgen den neuen Bäumen aus den Entwicklungsnotizen vom 2. November, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/).
 
-Der Restoration Shaman in WoW Forever heilt mit wenigen einfachen Zaubern und füllt den Rest mit Nutzen. Chain Heal ist die große Gruppenheilung, Lesser Healing Wave rettet ein Ziel in Not, und deine Totems stärken den ganzen Raid. Neu in Forever sind Riptide, Water Shield und Mindfulness, die das älteste Problem der Spec angehen: Mana. Dieser Guide behandelt den Build für Level 30, die wichtigsten Talente, die Heilpriorität, Totems, Mana, Werte und Völker.
+Der Restoration Shaman in WoW Forever heilt mit wenigen einfachen Zaubern und füllt den Rest mit Nutzen. Chain Heal ist die große Gruppenheilung, Lesser Healing Wave rettet ein Ziel in Not, und deine Totems stärken den ganzen Raid. Neu in Forever sind Riptide, Water Shield und Mindfulness, die das älteste Problem der Spec angehen: Mana. Dieser Guide behandelt den Build für Level 60, die wichtigsten Talente, die Heilpriorität, Totems, Mana, Werte und Völker.
 
 | | |
 |---|---|
 | Rolle | Heiler, für ein Ziel und für Gruppen |
-| Build auf Level 30 | 21 Punkte in Restoration, Talented fügt Tidal Mastery 5/5 und Restorative Totems 4/5 hinzu |
+| Build auf Level 60 | 0/17/34 |
 | Wichtigste Talente | Mindfulness, Water Shield, Ancestral Healing, Tidal Mastery, Mana Tide Totem, Nature's Swiftness |
 | Stärken | Einfache und starke Heilungen, Totems für den ganzen Raid, viel Nutzen |
 | Schwächen | Mana, keine harte Kontrolle, die Platzierung der Totems |
@@ -52,26 +54,41 @@ Der Restoration Shaman in WoW Forever heilt mit wenigen einfachen Zaubern und f�
 
 **Platzierung.** Totems haben eine Reichweite. Windfury Totem muss die Nahkämpfer erreichen, Mana Tide Totem die anderen Heiler, und Chain Heal springt nur zwischen Spielern, die nah beieinander stehen.
 
-## Der Build für Level 30
+## Builds für Level 60
 
-Die Beta endete bei Level 30, der Build nutzt also 21 Punkte. Talented aus dem Legacy-System fügt 5 hinzu. [Öffne den Build im Talentrechner](/de/talents/shaman/?t=--53300030140101).
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 0/17/34
+
+17 Punkte in Enhancement und 34 in Restoration. [Raid-Build im Talentrechner öffnen](/de/talents/shaman/?t=-0550302000002-5330003315013151).
 
 | Talent | Punkte |
 |---|---|
+| **Thundering Strikes** | 5/5 |
+| **Ancestral Knowledge** | 5/5 |
+| **Mental Dexterity** | 3/3 |
+| **Elemental Weapons** | 2/3 |
+| **Improved Ghost Wolf** | 2/2 |
 | **Improved Healing Wave** | 5/5 |
 | **Tidal Focus** | 3/5 |
 | **Mindfulness** | 3/3 |
 | **Ancestral Healing** | 3/3 |
+| **Healing Focus** | 3/3 |
 | **Water Shield** | 1/1 |
-| **Tidal Mastery** | 4/5 |
+| **Tidal Mastery** | 5/5 |
 | **Mana Tide Totem** | 1/1 |
+| **Healing Way** | 3/3 |
 | **Nature's Swiftness** | 1/1 |
+| **Purification** | 5/5 |
+| **Riptide** | 1/1 |
 
-[Öffne die Talented-Version](/de/talents/shaman/?t=--53300030154101) mit Tidal Mastery 5/5 und Restorative Totems 4/5.
+### Leveling-Build, 19/32/0
 
-![Der Talented-Build des Restoration Shaman in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-shaman-restoration-build.jpg)
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/shaman/?t=45300310201-053030310051012251). Der [Level-Build für den Shaman](/de/leveling/shaman/) gibt das Talent für jedes Level.
 
-Nature's Swiftness sitzt in der fünften Reihe und braucht 20 Punkte darüber, es ist also der 21. Punkt. Derselbe Build steht in unserem [Levelguide für den Shaman](/de/guides/shaman-leveling/).
+### PvP-Build, 0/17/34
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/shaman/?t=-2552000100002-5330003315013151).
 
 ## Was die wichtigsten Talente tun
 
@@ -88,7 +105,7 @@ Nature's Swiftness sitzt in der fünften Reihe und braucht 20 Punkte darüber, e
 | **Nature's Swiftness** | Dein nächster Naturzauber mit Zauberzeit wird sofort gewirkt |
 | **Riptide** | Heilung über Zeit für 15 Sekunden, 12 Sekunden Abklingzeit, und 25 % mehr Heilung von Chain Heal auf dieses Ziel |
 
-Water Shield gibt in Forever kein passives Mana, aber mit vielen kritischen Heilungen summiert es sich. Riptide ist das letzte Talent des Baums, in der siebten Reihe, auf Level 30 außer Reichweite.
+Water Shield gibt in Forever kein passives Mana, aber mit vielen kritischen Heilungen summiert es sich. Riptide ist das letzte Talent des Baums, in der siebten Reihe.
 
 ## Heilpriorität
 

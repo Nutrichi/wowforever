@@ -1,7 +1,7 @@
 ---
 title: "Holy Paladin in WoW Forever: la guida"
 metaTitle: "WoW Forever Holy Paladin: build da guaritore, magie e mana"
-description: "L'Holy Paladin in WoW Forever: la build da guaritore di livello 30 e la versione Talented, Holy Shock e Light's Vigil, la priorità di cura, il mana, i sigilli, le stats e le razze."
+description: "L'Holy Paladin in WoW Forever: la build da guaritore di livello 60, Holy Shock e Light's Vigil, la priorità di cura, il mana, i sigilli, le stats e le razze."
 short: "Holy Paladin"
 updated: 2026-11-07
 lang: it
@@ -19,18 +19,20 @@ faq:
     a: "Prima potere curativo e magico, poi Intelletto per mana e critico, poi probabilità di critico per cure più grandi e Illumination. Con Reverence lo Spirito rigenera mana mentre lanci, quindi conta anche lo Spirito."
   - q: "Quale razza scegliere per un Holy Paladin?"
     a: "Human per l'Alliance, per la probabilità di critico in più. Dwarf ha Stoneform come tempo di recupero difensivo. I Paladin dell'Horde sono sempre Undead."
-  - q: "C'è già una build per il livello 60?"
-    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
+  - q: "C'è una build per il livello 60?"
+    a: "Sì. Questa guida ha tre build per il livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ognuna si apre nel nostro calcolatore di talenti."
 sources:
+  - name: "Wowhead, build dei talenti"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
 ---
-L'Holy Paladin di WoW Forever è il guaritore più semplice del gioco. Lanci cure con tempo di lancio, curi per numeri grandi e vivi di critici, che ti restituiscono mana grazie a Illumination. Niente cure nel tempo, niente scudi: curi ciò che è ferito. Questa guida copre la build di livello 30, Holy Shock e Light's Vigil, la priorità di cura, il mana, i sigilli, le stats e le razze.
+L'Holy Paladin di WoW Forever è il guaritore più semplice del gioco. Lanci cure con tempo di lancio, curi per numeri grandi e vivi di critici, che ti restituiscono mana grazie a Illumination. Niente cure nel tempo, niente scudi: curi ciò che è ferito. Questa guida copre la build di livello 60, Holy Shock e Light's Vigil, la priorità di cura, il mana, i sigilli, le stats e le razze.
 
 | | |
 |---|---|
 | Ruolo | Guaritore, soprattutto su un bersaglio |
-| Build al livello 30 | 21 punti in Holy, Talented aggiunge Purifying Power, Boundless Light e Holy Power |
+| Build al livello 60 | 31/7/13 |
 | Talenti chiave | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Punti forti | Grandi cure, utilità di gruppo, molto difficile da uccidere |
 | Punti deboli | Soprattutto reattivo, una sola cura di gruppo |
@@ -46,26 +48,45 @@ L'Holy Paladin di WoW Forever è il guaritore più semplice del gioco. Lanci cur
 
 **Una sola cura di gruppo.** Light's Vigil è il tuo unico modo di curare tutto il gruppo, ed è costoso.
 
-## La build di livello 30
+## Build per il livello 60
 
-La beta si è fermata al livello 30, quindi la build usa 21 punti. Talented, dal sistema Legacy, ne aggiunge 5. [Apri la build nel calcolatore di talenti](/it/talents/paladin/?t=50320015022001).
+Tre build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ogni build si apre nel nostro calcolatore di talenti.
+
+### Build da raid, 31/7/13
+
+31 punti in Holy, 7 in Protection e 13 in Retribution. [Apri la build da raid nel calcolatore di talenti](/it/talents/paladin/?t=50320115022101251-50002-050330002).
+
+Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/talents/paladin/?t=50320015222121251-5-052300002).
 
 | Talento | Punti |
 |---|---|
 | **Spiritual Focus** | 5/5 |
 | **Healing Light** | 3/3 |
 | **Reverence** | 2/2 |
+| **Purifying Power** | 1/2 |
 | **Divine Favor** | 1/1 |
 | **Illumination** | 5/5 |
 | **Divine Precision** | 2/2 |
 | **Infusion of Light** | 2/2 |
+| **Oath of Light** | 1/1 |
 | **Holy Shock** | 1/1 |
+| **Boundless Light** | 2/2 |
+| **Holy Power** | 5/5 |
+| **Light's Vigil** | 1/1 |
+| **Divine Intellect** | 5/5 |
+| **Sacred Duty** | 2/2 |
+| **Benediction** | 5/5 |
+| **Conviction** | 3/3 |
+| **Sanctified Judgement** | 3/3 |
+| **Pursuit of Justice** | 2/2 |
 
-[Apri la versione Talented](/it/talents/paladin/?t=5032021502200121) con Purifying Power 2/2, Boundless Light 2/2 e Holy Power 1/5.
+### Build per livellare, 0/31/20
 
-![La build Talented dell'Holy Paladin nel nostro calcolatore di talenti](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
+La build per livellare prende prima i talenti che aiutano a uccidere da soli. [Aprila nel calcolatore di talenti](/it/talents/paladin/?t=-55300102113001531-05233301201). La [build di leveling del Paladin](/it/leveling/paladin/) dà il talento per ogni livello.
 
-Holy Shock è nella quinta fila e richiede 20 punti sopra. Con 21 punti c'è quindi posto esattamente per gli otto talenti qui sopra. La versione Talented è la build completa da 26 punti.
+### Build PvP, 32/7/12
+
+La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel calcolatore di talenti](/it/talents/paladin/?t=50320215022101251-5002-052300002).
 
 ## Cosa fanno i talenti chiave
 
@@ -83,7 +104,7 @@ Holy Shock è nella quinta fila e richiede 20 punti sopra. Con 21 punti c'è qui
 | **Holy Power** | Il 15% di critico in più per Holy Shock e Holy Strike, il 5% per tutti gli altri incantesimi |
 | **Light's Vigil** | Il tuo prossimo Holy Shock sul bersaglio non ha tempo di recupero e cura tutto il suo gruppo |
 
-Light's Vigil è nella settima fila, fuori portata al livello 30. Spiritual Focus funziona meglio con Concentration Aura. Divine Favor e Illumination si rafforzano: una cura critica sicura restituisce anche mana.
+Light's Vigil è nella settima fila. Spiritual Focus funziona meglio con Concentration Aura. Divine Favor e Illumination si rafforzano: una cura critica sicura restituisce anche mana.
 
 ## Priorità di cura
 

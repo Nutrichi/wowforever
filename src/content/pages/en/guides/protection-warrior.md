@@ -1,7 +1,7 @@
 ---
 title: "Protection Warrior guide for WoW Forever"
-metaTitle: "WoW Forever Protection Warrior: level 30 tank build, threat and Rage"
-description: "The Protection Warrior in WoW Forever: the level 30 tank build with Master of Defense, Defiance and Vanguard, the threat rotation, debuffs, Rage, stats and races."
+metaTitle: "WoW Forever Protection Warrior: level 60 tank build, threat and Rage"
+description: "The Protection Warrior in WoW Forever: the level 60 tank build with Master of Defense, Defiance and Vanguard, the threat rotation, debuffs, Rage, stats and races."
 short: "Protection Warrior"
 updated: 2026-11-07
 lang: en
@@ -16,18 +16,20 @@ faq:
     a: "Protection gets much of its Rage from being hit. Against casters, or when another player tanks, you get little. Improved Thunder Clap, Improved Sunder Armor and Focused Rage lower your costs later on."
   - q: "Which race is best for a Protection Warrior?"
     a: "Night Elf or Dwarf for the Alliance, for extra dodge or Stoneform. Tauren for the Horde, for the most health, or Orc for Blood Fury and its magic damage cooldown. Every race works."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/protection/talent-builds-pve-tank"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/protection-warrior/"
 ---
-The Protection Warrior in WoW Forever is the classic knight: heavy armor, a big shield and no magic, only shouts, stomps and blows. New talents give Rage for every block, dodge and parry, and Vanguard lets you Charge in Defensive Stance. This guide covers the level 30 build, threat rotation, debuffs, Rage, stats, gear and races.
+The Protection Warrior in WoW Forever is the classic knight: heavy armor, a big shield and no magic, only shouts, stomps and blows. New talents give Rage for every block, dodge and parry, and Vanguard lets you Charge in Defensive Stance. This guide covers the level 60 build, threat rotation, debuffs, Rage, stats, gear and races.
 
 | | |
 |---|---|
 | Role | Tank with a shield |
-| Build at level 30 | 26 points in Protection, with the 5 extra points from Talented |
+| Build at level 60 | 4/15/32 |
 | Key talents | Shield Specialization, Anticipation, Master of Defense, Defiance, Last Stand, Vanguard |
 | Strength | Strong defensive cooldowns, a lot of control over the fight |
 | Weakness | Little to do when you are not tanking, needs Rage |
@@ -55,13 +57,22 @@ The Protection Warrior in WoW Forever is the classic knight: heavy armor, a big 
 
 Because Protection does so little outside tanking, many Warriors play a damage spec with Dual Specialization, or take the role of main tank for good.
 
-## The level 30 build
+## Builds for level 60
 
-This build uses 26 points: the 21 points of level 30 plus 5 from Talented in the Legacy system. Without Talented, stop at 21 points; the [Warrior level build](/leveling/warrior/) gives the order per level. [Open the build in the talent calculator](/talents/warrior/?t=--2505301203010013).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 4/15/32
+
+4 points in Arms, 15 in Fury and 32 in Protection. [Open the raid build in the talent calculator](/talents/warrior/?t=04-05050005-050530120301021351).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/warrior/?t=04-05050005-050233120301021351).
 
 | Talent | Points |
 |---|---|
-| **Improved Bloodrage** | 2/2 |
+| **Deflection** | 4/5 |
+| **Cruelty** | 5/5 |
+| **Unbridled Wrath** | 5/5 |
+| **Enrage** | 5/5 |
 | **Shield Specialization** | 5/5 |
 | **Anticipation** | 5/5 |
 | **Improved Revenge** | 3/3 |
@@ -69,12 +80,19 @@ This build uses 26 points: the 21 points of level 30 plus 5 from Talented in the
 | **Master of Defense** | 2/2 |
 | **Defiance** | 3/3 |
 | **Vanguard** | 1/1 |
+| **Improved Shield Wall** | 2/2 |
 | **Concussion Blow** | 1/1 |
 | **Focused Rage** | 3/3 |
+| **Bastion** | 5/5 |
+| **Shield Slam** | 1/1 |
 
-![The level 30 Protection Warrior build in our talent calculator](../../../../assets/posts/2026-10-21-wow-forever-protection-warrior-build.jpg)
+### Leveling build, 13/6/32
 
-After level 30 come Bastion, Improved Shield Wall, Improved Thunder Clap, Improved Sunder Armor and Shield Slam at the bottom of the tree.
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/warrior/?t=2502301-0501-250033020331001351). The [Warrior level build](/leveling/warrior/) gives the talent for every level.
+
+### PvP build, 0/19/32
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/warrior/?t=-05050135-055030123001201351).
 
 ## What the key talents do
 
@@ -88,7 +106,7 @@ After level 30 come Bastion, Improved Shield Wall, Improved Thunder Clap, Improv
 | **Last Stand** | 30% extra maximum health for 20 seconds |
 | **Vanguard** | Open every pull with Charge, without leaving Defensive Stance |
 | **Focused Rage** | 3 Rage less for your offensive abilities |
-| **Shield Slam** | A strong instant attack that can also dispel. After level 30 |
+| **Shield Slam** | A strong instant attack that can also dispel |
 
 ## Rotation
 

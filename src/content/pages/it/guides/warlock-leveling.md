@@ -1,7 +1,7 @@
 ---
 title: "Livellare un Warlock in WoW Forever: la guida"
-metaTitle: "Guida al leveling del Warlock in WoW Forever: build Affliction, Demonology e Destruction fino al 30"
-description: "Come livellare un Warlock in WoW Forever: la prima build, tre build di livello 30 per Affliction, Demonology e Destruction, la rotazione, i livelli chiave, le missioni di classe per ogni demone, bacchette, professioni, Life Tap e Fear."
+metaTitle: "Guida al leveling del Warlock in WoW Forever: build Affliction, Demonology e Destruction fino al 60"
+description: "Come livellare un Warlock in WoW Forever: la prima build, build di livello 60 per Affliction, Demonology e Destruction, la rotazione, i livelli chiave, le missioni di classe per ogni demone, bacchette, professioni, Life Tap e Fear."
 short: "Leveling del Warlock"
 updated: 2026-11-07
 lang: it
@@ -19,13 +19,13 @@ faq:
     a: "Drain Soul ora ha una probabilità di dare un Soul Shard mentre infligge danni, e un bersaglio che muore sotto Drain Soul ne dà sempre uno. Lascia tankare il tuo demone e canalizza il grado 1 di Drain Soul finché non ne hai abbastanza."
   - q: "Quali professioni si adattano a un Warlock?"
     a: "Tailoring con Enchanting è la coppia classica: Tailoring crea equipaggiamento Shadow e il suo campo dà Spirit, Enchanting crea le prime bacchette buone. Anche First Aid è utile, perché ora crea rimedi contro veleno, malattia e sanguinamento."
-  - q: "C'è già una build per il livello 60?"
-    a: "Non in questa guida: le sue build arrivano al livello 30, dove finiva la beta. La nostra build di leveling del Warlock dà un talento per ogni livello fino al 40."
+  - q: "C'è una build per il livello 60?"
+    a: "Sì. La build di leveling del Warlock dà un talento per ogni livello fino al 60, e ogni guida di specializzazione ha build per raid, leveling e PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warlock-leveling/"
 ---
-Il Warlock è una delle classi più autosufficienti di WoW Forever. I tuoi danni continuano a colpire mentre ti muovi, il tuo demone tanka o combatte con te, e trasformi la tua stessa vita in mana. Al livello 30 scegli tra Affliction, Demonology e Destruction. Questa guida copre le build, la rotazione, i livelli chiave, le missioni di classe, le bacchette e le professioni.
+Il Warlock è una delle classi più autosufficienti di WoW Forever. I tuoi danni continuano a colpire mentre ti muovi, il tuo demone tanka o combatte con te, e trasformi la tua stessa vita in mana. Scegli tra Affliction, Demonology e Destruction. Questa guida copre le build, la rotazione, i livelli chiave, le missioni di classe, le bacchette e le professioni.
 
 | | |
 |---|---|
@@ -35,15 +35,13 @@ Il Warlock è una delle classi più autosufficienti di WoW Forever. I tuoi danni
 | Punti deboli | Inizio lento, Soul Shard da raccogliere, poco contro molti mostri insieme |
 | Talento per livello | [Build di leveling del Warlock](/it/leveling/warlock/) |
 | Guide per spec | [Affliction Warlock](/it/guides/affliction-warlock/), [Demonology Warlock](/it/guides/demonology-warlock/), [Destruction Warlock](/it/guides/destruction-warlock/) |
-| Build fino al livello 60 | Non ancora, la [build di leveling](/it/leveling/warlock/) arriva al 40 |
+| Build fino al livello 60 | Sì, la [build di leveling](/it/leveling/warlock/) arriva al 60 |
 
 ## Con quale spec livellare
 
 Puoi livellare con tutte e tre, ma **Affliction** è la strada più fluida. Quasi tutti i suoi danni vengono da danni nel tempo istantanei, che continuano a colpire mentre vai avanti, e affronti due mostri insieme con poche pause. Fino al livello 30 finisci i mostri con la bacchetta. Al 30, il grado 3 di Drain Life e i talenti di drenaggio rendono il drain tanking più forte della bacchetta.
 
 **Demonology** diventa comoda con Demonic Brand a 25 punti: allora il tuo demone tiene i mostri. **Destruction** è la più difficile da soli, perché resta ferma a lanciare, e i suoi incantesimi costano più mana. È forte nei dungeon.
-
-Le build qui sotto sono state fatte sulla beta, che si fermava al livello 30. La build Affliction ha una versione con cinque punti in più per Talented del sistema Legacy. Il calcolatore dei talenti mostra quella versione come livello 35, perché conta ogni punto come un livello. Le build per il livello 60 arriveranno quando potremo provarle nel gioco live.
 
 Altro sulla spec al livello 60 nella [guida del Warlock Affliction](/it/guides/affliction-warlock/).
 
@@ -61,117 +59,11 @@ Usa Life Tap tra un combattimento e l'altro per trasformare la vita in più in m
 
 Statistiche a questi livelli: prima i danni al secondo della bacchetta, poi Intellect e danni magici, poi Stamina e Spirit.
 
-## Build Affliction di livello 30
+## Build dei talenti
 
-La build consigliata per livellare. Fino al livello 29 metti i danni nel tempo su un mostro e lo finisci con la bacchetta. Al livello 30 impari il grado 3 di Drain Life e cambi i talenti per il drain tanking: Drain Life diventa il tuo riempitivo e ti cura quello che costa Life Tap.
+La [build di leveling del Warlock](/it/leveling/warlock/) dà il talento per ogni livello dal 10 al 60. [Apri il risultato finale nel calcolatore di talenti](/it/talents/warlock/?t=2552032303520135-00050032).
 
-**Livelli da 10 a 29: danni nel tempo e bacchetta.** [Apri la build nel calcolatore dei talenti](/it/talents/warlock/?t=245200201032).
-
-| Talento | Punti |
-|---|---|
-| **Improved Life Tap** | 2/2 |
-| **Suppression** | 4/5 |
-| **Improved Corruption** | 5/5 |
-| **Grim Reach** | 2/2 |
-| **Improved Bane of Agony** | 2/2 |
-| **Amplify Curse** | 1/1 |
-| **Malevolence** | 3/5 |
-| **Nightfall** | 2/2 |
-
-Improved Corruption è il talento più importante: una Corruption istantanea che lanci in movimento. Con 4 punti in Suppression non manchi più i mostri del tuo livello. A questi livelli la bacchetta fa più di Drain Life, quindi i talenti di drenaggio possono aspettare.
-
-**Livello 30: drain tanking.** [Apri la build nel calcolatore dei talenti](/it/talents/warlock/?t=245203031000001).
-
-| Talento | Punti |
-|---|---|
-| **Improved Life Tap** | 2/2 |
-| **Suppression** | 4/5 |
-| **Improved Corruption** | 5/5 |
-| **Grim Reach** | 2/2 |
-| **Improved Drains** | 3/3 |
-| **Fel Concentration** | 3/3 |
-| **Amplify Curse** | 1/1 |
-| **Soul Siphon** | 1/3 |
-
-Con Talented: Soul Siphon 3/3, Siphon Life 1/1 e Nightfall 2/2. [Apri la versione con Talented](/it/talents/warlock/?t=245203031002013).
-
-Improved Drains rafforza Drain Life, e Fel Concentration impedisce che i danni ritardino la tua canalizzazione. Con Improved Life Tap ogni punto di vita drenato vale 1,2 di mana. Soul Siphon aumenta Drain Life fino al 36% quando i tuoi altri effetti sono sul mostro. Niente bacchetta buona, o nessuna voglia di cambiare talenti? Prendi i talenti di drenaggio fin dall'inizio.
-
-Malediction non è più nell'albero. I suoi punti vanno a Grim Reach, per più portata, e a Malevolence o Nightfall. Pandemic aumenta solo i danni critici e a questi livelli rende poco. Siphon Life fa pochi danni, ma conta come un effetto in più per Soul Siphon.
-
-1. Manda avanti il tuo demone.
-2. Ingaggia con Bane of Agony.
-3. Lancia Corruption.
-4. Lancia Immolate sui mostri che vivono abbastanza a lungo.
-5. Lancia Siphon Life sui mostri che vivono abbastanza a lungo, appena ce l'hai.
-6. Prima del livello 30: spara con la bacchetta finché il mostro non muore.
-7. Dal livello 30: canalizza Drain Life finché il mostro non muore. Passa alla bacchetta se hai la vita piena o il mostro è quasi morto.
-8. Lancia Life Tap ogni volta che hai più vita che mana.
-
-Prima del livello 30 il demone è questione di gusti: il Voidwalker tiene lontani i mostri mentre spari, la Succubus o l'Incubus uccide più in fretta ma i colpi li prendi tu. Dal livello 30, fai drain tanking con la Succubus o l'Incubus.
-
-Per andare ancora più veloce, combatti due mostri insieme. Metti i danni nel tempo sul primo e lanciagli Fear, poi combatti il secondo con il tuo demone. Rilancia Fear sul primo ogni volta che torna.
-
-Statistiche: danni magici e danni Shadow, poi danni della bacchetta fino al 30, poi Intellect e Spirit, poi Stamina.
-
-## Build Demonology di livello 30
-
-Mette il tuo demone in prima linea. All'inizio più lenta di Affliction, ma con Demonic Brand la tua Succubus o il tuo Felhunter tiene due o tre mostri mentre fa buona parte del lavoro. Prendi raramente un colpo. [Apri la build nel calcolatore dei talenti](/it/talents/warlock/?t=-0005003231201301).
-
-| Talento | Punti |
-|---|---|
-| **Unholy Power** | 5/5 |
-| **Fel Vitality** | 3/3 |
-| **Demonic Energies** | 2/2 |
-| **Improved Sayaad** | 3/3 |
-| **Demonic Sacrifice** | 1/1 |
-| **Master Summoner** | 2/2 |
-| **Fel Domination** | 1/1 |
-| **Demonic Brand** | 3/3 |
-| **Soul Link** | 1/1 |
-
-Unholy Power e Demonic Brand sono il cuore della build. Con Demonic Brand, il tuo Searing Pain marchia il mostro, e questo dà al tuo demone più danni e minaccia contro di lui. Su un reame PvP, Master Summoner con Fel Domination evoca in emergenza un Voidwalker nuovo, per lo scudo del suo <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7812"><img class="wf-wh__icon" src="/wh/spell_shadow_sacrificialshield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sacrifice</a>.
-
-1. Manda avanti il tuo demone.
-2. Lancia Searing Pain per marchiare il mostro.
-3. Lancia Bane of Agony sui mostri che vivono abbastanza a lungo.
-4. Lancia Corruption e Immolate.
-5. Spara con la bacchetta o lancia Shadow Bolt finché il mostro non muore.
-6. Rilancia Searing Pain prima che il marchio finisca.
-
-Senza Demonic Brand, non lanciare Searing Pain: genera molta minaccia e strappa i mostri al tuo demone.
-
-Statistiche: danni magici e danni Shadow, poi danni della bacchetta, poi Intellect e Spirit, poi Stamina.
-
-## Build Destruction di livello 30
-
-La spec più difficile da soli. Quasi tutti i suoi danni vengono da Shadow Bolt e Immolate con tempo di lancio, e mentre lanci non puoi andare avanti. Nei dungeon brilla, con Conflagrate e Shadowburn per raffiche sui bersagli importanti. [Apri la build nel calcolatore dei talenti](/it/talents/warlock/?t=--0550050103101).
-
-| Talento | Punti |
-|---|---|
-| **Improved Shadow Bolt** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17788"><img class="wf-wh__icon" src="/wh/spell_shadow_deathpact.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane</a>** | 5/5 |
-| **Aftermath** | 5/5 |
-| **Shadowburn** | 1/1 |
-| **Agonizing Flames** | 3/3 |
-| **Conflagrate** | 1/1 |
-| **Bane of Havoc** | 1/1 |
-
-Bane accorcia il tempo di lancio di Shadow Bolt e Immolate, e Aftermath aumenta i danni di Immolate. Shadowburn è un colpo finale istantaneo che restituisce il suo Soul Shard se il mostro muore. Conflagrate consuma il tuo Immolate per una raffica istantanea. Agonizing Flames aggiunge danni a tutti i tuoi incantesimi di Destruction.
-
-1. Manda avanti il tuo demone.
-2. Lancia Bane of Agony, Corruption e Immolate.
-3. Lancia Shadow Bolt finché il mostro non si gira verso di te, poi spara con la bacchetta.
-4. Lancia Conflagrate poco prima che Immolate finisca.
-5. Finisci con Shadowburn, quando al mostro resta meno vita di un suo colpo.
-
-Da solo, come Destruction resta con il Voidwalker: ti mancano i talenti di Demonology che fanno tenere la minaccia alla Succubus, e le cure che Affliction trae dai suoi drenaggi. Nei dungeon, porta l'Imp per <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6307"><img class="wf-wh__icon" src="/wh/spell_shadow_bloodboil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Pact</a> o la Succubus o l'Incubus per i danni.
-
-Statistiche: danni magici e danni Fire, poi danni della bacchetta, poi Intellect e Spirit, poi Stamina.
-
-Le build Demonology e Destruction usano 21 punti. Con Talented ne hai 26 al livello 30, e i cinque punti in più vanno dove vuoi nel calcolatore.
-
-![Un Warlock Troll che lancia incantesimi con fuoco verde e viola in entrambe le mani, accanto a un Imp, in una sala rossa e viola con ossa e teschi appesi](../../../../assets/posts/2026-10-16-wow-forever-troll-warlock-casting.jpg)
+Per il livello 60 ogni guida di specializzazione ha le sue build per raid, leveling e PvP: [Affliction](/it/guides/affliction-warlock/), [Demonology](/it/guides/demonology-warlock/) e [Destruction](/it/guides/destruction-warlock/).
 
 ## Livelli chiave
 

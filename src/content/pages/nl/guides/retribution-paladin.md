@@ -1,7 +1,7 @@
 ---
 title: "Retribution Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Retribution Paladin: build, rotatie en seals"
-description: "De Retribution Paladin in WoW Forever: de build voor level 30 en de Talented-versie, de rotatie met Seal of Command, Judgements, blessings, stats en races."
+description: "De Retribution Paladin in WoW Forever: de build voor level 60, de rotatie met Seal of Command, Judgements, blessings, stats en races."
 short: "Retribution Paladin"
 updated: 2026-11-07
 lang: nl
@@ -15,18 +15,20 @@ faq:
     a: "Eerst hit, zodat je aanvallen en spells raken, dan critical strike chance, Strength en attack power, en spell power. Champion of the Light zet Intellect om in spell power, dus Intellect is meer waard dan in Classic."
   - q: "Welk ras is het beste voor een Retribution Paladin?"
     a: "Human voor de Alliance, voor de extra critical strike chance. Dwarf heeft Stoneform, een sterke defensieve cooldown. Paladins van de Horde zijn altijd Undead."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/retribution/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/retribution-paladin/"
 ---
-De Retribution Paladin in WoW Forever is de heilige krijger met een groot tweehandig wapen. Je slaat traag maar hard, werpt tussendoor een paar spells, en bijna alles schaalt nu met spell power. Je drukt niet elke global cooldown op een knop, maar Judgement, Holy Strike en Consecration houden je bezig. Deze gids behandelt de build voor level 30, de rotatie, seals, blessings, stats en races.
+De Retribution Paladin in WoW Forever is de heilige krijger met een groot tweehandig wapen. Je slaat traag maar hard, werpt tussendoor een paar spells, en bijna alles schaalt nu met spell power. Je drukt niet elke global cooldown op een knop, maar Judgement, Holy Strike en Consecration houden je bezig. Deze gids behandelt de build voor level 60, de rotatie, seals, blessings, stats en races.
 
 | | |
 |---|---|
 | Rol | Melee-schade met een traag tweehandig wapen |
-| Build op level 30 | 21 punten in Retribution, Talented voegt Two-Handed Weapon Specialization en Vengeance toe |
+| Build op level 60 | 14/6/31 |
 | Belangrijkste talenten | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Unsealed Wrath |
 | Sterk in | Utility voor de groep, heel moeilijk te doden, grote uithalen |
 | Zwak in | Traag bij een doelwit, mana kan opraken |
@@ -42,28 +44,43 @@ De Retribution Paladin in WoW Forever is de heilige krijger met een groot tweeha
 
 **Mana.** Je bouwt voor een gevecht geen resource op, maar mana kan opraken. Sanctified Judgement helpen, en Judgement of Wisdom helpt de hele groep.
 
-## De build voor level 30
+## Builds voor level 60
 
-De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem voegt er 5 aan toe. [Open de build in de talentcalculator](/nl/talents/paladin/?t=--502330212011001).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 14/6/31
+
+14 punten in Holy, 6 in Protection en 31 in Retribution. [Open de raidbuild in de talentcalculator](/nl/talents/paladin/?t=050250002-501-05233011201301351).
 
 | Talent | Punten |
 |---|---|
-| **Deflection** | 5/5 |
+| **Divine Strength** | 5/5 |
+| **Reverence** | 2/2 |
+| **Improved Seals** | 5/5 |
+| **Holy Conduit** | 2/2 |
+| **Divine Intellect** | 5/5 |
+| **Precision** | 1/3 |
+| **Benediction** | 5/5 |
 | **Improved Judgement** | 2/2 |
 | **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
-| **Unyielding Faith** | 2/2 |
+| **Unyielding Faith** | 1/2 |
 | **Seal of Command** | 1/1 |
 | **Pursuit of Justice** | 2/2 |
 | **Sacred Arbiter** | 1/1 |
-| **Two-Handed Weapon Specialization** | 1/3 |
-| **Vengeance** | 1/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
+| **Repentance** | 1/1 |
+| **Vengeance** | 3/3 |
+| **Champion of the Light** | 5/5 |
+| **Unsealed Wrath** | 1/1 |
 
-[Open de Talented-versie](/nl/talents/paladin/?t=--512330212013003) met Benediction 1/5, Two-Handed Weapon Specialization 3/3 en Vengeance 3/3.
+### Levelbuild, 0/31/20
 
-![De Talented-build van de Retribution Paladin in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-retribution-paladin-build.jpg)
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/paladin/?t=-55300102113001531-05233301201). De [levelbuild voor de Paladin](/nl/leveling/paladin/) geeft het talent voor elk level.
 
-**Benediction in plaats van Deflection.** Deflection geeft alleen parry. Raakt je mana op in lange gevechten, zet die 5 punten dan in Benediction: instant spells en abilities kosten dan 10% minder mana.
+### PvP-build, 12/6/33
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/paladin/?t=05025-501-50233011221301351).
 
 ## Wat de belangrijkste talenten doen
 
@@ -80,7 +97,7 @@ De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Le
 | **Champion of the Light** | Spell damage gelijk aan tot 30% van je Intellect |
 | **Unsealed Wrath** | Meleeaanvallen slaan je Seal op, tot 3 keer. Een slag met een andere Seal gebruikt de stacks voor extra kansen |
 
-Champion of the Light en Unsealed Wrath staan op rij 6 en 7, buiten bereik op level 30. Ze zijn de reden om na level 30 verder in de boom te gaan.
+Champion of the Light en Unsealed Wrath staan op rij 6 en 7.
 
 ## Rotatie
 

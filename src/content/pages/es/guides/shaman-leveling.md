@@ -1,7 +1,7 @@
 ---
 title: "Guía de leveling del Shaman en WoW Forever"
 metaTitle: "WoW Forever leveling de Shaman: Enhancement, Elemental y Resto"
-description: "Subir un Shaman en WoW Forever: builds de nivel 30 para Enhancement, Elemental y Restoration, niveles clave, misiones de tótems, armas de Call of Air y zonas."
+description: "Subir un Shaman en WoW Forever: builds de nivel 60 para Enhancement, Elemental y Restoration, niveles clave, misiones de tótems, armas de Call of Air y zonas."
 short: "Leveling de Shaman"
 updated: 2026-11-07
 lang: es
@@ -19,15 +19,15 @@ faq:
     a: "La cadena Call of Air da un arma según tu especialización: Rage of the Storm para Enhancement, Lightning's Grasp para Elemental o Tidebringer's Claw para Restoration. Los lanzadores de hechizos suman Elementalist's Guard de la misma misión."
   - q: "¿Cuándo consigue un Shaman la Dual Spec?"
     a: "En el nivel 40, con tu instructor de clase. Es el momento de añadir una especialización de sanación junto a Enhancement o Elemental."
-  - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. La build de nivel del Shaman da un talento por cada nivel hasta el 60, y cada guía de especialización tiene builds para bandas, subir de nivel y PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
 > **Actualización del 4 de noviembre:** las builds y talentos de abajo siguen los árboles nuevos de las notas de desarrollo del 2 de noviembre, más en [nuestra noticia](/es/news/shamans-lose-lava-burst-before-the-launch/).
 
-El Shaman de WoW Forever es bienvenido en cualquier grupo: fuertes beneficios de tótems, un Ghost Wolf instantáneo con Improved Ghost Wolf y tres especializaciones que funcionan todas. Puedes ser un guerrero de hechizos cuerpo a cuerpo, un lanzador que arroja rayos y fuego, o un sanador. Esta guía cubre la rotación inicial, una build de nivel 30 por especialización, los niveles clave, las misiones de tótems, las armas de Call of Air, las zonas, el equipo, los tótems y el maná.
+El Shaman de WoW Forever es bienvenido en cualquier grupo: fuertes beneficios de tótems, un Ghost Wolf instantáneo con Improved Ghost Wolf y tres especializaciones que funcionan todas. Puedes ser un guerrero de hechizos cuerpo a cuerpo, un lanzador que arroja rayos y fuego, o un sanador. Esta guía cubre la rotación inicial, las builds de talentos, los niveles clave, las misiones de tótems, las armas de Call of Air, las zonas, el equipo, los tótems y el maná.
 
 | | |
 |---|---|
@@ -59,85 +59,11 @@ Luchas con Lightning Bolt a distancia y Rockbiter Weapon para tus golpes cuerpo 
 
 Stoneclaw Totem y Earthbind Totem ayudan cuando un pull sale mal. Stats al principio: daño de hechizos, luego Fuerza, luego Intelecto, luego Aguante y Espíritu, luego armadura.
 
-## Build de Enhancement de nivel 30
+## Builds de talentos
 
-La build de leveling más fuerte, y escala hasta el contenido final. El totem twisting ha desaparecido, lo que simplifica la rotación. [Abre la build en la calculadora de talentos](/es/talents/shaman/?t=-052031310051).
+La [build de nivel del Shaman](/es/leveling/shaman/) da el talento de cada nivel del 10 al 60. [Abre el resultado final en la calculadora de talentos](/es/talents/shaman/?t=45300310201-053030310051012251).
 
-| Talento | Puntos |
-|---|---|
-| **Thundering Strikes** | 5/5 |
-| **Ancestral Knowledge** | 2/5 |
-| **Mental Dexterity** | 3/3 |
-| **Improved Lightning Shield** | 1/3 |
-| **Elemental Weapons** | 3/3 |
-| **Shamanistic Focus** | 1/1 |
-| **Flurry** | 5/5 |
-| **Stormstrike** | 1/1 |
-
-[Abre la versión Talented](/es/talents/shaman/?t=-05203131005100221) con Mental Quickness 2/2, Improved Stormstrike 2/2 y Maelstrom Weapon 1/5.
-
-![La build Talented del Enhancement Shaman en nuestra calculadora de talentos](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
-
-Mental Dexterity convierte tu Intelecto en poder de ataque, y Mental Quickness en daño de hechizos, así que el Intelecto vale más de lo que parece. Improved Ghost Wolf, que hace Ghost Wolf instantáneo y utilizable en interiores, está en la cuarta fila desde el 2 de noviembre y no cabe en esta build.
-
-1. Mantén Lightning Shield y Windfury Weapon.
-2. Coloca Searing Totem y Strength of Earth Totem en combate.
-3. Inicia el combate con Lightning Bolt.
-4. Mantén Flame Shock en el objetivo, y renuévalo solo cuando esté a punto de acabar.
-5. Lanza Stormstrike en cuanto esté listo.
-6. Usa Earth Shock de relleno.
-7. Con 5 acumulaciones de Maelstrom Weapon, lanza un Lightning Bolt instantáneo. Con más puntos en Maelstrom Weapon, esto sube en prioridad.
-
-Stats: índice de golpe, luego Fuerza, luego Intelecto, luego crítico, luego daño de hechizos, luego Agilidad.
-
-## Build de Elemental de nivel 30
-
-Para un lanzador puro a distancia. [Abre la build en la calculadora de talentos](/es/talents/shaman/?t=3500331023001).
-
-| Talento | Puntos |
-|---|---|
-| **Convection** | 3/5 |
-| **Concussion** | 5/5 |
-| **Elemental Alacrity** | 3/3 |
-| **Call of Flame** | 3/3 |
-| **Elemental Focus** | 1/1 |
-| **Trial by Fire** | 2/2 |
-| **Eye of the Storm** | 3/3 |
-| **Call of Thunder** | 1/1 |
-
-[Abre la versión Talented](/es/talents/shaman/?t=350033102301131) con Elemental Reach 1/2, Lightning Overload 3/3 y Elemental Fury 1/5.
-
-![La build Talented del Elemental Shaman en nuestra calculadora de talentos](../../../../assets/posts/2026-10-24-wow-forever-shaman-elemental-build.jpg)
-
-1. Mantén Lightning Shield.
-2. Coloca Searing Totem para un objetivo, Magma Totem para varios, y Mana Spring Totem si te quedas lo bastante en un sitio.
-3. Inicia el combate con Lightning Bolt.
-4. Lanza Flame Shock.
-5. Mantén Flame Shock en el objetivo.
-6. Rellena con Lightning Bolt.
-
-Stats: daño de hechizos e Intelecto, luego crítico, luego Aguante y Espíritu, luego armadura.
-
-## Build de Restoration de nivel 30
-
-No se recomienda para subir en solitario, pero funciona en grupo. [Abre la build en la calculadora de talentos](/es/talents/shaman/?t=--53300030140101).
-
-| Talento | Puntos |
-|---|---|
-| **Improved Healing Wave** | 5/5 |
-| **Tidal Focus** | 3/5 |
-| **Mindfulness** | 3/3 |
-| **Ancestral Healing** | 3/3 |
-| **Water Shield** | 1/1 |
-| **Tidal Mastery** | 4/5 |
-| **Mana Tide Totem** | 1/1 |
-| **Nature's Swiftness** | 1/1 |
-
-[Abre la versión Talented](/es/talents/shaman/?t=--53300030154101) con Tidal Mastery 5/5 y Restorative Totems 4/5.
-
-![La build Talented del Restoration Shaman en nuestra calculadora de talentos](../../../../assets/posts/2026-10-24-wow-forever-shaman-restoration-build.jpg)
-
-Curar: mantén Water Shield, coloca Healing Stream Totem o Mana Spring Totem según necesites curación o maná, lanza Healing Wave como cura normal y Lesser Healing Wave cuando haya que ir rápido. Hacer daño: Water Shield, Searing Totem y Flame Shock, luego Lightning Bolt.
+Para el nivel 60, cada guía de especialización tiene sus propias builds para bandas, subir de nivel y PvP: [Elemental](/es/guides/elemental-shaman/), [Enhancement](/es/guides/enhancement-shaman/) y [Restoration](/es/guides/restoration-shaman/).
 
 ## Niveles clave
 

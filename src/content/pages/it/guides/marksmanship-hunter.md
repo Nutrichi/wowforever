@@ -20,6 +20,8 @@ faq:
   - q: "Quale razza scegliere per un Marksmanship Hunter?"
     a: "Skyborne in entrambe le fazioni, per il bonus di celerità. Human per l'Alliance e Orc per l'Horde sono buone alternative. Le differenze sono piccole."
 sources:
+  - name: "Wowhead, build dei talenti"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/marksmanship/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/marksmanship-hunter/"
 ---
@@ -48,14 +50,17 @@ Il Marksmanship Hunter di WoW Forever è il tiratore scelto. Puoi giocare con un
 
 **La zona morta.** Tra la portata in mischia e 8 metri non puoi usare né mischia né distanza.
 
-## La build di livello 60: 5/46/0
+## Build per il livello 60
 
-La beta si è fermata al livello 30, ma gli alberi dei talenti del livello 60 sono nei file del gioco. Abbiamo verificato questa build punto per punto nel [nostro calcolatore di talenti](/it/talents/hunter/?t=5-30535525115023051): 5 punti in Beast Mastery e 46 in Marksmanship, 51 in totale.
+Tre build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ogni build si apre nel nostro calcolatore di talenti.
+
+### Build da raid, 5/41/5
+
+5 punti in Beast Mastery, 41 in Marksmanship e 5 in Survival. [Apri la build da raid nel calcolatore di talenti](/it/talents/hunter/?t=5-00535525115021051-5).
 
 | Talento | Punti |
 |---|---|
-| **Deadly Aspects** (Beast Mastery) | 5/5 |
-| **Hawk Eye** | 3/3 |
+| **Deadly Aspects** | 5/5 |
 | **Lethal Attacks** | 5/5 |
 | **Improved Stings** | 3/3 |
 | **Efficiency** | 5/5 |
@@ -66,16 +71,18 @@ La beta si è fermata al livello 30, ma gli alberi dei talenti del livello 60 so
 | **Trueshot Aura** | 1/1 |
 | **Mortal Shots** | 5/5 |
 | **Rapid Recuperation** | 2/2 |
-| **Barrage** | 3/3 |
+| **Barrage** | 1/3 |
 | **Ranged Weapon Specialization** | 5/5 |
 | **Sniper Shot** | 1/1 |
+| **Improved Tracking** | 5/5 |
 
-![La build 5/46/0 del Marksmanship Hunter nel nostro calcolatore di talenti](../../../../assets/posts/2026-10-24-wow-forever-marksmanship-hunter-build.jpg)
+### Build per livellare, 31/20/0
 
-Due punti si possono spostare:
+La build per livellare prende prima i talenti che aiutano a uccidere da soli. [Aprila nel calcolatore di talenti](/it/talents/hunter/?t=5120221405101241-00503520005). La [build di leveling del Hunter](/it/leveling/hunter/) dà il talento per ogni livello.
 
-- **Lone Wolf** su 1 punto in **Improved Tracking** (Survival) se vuoi tenere il famiglio, per esempio per le missioni.
-- **Hawk Eye** su 3 punti in **Improved Tracking** se non ti serve la portata in più e vuoi più danni.
+### Build PvP, 0/40/11
+
+La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel calcolatore di talenti](/it/talents/hunter/?t=-05530505115003151-500050001).
 
 ## Cosa fanno i talenti chiave
 

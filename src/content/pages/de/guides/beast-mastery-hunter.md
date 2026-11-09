@@ -20,6 +20,8 @@ faq:
   - q: "Was ist die tote Zone des Hunter?"
     a: "Der Bereich zwischen Nahkampfreichweite und 8 Metern, in dem du weder Nahkampf- noch Fernkampfangriffe nutzen kannst. Geh auf 8 Meter zurück, um wieder zu schießen."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/beast-mastery/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/beast-mastery-hunter/"
 ---
@@ -48,44 +50,41 @@ Mit dem Beast Mastery Hunter in WoW Forever erledigen deine Tiere einen großen 
 
 **Die tote Zone.** Zwischen Nahkampfreichweite und 8 Metern kannst du weder Nahkampf noch Fernkampf nutzen. Geh zurück, um wieder zu schießen.
 
-## Der Build für Level 60: 31/20/0
+## Builds für Level 60
 
-Die Beta endete auf Level 30, aber die Talentbäume für Level 60 stecken in den Spieldateien. Wir haben diesen Build Punkt für Punkt in [unserem Talentrechner](/de/talents/hunter/?t=5320021505101051-30500520014) geprüft: 31 Punkte in Beast Mastery und 20 in Marksmanship, 51 insgesamt.
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 31/20/0
+
+31 Punkte in Beast Mastery und 20 in Marksmanship. [Raid-Build im Talentrechner öffnen](/de/talents/hunter/?t=5320001505101251-00520503014).
 
 | Talent | Punkte |
 |---|---|
 | **Deadly Aspects** | 5/5 |
 | **Endurance Training** | 3/5 |
 | **Focused Fire** | 2/2 |
-| **Pathfinding** | 2/2 |
 | **Bestial Swiftness** | 1/1 |
 | **Unleashed Fury** | 5/5 |
 | **Ferocity** | 5/5 |
 | **Summon Hawk** | 1/1 |
 | **Intimidation** | 1/1 |
+| **Bestial Discipline** | 2/2 |
 | **Frenzy** | 5/5 |
 | **Bestial Wrath** | 1/1 |
-| **Hawk Eye** | 3/3 |
 | **Lethal Attacks** | 5/5 |
+| **Improved Stings** | 2/3 |
 | **Careful Aim** | 5/5 |
-| **Rapid Killing** | 2/2 |
+| **Improved Arcane Shot** | 3/5 |
 | **Trueshot Aura** | 1/1 |
 | **Mortal Shots** | 4/5 |
-| **Hawk Eye** (Marksmanship) | 3/3 |
-| **Lethal Attacks** (Marksmanship) | 5/5 |
-| **Careful Aim** (Marksmanship) | 5/5 |
-| **Rapid Killing** (Marksmanship) | 2/2 |
-| **Trueshot Aura** (Marksmanship) | 1/1 |
-| **Mortal Shots** (Marksmanship) | 4/5 |
 
-![Der Build 31/20/0 des Beast Mastery Hunter in unserem Talentrechner](../../../../assets/posts/2026-10-24-wow-forever-beast-mastery-hunter-build.jpg)
+### Leveling-Build, 31/20/0
 
-Ein paar Punkte lassen sich verschieben:
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/hunter/?t=5120221405101241-00503520005). Der [Level-Build für den Hunter](/de/leveling/hunter/) gibt das Talent für jedes Level.
 
-- **Endurance Training** zu **Improved Revive Pet**, wenn du deinen Begleiter oft wiederbelebst.
-- **Hawk Eye** zu **Efficiency**, wenn du die zusätzliche Reichweite nicht brauchst und günstigere Schüsse willst.
-- **Trueshot Aura** zum letzten Punkt von **Mortal Shots**, wenn ein Marksmanship-Hunter in deinem Schlachtzug die Aura schon mitbringt.
-- **Summon Hawk** zu **Endurance Training** oder **Improved Revive Pet**, wenn deine Falken ständig sterben, bevor ihre Zeit um ist.
+### PvP-Build, 31/16/4
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/hunter/?t=5023001505101251-0550050001-4).
 
 ## Was die wichtigsten Talente tun
 

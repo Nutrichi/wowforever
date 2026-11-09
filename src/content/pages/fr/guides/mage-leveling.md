@@ -19,8 +19,8 @@ faq:
     a: "Oui, aux niveaux 10, 15 et 26. Elles n'apprennent pas de sorts, mais donnent des objets comme des bâtons, des main gauche, des robes et des baguettes."
   - q: "Quels métiers conviennent à un Mage ?"
     a: "Tailoring avec Enchanting est le duo classique. Cooking vaut le coup pour toutes les classes dans Forever, car la nourriture à buff donne maintenant aussi de l'expérience en plus et sert pour un camp."
-  - q: "Y a-t-il déjà un build pour le niveau 60 ?"
-    a: "Pas encore. La bêta s'arrêtait au niveau 30. Notre build de leveling va jusqu'au niveau 35 et sera complété dès que les builds des niveaux suivants seront connus."
+  - q: "Existe-t-il un build pour le niveau 60 ?"
+    a: "Oui. Le build de leveling du Mage donne un talent pour chaque niveau jusqu’à 60, et chaque guide de spécialisation a des builds pour les raids, le leveling et le PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/mage-leveling/"
@@ -34,7 +34,7 @@ Le Mage monte vite et seul dans WoW Forever, avec de la nourriture et de l'eau �
 | Points forts | Dégâts, contrôle, nourriture et eau gratuites |
 | Points faibles | Mana, menace en donjon, peu de points de vie |
 | Talent par niveau | [Build de leveling du Mage](/fr/leveling/mage/) |
-| Builds jusqu'au niveau 60 | Pas encore, le [build de leveling](/fr/leveling/mage/) va jusqu’au 35 |
+| Builds jusqu'au niveau 60 | Oui, le [build de leveling](/fr/leveling/mage/) va jusqu’au 60 |
 
 ## Quelle spécialisation pour monter
 
@@ -46,7 +46,7 @@ Le Mage monte vite et seul dans WoW Forever, avec de la nourriture et de l'eau �
 
 ## Le build Frost
 
-Le [build de leveling du Mage](/fr/leveling/mage/) donne le talent de chaque niveau de 10 à 35.
+Le [build de leveling du Mage](/fr/leveling/mage/) donne le talent de chaque niveau de 10 à 60.
 
 | Talent | Ce qu'il fait dans Forever |
 |---|---|
@@ -57,7 +57,7 @@ Le [build de leveling du Mage](/fr/leveling/mage/) donne le talent de chaque niv
 | **Ice Shards** | Double le bonus de critique de vos sorts Frost |
 | **Frost Channeling** | Sorts Frost 15 % moins chers et 30 % de menace en moins |
 
-Avec des points dans <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> du système Legacy, vous atteignez chaque talent jusqu'à cinq niveaux plus tôt. Le [guide de l’Arcane Mage](/fr/guides/arcane-mage/) donne deux builds niveau 30 avec Arcane Blast, ainsi que les phases de burn et le mana. Le [guide du Fire Mage](/fr/guides/fire-mage/) donne deux builds niveau 30 avec Heating Up, ainsi que Fire Power et le mana.
+Avec des points dans <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> du système Legacy, vous atteignez chaque talent jusqu'à cinq niveaux plus tôt. Le [guide de l’Arcane Mage](/fr/guides/arcane-mage/) donne des builds niveau 60 pour les raids, le leveling et le PvP, avec Arcane Blast, ainsi que les phases de burn et le mana. Le [guide du Fire Mage](/fr/guides/fire-mage/) donne des builds niveau 60 pour les raids, le leveling et le PvP, avec Heating Up, ainsi que Fire Power et le mana.
 
 ## Rotation
 

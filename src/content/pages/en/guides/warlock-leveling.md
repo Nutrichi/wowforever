@@ -1,7 +1,7 @@
 ---
 title: "Warlock leveling guide for WoW Forever"
-metaTitle: "WoW Forever Warlock leveling guide: Affliction, Demonology and Destruction builds to 30"
-description: "How to level a Warlock in WoW Forever: the early build, three level 30 builds for Affliction, Demonology and Destruction, the rotation, key levels, the class quests for every demon, wands, professions, Life Tap and Fear."
+metaTitle: "WoW Forever Warlock leveling guide: Affliction, Demonology and Destruction builds to 60"
+description: "How to level a Warlock in WoW Forever: the early build, level 60 builds for Affliction, Demonology and Destruction, the rotation, key levels, the class quests for every demon, wands, professions, Life Tap and Fear."
 short: "Warlock leveling"
 updated: 2026-11-07
 lang: en
@@ -18,13 +18,13 @@ faq:
     a: "Drain Soul now has a chance to give a Soul Shard while it damages a target, and a target that dies to Drain Soul always gives one. Let your demon tank and channel rank 1 of Drain Soul until you have enough."
   - q: "Which professions suit a Warlock?"
     a: "Tailoring with Enchanting is the classic pair: Tailoring makes Shadow gear and its camp gives Spirit, Enchanting makes the first good wands. First Aid is useful too, because it now makes cures for poison, disease and bleeds."
-  - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Warlock level build gives a talent for every level to 40."
+  - q: "Is there a level 60 build?"
+    a: "Yes. The Warlock level build gives a talent for every level to 60, and every spec guide has builds for raids, leveling and PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warlock-leveling/"
 ---
-The Warlock is one of the most self-sufficient classes in WoW Forever. Your damage keeps ticking while you move, your demon tanks or fights with you, and you turn your own health into mana. At level 30 you choose between Affliction, Demonology and Destruction. This guide covers the builds, the rotation, the key levels, the class quests, wands and professions.
+The Warlock is one of the most self-sufficient classes in WoW Forever. Your damage keeps ticking while you move, your demon tanks or fights with you, and you turn your own health into mana. You choose between Affliction, Demonology and Destruction. This guide covers the builds, the rotation, the key levels, the class quests, wands and professions.
 
 | | |
 |---|---|
@@ -34,15 +34,13 @@ The Warlock is one of the most self-sufficient classes in WoW Forever. Your dama
 | Weakness | Slow start, Soul Shards to farm, little to do against many monsters at once |
 | Talent order per level | [Warlock level build](/leveling/warlock/) |
 | Spec guides | [Affliction Warlock](/guides/affliction-warlock/), [Demonology Warlock](/guides/demonology-warlock/), [Destruction Warlock](/guides/destruction-warlock/) |
-| Builds to level 60 | Not yet, the [level build](/leveling/warlock/) goes to 40 |
+| Builds to level 60 | Yes, the [level build](/leveling/warlock/) goes to 60 |
 
 ## Which spec to level with
 
 You can level with all three, but **Affliction** is the smoothest route. Most of its damage comes from instant damage over time that keeps ticking while you walk on, and you can take on two monsters at once with few breaks. Until level 30 you finish monsters with your wand. At 30, rank 3 of Drain Life and the drain talents make drain tanking stronger than the wand.
 
 **Demonology** becomes comfortable with Demonic Brand at 25 points: then your demon holds the monsters. **Destruction** is the hardest alone, because it stands still and casts, and its spells cost more mana. It is strong in dungeons.
-
-The builds below were made on the beta, which stopped at level 30. The Affliction build has a version with five extra points for Talented from the Legacy system. The talent calculator shows that version as level 35, because it counts every point as a level. Builds for level 60 follow once we can test them in the live game.
 
 More about the spec at level 60 is in the [Affliction Warlock guide](/guides/affliction-warlock/).
 
@@ -60,117 +58,11 @@ Use Life Tap between pulls to turn spare health into mana. If a second monster j
 
 Stats at these levels: wand damage per second first, then Intellect and spell damage, then Stamina and Spirit.
 
-## Level 30 Affliction build
+## Talent builds
 
-The recommended leveling build. Until level 29 you put your damage over time on a monster and finish it with your wand. At level 30 you train rank 3 of Drain Life and respec to drain tanking: Drain Life is then your filler and heals back what Life Tap costs.
+The [Warlock level build](/leveling/warlock/) gives the talent for every level from 10 to 60. [Open the end result in the talent calculator](/talents/warlock/?t=2552032303520135-00050032).
 
-**Levels 10 to 29: damage over time and a wand.** [Open the build in the talent calculator](/talents/warlock/?t=245200201032).
-
-| Talent | Points |
-|---|---|
-| **Improved Life Tap** | 2/2 |
-| **Suppression** | 4/5 |
-| **Improved Corruption** | 5/5 |
-| **Grim Reach** | 2/2 |
-| **Improved Bane of Agony** | 2/2 |
-| **Amplify Curse** | 1/1 |
-| **Malevolence** | 3/5 |
-| **Nightfall** | 2/2 |
-
-Improved Corruption is the most important talent: an instant Corruption you cast while moving. With 4 points in Suppression you no longer miss monsters of your own level. Your wand deals more than Drain Life at these levels, so the drain talents can wait.
-
-**Level 30: drain tanking.** [Open the build in the talent calculator](/talents/warlock/?t=245203031000001).
-
-| Talent | Points |
-|---|---|
-| **Improved Life Tap** | 2/2 |
-| **Suppression** | 4/5 |
-| **Improved Corruption** | 5/5 |
-| **Grim Reach** | 2/2 |
-| **Improved Drains** | 3/3 |
-| **Fel Concentration** | 3/3 |
-| **Amplify Curse** | 1/1 |
-| **Soul Siphon** | 1/3 |
-
-With Talented: Soul Siphon 3/3, Siphon Life 1/1 and Nightfall 2/2. [Open the Talented version](/talents/warlock/?t=245203031002013).
-
-Improved Drains makes Drain Life stronger, and Fel Concentration keeps damage from pushing back your channel. Improved Life Tap makes every point of drained health worth 1.2 mana. Soul Siphon raises Drain Life by up to 36% when your other effects are on the monster. No good wand, or no wish to respec? Take the drain talents from the start.
-
-Malediction is gone from the tree. Its points go to Grim Reach, for more range, and to Malevolence or Nightfall. Pandemic only raises critical damage and adds little at these levels. Siphon Life deals little damage, but counts as an extra effect for Soul Siphon.
-
-1. Send your demon in.
-2. Pull with Bane of Agony.
-3. Cast Corruption.
-4. Cast Immolate on monsters that live long enough.
-5. Cast Siphon Life on monsters that live long enough, once you have it.
-6. Before level 30: shoot with your wand until the monster dies.
-7. From level 30: channel Drain Life until the monster dies. Switch to the wand when you are at full health or the monster is almost dead.
-8. Cast Life Tap whenever you have more health than mana.
-
-Before level 30, the demon is a matter of taste: the Voidwalker keeps monsters off you while you shoot, the Succubus or Incubus kills faster but lets you take the hits. From level 30, drain tank with the Succubus or Incubus.
-
-To go even faster, fight two monsters at once. Put your damage over time on the first and Fear it, then fight the second with your demon. Fear the first again whenever it comes back.
-
-Stats: spell damage and Shadow damage, then wand damage until 30, then Intellect and Spirit, then Stamina.
-
-## Level 30 Demonology build
-
-Puts your demon at the front. Slower than Affliction at the start, but with Demonic Brand your Succubus or Felhunter holds two or three monsters while it does much of the killing. You rarely take a hit. [Open the build in the talent calculator](/talents/warlock/?t=-0005003231201301).
-
-| Talent | Points |
-|---|---|
-| **Unholy Power** | 5/5 |
-| **Fel Vitality** | 3/3 |
-| **Demonic Energies** | 2/2 |
-| **Improved Sayaad** | 3/3 |
-| **Demonic Sacrifice** | 1/1 |
-| **Master Summoner** | 2/2 |
-| **Fel Domination** | 1/1 |
-| **Demonic Brand** | 3/3 |
-| **Soul Link** | 1/1 |
-
-Unholy Power and Demonic Brand are the core. Demonic Brand lets your Searing Pain brand the monster, which gives your demon extra damage and threat against it. On a PvP realm, Master Summoner with Fel Domination summons a fresh Voidwalker in an emergency, for the shield of its <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7812"><img class="wf-wh__icon" src="/wh/spell_shadow_sacrificialshield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sacrifice</a>.
-
-1. Send your demon in.
-2. Cast Searing Pain to brand the monster.
-3. Cast Bane of Agony on monsters that live long enough.
-4. Cast Corruption and Immolate.
-5. Shoot with your wand or cast Shadow Bolt until the monster dies.
-6. Cast Searing Pain again before the brand runs out.
-
-Before you have Demonic Brand, do not cast Searing Pain: it causes a lot of threat and pulls monsters off your demon.
-
-Stats: spell damage and Shadow damage, then wand damage, then Intellect and Spirit, then Stamina.
-
-## Level 30 Destruction build
-
-The hardest spec alone. Most of its damage comes from Shadow Bolt and Immolate with a cast time, and you cannot walk on while you cast. In dungeons it shines, with Conflagrate and Shadowburn for burst on important targets. [Open the build in the talent calculator](/talents/warlock/?t=--0550050103101).
-
-| Talent | Points |
-|---|---|
-| **Improved Shadow Bolt** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17788"><img class="wf-wh__icon" src="/wh/spell_shadow_deathpact.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane</a>** | 5/5 |
-| **Aftermath** | 5/5 |
-| **Shadowburn** | 1/1 |
-| **Agonizing Flames** | 3/3 |
-| **Conflagrate** | 1/1 |
-| **Bane of Havoc** | 1/1 |
-
-Bane shortens the cast time of Shadow Bolt and Immolate, and Aftermath raises the damage of Immolate. Shadowburn is an instant finisher that gives its Soul Shard back if the monster dies. Conflagrate consumes your Immolate for an instant burst. Agonizing Flames adds damage to all your Destruction spells.
-
-1. Send your demon in.
-2. Cast Bane of Agony, Corruption and Immolate.
-3. Cast Shadow Bolt until the monster turns on you, then shoot with your wand.
-4. Cast Conflagrate just before Immolate runs out.
-5. Finish with Shadowburn, once the monster has less health than one hit of it.
-
-Alone, stay with the Voidwalker as Destruction: you lack the Demonology talents that let the Succubus hold threat, and the healing that Affliction gets from its drains. In dungeons, take the Imp for <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6307"><img class="wf-wh__icon" src="/wh/spell_shadow_bloodboil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Pact</a> or the Succubus or Incubus for damage.
-
-Stats: spell damage and Fire damage, then wand damage, then Intellect and Spirit, then Stamina.
-
-The Demonology and Destruction builds use 21 points. With Talented you have 26 at level 30, and the five extra points go wherever you like in the calculator.
-
-![A Troll Warlock casting with green and purple fire in both hands, next to an Imp, in a red and purple hall with hanging bones and skulls](../../../../assets/posts/2026-10-16-wow-forever-troll-warlock-casting.jpg)
+For level 60, every spec guide has its own builds for raids, leveling and PvP: [Affliction](/guides/affliction-warlock/), [Demonology](/guides/demonology-warlock/) and [Destruction](/guides/destruction-warlock/).
 
 ## Key levels
 

@@ -1,7 +1,7 @@
 ---
 title: "Warlock levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Warlock levelgids: builds voor Affliction, Demonology en Destruction tot 30"
-description: "Zo level je een Warlock in WoW Forever: de eerste build, drie builds voor level 30 voor Affliction, Demonology en Destruction, de rotatie, de belangrijke levels, de classquests voor elke demon, wands, beroepen, Life Tap en Fear."
+metaTitle: "WoW Forever Warlock levelgids: builds voor Affliction, Demonology en Destruction tot 60"
+description: "Zo level je een Warlock in WoW Forever: de eerste build, builds voor level 60 voor Affliction, Demonology en Destruction, de rotatie, de belangrijke levels, de classquests voor elke demon, wands, beroepen, Life Tap en Fear."
 short: "Warlock levelen"
 updated: 2026-11-07
 lang: nl
@@ -19,13 +19,13 @@ faq:
     a: "Drain Soul heeft nu een kans op een Soul Shard terwijl het een doel schade doet, en een doel dat sterft aan Drain Soul geeft er altijd een. Laat je demon tanken en kanaliseer rank 1 van Drain Soul tot je genoeg hebt."
   - q: "Welk beroeps passen bij een Warlock?"
     a: "Tailoring met Enchanting is het klassieke paar: Tailoring maakt Shadow-gear en zijn kamp geeft Spirit, Enchanting maakt de eerste goede wands. First Aid is ook nuttig, want het maakt nu middelen tegen gif, ziekte en bloedingen."
-  - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Warlock geeft een talent voor elk level tot 40."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. De levelbuild voor de Warlock geeft een talent voor elk level tot 60, en elke specgids heeft builds voor raids, levelen en PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/warlock-leveling/"
 ---
-De Warlock is een van de meest zelfstandige classes in WoW Forever. Je schade blijft tikken terwijl je beweegt, je demon tankt of vecht mee, en je zet je eigen health om in mana. Op level 30 kies je tussen Affliction, Demonology en Destruction. Deze gids behandelt de builds, de rotatie, de belangrijke levels, de classquests, wands en beroepen.
+De Warlock is een van de meest zelfstandige classes in WoW Forever. Je schade blijft tikken terwijl je beweegt, je demon tankt of vecht mee, en je zet je eigen health om in mana. Je kiest tussen Affliction, Demonology en Destruction. Deze gids behandelt de builds, de rotatie, de belangrijke levels, de classquests, wands en beroepen.
 
 | | |
 |---|---|
@@ -35,15 +35,13 @@ De Warlock is een van de meest zelfstandige classes in WoW Forever. Je schade bl
 | Zwak in | Trage start, Soul Shards verzamelen, weinig tegen veel monsters tegelijk |
 | Talent per level | [Levelbuild voor de Warlock](/nl/leveling/warlock/) |
 | Gidsen per spec | [Affliction Warlock](/nl/guides/affliction-warlock/), [Demonology Warlock](/nl/guides/demonology-warlock/), [Destruction Warlock](/nl/guides/destruction-warlock/) |
-| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/warlock/) gaat tot 40 |
+| Builds tot level 60 | Ja, de [levelbuild](/nl/leveling/warlock/) gaat tot 60 |
 
 ## Met welke spec levelen
 
 Je kan met alle drie levelen, maar **Affliction** is de vlotste weg. De meeste schade komt van schade over tijd zonder casttijd, die blijft tikken terwijl je verder loopt, en je neemt twee monsters tegelijk aan met weinig pauzes. Tot level 30 maak je monsters af met je wand. Op 30 maken rank 3 van Drain Life en de draintalenten drain tanking sterker dan de wand.
 
 **Demonology** wordt comfortabel met Demonic Brand op 25 punten: dan houdt je demon de monsters vast. **Destruction** is alleen het moeilijkst, want het staat stil en cast, en zijn spells kosten meer mana. In dungeons is het sterk.
-
-De builds hieronder zijn gemaakt op de beta, die stopte op level 30. De Affliction-build heeft een versie met vijf extra punten voor Talented uit het Legacy-systeem. De talentcalculator toont die versie als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
 
 Meer over de spec op level 60 staat in de [gids voor de Affliction Warlock](/nl/guides/affliction-warlock/).
 
@@ -61,117 +59,11 @@ Gebruik Life Tap tussen pulls om overbodige health om te zetten in mana. Komt er
 
 Stats op deze levels: eerst schade per seconde van je wand, dan Intellect en spell damage, dan Stamina en Spirit.
 
-## Affliction-build voor level 30
+## Talentbuilds
 
-De aanbevolen build om te levelen. Tot level 29 zet je je schade over tijd op een monster en maak je het af met je wand. Op level 30 train je rank 3 van Drain Life en respec je naar drain tanking: Drain Life is dan je filler en healt terug wat Life Tap kost.
+De [levelbuild voor de Warlock](/nl/leveling/warlock/) geeft het talent voor elk level van 10 tot 60. [Open het eindresultaat in de talentcalculator](/nl/talents/warlock/?t=2552032303520135-00050032).
 
-**Level 10 tot 29: schade over tijd en een wand.** [Open de build in de talentcalculator](/nl/talents/warlock/?t=245200201032).
-
-| Talent | Punten |
-|---|---|
-| **Improved Life Tap** | 2/2 |
-| **Suppression** | 4/5 |
-| **Improved Corruption** | 5/5 |
-| **Grim Reach** | 2/2 |
-| **Improved Bane of Agony** | 2/2 |
-| **Amplify Curse** | 1/1 |
-| **Malevolence** | 3/5 |
-| **Nightfall** | 2/2 |
-
-Improved Corruption is het belangrijkste talent: een Corruption zonder casttijd, die je in beweging cast. Met 4 punten in Suppression mis je geen monsters van je eigen level meer. Je wand doet op deze levels meer dan Drain Life, dus de draintalenten kunnen wachten.
-
-**Level 30: drain tanking.** [Open de build in de talentcalculator](/nl/talents/warlock/?t=245203031000001).
-
-| Talent | Punten |
-|---|---|
-| **Improved Life Tap** | 2/2 |
-| **Suppression** | 4/5 |
-| **Improved Corruption** | 5/5 |
-| **Grim Reach** | 2/2 |
-| **Improved Drains** | 3/3 |
-| **Fel Concentration** | 3/3 |
-| **Amplify Curse** | 1/1 |
-| **Soul Siphon** | 1/3 |
-
-Met Talented: Soul Siphon 3/3, Siphon Life 1/1 en Nightfall 2/2. [Open de versie met Talented](/nl/talents/warlock/?t=245203031002013).
-
-Improved Drains maakt Drain Life sterker, en Fel Concentration zorgt dat schade je kanalisering niet terugduwt. Met Improved Life Tap is elk punt gedraineerde health 1,2 mana waard. Soul Siphon verhoogt Drain Life met tot 36% als je andere effecten op het monster staan. Geen goede wand, of geen zin om te respeccen? Neem de draintalenten dan vanaf het begin.
-
-Malediction is uit de boom verdwenen. Die punten gaan naar Grim Reach, voor meer bereik, en naar Malevolence of Nightfall. Pandemic verhoogt alleen kritieke schade en levert op deze levels weinig op. Siphon Life doet weinig schade, maar telt als extra effect voor Soul Siphon.
-
-1. Stuur je demon erop af.
-2. Pull met Bane of Agony.
-3. Cast Corruption.
-4. Cast Immolate op monsters die lang genoeg leven.
-5. Cast Siphon Life op monsters die lang genoeg leven, zodra je het hebt.
-6. Voor level 30: schiet met je wand tot het monster sterft.
-7. Vanaf level 30: kanaliseer Drain Life tot het monster sterft. Wissel naar de wand als je health vol is of het monster bijna dood is.
-8. Cast Life Tap telkens je meer health dan mana hebt.
-
-Voor level 30 is de demon een kwestie van smaak: de Voidwalker houdt monsters van je weg terwijl je schiet, de Succubus of Incubus doodt sneller maar laat de klappen bij jou. Vanaf level 30 drain tank je met de Succubus of Incubus.
-
-Nog sneller gaat het met twee monsters tegelijk. Zet je schade over tijd op het eerste en Fear het, en vecht dan met je demon tegen het tweede. Fear het eerste opnieuw telkens het terugkomt.
-
-Stats: spell damage en Shadow damage, dan wandschade tot 30, dan Intellect en Spirit, dan Stamina.
-
-## Demonology-build voor level 30
-
-Zet je demon vooraan. In het begin trager dan Affliction, maar met Demonic Brand houdt je Succubus of Felhunter twee of drie monsters vast en doet hij een groot deel van het werk. Je krijgt zelden een klap. [Open de build in de talentcalculator](/nl/talents/warlock/?t=-0005003231201301).
-
-| Talent | Punten |
-|---|---|
-| **Unholy Power** | 5/5 |
-| **Fel Vitality** | 3/3 |
-| **Demonic Energies** | 2/2 |
-| **Improved Sayaad** | 3/3 |
-| **Demonic Sacrifice** | 1/1 |
-| **Master Summoner** | 2/2 |
-| **Fel Domination** | 1/1 |
-| **Demonic Brand** | 3/3 |
-| **Soul Link** | 1/1 |
-
-Unholy Power en Demonic Brand zijn de kern. Met Demonic Brand brandmerkt je Searing Pain het monster, wat je demon extra schade en threat ertegen geeft. Op een PvP-realm roep je met Master Summoner en Fel Domination in nood een verse Voidwalker op, voor het schild van zijn <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7812"><img class="wf-wh__icon" src="/wh/spell_shadow_sacrificialshield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sacrifice</a>.
-
-1. Stuur je demon erop af.
-2. Cast Searing Pain om het monster te brandmerken.
-3. Cast Bane of Agony op monsters die lang genoeg leven.
-4. Cast Corruption en Immolate.
-5. Schiet met je wand of cast Shadow Bolt tot het monster sterft.
-6. Cast Searing Pain opnieuw voor het brandmerk afloopt.
-
-Heb je Demonic Brand nog niet, cast dan geen Searing Pain: het maakt veel threat en trekt monsters weg van je demon.
-
-Stats: spell damage en Shadow damage, dan wandschade, dan Intellect en Spirit, dan Stamina.
-
-## Destruction-build voor level 30
-
-Alleen de moeilijkste spec. De meeste schade komt van Shadow Bolt en Immolate met casttijd, en tijdens het casten kan je niet verder lopen. In dungeons blinkt hij uit, met Conflagrate en Shadowburn voor burst op belangrijke doelen. [Open de build in de talentcalculator](/nl/talents/warlock/?t=--0550050103101).
-
-| Talent | Punten |
-|---|---|
-| **Improved Shadow Bolt** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17788"><img class="wf-wh__icon" src="/wh/spell_shadow_deathpact.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane</a>** | 5/5 |
-| **Aftermath** | 5/5 |
-| **Shadowburn** | 1/1 |
-| **Agonizing Flames** | 3/3 |
-| **Conflagrate** | 1/1 |
-| **Bane of Havoc** | 1/1 |
-
-Bane verkort de casttijd van Shadow Bolt en Immolate, en Aftermath verhoogt de schade van Immolate. Shadowburn is een finisher zonder casttijd die zijn Soul Shard teruggeeft als het monster sterft. Conflagrate verbruikt je Immolate voor een directe burst. Agonizing Flames geeft al je Destruction-spells extra schade.
-
-1. Stuur je demon erop af.
-2. Cast Bane of Agony, Corruption en Immolate.
-3. Cast Shadow Bolt tot het monster zich naar jou keert, en schiet dan met je wand.
-4. Cast Conflagrate net voor Immolate afloopt.
-5. Maak het af met Shadowburn, zodra het monster minder health heeft dan één treffer ervan.
-
-Blijf alleen als Destruction bij de Voidwalker: je mist de Demonology-talenten waarmee de Succubus threat houdt, en het healen dat Affliction uit zijn drains haalt. Neem in dungeons de Imp voor <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6307"><img class="wf-wh__icon" src="/wh/spell_shadow_bloodboil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Pact</a> of de Succubus of Incubus voor schade.
-
-Stats: spell damage en Fire damage, dan wandschade, dan Intellect en Spirit, dan Stamina.
-
-De builds voor Demonology en Destruction gebruiken 21 punten. Met Talented heb je er 26 op level 30, en de vijf extra punten zet je in de calculator waar je wil.
-
-![Een Troll Warlock die met groen en paars vuur in beide handen cast, naast een Imp, in een rode en paarse zaal met hangende botten en schedels](../../../../assets/posts/2026-10-16-wow-forever-troll-warlock-casting.jpg)
+Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: [Affliction](/nl/guides/affliction-warlock/), [Demonology](/nl/guides/demonology-warlock/) en [Destruction](/nl/guides/destruction-warlock/).
 
 ## Belangrijke levels
 

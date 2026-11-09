@@ -1,7 +1,7 @@
 ---
 title: "Guide du Protection Warrior dans WoW Forever"
-metaTitle: "WoW Forever Protection Warrior : build tank niveau 30, menace et Rage"
-description: "Le Protection Warrior dans WoW Forever : le build tank niveau 30 avec Master of Defense, Defiance et Vanguard, la rotation de menace, la Rage, les stats et les races."
+metaTitle: "WoW Forever Protection Warrior : build tank niveau 60, menace et Rage"
+description: "Le Protection Warrior dans WoW Forever : le build tank niveau 60 avec Master of Defense, Defiance et Vanguard, la rotation de menace, la Rage, les stats et les races."
 short: "Protection Warrior"
 updated: 2026-11-07
 lang: fr
@@ -17,18 +17,20 @@ faq:
     a: "Protection tire beaucoup de sa Rage des coups reçus. Contre des lanceurs de sorts, ou quand quelqu’un d’autre tanke, vous en gagnez peu. Improved Thunder Clap, Improved Sunder Armor et Focused Rage réduisent ensuite vos coûts."
   - q: "Quelle race choisir pour un Protection Warrior ?"
     a: "Night Elf ou Dwarf pour l’Alliance, pour l’esquive en plus ou Stoneform. Tauren pour la Horde, pour le plus de vie, ou Orc pour Blood Fury et son temps de recharge contre les dégâts magiques. Toutes les races fonctionnent."
-  - q: "Y a-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
+  - q: "Existe-t-il un build pour le niveau 60 ?"
+    a: "Oui. Ce guide propose trois builds pour le niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chacun s’ouvre dans notre calculateur de talents."
 sources:
+  - name: "Wowhead, builds de talents"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/protection/talent-builds-pve-tank"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/protection-warrior/"
 ---
-Le Protection Warrior de WoW Forever est le chevalier classique : armure lourde, grand bouclier et aucune magie, seulement des cris, des piétinements et des coups. De nouveaux talents donnent de la Rage à chaque blocage, esquive et parade, et Vanguard permet de charger en Defensive Stance. Ce guide couvre le build niveau 30, la rotation de menace, les affaiblissements, la Rage, les stats, l’équipement et les races.
+Le Protection Warrior de WoW Forever est le chevalier classique : armure lourde, grand bouclier et aucune magie, seulement des cris, des piétinements et des coups. De nouveaux talents donnent de la Rage à chaque blocage, esquive et parade, et Vanguard permet de charger en Defensive Stance. Ce guide couvre le build niveau 60, la rotation de menace, les affaiblissements, la Rage, les stats, l’équipement et les races.
 
 | | |
 |---|---|
 | Rôle | Tank avec bouclier |
-| Build au niveau 30 | 26 points en Protection, avec les 5 points en plus de Talented |
+| Build au niveau 60 | 4/15/32 |
 | Talents clés | Shield Specialization, Anticipation, Master of Defense, Defiance, Last Stand, Vanguard |
 | Force | Forts temps de recharge défensifs, beaucoup de contrôle sur le combat |
 | Faiblesse | Peu à faire quand vous ne tankez pas, a besoin de Rage |
@@ -56,13 +58,22 @@ Le Protection Warrior de WoW Forever est le chevalier classique : armure lourde,
 
 Comme Protection fait si peu hors du tanking, beaucoup de Warriors jouent une spé de dégâts avec la Dual Specialization, ou prennent pour de bon le rôle de tank principal.
 
-## Le build niveau 30
+## Les builds pour le niveau 60
 
-Ce build utilise 26 points : les 21 points du niveau 30 plus 5 de Talented dans le système Legacy. Sans Talented, arrêtez-vous à 21 points ; le [build de leveling du Warrior](/fr/leveling/warrior/) donne l’ordre par niveau. [Ouvrir le build dans le calculateur de talents](/fr/talents/warrior/?t=--2505301203010013).
+Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chaque build s’ouvre dans notre calculateur de talents.
+
+### Build de raid, 4/15/32
+
+4 points en Arms, 15 en Fury et 32 en Protection. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/warrior/?t=04-05050005-050530120301021351).
+
+Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/warrior/?t=04-05050005-050233120301021351).
 
 | Talent | Points |
 |---|---|
-| **Improved Bloodrage** | 2/2 |
+| **Deflection** | 4/5 |
+| **Cruelty** | 5/5 |
+| **Unbridled Wrath** | 5/5 |
+| **Enrage** | 5/5 |
 | **Shield Specialization** | 5/5 |
 | **Anticipation** | 5/5 |
 | **Improved Revenge** | 3/3 |
@@ -70,12 +81,19 @@ Ce build utilise 26 points : les 21 points du niveau 30 plus 5 de Talented dans 
 | **Master of Defense** | 2/2 |
 | **Defiance** | 3/3 |
 | **Vanguard** | 1/1 |
+| **Improved Shield Wall** | 2/2 |
 | **Concussion Blow** | 1/1 |
 | **Focused Rage** | 3/3 |
+| **Bastion** | 5/5 |
+| **Shield Slam** | 1/1 |
 
-![Le build Protection Warrior niveau 30 dans notre calculateur de talents](../../../../assets/posts/2026-10-21-wow-forever-protection-warrior-build.jpg)
+### Build de leveling, 13/6/32
 
-Après le niveau 30 viennent Bastion, Improved Shield Wall, Improved Thunder Clap, Improved Sunder Armor et Shield Slam en bas de l’arbre.
+Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/warrior/?t=2502301-0501-250033020331001351). Le [build de leveling du Warrior](/fr/leveling/warrior/) donne le talent de chaque niveau.
+
+### Build PvP, 0/19/32
+
+Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/warrior/?t=-05050135-055030123001201351).
 
 ## Ce que font les talents clés
 
@@ -89,7 +107,7 @@ Après le niveau 30 viennent Bastion, Improved Shield Wall, Improved Thunder Cla
 | **Last Stand** | 30 % de vie maximale en plus pendant 20 secondes |
 | **Vanguard** | Ouvrez chaque pull avec Charge, sans quitter Defensive Stance |
 | **Focused Rage** | 3 de Rage en moins pour vos techniques offensives |
-| **Shield Slam** | Une forte attaque instantanée qui peut aussi dissiper. Après le niveau 30 |
+| **Shield Slam** | Une forte attaque instantanée qui peut aussi dissiper |
 
 ## Rotation
 

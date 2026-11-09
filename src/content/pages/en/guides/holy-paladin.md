@@ -1,7 +1,7 @@
 ---
 title: "Holy Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Holy Paladin: healing build, spells and mana"
-description: "The Holy Paladin in WoW Forever: the level 30 healing build and its Talented version, Holy Shock and Light's Vigil, the healing priority, mana, seals, stats and races."
+description: "The Holy Paladin in WoW Forever: the level 60 healing build, Holy Shock and Light's Vigil, the healing priority, mana, seals, stats and races."
 short: "Holy Paladin"
 updated: 2026-11-07
 lang: en
@@ -18,18 +18,20 @@ faq:
     a: "Healing power and spell power first, then Intellect for mana and critical strike chance, then critical strike chance for bigger heals and Illumination. Reverence lets Spirit regenerate mana while you cast, so Spirit counts too."
   - q: "Which race is best for a Holy Paladin?"
     a: "Human for the Alliance, for the extra critical strike chance. Dwarf has Stoneform as a defensive cooldown. Horde Paladins are always Undead."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
 ---
-The Holy Paladin in WoW Forever is the most straightforward healer in the game. You cast heals with a cast time, heal for big numbers and live off critical strikes, which give you mana back through Illumination. You have no healing over time and no shields: you heal what is hurt. This guide covers the level 30 build, Holy Shock and Light's Vigil, the healing priority, mana, seals, stats and races.
+The Holy Paladin in WoW Forever is the most straightforward healer in the game. You cast heals with a cast time, heal for big numbers and live off critical strikes, which give you mana back through Illumination. You have no healing over time and no shields: you heal what is hurt. This guide covers the level 60 build, Holy Shock and Light's Vigil, the healing priority, mana, seals, stats and races.
 
 | | |
 |---|---|
 | Role | Healer, mostly single target |
-| Build at level 30 | 21 points in Holy, Talented adds Purifying Power, Boundless Light and Holy Power |
+| Build at level 60 | 31/7/13 |
 | Key talents | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Strength | Big heals, group utility, very hard to kill |
 | Weakness | Mostly reactive, only one area heal |
@@ -45,26 +47,45 @@ The Holy Paladin in WoW Forever is the most straightforward healer in the game. 
 
 **One area heal.** Light's Vigil is your only way to heal the whole party, and it is expensive.
 
-## The level 30 build
+## Builds for level 60
 
-The beta stopped at level 30, so the build uses 21 points. Talented from the Legacy system adds 5 more. [Open the build in the talent calculator](/talents/paladin/?t=50320015022001).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 31/7/13
+
+31 points in Holy, 7 in Protection and 13 in Retribution. [Open the raid build in the talent calculator](/talents/paladin/?t=50320115022101251-50002-050330002).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/paladin/?t=50320015222121251-5-052300002).
 
 | Talent | Points |
 |---|---|
 | **Spiritual Focus** | 5/5 |
 | **Healing Light** | 3/3 |
 | **Reverence** | 2/2 |
+| **Purifying Power** | 1/2 |
 | **Divine Favor** | 1/1 |
 | **Illumination** | 5/5 |
 | **Divine Precision** | 2/2 |
 | **Infusion of Light** | 2/2 |
+| **Oath of Light** | 1/1 |
 | **Holy Shock** | 1/1 |
+| **Boundless Light** | 2/2 |
+| **Holy Power** | 5/5 |
+| **Light's Vigil** | 1/1 |
+| **Divine Intellect** | 5/5 |
+| **Sacred Duty** | 2/2 |
+| **Benediction** | 5/5 |
+| **Conviction** | 3/3 |
+| **Sanctified Judgement** | 3/3 |
+| **Pursuit of Justice** | 2/2 |
 
-[Open the Talented version](/talents/paladin/?t=5032021502200121) with Purifying Power 2/2, Boundless Light 2/2 and Holy Power 1/5.
+### Leveling build, 0/31/20
 
-![The Talented Holy Paladin build in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/paladin/?t=-55300102113001531-05233301201). The [Paladin level build](/leveling/paladin/) gives the talent for every level.
 
-Holy Shock sits in the fifth row and needs 20 points above it. At 21 points that leaves room for exactly the eight talents above. The Talented version is the full build of 26 points.
+### PvP build, 32/7/12
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/paladin/?t=50320215022101251-5002-052300002).
 
 ## What the key talents do
 
@@ -82,7 +103,7 @@ Holy Shock sits in the fifth row and needs 20 points above it. At 21 points that
 | **Holy Power** | 15% more critical strike chance for Holy Shock and Holy Strike, 5% for all other spells |
 | **Light's Vigil** | Your next Holy Shock on the target has no cooldown and heals their whole party |
 
-Light's Vigil is in the seventh row, out of reach at level 30. Spiritual Focus works best together with Concentration Aura. Divine Favor and Illumination work together: a guaranteed critical heal also gives mana back.
+Light's Vigil is in the seventh row. Spiritual Focus works best together with Concentration Aura. Divine Favor and Illumination work together: a guaranteed critical heal also gives mana back.
 
 ## Healing priority
 

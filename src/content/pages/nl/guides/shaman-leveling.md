@@ -1,7 +1,7 @@
 ---
 title: "Levelgids voor de Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman levelen: Enhancement, Elemental en Resto"
-description: "Zo level je een Shaman in WoW Forever: builds voor level 30 voor Enhancement, Elemental en Restoration, belangrijke levels, de totemquests, de wapens van Call of Air en zones."
+description: "Zo level je een Shaman in WoW Forever: builds voor level 60 voor Enhancement, Elemental en Restoration, belangrijke levels, de totemquests, de wapens van Call of Air en zones."
 short: "Shaman levelen"
 updated: 2026-11-07
 lang: nl
@@ -19,15 +19,15 @@ faq:
     a: "De questreeks Call of Air geeft een wapen voor je spec: Rage of the Storm voor Enhancement, Lightning's Grasp voor Elemental of Tidebringer's Claw voor Restoration. Casters krijgen er Elementalist's Guard bij uit dezelfde quest."
   - q: "Wanneer krijgt een Shaman Dual Spec?"
     a: "Op level 40, bij je classtrainer. Dat is het moment om naast Enhancement of Elemental een healspec toe te voegen."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. De levelbuild voor de Shaman geeft een talent voor elk level tot 60, en elke specgids heeft builds voor raids, levelen en PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shaman-leveling/"
 ---
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/).
 
-De Shaman in WoW Forever is welkom in elke groep: sterke totembuffs, een instant Ghost Wolf met Improved Ghost Wolf, en drie specs die elk werken. Je kunt een melee-spellblade zijn, een caster die bliksem en vuur gooit, of een healer. Deze gids behandelt de rotatie in het begin, een build voor level 30 per spec, de belangrijke levels, de totemquests, de wapens van Call of Air, zones, gear, totems en mana.
+De Shaman in WoW Forever is welkom in elke groep: sterke totembuffs, een instant Ghost Wolf met Improved Ghost Wolf, en drie specs die elk werken. Je kunt een melee-spellblade zijn, een caster die bliksem en vuur gooit, of een healer. Deze gids behandelt de rotatie in het begin, de talentbuilds, de belangrijke levels, de totemquests, de wapens van Call of Air, zones, gear, totems en mana.
 
 | | |
 |---|---|
@@ -59,85 +59,11 @@ Je vecht met Lightning Bolt op afstand en Rockbiter Weapon voor je melee-slagen.
 
 Stoneclaw Totem en Earthbind Totem helpen als een pull misloopt. Stats in het begin: spell damage, dan Strength, dan Intellect, dan Stamina en Spirit, dan armor.
 
-## Enhancement-build voor level 30
+## Talentbuilds
 
-De sterkste levelbuild, en hij schaalt mee tot het endgame. Totem twisting is weg, wat de rotatie eenvoudiger maakt. [Open de build in de talentcalculator](/nl/talents/shaman/?t=-052031310051).
+De [levelbuild voor de Shaman](/nl/leveling/shaman/) geeft het talent voor elk level van 10 tot 60. [Open het eindresultaat in de talentcalculator](/nl/talents/shaman/?t=45300310201-053030310051012251).
 
-| Talent | Punten |
-|---|---|
-| **Thundering Strikes** | 5/5 |
-| **Ancestral Knowledge** | 2/5 |
-| **Mental Dexterity** | 3/3 |
-| **Improved Lightning Shield** | 1/3 |
-| **Elemental Weapons** | 3/3 |
-| **Shamanistic Focus** | 1/1 |
-| **Flurry** | 5/5 |
-| **Stormstrike** | 1/1 |
-
-[Open de Talented-versie](/nl/talents/shaman/?t=-05203131005100221) met Mental Quickness 2/2, Improved Stormstrike 2/2 en Maelstrom Weapon 1/5.
-
-![De Talented-build van de Enhancement Shaman in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-enhancement-build.jpg)
-
-Mental Dexterity zet je Intellect om in attack power, en Mental Quickness zet hem om in spell damage, dus Intellect is meer waard dan je zou denken. Improved Ghost Wolf, dat Ghost Wolf instant en binnen bruikbaar maakt, staat sinds 2 november in de vierde rij en past niet in deze build.
-
-1. Hou Lightning Shield en Windfury Weapon actief.
-2. Zet in gevecht Searing Totem en Strength of Earth Totem neer.
-3. Pull met Lightning Bolt.
-4. Hou Flame Shock op het doelwit, en vernieuw hem pas als hij bijna afloopt.
-5. Cast Stormstrike op cooldown.
-6. Gebruik Earth Shock als opvulling.
-7. Gebruik Maelstrom Weapon bij 5 stacks voor een instant Lightning Bolt. Met meer punten in Maelstrom Weapon schuift dit hoger op.
-
-Stats: hit, dan Strength, dan Intellect, dan critical strike chance, dan spell damage, dan Agility.
-
-## Elemental-build voor level 30
-
-Voor een pure caster op afstand. [Open de build in de talentcalculator](/nl/talents/shaman/?t=3500331023001).
-
-| Talent | Punten |
-|---|---|
-| **Convection** | 3/5 |
-| **Concussion** | 5/5 |
-| **Elemental Alacrity** | 3/3 |
-| **Call of Flame** | 3/3 |
-| **Elemental Focus** | 1/1 |
-| **Trial by Fire** | 2/2 |
-| **Eye of the Storm** | 3/3 |
-| **Call of Thunder** | 1/1 |
-
-[Open de Talented-versie](/nl/talents/shaman/?t=350033102301131) met Elemental Reach 1/2, Lightning Overload 3/3 en Elemental Fury 1/5.
-
-![De Talented-build van de Elemental Shaman in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-elemental-build.jpg)
-
-1. Hou Lightning Shield actief.
-2. Zet Searing Totem neer voor één doelwit, Magma Totem voor meerdere, en Mana Spring Totem als je lang genoeg op één plek blijft.
-3. Pull met Lightning Bolt.
-4. Cast Flame Shock.
-5. Hou Flame Shock op het doelwit.
-6. Vul aan met Lightning Bolt.
-
-Stats: spell damage en Intellect, dan critical strike chance, dan Stamina en Spirit, dan armor.
-
-## Restoration-build voor level 30
-
-Niet aangeraden om solo te levelen, maar het werkt in een groep. [Open de build in de talentcalculator](/nl/talents/shaman/?t=--53300030140101).
-
-| Talent | Punten |
-|---|---|
-| **Improved Healing Wave** | 5/5 |
-| **Tidal Focus** | 3/5 |
-| **Mindfulness** | 3/3 |
-| **Ancestral Healing** | 3/3 |
-| **Water Shield** | 1/1 |
-| **Tidal Mastery** | 4/5 |
-| **Mana Tide Totem** | 1/1 |
-| **Nature's Swiftness** | 1/1 |
-
-[Open de Talented-versie](/nl/talents/shaman/?t=--53300030154101) met Tidal Mastery 5/5 en Restorative Totems 4/5.
-
-![De Talented-build van de Restoration Shaman in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-shaman-restoration-build.jpg)
-
-Helen: hou Water Shield actief, zet Healing Stream Totem of Mana Spring Totem neer naargelang je genezing of mana nodig hebt, cast Healing Wave als gewone heal en Lesser Healing Wave als het snel moet. Schade doen: Water Shield, Searing Totem en Flame Shock, dan Lightning Bolt.
+Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: [Elemental](/nl/guides/elemental-shaman/), [Enhancement](/nl/guides/enhancement-shaman/) en [Restoration](/nl/guides/restoration-shaman/).
 
 ## Belangrijke levels
 

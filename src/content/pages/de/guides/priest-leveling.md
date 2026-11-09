@@ -1,7 +1,7 @@
 ---
 title: "Priest leveln in WoW Forever: der Guide"
-metaTitle: "WoW Forever Priest Leveling-Guide: Builds für Discipline, Holy und Shadow bis 30"
-description: "So levelst du einen Priest in WoW Forever: drei Builds für Level 30 für Discipline, Holy und Shadow, die Rotation, wichtige Level, Volkszauber, Zauberstäbe, Berufe, Mana und Heilung."
+metaTitle: "WoW Forever Priest Leveling-Guide: Builds für Discipline, Holy und Shadow bis 60"
+description: "So levelst du einen Priest in WoW Forever: Builds für Level 60 für Discipline, Holy und Shadow, die Rotation, wichtige Level, Volkszauber, Zauberstäbe, Berufe, Mana und Heilung."
 short: "Priest leveln"
 updated: 2026-11-07
 lang: de
@@ -19,13 +19,13 @@ faq:
     a: "In der Beta nicht: Zauber wie Renew, Shadow Word: Pain und Devouring Plague passen ihren Wert während der Laufzeit an, statt den Wert vom Moment des Wirkens zu behalten. Blizzard hat das nicht angekündigt."
   - q: "Welche Berufe passen zum Priest?"
     a: "Tailoring mit Enchanting ist das klassische Paar: gebundene Stoffausrüstung, Zauberstäbe und Öle für Zaubermacht. Cooking lohnt sich in Forever für jede Klasse, weil Buff-Essen zusätzliche Erfahrung gibt und du es für ein Lager brauchst."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Nicht in diesem Guide: Seine Builds enden bei Level 30, wo die Beta endete. Unser Leveling-Build für den Priest gibt ein Talent für jedes Level bis 60, mit einem Umskillen auf 30 und 40."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Der Level-Build für den Priest gibt ein Talent für jedes Level bis 60, und jeder Spec-Guide hat Builds für Raids, Leveln und PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
 ---
-Der Priest levelt in WoW Forever gemütlich: heil dich, schild dich und lass Schaden über Zeit und einen Zauberstab die Arbeit machen. Auf Level 30 wählst du zwischen Discipline, Holy und Shadow. Dieser Guide erklärt die drei Builds, die Rotation, wichtige Level, Volkszauber, Zauberstäbe und Berufe.
+Der Priest levelt in WoW Forever gemütlich: heil dich, schild dich und lass Schaden über Zeit und einen Zauberstab die Arbeit machen. Du wählst zwischen Discipline, Holy und Shadow. Dieser Guide erklärt die drei Builds, die Rotation, wichtige Level, Volkszauber, Zauberstäbe und Berufe.
 
 | | |
 |---|---|
@@ -35,16 +35,13 @@ Der Priest levelt in WoW Forever gemütlich: heil dich, schild dich und lass Sch
 | Schwächen | Langsame Kills am Anfang, Mana, wenig Kontrolle |
 | Talent pro Level | [Leveling-Build für den Priest](/de/leveling/priest/) |
 | Guides pro Spezialisierung | [Shadow Priest](/de/guides/shadow-priest/), [Holy Priest](/de/guides/holy-priest/), [Discipline Priest](/de/guides/discipline-priest/) |
-| Builds bis Level 60 | In den Guides pro Spezialisierung, mit den Talenten des Beta-Builds vom 15. Oktober |
+| Builds bis Level 60 | In den Guides pro Spezialisierung |
 
 ## Mit welcher Spezialisierung leveln
 
 Die ersten 20 bis 30 Level unterscheiden sich kaum. Du beginnst mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=585"><img class="wf-wh__icon" src="/wh/spell_holy_holysmite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Smite</a>, holst dir so bald wie möglich einen Zauberstab und hältst dann dein Leben mit Heilungen und Schilden oben, während der Zauberstab tötet. Um Level 30 teilt sich der Weg.
 
 **Discipline** behält diesen ruhigen Stil und bringt auf 30 Penance dazu, für Schaden oder eine schnelle Heilung. **Shadow** tötet mit Mind Flay und Mind Blast schneller, glänzt aber erst ab etwa Level 28, außer du hast ordentlich Zaubermacht. **Holy** ist für alle, die einen großen Teil des Levelns Dungeons heilen. Allein als Holy zu leveln geht langsam.
-
-Die Builds unten wurden auf der Beta gemacht, die auf Level 30 endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können.
-
 ## Level 1 bis 10
 
 Du hast noch keine Talente. Smite und Lesser Heal sind deine Zauber, bis du einen Zauberstab hast.
@@ -58,69 +55,11 @@ Werte für jeden Build auf diesen Leveln: zuerst Intellect und Zaubermacht, dann
 
 Mental Strength steht jetzt in Reihe 2, wo es die Intelligenz erhöht, und Improved Power Word: Shield in Reihe 3. Shadow bekommt Dark Inspiration, verliert Improved Fade und Shadow Infinity, und Improved Mind Blast wandert in Reihe 2. Die Builds unten und der Talentrechner folgen den aktuellen Bäumen. Alle Änderungen stehen in [diesem Artikel](/de/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
-## Discipline-Build für Level 30
+## Talent-Builds
 
-Derselbe Zauberstab-Stil wie vorher, mit möglichst wenigen Pausen. [Build im Talentrechner öffnen](/de/talents/priest/?t=024015011330001).
+Der [Level-Build für den Priest](/de/leveling/priest/) gibt das Talent für jedes Level von 10 bis 60. [Endergebnis im Talentrechner öffnen](/de/talents/priest/?t=00500520103--50542201201302251).
 
-| Talent | Punkte |
-|---|---|
-| **Wand Specialization** | 2/2 |
-| **Twin Disciplines** | 4/5 |
-| **Holy Precision** | 1/3 |
-| **Improved Power Word: Shield** | 3/3 |
-| **Mental Agility** | 1/3 |
-| **Inner Focus** | 1/1 |
-| **Meditation** | 3/3 |
-| **Mental Strength** | 5/5 |
-| **Penance** | 1/1 |
-
-1. Halte Power Word: Shield aufrecht, wenn dein Mana es erlaubt, damit Schaden deine Zauber nicht verzögert.
-2. Eröffne mit Smite.
-3. Wirke Shadow Word: Pain, wenn dein Mana es erlaubt.
-4. Ab Level 30: Wirke Penance, sobald es bereit ist, für Schaden oder um dich zu heilen.
-5. Erledige den Rest mit dem Zauberstab, oder lass Shadow Word: Pain das machen.
-
-## Holy-Build für Level 30
-
-Für alle, die viele Dungeons heilen wollen und kein Discipline möchten. [Build im Talentrechner öffnen](/de/talents/priest/?t=-2050510303011).
-
-| Talent | Punkte |
-|---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14913"><img class="wf-wh__icon" src="/wh/spell_holy_healingfocus.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Twilight Focus</a>** | 2/3 |
-| **Holy Specialization** | 5/5 |
-| **Divine Fury** | 5/5 |
-| **Holy Nova** | 1/1 |
-| **Inspiration** | 3/3 |
-| **Improved Healing** | 3/3 |
-| **Holy Binding** | 1/1 |
-| **Litany of Light** | 1/2 |
-
-Allein ist die Rotation dieselbe wie bei Discipline ohne Penance: Power Word: Shield, Smite, Shadow Word: Pain und dein Zauberstab.
-
-## Shadow-Build für Level 30
-
-Für alle, die lieber Schaden machen, nicht heilen wollen und nicht bis 40 auf Shadowform warten möchten. [Build im Talentrechner öffnen](/de/talents/priest/?t=--305420012013).
-
-| Talent | Punkte |
-|---|---|
-| **Shadow Focus** | 3/5 |
-| **Spirit Tap** | 5/5 |
-| **Improved Shadow Word: Pain** | 2/2 |
-| **Improved Mind Blast** | 4/5 |
-| **Mind Flay** | 1/1 |
-| **Improved Mind Flay** | 2/2 |
-| **Vampiric Embrace** | 1/1 |
-| **Shadow Weaving** | 3/3 |
-
-1. Ab Level 20: Wirke Mind Flay auf das Ziel, bis es bei dir ist.
-2. Halte Shadow Word: Pain aufrecht.
-3. Wirke Mind Blast, sobald es bereit ist.
-4. Ab Level 20: Wirke Devouring Plague, sobald es bereit ist und dein Mana es erlaubt; es heilt dich auch.
-5. Erledige den Rest mit dem Zauberstab, oder lass deinen Schaden über Zeit das machen.
-
-Für Shadow zählt Schattenmacht neben Intellect und Zaubermacht. Mit Punkten in Talented aus dem Legacy-System erreichst du jedes Talent bis zu fünf Level früher.
-
-![Die drei Talentbäume des Priests in World of Warcraft: Forever: Discipline, Holy und Shadow Magic](../../../../assets/posts/2026-10-01-wow-forever-priest-talent-trees.jpg)
+Für Level 60 hat jeder Spec-Guide eigene Builds für Raids, Leveln und PvP: [Discipline](/de/guides/discipline-priest/), [Holy](/de/guides/holy-priest/) und [Shadow](/de/guides/shadow-priest/).
 
 ## Wichtige Level
 

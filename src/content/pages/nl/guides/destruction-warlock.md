@@ -1,7 +1,7 @@
 ---
 title: "Destruction Warlock in WoW Forever: de gids"
-metaTitle: "WoW Forever Destruction Warlock: build voor level 30, Conflagrate en Hellfire"
-description: "De Destruction Warlock in WoW Forever: de build voor level 30 met Bane, Aftermath, Shadowburn en Conflagrate, de rotatie, Hellfire in dungeons, mana, threat, stats en races."
+metaTitle: "WoW Forever Destruction Warlock: build voor level 60, Conflagrate en Hellfire"
+description: "De Destruction Warlock in WoW Forever: de build voor level 60 met Bane, Aftermath, Shadowburn en Conflagrate, de rotatie, Hellfire in dungeons, mana, threat, stats en races."
 short: "Destruction Warlock"
 updated: 2026-11-07
 lang: nl
@@ -10,16 +10,18 @@ faq:
   - q: "Wanneer krijgt een Destruction Warlock Conflagrate?"
     a: "Op level 25 in WoW Forever, in plaats van 40. Het verbruikt je Immolate voor directe Fire-schade, met een cooldown van 10 seconden."
   - q: "Kan Hellfire critten in WoW Forever?"
-    a: "Ja. Hellfire kan nu een critical strike geven, wat Destruction een van de sterkste area-specs op level 30 maakt. Het brandt nog altijd je eigen health weg terwijl je kanaliseert."
+    a: "Ja. Het brandt nog altijd je eigen health weg terwijl je kanaliseert."
   - q: "Moet ik Conflagrate casten zodra hij klaar is?"
-    a: "Niet op level 30. Conflagrate verbruikt Immolate, dus laat Immolate tikken en cast Conflagrate net voor de laatste tik. Vanaf level 40 houdt Shadow and Flame op 5/5 Immolate op het doelwit, en dan cast je hem zodra hij klaar is."
+    a: "Conflagrate verbruikt Immolate, dus laat Immolate tikken en cast Conflagrate net voor de laatste tik. Vanaf level 40 houdt Shadow and Flame op 5/5 Immolate op het doelwit, en dan cast je hem zodra hij klaar is."
   - q: "Is Destruction goed om solo te levelen?"
-    a: "Het is de traagste Warlock-spec solo, want de meeste schade komt van casts waarvoor je stilstaat en het verbruikt de meeste mana. Het blinkt uit in dungeons, waar je healer je Life Taps en Hellfire betaalt."
+    a: "Het is de traagste Warlock-spec solo, want de meeste schade komt van casts waarvoor je stilstaat en het verbruikt de meeste mana."
   - q: "Welk ras is het beste voor een Destruction Warlock?"
     a: "Human voor de Alliance, voor 1% meer critical strike-kans van Ruthless. Undead voor de Horde, voor Touch of the Grave, Cannibalize en Will of the Forsaken. Berserking van de Troll maakt je casts ook sneller. De verschillen zijn klein, dus kies het ras dat je leuk vindt."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/warlock/destruction/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/destruction-warlock/"
 ---
@@ -28,7 +30,7 @@ De Destruction Warlock in WoW Forever steekt alles in brand en blaast het op. Je
 | | |
 |---|---|
 | Rol | Ranged burst en areaschade, het sterkst in dungeons |
-| Build op level 30 | 21 punten in Destruction en 5 in Affliction, met de 5 extra punten van Talented |
+| Build op level 60 | 14/4/33 |
 | Belangrijkste talenten | Bane, Aftermath, Shadowburn, Conflagrate, Agonizing Flames, Suppression |
 | Sterk in | Burst met Conflagrate en Shadowburn, Hellfire tegen packs |
 | Zwak in | Mana, threat, stilstaan |
@@ -52,27 +54,43 @@ De Destruction Warlock in WoW Forever steekt alles in brand en blaast het op. Je
 | Immolate op een pack en Hellfire voor sterke areaschade | Veel directe threat van Immolate, Conflagrate en Hellfire |
 | Soulstone, Healthstones en summons voor de groep | Je staat het grootste deel van elk gevecht stil |
 
-## De build voor level 30
+## Builds voor level 60
 
-Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> uit het Legacy-systeem. Neem Bane, Aftermath, Shadowburn, Conflagrate en Agonizing Flames, dan 3 punten in Cataclysm en 2 in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17917"><img class="wf-wh__icon" src="/wh/spell_shadow_corpseexplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Destructive Reach</a>, voor 20% meer bereik, om aan 20 punten in Destruction te komen. Vijf punten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18174"><img class="wf-wh__icon" src="/wh/spell_shadow_unsummonbuilding.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Suppression</a> geven hit en minder threat, en het laatste punt gaat naar Bane of Havoc voor dungeons. [Open de build in de talentcalculator](/nl/talents/warlock/?t=05--2050350103101).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 14/4/33
+
+14 punten in Affliction, 4 in Demonology en 33 in Destruction. [Open de raidbuild in de talentcalculator](/nl/talents/warlock/?t=2530000013-0004-0050355103101351).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/warlock/?t=2350000013-0004-0050355103101351).
 
 | Talent | Punten |
 |---|---|
+| **Improved Life Tap** | 2/2 |
 | **Suppression** | 5/5 |
-| **Destructive Reach** | 2/2 |
+| **Improved Corruption** | 3/5 |
+| **Amplify Curse** | 1/1 |
+| **Pandemic** | 3/3 |
+| **Unholy Power** | 4/5 |
 | **Bane** | 5/5 |
 | **Cataclysm** | 3/3 |
 | **Aftermath** | 5/5 |
+| **Ruin** | 5/5 |
 | **Shadowburn** | 1/1 |
 | **Agonizing Flames** | 3/3 |
 | **Conflagrate** | 1/1 |
 | **Bane of Havoc** | 1/1 |
+| **Fire and Brimstone** | 3/3 |
+| **Shadow and Flame** | 5/5 |
+| **Incinerate** | 1/1 |
 
-![De Destruction Warlock-build voor level 30 in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-destruction-warlock-build.jpg)
+### Levelbuild, 41/10/0
 
-Vooral solo? Neem 3 punten in Suppression, 2 in Improved Life Tap en 1 in Improved Corruption, en sla Bane of Havoc over. [Open de soloversie](/nl/talents/warlock/?t=231--20503501031).
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/warlock/?t=2552032303520135-00050032). De [levelbuild voor de Warlock](/nl/leveling/warlock/) geeft het talent voor elk level.
 
-Na level 30 komen Fire and Brimstone, Shadow and Flame en Incinerate lager in de boom.
+### PvP-build, 0/21/30
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/warlock/?t=-1050203201221101-20550551031003).
 
 ## Wat de belangrijkste talenten doen
 
@@ -86,8 +104,6 @@ Na level 30 komen Fire and Brimstone, Shadow and Flame en Incinerate lager in de
 | **Suppression** | 1% hit per punt en minder threat |
 | **Cataclysm** | 10% minder manakost voor Destruction-spells op 3/3 |
 | **Bane of Havoc** | 15% van je schade op andere vijanden gaat naar zijn doelwit. De moeite op packs van 4 of meer met Hellfire |
-
-Ruin en Improved Shadow Bolt vragen meer crit dan je op level 30 hebt. Fire and Brimstone geeft op dit level maar ongeveer 2 schade per seconde, minder dan 3 punten Suppression.
 
 ## Rotatie
 
@@ -138,7 +154,7 @@ Met het nieuwe Move-commando zet je je demon waar je wilt. Leg Attack en Follow 
 
 ## Stats en gear
 
-**Spell Power, Fire-schade en Shadow-schade** eerst, dan **Intellect en Spirit**, dan **Stamina**. Fire-schade helpt Immolate, Conflagrate en Hellfire, Shadow-schade helpt Shadow Bolt en Shadowburn. Intellect telt meer dan bij de andere specs, want Destruction verbruikt de meeste mana. Met Suppression op 5/5 mis je vijanden van je eigen level niet meer. Crit helpt Destruction meer dan de andere specs, maar het is zeldzaam op gear op level 30.
+**Spell Power, Fire-schade en Shadow-schade** eerst, dan **Intellect en Spirit**, dan **Stamina**. Fire-schade helpt Immolate, Conflagrate en Hellfire, Shadow-schade helpt Shadow Bolt en Shadowburn. Intellect telt meer dan bij de andere specs, want Destruction verbruikt de meeste mana. Met Suppression op 5/5 mis je vijanden van je eigen level niet meer. Crit helpt Destruction meer dan de andere specs.
 
 - **Tailoring** heeft nieuwe soulbound Flame-stukken die Immolate, Conflagrate en Hellfire versterken, en Shadow-stukken zoals <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253967"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gown</a>. Alleen de tailor zelf kan ze dragen.
 - **Wapens.** Je wapen is een stat stick, de Spell Power telt meer dan de schade. De Warlock-quest voor de Orb of Soran'ruk laat je kiezen tussen <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>.

@@ -1,7 +1,7 @@
 ---
 title: "Guía del Arcane Mage en WoW Forever"
 metaTitle: "WoW Forever: Arcane Mage, build de Arcane Blast, rotación, maná, stats y razas"
-description: "El Arcane Mage en WoW Forever: Arcane Blast, Missile Barrage y Arcane Wrath, dos builds de nivel 30 para jugar en solitario y en mazmorras, la rotación, el maná y las fases de burn, la supervivencia, los stats, el equipo, las razas y las profesiones."
+description: "El Arcane Mage en WoW Forever: Arcane Blast, Missile Barrage y Arcane Wrath, builds de nivel 60 para bandas, subir de nivel y PvP, la rotación, el maná y las fases de burn, la supervivencia, los stats, el equipo, las razas y las profesiones."
 short: "Arcane Mage"
 updated: 2026-11-07
 lang: es
@@ -19,9 +19,11 @@ faq:
     a: "No encadenes Arcane Blast más allá de 2 acumulaciones si vas bajo, usa cada proc de Clearcasting en Arcane Blast y lanza Arcane Missiles en cuanto salte Missile Barrage. Arcane Meditation mantiene el 50% de tu regeneración mientras lanzas. Evocation y una Mana Agate cubren los combates largos."
   - q: "¿Qué raza es mejor para un Arcane Mage?"
     a: "Orc en la Horda, por el 10% de poder con hechizos de Blood Fury cada 2 minutos, con Troll en segundo lugar. En la Alianza, el High Order Skyborne por la Haste y la regeneración extra, luego Human. Elige la raza que te guste si no buscas cada porcentaje."
-  - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/arcane/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/arcane-mage/"
 ---
@@ -30,7 +32,7 @@ El Arcane Mage por fin tiene hechizos de daño propios en WoW Forever. Arcane Bl
 | | |
 |---|---|
 | Rol | Burst a distancia contra un objetivo |
-| Build a nivel 30 | 21 puntos en Arcane, Talented añade Arcane Mind y Arcane Instability |
+| Build a nivel 60 | 32/16/3 |
 | Talentos clave | Arcane Blast, Missile Barrage, Arcane Wrath, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11213"><img class="wf-wh__icon" src="/wh/spell_shadow_manaburn.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Concentration</a>, Arcane Meditation |
 | Fuerte en | Mucho daño, crece con el equipo, utilidad para el grupo |
 | Débil en | Gestión del maná muy difícil, depende de procs y equipo |
@@ -55,44 +57,43 @@ El Arcane Mage por fin tiene hechizos de daño propios en WoW Forever. Arcane Bl
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=604"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dampen Magic</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1008"><img class="wf-wh__icon" src="/wh/spell_holy_flashheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amplify Magic</a>, comida, agua y portales | Sin procs de Clearcasting o Missile Barrage, la rotación se desmorona |
 | Missile Barrage convierte Arcane Missiles en un hechizo de daño real | Menos supervivencia que Frost, y sin <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a> |
 
-## Dos builds de nivel 30
+## Builds para nivel 60
 
-Las dos builds usan los 21 puntos que tienes a nivel 30. Talented, del sistema Legacy, añade 5 puntos a cada una: Arcane Mind 5/5 y Arcane Instability 1/3.
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
 
-### Build de un objetivo
+### Build de banda, 32/16/3
 
-Para hacer misiones y el mundo abierto. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11237"><img class="wf-wh__icon" src="/wh/spell_nature_starfall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Channeling</a> 5/5 mantiene tus lanzamientos cuando los monstruos te golpean, y la build baja todo lo posible hacia Arcane Mind. El precio es el 6% de probabilidad de crítico de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11242"><img class="wf-wh__icon" src="/wh/spell_nature_wispsplode.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Impact</a>. [Abrir la build en la calculadora de talentos](/es/talents/mage/?t=0530052001003101).
+32 puntos en Arcane, 16 en Fire y 3 en Frost. [Abre la build de banda en la calculadora de talentos](/es/talents/mage/?t=050205203100311531-525000012001-003).
 
 | Talento | Puntos |
 |---|---|
 | **Improved Channeling** | 5/5 |
-| **Arcane Resilience** | 3/3 |
-| **Arcane Concentration** | 5/5 |
-| **Missile Barrage** | 2/2 |
-| **Arcane Blast** | 1/1 |
-| **Arcane Meditation** | 3/3 |
-| **Arcane Wrath** | 1/1 |
-| **Arcane Mind** | 1/5 |
-
-[Abrir la versión Talented](/es/talents/mage/?t=05300520010031051) con Arcane Mind 5/5 y Arcane Instability 1/3.
-
-### Build de mazmorra
-
-Para mazmorras, cuando tanquea otro. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11210"><img class="wf-wh__icon" src="/wh/spell_holy_dispelmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Subtlety</a> reduce un 30% la amenaza de tus hechizos Arcane, para que puedas spamear Arcane Explosion, y Arcane Impact 3/3 añade un 6% de probabilidad de crítico. Sin Improved Channeling, los monstruos que te golpean retrasan cada lanzamiento. [Abrir la build en la calculadora de talentos](/es/talents/mage/?t=0230052031003101).
-
-| Talento | Puntos |
-|---|---|
-| **Improved Channeling** | 2/5 |
-| **Arcane Resilience** | 3/3 |
+| **Arcane Subtlety** | 2/2 |
 | **Arcane Concentration** | 5/5 |
 | **Missile Barrage** | 2/2 |
 | **Arcane Impact** | 3/3 |
 | **Arcane Blast** | 1/1 |
 | **Arcane Meditation** | 3/3 |
 | **Arcane Wrath** | 1/1 |
-| **Arcane Mind** | 1/5 |
+| **Presence of Mind** | 1/1 |
+| **Arcane Mind** | 5/5 |
+| **Arcane Instability** | 3/3 |
+| **Arcane Power** | 1/1 |
+| **Incineration** | 5/5 |
+| **Accelerant** | 2/5 |
+| **Ignite** | 5/5 |
+| **Pyroblast** | 1/1 |
+| **Improved Fire Blast** | 2/2 |
+| **Heating Up** | 1/1 |
+| **Precision** | 3/3 |
 
-[Abrir la versión Talented](/es/talents/mage/?t=02300520310031051) con Arcane Mind 5/5 y Arcane Instability 1/3. La [build de subida del Mage](/es/leveling/mage/) da un talento para cada nivel del 10 al 35.
+### Build para subir de nivel, 18/0/33
+
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/mage/?t=0502052001003--053530000101331251). La [build de nivel del Mage](/es/leveling/mage/) da el talento de cada nivel.
+
+### Build de PvP, 32/19/0
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/mage/?t=050205220102211531-505230012001).
 
 ### Qué hacen los talentos clave
 

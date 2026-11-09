@@ -1,7 +1,7 @@
 ---
 title: "Guía del Protection Warrior en WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: build de tanque, amenaza y Rage"
-description: "El Protection Warrior en WoW Forever: la build de tanque de nivel 30 con Master of Defense, Defiance y Vanguard, la rotación de amenaza, la Rage, los stats y las razas."
+description: "El Protection Warrior en WoW Forever: la build de tanque de nivel 60 con Master of Defense, Defiance y Vanguard, la rotación de amenaza, la Rage, los stats y las razas."
 short: "Protection Warrior"
 updated: 2026-11-07
 lang: es
@@ -17,18 +17,20 @@ faq:
     a: "Protection saca gran parte de su Rage de recibir golpes. Contra lanzadores, o cuando otro tanquea, consigues poca. Improved Thunder Clap, Improved Sunder Armor y Focused Rage bajan tus costes más adelante."
   - q: "¿Qué raza es mejor para un Protection Warrior?"
     a: "Night Elf o Dwarf para la Alianza, por la esquiva extra o Stoneform. Tauren para la Horda, por la mayor vida, u Orc por Blood Fury y su tiempo de reutilización contra el daño mágico. Todas las razas funcionan."
-  - q: "¿Hay ya una build de nivel 60?"
-    a: "Todavía no. Nuestras builds llegan al nivel 30, donde terminaba la beta. Las builds de nivel 60 llegarán cuando podamos probarlas en el juego en vivo."
+  - q: "¿Hay una build para nivel 60?"
+    a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, builds de talentos"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/protection/talent-builds-pve-tank"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/protection-warrior/"
 ---
-El Protection Warrior de WoW Forever es el caballero clásico: armadura pesada, un gran escudo y nada de magia, solo gritos, pisotones y golpes. Los talentos nuevos dan Rage con cada bloqueo, esquiva y parada, y Vanguard te deja cargar en Defensive Stance. Esta guía cubre la build de nivel 30, la rotación de amenaza, los perjuicios, la Rage, los stats, el equipo y las razas.
+El Protection Warrior de WoW Forever es el caballero clásico: armadura pesada, un gran escudo y nada de magia, solo gritos, pisotones y golpes. Los talentos nuevos dan Rage con cada bloqueo, esquiva y parada, y Vanguard te deja cargar en Defensive Stance. Esta guía cubre la build de nivel 60, la rotación de amenaza, los perjuicios, la Rage, los stats, el equipo y las razas.
 
 | | |
 |---|---|
 | Rol | Tanque con escudo |
-| Build a nivel 30 | 26 puntos en Protection, con los 5 puntos extra de Talented |
+| Build a nivel 60 | 4/15/32 |
 | Talentos clave | Shield Specialization, Anticipation, Master of Defense, Defiance, Last Stand, Vanguard |
 | Fuerte en | Tiempos de reutilización defensivos fuertes, mucho control sobre el combate |
 | Débil en | Poco que hacer cuando no tanqueas, necesita Rage |
@@ -56,13 +58,22 @@ El Protection Warrior de WoW Forever es el caballero clásico: armadura pesada, 
 
 Como Protection hace tan poco fuera del tanqueo, muchos Warriors juegan una spec de daño con la Dual Specialization, o asumen para siempre el papel de tanque principal.
 
-## La build de nivel 30
+## Builds para nivel 60
 
-Esta build usa 26 puntos: los 21 puntos del nivel 30 más 5 de Talented en el sistema Legacy. Sin Talented, detente en 21 puntos; la [build de nivel del Warrior](/es/leveling/warrior/) da el orden por nivel. [Abrir la build en la calculadora de talentos](/es/talents/warrior/?t=--2505301203010013).
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+### Build de banda, 4/15/32
+
+4 puntos en Arms, 15 en Fury y 32 en Protection. [Abre la build de banda en la calculadora de talentos](/es/talents/warrior/?t=04-05050005-050530120301021351).
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/warrior/?t=04-05050005-050233120301021351).
 
 | Talento | Puntos |
 |---|---|
-| **Improved Bloodrage** | 2/2 |
+| **Deflection** | 4/5 |
+| **Cruelty** | 5/5 |
+| **Unbridled Wrath** | 5/5 |
+| **Enrage** | 5/5 |
 | **Shield Specialization** | 5/5 |
 | **Anticipation** | 5/5 |
 | **Improved Revenge** | 3/3 |
@@ -70,12 +81,19 @@ Esta build usa 26 puntos: los 21 puntos del nivel 30 más 5 de Talented en el si
 | **Master of Defense** | 2/2 |
 | **Defiance** | 3/3 |
 | **Vanguard** | 1/1 |
+| **Improved Shield Wall** | 2/2 |
 | **Concussion Blow** | 1/1 |
 | **Focused Rage** | 3/3 |
+| **Bastion** | 5/5 |
+| **Shield Slam** | 1/1 |
 
-![La build de nivel 30 del Protection Warrior en nuestra calculadora de talentos](../../../../assets/posts/2026-10-21-wow-forever-protection-warrior-build.jpg)
+### Build para subir de nivel, 13/6/32
 
-Después del nivel 30 llegan Bastion, Improved Shield Wall, Improved Thunder Clap, Improved Sunder Armor y Shield Slam al final del árbol.
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/warrior/?t=2502301-0501-250033020331001351). La [build de nivel del Warrior](/es/leveling/warrior/) da el talento de cada nivel.
+
+### Build de PvP, 0/19/32
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/warrior/?t=-05050135-055030123001201351).
 
 ## Qué hacen los talentos clave
 
@@ -89,7 +107,7 @@ Después del nivel 30 llegan Bastion, Improved Shield Wall, Improved Thunder Cla
 | **Last Stand** | Un 30% extra de vida máxima durante 20 segundos |
 | **Vanguard** | Abre cada pull con Charge, sin salir de Defensive Stance |
 | **Focused Rage** | 3 de Rage menos para tus habilidades ofensivas |
-| **Shield Slam** | Un ataque instantáneo fuerte que también puede disipar. Después del nivel 30 |
+| **Shield Slam** | Un ataque instantáneo fuerte que también puede disipar |
 
 ## Rotación
 

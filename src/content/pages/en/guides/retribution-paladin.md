@@ -1,7 +1,7 @@
 ---
 title: "Retribution Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Retribution Paladin: build, rotation and seals"
-description: "The Retribution Paladin in WoW Forever: the level 30 build and its Talented version, the rotation with Seal of Command, Judgements, blessings, stats and races."
+description: "The Retribution Paladin in WoW Forever: the level 60 build, the rotation with Seal of Command, Judgements, blessings, stats and races."
 short: "Retribution Paladin"
 updated: 2026-11-07
 lang: en
@@ -14,18 +14,20 @@ faq:
     a: "Hit first, so your attacks and spells land, then critical strike chance, Strength and attack power, and spell power. Champion of the Light turns Intellect into spell power, so Intellect is worth more than in Classic."
   - q: "Which race is best for a Retribution Paladin?"
     a: "Human for the Alliance, for the extra critical strike chance. Dwarf has Stoneform, a strong defensive cooldown. Horde Paladins are always Undead."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/retribution/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/retribution-paladin/"
 ---
-The Retribution Paladin in WoW Forever is the holy warrior with a big two-handed weapon. You hit slowly but hard, cast a few spells in between, and almost all of it now scales with spell power. You do not press a button every global cooldown, but Judgement, Holy Strike and Consecration keep you busy. This guide covers the level 30 build, the rotation, seals, blessings, stats and races.
+The Retribution Paladin in WoW Forever is the holy warrior with a big two-handed weapon. You hit slowly but hard, cast a few spells in between, and almost all of it now scales with spell power. You do not press a button every global cooldown, but Judgement, Holy Strike and Consecration keep you busy. This guide covers the level 60 build, the rotation, seals, blessings, stats and races.
 
 | | |
 |---|---|
 | Role | Melee damage with a slow two-handed weapon |
-| Build at level 30 | 21 points in Retribution, Talented adds Two-Handed Weapon Specialization and Vengeance |
+| Build at level 60 | 14/6/31 |
 | Key talents | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Unsealed Wrath |
 | Strength | Group utility, very hard to kill, big bursts |
 | Weakness | Slow to reach a target, mana can run out |
@@ -41,28 +43,43 @@ The Retribution Paladin in WoW Forever is the holy warrior with a big two-handed
 
 **Mana.** You do not build a resource before a fight, but mana can run out. Sanctified Judgement help, and Judgement of Wisdom helps the whole group.
 
-## The level 30 build
+## Builds for level 60
 
-The beta stopped at level 30, so the build uses 21 points. Talented from the Legacy system adds 5 more. [Open the build in the talent calculator](/talents/paladin/?t=--502330212011001).
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 14/6/31
+
+14 points in Holy, 6 in Protection and 31 in Retribution. [Open the raid build in the talent calculator](/talents/paladin/?t=050250002-501-05233011201301351).
 
 | Talent | Points |
 |---|---|
-| **Deflection** | 5/5 |
+| **Divine Strength** | 5/5 |
+| **Reverence** | 2/2 |
+| **Improved Seals** | 5/5 |
+| **Holy Conduit** | 2/2 |
+| **Divine Intellect** | 5/5 |
+| **Precision** | 1/3 |
+| **Benediction** | 5/5 |
 | **Improved Judgement** | 2/2 |
 | **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
-| **Unyielding Faith** | 2/2 |
+| **Unyielding Faith** | 1/2 |
 | **Seal of Command** | 1/1 |
 | **Pursuit of Justice** | 2/2 |
 | **Sacred Arbiter** | 1/1 |
-| **Two-Handed Weapon Specialization** | 1/3 |
-| **Vengeance** | 1/3 |
+| **Two-Handed Weapon Specialization** | 3/3 |
+| **Repentance** | 1/1 |
+| **Vengeance** | 3/3 |
+| **Champion of the Light** | 5/5 |
+| **Unsealed Wrath** | 1/1 |
 
-[Open the Talented version](/talents/paladin/?t=--512330212013003) with Benediction 1/5, Two-Handed Weapon Specialization 3/3 and Vengeance 3/3.
+### Leveling build, 0/31/20
 
-![The Talented Retribution Paladin build in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-retribution-paladin-build.jpg)
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/paladin/?t=-55300102113001531-05233301201). The [Paladin level build](/leveling/paladin/) gives the talent for every level.
 
-**Benediction instead of Deflection.** Deflection only gives parry. If you run out of mana in long fights, put those 5 points in Benediction: instant spells and abilities then cost 10% less mana.
+### PvP build, 12/6/33
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/paladin/?t=05025-501-50233011221301351).
 
 ## What the key talents do
 
@@ -79,7 +96,7 @@ The beta stopped at level 30, so the build uses 21 points. Talented from the Leg
 | **Champion of the Light** | Spell damage equal to up to 30% of your Intellect |
 | **Unsealed Wrath** | Melee attacks store your Seal, up to 3 times. A hit with another Seal uses the stacks for extra chances |
 
-Champion of the Light and Unsealed Wrath sit in rows 6 and 7, out of reach at level 30. They are the reason to keep going down the tree after level 30.
+Champion of the Light and Unsealed Wrath sit in rows 6 and 7.
 
 ## Rotation
 

@@ -60,22 +60,44 @@ El Restoration Druid de WoW Forever sigue siendo un sanador que se adelanta al d
 | La mejor movilidad de todos los sanadores | Sin disipación de Magia ni de Enfermedad |
 | Debuffs de banda | |
 
-## La build estándar
+## Builds para nivel 60
 
-La mayoría de los Restoration Druids jugarán una build muy parecida a esta en casi cualquier situación, según una encuesta entre jugadores de la especialización. Ábrela en la [calculadora de talentos](/es/talents/druid/?t=05102201--5553005123113051): 11 puntos en Balance, 0 en Feral Combat y 40 en Restoration, 51 puntos en total para el nivel 60.
+Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
 
-![Los árboles de talentos del Druid con 11 puntos en Balance, 0 en Feral Combat y 40 en Restoration, la build estándar de un Restoration Druid, en la calculadora de talentos de wowforever.be](../../../../assets/posts/2026-10-09-wow-forever-restoration-druid-build.jpg)
+### Build de banda, 21/0/30
 
-| Árbol | Talentos |
+21 puntos en Balance y 30 en Restoration. [Abre la build de banda en la calculadora de talentos](/es/talents/druid/?t=5530203110001--055300510311105).
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/druid/?t=503222011550135--05530011001).
+
+| Talento | Puntos |
 |---|---|
-| **Balance (11)** | Genesis 5, Moonglow 1, Nature's Majesty 2, Nature's Reach 2, Nature's Splendor 1 |
-| **Restoration (40)** | Nature's Focus 5, Heart of the Wild 5, Naturalist 5, Reflection 3, Gift of Nature 5, Bloom 1, Tranquil Spirit 2, Improved Rejuvenation 3, Swiftmend 1, Nature's Swiftness 1, Living Spirit 3, Improved Regrowth 5, Wild Growth 1 |
+| **Improved Wrath** | 5/5 |
+| **Genesis** | 5/5 |
+| **Moonglow** | 3/3 |
+| **Nature's Majesty** | 2/2 |
+| **Improved Entangling Roots** | 3/3 |
+| **Nature's Splendor** | 1/1 |
+| **Insect Swarm** | 1/1 |
+| **Nature's Grace** | 1/1 |
+| **Heart of the Wild** | 5/5 |
+| **Naturalist** | 5/5 |
+| **Reflection** | 3/3 |
+| **Gift of Nature** | 5/5 |
+| **Bloom** | 1/1 |
+| **Improved Rejuvenation** | 3/3 |
+| **Swiftmend** | 1/1 |
+| **Nature's Swiftness** | 1/1 |
+| **Living Spirit** | 1/3 |
+| **Improved Regrowth** | 5/5 |
 
-**Improved Regrowth** es ahora uno de los talentos con más valor por punto.
+### Build para subir de nivel, 9/32/10
 
-**<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24968"><img class="wf-wh__icon" src="/wh/spell_holy_elunesgrace.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquil Spirit</a>** ha perdido valor junto con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5185"><img class="wf-wh__icon" src="/wh/spell_nature_healingtouch.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Healing Touch</a>: el Regrowth más fuerte y la penalización de los rangos bajos hacen Healing Touch menos atractivo. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17123"><img class="wf-wh__icon" src="/wh/spell_nature_tranquility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Tranquility</a>** es una pequeña mejora para un botón que ya era flojo, y apenas se usará.
+La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/druid/?t=050022-55200002123012125001-055). La [build de nivel del Druid](/es/leveling/druid/) da el talento de cada nivel.
 
-**Balance** se rellena libremente. Lo que importa es Nature's Splendor en el undécimo punto, que alarga Moonfire, Rejuvenation y Regrowth. Algunos jugadores cogen las mejoras de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5176"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrath</a> junto con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>, para más daño y más ocasiones de Omen of Clarity.
+### Build de PvP, 16/11/24
+
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/druid/?t=500222311-052021001-555330010011).
 
 ## Dual Specialization y otras builds
 

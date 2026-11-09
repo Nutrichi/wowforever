@@ -1,7 +1,7 @@
 ---
 title: "Frost-Mage-Guide für WoW Forever"
 metaTitle: "WoW Forever Frost Mage: Ice-Lance-Build, Rotation und Shatter"
-description: "Der Frost Mage in WoW Forever: Ice Lance und Fingers of Frost, der Build für Level 30, die Rotation, Kiten, Mana, Shatter, Werte, Ausrüstung, Völker und Berufe."
+description: "Der Frost Mage in WoW Forever: Ice Lance und Fingers of Frost, der Build für Level 60, die Rotation, Kiten, Mana, Shatter, Werte, Ausrüstung, Völker und Berufe."
 short: "Frost Mage"
 updated: 2026-11-07
 lang: de
@@ -17,9 +17,11 @@ faq:
     a: "Ice Barrier ist das letzte Talent des Frost-Baums und braucht Level 40. Bis Level 40 verlässt du dich auf Einfrieren, Mana Shield und Blink."
   - q: "Welches Volk ist das beste für einen Frost Mage?"
     a: "Orc bei der Horde, dank 10 % Zaubermacht von Blood Fury, mit Troll und Berserking knapp dahinter. Bei der Allianz Human mit 1 % kritischer Trefferchance oder Skyborne mit 2 % Haste. Nimm das Volk, das dir gefällt, wenn du nicht jedem Prozent nachjagst."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/frost/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/frost-mage/"
 ---
@@ -28,7 +30,7 @@ Der Frost Mage in WoW Forever verlangsamt und friert seine Ziele ein, überlebt 
 | | |
 |---|---|
 | Rolle | Fernkampfschaden mit Verlangsamungen, Einfrieren und Burst |
-| Build auf Level 30 | 21 Punkte in Frost, Talented ergänzt Permafrost |
+| Build auf Level 60 | 18/0/33 |
 | Wichtige Talente | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1312002"><img class="wf-wh__icon" src="/wh/spell_frost_frostblast.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Lance</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=400647"><img class="wf-wh__icon" src="/wh/ability_mage_wintersgrasp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fingers of Frost</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11071"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostbite</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11170"><img class="wf-wh__icon" src="/wh/spell_frost_frostshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shatter</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11207"><img class="wf-wh__icon" src="/wh/spell_frost_iceshard.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Shards</a> |
 | Stärken | Burst auf Frozen-Ziele, Kontrolle, Überleben |
 | Schwächen | Hängt von Procs ab, Mana |
@@ -52,24 +54,42 @@ Der Frost Mage in WoW Forever verlangsamt und friert seine Ziele ein, überlebt 
 | Das beste Überleben der Mage-Specs | Wenig Gesundheit, wie jeder Mage |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=604"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dampen Magic</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1008"><img class="wf-wh__icon" src="/wh/spell_holy_flashheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amplify Magic</a>, Essen, Wasser und Portale | Ice Barrier kommt erst auf Level 40 |
 
-## Der Build für Level 30
+## Builds für Level 60
 
-Der Build nutzt 21 Punkte in Frost, die Punkte, die du auf Level 30 hast. [Den Build im Talentrechner öffnen](/de/talents/mage/?t=--0525300001013001).
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 18/0/33
+
+18 Punkte in Arcane und 33 in Frost. [Raid-Build im Talentrechner öffnen](/de/talents/mage/?t=2032050030003--053500031100331251).
 
 | Talent | Punkte |
 |---|---|
+| **Wand Specialization** | 2/2 |
+| **Arcane Resilience** | 3/3 |
+| **Arcane Subtlety** | 2/2 |
+| **Arcane Concentration** | 5/5 |
+| **Arcane Impact** | 3/3 |
+| **Arcane Meditation** | 3/3 |
 | **Improved Frostbolt** | 5/5 |
-| **Precision** | 2/3 |
+| **Precision** | 3/3 |
 | **Ice Shards** | 5/5 |
-| **Frostbite** | 3/3 |
+| **Frost Channeling** | 3/3 |
+| **Improved Blizzard** | 1/3 |
 | **Ice Lance** | 1/1 |
-| **Ice Block** | 1/1 |
 | **Shatter** | 3/3 |
-| **Fingers of Frost** | 1/2 |
+| **Improved Cone of Cold** | 3/3 |
+| **Cold Snap** | 1/1 |
+| **Fingers of Frost** | 2/2 |
+| **Winter's Chill** | 5/5 |
+| **Ice Barrier** | 1/1 |
 
-Mit 5 Punkten in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> aus dem Legacy-System hast du 26 Punkte: Permafrost 2/3, Precision 3/3, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12472"><img class="wf-wh__icon" src="/wh/spell_frost_wizardmark.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cold Snap</a> 1/1 und Fingers of Frost 2/2. [Die Version mit Talented öffnen](/de/talents/mage/?t=--0535302001013012).
+### Leveling-Build, 18/0/33
 
-Für Frostbite und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11175"><img class="wf-wh__icon" src="/wh/spell_frost_wisp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Permafrost</a> zusammen ist kein Platz, du wählst also zwischen zufälligem Einfrieren und längeren, stärkeren Verlangsamungen. Für weniger Bedrohung und billigere Zauber in Dungeons nimmst du 1 Punkt in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11160"><img class="wf-wh__icon" src="/wh/spell_frost_stun.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frost Channeling</a> statt Cold Snap. Der [Levelbuild des Mage](/de/leveling/mage/) gibt das Talent für jedes Level von 10 bis 35.
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/mage/?t=0502052001003--053530000101331251). Der [Level-Build für den Mage](/de/leveling/mage/) gibt das Talent für jedes Level.
+
+### PvP-Build, 12/0/39
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/mage/?t=2032202001--053532301101331251).
 
 ### Was die wichtigen Talente tun
 

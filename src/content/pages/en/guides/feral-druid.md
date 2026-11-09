@@ -1,7 +1,7 @@
 ---
 title: "Feral Druid guide for WoW Forever"
 metaTitle: "WoW Forever Feral Druid: cat and bear builds, rotation, stats"
-description: "The Feral Druid in WoW Forever: four builds for level 60 (hybrid, cat, bear and solo), Shifting Power and Primal Bite, the cat and bear rotations, stats and races."
+description: "The Feral Druid in WoW Forever: level 60 builds for raids, leveling and PvP, Shifting Power and Primal Bite, the cat and bear rotations, stats and races."
 short: "Feral Druid"
 updated: 2026-10-31
 lang: en
@@ -18,9 +18,11 @@ faq:
     a: "As a cat: hit, then expertise, then critical strike chance, Agility, Strength and attack power. As a bear: also defense, dodge, armor and Stamina, because a Druid has no block or parry."
   - q: "Which race is best for a Feral Druid?"
     a: "The differences are small. Night Elf gets a critical strike bonus that suits Feral, Tauren War Stomp and 5% more Health. Skyborne get haste, and Alliance Skyborne also a mana cooldown."
-  - q: "Is there a level 60 build already?"
-    a: "Yes. The four builds in this guide use all 51 points of level 60, without the extra points of Talented."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/druid/feral/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/feral-druid/"
 ---
@@ -47,13 +49,13 @@ The Feral Druid in WoW Forever is two specs in one: a cat that deals melee damag
 
 **Three resources.** A cat watches Energy, Combo Points and, for Shifting Power, mana. A bear has Rage. Add bleeds and debuffs, and Feral is one of the harder specs to master.
 
-## Four builds for level 60
+## Builds for level 60
 
-All four use 51 points, the full talent count of level 60. Every build takes 9 points in Balance for Genesis 5/5, Nature's Majesty 2/2 and Nature's Reach 2/2, except the solo build.
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
 
-### Hybrid, 9/37/5
+### Raid build, 9/32/10
 
-Cat and bear in one build, for endgame groups that ask for either role. [Open the build in the talent calculator](/talents/druid/?t=050022-50230232123112125011-05).
+9 points in Balance, 32 in Feral Combat and 10 in Restoration. [Open the raid build in the talent calculator](/talents/druid/?t=050022-53200032123012124001-055).
 
 | Talent | Points |
 |---|---|
@@ -61,38 +63,29 @@ Cat and bear in one build, for endgame groups that ask for either role. [Open th
 | **Nature's Majesty** | 2/2 |
 | **Nature's Reach** | 2/2 |
 | **Ferocity** | 5/5 |
+| **Furor** | 3/5 |
 | **Feral Swiftness** | 2/2 |
-| **Feral Instinct** | 3/3 |
-| **Thick Hide** | 2/3 |
 | **Shredding Attacks** | 3/3 |
 | **Savage Fury** | 2/2 |
 | **Feral Charge** | 1/1 |
 | **Sharpened Claws** | 2/2 |
 | **Predatory Strikes** | 3/3 |
-| **Lacerate** | 1/1 |
 | **Predatory Discipline** | 1/1 |
 | **Blood Frenzy** | 2/2 |
 | **Leader of the Pack** | 1/1 |
 | **Natural Instinct** | 2/2 |
-| **Rend and Tear** | 5/5 |
-| **Primal Bite** | 1/1 |
-| **Lacerate** | New talent in Feral Combat since the hotfix |
+| **Rend and Tear** | 4/5 |
 | **Shifting Power** | 1/1 |
 | **Heart of the Wild** | 5/5 |
+| **Naturalist** | 5/5 |
 
-![The hybrid Feral Druid build of 9/37/5 in our talent calculator](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
+### Leveling build, 9/32/10
 
-### Cat, 9/37/5
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/druid/?t=050022-55200002123012125001-055). The [Druid level build](/leveling/druid/) gives the talent for every level.
 
-For a Druid who never tanks. [Open the build in the talent calculator](/talents/druid/?t=050022-53230032123112125001-05).
+### PvP build, 0/35/16
 
-### Bear, 9/37/5
-
-For a Druid who only tanks, with more Rage and survival. [Open the build in the talent calculator](/talents/druid/?t=050022-5023030212310212541-05).
-
-### Solo, 0/35/16
-
-For questing and farming alone: cheaper shapeshifts and efficient self healing, at the cost of some group performance. [Open the build in the talent calculator](/talents/druid/?t=-05231032123112125001-15513000001).
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/druid/?t=-55202002123112124011-05433000001).
 
 ## What the key talents do
 

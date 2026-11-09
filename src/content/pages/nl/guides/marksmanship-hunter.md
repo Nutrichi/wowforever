@@ -20,6 +20,8 @@ faq:
   - q: "Welk ras is het beste voor een Marksmanship Hunter?"
     a: "Skyborne aan beide kanten, voor de haste-bonus. Human voor de Alliance en Orc voor de Horde zijn sterke alternatieven. De verschillen zijn klein."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/marksmanship/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/marksmanship-hunter/"
 ---
@@ -48,14 +50,17 @@ De Marksmanship Hunter in WoW Forever is de scherpschutter. Je kunt met een pet 
 
 **De dode zone.** Tussen melee-bereik en 8 meter kun je geen melee- en geen ranged-aanvallen gebruiken.
 
-## De build voor level 60: 5/46/0
+## Builds voor level 60
 
-De beta stopte op level 30, maar de talentbomen voor level 60 zitten in de spelbestanden. We hebben deze build punt voor punt nagekeken in [onze talentcalculator](/nl/talents/hunter/?t=5-30535525115023051): 5 punten in Beast Mastery en 46 in Marksmanship, 51 in totaal.
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 5/41/5
+
+5 punten in Beast Mastery, 41 in Marksmanship en 5 in Survival. [Open de raidbuild in de talentcalculator](/nl/talents/hunter/?t=5-00535525115021051-5).
 
 | Talent | Punten |
 |---|---|
-| **Deadly Aspects** (Beast Mastery) | 5/5 |
-| **Hawk Eye** | 3/3 |
+| **Deadly Aspects** | 5/5 |
 | **Lethal Attacks** | 5/5 |
 | **Improved Stings** | 3/3 |
 | **Efficiency** | 5/5 |
@@ -66,16 +71,18 @@ De beta stopte op level 30, maar de talentbomen voor level 60 zitten in de spelb
 | **Trueshot Aura** | 1/1 |
 | **Mortal Shots** | 5/5 |
 | **Rapid Recuperation** | 2/2 |
-| **Barrage** | 3/3 |
+| **Barrage** | 1/3 |
 | **Ranged Weapon Specialization** | 5/5 |
 | **Sniper Shot** | 1/1 |
+| **Improved Tracking** | 5/5 |
 
-![De build 5/46/0 van de Marksmanship Hunter in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-marksmanship-hunter-build.jpg)
+### Levelbuild, 31/20/0
 
-Twee punten kunnen schuiven:
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/hunter/?t=5120221405101241-00503520005). De [levelbuild voor de Hunter](/nl/leveling/hunter/) geeft het talent voor elk level.
 
-- **Lone Wolf** naar 1 punt in **Improved Tracking** (Survival) als je je pet wilt houden, bijvoorbeeld tijdens het questen.
-- **Hawk Eye** naar 3 punten in **Improved Tracking** als je het extra bereik niet nodig hebt en meer schade wilt.
+### PvP-build, 0/40/11
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/hunter/?t=-05530505115003151-500050001).
 
 ## Wat de belangrijkste talenten doen
 

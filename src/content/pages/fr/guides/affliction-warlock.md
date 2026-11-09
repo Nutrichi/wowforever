@@ -1,7 +1,7 @@
 ---
 title: "Guide de l'Affliction Warlock dans WoW Forever"
 metaTitle: "WoW Forever : Affliction Warlock, build drain tank, rotation, Life Tap et races"
-description: "L'Affliction Warlock dans WoW Forever : ce qui change, le build drain tank pour le niveau 30, la rotation, Life Tap et Drain Life, les démons, les stats, les races et les métiers."
+description: "L'Affliction Warlock dans WoW Forever : ce qui change, le build drain tank pour le niveau 60, la rotation, Life Tap et Drain Life, les démons, les stats, les races et les métiers."
 short: "Affliction Warlock"
 updated: 2026-11-07
 lang: fr
@@ -19,9 +19,11 @@ faq:
     a: "La Succubus ou l'Incubus inflige le plus de dégâts et sert par défaut en solo pendant que vous drain tankez. Prenez le Voidwalker pour les élites et les pulls dangereux, et le Felhunter contre les lanceurs de sorts."
   - q: "Quelle race est la meilleure pour un Affliction Warlock ?"
     a: "Undead chez la Horde et Human ou Gnome chez l'Alliance ont de petits avantages, mais aucun n'est assez fort pour renoncer à une race que vous préférez."
-  - q: "Y a-t-il déjà un build pour le niveau 60 ?"
-    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
+  - q: "Existe-t-il un build pour le niveau 60 ?"
+    a: "Oui. Ce guide propose trois builds pour le niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chacun s’ouvre dans notre calculateur de talents."
 sources:
+  - name: "Wowhead, builds de talents"
+    url: "https://www.wowhead.com/forever/guide/classes/warlock/affliction/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/affliction-warlock/"
 ---
@@ -30,7 +32,7 @@ L'Affliction Warlock de WoW Forever pose des dégâts sur la durée et draine la
 | | |
 |---|---|
 | Rôle | Dégâts, la spé de Warlock la plus autonome en solo |
-| Build au niveau 30 | Drain tank, 21 points en Affliction |
+| Build au niveau 60 | 33/0/18 |
 | Talents clés | Improved Corruption, Suppression, Improved Drains, Soul Siphon |
 | Points forts | Autonomie, dégâts en mouvement, utilité pour le groupe |
 | Points faibles | Démarrage lent, remplissage immobile, la vie comme ressource |
@@ -54,24 +56,41 @@ L'Affliction Warlock de WoW Forever pose des dégâts sur la durée et draine la
 | Des DoTs sur plusieurs cibles à la fois | Chaque Life Tap coûte de la vie |
 | Soulstone, Healthstones et invocations | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1949"><img class="wf-wh__icon" src="/wh/spell_fire_incinerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hellfire</a> brûle aussi votre propre vie |
 
-## Le build drain tank au niveau 30
+## Les builds pour le niveau 60
 
-Ce build met 21 points dans le drain tanking. Avec 5 points dans <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> du système Legacy, vous avez 26 points au niveau 30. Prenez alors d'abord <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17804"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Soul Siphon</a> à 3/3, et deux points de plus dans Grim Reach, qui a remplacé Malediction, vous amènent à 25 points en Affliction, ce qui ouvre <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18271"><img class="wf-wh__icon" src="/wh/spell_shadow_shadetruesight.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Mastery</a> pour le dernier point.
+Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chaque build s’ouvre dans notre calculateur de talents.
 
-| Talent | Ce qu'il fait dans Forever |
+### Build de raid, 33/0/18
+
+33 points en Affliction et 18 en Destruction. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/warlock/?t=25500000135201351--0550005003).
+
+Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/warlock/?t=2550001013520105--0550205103).
+
+| Talent | Points |
 |---|---|
-| **Improved Corruption** | À 5/5, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> devient instantané et inflige 10 % de dégâts en plus |
-| **Suppression** | 1 % de toucher et 4 % de menace en moins par point. 4 points suppriment les échecs contre les ennemis de votre niveau |
-| **Improved Drains** | Drain Life et <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1120"><img class="wf-wh__icon" src="/wh/spell_shadow_haunting.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Soul</a> infligent 20 % de plus à 3/3 |
-| **Fel Concentration** | Jusqu'à 70 % de chances que les dégâts ne retardent pas vos drains |
-| **Improved Life Tap** | 20 % de mana en plus avec Life Tap à 2/2 |
-| **Amplify Curse** | Une Bane of Agony plus forte à chaque recharge, nécessaire pour <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18223"><img class="wf-wh__icon" src="/wh/spell_shadow_grimward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Exhaustion</a> |
-| **Soul Siphon** | Les drains infligent 4 % de plus par effet d'Affliction sur la cible et par point, jusqu'à 36 % à 3/3 |
-| **Grim Reach** | 10 % de portée en plus pour les sorts d'Affliction par point, 20 % à 2/2 |
+| **Improved Life Tap** | 2/2 |
+| **Suppression** | 5/5 |
+| **Improved Corruption** | 5/5 |
+| **Amplify Curse** | 1/1 |
+| **Pandemic** | 3/3 |
+| **Malevolence** | 5/5 |
+| **Nightfall** | 2/2 |
+| **Siphon Life** | 1/1 |
+| **Soul Siphon** | 3/3 |
+| **Shadow Mastery** | 5/5 |
+| **Wrack** | 1/1 |
+| **Improved Shadow Bolt** | 5/5 |
+| **Bane** | 5/5 |
+| **Ruin** | 5/5 |
+| **Agonizing Flames** | 3/3 |
 
-**Pandemic** n'augmente que les dégâts critiques. Avec peu de critique au niveau 30, il rapporte peu et peut attendre. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** inflige peu de dégâts, mais se rentabilise sur les longs combats et compte comme effet d'Affliction pour Soul Siphon.
+### Build de leveling, 41/10/0
 
-Le [build de leveling du Warlock](/fr/leveling/warlock/) de ce site prend une autre route jusqu'au niveau 40, avec Pandemic et Malevolence pour plus de critiques sur vos DoTs. Les deux fonctionnent. Le drain tank échange un peu de dégâts contre moins de pauses.
+Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/warlock/?t=2552032303520135-00050032). Le [build de leveling du Warlock](/fr/leveling/warlock/) donne le talent de chaque niveau.
+
+### Build PvP, 30/21/0
+
+Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/warlock/?t=2252002013421105-0050233201201101).
 
 ## Rotation
 
@@ -107,7 +126,7 @@ La nouvelle commande Move place votre démon où vous voulez. Liez Attack et Fol
 
 ## Stats et équipement
 
-**Dégâts des sorts et dégâts d'ombre** d'abord, puis **Endurance et Esprit**, puis **Intelligence**. L'Endurance donne plus de vie à convertir, l'Esprit plus de mana par Life Tap. Le toucher et le critique sont rares sur l'équipement au niveau 30, et la Hâte ne fait rien pour les DoTs ou les canalisations.
+**Dégâts des sorts et dégâts d'ombre** d'abord, puis **Endurance et Esprit**, puis **Intelligence**. L'Endurance donne plus de vie à convertir, l'Esprit plus de mana par Life Tap. La Hâte ne fait rien pour les DoTs ou les canalisations.
 
 - **Tailoring** a de nouvelles pièces d'ombre liées comme <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253967"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gown</a> et <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_27.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gloves</a>, que seul le tailleur peut porter.
 - **Armes.** La quête de Warlock de l'Orb of Soran'ruk vous fait choisir entre <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> et <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2549"><img class="wf-wh__icon" src="/wh/inv_staff_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of the Shade</a> de Razorfen Kraul est excellent s'il tombe.

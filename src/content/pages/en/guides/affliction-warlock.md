@@ -1,7 +1,7 @@
 ---
 title: "Affliction Warlock guide for WoW Forever"
 metaTitle: "WoW Forever Affliction Warlock: drain tank build, rotation, Life Tap and races"
-description: "The Affliction Warlock in WoW Forever: what changes, the drain tank build for level 30, the rotation, Life Tap and Drain Life, demons, stats, races and professions."
+description: "The Affliction Warlock in WoW Forever: what changes, the drain tank build for level 60, the rotation, Life Tap and Drain Life, demons, stats, races and professions."
 short: "Affliction Warlock"
 updated: 2026-11-07
 lang: en
@@ -18,9 +18,11 @@ faq:
     a: "The Succubus or Incubus deals the most damage and is the default for solo play while you drain tank. Take the Voidwalker for elites and dangerous pulls, and the Felhunter against casters."
   - q: "Which race is best for an Affliction Warlock?"
     a: "Undead for the Horde and Human or Gnome for the Alliance have small advantages, but none is strong enough to skip a race you like more."
-  - q: "Is there a level 60 build yet?"
-    a: "Not yet. Our builds stop at level 30, where the beta ended. Builds for level 60 follow once we can test them in the live game."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/warlock/affliction/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/affliction-warlock/"
 ---
@@ -29,7 +31,7 @@ The Affliction Warlock in WoW Forever puts damage over time on the enemy and dra
 | | |
 |---|---|
 | Role | Damage, the most self-sufficient Warlock spec solo |
-| Build at level 30 | Drain tank, 21 points in Affliction |
+| Build at level 60 | 33/0/18 |
 | Key talents | Improved Corruption, Suppression, Improved Drains, Soul Siphon |
 | Strength | Self-sustain, damage on the move, group utility |
 | Weakness | Slow start, stationary filler, health as a resource |
@@ -53,24 +55,41 @@ The Affliction Warlock in WoW Forever puts damage over time on the enemy and dra
 | DoTs on several targets at once | Every Life Tap costs health |
 | Soulstone, Healthstones and summons | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1949"><img class="wf-wh__icon" src="/wh/spell_fire_incinerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hellfire</a> also burns your own health |
 
-## The drain tank build at level 30
+## Builds for level 60
 
-This build uses 21 points for drain tanking. With 5 points in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225474"><img class="wf-wh__icon" src="/wh/ability_marksmanship.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Talented</a> from the Legacy system you have 26 points at level 30. Then take <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17804"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Soul Siphon</a> to 3/3 first, and two more points in Grim Reach, which replaced Malediction, reach 25 points in Affliction, which opens <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18271"><img class="wf-wh__icon" src="/wh/spell_shadow_shadetruesight.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Mastery</a> for the last point.
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
 
-| Talent | What it does in Forever |
+### Raid build, 33/0/18
+
+33 points in Affliction and 18 in Destruction. [Open the raid build in the talent calculator](/talents/warlock/?t=25500000135201351--0550005003).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/warlock/?t=2550001013520105--0550205103).
+
+| Talent | Points |
 |---|---|
-| **Improved Corruption** | At 5/5 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> becomes instant and deals 10% more damage |
-| **Suppression** | 1% hit and 4% less threat per point. 4 points remove misses against enemies of your level |
-| **Improved Drains** | Drain Life and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1120"><img class="wf-wh__icon" src="/wh/spell_shadow_haunting.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Soul</a> deal 20% more at 3/3 |
-| **Fel Concentration** | Up to 70% chance that damage does not push back your drains |
-| **Improved Life Tap** | 20% more mana from Life Tap at 2/2 |
-| **Amplify Curse** | A stronger Bane of Agony on every cooldown, needed for <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18223"><img class="wf-wh__icon" src="/wh/spell_shadow_grimward.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Exhaustion</a> |
-| **Soul Siphon** | Drains deal 4% more per Affliction effect on the target per point, up to 36% at 3/3 |
-| **Grim Reach** | 10% more range for Affliction spells per point, 20% at 2/2 |
+| **Improved Life Tap** | 2/2 |
+| **Suppression** | 5/5 |
+| **Improved Corruption** | 5/5 |
+| **Amplify Curse** | 1/1 |
+| **Pandemic** | 3/3 |
+| **Malevolence** | 5/5 |
+| **Nightfall** | 2/2 |
+| **Siphon Life** | 1/1 |
+| **Soul Siphon** | 3/3 |
+| **Shadow Mastery** | 5/5 |
+| **Wrack** | 1/1 |
+| **Improved Shadow Bolt** | 5/5 |
+| **Bane** | 5/5 |
+| **Ruin** | 5/5 |
+| **Agonizing Flames** | 3/3 |
 
-**Pandemic** only raises critical strike damage. With little crit at level 30 it adds little, so it can wait. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>** deals little damage, but it pays for itself on long fights and counts as an Affliction effect for Soul Siphon.
+### Leveling build, 41/10/0
 
-The [Warlock level build](/leveling/warlock/) on this site takes another route to level 40, with Pandemic and Malevolence for more crit on your DoTs. Both work. The drain tank gives up some damage for fewer breaks.
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/warlock/?t=2552032303520135-00050032). The [Warlock level build](/leveling/warlock/) gives the talent for every level.
+
+### PvP build, 30/21/0
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/warlock/?t=2252002013421105-0050233201201101).
 
 ## Rotation
 
@@ -106,7 +125,7 @@ The new Move command lets you place your demon anywhere. Bind Attack and Follow 
 
 ## Stats and gear
 
-**Spell damage and Shadow damage** first, then **Stamina and Spirit**, then **Intellect**. Stamina gives more health to tap, Spirit gives more mana per Life Tap. Hit and crit are rare on gear at level 30, and Haste does nothing for DoTs or channels.
+**Spell damage and Shadow damage** first, then **Stamina and Spirit**, then **Intellect**. Stamina gives more health to tap, Spirit gives more mana per Life Tap. Haste does nothing for DoTs or channels.
 
 - **Tailoring** has new soulbound Shadow pieces such as <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253967"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gown</a> and <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_27.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gloves</a>, which only the tailor can wear.
 - **Weapons.** The Warlock quest for the Orb of Soran'ruk lets you choose between <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> and <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2549"><img class="wf-wh__icon" src="/wh/inv_staff_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of the Shade</a> from Razorfen Kraul is excellent if it drops.

@@ -1,7 +1,7 @@
 ---
 title: "Priest levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Priest levelgids: builds voor Discipline, Holy en Shadow tot 30"
-description: "Zo level je een Priest in WoW Forever: drie builds voor level 30 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, beroepen, mana en healen."
+metaTitle: "WoW Forever Priest levelgids: builds voor Discipline, Holy en Shadow tot 60"
+description: "Zo level je een Priest in WoW Forever: builds voor level 60 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, beroepen, mana en healen."
 short: "Priest levelen"
 updated: 2026-11-07
 lang: nl
@@ -19,13 +19,13 @@ faq:
     a: "Op de beta niet: spreuken zoals Renew, Shadow Word: Pain en Devouring Plague passen hun waarde aan terwijl ze lopen, in plaats van de waarde van het moment van casten te houden. Blizzard heeft dat niet aangekondigd."
   - q: "Welk beroeps passen bij een Priest?"
     a: "Tailoring met Enchanting is het klassieke paar: soulbound stoffen gear, wands en olie voor spell power. Cooking loont voor elke class in Forever, want buff food geeft extra ervaring en je hebt het nodig voor een kamp."
-  - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Priest geeft een talent voor elk level tot 60, met een respec op 30 en 40."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. De levelbuild voor de Priest geeft een talent voor elk level tot 60, en elke specgids heeft builds voor raids, levelen en PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
 ---
-De Priest levelt in WoW Forever rustig: heal jezelf, schild jezelf en laat schade over tijd en een wand het werk doen. Op level 30 kies je tussen Discipline, Holy en Shadow. Deze gids behandelt de drie builds, de rotatie, de belangrijke levels, racial spells, wands en beroepen.
+De Priest levelt in WoW Forever rustig: heal jezelf, schild jezelf en laat schade over tijd en een wand het werk doen. Je kiest tussen Discipline, Holy en Shadow. Deze gids behandelt de drie builds, de rotatie, de belangrijke levels, racial spells, wands en beroepen.
 
 | | |
 |---|---|
@@ -35,16 +35,13 @@ De Priest levelt in WoW Forever rustig: heal jezelf, schild jezelf en laat schad
 | Zwak in | Trage kills in het begin, mana, weinig crowd control |
 | Talent per level | [Levelbuild voor de Priest](/nl/leveling/priest/) |
 | Gidsen per spec | [Shadow Priest](/nl/guides/shadow-priest/), [Holy Priest](/nl/guides/holy-priest/), [Discipline Priest](/nl/guides/discipline-priest/) |
-| Builds tot level 60 | In de gidsen per spec, met de talenten van de betabuild van 15 oktober |
+| Builds tot level 60 | In de gidsen per spec |
 
 ## Met welke spec levelen
 
 De eerste 20 tot 30 levels verschillen nauwelijks. Je begint met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=585"><img class="wf-wh__icon" src="/wh/spell_holy_holysmite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Smite</a>, haalt zo snel mogelijk een wand en houdt daarna je leven op peil met heals en schilden terwijl de wand doodt. Rond level 30 splitst de weg.
 
 **Discipline** houdt die rustige stijl en voegt op 30 Penance toe, voor schade of een snelle heal. **Shadow** doodt sneller met Mind Flay en Mind Blast, maar komt pas rond level 28 tot zijn recht, tenzij je behoorlijk wat spell power hebt. **Holy** is voor wie een groot deel van het levelen dungeons healt. Alleen levelen als Holy gaat traag.
-
-De builds hieronder zijn gemaakt op de beta, die stopte op level 30. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
-
 ## Level 1 tot 10
 
 Je hebt nog geen talenten. Smite en Lesser Heal zijn je spreuken tot je een wand hebt.
@@ -58,69 +55,11 @@ Stats voor elke build op deze levels: eerst Intellect en spell damage, dan Stami
 
 Mental Strength staat nu in rij 2, waar het Intellect verhoogt, en Improved Power Word: Shield in rij 3. Shadow krijgt Dark Inspiration, verliest Improved Fade en Shadow Infinity, en Improved Mind Blast gaat naar rij 2. De builds hieronder en de talentcalculator volgen de huidige bomen. Alle wijzigingen staan in [deze post](/nl/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
-## Discipline-build voor level 30
+## Talentbuilds
 
-Dezelfde wandstijl als ervoor, met zo weinig mogelijk pauzes. [Open de build in de talentcalculator](/nl/talents/priest/?t=024015011330001).
+De [levelbuild voor de Priest](/nl/leveling/priest/) geeft het talent voor elk level van 10 tot 60. [Open het eindresultaat in de talentcalculator](/nl/talents/priest/?t=00500520103--50542201201302251).
 
-| Talent | Punten |
-|---|---|
-| **Wand Specialization** | 2/2 |
-| **Twin Disciplines** | 4/5 |
-| **Holy Precision** | 1/3 |
-| **Improved Power Word: Shield** | 3/3 |
-| **Mental Agility** | 1/3 |
-| **Inner Focus** | 1/1 |
-| **Meditation** | 3/3 |
-| **Mental Strength** | 5/5 |
-| **Penance** | 1/1 |
-
-1. Houd Power Word: Shield op als je mana het toelaat, zodat schade je casts niet vertraagt.
-2. Open met Smite.
-3. Cast Shadow Word: Pain als je mana het toelaat.
-4. Vanaf level 30: cast Penance zodra hij klaar is, voor schade of om jezelf te healen.
-5. Maak het af met je wand, of laat Shadow Word: Pain het doen.
-
-## Holy-build voor level 30
-
-Voor wie veel dungeons wil healen en geen Discipline wil. [Open de build in de talentcalculator](/nl/talents/priest/?t=-2050510303011).
-
-| Talent | Punten |
-|---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14913"><img class="wf-wh__icon" src="/wh/spell_holy_healingfocus.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Twilight Focus</a>** | 2/3 |
-| **Holy Specialization** | 5/5 |
-| **Divine Fury** | 5/5 |
-| **Holy Nova** | 1/1 |
-| **Inspiration** | 3/3 |
-| **Improved Healing** | 3/3 |
-| **Holy Binding** | 1/1 |
-| **Litany of Light** | 1/2 |
-
-Alleen is de rotatie dezelfde als voor Discipline zonder Penance: Power Word: Shield, Smite, Shadow Word: Pain en je wand.
-
-## Shadow-build voor level 30
-
-Voor wie liever schade doet, niet wil healen en niet tot 40 wil wachten op Shadowform. [Open de build in de talentcalculator](/nl/talents/priest/?t=--305420012013).
-
-| Talent | Punten |
-|---|---|
-| **Shadow Focus** | 3/5 |
-| **Spirit Tap** | 5/5 |
-| **Improved Shadow Word: Pain** | 2/2 |
-| **Improved Mind Blast** | 4/5 |
-| **Mind Flay** | 1/1 |
-| **Improved Mind Flay** | 2/2 |
-| **Vampiric Embrace** | 1/1 |
-| **Shadow Weaving** | 3/3 |
-
-1. Vanaf level 20: cast Mind Flay op het doelwit tot het bij je is.
-2. Houd Shadow Word: Pain op.
-3. Cast Mind Blast zodra hij klaar is.
-4. Vanaf level 20: cast Devouring Plague zodra hij klaar is en je mana het toelaat; hij healt je ook.
-5. Maak het af met je wand, of laat je schade over tijd het doen.
-
-Voor Shadow telt shadow power mee naast Intellect en spell damage. Met punten in Talented uit het Legacy-systeem bereik je elk talent tot vijf levels eerder.
-
-![De drie talentbomen van de Priest in World of Warcraft: Forever: Discipline, Holy en Shadow Magic](../../../../assets/posts/2026-10-01-wow-forever-priest-talent-trees.jpg)
+Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: [Discipline](/nl/guides/discipline-priest/), [Holy](/nl/guides/holy-priest/) en [Shadow](/nl/guides/shadow-priest/).
 
 ## Belangrijke levels
 

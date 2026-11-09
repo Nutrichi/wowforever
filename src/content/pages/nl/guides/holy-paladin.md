@@ -1,7 +1,7 @@
 ---
 title: "Holy Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Holy Paladin: healbuild, spells en mana"
-description: "De Holy Paladin in WoW Forever: de healbuild voor level 30 en de Talented-versie, Holy Shock en Light's Vigil, de healprioriteit, mana, seals, stats en races."
+description: "De Holy Paladin in WoW Forever: de healbuild voor level 60, Holy Shock en Light's Vigil, de healprioriteit, mana, seals, stats en races."
 short: "Holy Paladin"
 updated: 2026-11-07
 lang: nl
@@ -19,18 +19,20 @@ faq:
     a: "Eerst healing power en spell power, dan Intellect voor mana en critical strike chance, dan critical strike chance voor grotere heals en Illumination. Met Reverence regenereert Spirit mana terwijl je cast, dus ook Spirit telt."
   - q: "Welk ras is het beste voor een Holy Paladin?"
     a: "Human voor de Alliance, voor de extra critical strike chance. Dwarf heeft Stoneform als defensieve cooldown. Paladins van de Horde zijn altijd Undead."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
 ---
-De Holy Paladin in WoW Forever is de eenvoudigste healer van het spel. Je cast heals met een casttijd, heelt voor grote getallen en leeft van critical strikes, die je via Illumination mana teruggeven. Je hebt geen healing over time en geen schilden: je heelt wat gewond is. Deze gids behandelt de build voor level 30, Holy Shock en Light's Vigil, de healprioriteit, mana, seals, stats en races.
+De Holy Paladin in WoW Forever is de eenvoudigste healer van het spel. Je cast heals met een casttijd, heelt voor grote getallen en leeft van critical strikes, die je via Illumination mana teruggeven. Je hebt geen healing over time en geen schilden: je heelt wat gewond is. Deze gids behandelt de build voor level 60, Holy Shock en Light's Vigil, de healprioriteit, mana, seals, stats en races.
 
 | | |
 |---|---|
 | Rol | Healer, vooral op één doelwit |
-| Build op level 30 | 21 punten in Holy, Talented voegt Purifying Power, Boundless Light en Holy Power toe |
+| Build op level 60 | 31/7/13 |
 | Belangrijkste talenten | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Sterk in | Grote heals, utility voor de groep, heel moeilijk te doden |
 | Zwak in | Vooral reactief, maar één groepsheal |
@@ -46,26 +48,45 @@ De Holy Paladin in WoW Forever is de eenvoudigste healer van het spel. Je cast h
 
 **Eén groepsheal.** Light's Vigil is je enige manier om de hele party te helen, en hij is duur.
 
-## De build voor level 30
+## Builds voor level 60
 
-De beta stopte op level 30, dus de build gebruikt 21 punten. Talented uit het Legacy-systeem voegt er 5 aan toe. [Open de build in de talentcalculator](/nl/talents/paladin/?t=50320015022001).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 31/7/13
+
+31 punten in Holy, 7 in Protection en 13 in Retribution. [Open de raidbuild in de talentcalculator](/nl/talents/paladin/?t=50320115022101251-50002-050330002).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/paladin/?t=50320015222121251-5-052300002).
 
 | Talent | Punten |
 |---|---|
 | **Spiritual Focus** | 5/5 |
 | **Healing Light** | 3/3 |
 | **Reverence** | 2/2 |
+| **Purifying Power** | 1/2 |
 | **Divine Favor** | 1/1 |
 | **Illumination** | 5/5 |
 | **Divine Precision** | 2/2 |
 | **Infusion of Light** | 2/2 |
+| **Oath of Light** | 1/1 |
 | **Holy Shock** | 1/1 |
+| **Boundless Light** | 2/2 |
+| **Holy Power** | 5/5 |
+| **Light's Vigil** | 1/1 |
+| **Divine Intellect** | 5/5 |
+| **Sacred Duty** | 2/2 |
+| **Benediction** | 5/5 |
+| **Conviction** | 3/3 |
+| **Sanctified Judgement** | 3/3 |
+| **Pursuit of Justice** | 2/2 |
 
-[Open de Talented-versie](/nl/talents/paladin/?t=5032021502200121) met Purifying Power 2/2, Boundless Light 2/2 en Holy Power 1/5.
+### Levelbuild, 0/31/20
 
-![De Talented-build van de Holy Paladin in onze talentcalculator](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/paladin/?t=-55300102113001531-05233301201). De [levelbuild voor de Paladin](/nl/leveling/paladin/) geeft het talent voor elk level.
 
-Holy Shock zit in de vijfde rij en vraagt 20 punten erboven. Met 21 punten is er dus plaats voor precies de acht talenten hierboven. De Talented-versie is de volledige build van 26 punten.
+### PvP-build, 32/7/12
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/paladin/?t=50320215022101251-5002-052300002).
 
 ## Wat de belangrijkste talenten doen
 
@@ -83,7 +104,7 @@ Holy Shock zit in de vijfde rij en vraagt 20 punten erboven. Met 21 punten is er
 | **Holy Power** | 15% meer critical strike chance voor Holy Shock en Holy Strike, 5% voor alle andere spells |
 | **Light's Vigil** | Je volgende Holy Shock op het doelwit heeft geen cooldown en heelt zijn hele party |
 
-Light's Vigil zit in de zevende rij, buiten bereik op level 30. Spiritual Focus werkt het best samen met Concentration Aura. Divine Favor en Illumination versterken elkaar: een zekere kritieke heal geeft ook mana terug.
+Light's Vigil zit in de zevende rij. Spiritual Focus werkt het best samen met Concentration Aura. Divine Favor en Illumination versterken elkaar: een zekere kritieke heal geeft ook mana terug.
 
 ## Healprioriteit
 

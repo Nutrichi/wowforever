@@ -59,22 +59,44 @@ The Restoration Druid in WoW Forever is still a healer who works ahead of the da
 | The best mobility of any healer | No Magic or Disease dispel |
 | Raid debuffs | |
 
-## The standard build
+## Builds for level 60
 
-Most Restoration Druids will run a build close to this one in almost every situation, according to a survey among players of the spec. Open it in the [talent calculator](/talents/druid/?t=05102201--5553005123113051): 11 points in Balance, 0 in Feral Combat and 40 in Restoration, 51 points in total for level 60.
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
 
-![The talent trees of the Druid with 11 points in Balance, 0 in Feral Combat and 40 in Restoration, the standard build for a Restoration Druid, in the talent calculator of wowforever.be](../../../../assets/posts/2026-10-09-wow-forever-restoration-druid-build.jpg)
+### Raid build, 21/0/30
 
-| Tree | Talents |
+21 points in Balance and 30 in Restoration. [Open the raid build in the talent calculator](/talents/druid/?t=5530203110001--055300510311105).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/druid/?t=503222011550135--05530011001).
+
+| Talent | Points |
 |---|---|
-| **Balance (11)** | Genesis 5, Moonglow 1, Nature's Majesty 2, Nature's Reach 2, Nature's Splendor 1 |
-| **Restoration (40)** | Nature's Focus 5, Heart of the Wild 5, Naturalist 5, Reflection 3, Gift of Nature 5, Bloom 1, Tranquil Spirit 2, Improved Rejuvenation 3, Swiftmend 1, Nature's Swiftness 1, Living Spirit 3, Improved Regrowth 5, Wild Growth 1 |
+| **Improved Wrath** | 5/5 |
+| **Genesis** | 5/5 |
+| **Moonglow** | 3/3 |
+| **Nature's Majesty** | 2/2 |
+| **Improved Entangling Roots** | 3/3 |
+| **Nature's Splendor** | 1/1 |
+| **Insect Swarm** | 1/1 |
+| **Nature's Grace** | 1/1 |
+| **Heart of the Wild** | 5/5 |
+| **Naturalist** | 5/5 |
+| **Reflection** | 3/3 |
+| **Gift of Nature** | 5/5 |
+| **Bloom** | 1/1 |
+| **Improved Rejuvenation** | 3/3 |
+| **Swiftmend** | 1/1 |
+| **Nature's Swiftness** | 1/1 |
+| **Living Spirit** | 1/3 |
+| **Improved Regrowth** | 5/5 |
 
-**Improved Regrowth** is now one of the talents with the most value per point.
+### Leveling build, 9/32/10
 
-**<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24968"><img class="wf-wh__icon" src="/wh/spell_holy_elunesgrace.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquil Spirit</a>** lost value together with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5185"><img class="wf-wh__icon" src="/wh/spell_nature_healingtouch.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Healing Touch</a>: the stronger Regrowth and the penalties for lower ranks make Healing Touch less attractive. **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17123"><img class="wf-wh__icon" src="/wh/spell_nature_tranquility.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Tranquility</a>** is a small buff to a button that was already weak, and will hardly be used.
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/druid/?t=050022-55200002123012125001-055). The [Druid level build](/leveling/druid/) gives the talent for every level.
 
-**Balance** is free to fill in. What matters is Nature's Splendor at the eleventh point, which makes Moonfire, Rejuvenation and Regrowth last longer. Some players take the improvements to <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5176"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrath</a> together with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>, for more damage and more chances at Omen of Clarity.
+### PvP build, 16/11/24
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/druid/?t=500222311-052021001-555330010011).
 
 ## Dual Specialization and other builds
 

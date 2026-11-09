@@ -1,7 +1,7 @@
 ---
 title: "Protection Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Protection Warrior: tankbuild, threat en Rage"
-description: "De Protection Warrior in WoW Forever: de tankbuild voor level 30 met Master of Defense, Defiance en Vanguard, de threat-rotatie, debuffs, Rage, stats en races."
+description: "De Protection Warrior in WoW Forever: de tankbuild voor level 60 met Master of Defense, Defiance en Vanguard, de threat-rotatie, debuffs, Rage, stats en races."
 short: "Protection Warrior"
 updated: 2026-11-07
 lang: nl
@@ -17,18 +17,20 @@ faq:
     a: "Protection haalt veel van zijn Rage uit geraakt worden. Tegen casters, of als iemand anders tankt, krijg je weinig. Improved Thunder Clap, Improved Sunder Armor en Focused Rage verlagen later je kosten."
   - q: "Welk ras is het beste voor een Protection Warrior?"
     a: "Night Elf of Dwarf voor de Alliance, voor extra dodge of Stoneform. Tauren voor de Horde, voor de meeste health, of Orc voor Blood Fury en zijn cooldown tegen magische schade. Elk ras werkt."
-  - q: "Is er al een build voor level 60?"
-    a: "Nog niet. Onze builds stoppen op level 30, waar de beta eindigde. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/protection/talent-builds-pve-tank"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/protection-warrior/"
 ---
-De Protection Warrior in WoW Forever is de klassieke ridder: zware armor, een groot shield en geen magie, alleen kreten, stampen en klappen. Nieuwe talenten geven Rage bij elke block, dodge en parry, en Vanguard laat je chargen in Defensive Stance. Deze gids behandelt de build voor level 30, de threat-rotatie, debuffs, Rage, stats, gear en races.
+De Protection Warrior in WoW Forever is de klassieke ridder: zware armor, een groot shield en geen magie, alleen kreten, stampen en klappen. Nieuwe talenten geven Rage bij elke block, dodge en parry, en Vanguard laat je chargen in Defensive Stance. Deze gids behandelt de build voor level 60, de threat-rotatie, debuffs, Rage, stats, gear en races.
 
 | | |
 |---|---|
 | Rol | Tank met een shield |
-| Build op level 30 | 26 punten in Protection, met de 5 extra punten van Talented |
+| Build op level 60 | 4/15/32 |
 | Belangrijkste talenten | Shield Specialization, Anticipation, Master of Defense, Defiance, Last Stand, Vanguard |
 | Sterk in | Sterke defensieve cooldowns, veel controle over het gevecht |
 | Zwak in | Weinig te doen als je niet tankt, heeft Rage nodig |
@@ -56,13 +58,22 @@ De Protection Warrior in WoW Forever is de klassieke ridder: zware armor, een gr
 
 Omdat Protection zo weinig doet buiten het tanken, spelen veel Warriors een schade-spec met Dual Specialization, of nemen ze vast de rol van main tank op zich.
 
-## De build voor level 30
+## Builds voor level 60
 
-Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van Talented uit het Legacy-systeem. Zonder Talented stop je bij 21 punten; de [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft de volgorde per level. [Open de build in de talentcalculator](/nl/talents/warrior/?t=--2505301203010013).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 4/15/32
+
+4 punten in Arms, 15 in Fury en 32 in Protection. [Open de raidbuild in de talentcalculator](/nl/talents/warrior/?t=04-05050005-050530120301021351).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/warrior/?t=04-05050005-050233120301021351).
 
 | Talent | Punten |
 |---|---|
-| **Improved Bloodrage** | 2/2 |
+| **Deflection** | 4/5 |
+| **Cruelty** | 5/5 |
+| **Unbridled Wrath** | 5/5 |
+| **Enrage** | 5/5 |
 | **Shield Specialization** | 5/5 |
 | **Anticipation** | 5/5 |
 | **Improved Revenge** | 3/3 |
@@ -70,12 +81,19 @@ Deze build gebruikt 26 punten: de 21 punten van level 30 plus 5 van Talented uit
 | **Master of Defense** | 2/2 |
 | **Defiance** | 3/3 |
 | **Vanguard** | 1/1 |
+| **Improved Shield Wall** | 2/2 |
 | **Concussion Blow** | 1/1 |
 | **Focused Rage** | 3/3 |
+| **Bastion** | 5/5 |
+| **Shield Slam** | 1/1 |
 
-![De Protection Warrior-build voor level 30 in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-protection-warrior-build.jpg)
+### Levelbuild, 13/6/32
 
-Na level 30 komen Bastion, Improved Shield Wall, Improved Thunder Clap, Improved Sunder Armor en Shield Slam onderaan de boom.
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/warrior/?t=2502301-0501-250033020331001351). De [levelbuild voor de Warrior](/nl/leveling/warrior/) geeft het talent voor elk level.
+
+### PvP-build, 0/19/32
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/warrior/?t=-05050135-055030123001201351).
 
 ## Wat de belangrijkste talenten doen
 
@@ -89,7 +107,7 @@ Na level 30 komen Bastion, Improved Shield Wall, Improved Thunder Clap, Improved
 | **Last Stand** | 30% extra maximale health voor 20 seconden |
 | **Vanguard** | Open elke pull met Charge, zonder Defensive Stance te verlaten |
 | **Focused Rage** | 3 Rage minder voor je offensieve aanvallen |
-| **Shield Slam** | Een sterke instant aanval die ook kan dispellen. Na level 30 |
+| **Shield Slam** | Een sterke instant aanval die ook kan dispellen |
 
 ## Rotatie
 

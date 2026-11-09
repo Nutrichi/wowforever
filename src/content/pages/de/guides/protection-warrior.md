@@ -1,7 +1,7 @@
 ---
 title: "Protection-Warrior-Guide für WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: Tank-Build, Bedrohung und Rage"
-description: "Der Protection Warrior in WoW Forever: der Tank-Build für Level 30 mit Master of Defense, Defiance und Vanguard, die Bedrohungsrotation, Schwächungen, Rage, Werte und Völker."
+description: "Der Protection Warrior in WoW Forever: der Tank-Build für Level 60 mit Master of Defense, Defiance und Vanguard, die Bedrohungsrotation, Schwächungen, Rage, Werte und Völker."
 short: "Protection Warrior"
 updated: 2026-11-07
 lang: de
@@ -17,18 +17,20 @@ faq:
     a: "Protection holt viel Rage aus erlittenen Treffern. Gegen Zauberer, oder wenn jemand anderes tankt, bekommst du wenig. Improved Thunder Clap, Improved Sunder Armor und Focused Rage senken später deine Kosten."
   - q: "Welches Volk ist das beste für einen Protection Warrior?"
     a: "Night Elf oder Dwarf für die Allianz, für zusätzliches Ausweichen oder Stoneform. Tauren für die Horde, für die meiste Gesundheit, oder Orc für Blood Fury und die Abklingzeit gegen Magieschaden. Jedes Volk funktioniert."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/protection/talent-builds-pve-tank"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/protection-warrior/"
 ---
-Der Protection Warrior in WoW Forever ist der klassische Ritter: schwere Rüstung, ein großer Schild und keine Magie, nur Rufe, Stampfer und Schläge. Neue Talente geben Rage bei jedem Block, Ausweichen und Parieren, und Vanguard lässt dich in Defensive Stance chargen. Dieser Guide behandelt den Build für Level 30, die Bedrohungsrotation, Schwächungen, Rage, Werte, Ausrüstung und Völker.
+Der Protection Warrior in WoW Forever ist der klassische Ritter: schwere Rüstung, ein großer Schild und keine Magie, nur Rufe, Stampfer und Schläge. Neue Talente geben Rage bei jedem Block, Ausweichen und Parieren, und Vanguard lässt dich in Defensive Stance chargen. Dieser Guide behandelt den Build für Level 60, die Bedrohungsrotation, Schwächungen, Rage, Werte, Ausrüstung und Völker.
 
 | | |
 |---|---|
 | Rolle | Tank mit Schild |
-| Build auf Level 30 | 26 Punkte in Protection, mit den 5 zusätzlichen Punkten von Talented |
+| Build auf Level 60 | 4/15/32 |
 | Wichtige Talente | Shield Specialization, Anticipation, Master of Defense, Defiance, Last Stand, Vanguard |
 | Stärke | Starke defensive Abklingzeiten, viel Kontrolle über den Kampf |
 | Schwäche | Wenig zu tun, wenn du nicht tankst, braucht Rage |
@@ -56,13 +58,22 @@ Der Protection Warrior in WoW Forever ist der klassische Ritter: schwere Rüstun
 
 Weil Protection außerhalb des Tankens so wenig macht, spielen viele Warriors eine Schadensspezialisierung mit Dual Specialization oder übernehmen dauerhaft die Rolle des Haupttanks.
 
-## Der Build für Level 30
+## Builds für Level 60
 
-Dieser Build nutzt 26 Punkte: die 21 Punkte von Level 30 plus 5 von Talented aus dem Legacy-System. Ohne Talented hörst du bei 21 Punkten auf; der [Level-Build für den Warrior](/de/leveling/warrior/) gibt die Reihenfolge pro Level. [Öffne den Build im Talentrechner](/de/talents/warrior/?t=--2505301203010013).
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 4/15/32
+
+4 Punkte in Arms, 15 in Fury und 32 in Protection. [Raid-Build im Talentrechner öffnen](/de/talents/warrior/?t=04-05050005-050530120301021351).
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/warrior/?t=04-05050005-050233120301021351).
 
 | Talent | Punkte |
 |---|---|
-| **Improved Bloodrage** | 2/2 |
+| **Deflection** | 4/5 |
+| **Cruelty** | 5/5 |
+| **Unbridled Wrath** | 5/5 |
+| **Enrage** | 5/5 |
 | **Shield Specialization** | 5/5 |
 | **Anticipation** | 5/5 |
 | **Improved Revenge** | 3/3 |
@@ -70,12 +81,19 @@ Dieser Build nutzt 26 Punkte: die 21 Punkte von Level 30 plus 5 von Talented aus
 | **Master of Defense** | 2/2 |
 | **Defiance** | 3/3 |
 | **Vanguard** | 1/1 |
+| **Improved Shield Wall** | 2/2 |
 | **Concussion Blow** | 1/1 |
 | **Focused Rage** | 3/3 |
+| **Bastion** | 5/5 |
+| **Shield Slam** | 1/1 |
 
-![Der Protection-Warrior-Build für Level 30 in unserem Talentrechner](../../../../assets/posts/2026-10-21-wow-forever-protection-warrior-build.jpg)
+### Leveling-Build, 13/6/32
 
-Nach Level 30 kommen Bastion, Improved Shield Wall, Improved Thunder Clap, Improved Sunder Armor und Shield Slam unten im Baum.
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/warrior/?t=2502301-0501-250033020331001351). Der [Level-Build für den Warrior](/de/leveling/warrior/) gibt das Talent für jedes Level.
+
+### PvP-Build, 0/19/32
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/warrior/?t=-05050135-055030123001201351).
 
 ## Was die wichtigsten Talente tun
 
@@ -89,7 +107,7 @@ Nach Level 30 kommen Bastion, Improved Shield Wall, Improved Thunder Clap, Impro
 | **Last Stand** | 30 % zusätzliche maximale Gesundheit für 20 Sekunden |
 | **Vanguard** | Eröffne jeden Pull mit Charge, ohne Defensive Stance zu verlassen |
 | **Focused Rage** | 3 Rage weniger für deine offensiven Fähigkeiten |
-| **Shield Slam** | Ein starker Sofortangriff, der auch bannen kann. Nach Level 30 |
+| **Shield Slam** | Ein starker Sofortangriff, der auch bannen kann |
 
 ## Rotation
 

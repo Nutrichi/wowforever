@@ -1,7 +1,7 @@
 ---
 title: "Holy Paladin dans WoW Forever : le guide"
 metaTitle: "WoW Forever Holy Paladin : build de soins, sorts et mana"
-description: "Le Holy Paladin dans WoW Forever : le build de soins niveau 30 et sa version Talented, Holy Shock et Light's Vigil, la priorité de soins, le mana, les sceaux, les stats et les races."
+description: "Le Holy Paladin dans WoW Forever : le build de soins niveau 60, Holy Shock et Light's Vigil, la priorité de soins, le mana, les sceaux, les stats et les races."
 short: "Holy Paladin"
 updated: 2026-11-07
 lang: fr
@@ -19,18 +19,20 @@ faq:
     a: "D'abord la puissance des soins et des sorts, puis l'Intelligence pour le mana et le critique, puis les chances de coup critique pour de plus gros soins et Illumination. Reverence permet à l'Esprit de régénérer du mana pendant l'incantation, donc l'Esprit compte aussi."
   - q: "Quelle race choisir pour un Holy Paladin ?"
     a: "Human pour l'Alliance, pour les chances de coup critique en plus. Dwarf a Stoneform comme temps de recharge défensif. Les Paladins de la Horde sont toujours Undead."
-  - q: "Existe-t-il déjà un build niveau 60 ?"
-    a: "Pas encore. Nos builds s’arrêtent au niveau 30, là où la bêta s’arrêtait. Les builds du niveau 60 suivront dès que nous pourrons les tester dans le jeu live."
+  - q: "Existe-t-il un build pour le niveau 60 ?"
+    a: "Oui. Ce guide propose trois builds pour le niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chacun s’ouvre dans notre calculateur de talents."
 sources:
+  - name: "Wowhead, builds de talents"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/holy-paladin/"
 ---
-Le Holy Paladin de WoW Forever est le soigneur le plus simple du jeu. Vous lancez des soins avec temps d'incantation, soignez pour de gros chiffres et vivez des coups critiques, qui vous rendent du mana grâce à Illumination. Pas de soins sur la durée, pas de boucliers : vous soignez ce qui est blessé. Ce guide couvre le build niveau 30, Holy Shock et Light's Vigil, la priorité de soins, le mana, les sceaux, les stats et les races.
+Le Holy Paladin de WoW Forever est le soigneur le plus simple du jeu. Vous lancez des soins avec temps d'incantation, soignez pour de gros chiffres et vivez des coups critiques, qui vous rendent du mana grâce à Illumination. Pas de soins sur la durée, pas de boucliers : vous soignez ce qui est blessé. Ce guide couvre le build niveau 60, Holy Shock et Light's Vigil, la priorité de soins, le mana, les sceaux, les stats et les races.
 
 | | |
 |---|---|
 | Rôle | Soigneur, surtout mono-cible |
-| Build niveau 30 | 21 points en Holy, Talented ajoute Purifying Power, Boundless Light et Holy Power |
+| Build niveau 60 | 31/7/13 |
 | Talents clés | Reverence, Illumination, Divine Favor, Holy Shock, Light's Vigil |
 | Points forts | Gros soins, utilité de groupe, très difficile à tuer |
 | Points faibles | Surtout réactif, un seul soin de groupe |
@@ -46,26 +48,45 @@ Le Holy Paladin de WoW Forever est le soigneur le plus simple du jeu. Vous lance
 
 **Un seul soin de groupe.** Light's Vigil est votre seule façon de soigner tout le groupe, et il coûte cher.
 
-## Le build niveau 30
+## Les builds pour le niveau 60
 
-La bêta s'est arrêtée au niveau 30, le build utilise donc 21 points. Talented, du système Legacy, en ajoute 5. [Ouvrir le build dans le calculateur de talents](/fr/talents/paladin/?t=50320015022001).
+Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chaque build s’ouvre dans notre calculateur de talents.
+
+### Build de raid, 31/7/13
+
+31 points en Holy, 7 en Protection et 13 en Retribution. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/paladin/?t=50320115022101251-50002-050330002).
+
+Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/paladin/?t=50320015222121251-5-052300002).
 
 | Talent | Points |
 |---|---|
 | **Spiritual Focus** | 5/5 |
 | **Healing Light** | 3/3 |
 | **Reverence** | 2/2 |
+| **Purifying Power** | 1/2 |
 | **Divine Favor** | 1/1 |
 | **Illumination** | 5/5 |
 | **Divine Precision** | 2/2 |
 | **Infusion of Light** | 2/2 |
+| **Oath of Light** | 1/1 |
 | **Holy Shock** | 1/1 |
+| **Boundless Light** | 2/2 |
+| **Holy Power** | 5/5 |
+| **Light's Vigil** | 1/1 |
+| **Divine Intellect** | 5/5 |
+| **Sacred Duty** | 2/2 |
+| **Benediction** | 5/5 |
+| **Conviction** | 3/3 |
+| **Sanctified Judgement** | 3/3 |
+| **Pursuit of Justice** | 2/2 |
 
-[Ouvrir la version Talented](/fr/talents/paladin/?t=5032021502200121) avec Purifying Power 2/2, Boundless Light 2/2 et Holy Power 1/5.
+### Build de leveling, 0/31/20
 
-![Le build Talented du Holy Paladin dans notre calculateur de talents](../../../../assets/posts/2026-10-24-wow-forever-holy-paladin-build.jpg)
+Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/paladin/?t=-55300102113001531-05233301201). Le [build de leveling du Paladin](/fr/leveling/paladin/) donne le talent de chaque niveau.
 
-Holy Shock est au cinquième rang et demande 20 points au-dessus. Avec 21 points, il reste donc la place pour exactement les huit talents ci-dessus. La version Talented est le build complet de 26 points.
+### Build PvP, 32/7/12
+
+Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/paladin/?t=50320215022101251-5002-052300002).
 
 ## Ce que font les talents clés
 
@@ -83,7 +104,7 @@ Holy Shock est au cinquième rang et demande 20 points au-dessus. Avec 21 points
 | **Holy Power** | 15 % de chances de critique en plus pour Holy Shock et Holy Strike, 5 % pour tous les autres sorts |
 | **Light's Vigil** | Votre prochain Holy Shock sur la cible n'a pas de temps de recharge et soigne tout son groupe |
 
-Light's Vigil est au septième rang, hors de portée au niveau 30. Spiritual Focus marche le mieux avec Concentration Aura. Divine Favor et Illumination vont ensemble : un soin critique garanti rend aussi du mana.
+Light's Vigil est au septième rang. Spiritual Focus marche le mieux avec Concentration Aura. Divine Favor et Illumination vont ensemble : un soin critique garanti rend aussi du mana.
 
 ## Priorité de soins
 

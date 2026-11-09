@@ -1,7 +1,7 @@
 ---
 title: "Paladin levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Paladin levelgids: builds voor Retribution, Protection en Shockadin tot 30"
-description: "Zo level je een Paladin in WoW Forever: de eerste build, drie builds voor level 30 voor Retribution, Protection en Shockadin, de rotatie, de belangrijke levels, de classquests en hun wapens, seals, auras en blessings."
+metaTitle: "WoW Forever Paladin levelgids: builds voor Retribution, Protection en Shockadin tot 60"
+description: "Zo level je een Paladin in WoW Forever: de eerste build, builds voor level 60 voor Retribution, Protection en Shockadin, de rotatie, de belangrijke levels, de classquests en hun wapens, seals, auras en blessings."
 short: "Paladin levelen"
 updated: 2026-11-07
 lang: nl
@@ -19,13 +19,13 @@ faq:
     a: "Seal of Command is een Retribution-talent in de derde rij, dus je kan het op level 20 nemen. Daarvoor, en met een eenhandig wapen, gebruik je Seal of Righteousness."
   - q: "Welk beroeps passen bij een Paladin?"
     a: "Blacksmithing met Mining. Blacksmithing maakt soulbound gear met stats die je elders zelden vindt, zoals spell power voor plate. Cooking is voor elke class een must, voor de experiencebuff en je eigen kampvuur."
-  - q: "Is er al een build voor level 60?"
-    a: "Niet in deze gids: de builds stoppen op level 30, waar de beta eindigde. Onze levelbuild voor de Paladin geeft een talent voor elk level tot 35."
+  - q: "Is er een build voor level 60?"
+    a: "Ja. De levelbuild voor de Paladin geeft een talent voor elk level tot 60, en elke specgids heeft builds voor raids, levelen en PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/paladin-leveling/"
 ---
-De Paladin levelt traag maar veilig. Je healt jezelf, je hebt een schild tegen bijna elke fout, en in Forever druk je meer dan auto attack: Judgement en Holy Strike gaan eruit telkens ze klaar zijn. Op level 30 kies je tussen Retribution, Protection en een Holy-build die schade doet met Holy Shock. Deze gids behandelt de builds, de rotatie, de belangrijke levels, de classquests en de seals, auras en blessings.
+De Paladin levelt traag maar veilig. Je healt jezelf, je hebt een schild tegen bijna elke fout, en in Forever druk je meer dan auto attack: Judgement en Holy Strike gaan eruit telkens ze klaar zijn. Je kiest tussen Retribution, Protection en een Holy-build die schade doet met Holy Shock. Deze gids behandelt de builds, de rotatie, de belangrijke levels, de classquests en de seals, auras en blessings.
 
 | | |
 |---|---|
@@ -35,16 +35,13 @@ De Paladin levelt traag maar veilig. Je healt jezelf, je hebt een schild tegen b
 | Zwak in | Doodt één monster tegelijk, mana tussen pulls, weinig om mee te vluchten |
 | Talent per level | [Levelbuild voor de Paladin](/nl/leveling/paladin/) |
 | Gidsen per spec | [Retribution Paladin](/nl/guides/retribution-paladin/), [Holy Paladin](/nl/guides/holy-paladin/) |
-| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/paladin/) gaat tot 35 |
+| Builds tot level 60 | Ja, de [levelbuild](/nl/leveling/paladin/) gaat tot 60 |
 
 ## Met welke spec levelen
 
 Je kan met alle drie levelen. **Retribution** is de klassieke keuze: een groot tweehandig wapen, Seal of Command en zware klappen. **Protection** is even snel als je graag vier monsters verzamelt en ze wegbrandt met Consecration, terwijl je amper health verliest. **Holy** doet weinig schade tot het Holy Shock heeft, maar speelt dan grotendeels zoals Protection, met meer spell power en meer healing.
 
 Zet je punten de eerste 20 tot 30 levels in Retribution, ook als je later met een schild dungeons wil tanken. De meeste schade komt in elke spec van dezelfde drie knoppen: een seal, Judgement en Holy Strike.
-
-De builds hieronder zijn gemaakt op de beta, die stopte op level 30. Elke build heeft 26 punten: die heb je op level 30 met vijf extra punten van Talented uit het Legacy-systeem, of op level 35 zonder. De talentcalculator toont zo'n build als level 35, omdat hij elk punt als een level telt. Builds voor level 60 volgen zodra we ze in het live spel kunnen testen.
-
 ## Level 1 tot 10
 
 Je begint met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20154"><img class="wf-wh__icon" src="/wh/ability_thunderbolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seal of Righteousness</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=635"><img class="wf-wh__icon" src="/wh/spell_holy_holybolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Holy Light</a> en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=465"><img class="wf-wh__icon" src="/wh/spell_holy_devotionaura.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Devotion Aura</a>. Judgement en Blessing of Might volgen op 4, Divine Protection en Holy Strike op 6, Hammer of Justice op 8. Tot level 6 sla je vooral met je wapen.
@@ -59,99 +56,11 @@ Gebruik Holy Light om jezelf te healen als het nodig is. Heb je in een gevecht e
 
 Stats op deze levels: eerst Strength en attack power, dan Stamina, dan spell power, dan armor.
 
-## Retribution-build voor level 30
+## Talentbuilds
 
-De aangeraden build om te levelen. Je slaat hard met een traag tweehandig wapen, en de build draait om mana: Sanctified Judgement geeft mana terug bij elke Judgement, zodat je monster na monster doodt met weinig rust. Dat werkt ook op groepen, met Consecration altijd actief. [Open de build in de talentcalculator](/nl/talents/paladin/?t=--512330212013003).
+De [levelbuild voor de Paladin](/nl/leveling/paladin/) geeft het talent voor elk level van 10 tot 60. [Open het eindresultaat in de talentcalculator](/nl/talents/paladin/?t=-55300102113001531-05233301201).
 
-| Talent | Punten |
-|---|---|
-| **Deflection** | 5/5 |
-| **Benediction** | 1/5 |
-| **Improved Judgement** | 2/2 |
-| **Conviction** | 3/3 |
-| **Sanctified Judgement** | 3/3 |
-| **Unyielding Faith** | 2/2 |
-| **Seal of Command** | 1/1 |
-| **Pursuit of Justice** | 2/2 |
-| **Sacred Arbiter** | 1/1 |
-| **Two-Handed Weapon Specialization** | 3/3 |
-| **Vengeance** | 3/3 |
-
-Seal of Command geeft je slagen een kans om 70% van je wapenschade opnieuw te doen als Holy-schade, dus hoe trager en zwaarder je wapen, hoe beter. Conviction en Vengeance werken samen: meer critical strikes, en elke critical strike verhoogt je schade 30 seconden lang. Sacred Arbiter maakt Holy Strike sterker en laat het je Judgement op het monster vernieuwen. Pursuit of Justice laat je 15% sneller lopen, wat veel tijd spaart tussen quests.
-
-Er is weinig ruimte om te schuiven. De enige echte keuze is een punt minder in de vijfde rij voor <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20066"><img class="wf-wh__icon" src="/wh/spell_holy_prayerofhealing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Repentance</a>, dat een humanoid tot 6 seconden uit het gevecht haalt.
-
-1. Houd Blessing of Might en Retribution Aura actief.
-2. Cast Seal of Command voor je pullt. Onder level 20, met een eenhandig wapen of met veel spell power gebruik je Seal of Righteousness.
-3. Cast Judgement terwijl je naar het monster loopt.
-4. Cast Holy Strike.
-5. Cast Judgement en Holy Strike telkens ze klaar zijn en vernieuw je seal.
-
-De Judgement van Seal of Command doet bijna dubbele schade op een gestund doel. Open met Hammer of Justice en judge dan.
-
-Stats: Strength en attack power, dan Stamina, dan spell power en Intellect, dan armor.
-
-## Protection-build voor level 30
-
-Gemaakt om klappen te incasseren. Verzamel een groep monsters, leg Consecration neer en laat ze zich kapotslaan op je schild. Je hebt een eenhandig wapen en een schild nodig. [Open de build in de talentcalculator](/nl/talents/paladin/?t=-053021022133004).
-
-| Talent | Punten |
-|---|---|
-| **Redoubt** | 5/5 |
-| **Precision** | 3/3 |
-| **Sacred Duty** | 2/2 |
-| **Templar's Bulwark** | 1/1 |
-| **Shield Specialization** | 2/2 |
-| **Toughness** | 2/5 |
-| **Swift Judgement** | 1/1 |
-| **Improved Righteous Fury** | 3/3 |
-| **Anticipation** | 3/5 |
-| **Reckoning** | 4/5 |
-
-Door Redoubt en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20148"><img class="wf-wh__icon" src="/wh/inv_shield_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shield Specialization</a> blokkeer je vaak, en elke block geeft mana terug. Reckoning geeft je extra aanvallen na blocks en na critical hits tegen jou. Templar's Bulwark is je noodknop: een schild zo groot als je maximale health, 8 seconden lang.
-
-1. Houd Blessing of Kings en Retribution Aura actief.
-2. Cast Seal of Fury voor je pullt.
-3. Cast Judgement terwijl je naar het monster loopt.
-4. Cast Consecration zodra je in melee range bent.
-5. Cast Holy Strike.
-6. Cast Judgement, Holy Strike en Consecration telkens ze klaar zijn en vernieuw je seal.
-
-Consecration raakt de eerste vier monsters die erin lopen harder, dus vier is het aantal om te pullen. Seal of Fury is ook je taunt: zijn Judgement laat een monster je 4 seconden aanvallen. Meer daarover in [deze post](/nl/news/paladins-get-a-taunt-with-seal-of-fury/).
-
-Stats: eerst spell power, dan Stamina, dan Intellect, dan Strength, dan armor.
-
-## Shockadin-build voor level 30
-
-Levelen als healer wordt afgeraden, maar een Shockadin doet meer schade dan je zou denken. Bijna alles wat een Paladin doet, schaalt nu met spell power, en deze Holy-build voegt Holy Shock en betere healing toe. [Open de build in de talentcalculator](/nl/talents/paladin/?t=5032501202202101).
-
-| Talent | Punten |
-|---|---|
-| **Spiritual Focus** | 5/5 |
-| **Healing Light** | 3/3 |
-| **Reverence** | 2/2 |
-| **Improved Seals** | 5/5 |
-| **Divine Favor** | 1/1 |
-| **Illumination** | 2/5 |
-| **Divine Precision** | 2/2 |
-| **Infusion of Light** | 2/2 |
-| **Consecrated Ground** | 2/2 |
-| **Holy Shock** | 1/1 |
-| **Holy Power** | 1/5 |
-
-Holy Shock is een instant stoot Holy-schade, of een instant heal op een bondgenoot. Improved Seals verhoogt de schade van je seals en Judgements. Reverence laat een deel van je manaregeneratie doorlopen terwijl je cast, en Divine Precision laat je Holy-spells minder missen.
-
-1. Houd Blessing of Kings en Retribution Aura actief.
-2. Cast Seal of Righteousness voor je pullt.
-3. Pull met Holy Shock.
-4. Cast Judgement terwijl je naar het monster loopt.
-5. Cast Consecration zodra je in melee range bent.
-6. Cast Holy Strike.
-7. Cast Holy Shock, Judgement, Holy Strike en Consecration telkens ze klaar zijn en vernieuw je seal.
-
-Stats: eerst spell power, dan Stamina, dan Intellect, dan Strength, dan armor.
-
-![Een Dwarf Paladin met een schild, omringd door gouden heilig licht op een kasseipad](../../../../assets/posts/2026-10-18-wow-forever-dwarf-paladin-holy-light.jpg)
+Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: [Holy](/nl/guides/holy-paladin/) en [Retribution](/nl/guides/retribution-paladin/).
 
 ## Belangrijke levels
 

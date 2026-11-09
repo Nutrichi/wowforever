@@ -18,8 +18,10 @@ faq:
   - q: "Welk ras is het beste voor een Shadow Priest?"
     a: "Dwarf voor de Alliance en Troll voor de Horde als de boss een Beast is, want allebei doen ze 5% meer schade tegen Beasts. Anders zijn Human en Undead even goed. De verschillen zijn klein, dus kies het ras dat je leuk vindt."
   - q: "Is deze build definitief?"
-    a: "Nee. Hij gebruikt de talenten van de betabuild van 15 oktober voor level 60. De beta stopte op level 30, dus deze talenten zijn nooit op level 60 getest en kunnen nog veranderen."
+    a: "Nee."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/shadow/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shadow-priest/"
 ---
@@ -28,7 +30,7 @@ De Shadow Priest in WoW Forever doet Shadow-schade met twee spells die schade ov
 | | |
 |---|---|
 | Rol | Schade over tijd op afstand, met groepshealing via Vampiric Embrace |
-| Build voor level 60 | 14/3/34, met de talenten van de betabuild van 15 oktober |
+| Build voor level 60 | 15/3/33 |
 | Belangrijkste talenten | Mind Flay, Improved Mind Flay, Vampiric Embrace, Shadow Weaving, Silence, Shadowform |
 | Sterk in | Heel goede mana, groepshealing die nooit stopt |
 | Zwak in | Bijna geen beweging, trage start, zwak tegen meer dan vier doelwitten |
@@ -54,16 +56,21 @@ De Shadow Priest in WoW Forever doet Shadow-schade met twee spells die schade ov
 | DoTs en burst-spells passen samen zonder ingewikkelde rotatie | Zwakke directe schade tegen meer dan vier doelwitten |
 | Silence, Psychic Scream en Dispel Magic als utility | Geen heals in Shadowform |
 
-## De build voor level 60 (14/3/34)
+## Builds voor level 60
 
-Deze build gebruikt alle 51 punten van level 60. Veertien gaan naar Discipline voor Twin Disciplines, Inner Focus en Meditation, drie naar Holy voor Twilight Focus, en de rest naar Shadow tot Shadowform. [Open de build in de talentcalculator](/nl/talents/priest/?t=00530200103-3-50042201251312051).
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 15/3/33
+
+15 punten in Discipline, 3 in Holy en 33 in Shadow. [Open de raidbuild in de talentcalculator](/nl/talents/priest/?t=00530400003-3-50042201251302051).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/priest/?t=00530200003--50542201251302051).
 
 | Talent | Punten |
 |---|---|
 | **Twin Disciplines** | 5/5 |
 | **Silent Resolve** | 3/3 |
-| **Mental Strength** | 2/5 |
-| **Inner Focus** | 1/1 |
+| **Mental Strength** | 4/5 |
 | **Meditation** | 3/3 |
 | **Twilight Focus** | 3/3 |
 | **Shadow Focus** | 5/5 |
@@ -75,20 +82,17 @@ Deze build gebruikt alle 51 punten van level 60. Veertien gaan naar Discipline v
 | **Dark Inspiration** | 5/5 |
 | **Vampiric Embrace** | 1/1 |
 | **Shadow Weaving** | 3/3 |
-| **Silence** | 1/1 |
 | **Devouring Contagion** | 2/2 |
 | **Darkness** | 5/5 |
 | **Shadowform** | 1/1 |
 
-![De Shadow Priest-build 14/3/34 in onze talentcalculator](../../../../assets/posts/2026-10-21-wow-forever-shadow-priest-build.jpg)
+### Levelbuild, 16/0/35
 
-**Vrije punten.** Een paar punten kunnen schuiven zonder veel verlies:
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/priest/?t=00500520103--50542201201302251). De [levelbuild voor de Priest](/nl/leveling/priest/) geeft het talent voor elk level.
 
-- Inner Focus doet weinig voor Shadow. Dat punt kan ergens anders heen.
-- Devouring Contagion helpt alleen als doelwitten sterven met Devouring Plague erop. In een raid heb je de mana zelden nodig, dus een of twee punten kunnen weg.
-- Meer punten in Early Demise of Mental Strength zijn kleine winsten.
-- Spirit Tap helpt veel in dungeons, waar vijanden voortdurend sterven, en weinig in raids.
-- Moet je in je raid vijanden dispellen, dan laat één punt in Holy Precision Dispel Magic minder missen.
+### PvP-build, 16/3/32
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/priest/?t=00530020033-3-55002221201312051).
 
 ## Wat de belangrijkste talenten doen
 

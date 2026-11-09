@@ -1,7 +1,7 @@
 ---
 title: "Fire-Mage-Guide für WoW Forever"
 metaTitle: "WoW Forever Fire Mage: Heating-Up-Build, Rotation und Werte"
-description: "Der Fire Mage in WoW Forever: Heating Up und das neue Fire Power, zwei Builds für Level 30 für Dungeons und Solo, die Pyroblast-Rotation, Mana, Werte, Völker."
+description: "Der Fire Mage in WoW Forever: Heating Up und das neue Fire Power, Builds für Level 60 für Raids, Leveln und PvP, die Pyroblast-Rotation, Mana, Werte, Völker."
 short: "Fire Mage"
 updated: 2026-11-07
 lang: de
@@ -19,9 +19,11 @@ faq:
     a: "Nein. Ignite wurde in Forever abgeschwächt und brennt jetzt für 40 % des kritischen Treffers über 4 Sekunden. Ignite Rolling lohnt sich nicht mehr."
   - q: "Welches Volk ist das beste für einen Fire Mage?"
     a: "Orc bei der Horde, weil Blood Fury 10 % Zaubermacht gibt, mit Troll auf Platz zwei. Bei der Allianz zuerst Human für 1 % kritische Trefferchance, dann der High Order Skyborne. Nimm das Volk, das dir gefällt, wenn du nicht jedem Prozent nachjagst."
-  - q: "Gibt es schon einen Build für Level 60?"
-    a: "Noch nicht. Unsere Builds enden bei Level 30, wo die Beta endete. Builds für Level 60 folgen, sobald wir sie im Live-Spiel testen können."
+  - q: "Gibt es einen Build für Level 60?"
+    a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/fire/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/fire-mage/"
 ---
@@ -30,7 +32,7 @@ Der Fire Mage in WoW Forever lebt von kritischen Treffern. Heating Up macht aus 
 | | |
 |---|---|
 | Rolle | Fernkampfschaden, kritische Treffer und Brände |
-| Build auf Level 30 | 19 bis 21 Punkte in Fire, Talented fügt Critical Mass und Trefferchance hinzu |
+| Build auf Level 60 | 16/32/3 |
 | Wichtige Talente | Heating Up, Pyroblast, Ignite, Improved Scorch, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18459"><img class="wf-wh__icon" src="/wh/spell_fire_flameshock.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Incineration</a> |
 | Stärke | Hoher Schaden, der mit der Ausrüstung wächst, sparsam mit Mana, Nutzen für die Gruppe |
 | Schwäche | Braucht kritische Trefferchance, schwach beim Leveln |
@@ -54,43 +56,42 @@ Der Fire Mage in WoW Forever lebt von kritischen Treffern. Heating Up macht aus 
 | Sparsamer mit Mana als Arcane, später mit Master of Elements | Weniger Überlebensfähigkeit als Frost und kein <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11958"><img class="wf-wh__icon" src="/wh/spell_frost_frost.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Block</a> |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1459"><img class="wf-wh__icon" src="/wh/spell_holy_magicalsentry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcane Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=604"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dampen Magic</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1008"><img class="wf-wh__icon" src="/wh/spell_holy_flashheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amplify Magic</a>, Essen, Wasser und Portale | Braucht gegen Bosse Trefferchance, und das kostet Talentpunkte |
 
-## Zwei Builds für Level 30
+## Builds für Level 60
 
-Beide Builds nutzen die 21 Punkte, die du auf Level 30 hast. Talented aus dem Legacy-System gibt jedem 5 Punkte dazu.
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
 
-### Dungeon-Build
+### Raid-Build, 16/32/3
 
-Für Dungeons und Bosse über deinem Level. 2/3 Precision in Frost sorgt dafür, dass deine Zauber nicht verfehlen, und 3/3 Improved Scorch ist auch ohne Talented dabei, weil der Bonus auf Feuerschaden so stark ist. Für Critical Mass oder Master of Elements bleiben keine Punkte, ohne Trefferchance aufzugeben. [Build im Talentrechner öffnen](/de/talents/mage/?t=-155003010301-002).
-
-| Talent | Punkte |
-|---|---|
-| **Incineration** | 1/5 |
-| **Accelerant** | 5/5 |
-| **Ignite** | 5/5 |
-| **Burning Soul** | 3/3 |
-| **Pyroblast** | 1/1 |
-| **Improved Scorch** | 3/3 |
-| **Heating Up** | 1/1 |
-| **Precision** | 2/3 |
-
-[Talented-Version öffnen](/de/talents/mage/?t=-25500301030103-003) mit Incineration 2/5, Critical Mass 3/3 und Precision 3/3.
-
-### Solo-Build
-
-Zum Questen gegen Monster auf oder unter deinem Level, also ohne Precision. Alle Punkte gehen in Fire, mit Incineration 2/5 und dem ersten Punkt in Critical Mass für mehr kritische Treffer. [Build im Talentrechner öffnen](/de/talents/mage/?t=-25500301030101).
+16 Punkte in Arcane, 32 in Fire und 3 in Frost. [Raid-Build im Talentrechner öffnen](/de/talents/mage/?t=0502052001001-55500001230133031-003).
 
 | Talent | Punkte |
 |---|---|
-| **Incineration** | 2/5 |
+| **Improved Channeling** | 5/5 |
+| **Arcane Subtlety** | 2/2 |
+| **Arcane Concentration** | 5/5 |
+| **Missile Barrage** | 2/2 |
+| **Arcane Blast** | 1/1 |
+| **Arcane Meditation** | 1/3 |
+| **Incineration** | 5/5 |
 | **Accelerant** | 5/5 |
 | **Ignite** | 5/5 |
-| **Burning Soul** | 3/3 |
 | **Pyroblast** | 1/1 |
+| **Improved Fire Blast** | 2/2 |
 | **Improved Scorch** | 3/3 |
 | **Heating Up** | 1/1 |
-| **Critical Mass** | 1/3 |
+| **Master of Elements** | 3/3 |
+| **Critical Mass** | 3/3 |
+| **Fire Power** | 3/3 |
+| **Combustion** | 1/1 |
+| **Precision** | 3/3 |
 
-[Talented-Version öffnen](/de/talents/mage/?t=-4550030103010301) mit Incineration 4/5, Critical Mass 3/3 und Fire Power 1/3. Mehr Burst gewünscht? Nimm <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11113"><img class="wf-wh__icon" src="/wh/spell_holy_excorcism_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blast Wave</a> statt Fire Power, für einen Flächenangriff alle 45 Sekunden. Der [Leveling-Build für den Mage](/de/leveling/mage/) gibt ein Talent für jedes Level von 10 bis 35.
+### Leveling-Build, 18/0/33
+
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/mage/?t=0502052001003--053530000101331251). Der [Level-Build für den Mage](/de/leveling/mage/) gibt das Talent für jedes Level.
+
+### PvP-Build, 21/28/2
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/mage/?t=050205220002201-35523001230103-002).
 
 ### Was die wichtigsten Talente tun
 
@@ -135,7 +136,7 @@ Auf höheren Levels sieht die Rotation so aus: Improved Scorch auf 5 Stapeln, Fi
 
 Feuerzauber kosten viel, aber Fire verlangt weniger Manakontrolle als Arcane.
 
-- **Master of Elements** gibt bei 3/3 30 % der Grundkosten jedes kritischen Feuer- oder Frosttreffers zurück. Auf Level 30 außer Reichweite, aber später procct es fast immer.
+- **Master of Elements** gibt bei 3/3 30 % der Grundkosten jedes kritischen Feuer- oder Frosttreffers zurück. Es procct fast immer.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6117"><img class="wf-wh__icon" src="/wh/spell_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mage Armor</a>** ab Level 34 hält 50 % deiner Manaregeneration beim Zaubern. Ein Abstecher zu Arcane Meditation macht daraus 100 %.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=12051"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Evocation</a>** füllt dein Mana in wenigen Sekunden auf, mit langer Abklingzeit. Spare es für lange Bosskämpfe. Ein High Order Skyborne kann es mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a> kombinieren.
 - **Manasteine** wie <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=759"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Conjure Mana Agate</a> geben Mana mit einer Ladung pro Stein zurück. Mach vor jedem langen Kampf einen neuen.

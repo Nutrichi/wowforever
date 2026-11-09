@@ -1,7 +1,7 @@
 ---
 title: "Guida all'Elemental Shaman per WoW Forever"
 metaTitle: "WoW Forever Elemental Shaman: build, Lightning Overload, totem, mana"
-description: "L'Elemental Shaman in WoW Forever: la build di livello 30 e la versione Talented, Call of Thunder e Lightning Overload, la rotazione, i totem, il mana, le stats e le razze."
+description: "L'Elemental Shaman in WoW Forever: la build di livello 60, Call of Thunder e Lightning Overload, la rotazione, i totem, il mana, le stats e le razze."
 short: "Elemental Shaman"
 updated: 2026-11-07
 lang: it
@@ -19,20 +19,22 @@ faq:
     a: "Prima i danni degli incantesimi, poi la probabilità di critico, poi l'hit man mano che ti avvicini al livello 60. Intelletto e Spirito tengono su il mana. La Celerità accelera gli incantesimi ma consuma il mana più in fretta."
   - q: "Qual è la razza migliore per un Elemental Shaman?"
     a: "Il Dwarf è l'unico Shaman dell'Alliance. Nell'Orda l'Orc è la scelta più forte grazie a Blood Fury, e il Windshaper Skyborne ottiene il 2% di Celerità."
-  - q: "C'è già una build di livello 60?"
-    a: "Non ancora. Le nostre build arrivano al livello 30, dove finiva la beta. Le build di livello 60 arriveranno quando potremo provarle nel gioco live."
+  - q: "C'è una build per il livello 60?"
+    a: "Sì. Questa guida ha tre build per il livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ognuna si apre nel nostro calcolatore di talenti."
 sources:
+  - name: "Wowhead, build dei talenti"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/elemental/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/elemental-shaman/"
 ---
 > **Aggiornamento del 4 novembre:** le build e i talenti qui sotto seguono i nuovi alberi delle note di sviluppo del 2 novembre, di più nel [nostro articolo](/it/news/shamans-lose-lava-burst-before-the-launch/).
 
-L'Elemental Shaman di WoW Forever combatte a distanza con fulmini e fuoco. La spec parte lenta, ma quando Call of Thunder e Lightning Overload entrano nella build, i grandi critici e i Lightning Bolt in più di Lightning Overload si accumulano in fretta. Con i tuoi totem sei benvenuto in ogni gruppo. Questa guida tratta la build di livello 30, i talenti chiave, la rotazione, i totem, il mana, le stats e le razze.
+L'Elemental Shaman di WoW Forever combatte a distanza con fulmini e fuoco. La spec parte lenta, ma quando Call of Thunder e Lightning Overload entrano nella build, i grandi critici e i Lightning Bolt in più di Lightning Overload si accumulano in fretta. Con i tuoi totem sei benvenuto in ogni gruppo. Questa guida tratta la build di livello 60, i talenti chiave, la rotazione, i totem, il mana, le stats e le razze.
 
 | | |
 |---|---|
 | Ruolo | Danni a distanza, su un bersaglio e sui gruppi |
-| Build al livello 30 | 21 punti in Elemental, Talented aggiunge Trial by Fire 2/2, Lightning Overload 3/3 ed Elemental Fury 1/5 |
+| Build al livello 60 | 31/4/16 |
 | Talenti chiave | Elemental Focus, Trial by Fire, Earthbound, Call of Thunder, Lightning Overload |
 | Punti forti | Buoni danni sui gruppi, totem per tutto il raid, tanta utilità |
 | Punti deboli | Il mana, nessun controllo forte, il posizionamento dei totem |
@@ -52,27 +54,44 @@ L'Elemental Shaman di WoW Forever combatte a distanza con fulmini e fuoco. La sp
 
 **Posizionamento.** Windfury Totem deve raggiungere il corpo a corpo, i totem delle stats il gruppo, e Magma Totem i nemici che colpisci con Fire Nova.
 
-## La build di livello 30
+## Build per il livello 60
 
-La beta si è fermata al livello 30, quindi la build usa 21 punti. Talented, dal sistema Legacy, ne aggiunge 5. [Apri la build nel calcolatore di talenti](/it/talents/shaman/?t=3500331013101).
+Tre build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ogni build si apre nel nostro calcolatore di talenti.
+
+### Build da raid, 31/4/16
+
+31 punti in Elemental, 4 in Enhancement e 16 in Restoration. [Apri la build da raid nel calcolatore di talenti](/it/talents/shaman/?t=5500331013001351-04-053150001001).
+
+Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/talents/shaman/?t=5500331023001351-05500001-053).
 
 | Talento | Punti |
 |---|---|
-| **Convection** | 3/5 |
+| **Convection** | 5/5 |
 | **Concussion** | 5/5 |
 | **Elemental Alacrity** | 3/3 |
 | **Call of Flame** | 3/3 |
 | **Elemental Focus** | 1/1 |
 | **Trial by Fire** | 1/2 |
 | **Eye of the Storm** | 3/3 |
-| **Earthbound** | 1/1 |
 | **Call of Thunder** | 1/1 |
+| **Lightning Overload** | 3/3 |
+| **Elemental Fury** | 5/5 |
+| **Lightning Mastery** | 1/1 |
+| **Thundering Strikes** | 4/5 |
+| **Tidal Focus** | 5/5 |
+| **Mindfulness** | 3/3 |
+| **Natural Grace** | 1/3 |
+| **Totemic Focus** | 5/5 |
+| **Water Shield** | 1/1 |
+| **Mana Tide Totem** | 1/1 |
 
-[Apri la versione Talented](/it/talents/shaman/?t=350033102310131) con Trial by Fire 2/2, Lightning Overload 3/3 ed Elemental Fury 1/5.
+### Build per livellare, 19/32/0
 
-![La build Talented dell'Elemental Shaman nel nostro calcolatore di talenti](../../../../assets/posts/2026-10-30-wow-forever-elemental-shaman-build.jpg)
+La build per livellare prende prima i talenti che aiutano a uccidere da soli. [Aprila nel calcolatore di talenti](/it/talents/shaman/?t=45300310201-053030310051012251). La [build di leveling del Shaman](/it/leveling/shaman/) dà il talento per ogni livello.
 
-Call of Thunder è nella quinta riga e richiede 20 punti sopra, quindi è il 21° punto. La nostra [guida al leveling dello Shaman](/it/guides/shaman-leveling/) ha una versione in solitaria con il secondo punto in Trial by Fire al posto di Earthbound.
+### Build PvP, 33/17/1
+
+La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel calcolatore di talenti](/it/talents/shaman/?t=5500331003121351-2502020130002-01).
 
 ## Cosa fanno i talenti chiave
 
@@ -90,7 +109,7 @@ Call of Thunder è nella quinta riga e richiede 20 punti sopra, quindi è il 21�
 | **Lightning Overload** | A 3/3: 30% di probabilità che Lightning Bolt e Chain Lightning lancino una seconda copia a metà danni, gratis e senza minaccia |
 | **Elemental Fury** | A 1/5: il 20% di danni critici in più per i tuoi incantesimi di fuoco, gelo e natura e i tuoi Searing e Magma Totem |
 
-Lightning Overload è il talento che rende divertente la spec in Forever: l'incantesimo in più non ti costa nulla. Elemental Fury cresce con ogni punto che aggiungi dopo il livello 30.
+Lightning Overload è il talento che rende divertente la spec in Forever: l'incantesimo in più non ti costa nulla. Elemental Fury cresce con ogni punto che aggiungi.
 
 ## Rotazione
 

@@ -1,7 +1,7 @@
 ---
 title: "Priest leveling guide for WoW Forever"
-metaTitle: "WoW Forever Priest leveling guide: Discipline, Holy and Shadow builds to 30"
-description: "How to level a Priest in WoW Forever: three level 30 builds for Discipline, Holy and Shadow, the rotation, key levels, racial spells, wands, professions, mana and healing."
+metaTitle: "WoW Forever Priest leveling guide: Discipline, Holy and Shadow builds to 60"
+description: "How to level a Priest in WoW Forever: level 60 builds for Discipline, Holy and Shadow, the rotation, key levels, racial spells, wands, professions, mana and healing."
 short: "Priest leveling"
 updated: 2026-11-07
 lang: en
@@ -18,13 +18,13 @@ faq:
     a: "On the beta they do not: spells such as Renew, Shadow Word: Pain and Devouring Plague update their value while they run instead of keeping the value from the moment you cast them. Blizzard has not announced this."
   - q: "Which professions suit a Priest?"
     a: "Tailoring with Enchanting is the classic pair: soulbound cloth gear, wands and spell power oils. Cooking is worth it for every class in Forever, because buff food gives extra experience and you need it for a camp."
-  - q: "Is there a level 60 build yet?"
-    a: "Not from this guide: its builds stop at level 30, where the beta ended. Our Priest level build gives a talent for every level to 60, with a respec at 30 and 40."
+  - q: "Is there a level 60 build?"
+    a: "Yes. The Priest level build gives a talent for every level to 60, and every spec guide has builds for raids, leveling and PvP."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
 ---
-The Priest in WoW Forever levels calmly: heal yourself, shield yourself and let damage over time and a wand do the work. At level 30 you choose between Discipline, Holy and Shadow. This guide covers the three builds, the rotation, the key levels, racial spells, wands and professions.
+The Priest in WoW Forever levels calmly: heal yourself, shield yourself and let damage over time and a wand do the work. You choose between Discipline, Holy and Shadow. This guide covers the three builds, the rotation, the key levels, racial spells, wands and professions.
 
 | | |
 |---|---|
@@ -34,16 +34,13 @@ The Priest in WoW Forever levels calmly: heal yourself, shield yourself and let 
 | Weakness | Slow kills early, mana, little crowd control |
 | Talent order per level | [Priest level build](/leveling/priest/) |
 | Spec guides | [Shadow Priest](/guides/shadow-priest/), [Holy Priest](/guides/holy-priest/), [Discipline Priest](/guides/discipline-priest/) |
-| Builds to level 60 | In the spec guides, with the talents of the beta build of 15 October |
+| Builds to level 60 | In the spec guides |
 
 ## Which spec to level with
 
 The first 20 to 30 levels barely differ. You start with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=585"><img class="wf-wh__icon" src="/wh/spell_holy_holysmite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Smite</a>, get a wand as soon as you can, and then keep your health up with heals and shields while the wand kills. Around level 30 the road splits.
 
 **Discipline** keeps that calm style and adds Penance at 30, for damage or a quick heal. **Shadow** kills faster with Mind Flay and Mind Blast, but only shines from about level 28, unless you have decent spell power. **Holy** is for players who spend a lot of their leveling time healing dungeons. Leveling alone as Holy is slow.
-
-The builds below were made on the beta, which stopped at level 30. Builds for level 60 follow once we can test them in the live game.
-
 ## Levels 1 to 10
 
 You have no talents yet. Smite and Lesser Heal are your spells until you have a wand.
@@ -57,69 +54,11 @@ Stats for every build at these levels: first Intellect and spell damage, then St
 
 Mental Strength now sits in row 2, where it raises Intellect, and Improved Power Word: Shield in row 3. Shadow gets Dark Inspiration, loses Improved Fade and Shadow Infinity, and Improved Mind Blast moves to row 2. The builds below and the talent calculator follow the current trees. All changes are in [this post](/news/battle-shout-and-totems-now-buff-the-whole-raid/).
 
-## Level 30 Discipline build
+## Talent builds
 
-The same wand style as before, with as few pauses as possible. [Open the build in the talent calculator](/talents/priest/?t=024015011330001).
+The [Priest level build](/leveling/priest/) gives the talent for every level from 10 to 60. [Open the end result in the talent calculator](/talents/priest/?t=00500520103--50542201201302251).
 
-| Talent | Points |
-|---|---|
-| **Wand Specialization** | 2/2 |
-| **Twin Disciplines** | 4/5 |
-| **Holy Precision** | 1/3 |
-| **Improved Power Word: Shield** | 3/3 |
-| **Mental Agility** | 1/3 |
-| **Inner Focus** | 1/1 |
-| **Meditation** | 3/3 |
-| **Mental Strength** | 5/5 |
-| **Penance** | 1/1 |
-
-1. Keep Power Word: Shield up when your mana allows, so damage does not slow your casts.
-2. Open with Smite.
-3. Cast Shadow Word: Pain when your mana allows.
-4. From level 30: cast Penance on cooldown, for damage or to heal yourself.
-5. Finish with your wand, or let Shadow Word: Pain do it.
-
-## Level 30 Holy build
-
-For players who want to heal a lot of dungeons and do not want Discipline. [Open the build in the talent calculator](/talents/priest/?t=-2050510303011).
-
-| Talent | Points |
-|---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=14913"><img class="wf-wh__icon" src="/wh/spell_holy_healingfocus.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Twilight Focus</a>** | 2/3 |
-| **Holy Specialization** | 5/5 |
-| **Divine Fury** | 5/5 |
-| **Holy Nova** | 1/1 |
-| **Inspiration** | 3/3 |
-| **Improved Healing** | 3/3 |
-| **Holy Binding** | 1/1 |
-| **Litany of Light** | 1/2 |
-
-The rotation alone is the same as for Discipline without Penance: Power Word: Shield, Smite, Shadow Word: Pain and your wand.
-
-## Level 30 Shadow build
-
-For players who prefer damage, do not want to heal and do not want to wait for Shadowform at 40. [Open the build in the talent calculator](/talents/priest/?t=--305420012013).
-
-| Talent | Points |
-|---|---|
-| **Shadow Focus** | 3/5 |
-| **Spirit Tap** | 5/5 |
-| **Improved Shadow Word: Pain** | 2/2 |
-| **Improved Mind Blast** | 4/5 |
-| **Mind Flay** | 1/1 |
-| **Improved Mind Flay** | 2/2 |
-| **Vampiric Embrace** | 1/1 |
-| **Shadow Weaving** | 3/3 |
-
-1. From level 20: cast Mind Flay on the target until it reaches you.
-2. Keep Shadow Word: Pain up.
-3. Cast Mind Blast on cooldown.
-4. From level 20: cast Devouring Plague on cooldown when your mana allows; it heals you too.
-5. Finish with your wand, or let your damage over time do it.
-
-For Shadow, shadow power counts with Intellect and spell damage. With points in Talented from the Legacy system, you reach every talent up to five levels sooner.
-
-![The three Priest talent trees in World of Warcraft: Forever: Discipline, Holy and Shadow Magic](../../../../assets/posts/2026-10-01-wow-forever-priest-talent-trees.jpg)
+For level 60, every spec guide has its own builds for raids, leveling and PvP: [Discipline](/guides/discipline-priest/), [Holy](/guides/holy-priest/) and [Shadow](/guides/shadow-priest/).
 
 ## Key levels
 

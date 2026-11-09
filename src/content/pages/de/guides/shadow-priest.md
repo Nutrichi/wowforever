@@ -18,8 +18,10 @@ faq:
   - q: "Welches Volk ist das beste für einen Shadow Priest?"
     a: "Dwarf für die Allianz und Troll für die Horde, wenn der Boss ein Wildtier ist, denn beide machen 5 % mehr Schaden gegen Wildtiere. Sonst sind Human und Undead gleich gut. Die Unterschiede sind klein, wähle also das Volk, das dir gefällt."
   - q: "Ist dieser Build endgültig?"
-    a: "Nein. Er nutzt die Talente des Beta-Builds vom 15. Oktober für Level 60. Die Beta endete bei Level 30, diese Talente wurden also nie auf Level 60 getestet und können sich noch ändern."
+    a: "Nein. Oktober für Level 60."
 sources:
+  - name: "Wowhead, Talent-Builds"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/shadow/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shadow-priest/"
 ---
@@ -28,7 +30,7 @@ Der Shadow Priest in WoW Forever macht Schattenschaden mit zwei Zaubern, die Sch
 | | |
 |---|---|
 | Rolle | Fernkampfschaden über Zeit, mit Gruppenheilung durch Vampiric Embrace |
-| Build für Level 60 | 14/3/34, mit den Talenten des Beta-Builds vom 15. Oktober |
+| Build für Level 60 | 15/3/33 |
 | Wichtige Talente | Mind Flay, Improved Mind Flay, Vampiric Embrace, Shadow Weaving, Silence, Shadowform |
 | Stärke | Sehr gutes Mana, Gruppenheilung, die nie aufhört |
 | Schwäche | Kaum Mobilität, langsamer Start, schwach gegen mehr als vier Ziele |
@@ -54,16 +56,21 @@ Der Shadow Priest in WoW Forever macht Schattenschaden mit zwei Zaubern, die Sch
 | DoTs und Burst-Zauber passen zusammen, ohne komplizierte Rotation | Wenig Direktschaden gegen mehr als vier Ziele |
 | Silence, Psychic Scream und Dispel Magic als Nutzen | Keine Heilzauber in Shadowform |
 
-## Der Build für Level 60 (14/3/34)
+## Builds für Level 60
 
-Dieser Build nutzt alle 51 Punkte von Level 60. Vierzehn gehen in Discipline für Twin Disciplines, Inner Focus und Meditation, drei in Holy für Twilight Focus und der Rest in Shadow bis Shadowform. [Öffne den Build im Talentrechner](/de/talents/priest/?t=00530200103-3-50042201251312051).
+Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
+
+### Raid-Build, 15/3/33
+
+15 Punkte in Discipline, 3 in Holy und 33 in Shadow. [Raid-Build im Talentrechner öffnen](/de/talents/priest/?t=00530400003-3-50042201251302051).
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/priest/?t=00530200003--50542201251302051).
 
 | Talent | Punkte |
 |---|---|
 | **Twin Disciplines** | 5/5 |
 | **Silent Resolve** | 3/3 |
-| **Mental Strength** | 2/5 |
-| **Inner Focus** | 1/1 |
+| **Mental Strength** | 4/5 |
 | **Meditation** | 3/3 |
 | **Twilight Focus** | 3/3 |
 | **Shadow Focus** | 5/5 |
@@ -75,20 +82,17 @@ Dieser Build nutzt alle 51 Punkte von Level 60. Vierzehn gehen in Discipline fü
 | **Dark Inspiration** | 5/5 |
 | **Vampiric Embrace** | 1/1 |
 | **Shadow Weaving** | 3/3 |
-| **Silence** | 1/1 |
 | **Devouring Contagion** | 2/2 |
 | **Darkness** | 5/5 |
 | **Shadowform** | 1/1 |
 
-![Der Shadow-Priest-Build 14/3/34 in unserem Talentrechner](../../../../assets/posts/2026-10-21-wow-forever-shadow-priest-build.jpg)
+### Leveling-Build, 16/0/35
 
-**Freie Punkte.** Ein paar Punkte lassen sich ohne großen Verlust verschieben:
+Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/priest/?t=00500520103--50542201201302251). Der [Level-Build für den Priest](/de/leveling/priest/) gibt das Talent für jedes Level.
 
-- Inner Focus bringt Shadow wenig. Der Punkt kann woanders hin.
-- Devouring Contagion hilft nur, wenn Ziele mit Devouring Plague sterben. Im Schlachtzug fehlt selten Mana, also können ein oder zwei Punkte weg.
-- Mehr Punkte in Early Demise oder Mental Strength sind kleine Gewinne.
-- Spirit Tap hilft viel in Dungeons, wo ständig Gegner sterben, und wenig im Schlachtzug.
-- Musst du im Schlachtzug Gegner bannen, lässt ein Punkt in Holy Precision Dispel Magic seltener verfehlen.
+### PvP-Build, 16/3/32
+
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/priest/?t=00530020033-3-55002221201312051).
 
 ## Was die wichtigsten Talente tun
 

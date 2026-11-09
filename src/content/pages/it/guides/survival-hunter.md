@@ -20,6 +20,8 @@ faq:
   - q: "Qual è la razza migliore per un Survival Hunter?"
     a: "Skyborne in entrambe le fazioni, per il bonus di celerità. Human per l'Alleanza e Orc per l'Orda sono ottime alternative. Le differenze sono piccole."
 sources:
+  - name: "Wowhead, build dei talenti"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/survival-hunter/"
 ---
@@ -48,37 +50,42 @@ Il Survival Hunter di WoW Forever combatte a distanza e in mischia. Inserisci Ra
 
 **La zona morta.** Tra la portata in mischia e 8 metri non puoi usare né mischia né distanza. Anche il Survival ha questo problema.
 
-## La build di livello 60: 5/13/33
+## Build per il livello 60
 
-La beta si fermava al livello 30, ma gli alberi dei talenti del livello 60 sono nei file del gioco. Abbiamo verificato questa build punto per punto nel [nostro calcolatore di talenti](/it/talents/hunter/?t=5-005005201-530200230050222151): 5 punti in Beast Mastery, 13 in Marksmanship e 33 in Survival, 51 in totale.
+Tre build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ogni build si apre nel nostro calcolatore di talenti.
+
+### Build da raid, 16/4/31
+
+16 punti in Beast Mastery, 4 in Marksmanship e 31 in Survival. [Apri la build da raid nel calcolatore di talenti](/it/talents/hunter/?t=51202005001-004-500230230050022151).
 
 | Talento | Punti |
 |---|---|
-| **Deadly Aspects** (Beast Mastery) | 5/5 |
-| **Lethal Attacks** (Marksmanship) | 5/5 |
-| **Careful Aim** (Marksmanship) | 5/5 |
-| **Rapid Killing** (Marksmanship) | 2/2 |
-| **Lone Wolf** (Marksmanship) | 1/1 |
+| **Deadly Aspects** | 5/5 |
+| **Endurance Training** | 1/5 |
+| **Focused Fire** | 2/2 |
+| **Improved Revive Pet** | 2/2 |
+| **Unleashed Fury** | 5/5 |
+| **Summon Hawk** | 1/1 |
+| **Lethal Attacks** | 4/5 |
 | **Improved Tracking** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19295"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
 | **Savage Strikes** | 2/2 |
+| **Survivalist** | 3/5 |
 | **Clever Traps** | 2/2 |
 | **Surefooted** | 3/3 |
 | **Predator's Edge** | 5/5 |
-| **Resourcefulness** | 2/2 |
 | **Expose Prey** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310496"><img class="wf-wh__icon" src="/wh/ability_hunter_mastertactitian.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Survivalist's Discipline</a>** | 2/2 |
+| **Survivalist's Discipline** | 2/2 |
 | **Strider Kick** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a>** | 5/5 |
+| **Lightning Reflexes** | 5/5 |
 | **Lacerating Strikes** | 1/1 |
 
-![La build 5/13/33 del Survival Hunter nel nostro calcolatore di talenti](../../../../assets/posts/2026-10-25-wow-forever-survival-hunter-build.jpg)
+### Build per livellare, 31/20/0
 
-Tre scelte si possono spostare:
+La build per livellare prende prima i talenti che aiutano a uccidere da soli. [Aprila nel calcolatore di talenti](/it/talents/hunter/?t=5120221405101241-00503520005). La [build di leveling del Hunter](/it/leveling/hunter/) dà il talento per ogni livello.
 
-- **Lone Wolf** su 1 punto in **Efficiency** o **Improved Stings** se vuoi tenere il famiglio, per esempio durante le missioni.
-- **Rapid Killing** su 2 punti in **Efficiency** o **Improved Stings** se non ti serve Rapid Fire più spesso e preferisci Stings più economiche o più forti.
-- **Deadly Aspects** su 2 punti in **Efficiency** o **Improved Stings** più 3 punti in **Mortal Shots**.
+### Build PvP, 16/0/35
+
+La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel calcolatore di talenti](/it/talents/hunter/?t=50230014001--502203031051222151).
 
 ## Cosa fanno i talenti chiave
 

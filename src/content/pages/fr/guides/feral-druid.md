@@ -1,7 +1,7 @@
 ---
 title: "Feral Druid dans WoW Forever : le guide"
 metaTitle: "WoW Forever Feral Druid : builds félin et ours, rotation, stats"
-description: "Le Feral Druid dans WoW Forever : quatre builds niveau 60 (hybride, félin, ours et solo), Shifting Power et Primal Bite, les rotations en félin et en ours, les stats et les races."
+description: "Le Feral Druid dans WoW Forever : builds niveau 60 pour raids, leveling et PvP, Shifting Power et Primal Bite, les rotations en félin et en ours, les stats et les races."
 short: "Feral Druid"
 updated: 2026-10-31
 lang: fr
@@ -19,9 +19,11 @@ faq:
     a: "En félin : Hit, puis Expertise, puis Crit, Agility, Strength et puissance d'attaque. En ours, aussi Defense, Dodge, armure et Stamina, car un Druid ne peut ni bloquer ni parer."
   - q: "Quelle race pour un Feral Druid ?"
     a: "Les écarts sont faibles. Night Elf a un bonus aux coups critiques qui va bien au Feral, Tauren War Stomp et 5 % de vie en plus. Les Skyborne ont de la Haste, et ceux de l'Alliance aussi un temps de recharge de mana."
-  - q: "Y a-t-il déjà un build niveau 60 ?"
-    a: "Oui. Les quatre builds de ce guide utilisent les 51 points du niveau 60, sans les points en plus de Talented."
+  - q: "Existe-t-il un build pour le niveau 60 ?"
+    a: "Oui. Ce guide propose trois builds pour le niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chacun s’ouvre dans notre calculateur de talents."
 sources:
+  - name: "Wowhead, builds de talents"
+    url: "https://www.wowhead.com/forever/guide/classes/druid/feral/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/feral-druid/"
 ---
@@ -48,13 +50,13 @@ Le Feral Druid de WoW Forever, ce sont deux specs en une : un félin qui fait de
 
 **Trois ressources.** Le félin suit l'Énergie, les Combo Points et, pour Shifting Power, le mana. L'ours a la Rage. Ajoutez les saignements et les affaiblissements, et le Feral devient l'une des specs les plus dures à maîtriser.
 
-## Quatre builds niveau 60
+## Les builds pour le niveau 60
 
-Les quatre utilisent 51 points, le total des talents au niveau 60. Chaque build prend 9 points en Balance pour Genesis 5/5, Nature's Majesty 2/2 et Nature's Reach 2/2, sauf le build solo.
+Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chaque build s’ouvre dans notre calculateur de talents.
 
-### Hybride, 9/37/5
+### Build de raid, 9/32/10
 
-Félin et ours dans un seul build, pour les groupes de fin de jeu qui demandent l'un ou l'autre rôle. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=050022-50230232123112125011-05).
+9 points en Balance, 32 en Feral Combat et 10 en Restoration. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/druid/?t=050022-53200032123012124001-055).
 
 | Talent | Points |
 |---|---|
@@ -62,38 +64,29 @@ Félin et ours dans un seul build, pour les groupes de fin de jeu qui demandent 
 | **Nature's Majesty** | 2/2 |
 | **Nature's Reach** | 2/2 |
 | **Ferocity** | 5/5 |
+| **Furor** | 3/5 |
 | **Feral Swiftness** | 2/2 |
-| **Feral Instinct** | 3/3 |
-| **Thick Hide** | 2/3 |
 | **Shredding Attacks** | 3/3 |
 | **Savage Fury** | 2/2 |
 | **Feral Charge** | 1/1 |
 | **Sharpened Claws** | 2/2 |
 | **Predatory Strikes** | 3/3 |
-| **Lacerate** | 1/1 |
 | **Predatory Discipline** | 1/1 |
 | **Blood Frenzy** | 2/2 |
 | **Leader of the Pack** | 1/1 |
 | **Natural Instinct** | 2/2 |
-| **Rend and Tear** | 5/5 |
-| **Primal Bite** | 1/1 |
-| **Lacerate** | Nouveau talent de Feral Combat depuis le correctif |
+| **Rend and Tear** | 4/5 |
 | **Shifting Power** | 1/1 |
 | **Heart of the Wild** | 5/5 |
+| **Naturalist** | 5/5 |
 
-![Le build hybride 9/37/5 du Feral Druid dans notre calculateur de talents](../../../../assets/posts/2026-10-24-wow-forever-feral-druid-build.jpg)
+### Build de leveling, 9/32/10
 
-### Félin, 9/37/5
+Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/druid/?t=050022-55200002123012125001-055). Le [build de leveling du Druid](/fr/leveling/druid/) donne le talent de chaque niveau.
 
-Pour un Druid qui ne tanke jamais. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=050022-53230032123112125001-05).
+### Build PvP, 0/35/16
 
-### Ours, 9/37/5
-
-Pour un Druid qui ne fait que tanker, avec plus de Rage et de survie. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=050022-5023030212310212541-05).
-
-### Solo, 0/35/16
-
-Pour les quêtes et le farm en solo : des changements de forme moins chers et des soins sur vous-même efficaces, au prix d'un peu de performance en groupe. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=-05231032123112125001-15513000001).
+Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/druid/?t=-55202002123112124011-05433000001).
 
 ## Ce que font les talents clés
 

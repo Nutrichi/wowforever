@@ -20,6 +20,8 @@ faq:
   - q: "Welk ras is het beste voor een Survival Hunter?"
     a: "Skyborne aan beide kanten, voor de haste-bonus. Human voor de Alliance en Orc voor de Horde zijn sterke alternatieven. De verschillen zijn klein."
 sources:
+  - name: "Wowhead, talentbuilds"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/survival-hunter/"
 ---
@@ -48,37 +50,42 @@ De Survival Hunter in WoW Forever vecht op afstand en in melee. Je weeft Raptor 
 
 **De dode zone.** Tussen melee-bereik en 8 meter kun je geen melee- en geen ranged-aanvallen gebruiken. Ook Survival heeft dat probleem.
 
-## De build voor level 60: 5/13/33
+## Builds voor level 60
 
-De beta stopte op level 30, maar de talentbomen voor level 60 staan in de spelbestanden. We hebben deze build punt voor punt nagekeken in [onze talentcalculator](/nl/talents/hunter/?t=5-005005201-530200230050222151): 5 punten in Beast Mastery, 13 in Marksmanship en 33 in Survival, samen 51.
+Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+### Raidbuild, 16/4/31
+
+16 punten in Beast Mastery, 4 in Marksmanship en 31 in Survival. [Open de raidbuild in de talentcalculator](/nl/talents/hunter/?t=51202005001-004-500230230050022151).
 
 | Talent | Punten |
 |---|---|
-| **Deadly Aspects** (Beast Mastery) | 5/5 |
-| **Lethal Attacks** (Marksmanship) | 5/5 |
-| **Careful Aim** (Marksmanship) | 5/5 |
-| **Rapid Killing** (Marksmanship) | 2/2 |
-| **Lone Wolf** (Marksmanship) | 1/1 |
+| **Deadly Aspects** | 5/5 |
+| **Endurance Training** | 1/5 |
+| **Focused Fire** | 2/2 |
+| **Improved Revive Pet** | 2/2 |
+| **Unleashed Fury** | 5/5 |
+| **Summon Hawk** | 1/1 |
+| **Lethal Attacks** | 4/5 |
 | **Improved Tracking** | 5/5 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19295"><img class="wf-wh__icon" src="/wh/ability_parry.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deflection</a>** | 3/5 |
 | **Savage Strikes** | 2/2 |
+| **Survivalist** | 3/5 |
 | **Clever Traps** | 2/2 |
 | **Surefooted** | 3/3 |
 | **Predator's Edge** | 5/5 |
-| **Resourcefulness** | 2/2 |
 | **Expose Prey** | 2/2 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1310496"><img class="wf-wh__icon" src="/wh/ability_hunter_mastertactitian.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Survivalist's Discipline</a>** | 2/2 |
+| **Survivalist's Discipline** | 2/2 |
 | **Strider Kick** | 1/1 |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a>** | 5/5 |
+| **Lightning Reflexes** | 5/5 |
 | **Lacerating Strikes** | 1/1 |
 
-![De build 5/13/33 van de Survival Hunter in onze talentcalculator](../../../../assets/posts/2026-10-25-wow-forever-survival-hunter-build.jpg)
+### Levelbuild, 31/20/0
 
-Drie keuzes kunnen schuiven:
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/hunter/?t=5120221405101241-00503520005). De [levelbuild voor de Hunter](/nl/leveling/hunter/) geeft het talent voor elk level.
 
-- **Lone Wolf** naar 1 punt in **Efficiency** of **Improved Stings** als je je pet wilt houden, bijvoorbeeld tijdens het questen.
-- **Rapid Killing** naar 2 punten in **Efficiency** of **Improved Stings** als je Rapid Fire niet vaker nodig hebt en goedkopere of sterkere Stings wilt.
-- **Deadly Aspects** naar 2 punten in **Efficiency** of **Improved Stings** plus 3 punten in **Mortal Shots**.
+### PvP-build, 16/0/35
+
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/hunter/?t=50230014001--502203031051222151).
 
 ## Wat de belangrijkste talenten doen
 
