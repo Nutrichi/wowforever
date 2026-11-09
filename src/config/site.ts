@@ -27,8 +27,8 @@ export const raidsDate = '2026-12-09T23:00:00Z';
  * Blizzard zegt alleen dat elke raid wekelijks reset (podcast en blog, oktober 2026).
  */
 export const regions = {
-  eu: { day: 3, hourUtc: 4 },
-  us: { day: 2, hourUtc: 15 },
+  eu: { day: 3, hourUtc: 4, tz: 'Europe/Paris' },
+  us: { day: 2, hourUtc: 15, tz: 'America/Los_Angeles' },
 } as const;
 export type Region = keyof typeof regions;
 
@@ -50,9 +50,13 @@ export const raidPhases = [
 
 /**
  * De Darkmoon Faire (kalender van Nutri, 9 november 2026). `from` en `to` zijn de dagen van de
- * kalender (maandag tot zondag); de Faire gaat open op `from` op het uur van de wekelijkse reset
- * van de regio en sluit de dag na `to` op hetzelfde uur (Nutri: "Same as the weekly reset").
+ * kalender (maandag tot zondag). De kalender in het spel zegt "Begins: 11/09 4:00 AM, Ends:
+ * 11/16 4:00 AM": open op `from` om 04.00 realmtijd, dicht de dag na `to` om 04.00 realmtijd.
+ * Realmtijd: `tz` van de regio (EU Midden-Europese tijd, US Pacific; US-realms hebben elk hun eigen
+ * tijdzone, Pacific is de referentie van Blizzard). Eerst rekenden we met het resetuur (Nutri koos
+ * dat zonder het uur te kennen); rechtgezet op 9 november 2026 na de vraag van Nutri.
  */
+export const darkmoonHour = 4;
 export const darkmoonFaire = [
   { from: '2026-11-09', to: '2026-11-15', where: 'Elwynn Forest' },
   { from: '2026-12-07', to: '2026-12-13', where: 'Mulgore' },

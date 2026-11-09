@@ -14,7 +14,7 @@
  */
 import type { Locale } from '../i18n/ui';
 import { localizePath, useTranslations } from '../i18n/utils';
-import { darkmoonFaire, foreverHubPath, launchDate, raidPhases, raidsDate, regions } from '../config/site';
+import { darkmoonFaire, darkmoonHour, foreverHubPath, launchDate, raidPhases, raidsDate, regions } from '../config/site';
 
 interface Props { locale: Locale }
 const { locale } = Astro.props;
@@ -36,11 +36,23 @@ const nextReset = (r: { day: number; hourUtc: number }, at: number) => {
   while (new Date(x).getUTCDay() !== r.day || x <= at) x += DAY;
   return x;
 };
-const dmfWindow = (f: { from: string; to: string }, r: { hourUtc: number }) => {
-  const open = Date.parse(`${f.from}T00:00:00Z`) + r.hourUtc * HOUR;
-  const close = Date.parse(`${f.to}T00:00:00Z`) + DAY + r.hourUtc * HOUR;
-  return { open, close };
+/* Een uur op een dag in een tijdzone, als tijdstip (zomer- en wintertijd inbegrepen). */
+const zoned = (ymd: string, hour: number, tz: string) => {
+  const [y, m, d] = ymd.split('-').map(Number);
+  const want = Date.UTC(y, m - 1, d, hour);
+  let at = want;
+  for (let i = 0; i < 2; i++) {
+    const p = Object.fromEntries(new Intl.DateTimeFormat('en-US', { timeZone: tz, hourCycle: 'h23', year: 'numeric',
+      month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).formatToParts(new Date(at)).map((x) => [x.type, x.value]));
+    at += want - Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour, +p.minute);
+  }
+  return at;
 };
+const dayAfter = (ymd: string) => new Date(Date.parse(`${ymd}T12:00:00Z`) + DAY).toISOString().slice(0, 10);
+const dmfWindow = (f: { from: string; to: string }, r: { tz: string }) => ({
+  open: zoned(f.from, darkmoonHour, r.tz),
+  close: zoned(dayAfter(f.to), darkmoonHour, r.tz),
+});
 
 const raidsAt = Date.parse(raidsDate);
 const launchAt = Date.parse(launchDate);
@@ -55,7 +67,7 @@ const dmf = fair ? split((dmfLive ? fair.close : fair.open) - now) : null;
 
 const units = { d: [t('countdown.daysOne'), t('countdown.daysMany')], h: [t('countdown.hoursOne'), t('countdown.hoursMany')] };
 const data = {
-  launchDate, raidsDate, regions, raidPhases, darkmoonFaire, units,
+  launchDate, raidsDate, regions, raidPhases, darkmoonFaire, darkmoonHour, units,
   text: {
     launch: t('countdown.label'), launchAria: t('countdown.aria'),
     raids: t('countdown.raidsLabel'), raidsAria: t('countdown.raidsAria'),
@@ -265,7 +277,7 @@ const phase = raidPhases[0];
 </style>
 
 <script>
-  type Reg = { day: number; hourUtc: number };
+  type Reg = { day: number; hourUtc: number; tz: string };
   type Fair = { from: string; to: string; where: string };
   const root = document.querySelector<HTMLElement>('[data-wf-timers]');
 
@@ -296,10 +308,23 @@ const phase = raidPhases[0];
       while (new Date(x).getUTCDay() !== r.day || x <= at) x += DAY;
       return x;
     };
+    // Een uur op een dag in de tijdzone van de realms (zomer- en wintertijd inbegrepen).
+    const zoned = (ymd: string, hour: number, tz: string) => {
+      const [y, m, d] = ymd.split('-').map(Number);
+      const want = Date.UTC(y, m - 1, d, hour);
+      let at = want;
+      for (let i = 0; i < 2; i++) {
+        const p = Object.fromEntries(new Intl.DateTimeFormat('en-US', { timeZone: tz, hourCycle: 'h23', year: 'numeric',
+          month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).formatToParts(new Date(at)).map((x) => [x.type, x.value]));
+        at += want - Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour, +p.minute);
+      }
+      return at;
+    };
+    const dayAfter = (ymd: string) => new Date(Date.parse(`${ymd}T12:00:00Z`) + DAY).toISOString().slice(0, 10);
     const win = (f: Fair, r: Reg) => ({
       ...f,
-      open: Date.parse(`${f.from}T00:00:00Z`) + r.hourUtc * HOUR,
-      close: Date.parse(`${f.to}T00:00:00Z`) + DAY + r.hourUtc * HOUR,
+      open: zoned(f.from, C.darkmoonHour, r.tz),
+      close: zoned(dayAfter(f.to), C.darkmoonHour, r.tz),
     });
     const when = (ms: number) => new Intl.DateTimeFormat(C.locale, {
       weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit', hourCycle: 'h23',
