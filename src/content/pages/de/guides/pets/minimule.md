@@ -38,7 +38,7 @@ Minimule ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lernst 
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256389">Tamelyn Aldridge</a> verkauft es in Redridge Mountains für 1.500 Merchant's Favor.
 
-Merchant's Favor ist die Währung der beiden Versorgungsfraktionen von WoW Forever: die [Azeroth Commerce Authority](/de/reputations/azeroth-commerce-authority/) für die Allianz und [Durotar Supply and Logistics](/de/reputations/durotar-supply-and-logistics/) für die Horde. Man verdient sie, indem man Versorgungskisten füllt und abgibt.
+Merchant's Favor ist die Währung der beiden Versorgungsfraktionen von WoW Forever: die [Azeroth Commerce Authority](/de/reputations/azeroth-commerce-authority/) für die Allianz und [Durotar Supply and Logistics](/de/reputations/durotar-supply-and-logistics/) für die Horde. Man verdient sie, indem man Versorgungskisten füllt und abgibt. Um den Packmule Treat zu kaufen, brauchst du Revered bei dieser Fraktion.
 
 ## Gut zu wissen
 

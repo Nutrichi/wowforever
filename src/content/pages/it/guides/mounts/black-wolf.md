@@ -1,14 +1,14 @@
 ---
 title: "Black Wolf: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Black Wolf in WoW Forever"
-description: "Black Wolf è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Non ancora noto."
+description: "Black Wolf è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Missione: Your First Riding Wolf."
 short: "Black Wolf"
 updated: 2026-10-09
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Black Wolf in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno. Cavalcarla richiede Wolf Riding."
+    a: "È la ricompensa della missione Your First Riding Wolf, dal livello 40, per l'Orda. Cavalcarla richiede Wolf Riding."
   - q: "Black Wolf è nuova in WoW Forever?"
     a: "No. Black Wolf c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,16 +27,16 @@ Black Wolf è una cavalcatura di Classic che torna in World of Warcraft: Forever
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1041"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Black Wolf</a> |
-| Fonte | Non ancora noto |
+| Fonte | Missione: <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a> |
 | Livello | 40 |
 | Cavalcare | Wolf Riding |
 | Velocità | normale |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+È la ricompensa della missione <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, dal livello 40, per l'Orda.
 
 Cavalcarla richiede Wolf Riding.
 
@@ -44,7 +44,7 @@ Il gioco nasconde questa cavalcatura nella collezione finché un personaggio non
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature con Wolf Riding
 

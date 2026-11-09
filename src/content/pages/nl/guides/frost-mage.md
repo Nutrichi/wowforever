@@ -14,7 +14,7 @@ faq:
   - q: "Kan ik nog rank 1 Frostbolt gebruiken?"
     a: "Alleen voor de vertraging. In WoW Forever hebben lagere ranks een veel kleinere kans op effecten zoals Frostbite en Fingers of Frost, dus rank 1 helpt niet meer om procs uit te lokken."
   - q: "Wanneer krijg ik Ice Barrier?"
-    a: "Ice Barrier is het laatste talent van de Frost-boom en vraagt level 40, dus het zat niet in de beta. Tot level 40 steun je op bevriezen, Mana Shield en Blink."
+    a: "Ice Barrier is het laatste talent van de Frost-boom en vraagt level 40. Tot level 40 steun je op bevriezen, Mana Shield en Blink."
   - q: "Welk ras is het beste voor een Frost Mage?"
     a: "Orc bij de Horde, dankzij 10% spell power van Blood Fury, met Troll en Berserking vlak daarachter. Bij de Alliance Human met 1% critical strike-kans of Skyborne met 2% Haste. Kies het ras dat je mooi vindt als je niet op elke procent jaagt."
   - q: "Is er al een build voor level 60?"

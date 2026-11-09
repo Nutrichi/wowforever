@@ -32,8 +32,9 @@ Stormpike Battle Charger es una montura de Classic que vuelve en World of Warcra
 | Precio | 800 de oro |
 | Nivel | 60 |
 | Velocidad | muy rápida |
+| Requisito | Stormpike Guard (Exalted) |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
@@ -41,8 +42,10 @@ Stormpike Battle Charger es una montura de Classic que vuelve en World of Warcra
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13217">Thanthaldis Snowgleam</a> la vende en Alterac Mountains por 800 de oro.
 
+Comprarla o usarla requiere Exalted con Stormpike Guard.
+
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 Todas las monturas de WoW Forever, con su origen, están en la [guía de monturas](/es/guides/mounts/).

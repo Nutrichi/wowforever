@@ -14,7 +14,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=23713"
 ---
-Hippogryph Hatchling is a companion pet from Classic that returns in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=23713"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hippogryph Hatchling</a> still summons it the way it did in Classic, according to the tooltip on the beta.
+Hippogryph Hatchling is a companion pet from Classic that returns in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=23713"><img class="wf-wh__icon" src="/wh/inv_egg_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hippogryph Hatchling</a> still summons it the way it did in Classic, according to the tooltip.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_egg_02.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=23713">Hippogryph Hatchling</a><span class="wf-item__line wf-item__meta">Item Level 1</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss your hippogryph hatchling.</span></div></div>

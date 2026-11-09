@@ -8,7 +8,7 @@ lang: it
 manual: true
 faq:
   - q: "Come si ottiene Spectral Bear Cub in WoW Forever?"
-    a: "È una ricompensa del percorso Legacy di WoW Forever. Il totale dei punti Legacy guadagnati sblocca ricompense cosmetiche a 15, 25, 40 e 55 punti; lo Spectral Bear Cub arriva a 25, secondo il testo nei file della beta. Spendere punti nei perk non rallenta il percorso. Ogni sfida vale un punto."
+    a: "È una ricompensa del percorso Legacy di WoW Forever. Il totale dei punti Legacy guadagnati sblocca ricompense cosmetiche a 15, 25, 40 e 55 punti; lo Spectral Bear Cub arriva a 25, secondo il testo nei file di gioco. Spendere punti nei perk non rallenta il percorso. Ogni sfida vale un punto."
   - q: "Spectral Bear Cub è nuova in WoW Forever?"
     a: "Sì. Spectral Bear Cub è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -32,11 +32,11 @@ Spectral Bear Cub è una mascotte da compagnia nuova in World of Warcraft: Forev
 
 ## Come ottenerla
 
-È una ricompensa del percorso Legacy di WoW Forever. Il totale dei punti Legacy guadagnati sblocca ricompense cosmetiche a 15, 25, 40 e 55 punti; lo Spectral Bear Cub arriva a 25, secondo il testo nei file della beta. Spendere punti nei perk non rallenta il percorso. Ogni sfida vale un punto. Di più su Legacy nella [pagina di WoW Forever](/it/forever/).
+È una ricompensa del percorso Legacy di WoW Forever. Il totale dei punti Legacy guadagnati sblocca ricompense cosmetiche a 15, 25, 40 e 55 punti; lo Spectral Bear Cub arriva a 25, secondo il testo nei file di gioco. Spendere punti nei perk non rallenta il percorso. Ogni sfida vale un punto. Di più su Legacy nella [pagina di WoW Forever](/it/forever/).
 
 ## Da sapere
 
-La descrizione nella beta mostra ancora un testo provvisorio ([DNT] 1), quindi questa mascotte non è finita.
+La descrizione mostra ancora un testo provvisorio ([DNT] 1), quindi questa mascotte non è finita.
 
 I dati del gioco segnano la mascotte come valida per tutto l'account: imparata una volta, ci sarebbe per ogni personaggio. Blizzard non l'ha confermato.
 

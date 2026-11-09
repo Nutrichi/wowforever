@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-undead"
   tab: "guide"
 ---
-Stratholme estaba cerrado en la beta, que se detenía en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes de los datos de Forever. Blizzard no dice si la mazmorra cambia para Forever.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes de los datos de Forever. Blizzard no dice si la mazmorra cambia para Forever.
 
 Stratholme es una sola instancia con dos lados. El lado no muerto es de la Plaga de Baron Rivendare, el [lado vivo](/es/guides/dungeons/stratholme-living/) de la Scarlet Crusade.
 
@@ -74,4 +74,4 @@ Entrad juntos: la puerta se cierra. El tank lo lleva al fondo a la derecha, de e
 
 - **Las recompensas** de las ocho misiones en los datos de Forever.
 - **El botín**: 35 de los 53 objetos de Classic aún no están en los datos de Forever, y no se sabe si cae Deathcharger's Reins.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta. Tras una reja de Slaughter Square se veía en Classic un portal cerrado a Naxxramas; no se sabe qué hace Forever con él.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren. Tras una reja de Slaughter Square se veía en Classic un portal cerrado a Naxxramas; no se sabe qué hace Forever con él.

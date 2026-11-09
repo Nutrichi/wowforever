@@ -35,7 +35,7 @@ Black War Wolf es una montura de Classic que vuelve en World of Warcraft: Foreve
 | Velocidad | muy rápida |
 | Requisito | Commander / Lieutenant General (Rank 11) |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
@@ -47,7 +47,7 @@ Montarla requiere Wolf Riding.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas de Raider Bork
 

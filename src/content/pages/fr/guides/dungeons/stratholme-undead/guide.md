@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-undead"
   tab: "guide"
 ---
-Stratholme était fermé pendant la bêta, qui s'arrêtait au niveau 30. Ce guide suit le donjon tel qu'il était dans Classic, avec les niveaux des boss des données de Forever. Blizzard ne dit pas si le donjon change pour Forever.
+Ce guide suit le donjon tel qu'il était dans Classic, avec les niveaux des boss des données de Forever. Blizzard ne dit pas si le donjon change pour Forever.
 
 Stratholme est une seule instance avec deux côtés. Le côté mort-vivant appartient au Scourge de Baron Rivendare, le [côté vivant](/fr/guides/dungeons/stratholme-living/) à la Scarlet Crusade.
 
@@ -74,4 +74,4 @@ Entrez ensemble : la porte se ferme. Le tank l'emmène au fond à droite, dos au
 
 - **Les récompenses** des huit quêtes dans les données de Forever.
 - **Le butin** : 35 des 53 objets de Classic ne sont pas encore dans les données de Forever, et le drop de Deathcharger's Reins n'est pas connu.
-- **Les changements pour Forever** : le donjon était fermé pendant la bêta. Derrière une grille de Slaughter Square, on voyait dans Classic un portail fermé vers Naxxramas ; on ne sait pas ce que Forever en fait.
+- **Les changements pour Forever** : pas encore connus. Derrière une grille de Slaughter Square, on voyait dans Classic un portail fermé vers Naxxramas ; on ne sait pas ce que Forever en fait.

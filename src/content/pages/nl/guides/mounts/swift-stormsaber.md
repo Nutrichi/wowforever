@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Swift Stormsaber in WoW Forever?"
-    a: "Lelanai verkoopt hem in Darnassus voor 1000 goud. De verkoper is vriendelijk voor de Alliance. Rijden vraagt Tiger Riding."
+    a: "Lelanai verkoopt hem in Darnassus voor 1000 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Frostsaber Replacement, vanaf level 60 voor beide facties, laat je deze kiezen."
   - q: "Is Swift Stormsaber nieuw in WoW Forever?"
     a: "Nee. Swift Stormsaber zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Stormsaber is een mount uit Classic die terugkomt in World of Warcraft: Fo
 | Rijden | Tiger Riding |
 | Snelheid | zeer snel |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkoopt hem in Darnassus voor 1000 goud. De verkoper is vriendelijk voor de Alliance.
 
+Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=7671">Frostsaber Replacement</a>, vanaf level 60 voor beide facties, laat je deze kiezen.
+
 Rijden vraagt Tiger Riding.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts van Lelanai
 

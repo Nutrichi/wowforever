@@ -213,7 +213,7 @@ Al livello 20 una catena di missioni di classe ti insegna i Poisons.
 | 4 | <a href="https://www.wowhead.com/forever/quest=2608">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2479">Hinott's Assistance</a> |
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
-Altre missioni di classe con oggetti in ricompensa sono attese oltre il livello 30, che la beta non raggiungeva.
+Non si sa ancora se oltre il livello 30 arrivino altre missioni di classe con oggetti in ricompensa.
 
 Ogni passo delle due catene, con il punto debole di ogni nemico tosto, è nella [guida ai Poisons](/it/guides/poisons/).
 

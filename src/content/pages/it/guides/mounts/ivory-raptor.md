@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Ivory Raptor in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno. Cavalcarla richiede Raptor Riding."
+    a: "I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno. Cavalcarla richiede Raptor Riding."
   - q: "Ivory Raptor è nuova in WoW Forever?"
     a: "No. Ivory Raptor c'era già in Classic e torna in WoW Forever."
 sources:
@@ -33,11 +33,11 @@ Ivory Raptor è una cavalcatura di Classic che torna in World of Warcraft: Forev
 | Cavalcare | Raptor Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno.
 
 Cavalcarla richiede Raptor Riding.
 
@@ -45,7 +45,7 @@ Il gioco nasconde questa cavalcatura nella collezione finché un personaggio non
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature con Raptor Riding
 

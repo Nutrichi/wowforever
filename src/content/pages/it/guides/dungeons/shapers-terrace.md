@@ -14,7 +14,7 @@ faq:
   - q: "Servono i cristalli di Un'Goro?"
     a: "Portali. Secondo Blizzard, i power crystals raccolti in Un'Goro Crater funzionano su console dentro il dungeon. Cosa fanno lì non si sa ancora."
   - q: "Cosa lascia Shaper's Terrace?"
-    a: "Non ancora noto. Il dungeon apre oltre il livello 30, quindi nella beta si vedeva solo l'ingresso."
+    a: "Non ancora noto."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shapers-terrace/"
@@ -22,4 +22,4 @@ dungeon:
   slug: "shapers-terrace"
   tab: "loot"
 ---
-Nessun bottino di Shaper's Terrace è ancora noto. Il dungeon apre oltre il livello 30, quindi nella beta si vedeva solo l'ingresso. Questa pagina si riempirà quando i giocatori lo faranno dopo il lancio del 4 novembre.
+Nessun bottino di Shaper's Terrace è ancora noto. Questa pagina si riempirà man mano che i giocatori lo affrontano.

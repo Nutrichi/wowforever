@@ -36,8 +36,6 @@ Pachimari est une mascotte de compagnie nouvelle dans World of Warcraft: Forever
 
 ## Bon à savoir
 
-L'infobulle de la bêta affiche encore un texte provisoire ([PH] Pachimara), la mascotte n'est donc pas terminée.
-
 Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 
 ## Autres mascottes de même source

@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-north"
   tab: "guide"
 ---
-Dire Maul était fermé sur la bêta, qui s’arrêtait au niveau 30. Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever.
+Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever.
 
 ## L’accès
 
@@ -76,4 +76,4 @@ Ils se battent ensemble. En nettoyage complet, tuez d’abord Cho'Rush et interr
 
 - **Les récompenses** des cinq quêtes dans les données de Forever.
 - **Le butin** : aucun des 30 objets de Classic n’est encore dans les données de Forever, et le contenu du coffre Gordok Tribute n’est pas connu.
-- **Les changements pour Forever** : le donjon était fermé sur la bêta.
+- **Les changements pour Forever** : pas encore connus. Cette page sera mise à jour dès que les joueurs les trouveront.

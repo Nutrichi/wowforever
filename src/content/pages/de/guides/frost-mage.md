@@ -14,7 +14,7 @@ faq:
   - q: "Kann ich noch Frostbolt Rang 1 nutzen?"
     a: "Nur für die Verlangsamung. In WoW Forever haben niedrigere Ränge eine viel kleinere Chance, Effekte wie Frostbite und Fingers of Frost auszulösen, Rang 1 hilft also nicht mehr, Procs herauszukitzeln."
   - q: "Wann bekomme ich Ice Barrier?"
-    a: "Ice Barrier ist das letzte Talent des Frost-Baums und braucht Level 40, es war also nicht in der Beta. Bis Level 40 verlässt du dich auf Einfrieren, Mana Shield und Blink."
+    a: "Ice Barrier ist das letzte Talent des Frost-Baums und braucht Level 40. Bis Level 40 verlässt du dich auf Einfrieren, Mana Shield und Blink."
   - q: "Welches Volk ist das beste für einen Frost Mage?"
     a: "Orc bei der Horde, dank 10 % Zaubermacht von Blood Fury, mit Troll und Berserking knapp dahinter. Bei der Allianz Human mit 1 % kritischer Trefferchance oder Skyborne mit 2 % Haste. Nimm das Volk, das dir gefällt, wenn du nicht jedem Prozent nachjagst."
   - q: "Gibt es schon einen Build für Level 60?"

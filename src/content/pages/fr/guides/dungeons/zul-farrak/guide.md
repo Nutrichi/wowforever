@@ -13,7 +13,7 @@ dungeon:
   slug: "zul-farrak"
   tab: "guide"
 ---
-Zul'Farrak était fermé sur la bêta, qui s’arrêtait au niveau 30. Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever.
+Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever.
 
 ## L’accès
 
@@ -82,4 +82,4 @@ Il attend derrière la porte détruite avec <a class="wf-wh wf-plain" href="http
 
 - **Les récompenses** des huit quêtes dans les données de Forever.
 - **Quatre objets** du butin de Classic qui ne sont pas encore dans les données de Forever.
-- **Les changements pour Forever** : le donjon était fermé sur la bêta.
+- **Les changements pour Forever** : pas encore connus. Cette page sera mise à jour dès que les joueurs les trouveront.

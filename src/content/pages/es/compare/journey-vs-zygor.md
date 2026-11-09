@@ -44,7 +44,7 @@ La parte gratis ya tiene las misiones nuevas de Forever, el inicio Skyborne en Z
 
 ## Lo que ofrece Zygor
 
-Zygor actualiza sus guías del 1 al 60 para las zonas nuevas, el inicio Skyborne y las nuevas combinaciones de raza y clase, y añade guías para las nueve mazmorras nuevas. Su sistema de viajes y su asesor de talentos también se actualizan para Forever. Zygor avisa de que el límite de nivel de la beta limita lo que puede probar, así que la ruta podría estar actualizada solo en parte en el lanzamiento y completarse después.
+Zygor actualiza sus guías del 1 al 60 para las zonas nuevas, el inicio Skyborne y las nuevas combinaciones de raza y clase, y añade guías para las nueve mazmorras nuevas. Su sistema de viajes y su asesor de talentos también se actualizan para Forever. Antes del lanzamiento, Zygor avisó de que el límite de nivel de la beta limitaba lo que podía probar, así que la ruta podía estar actualizada solo en parte en el lanzamiento y completarse después.
 
 ## Cuál para quién
 

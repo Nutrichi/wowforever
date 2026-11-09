@@ -1,14 +1,14 @@
 ---
 title: "Pet Fish : comment obtenir la mascotte dans WoW Forever"
 metaTitle: "Comment obtenir Pet Fish dans WoW Forever"
-description: "Pet Fish est une mascotte de compagnie de Classic qui revient dans World of Warcraft: Forever. Elle tombe sur Dreamwater Vicejaw à The Hinterlands."
+description: "Pet Fish est une mascotte de compagnie de Classic qui revient dans World of Warcraft: Forever."
 short: "Pet Fish"
 updated: 2026-09-30
 lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Pet Fish dans WoW Forever ?"
-    a: "Elle tombe sur Dreamwater Vicejaw à The Hinterlands. Dans les données de butin, elle tombe dans environ 0,1 % des victoires."
+    a: "Les fichiers du jeu WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront."
   - q: "Pet Fish est-elle nouvelle dans WoW Forever ?"
     a: "Non. Pet Fish existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -26,15 +26,13 @@ Pet Fish est une mascotte de compagnie de Classic qui revient dans World of Warc
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13342"><img class="wf-wh__icon" src="/wh/inv_misc_fish_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Fish</a> |
-| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> |
-| Où | The Hinterlands |
-| Taux de butin | 0,1 % |
+| Source | Pas encore connue |
 | Nouvelle dans Forever | non, de Classic |
 | Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
-Elle tombe sur <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> à The Hinterlands. Dans les données de butin, elle tombe dans environ 0,1 % des victoires.
+Les fichiers du jeu WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 ## Ce qui a changé depuis Classic
 
@@ -44,13 +42,13 @@ Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise
 
 ## Autres mascottes de même source
 
-- [Baby Crocolisk](/fr/guides/pets/baby-crocolisk/)
-- [Black Tabby](/fr/guides/pets/black-tabby/)
-- [Crimson Whelpling](/fr/guides/pets/crimson-whelpling/)
-- [Dark Whelpling](/fr/guides/pets/dark-whelpling/)
-- [Emerald Whelpling](/fr/guides/pets/emerald-whelpling/)
-- [Green Wing Macaw](/fr/guides/pets/green-wing-macaw/)
-- [Hyacinth Macaw](/fr/guides/pets/hyacinth-macaw/)
-- [Pet Stone](/fr/guides/pets/pet-stone/)
+- [Albino Snapjaw](/fr/guides/pets/albino-snapjaw/)
+- [Azure Whelpling](/fr/guides/pets/azure-whelpling/)
+- [Azurky](/fr/guides/pets/azurky/)
+- [Baby Shark](/fr/guides/pets/baby-shark/)
+- [Blossoming Ancient](/fr/guides/pets/blossoming-ancient/)
+- [Bronze Whelpling](/fr/guides/pets/bronze-whelpling/)
+- [Corrupted Kitten](/fr/guides/pets/corrupted-kitten/)
+- [Disgusting Oozeling](/fr/guides/pets/disgusting-oozeling/)
 
 Chaque mascotte de WoW Forever, avec son origine, figure dans le [guide des mascottes](/fr/guides/pets/).

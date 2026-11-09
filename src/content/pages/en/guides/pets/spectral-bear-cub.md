@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Spectral Bear Cub in WoW Forever?"
-    a: "It is a reward on the Legacy track of WoW Forever. The total number of Legacy points you earn unlocks cosmetic rewards at 15, 25, 40 and 55 points; the Spectral Bear Cub comes at 25, according to the text in the files of the beta. Spending points on perks does not slow the track down."
+    a: "It is a reward on the Legacy track of WoW Forever. The total number of Legacy points you earn unlocks cosmetic rewards at 15, 25, 40 and 55 points; the Spectral Bear Cub comes at 25, according to the text in the game files. Spending points on perks does not slow the track down."
   - q: "Is Spectral Bear Cub new in WoW Forever?"
     a: "Yes. Spectral Bear Cub is new in WoW Forever and was not in Classic."
 sources:
@@ -31,11 +31,11 @@ Spectral Bear Cub is a companion pet that is new in World of Warcraft: Forever. 
 
 ## How to get it
 
-It is a reward on the Legacy track of WoW Forever. The total number of Legacy points you earn unlocks cosmetic rewards at 15, 25, 40 and 55 points; the Spectral Bear Cub comes at 25, according to the text in the files of the beta. Spending points on perks does not slow the track down. Every challenge is worth one point. More on Legacy on the [WoW Forever page](/forever/).
+It is a reward on the Legacy track of WoW Forever. The total number of Legacy points you earn unlocks cosmetic rewards at 15, 25, 40 and 55 points; the Spectral Bear Cub comes at 25, according to the text in the game files. Spending points on perks does not slow the track down. Every challenge is worth one point. More on Legacy on the [WoW Forever page](/forever/).
 
 ## Good to know
 
-The tooltip on the beta still shows placeholder text ([DNT] 1), so this pet is not finished yet.
+The tooltip still shows placeholder text ([DNT] 1), so this pet is not finished yet.
 
 The game data marks the pet as account-wide: learned once, it would be there for every character. Blizzard has not confirmed that itself.
 

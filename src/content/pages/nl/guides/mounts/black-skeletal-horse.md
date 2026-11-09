@@ -1,14 +1,14 @@
 ---
 title: "Black Skeletal Horse: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Black Skeletal Horse in WoW Forever"
-description: "Black Skeletal Horse is een mount die nieuw is in World of Warcraft: Forever. Bron: Nog niet bekend."
+description: "Black Skeletal Horse is een mount die nieuw is in World of Warcraft: Forever. Bron: Quest: A Steed in Death as They Were in Life."
 short: "Black Skeletal Horse"
 updated: 2026-10-09
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Black Skeletal Horse in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Rijden vraagt Undead Horsemanship."
+    a: "Hij is de beloning van de quest A Steed in Death as They Were in Life, vanaf level 40, voor de Horde. Rijden vraagt Undead Horsemanship."
   - q: "Is Black Skeletal Horse nieuw in WoW Forever?"
     a: "Ja. Black Skeletal Horse is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -27,16 +27,16 @@ Black Skeletal Horse is een mount die nieuw is in World of Warcraft: Forever. He
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276063"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Skeletal Horse</a> |
-| Bron | Nog niet bekend |
+| Bron | Quest: <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a> |
 | Level | 40 |
 | Rijden | Undead Horsemanship |
 | Snelheid | normaal |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+Hij is de beloning van de quest <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, vanaf level 40, voor de Horde.
 
 Rijden vraagt Undead Horsemanship.
 

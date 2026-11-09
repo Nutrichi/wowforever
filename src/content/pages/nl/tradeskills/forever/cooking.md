@@ -119,7 +119,7 @@ Elke buff duurt 15 minuten en begint na 10 seconden eten.
 
 ## Nieuwe recepten
 
-Elk nieuw recept van Forever met de skill die het vraagt en waar het vandaan komt. "Nog niet bekend" betekent dat de bron op de beta nog niet gevonden is.
+Elk nieuw recept van Forever met de skill die het vraagt en waar het vandaan komt. "Nog niet bekend" betekent dat de bron nog niet gevonden is.
 
 | Recept | Skill | Bron |
 |---|---|---|

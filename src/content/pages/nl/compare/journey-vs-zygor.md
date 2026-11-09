@@ -44,7 +44,7 @@ Het gratis deel heeft al de nieuwe quests van Forever, de Skyborne-start op Zeph
 
 ## Wat Zygor biedt
 
-Zygor werkt zijn gidsen van 1 tot 60 bij voor de nieuwe gebieden, de Skyborne-start en de nieuwe combinaties van ras en class, en maakt gidsen voor de negen nieuwe dungeons. Het reissysteem en de talentadviseur krijgen ook updates voor Forever. Zygor waarschuwt dat de levelcap van de beta beperkt wat het kan testen, dus de route kan bij de launch deels bijgewerkt zijn en daarna afgewerkt worden.
+Zygor werkt zijn gidsen van 1 tot 60 bij voor de nieuwe gebieden, de Skyborne-start en de nieuwe combinaties van ras en class, en maakt gidsen voor de negen nieuwe dungeons. Het reissysteem en de talentadviseur krijgen ook updates voor Forever. Voor de launch waarschuwde Zygor dat de levelcap van de beta beperkte wat het kon testen, dus de route kon bij de launch deels bijgewerkt zijn en daarna afgewerkt worden.
 
 ## Welke past bij wie
 

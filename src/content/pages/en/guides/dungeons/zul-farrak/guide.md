@@ -12,7 +12,7 @@ dungeon:
   slug: "zul-farrak"
   tab: "guide"
 ---
-Zul'Farrak was closed on the beta, which stopped at level 30. This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
+This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
 
 ## Getting there
 
@@ -81,4 +81,4 @@ He waits behind the blown door with <a class="wf-wh wf-plain" href="https://www.
 
 - **The rewards** of the eight quests in the Forever data.
 - **Four items** of the Classic loot that are not in the Forever data yet.
-- **Changes for Forever**: the dungeon was closed on the beta.
+- **Changes for Forever**: not known yet. This page gets updated as soon as players find them.

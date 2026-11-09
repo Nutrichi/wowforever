@@ -1,14 +1,14 @@
 ---
 title: "Striped Dawnsaber: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Striped Dawnsaber in WoW Forever"
-description: "Striped Dawnsaber ist ein Reittier, das neu in World of Warcraft: Forever ist. Quelle: Noch nicht bekannt."
+description: "Striped Dawnsaber ist ein Reittier, das neu in World of Warcraft: Forever ist. Quelle: Quest: Your First Feline Friend."
 short: "Striped Dawnsaber"
 updated: 2026-10-09
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Striped Dawnsaber in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Zum Reiten braucht es Tiger Riding."
+    a: "Es ist die Belohnung der Quest Your First Feline Friend, ab Stufe 40, für die Allianz. Zum Reiten braucht es Tiger Riding."
   - q: "Ist Striped Dawnsaber neu in WoW Forever?"
     a: "Ja. Striped Dawnsaber ist neu in WoW Forever und war nicht in Classic."
 sources:
@@ -27,16 +27,16 @@ Striped Dawnsaber ist ein Reittier, das neu in World of Warcraft: Forever ist. E
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274706"><img class="wf-wh__icon" src="/wh/ability_mount_jungletiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Striped Dawnsaber</a> |
-| Quelle | Noch nicht bekannt |
+| Quelle | Quest: <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a> |
 | Stufe | 40 |
 | Reiten | Tiger Riding |
 | Tempo | normal |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Es ist die Belohnung der Quest <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, ab Stufe 40, für die Allianz.
 
 Zum Reiten braucht es Tiger Riding.
 

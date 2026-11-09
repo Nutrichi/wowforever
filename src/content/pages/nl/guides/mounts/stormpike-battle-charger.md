@@ -32,8 +32,9 @@ Stormpike Battle Charger is een mount uit Classic die terugkomt in World of Warc
 | Prijs | 800 goud |
 | Level | 60 |
 | Snelheid | zeer snel |
+| Vereist | Stormpike Guard (Exalted) |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
@@ -41,8 +42,10 @@ Stormpike Battle Charger is een mount uit Classic die terugkomt in World of Warc
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13217">Thanthaldis Snowgleam</a> verkoopt hem in Alterac Mountains voor 800 goud.
 
+Kopen of gebruiken vraagt Exalted bij Stormpike Guard.
+
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 Elke mount van WoW Forever, met waar hij vandaan komt, staat in de [mountgids](/nl/guides/mounts/).

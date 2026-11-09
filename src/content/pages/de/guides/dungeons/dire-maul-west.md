@@ -13,8 +13,6 @@ faq:
     a: "Durch die zwei Türen in der Westmauer des zentralen Hofs von Dire Maul. Ein Spieler der Gruppe braucht den Crescent Key, den Pusillin in Dire Maul East fallen lässt."
   - q: "Wie erreicht man Immol'thar?"
     a: "Fünf Pylonen speisen das Kraftfeld um sein Gefängnis. Töte die Arcane Aberrations und Mana Remnants an jedem Pylon, um ihn abzuschalten."
-  - q: "Konnte man Dire Maul in der Beta spielen?"
-    a: "Nein. Die Beta ging bis Level 30, Dire Maul war also zu. Alles auf diesen Seiten stammt aus den Daten von Forever und aus Classic und kann sich noch ändern."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/dire-maul-west/"

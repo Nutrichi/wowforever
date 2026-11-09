@@ -8,14 +8,14 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Tiny Red Dragon in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont."
+    a: "De spelbestanden van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden."
   - q: "Is Tiny Red Dragon nieuw in WoW Forever?"
     a: "Nee. Tiny Red Dragon zat al in Classic en komt terug in WoW Forever."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=19054"
 ---
-Tiny Red Dragon is een companion pet uit Classic die terugkomt in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=19054"><img class="wf-wh__icon" src="/wh/inv_misc_orb_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Dragon Orb</a> roept hem nog op zoals in Classic, volgens de tooltip op de beta.
+Tiny Red Dragon is een companion pet uit Classic die terugkomt in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=19054"><img class="wf-wh__icon" src="/wh/inv_misc_orb_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Dragon Orb</a> roept hem nog op zoals in Classic, volgens de tooltip.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_orb_05.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=19054">Red Dragon Orb</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss your tiny red dragon.</span></div></div>
@@ -32,7 +32,7 @@ Tiny Red Dragon is een companion pet uit Classic die terugkomt in World of Warcr
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 ## Wat er veranderde sinds Classic
 
@@ -42,11 +42,11 @@ De spelgegevens markeren de pet als geldig voor het hele account: een keer gelee
 
 - [Albino Snapjaw](/nl/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/nl/guides/pets/azure-whelpling/)
+- [Azurky](/nl/guides/pets/azurky/)
 - [Baby Shark](/nl/guides/pets/baby-shark/)
+- [Blossoming Ancient](/nl/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/nl/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/nl/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/nl/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/nl/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/nl/guides/pets/father-winters-helper/)
 
 Elke pet van WoW Forever, met waar hij vandaan komt, staat in de [petgids](/nl/guides/pets/).

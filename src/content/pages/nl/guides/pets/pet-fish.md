@@ -1,14 +1,14 @@
 ---
 title: "Pet Fish: zo krijg je de pet in WoW Forever"
 metaTitle: "Zo krijg je Pet Fish in WoW Forever"
-description: "Pet Fish is een companion pet uit Classic die terugkomt in World of Warcraft: Forever. Hij valt van Dreamwater Vicejaw in The Hinterlands."
+description: "Pet Fish is een companion pet uit Classic die terugkomt in World of Warcraft: Forever."
 short: "Pet Fish"
 updated: 2026-09-30
 lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Pet Fish in WoW Forever?"
-    a: "Hij valt van Dreamwater Vicejaw in The Hinterlands. In de lootgegevens valt hij bij ongeveer 0,1% van de kills."
+    a: "De spelbestanden van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden."
   - q: "Is Pet Fish nieuw in WoW Forever?"
     a: "Nee. Pet Fish zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -26,15 +26,13 @@ Pet Fish is een companion pet uit Classic die terugkomt in World of Warcraft: Fo
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13342"><img class="wf-wh__icon" src="/wh/inv_misc_fish_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Fish</a> |
-| Bron | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> |
-| Waar | The Hinterlands |
-| Dropkans | 0,1% |
+| Bron | Nog niet bekend |
 | Nieuw in Forever | nee, uit Classic |
 | Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
-Hij valt van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> in The Hinterlands. In de lootgegevens valt hij bij ongeveer 0,1% van de kills.
+De spelbestanden van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 ## Wat er veranderde sinds Classic
 
@@ -44,13 +42,13 @@ De spelgegevens markeren de pet als geldig voor het hele account: een keer gelee
 
 ## Meer pets uit dezelfde bron
 
-- [Baby Crocolisk](/nl/guides/pets/baby-crocolisk/)
-- [Black Tabby](/nl/guides/pets/black-tabby/)
-- [Crimson Whelpling](/nl/guides/pets/crimson-whelpling/)
-- [Dark Whelpling](/nl/guides/pets/dark-whelpling/)
-- [Emerald Whelpling](/nl/guides/pets/emerald-whelpling/)
-- [Green Wing Macaw](/nl/guides/pets/green-wing-macaw/)
-- [Hyacinth Macaw](/nl/guides/pets/hyacinth-macaw/)
-- [Pet Stone](/nl/guides/pets/pet-stone/)
+- [Albino Snapjaw](/nl/guides/pets/albino-snapjaw/)
+- [Azure Whelpling](/nl/guides/pets/azure-whelpling/)
+- [Azurky](/nl/guides/pets/azurky/)
+- [Baby Shark](/nl/guides/pets/baby-shark/)
+- [Blossoming Ancient](/nl/guides/pets/blossoming-ancient/)
+- [Bronze Whelpling](/nl/guides/pets/bronze-whelpling/)
+- [Corrupted Kitten](/nl/guides/pets/corrupted-kitten/)
+- [Disgusting Oozeling](/nl/guides/pets/disgusting-oozeling/)
 
 Elke pet van WoW Forever, met waar hij vandaan komt, staat in de [petgids](/nl/guides/pets/).

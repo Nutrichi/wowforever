@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Purple Devilsaur dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas apprise."
+    a: "Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront. Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas apprise."
   - q: "Purple Devilsaur est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Purple Devilsaur est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -27,7 +27,7 @@ Purple Devilsaur est une monture nouvelle dans World of Warcraft: Forever.
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas apprise.
 

@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Swift Gray Ram in WoW Forever?"
-    a: "Veron Amberstill sells it in Dun Morogh for 1000 gold. The vendor is friendly to the Alliance. Riding it needs Ram Riding."
+    a: "Veron Amberstill sells it in Dun Morogh for 1000 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Frost Ram Exchange, from level 60 for both factions, lets you pick this one."
   - q: "Is Swift Gray Ram new in WoW Forever?"
     a: "No. Swift Gray Ram was already in Classic and returns in WoW Forever."
 sources:
@@ -33,17 +33,19 @@ Swift Gray Ram is a mount from Classic that returns in World of Warcraft: Foreve
 | Riding | Ram Riding |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> sells it in Dun Morogh for 1000 gold. The vendor is friendly to the Alliance.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7673">Frost Ram Exchange</a>, from level 60 for both factions, lets you pick this one.
+
 Riding it needs Ram Riding.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Veron Amberstill
 

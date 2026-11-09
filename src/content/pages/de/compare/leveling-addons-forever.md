@@ -53,11 +53,11 @@ Journey ist neu und für Forever gemacht. Stufe 1 bis 30 ist für alle kostenlos
 
 ## Joana's Guides
 
-Joana's Guides hilft Spielern seit 2006 beim Leveln, ausgehend von den Routen des Speedrunners Joana. Joana starb Anfang 2024; TomCat übernahm die Pflege aus Respekt und mit Unterstützung von Joanas Familie. TomCat's Gaming ist Eigentümer und entwickelt es weiter, und das Addon läuft seit dem 21. September in der Beta von Forever mit den Routen für Classic Era. Zum Start nutzt es dieselben Routen wie Journey; sobald die Routen für Forever stabil sind, geht jedes seinen eigenen Weg. Ein lebenslanger Kauf für Classic Era funktioniert weiter in Forever, und Inhalte nur für Forever werden ein eigenes Produkt. Wie beide zusammenhängen, steht in [Journey und Joana's Guides im Vergleich](/de/compare/journey-vs-joana/).
+Joana's Guides hilft Spielern seit 2006 beim Leveln, ausgehend von den Routen des Speedrunners Joana. Joana starb Anfang 2024; TomCat übernahm die Pflege aus Respekt und mit Unterstützung von Joanas Familie. TomCat's Gaming ist Eigentümer und entwickelt es weiter, und das Addon lief ab dem 21. September in der Beta von Forever mit den Routen für Classic Era. Zum Start nutzt es dieselben Routen wie Journey; sobald die Routen für Forever stabil sind, geht jedes seinen eigenen Weg. Ein lebenslanger Kauf für Classic Era funktioniert weiter in Forever, und Inhalte nur für Forever werden ein eigenes Produkt. Wie beide zusammenhängen, steht in [Journey und Joana's Guides im Vergleich](/de/compare/journey-vs-joana/).
 
 ## Zygor
 
-Zygor aktualisiert seine Guides von 1 bis 60 für die neuen Gebiete, den Skyborne-Start und die neuen Kombinationen aus Volk und Klasse und bringt Guides für die neun neuen Dungeons. Auch das Reisesystem und der Talentberater bekommen Updates für Forever. Zygor warnt, dass die Stufengrenze der Beta begrenzt, was es testen kann, also könnte die Route zum Start nur teilweise aktualisiert sein und danach fertiggestellt werden. Alles steckt in einem Abo von Zygor Elite.
+Zygor aktualisiert seine Guides von 1 bis 60 für die neuen Gebiete, den Skyborne-Start und die neuen Kombinationen aus Volk und Klasse und bringt Guides für die neun neuen Dungeons. Auch das Reisesystem und der Talentberater bekommen Updates für Forever. Vor dem Start warnte Zygor, dass die Stufengrenze der Beta begrenzte, was es testen konnte, also konnte die Route zum Start nur teilweise aktualisiert sein und danach fertiggestellt werden. Alles steckt in einem Abo von Zygor Elite.
 
 ## Warum eine Classic-Route nicht reicht
 

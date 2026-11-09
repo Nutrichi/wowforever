@@ -13,7 +13,7 @@ dungeon:
   slug: "scholomance"
   tab: "guide"
 ---
-Scholomance was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, zegt Blizzard niet. De kaart van Blizzard toont de versie die later kwam, dus deze pagina heeft er geen.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, zegt Blizzard niet. De kaart van Blizzard toont de versie die later kwam, dus deze pagina heeft er geen.
 
 ## De weg ernaartoe
 
@@ -72,4 +72,4 @@ Hij verschijnt als de zes dood zijn, en valt meteen aan. Hij teleporteert speler
 
 - **De beloningen** van de tien quests in de data van Forever.
 - **De loot**: 52 van de 71 items uit Classic staan nog niet in de data van Forever.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta. In Classic werd Kormok hier opgeroepen voor de quests van Tier 0.5; of die oproep in Forever bestaat, is niet bekend.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden. In Classic werd Kormok hier opgeroepen voor de quests van Tier 0.5; of die oproep in Forever bestaat, is niet bekend.

@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Spectral Bear dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. La monter demande Journeyman Riding."
+    a: "Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront. La monter demande Journeyman Riding."
   - q: "Spectral Bear est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Spectral Bear est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -32,20 +32,23 @@ Spectral Bear est une monture nouvelle dans World of Warcraft: Forever. C'est un
 | Monte | Journeyman Riding |
 | Vitesse | normale |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 La monter demande Journeyman Riding.
 
 ## D'autres montures avec Journeyman Riding
 
 - [Cerulean Prideclaw](/fr/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/fr/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/fr/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/fr/guides/mounts/rivendares-deathcharger/)
+- [Spectral Wolf Pack](/fr/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/fr/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/fr/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/fr/guides/mounts/verdant-sea-turtle/)
 
 Chaque monture de WoW Forever, avec son origine, se trouve dans le [guide des montures](/fr/guides/mounts/).

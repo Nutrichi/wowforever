@@ -119,7 +119,7 @@ Chaque buff dure 15 minutes et commence après 10 secondes de repas.
 
 ## Nouvelles recettes
 
-Chaque nouvelle recette de Forever avec la compétence demandée et sa source. « Pas encore connu » signifie que la source n’a pas encore été trouvée sur la bêta.
+Chaque nouvelle recette de Forever avec la compétence demandée et sa source. « Pas encore connu » signifie que la source n’a pas encore été trouvée.
 
 | Recette | Compétence | Source |
 |---|---|---|

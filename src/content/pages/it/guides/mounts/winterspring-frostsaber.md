@@ -33,7 +33,7 @@ Winterspring Frostsaber è una cavalcatura di Classic che torna in World of Warc
 | Livello | 60 |
 | Velocità | molto veloce |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
@@ -41,6 +41,6 @@ Winterspring Frostsaber è una cavalcatura di Classic che torna in World of Warc
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

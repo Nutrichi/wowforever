@@ -1,14 +1,14 @@
 ---
 title: "Black Skeletal Horse: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Black Skeletal Horse in WoW Forever"
-description: "Black Skeletal Horse ist ein Reittier, das neu in World of Warcraft: Forever ist. Quelle: Noch nicht bekannt."
+description: "Black Skeletal Horse ist ein Reittier, das neu in World of Warcraft: Forever ist. Quelle: Quest: A Steed in Death as They Were in Life."
 short: "Black Skeletal Horse"
 updated: 2026-10-09
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Black Skeletal Horse in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Zum Reiten braucht es Undead Horsemanship."
+    a: "Es ist die Belohnung der Quest A Steed in Death as They Were in Life, ab Stufe 40, für die Horde. Zum Reiten braucht es Undead Horsemanship."
   - q: "Ist Black Skeletal Horse neu in WoW Forever?"
     a: "Ja. Black Skeletal Horse ist neu in WoW Forever und war nicht in Classic."
 sources:
@@ -27,16 +27,16 @@ Black Skeletal Horse ist ein Reittier, das neu in World of Warcraft: Forever ist
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276063"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Skeletal Horse</a> |
-| Quelle | Noch nicht bekannt |
+| Quelle | Quest: <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a> |
 | Stufe | 40 |
 | Reiten | Undead Horsemanship |
 | Tempo | normal |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Es ist die Belohnung der Quest <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, ab Stufe 40, für die Horde.
 
 Zum Reiten braucht es Undead Horsemanship.
 

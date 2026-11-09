@@ -49,12 +49,12 @@ I dati del gioco segnano la mascotte come valida per tutto l'account: imparata u
 ## Altre mascotte dalla stessa fonte
 
 - [Baby Crocolisk](/it/guides/pets/baby-crocolisk/)
+- [Condor Hatchling](/it/guides/pets/condor-hatchling/)
 - [Crimson Whelpling](/it/guides/pets/crimson-whelpling/)
 - [Dark Whelpling](/it/guides/pets/dark-whelpling/)
 - [Emerald Whelpling](/it/guides/pets/emerald-whelpling/)
 - [Green Wing Macaw](/it/guides/pets/green-wing-macaw/)
 - [Hyacinth Macaw](/it/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/it/guides/pets/pet-fish/)
-- [Pet Stone](/it/guides/pets/pet-stone/)
+- [Siamese](/it/guides/pets/siamese/)
 
 Ogni mascotte di WoW Forever, con la sua provenienza, è nella [guida alle mascotte](/it/guides/pets/).

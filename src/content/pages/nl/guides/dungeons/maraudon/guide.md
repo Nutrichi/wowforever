@@ -13,7 +13,7 @@ dungeon:
   slug: "maraudon"
   tab: "guide"
 ---
-Maraudon was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
 
 ## De weg erheen
 
@@ -84,4 +84,4 @@ Na haar dood verschijnt Zaetar's Spirit in het midden van de ring met de Seed of
 
 - **De beloningen** van de elf quests in de data van Forever.
 - **Veertien items** van de loot van Classic die niet in de data van Forever staan.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden.

@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Venomhide Ravasaur in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Rijden vraagt Raptor Riding."
+    a: "De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden. Rijden vraagt Raptor Riding."
   - q: "Is Venomhide Ravasaur nieuw in WoW Forever?"
     a: "Ja. Venomhide Ravasaur is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -32,11 +32,11 @@ Venomhide Ravasaur is een mount die nieuw is in World of Warcraft: Forever. Het 
 | Rijden | Raptor Riding |
 | Snelheid | normaal |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 Rijden vraagt Raptor Riding.
 

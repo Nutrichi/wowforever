@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Red Skeletal Horse in WoW Forever?"
-    a: "Zachariah Post verkoopt hem in Tirisfal Glades voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Horde. Rijden vraagt Undead Horsemanship."
+    a: "Zachariah Post verkoopt hem in Tirisfal Glades voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest A Steed in Death as They Were in Life, vanaf level 40 voor de Horde, laat je deze kiezen."
   - q: "Is Red Skeletal Horse nieuw in WoW Forever?"
     a: "Nee. Red Skeletal Horse zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Red Skeletal Horse is een mount uit Classic die terugkomt in World of Warcraft: 
 | Rijden | Undead Horsemanship |
 | Snelheid | normaal |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkoopt hem in Tirisfal Glades voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Horde.
 
+Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, vanaf level 40 voor de Horde, laat je deze kiezen.
+
 Rijden vraagt Undead Horsemanship.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts van Zachariah Post
 

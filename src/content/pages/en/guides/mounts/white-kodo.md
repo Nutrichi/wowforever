@@ -1,13 +1,13 @@
 ---
 title: "White Kodo: how to get the mount in WoW Forever"
 metaTitle: "How to get the White Kodo mount in WoW Forever"
-description: "White Kodo is a mount that is new in World of Warcraft: Forever. Source: Not known yet."
+description: "White Kodo is a mount that is new in World of Warcraft: Forever. Source: Quest: Your First Riding Kodo."
 short: "White Kodo"
 updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get White Kodo in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it. Riding it needs Kodo Riding."
+    a: "It is the reward of the quest Your First Riding Kodo, from level 40, for the Horde. Riding it needs Kodo Riding."
   - q: "Is White Kodo new in WoW Forever?"
     a: "Yes. White Kodo is new in WoW Forever and was not in Classic."
 sources:
@@ -26,16 +26,16 @@ White Kodo is a mount that is new in World of Warcraft: Forever. It is a mount f
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=275993"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">White Kodo</a> |
-| Source | Not known yet |
+| Source | Quest: <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a> |
 | Level | 40 |
 | Riding | Kodo Riding |
 | Speed | normal |
 | New in Forever | yes |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
-The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+It is the reward of the quest <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a>, from level 40, for the Horde.
 
 Riding it needs Kodo Riding.
 

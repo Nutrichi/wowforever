@@ -13,7 +13,7 @@ dungeon:
   slug: "sunken-temple"
   tab: "guide"
 ---
-De Sunken Temple was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
 
 ## De weg erheen
 
@@ -64,4 +64,4 @@ In Classic had elke class hier een quest, bijvoorbeeld Destroy Morphaz voor Mage
 
 - **De beloningen** van de negen quests in de data van Forever.
 - **De loot**: 18 van de 25 items uit Classic staan nog niet in de data van Forever.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden.

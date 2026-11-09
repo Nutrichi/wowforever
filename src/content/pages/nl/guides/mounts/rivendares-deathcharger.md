@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Rivendare's Deathcharger in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Rijden vraagt Journeyman Riding."
+    a: "De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden. Rijden vraagt Journeyman Riding."
   - q: "Is Rivendare's Deathcharger nieuw in WoW Forever?"
     a: "Nee. Rivendare's Deathcharger zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -32,24 +32,27 @@ Rivendare's Deathcharger is een mount uit Classic die terugkomt in World of Warc
 | Rijden | Journeyman Riding |
 | Snelheid | zeer snel |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 Rijden vraagt Journeyman Riding.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts met Journeyman Riding
 
 - [Cerulean Prideclaw](/nl/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/nl/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/nl/guides/mounts/pack-kodo/)
 - [Spectral Bear](/nl/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/nl/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/nl/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/nl/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/nl/guides/mounts/verdant-sea-turtle/)
 
 Elke mount van WoW Forever, met waar hij vandaan komt, staat in de [mountgids](/nl/guides/mounts/).

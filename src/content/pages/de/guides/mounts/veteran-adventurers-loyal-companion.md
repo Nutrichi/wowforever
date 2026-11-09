@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Veteran Adventurer's Loyal Companion in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Zum Reiten braucht es Apprentice Riding."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden. Zum Reiten braucht es Apprentice Riding."
   - q: "Ist Veteran Adventurer's Loyal Companion neu in WoW Forever?"
     a: "Ja. Veteran Adventurer's Loyal Companion ist neu in WoW Forever und war nicht in Classic."
 sources:
@@ -32,11 +32,11 @@ Veteran Adventurer's Loyal Companion ist ein Reittier, das neu in World of Warcr
 | Reiten | Apprentice Riding |
 | Tempo | normal |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 Zum Reiten braucht es Apprentice Riding.
 

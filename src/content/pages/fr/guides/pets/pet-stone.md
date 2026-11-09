@@ -1,14 +1,14 @@
 ---
 title: "Pet Stone : comment obtenir la mascotte dans WoW Forever"
 metaTitle: "Comment obtenir Pet Stone dans WoW Forever"
-description: "Pet Stone est une mascotte de compagnie de Classic qui revient dans World of Warcraft: Forever. Elle tombe sur plusieurs monstres."
+description: "Pet Stone est une mascotte de compagnie de Classic qui revient dans World of Warcraft: Forever."
 short: "Pet Stone"
 updated: 2026-09-30
 lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Pet Stone dans WoW Forever ?"
-    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin : The Giant à Feralas Enraged Mountain Giant à Feralas"
+    a: "Les fichiers du jeu WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront."
   - q: "Pet Stone est-elle nouvelle dans WoW Forever ?"
     a: "Non. Pet Stone existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -26,17 +26,13 @@ Pet Stone est une mascotte de compagnie de Classic qui revient dans World of War
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13343"><img class="wf-wh__icon" src="/wh/inv_stone_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Stone</a> |
-| Source | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (et 1 autres) |
-| Où | Feralas |
+| Source | Pas encore connue |
 | Nouvelle dans Forever | non, de Classic |
 | Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
-Elle tombe sur plusieurs monstres. Ceux-ci ont les meilleures chances dans les données de butin :
-
-- <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> à Feralas
-- <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221373">Enraged Mountain Giant</a> à Feralas
+Les fichiers du jeu WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 ## Ce qui a changé depuis Classic
 
@@ -46,13 +42,13 @@ Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise
 
 ## Autres mascottes de même source
 
-- [Baby Crocolisk](/fr/guides/pets/baby-crocolisk/)
-- [Black Tabby](/fr/guides/pets/black-tabby/)
-- [Crimson Whelpling](/fr/guides/pets/crimson-whelpling/)
-- [Dark Whelpling](/fr/guides/pets/dark-whelpling/)
-- [Emerald Whelpling](/fr/guides/pets/emerald-whelpling/)
-- [Green Wing Macaw](/fr/guides/pets/green-wing-macaw/)
-- [Hyacinth Macaw](/fr/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/fr/guides/pets/pet-fish/)
+- [Albino Snapjaw](/fr/guides/pets/albino-snapjaw/)
+- [Azure Whelpling](/fr/guides/pets/azure-whelpling/)
+- [Azurky](/fr/guides/pets/azurky/)
+- [Baby Shark](/fr/guides/pets/baby-shark/)
+- [Blossoming Ancient](/fr/guides/pets/blossoming-ancient/)
+- [Bronze Whelpling](/fr/guides/pets/bronze-whelpling/)
+- [Corrupted Kitten](/fr/guides/pets/corrupted-kitten/)
+- [Disgusting Oozeling](/fr/guides/pets/disgusting-oozeling/)
 
 Chaque mascotte de WoW Forever, avec son origine, figure dans le [guide des mascottes](/fr/guides/pets/).

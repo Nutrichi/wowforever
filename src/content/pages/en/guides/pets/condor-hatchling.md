@@ -1,13 +1,13 @@
 ---
 title: "Condor Hatchling: how to get the pet in WoW Forever"
 metaTitle: "How to get Condor Hatchling in WoW Forever"
-description: "Condor Hatchling is a companion pet that is new in World of Warcraft: Forever."
+description: "Condor Hatchling is a companion pet that is new in World of Warcraft: Forever. It drops from Lord Condar in Loch Modan."
 short: "Condor Hatchling"
 updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Condor Hatchling in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this pet, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it."
+    a: "It drops from Lord Condar in Loch Modan. In the loot data it drops in about 1.4% of kills."
   - q: "Is Condor Hatchling new in WoW Forever?"
     a: "Yes. Condor Hatchling is new in WoW Forever and was not in Classic."
 sources:
@@ -25,13 +25,15 @@ Condor Hatchling is a companion pet that is new in World of Warcraft: Forever. Y
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282637"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shaking Egg</a> |
-| Source | Not known yet |
+| Source | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> |
+| Where | Loch Modan |
+| Drop chance | 1.4% |
 | New in Forever | yes |
 | Account-wide | yes, in the game data |
 
 ## How to get it
 
-The files of the WoW Forever beta hold this pet, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+It drops from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> in Loch Modan. In the loot data it drops in about 1.4% of kills.
 
 ## Good to know
 
@@ -39,13 +41,13 @@ The game data marks the pet as account-wide: learned once, it would be there for
 
 ## More pets from the same source
 
-- [Albino Snapjaw](/guides/pets/albino-snapjaw/)
-- [Azure Whelpling](/guides/pets/azure-whelpling/)
-- [Baby Shark](/guides/pets/baby-shark/)
-- [Bronze Whelpling](/guides/pets/bronze-whelpling/)
-- [Corrupted Kitten](/guides/pets/corrupted-kitten/)
-- [Disgusting Oozeling](/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/guides/pets/father-winters-helper/)
-- [Festival Lantern](/guides/pets/festival-lantern/)
+- [Baby Crocolisk](/guides/pets/baby-crocolisk/)
+- [Black Tabby](/guides/pets/black-tabby/)
+- [Crimson Whelpling](/guides/pets/crimson-whelpling/)
+- [Dark Whelpling](/guides/pets/dark-whelpling/)
+- [Emerald Whelpling](/guides/pets/emerald-whelpling/)
+- [Green Wing Macaw](/guides/pets/green-wing-macaw/)
+- [Hyacinth Macaw](/guides/pets/hyacinth-macaw/)
+- [Siamese](/guides/pets/siamese/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

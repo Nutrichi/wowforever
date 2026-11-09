@@ -106,6 +106,31 @@
    }
   },
   {
+   "slug": "azurky",
+   "name": "Azurky",
+   "icon": "inv_pet_babymurlocs_blue",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
    "slug": "baby-crocolisk",
    "name": "Baby Crocolisk",
    "icon": "inv_pet_babycrocodile_toothy",
@@ -237,6 +262,31 @@
     "es": "Alterac Mountains y Silverpine Forest",
     "it": "Alterac Mountains e Silverpine Forest",
     "de": "Alterac Mountains und Silverpine Forest"
+   }
+  },
+  {
+   "slug": "blossoming-ancient",
+   "name": "Blossoming Ancient",
+   "icon": "874857",
+   "quality": 3,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
    }
   },
   {
@@ -459,23 +509,25 @@
    "icon": "inv_egg_03",
    "quality": 2,
    "new": true,
-   "kind": "unknown",
-   "zones": [],
+   "kind": "drop",
+   "zones": [
+    "Loch Modan"
+   ],
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Drop: Lord Condar",
+    "nl": "Drop: Lord Condar",
+    "fr": "Butin: Lord Condar",
+    "es": "Botín: Lord Condar",
+    "it": "Bottino: Lord Condar",
+    "de": "Beute: Lord Condar"
    },
    "where": {
-    "en": "",
-    "nl": "",
-    "fr": "",
-    "es": "",
-    "it": "",
-    "de": ""
+    "en": "Loch Modan",
+    "nl": "Loch Modan",
+    "fr": "Loch Modan",
+    "es": "Loch Modan",
+    "it": "Loch Modan",
+    "de": "Loch Modan"
    }
   },
   {
@@ -796,10 +848,60 @@
    }
   },
   {
+   "slug": "frosty-lashling",
+   "name": "Frosty Lashling",
+   "icon": "inv_10_herb_seed_magiccolor1",
+   "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
    "slug": "galestrider-chick",
    "name": "Galestrider Chick",
    "icon": "inv_pet_babycrane",
    "quality": 1,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "gillel",
+   "name": "Gill'el",
+   "icon": "5834819",
+   "quality": 3,
    "new": true,
    "kind": "unknown",
    "zones": [],
@@ -1393,7 +1495,7 @@
    "slug": "pachimari",
    "name": "Pachimari",
    "icon": "inv_pachimarapet",
-   "quality": 4,
+   "quality": 3,
    "new": true,
    "kind": "edition",
    "zones": [],
@@ -1470,25 +1572,23 @@
    "icon": "inv_misc_fish_03",
    "quality": 1,
    "new": false,
-   "kind": "drop",
-   "zones": [
-    "The Hinterlands"
-   ],
+   "kind": "unknown",
+   "zones": [],
    "source": {
-    "en": "Drop: Dreamwater Vicejaw",
-    "nl": "Drop: Dreamwater Vicejaw",
-    "fr": "Butin: Dreamwater Vicejaw",
-    "es": "Botín: Dreamwater Vicejaw",
-    "it": "Bottino: Dreamwater Vicejaw",
-    "de": "Beute: Dreamwater Vicejaw"
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
    },
    "where": {
-    "en": "The Hinterlands",
-    "nl": "The Hinterlands",
-    "fr": "The Hinterlands",
-    "es": "The Hinterlands",
-    "it": "The Hinterlands",
-    "de": "The Hinterlands"
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
    }
   },
   {
@@ -1497,25 +1597,48 @@
    "icon": "inv_stone_14",
    "quality": 1,
    "new": false,
-   "kind": "drop",
-   "zones": [
-    "Feralas"
-   ],
+   "kind": "unknown",
+   "zones": [],
    "source": {
-    "en": "Drop: The Giant (and 1 more)",
-    "nl": "Drop: The Giant (en nog 1)",
-    "fr": "Butin: The Giant (et 1 autres)",
-    "es": "Botín: The Giant (y 1 más)",
-    "it": "Bottino: The Giant (e altre 1)",
-    "de": "Beute: The Giant (und 1 weitere)"
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
    },
    "where": {
-    "en": "Feralas",
-    "nl": "Feralas",
-    "fr": "Feralas",
-    "es": "Feralas",
-    "it": "Feralas",
-    "de": "Feralas"
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "pinky",
+   "name": "Pinky",
+   "icon": "7889090",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
    }
   },
   {
@@ -2144,9 +2267,9 @@
    }
   },
   {
-   "slug": "weevil-k-neevil",
-   "name": "Weevil K. Neevil",
-   "icon": "inv_inscription_pigment_bug04",
+   "slug": "viridian-lashling",
+   "name": "Viridian Lashling",
+   "icon": "inv_10_herb_seed_magiccolor2",
    "quality": 1,
    "new": true,
    "kind": "unknown",
@@ -2158,6 +2281,31 @@
     "es": "Aún no se sabe",
     "it": "Non ancora noto",
     "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
+   "slug": "weevil-k-neevil",
+   "name": "Weevil K. Neevil",
+   "icon": "inv_inscription_pigment_bug04",
+   "quality": 1,
+   "new": true,
+   "kind": "quest",
+   "zones": [],
+   "source": {
+    "en": "Quest: My Little Friends",
+    "nl": "Quest: My Little Friends",
+    "fr": "Quête: My Little Friends",
+    "es": "Misión: My Little Friends",
+    "it": "Missione: My Little Friends",
+    "de": "Quest: My Little Friends"
    },
    "where": {
     "en": "",

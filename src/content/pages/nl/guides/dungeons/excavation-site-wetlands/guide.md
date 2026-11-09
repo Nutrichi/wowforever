@@ -86,5 +86,5 @@ Start het gevecht met het Archival Panel rechts van de inactieve wachter. De laa
 ## Wat nog niet bekend is
 
 - **Waar de Bloody Map naartoe leidt**, de beloning van Open the Maw.
-- **Wanneer Highland Hides en Prehistoric Prism gerepareerd worden**: beide zijn kapot op de beta.
+- **Wanneer Highland Hides en Prehistoric Prism gerepareerd worden**: beide waren kapot op de beta; of ze nu werken, is niet bekend.
 - **De dropkansen** van de loot van de bazen, behalve de Titan Relic.

@@ -119,7 +119,7 @@ Cada buff dura 15 minutos y empieza tras 10 segundos comiendo.
 
 ## Recetas nuevas
 
-Cada receta nueva de Forever con la habilidad que pide y de dónde sale. «Aún no se sabe» significa que el origen no se ha encontrado todavía en la beta.
+Cada receta nueva de Forever con la habilidad que pide y de dónde sale. «Aún no se sabe» significa que el origen no se ha encontrado todavía.
 
 | Receta | Habilidad | Origen |
 |---|---|---|

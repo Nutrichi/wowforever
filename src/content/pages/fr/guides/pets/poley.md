@@ -15,7 +15,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=22781"
 ---
-Poley est une mascotte de compagnie de Classic qui revient dans World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22781"><img class="wf-wh__icon" src="/wh/inv_belt_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polar Bear Collar</a> l'invoque encore comme dans Classic, selon l'infobulle de la bêta.
+Poley est une mascotte de compagnie de Classic qui revient dans World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22781"><img class="wf-wh__icon" src="/wh/inv_belt_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polar Bear Collar</a> l'invoque encore comme dans Classic, selon l'infobulle.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_belt_09.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=22781">Polar Bear Collar</a><span class="wf-item__line wf-item__meta">Item Level 1</span><span class="wf-item__line">Unique</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss your pet.</span></div></div>
@@ -45,5 +45,6 @@ Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise
 - [Spirit of Summer](/fr/guides/pets/spirit-of-summer/)
 - [Sprite Darter Hatchling](/fr/guides/pets/sprite-darter-hatchling/)
 - [Terky](/fr/guides/pets/terky/)
+- [Weevil K. Neevil](/fr/guides/pets/weevil-k-neevil/)
 
 Chaque mascotte de WoW Forever, avec son origine, figure dans le [guide des mascottes](/fr/guides/pets/).

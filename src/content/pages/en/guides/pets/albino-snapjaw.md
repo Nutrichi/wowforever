@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Albino Snapjaw in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this pet, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it."
+    a: "The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it."
   - q: "Is Albino Snapjaw new in WoW Forever?"
     a: "No. Albino Snapjaw was already in Classic and returns in WoW Forever."
 sources:
@@ -31,7 +31,7 @@ Albino Snapjaw is a companion pet from Classic that returns in World of Warcraft
 
 ## How to get it
 
-The files of the WoW Forever beta hold this pet, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 ## What changed since Classic
 
@@ -42,12 +42,12 @@ The game data marks the pet as account-wide: learned once, it would be there for
 ## More pets from the same source
 
 - [Azure Whelpling](/guides/pets/azure-whelpling/)
+- [Azurky](/guides/pets/azurky/)
 - [Baby Shark](/guides/pets/baby-shark/)
+- [Blossoming Ancient](/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/guides/pets/disgusting-oozeling/)
 - [Father Winter's Helper](/guides/pets/father-winters-helper/)
-- [Festival Lantern](/guides/pets/festival-lantern/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

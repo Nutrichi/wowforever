@@ -1,14 +1,14 @@
 ---
 title: "Black Wolf: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Black Wolf in WoW Forever"
-description: "Black Wolf ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Noch nicht bekannt."
+description: "Black Wolf ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Quest: Your First Riding Wolf."
 short: "Black Wolf"
 updated: 2026-10-09
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Black Wolf in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Zum Reiten braucht es Wolf Riding."
+    a: "Es ist die Belohnung der Quest Your First Riding Wolf, ab Stufe 40, für die Horde. Zum Reiten braucht es Wolf Riding."
   - q: "Ist Black Wolf neu in WoW Forever?"
     a: "Nein. Black Wolf gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,16 +27,16 @@ Black Wolf ist ein Reittier aus Classic, das in World of Warcraft: Forever zurü
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1041"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Black Wolf</a> |
-| Quelle | Noch nicht bekannt |
+| Quelle | Quest: <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a> |
 | Stufe | 40 |
 | Reiten | Wolf Riding |
 | Tempo | normal |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Es ist die Belohnung der Quest <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, ab Stufe 40, für die Horde.
 
 Zum Reiten braucht es Wolf Riding.
 
@@ -44,7 +44,7 @@ Das Spiel versteckt dieses Reittier in der Sammlung, bis ein Charakter es gelern
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere mit Wolf Riding
 

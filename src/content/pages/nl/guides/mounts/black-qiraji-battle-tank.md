@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Black Qiraji Battle Tank in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd heeft."
+    a: "De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden. Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd heeft."
   - q: "Is Black Qiraji Battle Tank nieuw in WoW Forever?"
     a: "Nee. Black Qiraji Battle Tank zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,7 +27,7 @@ Black Qiraji Battle Tank is een mount uit Classic die terugkomt in World of Warc
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd heeft.
 

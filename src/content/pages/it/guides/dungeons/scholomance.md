@@ -12,8 +12,6 @@ faq:
     a: "Sull'isola di Caer Darrow, a sud-est delle Western Plaguelands. La porta richiede la Skeleton Key."
   - q: "Come si ottiene la Skeleton Key?"
     a: "Con la catena The Key to Scholomance: l'Alleanza inizia a Chillwind Camp, l'Orda a The Bulwark. Chiede un viaggio a Gadgetzan e a Un'Goro Crater, 15 monete d'oro e un gruppo per Araj the Summoner."
-  - q: "Si poteva giocare Scholomance nella beta?"
-    a: "No. La beta arrivava al livello 30, quindi Scholomance era chiuso. Tutto ciò che c'è in queste pagine viene dai dati di Forever e da Classic, e può ancora cambiare."
 manual: true
 sources:
   - name: "Warcraft Tavern"

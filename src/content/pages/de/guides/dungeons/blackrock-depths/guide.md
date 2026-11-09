@@ -13,7 +13,7 @@ dungeon:
   slug: "blackrock-depths"
   tab: "guide"
 ---
-Blackrock Depths war in der Beta zu, die bei Level 30 endete. Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt. Ein voller Clear dauert Stunden, deshalb wählen die meisten Gruppen einen Teil.
+Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt. Ein voller Clear dauert Stunden, deshalb wählen die meisten Gruppen einen Teil.
 
 ## Anreise
 
@@ -106,4 +106,4 @@ Princess Moira Bronzebeard heilt ihn. Töte sie, oder beschäftige sie und unter
 
 - **Die Belohnungen** der zweiundzwanzig Quests in den Daten von Forever.
 - **Die Beute**: 74 der 103 Gegenstände aus Classic stehen noch nicht in den Daten von Forever.
-- **Änderungen für Forever**: Der Dungeon war in der Beta zu.
+- **Änderungen für Forever**: noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler sie finden.

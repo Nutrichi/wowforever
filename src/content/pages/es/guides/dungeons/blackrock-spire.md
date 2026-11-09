@@ -45,4 +45,4 @@ El botín, las misiones y la ruta están en la guía de [Upper Blackrock Spire](
 
 ## Lo que aún no se sabe
 
-Blackrock Spire estaba cerrado en la beta, que terminaba en el nivel 30, así que estas páginas siguen la mazmorra tal como era en Classic. Blizzard no ha dicho si Upper Blackrock Spire sigue siendo para 10 jugadores ni qué más cambia. Todas las mazmorras están en el [resumen de mazmorras](/es/guides/dungeons/).
+Estas páginas siguen Blackrock Spire tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si Upper Blackrock Spire sigue siendo para 10 jugadores ni qué más cambia. Todas las mazmorras están en el [resumen de mazmorras](/es/guides/dungeons/).

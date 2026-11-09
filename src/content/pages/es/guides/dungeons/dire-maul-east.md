@@ -13,8 +13,6 @@ faq:
     a: "Dire Maul está en el centro de Feralas. El ala este tiene una puerta en el muro este del patio central, otra desde Eldreth Row y una puerta trasera en el Lariss Pavilion que pide la Crescent Key."
   - q: "¿Dónde se consigue la Crescent Key?"
     a: "Pusillin la suelta al final de su persecución por Dire Maul East. Un solo jugador con la llave abre Dire Maul West y North para todo el grupo."
-  - q: "¿Se podía jugar Dire Maul en la beta?"
-    a: "No. La beta llegaba al nivel 30, así que Dire Maul estaba cerrada. Todo en estas páginas viene de los datos de Forever y de Classic, y aún puede cambiar."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/dire-maul-east/"

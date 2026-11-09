@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man White Ram in WoW Forever?"
-    a: "Veron Amberstill verkauft es in Dun Morogh für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Allianz freundlich gesinnt. Zum Reiten braucht es Ram Riding."
+    a: "Veron Amberstill verkauft es in Dun Morogh für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Ram, ab Stufe 40 für die Allianz, lässt dich dieses auswählen."
   - q: "Ist White Ram neu in WoW Forever?"
     a: "Nein. White Ram gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -34,17 +34,19 @@ White Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever zurüc
 | Reiten | Ram Riding |
 | Tempo | normal |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkauft es in Dun Morogh für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Allianz freundlich gesinnt.
 
+Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, ab Stufe 40 für die Allianz, lässt dich dieses auswählen.
+
 Zum Reiten braucht es Ram Riding.
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere von Veron Amberstill
 

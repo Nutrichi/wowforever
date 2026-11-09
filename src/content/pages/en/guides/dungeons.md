@@ -7,7 +7,7 @@ updated: 2026-11-08
 lang: en
 faq:
   - q: "Which dungeons are in WoW Forever?"
-    a: "The dungeons of Classic, from Ragefire Chasm to Upper Blackrock Spire, plus nine new ones. The Hall of Thanes, the Ruins of Lordaeron, the Excavation Site and the City of Dalaran are on the beta; the other five follow at higher levels."
+    a: "The dungeons of Classic, from Ragefire Chasm to Upper Blackrock Spire, plus nine new ones. Four of the new ones are for levels below 30, the other five for higher levels."
   - q: "What is the first dungeon in WoW Forever?"
     a: "Ragefire Chasm for the Horde, with quests from level 9, and the Hall of Thanes for the Alliance, for levels 13 to 18. The Ruins of Lordaeron, for 15 to 20, is the first new dungeon in Horde territory."
   - q: "Do dungeon quests still give a lot of experience?"
@@ -18,7 +18,7 @@ sources:
 ---
 Dungeon quests are the biggest boost of a dungeon run in WoW Forever: Blizzard lowered the experience from monsters inside and raised it for the quests. This guide lists every dungeon with the level to go in, and every quest: where it starts, for which faction, and what it needs first.
 
-The beta of WoW Forever goes up to level 30 since 1 October. For the dungeons above that, the quests come from the data of Classic and can still change. The rows of the Hall of Thanes and the Ruins of Lordaeron are checked against the quest pages of the beta.
+For the dungeons above level 30, the quests come from the data of Classic and can still change in Forever. The rows of the Hall of Thanes and the Ruins of Lordaeron were checked against the quest pages of the beta.
 
 ## Guides per dungeon
 
@@ -528,7 +528,7 @@ At least one player needs the Seal of Ascension to enter.
 
 ## New dungeons without quests yet
 
-Six new dungeons of Forever have no known quests yet. The Excavation Site opened on the beta on 1 October; its quests are in [its own guide](/guides/dungeons/excavation-site-wetlands/). The ranges are those of Blizzard.
+Six new dungeons of Forever have no known quests yet. The quests of the Excavation Site are in [its own guide](/guides/dungeons/excavation-site-wetlands/). The ranges are those of Blizzard.
 
 | Dungeon | Levels |
 |---|---|

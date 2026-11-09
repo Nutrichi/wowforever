@@ -1,13 +1,13 @@
 ---
 title: "Black Skeletal Horse: how to get the mount in WoW Forever"
 metaTitle: "How to get the Black Skeletal Horse mount in WoW Forever"
-description: "Black Skeletal Horse is a mount that is new in World of Warcraft: Forever. Source: Not known yet."
+description: "Black Skeletal Horse is a mount that is new in World of Warcraft: Forever. Source: Quest: A Steed in Death as They Were in Life."
 short: "Black Skeletal Horse"
 updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Black Skeletal Horse in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it. Riding it needs Undead Horsemanship."
+    a: "It is the reward of the quest A Steed in Death as They Were in Life, from level 40, for the Horde. Riding it needs Undead Horsemanship."
   - q: "Is Black Skeletal Horse new in WoW Forever?"
     a: "Yes. Black Skeletal Horse is new in WoW Forever and was not in Classic."
 sources:
@@ -26,16 +26,16 @@ Black Skeletal Horse is a mount that is new in World of Warcraft: Forever. It is
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276063"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Skeletal Horse</a> |
-| Source | Not known yet |
+| Source | Quest: <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a> |
 | Level | 40 |
 | Riding | Undead Horsemanship |
 | Speed | normal |
 | New in Forever | yes |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
-The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+It is the reward of the quest <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, from level 40, for the Horde.
 
 Riding it needs Undead Horsemanship.
 

@@ -47,5 +47,6 @@ I dati del gioco segnano la mascotte come valida per tutto l'account: imparata u
 - [Spirit of Summer](/it/guides/pets/spirit-of-summer/)
 - [Sprite Darter Hatchling](/it/guides/pets/sprite-darter-hatchling/)
 - [Terky](/it/guides/pets/terky/)
+- [Weevil K. Neevil](/it/guides/pets/weevil-k-neevil/)
 
 Ogni mascotte di WoW Forever, con la sua provenienza, è nella [guida alle mascotte](/it/guides/pets/).

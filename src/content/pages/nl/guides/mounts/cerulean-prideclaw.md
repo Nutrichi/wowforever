@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Cerulean Prideclaw in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Rijden vraagt Journeyman Riding."
+    a: "De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden. Rijden vraagt Journeyman Riding."
   - q: "Is Cerulean Prideclaw nieuw in WoW Forever?"
     a: "Ja. Cerulean Prideclaw is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -32,11 +32,11 @@ Cerulean Prideclaw is een mount die nieuw is in World of Warcraft: Forever. Het 
 | Rijden | Journeyman Riding |
 | Snelheid | normaal |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 Rijden vraagt Journeyman Riding.
 
@@ -44,10 +44,13 @@ Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd 
 
 ## Meer mounts met Journeyman Riding
 
+- [Crimson Rooster](/nl/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/nl/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/nl/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/nl/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/nl/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/nl/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/nl/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/nl/guides/mounts/verdant-sea-turtle/)
 
 Elke mount van WoW Forever, met waar hij vandaan komt, staat in de [mountgids](/nl/guides/mounts/).

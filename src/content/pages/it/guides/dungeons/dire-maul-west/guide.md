@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-west"
   tab: "guide"
 ---
-Dire Maul era chiuso in beta, che si fermava al livello 30. Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
+Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
 
 ## Come arrivarci
 
@@ -69,4 +69,4 @@ Mettilo in un angolo. Arcane Blast respinge e azzera la minaccia, quindi il tank
 
 - **Le ricompense** delle quattro missioni nei dati di Forever.
 - **Il bottino**: nessuno dei 33 oggetti di Classic è ancora nei dati di Forever.
-- **Le modifiche per Forever**: il dungeon era chiuso in beta. In Classic Lord Hel'nurath veniva evocato nella prigione per l’ultimo passo della cavalcatura epica del Warlock; non si sa se quella missione esista in Forever.
+- **Le modifiche per Forever**: non ancora note. Questa pagina verrà aggiornata appena i giocatori le scopriranno. In Classic Lord Hel'nurath veniva evocato nella prigione per l’ultimo passo della cavalcatura epica del Warlock; non si sa se quella missione esista in Forever.

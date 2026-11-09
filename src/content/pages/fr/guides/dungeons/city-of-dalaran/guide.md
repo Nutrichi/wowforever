@@ -166,5 +166,5 @@ Il attend dans la Violet Hold. Nettoyez toute la salle avant le pull, car chaque
 
 ## Ce qu’on ne sait pas encore
 
-- **Sunreaver's Sanctuary** : sur la bêta, on ne peut pas encore y entrer.
+- **Sunreaver's Sanctuary** : aucune entrée n’a encore été trouvée.
 - **Les taux de butin** des boss.

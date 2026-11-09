@@ -36,8 +36,6 @@ Pachimari ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lernst
 
 ## Gut zu wissen
 
-Der Tooltip in der Beta zeigt noch Platzhaltertext ([PH] Pachimara), das Haustier ist also noch nicht fertig.
-
 Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 
 ## Mehr Haustiere aus derselben Quelle

@@ -32,7 +32,7 @@ Winterspring Frostsaber is a mount from Classic that returns in World of Warcraf
 | Level | 60 |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
@@ -40,6 +40,6 @@ Winterspring Frostsaber is a mount from Classic that returns in World of Warcraf
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 Every mount of WoW Forever, with where it comes from, is in the [mount guide](/guides/mounts/).

@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Empyrean Galestrider in WoW Forever?"
-    a: "Genn Fairweather sells it in Zephras Isle for 20 gold. Riding it needs Galestrider Riding."
+    a: "Genn Fairweather sells it in Zephras Isle for 20 gold. Your first mount is free: the quest Your First Riding Galestrider, from level 40 for both factions, lets you pick this one."
   - q: "Is Empyrean Galestrider new in WoW Forever?"
     a: "Yes. Empyrean Galestrider is new in WoW Forever and was not in Classic."
 sources:
@@ -33,11 +33,13 @@ Empyrean Galestrider is a mount that is new in World of Warcraft: Forever. It is
 | Riding | Galestrider Riding |
 | Speed | normal |
 | New in Forever | yes |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a> sells it in Zephras Isle for 20 gold.
+
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=96996">Your First Riding Galestrider</a>, from level 40 for both factions, lets you pick this one.
 
 Riding it needs Galestrider Riding.
 

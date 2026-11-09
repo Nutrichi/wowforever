@@ -86,5 +86,5 @@ Starte den Kampf mit dem Archival Panel rechts vom inaktiven Wächter. Der letzt
 ## Was noch nicht bekannt ist
 
 - **Wohin die Bloody Map führt**, die Belohnung von Open the Maw.
-- **Wann Highland Hides und Prehistoric Prism behoben werden**: Beide sind auf der Beta fehlerhaft.
+- **Wann Highland Hides und Prehistoric Prism behoben werden**: Beide waren auf der Beta fehlerhaft; ob sie jetzt funktionieren, ist nicht bekannt.
 - **Die Dropchancen** der Beute der Bosse, außer der Titan Relic.

@@ -13,7 +13,7 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "guide"
 ---
-Blackrock Spire était fermé sur la bêta, qui s’arrêtait au niveau 30. Ce guide suit le donjon tel qu’il était dans Classic, où Upper Blackrock Spire était un donjon pour 10 joueurs. Si Forever garde cette taille, et si le donjon change, Blizzard ne l’a pas dit.
+Ce guide suit le donjon tel qu’il était dans Classic, où Upper Blackrock Spire était un donjon pour 10 joueurs. Si Forever garde cette taille, et si le donjon change, Blizzard ne l’a pas dit.
 
 ## L’accès
 
@@ -63,4 +63,4 @@ Le combat le plus dur du donjon. Chaque tank prend un Chromatic Elite Guard ; tu
 - **Les récompenses** des douze quêtes dans les données de Forever.
 - **Le butin** : 37 des 40 objets de Classic ne sont pas encore dans les données de Forever.
 - **La taille du groupe** : 10 joueurs dans Classic ; Blizzard n’a pas dit ce que fait Forever.
-- **Les changements pour Forever** : le donjon était fermé sur la bêta. Dans Classic, Lord Valthalak était invoqué dans la Furnace pour les quêtes du Tier 0.5 ; on ne sait pas si ces quêtes existent dans Forever.
+- **Les changements pour Forever** : pas encore connus. Cette page sera mise à jour dès que les joueurs les trouveront. Dans Classic, Lord Valthalak était invoqué dans la Furnace pour les quêtes du Tier 0.5 ; on ne sait pas si ces quêtes existent dans Forever.

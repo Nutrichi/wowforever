@@ -35,7 +35,7 @@ Black War Kodo è una cavalcatura di Classic che torna in World of Warcraft: For
 | Velocità | molto veloce |
 | Requisito | Commander / Lieutenant General (Rank 11) |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
@@ -47,7 +47,7 @@ Cavalcarla richiede Kodo Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature di Raider Bork
 

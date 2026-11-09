@@ -12,7 +12,7 @@ dungeon:
   slug: "stratholme-undead"
   tab: "guide"
 ---
-Stratholme was closed on the beta, which stopped at level 30. This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
+This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
 
 Stratholme is one instance with two sides. The Undead side belongs to the Scourge of Baron Rivendare, the [Living side](/guides/dungeons/stratholme-living/) to the Scarlet Crusade.
 
@@ -73,4 +73,4 @@ Go in together: the door closes. The tank takes him to the back right, with his 
 
 - **The rewards** of the eight quests in the Forever data.
 - **The loot**: 35 of the 53 Classic items are not in the Forever data yet, and the drop of Deathcharger's Reins is not known.
-- **Changes for Forever**: the dungeon was closed on the beta. Behind a gate in Slaughter Square a closed portal to Naxxramas could be seen in Classic; what Forever does with it, is not known.
+- **Changes for Forever**: not known yet. This page gets updated as soon as players find them. Behind a gate in Slaughter Square a closed portal to Naxxramas could be seen in Classic; what Forever does with it, is not known.

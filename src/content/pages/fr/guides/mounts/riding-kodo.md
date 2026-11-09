@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Riding Kodo dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas apprise."
+    a: "Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront. Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas apprise."
   - q: "Riding Kodo est-elle nouvelle dans WoW Forever ?"
     a: "Non. Riding Kodo existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -31,16 +31,16 @@ Riding Kodo est une monture de Classic qui revient dans World of Warcraft: Forev
 | Niveau | 40 |
 | Vitesse | normale |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas apprise.
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 Chaque monture de WoW Forever, avec son origine, se trouve dans le [guide des montures](/fr/guides/mounts/).

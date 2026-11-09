@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Swift White Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle sells it in Dun Morogh for 1000 gold. The vendor is friendly to the Alliance. Riding it needs Mechanostrider Piloting."
+    a: "Milli Featherwhistle sells it in Dun Morogh for 1000 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Icy Blue Mechanostrider Replacement, from level 60 for both factions, lets you pick this one."
   - q: "Is Swift White Mechanostrider new in WoW Forever?"
     a: "No. Swift White Mechanostrider was already in Classic and returns in WoW Forever."
 sources:
@@ -33,17 +33,19 @@ Swift White Mechanostrider is a mount from Classic that returns in World of Warc
 | Riding | Mechanostrider Piloting |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> sells it in Dun Morogh for 1000 gold. The vendor is friendly to the Alliance.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7675">Icy Blue Mechanostrider Replacement</a>, from level 60 for both factions, lets you pick this one.
+
 Riding it needs Mechanostrider Piloting.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Milli Featherwhistle
 

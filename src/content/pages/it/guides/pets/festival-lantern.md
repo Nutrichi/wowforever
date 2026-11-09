@@ -8,7 +8,7 @@ lang: it
 manual: true
 faq:
   - q: "Come si ottiene Festival Lantern in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa mascotte, ma da dove venga non è ancora noto. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno."
+    a: "I file di gioco di WoW Forever contengono questa mascotte, ma da dove venga non è ancora noto. Questa pagina verrà aggiornata appena i giocatori lo scopriranno."
   - q: "Festival Lantern è nuova in WoW Forever?"
     a: "Sì. Festival Lantern è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -32,7 +32,7 @@ Festival Lantern è una mascotte da compagnia nuova in World of Warcraft: Foreve
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa mascotte, ma da dove venga non è ancora noto. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+I file di gioco di WoW Forever contengono questa mascotte, ma da dove venga non è ancora noto. Questa pagina verrà aggiornata appena i giocatori lo scopriranno.
 
 ## Da sapere
 
@@ -42,11 +42,11 @@ I dati del gioco segnano la mascotte come valida per tutto l'account: imparata u
 
 - [Albino Snapjaw](/it/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/it/guides/pets/azure-whelpling/)
+- [Azurky](/it/guides/pets/azurky/)
 - [Baby Shark](/it/guides/pets/baby-shark/)
+- [Blossoming Ancient](/it/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/it/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/it/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/it/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/it/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/it/guides/pets/father-winters-helper/)
 
 Ogni mascotte di WoW Forever, con la sua provenienza, è nella [guida alle mascotte](/it/guides/pets/).

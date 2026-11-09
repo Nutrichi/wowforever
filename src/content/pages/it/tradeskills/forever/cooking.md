@@ -119,7 +119,7 @@ Ogni buff dura 15 minuti e parte dopo 10 secondi di pasto.
 
 ## Nuove ricette
 
-Ogni nuova ricetta di Forever con l’abilità che richiede e da dove arriva. «Non ancora noto» vuol dire che la fonte non è ancora stata trovata sulla beta.
+Ogni nuova ricetta di Forever con l’abilità che richiede e da dove arriva. «Non ancora noto» vuol dire che la fonte non è ancora stata trovata.
 
 | Ricetta | Abilità | Fonte |
 |---|---|---|

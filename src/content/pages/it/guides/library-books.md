@@ -14,7 +14,7 @@ faq:
   - q: "Quali sono le ricompense dei libri della biblioteca?"
     a: "A 10 libri una collana, a 20 un anello dal livello 20, e a 25 un arco, uno scudo o un oggetto secondario dal livello 30, da indossare al livello 40."
   - q: "Si può raccogliere di nuovo un libro della biblioteca?"
-    a: "No. Un libro distrutto non si può raccogliere di nuovo, così com’è la beta."
+    a: "No. Un libro distrutto non si può raccogliere di nuovo, così com’era la beta."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/wow-forever-all-library-books-locations-and-rewards"
@@ -45,7 +45,7 @@ La Alliance va alla Mage Tower del Mage Quarter di Stormwind, la Horde al Magic 
 
 ![Il bibliotecario Garion Wendell a Stormwind con la finestra per consegnare un libro, uno screenshot dalla beta di World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 
-**Attenzione:** un libro distrutto non si può raccogliere di nuovo, così com’è la beta.
+**Attenzione:** un libro distrutto non si può raccogliere di nuovo, così com’era la beta.
 
 ## Eastern Kingdoms, livello 1-20 (9 libri)
 
@@ -125,7 +125,7 @@ Secrets of the Dreamers si trova nella grotta dell’ingresso di Wailing Caverns
 | Desolace | Demons and You | 55.1 26.2 | Thunder Axe Fortress, il grande edificio dell’anello interno |
 | Badlands | Mummies: A Guide to the Unsavory Undead | 56.7 39.7 | Cripta sopra il campo dei due nani, accanto a due corpi |
 
-Questi libri si trovano in zone di livello 30-45. Nella beta, che si ferma al livello 30, alcuni sono vicino a mostri più forti.
+Questi libri si trovano in zone di livello 30-45. Alcuni sono vicino a mostri più forti.
 
 <div class="wf-shots">
 

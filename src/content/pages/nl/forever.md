@@ -1,6 +1,6 @@
 ---
 title: "World of Warcraft: Forever"
-metaTitle: "WoW Forever: releasedatum, beta, roadmap, Skyborne en edities"
+metaTitle: "WoW Forever: launch, raids, roadmap, Skyborne en edities"
 description: "Alles wat Blizzard heeft aangekondigd over World of Warcraft: Forever: de datums, de roadmap, de nieuwe zones, dungeons en raids, de Skyborne, het Legacy-systeem en de edities."
 short: "WoW Forever"
 updated: 2026-11-05
@@ -15,8 +15,8 @@ faq:
     a: "Nee. Forever zit in een abonnement op World of Warcraft of in Game Time, net als WoW Classic. De betaalde edities zijn optioneel. De enige inhoud achter een aankoop is het ras Skyborne met Zephras Isle, waarvoor je het Skyborne Heroic Pack of een hogere editie nodig hebt."
   - q: "Hoeveel kosten de edities?"
     a: "In Europa kost het Skyborne Heroic Pack 29,99 euro, het Skyborne Epic Pack 59,99 euro en de Warcraft Forever Collection 79,99 euro, allemaal in de Battle.net Shop. De fysieke Collector's Edition kost 150 euro in de Blizzard Gear Store."
-  - q: "Hoe kom je in de beta?"
-    a: "Het Skyborne Epic Pack, de Warcraft Forever Collection en de Collector's Edition geven toegang tot de beta. Spelers kunnen zich ook aanmelden op de officiële pagina van World of Warcraft: Forever voor een kans op een uitnodiging. De beta loopt van 17 september tot 23 oktober 2026. Ze start met een levelgrens van 20 en verhoogt die later naar 30, waar ze blijft."
+  - q: "Is er nog een beta?"
+    a: "Nee. De beta liep van 17 september tot 23 oktober 2026, voor wie het Skyborne Epic Pack, de Warcraft Forever Collection of de Collector's Edition had en voor uitgenodigde spelers. Ze ging tot level 30. Het spel is live sinds 5 november, 00.00 uur Belgische tijd."
   - q: "Hoeveel kost het ras Skyborne?"
     a: "De goedkoopste manier is het Skyborne Heroic Pack voor 29,99 euro. Daar zitten ook Early Name Reservation, de mount Cerulean Prideclaw, cosmetica, een toy, housing-decor voor het moderne World of Warcraft en één Invite-A-Friend-lanceringscode bij."
   - q: "Welke classes kunnen de Skyborne spelen?"
@@ -182,7 +182,7 @@ Een verborgen regio tussen Mulgore en Desolace, verbonden met de Shen'dralar, de
 
 ### De oude wereld in een nieuw licht
 
-Associate Production Director Clay Stone zei dat de kunststijl van Classic tijdloos is en niet vervangen wordt. Bestaande effecten worden wel beter: stromende rivieren, natuurlijkere mist, maanlicht door de bomen en opgewaardeerde omgevingen. Blizzard toonde Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore en The Barrens. De originele zones krijgen ook nieuwe quests en geheimen. Zwaardere regen en mist volgen: op 23 september toonde Blizzard een regenachtige dag in Elwynn Forest, met effecten die binnenkort naar de beta komen.
+Associate Production Director Clay Stone zei dat de kunststijl van Classic tijdloos is en niet vervangen wordt. Bestaande effecten worden wel beter: stromende rivieren, natuurlijkere mist, maanlicht door de bomen en opgewaardeerde omgevingen. Blizzard toonde Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore en The Barrens. De originele zones krijgen ook nieuwe quests en geheimen. Zwaardere regen en mist volgen: op 23 september toonde Blizzard een regenachtige dag in Elwynn Forest, met effecten die daarna naar de beta kwamen.
 
 ## Levelen en reizen
 
@@ -190,7 +190,7 @@ De ervaringscurve verandert niet: een personage heeft evenveel nodig voor level 
 
 Dungeons werken anders. Ervaring uit monsters in een dungeon gaat omlaag, ervaring uit de dungeonquests gaat fors omhoog. Een eerste run door een dungeon loont, een herhaling veel minder. Blizzard wil spelers in de wereld in plaats van in dezelfde dungeon. Later verloren dungeonquests de helft van die extra experience, omdat testers te snel levelden.
 
-Per saldo komt het op hetzelfde uit. Van level 1 naar 20 duurt gemiddeld 20,5 uur in Forever tegenover 20,4 in Classic Era, zegt Josh Greenfield in de [eerste podcast van de ontwikkelaars](/nl/news/a-first-developer-podcast-promises-fewer-blues/). De volgende update van de beta geeft ook minder blauwe questbeloningen in dungeons, zodat de stap van wit naar groen naar blauw aanvoelt zoals in Classic, zegt Tim Jones. Welke level-addon bij welke speler past, staat in [de vergelijking van de level-addons](/nl/compare/leveling-addons-forever/).
+Per saldo komt het op hetzelfde uit. Van level 1 naar 20 duurt gemiddeld 20,5 uur in Forever tegenover 20,4 in Classic Era, zegt Josh Greenfield in de [eerste podcast van de ontwikkelaars](/nl/news/a-first-developer-podcast-promises-fewer-blues/). Een update van de beta na de podcast gaf ook minder blauwe questbeloningen in dungeons, zodat de stap van wit naar groen naar blauw aanvoelt zoals in Classic, zegt Tim Jones. Welke level-addon bij welke speler past, staat in [de vergelijking van de level-addons](/nl/compare/leveling-addons-forever/).
 
 Er komt geen WoW Token en geen boost, zei Associate Production Director Clay Stone in een interview met Destin. Het inhaalsysteem blijft "speel het spel". Goud dat voor echt geld gekocht is, kost het goud, een schorsing of het account, en het spel toont een waarschuwing bij elke handel met een onbekende, zei Blizzard op 1 oktober.
 
@@ -212,7 +212,7 @@ De levelbereiken komen van Blizzard, dat de volledige lijst op 14 september 2026
 |---|---|---|
 | The Hall of Thanes | 13 tot 18 | De Hall is doorbroken en de Alliance beschermt de oude schatten, die de Horde misschien zelf wil. Hij ligt in Old Ironforge onder de High Seat, met vier bazen en vijf quests: [de walkthrough](/nl/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) en [de gids](/nl/guides/dungeons/hall-of-thanes/). |
 | Ruins of Lordaeron | 15 tot 20 | De verwoeste hoofdstad boven de Undercity, nog vol Scourge. De Horde vecht om ze terug te nemen, en ook de Alliance heeft er quests. Zes bazen in willekeurige volgorde: [de walkthrough](/nl/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) en [de gids](/nl/guides/dungeons/ruins-of-lordaeron/). |
-| Excavation Site: Wetlands | 24 tot 29 | Een titanplek boven Whelgar's Excavation in de Wetlands, in een mist die in de tijd lijkt stilgezet. Sinds 1 oktober open in de beta. |
+| Excavation Site: Wetlands | 24 tot 29 | Een titanplek boven Whelgar's Excavation in de Wetlands, in een mist die in de tijd lijkt stilgezet. Op 1 oktober open gegaan in de beta. |
 | City of Dalaran | 28 tot 33 | Een stadsdungeon. De barrière van na Warcraft III is weg, maar de Kirin Tor hebben de stad niet onder controle. De Alliance gaat erin via de Dalaran Sewers, de Horde van buiten met de Dalaran Sewer Key ([meer](/nl/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). |
 | The Drowned City | 35 tot 40 | Trollenruïnes die ten westen van Grom'gol uit de zee oprezen, met trollen en naga. De ingang ligt onder water, en tijdens de run groeit er een storm. Speelbaar op de beursvloer van BlizzCon. |
 | Krol'dok Stronghold | 40 tot 45 | Een ogrefort in de Riverglades met werkplaatsen en kampen, van waaruit ogres reizigers en dorpen overvallen. |
@@ -294,7 +294,7 @@ Ook de racials zijn herwerkt. Elk ras heeft nu vier racials en de resistance-rac
 
 Levelen van 1 tot 60 is het hart van Classic, en het Legacy-systeem beloont spelers die meer dan één personage levelen. Legacy Challenges zijn doelen in zes categorieën: verkennen, classes levelen, tradeskills verhogen, PvP-ranks halen, reputaties maximaal maken, en dungeons en raids afwerken.
 
-Elke voltooide challenge geeft één Legacy Point. Punten gaan in een Legacy-boom met drie takken, en elke perk werkt voor elk personage op het account. De meeste perks zijn passief, enkele moet je activeren, en geen enkele geeft kracht in gevechten. Een personage van level 38 op de beursvloer had 4 punten te besteden, en verschillende knopen stonden op "to be added in future patch content". In een latere week van de beta krijgt elke tester 16 Legacy-punten om het systeem te testen, tot het einde van de beta.
+Elke voltooide challenge geeft één Legacy Point. Punten gaan in een Legacy-boom met drie takken, en elke perk werkt voor elk personage op het account. De meeste perks zijn passief, enkele moet je activeren, en geen enkele geeft kracht in gevechten. Een personage van level 38 op de beursvloer had 4 punten te besteden, en verschillende knopen stonden op "to be added in future patch content". In een latere week van de beta kreeg elke tester 16 Legacy-punten om het systeem te testen, tot het einde van de beta.
 
 ### Adventure
 
@@ -377,7 +377,7 @@ De fysieke Collector's Edition kost 150 euro in de Blizzard Gear Store. In Austr
 - een beeld van de Dwarf en zijn beer, 13 inch hoog, gebaseerd op de originele cinematic;
 - een muismat van Zephras Isle, kunstprints, verzamelpins en een begeleidend dagboek.
 
-De toegang tot de beta uit de Collector's Edition komt per mail en werkt alleen tijdens de beta. Sommige eerdere digitale aankopen komen in aanmerking voor tegoed op Battle.net als de code van de Collector's Edition uiterlijk op 31 december 2027 wordt ingewisseld. Niet elk product komt in aanmerking, volgens een supportartikel van Blizzard.
+De toegang tot de beta uit de Collector's Edition kwam per mail en werkte alleen tijdens de beta. Sommige eerdere digitale aankopen komen in aanmerking voor tegoed op Battle.net als de code van de Collector's Edition uiterlijk op 31 december 2027 wordt ingewisseld. Niet elk product komt in aanmerking, volgens een supportartikel van Blizzard.
 
 ## Warcraft III Reforged: Forsaken Kingdom
 

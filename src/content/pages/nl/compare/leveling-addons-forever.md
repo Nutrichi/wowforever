@@ -53,11 +53,11 @@ Journey is nieuw en gemaakt voor Forever. Level 1 tot 30 is gratis voor iedereen
 
 ## Joana's Guides
 
-Joana's Guides helpt spelers sinds 2006 sneller levelen, te beginnen met de routes van de speedrunner Joana. Joana overleed begin 2024; TomCat nam het onderhoud over uit respect en met de steun van Joana's familie. TomCat's Gaming is de eigenaar en ontwikkelt het verder, en de addon draait sinds 21 september in de beta van Forever met de routes voor Classic Era. Bij de launch gebruikt het dezelfde routes als Journey; zodra de routes voor Forever stabiel zijn, gaan de twee elk hun eigen weg. Een levenslange aankoop voor Classic Era blijft werken in Forever, en wat alleen voor Forever gemaakt is, wordt een apart product. Hoe de twee verbonden zijn, staat in [Journey en Joana's Guides vergeleken](/nl/compare/journey-vs-joana/).
+Joana's Guides helpt spelers sinds 2006 sneller levelen, te beginnen met de routes van de speedrunner Joana. Joana overleed begin 2024; TomCat nam het onderhoud over uit respect en met de steun van Joana's familie. TomCat's Gaming is de eigenaar en ontwikkelt het verder, en de addon draaide vanaf 21 september in de beta van Forever met de routes voor Classic Era. Bij de launch gebruikt het dezelfde routes als Journey; zodra de routes voor Forever stabiel zijn, gaan de twee elk hun eigen weg. Een levenslange aankoop voor Classic Era blijft werken in Forever, en wat alleen voor Forever gemaakt is, wordt een apart product. Hoe de twee verbonden zijn, staat in [Journey en Joana's Guides vergeleken](/nl/compare/journey-vs-joana/).
 
 ## Zygor
 
-Zygor werkt zijn gidsen van 1 tot 60 bij voor de nieuwe gebieden, de Skyborne-start en de nieuwe combinaties van ras en class, en maakt gidsen voor de negen nieuwe dungeons. Het reissysteem en de talentadviseur krijgen ook updates voor Forever. Zygor waarschuwt dat de levelcap van de beta beperkt wat het kan testen, dus de route kan bij de launch deels bijgewerkt zijn en daarna afgewerkt worden. Alles zit in een abonnement op Zygor Elite.
+Zygor werkt zijn gidsen van 1 tot 60 bij voor de nieuwe gebieden, de Skyborne-start en de nieuwe combinaties van ras en class, en maakt gidsen voor de negen nieuwe dungeons. Het reissysteem en de talentadviseur krijgen ook updates voor Forever. Voor de launch waarschuwde Zygor dat de levelcap van de beta beperkte wat het kon testen, dus de route kon bij de launch deels bijgewerkt zijn en daarna afgewerkt worden. Alles zit in een abonnement op Zygor Elite.
 
 ## Waarom een Classic-route niet volstaat
 

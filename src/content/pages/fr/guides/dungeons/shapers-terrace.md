@@ -14,7 +14,7 @@ faq:
   - q: "Faut-il les cristaux d'Un'Goro ?"
     a: "Prenez-les. Selon Blizzard, les power crystals récoltés à Un'Goro Crater servent sur des consoles dans le donjon. Ce qu'ils y font n'est pas encore connu."
   - q: "Que lâche Shaper's Terrace ?"
-    a: "Pas encore connu. Le donjon ouvre au-delà du niveau 30, seule l'entrée était donc visible dans la bêta."
+    a: "Pas encore connu."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shapers-terrace/"
@@ -22,4 +22,4 @@ dungeon:
   slug: "shapers-terrace"
   tab: "loot"
 ---
-Aucun butin de Shaper's Terrace n'est encore connu. Le donjon ouvre au-delà du niveau 30, seule l'entrée était donc visible dans la bêta. Cette page se remplira quand les joueurs l'auront fait après le lancement du 4 novembre.
+Aucun butin de Shaper's Terrace n'est encore connu. Cette page se remplira à mesure que les joueurs le font.

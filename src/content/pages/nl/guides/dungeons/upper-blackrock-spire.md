@@ -13,8 +13,6 @@ faq:
     a: "Via het portaal van Blackrock Spire in Blackrock Mountain. Binnen gebruikt één speler de Seal of Ascension op de deur links van de ingang."
   - q: "Waar haal je de Seal of Ascension?"
     a: "Met de quest Seal of Ascension in Lower Blackrock Spire, die drie edelstenen van bazen daar vraagt."
-  - q: "Kon je Blackrock Spire spelen in de beta?"
-    a: "Nee. De beta ging tot level 30, dus Blackrock Spire was dicht. Alles op deze pagina's komt uit de data van Forever en uit Classic, en kan nog veranderen."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/upper-blackrock-spire/"

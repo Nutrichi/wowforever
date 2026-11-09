@@ -13,8 +13,6 @@ faq:
     a: "Por la puerta del muro norte del patio central de Dire Maul, con la Crescent Key de Dire Maul East."
   - q: "¿Qué es un Tribute Run?"
     a: "Una partida en la que solo matas a King Gordok y dejas vivos a los guardias, a Captain Kromcrush y a Cho'Rush the Observer. Cuantos más guardias sobreviven, mejor es el cofre Gordok Tribute, y recibes el beneficio King of the Gordok."
-  - q: "¿Se podía jugar Dire Maul en la beta?"
-    a: "No. La beta llegaba al nivel 30, así que Dire Maul estaba cerrada. Todo en estas páginas viene de los datos de Forever y de Classic, y aún puede cambiar."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/dire-maul-north/"

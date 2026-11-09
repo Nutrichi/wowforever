@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Rivendare's Deathcharger in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno. Cavalcarla richiede Journeyman Riding."
+    a: "I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno. Cavalcarla richiede Journeyman Riding."
   - q: "Rivendare's Deathcharger è nuova in WoW Forever?"
     a: "No. Rivendare's Deathcharger c'era già in Classic e torna in WoW Forever."
 sources:
@@ -32,24 +32,27 @@ Rivendare's Deathcharger è una cavalcatura di Classic che torna in World of War
 | Cavalcare | Journeyman Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno.
 
 Cavalcarla richiede Journeyman Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature con Journeyman Riding
 
 - [Cerulean Prideclaw](/it/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/it/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/it/guides/mounts/pack-kodo/)
 - [Spectral Bear](/it/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/it/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/it/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/it/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/it/guides/mounts/verdant-sea-turtle/)
 
 Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

@@ -13,8 +13,6 @@ faq:
     a: "Im See mitten in den Swamp of Sorrows. Schwimm zum Tempel, geh hinunter bis zur Hall of Bones und durch die breite Tür zum Portal."
   - q: "Wie beschwört man Atal'alarion?"
     a: "Klick die sechs Schreine in der Pit of Refuse in dieser Reihenfolge an: Süd, Nord, Südwest, Südost, Nordwest, Nordost."
-  - q: "Konnte man den Sunken Temple in der Beta spielen?"
-    a: "Nein. Die Beta ging bis Level 30, der Sunken Temple war also zu. Alles auf diesen Seiten stammt aus den Daten von Forever und aus Classic und kann sich noch ändern."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/sunken-temple/"

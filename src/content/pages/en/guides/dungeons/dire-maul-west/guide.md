@@ -12,7 +12,7 @@ dungeon:
   slug: "dire-maul-west"
   tab: "guide"
 ---
-Dire Maul was closed on the beta, which stopped at level 30. This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
+This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
 
 ## Getting there
 
@@ -68,4 +68,4 @@ Put him in a corner. Arcane Blast knocks back and resets threat, so the tank tak
 
 - **The rewards** of the four quests in the Forever data.
 - **The loot**: none of the 33 Classic items is in the Forever data yet.
-- **Changes for Forever**: the dungeon was closed on the beta. In Classic, Lord Hel'nurath was summoned in the prison for the last step of the Warlock epic mount; whether that quest exists in Forever is not known.
+- **Changes for Forever**: not known yet. This page gets updated as soon as players find them. In Classic, Lord Hel'nurath was summoned in the prison for the last step of the Warlock epic mount; whether that quest exists in Forever is not known.

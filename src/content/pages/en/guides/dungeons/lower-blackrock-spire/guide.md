@@ -12,7 +12,7 @@ dungeon:
   slug: "lower-blackrock-spire"
   tab: "guide"
 ---
-Blackrock Spire was closed on the beta, which stopped at level 30. This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
+This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
 
 ## Getting there
 
@@ -69,4 +69,4 @@ Tank him against the wall behind him because of Cleave and Sweeping Slam. At 50%
 
 - **The rewards** of the twelve quests in the Forever data.
 - **The loot**: 35 of the 37 Classic items are not in the Forever data yet.
-- **Changes for Forever**: the dungeon was closed on the beta. In Classic, Mor Grayhoof was summoned in Voone's room for the Tier 0.5 quests; whether those quests exist in Forever is not known.
+- **Changes for Forever**: not known yet. This page gets updated as soon as players find them. In Classic, Mor Grayhoof was summoned in Voone's room for the Tier 0.5 quests; whether those quests exist in Forever is not known.

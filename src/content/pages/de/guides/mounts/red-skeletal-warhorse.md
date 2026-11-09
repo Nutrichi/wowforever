@@ -35,7 +35,7 @@ Red Skeletal Warhorse ist ein Reittier aus Classic, das in World of Warcraft: Fo
 | Tempo | sehr schnell |
 | Voraussetzung | Commander / Lieutenant General (Rank 11) |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
@@ -47,7 +47,7 @@ Zum Reiten braucht es Undead Horsemanship.
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere von Raider Bork
 

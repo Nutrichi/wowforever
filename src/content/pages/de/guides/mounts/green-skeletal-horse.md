@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Green Skeletal Horse in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Zum Reiten braucht es Undead Horsemanship."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden. Zum Reiten braucht es Undead Horsemanship."
   - q: "Ist Green Skeletal Horse neu in WoW Forever?"
     a: "Ja. Green Skeletal Horse ist neu in WoW Forever und war nicht in Classic."
 sources:
@@ -32,11 +32,11 @@ Green Skeletal Horse ist ein Reittier, das neu in World of Warcraft: Forever ist
 | Reiten | Undead Horsemanship |
 | Tempo | sehr schnell |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 Zum Reiten braucht es Undead Horsemanship.
 

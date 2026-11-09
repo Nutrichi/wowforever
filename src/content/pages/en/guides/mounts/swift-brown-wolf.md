@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Swift Brown Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner sells it in Orgrimmar for 888 gold 88 silver 88 copper. The vendor is friendly to the Horde. Riding it needs Wolf Riding."
+    a: "Ogunaro Wolfrunner sells it in Orgrimmar for 888 gold 88 silver 88 copper. The vendor is friendly to the Horde. Your first mount is free: the quest Wolf Swapping - Arctic Wolf, from level 60 for both factions, lets you pick this one."
   - q: "Is Swift Brown Wolf new in WoW Forever?"
     a: "No. Swift Brown Wolf was already in Classic and returns in WoW Forever."
 sources:
@@ -33,17 +33,19 @@ Swift Brown Wolf is a mount from Classic that returns in World of Warcraft: Fore
 | Riding | Wolf Riding |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> sells it in Orgrimmar for 888 gold 88 silver 88 copper. The vendor is friendly to the Horde.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, from level 60 for both factions, lets you pick this one.
+
 Riding it needs Wolf Riding.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Ogunaro Wolfrunner
 

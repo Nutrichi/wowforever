@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-undead"
   tab: "guide"
 ---
-Stratholme war in der Beta geschlossen, die bei Stufe 30 endete. Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, sagt Blizzard nicht.
+Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, sagt Blizzard nicht.
 
 Stratholme ist eine Instanz mit zwei Seiten. Die untote Seite gehört der Geißel von Baron Rivendare, die [lebende Seite](/de/guides/dungeons/stratholme-living/) dem Scarlet Crusade.
 
@@ -74,4 +74,4 @@ Geht zusammen hinein: Die Tür schließt sich. Der Tank nimmt ihn nach hinten re
 
 - **Die Belohnungen** der acht Quests in den Daten von Forever.
 - **Die Beute**: 35 der 53 Gegenstände aus Classic stehen noch nicht in den Daten von Forever, und ob Deathcharger's Reins fällt, ist nicht bekannt.
-- **Änderungen für Forever**: Der Dungeon war in der Beta geschlossen. Hinter einem Tor am Slaughter Square war in Classic ein geschlossenes Portal nach Naxxramas zu sehen; was Forever damit macht, ist nicht bekannt.
+- **Änderungen für Forever**: noch nicht bekannt. Hinter einem Tor am Slaughter Square war in Classic ein geschlossenes Portal nach Naxxramas zu sehen; was Forever damit macht, ist nicht bekannt.

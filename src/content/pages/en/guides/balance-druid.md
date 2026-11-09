@@ -15,7 +15,7 @@ faq:
   - q: "Does Wrath use Clearcasting?"
     a: "No. Clearcasting from Omen of Clarity is not consumed by Wrath, so the free cast goes to a more expensive spell such as Starfire."
   - q: "When do I get Moonkin Form?"
-    a: "Moonkin Form is the last talent of the Balance tree and needs level 40, so it was not on the beta. It raises the spell critical strike chance of your whole group by 3% and doubles the chance to trigger Omen of Clarity."
+    a: "Moonkin Form is the last talent of the Balance tree and needs level 40. It raises the spell critical strike chance of your whole group by 3% and doubles the chance to trigger Omen of Clarity."
   - q: "Which race is best for a Balance Druid?"
     a: "Night Elf for Elune's Light, a burst of critical strike chance, or Tauren for War Stomp and 5% more Health. The Skyborne get 2% Haste on both sides. The differences are small, so pick the race you like."
   - q: "Is there a level 60 build yet?"

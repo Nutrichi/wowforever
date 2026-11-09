@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Swift Regal Galestrider in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it. Riding it needs Galestrider Riding."
+    a: "The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it. Riding it needs Galestrider Riding."
   - q: "Is Swift Regal Galestrider new in WoW Forever?"
     a: "Yes. Swift Regal Galestrider is new in WoW Forever and was not in Classic."
 sources:
@@ -31,11 +31,11 @@ Swift Regal Galestrider is a mount that is new in World of Warcraft: Forever. It
 | Riding | Galestrider Riding |
 | Speed | very fast |
 | New in Forever | yes |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
-The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 Riding it needs Galestrider Riding.
 

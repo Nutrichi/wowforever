@@ -12,8 +12,6 @@ faq:
     a: "Through the Eastwall Gate, a little east of the main gate in the northwest of the Eastern Plaguelands. It needs the Key to the City, which Magistrate Barthilas drops."
   - q: "Does Baron Rivendare drop Deathcharger's Reins in WoW Forever?"
     a: "Deathcharger's Reins is in the Forever data. Whether Baron Rivendare drops it in Forever, and how often, is not known."
-  - q: "Could you play Stratholme on the beta?"
-    a: "No. The beta went up to level 30, so Stratholme was closed. Everything on these pages comes from the Forever data and from Classic, and can still change."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/stratholme-undead/"

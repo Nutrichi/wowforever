@@ -13,7 +13,7 @@ dungeon:
   slug: "zul-farrak"
   tab: "guide"
 ---
-Zul'Farrak war in der Beta zu, die bei Level 30 endete. Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt.
+Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt.
 
 ## Anreise
 
@@ -82,4 +82,4 @@ Er wartet hinter der gesprengten Tür mit <a class="wf-wh wf-plain" href="https:
 
 - **Die Belohnungen** der acht Quests in den Daten von Forever.
 - **Vier Gegenstände** der Beute aus Classic, die noch nicht in den Daten von Forever stehen.
-- **Änderungen für Forever**: Der Dungeon war in der Beta zu.
+- **Änderungen für Forever**: noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler sie finden.

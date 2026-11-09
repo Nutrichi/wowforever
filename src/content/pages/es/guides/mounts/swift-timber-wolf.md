@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Swift Timber Wolf en WoW Forever?"
-    a: "Ogunaro Wolfrunner la vende en Orgrimmar por 888 de oro y 88 de plata y 88 de cobre. El vendedor es amistoso con la Horda. Montarla requiere Wolf Riding."
+    a: "Ogunaro Wolfrunner la vende en Orgrimmar por 888 de oro y 88 de plata y 88 de cobre. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión Wolf Swapping - Arctic Wolf, desde el nivel 60 para ambas facciones, te deja elegir esta."
   - q: "¿Es Swift Timber Wolf nueva en WoW Forever?"
     a: "No. Swift Timber Wolf ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Timber Wolf es una montura de Classic que vuelve en World of Warcraft: For
 | Equitación | Wolf Riding |
 | Velocidad | muy rápida |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende en Orgrimmar por 888 de oro y 88 de plata y 88 de cobre. El vendedor es amistoso con la Horda.
 
+Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+
 Montarla requiere Wolf Riding.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas de Ogunaro Wolfrunner
 

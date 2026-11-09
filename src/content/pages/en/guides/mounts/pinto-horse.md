@@ -33,7 +33,7 @@ Pinto Horse is a mount from Classic that returns in World of Warcraft: Forever. 
 | Riding | Horse Riding |
 | Speed | normal |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
@@ -43,11 +43,13 @@ Pinto Horse is a mount from Classic that returns in World of Warcraft: Forever. 
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> sells it in Hillsbrad Foothills for 40 gold. The vendor is friendly to the Alliance.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=97045">Your First Horse</a>, from level 40 for the Alliance, lets you pick this one.
+
 Riding it needs Horse Riding.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Katie Hunter
 

@@ -47,5 +47,6 @@ Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es f�
 - [Poley](/de/guides/pets/poley/)
 - [Sprite Darter Hatchling](/de/guides/pets/sprite-darter-hatchling/)
 - [Terky](/de/guides/pets/terky/)
+- [Weevil K. Neevil](/de/guides/pets/weevil-k-neevil/)
 
 Jedes Haustier von WoW Forever, mit seiner Herkunft, steht im [Haustier-Guide](/de/guides/pets/).

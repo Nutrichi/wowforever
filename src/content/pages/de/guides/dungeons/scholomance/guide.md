@@ -13,7 +13,7 @@ dungeon:
   slug: "scholomance"
   tab: "guide"
 ---
-Scholomance war in der Beta geschlossen, die bei Stufe 30 endete. Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, sagt Blizzard nicht. Die Karte von Blizzard zeigt die spätere Version, deshalb hat diese Seite keine.
+Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, sagt Blizzard nicht. Die Karte von Blizzard zeigt die spätere Version, deshalb hat diese Seite keine.
 
 ## Anreise
 
@@ -72,4 +72,4 @@ Er erscheint, wenn die sechs tot sind, und greift sofort an. Er teleportiert Spi
 
 - **Die Belohnungen** der zehn Quests in den Daten von Forever.
 - **Die Beute**: 52 der 71 Gegenstände aus Classic stehen noch nicht in den Daten von Forever.
-- **Änderungen für Forever**: Der Dungeon war in der Beta geschlossen. In Classic wurde hier Kormok für die Quests von Tier 0.5 beschworen; ob es diese Beschwörung in Forever gibt, ist nicht bekannt.
+- **Änderungen für Forever**: noch nicht bekannt. In Classic wurde hier Kormok für die Quests von Tier 0.5 beschworen; ob es diese Beschwörung in Forever gibt, ist nicht bekannt.

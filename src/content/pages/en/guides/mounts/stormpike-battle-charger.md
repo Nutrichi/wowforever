@@ -31,8 +31,9 @@ Stormpike Battle Charger is a mount from Classic that returns in World of Warcra
 | Price | 800 gold |
 | Level | 60 |
 | Speed | very fast |
+| Requires | Stormpike Guard (Exalted) |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
@@ -40,8 +41,10 @@ Stormpike Battle Charger is a mount from Classic that returns in World of Warcra
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13217">Thanthaldis Snowgleam</a> sells it in Alterac Mountains for 800 gold.
 
+Buying or using it needs Exalted with Stormpike Guard.
+
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 Every mount of WoW Forever, with where it comes from, is in the [mount guide](/guides/mounts/).

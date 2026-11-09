@@ -30,12 +30,13 @@ Baby Crocolisk ist ein Haustier, das neu in World of Warcraft: Forever ist. Du l
 | Gegenstand | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282047"><img class="wf-wh__icon" src="/wh/inv_pet_babycrocodile_toothy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baby Crocolisk</a> |
 | Quelle | Beute: Sewer Beast |
 | Wo | Stormwind City |
+| Dropchance | 4,4 % |
 | Neu in Forever | ja |
 | Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a> lässt es fallen. Das Krokilisk patrouilliert durch die Kanäle von Stormwind City und ist in der Beta ein Rare auf Stufe 50. Große Schlachtzugsgruppen aus niedrigstufigen Spielern haben es besiegt. Wie oft das Haustier fällt, ist nicht bekannt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a> lässt es fallen. Das Krokilisk patrouilliert durch die Kanäle von Stormwind City und ist ein Rare auf Stufe 50. Große Schlachtzugsgruppen aus niedrigstufigen Spielern haben es besiegt. Das Haustier droppt bei etwa 4,4 % der Kills.
 
 ## Gut zu wissen
 

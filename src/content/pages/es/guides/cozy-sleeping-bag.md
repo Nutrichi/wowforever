@@ -61,4 +61,4 @@ El paso 4 está en terreno de la Alianza. Los jugadores de la Horda que hagan el
 
 ## Una cosa que conviene saber antes
 
-En la beta las misiones de esta cadena están marcadas a la vista en el mundo. Si es algo buscado o propio de la beta, Blizzard no lo dice. Quien prefiera encontrar el rastro por su cuenta quizá haga mejor en esperar al lanzamiento.
+En la beta las misiones de esta cadena estaban marcadas a la vista en el mundo. No se sabe si es igual en el juego en vivo. Quien prefiera encontrar el rastro por su cuenta quizá haga mejor en esperar al lanzamiento.

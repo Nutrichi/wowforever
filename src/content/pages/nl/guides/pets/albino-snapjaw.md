@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Albino Snapjaw in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont."
+    a: "De spelbestanden van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden."
   - q: "Is Albino Snapjaw nieuw in WoW Forever?"
     a: "Nee. Albino Snapjaw zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -32,7 +32,7 @@ Albino Snapjaw is een companion pet uit Classic die terugkomt in World of Warcra
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 ## Wat er veranderde sinds Classic
 
@@ -43,12 +43,12 @@ De spelgegevens markeren de pet als geldig voor het hele account: een keer gelee
 ## Meer pets uit dezelfde bron
 
 - [Azure Whelpling](/nl/guides/pets/azure-whelpling/)
+- [Azurky](/nl/guides/pets/azurky/)
 - [Baby Shark](/nl/guides/pets/baby-shark/)
+- [Blossoming Ancient](/nl/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/nl/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/nl/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/nl/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/nl/guides/pets/disgusting-oozeling/)
 - [Father Winter's Helper](/nl/guides/pets/father-winters-helper/)
-- [Festival Lantern](/nl/guides/pets/festival-lantern/)
 
 Elke pet van WoW Forever, met waar hij vandaan komt, staat in de [petgids](/nl/guides/pets/).

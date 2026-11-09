@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Black Qiraji Battle Tank dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas apprise."
+    a: "Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront. Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas apprise."
   - q: "Black Qiraji Battle Tank est-elle nouvelle dans WoW Forever ?"
     a: "Non. Black Qiraji Battle Tank existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,7 +27,7 @@ Black Qiraji Battle Tank est une monture de Classic qui revient dans World of Wa
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas apprise.
 

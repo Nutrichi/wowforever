@@ -13,8 +13,6 @@ faq:
     a: "Dal portale di Blackrock Spire in Blackrock Mountain. Dentro, un giocatore usa il Seal of Ascension sulla porta a sinistra dell’ingresso."
   - q: "Dove si ottiene il Seal of Ascension?"
     a: "Con la missione Seal of Ascension in Lower Blackrock Spire, che chiede tre gemme dai boss di quel dungeon."
-  - q: "Si poteva giocare Blackrock Spire in beta?"
-    a: "No. La beta arrivava al livello 30, quindi Blackrock Spire era chiuso. Tutto in queste pagine viene dai dati di Forever e da Classic, e può ancora cambiare."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/upper-blackrock-spire/"

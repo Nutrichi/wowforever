@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-living"
   tab: "guide"
 ---
-Stratholme estaba cerrado en la beta, que se detenía en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes de los datos de Forever. Blizzard no dice si la mazmorra cambia para Forever.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes de los datos de Forever. Blizzard no dice si la mazmorra cambia para Forever.
 
 Stratholme es una sola instancia con dos lados. El lado vivo es de la Scarlet Crusade, el [lado no muerto](/es/guides/dungeons/stratholme-undead/) de la Plaga de Baron Rivendare. Los dos se unen por King's Square Gate, que pide la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12382"><img class="wf-wh__icon" src="/wh/inv_misc_key_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Key to the City</a>.
 
@@ -90,4 +90,4 @@ El combate empieza fácil. Luego Dathrohan se convierte en el demonio Balnazzar.
 
 - **Las recompensas** de las seis misiones en los datos de Forever.
 - **El botín**: 33 de los 46 objetos de Classic aún no están en los datos de Forever.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta. En Classic, Jarien y Sothos se invocaban aquí para las misiones de Tier 0.5; no se sabe si esa invocación existe en Forever.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren. En Classic, Jarien y Sothos se invocaban aquí para las misiones de Tier 0.5; no se sabe si esa invocación existe en Forever.

@@ -53,7 +53,7 @@ La partie gratuite contient déjà les nouvelles quêtes de Forever, le départ 
 
 ## Ce que propose Joana's Guides
 
-L’addon de Joana's Guides tourne dans la beta de Forever depuis le 21 septembre, avec les routes Classic Era 1 à 60. Les guides construits pour Forever suivront dès qu’ils seront prêts. Hors Forever, le Monthly Everything Plan couvre Classic Era 1 à 60 (avec Season of Discovery, Hardcore et Anniversary), TBC 60 à 70 et WotLK 70 à 80. Des plans uniques existent pour chaque version.
+L’addon de Joana's Guides tournait dans la bêta de Forever depuis le 21 septembre, avec les routes Classic Era 1 à 60. Les guides construits pour Forever suivront dès qu’ils seront prêts. Hors Forever, le Monthly Everything Plan couvre Classic Era 1 à 60 (avec Season of Discovery, Hardcore et Anniversary), TBC 60 à 70 et WotLK 70 à 80. Des plans uniques existent pour chaque version.
 
 Un achat à vie du guide Classic Era 1 à 60 fonctionne aussi dans Forever, tel quel. Les nouvelles quêtes, zones, races et quêtes de donjon propres à Forever deviennent un produit séparé. Son prix et les options de mise à niveau ne sont pas encore connus.
 

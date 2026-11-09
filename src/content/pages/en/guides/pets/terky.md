@@ -14,7 +14,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=22780"
 ---
-Terky is a companion pet from Classic that returns in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22780"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">White Murloc Egg</a> still summons it the way it did in Classic, according to the tooltip on the beta.
+Terky is a companion pet from Classic that returns in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22780"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">White Murloc Egg</a> still summons it the way it did in Classic, according to the tooltip.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_egg_03.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=22780">White Murloc Egg</a><span class="wf-item__line wf-item__meta">Item Level 1</span><span class="wf-item__line">Unique</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss your pet.</span></div></div>
@@ -44,5 +44,6 @@ The game data marks the pet as account-wide: learned once, it would be there for
 - [Poley](/guides/pets/poley/)
 - [Spirit of Summer](/guides/pets/spirit-of-summer/)
 - [Sprite Darter Hatchling](/guides/pets/sprite-darter-hatchling/)
+- [Weevil K. Neevil](/guides/pets/weevil-k-neevil/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

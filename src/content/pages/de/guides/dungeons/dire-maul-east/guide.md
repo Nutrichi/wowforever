@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-east"
   tab: "guide"
 ---
-Dire Maul war in der Beta zu, die bei Level 30 endete. Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt.
+Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt.
 
 ## Anreise
 
@@ -57,4 +57,4 @@ Räume zuerst die Warpwood Crushers auf der Rampe ab, sonst greifen sie mit ein.
 
 - **Die Belohnungen** der fünf Quests in den Daten von Forever.
 - **Die Beute**: Keiner der 24 Gegenstände aus Classic steht schon in den Daten von Forever.
-- **Änderungen für Forever**: Der Dungeon war in der Beta zu. In Classic wurde hier Isalien für die Quests von Tier 0.5 beschworen; ob es diese Quests in Forever gibt, ist nicht bekannt.
+- **Änderungen für Forever**: noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler sie finden. In Classic wurde hier Isalien für die Quests von Tier 0.5 beschworen; ob es diese Quests in Forever gibt, ist nicht bekannt.

@@ -15,7 +15,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=268879"
 ---
-Mini Uber Diablo es una mascota de compañía nueva en World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268879"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Uber Diablo Stone</a> todavía la invoca como en Classic, según la descripción de la beta.
+Mini Uber Diablo es una mascota de compañía nueva en World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268879"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Uber Diablo Stone</a> todavía la invoca como en Classic, según la descripción.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_diablostone.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=268879">Uber Diablo Stone</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss Diablo.</span></div></div>
@@ -42,11 +42,11 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 
 - [Albino Snapjaw](/es/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/es/guides/pets/azure-whelpling/)
+- [Azurky](/es/guides/pets/azurky/)
 - [Baby Shark](/es/guides/pets/baby-shark/)
+- [Blossoming Ancient](/es/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/es/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/es/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/es/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/es/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/es/guides/pets/father-winters-helper/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

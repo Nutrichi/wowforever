@@ -1,13 +1,13 @@
 ---
 title: "Pet Stone: how to get the pet in WoW Forever"
 metaTitle: "How to get Pet Stone in WoW Forever"
-description: "Pet Stone is a companion pet from Classic that returns in World of Warcraft: Forever. It drops from several monsters."
+description: "Pet Stone is a companion pet from Classic that returns in World of Warcraft: Forever."
 short: "Pet Stone"
 updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Pet Stone in WoW Forever?"
-    a: "It drops from several monsters. These have the best chance in the loot data: The Giant in Feralas Enraged Mountain Giant in Feralas"
+    a: "The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it."
   - q: "Is Pet Stone new in WoW Forever?"
     a: "No. Pet Stone was already in Classic and returns in WoW Forever."
 sources:
@@ -25,17 +25,13 @@ Pet Stone is a companion pet from Classic that returns in World of Warcraft: For
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13343"><img class="wf-wh__icon" src="/wh/inv_stone_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Stone</a> |
-| Source | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (and 1 more) |
-| Where | Feralas |
+| Source | Not known yet |
 | New in Forever | no, from Classic |
 | Account-wide | yes, in the game data |
 
 ## How to get it
 
-It drops from several monsters. These have the best chance in the loot data:
-
-- <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> in Feralas
-- <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221373">Enraged Mountain Giant</a> in Feralas
+The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 ## What changed since Classic
 
@@ -45,13 +41,13 @@ The game data marks the pet as account-wide: learned once, it would be there for
 
 ## More pets from the same source
 
-- [Baby Crocolisk](/guides/pets/baby-crocolisk/)
-- [Black Tabby](/guides/pets/black-tabby/)
-- [Crimson Whelpling](/guides/pets/crimson-whelpling/)
-- [Dark Whelpling](/guides/pets/dark-whelpling/)
-- [Emerald Whelpling](/guides/pets/emerald-whelpling/)
-- [Green Wing Macaw](/guides/pets/green-wing-macaw/)
-- [Hyacinth Macaw](/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/guides/pets/pet-fish/)
+- [Albino Snapjaw](/guides/pets/albino-snapjaw/)
+- [Azure Whelpling](/guides/pets/azure-whelpling/)
+- [Azurky](/guides/pets/azurky/)
+- [Baby Shark](/guides/pets/baby-shark/)
+- [Blossoming Ancient](/guides/pets/blossoming-ancient/)
+- [Bronze Whelpling](/guides/pets/bronze-whelpling/)
+- [Corrupted Kitten](/guides/pets/corrupted-kitten/)
+- [Disgusting Oozeling](/guides/pets/disgusting-oozeling/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

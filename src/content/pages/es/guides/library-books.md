@@ -14,7 +14,7 @@ faq:
   - q: "¿Cuáles son las recompensas de los libros de biblioteca?"
     a: "A los 10 libros un collar, a los 20 un anillo desde el nivel 20, y a los 25 un arco, un escudo o una mano izquierda desde el nivel 30, que piden el nivel 40 para llevarlos."
   - q: "¿Se puede volver a saquear un libro de biblioteca?"
-    a: "No. Un libro que destruyes no se puede volver a saquear, tal como está la beta."
+    a: "No. Un libro que destruyes no se puede volver a saquear, tal como estaba la beta."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/wow-forever-all-library-books-locations-and-rewards"
@@ -45,7 +45,7 @@ La Alliance va a la Mage Tower del Mage Quarter de Stormwind, la Horde al Magic 
 
 ![El bibliotecario Garion Wendell en Stormwind con la ventana para entregar un libro, una captura de pantalla de la beta de World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 
-**Cuidado:** un libro que destruyes no se puede volver a saquear, tal como está la beta.
+**Cuidado:** un libro que destruyes no se puede volver a saquear, tal como estaba la beta.
 
 ## Eastern Kingdoms, nivel 1 a 20 (9 libros)
 
@@ -125,7 +125,7 @@ Secrets of the Dreamers está en la cueva de la entrada de Wailing Caverns. Usa 
 | Desolace | Demons and You | 55.1 26.2 | Thunder Axe Fortress, el edificio grande del anillo interior |
 | Badlands | Mummies: A Guide to the Unsavory Undead | 56.7 39.7 | Cripta sobre el campamento de los dos enanos, junto a dos cadáveres |
 
-Estos libros están en zonas de nivel 30 a 45. En la beta, que se detiene en el nivel 30, algunos están cerca de monstruos más fuertes.
+Estos libros están en zonas de nivel 30 a 45. Algunos están cerca de monstruos más fuertes.
 
 <div class="wf-shots">
 

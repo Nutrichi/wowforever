@@ -34,7 +34,7 @@ Pinto Horse è una cavalcatura di Classic che torna in World of Warcraft: Foreve
 | Cavalcare | Horse Riding |
 | Velocità | normale |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
@@ -44,11 +44,13 @@ Pinto Horse è una cavalcatura di Classic che torna in World of Warcraft: Foreve
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vende a Hillsbrad Foothills per 40 d'oro. Il mercante è amichevole con l'Alleanza.
 
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=97045">Your First Horse</a>, dal livello 40 per l'Alleanza, ti fa scegliere questa.
+
 Cavalcarla richiede Horse Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature di Katie Hunter
 

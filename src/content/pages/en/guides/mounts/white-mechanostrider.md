@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get White Mechanostrider in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it. Riding it needs Mechanostrider Piloting."
+    a: "The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it. Riding it needs Mechanostrider Piloting."
   - q: "Is White Mechanostrider new in WoW Forever?"
     a: "No. White Mechanostrider was already in Classic and returns in WoW Forever."
 sources:
@@ -31,11 +31,11 @@ White Mechanostrider is a mount from Classic that returns in World of Warcraft: 
 | Riding | Mechanostrider Piloting |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
-The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 Riding it needs Mechanostrider Piloting.
 
@@ -43,7 +43,7 @@ The game hides this mount in the mount collection until a character has learned 
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts with Mechanostrider Piloting
 

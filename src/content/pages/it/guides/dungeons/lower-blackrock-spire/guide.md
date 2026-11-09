@@ -13,7 +13,7 @@ dungeon:
   slug: "lower-blackrock-spire"
   tab: "guide"
 ---
-Blackrock Spire era chiuso in beta, che si fermava al livello 30. Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
+Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
 
 ## Come arrivarci
 
@@ -70,4 +70,4 @@ Tankalo contro il muro alle sue spalle per Cleave e Sweeping Slam. Al 50% chiama
 
 - **Le ricompense** delle dodici missioni nei dati di Forever.
 - **Il bottino**: 35 dei 37 oggetti di Classic non sono ancora nei dati di Forever.
-- **Le modifiche per Forever**: il dungeon era chiuso in beta. In Classic Mor Grayhoof veniva evocato nella sala di Voone per le missioni del Tier 0.5; non si sa se quelle missioni esistano in Forever.
+- **Le modifiche per Forever**: non ancora note. Questa pagina verrà aggiornata appena i giocatori le scopriranno. In Classic Mor Grayhoof veniva evocato nella sala di Voone per le missioni del Tier 0.5; non si sa se quelle missioni esistano in Forever.

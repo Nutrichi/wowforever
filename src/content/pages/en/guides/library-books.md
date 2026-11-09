@@ -13,7 +13,7 @@ faq:
   - q: "What are the rewards for library books?"
     a: "At 10 books a necklace, at 20 books a ring from level 20, and at 25 books a bow, shield or off-hand from level 30, which needs level 40 to wear."
   - q: "Can you loot a library book again?"
-    a: "No. A book you delete cannot be looted again, as things stand on the beta."
+    a: "No. A book you delete cannot be looted again, as things stood on the beta."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/wow-forever-all-library-books-locations-and-rewards"
@@ -44,7 +44,7 @@ The Alliance goes to the Mage Tower in the Mage Quarter of Stormwind, the Horde 
 
 ![The librarian Garion Wendell in Stormwind with the window to hand in a book, a screenshot from the beta of World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 
-**Careful:** a book you delete cannot be looted again, as things stand on the beta.
+**Careful:** a book you delete cannot be looted again, as things stood on the beta.
 
 ## Eastern Kingdoms, level 1 to 20 (9 books)
 
@@ -124,7 +124,7 @@ Secrets of the Dreamers lies in the cave with the entrance of Wailing Caverns. U
 | Desolace | Demons and You | 55.1 26.2 | Thunder Axe Fortress, the large building in the inner ring |
 | Badlands | Mummies: A Guide to the Unsavory Undead | 56.7 39.7 | Crypt above the camp with the two dwarves, beside two bodies |
 
-These books lie in zones of level 30 to 45. On the beta, which stops at level 30, some of them sit near stronger monsters.
+These books lie in zones of level 30 to 45. Some of them sit near stronger monsters.
 
 <div class="wf-shots">
 

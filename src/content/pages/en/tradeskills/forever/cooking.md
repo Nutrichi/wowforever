@@ -118,7 +118,7 @@ Every buff lasts 15 minutes and starts after 10 seconds of eating.
 
 ## New recipes
 
-Every new recipe of Forever with the skill it needs and where it comes from. "Not known yet" means the source has not been found on the beta.
+Every new recipe of Forever with the skill it needs and where it comes from. "Not known yet" means the source has not been found yet.
 
 | Recipe | Skill | Source |
 |---|---|---|

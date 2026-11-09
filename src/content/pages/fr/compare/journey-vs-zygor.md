@@ -44,7 +44,7 @@ La partie gratuite contient déjà les nouvelles quêtes de Forever, le départ 
 
 ## Ce que propose Zygor
 
-Zygor met à jour ses guides de 1 à 60 pour les nouvelles zones, le départ Skyborne et les nouvelles combinaisons de race et de classe, et ajoute des guides pour les neuf nouveaux donjons. Son système de déplacement et son conseiller de talents sont aussi mis à jour pour Forever. Zygor prévient que le plafond de niveau de la bêta limite ce qu’il peut tester : la route pourrait n’être que partiellement à jour au lancement, puis complétée ensuite.
+Zygor met à jour ses guides de 1 à 60 pour les nouvelles zones, le départ Skyborne et les nouvelles combinaisons de race et de classe, et ajoute des guides pour les neuf nouveaux donjons. Son système de déplacement et son conseiller de talents sont aussi mis à jour pour Forever. Avant le lancement, Zygor prévenait que le plafond de niveau de la bêta limitait ce qu’il pouvait tester : la route pouvait n’être que partiellement à jour au lancement, puis complétée ensuite.
 
 ## Lequel pour qui
 

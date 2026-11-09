@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Father Winter's Helper en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren."
+    a: "Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren."
   - q: "¿Es Father Winter's Helper nueva en WoW Forever?"
     a: "No. Father Winter's Helper ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -32,7 +32,7 @@ Father Winter's Helper es una mascota de compañía de Classic que vuelve en Wor
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 ## Qué cambió desde Classic
 
@@ -44,11 +44,11 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 
 - [Albino Snapjaw](/es/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/es/guides/pets/azure-whelpling/)
+- [Azurky](/es/guides/pets/azurky/)
 - [Baby Shark](/es/guides/pets/baby-shark/)
+- [Blossoming Ancient](/es/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/es/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/es/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/es/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/es/guides/pets/disgusting-oozeling/)
-- [Festival Lantern](/es/guides/pets/festival-lantern/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

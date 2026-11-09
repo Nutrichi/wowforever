@@ -30,12 +30,13 @@ Baby Crocolisk è una mascotte da compagnia nuova in World of Warcraft: Forever.
 | Oggetto | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282047"><img class="wf-wh__icon" src="/wh/inv_pet_babycrocodile_toothy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baby Crocolisk</a> |
 | Fonte | Bottino: Sewer Beast |
 | Dove | Stormwind City |
+| Probabilità | 4,4% |
 | Nuova in Forever | sì |
 | Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
-La lascia cadere <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a>. Il coccodrillo pattuglia i canali di Stormwind City e nella beta è un raro di livello 50. Grandi gruppi di incursione di giocatori di basso livello l'hanno abbattuto. Quanto spesso cada la mascotte non è noto.
+La lascia cadere <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a>. Il coccodrillo pattuglia i canali di Stormwind City ed è un raro di livello 50. Grandi gruppi di incursione di giocatori di basso livello l'hanno abbattuto. La mascotte cade in circa il 4,4% delle uccisioni.
 
 ## Da sapere
 

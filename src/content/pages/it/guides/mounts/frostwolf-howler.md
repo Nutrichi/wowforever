@@ -32,8 +32,9 @@ Frostwolf Howler è una cavalcatura di Classic che torna in World of Warcraft: F
 | Prezzo | 800 d'oro |
 | Livello | 60 |
 | Velocità | molto veloce |
+| Requisito | Frostwolf Clan (Exalted) |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
@@ -41,8 +42,10 @@ Frostwolf Howler è una cavalcatura di Classic che torna in World of Warcraft: F
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13219">Jekyll Flandring</a> la vende a Alterac Mountains per 800 d'oro.
 
+Comprarla o usarla richiede Exalted con Frostwolf Clan.
+
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

@@ -85,5 +85,5 @@ Start the fight with the Archival Panel on the right of the inactive guardian. T
 ## What is not known yet
 
 - **What the Bloody Map leads to**, the reward of Open the Maw.
-- **When Highland Hides and Prehistoric Prism are fixed**: both are bugged on the beta.
+- **When Highland Hides and Prehistoric Prism are fixed**: both were bugged on the beta; whether they work now is not known.
 - **The drop rates** of the boss loot, apart from the Titan Relic.

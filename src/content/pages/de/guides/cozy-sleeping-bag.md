@@ -61,4 +61,4 @@ Schritt 4 liegt auf Allianzgebiet. Hordenspieler, die den Weg mit 14 gehen, soll
 
 ## Eine Sache vorab
 
-Auf der Beta sind die Quests dieser Reihe sichtbar in der Welt markiert. Ob das so gewollt ist oder zur Beta gehört, sagt Blizzard nicht. Wer die Spur lieber selbst sucht, wartet vielleicht besser bis zum Start.
+Auf der Beta waren die Quests dieser Reihe sichtbar in der Welt markiert. Ob das im Live-Spiel genauso ist, ist nicht bekannt. Wer die Spur lieber selbst sucht, wartet vielleicht besser bis zum Start.

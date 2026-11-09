@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je White Warden Saber in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd heeft."
+    a: "De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden. Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd heeft."
   - q: "Is White Warden Saber nieuw in WoW Forever?"
     a: "Ja. White Warden Saber is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -27,7 +27,7 @@ White Warden Saber is een mount die nieuw is in World of Warcraft: Forever.
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd heeft.
 

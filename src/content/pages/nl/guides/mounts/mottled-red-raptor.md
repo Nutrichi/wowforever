@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Mottled Red Raptor in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Rijden vraagt Raptor Riding."
+    a: "De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden. Rijden vraagt Raptor Riding."
   - q: "Is Mottled Red Raptor nieuw in WoW Forever?"
     a: "Nee. Mottled Red Raptor zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -32,11 +32,11 @@ Mottled Red Raptor is een mount uit Classic die terugkomt in World of Warcraft: 
 | Rijden | Raptor Riding |
 | Snelheid | zeer snel |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 Rijden vraagt Raptor Riding.
 
@@ -44,7 +44,7 @@ Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd 
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts met Raptor Riding
 

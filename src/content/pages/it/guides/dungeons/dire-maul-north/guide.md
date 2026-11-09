@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-north"
   tab: "guide"
 ---
-Dire Maul era chiuso in beta, che si fermava al livello 30. Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
+Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
 
 ## Come arrivarci
 
@@ -76,4 +76,4 @@ Combattono insieme. In un clear completo uccidi prima Cho'Rush e interrompi il s
 
 - **Le ricompense** delle cinque missioni nei dati di Forever.
 - **Il bottino**: nessuno dei 30 oggetti di Classic è ancora nei dati di Forever, e non si sa cosa contenga lo scrigno Gordok Tribute.
-- **Le modifiche per Forever**: il dungeon era chiuso in beta.
+- **Le modifiche per Forever**: non ancora note. Questa pagina verrà aggiornata appena i giocatori le scopriranno.

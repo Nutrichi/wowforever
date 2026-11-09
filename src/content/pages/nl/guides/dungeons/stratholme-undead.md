@@ -12,8 +12,6 @@ faq:
     a: "Via de Eastwall Gate, een stukje ten oosten van de hoofdpoort in het noordwesten van de Eastern Plaguelands. Ze vraagt de Key to the City, die Magistrate Barthilas laat vallen."
   - q: "Laat Baron Rivendare Deathcharger's Reins vallen in WoW Forever?"
     a: "Deathcharger's Reins staat in de data van Forever. Of Baron Rivendare de mount in Forever laat vallen, en hoe vaak, is niet bekend."
-  - q: "Kon je Stratholme spelen in de beta?"
-    a: "Nee. De beta ging tot level 30, dus Stratholme was dicht. Alles op deze pagina's komt uit de data van Forever en uit Classic, en kan nog veranderen."
 manual: true
 sources:
   - name: "Warcraft Tavern"

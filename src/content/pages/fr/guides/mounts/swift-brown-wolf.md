@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Swift Brown Wolf dans WoW Forever ?"
-    a: "Ogunaro Wolfrunner la vend à Orgrimmar pour 888 po 88 pa 88 pc. Le marchand est amical envers la Horde. La monter demande Wolf Riding."
+    a: "Ogunaro Wolfrunner la vend à Orgrimmar pour 888 po 88 pa 88 pc. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête Wolf Swapping - Arctic Wolf, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci."
   - q: "Swift Brown Wolf est-elle nouvelle dans WoW Forever ?"
     a: "Non. Swift Brown Wolf existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Brown Wolf est une monture de Classic qui revient dans World of Warcraft: 
 | Monte | Wolf Riding |
 | Vitesse | très rapide |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vend à Orgrimmar pour 888 po 88 pa 88 pc. Le marchand est amical envers la Horde.
 
+Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+
 La monter demande Wolf Riding.
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 ## D'autres montures de Ogunaro Wolfrunner
 

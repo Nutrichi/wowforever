@@ -46,5 +46,6 @@ The game data marks the pet as account-wide: learned once, it would be there for
 - [Spirit of Summer](/guides/pets/spirit-of-summer/)
 - [Sprite Darter Hatchling](/guides/pets/sprite-darter-hatchling/)
 - [Terky](/guides/pets/terky/)
+- [Weevil K. Neevil](/guides/pets/weevil-k-neevil/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

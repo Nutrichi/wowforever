@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Spectral Bear in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Zum Reiten braucht es Journeyman Riding."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden. Zum Reiten braucht es Journeyman Riding."
   - q: "Ist Spectral Bear neu in WoW Forever?"
     a: "Ja. Spectral Bear ist neu in WoW Forever und war nicht in Classic."
 sources:
@@ -32,20 +32,23 @@ Spectral Bear ist ein Reittier, das neu in World of Warcraft: Forever ist. Es is
 | Reiten | Journeyman Riding |
 | Tempo | normal |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 Zum Reiten braucht es Journeyman Riding.
 
 ## Mehr Reittiere mit Journeyman Riding
 
 - [Cerulean Prideclaw](/de/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/de/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/de/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/de/guides/mounts/rivendares-deathcharger/)
+- [Spectral Wolf Pack](/de/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/de/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/de/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/de/guides/mounts/verdant-sea-turtle/)
 
 Jedes Reittier von WoW Forever, mit seiner Herkunft, steht im [Reittier-Guide](/de/guides/mounts/).

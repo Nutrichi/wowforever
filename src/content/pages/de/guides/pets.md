@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie viele Haustiere gibt es in WoW Forever?"
-    a: "Die Dateien der Beta enthalten 90 Haustiere: 32 neue und 58 aus Classic."
+    a: "Die Spieldateien enthalten 96 Haustiere: 38 neue und 58 aus Classic."
   - q: "Sind Haustiere in WoW Forever accountweit?"
     a: "Die Spieldaten führen jedes Haustier als accountweit, und der Gegenstand bringt dir das Haustier bei, statt es aus den Taschen herbeizurufen. Blizzard hat den Teil mit dem Account nicht bestätigt."
   - q: "Welche Haustiere sind neu in WoW Forever?"
@@ -17,11 +17,11 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/items/miscellaneous/companions"
 ---
-World of Warcraft: Forever hat 90 Haustiere in seinen Dateien: 32 neue und 58 aus Classic. Dieser Guide listet alle mit ihrer Herkunft auf, und jedes Haustier hat eine eigene Seite mit dem Gegenstand, der Quelle und den Änderungen.
+World of Warcraft: Forever hat 96 Haustiere in seinen Dateien: 38 neue und 58 aus Classic. Dieser Guide listet alle mit ihrer Herkunft auf, und jedes Haustier hat eine eigene Seite mit dem Gegenstand, der Quelle und den Änderungen.
 
 In WoW Forever lernst du ein Haustier: Der Gegenstand bringt es dir bei, und es wird zu einem Zauber, belegt also keinen Platz mehr in den Taschen. Das Herbeirufen ist sofort, mit einer Abklingzeit von 1,5 Sekunden.
 
-Die Liste stammt aus der Datenbank der Beta. Bei Haustieren mit dem Vermerk noch nicht bekannt steckt das Haustier in den Dateien, aber die Beta zeigt nicht, woher es kommt; diese Zeilen werden aktualisiert, sobald sich das ändert.
+Die Liste stammt aus den Spieldateien und der Gegenstandsdatenbank von WoW Forever. Bei Haustieren mit dem Vermerk noch nicht bekannt steckt das Haustier in den Dateien, aber woher es kommt, ist noch nicht bekannt; diese Zeilen werden aktualisiert, sobald sich das ändert.
 
 ## Neu in WoW Forever
 
@@ -29,24 +29,29 @@ Die Liste stammt aus der Datenbank der Beta. Bei Haustieren mit dem Vermerk noch
 |---|---|---|
 | [Arctic Hare](/de/guides/pets/arctic-hare/ "wh:item=280797:q1:inv_crate_02") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a>, 21 Silber 5 Kupfer | Dun Morogh |
 | [Azure Whelpling](/de/guides/pets/azure-whelpling/ "wh:item=268503:q1:inv_misc_head_dragon_blue") | Noch nicht bekannt |  |
+| [Azurky](/de/guides/pets/azurky/ "wh:item=285354:q4:inv_pet_babymurlocs_blue") | Noch nicht bekannt |  |
 | [Baby Crocolisk](/de/guides/pets/baby-crocolisk/ "wh:item=282047:q2:inv_pet_babycrocodile_toothy") | Beute: Sewer Beast | Stormwind City |
 | [Bitter Baitling](/de/guides/pets/bitter-baitling/ "wh:item=276275:q3:ability_hunter_pet_worm") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=15078">Jang</a>, 1 Extravagant Extravaganza Coin | Stranglethorn Vale |
+| [Blossoming Ancient](/de/guides/pets/blossoming-ancient/ "wh:item=98550:q3:874857") | Noch nicht bekannt |  |
 | [Bronze Whelpling](/de/guides/pets/bronze-whelpling/ "wh:item=268502:q1:inv_misc_head_dragon_bronze") | Noch nicht bekannt |  |
 | [Brown Ground Squirrel](/de/guides/pets/brown-ground-squirrel/ "wh:item=280794:q1:ability_hunter_beastcall") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a>, 52 Silber 63 Kupfer | Thunder Bluff |
 | [Brown Rabbit](/de/guides/pets/brown-rabbit/ "wh:item=280801:q1:inv_crate_02") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a>, 21 Silber 5 Kupfer | Dun Morogh |
-| [Condor Hatchling](/de/guides/pets/condor-hatchling/ "wh:item=282637:q2:inv_egg_03") | Noch nicht bekannt |  |
+| [Condor Hatchling](/de/guides/pets/condor-hatchling/ "wh:item=282637:q2:inv_egg_03") | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> | Loch Modan |
 | [Eagle Owl](/de/guides/pets/eagle-owl/ "wh:item=280803:q1:ability_eyeoftheowl") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a>, 52 Silber 63 Kupfer | Darnassus |
 | [Excitable Slime](/de/guides/pets/excitable-slime/ "wh:item=275682:q1:inv_maldraxxusslime") | Quest: WRIGGLE. | Undercity |
 | [Festival Lantern](/de/guides/pets/festival-lantern/ "wh:item=74611:q2:achievement_worldevent_lunar") | Noch nicht bekannt |  |
 | [Flowery Lashling](/de/guides/pets/flowery-lashling/ "wh:item=249897:q1:inv_10_herb_seed_magiccolor4") | Schwarzmarkt: Madam Swyndle | The Riverglades |
+| [Frosty Lashling](/de/guides/pets/frosty-lashling/ "wh:item=249895:q1:inv_10_herb_seed_magiccolor1") | Noch nicht bekannt |  |
 | [Galestrider Chick](/de/guides/pets/galestrider-chick/ "wh:item=280615:q1:inv_pet_babycrane") | Noch nicht bekannt |  |
+| [Gill'el](/de/guides/pets/gillel/ "wh:item=229368:q3:5834819") | Noch nicht bekannt |  |
 | [Jungle Boa](/de/guides/pets/jungle-boa/ "wh:item=280703:q1:spell_nature_guardianward") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a>, 52 Silber 63 Kupfer | Orgrimmar |
 | [Lunar Lantern](/de/guides/pets/lunar-lantern/ "wh:item=74610:q2:achievement_worldevent_lunar") | Noch nicht bekannt |  |
 | [Minfernal](/de/guides/pets/minfernal/ "wh:item=284214:q3:spell_shadow_summoninfernal") | Noch nicht bekannt |  |
 | [Mini Uber Diablo](/de/guides/pets/mini-uber-diablo/ "wh:item=268879:q1:inv_diablostone") | Noch nicht bekannt |  |
 | [Minimule](/de/guides/pets/minimule/ "wh:item=284664:q2:inv_misc_food_54") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a>, 1.500 Merchant's Favor | Redridge Mountains und The Barrens |
 | [Musical Gustjumper](/de/guides/pets/musical-gustjumper/ "wh:item=268109:q1:inv_frog2_blue") | In der Welt: ein Frosch, der zurücksingt | Zephras Isle |
-| [Pachimari](/de/guides/pets/pachimari/ "wh:item=280614:q4:inv_pachimarapet") | Edition: Skyborne Epic Pack, Warcraft Forever Collection |  |
+| [Pachimari](/de/guides/pets/pachimari/ "wh:item=280614:q3:inv_pachimarapet") | Edition: Skyborne Epic Pack, Warcraft Forever Collection |  |
+| [Pinky](/de/guides/pets/pinky/ "wh:item=275818:q4:7889090") | Noch nicht bekannt |  |
 | [Plagued Cockroach](/de/guides/pets/plagued-cockroach/ "wh:item=280697:q1:spell_shadow_carrionswarm") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 Silber 63 Kupfer | Undercity |
 | [Prairie Wolf Pup](/de/guides/pets/prairie-wolf-pup/ "wh:item=277508:q1:inv_box_petcarrier_01") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268745">Mayhoa Skyhoof</a>, 63 Silber 15 Kupfer | Orgrimmar |
 | [Red Ground Squirrel](/de/guides/pets/red-ground-squirrel/ "wh:item=280795:q1:ability_hunter_beastcall") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a>, 52 Silber 63 Kupfer | Thunder Bluff |
@@ -56,7 +61,8 @@ Die Liste stammt aus der Datenbank der Beta. Bei Haustieren mit dem Vermerk noch
 | [Spectral Bear Cub](/de/guides/pets/spectral-bear-cub/ "wh:item=277714:q3:inv_pet_babyblizzardbear") | Legacy-Belohnung: 25 Punkte |  |
 | [Tallstrider Hatchling](/de/guides/pets/tallstrider-hatchling/ "wh:item=284176:q2:ability_hunter_pet_tallstrider") | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> | Darkshore |
 | [Undercity Cockroach](/de/guides/pets/undercity-cockroach/ "wh:item=280699:q1:spell_shadow_carrionswarm") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 Silber 63 Kupfer | Undercity |
-| [Weevil K. Neevil](/de/guides/pets/weevil-k-neevil/ "wh:item=280456:q1:inv_inscription_pigment_bug04") | Noch nicht bekannt |  |
+| [Viridian Lashling](/de/guides/pets/viridian-lashling/ "wh:item=249896:q1:inv_10_herb_seed_magiccolor2") | Noch nicht bekannt |  |
+| [Weevil K. Neevil](/de/guides/pets/weevil-k-neevil/ "wh:item=280456:q1:inv_inscription_pigment_bug04") | Quest: <a href="https://www.wowhead.com/forever/quest=93176">My Little Friends</a> |  |
 | [Wild Chicken](/de/guides/pets/wild-chicken/ "wh:item=274956:q1:inv_egg_02") | Noch nicht bekannt |  |
 | [Wilted Lashling](/de/guides/pets/wilted-lashling/ "wh:item=249898:q1:inv_10_herb_seed_magiccolor3") | Schwarzmarkt: Madam Swyndle | The Riverglades |
 
@@ -100,8 +106,8 @@ Die Liste stammt aus der Datenbank der Beta. Bei Haustieren mit dem Vermerk noch
 | [Orange Tabby](/de/guides/pets/orange-tabby/ "wh:item=8487:q1:inv_box_petcarrier_01") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6367">Donni Anthania</a>, 42 Silber 10 Kupfer | Elwynn Forest |
 | [Panda Cub](/de/guides/pets/panda-cub/ "wh:item=281166:q3:inv_pandacub_c60_black") | Edition: Skyborne Epic Pack, Warcraft Forever Collection |  |
 | [Peddlefeet](/de/guides/pets/peddlefeet/ "wh:item=22235:q1:inv_ammo_arrow_02") | Noch nicht bekannt |  |
-| [Pet Fish](/de/guides/pets/pet-fish/ "wh:item=13342:q1:inv_misc_fish_03") | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> | The Hinterlands |
-| [Pet Stone](/de/guides/pets/pet-stone/ "wh:item=13343:q1:inv_stone_14") | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (und 1 weitere) | Feralas |
+| [Pet Fish](/de/guides/pets/pet-fish/ "wh:item=13342:q1:inv_misc_fish_03") | Noch nicht bekannt |  |
+| [Pet Stone](/de/guides/pets/pet-stone/ "wh:item=13343:q1:inv_stone_14") | Noch nicht bekannt |  |
 | [Poley](/de/guides/pets/poley/ "wh:item=22781:q1:inv_belt_09") | Quest: <a href="https://www.wowhead.com/forever/quest=9273">Redeem iCoke Prize Voucher</a> |  |
 | [Prairie Chicken](/de/guides/pets/prairie-chicken/ "wh:item=11110:q1:inv_egg_02") | In der Welt: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=161513">Farm Chicken Egg</a> | Westfall |
 | [Senegal](/de/guides/pets/senegal/ "wh:item=8495:q1:spell_nature_forceofnature") | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2663">Narkk</a>, 40 Silber | Stranglethorn Vale |

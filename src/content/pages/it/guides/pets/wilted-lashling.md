@@ -15,7 +15,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=249898"
 ---
-Wilted Lashling è una mascotte da compagnia nuova in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=249898"><img class="wf-wh__icon" src="/wh/inv_10_herb_seed_magiccolor3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wilted Lashling Bud</a> la evoca ancora come in Classic, secondo la descrizione della beta.
+Wilted Lashling è una mascotte da compagnia nuova in World of Warcraft: Forever. La impari con <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=249898"><img class="wf-wh__icon" src="/wh/inv_10_herb_seed_magiccolor3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wilted Lashling Bud</a>.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_10_herb_seed_magiccolor3.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=249898">Wilted Lashling Bud</a><span class="wf-item__line wf-item__meta">Item Level 50</span><span class="wf-item__line">Binds when used</span><span class="wf-item__line wf-item__use">Use: Right Click to summon and dismiss a lashling.</span></div></div>

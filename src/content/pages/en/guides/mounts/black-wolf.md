@@ -1,13 +1,13 @@
 ---
 title: "Black Wolf: how to get the mount in WoW Forever"
 metaTitle: "How to get the Black Wolf mount in WoW Forever"
-description: "Black Wolf is a mount from Classic that returns in World of Warcraft: Forever. Source: Not known yet."
+description: "Black Wolf is a mount from Classic that returns in World of Warcraft: Forever. Source: Quest: Your First Riding Wolf."
 short: "Black Wolf"
 updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Black Wolf in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it. Riding it needs Wolf Riding."
+    a: "It is the reward of the quest Your First Riding Wolf, from level 40, for the Horde. Riding it needs Wolf Riding."
   - q: "Is Black Wolf new in WoW Forever?"
     a: "No. Black Wolf was already in Classic and returns in WoW Forever."
 sources:
@@ -26,16 +26,16 @@ Black Wolf is a mount from Classic that returns in World of Warcraft: Forever. I
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1041"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Black Wolf</a> |
-| Source | Not known yet |
+| Source | Quest: <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a> |
 | Level | 40 |
 | Riding | Wolf Riding |
 | Speed | normal |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
-The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+It is the reward of the quest <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, from level 40, for the Horde.
 
 Riding it needs Wolf Riding.
 
@@ -43,7 +43,7 @@ The game hides this mount in the mount collection until a character has learned 
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts with Wolf Riding
 

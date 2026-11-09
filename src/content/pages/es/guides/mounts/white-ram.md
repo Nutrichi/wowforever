@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue White Ram en WoW Forever?"
-    a: "Veron Amberstill la vende en Dun Morogh por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza. Montarla requiere Ram Riding."
+    a: "Veron Amberstill la vende en Dun Morogh por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Riding Ram, desde el nivel 40 para la Alianza, te deja elegir esta."
   - q: "¿Es White Ram nueva en WoW Forever?"
     a: "No. White Ram ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -34,17 +34,19 @@ White Ram es una montura de Classic que vuelve en World of Warcraft: Forever. Es
 | Equitación | Ram Riding |
 | Velocidad | normal |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vende en Dun Morogh por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza.
 
+Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, desde el nivel 40 para la Alianza, te deja elegir esta.
+
 Montarla requiere Ram Riding.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas de Veron Amberstill
 

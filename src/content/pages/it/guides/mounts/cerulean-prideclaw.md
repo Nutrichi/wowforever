@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Cerulean Prideclaw in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno. Cavalcarla richiede Journeyman Riding."
+    a: "I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno. Cavalcarla richiede Journeyman Riding."
   - q: "Cerulean Prideclaw è nuova in WoW Forever?"
     a: "Sì. Cerulean Prideclaw è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -32,11 +32,11 @@ Cerulean Prideclaw è una cavalcatura nuova in World of Warcraft: Forever. È un
 | Cavalcare | Journeyman Riding |
 | Velocità | normale |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno.
 
 Cavalcarla richiede Journeyman Riding.
 
@@ -44,10 +44,13 @@ Il gioco nasconde questa cavalcatura nella collezione finché un personaggio non
 
 ## Altre cavalcature con Journeyman Riding
 
+- [Crimson Rooster](/it/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/it/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/it/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/it/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/it/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/it/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/it/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/it/guides/mounts/verdant-sea-turtle/)
 
 Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

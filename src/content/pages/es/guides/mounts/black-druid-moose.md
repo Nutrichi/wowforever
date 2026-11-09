@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Black Druid Moose en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. El juego oculta esta montura en la colección hasta que un personaje la ha aprendido."
+    a: "Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren. El juego oculta esta montura en la colección hasta que un personaje la ha aprendido."
   - q: "¿Es Black Druid Moose nueva en WoW Forever?"
     a: "Sí. Black Druid Moose es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -27,7 +27,7 @@ Black Druid Moose es una montura nueva en World of Warcraft: Forever.
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 El juego oculta esta montura en la colección hasta que un personaje la ha aprendido.
 

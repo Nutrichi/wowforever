@@ -31,8 +31,9 @@ Frostwolf Howler is a mount from Classic that returns in World of Warcraft: Fore
 | Price | 800 gold |
 | Level | 60 |
 | Speed | very fast |
+| Requires | Frostwolf Clan (Exalted) |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
@@ -40,8 +41,10 @@ Frostwolf Howler is a mount from Classic that returns in World of Warcraft: Fore
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13219">Jekyll Flandring</a> sells it in Alterac Mountains for 800 gold.
 
+Buying or using it needs Exalted with Frostwolf Clan.
+
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 Every mount of WoW Forever, with where it comes from, is in the [mount guide](/guides/mounts/).

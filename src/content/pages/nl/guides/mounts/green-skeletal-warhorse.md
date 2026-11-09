@@ -34,7 +34,7 @@ Green Skeletal Warhorse is een mount uit Classic die terugkomt in World of Warcr
 | Rijden | Undead Horsemanship |
 | Snelheid | zeer snel |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
@@ -44,7 +44,7 @@ Rijden vraagt Undead Horsemanship.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts van Zachariah Post
 

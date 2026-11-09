@@ -60,4 +60,4 @@ Step 4 crosses Alliance ground. Horde players making the trip at 14 should expec
 
 ## One thing to know before you start
 
-On the beta the quests in this chain are visibly marked in the world. Whether that is intended or a beta setting, Blizzard has not said. Players who would rather find the trail themselves may want to wait until launch.
+On the beta the quests in this chain were visibly marked in the world. Whether that is the same in the live game, is not known. Players who would rather find the trail themselves may want to wait until launch.

@@ -1,14 +1,14 @@
 ---
 title: "Pet Fish: cómo conseguir la mascota en WoW Forever"
 metaTitle: "Cómo conseguir Pet Fish en WoW Forever"
-description: "Pet Fish es una mascota de compañía de Classic que vuelve en World of Warcraft: Forever. La suelta Dreamwater Vicejaw en The Hinterlands."
+description: "Pet Fish es una mascota de compañía de Classic que vuelve en World of Warcraft: Forever."
 short: "Pet Fish"
 updated: 2026-09-30
 lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Pet Fish en WoW Forever?"
-    a: "La suelta Dreamwater Vicejaw en The Hinterlands. En los datos de botín cae en cerca del 0,1% de las muertes."
+    a: "Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren."
   - q: "¿Es Pet Fish nueva en WoW Forever?"
     a: "No. Pet Fish ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -26,15 +26,13 @@ Pet Fish es una mascota de compañía de Classic que vuelve en World of Warcraft
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13342"><img class="wf-wh__icon" src="/wh/inv_misc_fish_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Fish</a> |
-| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> |
-| Dónde | The Hinterlands |
-| Probabilidad | 0,1% |
+| Origen | Aún no se sabe |
 | Nueva en Forever | no, de Classic |
 | Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-La suelta <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> en The Hinterlands. En los datos de botín cae en cerca del 0,1% de las muertes.
+Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 ## Qué cambió desde Classic
 
@@ -44,13 +42,13 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 
 ## Más mascotas del mismo origen
 
-- [Baby Crocolisk](/es/guides/pets/baby-crocolisk/)
-- [Black Tabby](/es/guides/pets/black-tabby/)
-- [Crimson Whelpling](/es/guides/pets/crimson-whelpling/)
-- [Dark Whelpling](/es/guides/pets/dark-whelpling/)
-- [Emerald Whelpling](/es/guides/pets/emerald-whelpling/)
-- [Green Wing Macaw](/es/guides/pets/green-wing-macaw/)
-- [Hyacinth Macaw](/es/guides/pets/hyacinth-macaw/)
-- [Pet Stone](/es/guides/pets/pet-stone/)
+- [Albino Snapjaw](/es/guides/pets/albino-snapjaw/)
+- [Azure Whelpling](/es/guides/pets/azure-whelpling/)
+- [Azurky](/es/guides/pets/azurky/)
+- [Baby Shark](/es/guides/pets/baby-shark/)
+- [Blossoming Ancient](/es/guides/pets/blossoming-ancient/)
+- [Bronze Whelpling](/es/guides/pets/bronze-whelpling/)
+- [Corrupted Kitten](/es/guides/pets/corrupted-kitten/)
+- [Disgusting Oozeling](/es/guides/pets/disgusting-oozeling/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

@@ -213,7 +213,7 @@ Au niveau 20, une suite de quêtes de classe vous apprend les Poisons.
 | 4 | <a href="https://www.wowhead.com/forever/quest=2608">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2479">Hinott's Assistance</a> |
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
-D'autres quêtes de classe avec des objets en récompense sont attendues au-delà du niveau 30, que la bêta n'atteignait pas.
+On ne sait pas encore si d'autres quêtes de classe avec des objets en récompense arrivent au-delà du niveau 30.
 
 Chaque étape des deux suites, avec le point faible de chaque monstre coriace, se trouve dans le [guide des Poisons](/fr/guides/poisons/).
 

@@ -14,7 +14,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=268879"
 ---
-Mini Uber Diablo is a companion pet that is new in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268879"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Uber Diablo Stone</a> still summons it the way it did in Classic, according to the tooltip on the beta.
+Mini Uber Diablo is a companion pet that is new in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268879"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Uber Diablo Stone</a> still summons it the way it did in Classic, according to the tooltip.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_diablostone.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=268879">Uber Diablo Stone</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss Diablo.</span></div></div>
@@ -41,11 +41,11 @@ The game data marks the pet as account-wide: learned once, it would be there for
 
 - [Albino Snapjaw](/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/guides/pets/azure-whelpling/)
+- [Azurky](/guides/pets/azurky/)
 - [Baby Shark](/guides/pets/baby-shark/)
+- [Blossoming Ancient](/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/guides/pets/father-winters-helper/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

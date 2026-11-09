@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Albino Snapjaw in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Launch es zeigt."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden."
   - q: "Ist Albino Snapjaw neu in WoW Forever?"
     a: "Nein. Albino Snapjaw gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -32,7 +32,7 @@ Albino Snapjaw ist ein Haustier aus Classic, das in World of Warcraft: Forever z
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Launch es zeigt.
+Die Spieldateien von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 ## Was sich seit Classic geändert hat
 
@@ -43,12 +43,12 @@ Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es f�
 ## Mehr Haustiere aus derselben Quelle
 
 - [Azure Whelpling](/de/guides/pets/azure-whelpling/)
+- [Azurky](/de/guides/pets/azurky/)
 - [Baby Shark](/de/guides/pets/baby-shark/)
+- [Blossoming Ancient](/de/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/de/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/de/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/de/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/de/guides/pets/disgusting-oozeling/)
 - [Father Winter's Helper](/de/guides/pets/father-winters-helper/)
-- [Festival Lantern](/de/guides/pets/festival-lantern/)
 
 Jedes Haustier von WoW Forever, mit seiner Herkunft, steht im [Haustier-Guide](/de/guides/pets/).

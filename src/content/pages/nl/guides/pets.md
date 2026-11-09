@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoeveel pets zitten er in WoW Forever?"
-    a: "In de bestanden van de beta zitten 90 companion pets: 32 nieuwe en 58 uit Classic."
+    a: "In de spelbestanden zitten 96 companion pets: 38 nieuwe en 58 uit Classic."
   - q: "Gelden pets voor het hele account in WoW Forever?"
     a: "De spelgegevens markeren elke pet als geldig voor het hele account, en het item leert je de pet aan in plaats van hem uit je tassen op te roepen. Blizzard heeft het deel over het account zelf niet bevestigd."
   - q: "Welke pets zijn nieuw in WoW Forever?"
@@ -17,11 +17,11 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/items/miscellaneous/companions"
 ---
-World of Warcraft: Forever heeft 90 companion pets in zijn bestanden: 32 nieuwe en 58 uit Classic. Deze gids zet ze allemaal op een rij met waar ze vandaan komen, en elke pet heeft een eigen pagina met het item, de bron en wat er veranderde.
+World of Warcraft: Forever heeft 96 companion pets in zijn bestanden: 38 nieuwe en 58 uit Classic. Deze gids zet ze allemaal op een rij met waar ze vandaan komen, en elke pet heeft een eigen pagina met het item, de bron en wat er veranderde.
 
 In WoW Forever leer je een pet: het item leert hem je aan en de pet wordt een spell, dus hij neemt geen plaats meer in je tassen. Oproepen gaat meteen, met een cooldown van 1,5 seconden.
 
-De lijst komt uit de database van de beta. Bij pets die als nog niet bekend staan, zit de pet in de bestanden maar toont de beta niet waar hij vandaan komt; die rijen worden bijgewerkt zodra dat verandert.
+De lijst komt uit de spelbestanden en de itemdatabase van WoW Forever. Bij pets die als nog niet bekend staan, zit de pet in de bestanden maar is nog niet bekend waar hij vandaan komt; die rijen worden bijgewerkt zodra dat verandert.
 
 ## Nieuw in WoW Forever
 
@@ -29,24 +29,29 @@ De lijst komt uit de database van de beta. Bij pets die als nog niet bekend staa
 |---|---|---|
 | [Arctic Hare](/nl/guides/pets/arctic-hare/ "wh:item=280797:q1:inv_crate_02") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a>, 21 zilver en 5 koper | Dun Morogh |
 | [Azure Whelpling](/nl/guides/pets/azure-whelpling/ "wh:item=268503:q1:inv_misc_head_dragon_blue") | Nog niet bekend |  |
+| [Azurky](/nl/guides/pets/azurky/ "wh:item=285354:q4:inv_pet_babymurlocs_blue") | Nog niet bekend |  |
 | [Baby Crocolisk](/nl/guides/pets/baby-crocolisk/ "wh:item=282047:q2:inv_pet_babycrocodile_toothy") | Drop: Sewer Beast | Stormwind City |
 | [Bitter Baitling](/nl/guides/pets/bitter-baitling/ "wh:item=276275:q3:ability_hunter_pet_worm") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=15078">Jang</a>, 1 Extravagant Extravaganza Coin | Stranglethorn Vale |
+| [Blossoming Ancient](/nl/guides/pets/blossoming-ancient/ "wh:item=98550:q3:874857") | Nog niet bekend |  |
 | [Bronze Whelpling](/nl/guides/pets/bronze-whelpling/ "wh:item=268502:q1:inv_misc_head_dragon_bronze") | Nog niet bekend |  |
 | [Brown Ground Squirrel](/nl/guides/pets/brown-ground-squirrel/ "wh:item=280794:q1:ability_hunter_beastcall") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a>, 52 zilver en 63 koper | Thunder Bluff |
 | [Brown Rabbit](/nl/guides/pets/brown-rabbit/ "wh:item=280801:q1:inv_crate_02") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a>, 21 zilver en 5 koper | Dun Morogh |
-| [Condor Hatchling](/nl/guides/pets/condor-hatchling/ "wh:item=282637:q2:inv_egg_03") | Nog niet bekend |  |
+| [Condor Hatchling](/nl/guides/pets/condor-hatchling/ "wh:item=282637:q2:inv_egg_03") | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> | Loch Modan |
 | [Eagle Owl](/nl/guides/pets/eagle-owl/ "wh:item=280803:q1:ability_eyeoftheowl") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a>, 52 zilver en 63 koper | Darnassus |
 | [Excitable Slime](/nl/guides/pets/excitable-slime/ "wh:item=275682:q1:inv_maldraxxusslime") | Quest: WRIGGLE. | Undercity |
 | [Festival Lantern](/nl/guides/pets/festival-lantern/ "wh:item=74611:q2:achievement_worldevent_lunar") | Nog niet bekend |  |
 | [Flowery Lashling](/nl/guides/pets/flowery-lashling/ "wh:item=249897:q1:inv_10_herb_seed_magiccolor4") | Black Market: Madam Swyndle | The Riverglades |
+| [Frosty Lashling](/nl/guides/pets/frosty-lashling/ "wh:item=249895:q1:inv_10_herb_seed_magiccolor1") | Nog niet bekend |  |
 | [Galestrider Chick](/nl/guides/pets/galestrider-chick/ "wh:item=280615:q1:inv_pet_babycrane") | Nog niet bekend |  |
+| [Gill'el](/nl/guides/pets/gillel/ "wh:item=229368:q3:5834819") | Nog niet bekend |  |
 | [Jungle Boa](/nl/guides/pets/jungle-boa/ "wh:item=280703:q1:spell_nature_guardianward") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a>, 52 zilver en 63 koper | Orgrimmar |
 | [Lunar Lantern](/nl/guides/pets/lunar-lantern/ "wh:item=74610:q2:achievement_worldevent_lunar") | Nog niet bekend |  |
 | [Minfernal](/nl/guides/pets/minfernal/ "wh:item=284214:q3:spell_shadow_summoninfernal") | Nog niet bekend |  |
 | [Mini Uber Diablo](/nl/guides/pets/mini-uber-diablo/ "wh:item=268879:q1:inv_diablostone") | Nog niet bekend |  |
 | [Minimule](/nl/guides/pets/minimule/ "wh:item=284664:q2:inv_misc_food_54") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a>, 1.500 Merchant's Favor | Redridge Mountains en The Barrens |
 | [Musical Gustjumper](/nl/guides/pets/musical-gustjumper/ "wh:item=268109:q1:inv_frog2_blue") | In de wereld: een kikker die terugzingt | Zephras Isle |
-| [Pachimari](/nl/guides/pets/pachimari/ "wh:item=280614:q4:inv_pachimarapet") | Editie: Skyborne Epic Pack, Warcraft Forever Collection |  |
+| [Pachimari](/nl/guides/pets/pachimari/ "wh:item=280614:q3:inv_pachimarapet") | Editie: Skyborne Epic Pack, Warcraft Forever Collection |  |
+| [Pinky](/nl/guides/pets/pinky/ "wh:item=275818:q4:7889090") | Nog niet bekend |  |
 | [Plagued Cockroach](/nl/guides/pets/plagued-cockroach/ "wh:item=280697:q1:spell_shadow_carrionswarm") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 zilver en 63 koper | Undercity |
 | [Prairie Wolf Pup](/nl/guides/pets/prairie-wolf-pup/ "wh:item=277508:q1:inv_box_petcarrier_01") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268745">Mayhoa Skyhoof</a>, 63 zilver en 15 koper | Orgrimmar |
 | [Red Ground Squirrel](/nl/guides/pets/red-ground-squirrel/ "wh:item=280795:q1:ability_hunter_beastcall") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a>, 52 zilver en 63 koper | Thunder Bluff |
@@ -56,7 +61,8 @@ De lijst komt uit de database van de beta. Bij pets die als nog niet bekend staa
 | [Spectral Bear Cub](/nl/guides/pets/spectral-bear-cub/ "wh:item=277714:q3:inv_pet_babyblizzardbear") | Legacy-beloning: 25 punten |  |
 | [Tallstrider Hatchling](/nl/guides/pets/tallstrider-hatchling/ "wh:item=284176:q2:ability_hunter_pet_tallstrider") | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> | Darkshore |
 | [Undercity Cockroach](/nl/guides/pets/undercity-cockroach/ "wh:item=280699:q1:spell_shadow_carrionswarm") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 zilver en 63 koper | Undercity |
-| [Weevil K. Neevil](/nl/guides/pets/weevil-k-neevil/ "wh:item=280456:q1:inv_inscription_pigment_bug04") | Nog niet bekend |  |
+| [Viridian Lashling](/nl/guides/pets/viridian-lashling/ "wh:item=249896:q1:inv_10_herb_seed_magiccolor2") | Nog niet bekend |  |
+| [Weevil K. Neevil](/nl/guides/pets/weevil-k-neevil/ "wh:item=280456:q1:inv_inscription_pigment_bug04") | Quest: <a href="https://www.wowhead.com/forever/quest=93176">My Little Friends</a> |  |
 | [Wild Chicken](/nl/guides/pets/wild-chicken/ "wh:item=274956:q1:inv_egg_02") | Nog niet bekend |  |
 | [Wilted Lashling](/nl/guides/pets/wilted-lashling/ "wh:item=249898:q1:inv_10_herb_seed_magiccolor3") | Black Market: Madam Swyndle | The Riverglades |
 
@@ -100,8 +106,8 @@ De lijst komt uit de database van de beta. Bij pets die als nog niet bekend staa
 | [Orange Tabby](/nl/guides/pets/orange-tabby/ "wh:item=8487:q1:inv_box_petcarrier_01") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6367">Donni Anthania</a>, 42 zilver en 10 koper | Elwynn Forest |
 | [Panda Cub](/nl/guides/pets/panda-cub/ "wh:item=281166:q3:inv_pandacub_c60_black") | Editie: Skyborne Epic Pack, Warcraft Forever Collection |  |
 | [Peddlefeet](/nl/guides/pets/peddlefeet/ "wh:item=22235:q1:inv_ammo_arrow_02") | Nog niet bekend |  |
-| [Pet Fish](/nl/guides/pets/pet-fish/ "wh:item=13342:q1:inv_misc_fish_03") | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> | The Hinterlands |
-| [Pet Stone](/nl/guides/pets/pet-stone/ "wh:item=13343:q1:inv_stone_14") | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (en nog 1) | Feralas |
+| [Pet Fish](/nl/guides/pets/pet-fish/ "wh:item=13342:q1:inv_misc_fish_03") | Nog niet bekend |  |
+| [Pet Stone](/nl/guides/pets/pet-stone/ "wh:item=13343:q1:inv_stone_14") | Nog niet bekend |  |
 | [Poley](/nl/guides/pets/poley/ "wh:item=22781:q1:inv_belt_09") | Quest: <a href="https://www.wowhead.com/forever/quest=9273">Redeem iCoke Prize Voucher</a> |  |
 | [Prairie Chicken](/nl/guides/pets/prairie-chicken/ "wh:item=11110:q1:inv_egg_02") | In de wereld: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=161513">Farm Chicken Egg</a> | Westfall |
 | [Senegal](/nl/guides/pets/senegal/ "wh:item=8495:q1:spell_nature_forceofnature") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2663">Narkk</a>, 40 zilver | Stranglethorn Vale |

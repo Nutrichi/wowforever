@@ -98,7 +98,7 @@ Le trash frappe moins fort que dans le Hall of Thanes, mais les packs sont proch
 
 ## Les six boss
 
-Tout ordre fonctionne. Chaque boss laisse des objets bleus ; trois par boss sont connus depuis la bêta.
+Tout ordre fonctionne. Chaque boss laisse des objets bleus ; trois par boss étaient connus depuis la bêta.
 
 ### Witherfang
 
@@ -118,7 +118,7 @@ Tankez-le dos à un mur. Il frappe aussi tout le monde au corps à corps autour 
 
 ### Viktor the Vile
 
-Le boss que la plupart des groupes manquent. Allumez la Kindled Flame dans la cheminée d’un bâtiment au sud-ouest de Lordamere Overlook, près du cimetière. Cinq vagues d’adds suivent avant l’arrivée de Viktor. Il frappe fort et a le même Leech Poison que Witherfang, donc laissez le tank prendre l’aggro d’abord. Sur la bêta, Viktor n’apparaît parfois pas.
+Le boss que la plupart des groupes manquent. Allumez la Kindled Flame dans la cheminée d’un bâtiment au sud-ouest de Lordamere Overlook, près du cimetière. Cinq vagues d’adds suivent avant l’arrivée de Viktor. Il frappe fort et a le même Leech Poison que Witherfang, donc laissez le tank prendre l’aggro d’abord. Sur la bêta, Viktor n’apparaissait parfois pas.
 
 Les vagues épuisent le groupe plus que Viktor lui-même, donc ne commencez qu’avec tout votre mana.
 
@@ -153,7 +153,7 @@ Un rare avec une petite chance d’apparaître à l’ouest du donjon. L’Allia
 ## Ce qu’on ne sait pas encore
 
 - Quel boss compte comme boss final. Le boss de niveau 20 n’a pas de place fixe dans l’ordre ; les parcours courants finissent par Rath'mael.
-- Si Viktor the Vile apparaît toujours à la sortie. Sur la bêta, ce n’est pas toujours le cas.
+- Si Viktor the Vile apparaît toujours. Sur la bêta, ce n’était pas toujours le cas.
 - Où tombe le reste du Rotmender's Raiment, et à quelle étape Unending Torment donne Slain Baron's Signet.
 - Combien d’expérience rapporte The Wrath of Rath'mael
 

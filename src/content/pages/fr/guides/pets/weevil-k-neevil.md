@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Weevil K. Neevil dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera."
+    a: "C'est la récompense de la quête My Little Friends, dès le niveau 25, pour les deux factions."
   - q: "Weevil K. Neevil est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Weevil K. Neevil est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -26,13 +26,13 @@ Weevil K. Neevil est une mascotte de compagnie nouvelle dans World of Warcraft: 
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280456"><img class="wf-wh__icon" src="/wh/inv_inscription_pigment_bug04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Weevil K. Neevil</a> |
-| Source | Pas encore connue |
+| Source | Quête: <a href="https://www.wowhead.com/forever/quest=93176">My Little Friends</a> |
 | Nouvelle dans Forever | oui |
 | Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+C'est la récompense de la quête <a href="https://www.wowhead.com/forever/quest=93176">My Little Friends</a>, dès le niveau 25, pour les deux factions.
 
 ## Bon à savoir
 
@@ -40,13 +40,11 @@ Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise
 
 ## Autres mascottes de même source
 
-- [Albino Snapjaw](/fr/guides/pets/albino-snapjaw/)
-- [Azure Whelpling](/fr/guides/pets/azure-whelpling/)
-- [Baby Shark](/fr/guides/pets/baby-shark/)
-- [Bronze Whelpling](/fr/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/fr/guides/pets/condor-hatchling/)
-- [Corrupted Kitten](/fr/guides/pets/corrupted-kitten/)
-- [Disgusting Oozeling](/fr/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/fr/guides/pets/father-winters-helper/)
+- [Excitable Slime](/fr/guides/pets/excitable-slime/)
+- [Mechanical Chicken](/fr/guides/pets/mechanical-chicken/)
+- [Poley](/fr/guides/pets/poley/)
+- [Spirit of Summer](/fr/guides/pets/spirit-of-summer/)
+- [Sprite Darter Hatchling](/fr/guides/pets/sprite-darter-hatchling/)
+- [Terky](/fr/guides/pets/terky/)
 
 Chaque mascotte de WoW Forever, avec son origine, figure dans le [guide des mascottes](/fr/guides/pets/).

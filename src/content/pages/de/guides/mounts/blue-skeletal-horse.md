@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Blue Skeletal Horse in WoW Forever?"
-    a: "Zachariah Post verkauft es in Tirisfal Glades für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Horde freundlich gesinnt. Zum Reiten braucht es Undead Horsemanship."
+    a: "Zachariah Post verkauft es in Tirisfal Glades für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest A Steed in Death as They Were in Life, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
   - q: "Ist Blue Skeletal Horse neu in WoW Forever?"
     a: "Nein. Blue Skeletal Horse gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -34,17 +34,19 @@ Blue Skeletal Horse ist ein Reittier aus Classic, das in World of Warcraft: Fore
 | Reiten | Undead Horsemanship |
 | Tempo | normal |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkauft es in Tirisfal Glades für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Horde freundlich gesinnt.
 
+Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, ab Stufe 40 für die Horde, lässt dich dieses auswählen.
+
 Zum Reiten braucht es Undead Horsemanship.
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere von Zachariah Post
 

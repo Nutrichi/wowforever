@@ -8,14 +8,14 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Tiny Green Dragon in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Launch es zeigt."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden."
   - q: "Ist Tiny Green Dragon neu in WoW Forever?"
     a: "Nein. Tiny Green Dragon gab es schon in Classic, und es kehrt in WoW Forever zur체ck."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=19055"
 ---
-Tiny Green Dragon ist ein Haustier aus Classic, das in World of Warcraft: Forever zur체ckkehrt. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=19055"><img class="wf-wh__icon" src="/wh/inv_misc_orb_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Green Dragon Orb</a> ruft es laut dem Tooltip in der Beta noch wie in Classic herbei.
+Tiny Green Dragon ist ein Haustier aus Classic, das in World of Warcraft: Forever zur체ckkehrt. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=19055"><img class="wf-wh__icon" src="/wh/inv_misc_orb_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Green Dragon Orb</a> ruft es laut dem Tooltip noch wie in Classic herbei.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_orb_01.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=19055">Green Dragon Orb</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss your tiny green dragon.</span></div></div>
@@ -32,7 +32,7 @@ Tiny Green Dragon ist ein Haustier aus Classic, das in World of Warcraft: Foreve
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Launch es zeigt.
+Die Spieldateien von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 ## Was sich seit Classic ge채ndert hat
 
@@ -42,11 +42,11 @@ Die Spieldaten f체hren das Haustier als accountweit: einmal gelernt, w채re es f�
 
 - [Albino Snapjaw](/de/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/de/guides/pets/azure-whelpling/)
+- [Azurky](/de/guides/pets/azurky/)
 - [Baby Shark](/de/guides/pets/baby-shark/)
+- [Blossoming Ancient](/de/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/de/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/de/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/de/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/de/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/de/guides/pets/father-winters-helper/)
 
 Jedes Haustier von WoW Forever, mit seiner Herkunft, steht im [Haustier-Guide](/de/guides/pets/).

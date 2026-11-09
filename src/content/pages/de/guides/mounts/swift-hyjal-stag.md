@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift Hyjal Stag in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden."
   - q: "Ist Swift Hyjal Stag neu in WoW Forever?"
     a: "Ja. Swift Hyjal Stag ist neu in WoW Forever und war nicht in Classic."
 sources:
@@ -27,6 +27,6 @@ Swift Hyjal Stag ist ein Reittier, das neu in World of Warcraft: Forever ist.
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 Jedes Reittier von WoW Forever, mit seiner Herkunft, steht im [Reittier-Guide](/de/guides/mounts/).

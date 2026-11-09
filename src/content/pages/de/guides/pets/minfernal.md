@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Minfernal in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Launch es zeigt."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden."
   - q: "Ist Minfernal neu in WoW Forever?"
     a: "Ja. Minfernal ist neu in WoW Forever und gab es in Classic nicht."
 sources:
@@ -32,9 +32,7 @@ Minfernal ist ein Haustier, das neu in World of Warcraft: Forever ist. Du lernst
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Launch es zeigt.
-
-Der Tooltip in der Beta sagt noch, dass es "your baby crocolisk" herbeiruft, Text von einem anderen Haustier, das Haustier ist also noch nicht fertig.
+Die Spieldateien von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 ## Gut zu wissen
 
@@ -44,11 +42,11 @@ Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es f�
 
 - [Albino Snapjaw](/de/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/de/guides/pets/azure-whelpling/)
+- [Azurky](/de/guides/pets/azurky/)
 - [Baby Shark](/de/guides/pets/baby-shark/)
+- [Blossoming Ancient](/de/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/de/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/de/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/de/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/de/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/de/guides/pets/father-winters-helper/)
 
 Jedes Haustier von WoW Forever, mit seiner Herkunft, steht im [Haustier-Guide](/de/guides/pets/).

@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Rivendare's Deathcharger in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it. Riding it needs Journeyman Riding."
+    a: "The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it. Riding it needs Journeyman Riding."
   - q: "Is Rivendare's Deathcharger new in WoW Forever?"
     a: "No. Rivendare's Deathcharger was already in Classic and returns in WoW Forever."
 sources:
@@ -31,24 +31,27 @@ Rivendare's Deathcharger is a mount from Classic that returns in World of Warcra
 | Riding | Journeyman Riding |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
-The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 Riding it needs Journeyman Riding.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts with Journeyman Riding
 
 - [Cerulean Prideclaw](/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/guides/mounts/pack-kodo/)
 - [Spectral Bear](/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/guides/mounts/verdant-sea-turtle/)
 
 Every mount of WoW Forever, with where it comes from, is in the [mount guide](/guides/mounts/).

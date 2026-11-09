@@ -33,7 +33,7 @@ Swift Empyrean Galestrider is a mount that is new in World of Warcraft: Forever.
 | Riding | Galestrider Riding |
 | Speed | very fast |
 | New in Forever | yes |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 

@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Empyrean Galestrider dans WoW Forever ?"
-    a: "Genn Fairweather la vend à Zephras Isle pour 20 po. La monter demande Galestrider Riding."
+    a: "Genn Fairweather la vend à Zephras Isle pour 20 po. Votre première monture est gratuite : la quête Your First Riding Galestrider, à partir du niveau 40 pour les deux factions, vous laisse choisir celle-ci."
   - q: "Empyrean Galestrider est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Empyrean Galestrider est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -34,11 +34,13 @@ Empyrean Galestrider est une monture nouvelle dans World of Warcraft: Forever. C
 | Monte | Galestrider Riding |
 | Vitesse | normale |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a> la vend à Zephras Isle pour 20 po.
+
+Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=96996">Your First Riding Galestrider</a>, à partir du niveau 40 pour les deux factions, vous laisse choisir celle-ci.
 
 La monter demande Galestrider Riding.
 

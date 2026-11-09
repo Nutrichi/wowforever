@@ -1,14 +1,14 @@
 ---
 title: "Condor Hatchling: cómo conseguir la mascota en WoW Forever"
 metaTitle: "Cómo conseguir Condor Hatchling en WoW Forever"
-description: "Condor Hatchling es una mascota de compañía nueva en World of Warcraft: Forever."
+description: "Condor Hatchling es una mascota de compañía nueva en World of Warcraft: Forever. La suelta Lord Condar en Loch Modan."
 short: "Condor Hatchling"
 updated: 2026-09-30
 lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Condor Hatchling en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren."
+    a: "La suelta Lord Condar en Loch Modan. En los datos de botín cae en cerca del 1,4% de las muertes."
   - q: "¿Es Condor Hatchling nueva en WoW Forever?"
     a: "Sí. Condor Hatchling es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -26,13 +26,15 @@ Condor Hatchling es una mascota de compañía nueva en World of Warcraft: Foreve
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282637"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shaking Egg</a> |
-| Origen | Aún no se sabe |
+| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> |
+| Dónde | Loch Modan |
+| Probabilidad | 1,4% |
 | Nueva en Forever | sí |
 | Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+La suelta <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> en Loch Modan. En los datos de botín cae en cerca del 1,4% de las muertes.
 
 ## Conviene saber
 
@@ -40,13 +42,13 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 
 ## Más mascotas del mismo origen
 
-- [Albino Snapjaw](/es/guides/pets/albino-snapjaw/)
-- [Azure Whelpling](/es/guides/pets/azure-whelpling/)
-- [Baby Shark](/es/guides/pets/baby-shark/)
-- [Bronze Whelpling](/es/guides/pets/bronze-whelpling/)
-- [Corrupted Kitten](/es/guides/pets/corrupted-kitten/)
-- [Disgusting Oozeling](/es/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/es/guides/pets/father-winters-helper/)
-- [Festival Lantern](/es/guides/pets/festival-lantern/)
+- [Baby Crocolisk](/es/guides/pets/baby-crocolisk/)
+- [Black Tabby](/es/guides/pets/black-tabby/)
+- [Crimson Whelpling](/es/guides/pets/crimson-whelpling/)
+- [Dark Whelpling](/es/guides/pets/dark-whelpling/)
+- [Emerald Whelpling](/es/guides/pets/emerald-whelpling/)
+- [Green Wing Macaw](/es/guides/pets/green-wing-macaw/)
+- [Hyacinth Macaw](/es/guides/pets/hyacinth-macaw/)
+- [Siamese](/es/guides/pets/siamese/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

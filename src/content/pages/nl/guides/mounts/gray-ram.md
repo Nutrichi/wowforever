@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Gray Ram in WoW Forever?"
-    a: "Veron Amberstill verkoopt hem in Dun Morogh voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance. Rijden vraagt Ram Riding."
+    a: "Veron Amberstill verkoopt hem in Dun Morogh voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Riding Ram, vanaf level 40 voor de Alliance, laat je deze kiezen."
   - q: "Is Gray Ram nieuw in WoW Forever?"
     a: "Nee. Gray Ram zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Gray Ram is een mount uit Classic die terugkomt in World of Warcraft: Forever. H
 | Rijden | Ram Riding |
 | Snelheid | normaal |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkoopt hem in Dun Morogh voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance.
 
+Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, vanaf level 40 voor de Alliance, laat je deze kiezen.
+
 Rijden vraagt Ram Riding.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts van Veron Amberstill
 

@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man White Mechanostrider in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Zum Reiten braucht es Mechanostrider Piloting."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden. Zum Reiten braucht es Mechanostrider Piloting."
   - q: "Ist White Mechanostrider neu in WoW Forever?"
     a: "Nein. White Mechanostrider gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -32,11 +32,11 @@ White Mechanostrider ist ein Reittier aus Classic, das in World of Warcraft: For
 | Reiten | Mechanostrider Piloting |
 | Tempo | sehr schnell |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 Zum Reiten braucht es Mechanostrider Piloting.
 
@@ -44,7 +44,7 @@ Das Spiel versteckt dieses Reittier in der Sammlung, bis ein Charakter es gelern
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere mit Mechanostrider Piloting
 

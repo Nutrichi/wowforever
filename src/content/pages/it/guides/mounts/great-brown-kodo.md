@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Great Brown Kodo in WoW Forever?"
-    a: "Harb Clawhoof la vende a Mulgore per 1052 d'oro e 63 d'argento e 15 di rame. Il mercante è amichevole con l'Orda. Cavalcarla richiede Kodo Riding."
+    a: "Harb Clawhoof la vende a Mulgore per 1052 d'oro e 63 d'argento e 15 di rame. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione New Kodo - Teal, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
   - q: "Great Brown Kodo è nuova in WoW Forever?"
     a: "No. Great Brown Kodo c'era già in Classic e torna in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Great Brown Kodo è una cavalcatura di Classic che torna in World of Warcraft: F
 | Cavalcare | Kodo Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende a Mulgore per 1052 d'oro e 63 d'argento e 15 di rame. Il mercante è amichevole con l'Orda.
 
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7662">New Kodo - Teal</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+
 Cavalcarla richiede Kodo Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature di Harb Clawhoof
 

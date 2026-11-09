@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Veteran Adventurer's Loyal Companion in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Rijden vraagt Apprentice Riding."
+    a: "De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden. Rijden vraagt Apprentice Riding."
   - q: "Is Veteran Adventurer's Loyal Companion nieuw in WoW Forever?"
     a: "Ja. Veteran Adventurer's Loyal Companion is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -32,11 +32,11 @@ Veteran Adventurer's Loyal Companion is een mount die nieuw is in World of Warcr
 | Rijden | Apprentice Riding |
 | Snelheid | normaal |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 Rijden vraagt Apprentice Riding.
 

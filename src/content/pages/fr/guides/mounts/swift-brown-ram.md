@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Swift Brown Ram dans WoW Forever ?"
-    a: "Veron Amberstill la vend à Dun Morogh pour 1000 po. Le marchand est amical envers l'Alliance. La monter demande Ram Riding."
+    a: "Veron Amberstill la vend à Dun Morogh pour 1000 po. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Frost Ram Exchange, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci."
   - q: "Swift Brown Ram est-elle nouvelle dans WoW Forever ?"
     a: "Non. Swift Brown Ram existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Brown Ram est une monture de Classic qui revient dans World of Warcraft: F
 | Monte | Ram Riding |
 | Vitesse | très rapide |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vend à Dun Morogh pour 1000 po. Le marchand est amical envers l'Alliance.
 
+Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7673">Frost Ram Exchange</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+
 La monter demande Ram Riding.
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 ## D'autres montures de Veron Amberstill
 

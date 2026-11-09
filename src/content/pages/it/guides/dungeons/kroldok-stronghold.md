@@ -20,4 +20,4 @@ dungeon:
   slug: "kroldok-stronghold"
   tab: "loot"
 ---
-Nessun bottino di Krol'dok Stronghold è ancora noto. Il dungeon apre sopra il livello 30, quindi non era nella beta. I dati di gioco hanno però un set di oggetti Krol'dok Battlegear, ma i pezzi e dove cadono non sono ancora noti. Questa pagina si riempirà quando i giocatori lo affronteranno dopo il lancio del 4 novembre.
+Nessun bottino di Krol'dok Stronghold è ancora noto. I dati di gioco hanno però un set di oggetti Krol'dok Battlegear, ma i pezzi e dove cadono non sono ancora noti. Questa pagina si riempirà man mano che i giocatori lo affrontano.

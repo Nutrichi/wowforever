@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Ochre Skeletal Warhorse dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. La monter demande Undead Horsemanship."
+    a: "Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront. La monter demande Undead Horsemanship."
   - q: "Ochre Skeletal Warhorse est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Ochre Skeletal Warhorse est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -32,11 +32,11 @@ Ochre Skeletal Warhorse est une monture nouvelle dans World of Warcraft: Forever
 | Monte | Undead Horsemanship |
 | Vitesse | très rapide |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 La monter demande Undead Horsemanship.
 

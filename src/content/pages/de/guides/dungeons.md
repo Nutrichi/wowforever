@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Welche Dungeons gibt es in WoW Forever?"
-    a: "Die Dungeons von Classic, von Ragefire Chasm bis Upper Blackrock Spire, plus neun neue. The Hall of Thanes, die Ruins of Lordaeron, die Excavation Site und die City of Dalaran sind in der Beta; die anderen fünf folgen auf höheren Levels."
+    a: "Die Dungeons von Classic, von Ragefire Chasm bis Upper Blackrock Spire, plus neun neue. Vier der neuen sind für Level unter 30, die anderen fünf für höhere Level."
   - q: "Was ist der erste Dungeon in WoW Forever?"
     a: "Ragefire Chasm für die Horde, mit Quests ab Level 9, und The Hall of Thanes für die Alliance, für Level 13 bis 18. Die Ruins of Lordaeron, für 15 bis 20, sind der erste neue Dungeon im Gebiet der Horde."
   - q: "Bringen Dungeonquests noch viel Erfahrung?"
@@ -19,7 +19,7 @@ sources:
 ---
 Dungeonquests sind der größte Gewinn eines Dungeonbesuchs in WoW Forever: Blizzard hat die Erfahrung für die Monster drinnen gesenkt und die für die Quests erhöht. Dieser Guide listet jeden Dungeon mit dem Level für den Einstieg, und jede Quest: wo sie beginnt, für welche Fraktion und was vorher nötig ist.
 
-Die Beta von WoW Forever geht seit dem 1. Oktober bis Level 30. Für die Dungeons darüber stammen die Quests aus den Daten von Classic und können sich noch ändern. Die Zeilen von The Hall of Thanes und den Ruins of Lordaeron sind mit den Questseiten der Beta abgeglichen.
+Für die Dungeons über Level 30 stammen die Quests aus den Daten von Classic und können sich in Forever noch ändern. Die Zeilen von The Hall of Thanes und den Ruins of Lordaeron wurden mit den Questseiten der Beta abgeglichen.
 
 ## Guides pro Dungeon
 
@@ -529,7 +529,7 @@ Mindestens ein Spieler braucht das Seal of Ascension für den Zutritt.
 
 ## Neue Dungeons ohne bekannte Quests
 
-Die Quests von sechs neuen Dungeons von Forever sind noch nicht bekannt. Die Excavation Site öffnete am 1. Oktober in der Beta; ihre Quests stehen in [ihrem eigenen Guide](/de/guides/dungeons/excavation-site-wetlands/). Die Level sind die von Blizzard.
+Die Quests von sechs neuen Dungeons von Forever sind noch nicht bekannt. Die Quests der Excavation Site stehen in [ihrem eigenen Guide](/de/guides/dungeons/excavation-site-wetlands/). Die Level sind die von Blizzard.
 
 | Dungeon | Level |
 |---|---|

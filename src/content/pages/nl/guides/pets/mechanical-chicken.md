@@ -47,5 +47,6 @@ De spelgegevens markeren de pet als geldig voor het hele account: een keer gelee
 - [Spirit of Summer](/nl/guides/pets/spirit-of-summer/)
 - [Sprite Darter Hatchling](/nl/guides/pets/sprite-darter-hatchling/)
 - [Terky](/nl/guides/pets/terky/)
+- [Weevil K. Neevil](/nl/guides/pets/weevil-k-neevil/)
 
 Elke pet van WoW Forever, met waar hij vandaan komt, staat in de [petgids](/nl/guides/pets/).

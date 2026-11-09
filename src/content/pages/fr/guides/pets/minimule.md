@@ -38,7 +38,7 @@ Minimule est une mascotte de compagnie nouvelle dans World of Warcraft: Forever.
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256389">Tamelyn Aldridge</a> la vend à Redridge Mountains pour 1.500 Merchant's Favor.
 
-Merchant's Favor est la monnaie des deux factions de ravitaillement de WoW Forever : l'[Azeroth Commerce Authority](/fr/reputations/azeroth-commerce-authority/) pour l'Alliance et [Durotar Supply and Logistics](/fr/reputations/durotar-supply-and-logistics/) pour la Horde. On la gagne en remplissant et en rendant des caisses de ravitaillement.
+Merchant's Favor est la monnaie des deux factions de ravitaillement de WoW Forever : l'[Azeroth Commerce Authority](/fr/reputations/azeroth-commerce-authority/) pour l'Alliance et [Durotar Supply and Logistics](/fr/reputations/durotar-supply-and-logistics/) pour la Horde. On la gagne en remplissant et en rendant des caisses de ravitaillement. Il faut être Revered auprès de cette faction pour acheter le Packmule Treat.
 
 ## Bon à savoir
 

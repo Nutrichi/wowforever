@@ -34,7 +34,7 @@ Swift White Steed es una montura de Classic que vuelve en World of Warcraft: For
 | Equitación | Horse Riding |
 | Velocidad | muy rápida |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
@@ -44,11 +44,13 @@ Swift White Steed es una montura de Classic que vuelve en World of Warcraft: For
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> la vende en Dustwallow Marsh por 1000 de oro. El vendedor es amistoso con la Alianza.
 
+Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+
 Montarla requiere Horse Riding.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas de Katie Hunter
 

@@ -16,7 +16,7 @@ faq:
   - q: "Verbraucht Wrath Clearcasting?"
     a: "Nein. Clearcasting von Omen of Clarity wird nicht von Wrath verbraucht, der freie Zauber geht also an einen teureren Zauber wie Starfire."
   - q: "Wann bekomme ich Moonkin Form?"
-    a: "Moonkin Form ist das letzte Talent des Balance-Baums und braucht Level 40, es war also nicht in der Beta. Es erhöht die kritische Trefferchance mit Zaubern deiner ganzen Gruppe um 3 % und verdoppelt die Chance auf Omen of Clarity."
+    a: "Moonkin Form ist das letzte Talent des Balance-Baums und braucht Level 40. Es erhöht die kritische Trefferchance mit Zaubern deiner ganzen Gruppe um 3 % und verdoppelt die Chance auf Omen of Clarity."
   - q: "Welches Volk ist das beste für einen Balance Druid?"
     a: "Night Elf für Elune's Light, einen Schub kritischer Trefferchance, oder Tauren für War Stomp und 5 % mehr Gesundheit. Die Skyborne bekommen auf beiden Seiten 2 % Haste. Die Unterschiede sind klein, nimm also das Volk, das dir gefällt."
   - q: "Gibt es schon einen Build für Level 60?"

@@ -33,7 +33,7 @@ Winterspring Frostsaber es una montura de Classic que vuelve en World of Warcraf
 | Nivel | 60 |
 | Velocidad | muy rápida |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
@@ -41,6 +41,6 @@ Winterspring Frostsaber es una montura de Classic que vuelve en World of Warcraf
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 Todas las monturas de WoW Forever, con su origen, están en la [guía de monturas](/es/guides/mounts/).

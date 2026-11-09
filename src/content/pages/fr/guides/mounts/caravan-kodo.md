@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Caravan Kodo dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera."
+    a: "Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront."
   - q: "Caravan Kodo est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Caravan Kodo est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -27,6 +27,6 @@ Caravan Kodo est une monture nouvelle dans World of Warcraft: Forever.
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 Chaque monture de WoW Forever, avec son origine, se trouve dans le [guide des montures](/fr/guides/mounts/).

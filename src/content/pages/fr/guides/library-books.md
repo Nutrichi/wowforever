@@ -14,7 +14,7 @@ faq:
   - q: "Quelles sont les récompenses des livres de bibliothèque ?"
     a: "À 10 livres un collier, à 20 livres un anneau dès le niveau 20, et à 25 livres un arc, un bouclier ou une main gauche dès le niveau 30, à porter au niveau 40."
   - q: "Peut-on ramasser à nouveau un livre de bibliothèque ?"
-    a: "Non. Un livre détruit ne peut pas être ramassé à nouveau, en l’état de la bêta."
+    a: "Non. Un livre détruit ne peut pas être ramassé à nouveau, en l’état de la bêta à l’époque."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/wow-forever-all-library-books-locations-and-rewards"
@@ -45,7 +45,7 @@ L’Alliance va à la Mage Tower du Mage Quarter de Stormwind, la Horde au Magic
 
 ![Le bibliothécaire Garion Wendell à Stormwind avec la fenêtre pour rendre un livre, une capture d'écran de la bêta de World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 
-**Attention :** un livre détruit ne peut pas être ramassé à nouveau, en l’état de la bêta.
+**Attention :** un livre détruit ne peut pas être ramassé à nouveau, en l’état de la bêta à l’époque.
 
 ## Eastern Kingdoms, niveau 1 à 20 (9 livres)
 
@@ -125,7 +125,7 @@ Secrets of the Dreamers se trouve dans la grotte de l’entrée de Wailing Caver
 | Desolace | Demons and You | 55.1 26.2 | Thunder Axe Fortress, le grand bâtiment de l’anneau intérieur |
 | Badlands | Mummies: A Guide to the Unsavory Undead | 56.7 39.7 | Crypte au-dessus du camp des deux nains, à côté de deux corps |
 
-Ces livres se trouvent dans des zones de niveau 30 à 45. Sur la bêta, qui s’arrête au niveau 30, certains sont près de monstres plus forts.
+Ces livres se trouvent dans des zones de niveau 30 à 45. Certains sont près de monstres plus forts.
 
 <div class="wf-shots">
 

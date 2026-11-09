@@ -47,5 +47,6 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 - [Spirit of Summer](/es/guides/pets/spirit-of-summer/)
 - [Sprite Darter Hatchling](/es/guides/pets/sprite-darter-hatchling/)
 - [Terky](/es/guides/pets/terky/)
+- [Weevil K. Neevil](/es/guides/pets/weevil-k-neevil/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

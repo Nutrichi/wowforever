@@ -32,8 +32,9 @@ Stormpike Battle Charger ist ein Reittier aus Classic, das in World of Warcraft:
 | Preis | 800 Gold |
 | Stufe | 60 |
 | Tempo | sehr schnell |
+| Voraussetzung | Stormpike Guard (Exalted) |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
@@ -41,8 +42,10 @@ Stormpike Battle Charger ist ein Reittier aus Classic, das in World of Warcraft:
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13217">Thanthaldis Snowgleam</a> verkauft es in Alterac Mountains für 800 Gold.
 
+Kauf oder Benutzung verlangt Exalted bei Stormpike Guard.
+
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 Jedes Reittier von WoW Forever, mit seiner Herkunft, steht im [Reittier-Guide](/de/guides/mounts/).

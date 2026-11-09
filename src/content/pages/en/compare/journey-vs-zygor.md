@@ -43,7 +43,7 @@ The free part already has Forever's new quests, the Skyborne start on Zephras Is
 
 ## What Zygor offers
 
-Zygor updates its 1 to 60 guides for the new zones, the Skyborne start and the new race and class combinations, and adds guides for the nine new dungeons. Its travel system and talent advisor get Forever updates too. Zygor warns that the beta's level cap limits what it can test, so the route may be partly updated at launch and completed afterwards.
+Zygor updates its 1 to 60 guides for the new zones, the Skyborne start and the new race and class combinations, and adds guides for the nine new dungeons. Its travel system and talent advisor get Forever updates too. Before the launch, Zygor warned that the beta's level cap limited what it could test, so the route could be partly updated at launch and completed afterwards.
 
 ## Which one fits whom
 

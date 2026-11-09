@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Blue Qiraji Battle Tank dans WoW Forever ?"
-    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont la meilleure chance sur la bêta :  Qiraji Champion à Ahn'Qiraj, environ 21 % Anubisath Defender à Ahn'Qiraj, environ 20 % Qiraji Mindslayer à Ahn'Qiraj, environ 19 % Qiraji Slayer à Ahn'Qiraj, environ 19 % Qiraji Warlord à Ahn'Qiraj, environ 18 % Qiraji Slayer à Ahn'Qiraj, environ -0,0 %"
+    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont la meilleure chance :  Qiraji Champion à Ahn'Qiraj, environ 21 % Anubisath Defender à Ahn'Qiraj, environ 20 % Qiraji Mindslayer à Ahn'Qiraj, environ 19 % Qiraji Slayer à Ahn'Qiraj, environ 19 % Qiraji Warlord à Ahn'Qiraj, environ 18 % Qiraji Slayer à Ahn'Qiraj, environ -0,0 %"
   - q: "Blue Qiraji Battle Tank est-elle nouvelle dans WoW Forever ?"
     a: "Non. Blue Qiraji Battle Tank existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -33,11 +33,11 @@ Blue Qiraji Battle Tank est une monture de Classic qui revient dans World of War
 | Niveau | 60 |
 | Vitesse | normale |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Elle tombe sur plusieurs monstres. Ceux-ci ont la meilleure chance sur la bêta :
+Elle tombe sur plusieurs monstres. Ceux-ci ont la meilleure chance :
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234798">Qiraji Champion</a> à Ahn'Qiraj, environ 21 %
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234830">Anubisath Defender</a> à Ahn'Qiraj, environ 20 %
@@ -48,6 +48,6 @@ Elle tombe sur plusieurs monstres. Ceux-ci ont la meilleure chance sur la bêta 
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 Chaque monture de WoW Forever, avec son origine, se trouve dans le [guide des montures](/fr/guides/mounts/).

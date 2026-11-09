@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-east"
   tab: "guide"
 ---
-Dire Maul era chiuso in beta, che si fermava al livello 30. Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
+Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
 
 ## Come arrivarci
 
@@ -57,4 +57,4 @@ Ripulisci prima i Warpwood Crushers sulla rampa, altrimenti entrano nel combatti
 
 - **Le ricompense** delle cinque missioni nei dati di Forever.
 - **Il bottino**: nessuno dei 24 oggetti di Classic è ancora nei dati di Forever.
-- **Le modifiche per Forever**: il dungeon era chiuso in beta. In Classic qui si evocava Isalien per le missioni del Tier 0.5; non si sa se quelle missioni esistano in Forever.
+- **Le modifiche per Forever**: non ancora note. Questa pagina verrà aggiornata appena i giocatori le scopriranno. In Classic qui si evocava Isalien per le missioni del Tier 0.5; non si sa se quelle missioni esistano in Forever.

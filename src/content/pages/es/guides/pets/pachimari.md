@@ -36,8 +36,6 @@ Pachimari es una mascota de compañía nueva en World of Warcraft: Forever. La a
 
 ## Conviene saber
 
-La descripción en la beta aún muestra un texto provisional ([PH] Pachimara), así que esta mascota no está terminada.
-
 Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 
 ## Más mascotas del mismo origen

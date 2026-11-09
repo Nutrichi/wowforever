@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Spectral Bear Cub en WoW Forever?"
-    a: "Es una recompensa de la ruta Legacy de WoW Forever. El total de puntos Legacy que ganas desbloquea recompensas cosméticas a los 15, 25, 40 y 55 puntos; el Spectral Bear Cub llega a los 25, según el texto de los archivos de la beta. Gastar puntos en perks no frena la ruta. Cada desafío vale un punto."
+    a: "Es una recompensa de la ruta Legacy de WoW Forever. El total de puntos Legacy que ganas desbloquea recompensas cosméticas a los 15, 25, 40 y 55 puntos; el Spectral Bear Cub llega a los 25, según el texto de los archivos del juego. Gastar puntos en perks no frena la ruta. Cada desafío vale un punto."
   - q: "¿Es Spectral Bear Cub nueva en WoW Forever?"
     a: "Sí. Spectral Bear Cub es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -32,11 +32,11 @@ Spectral Bear Cub es una mascota de compañía nueva en World of Warcraft: Forev
 
 ## Cómo conseguirla
 
-Es una recompensa de la ruta Legacy de WoW Forever. El total de puntos Legacy que ganas desbloquea recompensas cosméticas a los 15, 25, 40 y 55 puntos; el Spectral Bear Cub llega a los 25, según el texto de los archivos de la beta. Gastar puntos en perks no frena la ruta. Cada desafío vale un punto. Más sobre Legacy en la [página de WoW Forever](/es/forever/).
+Es una recompensa de la ruta Legacy de WoW Forever. El total de puntos Legacy que ganas desbloquea recompensas cosméticas a los 15, 25, 40 y 55 puntos; el Spectral Bear Cub llega a los 25, según el texto de los archivos del juego. Gastar puntos en perks no frena la ruta. Cada desafío vale un punto. Más sobre Legacy en la [página de WoW Forever](/es/forever/).
 
 ## Conviene saber
 
-La descripción en la beta aún muestra un texto provisional ([DNT] 1), así que esta mascota no está terminada.
+La descripción aún muestra un texto provisional ([DNT] 1), así que esta mascota no está terminada.
 
 Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez, estaría disponible para cada personaje. Blizzard no lo ha confirmado.
 

@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Snowy Wolf Pup in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont."
+    a: "De spelbestanden van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden."
   - q: "Is Snowy Wolf Pup nieuw in WoW Forever?"
     a: "Ja. Snowy Wolf Pup is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -32,9 +32,7 @@ Snowy Wolf Pup is een companion pet die nieuw is in World of Warcraft: Forever. 
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
-
-De tooltip op de beta zegt nog dat hij "your chicken" oproept, tekst van een andere pet, dus deze pet is nog niet af.
+De spelbestanden van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 ## Goed om te weten
 
@@ -44,11 +42,11 @@ De spelgegevens markeren de pet als geldig voor het hele account: een keer gelee
 
 - [Albino Snapjaw](/nl/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/nl/guides/pets/azure-whelpling/)
+- [Azurky](/nl/guides/pets/azurky/)
 - [Baby Shark](/nl/guides/pets/baby-shark/)
+- [Blossoming Ancient](/nl/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/nl/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/nl/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/nl/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/nl/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/nl/guides/pets/father-winters-helper/)
 
 Elke pet van WoW Forever, met waar hij vandaan komt, staat in de [petgids](/nl/guides/pets/).

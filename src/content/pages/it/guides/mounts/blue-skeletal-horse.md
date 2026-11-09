@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Blue Skeletal Horse in WoW Forever?"
-    a: "Zachariah Post la vende a Tirisfal Glades per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Orda. Cavalcarla richiede Undead Horsemanship."
+    a: "Zachariah Post la vende a Tirisfal Glades per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione A Steed in Death as They Were in Life, dal livello 40 per l'Orda, ti fa scegliere questa."
   - q: "Blue Skeletal Horse è nuova in WoW Forever?"
     a: "No. Blue Skeletal Horse c'era già in Classic e torna in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Blue Skeletal Horse è una cavalcatura di Classic che torna in World of Warcraft
 | Cavalcare | Undead Horsemanship |
 | Velocità | normale |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende a Tirisfal Glades per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Orda.
 
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, dal livello 40 per l'Orda, ti fa scegliere questa.
+
 Cavalcarla richiede Undead Horsemanship.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature di Zachariah Post
 

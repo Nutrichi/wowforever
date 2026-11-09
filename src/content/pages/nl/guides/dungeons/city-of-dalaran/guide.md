@@ -166,5 +166,5 @@ Hij wacht in de Violet Hold. Ruim de hele kamer op voor je hem trekt, want elk m
 
 ## Wat nog niet bekend is
 
-- **Sunreaver's Sanctuary**: op de beta kun je er nog niet in.
+- **Sunreaver's Sanctuary**: er is nog geen weg naar binnen gevonden.
 - **De dropkansen** van de loot van de bazen.

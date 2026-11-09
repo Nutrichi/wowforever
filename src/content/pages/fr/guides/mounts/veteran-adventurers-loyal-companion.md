@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Veteran Adventurer's Loyal Companion dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. La monter demande Apprentice Riding."
+    a: "Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront. La monter demande Apprentice Riding."
   - q: "Veteran Adventurer's Loyal Companion est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Veteran Adventurer's Loyal Companion est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -32,11 +32,11 @@ Veteran Adventurer's Loyal Companion est une monture nouvelle dans World of Warc
 | Monte | Apprentice Riding |
 | Vitesse | normale |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 La monter demande Apprentice Riding.
 

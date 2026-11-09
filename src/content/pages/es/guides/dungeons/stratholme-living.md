@@ -12,8 +12,6 @@ faq:
     a: "Al final del puente de piedra, en el noroeste de las Eastern Plaguelands. La puerta principal lleva directamente al lado vivo."
   - q: "¿Qué llave necesitas para Stratholme Living?"
     a: "The Scarlet Key, de Doan's Strongbox en Scarlet Monastery: Library. Abre la Scarlet Bastion, donde espera la mitad de los jefes."
-  - q: "¿Se podía jugar Stratholme en la beta?"
-    a: "No. La beta llegaba hasta el nivel 30, así que Stratholme estaba cerrado. Todo lo que hay en estas páginas viene de los datos de Forever y de Classic, y aún puede cambiar."
 manual: true
 sources:
   - name: "Warcraft Tavern"

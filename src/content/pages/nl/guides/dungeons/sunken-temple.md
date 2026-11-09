@@ -13,8 +13,6 @@ faq:
     a: "In het meer midden in de Swamp of Sorrows. Zwem naar de tempel, ga naar beneden tot de Hall of Bones en door de brede deuropening naar het portaal."
   - q: "Hoe roep je Atal'alarion op?"
     a: "Klik op de zes heiligdommen in de Pit of Refuse in deze volgorde: zuid, noord, zuidwest, zuidoost, noordwest, noordoost."
-  - q: "Kon je de Sunken Temple spelen in de beta?"
-    a: "Nee. De beta ging tot level 30, dus de Sunken Temple was dicht. Alles op deze pagina's komt uit de data van Forever en uit Classic, en kan nog veranderen."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/sunken-temple/"

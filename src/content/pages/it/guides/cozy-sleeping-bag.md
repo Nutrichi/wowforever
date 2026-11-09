@@ -61,4 +61,4 @@ Il passo 4 è in terra dell’Alleanza. I giocatori dell’Orda che fanno il via
 
 ## Una cosa da sapere prima di partire
 
-Sulla beta le missioni di questa catena sono segnate in modo visibile nel mondo. Se sia voluto o legato alla beta, Blizzard non lo dice. Chi preferisce trovare la strada da solo forse fa meglio ad aspettare l’uscita.
+Sulla beta le missioni di questa catena erano segnate in modo visibile nel mondo. Non si sa se nel gioco live sia uguale. Chi preferisce trovare la strada da solo forse fa meglio ad aspettare l’uscita.

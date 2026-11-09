@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Riding Turtle in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd heeft."
+    a: "De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden. Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd heeft."
   - q: "Is Riding Turtle nieuw in WoW Forever?"
     a: "Nee. Riding Turtle zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -31,16 +31,16 @@ Riding Turtle is een mount uit Classic die terugkomt in World of Warcraft: Forev
 | Level | 20 |
 | Snelheid | normaal |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd heeft.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 Elke mount van WoW Forever, met waar hij vandaan komt, staat in de [mountgids](/nl/guides/mounts/).

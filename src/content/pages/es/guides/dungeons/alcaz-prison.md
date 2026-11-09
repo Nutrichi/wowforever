@@ -12,7 +12,7 @@ faq:
   - q: "¿Dónde está Alcaz Prison?"
     a: "En Alcaz Island, frente a la costa de Dustwallow Marsh. El portal está en el sótano del gran edificio de la isla, hacia /way 75 15. Desde el muelle, toma el camino que sube la colina a la izquierda."
   - q: "¿Qué suelta Alcaz Prison?"
-    a: "Aún no se sabe. La mazmorra se abre por encima del nivel 30, así que no estuvo en la beta, y los datos del juego aún no le asignan objetos."
+    a: "Aún no se sabe. Los datos del juego aún no le asignan objetos."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/alcaz-island-prison/"
@@ -20,4 +20,4 @@ dungeon:
   slug: "alcaz-prison"
   tab: "loot"
 ---
-Aún no se conoce botín de Alcaz Prison. La mazmorra se abre por encima del nivel 30, así que no estuvo en la beta, y los datos del juego aún no le asignan objetos. Esta página se llenará cuando los jugadores la hagan tras el lanzamiento del 4 de noviembre.
+Aún no se conoce botín de Alcaz Prison. Los datos del juego aún no le asignan objetos. Esta página se irá llenando a medida que los jugadores la hagan.

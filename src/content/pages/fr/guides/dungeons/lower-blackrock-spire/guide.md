@@ -13,7 +13,7 @@ dungeon:
   slug: "lower-blackrock-spire"
   tab: "guide"
 ---
-Blackrock Spire était fermé sur la bêta, qui s’arrêtait au niveau 30. Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever.
+Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever.
 
 ## L’accès
 
@@ -70,4 +70,4 @@ Tankez-le contre le mur derrière lui à cause de Cleave et Sweeping Slam. À 50
 
 - **Les récompenses** des douze quêtes dans les données de Forever.
 - **Le butin** : 35 des 37 objets de Classic ne sont pas encore dans les données de Forever.
-- **Les changements pour Forever** : le donjon était fermé sur la bêta. Dans Classic, Mor Grayhoof était invoqué dans la salle de Voone pour les quêtes du Tier 0.5 ; on ne sait pas si ces quêtes existent dans Forever.
+- **Les changements pour Forever** : pas encore connus. Cette page sera mise à jour dès que les joueurs les trouveront. Dans Classic, Mor Grayhoof était invoqué dans la salle de Voone pour les quêtes du Tier 0.5 ; on ne sait pas si ces quêtes existent dans Forever.

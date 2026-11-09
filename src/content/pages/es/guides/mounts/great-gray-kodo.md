@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Great Gray Kodo en WoW Forever?"
-    a: "Harb Clawhoof la vende en Mulgore por 1052 de oro y 63 de plata y 15 de cobre. El vendedor es amistoso con la Horda. Montarla requiere Kodo Riding."
+    a: "Harb Clawhoof la vende en Mulgore por 1052 de oro y 63 de plata y 15 de cobre. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión New Kodo - Teal, desde el nivel 60 para ambas facciones, te deja elegir esta."
   - q: "¿Es Great Gray Kodo nueva en WoW Forever?"
     a: "No. Great Gray Kodo ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Great Gray Kodo es una montura de Classic que vuelve en World of Warcraft: Forev
 | Equitación | Kodo Riding |
 | Velocidad | muy rápida |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende en Mulgore por 1052 de oro y 63 de plata y 15 de cobre. El vendedor es amistoso con la Horda.
 
+Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7662">New Kodo - Teal</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+
 Montarla requiere Kodo Riding.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas de Harb Clawhoof
 

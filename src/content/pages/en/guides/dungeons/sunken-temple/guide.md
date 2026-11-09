@@ -12,7 +12,7 @@ dungeon:
   slug: "sunken-temple"
   tab: "guide"
 ---
-The Sunken Temple was closed on the beta, which stopped at level 30. This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
+This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
 
 ## Getting there
 
@@ -63,4 +63,4 @@ In Classic every class had a quest here, for example Destroy Morphaz for Mages, 
 
 - **The rewards** of the nine quests in the Forever data.
 - **The loot**: 18 of the 25 Classic items are not in the Forever data yet.
-- **Changes for Forever**: the dungeon was closed on the beta.
+- **Changes for Forever**: not known yet. This page gets updated as soon as players find them.

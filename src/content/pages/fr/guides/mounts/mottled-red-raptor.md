@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Mottled Red Raptor dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. La monter demande Raptor Riding."
+    a: "Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront. La monter demande Raptor Riding."
   - q: "Mottled Red Raptor est-elle nouvelle dans WoW Forever ?"
     a: "Non. Mottled Red Raptor existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -32,11 +32,11 @@ Mottled Red Raptor est une monture de Classic qui revient dans World of Warcraft
 | Monte | Raptor Riding |
 | Vitesse | très rapide |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 La monter demande Raptor Riding.
 
@@ -44,7 +44,7 @@ Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas a
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 ## D'autres montures avec Raptor Riding
 

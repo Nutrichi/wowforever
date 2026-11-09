@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Blue Qiraji Battle Tank in WoW Forever?"
-    a: "La lasciano diversi mostri. Questi hanno la probabilità migliore sulla beta:  Qiraji Champion a Ahn'Qiraj, circa 21% Anubisath Defender a Ahn'Qiraj, circa 20% Qiraji Mindslayer a Ahn'Qiraj, circa 19% Qiraji Slayer a Ahn'Qiraj, circa 19% Qiraji Warlord a Ahn'Qiraj, circa 18% Qiraji Slayer a Ahn'Qiraj, circa -0,0%"
+    a: "La lasciano diversi mostri. Questi hanno la probabilità migliore:  Qiraji Champion a Ahn'Qiraj, circa 21% Anubisath Defender a Ahn'Qiraj, circa 20% Qiraji Mindslayer a Ahn'Qiraj, circa 19% Qiraji Slayer a Ahn'Qiraj, circa 19% Qiraji Warlord a Ahn'Qiraj, circa 18% Qiraji Slayer a Ahn'Qiraj, circa -0,0%"
   - q: "Blue Qiraji Battle Tank è nuova in WoW Forever?"
     a: "No. Blue Qiraji Battle Tank c'era già in Classic e torna in WoW Forever."
 sources:
@@ -33,11 +33,11 @@ Blue Qiraji Battle Tank è una cavalcatura di Classic che torna in World of Warc
 | Livello | 60 |
 | Velocità | normale |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
-La lasciano diversi mostri. Questi hanno la probabilità migliore sulla beta:
+La lasciano diversi mostri. Questi hanno la probabilità migliore:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234798">Qiraji Champion</a> a Ahn'Qiraj, circa 21%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234830">Anubisath Defender</a> a Ahn'Qiraj, circa 20%
@@ -48,6 +48,6 @@ La lasciano diversi mostri. Questi hanno la probabilità migliore sulla beta:
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

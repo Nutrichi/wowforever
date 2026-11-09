@@ -13,7 +13,7 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "guide"
 ---
-Blackrock Spire estaba cerrada en la beta, que se quedaba en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, donde Upper Blackrock Spire era una mazmorra para 10 jugadores. Si Forever mantiene ese tamaño y si la mazmorra cambia, Blizzard no lo ha dicho.
+Esta guía sigue la mazmorra tal como era en Classic, donde Upper Blackrock Spire era una mazmorra para 10 jugadores. Si Forever mantiene ese tamaño y si la mazmorra cambia, Blizzard no lo ha dicho.
 
 ## Cómo llegar
 
@@ -63,4 +63,4 @@ El combate más duro de la mazmorra. Cada tanque coge un Chromatic Elite Guard; 
 - **Las recompensas** de las doce misiones en los datos de Forever.
 - **El botín**: 37 de los 40 objetos de Classic aún no están en los datos de Forever.
 - **El tamaño del grupo**: 10 jugadores en Classic; Blizzard no ha dicho qué hace Forever.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta. En Classic, Lord Valthalak se invocaba en la Furnace para las misiones del Tier 0.5; no se sabe si esas misiones existen en Forever.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren. En Classic, Lord Valthalak se invocaba en la Furnace para las misiones del Tier 0.5; no se sabe si esas misiones existen en Forever.

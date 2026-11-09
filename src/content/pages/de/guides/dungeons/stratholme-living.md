@@ -12,8 +12,6 @@ faq:
     a: "Am Ende der Steinbrücke im Nordwesten der Eastern Plaguelands. Das Haupttor führt direkt auf die lebende Seite."
   - q: "Welchen Schlüssel braucht man für Stratholme Living?"
     a: "The Scarlet Key, aus Doan's Strongbox in Scarlet Monastery: Library. Er öffnet die Scarlet Bastion, wo die Hälfte der Bosse wartet."
-  - q: "Konnte man Stratholme in der Beta spielen?"
-    a: "Nein. Die Beta ging bis Stufe 30, Stratholme war also geschlossen. Alles auf diesen Seiten stammt aus den Daten von Forever und aus Classic und kann sich noch ändern."
 manual: true
 sources:
   - name: "Warcraft Tavern"

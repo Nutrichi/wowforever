@@ -13,7 +13,7 @@ dungeon:
   slug: "maraudon"
   tab: "guide"
 ---
-Maraudon era chiuso in beta, che si fermava al livello 30. Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
+Questa guida segue il dungeon com’era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se il dungeon cambia per Forever.
 
 ## Come arrivarci
 
@@ -84,4 +84,4 @@ Dopo la sua morte, Zaetar's Spirit appare al centro dell’anello con la Seed of
 
 - **Le ricompense** delle undici missioni nei dati di Forever.
 - **Quattordici oggetti** del bottino di Classic che non sono nei dati di Forever.
-- **Le modifiche per Forever**: il dungeon era chiuso in beta.
+- **Le modifiche per Forever**: non ancora note. Questa pagina verrà aggiornata appena i giocatori le scopriranno.

@@ -46,11 +46,11 @@ Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise
 
 - [Baby Crocolisk](/fr/guides/pets/baby-crocolisk/)
 - [Black Tabby](/fr/guides/pets/black-tabby/)
+- [Condor Hatchling](/fr/guides/pets/condor-hatchling/)
 - [Crimson Whelpling](/fr/guides/pets/crimson-whelpling/)
 - [Dark Whelpling](/fr/guides/pets/dark-whelpling/)
 - [Green Wing Macaw](/fr/guides/pets/green-wing-macaw/)
 - [Hyacinth Macaw](/fr/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/fr/guides/pets/pet-fish/)
-- [Pet Stone](/fr/guides/pets/pet-stone/)
+- [Siamese](/fr/guides/pets/siamese/)
 
 Chaque mascotte de WoW Forever, avec son origine, figure dans le [guide des mascottes](/fr/guides/pets/).

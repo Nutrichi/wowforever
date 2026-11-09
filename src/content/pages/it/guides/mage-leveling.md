@@ -8,7 +8,7 @@ lang: it
 manual: true
 faq:
   - q: "Qual è la specializzazione migliore per livellare un Mage in WoW Forever?"
-    a: "Frost. Ice Lance e Fingers of Frost danno a Frost le uccisioni più rapide della beta, oltre ai rallentamenti e ai congelamenti che l'hanno sempre reso sicuro. Anche Fire e Arcane funzionano, ma dipendono di più da equipaggiamento, critici o proc."
+    a: "Frost. Ice Lance e Fingers of Frost davano a Frost le uccisioni più rapide della beta, oltre ai rallentamenti e ai congelamenti che l'hanno sempre reso sicuro. Anche Fire e Arcane funzionano, ma dipendono di più da equipaggiamento, critici o proc."
   - q: "Perché Ice Lance è così forte?"
     a: "Ice Lance è istantaneo e infligge il 200% di danni in più a un bersaglio Frozen. Frostbite e Frost Nova congelano il bersaglio, e Fingers of Frost tratta i tuoi due incantesimi successivi come se il bersaglio fosse Frozen. Con Shatter e Ice Shards quei colpi fanno critici enormi."
   - q: "Quando ottengo Ice Lance?"

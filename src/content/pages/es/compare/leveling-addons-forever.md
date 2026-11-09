@@ -53,11 +53,11 @@ Journey es nuevo y está hecho para Forever. Los niveles 1 a 30 son gratis para 
 
 ## Joana's Guides
 
-Joana's Guides ayuda a subir de nivel desde 2006, a partir de las rutas del speedrunner Joana. Joana murió a principios de 2024; TomCat asumió el mantenimiento por respeto y con el apoyo de la familia de Joana. TomCat's Gaming es su dueño y lo sigue desarrollando, y su addon funciona en la beta de Forever desde el 21 de septiembre con las rutas de Classic Era. En el lanzamiento usa las mismas rutas que Journey; cuando las rutas de Forever sean estables, cada uno seguirá su camino. Una compra de por vida de Classic Era sigue funcionando en Forever, y el contenido exclusivo de Forever pasa a ser un producto aparte. Cómo están unidos los dos se explica en [Journey y Joana's Guides comparados](/es/compare/journey-vs-joana/).
+Joana's Guides ayuda a subir de nivel desde 2006, a partir de las rutas del speedrunner Joana. Joana murió a principios de 2024; TomCat asumió el mantenimiento por respeto y con el apoyo de la familia de Joana. TomCat's Gaming es su dueño y lo sigue desarrollando, y su addon funcionó en la beta de Forever desde el 21 de septiembre con las rutas de Classic Era. En el lanzamiento usa las mismas rutas que Journey; cuando las rutas de Forever sean estables, cada uno seguirá su camino. Una compra de por vida de Classic Era sigue funcionando en Forever, y el contenido exclusivo de Forever pasa a ser un producto aparte. Cómo están unidos los dos se explica en [Journey y Joana's Guides comparados](/es/compare/journey-vs-joana/).
 
 ## Zygor
 
-Zygor actualiza sus guías del 1 al 60 para las zonas nuevas, el inicio Skyborne y las nuevas combinaciones de raza y clase, y añade guías para las nueve mazmorras nuevas. Su sistema de viajes y su asesor de talentos también se actualizan para Forever. Zygor avisa de que el límite de nivel de la beta limita lo que puede probar, así que la ruta podría estar actualizada solo en parte en el lanzamiento y completarse después. Todo va incluido en una suscripción a Zygor Elite.
+Zygor actualiza sus guías del 1 al 60 para las zonas nuevas, el inicio Skyborne y las nuevas combinaciones de raza y clase, y añade guías para las nueve mazmorras nuevas. Su sistema de viajes y su asesor de talentos también se actualizan para Forever. Antes del lanzamiento, Zygor avisó de que el límite de nivel de la beta limitaba lo que podía probar, así que la ruta podía estar actualizada solo en parte en el lanzamiento y completarse después. Todo va incluido en una suscripción a Zygor Elite.
 
 ## Por qué no sirve una ruta de Classic
 

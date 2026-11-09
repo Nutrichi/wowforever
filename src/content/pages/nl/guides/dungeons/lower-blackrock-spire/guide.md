@@ -13,7 +13,7 @@ dungeon:
   slug: "lower-blackrock-spire"
   tab: "guide"
 ---
-Blackrock Spire was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
 
 ## De weg erheen
 
@@ -70,4 +70,4 @@ Tank hem tegen de muur achter hem door Cleave en Sweeping Slam. Op 50% roept hij
 
 - **De beloningen** van de twaalf quests in de data van Forever.
 - **De loot**: 35 van de 37 items uit Classic staan nog niet in de data van Forever.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta. In Classic werd Mor Grayhoof in de zaal van Voone opgeroepen voor de quests van Tier 0.5; of die quests in Forever bestaan, is niet bekend.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden. In Classic werd Mor Grayhoof in de zaal van Voone opgeroepen voor de quests van Tier 0.5; of die quests in Forever bestaan, is niet bekend.

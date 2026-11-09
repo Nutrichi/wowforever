@@ -44,11 +44,11 @@ De spelgegevens markeren de pet als geldig voor het hele account: een keer gelee
 
 - [Baby Crocolisk](/nl/guides/pets/baby-crocolisk/)
 - [Black Tabby](/nl/guides/pets/black-tabby/)
+- [Condor Hatchling](/nl/guides/pets/condor-hatchling/)
 - [Crimson Whelpling](/nl/guides/pets/crimson-whelpling/)
 - [Dark Whelpling](/nl/guides/pets/dark-whelpling/)
 - [Emerald Whelpling](/nl/guides/pets/emerald-whelpling/)
 - [Green Wing Macaw](/nl/guides/pets/green-wing-macaw/)
 - [Hyacinth Macaw](/nl/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/nl/guides/pets/pet-fish/)
 
 Elke pet van WoW Forever, met waar hij vandaan komt, staat in de [petgids](/nl/guides/pets/).

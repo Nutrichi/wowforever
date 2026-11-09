@@ -1,14 +1,14 @@
 ---
 title: "Condor Hatchling: zo krijg je de pet in WoW Forever"
 metaTitle: "Zo krijg je Condor Hatchling in WoW Forever"
-description: "Condor Hatchling is een companion pet die nieuw is in World of Warcraft: Forever."
+description: "Condor Hatchling is een companion pet die nieuw is in World of Warcraft: Forever. Hij valt van Lord Condar in Loch Modan."
 short: "Condor Hatchling"
 updated: 2026-09-30
 lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Condor Hatchling in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont."
+    a: "Hij valt van Lord Condar in Loch Modan. In de lootgegevens valt hij bij ongeveer 1,4% van de kills."
   - q: "Is Condor Hatchling nieuw in WoW Forever?"
     a: "Ja. Condor Hatchling is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -26,13 +26,15 @@ Condor Hatchling is een companion pet die nieuw is in World of Warcraft: Forever
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282637"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shaking Egg</a> |
-| Bron | Nog niet bekend |
+| Bron | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> |
+| Waar | Loch Modan |
+| Dropkans | 1,4% |
 | Nieuw in Forever | ja |
 | Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze pet, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+Hij valt van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> in Loch Modan. In de lootgegevens valt hij bij ongeveer 1,4% van de kills.
 
 ## Goed om te weten
 
@@ -40,13 +42,13 @@ De spelgegevens markeren de pet als geldig voor het hele account: een keer gelee
 
 ## Meer pets uit dezelfde bron
 
-- [Albino Snapjaw](/nl/guides/pets/albino-snapjaw/)
-- [Azure Whelpling](/nl/guides/pets/azure-whelpling/)
-- [Baby Shark](/nl/guides/pets/baby-shark/)
-- [Bronze Whelpling](/nl/guides/pets/bronze-whelpling/)
-- [Corrupted Kitten](/nl/guides/pets/corrupted-kitten/)
-- [Disgusting Oozeling](/nl/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/nl/guides/pets/father-winters-helper/)
-- [Festival Lantern](/nl/guides/pets/festival-lantern/)
+- [Baby Crocolisk](/nl/guides/pets/baby-crocolisk/)
+- [Black Tabby](/nl/guides/pets/black-tabby/)
+- [Crimson Whelpling](/nl/guides/pets/crimson-whelpling/)
+- [Dark Whelpling](/nl/guides/pets/dark-whelpling/)
+- [Emerald Whelpling](/nl/guides/pets/emerald-whelpling/)
+- [Green Wing Macaw](/nl/guides/pets/green-wing-macaw/)
+- [Hyacinth Macaw](/nl/guides/pets/hyacinth-macaw/)
+- [Siamese](/nl/guides/pets/siamese/)
 
 Elke pet van WoW Forever, met waar hij vandaan komt, staat in de [petgids](/nl/guides/pets/).

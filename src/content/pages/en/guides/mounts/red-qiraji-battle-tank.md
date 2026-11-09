@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Red Qiraji Battle Tank in WoW Forever?"
-    a: "It drops from several monsters. These have the best chance on the beta:  Qiraji Warlord in Ahn'Qiraj, about 3.1% Qiraji Champion in Ahn'Qiraj, about 2.6% Anubisath Defender in Ahn'Qiraj, about 2.6% Qiraji Slayer in Ahn'Qiraj, about 2.3% Qiraji Mindslayer in Ahn'Qiraj, about 2.2% Qiraji Slayer in Ahn'Qiraj, about -0.0%"
+    a: "It drops from several monsters. These have the best chance:  Qiraji Warlord in Ahn'Qiraj, about 3.1% Qiraji Champion in Ahn'Qiraj, about 2.6% Anubisath Defender in Ahn'Qiraj, about 2.6% Qiraji Slayer in Ahn'Qiraj, about 2.3% Qiraji Mindslayer in Ahn'Qiraj, about 2.2% Qiraji Slayer in Ahn'Qiraj, about -0.0%"
   - q: "Is Red Qiraji Battle Tank new in WoW Forever?"
     a: "No. Red Qiraji Battle Tank was already in Classic and returns in WoW Forever."
 sources:
@@ -32,11 +32,11 @@ Red Qiraji Battle Tank is a mount from Classic that returns in World of Warcraft
 | Level | 60 |
 | Speed | normal |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
-It drops from several monsters. These have the best chance on the beta:
+It drops from several monsters. These have the best chance:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234814">Qiraji Warlord</a> in Ahn'Qiraj, about 3.1%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234798">Qiraji Champion</a> in Ahn'Qiraj, about 2.6%
@@ -47,6 +47,6 @@ It drops from several monsters. These have the best chance on the beta:
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 Every mount of WoW Forever, with where it comes from, is in the [mount guide](/guides/mounts/).

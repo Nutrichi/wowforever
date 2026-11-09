@@ -52,7 +52,7 @@ The free part already has Forever's new quests, the Skyborne start on Zephras Is
 
 ## What Joana's Guides offers
 
-The Joana's Guides addon has run in the Forever beta since 21 September, with the Classic Era 1 to 60 routes. Guides built for Forever follow as they are ready. Outside Forever, the Monthly Everything Plan covers Classic Era 1 to 60 (with Season of Discovery, Hardcore and Anniversary), TBC 60 to 70 and WotLK 70 to 80. One-time plans exist for each version.
+The Joana's Guides addon ran in the Forever beta from 21 September, with the Classic Era 1 to 60 routes. Guides built for Forever follow as they are ready. Outside Forever, the Monthly Everything Plan covers Classic Era 1 to 60 (with Season of Discovery, Hardcore and Anniversary), TBC 60 to 70 and WotLK 70 to 80. One-time plans exist for each version.
 
 A lifetime purchase of the Classic Era 1 to 60 guide also works in Forever, as it is. New quests, zones, races and dungeon quests that exist only in Forever become a separate product. Its price and the upgrade options are not known yet.
 

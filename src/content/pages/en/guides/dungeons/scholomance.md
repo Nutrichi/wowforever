@@ -12,8 +12,6 @@ faq:
     a: "On the island of Caer Darrow in the southeast of the Western Plaguelands. The door needs the Skeleton Key."
   - q: "How do you get the Skeleton Key?"
     a: "From the chain The Key to Scholomance: Alliance players start at Chillwind Camp, Horde players at The Bulwark. It asks for a trip to Gadgetzan and Un'Goro Crater, 15 gold and a group for Araj the Summoner."
-  - q: "Could you play Scholomance on the beta?"
-    a: "No. The beta went up to level 30, so Scholomance was closed. Everything on these pages comes from the Forever data and from Classic, and can still change."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/scholomance/"

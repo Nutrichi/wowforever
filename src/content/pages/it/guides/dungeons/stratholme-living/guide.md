@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-living"
   tab: "guide"
 ---
-Stratholme era chiuso nella beta, che si fermava al livello 30. Questa guida segue il dungeon com'era in Classic, con i livelli dei boss dai dati di Forever. Blizzard non dice se il dungeon cambia per Forever.
+Questa guida segue il dungeon com'era in Classic, con i livelli dei boss dai dati di Forever. Blizzard non dice se il dungeon cambia per Forever.
 
 Stratholme è una sola istanza con due lati. Il lato vivente è della Scarlet Crusade, il [lato non morto](/it/guides/dungeons/stratholme-undead/) del Flagello di Baron Rivendare. I due sono collegati da King's Square Gate, che richiede la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12382"><img class="wf-wh__icon" src="/wh/inv_misc_key_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Key to the City</a>.
 
@@ -90,4 +90,4 @@ Lo scontro inizia facile. Poi Dathrohan si trasforma nel demone Balnazzar. Tanka
 
 - **Le ricompense** delle sei missioni nei dati di Forever.
 - **Il bottino**: 33 dei 46 oggetti di Classic non sono ancora nei dati di Forever.
-- **Cambiamenti per Forever**: il dungeon era chiuso nella beta. In Classic qui si evocavano Jarien e Sothos per le missioni del Tier 0.5; non si sa se questa evocazione esista in Forever.
+- **Cambiamenti per Forever**: non ancora noti. In Classic qui si evocavano Jarien e Sothos per le missioni del Tier 0.5; non si sa se questa evocazione esista in Forever.

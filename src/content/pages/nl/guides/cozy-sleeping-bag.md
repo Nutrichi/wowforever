@@ -61,4 +61,4 @@ Stap 4 ligt op Alliance-grond. Hordespelers die de tocht op 14 maken, mogen geze
 
 ## Een ding om vooraf te weten
 
-Op de beta staan de quests van deze reeks zichtbaar aangeduid in de wereld. Of dat zo bedoeld is of bij de beta hoort, zegt Blizzard niet. Wie de tocht liever zelf uitzoekt, wacht misschien beter tot de lancering.
+Op de beta stonden de quests van deze reeks zichtbaar aangeduid in de wereld. Of dat in het live spel ook zo is, is niet bekend. Wie de tocht liever zelf uitzoekt, wacht misschien beter tot de lancering.

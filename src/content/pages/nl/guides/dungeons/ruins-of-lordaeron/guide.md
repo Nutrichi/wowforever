@@ -98,7 +98,7 @@ De trash slaat minder hard dan in de Hall of Thanes, maar de groepjes staan dich
 
 ## De zes bazen
 
-Elke volgorde werkt. Elke baas laat blauwe items vallen; per baas zijn er drie bekend uit de beta.
+Elke volgorde werkt. Elke baas laat blauwe items vallen; per baas waren er drie bekend uit de beta.
 
 ### Witherfang
 
@@ -118,7 +118,7 @@ Tank hem met je rug tegen een muur. Hij raakt ook iedereen rondom hem in melee: 
 
 ### Viktor the Vile
 
-De baas die de meeste groepen missen. Steek de Kindled Flame aan in de schouw van een gebouw in het zuidwesten van Lordamere Overlook, bij het kerkhof. Vijf golven adds volgen voor Viktor komt. Hij slaat hard en heeft dezelfde Leech Poison als Witherfang, dus laat de tank eerst aggro nemen. In de beta verschijnt Viktor soms niet.
+De baas die de meeste groepen missen. Steek de Kindled Flame aan in de schouw van een gebouw in het zuidwesten van Lordamere Overlook, bij het kerkhof. Vijf golven adds volgen voor Viktor komt. Hij slaat hard en heeft dezelfde Leech Poison als Witherfang, dus laat de tank eerst aggro nemen. In de beta verscheen Viktor soms niet.
 
 De golven putten de groep meer uit dan Viktor zelf, dus begin alleen met volle mana.
 
@@ -153,7 +153,7 @@ Een rare met een kleine kans om te verschijnen aan de westkant van de dungeon. D
 ## Wat nog niet bekend is
 
 - Welke baas als eindbaas telt. De baas van level 20 heeft geen vaste plaats in de volgorde; gangbare routes eindigen bij Rath'mael.
-- Of Viktor the Vile bij de launch altijd verschijnt. In de beta doet hij dat soms niet.
+- Of Viktor the Vile altijd verschijnt. In de beta deed hij dat soms niet.
 - Waar de rest van Rotmender's Raiment valt, en bij welke stap Unending Torment Slain Baron's Signet geeft.
 - Hoeveel experience The Wrath of Rath'mael geeft
 

@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Umber Galestrider in WoW Forever?"
-    a: "Genn Fairweather verkoopt hem in Zephras Isle voor 20 goud. Rijden vraagt Galestrider Riding."
+    a: "Genn Fairweather verkoopt hem in Zephras Isle voor 20 goud. Je eerste mount is gratis: de quest Your First Riding Galestrider, vanaf level 40 voor beide facties, laat je deze kiezen."
   - q: "Is Umber Galestrider nieuw in WoW Forever?"
     a: "Ja. Umber Galestrider is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -34,11 +34,13 @@ Umber Galestrider is een mount die nieuw is in World of Warcraft: Forever. Het i
 | Rijden | Galestrider Riding |
 | Snelheid | normaal |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a> verkoopt hem in Zephras Isle voor 20 goud.
+
+Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=96996">Your First Riding Galestrider</a>, vanaf level 40 voor beide facties, laat je deze kiezen.
 
 Rijden vraagt Galestrider Riding.
 

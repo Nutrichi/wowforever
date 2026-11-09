@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Azure Whelpling en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren."
+    a: "Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren."
   - q: "¿Es Azure Whelpling nueva en WoW Forever?"
     a: "Sí. Azure Whelpling es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -32,7 +32,7 @@ Azure Whelpling es una mascota de compañía nueva en World of Warcraft: Forever
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 ## Conviene saber
 
@@ -41,12 +41,12 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 ## Más mascotas del mismo origen
 
 - [Albino Snapjaw](/es/guides/pets/albino-snapjaw/)
+- [Azurky](/es/guides/pets/azurky/)
 - [Baby Shark](/es/guides/pets/baby-shark/)
+- [Blossoming Ancient](/es/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/es/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/es/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/es/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/es/guides/pets/disgusting-oozeling/)
 - [Father Winter's Helper](/es/guides/pets/father-winters-helper/)
-- [Festival Lantern](/es/guides/pets/festival-lantern/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

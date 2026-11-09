@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Black Stallion dans WoW Forever ?"
-    a: "Unger Statforth la vend à Wetlands pour 42 po 10 pa 52 pc. Le marchand est amical envers l'Alliance. La monter demande Horse Riding."
+    a: "Unger Statforth la vend à Wetlands pour 42 po 10 pa 52 pc. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Your First Horse, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci."
   - q: "Black Stallion est-elle nouvelle dans WoW Forever ?"
     a: "Non. Black Stallion existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Black Stallion est une monture de Classic qui revient dans World of Warcraft: Fo
 | Monte | Horse Riding |
 | Vitesse | normale |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> la vend à Wetlands pour 42 po 10 pa 52 pc. Le marchand est amical envers l'Alliance.
 
+Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=97171">Your First Horse</a>, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci.
+
 La monter demande Horse Riding.
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 ## D'autres montures avec Horse Riding
 

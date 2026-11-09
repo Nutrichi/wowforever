@@ -1,14 +1,14 @@
 ---
 title: "Black Wolf: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Black Wolf en WoW Forever"
-description: "Black Wolf es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Aún no se sabe."
+description: "Black Wolf es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Misión: Your First Riding Wolf."
 short: "Black Wolf"
 updated: 2026-10-09
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Black Wolf en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. Montarla requiere Wolf Riding."
+    a: "Es la recompensa de la misión Your First Riding Wolf, a partir del nivel 40, para la Horda. Montarla requiere Wolf Riding."
   - q: "¿Es Black Wolf nueva en WoW Forever?"
     a: "No. Black Wolf ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,16 +27,16 @@ Black Wolf es una montura de Classic que vuelve en World of Warcraft: Forever. E
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1041"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Black Wolf</a> |
-| Fuente | Aún no se sabe |
+| Fuente | Misión: <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a> |
 | Nivel | 40 |
 | Equitación | Wolf Riding |
 | Velocidad | normal |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Es la recompensa de la misión <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, a partir del nivel 40, para la Horda.
 
 Montarla requiere Wolf Riding.
 
@@ -44,7 +44,7 @@ El juego oculta esta montura en la colección hasta que un personaje la ha apren
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas con Wolf Riding
 

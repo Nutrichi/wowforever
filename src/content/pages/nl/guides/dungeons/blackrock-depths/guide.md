@@ -13,7 +13,7 @@ dungeon:
   slug: "blackrock-depths"
   tab: "guide"
 ---
-Blackrock Depths was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd. Een volledige clear duurt uren, dus de meeste groepen kiezen een deel.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd. Een volledige clear duurt uren, dus de meeste groepen kiezen een deel.
 
 ## De weg erheen
 
@@ -106,4 +106,4 @@ Princess Moira Bronzebeard healt hem. Dood haar, of houd haar bezig en onderbree
 
 - **De beloningen** van de tweeëntwintig quests in de data van Forever.
 - **De loot**: 74 van de 103 items uit Classic staan nog niet in de data van Forever.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden.

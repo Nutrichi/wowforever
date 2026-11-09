@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Swift Brown Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 888 goud en 88 zilver en 88 koper. De verkoper is vriendelijk voor de Horde. Rijden vraagt Wolf Riding."
+    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 888 goud en 88 zilver en 88 koper. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Wolf Swapping - Arctic Wolf, vanaf level 60 voor beide facties, laat je deze kiezen."
   - q: "Is Swift Brown Wolf nieuw in WoW Forever?"
     a: "Nee. Swift Brown Wolf zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Brown Wolf is een mount uit Classic die terugkomt in World of Warcraft: Fo
 | Rijden | Wolf Riding |
 | Snelheid | zeer snel |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkoopt hem in Orgrimmar voor 888 goud en 88 zilver en 88 koper. De verkoper is vriendelijk voor de Horde.
 
+Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, vanaf level 60 voor beide facties, laat je deze kiezen.
+
 Rijden vraagt Wolf Riding.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts van Ogunaro Wolfrunner
 

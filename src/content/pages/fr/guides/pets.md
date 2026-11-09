@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Combien de mascottes compte WoW Forever ?"
-    a: "Les fichiers de la bêta contiennent 90 mascottes de compagnie : 32 nouvelles et 58 de Classic."
+    a: "Les fichiers du jeu contiennent 96 mascottes de compagnie : 38 nouvelles et 58 de Classic."
   - q: "Les mascottes valent-elles pour tout le compte dans WoW Forever ?"
     a: "Les données du jeu indiquent que chaque mascotte vaut pour tout le compte, et l'objet apprend la mascotte au lieu de l'invoquer depuis les sacs. Blizzard n'a pas confirmé la partie sur le compte."
   - q: "Quelles mascottes sont nouvelles dans WoW Forever ?"
@@ -17,11 +17,11 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/items/miscellaneous/companions"
 ---
-World of Warcraft: Forever compte 90 mascottes de compagnie dans ses fichiers : 32 nouvelles et 58 de Classic. Ce guide les recense toutes avec leur origine, et chaque mascotte a sa propre page avec l'objet, la source et ce qui a changé.
+World of Warcraft: Forever compte 96 mascottes de compagnie dans ses fichiers : 38 nouvelles et 58 de Classic. Ce guide les recense toutes avec leur origine, et chaque mascotte a sa propre page avec l'objet, la source et ce qui a changé.
 
 Dans WoW Forever, une mascotte s'apprend : l'objet l'enseigne et elle devient un sort, donc elle ne prend plus de place dans les sacs. L'invocation est instantanée, avec un temps de recharge de 1,5 seconde.
 
-La liste vient de la base de données de la bêta. Pour les mascottes marquées comme pas encore connues, les fichiers contiennent la mascotte mais la bêta ne montre pas d'où elle vient ; ces lignes seront mises à jour dès que cela change.
+La liste vient des fichiers du jeu et de la base d'objets de WoW Forever. Pour les mascottes marquées comme pas encore connues, les fichiers contiennent la mascotte mais on ne sait pas encore d'où elle vient ; ces lignes seront mises à jour dès que cela change.
 
 ## Nouvelles dans WoW Forever
 
@@ -29,24 +29,29 @@ La liste vient de la base de données de la bêta. Pour les mascottes marquées 
 |---|---|---|
 | [Arctic Hare](/fr/guides/pets/arctic-hare/ "wh:item=280797:q1:inv_crate_02") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a>, 21 pa 5 pc | Dun Morogh |
 | [Azure Whelpling](/fr/guides/pets/azure-whelpling/ "wh:item=268503:q1:inv_misc_head_dragon_blue") | Pas encore connue |  |
+| [Azurky](/fr/guides/pets/azurky/ "wh:item=285354:q4:inv_pet_babymurlocs_blue") | Pas encore connue |  |
 | [Baby Crocolisk](/fr/guides/pets/baby-crocolisk/ "wh:item=282047:q2:inv_pet_babycrocodile_toothy") | Butin: Sewer Beast | Stormwind City |
 | [Bitter Baitling](/fr/guides/pets/bitter-baitling/ "wh:item=276275:q3:ability_hunter_pet_worm") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=15078">Jang</a>, 1 Extravagant Extravaganza Coin | Stranglethorn Vale |
+| [Blossoming Ancient](/fr/guides/pets/blossoming-ancient/ "wh:item=98550:q3:874857") | Pas encore connue |  |
 | [Bronze Whelpling](/fr/guides/pets/bronze-whelpling/ "wh:item=268502:q1:inv_misc_head_dragon_bronze") | Pas encore connue |  |
 | [Brown Ground Squirrel](/fr/guides/pets/brown-ground-squirrel/ "wh:item=280794:q1:ability_hunter_beastcall") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a>, 52 pa 63 pc | Thunder Bluff |
 | [Brown Rabbit](/fr/guides/pets/brown-rabbit/ "wh:item=280801:q1:inv_crate_02") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1263">Yarlyn Amberstill</a>, 21 pa 5 pc | Dun Morogh |
-| [Condor Hatchling](/fr/guides/pets/condor-hatchling/ "wh:item=282637:q2:inv_egg_03") | Pas encore connue |  |
+| [Condor Hatchling](/fr/guides/pets/condor-hatchling/ "wh:item=282637:q2:inv_egg_03") | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> | Loch Modan |
 | [Eagle Owl](/fr/guides/pets/eagle-owl/ "wh:item=280803:q1:ability_eyeoftheowl") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8665">Shylenai</a>, 52 pa 63 pc | Darnassus |
 | [Excitable Slime](/fr/guides/pets/excitable-slime/ "wh:item=275682:q1:inv_maldraxxusslime") | Quête: WRIGGLE. | Undercity |
 | [Festival Lantern](/fr/guides/pets/festival-lantern/ "wh:item=74611:q2:achievement_worldevent_lunar") | Pas encore connue |  |
 | [Flowery Lashling](/fr/guides/pets/flowery-lashling/ "wh:item=249897:q1:inv_10_herb_seed_magiccolor4") | Marché noir: Madam Swyndle | The Riverglades |
+| [Frosty Lashling](/fr/guides/pets/frosty-lashling/ "wh:item=249895:q1:inv_10_herb_seed_magiccolor1") | Pas encore connue |  |
 | [Galestrider Chick](/fr/guides/pets/galestrider-chick/ "wh:item=280615:q1:inv_pet_babycrane") | Pas encore connue |  |
+| [Gill'el](/fr/guides/pets/gillel/ "wh:item=229368:q3:5834819") | Pas encore connue |  |
 | [Jungle Boa](/fr/guides/pets/jungle-boa/ "wh:item=280703:q1:spell_nature_guardianward") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8404">Xan'tish</a>, 52 pa 63 pc | Orgrimmar |
 | [Lunar Lantern](/fr/guides/pets/lunar-lantern/ "wh:item=74610:q2:achievement_worldevent_lunar") | Pas encore connue |  |
 | [Minfernal](/fr/guides/pets/minfernal/ "wh:item=284214:q3:spell_shadow_summoninfernal") | Pas encore connue |  |
 | [Mini Uber Diablo](/fr/guides/pets/mini-uber-diablo/ "wh:item=268879:q1:inv_diablostone") | Pas encore connue |  |
 | [Minimule](/fr/guides/pets/minimule/ "wh:item=284664:q2:inv_misc_food_54") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256384">Gishah</a>, 1.500 Merchant's Favor | Redridge Mountains et The Barrens |
 | [Musical Gustjumper](/fr/guides/pets/musical-gustjumper/ "wh:item=268109:q1:inv_frog2_blue") | Dans le monde: une grenouille qui chante | Zephras Isle |
-| [Pachimari](/fr/guides/pets/pachimari/ "wh:item=280614:q4:inv_pachimarapet") | Édition: Skyborne Epic Pack, Warcraft Forever Collection |  |
+| [Pachimari](/fr/guides/pets/pachimari/ "wh:item=280614:q3:inv_pachimarapet") | Édition: Skyborne Epic Pack, Warcraft Forever Collection |  |
+| [Pinky](/fr/guides/pets/pinky/ "wh:item=275818:q4:7889090") | Pas encore connue |  |
 | [Plagued Cockroach](/fr/guides/pets/plagued-cockroach/ "wh:item=280697:q1:spell_shadow_carrionswarm") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 pa 63 pc | Undercity |
 | [Prairie Wolf Pup](/fr/guides/pets/prairie-wolf-pup/ "wh:item=277508:q1:inv_box_petcarrier_01") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268745">Mayhoa Skyhoof</a>, 63 pa 15 pc | Orgrimmar |
 | [Red Ground Squirrel](/fr/guides/pets/red-ground-squirrel/ "wh:item=280795:q1:ability_hunter_beastcall") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8401">Halpa</a>, 52 pa 63 pc | Thunder Bluff |
@@ -56,7 +61,8 @@ La liste vient de la base de données de la bêta. Pour les mascottes marquées 
 | [Spectral Bear Cub](/fr/guides/pets/spectral-bear-cub/ "wh:item=277714:q3:inv_pet_babyblizzardbear") | Récompense Legacy: 25 points |  |
 | [Tallstrider Hatchling](/fr/guides/pets/tallstrider-hatchling/ "wh:item=284176:q2:ability_hunter_pet_tallstrider") | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> | Darkshore |
 | [Undercity Cockroach](/fr/guides/pets/undercity-cockroach/ "wh:item=280699:q1:spell_shadow_carrionswarm") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 pa 63 pc | Undercity |
-| [Weevil K. Neevil](/fr/guides/pets/weevil-k-neevil/ "wh:item=280456:q1:inv_inscription_pigment_bug04") | Pas encore connue |  |
+| [Viridian Lashling](/fr/guides/pets/viridian-lashling/ "wh:item=249896:q1:inv_10_herb_seed_magiccolor2") | Pas encore connue |  |
+| [Weevil K. Neevil](/fr/guides/pets/weevil-k-neevil/ "wh:item=280456:q1:inv_inscription_pigment_bug04") | Quête: <a href="https://www.wowhead.com/forever/quest=93176">My Little Friends</a> |  |
 | [Wild Chicken](/fr/guides/pets/wild-chicken/ "wh:item=274956:q1:inv_egg_02") | Pas encore connue |  |
 | [Wilted Lashling](/fr/guides/pets/wilted-lashling/ "wh:item=249898:q1:inv_10_herb_seed_magiccolor3") | Marché noir: Madam Swyndle | The Riverglades |
 
@@ -100,8 +106,8 @@ La liste vient de la base de données de la bêta. Pour les mascottes marquées 
 | [Orange Tabby](/fr/guides/pets/orange-tabby/ "wh:item=8487:q1:inv_box_petcarrier_01") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6367">Donni Anthania</a>, 42 pa 10 pc | Elwynn Forest |
 | [Panda Cub](/fr/guides/pets/panda-cub/ "wh:item=281166:q3:inv_pandacub_c60_black") | Édition: Skyborne Epic Pack, Warcraft Forever Collection |  |
 | [Peddlefeet](/fr/guides/pets/peddlefeet/ "wh:item=22235:q1:inv_ammo_arrow_02") | Pas encore connue |  |
-| [Pet Fish](/fr/guides/pets/pet-fish/ "wh:item=13342:q1:inv_misc_fish_03") | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> | The Hinterlands |
-| [Pet Stone](/fr/guides/pets/pet-stone/ "wh:item=13343:q1:inv_stone_14") | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (et 1 autres) | Feralas |
+| [Pet Fish](/fr/guides/pets/pet-fish/ "wh:item=13342:q1:inv_misc_fish_03") | Pas encore connue |  |
+| [Pet Stone](/fr/guides/pets/pet-stone/ "wh:item=13343:q1:inv_stone_14") | Pas encore connue |  |
 | [Poley](/fr/guides/pets/poley/ "wh:item=22781:q1:inv_belt_09") | Quête: <a href="https://www.wowhead.com/forever/quest=9273">Redeem iCoke Prize Voucher</a> |  |
 | [Prairie Chicken](/fr/guides/pets/prairie-chicken/ "wh:item=11110:q1:inv_egg_02") | Dans le monde: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=161513">Farm Chicken Egg</a> | Westfall |
 | [Senegal](/fr/guides/pets/senegal/ "wh:item=8495:q1:spell_nature_forceofnature") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2663">Narkk</a>, 40 pa | Stranglethorn Vale |

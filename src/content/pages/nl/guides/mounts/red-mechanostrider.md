@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Red Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle verkoopt hem in Dun Morogh voor 40 goud. De verkoper is vriendelijk voor de Alliance. Rijden vraagt Mechanostrider Piloting."
+    a: "Milli Featherwhistle verkoopt hem in Dun Morogh voor 40 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Mechanostrider, vanaf level 40 voor de Alliance, laat je deze kiezen."
   - q: "Is Red Mechanostrider nieuw in WoW Forever?"
     a: "Nee. Red Mechanostrider zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Red Mechanostrider is een mount uit Classic die terugkomt in World of Warcraft: 
 | Rijden | Mechanostrider Piloting |
 | Snelheid | normaal |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkoopt hem in Dun Morogh voor 40 goud. De verkoper is vriendelijk voor de Alliance.
 
+Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=97046">Your First Mechanostrider</a>, vanaf level 40 voor de Alliance, laat je deze kiezen.
+
 Rijden vraagt Mechanostrider Piloting.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts van Milli Featherwhistle
 

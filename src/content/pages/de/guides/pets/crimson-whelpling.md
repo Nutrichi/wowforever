@@ -50,11 +50,11 @@ Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es f�
 
 - [Baby Crocolisk](/de/guides/pets/baby-crocolisk/)
 - [Black Tabby](/de/guides/pets/black-tabby/)
+- [Condor Hatchling](/de/guides/pets/condor-hatchling/)
 - [Dark Whelpling](/de/guides/pets/dark-whelpling/)
 - [Emerald Whelpling](/de/guides/pets/emerald-whelpling/)
 - [Green Wing Macaw](/de/guides/pets/green-wing-macaw/)
 - [Hyacinth Macaw](/de/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/de/guides/pets/pet-fish/)
-- [Pet Stone](/de/guides/pets/pet-stone/)
+- [Siamese](/de/guides/pets/siamese/)
 
 Jedes Haustier von WoW Forever, mit seiner Herkunft, steht im [Haustier-Guide](/de/guides/pets/).

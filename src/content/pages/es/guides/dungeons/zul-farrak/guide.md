@@ -13,7 +13,7 @@ dungeon:
   slug: "zul-farrak"
   tab: "guide"
 ---
-Zul'Farrak estaba cerrada en la beta, que se detenía en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
 
 ## Cómo llegar
 
@@ -82,4 +82,4 @@ Espera tras la puerta volada con <a class="wf-wh wf-plain" href="https://www.wow
 
 - **Las recompensas** de las ocho misiones en los datos de Forever.
 - **Cuatro objetos** del botín de Classic que aún no están en los datos de Forever.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren.

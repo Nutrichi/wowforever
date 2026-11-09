@@ -125,7 +125,7 @@ Secrets of the Dreamers liegt in der Höhle mit dem Eingang von Wailing Caverns.
 | Desolace | Demons and You | 55.1 26.2 | Thunder Axe Fortress, das große Gebäude im inneren Ring |
 | Badlands | Mummies: A Guide to the Unsavory Undead | 56.7 39.7 | Gruft oberhalb des Lagers mit den zwei Zwergen, neben zwei Leichen |
 
-Diese Bücher liegen in Zonen von Level 30 bis 45. In der Beta, die bei Level 30 endet, liegen manche bei stärkeren Monstern.
+Diese Bücher liegen in Zonen von Level 30 bis 45. Manche liegen bei stärkeren Monstern.
 
 <div class="wf-shots">
 

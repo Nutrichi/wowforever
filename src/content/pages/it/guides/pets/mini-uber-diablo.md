@@ -15,7 +15,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=268879"
 ---
-Mini Uber Diablo è una mascotte da compagnia nuova in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268879"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Uber Diablo Stone</a> la evoca ancora come in Classic, secondo la descrizione della beta.
+Mini Uber Diablo è una mascotte da compagnia nuova in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268879"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Uber Diablo Stone</a> la evoca ancora come in Classic, secondo la descrizione.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_diablostone.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=268879">Uber Diablo Stone</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss Diablo.</span></div></div>
@@ -42,11 +42,11 @@ I dati del gioco segnano la mascotte come valida per tutto l'account: imparata u
 
 - [Albino Snapjaw](/it/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/it/guides/pets/azure-whelpling/)
+- [Azurky](/it/guides/pets/azurky/)
 - [Baby Shark](/it/guides/pets/baby-shark/)
+- [Blossoming Ancient](/it/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/it/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/it/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/it/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/it/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/it/guides/pets/father-winters-helper/)
 
 Ogni mascotte di WoW Forever, con la sua provenienza, è nella [guida alle mascotte](/it/guides/pets/).

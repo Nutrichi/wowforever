@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Riding Turtle in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it. The game hides this mount in the mount collection until a character has learned it."
+    a: "The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it. The game hides this mount in the mount collection until a character has learned it."
   - q: "Is Riding Turtle new in WoW Forever?"
     a: "No. Riding Turtle was already in Classic and returns in WoW Forever."
 sources:
@@ -30,16 +30,16 @@ Riding Turtle is a mount from Classic that returns in World of Warcraft: Forever
 | Level | 20 |
 | Speed | normal |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
-The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 The game hides this mount in the mount collection until a character has learned it.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 Every mount of WoW Forever, with where it comes from, is in the [mount guide](/guides/mounts/).

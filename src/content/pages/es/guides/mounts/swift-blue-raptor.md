@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Swift Blue Raptor en WoW Forever?"
-    a: "Zjolnir la vende en Durotar por 1000 de oro. El vendedor es amistoso con la Horda. Montarla requiere Raptor Riding."
+    a: "Zjolnir la vende en Durotar por 1000 de oro. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión Ivory Raptor Replacement, desde el nivel 60 para ambas facciones, te deja elegir esta."
   - q: "¿Es Swift Blue Raptor nueva en WoW Forever?"
     a: "No. Swift Blue Raptor ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Blue Raptor es una montura de Classic que vuelve en World of Warcraft: For
 | Equitación | Raptor Riding |
 | Velocidad | muy rápida |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vende en Durotar por 1000 de oro. El vendedor es amistoso con la Horda.
 
+Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7664">Ivory Raptor Replacement</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+
 Montarla requiere Raptor Riding.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas de Zjolnir
 

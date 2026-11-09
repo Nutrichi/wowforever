@@ -34,7 +34,7 @@ Swift Empyrean Galestrider è una cavalcatura nuova in World of Warcraft: Foreve
 | Cavalcare | Galestrider Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 

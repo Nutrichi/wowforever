@@ -13,7 +13,7 @@ dungeon:
   slug: "lower-blackrock-spire"
   tab: "guide"
 ---
-Blackrock Spire estaba cerrada en la beta, que se quedaba en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
 
 ## Cómo llegar
 
@@ -70,4 +70,4 @@ Tanquéalo contra la pared de detrás por Cleave y Sweeping Slam. Al 50 % llama 
 
 - **Las recompensas** de las doce misiones en los datos de Forever.
 - **El botín**: 35 de los 37 objetos de Classic aún no están en los datos de Forever.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta. En Classic, Mor Grayhoof se invocaba en la sala de Voone para las misiones del Tier 0.5; no se sabe si esas misiones existen en Forever.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren. En Classic, Mor Grayhoof se invocaba en la sala de Voone para las misiones del Tier 0.5; no se sabe si esas misiones existen en Forever.

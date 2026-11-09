@@ -1,14 +1,14 @@
 ---
 title: "Lavender Kodo: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Lavender Kodo in WoW Forever"
-description: "Lavender Kodo ist ein Reittier, das neu in World of Warcraft: Forever ist. Quelle: Noch nicht bekannt."
+description: "Lavender Kodo ist ein Reittier, das neu in World of Warcraft: Forever ist. Quelle: Quest: Your First Riding Kodo."
 short: "Lavender Kodo"
 updated: 2026-10-09
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Lavender Kodo in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Zum Reiten braucht es Kodo Riding."
+    a: "Es ist die Belohnung der Quest Your First Riding Kodo, ab Stufe 40, für die Horde. Zum Reiten braucht es Kodo Riding."
   - q: "Ist Lavender Kodo neu in WoW Forever?"
     a: "Ja. Lavender Kodo ist neu in WoW Forever und war nicht in Classic."
 sources:
@@ -27,16 +27,16 @@ Lavender Kodo ist ein Reittier, das neu in World of Warcraft: Forever ist. Es is
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277960"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lavender Kodo</a> |
-| Quelle | Noch nicht bekannt |
+| Quelle | Quest: <a href="https://www.wowhead.com/forever/quest=97446">Your First Riding Kodo</a> |
 | Stufe | 40 |
 | Reiten | Kodo Riding |
 | Tempo | normal |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Es ist die Belohnung der Quest <a href="https://www.wowhead.com/forever/quest=97446">Your First Riding Kodo</a>, ab Stufe 40, für die Horde.
 
 Zum Reiten braucht es Kodo Riding.
 

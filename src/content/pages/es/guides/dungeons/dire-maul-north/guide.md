@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-north"
   tab: "guide"
 ---
-Dire Maul estaba cerrada en la beta, que se quedaba en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
 
 ## Cómo llegar
 
@@ -76,4 +76,4 @@ Pelean juntos. En una limpieza completa, mata primero a Cho'Rush e interrumpe su
 
 - **Las recompensas** de las cinco misiones en los datos de Forever.
 - **El botín**: ninguno de los 30 objetos de Classic está aún en los datos de Forever, y no se sabe qué hay en el cofre Gordok Tribute.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren.

@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Swift Razzashi Raptor in WoW Forever?"
-    a: "Hij valt bij meerdere monsters. Deze hebben op de beta de beste kans:  Bloodlord Mandokir in Zul'Gurub, ongeveer 1,0% Hakkar in Zul'Gurub, ongeveer 0,4% Rijden vraagt Journeyman Riding."
+    a: "Hij valt bij meerdere monsters. Deze hebben de beste kans:  Bloodlord Mandokir in Zul'Gurub, ongeveer 1,0% Hakkar in Zul'Gurub, ongeveer 0,4% Rijden vraagt Journeyman Riding."
   - q: "Is Swift Razzashi Raptor nieuw in WoW Forever?"
     a: "Nee. Swift Razzashi Raptor zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -34,11 +34,11 @@ Swift Razzashi Raptor is een mount uit Classic die terugkomt in World of Warcraf
 | Rijden | Journeyman Riding |
 | Snelheid | zeer snel |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-Hij valt bij meerdere monsters. Deze hebben op de beta de beste kans:
+Hij valt bij meerdere monsters. Deze hebben de beste kans:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11382">Bloodlord Mandokir</a> in Zul'Gurub, ongeveer 1,0%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14834">Hakkar</a> in Zul'Gurub, ongeveer 0,4%
@@ -49,14 +49,17 @@ Het spel verbergt deze mount in de mountcollectie tot een personage hem geleerd 
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts met Journeyman Riding
 
 - [Cerulean Prideclaw](/nl/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/nl/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/nl/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/nl/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/nl/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/nl/guides/mounts/spectral-wolf-pack/)
 - [Swift Zulian Tiger](/nl/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/nl/guides/mounts/verdant-sea-turtle/)
 
 Elke mount van WoW Forever, met waar hij vandaan komt, staat in de [mountgids](/nl/guides/mounts/).

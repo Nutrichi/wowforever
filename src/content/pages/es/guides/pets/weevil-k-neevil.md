@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Weevil K. Neevil en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren."
+    a: "Es la recompensa de la misión My Little Friends, desde el nivel 25, para ambas facciones."
   - q: "¿Es Weevil K. Neevil nueva en WoW Forever?"
     a: "Sí. Weevil K. Neevil es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -26,13 +26,13 @@ Weevil K. Neevil es una mascota de compañía nueva en World of Warcraft: Foreve
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=280456"><img class="wf-wh__icon" src="/wh/inv_inscription_pigment_bug04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Weevil K. Neevil</a> |
-| Origen | Aún no se sabe |
+| Origen | Misión: <a href="https://www.wowhead.com/forever/quest=93176">My Little Friends</a> |
 | Nueva en Forever | sí |
 | Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Es la recompensa de la misión <a href="https://www.wowhead.com/forever/quest=93176">My Little Friends</a>, desde el nivel 25, para ambas facciones.
 
 ## Conviene saber
 
@@ -40,13 +40,11 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 
 ## Más mascotas del mismo origen
 
-- [Albino Snapjaw](/es/guides/pets/albino-snapjaw/)
-- [Azure Whelpling](/es/guides/pets/azure-whelpling/)
-- [Baby Shark](/es/guides/pets/baby-shark/)
-- [Bronze Whelpling](/es/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/es/guides/pets/condor-hatchling/)
-- [Corrupted Kitten](/es/guides/pets/corrupted-kitten/)
-- [Disgusting Oozeling](/es/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/es/guides/pets/father-winters-helper/)
+- [Excitable Slime](/es/guides/pets/excitable-slime/)
+- [Mechanical Chicken](/es/guides/pets/mechanical-chicken/)
+- [Poley](/es/guides/pets/poley/)
+- [Spirit of Summer](/es/guides/pets/spirit-of-summer/)
+- [Sprite Darter Hatchling](/es/guides/pets/sprite-darter-hatchling/)
+- [Terky](/es/guides/pets/terky/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

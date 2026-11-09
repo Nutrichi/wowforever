@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Striped Nightsaber in WoW Forever?"
-    a: "Lelanai verkoopt hem in Darnassus voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance. Rijden vraagt Tiger Riding."
+    a: "Lelanai verkoopt hem in Darnassus voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Feline Friend, vanaf level 40 voor de Alliance, laat je deze kiezen."
   - q: "Is Striped Nightsaber nieuw in WoW Forever?"
     a: "Nee. Striped Nightsaber zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Striped Nightsaber is een mount uit Classic die terugkomt in World of Warcraft: 
 | Rijden | Tiger Riding |
 | Snelheid | normaal |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkoopt hem in Darnassus voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance.
 
+Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, vanaf level 40 voor de Alliance, laat je deze kiezen.
+
 Rijden vraagt Tiger Riding.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts van Lelanai
 

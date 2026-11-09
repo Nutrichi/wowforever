@@ -20,4 +20,4 @@ dungeon:
   slug: "kroldok-stronghold"
   tab: "loot"
 ---
-Von Krol'dok Stronghold ist noch keine Beute bekannt. Der Dungeon öffnet oberhalb von Stufe 30, war also nicht in der Beta. Die Spieldaten haben zwar ein Itemset Krol'dok Battlegear, aber die Teile und wo sie droppen, sind noch nicht bekannt. Diese Seite füllt sich, sobald Spieler ihn nach dem Launch am 4. November laufen.
+Von Krol'dok Stronghold ist noch keine Beute bekannt. Die Spieldaten haben zwar ein Itemset Krol'dok Battlegear, aber die Teile und wo sie droppen, sind noch nicht bekannt. Diese Seite füllt sich, sobald Spieler ihn laufen.

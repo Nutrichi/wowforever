@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Mistsaber in WoW Forever?"
-    a: "Lelanai la vende a Darnassus per 1000 d'oro. Il mercante è amichevole con l'Alleanza. Cavalcarla richiede Tiger Riding."
+    a: "Lelanai la vende a Darnassus per 1000 d'oro. Il mercante è amichevole con l'Alleanza. La prima cavalcatura è gratis: la missione Frostsaber Replacement, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
   - q: "Swift Mistsaber è nuova in WoW Forever?"
     a: "No. Swift Mistsaber c'era già in Classic e torna in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Mistsaber è una cavalcatura di Classic che torna in World of Warcraft: Fo
 | Cavalcare | Tiger Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> la vende a Darnassus per 1000 d'oro. Il mercante è amichevole con l'Alleanza.
 
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7671">Frostsaber Replacement</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+
 Cavalcarla richiede Tiger Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature di Lelanai
 

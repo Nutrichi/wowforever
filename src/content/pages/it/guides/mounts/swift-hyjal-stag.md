@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Hyjal Stag in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno."
+    a: "I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno."
   - q: "Swift Hyjal Stag è nuova in WoW Forever?"
     a: "Sì. Swift Hyjal Stag è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -27,6 +27,6 @@ Swift Hyjal Stag è una cavalcatura nuova in World of Warcraft: Forever.
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno.
 
 Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

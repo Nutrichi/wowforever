@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Zulian Tiger in WoW Forever?"
-    a: "La lasciano diversi mostri. Questi hanno la probabilità migliore sulla beta:  High Priest Thekal a Zul'Gurub, circa 0,9% Hakkar a Zul'Gurub, circa 0,4% Cavalcarla richiede Journeyman Riding."
+    a: "La lasciano diversi mostri. Questi hanno la probabilità migliore:  High Priest Thekal a Zul'Gurub, circa 0,9% Hakkar a Zul'Gurub, circa 0,4% Cavalcarla richiede Journeyman Riding."
   - q: "Swift Zulian Tiger è nuova in WoW Forever?"
     a: "No. Swift Zulian Tiger c'era già in Classic e torna in WoW Forever."
 sources:
@@ -34,11 +34,11 @@ Swift Zulian Tiger è una cavalcatura di Classic che torna in World of Warcraft:
 | Cavalcare | Journeyman Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
-La lasciano diversi mostri. Questi hanno la probabilità migliore sulla beta:
+La lasciano diversi mostri. Questi hanno la probabilità migliore:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14509">High Priest Thekal</a> a Zul'Gurub, circa 0,9%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14834">Hakkar</a> a Zul'Gurub, circa 0,4%
@@ -49,14 +49,17 @@ Il gioco nasconde questa cavalcatura nella collezione finché un personaggio non
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature con Journeyman Riding
 
 - [Cerulean Prideclaw](/it/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/it/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/it/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/it/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/it/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/it/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/it/guides/mounts/swift-razzashi-raptor/)
+- [Verdant Sea Turtle](/it/guides/mounts/verdant-sea-turtle/)
 
 Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

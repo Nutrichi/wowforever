@@ -1,14 +1,14 @@
 ---
 title: "Condor Hatchling: come ottenere la mascotte in WoW Forever"
 metaTitle: "Come ottenere Condor Hatchling in WoW Forever"
-description: "Condor Hatchling è una mascotte da compagnia nuova in World of Warcraft: Forever."
+description: "Condor Hatchling è una mascotte da compagnia nuova in World of Warcraft: Forever. La lascia cadere Lord Condar a Loch Modan."
 short: "Condor Hatchling"
 updated: 2026-09-30
 lang: it
 manual: true
 faq:
   - q: "Come si ottiene Condor Hatchling in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa mascotte, ma da dove venga non è ancora noto. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno."
+    a: "La lascia cadere Lord Condar a Loch Modan. Nei dati di bottino cade in circa il 1,4% delle uccisioni."
   - q: "Condor Hatchling è nuova in WoW Forever?"
     a: "Sì. Condor Hatchling è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -26,13 +26,15 @@ Condor Hatchling è una mascotte da compagnia nuova in World of Warcraft: Foreve
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282637"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shaking Egg</a> |
-| Fonte | Non ancora noto |
+| Fonte | Bottino: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> |
+| Dove | Loch Modan |
+| Probabilità | 1,4% |
 | Nuova in Forever | sì |
 | Per tutto l'account | sì, secondo i dati del gioco |
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa mascotte, ma da dove venga non è ancora noto. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+La lascia cadere <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14268">Lord Condar</a> a Loch Modan. Nei dati di bottino cade in circa il 1,4% delle uccisioni.
 
 ## Da sapere
 
@@ -40,13 +42,13 @@ I dati del gioco segnano la mascotte come valida per tutto l'account: imparata u
 
 ## Altre mascotte dalla stessa fonte
 
-- [Albino Snapjaw](/it/guides/pets/albino-snapjaw/)
-- [Azure Whelpling](/it/guides/pets/azure-whelpling/)
-- [Baby Shark](/it/guides/pets/baby-shark/)
-- [Bronze Whelpling](/it/guides/pets/bronze-whelpling/)
-- [Corrupted Kitten](/it/guides/pets/corrupted-kitten/)
-- [Disgusting Oozeling](/it/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/it/guides/pets/father-winters-helper/)
-- [Festival Lantern](/it/guides/pets/festival-lantern/)
+- [Baby Crocolisk](/it/guides/pets/baby-crocolisk/)
+- [Black Tabby](/it/guides/pets/black-tabby/)
+- [Crimson Whelpling](/it/guides/pets/crimson-whelpling/)
+- [Dark Whelpling](/it/guides/pets/dark-whelpling/)
+- [Emerald Whelpling](/it/guides/pets/emerald-whelpling/)
+- [Green Wing Macaw](/it/guides/pets/green-wing-macaw/)
+- [Hyacinth Macaw](/it/guides/pets/hyacinth-macaw/)
+- [Siamese](/it/guides/pets/siamese/)
 
 Ogni mascotte di WoW Forever, con la sua provenienza, è nella [guida alle mascotte](/it/guides/pets/).

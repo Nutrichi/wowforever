@@ -33,7 +33,7 @@ Green Skeletal Warhorse is a mount from Classic that returns in World of Warcraf
 | Riding | Undead Horsemanship |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
@@ -43,7 +43,7 @@ Riding it needs Undead Horsemanship.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Zachariah Post
 

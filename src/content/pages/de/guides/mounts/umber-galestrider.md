@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Umber Galestrider in WoW Forever?"
-    a: "Genn Fairweather verkauft es in Zephras Isle für 20 Gold. Zum Reiten braucht es Galestrider Riding."
+    a: "Genn Fairweather verkauft es in Zephras Isle für 20 Gold. Dein erstes Reittier ist gratis: Die Quest Your First Riding Galestrider, ab Stufe 40 für beide Fraktionen, lässt dich dieses auswählen."
   - q: "Ist Umber Galestrider neu in WoW Forever?"
     a: "Ja. Umber Galestrider ist neu in WoW Forever und war nicht in Classic."
 sources:
@@ -34,11 +34,13 @@ Umber Galestrider ist ein Reittier, das neu in World of Warcraft: Forever ist. E
 | Reiten | Galestrider Riding |
 | Tempo | normal |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a> verkauft es in Zephras Isle für 20 Gold.
+
+Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=96996">Your First Riding Galestrider</a>, ab Stufe 40 für beide Fraktionen, lässt dich dieses auswählen.
 
 Zum Reiten braucht es Galestrider Riding.
 

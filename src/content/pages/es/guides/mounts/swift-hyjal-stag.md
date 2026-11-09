@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Swift Hyjal Stag en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren."
+    a: "Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren."
   - q: "¿Es Swift Hyjal Stag nueva en WoW Forever?"
     a: "Sí. Swift Hyjal Stag es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -27,6 +27,6 @@ Swift Hyjal Stag es una montura nueva en World of Warcraft: Forever.
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 Todas las monturas de WoW Forever, con su origen, están en la [guía de monturas](/es/guides/mounts/).

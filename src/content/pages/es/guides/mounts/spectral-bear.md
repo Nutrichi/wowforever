@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Spectral Bear en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. Montarla requiere Journeyman Riding."
+    a: "Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren. Montarla requiere Journeyman Riding."
   - q: "¿Es Spectral Bear nueva en WoW Forever?"
     a: "Sí. Spectral Bear es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -32,20 +32,23 @@ Spectral Bear es una montura nueva en World of Warcraft: Forever. Es una montura
 | Equitación | Journeyman Riding |
 | Velocidad | normal |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 Montarla requiere Journeyman Riding.
 
 ## Más monturas con Journeyman Riding
 
 - [Cerulean Prideclaw](/es/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/es/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/es/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/es/guides/mounts/rivendares-deathcharger/)
+- [Spectral Wolf Pack](/es/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/es/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/es/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/es/guides/mounts/verdant-sea-turtle/)
 
 Todas las monturas de WoW Forever, con su origen, están en la [guía de monturas](/es/guides/mounts/).

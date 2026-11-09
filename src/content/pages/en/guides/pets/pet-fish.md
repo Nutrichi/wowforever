@@ -1,13 +1,13 @@
 ---
 title: "Pet Fish: how to get the pet in WoW Forever"
 metaTitle: "How to get Pet Fish in WoW Forever"
-description: "Pet Fish is a companion pet from Classic that returns in World of Warcraft: Forever. It drops from Dreamwater Vicejaw in The Hinterlands."
+description: "Pet Fish is a companion pet from Classic that returns in World of Warcraft: Forever."
 short: "Pet Fish"
 updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Pet Fish in WoW Forever?"
-    a: "It drops from Dreamwater Vicejaw in The Hinterlands. In the loot data it drops in about 0.1% of kills."
+    a: "The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it."
   - q: "Is Pet Fish new in WoW Forever?"
     a: "No. Pet Fish was already in Classic and returns in WoW Forever."
 sources:
@@ -25,15 +25,13 @@ Pet Fish is a companion pet from Classic that returns in World of Warcraft: Fore
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13342"><img class="wf-wh__icon" src="/wh/inv_misc_fish_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Fish</a> |
-| Source | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> |
-| Where | The Hinterlands |
-| Drop chance | 0.1% |
+| Source | Not known yet |
 | New in Forever | no, from Classic |
 | Account-wide | yes, in the game data |
 
 ## How to get it
 
-It drops from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221328">Dreamwater Vicejaw</a> in The Hinterlands. In the loot data it drops in about 0.1% of kills.
+The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 ## What changed since Classic
 
@@ -43,13 +41,13 @@ The game data marks the pet as account-wide: learned once, it would be there for
 
 ## More pets from the same source
 
-- [Baby Crocolisk](/guides/pets/baby-crocolisk/)
-- [Black Tabby](/guides/pets/black-tabby/)
-- [Crimson Whelpling](/guides/pets/crimson-whelpling/)
-- [Dark Whelpling](/guides/pets/dark-whelpling/)
-- [Emerald Whelpling](/guides/pets/emerald-whelpling/)
-- [Green Wing Macaw](/guides/pets/green-wing-macaw/)
-- [Hyacinth Macaw](/guides/pets/hyacinth-macaw/)
-- [Pet Stone](/guides/pets/pet-stone/)
+- [Albino Snapjaw](/guides/pets/albino-snapjaw/)
+- [Azure Whelpling](/guides/pets/azure-whelpling/)
+- [Azurky](/guides/pets/azurky/)
+- [Baby Shark](/guides/pets/baby-shark/)
+- [Blossoming Ancient](/guides/pets/blossoming-ancient/)
+- [Bronze Whelpling](/guides/pets/bronze-whelpling/)
+- [Corrupted Kitten](/guides/pets/corrupted-kitten/)
+- [Disgusting Oozeling](/guides/pets/disgusting-oozeling/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

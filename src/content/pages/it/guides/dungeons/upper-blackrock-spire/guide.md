@@ -13,7 +13,7 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "guide"
 ---
-Blackrock Spire era chiuso in beta, che si fermava al livello 30. Questa guida segue il dungeon com’era in Classic, dove Upper Blackrock Spire era un dungeon per 10 giocatori. Se Forever mantiene questa dimensione e se il dungeon cambia, Blizzard non l’ha detto.
+Questa guida segue il dungeon com’era in Classic, dove Upper Blackrock Spire era un dungeon per 10 giocatori. Se Forever mantiene questa dimensione e se il dungeon cambia, Blizzard non l’ha detto.
 
 ## Come arrivarci
 
@@ -63,4 +63,4 @@ Il combattimento più duro del dungeon. Ogni tank prende una Chromatic Elite Gua
 - **Le ricompense** delle dodici missioni nei dati di Forever.
 - **Il bottino**: 37 dei 40 oggetti di Classic non sono ancora nei dati di Forever.
 - **La dimensione del gruppo**: 10 giocatori in Classic; Blizzard non ha detto cosa fa Forever.
-- **Le modifiche per Forever**: il dungeon era chiuso in beta. In Classic Lord Valthalak veniva evocato nella Furnace per le missioni del Tier 0.5; non si sa se quelle missioni esistano in Forever.
+- **Le modifiche per Forever**: non ancora note. Questa pagina verrà aggiornata appena i giocatori le scopriranno. In Classic Lord Valthalak veniva evocato nella Furnace per le missioni del Tier 0.5; non si sa se quelle missioni esistano in Forever.

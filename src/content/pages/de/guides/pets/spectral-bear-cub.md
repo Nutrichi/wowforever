@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Spectral Bear Cub in WoW Forever?"
-    a: "Es ist eine Belohnung auf der Legacy-Leiste von WoW Forever. Die Summe der verdienten Legacy-Punkte schaltet kosmetische Belohnungen bei 15, 25, 40 und 55 Punkten frei; das Spectral Bear Cub kommt laut dem Text in den Dateien der Beta bei 25. Punkte für Perks auszugeben, bremst die Leiste nicht."
+    a: "Es ist eine Belohnung auf der Legacy-Leiste von WoW Forever. Die Summe der verdienten Legacy-Punkte schaltet kosmetische Belohnungen bei 15, 25, 40 und 55 Punkten frei; das Spectral Bear Cub kommt laut dem Text in den Spieldateien bei 25. Punkte für Perks auszugeben, bremst die Leiste nicht."
   - q: "Ist Spectral Bear Cub neu in WoW Forever?"
     a: "Ja. Spectral Bear Cub ist neu in WoW Forever und gab es in Classic nicht."
 sources:
@@ -32,11 +32,11 @@ Spectral Bear Cub ist ein Haustier, das neu in World of Warcraft: Forever ist. D
 
 ## So bekommst du es
 
-Es ist eine Belohnung auf der Legacy-Leiste von WoW Forever. Die Summe der verdienten Legacy-Punkte schaltet kosmetische Belohnungen bei 15, 25, 40 und 55 Punkten frei; das Spectral Bear Cub kommt laut dem Text in den Dateien der Beta bei 25. Punkte für Perks auszugeben, bremst die Leiste nicht. Jede Herausforderung ist einen Punkt wert. Mehr zu Legacy auf der [Seite zu WoW Forever](/de/forever/).
+Es ist eine Belohnung auf der Legacy-Leiste von WoW Forever. Die Summe der verdienten Legacy-Punkte schaltet kosmetische Belohnungen bei 15, 25, 40 und 55 Punkten frei; das Spectral Bear Cub kommt laut dem Text in den Spieldateien bei 25. Punkte für Perks auszugeben, bremst die Leiste nicht. Jede Herausforderung ist einen Punkt wert. Mehr zu Legacy auf der [Seite zu WoW Forever](/de/forever/).
 
 ## Gut zu wissen
 
-Der Tooltip in der Beta zeigt noch Platzhaltertext ([DNT] 1), das Haustier ist also noch nicht fertig.
+Der Tooltip zeigt noch Platzhaltertext ([DNT] 1), das Haustier ist also noch nicht fertig.
 
 Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es für jeden Charakter da. Blizzard hat das nicht bestätigt.
 

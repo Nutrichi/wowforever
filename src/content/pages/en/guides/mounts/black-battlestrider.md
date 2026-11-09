@@ -34,7 +34,7 @@ Black Battlestrider is a mount from Classic that returns in World of Warcraft: F
 | Speed | very fast |
 | Requires | Commander / Lieutenant General (Rank 11) |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
@@ -46,7 +46,7 @@ Riding it needs Mechanostrider Piloting.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Lieutenant Karter
 

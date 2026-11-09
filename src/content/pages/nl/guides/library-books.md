@@ -14,7 +14,7 @@ faq:
   - q: "Wat zijn de beloningen voor bibliotheekboeken?"
     a: "Bij 10 boeken een ketting, bij 20 boeken een ring vanaf level 20, en bij 25 boeken een boog, schild of off-hand vanaf level 30, die level 40 vraagt om te dragen."
   - q: "Kun je een bibliotheekboek opnieuw looten?"
-    a: "Nee. Een boek dat je weggooit, kun je niet opnieuw looten, zoals het nu op de beta staat."
+    a: "Nee. Een boek dat je weggooit, kun je niet opnieuw looten, zoals het op de beta was."
 sources:
   - name: "Method"
     url: "https://www.method.gg/wow-forever/wow-forever-all-library-books-locations-and-rewards"
@@ -45,7 +45,7 @@ De Alliance gaat naar de Mage Tower in de Mage Quarter van Stormwind, de Horde n
 
 ![De bibliothecaris Garion Wendell in Stormwind met het venster om een boek in te leveren, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 
-**Let op:** een boek dat je weggooit, kun je niet opnieuw looten, zoals het nu op de beta staat.
+**Let op:** een boek dat je weggooit, kun je niet opnieuw looten, zoals het op de beta was.
 
 ## Eastern Kingdoms, level 1 tot 20 (9 boeken)
 
@@ -125,7 +125,7 @@ Secrets of the Dreamers ligt in de grot met de ingang van Wailing Caverns. Gebru
 | Desolace | Demons and You | 55.1 26.2 | Thunder Axe Fortress, het grote gebouw in de binnenste ring |
 | Badlands | Mummies: A Guide to the Unsavory Undead | 56.7 39.7 | Crypte boven het kamp met de twee dwergen, naast twee lijken |
 
-Deze boeken liggen in zones van level 30 tot 45. Op de beta, die stopt op level 30, liggen sommige bij sterkere monsters.
+Deze boeken liggen in zones van level 30 tot 45. Sommige liggen bij sterkere monsters.
 
 <div class="wf-shots">
 

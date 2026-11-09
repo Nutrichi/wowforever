@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift Yellow Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt. Zum Reiten braucht es Mechanostrider Piloting."
+    a: "Milli Featherwhistle verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Icy Blue Mechanostrider Replacement, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen."
   - q: "Ist Swift Yellow Mechanostrider neu in WoW Forever?"
     a: "Nein. Swift Yellow Mechanostrider gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -34,17 +34,19 @@ Swift Yellow Mechanostrider ist ein Reittier aus Classic, das in World of Warcra
 | Reiten | Mechanostrider Piloting |
 | Tempo | sehr schnell |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
+Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=7675">Icy Blue Mechanostrider Replacement</a>, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen.
+
 Zum Reiten braucht es Mechanostrider Piloting.
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere von Milli Featherwhistle
 

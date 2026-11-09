@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Swift Zulian Tiger dans WoW Forever ?"
-    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont la meilleure chance sur la bêta :  High Priest Thekal à Zul'Gurub, environ 0,9 % Hakkar à Zul'Gurub, environ 0,4 % La monter demande Journeyman Riding."
+    a: "Elle tombe sur plusieurs monstres. Ceux-ci ont la meilleure chance :  High Priest Thekal à Zul'Gurub, environ 0,9 % Hakkar à Zul'Gurub, environ 0,4 % La monter demande Journeyman Riding."
   - q: "Swift Zulian Tiger est-elle nouvelle dans WoW Forever ?"
     a: "Non. Swift Zulian Tiger existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -34,11 +34,11 @@ Swift Zulian Tiger est une monture de Classic qui revient dans World of Warcraft
 | Monte | Journeyman Riding |
 | Vitesse | très rapide |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Elle tombe sur plusieurs monstres. Ceux-ci ont la meilleure chance sur la bêta :
+Elle tombe sur plusieurs monstres. Ceux-ci ont la meilleure chance :
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14509">High Priest Thekal</a> à Zul'Gurub, environ 0,9 %
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14834">Hakkar</a> à Zul'Gurub, environ 0,4 %
@@ -49,14 +49,17 @@ Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas a
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 ## D'autres montures avec Journeyman Riding
 
 - [Cerulean Prideclaw](/fr/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/fr/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/fr/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/fr/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/fr/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/fr/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/fr/guides/mounts/swift-razzashi-raptor/)
+- [Verdant Sea Turtle](/fr/guides/mounts/verdant-sea-turtle/)
 
 Chaque monture de WoW Forever, avec son origine, se trouve dans le [guide des montures](/fr/guides/mounts/).

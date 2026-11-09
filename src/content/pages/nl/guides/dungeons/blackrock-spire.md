@@ -45,4 +45,4 @@ Buit, quests en de route staan in de gids over [Upper Blackrock Spire](/nl/guide
 
 ## Wat nog niet bekend is
 
-Blackrock Spire was dicht op de beta, die bij level 30 stopte, dus deze pagina's volgen de dungeon zoals hij in Classic was. Of Upper Blackrock Spire een dungeon voor 10 spelers blijft, en wat er nog verandert, heeft Blizzard niet gezegd. Alle dungeons staan in het [dungeonoverzicht](/nl/guides/dungeons/).
+Deze pagina's volgen Blackrock Spire zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of Upper Blackrock Spire een dungeon voor 10 spelers blijft, en wat er nog verandert, heeft Blizzard niet gezegd. Alle dungeons staan in het [dungeonoverzicht](/nl/guides/dungeons/).

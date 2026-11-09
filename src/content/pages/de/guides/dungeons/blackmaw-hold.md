@@ -14,7 +14,7 @@ faq:
   - q: "Wie groß ist Blackmaw Hold?"
     a: "Etwas größer als Blackrock Depths, sagen die Entwickler. Anders als Blackrock Depths soll eine Gruppe ihn in einer Sitzung von Anfang bis Ende schaffen."
   - q: "Was droppt Blackmaw Hold?"
-    a: "Noch nicht bekannt. Der Dungeon öffnet über Level 30, war also nicht in der Beta."
+    a: "Noch nicht bekannt."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/blackmaw-hold/"
@@ -22,4 +22,4 @@ dungeon:
   slug: "blackmaw-hold"
   tab: "loot"
 ---
-Von Blackmaw Hold ist noch keine Beute bekannt. Der Dungeon öffnet über Level 30, war also nicht in der Beta. Die Spieldaten haben aber ein paar Blackmaw-Gegenstände, die auf dem [Quest-Tab](/de/guides/dungeons/blackmaw-hold/quests/) stehen. Diese Seite füllt sich, sobald Spieler ihn nach dem Launch am 4. November laufen.
+Von Blackmaw Hold ist noch keine Beute bekannt. Die Spieldaten haben aber ein paar Blackmaw-Gegenstände, die auf dem [Quest-Tab](/de/guides/dungeons/blackmaw-hold/quests/) stehen. Diese Seite füllt sich, sobald Spieler ihn laufen.

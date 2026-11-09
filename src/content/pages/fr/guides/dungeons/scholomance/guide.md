@@ -13,7 +13,7 @@ dungeon:
   slug: "scholomance"
   tab: "guide"
 ---
-Scholomance était fermé pendant la bêta, qui s'arrêtait au niveau 30. Ce guide suit le donjon tel qu'il était dans Classic, avec les niveaux des boss des données de Forever. Blizzard ne dit pas si le donjon change pour Forever. La carte de Blizzard montre la version venue plus tard, cette page n'en a donc pas.
+Ce guide suit le donjon tel qu'il était dans Classic, avec les niveaux des boss des données de Forever. Blizzard ne dit pas si le donjon change pour Forever. La carte de Blizzard montre la version venue plus tard, cette page n'en a donc pas.
 
 ## L’accès
 
@@ -72,4 +72,4 @@ Il apparaît quand les six sont morts, et attaque aussitôt. Il téléporte des 
 
 - **Les récompenses** des dix quêtes dans les données de Forever.
 - **Le butin** : 52 des 71 objets de Classic ne sont pas encore dans les données de Forever.
-- **Les changements pour Forever** : le donjon était fermé pendant la bêta. Dans Classic, Kormok était invoqué ici pour les quêtes du Tier 0.5 ; on ne sait pas si cette invocation existe dans Forever.
+- **Les changements pour Forever** : pas encore connus. Dans Classic, Kormok était invoqué ici pour les quêtes du Tier 0.5 ; on ne sait pas si cette invocation existe dans Forever.

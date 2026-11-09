@@ -13,8 +13,6 @@ faq:
     a: "Par les deux portes du mur ouest de la cour centrale de Dire Maul. Un joueur du groupe a besoin de la Crescent Key, que Pusillin laisse tomber dans Dire Maul East."
   - q: "Comment atteindre Immol'thar ?"
     a: "Cinq pylônes alimentent le champ de force autour de sa prison. Tuez les Arcane Aberrations et les Mana Remnants autour de chaque pylône pour l’éteindre."
-  - q: "Pouvait-on faire Dire Maul sur la bêta ?"
-    a: "Non. La bêta allait jusqu’au niveau 30, donc Dire Maul était fermé. Tout sur ces pages vient des données de Forever et de Classic, et peut encore changer."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/dire-maul-west/"

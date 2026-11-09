@@ -13,7 +13,7 @@ dungeon:
   slug: "zul-farrak"
   tab: "guide"
 ---
-Zul'Farrak was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
 
 ## De weg erheen
 
@@ -82,4 +82,4 @@ Hij wacht achter de opgeblazen deur met <a class="wf-wh wf-plain" href="https://
 
 - **De beloningen** van de acht quests in de data van Forever.
 - **Vier items** van de loot van Classic die nog niet in de data van Forever staan.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden.

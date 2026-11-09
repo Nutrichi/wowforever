@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Rivendare's Deathcharger in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Zum Reiten braucht es Journeyman Riding."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden. Zum Reiten braucht es Journeyman Riding."
   - q: "Ist Rivendare's Deathcharger neu in WoW Forever?"
     a: "Nein. Rivendare's Deathcharger gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -32,24 +32,27 @@ Rivendare's Deathcharger ist ein Reittier aus Classic, das in World of Warcraft:
 | Reiten | Journeyman Riding |
 | Tempo | sehr schnell |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 Zum Reiten braucht es Journeyman Riding.
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere mit Journeyman Riding
 
 - [Cerulean Prideclaw](/de/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/de/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/de/guides/mounts/pack-kodo/)
 - [Spectral Bear](/de/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/de/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/de/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/de/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/de/guides/mounts/verdant-sea-turtle/)
 
 Jedes Reittier von WoW Forever, mit seiner Herkunft, steht im [Reittier-Guide](/de/guides/mounts/).

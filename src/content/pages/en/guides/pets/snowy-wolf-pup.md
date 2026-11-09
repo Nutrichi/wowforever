@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Snowy Wolf Pup in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this pet, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it."
+    a: "The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it."
   - q: "Is Snowy Wolf Pup new in WoW Forever?"
     a: "Yes. Snowy Wolf Pup is new in WoW Forever and was not in Classic."
 sources:
@@ -31,9 +31,7 @@ Snowy Wolf Pup is a companion pet that is new in World of Warcraft: Forever. You
 
 ## How to get it
 
-The files of the WoW Forever beta hold this pet, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
-
-The tooltip on the beta still says it summons "your chicken", text copied from another pet, so this pet is not finished yet.
+The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 ## Good to know
 
@@ -43,11 +41,11 @@ The game data marks the pet as account-wide: learned once, it would be there for
 
 - [Albino Snapjaw](/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/guides/pets/azure-whelpling/)
+- [Azurky](/guides/pets/azurky/)
 - [Baby Shark](/guides/pets/baby-shark/)
+- [Blossoming Ancient](/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/guides/pets/father-winters-helper/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

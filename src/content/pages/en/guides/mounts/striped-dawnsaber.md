@@ -1,13 +1,13 @@
 ---
 title: "Striped Dawnsaber: how to get the mount in WoW Forever"
 metaTitle: "How to get the Striped Dawnsaber mount in WoW Forever"
-description: "Striped Dawnsaber is a mount that is new in World of Warcraft: Forever. Source: Not known yet."
+description: "Striped Dawnsaber is a mount that is new in World of Warcraft: Forever. Source: Quest: Your First Feline Friend."
 short: "Striped Dawnsaber"
 updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Striped Dawnsaber in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it. Riding it needs Tiger Riding."
+    a: "It is the reward of the quest Your First Feline Friend, from level 40, for the Alliance. Riding it needs Tiger Riding."
   - q: "Is Striped Dawnsaber new in WoW Forever?"
     a: "Yes. Striped Dawnsaber is new in WoW Forever and was not in Classic."
 sources:
@@ -26,16 +26,16 @@ Striped Dawnsaber is a mount that is new in World of Warcraft: Forever. It is a 
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274706"><img class="wf-wh__icon" src="/wh/ability_mount_jungletiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Striped Dawnsaber</a> |
-| Source | Not known yet |
+| Source | Quest: <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a> |
 | Level | 40 |
 | Riding | Tiger Riding |
 | Speed | normal |
 | New in Forever | yes |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
-The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+It is the reward of the quest <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, from level 40, for the Alliance.
 
 Riding it needs Tiger Riding.
 

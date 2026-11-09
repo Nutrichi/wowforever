@@ -8,7 +8,7 @@ lang: de
 manual: true
 faq:
   - q: "Welche Spezialisierung ist am besten zum Leveln eines Mage in WoW Forever?"
-    a: "Frost. Ice Lance und Fingers of Frost geben Frost die schnellsten Kills in der Beta, dazu die Verlangsamungen und Einfrierungen, die es schon immer sicher gemacht haben. Fire und Arcane funktionieren auch, hängen aber stärker von Ausrüstung, Krit oder Procs ab."
+    a: "Frost. Ice Lance und Fingers of Frost gaben Frost die schnellsten Kills in der Beta, dazu die Verlangsamungen und Einfrierungen, die es schon immer sicher gemacht haben. Fire und Arcane funktionieren auch, hängen aber stärker von Ausrüstung, Krit oder Procs ab."
   - q: "Warum ist Ice Lance so stark?"
     a: "Ice Lance ist sofort und verursacht 200 % mehr Schaden an einem Frozen-Ziel. Frostbite und Frost Nova frieren das Ziel ein, und Fingers of Frost behandelt deine nächsten zwei Zauber so, als wäre das Ziel Frozen. Mit Shatter und Ice Shards kritten diese Zauber enorm."
   - q: "Wann bekomme ich Ice Lance?"

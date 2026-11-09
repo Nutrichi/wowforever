@@ -13,7 +13,7 @@ dungeon:
   slug: "blackrock-depths"
   tab: "guide"
 ---
-Blackrock Depths estaba cerrada en la beta, que se quedaba en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever. Una limpieza completa lleva horas, así que la mayoría de grupos elige una parte.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever. Una limpieza completa lleva horas, así que la mayoría de grupos elige una parte.
 
 ## Cómo llegar
 
@@ -106,4 +106,4 @@ Princess Moira Bronzebeard lo cura. Mátala, o entretenla e interrumpe sus curac
 
 - **Las recompensas** de las veintidós misiones en los datos de Forever.
 - **El botín**: 74 de los 103 objetos de Classic aún no están en los datos de Forever.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren.

@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-undead"
   tab: "guide"
 ---
-Stratholme was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, zegt Blizzard niet.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, zegt Blizzard niet.
 
 Stratholme is één instance met twee kanten. De undead kant is van de Scourge van Baron Rivendare, de [levende kant](/nl/guides/dungeons/stratholme-living/) van de Scarlet Crusade.
 
@@ -74,4 +74,4 @@ Ga samen naar binnen: de deur gaat dicht. De tank neemt hem mee naar achteren re
 
 - **De beloningen** van de acht quests in de data van Forever.
 - **De loot**: 35 van de 53 items uit Classic staan nog niet in de data van Forever, en de drop van Deathcharger's Reins is niet bekend.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta. Achter een poort op Slaughter Square was in Classic een gesloten portaal naar Naxxramas te zien; wat Forever daarmee doet, is niet bekend.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden. Achter een poort op Slaughter Square was in Classic een gesloten portaal naar Naxxramas te zien; wat Forever daarmee doet, is niet bekend.

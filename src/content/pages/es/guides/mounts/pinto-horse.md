@@ -34,7 +34,7 @@ Pinto Horse es una montura de Classic que vuelve en World of Warcraft: Forever. 
 | Equitación | Horse Riding |
 | Velocidad | normal |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
@@ -44,11 +44,13 @@ Pinto Horse es una montura de Classic que vuelve en World of Warcraft: Forever. 
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vende en Hillsbrad Foothills por 40 de oro. El vendedor es amistoso con la Alianza.
 
+Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=97045">Your First Horse</a>, desde el nivel 40 para la Alianza, te deja elegir esta.
+
 Montarla requiere Horse Riding.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas de Katie Hunter
 

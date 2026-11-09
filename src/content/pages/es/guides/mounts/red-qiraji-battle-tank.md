@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Red Qiraji Battle Tank en WoW Forever?"
-    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en la beta:  Qiraji Warlord en Ahn'Qiraj, alrededor del 3,1% Qiraji Champion en Ahn'Qiraj, alrededor del 2,6% Anubisath Defender en Ahn'Qiraj, alrededor del 2,6% Qiraji Slayer en Ahn'Qiraj, alrededor del 2,3% Qiraji Mindslayer en Ahn'Qiraj, alrededor del 2,2% Qiraji Slayer en Ahn'Qiraj, alrededor del -0,0%"
+    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad:  Qiraji Warlord en Ahn'Qiraj, alrededor del 3,1% Qiraji Champion en Ahn'Qiraj, alrededor del 2,6% Anubisath Defender en Ahn'Qiraj, alrededor del 2,6% Qiraji Slayer en Ahn'Qiraj, alrededor del 2,3% Qiraji Mindslayer en Ahn'Qiraj, alrededor del 2,2% Qiraji Slayer en Ahn'Qiraj, alrededor del -0,0%"
   - q: "¿Es Red Qiraji Battle Tank nueva en WoW Forever?"
     a: "No. Red Qiraji Battle Tank ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -33,11 +33,11 @@ Red Qiraji Battle Tank es una montura de Classic que vuelve en World of Warcraft
 | Nivel | 60 |
 | Velocidad | normal |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-La sueltan varios monstruos. Estos tienen la mejor probabilidad en la beta:
+La sueltan varios monstruos. Estos tienen la mejor probabilidad:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234814">Qiraji Warlord</a> en Ahn'Qiraj, alrededor del 3,1%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234798">Qiraji Champion</a> en Ahn'Qiraj, alrededor del 2,6%
@@ -48,6 +48,6 @@ La sueltan varios monstruos. Estos tienen la mejor probabilidad en la beta:
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 Todas las monturas de WoW Forever, con su origen, están en la [guía de monturas](/es/guides/mounts/).

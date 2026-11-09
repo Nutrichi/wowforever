@@ -1,6 +1,6 @@
 ---
 title: "World of Warcraft: Forever"
-metaTitle: "WoW Forever: fecha de lanzamiento, beta, hoja de ruta, Skyborne y ediciones"
+metaTitle: "WoW Forever: lanzamiento, raids, hoja de ruta, Skyborne y ediciones"
 description: "Todo lo que Blizzard ha anunciado sobre World of Warcraft: Forever: las fechas, la hoja de ruta, las nuevas zonas, mazmorras y bandas, los Skyborne, el sistema Legacy y las ediciones."
 short: "WoW Forever"
 updated: 2026-11-05
@@ -15,8 +15,8 @@ faq:
     a: "No. Forever está incluido en la suscripción de World of Warcraft o en el Game Time, igual que WoW Classic. Las ediciones de pago son opcionales. El único contenido de pago es la raza Skyborne con Zephras Isle, que requiere el Skyborne Heroic Pack o una edición superior."
   - q: "¿Cuánto cuestan las ediciones?"
     a: "En Europa, el Skyborne Heroic Pack cuesta 29,99 euros, el Skyborne Epic Pack 59,99 euros y la Warcraft Forever Collection 79,99 euros, todos en la Battle.net Shop. La Collector's Edition física cuesta 150 euros en la Blizzard Gear Store."
-  - q: "¿Cómo se entra en la beta?"
-    a: "El Skyborne Epic Pack, la Warcraft Forever Collection y la Collector's Edition dan acceso a la beta. Los jugadores también pueden apuntarse en la página oficial de World of Warcraft: Forever para optar a una invitación. La beta va del 17 de septiembre al 23 de octubre de 2026. Empieza con un tope de nivel 20 y lo sube a 30 más adelante, donde se queda."
+  - q: "¿Sigue habiendo beta?"
+    a: "No. La beta fue del 17 de septiembre al 23 de octubre de 2026, para quienes tenían el Skyborne Epic Pack, la Warcraft Forever Collection o la Collector's Edition y para jugadores invitados. Llegaba hasta el nivel 30. El juego está disponible desde el 5 de noviembre a las 00:00, hora belga."
   - q: "¿Cuánto cuesta la raza Skyborne?"
     a: "La forma más barata es el Skyborne Heroic Pack por 29,99 euros. Incluye también la Early Name Reservation, la montura Cerulean Prideclaw, cosméticos, un juguete, decoración para la vivienda del World of Warcraft moderno y un código de lanzamiento Invite-A-Friend."
   - q: "¿Qué clases pueden jugar los Skyborne?"
@@ -182,7 +182,7 @@ Una región oculta entre Mulgore y Desolace, ligada a los Shen'dralar, los Night
 
 ### El viejo mundo con una nueva luz
 
-El Associate Production Director Clay Stone dijo que el estilo artístico de Classic es atemporal y que no se sustituye. Los efectos existentes mejoran: ríos que fluyen, niebla más natural, luz de luna entre los árboles y entornos renovados. Blizzard mostró Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore y The Barrens. Las zonas originales reciben también misiones y secretos nuevos. Siguen una lluvia y una niebla más intensas: el 23 de septiembre Blizzard mostró un día lluvioso en Elwynn Forest, con efectos que llegarán pronto a la beta.
+El Associate Production Director Clay Stone dijo que el estilo artístico de Classic es atemporal y que no se sustituye. Los efectos existentes mejoran: ríos que fluyen, niebla más natural, luz de luna entre los árboles y entornos renovados. Blizzard mostró Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore y The Barrens. Las zonas originales reciben también misiones y secretos nuevos. Siguen una lluvia y una niebla más intensas: el 23 de septiembre Blizzard mostró un día lluvioso en Elwynn Forest, con efectos que llegaron después a la beta.
 
 ## Subir de nivel y viajar
 
@@ -190,7 +190,7 @@ La curva de experiencia no cambia: un personaje necesita lo mismo para llegar a 
 
 Las mazmorras funcionan de otra manera. La experiencia de los monstruos dentro de una mazmorra baja y la de las misiones de mazmorra sube con fuerza. La primera vuelta renta, repetirla mucho menos. Blizzard quiere jugadores por el mundo en lugar de en la misma mazmorra. Después, las misiones de mazmorra perdieron la mitad de esa experiencia extra, porque los probadores subían demasiado rápido.
 
-En conjunto se equilibra. Del nivel 1 al 20 se tarda de media 20,5 horas en Forever frente a 20,4 en Classic Era, dice Josh Greenfield en el [primer podcast de los desarrolladores](/es/news/a-first-developer-podcast-promises-fewer-blues/). La próxima actualización de la beta también da menos recompensas de misión azules en las mazmorras, para que el paso del blanco al verde y al azul se sienta como en Classic, dice Tim Jones. Qué addon para subir de nivel conviene a cada jugador está en [la comparación de addons para subir de nivel](/es/compare/leveling-addons-forever/).
+En conjunto se equilibra. Del nivel 1 al 20 se tarda de media 20,5 horas en Forever frente a 20,4 en Classic Era, dice Josh Greenfield en el [primer podcast de los desarrolladores](/es/news/a-first-developer-podcast-promises-fewer-blues/). Una actualización de la beta tras el podcast también dio menos recompensas de misión azules en las mazmorras, para que el paso del blanco al verde y al azul se sienta como en Classic, dice Tim Jones. Qué addon para subir de nivel conviene a cada jugador está en [la comparación de addons para subir de nivel](/es/compare/leveling-addons-forever/).
 
 No hay WoW Token ni boost, dijo el Associate Production Director Clay Stone en una entrevista con Destin. El sistema para ponerse al día sigue siendo "jugar al juego". El oro comprado con dinero real cuesta el oro, una suspensión o la cuenta, y el juego mostrará un aviso en cada intercambio con un desconocido, dijo Blizzard el 1 de octubre.
 
@@ -212,7 +212,7 @@ Los tramos de nivel vienen de Blizzard, que publicó la lista completa el 14 de 
 |---|---|---|
 | The Hall of Thanes | 13 a 18 | El Hall ha sido asaltado y la Alliance protege sus antiguos tesoros, que la Horde quizá quiera para sí. Está en Old Ironforge bajo el High Seat, con cuatro jefes y cinco misiones: [la guía](/es/news/the-hall-of-thanes-has-four-bosses-and-five-quests/) y [la guía de la mazmorra](/es/guides/dungeons/hall-of-thanes/). |
 | Ruins of Lordaeron | 15 a 20 | La capital en ruinas sobre la Undercity, todavía llena de Scourge. La Horde lucha por recuperarla, y la Alliance también tiene misiones allí. Seis jefes en cualquier orden: [el recorrido](/es/news/six-bosses-in-any-order-in-the-ruins-of-lordaeron/) y [la guía](/es/guides/dungeons/ruins-of-lordaeron/). |
-| Excavation Site: Wetlands | 24 a 29 | Un lugar titánico sobre Whelgar's Excavation en los Wetlands, en una niebla que parece detenida en el tiempo. Abierta en la beta desde el 1 de octubre. |
+| Excavation Site: Wetlands | 24 a 29 | Un lugar titánico sobre Whelgar's Excavation en los Wetlands, en una niebla que parece detenida en el tiempo. Abrió en la beta el 1 de octubre. |
 | City of Dalaran | 28 a 33 | Una mazmorra urbana. La barrera de después de Warcraft III ha desaparecido, pero el Kirin Tor no controla la ciudad. La Alliance entra por las Dalaran Sewers, la Horde desde fuera con la Dalaran Sewer Key ([más](/es/news/dalaran-opens-on-the-beta-for-the-alliance-only/)). |
 | The Drowned City | 35 a 40 | Ruinas trol surgidas del mar al oeste de Grom'gol, con trols y naga. La entrada está bajo el agua, y durante la partida se forma una tormenta. Jugable en la BlizzCon. |
 | Krol'dok Stronghold | 40 a 45 | Una fortaleza ogra en las Riverglades con talleres y campamentos, desde donde los ogros asaltan a viajeros y pueblos. |
@@ -294,7 +294,7 @@ Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials y 
 
 Subir del 1 al 60 es el corazón de Classic, y el sistema Legacy premia a quien sube más de un personaje. Los Legacy Challenges son objetivos en seis categorías: explorar, subir clases, mejorar tradeskills, lograr rangos de PvP, llevar reputaciones al máximo, y completar mazmorras y bandas.
 
-Cada desafío completado da un Legacy Point. Los puntos se gastan en un árbol Legacy con tres ramas, y cada perk sirve para todos los personajes de la cuenta. La mayoría de los perks son pasivos, algunos se activan, y ninguno da poder de combate. Un personaje de nivel 38 en la BlizzCon tenía 4 puntos para gastar, y varios nodos indicaban «to be added in future patch content». En una próxima semana de la beta, cada probador recibirá 16 puntos Legacy para probar el sistema, hasta el final de la beta.
+Cada desafío completado da un Legacy Point. Los puntos se gastan en un árbol Legacy con tres ramas, y cada perk sirve para todos los personajes de la cuenta. La mayoría de los perks son pasivos, algunos se activan, y ninguno da poder de combate. Un personaje de nivel 38 en la BlizzCon tenía 4 puntos para gastar, y varios nodos indicaban «to be added in future patch content». En una semana posterior de la beta, cada probador recibió 16 puntos Legacy para probar el sistema, hasta el final de la beta.
 
 ### Adventure
 
@@ -377,7 +377,7 @@ La Collector's Edition física cuesta 150 euros en la Blizzard Gear Store. En Au
 - una estatua del Dwarf y su oso de 13 pulgadas, basada en la cinemática original;
 - una alfombrilla de Zephras Isle, láminas, pines de colección y un diario de acompañamiento.
 
-El acceso a la beta de la Collector's Edition llega por correo y solo funciona durante la beta. Algunas compras digitales anteriores pueden dar derecho a saldo de Battle.net si el código de la Collector's Edition se canjea antes del 31 de diciembre de 2027. No todos los productos cuentan, según un artículo de soporte de Blizzard.
+El acceso a la beta de la Collector's Edition llegaba por correo y solo funcionaba durante la beta. Algunas compras digitales anteriores pueden dar derecho a saldo de Battle.net si el código de la Collector's Edition se canjea antes del 31 de diciembre de 2027. No todos los productos cuentan, según un artículo de soporte de Blizzard.
 
 ## Warcraft III Reforged: Forsaken Kingdom
 

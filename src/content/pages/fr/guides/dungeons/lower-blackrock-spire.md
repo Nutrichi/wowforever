@@ -13,8 +13,6 @@ faq:
     a: "En haut de Blackrock Mountain, entre la Searing Gorge et les Burning Steppes. Prenez la porte à côté de la pierre de rencontre de Blackrock Spire et suivez le chemin jusqu’au portail."
   - q: "Comment invoquer Urok Doomhowl ?"
     a: "Avec Omokk's Head et la Roughshod Pike au Tribute Pile, dans la salle des ogres après Mother Smolderweb. Des vagues d’ogres arrivent d’abord ; la quête Urok Doomhowl de Warosh l’explique."
-  - q: "Pouvait-on faire Blackrock Spire sur la bêta ?"
-    a: "Non. La bêta allait jusqu’au niveau 30, donc Blackrock Spire était fermé. Tout sur ces pages vient des données de Forever et de Classic, et peut encore changer."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/lower-blackrock-spire/"

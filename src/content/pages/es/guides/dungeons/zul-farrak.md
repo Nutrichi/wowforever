@@ -13,8 +13,6 @@ faq:
     a: "En la esquina noroeste de Tanaris, en /way 39 20, al noroeste de Gadgetzan."
   - q: "¿Cómo se invoca a Gahz'rilla?"
     a: "Un jugador del grupo necesita el Mallet of Zul'Farrak. Consigue el Sacred Mallet de Qiaga the Keeper en el Altar of Zul de The Hinterlands, úsalo en el altar en lo alto de Jintha'Alor y luego golpea el gong junto al estanque de Zul'Farrak."
-  - q: "¿Se podía jugar Zul'Farrak en la beta?"
-    a: "No. La beta llegaba hasta el nivel 30, así que Zul'Farrak estaba cerrada. Todo lo de estas páginas viene de los datos de Forever y de Classic, y aún puede cambiar."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/zulfarrak/"

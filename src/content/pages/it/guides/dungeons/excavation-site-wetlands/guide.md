@@ -86,5 +86,5 @@ Avviate lo scontro con l’Archival Panel a destra del guardiano inattivo. L’u
 ## Cosa non si sa ancora
 
 - **Dove porta la Bloody Map**, la ricompensa di Open the Maw.
-- **Quando verranno corrette Highland Hides e Prehistoric Prism**: entrambe hanno un bug sulla beta.
+- **Quando verranno corrette Highland Hides e Prehistoric Prism**: entrambe avevano un bug sulla beta; non si sa se ora funzionino.
 - **Le probabilità di drop** del bottino dei boss, tranne la Titan Relic.

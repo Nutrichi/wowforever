@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Riding Kodo en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. El juego oculta esta montura en la colección hasta que un personaje la ha aprendido."
+    a: "Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren. El juego oculta esta montura en la colección hasta que un personaje la ha aprendido."
   - q: "¿Es Riding Kodo nueva en WoW Forever?"
     a: "No. Riding Kodo ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -31,16 +31,16 @@ Riding Kodo es una montura de Classic que vuelve en World of Warcraft: Forever. 
 | Nivel | 40 |
 | Velocidad | normal |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 El juego oculta esta montura en la colección hasta que un personaje la ha aprendido.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 Todas las monturas de WoW Forever, con su origen, están en la [guía de monturas](/es/guides/mounts/).

@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Gray Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner la vende a Orgrimmar per 888 d'oro e 88 d'argento e 88 di rame. Il mercante è amichevole con l'Orda. Cavalcarla richiede Wolf Riding."
+    a: "Ogunaro Wolfrunner la vende a Orgrimmar per 888 d'oro e 88 d'argento e 88 di rame. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Wolf Swapping - Arctic Wolf, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
   - q: "Swift Gray Wolf è nuova in WoW Forever?"
     a: "No. Swift Gray Wolf c'era già in Classic e torna in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Gray Wolf è una cavalcatura di Classic che torna in World of Warcraft: Fo
 | Cavalcare | Wolf Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende a Orgrimmar per 888 d'oro e 88 d'argento e 88 di rame. Il mercante è amichevole con l'Orda.
 
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+
 Cavalcarla richiede Wolf Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature di Ogunaro Wolfrunner
 

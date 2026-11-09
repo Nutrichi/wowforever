@@ -165,5 +165,5 @@ He waits in the Violet Hold. Clear the whole room before the pull, because every
 
 ## What is not known yet
 
-- **Sunreaver's Sanctuary**: on the beta there is no way in yet.
+- **Sunreaver's Sanctuary**: no way in has been found yet.
 - **The drop rates** of the boss loot.

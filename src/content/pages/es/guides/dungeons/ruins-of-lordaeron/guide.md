@@ -98,7 +98,7 @@ El trash pega menos que en Hall of Thanes, pero los grupos están juntos y algun
 
 ## Los seis jefes
 
-Cualquier orden vale. Cada jefe suelta objetos azules; de la beta se conocen tres por jefe.
+Cualquier orden vale. Cada jefe suelta objetos azules; de la beta se conocían tres por jefe.
 
 ### Witherfang
 
@@ -118,7 +118,7 @@ Tanquéalo de espaldas a una pared. También golpea a todos los que están cuerp
 
 ### Viktor the Vile
 
-El jefe que la mayoría de grupos se pierde. Enciende la Kindled Flame en la chimenea de un edificio al suroeste de Lordamere Overlook, junto al cementerio. Siguen cinco oleadas de adds antes de que llegue Viktor. Pega fuerte y tiene el mismo Leech Poison que Witherfang, así que deja que el tanque coja el aggro primero. En la beta, Viktor a veces no aparece.
+El jefe que la mayoría de grupos se pierde. Enciende la Kindled Flame en la chimenea de un edificio al suroeste de Lordamere Overlook, junto al cementerio. Siguen cinco oleadas de adds antes de que llegue Viktor. Pega fuerte y tiene el mismo Leech Poison que Witherfang, así que deja que el tanque coja el aggro primero. En la beta, Viktor a veces no aparecía.
 
 Las oleadas agotan al grupo más que Viktor, así que empieza solo con todo el maná.
 
@@ -153,7 +153,7 @@ Un raro con una pequeña probabilidad de aparecer en el lado oeste de la mazmorr
 ## Lo que aún no se sabe
 
 - Qué jefe cuenta como jefe final. El jefe de nivel 20 no tiene un lugar fijo en el orden; las rutas habituales terminan en Rath'mael.
-- Si Viktor the Vile aparece siempre en el lanzamiento. En la beta no siempre lo hace.
+- Si Viktor the Vile aparece siempre. En la beta no siempre lo hacía.
 - Dónde cae el resto del Rotmender's Raiment, y en qué paso Unending Torment da Slain Baron's Signet.
 - Cuánta experiencia da The Wrath of Rath'mael
 

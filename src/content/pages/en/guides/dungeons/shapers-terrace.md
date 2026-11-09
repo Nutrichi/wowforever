@@ -13,7 +13,7 @@ faq:
   - q: "Do I need the Un'Goro power crystals?"
     a: "Bring them. Blizzard says the power crystals you gather in Un'Goro Crater work on consoles inside the dungeon. What they do there is not known yet."
   - q: "What does Shaper's Terrace drop?"
-    a: "Not known yet. The dungeon opens above level 30, so only the entrance could be seen on the beta."
+    a: "Not known yet."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shapers-terrace/"
@@ -21,4 +21,4 @@ dungeon:
   slug: "shapers-terrace"
   tab: "loot"
 ---
-No loot of Shaper's Terrace is known yet. The dungeon opens above level 30, so only the entrance could be seen on the beta. This page fills up once players run it after the launch on 4 November.
+No loot of Shaper's Terrace is known yet. This page fills up as players run it.

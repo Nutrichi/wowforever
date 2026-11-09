@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How do you get Corrupted Kitten in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this pet, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it."
+    a: "The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it."
   - q: "Is Corrupted Kitten new in WoW Forever?"
     a: "No. Corrupted Kitten was already in Classic and returns in WoW Forever."
 sources:
@@ -31,7 +31,7 @@ Corrupted Kitten is a companion pet from Classic that returns in World of Warcra
 
 ## How to get it
 
-The files of the WoW Forever beta hold this pet, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+The game files of WoW Forever hold this pet, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 ## What changed since Classic
 
@@ -43,11 +43,11 @@ The game data marks the pet as account-wide: learned once, it would be there for
 
 - [Albino Snapjaw](/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/guides/pets/azure-whelpling/)
+- [Azurky](/guides/pets/azurky/)
 - [Baby Shark](/guides/pets/baby-shark/)
+- [Blossoming Ancient](/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/guides/pets/condor-hatchling/)
 - [Disgusting Oozeling](/guides/pets/disgusting-oozeling/)
 - [Father Winter's Helper](/guides/pets/father-winters-helper/)
-- [Festival Lantern](/guides/pets/festival-lantern/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

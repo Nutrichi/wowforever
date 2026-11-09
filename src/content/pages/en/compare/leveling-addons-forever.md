@@ -52,11 +52,11 @@ Journey is new and built for Forever. Levels 1 to 30 are free for everyone and a
 
 ## Joana's Guides
 
-Joana's Guides has helped players level since 2006, starting from the routes of the speedrunner Joana. Joana died in early 2024; TomCat took over the maintenance out of respect and with the support of Joana's family. TomCat's Gaming owns and develops it, and its addon has run in the Forever beta since 21 September with the Classic Era routes. At launch it uses the same routes as Journey; once the Forever routes are stable, the two go their own way. A lifetime Classic Era purchase keeps working in Forever, and content made only for Forever becomes a separate product. How the two are linked is in [Journey and Joana's Guides compared](/compare/journey-vs-joana/).
+Joana's Guides has helped players level since 2006, starting from the routes of the speedrunner Joana. Joana died in early 2024; TomCat took over the maintenance out of respect and with the support of Joana's family. TomCat's Gaming owns and develops it, and its addon ran in the Forever beta from 21 September with the Classic Era routes. At launch it uses the same routes as Journey; once the Forever routes are stable, the two go their own way. A lifetime Classic Era purchase keeps working in Forever, and content made only for Forever becomes a separate product. How the two are linked is in [Journey and Joana's Guides compared](/compare/journey-vs-joana/).
 
 ## Zygor
 
-Zygor updates its 1 to 60 guides for the new zones, the Skyborne start and the new race and class combinations, and adds guides for the nine new dungeons. Its travel system and talent advisor get Forever updates too. Zygor warns that the beta's level cap limits what it can test, so the route may be partly updated at launch and completed afterwards. All of it comes with a Zygor Elite subscription.
+Zygor updates its 1 to 60 guides for the new zones, the Skyborne start and the new race and class combinations, and adds guides for the nine new dungeons. Its travel system and talent advisor get Forever updates too. Before the launch, Zygor warned that the beta's level cap limited what it could test, so the route could be partly updated at launch and completed afterwards. All of it comes with a Zygor Elite subscription.
 
 ## Why a Classic route will not do
 

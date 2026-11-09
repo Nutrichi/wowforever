@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Minfernal en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren."
+    a: "Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren."
   - q: "¿Es Minfernal nueva en WoW Forever?"
     a: "Sí. Minfernal es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -32,9 +32,7 @@ Minfernal es una mascota de compañía nueva en World of Warcraft: Forever. La a
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
-
-La descripción de la beta todavía dice que invoca "your baby crocolisk", un texto copiado de otra mascota, así que esta mascota no está terminada.
+Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 ## Conviene saber
 
@@ -44,11 +42,11 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 
 - [Albino Snapjaw](/es/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/es/guides/pets/azure-whelpling/)
+- [Azurky](/es/guides/pets/azurky/)
 - [Baby Shark](/es/guides/pets/baby-shark/)
+- [Blossoming Ancient](/es/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/es/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/es/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/es/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/es/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/es/guides/pets/father-winters-helper/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

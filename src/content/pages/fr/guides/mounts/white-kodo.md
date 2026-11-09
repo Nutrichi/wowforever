@@ -1,14 +1,14 @@
 ---
 title: "White Kodo : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture White Kodo dans WoW Forever"
-description: "White Kodo est une monture nouvelle dans World of Warcraft: Forever. Source: Pas encore connue."
+description: "White Kodo est une monture nouvelle dans World of Warcraft: Forever. Source: Quête: Your First Riding Kodo."
 short: "White Kodo"
 updated: 2026-10-09
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir White Kodo dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. La monter demande Kodo Riding."
+    a: "C'est la récompense de la quête Your First Riding Kodo, à partir du niveau 40, pour la Horde. La monter demande Kodo Riding."
   - q: "White Kodo est-elle nouvelle dans WoW Forever ?"
     a: "Oui. White Kodo est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -27,16 +27,16 @@ White Kodo est une monture nouvelle dans World of Warcraft: Forever. C'est une m
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=275993"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">White Kodo</a> |
-| Source | Pas encore connue |
+| Source | Quête: <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a> |
 | Niveau | 40 |
 | Monte | Kodo Riding |
 | Vitesse | normale |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+C'est la récompense de la quête <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a>, à partir du niveau 40, pour la Horde.
 
 La monter demande Kodo Riding.
 

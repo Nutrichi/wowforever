@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift White Ram in WoW Forever?"
-    a: "Veron Amberstill verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt. Zum Reiten braucht es Ram Riding."
+    a: "Veron Amberstill verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Frost Ram Exchange, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen."
   - q: "Ist Swift White Ram neu in WoW Forever?"
     a: "Nein. Swift White Ram gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -34,17 +34,19 @@ Swift White Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever 
 | Reiten | Ram Riding |
 | Tempo | sehr schnell |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
+Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=7673">Frost Ram Exchange</a>, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen.
+
 Zum Reiten braucht es Ram Riding.
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere von Veron Amberstill
 

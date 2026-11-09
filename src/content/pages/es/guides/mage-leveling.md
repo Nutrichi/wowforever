@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cuál es la mejor especialización para subir un Mage en WoW Forever?"
-    a: "Frost. Ice Lance y Fingers of Frost dan a Frost las muertes más rápidas de la beta, además de las ralentizaciones y congelaciones que siempre lo hicieron seguro. Fire y Arcane también funcionan, pero dependen más del equipo, del crítico o de los procs."
+    a: "Frost. Ice Lance y Fingers of Frost daban a Frost las muertes más rápidas de la beta, además de las ralentizaciones y congelaciones que siempre lo hicieron seguro. Fire y Arcane también funcionan, pero dependen más del equipo, del crítico o de los procs."
   - q: "¿Por qué Ice Lance es tan fuerte?"
     a: "Ice Lance es instantáneo y hace un 200 % más de daño a un objetivo Frozen. Frostbite y Frost Nova congelan al objetivo, y Fingers of Frost trata tus dos siguientes hechizos como si el objetivo estuviera Frozen. Con Shatter e Ice Shards, esos hechizos hacen críticos enormes."
   - q: "¿Cuándo consigo Ice Lance?"

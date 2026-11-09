@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Black Stallion in WoW Forever?"
-    a: "Unger Statforth la vende a Wetlands per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Alleanza. Cavalcarla richiede Horse Riding."
+    a: "Unger Statforth la vende a Wetlands per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Alleanza. La prima cavalcatura è gratis: la missione Your First Horse, dal livello 40 per l'Alleanza, ti fa scegliere questa."
   - q: "Black Stallion è nuova in WoW Forever?"
     a: "No. Black Stallion c'era già in Classic e torna in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Black Stallion è una cavalcatura di Classic che torna in World of Warcraft: For
 | Cavalcare | Horse Riding |
 | Velocità | normale |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> la vende a Wetlands per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Alleanza.
 
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=97171">Your First Horse</a>, dal livello 40 per l'Alleanza, ti fa scegliere questa.
+
 Cavalcarla richiede Horse Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature con Horse Riding
 

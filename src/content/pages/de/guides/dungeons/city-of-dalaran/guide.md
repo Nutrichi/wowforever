@@ -166,5 +166,5 @@ Er wartet in der Violet Hold. Räum vor dem Pull den ganzen Raum, denn jedes Mon
 
 ## Was noch nicht bekannt ist
 
-- **Sunreaver's Sanctuary**: Auf der Beta kommt man noch nicht hinein.
+- **Sunreaver's Sanctuary**: Ein Eingang ist noch nicht gefunden.
 - **Die Dropchancen** der Beute der Bosse.

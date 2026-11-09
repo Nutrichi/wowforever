@@ -36,8 +36,6 @@ Pachimari is een companion pet die nieuw is in World of Warcraft: Forever. Je le
 
 ## Goed om te weten
 
-De tooltip op de beta toont nog tijdelijke tekst ([PH] Pachimara), dus deze pet is nog niet af.
-
 De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 
 ## Meer pets uit dezelfde bron

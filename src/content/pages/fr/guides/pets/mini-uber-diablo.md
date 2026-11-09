@@ -15,7 +15,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=268879"
 ---
-Mini Uber Diablo est une mascotte de compagnie nouvelle dans World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268879"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Uber Diablo Stone</a> l'invoque encore comme dans Classic, selon l'infobulle de la bêta.
+Mini Uber Diablo est une mascotte de compagnie nouvelle dans World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268879"><img class="wf-wh__icon" src="/wh/inv_diablostone.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Uber Diablo Stone</a> l'invoque encore comme dans Classic, selon l'infobulle.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_diablostone.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=268879">Uber Diablo Stone</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss Diablo.</span></div></div>
@@ -42,11 +42,11 @@ Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise
 
 - [Albino Snapjaw](/fr/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/fr/guides/pets/azure-whelpling/)
+- [Azurky](/fr/guides/pets/azurky/)
 - [Baby Shark](/fr/guides/pets/baby-shark/)
+- [Blossoming Ancient](/fr/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/fr/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/fr/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/fr/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/fr/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/fr/guides/pets/father-winters-helper/)
 
 Chaque mascotte de WoW Forever, avec son origine, figure dans le [guide des mascottes](/fr/guides/pets/).

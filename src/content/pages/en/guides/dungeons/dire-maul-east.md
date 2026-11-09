@@ -12,8 +12,6 @@ faq:
     a: "Dire Maul lies in the middle of Feralas. The east wing has a door on the east wall of the central courtyard, one from Eldreth Row, and a back door at the Lariss Pavilion that needs the Crescent Key."
   - q: "Where do you get the Crescent Key?"
     a: "Pusillin drops it at the end of his chase through Dire Maul East. One player with the key opens Dire Maul West and North for the whole group."
-  - q: "Could you play Dire Maul on the beta?"
-    a: "No. The beta went up to level 30, so Dire Maul was closed. Everything on these pages comes from the Forever data and from Classic, and can still change."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/dire-maul-east/"

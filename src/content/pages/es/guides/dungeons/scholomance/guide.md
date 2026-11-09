@@ -13,7 +13,7 @@ dungeon:
   slug: "scholomance"
   tab: "guide"
 ---
-Scholomance estaba cerrado en la beta, que se detenía en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes de los datos de Forever. Blizzard no dice si la mazmorra cambia para Forever. El mapa de Blizzard muestra la versión que llegó más tarde, así que esta página no tiene mapa.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes de los datos de Forever. Blizzard no dice si la mazmorra cambia para Forever. El mapa de Blizzard muestra la versión que llegó más tarde, así que esta página no tiene mapa.
 
 ## Cómo llegar
 
@@ -72,4 +72,4 @@ Aparece cuando los seis han muerto, y ataca enseguida. Teletransporta a jugadore
 
 - **Las recompensas** de las diez misiones en los datos de Forever.
 - **El botín**: 52 de los 71 objetos de Classic aún no están en los datos de Forever.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta. En Classic, Kormok se invocaba aquí para las misiones de Tier 0.5; no se sabe si esa invocación existe en Forever.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren. En Classic, Kormok se invocaba aquí para las misiones de Tier 0.5; no se sabe si esa invocación existe en Forever.

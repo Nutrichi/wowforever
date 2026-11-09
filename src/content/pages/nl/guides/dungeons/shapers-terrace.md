@@ -14,7 +14,7 @@ faq:
   - q: "Heb ik de kristallen van Un'Goro nodig?"
     a: "Neem ze mee. Volgens Blizzard werken de power crystals die je in Un'Goro Crater verzamelt op consoles in de dungeon. Wat ze daar doen, is nog niet bekend."
   - q: "Wat laat Shaper's Terrace vallen?"
-    a: "Nog niet bekend. De dungeon gaat open boven level 30, dus in de beta was alleen de ingang te zien."
+    a: "Nog niet bekend."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shapers-terrace/"
@@ -22,4 +22,4 @@ dungeon:
   slug: "shapers-terrace"
   tab: "loot"
 ---
-Van Shaper's Terrace is nog geen buit bekend. De dungeon gaat open boven level 30, dus in de beta was alleen de ingang te zien. Deze pagina vult zich zodra spelers hem na de launch op 4 november lopen.
+Van Shaper's Terrace is nog geen buit bekend. Deze pagina vult zich naarmate spelers hem lopen.

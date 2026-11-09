@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Cerulean Prideclaw en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. Montarla requiere Journeyman Riding."
+    a: "Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren. Montarla requiere Journeyman Riding."
   - q: "¿Es Cerulean Prideclaw nueva en WoW Forever?"
     a: "Sí. Cerulean Prideclaw es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -32,11 +32,11 @@ Cerulean Prideclaw es una montura nueva en World of Warcraft: Forever. Es una mo
 | Equitación | Journeyman Riding |
 | Velocidad | normal |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 Montarla requiere Journeyman Riding.
 
@@ -44,10 +44,13 @@ El juego oculta esta montura en la colección hasta que un personaje la ha apren
 
 ## Más monturas con Journeyman Riding
 
+- [Crimson Rooster](/es/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/es/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/es/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/es/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/es/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/es/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/es/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/es/guides/mounts/verdant-sea-turtle/)
 
 Todas las monturas de WoW Forever, con su origen, están en la [guía de monturas](/es/guides/mounts/).

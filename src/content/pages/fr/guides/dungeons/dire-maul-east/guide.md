@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-east"
   tab: "guide"
 ---
-Dire Maul était fermé sur la bêta, qui s’arrêtait au niveau 30. Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever.
+Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever.
 
 ## L’accès
 
@@ -57,4 +57,4 @@ Nettoyez d’abord les Warpwood Crushers sur la rampe, sinon ils se joignent au 
 
 - **Les récompenses** des cinq quêtes dans les données de Forever.
 - **Le butin** : aucun des 24 objets de Classic n’est encore dans les données de Forever.
-- **Les changements pour Forever** : le donjon était fermé sur la bêta. Dans Classic, Isalien était invoquée ici pour les quêtes du Tier 0.5 ; on ne sait pas si ces quêtes existent dans Forever.
+- **Les changements pour Forever** : pas encore connus. Cette page sera mise à jour dès que les joueurs les trouveront. Dans Classic, Isalien était invoquée ici pour les quêtes du Tier 0.5 ; on ne sait pas si ces quêtes existent dans Forever.

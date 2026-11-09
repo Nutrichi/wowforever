@@ -212,7 +212,7 @@ At level 20 a chain of class quests teaches you Poisons.
 | 4 | <a href="https://www.wowhead.com/forever/quest=2608">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2479">Hinott's Assistance</a> |
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
-More class quests with item rewards are expected above level 30, which the beta did not reach.
+Whether more class quests with item rewards come above level 30, is not known yet.
 
 Every step of both chains, with the weak spot of each tough mob, is in the [Rogue Poisons guide](/guides/poisons/).
 

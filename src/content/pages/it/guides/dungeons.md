@@ -8,7 +8,7 @@ lang: it
 manual: true
 faq:
   - q: "Quali dungeon ci sono in WoW Forever?"
-    a: "I dungeon di Classic, da Ragefire Chasm a Upper Blackrock Spire, più nove nuovi. The Hall of Thanes, le Ruins of Lordaeron, l’Excavation Site e la City of Dalaran sono nella beta; gli altri cinque arrivano a livelli più alti."
+    a: "I dungeon di Classic, da Ragefire Chasm a Upper Blackrock Spire, più nove nuovi. Quattro dei nuovi sono per livelli sotto il 30, gli altri cinque per livelli più alti."
   - q: "Qual è il primo dungeon di WoW Forever?"
     a: "Ragefire Chasm per la Horde, con missioni dal livello 9, e The Hall of Thanes per l’Alliance, per i livelli dal 13 al 18. Le Ruins of Lordaeron, dal 15 al 20, sono il primo nuovo dungeon in territorio della Horde."
   - q: "Le missioni dei dungeon danno ancora molta esperienza?"
@@ -19,7 +19,7 @@ sources:
 ---
 Le missioni dei dungeon sono il guadagno maggiore di una run in WoW Forever: Blizzard ha ridotto l’esperienza dei mostri all’interno e aumentato quella delle missioni. Questa guida elenca ogni dungeon con il livello per entrarci, e ogni missione: dove inizia, per quale fazione e cosa serve prima.
 
-La beta di WoW Forever arriva al livello 30 dal 1° ottobre. Per i dungeon oltre, le missioni vengono dai dati di Classic e possono ancora cambiare. Le righe di The Hall of Thanes e delle Ruins of Lordaeron sono verificate sulle pagine delle missioni della beta.
+Per i dungeon oltre il livello 30, le missioni vengono dai dati di Classic e possono ancora cambiare in Forever. Le righe di The Hall of Thanes e delle Ruins of Lordaeron sono state verificate sulle pagine delle missioni della beta.
 
 ## Guide per dungeon
 
@@ -529,7 +529,7 @@ Almeno un giocatore deve avere il Seal of Ascension per entrare.
 
 ## Nuovi dungeon senza missioni note
 
-Le missioni di sei nuovi dungeon di Forever non sono ancora note. L’Excavation Site ha aperto nella beta il 1° ottobre; le sue missioni sono nella [sua guida](/it/guides/dungeons/excavation-site-wetlands/). I livelli sono quelli di Blizzard.
+Le missioni di sei nuovi dungeon di Forever non sono ancora note. Le missioni dell’Excavation Site sono nella [sua guida](/it/guides/dungeons/excavation-site-wetlands/). I livelli sono quelli di Blizzard.
 
 | Dungeon | Livelli |
 |---|---|

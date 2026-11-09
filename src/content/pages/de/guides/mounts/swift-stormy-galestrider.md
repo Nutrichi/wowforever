@@ -34,7 +34,7 @@ Swift Stormy Galestrider ist ein Reittier, das neu in World of Warcraft: Forever
 | Reiten | Galestrider Riding |
 | Tempo | sehr schnell |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 

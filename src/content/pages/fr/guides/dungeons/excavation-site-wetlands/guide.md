@@ -86,5 +86,5 @@ Lancez le combat avec l’Archival Panel à droite du gardien inactif. Le dernie
 ## Ce qu’on ne sait pas encore
 
 - **Ce que montre la Bloody Map**, la récompense d’Open the Maw.
-- **Quand Highland Hides et Prehistoric Prism seront corrigées** : les deux sont buguées sur la bêta.
+- **Quand Highland Hides et Prehistoric Prism seront corrigées** : les deux étaient buguées sur la bêta ; on ne sait pas si elles marchent maintenant.
 - **Les taux de butin** des boss, sauf pour la Titan Relic.

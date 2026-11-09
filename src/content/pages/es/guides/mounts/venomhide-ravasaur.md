@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Venomhide Ravasaur en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. Montarla requiere Raptor Riding."
+    a: "Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren. Montarla requiere Raptor Riding."
   - q: "¿Es Venomhide Ravasaur nueva en WoW Forever?"
     a: "Sí. Venomhide Ravasaur es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -32,11 +32,11 @@ Venomhide Ravasaur es una montura nueva en World of Warcraft: Forever. Es una mo
 | Equitación | Raptor Riding |
 | Velocidad | normal |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 Montarla requiere Raptor Riding.
 

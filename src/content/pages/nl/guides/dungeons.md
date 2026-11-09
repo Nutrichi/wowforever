@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Welke dungeons zitten in WoW Forever?"
-    a: "De dungeons van Classic, van Ragefire Chasm tot Upper Blackrock Spire, plus negen nieuwe. The Hall of Thanes, de Ruins of Lordaeron, de Excavation Site en de City of Dalaran zitten in de beta; de andere vijf volgen op hogere levels."
+    a: "De dungeons van Classic, van Ragefire Chasm tot Upper Blackrock Spire, plus negen nieuwe. Vier van de nieuwe zijn voor levels onder 30, de andere vijf voor hogere levels."
   - q: "Wat is de eerste dungeon in WoW Forever?"
     a: "Ragefire Chasm voor de Horde, met quests vanaf level 9, en The Hall of Thanes voor de Alliance, voor level 13 tot 18. De Ruins of Lordaeron, voor 15 tot 20, is de eerste nieuwe dungeon in gebied van de Horde."
   - q: "Geven dungeonquests nog veel experience?"
@@ -19,7 +19,7 @@ sources:
 ---
 Dungeonquests zijn het grootste voordeel van een dungeonrun in WoW Forever: Blizzard verlaagde de experience van de monsters binnen en verhoogde die van de quests. Deze gids zet elke dungeon op een rij met het level om naar binnen te gaan, en elke quest: waar hij begint, voor welke factie en wat eerst moet.
 
-De beta van WoW Forever gaat sinds 1 oktober tot level 30. Voor de dungeons daarboven komen de quests uit de gegevens van Classic en kunnen ze nog veranderen. De rijen van The Hall of Thanes en de Ruins of Lordaeron zijn nagekeken tegen de questpagina's van de beta.
+Voor de dungeons boven level 30 komen de quests uit de gegevens van Classic en kunnen ze in Forever nog veranderen. De rijen van The Hall of Thanes en de Ruins of Lordaeron zijn nagekeken tegen de questpagina's van de beta.
 
 ## Gidsen per dungeon
 
@@ -529,7 +529,7 @@ Minstens één speler heeft de Seal of Ascension nodig om binnen te gaan.
 
 ## Nieuwe dungeons zonder quests
 
-Van zes nieuwe dungeons van Forever zijn de quests nog niet bekend. De Excavation Site ging op 1 oktober open in de beta; zijn quests staan in [zijn eigen gids](/nl/guides/dungeons/excavation-site-wetlands/). De levels zijn die van Blizzard.
+Van zes nieuwe dungeons van Forever zijn de quests nog niet bekend. De quests van de Excavation Site staan in [zijn eigen gids](/nl/guides/dungeons/excavation-site-wetlands/). De levels zijn die van Blizzard.
 
 | Dungeon | Levels |
 |---|---|

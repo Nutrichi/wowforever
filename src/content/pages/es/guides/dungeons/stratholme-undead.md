@@ -12,8 +12,6 @@ faq:
     a: "Por la Eastwall Gate, un poco al este de la puerta principal, en el noroeste de las Eastern Plaguelands. Pide la Key to the City, que suelta Magistrate Barthilas."
   - q: "¿Suelta Baron Rivendare Deathcharger's Reins en WoW Forever?"
     a: "Deathcharger's Reins está en los datos de Forever. No se sabe si Baron Rivendare la suelta en Forever, ni con qué frecuencia."
-  - q: "¿Se podía jugar Stratholme en la beta?"
-    a: "No. La beta llegaba hasta el nivel 30, así que Stratholme estaba cerrado. Todo lo que hay en estas páginas viene de los datos de Forever y de Classic, y aún puede cambiar."
 manual: true
 sources:
   - name: "Warcraft Tavern"

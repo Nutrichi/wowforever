@@ -166,5 +166,5 @@ Aspetta nella Violet Hold. Ripulite tutta la stanza prima del pull, perché ogni
 
 ## Cosa non si sa ancora
 
-- **Sunreaver's Sanctuary**: sulla beta non si può ancora entrare.
+- **Sunreaver's Sanctuary**: non è ancora stato trovato un ingresso.
 - **Le probabilità di drop** del bottino dei boss.

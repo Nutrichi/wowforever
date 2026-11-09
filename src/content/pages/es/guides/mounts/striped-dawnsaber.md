@@ -1,14 +1,14 @@
 ---
 title: "Striped Dawnsaber: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Striped Dawnsaber en WoW Forever"
-description: "Striped Dawnsaber es una montura nueva en World of Warcraft: Forever. Fuente: Aún no se sabe."
+description: "Striped Dawnsaber es una montura nueva en World of Warcraft: Forever. Fuente: Misión: Your First Feline Friend."
 short: "Striped Dawnsaber"
 updated: 2026-10-09
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Striped Dawnsaber en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. Montarla requiere Tiger Riding."
+    a: "Es la recompensa de la misión Your First Feline Friend, a partir del nivel 40, para la Alianza. Montarla requiere Tiger Riding."
   - q: "¿Es Striped Dawnsaber nueva en WoW Forever?"
     a: "Sí. Striped Dawnsaber es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -27,16 +27,16 @@ Striped Dawnsaber es una montura nueva en World of Warcraft: Forever. Es una mon
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274706"><img class="wf-wh__icon" src="/wh/ability_mount_jungletiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Striped Dawnsaber</a> |
-| Fuente | Aún no se sabe |
+| Fuente | Misión: <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a> |
 | Nivel | 40 |
 | Equitación | Tiger Riding |
 | Velocidad | normal |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Es la recompensa de la misión <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, a partir del nivel 40, para la Alianza.
 
 Montarla requiere Tiger Riding.
 

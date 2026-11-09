@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Ochre Skeletal Warhorse in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Rijden vraagt Undead Horsemanship."
+    a: "De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden. Rijden vraagt Undead Horsemanship."
   - q: "Is Ochre Skeletal Warhorse nieuw in WoW Forever?"
     a: "Ja. Ochre Skeletal Warhorse is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -32,11 +32,11 @@ Ochre Skeletal Warhorse is een mount die nieuw is in World of Warcraft: Forever.
 | Rijden | Undead Horsemanship |
 | Snelheid | zeer snel |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+De spelbestanden van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers het vinden.
 
 Rijden vraagt Undead Horsemanship.
 

@@ -86,5 +86,5 @@ Inicia el combate con el Archival Panel a la derecha del guardián inactivo. El 
 ## Lo que aún no se sabe
 
 - **A dónde lleva la Bloody Map**, la recompensa de Open the Maw.
-- **Cuándo se arreglan Highland Hides y Prehistoric Prism**: las dos fallan en la beta.
+- **Cuándo se arreglan Highland Hides y Prehistoric Prism**: las dos fallaban en la beta; no se sabe si ya funcionan.
 - **Las probabilidades de botín** de los jefes, salvo la Titan Relic.

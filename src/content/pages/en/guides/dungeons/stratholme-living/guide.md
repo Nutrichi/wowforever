@@ -12,7 +12,7 @@ dungeon:
   slug: "stratholme-living"
   tab: "guide"
 ---
-Stratholme was closed on the beta, which stopped at level 30. This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
+This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
 
 Stratholme is one instance with two sides. The Living side belongs to the Scarlet Crusade, the [Undead side](/guides/dungeons/stratholme-undead/) to the Scourge of Baron Rivendare. The two are connected through King's Square Gate, which needs the <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12382"><img class="wf-wh__icon" src="/wh/inv_misc_key_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Key to the City</a>.
 
@@ -89,4 +89,4 @@ The fight starts easy. Then Dathrohan turns into the demon Balnazzar. Tank him i
 
 - **The rewards** of the six quests in the Forever data.
 - **The loot**: 33 of the 46 Classic items are not in the Forever data yet.
-- **Changes for Forever**: the dungeon was closed on the beta. In Classic, Jarien and Sothos were summoned here for the Tier 0.5 quests; whether that summon exists in Forever is not known.
+- **Changes for Forever**: not known yet. This page gets updated as soon as players find them. In Classic, Jarien and Sothos were summoned here for the Tier 0.5 quests; whether that summon exists in Forever is not known.

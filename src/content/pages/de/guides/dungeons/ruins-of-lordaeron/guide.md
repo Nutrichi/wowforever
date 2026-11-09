@@ -98,7 +98,7 @@ Der Trash schlägt weniger hart zu als in der Hall of Thanes, aber die Gruppen s
 
 ## Die sechs Bosse
 
-Jede Reihenfolge geht. Jeder Boss lässt blaue Gegenstände fallen; aus der Beta sind drei pro Boss bekannt.
+Jede Reihenfolge geht. Jeder Boss lässt blaue Gegenstände fallen; aus der Beta waren drei pro Boss bekannt.
 
 ### Witherfang
 
@@ -118,7 +118,7 @@ Tank ihn mit dem Rücken zu einer Wand. Er trifft auch alle im Nahkampf um ihn h
 
 ### Viktor the Vile
 
-Der Boss, den die meisten Gruppen verpassen. Entzündet die Kindled Flame im Kamin eines Gebäudes im Südwesten von Lordamere Overlook, beim Friedhof. Fünf Wellen von Adds folgen, bevor Viktor kommt. Er schlägt hart zu und hat dasselbe Leech Poison wie Witherfang, also lasst den Tank zuerst Aggro aufbauen. In der Beta erscheint Viktor manchmal nicht.
+Der Boss, den die meisten Gruppen verpassen. Entzündet die Kindled Flame im Kamin eines Gebäudes im Südwesten von Lordamere Overlook, beim Friedhof. Fünf Wellen von Adds folgen, bevor Viktor kommt. Er schlägt hart zu und hat dasselbe Leech Poison wie Witherfang, also lasst den Tank zuerst Aggro aufbauen. In der Beta erschien Viktor manchmal nicht.
 
 Die Wellen zehren mehr an der Gruppe als Viktor selbst, also nur mit vollem Mana anfangen.
 
@@ -153,7 +153,7 @@ Ein Rare mit einer kleinen Chance, auf der Westseite des Dungeons zu erscheinen.
 ## Was noch nicht bekannt ist
 
 - Welcher Boss als Endboss gilt. Der Boss auf Stufe 20 hat keinen festen Platz in der Reihenfolge; gängige Wege enden bei Rath'mael.
-- Ob Viktor the Vile zum Start immer erscheint. In der Beta tut er das manchmal nicht.
+- Ob Viktor the Vile immer erscheint. In der Beta tat er das manchmal nicht.
 - Wo der Rest von Rotmender's Raiment fällt, und bei welchem Schritt Unending Torment Slain Baron's Signet gibt.
 - Wie viel Erfahrung The Wrath of Rath'mael bringt
 

@@ -35,7 +35,7 @@ Pack Kodo is een mount die nieuw is in World of Warcraft: Forever. Het is een mo
 | Snelheid | normaal |
 | Vereist | Durotar Supply and Logistics (Exalted), Azeroth Commerce Authority (Exalted) |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
@@ -52,9 +52,12 @@ Rijden vraagt Journeyman Riding.
 ## Meer mounts met Journeyman Riding
 
 - [Cerulean Prideclaw](/nl/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/nl/guides/mounts/crimson-rooster/)
 - [Rivendare's Deathcharger](/nl/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/nl/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/nl/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/nl/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/nl/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/nl/guides/mounts/verdant-sea-turtle/)
 
 Elke mount van WoW Forever, met waar hij vandaan komt, staat in de [mountgids](/nl/guides/mounts/).

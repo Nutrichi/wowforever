@@ -21,7 +21,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/buy-gear-pets-mounts-and-more-on-the-wow-forever-black-market-auction-house-383078"
 ---
-La Black Market Auction House, in breve BMAH, vende oggetti rari per molto oro. È comparsa per la prima volta in Mists of Pandaria, con la patch 5.0.4. WoW Forever la porta nel vecchio mondo, nella nuova zona The Riverglades, ed è già sulla beta.
+La Black Market Auction House, in breve BMAH, vende oggetti rari per molto oro. È comparsa per la prima volta in Mists of Pandaria, con la patch 5.0.4. WoW Forever la porta nel vecchio mondo, nella nuova zona The Riverglades, ed era già sulla beta.
 
 ![Mister Graphed e Madam Swyndle, due goblin con il titolo Agent of the Black Market, su un tappeto viola in una tenda, con un Blood Elf davanti, uno screenshot dal gioco](../../../../assets/posts/2026-09-27-wow-forever-black-market-agents.jpg)
 

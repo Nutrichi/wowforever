@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Rivendare's Deathcharger en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. Montarla requiere Journeyman Riding."
+    a: "Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren. Montarla requiere Journeyman Riding."
   - q: "¿Es Rivendare's Deathcharger nueva en WoW Forever?"
     a: "No. Rivendare's Deathcharger ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -32,24 +32,27 @@ Rivendare's Deathcharger es una montura de Classic que vuelve en World of Warcra
 | Equitación | Journeyman Riding |
 | Velocidad | muy rápida |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 Montarla requiere Journeyman Riding.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas con Journeyman Riding
 
 - [Cerulean Prideclaw](/es/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/es/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/es/guides/mounts/pack-kodo/)
 - [Spectral Bear](/es/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/es/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/es/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/es/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/es/guides/mounts/verdant-sea-turtle/)
 
 Todas las monturas de WoW Forever, con su origen, están en la [guía de monturas](/es/guides/mounts/).

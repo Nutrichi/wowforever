@@ -47,5 +47,6 @@ Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise
 - [Poley](/fr/guides/pets/poley/)
 - [Sprite Darter Hatchling](/fr/guides/pets/sprite-darter-hatchling/)
 - [Terky](/fr/guides/pets/terky/)
+- [Weevil K. Neevil](/fr/guides/pets/weevil-k-neevil/)
 
 Chaque mascotte de WoW Forever, avec son origine, figure dans le [guide des mascottes](/fr/guides/pets/).

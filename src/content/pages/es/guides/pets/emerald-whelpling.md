@@ -46,11 +46,11 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 
 - [Baby Crocolisk](/es/guides/pets/baby-crocolisk/)
 - [Black Tabby](/es/guides/pets/black-tabby/)
+- [Condor Hatchling](/es/guides/pets/condor-hatchling/)
 - [Crimson Whelpling](/es/guides/pets/crimson-whelpling/)
 - [Dark Whelpling](/es/guides/pets/dark-whelpling/)
 - [Green Wing Macaw](/es/guides/pets/green-wing-macaw/)
 - [Hyacinth Macaw](/es/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/es/guides/pets/pet-fish/)
-- [Pet Stone](/es/guides/pets/pet-stone/)
+- [Siamese](/es/guides/pets/siamese/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

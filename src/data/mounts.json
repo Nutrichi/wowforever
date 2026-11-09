@@ -179,18 +179,18 @@
    "icon": "ability_mount_undeadhorse",
    "quality": 3,
    "new": true,
-   "kind": "unknown",
+   "kind": "quest",
    "zones": [],
    "level": 40,
    "riding": "Undead Horsemanship",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Quest: A Steed in Death as They Were in Life",
+    "nl": "Quest: A Steed in Death as They Were in Life",
+    "fr": "Quête: A Steed in Death as They Were in Life",
+    "es": "Misión: A Steed in Death as They Were in Life",
+    "it": "Missione: A Steed in Death as They Were in Life",
+    "de": "Quest: A Steed in Death as They Were in Life"
    },
    "where": {
     "en": "",
@@ -457,18 +457,18 @@
    "icon": "ability_mount_blackdirewolf",
    "quality": 3,
    "new": false,
-   "kind": "unknown",
+   "kind": "quest",
    "zones": [],
    "level": 40,
    "riding": "Wolf Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Quest: Your First Riding Wolf",
+    "nl": "Quest: Your First Riding Wolf",
+    "fr": "Quête: Your First Riding Wolf",
+    "es": "Misión: Your First Riding Wolf",
+    "it": "Missione: Your First Riding Wolf",
+    "de": "Quest: Your First Riding Wolf"
    },
    "where": {
     "en": "",
@@ -893,6 +893,34 @@
     "es": "4 zonas",
     "it": "4 zone",
     "de": "4 Gebiete"
+   }
+  },
+  {
+   "slug": "crimson-rooster",
+   "name": "Crimson Rooster",
+   "icon": "8426877",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Journeyman Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
    }
   },
   {
@@ -1740,18 +1768,18 @@
    "icon": "ability_mount_kodo_01",
    "quality": 3,
    "new": true,
-   "kind": "unknown",
+   "kind": "quest",
    "zones": [],
    "level": 40,
    "riding": "Kodo Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Quest: Your First Riding Kodo",
+    "nl": "Quest: Your First Riding Kodo",
+    "fr": "Quête: Your First Riding Kodo",
+    "es": "Misión: Your First Riding Kodo",
+    "it": "Missione: Your First Riding Kodo",
+    "de": "Quest: Your First Riding Kodo"
    },
    "where": {
     "en": "",
@@ -2343,6 +2371,34 @@
    }
   },
   {
+   "slug": "spectral-wolf-pack",
+   "name": "Spectral Wolf Pack",
+   "icon": "8408196",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Journeyman Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
    "slug": "spotted-frostsaber",
    "name": "Spotted Frostsaber",
    "icon": "ability_mount_whitetiger",
@@ -2439,18 +2495,18 @@
    "icon": "ability_mount_jungletiger",
    "quality": 3,
    "new": true,
-   "kind": "unknown",
+   "kind": "quest",
    "zones": [],
    "level": 40,
    "riding": "Tiger Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Quest: Your First Feline Friend",
+    "nl": "Quest: Your First Feline Friend",
+    "fr": "Quête: Your First Feline Friend",
+    "es": "Misión: Your First Feline Friend",
+    "it": "Missione: Your First Feline Friend",
+    "de": "Quest: Your First Feline Friend"
    },
    "where": {
     "en": "",
@@ -3448,6 +3504,34 @@
    }
   },
   {
+   "slug": "verdant-sea-turtle",
+   "name": "Verdant Sea Turtle",
+   "icon": "8517112",
+   "quality": 4,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "level": 60,
+   "riding": "Journeyman Riding",
+   "fast": false,
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
    "slug": "veteran-adventurers-loyal-companion",
    "name": "Veteran Adventurer's Loyal Companion",
    "icon": "inv_dwarfbearmount_c60",
@@ -3595,18 +3679,18 @@
    "icon": "ability_mount_kodo_01",
    "quality": 3,
    "new": true,
-   "kind": "unknown",
+   "kind": "quest",
    "zones": [],
    "level": 40,
    "riding": "Kodo Riding",
    "fast": false,
    "source": {
-    "en": "Not known yet",
-    "nl": "Nog niet bekend",
-    "fr": "Pas encore connue",
-    "es": "Aún no se sabe",
-    "it": "Non ancora noto",
-    "de": "Noch nicht bekannt"
+    "en": "Quest: Your First Riding Kodo",
+    "nl": "Quest: Your First Riding Kodo",
+    "fr": "Quête: Your First Riding Kodo",
+    "es": "Misión: Your First Riding Kodo",
+    "it": "Missione: Your First Riding Kodo",
+    "de": "Quest: Your First Riding Kodo"
    },
    "where": {
     "en": "",

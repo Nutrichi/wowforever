@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Blue Raptor in WoW Forever?"
-    a: "Zjolnir la vende a Durotar per 1000 d'oro. Il mercante è amichevole con l'Orda. Cavalcarla richiede Raptor Riding."
+    a: "Zjolnir la vende a Durotar per 1000 d'oro. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Ivory Raptor Replacement, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
   - q: "Swift Blue Raptor è nuova in WoW Forever?"
     a: "No. Swift Blue Raptor c'era già in Classic e torna in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Blue Raptor è una cavalcatura di Classic che torna in World of Warcraft: 
 | Cavalcare | Raptor Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vende a Durotar per 1000 d'oro. Il mercante è amichevole con l'Orda.
 
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7664">Ivory Raptor Replacement</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+
 Cavalcarla richiede Raptor Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature di Zjolnir
 

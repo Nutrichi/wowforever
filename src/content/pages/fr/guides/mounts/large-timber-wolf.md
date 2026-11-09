@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Large Timber Wolf dans WoW Forever ?"
-    a: "Ogunaro Wolfrunner la vend à Orgrimmar pour 40 po. Le marchand est amical envers la Horde. La monter demande Wolf Riding."
+    a: "Ogunaro Wolfrunner la vend à Orgrimmar pour 40 po. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête Your First Riding Wolf, à partir du niveau 40 pour la Horde, vous laisse choisir celle-ci."
   - q: "Large Timber Wolf est-elle nouvelle dans WoW Forever ?"
     a: "Non. Large Timber Wolf existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Large Timber Wolf est une monture de Classic qui revient dans World of Warcraft:
 | Monte | Wolf Riding |
 | Vitesse | normale |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vend à Orgrimmar pour 40 po. Le marchand est amical envers la Horde.
 
+Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, à partir du niveau 40 pour la Horde, vous laisse choisir celle-ci.
+
 La monter demande Wolf Riding.
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 ## D'autres montures de Ogunaro Wolfrunner
 

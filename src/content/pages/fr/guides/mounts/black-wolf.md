@@ -1,14 +1,14 @@
 ---
 title: "Black Wolf : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Black Wolf dans WoW Forever"
-description: "Black Wolf est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Pas encore connue."
+description: "Black Wolf est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Quête: Your First Riding Wolf."
 short: "Black Wolf"
 updated: 2026-10-09
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Black Wolf dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. La monter demande Wolf Riding."
+    a: "C'est la récompense de la quête Your First Riding Wolf, à partir du niveau 40, pour la Horde. La monter demande Wolf Riding."
   - q: "Black Wolf est-elle nouvelle dans WoW Forever ?"
     a: "Non. Black Wolf existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,16 +27,16 @@ Black Wolf est une monture de Classic qui revient dans World of Warcraft: Foreve
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1041"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Black Wolf</a> |
-| Source | Pas encore connue |
+| Source | Quête: <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a> |
 | Niveau | 40 |
 | Monte | Wolf Riding |
 | Vitesse | normale |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+C'est la récompense de la quête <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, à partir du niveau 40, pour la Horde.
 
 La monter demande Wolf Riding.
 
@@ -44,7 +44,7 @@ Le jeu cache cette monture dans la collection tant qu'un personnage ne l'a pas a
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 ## D'autres montures avec Wolf Riding
 

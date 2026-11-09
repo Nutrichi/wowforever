@@ -14,7 +14,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=249897"
 ---
-Flowery Lashling is a companion pet that is new in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=249897"><img class="wf-wh__icon" src="/wh/inv_10_herb_seed_magiccolor4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Flowery Lashling Bud</a> still summons it the way it did in Classic, according to the tooltip on the beta.
+Flowery Lashling is a companion pet that is new in World of Warcraft: Forever. You learn it from <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=249897"><img class="wf-wh__icon" src="/wh/inv_10_herb_seed_magiccolor4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Flowery Lashling Bud</a>.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_10_herb_seed_magiccolor4.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=249897">Flowery Lashling Bud</a><span class="wf-item__line wf-item__meta">Item Level 50</span><span class="wf-item__line">Binds when used</span><span class="wf-item__line wf-item__use">Use: Right Click to summon and dismiss a lashling.</span></div></div>

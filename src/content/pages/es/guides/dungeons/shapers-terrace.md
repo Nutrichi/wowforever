@@ -14,7 +14,7 @@ faq:
   - q: "¿Necesito los cristales de Un'Goro?"
     a: "Llévalos. Según Blizzard, los power crystals que recoges en Un'Goro Crater sirven en consolas dentro de la mazmorra. Qué hacen allí aún no se sabe."
   - q: "¿Qué suelta Shaper's Terrace?"
-    a: "Aún no se sabe. La mazmorra se abre por encima del nivel 30, así que en la beta solo se veía la entrada."
+    a: "Aún no se sabe."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/shapers-terrace/"
@@ -22,4 +22,4 @@ dungeon:
   slug: "shapers-terrace"
   tab: "loot"
 ---
-Aún no se conoce botín de Shaper's Terrace. La mazmorra se abre por encima del nivel 30, así que en la beta solo se veía la entrada. Esta página se llenará cuando los jugadores la hagan tras el lanzamiento del 4 de noviembre.
+Aún no se conoce botín de Shaper's Terrace. Esta página se irá llenando a medida que los jugadores la hagan.

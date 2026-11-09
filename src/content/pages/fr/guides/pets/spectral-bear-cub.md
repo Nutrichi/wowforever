@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Spectral Bear Cub dans WoW Forever ?"
-    a: "C'est une récompense de la piste Legacy de WoW Forever. Le total de points Legacy gagnés débloque des récompenses cosmétiques à 15, 25, 40 et 55 points ; le Spectral Bear Cub arrive à 25, selon le texte des fichiers de la bêta. Dépenser des points en perks ne ralentit pas la piste."
+    a: "C'est une récompense de la piste Legacy de WoW Forever. Le total de points Legacy gagnés débloque des récompenses cosmétiques à 15, 25, 40 et 55 points ; le Spectral Bear Cub arrive à 25, selon le texte des fichiers du jeu. Dépenser des points en perks ne ralentit pas la piste."
   - q: "Spectral Bear Cub est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Spectral Bear Cub est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -32,11 +32,11 @@ Spectral Bear Cub est une mascotte de compagnie nouvelle dans World of Warcraft:
 
 ## Comment l'obtenir
 
-C'est une récompense de la piste Legacy de WoW Forever. Le total de points Legacy gagnés débloque des récompenses cosmétiques à 15, 25, 40 et 55 points ; le Spectral Bear Cub arrive à 25, selon le texte des fichiers de la bêta. Dépenser des points en perks ne ralentit pas la piste. Chaque défi vaut un point. Plus sur Legacy sur la [page WoW Forever](/fr/forever/).
+C'est une récompense de la piste Legacy de WoW Forever. Le total de points Legacy gagnés débloque des récompenses cosmétiques à 15, 25, 40 et 55 points ; le Spectral Bear Cub arrive à 25, selon le texte des fichiers du jeu. Dépenser des points en perks ne ralentit pas la piste. Chaque défi vaut un point. Plus sur Legacy sur la [page WoW Forever](/fr/forever/).
 
 ## Bon à savoir
 
-L'infobulle de la bêta affiche encore un texte provisoire ([DNT] 1), la mascotte n'est donc pas terminée.
+L'infobulle affiche encore un texte provisoire ([DNT] 1), la mascotte n'est donc pas terminée.
 
 Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise une fois, elle serait là pour chaque personnage. Blizzard ne l'a pas confirmé.
 

@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Dire Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 40 goud. De verkoper is vriendelijk voor de Horde. Rijden vraagt Wolf Riding."
+    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 40 goud. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Your First Riding Wolf, vanaf level 40 voor de Horde, laat je deze kiezen."
   - q: "Is Dire Wolf nieuw in WoW Forever?"
     a: "Nee. Dire Wolf zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Dire Wolf is een mount uit Classic die terugkomt in World of Warcraft: Forever. 
 | Rijden | Wolf Riding |
 | Snelheid | normaal |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkoopt hem in Orgrimmar voor 40 goud. De verkoper is vriendelijk voor de Horde.
 
+Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, vanaf level 40 voor de Horde, laat je deze kiezen.
+
 Rijden vraagt Wolf Riding.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts van Ogunaro Wolfrunner
 

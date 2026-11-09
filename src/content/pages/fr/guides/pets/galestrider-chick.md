@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Galestrider Chick dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera."
+    a: "Les fichiers du jeu WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront."
   - q: "Galestrider Chick est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Galestrider Chick est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -32,7 +32,7 @@ Galestrider Chick est une mascotte de compagnie nouvelle dans World of Warcraft:
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 ## Bon à savoir
 
@@ -42,11 +42,11 @@ Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise
 
 - [Albino Snapjaw](/fr/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/fr/guides/pets/azure-whelpling/)
+- [Azurky](/fr/guides/pets/azurky/)
 - [Baby Shark](/fr/guides/pets/baby-shark/)
+- [Blossoming Ancient](/fr/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/fr/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/fr/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/fr/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/fr/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/fr/guides/pets/father-winters-helper/)
 
 Chaque mascotte de WoW Forever, avec son origine, figure dans le [guide des mascottes](/fr/guides/pets/).

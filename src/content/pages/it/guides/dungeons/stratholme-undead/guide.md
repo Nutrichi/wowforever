@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-undead"
   tab: "guide"
 ---
-Stratholme era chiuso nella beta, che si fermava al livello 30. Questa guida segue il dungeon com'era in Classic, con i livelli dei boss dai dati di Forever. Blizzard non dice se il dungeon cambia per Forever.
+Questa guida segue il dungeon com'era in Classic, con i livelli dei boss dai dati di Forever. Blizzard non dice se il dungeon cambia per Forever.
 
 Stratholme è una sola istanza con due lati. Il lato non morto è del Flagello di Baron Rivendare, il [lato vivente](/it/guides/dungeons/stratholme-living/) della Scarlet Crusade.
 
@@ -74,4 +74,4 @@ Entrate insieme: la porta si chiude. Il tank lo porta in fondo a destra, con le 
 
 - **Le ricompense** delle otto missioni nei dati di Forever.
 - **Il bottino**: 35 dei 53 oggetti di Classic non sono ancora nei dati di Forever, e non si sa se cada Deathcharger's Reins.
-- **Cambiamenti per Forever**: il dungeon era chiuso nella beta. Dietro una grata di Slaughter Square in Classic si vedeva un portale chiuso verso Naxxramas; non si sa cosa ne faccia Forever.
+- **Cambiamenti per Forever**: non ancora noti. Dietro una grata di Slaughter Square in Classic si vedeva un portale chiuso verso Naxxramas; non si sa cosa ne faccia Forever.

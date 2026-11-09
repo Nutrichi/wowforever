@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Red Qiraji Battle Tank in WoW Forever?"
-    a: "Es droppt bei mehreren Monstern. Diese haben in der Beta die beste Chance:  Qiraji Warlord in Ahn'Qiraj, etwa 3,1 % Qiraji Champion in Ahn'Qiraj, etwa 2,6 % Anubisath Defender in Ahn'Qiraj, etwa 2,6 % Qiraji Slayer in Ahn'Qiraj, etwa 2,3 % Qiraji Mindslayer in Ahn'Qiraj, etwa 2,2 % Qiraji Slayer in Ahn'Qiraj, etwa -0,0 %"
+    a: "Es droppt bei mehreren Monstern. Diese haben die beste Chance:  Qiraji Warlord in Ahn'Qiraj, etwa 3,1 % Qiraji Champion in Ahn'Qiraj, etwa 2,6 % Anubisath Defender in Ahn'Qiraj, etwa 2,6 % Qiraji Slayer in Ahn'Qiraj, etwa 2,3 % Qiraji Mindslayer in Ahn'Qiraj, etwa 2,2 % Qiraji Slayer in Ahn'Qiraj, etwa -0,0 %"
   - q: "Ist Red Qiraji Battle Tank neu in WoW Forever?"
     a: "Nein. Red Qiraji Battle Tank gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -33,11 +33,11 @@ Red Qiraji Battle Tank ist ein Reittier aus Classic, das in World of Warcraft: F
 | Stufe | 60 |
 | Tempo | normal |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Es droppt bei mehreren Monstern. Diese haben in der Beta die beste Chance:
+Es droppt bei mehreren Monstern. Diese haben die beste Chance:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234814">Qiraji Warlord</a> in Ahn'Qiraj, etwa 3,1 %
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234798">Qiraji Champion</a> in Ahn'Qiraj, etwa 2,6 %
@@ -48,6 +48,6 @@ Es droppt bei mehreren Monstern. Diese haben in der Beta die beste Chance:
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 Jedes Reittier von WoW Forever, mit seiner Herkunft, steht im [Reittier-Guide](/de/guides/mounts/).

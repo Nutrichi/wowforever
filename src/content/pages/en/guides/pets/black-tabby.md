@@ -48,12 +48,12 @@ The game data marks the pet as account-wide: learned once, it would be there for
 ## More pets from the same source
 
 - [Baby Crocolisk](/guides/pets/baby-crocolisk/)
+- [Condor Hatchling](/guides/pets/condor-hatchling/)
 - [Crimson Whelpling](/guides/pets/crimson-whelpling/)
 - [Dark Whelpling](/guides/pets/dark-whelpling/)
 - [Emerald Whelpling](/guides/pets/emerald-whelpling/)
 - [Green Wing Macaw](/guides/pets/green-wing-macaw/)
 - [Hyacinth Macaw](/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/guides/pets/pet-fish/)
-- [Pet Stone](/guides/pets/pet-stone/)
+- [Siamese](/guides/pets/siamese/)
 
 Every pet of WoW Forever, with where it comes from, is in the [pet guide](/guides/pets/).

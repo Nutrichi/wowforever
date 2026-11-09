@@ -19,4 +19,4 @@ dungeon:
   slug: "kroldok-stronghold"
   tab: "loot"
 ---
-No loot of Krol'dok Stronghold is known yet. The dungeon opens above level 30, so it was not on the beta. The game data does have an item set called Krol'dok Battlegear, but its pieces and where they drop are not known yet. This page fills up once players run it after the launch on 4 November.
+No loot of Krol'dok Stronghold is known yet. The game data does have an item set called Krol'dok Battlegear, but its pieces and where they drop are not known yet. This page fills up as players run it.

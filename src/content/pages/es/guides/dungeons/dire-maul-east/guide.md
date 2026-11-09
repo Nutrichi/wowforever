@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-east"
   tab: "guide"
 ---
-Dire Maul estaba cerrada en la beta, que se quedaba en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
 
 ## Cómo llegar
 
@@ -57,4 +57,4 @@ Limpia primero los Warpwood Crushers de la rampa, o se unen al combate. Alzzin c
 
 - **Las recompensas** de las cinco misiones en los datos de Forever.
 - **El botín**: ninguno de los 24 objetos de Classic está aún en los datos de Forever.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta. En Classic, Isalien se invocaba aquí para las misiones del Tier 0.5; no se sabe si esas misiones existen en Forever.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren. En Classic, Isalien se invocaba aquí para las misiones del Tier 0.5; no se sabe si esas misiones existen en Forever.

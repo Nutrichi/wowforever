@@ -61,4 +61,4 @@ L’étape 4 se trouve en terre alliée. Les joueurs de la Horde qui font le tra
 
 ## Une chose à savoir avant de partir
 
-Sur la bêta, les quêtes de cette chaîne sont visiblement marquées dans le monde. Si c’est voulu ou si cela tient à la bêta, Blizzard ne le dit pas. Ceux qui préfèrent chercher eux-mêmes attendront peut-être la sortie.
+Sur la bêta, les quêtes de cette chaîne étaient visiblement marquées dans le monde. On ne sait pas si c’est pareil dans le jeu en ligne. Ceux qui préfèrent chercher eux-mêmes attendront peut-être la sortie.

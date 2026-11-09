@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Swift Blue Raptor in WoW Forever?"
-    a: "Zjolnir sells it in Durotar for 1000 gold. The vendor is friendly to the Horde. Riding it needs Raptor Riding."
+    a: "Zjolnir sells it in Durotar for 1000 gold. The vendor is friendly to the Horde. Your first mount is free: the quest Ivory Raptor Replacement, from level 60 for both factions, lets you pick this one."
   - q: "Is Swift Blue Raptor new in WoW Forever?"
     a: "No. Swift Blue Raptor was already in Classic and returns in WoW Forever."
 sources:
@@ -33,17 +33,19 @@ Swift Blue Raptor is a mount from Classic that returns in World of Warcraft: For
 | Riding | Raptor Riding |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> sells it in Durotar for 1000 gold. The vendor is friendly to the Horde.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7664">Ivory Raptor Replacement</a>, from level 60 for both factions, lets you pick this one.
+
 Riding it needs Raptor Riding.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Zjolnir
 

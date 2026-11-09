@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoe krijg je Spectral Bear Cub in WoW Forever?"
-    a: "Hij is een beloning op het Legacy-spoor van WoW Forever. Het totaal aan Legacy-punten dat je verdient, ontgrendelt cosmetische beloningen bij 15, 25, 40 en 55 punten; de Spectral Bear Cub komt bij 25, volgens de tekst in de bestanden van de beta. Punten uitgeven aan perks vertraagt het spoor niet."
+    a: "Hij is een beloning op het Legacy-spoor van WoW Forever. Het totaal aan Legacy-punten dat je verdient, ontgrendelt cosmetische beloningen bij 15, 25, 40 en 55 punten; de Spectral Bear Cub komt bij 25, volgens de tekst in de spelbestanden. Punten uitgeven aan perks vertraagt het spoor niet."
   - q: "Is Spectral Bear Cub nieuw in WoW Forever?"
     a: "Ja. Spectral Bear Cub is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -32,11 +32,11 @@ Spectral Bear Cub is een companion pet die nieuw is in World of Warcraft: Foreve
 
 ## Zo krijg je hem
 
-Hij is een beloning op het Legacy-spoor van WoW Forever. Het totaal aan Legacy-punten dat je verdient, ontgrendelt cosmetische beloningen bij 15, 25, 40 en 55 punten; de Spectral Bear Cub komt bij 25, volgens de tekst in de bestanden van de beta. Punten uitgeven aan perks vertraagt het spoor niet. Elke challenge is een punt waard. Meer over Legacy op de [pagina over WoW Forever](/nl/forever/).
+Hij is een beloning op het Legacy-spoor van WoW Forever. Het totaal aan Legacy-punten dat je verdient, ontgrendelt cosmetische beloningen bij 15, 25, 40 en 55 punten; de Spectral Bear Cub komt bij 25, volgens de tekst in de spelbestanden. Punten uitgeven aan perks vertraagt het spoor niet. Elke challenge is een punt waard. Meer over Legacy op de [pagina over WoW Forever](/nl/forever/).
 
 ## Goed om te weten
 
-De tooltip op de beta toont nog tijdelijke tekst ([DNT] 1), dus deze pet is nog niet af.
+De tooltip toont nog tijdelijke tekst ([DNT] 1), dus deze pet is nog niet af.
 
 De spelgegevens markeren de pet als geldig voor het hele account: een keer geleerd, zou hij er voor elk personage zijn. Blizzard heeft dat zelf niet bevestigd.
 

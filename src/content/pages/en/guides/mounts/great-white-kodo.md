@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Great White Kodo in WoW Forever?"
-    a: "Harb Clawhoof sells it in Mulgore for 1052 gold 63 silver 15 copper. The vendor is friendly to the Horde. Riding it needs Kodo Riding."
+    a: "Harb Clawhoof sells it in Mulgore for 1052 gold 63 silver 15 copper. The vendor is friendly to the Horde. Your first mount is free: the quest New Kodo - Teal, from level 60 for both factions, lets you pick this one."
   - q: "Is Great White Kodo new in WoW Forever?"
     a: "No. Great White Kodo was already in Classic and returns in WoW Forever."
 sources:
@@ -33,17 +33,19 @@ Great White Kodo is a mount from Classic that returns in World of Warcraft: Fore
 | Riding | Kodo Riding |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> sells it in Mulgore for 1052 gold 63 silver 15 copper. The vendor is friendly to the Horde.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7662">New Kodo - Teal</a>, from level 60 for both factions, lets you pick this one.
+
 Riding it needs Kodo Riding.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Harb Clawhoof
 

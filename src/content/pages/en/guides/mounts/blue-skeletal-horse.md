@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Blue Skeletal Horse in WoW Forever?"
-    a: "Zachariah Post sells it in Tirisfal Glades for 42 gold 10 silver 52 copper. The vendor is friendly to the Horde. Riding it needs Undead Horsemanship."
+    a: "Zachariah Post sells it in Tirisfal Glades for 42 gold 10 silver 52 copper. The vendor is friendly to the Horde. Your first mount is free: the quest A Steed in Death as They Were in Life, from level 40 for the Horde, lets you pick this one."
   - q: "Is Blue Skeletal Horse new in WoW Forever?"
     a: "No. Blue Skeletal Horse was already in Classic and returns in WoW Forever."
 sources:
@@ -33,17 +33,19 @@ Blue Skeletal Horse is a mount from Classic that returns in World of Warcraft: F
 | Riding | Undead Horsemanship |
 | Speed | normal |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> sells it in Tirisfal Glades for 42 gold 10 silver 52 copper. The vendor is friendly to the Horde.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, from level 40 for the Horde, lets you pick this one.
+
 Riding it needs Undead Horsemanship.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Zachariah Post
 

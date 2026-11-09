@@ -13,7 +13,7 @@ dungeon:
   slug: "scholomance"
   tab: "guide"
 ---
-Scholomance era chiuso nella beta, che si fermava al livello 30. Questa guida segue il dungeon com'era in Classic, con i livelli dei boss dai dati di Forever. Blizzard non dice se il dungeon cambia per Forever. La mappa di Blizzard mostra la versione arrivata dopo, quindi questa pagina non ne ha.
+Questa guida segue il dungeon com'era in Classic, con i livelli dei boss dai dati di Forever. Blizzard non dice se il dungeon cambia per Forever. La mappa di Blizzard mostra la versione arrivata dopo, quindi questa pagina non ne ha.
 
 ## Come arrivarci
 
@@ -72,4 +72,4 @@ Appare quando i sei sono morti, e attacca subito. Teletrasporta i giocatori nell
 
 - **Le ricompense** delle dieci missioni nei dati di Forever.
 - **Il bottino**: 52 dei 71 oggetti di Classic non sono ancora nei dati di Forever.
-- **Cambiamenti per Forever**: il dungeon era chiuso nella beta. In Classic qui si evocava Kormok per le missioni del Tier 0.5; non si sa se questa evocazione esista in Forever.
+- **Cambiamenti per Forever**: non ancora noti. In Classic qui si evocava Kormok per le missioni del Tier 0.5; non si sa se questa evocazione esista in Forever.

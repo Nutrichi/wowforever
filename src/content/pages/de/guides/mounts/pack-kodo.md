@@ -35,7 +35,7 @@ Pack Kodo ist ein Reittier, das neu in World of Warcraft: Forever ist. Es ist ei
 | Tempo | normal |
 | Voraussetzung | Durotar Supply and Logistics (Exalted), Azeroth Commerce Authority (Exalted) |
 | Neu in Forever | ja |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
@@ -52,9 +52,12 @@ Zum Reiten braucht es Journeyman Riding.
 ## Mehr Reittiere mit Journeyman Riding
 
 - [Cerulean Prideclaw](/de/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/de/guides/mounts/crimson-rooster/)
 - [Rivendare's Deathcharger](/de/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/de/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/de/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/de/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/de/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/de/guides/mounts/verdant-sea-turtle/)
 
 Jedes Reittier von WoW Forever, mit seiner Herkunft, steht im [Reittier-Guide](/de/guides/mounts/).

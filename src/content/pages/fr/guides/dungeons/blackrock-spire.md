@@ -45,4 +45,4 @@ Butin, quêtes et parcours sont dans le guide d'[Upper Blackrock Spire](/fr/guid
 
 ## Ce qu'on ne sait pas encore
 
-Blackrock Spire était fermé sur la beta, qui s'arrêtait au niveau 30 : ces pages suivent donc le donjon tel qu'il était dans Classic. Blizzard n'a pas dit si Upper Blackrock Spire reste un donjon pour 10 joueurs, ni ce qui change encore. Tous les donjons sont dans l'[aperçu des donjons](/fr/guides/dungeons/).
+Ces pages suivent Blackrock Spire tel qu'il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n'a pas dit si Upper Blackrock Spire reste un donjon pour 10 joueurs, ni ce qui change encore. Tous les donjons sont dans l'[aperçu des donjons](/fr/guides/dungeons/).

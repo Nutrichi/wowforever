@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Dire Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner la vende a Orgrimmar per 40 d'oro. Il mercante è amichevole con l'Orda. Cavalcarla richiede Wolf Riding."
+    a: "Ogunaro Wolfrunner la vende a Orgrimmar per 40 d'oro. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Your First Riding Wolf, dal livello 40 per l'Orda, ti fa scegliere questa."
   - q: "Dire Wolf è nuova in WoW Forever?"
     a: "No. Dire Wolf c'era già in Classic e torna in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Dire Wolf è una cavalcatura di Classic che torna in World of Warcraft: Forever.
 | Cavalcare | Wolf Riding |
 | Velocità | normale |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende a Orgrimmar per 40 d'oro. Il mercante è amichevole con l'Orda.
 
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, dal livello 40 per l'Orda, ti fa scegliere questa.
+
 Cavalcarla richiede Wolf Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature di Ogunaro Wolfrunner
 

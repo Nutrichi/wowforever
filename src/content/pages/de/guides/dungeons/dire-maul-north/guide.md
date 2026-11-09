@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-north"
   tab: "guide"
 ---
-Dire Maul war in der Beta zu, die bei Level 30 endete. Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt.
+Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt.
 
 ## Anreise
 
@@ -76,4 +76,4 @@ Sie kämpfen zusammen. Beim vollen Clear tötest du zuerst Cho'Rush und unterbri
 
 - **Die Belohnungen** der fünf Quests in den Daten von Forever.
 - **Die Beute**: Keiner der 30 Gegenstände aus Classic steht schon in den Daten von Forever, und der Inhalt der Truhe Gordok Tribute ist nicht bekannt.
-- **Änderungen für Forever**: Der Dungeon war in der Beta zu.
+- **Änderungen für Forever**: noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler sie finden.

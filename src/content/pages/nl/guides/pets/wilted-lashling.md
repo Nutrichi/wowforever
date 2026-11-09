@@ -15,7 +15,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=249898"
 ---
-Wilted Lashling is een companion pet die nieuw is in World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=249898"><img class="wf-wh__icon" src="/wh/inv_10_herb_seed_magiccolor3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wilted Lashling Bud</a> roept hem nog op zoals in Classic, volgens de tooltip op de beta.
+Wilted Lashling is een companion pet die nieuw is in World of Warcraft: Forever. Je leert hem van <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=249898"><img class="wf-wh__icon" src="/wh/inv_10_herb_seed_magiccolor3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wilted Lashling Bud</a>.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_10_herb_seed_magiccolor3.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=249898">Wilted Lashling Bud</a><span class="wf-item__line wf-item__meta">Item Level 50</span><span class="wf-item__line">Binds when used</span><span class="wf-item__line wf-item__use">Use: Right Click to summon and dismiss a lashling.</span></div></div>

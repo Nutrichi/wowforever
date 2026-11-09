@@ -119,7 +119,7 @@ Jeder Buff hält 15 Minuten und beginnt nach 10 Sekunden Essen.
 
 ## Neue Rezepte
 
-Jedes neue Rezept von Forever mit dem nötigen Skill und seiner Quelle. „Noch nicht bekannt“ heißt, dass die Quelle in der Beta noch nicht gefunden wurde.
+Jedes neue Rezept von Forever mit dem nötigen Skill und seiner Quelle. „Noch nicht bekannt“ heißt, dass die Quelle noch nicht gefunden wurde.
 
 | Rezept | Skill | Quelle |
 |---|---|---|

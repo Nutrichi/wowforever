@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-living"
   tab: "guide"
 ---
-Stratholme war in der Beta geschlossen, die bei Stufe 30 endete. Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, sagt Blizzard nicht.
+Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, sagt Blizzard nicht.
 
 Stratholme ist eine Instanz mit zwei Seiten. Die lebende Seite gehört dem Scarlet Crusade, die [untote Seite](/de/guides/dungeons/stratholme-undead/) der Geißel von Baron Rivendare. Beide sind über das King's Square Gate verbunden, das den <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12382"><img class="wf-wh__icon" src="/wh/inv_misc_key_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Key to the City</a> braucht.
 
@@ -90,4 +90,4 @@ Der Kampf beginnt leicht. Dann verwandelt sich Dathrohan in den Dämon Balnazzar
 
 - **Die Belohnungen** der sechs Quests in den Daten von Forever.
 - **Die Beute**: 33 der 46 Gegenstände aus Classic stehen noch nicht in den Daten von Forever.
-- **Änderungen für Forever**: Der Dungeon war in der Beta geschlossen. In Classic wurden hier Jarien und Sothos für die Quests von Tier 0.5 beschworen; ob es diese Beschwörung in Forever gibt, ist nicht bekannt.
+- **Änderungen für Forever**: noch nicht bekannt. In Classic wurden hier Jarien und Sothos für die Quests von Tier 0.5 beschworen; ob es diese Beschwörung in Forever gibt, ist nicht bekannt.

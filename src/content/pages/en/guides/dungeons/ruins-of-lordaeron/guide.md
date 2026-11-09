@@ -97,7 +97,7 @@ The trash hits less hard than in the Hall of Thanes, but the packs stand close t
 
 ## The six bosses
 
-Any order works. Every boss drops blue items; three per boss are known from the beta.
+Any order works. Every boss drops blue items; three per boss were known from the beta.
 
 ### Witherfang
 
@@ -117,7 +117,7 @@ Tank him with your back to a wall. He also hits everyone in melee range around h
 
 ### Viktor the Vile
 
-The boss most groups miss. Light the Kindled Flame in the chimney of a building in the southwest of Lordamere Overlook, near the graveyard. Five waves of adds follow before Viktor comes. He hits hard and has the same Leech Poison as Witherfang, so let the tank take aggro first. On the beta Viktor sometimes does not spawn.
+The boss most groups miss. Light the Kindled Flame in the chimney of a building in the southwest of Lordamere Overlook, near the graveyard. Five waves of adds follow before Viktor comes. He hits hard and has the same Leech Poison as Witherfang, so let the tank take aggro first. On the beta Viktor sometimes did not spawn.
 
 The waves drain the group more than Viktor himself, so start only with full mana.
 
@@ -152,7 +152,7 @@ A rare with a small chance to spawn on the west side of the dungeon. The Allianc
 ## What is not known yet
 
 - Which boss counts as the final boss. The level-20 boss has no fixed place in the order; common routes end at Rath'mael.
-- Whether Viktor the Vile always spawns at launch. On the beta he sometimes does not.
+- Whether Viktor the Vile always spawns. On the beta he sometimes did not.
 - Where the rest of Rotmender's Raiment drops, and at which step Unending Torment gives Slain Baron's Signet.
 - How much experience The Wrath of Rath'mael gives
 

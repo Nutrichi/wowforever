@@ -30,12 +30,13 @@ Baby Crocolisk est une mascotte de compagnie nouvelle dans World of Warcraft: Fo
 | Objet | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282047"><img class="wf-wh__icon" src="/wh/inv_pet_babycrocodile_toothy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baby Crocolisk</a> |
 | Source | Butin: Sewer Beast |
 | Où | Stormwind City |
+| Taux de butin | 4,4 % |
 | Nouvelle dans Forever | oui |
 | Pour tout le compte | oui, selon les données du jeu |
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a> la laisse tomber. Le crocilisque patrouille dans les canaux de Stormwind City et c'est un rare de niveau 50 sur la bêta. De grands groupes de raid de joueurs de bas niveau en sont venus à bout. La fréquence de la mascotte n'est pas connue.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a> la laisse tomber. Le crocilisque patrouille dans les canaux de Stormwind City et c'est un rare de niveau 50. De grands groupes de raid de joueurs de bas niveau en sont venus à bout. La mascotte tombe dans environ 4,4 % des victoires.
 
 ## Bon à savoir
 

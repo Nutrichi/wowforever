@@ -37,7 +37,7 @@ Minimule is a companion pet that is new in World of Warcraft: Forever. You learn
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256389">Tamelyn Aldridge</a> sells it in Redridge Mountains for 1,500 Merchant's Favor.
 
-Merchant's Favor is the currency of the two supply factions of WoW Forever: the [Azeroth Commerce Authority](/reputations/azeroth-commerce-authority/) for the Alliance and [Durotar Supply and Logistics](/reputations/durotar-supply-and-logistics/) for the Horde. You earn it by filling and handing in supply crates.
+Merchant's Favor is the currency of the two supply factions of WoW Forever: the [Azeroth Commerce Authority](/reputations/azeroth-commerce-authority/) for the Alliance and [Durotar Supply and Logistics](/reputations/durotar-supply-and-logistics/) for the Horde. You earn it by filling and handing in supply crates. You need Revered with that faction to buy the Packmule Treat.
 
 ## Good to know
 

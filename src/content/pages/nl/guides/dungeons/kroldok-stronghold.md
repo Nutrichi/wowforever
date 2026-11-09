@@ -20,4 +20,4 @@ dungeon:
   slug: "kroldok-stronghold"
   tab: "loot"
 ---
-Van Krol'dok Stronghold is nog geen buit bekend. De dungeon opent boven level 30 en stond dus niet op de beta. De speldata heeft wel een itemset Krol'dok Battlegear, maar de stukken en waar ze vallen, zijn nog niet bekend. Deze pagina vult zich zodra spelers hem na de launch op 4 november lopen.
+Van Krol'dok Stronghold is nog geen buit bekend. De speldata heeft wel een itemset Krol'dok Battlegear, maar de stukken en waar ze vallen, zijn nog niet bekend. Deze pagina vult zich naarmate spelers hem lopen.

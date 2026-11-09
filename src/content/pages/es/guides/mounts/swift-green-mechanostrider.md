@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Swift Green Mechanostrider en WoW Forever?"
-    a: "Milli Featherwhistle la vende en Dun Morogh por 1000 de oro. El vendedor es amistoso con la Alianza. Montarla requiere Mechanostrider Piloting."
+    a: "Milli Featherwhistle la vende en Dun Morogh por 1000 de oro. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Icy Blue Mechanostrider Replacement, desde el nivel 60 para ambas facciones, te deja elegir esta."
   - q: "¿Es Swift Green Mechanostrider nueva en WoW Forever?"
     a: "No. Swift Green Mechanostrider ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Swift Green Mechanostrider es una montura de Classic que vuelve en World of Warc
 | Equitación | Mechanostrider Piloting |
 | Velocidad | muy rápida |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vende en Dun Morogh por 1000 de oro. El vendedor es amistoso con la Alianza.
 
+Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7675">Icy Blue Mechanostrider Replacement</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+
 Montarla requiere Mechanostrider Piloting.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas de Milli Featherwhistle
 

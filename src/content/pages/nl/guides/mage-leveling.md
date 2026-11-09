@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Wat is de beste spec om een Mage te levelen in WoW Forever?"
-    a: "Frost. Ice Lance en Fingers of Frost geven Frost de snelste kills op de beta, bovenop de slows en freezes die het altijd al veilig maakten. Fire en Arcane werken ook, maar leunen meer op gear, crit of procs."
+    a: "Frost. Ice Lance en Fingers of Frost gaven Frost de snelste kills op de beta, bovenop de slows en freezes die het altijd al veilig maakten. Fire en Arcane werken ook, maar leunen meer op gear, crit of procs."
   - q: "Waarom is Ice Lance zo sterk?"
     a: "Ice Lance is instant en doet 200% meer schade aan een Frozen doelwit. Frostbite en Frost Nova bevriezen het doelwit, en Fingers of Frost behandelt je volgende twee spells alsof het doelwit Frozen is. Met Shatter en Ice Shards critten die hard."
   - q: "Wanneer krijg ik Ice Lance?"

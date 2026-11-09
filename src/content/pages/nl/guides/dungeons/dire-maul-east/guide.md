@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-east"
   tab: "guide"
 ---
-Dire Maul was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
 
 ## De weg erheen
 
@@ -57,4 +57,4 @@ Ruim eerst de Warpwood Crushers op de helling op, anders doen ze mee. Alzzin wis
 
 - **De beloningen** van de vijf quests in de data van Forever.
 - **De loot**: geen van de 24 items uit Classic staat al in de data van Forever.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta. In Classic werd Isalien hier opgeroepen voor de quests van Tier 0.5; of die quests in Forever bestaan, is niet bekend.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden. In Classic werd Isalien hier opgeroepen voor de quests van Tier 0.5; of die quests in Forever bestaan, is niet bekend.

@@ -1,14 +1,14 @@
 ---
 title: "Pet Stone: so bekommst du das Haustier in WoW Forever"
 metaTitle: "So bekommst du Pet Stone in WoW Forever"
-description: "Pet Stone ist ein Haustier aus Classic, das in World of Warcraft: Forever zurückkehrt. Es fällt von mehreren Monstern."
+description: "Pet Stone ist ein Haustier aus Classic, das in World of Warcraft: Forever zurückkehrt."
 short: "Pet Stone"
 updated: 2026-09-30
 lang: de
 manual: true
 faq:
   - q: "Wie bekommt man Pet Stone in WoW Forever?"
-    a: "Es fällt von mehreren Monstern. Diese haben in den Beutedaten die beste Chance: The Giant in Feralas Enraged Mountain Giant in Feralas"
+    a: "Die Spieldateien von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden."
   - q: "Ist Pet Stone neu in WoW Forever?"
     a: "Nein. Pet Stone gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -26,17 +26,13 @@ Pet Stone ist ein Haustier aus Classic, das in World of Warcraft: Forever zurüc
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13343"><img class="wf-wh__icon" src="/wh/inv_stone_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Stone</a> |
-| Quelle | Beute: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (und 1 weitere) |
-| Wo | Feralas |
+| Quelle | Noch nicht bekannt |
 | Neu in Forever | nein, aus Classic |
 | Accountweit | ja, laut Spieldaten |
 
 ## So bekommst du es
 
-Es fällt von mehreren Monstern. Diese haben in den Beutedaten die beste Chance:
-
-- <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> in Feralas
-- <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221373">Enraged Mountain Giant</a> in Feralas
+Die Spieldateien von WoW Forever enthalten dieses Haustier, aber woher es kommt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 ## Was sich seit Classic geändert hat
 
@@ -46,13 +42,13 @@ Die Spieldaten führen das Haustier als accountweit: einmal gelernt, wäre es f�
 
 ## Mehr Haustiere aus derselben Quelle
 
-- [Baby Crocolisk](/de/guides/pets/baby-crocolisk/)
-- [Black Tabby](/de/guides/pets/black-tabby/)
-- [Crimson Whelpling](/de/guides/pets/crimson-whelpling/)
-- [Dark Whelpling](/de/guides/pets/dark-whelpling/)
-- [Emerald Whelpling](/de/guides/pets/emerald-whelpling/)
-- [Green Wing Macaw](/de/guides/pets/green-wing-macaw/)
-- [Hyacinth Macaw](/de/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/de/guides/pets/pet-fish/)
+- [Albino Snapjaw](/de/guides/pets/albino-snapjaw/)
+- [Azure Whelpling](/de/guides/pets/azure-whelpling/)
+- [Azurky](/de/guides/pets/azurky/)
+- [Baby Shark](/de/guides/pets/baby-shark/)
+- [Blossoming Ancient](/de/guides/pets/blossoming-ancient/)
+- [Bronze Whelpling](/de/guides/pets/bronze-whelpling/)
+- [Corrupted Kitten](/de/guides/pets/corrupted-kitten/)
+- [Disgusting Oozeling](/de/guides/pets/disgusting-oozeling/)
 
 Jedes Haustier von WoW Forever, mit seiner Herkunft, steht im [Haustier-Guide](/de/guides/pets/).

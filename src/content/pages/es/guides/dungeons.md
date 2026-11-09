@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Qué mazmorras hay en WoW Forever?"
-    a: "Las mazmorras de Classic, de Ragefire Chasm a Upper Blackrock Spire, más nueve nuevas. The Hall of Thanes, Ruins of Lordaeron, la Excavation Site y la City of Dalaran están en la beta; las otras cinco llegan a niveles más altos."
+    a: "Las mazmorras de Classic, de Ragefire Chasm a Upper Blackrock Spire, más nueve nuevas. Cuatro de las nuevas son para niveles por debajo de 30, las otras cinco para niveles más altos."
   - q: "¿Cuál es la primera mazmorra de WoW Forever?"
     a: "Ragefire Chasm para la Horde, con misiones desde el nivel 9, y The Hall of Thanes para la Alliance, para los niveles 13 a 18. Ruins of Lordaeron, para 15 a 20, es la primera mazmorra nueva en territorio de la Horde."
   - q: "¿Siguen dando mucha experiencia las misiones de mazmorra?"
@@ -19,7 +19,7 @@ sources:
 ---
 Las misiones de mazmorra son la mayor ganancia de una vuelta por una mazmorra en WoW Forever: Blizzard redujo la experiencia de los monstruos de dentro y subió la de las misiones. Esta guía reúne cada mazmorra con el nivel para entrar, y cada misión: dónde empieza, para qué facción y qué hace falta antes.
 
-La beta de WoW Forever llega hasta el nivel 30 desde el 1 de octubre. Para las mazmorras por encima, las misiones vienen de los datos de Classic y aún pueden cambiar. Las filas de The Hall of Thanes y Ruins of Lordaeron están comprobadas con las páginas de misión de la beta.
+Para las mazmorras por encima del nivel 30, las misiones vienen de los datos de Classic y aún pueden cambiar en Forever. Las filas de The Hall of Thanes y Ruins of Lordaeron se comprobaron con las páginas de misión de la beta.
 
 ## Guías por mazmorra
 
@@ -529,7 +529,7 @@ Al menos un jugador necesita el Seal of Ascension para entrar.
 
 ## Mazmorras nuevas sin misiones conocidas
 
-Aún no se conocen las misiones de seis mazmorras nuevas de Forever. La Excavation Site abrió en la beta el 1 de octubre; sus misiones están en [su propia guía](/es/guides/dungeons/excavation-site-wetlands/). Los niveles son los de Blizzard.
+Aún no se conocen las misiones de seis mazmorras nuevas de Forever. Las misiones de la Excavation Site están en [su propia guía](/es/guides/dungeons/excavation-site-wetlands/). Los niveles son los de Blizzard.
 
 | Mazmorra | Niveles |
 |---|---|

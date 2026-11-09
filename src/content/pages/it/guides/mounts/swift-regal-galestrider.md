@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Regal Galestrider in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno. Cavalcarla richiede Galestrider Riding."
+    a: "I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno. Cavalcarla richiede Galestrider Riding."
   - q: "Swift Regal Galestrider è nuova in WoW Forever?"
     a: "Sì. Swift Regal Galestrider è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -32,11 +32,11 @@ Swift Regal Galestrider è una cavalcatura nuova in World of Warcraft: Forever. 
 | Cavalcare | Galestrider Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno.
 
 Cavalcarla richiede Galestrider Riding.
 

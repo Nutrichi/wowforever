@@ -35,7 +35,7 @@ Pack Kodo est une monture nouvelle dans World of Warcraft: Forever. C'est une mo
 | Vitesse | normale |
 | Prérequis | Durotar Supply and Logistics (Exalted), Azeroth Commerce Authority (Exalted) |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
@@ -52,9 +52,12 @@ La monter demande Journeyman Riding.
 ## D'autres montures avec Journeyman Riding
 
 - [Cerulean Prideclaw](/fr/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/fr/guides/mounts/crimson-rooster/)
 - [Rivendare's Deathcharger](/fr/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/fr/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/fr/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/fr/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/fr/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/fr/guides/mounts/verdant-sea-turtle/)
 
 Chaque monture de WoW Forever, avec son origine, se trouve dans le [guide des montures](/fr/guides/mounts/).

@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Quels donjons contient WoW Forever ?"
-    a: "Les donjons de Classic, de Ragefire Chasm à Upper Blackrock Spire, plus neuf nouveaux. The Hall of Thanes, les Ruins of Lordaeron, l’Excavation Site et la City of Dalaran sont sur la bêta ; les cinq autres suivent à des niveaux plus élevés."
+    a: "Les donjons de Classic, de Ragefire Chasm à Upper Blackrock Spire, plus neuf nouveaux. Quatre des nouveaux sont pour les niveaux sous 30, les cinq autres pour des niveaux plus élevés."
   - q: "Quel est le premier donjon de WoW Forever ?"
     a: "Ragefire Chasm pour la Horde, avec des quêtes dès le niveau 9, et The Hall of Thanes pour l’Alliance, pour les niveaux 13 à 18. Les Ruins of Lordaeron, pour 15 à 20, sont le premier nouveau donjon en territoire de la Horde."
   - q: "Les quêtes de donjon rapportent-elles encore beaucoup d’expérience ?"
@@ -19,7 +19,7 @@ sources:
 ---
 Les quêtes de donjon sont le plus gros gain d’un passage en donjon dans WoW Forever : Blizzard a réduit l’expérience des monstres à l’intérieur et augmenté celle des quêtes. Ce guide liste chaque donjon avec le niveau pour y entrer, et chaque quête : où elle commence, pour quelle faction, et ce qu’il faut faire avant.
 
-La bêta de WoW Forever va jusqu’au niveau 30 depuis le 1er octobre. Pour les donjons au-delà, les quêtes viennent des données de Classic et peuvent encore changer. Les lignes du Hall of Thanes et des Ruins of Lordaeron sont vérifiées sur les pages de quête de la bêta.
+Pour les donjons au-delà du niveau 30, les quêtes viennent des données de Classic et peuvent encore changer dans Forever. Les lignes du Hall of Thanes et des Ruins of Lordaeron ont été vérifiées sur les pages de quête de la bêta.
 
 ## Guides par donjon
 
@@ -529,7 +529,7 @@ Au moins un joueur doit avoir le Seal of Ascension pour entrer.
 
 ## Nouveaux donjons sans quêtes connues
 
-Les quêtes de six nouveaux donjons de Forever ne sont pas encore connues. L’Excavation Site a ouvert sur la bêta le 1er octobre ; ses quêtes sont dans [son propre guide](/fr/guides/dungeons/excavation-site-wetlands/). Les niveaux sont ceux de Blizzard.
+Les quêtes de six nouveaux donjons de Forever ne sont pas encore connues. Les quêtes de l’Excavation Site sont dans [son propre guide](/fr/guides/dungeons/excavation-site-wetlands/). Les niveaux sont ceux de Blizzard.
 
 | Donjon | Niveaux |
 |---|---|

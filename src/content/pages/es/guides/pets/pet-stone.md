@@ -1,14 +1,14 @@
 ---
 title: "Pet Stone: cómo conseguir la mascota en WoW Forever"
 metaTitle: "Cómo conseguir Pet Stone en WoW Forever"
-description: "Pet Stone es una mascota de compañía de Classic que vuelve en World of Warcraft: Forever. La sueltan varios monstruos."
+description: "Pet Stone es una mascota de compañía de Classic que vuelve en World of Warcraft: Forever."
 short: "Pet Stone"
 updated: 2026-09-30
 lang: es
 manual: true
 faq:
   - q: "¿Cómo se consigue Pet Stone en WoW Forever?"
-    a: "La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín: The Giant en Feralas Enraged Mountain Giant en Feralas"
+    a: "Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren."
   - q: "¿Es Pet Stone nueva en WoW Forever?"
     a: "No. Pet Stone ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -26,17 +26,13 @@ Pet Stone es una mascota de compañía de Classic que vuelve en World of Warcraf
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13343"><img class="wf-wh__icon" src="/wh/inv_stone_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pet Stone</a> |
-| Origen | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> (y 1 más) |
-| Dónde | Feralas |
+| Origen | Aún no se sabe |
 | Nueva en Forever | no, de Classic |
 | Para toda la cuenta | sí, según los datos del juego |
 
 ## Cómo conseguirla
 
-La sueltan varios monstruos. Estos tienen la mejor probabilidad en los datos de botín:
-
-- <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=222789">The Giant</a> en Feralas
-- <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=221373">Enraged Mountain Giant</a> en Feralas
+Los archivos del juego WoW Forever contienen esta mascota, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 ## Qué cambió desde Classic
 
@@ -46,13 +42,13 @@ Los datos del juego marcan la mascota como de toda la cuenta: aprendida una vez,
 
 ## Más mascotas del mismo origen
 
-- [Baby Crocolisk](/es/guides/pets/baby-crocolisk/)
-- [Black Tabby](/es/guides/pets/black-tabby/)
-- [Crimson Whelpling](/es/guides/pets/crimson-whelpling/)
-- [Dark Whelpling](/es/guides/pets/dark-whelpling/)
-- [Emerald Whelpling](/es/guides/pets/emerald-whelpling/)
-- [Green Wing Macaw](/es/guides/pets/green-wing-macaw/)
-- [Hyacinth Macaw](/es/guides/pets/hyacinth-macaw/)
-- [Pet Fish](/es/guides/pets/pet-fish/)
+- [Albino Snapjaw](/es/guides/pets/albino-snapjaw/)
+- [Azure Whelpling](/es/guides/pets/azure-whelpling/)
+- [Azurky](/es/guides/pets/azurky/)
+- [Baby Shark](/es/guides/pets/baby-shark/)
+- [Blossoming Ancient](/es/guides/pets/blossoming-ancient/)
+- [Bronze Whelpling](/es/guides/pets/bronze-whelpling/)
+- [Corrupted Kitten](/es/guides/pets/corrupted-kitten/)
+- [Disgusting Oozeling](/es/guides/pets/disgusting-oozeling/)
 
 Cada mascota de WoW Forever, con su origen, está en la [guía de mascotas](/es/guides/pets/).

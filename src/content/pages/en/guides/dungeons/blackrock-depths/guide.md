@@ -12,7 +12,7 @@ dungeon:
   slug: "blackrock-depths"
   tab: "guide"
 ---
-Blackrock Depths was closed on the beta, which stopped at level 30. This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever. A full clear takes hours, so most groups pick a part.
+This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever. A full clear takes hours, so most groups pick a part.
 
 ## Getting there
 
@@ -105,4 +105,4 @@ Princess Moira Bronzebeard heals him. Kill her, or keep her busy and interrupt h
 
 - **The rewards** of the twenty-two quests in the Forever data.
 - **The loot**: 74 of the 103 Classic items are not in the Forever data yet.
-- **Changes for Forever**: the dungeon was closed on the beta.
+- **Changes for Forever**: not known yet. This page gets updated as soon as players find them.

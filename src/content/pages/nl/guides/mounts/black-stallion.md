@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Black Stallion in WoW Forever?"
-    a: "Unger Statforth verkoopt hem in Wetlands voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance. Rijden vraagt Horse Riding."
+    a: "Unger Statforth verkoopt hem in Wetlands voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Horse, vanaf level 40 voor de Alliance, laat je deze kiezen."
   - q: "Is Black Stallion nieuw in WoW Forever?"
     a: "Nee. Black Stallion zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Black Stallion is een mount uit Classic die terugkomt in World of Warcraft: Fore
 | Rijden | Horse Riding |
 | Snelheid | normaal |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> verkoopt hem in Wetlands voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance.
 
+Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=97171">Your First Horse</a>, vanaf level 40 voor de Alliance, laat je deze kiezen.
+
 Rijden vraagt Horse Riding.
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 ## Meer mounts met Horse Riding
 

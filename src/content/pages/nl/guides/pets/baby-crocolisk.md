@@ -30,12 +30,13 @@ Baby Crocolisk is een companion pet die nieuw is in World of Warcraft: Forever. 
 | Item | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282047"><img class="wf-wh__icon" src="/wh/inv_pet_babycrocodile_toothy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baby Crocolisk</a> |
 | Bron | Drop: Sewer Beast |
 | Waar | Stormwind City |
+| Dropkans | 4,4% |
 | Nieuw in Forever | ja |
 | Voor het hele account | ja, volgens de spelgegevens |
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a> laat hem vallen. De crocolisk patrouilleert door de kanalen van Stormwind City en is op de beta een rare van level 50. Grote raidgroepen van spelers met een laag level hebben hem neergehaald. Hoe vaak de pet valt, is niet bekend.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3581">Sewer Beast</a> laat hem vallen. De crocolisk patrouilleert door de kanalen van Stormwind City en is een rare van level 50. Grote raidgroepen van spelers met een laag level hebben hem neergehaald. De pet valt bij ongeveer 4,4% van de kills.
 
 ## Goed om te weten
 

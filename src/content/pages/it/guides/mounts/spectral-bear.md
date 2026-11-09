@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Spectral Bear in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno. Cavalcarla richiede Journeyman Riding."
+    a: "I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno. Cavalcarla richiede Journeyman Riding."
   - q: "Spectral Bear è nuova in WoW Forever?"
     a: "Sì. Spectral Bear è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -32,20 +32,23 @@ Spectral Bear è una cavalcatura nuova in World of Warcraft: Forever. È una cav
 | Cavalcare | Journeyman Riding |
 | Velocità | normale |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+I file di gioco di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena i giocatori lo scopriranno.
 
 Cavalcarla richiede Journeyman Riding.
 
 ## Altre cavalcature con Journeyman Riding
 
 - [Cerulean Prideclaw](/it/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/it/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/it/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/it/guides/mounts/rivendares-deathcharger/)
+- [Spectral Wolf Pack](/it/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/it/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/it/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/it/guides/mounts/verdant-sea-turtle/)
 
 Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

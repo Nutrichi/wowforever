@@ -1,14 +1,14 @@
 ---
 title: "Lavender Kodo: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Lavender Kodo in WoW Forever"
-description: "Lavender Kodo è una cavalcatura nuova in World of Warcraft: Forever. Fonte: Non ancora noto."
+description: "Lavender Kodo è una cavalcatura nuova in World of Warcraft: Forever. Fonte: Missione: Your First Riding Kodo."
 short: "Lavender Kodo"
 updated: 2026-10-09
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Lavender Kodo in WoW Forever?"
-    a: "I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno. Cavalcarla richiede Kodo Riding."
+    a: "È la ricompensa della missione Your First Riding Kodo, dal livello 40, per l'Orda. Cavalcarla richiede Kodo Riding."
   - q: "Lavender Kodo è nuova in WoW Forever?"
     a: "Sì. Lavender Kodo è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -27,16 +27,16 @@ Lavender Kodo è una cavalcatura nuova in World of Warcraft: Forever. È una cav
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277960"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lavender Kodo</a> |
-| Fonte | Non ancora noto |
+| Fonte | Missione: <a href="https://www.wowhead.com/forever/quest=97446">Your First Riding Kodo</a> |
 | Livello | 40 |
 | Cavalcare | Kodo Riding |
 | Velocità | normale |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
-I file della beta di WoW Forever contengono questa cavalcatura, ma non si sa ancora da dove venga. Questa pagina verrà aggiornata appena la beta o il lancio lo mostreranno.
+È la ricompensa della missione <a href="https://www.wowhead.com/forever/quest=97446">Your First Riding Kodo</a>, dal livello 40, per l'Orda.
 
 Cavalcarla richiede Kodo Riding.
 

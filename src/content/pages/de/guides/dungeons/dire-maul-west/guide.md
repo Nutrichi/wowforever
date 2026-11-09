@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-west"
   tab: "guide"
 ---
-Dire Maul war in der Beta zu, die bei Level 30 endete. Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt.
+Dieser Guide folgt dem Dungeon, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob sich der Dungeon für Forever ändert, hat Blizzard nicht gesagt.
 
 ## Anreise
 
@@ -69,4 +69,4 @@ Stell ihn in eine Ecke. Arcane Blast stößt zurück und setzt die Bedrohung zur
 
 - **Die Belohnungen** der vier Quests in den Daten von Forever.
 - **Die Beute**: Keiner der 33 Gegenstände aus Classic steht schon in den Daten von Forever.
-- **Änderungen für Forever**: Der Dungeon war in der Beta zu. In Classic wurde Lord Hel'nurath im Gefängnis für den letzten Schritt des epischen Reittiers des Warlocks beschworen; ob es diese Quest in Forever gibt, ist nicht bekannt.
+- **Änderungen für Forever**: noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler sie finden. In Classic wurde Lord Hel'nurath im Gefängnis für den letzten Schritt des epischen Reittiers des Warlocks beschworen; ob es diese Quest in Forever gibt, ist nicht bekannt.

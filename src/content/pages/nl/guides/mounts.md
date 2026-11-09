@@ -8,9 +8,9 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoeveel mounts zijn er in WoW Forever?"
-    a: "In de bestanden van de beta staan 130 mounts: 38 nieuwe en 92 uit Classic."
+    a: "In de spelbestanden staan 133 mounts: 41 nieuwe en 92 uit Classic."
   - q: "Gelden mounts voor het hele account in WoW Forever?"
-    a: "De tooltips op de beta markeren mounts als geldig voor het hele account, en het item leert je de mount in plaats van hem uit je tassen op te roepen. Blizzard heeft er nog niet meer over gezegd."
+    a: "De tooltips markeren mounts als geldig voor het hele account, en het item leert je de mount in plaats van hem uit je tassen op te roepen."
   - q: "Welke mounts zijn nieuw in WoW Forever?"
     a: "Onder meer de Galestriders van de Skyborne, die de nieuwe Galestrider Riding vragen, nieuwe Skeletal Horses en nieuwe Kodos."
 sources:
@@ -18,23 +18,27 @@ sources:
     url: "https://www.wowhead.com/forever/items/miscellaneous/mounts"
 ---
 
-World of Warcraft: Forever heeft 130 mounts in zijn bestanden: 38 nieuwe en 92 uit Classic. Deze gids zet ze allemaal op een rij met waar ze vandaan komen, en elke mount heeft een eigen pagina met het item, de bron en wat hij vraagt.
+World of Warcraft: Forever heeft 133 mounts in zijn bestanden: 41 nieuwe en 92 uit Classic. Deze gids zet ze allemaal op een rij met waar ze vandaan komen, en elke mount heeft een eigen pagina met het item, de bron en wat hij vraagt.
 
-In WoW Forever leert het item je de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltips op de beta. De meeste mounts vragen nog de rijvaardigheid van hun ras, zoals Ram Riding of de nieuwe Galestrider Riding van de Skyborne.
+In WoW Forever leert het item je de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltips. De meeste mounts vragen nog de rijvaardigheid van hun ras, zoals Ram Riding of de nieuwe Galestrider Riding van de Skyborne. Je eerste mount is gratis: vanaf level 40 laat een quest van je ras, zoals Your First Horse, je er een kiezen.
 
-De lijst komt uit de bestanden en de database van de beta. Voor 53 mounts staat de mount in de bestanden, maar toont de beta nog niet waar hij vandaan komt; die staan in een eigen sectie en worden bijgewerkt zodra dat verandert.
+De lijst komt uit de spelbestanden en de itemdatabase van WoW Forever. Voor 51 mounts staat de mount in de bestanden, maar is nog niet bekend waar hij vandaan komt; die staan in een eigen sectie en worden bijgewerkt zodra dat verandert.
 
 ## Nieuw in WoW Forever
 
 | Mount | Bron | Waar |
 |---|---|---|
+| [Black Skeletal Horse](/nl/guides/mounts/black-skeletal-horse/ "wh:item=276063:q3:ability_mount_undeadhorse") | Quest: <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a> |  |
 | [Empyrean Galestrider](/nl/guides/mounts/empyrean-galestrider/ "wh:item=269681:q3:inv_craneskybornemount_c60_white") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 20 goud | Zephras Isle |
+| [Lavender Kodo](/nl/guides/mounts/lavender-kodo/ "wh:item=277960:q3:ability_mount_kodo_01") | Quest: <a href="https://www.wowhead.com/forever/quest=97446">Your First Riding Kodo</a> |  |
 | [Pack Kodo](/nl/guides/mounts/pack-kodo/ "wh:item=262766:q4:ability_mount_kodo_03") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256400">Okamache</a>, 6000 Merchant's Favor | Redridge Mountains en The Barrens |
 | [Stormy Galestrider](/nl/guides/mounts/stormy-galestrider/ "wh:item=269683:q3:inv_craneskybornemount_c60_blue") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 20 goud | Zephras Isle |
+| [Striped Dawnsaber](/nl/guides/mounts/striped-dawnsaber/ "wh:item=274706:q3:ability_mount_jungletiger") | Quest: <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a> |  |
 | [Swift Empyrean Galestrider](/nl/guides/mounts/swift-empyrean-galestrider/ "wh:item=269671:q4:inv_craneskyborneswiftmount_c60_white") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 200 goud | Zephras Isle |
 | [Swift Stormy Galestrider](/nl/guides/mounts/swift-stormy-galestrider/ "wh:item=269678:q4:inv_craneskyborneswiftmount_c60_blue") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 200 goud | Zephras Isle |
 | [Swift Umber Galestrider](/nl/guides/mounts/swift-umber-galestrider/ "wh:item=274933:q4:inv_craneskyborneswiftmount_c60_blue") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 200 goud | Zephras Isle |
 | [Umber Galestrider](/nl/guides/mounts/umber-galestrider/ "wh:item=274930:q3:inv_craneskyborne_c60_green") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 20 goud | Zephras Isle |
+| [White Kodo](/nl/guides/mounts/white-kodo/ "wh:item=275993:q3:ability_mount_kodo_01") | Quest: <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a> |  |
 
 ## Terug uit Classic
 
@@ -48,6 +52,7 @@ De lijst komt uit de bestanden en de database van de beta. Voor 53 mounts staat 
 | [Black War Steed](/nl/guides/mounts/black-war-steed/ "wh:item=18241:q4:ability_mount_nightmarehorse") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12783">Lieutenant Karter</a>, 100 goud | Alterac Valley, Arathi Basin en Warsong Gulch |
 | [Black War Tiger](/nl/guides/mounts/black-war-tiger/ "wh:item=18242:q4:ability_mount_blackpanther") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12783">Lieutenant Karter</a>, 100 goud | Alterac Valley, Arathi Basin en Warsong Gulch |
 | [Black War Wolf](/nl/guides/mounts/black-war-wolf/ "wh:item=18245:q4:ability_mount_blackdirewolf") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12796">Raider Bork</a>, 100 goud | Alterac Valley, Arathi Basin en Warsong Gulch |
+| [Black Wolf](/nl/guides/mounts/black-wolf/ "wh:item=1041:q3:ability_mount_blackdirewolf") | Quest: <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a> |  |
 | [Blue Mechanostrider](/nl/guides/mounts/blue-mechanostrider/ "wh:item=8595:q3:ability_mount_mechastrider") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 40 goud | Dun Morogh |
 | [Blue Qiraji Battle Tank](/nl/guides/mounts/blue-qiraji-battle-tank/ "wh:item=21218:q3:inv_misc_qirajicrystal_04") | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234798">Qiraji Champion</a> (en nog 14) | Ahn'Qiraj |
 | [Blue Skeletal Horse](/nl/guides/mounts/blue-skeletal-horse/ "wh:item=13332:q3:ability_mount_undeadhorse") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 42 goud en 10 zilver en 52 koper | Tirisfal Glades |
@@ -125,13 +130,12 @@ De lijst komt uit de bestanden en de database van de beta. Voor 53 mounts staat 
 | [Black Druid Moose](/nl/guides/mounts/black-druid-moose/) | Nog niet bekend |  |
 | [Black Qiraji Battle Tank](/nl/guides/mounts/black-qiraji-battle-tank/ "wh:spell=25863:q1:inv_misc_qirajicrystal_05") | Nog niet bekend |  |
 | [Black Ram](/nl/guides/mounts/black-ram/ "wh:item=5874:q1:ability_mount_mountainram") | Nog niet bekend |  |
-| [Black Skeletal Horse](/nl/guides/mounts/black-skeletal-horse/ "wh:item=276063:q3:ability_mount_undeadhorse") | Nog niet bekend |  |
 | [Black Warden Saber](/nl/guides/mounts/black-warden-saber/) | Nog niet bekend |  |
-| [Black Wolf](/nl/guides/mounts/black-wolf/ "wh:item=1041:q3:ability_mount_blackdirewolf") | Nog niet bekend |  |
 | [Blue Devilsaur](/nl/guides/mounts/blue-devilsaur/) | Nog niet bekend |  |
 | [Brown Warden Saber](/nl/guides/mounts/brown-warden-saber/) | Nog niet bekend |  |
 | [Caravan Kodo](/nl/guides/mounts/caravan-kodo/ "wh:spell=1303215:q1:ability_mount_kodo_03") | Nog niet bekend |  |
 | [Cerulean Prideclaw](/nl/guides/mounts/cerulean-prideclaw/ "wh:item=280544:q4:inv_catskybornemount_c60_blue") | Nog niet bekend |  |
+| [Crimson Rooster](/nl/guides/mounts/crimson-rooster/ "wh:item=286727:q4:8426877") | Nog niet bekend |  |
 | [Dark Skeletal Horse](/nl/guides/mounts/dark-skeletal-horse/ "wh:item=265839:q4:ability_mount_undeadhorse") | Nog niet bekend |  |
 | [Frost Ram](/nl/guides/mounts/frost-ram/ "wh:item=13329:q4:ability_mount_mountainram") | Nog niet bekend |  |
 | [Frostsaber](/nl/guides/mounts/frostsaber/ "wh:item=12302:q4:ability_mount_whitetiger") | Nog niet bekend |  |
@@ -145,7 +149,6 @@ De lijst komt uit de bestanden en de database van de beta. Voor 53 mounts staat 
 | [Green Skeletal Horse](/nl/guides/mounts/green-skeletal-horse/ "wh:item=265838:q4:ability_mount_undeadhorse") | Nog niet bekend |  |
 | [Icy Blue Mechanostrider](/nl/guides/mounts/icy-blue-mechanostrider/ "wh:item=13327:q4:ability_mount_mechastrider") | Nog niet bekend |  |
 | [Ivory Raptor](/nl/guides/mounts/ivory-raptor/ "wh:item=8589:q1:ability_mount_raptor") | Nog niet bekend |  |
-| [Lavender Kodo](/nl/guides/mounts/lavender-kodo/ "wh:item=277960:q3:ability_mount_kodo_01") | Nog niet bekend |  |
 | [Mottled Red Raptor](/nl/guides/mounts/mottled-red-raptor/ "wh:item=8586:q4:ability_mount_raptor") | Nog niet bekend |  |
 | [Nightsaber](/nl/guides/mounts/nightsaber/ "wh:item=12303:q4:ability_mount_whitetiger") | Nog niet bekend |  |
 | [Ochre Skeletal Warhorse](/nl/guides/mounts/ochre-skeletal-warhorse/ "wh:item=274799:q4:ability_mount_undeadhorse") | Nog niet bekend |  |
@@ -159,16 +162,16 @@ De lijst komt uit de bestanden en de database van de beta. Voor 53 mounts staat 
 | [Rivendare's Deathcharger](/nl/guides/mounts/rivendares-deathcharger/ "wh:item=13335:q3:ability_mount_undeadhorse") | Nog niet bekend |  |
 | [Skeletal Horse](/nl/guides/mounts/skeletal-horse/ "wh:item=8583:q1:ability_mount_undeadhorse") | Nog niet bekend |  |
 | [Spectral Bear](/nl/guides/mounts/spectral-bear/ "wh:item=277718:q4:inv_bearmountblizzard") | Nog niet bekend |  |
-| [Striped Dawnsaber](/nl/guides/mounts/striped-dawnsaber/ "wh:item=274706:q3:ability_mount_jungletiger") | Nog niet bekend |  |
+| [Spectral Wolf Pack](/nl/guides/mounts/spectral-wolf-pack/ "wh:item=286756:q4:8408196") | Nog niet bekend |  |
 | [Swift Hyjal Stag](/nl/guides/mounts/swift-hyjal-stag/) | Nog niet bekend |  |
 | [Swift Regal Galestrider](/nl/guides/mounts/swift-regal-galestrider/ "wh:item=269673:q4:inv_craneskyborneswiftmount_c60_gray") | Nog niet bekend |  |
 | [Teal Kodo](/nl/guides/mounts/teal-kodo/ "wh:item=15293:q4:ability_mount_kodo_02") | Nog niet bekend |  |
 | [Tiger](/nl/guides/mounts/tiger/ "wh:item=8630:q1:ability_mount_jungletiger") | Nog niet bekend |  |
 | [Venomhide Ravasaur](/nl/guides/mounts/venomhide-ravasaur/ "wh:item=46102:q4:ability_mount_raptor") | Nog niet bekend |  |
+| [Verdant Sea Turtle](/nl/guides/mounts/verdant-sea-turtle/ "wh:item=286724:q4:8517112") | Nog niet bekend |  |
 | [Veteran Adventurer's Loyal Companion](/nl/guides/mounts/veteran-adventurers-loyal-companion/ "wh:item=280611:q3:inv_dwarfbearmount_c60") | Nog niet bekend |  |
 | [White Devilsaur](/nl/guides/mounts/white-devilsaur/) | Nog niet bekend |  |
 | [White Druid Moose](/nl/guides/mounts/white-druid-moose/) | Nog niet bekend |  |
-| [White Kodo](/nl/guides/mounts/white-kodo/ "wh:item=275993:q3:ability_mount_kodo_01") | Nog niet bekend |  |
 | [White Mechanostrider](/nl/guides/mounts/white-mechanostrider/ "wh:item=13326:q4:ability_mount_mechastrider") | Nog niet bekend |  |
 | [White Stallion](/nl/guides/mounts/white-stallion/ "wh:item=2415:q1:ability_mount_ridinghorse") | Nog niet bekend |  |
 | [White Warden Saber](/nl/guides/mounts/white-warden-saber/) | Nog niet bekend |  |

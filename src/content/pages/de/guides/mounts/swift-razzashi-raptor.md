@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift Razzashi Raptor in WoW Forever?"
-    a: "Es droppt bei mehreren Monstern. Diese haben in der Beta die beste Chance:  Bloodlord Mandokir in Zul'Gurub, etwa 1,0 % Hakkar in Zul'Gurub, etwa 0,4 % Zum Reiten braucht es Journeyman Riding."
+    a: "Es droppt bei mehreren Monstern. Diese haben die beste Chance:  Bloodlord Mandokir in Zul'Gurub, etwa 1,0 % Hakkar in Zul'Gurub, etwa 0,4 % Zum Reiten braucht es Journeyman Riding."
   - q: "Ist Swift Razzashi Raptor neu in WoW Forever?"
     a: "Nein. Swift Razzashi Raptor gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -34,11 +34,11 @@ Swift Razzashi Raptor ist ein Reittier aus Classic, das in World of Warcraft: Fo
 | Reiten | Journeyman Riding |
 | Tempo | sehr schnell |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
-Es droppt bei mehreren Monstern. Diese haben in der Beta die beste Chance:
+Es droppt bei mehreren Monstern. Diese haben die beste Chance:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11382">Bloodlord Mandokir</a> in Zul'Gurub, etwa 1,0 %
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14834">Hakkar</a> in Zul'Gurub, etwa 0,4 %
@@ -49,14 +49,17 @@ Das Spiel versteckt dieses Reittier in der Sammlung, bis ein Charakter es gelern
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere mit Journeyman Riding
 
 - [Cerulean Prideclaw](/de/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/de/guides/mounts/crimson-rooster/)
 - [Pack Kodo](/de/guides/mounts/pack-kodo/)
 - [Rivendare's Deathcharger](/de/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/de/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/de/guides/mounts/spectral-wolf-pack/)
 - [Swift Zulian Tiger](/de/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/de/guides/mounts/verdant-sea-turtle/)
 
 Jedes Reittier von WoW Forever, mit seiner Herkunft, steht im [Reittier-Guide](/de/guides/mounts/).

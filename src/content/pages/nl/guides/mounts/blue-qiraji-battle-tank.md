@@ -8,7 +8,7 @@ lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Blue Qiraji Battle Tank in WoW Forever?"
-    a: "Hij valt bij meerdere monsters. Deze hebben op de beta de beste kans:  Qiraji Champion in Ahn'Qiraj, ongeveer 21% Anubisath Defender in Ahn'Qiraj, ongeveer 20% Qiraji Mindslayer in Ahn'Qiraj, ongeveer 19% Qiraji Slayer in Ahn'Qiraj, ongeveer 19% Qiraji Warlord in Ahn'Qiraj, ongeveer 18% Qiraji Slayer in Ahn'Qiraj, ongeveer -0,0%"
+    a: "Hij valt bij meerdere monsters. Deze hebben de beste kans:  Qiraji Champion in Ahn'Qiraj, ongeveer 21% Anubisath Defender in Ahn'Qiraj, ongeveer 20% Qiraji Mindslayer in Ahn'Qiraj, ongeveer 19% Qiraji Slayer in Ahn'Qiraj, ongeveer 19% Qiraji Warlord in Ahn'Qiraj, ongeveer 18% Qiraji Slayer in Ahn'Qiraj, ongeveer -0,0%"
   - q: "Is Blue Qiraji Battle Tank nieuw in WoW Forever?"
     a: "Nee. Blue Qiraji Battle Tank zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -33,11 +33,11 @@ Blue Qiraji Battle Tank is een mount uit Classic die terugkomt in World of Warcr
 | Level | 60 |
 | Snelheid | normaal |
 | Nieuw in Forever | nee, uit Classic |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-Hij valt bij meerdere monsters. Deze hebben op de beta de beste kans:
+Hij valt bij meerdere monsters. Deze hebben de beste kans:
 
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234798">Qiraji Champion</a> in Ahn'Qiraj, ongeveer 21%
 - <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234830">Anubisath Defender</a> in Ahn'Qiraj, ongeveer 20%
@@ -48,6 +48,6 @@ Hij valt bij meerdere monsters. Deze hebben op de beta de beste kans:
 
 ## Wat er veranderde sinds Classic
 
-Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip op de beta.
+Het item leert je nu de mount: hij wordt een spreuk, neemt geen plaats meer in je tassen en telt voor elk personage op het account, volgens de tooltip.
 
 Elke mount van WoW Forever, met waar hij vandaan komt, staat in de [mountgids](/nl/guides/mounts/).

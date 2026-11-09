@@ -13,8 +13,6 @@ faq:
     a: "Au fond de Blackrock Mountain, entre la Searing Gorge et les Burning Steppes. Descendez les grandes chaînes et traversez la Grinding Quarry jusqu’à la Masonry ; le portail est dans le coin du fond."
   - q: "Comment obtenir la Shadowforge Key ?"
     a: "Avec la quête Dark Iron Legacy du fantôme de Franclorn Forgewright dans Blackrock Mountain, visible seulement quand vous êtes mort. Tuez Fineous Darkvire pour Ironfel et posez-le au Shrine of Thaurissan."
-  - q: "Pouvait-on faire Blackrock Depths sur la bêta ?"
-    a: "Non. La bêta allait jusqu’au niveau 30, donc Blackrock Depths était fermé. Tout sur ces pages vient des données de Forever et de Classic, et peut encore changer."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/blackrock-depths/"

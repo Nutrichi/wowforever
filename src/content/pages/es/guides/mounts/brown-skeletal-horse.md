@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Brown Skeletal Horse en WoW Forever?"
-    a: "Zachariah Post la vende en Tirisfal Glades por 40 de oro. El vendedor es amistoso con la Horda. Montarla requiere Undead Horsemanship."
+    a: "Zachariah Post la vende en Tirisfal Glades por 40 de oro. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión A Steed in Death as They Were in Life, desde el nivel 40 para la Horda, te deja elegir esta."
   - q: "¿Es Brown Skeletal Horse nueva en WoW Forever?"
     a: "No. Brown Skeletal Horse ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Brown Skeletal Horse es una montura de Classic que vuelve en World of Warcraft: 
 | Equitación | Undead Horsemanship |
 | Velocidad | normal |
 | Nueva en Forever | no, de Classic |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende en Tirisfal Glades por 40 de oro. El vendedor es amistoso con la Horda.
 
+Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, desde el nivel 40 para la Horda, te deja elegir esta.
+
 Montarla requiere Undead Horsemanship.
 
 ## Qué ha cambiado desde Classic
 
-El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción en la beta.
+El objeto ahora enseña la montura: se convierte en un hechizo, ya no ocupa espacio en las bolsas y vale para cada personaje de la cuenta, según la descripción.
 
 ## Más monturas de Zachariah Post
 

@@ -34,7 +34,7 @@ Swift Brown Steed est une monture de Classic qui revient dans World of Warcraft:
 | Monte | Horse Riding |
 | Vitesse | très rapide |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
@@ -44,11 +44,13 @@ Swift Brown Steed est une monture de Classic qui revient dans World of Warcraft:
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> la vend à Dustwallow Marsh pour 1000 po. Le marchand est amical envers l'Alliance.
 
+Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+
 La monter demande Horse Riding.
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 ## D'autres montures de Katie Hunter
 

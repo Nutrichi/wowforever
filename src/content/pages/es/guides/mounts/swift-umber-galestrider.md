@@ -34,7 +34,7 @@ Swift Umber Galestrider es una montura nueva en World of Warcraft: Forever. Es u
 | Equitación | Galestrider Riding |
 | Velocidad | muy rápida |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 

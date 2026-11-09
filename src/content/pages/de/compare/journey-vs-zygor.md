@@ -44,7 +44,7 @@ Der kostenlose Teil hat schon die neuen Quests von Forever, den Skyborne-Start a
 
 ## Was Zygor bietet
 
-Zygor aktualisiert seine Guides von 1 bis 60 für die neuen Gebiete, den Skyborne-Start und die neuen Kombinationen aus Volk und Klasse und bringt Guides für die neun neuen Dungeons. Auch das Reisesystem und der Talentberater bekommen Updates für Forever. Zygor warnt, dass die Stufengrenze der Beta begrenzt, was es testen kann, also könnte die Route zum Start nur teilweise aktualisiert sein und danach fertiggestellt werden.
+Zygor aktualisiert seine Guides von 1 bis 60 für die neuen Gebiete, den Skyborne-Start und die neuen Kombinationen aus Volk und Klasse und bringt Guides für die neun neuen Dungeons. Auch das Reisesystem und der Talentberater bekommen Updates für Forever. Vor dem Start warnte Zygor, dass die Stufengrenze der Beta begrenzte, was es testen konnte, also konnte die Route zum Start nur teilweise aktualisiert sein und danach fertiggestellt werden.
 
 ## Welches passt zu wem
 

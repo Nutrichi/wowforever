@@ -1,14 +1,14 @@
 ---
 title: "Striped Dawnsaber: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Striped Dawnsaber in WoW Forever"
-description: "Striped Dawnsaber is een mount die nieuw is in World of Warcraft: Forever. Bron: Nog niet bekend."
+description: "Striped Dawnsaber is een mount die nieuw is in World of Warcraft: Forever. Bron: Quest: Your First Feline Friend."
 short: "Striped Dawnsaber"
 updated: 2026-10-09
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Striped Dawnsaber in WoW Forever?"
-    a: "De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont. Rijden vraagt Tiger Riding."
+    a: "Hij is de beloning van de quest Your First Feline Friend, vanaf level 40, voor de Alliance. Rijden vraagt Tiger Riding."
   - q: "Is Striped Dawnsaber nieuw in WoW Forever?"
     a: "Ja. Striped Dawnsaber is nieuw in WoW Forever en zat niet in Classic."
 sources:
@@ -27,16 +27,16 @@ Striped Dawnsaber is een mount die nieuw is in World of Warcraft: Forever. Het i
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274706"><img class="wf-wh__icon" src="/wh/ability_mount_jungletiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Striped Dawnsaber</a> |
-| Bron | Nog niet bekend |
+| Bron | Quest: <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a> |
 | Level | 40 |
 | Rijden | Tiger Riding |
 | Snelheid | normaal |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 
-De bestanden van de beta van WoW Forever bevatten deze mount, maar waar hij vandaan komt, is nog niet bekend. Deze pagina wordt bijgewerkt zodra de beta of de launch het toont.
+Hij is de beloning van de quest <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, vanaf level 40, voor de Alliance.
 
 Rijden vraagt Tiger Riding.
 

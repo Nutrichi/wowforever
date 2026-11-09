@@ -213,7 +213,7 @@ Op level 20 leert een reeks classquests je Poisons.
 | 4 | <a href="https://www.wowhead.com/forever/quest=2608">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2479">Hinott's Assistance</a> |
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
-Meer classquests met items als beloning worden verwacht boven level 30, dat de beta niet haalde.
+Of er boven level 30 meer classquests met items als beloning komen, is nog niet bekend.
 
 Elke stap van beide reeksen, met de zwakte van elke lastige mob, staat in de [gids voor de Poisons](/nl/guides/poisons/).
 

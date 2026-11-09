@@ -1,14 +1,14 @@
 ---
 title: "Lavender Kodo: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Lavender Kodo en WoW Forever"
-description: "Lavender Kodo es una montura nueva en World of Warcraft: Forever. Fuente: Aún no se sabe."
+description: "Lavender Kodo es una montura nueva en World of Warcraft: Forever. Fuente: Misión: Your First Riding Kodo."
 short: "Lavender Kodo"
 updated: 2026-10-09
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Lavender Kodo en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. Montarla requiere Kodo Riding."
+    a: "Es la recompensa de la misión Your First Riding Kodo, a partir del nivel 40, para la Horda. Montarla requiere Kodo Riding."
   - q: "¿Es Lavender Kodo nueva en WoW Forever?"
     a: "Sí. Lavender Kodo es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -27,16 +27,16 @@ Lavender Kodo es una montura nueva en World of Warcraft: Forever. Es una montura
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277960"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lavender Kodo</a> |
-| Fuente | Aún no se sabe |
+| Fuente | Misión: <a href="https://www.wowhead.com/forever/quest=97446">Your First Riding Kodo</a> |
 | Nivel | 40 |
 | Equitación | Kodo Riding |
 | Velocidad | normal |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Es la recompensa de la misión <a href="https://www.wowhead.com/forever/quest=97446">Your First Riding Kodo</a>, a partir del nivel 40, para la Horda.
 
 Montarla requiere Kodo Riding.
 

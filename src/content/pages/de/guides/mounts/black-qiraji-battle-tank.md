@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Black Qiraji Battle Tank in WoW Forever?"
-    a: "Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt. Das Spiel versteckt dieses Reittier in der Sammlung, bis ein Charakter es gelernt hat."
+    a: "Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden. Das Spiel versteckt dieses Reittier in der Sammlung, bis ein Charakter es gelernt hat."
   - q: "Ist Black Qiraji Battle Tank neu in WoW Forever?"
     a: "Nein. Black Qiraji Battle Tank gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,7 +27,7 @@ Black Qiraji Battle Tank ist ein Reittier aus Classic, das in World of Warcraft:
 
 ## So bekommst du es
 
-Die Dateien der Beta von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald die Beta oder der Start es zeigt.
+Die Spieldateien von WoW Forever enthalten dieses Reittier, aber woher es stammt, ist noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler es finden.
 
 Das Spiel versteckt dieses Reittier in der Sammlung, bis ein Charakter es gelernt hat.
 

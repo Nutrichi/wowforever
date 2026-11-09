@@ -8,9 +8,9 @@ lang: "fr"
 manual: true
 faq:
   - q: "Combien de montures compte WoW Forever ?"
-    a: "Les fichiers de la bêta contiennent 130 montures : 38 nouvelles et 92 de Classic."
+    a: "Les fichiers du jeu contiennent 133 montures : 41 nouvelles et 92 de Classic."
   - q: "Les montures sont-elles liées au compte dans WoW Forever ?"
-    a: "Les infobulles de la bêta indiquent que les montures valent pour tout le compte, et l'objet apprend la monture au lieu de l'invoquer depuis vos sacs. Blizzard n'en a pas encore dit plus."
+    a: "Les infobulles indiquent que les montures valent pour tout le compte, et l'objet apprend la monture au lieu de l'invoquer depuis vos sacs."
   - q: "Quelles montures sont nouvelles dans WoW Forever ?"
     a: "Entre autres les Galestriders des Skyborne, qui demandent la nouvelle Galestrider Riding, de nouveaux Skeletal Horses et de nouveaux Kodos."
 sources:
@@ -18,23 +18,27 @@ sources:
     url: "https://www.wowhead.com/forever/items/miscellaneous/mounts"
 ---
 
-World of Warcraft: Forever compte 130 montures dans ses fichiers : 38 nouvelles et 92 de Classic. Ce guide les liste toutes avec leur origine, et chaque monture a sa propre page avec l'objet, la source et ses prérequis.
+World of Warcraft: Forever compte 133 montures dans ses fichiers : 41 nouvelles et 92 de Classic. Ce guide les liste toutes avec leur origine, et chaque monture a sa propre page avec l'objet, la source et ses prérequis.
 
-Dans WoW Forever, l'objet apprend la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après les infobulles de la bêta. La plupart des montures demandent toujours la compétence de monte de leur race, comme Ram Riding ou la nouvelle Galestrider Riding des Skyborne.
+Dans WoW Forever, l'objet apprend la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après les infobulles. La plupart des montures demandent toujours la compétence de monte de leur race, comme Ram Riding ou la nouvelle Galestrider Riding des Skyborne. Votre première monture est gratuite : dès le niveau 40, une quête de votre race, comme Your First Horse, vous en fait choisir une.
 
-La liste vient des fichiers et de la base de données de la bêta. Pour 53 montures, les fichiers contiennent la monture, mais la bêta ne montre pas encore d'où elle vient ; elles ont leur propre section et seront mises à jour dès que cela change.
+La liste vient des fichiers du jeu et de la base d'objets de WoW Forever. Pour 51 montures, les fichiers contiennent la monture, mais on ne sait pas encore d'où elle vient ; elles ont leur propre section et seront mises à jour dès que cela change.
 
 ## Nouvelles dans WoW Forever
 
 | Monture | Source | Où |
 |---|---|---|
+| [Black Skeletal Horse](/fr/guides/mounts/black-skeletal-horse/ "wh:item=276063:q3:ability_mount_undeadhorse") | Quête: <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a> |  |
 | [Empyrean Galestrider](/fr/guides/mounts/empyrean-galestrider/ "wh:item=269681:q3:inv_craneskybornemount_c60_white") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 20 po | Zephras Isle |
+| [Lavender Kodo](/fr/guides/mounts/lavender-kodo/ "wh:item=277960:q3:ability_mount_kodo_01") | Quête: <a href="https://www.wowhead.com/forever/quest=97446">Your First Riding Kodo</a> |  |
 | [Pack Kodo](/fr/guides/mounts/pack-kodo/ "wh:item=262766:q4:ability_mount_kodo_03") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256400">Okamache</a>, 6000 Merchant's Favor | Redridge Mountains et The Barrens |
 | [Stormy Galestrider](/fr/guides/mounts/stormy-galestrider/ "wh:item=269683:q3:inv_craneskybornemount_c60_blue") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 20 po | Zephras Isle |
+| [Striped Dawnsaber](/fr/guides/mounts/striped-dawnsaber/ "wh:item=274706:q3:ability_mount_jungletiger") | Quête: <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a> |  |
 | [Swift Empyrean Galestrider](/fr/guides/mounts/swift-empyrean-galestrider/ "wh:item=269671:q4:inv_craneskyborneswiftmount_c60_white") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 200 po | Zephras Isle |
 | [Swift Stormy Galestrider](/fr/guides/mounts/swift-stormy-galestrider/ "wh:item=269678:q4:inv_craneskyborneswiftmount_c60_blue") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 200 po | Zephras Isle |
 | [Swift Umber Galestrider](/fr/guides/mounts/swift-umber-galestrider/ "wh:item=274933:q4:inv_craneskyborneswiftmount_c60_blue") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 200 po | Zephras Isle |
 | [Umber Galestrider](/fr/guides/mounts/umber-galestrider/ "wh:item=274930:q3:inv_craneskyborne_c60_green") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a>, 20 po | Zephras Isle |
+| [White Kodo](/fr/guides/mounts/white-kodo/ "wh:item=275993:q3:ability_mount_kodo_01") | Quête: <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a> |  |
 
 ## De retour de Classic
 
@@ -48,6 +52,7 @@ La liste vient des fichiers et de la base de données de la bêta. Pour 53 montu
 | [Black War Steed](/fr/guides/mounts/black-war-steed/ "wh:item=18241:q4:ability_mount_nightmarehorse") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12783">Lieutenant Karter</a>, 100 po | Alterac Valley, Arathi Basin et Warsong Gulch |
 | [Black War Tiger](/fr/guides/mounts/black-war-tiger/ "wh:item=18242:q4:ability_mount_blackpanther") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12783">Lieutenant Karter</a>, 100 po | Alterac Valley, Arathi Basin et Warsong Gulch |
 | [Black War Wolf](/fr/guides/mounts/black-war-wolf/ "wh:item=18245:q4:ability_mount_blackdirewolf") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12796">Raider Bork</a>, 100 po | Alterac Valley, Arathi Basin et Warsong Gulch |
+| [Black Wolf](/fr/guides/mounts/black-wolf/ "wh:item=1041:q3:ability_mount_blackdirewolf") | Quête: <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a> |  |
 | [Blue Mechanostrider](/fr/guides/mounts/blue-mechanostrider/ "wh:item=8595:q3:ability_mount_mechastrider") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 40 po | Dun Morogh |
 | [Blue Qiraji Battle Tank](/fr/guides/mounts/blue-qiraji-battle-tank/ "wh:item=21218:q3:inv_misc_qirajicrystal_04") | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=234798">Qiraji Champion</a> (et 14 autres) | Ahn'Qiraj |
 | [Blue Skeletal Horse](/fr/guides/mounts/blue-skeletal-horse/ "wh:item=13332:q3:ability_mount_undeadhorse") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 42 po 10 pa 52 pc | Tirisfal Glades |
@@ -125,13 +130,12 @@ La liste vient des fichiers et de la base de données de la bêta. Pour 53 montu
 | [Black Druid Moose](/fr/guides/mounts/black-druid-moose/) | Pas encore connue |  |
 | [Black Qiraji Battle Tank](/fr/guides/mounts/black-qiraji-battle-tank/ "wh:spell=25863:q1:inv_misc_qirajicrystal_05") | Pas encore connue |  |
 | [Black Ram](/fr/guides/mounts/black-ram/ "wh:item=5874:q1:ability_mount_mountainram") | Pas encore connue |  |
-| [Black Skeletal Horse](/fr/guides/mounts/black-skeletal-horse/ "wh:item=276063:q3:ability_mount_undeadhorse") | Pas encore connue |  |
 | [Black Warden Saber](/fr/guides/mounts/black-warden-saber/) | Pas encore connue |  |
-| [Black Wolf](/fr/guides/mounts/black-wolf/ "wh:item=1041:q3:ability_mount_blackdirewolf") | Pas encore connue |  |
 | [Blue Devilsaur](/fr/guides/mounts/blue-devilsaur/) | Pas encore connue |  |
 | [Brown Warden Saber](/fr/guides/mounts/brown-warden-saber/) | Pas encore connue |  |
 | [Caravan Kodo](/fr/guides/mounts/caravan-kodo/ "wh:spell=1303215:q1:ability_mount_kodo_03") | Pas encore connue |  |
 | [Cerulean Prideclaw](/fr/guides/mounts/cerulean-prideclaw/ "wh:item=280544:q4:inv_catskybornemount_c60_blue") | Pas encore connue |  |
+| [Crimson Rooster](/fr/guides/mounts/crimson-rooster/ "wh:item=286727:q4:8426877") | Pas encore connue |  |
 | [Dark Skeletal Horse](/fr/guides/mounts/dark-skeletal-horse/ "wh:item=265839:q4:ability_mount_undeadhorse") | Pas encore connue |  |
 | [Frost Ram](/fr/guides/mounts/frost-ram/ "wh:item=13329:q4:ability_mount_mountainram") | Pas encore connue |  |
 | [Frostsaber](/fr/guides/mounts/frostsaber/ "wh:item=12302:q4:ability_mount_whitetiger") | Pas encore connue |  |
@@ -145,7 +149,6 @@ La liste vient des fichiers et de la base de données de la bêta. Pour 53 montu
 | [Green Skeletal Horse](/fr/guides/mounts/green-skeletal-horse/ "wh:item=265838:q4:ability_mount_undeadhorse") | Pas encore connue |  |
 | [Icy Blue Mechanostrider](/fr/guides/mounts/icy-blue-mechanostrider/ "wh:item=13327:q4:ability_mount_mechastrider") | Pas encore connue |  |
 | [Ivory Raptor](/fr/guides/mounts/ivory-raptor/ "wh:item=8589:q1:ability_mount_raptor") | Pas encore connue |  |
-| [Lavender Kodo](/fr/guides/mounts/lavender-kodo/ "wh:item=277960:q3:ability_mount_kodo_01") | Pas encore connue |  |
 | [Mottled Red Raptor](/fr/guides/mounts/mottled-red-raptor/ "wh:item=8586:q4:ability_mount_raptor") | Pas encore connue |  |
 | [Nightsaber](/fr/guides/mounts/nightsaber/ "wh:item=12303:q4:ability_mount_whitetiger") | Pas encore connue |  |
 | [Ochre Skeletal Warhorse](/fr/guides/mounts/ochre-skeletal-warhorse/ "wh:item=274799:q4:ability_mount_undeadhorse") | Pas encore connue |  |
@@ -159,16 +162,16 @@ La liste vient des fichiers et de la base de données de la bêta. Pour 53 montu
 | [Rivendare's Deathcharger](/fr/guides/mounts/rivendares-deathcharger/ "wh:item=13335:q3:ability_mount_undeadhorse") | Pas encore connue |  |
 | [Skeletal Horse](/fr/guides/mounts/skeletal-horse/ "wh:item=8583:q1:ability_mount_undeadhorse") | Pas encore connue |  |
 | [Spectral Bear](/fr/guides/mounts/spectral-bear/ "wh:item=277718:q4:inv_bearmountblizzard") | Pas encore connue |  |
-| [Striped Dawnsaber](/fr/guides/mounts/striped-dawnsaber/ "wh:item=274706:q3:ability_mount_jungletiger") | Pas encore connue |  |
+| [Spectral Wolf Pack](/fr/guides/mounts/spectral-wolf-pack/ "wh:item=286756:q4:8408196") | Pas encore connue |  |
 | [Swift Hyjal Stag](/fr/guides/mounts/swift-hyjal-stag/) | Pas encore connue |  |
 | [Swift Regal Galestrider](/fr/guides/mounts/swift-regal-galestrider/ "wh:item=269673:q4:inv_craneskyborneswiftmount_c60_gray") | Pas encore connue |  |
 | [Teal Kodo](/fr/guides/mounts/teal-kodo/ "wh:item=15293:q4:ability_mount_kodo_02") | Pas encore connue |  |
 | [Tiger](/fr/guides/mounts/tiger/ "wh:item=8630:q1:ability_mount_jungletiger") | Pas encore connue |  |
 | [Venomhide Ravasaur](/fr/guides/mounts/venomhide-ravasaur/ "wh:item=46102:q4:ability_mount_raptor") | Pas encore connue |  |
+| [Verdant Sea Turtle](/fr/guides/mounts/verdant-sea-turtle/ "wh:item=286724:q4:8517112") | Pas encore connue |  |
 | [Veteran Adventurer's Loyal Companion](/fr/guides/mounts/veteran-adventurers-loyal-companion/ "wh:item=280611:q3:inv_dwarfbearmount_c60") | Pas encore connue |  |
 | [White Devilsaur](/fr/guides/mounts/white-devilsaur/) | Pas encore connue |  |
 | [White Druid Moose](/fr/guides/mounts/white-druid-moose/) | Pas encore connue |  |
-| [White Kodo](/fr/guides/mounts/white-kodo/ "wh:item=275993:q3:ability_mount_kodo_01") | Pas encore connue |  |
 | [White Mechanostrider](/fr/guides/mounts/white-mechanostrider/ "wh:item=13326:q4:ability_mount_mechastrider") | Pas encore connue |  |
 | [White Stallion](/fr/guides/mounts/white-stallion/ "wh:item=2415:q1:ability_mount_ridinghorse") | Pas encore connue |  |
 | [White Warden Saber](/fr/guides/mounts/white-warden-saber/) | Pas encore connue |  |

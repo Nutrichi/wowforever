@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Striped Nightsaber in WoW Forever?"
-    a: "Lelanai sells it in Darnassus for 42 gold 10 silver 52 copper. The vendor is friendly to the Alliance. Riding it needs Tiger Riding."
+    a: "Lelanai sells it in Darnassus for 42 gold 10 silver 52 copper. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Feline Friend, from level 40 for the Alliance, lets you pick this one."
   - q: "Is Striped Nightsaber new in WoW Forever?"
     a: "No. Striped Nightsaber was already in Classic and returns in WoW Forever."
 sources:
@@ -33,17 +33,19 @@ Striped Nightsaber is a mount from Classic that returns in World of Warcraft: Fo
 | Riding | Tiger Riding |
 | Speed | normal |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> sells it in Darnassus for 42 gold 10 silver 52 copper. The vendor is friendly to the Alliance.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, from level 40 for the Alliance, lets you pick this one.
+
 Riding it needs Tiger Riding.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Lelanai
 

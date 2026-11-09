@@ -213,7 +213,7 @@ Auf Level 20 lehrt dich eine Reihe von Klassenquests die Poisons.
 | 4 | <a href="https://www.wowhead.com/forever/quest=2608">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2479">Hinott's Assistance</a> |
 | 5 | <a href="https://www.wowhead.com/forever/quest=2609">The Touch of Zanzil</a> | <a href="https://www.wowhead.com/forever/quest=2480">Hinott's Assistance</a> |
 
-Weitere Klassenquests mit Gegenständen als Belohnung werden über Level 30 erwartet, das die Beta nicht erreichte.
+Ob über Level 30 weitere Klassenquests mit Gegenständen als Belohnung kommen, ist noch nicht bekannt.
 
 Jeden Schritt beider Reihen, mit der Schwäche jedes harten Gegners, zeigt der [Guide zu den Poisons](/de/guides/poisons/).
 

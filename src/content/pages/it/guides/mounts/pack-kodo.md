@@ -35,7 +35,7 @@ Pack Kodo è una cavalcatura nuova in World of Warcraft: Forever. È una cavalca
 | Velocità | normale |
 | Requisito | Durotar Supply and Logistics (Exalted), Azeroth Commerce Authority (Exalted) |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
@@ -52,9 +52,12 @@ Cavalcarla richiede Journeyman Riding.
 ## Altre cavalcature con Journeyman Riding
 
 - [Cerulean Prideclaw](/it/guides/mounts/cerulean-prideclaw/)
+- [Crimson Rooster](/it/guides/mounts/crimson-rooster/)
 - [Rivendare's Deathcharger](/it/guides/mounts/rivendares-deathcharger/)
 - [Spectral Bear](/it/guides/mounts/spectral-bear/)
+- [Spectral Wolf Pack](/it/guides/mounts/spectral-wolf-pack/)
 - [Swift Razzashi Raptor](/it/guides/mounts/swift-razzashi-raptor/)
 - [Swift Zulian Tiger](/it/guides/mounts/swift-zulian-tiger/)
+- [Verdant Sea Turtle](/it/guides/mounts/verdant-sea-turtle/)
 
 Ogni cavalcatura di WoW Forever, con la sua provenienza, è nella [guida alle cavalcature](/it/guides/mounts/).

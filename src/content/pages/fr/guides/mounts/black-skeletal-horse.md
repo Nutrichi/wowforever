@@ -1,14 +1,14 @@
 ---
 title: "Black Skeletal Horse : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Black Skeletal Horse dans WoW Forever"
-description: "Black Skeletal Horse est une monture nouvelle dans World of Warcraft: Forever. Source: Pas encore connue."
+description: "Black Skeletal Horse est une monture nouvelle dans World of Warcraft: Forever. Source: Quête: A Steed in Death as They Were in Life."
 short: "Black Skeletal Horse"
 updated: 2026-10-09
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Black Skeletal Horse dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera. La monter demande Undead Horsemanship."
+    a: "C'est la récompense de la quête A Steed in Death as They Were in Life, à partir du niveau 40, pour la Horde. La monter demande Undead Horsemanship."
   - q: "Black Skeletal Horse est-elle nouvelle dans WoW Forever ?"
     a: "Oui. Black Skeletal Horse est nouvelle dans WoW Forever et n'existait pas dans Classic."
 sources:
@@ -27,16 +27,16 @@ Black Skeletal Horse est une monture nouvelle dans World of Warcraft: Forever. C
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276063"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Skeletal Horse</a> |
-| Source | Pas encore connue |
+| Source | Quête: <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a> |
 | Niveau | 40 |
 | Monte | Undead Horsemanship |
 | Vitesse | normale |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette monture, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+C'est la récompense de la quête <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, à partir du niveau 40, pour la Horde.
 
 La monter demande Undead Horsemanship.
 

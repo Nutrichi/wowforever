@@ -34,7 +34,7 @@ Swift Empyrean Galestrider est une monture nouvelle dans World of Warcraft: Fore
 | Monte | Galestrider Riding |
 | Vitesse | très rapide |
 | Nouvelle dans Forever | oui |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 

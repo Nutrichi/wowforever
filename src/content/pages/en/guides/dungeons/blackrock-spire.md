@@ -44,4 +44,4 @@ Loot, quests and the route are in the guide to [Upper Blackrock Spire](/guides/d
 
 ## What is not known yet
 
-Blackrock Spire was closed on the beta, which stopped at level 30, so these pages follow the dungeon as it was in Classic. Whether Upper Blackrock Spire stays a dungeon for 10 players, and what else changes, Blizzard has not said. All dungeons are in the [dungeon overview](/guides/dungeons/).
+These pages follow Blackrock Spire as it was in Classic, with the boss levels from the Forever data. Whether Upper Blackrock Spire stays a dungeon for 10 players, and what else changes, Blizzard has not said. All dungeons are in the [dungeon overview](/guides/dungeons/).

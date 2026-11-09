@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Blue Devilsaur in WoW Forever?"
-    a: "The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it. The game hides this mount in the mount collection until a character has learned it."
+    a: "The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it. The game hides this mount in the mount collection until a character has learned it."
   - q: "Is Blue Devilsaur new in WoW Forever?"
     a: "Yes. Blue Devilsaur is new in WoW Forever and was not in Classic."
 sources:
@@ -26,7 +26,7 @@ Blue Devilsaur is a mount that is new in World of Warcraft: Forever.
 
 ## How to get it
 
-The files of the WoW Forever beta hold this mount, but where it comes from is not known yet. This page gets updated as soon as the beta or the launch shows it.
+The game files of WoW Forever hold this mount, but where it comes from is not known yet. This page gets updated as soon as players find it.
 
 The game hides this mount in the mount collection until a character has learned it.
 

@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-west"
   tab: "guide"
 ---
-Dire Maul was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, heeft Blizzard niet gezegd.
 
 ## De weg erheen
 
@@ -69,4 +69,4 @@ Zet hem in een hoek. Arcane Blast slaat terug en wist de threat, dus de tank pak
 
 - **De beloningen** van de vier quests in de data van Forever.
 - **De loot**: geen van de 33 items uit Classic staat al in de data van Forever.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta. In Classic werd Lord Hel'nurath in de gevangenis opgeroepen voor de laatste stap van het epische mount van de Warlock; of die quest in Forever bestaat, is niet bekend.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden. In Classic werd Lord Hel'nurath in de gevangenis opgeroepen voor de laatste stap van het epische mount van de Warlock; of die quest in Forever bestaat, is niet bekend.

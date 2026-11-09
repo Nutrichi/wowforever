@@ -53,7 +53,7 @@ La parte gratis ya tiene las misiones nuevas de Forever, el inicio Skyborne en Z
 
 ## Lo que ofrece Joana's Guides
 
-El addon de Joana's Guides funciona en la beta de Forever desde el 21 de septiembre, con las rutas de Classic Era 1 a 60. Las guías hechas para Forever llegarán cuando estén listas. Fuera de Forever, el Monthly Everything Plan cubre Classic Era 1 a 60 (con Season of Discovery, Hardcore y Anniversary), TBC 60 a 70 y WotLK 70 a 80. Hay planes de pago único para cada versión.
+El addon de Joana's Guides funcionó en la beta de Forever desde el 21 de septiembre, con las rutas de Classic Era 1 a 60. Las guías hechas para Forever llegarán cuando estén listas. Fuera de Forever, el Monthly Everything Plan cubre Classic Era 1 a 60 (con Season of Discovery, Hardcore y Anniversary), TBC 60 a 70 y WotLK 70 a 80. Hay planes de pago único para cada versión.
 
 Una compra de por vida de la guía Classic Era 1 a 60 también funciona en Forever, tal cual. Las misiones, zonas, razas y misiones de mazmorra que solo existen en Forever pasan a ser un producto aparte. Su precio y las opciones de mejora aún no se conocen.
 

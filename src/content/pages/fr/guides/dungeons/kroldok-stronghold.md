@@ -20,4 +20,4 @@ dungeon:
   slug: "kroldok-stronghold"
   tab: "loot"
 ---
-Aucun butin de Krol'dok Stronghold n'est encore connu. Le donjon ouvre au-dessus du niveau 30, il n'était donc pas sur la beta. Les données du jeu contiennent bien un set d'objets Krol'dok Battlegear, mais ses pièces et leur provenance ne sont pas encore connues. Cette page se remplira quand les joueurs le feront après le lancement du 4 novembre.
+Aucun butin de Krol'dok Stronghold n'est encore connu. Les données du jeu contiennent bien un set d'objets Krol'dok Battlegear, mais ses pièces et leur provenance ne sont pas encore connues. Cette page se remplira à mesure que les joueurs le font.

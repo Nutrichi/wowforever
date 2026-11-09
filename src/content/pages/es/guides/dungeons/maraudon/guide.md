@@ -13,7 +13,7 @@ dungeon:
   slug: "maraudon"
   tab: "guide"
 ---
-Maraudon estaba cerrada en la beta, que se detenía en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
 
 ## Cómo llegar
 
@@ -84,4 +84,4 @@ Tras su muerte, Zaetar's Spirit aparece en el centro del anillo con la Seed of L
 
 - **Las recompensas** de las once misiones en los datos de Forever.
 - **Catorce objetos** del botín de Classic que no están en los datos de Forever.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren.

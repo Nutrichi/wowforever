@@ -13,8 +13,6 @@ faq:
     a: "Dire Maul ligt midden in Feralas. De oostvleugel heeft een deur in de oostmuur van de centrale binnenplaats, een vanaf Eldreth Row, en een achterdeur bij het Lariss Pavilion die de Crescent Key vraagt."
   - q: "Waar haal je de Crescent Key?"
     a: "Pusillin laat hem vallen aan het einde van zijn achtervolging door Dire Maul East. Eén speler met de sleutel opent Dire Maul West en North voor de hele groep."
-  - q: "Kon je Dire Maul spelen in de beta?"
-    a: "Nee. De beta ging tot level 30, dus Dire Maul was dicht. Alles op deze pagina's komt uit de data van Forever en uit Classic, en kan nog veranderen."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/dire-maul-east/"

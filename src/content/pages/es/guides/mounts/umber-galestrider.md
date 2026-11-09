@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Umber Galestrider en WoW Forever?"
-    a: "Genn Fairweather la vende en Zephras Isle por 20 de oro. Montarla requiere Galestrider Riding."
+    a: "Genn Fairweather la vende en Zephras Isle por 20 de oro. Tu primera montura es gratis: la misión Your First Riding Galestrider, desde el nivel 40 para ambas facciones, te deja elegir esta."
   - q: "¿Es Umber Galestrider nueva en WoW Forever?"
     a: "Sí. Umber Galestrider es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -34,11 +34,13 @@ Umber Galestrider es una montura nueva en World of Warcraft: Forever. Es una mon
 | Equitación | Galestrider Riding |
 | Velocidad | normal |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a> la vende en Zephras Isle por 20 de oro.
+
+Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=96996">Your First Riding Galestrider</a>, desde el nivel 40 para ambas facciones, te deja elegir esta.
 
 Montarla requiere Galestrider Riding.
 

@@ -13,7 +13,7 @@ dungeon:
   slug: "blackrock-depths"
   tab: "guide"
 ---
-Blackrock Depths était fermé sur la bêta, qui s’arrêtait au niveau 30. Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever. Un nettoyage complet prend des heures, donc la plupart des groupes choisissent une partie.
+Ce guide suit le donjon tel qu’il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n’a pas dit si le donjon change pour Forever. Un nettoyage complet prend des heures, donc la plupart des groupes choisissent une partie.
 
 ## L’accès
 
@@ -106,4 +106,4 @@ Princess Moira Bronzebeard le soigne. Tuez-la, ou occupez-la et interrompez ses 
 
 - **Les récompenses** des vingt-deux quêtes dans les données de Forever.
 - **Le butin** : 74 des 103 objets de Classic ne sont pas encore dans les données de Forever.
-- **Les changements pour Forever** : le donjon était fermé sur la bêta.
+- **Les changements pour Forever** : pas encore connus. Cette page sera mise à jour dès que les joueurs les trouveront.

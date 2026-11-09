@@ -32,8 +32,9 @@ Frostwolf Howler est une monture de Classic qui revient dans World of Warcraft: 
 | Prix | 800 po |
 | Niveau | 60 |
 | Vitesse | très rapide |
+| Prérequis | Frostwolf Clan (Exalted) |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
@@ -41,8 +42,10 @@ Frostwolf Howler est une monture de Classic qui revient dans World of Warcraft: 
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13219">Jekyll Flandring</a> la vend à Alterac Mountains pour 800 po.
 
+L'acheter ou l'utiliser demande Exalted auprès de Frostwolf Clan.
+
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 Chaque monture de WoW Forever, avec son origine, se trouve dans le [guide des montures](/fr/guides/mounts/).

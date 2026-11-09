@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-living"
   tab: "guide"
 ---
-Stratholme was dicht in de beta, die stopte op level 30. Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, zegt Blizzard niet.
+Deze gids volgt de dungeon zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of de dungeon verandert voor Forever, zegt Blizzard niet.
 
 Stratholme is één instance met twee kanten. De levende kant is van de Scarlet Crusade, de [undead kant](/nl/guides/dungeons/stratholme-undead/) van de Scourge van Baron Rivendare. Ze zijn verbonden via King's Square Gate, die de <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12382"><img class="wf-wh__icon" src="/wh/inv_misc_key_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Key to the City</a> vraagt.
 
@@ -90,4 +90,4 @@ Het gevecht begint makkelijk. Dan verandert Dathrohan in de demon Balnazzar. Tan
 
 - **De beloningen** van de zes quests in de data van Forever.
 - **De loot**: 33 van de 46 items uit Classic staan nog niet in de data van Forever.
-- **Veranderingen voor Forever**: de dungeon was dicht in de beta. In Classic werden Jarien en Sothos hier opgeroepen voor de quests van Tier 0.5; of die oproep in Forever bestaat, is niet bekend.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden. In Classic werden Jarien en Sothos hier opgeroepen voor de quests van Tier 0.5; of die oproep in Forever bestaat, is niet bekend.

@@ -13,7 +13,7 @@ dungeon:
   slug: "stratholme-living"
   tab: "guide"
 ---
-Stratholme était fermé pendant la bêta, qui s'arrêtait au niveau 30. Ce guide suit le donjon tel qu'il était dans Classic, avec les niveaux des boss des données de Forever. Blizzard ne dit pas si le donjon change pour Forever.
+Ce guide suit le donjon tel qu'il était dans Classic, avec les niveaux des boss des données de Forever. Blizzard ne dit pas si le donjon change pour Forever.
 
 Stratholme est une seule instance avec deux côtés. Le côté vivant appartient à la Scarlet Crusade, le [côté mort-vivant](/fr/guides/dungeons/stratholme-undead/) au Scourge de Baron Rivendare. Les deux sont reliés par King's Square Gate, qui demande la <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12382"><img class="wf-wh__icon" src="/wh/inv_misc_key_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Key to the City</a>.
 
@@ -90,4 +90,4 @@ Le combat commence facilement. Puis Dathrohan se change en démon, Balnazzar. Ta
 
 - **Les récompenses** des six quêtes dans les données de Forever.
 - **Le butin** : 33 des 46 objets de Classic ne sont pas encore dans les données de Forever.
-- **Les changements pour Forever** : le donjon était fermé pendant la bêta. Dans Classic, Jarien et Sothos étaient invoqués ici pour les quêtes du Tier 0.5 ; on ne sait pas si cette invocation existe dans Forever.
+- **Les changements pour Forever** : pas encore connus. Dans Classic, Jarien et Sothos étaient invoqués ici pour les quêtes du Tier 0.5 ; on ne sait pas si cette invocation existe dans Forever.

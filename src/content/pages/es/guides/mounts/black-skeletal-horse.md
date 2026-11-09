@@ -1,14 +1,14 @@
 ---
 title: "Black Skeletal Horse: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Black Skeletal Horse en WoW Forever"
-description: "Black Skeletal Horse es una montura nueva en World of Warcraft: Forever. Fuente: Aún no se sabe."
+description: "Black Skeletal Horse es una montura nueva en World of Warcraft: Forever. Fuente: Misión: A Steed in Death as They Were in Life."
 short: "Black Skeletal Horse"
 updated: 2026-10-09
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Black Skeletal Horse en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. Montarla requiere Undead Horsemanship."
+    a: "Es la recompensa de la misión A Steed in Death as They Were in Life, a partir del nivel 40, para la Horda. Montarla requiere Undead Horsemanship."
   - q: "¿Es Black Skeletal Horse nueva en WoW Forever?"
     a: "Sí. Black Skeletal Horse es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -27,16 +27,16 @@ Black Skeletal Horse es una montura nueva en World of Warcraft: Forever. Es una 
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276063"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Skeletal Horse</a> |
-| Fuente | Aún no se sabe |
+| Fuente | Misión: <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a> |
 | Nivel | 40 |
 | Equitación | Undead Horsemanship |
 | Velocidad | normal |
 | Nueva en Forever | sí |
-| Para toda la cuenta | sí, según la descripción en la beta |
+| Para toda la cuenta | sí, según la descripción |
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Es la recompensa de la misión <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, a partir del nivel 40, para la Horda.
 
 Montarla requiere Undead Horsemanship.
 

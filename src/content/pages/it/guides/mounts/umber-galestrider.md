@@ -8,7 +8,7 @@ lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Umber Galestrider in WoW Forever?"
-    a: "Genn Fairweather la vende a Zephras Isle per 20 d'oro. Cavalcarla richiede Galestrider Riding."
+    a: "Genn Fairweather la vende a Zephras Isle per 20 d'oro. La prima cavalcatura è gratis: la missione Your First Riding Galestrider, dal livello 40 per entrambe le fazioni, ti fa scegliere questa."
   - q: "Umber Galestrider è nuova in WoW Forever?"
     a: "Sì. Umber Galestrider è nuova in WoW Forever e non c'era in Classic."
 sources:
@@ -34,11 +34,13 @@ Umber Galestrider è una cavalcatura nuova in World of Warcraft: Forever. È una
 | Cavalcare | Galestrider Riding |
 | Velocità | normale |
 | Nuova in Forever | sì |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=265756">Genn Fairweather</a> la vende a Zephras Isle per 20 d'oro.
+
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=96996">Your First Riding Galestrider</a>, dal livello 40 per entrambe le fazioni, ti fa scegliere questa.
 
 Cavalcarla richiede Galestrider Riding.
 

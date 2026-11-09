@@ -34,7 +34,7 @@ Swift White Steed è una cavalcatura di Classic che torna in World of Warcraft: 
 | Cavalcare | Horse Riding |
 | Velocità | molto veloce |
 | Nuova in Forever | no, da Classic |
-| Per tutto l'account | sì, secondo la descrizione sulla beta |
+| Per tutto l'account | sì, secondo la descrizione |
 
 ## Come ottenerla
 
@@ -44,11 +44,13 @@ Swift White Steed è una cavalcatura di Classic che torna in World of Warcraft: 
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> la vende a Dustwallow Marsh per 1000 d'oro. Il mercante è amichevole con l'Alleanza.
 
+La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+
 Cavalcarla richiede Horse Riding.
 
 ## Cosa è cambiato da Classic
 
-L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione sulla beta.
+L'oggetto ora insegna la cavalcatura: diventa un incantesimo, non occupa più spazio nelle borse e vale per ogni personaggio dell'account, secondo la descrizione.
 
 ## Altre cavalcature di Katie Hunter
 

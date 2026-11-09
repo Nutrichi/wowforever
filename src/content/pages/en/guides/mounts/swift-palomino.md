@@ -33,7 +33,7 @@ Swift Palomino is a mount from Classic that returns in World of Warcraft: Foreve
 | Riding | Horse Riding |
 | Speed | very fast |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
@@ -43,11 +43,13 @@ Swift Palomino is a mount from Classic that returns in World of Warcraft: Foreve
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> sells it in Dustwallow Marsh for 1000 gold. The vendor is friendly to the Alliance.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, from level 60 for both factions, lets you pick this one.
+
 Riding it needs Horse Riding.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Katie Hunter
 

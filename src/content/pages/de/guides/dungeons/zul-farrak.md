@@ -13,8 +13,6 @@ faq:
     a: "In der Nordwestecke von Tanaris, bei /way 39 20, nordwestlich von Gadgetzan."
   - q: "Wie beschwört man Gahz'rilla?"
     a: "Ein Spieler der Gruppe braucht den Mallet of Zul'Farrak. Hol den Sacred Mallet von Qiaga the Keeper am Altar of Zul in The Hinterlands, benutze ihn auf dem Altar oben auf Jintha'Alor und schlag dann den Gong am Teich in Zul'Farrak."
-  - q: "Konnte man Zul'Farrak in der Beta spielen?"
-    a: "Nein. Die Beta ging bis Level 30, Zul'Farrak war also zu. Alles auf diesen Seiten stammt aus den Daten von Forever und aus Classic und kann sich noch ändern."
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
     url: "https://www.warcrafttavern.com/forever/guides/zulfarrak/"

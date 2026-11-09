@@ -12,7 +12,7 @@ dungeon:
   slug: "dire-maul-east"
   tab: "guide"
 ---
-Dire Maul was closed on the beta, which stopped at level 30. This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
+This guide follows the dungeon as it was in Classic, with the boss levels from the Forever data. Blizzard has not said whether the dungeon changes for Forever.
 
 ## Getting there
 
@@ -56,4 +56,4 @@ Clear the Warpwood Crushers on the ramp first, or they join the fight. Alzzin ch
 
 - **The rewards** of the five quests in the Forever data.
 - **The loot**: none of the 24 Classic items is in the Forever data yet.
-- **Changes for Forever**: the dungeon was closed on the beta. In Classic, Isalien was summoned here for the Tier 0.5 quests; whether those quests exist in Forever is not known.
+- **Changes for Forever**: not known yet. This page gets updated as soon as players find them. In Classic, Isalien was summoned here for the Tier 0.5 quests; whether those quests exist in Forever is not known.

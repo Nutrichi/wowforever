@@ -34,7 +34,7 @@ Swift Stormy Galestrider is een mount die nieuw is in World of Warcraft: Forever
 | Rijden | Galestrider Riding |
 | Snelheid | zeer snel |
 | Nieuw in Forever | ja |
-| Voor het hele account | ja, volgens de tooltip op de beta |
+| Voor het hele account | ja, volgens de tooltip |
 
 ## Zo krijg je hem
 

@@ -8,14 +8,14 @@ lang: fr
 manual: true
 faq:
   - q: "Comment obtenir Tiny Green Dragon dans WoW Forever ?"
-    a: "Les fichiers de la bêta de WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera."
+    a: "Les fichiers du jeu WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront."
   - q: "Tiny Green Dragon est-elle nouvelle dans WoW Forever ?"
     a: "Non. Tiny Green Dragon existait déjà dans Classic et revient dans WoW Forever."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/item=19055"
 ---
-Tiny Green Dragon est une mascotte de compagnie de Classic qui revient dans World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=19055"><img class="wf-wh__icon" src="/wh/inv_misc_orb_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Green Dragon Orb</a> l'invoque encore comme dans Classic, selon l'infobulle de la bêta.
+Tiny Green Dragon est une mascotte de compagnie de Classic qui revient dans World of Warcraft: Forever. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=19055"><img class="wf-wh__icon" src="/wh/inv_misc_orb_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Green Dragon Orb</a> l'invoque encore comme dans Classic, selon l'infobulle.
 
 <div class="wf-items">
 <div class="wf-item"><img class="wf-item__icon" src="/wh/inv_misc_orb_01.jpg" alt="" width="36" height="36" loading="lazy"><div class="wf-item__tip"><a class="wf-item__name wf-q1" href="https://www.wowhead.com/forever/item=19055">Green Dragon Orb</a><span class="wf-item__line wf-item__meta">Item Level 20</span><span class="wf-item__line wf-item__use">Use:</span><span class="wf-item__line">Right Click to summon and dismiss your tiny green dragon.</span></div></div>
@@ -32,7 +32,7 @@ Tiny Green Dragon est une mascotte de compagnie de Classic qui revient dans Worl
 
 ## Comment l'obtenir
 
-Les fichiers de la bêta de WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que la bêta ou le lancement le montrera.
+Les fichiers du jeu WoW Forever contiennent cette mascotte, mais on ne sait pas encore d'où elle vient. Cette page sera mise à jour dès que les joueurs le trouveront.
 
 ## Ce qui a changé depuis Classic
 
@@ -42,11 +42,11 @@ Les données du jeu indiquent que la mascotte vaut pour tout le compte : apprise
 
 - [Albino Snapjaw](/fr/guides/pets/albino-snapjaw/)
 - [Azure Whelpling](/fr/guides/pets/azure-whelpling/)
+- [Azurky](/fr/guides/pets/azurky/)
 - [Baby Shark](/fr/guides/pets/baby-shark/)
+- [Blossoming Ancient](/fr/guides/pets/blossoming-ancient/)
 - [Bronze Whelpling](/fr/guides/pets/bronze-whelpling/)
-- [Condor Hatchling](/fr/guides/pets/condor-hatchling/)
 - [Corrupted Kitten](/fr/guides/pets/corrupted-kitten/)
 - [Disgusting Oozeling](/fr/guides/pets/disgusting-oozeling/)
-- [Father Winter's Helper](/fr/guides/pets/father-winters-helper/)
 
 Chaque mascotte de WoW Forever, avec son origine, figure dans le [guide des mascottes](/fr/guides/pets/).

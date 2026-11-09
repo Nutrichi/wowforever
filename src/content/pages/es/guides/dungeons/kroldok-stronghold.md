@@ -20,4 +20,4 @@ dungeon:
   slug: "kroldok-stronghold"
   tab: "loot"
 ---
-Aún no se conoce botín de Krol'dok Stronghold. La mazmorra abre por encima del nivel 30, así que no estaba en la beta. Los datos del juego sí tienen un set de objetos Krol'dok Battlegear, pero aún no se conocen sus piezas ni dónde caen. Esta página se irá llenando cuando los jugadores la hagan tras el lanzamiento del 4 de noviembre.
+Aún no se conoce botín de Krol'dok Stronghold. Los datos del juego sí tienen un set de objetos Krol'dok Battlegear, pero aún no se conocen sus piezas ni dónde caen. Esta página se irá llenando a medida que los jugadores la hagan.

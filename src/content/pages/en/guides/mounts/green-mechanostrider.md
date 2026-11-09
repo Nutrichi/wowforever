@@ -7,7 +7,7 @@ updated: 2026-10-09
 lang: "en"
 faq:
   - q: "How do you get Green Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle sells it in Dun Morogh for 40 gold. The vendor is friendly to the Alliance. Riding it needs Mechanostrider Piloting."
+    a: "Milli Featherwhistle sells it in Dun Morogh for 40 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Mechanostrider, from level 40 for the Alliance, lets you pick this one."
   - q: "Is Green Mechanostrider new in WoW Forever?"
     a: "No. Green Mechanostrider was already in Classic and returns in WoW Forever."
 sources:
@@ -33,17 +33,19 @@ Green Mechanostrider is a mount from Classic that returns in World of Warcraft: 
 | Riding | Mechanostrider Piloting |
 | Speed | normal |
 | New in Forever | no, from Classic |
-| Account-wide | yes, according to the tooltip on the beta |
+| Account-wide | yes, according to the tooltip |
 
 ## How to get it
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> sells it in Dun Morogh for 40 gold. The vendor is friendly to the Alliance.
 
+Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=97046">Your First Mechanostrider</a>, from level 40 for the Alliance, lets you pick this one.
+
 Riding it needs Mechanostrider Piloting.
 
 ## What changed since Classic
 
-The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip on the beta.
+The item now teaches the mount: it becomes a spell, no longer takes a spot in your bags and counts for every character on the account, according to the tooltip.
 
 ## More mounts from Milli Featherwhistle
 

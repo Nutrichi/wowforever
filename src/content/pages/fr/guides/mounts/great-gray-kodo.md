@@ -8,7 +8,7 @@ lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Great Gray Kodo dans WoW Forever ?"
-    a: "Harb Clawhoof la vend à Mulgore pour 1052 po 63 pa 15 pc. Le marchand est amical envers la Horde. La monter demande Kodo Riding."
+    a: "Harb Clawhoof la vend à Mulgore pour 1052 po 63 pa 15 pc. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête New Kodo - Teal, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci."
   - q: "Great Gray Kodo est-elle nouvelle dans WoW Forever ?"
     a: "Non. Great Gray Kodo existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -34,17 +34,19 @@ Great Gray Kodo est une monture de Classic qui revient dans World of Warcraft: F
 | Monte | Kodo Riding |
 | Vitesse | très rapide |
 | Nouvelle dans Forever | non, de Classic |
-| Pour tout le compte | oui, d'après l'infobulle sur la bêta |
+| Pour tout le compte | oui, d'après l'infobulle |
 
 ## Comment l'obtenir
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vend à Mulgore pour 1052 po 63 pa 15 pc. Le marchand est amical envers la Horde.
 
+Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7662">New Kodo - Teal</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+
 La monter demande Kodo Riding.
 
 ## Ce qui a changé depuis Classic
 
-L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle sur la bêta.
+L'objet apprend maintenant la monture : elle devient un sort, ne prend plus de place dans vos sacs et compte pour chaque personnage du compte, d'après l'infobulle.
 
 ## D'autres montures de Harb Clawhoof
 

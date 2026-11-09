@@ -13,7 +13,7 @@ dungeon:
   slug: "dire-maul-west"
   tab: "guide"
 ---
-Dire Maul estaba cerrada en la beta, que se quedaba en el nivel 30. Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
+Esta guía sigue la mazmorra tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si la mazmorra cambia para Forever.
 
 ## Cómo llegar
 
@@ -69,4 +69,4 @@ Ponlo en una esquina. Arcane Blast empuja y reinicia la amenaza, así que el tan
 
 - **Las recompensas** de las cuatro misiones en los datos de Forever.
 - **El botín**: ninguno de los 33 objetos de Classic está aún en los datos de Forever.
-- **Cambios para Forever**: la mazmorra estaba cerrada en la beta. En Classic, Lord Hel'nurath se invocaba en la prisión para el último paso de la montura épica del Warlock; no se sabe si esa misión existe en Forever.
+- **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren. En Classic, Lord Hel'nurath se invocaba en la prisión para el último paso de la montura épica del Warlock; no se sabe si esa misión existe en Forever.

@@ -8,7 +8,7 @@ lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue White Warden Saber en WoW Forever?"
-    a: "Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren. El juego oculta esta montura en la colección hasta que un personaje la ha aprendido."
+    a: "Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren. El juego oculta esta montura en la colección hasta que un personaje la ha aprendido."
   - q: "¿Es White Warden Saber nueva en WoW Forever?"
     a: "Sí. White Warden Saber es nueva en WoW Forever y no estaba en Classic."
 sources:
@@ -27,7 +27,7 @@ White Warden Saber es una montura nueva en World of Warcraft: Forever.
 
 ## Cómo conseguirla
 
-Los archivos de la beta de WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto la beta o el lanzamiento lo muestren.
+Los archivos del juego WoW Forever contienen esta montura, pero aún no se sabe de dónde sale. Esta página se actualizará en cuanto los jugadores lo encuentren.
 
 El juego oculta esta montura en la colección hasta que un personaje la ha aprendido.
 

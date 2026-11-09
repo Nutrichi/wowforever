@@ -8,7 +8,7 @@ lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Gray Kodo in WoW Forever?"
-    a: "Harb Clawhoof verkauft es in Mulgore für 35 Gold 55 Silber 55 Kupfer. Der Händler ist die Horde freundlich gesinnt. Zum Reiten braucht es Kodo Riding."
+    a: "Harb Clawhoof verkauft es in Mulgore für 35 Gold 55 Silber 55 Kupfer. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Kodo, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
   - q: "Ist Gray Kodo neu in WoW Forever?"
     a: "Nein. Gray Kodo gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -34,17 +34,19 @@ Gray Kodo ist ein Reittier aus Classic, das in World of Warcraft: Forever zurüc
 | Reiten | Kodo Riding |
 | Tempo | normal |
 | Neu in Forever | nein, aus Classic |
-| Accountweit | ja, laut Tooltip in der Beta |
+| Accountweit | ja, laut Tooltip |
 
 ## So bekommst du es
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> verkauft es in Mulgore für 35 Gold 55 Silber 55 Kupfer. Der Händler ist die Horde freundlich gesinnt.
 
+Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a>, ab Stufe 40 für die Horde, lässt dich dieses auswählen.
+
 Zum Reiten braucht es Kodo Riding.
 
 ## Was sich seit Classic geändert hat
 
-Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip in der Beta.
+Der Gegenstand lehrt jetzt das Reittier: Es wird ein Zauber, belegt keinen Platz mehr in den Taschen und gilt für jeden Charakter des Accounts, laut Tooltip.
 
 ## Mehr Reittiere von Harb Clawhoof
 
