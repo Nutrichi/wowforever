@@ -165,6 +165,8 @@ export const hubCategories: HubCategory[] = [
       { key: '/forever', label: 'cardForever', image: '2026-09-17-wow-forever-cinematic-hunter-and-bear.jpg' },
       // De rulesets (27 oktober 2026).
       { key: 'rulesets', image: '2026-09-21-wow-forever-ruleset-hero.jpg' },
+      // PvP: Rank Points, Honor, ranks, battlegrounds (9 november 2026).
+      { key: 'pvp', image: '2026-10-07-wow-forever-alterac-valley-pvp.jpg', isNew: true },
       { key: 'flight-paths', image: '2026-09-28-wow-forever-flight-and-ship-routes-map.jpg' },
       { key: 'camping', image: '2026-09-29-wow-forever-camp-in-teldrassil.jpg' },
       { key: 'built-in-ui-tools', image: '2026-10-30-wow-forever-damage-meter-option.jpg', isNew: true },
