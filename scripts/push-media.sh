@@ -68,7 +68,10 @@ echo "push-media: gepusht, wachten tot media.wowforever.be ze toont"
 
 last=$(tail -1 "$WORK/new.txt")
 for i in $(seq 1 80); do
-  if curl -fsS "$MEDIA/manifest.txt?run=${GITHUB_RUN_ID:-x}-$i" | grep -qxF "$last"; then
+  # Eerst naar een bestand: `curl | grep -q` faalt onder pipefail zodra grep
+  # vroeg stopt (curl krijgt dan SIGPIPE), ook als de regel er wel staat.
+  curl -fsS "$MEDIA/manifest.txt?run=${GITHUB_RUN_ID:-x}-$i" -o "$WORK/check.txt" || : > "$WORK/check.txt"
+  if grep -qxF "$last" "$WORK/check.txt"; then
     echo "push-media: live na $((i * 15)) s"
     exit 0
   fi
