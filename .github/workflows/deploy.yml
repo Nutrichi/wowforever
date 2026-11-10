@@ -76,7 +76,22 @@ jobs:
           path: src/data/generated
           key: feeds-${{ github.run_id }}
 
+      # Beelden op media.wowforever.be (10 november 2026): de build zet elk
+      # beeld in media-out en laat de pagina's daarheen wijzen
+      # (scripts/split-media.mjs). push-media.sh zet de nieuwe beelden in de
+      # repo wowforever-media en wacht tot ze live staan, pas dan gaat de
+      # hoofdsite zelf online. Zo blijft deze deploy klein.
       - run: npm run build
+        env:
+          MEDIA_URL: https://media.wowforever.be
+          MEDIA_OUT: media-out
+
+      - name: Beelden naar media.wowforever.be
+        run: scripts/push-media.sh
+        env:
+          MEDIA_URL: https://media.wowforever.be
+          MEDIA_OUT: media-out
+          MEDIA_DEPLOY_KEY: ${{ secrets.MEDIA_DEPLOY_KEY }}
 
       - uses: actions/configure-pages@v6
 

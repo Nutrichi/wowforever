@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && pagefind --site dist",
+    "build": "astro build && node scripts/split-media.mjs && pagefind --site dist",
     "preview": "astro preview",
     "check": "astro check",
     "new-post": "node scripts/new-post.mjs",
