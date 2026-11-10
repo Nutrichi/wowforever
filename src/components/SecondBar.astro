@@ -74,7 +74,16 @@ const { locale, hasContent = false } = Astro.props;
       (el): el is HTMLElement => el !== null,
     );
     for (const el of items) el.removeAttribute('data-fit-hidden');
-    if (window.innerWidth < 900) return;
+    if (window.innerWidth < 900) {
+      /* Op een telefoon loopt de balk over twee regels als iets niet past. Alleen Journey mag dan
+         wijken: staat de rechtergroep onder de timers, dan gaat het kompas weg (10 november 2026). */
+      const journey = right.querySelector<HTMLElement>(':scope > .wf-journey');
+      const timers = right.parentElement?.querySelector<HTMLElement>('.wf-timers');
+      if (journey && timers && right.getBoundingClientRect().top >= timers.getBoundingClientRect().bottom - 2) {
+        journey.setAttribute('data-fit-hidden', '');
+      }
+      return;
+    }
     const gap = parseFloat(getComputedStyle(right).columnGap) || 0;
     const width = (el: HTMLElement) => (el.matches('.wf-bar__search') ? SEARCH_MIN : el.scrollWidth);
     const shown = () => items.filter((el) => !el.hasAttribute('data-fit-hidden') && el.getClientRects().length > 0);

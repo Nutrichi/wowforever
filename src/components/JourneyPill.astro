@@ -6,8 +6,8 @@
  * Zelfde vorm als de RestedXP-pil, maar met een rand in plaats van een gevulde
  * achtergrond, zodat RestedXP de hoofdknop blijft. Het logo is het kompas uit
  * de addon (JourneyLogoMed.png, transparant, 48 px). Wijkt in de balk na Ko-fi en
- * zoeken, vóór LIVE en RestedXP, als er geen plaats is (SecondBar, ORDER). Onder 900 px staat hij niet
- * in de balk: daar is de regel al vol met timers, LIVE en RestedXP.
+ * zoeken, vóór LIVE en RestedXP, als er geen plaats is (SecondBar, ORDER). Onder 900 px alleen het kompas,
+ * en alleen als de balk dan nog op één regel past.
  *
  * `rel="sponsored"`, want het is een partnerlink.
  */
@@ -54,7 +54,10 @@ const t = useTranslations(locale);
 
   .wf-journey__icon { flex: none; }
 
+  /* Op een telefoon alleen het kompas in een rond vakje, zoals de LIVE-knop (Nutri, 10 november 2026:
+     "Can you squeeze it in?"). Past het niet op één regel, dan verbergt SecondBar het. */
   @media (max-width: 899px) {
-    .wf-journey { display: none; }
+    .wf-journey { padding: 0; width: 30px; height: 30px; justify-content: center; }
+    .wf-journey span { display: none; }
   }
 </style>
