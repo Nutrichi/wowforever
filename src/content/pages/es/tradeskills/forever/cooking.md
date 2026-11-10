@@ -1,9 +1,9 @@
 ---
 title: "Cooking en WoW Forever: comida con experiencia, hogueras y recetas"
 metaTitle: "Guía de Cooking de WoW Forever: bonus de experiencia, recetas cambiadas y hogueras"
-description: "Cooking en WoW Forever: un 5 % más de experiencia con la comida, cada instructor, el libro Expert y la misión Artisan, cómo subir de 1 a 225, todas las recetas nuevas con su origen, las hogueras y los talentos de Legacy."
+description: "Cooking en WoW Forever: un 5 % más de experiencia con la comida, cada instructor, el libro Expert y la misión Artisan, cómo subir de 1 a 300, todas las recetas nuevas con su origen, las hogueras y los talentos de Legacy."
 short: "Cooking"
-updated: 2026-10-03
+updated: 2026-11-10
 lang: es
 faq:
   - q: "¿La comida cocinada da experiencia en WoW Forever?"
@@ -13,6 +13,8 @@ faq:
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/cooking/"
+  - name: "Warcraft Tavern, Cooking leveling"
+    url: "https://www.warcrafttavern.com/forever/guides/cooking-leveling/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/cooking/overview-leveling"
 manual: true
@@ -73,7 +75,7 @@ Cooking es una profesión secundaria, así que nunca te cuesta una de tus dos pl
 | Ambas | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=251905">Zerril Softbreeze</a> | Shen'dar Village, Zephras Isle | 43.8 43.8 |
 | Ambas | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=257006">Nyalah Brightfire</a> | Valanaar, Zephras Isle | 60.6 72.6 |
 
-## Subir de 1 a 225
+## Subir de 1 a 300
 
 El pescado es lo más fácil: las recetas son baratas, el pescado crudo es barato en la casa de subastas y casi ninguna receta pide un segundo ingrediente. Péscalo tú con [Fishing](/es/tradeskills/forever/fishing/) si quieres.
 
@@ -84,6 +86,8 @@ El pescado es lo más fácil: las recetas son baratas, el pescado crudo es barat
 | 100 a 150 | 55 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7755"><img class="wf-wh__icon" src="/wh/inv_misc_fish_30.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bristle Whisker Catfish</a> | 55 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6308"><img class="wf-wh__icon" src="/wh/inv_misc_fish_30.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Bristle Whisker Catfish</a> |
 | 150 a 175 | 65 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7755"><img class="wf-wh__icon" src="/wh/inv_misc_fish_30.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bristle Whisker Catfish</a> | 65 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6308"><img class="wf-wh__icon" src="/wh/inv_misc_fish_30.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Bristle Whisker Catfish</a> |
 | 175 a 225 | 55 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20916"><img class="wf-wh__icon" src="/wh/inv_misc_fish_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mithril Headed Trout</a> | 55 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8365"><img class="wf-wh__icon" src="/wh/inv_misc_fish_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Mithril Head Trout</a> |
+| 225 a 250 | 25 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18241"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Filet of Redgill</a> | 25 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13758"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Redgill</a> |
+| 250 a 300 | 60 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18244"><img class="wf-wh__icon" src="/wh/inv_misc_fish_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Poached Sunscale Salmon</a> | 60 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13760"><img class="wf-wh__icon" src="/wh/inv_misc_fish_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Sunscale Salmon</a> |
 
 Desde 150 necesitas el libro Expert. Lista de la compra: 52 Raw Brilliant Smallfish, 55 Raw Longjaw Mudsnapper, 120 Raw Bristle Whisker Catfish y 55 Raw Mithril Head Trout. La probabilidad de subir varía, así que quizá necesites alguno más o alguno menos.
 
@@ -96,7 +100,12 @@ Las recetas vienen de vendedores:
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6330"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Bristle Whisker Catfish</a> | 100 | Catherine Leland, Stormwind (/way 55.0 69.6) | Naal Mistrunner, Thunder Bluff (/way 51.0 52.8) |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=17062"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Mithril Head Trout</a> | 175 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=5162">Tansy Puddlefizz</a>, Ironforge (/way 47.8 6.6) | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3333">Shankys</a>, Orgrimmar (/way 70.0 30.6) |
 
-Aún no se conoce una ruta de 225 a 300.
+Desde 225 necesitas Artisan, con la misión de arriba. Lista de la compra para 225 a 300: 25 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13758"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Redgill</a> y 60 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13760"><img class="wf-wh__icon" src="/wh/inv_misc_fish_19.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Sunscale Salmon</a>, ambos pescados en aguas de zonas de nivel 40 a 60. Las dos recetas se venden a ambas facciones:
+
+| Receta | Habilidad | Dónde |
+|---|---|---|
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13941"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Filet of Redgill</a> | 225 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2664">Kelsey Yance</a>, Booty Bay (/way 28.2 74.4) |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13946"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Poached Sunscale Salmon</a> | 240 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8137">Gikkix</a>, Steamwheedle Port, Tanaris (/way 66.6 22.0) |
 
 ## Platos antiguos, buffs nuevos
 

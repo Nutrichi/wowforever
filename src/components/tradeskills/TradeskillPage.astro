@@ -22,6 +22,7 @@ import { foreverPerks } from '../../i18n/forever-tradeskills';
 import { tsIntro, tsT } from '../../i18n/tradeskill-pages';
 import { hasRecipes, hasRoute, money, tsData, tsPath, whItem, whSpell, type TsRecipe } from '../../lib/tradeskills-forever';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
+import trainerData from '../../data/tradeskill-trainers.json';
 import { longDate } from '../../lib/date';
 import { pageT } from '../../i18n/pages';
 import '../../styles/guides.css';
@@ -56,6 +57,12 @@ const crumbs = [
 const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, Astro.site) };
 
 const item = (id: number) => items[String(id)];
+// De trainers per factie (10 november 2026, Nutri: trainers "into each profession page").
+type Trainer = { faction: string; name: string; npc: number | null; rank: string; zone: string; place: string; at: string };
+const trainers = ((trainerData as unknown as Record<string, Trainer[] | string>)[skill] ?? []) as Trainer[];
+const trainerGroups = (['alliance', 'horde'] as const)
+  .map((f) => ({ faction: f, rows: trainers.filter((r) => r.faction === f) }))
+  .filter((g) => g.rows.length > 0);
 const icon = (id: number) => (item(id)?.icon ? `/wh/${item(id)!.icon}.jpg` : '');
 const sourceLabel = (r: TsRecipe) => (r.sources.length ? r.sources.map((s) => t(s as never)).join(', ') : t('unknown'));
 const hours = (s: number) => (s >= 3600 ? `${Math.round(s / 3600)} h` : `${Math.round(s / 60)} min`);
@@ -142,6 +149,30 @@ const sourceLinks = [
                 </li>
               ))}
             </ul>
+          </>
+        )}
+        {trainerGroups.length > 0 && (
+          <>
+            <h2>{t('trainers')}</h2>
+            <p>{t('trainersText')}</p>
+            {trainerGroups.map((g) => (
+              <>
+                <h3>{g.faction === 'alliance' ? 'Alliance' : 'Horde'}</h3>
+                <table>
+                  <thead><tr><th>{t('colTrainer')}</th><th>{t('colRank')}</th><th>{t('colWhere')}</th><th>/way</th></tr></thead>
+                  <tbody>
+                    {g.rows.map((r) => (
+                      <tr>
+                        <td>{r.npc ? <a class="wf-wh wf-plain" href={`https://www.wowhead.com/forever/npc=${r.npc}`} target="_blank" rel="noopener nofollow">{r.name}</a> : r.name}</td>
+                        <td>{r.rank}</td>
+                        <td>{r.place}, {r.zone}</td>
+                        <td>{r.at}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </>
+            ))}
           </>
         )}
         <p class="wf-ts__links">
