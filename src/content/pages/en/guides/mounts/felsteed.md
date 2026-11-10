@@ -3,11 +3,11 @@ title: "Felsteed: how to get the mount in WoW Forever"
 metaTitle: "How to get the Felsteed mount in WoW Forever"
 description: "Felsteed is a class mount for Warlocks in World of Warcraft: Forever. Source: Class mount."
 short: "Felsteed"
-updated: 2026-10-09
+updated: 2026-11-10
 lang: "en"
 faq:
   - q: "How do you get Felsteed in WoW Forever?"
-    a: "In Classic, Warlocks learned it at level 40 from their class trainer. How it is learned in WoW Forever is not known yet."
+    a: "At level 40, with the quest Summon Felsteed, which sends you to a Warlock trainer. Since a hotfix on 9 November, finishing the quest also grants Apprentice Riding, so you do not need to buy it for 100 gold. Who finished it earlier gets the riding skill by summoning the Felsteed once."
   - q: "Is Felsteed new in WoW Forever?"
     a: "No. Felsteed was already in Classic and returns in WoW Forever."
 sources:
@@ -27,6 +27,6 @@ Felsteed is a class mount for Warlocks in World of Warcraft: Forever.
 
 ## How to get it
 
-In Classic, Warlocks learned it at level 40 from their class trainer. How it is learned in WoW Forever is not known yet.
+At level 40, with the quest Summon Felsteed, which sends you to a Warlock trainer. Since a hotfix on 9 November, finishing the quest also grants Apprentice Riding, so you do not need to buy it for 100 gold. Who finished it earlier gets the riding skill by summoning the Felsteed once.
 
 Every mount of WoW Forever, with where it comes from, is in the [mount guide](/guides/mounts/).

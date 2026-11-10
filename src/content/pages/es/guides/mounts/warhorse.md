@@ -3,12 +3,12 @@ title: "Warhorse: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Warhorse en WoW Forever"
 description: "Warhorse es una montura de clase para los Paladins en World of Warcraft: Forever. Fuente: Montura de clase."
 short: "Warhorse"
-updated: 2026-10-09
+updated: 2026-11-10
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Warhorse en WoW Forever?"
-    a: "En Classic, los Paladins la aprendían a nivel 40 con una cadena de misiones de clase. Aún no se sabe cómo se aprende en WoW Forever."
+    a: "A nivel 40, con una misión de clase gratuita. Los Paladins de la Alliance reciben The Tome of Nobility de Duthorian Rall en Stormwind. Los Paladins de la Horde empiezan Report to Danitha en Undercity y aprenden el caballo con A Paladin's Steed en Bandarion Keep. No hace falta comprar Apprentice Riding por 100 de oro."
   - q: "¿Es Warhorse nueva en WoW Forever?"
     a: "No. Warhorse ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -28,6 +28,6 @@ Warhorse es una montura de clase para los Paladins en World of Warcraft: Forever
 
 ## Cómo conseguirla
 
-En Classic, los Paladins la aprendían a nivel 40 con una cadena de misiones de clase. Aún no se sabe cómo se aprende en WoW Forever.
+A nivel 40, con una misión de clase gratuita. Los Paladins de la Alliance reciben The Tome of Nobility de Duthorian Rall en Stormwind. Los Paladins de la Horde empiezan Report to Danitha en Undercity y aprenden el caballo con A Paladin's Steed en Bandarion Keep. No hace falta comprar Apprentice Riding por 100 de oro.
 
 Todas las monturas de WoW Forever, con su origen, están en la [guía de monturas](/es/guides/mounts/).

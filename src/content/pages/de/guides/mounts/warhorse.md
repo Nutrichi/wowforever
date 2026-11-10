@@ -3,12 +3,12 @@ title: "Warhorse: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Warhorse in WoW Forever"
 description: "Warhorse ist ein Klassenreittier für Paladins in World of Warcraft: Forever. Quelle: Klassenreittier."
 short: "Warhorse"
-updated: 2026-10-09
+updated: 2026-11-10
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Warhorse in WoW Forever?"
-    a: "In Classic lernten Paladins es auf Stufe 40 mit einer Reihe von Klassenquests. Wie man es in WoW Forever lernt, ist noch nicht bekannt."
+    a: "Auf Stufe 40, mit einer kostenlosen Klassenquest. Paladins der Alliance bekommen The Tome of Nobility von Duthorian Rall in Stormwind. Paladins der Horde beginnen Report to Danitha in Undercity und lernen das Pferd mit A Paladin's Steed in Bandarion Keep. Apprentice Riding für 100 Gold musst du nicht kaufen."
   - q: "Ist Warhorse neu in WoW Forever?"
     a: "Nein. Warhorse gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -28,6 +28,6 @@ Warhorse ist ein Klassenreittier für Paladins in World of Warcraft: Forever.
 
 ## So bekommst du es
 
-In Classic lernten Paladins es auf Stufe 40 mit einer Reihe von Klassenquests. Wie man es in WoW Forever lernt, ist noch nicht bekannt.
+Auf Stufe 40, mit einer kostenlosen Klassenquest. Paladins der Alliance bekommen The Tome of Nobility von Duthorian Rall in Stormwind. Paladins der Horde beginnen Report to Danitha in Undercity und lernen das Pferd mit A Paladin's Steed in Bandarion Keep. Apprentice Riding für 100 Gold musst du nicht kaufen.
 
 Jedes Reittier von WoW Forever, mit seiner Herkunft, steht im [Reittier-Guide](/de/guides/mounts/).

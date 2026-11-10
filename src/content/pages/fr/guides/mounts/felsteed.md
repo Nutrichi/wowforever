@@ -3,12 +3,12 @@ title: "Felsteed : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Felsteed dans WoW Forever"
 description: "Felsteed est une monture de classe pour les Warlocks dans World of Warcraft: Forever. Source: Monture de classe."
 short: "Felsteed"
-updated: 2026-10-09
+updated: 2026-11-10
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Felsteed dans WoW Forever ?"
-    a: "Dans Classic, les Warlocks l'apprenaient au niveau 40 auprès de leur maître de classe. On ne sait pas encore comment elle s'apprend dans WoW Forever."
+    a: "Au niveau 40, avec la quête Summon Felsteed, qui vous envoie chez un maître Warlock. Depuis un hotfix du 9 novembre, terminer la quête donne aussi Apprentice Riding : inutile de l'acheter pour 100 pièces d'or. Ceux qui l'ont terminée avant obtiennent la monte en invoquant une fois le Felsteed."
   - q: "Felsteed est-elle nouvelle dans WoW Forever ?"
     a: "Non. Felsteed existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -28,6 +28,6 @@ Felsteed est une monture de classe pour les Warlocks dans World of Warcraft: For
 
 ## Comment l'obtenir
 
-Dans Classic, les Warlocks l'apprenaient au niveau 40 auprès de leur maître de classe. On ne sait pas encore comment elle s'apprend dans WoW Forever.
+Au niveau 40, avec la quête Summon Felsteed, qui vous envoie chez un maître Warlock. Depuis un hotfix du 9 novembre, terminer la quête donne aussi Apprentice Riding : inutile de l'acheter pour 100 pièces d'or. Ceux qui l'ont terminée avant obtiennent la monte en invoquant une fois le Felsteed.
 
 Chaque monture de WoW Forever, avec son origine, se trouve dans le [guide des montures](/fr/guides/mounts/).
