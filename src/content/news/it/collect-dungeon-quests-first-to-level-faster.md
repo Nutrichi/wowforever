@@ -15,6 +15,8 @@ manual: true
 ---
 In World of Warcraft: Forever un dungeon conviene solo con le sue missioni. I mostri dentro danno poca esperienza, [le missioni molta](/it/news/wow-forever-dungeon-experience-changes/), anche dopo il [taglio del 50% del bonus](/it/news/dungeon-quests-give-50-percent-less-bonus-experience/). Quindi raccogli le missioni prima di entrare.
 
+**Aggiornamento del 10 novembre:** da un hotfix dell'8 novembre [i nemici nei dungeon danno il 50% di esperienza in più](/it/news/dungeon-enemies-give-50-percent-more-experience/). Una run completa rende di più, ma conviene ancora raccogliere prima le missioni.
+
 ## Sparse per Azeroth
 
 Le missioni dei dungeon raramente aspettano all'ingresso. Iniziano nelle capitali, in zone di missioni lontane dal dungeon o con un oggetto che cade dentro. Alcune si aprono solo dopo una catena:

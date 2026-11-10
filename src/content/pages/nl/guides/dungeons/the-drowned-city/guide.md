@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Gids voor The Drowned City in WoW Forever: ingang, indeling, bazen"
 description: "Zo bereik je The Drowned City onder water voor Stranglethorn Vale in WoW Forever, op deze trash let je en zo versla je de zes bazen en een rare."
 short: "Gids"
-updated: 2026-11-08
+updated: 2026-11-10
 lang: nl
 manual: true
 sources:
@@ -29,6 +29,8 @@ Je begint in een grot en klimt een heuvel op naar de grote ruïnes. De stad open
 
 ## Trash om op te letten
 
+Sinds een hotfix van 9 november doen de wezens hier niet langer ongeveer 30% meer schade dan bedoeld. Groepen die voor die datum te sterk aanvoelden, zijn nu makkelijker.
+
 - **Makrura Snappers en Chasm Crawlers** komen eerst. De Crawlers lopen in groepjes van twee of drie, slaan hard en zetten Muscle Tear op de tank (21 Strength minder), terwijl de Snappers Sunder Armor stapelen. Pull rustig en laat de tank threat opbouwen.
 - **Risen Sentries** komen in groepjes van drie of vier, vaak met een **Profane Necro**. De Sentries chargen en duwen spelers weg; de Necro roept een Drowned Spirit op. Ga bovenop de groep staan zodat de charges niets doen, dood de Necro eerst en houd je rug weg van andere groepen.
 - **Brinescale Sorcerers** zijn de gevaarlijke naga: harde Frostbolts en een Fear. Pull ze om een hoek zodat ze naar je toe komen. Onderbreek eerst de Fear en de Frostbolts als het kan. Een Tremor Totem van een Shaman helpt hier veel, want één speler op de vlucht in deze drukke straten trekt zo de volgende groep mee.
@@ -52,6 +54,8 @@ In de volgorde van de speldata. Umbra is een rare die er niet altijd staat.
 ### 4. Deathless Marrow
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270885">Deathless Marrow</a> gooit Bloodbolt op de hele groep, en Deathless Guards en Deathless Sorcerers blijven komen tot hij sterft. Blijf op de baas en raak de adds ondertussen met cleaves en area damage. Een groep die zich op de adds stort, wordt overlopen.
+
+Dezelfde hotfix verzwakte dit gevecht: de wezens hebben 25% minder gezondheid, de Fireball van de Deathless Sorcerer doet 25% minder schade, de Charge van de Deathless Watcher 50% minder, en de Deathless Guardian gebruikt Shield Slam ongeveer half zo vaak. Meer in [de post over de hotfix](/nl/news/drowned-city-gets-easier-and-busy-zones-emptier/).
 
 ### 5. Gill
 

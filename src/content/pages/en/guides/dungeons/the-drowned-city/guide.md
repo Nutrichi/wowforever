@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "The Drowned City guide for WoW Forever: entrance, layout, bosses"
 description: "How to reach The Drowned City under water off Stranglethorn Vale in WoW Forever, the trash to watch out for and how to beat its six bosses, plus a rare."
 short: "Guide"
-updated: 2026-11-08
+updated: 2026-11-10
 lang: en
 sources:
   - name: "Wowhead"
@@ -28,6 +28,8 @@ You start in a cave and climb a hill to the main ruins. The city opens into a la
 
 ## Trash to watch out for
 
+Since a hotfix on 9 November, creatures here no longer do about 30% more damage than intended. Packs that felt too strong before that date are now easier.
+
 - **Makrura Snappers and Chasm Crawlers** come first. The Crawlers walk in packs of two or three, hit hard and put Muscle Tear on the tank (21 less Strength), while the Snappers stack Sunder Armor. Pull slowly and let the tank build threat.
 - **Risen Sentries** come in packs of three or four, often with a **Profane Necro**. The Sentries charge and knock players back; the Necro summons a Drowned Spirit. Stand on top of the pack so the charges do nothing, kill the Necro first and keep your back away from other packs.
 - **Brinescale Sorcerers** are the dangerous naga: hard Frostbolts and a Fear. Pull them around a corner so they come to you. Interrupt the Fear first and the Frostbolts when you can. A Shaman's Tremor Totem helps a lot here, because one feared player in these crowded streets can pull the next pack.
@@ -51,6 +53,8 @@ In the order of the game data. Umbra is a rare that is not always there.
 ### 4. Deathless Marrow
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270885">Deathless Marrow</a> casts Bloodbolt on the whole group, and Deathless Guards and Deathless Sorcerers keep coming until it dies. Stay on the boss and hit the adds with cleaves and area damage on the side. A group that turns to the adds gets overrun.
+
+The same hotfix weakened this fight: the creatures have 25% less health, the Fireball of the Deathless Sorcerer does 25% less damage, the Charge of the Deathless Watcher 50% less, and the Deathless Guardian casts Shield Slam about half as often. More in [the post about the hotfix](/news/drowned-city-gets-easier-and-busy-zones-emptier/).
 
 ### 5. Gill
 

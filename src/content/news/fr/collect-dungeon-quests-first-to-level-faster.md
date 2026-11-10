@@ -15,6 +15,8 @@ manual: true
 ---
 Dans World of Warcraft: Forever, un donjon ne rapporte vraiment qu'avec ses quêtes. Les monstres à l'intérieur donnent peu d'expérience, [les quêtes beaucoup](/fr/news/wow-forever-dungeon-experience-changes/), même après la [baisse de 50 % du bonus](/fr/news/dungeon-quests-give-50-percent-less-bonus-experience/). Prenez donc les quêtes avant d'entrer.
 
+**Mise à jour du 10 novembre :** depuis un hotfix du 8 novembre, [les ennemis en donjon donnent 50 % d'expérience en plus](/fr/news/dungeon-enemies-give-50-percent-more-experience/). Une run complète rapporte donc plus, mais les quêtes valent toujours la peine d'être prises d'abord.
+
 ## Dispersées dans Azeroth
 
 Les quêtes de donjon attendent rarement à l'entrée. Elles commencent dans les capitales, dans des zones de quêtes loin du donjon, ou avec un objet qui tombe à l'intérieur. Certaines ne s'ouvrent qu'après une chaîne :

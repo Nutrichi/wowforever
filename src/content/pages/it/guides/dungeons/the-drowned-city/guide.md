@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guida a The Drowned City per WoW Forever: ingresso, mappa e boss"
 description: "Come raggiungere The Drowned City sott'acqua al largo di Stranglethorn Vale in WoW Forever, i nemici da tenere d'occhio e come battere i sei boss e un raro."
 short: "Guida"
-updated: 2026-11-08
+updated: 2026-11-10
 lang: it
 manual: true
 sources:
@@ -29,6 +29,8 @@ Si parte in una grotta e si sale una collina fino alle grandi rovine. La città 
 
 ## Nemici da tenere d'occhio
 
+Da un hotfix del 9 novembre, le creature qui non fanno più circa il 30% di danni in più del previsto. I gruppi che sembravano troppo forti prima di quella data ora sono più facili.
+
 - **Makrura Snapper e Chasm Crawler** arrivano per primi. I Crawler vanno in gruppi di due o tre, colpiscono forte e mettono Muscle Tear sul tank (21 di Forza in meno), mentre gli Snapper accumulano Sunder Armor. Pulla con calma e lascia che il tank prenda minaccia.
 - **I Risen Sentry** arrivano in gruppi di tre o quattro, spesso con un **Profane Necro**. I Sentry caricano e respingono i giocatori; il Necro evoca un Drowned Spirit. Mettiti sopra il gruppo così le cariche non servono a nulla, uccidi prima il Necro e tieni le spalle lontane da altri gruppi.
 - **I Brinescale Sorcerer** sono i naga pericolosi: Frostbolt forti e un Fear. Tirali dietro un angolo così vengono da te. Interrompi prima il Fear e poi i Frostbolt quando puoi. Il Tremor Totem di uno Sciamano aiuta molto qui, perché un solo giocatore in fuga in queste strade affollate può tirarsi dietro il gruppo successivo.
@@ -52,6 +54,8 @@ Nell'ordine dei dati di gioco. Umbra è un raro che non c'è sempre.
 ### 4. Deathless Marrow
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270885">Deathless Marrow</a> lancia Bloodbolt su tutto il gruppo, e Deathless Guard e Deathless Sorcerer continuano ad arrivare finché non muore. Resta sul boss e colpisci gli add di passaggio con cleave e danni ad area. Un gruppo che si concentra sugli add viene travolto.
+
+Lo stesso hotfix ha indebolito questo scontro: le creature hanno il 25% di salute in meno, la Fireball del Deathless Sorcerer fa il 25% di danni in meno, la Charge del Deathless Watcher il 50% in meno, e il Deathless Guardian lancia Shield Slam circa la metà delle volte. Di più nella [notizia sull'hotfix](/it/news/drowned-city-gets-easier-and-busy-zones-emptier/).
 
 ### 5. Gill
 

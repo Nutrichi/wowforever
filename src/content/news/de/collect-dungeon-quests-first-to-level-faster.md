@@ -15,6 +15,8 @@ manual: true
 ---
 In World of Warcraft: Forever lohnt sich ein Dungeon erst mit seinen Quests. Monster darin geben wenig Erfahrung, [die Quests viel](/de/news/wow-forever-dungeon-experience-changes/), auch nach der [Kürzung des Bonus um 50 %](/de/news/dungeon-quests-give-50-percent-less-bonus-experience/). Sammelt die Quests also, bevor ihr reingeht.
 
+**Update vom 10. November:** Seit einem Hotfix vom 8. November [geben Gegner in Dungeons 50 % mehr Erfahrung](/de/news/dungeon-enemies-give-50-percent-more-experience/). Ein voller Durchlauf bringt so mehr, aber die Quests lohnen sich weiterhin zuerst.
+
 ## Über Azeroth verteilt
 
 Dungeonquests warten selten am Eingang. Sie beginnen in Hauptstädten, in Questgebieten weit weg vom Dungeon oder mit einem Gegenstand, der drinnen fällt. Manche öffnen sich erst nach einer Reihe:

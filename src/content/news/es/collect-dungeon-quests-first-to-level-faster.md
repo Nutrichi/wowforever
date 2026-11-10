@@ -15,6 +15,8 @@ manual: true
 ---
 En World of Warcraft: Forever, una mazmorra solo compensa con sus misiones. Los monstruos de dentro dan poca experiencia, [las misiones mucha](/es/news/wow-forever-dungeon-experience-changes/), incluso tras el [recorte del 50 % del bonus](/es/news/dungeon-quests-give-50-percent-less-bonus-experience/). Así que reúne las misiones antes de entrar.
 
+**Actualización del 10 de noviembre:** desde un hotfix del 8 de noviembre, [los enemigos de las mazmorras dan un 50 % más de experiencia](/es/news/dungeon-enemies-give-50-percent-more-experience/). Una run completa rinde más, pero sigue valiendo la pena reunir antes las misiones.
+
 ## Repartidas por Azeroth
 
 Las misiones de mazmorra rara vez esperan en la entrada. Empiezan en capitales, en zonas de misiones lejos de la mazmorra o con un objeto que cae dentro. Algunas solo se abren tras una cadena:

@@ -14,6 +14,8 @@ draft: false
 ---
 In World of Warcraft: Forever, a dungeon only pays off with its quests. Monsters inside give little experience, [the quests a lot](/news/wow-forever-dungeon-experience-changes/), even after the [cut of 50% on the bonus](/news/dungeon-quests-give-50-percent-less-bonus-experience/). So collect the quests before you go in.
 
+**Update 10 November:** since a hotfix on 8 November, [enemies in dungeons give 50% more experience](/news/dungeon-enemies-give-50-percent-more-experience/). That makes a full run worth more, but the quests are still worth collecting first.
+
 ## Spread over Azeroth
 
 Dungeon quests rarely wait at the entrance. They start in capitals, in quest hubs far from the dungeon, or with an item that drops inside. Some only open after a chain:

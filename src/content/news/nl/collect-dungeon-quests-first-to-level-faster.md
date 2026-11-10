@@ -15,6 +15,8 @@ manual: true
 ---
 In World of Warcraft: Forever loont een dungeon pas met zijn quests. Monsters binnen geven weinig experience, [de quests veel](/nl/news/wow-forever-dungeon-experience-changes/), ook na de [halvering van de bonus](/nl/news/dungeon-quests-give-50-percent-less-bonus-experience/). Verzamel de quests dus voor je naar binnen gaat.
 
+**Update 10 november:** sinds een hotfix van 8 november [geven vijanden in dungeons 50% meer experience](/nl/news/dungeon-enemies-give-50-percent-more-experience/). Een volle run levert zo meer op, maar de quests blijven het waard om eerst te verzamelen.
+
 ## Verspreid over Azeroth
 
 Dungeonquests wachten zelden bij de ingang. Ze beginnen in hoofdsteden, in questhubs ver van de dungeon, of met een item dat binnen valt. Sommige gaan pas open na een reeks:
