@@ -34,12 +34,16 @@ echo "push-media: $(wc -l < "$WORK/new.txt") nieuwe of gewijzigde beelden"
 
 mkdir -p ~/.ssh
 # De sleutel netjes terugzetten, ook als hij bij het plakken (bv. op een
-# telefoon) op één regel belandde of \r of spaties kreeg: de base64 tussen kop
-# en voet opnieuw in regels van 70 tekens.
-body=$(printf '%s' "$MEDIA_DEPLOY_KEY" | tr -d '\r' \
-  | sed -e 's/-----BEGIN OPENSSH PRIVATE KEY-----//' -e 's/-----END OPENSSH PRIVATE KEY-----//' | tr -d ' \n\t')
+# iPhone) op één regel belandde, \r of spaties kreeg, of als Slimme interpunctie
+# de streepjes in lange streepjes veranderde: alleen de base64 tussen kop en
+# voet blijft over, opnieuw in regels van 70 tekens.
+body=$(printf '%s' "$MEDIA_DEPLOY_KEY" | sed -e 's/BEGIN OPENSSH PRIVATE KEY//g' -e 's/END OPENSSH PRIVATE KEY//g' \
+  | LC_ALL=C tr -cd 'A-Za-z0-9+/=')
 { echo '-----BEGIN OPENSSH PRIVATE KEY-----'; printf '%s' "$body" | fold -w 70; echo; echo '-----END OPENSSH PRIVATE KEY-----'; } > ~/.ssh/media_key
 chmod 600 ~/.ssh/media_key
+# Controle zonder iets geheims te tonen: lengte (hoort 344 te zijn) en de
+# vingerafdruk van de publieke sleutel.
+echo "push-media: sleutel ${#body} tekens, $(ssh-keygen -y -f ~/.ssh/media_key 2>/dev/null | ssh-keygen -lf - 2>/dev/null || echo 'onleesbaar')"
 ssh-keyscan github.com >> ~/.ssh/known_hosts 2>/dev/null
 export GIT_SSH_COMMAND="ssh -i $HOME/.ssh/media_key -o IdentitiesOnly=yes"
 
