@@ -15,6 +15,8 @@ draft: false
 ---
 Una catena di missioni per Shaman sulla beta di WoW Forever finisce con la scelta tra tre armi e uno scudo. Inizia al livello 30, subito dopo la missione del Wind Totem. Dalla build dell'8 ottobre i totem cadono più spesso.
 
+**Aggiornamento del 10 novembre:** da un hotfix, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> ha +16 Strength al posto di +12 Intellect e una velocità di 3.6, di più nel [nostro articolo](/it/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 Un giocatore ha trovato la catena e ha pubblicato ogni passo su Reddit. L'ultimo passo porta allo stesso PNG che dà ai Warrior la <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6975"><img class="wf-wh__icon" src="/wh/inv_axe_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whirlwind Axe</a>.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wvrqal/shaman_ww_weapon_is_in_the_game">

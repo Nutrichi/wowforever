@@ -3,7 +3,7 @@ title: "Guide de l'Affliction Warlock dans WoW Forever"
 metaTitle: "WoW Forever : Affliction Warlock, build drain tank, rotation, Life Tap et races"
 description: "L'Affliction Warlock dans WoW Forever : ce qui change, le build drain tank pour le niveau 60, la rotation, Life Tap et Drain Life, les démons, les stats, les races et les métiers."
 short: "Affliction Warlock"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: fr
 manual: true
 faq:
@@ -94,12 +94,14 @@ Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir 
 
 ## Rotation
 
+> **Mise à jour du 10 novembre :** un hotfix a changé Wrack et Soul Siphon, et la rotation ci-dessous en tient compte, plus de détails dans [notre article](/fr/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
+
 **Un ennemi**
 1. Envoyez votre démon.
 2. Pullez avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a>. Ses premiers ticks sont faibles, ce qui laisse à votre démon le temps de prendre la menace.
 3. Lancez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a>.
-4. Lancez une malédiction, comme <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> sur les ennemis qui frappent fort. C'est votre troisième effet d'Affliction pour Soul Siphon.
-5. Canalisez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a> jusqu'à la mort de l'ennemi. Utilisez votre baguette quand il est presque mort.
+4. Lancez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a> si vous l'avez. Seuls Corruption, Siphon Life et Bane of Agony comptent pour Soul Siphon, donc une malédiction comme <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> aide encore contre les ennemis qui frappent fort, mais n'augmente plus le bonus.
+5. Canalisez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a> jusqu'à la mort de l'ennemi. À partir du niveau 40, canalisez plutôt <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> tant que votre vie le permet : vos trois DoTs tiquent deux fois plus vite. Utilisez votre baguette quand il est presque mort.
 6. Lancez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1454"><img class="wf-wh__icon" src="/wh/spell_shadow_burningspirit.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Life Tap</a> chaque fois que vous avez plus de vie que de mana.
 
 **Deux ennemis.** Posez Bane of Agony et Corruption sur le premier, plus Siphon Life si vous l'avez, et lancez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5782"><img class="wf-wh__icon" src="/wh/spell_shadow_possession.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fear</a> sur lui. Envoyez votre démon sur le second, posez vos DoTs et drainez-le. Apeurez le premier à nouveau quand il revient. Avec une cible de focalisation et une touche de modification, vous lancez vos sorts sur l'ennemi apeuré sans changer de cible.

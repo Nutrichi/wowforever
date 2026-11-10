@@ -15,6 +15,8 @@ draft: false
 ---
 Eine Questreihe für Shamans in der Beta von WoW Forever endet mit der Wahl zwischen drei Waffen und einem Schild. Sie beginnt auf Stufe 30, direkt nach der Quest für den Wind Totem. Seit dem Build vom 8. Oktober droppen die Totems öfter.
 
+**Update vom 10. November:** Seit einem Hotfix hat <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> +16 Strength statt +12 Intellect und ein Tempo von 3.6, mehr in [unserem Beitrag](/de/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 Ein Spieler hat die Reihe gefunden und jeden Schritt auf Reddit gepostet. Der letzte Schritt führt zum selben NPC, der Warriors die <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6975"><img class="wf-wh__icon" src="/wh/inv_axe_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whirlwind Axe</a> gibt.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wvrqal/shaman_ww_weapon_is_in_the_game">

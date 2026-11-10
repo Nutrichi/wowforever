@@ -3,7 +3,7 @@ title: "Guía del Affliction Warlock en WoW Forever"
 metaTitle: "WoW Forever: Affliction Warlock, build drain tank, rotación, Life Tap y razas"
 description: "El Affliction Warlock en WoW Forever: qué cambia, la build drain tank para el nivel 60, la rotación, Life Tap y Drain Life, los demonios, los stats, las razas y las profesiones."
 short: "Affliction Warlock"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: es
 manual: true
 faq:
@@ -94,12 +94,14 @@ La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP 
 
 ## Rotación
 
+> **Actualización del 10 de noviembre:** un hotfix cambió Wrack y Soul Siphon, y la rotación de abajo lo sigue, más en [nuestra noticia](/es/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
+
 **Un enemigo**
 1. Manda a tu demonio.
 2. Haz pull con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a>. Sus primeros tics son débiles, lo que da tiempo a tu demonio para coger amenaza.
 3. Lanza <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a>.
-4. Lanza una maldición, como <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> en enemigos que pegan fuerte. Es tu tercer efecto de Affliction para Soul Siphon.
-5. Canaliza <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a> hasta que muera el enemigo. Usa la varita cuando esté casi muerto.
+4. Lanza <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a> si lo tienes. Solo Corruption, Siphon Life y Bane of Agony cuentan para Soul Siphon, así que una maldición como <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> sigue ayudando contra enemigos que pegan fuerte, pero ya no aumenta la bonificación.
+5. Canaliza <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a> hasta que muera el enemigo. Desde el nivel 40, canaliza mejor <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> mientras tu vida vaya bien: tus tres DoTs hacen daño el doble de rápido. Usa la varita cuando esté casi muerto.
 6. Lanza <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1454"><img class="wf-wh__icon" src="/wh/spell_shadow_burningspirit.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Life Tap</a> siempre que tengas más vida que maná.
 
 **Dos enemigos.** Pon Bane of Agony y Corruption en el primero, más Siphon Life si lo tienes, y lánzale <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5782"><img class="wf-wh__icon" src="/wh/spell_shadow_possession.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fear</a>. Manda a tu demonio al segundo, ponle tus DoTs y drénalo. Vuelve a asustar al primero cuando regrese. Con un objetivo de foco y una tecla modificadora lanzas sobre el enemigo asustado sin cambiar de objetivo.

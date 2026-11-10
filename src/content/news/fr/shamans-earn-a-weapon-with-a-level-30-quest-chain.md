@@ -15,6 +15,8 @@ draft: false
 ---
 Une chaîne de quêtes pour Shamans sur la bêta de WoW Forever se termine par le choix entre trois armes et un bouclier. Elle commence au niveau 30, juste après la quête du Wind Totem. Depuis le build du 8 octobre, les totems tombent plus souvent.
 
+**Mise à jour du 10 novembre :** depuis un hotfix, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> a +16 Strength au lieu de +12 Intellect et une vitesse de 3.6, plus de détails dans [notre article](/fr/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 Un joueur a trouvé la chaîne et a publié chaque étape sur Reddit. La dernière étape mène au même PNJ qui donne la <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6975"><img class="wf-wh__icon" src="/wh/inv_axe_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whirlwind Axe</a> aux Warriors.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wvrqal/shaman_ww_weapon_is_in_the_game">

@@ -15,6 +15,8 @@ manual: true
 ---
 Quests in World of Warcraft: Forever betalen geen goud meer zodra je level 60 bent. Jokerd, een van de [eerste vijf spelers op 60](/nl/news/five-players-hit-level-60-in-a-record-launch/), merkte het op stream. Een ontwikkelaar vertelde hem dat het met opzet is.
 
+**Update 10 november:** Blizzard bevestigt de wijziging en legt ze uit. In ruil voegt het goud toe aan de meeste quests vanaf level 48, meer in [onze post](/nl/news/blizzard-adds-gold-to-quests-from-level-48/).
+
 ## Geen goud in plaats van experience
 
 In Classic Era betaalt een quest op het maximumlevel extra goud in plaats van de experience die je niet meer kunt gebruiken. In Forever is die bonus weg, ontdekte Jokerd de dag nadat hij 60 werd.

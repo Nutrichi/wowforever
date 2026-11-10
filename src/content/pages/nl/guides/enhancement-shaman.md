@@ -3,7 +3,7 @@ title: "Gids voor de Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "De Enhancement Shaman in WoW Forever: de build voor level 60, Stormstrike en Maelstrom Weapon, de rotatie, totems, mana, tanken, stats en races."
 short: "Enhancement Shaman"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: nl
 manual: true
 faq:
@@ -169,7 +169,7 @@ Tanken werkt tijdens het levelen, met nadelen: geen echte taunt, geen verdedigen
 
 ## Stats en gear
 
-> **Update 7 november:** met de hotfixes van 10 november wordt Strength de sterkste stat voor Enhancement, en Blizzard raadt aan om tijdens het levelen gear met Strength en attack power te verzamelen. De tips over Intellect en spell power hieronder veranderen dan, meer in [onze post](/nl/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
+> **Update 10 november:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> heeft nu +16 Strength in plaats van +12 Intellect, en een snelheid van 3.6, meer in [onze post](/nl/news/rage-of-the-storm-swaps-intellect-for-strength/). Blizzard maakt Strength ook de sterkste stat voor Enhancement en raadt aan om tijdens het levelen gear met Strength en attack power te verzamelen. De tips over Intellect en spell power hieronder veranderen zodra dat deel van de hotfix in het spel zit, meer in [de aankondiging](/nl/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
 
 Stat-prioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
 
@@ -183,7 +183,7 @@ Stat-prioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen
 
 **Pantser.** Cloth, leather of mail, wat de juiste stats heeft: een lichter type pantser geeft in Forever geen straf. Dungeons en Leatherworking geven goede levelgear.
 
-**Wapen.** Eerst een traag tweehandig wapen met hoge damage per seconde, daarna pas de stats. De questreeks Call of Air geeft onderweg <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a>.
+**Wapen.** Eerst een traag tweehandig wapen met hoge damage per seconde, daarna pas de stats. De questreeks Call of Air geeft onderweg <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a>, sinds 10 november met +16 Strength en een snelheid van 3.6.
 
 **Totems.** De relic-plek van de Shaman. Nog zeldzaam; zoek er een die je mana helpt.
 

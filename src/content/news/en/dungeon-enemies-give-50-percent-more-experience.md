@@ -14,6 +14,10 @@ draft: false
 ---
 Killing enemies in a dungeon gives 50% more experience in World of Warcraft: Forever. Blizzard deployed the hotfix on Sunday 8 November at about 11.05 PST, which is 20.05 in Belgium. No patch or restart is needed.
 
+**Update 10 November:** Blizzard confirms [on the forums](https://us.forums.blizzard.com/en/wow/t/2406555/254) that the hotfix took dungeon kill experience from 40% to 60% of the values in Classic Era, and is happy with the result:
+
+> We have subsequently felt that the adjustment is working well to produce dungeon leveling speeds that fit with the rest of WoW Forever content.
+
 Community manager Kaivax gives the reason on the forums: going back in for more runs should feel better. He ends with a wink at <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6443"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deviate Hide</a>, the hide from Wailing Caverns that often takes several runs to collect.
 
 ## What changes

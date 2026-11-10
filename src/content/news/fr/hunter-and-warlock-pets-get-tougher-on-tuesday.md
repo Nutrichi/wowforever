@@ -15,6 +15,8 @@ manual: true
 ---
 Blizzard prépare les premiers hotfixes de classes depuis la sortie de World of Warcraft: Forever. Ils arrivent le mardi 10 novembre et touchent trois points : les familiers qui tankent, les Warlocks Affliction et les Shamans Enhancement.
 
+**Mise à jour du 10 novembre :** les premiers changements sont en ligne : [Wrack, Soul Siphon, l'Imp et deux tirs du Hunter](/fr/news/wrack-makes-affliction-dots-tick-twice-as-fast/), et la [masse de quête de l'Enhancement avec de la Strength](/fr/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 ## Familiers et Voidwalkers
 
 Les familiers des Hunters et le Voidwalker du Warlock ne tiennent pas aussi bien comme tanks que Blizzard le voudrait. L'objectif est qu'ils soient à peu près aussi efficaces que dans Classic Era, et Blizzard ajustera leurs stats pour y arriver.

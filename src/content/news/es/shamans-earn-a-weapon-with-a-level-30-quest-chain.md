@@ -15,6 +15,8 @@ draft: false
 ---
 Una cadena de misiones para Shamans en la beta de WoW Forever termina con la elección entre tres armas y un escudo. Empieza a nivel 30, después de la misión del Wind Totem. Desde la build del 8 de octubre, los tótems caen más a menudo.
 
+**Actualización del 10 de noviembre:** desde un hotfix, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> tiene +16 Strength en lugar de +12 Intellect y una velocidad de 3.6, más en [nuestra noticia](/es/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 Un jugador encontró la cadena y publicó cada paso en Reddit. El último paso lleva al mismo PNJ que da a los Warriors el <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6975"><img class="wf-wh__icon" src="/wh/inv_axe_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whirlwind Axe</a>.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wvrqal/shaman_ww_weapon_is_in_the_game">

@@ -15,6 +15,10 @@ manual: true
 ---
 Matar enemigos en una mazmorra da un 50 % más de experiencia en World of Warcraft: Forever. Blizzard aplicó la corrección el domingo 8 de noviembre hacia las 11:05 PST, las 20:05 en España. No hace falta parche ni reinicio.
 
+**Actualización del 10 de noviembre:** Blizzard confirma [en los foros](https://us.forums.blizzard.com/en/wow/t/2406555/254) que el hotfix llevó la experiencia por muerte en mazmorras del 40 % al 60 % de los valores de Classic Era, y está contento con el resultado:
+
+> We have subsequently felt that the adjustment is working well to produce dungeon leveling speeds that fit with the rest of WoW Forever content.
+
 El community manager Kaivax da el motivo en los foros: volver a entrar para más runs debe sentirse mejor. Termina con un guiño a <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6443"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deviate Hide</a>, la piel de Wailing Caverns que a menudo exige varias runs.
 
 ## Qué cambia

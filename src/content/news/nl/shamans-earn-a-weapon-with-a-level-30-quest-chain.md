@@ -15,6 +15,8 @@ draft: false
 ---
 Een questreeks voor Shamans op de beta van WoW Forever eindigt met een keuze uit drie wapens en een schild. Ze begint op level 30, meteen na de quest voor de Wind Totem. Sinds de build van 8 oktober vallen de totems vaker.
 
+**Update 10 november:** sinds een hotfix heeft <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> +16 Strength in plaats van +12 Intellect en een snelheid van 3.6, meer in [onze post](/nl/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 Een speler vond de reeks en zette elke stap op Reddit. De laatste stap leidt naar dezelfde NPC die Warriors de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6975"><img class="wf-wh__icon" src="/wh/inv_axe_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whirlwind Axe</a> geeft.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wvrqal/shaman_ww_weapon_is_in_the_game">

@@ -3,7 +3,7 @@ title: "Affliction-Warlock-Guide für WoW Forever"
 metaTitle: "WoW Forever Affliction Warlock: Drain-Tank-Build, Rotation, Life Tap und Völker"
 description: "Der Affliction Warlock in WoW Forever: was sich ändert, der Drain-Tank-Build für Level 60, die Rotation, Life Tap und Drain Life, Dämonen, Werte, Völker und Berufe."
 short: "Affliction Warlock"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: de
 manual: true
 faq:
@@ -94,12 +94,14 @@ Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Tale
 
 ## Rotation
 
+> **Update vom 10. November:** Ein Hotfix hat Wrack und Soul Siphon geändert, und die Rotation unten folgt ihm, mehr in [unserem Beitrag](/de/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
+
 **Ein Gegner**
 1. Schick deinen Dämon los.
 2. Pull mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a>. Die ersten Ticks sind schwach, das gibt deinem Dämon Zeit, Bedrohung aufzubauen.
 3. Wirke <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a>.
-4. Wirke einen Fluch, etwa <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> auf Gegner, die hart zuschlagen. Das ist dein dritter Affliction-Effekt für Soul Siphon.
-5. Kanalisiere <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a>, bis der Gegner tot ist. Nimm den Zauberstab, wenn er fast tot ist.
+4. Wirke <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, wenn du es hast. Nur Corruption, Siphon Life und Bane of Agony zählen für Soul Siphon, ein Fluch wie <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> hilft also weiter gegen Gegner, die hart zuschlagen, erhöht den Bonus aber nicht mehr.
+5. Kanalisiere <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a>, bis der Gegner tot ist. Ab Level 40 kanalisierst du stattdessen <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a>, solange deine Gesundheit passt: Deine drei DoTs ticken dann doppelt so schnell. Nimm den Zauberstab, wenn er fast tot ist.
 6. Wirke <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1454"><img class="wf-wh__icon" src="/wh/spell_shadow_burningspirit.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Life Tap</a>, sobald du mehr Gesundheit als Mana hast.
 
 **Zwei Gegner.** Leg Bane of Agony und Corruption auf den ersten, dazu Siphon Life, wenn du es hast, und wirke <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5782"><img class="wf-wh__icon" src="/wh/spell_shadow_possession.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fear</a> auf ihn. Schick deinen Dämon auf den zweiten, leg deine DoTs drauf und drain ihn. Fear den ersten erneut, wenn er zurückkommt. Mit einem Fokusziel und einer Modifikatortaste wirkst du auf den verängstigten Gegner, ohne das Ziel zu wechseln.

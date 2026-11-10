@@ -3,7 +3,7 @@ title: "Guide zum Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: Build, Stormstrike, Totems"
 description: "Der Enhancement Shaman in WoW Forever: der Build für Level 60, Stormstrike und Maelstrom Weapon, Rotation, Totems, Mana, Tanken, Werte und Völker."
 short: "Enhancement Shaman"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: de
 manual: true
 faq:
@@ -169,7 +169,7 @@ Tanken funktioniert beim Leveln, mit Nachteilen: kein echter Taunt, kein defensi
 
 ## Werte und Ausrüstung
 
-> **Update vom 7. November:** Mit den Hotfixes vom 10. November wird Stärke der stärkste Wert für Enhancement, und Blizzard rät, beim Leveln Ausrüstung mit Stärke und Angriffskraft zu sammeln. Die Hinweise zu Intelligenz und Zaubermacht unten ändern sich dann, mehr in [unserem Beitrag](/de/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
+> **Update vom 10. November:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> hat jetzt +16 Strength statt +12 Intellect und ein Tempo von 3.6, mehr in [unserem Beitrag](/de/news/rage-of-the-storm-swaps-intellect-for-strength/). Blizzard macht außerdem Stärke zum stärksten Wert für Enhancement und rät, beim Leveln Ausrüstung mit Stärke und Angriffskraft zu sammeln. Die Hinweise zu Intelligenz und Zaubermacht unten ändern sich, sobald dieser Teil des Hotfixes im Spiel ist, mehr in [der Ankündigung](/de/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
 
 Prioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
 
@@ -183,7 +183,7 @@ Prioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen kön
 
 **Rüstung.** Cloth, Leather oder Mail, was die richtigen Werte hat: Ein leichterer Rüstungstyp hat in Forever keinen Nachteil. Dungeons und Leatherworking geben gute Ausrüstung zum Leveln.
 
-**Waffe.** Zuerst eine langsame Zweihandwaffe mit hohem Schaden pro Sekunde, dann erst die Werte. Die Questreihe Call of Air gibt unterwegs <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a>.
+**Waffe.** Zuerst eine langsame Zweihandwaffe mit hohem Schaden pro Sekunde, dann erst die Werte. Die Questreihe Call of Air gibt unterwegs <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a>, seit dem 10. November mit +16 Strength und einem Tempo von 3.6.
 
 **Totems.** Der Reliktplatz des Shaman. Noch selten; suche eines, das deinem Mana hilft.
 

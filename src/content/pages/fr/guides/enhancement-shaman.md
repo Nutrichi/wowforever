@@ -3,7 +3,7 @@ title: "Guide de l'Enhancement Shaman dans WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman : build, Stormstrike, totems"
 description: "L'Enhancement Shaman dans WoW Forever : le build niveau 60, Stormstrike et Maelstrom Weapon, la rotation, les totems, le mana, le tanking, les stats et les races."
 short: "Enhancement Shaman"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: fr
 manual: true
 faq:
@@ -169,7 +169,7 @@ Le tanking fonctionne pendant le leveling, avec des inconvénients : pas de vrai
 
 ## Stats et équipement
 
-> **Mise à jour du 7 novembre :** avec les hotfixes du 10 novembre, la Force devient la meilleure stat de l'Enhancement, et Blizzard conseille de garder l'équipement avec Force et puissance d'attaque pendant le leveling. Les conseils sur l'Intelligence et la puissance des sorts ci-dessous changeront alors, plus de détails dans [notre article](/fr/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
+> **Mise à jour du 10 novembre :** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> a désormais +16 Strength au lieu de +12 Intellect, et une vitesse de 3.6, plus de détails dans [notre article](/fr/news/rage-of-the-storm-swaps-intellect-for-strength/). Blizzard fait aussi de la Force la meilleure stat de l'Enhancement et conseille de garder l'équipement avec Force et puissance d'attaque pendant le leveling. Les conseils sur l'Intelligence et la puissance des sorts ci-dessous changeront quand cette partie du hotfix sera en jeu, plus de détails dans [l'annonce](/fr/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
 
 Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester le niveau 60 dans le jeu live. En attendant :
 
@@ -183,7 +183,7 @@ Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester
 
 **Armure.** Cloth, leather ou mail, selon les bonnes stats : un type d'armure plus léger n'a aucune pénalité dans Forever. Les donjons et Leatherworking donnent un bon équipement de leveling.
 
-**Arme.** D'abord une arme à deux mains lente avec beaucoup de dégâts par seconde, les stats ensuite. La chaîne de quêtes Call of Air donne <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> en chemin.
+**Arme.** D'abord une arme à deux mains lente avec beaucoup de dégâts par seconde, les stats ensuite. La chaîne de quêtes Call of Air donne <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> en chemin, avec +16 Strength et une vitesse de 3.6 depuis le 10 novembre.
 
 **Totems.** L'emplacement de relique du Shaman. Encore rares ; cherchez-en un qui aide votre mana.
 

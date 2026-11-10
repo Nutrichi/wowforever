@@ -3,7 +3,7 @@ title: "Marksmanship Hunter guide for WoW Forever"
 metaTitle: "WoW Forever Marksmanship Hunter: level 60 build and rotation"
 description: "The Marksmanship Hunter in WoW Forever: the 5/46/0 build for level 60 with Lone Wolf and Sniper Shot, the rotation, mana with Rapid Recuperation, stats and races."
 short: "Marksmanship Hunter"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: en
 faq:
   - q: "Is Marksmanship Hunter good in WoW Forever?"
@@ -135,7 +135,7 @@ The PvP build trades damage for control and survival. [Open the PvP build in the
 
 ## Mana
 
-Marksmanship uses a lot of mana: Sniper Shot and Aimed Shot are expensive and both are in your rotation. Rapid Recuperation keeps half of your mana regeneration going while you cast, as long as Serpent Sting is on the target, and Efficiency makes every shot cheaper. In long fights, keep an eye on your mana bar.
+Marksmanship uses a lot of mana: Sniper Shot and Aimed Shot are expensive and both are in your rotation. Rapid Recuperation keeps half of your mana regeneration going while you cast, as long as Serpent Sting is on the target, and Efficiency makes every shot cheaper. In long fights, keep an eye on your mana bar. Since 10 November, Arcane Shot costs a flat 11% of your base mana at every rank.
 
 ## With or without a pet
 

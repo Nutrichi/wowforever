@@ -3,7 +3,7 @@ title: "Guía del Enhancement Shaman en WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, tótems"
 description: "El Enhancement Shaman en WoW Forever: la build de nivel 60, Stormstrike y Maelstrom Weapon, la rotación, los tótems, el maná, tanquear, los stats y las razas."
 short: "Enhancement Shaman"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: es
 manual: true
 faq:
@@ -169,7 +169,7 @@ Tanquear funciona mientras subes de nivel, con inconvenientes: sin taunt real, s
 
 ## Stats y equipo
 
-> **Actualización del 7 de noviembre:** con los hotfixes del 10 de noviembre, la Fuerza pasa a ser la mejor stat de Enhancement, y Blizzard aconseja guardar equipo con Fuerza y poder de ataque mientras subes de nivel. Los consejos sobre Intelecto y poder con hechizos de abajo cambiarán entonces, más en [nuestra noticia](/es/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
+> **Actualización del 10 de noviembre:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> tiene ahora +16 Strength en lugar de +12 Intellect, y una velocidad de 3.6, más en [nuestra noticia](/es/news/rage-of-the-storm-swaps-intellect-for-strength/). Blizzard también hace de la Fuerza la mejor stat de Enhancement y aconseja guardar equipo con Fuerza y poder de ataque mientras subes de nivel. Los consejos sobre Intelecto y poder con hechizos de abajo cambiarán cuando esa parte del hotfix esté en el juego, más en [el anuncio](/es/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
 
 Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
 
@@ -183,7 +183,7 @@ Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el niv
 
 **Armadura.** Cloth, leather o mail, lo que tenga los stats adecuados: un tipo de armadura más ligero no tiene penalización en Forever. Las mazmorras y Leatherworking dan buen equipo para subir de nivel.
 
-**Arma.** Primero un arma a dos manos lenta con mucho daño por segundo, y después los stats. La cadena de misiones Call of Air da <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> por el camino.
+**Arma.** Primero un arma a dos manos lenta con mucho daño por segundo, y después los stats. La cadena de misiones Call of Air da <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> por el camino, con +16 Strength y una velocidad de 3.6 desde el 10 de noviembre.
 
 **Tótems.** El espacio de reliquia del Shaman. Aún son raros; busca uno que ayude a tu maná.
 

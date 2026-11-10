@@ -3,7 +3,7 @@ title: "Affliction Warlock guide for WoW Forever"
 metaTitle: "WoW Forever Affliction Warlock: drain tank build, rotation, Life Tap and races"
 description: "The Affliction Warlock in WoW Forever: what changes, the drain tank build for level 60, the rotation, Life Tap and Drain Life, demons, stats, races and professions."
 short: "Affliction Warlock"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: en
 faq:
   - q: "What is a drain tank?"
@@ -93,12 +93,14 @@ The PvP build trades damage for control and survival. [Open the PvP build in the
 
 ## Rotation
 
+> **Update 10 November:** a hotfix changed Wrack and Soul Siphon, and the rotation below follows it, more in [our post](/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
+
 **One enemy**
 1. Send your demon in.
 2. Pull with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a>. Its first ticks are weak, which gives your demon time to take threat.
 3. Cast <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a>.
-4. Cast a curse, such as <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> on enemies that hit hard. It is your third Affliction effect for Soul Siphon.
-5. Channel <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a> until the enemy dies. Use your wand when it is almost dead.
+4. Cast <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a> if you have it. Only Corruption, Siphon Life and Bane of Agony count for Soul Siphon, so a curse such as <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> still helps against enemies that hit hard, but no longer adds to the bonus.
+5. Channel <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a> until the enemy dies. From level 40, channel <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> instead while your health is fine: it makes your three DoTs tick twice as fast. Use your wand when it is almost dead.
 6. Cast <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1454"><img class="wf-wh__icon" src="/wh/spell_shadow_burningspirit.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Life Tap</a> whenever you have more health than mana.
 
 **Two enemies.** Put Bane of Agony and Corruption on the first, plus Siphon Life if you have it, and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5782"><img class="wf-wh__icon" src="/wh/spell_shadow_possession.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fear</a> it. Send your demon at the second, put your DoTs on it and drain it. Fear the first again when it comes back. With a focus target and a modifier key you can cast on the feared enemy without switching targets.

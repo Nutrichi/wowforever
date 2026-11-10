@@ -15,6 +15,8 @@ manual: true
 ---
 Blizzard prepara los primeros hotfixes de clases desde el lanzamiento de World of Warcraft: Forever. Llegan el martes 10 de noviembre y tocan tres cosas: las mascotas que tanquean, los Warlocks Affliction y los Shamans Enhancement.
 
+**Actualización del 10 de noviembre:** los primeros cambios ya están activos: [Wrack, Soul Siphon, el Imp y dos disparos del Hunter](/es/news/wrack-makes-affliction-dots-tick-twice-as-fast/), y la [maza de misión de Enhancement con Strength](/es/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 ## Mascotas y Voidwalkers
 
 Las mascotas de los Hunters y el Voidwalker del Warlock no aguantan como tanques tanto como Blizzard quiere. El objetivo es que funcionen más o menos igual que en Classic Era, y Blizzard ajustará sus stats para lograrlo.

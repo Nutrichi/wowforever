@@ -15,6 +15,8 @@ manual: true
 ---
 Blizzard bereitet die ersten Klassen-Hotfixes seit dem Start von World of Warcraft: Forever vor. Sie kommen am Dienstag, dem 10. November, und betreffen drei Dinge: Pets, die tanken, Affliction-Warlocks und Enhancement-Shamans.
 
+**Update vom 10. November:** Die ersten Änderungen sind live: [Wrack, Soul Siphon, der Imp und zwei Hunter-Schüsse](/de/news/wrack-makes-affliction-dots-tick-twice-as-fast/) sowie der [Enhancement-Questkolben mit Strength](/de/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 ## Pets und Voidwalker
 
 Pets von Huntern und der Voidwalker des Warlocks halten als Tank nicht so viel aus, wie Blizzard es möchte. Ziel ist, dass sie ungefähr so gut funktionieren wie in Classic Era, und Blizzard passt ihre Werte dafür an.

@@ -15,6 +15,10 @@ manual: true
 ---
 Vijanden doden in een dungeon geeft 50% meer ervaring in World of Warcraft: Forever. Blizzard zette de hotfix live op zondag 8 november rond 11.05 PST, dat is 20.05 bij ons. Er is geen patch of herstart nodig.
 
+**Update 10 november:** Blizzard bevestigt [op de forums](https://us.forums.blizzard.com/en/wow/t/2406555/254) dat de hotfix de kill-experience in dungeons van 40% naar 60% van de waarden in Classic Era bracht, en is tevreden met het resultaat:
+
+> We have subsequently felt that the adjustment is working well to produce dungeon leveling speeds that fit with the rest of WoW Forever content.
+
 Communitymanager Kaivax geeft de reden op het forum: opnieuw naar binnen gaan voor meer runs moet beter aanvoelen. Hij sluit af met een knipoog naar <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6443"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deviate Hide</a>, de huid uit Wailing Caverns waarvoor je vaak meerdere runs nodig hebt.
 
 ## Wat verandert

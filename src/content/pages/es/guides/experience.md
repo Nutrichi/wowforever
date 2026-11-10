@@ -3,7 +3,7 @@ title: "Experiencia y XP de descanso en WoW Forever"
 metaTitle: "Guía de experiencia de WoW Forever: XP por nivel, descanso, comida y campamentos"
 description: "Cómo funciona la experiencia en WoW Forever: la XP de cada nivel hasta el 60, misiones, muertes, mazmorras y exploración, grupos, la experiencia de descanso y los bonus de campamentos, comida y el Cozy Sleeping Bag."
 short: "Experiencia y XP de descanso"
-updated: 2026-10-14
+updated: 2026-11-10
 lang: es
 manual: true
 faq:
@@ -162,7 +162,7 @@ Juntar un grupo de monstruos y acabar con ellos con hechizos de área puede ir r
 
 ## Mazmorras
 
-La experiencia de las mazmorras cambió varias veces en la beta. En septiembre Blizzard [pasó la experiencia de las muertes a las misiones](/es/news/wow-forever-dungeon-experience-changes/): los monstruos daban poco y las misiones de mazmorra mucho. El 1 de octubre la experiencia extra de las misiones de mazmorra [bajó un 50%](/es/news/dungeon-quests-give-50-percent-less-bonus-experience/). Una semana después, los monstruos de mazmorra recibieron [un 20% más de experiencia](/es/news/dungeon-kills-give-20-percent-more-experience/), y se corrigió un error que basaba cada muerte en el nivel más alto del grupo.
+La experiencia de las mazmorras cambió varias veces en la beta. En septiembre Blizzard [pasó la experiencia de las muertes a las misiones](/es/news/wow-forever-dungeon-experience-changes/): los monstruos daban poco y las misiones de mazmorra mucho. El 1 de octubre la experiencia extra de las misiones de mazmorra [bajó un 50%](/es/news/dungeon-quests-give-50-percent-less-bonus-experience/). Una semana después, los monstruos de mazmorra recibieron [un 20% más de experiencia](/es/news/dungeon-kills-give-20-percent-more-experience/), y se corrigió un error que basaba cada muerte en el nivel más alto del grupo. Tras el lanzamiento, un hotfix del 8 de noviembre [subió un 50 % la experiencia por muerte en mazmorras](/es/news/dungeon-enemies-give-50-percent-more-experience/), hasta el 60 % de los valores de Classic Era. Blizzard dice estar contento con ese ritmo.
 
 Lo mejor es coger las misiones de mazmorra de antemano y completarlas durante la incursión. Juntar grandes grupos y matarlos con hechizos de área, el llamado dungeon cleave, también funciona, pero Blizzard no quiere que las mazmorras sean el camino más rápido al 60.
 

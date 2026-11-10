@@ -15,6 +15,10 @@ manual: true
 ---
 Tuer des ennemis dans un donjon rapporte 50 % d'expérience en plus dans World of Warcraft: Forever. Blizzard a déployé le correctif le dimanche 8 novembre vers 11 h 05 PST, soit 20 h 05 en Belgique et en France. Aucun patch ni redémarrage n'est nécessaire.
 
+**Mise à jour du 10 novembre :** Blizzard confirme [sur les forums](https://us.forums.blizzard.com/en/wow/t/2406555/254) que le hotfix a fait passer l'expérience des monstres de donjon de 40 % à 60 % des valeurs de Classic Era, et se dit satisfait du résultat :
+
+> We have subsequently felt that the adjustment is working well to produce dungeon leveling speeds that fit with the rest of WoW Forever content.
+
 Le community manager Kaivax en donne la raison sur les forums : retourner dans un donjon pour d'autres runs doit être plus agréable. Il termine par un clin d'œil à <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6443"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deviate Hide</a>, la peau de Wailing Caverns qui demande souvent plusieurs runs.
 
 ## Ce qui change

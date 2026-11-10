@@ -3,7 +3,7 @@ title: "Enhancement Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "The Enhancement Shaman in WoW Forever: the level 60 build, Stormstrike and Maelstrom Weapon, the rotation, totems, mana, tanking, stats and races."
 short: "Enhancement Shaman"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: en
 faq:
   - q: "Is Enhancement Shaman good in WoW Forever?"
@@ -168,7 +168,7 @@ Tanking works while you level, with drawbacks: no real taunt, no defensive coold
 
 ## Stats and gear
 
-> **Update 7 November:** with the hotfixes of 10 November, Strength becomes the strongest stat for Enhancement, and Blizzard advises collecting Strength and attack power gear while leveling. The Intellect and spell power notes below will change then, more in [our post](/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
+> **Update 10 November:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> now has +16 Strength instead of +12 Intellect, and a speed of 3.6, more in [our post](/news/rage-of-the-storm-swaps-intellect-for-strength/). Blizzard also makes Strength the strongest stat for Enhancement and advises collecting Strength and attack power gear while leveling. The Intellect and spell power notes below change once that part of the hotfix is in the game, more in [the announcement](/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
 
 Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
 
@@ -182,7 +182,7 @@ Stat priorities for level 60 follow once we can test level 60 in the live game. 
 
 **Armor.** Cloth, leather or mail, whatever has the right stats: a lighter armor type has no penalty in Forever. Dungeons and Leatherworking give good leveling gear.
 
-**Weapon.** A slow two-handed weapon with high damage per second comes first, stats second. The Call of Air quest chain gives <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> along the way.
+**Weapon.** A slow two-handed weapon with high damage per second comes first, stats second. The Call of Air quest chain gives <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> along the way, with +16 Strength and a speed of 3.6 since 10 November.
 
 **Totems.** The relic slot of the Shaman. Still rare; look for one that helps your mana.
 

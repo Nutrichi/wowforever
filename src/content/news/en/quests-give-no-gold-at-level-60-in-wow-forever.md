@@ -14,6 +14,8 @@ draft: false
 ---
 Quests in World of Warcraft: Forever pay no gold once you reach level 60. Jokerd, one of the [first five players at 60](/news/five-players-hit-level-60-in-a-record-launch/), noticed it on stream. A developer told him it is on purpose.
 
+**Update 10 November:** Blizzard confirms the change and explains it. In return it adds gold to most quests from level 48, more in [our post](/news/blizzard-adds-gold-to-quests-from-level-48/).
+
 ## No gold instead of experience
 
 In Classic Era, a quest at the level cap pays extra gold instead of the experience you can no longer use. In Forever that bonus is gone, Jokerd found the day after he reached 60.

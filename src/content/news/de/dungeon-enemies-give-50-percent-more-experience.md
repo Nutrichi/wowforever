@@ -15,6 +15,10 @@ manual: true
 ---
 Gegner in einem Dungeon zu töten gibt in World of Warcraft: Forever 50 % mehr Erfahrung. Blizzard hat den Hotfix am Sonntag, 8. November, gegen 11:05 Uhr PST aufgespielt, das ist 20:05 Uhr in Deutschland. Ein Patch oder Neustart ist nicht nötig.
 
+**Update vom 10. November:** Blizzard bestätigt [in den Foren](https://us.forums.blizzard.com/en/wow/t/2406555/254), dass der Hotfix die Kill-Erfahrung in Dungeons von 40 % auf 60 % der Werte aus Classic Era angehoben hat, und ist mit dem Ergebnis zufrieden:
+
+> We have subsequently felt that the adjustment is working well to produce dungeon leveling speeds that fit with the rest of WoW Forever content.
+
 Community Manager Kaivax nennt im Forum den Grund: Wer für weitere Runs zurückgeht, soll sich besser dabei fühlen. Er schließt mit einem Augenzwinkern zu <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6443"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Deviate Hide</a>, der Haut aus Wailing Caverns, für die man oft mehrere Runs braucht.
 
 ## Was sich ändert

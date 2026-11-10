@@ -15,6 +15,8 @@ manual: true
 ---
 Blizzard prepara i primi hotfix di classe dal lancio di World of Warcraft: Forever. Arrivano martedì 10 novembre e toccano tre cose: i pet che fanno da tank, i Warlock Affliction e gli Shaman Enhancement.
 
+**Aggiornamento del 10 novembre:** le prime modifiche sono attive: [Wrack, Soul Siphon, l'Imp e due tiri dello Hunter](/it/news/wrack-makes-affliction-dots-tick-twice-as-fast/), e la [mazza della missione dell'Enhancement con Strength](/it/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 ## Pet e Voidwalker
 
 I pet degli Hunter e il Voidwalker del Warlock non reggono come tank quanto Blizzard vorrebbe. L'obiettivo è che funzionino più o meno come in Classic Era, e Blizzard regolerà le loro stats per arrivarci.

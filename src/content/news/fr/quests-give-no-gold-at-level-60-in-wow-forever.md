@@ -15,6 +15,8 @@ manual: true
 ---
 Les quêtes de World of Warcraft: Forever ne rapportent plus d'or une fois au niveau 60. Jokerd, l'un des [cinq premiers joueurs au 60](/fr/news/five-players-hit-level-60-in-a-record-launch/), l'a remarqué en stream. Un développeur lui a dit que c'est voulu.
 
+**Mise à jour du 10 novembre :** Blizzard confirme le changement et l'explique. En échange, il ajoute de l'or à la plupart des quêtes dès le niveau 48, plus de détails dans [notre article](/fr/news/blizzard-adds-gold-to-quests-from-level-48/).
+
 ## Pas d'or à la place de l'expérience
 
 Dans Classic Era, une quête au niveau maximum rapporte de l'or en plus à la place de l'expérience devenue inutile. Dans Forever, ce bonus a disparu, a constaté Jokerd le lendemain de son passage au 60.

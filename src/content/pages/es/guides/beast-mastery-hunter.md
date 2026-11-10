@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter en WoW Forever: la guía"
 metaTitle: "WoW Forever Beast Mastery Hunter: build de nivel 60 y rotación"
 description: "El Beast Mastery Hunter en WoW Forever: la build 31/20/0 para el nivel 60, Summon Hawk y Bestial Wrath, la rotación a un objetivo y en área, las mascotas, el maná, los stats y las razas."
 short: "Beast Mastery Hunter"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: es
 manual: true
 faq:
@@ -138,7 +138,7 @@ La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP 
 
 Tu mascota es buena parte de tu daño, así que mantenla viva y en el objetivo. Usa **Stay** y **Move To** para sacarla del daño en área. Cada familia aporta habilidades distintas, como Demoralizing Screech o Dust Cloud, así que ten unas cuantas mascotas en el establo y elige una por combate.
 
-**Maná.** Bestial Discipline mantiene la mitad de tu regeneración de maná mientras lanzas. Quedarte seco no te impide terminar un combate, porque tu mascota sigue luchando, pero sí te cuesta daño.
+**Maná.** Bestial Discipline mantiene la mitad de tu regeneración de maná mientras lanzas. Quedarte seco no te impide terminar un combate, porque tu mascota sigue luchando, pero sí te cuesta daño. Desde el 10 de noviembre, Arcane Shot y Summon Hawk cuestan un 11 % fijo de tu maná base en todos los rangos, [más en nuestra noticia](/es/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
 
 ## Stats y equipo
 

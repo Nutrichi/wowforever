@@ -3,7 +3,7 @@ title: "Esperienza ed esperienza riposata in WoW Forever"
 metaTitle: "Guida all'esperienza di WoW Forever: XP per livello, riposo, cibo e campi"
 description: "Come funziona l'esperienza in WoW Forever: la XP di ogni livello fino al 60, missioni, uccisioni, dungeon ed esplorazione, gruppi, esperienza riposata e i bonus di campi, cibo e Cozy Sleeping Bag."
 short: "Esperienza e riposo"
-updated: 2026-10-14
+updated: 2026-11-10
 lang: it
 manual: true
 faq:
@@ -162,7 +162,7 @@ Radunare un gruppo di mostri e abbatterlo con incantesimi ad area può essere ra
 
 ## Dungeon
 
-L'esperienza nei dungeon è cambiata più volte durante la beta. A settembre Blizzard ha [spostato l'esperienza dalle uccisioni alle missioni](/it/news/wow-forever-dungeon-experience-changes/): i mostri davano poco, le missioni dei dungeon molto. Il 1° ottobre l'esperienza extra delle missioni dei dungeon è stata [ridotta del 50%](/it/news/dungeon-quests-give-50-percent-less-bonus-experience/). Una settimana dopo i mostri dei dungeon hanno ricevuto il [20% di esperienza in più](/it/news/dungeon-kills-give-20-percent-more-experience/), ed è stato corretto un bug che basava ogni uccisione sul livello più alto del gruppo.
+L'esperienza nei dungeon è cambiata più volte durante la beta. A settembre Blizzard ha [spostato l'esperienza dalle uccisioni alle missioni](/it/news/wow-forever-dungeon-experience-changes/): i mostri davano poco, le missioni dei dungeon molto. Il 1° ottobre l'esperienza extra delle missioni dei dungeon è stata [ridotta del 50%](/it/news/dungeon-quests-give-50-percent-less-bonus-experience/). Una settimana dopo i mostri dei dungeon hanno ricevuto il [20% di esperienza in più](/it/news/dungeon-kills-give-20-percent-more-experience/), ed è stato corretto un bug che basava ogni uccisione sul livello più alto del gruppo. Dopo il lancio, un hotfix dell'8 novembre [ha aumentato del 50% l'esperienza per uccisione nei dungeon](/it/news/dungeon-enemies-give-50-percent-more-experience/), al 60% dei valori di Classic Era. Blizzard si dice soddisfatto di questo ritmo.
 
 Conviene prendere prima le missioni del dungeon e completarle durante la run. Radunare grandi gruppi e ucciderli con incantesimi ad area, il cosiddetto dungeon cleave, funziona anche, ma Blizzard non vuole che i dungeon siano la strada più veloce per il 60.
 

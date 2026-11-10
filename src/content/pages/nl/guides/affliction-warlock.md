@@ -3,7 +3,7 @@ title: "Affliction Warlock in WoW Forever: de gids"
 metaTitle: "WoW Forever Affliction Warlock: drain tank-build, rotatie, Life Tap en races"
 description: "De Affliction Warlock in WoW Forever: wat er verandert, de drain tank-build voor level 60, de rotatie, Life Tap en Drain Life, demons, stats, races en beroepen."
 short: "Affliction Warlock"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: nl
 manual: true
 faq:
@@ -94,12 +94,14 @@ De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in d
 
 ## Rotatie
 
+> **Update 10 november:** een hotfix veranderde Wrack en Soul Siphon, en de rotatie hieronder volgt die, meer in [onze post](/nl/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
+
 **Eén vijand**
 1. Stuur je demon erop af.
 2. Pull met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a>. De eerste tikken zijn zwak, wat je demon tijd geeft om threat te pakken.
 3. Cast <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a>.
-4. Cast een curse, zoals <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> op vijanden die hard slaan. Dat is je derde Affliction-effect voor Soul Siphon.
-5. Channel <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a> tot de vijand dood is. Gebruik je wand als hij bijna dood is.
+4. Cast <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a> als je het hebt. Alleen Corruption, Siphon Life en Bane of Agony tellen voor Soul Siphon, dus een curse zoals <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6205"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofmannoroth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Weakness</a> helpt nog tegen vijanden die hard slaan, maar verhoogt de bonus niet meer.
+5. Channel <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=689"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Drain Life</a> tot de vijand dood is. Vanaf level 40 channel je liever <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> zolang je health goed is: het laat je drie DoTs dubbel zo snel tikken. Gebruik je wand als hij bijna dood is.
 6. Cast <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1454"><img class="wf-wh__icon" src="/wh/spell_shadow_burningspirit.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Life Tap</a> telkens je meer health dan mana hebt.
 
 **Twee vijanden.** Zet Bane of Agony en Corruption op de eerste, plus Siphon Life als je het hebt, en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5782"><img class="wf-wh__icon" src="/wh/spell_shadow_possession.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fear</a> hem. Stuur je demon op de tweede, zet je DoTs erop en drain hem. Fear de eerste opnieuw als hij terugkomt. Met een focus target en een modifier-toets cast je op de gefearde vijand zonder van doelwit te wisselen.

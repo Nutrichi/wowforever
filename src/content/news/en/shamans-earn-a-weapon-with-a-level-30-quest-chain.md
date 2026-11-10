@@ -14,6 +14,8 @@ draft: false
 ---
 A quest chain for Shamans on the WoW Forever beta ends with a choice of three weapons and a shield. It starts at level 30, right after the quest for the Wind Totem. Since the build of 8 October, the totems drop more often.
 
+**Update 10 November:** since a hotfix, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> has +16 Strength instead of +12 Intellect and a speed of 3.6, more in [our post](/news/rage-of-the-storm-swaps-intellect-for-strength/).
+
 A player found the chain and posted every step on Reddit. The last step leads to the same NPC who gives Warriors the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6975"><img class="wf-wh__icon" src="/wh/inv_axe_12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whirlwind Axe</a>.
 
 <figure class="wf-embed wf-embed--reddit" data-wf-reddit="r/classicwow/comments/1wvrqal/shaman_ww_weapon_is_in_the_game">

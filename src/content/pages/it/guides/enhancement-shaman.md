@@ -3,7 +3,7 @@ title: "Guida all'Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totem"
 description: "L'Enhancement Shaman in WoW Forever: la build di livello 60, Stormstrike e Maelstrom Weapon, la rotazione, i totem, il mana, il tanking, le stats e le razze."
 short: "Enhancement Shaman"
-updated: 2026-11-07
+updated: 2026-11-10
 lang: it
 manual: true
 faq:
@@ -169,7 +169,7 @@ Il tanking funziona durante il leveling, con degli svantaggi: nessun vero taunt,
 
 ## Stats ed equipaggiamento
 
-> **Aggiornamento del 7 novembre:** con gli hotfix del 10 novembre la Forza diventa la stat migliore per l'Enhancement, e Blizzard consiglia di tenere l'equipaggiamento con Forza e potenza d'attacco durante il leveling. I consigli su Intelletto e potere magico qui sotto cambieranno allora, di più nel [nostro articolo](/it/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
+> **Aggiornamento del 10 novembre:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> ora ha +16 Strength al posto di +12 Intellect, e una velocità di 3.6, di più nel [nostro articolo](/it/news/rage-of-the-storm-swaps-intellect-for-strength/). Blizzard rende anche la Forza la stat migliore per l'Enhancement e consiglia di tenere l'equipaggiamento con Forza e potenza d'attacco durante il leveling. I consigli su Intelletto e potere magico qui sotto cambieranno quando quella parte dell'hotfix sarà nel gioco, di più nell'[annuncio](/it/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
 
 Le priorità delle stats per il livello 60 arriveranno quando potremo provare il livello 60 nel gioco live. Fino ad allora:
 
@@ -183,7 +183,7 @@ Le priorità delle stats per il livello 60 arriveranno quando potremo provare il
 
 **Armatura.** Cloth, leather o mail, ciò che ha le stats giuste: un tipo di armatura più leggero non ha penalità in Forever. I dungeon e Leatherworking danno un buon equipaggiamento da leveling.
 
-**Arma.** Prima un'arma a due mani lenta con molti danni al secondo, poi le stats. La catena di missioni Call of Air dà <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> lungo la strada.
+**Arma.** Prima un'arma a due mani lenta con molti danni al secondo, poi le stats. La catena di missioni Call of Air dà <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> lungo la strada, con +16 Strength e una velocità di 3.6 dal 10 novembre.
 
 **Totem.** Lo slot reliquia dello Shaman. Ancora rari; cercane uno che aiuti il tuo mana.
 

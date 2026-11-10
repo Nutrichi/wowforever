@@ -15,6 +15,8 @@ manual: true
 ---
 Le missioni di World of Warcraft: Forever non danno più oro una volta al livello 60. Jokerd, uno dei [primi cinque giocatori al 60](/it/news/five-players-hit-level-60-in-a-record-launch/), l'ha notato in diretta. Uno sviluppatore gli ha detto che è voluto.
 
+**Aggiornamento del 10 novembre:** Blizzard conferma la modifica e la spiega. In cambio aggiunge oro alla maggior parte delle missioni dal livello 48, di più nel [nostro articolo](/it/news/blizzard-adds-gold-to-quests-from-level-48/).
+
 ## Niente oro al posto dell'esperienza
 
 In Classic Era, una missione al livello massimo dà oro extra al posto dell'esperienza che non puoi più usare. In Forever quel bonus non c'è più, ha scoperto Jokerd il giorno dopo aver raggiunto il 60.
