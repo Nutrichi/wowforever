@@ -34,16 +34,15 @@ const SITE = 'https://wowforever.be';
 const IMAGE = /\.(webp|jpe?g|png|gif|avif)$/i;
 const TEXT = /\.(html|xml|json|js|mjs|css|txt|webmanifest)$/i;
 /*
- * Hybride (Nutri, 10 november 2026, na het zien van de Google Images-cijfers:
- * ongeveer 30% van de klikken). Wat Google Images al kent, blijft op zijn oude
- * adres op wowforever.be, want GitHub Pages kan een beeld niet doorsturen:
- * - scripts/media-keep.txt: alle beelden die er vóór 10 november waren;
- * - de mappen wh, icons en trees helemaal (Wowhead-iconen; scripts zoals de
- *   raidplanner stellen die paden zelf samen).
- * Alleen nieuwe beelden gaan naar media.wowforever.be.
+ * Beelden met Google Images-verkeer blijven op hun oude adres (Nutri, 10 november
+ * 2026, keuze C): scripts/media-keep.txt zijn alle beelden op de 145 pagina's die
+ * samen 95% van de Image-klikken brachten (Search Console, 3 maanden tot 10
+ * november). GitHub Pages kan een beeld niet doorsturen, dus wat Google daar kent
+ * moet blijven staan. Al de rest, en elk nieuw beeld, gaat naar media.wowforever.be.
+ * Bewust vast: de lijst groeit niet mee, nieuwe beelden staan meteen op media.
  */
 const keepList = new Set(readFileSync(new URL('./media-keep.txt', import.meta.url), 'utf8').split('\n').filter(Boolean));
-const KEEP = (rel) => !rel.includes('/') || /^(assets|wh|icons|trees)\//.test(rel) || keepList.has(rel);
+const KEEP = (rel) => !rel.includes('/') || rel.startsWith('assets/') || keepList.has(rel);
 
 function walk(dir, out = []) {
   for (const name of readdirSync(dir)) {
@@ -70,12 +69,11 @@ for (const p of files) {
   moved.add(r);
 }
 /*
- * Alleen mappen waar na het verhuizen niets meer van overblijft (wh, icons):
- * daar mag een script het pad zelf samenstellen. /guides/ is ook een paginapad,
- * dat blijft dus buiten schot.
+ * Scripts die een icoonpad zelf samenstellen (de raidplanner: `/wh/${naam}.jpg`)
+ * wijzen naar media; daar staat elk icoon, ook de iconen die hier blijven (de
+ * eerste vulling van wowforever-media had ze allemaal).
  */
-const leftover = new Set(files.map(rel).filter((r) => !moved.has(r)).map((r) => r.split('/')[0]));
-const folders = [...new Set([...moved].map((r) => r.split('/')[0]))].filter((f) => f !== '_astro' && !leftover.has(f));
+const folders = ['wh', 'icons', 'trees'].filter((f) => [...moved].some((r) => r.startsWith(`${f}/`)));
 
 /* 2 en 3. verwijzingen herschrijven */
 const PATH = /(?:https?:\/\/(?:www\.)?wowforever\.be)?\/((?:[\w.-]+\/)*[\w.%~-]+\.(?:webp|jpe?g|png|gif|avif))(?![\w/])/gi;
