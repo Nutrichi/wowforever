@@ -5,9 +5,8 @@
  * Draait na `astro build` en vóór Pagefind, en alleen als MEDIA_URL gezet is
  * (de workflow doet dat; lokaal en in tst blijft alles zoals het was).
  *
- * 1. Elk beeld in dist (webp, jpg, png, gif, avif) verhuist naar MEDIA_OUT,
- *    met hetzelfde pad. Uitzondering: dist/assets en de bestanden in de wortel
- *    (favicon, logo's, deelbeeld), die blijven op de hoofdsite.
+ * 1. Elk nieuw beeld in dist (webp, jpg, png, gif, avif) verhuist naar
+ *    MEDIA_OUT, met hetzelfde pad. Wat blijft: zie KEEP hieronder.
  * 2. In elke HTML-, XML-, JSON-, JS- en CSS-pagina wordt elke verwijzing naar
  *    zo'n beeld een volle URL op MEDIA_URL, ook als ze al met
  *    https://wowforever.be begon (og:image, JSON-LD, feeds, de API van de app).
@@ -34,7 +33,17 @@ const SITE = 'https://wowforever.be';
 
 const IMAGE = /\.(webp|jpe?g|png|gif|avif)$/i;
 const TEXT = /\.(html|xml|json|js|mjs|css|txt|webmanifest)$/i;
-const KEEP = (rel) => !rel.includes('/') || rel.startsWith('assets/');
+/*
+ * Hybride (Nutri, 10 november 2026, na het zien van de Google Images-cijfers:
+ * ongeveer 30% van de klikken). Wat Google Images al kent, blijft op zijn oude
+ * adres op wowforever.be, want GitHub Pages kan een beeld niet doorsturen:
+ * - scripts/media-keep.txt: alle beelden die er vóór 10 november waren;
+ * - de mappen wh, icons en trees helemaal (Wowhead-iconen; scripts zoals de
+ *   raidplanner stellen die paden zelf samen).
+ * Alleen nieuwe beelden gaan naar media.wowforever.be.
+ */
+const keepList = new Set(readFileSync(new URL('./media-keep.txt', import.meta.url), 'utf8').split('\n').filter(Boolean));
+const KEEP = (rel) => !rel.includes('/') || /^(assets|wh|icons|trees)\//.test(rel) || keepList.has(rel);
 
 function walk(dir, out = []) {
   for (const name of readdirSync(dir)) {
@@ -93,7 +102,7 @@ for (const p of files) {
 }
 
 mkdirSync(OUT, { recursive: true });
-writeFileSync(join(OUT, 'manifest.txt'), manifest.sort().join('\n') + '\n');
+writeFileSync(join(OUT, 'manifest.txt'), manifest.length ? manifest.sort().join('\n') + '\n' : '');
 console.log(`split-media: ${moved.size} beelden naar ${OUT}, ${rewritten} bestanden herschreven, mappen ${folders.join(', ')}`);
 if (left.length) {
   console.error(`split-media: ${left.length} verwijzingen wijzen nog naar de hoofdsite, bv.\n  ${left.slice(0, 10).join('\n  ')}`);

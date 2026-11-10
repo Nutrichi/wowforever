@@ -22,7 +22,7 @@ REPO=git@github.com:Nutrichi/wowforever-media.git
 WORK=$(mktemp -d)
 
 curl -fsS "$MEDIA/manifest.txt?run=${GITHUB_RUN_ID:-$RANDOM}" -o "$WORK/live.txt" || : > "$WORK/live.txt"
-sort "$OUT/manifest.txt" > "$WORK/want.txt"
+grep -v '^$' "$OUT/manifest.txt" | sort > "$WORK/want.txt" || true
 sort "$WORK/live.txt" > "$WORK/live.sorted"
 comm -23 "$WORK/want.txt" "$WORK/live.sorted" > "$WORK/new.txt"
 
