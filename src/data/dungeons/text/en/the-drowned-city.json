@@ -4,23 +4,35 @@
  "quests": {
   "95788": {
    "objective": "Collect 5 I'lalai Fetishes from the trolls in the Drowned City.",
-   "note": "Who gives the quest is not known yet."
+   "note": "From Loremaster Dibbs in Southshore, after Troll Witchery. Afterwards The Web of Magic takes the fetish to Abra Cadabra in Dalaran."
   },
   "95787": {
    "objective": "Make rubbings of the four Tablets of I'lalai in the Drowned City with the hide and charcoal you get with the quest.",
-   "note": "The Alliance version of The Drowned City for the Horde, with the same task."
+   "note": "From Loremaster Dibbs in Southshore, after Troll Witchery. The rewards come with the follow-up Findings for the Explorer's League, at Historian Karnik in Ironforge."
   },
   "95775": {
    "objective": "Make rubbings of the four Tablets of I'lalai in the Drowned City with the hide and charcoal you get with the quest.",
-   "note": "The Horde version of Take Two With Water for the Alliance, with the same task."
+   "note": "From Kin'weelay in Grom'gol, after The Vile Reef. The Horde version of Take Two With Water."
   },
   "95776": {
    "objective": "Kill Var'Taka in the Drowned City.",
-   "note": "Var'Taka is the second boss of the dungeon."
+   "note": "From Commander Aggro'gosh in Grom'gol, after The Vile Reef and Enemies in the Water. Var'Taka is the second boss."
   },
   "96774": {
    "objective": "Recover an Ancient Gurubashi Idol from the Drowned City.",
-   "note": "Where Mazu'kon stands is not known yet."
+   "note": "From Mazu'kon of the Earthen Ring."
+  },
+  "97130": {
+   "objective": "Recover an Ancient Gurubashi Idol from the Drowned City.",
+   "note": "From Archmage Timear in Dalaran, for both factions. The same task as Ancient Gurubashi Idol for the Horde."
+  },
+  "95789": {
+   "objective": "Collect 10 Voodoo-Infused Artifacts from the Saltseer pirates in the Drowned City.",
+   "note": "From Krazek in Booty Bay, for both factions."
+  },
+  "95791": {
+   "objective": "Kill 3 Saltseer Coroners and Captain Dreadrise in the Drowned City.",
+   "note": "From Krazek in Booty Bay, for both factions. Captain Dreadrise is the fourth boss."
   }
  }
 }

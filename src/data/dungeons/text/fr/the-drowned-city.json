@@ -3,24 +3,36 @@
  "entrance": "Sous l'eau au large de Stranglethorn Vale, vers /way 21.4 27.9. Nagez au-delà de The Vile Reef jusqu'au Sunken Hollow, près de l'île aux élémentaires d'eau, et cherchez une grotte avec une grande stèle à côté.",
  "quests": {
   "95788": {
-   "objective": "Récupérez 5 I'lalai Fetishes sur les trolls de la Drowned City.",
-   "note": "Le donneur de la quête n'est pas encore connu."
+   "objective": "Ramassez 5 I'lalai Fetishes sur les trolls de la Drowned City.",
+   "note": "Chez Loremaster Dibbs à Southshore, après Troll Witchery. Ensuite, The Web of Magic apporte le fétiche à Abra Cadabra à Dalaran."
   },
   "95787": {
-   "objective": "Faites des empreintes des quatre Tablets of I'lalai de la Drowned City avec la peau et le charbon reçus avec la quête.",
-   "note": "La version Alliance de The Drowned City pour la Horde, avec la même tâche."
+   "objective": "Faites des empreintes des quatre Tablets of I'lalai dans la Drowned City avec la peau et le charbon reçus avec la quête.",
+   "note": "Chez Loremaster Dibbs à Southshore, après Troll Witchery. Les récompenses viennent avec la suite Findings for the Explorer's League, chez Historian Karnik à Ironforge."
   },
   "95775": {
-   "objective": "Faites des empreintes des quatre Tablets of I'lalai de la Drowned City avec la peau et le charbon reçus avec la quête.",
-   "note": "La version Horde de Take Two With Water pour l'Alliance, avec la même tâche."
+   "objective": "Faites des empreintes des quatre Tablets of I'lalai dans la Drowned City avec la peau et le charbon reçus avec la quête.",
+   "note": "Chez Kin'weelay à Grom'gol, après The Vile Reef. La version Horde de Take Two With Water."
   },
   "95776": {
    "objective": "Tuez Var'Taka dans la Drowned City.",
-   "note": "Var'Taka est le deuxième boss du donjon."
+   "note": "Chez Commander Aggro'gosh à Grom'gol, après The Vile Reef et Enemies in the Water. Var'Taka est le deuxième boss."
   },
   "96774": {
-   "objective": "Récupérez une Ancient Gurubashi Idol dans la Drowned City.",
-   "note": "L'emplacement de Mazu'kon n'est pas encore connu."
+   "objective": "Récupérez un Ancient Gurubashi Idol dans la Drowned City.",
+   "note": "Chez Mazu'kon de l'Earthen Ring."
+  },
+  "97130": {
+   "objective": "Récupérez un Ancient Gurubashi Idol dans la Drowned City.",
+   "note": "Chez Archmage Timear à Dalaran, pour les deux factions. La même tâche qu'Ancient Gurubashi Idol pour la Horde."
+  },
+  "95789": {
+   "objective": "Ramassez 10 Voodoo-Infused Artifacts sur les pirates Saltseer de la Drowned City.",
+   "note": "Chez Krazek à Booty Bay, pour les deux factions."
+  },
+  "95791": {
+   "objective": "Tuez 3 Saltseer Coroners et Captain Dreadrise dans la Drowned City.",
+   "note": "Chez Krazek à Booty Bay, pour les deux factions. Captain Dreadrise est le quatrième boss."
   }
  }
 }

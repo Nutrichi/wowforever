@@ -3,7 +3,7 @@ title: "Guía de la Darkmoon Faire para WoW Forever"
 metaTitle: "WoW Forever Darkmoon Faire: fechas, buffs de Sayge, tickets"
 description: "Todo sobre la Darkmoon Faire en WoW Forever: cuándo y dónde abre, los buffs y respuestas de Sayge, cada entrega de tickets, las recompensas, las ranas, los mazos Darkmoon y los minijuegos."
 short: "Darkmoon Faire"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: es
 manual: true
 faq:
@@ -67,7 +67,7 @@ En la Faire no hay guardias, pero la zona es de una facción. En el ruleset PvP,
 | **3 y 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23735"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Strength</a>, 10% de Strength | |
 | **3 y 3** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23736"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Agility</a>, 10% de Agility | |
 
-Los world buffs no funcionan en bandas en WoW Forever, solo en el mundo abierto y en mazmorras. Los textos en inglés de cada respuesta están en [nuestra noticia sobre la primera Faire](/es/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
+Los world buffs no funcionan en bandas en WoW Forever, solo en el mundo abierto y en mazmorras. Ahora también lo dice el texto de los beneficios. Los textos en inglés de cada respuesta están en [nuestra noticia sobre la primera Faire](/es/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
 
 Con el buff también recibes una Darkmoon Faire Fortune. Ábrela para una fortuna numerada. Algunas inician la misión Your Fortune Awaits You..., que lleva a un cofre con una Mysterious Lockbox: comida, materiales o pociones de tu nivel, además de algo de experiencia y reputación.
 

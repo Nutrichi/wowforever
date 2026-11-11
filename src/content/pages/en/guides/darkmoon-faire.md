@@ -3,7 +3,7 @@ title: "Darkmoon Faire guide for WoW Forever"
 metaTitle: "WoW Forever Darkmoon Faire: dates, Sayge buffs, tickets, decks"
 description: "Everything about the Darkmoon Faire in WoW Forever: when and where it opens, Sayge's buffs and answers, every ticket turn-in, the rewards, the frog pets, the Darkmoon decks and the mini-games."
 short: "Darkmoon Faire"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: en
 faq:
   - q: "When is the Darkmoon Faire in WoW Forever?"
@@ -66,7 +66,7 @@ There are no guards at the Faire, but the zone belongs to one faction. On the Pv
 | **3 and 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23735"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Strength</a>, 10% Strength | |
 | **3 and 3** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23736"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Agility</a>, 10% Agility | |
 
-World buffs do not work in raids in WoW Forever, only in the open world and in dungeons. The English texts of every answer are in [our post about the first Faire](/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
+World buffs do not work in raids in WoW Forever, only in the open world and in dungeons. The text of the buffs now says so as well. The English texts of every answer are in [our post about the first Faire](/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
 
 With the buff you also get a Darkmoon Faire Fortune. Open it for a numbered fortune. A few of them start the quest Your Fortune Awaits You..., which leads to a chest with a Mysterious Lockbox: food, materials or potions for your level, plus some experience and reputation.
 

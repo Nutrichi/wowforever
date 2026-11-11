@@ -51,7 +51,7 @@ Voor de dungeons boven level 30 komen de quests uit de gegevens van Classic en k
 - **[Scholomance](/nl/guides/dungeons/scholomance/)**, level 58-60: de Skeleton Key, de reeks van Eva Sarkhoff, alle tien de quests en elke baas tot Darkmaster Gandling.
 - **[Stratholme Living](/nl/guides/dungeons/stratholme-living/)**, level 58-60: de hoofdpoort, The Scarlet Key, de zes postbussen, alle zes de quests en elke baas tot Balnazzar.
 - **[Stratholme Undead](/nl/guides/dungeons/stratholme-undead/)**, level 58-60: de Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare.
-- **[The Drowned City](/nl/guides/dungeons/the-drowned-city/)**, level 35-40: de ingang onder water voor Stranglethorn Vale, de vijf bekende quests en hoe je de zes bazen en de rare Umbra verslaat.
+- **[The Drowned City](/nl/guides/dungeons/the-drowned-city/)**, level 35-40: de ingang onder water voor Stranglethorn Vale, de acht quests en hoe je de zes bazen en de rares Umbra en Gill verslaat.
 - **[Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/)**, level 40-45: het ogrefort in de Riverglades: de verstopte grot als ingang, de twee sleutels en Overlord Mugg.
 - **[Alcaz Prison](/nl/guides/dungeons/alcaz-prison/)**, level 48-53: de oude gevangenis voor Dustwallow Marsh: het portaal in de kelder, de Defias en de naga, en Blazeroar.
 - **[Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/)**, level 55-60: de furbolgstad achter de oude poort in Azshara: de tunnel naar Winterspring, de grootte en Varrox Bleakhoof.
@@ -75,7 +75,7 @@ Voor de dungeons met een gids is het bereik dat van het spel zelf. Voor de ander
 | [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 | nog niet bekend |
 | [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
 | [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | 29-38 | 13 |
-| [The Drowned City](/nl/guides/dungeons/the-drowned-city/) | 35-40 | 5 |
+| [The Drowned City](/nl/guides/dungeons/the-drowned-city/) | 35-40 | 8 |
 | [Scarlet Monastery: Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
 | [Scarlet Monastery: Library](/nl/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
 | [Scarlet Monastery: Armory](/nl/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |

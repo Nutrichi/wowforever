@@ -3,7 +3,7 @@ title: "Darkmoon Faire-gids voor WoW Forever"
 metaTitle: "WoW Forever Darkmoon Faire: data, Sayge-buffs, tickets, decks"
 description: "Alles over de Darkmoon Faire in WoW Forever: wanneer en waar hij opent, de buffs en antwoorden van Sayge, elke ticketinlevering, de beloningen, de kikkers, de Darkmoon-decks en de minigames."
 short: "Darkmoon Faire"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: nl
 manual: true
 faq:
@@ -67,7 +67,7 @@ Er staan geen wachters op de Faire, maar de zone hoort bij één factie. Op de P
 | **3 en 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23735"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Strength</a>, 10% Strength | |
 | **3 en 3** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23736"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Agility</a>, 10% Agility | |
 
-Worldbuffs werken niet in raids in WoW Forever, alleen in de open wereld en in dungeons. De Engelse teksten van elk antwoord staan in [onze post over de eerste Faire](/nl/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
+Worldbuffs werken niet in raids in WoW Forever, alleen in de open wereld en in dungeons. Dat staat nu ook in de tekst van de buffs. De Engelse teksten van elk antwoord staan in [onze post over de eerste Faire](/nl/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
 
 Met de buff krijg je ook een Darkmoon Faire Fortune. Open hem voor een genummerde voorspelling. Een paar daarvan starten de quest Your Fortune Awaits You..., die naar een kist met een Mysterious Lockbox leidt: eten, materialen of drankjes voor je level, plus wat experience en reputatie.
 

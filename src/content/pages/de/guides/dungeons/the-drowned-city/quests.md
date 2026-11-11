@@ -1,12 +1,14 @@
 ---
 title: "The Drowned City"
 metaTitle: "Die Quests von The Drowned City in WoW Forever: Aufgaben, Fraktionen"
-description: "Die fünf bekannten Quests von The Drowned City in WoW Forever: zwei für die Allianz, drei für die Horde, alle ab Stufe 30, mit dem, was jede Quest verlangt."
+description: "Die acht Quests von The Drowned City in WoW Forever: wer sie vergibt, wo, was jede verlangt und die bekannten Belohnungen, für Allianz, Horde und beide."
 short: "Quests"
-updated: 2026-11-08
+updated: 2026-11-11
 lang: de
 manual: true
 sources:
+  - name: "Wowhead, Explore the Drowned City"
+    url: "https://www.wowhead.com/forever/news/explore-the-drowned-city-new-dungeon-in-wow-forever-383825"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/the-drowned-city-dungeon-overview-location-rewards"
   - name: "Warcraft Tavern"
@@ -15,4 +17,4 @@ dungeon:
   slug: "the-drowned-city"
   tab: "quests"
 ---
-Bisher sind fünf Quests bekannt, zwei für die Allianz und drei für die Horde, alle ab Stufe 30. Beide Fraktionen bekommen dieselbe Aufgabe mit den vier Tablets of I'lalai unter einem anderen Namen. Wer die meisten Quests vergibt, ist noch nicht bekannt, weil die Spieldaten es bisher nicht zeigen. The Only Good Brinescale... ist die erste mit bekannter Belohnung.
+The Drowned City hat acht Quests. Zwei kommen von Loremaster Dibbs in Southshore für die Allianz, nach der Trollreihe, die mit The Second Rebellion beginnt. Drei sind für die Horde, aus Grom'gol und von Mazu'kon vom Earthen Ring. Drei stehen beiden Fraktionen offen: Ancient Gurubashi Secrets von Archmage Timear in Dalaran und zwei von Krazek in Booty Bay. Diese drei verlangen Stufe 34, die anderen Stufe 30.

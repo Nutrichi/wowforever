@@ -4,23 +4,35 @@
  "quests": {
   "95788": {
    "objective": "Verzamel 5 I'lalai Fetishes bij de trollen in de Drowned City.",
-   "note": "Wie de quest geeft, is nog niet bekend."
+   "note": "Van Loremaster Dibbs in Southshore, na Troll Witchery. Daarna brengt The Web of Magic de fetisj naar Abra Cadabra in Dalaran."
   },
   "95787": {
    "objective": "Maak met de huid en houtskool van de quest afdrukken van de vier Tablets of I'lalai in de Drowned City.",
-   "note": "De Alliance-versie van The Drowned City voor de Horde, met dezelfde opdracht."
+   "note": "Van Loremaster Dibbs in Southshore, na Troll Witchery. De beloningen komen met de vervolgquest Findings for the Explorer's League, bij Historian Karnik in Ironforge."
   },
   "95775": {
    "objective": "Maak met de huid en houtskool van de quest afdrukken van de vier Tablets of I'lalai in de Drowned City.",
-   "note": "De Horde-versie van Take Two With Water voor de Alliance, met dezelfde opdracht."
+   "note": "Van Kin'weelay in Grom'gol, na The Vile Reef. De Horde-versie van Take Two With Water."
   },
   "95776": {
    "objective": "Dood Var'Taka in de Drowned City.",
-   "note": "Var'Taka is de tweede baas van de dungeon."
+   "note": "Van Commander Aggro'gosh in Grom'gol, na The Vile Reef en Enemies in the Water. Var'Taka is de tweede baas."
   },
   "96774": {
    "objective": "Haal een Ancient Gurubashi Idol uit de Drowned City.",
-   "note": "Waar Mazu'kon staat, is nog niet bekend."
+   "note": "Van Mazu'kon van de Earthen Ring."
+  },
+  "97130": {
+   "objective": "Haal een Ancient Gurubashi Idol uit de Drowned City.",
+   "note": "Van Archmage Timear in Dalaran, voor beide kanten. Dezelfde opdracht als Ancient Gurubashi Idol voor de Horde."
+  },
+  "95789": {
+   "objective": "Verzamel 10 Voodoo-Infused Artifacts bij de Saltseer-piraten in de Drowned City.",
+   "note": "Van Krazek in Booty Bay, voor beide kanten."
+  },
+  "95791": {
+   "objective": "Dood 3 Saltseer Coroners en Captain Dreadrise in de Drowned City.",
+   "note": "Van Krazek in Booty Bay, voor beide kanten. Captain Dreadrise is de vierde baas."
   }
  }
 }

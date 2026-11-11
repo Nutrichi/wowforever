@@ -3,7 +3,7 @@ title: "Darkmoon-Faire-Guide für WoW Forever"
 metaTitle: "WoW Forever Darkmoon Faire: Termine, Sayge-Buffs, Lose, Decks"
 description: "Alles zur Darkmoon Faire in WoW Forever: wann und wo sie öffnet, die Buffs und Antworten von Sayge, jede Abgabe für Lose, die Belohnungen, die Frösche, die Darkmoon-Decks und die Minispiele."
 short: "Darkmoon Faire"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: de
 manual: true
 faq:
@@ -67,7 +67,7 @@ Auf der Faire gibt es keine Wachen, aber die Zone gehört einer Fraktion. Auf de
 | **3 und 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23735"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Strength</a>, 10 % Strength | |
 | **3 und 3** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23736"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Agility</a>, 10 % Agility | |
 
-Weltbuffs wirken in WoW Forever nicht in Raids, nur in der offenen Welt und in Dungeons. Die englischen Texte jeder Antwort stehen in [unserem Beitrag zur ersten Faire](/de/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
+Weltbuffs wirken in WoW Forever nicht in Raids, nur in der offenen Welt und in Dungeons. Das steht jetzt auch im Text der Buffs. Die englischen Texte jeder Antwort stehen in [unserem Beitrag zur ersten Faire](/de/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
 
 Mit dem Buff bekommst du auch eine Darkmoon Faire Fortune. Öffne sie für eine nummerierte Weissagung. Einige starten die Quest Your Fortune Awaits You..., die zu einer Truhe mit einer Mysterious Lockbox führt: Essen, Material oder Tränke für deine Stufe, dazu etwas Erfahrung und Ruf.
 

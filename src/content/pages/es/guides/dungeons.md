@@ -51,7 +51,7 @@ Para las mazmorras por encima del nivel 30, las misiones vienen de los datos de 
 - **[Scholomance](/es/guides/dungeons/scholomance/)**, niveles 58-60: la Skeleton Key, la cadena de Eva Sarkhoff, las diez misiones y cada jefe hasta Darkmaster Gandling.
 - **[Stratholme Living](/es/guides/dungeons/stratholme-living/)**, niveles 58-60: la puerta principal, The Scarlet Key, los seis buzones, las seis misiones y cada jefe hasta Balnazzar.
 - **[Stratholme Undead](/es/guides/dungeons/stratholme-undead/)**, niveles 58-60: la Key to the City, los tres zigurats, Slaughter Square, las ocho misiones y cada jefe hasta Baron Rivendare.
-- **[The Drowned City](/es/guides/dungeons/the-drowned-city/)**, niveles 35-40: la entrada bajo el agua frente a Stranglethorn Vale, las cinco misiones conocidas y cómo vencer a los seis jefes y al raro Umbra.
+- **[The Drowned City](/es/guides/dungeons/the-drowned-city/)**, niveles 35-40: la entrada bajo el agua frente a Stranglethorn Vale, sus ocho misiones y cómo vencer a los seis jefes y a los raros Umbra y Gill.
 - **[Krol'dok Stronghold](/es/guides/dungeons/kroldok-stronghold/)**, niveles 40-45: la fortaleza de los ogros de los Riverglades: la entrada por una cueva escondida, sus dos llaves y Overlord Mugg.
 - **[Alcaz Prison](/es/guides/dungeons/alcaz-prison/)**, niveles 48-53: la vieja prisión frente a Dustwallow Marsh: el portal en el sótano, los Defias y los naga, y Blazeroar.
 - **[Blackmaw Hold](/es/guides/dungeons/blackmaw-hold/)**, niveles 55-60: la ciudad furbolg tras la vieja puerta de Azshara: el túnel hacia Winterspring, su tamaño y Varrox Bleakhoof.
@@ -75,7 +75,7 @@ Para las mazmorras con guía, el rango es el que da el propio juego. Para las de
 | [City of Dalaran](/es/guides/dungeons/city-of-dalaran/) | 28-33 | aún no se conocen |
 | [Razorfen Kraul](/es/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
 | [Gnomeregan](/es/guides/dungeons/gnomeregan/) | 29-38 | 13 |
-| [The Drowned City](/es/guides/dungeons/the-drowned-city/) | 35-40 | 5 |
+| [The Drowned City](/es/guides/dungeons/the-drowned-city/) | 35-40 | 8 |
 | [Scarlet Monastery: Graveyard](/es/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
 | [Scarlet Monastery: Library](/es/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
 | [Scarlet Monastery: Armory](/es/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |

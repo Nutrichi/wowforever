@@ -1,18 +1,20 @@
 ---
 title: "The Drowned City"
 metaTitle: "The Drowned City in WoW Forever: loot, bosses and drops"
-description: "The Drowned City is a new dungeon for levels 35 to 40 off Stranglethorn Vale in WoW Forever. Its loot is not known yet; here is what the game data shows so far."
+description: "The Drowned City is a dungeon for levels 35 to 40 off Stranglethorn Vale in WoW Forever. The first known drop is Heart of the Primeval, plus four quest rewards."
 short: "The Drowned City"
-updated: 2026-11-08
+updated: 2026-11-11
 lang: en
 faq:
   - q: "What level is The Drowned City?"
-    a: "Levels 35 to 40, according to Blizzard. All five known quests can be picked up from level 30."
+    a: "Levels 35 to 40, according to Blizzard. Most of the eight quests can be picked up from level 30, the three neutral ones from level 34."
   - q: "Where is The Drowned City?"
     a: "Under water off the coast of Stranglethorn Vale, around /way 21.4 27.9, past The Vile Reef. The entrance is a cave with a large tablet beside it."
   - q: "What does The Drowned City drop?"
-    a: "The boss loot is not known yet, because the game data does not link items to its bosses so far. The Horde quest The Only Good Brinescale... gives a choice of Tidesoaked Leggings or Naga Priestess's Mantle."
+    a: "So far one boss drop is known: Heart of the Primeval from the Primeval Elemental, a trinket with up to 19 spell damage and healing for 30 seconds. Four quests give known rewards, such as Intrepid Explorer's Chainmail and Saltseer's Helm."
 sources:
+  - name: "Wowhead, Explore the Drowned City"
+    url: "https://www.wowhead.com/forever/news/explore-the-drowned-city-new-dungeon-in-wow-forever-383825"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/the-drowned-city-dungeon-overview-location-rewards"
   - name: "Warcraft Tavern"
@@ -21,6 +23,6 @@ dungeon:
   slug: "the-drowned-city"
   tab: "loot"
 ---
-No boss loot of The Drowned City is known yet: the game data does not link any items to its bosses so far. The first quest reward is known: The Only Good Brinescale... for the Horde lets you choose <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=279888"><img class="wf-wh__icon" src="/wh/inv_pants_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tidesoaked Leggings</a> or <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=279889"><img class="wf-wh__icon" src="/wh/inv_shoulder_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Naga Priestess's Mantle</a>.
+The first known boss drop is <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> from the Primeval Elemental: a trinket that adds up to 19 spell damage and healing for 30 seconds. The rest of the boss loot is not known yet.
 
-The trash does drop two quest items: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=270305"><img class="wf-wh__icon" src="/wh/inv_staff_115.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brinescale Trident</a> from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=262397">Brinescale Skirmisher</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=270333"><img class="wf-wh__icon" src="/wh/trade_archaeology_troll_tablet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Voodoo-Infused Artifact</a> from Saltseer Manhunters. Which quests ask for them is not known yet.
+Four of the eight quests have a known reward. For the Alliance, Take Two With Water leads to Findings for the Explorer's League in Ironforge, with <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279880"><img class="wf-wh__icon" src="/wh/inv_misc_bag_10_green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ancient Voodoo Pouch</a> and <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279881"><img class="wf-wh__icon" src="/wh/inv_chest_chain.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Intrepid Explorer's Chainmail</a>. For the Horde, The Only Good Brinescale... lets you choose <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=279888"><img class="wf-wh__icon" src="/wh/inv_pants_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tidesoaked Leggings</a> or <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=279889"><img class="wf-wh__icon" src="/wh/inv_shoulder_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Naga Priestess's Mantle</a>. Both factions can get <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=279930"><img class="wf-wh__icon" src="/wh/inv_helmet_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Saltseer's Helm</a> from Shady Saltseers in Booty Bay.

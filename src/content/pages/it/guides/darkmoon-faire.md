@@ -3,7 +3,7 @@ title: "Guida alla Darkmoon Faire per WoW Forever"
 metaTitle: "WoW Forever Darkmoon Faire: date, buff di Sayge, biglietti"
 description: "Tutto sulla Darkmoon Faire in WoW Forever: quando e dove apre, i buff e le risposte di Sayge, ogni consegna di biglietti, le ricompense, le rane, i mazzi Darkmoon e i minigiochi."
 short: "Darkmoon Faire"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: it
 manual: true
 faq:
@@ -67,7 +67,7 @@ Alla Faire non ci sono guardie, ma la zona appartiene a una fazione. Sul ruleset
 | **3 e 2** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23735"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Strength</a>, 10% di Strength | |
 | **3 e 3** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23736"><img class="wf-wh__icon" src="/wh/inv_misc_orb_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sayge's Dark Fortune of Agility</a>, 10% di Agility | |
 
-I world buff non funzionano nei raid in WoW Forever, solo nel mondo aperto e nei dungeon. I testi inglesi di ogni risposta sono nella [nostra notizia sulla prima Faire](/it/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
+I world buff non funzionano nei raid in WoW Forever, solo nel mondo aperto e nei dungeon. Ora lo dice anche il testo dei buff. I testi inglesi di ogni risposta sono nella [nostra notizia sulla prima Faire](/it/news/a-14-slot-bag-waits-at-the-darkmoon-faire/).
 
 Con il buff ricevi anche una Darkmoon Faire Fortune. Aprila per una predizione numerata. Alcune avviano la missione Your Fortune Awaits You..., che porta a un forziere con una Mysterious Lockbox: cibo, materiali o pozioni del tuo livello, più un po' di esperienza e reputazione.
 

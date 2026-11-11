@@ -1,62 +1,78 @@
 ---
 title: "Guide de réputation Magram Clan Centaur"
-description: "Magram Clan Centaur dans WoW Forever, sur la base de Classic Era : où vous commencez, la réputation gagnée en tuant les centaures Gelkis, la chaîne de quêtes de Warug, et la limite un point sous Revered."
+description: "Magram Clan Centaur dans WoW Forever : l'intendant Gorhak, les Carved Centaur Totems, les recettes à Honored et Exalted, et pourquoi alchimistes, forgerons et ingénieurs choisissent ce clan."
 lang: fr
 manual: true
-updated: 2026-09-15
+updated: 2026-11-11
 faction: "Magram Clan Centaur"
 zone: "Desolace"
 side: both
 start: neutral
-cap: revered
-method: "Tuez des centaures Gelkis jusqu'à Friendly, puis faites la chaîne de quêtes de Warug."
-rewards: "Pas de récompenses par niveau ; la chaîne se termine par un choix entre Magram Hunter's Belt et Ceremonial Centaur Blanket."
+cap: exalted
+method: "Tuez des centaures Gelkis, faites la série de quêtes de Warug et rendez des Carved Centaur Totems."
+rewards: "Douze recettes contre des Carved Centaur Totems chez Gorhak : Alchemy, Blacksmithing, Engineering à Honored ; Enchanting, Leatherworking, Tailoring à Exalted. La série de quêtes se termine par un choix d'armes rares."
 sources:
-  - name: "Wowhead"
-    url: "https://www.wowhead.com/classic/quest=1367/magram-alliance"
+  - name: "Wowhead, Gelkis or Magram"
+    url: "https://www.wowhead.com/forever/news/gelkis-or-magram-which-to-pick-in-wow-forever-383829"
+  - name: "Wowhead, the faction"
+    url: "https://www.wowhead.com/forever/faction=93"
   - name: "Warcraft Wiki"
     url: "https://warcraft.wiki.gg/wiki/Magram_clan"
-  - name: "wago.tools"
-    url: "https://wago.tools/db2/Faction"
 ---
-Les Magram Clan Centaur vivent dans l'est de Desolace et sont les ennemis jurés des [Gelkis Clan Centaur](/fr/reputations/gelkis-clan-centaur/). Vous ne pouvez monter que l'une des deux : chaque mort qui compte pour les Magram vous coûte de la réputation auprès des Gelkis. La réputation est ouverte à l'Alliance et à la Horde, et aucun des deux clans n'a de quartermaster.
+Les Magram Clan Centaur vivent en Desolace et sont les ennemis jurés des [Gelkis Clan Centaur](/fr/reputations/gelkis-clan-centaur/). Vous ne pouvez monter qu'un des deux : ce que vous gagnez chez les Magram, vous le perdez chez les Gelkis. Les deux clans sont ouverts à l'Alliance et à la Horde.
 
-## Où vous commencez
+WoW Forever fait de cette vieille rivalité un vrai choix. Dans Classic, la réputation s'arrêtait avant Revered et rapportait peu. Désormais, les deux clans vont jusqu'à Exalted, chacun a un intendant, et douze recettes sont en jeu.
 
-Chaque personnage commence à Neutral, 2 000 dans les 3 000 de ce niveau, donc à 1 000 de Friendly. Cette valeur vient des données de faction du client Classic Era, build 1.15.9.
+## Magram ou Gelkis ?
 
-## Les niveaux de réputation
+Choisissez selon votre métier. Chaque intendant vend les douze recettes, mais les six de son propre clan à Honored pour 15 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a>, et les six du clan rival seulement à Exalted pour 60. Une recette par métier de votre clan vient aussi d'une quête qui ne demande que Friendly.
 
-| Niveau | Réputation dans le niveau | Nécessaire depuis le début de Neutral |
-|---|---|---|
-| Neutral | 3 000 | 0 |
-| Friendly | 6 000 | 3 000 |
-| Honored | 12 000 | 9 000 |
-| Revered | 21 000 | 21 000 |
-| Exalted | 1 000 | 42 000 |
+| Votre métier | Choix |
+|---|---|
+| Enchanting, Leatherworking, Tailoring | [Gelkis](/fr/reputations/gelkis-clan-centaur/) |
+| Alchemy, Blacksmithing, Engineering | **Magram** |
 
-Vous démarrez à 2 000 dans la première ligne : ces premiers 1 000 jusqu'à Friendly sont tout ce qui vous sépare de la chaîne de quêtes.
+La dernière quête de chaque série offre un choix d'armes rares et de mains gauches. Les lanceurs de sorts préfèrent en général les récompenses des Magram, et l'arme d'hast à deux mains plaît aussi à d'autres classes. Les récompenses des Gelkis conviennent surtout aux joueurs de mêlée.
+
+## L'intendant
+
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=253139">Gorhak</a>, le Magram Clan Quartermaster, se tient au Magram Village en Desolace. Il vend les recettes contre des <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a>.
+
+| Recette | Métier | Requis | Totems |
+|---|---|---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=250979"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Greater Spellblasting Potion</a> | Alchemy 185 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=250985"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Greater Frenzy Potion</a> | Alchemy 190 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251458"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plans: Iron Morningstar</a> | Blacksmithing 165 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251390"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plans: Hard Gold Gauntlet</a> | Blacksmithing 175 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=269903"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Schematic: Hoof-Shaped Foot Pedal</a> | Engineering 140 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=269901"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Schematic: Centaur Banner Deployment Device</a> | Engineering 190 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249486"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Bracer - Lesser Agility</a> | Enchanting 140 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249489"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Bracer - Lesser Healing Power</a> | Enchanting 205 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=274491"><img class="wf-wh__icon" src="/wh/inv_scroll_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Centaur Hoofwarmers</a> | Leatherworking 165 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252833"><img class="wf-wh__icon" src="/wh/inv_scroll_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Mystic Thick Armor Kit</a> | Leatherworking 185 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=253974"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Silk Reagent Bag</a> | Tailoring 125 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254682"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Stormcloth Gloves</a> | Tailoring 185 | Exalted | 60 |
+
+## Carved Centaur Totems
+
+Les <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a> tombent sur les centaures de tous les clans de Desolace et s'empilent par 100. Les deux clans les acceptent comme paiement, vous les ramassez donc en montant votre réputation.
+
+- **Carved Centaur Totems :** une quête qui demande 5 totems, chez Captain Pentigast à Nijel's Point pour l'Alliance ou Gurda Wildmane à Ghost Walker Post pour la Horde.
+- **Buying Friendship: Magram :** apportez un <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=257685"><img class="wf-wh__icon" src="/wh/inv_misc_bag_enchantedrunecloth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Totem Tote</a> à Gorhak pour un grand bond de réputation. Il faut être au moins Neutral avec les Magram.
 
 ## D'où vient la réputation
 
-### Tuer des centaures Gelkis
+- **Tuer des centaures Gelkis** en Desolace. Dans Classic, une victime rapportait 20 de réputation chez les Magram et en coûtait 100 chez les Gelkis, selon Warcraft Wiki ; les chiffres de WoW Forever ne sont pas encore connus.
+- **La série de quêtes** de Warug s'ouvre à Friendly : Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka and Khan Hratha.
 
-L'essentiel vient des centaures du clan Gelkis, en Desolace. Warcraft Wiki compte 20 de réputation pour les Magram par mort, 22 avec le racial Diplomacy, et 100 de perdus chez les Gelkis.
+## Les niveaux
 
-### La chaîne de quêtes
+Chaque personnage commence à Neutral, à 2 000 sur les 3 000 de ce niveau, donc à 1 000 de Friendly. Cette valeur vient des données de faction du client Classic Era.
 
-Dès Friendly, Warug, en bordure de Magram Village dans le sud-est de Desolace, ouvre une chaîne : Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka et Khan Hratha. Magram Alliance donne 100 de réputation chez les Magram et coûte 500 chez les Gelkis. Warug vous envoie aussi contre les Kolkar et les Maraudine, écrit Warcraft Wiki.
-
-### Où cela s'arrête
-
-Les morts cessent de compter à 11 999 dans Honored, un point sous Revered, écrit Warcraft Wiki. Qui garde ses quêtes jusque-là finit tout juste dans Revered. Exalted reste hors de portée.
-
-## Le chemin le plus rapide vers la limite
-
-1. Tuez des centaures Gelkis jusqu'à Friendly. Depuis le départ, cela fait 1 000 de réputation, soit cinquante morts.
-2. Prenez la chaîne chez Warug, mais gardez les rendus pour plus tard.
-3. Continuez à tuer jusqu'aux 11 999 dans Honored, puis rendez ce que vous avez gardé.
-
-## Récompenses
-
-Il n'y a pas de récompenses par niveau. À la fin de la chaîne, vous choisissez entre Magram Hunter's Belt et Ceremonial Centaur Blanket, d'après Warcraft Wiki. Quelle quête les remet, la source ne le dit pas.
+| Niveau | Réputation dans le niveau | Requis depuis le début de Neutral |
+|---|---|---|
+| Neutral | 3 000 | 0 |
+| Friendly | 6 000 | 3 000 |
+| Honored | 12 000 | 9 000 |
+| Revered | 21 000 | 21 000 |
+| Exalted | 1 000 | 42 000 |

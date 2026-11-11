@@ -1,62 +1,78 @@
 ---
 title: "Rufguide für Magram Clan Centaur"
-description: "Magram Clan Centaur in WoW Forever, auf Basis von Classic Era: wo du startest, der Ruf aus Kills an Gelkis-Zentauren, die Questreihe von Warug und die Grenze einen Punkt unter Revered."
+description: "Magram Clan Centaur in WoW Forever: Rüstmeister Gorhak, Carved Centaur Totems, Rezepte bei Honored und Exalted und warum Alchemisten, Schmiede und Ingenieure diesen Clan wählen."
 lang: de
 manual: true
-updated: 2026-09-15
+updated: 2026-11-11
 faction: "Magram Clan Centaur"
 zone: "Desolace"
 side: both
 start: neutral
-cap: revered
-method: "Töte Gelkis-Zentauren bis Friendly und erledige danach die Questreihe von Warug."
-rewards: "Keine Belohnungen pro Rufstufe; die Questreihe endet in der Wahl zwischen Magram Hunter's Belt und Ceremonial Centaur Blanket."
+cap: exalted
+method: "Töte Gelkis-Zentauren, mach die Questreihe von Warug und gib Carved Centaur Totems ab."
+rewards: "Zwölf Rezepte für Carved Centaur Totems bei Gorhak: Alchemy, Blacksmithing, Engineering bei Honored; Enchanting, Leatherworking, Tailoring bei Exalted. Die Questreihe endet mit einer Wahl seltener Waffen."
 sources:
-  - name: "Wowhead"
-    url: "https://www.wowhead.com/classic/quest=1367/magram-alliance"
+  - name: "Wowhead, Gelkis or Magram"
+    url: "https://www.wowhead.com/forever/news/gelkis-or-magram-which-to-pick-in-wow-forever-383829"
+  - name: "Wowhead, the faction"
+    url: "https://www.wowhead.com/forever/faction=93"
   - name: "Warcraft Wiki"
     url: "https://warcraft.wiki.gg/wiki/Magram_clan"
-  - name: "wago.tools"
-    url: "https://wago.tools/db2/Faction"
 ---
-Die Magram Clan Centaur leben im Osten von Desolace und sind die Erzfeinde der [Gelkis Clan Centaur](/de/reputations/gelkis-clan-centaur/). Du kannst nur eine von beiden aufbauen: Jeder Kill, der für die Magram zählt, kostet dich Ruf bei den Gelkis. Der Ruf steht Allianz und Horde gleichermaßen offen, und keiner der beiden Clans hat einen Quartermaster.
+Die Magram Clan Centaur leben in Desolace und sind die geschworenen Feinde der [Gelkis Clan Centaur](/de/reputations/gelkis-clan-centaur/). Du kannst nur einen der beiden steigern: Was du bei den Magram gewinnst, verlierst du bei den Gelkis. Beide Clans stehen Allianz und Horde offen.
 
-## Wo du startest
+WoW Forever macht aus dieser alten Rivalität eine echte Wahl. In Classic endete der Ruf unter Revered und brachte wenig. Jetzt gehen beide Clans bis Exalted, jeder hat einen Rüstmeister, und es geht um zwölf Rezepte.
 
-Jeder Charakter beginnt auf Neutral, 2.000 in den 3.000 dieser Stufe, also 1.000 vor Friendly. Dieser Wert stammt aus den Fraktionsdaten des Classic-Era-Clients, Build 1.15.9.
+## Magram oder Gelkis?
+
+Wähle nach deinem Beruf. Jeder Rüstmeister verkauft alle zwölf Rezepte, aber die sechs des eigenen Clans bei Honored für 15 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a> und die sechs des Rivalen erst bei Exalted für 60. Ein Rezept pro Beruf deines Clans gibt es auch über eine Quest, die nur Friendly verlangt.
+
+| Dein Beruf | Wähle |
+|---|---|
+| Enchanting, Leatherworking, Tailoring | [Gelkis](/de/reputations/gelkis-clan-centaur/) |
+| Alchemy, Blacksmithing, Engineering | **Magram** |
+
+Die letzte Quest jeder Reihe lässt dich zwischen seltenen Waffen und Nebenhandgegenständen wählen. Zauberwirker nehmen meist lieber die Belohnungen der Magram, und die zweihändige Stangenwaffe passt auch zu anderen Klassen. Die Belohnungen der Gelkis passen am besten zu Nahkämpfern.
+
+## Der Rüstmeister
+
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=253139">Gorhak</a>, der Magram Clan Quartermaster, steht im Magram Village in Desolace. Er verkauft die Rezepte für <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a>.
+
+| Rezept | Beruf | Benötigt | Totems |
+|---|---|---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=250979"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Greater Spellblasting Potion</a> | Alchemy 185 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=250985"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Greater Frenzy Potion</a> | Alchemy 190 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251458"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plans: Iron Morningstar</a> | Blacksmithing 165 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=251390"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Plans: Hard Gold Gauntlet</a> | Blacksmithing 175 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=269903"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Schematic: Hoof-Shaped Foot Pedal</a> | Engineering 140 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=269901"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Schematic: Centaur Banner Deployment Device</a> | Engineering 190 | Honored | 15 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249486"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Bracer - Lesser Agility</a> | Enchanting 140 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249489"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Bracer - Lesser Healing Power</a> | Enchanting 205 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=274491"><img class="wf-wh__icon" src="/wh/inv_scroll_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Centaur Hoofwarmers</a> | Leatherworking 165 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252833"><img class="wf-wh__icon" src="/wh/inv_scroll_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Mystic Thick Armor Kit</a> | Leatherworking 185 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=253974"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Silk Reagent Bag</a> | Tailoring 125 | Exalted | 60 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254682"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Stormcloth Gloves</a> | Tailoring 185 | Exalted | 60 |
+
+## Carved Centaur Totems
+
+<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a> droppen bei Zentauren aller Clans in Desolace und stapeln sich bis 100. Beide Clans nehmen sie als Bezahlung, also sammelst du sie, während du Ruf aufbaust.
+
+- **Carved Centaur Totems:** eine Quest, die 5 Totems verlangt, von Captain Pentigast in Nijel's Point für die Allianz oder Gurda Wildmane in Ghost Walker Post für die Horde.
+- **Buying Friendship: Magram:** Bring ein <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=257685"><img class="wf-wh__icon" src="/wh/inv_misc_bag_enchantedrunecloth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Totem Tote</a> zu Gorhak für einen großen Sprung im Ruf. Du brauchst mindestens Neutral bei den Magram.
+
+## Woher der Ruf kommt
+
+- **Gelkis-Zentauren töten** in Desolace. In Classic brachte ein Kill 20 Ruf bei den Magram und kostete 100 bei den Gelkis, laut Warcraft Wiki; die Zahlen in WoW Forever sind noch nicht bekannt.
+- **Die Questreihe** von Warug öffnet sich bei Friendly: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka and Khan Hratha.
 
 ## Die Rufstufen
 
-| Rufstufe | Ruf innerhalb der Stufe | Nötig ab dem Beginn von Neutral |
+Jeder Charakter beginnt bei Neutral, mit 2.000 von 3.000 in dieser Stufe, also 1.000 vor Friendly. Der Wert stammt aus den Fraktionsdaten des Classic-Era-Clients.
+
+| Stufe | Ruf in der Stufe | Nötig ab Beginn von Neutral |
 |---|---|---|
 | Neutral | 3.000 | 0 |
 | Friendly | 6.000 | 3.000 |
 | Honored | 12.000 | 9.000 |
 | Revered | 21.000 | 21.000 |
 | Exalted | 1.000 | 42.000 |
-
-Du startest bei 2.000 in der ersten Zeile, diese ersten 1.000 bis Friendly sind also alles, was zwischen dir und der Questreihe steht.
-
-## Woher der Ruf kommt
-
-### Gelkis-Zentauren töten
-
-Das meiste kommt aus Kills an Zentauren des Gelkis-Clans in Desolace. Warcraft Wiki setzt einen Kill auf 20 Ruf für die Magram an, 22 mit dem Racial Diplomacy, und 100 Verlust bei den Gelkis.
-
-### Die Questreihe
-
-Ab Friendly öffnet Warug am Rand von Magram Village im Südosten von Desolace eine Reihe: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka und Khan Hratha. Magram Alliance gibt 100 Ruf bei den Magram und kostet 500 bei den Gelkis. Warug schickt dich außerdem gegen die Kolkar und die Maraudine, schreibt Warcraft Wiki.
-
-### Wo es aufhört
-
-Kills zählen ab 11.999 in Honored nicht mehr, einen Punkt unter Revered, schreibt Warcraft Wiki. Wer die Quests bis dahin aufspart, endet knapp in Revered. Exalted ist nicht zu erreichen.
-
-## Der schnellste Weg zur Grenze
-
-1. Töte Gelkis-Zentauren bis Friendly. Vom Start aus sind das 1.000 Ruf oder fünfzig Kills.
-2. Nimm die Reihe bei Warug an, aber gib noch nichts ab.
-3. Töte weiter bis zu den 11.999 in Honored und gib dann ab, was du aufgespart hast.
-
-## Belohnungen
-
-Es gibt keine Belohnungen pro Rufstufe. Am Ende der Reihe wählst du zwischen Magram Hunter's Belt und Ceremonial Centaur Blanket, laut Warcraft Wiki. Welche Quest sie aushändigt, sagt die Quelle nicht.
