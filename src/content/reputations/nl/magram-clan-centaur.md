@@ -1,6 +1,6 @@
 ---
 title: "Reputatiegids voor Magram Clan Centaur"
-description: "Magram Clan Centaur in WoW Forever: quartermaster Gorhak, Carved Centaur Totems, recepten op Honored en Exalted, en waarom Alchemists, Blacksmiths en Engineers voor deze clan kiezen."
+description: "Magram Clan Centaur in WoW Forever: elke quest van Neutral tot Exalted, quartermaster Gorhak en zijn twaalf recepten, de rare questbeloningen en de titel of the Magram."
 lang: nl
 manual: true
 updated: 2026-11-11
@@ -9,34 +9,80 @@ zone: "Desolace"
 side: both
 start: neutral
 cap: exalted
-method: "Dood Gelkis-centaurs, doe de questreeks van Warug en lever Carved Centaur Totems in."
-rewards: "Twaalf recepten voor Carved Centaur Totems bij Gorhak: Alchemy, Blacksmithing, Engineering op Honored; Enchanting, Leatherworking, Tailoring op Exalted. De questreeks eindigt in een keuze uit rare wapens."
+method: "Buying Friendship tot Friendly, dan de quests op Friendly en Honored, daarna Economic Warfare met Carved Centaur Totems."
+rewards: "Twaalf recepten bij Gorhak voor Carved Centaur Totems, een keuze uit rare wapens van Khan Jehn en de titel of the Magram op Exalted."
 sources:
+  - name: "Wowhead, the reputation guide"
+    url: "https://www.wowhead.com/forever/guide/reputation/magram-clan-centaur-quests-quartermaster-rewards"
   - name: "Wowhead, Gelkis or Magram"
     url: "https://www.wowhead.com/forever/news/gelkis-or-magram-which-to-pick-in-wow-forever-383829"
   - name: "Wowhead, the faction"
     url: "https://www.wowhead.com/forever/faction=93"
-  - name: "Warcraft Wiki"
-    url: "https://warcraft.wiki.gg/wiki/Magram_clan"
 ---
 De Magram Clan Centaur wonen in Desolace en zijn de gezworen vijanden van de [Gelkis Clan Centaur](/nl/reputations/gelkis-clan-centaur/). Je kan er maar één van de twee opbouwen: wat je bij de Magram wint, verlies je bij de Gelkis. Beide clans staan open voor Alliance en Horde.
 
-WoW Forever maakt van deze oude rivaliteit een echte keuze. In Classic stopte de reputatie onder Revered en leverde ze weinig op. Nu gaan beide clans tot Exalted, heeft elke clan een quartermaster, en staan er twaalf recepten op het spel.
+WoW Forever maakt van deze oude rivaliteit een echte keuze. In Classic stopte de reputatie onder Revered en leverde ze weinig op. Nu gaan beide clans tot Exalted, met nieuwe quests voor level 40 tot 43, een quartermaster, twaalf recepten, rare wapens en een titel.
 
 ## Magram of Gelkis?
 
-Kies op basis van je beroep. Elke quartermaster verkoopt alle twaalf recepten, maar de zes van de eigen clan op Honored voor 15 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a>, en de zes van de rivaal pas op Exalted voor 60. Eén recept per beroep van je clan krijg je ook met een quest die alleen Friendly vraagt.
+Kies op basis van je beroep. Elke quartermaster verkoopt alle twaalf recepten, maar de zes van de eigen clan op Honored voor 15 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a>, en de zes van de rivaal pas op Exalted voor 60. Daarbovenop laten drie quests op Friendly je telkens één recept kiezen voor de beroepen van je clan.
 
 | Jouw beroep | Kies |
 |---|---|
 | Enchanting, Leatherworking, Tailoring | [Gelkis](/nl/reputations/gelkis-clan-centaur/) |
 | Alchemy, Blacksmithing, Engineering | **Magram** |
 
-De laatste quest van elke reeks geeft een keuze uit rare wapens en off-hands. Casters kiezen meestal liever de beloningen van de Magram, en de tweehandige polearm past ook bij andere classes. De beloningen van de Gelkis passen het best bij melee.
+De laatste quest, Khan Jehn, laat je kiezen uit drie rare items: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271803"><img class="wf-wh__icon" src="/wh/inv_staff_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greatstaff of the Necrokhans</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271804"><img class="wf-wh__icon" src="/wh/inv_mace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Soulsplatter Mace</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271800"><img class="wf-wh__icon" src="/wh/inv_spear_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scavenged Magram Armament</a>. De staf en de mace hebben elk 48 spell power, de polearm past bij melee.
 
-## De quartermaster
+## Zo begin je
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=253139">Gorhak</a>, de Magram Clan Quartermaster, staat in het Magram Village in Desolace. Hij verkoopt de recepten voor <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a>.
+Elk personage begint op Neutral. Twee wegen leiden naar Friendly: dood Gelkis-centaurs in Desolace, of lever een <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=257685"><img class="wf-wh__icon" src="/wh/inv_misc_bag_enchantedrunecloth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Totem Tote</a> in bij Gorhak met Buying Friendship: Magram, goed voor 3.000 reputatie in één keer. Koos je eerder de kant van de Gelkis, zet ze dan eerst op At War in je reputatievenster. Op Friendly opent Brutal Politics / Magram Alliance de questreeks.
+
+## Quests per standing
+
+### Friendly
+
+Het eerste deel van de reeks. De drie beroepsquests geven elk een recept naar keuze en vragen een item dat je vooraf kan maken of kopen. Samen leveren deze quests 5.250 reputatie op, zonder de herhaalbare.
+
+| Quest | Reputatie | Opmerking |
+|---|---|---|
+| Brutal Politics / Magram Alliance | 250 |  |
+| Assault on the Kolkar | 500 |  |
+| Broken Tears | 500 |  |
+| A Conqueror's Crown | 1.000 |  |
+| Gizmo for Warug | 1.000 | Engineering, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=4392"><img class="wf-wh__icon" src="/wh/inv_crate_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Advanced Target Dummy</a> |
+| A New Need for Shadow Protection | 1.000 | Alchemy, 3 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13459"><img class="wf-wh__icon" src="/wh/inv_potion_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Shadow Protection Potion</a> |
+| Big, No, MASSIVE Iron Axes | 1.000 | Blacksmithing, 2 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=3855"><img class="wf-wh__icon" src="/wh/inv_throwingaxe_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Massive Iron Axe</a> |
+| Economic Warfare | 750 | herhaalbaar, 5 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a> |
+
+### Honored
+
+Honored opent een tweede reeks die eindigt met Khan Jehn, veruit de grootste stap.
+
+| Quest | Reputatie |
+|---|---|
+| Valley of Bones | 125 |
+| Mountain of Bones | 500 |
+| Outcast Necromancers | 500 |
+| Corrupting Tears | 500 |
+| Proof of Concept | 500 |
+| No Mercy for the Weak | 500 |
+| Bone Raising | 500 |
+| Bristleback Retreat | 500 |
+| Long-Term Solutions | 500 |
+| Threat of Starvation | 500 |
+| Return to Orgrul | 500 |
+| Khan Jehn | 6.000 |
+
+## De snelste weg naar Exalted
+
+Doe Buying Friendship en daarna elke quest op Friendly en Honored. Vanaf dan is Economic Warfare de weg: 750 reputatie per 5 <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a>. Totems vallen bij centaurs van elke clan in Desolace en zijn niet gebonden, dus je kan ze ook in het Auction House kopen.
+
+## Beloningen
+
+**Titel:** op Exalted, na Khan Jehn, kan je de titel of the Magram gebruiken. Die werkt alleen zolang je Exalted bent, dus wie overstapt naar de Gelkis, verliest hem.
+
+**Quartermaster:** <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=253139">Gorhak</a> staat in het kamp van de Magram in Desolace, op /way 66.2 79.4. Hij verkoopt de recepten voor <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a>.
 
 | Recept | Beroep | Nodig | Totems |
 |---|---|---|---|
@@ -53,21 +99,9 @@ De laatste quest van elke reeks geeft een keuze uit rare wapens en off-hands. Ca
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=253974"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Silk Reagent Bag</a> | Tailoring 125 | Exalted | 60 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254682"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pattern: Stormcloth Gloves</a> | Tailoring 185 | Exalted | 60 |
 
-## Carved Centaur Totems
-
-<a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=254432"><img class="wf-wh__icon" src="/wh/trade_archaeology_vrykul_runestick.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Carved Centaur Totem</a> vallen bij centaurs van elke clan in Desolace en stapelen tot 100. Beide clans nemen ze aan als betaling, dus je verzamelt ze terwijl je reputatie opbouwt.
-
-- **Carved Centaur Totems:** een quest die 5 totems vraagt, van Captain Pentigast in Nijel's Point voor de Alliance of Gurda Wildmane in Ghost Walker Post voor de Horde.
-- **Buying Friendship: Magram:** breng een <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=257685"><img class="wf-wh__icon" src="/wh/inv_misc_bag_enchantedrunecloth.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Totem Tote</a> naar Gorhak voor een grote sprong in reputatie. Je moet minstens Neutral zijn bij de Magram.
-
-## Waar de reputatie vandaan komt
-
-- **Gelkis-centaurs doden** in Desolace. In Classic leverde een kill 20 reputatie op bij de Magram en kostte hij 100 bij de Gelkis, volgens Warcraft Wiki; de cijfers in WoW Forever zijn nog niet bekend.
-- **De questreeks** van Warug opent op Friendly: Brutal Politics, Magram Alliance, Assault on the Kolkar, Broken Tears, Gizmo for Warug, Khan Shaka and Khan Hratha.
-
 ## De standings
 
-Elk personage begint op Neutral, 2.000 in de 3.000 van die standing, dus 1.000 onder Friendly. Die waarde komt uit de factiedata van de Classic Era-client.
+Elk personage begint op Neutral, 2.000 in de 3.000 van die standing. Die waarde komt uit de factiedata van de Classic Era-client.
 
 | Standing | Reputatie in de standing | Nodig vanaf het begin van Neutral |
 |---|---|---|
