@@ -3,7 +3,7 @@ title: "Guía del Enhancement Shaman en WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, tótems"
 description: "El Enhancement Shaman en WoW Forever: la build de nivel 60, Stormstrike y Maelstrom Weapon, la rotación, los tótems, el maná, tanquear, los stats y las razas."
 short: "Enhancement Shaman"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: es
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "¿Puede tanquear un Enhancement Shaman en WoW Forever?"
     a: "En las primeras mazmorras, sí. No hay un taunt real ni un enfriamiento defensivo, y la build escala mal hacia el final del juego. Rockbiter Weapon, Lightning Shield, Earth Shock, Anticipation y Spirit Weapons hacen el trabajo."
   - q: "¿Qué stats necesita un Enhancement Shaman?"
-    a: "Primero daño de arma, luego hit al acercarte al nivel 60, Strength e Intellect, probabilidad de crítico, Spirit y daño de hechizos. Intellect da poder de ataque con Mental Dexterity y además más reserva de maná."
+    a: "Primero daño de arma, luego Strength, hit al acercarte al nivel 60, probabilidad de crítico, Intellect y Spirit. Desde el 10 de noviembre, Strength supera claramente a Intellect: Mental Dexterity convierte Intellect en poder de ataque como mucho al 100%."
   - q: "¿Cuál es la mejor raza para un Enhancement Shaman?"
     a: "Dwarf es el único Shaman de la Alliance. En la Horde, Orc es la opción más fuerte gracias a Blood Fury, y Windshaper Skyborne obtiene un 2% de haste."
   - q: "¿Hay una build para nivel 60?"
@@ -29,6 +29,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
+> **Actualización del 11 de noviembre:** el hotfix del 10 de noviembre cambió Stormstrike, Mental Dexterity y Maelstrom Weapon, y un encantamiento de arma ya funciona junto a un tótem de arma. Esta guía sigue los nuevos valores, más en [nuestra noticia](/es/news/enhancement-shamans-turn-back-to-windfury/).
+
 > **Actualización del 4 de noviembre:** las builds y talentos de abajo siguen los árboles nuevos de las notas de desarrollo del 2 de noviembre, más en [nuestra noticia](/es/news/shamans-lose-lava-burst-before-the-launch/).
 
 El Enhancement Shaman de WoW Forever lucha cuerpo a cuerpo y mezcla hechizos. Un arma a dos manos lenta con Windfury Weapon da los grandes golpes, mientras Stormstrike y Maelstrom Weapon añaden Lightning Bolt a la rotación. Los tótems te hacen bienvenido en cualquier grupo. Esta guía cubre la build de nivel 60, los talentos clave, la rotación, los tótems, el maná, tanquear, los stats y las razas.
@@ -103,18 +105,18 @@ La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP 
 | Talento | Qué hace en Forever |
 |---|---|
 | **Thundering Strikes** | 5% más de probabilidad de crítico con todos los hechizos y ataques |
-| **Mental Dexterity** | Poder de ataque igual al 150% de tu Intellect |
+| **Mental Dexterity** | Poder de ataque igual al 33, 66 o 100% de tu Intellect |
 | **Ancestral Knowledge** | A 2/5: un 4% más de Intellect, que Mental Dexterity convierte en más poder de ataque |
 | **Elemental Weapons** | Rockbiter Weapon 20% más de poder de ataque, Windfury Weapon 40% más fuerte, Flametongue y Frostbrand Weapon 15% más de daño |
 | **Shamanistic Focus** | Los Shocks y Lightning Shield cuestan un 45% menos de maná |
 | **Flurry** | 30% más de velocidad de ataque durante 3 golpes tras un crítico cuerpo a cuerpo |
-| **Stormstrike** | Golpe instantáneo con el 150% del daño de arma. Tu siguiente Lightning Bolt, Chain Lightning o Earth Shock hace un 20% más de daño durante 12 segundos. Enfriamiento de 6 segundos |
+| **Stormstrike** | Golpe instantáneo con el 100% del daño de arma. Tu siguiente Lightning Bolt, Chain Lightning o Earth Shock hace un 20% más de daño durante 12 segundos. Enfriamiento de 8 segundos |
 | **Mental Quickness** | Daño de hechizos y curación igual al 30% de tu Intellect |
 | **Improved Stormstrike** | Stormstrike da un 50% de regeneración de maná al lanzar durante 15 segundos. Una esquiva o parada reinicia su enfriamiento |
-| **Maelstrom Weapon** | Los golpes cuerpo a cuerpo pueden reducir el tiempo de lanzamiento y el coste de maná de tu siguiente Lightning Bolt, hasta 5 acumulaciones. 4% por acumulación a 1/5, 20% por acumulación a 5/5 |
+| **Maelstrom Weapon** | Los golpes cuerpo a cuerpo pueden hacer tu siguiente Lightning Bolt un 20% más rápido y barato por acumulación, hasta 5 acumulaciones. Más puntos, más activaciones: 6 por minuto a 1/5, 10 a 5/5 |
 | **Rage of the Farseer** | El talento inferior del árbol: 30% más de velocidad de ataque durante 25 segundos, enfriamiento de 3 minutos |
 
-Maelstrom Weapon necesita muchos puntos antes de dar un Lightning Bolt gratis e instantáneo.
+Cada acumulación vale un 20% en todos los rangos, pero con menos puntos salta menos a menudo. Un arma lenta da más probabilidad por golpe: con 5 puntos, 60% con velocidad 3.6 y 33% con 2.0.
 
 ## Rotación
 
@@ -150,7 +152,7 @@ Sin maná aún te quedan los golpes blancos, pero tu daño cae mucho hasta que s
 
 - **Call of the Elements** y los demás hechizos Call colocan con un botón un conjunto guardado de cuatro tótems. Tienen tiempo de lanzamiento.
 - **Totemic Recall** recupera tus tótems. **Totemic Call** lleva tus tótems activos hasta donde estás, con una reutilización de 30 segundos.
-- **Windfury Totem** es el mejor beneficio cuerpo a cuerpo del juego. Sin la restricción de grupo, funciona para toda la raid. Los efectos de Windfury no se acumulan.
+- **Windfury Totem** es el mejor beneficio cuerpo a cuerpo del juego. Sin la restricción de grupo, funciona para toda la raid. Desde el 10 de noviembre funciona junto a tu propio encantamiento de arma, así que Windfury Weapon y Windfury Totem pueden saltar los dos.
 - **Tremor Totem** quita miedo, sueño y encantamiento a los aliados al alcance. Un buen momento salva partidas.
 - **Poison Cleansing Totem** y **Disease Cleansing Totem** quitan un efecto por pulso.
 - **Earthbind Totem** ralentiza a los enemigos para hacer kiting.
@@ -169,14 +171,14 @@ Tanquear funciona mientras subes de nivel, con inconvenientes: sin taunt real, s
 
 ## Stats y equipo
 
-> **Actualización del 10 de noviembre:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> tiene ahora +16 Strength en lugar de +12 Intellect, y una velocidad de 3.6, más en [nuestra noticia](/es/news/rage-of-the-storm-swaps-intellect-for-strength/). Blizzard también hace de la Fuerza la mejor stat de Enhancement y aconseja guardar equipo con Fuerza y poder de ataque mientras subes de nivel. Los consejos sobre Intelecto y poder con hechizos de abajo cambiarán cuando esa parte del hotfix esté en el juego, más en [el anuncio](/es/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
+> **Actualización del 10 de noviembre:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> tiene ahora +16 Strength en lugar de +12 Intellect, y una velocidad de 3.6, más en [nuestra noticia](/es/news/rage-of-the-storm-swaps-intellect-for-strength/). Strength es ahora la mejor stat de Enhancement, más en [la noticia del hotfix](/es/news/enhancement-shamans-turn-back-to-windfury/).
 
 Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
 
 - **Daño de arma**: tu principal fuente de escalado, con Stormstrike y Windfury.
 - **Hit**: menos importante al principio, alta prioridad cerca del nivel 60. Una habilidad fallada desperdicia daño y maná.
-- **Strength**: 2 de poder de ataque por punto.
-- **Intellect**: 1,5 de poder de ataque por punto con Mental Dexterity, más reserva de maná. Puede superar a Strength si el maná es tu problema.
+- **Strength**: 2 de poder de ataque por punto, tu mejor stat desde el 10 de noviembre.
+- **Intellect**: 1 de poder de ataque por punto con Mental Dexterity a 3/3, antes 1,5, más reserva de maná. Solo compensa si el maná es tu problema.
 - **Probabilidad de crítico**: mantiene Flurry activo, y los golpes de Windfury también pueden ser críticos.
 - **Spirit**: más útil de lo que parece, porque Improved Stormstrike mantiene la regeneración al lanzar.
 - **Daño de hechizos**: Enhancement lanza bastantes hechizos, así que el equipo con poder de hechizos puede ser una mejora.

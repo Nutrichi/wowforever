@@ -3,7 +3,7 @@ title: "Leveling-Guide für den Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman leveln: Enhancement, Elemental und Resto"
 description: "So levelst du einen Shaman in WoW Forever: Builds für Level 60 für Enhancement, Elemental und Restoration, wichtige Stufen, Totemquests, Waffen aus Call of Air und Zonen."
 short: "Shaman leveln"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: de
 manual: true
 faq:
@@ -57,7 +57,7 @@ Du kämpfst mit Lightning Bolt auf Distanz und Rockbiter Weapon für deine Nahka
 4. Wirk noch einen Lightning Bolt, wenn das Monster noch nicht im Nahkampf ist und dein Mana reicht.
 5. Erledige es im Nahkampf.
 
-Stoneclaw Totem und Earthbind Totem helfen, wenn ein Pull schiefgeht. Werte am Anfang: Zauberschaden, dann Stärke, dann Intelligenz, dann Ausdauer und Willenskraft, dann Rüstung.
+Stoneclaw Totem und Earthbind Totem helfen, wenn ein Pull schiefgeht. Werte am Anfang: Zauberschaden, dann Stärke, dann Intelligenz, dann Ausdauer und Willenskraft, dann Rüstung. Willst du als Enhancement leveln? Behalte die Ausrüstung mit Stärke, die du findest: Seit dem 10. November ist Stärke klar der beste Wert, mehr in [unserem Beitrag](/de/news/enhancement-shamans-turn-back-to-windfury/).
 
 ## Talent-Builds
 

@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Mise à jour du 11 novembre :** le dépôt minimum de 1 cuivre est en jeu depuis le hotfix du 10 novembre, plus de détails dans [notre article](/fr/news/racial-vendor-mounts-become-bind-on-pickup/).
+
 Le dépôt minimum de 1 argent par enchère dans World of Warcraft: Forever va disparaître. Le principal game designer Kris Zierhut dit dans une interview que le plancher revient à 1 cuivre. Quand, il ne le dit pas : pas encore, mais bientôt.
 
 > Maybe the minimum price on the Auction House should be 1 Copper, and not 1 Silver for deposits. We were just talking about that one earlier today and after talking about it with people more, yes, we're changing it back to one copper as the minimum deposit. That's coming. Not yet, but coming.

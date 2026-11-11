@@ -3,7 +3,7 @@ title: "Guide zum Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: Build, Stormstrike, Totems"
 description: "Der Enhancement Shaman in WoW Forever: der Build für Level 60, Stormstrike und Maelstrom Weapon, Rotation, Totems, Mana, Tanken, Werte und Völker."
 short: "Enhancement Shaman"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Kann ein Enhancement Shaman in WoW Forever tanken?"
     a: "In frühen Dungeons ja. Es gibt keinen echten Taunt und keinen defensiven Cooldown, und der Build skaliert schlecht ins Endgame. Rockbiter Weapon, Lightning Shield, Earth Shock, Anticipation und Spirit Weapons erledigen die Arbeit."
   - q: "Welche Werte braucht ein Enhancement Shaman?"
-    a: "Zuerst Waffenschaden, dann Hit, je näher Level 60 rückt, Strength und Intellect, kritische Trefferchance, Spirit und Zauberschaden. Intellect gibt über Mental Dexterity Angriffskraft und außerdem einen größeren Manavorrat."
+    a: "Zuerst Waffenschaden, dann Strength, Hit, je näher Level 60 rückt, kritische Trefferchance, Intellect und Spirit. Seit dem 10. November schlägt Strength Intellect deutlich: Mental Dexterity wandelt Intellect höchstens zu 100% in Angriffskraft um."
   - q: "Welches Volk ist am besten für einen Enhancement Shaman?"
     a: "Dwarf ist der einzige Shaman der Alliance. Bei der Horde ist Orc dank Blood Fury die stärkste Wahl, und Windshaper Skyborne erhält 2% Haste."
   - q: "Gibt es einen Build für Level 60?"
@@ -29,6 +29,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
+> **Update vom 11. November:** Der Hotfix vom 10. November hat Stormstrike, Mental Dexterity und Maelstrom Weapon geändert, und eine Waffenverzauberung wirkt jetzt neben einem Waffentotem. Dieser Guide folgt den neuen Werten, mehr in [unserem Beitrag](/de/news/enhancement-shamans-turn-back-to-windfury/).
+
 > **Update vom 4. November:** Builds und Talente unten folgen den neuen Bäumen aus den Entwicklungsnotizen vom 2. November, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/).
 
 Der Enhancement Shaman in WoW Forever kämpft im Nahkampf und mischt Zauber hinein. Eine langsame Zweihandwaffe mit Windfury Weapon liefert die großen Treffer, während Stormstrike und Maelstrom Weapon Lightning Bolt in die Rotation bringen. Totems machen dich in jeder Gruppe willkommen. Diese Guide behandelt den Build für Level 60, die wichtigsten Talente, die Rotation, Totems, Mana, Tanken, Werte und Völker.
@@ -103,18 +105,18 @@ Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Tale
 | Talent | Was es in Forever tut |
 |---|---|
 | **Thundering Strikes** | 5% mehr kritische Trefferchance mit allen Zaubern und Angriffen |
-| **Mental Dexterity** | Angriffskraft in Höhe von 150% deines Intellect |
+| **Mental Dexterity** | Angriffskraft in Höhe von 33, 66 oder 100% deines Intellect |
 | **Ancestral Knowledge** | Auf 2/5: 4% mehr Intellect, das Mental Dexterity in mehr Angriffskraft umwandelt |
 | **Elemental Weapons** | Rockbiter Weapon 20% mehr Angriffskraft, Windfury Weapon 40% stärker, Flametongue und Frostbrand Weapon 15% mehr Schaden |
 | **Shamanistic Focus** | Shocks und Lightning Shield kosten 45% weniger Mana |
 | **Flurry** | 30% mehr Angriffstempo für 3 Schläge nach einem kritischen Nahkampftreffer |
-| **Stormstrike** | Sofortiger Schlag mit 150% Waffenschaden. Dein nächster Lightning Bolt, Chain Lightning oder Earth Shock verursacht innerhalb von 12 Sekunden 20% mehr Schaden. Cooldown 6 Sekunden |
+| **Stormstrike** | Sofortiger Schlag mit 100% Waffenschaden. Dein nächster Lightning Bolt, Chain Lightning oder Earth Shock verursacht innerhalb von 12 Sekunden 20% mehr Schaden. Cooldown 8 Sekunden |
 | **Mental Quickness** | Zauberschaden und Heilung in Höhe von 30% deines Intellect |
 | **Improved Stormstrike** | Stormstrike gibt 15 Sekunden lang 50% Manaregeneration beim Zaubern. Ein Ausweichen oder Parieren setzt den Cooldown zurück |
-| **Maelstrom Weapon** | Nahkampftreffer können Zauberzeit und Manakosten deines nächsten Lightning Bolt senken, bis zu 5 Stapel. 4% pro Stapel bei 1/5, 20% pro Stapel bei 5/5 |
+| **Maelstrom Weapon** | Nahkampftreffer können deinen nächsten Lightning Bolt pro Stapel 20% schneller und billiger machen, bis zu 5 Stapel. Mehr Punkte, mehr Procs: 6 pro Minute bei 1/5, 10 bei 5/5 |
 | **Rage of the Farseer** | Das unterste Talent des Baums: 25 Sekunden lang 30% mehr Angriffstempo, Cooldown 3 Minuten |
 
-Maelstrom Weapon braucht viele Punkte, bevor daraus ein kostenloser, sofortiger Lightning Bolt wird.
+Jeder Stapel ist auf jedem Rang 20% wert, aber mit weniger Punkten procct er seltener. Eine langsame Waffe gibt eine höhere Chance pro Schlag: mit 5 Punkten 60% bei Tempo 3.6 und 33% bei 2.0.
 
 ## Rotation
 
@@ -150,7 +152,7 @@ Ohne Mana bleiben dir deine weißen Schläge, aber dein Schaden fällt stark, bi
 
 - **Call of the Elements** und die anderen Call-Zauber stellen mit einer Taste ein gespeichertes Set aus vier Totems auf. Sie haben eine Zauberzeit.
 - **Totemic Recall** nimmt deine Totems zurück. **Totemic Call** holt deine aktiven Totems dorthin, wo du stehst, mit 30 Sekunden Abklingzeit.
-- **Windfury Totem** ist der beste Nahkampfbuff im Spiel. Ohne die Gruppenbeschränkung wirkt er für den ganzen Raid. Windfury-Effekte stapeln nicht.
+- **Windfury Totem** ist der beste Nahkampfbuff im Spiel. Ohne die Gruppenbeschränkung wirkt er für den ganzen Raid. Seit dem 10. November wirkt er neben deiner eigenen Waffenverzauberung, also können Windfury Weapon und Windfury Totem beide auslösen.
 - **Tremor Totem** entfernt Furcht, Schlaf und Bezauberung von Verbündeten in Reichweite. Gutes Timing rettet Runs.
 - **Poison Cleansing Totem** und **Disease Cleansing Totem** entfernen pro Puls einen Effekt.
 - **Earthbind Totem** verlangsamt Gegner zum Kiten.
@@ -169,14 +171,14 @@ Tanken funktioniert beim Leveln, mit Nachteilen: kein echter Taunt, kein defensi
 
 ## Werte und Ausrüstung
 
-> **Update vom 10. November:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> hat jetzt +16 Strength statt +12 Intellect und ein Tempo von 3.6, mehr in [unserem Beitrag](/de/news/rage-of-the-storm-swaps-intellect-for-strength/). Blizzard macht außerdem Stärke zum stärksten Wert für Enhancement und rät, beim Leveln Ausrüstung mit Stärke und Angriffskraft zu sammeln. Die Hinweise zu Intelligenz und Zaubermacht unten ändern sich, sobald dieser Teil des Hotfixes im Spiel ist, mehr in [der Ankündigung](/de/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
+> **Update vom 10. November:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> hat jetzt +16 Strength statt +12 Intellect und ein Tempo von 3.6, mehr in [unserem Beitrag](/de/news/rage-of-the-storm-swaps-intellect-for-strength/). Strength ist jetzt der stärkste Wert für Enhancement, mehr im [Beitrag zum Hotfix](/de/news/enhancement-shamans-turn-back-to-windfury/).
 
 Prioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
 
 - **Waffenschaden**: deine größte Quelle für Skalierung, über Stormstrike und Windfury.
 - **Hit**: früh weniger wichtig, nahe Level 60 eine hohe Priorität. Eine verfehlte Fähigkeit verschwendet Schaden und Mana.
-- **Strength**: 2 Angriffskraft pro Punkt.
-- **Intellect**: 1,5 Angriffskraft pro Punkt mit Mental Dexterity, plus ein größerer Manavorrat. Kann Strength schlagen, wenn Mana dein Problem ist.
+- **Strength**: 2 Angriffskraft pro Punkt, seit dem 10. November dein stärkster Wert.
+- **Intellect**: 1 Angriffskraft pro Punkt mit Mental Dexterity auf 3/3, vorher 1,5, plus ein größerer Manavorrat. Lohnt sich nur, wenn Mana dein Problem ist.
 - **Kritische Trefferchance**: hält Flurry am Laufen, und auch Windfury-Treffer können kritisch sein.
 - **Spirit**: nützlicher, als es aussieht, weil Improved Stormstrike die Regeneration beim Zaubern aktiv hält.
 - **Zauberschaden**: Enhancement wirkt einige Zauber, also kann Ausrüstung mit Zaubermacht eine Verbesserung sein.

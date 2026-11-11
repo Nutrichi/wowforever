@@ -3,7 +3,7 @@ title: "Gids voor de Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "De Enhancement Shaman in WoW Forever: de build voor level 60, Stormstrike en Maelstrom Weapon, de rotatie, totems, mana, tanken, stats en races."
 short: "Enhancement Shaman"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Kan een Enhancement Shaman tanken in WoW Forever?"
     a: "In vroege dungeons wel. Er is geen echte taunt of verdedigende cooldown, en de build schaalt slecht naar het endgame. Rockbiter Weapon, Lightning Shield, Earth Shock, Anticipation en Spirit Weapons doen het werk."
   - q: "Welke stats heeft een Enhancement Shaman nodig?"
-    a: "Eerst wapenschade, dan hit naarmate level 60 dichterbij komt, Strength en Intellect, critical strike chance, Spirit en spell damage. Intellect geeft attack power via Mental Dexterity en ook een grotere manapool."
+    a: "Eerst wapenschade, dan Strength, hit naarmate level 60 dichterbij komt, critical strike chance, Intellect en Spirit. Sinds 10 november wint Strength duidelijk van Intellect: Mental Dexterity zet Intellect hoogstens voor 100% om in attack power."
   - q: "Welk ras is het beste voor een Enhancement Shaman?"
     a: "Dwarf is de enige Shaman bij de Alliance. Bij de Horde is Orc de sterkste keuze dankzij Blood Fury, en Windshaper Skyborne krijgt 2% haste."
   - q: "Is er een build voor level 60?"
@@ -29,6 +29,8 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
+> **Update 11 november:** de hotfix van 10 november veranderde Stormstrike, Mental Dexterity en Maelstrom Weapon, en een weapon imbue werkt nu naast een wapentotem. Deze gids volgt de nieuwe waarden, meer in [onze post](/nl/news/enhancement-shamans-turn-back-to-windfury/).
+
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/).
 
 De Enhancement Shaman in WoW Forever vecht in melee en mengt er spells door. Een traag tweehandig wapen met Windfury Weapon levert de grote klappen, terwijl Stormstrike en Maelstrom Weapon Lightning Bolt aan de rotatie toevoegen. Totems maken je welkom in elke groep. Deze gids behandelt de build voor level 60, de belangrijkste talenten, de rotatie, totems, mana, tanken, stats en races.
@@ -103,18 +105,18 @@ De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in d
 | Talent | Wat het doet in Forever |
 |---|---|
 | **Thundering Strikes** | 5% meer critical strike chance met alle spells en aanvallen |
-| **Mental Dexterity** | Attack power gelijk aan 150% van je Intellect |
+| **Mental Dexterity** | Attack power gelijk aan 33, 66 of 100% van je Intellect |
 | **Ancestral Knowledge** | Op 2/5: 4% meer Intellect, die Mental Dexterity omzet in meer attack power |
 | **Elemental Weapons** | Rockbiter Weapon 20% meer attack power, Windfury Weapon 40% sterker, Flametongue en Frostbrand Weapon 15% meer damage |
 | **Shamanistic Focus** | Shocks en Lightning Shield kosten 45% minder mana |
 | **Flurry** | 30% meer attack speed voor 3 slagen na een melee critical strike |
-| **Stormstrike** | Instant slag met 150% wapenschade. Je volgende Lightning Bolt, Chain Lightning of Earth Shock doet binnen 12 seconden 20% meer damage. Cooldown 6 seconden |
+| **Stormstrike** | Instant slag met 100% wapenschade. Je volgende Lightning Bolt, Chain Lightning of Earth Shock doet binnen 12 seconden 20% meer damage. Cooldown 8 seconden |
 | **Mental Quickness** | Spell damage en healing gelijk aan 30% van je Intellect |
 | **Improved Stormstrike** | Stormstrike geeft 15 seconden 50% manaregeneratie tijdens het casten. Een dodge of parry zet de cooldown terug |
-| **Maelstrom Weapon** | Meleeslagen kunnen de casttijd en manakost van je volgende Lightning Bolt verlagen, tot 5 stacks. 4% per stack op 1/5, 20% per stack op 5/5 |
+| **Maelstrom Weapon** | Meleeslagen kunnen je volgende Lightning Bolt 20% sneller en goedkoper maken per stack, tot 5 stacks. Meer punten geven meer procs: 6 per minuut op 1/5, 10 op 5/5 |
 | **Rage of the Farseer** | Het onderste talent van de boom: 25 seconden 30% meer attack speed, cooldown 3 minuten |
 
-Maelstrom Weapon vraagt veel punten voor het een gratis, instant Lightning Bolt wordt.
+Elke stack is op elke rank 20% waard, maar met minder punten procct hij minder vaak. Een traag wapen geeft een hogere kans per slag: met 5 punten 60% bij snelheid 3.6 en 33% bij 2.0.
 
 ## Rotatie
 
@@ -150,7 +152,7 @@ Zonder mana heb je nog je gewone slagen, maar je damage zakt sterk tot de mana t
 
 - **Call of the Elements** en de andere Call-spells zetten met één knop een opgeslagen set van vier totems neer. Ze hebben een casttijd.
 - **Totemic Recall** neemt je totems terug. **Totemic Call** brengt je actieve totems naar de plek waar je staat, met een cooldown van 30 seconden.
-- **Windfury Totem** is de beste meleebuff in het spel. Zonder de partybeperking werkt hij voor de hele raid. Windfury-effecten stapelen niet.
+- **Windfury Totem** is de beste meleebuff in het spel. Zonder de partybeperking werkt hij voor de hele raid. Sinds 10 november werkt hij naast je eigen weapon imbue, dus Windfury Weapon en Windfury Totem kunnen allebei procen.
 - **Tremor Totem** haalt fear, sleep en charm weg bij bondgenoten binnen bereik. Goede timing redt runs.
 - **Poison Cleansing Totem** en **Disease Cleansing Totem** halen per puls één effect weg.
 - **Earthbind Totem** vertraagt vijanden om te kiten.
@@ -169,14 +171,14 @@ Tanken werkt tijdens het levelen, met nadelen: geen echte taunt, geen verdedigen
 
 ## Stats en gear
 
-> **Update 10 november:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> heeft nu +16 Strength in plaats van +12 Intellect, en een snelheid van 3.6, meer in [onze post](/nl/news/rage-of-the-storm-swaps-intellect-for-strength/). Blizzard maakt Strength ook de sterkste stat voor Enhancement en raadt aan om tijdens het levelen gear met Strength en attack power te verzamelen. De tips over Intellect en spell power hieronder veranderen zodra dat deel van de hotfix in het spel zit, meer in [de aankondiging](/nl/news/hunter-and-warlock-pets-get-tougher-on-tuesday/).
+> **Update 10 november:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> heeft nu +16 Strength in plaats van +12 Intellect, en een snelheid van 3.6, meer in [onze post](/nl/news/rage-of-the-storm-swaps-intellect-for-strength/). Strength is nu de sterkste stat voor Enhancement, meer in [de post over de hotfix](/nl/news/enhancement-shamans-turn-back-to-windfury/).
 
 Stat-prioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
 
 - **Wapenschade**: je grootste bron van schaling, via Stormstrike en Windfury.
 - **Hit**: vroeg minder belangrijk, een hoge prioriteit rond level 60. Een gemiste vaardigheid verspilt damage en mana.
-- **Strength**: 2 attack power per punt.
-- **Intellect**: 1,5 attack power per punt met Mental Dexterity, plus een grotere manapool. Het kan Strength verslaan als mana je probleem is.
+- **Strength**: 2 attack power per punt, sinds 10 november je sterkste stat.
+- **Intellect**: 1 attack power per punt met Mental Dexterity op 3/3, was 1,5, plus een grotere manapool. Alleen de moeite als mana je probleem is.
 - **Critical strike chance**: houdt Flurry draaiende, en ook Windfury-slagen kunnen crit zijn.
 - **Spirit**: nuttiger dan het lijkt, want Improved Stormstrike houdt regeneratie actief tijdens het casten.
 - **Spell damage**: Enhancement cast aardig wat spells, dus gear met spell power kan een verbetering zijn.

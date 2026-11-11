@@ -3,7 +3,7 @@ title: "Hunter leveling guide for WoW Forever"
 metaTitle: "WoW Forever Hunter leveling guide: Beast Mastery, Marksmanship and Survival builds to 60"
 description: "How to level a Hunter in WoW Forever: the early levels, level 60 builds for Beast Mastery, Marksmanship and Survival, the rotation, key levels, the taming quest, weapons, gear, professions, pets, traps, tracking and Aspects."
 short: "Hunter leveling"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: en
 faq:
   - q: "What is the best spec to level a Hunter in WoW Forever?"
@@ -179,7 +179,7 @@ Level your professions alongside your Hunter, so you gather and craft at the rig
 
 ## Pets
 
-Your pet is the heart of the class. Keep an eye on where it stands, which abilities it uses and its cooldowns: that lets you respond to what a monster does, or avoid danger altogether. In Forever, your pet also gets the Camping buffs, as long as it is summoned while you sit at the campfire.
+Your pet is the heart of the class. Keep an eye on where it stands, which abilities it uses and its cooldowns: that lets you respond to what a monster does, or avoid danger altogether. In Forever, your pet also gets the Camping buffs, as long as it is summoned while you sit at the campfire. Since 10 November your pet has 115% of its normal health instead of 150%, which was a bug, [more in our post](/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 Pet abilities add utility, such as <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24423"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_vulture.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demoralizing Screech</a> and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7272"><img class="wf-wh__icon" src="/wh/ability_hibernation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Cloud</a>.
 

@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: de gids"
 metaTitle: "WoW Forever Beast Mastery Hunter: build voor level 60 en rotatie"
 description: "De Beast Mastery Hunter in WoW Forever: de build 31/20/0 voor level 60, Summon Hawk en Bestial Wrath, de rotatie op één doelwit en op groepen, pets, mana, stats en races."
 short: "Beast Mastery Hunter"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: nl
 manual: true
 faq:
@@ -137,6 +137,8 @@ De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in d
 ## Pets en mana
 
 Je pet is een groot deel van je schade, dus hou hem in leven en op het doelwit. Gebruik **Stay** en **Move To** om hem uit schade rondom te halen. Elke familie brengt andere abilities, zoals Demoralizing Screech of Dust Cloud, dus hou een paar pets in de stal en kies er per gevecht een.
+
+**Health van je pet.** Sinds 10 november heeft je pet 115% van zijn normale health; een bug gaf hem 150%. De Hawk van Summon Hawk doet ongeveer 80% meer meleeschade, [meer in onze post](/nl/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 **Mana.** Bestial Discipline laat de helft van je manaregeneratie doorlopen terwijl je cast. Droogvallen houdt je niet tegen om een gevecht af te maken, want je pet vecht door, maar het kost je wel schade. Sinds 10 november kosten Arcane Shot en Summon Hawk een vaste 11% van je basismana op elke rank, [meer in onze post](/nl/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
 

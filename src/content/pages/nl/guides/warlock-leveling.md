@@ -3,7 +3,7 @@ title: "Warlock levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Warlock levelgids: builds voor Affliction, Demonology en Destruction tot 60"
 description: "Zo level je een Warlock in WoW Forever: de eerste build, builds voor level 60 voor Affliction, Demonology en Destruction, de rotatie, de belangrijke levels, de classquests voor elke demon, wands, beroepen, Life Tap en Fear."
 short: "Warlock levelen"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: nl
 manual: true
 faq:
@@ -197,7 +197,7 @@ In Forever heeft Drain Soul een kans op een Soul Shard terwijl het een monster s
 De Warlock is de enige class met demonen, en elk heeft zijn eigen taak.
 
 - **Imp**: je eerste demon. Hij valt aan van op afstand en geeft je groep Stamina met Blood Pact. Na level 10 valt hij achter de andere, dus neem hem vooral mee in groep.
-- **Voidwalker**: je tank, met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3716"><img class="wf-wh__icon" src="/wh/spell_shadow_gathershadows.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Torment</a> om threat te pakken en Sacrifice voor een groot schild in nood. De veiligste keuze tegen meerdere monsters of monsters die hard slaan.
+- **Voidwalker**: je tank, met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3716"><img class="wf-wh__icon" src="/wh/spell_shadow_gathershadows.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Torment</a> om threat te pakken en Sacrifice voor een groot schild in nood. De veiligste keuze tegen meerdere monsters of monsters die hard slaan. Sinds 10 november heeft hij ongeveer 15% meer health, net als de Imp en de Succubus of Incubus, [meer in onze post](/nl/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 - **Succubus of Incubus**: de meeste schade van alle demonen. Zonder Demonology-talenten houdt hij geen threat, maar dat telt weinig als je drain tankt. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6358"><img class="wf-wh__icon" src="/wh/spell_shadow_mindsteal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seduction</a> houdt een humanoid tot 15 seconden uit het gevecht.
 - **Felhunter**: onderbreekt en silencet casters met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19244"><img class="wf-wh__icon" src="/wh/spell_shadow_mindrot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spell Lock</a> en verwijdert magie met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19505"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Devour Magic</a>. Ideaal voor PvP, en met Demonology-talenten doet hij bijna evenveel schade als de Succubus.
 

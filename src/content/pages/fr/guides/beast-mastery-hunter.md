@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter dans WoW Forever : le guide"
 metaTitle: "WoW Forever Beast Mastery Hunter : build niveau 60 et rotation"
 description: "Le Beast Mastery Hunter dans WoW Forever : le build 31/20/0 pour le niveau 60, Summon Hawk et Bestial Wrath, la rotation mono-cible et multi-cibles, les familiers, le mana, les stats et les races."
 short: "Beast Mastery Hunter"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: fr
 manual: true
 faq:
@@ -137,6 +137,8 @@ Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir 
 ## Familiers et mana
 
 Votre familier fait une grande partie de vos dégâts, gardez-le en vie et sur la cible. Utilisez **Stay** et **Move To** pour le sortir des dégâts de zone. Chaque famille apporte d'autres techniques, comme Demoralizing Screech ou Dust Cloud, gardez donc quelques familiers à l'écurie et choisissez-en un par combat.
+
+**Vie du familier.** Depuis le 10 novembre, votre familier a 115 % de ses points de vie normaux ; un bug lui en donnait 150 %. Le Hawk de Summon Hawk inflige environ 80 % de dégâts de mêlée en plus, [plus de détails dans notre article](/fr/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 **Mana.** Bestial Discipline garde la moitié de votre régénération de mana pendant l'incantation. Être à sec ne vous empêche pas de finir un combat, car votre familier continue, mais cela coûte des dégâts. Depuis le 10 novembre, Arcane Shot et Summon Hawk coûtent 11 % fixes de votre mana de base à chaque rang, [plus de détails dans notre article](/fr/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
 

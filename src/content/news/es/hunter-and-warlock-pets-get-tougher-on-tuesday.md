@@ -17,6 +17,8 @@ Blizzard prepara los primeros hotfixes de clases desde el lanzamiento de World o
 
 **Actualización del 10 de noviembre:** los primeros cambios ya están activos: [Wrack, Soul Siphon, el Imp y dos disparos del Hunter](/es/news/wrack-makes-affliction-dots-tick-twice-as-fast/), y la [maza de misión de Enhancement con Strength](/es/news/rage-of-the-storm-swaps-intellect-for-strength/).
 
+**Actualización del 11 de noviembre:** el resto también ha llegado: [salud de las mascotas y el Hawk](/es/news/hunter-pets-lose-health-and-warlock-pets-gain-it/) y el [rediseño de Enhancement](/es/news/enhancement-shamans-turn-back-to-windfury/).
+
 ## Mascotas y Voidwalkers
 
 Las mascotas de los Hunters y el Voidwalker del Warlock no aguantan como tanques tanto como Blizzard quiere. El objetivo es que funcionen más o menos igual que en Classic Era, y Blizzard ajustará sus stats para lograrlo.

@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Actualización del 11 de noviembre:** el depósito mínimo de 1 cobre está activo desde el hotfix del 10 de noviembre, más en [nuestra noticia](/es/news/racial-vendor-mounts-become-bind-on-pickup/).
+
 El depósito mínimo de 1 de plata por subasta en World of Warcraft: Forever va a desaparecer. El principal game designer Kris Zierhut dice en una entrevista que el mínimo vuelve a 1 de cobre. Cuándo, no lo dice: aún no, pero pronto.
 
 > Maybe the minimum price on the Auction House should be 1 Copper, and not 1 Silver for deposits. We were just talking about that one earlier today and after talking about it with people more, yes, we're changing it back to one copper as the minimum deposit. That's coming. Not yet, but coming.

@@ -3,7 +3,7 @@ title: "Restoration Druid: de healgids voor WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talenten, macro's en FAQ"
 description: "De Restoration Druid in WoW Forever: wat er verandert voor de healer, sterktes en zwaktes, de standaardbuild 11/0/40, Dual Specialization, nuttige macro's, unit frames en de meest gestelde vragen."
 short: "Restoration Druid"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: nl
 manual: true
 faq:
@@ -116,7 +116,7 @@ Sommige voorwaarden in macro's werkten op de beta niet zoals verwacht. De modern
 /use [@mouseover,help,nodead][@target,help,nodead][@player] SpellName
 ```
 
-**Noodheal.** Stopt wat je doet en cast een directe Healing Touch met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Door een bug op de beta moest je er soms meer dan één keer op drukken.
+**Noodheal.** Stopt wat je doet en cast een directe Healing Touch met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Door een bug op de beta moest je er soms meer dan één keer op drukken. Sinds 10 november maakt Nature's Swiftness ook Wild Growth instant, [meer in onze post](/nl/news/racial-vendor-mounts-become-bind-on-pickup/).
 
 ```
 #showtooltip

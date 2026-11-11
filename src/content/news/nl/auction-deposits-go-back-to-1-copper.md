@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 11 november:** de minimale borg van 1 koper is live sinds de hotfix van 10 november, meer in [onze post](/nl/news/racial-vendor-mounts-become-bind-on-pickup/).
+
 De minimumborg van 1 zilver per veiling in World of Warcraft: Forever verdwijnt. Principal game designer Kris Zierhut zegt in een interview dat de ondergrens teruggaat naar 1 koper. Wanneer, zegt hij niet: nog niet, maar binnenkort.
 
 > Maybe the minimum price on the Auction House should be 1 Copper, and not 1 Silver for deposits. We were just talking about that one earlier today and after talking about it with people more, yes, we're changing it back to one copper as the minimum deposit. That's coming. Not yet, but coming.

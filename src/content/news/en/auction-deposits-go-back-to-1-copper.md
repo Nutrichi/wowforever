@@ -12,6 +12,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Update 11 November:** the minimum deposit of 1 copper is live since the hotfix of 10 November, more in [our post](/news/racial-vendor-mounts-become-bind-on-pickup/).
+
 The minimum deposit of 1 silver per auction in World of Warcraft: Forever is going away. Principal game designer Kris Zierhut says in an interview that the floor goes back to 1 copper. When, he does not say: not yet, but soon.
 
 > Maybe the minimum price on the Auction House should be 1 Copper, and not 1 Silver for deposits. We were just talking about that one earlier today and after talking about it with people more, yes, we're changing it back to one copper as the minimum deposit. That's coming. Not yet, but coming.

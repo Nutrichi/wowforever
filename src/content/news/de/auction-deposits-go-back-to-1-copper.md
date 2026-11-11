@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update vom 11. November:** Die Mindestgebühr von 1 Kupfer gilt seit dem Hotfix vom 10. November, mehr in [unserem Beitrag](/de/news/racial-vendor-mounts-become-bind-on-pickup/).
+
 Das Mindestpfand von 1 Silber pro Auktion in World of Warcraft: Forever fällt weg. Principal Game Designer Kris Zierhut sagt in einem Interview, dass die Untergrenze auf 1 Kupfer zurückgeht. Wann, sagt er nicht: noch nicht, aber bald.
 
 > Maybe the minimum price on the Auction House should be 1 Copper, and not 1 Silver for deposits. We were just talking about that one earlier today and after talking about it with people more, yes, we're changing it back to one copper as the minimum deposit. That's coming. Not yet, but coming.

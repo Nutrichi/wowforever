@@ -3,7 +3,7 @@ title: "Restoration Druid: the healing guide for WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talents, macros and FAQ"
 description: "The Restoration Druid in WoW Forever: what changes for the healer, strengths and weaknesses, the standard 11/0/40 build, Dual Specialization, useful macros, unit frames and the most asked questions."
 short: "Restoration Druid"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: en
 faq:
   - q: "What is the best talent build for a Restoration Druid in WoW Forever?"
@@ -115,7 +115,7 @@ Some macro conditions did not work as expected on the beta. The modern client al
 /use [@mouseover,help,nodead][@target,help,nodead][@player] SpellName
 ```
 
-**Emergency heal.** Stops what you are doing and casts an instant Healing Touch with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Because of a bug on the beta, it could need more than one press.
+**Emergency heal.** Stops what you are doing and casts an instant Healing Touch with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Because of a bug on the beta, it could need more than one press. Since 10 November, Nature's Swiftness also makes Wild Growth instant, [more in our post](/news/racial-vendor-mounts-become-bind-on-pickup/).
 
 ```
 #showtooltip

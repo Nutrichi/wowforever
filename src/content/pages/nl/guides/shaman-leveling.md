@@ -3,7 +3,7 @@ title: "Levelgids voor de Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman levelen: Enhancement, Elemental en Resto"
 description: "Zo level je een Shaman in WoW Forever: builds voor level 60 voor Enhancement, Elemental en Restoration, belangrijke levels, de totemquests, de wapens van Call of Air en zones."
 short: "Shaman levelen"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: nl
 manual: true
 faq:
@@ -57,7 +57,7 @@ Je vecht met Lightning Bolt op afstand en Rockbiter Weapon voor je melee-slagen.
 4. Cast nog een Lightning Bolt als het monster nog niet in melee is en je mana het toelaat.
 5. Maak het af in melee.
 
-Stoneclaw Totem en Earthbind Totem helpen als een pull misloopt. Stats in het begin: spell damage, dan Strength, dan Intellect, dan Stamina en Spirit, dan armor.
+Stoneclaw Totem en Earthbind Totem helpen als een pull misloopt. Stats in het begin: spell damage, dan Strength, dan Intellect, dan Stamina en Spirit, dan armor. Wil je als Enhancement levelen? Hou de Strength-gear bij die je vindt: sinds 10 november is Strength duidelijk de beste stat, meer in [onze post](/nl/news/enhancement-shamans-turn-back-to-windfury/).
 
 ## Talentbuilds
 

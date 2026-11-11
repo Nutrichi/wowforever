@@ -3,7 +3,7 @@ title: "Livellare un Hunter in WoW Forever: la guida"
 metaTitle: "Guida al leveling dell'Hunter in WoW Forever: build Beast Mastery, Marksmanship e Survival fino al 60"
 description: "Come livellare un Hunter in WoW Forever: i primi livelli, build di livello 60 per Beast Mastery, Marksmanship e Survival, la rotazione, i livelli chiave, la missione di addomesticamento, armi, equipaggiamento, professioni, famigli, trappole, tracciamento e Aspect."
 short: "Leveling Hunter"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: it
 manual: true
 faq:
@@ -180,7 +180,7 @@ Livella le professioni insieme al tuo Hunter, per raccogliere e creare al livell
 
 ## Famigli
 
-Il famiglio è il cuore della classe. Tieni d’occhio dove si trova, quali abilità usa e le sue ricariche: così puoi reagire a quello che fa un mostro, o evitare del tutto il pericolo. In Forever il famiglio riceve anche i buff del Camping, purché sia evocato mentre sei seduto al falò.
+Il famiglio è il cuore della classe. Tieni d’occhio dove si trova, quali abilità usa e le sue ricariche: così puoi reagire a quello che fa un mostro, o evitare del tutto il pericolo. In Forever il famiglio riceve anche i buff del Camping, purché sia evocato mentre sei seduto al falò. Dal 10 novembre il tuo famiglio ha il 115% della sua salute normale invece del 150%, che era un bug, [di più nel nostro articolo](/it/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 Le abilità dei famigli aggiungono utilità, come <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24423"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_vulture.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demoralizing Screech</a> e <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7272"><img class="wf-wh__icon" src="/wh/ability_hibernation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Cloud</a>.
 

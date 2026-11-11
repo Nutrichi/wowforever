@@ -3,7 +3,7 @@ title: "Hunter leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Hunter-Levelguide: Builds für Beast Mastery, Marksmanship und Survival bis 60"
 description: "Einen Hunter leveln in WoW Forever: die ersten Level, Builds für Level 60 für Beast Mastery, Marksmanship und Survival, die Rotation, wichtige Level, die Zähmungsquest, Waffen, Ausrüstung, Berufe, Begleiter, Fallen, Aufspüren und Aspects."
 short: "Hunter leveln"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: de
 manual: true
 faq:
@@ -180,7 +180,7 @@ Level deine Berufe zusammen mit deinem Hunter, damit du auf dem richtigen Level 
 
 ## Begleiter
 
-Dein Begleiter ist das Herz der Klasse. Achte darauf, wo er steht, welche Fähigkeiten er nutzt und auf seine Abklingzeiten: So kannst du auf das reagieren, was ein Monster tut, oder Gefahr ganz vermeiden. In Forever bekommt dein Begleiter auch die Buffs vom Camping, solange er beschworen ist, während du am Lagerfeuer sitzt.
+Dein Begleiter ist das Herz der Klasse. Achte darauf, wo er steht, welche Fähigkeiten er nutzt und auf seine Abklingzeiten: So kannst du auf das reagieren, was ein Monster tut, oder Gefahr ganz vermeiden. In Forever bekommt dein Begleiter auch die Buffs vom Camping, solange er beschworen ist, während du am Lagerfeuer sitzt. Seit dem 10. November hat dein Begleiter 115 % seiner normalen Gesundheit statt 150 %, die von einem Bug kamen, [mehr in unserem Beitrag](/de/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 Begleiterfähigkeiten bringen zusätzlichen Nutzen, etwa <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24423"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_vulture.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demoralizing Screech</a> und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7272"><img class="wf-wh__icon" src="/wh/ability_hibernation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Cloud</a>.
 

@@ -3,7 +3,7 @@ title: "Monter un Hunter dans WoW Forever : le guide"
 metaTitle: "Guide leveling Hunter WoW Forever : builds Beast Mastery, Marksmanship et Survival jusqu'au 60"
 description: "Monter un Hunter dans WoW Forever : les premiers niveaux, builds niveau 60 pour Beast Mastery, Marksmanship et Survival, la rotation, les niveaux clés, la quête de dressage, les armes, l’équipement, les métiers, les familiers, les pièges, le pistage et les Aspects."
 short: "Leveling Hunter"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: fr
 manual: true
 faq:
@@ -180,7 +180,7 @@ Montez vos métiers en même temps que votre Hunter, pour récolter et fabriquer
 
 ## Familiers
 
-Votre familier est le cœur de la classe. Surveillez sa position, ses techniques et ses temps de recharge : vous pouvez ainsi réagir à ce que fait un monstre, ou éviter le danger. Dans Forever, votre familier profite aussi des buffs de Camping, s’il est invoqué pendant que vous êtes assis au feu de camp.
+Votre familier est le cœur de la classe. Surveillez sa position, ses techniques et ses temps de recharge : vous pouvez ainsi réagir à ce que fait un monstre, ou éviter le danger. Dans Forever, votre familier profite aussi des buffs de Camping, s’il est invoqué pendant que vous êtes assis au feu de camp. Depuis le 10 novembre, votre familier a 115 % de ses points de vie normaux au lieu de 150 %, qui venaient d'un bug, [plus de détails dans notre article](/fr/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 Les techniques de familier apportent de l’utilité, comme <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24423"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_vulture.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demoralizing Screech</a> et <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7272"><img class="wf-wh__icon" src="/wh/ability_hibernation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Cloud</a>.
 

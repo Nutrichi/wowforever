@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Aggiornamento dell'11 novembre:** il deposito minimo di 1 rame è attivo dall'hotfix del 10 novembre, di più nel [nostro articolo](/it/news/racial-vendor-mounts-become-bind-on-pickup/).
+
 Il deposito minimo di 1 argento per asta in World of Warcraft: Forever sta per sparire. Il principal game designer Kris Zierhut dice in un'intervista che la soglia torna a 1 rame. Quando, non lo dice: non ancora, ma presto.
 
 > Maybe the minimum price on the Auction House should be 1 Copper, and not 1 Silver for deposits. We were just talking about that one earlier today and after talking about it with people more, yes, we're changing it back to one copper as the minimum deposit. That's coming. Not yet, but coming.

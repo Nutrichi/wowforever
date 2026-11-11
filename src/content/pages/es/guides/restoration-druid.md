@@ -3,7 +3,7 @@ title: "Restoration Druid: la guía de sanación para WoW Forever"
 metaTitle: "Restoration Druid en WoW Forever: build, talentos, macros y FAQ"
 description: "El Restoration Druid en WoW Forever: qué cambia para el sanador, puntos fuertes y débiles, la build estándar 11/0/40, la Dual Specialization, macros útiles, marcos de unidad y las preguntas más frecuentes."
 short: "Restoration Druid"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: es
 manual: true
 faq:
@@ -116,7 +116,7 @@ Algunas condiciones de macro no funcionaban como deberían en la beta. El client
 /use [@mouseover,help,nodead][@target,help,nodead][@player] SpellName
 ```
 
-**Sanación de emergencia.** Detiene lo que haces y lanza un Healing Touch instantáneo con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Por un error de la beta, podía hacer falta pulsar más de una vez.
+**Sanación de emergencia.** Detiene lo que haces y lanza un Healing Touch instantáneo con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Por un error de la beta, podía hacer falta pulsar más de una vez. Desde el 10 de noviembre, Nature's Swiftness también hace instantáneo Wild Growth, [más en nuestra noticia](/es/news/racial-vendor-mounts-become-bind-on-pickup/).
 
 ```
 #showtooltip

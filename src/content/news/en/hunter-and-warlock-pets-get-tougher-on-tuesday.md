@@ -16,6 +16,8 @@ Blizzard is preparing the first class hotfixes since the launch of World of Warc
 
 **Update 10 November:** the first changes are live: [Wrack, Soul Siphon, the Imp and two Hunter shots](/news/wrack-makes-affliction-dots-tick-twice-as-fast/), and the [Enhancement quest mace with Strength](/news/rage-of-the-storm-swaps-intellect-for-strength/).
 
+**Update 11 November:** the rest is in too: [pet health and the Hawk](/news/hunter-pets-lose-health-and-warlock-pets-gain-it/) and the [Enhancement rework](/news/enhancement-shamans-turn-back-to-windfury/).
+
 ## Pets and Voidwalkers
 
 Hunter pets and the Warlock's Voidwalker do not hold up as well as tanks as Blizzard wants. The goal is that they work about as well as in Classic Era, and Blizzard will adjust their stats to get there.

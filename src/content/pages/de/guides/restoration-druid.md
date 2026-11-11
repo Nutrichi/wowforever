@@ -3,7 +3,7 @@ title: "Restoration Druid: der Heilguide für WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: Build, Talente, Makros und FAQ"
 description: "Der Restoration Druid in WoW Forever: was sich für den Heiler ändert, Stärken und Schwächen, der Standardbuild 11/0/40, Dual Specialization, nützliche Makros, Unit Frames und die häufigsten Fragen."
 short: "Restoration Druid"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: de
 manual: true
 faq:
@@ -116,7 +116,7 @@ Manche Makrobedingungen funktionierten auf der Beta nicht wie erwartet. Der mode
 /use [@mouseover,help,nodead][@target,help,nodead][@player] SpellName
 ```
 
-**Notheilung.** Bricht ab, was ihr gerade tut, und wirkt ein sofortiges Healing Touch mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Wegen eines Bugs auf der Beta brauchte es manchmal mehr als einen Druck.
+**Notheilung.** Bricht ab, was ihr gerade tut, und wirkt ein sofortiges Healing Touch mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a>. Wegen eines Bugs auf der Beta brauchte es manchmal mehr als einen Druck. Seit dem 10. November macht Nature's Swiftness auch Wild Growth sofort, [mehr in unserem Beitrag](/de/news/racial-vendor-mounts-become-bind-on-pickup/).
 
 ```
 #showtooltip

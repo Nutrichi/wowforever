@@ -17,6 +17,8 @@ Blizzard bereitet die ersten Klassen-Hotfixes seit dem Start von World of Warcra
 
 **Update vom 10. November:** Die ersten Änderungen sind live: [Wrack, Soul Siphon, der Imp und zwei Hunter-Schüsse](/de/news/wrack-makes-affliction-dots-tick-twice-as-fast/) sowie der [Enhancement-Questkolben mit Strength](/de/news/rage-of-the-storm-swaps-intellect-for-strength/).
 
+**Update vom 11. November:** Der Rest ist jetzt auch da: [Gesundheit der Pets und der Hawk](/de/news/hunter-pets-lose-health-and-warlock-pets-gain-it/) sowie der [Umbau von Enhancement](/de/news/enhancement-shamans-turn-back-to-windfury/).
+
 ## Pets und Voidwalker
 
 Pets von Huntern und der Voidwalker des Warlocks halten als Tank nicht so viel aus, wie Blizzard es möchte. Ziel ist, dass sie ungefähr so gut funktionieren wie in Classic Era, und Blizzard passt ihre Werte dafür an.

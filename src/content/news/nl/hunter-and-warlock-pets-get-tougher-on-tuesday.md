@@ -17,6 +17,8 @@ Blizzard bereidt de eerste classhotfixes voor sinds de launch van World of Warcr
 
 **Update 10 november:** de eerste wijzigingen zijn live: [Wrack, Soul Siphon, de Imp en twee Hunter-shots](/nl/news/wrack-makes-affliction-dots-tick-twice-as-fast/), en de [questknots van Enhancement met Strength](/nl/news/rage-of-the-storm-swaps-intellect-for-strength/).
 
+**Update 11 november:** de rest is er ook: [health van pets en de Hawk](/nl/news/hunter-pets-lose-health-and-warlock-pets-gain-it/) en de [ombouw van Enhancement](/nl/news/enhancement-shamans-turn-back-to-windfury/).
+
 ## Pets en Voidwalkers
 
 Pets van Hunters en de Voidwalker van de Warlock houden als tank minder goed stand dan Blizzard wil. Het doel is dat ze ongeveer even goed werken als in Classic Era, en Blizzard past hun stats daarvoor aan.

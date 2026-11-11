@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter guide for WoW Forever"
 metaTitle: "WoW Forever Beast Mastery Hunter: level 60 build and rotation"
 description: "The Beast Mastery Hunter in WoW Forever: the 31/20/0 build for level 60, Summon Hawk and Bestial Wrath, the single target and AoE rotation, pets, mana, stats and races."
 short: "Beast Mastery Hunter"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: en
 faq:
   - q: "Is Beast Mastery Hunter good in WoW Forever?"
@@ -136,6 +136,8 @@ The PvP build trades damage for control and survival. [Open the PvP build in the
 ## Pets and mana
 
 Your pet is a large share of your damage, so keep it alive and on the target. Use **Stay** and **Move To** to pull it out of area damage. Different pet families bring different abilities, such as Demoralizing Screech or Dust Cloud, so keep a few pets in the stable and pick one per fight.
+
+**Pet health.** Since 10 November your pet has 115% of its normal health; a bug had given it 150%. The Hawk of Summon Hawk deals about 80% more melee damage, [more in our post](/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 **Mana.** Bestial Discipline keeps half of your mana regeneration going while you cast. Running dry does not stop you from finishing a fight, because your pet keeps fighting, but it does cost you damage. Since 10 November, Arcane Shot and Summon Hawk cost a flat 11% of your base mana at every rank, [more in our post](/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
 

@@ -3,7 +3,7 @@ title: "Guide de leveling du Shaman dans WoW Forever"
 metaTitle: "WoW Forever leveling Shaman : Enhancement, Elemental et Resto"
 description: "Monter un Shaman dans WoW Forever : builds niveau 60 pour Enhancement, Elemental et Restoration, niveaux clés, quêtes de totems, armes de Call of Air et zones."
 short: "Leveling Shaman"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: fr
 manual: true
 faq:
@@ -57,7 +57,7 @@ Vous combattez avec Lightning Bolt à distance et Rockbiter Weapon pour vos coup
 4. Lancez un autre Lightning Bolt si le monstre n'est pas encore au contact et que votre mana le permet.
 5. Achevez-le en mêlée.
 
-Stoneclaw Totem et Earthbind Totem aident quand un pull tourne mal. Stats au début : dégâts des sorts, puis Force, puis Intelligence, puis Endurance et Esprit, puis armure.
+Stoneclaw Totem et Earthbind Totem aident quand un pull tourne mal. Stats au début : dégâts des sorts, puis Force, puis Intelligence, puis Endurance et Esprit, puis armure. Vous comptez monter en Enhancement ? Gardez l'équipement avec Force que vous trouvez : depuis le 10 novembre, la Force est nettement sa meilleure stat, plus de détails dans [notre article](/fr/news/enhancement-shamans-turn-back-to-windfury/).
 
 ## Les builds de talents
 

@@ -3,7 +3,7 @@ title: "Subir un Warlock en WoW Forever: la guía"
 metaTitle: "Guía de subida del Warlock en WoW Forever: builds de Affliction, Demonology y Destruction hasta el 60"
 description: "Cómo subir un Warlock en WoW Forever: el primer build, builds de nivel 60 para Affliction, Demonology y Destruction, la rotación, los niveles clave, las misiones de clase para cada demonio, varitas, profesiones, Life Tap y Fear."
 short: "Subida del Warlock"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: es
 manual: true
 faq:
@@ -197,7 +197,7 @@ En Forever, Drain Soul tiene una probabilidad de dar un Soul Shard mientras hace
 El Warlock es la única clase con demonios, y cada uno tiene su tarea.
 
 - **Imp**: tu primer demonio. Ataca a distancia y da Stamina a tu grupo con Blood Pact. Después del nivel 10 se queda atrás frente a los demás, así que llévalo sobre todo en grupo.
-- **Voidwalker**: tu tanque, con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3716"><img class="wf-wh__icon" src="/wh/spell_shadow_gathershadows.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Torment</a> para quedarse la amenaza y Sacrifice para un gran escudo en un apuro. La opción más segura contra varios monstruos o monstruos que pegan fuerte.
+- **Voidwalker**: tu tanque, con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3716"><img class="wf-wh__icon" src="/wh/spell_shadow_gathershadows.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Torment</a> para quedarse la amenaza y Sacrifice para un gran escudo en un apuro. La opción más segura contra varios monstruos o monstruos que pegan fuerte. Desde el 10 de noviembre tiene alrededor de un 15% más de salud, igual que el Imp y la Succubus o el Incubus, [más en nuestra noticia](/es/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 - **Succubus o Incubus**: el que más daño hace de todos los demonios. Sin talentos de Demonology no sujeta la amenaza, pero eso importa poco con drain tanking. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6358"><img class="wf-wh__icon" src="/wh/spell_shadow_mindsteal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Seduction</a> saca a un humanoide del combate hasta 15 segundos.
 - **Felhunter**: interrumpe y silencia a los lanzadores con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19244"><img class="wf-wh__icon" src="/wh/spell_shadow_mindrot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spell Lock</a> y quita magia con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19505"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Devour Magic</a>. Ideal para PvP, y con talentos de Demonology hace casi tanto daño como la Succubus.
 

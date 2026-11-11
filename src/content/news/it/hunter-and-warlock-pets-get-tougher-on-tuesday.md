@@ -17,6 +17,8 @@ Blizzard prepara i primi hotfix di classe dal lancio di World of Warcraft: Forev
 
 **Aggiornamento del 10 novembre:** le prime modifiche sono attive: [Wrack, Soul Siphon, l'Imp e due tiri dello Hunter](/it/news/wrack-makes-affliction-dots-tick-twice-as-fast/), e la [mazza della missione dell'Enhancement con Strength](/it/news/rage-of-the-storm-swaps-intellect-for-strength/).
 
+**Aggiornamento dell'11 novembre:** è arrivato anche il resto: [salute dei pet e lo Hawk](/it/news/hunter-pets-lose-health-and-warlock-pets-gain-it/) e il [rifacimento dell'Enhancement](/it/news/enhancement-shamans-turn-back-to-windfury/).
+
 ## Pet e Voidwalker
 
 I pet degli Hunter e il Voidwalker del Warlock non reggono come tank quanto Blizzard vorrebbe. L'obiettivo è che funzionino più o meno come in Classic Era, e Blizzard regolerà le loro stats per arrivarci.

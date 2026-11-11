@@ -3,7 +3,7 @@ title: "Subir un Hunter en WoW Forever: la guía"
 metaTitle: "Guía de subida del Hunter en WoW Forever: builds de Beast Mastery, Marksmanship y Survival hasta el 60"
 description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, builds de nivel 60 para Beast Mastery, Marksmanship y Survival, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
 short: "Subir un Hunter"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: es
 manual: true
 faq:
@@ -180,7 +180,7 @@ Sube tus profesiones a la vez que tu Hunter, para recolectar y fabricar al nivel
 
 ## Mascotas
 
-Tu mascota es el corazón de la clase. Vigila dónde está, qué habilidades usa y sus reutilizaciones: así puedes reaccionar a lo que hace un monstruo, o evitar el peligro del todo. En Forever tu mascota también recibe los buffs de Camping, siempre que esté invocada mientras te sientas junto a la hoguera.
+Tu mascota es el corazón de la clase. Vigila dónde está, qué habilidades usa y sus reutilizaciones: así puedes reaccionar a lo que hace un monstruo, o evitar el peligro del todo. En Forever tu mascota también recibe los buffs de Camping, siempre que esté invocada mientras te sientas junto a la hoguera. Desde el 10 de noviembre tu mascota tiene el 115% de su salud normal en lugar del 150%, que era un error, [más en nuestra noticia](/es/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 Las habilidades de mascota añaden utilidad, como <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24423"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_vulture.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demoralizing Screech</a> y <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7272"><img class="wf-wh__icon" src="/wh/ability_hibernation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Cloud</a>.
 

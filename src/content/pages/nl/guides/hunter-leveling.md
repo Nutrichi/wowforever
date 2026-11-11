@@ -3,7 +3,7 @@ title: "Hunter levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Hunter-levelgids: builds voor Beast Mastery, Marksmanship en Survival tot 60"
 description: "Een Hunter levelen in WoW Forever: de eerste levels, builds voor level 60 voor Beast Mastery, Marksmanship en Survival, de rotatie, de belangrijke levels, de temquest, wapens, gear, beroepen, pets, traps, tracking en Aspects."
 short: "Hunter levelen"
-updated: 2026-11-07
+updated: 2026-11-11
 lang: nl
 manual: true
 faq:
@@ -180,7 +180,7 @@ Level je beroepen samen met je Hunter, zodat je op het juiste level verzamelt en
 
 ## Pets
 
-Je pet is het hart van de class. Let op waar hij staat, welke abilities hij gebruikt en zijn cooldowns: zo kun je reageren op wat een monster doet, of gevaar helemaal vermijden. In Forever krijgt je pet ook de buffs van Camping, zolang hij opgeroepen is terwijl je bij het kampvuur zit.
+Je pet is het hart van de class. Let op waar hij staat, welke abilities hij gebruikt en zijn cooldowns: zo kun je reageren op wat een monster doet, of gevaar helemaal vermijden. In Forever krijgt je pet ook de buffs van Camping, zolang hij opgeroepen is terwijl je bij het kampvuur zit. Sinds 10 november heeft je pet 115% van zijn normale health in plaats van 150%, wat een bug was, [meer in onze post](/nl/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 Petabilities brengen extra utility, zoals <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24423"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_vulture.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demoralizing Screech</a> en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7272"><img class="wf-wh__icon" src="/wh/ability_hibernation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Cloud</a>.
 

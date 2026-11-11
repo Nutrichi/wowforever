@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: der Guide"
 metaTitle: "WoW Forever Beast Mastery Hunter: Build für Level 60 und Rotation"
 description: "Der Beast Mastery Hunter in WoW Forever: der Build 31/20/0 für Level 60, Summon Hawk und Bestial Wrath, die Rotation gegen ein Ziel und mehrere, Begleiter, Mana, Werte und Völker."
 short: "Beast Mastery Hunter"
-updated: 2026-11-10
+updated: 2026-11-11
 lang: de
 manual: true
 faq:
@@ -137,6 +137,8 @@ Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Tale
 ## Begleiter und Mana
 
 Dein Begleiter ist ein großer Teil deines Schadens, also halte ihn am Leben und am Ziel. Nutze **Stay** und **Move To**, um ihn aus Flächenschaden zu holen. Jede Familie bringt andere Fähigkeiten, wie Demoralizing Screech oder Dust Cloud, also halte ein paar Begleiter im Stall und wähl einen pro Kampf.
+
+**Gesundheit des Begleiters.** Seit dem 10. November hat dein Begleiter 115 % seiner normalen Gesundheit; ein Bug gab ihm 150 %. Der Hawk von Summon Hawk macht etwa 80 % mehr Nahkampfschaden, [mehr in unserem Beitrag](/de/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 **Mana.** Bestial Discipline hält die Hälfte deiner Manaregeneration beim Wirken aufrecht. Leerlaufen hindert dich nicht daran, einen Kampf zu beenden, weil dein Begleiter weiterkämpft, kostet aber Schaden. Seit dem 10. November kosten Arcane Shot und Summon Hawk auf jedem Rang feste 11 % deines Grundmanas, [mehr in unserem Beitrag](/de/news/wrack-makes-affliction-dots-tick-twice-as-fast/).
 
