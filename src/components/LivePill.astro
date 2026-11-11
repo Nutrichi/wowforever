@@ -10,11 +10,13 @@
  * en stuurt `max-age=60` mee, dus een bezoek dat van pagina naar pagina gaat,
  * vraagt het YouTube niet telkens opnieuw. Live: de knop verschijnt en wijst
  * naar de stream op YouTube. Niet live, geen antwoord of geen endpoint: niets.
- * Zolang het tabblad open en zichtbaar is, wordt het om de tien minuten
- * opnieuw gevraagd, zodat de knop ook komt en gaat zonder herladen. Het
- * antwoord blijft vijf minuten in localStorage en geldt dan voor elke pagina en
- * elk tabblad (Nutri, 10 november 2026: Supabase-limieten; tot dan om de twee
- * minuten en bij elke pagina opnieuw).
+ * Zolang het tabblad open en zichtbaar is, wordt het opnieuw gevraagd, zodat de
+ * knop ook komt en gaat zonder herladen. (10 november 2026 kort om de tien
+ * minuten met een cache van vijf minuten in localStorage; weer weg.)
+ *
+ * Sinds 11 november 2026 (Nutri, Supabase op 80%) staat de knop alleen nog op
+ * de homepage, Streams en de hoofdpagina van elke tab in het menu; daar wordt
+ * weer om de twee minuten gevraagd, zonder cache. Elders vraagt niets Supabase.
  *
  * Het rode bolletje is `--wf-danger`, de enige rode kleur in het palet.
  * "LIVE" is in elke taal hetzelfde woord; de schermlezer krijgt een zin.
@@ -133,34 +135,16 @@ const t = useTranslations(locale);
       upcoming?: { id: string; start: number } | null;
     };
 
-    // Eén vraag per bezoeker per vijf minuten, gedeeld over pagina's en tabbladen
-    // (Nutri, 10 november 2026: Supabase op 73% van de 500.000 aanroepen en 126%
-    // van de logs, omdat elke paginaweergave de Edge Function vroeg). Zonder
-    // localStorage (privévenster, geblokkeerd) gewoon zoals vroeger: elke pagina
-    // vraagt het zelf.
-    const KEY = 'wf-live';
-    const FRESH_MS = 5 * 60_000;
-    const cached = (): State | null => {
-      try {
-        const raw = localStorage.getItem(KEY);
-        if (!raw) return null;
-        const saved = JSON.parse(raw) as { at: number; data: State };
-        return Date.now() - saved.at < FRESH_MS ? saved.data : null;
-      } catch {
-        return null;
-      }
-    };
+    // Alleen op de homepage, Streams en de hoofdpagina van elke tab in het menu
+    // (Nutri, 11 november 2026, Supabase op 80% van de 500.000 aanroepen: "only
+    // show on homepage and stream ... Also put it on the main page of each tab of
+    // the menu"). Elders blijft de knop verborgen en wordt er niets gevraagd.
+    const MAIN = ['/', '/bis/', '/classes/', '/tradeskills/', '/talents/', '/reputations/', '/guides/', '/clips/', '/streams/'];
+    const path = (location.pathname.replace(/^\/(nl|fr|es|it|de)(?=\/|$)/, '') || '/').replace(/\/?$/, '/');
+    const asks = MAIN.includes(path);
     const load = async (): Promise<State> => {
-      const hit = cached();
-      if (hit) return hit;
       const response = await fetch(endpoint, { signal: AbortSignal.timeout(4_000) });
-      const data = await response.json() as State;
-      try {
-        localStorage.setItem(KEY, JSON.stringify({ at: Date.now(), data }));
-      } catch {
-        // Niet bewaren lukt niet: de volgende pagina vraagt het opnieuw.
-      }
-      return data;
+      return await response.json() as State;
     };
 
     const check = async () => {
@@ -182,9 +166,11 @@ const t = useTranslations(locale);
       }
     };
 
-    void check();
-    window.setInterval(() => {
-      if (document.visibilityState === 'visible') void check();
-    }, 600_000);
+    if (asks) {
+      void check();
+      window.setInterval(() => {
+        if (document.visibilityState === 'visible') void check();
+      }, 120_000);
+    }
   }
 </script>
