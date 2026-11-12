@@ -3,7 +3,7 @@ title: "Paladin leveling guide for WoW Forever"
 metaTitle: "WoW Forever Paladin leveling guide: Retribution, Protection and Shockadin builds to 60"
 description: "How to level a Paladin in WoW Forever: the early build, level 60 builds for Retribution, Protection and Shockadin, the rotation, key levels, the class quests and their weapons, seals, auras and blessings."
 short: "Paladin leveling"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: en
 faq:
   - q: "What is the best spec to level a Paladin in WoW Forever?"
@@ -85,7 +85,7 @@ For level 60, every spec guide has its own builds for raids, leveling and PvP: [
 | 30 | Divine Intervention, Seal of Light | Class trainer |
 | 34 | Divine Shield | Class trainer |
 | 38 | Seal of Wisdom | Class trainer |
-| 40 | Blessing of Light, riding, Dual Specialization | Trainers |
+| 40 | Blessing of Light, riding, Dual Specialization (50 gold) | Trainers |
 | 42 | Cleanse | Class trainer |
 | 44 | Hammer of Wrath | Class trainer |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6940"><img class="wf-wh__icon" src="/wh/spell_holy_sealofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Sacrifice</a> | Class trainer |
@@ -182,6 +182,8 @@ A seal is a buff on yourself for 30 seconds. Judgement unleashes it on the monst
 - **Seal of Justice** gives your swings a chance to stun. Its Judgement keeps a monster from fleeing at low health.
 - **Seal of Light** heals you a little on your swings. Its Judgement lets everyone who hits the monster in melee heal a little.
 - **Seal of Wisdom** restores some mana on your swings. Its Judgement lets attacks and spells against the monster restore mana.
+
+Since 11 November Judgement counts as a ranged attack. It no longer triggers procs that work on melee hits, and it uses your ranged hit chance, [more in our post](/news/judgement-now-counts-as-a-ranged-attack/).
 
 ## Auras
 

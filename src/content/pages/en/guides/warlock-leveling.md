@@ -3,7 +3,7 @@ title: "Warlock leveling guide for WoW Forever"
 metaTitle: "WoW Forever Warlock leveling guide: Affliction, Demonology and Destruction builds to 60"
 description: "How to level a Warlock in WoW Forever: the early build, level 60 builds for Affliction, Demonology and Destruction, the rotation, key levels, the class quests for every demon, wands, professions, Life Tap and Fear."
 short: "Warlock leveling"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: en
 faq:
   - q: "What is the best spec to level a Warlock in WoW Forever?"
@@ -95,7 +95,7 @@ For level 60, every spec guide has its own builds for raids, leveling and PvP: [
 | 32 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6229"><img class="wf-wh__icon" src="/wh/spell_shadow_antishadow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Ward</a> | Class trainer |
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2362"><img class="wf-wh__icon" src="/wh/inv_misc_gem_sapphire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Create Spellstone</a> | Class trainer |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5484"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Howl of Terror</a> | Class trainer |
-| 40 | riding, Dual Specialization | Trainers |
+| 40 | riding, Dual Specialization (50 gold) | Trainers |
 | 40 | Wrack, Demonic Pact, Incinerate | Talent tree |
 | 42 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6789"><img class="wf-wh__icon" src="/wh/spell_shadow_deathcoil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Death Coil</a> | Class trainer |
 

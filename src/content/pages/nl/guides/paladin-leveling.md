@@ -3,7 +3,7 @@ title: "Paladin levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Paladin levelgids: builds voor Retribution, Protection en Shockadin tot 60"
 description: "Zo level je een Paladin in WoW Forever: de eerste build, builds voor level 60 voor Retribution, Protection en Shockadin, de rotatie, de belangrijke levels, de classquests en hun wapens, seals, auras en blessings."
 short: "Paladin levelen"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -86,7 +86,7 @@ Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: 
 | 30 | Divine Intervention, Seal of Light | Classtrainer |
 | 34 | Divine Shield | Classtrainer |
 | 38 | Seal of Wisdom | Classtrainer |
-| 40 | Blessing of Light, riding, Dual Specialization | Trainers |
+| 40 | Blessing of Light, riding, Dual Specialization (50 goud) | Trainers |
 | 42 | Cleanse | Classtrainer |
 | 44 | Hammer of Wrath | Classtrainer |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6940"><img class="wf-wh__icon" src="/wh/spell_holy_sealofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Sacrifice</a> | Classtrainer |
@@ -183,6 +183,8 @@ Een seal is een buff op jezelf voor 30 seconden. Judgement ontketent hem op het 
 - **Seal of Justice** geeft je slagen een kans om te stunnen. Zijn Judgement houdt een monster tegen dat bij weinig health wil vluchten.
 - **Seal of Light** healt je een beetje bij je slagen. Zijn Judgement laat iedereen die het monster in melee slaat een beetje healen.
 - **Seal of Wisdom** geeft wat mana terug bij je slagen. Zijn Judgement laat aanvallen en spells tegen het monster mana teruggeven.
+
+Sinds 11 november telt Judgement als ranged attack. Hij activeert geen procs meer die op melee-treffers werken, en gebruikt je ranged hit chance, [meer in onze post](/nl/news/judgement-now-counts-as-a-ranged-attack/).
 
 ## Auras
 

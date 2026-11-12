@@ -3,7 +3,7 @@ title: "Levelgids voor de Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman levelen: Enhancement, Elemental en Resto"
 description: "Zo level je een Shaman in WoW Forever: builds voor level 60 voor Enhancement, Elemental en Restoration, belangrijke levels, de totemquests, de wapens van Call of Air en zones."
 short: "Shaman levelen"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -87,7 +87,7 @@ Bij de trainer, tenzij anders vermeld. Met Talented uit het Legacy-systeem komen
 | 28 | Fire Resistance Totem, Flametongue Totem |
 | 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation; Call of Thunder en Nature's Swiftness (talenten) |
 | 32 | Chain Lightning, Windfury Totem |
-| 40 | Chain Heal, Call of the Spirits, Dual Spec |
+| 40 | Chain Heal, Call of the Spirits, Dual Spec (50 goud) |
 
 ## De totemquests
 

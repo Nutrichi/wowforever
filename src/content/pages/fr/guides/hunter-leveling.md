@@ -3,7 +3,7 @@ title: "Monter un Hunter dans WoW Forever : le guide"
 metaTitle: "Guide leveling Hunter WoW Forever : builds Beast Mastery, Marksmanship et Survival jusqu'au 60"
 description: "Monter un Hunter dans WoW Forever : les premiers niveaux, builds niveau 60 pour Beast Mastery, Marksmanship et Survival, la rotation, les niveaux clés, la quête de dressage, les armes, l’équipement, les métiers, les familiers, les pièges, le pistage et les Aspects."
 short: "Leveling Hunter"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -87,7 +87,7 @@ Pour le niveau 60, chaque guide de spécialisation a ses propres builds pour les
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3034"><img class="wf-wh__icon" src="/wh/ability_hunter_aimedshot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Viper Sting</a> | Maître de classe |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13159"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Pack</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19882"><img class="wf-wh__icon" src="/wh/ability_racial_avatar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Giants</a> | Maître de classe |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19574"><img class="wf-wh__icon" src="/wh/ability_druid_ferociousbite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bestial Wrath</a>, Sniper Shot, Lacerating Strikes | Arbre de talents |
-| 40 | Monte, Dual Specialization | Maîtres |
+| 40 | Monte, Dual Specialization (50 po) | Maîtres |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20043"><img class="wf-wh__icon" src="/wh/spell_nature_protectionformnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Wild</a> | Maître de classe |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19879"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Dragonkin</a> | Maître de classe |
 | 60 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19801"><img class="wf-wh__icon" src="/wh/spell_nature_drowsy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquilizing Shot</a> | Maître de classe |

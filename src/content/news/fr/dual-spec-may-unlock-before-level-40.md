@@ -34,3 +34,5 @@ La Dual Spec donne aussi à l’équipe de la marge pour du contenu plus diffici
 </figure>
 
 Au niveau 40, la Dual Specialization coûte 50 pièces d’or, une somme que [beaucoup de nouveaux joueurs trouvent élevée](/fr/news/grouping-slows-quests-so-players-level-alone/). Blizzard n’a pas décidé si le niveau change avant le lancement, ni pour lequel.
+
+Depuis le lancement, c'est fixé : [la Dual Spec coûte 50 pièces d'or au niveau 40](/fr/news/dual-spec-costs-50-gold-at-level-40/).

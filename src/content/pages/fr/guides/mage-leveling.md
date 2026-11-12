@@ -3,7 +3,7 @@ title: "Guide de leveling du Mage dans WoW Forever"
 metaTitle: "WoW Forever : guide de leveling du Mage, Frost, Fire et Arcane, rotation et astuces"
 description: "Comment monter un Mage dans WoW Forever : pourquoi Frost avec Ice Lance est le plus rapide, la rotation Frost, Fire et Arcane, les niveaux clés, les quêtes de classe, les parchemins, la mana et la menace."
 short: "Leveling du Mage"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -101,7 +101,7 @@ Le [guide de l’Arcane Mage](/fr/guides/arcane-mage/) donne la rotation actuell
 | 28 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=759"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Conjure Mana Agate</a> |
 | 30 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7302"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Armor</a> |
 | 34 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6117"><img class="wf-wh__icon" src="/wh/spell_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mage Armor</a> |
-| 40 | Portails, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=401502"><img class="wf-wh__icon" src="/wh/ability_mage_frostfirebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostfire Bolt</a>, monte et Dual Specialization |
+| 40 | Portails, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=401502"><img class="wf-wh__icon" src="/wh/ability_mage_frostfirebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostfire Bolt</a>, monte et Dual Specialization (50 po) |
 
 ## Quêtes de classe
 
@@ -139,6 +139,8 @@ Le niveau minimum conseillé pour chaque zone. Les niveaux des donjons sont dans
 ## Des parchemins réservés aux Mages
 
 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1296017"><img class="wf-wh__icon" src="/wh/8188276.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Comprehend Scroll</a> au niveau 6 est nouveau. Il déchiffre les parchemins trouvés dans le monde, aux effets très variés : un <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1302285"><img class="wf-wh__icon" src="/wh/inv_frog2_green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frog Familiar</a>, une bête affaiblie avec <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277484"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Confuse Beast</a>, un effet d'arme avec <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277489"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Spark</a> ou <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=274947"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Lesser Flame</a>, et des plus étranges comme <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=217495"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Cryoblast</a> et <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277492"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Khadgar's Unlocking</a>.
+
+Tout sur Comprehension, Study et les 28 parchemins est dans notre [guide des parchemins du Mage](/fr/guides/mage-scrolls/). Téléportations et portails, avec chaque Portal Trainer, sont dans le [guide des portails du Mage](/fr/guides/mage-portals/).
 
 ## Consommables et équipement
 

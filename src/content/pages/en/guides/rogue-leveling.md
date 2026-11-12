@@ -3,7 +3,7 @@ title: "Rogue leveling guide for WoW Forever"
 metaTitle: "WoW Forever Rogue leveling: builds for all three specs to 60"
 description: "How to level a Rogue in WoW Forever: level 60 builds for Assassination, Combat and Subtlety, the rotation, key levels, poison quests, weapons and professions."
 short: "Rogue leveling"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: en
 faq:
   - q: "What is the best spec to level a Rogue in WoW Forever?"
@@ -82,7 +82,7 @@ For level 60, every spec guide has its own builds for raids, leveling and PvP: [
 | 30 | Venom, Relentless Strikes, Blade Flurry, Hemorrhage, Preparation | Talent tree |
 | 34 | Blind | Class trainer |
 | 35 | Seal Fate, Flash of Steel, Boot Knife | Talent tree |
-| 40 | Safe Fall, riding, Dual Specialization | Trainers |
+| 40 | Safe Fall, riding, Dual Specialization (50 gold) | Trainers |
 | 40 | Mutilate, Adrenaline Rush, Death Mark | Talent tree |
 
 Earlier spells come from the class trainer: Stealth at 1, Backstab and Pick Pocket at 4, Gouge at 6, Evasion at 8, Kick and Parry at 12.

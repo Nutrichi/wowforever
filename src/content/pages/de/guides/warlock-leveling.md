@@ -3,7 +3,7 @@ title: "Warlock leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Warlock-Levelguide: Builds für Affliction, Demonology und Destruction bis 60"
 description: "So levelst du einen Warlock in WoW Forever: der erste Build, Builds für Level 60 für Affliction, Demonology und Destruction, die Rotation, wichtige Level, die Klassenquests für jeden Dämon, Zauberstäbe, Berufe, Life Tap und Fear."
 short: "Warlock leveln"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -96,7 +96,7 @@ Für Level 60 hat jeder Spec-Guide eigene Builds für Raids, Leveln und PvP: [Af
 | 32 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6229"><img class="wf-wh__icon" src="/wh/spell_shadow_antishadow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Ward</a> | Klassenlehrer |
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2362"><img class="wf-wh__icon" src="/wh/inv_misc_gem_sapphire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Create Spellstone</a> | Klassenlehrer |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5484"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Howl of Terror</a> | Klassenlehrer |
-| 40 | Reiten, Dual Specialization | Lehrer |
+| 40 | Reiten, Dual Specialization (50 Gold) | Lehrer |
 | 40 | Wrack, Demonic Pact, Incinerate | Talentbaum |
 | 42 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6789"><img class="wf-wh__icon" src="/wh/spell_shadow_deathcoil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Death Coil</a> | Klassenlehrer |
 

@@ -3,7 +3,7 @@ title: "Feral Druid en WoW Forever: la guía"
 metaTitle: "WoW Forever Feral Druid: builds de felino y oso, rotación, stats"
 description: "El Feral Druid en WoW Forever: builds de nivel 60 para bandas, subir de nivel y PvP, Shifting Power y Primal Bite, las rotaciones de felino y de oso, los stats y las razas."
 short: "Feral Druid"
-updated: 2026-10-31
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -100,7 +100,7 @@ La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP 
 | **Blood Frenzy** | 5 de ira extra con un crítico en Bear Form, un Combo Point extra con un crítico en Cat Form |
 | **Leader of the Pack** | Un 3 % más de probabilidad de crítico cuerpo a cuerpo y a distancia para el grupo o la banda a 45 metros |
 | **Natural Reaction** | Un 5 % más de esquiva y 5 de ira con cada esquiva |
-| **Rend and Tear** | Un 10 % más de daño con las habilidades cuerpo a cuerpo contra objetivos que sangran |
+| **Rend and Tear** | Un 10 % más de daño con las habilidades cuerpo a cuerpo contra objetivos que sangran, también con el sangrado de Pounce desde el 11 de noviembre |
 | **Furor** | 10 de ira al pasar a Bear Form; Cat Form te devuelve la energía que tenías, más 10 de energía por segundo pasado fuera de Bear Form |
 
 Para la build en solitario: un Rejuvenation rápido y Swiftmend te curan, y vuelves a tu forma.

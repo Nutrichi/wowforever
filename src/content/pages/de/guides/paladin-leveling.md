@@ -3,7 +3,7 @@ title: "Paladin leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Paladin-Levelguide: Builds für Retribution, Protection und Shockadin bis 60"
 description: "So levelst du einen Paladin in WoW Forever: der erste Build, Builds für Level 60 für Retribution, Protection und Shockadin, die Rotation, wichtige Level, die Klassenquests und ihre Waffen, Seals, Auren und Blessings."
 short: "Paladin leveln"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -86,7 +86,7 @@ Für Level 60 hat jeder Spec-Guide eigene Builds für Raids, Leveln und PvP: [Ho
 | 30 | Divine Intervention, Seal of Light | Klassenlehrer |
 | 34 | Divine Shield | Klassenlehrer |
 | 38 | Seal of Wisdom | Klassenlehrer |
-| 40 | Blessing of Light, Reiten, Dual Specialization | Lehrer |
+| 40 | Blessing of Light, Reiten, Dual Specialization (50 Gold) | Lehrer |
 | 42 | Cleanse | Klassenlehrer |
 | 44 | Hammer of Wrath | Klassenlehrer |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6940"><img class="wf-wh__icon" src="/wh/spell_holy_sealofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Sacrifice</a> | Klassenlehrer |
@@ -183,6 +183,8 @@ Ein Seal ist ein Buff auf dir für 30 Sekunden. Judgement entfesselt es auf dem 
 - **Seal of Justice** gibt deinen Schlägen eine Chance zu betäuben. Sein Judgement hält ein Monster davon ab, bei wenig Leben zu fliehen.
 - **Seal of Light** heilt dich bei deinen Schlägen ein wenig. Sein Judgement lässt jeden, der das Monster im Nahkampf trifft, sich ein wenig heilen.
 - **Seal of Wisdom** gibt bei deinen Schlägen etwas Mana zurück. Sein Judgement lässt Angriffe und Zauber gegen das Monster Mana zurückgeben.
+
+Seit dem 11. November zählt Judgement als Fernkampfangriff. Er löst keine Procs mehr aus, die auf Nahkampftreffer reagieren, und nutzt deine Fernkampftrefferchance, [mehr in unserem Beitrag](/de/news/judgement-now-counts-as-a-ranged-attack/).
 
 ## Auren
 

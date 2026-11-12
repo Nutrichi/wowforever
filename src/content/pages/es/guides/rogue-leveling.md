@@ -3,7 +3,7 @@ title: "Subir un Rogue en WoW Forever: la guía"
 metaTitle: "Subida de Rogue en WoW Forever: builds de cada spec hasta el 60"
 description: "Cómo subir un Rogue en WoW Forever: builds de nivel 60 para Assassination, Combat y Subtlety, la rotación, niveles clave, misiones de venenos y armas."
 short: "Subir un Rogue"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -83,7 +83,7 @@ Para el nivel 60, cada guía de especialización tiene sus propias builds para b
 | 30 | Venom, Relentless Strikes, Blade Flurry, Hemorrhage, Preparation | Árbol de talentos |
 | 34 | Blind | Instructor de clase |
 | 35 | Seal Fate, Flash of Steel, Boot Knife | Árbol de talentos |
-| 40 | Safe Fall, equitación, Dual Specialization | Instructores |
+| 40 | Safe Fall, equitación, Dual Specialization (50 de oro) | Instructores |
 | 40 | Mutilate, Adrenaline Rush, Death Mark | Árbol de talentos |
 
 Las habilidades anteriores vienen del instructor de clase: Stealth en el 1, Backstab y Pick Pocket en el 4, Gouge en el 6, Evasion en el 8, Kick y Parry en el 12.

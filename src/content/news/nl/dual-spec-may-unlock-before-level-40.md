@@ -34,3 +34,5 @@ Dual Spec geeft het team ook ruimte voor zwaardere content, voegden de ontwikkel
 </figure>
 
 Op level 40 kost Dual Specialization 50 goud, wat [veel nieuwe spelers veel vinden](/nl/news/grouping-slows-quests-so-players-level-alone/). Of het level voor de launch verandert, en naar welk level, heeft Blizzard niet beslist.
+
+Sinds de launch ligt het vast: [Dual Spec kost 50 goud op level 40](/nl/news/dual-spec-costs-50-gold-at-level-40/).

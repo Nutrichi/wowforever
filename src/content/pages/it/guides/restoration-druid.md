@@ -3,7 +3,7 @@ title: "Restoration Druid: la guida alle cure per WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talenti, macro e FAQ"
 description: "Il Restoration Druid in WoW Forever: cosa cambia per il guaritore, punti di forza e debolezze, la build standard 11/0/40, la Dual Specialization, macro utili, i riquadri delle unità e le domande più frequenti."
 short: "Restoration Druid"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -40,7 +40,7 @@ Il Restoration Druid di WoW Forever resta un guaritore che anticipa i danni, con
 ## Cosa cambia per il guaritore
 
 - **Omen of Clarity è di base** e ora può attivarsi con gli incantesimi, circa due volte al minuto. Il proc rende gratuito l'incantesimo successivo, quindi rende di più su una cura costosa.
-- **Wild Growth** è il nuovo talento finale dell'albero: una cura potente su tutto il gruppo del bersaglio.
+- **Wild Growth** è il nuovo talento finale dell'albero: una cura potente su tutto il gruppo del bersaglio. Dall'11 novembre non si lancia più in movimento, ma ricava il doppio dal tuo potere magico, [di più nella nostra notizia](/it/news/wild-growth-can-no-longer-be-cast-while-moving/).
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> non consuma più** l'HoT che usa.
 - **Gli HoT possono fare critico.** Il critico extra di Improved Regrowth probabilmente vale anche per la parte HoT di <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Viene dai dati del gioco e non si poteva testare sulla beta.
 - **Gli HoT di più Druid si sommano** sullo stesso bersaglio. Un bug lo impedisce ancora in alcuni casi.

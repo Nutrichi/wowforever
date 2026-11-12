@@ -3,7 +3,7 @@ title: "Warlock levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Warlock levelgids: builds voor Affliction, Demonology en Destruction tot 60"
 description: "Zo level je een Warlock in WoW Forever: de eerste build, builds voor level 60 voor Affliction, Demonology en Destruction, de rotatie, de belangrijke levels, de classquests voor elke demon, wands, beroepen, Life Tap en Fear."
 short: "Warlock levelen"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -96,7 +96,7 @@ Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: 
 | 32 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6229"><img class="wf-wh__icon" src="/wh/spell_shadow_antishadow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Ward</a> | Classtrainer |
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2362"><img class="wf-wh__icon" src="/wh/inv_misc_gem_sapphire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Create Spellstone</a> | Classtrainer |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5484"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Howl of Terror</a> | Classtrainer |
-| 40 | riding, Dual Specialization | Trainers |
+| 40 | riding, Dual Specialization (50 goud) | Trainers |
 | 40 | Wrack, Demonic Pact, Incinerate | Talentboom |
 | 42 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6789"><img class="wf-wh__icon" src="/wh/spell_shadow_deathcoil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Death Coil</a> | Classtrainer |
 

@@ -3,7 +3,7 @@ title: "Priest levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Priest levelgids: builds voor Discipline, Holy en Shadow tot 60"
 description: "Zo level je een Priest in WoW Forever: builds voor level 60 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, beroepen, mana en healen."
 short: "Priest levelen"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -78,7 +78,7 @@ Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: 
 | 32 | Shadow Word: Death, Abolish Disease | Classtrainer |
 | 34 | Levitate | Classtrainer |
 | 35 | Beroepen op Artisan | Beroepstrainers |
-| 40 | Greater Heal, rijden, Dual Specialization | Trainers |
+| 40 | Greater Heal, rijden, Dual Specialization (50 goud) | Trainers |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Talentboom |
 | 48 | Prayer of Fortitude | Classtrainer |
 | 56 | Prayer of Shadow Protection | Classtrainer |

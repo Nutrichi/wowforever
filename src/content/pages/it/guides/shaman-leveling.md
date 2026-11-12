@@ -3,7 +3,7 @@ title: "Guida al leveling dello Shaman in WoW Forever"
 metaTitle: "WoW Forever leveling Shaman: Enhancement, Elemental e Resto"
 description: "Livellare uno Shaman in WoW Forever: build di livello 60 per Enhancement, Elemental e Restoration, livelli chiave, missioni dei totem, armi di Call of Air e zone."
 short: "Leveling Shaman"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -87,7 +87,7 @@ Dall'istruttore, salvo diversa indicazione. Con Talented, dal sistema Legacy, i 
 | 28 | Fire Resistance Totem, Flametongue Totem |
 | 30 | Windfury Weapon, Grounding Totem, Nature Resistance Totem, Call of the Ancestors, Reincarnation; Call of Thunder e Nature's Swiftness (talenti) |
 | 32 | Chain Lightning, Windfury Totem |
-| 40 | Chain Heal, Call of the Spirits, Dual Spec |
+| 40 | Chain Heal, Call of the Spirits, Dual Spec (50 oro) |
 
 ## Le missioni dei totem
 

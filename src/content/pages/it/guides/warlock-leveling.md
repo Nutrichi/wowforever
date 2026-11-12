@@ -3,7 +3,7 @@ title: "Livellare un Warlock in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Warlock in WoW Forever: build Affliction, Demonology e Destruction fino al 60"
 description: "Come livellare un Warlock in WoW Forever: la prima build, build di livello 60 per Affliction, Demonology e Destruction, la rotazione, i livelli chiave, le missioni di classe per ogni demone, bacchette, professioni, Life Tap e Fear."
 short: "Leveling del Warlock"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -96,7 +96,7 @@ Per il livello 60 ogni guida di specializzazione ha le sue build per raid, level
 | 32 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6229"><img class="wf-wh__icon" src="/wh/spell_shadow_antishadow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Ward</a> | Istruttore di classe |
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2362"><img class="wf-wh__icon" src="/wh/inv_misc_gem_sapphire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Create Spellstone</a> | Istruttore di classe |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5484"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Howl of Terror</a> | Istruttore di classe |
-| 40 | cavalcature, Dual Specialization | Istruttori |
+| 40 | cavalcature, Dual Specialization (50 oro) | Istruttori |
 | 40 | Wrack, Demonic Pact, Incinerate | Albero dei talenti |
 | 42 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6789"><img class="wf-wh__icon" src="/wh/spell_shadow_deathcoil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Death Coil</a> | Istruttore di classe |
 

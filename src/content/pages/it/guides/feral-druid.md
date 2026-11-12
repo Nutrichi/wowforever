@@ -3,7 +3,7 @@ title: "Feral Druid in WoW Forever: la guida"
 metaTitle: "WoW Forever Feral Druid: build felino e orso, rotazione, stats"
 description: "Il Feral Druid in WoW Forever: build di livello 60 per raid, leveling e PvP, Shifting Power e Primal Bite, le rotazioni da felino e da orso, le stats e le razze."
 short: "Feral Druid"
-updated: 2026-10-31
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -100,7 +100,7 @@ La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel
 | **Blood Frenzy** | 5 rabbia in più con un critico in Bear Form, un Combo Point in più con un critico in Cat Form |
 | **Leader of the Pack** | Il 3% di probabilità di critico in più in mischia e a distanza per il gruppo o il raid entro 45 metri |
 | **Natural Reaction** | Il 5% di schivata in più e 5 rabbia a ogni schivata |
-| **Rend and Tear** | Il 10% di danni in più con le abilità in mischia sui bersagli che sanguinano |
+| **Rend and Tear** | Il 10% di danni in più con le abilità in mischia sui bersagli che sanguinano, anche sul sanguinamento di Pounce dall'11 novembre |
 | **Furor** | 10 rabbia entrando in Bear Form; Cat Form ti restituisce l'energia che avevi, più 10 energia per ogni secondo passato fuori da Bear Form |
 
 Per la build in solitaria: un Rejuvenation veloce e Swiftmend ti curano, e torni nella tua forma.

@@ -3,7 +3,7 @@ title: "Warrior leveling guide for WoW Forever"
 metaTitle: "WoW Forever Warrior leveling: Arms, Fury and Protection to 60"
 description: "How to level a Warrior in WoW Forever: the early build, level 60 builds for Arms, Fury and Protection, the rotation, key levels, stance quests and Rage."
 short: "Warrior leveling"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: en
 faq:
   - q: "What is the best spec to level a Warrior in WoW Forever?"
@@ -84,7 +84,7 @@ For level 60, every spec guide has its own builds for raids, leveling and PvP: [
 | 30 | Sweeping Strikes, Death Wish, Concussion Blow | Talent tree |
 | 36 | Whirlwind | Class trainer |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Class trainer |
-| 40 | Plate armor, riding, Dual Specialization | Trainers |
+| 40 | Plate armor, riding, Dual Specialization (50 gold) | Trainers |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Class trainer |
 
 Victory Rush is new for leveling: after you kill a monster, it hits and heals you for 10% of your maximum health. Slam has an 18 second cooldown in Forever. With points in Talented from the Legacy system, you reach every talent up to five levels sooner.

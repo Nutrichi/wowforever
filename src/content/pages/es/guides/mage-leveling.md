@@ -3,7 +3,7 @@ title: "Guía para subir de nivel al Mage en WoW Forever"
 metaTitle: "WoW Forever: guía de subida del Mage, Frost, Fire y Arcane, rotación y consejos"
 description: "Cómo subir un Mage en WoW Forever: por qué Frost con Ice Lance es lo más rápido, la rotación de Frost, Fire y Arcane, los niveles clave, las misiones de clase, los pergaminos, el maná y la amenaza."
 short: "Subir de nivel al Mage"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -101,7 +101,7 @@ La [guía del Arcane Mage](/es/guides/arcane-mage/) tiene la rotación actual. T
 | 28 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=759"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Conjure Mana Agate</a> |
 | 30 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7302"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Armor</a> |
 | 34 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6117"><img class="wf-wh__icon" src="/wh/spell_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mage Armor</a> |
-| 40 | Portales, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=401502"><img class="wf-wh__icon" src="/wh/ability_mage_frostfirebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostfire Bolt</a>, montura y Dual Specialization |
+| 40 | Portales, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=401502"><img class="wf-wh__icon" src="/wh/ability_mage_frostfirebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostfire Bolt</a>, montura y Dual Specialization (50 de oro) |
 
 ## Misiones de clase
 
@@ -139,6 +139,8 @@ El nivel mínimo recomendado de cada zona. Los niveles de las mazmorras están e
 ## Pergaminos solo para Mages
 
 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1296017"><img class="wf-wh__icon" src="/wh/8188276.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Comprehend Scroll</a> a nivel 6 es nuevo. Con él descifras pergaminos que encuentras por el mundo, con efectos muy distintos: un <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1302285"><img class="wf-wh__icon" src="/wh/inv_frog2_green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frog Familiar</a>, una bestia debilitada con <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277484"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Confuse Beast</a>, un efecto de arma con <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277489"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Spark</a> o <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=274947"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Lesser Flame</a>, y otros más raros como <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=217495"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Cryoblast</a> e <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277492"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Khadgar's Unlocking</a>.
+
+Todo sobre Comprehension, Study y los 28 pergaminos está en nuestra [guía de pergaminos del Mage](/es/guides/mage-scrolls/). Teletransportes y portales, con cada Portal Trainer, están en la [guía de portales del Mage](/es/guides/mage-portals/).
 
 ## Consumibles y equipo
 

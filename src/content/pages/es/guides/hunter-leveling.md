@@ -3,7 +3,7 @@ title: "Subir un Hunter en WoW Forever: la guía"
 metaTitle: "Guía de subida del Hunter en WoW Forever: builds de Beast Mastery, Marksmanship y Survival hasta el 60"
 description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, builds de nivel 60 para Beast Mastery, Marksmanship y Survival, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
 short: "Subir un Hunter"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -87,7 +87,7 @@ Para el nivel 60, cada guía de especialización tiene sus propias builds para b
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3034"><img class="wf-wh__icon" src="/wh/ability_hunter_aimedshot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Viper Sting</a> | Instructor de clase |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13159"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Pack</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19882"><img class="wf-wh__icon" src="/wh/ability_racial_avatar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Giants</a> | Instructor de clase |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19574"><img class="wf-wh__icon" src="/wh/ability_druid_ferociousbite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bestial Wrath</a>, Sniper Shot, Lacerating Strikes | Árbol de talentos |
-| 40 | Equitación, Dual Specialization | Instructores |
+| 40 | Equitación, Dual Specialization (50 de oro) | Instructores |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20043"><img class="wf-wh__icon" src="/wh/spell_nature_protectionformnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Wild</a> | Instructor de clase |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19879"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Dragonkin</a> | Instructor de clase |
 | 60 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19801"><img class="wf-wh__icon" src="/wh/spell_nature_drowsy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquilizing Shot</a> | Instructor de clase |

@@ -3,7 +3,7 @@ title: "Restoration Druid : le guide de soin pour WoW Forever"
 metaTitle: "Restoration Druid dans WoW Forever : build, talents, macros et FAQ"
 description: "Le Restoration Druid dans WoW Forever : ce qui change pour le soigneur, forces et faiblesses, le build standard 11/0/40, la Dual Specialization, des macros utiles, les cadres d'unité et les questions les plus fréquentes."
 short: "Restoration Druid"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -40,7 +40,7 @@ Le Restoration Druid de WoW Forever reste un soigneur qui anticipe les dégâts,
 ## Ce qui change pour le soigneur
 
 - **Omen of Clarity est de base** et peut désormais se déclencher sur les sorts, environ deux fois par minute. Le proc rend le sort suivant gratuit : il rapporte le plus sur un soin coûteux.
-- **Wild Growth** est le nouveau talent final de l'arbre : un soin puissant sur tout le groupe de la cible.
+- **Wild Growth** est le nouveau talent final de l'arbre : un soin puissant sur tout le groupe de la cible. Depuis le 11 novembre, il ne se lance plus en mouvement, mais il profite deux fois plus de votre puissance des sorts, [plus dans notre article](/fr/news/wild-growth-can-no-longer-be-cast-while-moving/).
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> ne consomme plus** le HoT qu'il utilise.
 - **Les HoTs peuvent faire des critiques.** Le bonus de critique d'Improved Regrowth s'applique probablement aussi à la partie HoT de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Cela vient des données du jeu et ne pouvait pas être testé sur la bêta.
 - **Les HoTs de plusieurs Druids se cumulent** sur une même cible. Un bug l'empêche encore dans certains cas.

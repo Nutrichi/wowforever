@@ -3,7 +3,7 @@ title: "Monter un Warlock dans WoW Forever : le guide"
 metaTitle: "Guide leveling Warlock WoW Forever : builds Affliction, Demonology et Destruction jusqu'au 60"
 description: "Comment monter un Warlock dans WoW Forever : le premier build, builds niveau 60 pour Affliction, Demonology et Destruction, la rotation, les niveaux clés, les quêtes de classe pour chaque démon, les baguettes, les métiers, Life Tap et Fear."
 short: "Leveling Warlock"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -96,7 +96,7 @@ Pour le niveau 60, chaque guide de spécialisation a ses propres builds pour les
 | 32 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6229"><img class="wf-wh__icon" src="/wh/spell_shadow_antishadow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Ward</a> | Maître de classe |
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2362"><img class="wf-wh__icon" src="/wh/inv_misc_gem_sapphire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Create Spellstone</a> | Maître de classe |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5484"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Howl of Terror</a> | Maître de classe |
-| 40 | monte, Dual Specialization | Maîtres |
+| 40 | monte, Dual Specialization (50 po) | Maîtres |
 | 40 | Wrack, Demonic Pact, Incinerate | Arbre de talents |
 | 42 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6789"><img class="wf-wh__icon" src="/wh/spell_shadow_deathcoil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Death Coil</a> | Maître de classe |
 

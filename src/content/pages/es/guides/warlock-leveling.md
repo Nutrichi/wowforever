@@ -3,7 +3,7 @@ title: "Subir un Warlock en WoW Forever: la guía"
 metaTitle: "Guía de subida del Warlock en WoW Forever: builds de Affliction, Demonology y Destruction hasta el 60"
 description: "Cómo subir un Warlock en WoW Forever: el primer build, builds de nivel 60 para Affliction, Demonology y Destruction, la rotación, los niveles clave, las misiones de clase para cada demonio, varitas, profesiones, Life Tap y Fear."
 short: "Subida del Warlock"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -96,7 +96,7 @@ Para el nivel 60, cada guía de especialización tiene sus propias builds para b
 | 32 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6229"><img class="wf-wh__icon" src="/wh/spell_shadow_antishadow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Ward</a> | Instructor de clase |
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2362"><img class="wf-wh__icon" src="/wh/inv_misc_gem_sapphire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Create Spellstone</a> | Instructor de clase |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5484"><img class="wf-wh__icon" src="/wh/spell_shadow_deathscream.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Howl of Terror</a> | Instructor de clase |
-| 40 | equitación, Dual Specialization | Instructores |
+| 40 | equitación, Dual Specialization (50 de oro) | Instructores |
 | 40 | Wrack, Demonic Pact, Incinerate | Árbol de talentos |
 | 42 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6789"><img class="wf-wh__icon" src="/wh/spell_shadow_deathcoil.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Death Coil</a> | Instructor de clase |
 

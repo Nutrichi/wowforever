@@ -67,7 +67,7 @@ Windshear Crag heeft geen portal, maar een nieuw pad bovenaan leidt naar een afg
 
 ## New Avalon, Eastern Plaguelands
 
-Stukken van de Scarlet Enclave, de laatste raid van Season of Discovery, zitten in Forever: de raidingang en het open gebied van New Avalon. Wie New Avalon in probeert te gaan, staat meteen weer bij Light's Hope Chapel. Misschien zijn het restjes, maar ze houden de hoop op meer content uit Season of Discovery levend. Ook Deadwind Pass veranderde: [het gat onder Karazhan is dicht](/nl/news/the-hole-beneath-karazhan-is-gone-from-the-beta/).
+Stukken van de Scarlet Enclave, de laatste raid van Season of Discovery, zitten in Forever: de raidingang en het open gebied van New Avalon. Wie New Avalon in probeert te gaan, staat meteen weer bij Light's Hope Chapel. Misschien zijn het restjes, maar ze houden de hoop op meer content uit Season of Discovery levend. Ook Deadwind Pass veranderde: [het gat onder Karazhan is dicht](/nl/news/the-hole-beneath-karazhan-is-gone-from-the-beta/). De ontwikkelaars zeiden intussen dat ze [de Scarlet Enclave later naar Forever willen brengen](/nl/news/scarlet-enclave-may-come-back-to-forever/).
 
 ![Een rotsige doorgang met een banier richting New Avalon in de Eastern Plaguelands, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-10-23-wow-forever-new-avalon.jpg)
 

@@ -3,7 +3,7 @@ title: "Mage-Levelguide für WoW Forever"
 metaTitle: "WoW Forever Mage-Levelguide: Frost, Fire und Arcane, Rotation und Tipps"
 description: "So levelst du einen Mage in WoW Forever: warum Frost mit Ice Lance am schnellsten ist, die Rotation für Frost, Fire und Arcane, wichtige Level, Klassenquests, Schriftrollen, Mana und Bedrohung."
 short: "Mage leveln"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -101,7 +101,7 @@ Der [Arcane-Mage-Guide](/de/guides/arcane-mage/) hat die aktuelle Rotation. Alle
 | 28 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=759"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Conjure Mana Agate</a> |
 | 30 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7302"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Armor</a> |
 | 34 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6117"><img class="wf-wh__icon" src="/wh/spell_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mage Armor</a> |
-| 40 | Portale, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=401502"><img class="wf-wh__icon" src="/wh/ability_mage_frostfirebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostfire Bolt</a>, Reiten und Dual Specialization |
+| 40 | Portale, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=401502"><img class="wf-wh__icon" src="/wh/ability_mage_frostfirebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostfire Bolt</a>, Reiten und Dual Specialization (50 Gold) |
 
 ## Klassenquests
 
@@ -139,6 +139,8 @@ Das niedrigste empfohlene Level pro Gebiet. Die Level der Dungeons stehen im [Du
 ## Schriftrollen nur für Mages
 
 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1296017"><img class="wf-wh__icon" src="/wh/8188276.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Comprehend Scroll</a> auf Level 6 ist neu. Damit entzifferst du Schriftrollen aus der Welt, mit sehr unterschiedlichen Effekten: ein <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1302285"><img class="wf-wh__icon" src="/wh/inv_frog2_green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frog Familiar</a>, ein geschwächtes Tier mit <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277484"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Confuse Beast</a>, ein Waffeneffekt mit <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277489"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Spark</a> oder <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=274947"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Lesser Flame</a>, und ausgefallenere wie <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=217495"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Cryoblast</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277492"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Khadgar's Unlocking</a>.
+
+Alles über Comprehension, Study und alle 28 Schriftrollen steht in unserem [Guide zu Mage-Schriftrollen](/de/guides/mage-scrolls/). Teleports und Portale mit jedem Portal Trainer stehen im [Guide zu Mage-Portalen](/de/guides/mage-portals/).
 
 ## Verbrauchsgüter und Ausrüstung
 

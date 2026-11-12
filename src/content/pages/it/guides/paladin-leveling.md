@@ -3,7 +3,7 @@ title: "Livellare un Paladin in WoW Forever: la guida"
 metaTitle: "Guida al leveling del Paladin in WoW Forever: build Retribution, Protection e Shockadin fino al 60"
 description: "Come livellare un Paladin in WoW Forever: la prima build, build di livello 60 per Retribution, Protection e Shockadin, la rotazione, i livelli chiave, le missioni di classe e le loro armi, seal, aure e blessing."
 short: "Leveling del Paladin"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -86,7 +86,7 @@ Per il livello 60 ogni guida di specializzazione ha le sue build per raid, level
 | 30 | Divine Intervention, Seal of Light | Istruttore di classe |
 | 34 | Divine Shield | Istruttore di classe |
 | 38 | Seal of Wisdom | Istruttore di classe |
-| 40 | Blessing of Light, cavalcatura, Dual Specialization | Istruttori |
+| 40 | Blessing of Light, cavalcatura, Dual Specialization (50 oro) | Istruttori |
 | 42 | Cleanse | Istruttore di classe |
 | 44 | Hammer of Wrath | Istruttore di classe |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6940"><img class="wf-wh__icon" src="/wh/spell_holy_sealofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Sacrifice</a> | Istruttore di classe |
@@ -183,6 +183,8 @@ Un seal è un potenziamento su di te per 30 secondi. Judgement lo scatena sul mo
 - **Seal of Justice** dà ai tuoi colpi una probabilità di stordire. Il suo Judgement impedisce a un mostro di fuggire con poca vita.
 - **Seal of Light** ti cura un po' a ogni colpo. Il suo Judgement fa curare un po' chiunque colpisca il mostro in mischia.
 - **Seal of Wisdom** restituisce un po' di mana a ogni colpo. Il suo Judgement fa restituire mana ad attacchi e incantesimi contro il mostro.
+
+Dall'11 novembre Judgement conta come attacco a distanza. Non attiva più effetti legati ai colpi in mischia e usa la tua probabilità di colpire a distanza, [di più nella nostra notizia](/it/news/judgement-now-counts-as-a-ranged-attack/).
 
 ## Aure
 

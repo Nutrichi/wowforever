@@ -3,7 +3,7 @@ title: "Mage leveling guide for WoW Forever"
 metaTitle: "WoW Forever Mage leveling guide: Frost, Fire and Arcane, rotation and tips"
 description: "How to level a Mage in WoW Forever: why Frost with Ice Lance is the fastest, the rotation for Frost, Fire and Arcane, the key levels, class quests, scrolls, mana and threat."
 short: "Mage leveling"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: en
 faq:
   - q: "What is the best spec to level a Mage in WoW Forever?"
@@ -100,7 +100,7 @@ The [Arcane Mage guide](/guides/arcane-mage/) has the current rotation. All chan
 | 28 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=759"><img class="wf-wh__icon" src="/wh/inv_misc_gem_emerald_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Conjure Mana Agate</a> |
 | 30 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7302"><img class="wf-wh__icon" src="/wh/spell_frost_frostarmor02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Armor</a> |
 | 34 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6117"><img class="wf-wh__icon" src="/wh/spell_magearmor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mage Armor</a> |
-| 40 | Portals, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=401502"><img class="wf-wh__icon" src="/wh/ability_mage_frostfirebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostfire Bolt</a>, riding and Dual Specialization |
+| 40 | Portals, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=401502"><img class="wf-wh__icon" src="/wh/ability_mage_frostfirebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frostfire Bolt</a>, riding and Dual Specialization (50 gold) |
 
 ## Class quests
 
@@ -138,6 +138,8 @@ The lowest recommended level for each zone. The levels of the dungeons are in th
 ## Scrolls only Mages can use
 
 <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1296017"><img class="wf-wh__icon" src="/wh/8188276.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Comprehend Scroll</a> at level 6 is new. With it you decipher scrolls you find in the world, with very different effects: a <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1302285"><img class="wf-wh__icon" src="/wh/inv_frog2_green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frog Familiar</a>, a weaker beast with <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277484"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Confuse Beast</a>, a weapon effect with <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277489"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Spark</a> or <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=274947"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Lesser Flame</a>, and more unusual ones such as <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=217495"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Cryoblast</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277492"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Khadgar's Unlocking</a>.
+
+Everything about Comprehension, Study and all 28 scrolls is in our [Mage scrolls guide](/guides/mage-scrolls/). Teleports and portals, with every Portal Trainer, are in the [Mage portals guide](/guides/mage-portals/).
 
 ## Consumables and gear
 

@@ -3,7 +3,7 @@ title: "Guide de montée en niveau du Priest dans WoW Forever"
 metaTitle: "Guide de leveling Priest WoW Forever : builds Discipline, Holy et Shadow jusqu'au 60"
 description: "Comment monter un Priest dans WoW Forever : builds niveau 60 pour Discipline, Holy et Shadow, la rotation, les niveaux clés, les sorts raciaux, les baguettes, les métiers, le mana et les soins."
 short: "Leveling du Priest"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -78,7 +78,7 @@ Pour le niveau 60, chaque guide de spécialisation a ses propres builds pour les
 | 32 | Shadow Word: Death, Abolish Disease | Maître de classe |
 | 34 | Levitate | Maître de classe |
 | 35 | Métiers Artisan | Maîtres de métier |
-| 40 | Greater Heal, monte, Dual Specialization | Maîtres |
+| 40 | Greater Heal, monte, Dual Specialization (50 po) | Maîtres |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Arbre de talents |
 | 48 | Prayer of Fortitude | Maître de classe |
 | 56 | Prayer of Shadow Protection | Maître de classe |

@@ -3,7 +3,7 @@ title: "Warrior leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Warrior-Levelguide: Arms, Fury, Protection bis 60"
 description: "So levelst du einen Warrior in WoW Forever: der erste Build, Builds für Level 60 für Arms, Fury und Protection, Rotation, wichtige Level, Haltungsquests und Rage."
 short: "Warrior leveln"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -85,7 +85,7 @@ Für Level 60 hat jeder Spec-Guide eigene Builds für Raids, Leveln und PvP: [Ar
 | 30 | Sweeping Strikes, Death Wish, Concussion Blow | Talentbaum |
 | 36 | Whirlwind | Klassenlehrer |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Klassenlehrer |
-| 40 | Plattenrüstung, Reiten, Dual Specialization | Lehrer |
+| 40 | Plattenrüstung, Reiten, Dual Specialization (50 Gold) | Lehrer |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Klassenlehrer |
 
 Victory Rush ist neu fürs Leveln: Nachdem du ein Monster getötet hast, schlägt es zu und heilt dich um 10 % deines maximalen Lebens. Slam hat in Forever 18 Sekunden Abklingzeit. Mit Punkten in Talented aus dem Legacy-System erreichst du jedes Talent bis zu fünf Level früher.

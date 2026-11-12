@@ -3,7 +3,7 @@ title: "Hunter levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Hunter-levelgids: builds voor Beast Mastery, Marksmanship en Survival tot 60"
 description: "Een Hunter levelen in WoW Forever: de eerste levels, builds voor level 60 voor Beast Mastery, Marksmanship en Survival, de rotatie, de belangrijke levels, de temquest, wapens, gear, beroepen, pets, traps, tracking en Aspects."
 short: "Hunter levelen"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -87,7 +87,7 @@ Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: 
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3034"><img class="wf-wh__icon" src="/wh/ability_hunter_aimedshot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Viper Sting</a> | Classtrainer |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13159"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Pack</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19882"><img class="wf-wh__icon" src="/wh/ability_racial_avatar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Giants</a> | Classtrainer |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19574"><img class="wf-wh__icon" src="/wh/ability_druid_ferociousbite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bestial Wrath</a>, Sniper Shot, Lacerating Strikes | Talentboom |
-| 40 | Rijden, Dual Specialization | Trainers |
+| 40 | Rijden, Dual Specialization (50 goud) | Trainers |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20043"><img class="wf-wh__icon" src="/wh/spell_nature_protectionformnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Wild</a> | Classtrainer |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19879"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Dragonkin</a> | Classtrainer |
 | 60 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19801"><img class="wf-wh__icon" src="/wh/spell_nature_drowsy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquilizing Shot</a> | Classtrainer |

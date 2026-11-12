@@ -3,7 +3,7 @@ title: "Monter un Paladin dans WoW Forever : le guide"
 metaTitle: "Guide leveling Paladin WoW Forever : builds Retribution, Protection et Shockadin jusqu'au 60"
 description: "Comment monter un Paladin dans WoW Forever : le premier build, builds niveau 60 pour Retribution, Protection et Shockadin, la rotation, les niveaux clés, les quêtes de classe et leurs armes, les seals, les auras et les blessings."
 short: "Leveling Paladin"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -86,7 +86,7 @@ Pour le niveau 60, chaque guide de spécialisation a ses propres builds pour les
 | 30 | Divine Intervention, Seal of Light | Maître de classe |
 | 34 | Divine Shield | Maître de classe |
 | 38 | Seal of Wisdom | Maître de classe |
-| 40 | Blessing of Light, monte, Dual Specialization | Maîtres |
+| 40 | Blessing of Light, monte, Dual Specialization (50 po) | Maîtres |
 | 42 | Cleanse | Maître de classe |
 | 44 | Hammer of Wrath | Maître de classe |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6940"><img class="wf-wh__icon" src="/wh/spell_holy_sealofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Sacrifice</a> | Maître de classe |
@@ -183,6 +183,8 @@ Un seal est un buff sur vous pendant 30 secondes. Judgement le libère sur le mo
 - **Seal of Justice** donne à vos coups une chance d'étourdir. Son Judgement empêche un monstre de fuir quand il a peu de vie.
 - **Seal of Light** vous soigne un peu à chaque coup. Son Judgement permet à tous ceux qui frappent le monstre au corps à corps de se soigner un peu.
 - **Seal of Wisdom** rend un peu de mana à chaque coup. Son Judgement fait rendre du mana aux attaques et aux sorts contre le monstre.
+
+Depuis le 11 novembre, Judgement compte comme une attaque à distance. Il ne déclenche plus les effets liés aux coups de mêlée et utilise vos chances de toucher à distance, [plus dans notre article](/fr/news/judgement-now-counts-as-a-ranged-attack/).
 
 ## Auras
 

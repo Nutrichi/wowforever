@@ -3,7 +3,7 @@ title: "Restoration Druid: the healing guide for WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talents, macros and FAQ"
 description: "The Restoration Druid in WoW Forever: what changes for the healer, strengths and weaknesses, the standard 11/0/40 build, Dual Specialization, useful macros, unit frames and the most asked questions."
 short: "Restoration Druid"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: en
 faq:
   - q: "What is the best talent build for a Restoration Druid in WoW Forever?"
@@ -39,7 +39,7 @@ The Restoration Druid in WoW Forever is still a healer who works ahead of the da
 ## What changes for the healer
 
 - **Omen of Clarity is baseline** and can now proc on spell casts, about twice per minute. The proc makes the next spell free, so it pays off most on an expensive heal.
-- **Wild Growth** is the new capstone of the tree: a strong area heal on the party of the target.
+- **Wild Growth** is the new capstone of the tree: a strong area heal on the party of the target. Since 11 November you can no longer cast it while moving, but it gets twice as much from your spell power, [more in our post](/news/wild-growth-can-no-longer-be-cast-while-moving/).
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> no longer consumes** the HoT it uses.
 - **HoTs can crit.** The extra crit chance of Improved Regrowth probably also counts for the HoT part of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. That comes from the game data and could not be tested on the beta.
 - **HoTs of several Druids stack** on one target. A bug still prevents that in some cases.

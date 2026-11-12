@@ -116,6 +116,9 @@ export const hubCategories: HubCategory[] = [
       { key: 'frost-mage', image: '2026-10-01-wow-forever-dwarf-in-the-snow.jpg' },
       { key: 'arcane-mage', image: '2026-10-19-wow-forever-mage-casting-in-razorfen-kraul.jpg' },
       { key: 'fire-mage', image: '2026-10-09-wow-forever-three-casters.jpg' },
+      // Mage-portalen en -scrolls (12 november 2026).
+      { key: 'mage-portals', image: '2026-11-12-wow-forever-portal-trainer-stormwind.jpg' },
+      { key: 'mage-scrolls', image: '2026-11-12-wow-forever-librarian-stormwind.jpg' },
       { key: 'affliction-warlock', image: '2026-10-08-wow-forever-warlock-talent-trees.jpg' },
       { key: 'demonology-warlock', image: '2026-10-21-wow-forever-demonology-warlock-build.jpg' },
       { key: 'destruction-warlock', image: '2026-10-21-wow-forever-destruction-warlock-build.jpg' },

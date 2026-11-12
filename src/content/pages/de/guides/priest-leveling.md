@@ -3,7 +3,7 @@ title: "Priest leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Priest Leveling-Guide: Builds für Discipline, Holy und Shadow bis 60"
 description: "So levelst du einen Priest in WoW Forever: Builds für Level 60 für Discipline, Holy und Shadow, die Rotation, wichtige Level, Volkszauber, Zauberstäbe, Berufe, Mana und Heilung."
 short: "Priest leveln"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -78,7 +78,7 @@ Für Level 60 hat jeder Spec-Guide eigene Builds für Raids, Leveln und PvP: [Di
 | 32 | Shadow Word: Death, Abolish Disease | Klassenlehrer |
 | 34 | Levitate | Klassenlehrer |
 | 35 | Berufe auf Artisan | Berufslehrer |
-| 40 | Greater Heal, Reiten, Dual Specialization | Lehrer |
+| 40 | Greater Heal, Reiten, Dual Specialization (50 Gold) | Lehrer |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Talentbaum |
 | 48 | Prayer of Fortitude | Klassenlehrer |
 | 56 | Prayer of Shadow Protection | Klassenlehrer |

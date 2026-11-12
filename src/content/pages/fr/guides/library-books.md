@@ -3,7 +3,7 @@ title: "Livres de bibliothèque dans WoW Forever : emplacements et récompenses"
 metaTitle: "Livres de bibliothèque WoW Forever : les 36 emplacements avec /way, les récompenses et où les rendre"
 description: "Où trouver chaque livre de bibliothèque dans WoW Forever : 36 livres avec /way en quatre tranches de niveau, où l’Alliance et la Horde les rendent, et les récompenses pour 10, 20 et 25 livres."
 short: "Livres de bibliothèque"
-updated: 2026-10-10
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -42,6 +42,8 @@ Les deux colliers sont passés en [qualité verte](/fr/news/necklaces-for-10-boo
 ## Où les rendre
 
 L’Alliance va à la Mage Tower du Mage Quarter de Stormwind, la Horde au Magic Quarter d’Undercity. Les deux quêtes pour 20 et 25 livres portent le même nom, Greater Friend of the Library.
+
+Les Mages reçoivent un bonus : le premier livre leur donne le sort Study, qui crée des parchemins dans une bibliothèque. Voir le [guide des parchemins du Mage](/fr/guides/mage-scrolls/).
 
 ![Le bibliothécaire Garion Wendell à Stormwind avec la fenêtre pour rendre un livre, une capture d'écran de la bêta de World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 

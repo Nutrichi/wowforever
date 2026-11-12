@@ -3,7 +3,7 @@ title: "Feral Druid guide for WoW Forever"
 metaTitle: "WoW Forever Feral Druid: cat and bear builds, rotation, stats"
 description: "The Feral Druid in WoW Forever: level 60 builds for raids, leveling and PvP, Shifting Power and Primal Bite, the cat and bear rotations, stats and races."
 short: "Feral Druid"
-updated: 2026-10-31
+updated: 2026-11-12
 lang: en
 faq:
   - q: "Can a Feral Druid tank and deal damage with one build?"
@@ -99,7 +99,7 @@ The PvP build trades damage for control and survival. [Open the PvP build in the
 | **Blood Frenzy** | 5 extra Rage on a critical strike in Bear Form, an extra Combo Point on a critical strike in Cat Form |
 | **Leader of the Pack** | 3% more melee and ranged critical strike chance for the party or raid within 45 yards |
 | **Natural Reaction** | 5% more dodge chance and 5 Rage every time you dodge |
-| **Rend and Tear** | 10% more damage with melee abilities on bleeding targets |
+| **Rend and Tear** | 10% more damage with melee abilities on bleeding targets, also on the bleed of Pounce since 11 November |
 | **Furor** | 10 Rage when you shift into Bear Form; Cat Form gives back the Energy you had, plus 10 Energy per second spent outside Bear Form |
 
 For the solo build: a quick Rejuvenation and Swiftmend heals you up, then you go back into form.

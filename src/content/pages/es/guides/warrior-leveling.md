@@ -3,7 +3,7 @@ title: "Subir un Warrior en WoW Forever: la guía"
 metaTitle: "Subida de Warrior en WoW Forever: Arms, Fury y Protection al 60"
 description: "Cómo subir un Warrior en WoW Forever: el primer build, builds de nivel 60 para Arms, Fury y Protection, la rotación, niveles clave, misiones de actitud y Rage."
 short: "Subida del Warrior"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -85,7 +85,7 @@ Para el nivel 60, cada guía de especialización tiene sus propias builds para b
 | 30 | Sweeping Strikes, Death Wish, Concussion Blow | Árbol de talentos |
 | 36 | Whirlwind | Instructor de clase |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Instructor de clase |
-| 40 | Armadura de placas, equitación, Dual Specialization | Instructores |
+| 40 | Armadura de placas, equitación, Dual Specialization (50 de oro) | Instructores |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Instructor de clase |
 
 Victory Rush es nuevo para subir: después de matar a un monstruo, golpea y te cura un 10% de tu vida máxima. Slam tiene un tiempo de reutilización de 18 segundos en Forever. Con puntos en Talented del sistema Legacy, alcanzas cada talento hasta cinco niveles antes.

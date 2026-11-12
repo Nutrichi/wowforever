@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Retribution Paladin: Build, Rotation und Siegel"
 description: "Der Retribution Paladin in WoW Forever: der Build für Level 60, die Rotation mit Seal of Command, Judgements, Segen, Werte und Völker."
 short: "Retribution Paladin"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -123,7 +123,7 @@ Jeder Paladin kann nur ein Judgement auf einem Ziel halten, also wählst du je n
 
 - **Divine Shield**, **Divine Protection** und **Blessing of Protection** sind starke defensive Abklingzeiten, und alle drei verursachen Forbearance. Unter Divine Protection oder Blessing of Protection kannst du nicht angreifen, daher kommt Divine Shield zuerst.
 - **Lay on Hands** heilt dich sofort voll. Es kostet dein ganzes Mana und gibt ein wenig zurück, also setz es mit Bedacht ein.
-- **Blessing of Sacrifice** leitet einen Teil des Schadens eines Verbündeten auf dich um. Die Menge ist klein, daher wirkt es am besten gegen viele kleine Treffer. Gib dem Verbündeten danach seinen normalen Segen zurück.
+- **Blessing of Sacrifice** leitet einen Teil des Schadens eines Verbündeten auf dich um. Die Menge ist klein, daher wirkt es am besten gegen viele kleine Treffer. Gib dem Verbündeten danach seinen normalen Segen zurück. Judgement nutzt seit dem 11. November deine Fernkampftrefferchance.
 - **Divine Intervention** schützt einen Verbündeten 3 Minuten lang vor allem, tötet aber dich. Nutze es als Absicherung gegen einen Wipe, auf einem Heiler weit weg vom Boss, damit er die Gruppe wiederbeleben kann.
 
 ## Segen in der Gruppe

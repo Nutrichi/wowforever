@@ -3,7 +3,7 @@ title: "Guida al livellamento del Priest in WoW Forever"
 metaTitle: "Guida leveling Priest WoW Forever: build Discipline, Holy e Shadow fino al 60"
 description: "Come livellare un Priest in WoW Forever: build di livello 60 per Discipline, Holy e Shadow, la rotazione, i livelli chiave, gli incantesimi razziali, le bacchette, le professioni, il mana e le cure."
 short: "Leveling del Priest"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -78,7 +78,7 @@ Per il livello 60 ogni guida di specializzazione ha le sue build per raid, level
 | 32 | Shadow Word: Death, Abolish Disease | Istruttore di classe |
 | 34 | Levitate | Istruttore di classe |
 | 35 | Professioni Artisan | Istruttori di professione |
-| 40 | Greater Heal, cavalcatura, Dual Specialization | Istruttori |
+| 40 | Greater Heal, cavalcatura, Dual Specialization (50 oro) | Istruttori |
 | 40 | Shadowform, Power Infusion, Prayer of Mending | Albero dei talenti |
 | 48 | Prayer of Fortitude | Istruttore di classe |
 | 56 | Prayer of Shadow Protection | Istruttore di classe |

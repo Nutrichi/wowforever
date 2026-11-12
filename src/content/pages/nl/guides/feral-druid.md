@@ -3,7 +3,7 @@ title: "Feral Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Feral Druid: cat- en bearbuilds, rotatie, stats"
 description: "De Feral Druid in WoW Forever: builds voor level 60 voor raids, levelen en PvP, Shifting Power en Primal Bite, de rotaties als cat en bear, stats en races."
 short: "Feral Druid"
-updated: 2026-10-31
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -100,7 +100,7 @@ De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in d
 | **Blood Frenzy** | 5 extra Rage bij een critical strike in Bear Form, een extra Combo Point bij een critical strike in Cat Form |
 | **Leader of the Pack** | 3% meer critical strike chance voor melee en ranged voor de party of raid binnen 45 yards |
 | **Natural Reaction** | 5% meer kans om te ontwijken en 5 Rage bij elke dodge |
-| **Rend and Tear** | 10% meer schade met melee-abilities op bloedende doelwitten |
+| **Rend and Tear** | 10% meer schade met melee-abilities op bloedende doelwitten, sinds 11 november ook op de bleed van Pounce |
 | **Furor** | 10 Rage als je naar Bear Form shift; Cat Form geeft de Energy terug die je had, plus 10 Energy per seconde buiten Bear Form |
 
 Voor de soloversie: een snelle Rejuvenation en Swiftmend helen je op, en dan ga je terug in je vorm.

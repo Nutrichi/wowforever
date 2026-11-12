@@ -3,7 +3,7 @@ title: "Livellare un Rogue in WoW Forever: la guida"
 metaTitle: "Leveling del Rogue in WoW Forever: build per ogni spec al 60"
 description: "Come livellare un Rogue in WoW Forever: build di livello 60 per Assassination, Combat e Subtlety, la rotazione, i livelli chiave, le missioni dei veleni e le armi."
 short: "Leveling Rogue"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -83,7 +83,7 @@ Per il livello 60 ogni guida di specializzazione ha le sue build per raid, level
 | 30 | Venom, Relentless Strikes, Blade Flurry, Hemorrhage, Preparation | Albero dei talenti |
 | 34 | Blind | Istruttore di classe |
 | 35 | Seal Fate, Flash of Steel, Boot Knife | Albero dei talenti |
-| 40 | Safe Fall, cavalcature, Dual Specialization | Istruttori |
+| 40 | Safe Fall, cavalcature, Dual Specialization (50 oro) | Istruttori |
 | 40 | Mutilate, Adrenaline Rush, Death Mark | Albero dei talenti |
 
 Le abilità precedenti arrivano dall'istruttore di classe: Stealth all'1, Backstab e Pick Pocket al 4, Gouge al 6, Evasion all'8, Kick e Parry al 12.

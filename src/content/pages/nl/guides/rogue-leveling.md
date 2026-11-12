@@ -3,7 +3,7 @@ title: "Rogue levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Rogue levelgids: builds voor elke spec tot 60"
 description: "Zo level je een Rogue in WoW Forever: builds voor level 60 voor Assassination, Combat en Subtlety, de rotatie, belangrijke levels, gifquests, wapens en beroepen."
 short: "Rogue levelen"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -83,7 +83,7 @@ Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: 
 | 30 | Venom, Relentless Strikes, Blade Flurry, Hemorrhage, Preparation | Talentboom |
 | 34 | Blind | Classtrainer |
 | 35 | Seal Fate, Flash of Steel, Boot Knife | Talentboom |
-| 40 | Safe Fall, riding, Dual Specialization | Trainers |
+| 40 | Safe Fall, riding, Dual Specialization (50 goud) | Trainers |
 | 40 | Mutilate, Adrenaline Rush, Death Mark | Talentboom |
 
 Eerdere spreuken komen van de classtrainer: Stealth op 1, Backstab en Pick Pocket op 4, Gouge op 6, Evasion op 8, Kick en Parry op 12.

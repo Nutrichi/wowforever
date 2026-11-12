@@ -3,7 +3,7 @@ title: "Bibliotheksbücher in WoW Forever: alle Fundorte und Belohnungen"
 metaTitle: "WoW Forever Bibliotheksbücher: alle 36 Fundorte mit /way, die Belohnungen und wo man sie abgibt"
 description: "Wo jedes Bibliotheksbuch in WoW Forever liegt: 36 Bücher mit /way in vier Levelstufen, wo Alliance und Horde sie abgeben, und die Belohnungen für 10, 20 und 25 Bücher."
 short: "Bibliotheksbücher"
-updated: 2026-10-10
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -42,6 +42,8 @@ Die zwei Halsketten sanken in der Beta auf [grüne Qualität](/de/news/necklaces
 ## Wo man sie abgibt
 
 Die Alliance geht zum Mage Tower im Mage Quarter von Stormwind, die Horde ins Magic Quarter von Undercity. Die zwei Quests für 20 und 25 Bücher tragen denselben Namen, Greater Friend of the Library.
+
+Mages bekommen etwas extra: Das erste Buch gibt ihnen den Zauber Study, der in einer Bibliothek Schriftrollen macht. Siehe den [Guide zu Mage-Schriftrollen](/de/guides/mage-scrolls/).
 
 ![Der Bibliothekar Garion Wendell in Stormwind mit dem Fenster zum Abgeben eines Buches, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 

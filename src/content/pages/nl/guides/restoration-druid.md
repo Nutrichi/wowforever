@@ -3,7 +3,7 @@ title: "Restoration Druid: de healgids voor WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talenten, macro's en FAQ"
 description: "De Restoration Druid in WoW Forever: wat er verandert voor de healer, sterktes en zwaktes, de standaardbuild 11/0/40, Dual Specialization, nuttige macro's, unit frames en de meest gestelde vragen."
 short: "Restoration Druid"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -40,7 +40,7 @@ De Restoration Druid in WoW Forever blijft een healer die de schade voor is, met
 ## Wat er verandert voor de healer
 
 - **Omen of Clarity is basis** en kan nu ook procken op spells, ongeveer twee keer per minuut. De proc maakt de volgende spell gratis, dus hij loont het meest op een dure heal.
-- **Wild Growth** is het nieuwe sluitstuk van de boom: een sterke heal op de hele party van het doelwit.
+- **Wild Growth** is het nieuwe sluitstuk van de boom: een sterke heal op de hele party van het doelwit. Sinds 11 november kun je hem niet meer al lopend casten, maar hij haalt dubbel zoveel uit je spell power, [meer in onze post](/nl/news/wild-growth-can-no-longer-be-cast-while-moving/).
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> verbruikt** de HoT die hij gebruikt niet meer.
 - **HoTs kunnen critten.** De extra critkans van Improved Regrowth telt waarschijnlijk ook voor het HoT-deel van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Dat komt uit de gegevens van het spel en was op de beta niet te testen.
 - **HoTs van meerdere Druids stapelen** op één doelwit. Een bug verhindert dat in sommige gevallen nog.

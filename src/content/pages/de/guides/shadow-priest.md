@@ -3,7 +3,7 @@ title: "Shadow-Priest-Guide für WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34-Build, Rotation und Werte"
 description: "Der Shadow Priest in WoW Forever: der Build 14/3/34 für Level 60, Improved Mind Flay und Vampiric Embrace, die DoT-Rotation, Shadowform, Mana, Werte und Völker."
 short: "Shadow Priest"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -85,6 +85,8 @@ Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](
 | **Devouring Contagion** | 2/2 |
 | **Darkness** | 5/5 |
 | **Shadowform** | 1/1 |
+
+Twilight Focus funktioniert erst seit dem Hotfix vom 11. November in Shadowform. Vorher brachten die 3 Punkte in deiner Form nichts, [mehr in unserem Beitrag](/de/news/judgement-now-counts-as-a-ranged-attack/).
 
 ### Leveling-Build, 16/0/35
 

@@ -3,7 +3,7 @@ title: "Subir un Paladin en WoW Forever: la guía"
 metaTitle: "Guía de subida del Paladin en WoW Forever: builds de Retribution, Protection y Shockadin hasta el 60"
 description: "Cómo subir un Paladin en WoW Forever: el primer build, builds de nivel 60 para Retribution, Protection y Shockadin, la rotación, los niveles clave, las misiones de clase y sus armas, seals, auras y blessings."
 short: "Subida del Paladin"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -86,7 +86,7 @@ Para el nivel 60, cada guía de especialización tiene sus propias builds para b
 | 30 | Divine Intervention, Seal of Light | Instructor de clase |
 | 34 | Divine Shield | Instructor de clase |
 | 38 | Seal of Wisdom | Instructor de clase |
-| 40 | Blessing of Light, equitación, Dual Specialization | Instructores |
+| 40 | Blessing of Light, equitación, Dual Specialization (50 de oro) | Instructores |
 | 42 | Cleanse | Instructor de clase |
 | 44 | Hammer of Wrath | Instructor de clase |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6940"><img class="wf-wh__icon" src="/wh/spell_holy_sealofsacrifice.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blessing of Sacrifice</a> | Instructor de clase |
@@ -183,6 +183,8 @@ Un seal es un beneficio sobre ti durante 30 segundos. Judgement lo libera sobre 
 - **Seal of Justice** da a tus golpes una probabilidad de aturdir. Su Judgement impide que un monstruo huya con poca vida.
 - **Seal of Light** te cura un poco con tus golpes. Su Judgement permite que todos los que golpean al monstruo cuerpo a cuerpo se curen un poco.
 - **Seal of Wisdom** devuelve algo de maná con tus golpes. Su Judgement hace que los ataques y hechizos contra el monstruo devuelvan maná.
+
+Desde el 11 de noviembre, Judgement cuenta como ataque a distancia. Ya no activa efectos que funcionan con golpes cuerpo a cuerpo y usa tu probabilidad de golpe a distancia, [más en nuestra noticia](/es/news/judgement-now-counts-as-a-ranged-attack/).
 
 ## Auras
 

@@ -3,7 +3,7 @@ title: "Hunter leveling guide for WoW Forever"
 metaTitle: "WoW Forever Hunter leveling guide: Beast Mastery, Marksmanship and Survival builds to 60"
 description: "How to level a Hunter in WoW Forever: the early levels, level 60 builds for Beast Mastery, Marksmanship and Survival, the rotation, key levels, the taming quest, weapons, gear, professions, pets, traps, tracking and Aspects."
 short: "Hunter leveling"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: en
 faq:
   - q: "What is the best spec to level a Hunter in WoW Forever?"
@@ -86,7 +86,7 @@ For level 60, every spec guide has its own builds for raids, leveling and PvP: [
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3034"><img class="wf-wh__icon" src="/wh/ability_hunter_aimedshot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Viper Sting</a> | Class trainer |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13159"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Pack</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19882"><img class="wf-wh__icon" src="/wh/ability_racial_avatar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Giants</a> | Class trainer |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19574"><img class="wf-wh__icon" src="/wh/ability_druid_ferociousbite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bestial Wrath</a>, Sniper Shot, Lacerating Strikes | Talent tree |
-| 40 | Riding, Dual Specialization | Trainers |
+| 40 | Riding, Dual Specialization (50 gold) | Trainers |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20043"><img class="wf-wh__icon" src="/wh/spell_nature_protectionformnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Wild</a> | Class trainer |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19879"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Dragonkin</a> | Class trainer |
 | 60 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19801"><img class="wf-wh__icon" src="/wh/spell_nature_drowsy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquilizing Shot</a> | Class trainer |

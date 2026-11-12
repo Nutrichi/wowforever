@@ -3,7 +3,7 @@ title: "Library books in WoW Forever: every location and reward"
 metaTitle: "WoW Forever library books: all 36 locations with /way, the rewards and where to hand them in"
 description: "Where to find every library book in WoW Forever: 36 books with /way coordinates in four level bands, where the Alliance and the Horde hand them in, and the rewards for 10, 20 and 25 books."
 short: "Library books"
-updated: 2026-10-10
+updated: 2026-11-12
 lang: en
 faq:
   - q: "How many library books are there in WoW Forever?"
@@ -41,6 +41,8 @@ The two necklaces dropped to [green quality](/news/necklaces-for-10-books-drop-t
 ## Where to hand them in
 
 The Alliance goes to the Mage Tower in the Mage Quarter of Stormwind, the Horde to the Magic Quarter of Undercity. The two quests for 20 and 25 books carry the same name, Greater Friend of the Library.
+
+Mages get something extra: the first book gives them the spell Study, which makes scrolls in a library. See the [Mage scrolls guide](/guides/mage-scrolls/).
 
 ![The librarian Garion Wendell in Stormwind with the window to hand in a book, a screenshot from the beta of World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 

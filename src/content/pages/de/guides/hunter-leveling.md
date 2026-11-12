@@ -3,7 +3,7 @@ title: "Hunter leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Hunter-Levelguide: Builds für Beast Mastery, Marksmanship und Survival bis 60"
 description: "Einen Hunter leveln in WoW Forever: die ersten Level, Builds für Level 60 für Beast Mastery, Marksmanship und Survival, die Rotation, wichtige Level, die Zähmungsquest, Waffen, Ausrüstung, Berufe, Begleiter, Fallen, Aufspüren und Aspects."
 short: "Hunter leveln"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -87,7 +87,7 @@ Für Level 60 hat jeder Spec-Guide eigene Builds für Raids, Leveln und PvP: [Be
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3034"><img class="wf-wh__icon" src="/wh/ability_hunter_aimedshot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Viper Sting</a> | Klassenlehrer |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13159"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Pack</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19882"><img class="wf-wh__icon" src="/wh/ability_racial_avatar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Giants</a> | Klassenlehrer |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19574"><img class="wf-wh__icon" src="/wh/ability_druid_ferociousbite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bestial Wrath</a>, Sniper Shot, Lacerating Strikes | Talentbaum |
-| 40 | Reiten, Dual Specialization | Lehrer |
+| 40 | Reiten, Dual Specialization (50 Gold) | Lehrer |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20043"><img class="wf-wh__icon" src="/wh/spell_nature_protectionformnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Wild</a> | Klassenlehrer |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19879"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Dragonkin</a> | Klassenlehrer |
 | 60 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19801"><img class="wf-wh__icon" src="/wh/spell_nature_drowsy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquilizing Shot</a> | Klassenlehrer |

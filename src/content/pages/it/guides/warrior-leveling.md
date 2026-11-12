@@ -3,7 +3,7 @@ title: "Livellare un Warrior in WoW Forever: la guida"
 metaTitle: "Leveling del Warrior in WoW Forever: Arms, Fury e Protection"
 description: "Come livellare un Warrior in WoW Forever: la prima build, build di livello 60 per Arms, Fury e Protection, la rotazione, i livelli chiave, le missioni delle stance e Rage."
 short: "Leveling del Warrior"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -85,7 +85,7 @@ Per il livello 60 ogni guida di specializzazione ha le sue build per raid, level
 | 30 | Sweeping Strikes, Death Wish, Concussion Blow | Albero dei talenti |
 | 36 | Whirlwind | Istruttore di classe |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Istruttore di classe |
-| 40 | Armatura a piastre, cavalcatura, Dual Specialization | Istruttori |
+| 40 | Armatura a piastre, cavalcatura, Dual Specialization (50 oro) | Istruttori |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Istruttore di classe |
 
 Victory Rush è una novità per livellare: dopo che uccidi un mostro, colpisce e ti cura del 10% della vita massima. Slam ha un tempo di recupero di 18 secondi in Forever. Con punti in Talented del sistema Legacy raggiungi ogni talento fino a cinque livelli prima.

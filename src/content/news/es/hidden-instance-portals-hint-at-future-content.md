@@ -67,7 +67,7 @@ Windshear Crag no tiene portal, pero un camino nuevo en lo alto lleva a una entr
 
 ## New Avalon, Eastern Plaguelands
 
-Partes de la Scarlet Enclave, la última banda de Season of Discovery, están en Forever: la entrada de la banda y la zona abierta de New Avalon. Quien intenta entrar en New Avalon vuelve al instante a Light's Hope Chapel. Quizá sean restos, pero mantienen viva la esperanza de ver más contenido de Season of Discovery. Deadwind Pass también cambió: [el agujero bajo Karazhan ya no está](/es/news/the-hole-beneath-karazhan-is-gone-from-the-beta/).
+Partes de la Scarlet Enclave, la última banda de Season of Discovery, están en Forever: la entrada de la banda y la zona abierta de New Avalon. Quien intenta entrar en New Avalon vuelve al instante a Light's Hope Chapel. Quizá sean restos, pero mantienen viva la esperanza de ver más contenido de Season of Discovery. Deadwind Pass también cambió: [el agujero bajo Karazhan ya no está](/es/news/the-hole-beneath-karazhan-is-gone-from-the-beta/). Los desarrolladores han dicho desde entonces que quieren [llevar la Scarlet Enclave más adelante a Forever](/es/news/scarlet-enclave-may-come-back-to-forever/).
 
 ![Un paso rocoso con un estandarte hacia New Avalon en las Eastern Plaguelands, una captura de pantalla de la beta de World of Warcraft: Forever](../../../assets/posts/2026-10-23-wow-forever-new-avalon.jpg)
 

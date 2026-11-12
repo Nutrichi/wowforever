@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Retribution Paladin: build, rotatie en seals"
 description: "De Retribution Paladin in WoW Forever: de build voor level 60, de rotatie met Seal of Command, Judgements, blessings, stats en races."
 short: "Retribution Paladin"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -134,7 +134,7 @@ Geef voor een gevecht iedereen de juiste blessing, en iedereen behalve de tank o
 
 Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan tellen deze stats:
 
-- **Hit**, zodat je aanvallen en spells raken.
+- **Hit**, zodat je aanvallen en spells raken. Judgement gebruikt sinds 11 november je ranged hit chance.
 - **Critical strike chance**, die samenwerkt met Conviction en Vengeance.
 - **Strength en attack power** voor je melee-schade. Strength geeft 2 attack power per punt.
 - **Spell power en Intellect**, want het meeste van je kit schaalt met spell power. Champion of the Light geeft spell damage uit Intellect.

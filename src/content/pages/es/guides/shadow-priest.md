@@ -3,7 +3,7 @@ title: "Guía del Shadow Priest en WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: build 14/3/34, rotación y stats"
 description: "El Shadow Priest en WoW Forever: la build 14/3/34 para nivel 60, Improved Mind Flay y Vampiric Embrace, la rotación de DoTs, Shadowform, el maná, los stats y las razas."
 short: "Shadow Priest"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -85,6 +85,8 @@ Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/
 | **Devouring Contagion** | 2/2 |
 | **Darkness** | 5/5 |
 | **Shadowform** | 1/1 |
+
+Twilight Focus solo funciona en Shadowform desde el hotfix del 11 de noviembre. Antes, esos 3 puntos no hacían nada en tu forma, [más en nuestra noticia](/es/news/judgement-now-counts-as-a-ranged-attack/).
 
 ### Build para subir de nivel, 16/0/35
 

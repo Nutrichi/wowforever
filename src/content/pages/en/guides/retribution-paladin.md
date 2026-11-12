@@ -3,7 +3,7 @@ title: "Retribution Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Retribution Paladin: build, rotation and seals"
 description: "The Retribution Paladin in WoW Forever: the level 60 build, the rotation with Seal of Command, Judgements, blessings, stats and races."
 short: "Retribution Paladin"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: en
 faq:
   - q: "Is Retribution Paladin good in WoW Forever?"
@@ -133,7 +133,7 @@ Before a fight, give everyone the right blessing, and everyone except the tank a
 
 Stat priorities for level 60 follow once we can test level 60 in the live game. Until then, these are the stats that count:
 
-- **Hit**, so your attacks and spells land.
+- **Hit**, so your attacks and spells land. Judgement uses your ranged hit chance since 11 November.
 - **Critical strike chance**, which works with Conviction and Vengeance.
 - **Strength and attack power** for your melee damage. Strength gives 2 attack power per point.
 - **Spell power and Intellect**, because most of your kit scales with spell power. Champion of the Light adds spell damage from Intellect.

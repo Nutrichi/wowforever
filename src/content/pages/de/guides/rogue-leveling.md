@@ -3,7 +3,7 @@ title: "Rogue leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Rogue-Levelguide: Builds für jede Spec bis 60"
 description: "So levelst du einen Rogue in WoW Forever: Builds für Level 60 für Assassination, Combat und Subtlety, Rotation, wichtige Level, Giftquests, Waffen und Berufe."
 short: "Rogue leveln"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -83,7 +83,7 @@ Für Level 60 hat jeder Spec-Guide eigene Builds für Raids, Leveln und PvP: [As
 | 30 | Venom, Relentless Strikes, Blade Flurry, Hemorrhage, Preparation | Talentbaum |
 | 34 | Blind | Klassenlehrer |
 | 35 | Seal Fate, Flash of Steel, Boot Knife | Talentbaum |
-| 40 | Safe Fall, Reiten, Dual Specialization | Lehrer |
+| 40 | Safe Fall, Reiten, Dual Specialization (50 Gold) | Lehrer |
 | 40 | Mutilate, Adrenaline Rush, Death Mark | Talentbaum |
 
 Frühere Fähigkeiten kommen vom Klassenlehrer: Stealth auf 1, Backstab und Pick Pocket auf 4, Gouge auf 6, Evasion auf 8, Kick und Parry auf 12.

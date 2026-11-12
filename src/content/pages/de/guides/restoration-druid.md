@@ -3,7 +3,7 @@ title: "Restoration Druid: der Heilguide für WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: Build, Talente, Makros und FAQ"
 description: "Der Restoration Druid in WoW Forever: was sich für den Heiler ändert, Stärken und Schwächen, der Standardbuild 11/0/40, Dual Specialization, nützliche Makros, Unit Frames und die häufigsten Fragen."
 short: "Restoration Druid"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -40,7 +40,7 @@ Der Restoration Druid in WoW Forever bleibt ein Heiler, der dem Schaden zuvorkom
 ## Was sich für den Heiler ändert
 
 - **Omen of Clarity ist Grundausstattung** und kann jetzt bei Zaubern auslösen, etwa zweimal pro Minute. Der Proc macht den nächsten Zauber kostenlos, er lohnt sich also am meisten bei einer teuren Heilung.
-- **Wild Growth** ist das neue Abschlusstalent des Baums: eine starke Heilung auf die ganze Gruppe des Ziels.
+- **Wild Growth** ist das neue Abschlusstalent des Baums: eine starke Heilung auf die ganze Gruppe des Ziels. Seit dem 11. November geht er nicht mehr in der Bewegung, zieht aber doppelt so viel aus deiner Zaubermacht, [mehr in unserem Beitrag](/de/news/wild-growth-can-no-longer-be-cast-while-moving/).
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> verbraucht** den HoT, den es nutzt, nicht mehr.
 - **HoTs können kritisch treffen.** Die zusätzliche kritische Chance von Improved Regrowth gilt wahrscheinlich auch für den HoT-Teil von <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Das stammt aus den Spieldaten und ließ sich auf der Beta nicht testen.
 - **HoTs mehrerer Druiden stapeln** auf einem Ziel. Ein Bug verhindert das in manchen Fällen noch.

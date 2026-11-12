@@ -3,7 +3,7 @@ title: "Retribution Paladin dans WoW Forever : le guide"
 metaTitle: "WoW Forever Retribution Paladin : build, rotation et sceaux"
 description: "Le Retribution Paladin dans WoW Forever : le build niveau 60, la rotation avec Seal of Command, les Judgements, les bénédictions, les stats et les races."
 short: "Retribution Paladin"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -134,7 +134,7 @@ Avant un combat, donnez à chacun la bonne bénédiction, et à tous sauf au tan
 
 Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester le niveau 60 dans le jeu live. D'ici là, voici ce qui compte :
 
-- **Le toucher**, pour que vos attaques et sorts portent.
+- **Le toucher**, pour que vos attaques et sorts portent. Judgement utilise vos chances de toucher à distance depuis le 11 novembre.
 - **Les chances de coup critique**, qui vont avec Conviction et Vengeance.
 - **La Force et la puissance d'attaque** pour vos dégâts de mêlée. La Force donne 2 de puissance d'attaque par point.
 - **La puissance des sorts et l'Intelligence**, car la plupart de votre kit évolue avec la puissance des sorts. Champion of the Light ajoute des dégâts des sorts à partir de l'Intelligence.

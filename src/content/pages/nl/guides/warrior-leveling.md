@@ -3,7 +3,7 @@ title: "Warrior levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Warrior levelgids: Arms, Fury en Protection tot 60"
 description: "Zo level je een Warrior in WoW Forever: de eerste build, builds voor level 60 voor Arms, Fury en Protection, de rotatie, belangrijke levels, stancequests en Rage."
 short: "Warrior levelen"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -85,7 +85,7 @@ Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: 
 | 30 | Sweeping Strikes, Death Wish, Concussion Blow | Talentboom |
 | 36 | Whirlwind | Classtrainer |
 | 38 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=6552"><img class="wf-wh__icon" src="/wh/inv_gauntlets_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pummel</a> | Classtrainer |
-| 40 | Plate armor, riding, Dual Specialization | Trainers |
+| 40 | Plate armor, riding, Dual Specialization (50 goud) | Trainers |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1719"><img class="wf-wh__icon" src="/wh/ability_criticalstrike.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recklessness</a> | Classtrainer |
 
 Victory Rush is nieuw om te levelen: nadat je een monster doodt, slaat het en healt het je voor 10% van je maximale health. Slam heeft in Forever een cooldown van 18 seconden. Met punten in Talented uit het Legacy-systeem bereik je elk talent tot vijf levels sneller.

@@ -3,7 +3,7 @@ title: "Monter un Rogue dans WoW Forever : le guide"
 metaTitle: "Leveling Rogue WoW Forever : builds de chaque spé jusqu'au 60"
 description: "Monter un Rogue dans WoW Forever : builds niveau 60 pour Assassination, Combat et Subtlety, la rotation, les niveaux clés, les quêtes de poisons et les armes."
 short: "Leveling Rogue"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -83,7 +83,7 @@ Pour le niveau 60, chaque guide de spécialisation a ses propres builds pour les
 | 30 | Venom, Relentless Strikes, Blade Flurry, Hemorrhage, Preparation | Arbre de talents |
 | 34 | Blind | Maître de classe |
 | 35 | Seal Fate, Flash of Steel, Boot Knife | Arbre de talents |
-| 40 | Safe Fall, monte, Dual Specialization | Maîtres |
+| 40 | Safe Fall, monte, Dual Specialization (50 po) | Maîtres |
 | 40 | Mutilate, Adrenaline Rush, Death Mark | Arbre de talents |
 
 Les techniques plus anciennes viennent du maître de classe : Stealth au 1, Backstab et Pick Pocket au 4, Gouge au 6, Evasion au 8, Kick et Parry au 12.

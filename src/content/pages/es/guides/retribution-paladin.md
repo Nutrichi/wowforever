@@ -3,7 +3,7 @@ title: "Retribution Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Retribution Paladin: build, rotación y sellos"
 description: "El Retribution Paladin en WoW Forever: la build de nivel 60, la rotación con Seal of Command, los Judgements, las bendiciones, los stats y las razas."
 short: "Retribution Paladin"
-updated: 2026-11-07
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -123,7 +123,7 @@ Cada Paladin solo puede mantener un Judgement en un objetivo, así que eliges se
 
 - **Divine Shield**, **Divine Protection** y **Blessing of Protection** son fuertes reutilizaciones defensivas, y las tres causan Forbearance. No puedes atacar bajo Divine Protection ni Blessing of Protection, así que Divine Shield va primero.
 - **Lay on Hands** te cura por completo al instante. Cuesta todo tu maná y devuelve un poco, así que úsalo con cuidado.
-- **Blessing of Sacrifice** te pasa parte del daño de un aliado. La cantidad es pequeña, así que funciona mejor contra muchos golpes pequeños. Después devuelve al aliado su bendición normal.
+- **Blessing of Sacrifice** te pasa parte del daño de un aliado. La cantidad es pequeña, así que funciona mejor contra muchos golpes pequeños. Después devuelve al aliado su bendición normal. Judgement usa tu probabilidad de golpe a distancia desde el 11 de noviembre.
 - **Divine Intervention** protege a un aliado de todo durante 3 minutos, pero te mata. Úsala como seguro contra un wipe, en un sanador lejos del jefe, para que resucite al grupo.
 
 ## Bendiciones en grupo

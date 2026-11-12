@@ -3,7 +3,7 @@ title: "Livellare un Hunter in WoW Forever: la guida"
 metaTitle: "Guida al leveling dell'Hunter in WoW Forever: build Beast Mastery, Marksmanship e Survival fino al 60"
 description: "Come livellare un Hunter in WoW Forever: i primi livelli, build di livello 60 per Beast Mastery, Marksmanship e Survival, la rotazione, i livelli chiave, la missione di addomesticamento, armi, equipaggiamento, professioni, famigli, trappole, tracciamento e Aspect."
 short: "Leveling Hunter"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -87,7 +87,7 @@ Per il livello 60 ogni guida di specializzazione ha le sue build per raid, level
 | 36 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3034"><img class="wf-wh__icon" src="/wh/ability_hunter_aimedshot.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Viper Sting</a> | Istruttore di classe |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13159"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Pack</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19882"><img class="wf-wh__icon" src="/wh/ability_racial_avatar.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Giants</a> | Istruttore di classe |
 | 40 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19574"><img class="wf-wh__icon" src="/wh/ability_druid_ferociousbite.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bestial Wrath</a>, Sniper Shot, Lacerating Strikes | Albero dei talenti |
-| 40 | Cavalcatura, Dual Specialization | Istruttori |
+| 40 | Cavalcatura, Dual Specialization (50 oro) | Istruttori |
 | 46 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20043"><img class="wf-wh__icon" src="/wh/spell_nature_protectionformnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Aspect of the Wild</a> | Istruttore di classe |
 | 50 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19879"><img class="wf-wh__icon" src="/wh/inv_misc_head_dragon_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Track Dragonkin</a> | Istruttore di classe |
 | 60 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19801"><img class="wf-wh__icon" src="/wh/spell_nature_drowsy.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tranquilizing Shot</a> | Istruttore di classe |
