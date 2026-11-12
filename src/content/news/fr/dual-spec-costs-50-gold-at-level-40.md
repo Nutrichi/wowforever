@@ -13,6 +13,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 13 novembre :** après avoir appris Dual Spec, un bug peut vider vos barres d'action à la déconnexion, plus de détails dans [notre article](/fr/news/dual-spec-can-wipe-your-action-bars/).
+
 La Dual Spec est dans World of Warcraft: Forever dès le premier jour, mais elle n'est pas donnée. Au niveau 40, votre maître de classe vend un second arbre de talents pour 50 pièces d'or, juste quand vous voulez aussi votre première monture.
 
 ## Deux builds, un seul changement

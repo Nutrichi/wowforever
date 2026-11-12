@@ -13,6 +13,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Update 13 november:** na het leren van Dual Spec kan een bug je actiebalken wissen als je uitlogt, meer in [onze post](/nl/news/dual-spec-can-wipe-your-action-bars/).
+
 Dual Spec zit vanaf dag één in World of Warcraft: Forever, maar goedkoop is het niet. Op level 40 verkoopt je classtrainer een tweede talentboom voor 50 goud, net wanneer je ook je eerste mount wilt.
 
 ## Twee builds, één wissel

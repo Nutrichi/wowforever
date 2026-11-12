@@ -13,6 +13,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Update vom 13. November:** Nach dem Erlernen von Dual Spec kann ein Bug beim Ausloggen deine Aktionsleisten leeren, mehr in [unserem Beitrag](/de/news/dual-spec-can-wipe-your-action-bars/).
+
 Dual Spec ist ab dem ersten Tag in World of Warcraft: Forever, aber billig ist es nicht. Auf Level 40 verkauft dein Klassenlehrer einen zweiten Talentbaum für 50 Gold, genau dann, wenn du auch dein erstes Reittier willst.
 
 ## Zwei Builds, ein Wechsel

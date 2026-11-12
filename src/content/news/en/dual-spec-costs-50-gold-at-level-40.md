@@ -12,6 +12,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Update 13 November:** after learning Dual Spec, a bug can wipe your action bars when you log out, more in [our post](/news/dual-spec-can-wipe-your-action-bars/).
+
 Dual Spec is in World of Warcraft: Forever from day one, but it is not cheap. At level 40 your class trainer sells a second talent tree for 50 gold, right when you also want your first mount.
 
 ## Two builds, one switch

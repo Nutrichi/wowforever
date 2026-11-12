@@ -13,6 +13,8 @@ tags: ["forever", "raid"]
 featured: false
 draft: false
 ---
+> **Actualización del 13 de noviembre:** en el podcast Aggrend ya lo dice sin rodeos: la Scarlet Enclave volverá, más en [nuestra noticia](/es/news/aggrend-says-the-scarlet-enclave-will-return/).
+
 La Scarlet Enclave, la última banda de Season of Discovery, podría llegar más adelante a World of Warcraft: Forever. En una entrevista con Joardee, Josh Greenfield (Aggrend) y Tim Jones explican por qué aún les gusta y qué quieren hacer de otra manera.
 
 ## Demasiado al final de Season of Discovery

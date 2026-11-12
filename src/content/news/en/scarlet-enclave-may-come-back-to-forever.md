@@ -12,6 +12,8 @@ tags: ["forever", "raid"]
 featured: false
 draft: false
 ---
+> **Update 13 November:** in the podcast Aggrend now says it outright: the Scarlet Enclave will return, more in [our post](/news/aggrend-says-the-scarlet-enclave-will-return/).
+
 The Scarlet Enclave, the last raid of Season of Discovery, may come to World of Warcraft: Forever later. In an interview with Joardee, Josh Greenfield (Aggrend) and Tim Jones explain why they still like it, and what they want to do differently.
 
 ## Too much at the end of Season of Discovery
