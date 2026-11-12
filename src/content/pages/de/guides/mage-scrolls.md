@@ -1,6 +1,6 @@
 ---
 title: "Mage-Schriftrollen, Comprehension und Study"
-metaTitle: "WoW Forever Mage-Schriftrollen: Comprehension, Study in einer Bibliothek und alle 28 Schriftrollen nach Stufe"
+metaTitle: "WoW Forever Mage-Schriftrollen: Comprehension, Study, alle 28"
 description: "So funktionieren Mage-Schriftrollen in WoW Forever: Comprehend Scroll auf Level 6, die Fertigkeit Comprehension, Study mit einer Light Feather in einer Bibliothek und alle 28 Schriftrollen in vier Stufen."
 short: "Mage-Schriftrollen"
 updated: 2026-11-12

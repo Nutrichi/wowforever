@@ -1,6 +1,6 @@
 ---
 title: "Mage-portalen en teleports in WoW Forever"
-metaTitle: "WoW Forever Mage-portalen en teleports: levels, prijzen, runes en elke Portal Trainer"
+metaTitle: "WoW Forever Mage-portalen: levels, prijzen, runes en trainers"
 description: "Elke Mage-teleport en elk portaal in WoW Forever: vanaf welk level, wat training en runes kosten, hoe portalen werken voor je groep en waar elke Portal Trainer staat."
 short: "Mage-portalen"
 updated: 2026-11-12

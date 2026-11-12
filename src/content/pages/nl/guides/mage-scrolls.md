@@ -1,6 +1,6 @@
 ---
 title: "Mage-scrolls en Comprehension in WoW Forever"
-metaTitle: "WoW Forever Mage-scrolls: Comprehension, Study in een bibliotheek en alle 28 scrolls per tier"
+metaTitle: "WoW Forever Mage-scrolls: Comprehension, Study en alle 28 scrolls"
 description: "Zo werken Mage-scrolls in WoW Forever: Comprehend Scroll op level 6, de skill Comprehension, Study met een Light Feather in een bibliotheek, en alle 28 scrolls in vier tiers."
 short: "Mage-scrolls"
 updated: 2026-11-12

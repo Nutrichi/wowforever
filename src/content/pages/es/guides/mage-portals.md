@@ -1,6 +1,6 @@
 ---
 title: "Portales y teletransportes del Mage en WoW Forever"
-metaTitle: "WoW Forever portales y teletransportes del Mage: niveles, precios, runas y cada Portal Trainer"
+metaTitle: "WoW Forever portales del Mage: niveles, precios, runas"
 description: "Cada teletransporte y portal del Mage en WoW Forever: desde qué nivel, cuánto cuestan el aprendizaje y las runas, cómo funcionan los portales para tu grupo y dónde está cada Portal Trainer."
 short: "Portales del Mage"
 updated: 2026-11-12

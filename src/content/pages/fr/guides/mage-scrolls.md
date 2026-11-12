@@ -1,6 +1,6 @@
 ---
 title: "Parchemins du Mage, Comprehension et Study"
-metaTitle: "WoW Forever parchemins du Mage : Comprehension, Study en bibliothèque et les 28 parchemins par palier"
+metaTitle: "WoW Forever parchemins du Mage : Comprehension, Study, les 28"
 description: "Le fonctionnement des parchemins du Mage dans WoW Forever : Comprehend Scroll au niveau 6, la compétence Comprehension, Study avec une Light Feather en bibliothèque, et les 28 parchemins en quatre paliers."
 short: "Parchemins du Mage"
 updated: 2026-11-12

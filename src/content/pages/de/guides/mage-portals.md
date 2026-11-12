@@ -1,6 +1,6 @@
 ---
 title: "Mage-Portale und Teleports in WoW Forever"
-metaTitle: "WoW Forever Mage-Portale und Teleports: Level, Kosten, Runen und jeder Portal Trainer"
+metaTitle: "WoW Forever Mage-Portale: Level, Kosten, Runen und Lehrer"
 description: "Jeder Teleport und jedes Portal des Mages in WoW Forever: ab welchem Level, was Training und Runen kosten, wie Portale für deine Gruppe funktionieren und wo jeder Portal Trainer steht."
 short: "Mage-Portale"
 updated: 2026-11-12

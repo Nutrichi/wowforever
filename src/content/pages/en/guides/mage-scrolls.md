@@ -1,6 +1,6 @@
 ---
 title: "Mage scrolls and Comprehension in WoW Forever"
-metaTitle: "WoW Forever Mage scrolls: Comprehension, Study in a library and all 28 scrolls by tier"
+metaTitle: "WoW Forever Mage scrolls: Comprehension, Study and all 28 scrolls"
 description: "How Mage scrolls work in WoW Forever: Comprehend Scroll at level 6, the Comprehension skill, Study with a Light Feather in a library, and all 28 scrolls in four tiers."
 short: "Mage scrolls"
 updated: 2026-11-12

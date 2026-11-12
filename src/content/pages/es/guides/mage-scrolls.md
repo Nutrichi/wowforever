@@ -1,6 +1,6 @@
 ---
 title: "Pergaminos del Mage, Comprehension y Study"
-metaTitle: "WoW Forever pergaminos del Mage: Comprehension, Study en una biblioteca y los 28 pergaminos por nivel"
+metaTitle: "WoW Forever pergaminos del Mage: Comprehension, Study y los 28"
 description: "Cómo funcionan los pergaminos del Mage en WoW Forever: Comprehend Scroll en el nivel 6, la habilidad Comprehension, Study con una Light Feather en una biblioteca y los 28 pergaminos en cuatro niveles."
 short: "Pergaminos del Mage"
 updated: 2026-11-12
