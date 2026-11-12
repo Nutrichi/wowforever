@@ -1,7 +1,7 @@
 ---
 title: "Dual Spec peut vider vos barres d'action"
 description: "Depuis qu'ils ont appris Dual Spec dans WoW Forever, beaucoup de joueurs se connectent avec des barres d'action vides. Blizzard n'a pas encore réagi. Un addon qui les sauvegarde aide."
-date: 2026-11-13T00:45:00+01:00
+date: 2026-11-13T00:21:00+01:00
 category: forever
 lang: fr
 manual: true

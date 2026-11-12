@@ -1,7 +1,7 @@
 ---
 title: "Dual Spec kann deine Aktionsleisten leeren"
 description: "Seit sie Dual Spec in WoW Forever gelernt haben, loggen viele Spieler mit leeren Aktionsleisten ein. Blizzard hat noch nicht reagiert. Ein Addon, das deine Leisten speichert, hilft."
-date: 2026-11-13T00:45:00+01:00
+date: 2026-11-13T00:21:00+01:00
 category: forever
 lang: de
 manual: true

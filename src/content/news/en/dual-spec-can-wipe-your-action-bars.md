@@ -1,7 +1,7 @@
 ---
 title: "Dual Spec can wipe your action bars"
 description: "Since learning Dual Spec in WoW Forever, many players log in to empty action bars. Blizzard has not responded yet. An addon that saves your bars helps in the meantime."
-date: 2026-11-13T00:45:00+01:00
+date: 2026-11-13T00:21:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-08-wow-forever-shaman-talent-trees.jpg

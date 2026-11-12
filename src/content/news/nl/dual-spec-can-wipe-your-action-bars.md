@@ -1,7 +1,7 @@
 ---
 title: "Dual Spec kan je actiebalken wissen"
 description: "Sinds ze Dual Spec leerden in WoW Forever, loggen veel spelers in met lege actiebalken. Blizzard reageerde nog niet. Een addon die je balken bewaart, helpt intussen."
-date: 2026-11-13T00:45:00+01:00
+date: 2026-11-13T00:21:00+01:00
 category: forever
 lang: nl
 manual: true

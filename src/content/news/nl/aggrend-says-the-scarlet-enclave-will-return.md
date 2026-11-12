@@ -1,7 +1,7 @@
 ---
 title: "Aggrend: de Scarlet Enclave komt terug"
 description: "De Scarlet Enclave, de laatste raid van Season of Discovery, komt naar WoW Forever, zegt Aggrend in de podcast. Ook het verhaal van de Ashbringer keert terug, al kan dat even duren."
-date: 2026-11-13T00:40:00+01:00
+date: 2026-11-13T00:20:00+01:00
 category: forever
 lang: nl
 manual: true

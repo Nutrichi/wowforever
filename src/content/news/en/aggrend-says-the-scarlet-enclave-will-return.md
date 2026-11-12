@@ -1,7 +1,7 @@
 ---
 title: "Aggrend says the Scarlet Enclave will return"
 description: "The Scarlet Enclave, the last raid of Season of Discovery, comes back to WoW Forever, says Aggrend in the podcast. The story of the Ashbringer returns too, but it may take a while."
-date: 2026-11-13T00:40:00+01:00
+date: 2026-11-13T00:20:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-07-wow-forever-scarlet-crusade-set.jpg

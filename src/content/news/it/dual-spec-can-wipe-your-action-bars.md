@@ -1,7 +1,7 @@
 ---
 title: "Dual Spec può svuotare le tue barre d'azione"
 description: "Da quando hanno imparato Dual Spec in WoW Forever, molti giocatori entrano con le barre d'azione vuote. Blizzard non ha ancora risposto. Un addon che salva le barre aiuta."
-date: 2026-11-13T00:45:00+01:00
+date: 2026-11-13T00:21:00+01:00
 category: forever
 lang: it
 manual: true
