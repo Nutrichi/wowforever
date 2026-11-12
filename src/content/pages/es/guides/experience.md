@@ -3,7 +3,7 @@ title: "Experiencia y XP de descanso en WoW Forever"
 metaTitle: "Guía de experiencia de WoW Forever: XP por nivel, descanso, comida y campamentos"
 description: "Cómo funciona la experiencia en WoW Forever: la XP de cada nivel hasta el 60, misiones, muertes, mazmorras y exploración, grupos, la experiencia de descanso y los bonus de campamentos, comida y el Cozy Sleeping Bag."
 short: "Experiencia y XP de descanso"
-updated: 2026-11-10
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
@@ -211,7 +211,7 @@ Forever añade tres bonus que se acumulan entre sí y con la experiencia de desc
 
 **Well Fed.** La mayoría de la comida de Cooking da Well Fed, con un 5% más de experiencia de las muertes además de sus otros atributos. Suele durar unos 15 minutos y se pierde al morir. Cooking es una profesión secundaria, así que se suma a tus dos profesiones principales, y la necesitas para encender una hoguera.
 
-**Cozy Sleeping Bag.** Extiéndelo en cualquier sitio y túmbate para conseguir hasta 3 acumulaciones de Well-Rested, un 1% más de experiencia por acumulación. El bufo se mantiene al morir, y tumbarse en el saco cuenta como zona de descanso, también desconectado. La [guía del saco de dormir](/es/guides/cozy-sleeping-bag/) recorre la cadena de misiones por los dos continentes.
+**Cozy Sleeping Bag.** Extiéndelo en cualquier sitio y túmbate para conseguir hasta 3 acumulaciones de Well-Rested, un 1% más de experiencia por acumulación. El bufo se mantiene al morir, y tumbarse en el saco cuenta como zona de descanso, también desconectado. La [guía del saco de dormir](/es/guides/cozy-sleeping-bag/) recorre la cadena de misiones por los dos continentes. También puedes tumbarte en el saco de alguien de tu grupo, [más en nuestra noticia](/es/news/no-sleeping-bag-use-one-from-your-party/).
 
 ![Una tienda, una hoguera y un Cozy Sleeping Bag sobre tierra roja, una captura de pantalla de la beta de World of Warcraft: Forever](../../../../assets/posts/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.jpg)
 

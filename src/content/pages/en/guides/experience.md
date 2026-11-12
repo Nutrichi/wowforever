@@ -3,7 +3,7 @@ title: "Experience and rested XP in WoW Forever"
 metaTitle: "WoW Forever experience guide: XP per level, rested XP, food and camps"
 description: "How experience works in WoW Forever: the XP for every level to 60, quests, kills, dungeons and exploration, groups, rested XP and the bonuses from camps, food and the Cozy Sleeping Bag."
 short: "Experience and rested XP"
-updated: 2026-11-10
+updated: 2026-11-12
 lang: en
 faq:
   - q: "How much experience do you need to reach level 60 in WoW Forever?"
@@ -210,7 +210,7 @@ Forever adds three bonuses that stack with each other and with rested XP.
 
 **Well Fed.** Most food from Cooking gives Well Fed, with 5% more experience from kills on top of its other stats. It usually lasts about 15 minutes and is lost when you die. Cooking is a secondary profession, so it comes on top of your two primary ones, and you need it to light a campfire.
 
-**Cozy Sleeping Bag.** Roll it out anywhere and lie down for up to 3 stacks of Well-Rested, 1% more experience per stack. The buff stays when you die, and lying in the bag counts as a rested area, also while logged out. The [sleeping bag guide](/guides/cozy-sleeping-bag/) walks through the quest chain across both continents.
+**Cozy Sleeping Bag.** Roll it out anywhere and lie down for up to 3 stacks of Well-Rested, 1% more experience per stack. The buff stays when you die, and lying in the bag counts as a rested area, also while logged out. The [sleeping bag guide](/guides/cozy-sleeping-bag/) walks through the quest chain across both continents. You can also lie in the bag of a party member, [more in our post](/news/no-sleeping-bag-use-one-from-your-party/).
 
 ![A tent, a campfire and a Cozy Sleeping Bag on red earth, a screenshot from the beta of World of Warcraft: Forever](../../../../assets/posts/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.jpg)
 

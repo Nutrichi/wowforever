@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Gids voor The Drowned City in WoW Forever: ingang, indeling, bazen"
 description: "Zo bereik je The Drowned City onder water voor Stranglethorn Vale in WoW Forever, op deze trash let je en zo versla je de zes bazen en twee rares."
 short: "Gids"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: nl
 manual: true
 sources:
@@ -82,5 +82,5 @@ Umbra komt met vijf Saltscale Murlocs, en hun bleeds tellen snel op. Umbra zelf 
 
 ## Wat nog niet bekend is
 
-- **De rest van de buit**: tot nu toe is alleen <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> van de Primeval Elemental bekend.
+- **De rest van de buit**: tot nu toe zijn <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> van de Primeval Elemental en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> van elke baas bekend.
 - **De beloningen** van vier van de acht quests.

@@ -3,18 +3,22 @@ title: "Cozy Sleeping Bag: the full quest chain in WoW Forever"
 metaTitle: "Cozy Sleeping Bag in WoW Forever: locations, coordinates and rewards"
 description: "Every step of the Cozy Sleeping Bag chain in WoW Forever, with the coordinates, the separate start for Alliance and Horde, the quests in order and what the trail pays out."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-29
+updated: 2026-11-12
 lang: en
 faq:
   - q: "What level do you need for the Cozy Sleeping Bag?"
     a: "Level 14. Below that the chain cannot be started."
   - q: "What does the Cozy Sleeping Bag do?"
-    a: "Lying in it gives 1 percent bonus experience per minute, stacking up to 3 percent. The buff lasts an hour and the item has a one-hour cooldown. You also count as rested while you are inside it."
+    a: "Lying in it gives 1 percent bonus experience per minute, stacking up to 3 percent. The buff lasts two hours and the item has a one-hour cooldown. You also count as rested while you are inside it."
   - q: "Is the chain different for Alliance and Horde?"
     a: "Only the start. The Alliance begins in Westfall and the Horde in The Barrens; from Stonetalon Mountains onwards both factions walk the same trail."
   - q: "Where does the Cozy Sleeping Bag come from?"
     a: "It was introduced in Season of Discovery and returns in WoW Forever. Players found the chain running on the beta."
+  - q: "Can I use the sleeping bag of another player?"
+    a: "Yes, if you are in the same party. Lie in their bag and you get the same Well-Rested buff."
 sources:
+  - name: "Wowhead, sleeping bags in a party"
+    url: "https://www.wowhead.com/forever/news/party-with-other-players-to-use-their-sleeping-bags-for-experience-buff-in-wow-383807"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
@@ -24,7 +28,9 @@ You need to be level 14 to start.
 
 ## What the sleeping bag does
 
-Unfurl it and lie in it. Every minute spent resting gives 1 percent bonus experience, stacking up to 3 percent. The buff holds for an hour, and the item goes on a one-hour cooldown. While you lie in the bag you also count as rested. How it stacks with rested XP, food and camps is in the [experience guide](/guides/experience/).
+Unfurl it and lie in it. Every minute spent resting gives 1 percent bonus experience, stacking up to 3 percent. The buff holds for two hours, and the item goes on a one-hour cooldown. While you lie in the bag you also count as rested. How it stacks with rested XP, food and camps is in the [experience guide](/guides/experience/).
+
+**No bag of your own?** You can also lie in the sleeping bag of another player, as long as you are in the same party. You get the same buff without walking the chain. See someone resting in a bag, ask for an invite. [More in our post](/news/no-sleeping-bag-use-one-from-your-party/).
 
 Three percent on its own is small. Stacked with other buffs, such as the 5 percent from cooking, it adds up on a long evening.
 

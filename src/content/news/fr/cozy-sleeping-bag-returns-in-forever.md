@@ -19,7 +19,7 @@ Brubby, du WoW Secret Finding Discord, a confirmé la chaîne et fourni les capt
 
 ## Ce que fait le sac
 
-Allongez-vous dedans : chaque minute donne 1 pour cent d’expérience bonus, jusqu’à 3 pour cent. Le buff tient une heure et l’objet passe une heure en temps de recharge. Tant que vous y êtes, vous comptez aussi comme reposé.
+Allongez-vous dedans : chaque minute donne 1 pour cent d’expérience bonus, jusqu’à 3 pour cent. Le buff tient deux heures et l’objet passe une heure en temps de recharge. Tant que vous y êtes, vous comptez aussi comme reposé.
 
 Trois pour cent, c’est modeste en soi. Cumulé aux 5 pour cent de la cuisine et au reste d’un jeu de buffs complet, cela commence à compter sur une longue soirée.
 

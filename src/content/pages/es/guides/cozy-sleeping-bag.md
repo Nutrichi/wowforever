@@ -3,19 +3,23 @@ title: "Cozy Sleeping Bag: la cadena de misiones completa en WoW Forever"
 metaTitle: "Cozy Sleeping Bag en WoW Forever: lugares, coordenadas y recompensas"
 description: "Cada paso de la cadena del Cozy Sleeping Bag en WoW Forever, con las coordenadas, el inicio distinto para Alianza y Horda, las misiones en orden y lo que da el recorrido."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-29
+updated: 2026-11-12
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel hace falta para el Cozy Sleeping Bag?"
     a: "Nivel 14. Por debajo no se puede empezar la cadena."
   - q: "¿Qué hace el Cozy Sleeping Bag?"
-    a: "Tumbarte en él da un 1 por ciento de experiencia extra por minuto, hasta un 3 por ciento. El efecto dura una hora y el objeto tiene una hora de reutilización. Mientras estás dentro también cuentas como descansado."
+    a: "Tumbarte en él da un 1 por ciento de experiencia extra por minuto, hasta un 3 por ciento. El efecto dura dos horas y el objeto tiene una hora de reutilización. Mientras estás dentro también cuentas como descansado."
   - q: "¿La cadena es distinta para Alianza y Horda?"
     a: "Solo el inicio. La Alianza empieza en Westfall y la Horda en The Barrens; desde Stonetalon Mountains ambas facciones siguen el mismo recorrido."
   - q: "¿De dónde viene el Cozy Sleeping Bag?"
     a: "Llegó con Season of Discovery y vuelve en WoW Forever. Los jugadores encontraron la cadena activa en la beta."
+  - q: "¿Puedo usar el saco de dormir de otro jugador?"
+    a: "Sí, si estás en su mismo grupo. Túmbate en su saco y recibes el mismo efecto Well-Rested."
 sources:
+  - name: "Wowhead, sleeping bags in a party"
+    url: "https://www.wowhead.com/forever/news/party-with-other-players-to-use-their-sleeping-bags-for-experience-buff-in-wow-383807"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
@@ -25,7 +29,9 @@ Hay que ser nivel 14 para empezar.
 
 ## Qué hace el saco de dormir
 
-Despliégalo y túmbate dentro. Cada minuto de descanso da un 1 por ciento de experiencia extra, hasta un 3 por ciento. El efecto aguanta una hora y el objeto entra en una hora de reutilización. Mientras estás en el saco también cuentas como descansado. Cómo se acumula con la experiencia de descanso, la comida y los campamentos se explica en la [guía de experiencia](/es/guides/experience/).
+Despliégalo y túmbate dentro. Cada minuto de descanso da un 1 por ciento de experiencia extra, hasta un 3 por ciento. El efecto aguanta dos horas y el objeto entra en una hora de reutilización. Mientras estás en el saco también cuentas como descansado. Cómo se acumula con la experiencia de descanso, la comida y los campamentos se explica en la [guía de experiencia](/es/guides/experience/).
+
+**¿No tienes saco propio?** También puedes tumbarte en el saco de dormir de otro jugador, siempre que estés en su mismo grupo. Recibes el mismo efecto sin hacer la cadena. ¿Ves a alguien descansando en un saco? Pide una invitación. [Más en nuestra noticia](/es/news/no-sleeping-bag-use-one-from-your-party/).
 
 Un 3 por ciento por sí solo es poco. Sumado a otros efectos, como el 5 por ciento de la cocina, cunde en una noche larga.
 

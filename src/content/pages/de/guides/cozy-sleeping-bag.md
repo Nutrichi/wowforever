@@ -3,19 +3,23 @@ title: "Cozy Sleeping Bag: die ganze Questreihe in WoW Forever"
 metaTitle: "Cozy Sleeping Bag in WoW Forever: Orte, Koordinaten und Belohnungen"
 description: "Jeder Schritt der Cozy-Sleeping-Bag-Reihe in WoW Forever, mit den Koordinaten, dem getrennten Start für Allianz und Horde, den Quests der Reihe nach und dem, was der Weg einbringt."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-29
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe braucht man für die Cozy Sleeping Bag?"
     a: "Stufe 14. Darunter lässt sich die Reihe nicht starten."
   - q: "Was macht die Cozy Sleeping Bag?"
-    a: "Darin zu liegen gibt 1 Prozent Bonuserfahrung pro Minute, bis zu 3 Prozent. Der Buff hält eine Stunde und der Gegenstand hat eine Stunde Abklingzeit. Solange du drin liegst, zählst du außerdem als ausgeruht."
+    a: "Darin zu liegen gibt 1 Prozent Bonuserfahrung pro Minute, bis zu 3 Prozent. Der Buff hält zwei Stunden und der Gegenstand hat eine Stunde Abklingzeit. Solange du drin liegst, zählst du außerdem als ausgeruht."
   - q: "Unterscheidet sich die Reihe für Allianz und Horde?"
     a: "Nur der Start. Die Allianz beginnt in Westfall, die Horde in The Barrens; ab den Stonetalon Mountains gehen beide Fraktionen denselben Weg."
   - q: "Woher kommt die Cozy Sleeping Bag?"
     a: "Sie kam mit Season of Discovery und kehrt in WoW Forever zurück. Spieler fanden die Reihe auf der Beta aktiv."
+  - q: "Kann ich den Schlafsack eines anderen Spielers nutzen?"
+    a: "Ja, wenn ihr in derselben Gruppe seid. Leg dich in seinen Schlafsack und du bekommst denselben Well-Rested-Buff."
 sources:
+  - name: "Wowhead, sleeping bags in a party"
+    url: "https://www.wowhead.com/forever/news/party-with-other-players-to-use-their-sleeping-bags-for-experience-buff-in-wow-383807"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
@@ -25,7 +29,9 @@ Für den Start braucht es Stufe 14.
 
 ## Was der Schlafsack macht
 
-Roll ihn aus und leg dich hinein. Jede Minute Rast gibt 1 Prozent Bonuserfahrung, bis zu 3 Prozent. Der Buff hält eine Stunde, der Gegenstand geht eine Stunde auf Abklingzeit. Solange du im Sack liegst, zählst du zudem als ausgeruht. Wie er mit Erholungs-EP, Essen und Lagern zusammenwirkt, steht im [Erfahrungsguide](/de/guides/experience/).
+Roll ihn aus und leg dich hinein. Jede Minute Rast gibt 1 Prozent Bonuserfahrung, bis zu 3 Prozent. Der Buff hält zwei Stunden, der Gegenstand geht eine Stunde auf Abklingzeit. Solange du im Sack liegst, zählst du zudem als ausgeruht. Wie er mit Erholungs-EP, Essen und Lagern zusammenwirkt, steht im [Erfahrungsguide](/de/guides/experience/).
+
+**Kein eigener Schlafsack?** Du kannst dich auch in den Schlafsack eines anderen Spielers legen, solange ihr in derselben Gruppe seid. Du bekommst denselben Buff ohne die Questreihe. Siehst du jemanden im Schlafsack liegen, frag nach einer Einladung. [Mehr in unserem Beitrag](/de/news/no-sleeping-bag-use-one-from-your-party/).
 
 Drei Prozent für sich sind wenig. Zusammen mit anderen Buffs, etwa den 5 Prozent aus dem Kochen, summiert sich das an einem langen Abend.
 

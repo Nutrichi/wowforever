@@ -3,19 +3,23 @@ title: "Cozy Sleeping Bag: la catena di missioni completa in WoW Forever"
 metaTitle: "Cozy Sleeping Bag in WoW Forever: luoghi, coordinate e ricompense"
 description: "Ogni passo della catena del Cozy Sleeping Bag in WoW Forever, con le coordinate, la partenza separata per Alleanza e Orda, le missioni in ordine e quello che rende il percorso."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-29
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
   - q: "Che livello serve per il Cozy Sleeping Bag?"
     a: "Livello 14. Sotto quel livello la catena non parte."
   - q: "Cosa fa il Cozy Sleeping Bag?"
-    a: "Sdraiarsi dentro dà l’1 per cento di esperienza bonus al minuto, fino al 3 per cento. Il buff dura un’ora e l’oggetto ha un’ora di recupero. Finché ci sei dentro conti anche come riposato."
+    a: "Sdraiarsi dentro dà l’1 per cento di esperienza bonus al minuto, fino al 3 per cento. Il buff dura due ore e l’oggetto ha un’ora di recupero. Finché ci sei dentro conti anche come riposato."
   - q: "La catena è diversa per Alleanza e Orda?"
     a: "Solo la partenza. L’Alleanza comincia a Westfall e l’Orda in The Barrens; dalle Stonetalon Mountains in poi entrambe le fazioni fanno lo stesso percorso."
   - q: "Da dove viene il Cozy Sleeping Bag?"
     a: "È arrivato con Season of Discovery e torna in WoW Forever. I giocatori hanno trovato la catena attiva sulla beta."
+  - q: "Posso usare il sacco a pelo di un altro giocatore?"
+    a: "Sì, se siete nello stesso gruppo. Sdraiati nel suo sacco e ottieni lo stesso buff Well-Rested."
 sources:
+  - name: "Wowhead, sleeping bags in a party"
+    url: "https://www.wowhead.com/forever/news/party-with-other-players-to-use-their-sleeping-bags-for-experience-buff-in-wow-383807"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
@@ -25,7 +29,9 @@ Serve il livello 14 per cominciare.
 
 ## Cosa fa il sacco a pelo
 
-Srotolalo e sdraiati dentro. Ogni minuto di riposo dà l’1 per cento di esperienza bonus, fino al 3 per cento. Il buff tiene un’ora e l’oggetto va un’ora in recupero. Finché sei nel sacco conti anche come riposato. Come si somma all’esperienza riposata, al cibo e ai campi è spiegato nella [guida all’esperienza](/it/guides/experience/).
+Srotolalo e sdraiati dentro. Ogni minuto di riposo dà l’1 per cento di esperienza bonus, fino al 3 per cento. Il buff tiene due ore e l’oggetto va un’ora in recupero. Finché sei nel sacco conti anche come riposato. Come si somma all’esperienza riposata, al cibo e ai campi è spiegato nella [guida all’esperienza](/it/guides/experience/).
+
+**Niente sacco tuo?** Puoi anche sdraiarti nel sacco a pelo di un altro giocatore, purché tu sia nello stesso gruppo. Ottieni lo stesso buff senza fare la catena. Vedi qualcuno che riposa in un sacco? Chiedi un invito. [Di più nella nostra notizia](/it/news/no-sleeping-bag-use-one-from-your-party/).
 
 Il 3 per cento da solo è poco. Sommato ad altri buff, come il 5 per cento della cucina, in una serata lunga si sente.
 

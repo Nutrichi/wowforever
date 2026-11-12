@@ -3,7 +3,7 @@ title: "Esperienza ed esperienza riposata in WoW Forever"
 metaTitle: "Guida all'esperienza di WoW Forever: XP per livello, riposo, cibo e campi"
 description: "Come funziona l'esperienza in WoW Forever: la XP di ogni livello fino al 60, missioni, uccisioni, dungeon ed esplorazione, gruppi, esperienza riposata e i bonus di campi, cibo e Cozy Sleeping Bag."
 short: "Esperienza e riposo"
-updated: 2026-11-10
+updated: 2026-11-12
 lang: it
 manual: true
 faq:
@@ -211,7 +211,7 @@ Forever aggiunge tre bonus che si sommano tra loro e con l'esperienza riposata.
 
 **Well Fed.** Quasi tutto il cibo di Cooking dà Well Fed, con il 5% di esperienza in più dalle uccisioni oltre alle altre statistiche. Di solito dura circa 15 minuti e si perde quando muori. Cooking è una professione secondaria, quindi si aggiunge alle due principali, e serve per accendere un fuoco da campo.
 
-**Cozy Sleeping Bag.** Stendilo ovunque e sdraiati per ottenere fino a 3 cumuli di Well-Rested, l'1% di esperienza in più per cumulo. Il buff resta quando muori, e stare sdraiati nel sacco conta come zona di riposo, anche offline. La [guida al sacco a pelo](/it/guides/cozy-sleeping-bag/) segue la catena di missioni su entrambi i continenti.
+**Cozy Sleeping Bag.** Stendilo ovunque e sdraiati per ottenere fino a 3 cumuli di Well-Rested, l'1% di esperienza in più per cumulo. Il buff resta quando muori, e stare sdraiati nel sacco conta come zona di riposo, anche offline. La [guida al sacco a pelo](/it/guides/cozy-sleeping-bag/) segue la catena di missioni su entrambi i continenti. Puoi anche sdraiarti nel sacco di un membro del gruppo, [di più nella nostra notizia](/it/news/no-sleeping-bag-use-one-from-your-party/).
 
 ![Una tenda, un fuoco da campo e un Cozy Sleeping Bag su terra rossa, uno screenshot della beta di World of Warcraft: Forever](../../../../assets/posts/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.jpg)
 

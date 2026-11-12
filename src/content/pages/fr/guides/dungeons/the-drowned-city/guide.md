@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guide de The Drowned City pour WoW Forever : entrée, plan, boss"
 description: "Comment rejoindre The Drowned City sous l'eau au large de Stranglethorn Vale dans WoW Forever, les monstres à surveiller et comment battre ses six boss et deux rares."
 short: "Guide"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: fr
 manual: true
 sources:
@@ -82,5 +82,5 @@ Umbra arrive avec cinq Saltscale Murlocs dont les saignements s'additionnent vit
 
 ## Ce qui n'est pas encore connu
 
-- **Le reste du butin** : pour l'instant, seul <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> du Primeval Elemental est connu.
+- **Le reste du butin** : pour l'instant, on connaît <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> du Primeval Elemental et <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> de n'importe quel boss.
 - **Les récompenses** de quatre des huit quêtes.

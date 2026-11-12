@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "The Drowned City guide for WoW Forever: entrance, layout, bosses"
 description: "How to reach The Drowned City under water off Stranglethorn Vale in WoW Forever, the trash to watch out for and how to beat its six bosses and two rares."
 short: "Guide"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: en
 sources:
   - name: "Wowhead, Explore the Drowned City"
@@ -81,5 +81,5 @@ Umbra comes with five Saltscale Murlocs whose bleeds add up fast. Umbra has no k
 
 ## What is not known yet
 
-- **The rest of the loot**: so far only <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> from the Primeval Elemental is known.
+- **The rest of the loot**: so far <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> from the Primeval Elemental and <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> from any boss are known.
 - **The rewards** of four of the eight quests.

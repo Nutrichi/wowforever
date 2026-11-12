@@ -3,7 +3,7 @@ title: "Expérience et XP reposée dans WoW Forever"
 metaTitle: "Guide de l'expérience WoW Forever : XP par niveau, XP reposée, nourriture et camps"
 description: "Comment fonctionne l'expérience dans WoW Forever : l'XP de chaque niveau jusqu'au 60, quêtes, kills, donjons et exploration, groupes, XP reposée et les bonus des camps, de la nourriture et du Cozy Sleeping Bag."
 short: "Expérience et XP reposée"
-updated: 2026-11-10
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
@@ -211,7 +211,7 @@ Forever ajoute trois bonus qui se cumulent entre eux et avec l'XP reposée.
 
 **Well Fed.** La plupart des plats de Cooking donnent Well Fed, avec 5 % d'expérience en plus sur les kills en plus de leurs autres stats. Il dure en général environ 15 minutes et disparaît à la mort. Cooking est un métier secondaire, il s'ajoute donc à vos deux métiers principaux, et il faut l'avoir pour allumer un feu de camp.
 
-**Cozy Sleeping Bag.** Déroulez-le n'importe où et allongez-vous pour obtenir jusqu'à 3 cumuls de Well-Rested, 1 % d'expérience en plus par cumul. Le buff reste à la mort, et s'allonger dans le sac compte comme une zone de repos, même déconnecté. Le [guide du sac de couchage](/fr/guides/cozy-sleeping-bag/) détaille la chaîne de quêtes sur les deux continents.
+**Cozy Sleeping Bag.** Déroulez-le n'importe où et allongez-vous pour obtenir jusqu'à 3 cumuls de Well-Rested, 1 % d'expérience en plus par cumul. Le buff reste à la mort, et s'allonger dans le sac compte comme une zone de repos, même déconnecté. Le [guide du sac de couchage](/fr/guides/cozy-sleeping-bag/) détaille la chaîne de quêtes sur les deux continents. Vous pouvez aussi vous allonger dans le sac d'un membre du groupe, [plus dans notre article](/fr/news/no-sleeping-bag-use-one-from-your-party/).
 
 ![Une tente, un feu de camp et un Cozy Sleeping Bag sur une terre rouge, une capture d'écran de la bêta de World of Warcraft: Forever](../../../../assets/posts/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.jpg)
 

@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guide zu The Drowned City für WoW Forever: Eingang, Aufbau, Bosse"
 description: "So erreichst du The Drowned City unter Wasser vor Stranglethorn Vale in WoW Forever, auf diesen Trash achtest du und so besiegst du die sechs Bosse und zwei Rares."
 short: "Guide"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: de
 manual: true
 sources:
@@ -82,5 +82,5 @@ Umbra kommt mit fünf Saltscale Murlocs, deren Blutungen sich schnell summieren.
 
 ## Was noch nicht bekannt ist
 
-- **Der Rest der Beute**: Bisher ist nur <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> vom Primeval Elemental bekannt.
+- **Der Rest der Beute**: Bisher sind <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> vom Primeval Elemental und <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> von jedem Boss bekannt.
 - **Die Belohnungen** von vier der acht Quests.

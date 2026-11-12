@@ -3,19 +3,23 @@ title: "Cozy Sleeping Bag : la chaîne de quêtes complète dans WoW Forever"
 metaTitle: "Cozy Sleeping Bag dans WoW Forever : lieux, coordonnées et récompenses"
 description: "Chaque étape de la chaîne du Cozy Sleeping Bag dans WoW Forever, avec les coordonnées, le départ séparé pour l’Alliance et la Horde, les quêtes dans l’ordre et ce que rapporte le trajet."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-29
+updated: 2026-11-12
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau faut-il pour le Cozy Sleeping Bag ?"
     a: "Le niveau 14. En dessous, la chaîne ne peut pas commencer."
   - q: "Que fait le Cozy Sleeping Bag ?"
-    a: "S’y allonger donne 1 pour cent d’expérience bonus par minute, jusqu’à 3 pour cent. Le buff dure une heure et l’objet a un temps de recharge d’une heure. Tant que vous êtes dedans, vous comptez aussi comme reposé."
+    a: "S’y allonger donne 1 pour cent d’expérience bonus par minute, jusqu’à 3 pour cent. Le buff dure deux heures et l’objet a un temps de recharge d’une heure. Tant que vous êtes dedans, vous comptez aussi comme reposé."
   - q: "La chaîne diffère-t-elle entre l’Alliance et la Horde ?"
     a: "Seulement au départ. L’Alliance commence à Westfall et la Horde dans The Barrens ; à partir des Stonetalon Mountains, les deux factions suivent le même trajet."
   - q: "D’où vient le Cozy Sleeping Bag ?"
     a: "Il est arrivé avec Season of Discovery et revient dans WoW Forever. Des joueurs ont trouvé la chaîne active sur la bêta."
+  - q: "Puis-je utiliser le sac de couchage d'un autre joueur ?"
+    a: "Oui, si vous êtes dans le même groupe. Allongez-vous dans son sac et vous obtenez le même buff Well-Rested."
 sources:
+  - name: "Wowhead, sleeping bags in a party"
+    url: "https://www.wowhead.com/forever/news/party-with-other-players-to-use-their-sleeping-bags-for-experience-buff-in-wow-383807"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
@@ -25,7 +29,9 @@ Il faut être niveau 14 pour commencer.
 
 ## Ce que fait le sac de couchage
 
-Déroulez-le et allongez-vous dedans. Chaque minute de repos donne 1 pour cent d’expérience bonus, jusqu’à 3 pour cent. Le buff tient une heure et l’objet passe une heure en temps de recharge. Tant que vous êtes dans le sac, vous comptez aussi comme reposé. Comment il se cumule avec l’XP reposée, la nourriture et les camps est expliqué dans le [guide de l’expérience](/fr/guides/experience/).
+Déroulez-le et allongez-vous dedans. Chaque minute de repos donne 1 pour cent d’expérience bonus, jusqu’à 3 pour cent. Le buff tient deux heures et l’objet passe une heure en temps de recharge. Tant que vous êtes dans le sac, vous comptez aussi comme reposé. Comment il se cumule avec l’XP reposée, la nourriture et les camps est expliqué dans le [guide de l’expérience](/fr/guides/experience/).
+
+**Pas de sac à vous ?** Vous pouvez aussi vous allonger dans le sac de couchage d'un autre joueur, tant que vous êtes dans le même groupe. Vous obtenez le même buff sans faire la chaîne. Vous voyez quelqu'un dans un sac ? Demandez une invitation. [Plus dans notre article](/fr/news/no-sleeping-bag-use-one-from-your-party/).
 
 Trois pour cent, seul, c’est peu. Cumulé avec d’autres buffs, comme les 5 pour cent de la cuisine, cela finit par compter sur une longue soirée.
 

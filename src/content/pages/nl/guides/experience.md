@@ -3,7 +3,7 @@ title: "Ervaring en rested XP in WoW Forever"
 metaTitle: "WoW Forever ervaringsgids: XP per level, rested XP, eten en kampen"
 description: "Zo werkt ervaring in WoW Forever: de XP voor elk level tot 60, quests, kills, dungeons en verkennen, groepen, rested XP en de bonussen van kampen, eten en de Cozy Sleeping Bag."
 short: "Ervaring en rested XP"
-updated: 2026-11-10
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -211,7 +211,7 @@ Forever voegt drie bonussen toe die met elkaar en met rested XP stapelen.
 
 **Well Fed.** Het meeste eten van Cooking geeft Well Fed, met 5% meer ervaring uit kills bovenop de andere stats. Het duurt meestal ongeveer 15 minuten en verdwijnt als je sterft. Cooking is een secundair beroep, dus het komt bovenop je twee hoofdberoepen, en je hebt het nodig om een kampvuur aan te steken.
 
-**Cozy Sleeping Bag.** Rol hem overal uit en ga liggen voor tot 3 stacks van Well-Rested, 1% meer ervaring per stack. De buff blijft als je sterft, en in de slaapzak liggen telt als een rustplek, ook als je uitgelogd bent. De [slaapzakgids](/nl/guides/cozy-sleeping-bag/) loopt de questreeks over beide continenten door.
+**Cozy Sleeping Bag.** Rol hem overal uit en ga liggen voor tot 3 stacks van Well-Rested, 1% meer ervaring per stack. De buff blijft als je sterft, en in de slaapzak liggen telt als een rustplek, ook als je uitgelogd bent. De [slaapzakgids](/nl/guides/cozy-sleeping-bag/) loopt de questreeks over beide continenten door. Je kunt ook in de slaapzak van een partylid liggen, [meer in onze post](/nl/news/no-sleeping-bag-use-one-from-your-party/).
 
 ![Een tent, een kampvuur en een Cozy Sleeping Bag op rode aarde, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.jpg)
 

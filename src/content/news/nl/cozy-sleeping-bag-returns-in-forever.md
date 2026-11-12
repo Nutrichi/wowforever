@@ -19,7 +19,7 @@ Brubby, van de WoW Secret Finding Discord, bevestigde de reeks en leverde de sch
 
 ## Wat de zak doet
 
-Ga erin liggen en elke minuut geeft 1 procent extra ervaring, tot 3 procent. De buff houdt een uur aan en het item gaat een uur op cooldown. Zolang je erin ligt, tel je ook als rested.
+Ga erin liggen en elke minuut geeft 1 procent extra ervaring, tot 3 procent. De buff houdt twee uur aan en het item gaat een uur op cooldown. Zolang je erin ligt, tel je ook als rested.
 
 Drie procent is op zich bescheiden. Gestapeld met de 5 procent uit cooking en de rest van een volle buffset gaat het op een lange avond meetellen.
 

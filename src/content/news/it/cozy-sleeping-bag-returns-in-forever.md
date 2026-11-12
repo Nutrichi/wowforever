@@ -19,7 +19,7 @@ Brubby, del WoW Secret Finding Discord, ha confermato la catena e fornito gli sc
 
 ## Cosa fa il sacco
 
-Sdraiati dentro e ogni minuto dà l’1 per cento di esperienza bonus, fino al 3 per cento. Il buff tiene un’ora e l’oggetto va un’ora in recupero. Finché ci sei dentro conti anche come riposato.
+Sdraiati dentro e ogni minuto dà l’1 per cento di esperienza bonus, fino al 3 per cento. Il buff tiene due ore e l’oggetto va un’ora in recupero. Finché ci sei dentro conti anche come riposato.
 
 Il 3 per cento da solo è modesto. Sommato al 5 per cento della cucina e al resto di una serie completa di buff, in una serata lunga si sente.
 

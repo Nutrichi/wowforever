@@ -19,7 +19,7 @@ Brubby vom WoW Secret Finding Discord bestätigte die Reihe und lieferte die Scr
 
 ## Was der Sack macht
 
-Leg dich hinein, und jede Minute gibt 1 Prozent Bonuserfahrung, bis zu 3 Prozent. Der Buff hält eine Stunde, der Gegenstand geht eine Stunde auf Abklingzeit. Solange du darin liegst, zählst du auch als ausgeruht.
+Leg dich hinein, und jede Minute gibt 1 Prozent Bonuserfahrung, bis zu 3 Prozent. Der Buff hält zwei Stunden, der Gegenstand geht eine Stunde auf Abklingzeit. Solange du darin liegst, zählst du auch als ausgeruht.
 
 Drei Prozent sind für sich genommen wenig. Zusammen mit den 5 Prozent aus dem Kochen und dem Rest eines vollen Buffsatzes fällt es an einem langen Abend ins Gewicht.
 

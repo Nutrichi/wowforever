@@ -3,7 +3,7 @@ title: "Erfahrung und Erholungs-EP in WoW Forever"
 metaTitle: "WoW Forever Erfahrungsguide: EP pro Level, Erholung, Essen und Lager"
 description: "So funktioniert Erfahrung in WoW Forever: die EP für jedes Level bis 60, Quests, Kills, Dungeons und Erkundung, Gruppen, Erholungs-EP und die Boni von Lagern, Essen und dem Cozy Sleeping Bag."
 short: "Erfahrung und Erholung"
-updated: 2026-11-10
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -211,7 +211,7 @@ Forever bringt drei Boni, die sich miteinander und mit Erholungs-EP kombinieren 
 
 **Well Fed.** Das meiste Essen aus Cooking gibt Well Fed, mit 5 % mehr Erfahrung aus Kills zusätzlich zu den anderen Werten. Es hält meist etwa 15 Minuten und geht beim Tod verloren. Cooking ist ein Nebenberuf, kommt also zu deinen zwei Hauptberufen dazu, und du brauchst ihn, um ein Lagerfeuer zu entzünden.
 
-**Cozy Sleeping Bag.** Roll ihn irgendwo aus und leg dich hin für bis zu 3 Stapel Well-Rested, 1 % mehr Erfahrung pro Stapel. Der Buff bleibt beim Tod erhalten, und im Schlafsack zu liegen zählt als Erholungsgebiet, auch ausgeloggt. Der [Schlafsack-Guide](/de/guides/cozy-sleeping-bag/) führt durch die Questreihe auf beiden Kontinenten.
+**Cozy Sleeping Bag.** Roll ihn irgendwo aus und leg dich hin für bis zu 3 Stapel Well-Rested, 1 % mehr Erfahrung pro Stapel. Der Buff bleibt beim Tod erhalten, und im Schlafsack zu liegen zählt als Erholungsgebiet, auch ausgeloggt. Der [Schlafsack-Guide](/de/guides/cozy-sleeping-bag/) führt durch die Questreihe auf beiden Kontinenten. Du kannst dich auch in den Schlafsack eines Gruppenmitglieds legen, [mehr in unserem Beitrag](/de/news/no-sleeping-bag-use-one-from-your-party/).
 
 ![Ein Zelt, ein Lagerfeuer und ein Cozy Sleeping Bag auf roter Erde, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../assets/posts/2026-10-14-wow-forever-camp-tent-and-sleeping-bag.jpg)
 

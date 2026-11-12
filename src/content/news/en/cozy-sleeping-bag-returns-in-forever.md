@@ -18,7 +18,7 @@ Brubby, from the WoW Secret Finding Discord, confirmed the chain and supplied th
 
 ## What the bag does
 
-Lie in it and every minute gives 1 percent bonus experience, stacking up to 3 percent. The buff holds for an hour and the item goes on a one-hour cooldown. You also count as rested while you are in it.
+Lie in it and every minute gives 1 percent bonus experience, stacking up to 3 percent. The buff holds for two hours and the item goes on a one-hour cooldown. You also count as rested while you are in it.
 
 Three percent is modest on its own. Stacked with the 5 percent from cooking and the rest of a full buff set, it starts to matter on a long evening.
 

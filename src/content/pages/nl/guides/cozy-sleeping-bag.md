@@ -3,19 +3,23 @@ title: "Cozy Sleeping Bag: de volledige questreeks in WoW Forever"
 metaTitle: "Cozy Sleeping Bag in WoW Forever: locaties, coordinaten en beloningen"
 description: "Elke stap van de Cozy Sleeping Bag-reeks in WoW Forever, met de coordinaten, het aparte begin voor Alliance en Horde, de quests op volgorde en wat de tocht opbrengt."
 short: "Cozy Sleeping Bag"
-updated: 2026-09-29
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
   - q: "Welk level heb je nodig voor de Cozy Sleeping Bag?"
     a: "Level 14. Daaronder kan de reeks niet beginnen."
   - q: "Wat doet de Cozy Sleeping Bag?"
-    a: "Erin liggen geeft 1 procent extra ervaring per minuut, tot 3 procent. De buff houdt een uur aan en het item heeft een cooldown van een uur. Zolang je erin ligt, tel je ook als rested."
+    a: "Erin liggen geeft 1 procent extra ervaring per minuut, tot 3 procent. De buff houdt twee uur aan en het item heeft een cooldown van een uur. Zolang je erin ligt, tel je ook als rested."
   - q: "Verschilt de reeks voor Alliance en Horde?"
     a: "Alleen het begin. De Alliance start in Westfall en de Horde in The Barrens; vanaf Stonetalon Mountains lopen beide facties dezelfde tocht."
   - q: "Waar komt de Cozy Sleeping Bag vandaan?"
     a: "Hij kwam in Season of Discovery en keert terug in WoW Forever. Spelers vonden de reeks draaiend op de beta."
+  - q: "Kan ik de slaapzak van een andere speler gebruiken?"
+    a: "Ja, als je in dezelfde party zit. Ga in zijn slaapzak liggen en je krijgt dezelfde Well-Rested-buff."
 sources:
+  - name: "Wowhead, sleeping bags in a party"
+    url: "https://www.wowhead.com/forever/news/party-with-other-players-to-use-their-sleeping-bags-for-experience-buff-in-wow-383807"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
@@ -25,7 +29,9 @@ Je moet level 14 zijn om te beginnen.
 
 ## Wat de slaapzak doet
 
-Rol hem uit en ga erin liggen. Elke minuut rust geeft 1 procent extra ervaring, tot 3 procent. De buff houdt een uur aan en het item gaat een uur op cooldown. Zolang je in de zak ligt, tel je bovendien als rested. Hoe dat stapelt met rested XP, eten en kampen, staat in de [ervaringsgids](/nl/guides/experience/).
+Rol hem uit en ga erin liggen. Elke minuut rust geeft 1 procent extra ervaring, tot 3 procent. De buff houdt twee uur aan en het item gaat een uur op cooldown. Zolang je in de zak ligt, tel je bovendien als rested. Hoe dat stapelt met rested XP, eten en kampen, staat in de [ervaringsgids](/nl/guides/experience/).
+
+**Zelf geen slaapzak?** Je kunt ook in de slaapzak van een andere speler gaan liggen, zolang je in dezelfde party zit. Je krijgt dezelfde buff zonder de questketen te lopen. Zie je iemand in een slaapzak liggen, vraag dan om een invite. [Meer in onze post](/nl/news/no-sleeping-bag-use-one-from-your-party/).
 
 Drie procent op zich is weinig. Gestapeld met andere buffs, zoals de 5 procent uit cooking, telt het op een lange avond aan.
 

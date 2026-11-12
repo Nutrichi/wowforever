@@ -19,7 +19,7 @@ Brubby, del WoW Secret Finding Discord, confirmó la cadena y aportó las captur
 
 ## Qué hace el saco
 
-Túmbate dentro y cada minuto da un 1 por ciento de experiencia extra, hasta un 3 por ciento. El efecto aguanta una hora y el objeto entra en una hora de reutilización. Mientras estás dentro también cuentas como descansado.
+Túmbate dentro y cada minuto da un 1 por ciento de experiencia extra, hasta un 3 por ciento. El efecto aguanta dos horas y el objeto entra en una hora de reutilización. Mientras estás dentro también cuentas como descansado.
 
 Un 3 por ciento es modesto por sí solo. Sumado al 5 por ciento de la cocina y al resto de un juego completo de efectos, empieza a notarse en una noche larga.
 

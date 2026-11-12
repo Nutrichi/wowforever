@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guía de The Drowned City para WoW Forever: entrada, plano y jefes"
 description: "Cómo llegar a The Drowned City bajo el agua frente a Stranglethorn Vale en WoW Forever, los enemigos a vigilar y cómo vencer a sus seis jefes y dos raros."
 short: "Guía"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: es
 manual: true
 sources:
@@ -82,5 +82,5 @@ Umbra llega con cinco Saltscale Murlocs cuyos sangrados se suman rápido. Umbra 
 
 ## Lo que aún no se sabe
 
-- **El resto del botín**: por ahora solo se conoce <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental.
+- **El resto del botín**: por ahora se conocen <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental y <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> de cualquier jefe.
 - **Las recompensas** de cuatro de las ocho misiones.
