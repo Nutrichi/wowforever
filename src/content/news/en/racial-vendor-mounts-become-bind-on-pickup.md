@@ -1,6 +1,6 @@
 ---
 title: "Racial vendor mounts become Bind-on-Pickup"
-description: "The rest of the 10 November hotfixes: racial vendor mounts bind on pickup, raid ammunition can be traded, Shatterspear Trolls give no experience, auction deposits start at 1 copper and many quest and profession fixes."
+description: "The rest of the 10 November hotfixes: racial vendor mounts bind on pickup, raid ammunition can be traded, Shatterspear Trolls give no experience, the auction deposit of 1 copper moved to 17 November and many quest and profession fixes."
 date: 2026-11-11T13:04:00+01:00
 category: forever
 lang: en
@@ -40,7 +40,7 @@ The bigger parts of the same list have their own posts: [Enhancement Shamans](/n
 
 ## Auction House and mail
 
-The minimum auction deposit is back to 1 copper, as [announced last week](/news/auction-deposits-go-back-to-1-copper/). That change came with the realm restarts. Some mail arrived after about 2 minutes instead of 60, and unread mail showed "Stormwind Auction House" as the sender for everyone. Both are fixed.
+The notes listed a minimum auction deposit of 1 copper, as [announced last week](/news/auction-deposits-go-back-to-1-copper/). On 12 November Blizzard took the Auction House changes back out: they come with the weekly maintenance on 17 November, more in [our post](/news/1-copper-deposit-waits-until-17-november/). The notes also listed two mail fixes: Some mail arrived after about 2 minutes instead of 60, and unread mail showed "Stormwind Auction House" as the sender for everyone. Both are fixed.
 
 ## World and quests
 

@@ -3,7 +3,7 @@ title: "Guide zum Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: Build, Stormstrike, Totems"
 description: "Der Enhancement Shaman in WoW Forever: der Build für Level 60, Stormstrike und Maelstrom Weapon, Rotation, Totems, Mana, Tanken, Werte und Völker."
 short: "Enhancement Shaman"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: de
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Kann ein Enhancement Shaman in WoW Forever tanken?"
     a: "In frühen Dungeons ja. Es gibt keinen echten Taunt und keinen defensiven Cooldown, und der Build skaliert schlecht ins Endgame. Rockbiter Weapon, Lightning Shield, Earth Shock, Anticipation und Spirit Weapons erledigen die Arbeit."
   - q: "Welche Werte braucht ein Enhancement Shaman?"
-    a: "Zuerst Waffenschaden, dann Strength, Hit, je näher Level 60 rückt, kritische Trefferchance, Intellect und Spirit. Seit dem 10. November schlägt Strength Intellect deutlich: Mental Dexterity wandelt Intellect höchstens zu 100% in Angriffskraft um."
+    a: "Zuerst Waffenschaden, dann Strength, Hit, je näher Level 60 rückt, kritische Trefferchance, Intellect und Spirit. Seit dem 12. November schlägt Strength Intellect deutlich: Mental Dexterity wandelt Intellect höchstens zu 100% in Angriffskraft um."
   - q: "Welches Volk ist am besten für einen Enhancement Shaman?"
     a: "Dwarf ist der einzige Shaman der Alliance. Bei der Horde ist Orc dank Blood Fury die stärkste Wahl, und Windshaper Skyborne erhält 2% Haste."
   - q: "Gibt es einen Build für Level 60?"
@@ -29,7 +29,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
-> **Update vom 11. November:** Der Hotfix vom 10. November hat Stormstrike, Mental Dexterity und Maelstrom Weapon geändert, und eine Waffenverzauberung wirkt jetzt neben einem Waffentotem. Dieser Guide folgt den neuen Werten, mehr in [unserem Beitrag](/de/news/enhancement-shamans-turn-back-to-windfury/).
+> **Update vom 12. November:** Nach einer Verzögerung kam der Hotfix vom 10. November erst am 12. November um 19.45 Uhr belgischer Zeit auf die Realms. Er hat Stormstrike, Mental Dexterity und Maelstrom Weapon geändert, und eine Waffenverzauberung wirkt jetzt neben einem Waffentotem. Dieser Guide folgt den neuen Werten, mehr in [unserem Beitrag](/de/news/enhancement-changes-go-live-two-days-late/).
 
 > **Update vom 4. November:** Builds und Talente unten folgen den neuen Bäumen aus den Entwicklungsnotizen vom 2. November, mehr in [unserem Beitrag](/de/news/shamans-lose-lava-burst-before-the-launch/).
 
@@ -152,7 +152,7 @@ Ohne Mana bleiben dir deine weißen Schläge, aber dein Schaden fällt stark, bi
 
 - **Call of the Elements** und die anderen Call-Zauber stellen mit einer Taste ein gespeichertes Set aus vier Totems auf. Sie haben eine Zauberzeit.
 - **Totemic Recall** nimmt deine Totems zurück. **Totemic Call** holt deine aktiven Totems dorthin, wo du stehst, mit 30 Sekunden Abklingzeit.
-- **Windfury Totem** ist der beste Nahkampfbuff im Spiel. Ohne die Gruppenbeschränkung wirkt er für den ganzen Raid. Seit dem 10. November wirkt er neben deiner eigenen Waffenverzauberung, also können Windfury Weapon und Windfury Totem beide auslösen.
+- **Windfury Totem** ist der beste Nahkampfbuff im Spiel. Ohne die Gruppenbeschränkung wirkt er für den ganzen Raid. Seit dem 12. November wirkt er neben deiner eigenen Waffenverzauberung, also können Windfury Weapon und Windfury Totem beide auslösen.
 - **Tremor Totem** entfernt Furcht, Schlaf und Bezauberung von Verbündeten in Reichweite. Gutes Timing rettet Runs.
 - **Poison Cleansing Totem** und **Disease Cleansing Totem** entfernen pro Puls einen Effekt.
 - **Earthbind Totem** verlangsamt Gegner zum Kiten.
@@ -177,7 +177,7 @@ Prioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen kön
 
 - **Waffenschaden**: deine größte Quelle für Skalierung, über Stormstrike und Windfury.
 - **Hit**: früh weniger wichtig, nahe Level 60 eine hohe Priorität. Eine verfehlte Fähigkeit verschwendet Schaden und Mana.
-- **Strength**: 2 Angriffskraft pro Punkt, seit dem 10. November dein stärkster Wert.
+- **Strength**: 2 Angriffskraft pro Punkt, seit dem 12. November dein stärkster Wert.
 - **Intellect**: 1 Angriffskraft pro Punkt mit Mental Dexterity auf 3/3, vorher 1,5, plus ein größerer Manavorrat. Lohnt sich nur, wenn Mana dein Problem ist.
 - **Kritische Trefferchance**: hält Flurry am Laufen, und auch Windfury-Treffer können kritisch sein.
 - **Spirit**: nützlicher, als es aussieht, weil Improved Stormstrike die Regeneration beim Zaubern aktiv hält.

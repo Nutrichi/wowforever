@@ -57,7 +57,7 @@ Vous combattez avec Lightning Bolt à distance et Rockbiter Weapon pour vos coup
 4. Lancez un autre Lightning Bolt si le monstre n'est pas encore au contact et que votre mana le permet.
 5. Achevez-le en mêlée.
 
-Stoneclaw Totem et Earthbind Totem aident quand un pull tourne mal. Stats au début : dégâts des sorts, puis Force, puis Intelligence, puis Endurance et Esprit, puis armure. Vous comptez monter en Enhancement ? Gardez l'équipement avec Force que vous trouvez : depuis le 10 novembre, la Force est nettement sa meilleure stat, plus de détails dans [notre article](/fr/news/enhancement-shamans-turn-back-to-windfury/).
+Stoneclaw Totem et Earthbind Totem aident quand un pull tourne mal. Stats au début : dégâts des sorts, puis Force, puis Intelligence, puis Endurance et Esprit, puis armure. Vous comptez monter en Enhancement ? Gardez l'équipement avec Force que vous trouvez : depuis le 12 novembre, la Force est nettement sa meilleure stat, plus de détails dans [notre article](/fr/news/enhancement-shamans-turn-back-to-windfury/).
 
 ## Les builds de talents
 

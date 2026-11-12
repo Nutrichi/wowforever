@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update vom 12. November:** Diese Änderungen standen in den Hotfix-Notizen vom 10. November, kamen nach einer Verzögerung aber erst am 12. November um 19.45 Uhr belgischer Zeit, mehr in [unserem Beitrag](/de/news/enhancement-changes-go-live-two-days-late/).
+
 Blizzard hat den Enhancement-Shaman mit einem Hotfix am 10. November umgebaut. Stormstrike und Mental Dexterity treffen schwächer, Maelstrom Weapon procct seltener, und Windfury Weapon wirkt jetzt neben Windfury Totem. Das Ziel: Strength-Ausrüstung statt Caster-Ausrüstung vor den Raids.
 
 ## Was sich ändert

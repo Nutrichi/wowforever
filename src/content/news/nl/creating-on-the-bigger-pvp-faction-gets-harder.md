@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 12 november:** Aggrend zegt in de podcast dat het slot nog een tijd blijft: Horde-spelers zonder personage op deze rulesets maken beter andere plannen, meer in [onze post](/nl/news/no-horde-character-yet-make-other-plans/).
+
 Een personage maken op de grootste factie van een PvP-ruleset wordt moeilijker in World of Warcraft: Forever. Nu is dat de Horde op PvP in Noord-Amerika en de Alliance op RP-PvP in Europa. Blizzard wil een verdeling zo dicht mogelijk bij 50/50.
 
 Communitymanager Kaivax kondigde de wijziging aan op het forum op 10 november, om 03.05 bij ons. Zelfs de scheefste regio zit rond 55/45, zegt Blizzard, en dat is niet dicht genoeg.

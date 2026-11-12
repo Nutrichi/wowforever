@@ -3,7 +3,7 @@ title: "Scholomance"
 metaTitle: "Scholomance in WoW Forever: bottino, boss e drop"
 description: "Il bottino di Scholomance in WoW Forever: cosa c'è nei dati di Forever e i drop di Classic di ogni boss, da Kirtonos the Herald a Darkmaster Gandling."
 short: "Scholomance"
-updated: 2026-11-08
+updated: 2026-11-12
 lang: it
 faq:
   - q: "Che livello è Scholomance in WoW Forever?"
@@ -35,5 +35,7 @@ Questi drop di Classic non sono ancora nei dati di Forever:
 | Ras Frostwhisper | [Iceblade Hacker](https://www.wowhead.com/classic/item=13952), [Freezing Lich Robes](https://www.wowhead.com/classic/item=14340), [Bonechill Hammer](https://www.wowhead.com/classic/item=14487), [Frostbite Girdle](https://www.wowhead.com/classic/item=14502), [Death's Clutch](https://www.wowhead.com/classic/item=14503), [Maelstrom Leggings](https://www.wowhead.com/classic/item=14522), [Shivery Handwraps](https://www.wowhead.com/classic/item=18693), [Spellbound Tome](https://www.wowhead.com/classic/item=18695), [Intricately Runed Shield](https://www.wowhead.com/classic/item=18696) |
 | Lord Alexei Barov | [Cadaverous Armor](https://www.wowhead.com/classic/item=14637), [Ancient Bone Bow](https://www.wowhead.com/classic/item=18680), [Burial Shawl](https://www.wowhead.com/classic/item=18681), [Ghoul Skin Leggings](https://www.wowhead.com/classic/item=18682), [Hammer of the Vesper](https://www.wowhead.com/classic/item=18683), [Dimly Opalescent Ring](https://www.wowhead.com/classic/item=18684) |
 | Darkmaster Gandling | [Boots of the Shrieker](https://www.wowhead.com/classic/item=13398), [Bonecreeper Stylus](https://www.wowhead.com/classic/item=13938), [Tombstone Breastplate](https://www.wowhead.com/classic/item=13944), [Vigorsteel Vambraces](https://www.wowhead.com/classic/item=13951), [Silent Fang](https://www.wowhead.com/classic/item=13953), [Witchblade](https://www.wowhead.com/classic/item=13964), [Don Mauricio's Band of Domination](https://www.wowhead.com/classic/item=22433) |
+
+**Per i Mage:** la Witchblade di Darkmaster Gandling diventa <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276632"><img class="wf-wh__icon" src="/wh/inv_sword_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wit's Edge</a> con la pergamena <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a>. La spada dà Clearcasting con un colpo in mischia, di più nel [nostro articolo](/it/news/mages-turn-the-witchblade-into-wits-edge/).
 
 In Classic Lady Illucia Barov, The Ravenian e Instructor Malicia lasciano cadere pezzi dei quattro set di Scholomance: Bloodmail, Deathbone, Necropile e Cadaverous. Death Knight Darkreaver appare solo per la missione da Shaman The Darkreaver Menace.

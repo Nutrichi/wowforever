@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update vom 12. November:** Aggrend sagt im Podcast, dass die Sperre eine Weile bleibt: Horde-Spieler ohne Charakter auf diesen Rulesets sollten anders planen, mehr in [unserem Beitrag](/de/news/no-horde-character-yet-make-other-plans/).
+
 Einen Charakter auf der größeren Fraktion eines PvP-Rulesets zu erstellen, wird in World of Warcraft: Forever schwieriger. Derzeit ist das die Horde auf PvP in Nordamerika und die Alliance auf RP-PvP in Europa. Blizzard will eine Verteilung möglichst nahe an 50/50.
 
 Community-Manager Kaivax kündigte die Änderung am 10. November um 3.05 Uhr belgischer Zeit im Forum an. Selbst die unausgeglichenste Region liegt bei etwa 55/45, sagt Blizzard, und das ist nicht nah genug.

@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-> **Update 11 november:** de minimale borg van 1 koper is live sinds de hotfix van 10 november, meer in [onze post](/nl/news/racial-vendor-mounts-become-bind-on-pickup/).
+> **Update 12 november:** de minimale borg van 1 koper is nog niet live. Blizzard haalde hem uit de hotfixes van 10 november; hij komt met het wekelijkse onderhoud op 17 november, meer in [onze post](/nl/news/1-copper-deposit-waits-until-17-november/).
 
 De minimumborg van 1 zilver per veiling in World of Warcraft: Forever verdwijnt. Principal game designer Kris Zierhut zegt in een interview dat de ondergrens teruggaat naar 1 koper. Wanneer, zegt hij niet: nog niet, maar binnenkort.
 

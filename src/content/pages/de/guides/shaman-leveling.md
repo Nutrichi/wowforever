@@ -57,7 +57,7 @@ Du kämpfst mit Lightning Bolt auf Distanz und Rockbiter Weapon für deine Nahka
 4. Wirk noch einen Lightning Bolt, wenn das Monster noch nicht im Nahkampf ist und dein Mana reicht.
 5. Erledige es im Nahkampf.
 
-Stoneclaw Totem und Earthbind Totem helfen, wenn ein Pull schiefgeht. Werte am Anfang: Zauberschaden, dann Stärke, dann Intelligenz, dann Ausdauer und Willenskraft, dann Rüstung. Willst du als Enhancement leveln? Behalte die Ausrüstung mit Stärke, die du findest: Seit dem 10. November ist Stärke klar der beste Wert, mehr in [unserem Beitrag](/de/news/enhancement-shamans-turn-back-to-windfury/).
+Stoneclaw Totem und Earthbind Totem helfen, wenn ein Pull schiefgeht. Werte am Anfang: Zauberschaden, dann Stärke, dann Intelligenz, dann Ausdauer und Willenskraft, dann Rüstung. Willst du als Enhancement leveln? Behalte die Ausrüstung mit Stärke, die du findest: Seit dem 12. November ist Stärke klar der beste Wert, mehr in [unserem Beitrag](/de/news/enhancement-shamans-turn-back-to-windfury/).
 
 ## Talent-Builds
 

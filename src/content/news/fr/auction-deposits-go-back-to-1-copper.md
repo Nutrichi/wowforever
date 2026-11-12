@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-> **Mise à jour du 11 novembre :** le dépôt minimum de 1 cuivre est en jeu depuis le hotfix du 10 novembre, plus de détails dans [notre article](/fr/news/racial-vendor-mounts-become-bind-on-pickup/).
+> **Mise à jour du 12 novembre :** le dépôt minimum de 1 cuivre n'est pas encore en jeu. Blizzard l'a retiré des hotfixes du 10 novembre ; il arrive avec la maintenance hebdomadaire du 17 novembre, plus de détails dans [notre article](/fr/news/1-copper-deposit-waits-until-17-november/).
 
 Le dépôt minimum de 1 argent par enchère dans World of Warcraft: Forever va disparaître. Le principal game designer Kris Zierhut dit dans une interview que le plancher revient à 1 cuivre. Quand, il ne le dit pas : pas encore, mais bientôt.
 

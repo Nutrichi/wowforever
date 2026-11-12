@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-> **Aggiornamento dell'11 novembre:** il deposito minimo di 1 rame è attivo dall'hotfix del 10 novembre, di più nel [nostro articolo](/it/news/racial-vendor-mounts-become-bind-on-pickup/).
+> **Aggiornamento del 12 novembre:** il deposito minimo di 1 rame non è ancora attivo. Blizzard lo ha tolto dagli hotfix del 10 novembre; arriva con la manutenzione settimanale del 17 novembre, di più nel [nostro articolo](/it/news/1-copper-deposit-waits-until-17-november/).
 
 Il deposito minimo di 1 argento per asta in World of Warcraft: Forever sta per sparire. Il principal game designer Kris Zierhut dice in un'intervista che la soglia torna a 1 rame. Quando, non lo dice: non ancora, ma presto.
 

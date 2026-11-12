@@ -1,6 +1,6 @@
 ---
 title: "Racial vendor-mounts worden Bind-on-Pickup"
-description: "De rest van de hotfixes van 10 november: racial vendor-mounts binden bij oppakken, raidmunitie is verhandelbaar, Shatterspear Trolls geven geen ervaring, veilingborg vanaf 1 koper en veel fixes aan quests en beroepen."
+description: "De rest van de hotfixes van 10 november: racial vendor-mounts binden bij oppakken, raidmunitie is verhandelbaar, Shatterspear Trolls geven geen ervaring, veilingborg van 1 koper uitgesteld tot 17 november en veel fixes aan quests en beroepen."
 date: 2026-11-11T13:04:00+01:00
 category: forever
 lang: nl
@@ -41,7 +41,7 @@ De grotere delen van dezelfde lijst hebben een eigen post: [Enhancement Shamans]
 
 ## Veilinghuis en post
 
-De minimale veilingborg is terug naar 1 koper, zoals [vorige week aangekondigd](/nl/news/auction-deposits-go-back-to-1-copper/). Die wijziging kwam met de herstart van de realms. Sommige post kwam na ongeveer 2 minuten aan in plaats van na 60, en ongelezen post toonde voor iedereen "Stormwind Auction House" als afzender. Beide zijn opgelost.
+De notities noemden een minimale veilingborg van 1 koper, zoals [vorige week aangekondigd](/nl/news/auction-deposits-go-back-to-1-copper/). Op 12 november haalde Blizzard de wijzigingen aan het Auction House er weer uit: ze komen met het wekelijkse onderhoud op 17 november, meer in [onze post](/nl/news/1-copper-deposit-waits-until-17-november/). De notities noemden ook twee fixes aan de post: Sommige post kwam na ongeveer 2 minuten aan in plaats van na 60, en ongelezen post toonde voor iedereen "Stormwind Auction House" als afzender. Beide zijn opgelost.
 
 ## Wereld en quests
 

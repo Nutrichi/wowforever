@@ -57,7 +57,7 @@ Luchas con Lightning Bolt a distancia y Rockbiter Weapon para tus golpes cuerpo 
 4. Lanza otro Lightning Bolt si el monstruo aún no está cuerpo a cuerpo y tu maná lo permite.
 5. Remátalo cuerpo a cuerpo.
 
-Stoneclaw Totem y Earthbind Totem ayudan cuando un pull sale mal. Stats al principio: daño de hechizos, luego Fuerza, luego Intelecto, luego Aguante y Espíritu, luego armadura. ¿Vas a subir como Enhancement? Guarda el equipo con Fuerza que encuentres: desde el 10 de noviembre la Fuerza es claramente su mejor stat, más en [nuestra noticia](/es/news/enhancement-shamans-turn-back-to-windfury/).
+Stoneclaw Totem y Earthbind Totem ayudan cuando un pull sale mal. Stats al principio: daño de hechizos, luego Fuerza, luego Intelecto, luego Aguante y Espíritu, luego armadura. ¿Vas a subir como Enhancement? Guarda el equipo con Fuerza que encuentres: desde el 12 de noviembre la Fuerza es claramente su mejor stat, más en [nuestra noticia](/es/news/enhancement-shamans-turn-back-to-windfury/).
 
 ## Builds de talentos
 

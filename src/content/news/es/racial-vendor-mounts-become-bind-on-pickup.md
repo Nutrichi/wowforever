@@ -1,6 +1,6 @@
 ---
 title: "Las monturas raciales pasan a Bind-on-Pickup"
-description: "El resto de los hotfixes del 10 de noviembre: monturas raciales ligadas al recogerlas, munición de raid comerciable, los Shatterspear Trolls sin experiencia, depósito de subasta desde 1 cobre y muchas correcciones de misiones y profesiones."
+description: "El resto de los hotfixes del 10 de noviembre: monturas raciales ligadas al recogerlas, munición de raid comerciable, los Shatterspear Trolls sin experiencia, depósito de subasta de 1 cobre aplazado al 17 de noviembre y muchas correcciones de misiones y profesiones."
 date: 2026-11-11T13:04:00+01:00
 category: forever
 lang: es
@@ -41,7 +41,7 @@ Las partes grandes de la misma lista tienen su propia noticia: [Shamans Enhancem
 
 ## Casa de subastas y correo
 
-El depósito mínimo de subasta vuelve a 1 cobre, como se [anunció la semana pasada](/es/news/auction-deposits-go-back-to-1-copper/). El cambio llegó con el reinicio de los reinos. Algunos correos llegaban en unos 2 minutos en lugar de 60, y el correo sin leer mostraba "Stormwind Auction House" como remitente para todos. Ambos fallos están corregidos.
+Las notas incluían un depósito mínimo de subasta de 1 cobre, como se [anunció la semana pasada](/es/news/auction-deposits-go-back-to-1-copper/). El 12 de noviembre Blizzard retiró los cambios de la Auction House: llegan con el mantenimiento semanal del 17 de noviembre, más en [nuestra noticia](/es/news/1-copper-deposit-waits-until-17-november/). Las notas también citaban dos arreglos del correo: Algunos correos llegaban en unos 2 minutos en lugar de 60, y el correo sin leer mostraba "Stormwind Auction House" como remitente para todos. Ambos fallos están corregidos.
 
 ## Mundo y misiones
 

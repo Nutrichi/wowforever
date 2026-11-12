@@ -3,7 +3,7 @@ title: "Gids voor de Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "De Enhancement Shaman in WoW Forever: de build voor level 60, Stormstrike en Maelstrom Weapon, de rotatie, totems, mana, tanken, stats en races."
 short: "Enhancement Shaman"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: nl
 manual: true
 faq:
@@ -18,7 +18,7 @@ faq:
   - q: "Kan een Enhancement Shaman tanken in WoW Forever?"
     a: "In vroege dungeons wel. Er is geen echte taunt of verdedigende cooldown, en de build schaalt slecht naar het endgame. Rockbiter Weapon, Lightning Shield, Earth Shock, Anticipation en Spirit Weapons doen het werk."
   - q: "Welke stats heeft een Enhancement Shaman nodig?"
-    a: "Eerst wapenschade, dan Strength, hit naarmate level 60 dichterbij komt, critical strike chance, Intellect en Spirit. Sinds 10 november wint Strength duidelijk van Intellect: Mental Dexterity zet Intellect hoogstens voor 100% om in attack power."
+    a: "Eerst wapenschade, dan Strength, hit naarmate level 60 dichterbij komt, critical strike chance, Intellect en Spirit. Sinds 12 november wint Strength duidelijk van Intellect: Mental Dexterity zet Intellect hoogstens voor 100% om in attack power."
   - q: "Welk ras is het beste voor een Enhancement Shaman?"
     a: "Dwarf is de enige Shaman bij de Alliance. Bij de Horde is Orc de sterkste keuze dankzij Blood Fury, en Windshaper Skyborne krijgt 2% haste."
   - q: "Is er een build voor level 60?"
@@ -29,7 +29,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
-> **Update 11 november:** de hotfix van 10 november veranderde Stormstrike, Mental Dexterity en Maelstrom Weapon, en een weapon imbue werkt nu naast een wapentotem. Deze gids volgt de nieuwe waarden, meer in [onze post](/nl/news/enhancement-shamans-turn-back-to-windfury/).
+> **Update 12 november:** door een vertraging kwam de hotfix van 10 november pas op 12 november om 19.45 Belgische tijd op de realms. Hij veranderde Stormstrike, Mental Dexterity en Maelstrom Weapon, en een weapon imbue werkt nu naast een wapentotem. Deze gids volgt de nieuwe waarden, meer in [onze post](/nl/news/enhancement-changes-go-live-two-days-late/).
 
 > **Update 4 november:** de builds en talenten hieronder volgen de nieuwe bomen uit de ontwikkelnotities van 2 november, meer in [onze post](/nl/news/shamans-lose-lava-burst-before-the-launch/).
 
@@ -152,7 +152,7 @@ Zonder mana heb je nog je gewone slagen, maar je damage zakt sterk tot de mana t
 
 - **Call of the Elements** en de andere Call-spells zetten met één knop een opgeslagen set van vier totems neer. Ze hebben een casttijd.
 - **Totemic Recall** neemt je totems terug. **Totemic Call** brengt je actieve totems naar de plek waar je staat, met een cooldown van 30 seconden.
-- **Windfury Totem** is de beste meleebuff in het spel. Zonder de partybeperking werkt hij voor de hele raid. Sinds 10 november werkt hij naast je eigen weapon imbue, dus Windfury Weapon en Windfury Totem kunnen allebei procen.
+- **Windfury Totem** is de beste meleebuff in het spel. Zonder de partybeperking werkt hij voor de hele raid. Sinds 12 november werkt hij naast je eigen weapon imbue, dus Windfury Weapon en Windfury Totem kunnen allebei procen.
 - **Tremor Totem** haalt fear, sleep en charm weg bij bondgenoten binnen bereik. Goede timing redt runs.
 - **Poison Cleansing Totem** en **Disease Cleansing Totem** halen per puls één effect weg.
 - **Earthbind Totem** vertraagt vijanden om te kiten.
@@ -177,7 +177,7 @@ Stat-prioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen
 
 - **Wapenschade**: je grootste bron van schaling, via Stormstrike en Windfury.
 - **Hit**: vroeg minder belangrijk, een hoge prioriteit rond level 60. Een gemiste vaardigheid verspilt damage en mana.
-- **Strength**: 2 attack power per punt, sinds 10 november je sterkste stat.
+- **Strength**: 2 attack power per punt, sinds 12 november je sterkste stat.
 - **Intellect**: 1 attack power per punt met Mental Dexterity op 3/3, was 1,5, plus een grotere manapool. Alleen de moeite als mana je probleem is.
 - **Critical strike chance**: houdt Flurry draaiende, en ook Windfury-slagen kunnen crit zijn.
 - **Spirit**: nuttiger dan het lijkt, want Improved Stormstrike houdt regeneratie actief tijdens het casten.

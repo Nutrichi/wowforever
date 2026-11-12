@@ -12,6 +12,8 @@ tags: ["forever", "pvp", "ruleset"]
 featured: false
 draft: false
 ---
+> **Update 12 November:** Aggrend says in the podcast that the lock stays for a while: Horde players without a character on these rulesets should make other plans, more in [our post](/news/no-horde-character-yet-make-other-plans/).
+
 It is getting harder to create a character on the bigger faction of a PvP ruleset in World of Warcraft: Forever. Right now that is the Horde on PvP in North America and the Alliance on RP-PvP in Europe. Blizzard wants a split close to 50/50.
 
 Community manager Kaivax announced the change on the forums on 10 November, at 03.05 in Belgium. Even the most lopsided region is at roughly 55/45, says Blizzard, and that is not close enough.

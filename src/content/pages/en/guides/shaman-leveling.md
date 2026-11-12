@@ -56,7 +56,7 @@ You fight with Lightning Bolt at range and Rockbiter Weapon for your melee swing
 4. Cast another Lightning Bolt if the monster is not in melee yet and your mana allows it.
 5. Finish it in melee.
 
-Stoneclaw Totem and Earthbind Totem help when a pull goes wrong. Stats early on: spell damage, then Strength, then Intellect, then Stamina and Spirit, then armor. Planning to level as Enhancement? Keep the Strength gear you find: since 10 November Strength is clearly its best stat, more in [our post](/news/enhancement-shamans-turn-back-to-windfury/).
+Stoneclaw Totem and Earthbind Totem help when a pull goes wrong. Stats early on: spell damage, then Strength, then Intellect, then Stamina and Spirit, then armor. Planning to level as Enhancement? Keep the Strength gear you find: since 12 November Strength is clearly its best stat, more in [our post](/news/enhancement-shamans-turn-back-to-windfury/).
 
 ## Talent builds
 

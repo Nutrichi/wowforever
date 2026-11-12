@@ -13,7 +13,7 @@ featured: false
 draft: false
 manual: true
 ---
-> **Actualización del 11 de noviembre:** el depósito mínimo de 1 cobre está activo desde el hotfix del 10 de noviembre, más en [nuestra noticia](/es/news/racial-vendor-mounts-become-bind-on-pickup/).
+> **Actualización del 12 de noviembre:** el depósito mínimo de 1 cobre aún no está activo. Blizzard lo quitó de los hotfixes del 10 de noviembre; llega con el mantenimiento semanal del 17 de noviembre, más en [nuestra noticia](/es/news/1-copper-deposit-waits-until-17-november/).
 
 El depósito mínimo de 1 de plata por subasta en World of Warcraft: Forever va a desaparecer. El principal game designer Kris Zierhut dice en una entrevista que el mínimo vuelve a 1 de cobre. Cuándo, no lo dice: aún no, pero pronto.
 

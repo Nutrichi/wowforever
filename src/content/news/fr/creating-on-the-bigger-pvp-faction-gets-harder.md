@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Mise à jour du 12 novembre :** Aggrend dit dans le podcast que le verrou restera un moment : les joueurs de la Horde sans personnage sur ces rulesets doivent prévoir autre chose, plus de détails dans [notre article](/fr/news/no-horde-character-yet-make-other-plans/).
+
 Créer un personnage dans la faction la plus peuplée d'un ruleset PvP devient plus difficile dans World of Warcraft: Forever. Pour l'instant, c'est la Horde en PvP en Amérique du Nord et l'Alliance en RP-PvP en Europe. Blizzard vise un équilibre proche de 50/50.
 
 Le community manager Kaivax a annoncé le changement sur le forum le 10 novembre, à 3 h 05 heure belge. Même la région la plus déséquilibrée tourne autour de 55/45, dit Blizzard, et ce n'est pas assez proche.

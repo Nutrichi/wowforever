@@ -3,7 +3,7 @@ title: "Enhancement Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "The Enhancement Shaman in WoW Forever: the level 60 build, Stormstrike and Maelstrom Weapon, the rotation, totems, mana, tanking, stats and races."
 short: "Enhancement Shaman"
-updated: 2026-11-11
+updated: 2026-11-12
 lang: en
 faq:
   - q: "Is Enhancement Shaman good in WoW Forever?"
@@ -17,7 +17,7 @@ faq:
   - q: "Can an Enhancement Shaman tank in WoW Forever?"
     a: "In early dungeons, yes. There is no real taunt or defensive cooldown, and the build does not scale well into the endgame. Rockbiter Weapon, Lightning Shield, Earth Shock, Anticipation and Spirit Weapons do the work."
   - q: "Which stats does an Enhancement Shaman need?"
-    a: "Weapon damage first, then Strength, hit as you get closer to level 60, critical strike chance, Intellect and Spirit. Since 10 November Strength clearly beats Intellect: Mental Dexterity turns Intellect into attack power at 100% at most."
+    a: "Weapon damage first, then Strength, hit as you get closer to level 60, critical strike chance, Intellect and Spirit. Since 12 November Strength clearly beats Intellect: Mental Dexterity turns Intellect into attack power at 100% at most."
   - q: "Which race is best for an Enhancement Shaman?"
     a: "Dwarf is the only Alliance Shaman. On the Horde, Orc is the strongest choice thanks to Blood Fury, and Windshaper Skyborne gets 2% haste."
   - q: "Is there a level 60 build?"
@@ -28,7 +28,7 @@ sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/enhancement-shaman/"
 ---
-> **Update 11 November:** the hotfix of 10 November changed Stormstrike, Mental Dexterity and Maelstrom Weapon, and a weapon imbue now works next to a weapon totem. This guide follows the new values, more in [our post](/news/enhancement-shamans-turn-back-to-windfury/).
+> **Update 12 November:** after a delay, the hotfix of 10 November only reached the realms on 12 November at 19.45 Belgian time. It changed Stormstrike, Mental Dexterity and Maelstrom Weapon, and a weapon imbue now works next to a weapon totem. This guide follows the new values, more in [our post](/news/enhancement-changes-go-live-two-days-late/).
 
 > **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/).
 
@@ -151,7 +151,7 @@ Out of mana, you still have your white swings, but your damage drops sharply unt
 
 - **Call of the Elements** and the other Call spells drop a saved set of four totems with one button. They have a cast time.
 - **Totemic Recall** takes your totems back. **Totemic Call** brings your active totems to where you stand, with a 30 second cooldown.
-- **Windfury Totem** is the best melee buff in the game. Without the party restriction, it works for the whole raid. Since 10 November it works next to your own weapon imbue, so Windfury Weapon and Windfury Totem can both proc.
+- **Windfury Totem** is the best melee buff in the game. Without the party restriction, it works for the whole raid. Since 12 November it works next to your own weapon imbue, so Windfury Weapon and Windfury Totem can both proc.
 - **Tremor Totem** removes fear, sleep and charm from allies in range. Good timing saves runs.
 - **Poison Cleansing Totem** and **Disease Cleansing Totem** remove one effect per pulse.
 - **Earthbind Totem** slows enemies for kiting.
@@ -176,7 +176,7 @@ Stat priorities for level 60 follow once we can test level 60 in the live game. 
 
 - **Weapon damage**: your main source of scaling, through Stormstrike and Windfury.
 - **Hit**: less important early, a high priority near level 60. A missed ability wastes damage and mana.
-- **Strength**: 2 attack power per point, your strongest stat since 10 November.
+- **Strength**: 2 attack power per point, your strongest stat since 12 November.
 - **Intellect**: 1 attack power per point with Mental Dexterity at 3/3, down from 1.5, plus a bigger mana pool. Only worth it when mana is your problem.
 - **Critical strike chance**: keeps Flurry going, and Windfury hits can crit as well.
 - **Spirit**: more useful than it looks, because Improved Stormstrike keeps regeneration going while you cast.

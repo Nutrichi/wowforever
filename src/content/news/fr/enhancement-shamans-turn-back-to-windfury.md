@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Mise à jour du 12 novembre :** ces changements figuraient dans les notes de hotfix du 10 novembre, mais après un retard ils ne sont arrivés que le 12 novembre à 19 h 45, heure belge, plus de détails dans [notre article](/fr/news/enhancement-changes-go-live-two-days-late/).
+
 Blizzard a remanié le Shaman Enhancement dans un hotfix du 10 novembre. Stormstrike et Mental Dexterity frappent moins fort, Maelstrom Weapon se déclenche moins souvent et Windfury Weapon fonctionne désormais avec Windfury Totem. Le but : de la Strength plutôt que du stuff de caster avant les raids.
 
 ## Ce qui change

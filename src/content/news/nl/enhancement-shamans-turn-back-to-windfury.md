@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 12 november:** deze wijzigingen stonden in de hotfixnotities van 10 november, maar door een vertraging gingen ze pas op 12 november om 19.45 Belgische tijd live, meer in [onze post](/nl/news/enhancement-changes-go-live-two-days-late/).
+
 Blizzard heeft de Enhancement Shaman omgebouwd in een hotfix op 10 november. Stormstrike en Mental Dexterity slaan minder hard, Maelstrom Weapon procct minder vaak, en Windfury Weapon werkt nu naast Windfury Totem. Het doel: Strength-gear in plaats van castergear voor de raids.
 
 ## Wat er verandert

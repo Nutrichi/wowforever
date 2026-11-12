@@ -57,7 +57,7 @@ Combatti con Lightning Bolt a distanza e Rockbiter Weapon per i colpi in mischia
 4. Lancia un altro Lightning Bolt se il mostro non è ancora in mischia e il mana lo consente.
 5. Finiscilo in mischia.
 
-Stoneclaw Totem ed Earthbind Totem aiutano quando un pull va male. Stats all'inizio: danni magici, poi Forza, poi Intelletto, poi Tempra e Spirito, poi armatura. Vuoi livellare come Enhancement? Tieni l'equipaggiamento con Forza che trovi: dal 10 novembre la Forza è chiaramente la sua stat migliore, di più nel [nostro articolo](/it/news/enhancement-shamans-turn-back-to-windfury/).
+Stoneclaw Totem ed Earthbind Totem aiutano quando un pull va male. Stats all'inizio: danni magici, poi Forza, poi Intelletto, poi Tempra e Spirito, poi armatura. Vuoi livellare come Enhancement? Tieni l'equipaggiamento con Forza che trovi: dal 12 novembre la Forza è chiaramente la sua stat migliore, di più nel [nostro articolo](/it/news/enhancement-shamans-turn-back-to-windfury/).
 
 ## Build dei talenti
 

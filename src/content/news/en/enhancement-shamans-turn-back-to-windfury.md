@@ -12,6 +12,8 @@ tags: ["forever", "classes", "shaman"]
 featured: false
 draft: false
 ---
+> **Update 12 November:** these changes were in the hotfix notes of 10 November, but after a delay they only went live on 12 November at 19.45 Belgian time, more in [our post](/news/enhancement-changes-go-live-two-days-late/).
+
 Blizzard reworked the Enhancement Shaman in a hotfix on 10 November. Stormstrike and Mental Dexterity hit less hard, Maelstrom Weapon procs less often, and Windfury Weapon now works next to Windfury Totem. The goal: Strength gear instead of caster gear before the raids.
 
 ## What changes

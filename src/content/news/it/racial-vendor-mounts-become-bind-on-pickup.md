@@ -1,6 +1,6 @@
 ---
 title: "Le cavalcature razziali diventano Bind-on-Pickup"
-description: "Il resto degli hotfix del 10 novembre: cavalcature razziali vincolate alla raccolta, munizioni da raid scambiabili, niente esperienza dagli Shatterspear Trolls, deposito d'asta da 1 rame e molte correzioni a missioni e professioni."
+description: "Il resto degli hotfix del 10 novembre: cavalcature razziali vincolate alla raccolta, munizioni da raid scambiabili, niente esperienza dagli Shatterspear Trolls, deposito d'asta da 1 rame rinviato al 17 novembre e molte correzioni a missioni e professioni."
 date: 2026-11-11T13:04:00+01:00
 category: forever
 lang: it
@@ -41,7 +41,7 @@ Le parti più grandi della stessa lista hanno un articolo a parte: [Shaman Enhan
 
 ## Casa d'aste e posta
 
-Il deposito minimo d'asta torna a 1 rame, come [annunciato la settimana scorsa](/it/news/auction-deposits-go-back-to-1-copper/). La modifica è arrivata con il riavvio dei reami. Alcune lettere arrivavano dopo circa 2 minuti invece di 60, e la posta non letta mostrava per tutti "Stormwind Auction House" come mittente. Entrambi i problemi sono risolti.
+Le note riportavano un deposito minimo d'asta di 1 rame, come [annunciato la settimana scorsa](/it/news/auction-deposits-go-back-to-1-copper/). Il 12 novembre Blizzard ha tolto le modifiche all'Auction House: arrivano con la manutenzione settimanale del 17 novembre, di più nel [nostro articolo](/it/news/1-copper-deposit-waits-until-17-november/). Le note citavano anche due correzioni alla posta: Alcune lettere arrivavano dopo circa 2 minuti invece di 60, e la posta non letta mostrava per tutti "Stormwind Auction House" come mittente. Entrambi i problemi sono risolti.
 
 ## Mondo e missioni
 

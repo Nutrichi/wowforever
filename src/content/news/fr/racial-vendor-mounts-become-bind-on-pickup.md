@@ -1,6 +1,6 @@
 ---
 title: "Les montures raciales deviennent Bind-on-Pickup"
-description: "Le reste des hotfixes du 10 novembre : montures raciales liées quand ramassées, munitions de raid échangeables, plus d'expérience sur les Shatterspear Trolls, dépôt aux enchères dès 1 cuivre et de nombreuses corrections de quêtes et de métiers."
+description: "Le reste des hotfixes du 10 novembre : montures raciales liées quand ramassées, munitions de raid échangeables, plus d'expérience sur les Shatterspear Trolls, dépôt aux enchères de 1 cuivre repoussé au 17 novembre et de nombreuses corrections de quêtes et de métiers."
 date: 2026-11-11T13:04:00+01:00
 category: forever
 lang: fr
@@ -41,7 +41,7 @@ Les gros morceaux de la même liste ont leur propre article : [Shamans Enhanceme
 
 ## Hôtel des ventes et courrier
 
-Le dépôt minimum aux enchères revient à 1 cuivre, comme [annoncé la semaine dernière](/fr/news/auction-deposits-go-back-to-1-copper/). Ce changement est arrivé avec le redémarrage des royaumes. Certains courriers arrivaient en 2 minutes environ au lieu de 60, et le courrier non lu affichait « Stormwind Auction House » comme expéditeur pour tout le monde. Les deux sont corrigés.
+Les notes annonçaient un dépôt minimum de 1 cuivre, comme [annoncé la semaine dernière](/fr/news/auction-deposits-go-back-to-1-copper/). Le 12 novembre, Blizzard a retiré les changements de l'Auction House : ils arrivent avec la maintenance hebdomadaire du 17 novembre, plus de détails dans [notre article](/fr/news/1-copper-deposit-waits-until-17-november/). Les notes citaient aussi deux corrections du courrier : Certains courriers arrivaient en 2 minutes environ au lieu de 60, et le courrier non lu affichait « Stormwind Auction House » comme expéditeur pour tout le monde. Les deux sont corrigés.
 
 ## Monde et quêtes
 

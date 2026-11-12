@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Actualización del 12 de noviembre:** Aggrend dice en el podcast que el bloqueo seguirá un tiempo: los jugadores de la Horda sin personaje en estos rulesets deberían buscar otro plan, más en [nuestra noticia](/es/news/no-horde-character-yet-make-other-plans/).
+
 Crear un personaje en la facción más poblada de un ruleset PvP es cada vez más difícil en World of Warcraft: Forever. Ahora mismo es la Horde en PvP en Norteamérica y la Alliance en RP-PvP en Europa. Blizzard quiere un reparto lo más cercano posible a 50/50.
 
 El community manager Kaivax anunció el cambio en el foro el 10 de noviembre, a las 03.05 hora de Bélgica. Incluso la región más desequilibrada ronda el 55/45, dice Blizzard, y eso no es suficiente.

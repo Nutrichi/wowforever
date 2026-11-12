@@ -1,6 +1,6 @@
 ---
 title: "Rassen-Reittiere werden Bind-on-Pickup"
-description: "Der Rest der Hotfixes vom 10. November: Rassen-Reittiere vom Händler werden beim Aufheben gebunden, Raid-Munition ist handelbar, Shatterspear Trolls geben keine Erfahrung, Auktionsgebühr ab 1 Kupfer und viele Fixes an Quests und Berufen."
+description: "Der Rest der Hotfixes vom 10. November: Rassen-Reittiere vom Händler werden beim Aufheben gebunden, Raid-Munition ist handelbar, Shatterspear Trolls geben keine Erfahrung, Auktionsgebühr von 1 Kupfer erst am 17. November und viele Fixes an Quests und Berufen."
 date: 2026-11-11T13:04:00+01:00
 category: forever
 lang: de
@@ -41,7 +41,7 @@ Die größeren Teile derselben Liste haben einen eigenen Beitrag: [Enhancement-S
 
 ## Auktionshaus und Post
 
-Die Mindestgebühr im Auktionshaus liegt wieder bei 1 Kupfer, wie [letzte Woche angekündigt](/de/news/auction-deposits-go-back-to-1-copper/). Die Änderung kam mit dem Neustart der Realms. Manche Post kam nach etwa 2 Minuten statt nach 60 an, und ungelesene Post zeigte bei allen "Stormwind Auction House" als Absender. Beides ist behoben.
+Die Notizen nannten eine Mindestgebühr von 1 Kupfer, wie [letzte Woche angekündigt](/de/news/auction-deposits-go-back-to-1-copper/). Am 12. November nahm Blizzard die Änderungen am Auction House wieder heraus: Sie kommen mit der wöchentlichen Wartung am 17. November, mehr in [unserem Beitrag](/de/news/1-copper-deposit-waits-until-17-november/). Die Notizen nannten auch zwei Fixes an der Post: Manche Post kam nach etwa 2 Minuten statt nach 60 an, und ungelesene Post zeigte bei allen "Stormwind Auction House" als Absender. Beides ist behoben.
 
 ## Welt und Quests
 
