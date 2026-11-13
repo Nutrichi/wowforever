@@ -3,12 +3,12 @@ title: "Razorfen Downs"
 metaTitle: "Razorfen Downs in WoW Forever: Beute, Bosse und Drops"
 description: "Alle bekannte Beute in Razorfen Downs in WoW Forever: die Drops von Tuten'kash, Mordresh Fire Eye, Glutton und Amnennar the Coldbringer und die blauen Drops der Monster."
 short: "Razorfen Downs"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat Razorfen Downs in WoW Forever?"
-    a: "Das Spiel nennt Stufe 37 bis 46. Die Bosse sind Stufe 39 bis 41."
+    a: "Stufe 40 bis 50. Betreten kannst du ihn ab Stufe 35. Die Bosse sind Stufe 39 bis 41."
   - q: "Wo ist der Eingang von Razorfen Downs?"
     a: "An der Südspitze von The Barrens, östlich von Razorfen Kraul, bei /way 50.8 92.8. Bieg kurz vor dem Great Lift nach Thousand Needles nach Osten ab."
   - q: "Wie beschwört man Tuten'kash?"

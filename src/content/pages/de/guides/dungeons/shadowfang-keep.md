@@ -3,12 +3,12 @@ title: "Shadowfang Keep"
 metaTitle: "Shadowfang Keep in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in Shadowfang Keep in WoW Forever: die Drops aller acht Bosse von Rethilgore bis Archmage Arugal, die Fel Steed Saddlebags, die Beute des Trashs und die Belohnungen der Quests."
 short: "Shadowfang Keep"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat Shadowfang Keep in WoW Forever?"
-    a: "Das Spiel nennt Stufe 20 bis 30. Die Bosse sind Stufe 20 bis 26."
+    a: "Stufe 22 bis 30. Betreten kannst du ihn ab Stufe 14. Die Bosse sind Stufe 20 bis 26."
   - q: "Wo ist der Eingang von Shadowfang Keep?"
     a: "In Silverpine Forest, in den Bergen direkt nördlich von Pyrewood Village, bei /way 44.5 68.0."
   - q: "Hat Shadowfang Keep Quests für die Alliance?"

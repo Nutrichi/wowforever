@@ -1,6 +1,6 @@
 {
  "location": "Eastern Plaguelands, a nord-ovest",
- "entrance": "La porta principale di Stratholme in fondo al ponte di pietra, a nord-ovest delle Eastern Plaguelands. Porta dritta al lato vivente.",
+ "entrance": "La porta principale di Stratholme in fondo al ponte di pietra, a nord-ovest delle Eastern Plaguelands. Porta dritta al lato vivente. L’ingresso è a /way 30.9 15.2.",
  "quests": {
   "5848": {
    "objective": "Trova il dipinto Of Love and Family nella Scarlet Bastion. È appeso dietro l'Unfinished Painting, nella sala di Archivist Galford.",

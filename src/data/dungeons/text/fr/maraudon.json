@@ -1,6 +1,6 @@
 {
  "location": "Desolace, dans la Valley of Spears",
- "entrance": "Dans la Valley of Spears, à l’ouest de Desolace. Une porte de pierre sur le côté ouest de la vallée mène à des grottes pleines d’élites ; le chemin s’y sépare vers le portail orange et le portail violet.",
+ "entrance": "Dans la Valley of Spears, à l’ouest de Desolace. Une porte de pierre sur le côté ouest de la vallée mène à des grottes pleines d’élites ; le chemin s’y sépare vers le portail orange et le portail violet. L’entrée se trouve en /way 29.5 57.8.",
  "quests": {
   "7068": {
    "objective": "Récupérez 10 Shadowshard Fragments sur les Shadowshard Rumblers et Smashers, des élémentaires élites dans les grottes devant les portails."

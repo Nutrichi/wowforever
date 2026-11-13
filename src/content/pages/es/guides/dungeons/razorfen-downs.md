@@ -3,12 +3,12 @@ title: "Razorfen Downs"
 metaTitle: "Razorfen Downs en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín conocido de Razorfen Downs en WoW Forever: los objetos de Tuten'kash, Mordresh Fire Eye, Glutton y Amnennar the Coldbringer, y los objetos azules de los monstruos."
 short: "Razorfen Downs"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel tiene Razorfen Downs en WoW Forever?"
-    a: "El juego da un rango de 37 a 46. Los jefes son de nivel 39 a 41."
+    a: "Niveles 40 a 50. Puedes entrar desde el nivel 35. Los jefes son de nivel 39 a 41."
   - q: "¿Dónde está la entrada de Razorfen Downs?"
     a: "En la punta sur de The Barrens, al este de Razorfen Kraul, en /way 50.8 92.8. Gira al este justo antes del Great Lift a Thousand Needles."
   - q: "¿Cómo se invoca a Tuten'kash?"

@@ -3,12 +3,12 @@ title: "Razorfen Kraul"
 metaTitle: "Razorfen Kraul in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in Razorfen Kraul in WoW Forever: die Drops von Roogug, Aggem Thorncurse, Death Speaker Jargba, Ramtusk, Agathelos und Charlga Razorflank, die Beute der Rares und die Belohnungen der Quests."
 short: "Razorfen Kraul"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat Razorfen Kraul in WoW Forever?"
-    a: "Das Spiel nennt Stufe 29 bis 38. Die Bosse sind Stufe 28 bis 33."
+    a: "Stufe 30 bis 40. Betreten kannst du ihn ab Stufe 25. Die Bosse sind Stufe 28 bis 33."
   - q: "Wo ist der Eingang von Razorfen Kraul?"
     a: "Im Dornengestrüpp an der Südspitze von The Barrens, kurz vor dem Great Lift nach Thousand Needles, bei /way 42.3 89.9. Bieg vor dem Aufzug nach Westen ab."
   - q: "Hat sich die Beute von Razorfen Kraul in WoW Forever geändert?"

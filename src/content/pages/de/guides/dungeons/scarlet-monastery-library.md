@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Library"
 metaTitle: "Scarlet Monastery Library in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in der Library von Scarlet Monastery in WoW Forever: die Drops von Houndmaster Loksey und Arcanist Doan, der neue Houndmaster Boomerang und die Belohnungen der Quests."
 short: "SM Library"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat die Scarlet Monastery Library in WoW Forever?"
-    a: "Das Spiel nennt Stufe 33 bis 41. Houndmaster Loksey ist Stufe 34 und Arcanist Doan Stufe 37."
+    a: "Stufe 29 bis 39. Betreten kannst du ihn ab Stufe 21. Houndmaster Loksey ist Stufe 34 und Arcanist Doan Stufe 37."
   - q: "Wo liegt der Scarlet Key?"
     a: "In Doan's Strongbox, hinter Arcanist Doan am Ende der Library. Er öffnet Armory und Cathedral; ein Rogue mit Lockpicking 175 kann sie auch öffnen."
   - q: "Hat sich die Beute der Library in WoW Forever geändert?"

@@ -3,12 +3,12 @@ title: "Gnomeregan"
 metaTitle: "Gnomeregan in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in Gnomeregan in WoW Forever: die Drops von Grubbis, Viscous Fallout, Electrocutioner 6000, Crowd Pummeler 9-60 und Thermaplugg, die Engineering-Schematics und die Belohnungen der Quests."
 short: "Gnomeregan"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat Gnomeregan in WoW Forever?"
-    a: "Das Spiel nennt Stufe 29 bis 38. Die Bosse sind Stufe 30 bis 34."
+    a: "Stufe 29 bis 38. Betreten kannst du ihn ab Stufe 19. Die Bosse sind Stufe 30 bis 34."
   - q: "Wie kommt die Horde nach Gnomeregan?"
     a: "Mit dem Goblin Transponder. Sovik in Orgrimmar vergibt Chief Engineer Scooty; Scooty in Booty Bay beamt dich danach mit Gnomer-gooooone! nach Gnomeregan. Behalte den Transponder für spätere Besuche."
   - q: "Was ist die Hintertür von Gnomeregan?"

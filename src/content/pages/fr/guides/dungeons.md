@@ -3,7 +3,7 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : donjons, niveaux et donneurs"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
@@ -13,6 +13,8 @@ faq:
     a: "Ragefire Chasm pour la Horde, avec des quêtes dès le niveau 9, et The Hall of Thanes pour l’Alliance, pour les niveaux 13 à 18. Les Ruins of Lordaeron, pour 15 à 20, sont le premier nouveau donjon en territoire de la Horde."
   - q: "Les quêtes de donjon rapportent-elles encore beaucoup d’expérience ?"
     a: "Oui, plus qu’avant. Blizzard a réduit l’expérience des monstres en donjon et augmenté celle des quêtes de donjon, donc un premier passage avec toutes ses quêtes rapporte le plus. Cette expérience supplémentaire des quêtes de donjon a ensuite été réduite de moitié."
+  - q: "Puis-je faire un donjon à plus de cinq joueurs ?"
+    a: "La plupart des donjons acceptent un groupe de raid jusqu’à 10 joueurs. Blackrock Depths, Stratholme et Scholomance restent à 5, et Upper Blackrock Spire est prévu pour 10. Les quêtes de donjon ne se valident pas en groupe de raid : restez à 5 si vous voulez les quêtes."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
@@ -26,27 +28,27 @@ Pour les donjons au-delà du niveau 30, les quêtes viennent des données de Cla
 - **[Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/)**, niveaux 13-18 : l’entrée par Orgrimmar, les six quêtes de la Horde avec leurs récompenses et le nouveau butin de Taragaman et Jergosh.
 - **[The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/)**, niveaux 13-18 : le chemin, les cinq quêtes avec la chaîne de Dun Morogh, les quatre boss et leur butin.
 - **[Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/)**, niveaux 15-20 : le chemin pour les deux factions, les dix quêtes, les six boss et leur butin.
-- **[Wailing Caverns](/fr/guides/dungeons/wailing-caverns/)**, niveaux 15-24 : les sept quêtes avec leurs récompenses, les Lords of the Fang, l’événement de Naralex et les nouveaux bonus d’Embrace of the Viper.
-- **[The Deadmines](/fr/guides/dungeons/the-deadmines/)**, niveaux 17-26 : l’entrée par Moonbrook, les sept quêtes avec leurs récompenses et le nouveau butin de chaque boss.
-- **[Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/)**, niveaux 20-30 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss.
+- **[Wailing Caverns](/fr/guides/dungeons/wailing-caverns/)**, niveaux 15-25 : les sept quêtes avec leurs récompenses, les Lords of the Fang, l’événement de Naralex et les nouveaux bonus d’Embrace of the Viper.
+- **[The Deadmines](/fr/guides/dungeons/the-deadmines/)**, niveaux 18-23 : l’entrée par Moonbrook, les sept quêtes avec leurs récompenses et le nouveau butin de chaque boss.
+- **[Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/)**, niveaux 22-30 : l’entrée au-dessus de Pyrewood Village, les trois quêtes de la Horde et le nouveau butin de chaque boss.
 - **[Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/)**, niveaux 24-32 : l’entrée sur la Zoram Strand, les quêtes des deux factions et le nouveau butin de chaque boss.
 - **[Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/)**, niveaux 24-29, nouveau dans Forever : les quêtes des deux factions, les hautes herbes et les trois boss avec leur butin.
-- **[The Stockade](/fr/guides/dungeons/the-stockade/)**, niveaux 24-32 : le plan de la prison, les six quêtes et le nouveau butin bleu de chaque boss.
+- **[The Stockade](/fr/guides/dungeons/the-stockade/)**, niveaux 22-30 : le plan de la prison, les six quêtes et le nouveau butin bleu de chaque boss.
 - **[City of Dalaran](/fr/guides/dungeons/city-of-dalaran/)**, niveaux 28-33, nouveau dans Forever : les deux entrées, les monstres arcaniques et les sept boss.
-- **[Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/)**, niveaux 29-38 : les sept quêtes avec leurs récompenses, les lanceurs de sorts quilboar et le nouveau butin de chaque boss.
+- **[Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/)**, niveaux 30-40 : les sept quêtes avec leurs récompenses, les lanceurs de sorts quilboar et le nouveau butin de chaque boss.
 - **[Gnomeregan](/fr/guides/dungeons/gnomeregan/)**, niveaux 29-38 : les deux portes, le téléporteur de la Horde, les treize quêtes et le nouveau butin de chaque boss.
-- **Scarlet Monastery**, niveaux 30-46, en quatre ailes, chacune avec son butin, ses quêtes et son guide : [Graveyard](/fr/guides/dungeons/scarlet-monastery-graveyard/), [Library](/fr/guides/dungeons/scarlet-monastery-library/), [Armory](/fr/guides/dungeons/scarlet-monastery-armory/) et [Cathedral](/fr/guides/dungeons/scarlet-monastery-cathedral/).
-- **[Razorfen Downs](/fr/guides/dungeons/razorfen-downs/)**, niveaux 37-46 : les six quêtes avec leurs récompenses, l’événement du gong et le nouveau butin de chaque boss.
-- **[Uldaman](/fr/guides/dungeons/uldaman/)**, niveaux 41-51 : l’accès par les Badlands, les huit boss jusqu’à Archaedas et le butin connu à ce jour.
-- **[Zul'Farrak](/fr/guides/dungeons/zul-farrak/)**, niveaux 40-50 : l’accès par Tanaris, les huit quêtes, l’événement des escaliers, le Mallet pour Gahz'rilla et le butin des données de Forever.
-- **[Maraudon](/fr/guides/dungeons/maraudon/)**, niveaux 41-50 : les trois portails en Desolace, les onze quêtes, le Scepter of Celebras et les huit boss jusqu’à Princess Theradras.
-- **[Sunken Temple](/fr/guides/dungeons/sunken-temple/)**, niveaux 46-54: l’accès par le Swamp of Sorrows, Atal'alarion et les autels, les neuf quêtes, les gardiens trolls et l’Avatar of Hakkar.
-- **[Blackrock Depths](/fr/guides/dungeons/blackrock-depths/)**, niveaux 50-60: la descente dans Blackrock Mountain, les clés, les vingt-deux quêtes, le Ring of Law, le Grim Guzzler et chaque boss jusqu’à l’empereur.
-- **[Dire Maul East](/fr/guides/dungeons/dire-maul-east/)**, niveaux 54-60: les trois entrées à Feralas, la poursuite de Pusillin pour la Crescent Key, les cinq quêtes et les quatre boss jusqu’à Alzzin.
+- **Scarlet Monastery**, niveaux 28-45, en quatre ailes, chacune avec son butin, ses quêtes et son guide : [Graveyard](/fr/guides/dungeons/scarlet-monastery-graveyard/), [Library](/fr/guides/dungeons/scarlet-monastery-library/), [Armory](/fr/guides/dungeons/scarlet-monastery-armory/) et [Cathedral](/fr/guides/dungeons/scarlet-monastery-cathedral/).
+- **[Razorfen Downs](/fr/guides/dungeons/razorfen-downs/)**, niveaux 40-50 : les six quêtes avec leurs récompenses, l’événement du gong et le nouveau butin de chaque boss.
+- **[Uldaman](/fr/guides/dungeons/uldaman/)**, niveaux 42-52 : l’accès par les Badlands, les huit boss jusqu’à Archaedas et le butin connu à ce jour.
+- **[Zul'Farrak](/fr/guides/dungeons/zul-farrak/)**, niveaux 44-54 : l’accès par Tanaris, les huit quêtes, l’événement des escaliers, le Mallet pour Gahz'rilla et le butin des données de Forever.
+- **[Maraudon](/fr/guides/dungeons/maraudon/)**, niveaux 45-57 : les trois portails en Desolace, les onze quêtes, le Scepter of Celebras et les huit boss jusqu’à Princess Theradras.
+- **[Sunken Temple](/fr/guides/dungeons/sunken-temple/)**, niveaux 50-60: l’accès par le Swamp of Sorrows, Atal'alarion et les autels, les neuf quêtes, les gardiens trolls et l’Avatar of Hakkar.
+- **[Blackrock Depths](/fr/guides/dungeons/blackrock-depths/)**, niveaux 52-60: la descente dans Blackrock Mountain, les clés, les vingt-deux quêtes, le Ring of Law, le Grim Guzzler et chaque boss jusqu’à l’empereur.
+- **[Dire Maul East](/fr/guides/dungeons/dire-maul-east/)**, niveaux 58-60: les trois entrées à Feralas, la poursuite de Pusillin pour la Crescent Key, les cinq quêtes et les quatre boss jusqu’à Alzzin.
 - **[Blackrock Spire](/fr/guides/dungeons/blackrock-spire/)**, niveaux 55-60: les deux ailes en un aperçu, avec l’entrée dans Blackrock Mountain, le chemin par la chaîne et les boss de Lower et Upper.
 - **[Lower Blackrock Spire](/fr/guides/dungeons/lower-blackrock-spire/)**, niveaux 55-60: la montée dans Blackrock Mountain, les douze quêtes, l’événement d’Urok Doomhowl et les neuf boss jusqu’à Overlord Wyrmthalak.
-- **[Dire Maul West](/fr/guides/dungeons/dire-maul-west/)**, niveaux 56-60: la Crescent Key, les cinq pylônes, les quatre quêtes et les cinq boss jusqu’à Prince Tortheldrin dans l’Athenaeum.
-- **[Dire Maul North](/fr/guides/dungeons/dire-maul-north/)**, niveaux 56-60: les clés et les portes, le Tribute Run avec l’Ogre Suit, le buff King of the Gordok, les cinq quêtes et les sept ogres jusqu’à King Gordok.
+- **[Dire Maul West](/fr/guides/dungeons/dire-maul-west/)**, niveaux 58-60: la Crescent Key, les cinq pylônes, les quatre quêtes et les cinq boss jusqu’à Prince Tortheldrin dans l’Athenaeum.
+- **[Dire Maul North](/fr/guides/dungeons/dire-maul-north/)**, niveaux 58-60: les clés et les portes, le Tribute Run avec l’Ogre Suit, le buff King of the Gordok, les cinq quêtes et les sept ogres jusqu’à King Gordok.
 - **[Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/)**, niveaux 58-60: la montée dans Blackrock Mountain, le Seal of Ascension, les douze quêtes et les boss d’Emberseer à General Drakkisath.
 - **[Scholomance](/fr/guides/dungeons/scholomance/)**, niveaux 58-60: la Skeleton Key, la chaîne d’Eva Sarkhoff, les dix quêtes et chaque boss jusqu’à Darkmaster Gandling.
 - **[Stratholme Living](/fr/guides/dungeons/stratholme-living/)**, niveaux 58-60: la porte principale, The Scarlet Key, les six boîtes aux lettres, les six quêtes et chaque boss jusqu’à Balnazzar.
@@ -59,45 +61,45 @@ Pour les donjons au-delà du niveau 30, les quêtes viennent des données de Cla
 
 ## Chaque donjon par niveau
 
-Pour les donjons qui ont un guide, la fourchette est celle que donne le jeu. Pour les autres, elle va du niveau où un groupe peut affronter le donjon au niveau où il devient facile ; pour les nouveaux, c’est celle publiée par Blizzard le 14 septembre 2026.
+La fourchette est la tranche de niveaux dans laquelle un groupe fait d’habitude le donjon. Vous pouvez souvent y entrer plus tôt : le niveau minimum est dans la FAQ de chaque guide.
 
 | Donjon | Niveaux | Quêtes |
 |---|---|---|
-| [Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/) | 13-18 | 5 |
 | [The Hall of Thanes](/fr/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
+| [Ragefire Chasm](/fr/guides/dungeons/ragefire-chasm/) | 13-18 | 5 |
 | [Ruins of Lordaeron](/fr/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
-| [Wailing Caverns](/fr/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
-| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | 17-26 | 8 |
-| [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
-| [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
+| [Wailing Caverns](/fr/guides/dungeons/wailing-caverns/) | 15-25 | 7 |
+| [The Deadmines](/fr/guides/dungeons/the-deadmines/) | 18-23 | 8 |
+| [Shadowfang Keep](/fr/guides/dungeons/shadowfang-keep/) | 22-30 | 5 |
+| [The Stockade](/fr/guides/dungeons/the-stockade/) | 22-30 | 6 |
 | [Excavation Site: Wetlands](/fr/guides/dungeons/excavation-site-wetlands/) | 24-29 | pas encore connues |
-| [The Stockade](/fr/guides/dungeons/the-stockade/) | 24-32 | 6 |
+| [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
 | [City of Dalaran](/fr/guides/dungeons/city-of-dalaran/) | 28-33 | pas encore connues |
-| [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
+| [Scarlet Monastery: Graveyard](/fr/guides/dungeons/scarlet-monastery-graveyard/) | 28-38 | 2 |
 | [Gnomeregan](/fr/guides/dungeons/gnomeregan/) | 29-38 | 13 |
+| [Scarlet Monastery: Library](/fr/guides/dungeons/scarlet-monastery-library/) | 29-39 | 8 |
+| [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/) | 30-40 | 7 |
+| [Scarlet Monastery: Armory](/fr/guides/dungeons/scarlet-monastery-armory/) | 32-42 | 3 |
 | [The Drowned City](/fr/guides/dungeons/the-drowned-city/) | 35-40 | 8 |
-| [Scarlet Monastery: Graveyard](/fr/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
-| [Scarlet Monastery: Library](/fr/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
-| [Scarlet Monastery: Armory](/fr/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |
-| [Scarlet Monastery: Cathedral](/fr/guides/dungeons/scarlet-monastery-cathedral/) | 38-46 | 3 |
-| [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
+| [Scarlet Monastery: Cathedral](/fr/guides/dungeons/scarlet-monastery-cathedral/) | 35-45 | 3 |
 | [Krol'dok Stronghold](/fr/guides/dungeons/kroldok-stronghold/) | 40-45 | pas encore connues |
-| [Uldaman](/fr/guides/dungeons/uldaman/) | 41-51 | 14 |
-| [Zul'Farrak](/fr/guides/dungeons/zul-farrak/) | 40-50 | 8 |
-| [Maraudon](/fr/guides/dungeons/maraudon/) | 41-50 | 11 |
+| [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | 40-50 | 6 |
+| [Uldaman](/fr/guides/dungeons/uldaman/) | 42-52 | 14 |
+| [Zul'Farrak](/fr/guides/dungeons/zul-farrak/) | 44-54 | 8 |
+| [Maraudon](/fr/guides/dungeons/maraudon/) | 45-57 | 11 |
 | [Alcaz Prison](/fr/guides/dungeons/alcaz-prison/) | 48-53 | pas encore connues |
-| [Sunken Temple](/fr/guides/dungeons/sunken-temple/) | 46-54 | 9 |
-| [Blackrock Depths](/fr/guides/dungeons/blackrock-depths/) | 50-60 | 24 |
-| [Dire Maul East](/fr/guides/dungeons/dire-maul-east/) | 54-60 | 5 |
-| [Dire Maul West](/fr/guides/dungeons/dire-maul-west/) | 56-60 | 2 |
-| [Dire Maul North](/fr/guides/dungeons/dire-maul-north/) | 56-60 | 6 |
+| [Sunken Temple](/fr/guides/dungeons/sunken-temple/) | 50-60 | 9 |
+| [Blackrock Depths](/fr/guides/dungeons/blackrock-depths/) | 52-60 | 24 |
 | [Blackmaw Hold](/fr/guides/dungeons/blackmaw-hold/) | 55-60 | pas encore connues |
+| [Lower Blackrock Spire](/fr/guides/dungeons/lower-blackrock-spire/) | 55-60 | 12 |
 | [Shaper's Terrace](/fr/guides/dungeons/shapers-terrace/) | 58-60 | pas encore connues |
-| [Lower Blackrock Spire](/fr/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
+| [Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/) | 58-60 | 12 |
+| [Dire Maul East](/fr/guides/dungeons/dire-maul-east/) | 58-60 | 5 |
+| [Dire Maul West](/fr/guides/dungeons/dire-maul-west/) | 58-60 | 2 |
+| [Dire Maul North](/fr/guides/dungeons/dire-maul-north/) | 58-60 | 6 |
 | [Scholomance](/fr/guides/dungeons/scholomance/) | 58-60 | 10 |
 | [Stratholme Living](/fr/guides/dungeons/stratholme-living/) | 58-60 | 6 |
 | [Stratholme Undead](/fr/guides/dungeons/stratholme-undead/) | 58-60 | 8 |
-| [Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## Comment lire les tableaux
 

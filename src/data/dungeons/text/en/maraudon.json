@@ -1,6 +1,6 @@
 {
  "location": "Desolace, in the Valley of Spears",
- "entrance": "In the Valley of Spears in western Desolace. A stone door on the west side of the valley leads into caves full of elites; the path splits there to the orange and the purple portal.",
+ "entrance": "In the Valley of Spears in western Desolace. A stone door on the west side of the valley leads into caves full of elites; the path splits there to the orange and the purple portal. The entrance is at /way 29.5 57.8.",
  "quests": {
   "7068": {
    "objective": "Collect 10 Shadowshard Fragments from the Shadowshard Rumblers and Smashers, elite elementals in the caves outside the portals."

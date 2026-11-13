@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Graveyard"
 metaTitle: "Scarlet Monastery Graveyard in WoW Forever: loot, bazen en drops"
 description: "Elke drop in de Graveyard van Scarlet Monastery in WoW Forever: de loot van Interrogator Vishas en Bloodmage Thalnos, de drie rares en de Chain of the Scarlet Crusade."
 short: "SM Graveyard"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is de Scarlet Monastery Graveyard in WoW Forever?"
-    a: "Het spel geeft 30 tot 38. Interrogator Vishas is level 32 en Bloodmage Thalnos level 34."
+    a: "Levels 28 tot 38. Je kunt erin vanaf level 21. Interrogator Vishas is level 32 en Bloodmage Thalnos level 34."
   - q: "Waar is de ingang van het Scarlet Monastery?"
     a: "Aan de oostkant van Tirisfal Glades, op /way 85.1 31.4. Elk van de vier vleugels heeft een eigen ingang; de Graveyard en de Library staan voor iedereen open."
   - q: "Is de loot van de Graveyard veranderd in WoW Forever?"

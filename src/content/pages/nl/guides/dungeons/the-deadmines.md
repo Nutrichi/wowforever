@@ -3,12 +3,12 @@ title: "The Deadmines"
 metaTitle: "The Deadmines in WoW Forever: loot, bazen en drops"
 description: "Elke drop in The Deadmines in WoW Forever: de loot van Rhahk'Zor, Sneed, Gilnid, Mr. Smite, Cookie, Greenskin en VanCleef, de set Defias Leather, Partners in Crime en de beloningen van de quests."
 short: "The Deadmines"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is The Deadmines in WoW Forever?"
-    a: "Het spel geeft 17 tot 26. De bazen zijn level 19 tot 21."
+    a: "Levels 18 tot 23. Je kunt erin vanaf level 10. De bazen zijn level 19 tot 21."
   - q: "Waar is de ingang van The Deadmines?"
     a: "In Westfall, in de Defias Hideout, het grote gebouw in het zuidwesten van Moonbrook op /way 42 72. Het portaal ligt onderaan de grotten eronder."
   - q: "Is de loot van The Deadmines veranderd in WoW Forever?"

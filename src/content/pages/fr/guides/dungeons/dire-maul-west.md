@@ -3,12 +3,12 @@ title: "Dire Maul West"
 metaTitle: "Dire Maul West dans WoW Forever : butin, boss et drops"
 description: "Le butin de Dire Maul West dans WoW Forever : les drops de Classic de Tendris Warpwood, Illyanna Ravenoak, Magister Kalendris, Immol'thar et Prince Tortheldrin."
 short: "Dire Maul West"
-updated: 2026-10-28
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Dire Maul West dans WoW Forever ?"
-    a: "Notre aperçu des donjons donne 56 à 60. Les boss sont niveau 60 et 61 dans les données de Forever."
+    a: "Niveaux 58 à 60. Vous pouvez y entrer dès le niveau 48. Les boss sont niveau 60 et 61 dans les données de Forever."
   - q: "Comment entrer dans Dire Maul West ?"
     a: "Par les deux portes du mur ouest de la cour centrale de Dire Maul. Un joueur du groupe a besoin de la Crescent Key, que Pusillin laisse tomber dans Dire Maul East."
   - q: "Comment atteindre Immol'thar ?"

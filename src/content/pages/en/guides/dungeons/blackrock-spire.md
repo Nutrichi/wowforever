@@ -3,11 +3,11 @@ title: "Blackrock Spire"
 metaTitle: "Blackrock Spire in WoW Forever: both wings, entrance and bosses"
 description: "Blackrock Spire in WoW Forever: how to reach the portal in Blackrock Mountain, how Lower and Upper Blackrock Spire differ, and the bosses of both wings."
 short: "Blackrock Spire"
-updated: 2026-10-29
+updated: 2026-11-13
 lang: en
 faq:
   - q: "Is Blackrock Spire one dungeon or two?"
-    a: "One instance with two wings that count as separate dungeons: Lower Blackrock Spire for 5 players and Upper Blackrock Spire, which was for 10 players in Classic."
+    a: "One instance with two wings that count as separate dungeons: Lower Blackrock Spire for 5 players and Upper Blackrock Spire for 10 players."
   - q: "How do you get into Upper Blackrock Spire?"
     a: "With the Seal of Ascension. Inside Lower Blackrock Spire, one player who carries it opens the door to the left of the entrance."
   - q: "Where is the entrance to Blackrock Spire?"
@@ -21,7 +21,7 @@ Blackrock Spire is the stronghold of the Dark Horde inside Blackrock Mountain. I
 | Wing | Levels | Group | Bosses | Quests |
 |---|---|---|---|---|
 | [Lower Blackrock Spire](/guides/dungeons/lower-blackrock-spire/) | 55-60 | 5 players | 9 | 12 |
-| [Upper Blackrock Spire](/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 players in Classic | 6 | 12 |
+| [Upper Blackrock Spire](/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 players | 6 | 12 |
 
 ## Getting there
 
@@ -44,4 +44,4 @@ Loot, quests and the route are in the guide to [Upper Blackrock Spire](/guides/d
 
 ## What is not known yet
 
-These pages follow Blackrock Spire as it was in Classic, with the boss levels from the Forever data. Whether Upper Blackrock Spire stays a dungeon for 10 players, and what else changes, Blizzard has not said. All dungeons are in the [dungeon overview](/guides/dungeons/).
+These pages follow Blackrock Spire as it was in Classic, with the boss levels from the Forever data. Upper Blackrock Spire stays a dungeon for 10 players; what else changes, Blizzard has not said. All dungeons are in the [dungeon overview](/guides/dungeons/).

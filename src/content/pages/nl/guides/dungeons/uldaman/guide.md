@@ -15,7 +15,7 @@ dungeon:
 ---
 ## De weg erheen
 
-De hoofdingang ligt aan de noordrand van de Badlands, bij de weg naar Loch Modan, op /way 35.2 10.7. De opgravingstunnels voor het portaal zitten vol elite troggs, dus ga als groep naar binnen. Een achterdeur ligt in een andere troggrot in Dustwind Gulch, ten zuidoosten van de hoofdingang.
+De hoofdingang ligt aan de noordrand van de Badlands, bij de weg naar Loch Modan, op /way 42.6 10.8. De opgravingstunnels voor het portaal zitten vol elite troggs, dus ga als groep naar binnen. Een achterdeur ligt in een andere troggrot in Dustwind Gulch, ten zuidoosten van de hoofdingang.
 
 ## De route
 

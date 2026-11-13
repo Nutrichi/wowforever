@@ -3,12 +3,12 @@ title: "Dire Maul North"
 metaTitle: "Dire Maul North dans WoW Forever : butin, boss et drops"
 description: "Le butin de Dire Maul North dans WoW Forever : les drops de Classic des gardes Gordok, de Captain Kromcrush, de Cho'Rush the Observer et de King Gordok, et le Tribute Run."
 short: "Dire Maul North"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Dire Maul North dans WoW Forever ?"
-    a: "Notre aperçu des donjons donne 56 à 60. Les boss sont niveau 59 à 62 dans les données de Forever."
+    a: "Niveaux 58 à 60. Vous pouvez y entrer dès le niveau 48. Les boss sont niveau 59 à 62 dans les données de Forever."
   - q: "Comment entrer dans Dire Maul North ?"
     a: "Par la porte du mur nord de la cour centrale de Dire Maul, avec la Crescent Key de Dire Maul East."
   - q: "Qu’est-ce qu’un Tribute Run ?"

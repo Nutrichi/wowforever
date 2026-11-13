@@ -3,12 +3,12 @@ title: "Shadowfang Keep"
 metaTitle: "Shadowfang Keep dans WoW Forever : butin, boss et objets"
 description: "Tout le butin de Shadowfang Keep dans WoW Forever : les objets des huit boss de Rethilgore à Archmage Arugal, les Fel Steed Saddlebags, le butin du trash et les récompenses des quêtes."
 short: "Shadowfang Keep"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Shadowfang Keep dans WoW Forever ?"
-    a: "Le jeu indique 20 à 30. Les boss sont de niveau 20 à 26."
+    a: "Niveaux 22 à 30. Vous pouvez y entrer dès le niveau 14. Les boss sont de niveau 20 à 26."
   - q: "Où se trouve l’entrée de Shadowfang Keep ?"
     a: "Dans Silverpine Forest, dans les montagnes juste au nord de Pyrewood Village, en /way 44.5 68.0."
   - q: "Shadowfang Keep a-t-il des quêtes pour l’Alliance ?"

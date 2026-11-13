@@ -3,14 +3,14 @@ title: "Uldaman"
 metaTitle: "Uldaman dans WoW Forever : butin, boss et objets"
 description: "Tout le butin connu d’Uldaman dans WoW Forever : les objets de Revelosh, Ironaya, l’Ancient Stone Keeper et Grimlok, et les objets bleus des troggs et des nains Dark Iron."
 short: "Uldaman"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Uldaman dans WoW Forever ?"
-    a: "Le jeu indique 41 à 51. Les boss sont de niveau 40 à 47."
+    a: "Niveaux 42 à 52. Vous pouvez y entrer dès le niveau 30. Les boss sont de niveau 40 à 47."
   - q: "Où se trouve l’entrée d’Uldaman ?"
-    a: "Au bord nord des Badlands, en /way 35.2 10.7, à travers des tunnels de fouilles pleins de troggs élites. Une porte arrière se trouve dans Dustwind Gulch, au sud-est de l’entrée principale."
+    a: "Au bord nord des Badlands, en /way 42.6 10.8, à travers des tunnels de fouilles pleins de troggs élites. Une porte arrière se trouve dans Dustwind Gulch, au sud-est de l’entrée principale."
   - q: "Combien de boss compte Uldaman ?"
     a: "Huit : Revelosh, les Lost Dwarves, Ironaya, l’Obsidian Sentinel, l’Ancient Stone Keeper, Galgann Firehammer, Grimlok et Archaedas."
   - q: "Uldaman a-t-il des quêtes dans WoW Forever ?"

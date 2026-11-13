@@ -3,12 +3,12 @@ title: "Lower Blackrock Spire"
 metaTitle: "Lower Blackrock Spire in WoW Forever: loot, bazen en drops"
 description: "De loot van Lower Blackrock Spire in WoW Forever: de drops uit Classic van alle negen bazen van Highlord Omokk tot Overlord Wyrmthalak, en de twee items in de data van Forever."
 short: "Lower Blackrock Spire"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Lower Blackrock Spire in WoW Forever?"
-    a: "Ons dungeonoverzicht geeft 55 tot 60. De bazen zijn level 58 tot 60 in de data van Forever."
+    a: "Levels 55 tot 60. Je kunt erin vanaf level 48. De bazen zijn level 58 tot 60 in de data van Forever."
   - q: "Waar is de ingang van Lower Blackrock Spire?"
     a: "Hoog in Blackrock Mountain, tussen de Searing Gorge en de Burning Steppes. Neem de deur naast de meeting stone van Blackrock Spire en volg het pad naar boven tot het portaal."
   - q: "Hoe roep je Urok Doomhowl op?"

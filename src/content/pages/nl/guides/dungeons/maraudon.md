@@ -3,12 +3,12 @@ title: "Maraudon"
 metaTitle: "Maraudon in WoW Forever: loot, bazen en drops"
 description: "De loot van Maraudon in WoW Forever: de drops van alle acht de bazen, van Noxxion tot Princess Theradras, nagekeken in de data van Forever, en wat er nog ontbreekt."
 short: "Maraudon"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Maraudon in WoW Forever?"
-    a: "Ons dungeonoverzicht geeft 41 tot 50. De bazen zijn level 47 tot 51 in de data van Forever."
+    a: "Levels 45 tot 57, per vleugel: Wicked Grotto (paars) en Foulspore Cavern (oranje) 45 tot 53, Earth Song Falls (binnen) 48 tot 57. Je kunt erin vanaf level 30."
   - q: "Waar is de ingang van Maraudon?"
     a: "In de Valley of Spears in het westen van Desolace. Een stenen deur aan de westkant van de vallei leidt naar grotten vol elites, en van daar naar het oranje en het paarse portaal."
   - q: "Wat doet de Scepter of Celebras?"

@@ -1,6 +1,6 @@
 {
  "location": "Western Plaguelands, on Caer Darrow",
- "entrance": "The crypt on the island of Caer Darrow in the southeast of the Western Plaguelands. The door needs the Skeleton Key.",
+ "entrance": "The crypt on the island of Caer Darrow in the southeast of the Western Plaguelands. The door needs the Skeleton Key. The entrance is at /way 69.8 76.0.",
  "quests": {
   "5343": {
    "objective": "Collect the four deeds in Scholomance: Southshore, Tarren Mill, Brill and Caer Darrow.",

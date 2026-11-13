@@ -15,7 +15,7 @@ dungeon:
 ---
 ## Come arrivarci
 
-L’ingresso principale è al margine nord delle Badlands, vicino alla strada per Loch Modan, a /way 35.2 10.7. Le gallerie di scavo davanti al portale sono piene di troggs élite, quindi entrate in gruppo. Una porta sul retro si trova in un’altra grotta di troggs a Dustwind Gulch, a sud-est dell’ingresso principale.
+L’ingresso principale è al margine nord delle Badlands, vicino alla strada per Loch Modan, a /way 42.6 10.8. Le gallerie di scavo davanti al portale sono piene di troggs élite, quindi entrate in gruppo. Una porta sul retro si trova in un’altra grotta di troggs a Dustwind Gulch, a sud-est dell’ingresso principale.
 
 ## Il percorso
 

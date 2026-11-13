@@ -3,11 +3,11 @@ title: "Stratholme Undead"
 metaTitle: "Stratholme Undead in WoW Forever: loot, bazen en drops"
 description: "De loot van de undead kant van Stratholme in WoW Forever: wat er in de data van Forever staat, Deathcharger's Reins, en de drops uit Classic van elke baas tot Baron Rivendare."
 short: "Stratholme Undead"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 faq:
   - q: "Welk level is Stratholme Undead in WoW Forever?"
-    a: "Level 58 tot 60. De bazen zijn level 58 tot 62 in de data van Forever."
+    a: "Levels 58 tot 60. Je kunt erin vanaf level 48. De bazen zijn level 58 tot 62 in de data van Forever."
   - q: "Waar is de ingang van Stratholme Undead?"
     a: "Via de Eastwall Gate, een stukje ten oosten van de hoofdpoort in het noordwesten van de Eastern Plaguelands. Ze vraagt de Key to the City, die Magistrate Barthilas laat vallen."
   - q: "Laat Baron Rivendare Deathcharger's Reins vallen in WoW Forever?"

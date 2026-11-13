@@ -3,12 +3,12 @@ title: "Blackrock Depths"
 metaTitle: "Blackrock Depths in WoW Forever: loot, bazen en drops"
 description: "De loot van Blackrock Depths in WoW Forever: de 29 items uit het journal van Classic die in de data van Forever staan, en de drops van alle negentien gevechten die er nog niet in staan."
 short: "Blackrock Depths"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Blackrock Depths in WoW Forever?"
-    a: "Ons dungeonoverzicht geeft 50 tot 60. De bazen zijn level 51 tot 59 in de data van Forever."
+    a: "Levels 52 tot 60. Je kunt erin vanaf level 48. De bazen zijn level 51 tot 59 in de data van Forever."
   - q: "Waar is de ingang van Blackrock Depths?"
     a: "Diep in Blackrock Mountain, tussen de Searing Gorge en de Burning Steppes. Klim langs de grote kettingen naar beneden en ga door de Grinding Quarry naar de Masonry; het portaal staat in de verste hoek."
   - q: "Hoe krijg je de Shadowforge Key?"

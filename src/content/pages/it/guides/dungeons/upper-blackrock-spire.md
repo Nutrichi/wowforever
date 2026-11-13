@@ -3,12 +3,12 @@ title: "Upper Blackrock Spire"
 metaTitle: "Upper Blackrock Spire in WoW Forever: bottino, boss e drop"
 description: "Il bottino di Upper Blackrock Spire in WoW Forever: i drop di Pyroguard Emberseer, Solakar Flamewreath, Rend Blackhand, The Beast e General Drakkisath, e cosa contengono i dati di Forever."
 short: "Upper Blackrock Spire"
-updated: 2026-10-28
+updated: 2026-11-13
 lang: it
 manual: true
 faq:
   - q: "Di che livello è Upper Blackrock Spire in WoW Forever?"
-    a: "La nostra panoramica dei dungeon dà da 58 a 60. In Classic era un dungeon per 10 giocatori; se Forever mantiene questa dimensione, Blizzard non l’ha detto."
+    a: "Livelli da 58 a 60, e puoi entrare dal livello 48. È un dungeon per 10 giocatori, e almeno uno di loro deve avere il Seal of Ascension."
   - q: "Come si entra in Upper Blackrock Spire?"
     a: "Dal portale di Blackrock Spire in Blackrock Mountain. Dentro, un giocatore usa il Seal of Ascension sulla porta a sinistra dell’ingresso."
   - q: "Dove si ottiene il Seal of Ascension?"

@@ -3,12 +3,12 @@ title: "Razorfen Kraul"
 metaTitle: "Razorfen Kraul dans WoW Forever : butin, boss et objets"
 description: "Tout le butin de Razorfen Kraul dans WoW Forever : les objets de Roogug, Aggem Thorncurse, Death Speaker Jargba, Ramtusk, Agathelos et Charlga Razorflank, le butin des rares et les récompenses des quêtes."
 short: "Razorfen Kraul"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Razorfen Kraul dans WoW Forever ?"
-    a: "Le jeu indique 29 à 38. Les boss sont de niveau 28 à 33."
+    a: "Niveaux 30 à 40. Vous pouvez y entrer dès le niveau 25. Les boss sont de niveau 28 à 33."
   - q: "Où se trouve l’entrée de Razorfen Kraul ?"
     a: "Dans les ronces à la pointe sud de The Barrens, juste avant le Great Lift vers Thousand Needles, en /way 42.3 89.9. Tournez vers l’ouest avant l’ascenseur."
   - q: "Le butin de Razorfen Kraul a-t-il changé dans WoW Forever ?"

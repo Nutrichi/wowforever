@@ -1,6 +1,7 @@
 {
  "location": "Blackrock Mountain, tussen de Searing Gorge en de Burning Steppes",
- "entrance": "Via het portaal van Blackrock Spire, hoog in Blackrock Mountain. Binnen opent de Seal of Ascension de deur links van de ingang.",
+ "group": 10,
+ "entrance": "Via het portaal van Blackrock Spire, hoog in Blackrock Mountain. Binnen opent de Seal of Ascension de deur links van de ingang. Blackrock Mountain ligt op /way 35.2 84.2 in de Searing Gorge.",
  "quests": {
   "4768": {"objective": "Breng de Darkstone Tablet terug. Hij ligt in Upper Blackrock Spire.", "note": "In de Undercity is er een optionele voorquest die je naar Vivian Lagrave stuurt."},
   "4974": {"objective": "Dood Warchief Rend Blackhand en breng zijn hoofd naar Thrall.", "note": "Doe eerst Warlord's Command in Lower Blackrock Spire en Eitrigg's Wisdom."},

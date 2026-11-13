@@ -1,6 +1,6 @@
 {
  "location": "Swamp of Sorrows, in het meer in het midden",
- "entrance": "Zwem naar de tempel in het meer, ga naar beneden tot de Hall of Bones en door de brede deuropening naar het portaal.",
+ "entrance": "Zwem naar de tempel in het meer, ga naar beneden tot de Hall of Bones en door de brede deuropening naar het portaal. De ingang ligt op /way 69.6 53.2.",
  "quests": {
   "1445": {"objective": "Verzamel 20 Fetishes of Hakkar bij de trollen in de tempel.", "note": "Eerst komen drie quests."},
   "4146": {"objective": "Verzamel 5 stalen Atal'ai Haze met de Unloaded Zapper en breng ze naar Larion in Marshal's Refuge.", "note": "De haze komt van de Deep Lurkers, Murk Worms en oozes in de tempel. Eerst komen twee quests."},

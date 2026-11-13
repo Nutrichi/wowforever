@@ -1,6 +1,6 @@
 {
  "location": "Feralas, al centro",
- "entrance": "Dalle due porte nel muro ovest del cortile centrale di Dire Maul. Un giocatore ha bisogno della Crescent Key di Dire Maul East.",
+ "entrance": "Dalle due porte nel muro ovest del cortile centrale di Dire Maul. Un giocatore ha bisogno della Crescent Key di Dire Maul East. Dire Maul si trova a /way 58.9 41.5.",
  "quests": {
   "7482": {"objective": "Cerca Kariel Winthalus in Dire Maul. Clicca sui suoi Skeletal Remains accanto a Lorekeeper Lydros nell’Athenaeum e scegli di piangerlo.", "note": "Scholar Runethorn passeggia sulla strada di Feathermoon Stronghold, quindi cercala un po’. La nave per Feathermoon parte dalla Forgotten Coast, sulla costa ovest di Feralas."},
   "7481": {"objective": "Cerca Kariel Winthalus in Dire Maul. Clicca sui suoi Skeletal Remains accanto a Lorekeeper Lydros nell’Athenaeum e scegli di piangerlo.", "note": "Sage Korolusk passeggia sulla strada di Camp Mojache, quindi cercalo un po’."},

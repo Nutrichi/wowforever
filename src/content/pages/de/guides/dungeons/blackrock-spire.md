@@ -3,11 +3,11 @@ title: "Blackrock Spire"
 metaTitle: "Blackrock Spire in WoW Forever: beide Flügel, Eingang und Bosse"
 description: "Blackrock Spire in WoW Forever: So erreicht ihr das Portal in Blackrock Mountain, so unterscheiden sich Lower und Upper Blackrock Spire, und das sind die Bosse beider Flügel."
 short: "Blackrock Spire"
-updated: 2026-10-29
+updated: 2026-11-13
 lang: de
 faq:
   - q: "Ist Blackrock Spire ein Dungeon oder zwei?"
-    a: "Eine Instanz mit zwei Flügeln, die als eigene Dungeons zählen: Lower Blackrock Spire für 5 Spieler und Upper Blackrock Spire, das in Classic für 10 Spieler war."
+    a: "Eine Instanz mit zwei Flügeln, die als eigene Dungeons zählen: Lower Blackrock Spire für 5 Spieler und Upper Blackrock Spire für 10 Spieler."
   - q: "Wie kommt man in Upper Blackrock Spire?"
     a: "Mit dem Seal of Ascension. In Lower Blackrock Spire öffnet ein Spieler, der es dabeihat, die Tür links vom Eingang."
   - q: "Wo ist der Eingang von Blackrock Spire?"
@@ -22,7 +22,7 @@ Blackrock Spire ist die Festung der Dark Horde in Blackrock Mountain. Es ist ein
 | Flügel | Stufen | Gruppe | Bosse | Quests |
 |---|---|---|---|---|
 | [Lower Blackrock Spire](/de/guides/dungeons/lower-blackrock-spire/) | 55-60 | 5 Spieler | 9 | 12 |
-| [Upper Blackrock Spire](/de/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 Spieler in Classic | 6 | 12 |
+| [Upper Blackrock Spire](/de/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 Spieler | 6 | 12 |
 
 ## Der Weg dorthin
 
@@ -45,4 +45,4 @@ Beute, Quests und Route stehen im Guide zu [Upper Blackrock Spire](/de/guides/du
 
 ## Was noch nicht bekannt ist
 
-Diese Seiten folgen Blackrock Spire, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Ob Upper Blackrock Spire ein Dungeon für 10 Spieler bleibt und was sich sonst ändert, hat Blizzard nicht gesagt. Alle Dungeons stehen in der [Dungeon-Übersicht](/de/guides/dungeons/).
+Diese Seiten folgen Blackrock Spire, wie er in Classic war, mit den Leveln der Bosse aus den Daten von Forever. Upper Blackrock Spire bleibt ein Dungeon für 10 Spieler; was sich sonst ändert, hat Blizzard nicht gesagt. Alle Dungeons stehen in der [Dungeon-Übersicht](/de/guides/dungeons/).

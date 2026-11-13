@@ -3,11 +3,11 @@ title: "Blackrock Spire"
 metaTitle: "Blackrock Spire dans WoW Forever : les deux ailes, entrée et boss"
 description: "Blackrock Spire dans WoW Forever : comment rejoindre le portail dans Blackrock Mountain, ce qui distingue Lower et Upper Blackrock Spire, et les boss des deux ailes."
 short: "Blackrock Spire"
-updated: 2026-10-29
+updated: 2026-11-13
 lang: fr
 faq:
   - q: "Blackrock Spire, un donjon ou deux ?"
-    a: "Une seule instance avec deux ailes qui comptent comme des donjons séparés : Lower Blackrock Spire pour 5 joueurs et Upper Blackrock Spire, prévu pour 10 joueurs dans Classic."
+    a: "Une seule instance avec deux ailes qui comptent comme des donjons séparés : Lower Blackrock Spire pour 5 joueurs et Upper Blackrock Spire pour 10 joueurs."
   - q: "Comment entrer dans Upper Blackrock Spire ?"
     a: "Avec le Seal of Ascension. Dans Lower Blackrock Spire, un joueur qui l'a sur lui ouvre la porte à gauche de l'entrée."
   - q: "Où se trouve l'entrée de Blackrock Spire ?"
@@ -22,7 +22,7 @@ Blackrock Spire est le bastion de la Dark Horde dans Blackrock Mountain. C'est u
 | Aile | Niveaux | Groupe | Boss | Quêtes |
 |---|---|---|---|---|
 | [Lower Blackrock Spire](/fr/guides/dungeons/lower-blackrock-spire/) | 55-60 | 5 joueurs | 9 | 12 |
-| [Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 joueurs dans Classic | 6 | 12 |
+| [Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 joueurs | 6 | 12 |
 
 ## Comment y aller
 
@@ -45,4 +45,4 @@ Butin, quêtes et parcours sont dans le guide d'[Upper Blackrock Spire](/fr/guid
 
 ## Ce qu'on ne sait pas encore
 
-Ces pages suivent Blackrock Spire tel qu'il était dans Classic, avec les niveaux des boss tirés des données de Forever. Blizzard n'a pas dit si Upper Blackrock Spire reste un donjon pour 10 joueurs, ni ce qui change encore. Tous les donjons sont dans l'[aperçu des donjons](/fr/guides/dungeons/).
+Ces pages suivent Blackrock Spire tel qu'il était dans Classic, avec les niveaux des boss tirés des données de Forever. Upper Blackrock Spire reste un donjon pour 10 joueurs ; ce qui change encore, Blizzard ne l'a pas dit. Tous les donjons sont dans l'[aperçu des donjons](/fr/guides/dungeons/).

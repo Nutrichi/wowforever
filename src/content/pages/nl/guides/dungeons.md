@@ -3,7 +3,7 @@ title: "Dungeongids: elke dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: elke dungeon, level en questgever"
 description: "Elke dungeon van WoW Forever met zijn levels en al zijn quests: waar elke quest begint, voor welke factie, wat eerst moet, en de sleutels die sommige dungeons vragen."
 short: "Dungeons"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
@@ -13,6 +13,8 @@ faq:
     a: "Ragefire Chasm voor de Horde, met quests vanaf level 9, en The Hall of Thanes voor de Alliance, voor level 13 tot 18. De Ruins of Lordaeron, voor 15 tot 20, is de eerste nieuwe dungeon in gebied van de Horde."
   - q: "Geven dungeonquests nog veel experience?"
     a: "Ja, meer dan vroeger. Blizzard verlaagde de experience van monsters in dungeons en verhoogde die van dungeonquests, dus een eerste run met al zijn quests levert het meest op. Die extra experience van dungeonquests werd later gehalveerd."
+  - q: "Kan ik een dungeon doen met meer dan vijf spelers?"
+    a: "In de meeste dungeons mag een raidgroep tot 10 spelers binnen. Blackrock Depths, Stratholme en Scholomance blijven op 5, en Upper Blackrock Spire is gemaakt voor 10. Dungeonquests kun je niet afronden in een raidgroep, dus blijf op 5 als je de quests wilt."
 sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location"
@@ -26,27 +28,27 @@ Voor de dungeons boven level 30 komen de quests uit de gegevens van Classic en k
 - **[Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/)**, level 13-18: de weg naar binnen via Orgrimmar, alle zes de quests van de Horde met hun beloningen en de nieuwe loot van Taragaman en Jergosh.
 - **[The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/)**, level 13-18: de weg erheen, alle vijf de quests met de reeks in Dun Morogh, de vier bazen en hun loot.
 - **[Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/)**, level 15-20: de weg erheen voor beide facties, alle tien de quests, de zes bazen en hun loot.
-- **[Wailing Caverns](/nl/guides/dungeons/wailing-caverns/)**, level 15-24: alle zeven de quests met hun beloningen, de Lords of the Fang, het event van Naralex en de nieuwe bonussen van Embrace of the Viper.
-- **[The Deadmines](/nl/guides/dungeons/the-deadmines/)**, level 17-26: de weg naar binnen via Moonbrook, alle zeven de quests met hun beloningen en de nieuwe loot van elke baas.
-- **[Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/)**, level 20-30: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas.
+- **[Wailing Caverns](/nl/guides/dungeons/wailing-caverns/)**, level 15-25: alle zeven de quests met hun beloningen, de Lords of the Fang, het event van Naralex en de nieuwe bonussen van Embrace of the Viper.
+- **[The Deadmines](/nl/guides/dungeons/the-deadmines/)**, level 18-23: de weg naar binnen via Moonbrook, alle zeven de quests met hun beloningen en de nieuwe loot van elke baas.
+- **[Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/)**, level 22-30: de weg naar binnen boven Pyrewood Village, de drie quests van de Horde en de nieuwe loot van elke baas.
 - **[Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/)**, level 24-32: de weg naar binnen aan de Zoram Strand, de quests van beide facties en de nieuwe loot van elke baas.
 - **[Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/)**, level 24-29, nieuw in Forever: de quests voor beide facties, het hoge gras en de drie bazen met hun loot.
-- **[The Stockade](/nl/guides/dungeons/the-stockade/)**, level 24-32: de indeling van de gevangenis, alle zes de quests en de nieuwe blauwe loot van elke baas.
+- **[The Stockade](/nl/guides/dungeons/the-stockade/)**, level 22-30: de indeling van de gevangenis, alle zes de quests en de nieuwe blauwe loot van elke baas.
 - **[City of Dalaran](/nl/guides/dungeons/city-of-dalaran/)**, level 28-33, nieuw in Forever: beide ingangen, de arcane trash en de zeven bazen.
-- **[Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/)**, level 29-38: alle zeven de quests met hun beloningen, de casters van de quilboar en de nieuwe loot van elke baas.
+- **[Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/)**, level 30-40: alle zeven de quests met hun beloningen, de casters van de quilboar en de nieuwe loot van elke baas.
 - **[Gnomeregan](/nl/guides/dungeons/gnomeregan/)**, level 29-38: beide deuren, de teleport voor de Horde, alle dertien de quests en de nieuwe loot van elke baas.
-- **Scarlet Monastery**, level 30-46, in vier vleugels, elk met eigen loot, quests en gids: [Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/), [Library](/nl/guides/dungeons/scarlet-monastery-library/), [Armory](/nl/guides/dungeons/scarlet-monastery-armory/) en [Cathedral](/nl/guides/dungeons/scarlet-monastery-cathedral/).
-- **[Razorfen Downs](/nl/guides/dungeons/razorfen-downs/)**, level 37-46: alle zes de quests met hun beloningen, het gong-event en de nieuwe loot van elke baas.
-- **[Uldaman](/nl/guides/dungeons/uldaman/)**, level 41-51: de weg erheen vanuit de Badlands, de acht bazen tot Archaedas en de loot die tot nu toe bekend is.
-- **[Zul'Farrak](/nl/guides/dungeons/zul-farrak/)**, level 40-50: de weg erheen door Tanaris, alle acht de quests, het trappenevent, de Mallet voor Gahz'rilla en de loot in de data van Forever.
-- **[Maraudon](/nl/guides/dungeons/maraudon/)**, level 41-50: de drie portalen in Desolace, alle elf de quests, de Scepter of Celebras en de acht bazen tot Princess Theradras.
-- **[Sunken Temple](/nl/guides/dungeons/sunken-temple/)**, level 46-54: de weg erin door de Swamp of Sorrows, Atal'alarion en de heiligdommen, alle negen de quests, de trollenwachters en de Avatar of Hakkar.
-- **[Blackrock Depths](/nl/guides/dungeons/blackrock-depths/)**, level 50-60: de weg naar beneden in Blackrock Mountain, de sleutels, alle tweeëntwintig quests, de Ring of Law, de Grim Guzzler en elke baas tot de keizer.
-- **[Dire Maul East](/nl/guides/dungeons/dire-maul-east/)**, level 54-60: de drie ingangen in Feralas, de achtervolging van Pusillin voor de Crescent Key, alle vijf de quests en de vier bazen tot Alzzin.
+- **Scarlet Monastery**, level 28-45, in vier vleugels, elk met eigen loot, quests en gids: [Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/), [Library](/nl/guides/dungeons/scarlet-monastery-library/), [Armory](/nl/guides/dungeons/scarlet-monastery-armory/) en [Cathedral](/nl/guides/dungeons/scarlet-monastery-cathedral/).
+- **[Razorfen Downs](/nl/guides/dungeons/razorfen-downs/)**, level 40-50: alle zes de quests met hun beloningen, het gong-event en de nieuwe loot van elke baas.
+- **[Uldaman](/nl/guides/dungeons/uldaman/)**, level 42-52: de weg erheen vanuit de Badlands, de acht bazen tot Archaedas en de loot die tot nu toe bekend is.
+- **[Zul'Farrak](/nl/guides/dungeons/zul-farrak/)**, level 44-54: de weg erheen door Tanaris, alle acht de quests, het trappenevent, de Mallet voor Gahz'rilla en de loot in de data van Forever.
+- **[Maraudon](/nl/guides/dungeons/maraudon/)**, level 45-57: de drie portalen in Desolace, alle elf de quests, de Scepter of Celebras en de acht bazen tot Princess Theradras.
+- **[Sunken Temple](/nl/guides/dungeons/sunken-temple/)**, level 50-60: de weg erin door de Swamp of Sorrows, Atal'alarion en de heiligdommen, alle negen de quests, de trollenwachters en de Avatar of Hakkar.
+- **[Blackrock Depths](/nl/guides/dungeons/blackrock-depths/)**, level 52-60: de weg naar beneden in Blackrock Mountain, de sleutels, alle tweeëntwintig quests, de Ring of Law, de Grim Guzzler en elke baas tot de keizer.
+- **[Dire Maul East](/nl/guides/dungeons/dire-maul-east/)**, level 58-60: de drie ingangen in Feralas, de achtervolging van Pusillin voor de Crescent Key, alle vijf de quests en de vier bazen tot Alzzin.
 - **[Blackrock Spire](/nl/guides/dungeons/blackrock-spire/)**, level 55-60: beide vleugels in één overzicht, met de ingang in Blackrock Mountain, de weg langs de ketting en de bazen van Lower en Upper.
 - **[Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/)**, level 55-60: de weg naar boven in Blackrock Mountain, alle twaalf de quests, het event van Urok Doomhowl en de negen bazen tot Overlord Wyrmthalak.
-- **[Dire Maul West](/nl/guides/dungeons/dire-maul-west/)**, level 56-60: de Crescent Key, de vijf pylonen, alle vier de quests en de vijf bazen tot Prince Tortheldrin in het Athenaeum.
-- **[Dire Maul North](/nl/guides/dungeons/dire-maul-north/)**, level 56-60: de sleutels en deuren, de Tribute Run met het Ogre Suit, de buff King of the Gordok, alle vijf de quests en de zeven ogres tot King Gordok.
+- **[Dire Maul West](/nl/guides/dungeons/dire-maul-west/)**, level 58-60: de Crescent Key, de vijf pylonen, alle vier de quests en de vijf bazen tot Prince Tortheldrin in het Athenaeum.
+- **[Dire Maul North](/nl/guides/dungeons/dire-maul-north/)**, level 58-60: de sleutels en deuren, de Tribute Run met het Ogre Suit, de buff King of the Gordok, alle vijf de quests en de zeven ogres tot King Gordok.
 - **[Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/)**, level 58-60: de weg naar boven in Blackrock Mountain, de Seal of Ascension, alle twaalf de quests en de bazen van Emberseer tot General Drakkisath.
 - **[Scholomance](/nl/guides/dungeons/scholomance/)**, level 58-60: de Skeleton Key, de reeks van Eva Sarkhoff, alle tien de quests en elke baas tot Darkmaster Gandling.
 - **[Stratholme Living](/nl/guides/dungeons/stratholme-living/)**, level 58-60: de hoofdpoort, The Scarlet Key, de zes postbussen, alle zes de quests en elke baas tot Balnazzar.
@@ -59,45 +61,45 @@ Voor de dungeons boven level 30 komen de quests uit de gegevens van Classic en k
 
 ## Elke dungeon op level
 
-Voor de dungeons met een gids is het bereik dat van het spel zelf. Voor de andere loopt het van het level waarop een groep de dungeon aankan tot het level waarop hij makkelijk wordt; voor de nieuwe is het het bereik dat Blizzard op 14 september 2026 publiceerde.
+Het bereik is de levelband waarin een groep de dungeon meestal doet. Vaak kun je er eerder in: het minimumlevel staat in de FAQ van elke gids.
 
 | Dungeon | Levels | Quests |
 |---|---|---|
-| [Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/) | 13-18 | 5 |
 | [The Hall of Thanes](/nl/guides/dungeons/hall-of-thanes/) | 13-18 | 5 |
+| [Ragefire Chasm](/nl/guides/dungeons/ragefire-chasm/) | 13-18 | 5 |
 | [Ruins of Lordaeron](/nl/guides/dungeons/ruins-of-lordaeron/) | 15-20 | 10 |
-| [Wailing Caverns](/nl/guides/dungeons/wailing-caverns/) | 15-24 | 7 |
-| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | 17-26 | 8 |
-| [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | 20-30 | 5 |
-| [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
+| [Wailing Caverns](/nl/guides/dungeons/wailing-caverns/) | 15-25 | 7 |
+| [The Deadmines](/nl/guides/dungeons/the-deadmines/) | 18-23 | 8 |
+| [Shadowfang Keep](/nl/guides/dungeons/shadowfang-keep/) | 22-30 | 5 |
+| [The Stockade](/nl/guides/dungeons/the-stockade/) | 22-30 | 6 |
 | [Excavation Site: Wetlands](/nl/guides/dungeons/excavation-site-wetlands/) | 24-29 | nog niet bekend |
-| [The Stockade](/nl/guides/dungeons/the-stockade/) | 24-32 | 6 |
+| [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
 | [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 | nog niet bekend |
-| [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | 29-38 | 7 |
+| [Scarlet Monastery: Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/) | 28-38 | 2 |
 | [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | 29-38 | 13 |
+| [Scarlet Monastery: Library](/nl/guides/dungeons/scarlet-monastery-library/) | 29-39 | 8 |
+| [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | 30-40 | 7 |
+| [Scarlet Monastery: Armory](/nl/guides/dungeons/scarlet-monastery-armory/) | 32-42 | 3 |
 | [The Drowned City](/nl/guides/dungeons/the-drowned-city/) | 35-40 | 8 |
-| [Scarlet Monastery: Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/) | 30-38 | 2 |
-| [Scarlet Monastery: Library](/nl/guides/dungeons/scarlet-monastery-library/) | 33-41 | 8 |
-| [Scarlet Monastery: Armory](/nl/guides/dungeons/scarlet-monastery-armory/) | 36-44 | 3 |
-| [Scarlet Monastery: Cathedral](/nl/guides/dungeons/scarlet-monastery-cathedral/) | 38-46 | 3 |
-| [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | 37-46 | 6 |
+| [Scarlet Monastery: Cathedral](/nl/guides/dungeons/scarlet-monastery-cathedral/) | 35-45 | 3 |
 | [Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/) | 40-45 | nog niet bekend |
-| [Uldaman](/nl/guides/dungeons/uldaman/) | 41-51 | 14 |
-| [Zul'Farrak](/nl/guides/dungeons/zul-farrak/) | 40-50 | 8 |
-| [Maraudon](/nl/guides/dungeons/maraudon/) | 41-50 | 11 |
+| [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | 40-50 | 6 |
+| [Uldaman](/nl/guides/dungeons/uldaman/) | 42-52 | 14 |
+| [Zul'Farrak](/nl/guides/dungeons/zul-farrak/) | 44-54 | 8 |
+| [Maraudon](/nl/guides/dungeons/maraudon/) | 45-57 | 11 |
 | [Alcaz Prison](/nl/guides/dungeons/alcaz-prison/) | 48-53 | nog niet bekend |
-| [Sunken Temple](/nl/guides/dungeons/sunken-temple/) | 46-54 | 9 |
-| [Blackrock Depths](/nl/guides/dungeons/blackrock-depths/) | 50-60 | 24 |
-| [Dire Maul East](/nl/guides/dungeons/dire-maul-east/) | 54-60 | 5 |
-| [Dire Maul West](/nl/guides/dungeons/dire-maul-west/) | 56-60 | 2 |
-| [Dire Maul North](/nl/guides/dungeons/dire-maul-north/) | 56-60 | 6 |
+| [Sunken Temple](/nl/guides/dungeons/sunken-temple/) | 50-60 | 9 |
+| [Blackrock Depths](/nl/guides/dungeons/blackrock-depths/) | 52-60 | 24 |
 | [Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/) | 55-60 | nog niet bekend |
+| [Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/) | 55-60 | 12 |
 | [Shaper's Terrace](/nl/guides/dungeons/shapers-terrace/) | 58-60 | nog niet bekend |
-| [Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/) | 54-60 | 12 |
+| [Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/) | 58-60 | 12 |
+| [Dire Maul East](/nl/guides/dungeons/dire-maul-east/) | 58-60 | 5 |
+| [Dire Maul West](/nl/guides/dungeons/dire-maul-west/) | 58-60 | 2 |
+| [Dire Maul North](/nl/guides/dungeons/dire-maul-north/) | 58-60 | 6 |
 | [Scholomance](/nl/guides/dungeons/scholomance/) | 58-60 | 10 |
 | [Stratholme Living](/nl/guides/dungeons/stratholme-living/) | 58-60 | 6 |
 | [Stratholme Undead](/nl/guides/dungeons/stratholme-undead/) | 58-60 | 8 |
-| [Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/) | 54-60 | 12 |
 
 ## Zo lees je de tabellen
 

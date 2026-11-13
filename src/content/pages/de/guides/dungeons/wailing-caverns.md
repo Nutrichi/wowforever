@@ -3,12 +3,12 @@ title: "Wailing Caverns"
 metaTitle: "Wailing Caverns in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in Wailing Caverns in WoW Forever: die Drops der vier Lords of the Fang, von Kresh, Skum, Verdan und Mutanus, das Set Embrace of the Viper und die Belohnungen der Quests."
 short: "Wailing Caverns"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat Wailing Caverns in WoW Forever?"
-    a: "Blizzard nennt Stufe 15 bis 24. Die Bosse sind Stufe 20 bis 22."
+    a: "Stufe 15 bis 25. Betreten kannst du ihn ab Stufe 10. Die Bosse sind Stufe 20 bis 22."
   - q: "Wo ist der Eingang von Wailing Caverns?"
     a: "In einer Höhle in der Schlucht südlich der Lushwater Oasis in The Barrens, bei /way 46.0 36.3, südwestlich der Crossroads."
   - q: "Können beide Fraktionen die Quests von Wailing Caverns machen?"

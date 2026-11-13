@@ -3,12 +3,12 @@ title: "Zul'Farrak"
 metaTitle: "Zul'Farrak in WoW Forever: loot, bazen en drops"
 description: "De loot van Zul'Farrak in WoW Forever: de drops van Antu'sul, Zum'rah, Gahz'rilla, Nekrum en Sezz'ziz en Chief Ukorz Sandscalp, nagekeken in de data van Forever."
 short: "Zul'Farrak"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Zul'Farrak in WoW Forever?"
-    a: "Ons dungeonoverzicht geeft 40 tot 50. De bazen zijn level 45 tot 48 in de data van Forever."
+    a: "Levels 44 tot 54. Je kunt erin vanaf level 39. De bazen zijn level 45 tot 48 in de data van Forever."
   - q: "Waar is de ingang van Zul'Farrak?"
     a: "In de noordwesthoek van Tanaris, op /way 39 20, ten noordwesten van Gadgetzan."
   - q: "Hoe roep je Gahz'rilla op?"

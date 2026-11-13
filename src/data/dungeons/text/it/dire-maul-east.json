@@ -1,6 +1,6 @@
 {
  "location": "Feralas, al centro",
- "entrance": "Dal cortile centrale di Dire Maul al centro di Feralas: una porta nel muro est, una porta da Eldreth Row, o la porta posteriore al Lariss Pavilion con la Crescent Key.",
+ "entrance": "Dal cortile centrale di Dire Maul al centro di Feralas: una porta nel muro est, una porta da Eldreth Row, o la porta posteriore al Lariss Pavilion con la Crescent Key. Dire Maul si trova a /way 58.9 41.5.",
  "quests": {
   "7488": {"objective": "Riporta Lethtendris's Web. Lo lascia Lethtendris.", "note": "Courier Hammerfall a Ironforge dà la missione introduttiva Feathermoon Stronghold. La nave per Feathermoon parte dalla Forgotten Coast, sulla costa ovest di Feralas."},
   "7489": {"objective": "Riporta Lethtendris's Web. Lo lascia Lethtendris.", "note": "Warcaller Gorlach a Orgrimmar dà la missione introduttiva Camp Mojache."},

@@ -1,6 +1,6 @@
 {
  "location": "Feralas, in het midden",
- "entrance": "Via de twee deuren in de westmuur van de centrale binnenplaats van Dire Maul. Eén speler heeft de Crescent Key uit Dire Maul East nodig.",
+ "entrance": "Via de twee deuren in de westmuur van de centrale binnenplaats van Dire Maul. Eén speler heeft de Crescent Key uit Dire Maul East nodig. Dire Maul zelf ligt op /way 58.9 41.5.",
  "quests": {
   "7482": {"objective": "Zoek Kariel Winthalus in Dire Maul. Klik op zijn Skeletal Remains naast Lorekeeper Lydros in het Athenaeum en kies om hem te betreuren.", "note": "Scholar Runethorn loopt over de weg door Feathermoon Stronghold, dus kijk even rond. De boot naar Feathermoon vertrekt aan de Forgotten Coast, aan de westkust van Feralas."},
   "7481": {"objective": "Zoek Kariel Winthalus in Dire Maul. Klik op zijn Skeletal Remains naast Lorekeeper Lydros in het Athenaeum en kies om hem te betreuren.", "note": "Sage Korolusk loopt over de weg door Camp Mojache, dus kijk even rond."},

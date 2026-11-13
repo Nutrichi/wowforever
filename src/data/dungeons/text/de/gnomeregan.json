@@ -1,6 +1,6 @@
 {
  "location": "Dun Morogh, unter dem Train Depot",
- "entrance": "Das Haupttor im Train Depot im Westen von Dun Morogh, bei /way 17.7 39.2. Für die Hintertür auf der Nordseite brauchst du den Workshop Key oder einen Rogue mit Lockpicking 150.",
+ "entrance": "Das Haupttor im Train Depot im Westen von Dun Morogh, bei /way 30.5 36.3. Für die Hintertür auf der Nordseite brauchst du den Workshop Key oder einen Rogue mit Lockpicking 150.",
  "quests": {
   "2922": {
    "objective": "Töte Techbot und bring seinen Memory Core zu Tinkmaster Overspark.",

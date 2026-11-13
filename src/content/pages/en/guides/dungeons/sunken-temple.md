@@ -3,11 +3,11 @@ title: "Sunken Temple"
 metaTitle: "Sunken Temple in WoW Forever: loot, bosses and drops"
 description: "The loot of the Sunken Temple in WoW Forever: the drops of Jammal'an the Prophet, the Wardens of the Dream, the Shade of Eranikus and the Avatar of Hakkar, seven of them in the Forever data."
 short: "Sunken Temple"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is the Sunken Temple in WoW Forever?"
-    a: "Our dungeon overview gives 46 to 54. The bosses are level 50 to 55 in the Forever data."
+    a: "Levels 50 to 60. You can enter from level 45. The bosses are level 50 to 55 in the Forever data."
   - q: "Where is the entrance to the Sunken Temple?"
     a: "In the lake in the middle of the Swamp of Sorrows. Swim to the temple, go down to the Hall of Bones and through the wide doorway to the portal."
   - q: "How do you summon Atal'alarion?"

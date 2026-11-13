@@ -3,11 +3,11 @@ title: "Stratholme Living"
 metaTitle: "Stratholme Living in WoW Forever: loot, bosses and drops"
 description: "The loot of the Living side of Stratholme in WoW Forever: what the Forever data holds, and the Classic drops of every boss from Skul to Balnazzar."
 short: "Stratholme Living"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Stratholme Living in WoW Forever?"
-    a: "Level 58 to 60. The bosses are level 57 to 62 in the Forever data."
+    a: "Levels 58 to 60. You can enter from level 48. The bosses are level 57 to 62 in the Forever data."
   - q: "Where is the entrance to Stratholme Living?"
     a: "At the end of the stone bridge in the northwest of the Eastern Plaguelands. The main gate leads straight into the Living side."
   - q: "Which key do you need for Stratholme Living?"

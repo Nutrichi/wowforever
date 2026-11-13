@@ -3,11 +3,11 @@ title: "Blackrock Spire"
 metaTitle: "Blackrock Spire in WoW Forever: beide vleugels, ingang en bazen"
 description: "Blackrock Spire in WoW Forever: zo bereik je het portaal in Blackrock Mountain, zo verschillen Lower en Upper Blackrock Spire, en dit zijn de bazen van beide vleugels."
 short: "Blackrock Spire"
-updated: 2026-10-29
+updated: 2026-11-13
 lang: nl
 faq:
   - q: "Is Blackrock Spire één dungeon of twee?"
-    a: "Eén instance met twee vleugels die als aparte dungeons tellen: Lower Blackrock Spire voor 5 spelers en Upper Blackrock Spire, dat in Classic voor 10 spelers was."
+    a: "Eén instance met twee vleugels die als aparte dungeons tellen: Lower Blackrock Spire voor 5 spelers en Upper Blackrock Spire voor 10 spelers."
   - q: "Hoe kom je in Upper Blackrock Spire?"
     a: "Met de Seal of Ascension. In Lower Blackrock Spire opent één speler die hem bij zich heeft de deur links van de ingang."
   - q: "Waar ligt de ingang van Blackrock Spire?"
@@ -22,7 +22,7 @@ Blackrock Spire is het bolwerk van de Dark Horde in Blackrock Mountain. Het is �
 | Vleugel | Levels | Groep | Bazen | Quests |
 |---|---|---|---|---|
 | [Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/) | 55-60 | 5 spelers | 9 | 12 |
-| [Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 spelers in Classic | 6 | 12 |
+| [Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 spelers | 6 | 12 |
 
 ## De weg ernaartoe
 
@@ -45,4 +45,4 @@ Buit, quests en de route staan in de gids over [Upper Blackrock Spire](/nl/guide
 
 ## Wat nog niet bekend is
 
-Deze pagina's volgen Blackrock Spire zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Of Upper Blackrock Spire een dungeon voor 10 spelers blijft, en wat er nog verandert, heeft Blizzard niet gezegd. Alle dungeons staan in het [dungeonoverzicht](/nl/guides/dungeons/).
+Deze pagina's volgen Blackrock Spire zoals hij in Classic was, met de levels van de bazen uit de data van Forever. Upper Blackrock Spire blijft een dungeon voor 10 spelers; wat er nog verandert, heeft Blizzard niet gezegd. Alle dungeons staan in het [dungeonoverzicht](/nl/guides/dungeons/).

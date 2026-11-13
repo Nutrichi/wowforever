@@ -3,12 +3,12 @@ title: "Upper Blackrock Spire"
 metaTitle: "Upper Blackrock Spire in WoW Forever: loot, bazen en drops"
 description: "De loot van Upper Blackrock Spire in WoW Forever: de drops van Pyroguard Emberseer, Solakar Flamewreath, Rend Blackhand, The Beast en General Drakkisath, en wat de data van Forever bevat."
 short: "Upper Blackrock Spire"
-updated: 2026-10-28
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Upper Blackrock Spire in WoW Forever?"
-    a: "Ons dungeonoverzicht geeft 58 tot 60. In Classic was het een dungeon voor 10 spelers; of Forever die grootte houdt, heeft Blizzard niet gezegd."
+    a: "Levels 58 tot 60, en je kunt erin vanaf level 48. Het is een dungeon voor 10 spelers, en minstens één van hen heeft het Seal of Ascension nodig."
   - q: "Hoe kom je in Upper Blackrock Spire?"
     a: "Via het portaal van Blackrock Spire in Blackrock Mountain. Binnen gebruikt één speler de Seal of Ascension op de deur links van de ingang."
   - q: "Waar haal je de Seal of Ascension?"

@@ -15,7 +15,7 @@ dungeon:
 ---
 ## L’accès
 
-L’entrée se trouve dans les canaux de Stormwind City, près du Mage Quarter, en /way 50.4 66.2. Warden Thelwater se tient juste devant et donne deux des quêtes. Pour la Horde, une prison au cœur de Stormwind est presque inaccessible à ce niveau.
+L’entrée se trouve dans les canaux de Stormwind City, près du Mage Quarter, en /way 41.0 57.0. Warden Thelwater se tient juste devant et donne deux des quêtes. Pour la Horde, une prison au cœur de Stormwind est presque inaccessible à ce niveau.
 
 ![Des gardes de Stormwind au-dessus de l’escalier qui descend vers le portail de The Stockade, une capture d’écran de la bêta de World of Warcraft: Forever](../../../../../../assets/posts/2026-10-03-wow-forever-stockade-entrance-portal.jpg)
 

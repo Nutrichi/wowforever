@@ -3,12 +3,12 @@ title: "Dire Maul West"
 metaTitle: "Dire Maul West in WoW Forever: Beute, Bosse und Drops"
 description: "Die Beute von Dire Maul West in WoW Forever: die Drops aus Classic von Tendris Warpwood, Illyanna Ravenoak, Magister Kalendris, Immol'thar und Prince Tortheldrin."
 short: "Dire Maul West"
-updated: 2026-10-28
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welches Level hat Dire Maul West in WoW Forever?"
-    a: "Unsere Dungeonübersicht nennt 56 bis 60. Die Bosse sind in den Daten von Forever Level 60 und 61."
+    a: "Stufe 58 bis 60. Betreten kannst du ihn ab Stufe 48. Die Bosse sind in den Daten von Forever Level 60 und 61."
   - q: "Wie kommt man in Dire Maul West?"
     a: "Durch die zwei Türen in der Westmauer des zentralen Hofs von Dire Maul. Ein Spieler der Gruppe braucht den Crescent Key, den Pusillin in Dire Maul East fallen lässt."
   - q: "Wie erreicht man Immol'thar?"

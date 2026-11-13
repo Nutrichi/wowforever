@@ -3,11 +3,11 @@ title: "Blackrock Spire"
 metaTitle: "Blackrock Spire en WoW Forever: las dos alas, entrada y jefes"
 description: "Blackrock Spire en WoW Forever: cómo llegar al portal en Blackrock Mountain, en qué se diferencian Lower y Upper Blackrock Spire y los jefes de las dos alas."
 short: "Blackrock Spire"
-updated: 2026-10-29
+updated: 2026-11-13
 lang: es
 faq:
   - q: "¿Blackrock Spire es una mazmorra o dos?"
-    a: "Una sola instancia con dos alas que cuentan como mazmorras separadas: Lower Blackrock Spire para 5 jugadores y Upper Blackrock Spire, que en Classic era para 10."
+    a: "Una sola instancia con dos alas que cuentan como mazmorras separadas: Lower Blackrock Spire para 5 jugadores y Upper Blackrock Spire para 10."
   - q: "¿Cómo se entra en Upper Blackrock Spire?"
     a: "Con el Seal of Ascension. Dentro de Lower Blackrock Spire, un jugador que lo lleve abre la puerta a la izquierda de la entrada."
   - q: "¿Dónde está la entrada de Blackrock Spire?"
@@ -22,7 +22,7 @@ Blackrock Spire es el bastión de la Dark Horde dentro de Blackrock Mountain. Es
 | Ala | Niveles | Grupo | Jefes | Misiones |
 |---|---|---|---|---|
 | [Lower Blackrock Spire](/es/guides/dungeons/lower-blackrock-spire/) | 55-60 | 5 jugadores | 9 | 12 |
-| [Upper Blackrock Spire](/es/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 jugadores en Classic | 6 | 12 |
+| [Upper Blackrock Spire](/es/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 jugadores | 6 | 12 |
 
 ## Cómo llegar
 
@@ -45,4 +45,4 @@ El botín, las misiones y la ruta están en la guía de [Upper Blackrock Spire](
 
 ## Lo que aún no se sabe
 
-Estas páginas siguen Blackrock Spire tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Blizzard no ha dicho si Upper Blackrock Spire sigue siendo para 10 jugadores ni qué más cambia. Todas las mazmorras están en el [resumen de mazmorras](/es/guides/dungeons/).
+Estas páginas siguen Blackrock Spire tal como era en Classic, con los niveles de los jefes sacados de los datos de Forever. Upper Blackrock Spire sigue siendo para 10 jugadores; qué más cambia, Blizzard no lo ha dicho. Todas las mazmorras están en el [resumen de mazmorras](/es/guides/dungeons/).

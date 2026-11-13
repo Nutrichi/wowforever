@@ -3,12 +3,12 @@ title: "Razorfen Downs"
 metaTitle: "Razorfen Downs in WoW Forever: loot, bazen en drops"
 description: "Elke bekende drop in Razorfen Downs in WoW Forever: de loot van Tuten'kash, Mordresh Fire Eye, Glutton en Amnennar the Coldbringer, en de blauwe drops van de monsters."
 short: "Razorfen Downs"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Razorfen Downs in WoW Forever?"
-    a: "Het spel geeft 37 tot 46. De bazen zijn level 39 tot 41."
+    a: "Levels 40 tot 50. Je kunt erin vanaf level 35. De bazen zijn level 39 tot 41."
   - q: "Waar is de ingang van Razorfen Downs?"
     a: "Aan de zuidpunt van The Barrens, ten oosten van Razorfen Kraul, op /way 50.8 92.8. Sla net voor de Great Lift naar Thousand Needles af naar het oosten."
   - q: "Hoe roep je Tuten'kash op?"

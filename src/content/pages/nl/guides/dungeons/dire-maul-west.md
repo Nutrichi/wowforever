@@ -3,12 +3,12 @@ title: "Dire Maul West"
 metaTitle: "Dire Maul West in WoW Forever: loot, bazen en drops"
 description: "De loot van Dire Maul West in WoW Forever: de drops uit Classic van Tendris Warpwood, Illyanna Ravenoak, Magister Kalendris, Immol'thar en Prince Tortheldrin."
 short: "Dire Maul West"
-updated: 2026-10-28
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Dire Maul West in WoW Forever?"
-    a: "Ons dungeonoverzicht geeft 56 tot 60. De bazen zijn level 60 en 61 in de data van Forever."
+    a: "Levels 58 tot 60. Je kunt erin vanaf level 48. De bazen zijn level 60 en 61 in de data van Forever."
   - q: "Hoe kom je in Dire Maul West?"
     a: "Via de twee deuren in de westmuur van de centrale binnenplaats van Dire Maul. Eén speler in de groep heeft de Crescent Key nodig, die Pusillin laat vallen in Dire Maul East."
   - q: "Hoe bereik je Immol'thar?"

@@ -3,12 +3,12 @@ title: "Dire Maul East"
 metaTitle: "Dire Maul East en WoW Forever: botín, jefes y drops"
 description: "El botín de Dire Maul East en WoW Forever: los drops de Classic de Lethtendris, Zevrim Thornhoof, Hydrospawn y Alzzin the Wildshaper, y lo que ya tienen los datos de Forever."
 short: "Dire Maul East"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿De qué nivel es Dire Maul East en WoW Forever?"
-    a: "Nuestro resumen de mazmorras da de 54 a 60. Los jefes son de nivel 57 y 58 en los datos de Forever."
+    a: "Niveles 58 a 60. Puedes entrar desde el nivel 48. Los jefes son de nivel 57 y 58 en los datos de Forever."
   - q: "¿Dónde está la entrada de Dire Maul East?"
     a: "Dire Maul está en el centro de Feralas. El ala este tiene una puerta en el muro este del patio central, otra desde Eldreth Row y una puerta trasera en el Lariss Pavilion que pide la Crescent Key."
   - q: "¿Dónde se consigue la Crescent Key?"

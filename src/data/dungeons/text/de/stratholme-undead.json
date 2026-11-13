@@ -1,6 +1,6 @@
 {
  "location": "Eastern Plaguelands, im Nordwesten",
- "entrance": "Das Eastwall Gate, ein Stück östlich vom Haupttor von Stratholme. Es braucht den Key to the City. Die untote Seite ist auch über die lebende Seite erreichbar.",
+ "entrance": "Das Eastwall Gate, ein Stück östlich vom Haupttor von Stratholme. Es braucht den Key to the City. Die untote Seite ist auch über die lebende Seite erreichbar. Der Eingang liegt bei /way 48.3 21.8.",
  "quests": {
   "6163": {
    "objective": "Töte Ramstein the Gorger auf dem Slaughter Square und bring seinen Kopf zurück.",

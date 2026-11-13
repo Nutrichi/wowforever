@@ -3,12 +3,12 @@ title: "Upper Blackrock Spire"
 metaTitle: "Upper Blackrock Spire dans WoW Forever : butin, boss et drops"
 description: "Le butin d’Upper Blackrock Spire dans WoW Forever : les drops de Pyroguard Emberseer, Solakar Flamewreath, Rend Blackhand, The Beast et General Drakkisath, et ce que contient Forever."
 short: "Upper Blackrock Spire"
-updated: 2026-10-28
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Upper Blackrock Spire dans WoW Forever ?"
-    a: "Notre aperçu des donjons donne 58 à 60. Dans Classic, c’était un donjon pour 10 joueurs ; si Forever garde cette taille, Blizzard ne l’a pas dit."
+    a: "Niveaux 58 à 60, et vous pouvez y entrer dès le niveau 48. C'est un donjon pour 10 joueurs, et au moins l'un d'eux doit avoir le Seal of Ascension."
   - q: "Comment entrer dans Upper Blackrock Spire ?"
     a: "Par le portail de Blackrock Spire dans Blackrock Mountain. À l’intérieur, un joueur utilise le Seal of Ascension sur la porte à gauche de l’entrée."
   - q: "Où obtenir le Seal of Ascension ?"

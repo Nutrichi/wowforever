@@ -1,6 +1,6 @@
 {
  "location": "Desolace, im Valley of Spears",
- "entrance": "Im Valley of Spears im Westen von Desolace. Eine Steintür an der Westseite des Tals führt in Höhlen voller Elites; dort teilt sich der Weg zum orangen und zum lila Portal.",
+ "entrance": "Im Valley of Spears im Westen von Desolace. Eine Steintür an der Westseite des Tals führt in Höhlen voller Elites; dort teilt sich der Weg zum orangen und zum lila Portal. Der Eingang liegt bei /way 29.5 57.8.",
  "quests": {
   "7068": {
    "objective": "Sammle 10 Shadowshard Fragments von den Shadowshard Rumblers und Smashers, Elite-Elementaren in den Höhlen vor den Portalen."

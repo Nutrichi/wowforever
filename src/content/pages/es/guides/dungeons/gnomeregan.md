@@ -3,12 +3,12 @@ title: "Gnomeregan"
 metaTitle: "Gnomeregan en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín de Gnomeregan en WoW Forever: los objetos de Grubbis, Viscous Fallout, Electrocutioner 6000, Crowd Pummeler 9-60 y Thermaplugg, los esquemas de ingeniería y las recompensas de las misiones."
 short: "Gnomeregan"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel tiene Gnomeregan en WoW Forever?"
-    a: "El juego da un rango de 29 a 38. Los jefes son de nivel 30 a 34."
+    a: "Niveles 29 a 38. Puedes entrar desde el nivel 19. Los jefes son de nivel 30 a 34."
   - q: "¿Cómo llega la Horde a Gnomeregan?"
     a: "Con el Goblin Transponder. Sovik en Orgrimmar da Chief Engineer Scooty; Scooty en Booty Bay te teletransporta luego a Gnomeregan con Gnomer-gooooone! Guarda el transpondedor para otras veces."
   - q: "¿Qué es la puerta trasera de Gnomeregan?"

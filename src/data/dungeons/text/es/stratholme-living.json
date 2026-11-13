@@ -1,6 +1,6 @@
 {
  "location": "Eastern Plaguelands, en el noroeste",
- "entrance": "La puerta principal de Stratholme al final del puente de piedra, en el noroeste de las Eastern Plaguelands. Lleva directamente al lado vivo.",
+ "entrance": "La puerta principal de Stratholme al final del puente de piedra, en el noroeste de las Eastern Plaguelands. Lleva directamente al lado vivo. La entrada está en /way 30.9 15.2.",
  "quests": {
   "5848": {
    "objective": "Encuentra el cuadro Of Love and Family en la Scarlet Bastion. Está detrás del Unfinished Painting, en la sala de Archivist Galford.",

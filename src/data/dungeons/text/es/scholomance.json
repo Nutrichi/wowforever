@@ -1,6 +1,6 @@
 {
  "location": "Western Plaguelands, en Caer Darrow",
- "entrance": "La cripta en la isla de Caer Darrow, en el sureste de las Western Plaguelands. La puerta pide la Skeleton Key.",
+ "entrance": "La cripta en la isla de Caer Darrow, en el sureste de las Western Plaguelands. La puerta pide la Skeleton Key. La entrada está en /way 69.8 76.0.",
  "quests": {
   "5343": {
    "objective": "Reúne las cuatro escrituras en Scholomance: Southshore, Tarren Mill, Brill y Caer Darrow.",

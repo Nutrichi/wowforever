@@ -3,12 +3,12 @@ title: "Blackfathom Deeps"
 metaTitle: "Blackfathom Deeps in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in Blackfathom Deeps in WoW Forever: die Drops aller sieben Bosse von Ghamoo-ra bis Aku'mai, die neue Beute von Lorgus Jett, die blauen Drops der Monster und die Belohnungen der Quests."
 short: "Blackfathom Deeps"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat Blackfathom Deeps in WoW Forever?"
-    a: "Das Spiel nennt Stufe 24 bis 32. Die Bosse sind Stufe 25 bis 28."
+    a: "Stufe 24 bis 32. Betreten kannst du ihn ab Stufe 15. Die Bosse sind Stufe 25 bis 28."
   - q: "Wo ist der Eingang von Blackfathom Deeps?"
     a: "Im Nordwesten von Ashenvale, in versunkenen Ruinen der Night Elves am Zoram Strand, bei /way 14.5 14.6. Schwimm durch das Becken am Grund und folge einer engen Höhle voller Elite-Naga bis zum Portal."
   - q: "Hat Blackfathom Deeps Quests für beide Fraktionen?"

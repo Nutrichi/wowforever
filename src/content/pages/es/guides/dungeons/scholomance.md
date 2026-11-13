@@ -3,11 +3,11 @@ title: "Scholomance"
 metaTitle: "Scholomance en WoW Forever: botín, jefes y drops"
 description: "El botín de Scholomance en WoW Forever: lo que hay en los datos de Forever y los drops de Classic de cada jefe, de Kirtonos the Herald a Darkmaster Gandling."
 short: "Scholomance"
-updated: 2026-11-12
+updated: 2026-11-13
 lang: es
 faq:
   - q: "¿Qué nivel tiene Scholomance en WoW Forever?"
-    a: "Nivel 58 a 60. Los jefes son de nivel 58 a 62 en los datos de Forever."
+    a: "Niveles 58 a 60. Puedes entrar desde el nivel 48. Los jefes son de nivel 58 a 62 en los datos de Forever."
   - q: "¿Dónde está la entrada de Scholomance?"
     a: "En la isla de Caer Darrow, en el sureste de las Western Plaguelands. La puerta pide la Skeleton Key."
   - q: "¿Cómo se consigue la Skeleton Key?"

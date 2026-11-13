@@ -3,11 +3,11 @@ title: "Gnomeregan"
 metaTitle: "Gnomeregan in WoW Forever: loot, bosses and drops"
 description: "Every drop in Gnomeregan in WoW Forever: the loot of Grubbis, Viscous Fallout, Electrocutioner 6000, Crowd Pummeler 9-60 and Thermaplugg, the engineering schematics and the quest rewards."
 short: "Gnomeregan"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Gnomeregan in WoW Forever?"
-    a: "The game gives a range of 29 to 38. The bosses are level 30 to 34."
+    a: "Levels 29 to 38. You can enter from level 19. The bosses are level 30 to 34."
   - q: "How does the Horde get to Gnomeregan?"
     a: "With the Goblin Transponder. Sovik in Orgrimmar gives Chief Engineer Scooty; Scooty in Booty Bay then beams you to Gnomeregan with Gnomer-gooooone! Keep the transponder for later runs."
   - q: "What is the back door of Gnomeregan?"

@@ -3,11 +3,11 @@ title: "Maraudon"
 metaTitle: "Maraudon in WoW Forever: loot, bosses and drops"
 description: "The loot of Maraudon in WoW Forever: the drops of all eight bosses from Noxxion to Princess Theradras, checked against the Forever data, and what is still missing."
 short: "Maraudon"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Maraudon in WoW Forever?"
-    a: "Our dungeon overview gives 41 to 50. The bosses are level 47 to 51 in the Forever data."
+    a: "Levels 45 to 57, per wing: Wicked Grotto (purple) and Foulspore Cavern (orange) 45 to 53, Earth Song Falls (inside) 48 to 57. You can enter from level 30."
   - q: "Where is the entrance to Maraudon?"
     a: "In the Valley of Spears in western Desolace. A stone door on the west side of the valley leads into caves full of elites, and from there to the orange and purple portals."
   - q: "What does the Scepter of Celebras do?"

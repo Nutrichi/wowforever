@@ -3,11 +3,11 @@ title: "Shadowfang Keep"
 metaTitle: "Shadowfang Keep in WoW Forever: loot, bosses and drops"
 description: "Every drop in Shadowfang Keep in WoW Forever: the loot of all eight bosses from Rethilgore to Archmage Arugal, the Fel Steed Saddlebags, the trash drops and the quest rewards."
 short: "Shadowfang Keep"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Shadowfang Keep in WoW Forever?"
-    a: "The game gives a range of 20 to 30. The bosses are level 20 to 26."
+    a: "Levels 22 to 30. You can enter from level 14. The bosses are level 20 to 26."
   - q: "Where is the entrance to Shadowfang Keep?"
     a: "In Silverpine Forest, in the mountains just north of Pyrewood Village, at /way 44.5 68.0."
   - q: "Does Shadowfang Keep have quests for the Alliance?"

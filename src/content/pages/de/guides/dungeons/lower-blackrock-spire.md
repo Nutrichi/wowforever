@@ -3,12 +3,12 @@ title: "Lower Blackrock Spire"
 metaTitle: "Lower Blackrock Spire in WoW Forever: Beute, Bosse und Drops"
 description: "Die Beute von Lower Blackrock Spire in WoW Forever: die Drops aus Classic aller neun Bosse von Highlord Omokk bis Overlord Wyrmthalak, und die zwei Gegenstände in den Daten von Forever."
 short: "Lower Blackrock Spire"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welches Level hat Lower Blackrock Spire in WoW Forever?"
-    a: "Unsere Dungeonübersicht nennt 55 bis 60. Die Bosse sind in den Daten von Forever Level 58 bis 60."
+    a: "Stufe 55 bis 60. Betreten kannst du ihn ab Stufe 48. Die Bosse sind in den Daten von Forever Level 58 bis 60."
   - q: "Wo ist der Eingang von Lower Blackrock Spire?"
     a: "Hoch oben in Blackrock Mountain, zwischen der Searing Gorge und den Burning Steppes. Nimm die Tür neben dem Versammlungsstein von Blackrock Spire und folge dem Weg bis zum Portal."
   - q: "Wie beschwört man Urok Doomhowl?"

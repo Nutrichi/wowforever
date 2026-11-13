@@ -3,12 +3,12 @@ title: "Dire Maul East"
 metaTitle: "Dire Maul East dans WoW Forever : butin, boss et drops"
 description: "Le butin de Dire Maul East dans WoW Forever : les drops de Classic de Lethtendris, Zevrim Thornhoof, Hydrospawn et Alzzin the Wildshaper, et ce que contiennent déjà les données de Forever."
 short: "Dire Maul East"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Dire Maul East dans WoW Forever ?"
-    a: "Notre aperçu des donjons donne 54 à 60. Les boss sont niveau 57 et 58 dans les données de Forever."
+    a: "Niveaux 58 à 60. Vous pouvez y entrer dès le niveau 48. Les boss sont niveau 57 et 58 dans les données de Forever."
   - q: "Où est l’entrée de Dire Maul East ?"
     a: "Dire Maul se trouve au milieu de Feralas. L’aile est a une porte dans le mur est de la cour centrale, une depuis Eldreth Row, et une porte arrière au Lariss Pavilion qui demande la Crescent Key."
   - q: "Où obtenir la Crescent Key ?"

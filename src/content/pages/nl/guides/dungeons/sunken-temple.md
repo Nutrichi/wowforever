@@ -3,12 +3,12 @@ title: "Sunken Temple"
 metaTitle: "Sunken Temple in WoW Forever: loot, bazen en drops"
 description: "De loot van de Sunken Temple in WoW Forever: de drops van Jammal'an the Prophet, de Wardens of the Dream, de Shade of Eranikus en de Avatar of Hakkar, zeven ervan in de data van Forever."
 short: "Sunken Temple"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is de Sunken Temple in WoW Forever?"
-    a: "Ons dungeonoverzicht geeft 46 tot 54. De bazen zijn level 50 tot 55 in de data van Forever."
+    a: "Levels 50 tot 60. Je kunt erin vanaf level 45. De bazen zijn level 50 tot 55 in de data van Forever."
   - q: "Waar is de ingang van de Sunken Temple?"
     a: "In het meer midden in de Swamp of Sorrows. Zwem naar de tempel, ga naar beneden tot de Hall of Bones en door de brede deuropening naar het portaal."
   - q: "Hoe roep je Atal'alarion op?"

@@ -1,6 +1,6 @@
 {
  "location": "Stormwind City, sous les canaux",
- "entrance": "Dans les canaux de Stormwind City, près du Mage Quarter, en /way 50.4 66.2. Un escalier descend jusqu’au portail, avec Warden Thelwater juste devant.",
+ "entrance": "Dans les canaux de Stormwind City, près du Mage Quarter, en /way 41.0 57.0. Un escalier descend jusqu’au portail, avec Warden Thelwater juste devant.",
  "quests": {
   "386": {
    "objective": "Tuez Targorr the Dread et rapportez sa tête à Guard Berton à Lakeshire."

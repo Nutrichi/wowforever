@@ -1,6 +1,6 @@
 {
  "location": "Eastern Plaguelands, in het noordwesten",
- "entrance": "De Eastwall Gate, een stukje ten oosten van de hoofdpoort van Stratholme. Ze vraagt de Key to the City. De undead kant is ook bereikbaar via de levende kant.",
+ "entrance": "De Eastwall Gate, een stukje ten oosten van de hoofdpoort van Stratholme. Ze vraagt de Key to the City. De undead kant is ook bereikbaar via de levende kant. De ingang ligt op /way 48.3 21.8.",
  "quests": {
   "6163": {
    "objective": "Dood Ramstein the Gorger op Slaughter Square en breng zijn hoofd terug.",

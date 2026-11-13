@@ -15,7 +15,7 @@ dungeon:
 ---
 ## Anreise
 
-Der Haupteingang liegt am Nordrand der Badlands, nahe der Straße nach Loch Modan, bei /way 35.2 10.7. Die Grabungstunnel vor dem Portal sind voller Elite-Troggs, also geht als Gruppe hinein. Eine Hintertür liegt in einer weiteren Trogghöhle in Dustwind Gulch, südöstlich des Haupteingangs.
+Der Haupteingang liegt am Nordrand der Badlands, nahe der Straße nach Loch Modan, bei /way 42.6 10.8. Die Grabungstunnel vor dem Portal sind voller Elite-Troggs, also geht als Gruppe hinein. Eine Hintertür liegt in einer weiteren Trogghöhle in Dustwind Gulch, südöstlich des Haupteingangs.
 
 ## Die Route
 

@@ -3,11 +3,11 @@ title: "Razorfen Downs"
 metaTitle: "Razorfen Downs in WoW Forever: loot, bosses and drops"
 description: "Every known drop in Razorfen Downs in WoW Forever: the loot of Tuten'kash, Mordresh Fire Eye, Glutton and Amnennar the Coldbringer, and the blue drops of the monsters."
 short: "Razorfen Downs"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Razorfen Downs in WoW Forever?"
-    a: "The game gives a range of 37 to 46. The bosses are level 39 to 41."
+    a: "Levels 40 to 50. You can enter from level 35. The bosses are level 39 to 41."
   - q: "Where is the entrance to Razorfen Downs?"
     a: "At the southern tip of The Barrens, east of Razorfen Kraul, at /way 50.8 92.8. Turn east just before the Great Lift to Thousand Needles."
   - q: "How do you summon Tuten'kash?"

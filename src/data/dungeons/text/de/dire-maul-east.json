@@ -1,6 +1,6 @@
 {
  "location": "Feralas, in der Mitte",
- "entrance": "Über den zentralen Hof von Dire Maul mitten in Feralas: eine Tür in der Ostmauer, eine Tür von Eldreth Row aus, oder die Hintertür beim Lariss Pavilion mit dem Crescent Key.",
+ "entrance": "Über den zentralen Hof von Dire Maul mitten in Feralas: eine Tür in der Ostmauer, eine Tür von Eldreth Row aus, oder die Hintertür beim Lariss Pavilion mit dem Crescent Key. Dire Maul selbst liegt bei /way 58.9 41.5.",
  "quests": {
   "7488": {"objective": "Bring Lethtendris's Web zurück. Lethtendris lässt es fallen.", "note": "Courier Hammerfall in Ironforge gibt die Vorquest Feathermoon Stronghold. Das Schiff nach Feathermoon fährt an der Forgotten Coast ab, an der Westküste von Feralas."},
   "7489": {"objective": "Bring Lethtendris's Web zurück. Lethtendris lässt es fallen.", "note": "Warcaller Gorlach in Orgrimmar gibt die Vorquest Camp Mojache."},

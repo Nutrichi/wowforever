@@ -15,7 +15,7 @@ dungeon:
 ---
 ## De weg erheen
 
-De ingang ligt in de kanalen van Stormwind City, bij de Mage Quarter, op /way 50.4 66.2. Warden Thelwater staat er net buiten en geeft twee van de quests. Voor de Horde is een gevangenis midden in Stormwind op dit level bijna onbereikbaar.
+De ingang ligt in de kanalen van Stormwind City, bij de Mage Quarter, op /way 41.0 57.0. Warden Thelwater staat er net buiten en geeft twee van de quests. Voor de Horde is een gevangenis midden in Stormwind op dit level bijna onbereikbaar.
 
 ![Wachters van Stormwind boven de trap naar het portaal van The Stockade, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../../assets/posts/2026-10-03-wow-forever-stockade-entrance-portal.jpg)
 

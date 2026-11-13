@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Armory"
 metaTitle: "Scarlet Monastery Armory in WoW Forever: loot, bazen en drops"
 description: "Elke drop in de Armory van Scarlet Monastery in WoW Forever: de loot van Herod, de Ravager met zijn nieuwe vertraging, de Chain of the Scarlet Crusade en de beloningen van de quests."
 short: "SM Armory"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is de Scarlet Monastery Armory in WoW Forever?"
-    a: "Het spel geeft 36 tot 44. Herod is level 40."
+    a: "Levels 32 tot 42. Je kunt erin vanaf level 21. Herod is level 40."
   - q: "Heb je een sleutel nodig voor de Armory?"
     a: "Ja. Eén speler in de groep heeft The Scarlet Key uit de Library nodig, of een Rogue met Lockpicking 175."
   - q: "Is de loot van Herod veranderd in WoW Forever?"

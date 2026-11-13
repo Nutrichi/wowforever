@@ -3,12 +3,12 @@ title: "Blackfathom Deeps"
 metaTitle: "Blackfathom Deeps in WoW Forever: bottino, boss e oggetti"
 description: "Tutto il bottino di Blackfathom Deeps in WoW Forever: gli oggetti dei sette boss da Ghamoo-ra ad Aku'mai, il nuovo bottino di Lorgus Jett, gli oggetti blu dei mostri e le ricompense delle missioni."
 short: "Blackfathom Deeps"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: it
 manual: true
 faq:
   - q: "Che livello è Blackfathom Deeps in WoW Forever?"
-    a: "Il gioco indica dal 24 al 32. I boss sono di livello dal 25 al 28."
+    a: "Livelli da 24 a 32. Puoi entrare dal livello 15. I boss sono di livello dal 25 al 28."
   - q: "Dov’è l’ingresso di Blackfathom Deeps?"
     a: "Nel nord-ovest di Ashenvale, tra rovine sommerse dei Night Elves sulla Zoram Strand, a /way 14.5 14.6. Nuota attraverso la pozza in fondo e segui una grotta stretta piena di naga élite fino al portale."
   - q: "Blackfathom Deeps ha missioni per entrambe le fazioni?"

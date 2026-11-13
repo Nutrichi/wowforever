@@ -1,6 +1,7 @@
 {
  "location": "Blackrock Mountain, between the Searing Gorge and the Burning Steppes",
- "entrance": "Through the portal of Blackrock Spire, high in Blackrock Mountain. Inside, the Seal of Ascension opens the door to the left of the entrance.",
+ "group": 10,
+ "entrance": "Through the portal of Blackrock Spire, high in Blackrock Mountain. Inside, the Seal of Ascension opens the door to the left of the entrance. Blackrock Mountain is at /way 35.2 84.2 in the Searing Gorge.",
  "quests": {
   "4768": {"objective": "Bring back the Darkstone Tablet. It lies in Upper Blackrock Spire.", "note": "The Undercity has an optional breadcrumb that sends you to Vivian Lagrave."},
   "4974": {"objective": "Kill Warchief Rend Blackhand and bring his head to Thrall.", "note": "First do Warlord's Command in Lower Blackrock Spire and Eitrigg's Wisdom."},

@@ -3,12 +3,12 @@ title: "Gnomeregan"
 metaTitle: "Gnomeregan in WoW Forever: loot, bazen en drops"
 description: "Elke drop in Gnomeregan in WoW Forever: de loot van Grubbis, Viscous Fallout, Electrocutioner 6000, Crowd Pummeler 9-60 en Thermaplugg, de schematics voor Engineering en de beloningen van de quests."
 short: "Gnomeregan"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Gnomeregan in WoW Forever?"
-    a: "Het spel geeft 29 tot 38. De bazen zijn level 30 tot 34."
+    a: "Levels 29 tot 38. Je kunt erin vanaf level 19. De bazen zijn level 30 tot 34."
   - q: "Hoe komt de Horde in Gnomeregan?"
     a: "Met de Goblin Transponder. Sovik in Orgrimmar geeft Chief Engineer Scooty; Scooty in Booty Bay straalt je daarna met Gnomer-gooooone! naar Gnomeregan. Hou de transponder voor latere runs."
   - q: "Wat is de achterdeur van Gnomeregan?"

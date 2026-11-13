@@ -1,6 +1,6 @@
 {
  "location": "Feralas, in the middle",
- "entrance": "Through the central courtyard of Dire Maul in the middle of Feralas: a door on the east wall, a door from Eldreth Row, or the back door at the Lariss Pavilion with the Crescent Key.",
+ "entrance": "Through the central courtyard of Dire Maul in the middle of Feralas: a door on the east wall, a door from Eldreth Row, or the back door at the Lariss Pavilion with the Crescent Key. Dire Maul itself is at /way 58.9 41.5.",
  "quests": {
   "7488": {
    "objective": "Bring back Lethtendris's Web. Lethtendris drops it.",

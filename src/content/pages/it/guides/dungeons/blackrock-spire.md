@@ -3,11 +3,11 @@ title: "Blackrock Spire"
 metaTitle: "Blackrock Spire in WoW Forever: le due ali, ingresso e boss"
 description: "Blackrock Spire in WoW Forever: come raggiungere il portale in Blackrock Mountain, cosa distingue Lower e Upper Blackrock Spire e i boss di entrambe le ali."
 short: "Blackrock Spire"
-updated: 2026-10-29
+updated: 2026-11-13
 lang: it
 faq:
   - q: "Blackrock Spire è un dungeon o due?"
-    a: "Un'unica istanza con due ali che contano come dungeon separati: Lower Blackrock Spire per 5 giocatori e Upper Blackrock Spire, che in Classic era per 10."
+    a: "Un'unica istanza con due ali che contano come dungeon separati: Lower Blackrock Spire per 5 giocatori e Upper Blackrock Spire per 10."
   - q: "Come si entra in Upper Blackrock Spire?"
     a: "Con il Seal of Ascension. Dentro Lower Blackrock Spire, un giocatore che lo porta con sé apre la porta a sinistra dell'ingresso."
   - q: "Dove si trova l'ingresso di Blackrock Spire?"
@@ -22,7 +22,7 @@ Blackrock Spire è la roccaforte della Dark Horde dentro Blackrock Mountain. È 
 | Ala | Livelli | Gruppo | Boss | Missioni |
 |---|---|---|---|---|
 | [Lower Blackrock Spire](/it/guides/dungeons/lower-blackrock-spire/) | 55-60 | 5 giocatori | 9 | 12 |
-| [Upper Blackrock Spire](/it/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 giocatori in Classic | 6 | 12 |
+| [Upper Blackrock Spire](/it/guides/dungeons/upper-blackrock-spire/) | 58-60 | 10 giocatori | 6 | 12 |
 
 ## Come arrivarci
 
@@ -45,4 +45,4 @@ Bottino, missioni e percorso sono nella guida a [Upper Blackrock Spire](/it/guid
 
 ## Cosa non si sa ancora
 
-Queste pagine seguono Blackrock Spire com'era in Classic, con i livelli dei boss presi dai dati di Forever. Blizzard non ha detto se Upper Blackrock Spire resta un dungeon per 10 giocatori, né cos'altro cambia. Tutti i dungeon sono nella [panoramica dei dungeon](/it/guides/dungeons/).
+Queste pagine seguono Blackrock Spire com'era in Classic, con i livelli dei boss presi dai dati di Forever. Upper Blackrock Spire resta un dungeon per 10 giocatori; cos'altro cambia, Blizzard non l'ha detto. Tutti i dungeon sono nella [panoramica dei dungeon](/it/guides/dungeons/).

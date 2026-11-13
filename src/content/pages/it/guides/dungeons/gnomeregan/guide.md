@@ -15,7 +15,7 @@ dungeon:
 ---
 ## Come arrivarci
 
-**Alliance.** Da Ironforge cavalca verso ovest fino al Train Depot, il cancello principale di Gnomeregan nell’ovest di Dun Morogh, a /way 17.7 39.2.
+**Alliance.** Da Ironforge cavalca verso ovest fino al Train Depot, il cancello principale di Gnomeregan nell’ovest di Dun Morogh, a /way 30.5 36.3.
 
 **Horde.** Prendi Rig Wars da Nogg a Orgrimmar, poi Chief Engineer Scooty da Sovik accanto a lui. Prendi la nave da Ratchet a Booty Bay, dove Scooty sta sul molo vicino alla locanda. Il suo Gnomer-gooooone! dà il <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9173"><img class="wf-wh__icon" src="/wh/inv_battery_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goblin Transponder</a>, che ti teletrasporta a Gnomeregan. Tienilo per le volte successive.
 

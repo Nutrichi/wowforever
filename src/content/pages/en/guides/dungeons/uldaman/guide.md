@@ -14,7 +14,7 @@ dungeon:
 ---
 ## Getting there
 
-The main entrance lies at the northern edge of the Badlands, near the road to Loch Modan, at /way 35.2 10.7. The excavation tunnels before the portal are full of elite troggs, so go in as a group. A back door lies in another trogg cave in Dustwind Gulch, southeast of the main entrance.
+The main entrance lies at the northern edge of the Badlands, near the road to Loch Modan, at /way 42.6 10.8. The excavation tunnels before the portal are full of elite troggs, so go in as a group. A back door lies in another trogg cave in Dustwind Gulch, southeast of the main entrance.
 
 ## The route
 

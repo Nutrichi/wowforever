@@ -3,7 +3,7 @@ title: "Upper Blackrock Spire"
 metaTitle: "Guida a Upper Blackrock Spire per WoW Forever: Seal, percorso e boss"
 description: "Come fare Upper Blackrock Spire in WoW Forever: la salita in Blackrock Mountain, il Seal of Ascension, Emberseer, la Rookery, Rend Blackhand e Gyth, The Beast e General Drakkisath."
 short: "Guida"
-updated: 2026-10-28
+updated: 2026-11-13
 lang: it
 manual: true
 sources:
@@ -13,7 +13,7 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "guide"
 ---
-Questa guida segue il dungeon com’era in Classic, dove Upper Blackrock Spire era un dungeon per 10 giocatori. Se Forever mantiene questa dimensione e se il dungeon cambia, Blizzard non l’ha detto.
+Questa guida segue il dungeon com’era in Classic. Upper Blackrock Spire è un dungeon per 10 giocatori anche in Forever; se il dungeon stesso cambia, Blizzard non l’ha detto.
 
 ## Come arrivarci
 
@@ -62,5 +62,5 @@ Il combattimento più duro del dungeon. Ogni tank prende una Chromatic Elite Gua
 
 - **Le ricompense** delle dodici missioni nei dati di Forever.
 - **Il bottino**: 37 dei 40 oggetti di Classic non sono ancora nei dati di Forever.
-- **La dimensione del gruppo**: 10 giocatori in Classic; Blizzard non ha detto cosa fa Forever.
+- **La dimensione del gruppo**: 10 giocatori, come in Classic.
 - **Le modifiche per Forever**: non ancora note. Questa pagina verrà aggiornata appena i giocatori le scopriranno. In Classic Lord Valthalak veniva evocato nella Furnace per le missioni del Tier 0.5; non si sa se quelle missioni esistano in Forever.

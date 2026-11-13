@@ -1,9 +1,9 @@
 ---
 title: "Krol'dok Stronghold"
 metaTitle: "Gids voor Krol'dok Stronghold in WoW Forever: ingang en sleutels"
-description: "Zo bereik je Krol'dok Stronghold in de Riverglades in WoW Forever, zo is het ogrefort ingedeeld, de twee sleutels en Overlord Mugg, de enige bekende baas."
+description: "Zo bereik je Krol'dok Stronghold in de Riverglades in WoW Forever, zo is het ogrefort ingedeeld, de twee sleutels en de zes bazen van Slavecrusher Grox tot Overlord Mugg."
 short: "Gids"
-updated: 2026-10-29
+updated: 2026-11-13
 lang: nl
 manual: true
 sources:
@@ -31,12 +31,17 @@ De speldata heeft twee sleutels voor het fort, <a class="wf-wh wf-q1" href="http
 
 ## De bazen
 
-### Overlord Mugg
+De kaart bovenaan toont de route en de zes bazen in volgorde. Q is een questplek onderweg.
 
-De enige baas die tot nu toe bekend is, genoemd in de Legacy-uitdaging van de dungeon. Hij laat <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a> vallen, een questitem.
+1. **Slavecrusher Grox**, in de eerste bocht na de ingang.
+2. **Twilight Commander Zarmok**, aan de voet van de eerste klim.
+3. **War Handler Ashka**, aan de oostkant, bij de rivier.
+4. **Nar'gurk**, tussen de kampen aan de westkant.
+5. **Bossman Toof**, op weg naar de top.
+6. **Overlord Mugg**, bovenaan het fort. Hij wordt genoemd in de Legacy-uitdaging van de dungeon en laat <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a> vallen, een questitem.
 
 ## Wat nog niet bekend is
 
-- **De andere bazen** en hoe de gevechten werken.
+- **Hoe de gevechten werken** en welke baas wat laat vallen.
 - **De buit**, ook de stukken van de set Krol'dok Battlegear.
 - **De quests**, ook die van de twee items <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267137"><img class="wf-wh__icon" src="/wh/inv_ingot_platinum.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Moulding</a>.

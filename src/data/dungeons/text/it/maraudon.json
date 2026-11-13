@@ -1,6 +1,6 @@
 {
  "location": "Desolace, nella Valley of Spears",
- "entrance": "Nella Valley of Spears, a ovest di Desolace. Una porta di pietra sul lato ovest della valle porta a grotte piene di élite; lì il sentiero si divide verso il portale arancione e quello viola.",
+ "entrance": "Nella Valley of Spears, a ovest di Desolace. Una porta di pietra sul lato ovest della valle porta a grotte piene di élite; lì il sentiero si divide verso il portale arancione e quello viola. L’ingresso è a /way 29.5 57.8.",
  "quests": {
   "7068": {
    "objective": "Raccogli 10 Shadowshard Fragments dagli Shadowshard Rumbler e Smasher, elementali élite nelle grotte fuori dai portali."

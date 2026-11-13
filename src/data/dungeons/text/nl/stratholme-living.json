@@ -1,6 +1,6 @@
 {
  "location": "Eastern Plaguelands, in het noordwesten",
- "entrance": "De hoofdpoort van Stratholme aan het einde van de stenen brug in het noordwesten van de Eastern Plaguelands. Ze leidt rechtstreeks naar de levende kant.",
+ "entrance": "De hoofdpoort van Stratholme aan het einde van de stenen brug in het noordwesten van de Eastern Plaguelands. Ze leidt rechtstreeks naar de levende kant. De ingang ligt op /way 30.9 15.2.",
  "quests": {
   "5848": {
    "objective": "Vind het schilderij Of Love and Family in de Scarlet Bastion. Het hangt achter het Unfinished Painting in de kamer van Archivist Galford.",

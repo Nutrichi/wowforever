@@ -1,6 +1,6 @@
 {
  "location": "Swamp of Sorrows, in the lake in the middle",
- "entrance": "Swim to the temple in the lake, go down to the Hall of Bones and through the wide doorway to the portal.",
+ "entrance": "Swim to the temple in the lake, go down to the Hall of Bones and through the wide doorway to the portal. The entrance is at /way 69.6 53.2.",
  "quests": {
   "1445": {
    "objective": "Collect 20 Fetishes of Hakkar from the trolls in the temple.",

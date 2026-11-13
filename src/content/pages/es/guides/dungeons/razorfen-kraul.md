@@ -3,12 +3,12 @@ title: "Razorfen Kraul"
 metaTitle: "Razorfen Kraul en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín de Razorfen Kraul en WoW Forever: los objetos de Roogug, Aggem Thorncurse, Death Speaker Jargba, Ramtusk, Agathelos y Charlga Razorflank, el botín de los raros y las recompensas de las misiones."
 short: "Razorfen Kraul"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel tiene Razorfen Kraul en WoW Forever?"
-    a: "El juego da un rango de 29 a 38. Los jefes son de nivel 28 a 33."
+    a: "Niveles 30 a 40. Puedes entrar desde el nivel 25. Los jefes son de nivel 28 a 33."
   - q: "¿Dónde está la entrada de Razorfen Kraul?"
     a: "Entre las zarzas de la punta sur de The Barrens, justo antes del Great Lift a Thousand Needles, en /way 42.3 89.9. Gira al oeste antes del elevador."
   - q: "¿Ha cambiado el botín de Razorfen Kraul en WoW Forever?"

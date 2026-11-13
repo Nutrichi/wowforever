@@ -3,11 +3,11 @@ title: "Razorfen Kraul"
 metaTitle: "Razorfen Kraul in WoW Forever: loot, bosses and drops"
 description: "Every drop in Razorfen Kraul in WoW Forever: the loot of Roogug, Aggem Thorncurse, Death Speaker Jargba, Ramtusk, Agathelos and Charlga Razorflank, the rare drops and the quest rewards."
 short: "Razorfen Kraul"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Razorfen Kraul in WoW Forever?"
-    a: "The game gives a range of 29 to 38. The bosses are level 28 to 33."
+    a: "Levels 30 to 40. You can enter from level 25. The bosses are level 28 to 33."
   - q: "Where is the entrance to Razorfen Kraul?"
     a: "In the brambles at the southern tip of The Barrens, just before the Great Lift to Thousand Needles, at /way 42.3 89.9. Turn west before the lift."
   - q: "Has the loot of Razorfen Kraul changed in WoW Forever?"

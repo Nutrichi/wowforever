@@ -1,6 +1,6 @@
 {
  "location": "Swamp of Sorrows, dans le lac au centre",
- "entrance": "Nagez jusqu’au temple dans le lac, descendez au Hall of Bones et passez la large porte vers le portail.",
+ "entrance": "Nagez jusqu’au temple dans le lac, descendez au Hall of Bones et passez la large porte vers le portail. L’entrée se trouve en /way 69.6 53.2.",
  "quests": {
   "1445": {"objective": "Récoltez 20 Fetishes of Hakkar sur les trolls du temple.", "note": "Trois quêtes viennent d’abord."},
   "4146": {"objective": "Récoltez 5 échantillons d’Atal'ai Haze avec l’Unloaded Zapper et apportez-les à Larion à Marshal's Refuge.", "note": "La brume vient des Deep Lurkers, des Murk Worms et des limons du temple. Deux quêtes viennent d’abord."},

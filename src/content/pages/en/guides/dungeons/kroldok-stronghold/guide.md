@@ -1,9 +1,9 @@
 ---
 title: "Krol'dok Stronghold"
 metaTitle: "Krol'dok Stronghold guide for WoW Forever: entrance, layout, keys"
-description: "How to reach Krol'dok Stronghold in the Riverglades in WoW Forever, how the ogre fortress is laid out, its two keys and Overlord Mugg, the only known boss."
+description: "How to reach Krol'dok Stronghold in the Riverglades in WoW Forever, how the ogre fortress is laid out, its two keys and its six bosses from Slavecrusher Grox to Overlord Mugg."
 short: "Guide"
-updated: 2026-10-29
+updated: 2026-11-13
 lang: en
 sources:
   - name: "Warcraft Tavern"
@@ -30,12 +30,17 @@ The game data has two keys for the stronghold, <a class="wf-wh wf-q1" href="http
 
 ## The bosses
 
-### Overlord Mugg
+The map at the top shows the route and the six bosses in order. Q marks a quest spot along the way.
 
-The only boss known so far, named in the Legacy challenge of the dungeon. He drops <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a>, a quest item.
+1. **Slavecrusher Grox**, in the first bend past the entrance.
+2. **Twilight Commander Zarmok**, at the foot of the first climb.
+3. **War Handler Ashka**, on the east side, near the river.
+4. **Nar'gurk**, among the camps on the west side.
+5. **Bossman Toof**, on the way up to the top.
+6. **Overlord Mugg**, at the top of the stronghold. He is named in the Legacy challenge of the dungeon and drops <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a>, a quest item.
 
 ## What is not known yet
 
-- **The other bosses** and how the fights work.
+- **How the fights work** and which boss drops what.
 - **The loot**, including the pieces of the Krol'dok Battlegear set.
 - **The quests**, including the two <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267137"><img class="wf-wh__icon" src="/wh/inv_ingot_platinum.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Moulding</a> items that start one.

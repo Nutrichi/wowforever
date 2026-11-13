@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Armory"
 metaTitle: "Scarlet Monastery Armory in WoW Forever: bottino, boss e oggetti"
 description: "Tutto il bottino dell’Armory di Scarlet Monastery in WoW Forever: gli oggetti di Herod, il Ravager con il suo nuovo rallentamento, la Chain of the Scarlet Crusade e le ricompense delle missioni."
 short: "SM Armory"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: it
 manual: true
 faq:
   - q: "Che livello è la Scarlet Monastery Armory in WoW Forever?"
-    a: "Il gioco indica dal 36 al 44. Herod è di livello 40."
+    a: "Livelli da 32 a 42. Puoi entrare dal livello 21. Herod è di livello 40."
   - q: "Serve una chiave per l’Armory?"
     a: "Sì. Un giocatore del gruppo deve avere The Scarlet Key della Library, oppure serve un Rogue con Lockpicking 175."
   - q: "Il bottino di Herod è cambiato in WoW Forever?"

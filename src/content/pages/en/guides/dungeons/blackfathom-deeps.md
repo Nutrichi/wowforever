@@ -3,11 +3,11 @@ title: "Blackfathom Deeps"
 metaTitle: "Blackfathom Deeps in WoW Forever: loot, bosses and drops"
 description: "Every drop in Blackfathom Deeps in WoW Forever: the loot of all seven bosses from Ghamoo-ra to Aku'mai, the new loot of Lorgus Jett, the blue drops of the monsters and the quest rewards."
 short: "Blackfathom Deeps"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Blackfathom Deeps in WoW Forever?"
-    a: "The game gives a range of 24 to 32. The bosses are level 25 to 28."
+    a: "Levels 24 to 32. You can enter from level 15. The bosses are level 25 to 28."
   - q: "Where is the entrance to Blackfathom Deeps?"
     a: "In the northwest of Ashenvale, in sunken Night Elf ruins on the Zoram Strand, at /way 14.5 14.6. Swim through the pool at the bottom and follow a narrow cave full of elite naga to the portal."
   - q: "Does Blackfathom Deeps have quests for both factions?"

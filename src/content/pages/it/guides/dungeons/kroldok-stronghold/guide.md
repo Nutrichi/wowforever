@@ -1,9 +1,9 @@
 ---
 title: "Krol'dok Stronghold"
 metaTitle: "Guida a Krol'dok Stronghold per WoW Forever: ingresso, mappa, chiavi"
-description: "Come raggiungere Krol'dok Stronghold nelle Riverglades in WoW Forever, com'è fatta la fortezza degli ogre, le sue due chiavi e Overlord Mugg, l'unico boss noto."
+description: "Come raggiungere Krol'dok Stronghold nelle Riverglades in WoW Forever, com'è fatta la fortezza degli ogre, le sue due chiavi e i suoi sei boss, da Slavecrusher Grox a Overlord Mugg."
 short: "Guida"
-updated: 2026-10-29
+updated: 2026-11-13
 lang: it
 manual: true
 sources:
@@ -31,12 +31,17 @@ I dati di gioco hanno due chiavi per la fortezza, <a class="wf-wh wf-q1" href="h
 
 ## I boss
 
-### Overlord Mugg
+La mappa in alto mostra il percorso e i sei boss in ordine. La Q segna un punto missione lungo la strada.
 
-L'unico boss noto per ora, citato nella sfida Legacy del dungeon. Lascia <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a>, un oggetto di missione.
+1. **Slavecrusher Grox**, nella prima curva dopo l'ingresso.
+2. **Twilight Commander Zarmok**, ai piedi della prima salita.
+3. **War Handler Ashka**, sul lato est, vicino al fiume.
+4. **Nar'gurk**, tra gli accampamenti sul lato ovest.
+5. **Bossman Toof**, sulla strada verso la cima.
+6. **Overlord Mugg**, in cima alla fortezza. È citato nella sfida Legacy del dungeon e lascia <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a>, un oggetto di missione.
 
 ## Cosa non si sa ancora
 
-- **Gli altri boss** e come funzionano gli scontri.
+- **Come funzionano gli scontri** e cosa lascia ogni boss.
 - **Il bottino**, compresi i pezzi del set Krol'dok Battlegear.
 - **Le missioni**, compresa quella dei due oggetti <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267137"><img class="wf-wh__icon" src="/wh/inv_ingot_platinum.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Moulding</a>.

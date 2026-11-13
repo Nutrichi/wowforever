@@ -3,11 +3,11 @@ title: "Wailing Caverns"
 metaTitle: "Wailing Caverns in WoW Forever: loot, bosses and drops"
 description: "Every drop in Wailing Caverns in WoW Forever: the loot of the four Lords of the Fang, Kresh, Skum, Verdan and Mutanus, the Embrace of the Viper set and the quest rewards."
 short: "Wailing Caverns"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Wailing Caverns in WoW Forever?"
-    a: "Blizzard gives a range of 15 to 24. The bosses are level 20 to 22."
+    a: "Levels 15 to 25. You can enter from level 10. The bosses are level 20 to 22."
   - q: "Where is the entrance to Wailing Caverns?"
     a: "In a cave in the ravine south of the Lushwater Oasis in The Barrens, at /way 46.0 36.3, southwest of the Crossroads."
   - q: "Can both factions do the Wailing Caverns quests?"

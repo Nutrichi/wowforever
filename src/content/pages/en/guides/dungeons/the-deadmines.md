@@ -3,11 +3,11 @@ title: "The Deadmines"
 metaTitle: "The Deadmines in WoW Forever: loot, bosses and drops"
 description: "Every drop in the Deadmines in WoW Forever: the loot of Rhahk'Zor, Sneed, Gilnid, Mr. Smite, Cookie, Greenskin and VanCleef, the Defias Leather set, Partners in Crime and the quest rewards."
 short: "The Deadmines"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is the Deadmines in WoW Forever?"
-    a: "The game gives a range of 17 to 26. The bosses are level 19 to 21."
+    a: "Levels 18 to 23. You can enter from level 10. The bosses are level 19 to 21."
   - q: "Where is the entrance to the Deadmines?"
     a: "In Westfall, inside the Defias Hideout, the large building in the southwest of Moonbrook at /way 42 72. The portal is at the bottom of the caves below it."
   - q: "Has the loot of the Deadmines changed in WoW Forever?"

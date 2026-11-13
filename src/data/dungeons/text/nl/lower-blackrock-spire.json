@@ -1,6 +1,6 @@
 {
  "location": "Blackrock Mountain, tussen de Searing Gorge en de Burning Steppes",
- "entrance": "Via het portaal van Blackrock Spire, hoog in Blackrock Mountain: de deur naast de meeting stone, dan het pad naar boven.",
+ "entrance": "Via het portaal van Blackrock Spire, hoog in Blackrock Mountain: de deur naast de meeting stone, dan het pad naar boven. Blackrock Mountain ligt op /way 35.2 84.2 in de Searing Gorge.",
  "quests": {
   "4724": {"objective": "Dood Halycon, de leidster van de Bloodaxe-worgs."},
   "4981": {"objective": "Zoek uit wat er met Bijou gebeurd is in Blackrock Spire.", "note": "Bijou zit in de dungeon en geeft daarna Bijou's Belongings."},

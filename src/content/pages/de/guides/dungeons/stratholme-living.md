@@ -3,11 +3,11 @@ title: "Stratholme Living"
 metaTitle: "Stratholme Living in WoW Forever: Beute, Bosse und Drops"
 description: "Die Beute der lebenden Seite von Stratholme in WoW Forever: was in den Daten von Forever steht, und die Drops aus Classic von jedem Boss von Skul bis Balnazzar."
 short: "Stratholme Living"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: de
 faq:
   - q: "Welches Level hat Stratholme Living in WoW Forever?"
-    a: "Stufe 58 bis 60. Die Bosse sind in den Daten von Forever Stufe 57 bis 62."
+    a: "Stufe 58 bis 60. Betreten kannst du ihn ab Stufe 48. Die Bosse sind in den Daten von Forever Stufe 57 bis 62."
   - q: "Wo ist der Eingang von Stratholme Living?"
     a: "Am Ende der Steinbrücke im Nordwesten der Eastern Plaguelands. Das Haupttor führt direkt auf die lebende Seite."
   - q: "Welchen Schlüssel braucht man für Stratholme Living?"

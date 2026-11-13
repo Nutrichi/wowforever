@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Cathedral"
 metaTitle: "Scarlet Monastery Cathedral in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in der Cathedral von Scarlet Monastery in WoW Forever: die Drops von High Inquisitor Fairbanks, Scarlet Commander Mograine und High Inquisitor Whitemane und die Belohnungen der Quests."
 short: "SM Cathedral"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat die Scarlet Monastery Cathedral in WoW Forever?"
-    a: "Das Spiel nennt Stufe 38 bis 46. Fairbanks ist Stufe 40, Mograine und Whitemane Stufe 42."
+    a: "Stufe 35 bis 45. Betreten kannst du ihn ab Stufe 21. Fairbanks ist Stufe 40, Mograine und Whitemane Stufe 42."
   - q: "Braucht man einen Schlüssel für die Cathedral?"
     a: "Ja. Ein Spieler der Gruppe braucht The Scarlet Key aus der Library, oder man braucht einen Rogue mit Lockpicking 175."
   - q: "Hat sich die Beute der Cathedral in WoW Forever geändert?"

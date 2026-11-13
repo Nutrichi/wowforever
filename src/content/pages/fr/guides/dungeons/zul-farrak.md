@@ -3,12 +3,12 @@ title: "Zul'Farrak"
 metaTitle: "Zul'Farrak dans WoW Forever : butin, boss et drops"
 description: "Le butin de Zul'Farrak dans WoW Forever : les drops d’Antu'sul, Zum'rah, Gahz'rilla, Nekrum et Sezz'ziz et Chief Ukorz Sandscalp, vérifiés dans les données de Forever."
 short: "Zul'Farrak"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Zul'Farrak dans WoW Forever ?"
-    a: "Notre aperçu des donjons donne 40 à 50. Les boss sont de niveau 45 à 48 dans les données de Forever."
+    a: "Niveaux 44 à 54. Vous pouvez y entrer dès le niveau 39. Les boss sont de niveau 45 à 48 dans les données de Forever."
   - q: "Où est l’entrée de Zul'Farrak ?"
     a: "Dans le coin nord-ouest de Tanaris, en /way 39 20, au nord-ouest de Gadgetzan."
   - q: "Comment invoquer Gahz'rilla ?"

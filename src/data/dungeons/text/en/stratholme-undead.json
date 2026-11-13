@@ -1,6 +1,6 @@
 {
  "location": "Eastern Plaguelands, in the northwest",
- "entrance": "The Eastwall Gate, a little east of the main gate of Stratholme. It needs the Key to the City. The Undead side can also be reached through the Living side.",
+ "entrance": "The Eastwall Gate, a little east of the main gate of Stratholme. It needs the Key to the City. The Undead side can also be reached through the Living side. The entrance is at /way 48.3 21.8.",
  "quests": {
   "6163": {
    "objective": "Kill Ramstein the Gorger in Slaughter Square and bring back his head.",

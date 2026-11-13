@@ -3,12 +3,12 @@ title: "Wailing Caverns"
 metaTitle: "Wailing Caverns in WoW Forever: loot, bazen en drops"
 description: "Elke drop in Wailing Caverns in WoW Forever: de loot van de vier Lords of the Fang, Kresh, Skum, Verdan en Mutanus, de set Embrace of the Viper en de beloningen van de quests."
 short: "Wailing Caverns"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Wailing Caverns in WoW Forever?"
-    a: "Blizzard geeft 15 tot 24. De bazen zijn level 20 tot 22."
+    a: "Levels 15 tot 25. Je kunt erin vanaf level 10. De bazen zijn level 20 tot 22."
   - q: "Waar is de ingang van Wailing Caverns?"
     a: "In een grot in het ravijn ten zuiden van de Lushwater Oasis in The Barrens, op /way 46.0 36.3, ten zuidwesten van de Crossroads."
   - q: "Kunnen beide facties de quests van Wailing Caverns doen?"

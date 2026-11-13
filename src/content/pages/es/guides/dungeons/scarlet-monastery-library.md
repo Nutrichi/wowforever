@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Library"
 metaTitle: "Scarlet Monastery Library en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín de la Library de Scarlet Monastery en WoW Forever: los objetos de Houndmaster Loksey y Arcanist Doan, el nuevo Houndmaster Boomerang y las recompensas de las misiones."
 short: "SM Library"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel tiene la Scarlet Monastery Library en WoW Forever?"
-    a: "El juego da un rango de 33 a 41. Houndmaster Loksey es de nivel 34 y Arcanist Doan de nivel 37."
+    a: "Niveles 29 a 39. Puedes entrar desde el nivel 21. Houndmaster Loksey es de nivel 34 y Arcanist Doan de nivel 37."
   - q: "¿Dónde está la Scarlet Key?"
     a: "En Doan's Strongbox, detrás de Arcanist Doan al final de la Library. Abre la Armory y la Cathedral; un Rogue con Lockpicking 175 también puede abrirlas."
   - q: "¿Ha cambiado el botín de la Library en WoW Forever?"

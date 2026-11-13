@@ -3,12 +3,12 @@ title: "Ragefire Chasm"
 metaTitle: "Ragefire Chasm in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in Ragefire Chasm in WoW Forever: die zwölf blauen Gegenstände von Oggleflint, Taragaman the Hungerer, Jergosh the Invoker und Bazzalan und die Belohnungen der Quests."
 short: "Ragefire Chasm"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat Ragefire Chasm in WoW Forever?"
-    a: "Das Spiel nennt Stufe 13 bis 18. Die Bosse sind Stufe 16, und die Quests kannst du ab Stufe 9 annehmen."
+    a: "Stufe 13 bis 18. Betreten kannst du ihn ab Stufe 10. Die Bosse sind Stufe 16, und die Quests kannst du ab Stufe 9 annehmen."
   - q: "Wo ist der Eingang von Ragefire Chasm?"
     a: "In der Cleft of Shadow in Orgrimmar, bei /way 53.0 48.9. Spieler der Horde gehen direkt zum Portal; für die Alliance ist es ein langer Geisterlauf durch die Stadt."
   - q: "Kann die Alliance die Quests von Ragefire Chasm machen?"

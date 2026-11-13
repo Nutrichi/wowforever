@@ -3,12 +3,12 @@ title: "Wailing Caverns"
 metaTitle: "Wailing Caverns dans WoW Forever : butin, boss et objets"
 description: "Tout le butin de Wailing Caverns dans WoW Forever : les objets des quatre Lords of the Fang, de Kresh, Skum, Verdan et Mutanus, le set Embrace of the Viper et les récompenses des quêtes."
 short: "Wailing Caverns"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Wailing Caverns dans WoW Forever ?"
-    a: "Blizzard indique 15 à 24. Les boss sont de niveau 20 à 22."
+    a: "Niveaux 15 à 25. Vous pouvez y entrer dès le niveau 10. Les boss sont de niveau 20 à 22."
   - q: "Où se trouve l’entrée de Wailing Caverns ?"
     a: "Dans une grotte du ravin au sud de la Lushwater Oasis dans The Barrens, en /way 46.0 36.3, au sud-ouest des Crossroads."
   - q: "Les deux factions peuvent-elles faire les quêtes de Wailing Caverns ?"

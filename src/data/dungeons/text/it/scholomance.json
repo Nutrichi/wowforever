@@ -1,6 +1,6 @@
 {
  "location": "Western Plaguelands, su Caer Darrow",
- "entrance": "La cripta sull'isola di Caer Darrow, a sud-est delle Western Plaguelands. La porta richiede la Skeleton Key.",
+ "entrance": "La cripta sull'isola di Caer Darrow, a sud-est delle Western Plaguelands. La porta richiede la Skeleton Key. L’ingresso è a /way 69.8 76.0.",
  "quests": {
   "5343": {
    "objective": "Raccogli i quattro atti in Scholomance: Southshore, Tarren Mill, Brill e Caer Darrow.",

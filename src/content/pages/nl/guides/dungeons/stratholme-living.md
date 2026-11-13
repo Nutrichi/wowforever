@@ -3,11 +3,11 @@ title: "Stratholme Living"
 metaTitle: "Stratholme Living in WoW Forever: loot, bazen en drops"
 description: "De loot van de levende kant van Stratholme in WoW Forever: wat er in de data van Forever staat, en de drops uit Classic van elke baas van Skul tot Balnazzar."
 short: "Stratholme Living"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 faq:
   - q: "Welk level is Stratholme Living in WoW Forever?"
-    a: "Level 58 tot 60. De bazen zijn level 57 tot 62 in de data van Forever."
+    a: "Levels 58 tot 60. Je kunt erin vanaf level 48. De bazen zijn level 57 tot 62 in de data van Forever."
   - q: "Waar is de ingang van Stratholme Living?"
     a: "Aan het einde van de stenen brug in het noordwesten van de Eastern Plaguelands. De hoofdpoort leidt rechtstreeks naar de levende kant."
   - q: "Welke sleutel heb je nodig voor Stratholme Living?"

@@ -1,6 +1,6 @@
 {
  "location": "Western Plaguelands, op Caer Darrow",
- "entrance": "De crypte op het eiland Caer Darrow in het zuidoosten van de Western Plaguelands. De deur vraagt de Skeleton Key.",
+ "entrance": "De crypte op het eiland Caer Darrow in het zuidoosten van de Western Plaguelands. De deur vraagt de Skeleton Key. De ingang ligt op /way 69.8 76.0.",
  "quests": {
   "5343": {
    "objective": "Verzamel de vier akten in Scholomance: Southshore, Tarren Mill, Brill en Caer Darrow.",

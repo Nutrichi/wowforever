@@ -3,12 +3,12 @@ title: "Blackfathom Deeps"
 metaTitle: "Blackfathom Deeps in WoW Forever: loot, bazen en drops"
 description: "Elke drop in Blackfathom Deeps in WoW Forever: de loot van alle zeven de bazen van Ghamoo-ra tot Aku'mai, de nieuwe loot van Lorgus Jett, de blauwe drops van de monsters en de beloningen van de quests."
 short: "Blackfathom Deeps"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Blackfathom Deeps in WoW Forever?"
-    a: "Het spel geeft 24 tot 32. De bazen zijn level 25 tot 28."
+    a: "Levels 24 tot 32. Je kunt erin vanaf level 15. De bazen zijn level 25 tot 28."
   - q: "Waar is de ingang van Blackfathom Deeps?"
     a: "In het noordwesten van Ashenvale, in verzonken ruïnes van de Night Elves aan de Zoram Strand, op /way 14.5 14.6. Zwem door de poel onderaan en volg een smalle grot vol elite naga naar het portaal."
   - q: "Heeft Blackfathom Deeps quests voor beide facties?"

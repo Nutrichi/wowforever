@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Armory"
 metaTitle: "Scarlet Monastery Armory in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in der Armory von Scarlet Monastery in WoW Forever: die Drops von Herod, der Ravager mit seiner neuen Verlangsamung, die Chain of the Scarlet Crusade und die Belohnungen der Quests."
 short: "SM Armory"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat die Scarlet Monastery Armory in WoW Forever?"
-    a: "Das Spiel nennt Stufe 36 bis 44. Herod ist Stufe 40."
+    a: "Stufe 32 bis 42. Betreten kannst du ihn ab Stufe 21. Herod ist Stufe 40."
   - q: "Braucht man einen Schlüssel für die Armory?"
     a: "Ja. Ein Spieler der Gruppe braucht The Scarlet Key aus der Library, oder man braucht einen Rogue mit Lockpicking 175."
   - q: "Hat sich die Beute von Herod in WoW Forever geändert?"

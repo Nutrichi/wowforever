@@ -3,11 +3,11 @@ title: "Scarlet Monastery: Cathedral"
 metaTitle: "Scarlet Monastery Cathedral in WoW Forever: loot, bosses and drops"
 description: "Every drop in the Cathedral of Scarlet Monastery in WoW Forever: the loot of High Inquisitor Fairbanks, Scarlet Commander Mograine and High Inquisitor Whitemane, and the quest rewards."
 short: "SM Cathedral"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is the Scarlet Monastery Cathedral in WoW Forever?"
-    a: "The game gives a range of 38 to 46. Fairbanks is level 40, Mograine and Whitemane level 42."
+    a: "Levels 35 to 45. You can enter from level 21. Fairbanks is level 40, Mograine and Whitemane level 42."
   - q: "Do you need a key for the Cathedral?"
     a: "Yes. One player in the group needs The Scarlet Key from the Library, or a Rogue with Lockpicking 175."
   - q: "Has the loot of the Cathedral changed in WoW Forever?"

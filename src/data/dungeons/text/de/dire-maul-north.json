@@ -1,6 +1,6 @@
 {
  "location": "Feralas, in der Mitte",
- "entrance": "Durch die Tür in der Nordmauer des zentralen Hofs von Dire Maul, mit dem Crescent Key aus Dire Maul East.",
+ "entrance": "Durch die Tür in der Nordmauer des zentralen Hofs von Dire Maul, mit dem Crescent Key aus Dire Maul East. Dire Maul selbst liegt bei /way 58.9 41.5.",
  "quests": {
   "1193": {"objective": "Repariere die Broken Trap auf dem Weg von Guard Slip'kik mit einem Frost Oil und einem Thorium Widget.", "note": "Frost Oil kommt aus Alchemy, das Thorium Widget aus Engineering; beides gibt es auch im Auktionshaus. Die Falle friert Slip'kik für den Tribute Run ein."},
   "5518": {"objective": "Bring Knot Thimblejack 8 Rugged Leather, 4 Bolts of Runecloth, 2 Rune Thread und ein Ogre Tannin.", "note": "Das Ogre Tannin liegt in einem Korb oben, hinter der ersten Rampe. Mit Leatherworking oder Tailoring brauchst du die Hälfte der Materialien. Der Anzug täuscht Captain Kromcrush."},

@@ -3,7 +3,7 @@ title: "Upper Blackrock Spire"
 metaTitle: "De gids van Upper Blackrock Spire voor WoW Forever: route en bazen"
 description: "Zo speel je Upper Blackrock Spire in WoW Forever: de weg naar boven in Blackrock Mountain, de Seal of Ascension, Emberseer, de Rookery, Rend Blackhand en Gyth, The Beast en General Drakkisath."
 short: "Gids"
-updated: 2026-10-28
+updated: 2026-11-13
 lang: nl
 manual: true
 sources:
@@ -13,7 +13,7 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "guide"
 ---
-Deze gids volgt de dungeon zoals hij in Classic was, waar Upper Blackrock Spire een dungeon voor 10 spelers was. Of Forever die grootte houdt en of de dungeon verandert, heeft Blizzard niet gezegd.
+Deze gids volgt de dungeon zoals hij in Classic was. Upper Blackrock Spire is ook in Forever een dungeon voor 10 spelers; of de dungeon zelf verandert, heeft Blizzard niet gezegd.
 
 ## De weg erheen
 
@@ -62,5 +62,5 @@ Het zwaarste gevecht van de dungeon. Elke tank neemt een Chromatic Elite Guard; 
 
 - **De beloningen** van de twaalf quests in de data van Forever.
 - **De loot**: 37 van de 40 items uit Classic staan nog niet in de data van Forever.
-- **De groepsgrootte**: 10 spelers in Classic; wat Forever doet, heeft Blizzard niet gezegd.
+- **De groepsgrootte**: 10 spelers, zoals in Classic.
 - **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden. In Classic werd Lord Valthalak in de Furnace opgeroepen voor de quests van Tier 0.5; of die quests in Forever bestaan, is niet bekend.

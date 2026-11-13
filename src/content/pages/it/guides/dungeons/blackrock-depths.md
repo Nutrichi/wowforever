@@ -3,12 +3,12 @@ title: "Blackrock Depths"
 metaTitle: "Blackrock Depths in WoW Forever: bottino, boss e drop"
 description: "Il bottino di Blackrock Depths in WoW Forever: i 29 oggetti del diario di Classic presenti nei dati di Forever, e i drop dei diciannove scontri che non ci sono ancora."
 short: "Blackrock Depths"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: it
 manual: true
 faq:
   - q: "Di che livello è Blackrock Depths in WoW Forever?"
-    a: "La nostra panoramica dei dungeon dà da 50 a 60. I boss sono di livello da 51 a 59 nei dati di Forever."
+    a: "Livelli da 52 a 60. Puoi entrare dal livello 48. I boss sono di livello da 51 a 59 nei dati di Forever."
   - q: "Dov’è l’ingresso di Blackrock Depths?"
     a: "In fondo a Blackrock Mountain, tra la Searing Gorge e le Burning Steppes. Scendi lungo le grandi catene e attraversa la Grinding Quarry fino alla Masonry; il portale è nell’angolo in fondo."
   - q: "Come si ottiene la Shadowforge Key?"

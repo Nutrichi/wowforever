@@ -3,12 +3,12 @@ title: "Dire Maul North"
 metaTitle: "Dire Maul North en WoW Forever: botín, jefes y drops"
 description: "El botín de Dire Maul North en WoW Forever: los drops de Classic de los guardias Gordok, Captain Kromcrush, Cho'Rush the Observer y King Gordok, y el Tribute Run."
 short: "Dire Maul North"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿De qué nivel es Dire Maul North en WoW Forever?"
-    a: "Nuestro resumen de mazmorras da de 56 a 60. Los jefes son de nivel 59 a 62 en los datos de Forever."
+    a: "Niveles 58 a 60. Puedes entrar desde el nivel 48. Los jefes son de nivel 59 a 62 en los datos de Forever."
   - q: "¿Cómo se entra en Dire Maul North?"
     a: "Por la puerta del muro norte del patio central de Dire Maul, con la Crescent Key de Dire Maul East."
   - q: "¿Qué es un Tribute Run?"

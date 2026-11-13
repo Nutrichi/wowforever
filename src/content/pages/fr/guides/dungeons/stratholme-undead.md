@@ -3,11 +3,11 @@ title: "Stratholme Undead"
 metaTitle: "Stratholme Undead dans WoW Forever : butin, boss et drops"
 description: "Le butin du côté mort-vivant de Stratholme dans WoW Forever : ce que contiennent les données de Forever, Deathcharger's Reins, et les drops de Classic jusqu'à Baron Rivendare."
 short: "Stratholme Undead"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: fr
 faq:
   - q: "Quel est le niveau de Stratholme Undead dans WoW Forever ?"
-    a: "Niveau 58 à 60. Les boss sont de niveau 58 à 62 dans les données de Forever."
+    a: "Niveaux 58 à 60. Vous pouvez y entrer dès le niveau 48. Les boss sont de niveau 58 à 62 dans les données de Forever."
   - q: "Où est l'entrée de Stratholme Undead ?"
     a: "Par l'Eastwall Gate, un peu à l'est de la porte principale, au nord-ouest des Eastern Plaguelands. Elle demande la Key to the City, que laisse tomber Magistrate Barthilas."
   - q: "Baron Rivendare laisse-t-il tomber Deathcharger's Reins dans WoW Forever ?"

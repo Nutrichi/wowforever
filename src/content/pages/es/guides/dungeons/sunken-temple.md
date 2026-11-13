@@ -3,12 +3,12 @@ title: "Sunken Temple"
 metaTitle: "Sunken Temple en WoW Forever: botín, jefes y drops"
 description: "El botín del Sunken Temple en WoW Forever: los drops de Jammal'an the Prophet, los Wardens of the Dream, la Shade of Eranikus y el Avatar of Hakkar, siete de ellos en los datos de Forever."
 short: "Sunken Temple"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿De qué nivel es el Sunken Temple en WoW Forever?"
-    a: "Nuestro resumen de mazmorras da de 46 a 54. Los jefes son de nivel 50 a 55 en los datos de Forever."
+    a: "Niveles 50 a 60. Puedes entrar desde el nivel 45. Los jefes son de nivel 50 a 55 en los datos de Forever."
   - q: "¿Dónde está la entrada del Sunken Temple?"
     a: "En el lago del centro del Swamp of Sorrows. Nada hasta el templo, baja hasta el Hall of Bones y cruza la puerta ancha hacia el portal."
   - q: "¿Cómo se invoca a Atal'alarion?"

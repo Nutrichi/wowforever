@@ -1,6 +1,6 @@
 {
  "location": "Blackrock Mountain, tra la Searing Gorge e le Burning Steppes",
- "entrance": "In fondo a Blackrock Mountain: giù per le catene, attraverso la Grinding Quarry fino alla Masonry. Il portale è nell’angolo in fondo.",
+ "entrance": "In fondo a Blackrock Mountain: giù per le catene, attraverso la Grinding Quarry fino alla Masonry. Il portale è nell’angolo in fondo. Blackrock Mountain si trova a /way 35.2 84.2, nella Searing Gorge.",
  "quests": {
   "4081": {"objective": "Uccidi 15 Anvilrage Guardsmen, 10 Anvilrage Wardens e 5 Anvilrage Footmen.", "note": "Inizia dal Wanted Poster di Kargath. Fai rapporto a Warlord Goretooth."},
   "4082": {"objective": "Uccidi 10 Anvilrage Medics, 10 Anvilrage Soldiers e 10 Anvilrage Officers.", "note": "Segue il primo manifesto. Fai rapporto a Warlord Goretooth."},

@@ -1,6 +1,6 @@
 {
  "location": "Blackrock Mountain, tra la Searing Gorge e le Burning Steppes",
- "entrance": "Dal portale di Blackrock Spire, in alto in Blackrock Mountain: la porta accanto alla pietra d’incontro, poi il sentiero verso l’alto.",
+ "entrance": "Dal portale di Blackrock Spire, in alto in Blackrock Mountain: la porta accanto alla pietra d’incontro, poi il sentiero verso l’alto. Blackrock Mountain si trova a /way 35.2 84.2, nella Searing Gorge.",
  "quests": {
   "4724": {"objective": "Uccidi Halycon, la madre del branco dei worg Bloodaxe."},
   "4981": {"objective": "Scopri cosa è successo a Bijou in Blackrock Spire.", "note": "Bijou si trova nel dungeon e poi dà Bijou's Belongings."},

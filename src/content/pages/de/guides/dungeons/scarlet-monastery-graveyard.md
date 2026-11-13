@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Graveyard"
 metaTitle: "Scarlet Monastery Graveyard in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute im Graveyard von Scarlet Monastery in WoW Forever: die Drops von Interrogator Vishas und Bloodmage Thalnos, die drei Rares und die Chain of the Scarlet Crusade."
 short: "SM Graveyard"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat der Scarlet Monastery Graveyard in WoW Forever?"
-    a: "Das Spiel nennt Stufe 30 bis 38. Interrogator Vishas ist Stufe 32 und Bloodmage Thalnos Stufe 34."
+    a: "Stufe 28 bis 38. Betreten kannst du ihn ab Stufe 21. Interrogator Vishas ist Stufe 32 und Bloodmage Thalnos Stufe 34."
   - q: "Wo ist der Eingang des Scarlet Monastery?"
     a: "Am Ostende von Tirisfal Glades, bei /way 85.1 31.4. Jeder der vier Flügel hat einen eigenen Eingang; Graveyard und Library sind für alle offen."
   - q: "Hat sich die Beute des Graveyard in WoW Forever geändert?"

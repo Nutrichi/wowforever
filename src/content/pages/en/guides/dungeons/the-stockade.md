@@ -3,13 +3,13 @@ title: "The Stockade"
 metaTitle: "The Stockade in WoW Forever: loot, bosses and drops"
 description: "Every drop in the Stockade in WoW Forever: the new blue loot of Targorr, Kam Deepfury, Hamhock, Dextren Ward and Bazil Thredd, the rare Bruegal Ironknuckle and the quest rewards."
 short: "The Stockade"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is the Stockade in WoW Forever?"
-    a: "The game gives a range of 24 to 32. The bosses are level 24 to 29."
+    a: "Levels 22 to 30. You can enter from level 15. The bosses are level 24 to 29."
   - q: "Where is the entrance to the Stockade?"
-    a: "In the canals of Stormwind City, near the Mage Quarter, at /way 50.4 66.2. Warden Thelwater stands just outside."
+    a: "In the canals of Stormwind City, near the Mage Quarter, at /way 41.0 57.0. Warden Thelwater stands just outside."
   - q: "Can the Horde do the Stockade?"
     a: "Only with great difficulty: the prison is in the middle of Stormwind. All six quests are Alliance quests."
   - q: "Do the bosses of the Stockade drop loot in WoW Forever?"

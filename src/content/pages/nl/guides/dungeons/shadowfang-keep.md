@@ -3,12 +3,12 @@ title: "Shadowfang Keep"
 metaTitle: "Shadowfang Keep in WoW Forever: loot, bazen en drops"
 description: "Elke drop in Shadowfang Keep in WoW Forever: de loot van alle acht de bazen van Rethilgore tot Archmage Arugal, de Fel Steed Saddlebags, de drops van de trash en de beloningen van de quests."
 short: "Shadowfang Keep"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Shadowfang Keep in WoW Forever?"
-    a: "Het spel geeft 20 tot 30. De bazen zijn level 20 tot 26."
+    a: "Levels 22 tot 30. Je kunt erin vanaf level 14. De bazen zijn level 20 tot 26."
   - q: "Waar is de ingang van Shadowfang Keep?"
     a: "In Silverpine Forest, in de bergen net ten noorden van Pyrewood Village, op /way 44.5 68.0."
   - q: "Heeft Shadowfang Keep quests voor de Alliance?"

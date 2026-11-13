@@ -1,6 +1,6 @@
 {
  "location": "Blackrock Mountain, between the Searing Gorge and the Burning Steppes",
- "entrance": "Deep in Blackrock Mountain: down the chains, through the Grinding Quarry to the Masonry. The portal is in the far corner.",
+ "entrance": "Deep in Blackrock Mountain: down the chains, through the Grinding Quarry to the Masonry. The portal is in the far corner. Blackrock Mountain is at /way 35.2 84.2 in the Searing Gorge.",
  "quests": {
   "4081": {
    "objective": "Kill 15 Anvilrage Guardsmen, 10 Anvilrage Wardens and 5 Anvilrage Footmen.",

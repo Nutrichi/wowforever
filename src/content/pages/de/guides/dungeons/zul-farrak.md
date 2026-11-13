@@ -3,12 +3,12 @@ title: "Zul'Farrak"
 metaTitle: "Zul'Farrak in WoW Forever: Beute, Bosse und Drops"
 description: "Die Beute von Zul'Farrak in WoW Forever: die Drops von Antu'sul, Zum'rah, Gahz'rilla, Nekrum und Sezz'ziz und Chief Ukorz Sandscalp, geprüft in den Daten von Forever."
 short: "Zul'Farrak"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welches Level hat Zul'Farrak in WoW Forever?"
-    a: "Unsere Dungeonübersicht nennt 40 bis 50. Die Bosse sind in den Daten von Forever Level 45 bis 48."
+    a: "Stufe 44 bis 54. Betreten kannst du ihn ab Stufe 39. Die Bosse sind in den Daten von Forever Level 45 bis 48."
   - q: "Wo ist der Eingang von Zul'Farrak?"
     a: "In der Nordwestecke von Tanaris, bei /way 39 20, nordwestlich von Gadgetzan."
   - q: "Wie beschwört man Gahz'rilla?"

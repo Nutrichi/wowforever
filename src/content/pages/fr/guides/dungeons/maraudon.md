@@ -3,12 +3,12 @@ title: "Maraudon"
 metaTitle: "Maraudon dans WoW Forever : butin, boss et drops"
 description: "Le butin de Maraudon dans WoW Forever : les drops des huit boss, de Noxxion à Princess Theradras, vérifiés dans les données de Forever, et ce qui manque encore."
 short: "Maraudon"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour Maraudon dans WoW Forever ?"
-    a: "Notre aperçu des donjons donne 41 à 50. Les boss sont de niveau 47 à 51 dans les données de Forever."
+    a: "Niveaux 45 à 57, selon l'aile : Wicked Grotto (violet) et Foulspore Cavern (orange) 45 à 53, Earth Song Falls (intérieur) 48 à 57. Vous pouvez y entrer dès le niveau 30."
   - q: "Où est l’entrée de Maraudon ?"
     a: "Dans la Valley of Spears, à l’ouest de Desolace. Une porte de pierre sur le côté ouest de la vallée mène à des grottes pleines d’élites, puis aux portails orange et violet."
   - q: "À quoi sert le Scepter of Celebras ?"

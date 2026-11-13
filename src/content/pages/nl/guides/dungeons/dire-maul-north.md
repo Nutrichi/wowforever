@@ -3,12 +3,12 @@ title: "Dire Maul North"
 metaTitle: "Dire Maul North in WoW Forever: loot, bazen en drops"
 description: "De loot van Dire Maul North in WoW Forever: de drops uit Classic van de Gordok-wachters, Captain Kromcrush, Cho'Rush the Observer en King Gordok, en de Tribute Run."
 short: "Dire Maul North"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Dire Maul North in WoW Forever?"
-    a: "Ons dungeonoverzicht geeft 56 tot 60. De bazen zijn level 59 tot 62 in de data van Forever."
+    a: "Levels 58 tot 60. Je kunt erin vanaf level 48. De bazen zijn level 59 tot 62 in de data van Forever."
   - q: "Hoe kom je in Dire Maul North?"
     a: "Via de deur in de noordmuur van de centrale binnenplaats van Dire Maul, met de Crescent Key uit Dire Maul East."
   - q: "Wat is een Tribute Run?"

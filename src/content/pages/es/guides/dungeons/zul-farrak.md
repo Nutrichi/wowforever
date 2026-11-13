@@ -3,12 +3,12 @@ title: "Zul'Farrak"
 metaTitle: "Zul'Farrak en WoW Forever: botín, jefes y drops"
 description: "El botín de Zul'Farrak en WoW Forever: los drops de Antu'sul, Zum'rah, Gahz'rilla, Nekrum y Sezz'ziz y Chief Ukorz Sandscalp, comprobados en los datos de Forever."
 short: "Zul'Farrak"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿De qué nivel es Zul'Farrak en WoW Forever?"
-    a: "Nuestro resumen de mazmorras da 40 a 50. Los jefes son de nivel 45 a 48 en los datos de Forever."
+    a: "Niveles 44 a 54. Puedes entrar desde el nivel 39. Los jefes son de nivel 45 a 48 en los datos de Forever."
   - q: "¿Dónde está la entrada de Zul'Farrak?"
     a: "En la esquina noroeste de Tanaris, en /way 39 20, al noroeste de Gadgetzan."
   - q: "¿Cómo se invoca a Gahz'rilla?"

@@ -1,6 +1,6 @@
 {
  "location": "Eastern Plaguelands, in the northwest",
- "entrance": "The main gate of Stratholme at the end of the stone bridge in the northwest of the Eastern Plaguelands. It leads straight into the Living side.",
+ "entrance": "The main gate of Stratholme at the end of the stone bridge in the northwest of the Eastern Plaguelands. It leads straight into the Living side. The entrance is at /way 30.9 15.2.",
  "quests": {
   "5848": {
    "objective": "Find the painting Of Love and Family in the Scarlet Bastion. It hangs behind the Unfinished Painting in the room of Archivist Galford.",

@@ -3,12 +3,12 @@ title: "Razorfen Kraul"
 metaTitle: "Razorfen Kraul in WoW Forever: loot, bazen en drops"
 description: "Elke drop in Razorfen Kraul in WoW Forever: de loot van Roogug, Aggem Thorncurse, Death Speaker Jargba, Ramtusk, Agathelos en Charlga Razorflank, de drops van de rares en de beloningen van de quests."
 short: "Razorfen Kraul"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Razorfen Kraul in WoW Forever?"
-    a: "Het spel geeft 29 tot 38. De bazen zijn level 28 tot 33."
+    a: "Levels 30 tot 40. Je kunt erin vanaf level 25. De bazen zijn level 28 tot 33."
   - q: "Waar is de ingang van Razorfen Kraul?"
     a: "In de doornstruiken aan de zuidpunt van The Barrens, net voor de Great Lift naar Thousand Needles, op /way 42.3 89.9. Sla voor de lift af naar het westen."
   - q: "Is de loot van Razorfen Kraul veranderd in WoW Forever?"

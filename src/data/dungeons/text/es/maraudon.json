@@ -1,6 +1,6 @@
 {
  "location": "Desolace, en el Valley of Spears",
- "entrance": "En el Valley of Spears, al oeste de Desolace. Una puerta de piedra en el lado oeste del valle lleva a cuevas llenas de élites; allí el camino se divide hacia el portal naranja y el morado.",
+ "entrance": "En el Valley of Spears, al oeste de Desolace. Una puerta de piedra en el lado oeste del valle lleva a cuevas llenas de élites; allí el camino se divide hacia el portal naranja y el morado. La entrada está en /way 29.5 57.8.",
  "quests": {
   "7068": {
    "objective": "Consigue 10 Shadowshard Fragments de los Shadowshard Rumblers y Smashers, elementales élite en las cuevas fuera de los portales."

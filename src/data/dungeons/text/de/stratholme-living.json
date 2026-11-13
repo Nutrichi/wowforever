@@ -1,6 +1,6 @@
 {
  "location": "Eastern Plaguelands, im Nordwesten",
- "entrance": "Das Haupttor von Stratholme am Ende der Steinbrücke im Nordwesten der Eastern Plaguelands. Es führt direkt auf die lebende Seite.",
+ "entrance": "Das Haupttor von Stratholme am Ende der Steinbrücke im Nordwesten der Eastern Plaguelands. Es führt direkt auf die lebende Seite. Der Eingang liegt bei /way 30.9 15.2.",
  "quests": {
   "5848": {
    "objective": "Finde das Gemälde Of Love and Family in der Scarlet Bastion. Es hängt hinter dem Unfinished Painting im Raum von Archivist Galford.",

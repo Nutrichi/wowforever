@@ -3,14 +3,14 @@ title: "The Stockade"
 metaTitle: "The Stockade en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín de The Stockade en WoW Forever: el nuevo botín azul de Targorr, Kam Deepfury, Hamhock, Dextren Ward y Bazil Thredd, el raro Bruegal Ironknuckle y las recompensas de las misiones."
 short: "The Stockade"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel tiene The Stockade en WoW Forever?"
-    a: "El juego da un rango de 24 a 32. Los jefes son de nivel 24 a 29."
+    a: "Niveles 22 a 30. Puedes entrar desde el nivel 15. Los jefes son de nivel 24 a 29."
   - q: "¿Dónde está la entrada de The Stockade?"
-    a: "En los canales de Stormwind City, junto al Mage Quarter, en /way 50.4 66.2. Warden Thelwater está justo fuera."
+    a: "En los canales de Stormwind City, junto al Mage Quarter, en /way 41.0 57.0. Warden Thelwater está justo fuera."
   - q: "¿Puede la Horde hacer The Stockade?"
     a: "Solo con mucha dificultad: la prisión está en pleno Stormwind. Las seis misiones son de la Alliance."
   - q: "¿Sueltan botín los jefes de The Stockade en WoW Forever?"

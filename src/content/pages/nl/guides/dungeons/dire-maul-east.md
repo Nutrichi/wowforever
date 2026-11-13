@@ -3,12 +3,12 @@ title: "Dire Maul East"
 metaTitle: "Dire Maul East in WoW Forever: loot, bazen en drops"
 description: "De loot van Dire Maul East in WoW Forever: de drops uit Classic van Lethtendris, Zevrim Thornhoof, Hydrospawn en Alzzin the Wildshaper, en wat de data van Forever tot nu toe bevat."
 short: "Dire Maul East"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is Dire Maul East in WoW Forever?"
-    a: "Ons dungeonoverzicht geeft 54 tot 60. De bazen zijn level 57 en 58 in de data van Forever."
+    a: "Levels 58 tot 60. Je kunt erin vanaf level 48. De bazen zijn level 57 en 58 in de data van Forever."
   - q: "Waar is de ingang van Dire Maul East?"
     a: "Dire Maul ligt midden in Feralas. De oostvleugel heeft een deur in de oostmuur van de centrale binnenplaats, een vanaf Eldreth Row, en een achterdeur bij het Lariss Pavilion die de Crescent Key vraagt."
   - q: "Waar haal je de Crescent Key?"

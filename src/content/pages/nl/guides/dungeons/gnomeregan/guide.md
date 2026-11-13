@@ -15,7 +15,7 @@ dungeon:
 ---
 ## De weg erheen
 
-**Alliance.** Rij vanuit Ironforge naar het westen, naar het Train Depot, de voorpoort van Gnomeregan in het westen van Dun Morogh op /way 17.7 39.2.
+**Alliance.** Rij vanuit Ironforge naar het westen, naar het Train Depot, de voorpoort van Gnomeregan in het westen van Dun Morogh op /way 30.5 36.3.
 
 **Horde.** Pik Rig Wars op bij Nogg in Orgrimmar, en dan Chief Engineer Scooty bij Sovik naast hem. Neem de boot van Ratchet naar Booty Bay, waar Scooty op de kade bij de herberg staat. Zijn Gnomer-gooooone! geeft de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9173"><img class="wf-wh__icon" src="/wh/inv_battery_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goblin Transponder</a>, die je naar Gnomeregan straalt. Hou hem voor latere runs.
 

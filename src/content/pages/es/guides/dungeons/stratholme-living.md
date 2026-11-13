@@ -3,11 +3,11 @@ title: "Stratholme Living"
 metaTitle: "Stratholme Living en WoW Forever: botín, jefes y drops"
 description: "El botín del lado vivo de Stratholme en WoW Forever: lo que hay en los datos de Forever y los drops de Classic de cada jefe, de Skul a Balnazzar."
 short: "Stratholme Living"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: es
 faq:
   - q: "¿Qué nivel tiene Stratholme Living en WoW Forever?"
-    a: "Nivel 58 a 60. Los jefes son de nivel 57 a 62 en los datos de Forever."
+    a: "Niveles 58 a 60. Puedes entrar desde el nivel 48. Los jefes son de nivel 57 a 62 en los datos de Forever."
   - q: "¿Dónde está la entrada de Stratholme Living?"
     a: "Al final del puente de piedra, en el noroeste de las Eastern Plaguelands. La puerta principal lleva directamente al lado vivo."
   - q: "¿Qué llave necesitas para Stratholme Living?"

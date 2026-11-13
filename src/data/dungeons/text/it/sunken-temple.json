@@ -1,6 +1,6 @@
 {
  "location": "Swamp of Sorrows, nel lago al centro",
- "entrance": "Nuota fino al tempio nel lago, scendi nella Hall of Bones e attraversa la porta larga verso il portale.",
+ "entrance": "Nuota fino al tempio nel lago, scendi nella Hall of Bones e attraversa la porta larga verso il portale. L’ingresso è a /way 69.6 53.2.",
  "quests": {
   "1445": {"objective": "Raccogli 20 Fetishes of Hakkar dai troll del tempio.", "note": "Prima vengono tre missioni."},
   "4146": {"objective": "Raccogli 5 campioni di Atal'ai Haze con l’Unloaded Zapper e portali a Larion a Marshal's Refuge.", "note": "La foschia viene dai Deep Lurkers, dai Murk Worms e dalle melme del tempio. Prima vengono due missioni."},

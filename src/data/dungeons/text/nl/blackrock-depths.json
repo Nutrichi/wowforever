@@ -1,6 +1,6 @@
 {
  "location": "Blackrock Mountain, tussen de Searing Gorge en de Burning Steppes",
- "entrance": "Diep in Blackrock Mountain: langs de kettingen naar beneden, door de Grinding Quarry naar de Masonry. Het portaal staat in de verste hoek.",
+ "entrance": "Diep in Blackrock Mountain: langs de kettingen naar beneden, door de Grinding Quarry naar de Masonry. Het portaal staat in de verste hoek. Blackrock Mountain ligt op /way 35.2 84.2 in de Searing Gorge.",
  "quests": {
   "4081": {"objective": "Dood 15 Anvilrage Guardsmen, 10 Anvilrage Wardens en 5 Anvilrage Footmen.", "note": "Start bij de Wanted Poster in Kargath. Meld je bij Warlord Goretooth."},
   "4082": {"objective": "Dood 10 Anvilrage Medics, 10 Anvilrage Soldiers en 10 Anvilrage Officers.", "note": "Volgt op de eerste poster. Meld je bij Warlord Goretooth."},

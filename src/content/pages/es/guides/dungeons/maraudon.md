@@ -3,12 +3,12 @@ title: "Maraudon"
 metaTitle: "Maraudon en WoW Forever: botín, jefes y drops"
 description: "El botín de Maraudon en WoW Forever: los drops de los ocho jefes, de Noxxion a Princess Theradras, comprobados en los datos de Forever, y lo que aún falta."
 short: "Maraudon"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿De qué nivel es Maraudon en WoW Forever?"
-    a: "Nuestro resumen de mazmorras da 41 a 50. Los jefes son de nivel 47 a 51 en los datos de Forever."
+    a: "Niveles 45 a 57, por ala: Wicked Grotto (morado) y Foulspore Cavern (naranja) 45 a 53, Earth Song Falls (interior) 48 a 57. Puedes entrar desde el nivel 30."
   - q: "¿Dónde está la entrada de Maraudon?"
     a: "En el Valley of Spears, al oeste de Desolace. Una puerta de piedra en el lado oeste del valle lleva a cuevas llenas de élites, y de allí a los portales naranja y morado."
   - q: "¿Para qué sirve el Scepter of Celebras?"

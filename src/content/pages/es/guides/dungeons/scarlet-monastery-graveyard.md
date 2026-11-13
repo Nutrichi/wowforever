@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Graveyard"
 metaTitle: "Scarlet Monastery Graveyard en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín del Graveyard de Scarlet Monastery en WoW Forever: los objetos de Interrogator Vishas y Bloodmage Thalnos, los tres raros y la Chain of the Scarlet Crusade."
 short: "SM Graveyard"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel tiene el Scarlet Monastery Graveyard en WoW Forever?"
-    a: "El juego da un rango de 30 a 38. Interrogator Vishas es de nivel 32 y Bloodmage Thalnos de nivel 34."
+    a: "Niveles 28 a 38. Puedes entrar desde el nivel 21. Interrogator Vishas es de nivel 32 y Bloodmage Thalnos de nivel 34."
   - q: "¿Dónde está la entrada del Scarlet Monastery?"
     a: "En el extremo este de Tirisfal Glades, en /way 85.1 31.4. Cada una de las cuatro alas tiene su propia entrada; el Graveyard y la Library están abiertos a todos."
   - q: "¿Ha cambiado el botín del Graveyard en WoW Forever?"

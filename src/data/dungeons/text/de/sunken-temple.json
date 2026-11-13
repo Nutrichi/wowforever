@@ -1,6 +1,6 @@
 {
  "location": "Swamp of Sorrows, im See in der Mitte",
- "entrance": "Schwimm zum Tempel im See, geh hinunter in die Hall of Bones und durch die breite Tür zum Portal.",
+ "entrance": "Schwimm zum Tempel im See, geh hinunter in die Hall of Bones und durch die breite Tür zum Portal. Der Eingang liegt bei /way 69.6 53.2.",
  "quests": {
   "1445": {"objective": "Sammle 20 Fetishes of Hakkar von den Trollen im Tempel.", "note": "Vorher kommen drei Quests."},
   "4146": {"objective": "Sammle mit dem Unloaded Zapper 5 Proben Atal'ai Haze und bring sie zu Larion in Marshal's Refuge.", "note": "Der Dunst kommt von den Deep Lurkers, Murk Worms und Schlammen im Tempel. Vorher kommen zwei Quests."},

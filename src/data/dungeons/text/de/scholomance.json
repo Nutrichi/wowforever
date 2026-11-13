@@ -1,6 +1,6 @@
 {
  "location": "Western Plaguelands, auf Caer Darrow",
- "entrance": "Die Gruft auf der Insel Caer Darrow im Südosten der Western Plaguelands. Die Tür braucht den Skeleton Key.",
+ "entrance": "Die Gruft auf der Insel Caer Darrow im Südosten der Western Plaguelands. Die Tür braucht den Skeleton Key. Der Eingang liegt bei /way 69.8 76.0.",
  "quests": {
   "5343": {
    "objective": "Sammle die vier Urkunden in Scholomance: Southshore, Tarren Mill, Brill und Caer Darrow.",

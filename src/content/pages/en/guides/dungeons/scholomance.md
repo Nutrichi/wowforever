@@ -3,11 +3,11 @@ title: "Scholomance"
 metaTitle: "Scholomance in WoW Forever: loot, bosses and drops"
 description: "The loot of Scholomance in WoW Forever: what the Forever data holds, and the Classic drops of every boss from Kirtonos the Herald to Darkmaster Gandling."
 short: "Scholomance"
-updated: 2026-11-12
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Scholomance in WoW Forever?"
-    a: "Level 58 to 60. The bosses are level 58 to 62 in the Forever data."
+    a: "Levels 58 to 60. You can enter from level 48. The bosses are level 58 to 62 in the Forever data."
   - q: "Where is the entrance to Scholomance?"
     a: "On the island of Caer Darrow in the southeast of the Western Plaguelands. The door needs the Skeleton Key."
   - q: "How do you get the Skeleton Key?"

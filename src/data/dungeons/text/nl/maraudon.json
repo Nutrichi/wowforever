@@ -1,6 +1,6 @@
 {
  "location": "Desolace, in de Valley of Spears",
- "entrance": "In de Valley of Spears in het westen van Desolace. Een stenen deur aan de westkant van de vallei leidt naar grotten vol elites; daar splitst het pad naar het oranje en het paarse portaal.",
+ "entrance": "In de Valley of Spears in het westen van Desolace. Een stenen deur aan de westkant van de vallei leidt naar grotten vol elites; daar splitst het pad naar het oranje en het paarse portaal. De ingang ligt op /way 29.5 57.8.",
  "quests": {
   "7068": {
    "objective": "Verzamel 10 Shadowshard Fragments van de Shadowshard Rumblers en Smashers, elite elementals in de grotten buiten de portalen."

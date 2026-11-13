@@ -1,6 +1,6 @@
 {
  "location": "Dun Morogh, sous le Train Depot",
- "entrance": "La porte principale du Train Depot, à l’ouest de Dun Morogh, en /way 17.7 39.2. La porte arrière, au nord, demande la Workshop Key ou un Rogue avec Lockpicking 150.",
+ "entrance": "La porte principale du Train Depot, à l’ouest de Dun Morogh, en /way 30.5 36.3. La porte arrière, au nord, demande la Workshop Key ou un Rogue avec Lockpicking 150.",
  "quests": {
   "2922": {
    "objective": "Tuez Techbot et rapportez son Memory Core à Tinkmaster Overspark.",

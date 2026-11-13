@@ -3,12 +3,12 @@ title: "The Deadmines"
 metaTitle: "The Deadmines dans WoW Forever : butin, boss et objets"
 description: "Tout le butin de The Deadmines dans WoW Forever : les objets de Rhahk'Zor, Sneed, Gilnid, Mr. Smite, Cookie, Greenskin et VanCleef, le set Defias Leather, Partners in Crime et les récompenses des quêtes."
 short: "The Deadmines"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: fr
 manual: true
 faq:
   - q: "Quel niveau pour The Deadmines dans WoW Forever ?"
-    a: "Le jeu indique 17 à 26. Les boss sont de niveau 19 à 21."
+    a: "Niveaux 18 à 23. Vous pouvez y entrer dès le niveau 10. Les boss sont de niveau 19 à 21."
   - q: "Où se trouve l’entrée de The Deadmines ?"
     a: "Dans Westfall, dans la Defias Hideout, le grand bâtiment au sud-ouest de Moonbrook, en /way 42 72. Le portail se trouve tout en bas des grottes situées dessous."
   - q: "Le butin de The Deadmines a-t-il changé dans WoW Forever ?"

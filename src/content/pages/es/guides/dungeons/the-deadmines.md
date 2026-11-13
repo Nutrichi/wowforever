@@ -3,12 +3,12 @@ title: "The Deadmines"
 metaTitle: "The Deadmines en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín de The Deadmines en WoW Forever: los objetos de Rhahk'Zor, Sneed, Gilnid, Mr. Smite, Cookie, Greenskin y VanCleef, el set Defias Leather, Partners in Crime y las recompensas de las misiones."
 short: "The Deadmines"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel tiene The Deadmines en WoW Forever?"
-    a: "El juego da un rango de 17 a 26. Los jefes son de nivel 19 a 21."
+    a: "Niveles 18 a 23. Puedes entrar desde el nivel 10. Los jefes son de nivel 19 a 21."
   - q: "¿Dónde está la entrada de The Deadmines?"
     a: "En Westfall, dentro de la Defias Hideout, el edificio grande del suroeste de Moonbrook, en /way 42 72. El portal está al fondo de las cuevas que hay debajo."
   - q: "¿Ha cambiado el botín de The Deadmines en WoW Forever?"

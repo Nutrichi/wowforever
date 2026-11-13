@@ -3,12 +3,12 @@ title: "The Deadmines"
 metaTitle: "The Deadmines in WoW Forever: Beute, Bosse und Drops"
 description: "Alle Beute in The Deadmines in WoW Forever: die Drops von Rhahk'Zor, Sneed, Gilnid, Mr. Smite, Cookie, Greenskin und VanCleef, das Set Defias Leather, Partners in Crime und die Belohnungen der Quests."
 short: "The Deadmines"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welche Stufe hat The Deadmines in WoW Forever?"
-    a: "Das Spiel nennt Stufe 17 bis 26. Die Bosse sind Stufe 19 bis 21."
+    a: "Stufe 18 bis 23. Betreten kannst du ihn ab Stufe 10. Die Bosse sind Stufe 19 bis 21."
   - q: "Wo ist der Eingang von The Deadmines?"
     a: "In Westfall, im Defias Hideout, dem großen Gebäude im Südwesten von Moonbrook bei /way 42 72. Das Portal liegt ganz unten in den Höhlen darunter."
   - q: "Hat sich die Beute von The Deadmines in WoW Forever geändert?"

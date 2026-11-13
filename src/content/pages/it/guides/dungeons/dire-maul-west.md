@@ -3,12 +3,12 @@ title: "Dire Maul West"
 metaTitle: "Dire Maul West in WoW Forever: bottino, boss e drop"
 description: "Il bottino di Dire Maul West in WoW Forever: i drop di Classic di Tendris Warpwood, Illyanna Ravenoak, Magister Kalendris, Immol'thar e Prince Tortheldrin."
 short: "Dire Maul West"
-updated: 2026-10-28
+updated: 2026-11-13
 lang: it
 manual: true
 faq:
   - q: "Di che livello è Dire Maul West in WoW Forever?"
-    a: "La nostra panoramica dei dungeon dà da 56 a 60. I boss sono di livello 60 e 61 nei dati di Forever."
+    a: "Livelli da 58 a 60. Puoi entrare dal livello 48. I boss sono di livello 60 e 61 nei dati di Forever."
   - q: "Come si entra in Dire Maul West?"
     a: "Dalle due porte nel muro ovest del cortile centrale di Dire Maul. Un giocatore del gruppo ha bisogno della Crescent Key, che Pusillin lascia in Dire Maul East."
   - q: "Come si arriva a Immol'thar?"

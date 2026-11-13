@@ -3,12 +3,12 @@ title: "Lower Blackrock Spire"
 metaTitle: "Lower Blackrock Spire en WoW Forever: botín, jefes y drops"
 description: "El botín de Lower Blackrock Spire en WoW Forever: los drops de Classic de los nueve jefes, de Highlord Omokk a Overlord Wyrmthalak, y los dos objetos de los datos de Forever."
 short: "Lower Blackrock Spire"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿De qué nivel es Lower Blackrock Spire en WoW Forever?"
-    a: "Nuestro resumen de mazmorras da de 55 a 60. Los jefes son de nivel 58 a 60 en los datos de Forever."
+    a: "Niveles 55 a 60. Puedes entrar desde el nivel 48. Los jefes son de nivel 58 a 60 en los datos de Forever."
   - q: "¿Dónde está la entrada de Lower Blackrock Spire?"
     a: "En lo alto de Blackrock Mountain, entre la Searing Gorge y las Burning Steppes. Toma la puerta junto a la piedra de encuentro de Blackrock Spire y sigue el camino hasta el portal."
   - q: "¿Cómo se invoca a Urok Doomhowl?"

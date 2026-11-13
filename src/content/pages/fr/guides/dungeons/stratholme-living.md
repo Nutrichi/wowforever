@@ -3,11 +3,11 @@ title: "Stratholme Living"
 metaTitle: "Stratholme Living dans WoW Forever : butin, boss et drops"
 description: "Le butin du côté vivant de Stratholme dans WoW Forever : ce que contiennent les données de Forever, et les drops de Classic de chaque boss, de Skul à Balnazzar."
 short: "Stratholme Living"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: fr
 faq:
   - q: "Quel est le niveau de Stratholme Living dans WoW Forever ?"
-    a: "Niveau 58 à 60. Les boss sont de niveau 57 à 62 dans les données de Forever."
+    a: "Niveaux 58 à 60. Vous pouvez y entrer dès le niveau 48. Les boss sont de niveau 57 à 62 dans les données de Forever."
   - q: "Où est l'entrée de Stratholme Living ?"
     a: "Au bout du pont de pierre, au nord-ouest des Eastern Plaguelands. La porte principale mène directement au côté vivant."
   - q: "Quelle clé faut-il pour Stratholme Living ?"

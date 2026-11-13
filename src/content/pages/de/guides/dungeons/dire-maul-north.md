@@ -3,12 +3,12 @@ title: "Dire Maul North"
 metaTitle: "Dire Maul North in WoW Forever: Beute, Bosse und Drops"
 description: "Die Beute von Dire Maul North in WoW Forever: die Drops aus Classic der Gordok-Wachen, von Captain Kromcrush, Cho'Rush the Observer und King Gordok, und der Tribute Run."
 short: "Dire Maul North"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: de
 manual: true
 faq:
   - q: "Welches Level hat Dire Maul North in WoW Forever?"
-    a: "Unsere Dungeonübersicht nennt 56 bis 60. Die Bosse sind in den Daten von Forever Level 59 bis 62."
+    a: "Stufe 58 bis 60. Betreten kannst du ihn ab Stufe 48. Die Bosse sind in den Daten von Forever Level 59 bis 62."
   - q: "Wie kommt man in Dire Maul North?"
     a: "Durch die Tür in der Nordmauer des zentralen Hofs von Dire Maul, mit dem Crescent Key aus Dire Maul East."
   - q: "Was ist ein Tribute Run?"

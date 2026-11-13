@@ -3,12 +3,12 @@ title: "Wailing Caverns"
 metaTitle: "Wailing Caverns en WoW Forever: botín, jefes y objetos"
 description: "Todo el botín de Wailing Caverns en WoW Forever: los objetos de los cuatro Lords of the Fang, Kresh, Skum, Verdan y Mutanus, el set Embrace of the Viper y las recompensas de las misiones."
 short: "Wailing Caverns"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: es
 manual: true
 faq:
   - q: "¿Qué nivel tiene Wailing Caverns en WoW Forever?"
-    a: "Blizzard da un rango de 15 a 24. Los jefes son de nivel 20 a 22."
+    a: "Niveles 15 a 25. Puedes entrar desde el nivel 10. Los jefes son de nivel 20 a 22."
   - q: "¿Dónde está la entrada de Wailing Caverns?"
     a: "En una cueva del barranco al sur de la Lushwater Oasis, en The Barrens, en /way 46.0 36.3, al suroeste de los Crossroads."
   - q: "¿Pueden las dos facciones hacer las misiones de Wailing Caverns?"

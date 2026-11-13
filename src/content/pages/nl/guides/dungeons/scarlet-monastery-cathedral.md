@@ -3,12 +3,12 @@ title: "Scarlet Monastery: Cathedral"
 metaTitle: "Scarlet Monastery Cathedral in WoW Forever: loot, bazen en drops"
 description: "Elke drop in de Cathedral van Scarlet Monastery in WoW Forever: de loot van High Inquisitor Fairbanks, Scarlet Commander Mograine en High Inquisitor Whitemane, en de beloningen van de quests."
 short: "SM Cathedral"
-updated: 2026-10-19
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
   - q: "Welk level is de Scarlet Monastery Cathedral in WoW Forever?"
-    a: "Het spel geeft 38 tot 46. Fairbanks is level 40, Mograine en Whitemane level 42."
+    a: "Levels 35 tot 45. Je kunt erin vanaf level 21. Fairbanks is level 40, Mograine en Whitemane level 42."
   - q: "Heb je een sleutel nodig voor de Cathedral?"
     a: "Ja. Eén speler in de groep heeft The Scarlet Key uit de Library nodig, of een Rogue met Lockpicking 175."
   - q: "Is de loot van de Cathedral veranderd in WoW Forever?"

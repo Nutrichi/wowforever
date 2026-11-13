@@ -3,11 +3,11 @@ title: "Dire Maul East"
 metaTitle: "Dire Maul East in WoW Forever: loot, bosses and drops"
 description: "The loot of Dire Maul East in WoW Forever: the Classic drops of Lethtendris, Zevrim Thornhoof, Hydrospawn and Alzzin the Wildshaper, and what the Forever data holds so far."
 short: "Dire Maul East"
-updated: 2026-11-08
+updated: 2026-11-13
 lang: en
 faq:
   - q: "What level is Dire Maul East in WoW Forever?"
-    a: "Our dungeon overview gives 54 to 60. The bosses are level 57 and 58 in the Forever data."
+    a: "Levels 58 to 60. You can enter from level 48. The bosses are level 57 and 58 in the Forever data."
   - q: "Where is the entrance to Dire Maul East?"
     a: "Dire Maul lies in the middle of Feralas. The east wing has a door on the east wall of the central courtyard, one from Eldreth Row, and a back door at the Lariss Pavilion that needs the Crescent Key."
   - q: "Where do you get the Crescent Key?"

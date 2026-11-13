@@ -3,11 +3,11 @@ title: "Scholomance"
 metaTitle: "Scholomance in WoW Forever: loot, bazen en drops"
 description: "De loot van Scholomance in WoW Forever: wat er in de data van Forever staat, en de drops uit Classic van elke baas van Kirtonos the Herald tot Darkmaster Gandling."
 short: "Scholomance"
-updated: 2026-11-12
+updated: 2026-11-13
 lang: nl
 faq:
   - q: "Welk level is Scholomance in WoW Forever?"
-    a: "Level 58 tot 60. De bazen zijn level 58 tot 62 in de data van Forever."
+    a: "Levels 58 tot 60. Je kunt erin vanaf level 48. De bazen zijn level 58 tot 62 in de data van Forever."
   - q: "Waar is de ingang van Scholomance?"
     a: "Op het eiland Caer Darrow in het zuidoosten van de Western Plaguelands. De deur vraagt de Skeleton Key."
   - q: "Hoe krijg je de Skeleton Key?"

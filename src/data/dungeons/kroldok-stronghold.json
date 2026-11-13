@@ -3,6 +3,41 @@
  "levels": "40–45",
  "bosses": [
   {
+   "name": "Slavecrusher Grox",
+   "slug": "slavecrusher-grox",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "Twilight Commander Zarmok",
+   "slug": "twilight-commander-zarmok",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "War Handler Ashka",
+   "slug": "war-handler-ashka",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "Nar'gurk",
+   "slug": "nargurk",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
+   "name": "Bossman Toof",
+   "slug": "bossman-toof",
+   "level": "",
+   "npc": null,
+   "items": []
+  },
+  {
    "name": "Overlord Mugg",
    "slug": "overlord-mugg",
    "level": "",
