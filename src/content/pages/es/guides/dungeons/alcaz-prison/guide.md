@@ -3,7 +3,7 @@ title: "Alcaz Prison"
 metaTitle: "Guía de Alcaz Prison para WoW Forever: entrada, historia, jefes"
 description: "Cómo llegar a Alcaz Prison en Alcaz Island en WoW Forever, qué espera en la vieja prisión y Blazeroar, el único jefe conocido."
 short: "Guía"
-updated: 2026-10-30
+updated: 2026-11-13
 lang: es
 manual: true
 sources:
@@ -25,12 +25,20 @@ Durante mucho tiempo se dijo que la prisión de Alcaz Island guardaba presos imp
 
 ## Los jefes
 
+### The Questioner
+
+El primer jefe. Déjalo con vida si quieres el disfraz secreto: la misión <a href="https://www.wowhead.com/forever/quest=96335">The Man in the Iron Chains</a>, al final de la mazmorra, te manda de vuelta a él.
+
 ### Blazeroar
 
 El único jefe conocido hasta ahora, nombrado en el desafío Legacy de la mazmorra.
+
+## El disfraz secreto
+
+Aquí empieza una cadena oculta que termina con la <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279471"><img class="wf-wh__icon" src="/wh/achievement_boss_edwinvancleef.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alcaz Operative Insignia</a>, un juguete que te disfraza de agente Defias durante 10 minutos. Limpia la mazmorra sin matar a The Questioner, coge <a href="https://www.wowhead.com/forever/quest=96335">The Man in the Iron Chains</a> al final y sigue el rastro hasta Moonbrook, en Westfall, y luego a Stormwind (Alliance) o Booty Bay (Horde) para una <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=279450"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fractured Insignia</a>. Seis de ellas forman el juguete. Los pasos están en [el artículo sobre el juguete](/es/news/alcaz-prison-hides-a-defias-disguise-toy/).
 
 ## Lo que aún no se sabe
 
 - **Los demás jefes** y cómo son los combates.
 - **El mapa** del interior.
-- **El botín** y **las misiones**.
+- **El botín** y **las demás misiones**.

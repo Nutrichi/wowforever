@@ -50,6 +50,8 @@ Un combattimento semplice in mischia. Backhand stordisce il tank principale; il 
 
 Il tank principale prende Gyth, il secondo tank Rend. Rend usa Whirlwind e Thunderclap; Gyth sputa Corrosive Acid e fuoco, quindi stai dietro di lui. Al 20% si separano: uccidi prima Gyth, poi Rend. Un giocatore che indossa il Seal of Ascension può usarlo per chiamare Vaelstrasz, che cura il gruppo.
 
+Rend lascia cadere la <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12630"><img class="wf-wh__icon" src="/wh/inv_misc_head_orc_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Head of Rend Blackhand</a>. In Forever la consegnano entrambe le fazioni: l'Horde per For The Horde! e Warchief's Blessing, l'Alliance a Master Mathias Shaw a Stormwind per <a href="https://www.wowhead.com/forever/quest=84377">End of the Dark Horde</a> e il world buff <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=460940"><img class="wf-wh__icon" src="/wh/spell_arcane_teleportstormwind.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Might of Stormwind</a>. I world buff non funzionano nei raid. Altro nel [post su Might of Stormwind](/it/news/alliance-gets-the-might-of-stormwind-world-buff/).
+
 ### The Beast
 
 Ripulisci prima la sala; potrebbero esserci Blackhand Assassins nascosti. Flamebreak colpisce tutti e li respinge, e spaventa e carica giocatori a caso. Il tank sta con la schiena contro un muro e resta alto in minaccia, così The Beast torna dal tank dopo una carica.

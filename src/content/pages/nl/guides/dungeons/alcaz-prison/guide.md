@@ -3,7 +3,7 @@ title: "Alcaz Prison"
 metaTitle: "Gids voor Alcaz Prison in WoW Forever: ingang, verhaal, bazen"
 description: "Hoe je Alcaz Prison op Alcaz Island in WoW Forever bereikt, wat er in de oude gevangenis wacht en Blazeroar, de enige bekende baas."
 short: "Gids"
-updated: 2026-10-30
+updated: 2026-11-13
 lang: nl
 manual: true
 sources:
@@ -25,12 +25,20 @@ De gevangenis op Alcaz Island zou lang belangrijke gevangenen hebben vastgehoude
 
 ## De bazen
 
+### The Questioner
+
+De eerste baas. Laat hem leven als je de geheime vermomming wilt: de quest <a href="https://www.wowhead.com/forever/quest=96335">The Man in the Iron Chains</a> aan het einde van de dungeon stuurt je naar hem terug.
+
 ### Blazeroar
 
 De enige baas die al bekend is, genoemd in de Legacy-uitdaging van de dungeon.
+
+## De geheime vermomming
+
+Hier begint een verborgen reeks die eindigt bij de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279471"><img class="wf-wh__icon" src="/wh/achievement_boss_edwinvancleef.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alcaz Operative Insignia</a>, een toy die je 10 minuten als Defias-agent vermomt. Ruim de dungeon op zonder The Questioner te doden, neem <a href="https://www.wowhead.com/forever/quest=96335">The Man in the Iron Chains</a> aan het einde, en volg dan het spoor naar Moonbrook in Westfall en verder naar Stormwind (Alliance) of Booty Bay (Horde) voor een <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=279450"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fractured Insignia</a>. Zes daarvan vormen de toy. De stappen staan in [de post over de toy](/nl/news/alcaz-prison-hides-a-defias-disguise-toy/).
 
 ## Wat nog niet bekend is
 
 - **De andere bazen** en hoe de gevechten werken.
 - **De kaart** van binnen.
-- **De buit** en **de quests**.
+- **De buit** en **de andere quests**.
