@@ -3,7 +3,7 @@ title: "Vluchtroutes: elke flight master in WoW Forever"
 metaTitle: "Vluchtroutes in WoW Forever: elke flight master, route en boot"
 description: "Elk vluchtpunt van WoW Forever voor de Alliance en de Horde: de flight master, de coördinaten en waar je naartoe vliegt, plus de vier nieuwe vluchtpunten en elke boot en zeppelin."
 short: "Flight Paths"
-updated: 2026-11-09
+updated: 2026-11-13
 lang: nl
 manual: true
 faq:
@@ -49,6 +49,16 @@ Op de kaart is een blauwe lijn een route van de Alliance en een rode lijn een ro
 | Tainted Foothills | beide facties | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260626">Bluebell</a> | 55.0 82.8 | Everlook, Summit of Eternity |
 
 [The Riverglades](/nl/forever/) is de nieuwe zone voor level 30 tot 45. Beide facties krijgen er een vluchtpunt dat de zone verbindt met de zones eromheen. De Alliance vliegt door naar Redridge Mountains, Loch Modan en Burning Steppes, de Horde naar Swamp of Sorrows, Arathi Highlands, Badlands en Burning Steppes. Powderfuse Port, waar het [Black Market Auction House](/nl/guides/bmah/) staat, heeft geen flight master. Rij erheen vanaf Farholde Keep, of neem de boot vanuit Steamwheedle Port.
+
+<figure class="wf-embed" data-wf-video="JYy08rjb3K4">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">How to get to the Riverglades in WoW Forever</span>
+      <span class="wf-embed__meta">Speel de video af. Nutri op YouTube, 6 minuten.</span>
+    </span>
+  </button>
+</figure>
 
 Mount Hyjal is het sluitstuk van het levelen, met een kamp waar Horde en Alliance samen zitten. Beide vluchtpunten op de berg dienen beide facties, en Tainted Foothills verbindt voor elke kant met Everlook in Winterspring.
 

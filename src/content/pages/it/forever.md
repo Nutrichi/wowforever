@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: lancio, raid, roadmap, Skyborne ed edizioni"
 description: "Tutto ciò che Blizzard ha annunciato su World of Warcraft: Forever: le date, la roadmap, le nuove zone, i dungeon e le incursioni, gli Skyborne, il sistema Legacy e le edizioni."
 short: "WoW Forever"
-updated: 2026-11-05
+updated: 2026-11-13
 lang: it
 manual: true
 faq:
@@ -171,6 +171,16 @@ La zona iniziale degli Skyborne: un’isola isolata nel cielo, ora minacciata ne
 ### The Riverglades, circa livelli da 30 a 45
 
 Una nuova frontiera negli Eastern Kingdoms, con fiumi, praterie, rotte commerciali e fortezze in rovina. Ha più di 150 nuove missioni, nuove reputazioni e ricompense. Ci vivono umani, orchi, ogre e piccole comunità con vecchi rancori; Blizzard l’ha descritta come «not a story about saving Azeroth, a story about living there». Un porto goblin neutrale aggiunge rotte di viaggio, e la zona ha un proprio dungeon. Un bivio in Redridge Mountains che prima finiva in un vicolo cieco ora porta fin qui. I giocatori dell’Alleanza incontrano la Brotherhood of the Horse, che non si vedeva da Warcraft II, e quelli dell’Orda un clan di ogre; il Twilight's Hammer è la minaccia, secondo [un video di Blizzard](/it/news/a-five-minute-video-sums-up-what-changes/) del 23 settembre. La Black Market Auction House di Forever si trova a Powderfuse Port, un avamposto goblin della zona; vedi la [guida alla BMAH](/it/guides/bmah/).
+
+<figure class="wf-embed" data-wf-video="JYy08rjb3K4">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">How to get to the Riverglades in WoW Forever</span>
+      <span class="wf-embed__meta">Avvia il video. Nutri su YouTube, 6 minuti.</span>
+    </span>
+  </button>
+</figure>
 
 ### Mount Hyjal, livellamento di fine gioco
 

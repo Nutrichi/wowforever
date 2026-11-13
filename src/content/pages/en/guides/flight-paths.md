@@ -3,7 +3,7 @@ title: "Flight paths: every flight master in WoW Forever"
 metaTitle: "WoW Forever flight paths: every flight master, route and boat"
 description: "Every flight point of WoW Forever for the Alliance and the Horde: the flight master, the coordinates and where it flies, plus the four new flight points and every boat and zeppelin."
 short: "Flight Paths"
-updated: 2026-11-09
+updated: 2026-11-13
 lang: en
 faq:
   - q: "How many flight points does WoW Forever have?"
@@ -48,6 +48,16 @@ On the map, a blue line is an Alliance route and a red line a Horde route. A das
 | Tainted Foothills | both factions | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260626">Bluebell</a> | 55.0 82.8 | Everlook, Summit of Eternity |
 
 [The Riverglades](/forever/) is the new zone for levels 30 to 45. Both factions get a flight point there that ties it to the zones around it. The Alliance flies on to Redridge Mountains, Loch Modan and Burning Steppes, the Horde to Swamp of Sorrows, Arathi Highlands, Badlands and Burning Steppes. Powderfuse Port, home of the [Black Market Auction House](/guides/bmah/), has no flight master. Ride there from Farholde Keep, or take the boat from Steamwheedle Port.
+
+<figure class="wf-embed" data-wf-video="JYy08rjb3K4">
+  <button type="button" class="wf-embed__play">
+    <span class="wf-embed__icon" aria-hidden="true"></span>
+    <span class="wf-embed__text">
+      <span class="wf-embed__title">How to get to the Riverglades in WoW Forever</span>
+      <span class="wf-embed__meta">Play the video. Nutri on YouTube, 6 minutes.</span>
+    </span>
+  </button>
+</figure>
 
 Mount Hyjal is the finale of leveling, with a camp where Horde and Alliance sit together. Both flight points on the mountain serve both factions, and Tainted Foothills links to Everlook in Winterspring for each side.
 
