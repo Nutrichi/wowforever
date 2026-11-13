@@ -1,7 +1,7 @@
 ---
 title: "Alliance bekommt den Weltbuff Might of Stormwind"
 description: "Spieler der Alliance verdienen Might of Stormwind mit dem Kopf von Rend Blackhand: 300 Gesundheit, 15 % Nahkampftempo und 10 Mana alle 5 Sekunden, das Gegenstück zu Warchief's Blessing der Horde."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-13T21:11:00+01:00
 category: forever
 lang: de
 manual: true
@@ -11,7 +11,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/might-of-stormwind-world-buff-returns-in-wow-forever-383857"
 tags: ["forever", "dungeon"]
 featured: false
-draft: true
+draft: false
 ---
 Die Alliance bekommt ihre eigene Version von Warchief's Blessing in World of Warcraft: Forever. Der Weltbuff <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=460940"><img class="wf-wh__icon" src="/wh/spell_arcane_teleportstormwind.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Might of Stormwind</a> geht an Spieler der Alliance, sobald der Kopf von Rend Blackhand abgegeben wird. Blizzard brachte ihn zuerst in Season of Discovery.
 
