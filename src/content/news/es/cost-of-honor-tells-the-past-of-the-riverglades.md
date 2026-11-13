@@ -1,7 +1,7 @@
 ---
 title: "Cost of Honor cuenta el pasado de las Riverglades"
 description: "En el nuevo relato corto de Blizzard, el Knight-Captain Demar Brant de Farholde Keep cuenta a los jóvenes de las Riverglades el Siege of Blackrock Spire, en un vídeo de 7 minutos y un PDF."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-13T21:26:00+01:00
 category: forever
 lang: es
 manual: true
@@ -11,7 +11,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-short-story-cost-of-honor-for-wow-forever-383868"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 ---
 Blizzard ha publicado Cost of Honor, un nuevo relato corto para World of Warcraft: Forever. El Knight-Captain Demar Brant de Farholde Keep cuenta a los jóvenes de las Riverglades las historias detrás de sus leyendas. Un vídeo narrado de 7 minutos salió el 13 de noviembre.
 
