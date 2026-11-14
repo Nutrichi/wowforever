@@ -1,7 +1,7 @@
 ---
 title: "Beim Absturz verlorenes Training gibt es als Gold"
 description: "Wer während des Serverabsturzes am Montag, 9. November, trainierte Fähigkeiten verlor, bekommt sein Gold zurück. Blizzard hat es per Ingame-Post an alle Betroffenen geschickt."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-14T10:25:00+01:00
 category: forever
 lang: de
 manual: true
@@ -11,7 +11,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/blizzard-refunding-gold-for-players-who-purchased-skills-during-monday-server-383875"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 ---
 Eine Fähigkeit während des Serverabsturzes von World of Warcraft: Forever am Montag trainiert und dann verloren? Blizzard zahlt das Gold zurück. Alle Betroffenen haben jetzt eine Ingame-Post mit den Kosten des gekauften und verlorenen Trainings.
 

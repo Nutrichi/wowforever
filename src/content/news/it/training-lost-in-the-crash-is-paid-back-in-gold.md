@@ -1,7 +1,7 @@
 ---
 title: "L'addestramento perso nel crash torna in oro"
 description: "Chi ha perso abilità addestrate durante il crash dei server di lunedì 9 novembre riceve indietro l'oro. Blizzard lo ha inviato per posta di gioco a tutti i giocatori colpiti."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-14T10:25:00+01:00
 category: forever
 lang: it
 manual: true
@@ -11,7 +11,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/blizzard-refunding-gold-for-players-who-purchased-skills-during-monday-server-383875"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 ---
 Hai perso un'abilità addestrata durante il crash dei server di World of Warcraft: Forever di lunedì? Blizzard restituisce l'oro. Tutti i giocatori colpiti hanno ora una posta di gioco con il costo dell'addestramento comprato e perso.
 

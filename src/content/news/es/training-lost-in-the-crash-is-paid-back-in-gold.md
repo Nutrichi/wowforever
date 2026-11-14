@@ -1,7 +1,7 @@
 ---
 title: "El entrenamiento perdido en la caída vuelve en oro"
 description: "Los jugadores que perdieron habilidades entrenadas durante la caída de los servidores del lunes 9 de noviembre recuperan su oro. Blizzard lo envió por correo del juego a todos los afectados."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-14T10:25:00+01:00
 category: forever
 lang: es
 manual: true
@@ -11,7 +11,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/blizzard-refunding-gold-for-players-who-purchased-skills-during-monday-server-383875"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 ---
 ¿Perdiste una habilidad que entrenaste durante la caída de los servidores de World of Warcraft: Forever el lunes? Blizzard devuelve el oro. Todos los afectados tienen ahora un correo del juego con el coste del entrenamiento que compraron y perdieron.
 

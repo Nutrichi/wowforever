@@ -1,7 +1,7 @@
 ---
 title: "Entraînement perdu au crash : l'or est rendu"
 description: "Les joueurs qui ont perdu des compétences apprises pendant le crash des serveurs du lundi 9 novembre récupèrent leur or. Blizzard l'a envoyé par courrier en jeu à tous les joueurs touchés."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-14T10:25:00+01:00
 category: forever
 lang: fr
 manual: true
@@ -11,7 +11,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/blizzard-refunding-gold-for-players-who-purchased-skills-during-monday-server-383875"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 ---
 Vous avez perdu une compétence apprise pendant le crash des serveurs de World of Warcraft: Forever lundi ? Blizzard rembourse l'or. Tous les joueurs touchés ont maintenant un courrier en jeu avec le coût de l'entraînement acheté puis perdu.
 

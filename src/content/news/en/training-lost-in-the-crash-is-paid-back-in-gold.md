@@ -1,7 +1,7 @@
 ---
 title: "Training lost in the crash is paid back in gold"
 description: "Players who lost skills they trained during the server crash of Monday 9 November get their gold back. Blizzard sent it by in-game mail to everyone affected."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-14T10:25:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-10-02-wow-forever-gold-pile.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/blizzard-refunding-gold-for-players-who-purchased-skills-during-monday-server-383875"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 ---
 Lost a skill you trained during the server crash of World of Warcraft: Forever on Monday? Blizzard pays the gold back. Everyone affected now has an in-game mail with the cost of the training they bought and lost.
 

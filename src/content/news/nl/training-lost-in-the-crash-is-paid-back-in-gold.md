@@ -1,7 +1,7 @@
 ---
 title: "Training kwijt door de crash? Je krijgt goud terug"
 description: "Wie tijdens de servercrash van maandag 9 november getrainde skills verloor, krijgt het goud terug. Blizzard stuurde het per in-game mail naar iedereen die getroffen was."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-14T10:25:00+01:00
 category: forever
 lang: nl
 manual: true
@@ -11,7 +11,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/blizzard-refunding-gold-for-players-who-purchased-skills-during-monday-server-383875"
 tags: ["forever"]
 featured: false
-draft: true
+draft: false
 ---
 Een skill getraind tijdens de servercrash van World of Warcraft: Forever op maandag en daarna kwijt? Blizzard betaalt het goud terug. Iedereen die getroffen was, heeft nu een in-game mail met de kosten van de training die verloren ging.
 
