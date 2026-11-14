@@ -40,8 +40,12 @@ El mapa de arriba muestra la ruta y los seis jefes en orden. La Q marca un punto
 5. **Bossman Toof**, de camino a la cima.
 6. **Overlord Mugg**, en lo alto de la fortaleza. Aparece en el desafío Legacy de la mazmorra y suelta <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a>, un objeto de misión.
 
+## La Krol'dok Battlegear
+
+La mazmorra tiene un set de placas de cinco piezas para tanques. Nar'gurk suelta el yelmo y la coraza, las otras tres piezas se ligan al equiparlas. Con las cinco, el set puede convertirte en ogro, mira [el post sobre el set](/es/news/the-kroldok-set-turns-your-tank-into-an-ogre/).
+
 ## Lo que aún no se sabe
 
 - **Cómo son los combates** y qué suelta cada jefe.
-- **El botín**, incluidas las piezas del set Krol'dok Battlegear.
+- **El botín** aparte de la Krol'dok Battlegear, y dónde caen las tres piezas que se ligan al equiparlas.
 - **Las misiones**, incluida la de los dos objetos <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267137"><img class="wf-wh__icon" src="/wh/inv_ingot_platinum.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Moulding</a>.

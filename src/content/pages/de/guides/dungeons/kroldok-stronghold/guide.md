@@ -40,8 +40,12 @@ Die Karte oben zeigt den Weg und die sechs Bosse in Reihenfolge. Q markiert eine
 5. **Bossman Toof**, auf dem Weg zur Spitze.
 6. **Overlord Mugg**, oben in der Festung. Er wird in der Legacy-Herausforderung des Dungeons genannt und droppt <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a>, ein Questitem.
 
+## Die Krol'dok Battlegear
+
+Der Dungeon hat ein Plattenset aus fünf Teilen für Tanks. Nar'gurk droppt Helm und Brustteil, die anderen drei Teile werden beim Anlegen gebunden. Mit allen fünf kann dich das Set in einen Oger verwandeln, siehe [den Beitrag zum Set](/de/news/the-kroldok-set-turns-your-tank-into-an-ogre/).
+
 ## Was noch nicht bekannt ist
 
 - **Wie die Kämpfe ablaufen** und welcher Boss was droppt.
-- **Die Beute**, auch die Teile des Sets Krol'dok Battlegear.
+- **Die Beute** neben der Krol'dok Battlegear, und wo die drei Teile droppen, die beim Anlegen gebunden werden.
 - **Die Quests**, auch die der zwei Items <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267137"><img class="wf-wh__icon" src="/wh/inv_ingot_platinum.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Moulding</a>.

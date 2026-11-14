@@ -40,8 +40,12 @@ La mappa in alto mostra il percorso e i sei boss in ordine. La Q segna un punto 
 5. **Bossman Toof**, sulla strada verso la cima.
 6. **Overlord Mugg**, in cima alla fortezza. È citato nella sfida Legacy del dungeon e lascia <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a>, un oggetto di missione.
 
+## La Krol'dok Battlegear
+
+Il dungeon ha un set di piastre di cinque pezzi per i tank. Nar'gurk lascia l'elmo e il pettorale, gli altri tre pezzi si vincolano quando indossati. Con tutti e cinque il set può trasformarti in un ogre, vedi [il post sul set](/it/news/the-kroldok-set-turns-your-tank-into-an-ogre/).
+
 ## Cosa non si sa ancora
 
 - **Come funzionano gli scontri** e cosa lascia ogni boss.
-- **Il bottino**, compresi i pezzi del set Krol'dok Battlegear.
+- **Il bottino** oltre alla Krol'dok Battlegear, e dove cadono i tre pezzi che si vincolano quando indossati.
 - **Le missioni**, compresa quella dei due oggetti <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267137"><img class="wf-wh__icon" src="/wh/inv_ingot_platinum.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Moulding</a>.

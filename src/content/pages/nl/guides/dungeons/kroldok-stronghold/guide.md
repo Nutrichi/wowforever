@@ -40,8 +40,12 @@ De kaart bovenaan toont de route en de zes bazen in volgorde. Q is een questplek
 5. **Bossman Toof**, op weg naar de top.
 6. **Overlord Mugg**, bovenaan het fort. Hij wordt genoemd in de Legacy-uitdaging van de dungeon en laat <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a> vallen, een questitem.
 
+## De Krol'dok Battlegear
+
+De dungeon heeft een plate-set van vijf stukken voor tanks. Nar'gurk laat de helm en het borststuk vallen, de andere drie stukken zijn bind on equip. Draag je alle vijf, dan kan de set je in een oger veranderen, zie [de post over de set](/nl/news/the-kroldok-set-turns-your-tank-into-an-ogre/).
+
 ## Wat nog niet bekend is
 
 - **Hoe de gevechten werken** en welke baas wat laat vallen.
-- **De buit**, ook de stukken van de set Krol'dok Battlegear.
+- **De buit**, buiten de Krol'dok Battlegear, en waar de drie stukken die bind on equip zijn vallen.
 - **De quests**, ook die van de twee items <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267137"><img class="wf-wh__icon" src="/wh/inv_ingot_platinum.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Moulding</a>.

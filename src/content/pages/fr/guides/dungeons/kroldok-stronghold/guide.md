@@ -40,8 +40,12 @@ La carte en haut montre le chemin et les six boss dans l'ordre. Q marque un lieu
 5. **Bossman Toof**, sur le chemin du sommet.
 6. **Overlord Mugg**, au sommet de la forteresse. Il est cité dans le défi Legacy du donjon et lâche <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a>, un objet de quête.
 
+## La Krol'dok Battlegear
+
+Le donjon a un set en plaques de cinq pièces pour les tanks. Nar'gurk lâche le casque et le plastron, les trois autres pièces sont liées quand équipées. Avec les cinq, le set peut vous changer en ogre, voir [le post sur le set](/fr/news/the-kroldok-set-turns-your-tank-into-an-ogre/).
+
 ## Ce qu'on ne sait pas encore
 
 - **Le déroulement des combats** et ce que lâche chaque boss.
-- **Le butin**, y compris les pièces du set Krol'dok Battlegear.
+- **Le butin** en dehors de la Krol'dok Battlegear, et où tombent les trois pièces liées quand équipées.
 - **Les quêtes**, y compris celle des deux objets <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267137"><img class="wf-wh__icon" src="/wh/inv_ingot_platinum.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Moulding</a>.

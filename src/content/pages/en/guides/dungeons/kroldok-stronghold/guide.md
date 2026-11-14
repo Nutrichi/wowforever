@@ -39,8 +39,12 @@ The map at the top shows the route and the six bosses in order. Q marks a quest 
 5. **Bossman Toof**, on the way up to the top.
 6. **Overlord Mugg**, at the top of the stronghold. He is named in the Legacy challenge of the dungeon and drops <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267086"><img class="wf-wh__icon" src="/wh/inv_misc_eye_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eye of Mugg</a>, a quest item.
 
+## The Krol'dok Battlegear
+
+The dungeon has a five-piece plate set for tanks. Nar'gurk drops the helmet and the chest, the other three pieces bind when equipped. Wear all five and the set can turn you into an ogre, see [the post about the set](/news/the-kroldok-set-turns-your-tank-into-an-ogre/).
+
 ## What is not known yet
 
 - **How the fights work** and which boss drops what.
-- **The loot**, including the pieces of the Krol'dok Battlegear set.
+- **The loot**, apart from the Krol'dok Battlegear, and where the three bind on equip pieces drop.
 - **The quests**, including the two <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267137"><img class="wf-wh__icon" src="/wh/inv_ingot_platinum.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Moulding</a> items that start one.
