@@ -99,7 +99,7 @@ Key Ingredients is part of the chain for the key of Krol'dok Stronghold, see bel
 The Bloodmaster's Ring is a fighting pit in the style of the Ring of Blood, at /way 65.6 21.4 in ogre territory. You fight ever stronger brawlers of the Bolder'ok, one at a time. Each fight gives about as much experience as a dungeon quest. On a PvP realm the pit can be busy with the other faction.
 
 1. <a href="https://www.wowhead.com/forever/quest=94668">Bloodmaster's Ring</a>: report to Jezap at the ring.
-2. <a href="https://www.wowhead.com/forever/quest=94669">Pay to Play</a>: pay the deposit to enter.
+2. <a href="https://www.wowhead.com/forever/quest=94669">Pay to Play</a>: pay the deposit of 1 gold to enter.
 3. Fights: <a href="https://www.wowhead.com/forever/quest=94670">Bloodmaster's Ring</a>, <a href="https://www.wowhead.com/forever/quest=94739">Bloodmaster's Ring</a>, <a href="https://www.wowhead.com/forever/quest=94962">Bloodmaster's Ring</a> and <a href="https://www.wowhead.com/forever/quest=94964">Bloodmaster's Ring</a>, against Mog'thar at level 43.
 4. Detour, not yet confirmed: <a href="https://www.wowhead.com/forever/quest=94733">Our Ogre Friend</a>, <a href="https://www.wowhead.com/forever/quest=94734">A Boar's Delight</a> and <a href="https://www.wowhead.com/forever/quest=94737">A Treat for a Friend</a>.
 5. Final fights: <a href="https://www.wowhead.com/forever/quest=94965">Bloodmaster's Ring</a> and <a href="https://www.wowhead.com/forever/quest=95063">Bloodmaster's Ring</a>.

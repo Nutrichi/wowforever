@@ -14,6 +14,7 @@
   "5047": {"objective": "Sprich mit Malyfous Darkhammer in Everlook.", "note": "Pip Quickwit erscheint nur, wenn ein Spieler mit Skinning 300 The Beast häutet."},
   "4735": {"objective": "Bring 8 Collected Dragon Eggs und das Collectronic Module zu Tinkee Steamboil.", "note": "Die Eier liegen in der Rookery; ein Ei zu nehmen kann die Welpen wecken. Vorher kommen sechs Quests von Tinkee."},
   "6821": {"objective": "Bring das Eye of the Emberseer zu Duke Hydraxis.", "note": "Erledige zuerst zwei Quests für Duke Hydraxis in Azshara. Die Reihe geht in Molten Core weiter."},
-  "5127": {"objective": "Töte Goraluk Anvilcrack, benutze die Blood Stained Pike an seiner Leiche und bring Lorax die Soul Stained Pike und die Unforged Rune Covered Breastplate.", "note": "Nur für Schmiede. In Classic war die Belohnung die Demon Forged Breastplate."}
+  "5127": {"objective": "Töte Goraluk Anvilcrack, benutze die Blood Stained Pike an seiner Leiche und bring Lorax die Soul Stained Pike und die Unforged Rune Covered Breastplate.", "note": "Nur für Schmiede. In Classic war die Belohnung die Demon Forged Breastplate."},
+  "84377": {"objective": "Bring den Kopf von Rend Blackhand zu Master Mathias Shaw in Stormwind.", "note": "Neu in Forever: Auch die Allianz gibt den Kopf von Rend ab und bekommt den Weltbuff Might of Stormwind."}
  }
 }

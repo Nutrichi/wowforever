@@ -100,7 +100,7 @@ Key Ingredients hoort bij de reeks voor de sleutel van Krol'dok Stronghold, zie 
 De Bloodmaster's Ring is een vechtkuil in de stijl van de Ring of Blood, op /way 65.6 21.4 in ogergebied. Je vecht een voor een tegen steeds sterkere vechters van de Bolder'ok. Elk gevecht geeft ongeveer zoveel experience als een dungeonquest. Op een PvP-realm kan het er druk zijn met de andere factie.
 
 1. <a href="https://www.wowhead.com/forever/quest=94668">Bloodmaster's Ring</a>: meld je bij Jezap aan de ring.
-2. <a href="https://www.wowhead.com/forever/quest=94669">Pay to Play</a>: betaal de borg om mee te doen.
+2. <a href="https://www.wowhead.com/forever/quest=94669">Pay to Play</a>: betaal de borg van 1 goud om mee te doen.
 3. Gevechten: <a href="https://www.wowhead.com/forever/quest=94670">Bloodmaster's Ring</a>, <a href="https://www.wowhead.com/forever/quest=94739">Bloodmaster's Ring</a>, <a href="https://www.wowhead.com/forever/quest=94962">Bloodmaster's Ring</a> en <a href="https://www.wowhead.com/forever/quest=94964">Bloodmaster's Ring</a>, tegen Mog'thar op level 43.
 4. Omweg, nog niet bevestigd: <a href="https://www.wowhead.com/forever/quest=94733">Our Ogre Friend</a>, <a href="https://www.wowhead.com/forever/quest=94734">A Boar's Delight</a> en <a href="https://www.wowhead.com/forever/quest=94737">A Treat for a Friend</a>.
 5. Laatste gevechten: <a href="https://www.wowhead.com/forever/quest=94965">Bloodmaster's Ring</a> en <a href="https://www.wowhead.com/forever/quest=95063">Bloodmaster's Ring</a>.

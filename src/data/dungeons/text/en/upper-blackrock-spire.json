@@ -14,6 +14,7 @@
   "5047": {"objective": "Talk to Malyfous Darkhammer in Everlook.", "note": "Pip Quickwit only appears when a player with Skinning 300 skins The Beast."},
   "4735": {"objective": "Bring 8 Collected Dragon Eggs and the Collectronic Module to Tinkee Steamboil.", "note": "The eggs lie in the Rookery; taking one can wake the whelps. Six quests of Tinkee come first."},
   "6821": {"objective": "Bring the Eye of the Emberseer to Duke Hydraxis.", "note": "First do two quests for Duke Hydraxis in Azshara. The chain continues in Molten Core."},
-  "5127": {"objective": "Kill Goraluk Anvilcrack, use the Blood Stained Pike on his body and bring Lorax the Soul Stained Pike and the Unforged Rune Covered Breastplate.", "note": "Blacksmiths only. In Classic the reward was the Demon Forged Breastplate."}
+  "5127": {"objective": "Kill Goraluk Anvilcrack, use the Blood Stained Pike on his body and bring Lorax the Soul Stained Pike and the Unforged Rune Covered Breastplate.", "note": "Blacksmiths only. In Classic the reward was the Demon Forged Breastplate."},
+  "84377": {"objective": "Take the Head of Rend Blackhand to Master Mathias Shaw in Stormwind.", "note": "New in Forever: the Alliance also turns in the head of Rend and gets the world buff Might of Stormwind."}
  }
 }

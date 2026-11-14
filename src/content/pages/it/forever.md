@@ -210,7 +210,7 @@ Tre nuove rotte navali collegano parti del mondo che prima non avevano un colleg
 - Menethil con Southshore e poi Auberdine, in tre tappe.
 - Le Riverglades con Steamwheedle Port, che apre il sud dei due continenti e collega a Gadgetzan.
 
-Cinque nuovi punti di volo entrano nella rete: Farholde Keep, Powderfuse Port e Rog'mar in The Riverglades, e Tainted Foothills e Summit of Eternity su Mount Hyjal. Portano undici rotte nuove, e nessuna rotta di Classic scompare. Ogni rotta di entrambe le fazioni è sulla mappa nell'[articolo sulle rotte di volo](/it/news/five-new-flight-points-bring-eleven-new-routes/).
+Quattro nuovi punti di volo entrano nella rete: Farholde Keep e Rog'mar in The Riverglades, e Tainted Foothills e Summit of Eternity su Mount Hyjal. Portano dieci rotte nuove, e nessuna rotta di Classic scompare. Powderfuse Port volava a Farholde Keep nella beta, ma quella rotta non c'è più nel gioco live. Ogni rotta di entrambe le fazioni è sulla mappa nell'[articolo sulle rotte di volo](/it/news/five-new-flight-points-bring-eleven-new-routes/).
 
 ## Dungeon e incursioni
 

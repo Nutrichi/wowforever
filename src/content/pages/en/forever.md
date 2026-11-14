@@ -209,7 +209,7 @@ Three new ship routes connect parts of the world that had no link before:
 - Menethil to Southshore and on to Auberdine, in three stops.
 - The Riverglades to Steamwheedle Port, which opens the south of both continents and connects to Gadgetzan.
 
-Five new flight points join the network: Farholde Keep, Powderfuse Port and Rog'mar in The Riverglades, and Tainted Foothills and Summit of Eternity on Mount Hyjal. They bring eleven new routes, and no route of Classic disappears. Every route for both factions is on the map in [the post about the flight paths](/news/five-new-flight-points-bring-eleven-new-routes/).
+Four new flight points join the network: Farholde Keep and Rog'mar in The Riverglades, and Tainted Foothills and Summit of Eternity on Mount Hyjal. They bring ten new routes, and no route of Classic disappears. Powderfuse Port flew to Farholde Keep on the beta, but that route is gone in the live game. Every route for both factions is on the map in [the post about the flight paths](/news/five-new-flight-points-bring-eleven-new-routes/).
 
 ## Dungeons and raids
 

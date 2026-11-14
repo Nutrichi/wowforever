@@ -536,6 +536,39 @@
     12849
    ],
    "choice": true
+  },
+  {
+   "id": 84377,
+   "name": "End of the Dark Horde",
+   "level": 60,
+   "minLevel": 55,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Head of Rend Blackhand",
+     "kind": "item",
+     "item": 12630,
+     "zone": "Blackrock Spire"
+    }
+   ],
+   "to": [
+    {
+     "name": "Master Mathias Shaw",
+     "kind": "npc",
+     "npc": 332,
+     "zone": "Stormwind City"
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
   }
  ],
  "cards": {

@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Actualización del 14 de noviembre:** la misión semanal ya está aquí: Pix Xizzix en Booty Bay paga hasta 100 de oro por tres objetos de Dire Maul, más en [nuestra noticia](/es/news/a-weekly-quest-at-level-60-pays-up-to-100-gold/).
+
 Las misiones de World of Warcraft: Forever ya no dan oro cuando llegas al nivel 60. Jokerd, uno de los [cinco primeros jugadores en llegar al 60](/es/news/five-players-hit-level-60-in-a-record-launch/), lo notó en directo. Un desarrollador le dijo que es a propósito.
 
 **Actualización del 10 de noviembre:** Blizzard confirma el cambio y lo explica. A cambio, añade oro a la mayoría de misiones desde el nivel 48, más en [nuestra noticia](/es/news/blizzard-adds-gold-to-quests-from-level-48/).

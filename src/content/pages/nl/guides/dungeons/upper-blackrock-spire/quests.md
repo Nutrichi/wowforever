@@ -1,9 +1,9 @@
 ---
 title: "Upper Blackrock Spire"
 metaTitle: "De quests van Upper Blackrock Spire in WoW Forever: start en reeksen"
-description: "Alle twaalf de quests van Upper Blackrock Spire in WoW Forever: het hoofd van Rend, het bloed van Drakkisath voor Onyxia, Blackhand's Command, de drakeneieren en het Eye of the Emberseer."
+description: "Alle dertien de quests van Upper Blackrock Spire in WoW Forever: het hoofd van Rend, het bloed van Drakkisath voor Onyxia, Blackhand's Command, de drakeneieren en het Eye of the Emberseer."
 short: "Quests"
-updated: 2026-11-13
+updated: 2026-11-14
 lang: nl
 manual: true
 sources:
@@ -13,6 +13,6 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "quests"
 ---
-Drie quests zijn voor de Horde, drie voor de Alliance en zes voor beide. De lange reeksen eindigen hier: For The Horde! vraagt het hoofd van Rend, en het bloed van General Drakkisath sluit aan beide kanten de attunement voor Onyxia's Lair af. Onyxia's Lair [houdt zijn attunement-reeks](/nl/news/onyxias-lair-keeps-its-attunement-quest-chain/) in Forever. Blackhand's Command start bij een item en leidde in Classic naar Blackwing Lair. Ook de Alliance levert in Forever het hoofd van Rend in: <a href="https://www.wowhead.com/forever/quest=84377">End of the Dark Horde</a> geeft de world buff [Might of Stormwind](/nl/news/alliance-gets-the-might-of-stormwind-world-buff/).
+Drie quests zijn voor de Horde, vier voor de Alliance en zes voor beide. De lange reeksen eindigen hier: For The Horde! vraagt het hoofd van Rend, en het bloed van General Drakkisath sluit aan beide kanten de attunement voor Onyxia's Lair af. Onyxia's Lair [houdt zijn attunement-reeks](/nl/news/onyxias-lair-keeps-its-attunement-quest-chain/) in Forever. Blackhand's Command start bij een item en leidde in Classic naar Blackwing Lair. Ook de Alliance levert in Forever het hoofd van Rend in: <a href="https://www.wowhead.com/forever/quest=84377">End of the Dark Horde</a> geeft de world buff [Might of Stormwind](/nl/news/alliance-gets-the-might-of-stormwind-world-buff/).
 
 De levels komen uit de data van Forever. De beloningen staan nog niet in die data, dus de kaarten hieronder zeggen dat; deze pagina vult ze aan zodra ze bekend zijn.

@@ -14,6 +14,7 @@
   "5047": {"objective": "Habla con Malyfous Darkhammer en Everlook.", "note": "Pip Quickwit solo aparece si un jugador con Skinning 300 despelleja a The Beast."},
   "4735": {"objective": "Lleva 8 Collected Dragon Eggs y el Collectronic Module a Tinkee Steamboil.", "note": "Los huevos están en la Rookery; coger uno puede despertar a las crías. Antes hay seis misiones de Tinkee."},
   "6821": {"objective": "Lleva el Eye of the Emberseer a Duke Hydraxis.", "note": "Haz primero dos misiones para Duke Hydraxis en Azshara. La cadena sigue en Molten Core."},
-  "5127": {"objective": "Mata a Goraluk Anvilcrack, usa la Blood Stained Pike en su cuerpo y lleva a Lorax la Soul Stained Pike y la Unforged Rune Covered Breastplate.", "note": "Solo para herreros. En Classic la recompensa era la Demon Forged Breastplate."}
+  "5127": {"objective": "Mata a Goraluk Anvilcrack, usa la Blood Stained Pike en su cuerpo y lleva a Lorax la Soul Stained Pike y la Unforged Rune Covered Breastplate.", "note": "Solo para herreros. En Classic la recompensa era la Demon Forged Breastplate."},
+  "84377": {"objective": "Lleva la cabeza de Rend Blackhand a Master Mathias Shaw en Stormwind.", "note": "Nuevo en Forever: la Alianza también entrega la cabeza de Rend y recibe el beneficio de mundo Might of Stormwind."}
  }
 }

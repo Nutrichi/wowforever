@@ -3,7 +3,7 @@ title: "Dire Maul North"
 metaTitle: "Die Quests von Dire Maul North in WoW Forever: Start und Reihen"
 description: "Alle fünf Quests von Dire Maul North in WoW Forever: die Broken Trap, der Gordok Ogre Suit und Free Knot! von Knot Thimblejack, Unfinished Gordok Business und der Taste Test."
 short: "Quests"
-updated: 2026-10-28
+updated: 2026-11-14
 lang: de
 manual: true
 sources:
@@ -16,3 +16,5 @@ dungeon:
 Alle fünf Quests beginnen in Dire Maul North und stehen beiden Fraktionen offen. Drei gehören zum Tribute Run: A Broken Trap für Guard Slip'kik, The Gordok Ogre Suit für Captain Kromcrush und The Gordok Taste Test nach King Gordok. Gib Free Knot! nicht vor dem Anzug ab: Knot Thimblejack geht danach weg.
 
 Die Level stammen aus den Daten von Forever. Die Belohnungen stehen dort noch nicht, also sagen die Karten unten das; diese Seite ergänzt sie, sobald sie bekannt sind.
+
+**Wochenquest auf Stufe 60.** <a href="https://www.wowhead.com/forever/quest=96076">In Demand - Ancient Elven Curiosities</a> von Pix Xizzix in Booty Bay verlangt hier den Earthstone Diamond Pinky Ring von King Gordok, dazu einen Gegenstand aus jedem der beiden anderen Flügel. Die Belohnung ist ein Beutel mit einem Gegenstand im Wert von bis zu 100 Gold, mehr in [unserem Post](/de/news/a-weekly-quest-at-level-60-pays-up-to-100-gold/).

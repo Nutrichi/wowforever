@@ -100,7 +100,7 @@ Key Ingredients fait partie de la série pour la clé de Krol'dok Stronghold, vo
 Le Bloodmaster's Ring est une arène dans le style du Ring of Blood, à /way 65.6 21.4 en territoire ogre. Vous affrontez un par un des bagarreurs Bolder'ok de plus en plus forts. Chaque combat rapporte à peu près autant d'expérience qu'une quête de donjon. Sur un royaume PvP, l'arène peut attirer l'autre faction.
 
 1. <a href="https://www.wowhead.com/forever/quest=94668">Bloodmaster's Ring</a> : présentez-vous à Jezap à l'arène.
-2. <a href="https://www.wowhead.com/forever/quest=94669">Pay to Play</a> : payez la caution pour participer.
+2. <a href="https://www.wowhead.com/forever/quest=94669">Pay to Play</a> : payez la caution de 1 pièce d'or pour participer.
 3. Combats : <a href="https://www.wowhead.com/forever/quest=94670">Bloodmaster's Ring</a>, <a href="https://www.wowhead.com/forever/quest=94739">Bloodmaster's Ring</a>, <a href="https://www.wowhead.com/forever/quest=94962">Bloodmaster's Ring</a> et <a href="https://www.wowhead.com/forever/quest=94964">Bloodmaster's Ring</a>, contre Mog'thar au niveau 43.
 4. Détour, pas encore confirmé : <a href="https://www.wowhead.com/forever/quest=94733">Our Ogre Friend</a>, <a href="https://www.wowhead.com/forever/quest=94734">A Boar's Delight</a> et <a href="https://www.wowhead.com/forever/quest=94737">A Treat for a Friend</a>.
 5. Derniers combats : <a href="https://www.wowhead.com/forever/quest=94965">Bloodmaster's Ring</a> et <a href="https://www.wowhead.com/forever/quest=95063">Bloodmaster's Ring</a>.

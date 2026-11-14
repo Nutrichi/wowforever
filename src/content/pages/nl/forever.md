@@ -210,7 +210,7 @@ Drie nieuwe scheepsroutes verbinden delen van de wereld die eerder geen verbindi
 - Menethil naar Southshore en verder naar Auberdine, in drie haltes.
 - The Riverglades naar Steamwheedle Port, wat het zuiden van beide continenten opent en aansluit op Gadgetzan.
 
-Vijf nieuwe vluchtpunten komen erbij: Farholde Keep, Powderfuse Port en Rog'mar in The Riverglades, en Tainted Foothills en Summit of Eternity op Mount Hyjal. Ze brengen elf nieuwe routes, en geen enkele route van Classic verdwijnt. Elke route voor beide facties staat op de kaart in [de post over de vluchtroutes](/nl/news/five-new-flight-points-bring-eleven-new-routes/).
+Vier nieuwe vluchtpunten komen erbij: Farholde Keep en Rog'mar in The Riverglades, en Tainted Foothills en Summit of Eternity op Mount Hyjal. Ze brengen tien nieuwe routes, en geen enkele route van Classic verdwijnt. Powderfuse Port vloog op de beta naar Farholde Keep, maar die route is weg in het live spel. Elke route voor beide facties staat op de kaart in [de post over de vluchtroutes](/nl/news/five-new-flight-points-bring-eleven-new-routes/).
 
 ## Dungeons en raids
 

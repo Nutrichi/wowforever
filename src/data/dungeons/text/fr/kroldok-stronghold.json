@@ -1,5 +1,15 @@
 {
  "location": "Riverglades, sur une colline au-dessus de Sunnyglade",
  "entrance": "Une grotte juste à l'ouest des grandes portes de la forteresse, à /way 37.5 37.5 dans les Riverglades, sur la colline au-dessus de Sunnyglade au nord de la zone.",
- "quests": {}
+ "quests": {
+  "94983": {"objective": "Récupérez 8 Twilight Bangles sur le Twilight's Hammer dans la forteresse.", "note": "Fait partie de la série de l'Alliance qui commence à Farholde Keep. Mène ensuite à Curios of Curiosity pour Melanie Sable."},
+  "94984": {"objective": "Tuez Nar'gurk et récupérez le Tome of Twilight.", "note": "S'ouvre après la série de l'Alliance à Farholde Keep : Curious Trinkets, Scraps of Knowledge et Saving Sunnyglade."},
+  "94982": {"objective": "Tuez Overlord Mugg et rapportez son œil à Commander Brant.", "note": "S'ouvre après la série de l'Alliance à Farholde Keep. Choisissez une arme ogre parmi trois."},
+  "94980": {"objective": "Trouvez quelqu'un à Farholde Keep qui connaît ce moule.", "note": "Tunk laisse la Krol'dok Moulding environ une fois sur deux. Key Ingredients demande ensuite 12 Iron Bars et 4 Thick Leather pour une clé vers un raccourci."},
+  "94975": {"objective": "Récupérez 15 Cultist Ears sur le Twilight's Hammer dans la forteresse.", "note": "Da'grosh attend dans les collines à l'ouest de Rog'mar, après la série de la Horde qui se termine par The Wayward Warrior."},
+  "94972": {"objective": "Récupérez le Tome of Twilight dans la forteresse.", "note": "S'ouvre après la série de la Horde de Krom'rosh à Rog'mar."},
+  "94968": {"objective": "Tuez Overlord Mugg et rapportez son œil à Krom'rosh.", "note": "S'ouvre après la série de la Horde de Krom'rosh à Rog'mar. Choisissez une arme ogre parmi trois."},
+  "94973": {"objective": "Trouvez quelqu'un à Rog'mar qui connaît ce moule.", "note": "Tunk laisse la Krol'dok Moulding environ une fois sur deux. Key Ingredients demande ensuite 12 Iron Bars et 4 Thick Leather pour une clé vers un raccourci."},
+  "96771": {"objective": "Rendez-vous dans la forteresse et tuez Zalfan Moonshadow.", "note": "Depuis Dalaran dans les Alterac Mountains, pour les deux factions."}
+ }
 }

@@ -14,6 +14,7 @@
   "5047": {"objective": "Parlez à Malyfous Darkhammer à Everlook.", "note": "Pip Quickwit n’apparaît que si un joueur avec Skinning 300 dépèce The Beast."},
   "4735": {"objective": "Apportez 8 Collected Dragon Eggs et le Collectronic Module à Tinkee Steamboil.", "note": "Les œufs se trouvent dans la Rookery ; en prendre un peut réveiller les dragonnets. Six quêtes de Tinkee viennent d’abord."},
   "6821": {"objective": "Apportez l’Eye of the Emberseer à Duke Hydraxis.", "note": "Faites d’abord deux quêtes pour Duke Hydraxis à Azshara. La chaîne continue dans Molten Core."},
-  "5127": {"objective": "Tuez Goraluk Anvilcrack, utilisez la Blood Stained Pike sur son corps et apportez à Lorax la Soul Stained Pike et l’Unforged Rune Covered Breastplate.", "note": "Forgerons uniquement. Dans Classic, la récompense était la Demon Forged Breastplate."}
+  "5127": {"objective": "Tuez Goraluk Anvilcrack, utilisez la Blood Stained Pike sur son corps et apportez à Lorax la Soul Stained Pike et l’Unforged Rune Covered Breastplate.", "note": "Forgerons uniquement. Dans Classic, la récompense était la Demon Forged Breastplate."},
+  "84377": {"objective": "Apportez la tête de Rend Blackhand à Master Mathias Shaw à Stormwind.", "note": "Nouveau dans Forever : l'Alliance rend aussi la tête de Rend et reçoit le buff mondial Might of Stormwind."}
  }
 }

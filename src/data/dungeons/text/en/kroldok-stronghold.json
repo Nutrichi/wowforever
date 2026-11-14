@@ -1,5 +1,15 @@
 {
  "location": "Riverglades, on a hill above Sunnyglade",
  "entrance": "A cave just west of the large gates of the fortress, at /way 37.5 37.5 in the Riverglades, on the hill above Sunnyglade on the north side of the zone.",
- "quests": {}
+ "quests": {
+  "94983": {"objective": "Collect 8 Twilight Bangles from the Twilight's Hammer in the stronghold.", "note": "Part of the Alliance chain that starts at Farholde Keep. Hand-in leads to Curios of Curiosity for Melanie Sable."},
+  "94984": {"objective": "Kill Nar'gurk and recover the Tome of Twilight.", "note": "Opens after the Alliance chain at Farholde Keep: Curious Trinkets, Scraps of Knowledge and Saving Sunnyglade."},
+  "94982": {"objective": "Kill Overlord Mugg and bring his eye back to Commander Brant.", "note": "Opens after the Alliance chain at Farholde Keep. Choose one of three ogre weapons."},
+  "94980": {"objective": "Find someone in Farholde Keep who knows about the mould.", "note": "Tunk drops the Krol'dok Moulding about half the time. Key Ingredients then asks 12 Iron Bars and 4 Thick Leather for a key to a shortcut."},
+  "94975": {"objective": "Collect 15 Cultist Ears from the Twilight's Hammer in the stronghold.", "note": "Da'grosh waits in the hills west of Rog'mar, after the Horde chain that ends with The Wayward Warrior."},
+  "94972": {"objective": "Recover the Tome of Twilight from the stronghold.", "note": "Opens after the Horde chain from Krom'rosh at Rog'mar."},
+  "94968": {"objective": "Kill Overlord Mugg and bring his eye back to Krom'rosh.", "note": "Opens after the Horde chain from Krom'rosh at Rog'mar. Choose one of three ogre weapons."},
+  "94973": {"objective": "Find someone in Rog'mar who knows about the mould.", "note": "Tunk drops the Krol'dok Moulding about half the time. Key Ingredients then asks 12 Iron Bars and 4 Thick Leather for a key to a shortcut."},
+  "96771": {"objective": "Travel to the stronghold and kill Zalfan Moonshadow.", "note": "From Dalaran in the Alterac Mountains, for both factions."}
+ }
 }

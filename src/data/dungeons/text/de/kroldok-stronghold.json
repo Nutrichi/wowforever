@@ -1,5 +1,15 @@
 {
  "location": "Riverglades, auf einem Hügel über Sunnyglade",
  "entrance": "Eine Höhle gleich westlich der großen Tore der Festung, bei /way 37.5 37.5 in den Riverglades, auf dem Hügel über Sunnyglade im Norden des Gebiets.",
- "quests": {}
+ "quests": {
+  "94983": {"objective": "Sammle 8 Twilight Bangles vom Twilight's Hammer in der Festung.", "note": "Teil der Allianzreihe, die in Farholde Keep beginnt. Danach folgt Curios of Curiosity für Melanie Sable."},
+  "94984": {"objective": "Töte Nar'gurk und hol den Tome of Twilight.", "note": "Öffnet sich nach der Allianzreihe in Farholde Keep: Curious Trinkets, Scraps of Knowledge und Saving Sunnyglade."},
+  "94982": {"objective": "Töte Overlord Mugg und bring sein Auge zu Commander Brant.", "note": "Öffnet sich nach der Allianzreihe in Farholde Keep. Wähle eine von drei Ogerwaffen."},
+  "94980": {"objective": "Finde jemanden in Farholde Keep, der etwas über die Gussform weiß.", "note": "Tunk lässt die Krol'dok Moulding etwa jedes zweite Mal fallen. Key Ingredients verlangt danach 12 Iron Bars und 4 Thick Leather für einen Schlüssel zu einer Abkürzung."},
+  "94975": {"objective": "Sammle 15 Cultist Ears vom Twilight's Hammer in der Festung.", "note": "Da'grosh wartet in den Hügeln westlich von Rog'mar, nach der Hordereihe, die mit The Wayward Warrior endet."},
+  "94972": {"objective": "Hol den Tome of Twilight aus der Festung.", "note": "Öffnet sich nach der Hordereihe von Krom'rosh in Rog'mar."},
+  "94968": {"objective": "Töte Overlord Mugg und bring sein Auge zu Krom'rosh.", "note": "Öffnet sich nach der Hordereihe von Krom'rosh in Rog'mar. Wähle eine von drei Ogerwaffen."},
+  "94973": {"objective": "Finde jemanden in Rog'mar, der etwas über die Gussform weiß.", "note": "Tunk lässt die Krol'dok Moulding etwa jedes zweite Mal fallen. Key Ingredients verlangt danach 12 Iron Bars und 4 Thick Leather für einen Schlüssel zu einer Abkürzung."},
+  "96771": {"objective": "Reise zur Festung und töte Zalfan Moonshadow.", "note": "Aus Dalaran in den Alterac Mountains, für beide Fraktionen."}
+ }
 }

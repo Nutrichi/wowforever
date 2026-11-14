@@ -210,7 +210,7 @@ Trois nouvelles routes maritimes relient des parties du monde qui n'avaient pas 
 - Menethil vers Southshore puis Auberdine, en trois escales.
 - Les Riverglades vers Steamwheedle Port, ce qui ouvre le sud des deux continents et rejoint Gadgetzan.
 
-Cinq nouveaux points de vol rejoignent le réseau : Farholde Keep, Powderfuse Port et Rog'mar dans The Riverglades, Tainted Foothills et Summit of Eternity sur Mount Hyjal. Ils apportent onze nouvelles routes, et aucune route de Classic ne disparaît. Chaque route des deux factions figure sur la carte dans [l'article sur les routes aériennes](/fr/news/five-new-flight-points-bring-eleven-new-routes/).
+Quatre nouveaux points de vol rejoignent le réseau : Farholde Keep et Rog'mar dans The Riverglades, Tainted Foothills et Summit of Eternity sur Mount Hyjal. Ils apportent dix nouvelles routes, et aucune route de Classic ne disparaît. Powderfuse Port volait vers Farholde Keep pendant la bêta, mais cette route a disparu du jeu live. Chaque route des deux factions figure sur la carte dans [l'article sur les routes aériennes](/fr/news/five-new-flight-points-bring-eleven-new-routes/).
 
 ## Donjons et raids
 

@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update vom 14. November:** Die Wochenquest ist da: Pix Xizzix in Booty Bay zahlt bis zu 100 Gold für drei Gegenstände aus Dire Maul, mehr in [unserem Beitrag](/de/news/a-weekly-quest-at-level-60-pays-up-to-100-gold/).
+
 Quests in World of Warcraft: Forever zahlen kein Gold mehr, sobald du Level 60 bist. Jokerd, einer der [ersten fünf Spieler auf 60](/de/news/five-players-hit-level-60-in-a-record-launch/), bemerkte es im Stream. Ein Entwickler sagte ihm, dass es Absicht ist.
 
 **Update vom 10. November:** Blizzard bestätigt die Änderung und erklärt sie. Im Gegenzug bekommen die meisten Quests ab Level 48 mehr Gold, mehr in [unserem Beitrag](/de/news/blizzard-adds-gold-to-quests-from-level-48/).

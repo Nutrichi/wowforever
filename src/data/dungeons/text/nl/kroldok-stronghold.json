@@ -1,5 +1,15 @@
 {
  "location": "Riverglades, op een heuvel boven Sunnyglade",
  "entrance": "Een grot net ten westen van de grote poorten van het fort, op /way 37.5 37.5 in de Riverglades, op de heuvel boven Sunnyglade aan de noordkant van het gebied.",
- "quests": {}
+ "quests": {
+  "94983": {"objective": "Verzamel 8 Twilight Bangles van de Twilight's Hammer in de burcht.", "note": "Deel van de Alliance-reeks die in Farholde Keep begint. Daarna volgt Curios of Curiosity voor Melanie Sable."},
+  "94984": {"objective": "Dood Nar'gurk en neem de Tome of Twilight mee.", "note": "Opent na de Alliance-reeks in Farholde Keep: Curious Trinkets, Scraps of Knowledge en Saving Sunnyglade."},
+  "94982": {"objective": "Dood Overlord Mugg en breng zijn oog naar Commander Brant.", "note": "Opent na de Alliance-reeks in Farholde Keep. Kies een van drie ogerwapens."},
+  "94980": {"objective": "Zoek iemand in Farholde Keep die iets weet over de mal.", "note": "Tunk laat de Krol'dok Moulding ongeveer de helft van de keren vallen. Key Ingredients vraagt daarna 12 Iron Bars en 4 Thick Leather voor een sleutel naar een kortere weg."},
+  "94975": {"objective": "Verzamel 15 Cultist Ears van de Twilight's Hammer in de burcht.", "note": "Da'grosh wacht in de heuvels ten westen van Rog'mar, na de Horde-reeks die eindigt met The Wayward Warrior."},
+  "94972": {"objective": "Haal de Tome of Twilight uit de burcht.", "note": "Opent na de Horde-reeks van Krom'rosh in Rog'mar."},
+  "94968": {"objective": "Dood Overlord Mugg en breng zijn oog naar Krom'rosh.", "note": "Opent na de Horde-reeks van Krom'rosh in Rog'mar. Kies een van drie ogerwapens."},
+  "94973": {"objective": "Zoek iemand in Rog'mar die iets weet over de mal.", "note": "Tunk laat de Krol'dok Moulding ongeveer de helft van de keren vallen. Key Ingredients vraagt daarna 12 Iron Bars en 4 Thick Leather voor een sleutel naar een kortere weg."},
+  "96771": {"objective": "Ga naar de burcht en dood Zalfan Moonshadow.", "note": "Uit Dalaran in de Alterac Mountains, voor beide facties."}
+ }
 }

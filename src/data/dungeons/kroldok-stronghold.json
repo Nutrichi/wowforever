@@ -46,6 +46,454 @@
   }
  ],
  "loose": [],
- "quests": [],
- "cards": {}
+ "quests": [
+  {
+   "id": 94983,
+   "name": "Twilight Mementos",
+   "level": 42,
+   "minLevel": 38,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Sergeant Riftan",
+     "kind": "npc",
+     "npc": 258023,
+     "zone": "Riverglades",
+     "place": "Twilight's Shroud",
+     "at": {
+      "x": 30.6,
+      "y": 49.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Sergeant Riftan",
+     "kind": "npc",
+     "npc": 258023,
+     "zone": "Riverglades",
+     "place": "Twilight's Shroud",
+     "at": {
+      "x": 30.6,
+      "y": 49.0
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Curious Trinkets",
+     "id": 94881,
+     "optional": false
+    },
+    {
+     "name": "Scraps of Knowledge",
+     "id": 94879,
+     "optional": false
+    },
+    {
+     "name": "Saving Sunnyglade",
+     "id": 94877,
+     "optional": false
+    }
+   ],
+   "next": [
+    {
+     "name": "Curios of Curiosity",
+     "id": 94998,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 94984,
+   "name": "Tome of Twilight",
+   "level": 44,
+   "minLevel": 39,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Ashe Amberhall",
+     "kind": "npc",
+     "npc": 257591,
+     "zone": "Riverglades",
+     "place": "Farholde Keep",
+     "at": {
+      "x": 66.6,
+      "y": 81.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Ashe Amberhall",
+     "kind": "npc",
+     "npc": 257591,
+     "zone": "Riverglades",
+     "place": "Farholde Keep",
+     "at": {
+      "x": 66.6,
+      "y": 81.0
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Curious Trinkets",
+     "id": 94881,
+     "optional": false
+    },
+    {
+     "name": "Scraps of Knowledge",
+     "id": 94879,
+     "optional": false
+    },
+    {
+     "name": "Saving Sunnyglade",
+     "id": 94877,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 94982,
+   "name": "Eye of Mugg",
+   "level": 45,
+   "minLevel": 40,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Demar Brant",
+     "kind": "npc",
+     "npc": 257558,
+     "zone": "Riverglades",
+     "place": "Farholde Keep",
+     "at": {
+      "x": 66.6,
+      "y": 81.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Demar Brant",
+     "kind": "npc",
+     "npc": 257558,
+     "zone": "Riverglades",
+     "place": "Farholde Keep",
+     "at": {
+      "x": 66.6,
+      "y": 81.0
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Curious Trinkets",
+     "id": 94881,
+     "optional": false
+    },
+    {
+     "name": "Scraps of Knowledge",
+     "id": 94879,
+     "optional": false
+    },
+    {
+     "name": "Saving Sunnyglade",
+     "id": 94877,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [
+    279852,
+    279853,
+    279480
+   ],
+   "choice": true
+  },
+  {
+   "id": 94980,
+   "name": "Krol'dok Moulding",
+   "level": 45,
+   "minLevel": 38,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Krol'dok Moulding",
+     "kind": "item",
+     "item": 267137,
+     "zone": "Krol'dok Stronghold"
+    }
+   ],
+   "to": [],
+   "chain": [],
+   "next": [
+    {
+     "name": "Key Ingredients",
+     "id": 94981,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 94975,
+   "name": "A Token of Vengeance",
+   "level": 42,
+   "minLevel": 30,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Da'grosh",
+     "kind": "npc",
+     "npc": 258570,
+     "zone": "Riverglades",
+     "place": "Krol'dok Stronghold Outskirts",
+     "at": {
+      "x": 33.4,
+      "y": 38.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Da'grosh",
+     "kind": "npc",
+     "npc": 258570,
+     "zone": "Riverglades",
+     "place": "Krol'dok Stronghold Outskirts",
+     "at": {
+      "x": 33.4,
+      "y": 38.0
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Wayward Warrior",
+     "id": 94744,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 94972,
+   "name": "Tome of Twilight",
+   "level": 44,
+   "minLevel": 30,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Tran'gul",
+     "kind": "npc",
+     "npc": 256710,
+     "zone": "Riverglades",
+     "place": "Rog'mar",
+     "at": {
+      "x": 59.4,
+      "y": 44.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Tran'gul",
+     "kind": "npc",
+     "npc": 256710,
+     "zone": "Riverglades",
+     "place": "Rog'mar",
+     "at": {
+      "x": 59.4,
+      "y": 44.0
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Wayward Warrior",
+     "id": 94744,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 94968,
+   "name": "Eye of Mugg",
+   "level": 45,
+   "minLevel": 30,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Krom'rosh",
+     "kind": "npc",
+     "npc": 256418,
+     "zone": "Riverglades",
+     "place": "Rog'mar",
+     "at": {
+      "x": 59.4,
+      "y": 45.6
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Krom'rosh",
+     "kind": "npc",
+     "npc": 256418,
+     "zone": "Riverglades",
+     "place": "Rog'mar",
+     "at": {
+      "x": 59.4,
+      "y": 45.6
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Wayward Warrior",
+     "id": 94744,
+     "optional": false
+    }
+   ],
+   "next": [],
+   "rewards": [
+    279852,
+    279853,
+    279480
+   ],
+   "choice": true
+  },
+  {
+   "id": 94973,
+   "name": "Krol'dok Moulding",
+   "level": 45,
+   "minLevel": 38,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Krol'dok Moulding",
+     "kind": "item",
+     "item": 267137,
+     "zone": "Krol'dok Stronghold"
+    }
+   ],
+   "to": [],
+   "chain": [],
+   "next": [
+    {
+     "name": "Key Ingredients",
+     "id": 94974,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  },
+  {
+   "id": 96771,
+   "name": "Vengeance of the Highborne",
+   "level": 45,
+   "minLevel": 37,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": null,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Ranath Nightstride",
+     "kind": "npc",
+     "npc": 268425,
+     "zone": "Alterac Mountains",
+     "place": "Dalaran",
+     "at": {
+      "x": 17.8,
+      "y": 66.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Ranath Nightstride",
+     "kind": "npc",
+     "npc": 268425,
+     "zone": "Alterac Mountains",
+     "place": "Dalaran",
+     "at": {
+      "x": 17.8,
+      "y": 66.0
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false,
+   "rewardsUnknown": true
+  }
+ ],
+ "cards": {
+  "279480": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mace_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=279480\">Bigger Rock on Bigger Stick</a><span class=\"wf-item__line wf-item__meta\">Item Level 47</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>112 - 168 Damage</span><span>Speed 3.40</span></span><span class=\"wf-item__line\">(41.18 damage per second)</span><span class=\"wf-item__line\">+14 Strength</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Bash the target in the face, causing 14 Physical damage every 2 sec for 20 sec.</span><span class=\"wf-item__line wf-item__meta\">\"That's more like it!\"</span></div></div>",
+  "279852": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=279852\">Rock on Stick</a><span class=\"wf-item__line wf-item__meta\">Item Level 47</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>57 - 107 Damage</span><span>Speed 2.60</span></span><span class=\"wf-item__line\">(31.54 damage per second)</span><span class=\"wf-item__line\">+4 Strength</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Bash the target in the face, causing 7 Physical damage every 2 sec for 20 sec.</span><span class=\"wf-item__line wf-item__meta\">\"Need bigger rock. Maybe bigger stick too?\"</span></div></div>",
+  "279853": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_22.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=279853\">Stick No Rock</a><span class=\"wf-item__line wf-item__meta\">Item Level 47</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>80 - 121 Damage</span><span>Speed 3.30</span></span><span class=\"wf-item__line\">(30.45 damage per second)</span><span class=\"wf-item__line\">+10 Strength</span><span class=\"wf-item__line\">+18 Spirit</span><span class=\"wf-item__line\">Restores +22 health per 5 sec.</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 101 and damage done by up to 33 for all magical spells and effects.</span><span class=\"wf-item__line wf-item__meta\">\"Need rock.\"</span></div></div>"
+ }
 }

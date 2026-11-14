@@ -14,6 +14,7 @@
   "5047": {"objective": "Praat met Malyfous Darkhammer in Everlook.", "note": "Pip Quickwit verschijnt alleen als een speler met Skinning 300 The Beast vilt."},
   "4735": {"objective": "Breng 8 Collected Dragon Eggs en de Collectronic Module naar Tinkee Steamboil.", "note": "De eieren liggen in de Rookery; een ei pakken kan de whelps wekken. Eerst komen zes quests van Tinkee."},
   "6821": {"objective": "Breng het Eye of the Emberseer naar Duke Hydraxis.", "note": "Doe eerst twee quests voor Duke Hydraxis in Azshara. De reeks gaat verder in Molten Core."},
-  "5127": {"objective": "Dood Goraluk Anvilcrack, gebruik de Blood Stained Pike op zijn lichaam en breng Lorax de Soul Stained Pike en de Unforged Rune Covered Breastplate.", "note": "Alleen voor Blacksmiths. In Classic was de beloning de Demon Forged Breastplate."}
+  "5127": {"objective": "Dood Goraluk Anvilcrack, gebruik de Blood Stained Pike op zijn lichaam en breng Lorax de Soul Stained Pike en de Unforged Rune Covered Breastplate.", "note": "Alleen voor Blacksmiths. In Classic was de beloning de Demon Forged Breastplate."},
+  "84377": {"objective": "Breng het hoofd van Rend Blackhand naar Master Mathias Shaw in Stormwind.", "note": "Nieuw in Forever: ook de Alliance levert het hoofd van Rend in en krijgt de world buff Might of Stormwind."}
  }
 }

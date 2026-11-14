@@ -1,5 +1,15 @@
 {
  "location": "Riverglades, su una collina sopra Sunnyglade",
  "entrance": "Una grotta subito a ovest dei grandi portoni della fortezza, a /way 37.5 37.5 nelle Riverglades, sulla collina sopra Sunnyglade nel nord della zona.",
- "quests": {}
+ "quests": {
+  "94983": {"objective": "Raccogli 8 Twilight Bangle dal Twilight's Hammer nella fortezza.", "note": "Fa parte della catena dell'Alleanza che inizia a Farholde Keep. Porta poi a Curios of Curiosity per Melanie Sable."},
+  "94984": {"objective": "Uccidi Nar'gurk e recupera il Tome of Twilight.", "note": "Si apre dopo la catena dell'Alleanza a Farholde Keep: Curious Trinkets, Scraps of Knowledge e Saving Sunnyglade."},
+  "94982": {"objective": "Uccidi Overlord Mugg e porta il suo occhio a Commander Brant.", "note": "Si apre dopo la catena dell'Alleanza a Farholde Keep. Scegli una di tre armi ogre."},
+  "94980": {"objective": "Trova qualcuno a Farholde Keep che sappia qualcosa dello stampo.", "note": "Tunk lascia la Krol'dok Moulding circa una volta su due. Key Ingredients chiede poi 12 Iron Bar e 4 Thick Leather per una chiave verso una scorciatoia."},
+  "94975": {"objective": "Raccogli 15 Cultist Ear dal Twilight's Hammer nella fortezza.", "note": "Da'grosh aspetta sulle colline a ovest di Rog'mar, dopo la catena dell'Orda che finisce con The Wayward Warrior."},
+  "94972": {"objective": "Recupera il Tome of Twilight dalla fortezza.", "note": "Si apre dopo la catena dell'Orda di Krom'rosh a Rog'mar."},
+  "94968": {"objective": "Uccidi Overlord Mugg e porta il suo occhio a Krom'rosh.", "note": "Si apre dopo la catena dell'Orda di Krom'rosh a Rog'mar. Scegli una di tre armi ogre."},
+  "94973": {"objective": "Trova qualcuno a Rog'mar che sappia qualcosa dello stampo.", "note": "Tunk lascia la Krol'dok Moulding circa una volta su due. Key Ingredients chiede poi 12 Iron Bar e 4 Thick Leather per una chiave verso una scorciatoia."},
+  "96771": {"objective": "Vai nella fortezza e uccidi Zalfan Moonshadow.", "note": "Da Dalaran nelle Alterac Mountains, per entrambe le fazioni."}
+ }
 }

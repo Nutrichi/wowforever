@@ -100,7 +100,7 @@ Key Ingredients gehört zur Reihe für den Schlüssel von Krol'dok Stronghold, s
 Der Bloodmaster's Ring ist eine Kampfgrube im Stil des Ring of Blood, bei /way 65.6 21.4 im Ogergebiet. Du kämpfst nacheinander gegen immer stärkere Schläger der Bolder'ok. Jeder Kampf gibt etwa so viel Erfahrung wie eine Dungeonquest. Auf einem PvP-Realm kann dort viel von der anderen Fraktion los sein.
 
 1. <a href="https://www.wowhead.com/forever/quest=94668">Bloodmaster's Ring</a>: Melde dich bei Jezap an der Arena.
-2. <a href="https://www.wowhead.com/forever/quest=94669">Pay to Play</a>: Zahl die Kaution, um mitzumachen.
+2. <a href="https://www.wowhead.com/forever/quest=94669">Pay to Play</a>: Zahl die Kaution von 1 Gold, um mitzumachen.
 3. Kämpfe: <a href="https://www.wowhead.com/forever/quest=94670">Bloodmaster's Ring</a>, <a href="https://www.wowhead.com/forever/quest=94739">Bloodmaster's Ring</a>, <a href="https://www.wowhead.com/forever/quest=94962">Bloodmaster's Ring</a> und <a href="https://www.wowhead.com/forever/quest=94964">Bloodmaster's Ring</a>, gegen Mog'thar auf Stufe 43.
 4. Umweg, noch nicht bestätigt: <a href="https://www.wowhead.com/forever/quest=94733">Our Ogre Friend</a>, <a href="https://www.wowhead.com/forever/quest=94734">A Boar's Delight</a> und <a href="https://www.wowhead.com/forever/quest=94737">A Treat for a Friend</a>.
 5. Letzte Kämpfe: <a href="https://www.wowhead.com/forever/quest=94965">Bloodmaster's Ring</a> und <a href="https://www.wowhead.com/forever/quest=95063">Bloodmaster's Ring</a>.
