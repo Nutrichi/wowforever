@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 14 november:** spelers die in dezelfde crash training verloren, krijgen het goud nu per mail terug, meer in [onze post](/nl/news/training-lost-in-the-crash-is-paid-back-in-gold/).
+
 Shamans die een totem verloren toen de servers maandag crashten, krijgen hem terug. Blizzard rolde dinsdag een fix uit in elke regio. De totem komt terug in je tassen, maar je hebt een vrij tasvak en een nieuwe login nodig.
 
 Op maandag 9 november, rond 13.00 uur PST of 22.00 uur Belgische tijd, gingen de servers plat voor dringend onderhoud. Daarna meldden Shamans dat er totems uit hun tassen verdwenen waren, zoals de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5176"><img class="wf-wh__icon" src="/wh/spell_totem_wardofdraining.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Totem</a>. Zonder dat item kan je de totems van dat element niet neerzetten.

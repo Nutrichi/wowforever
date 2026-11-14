@@ -3,7 +3,7 @@ title: "Erfahrung und Erholungs-EP in WoW Forever"
 metaTitle: "WoW Forever Erfahrungsguide: EP pro Level, Erholung, Essen und Lager"
 description: "So funktioniert Erfahrung in WoW Forever: die EP für jedes Level bis 60, Quests, Kills, Dungeons und Erkundung, Gruppen, Erholungs-EP und die Boni von Lagern, Essen und dem Cozy Sleeping Bag."
 short: "Erfahrung und Erholung"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: de
 manual: true
 faq:
@@ -162,7 +162,7 @@ Eine Gruppe Monster zusammenziehen und mit Flächenzaubern niederbrennen kann am
 
 ## Dungeons
 
-Die Erfahrung in Dungeons hat sich in der Beta mehrmals geändert. Im September [verschob Blizzard Erfahrung von Kills zu Quests](/de/news/wow-forever-dungeon-experience-changes/): Monster gaben wenig, Dungeonquests viel. Am 1. Oktober wurde die zusätzliche Erfahrung der Dungeonquests [um 50 % gekürzt](/de/news/dungeon-quests-give-50-percent-less-bonus-experience/). Eine Woche später bekamen Dungeonmonster [20 % mehr Erfahrung](/de/news/dungeon-kills-give-20-percent-more-experience/), und ein Fehler, der jeden Kill am höchsten Level der Gruppe ausrichtete, wurde behoben. Nach dem Start [erhöhte ein Hotfix am 8. November die Kill-Erfahrung in Dungeons um 50 %](/de/news/dungeon-enemies-give-50-percent-more-experience/), auf 60 % der Werte aus Classic Era. Blizzard ist mit diesem Tempo zufrieden.
+Die Erfahrung in Dungeons hat sich in der Beta mehrmals geändert. Im September [verschob Blizzard Erfahrung von Kills zu Quests](/de/news/wow-forever-dungeon-experience-changes/): Monster gaben wenig, Dungeonquests viel. Am 1. Oktober wurde die zusätzliche Erfahrung der Dungeonquests [um 50 % gekürzt](/de/news/dungeon-quests-give-50-percent-less-bonus-experience/). Eine Woche später bekamen Dungeonmonster [20 % mehr Erfahrung](/de/news/dungeon-kills-give-20-percent-more-experience/), und ein Fehler, der jeden Kill am höchsten Level der Gruppe ausrichtete, wurde behoben. Nach dem Start [erhöhte ein Hotfix am 8. November die Kill-Erfahrung in Dungeons um 50 %](/de/news/dungeon-enemies-give-50-percent-more-experience/), auf 60 % der Werte aus Classic Era. Blizzard ist mit diesem Tempo zufrieden. Seit dem 13. November gibt ein Monster, das für auch nur ein Gruppenmitglied trivial ist, niemandem Erfahrung, [mehr in unserem Post](/de/news/dual-spec-no-longer-wipes-your-action-bars/).
 
 Am besten nimmst du die Dungeonquests vorher an und erledigst sie während des Runs. Große Gruppen zusammenziehen und mit Flächenzaubern töten, Dungeon Cleave genannt, funktioniert auch, aber Blizzard will nicht, dass Dungeons der schnellste Weg zu 60 sind.
 

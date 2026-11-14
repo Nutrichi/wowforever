@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 14 november:** sinds de hotfixes van 13 november kunnen veel meer spelers per ruleset het wekelijkse toernooi winnen, meer in [onze post](/nl/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 Het vistoernooi in Stranglethorn Vale is kapot op de live servers van World of Warcraft: Forever. Alleen de eerste speler die 40 Speckled Tastyfish inleverde, kreeg de titel Master Angler. Daarna verschenen er geen Tastyfish-scholen meer.
 
 <figure class="wf-embed" data-wf-video="RNfyD_97D50">

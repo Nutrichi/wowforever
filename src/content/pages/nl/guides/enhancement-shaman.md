@@ -3,7 +3,7 @@ title: "Gids voor de Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "De Enhancement Shaman in WoW Forever: de build voor level 60, Stormstrike en Maelstrom Weapon, de rotatie, totems, mana, tanken, stats en races."
 short: "Enhancement Shaman"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: nl
 manual: true
 faq:
@@ -152,7 +152,7 @@ Zonder mana heb je nog je gewone slagen, maar je damage zakt sterk tot de mana t
 
 - **Call of the Elements** en de andere Call-spells zetten met één knop een opgeslagen set van vier totems neer. Ze hebben een casttijd.
 - **Totemic Recall** neemt je totems terug. **Totemic Call** brengt je actieve totems naar de plek waar je staat, met een cooldown van 30 seconden.
-- **Windfury Totem** is de beste meleebuff in het spel. Zonder de partybeperking werkt hij voor de hele raid. Sinds 12 november werkt hij naast je eigen weapon imbue, dus Windfury Weapon en Windfury Totem kunnen allebei procen.
+- **Windfury Totem** is de beste meleebuff in het spel. Zonder de partybeperking werkt hij voor de hele raid. Sinds 12 november werkt hij naast je eigen weapon imbue, dus Windfury Weapon en Windfury Totem kunnen allebei procen. Sinds 13 november kan elke melee-ability hem laten afgaan, ook als ze je main hand niet gebruikt; alleen slagen met je off-hand niet.
 - **Tremor Totem** haalt fear, sleep en charm weg bij bondgenoten binnen bereik. Goede timing redt runs.
 - **Poison Cleansing Totem** en **Disease Cleansing Totem** halen per puls één effect weg.
 - **Earthbind Totem** vertraagt vijanden om te kiten.

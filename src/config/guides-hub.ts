@@ -47,6 +47,8 @@ export const hubCategories: HubCategory[] = [
       },
       // De walkthrough van het startgebied van de Skyborne (Nutri, 20 oktober 2026).
       { key: 'zephras-isle', image: '2026-10-20-wow-forever-zephras-isle-thendal-village.jpg', levels: '1-13', isNew: true },
+      // De zonegids van de Riverglades (Nutri, 14 november 2026: "update / create guides").
+      { key: 'riverglades', image: '2026-11-14-wow-forever-riverglades-farholde-keep.jpg', levels: '36-44', isNew: true },
       { key: 'experience', image: '2026-10-14-wow-forever-camp-tent-and-sleeping-bag.jpg' },
       { key: '/routes', label: 'cardRoutes', image: '2026-09-17-wow-forever-dustwallow-marsh.jpg' },
       // De vergelijkingen (Nutri, 19 oktober 2026: "on this overview page I also miss the comparison posts").

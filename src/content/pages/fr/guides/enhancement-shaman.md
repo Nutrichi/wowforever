@@ -3,7 +3,7 @@ title: "Guide de l'Enhancement Shaman dans WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman : build, Stormstrike, totems"
 description: "L'Enhancement Shaman dans WoW Forever : le build niveau 60, Stormstrike et Maelstrom Weapon, la rotation, les totems, le mana, le tanking, les stats et les races."
 short: "Enhancement Shaman"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: fr
 manual: true
 faq:
@@ -152,7 +152,7 @@ Sans mana, il vous reste vos coups blancs, mais vos dégâts chutent fortement j
 
 - **Call of the Elements** et les autres sorts Call posent un ensemble enregistré de quatre totems d'un seul bouton. Ils ont un temps d'incantation.
 - **Totemic Recall** reprend vos totems. **Totemic Call** ramène vos totems actifs là où vous êtes, avec une recharge de 30 secondes.
-- **Windfury Totem** est le meilleur buff de mêlée du jeu. Sans la restriction de groupe, il fonctionne pour tout le raid. Depuis le 12 novembre, il fonctionne avec votre propre enchantement d'arme : Windfury Weapon et Windfury Totem peuvent se déclencher tous les deux.
+- **Windfury Totem** est le meilleur buff de mêlée du jeu. Sans la restriction de groupe, il fonctionne pour tout le raid. Depuis le 12 novembre, il fonctionne avec votre propre enchantement d'arme : Windfury Weapon et Windfury Totem peuvent se déclencher tous les deux. Depuis le 13 novembre, toutes les techniques de mêlée peuvent le déclencher, même sans la main droite ; seuls les coups de la main gauche ne le peuvent pas.
 - **Tremor Totem** retire peur, sommeil et charme des alliés à portée. Un bon timing sauve des runs.
 - **Poison Cleansing Totem** et **Disease Cleansing Totem** retirent un effet par impulsion.
 - **Earthbind Totem** ralentit les ennemis pour le kiting.

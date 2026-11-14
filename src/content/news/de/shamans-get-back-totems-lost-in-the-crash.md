@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update vom 14. November:** Wer beim selben Absturz Training verloren hat, bekommt das Gold jetzt per Post zurück, mehr in [unserem Beitrag](/de/news/training-lost-in-the-crash-is-paid-back-in-gold/).
+
 Shamans, die beim Serverabsturz am Montag ein Totem verloren haben, bekommen es zurück. Blizzard hat am Dienstag in allen Regionen einen Fix aufgespielt. Das Totem landet wieder in deinen Taschen, du brauchst aber einen freien Platz und einen neuen Login.
 
 Am Montag, dem 9. November, gegen 13:00 Uhr PST oder 22:00 Uhr belgischer Zeit, gingen die Server für eine Notfallwartung vom Netz. Danach meldeten Shamans, dass Totems aus ihren Taschen verschwunden waren, etwa das <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5176"><img class="wf-wh__icon" src="/wh/spell_totem_wardofdraining.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Totem</a>. Ohne dieses Item kannst du die Totems seines Elements nicht aufstellen.

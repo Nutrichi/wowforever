@@ -3,7 +3,7 @@ title: "Fishing in WoW Forever: trainers, levelen en uitrusting"
 metaTitle: "WoW Forever Fishing-gids: trainers, levelen van 1 tot 225, zones en uitrusting"
 description: "Fishing in WoW Forever: elke trainer, levelen van 1 tot 225, de skill die elke zone vraagt, de Artisan-quest, hengels, lures, eten met een Fishing-buff, de nieuwe Fishing Extravaganza en de kampobjecten."
 short: "Fishing"
-updated: 2026-10-11
+updated: 2026-11-14
 video: 0Su2_6eVSpU
 lang: nl
 faq:
@@ -157,6 +157,7 @@ Het vistoernooi in Stranglethorn Vale, <a href="https://www.wowhead.com/forever/
 
 - **De eerste 50 spelers winnen**, niet alleen de eerste die inlevert.
 - **Elke winnaar krijgt** de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> en een <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.
+- **Meer winnaars sinds 13 november:** veel meer spelers per ruleset kunnen nu winnen. Blizzard noemt het nieuwe aantal niet.
 
 Met de munt kies je één prijs: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19979"><img class="wf-wh__icon" src="/wh/trade_fishing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hook of the Master Angler</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276274"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Surfer Shoes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276272"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Angler's Fishing Hat</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276273"><img class="wf-wh__icon" src="/wh/inv_misc_1h_bucket_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Empty Fish Bucket</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276275"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_worm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bitter Baitling</a>.
 

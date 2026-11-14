@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: launch, raids, roadmap, Skyborne and editions"
 description: "Everything Blizzard has announced about World of Warcraft: Forever: the dates, the roadmap, the new zones, dungeons and raids, the Skyborne, the Legacy system and the editions."
 short: "WoW Forever"
-updated: 2026-11-13
+updated: 2026-11-14
 lang: en
 faq:
   - q: "What is World of Warcraft: Forever?"
@@ -169,7 +169,7 @@ The starting zone of the Skyborne: a secluded island in the sky that now faces a
 
 ### The Riverglades, about levels 30 to 45
 
-A new frontier in the Eastern Kingdoms, with rivers, grasslands, trade routes and ruined keeps. It has more than 150 new quests, new reputations and rewards. Humans, orcs, ogres and small communities with old grudges live there; Blizzard called it "not a story about saving Azeroth, a story about living there". A neutral goblin port adds travel routes, and the zone gets its own dungeon. A fork in Redridge Mountains that used to be a dead end now leads there. Alliance players meet the Brotherhood of the Horse, not seen since Warcraft II, and Horde players an ogre clan; the Twilight's Hammer is the threat, according to [a Blizzard video](/news/a-five-minute-video-sums-up-what-changes/) of 23 September. The Black Market Auction House of Forever stands at Powderfuse Port, a goblin outpost in the zone; see the [BMAH guide](/guides/bmah/). The short story Cost of Honor, of 13 November, is set at Farholde Keep; see [the post about the story](/news/cost-of-honor-tells-the-past-of-the-riverglades/).
+A new frontier in the Eastern Kingdoms, with rivers, grasslands, trade routes and ruined keeps. It has more than 150 new quests, new reputations and rewards. Humans, orcs, ogres and small communities with old grudges live there; Blizzard called it "not a story about saving Azeroth, a story about living there". A neutral goblin port adds travel routes, and the zone gets its own dungeon. A fork in Redridge Mountains that used to be a dead end now leads there. Alliance players meet the Brotherhood of the Horse, not seen since Warcraft II, and Horde players an ogre clan; the Twilight's Hammer is the threat, according to [a Blizzard video](/news/a-five-minute-video-sums-up-what-changes/) of 23 September. The Black Market Auction House of Forever stands at Powderfuse Port, a goblin outpost in the zone; see the [BMAH guide](/guides/bmah/). The short story Cost of Honor, of 13 November, is set at Farholde Keep; see [the post about the story](/news/cost-of-honor-tells-the-past-of-the-riverglades/). How to get there, the towns and the quests are in our [Riverglades guide](/guides/riverglades/).
 
 <figure class="wf-embed" data-wf-video="JYy08rjb3K4">
   <button type="button" class="wf-embed__play">

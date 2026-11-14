@@ -13,7 +13,7 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
-> **Aggiornamento del 13 novembre:** dopo aver imparato Dual Spec, un bug può svuotare le barre d'azione quando esci, di più nel [nostro articolo](/it/news/dual-spec-can-wipe-your-action-bars/).
+> **Aggiornamento del 13 novembre:** dopo aver imparato Dual Spec, un bug può svuotare le barre d'azione quando esci, di più nel [nostro articolo](/it/news/dual-spec-can-wipe-your-action-bars/). Dal 13 novembre quel bug è corretto.
 
 La Dual Spec è in World of Warcraft: Forever dal primo giorno, ma non è economica. Al livello 40 il tuo istruttore di classe vende un secondo albero dei talenti per 50 oro, proprio quando vuoi anche la tua prima cavalcatura.
 

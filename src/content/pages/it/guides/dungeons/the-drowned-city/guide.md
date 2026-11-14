@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guida a The Drowned City per WoW Forever: ingresso, mappa e boss"
 description: "Come raggiungere The Drowned City sott'acqua al largo di Stranglethorn Vale in WoW Forever, i nemici da tenere d'occhio e come battere i sei boss e due rari."
 short: "Guida"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: it
 manual: true
 sources:
@@ -31,7 +31,7 @@ Si parte in una grotta e si sale una collina fino alle grandi rovine. La città 
 
 ## Nemici da tenere d'occhio
 
-Da un hotfix del 9 novembre, le creature qui non fanno più circa il 30% di danni in più del previsto. I gruppi che sembravano troppo forti prima di quella data ora sono più facili.
+Da un hotfix del 9 novembre, le creature qui non fanno più circa il 30% di danni in più del previsto. I gruppi che sembravano troppo forti prima di quella data ora sono più facili. Dal 13 novembre i nemici ricompaiono dopo 2 ore invece di 1.
 
 - **Makrura Snapper e Chasm Crawler** arrivano per primi. I Crawler vanno in gruppi di due o tre, colpiscono forte e mettono Muscle Tear sul tank (21 di Forza in meno), mentre gli Snapper accumulano Sunder Armor. Pulla con calma e lascia che il tank prenda minaccia.
 - **I Risen Sentry** arrivano in gruppi di tre o quattro, spesso con un **Profane Necro**. I Sentry caricano e respingono i giocatori; il Necro evoca un Drowned Spirit. Mettiti sopra il gruppo così le cariche non servono a nulla, uccidi prima il Necro e tieni le spalle lontane da altri gruppi.

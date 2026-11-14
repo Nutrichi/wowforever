@@ -12,6 +12,8 @@ tags: ["forever", "classes", "shaman"]
 featured: false
 draft: false
 ---
+> **Update 14 November:** players who lost training in the same crash now get the gold back by mail, more in [our post](/news/training-lost-in-the-crash-is-paid-back-in-gold/).
+
 Shamans who lost a totem when the servers crashed on Monday get it back. Blizzard deployed a fix in every region on Tuesday. The totem returns to your bags, but you need a free bag slot and a new login.
 
 On Monday 9 November, around 13.00 PST or 22.00 Belgian time, the servers went down for emergency maintenance. Afterwards, Shamans reported that totems were missing from their bags, such as the <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5176"><img class="wf-wh__icon" src="/wh/spell_totem_wardofdraining.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Totem</a>. Without that item you cannot place the totems of its element.

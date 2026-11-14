@@ -13,6 +13,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 14 novembre :** Blizzard a corrigé le bug avec les correctifs du 13 novembre, plus de détails dans [notre article](/fr/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 Vous avez acheté [Dual Spec pour 50 or](/fr/news/dual-spec-costs-50-gold-at-level-40/) dans World of Warcraft: Forever ? Vous risquez de vous connecter avec des barres d'action vides. Un bug peut vider une ou plusieurs barres à la déconnexion. Le combat n'est pas touché.
 
 ## Ce qui se passe

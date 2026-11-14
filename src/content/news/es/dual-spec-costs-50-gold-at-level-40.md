@@ -13,7 +13,7 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
-> **Actualización del 13 de noviembre:** tras aprender Dual Spec, un error puede vaciar tus barras de acción al cerrar sesión, más en [nuestra noticia](/es/news/dual-spec-can-wipe-your-action-bars/).
+> **Actualización del 13 de noviembre:** tras aprender Dual Spec, un error puede vaciar tus barras de acción al cerrar sesión, más en [nuestra noticia](/es/news/dual-spec-can-wipe-your-action-bars/). Desde el 13 de noviembre, ese error está corregido.
 
 La Dual Spec está en World of Warcraft: Forever desde el primer día, pero no es barata. En el nivel 40 tu instructor de clase vende un segundo árbol de talentos por 50 de oro, justo cuando también quieres tu primera montura.
 

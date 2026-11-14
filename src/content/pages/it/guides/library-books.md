@@ -3,7 +3,7 @@ title: "Libri della biblioteca in WoW Forever: posizioni e ricompense"
 metaTitle: "Libri della biblioteca di WoW Forever: tutte le 36 posizioni con /way, le ricompense e dove consegnarli"
 description: "Dove trovare ogni libro della biblioteca in WoW Forever: 36 libri con /way in quattro fasce di livello, dove li consegnano la Alliance e la Horde, e le ricompense per 10, 20 e 25 libri."
 short: "Libri della biblioteca"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: it
 manual: true
 faq:
@@ -42,6 +42,8 @@ Le due collane sono scese a [qualità verde](/it/news/necklaces-for-10-books-dro
 ## Dove consegnarli
 
 La Alliance va alla Mage Tower del Mage Quarter di Stormwind, la Horde al Magic Quarter di Undercity. Le due missioni per 20 e 25 libri hanno lo stesso nome, Greater Friend of the Library.
+
+Fino al 13 novembre un bug faceva rifiutare ogni libro a entrambi i bibliotecari. Una correzione l'ha risolto, quindi puoi consegnare di nuovo i tuoi libri.
 
 I Mage ricevono qualcosa in più: il primo libro dà loro l'incantesimo Study, che crea pergamene in una biblioteca. Vedi la [guida alle pergamene del Mage](/it/guides/mage-scrolls/).
 

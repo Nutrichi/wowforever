@@ -3,7 +3,7 @@ title: "Retribution Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Retribution Paladin: build, rotación y sellos"
 description: "El Retribution Paladin en WoW Forever: la build de nivel 60, la rotación con Seal of Command, los Judgements, las bendiciones, los stats y las razas."
 short: "Retribution Paladin"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: es
 manual: true
 faq:
@@ -116,7 +116,7 @@ Cada Paladin solo puede mantener un Judgement en un objetivo, así que eliges se
 - **Seal of the Crusader** es flojo por sí solo. Lo usas por su Judgement, que aumenta el daño Sagrado que recibe el objetivo. Es un gran aumento para ti, pero no para el resto del grupo.
 - **Seal of Wisdom** y su Judgement devuelven maná. Tu grupo te lo agradecerá si lo mantienes en el jefe.
 - **Seal of Light** y su Judgement devuelven algo de curación, útil en combates con mucho daño pequeño en área.
-- **Seal of Command** es tu sello de daño. Su Judgement también inflige un buen golpe de daño Sagrado.
+- **Seal of Command** es tu sello de daño. Su Judgement también inflige un buen golpe de daño Sagrado. Desde el 13 de noviembre ese Judgement cuenta como ataque cuerpo a cuerpo y activa efectos al golpear, a diferencia de los demás.
 - **Seal of Righteousness** añade daño Sagrado a cada golpe y pega fuerte al juzgarlo.
 
 ## Tiempos de reutilización y utilidad

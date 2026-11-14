@@ -3,7 +3,7 @@ title: "Krol'dok Stronghold"
 metaTitle: "Krol'dok Stronghold Guide für WoW Forever: Eingang und Schlüssel"
 description: "So erreicht ihr Krol'dok Stronghold in den Riverglades in WoW Forever, so ist die Ogerfestung aufgebaut, ihre zwei Schlüssel und ihre sechs Bosse von Slavecrusher Grox bis Overlord Mugg."
 short: "Guide"
-updated: 2026-11-13
+updated: 2026-11-14
 lang: de
 manual: true
 sources:
@@ -27,7 +27,7 @@ Ein gewundener Pfad führt bergauf zwischen groben Gebäuden, Werkstätten und L
 
 ## Die Schlüssel
 
-Die Spieldaten haben zwei Schlüssel für die Festung, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267089"><img class="wf-wh__icon" src="/wh/inv_misc_key_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Compound Key</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271721"><img class="wf-wh__icon" src="/wh/inv_hammer_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Ogre Key</a>. Welche Türen sie öffnen und wo sie droppen, ist noch nicht bekannt.
+Die Spieldaten haben zwei Schlüssel für die Festung, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267089"><img class="wf-wh__icon" src="/wh/inv_misc_key_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Compound Key</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271721"><img class="wf-wh__icon" src="/wh/inv_hammer_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Ogre Key</a>. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271721"><img class="wf-wh__icon" src="/wh/inv_hammer_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Ogre Key</a> kann bei Overlord Mugg droppen. Eine Questreihe, die mit der Krol'dok Moulding von Tunk beginnt, gibt einen Schlüssel zu einer Abkürzung, siehe die [Quests](/de/guides/dungeons/kroldok-stronghold/quests/).
 
 ## Die Bosse
 

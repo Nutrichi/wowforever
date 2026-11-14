@@ -3,7 +3,7 @@ title: "Krol'dok Stronghold"
 metaTitle: "Gids voor Krol'dok Stronghold in WoW Forever: ingang en sleutels"
 description: "Zo bereik je Krol'dok Stronghold in de Riverglades in WoW Forever, zo is het ogrefort ingedeeld, de twee sleutels en de zes bazen van Slavecrusher Grox tot Overlord Mugg."
 short: "Gids"
-updated: 2026-11-13
+updated: 2026-11-14
 lang: nl
 manual: true
 sources:
@@ -27,7 +27,7 @@ Een kronkelend pad loopt heuvelop tussen ruwe gebouwen, werkplaatsen en kampen, 
 
 ## De sleutels
 
-De speldata heeft twee sleutels voor het fort, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267089"><img class="wf-wh__icon" src="/wh/inv_misc_key_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Compound Key</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271721"><img class="wf-wh__icon" src="/wh/inv_hammer_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Ogre Key</a>. Welke deuren ze openen en waar ze vallen, is nog niet bekend.
+De speldata heeft twee sleutels voor het fort, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=267089"><img class="wf-wh__icon" src="/wh/inv_misc_key_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Compound Key</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271721"><img class="wf-wh__icon" src="/wh/inv_hammer_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Ogre Key</a>. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271721"><img class="wf-wh__icon" src="/wh/inv_hammer_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Krol'dok Ogre Key</a> kan vallen bij Overlord Mugg. Een questreeks die begint met de Krol'dok Moulding van Tunk geeft een sleutel naar een kortere weg, zie de [quests](/nl/guides/dungeons/kroldok-stronghold/quests/).
 
 ## De bazen
 

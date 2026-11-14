@@ -3,7 +3,7 @@ title: "Fishing dans WoW Forever : maîtres, progression et équipement"
 metaTitle: "Guide Fishing de WoW Forever : maîtres, progression de 1 à 225, zones et équipement"
 description: "Fishing dans WoW Forever : chaque maître, la progression de 1 à 225, la compétence que demande chaque zone, la quête Artisan, cannes, leurres, plats avec un buff de Fishing, la nouvelle Fishing Extravaganza et les objets de camp."
 short: "Fishing"
-updated: 2026-10-11
+updated: 2026-11-14
 video: 0Su2_6eVSpU
 lang: fr
 faq:
@@ -157,6 +157,7 @@ Le tournoi de pêche de Stranglethorn Vale, <a href="https://www.wowhead.com/for
 
 - **Les 50 premiers joueurs gagnent**, pas seulement le premier qui rend la quête.
 - **Chaque gagnant reçoit** la <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> et une <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.
+- **Plus de gagnants depuis le 13 novembre :** beaucoup plus de joueurs par ruleset peuvent gagner. Blizzard ne donne pas le nouveau nombre.
 
 La pièce s’échange contre un prix au choix : <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19979"><img class="wf-wh__icon" src="/wh/trade_fishing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hook of the Master Angler</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276274"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Surfer Shoes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276272"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Angler's Fishing Hat</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276273"><img class="wf-wh__icon" src="/wh/inv_misc_1h_bucket_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Empty Fish Bucket</a> ou <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276275"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_worm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bitter Baitling</a>.
 

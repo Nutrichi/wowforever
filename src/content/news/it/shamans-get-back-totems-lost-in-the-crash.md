@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Aggiornamento del 14 novembre:** chi ha perso addestramento nello stesso crash riceve ora l'oro per posta, di più nel [nostro articolo](/it/news/training-lost-in-the-crash-is-paid-back-in-gold/).
+
 Gli Shaman che hanno perso un totem quando i server sono crollati lunedì lo riavranno. Blizzard ha distribuito martedì una correzione in tutte le regioni. Il totem torna nelle tue borse, ma servono uno spazio libero e un nuovo accesso.
 
 Lunedì 9 novembre, verso le 13:00 PST o le 22:00 ora belga, i server sono stati spenti per una manutenzione d'urgenza. Dopo, alcuni Shaman hanno segnalato totem spariti dalle borse, come il <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5176"><img class="wf-wh__icon" src="/wh/spell_totem_wardofdraining.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Totem</a>. Senza quell'oggetto non puoi piazzare i totem del suo elemento.

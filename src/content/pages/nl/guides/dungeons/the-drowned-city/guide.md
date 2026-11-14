@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Gids voor The Drowned City in WoW Forever: ingang, indeling, bazen"
 description: "Zo bereik je The Drowned City onder water voor Stranglethorn Vale in WoW Forever, op deze trash let je en zo versla je de zes bazen en twee rares."
 short: "Gids"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: nl
 manual: true
 sources:
@@ -31,7 +31,7 @@ Je begint in een grot en klimt een heuvel op naar de grote ruïnes. De stad open
 
 ## Trash om op te letten
 
-Sinds een hotfix van 9 november doen de wezens hier niet langer ongeveer 30% meer schade dan bedoeld. Groepen die voor die datum te sterk aanvoelden, zijn nu makkelijker.
+Sinds een hotfix van 9 november doen de wezens hier niet langer ongeveer 30% meer schade dan bedoeld. Groepen die voor die datum te sterk aanvoelden, zijn nu makkelijker. Sinds 13 november komt trash pas na 2 uur terug in plaats van na 1 uur.
 
 - **Makrura Snappers en Chasm Crawlers** komen eerst. De Crawlers lopen in groepjes van twee of drie, slaan hard en zetten Muscle Tear op de tank (21 Strength minder), terwijl de Snappers Sunder Armor stapelen. Pull rustig en laat de tank threat opbouwen.
 - **Risen Sentries** komen in groepjes van drie of vier, vaak met een **Profane Necro**. De Sentries chargen en duwen spelers weg; de Necro roept een Drowned Spirit op. Ga bovenop de groep staan zodat de charges niets doen, dood de Necro eerst en houd je rug weg van andere groepen.

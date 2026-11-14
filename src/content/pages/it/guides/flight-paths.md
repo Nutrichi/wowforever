@@ -3,7 +3,7 @@ title: "Rotte di volo: ogni maestro di volo di WoW Forever"
 metaTitle: "Rotte di volo di WoW Forever: maestri di volo, rotte e navi"
 description: "Ogni punto di volo di WoW Forever per l'Alliance e l'Horde: il maestro di volo, le coordinate e le destinazioni, più i quattro nuovi punti di volo e ogni nave e zeppelin."
 short: "Flight Paths"
-updated: 2026-11-13
+updated: 2026-11-14
 lang: it
 manual: true
 faq:
@@ -48,17 +48,7 @@ Sulla mappa, una linea blu è una rotta dell'Alliance e una rossa una rotta dell
 | Summit of Eternity | entrambe le fazioni | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=41861">Fayran Elthas</a> | 68.6 44.0 | Tainted Foothills |
 | Tainted Foothills | entrambe le fazioni | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260626">Bluebell</a> | 55.0 82.8 | Everlook, Summit of Eternity |
 
-[The Riverglades](/it/forever/) è la nuova zona per i livelli dal 30 al 45. Ogni fazione vi riceve un punto di volo che la collega alle zone vicine. L'Alliance vola verso Redridge Mountains, Loch Modan e Burning Steppes, l'Horde verso Swamp of Sorrows, Arathi Highlands, Badlands e Burning Steppes. Powderfuse Port, dove si trova la [Black Market Auction House](/it/guides/bmah/), non ha un maestro di volo. Arrivaci in sella da Farholde Keep, oppure prendi la nave da Steamwheedle Port.
-
-<figure class="wf-embed" data-wf-video="JYy08rjb3K4">
-  <button type="button" class="wf-embed__play">
-    <span class="wf-embed__icon" aria-hidden="true"></span>
-    <span class="wf-embed__text">
-      <span class="wf-embed__title">How to get to the Riverglades in WoW Forever</span>
-      <span class="wf-embed__meta">Avvia il video. Nutri su YouTube, 6 minuti.</span>
-    </span>
-  </button>
-</figure>
+[The Riverglades](/it/guides/riverglades/) è la nuova zona per i livelli dal 30 al 45. Ogni fazione vi riceve un punto di volo che la collega alle zone vicine. L'Alliance vola verso Redridge Mountains, Loch Modan e Burning Steppes, l'Horde verso Swamp of Sorrows, Arathi Highlands, Badlands e Burning Steppes. Powderfuse Port, dove si trova la [Black Market Auction House](/it/guides/bmah/), non ha un maestro di volo. Arrivaci in sella da Farholde Keep, oppure prendi la nave da Steamwheedle Port.
 
 Il Mount Hyjal è il traguardo del livellamento, con un accampamento dove Horde e Alliance stanno insieme. Entrambi i punti di volo della montagna servono le due fazioni, e Tainted Foothills è collegato a Everlook, in Winterspring, per ogni schieramento.
 

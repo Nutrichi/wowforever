@@ -13,6 +13,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Aggiornamento del 14 novembre:** Blizzard ha corretto il bug con le correzioni del 13 novembre, di più nel [nostro articolo](/it/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 Hai comprato [Dual Spec per 50 oro](/it/news/dual-spec-costs-50-gold-at-level-40/) in World of Warcraft: Forever? Potresti entrare con le barre d'azione vuote. Un bug può svuotare una o più barre quando esci. Il combattimento non ne risente, ma è fastidioso.
 
 ## Cosa succede

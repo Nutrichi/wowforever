@@ -12,6 +12,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Update 14 November:** since the hotfixes of 13 November, many more players per ruleset can win the weekly tournament, more in [our post](/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 The fishing tournament in Stranglethorn Vale is bugged on the live servers of World of Warcraft: Forever. Only the first player who handed in 40 Speckled Tastyfish got the Master Angler title. After that, no more Tastyfish schools appeared.
 
 <figure class="wf-embed" data-wf-video="RNfyD_97D50">

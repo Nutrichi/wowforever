@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update vom 14. November:** Seit den Hotfixes vom 13. November können viel mehr Spieler pro Ruleset das wöchentliche Turnier gewinnen, mehr in [unserem Beitrag](/de/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 Das Angelturnier in Stranglethorn Vale ist auf den Live-Servern von World of Warcraft: Forever verbuggt. Nur der erste Spieler, der 40 Speckled Tastyfish abgab, bekam den Titel Master Angler. Danach erschienen keine Tastyfish-Schwärme mehr.
 
 <figure class="wf-embed" data-wf-video="RNfyD_97D50">

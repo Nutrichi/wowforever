@@ -13,6 +13,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Actualización del 14 de noviembre:** Blizzard corrigió el error con las correcciones del 13 de noviembre, más en [nuestra noticia](/es/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 ¿Compraste [Dual Spec por 50 de oro](/es/news/dual-spec-costs-50-gold-at-level-40/) en World of Warcraft: Forever? Puede que entres con las barras de acción vacías. Un error puede borrar una o más barras al cerrar sesión. El combate no se ve afectado.
 
 ## Qué pasa

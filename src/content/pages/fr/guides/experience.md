@@ -3,7 +3,7 @@ title: "Expérience et XP reposée dans WoW Forever"
 metaTitle: "Guide de l'expérience WoW Forever : XP par niveau, XP reposée, nourriture et camps"
 description: "Comment fonctionne l'expérience dans WoW Forever : l'XP de chaque niveau jusqu'au 60, quêtes, kills, donjons et exploration, groupes, XP reposée et les bonus des camps, de la nourriture et du Cozy Sleeping Bag."
 short: "Expérience et XP reposée"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: fr
 manual: true
 faq:
@@ -162,7 +162,7 @@ Rassembler un groupe de monstres et l'abattre avec des sorts de zone peut aller 
 
 ## Donjons
 
-L'expérience des donjons a changé plusieurs fois pendant la bêta. En septembre, Blizzard a [déplacé l'expérience des kills vers les quêtes](/fr/news/wow-forever-dungeon-experience-changes/) : les monstres donnaient peu, les quêtes de donjon beaucoup. Le 1er octobre, l'expérience en plus des quêtes de donjon a été [réduite de 50 %](/fr/news/dungeon-quests-give-50-percent-less-bonus-experience/). Une semaine plus tard, les monstres de donjon ont reçu [20 % d'expérience en plus](/fr/news/dungeon-kills-give-20-percent-more-experience/), et un bug qui basait chaque kill sur le niveau le plus haut du groupe a été corrigé. Après le lancement, un hotfix du 8 novembre a [augmenté de 50 % l'expérience des monstres de donjon](/fr/news/dungeon-enemies-give-50-percent-more-experience/), à 60 % des valeurs de Classic Era. Blizzard se dit satisfait de ce rythme.
+L'expérience des donjons a changé plusieurs fois pendant la bêta. En septembre, Blizzard a [déplacé l'expérience des kills vers les quêtes](/fr/news/wow-forever-dungeon-experience-changes/) : les monstres donnaient peu, les quêtes de donjon beaucoup. Le 1er octobre, l'expérience en plus des quêtes de donjon a été [réduite de 50 %](/fr/news/dungeon-quests-give-50-percent-less-bonus-experience/). Une semaine plus tard, les monstres de donjon ont reçu [20 % d'expérience en plus](/fr/news/dungeon-kills-give-20-percent-more-experience/), et un bug qui basait chaque kill sur le niveau le plus haut du groupe a été corrigé. Après le lancement, un hotfix du 8 novembre a [augmenté de 50 % l'expérience des monstres de donjon](/fr/news/dungeon-enemies-give-50-percent-more-experience/), à 60 % des valeurs de Classic Era. Blizzard se dit satisfait de ce rythme. Depuis le 13 novembre, un monstre insignifiant pour un seul membre du groupe ne rapporte d'expérience à personne, [plus dans notre post](/fr/news/dual-spec-no-longer-wipes-your-action-bars/).
 
 Le mieux est de prendre les quêtes de donjon à l'avance et de les terminer pendant le run. Rassembler de grands groupes et les tuer avec des sorts de zone, le dungeon cleave, fonctionne aussi, mais Blizzard ne veut pas que les donjons soient la route la plus rapide vers le 60.
 

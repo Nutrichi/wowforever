@@ -3,7 +3,7 @@ title: "Ervaring en rested XP in WoW Forever"
 metaTitle: "WoW Forever ervaringsgids: XP per level, rested XP, eten en kampen"
 description: "Zo werkt ervaring in WoW Forever: de XP voor elk level tot 60, quests, kills, dungeons en verkennen, groepen, rested XP en de bonussen van kampen, eten en de Cozy Sleeping Bag."
 short: "Ervaring en rested XP"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: nl
 manual: true
 faq:
@@ -162,7 +162,7 @@ Een groep monsters samentrekken en met gebiedsspreuken neerhalen kan op de juist
 
 ## Dungeons
 
-De ervaring in dungeons veranderde meermaals op de beta. In september [verschoof Blizzard ervaring van kills naar quests](/nl/news/wow-forever-dungeon-experience-changes/): monsters gaven weinig, de dungeonquests veel. Op 1 oktober werd de extra ervaring van dungeonquests [met 50% verlaagd](/nl/news/dungeon-quests-give-50-percent-less-bonus-experience/). Een week later kregen dungeonmonsters [20% meer ervaring](/nl/news/dungeon-kills-give-20-percent-more-experience/), en werd een bug opgelost die elke kill baseerde op het hoogste level in de groep. Na de launch [verhoogde een hotfix op 8 november de kill-experience in dungeons met 50%](/nl/news/dungeon-enemies-give-50-percent-more-experience/), tot 60% van de waarden in Classic Era. Blizzard zegt tevreden te zijn met dat tempo.
+De ervaring in dungeons veranderde meermaals op de beta. In september [verschoof Blizzard ervaring van kills naar quests](/nl/news/wow-forever-dungeon-experience-changes/): monsters gaven weinig, de dungeonquests veel. Op 1 oktober werd de extra ervaring van dungeonquests [met 50% verlaagd](/nl/news/dungeon-quests-give-50-percent-less-bonus-experience/). Een week later kregen dungeonmonsters [20% meer ervaring](/nl/news/dungeon-kills-give-20-percent-more-experience/), en werd een bug opgelost die elke kill baseerde op het hoogste level in de groep. Na de launch [verhoogde een hotfix op 8 november de kill-experience in dungeons met 50%](/nl/news/dungeon-enemies-give-50-percent-more-experience/), tot 60% van de waarden in Classic Era. Blizzard zegt tevreden te zijn met dat tempo. Sinds 13 november geeft een monster dat triviaal is voor ook maar één groepslid niemand nog experience, [meer in onze post](/nl/news/dual-spec-no-longer-wipes-your-action-bars/).
 
 Het best neem je de dungeonquests vooraf aan en voltooi je ze tijdens de run. Grote groepen samentrekken en met gebiedsspreuken doden, dungeon cleave genoemd, werkt ook, maar Blizzard wil niet dat dungeons de snelste weg naar 60 worden.
 

@@ -12,6 +12,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Update 14 November:** Blizzard fixed the bug in the hotfixes of 13 November, more in [our post](/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 Bought [Dual Spec for 50 gold](/news/dual-spec-costs-50-gold-at-level-40/) in World of Warcraft: Forever? Then you may log in to empty action bars. A bug can wipe one or more bars when you log out. Combat is not affected.
 
 ## What happens

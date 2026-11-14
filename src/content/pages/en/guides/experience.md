@@ -3,7 +3,7 @@ title: "Experience and rested XP in WoW Forever"
 metaTitle: "WoW Forever experience guide: XP per level, rested XP, food and camps"
 description: "How experience works in WoW Forever: the XP for every level to 60, quests, kills, dungeons and exploration, groups, rested XP and the bonuses from camps, food and the Cozy Sleeping Bag."
 short: "Experience and rested XP"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: en
 faq:
   - q: "How much experience do you need to reach level 60 in WoW Forever?"
@@ -161,7 +161,7 @@ Pulling a pack and burning it down with area spells can be fast in the right spo
 
 ## Dungeons
 
-Dungeon experience changed several times on the beta. In September Blizzard [moved experience from kills to quests](/news/wow-forever-dungeon-experience-changes/): monsters gave little, the dungeon quests a lot. On 1 October the extra experience from dungeon quests was [cut by 50%](/news/dungeon-quests-give-50-percent-less-bonus-experience/). A week later dungeon monsters got [20% more experience](/news/dungeon-kills-give-20-percent-more-experience/), and a bug that based every kill on the highest level in the group was fixed. After the launch, a hotfix on 8 November [raised kill experience in dungeons by 50%](/news/dungeon-enemies-give-50-percent-more-experience/), to 60% of the values in Classic Era. Blizzard says it is happy with that pace.
+Dungeon experience changed several times on the beta. In September Blizzard [moved experience from kills to quests](/news/wow-forever-dungeon-experience-changes/): monsters gave little, the dungeon quests a lot. On 1 October the extra experience from dungeon quests was [cut by 50%](/news/dungeon-quests-give-50-percent-less-bonus-experience/). A week later dungeon monsters got [20% more experience](/news/dungeon-kills-give-20-percent-more-experience/), and a bug that based every kill on the highest level in the group was fixed. After the launch, a hotfix on 8 November [raised kill experience in dungeons by 50%](/news/dungeon-enemies-give-50-percent-more-experience/), to 60% of the values in Classic Era. Blizzard says it is happy with that pace. Since 13 November a monster that is trivial for even one member of the group gives nobody experience, [more in our post](/news/dual-spec-no-longer-wipes-your-action-bars/).
 
 The best approach is to pick up the dungeon quests in advance and complete them during the run. Pulling large packs and killing them with area spells, called dungeon cleave, also works, but Blizzard does not want dungeons to be the fastest road to 60.
 

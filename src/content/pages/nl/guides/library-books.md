@@ -3,7 +3,7 @@ title: "Bibliotheekboeken in WoW Forever: elke plek en beloning"
 metaTitle: "WoW Forever bibliotheekboeken: alle 36 plekken met /way, de beloningen en waar je ze inlevert"
 description: "Waar je elk bibliotheekboek in WoW Forever vindt: 36 boeken met /way in vier levelgroepen, waar de Alliance en de Horde ze inleveren, en de beloningen voor 10, 20 en 25 boeken."
 short: "Bibliotheekboeken"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: nl
 manual: true
 faq:
@@ -42,6 +42,8 @@ De twee kettingen zakten op de beta naar [groene kwaliteit](/nl/news/necklaces-f
 ## Waar je ze inlevert
 
 De Alliance gaat naar de Mage Tower in de Mage Quarter van Stormwind, de Horde naar de Magic Quarter van Undercity. De twee quests voor 20 en 25 boeken dragen dezelfde naam, Greater Friend of the Library.
+
+Tot 13 november weigerden beide bibliothecarissen door een bug elk boek. Een hotfix loste dat op, dus lever je boeken gerust weer in.
 
 Mages krijgen iets extra: het eerste boek geeft hen de spell Study, die in een bibliotheek scrolls maakt. Zie de [gids over Mage-scrolls](/nl/guides/mage-scrolls/).
 

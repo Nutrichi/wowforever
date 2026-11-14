@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guide zu The Drowned City für WoW Forever: Eingang, Aufbau, Bosse"
 description: "So erreichst du The Drowned City unter Wasser vor Stranglethorn Vale in WoW Forever, auf diesen Trash achtest du und so besiegst du die sechs Bosse und zwei Rares."
 short: "Guide"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: de
 manual: true
 sources:
@@ -31,7 +31,7 @@ Ihr startet in einer Höhle und steigt einen Hügel hinauf zu den großen Ruinen
 
 ## Trash, auf den du achten solltest
 
-Seit einem Hotfix vom 9. November machen die Kreaturen hier nicht mehr etwa 30 % mehr Schaden als vorgesehen. Gruppen, die sich vor diesem Datum zu stark anfühlten, sind jetzt leichter.
+Seit einem Hotfix vom 9. November machen die Kreaturen hier nicht mehr etwa 30 % mehr Schaden als vorgesehen. Gruppen, die sich vor diesem Datum zu stark anfühlten, sind jetzt leichter. Seit dem 13. November kommen Gegner erst nach 2 Stunden statt nach 1 Stunde zurück.
 
 - **Makrura Snappers und Chasm Crawlers** kommen zuerst. Die Crawlers laufen in Gruppen von zwei oder drei, schlagen hart zu und legen Muscle Tear auf den Tank (21 Stärke weniger), während die Snappers Sunder Armor stapeln. Pull ruhig und lass den Tank Aggro aufbauen.
 - **Risen Sentries** kommen in Gruppen von drei oder vier, oft mit einem **Profane Necro**. Die Sentries chargen und stoßen Spieler zurück; der Necro beschwört einen Drowned Spirit. Stell dich direkt auf die Gruppe, damit die Charges nichts bringen, töte zuerst den Necro und halte den Rücken von anderen Gruppen fern.

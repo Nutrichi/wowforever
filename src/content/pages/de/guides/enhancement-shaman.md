@@ -3,7 +3,7 @@ title: "Guide zum Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: Build, Stormstrike, Totems"
 description: "Der Enhancement Shaman in WoW Forever: der Build für Level 60, Stormstrike und Maelstrom Weapon, Rotation, Totems, Mana, Tanken, Werte und Völker."
 short: "Enhancement Shaman"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: de
 manual: true
 faq:
@@ -152,7 +152,7 @@ Ohne Mana bleiben dir deine weißen Schläge, aber dein Schaden fällt stark, bi
 
 - **Call of the Elements** und die anderen Call-Zauber stellen mit einer Taste ein gespeichertes Set aus vier Totems auf. Sie haben eine Zauberzeit.
 - **Totemic Recall** nimmt deine Totems zurück. **Totemic Call** holt deine aktiven Totems dorthin, wo du stehst, mit 30 Sekunden Abklingzeit.
-- **Windfury Totem** ist der beste Nahkampfbuff im Spiel. Ohne die Gruppenbeschränkung wirkt er für den ganzen Raid. Seit dem 12. November wirkt er neben deiner eigenen Waffenverzauberung, also können Windfury Weapon und Windfury Totem beide auslösen.
+- **Windfury Totem** ist der beste Nahkampfbuff im Spiel. Ohne die Gruppenbeschränkung wirkt er für den ganzen Raid. Seit dem 12. November wirkt er neben deiner eigenen Waffenverzauberung, also können Windfury Weapon und Windfury Totem beide auslösen. Seit dem 13. November kann jede Nahkampffähigkeit es auslösen, auch ohne Haupthand; nur Schläge der Nebenhand nicht.
 - **Tremor Totem** entfernt Furcht, Schlaf und Bezauberung von Verbündeten in Reichweite. Gutes Timing rettet Runs.
 - **Poison Cleansing Totem** und **Disease Cleansing Totem** entfernen pro Puls einen Effekt.
 - **Earthbind Totem** verlangsamt Gegner zum Kiten.

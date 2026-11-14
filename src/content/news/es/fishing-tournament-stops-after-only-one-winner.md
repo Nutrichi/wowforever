@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Actualización del 14 de noviembre:** desde las correcciones del 13 de noviembre, muchos más jugadores por ruleset pueden ganar el torneo semanal, más en [nuestra noticia](/es/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 El torneo de pesca de Stranglethorn Vale tiene un bug en los servidores live de World of Warcraft: Forever. Solo el primer jugador que entregó 40 Speckled Tastyfish recibió el título Master Angler. Después ya no aparecieron más bancos de Tastyfish.
 
 <figure class="wf-embed" data-wf-video="RNfyD_97D50">

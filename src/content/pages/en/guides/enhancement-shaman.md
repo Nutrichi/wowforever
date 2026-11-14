@@ -3,7 +3,7 @@ title: "Enhancement Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "The Enhancement Shaman in WoW Forever: the level 60 build, Stormstrike and Maelstrom Weapon, the rotation, totems, mana, tanking, stats and races."
 short: "Enhancement Shaman"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: en
 faq:
   - q: "Is Enhancement Shaman good in WoW Forever?"
@@ -151,7 +151,7 @@ Out of mana, you still have your white swings, but your damage drops sharply unt
 
 - **Call of the Elements** and the other Call spells drop a saved set of four totems with one button. They have a cast time.
 - **Totemic Recall** takes your totems back. **Totemic Call** brings your active totems to where you stand, with a 30 second cooldown.
-- **Windfury Totem** is the best melee buff in the game. Without the party restriction, it works for the whole raid. Since 12 November it works next to your own weapon imbue, so Windfury Weapon and Windfury Totem can both proc.
+- **Windfury Totem** is the best melee buff in the game. Without the party restriction, it works for the whole raid. Since 12 November it works next to your own weapon imbue, so Windfury Weapon and Windfury Totem can both proc. Since 13 November every melee ability can proc it, also those that do not use your main hand; only off-hand strikes cannot.
 - **Tremor Totem** removes fear, sleep and charm from allies in range. Good timing saves runs.
 - **Poison Cleansing Totem** and **Disease Cleansing Totem** remove one effect per pulse.
 - **Earthbind Totem** slows enemies for kiting.

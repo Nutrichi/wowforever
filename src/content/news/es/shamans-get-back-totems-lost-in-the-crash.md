@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Actualización del 14 de noviembre:** los jugadores que perdieron entrenamiento en la misma caída recuperan ahora el oro por correo, más en [nuestra noticia](/es/news/training-lost-in-the-crash-is-paid-back-in-gold/).
+
 Los Shamans que perdieron un tótem cuando los servidores cayeron el lunes lo recuperan. Blizzard aplicó una corrección en todas las regiones el martes. El tótem vuelve a tus bolsas, pero necesitas un hueco libre y volver a iniciar sesión.
 
 El lunes 9 de noviembre, hacia las 13:00 PST o las 22:00 hora belga, los servidores se apagaron para un mantenimiento de urgencia. Después, varios Shamans avisaron de que les faltaban tótems en las bolsas, como el <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5176"><img class="wf-wh__icon" src="/wh/spell_totem_wardofdraining.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Totem</a>. Sin ese objeto no puedes colocar los tótems de su elemento.

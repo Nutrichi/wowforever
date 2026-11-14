@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "The Drowned City guide for WoW Forever: entrance, layout, bosses"
 description: "How to reach The Drowned City under water off Stranglethorn Vale in WoW Forever, the trash to watch out for and how to beat its six bosses and two rares."
 short: "Guide"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: en
 sources:
   - name: "Wowhead, Explore the Drowned City"
@@ -30,7 +30,7 @@ You start in a cave and climb a hill to the main ruins. The city opens into a la
 
 ## Trash to watch out for
 
-Since a hotfix on 9 November, creatures here no longer do about 30% more damage than intended. Packs that felt too strong before that date are now easier.
+Since a hotfix on 9 November, creatures here no longer do about 30% more damage than intended. Packs that felt too strong before that date are now easier. Since 13 November, trash respawns after 2 hours instead of 1.
 
 - **Makrura Snappers and Chasm Crawlers** come first. The Crawlers walk in packs of two or three, hit hard and put Muscle Tear on the tank (21 less Strength), while the Snappers stack Sunder Armor. Pull slowly and let the tank build threat.
 - **Risen Sentries** come in packs of three or four, often with a **Profane Necro**. The Sentries charge and knock players back; the Necro summons a Drowned Spirit. Stand on top of the pack so the charges do nothing, kill the Necro first and keep your back away from other packs.

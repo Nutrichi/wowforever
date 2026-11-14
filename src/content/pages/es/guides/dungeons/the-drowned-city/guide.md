@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guía de The Drowned City para WoW Forever: entrada, plano y jefes"
 description: "Cómo llegar a The Drowned City bajo el agua frente a Stranglethorn Vale en WoW Forever, los enemigos a vigilar y cómo vencer a sus seis jefes y dos raros."
 short: "Guía"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: es
 manual: true
 sources:
@@ -31,7 +31,7 @@ Empiezas en una cueva y subes una colina hasta las grandes ruinas. La ciudad se 
 
 ## Enemigos a vigilar
 
-Desde un hotfix del 9 de noviembre, las criaturas de aquí ya no hacen un 30% más de daño del previsto. Los grupos que parecían demasiado fuertes antes de esa fecha ahora son más fáciles.
+Desde un hotfix del 9 de noviembre, las criaturas de aquí ya no hacen un 30% más de daño del previsto. Los grupos que parecían demasiado fuertes antes de esa fecha ahora son más fáciles. Desde el 13 de noviembre, los enemigos reaparecen tras 2 horas en vez de 1.
 
 - **Los Makrura Snappers y Chasm Crawlers** llegan primero. Los Crawlers van de dos en dos o de tres en tres, pegan fuerte y ponen Muscle Tear al tanque (21 de Fuerza menos), mientras los Snappers acumulan Sunder Armor. Pullea con calma y deja que el tanque gane amenaza.
 - **Los Risen Sentries** vienen en grupos de tres o cuatro, a menudo con un **Profane Necro**. Los Sentries cargan y empujan a los jugadores; el Necro invoca un Drowned Spirit. Ponte encima del grupo para que las cargas no hagan nada, mata primero al Necro y mantén la espalda lejos de otros grupos.

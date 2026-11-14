@@ -3,7 +3,7 @@ title: "World of Warcraft: Forever"
 metaTitle: "WoW Forever: Start, Raids, Roadmap, Skyborne und Editionen"
 description: "Alles, was Blizzard zu World of Warcraft: Forever angekündigt hat: die Termine, die Roadmap, die neuen Zonen, Dungeons und Raids, die Skyborne, das Legacy-System und die Editionen."
 short: "WoW Forever"
-updated: 2026-11-13
+updated: 2026-11-14
 lang: de
 manual: true
 faq:
@@ -170,7 +170,7 @@ Die Startzone der Skyborne: eine abgelegene Insel am Himmel, deren Existenz nun 
 
 ### The Riverglades, etwa Stufe 30 bis 45
 
-Ein neues Grenzland in den Eastern Kingdoms, mit Flüssen, Grasland, Handelswegen und verfallenen Burgen. Es gibt mehr als 150 neue Quests, neue Rufe und Belohnungen. Menschen, Orcs, Oger und kleine Gemeinschaften mit altem Groll leben dort; Blizzard nannte es „not a story about saving Azeroth, a story about living there“. Ein neutraler Goblinhafen bringt neue Reisewege, und die Zone bekommt einen eigenen Dungeon. Eine Weggabelung in Redridge Mountains, die früher in einer Sackgasse endete, führt jetzt dorthin. Spieler der Allianz treffen die Brotherhood of the Horse, die seit Warcraft II nicht mehr zu sehen war, Spieler der Horde einen Ogerclan; der Twilight's Hammer ist die Bedrohung, laut [einem Video von Blizzard](/de/news/a-five-minute-video-sums-up-what-changes/) vom 23. September. Das Black Market Auction House von Forever steht in Powderfuse Port, einem Goblin-Außenposten der Zone; siehe den [Guide zum BMAH](/de/guides/bmah/). Die Kurzgeschichte Cost of Honor vom 13. November spielt in Farholde Keep; siehe den [Beitrag zur Geschichte](/de/news/cost-of-honor-tells-the-past-of-the-riverglades/).
+Ein neues Grenzland in den Eastern Kingdoms, mit Flüssen, Grasland, Handelswegen und verfallenen Burgen. Es gibt mehr als 150 neue Quests, neue Rufe und Belohnungen. Menschen, Orcs, Oger und kleine Gemeinschaften mit altem Groll leben dort; Blizzard nannte es „not a story about saving Azeroth, a story about living there“. Ein neutraler Goblinhafen bringt neue Reisewege, und die Zone bekommt einen eigenen Dungeon. Eine Weggabelung in Redridge Mountains, die früher in einer Sackgasse endete, führt jetzt dorthin. Spieler der Allianz treffen die Brotherhood of the Horse, die seit Warcraft II nicht mehr zu sehen war, Spieler der Horde einen Ogerclan; der Twilight's Hammer ist die Bedrohung, laut [einem Video von Blizzard](/de/news/a-five-minute-video-sums-up-what-changes/) vom 23. September. Das Black Market Auction House von Forever steht in Powderfuse Port, einem Goblin-Außenposten der Zone; siehe den [Guide zum BMAH](/de/guides/bmah/). Die Kurzgeschichte Cost of Honor vom 13. November spielt in Farholde Keep; siehe den [Beitrag zur Geschichte](/de/news/cost-of-honor-tells-the-past-of-the-riverglades/). Anreise, Orte und Quests stehen in unserem [Guide zu den Riverglades](/de/guides/riverglades/).
 
 <figure class="wf-embed" data-wf-video="JYy08rjb3K4">
   <button type="button" class="wf-embed__play">

@@ -3,7 +3,7 @@ title: "Guía del Enhancement Shaman en WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, tótems"
 description: "El Enhancement Shaman en WoW Forever: la build de nivel 60, Stormstrike y Maelstrom Weapon, la rotación, los tótems, el maná, tanquear, los stats y las razas."
 short: "Enhancement Shaman"
-updated: 2026-11-12
+updated: 2026-11-14
 lang: es
 manual: true
 faq:
@@ -152,7 +152,7 @@ Sin maná aún te quedan los golpes blancos, pero tu daño cae mucho hasta que s
 
 - **Call of the Elements** y los demás hechizos Call colocan con un botón un conjunto guardado de cuatro tótems. Tienen tiempo de lanzamiento.
 - **Totemic Recall** recupera tus tótems. **Totemic Call** lleva tus tótems activos hasta donde estás, con una reutilización de 30 segundos.
-- **Windfury Totem** es el mejor beneficio cuerpo a cuerpo del juego. Sin la restricción de grupo, funciona para toda la raid. Desde el 12 de noviembre funciona junto a tu propio encantamiento de arma, así que Windfury Weapon y Windfury Totem pueden saltar los dos.
+- **Windfury Totem** es el mejor beneficio cuerpo a cuerpo del juego. Sin la restricción de grupo, funciona para toda la raid. Desde el 12 de noviembre funciona junto a tu propio encantamiento de arma, así que Windfury Weapon y Windfury Totem pueden saltar los dos. Desde el 13 de noviembre cualquier habilidad cuerpo a cuerpo puede activarlo, también sin usar la mano principal; solo los golpes de la mano secundaria no.
 - **Tremor Totem** quita miedo, sueño y encantamiento a los aliados al alcance. Un buen momento salva partidas.
 - **Poison Cleansing Totem** y **Disease Cleansing Totem** quitan un efecto por pulso.
 - **Earthbind Totem** ralentiza a los enemigos para hacer kiting.

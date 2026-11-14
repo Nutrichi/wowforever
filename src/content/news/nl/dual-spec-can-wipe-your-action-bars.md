@@ -13,6 +13,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Update 14 november:** Blizzard loste de bug op met de hotfixes van 13 november, meer in [onze post](/nl/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 [Dual Spec voor 50 gold](/nl/news/dual-spec-costs-50-gold-at-level-40/) gekocht in World of Warcraft: Forever? Dan log je misschien in met lege actiebalken. Een bug kan een of meer balken wissen als je uitlogt. In gevecht verandert er niets.
 
 ## Wat er gebeurt

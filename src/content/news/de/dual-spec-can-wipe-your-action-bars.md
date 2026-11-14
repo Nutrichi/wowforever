@@ -13,6 +13,8 @@ tags: ["forever", "talents"]
 featured: false
 draft: false
 ---
+> **Update vom 14. November:** Blizzard hat den Bug mit den Hotfixes vom 13. November behoben, mehr in [unserem Beitrag](/de/news/dual-spec-no-longer-wipes-your-action-bars/).
+
 [Dual Spec für 50 Gold](/de/news/dual-spec-costs-50-gold-at-level-40/) gekauft in World of Warcraft: Forever? Dann loggst du vielleicht mit leeren Aktionsleisten ein. Ein Bug kann beim Ausloggen eine oder mehrere Leisten leeren. Im Kampf ändert sich nichts, aber es nervt.
 
 ## Was passiert

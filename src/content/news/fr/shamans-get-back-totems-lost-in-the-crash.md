@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Mise à jour du 14 novembre :** les joueurs qui ont perdu de l'entraînement dans le même crash récupèrent maintenant l'or par courrier, plus de détails dans [notre article](/fr/news/training-lost-in-the-crash-is-paid-back-in-gold/).
+
 Les Shamans qui ont perdu un totem lors du crash des serveurs lundi le récupèrent. Blizzard a déployé une correction dans toutes les régions mardi. Le totem revient dans vos sacs, mais il vous faut une place libre et une reconnexion.
 
 Le lundi 9 novembre, vers 13 h PST ou 22 h heure belge, les serveurs ont été coupés pour une maintenance d'urgence. Ensuite, des Shamans ont signalé des totems disparus de leurs sacs, comme le <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5176"><img class="wf-wh__icon" src="/wh/spell_totem_wardofdraining.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fire Totem</a>. Sans cet objet, impossible de poser les totems de son élément.
