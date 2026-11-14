@@ -5,8 +5,8 @@ date: 2026-11-14T11:29:00+01:00
 category: forever
 lang: nl
 manual: true
-image: ../../../assets/posts/2026-10-07-wow-forever-booty-bay-harbour.jpg
-imageAlt: "De haven van Booty Bay met houten steigers, huizen met rode daken en een waterval tegen de rotsen, een schermafdruk uit World of Warcraft"
+image: ../../../assets/posts/2026-11-14-wow-forever-elven-ruins-purple-forest.jpg
+imageAlt: "Witte elfenruïnes met gebroken zuilen in een bos met paarse bomen, een schermafdruk uit World of Warcraft"
 source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/new-max-level-weekly-quest-rewards-up-to-100-gold-in-wow-forever-383846"
 tags: ["forever"]
