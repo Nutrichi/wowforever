@@ -1,7 +1,7 @@
 ---
 title: "Spelers noemen de Riverglades hun favoriete zone"
 description: "Veel spelers van WoW Forever noemen de Riverglades hun favoriete levelzone: quests in duidelijke rondes, weinig concurrentie voor monsters en 4 tot 5 levels. Ga erheen rond level 40."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-14T10:40:00+01:00
 category: forever
 lang: nl
 manual: true
@@ -11,7 +11,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever-383849"
 tags: ["forever", "leveling"]
 featured: false
-draft: true
+draft: false
 ---
 Veel spelers noemen de Riverglades hun favoriete levelzone in World of Warcraft: Forever. De nieuwe zone aan de oostkust van de Eastern Kingdoms is bedoeld voor level 36 tot 44, en alle quests samen zijn 4 tot 5 levels waard.
 

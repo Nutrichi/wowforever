@@ -1,7 +1,7 @@
 ---
 title: "Players name the Riverglades their favorite zone"
 description: "Many WoW Forever players call the Riverglades their favorite leveling zone: quests in clear rounds, few rivals for monsters and 4 to 5 levels. Go there around level 40."
-date: 2026-11-13T22:00:00+01:00
+date: 2026-11-14T10:40:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-11-14-wow-forever-riverglades-farholde-keep.jpg
@@ -10,7 +10,7 @@ source: "Wowhead"
 sourceUrl: "https://www.wowhead.com/forever/news/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever-383849"
 tags: ["forever", "leveling"]
 featured: false
-draft: true
+draft: false
 ---
 Many players name the Riverglades their favorite leveling zone in World of Warcraft: Forever. The new zone on the east coast of the Eastern Kingdoms is meant for levels 36 to 44, and its quests together are worth 4 to 5 levels.
 
