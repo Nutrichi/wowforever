@@ -3,7 +3,7 @@ title: "First Aid dans WoW Forever : potions, remèdes et maîtres"
 metaTitle: "Guide First Aid de WoW Forever : potions de soins, remèdes, maîtres et rangs"
 description: "First Aid dans WoW Forever fabrique des bandages, des potions de soins et des remèdes contre le poison, la maladie et les saignements. Les maîtres, le livre et la quête pour Expert et Artisan, et chaque nouvelle recette."
 short: "First Aid"
-updated: 2026-10-03
+updated: 2026-11-16
 lang: fr
 faq:
   - q: "Alchemy fabrique-t-il encore des potions de soins dans WoW Forever ?"
@@ -40,6 +40,8 @@ First Aid est un métier secondaire, il ne prend donc jamais l’une de vos deux
 **Le livre Expert** est vendu par <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2805">Deneb Walker</a> à Stromgarde Keep, Arathi Highlands (/way 27.0 58.8), pour l’Alliance, et par <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13476">Balai Lok'Wein</a> à Brackenwall Village, Dustwallow Marsh (/way 36.4 30.4), pour la Horde. Il n’est pas lié, donc on le trouve aussi à l’hôtel des ventes.
 
 **Artisan** vient de la quête Triage. L’Alliance reçoit <a href="https://www.wowhead.com/forever/quest=6624">Triage</a> de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12939">Doctor Gustaf VanHowzen</a> sur Theramore Isle (/way 67.6 48.8), la Horde <a href="https://www.wowhead.com/forever/quest=6622">Triage</a> de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12920">Doctor Gregory Victor</a> à Hammerfall (/way 73.4 36.8). Les quêtes d’approche <a href="https://www.wowhead.com/forever/quest=6625">Alliance Trauma</a> et <a href="https://www.wowhead.com/forever/quest=6623">Horde Trauma</a> commencent chez les maîtres d’Ironforge et d’Orgrimmar, mais on peut les sauter.
+
+**Comment fonctionne Triage.** La quête lance un événement dans un hôpital de campagne. Vous recevez un Triage Bandage et devez sauver 15 soldats blessés avant que 6 ne meurent. Plus la blessure est grave, plus le patient meurt vite : soignez d'abord les Critically Injured, puis les Badly Injured, puis les Injured, sans laisser personne attendre trop longtemps.
 
 ## Maîtres
 
@@ -105,6 +107,8 @@ Les deux anti-venins sont les recettes de Classic, avec la compétence qu’elle
 Le fonctionnement d’un campement est expliqué dans le [guide du camping](/fr/guides/camping/).
 
 ## Monter le métier
+
+Deux boutons de la fenêtre de métier font gagner du temps : le menu Filter propose **Has skill up**, qui n'affiche que les recettes qui donnent encore des points, et **Track Recipe** place les composants d'une recette dans votre suivi de quêtes comme liste de courses.
 
 Il existe désormais deux parcours complets. Les deux demandent les mêmes livres à partir de 150 : <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> pour le rang, et les manuels <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> et <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, tous chez les vendeurs Expert ci-dessus. Ils s’échangent, donc l’hôtel des ventes marche aussi.
 

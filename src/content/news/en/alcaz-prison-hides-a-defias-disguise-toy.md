@@ -12,6 +12,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 16 November:** every character earns only one Fractured Insignia and the chain cannot be repeated, so the toy takes six characters or gold. More in [our post](/news/the-alcaz-toy-needs-six-characters-or-gold/).
+
 Players have found a secret toy in World of Warcraft: Forever. The <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279471"><img class="wf-wh__icon" src="/wh/achievement_boss_edwinvancleef.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alcaz Operative Insignia</a> disguises you as a Defias operative from Alcaz Island for 10 minutes. The chain starts in the new dungeon Alcaz Prison, and its first boss has to stay alive.
 
 ## How the chain works
@@ -34,4 +36,4 @@ The Alcaz Operative Insignia is a toy that binds when picked up. It disguises yo
 
 </div>
 
-Players of the WoW Secret Finding Discord found the secret. How you collect six Fractured Insignia, and whether that takes six runs, is not known yet. The dungeon itself is in the [Alcaz Prison guide](/guides/dungeons/alcaz-prison/guide/).
+Players of the WoW Secret Finding Discord found the secret. Each character earns one Fractured Insignia, so the toy takes six characters or gold, [more in our post](/news/the-alcaz-toy-needs-six-characters-or-gold/). The dungeon itself is in the [Alcaz Prison guide](/guides/dungeons/alcaz-prison/guide/).

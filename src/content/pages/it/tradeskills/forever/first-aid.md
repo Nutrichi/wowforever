@@ -3,7 +3,7 @@ title: "First Aid in WoW Forever: pozioni, rimedi e istruttori"
 metaTitle: "Guida a First Aid di WoW Forever: pozioni di cura, rimedi, istruttori e gradi"
 description: "First Aid in WoW Forever crea bende, pozioni di cura e rimedi contro veleno, malattia e sanguinamento. Gli istruttori, il libro e la missione per Expert e Artisan, e ogni nuova ricetta."
 short: "First Aid"
-updated: 2026-10-03
+updated: 2026-11-16
 lang: it
 faq:
   - q: "Alchemy crea ancora le pozioni di cura in WoW Forever?"
@@ -40,6 +40,8 @@ First Aid è una professione secondaria, quindi non occupa mai uno dei tuoi due 
 **Il libro Expert** è venduto da <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2805">Deneb Walker</a> a Stromgarde Keep, Arathi Highlands (/way 27.0 58.8), per l’Alleanza, e da <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13476">Balai Lok'Wein</a> a Brackenwall Village, Dustwallow Marsh (/way 36.4 30.4), per l’Orda. Non è vincolato, quindi si trova anche alla casa d’aste.
 
 **Artisan** arriva dalla missione Triage. L’Alleanza riceve <a href="https://www.wowhead.com/forever/quest=6624">Triage</a> da <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12939">Doctor Gustaf VanHowzen</a> a Theramore Isle (/way 67.6 48.8), l’Orda <a href="https://www.wowhead.com/forever/quest=6622">Triage</a> da <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12920">Doctor Gregory Victor</a> a Hammerfall (/way 73.4 36.8). Le missioni introduttive <a href="https://www.wowhead.com/forever/quest=6625">Alliance Trauma</a> e <a href="https://www.wowhead.com/forever/quest=6623">Horde Trauma</a> partono dagli istruttori di Ironforge e Orgrimmar, ma si possono saltare.
+
+**Come funziona Triage.** La missione avvia un evento in un ospedale da campo. Ricevi un Triage Bandage e devi salvare 15 soldati feriti prima che ne muoiano 6. Più grave è la ferita, prima muore il paziente, quindi cura prima i Critically Injured, poi i Badly Injured e infine gli Injured, senza far aspettare nessuno troppo a lungo.
 
 ## Istruttori
 
@@ -105,6 +107,8 @@ I due antiveleni sono le ricette di Classic, con l’abilità che avevano lì. D
 Come funziona un accampamento è nella [guida al camping](/it/guides/camping/).
 
 ## Salire di livello
+
+Due pulsanti della finestra della professione fanno risparmiare tempo: il menu Filter ha **Has skill up**, che mostra solo le ricette che danno ancora punti, e **Track Recipe** mette i materiali di una ricetta nel tracciamento delle missioni come lista della spesa.
 
 Ora ci sono due percorsi completi. Entrambi chiedono gli stessi libri da 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> per il grado, e i manuali <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> e <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, tutti dai venditori Expert qui sopra. Si possono scambiare, quindi va bene anche la casa d’aste.
 

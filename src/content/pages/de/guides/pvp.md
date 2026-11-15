@@ -3,7 +3,7 @@ title: "PvP in WoW Forever erklärt: Rank Points, Honor und jeder Rang"
 metaTitle: "WoW Forever PvP: Rank Points (RP), Honor und alle 14 Ränge"
 description: "So funktioniert PvP in WoW Forever: Rank Points (RP) und Wochenlimit, Honor, Marks of Honor, alle 14 Ränge mit Belohnungen, Schlachtfelder, Stufenbereiche und Darkspear Islands."
 short: "PvP"
-updated: 2026-11-09
+updated: 2026-11-16
 lang: de
 manual: true
 faq:
@@ -54,7 +54,7 @@ Das seltene (blaue) PvP-Set braucht keinen Rang, nur Honor. Um ein Teil episch z
 
 ## Alle 14 Ränge und ihre Belohnungen
 
-Die Belohnungen kaufst du bei den PvP-Händlern in Stormwind und Orgrimmar.
+Die Belohnungen kaufst du bei den PvP-Händlern in Stormwind und Orgrimmar, siehe [wo du PvP-Ausrüstung kaufst](#wo-du-pvp-ausrüstung-kaufst).
 
 | Rang | Allianz | Horde | Belohnung |
 |---|---|---|---|
@@ -72,6 +72,24 @@ Die Belohnungen kaufst du bei den PvP-Händlern in Stormwind und Orgrimmar.
 | **12** | Marshal | General | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=275229"><img class="wf-wh__icon" src="/wh/inv_shoulder_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Emboldened Shoulder Seal</a>, <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=275242"><img class="wf-wh__icon" src="/wh/inv_pants_plate_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Emboldened Legs Seal</a> |
 | **13** | Field Marshal | Warlord | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=275241"><img class="wf-wh__icon" src="/wh/inv_helmet_41.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Emboldened Head Seal</a>, <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=275238"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Emboldened Chest Seal</a> |
 | **14** | Grand Marshal | High Warlord | Epische PvP-Waffen |
+
+## Wo du PvP-Ausrüstung kaufst
+
+Die PvP-Händler stehen an drei Orten. Jede Stadt hat Händler für Rüstung, Waffen, Offiziersaccessoires und Reittiere. Dalaran hat keinen Reittierhändler.
+
+| Wo | /way | Händler |
+|---|---|---|
+| Champion's Hall, Old Town, Stormwind (Alliance) | 76.0 66.2 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12777">Captain Dirgehammer</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12782">Captain O'Neal</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12781">Master Sergeant Biggins</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12783">Lieutenant Karter</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12784">Lieutenant Jackspring</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12785">Sergeant Major Clate</a> |
+| Hall of Legends, Orgrimmar (Horde), auf der oberen Ebene zwischen Flugmeister und Valley of Spirits | 40.6 68.5 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12792">Lady Palanseer</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14581">Sergeant Thunderhorn</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12793">Brave Stonehide</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12796">Raider Bork</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12795">First Sergeant Hola'mahi</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12794">Stone Guard Zarg</a> |
+| The Underbelly, die Kanalisation von Dalaran (beide Fraktionen, /way auf der Karte der Alterac Mountains) | 16.1 70.6 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=30885">Blazik Fireclaw</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=32334">Nixi Fireclaw</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=32333">&quot;Dapper&quot; Danik Blackshaft</a> |
+
+Jedes klassische Schlachtfeld hat außerdem einen eigenen Ruf und einen Versorgungsoffizier, nahe dem Portal zu diesem Schlachtfeld. Sie nehmen Honor und die Marks of Honor ihres Schlachtfelds. Die Rüstmeister von Darkspear Islands stehen im Teil darunter.
+
+| Schlachtfeld | Alliance | /way | Horde | /way |
+|---|---|---|---|---|
+| Warsong Gulch | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14753">Illiyana Moonblaze</a> (Silverwing Sentinels, Ashenvale) | 61.6 83.8 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14754">Kelm Hargunth</a> (Warsong Outriders, The Barrens) | 46.7 8.4 |
+| Arathi Basin | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=15127">Samuel Hawke</a> (The League of Arathor, Arathi Highlands) | 46.0 45.6 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=15126">Rutherford Twing</a> (The Defilers, Arathi Highlands) | 73.6 29.8 |
+| Alterac Valley | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13217">Thanthaldis Snowgleam</a> (Stormpike Guard, Alterac Mountains) | 39.6 81.6 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13219">Jekyll Flandring</a> (Frostwolf Clan, Alterac Mountains) | 62.8 59.6 |
 
 ## Schlachtfelder und Stufenbereiche
 

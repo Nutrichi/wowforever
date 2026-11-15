@@ -3,7 +3,7 @@ title: "First Aid in WoW Forever: potions, curatives and trainers"
 metaTitle: "WoW Forever First Aid guide: healing potions, curatives, trainers and ranks"
 description: "First Aid in WoW Forever crafts bandages, healing potions and curatives for poison, disease and bleeding. The trainers, the book and quest for Expert and Artisan, and every new recipe."
 short: "First Aid"
-updated: 2026-10-03
+updated: 2026-11-16
 lang: en
 faq:
   - q: "Does Alchemy still make healing potions in WoW Forever?"
@@ -39,6 +39,8 @@ First Aid is a secondary profession, so it never takes one of your two main slot
 **The Expert book** is sold by <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2805">Deneb Walker</a> in Stromgarde Keep, Arathi Highlands (/way 27.0 58.8), for the Alliance, and by <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13476">Balai Lok'Wein</a> in Brackenwall Village, Dustwallow Marsh (/way 36.4 30.4), for the Horde. It is not soulbound, so it also shows up at the Auction House.
 
 **Artisan** comes from the quest Triage. The Alliance gets <a href="https://www.wowhead.com/forever/quest=6624">Triage</a> from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12939">Doctor Gustaf VanHowzen</a> on Theramore Isle (/way 67.6 48.8), the Horde <a href="https://www.wowhead.com/forever/quest=6622">Triage</a> from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12920">Doctor Gregory Victor</a> in Hammerfall (/way 73.4 36.8). The breadcrumbs <a href="https://www.wowhead.com/forever/quest=6625">Alliance Trauma</a> and <a href="https://www.wowhead.com/forever/quest=6623">Horde Trauma</a> start with the trainers in Ironforge and Orgrimmar, but you can skip them.
+
+**How Triage works.** The quest starts an event in a field hospital. You get a Triage Bandage and have to save 15 wounded soldiers before 6 of them die. The worse the wound, the faster a patient dies, so treat Critically Injured first, then Badly Injured, then Injured, and do not leave anyone waiting too long.
 
 ## Trainers
 
@@ -104,6 +106,8 @@ The two anti-venoms are the recipes from Classic, with the skill they had there.
 How a campsite works is in the [camping guide](/guides/camping/).
 
 ## Leveling
+
+Two buttons in the profession window save time: the Filter menu has **Has skill up**, which shows only recipes that still give points, and **Track Recipe** puts the materials of a recipe in your quest tracker as a shopping list.
 
 There are now two complete routes. Both need the same books from 150: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> for the rank, and the manuals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, all from the Expert vendors above. They can be traded, so the Auction House works too.
 

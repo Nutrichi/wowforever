@@ -3,7 +3,7 @@ title: "Le Riverglades in WoW Forever: guida alla zona"
 metaTitle: "Guida alle Riverglades di WoW Forever: arrivo, missioni, arena"
 description: "Le Riverglades in WoW Forever: come arrivarci a piedi o in nave, Farholde Keep, Rog'mar e Powderfuse Port, punti di volo, missioni, il Bloodmaster's Ring e Krol'dok Stronghold."
 short: "Le Riverglades"
-updated: 2026-11-14
+updated: 2026-11-16
 lang: it
 manual: true
 faq:
@@ -40,9 +40,9 @@ Le Riverglades sono una nuova zona di WoW Forever, sulla costa est dei Regni Ori
 
 Ci sono tre modi per entrare:
 
-- **Da Redridge Mountains**, lungo la strada nel nord della zona. Una deviazione che in Classic non portava da nessuna parte ora porta alle Riverglades. I giocatori trovano l'inizio del sentiero a est della grotta a nord della Tower of Ilgalar, verso /way 76.0 35.5: sali il pendio fino a un piccolo sentiero sotto la strada e seguilo verso nord-est.
+- **Da Redridge Mountains**, la via più rapida per l'Alliance. Da Lakeshire segui la strada verso nord fino al bordo della mappa, verso la porta delle Burning Steppes. All'incrocio un cartello indica le Riverglades: prendi il sentiero di destra e dopo una breve camminata sei nelle Bristle Hills, a ovest della zona. La strada poi scende a sud fino a Farholde Keep, la base dell'Alliance.
 - **Dalle Badlands**, lungo la strada nel sud della zona. Per l'Orda è l'ingresso più facile senza il punto di volo.
-- **In nave** da Steamwheedle Port a Tanaris, a est di Gadgetzan (/way 68.6 23.0). La nave attracca a Powderfuse Port (/way 80.6 54.6). Il ritorno a Kalimdor funziona allo stesso modo.
+- **In nave** da Steamwheedle Port a Tanaris, a est di Gadgetzan (/way 68.6 23.0). La nave attracca a Powderfuse Port (/way 80.6 54.6). Il ritorno a Kalimdor funziona allo stesso modo. Dal porto l'Horde segue la strada fino a Rog'mar.
 
 <figure class="wf-embed" data-wf-video="JYy08rjb3K4">
   <button type="button" class="wf-embed__play">

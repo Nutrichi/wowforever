@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update vom 16. November:** Jeder Charakter verdient nur eine Fractured Insignia und die Reihe lässt sich nicht wiederholen, also braucht das Spielzeug sechs Charaktere oder Gold. Mehr in [unserem Beitrag](/de/news/the-alcaz-toy-needs-six-characters-or-gold/).
+
 Spieler haben ein geheimes Spielzeug in World of Warcraft: Forever gefunden. Die <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279471"><img class="wf-wh__icon" src="/wh/achievement_boss_edwinvancleef.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alcaz Operative Insignia</a> verkleidet dich 10 Minuten als Defias-Agent von Alcaz Island. Die Reihe beginnt im neuen Dungeon Alcaz Prison, und sein erster Boss muss am Leben bleiben.
 
 ## So funktioniert die Reihe
@@ -35,4 +37,4 @@ Die Alcaz Operative Insignia ist ein Spielzeug, das beim Aufheben gebunden wird.
 
 </div>
 
-Spieler des Discords WoW Secret Finding haben das Geheimnis gefunden. Wie man sechs Fractured Insignia sammelt und ob das sechs Durchläufe kostet, ist noch nicht bekannt. Der Dungeon selbst steht im [Guide zu Alcaz Prison](/de/guides/dungeons/alcaz-prison/guide/).
+Spieler des Discords WoW Secret Finding haben das Geheimnis gefunden. Jeder Charakter verdient eine Fractured Insignia, also braucht das Spielzeug sechs Charaktere oder Gold, [mehr in unserem Beitrag](/de/news/the-alcaz-toy-needs-six-characters-or-gold/). Der Dungeon selbst steht im [Guide zu Alcaz Prison](/de/guides/dungeons/alcaz-prison/guide/).

@@ -3,7 +3,7 @@ title: "Les Riverglades dans WoW Forever : le guide de la zone"
 metaTitle: "Guide des Riverglades WoW Forever : y aller, quêtes, l'arène"
 description: "Les Riverglades dans WoW Forever : y aller à pied ou en bateau, Farholde Keep, Rog'mar et Powderfuse Port, points de vol, quêtes, le Bloodmaster's Ring et Krol'dok Stronghold."
 short: "Les Riverglades"
-updated: 2026-11-14
+updated: 2026-11-16
 lang: fr
 manual: true
 faq:
@@ -40,9 +40,9 @@ Les Riverglades sont une nouvelle zone de WoW Forever, sur la côte est des Roya
 
 Il y a trois façons d'entrer :
 
-- **Depuis Redridge Mountains**, par la route au nord de la zone. Un embranchement qui menait nulle part dans Classic mène maintenant aux Riverglades. Les joueurs trouvent le début du chemin à l'est de la grotte au nord de la Tower of Ilgalar, vers /way 76.0 35.5 : montez la pente jusqu'à un petit sentier sous la route et suivez-le vers le nord-est.
+- **Depuis Redridge Mountains**, le chemin le plus rapide pour l'Alliance. Depuis Lakeshire, suivez la route vers le nord jusqu'au bord de la carte, en direction de la porte des Burning Steppes. Au carrefour, un panneau indique les Riverglades : prenez le chemin de droite et, après une courte marche, vous êtes dans les Bristle Hills, à l'ouest de la zone. La route descend ensuite vers le sud jusqu'à Farholde Keep, la base de l'Alliance.
 - **Depuis les Badlands**, par la route au sud de la zone. Pour la Horde, c'est l'entrée la plus simple sans le point de vol.
-- **En bateau** depuis Steamwheedle Port à Tanaris, à l'est de Gadgetzan (/way 68.6 23.0). Le bateau accoste à Powderfuse Port (/way 80.6 54.6). Le retour vers Kalimdor se fait de la même façon.
+- **En bateau** depuis Steamwheedle Port à Tanaris, à l'est de Gadgetzan (/way 68.6 23.0). Le bateau accoste à Powderfuse Port (/way 80.6 54.6). Le retour vers Kalimdor se fait de la même façon. Depuis le port, la Horde suit la route jusqu'à Rog'mar.
 
 <figure class="wf-embed" data-wf-video="JYy08rjb3K4">
   <button type="button" class="wf-embed__play">

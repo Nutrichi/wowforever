@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Aggiornamento del 16 novembre:** ogni personaggio ottiene una sola Fractured Insignia e la catena non si ripete, quindi il giocattolo vuole sei personaggi o oro. Di più nel [nostro articolo](/it/news/the-alcaz-toy-needs-six-characters-or-gold/).
+
 I giocatori hanno trovato un giocattolo segreto in World of Warcraft: Forever. L'<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279471"><img class="wf-wh__icon" src="/wh/achievement_boss_edwinvancleef.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alcaz Operative Insignia</a> ti traveste da agente Defias di Alcaz Island per 10 minuti. La catena inizia nel nuovo dungeon Alcaz Prison, e il suo primo boss deve restare vivo.
 
 ## Come funziona la catena
@@ -35,4 +37,4 @@ L'Alcaz Operative Insignia è un giocattolo che si vincola alla raccolta. Ti tra
 
 </div>
 
-I giocatori del Discord WoW Secret Finding hanno trovato il segreto. Come raccogliere sei Fractured Insignia, e se servano sei run, non è ancora noto. Il dungeon stesso è nella [guida di Alcaz Prison](/it/guides/dungeons/alcaz-prison/guide/).
+I giocatori del Discord WoW Secret Finding hanno trovato il segreto. Ogni personaggio ottiene una Fractured Insignia, quindi il giocattolo vuole sei personaggi o oro, [di più nel nostro articolo](/it/news/the-alcaz-toy-needs-six-characters-or-gold/). Il dungeon stesso è nella [guida di Alcaz Prison](/it/guides/dungeons/alcaz-prison/guide/).

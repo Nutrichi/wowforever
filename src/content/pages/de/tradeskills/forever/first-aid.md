@@ -3,7 +3,7 @@ title: "First Aid in WoW Forever: Tränke, Heilmittel und Lehrer"
 metaTitle: "WoW Forever First-Aid-Guide: Heiltränke, Heilmittel, Lehrer und Ränge"
 description: "First Aid in WoW Forever stellt Verbände, Heiltränke und Mittel gegen Gift, Krankheit und Blutungen her. Die Lehrer, das Buch und die Quest für Expert und Artisan, und jedes neue Rezept."
 short: "First Aid"
-updated: 2026-10-03
+updated: 2026-11-16
 lang: de
 faq:
   - q: "Stellt Alchemy in WoW Forever noch Heiltränke her?"
@@ -40,6 +40,8 @@ First Aid ist ein Nebenberuf und belegt also nie einen deiner zwei Hauptplätze.
 **Das Expert-Buch** verkauft <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2805">Deneb Walker</a> in Stromgarde Keep, Arathi Highlands (/way 27.0 58.8), für die Allianz, und <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13476">Balai Lok'Wein</a> in Brackenwall Village, Dustwallow Marsh (/way 36.4 30.4), für die Horde. Es ist nicht seelengebunden, du findest es also auch im Auktionshaus.
 
 **Artisan** kommt aus der Quest Triage. Die Allianz bekommt <a href="https://www.wowhead.com/forever/quest=6624">Triage</a> von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12939">Doctor Gustaf VanHowzen</a> auf Theramore Isle (/way 67.6 48.8), die Horde <a href="https://www.wowhead.com/forever/quest=6622">Triage</a> von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12920">Doctor Gregory Victor</a> in Hammerfall (/way 73.4 36.8). Die Vorquests <a href="https://www.wowhead.com/forever/quest=6625">Alliance Trauma</a> und <a href="https://www.wowhead.com/forever/quest=6623">Horde Trauma</a> beginnen bei den Lehrern in Ironforge und Orgrimmar, du kannst sie aber überspringen.
+
+**So funktioniert Triage.** Die Quest startet ein Ereignis in einem Feldlazarett. Du bekommst eine Triage Bandage und musst 15 verwundete Soldaten retten, bevor 6 sterben. Je schwerer die Wunde, desto schneller stirbt ein Patient, also versorge zuerst Critically Injured, dann Badly Injured, dann Injured, und lass niemanden zu lange warten.
 
 ## Lehrer
 
@@ -105,6 +107,8 @@ Die zwei Gegengifte sind die Rezepte aus Classic, mit dem Skill, den sie dort ha
 Wie ein Lagerplatz funktioniert, steht im [Camping-Guide](/de/guides/camping/).
 
 ## Skillen
+
+Zwei Knöpfe im Berufsfenster sparen Zeit: Das Menü Filter hat **Has skill up**, das nur Rezepte zeigt, die noch Punkte geben, und **Track Recipe** setzt die Materialien eines Rezepts als Einkaufsliste in deine Questverfolgung.
 
 Es gibt jetzt zwei vollständige Routen. Beide brauchen ab 150 dieselben Bücher: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> für den Rang und die Handbücher <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, alle bei den Expert-Händlern oben. Sie sind handelbar, also geht auch das Auktionshaus.
 

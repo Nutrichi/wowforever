@@ -3,7 +3,7 @@ title: "First Aid in WoW Forever: potions, geneesmiddelen en trainers"
 metaTitle: "WoW Forever First Aid-gids: healing potions, geneesmiddelen, trainers en rangen"
 description: "First Aid in WoW Forever maakt verband, healing potions en middelen tegen gif, ziekte en bloedingen. De trainers, het boek en de quest voor Expert en Artisan, en elk nieuw recept."
 short: "First Aid"
-updated: 2026-10-03
+updated: 2026-11-16
 lang: nl
 faq:
   - q: "Maakt Alchemy in WoW Forever nog healing potions?"
@@ -40,6 +40,8 @@ First Aid is een secundair beroep, dus het neemt nooit een van je twee hoofdplaa
 **Het Expert-boek** verkoopt <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2805">Deneb Walker</a> in Stromgarde Keep, Arathi Highlands (/way 27.0 58.8), voor de Alliance, en <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=13476">Balai Lok'Wein</a> in Brackenwall Village, Dustwallow Marsh (/way 36.4 30.4), voor de Horde. Het is niet soulbound, dus je vindt het ook in het Auction House.
 
 **Artisan** komt van de quest Triage. De Alliance krijgt <a href="https://www.wowhead.com/forever/quest=6624">Triage</a> van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12939">Doctor Gustaf VanHowzen</a> op Theramore Isle (/way 67.6 48.8), de Horde <a href="https://www.wowhead.com/forever/quest=6622">Triage</a> van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12920">Doctor Gregory Victor</a> in Hammerfall (/way 73.4 36.8). De voorquests <a href="https://www.wowhead.com/forever/quest=6625">Alliance Trauma</a> en <a href="https://www.wowhead.com/forever/quest=6623">Horde Trauma</a> beginnen bij de trainers in Ironforge en Orgrimmar, maar je mag ze overslaan.
+
+**Zo werkt Triage.** De quest start een event in een veldhospitaal. Je krijgt een Triage Bandage en moet 15 gewonde soldaten redden voordat er 6 sterven. Hoe zwaarder de wonde, hoe sneller een patiënt sterft, dus help eerst Critically Injured, dan Badly Injured, dan Injured, en laat niemand te lang wachten.
 
 ## Trainers
 
@@ -105,6 +107,8 @@ De twee anti-venoms zijn de recepten uit Classic, met de skill die ze daar hadde
 Hoe een kampplaats werkt, staat in de [gids over camping](/nl/guides/camping/).
 
 ## Levelen
+
+Twee knoppen in het beroepsvenster sparen tijd: het menu Filter heeft **Has skill up**, dat alleen recepten toont die nog punten geven, en **Track Recipe** zet de materialen van een recept als boodschappenlijst in je questtracker.
 
 Er zijn nu twee volledige routes. Allebei vragen ze vanaf 150 dezelfde boeken: <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16084"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert First Aid - Under Wraps</a> voor de rang, en de manuals <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16112"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Heavy Silk Bandage</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16113"><img class="wf-wh__icon" src="/wh/inv_misc_book_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Manual: Mageweave Bandage</a>, allemaal van de Expert-verkopers hierboven. Ze zijn verhandelbaar, dus het Auction House werkt ook.
 

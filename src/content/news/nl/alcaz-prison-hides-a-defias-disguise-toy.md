@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 16 november:** elk personage verdient maar één Fractured Insignia en de reeks is niet herhaalbaar, dus de toy vraagt zes personages of goud. Meer in [onze post](/nl/news/the-alcaz-toy-needs-six-characters-or-gold/).
+
 Spelers hebben een geheime toy gevonden in World of Warcraft: Forever. De <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279471"><img class="wf-wh__icon" src="/wh/achievement_boss_edwinvancleef.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alcaz Operative Insignia</a> vermomt je 10 minuten als een Defias-agent van Alcaz Island. De reeks begint in de nieuwe dungeon Alcaz Prison, en de eerste baas moet blijven leven.
 
 ## Hoe de reeks werkt
@@ -35,4 +37,4 @@ De Alcaz Operative Insignia is een toy die bindt bij het oppakken. Hij vermomt j
 
 </div>
 
-Spelers van de WoW Secret Finding Discord vonden het geheim. Hoe je zes Fractured Insignia verzamelt, en of dat zes runs kost, is nog niet bekend. De dungeon zelf staat in de [gids van Alcaz Prison](/nl/guides/dungeons/alcaz-prison/guide/).
+Spelers van de WoW Secret Finding Discord vonden het geheim. Elk personage verdient één Fractured Insignia, dus de toy vraagt zes personages of goud, [meer in onze post](/nl/news/the-alcaz-toy-needs-six-characters-or-gold/). De dungeon zelf staat in de [gids van Alcaz Prison](/nl/guides/dungeons/alcaz-prison/guide/).

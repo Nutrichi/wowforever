@@ -174,6 +174,8 @@ export const hubCategories: HubCategory[] = [
       // Darkmoon Faire: data, Sayge, tickets, decks (10 november 2026).
       { key: 'darkmoon-faire', image: '2026-11-09-wow-forever-darkmoon-faire-sayge.jpg', isNew: true },
       { key: 'flight-paths', image: '2026-09-28-wow-forever-flight-and-ship-routes-map.jpg' },
+      // Reizen tussen de hoofdsteden (16 november 2026).
+      { key: 'capital-city-travel', image: '2026-10-12-wow-forever-stormwind-harbor.jpg', isNew: true },
       { key: 'camping', image: '2026-09-29-wow-forever-camp-in-teldrassil.jpg' },
       { key: 'built-in-ui-tools', image: '2026-10-30-wow-forever-damage-meter-option.jpg', isNew: true },
       { key: 'bmah', image: '2026-09-27-wow-forever-black-market-agents.jpg' },
