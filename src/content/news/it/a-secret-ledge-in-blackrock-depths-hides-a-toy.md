@@ -1,7 +1,7 @@
 ---
 title: "Una sporgenza di Blackrock nasconde un giocattolo"
 description: "Dove Season of Discovery nascondeva la missione del Rainbow Generator, Blackrock Depths dà ora Traveler's Symbols in WoW Forever: un cartello con un messaggio che gli altri leggono per un'ora."
-date: 2026-11-15T21:20:00+01:00
+date: 2026-11-15T21:18:00+01:00
 category: forever
 lang: it
 manual: true

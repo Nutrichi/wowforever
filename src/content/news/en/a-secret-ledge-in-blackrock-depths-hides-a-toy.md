@@ -1,7 +1,7 @@
 ---
 title: "A secret ledge in Blackrock Depths hides a toy"
 description: "Where Season of Discovery hid the Rainbow Generator quest, Blackrock Depths now gives Traveler's Symbols in WoW Forever: a sign with a message that other players can read for an hour."
-date: 2026-11-15T21:20:00+01:00
+date: 2026-11-15T21:18:00+01:00
 category: forever
 lang: en
 image: ../../../assets/posts/2026-11-15-wow-forever-travelers-sign.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Une corniche secrète cache un jouet à Blackrock"
 description: "Là où Season of Discovery cachait la quête du Rainbow Generator, Blackrock Depths donne maintenant Traveler's Symbols dans WoW Forever : un panneau avec un message lisible par tous pendant une heure."
-date: 2026-11-15T21:20:00+01:00
+date: 2026-11-15T21:18:00+01:00
 category: forever
 lang: fr
 manual: true

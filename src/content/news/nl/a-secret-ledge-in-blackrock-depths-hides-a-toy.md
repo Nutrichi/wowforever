@@ -1,7 +1,7 @@
 ---
 title: "Een geheime richel in Blackrock geeft een toy"
 description: "Waar Season of Discovery de quest voor de Rainbow Generator verstopte, geeft Blackrock Depths in WoW Forever nu Traveler's Symbols: een bord met een boodschap die anderen een uur lang lezen."
-date: 2026-11-15T21:20:00+01:00
+date: 2026-11-15T21:18:00+01:00
 category: forever
 lang: nl
 manual: true

@@ -1,7 +1,7 @@
 ---
 title: "Geheimer Vorsprung in Blackrock birgt Spielzeug"
 description: "Wo Season of Discovery die Quest für den Rainbow Generator versteckte, gibt Blackrock Depths in WoW Forever jetzt Traveler's Symbols: ein Schild mit einer Botschaft, die andere eine Stunde lang lesen."
-date: 2026-11-15T21:20:00+01:00
+date: 2026-11-15T21:18:00+01:00
 category: forever
 lang: de
 manual: true

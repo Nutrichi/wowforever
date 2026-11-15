@@ -1,7 +1,7 @@
 ---
 title: "Una cornisa de Blackrock esconde un juguete"
 description: "Donde Season of Discovery escondía la misión del Rainbow Generator, Blackrock Depths da ahora Traveler's Symbols en WoW Forever: un cartel con un mensaje que otros leen durante una hora."
-date: 2026-11-15T21:20:00+01:00
+date: 2026-11-15T21:18:00+01:00
 category: forever
 lang: es
 manual: true
