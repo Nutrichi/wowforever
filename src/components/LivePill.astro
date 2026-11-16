@@ -17,6 +17,8 @@
  * Sinds 11 november 2026 (Nutri, Supabase op 80%) staat de knop alleen nog op
  * de homepage, Streams en de hoofdpagina van elke tab in het menu; daar wordt
  * weer om de twee minuten gevraagd, zonder cache. Elders vraagt niets Supabase.
+ * Sinds 16 november 2026 om de vijf minuten (Nutri: "5 minutes", Supabase Log
+ * Ingestion boven 1 GB); de knop kan dus tot vijf minuten later verschijnen.
  *
  * Het rode bolletje is `--wf-danger`, de enige rode kleur in het palet.
  * "LIVE" is in elke taal hetzelfde woord; de schermlezer krijgt een zin.
@@ -170,7 +172,7 @@ const t = useTranslations(locale);
       void check();
       window.setInterval(() => {
         if (document.visibilityState === 'visible') void check();
-      }, 120_000);
+      }, 300_000);
     }
   }
 </script>
