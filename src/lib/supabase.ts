@@ -42,10 +42,14 @@ export async function likeCounts(postIds: string[]): Promise<Record<string, numb
 
   // PostgREST wil de lijst tussen haakjes; elk item tussen aanhalingstekens.
   const list = postIds.map((id) => `"${id.replace(/"/g, '')}"`).join(',');
-  const url = `${supabaseUrl}/rest/v1/post_stats?select=post_id,like_count&post_id=in.(${encodeURIComponent(list)})`;
+  // De sleutel in de URL en geen eigen headers: dan is het een "simple
+  // request" en stuurt de browser geen OPTIONS vooraf. Dat halveert de
+  // logregels in Supabase (Nutri, 16 november 2026, Log Ingestion 1,77 van
+  // 1 GB). De publishable key staat toch al in de broncode van de pagina.
+  const url = `${supabaseUrl}/rest/v1/post_stats?select=post_id,like_count&post_id=in.(${encodeURIComponent(list)})&apikey=${encodeURIComponent(supabaseKey)}`;
 
   try {
-    const response = await fetch(url, { headers });
+    const response = await fetch(url);
     if (!response.ok) return {};
     const rows: { post_id: string; like_count: number }[] = await response.json();
     return Object.fromEntries(rows.map((row) => [row.post_id, row.like_count]));

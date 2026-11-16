@@ -268,8 +268,10 @@ const isPost = variant === 'post';
   void refresh();
 
   // Terug uit de bfcache: de opslag en de tellingen kunnen intussen
-  // veranderd zijn.
-  window.addEventListener('pageshow', () => {
+  // veranderd zijn. Alleen bij `persisted`: `pageshow` komt ook bij elke
+  // gewone lading, en dan ging het verzoek twee keer weg (16 november 2026).
+  window.addEventListener('pageshow', (event) => {
+    if (!event.persisted) return;
     paintAll();
     void refresh();
   });
