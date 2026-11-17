@@ -3,12 +3,12 @@ title: "Shadow Priest in WoW Forever: de gids"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34-build, rotatie en stats"
 description: "De Shadow Priest in WoW Forever: de build 14/3/34 voor level 60, Improved Mind Flay en Vampiric Embrace, de DoT-rotatie, Shadowform, mana, stats en races."
 short: "Shadow Priest"
-updated: 2026-11-12
+updated: 2026-11-17
 lang: nl
 manual: true
 faq:
   - q: "Is de Shadow Priest goed in WoW Forever?"
-    a: "Ja. Shadow heeft sterke mana, constante schade van twee DoTs en Mind Flay, en Vampiric Embrace heelt de hele groep voor 20% van je Shadow-schade. De zwakke punten zijn beweging, een trage start van elk gevecht en schade tegen meer dan vier doelwitten."
+    a: "Ja. Shadow heeft sterke mana, constante schade van twee DoTs en Mind Flay, en Vampiric Embrace heelt de hele groep voor 10% van je Shadow-schade, en jezelf voor 20%. De zwakke punten zijn beweging, een trage start van elk gevecht en schade tegen meer dan vier doelwitten."
   - q: "Wat doet Improved Mind Flay?"
     a: "Elke tik van Mind Flay doet bij 2/2 20% meer schade dan de tik ervoor. De derde tik slaat het hardst, dus je laat elke Mind Flay uitlopen in plaats van hem af te breken."
   - q: "Kan Vampiric Embrace altijd blijven staan?"
@@ -40,7 +40,7 @@ De Shadow Priest in WoW Forever doet Shadow-schade met twee spells die schade ov
 ## Wat er verandert voor Shadow
 
 - **Improved Mind Flay is nieuw.** Elke tik van Mind Flay doet bij 2/2 20% meer dan de tik ervoor, dus de laatste tik is de sterkste.
-- **Vampiric Embrace duurt 30 seconden.** Het heelt alle groepsleden voor 20% van de Shadow-schade die je doet en kan het hele gevecht blijven staan.
+- **Vampiric Embrace duurt 30 seconden.** Het heelt alle groepsleden voor 10% van de Shadow-schade die je doet, en jezelf voor 20%, en kan het hele gevecht blijven staan. Tot het onderhoud van 17 november kreeg de groep ook 20%.
 - **Shadowform doet meer.** 10% meer Shadow-schade, 50% minder manakost voor Shadow-spells, 100% meer bonus op critical strike-schade voor Shadow-spells en 15% minder fysieke schade.
 - **Silence onderbreekt ook.** 5 seconden stilte en 3 seconden interrupt in één knop.
 - **Devouring Contagion is nieuw.** Devouring Plague kost de helft aan mana, en sterft een doelwit ermee, dan springt de plague over naar 2 vijanden in de buurt.
@@ -102,7 +102,7 @@ De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in d
 |---|---|
 | **Mind Flay** | Je filler: Shadow-schade over 3 seconden en 50% vertraging |
 | **Improved Mind Flay** | Elke tik van Mind Flay 20% sterker dan de vorige. Breek een Mind Flay nooit af |
-| **Vampiric Embrace** | 20% van je Shadow-schade heelt 30 seconden lang de hele groep. De hoofdreden om je mee te nemen |
+| **Vampiric Embrace** | 10% van je Shadow-schade heelt 30 seconden lang de hele groep, 20% heelt jezelf. De hoofdreden om je mee te nemen |
 | **Shadow Weaving** | Elke Shadow-spell laat het doelwit 2% meer Shadow-schade van jou nemen, tot 10% bij 5 stacks |
 | **Silence** | 5 seconden stilte en 3 seconden interrupt. Of raids het nodig hebben, is nog niet bekend |
 | **Darkness** | 10% meer Shadow-schade bij 5/5 |

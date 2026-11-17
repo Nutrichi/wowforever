@@ -12,6 +12,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 17 November:** Blizzard is removing all gold from the farm and suspends the worst abusers. More in [our post](/news/blizzard-suspends-the-blackmaw-hold-gold-farmers/).
+
 A gold farm in Blackmaw Hold no longer works in World of Warcraft: Forever. Groups cleared a room of about 30 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=277474">Blackmaw Devotees</a>, reset the dungeon and went again, for more than 100 gold an hour. A hotfix took away all loot from these monsters.
 
 ## How the farm worked

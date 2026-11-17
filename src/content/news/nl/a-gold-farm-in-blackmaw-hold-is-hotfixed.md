@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 17 november:** Blizzard haalt al het goud van de farm weg en schorst de ergste misbruikers. Meer in [onze post](/nl/news/blizzard-suspends-the-blackmaw-hold-gold-farmers/).
+
 Een goudfarm in Blackmaw Hold werkt niet meer in World of Warcraft: Forever. Groepen ruimden een zaal met zo'n 30 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=277474">Blackmaw Devotees</a> op, resetten de dungeon en begonnen opnieuw, voor meer dan 100 goud per uur. Een hotfix nam alle buit van deze monsters weg.
 
 ## Hoe de farm werkte

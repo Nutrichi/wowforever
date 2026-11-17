@@ -3,11 +3,11 @@ title: "Shadow Priest guide for WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34 build, rotation and stats"
 description: "The Shadow Priest in WoW Forever: the 14/3/34 build for level 60, Improved Mind Flay and Vampiric Embrace, the DoT rotation, Shadowform, mana, stats and races."
 short: "Shadow Priest"
-updated: 2026-11-12
+updated: 2026-11-17
 lang: en
 faq:
   - q: "Is Shadow Priest good in WoW Forever?"
-    a: "Yes. Shadow has strong mana, steady damage from two DoTs and Mind Flay, and Vampiric Embrace heals the whole party for 20% of your Shadow damage. Its weak points are movement, a slow start to every fight and damage against more than four targets."
+    a: "Yes. Shadow has strong mana, steady damage from two DoTs and Mind Flay, and Vampiric Embrace heals the whole party for 10% of your Shadow damage, and you for 20%. Its weak points are movement, a slow start to every fight and damage against more than four targets."
   - q: "What does Improved Mind Flay do?"
     a: "Every tick of Mind Flay deals 20% more damage than the tick before it at 2/2. The third tick hits hardest, so you let every Mind Flay finish instead of cutting it short."
   - q: "Can Vampiric Embrace stay up all the time?"
@@ -39,7 +39,7 @@ The Shadow Priest in WoW Forever deals Shadow damage with two damage over time s
 ## What changes for Shadow
 
 - **Improved Mind Flay is new.** Every tick of Mind Flay deals 20% more than the tick before at 2/2, so the last tick is the strongest.
-- **Vampiric Embrace lasts 30 seconds.** It heals all party members for 20% of the Shadow damage you deal and can stay up for the whole fight.
+- **Vampiric Embrace lasts 30 seconds.** It heals all party members for 10% of the Shadow damage you deal, and you for 20%, and can stay up for the whole fight. Until the maintenance of 17 November the party got 20% as well.
 - **Shadowform does more.** 10% more Shadow damage, 50% lower mana cost for Shadow spells, 100% more critical strike damage bonus for Shadow spells and 15% less physical damage taken.
 - **Silence also interrupts.** 5 seconds of silence and a 3 second interrupt in one button.
 - **Devouring Contagion is new.** Devouring Plague costs half the mana, and when a target dies with it, the plague jumps to 2 nearby enemies.
@@ -101,7 +101,7 @@ The PvP build trades damage for control and survival. [Open the PvP build in the
 |---|---|
 | **Mind Flay** | Your filler: Shadow damage over 3 seconds and a 50% slow |
 | **Improved Mind Flay** | Each tick of Mind Flay 20% stronger than the one before. Never cut a Mind Flay short |
-| **Vampiric Embrace** | 20% of your Shadow damage heals the whole party for 30 seconds. The main reason a group brings you |
+| **Vampiric Embrace** | 10% of your Shadow damage heals the whole party for 30 seconds, 20% heals you. The main reason a group brings you |
 | **Shadow Weaving** | Each Shadow spell makes the target take 2% more Shadow damage from you, up to 10% at 5 stacks |
 | **Silence** | Silences for 5 seconds and interrupts for 3. Whether raids need it is not known yet |
 | **Darkness** | 10% more Shadow damage at 5/5 |

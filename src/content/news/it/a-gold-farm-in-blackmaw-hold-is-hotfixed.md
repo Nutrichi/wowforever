@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Aggiornamento 17 novembre:** Blizzard toglie tutto l'oro della farm e sospende chi ha abusato di più. Altro nel [nostro articolo](/it/news/blizzard-suspends-the-blackmaw-hold-gold-farmers/).
+
 Una farm d'oro a Blackmaw Hold non funziona più in World of Warcraft: Forever. I gruppi ripulivano una sala con circa 30 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=277474">Blackmaw Devotees</a>, resettavano il dungeon e ricominciavano, per oltre 100 monete d'oro all'ora. Un hotfix ha tolto tutto il bottino a questi mostri.
 
 ## Come funzionava la farm

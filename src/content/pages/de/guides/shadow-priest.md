@@ -3,12 +3,12 @@ title: "Shadow-Priest-Guide für WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34-Build, Rotation und Werte"
 description: "Der Shadow Priest in WoW Forever: der Build 14/3/34 für Level 60, Improved Mind Flay und Vampiric Embrace, die DoT-Rotation, Shadowform, Mana, Werte und Völker."
 short: "Shadow Priest"
-updated: 2026-11-12
+updated: 2026-11-17
 lang: de
 manual: true
 faq:
   - q: "Ist der Shadow Priest gut in WoW Forever?"
-    a: "Ja. Shadow hat sehr gutes Mana, gleichmäßigen Schaden durch zwei DoTs und Mind Flay, und Vampiric Embrace heilt die ganze Gruppe um 20 % deines Schattenschadens. Die Schwächen sind Mobilität, ein langsamer Start in jeden Kampf und Schaden gegen mehr als vier Ziele."
+    a: "Ja. Shadow hat sehr gutes Mana, gleichmäßigen Schaden durch zwei DoTs und Mind Flay, und Vampiric Embrace heilt die ganze Gruppe um 10 % deines Schattenschadens und dich um 20 %. Die Schwächen sind Mobilität, ein langsamer Start in jeden Kampf und Schaden gegen mehr als vier Ziele."
   - q: "Was macht Improved Mind Flay?"
     a: "Bei 2/2 macht jeder Tick von Mind Flay 20 % mehr Schaden als der vorige. Der dritte Tick trifft am härtesten, also lässt du jedes Mind Flay auslaufen, statt es abzubrechen."
   - q: "Kann Vampiric Embrace die ganze Zeit aktiv bleiben?"
@@ -40,7 +40,7 @@ Der Shadow Priest in WoW Forever macht Schattenschaden mit zwei Zaubern, die Sch
 ## Was sich für Shadow ändert
 
 - **Improved Mind Flay ist neu.** Bei 2/2 macht jeder Tick von Mind Flay 20 % mehr als der vorige, der letzte Tick ist also der stärkste.
-- **Vampiric Embrace hält 30 Sekunden.** Es heilt alle Gruppenmitglieder um 20 % des Schattenschadens, den du machst, und kann den ganzen Kampf aktiv bleiben.
+- **Vampiric Embrace hält 30 Sekunden.** Es heilt alle Gruppenmitglieder um 10 % des Schattenschadens, den du machst, dich selbst um 20 %, und kann den ganzen Kampf aktiv bleiben. Bis zur Wartung am 17. November bekam auch die Gruppe 20 %.
 - **Shadowform kann mehr.** 10 % mehr Schattenschaden, 50 % weniger Manakosten für Schattenzauber, 100 % mehr Bonus auf kritischen Schaden von Schattenzaubern und 15 % weniger erlittener körperlicher Schaden.
 - **Silence unterbricht jetzt auch.** 5 Sekunden Stille und 3 Sekunden Unterbrechung auf einer Taste.
 - **Devouring Contagion ist neu.** Devouring Plague kostet halb so viel Mana, und stirbt ein Ziel damit, springt die Seuche auf 2 Gegner in der Nähe über.
@@ -102,7 +102,7 @@ Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Tale
 |---|---|
 | **Mind Flay** | Dein Füller: Schattenschaden über 3 Sekunden und 50 % Verlangsamung |
 | **Improved Mind Flay** | Jeder Tick von Mind Flay 20 % stärker als der vorige. Brich Mind Flay nie ab |
-| **Vampiric Embrace** | 20 % deines Schattenschadens heilen 30 Sekunden lang die ganze Gruppe. Der Hauptgrund, dich mitzunehmen |
+| **Vampiric Embrace** | 10 % deines Schattenschadens heilen 30 Sekunden lang die ganze Gruppe, 20 % heilen dich. Der Hauptgrund, dich mitzunehmen |
 | **Shadow Weaving** | Jeder Schattenzauber lässt das Ziel 2 % mehr Schattenschaden von dir erleiden, bis 10 % bei 5 Stapeln |
 | **Silence** | 5 Sekunden Stille und 3 Sekunden Unterbrechung. Ob Schlachtzüge es brauchen, ist noch offen |
 | **Darkness** | 10 % mehr Schattenschaden bei 5/5 |

@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guía de The Drowned City para WoW Forever: entrada, plano y jefes"
 description: "Cómo llegar a The Drowned City bajo el agua frente a Stranglethorn Vale en WoW Forever, los enemigos a vigilar y cómo vencer a sus seis jefes y dos raros."
 short: "Guía"
-updated: 2026-11-14
+updated: 2026-11-17
 lang: es
 manual: true
 sources:
@@ -56,7 +56,7 @@ Seis jefes en el orden en que te los encuentras, más dos raros que no siempre e
 
 ### 4. Captain Dreadrise
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270884">Captain Dreadrise</a> dirige a los Saltseer Pirates en la ciudad. Embrine encierra a un jugador al azar en una Abyssal Bubble: destruye la burbuja antes de que ese jugador se ahogue. Waterbolt Volley golpea a todo el grupo y se puede interrumpir, hazlo siempre. Limpia antes la zona para que no se una ninguna patrulla. Pulsa también la Glowing Pearl tras este combate.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270884">Captain Dreadrise</a> dirige a los Saltseer Pirates en la ciudad. Embrine encierra a un jugador al azar en una Abyssal Bubble: destruye la burbuja antes de que ese jugador se ahogue. Waterbolt Volley golpea a todo el grupo y se puede interrumpir, hazlo siempre. Limpia antes la zona para que no se una ninguna patrulla. Pulsa también la Glowing Pearl tras este combate. Desde el hotfix del 16 de noviembre se le puede aturdir, y la Abyssal Bubble ya no puede bloquear, esquivar ni parar.
 
 ### 5. Deathless Marrow
 
@@ -74,7 +74,7 @@ Umbra llega con cinco Saltscale Murlocs cuyos sangrados se suman rápido. Umbra 
 
 ### Gill (raro)
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270888">Gill</a> es el segundo raro. Aún no se sabe cómo funciona este combate.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264177">Gill</a> es el segundo raro, un élite raro. Aún no se sabe cómo funciona este combate. Es uno de los tres raros que sueltan las <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a>, botas para caminar bajo el agua; más en [la noticia sobre las botas](/es/news/linkens-boots-of-iron-let-you-walk-underwater/).
 
 ### Zin'aka
 
@@ -82,5 +82,5 @@ Umbra llega con cinco Saltscale Murlocs cuyos sangrados se suman rápido. Umbra 
 
 ## Lo que aún no se sabe
 
-- **El resto del botín**: por ahora se conocen <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental y <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> de cualquier jefe.
+- **El resto del botín**: por ahora se conocen <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental y <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> de uno de los jefes y de tres raros.
 - **Las recompensas** de cuatro de las ocho misiones.

@@ -179,6 +179,8 @@ export const hubCategories: HubCategory[] = [
       { key: 'camping', image: '2026-09-29-wow-forever-camp-in-teldrassil.jpg' },
       { key: 'built-in-ui-tools', image: '2026-10-30-wow-forever-damage-meter-option.jpg', isNew: true },
       { key: 'bmah', image: '2026-09-27-wow-forever-black-market-agents.jpg' },
+      // Engineering-specialisaties (17 november 2026).
+      { key: 'engineering-specializations', image: '2026-10-03-wow-forever-gnomeregan-front-entrance.jpg', isNew: true },
     ],
   },
   {

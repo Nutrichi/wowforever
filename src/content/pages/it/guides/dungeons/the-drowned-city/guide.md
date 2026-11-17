@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guida a The Drowned City per WoW Forever: ingresso, mappa e boss"
 description: "Come raggiungere The Drowned City sott'acqua al largo di Stranglethorn Vale in WoW Forever, i nemici da tenere d'occhio e come battere i sei boss e due rari."
 short: "Guida"
-updated: 2026-11-14
+updated: 2026-11-17
 lang: it
 manual: true
 sources:
@@ -56,7 +56,7 @@ Sei boss nell'ordine in cui li incontri, più due rari che non ci sono sempre: U
 
 ### 4. Captain Dreadrise
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270884">Captain Dreadrise</a> guida i Saltseer Pirates nella città. Embrine chiude un giocatore a caso in una Abyssal Bubble: distruggi la bolla prima che quel giocatore anneghi. Waterbolt Volley colpisce tutto il gruppo e si può interrompere, fallo ogni volta. Ripulisci prima la zona, così nessuna pattuglia si unisce allo scontro. Clicca sulla Glowing Pearl anche dopo questo scontro.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270884">Captain Dreadrise</a> guida i Saltseer Pirates nella città. Embrine chiude un giocatore a caso in una Abyssal Bubble: distruggi la bolla prima che quel giocatore anneghi. Waterbolt Volley colpisce tutto il gruppo e si può interrompere, fallo ogni volta. Ripulisci prima la zona, così nessuna pattuglia si unisce allo scontro. Clicca sulla Glowing Pearl anche dopo questo scontro. Dall'hotfix del 16 novembre può essere stordito, e l'Abyssal Bubble non può più bloccare, schivare o parare.
 
 ### 5. Deathless Marrow
 
@@ -74,7 +74,7 @@ Umbra arriva con cinque Saltscale Murloc i cui sanguinamenti si sommano in frett
 
 ### Gill (raro)
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270888">Gill</a> è il secondo raro. Come funziona questo scontro non è ancora noto.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264177">Gill</a> è il secondo raro, un élite raro. Come funziona questo scontro non è ancora noto. È uno dei tre rari che lasciano i <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a>, stivali per camminare sott'acqua; altro nell'[articolo sugli stivali](/it/news/linkens-boots-of-iron-let-you-walk-underwater/).
 
 ### Zin'aka
 
@@ -82,5 +82,5 @@ Umbra arriva con cinque Saltscale Murloc i cui sanguinamenti si sommano in frett
 
 ## Cosa non è ancora noto
 
-- **Il resto del bottino**: finora si conoscono <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental e <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> di qualsiasi boss.
+- **Il resto del bottino**: finora si conoscono <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental e <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> da uno dei boss e da tre rari.
 - **Le ricompense** di quattro delle otto missioni.

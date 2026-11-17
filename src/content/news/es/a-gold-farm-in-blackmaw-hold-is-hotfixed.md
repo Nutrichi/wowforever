@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Actualización 17 de noviembre:** Blizzard retira todo el oro de la granja y suspende a los peores abusadores. Más en [nuestra noticia](/es/news/blizzard-suspends-the-blackmaw-hold-gold-farmers/).
+
 Una granja de oro en Blackmaw Hold ya no funciona en World of Warcraft: Forever. Los grupos limpiaban una sala con unos 30 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=277474">Blackmaw Devotees</a>, reiniciaban la mazmorra y volvían a empezar, por más de 100 de oro por hora. Un hotfix quitó todo el botín a estos monstruos.
 
 ## Cómo funcionaba la granja

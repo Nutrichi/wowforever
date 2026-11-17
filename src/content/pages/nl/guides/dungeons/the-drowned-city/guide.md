@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Gids voor The Drowned City in WoW Forever: ingang, indeling, bazen"
 description: "Zo bereik je The Drowned City onder water voor Stranglethorn Vale in WoW Forever, op deze trash let je en zo versla je de zes bazen en twee rares."
 short: "Gids"
-updated: 2026-11-14
+updated: 2026-11-17
 lang: nl
 manual: true
 sources:
@@ -56,7 +56,7 @@ Zes bazen in de volgorde waarin je ze tegenkomt, plus twee rares die er niet alt
 
 ### 4. Captain Dreadrise
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270884">Captain Dreadrise</a> leidt de Saltseer Pirates in de stad. Embrine sluit een willekeurige speler op in een Abyssal Bubble: dood de bubbel voor die speler verdrinkt. Waterbolt Volley raakt de hele groep en kan onderbroken worden, dus doe dat elke keer. Ruim eerst de omgeving op, zodat er geen patrouille meedoet. Klik ook na dit gevecht op de Glowing Pearl.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270884">Captain Dreadrise</a> leidt de Saltseer Pirates in de stad. Embrine sluit een willekeurige speler op in een Abyssal Bubble: dood de bubbel voor die speler verdrinkt. Waterbolt Volley raakt de hele groep en kan onderbroken worden, dus doe dat elke keer. Ruim eerst de omgeving op, zodat er geen patrouille meedoet. Klik ook na dit gevecht op de Glowing Pearl. Sinds de hotfix van 16 november kan hij gestund worden, en de Abyssal Bubble kan niet meer blocken, ontwijken of pareren.
 
 ### 5. Deathless Marrow
 
@@ -74,7 +74,7 @@ Umbra komt met vijf Saltscale Murlocs, en hun bleeds tellen snel op. Umbra zelf 
 
 ### Gill (rare)
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=270888">Gill</a> is de tweede rare. Hoe dit gevecht werkt, is nog niet bekend.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264177">Gill</a> is de tweede rare, een rare elite. Hoe dit gevecht werkt, is nog niet bekend. Hij is een van de drie rares die <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> laten vallen, laarzen waarmee je onder water loopt; meer in [de post over de laarzen](/nl/news/linkens-boots-of-iron-let-you-walk-underwater/).
 
 ### Zin'aka
 
@@ -82,5 +82,5 @@ Umbra komt met vijf Saltscale Murlocs, en hun bleeds tellen snel op. Umbra zelf 
 
 ## Wat nog niet bekend is
 
-- **De rest van de buit**: tot nu toe zijn <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> van de Primeval Elemental en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> van elke baas bekend.
+- **De rest van de buit**: tot nu toe zijn <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> van de Primeval Elemental en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> van een van de bazen en drie rares bekend.
 - **De beloningen** van vier van de acht quests.

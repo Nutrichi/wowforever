@@ -3,12 +3,12 @@ title: "Guida allo Shadow Priest in WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: build 14/3/34, rotazione e stats"
 description: "Lo Shadow Priest in WoW Forever: la build 14/3/34 per il livello 60, Improved Mind Flay e Vampiric Embrace, la rotazione dei DoT, Shadowform, mana, stats e razze."
 short: "Shadow Priest"
-updated: 2026-11-12
+updated: 2026-11-17
 lang: it
 manual: true
 faq:
   - q: "Lo Shadow Priest è forte in WoW Forever?"
-    a: "Sì. Shadow ha un mana ottimo, danni costanti con due DoT e Mind Flay, e Vampiric Embrace cura tutto il gruppo per il 20% dei tuoi danni d’Ombra. I punti deboli sono la mobilità, un avvio lento in ogni scontro e i danni contro più di quattro bersagli."
+    a: "Sì. Shadow ha un mana ottimo, danni costanti con due DoT e Mind Flay, e Vampiric Embrace cura tutto il gruppo per il 10% dei tuoi danni d’Ombra, e te per il 20%. I punti deboli sono la mobilità, un avvio lento in ogni scontro e i danni contro più di quattro bersagli."
   - q: "Cosa fa Improved Mind Flay?"
     a: "A 2/2 ogni tick di Mind Flay infligge il 20% di danni in più rispetto al precedente. Il terzo tick colpisce più forte, quindi lasci finire ogni Mind Flay invece di interromperlo."
   - q: "Vampiric Embrace può restare attivo sempre?"
@@ -40,7 +40,7 @@ Lo Shadow Priest di WoW Forever infligge danni d’Ombra con due incantesimi di 
 ## Cosa cambia per Shadow
 
 - **Improved Mind Flay è nuovo.** A 2/2 ogni tick di Mind Flay infligge il 20% in più del precedente, quindi l’ultimo tick è il più forte.
-- **Vampiric Embrace dura 30 secondi.** Cura tutti i membri del gruppo per il 20% dei danni d’Ombra che infliggi e può restare attivo per tutto lo scontro.
+- **Vampiric Embrace dura 30 secondi.** Cura tutti i membri del gruppo per il 10% dei danni d’Ombra che infliggi, e te per il 20%, e può restare attivo per tutto lo scontro. Fino alla manutenzione del 17 novembre anche il gruppo riceveva il 20%.
 - **Shadowform fa di più.** Il 10% di danni d’Ombra in più, il 50% di costo in mana in meno per gli incantesimi d’Ombra, il 100% di bonus in più ai danni critici degli incantesimi d’Ombra e il 15% di danni fisici subiti in meno.
 - **Silence interrompe anche.** 5 secondi di silenzio e 3 secondi di interruzione in un solo tasto.
 - **Devouring Contagion è nuovo.** Devouring Plague costa metà mana, e se un bersaglio muore con la piaga addosso, questa salta su 2 nemici vicini.
@@ -102,7 +102,7 @@ La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel
 |---|---|
 | **Mind Flay** | Il tuo riempitivo: danni d’Ombra in 3 secondi e un rallentamento del 50% |
 | **Improved Mind Flay** | Ogni tick di Mind Flay il 20% più forte del precedente. Non interrompere mai un Mind Flay |
-| **Vampiric Embrace** | Il 20% dei tuoi danni d’Ombra cura tutto il gruppo per 30 secondi. Il motivo principale per portarti |
+| **Vampiric Embrace** | Il 10% dei tuoi danni d’Ombra cura tutto il gruppo per 30 secondi, il 20% cura te. Il motivo principale per portarti |
 | **Shadow Weaving** | Ogni incantesimo d’Ombra fa subire al bersaglio il 2% di danni d’Ombra in più da te, fino al 10% con 5 accumuli |
 | **Silence** | 5 secondi di silenzio e 3 di interruzione. Non si sa ancora se le incursioni ne avranno bisogno |
 | **Darkness** | Il 10% di danni d’Ombra in più a 5/5 |
