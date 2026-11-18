@@ -49,9 +49,11 @@ function lastmodFor(url) {
 }
 
 // https://astro.build/config
+const withSlash = (map) => Object.fromEntries(Object.entries(map).map(([from, to]) => [from, /[/#?]$|[#?]/.test(to) || to.endsWith('/') ? to : `${to}/`]));
+
 const classGuideRedirects = Object.fromEntries(
   Object.entries(JSON.parse(readFileSync(new URL('./src/config/class-guides.json', import.meta.url), 'utf8')))
-    .flatMap(([old, key]) => ['', '/nl', '/fr', '/es', '/it', '/de'].map((l) => [`${l}/guides/${old}`, `${l}/${key}`])),
+    .flatMap(([old, key]) => ['', '/nl', '/fr', '/es', '/it', '/de'].map((l) => [`${l}/guides/${old}`, `${l}/${key}/`])),
 );
 
 export default defineConfig({
@@ -80,7 +82,8 @@ export default defineConfig({
    * onder /guides/dungeons/. Astro schrijft voor elk oud adres een kleine
    * pagina die meteen doorstuurt, zodat links en zoekresultaten blijven werken.
    */
-  redirects: {
+  // Every target ends in a slash, like the pages themselves: no extra hop and a canonical that matches (18 November 2026).
+  redirects: withSlash({
     // Class guides under their class (Nutri, 18 November 2026: "Move under the class"); the map is config/class-guides.json.
     ...classGuideRedirects,
     /*
@@ -148,7 +151,7 @@ export default defineConfig({
      * GitHub rechtstreeks op /rxp, en het script in de head springt door
      * voordat er iets getekend wordt.
      */
-  },
+  }),
 
   // Zes talen (PROJECT_SPEC.md §8). Engels staat op /, de rest op /nl/ /fr/ /es/ /it/ /de/.
   i18n: {

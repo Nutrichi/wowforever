@@ -13,11 +13,11 @@ import { getClips, getStreams } from '../lib/feeds';
 import { defaultLocale, localeNames, locales, ui } from '../i18n/ui';
 import { localizePath } from '../i18n/utils';
 import { bisT } from '../i18n/bis';
-import { bisEraCounts, bisPath, bisPhasePath, phasesWithLists } from '../lib/bis';
+import { bisEraCounts, bisPath, bisPhasePath, listsForEra, phasesWithLists } from '../lib/bis';
 import { guidePath } from '../lib/guides';
 import { getPages } from '../lib/pages';
 import { getReputations, reputationPath } from '../lib/reputations';
-import { bisEras, phaseContent } from '../config/bis';
+import { bisEras, classLabel, phaseContent, specLabel } from '../config/bis';
 import { eras } from '../config/eras';
 
 export const GET: APIRoute = async ({ site }) => {
@@ -52,8 +52,9 @@ export const GET: APIRoute = async ({ site }) => {
      * en "bis molten core" op uitkomen, en een taalmodel dat dit leest weet
      * meteen welke raids bij welke fase horen (PROJECT_SPEC.md §11).
      */
-    // De lijsten van de beta op level 30 (18 oktober 2026), met Alliance en Horde.
-    ...phasesWithLists('forever').map((phase) => `- [WoW Forever BiS for the ${phase} at level 30](${url(bisPhasePath(defaultLocale, 'forever', phase))}): best-in-slot gear for the level 30 beta of WoW Forever, one list per class and spec with three options per slot, separate Alliance and Horde items, and enchants. Items come from the level 30 dungeons, quests, tradeskills and world drops.`),
+    // Forever: the pre-raid lists at level 60 (18 November 2026), each list with its own line.
+    ...phasesWithLists('forever').map((phase) => `- [WoW Forever pre-raid BiS](${url(bisPhasePath(defaultLocale, 'forever', phase))}): best-in-slot gear for level 60 before the first raid of WoW Forever, one list per class and spec with three options per slot (BiS, great, good), the source of every item and the date of the last update.`),
+    ...listsForEra('forever').map((list) => `- [${specLabel(list.spec)} ${classLabel(list.class)} pre-raid BiS for WoW Forever](${url(bisPath(defaultLocale, 'forever', list.phase, list.slug))}): the best pre-raid gear per slot for the ${specLabel(list.spec)} ${classLabel(list.class)} at level 60, updated ${list.updated}.`),
     ...bisReady.flatMap((era) =>
       phasesWithLists(era).map((phase) => {
         const content = phaseContent[era]?.[phase];
@@ -63,7 +64,9 @@ export const GET: APIRoute = async ({ site }) => {
           : names ? `best in slot for ${names}` : 'best in slot for this phase';
         return `- [${eras[era].name} ${phase === 'preraid' ? 'pre-raid' : phase.replace('p', 'phase ')} BiS](${url(bisPhasePath(defaultLocale, era, phase))}): ${where}, one list per class and spec.`;
       })),
-    `- [Classes](${url(guidePath('classes', defaultLocale))}): leveling guides per class and spec for each era, plus what is known about classes, race and class combinations and racials in WoW Forever.`,
+    `- [Classes](${url(guidePath('classes', defaultLocale))}): all nine classes of WoW Forever with their specs and roles. Every class has its own page (specs and roles, strengths and weaknesses, talents and rotation, stat priority, BiS, leveling, class quests, races and tips) at /classes/<class>/, and every spec guide and leveling guide sits under it at /classes/<class>/<spec>/. Class guides for the Classic eras are at /classes/<era>/.`,
+    // The class pages and spec guides (since 18 November 2026 under /classes/), without placeholder pages.
+    ...pages.filter((page) => page.key.startsWith('classes/') && !(page.entry.data as { noindex?: boolean }).noindex).map(pageLine),
     `- [Professions](${url(guidePath('tradeskills', defaultLocale))}): profession guides for each era, plus the profession perks and Legacy perks of WoW Forever.`,
     `- [Tools](${url(localizePath('talents', defaultLocale))}/): the WoW Forever talent calculator, with all nine classes and their three trees, and the Legacy calculator for the account-wide Legacy perks. A build is shareable as a link.`,
     `- [Class picker](${url(localizePath('class-picker', defaultLocale))}/): 14 short questions for new players of WoW Forever that pick a class and a spec, with our spec pick for leveling, dungeons, raids, solo play and PvP, the races per faction and links to the guide, level build, talent calculator and BiS list.`,
@@ -75,7 +78,7 @@ export const GET: APIRoute = async ({ site }) => {
     ...pages.filter((page) => page.key === 'forever').map(pageLine),
     ...pages.filter((page) => page.key === 'routes' || page.key.startsWith('routes/')).map(pageLine),
     ...pages.filter((page) => page.key.startsWith('compare/')).map(pageLine),
-    ...pages.filter((page) => page.key === 'guides' || page.key.startsWith('guides/')).map(pageLine),
+    ...pages.filter((page) => (page.key === 'guides' || page.key.startsWith('guides/')) && !(page.entry.data as { noindex?: boolean }).noindex).map(pageLine),
     ...(clips
       ? [`- [${en['clips.title']}](${url('/clips/')}): ${en['clips.description'].replace('{h}', String(clips.rules.windowHours))}`]
       : []),
@@ -93,7 +96,7 @@ export const GET: APIRoute = async ({ site }) => {
       .map((locale) => `${localeNames[locale]} (${url(localizePath('', locale))})`)
       .join(', ')}. Posts are written in English and translated by hand. Names from the game (items, spells, zones, dungeons, raids, bosses, classes, specs, professions and factions) are never translated.`,
     '',
-    'What this site answers: the release date and the beta of WoW Forever, its talents and talent calculator, best-in-slot (BiS) lists, classes, races and racials, professions, reputations and factions, companion pets and where to get each one, dungeon quests, leveling routes and leveling addons such as RestedXP and Zygor, plus live streams and clips.',
+    'What this site answers: the launch and news of WoW Forever, its talents and talent calculator, best-in-slot (BiS) lists, classes, races and racials, professions, reputations and factions, companion pets and where to get each one, dungeon quests, leveling routes and leveling addons such as RestedXP and Zygor, plus live streams and clips.',
     '',
     '## Sections',
     '',
