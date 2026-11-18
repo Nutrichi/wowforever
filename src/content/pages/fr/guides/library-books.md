@@ -45,7 +45,7 @@ L’Alliance va à la Mage Tower du Mage Quarter de Stormwind, la Horde au Magic
 
 Jusqu'au 13 novembre, un bug faisait refuser tous les livres aux deux bibliothécaires. Un correctif l'a réglé, vous pouvez de nouveau rendre vos livres.
 
-Les Mages reçoivent un bonus : le premier livre leur donne le sort Study, qui crée des parchemins dans une bibliothèque. Voir le [guide des parchemins du Mage](/fr/guides/mage-scrolls/).
+Les Mages reçoivent un bonus : le premier livre leur donne le sort Study, qui crée des parchemins dans une bibliothèque. Voir le [guide des parchemins du Mage](/fr/classes/mage/scrolls/).
 
 ![Le bibliothécaire Garion Wendell à Stormwind avec la fenêtre pour rendre un livre, une capture d'écran de la bêta de World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 

@@ -32,7 +32,9 @@ Cooking est un métier secondaire, il ne vous coûte donc jamais l’une de vos 
 - **Plus de 100 recettes**, dont les maîtres n’enseignent qu’une douzaine. Le reste vient de vendeurs, de butins, de quêtes et de l’[Azeroth Commerce Authority](/fr/reputations/azeroth-commerce-authority/).
 - **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5198"><img class="wf-wh__icon" src="/wh/inv_staff_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cookie's Stirring Rod</a>**, sur Cookie dans The Deadmines, fait désormais cuisiner 25 % plus vite.
 
-## Les rangs et où les apprendre
+## Rangs et maîtres
+
+### Les rangs et où les apprendre
 
 | Rang | Compétence | Comment |
 |---|---|---|
@@ -49,7 +51,7 @@ Cooking est un métier secondaire, il ne vous coûte donc jamais l’une de vos 
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, dans <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, qui tombe sur des monstres comme <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> sur la côte est de Tanaris.
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, chez les aubergistes et les marchands de nourriture.
 
-## Maîtres
+### Maîtres
 
 | Faction | Maître | Où | /way |
 |---|---|---|---|
@@ -107,7 +109,9 @@ Les recettes viennent de vendeurs :
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13941"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Filet of Redgill</a> | 225 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2664">Kelsey Yance</a>, Booty Bay (/way 28.2 74.4) |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13946"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Poached Sunscale Salmon</a> | 240 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8137">Gikkix</a>, Steamwheedle Port, Tanaris (/way 66.6 22.0) |
 
-## Anciens plats, nouveaux buffs
+## Plats et recettes
+
+### Anciens plats, nouveaux buffs
 
 Le même plat dans Forever et dans Classic Era, d’après les infobulles des deux jeux.
 
@@ -122,11 +126,11 @@ Le même plat dans Forever et dans Classic Era, d’après les infobulles des de
 
 Chaque buff dure 15 minutes et commence après 10 secondes de repas.
 
-## Des plats qui transforment
+### Des plats qui transforment
 
 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> donne désormais une version orc des costumes de ninja et de pirate ; les formes de Murloc et d’Ogre des premiers jours étaient provisoires, dit Blizzard. La recette demande Cooking 85 et tombe dans les Redridge Mountains ; plus de détails dans l’[article à ce sujet](/fr/news/savory-whimsyfin-delight-turns-you-into-a-murloc-or-an-ogre/). <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, avec son ninja et son pirate, est toujours là.
 
-## Nouvelles recettes
+### Nouvelles recettes
 
 Chaque nouvelle recette de Forever avec la compétence demandée et sa source. « Pas encore connu » signifie que la source n’a pas encore été trouvée.
 
@@ -172,7 +176,9 @@ Chaque nouvelle recette de Forever avec la compétence demandée et sa source. �
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1250146"><img class="wf-wh__icon" src="/wh/inv_misc_food_meat_cooked_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Flank au Poivre</a> | 275 | Pas encore connu |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255241"><img class="wf-wh__icon" src="/wh/spell_shadow_sealofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cleansing Stew</a> | Pas encore connu | Pas encore connu |
 
-## Feux de camp et objets de camp
+## Feux de camp
+
+### Feux de camp et objets de camp
 
 | Objet | Compétence | Recette | Effet |
 |---|---|---|---|
@@ -186,11 +192,13 @@ La compétence est celle que demande le blueprint ; les kits de feu de camp eux-
 
 ![La fenêtre Cooking avec les catégories Camping, Everyday Meals, Stamina Food et Strength Food, une capture de la bêta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-cooking-window.jpg)
 
-## Comment ça marche
+### Comment ça marche
 
 La fenêtre Cooking trie les recettes selon la stat qu’elles augmentent, avec Camping en haut. Le seul atelier est un feu, et votre propre feu de camp compte. La viande vient des bêtes, le poisson de [Fishing](/fr/tradeskills/forever/fishing/), les épices des vendeurs de Cooking.
 
-## Recettes contre du Merchant's Favor
+## Merchant's Favor et talents Legacy
+
+### Recettes contre du Merchant's Favor
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256731">Kalsey Sanden</a>, au camp de l’[Azeroth Commerce Authority](/fr/reputations/azeroth-commerce-authority/) à Three Corners (/way 10.8 72.7), vend six recettes de smoothies contre du Merchant's Favor.
 
@@ -205,7 +213,7 @@ La fenêtre Cooking trie les recettes selon la stat qu’elles augmentent, avec 
 
 La Horde les achète chez <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=248198">Aza'bek</a> de [Durotar Supply and Logistics](/fr/reputations/durotar-supply-and-logistics/).
 
-## Talents Legacy
+### Talents Legacy
 
 | Perk | Effet |
 |---|---|

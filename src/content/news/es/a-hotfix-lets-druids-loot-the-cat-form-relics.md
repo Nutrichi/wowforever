@@ -23,4 +23,4 @@ Los druidas consiguen Cat Form a nivel 20 con una misión de clase nueva en Fore
 
 La misión también enseña Claw, Prowl y Rip. Los druidas Skyborne siguen la misma cadena como The Great Windborne Cat Spirit, con el Avatar of Saeyleenan en lugar del Great Cat Spirit.
 
-Si te quedaste atascado, vuelve al barrow den e inténtalo de nuevo. Todo lo demás sobre subir un druida, de las builds a las formas, está en [nuestra guía de subida del Druida](/es/guides/druid-leveling/).
+Si te quedaste atascado, vuelve al barrow den e inténtalo de nuevo. Todo lo demás sobre subir un druida, de las builds a las formas, está en [nuestra guía de subida del Druida](/es/classes/druid/leveling/).

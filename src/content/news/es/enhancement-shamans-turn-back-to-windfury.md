@@ -38,4 +38,4 @@ Las raids abren el 9 de diciembre. Al corregir Enhancement ahora, se evita que l
 
 La Strength vale ahora claramente más que el Intellect. Un punto de Strength da 2 de poder de ataque, un punto de Intellect como mucho 1 a través de Mental Dexterity. Un arma lenta a dos manos importa todavía más: más activaciones de Maelstrom Weapon por golpe y golpes de Windfury más grandes.
 
-Cuánto daño pierde Enhancement en total, Blizzard no lo dice. Nuestra [guía del Shaman Enhancement](/es/guides/enhancement-shaman/) sigue los nuevos valores.
+Cuánto daño pierde Enhancement en total, Blizzard no lo dice. Nuestra [guía del Shaman Enhancement](/es/classes/shaman/enhancement/) sigue los nuevos valores.

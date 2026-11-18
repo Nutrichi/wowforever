@@ -23,4 +23,4 @@ Les druides obtiennent Cat Form au niveau 20 grâce à une quête de classe nouv
 
 La quête apprend aussi Claw, Prowl et Rip. Les druides Skyborne suivent la même chaîne sous le nom The Great Windborne Cat Spirit, avec l'Avatar of Saeyleenan au lieu du Great Cat Spirit.
 
-Si vous étiez bloqué, retournez au barrow den et réessayez. Tout le reste pour monter un druide, des builds aux formes, se trouve dans [notre guide de leveling du Druide](/fr/guides/druid-leveling/).
+Si vous étiez bloqué, retournez au barrow den et réessayez. Tout le reste pour monter un druide, des builds aux formes, se trouve dans [notre guide de leveling du Druide](/fr/classes/druid/leveling/).

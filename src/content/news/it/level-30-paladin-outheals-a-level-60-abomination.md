@@ -33,4 +33,4 @@ Si cura attraverso tutto ciò che non lo interrompe. Così ha battuto una Abomin
   </button>
 </figure>
 
-Come si gioca un Holy Paladin al livello 60 è nella [guida all'Holy Paladin](/it/guides/holy-paladin/).
+Come si gioca un Holy Paladin al livello 60 è nella [guida all'Holy Paladin](/it/classes/paladin/holy/).

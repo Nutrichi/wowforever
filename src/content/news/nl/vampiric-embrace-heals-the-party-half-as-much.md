@@ -21,7 +21,7 @@ De wijziging kwam met het wekelijkse onderhoud, de rest van de hotfixes van 16 n
 
 > This change results in no difference for Priest solo play.
 
-Dark Inspiration stapelt ook niet meer als een groep meer dan één Shadow Priest heeft. De [gids voor de Shadow Priest](/nl/guides/shadow-priest/) heeft de nieuwe cijfers.
+Dark Inspiration stapelt ook niet meer als een groep meer dan één Shadow Priest heeft. De [gids voor de Shadow Priest](/nl/classes/priest/shadow/) heeft de nieuwe cijfers.
 
 ## Windfury Totem en Warriors
 

@@ -64,7 +64,10 @@ const action = localizePath('', locale);
     min-width: 150px;
     border: 1px solid var(--wf-border);
     border-radius: var(--wf-r-field);
-    padding: 7px 12px;
+    /* 3px top and bottom: the field is then exactly as tall as the chips (32 px),
+       so the second bar keeps one height with or without the search field
+       (Nutri, 18 November 2026: the bar was 58 px with the field, 51 px without). */
+    padding: 3px 12px;
     color: var(--wf-muted);
     transition: var(--wf-transition);
   }

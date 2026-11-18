@@ -76,7 +76,7 @@ Click Casting associe des sorts à des clics ou des combinaisons de touches sur 
 
 ![La fenêtre Click Cast Bindings, avec Mouseover Cast, les raccourcis par défaut et un raccourci personnalisé vide, une capture d'écran de World of Warcraft: Forever](../../../../assets/posts/2026-10-30-wow-forever-click-cast-bindings.jpg)
 
-Le lancement au survol pour tous vos sorts se trouve dans Options, Combat : vos sorts vont alors à l'unité sous la souris, tout en gardant votre cible. Plus de détails dans nos guides de soigneurs, comme le [Restoration Shaman](/fr/guides/restoration-shaman/).
+Le lancement au survol pour tous vos sorts se trouve dans Options, Combat : vos sorts vont alors à l'unité sous la souris, tout en gardant votre cible. Plus de détails dans nos guides de soigneurs, comme le [Restoration Shaman](/fr/classes/shaman/restoration/).
 
 ## Quels addons fonctionnent encore
 

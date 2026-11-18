@@ -7,7 +7,7 @@ lang: fr
 image: ../../../assets/posts/2026-10-16-wow-forever-gold-and-chests.jpg
 imageAlt: "Deux coffres au trésor sur une colline de pièces d'or hérissée de quelques épées, une illustration de World of Warcraft"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/lockpicking/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/rogue/lockpicking/"
 tags: ["forever", "classes", "dungeon"]
 featured: false
 draft: false
@@ -19,7 +19,7 @@ Les Rogues de World of Warcraft: Forever apprennent le Lockpicking au niveau 16,
 
 Pick Lock s'apprend chez n'importe quel maître des Rogues au niveau 16. Il vous faut aussi des <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5060"><img class="wf-wh__icon" src="/wh/inv_misc_gear_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thieves' Tools</a>. Une courte quête les donne gratuitement : <a href="https://www.wowhead.com/forever/quest=2281">Redridge Rendezvous</a> à Stormwind pour l'Alliance, <a href="https://www.wowhead.com/forever/quest=2382">Wrenix of Ratchet</a> à Orgrimmar pour la Horde. Les deux mènent à des Practice Lockboxes qui réapparaissent vite, à Alther's Mill dans les Redridge Mountains ou sur un bateau pirate au sud de Ratchet.
 
-La compétence monte jusqu'à cinq fois votre niveau : vous n'atteignez 300 qu'au niveau 60. Gardez-la à jour, car les deux suites de quêtes des [Poisons](/fr/guides/poisons/) au niveau 20 demandent 80 en Lockpicking.
+La compétence monte jusqu'à cinq fois votre niveau : vous n'atteignez 300 qu'au niveau 60. Gardez-la à jour, car les deux suites de quêtes des [Poisons](/fr/classes/rogue/poisons/) au niveau 20 demandent 80 en Lockpicking.
 
 ## Des portes au lieu de clés
 
@@ -32,4 +32,4 @@ La compétence monte jusqu'à cinq fois votre niveau : vous n'atteignez 300 qu'a
 
 Dès 280, les portes près de l'entrée de Blackrock Depths sont aussi le moyen le plus sûr pour les derniers points : ouvrez-les, réinitialisez le donjon et recommencez.
 
-Chaque étape de 1 à 300, avec un endroit par tranche de compétence, se trouve dans notre nouveau [guide du Lockpicking](/fr/guides/lockpicking/).
+Chaque étape de 1 à 300, avec un endroit par tranche de compétence, se trouve dans notre nouveau [guide du Lockpicking](/fr/classes/rogue/lockpicking/).

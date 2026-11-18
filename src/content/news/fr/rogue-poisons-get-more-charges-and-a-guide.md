@@ -7,7 +7,7 @@ lang: fr
 image: ../../../assets/posts/2026-10-27-wow-forever-poisons-shady-dealer.jpg
 imageAlt: "Jasper Fel, Shady Dealer à Stormwind, qui vend des composants de poisons, une capture d'écran de la bêta de World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/poisons/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/rogue/poisons/"
 tags: ["forever", "classes"]
 manual: true
 featured: false
@@ -39,4 +39,4 @@ Les Poisons fonctionnent comme un métier. Chaque poison fabriqué donne un poin
 
 ![Osborne the Night Man, maître des Rogues à Stormwind, avec les rangs des Poisons et la compétence demandée, une capture d'écran de la bêta de World of Warcraft: Forever](../../../assets/posts/2026-10-27-wow-forever-poisons-rogue-trainer.jpg)
 
-Le [guide des Poisons](/fr/guides/poisons/) détaille les deux suites étape par étape, avec le point faible de chaque monstre coriace, les niveaux de tous les rangs et les composants. Le [guide de leveling du Rogue](/fr/guides/rogue-leveling/) y renvoie désormais.
+Le [guide des Poisons](/fr/classes/rogue/poisons/) détaille les deux suites étape par étape, avec le point faible de chaque monstre coriace, les niveaux de tous les rangs et les composants. Le [guide de leveling du Rogue](/fr/classes/rogue/leveling/) y renvoie désormais.

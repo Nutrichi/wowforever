@@ -196,6 +196,12 @@ const pages = defineCollection({
     sources: sourcesField,
     /** Een eigen video bij een gids: het id op YouTube. De app speelt hem af in de gids. */
     video: z.string().regex(/^[\w-]{11}$/).optional(),
+    /** Two columns with a sticky table of contents (from the H2 headings) and the video on the right (18 November 2026). */
+    toc: z.boolean().default(false),
+    // A placeholder page ("Coming soon"): noindex and not in the sitemap.
+    noindex: z.boolean().default(false),
+    /** Title of the video for the play button; without it a general label. */
+    videoTitle: z.string().optional(),
     /**
      * Een dungeon in drie tabs (19 oktober 2026): welke dungeon en welke tab. De kop, de
      * tabs, de buit en de quests komen uit data/dungeons (components/guides/DungeonPage.astro).

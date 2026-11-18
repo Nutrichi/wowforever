@@ -25,4 +25,4 @@ Avec une seconde spé, vous gardez deux builds de talents séparés et passez de
 
 Apprentice Riding et la Dual Spec coûtent ensemble 150 pièces d'or au niveau 40. C'est beaucoup si tôt, et beaucoup de joueurs devront d'abord choisir. Cela devient plus facile en montant : les objets se vendent plus cher, et [les quêtes donnent plus d'or dès le niveau 48](/fr/news/blizzard-adds-gold-to-quests-from-level-48/).
 
-Les soigneurs et les tanks qui montent en spé dégâts y gagnent le plus. Le [guide de leveling du Shaman](/fr/guides/shaman-leveling/) ajoute par exemple Restoration comme seconde spé au niveau 40.
+Les soigneurs et les tanks qui montent en spé dégâts y gagnent le plus. Le [guide de leveling du Shaman](/fr/classes/shaman/leveling/) ajoute par exemple Restoration comme seconde spé au niveau 40.

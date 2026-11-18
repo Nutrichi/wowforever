@@ -1,0 +1,290 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "priest",
+ "spec": "shadow",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-17",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Spellweaver's Turban",
+     "source": "General Drakkisath (Upper Black Rock Spire)"
+    },
+    {
+     "name": "Master's Hat",
+     "source": "World drop"
+    },
+    {
+     "name": "Green Lens",
+     "source": "Crafted with Engineering"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Nacreous Shell Necklace",
+     "source": "Cannon Master Willey (Stratholme)"
+    },
+    {
+     "name": "Orb of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Orb of the Darkmoon"
+    },
+    {
+     "name": "Chains of the Lich",
+     "source": "Balzaphon (Stratholme)"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Virtuous Epaulets",
+     "source": "Deliana Mokvar (Tier 0.5 Vendor)"
+    },
+    {
+     "name": "Mantle of the Timbermaw",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Master's Mantle",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Pix Xizzix (Undermine Trader)"
+    },
+    {
+     "name": "Fel Cape",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Master's Cloak",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robe of Winter Night",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Robes of Dark Summons",
+     "source": "Impaan the Imprisoner (Blackmaw Hold)"
+    },
+    {
+     "name": "Alanna's Embrace",
+     "source": "Ras Frostwhisper (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Tearfall Bracers",
+     "source": "The Unforgiven (Stratholme)"
+    },
+    {
+     "name": "Master's Bracers",
+     "source": "World drop"
+    },
+    {
+     "name": "Netherpearl Cuffs",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of Spell Mastery",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Felcloth Gloves",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Master's Gloves",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Archmage",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Master's Belt",
+     "source": "World drop"
+    },
+    {
+     "name": "Ban'thok Sash",
+     "source": "Ok'thor the Breaker (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Master's Leggings",
+     "source": "World drop"
+    },
+    {
+     "name": "Leggings of Torment",
+     "source": "Lord Valthalak (Upper Blackrock Spire)"
+    },
+    {
+     "name": "Skyshroud Leggings",
+     "source": "Highlord Omokk (Lower Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Master's Boots",
+     "source": "World drop"
+    },
+    {
+     "name": "Virtuous Slippers",
+     "source": "Deliana Mokvar (Tier 0.5 Vendor)"
+    },
+    {
+     "name": "Omnicast Boots",
+     "source": "Golem Lord Argelmach (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Songstone of Ironforge",
+     "source": "Reward from the quest The Princess's Surprise or The Princess Saved?"
+    },
+    {
+     "name": "Don Mauricio's Band of Domination",
+     "source": "Darkmaster Gandling (Scholomance)"
+    },
+    {
+     "name": "Emperor's Seal",
+     "source": "Emperor Dagran Thaurissan (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Rune Band of Wizardry",
+     "source": "Lord Valthalak (Upper Blackrock Spire)"
+    },
+    {
+     "name": "Don Mauricio's Band of Domination",
+     "source": "Darkmaster Gandling (Scholomance)"
+    },
+    {
+     "name": "Emperor's Seal",
+     "source": "Emperor Dagran Thaurissan (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Weakness Analyzer",
+     "source": "Pix Xizzix (Undermine Trader)"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher (Blackrock Spire)"
+    },
+    {
+     "name": "Jewel of the Guard Captain",
+     "source": "Reward from the quest Job Opening: Guard Captain of Revantusk Village or Saving Sharpbeak"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher (Blackrock Spire)"
+    },
+    {
+     "name": "Jewel of the Guard Captain",
+     "source": "Reward from the quest Job Opening: Guard Captain of Revantusk Village or Saving Sharpbeak"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Blade of the New Moon",
+     "source": "Immol'thar (Dire Maul)"
+    },
+    {
+     "name": "Scepter of the Unholy",
+     "source": "Baron Rivendare (Stratholme)"
+    },
+    {
+     "name": "Witchblade",
+     "source": "Darkmaster Gandling (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Obsidian Bauble",
+     "source": "Pusillin (Dire Maul)"
+    },
+    {
+     "name": "Master's Rod",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Rod of the Ogre Magi",
+     "source": "Mizzle the Crafty (Dire Maul)"
+    }
+   ]
+  }
+ ]
+}

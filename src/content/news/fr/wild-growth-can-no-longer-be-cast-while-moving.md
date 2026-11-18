@@ -24,4 +24,4 @@ Les Druides Restoration perdent une de leurs meilleures astuces. Depuis un hotfi
 
 Pourquoi Wild Growth se lançait en mouvement au lancement, Blizzard ne le dit pas. Cela ressemblait à un bug, et il a disparu. Le soin lui-même devient plus fort avec votre équipement : plus vous avez de puissance des sorts, plus le coefficient doublé rapporte. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a> rend toujours Wild Growth instantané, [depuis le 10 novembre](/fr/news/racial-vendor-mounts-become-bind-on-pickup/).
 
-Le build, les macros et la rotation sont dans notre [guide du Druide Restoration](/fr/guides/restoration-druid/), désormais avec ce changement.
+Le build, les macros et la rotation sont dans notre [guide du Druide Restoration](/fr/classes/druid/restoration/), désormais avec ce changement.

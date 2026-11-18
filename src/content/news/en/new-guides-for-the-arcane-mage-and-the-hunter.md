@@ -7,7 +7,7 @@ lang: en
 image: ../../../assets/posts/2026-10-19-wow-forever-night-elf-hunter-and-wolf.jpg
 imageAlt: "A Night Elf Hunter with a bow and a dark wolf on a hill in front of a Night Elf house, a screenshot from the beta of World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/hunter-leveling/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/hunter/leveling/"
 tags: ["forever", "beta", "classes", "leveling"]
 featured: false
 draft: false
@@ -16,13 +16,13 @@ The site has two new class guides: one for the Arcane Mage and one for leveling 
 
 ## Arcane Mage
 
-The [Arcane Mage guide](/guides/arcane-mage/) covers a spec that finally has damage spells of its own. Arcane Blast gives 15% of your Intellect as spell damage per stack, up to 4 stacks, but makes every next cast 175% more expensive. Missile Barrage and Arcane Wrath complete the rotation.
+The [Arcane Mage guide](/classes/mage/arcane/) covers a spec that finally has damage spells of its own. Arcane Blast gives 15% of your Intellect as spell damage per stack, up to 4 stacks, but makes every next cast 175% more expensive. Missile Barrage and Arcane Wrath complete the rotation.
 
 The guide has two builds: one for questing with Improved Channeling, and one for dungeons with less threat and more critical strike chance. It also explains the burn phases, mana, survival without Ice Block, stats, races and professions.
 
 ## Hunter leveling
 
-The [Hunter leveling guide](/guides/hunter-leveling/) has builds for Beast Mastery, Marksmanship and Survival, each with the order in which to take the talents. Beast Mastery is the smoothest way to level: the pet takes the hits while you shoot.
+The [Hunter leveling guide](/classes/hunter/leveling/) has builds for Beast Mastery, Marksmanship and Survival, each with the order in which to take the talents. Beast Mastery is the smoothest way to level: the pet takes the hits while you shoot.
 
 The guide also lists every key level from 1 to 60. Aimed Shot is no longer a talent: every Hunter learns it at level 20. On top of that come the taming quest, weapons, ranged weapons to level 30, professions, traps, tracking and Aspects.
 

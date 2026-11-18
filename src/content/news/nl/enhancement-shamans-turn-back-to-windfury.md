@@ -38,4 +38,4 @@ De raids gaan open op 9 december. Door Enhancement nu al bij te sturen, winnen S
 
 Strength is nu duidelijk beter dan Intellect. Een punt Strength geeft 2 attack power, een punt Intellect hoogstens 1 via Mental Dexterity. Een traag tweehandig wapen telt nog meer: meer procs van Maelstrom Weapon per slag, en grotere Windfury-klappen.
 
-Hoeveel schade Enhancement in totaal verliest, zegt Blizzard niet. Onze [gids voor de Enhancement Shaman](/nl/guides/enhancement-shaman/) volgt de nieuwe waarden.
+Hoeveel schade Enhancement in totaal verliest, zegt Blizzard niet. Onze [gids voor de Enhancement Shaman](/nl/classes/shaman/enhancement/) volgt de nieuwe waarden.

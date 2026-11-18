@@ -32,4 +32,4 @@ Blizzard [ha annunciato la settimana scorsa](/it/news/hunter-and-warlock-pets-ge
 
 La mazza è la ricompensa di <a href="https://www.wowhead.com/forever/quest=79442">The Tempest's Weapons</a> per la Horde e <a href="https://www.wowhead.com/forever/quest=96016">The Tempest's Weapons</a> per la Alliance, l'ultimo passo della catena che abbiamo descritto [durante la beta](/it/news/shamans-earn-a-weapon-with-a-level-30-quest-chain/). Se ce l'hai già, il tuo esemplare riceve le nuove statistiche.
 
-Le [modifiche per Warlock e Hunter](/it/news/wrack-makes-affliction-dots-tick-twice-as-fast/) sono arrivate più tardi lo stesso giorno. La nostra [guida all'Enhancement Shaman](/it/guides/enhancement-shaman/) segue le nuove statistiche.
+Le [modifiche per Warlock e Hunter](/it/news/wrack-makes-affliction-dots-tick-twice-as-fast/) sono arrivate più tardi lo stesso giorno. La nostra [guida all'Enhancement Shaman](/it/classes/shaman/enhancement/) segue le nuove statistiche.

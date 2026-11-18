@@ -30,4 +30,4 @@ Letzte Woche sagte Blizzard, dass Pets [als Tank nicht genug aushielten](/de/new
 
 Der Felhunter steht nicht auf der Liste. Das Peitschengeräusch der Succubus ist jetzt auch viel seltener zu hören: Ein Bug spielte es viel zu oft ab.
 
-Leveln mit Pet: unser [Leveling-Guide für den Hunter](/de/guides/hunter-leveling/), der [Guide zum Beast-Mastery-Hunter](/de/guides/beast-mastery-hunter/) und der [Leveling-Guide für den Warlock](/de/guides/warlock-leveling/).
+Leveln mit Pet: unser [Leveling-Guide für den Hunter](/de/classes/hunter/leveling/), der [Guide zum Beast-Mastery-Hunter](/de/classes/hunter/beast-mastery/) und der [Leveling-Guide für den Warlock](/de/classes/warlock/leveling/).

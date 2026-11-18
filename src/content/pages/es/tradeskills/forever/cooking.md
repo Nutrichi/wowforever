@@ -32,7 +32,9 @@ Cooking es una profesión secundaria, así que nunca te cuesta una de tus dos pl
 - **Más de 100 recetas**, de las que los instructores solo enseñan una docena. El resto sale de vendedores, botín, misiones y la [Azeroth Commerce Authority](/es/reputations/azeroth-commerce-authority/).
 - **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5198"><img class="wf-wh__icon" src="/wh/inv_staff_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cookie's Stirring Rod</a>**, de Cookie en The Deadmines, ahora cocina un 25 % más rápido.
 
-## Rangos y dónde aprenderlos
+## Rangos e instructores
+
+### Rangos y dónde aprenderlos
 
 | Rango | Habilidad | Cómo |
 |---|---|---|
@@ -49,7 +51,7 @@ Cooking es una profesión secundaria, así que nunca te cuesta una de tus dos pl
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, que sueltan monstruos como <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> en la costa este de Tanaris.
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, de los taberneros y vendedores de comida.
 
-## Instructores
+### Instructores
 
 | Facción | Instructor | Dónde | /way |
 |---|---|---|---|
@@ -107,7 +109,9 @@ Desde 225 necesitas Artisan, con la misión de arriba. Lista de la compra para 2
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13941"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Filet of Redgill</a> | 225 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2664">Kelsey Yance</a>, Booty Bay (/way 28.2 74.4) |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13946"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Poached Sunscale Salmon</a> | 240 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8137">Gikkix</a>, Steamwheedle Port, Tanaris (/way 66.6 22.0) |
 
-## Platos antiguos, buffs nuevos
+## Platos y recetas
+
+### Platos antiguos, buffs nuevos
 
 El mismo plato en Forever y en Classic Era, según las descripciones de los dos juegos.
 
@@ -122,11 +126,11 @@ El mismo plato en Forever y en Classic Era, según las descripciones de los dos 
 
 Cada buff dura 15 minutos y empieza tras 10 segundos comiendo.
 
-## Comida que transforma
+### Comida que transforma
 
 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> da ahora una versión orca de los disfraces de ninja y pirata; las formas de Murloc y Ogre de los primeros días eran provisionales, dice Blizzard. La receta pide Cooking 85 y cae en Redridge Mountains; más en la [noticia sobre ello](/es/news/savory-whimsyfin-delight-turns-you-into-a-murloc-or-an-ogre/). <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, con su ninja y su pirata, sigue ahí.
 
-## Recetas nuevas
+### Recetas nuevas
 
 Cada receta nueva de Forever con la habilidad que pide y de dónde sale. «Aún no se sabe» significa que el origen no se ha encontrado todavía.
 
@@ -172,7 +176,9 @@ Cada receta nueva de Forever con la habilidad que pide y de dónde sale. «Aún 
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1250146"><img class="wf-wh__icon" src="/wh/inv_misc_food_meat_cooked_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Flank au Poivre</a> | 275 | Aún no se sabe |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255241"><img class="wf-wh__icon" src="/wh/spell_shadow_sealofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cleansing Stew</a> | Aún no se sabe | Aún no se sabe |
 
-## Hogueras y objetos de campamento
+## Hogueras
+
+### Hogueras y objetos de campamento
 
 | Objeto | Habilidad | Receta | Qué hace |
 |---|---|---|---|
@@ -186,11 +192,13 @@ La habilidad es la que pide el blueprint; los kits de hoguera piden algo más, 1
 
 ![La ventana de Cooking con las categorías Camping, Everyday Meals, Stamina Food y Strength Food, una captura de la beta de World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-cooking-window.jpg)
 
-## Cómo funciona
+### Cómo funciona
 
 La ventana de Cooking ordena las recetas según la stat que suben, con Camping arriba. El único taller es un fuego, y tu propia hoguera cuenta. La carne sale de las bestias, el pescado de [Fishing](/es/tradeskills/forever/fishing/), las especias de los vendedores de Cooking.
 
-## Recetas por Merchant's Favor
+## Merchant's Favor y talentos Legacy
+
+### Recetas por Merchant's Favor
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256731">Kalsey Sanden</a>, en el campamento de la [Azeroth Commerce Authority](/es/reputations/azeroth-commerce-authority/) en Three Corners (/way 10.8 72.7), vende seis recetas de batidos por Merchant's Favor.
 
@@ -205,7 +213,7 @@ La ventana de Cooking ordena las recetas según la stat que suben, con Camping a
 
 La Horda las compra a <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=248198">Aza'bek</a> de [Durotar Supply and Logistics](/es/reputations/durotar-supply-and-logistics/).
 
-## Talentos de Legacy
+### Talentos de Legacy
 
 | Perk | Efecto |
 |---|---|

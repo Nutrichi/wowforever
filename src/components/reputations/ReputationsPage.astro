@@ -37,6 +37,15 @@ const groups = (['both', 'alliance', 'horde'] as const)
   .filter((group) => group.items.length > 0);
 
 const title = t('title');
+const HEAD: Record<Locale, Record<'faction' | 'side' | 'zone' | 'standing' | 'all' | 'filter', string>> = {
+  en: { faction: 'Faction', side: 'Side', zone: 'Zone', standing: 'Standing', all: 'All', filter: 'Filter by side' },
+  nl: { faction: 'Factie', side: 'Kant', zone: 'Zone', standing: 'Reputatie', all: 'Alle', filter: 'Filter op kant' },
+  fr: { faction: 'Faction', side: 'Camp', zone: 'Zone', standing: 'Réputation', all: 'Toutes', filter: 'Filtrer par camp' },
+  es: { faction: 'Facción', side: 'Bando', zone: 'Zona', standing: 'Reputación', all: 'Todas', filter: 'Filtrar por bando' },
+  it: { faction: 'Fazione', side: 'Schieramento', zone: 'Zona', standing: 'Reputazione', all: 'Tutte', filter: 'Filtra per schieramento' },
+  de: { faction: 'Fraktion', side: 'Seite', zone: 'Zone', standing: 'Ruf', all: 'Alle', filter: 'Nach Seite filtern' },
+};
+const H = HEAD[locale];
 const crumbs = [
   { name: ui('crumb.home'), path: localizePath('', locale) },
   { name: ui('nav.reputations'), path: reputationPath(locale) },
@@ -52,30 +61,54 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
       <div class="wf-ghead__main">
         <h1 class="wf-ghead__title">{title}</h1>
       </div>
-      {updated && <p class="wf-ghead__count">{t('count', { n: factions.length, date: longDate(updated, locale) })}</p>}
     </header>
 
-    {groups.map((group) => (
-      <section class="wf-repgroup" aria-labelledby={groups.length > 1 ? `wf-rep-${group.key}` : undefined}>
-        {groups.length > 1 && <h2 class="wf-glabel" id={`wf-rep-${group.key}`}>{groupTitle[group.key]}</h2>}
-        <ul class="wf-reps">
-          {group.items.map((faction) => (
-            <li class="wf-rep">
-              <div class="wf-rep__top">
-                <p class="wf-rep__name"><a href={faction.href}>{faction.data.faction}</a></p>
-                <p class="wf-rep__range">{t('range', { start: standingNames[faction.data.start], cap: standingNames[faction.data.cap] })}</p>
-              </div>
-              <p class="wf-rep__sub">{faction.data.zone}{group.key === 'both' ? '' : ` · ${side[faction.data.side]}`}</p>
-              <p class="wf-rep__rewards"><span class="wf-sr">{t('rewards')}: </span>{faction.data.rewards}</p>
-            </li>
+    {/* One compact table instead of a card with a reward text per faction (Nutri, 18 November 2026:
+        "too much text on the main page"). The rewards stay on the page of each faction. */}
+    <nav class="wf-repfilter" aria-label={H.filter} data-pagefind-ignore>
+      {(['all', 'both', 'alliance', 'horde'] as const).map((key) => (
+        <button type="button" class="wf-gchip" data-rep-filter={key} aria-pressed={key === 'all' ? 'true' : 'false'}>
+          {key === 'all' ? H.all : side[key]}
+        </button>
+      ))}
+    </nav>
+    <div class="wf-gprose">
+      <table class="wf-reptable">
+        <thead>
+          <tr><th>{H.faction}</th><th>{H.side}</th><th>{H.zone}</th><th>{H.standing}</th></tr>
+        </thead>
+        <tbody>
+          {groups.flatMap((group) => group.items).map((faction) => (
+            <tr data-side={faction.data.side}>
+              <td><a href={faction.href}>{faction.data.faction}</a></td>
+              <td>{side[faction.data.side]}</td>
+              <td>{faction.data.zone}</td>
+              <td>{t('range', { start: standingNames[faction.data.start], cap: standingNames[faction.data.cap] })}</td>
+            </tr>
           ))}
-        </ul>
-      </section>
-    ))}
+        </tbody>
+      </table>
+    </div>
+    <script>
+      for (const button of document.querySelectorAll<HTMLButtonElement>('[data-rep-filter]')) {
+        button.addEventListener('click', () => {
+          const key = button.dataset.repFilter;
+          document.querySelectorAll('[data-rep-filter]').forEach((b) => b.setAttribute('aria-pressed', String(b === button)));
+          document.querySelectorAll<HTMLTableRowElement>('.wf-reptable tbody tr').forEach((row) => {
+            row.hidden = key !== 'all' && row.dataset.side !== key;
+          });
+        });
+      }
+    </script>
   </div>
 </BaseLayout>
 
 <style>
+  .wf-repfilter { display: flex; flex-wrap: wrap; gap: 8px; margin: 6px 0 16px; }
+  .wf-repfilter .wf-gchip { cursor: pointer; }
+  .wf-repfilter .wf-gchip[aria-pressed='true'] { border-color: var(--wf-accent); color: var(--wf-accent); }
+  .wf-reptable td:first-child a { font-weight: 600; }
+
   .wf-reppage { padding-block: 6px 40px; }
   .wf-repgroup { margin-top: 20px; }
   .wf-repgroup + .wf-repgroup { margin-top: 26px; }

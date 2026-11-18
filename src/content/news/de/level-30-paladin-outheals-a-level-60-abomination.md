@@ -33,4 +33,4 @@ Er heilt sich durch alles, was ihn nicht unterbricht. So besiegte er eine Abomin
   </button>
 </figure>
 
-Wie ein Holy Paladin auf Stufe 60 spielt, steht im [Guide zum Holy Paladin](/de/guides/holy-paladin/).
+Wie ein Holy Paladin auf Stufe 60 spielt, steht im [Guide zum Holy Paladin](/de/classes/paladin/holy/).

@@ -10,6 +10,9 @@ const ui = {
   en: {
     updated: 'Updated {date}',
     faqTitle: 'Frequently asked questions',
+    tocTitle: 'Contents',
+    backToTop: 'Back to top',
+    playVideo: 'Play the video on YouTube.',
     sources: 'Sources:',
     routesCrumb: 'Leveling routes',
     otherPages: 'Related pages',
@@ -18,6 +21,9 @@ const ui = {
   nl: {
     updated: 'Bijgewerkt op {date}',
     faqTitle: 'Veelgestelde vragen',
+    tocTitle: 'Inhoud',
+    backToTop: 'Terug naar boven',
+    playVideo: 'Speel de video af op YouTube.',
     sources: 'Bronnen:',
     routesCrumb: 'Levelroutes',
     otherPages: 'Verwante pagina’s',
@@ -26,6 +32,9 @@ const ui = {
   fr: {
     updated: 'Mis à jour le {date}',
     faqTitle: 'Questions fréquentes',
+    tocTitle: 'Sommaire',
+    backToTop: 'Retour en haut',
+    playVideo: 'Lancer la vidéo sur YouTube.',
     sources: 'Sources :',
     routesCrumb: 'Routes de montée',
     otherPages: 'Pages liées',
@@ -34,6 +43,9 @@ const ui = {
   es: {
     updated: 'Actualizado el {date}',
     faqTitle: 'Preguntas frecuentes',
+    tocTitle: 'Índice',
+    backToTop: 'Volver arriba',
+    playVideo: 'Reproducir el vídeo en YouTube.',
     sources: 'Fuentes:',
     routesCrumb: 'Rutas de subida',
     otherPages: 'Páginas relacionadas',
@@ -42,6 +54,9 @@ const ui = {
   it: {
     updated: 'Aggiornato il {date}',
     faqTitle: 'Domande frequenti',
+    tocTitle: 'Indice',
+    backToTop: 'Torna su',
+    playVideo: 'Riproduci il video su YouTube.',
     sources: 'Fonti:',
     routesCrumb: 'Percorsi di livellamento',
     otherPages: 'Pagine correlate',
@@ -50,6 +65,9 @@ const ui = {
   de: {
     updated: 'Aktualisiert am {date}',
     faqTitle: 'Häufige Fragen',
+    tocTitle: 'Inhalt',
+    backToTop: 'Nach oben',
+    playVideo: 'Spiel das Video auf YouTube ab.',
     sources: 'Quellen:',
     routesCrumb: 'Levelrouten',
     otherPages: 'Verwandte Seiten',

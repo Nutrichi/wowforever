@@ -25,4 +25,4 @@ Mit einer zweiten Spec hast du zwei getrennte Talentbuilds und wechselst zwische
 
 Apprentice Riding und Dual Spec kosten zusammen 150 Gold auf Level 40. Das ist so früh viel, also müssen viele Spieler sich zuerst entscheiden. Beim Leveln wird es leichter: Gegenstände bringen mehr ein, und [Quests geben ab Level 48 mehr Gold](/de/news/blizzard-adds-gold-to-quests-from-level-48/).
 
-Heiler und Tanks, die mit einer Schadensspec leveln, haben am meisten davon. Der [Shaman-Leveling-Guide](/de/guides/shaman-leveling/) setzt zum Beispiel auf Level 40 Restoration als zweite Spec.
+Heiler und Tanks, die mit einer Schadensspec leveln, haben am meisten davon. Der [Shaman-Leveling-Guide](/de/classes/shaman/leveling/) setzt zum Beispiel auf Level 40 Restoration als zweite Spec.

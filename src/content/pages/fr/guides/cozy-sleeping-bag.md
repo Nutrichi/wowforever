@@ -23,6 +23,8 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
+> **Mise à jour du 18 novembre :** depuis les correctifs du 17 novembre, le sac de couchage ne marche plus sur une monture, ne se pose qu'à certains endroits, comme les pièges de chasseur, et donne une aura Resting tant que vous êtes dans sa zone.
+
 Le [Cozy Sleeping Bag](https://www.wowhead.com/forever/item=211527/cozy-sleeping-bag) est un objet qui permet de s’allonger n’importe où et de gagner de l’expérience bonus pendant le repos. Il est apparu dans Season of Discovery et il revient dans WoW Forever, au bout d’une chaîne de quêtes qui traverse la moitié d’Azeroth. Des joueurs l’ont trouvé sur la bêta ; Blizzard ne l’a pas annoncé.
 
 Il faut être niveau 14 pour commencer.

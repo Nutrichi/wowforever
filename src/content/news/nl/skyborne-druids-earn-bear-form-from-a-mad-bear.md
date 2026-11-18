@@ -49,4 +49,4 @@ In de Stormrage Barrow Den geeft een kattenbeeld bij de ingang een buff waarmee 
   </button>
 </figure>
 
-Elke stap met coördinaten staat in [onze gids voor Druid levelen](/nl/guides/druid-leveling/), die nu ook toont waar je per zone levelt.
+Elke stap met coördinaten staat in [onze gids voor Druid levelen](/nl/classes/druid/leveling/), die nu ook toont waar je per zone levelt.

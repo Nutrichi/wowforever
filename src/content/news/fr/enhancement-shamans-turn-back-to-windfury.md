@@ -38,4 +38,4 @@ Les raids ouvrent le 9 décembre. En corrigeant l'Enhancement dès maintenant, B
 
 La Strength vaut maintenant clairement plus que l'Intellect. Un point de Strength donne 2 de puissance d'attaque, un point d'Intellect au plus 1 via Mental Dexterity. Une arme à deux mains lente compte encore plus : plus de déclenchements de Maelstrom Weapon par coup et de plus gros coups de Windfury.
 
-Combien de dégâts l'Enhancement perd au total, Blizzard ne le dit pas. Notre [guide du Shaman Enhancement](/fr/guides/enhancement-shaman/) suit les nouvelles valeurs.
+Combien de dégâts l'Enhancement perd au total, Blizzard ne le dit pas. Notre [guide du Shaman Enhancement](/fr/classes/shaman/enhancement/) suit les nouvelles valeurs.

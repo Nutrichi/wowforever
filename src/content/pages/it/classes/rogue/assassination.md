@@ -1,0 +1,176 @@
+---
+title: "Guida all’Assassination Rogue in WoW Forever"
+metaTitle: "WoW Forever Assassination Rogue: build con veleni, Venom e rotazione"
+description: "L’Assassination Rogue in WoW Forever: Venom e Shank, Mutilate dal livello 40, la build di leveling del Rogue, la rotazione e i veleni."
+short: "Assassination Rogue"
+updated: 2026-11-07
+lang: it
+manual: true
+faq:
+  - q: "L’Assassination Rogue è forte in WoW Forever?"
+    a: "Sì. Venom e Shank mettono i veleni al centro della spec, e Mutilate dà ai pugnali un generatore tutto loro dal livello 40. Ora i veleni possono fare critici e scalano con il potere d’attacco, quindi la spec cresce bene con equipaggiamento e livelli. La rotazione è intensa e serve un buon equipaggiamento per brillare."
+  - q: "Cosa fa Mutilate?"
+    a: "Mutilate è un nuovo talento nella settima riga: un attacco istantaneo con entrambe le armi per il 90% dei danni dell’arma più un bonus, il 20% più forte contro i bersagli avvelenati, che dà 2 punti combo. Richiede pugnali e 30 punti in Assassination, quindi lo ottieni al livello 40."
+  - q: "Cosa fa Venom?"
+    a: "Dal 2 novembre Venom è un talento passivo nella quinta riga: Shank aumenta i tuoi danni da veleno del 30% e la probabilità di applicare i veleni del 20% per 6 secondi. Shank è un colpo economico con la mano secondaria che ogni Rogue impara al livello 24."
+  - q: "Quali veleni uso?"
+    a: "Instant Poison e Deadly Poison nella maggior parte degli scontri. Instant Poison funziona meglio sulle armi lente, Deadly Poison su quelle veloci. Passa a Crippling, Mind-numbing o Wound Poison quando un nemico va rallentato, deve lanciare più lentamente o essere curato meno."
+  - q: "Mi serve Improved Expose Armor?"
+    a: "È opzionale ma molto forte in gruppo: Expose Armor costa meno energia e restituisce 2 punti combo se lo usi con 5. I gruppi con molti danni in mischia lo vorranno."
+  - q: "Qual è la razza migliore per un Assassination Rogue?"
+    a: "Human per l’Alleanza, per l’1% di probabilità di critico in più, che ora conta anche per i veleni. Orc per l’Orda, per il 10% di potere d’attacco in più con Blood Fury."
+  - q: "C'è una build per il livello 60?"
+    a: "Non ancora per raid e PvP: non è nota nessuna build per i nuovi alberi dei talenti. La build di leveling del Rogue dà il talento per ogni livello dal 10 al 35, il resto arriverà appena sarà noto."
+sources:
+  - name: "Wowhead, build dei talenti"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/talent-builds-pve-dps"
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/classes/rogue/assassination/"
+---
+> **Aggiornamento del 4 novembre:** le build e i talenti qui sotto seguono i nuovi alberi delle note di sviluppo del 2 novembre, di più nel [nostro articolo](/it/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
+
+L’Assassination Rogue di WoW Forever è l’avvelenatore. Venom rafforza i tuoi veleni dopo ogni Shank, Mutilate dà ai pugnali un generatore di punti combo tutto loro dal livello 40, e i veleni ora possono fare critici. Non servono trucchi di Stealth né semplici attacchi automatici per fare danni. Questa guida tratta due build di livello 60, la rotazione, l’energia, i veleni, la sopravvivenza, le stats e le razze.
+
+| | |
+|---|---|
+| Ruolo | Danni in mischia con pugnali e veleni |
+| Build al livello 60 | |
+| Talenti chiave | Malice, Ruthlessness, Improved Slice and Dice, Improved Poisons, Venom, Mutilate |
+| Punti forti | Danni molto alti che crescono a ogni livello, tanto controllo |
+| Punti deboli | Una rotazione intensa, ha bisogno di equipaggiamento |
+| Livellare | [Guida al leveling del Rogue](/it/classes/rogue/leveling/), [build di leveling del Rogue](/it/leveling/rogue/) |
+
+## Cosa cambia per Assassination
+
+- **Mutilate è nuovo.** Attacca con entrambi i pugnali per 2 punti combo, il 20% più forte contro i bersagli avvelenati. Dal 2 novembre è nella settima riga, quindi lo ottieni al livello 40.
+- **Venom è nuovo.** Un talento passivo nella quinta riga: ogni Shank dà per 6 secondi il 30% di danni da veleno in più e il 20% di probabilità in più di applicare i veleni. Shank stesso è nuovo per ogni Rogue al livello 24: un colpo economico con la mano secondaria che restituisce 15 di energia.
+- **I veleni fanno critici** e diventano più forti con il potere d’attacco. Ora Malice conta anche per i veleni.
+- **Improved Poisons fa di più.** Il 10% di probabilità in più di applicare i veleni e il 50% di probabilità di conservare la carica a 5/5.
+- **Improved Expose Armor è rifatto.** 10 di energia in meno, e 2 punti combo restituiti quando usi Expose Armor con 5.
+- **Remorseless Attacks** dà il 40% di probabilità di critico in più al prossimo Mutilate o Ambush dopo un’uccisione che dà esperienza.
+- **L’energia torna in modo continuo**, 10 al secondo, invece che a scatti.
+
+## Punti forti e deboli
+
+| Punti forti | Punti deboli |
+|---|---|
+| Danni molto alti che crescono a ogni livello | Una rotazione intensa con più mosse finali da mantenere |
+| I veleni ignorano l’armatura e ora fanno critici | I punti combo casuali di Ruthlessness e Relentless Strikes possono confondere |
+| Kick, Gouge, Sap, Cheap Shot, Kidney Shot e Blind | Ha bisogno di molto potere d’attacco prima di decollare davvero |
+| Veleni per ogni situazione, e la via più facile per Improved Expose Armor | Nessun danno ad area |
+
+## Build e talenti chiave
+
+### Build per il livello 60
+
+Una build da raid e PvP per i nuovi alberi dei talenti non è ancora nota. Questa sezione verrà aggiornata appena ce ne sarà una.
+
+#### Build per livellare
+
+La [build di leveling del Rogue](/it/leveling/rogue/) dà il talento per ogni livello dal 10 al 35. Il resto dell'ordine arriverà appena sarà noto.
+
+### Cosa fanno i talenti chiave
+
+| Talento | Cosa fa in Forever |
+|---|---|
+| **Malice** | Il 5% di critico in più per attacchi e veleni. Indispensabile |
+| **Remorseless Attacks** | Il 40% di critico in più per il prossimo Mutilate o Ambush dopo un’uccisione. Ottimo per farmare e per i gruppi nei dungeon |
+| **Ruthlessness** | Il 60% di probabilità di un punto combo dopo una mossa finale |
+| **Improved Slice and Dice** | Slice and Dice dura il 45% in più. La build non funziona senza |
+| **Relentless Strikes** | A 3/5: il 12% di probabilità per punto combo di recuperare 25 di energia dopo una mossa finale |
+| **Improved Expose Armor** | Expose Armor più economico e 2 punti combo restituiti con 5 punti. Opzionale, ma il gruppo ti ringrazierà |
+| **Lethality** | Il 20% di bonus ai danni critici in più per Sinister Strike, Backstab e Mutilate a 2/2, ancora meglio con Remorseless Attacks |
+| **Cold Blood** | Il 100% di critico per il prossimo Ambush o Mutilate |
+| **Improved Poisons** | Più applicazioni di veleno e meno cariche consumate |
+| **Venom** | Shank aumenta i tuoi danni da veleno del 30% e la probabilità di applicare i veleni del 20% per 6 secondi |
+| **Mutilate** | Il tuo generatore di punti combo con due pugnali dal livello 40, nella settima riga. Colpisce molto forte con l’equipaggiamento giusto |
+| **Opportunity** | A 2/5: l’8% di danni in più per Backstab, Ambush, Garrote e Mutilate |
+
+## Rotazione
+
+**Nemici normali**
+1. Apri da Stealth con Ambush.
+2. Sinister Strike per i punti combo, e Shank appena è pronto, per energia e Venom. Dal livello 40 subentra Mutilate, con Sinister Strike per l’ultimo punto con 4 punti combo.
+3. Slice and Dice, e rinnovalo ogni volta che scade.
+4. Eviscerate con 5 punti combo, o con quelli che hai quando il bersaglio è quasi morto.
+5. Kick su ogni lancio, Evasion quando i colpi li prendi tu, Vanish quando devi fuggire.
+
+**Boss**
+1. Apri da Stealth con Ambush.
+2. Sinister Strike, o Mutilate dal livello 40, come generatore, e Shank appena è pronto.
+3. Expose Armor il prima possibile.
+4. Poi Slice and Dice il prima possibile.
+5. Rinnova Expose Armor e Slice and Dice prima che scadano. Expose Armor per primo, perché dura meno.
+6. I punti combo in più vanno su Eviscerate, o su Kidney Shot se il boss si può stordire.
+7. Vanish e Ambush per il burst, Kick su ogni lancio, Feint quando la minaccia sale troppo.
+
+**Gruppi di nemici.** Il Rogue non ha attacchi ad area. Uccidi un bersaglio alla volta e non cambiare mai bersaglio mentre accumuli punti combo: restano sul bersaglio precedente.
+
+Venom funziona tramite Shank, quindi usa Shank appena è pronto in ogni scontro.
+
+## Tempi di recupero e utilità
+
+- **Cheap Shot** stordisce da Stealth. Forte per bloccare i bersagli pericolosi.
+- **Kidney Shot** stordisce più a lungo con più punti combo.
+- **Sap** inabilita un bersaglio da Stealth a lungo. Usalo per isolare un nemico da un gruppo.
+- **Kick** interrompe quasi ogni lancio del gioco.
+- **Expose Armor** riduce l’armatura del bersaglio per te e il tuo gruppo.
+- **Cold Blood** per un critico sicuro con Ambush o Mutilate.
+- **Gouge** inabilita e ferma l’attacco automatico, per guadagnare tempo per l’energia o i tempi di recupero.
+- **Blind** più avanti, per togliere dallo scontro un nemico pericoloso.
+- **Crippling Poison** rallenta, **Mind-numbing Poison** allunga i lanci e **Wound Poison** riduce le cure.
+
+## Stealth, punti combo e mosse finali
+
+**Stealth** ti rende lento, quindi non viaggi così, ma usalo contro la maggior parte dei nemici durante le missioni e il più possibile nei dungeon. In Stealth hai una barra d’azione separata con le aperture: Ambush per grossi danni, Garrote per un sanguinamento, Sap e Cheap Shot per inabilitare. Anche Pick Pocket e Distract funzionano solo in Stealth.
+
+**Generatori e mosse finali.** Inizi con Sinister Strike e passi a Mutilate al livello 40. Sinister Strike resta allora solo per l’ultimo punto con 4 punti combo. Eviscerate è la tua prima mossa finale; più avanti la usi soprattutto per finire i bersagli. Slice and Dice è la tua mossa finale più forte e deve essere attiva in quasi ogni scontro. Expose Armor si aggiunge contro i boss. Rupture non vale l’energia e il tempo per Assassination.
+
+## Energia e veleni
+
+### Energia
+
+Ogni abilità del Rogue costa energia. In Forever torna in modo continuo: 1 ogni 0,1 secondi, 10 al secondo. Assassination non può accelerarla, ma Vigor alza l’energia massima. <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7676"><img class="wf-wh__icon" src="/wh/inv_drink_milk_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thistle Tea</a> restituisce un grosso blocco di energia con un tempo di recupero lungo. Shank, dal livello 24, costa 5 di energia e ne restituisce 15 ogni 10 secondi.
+
+Quindi spendi con cura. Con 5 punti combo non usare mai un altro generatore. Con 4 punti, Mutilate spreca un punto. Kick, Feint, Gouge e Blind costano energia anche loro, quindi usali solo con un buon motivo.
+
+### Veleni
+
+Dal livello 20 un Rogue crea veleni dopo una catena di missioni di classe; la [guida al leveling del Rogue](/it/classes/rogue/leveling/) ha i passaggi. Instant Poison infligge danni subito, Deadly Poison accumula danni nel tempo. Usa questi due nella maggior parte degli scontri: Instant Poison sulle armi lente, Deadly Poison su quelle veloci. Crippling, Mind-numbing e Wound Poison servono per i nemici da rallentare, da far lanciare più lentamente o da curare meno.
+
+## Sopravvivenza
+
+Il Rogue è fragile ma colpisce forte, quindi il modo in cui inizi uno scontro decide se lo sopravvivi. Nemici facili: Ambush, qualche Sinister Strike o Mutilate ed Eviscerate. Nemici pericolosi: togline uno dal gruppo con Sap, prima gli incantatori, apri con Cheap Shot, prosegui con Kidney Shot, poi Gouge per aspettare l’energia o Blind per aspettare i tempi di recupero. Poi la rotazione normale con Evasion, e Kick su ogni incantatore. Se neanche una pozione di cura basta, Vanish ti toglie dallo scontro e ti rimette in Stealth.
+
+## Equipaggiamento, razze e professioni
+
+### Stats ed equipaggiamento
+
+L’ordine esatto al livello 60 arriverà quando potremo provare il livello 60 nel gioco live. Queste stats aiutano un Assassination Rogue:
+
+- **Agilità.** La tua stat principale: 1 di potere d’attacco per punto, l’1% di critico ogni 29 punti e l’1% di schivata ogni 14,5 punti. Accumulane il più possibile.
+- **Potere d’attacco.** Più danni dell’arma e delle abilità, e in Forever anche più danni da veleno.
+- **Probabilità di critico.** I critici infliggono il 100% di danni in più, e ora anche i veleni possono farli.
+- **Forza.** 1 di potere d’attacco per punto e nient’altro.
+- **Tempra.** C’è su quasi tutti i pezzi. Prendine un po’ di più per giocare da solo contro nemici pericolosi.
+- **Spirito.** Rigenerazione della salute fuori dal combattimento. Non serve in combattimento, ma alcuni giocatori creano un set di Spirito per riposare meno tra un pull e l’altro.
+
+**Armatura.** Cuoio con le stats qui sopra. I set lungo la strada, come il Defias Leather e l’Embrace of the Viper, aiutano molto, e i set più alti aggiungono bonus più forti.
+
+**Armi.** Le armi sono diventate molto più forti in Forever. Usi i pugnali, e ce ne sono di buoni fin dai livelli bassi: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6220"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Meteor Shard</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9453"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Toxic Revenger</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1935"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_24.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Assassin's Blade</a> e <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7682"><img class="wf-wh__icon" src="/wh/inv_spear_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Torturing Poker</a>.
+
+### Razze e professioni
+
+| Fazione | Razza | Perché |
+|---|---|---|
+| Alleanza | Human | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20597"><img class="wf-wh__icon" src="/wh/ability_rogue_eviscerate.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ruthless</a>: l’1% di critico in più, che ora conta anche per i veleni |
+| Alleanza | Night Elf | Elune's Light: il 10% di critico in più per 15 secondi, più Quickness, Shadowmeld e uno Stealth migliore. La seconda migliore |
+| Alleanza | Gnome | Eureka per il burst, Expansive Mind con Vigor ed Engineering Specialization per gli ingegneri |
+| Alleanza | High Order Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: il 2% di celerità, che si sovrappone a Slice and Dice. Discreta, non la migliore |
+| Alleanza | Dwarf | Stoneform è un buon tempo di recupero difensivo, ma il resto è debole in PvE |
+| Orda | Orc | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20572"><img class="wf-wh__icon" src="/wh/racial_orc_berserkerstrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Fury</a>: il 10% di potere d’attacco in più, più il 5% di danni magici subiti in meno. La scelta migliore |
+| Orda | Troll | Berserking per il 10% di celerità e Rapid Regeneration come la cura che altrimenti ti manca. La seconda migliore |
+| Orda | Windshaper Skyborne | Il 2% di celerità, e Skysight per vedere meccaniche come il fuoco a terra |
+| Orda | Undead | Touch of the Grave è l’unico razziale da danni, e Cannibalize riduce i tempi morti. Meglio in PvP |
+
+**Professioni.** Leatherworking crea prezioso equipaggiamento di cuoio a ogni livello, la nuova tenda da campo e kit per armature. Skinning va in coppia e rende oro ai livelli alti. Engineering aggiunge congegni ed esplosivi per più danni. Herbalism e Alchemy danno elisir, pozioni e fiale, e possono rendere bene.

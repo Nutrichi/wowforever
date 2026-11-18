@@ -21,7 +21,7 @@ La modifica è arrivata con la manutenzione settimanale, il resto degli hotfix d
 
 > This change results in no difference for Priest solo play.
 
-Anche Dark Inspiration non si accumula più quando un gruppo ha più di uno Shadow Priest. La [guida dello Shadow Priest](/it/guides/shadow-priest/) ha i nuovi numeri.
+Anche Dark Inspiration non si accumula più quando un gruppo ha più di uno Shadow Priest. La [guida dello Shadow Priest](/it/classes/priest/shadow/) ha i nuovi numeri.
 
 ## Windfury Totem e Warrior
 

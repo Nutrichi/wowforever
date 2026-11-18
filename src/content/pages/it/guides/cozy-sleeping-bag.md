@@ -23,6 +23,8 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
+> **Aggiornamento del 18 novembre:** dagli hotfix del 17 novembre il sacco a pelo non funziona più in sella, si piazza solo in certi punti, come le trappole dei cacciatori, e dà un'aura Resting finché sei nella sua area.
+
 Il [Cozy Sleeping Bag](https://www.wowhead.com/forever/item=211527/cozy-sleeping-bag) è un oggetto che ti permette di sdraiarti ovunque e raccogliere esperienza bonus mentre riposi. È comparso in Season of Discovery ed è tornato in WoW Forever, alla fine di una catena di missioni che attraversa mezza Azeroth. L’hanno trovato i giocatori sulla beta; Blizzard non l’ha annunciato.
 
 Serve il livello 14 per cominciare.

@@ -35,7 +35,7 @@ Travel between the capitals is easier in WoW Forever than in Classic. A new boat
 | Orgrimmar | Undercity | Zeppelin from the tower outside Orgrimmar |
 | Orgrimmar | Thunder Bluff | On foot through The Barrens, later a direct flight |
 
-All routes also work the other way round. Every flight point and boat is in the [flight path guide](/guides/flight-paths/), and a Mage can do it faster with [portals](/guides/mage-portals/).
+All routes also work the other way round. Every flight point and boat is in the [flight path guide](/guides/flight-paths/), and a Mage can do it faster with [portals](/classes/mage/portals/).
 
 ## Stormwind to Ironforge
 

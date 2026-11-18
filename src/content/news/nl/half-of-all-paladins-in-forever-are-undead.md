@@ -27,4 +27,4 @@ De cijfers tellen personages vanaf level 10. Het gemiddelde personage is level 2
 
 Achternamen zijn nieuw in Forever, en spelers hebben er plezier mee. De populairste, met ruime voorsprong, is gewoon Forever.
 
-Speel je Paladin? Onze [Paladin-levelgids](/nl/guides/paladin-leveling/) brengt je van 1 naar 60.
+Speel je Paladin? Onze [Paladin-levelgids](/nl/classes/paladin/leveling/) brengt je van 1 naar 60.

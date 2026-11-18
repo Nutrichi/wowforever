@@ -38,6 +38,8 @@ Experience in WoW Forever works much like Classic, with the same amount needed p
 
 ## How experience works
 
+### How experience works
+
 You earn experience from quests, kills, exploration and dungeons. With enough of it you reach the next level, up to the cap of 60. There you stop gaining experience.
 
 The experience bar at the bottom of the screen shows how far you are. Hover over it to see your current experience and how much you still need. Every gain also appears in the chat.
@@ -46,7 +48,7 @@ The experience bar at the bottom of the screen shows how far you are. Hover over
 
 <img src="/guides/experience/experience-gained.png" alt="The chat line Experience gained: 575, a screenshot from the beta of World of Warcraft: Forever" width="204" height="22" loading="lazy">
 
-## Experience per level
+### Experience per level
 
 Every level asks for more experience than the one before. In total you need 4,084,700 to reach level 60. In September a story claimed that Forever needs far less, but Blizzard [denied that](/news/wowhead-retracts-experience-curve-story/): the amounts are exactly those of Classic.
 
@@ -113,7 +115,9 @@ Every level asks for more experience than the one before. In total you need 4,08
 | 59 | 209,800 | 3,874,900 |
 | 60 | - | 4,084,700 |
 
-## Quests
+## Quests and kills
+
+### Quests
 
 A quest gives experience based on its level, its type and how hard its objectives are. The quest log shows the amount before you accept. Quests with slow or tough objectives usually pay more than others of the same level.
 
@@ -139,7 +143,7 @@ For quests more than 5 levels below you, the experience drops by 10 to 20% for e
 
 **Repeatable quests** have a blue marker instead of a yellow one. Most give no experience, so do them only for the other rewards.
 
-## Kills
+### Kills
 
 Monsters give experience based on their level compared to yours and on their type. Monsters close to your level give the best balance between speed and experience. Much lower ones give little, much higher ones take too long.
 
@@ -151,15 +155,17 @@ Nameplates use the same colors as the quest log. Gray monsters give no experienc
 
 <img src="/guides/experience/elite-stitches.png" alt="The portrait of Stitches with the golden dragon of an elite, a screenshot from the beta of World of Warcraft: Forever" width="238" height="94" loading="lazy">
 
-### Tagging and kill credit
+#### Tagging and kill credit
 
 Only the first player or group to hit a monster, with damage or a debuff, gets the experience. A monster tagged by someone else gets a gray nameplate. In a group, every member who is alive and nearby gets credit, so you do not each need to hit every monster.
 
-### AoE grinding
+#### AoE grinding
 
 Pulling a pack and burning it down with area spells can be fast in the right spot. Blizzard made it less effective in Forever, especially for Mages, who were known for it in Classic. It still works to some degree with the right spells, gear or help. You need a way to survive the pack or keep it away with roots, slows and stuns, plenty of monsters and few players competing for them.
 
-## Dungeons
+## Dungeons, exploration and groups
+
+### Dungeons
 
 Dungeon experience changed several times on the beta. In September Blizzard [moved experience from kills to quests](/news/wow-forever-dungeon-experience-changes/): monsters gave little, the dungeon quests a lot. On 1 October the extra experience from dungeon quests was [cut by 50%](/news/dungeon-quests-give-50-percent-less-bonus-experience/). A week later dungeon monsters got [20% more experience](/news/dungeon-kills-give-20-percent-more-experience/), and a bug that based every kill on the highest level in the group was fixed. After the launch, a hotfix on 8 November [raised kill experience in dungeons by 50%](/news/dungeon-enemies-give-50-percent-more-experience/), to 60% of the values in Classic Era. Blizzard says it is happy with that pace. Since 13 November a monster that is trivial for even one member of the group gives nobody experience, [more in our post](/news/a-grey-mob-for-one-player-gives-the-group-no-xp/).
 
@@ -175,17 +181,19 @@ A much higher player in the group costs a lot of experience. A level 60 clearing
 
 </div>
 
-## Exploration
+### Exploration
 
 Entering a new area for the first time gives a little experience and reveals it on your map. The amount is small, so it is not worth a detour, but it adds up while you travel for quests.
 
 <img src="/guides/experience/discovered.png" alt="The message Discovered: Vul'Gol Ogre Mound, a screenshot from the beta of World of Warcraft: Forever" width="360" height="40" loading="lazy">
 
-## Groups
+### Groups
 
 In a group, the experience per kill depends on the size of the group and the levels of its members. A bigger group means less per player, and a much higher member cuts it sharply. In return you kill faster and finish quests more easily. Quest rewards do not change in a group, but quest objectives do not count in a raid group.
 
-## Rested experience
+## Rested experience and camps
+
+### Rested experience
 
 Rested XP doubles the experience from kills until it runs out. Quests and exploration do not get the bonus.
 
@@ -202,7 +210,7 @@ You build it up in an inn, a capital city or in the Cozy Sleeping Bag. Your port
 
 **Well Rested** raises the speed and the cap by the same percentage. Filling up still takes about 10 days, but the pool holds up to a fifth more. **Talented**, the next Legacy talent, gives your first talent point up to five levels earlier. Both are in the [Legacy calculator](/talents/legacy/).
 
-## Camps, food and the sleeping bag
+### Camps, food and the sleeping bag
 
 Forever adds three bonuses that stack with each other and with rested XP.
 

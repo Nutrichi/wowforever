@@ -12,11 +12,13 @@ tags: ["forever", "classes", "paladin"]
 featured: false
 draft: false
 ---
+> **Update 18 November:** Blizzard confirms the change in its [hotfixes of 17 November](/news/upper-blackrock-spire-gets-harder-after-a-bug-fix/), and it is meant for tanks, not healers: Soulforge is the upgraded dungeon set for tanks, and Blizzard wants Paladin tanks to deal their damage with Spell Power.
+
 The Soulforge set for Paladins in World of Warcraft: Forever turns into a set for healers. A hotfix takes Strength off every piece and adds Intellect and Spell Power instead. Five other items change too, among them three Darkmoon cards.
 
 ## The Soulforge pieces
 
-Soulforge Armor is the dungeon set for Paladins. With Strength, Stamina and Defense it used to suit a tank more than a healer. Now every piece has more Intellect and Spell Power, which makes it a set for the [Holy Paladin](/guides/holy-paladin/).
+Soulforge Armor is the dungeon set for Paladins. With Strength, Stamina and Defense it used to suit a tank more than a healer. Now every piece has more Intellect and Spell Power, which makes it a set for the [Holy Paladin](/classes/paladin/holy/).
 
 | Piece | Intellect | Spell Power |
 |---|---|---|

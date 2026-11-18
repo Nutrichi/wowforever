@@ -45,7 +45,7 @@ La Alliance va a la Mage Tower del Mage Quarter de Stormwind, la Horde al Magic 
 
 Hasta el 13 de noviembre, un fallo hacía que los dos bibliotecarios rechazaran todos los libros. Una corrección lo arregló, así que ya puedes volver a entregarlos.
 
-Los Mages reciben algo extra: el primer libro les da el hechizo Study, que crea pergaminos en una biblioteca. Mira la [guía de pergaminos del Mage](/es/guides/mage-scrolls/).
+Los Mages reciben algo extra: el primer libro les da el hechizo Study, que crea pergaminos en una biblioteca. Mira la [guía de pergaminos del Mage](/es/classes/mage/scrolls/).
 
 ![El bibliotecario Garion Wendell en Stormwind con la ventana para entregar un libro, una captura de pantalla de la beta de World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 

@@ -17,19 +17,29 @@ import { getPages, type SitePage } from './pages';
 import { API_SCHEMA, forApp } from './api-feed';
 import type { Locale } from '../i18n/ui';
 import { social } from '../config/site';
+import classGuides from '../config/class-guides.json';
+
+/** classes/druid/balance -> balance-druid: the id the app knew before the move (18 November 2026). */
+const oldIdOf = new Map(Object.entries(classGuides as Record<string, string>).map(([old, key]) => [key, old]));
 
 /** Verhoog dit alleen samen met een nieuwe vorm; de app controleert het. */
 export const GUIDES_SCHEMA = 1;
 
 /** Alles onder guides/, behalve de map zelf. */
 export async function getGuides(locale: Locale): Promise<SitePage[]> {
-  return (await getPages(locale)).filter((page) => page.key.startsWith('guides/'));
+  // Since 18 November 2026 the class guides live under classes/<class>/; the app keeps getting them.
+  // Placeholder pages ("Coming soon", noindex) stay out of the app.
+  return (await getPages(locale)).filter((page) => !(page.entry.data as { noindex?: boolean }).noindex
+    && (page.key.startsWith('guides/') || /^classes\/[\w-]+\/[\w-]+$/.test(page.key)));
 }
 
 /** `guides/dungeons/the-deadmines` wordt `dungeons/the-deadmines`. */
 export function guidePath(page: SitePage): string {
+  const old = oldIdOf.get(page.key);
+  if (old) return old;
   return page.key.slice('guides/'.length);
 }
+
 
 /** De rubriek in de app: dungeons, leveling, pets, mounts of de rest. */
 function sectionOf(path: string): 'dungeons' | 'leveling' | 'pets' | 'mounts' | 'general' {

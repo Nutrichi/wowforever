@@ -23,4 +23,4 @@ Druids krijgen Cat Form op level 20 via een classquest die nieuw is in Forever. 
 
 De quest leert je ook Claw, Prowl en Rip. Skyborne-druids volgen dezelfde reeks als The Great Windborne Cat Spirit, met de Avatar of Saeyleenan in plaats van de Great Cat Spirit.
 
-Zat je vast, ga dan terug naar de barrow den en probeer opnieuw. Al de rest over een druid levelen, van de builds tot de forms, staat in [onze Druid-levelgids](/nl/guides/druid-leveling/).
+Zat je vast, ga dan terug naar de barrow den en probeer opnieuw. Al de rest over een druid levelen, van de builds tot de forms, staat in [onze Druid-levelgids](/nl/classes/druid/leveling/).

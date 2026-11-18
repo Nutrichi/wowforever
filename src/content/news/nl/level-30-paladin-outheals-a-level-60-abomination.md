@@ -33,4 +33,4 @@ Hij heelt zichzelf door alles heen wat hem niet onderbreekt. Zo versloeg hij een
   </button>
 </figure>
 
-Hoe een Holy Paladin op level 60 speelt, staat in de [gids over Holy Paladin](/nl/guides/holy-paladin/).
+Hoe een Holy Paladin op level 60 speelt, staat in de [gids over Holy Paladin](/nl/classes/paladin/holy/).

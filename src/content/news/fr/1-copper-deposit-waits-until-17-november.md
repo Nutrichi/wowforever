@@ -13,6 +13,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 18 novembre :** depuis la réinitialisation hebdomadaire du 17 novembre, le dépôt minimum est de nouveau de 1 cuivre. Il suit maintenant le prix de vente au marchand : 5 % pour 2 heures, 20 % pour 8 heures et 60 % pour 24 heures.
+
 Vendre des objets bon marché à l'Auction House de World of Warcraft: Forever reste cher encore quelques jours. Le dépôt minimum d'1 cuivre n'est pas encore en ligne. Il arrive avec la maintenance hebdomadaire du 17 novembre, dit Blizzard.
 
 ## Ce qui s'est passé

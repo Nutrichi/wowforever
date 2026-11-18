@@ -17,19 +17,19 @@ Hay siete guías de clase nuevas: Retribution y Holy Paladin, Beast Mastery y Ma
 
 ## Paladin
 
-La [guía del Retribution Paladin](/es/guides/retribution-paladin/) cubre la build de nivel 30 con Seal of Command, Conviction y Vengeance, la rotación con Judgement y Holy Strike, y Twist of Light, el nuevo último talento que te deja llevar dos sellos a la vez. La [guía del Holy Paladin](/es/guides/holy-paladin/) explica Holy Shock, Illumination para el maná y Light's Vigil, la única cura en área de la especialización.
+La [guía del Retribution Paladin](/es/classes/paladin/retribution/) cubre la build de nivel 30 con Seal of Command, Conviction y Vengeance, la rotación con Judgement y Holy Strike, y Twist of Light, el nuevo último talento que te deja llevar dos sellos a la vez. La [guía del Holy Paladin](/es/classes/paladin/holy/) explica Holy Shock, Illumination para el maná y Light's Vigil, la única cura en área de la especialización.
 
 ## Hunter
 
-Las dos guías del Hunter tienen una build completa de nivel 60, comprobada punto por punto con los árboles de talentos de los archivos del juego. El [Beast Mastery Hunter](/es/guides/beast-mastery-hunter/) juega 31/20/0 con Summon Hawk, un talento nuevo que mantiene dos halcones sobre tu objetivo. El [Marksmanship Hunter](/es/guides/marksmanship-hunter/) juega 5/46/0 con Lone Wolf, un 20% más de daño sin mascota, y Sniper Shot al final del árbol.
+Las dos guías del Hunter tienen una build completa de nivel 60, comprobada punto por punto con los árboles de talentos de los archivos del juego. El [Beast Mastery Hunter](/es/classes/hunter/beast-mastery/) juega 31/20/0 con Summon Hawk, un talento nuevo que mantiene dos halcones sobre tu objetivo. El [Marksmanship Hunter](/es/classes/hunter/marksmanship/) juega 5/46/0 con Lone Wolf, un 20% más de daño sin mascota, y Sniper Shot al final del árbol.
 
 ## Rogue
 
-La [guía del Subtlety Rogue](/es/guides/subtlety-rogue/) tiene dos estilos de juego: Ambush con Cutthroat, que te deja usar Ambush en combate, y sangrados con Hemorrhage y Thousand Cuts. La [guía del Combat Rogue](/es/guides/combat-rogue/) explica Hack and Slash, el único talento que sustituye a todas las antiguas especializaciones de arma, con una build estándar y otra de dagas para el nivel 60. Junto al [Assassination Rogue](/es/guides/assassination-rogue/), cada especialización de Rogue tiene ya su guía.
+La [guía del Subtlety Rogue](/es/classes/rogue/subtlety/) tiene dos estilos de juego: Ambush con Cutthroat, que te deja usar Ambush en combate, y sangrados con Hemorrhage y Thousand Cuts. La [guía del Combat Rogue](/es/classes/rogue/combat/) explica Hack and Slash, el único talento que sustituye a todas las antiguas especializaciones de arma, con una build estándar y otra de dagas para el nivel 60. Junto al [Assassination Rogue](/es/classes/rogue/assassination/), cada especialización de Rogue tiene ya su guía.
 
 ## Leveling del Shaman
 
-La [guía de leveling del Shaman](/es/guides/shaman-leveling/) tiene builds de nivel 30 para Enhancement, Elemental y Restoration, cada nivel clave comprobado con los últimos datos de la beta, las misiones de tótems, las tres armas de Call of Air y los tótems que merecen la pena.
+La [guía de leveling del Shaman](/es/classes/shaman/leveling/) tiene builds de nivel 30 para Enhancement, Elemental y Restoration, cada nivel clave comprobado con los últimos datos de la beta, las misiones de tótems, las tres armas de Call of Air y los tótems que merecen la pena.
 
 ## Misiones de la City of Dalaran
 

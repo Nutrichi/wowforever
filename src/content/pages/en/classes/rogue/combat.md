@@ -1,0 +1,182 @@
+---
+title: "Combat Rogue guide for WoW Forever"
+metaTitle: "WoW Forever Combat Rogue: Hack and Slash builds to level 60"
+description: "The Combat Rogue in WoW Forever: Hack and Slash for every weapon type, two level 60 builds (standard and daggers), Blade Flurry, Adrenaline Rush, Energy, poisons and races."
+short: "Combat Rogue"
+updated: 2026-11-07
+lang: en
+faq:
+  - q: "Is Combat Rogue good in WoW Forever?"
+    a: "Yes. Combat was the most popular PvE Rogue spec in Classic, and Forever makes it stronger. Hack and Slash replaces the old weapon specializations, so every weapon type works without a respec, and poisons can now land critical strikes and scale with attack power."
+  - q: "What does Hack and Slash do?"
+    a: "It replaces all the old weapon specialization talents. With swords and axes your attacks get a 5% chance for an extra swing, with daggers and fist weapons more critical strike chance, and with maces 15% armor penetration."
+  - q: "Does a Combat Rogue have area damage?"
+    a: "Only Blade Flurry: 20% more attack speed and every attack also hits one nearby enemy, for 15 seconds. It is the only cleave a Rogue has."
+  - q: "Do Combat Rogues use Rupture?"
+    a: "No. Keep Slice and Dice up, add Expose Armor in long fights and spend the rest on Eviscerate."
+  - q: "Which weapons should a Combat Rogue use?"
+    a: "Any type, thanks to Hack and Slash. Pick the best weapons you can find. The dagger build plays with Backstab instead of Sinister Strike and needs a dagger in the main hand."
+  - q: "Which race is best for a Combat Rogue?"
+    a: "Human for the Alliance, for 1% critical strike chance, and Orc for the Horde, for 10% attack power from Blood Fury. Night Elf and Troll are the second choices."
+sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/talent-builds-pve-dps"
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/classes/rogue/combat/"
+---
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/rogues-get-shank-and-death-mark-in-a-big-rework/).
+
+The Combat Rogue in WoW Forever deals huge damage with auto attacks and has a strong burst with Blade Flurry and Adrenaline Rush. Forever folds all old weapon specializations into one talent, Hack and Slash, so every weapon type now works. Poisons can land critical strikes and scale with attack power, and Combat is the only Rogue spec that can cleave. This guide covers a level 60 build, two level 60 builds, the rotation, Energy, poisons, stats and races.
+
+| | |
+|---|---|
+| Role | Melee damage with two weapons |
+| Builds | Level 60 standard (18/33/0) and level 60 daggers (16/33/2) |
+| Key talents | Malice, Improved Slice and Dice, Precision, Dual Wield Specialization, Hack and Slash, Blade Flurry, Aggression, Adrenaline Rush |
+| Strength | Very high damage, strong burst, the only Rogue cleave, every weapon type |
+| Weakness | Depends heavily on gear, especially weapons |
+| Leveling | [Rogue leveling guide](/classes/rogue/leveling/), [Rogue level build](/leveling/rogue/) |
+
+## Strengths and weaknesses
+
+**Damage.** Very high auto attack damage and a strong burst while Blade Flurry and Adrenaline Rush are up.
+
+**Every weapon.** Hack and Slash works with swords, axes, daggers, fist weapons and maces, so you never need to respec for a new weapon.
+
+**Cleave.** Blade Flurry is the only way a Rogue hits two monsters at once.
+
+**Crowd control.** Kick, Gouge, Sap, Cheap Shot, Kidney Shot and Blind, plus poisons that slow, lengthen casts or lower healing.
+
+**Gear.** Combat depends on gear more than anything, and on weapons most of all, because so much damage comes from auto attacks.
+
+## Builds for level 60
+
+Two builds, each with the 51 talent points of level 60: one for raids and dungeons and one for leveling. Every build opens in our talent calculator.
+
+### Raid build, 18/33/0
+
+18 points in Assassination and 33 in Combat. [Open the raid build in the talent calculator](/talents/rogue/?t=015323202-3200332210012321521).
+
+With daggers instead of swords or maces, the dagger build fits better: [open the dagger build](/talents/rogue/?t=005323102-3023032200012321531-002).
+
+| Talent | Points |
+|---|---|
+| **Remorseless Attacks** | 1/2 |
+| **Malice** | 5/5 |
+| **Ruthlessness** | 3/3 |
+| **Improved Expose Armor** | 2/2 |
+| **Improved Slice and Dice** | 3/3 |
+| **Vigor** | 2/2 |
+| **Lethality** | 2/2 |
+| **Coup de Grace** | 3/3 |
+| **Efficient Strikes** | 2/2 |
+| **Deflection** | 3/3 |
+| **Precision** | 3/3 |
+| **Improved Sprint** | 2/2 |
+| **Endurance** | 2/2 |
+| **Riposte** | 1/1 |
+| **Flawless Execution** | 1/1 |
+| **Weapon Expertise** | 2/2 |
+| **Aggression** | 3/3 |
+| **Dual Wield Specialization** | 2/2 |
+| **Blade Flurry** | 1/1 |
+| **Hack and Slash** | 5/5 |
+| **Flash of Steel** | 2/5 |
+| **Adrenaline Rush** | 1/1 |
+
+### Leveling build
+
+The [Rogue level build](/leveling/rogue/) gives the talent for every level from 10 to 35. The rest of the order follows once it is known.
+
+A PvP build for the new talent trees is not known yet. This section gets updated as soon as there is one.
+
+## What the key talents do
+
+| Talent | What it does in Forever |
+|---|---|
+| **Malice** | 5% more critical strike chance with attacks and poisons |
+| **Ruthlessness** | Finishing moves have a 60% chance to add a Combo Point |
+| **Improved Slice and Dice** | Slice and Dice lasts 45% longer |
+| **Vigor** | 10 more maximum Energy |
+| **Lethality** | More critical strike damage for Sinister Strike, Gouge, Backstab and other generators |
+| **Improved Expose Armor** | Expose Armor costs 10 Energy less and gives 2 Combo Points back at 5 |
+| **Coup de Grace** | Eviscerate deals 20% more damage |
+| **Precision** | 3% more chance to hit |
+| **Riposte** | After a parry: 150% weapon damage and a 6 second disarm |
+| **Flawless Execution** | Eviscerate costs 15 Energy less |
+| **Efficient Strikes** | Sinister Strike and Hemorrhage cost 5 Energy less |
+| **Dual Wield Specialization** | Your off-hand weapon deals 50% more damage at 2/2 |
+| **Hack and Slash** | Swords and axes: 5% chance for an extra swing. Daggers and fist weapons: more critical strike chance. Maces: 15% armor penetration |
+| **Blade Flurry** | 20% more attack speed, and your attacks also hit a nearby enemy, for 15 seconds |
+| **Weapon Expertise** | Your attacks are dodged and parried 2% less often |
+| **Aggression** | Sinister Strike and Eviscerate deal 15% more damage |
+| **Flash of Steel** | Shank gives up to 15 more Energy and its cooldown drops by up to 2 seconds |
+| **Adrenaline Rush** | Energy regenerates 100% faster for 15 seconds |
+
+## Rotation
+
+### Single target
+
+1. Go into Stealth.
+2. Open with Ambush in the dagger build, or with Garrote or Cheap Shot with any other weapon.
+3. Use Sinister Strike as your generator, or Backstab in the dagger build.
+4. Use Blade Flurry on cooldown.
+5. Use Adrenaline Rush for burst, together with Blade Flurry where you can.
+6. At 5 Combo Points, cast Slice and Dice and renew it when it runs out.
+7. In long fights, cast Expose Armor at the next 5 Combo Points.
+8. Spend the rest on Eviscerate until Slice and Dice or Expose Armor needs renewing.
+
+### Several monsters
+
+Blade Flurry is your only area damage: play your normal rotation while it is up and every attack hits a second monster. Never switch targets while you build Combo Points, or you lose them.
+
+## Stealth, Combo Points and finishing moves
+
+Stealth slows you, up to 50% at low levels and 30% at level 60, so you use it against dangerous monsters rather than to travel. In Stealth you get openers: Ambush for a big hit, Garrote for a bleed, Sap and Cheap Shot to disable.
+
+Sinister Strike stays your generator all the way to level 60, unless you play daggers. Slice and Dice comes first, it is your biggest damage boost. Eviscerate is the finishing move you use most, and Expose Armor joins in long fights. Combat does not use Rupture.
+
+## Energy
+
+Energy now regenerates smoothly, 10 points per second. Adrenaline Rush doubles that to 20 per second for 15 seconds, and Thistle Tea gives a large amount back. Shank, from level 24, costs 5 Energy and gives 15 back every 10 seconds, so use it on cooldown. Never use a generator at 5 Combo Points, do not finish with too few Combo Points, and do not spend Energy on Kick, Feint, Gouge or Blind without a reason.
+
+## Poisons
+
+From level 20, a quest chain teaches you to make poisons. Use Instant Poison and Deadly Poison in most fights: Instant Poison on slow weapons, Deadly Poison on fast ones. Switch to Crippling, Mind-numbing or Wound Poison when a monster must be slowed, cast slower or healed less.
+
+## Survival
+
+Sap one monster out of a group, preferably a caster. Open with Cheap Shot, follow with Kidney Shot, and stretch it with Gouge or Blind when you need Energy or cooldowns. Use Evasion when you must take hits, Kick every caster, and Vanish when nothing else works. Riposte in the standard build disarms a monster after a parry.
+
+## Gear, races and professions
+
+### Stats and gear
+
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
+
+- **Agility**: 1 attack power per point, 1% critical strike chance per 29 Agility, 1% dodge per 14.5 Agility.
+- **Attack power**, which now also raises the damage of your poisons.
+- **Critical strike chance**, also for poisons.
+- **Strength**: 1 attack power per point.
+- **Stamina** for health, found on most gear.
+- **Spirit** only for regeneration between fights.
+
+**Armor.** Leather with the stats above. Sets such as Defias Leather and Embrace of the Viper are good while you level.
+
+**Weapons.** Weapons are much stronger now at every level, and thanks to Hack and Slash every type works. They matter more for Combat than for any other Rogue spec.
+
+### Races and professions
+
+| Faction | Race | Why |
+|---|---|---|
+| Alliance | Human | 1% critical strike chance from Ruthless |
+| Alliance | Night Elf | Elune's Light, 10% critical strike chance for 15 seconds; Shadowmeld and better Stealth |
+| Alliance | Gnome | Eureka! for burst, Engineering Specialization with Engineering |
+| Alliance | Dwarf | Stoneform removes bleeds, poisons and diseases; Artisan's Precision gives 1% hit |
+| Alliance | Skyborne | 2% haste from Wind Blessed |
+| Horde | Orc | 10% attack power from Blood Fury, the best choice |
+| Horde | Troll | 10% haste from Berserking and a survival tool |
+| Horde | Undead | Better for PvP; Cannibalize saves time in the open world |
+| Horde | Skyborne | 2% haste from Wind Blessed |
+
+**Leatherworking** with Skinning is the best pair: strong leather gear at every level, armor kits, and the Camp Tent from camping that speeds up leveling. **Engineering** brings gadgets and explosives for more damage. **Herbalism** with **Alchemy** gives you elixirs, potions and flasks. For a poison build, see the [Assassination Rogue guide](/classes/rogue/assassination/), and for Ambush and bleeds the [Subtlety Rogue guide](/classes/rogue/subtlety/).

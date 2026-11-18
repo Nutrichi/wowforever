@@ -1,0 +1,71 @@
+---
+/*
+ * A Forever BiS page for a spec without a list yet: the address already exists, so every
+ * Guide and BiS button works, and it says "Coming soon" (Nutri, 18 November 2026). Not
+ * indexed and not in the sitemap; the real list replaces it as soon as its JSON file exists.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import { bisTabEras, classes, classLabel, specLabel } from '../../config/bis';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import EraTabs from '../EraTabs.astro';
+import { bisEraCounts, bisPath, eraHrefs } from '../../lib/bis';
+import { bisT } from '../../i18n/bis';
+import '../../styles/guides.css';
+
+type Props = {
+  locale: Locale;
+  cls: string;
+  spec: string;
+};
+const { locale, cls, spec } = Astro.props as Props;
+const t = bisT(locale);
+const ui = useTranslations(locale);
+const name = specLabel(spec) + ' ' + classLabel(cls);
+const color = classes[cls]?.color ?? '#e0b77a';
+const guideSpec = spec === 'feral-tank' ? 'feral' : spec;
+
+type Strings = { text: string; classPage: string; guide: string; all: string };
+const S: Record<Locale, Strings> = {
+  en: { text: 'The pre-raid list for this spec is not ready yet. We check the lists every day and add it here as soon as it is.', classPage: 'Class page', guide: 'Spec guide', all: 'All BiS lists' },
+  nl: { text: 'De pre-raid-lijst voor deze spec is nog niet klaar. We kijken de lijsten elke dag na en zetten hem hier zodra hij er is.', classPage: 'Classpagina', guide: 'Specgids', all: 'Alle BiS-lijsten' },
+  fr: { text: 'La liste pré-raid de cette spé n’est pas encore prête. Nous vérifions les listes chaque jour et l’ajoutons ici dès qu’elle est disponible.', classPage: 'Page de classe', guide: 'Guide de la spé', all: 'Toutes les listes BiS' },
+  es: { text: 'La lista pre-raid de esta spec aún no está lista. Revisamos las listas cada día y la añadimos aquí en cuanto esté.', classPage: 'Página de clase', guide: 'Guía de la spec', all: 'Todas las listas BiS' },
+  it: { text: 'La lista pre-raid di questa spec non è ancora pronta. Controlliamo le liste ogni giorno e la aggiungiamo qui appena c’è.', classPage: 'Pagina della classe', guide: 'Guida della spec', all: 'Tutte le liste BiS' },
+  de: { text: 'Die Pre-Raid-Liste für diese Spec ist noch nicht fertig. Wir prüfen die Listen jeden Tag und stellen sie hier ein, sobald sie da ist.', classPage: 'Klassenseite', guide: 'Spec-Guide', all: 'Alle BiS-Listen' },
+};
+const s = S[locale];
+const title = t('detailTitle', { name });
+---
+
+<BaseLayout locale={locale} title={title} description={s.text} index={false}>
+  <EraTabs slot="bar" locale={locale} current="forever" hrefs={eraHrefs(locale)} counts={bisEraCounts()} keys={bisTabEras} />
+  <article class="wf-gdetail wf-page">
+    <nav class="wf-gcrumb" aria-label={ui('crumb.label')}>
+      <a href={bisPath(locale)}>BiS</a>
+      <span aria-hidden="true">/</span>
+      <span>{name}</span>
+    </nav>
+    <header class="wf-gdetail__head">
+      <span class="wf-gdetail__diamond" style={'--wf-diamond: ' + color + ';'} aria-hidden="true"></span>
+      <div><h1 class="wf-gdetail__title">{title}</h1></div>
+    </header>
+    <p class="wf-bsoonpage__tag">{t('comingSoon')}</p>
+    <p class="wf-bsoonpage__text">{s.text}</p>
+    <p class="wf-bsoonpage__links">
+      <a class="wf-gchip" href={localizePath('classes/' + cls, locale) + '/'}>{s.classPage}</a>
+      <a class="wf-gchip" href={localizePath('classes/' + cls + '/' + guideSpec, locale) + '/'}>{s.guide}</a>
+      <a class="wf-gchip" href={bisPath(locale)}>{s.all}</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .wf-bsoonpage__tag {
+    display: inline-block; margin: 4px 0 12px; padding: 4px 12px; border-radius: 999px;
+    border: 1px solid var(--wf-accent); color: var(--wf-accent);
+    font-family: var(--wf-display); font-size: 12px; letter-spacing: .14em; text-transform: uppercase;
+  }
+  .wf-bsoonpage__text { max-width: 640px; color: var(--wf-body); }
+  .wf-bsoonpage__links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
+</style>

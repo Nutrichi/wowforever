@@ -106,7 +106,9 @@ Y lo nuevo, según Jones:
 
 En octubre de 2026, Clay Stone añadió que los nuevos tiers de raid añadirán el mínimo de poder posible, para que el equipo dure más, y que el mundo crece a lo ancho con las profesiones y el sistema Legacy ([más](/es/news/raid-tiers-will-add-as-little-power-as-possible/)).
 
-## Fechas
+## Fechas y hoja de ruta
+
+### Fechas
 
 Todas las fechas son de Blizzard. Las horas van en hora del Pacífico, con la hora belga cuando importa.
 
@@ -127,22 +129,22 @@ Todas las fechas son de Blizzard. Las horas van en hora del Pacífico, con la ho
 | Febrero de 2027 | Llegan las Collector's Editions pedidas desde el 24 de septiembre de 2026. |
 | 31 de diciembre de 2027 | Último día para canjear un código de la Collector's Edition y obtener un posible saldo de Battle.net por compras digitales anteriores. |
 
-## La hoja de ruta del primer año
+### La hoja de ruta del primer año
 
 Blizzard resumió el primer año como «fast-paced production for a slow-paced game». El contenido y las fechas pueden cambiar, y las funciones evolucionarán con los comentarios de los jugadores, según Blizzard.
 
-### Otoño de 2026
+#### Otoño de 2026
 
 - Beta del 17 de septiembre al 23 de octubre, primero hasta el nivel 20 y después hasta el nivel 30.
 - Early Name Reservation y creación de personajes desde el 27 de octubre.
 - Lanzamiento el 4 de noviembre.
 
-### Invierno de 2026
+#### Invierno de 2026
 
 - El 9 de diciembre se abren las bandas: Barrow Deeps para 10 jugadores, Hyjal Summit para 20 jugadores y Onyxia's Lair para 40 jugadores.
 - Sale WoW Forever Hardcore. La hoja de ruta lo sitúa en el mismo invierno, después de las bandas; Blizzard no da un día.
 
-### Primavera de 2027
+#### Primavera de 2027
 
 - 2 bandas nuevas, para 10 y 20 jugadores.
 - 2 mazmorras nuevas.
@@ -150,7 +152,7 @@ Blizzard resumió el primer año como «fast-paced production for a slow-paced g
 - Una nueva cadena de misiones legendaria.
 - Una nueva temporada de PvP.
 
-### Verano de 2027
+#### Verano de 2027
 
 - Una banda icónica renovada y una banda nueva.
 - Más contenido en el mundo.
@@ -160,15 +162,17 @@ Blizzard resumió el primer año como «fast-paced production for a slow-paced g
 
 El contenido nuevo sigue el orden del juego original, así que los tamaños de banda se mezclan desde el principio: Hyjal Summit para 20 jugadores se abre junto a Onyxia's Lair para 40. Qué bandas llegan exactamente en 2027 aún no se ha anunciado.
 
-## Zonas nuevas y renovadas
+## Zonas, subida y viajes
+
+### Zonas nuevas y renovadas
 
 La aventura abarca los Eastern Kingdoms y Kalimdor, con regiones nuevas, rincones sin terminar del mundo original y más de 1.000 misiones nuevas del nivel 1 al 60. Blizzard mostró cuatro regiones en la BlizzCon.
 
-### Zephras Isle, niveles 1 a 12
+#### Zephras Isle, niveles 1 a 12
 
 La zona inicial de los Skyborne: una isla apartada en el cielo que ahora ve amenazada su existencia. El estilo es el del Warcraft clásico, con arquitectura inspirada en Skywall. Para jugar allí hace falta el Skyborne Heroic Pack o una edición superior. Los Druids y Shamans de la Horda pueden conseguir allí una reliquia a nivel 5, con la misión Meddlesome Mages. La Alianza no puede aceptar esa misión, como muestra la beta.
 
-### The Riverglades, hacia los niveles 30 a 45
+#### The Riverglades, hacia los niveles 30 a 45
 
 Una nueva frontera en los Eastern Kingdoms, con ríos, praderas, rutas comerciales y fortalezas en ruinas. Tiene más de 150 misiones nuevas, reputaciones nuevas y recompensas. Allí viven humanos, orcos, ogros y pequeñas comunidades con viejos rencores; Blizzard la describió como «not a story about saving Azeroth, a story about living there». Un puerto goblin neutral añade rutas de viaje, y la zona tiene su propia mazmorra. Una bifurcación en Redridge Mountains que antes acababa en un callejón sin salida lleva ahora hasta allí. Los jugadores de la Alianza encuentran a la Brotherhood of the Horse, que no se veía desde Warcraft II, y los de la Horda un clan de ogros; el Twilight's Hammer es la amenaza, según [un vídeo de Blizzard](/es/news/a-five-minute-video-sums-up-what-changes/) del 23 de septiembre. La Black Market Auction House de Forever está en Powderfuse Port, un puesto goblin de la zona; consulta la [guía de la BMAH](/es/guides/bmah/). El relato corto Cost of Honor, del 13 de noviembre, transcurre en Farholde Keep; véase [el artículo sobre el relato](/es/news/cost-of-honor-tells-the-past-of-the-riverglades/). Cómo llegar, los pueblos y las misiones están en nuestra [guía de Riverglades](/es/guides/riverglades/).
 
@@ -182,19 +186,19 @@ Una nueva frontera en los Eastern Kingdoms, con ríos, praderas, rutas comercial
   </button>
 </figure>
 
-### Mount Hyjal, subida de final de juego
+#### Mount Hyjal, subida de final de juego
 
 Lo que ocurrió tras la derrota de Archimonde, incluida Darkwhisper Gorge. Mount Hyjal tiene contenido en solitario y en grupo, reputaciones, misiones y recompensas nuevas. Allí están la banda Hyjal Summit y una de las tres entradas a los Barrow Deeps. Es el final de la subida de nivel. Allí hay un campamento de la Horda y la Alianza juntas, atrapadas en el mismo lugar y obligadas a una paz incómoda.
 
-### Shen'dralas, una región nueva
+#### Shen'dralas, una región nueva
 
 Una región oculta entre Mulgore y Desolace, ligada a los Shen'dralar, los Night Elves que aún viven en Dire Maul, y a Eldre'Thalas. La historia sigue una guerra entre las tribus de centauros de la región y da nuevos motivos para visitar Maraudon y Razorfen Downs.
 
-### El viejo mundo con una nueva luz
+#### El viejo mundo con una nueva luz
 
 El Associate Production Director Clay Stone dijo que el estilo artístico de Classic es atemporal y que no se sustituye. Los efectos existentes mejoran: ríos que fluyen, niebla más natural, luz de luna entre los árboles y entornos renovados. Blizzard mostró Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore y The Barrens. Las zonas originales reciben también misiones y secretos nuevos. Siguen una lluvia y una niebla más intensas: el 23 de septiembre Blizzard mostró un día lluvioso en Elwynn Forest, con efectos que llegaron después a la beta.
 
-## Subir de nivel y viajar
+### Subir de nivel y viajar
 
 La curva de experiencia no cambia: un personaje necesita lo mismo para llegar a 60 que en el Classic original, dijo Blizzard a The Sun. Lo que cambia es de dónde sale esa experiencia, porque las zonas nuevas añaden caminos que el juego original no tenía. The Riverglades y Shen'dralas caen en el tramo donde subir de nivel se ralentiza, y Mount Hyjal está cerca del 60.
 
@@ -246,18 +250,20 @@ Cada jefe de banda suelta un chase item, dijo Blizzard en una entrevista con The
 
 Las dos bandas nuevas no piden attunement; Onyxia's Lair mantiene su cadena de Classic, por personaje. Blizzard prevé por ahora un reinicio semanal para cada banda. Los tamaños de 10, 20 y 40 jugadores son fijos en vez de adaptarse, y la dificultad nunca sigue tu nivel ni tu equipo, así que un grupo puede superar una raid en equipo y en nivel.
 
-## Los Skyborne
+## Skyborne, clases y rasgos raciales
+
+### Los Skyborne
 
 Los Skyborne son una nueva raza de elfos con un toque elemental. Su hogar flotante, Zephras Isle, ve amenazada su existencia, y su ascendencia común ha llevado a ideas muy distintas sobre el futuro. Los Skyborne no son neutrales: al crear el personaje, los jugadores eligen facción, y esa elección decide la clase extra. Entre los suyos se llaman Shen'dorei. La elección de facción también une a los Skyborne de la Horde con el Earthen Ring, con una zona nueva en Mulgore, y a los de la Alliance con el Kirin Tor, en ambos casos con misiones y reputación, dice Tim Jones.
 
-### High Order Skyborne, Alliance
+#### High Order Skyborne, Alliance
 
 - Siguen el legado arcano de sus antepasados y las ideas del Kirin Tor.
 - Clases: Warrior, Hunter, Rogue, Druid y Mage.
 - Racials: Walk on Air, Read Leyline, Wind Blessed y Elemental Insight.
 - Idiomas: Common y Darnassian.
 
-### Windshaper Skyborne, Horde
+#### Windshaper Skyborne, Horde
 
 - Siguen las tradiciones elementales y cabalgan los vientos elementales.
 - Clases: Warrior, Hunter, Rogue, Druid y Shaman.
@@ -270,7 +276,7 @@ Los Druids Skyborne tienen sus propias formas Bear, Cat, Travel y Moonkin de col
 
 Los Skyborne y Zephras Isle requieren el Skyborne Heroic Pack por 29,99 euros o una edición superior. Es la primera vez que Blizzard vende una raza jugable fuera de una expansión. El acceso solo vale para la cuenta de World of Warcraft para la que se compró el pack.
 
-## Clases, combinaciones y racials
+### Clases, combinaciones y racials
 
 Todas las clases y especializaciones se renuevan, con habilidades nuevas y árboles de talentos nuevos. Las clases siguen siendo únicas, pero los talentos dejan los pequeños bonus del 1 o el 2 % por decisiones con peso real. El Paladin recibe un nuevo Seal para tanquear, más sanación de grupo y nuevas herramientas para Retribution. Twist of Light sustituye al antiguo Seal Twisting, como muestra [el análisis del Paladin](/es/news/paladins-get-a-new-kind-of-seal-twisting/). Hay 51 puntos de talento en total, como en Classic.
 
@@ -280,7 +286,9 @@ Las nuevas combinaciones de raza y clase son el Undead Paladin, el Dwarf Shaman,
 
 Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials y los racials de resistencia desaparecen. También desaparecen las especializaciones de arma: [Humanos, Enanos y Orcos reciben una bonificación a los críticos](/es/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) que funciona con cualquier arma. La tabla completa de razas y clases, con cada racial por raza, está en [Classes](/es/classes/).
 
-## Sistemas nuevos
+## Sistemas nuevos, Legacy y ventajas de profesiones
+
+### Sistemas nuevos
 
 - **Transfiguración opcional.** Existe, pero cada jugador elige si la ve. Con la opción desactivada, todos muestran su equipo real.
 - **Gráficos HD o SD.** Personajes, modelos y mundo cambian entre el aspecto original y unos gráficos renovados, con mejor iluminación, niebla y agua.
@@ -300,13 +308,13 @@ Los racials también se han rediseñado. Cada raza tiene ahora cuatro racials y 
 - **Una profesión de recolección hacia el nivel 3 o 4.** Una misión da a elegir entre un manual de Herbalism, Mining o Skinning, que enseña la profesión a quien no la tiene y lleva menos de dos.
 - **Nada debería desaparecer.** El equipo no planea nada como el antiguo Naxxramas, que se fue para siempre.
 
-## El sistema Legacy
+### El sistema Legacy
 
 Subir del 1 al 60 es el corazón de Classic, y el sistema Legacy premia a quien sube más de un personaje. Los Legacy Challenges son objetivos en seis categorías: explorar, subir clases, mejorar tradeskills, lograr rangos de PvP, llevar reputaciones al máximo, y completar mazmorras y bandas.
 
 Cada desafío completado da un Legacy Point. Los puntos se gastan en un árbol Legacy con tres ramas, y cada perk sirve para todos los personajes de la cuenta. La mayoría de los perks son pasivos, algunos se activan, y ninguno da poder de combate. Un personaje de nivel 38 en la BlizzCon tenía 4 puntos para gastar, y varios nodos indicaban «to be added in future patch content». En una semana posterior de la beta, cada probador recibió 16 puntos Legacy para probar el sistema, hasta el final de la beta.
 
-### Adventure
+#### Adventure
 
 - Well Rested: la experiencia de descanso se acumula un 4 % más rápido y su límite es un 4 % mayor.
 - Talented: los puntos de talento empiezan en el nivel 9 en lugar del 10, igualmente hasta 51.
@@ -316,7 +324,7 @@ Cada desafío completado da un Legacy Point. Los puntos se gastan en un árbol L
 - Field Medicine: Recently Bandaged dura 5 segundos menos, en el mundo abierto.
 - Frequent Flier: las rutas de vuelo cuestan un 50 % menos y sus monturas son un 20 % más rápidas.
 
-### Resourcefulness
+#### Resourcefulness
 
 - The Quick and the Dead: más rápido mientras estás muerto, y los hechizos de ayuda no cuestan nada durante 1 minuto tras resucitar o hasta entrar en combate.
 - Reinforce: menos desgaste del equipo al morir.
@@ -330,7 +338,7 @@ La tercera rama contiene los perks de las tradeskills; están en [Tradeskills](/
 
 Aparte del árbol, el total de puntos conseguidos desbloquea una serie de recompensas cosméticas. Gastar puntos en perks no frena esa serie. Las recompensas mostradas hasta ahora son el Replica Ironforge Air Rifle, la mascota [Spectral Bear Cub](/es/guides/pets/spectral-bear-cub/), un tabardo de Spectral Bear y la montura Reins of the Spectral Bear. La serie se abre en 15, 25, 40 y 55 puntos, con la montura en 55. Cada reto vale exactamente un punto, y un maestro de clase olvida un árbol entero por 10 de oro.
 
-## Perks de las tradeskills
+### Perks de las tradeskills
 
 Las tradeskills reciben su primera renovación de verdad. En Classic una tradeskill solo daba recetas; en Forever cada tradeskill principal da también perks al personaje que la aprende, además de recetas nuevas y renovadas. Los perks por tradeskill, tal como se vieron en la BlizzCon, están en [Tradeskills](/es/tradeskills/). Las cifras exactas no son definitivas, y el verano de 2027 trae otra ronda de actualizaciones.
 
@@ -348,7 +356,9 @@ El modo Hardcore llega a Forever, pero no en el lanzamiento. Blizzard dijo en el
 
 Dos cosas cambian cuando esté. El juego avisa a los jugadores antes de un world refresh, para que primero busquen un sitio seguro. Y un personaje que muere puede pasar a cualquier modo que no sea Hardcore, en lugar de acabar en un reino PvE. El Hardcore tendrá además sus propios desafíos y perks Legacy, y Blizzard dijo que el equipo le da vueltas a los torneos de Mak'gora, sin confirmar nada.
 
-## Ediciones y precios
+## Ediciones, precios y Forsaken Kingdom
+
+### Ediciones y precios
 
 Forever no cuesta nada aparte de la suscripción de World of Warcraft o el Game Time. La Battle.net Shop vende tres ediciones digitales opcionales, y la Blizzard Gear Store una Collector's Edition física por 150 euros. Los objetos marcados con * funcionan en el World of Warcraft moderno y en Forever, los marcados con ** solo en Forever, y ninguno funciona en WoW Classic.
 
@@ -375,11 +385,11 @@ Forever no cuesta nada aparte de la suscripción de World of Warcraft o el Game 
 
 La Cerulean Prideclaw es una montura terrestre, así que la habilidad de equitación sigue comprándose en el juego. La decoración de vivienda solo funciona en las viviendas del World of Warcraft moderno, que requieren Midnight.
 
-### Códigos de lanzamiento Invite-A-Friend
+#### Códigos de lanzamiento Invite-A-Friend
 
 Cada edición incluye códigos con los que un amigo puede jugar a Forever durante la semana de lanzamiento, del 4 al 11 de noviembre de 2026, sin suscripción ni Game Time. Los códigos llegan por correo desde el 20 de octubre de 2026, y el amigo los canjea en Battle.net. Las ediciones compradas como regalo no incluyen códigos.
 
-### La Collector's Edition
+#### La Collector's Edition
 
 La Collector's Edition física cuesta 150 euros en la Blizzard Gear Store. En Australia y Nueva Zelanda la venden tiendas colaboradoras. Contiene: El 24 de septiembre salió a la venta un nuevo lote de la versión en inglés, con un límite de un ejemplar por hogar en la Gear Store. Los pedidos desde ese día se envían en febrero de 2027 y los anteriores en noviembre de 2026, ver [la noticia](/es/news/more-collectors-editions-go-on-sale/).
 
@@ -389,7 +399,7 @@ La Collector's Edition física cuesta 150 euros en la Blizzard Gear Store. En Au
 
 El acceso a la beta de la Collector's Edition llegaba por correo y solo funcionaba durante la beta. Algunas compras digitales anteriores pueden dar derecho a saldo de Battle.net si el código de la Collector's Edition se canjea antes del 31 de diciembre de 2027. No todos los productos cuentan, según un artículo de soporte de Blizzard.
 
-## Warcraft III Reforged: Forsaken Kingdom
+### Warcraft III Reforged: Forsaken Kingdom
 
 La historia de Forever empieza en una nueva campaña de Warcraft III. Forsaken Kingdom se anunció y se publicó el 12 de septiembre de 2026. Sigue a Sylvanas y la caída de Lordaeron, la fundación de la Undercity y el primer Forsaken Paladin, y lleva directamente a los Undead Paladins de Forever.
 

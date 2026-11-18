@@ -27,4 +27,4 @@ Las cifras cuentan personajes desde el nivel 10. El personaje medio es de nivel 
 
 Los apellidos son nuevos en Forever, y los jugadores se divierten con ellos. El más popular, con mucha diferencia, es simplemente Forever.
 
-¿Juegas Paladin? Nuestra [guía de subida de Paladin](/es/guides/paladin-leveling/) te lleva del 1 al 60.
+¿Juegas Paladin? Nuestra [guía de subida de Paladin](/es/classes/paladin/leveling/) te lleva del 1 al 60.

@@ -27,4 +27,4 @@ Les chiffres comptent les personnages à partir du niveau 10. Le personnage moye
 
 Les noms de famille sont nouveaux dans Forever, et les joueurs s'amusent avec. Le plus populaire, de loin, est tout simplement Forever.
 
-Vous jouez Paladin ? Notre [guide de montée en niveau du Paladin](/fr/guides/paladin-leveling/) vous mène de 1 à 60.
+Vous jouez Paladin ? Notre [guide de montée en niveau du Paladin](/fr/classes/paladin/leveling/) vous mène de 1 à 60.

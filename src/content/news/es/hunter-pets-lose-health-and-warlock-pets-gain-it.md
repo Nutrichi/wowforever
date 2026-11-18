@@ -30,4 +30,4 @@ La semana pasada Blizzard dijo que las mascotas [no aguantaban lo suficiente com
 
 El Felhunter no está en la lista. El sonido del látigo de la Succubus también suena mucho menos: un error lo hacía sonar demasiado a menudo.
 
-Subir de nivel con mascota: nuestra [guía de leveling del Hunter](/es/guides/hunter-leveling/), la [guía del Hunter Beast Mastery](/es/guides/beast-mastery-hunter/) y la [guía de leveling del Warlock](/es/guides/warlock-leveling/).
+Subir de nivel con mascota: nuestra [guía de leveling del Hunter](/es/classes/hunter/leveling/), la [guía del Hunter Beast Mastery](/es/classes/hunter/beast-mastery/) y la [guía de leveling del Warlock](/es/classes/warlock/leveling/).

@@ -1,19 +1,25 @@
 ---
-/* Eén gids onder CLASSES in de vijf niet-standaardtalen; zonder vertaling de Engelse tekst. */
+/* Eén gids onder CLASSES, of een spec of gids van een class in Forever, in de vijf niet-standaardtalen; zonder vertaling de Engelse tekst. */
 import GuideDetailPage from '../../../../components/guides/GuideDetailPage.astro';
+import SitePage from '../../../../components/pages/SitePage.astro';
 import { getGuide, getGuides } from '../../../../lib/guides';
 import { otherLocales } from '../../../../lib/posts';
+import { pageSlugs } from '../../../../lib/pages';
 import type { GuideEra } from '../../../../config/guides';
 import type { Locale } from '../../../../i18n/ui';
 
 export async function getStaticPaths() {
   const guides = await getGuides('classes', 'en');
-  return otherLocales.flatMap((lang) => guides.map((guide) => ({ params: { lang, era: guide.era, slug: guide.slug } })));
+  const classPages = (await pageSlugs('classes')).filter((s): s is string => !!s && s.split('/').length === 2);
+  return otherLocales.flatMap((lang) => [
+    ...guides.map((guide) => ({ params: { lang, era: guide.era, slug: guide.slug } })),
+    ...classPages.map((s) => ({ params: { lang, era: s.split('/')[0], slug: s.split('/')[1] } })),
+  ]);
 }
 
 const locale = Astro.params.lang as Locale;
-const guide = await getGuide('classes', Astro.params.era as GuideEra, Astro.params.slug!, locale);
-if (!guide) throw new Error(`Onbekende gids: ${Astro.params.era}/${Astro.params.slug}`);
+const { era, slug } = Astro.params;
+const guide = await getGuide('classes', era as GuideEra, slug!, locale);
 ---
 
-<GuideDetailPage locale={locale} guide={guide} />
+{guide ? <GuideDetailPage locale={locale} guide={guide} /> : <SitePage locale={locale} pageKey={`classes/${era}/${slug}`} />}

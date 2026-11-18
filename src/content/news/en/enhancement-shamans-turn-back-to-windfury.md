@@ -37,4 +37,4 @@ The raids open on 9 December. Fixing Enhancement now keeps Shamans from winning 
 
 Strength is now clearly better than Intellect. A point of Strength gives 2 attack power, a point of Intellect at most 1 through Mental Dexterity. A slow two-handed weapon matters even more: more Maelstrom Weapon procs per swing, and bigger Windfury hits.
 
-How much damage Enhancement loses overall, Blizzard does not say. Our [Enhancement Shaman guide](/guides/enhancement-shaman/) follows the new values.
+How much damage Enhancement loses overall, Blizzard does not say. Our [Enhancement Shaman guide](/classes/shaman/enhancement/) follows the new values.

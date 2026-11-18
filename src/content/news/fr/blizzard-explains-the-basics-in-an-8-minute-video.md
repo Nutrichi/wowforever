@@ -45,7 +45,7 @@ Chaque personnage peut apprendre les trois métiers secondaires : Cooking, First
 
 En entrant dans une ville comme Stormwind ou Orgrimmar, vous passez dans le canal Trade. Les villes ont l'hôtel des ventes, la banque, les maîtres d'armes et les marchands, et un garde indique le chemin. Blizzard conseille de refaire le plein de nourriture, de boisson, de potions et de munitions à chaque visite.
 
-C'est aussi en ville que l'on trouve un portail de Mage ou une invocation de Warlock, un moyen rapide de rejoindre le prochain donjon. Les destinations sont dans le [guide des portails de Mage](/fr/guides/mage-portals/).
+C'est aussi en ville que l'on trouve un portail de Mage ou une invocation de Warlock, un moyen rapide de rejoindre le prochain donjon. Les destinations sont dans le [guide des portails de Mage](/fr/classes/mage/portals/).
 
 ## Guildes
 

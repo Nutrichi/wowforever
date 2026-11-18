@@ -44,7 +44,7 @@ The Alliance goes to the Mage Tower in the Mage Quarter of Stormwind, the Horde 
 
 Until 13 November a bug made both librarians refuse every book. A hotfix fixed it, so hand in your books again.
 
-Mages get something extra: the first book gives them the spell Study, which makes scrolls in a library. See the [Mage scrolls guide](/guides/mage-scrolls/).
+Mages get something extra: the first book gives them the spell Study, which makes scrolls in a library. See the [Mage scrolls guide](/classes/mage/scrolls/).
 
 ![The librarian Garion Wendell in Stormwind with the window to hand in a book, a screenshot from the beta of World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 

@@ -32,7 +32,7 @@ Wit's End gives your melee attacks a 15% chance at <a class="wf-wh wf-spell" hre
 ## How to get it
 
 1. **The Witchblade:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13964"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Witchblade</a> drops from Darkmaster Gandling, the last boss of [Scholomance](/guides/dungeons/scholomance/).
-2. **The scroll:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> is a tier 4 Mage scroll. You decipher it with the Study skill, from skill 175 and level 46. Where scrolls drop and how Study works is in our [Mage scrolls guide](/guides/mage-scrolls/).
+2. **The scroll:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> is a tier 4 Mage scroll. You decipher it with the Study skill, from skill 175 and level 46. Where scrolls drop and how Study works is in our [Mage scrolls guide](/classes/mage/scrolls/).
 3. **Combine:** use the scroll on the Witchblade and you get Wit's Edge.
 
 ## Worth it?

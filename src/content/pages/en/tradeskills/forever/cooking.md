@@ -31,7 +31,9 @@ Cooking is a secondary profession, so it never costs you one of your two main sl
 - **More than 100 recipes**, of which the trainers teach only about a dozen. The rest come from vendors, drops, quests and the [Azeroth Commerce Authority](/reputations/azeroth-commerce-authority/).
 - **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5198"><img class="wf-wh__icon" src="/wh/inv_staff_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cookie's Stirring Rod</a>** from Cookie in The Deadmines now cooks 25% faster.
 
-## Ranks and where to learn them
+## Ranks and trainers
+
+### Ranks and where to learn them
 
 | Rank | Skill | How |
 |---|---|---|
@@ -48,7 +50,7 @@ Cooking is a secondary profession, so it never costs you one of your two main sl
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, from <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, which drops from monsters such as <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> on the east coast of Tanaris.
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, from innkeepers and food vendors.
 
-## Trainers
+### Trainers
 
 | Faction | Trainer | Where | /way |
 |---|---|---|---|
@@ -106,7 +108,9 @@ From 225 you need Artisan, from the quest above. Shopping list for 225 to 300: 2
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13941"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Filet of Redgill</a> | 225 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2664">Kelsey Yance</a>, Booty Bay (/way 28.2 74.4) |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13946"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Poached Sunscale Salmon</a> | 240 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8137">Gikkix</a>, Steamwheedle Port, Tanaris (/way 66.6 22.0) |
 
-## Old dishes, new buffs
+## Dishes and recipes
+
+### Old dishes, new buffs
 
 The same dish in Forever and in Classic Era, from the tooltips of both games.
 
@@ -121,11 +125,11 @@ The same dish in Forever and in Classic Era, from the tooltips of both games.
 
 Every buff lasts 15 minutes and starts after 10 seconds of eating.
 
-## Transformation food
+### Transformation food
 
 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> now gives an orc version of the ninja and pirate costumes; the Murloc and Ogre forms of the first days were placeholders, says Blizzard. The recipe needs Cooking 85 and drops in Redridge Mountains; more in the [post about it](/news/savory-whimsyfin-delight-turns-you-into-a-murloc-or-an-ogre/). <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, with its ninja and pirate, is still there too.
 
-## New recipes
+### New recipes
 
 Every new recipe of Forever with the skill it needs and where it comes from. "Not known yet" means the source has not been found yet.
 
@@ -171,7 +175,9 @@ Every new recipe of Forever with the skill it needs and where it comes from. "No
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1250146"><img class="wf-wh__icon" src="/wh/inv_misc_food_meat_cooked_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Flank au Poivre</a> | 275 | Not known yet |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255241"><img class="wf-wh__icon" src="/wh/spell_shadow_sealofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cleansing Stew</a> | Not known yet | Not known yet |
 
-## Campfires and camp objects
+## Campfires
+
+### Campfires and camp objects
 
 | Object | Skill | Recipe from | What it does |
 |---|---|---|---|
@@ -185,11 +191,13 @@ The skill is what the blueprint needs; the campfire kits themselves need a bit m
 
 ![The Cooking window with the categories Camping, Everyday Meals, Stamina Food and Strength Food, a screenshot from the beta of World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-cooking-window.jpg)
 
-## How it works
+### How it works
 
 The Cooking window sorts the recipes by the stat they raise, with Camping on top. The only workstation is a fire, and your own campfire counts. Meat comes from beasts, fish from [Fishing](/tradeskills/forever/fishing/), spices from the Cooking vendors.
 
-## Recipes from Merchant's Favor
+## Merchant's Favor and Legacy talents
+
+### Recipes from Merchant's Favor
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256731">Kalsey Sanden</a> at the camp of the [Azeroth Commerce Authority](/reputations/azeroth-commerce-authority/) at Three Corners (/way 10.8 72.7) sells six smoothie recipes for Merchant's Favor.
 
@@ -204,7 +212,7 @@ The Cooking window sorts the recipes by the stat they raise, with Camping on top
 
 The Horde gets them from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=248198">Aza'bek</a> of [Durotar Supply and Logistics](/reputations/durotar-supply-and-logistics/).
 
-## Legacy talents
+### Legacy talents
 
 | Perk | Effect |
 |---|---|

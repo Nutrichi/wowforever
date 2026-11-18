@@ -44,7 +44,7 @@ Every character can learn all three secondary professions: Cooking, First Aid an
 
 Entering a city such as Stormwind or Orgrimmar moves you to the Trade channel. Cities have the auction house, the bank, weapon trainers and vendors, and a guard points the way. Blizzard advises restocking food, drink, potions and ammunition on every visit.
 
-Cities are also where players find a Mage portal or a Warlock summon, a fast way to the next dungeon. The destinations are in the [Mage portals guide](/guides/mage-portals/).
+Cities are also where players find a Mage portal or a Warlock summon, a fast way to the next dungeon. The destinations are in the [Mage portals guide](/classes/mage/portals/).
 
 ## Guilds
 

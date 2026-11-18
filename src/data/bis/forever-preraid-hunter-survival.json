@@ -1,0 +1,294 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "hunter",
+ "spec": "survival",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-17",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Black Dragonscale Helm",
+     "source": "Crafted"
+    },
+    {
+     "name": "Beastmaster's Cap",
+     "source": "Quest"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Mark of Fordring",
+     "source": "Reward from the quest In Dreams"
+    },
+    {
+     "name": "Amulet of the Darkmoon",
+     "source": "1200 Tickets in Amulet of the Darkmoon Gelvas Grimegate"
+    },
+    {
+     "name": "Beads of Ogre Might",
+     "source": "Reward from the quest Falrin's Vendetta"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Darkspear Epaulets",
+     "source": "Creeg Bothunk (The Barrens), (Exalted)"
+    },
+    {
+     "name": "Bone Golem Shoulders",
+     "source": "Rattlegore (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare (Stratholme)"
+    },
+    {
+     "name": "Howler's Furs",
+     "source": "Pix Xizzix (Stranglethorn Vale)"
+    },
+    {
+     "name": "Heliotrope Cloak",
+     "source": "Zone Drop (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Dawn Armor",
+     "source": "Crafted"
+    },
+    {
+     "name": "Beastmaster's Tunic",
+     "source": "Quest"
+    },
+    {
+     "name": "Timbermaw Tunic",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Eclipse",
+     "source": "Prince Tortheldrin (Dire Maul)"
+    },
+    {
+     "name": "Beastmaster's Bindings",
+     "source": "Quest Vendor"
+    },
+    {
+     "name": "Satyrhide Armbands",
+     "source": "Quest (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Devilsaur Gauntlets",
+     "source": "Crafted"
+    },
+    {
+     "name": "Voone's Vice Grips",
+     "source": "Quest (Blackrock Spire)"
+    },
+    {
+     "name": "Gauntlets of Accuracy",
+     "source": "Illyanna Ravenoak (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Ranger's Belt",
+     "source": "Pix Xizzix (Stranglethorn Vale)"
+    },
+    {
+     "name": "Marksman's Girdle",
+     "source": "Urok Doomhowl (Blackrock Spire)"
+    },
+    {
+     "name": "Defiler's Chain Girdle",
+     "source": "Rutherford Twing (Arathi Highlands), (Honored)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Devilsaur Leggings",
+     "source": "Crafted"
+    },
+    {
+     "name": "Plaguehound Leggings",
+     "source": "Source not listed yet"
+    },
+    {
+     "name": "Blademaster Leggings",
+     "source": "The Beast (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Beastmaster's Boots",
+     "source": "Quest"
+    },
+    {
+     "name": "Windreaver Greaves",
+     "source": "Kirtonos the Herald (Scholomance)"
+    },
+    {
+     "name": "Bloodmail Boots",
+     "source": "Zone Drop (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Cutthroat's Signet",
+     "source": "Pix Xizzix (Stranglethorn Vale)"
+    },
+    {
+     "name": "Channeler's Ring",
+     "source": "Pix Xizzix (Stranglethorn Vale)"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras (Maraudon)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Painweaver Band",
+     "source": "General Drakkisath (Blackrock Spire)"
+    },
+    {
+     "name": "Channeler's Ring",
+     "source": "Pix Xizzix (Stranglethorn Vale)"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras (Maraudon)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak (Blackrock Spire)"
+    },
+    {
+     "name": "Rune of the Guard Captain",
+     "source": "Job Opening: Guard Captain of Revantusk Village (The Hinterlands) Primal Torntusk (The Hinterlands)"
+    },
+    {
+     "name": "Adaptive Combat Assistant",
+     "source": "Pix Xizzix (Stranglethorn Vale)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Darkmoon Card: Maelstrom",
+     "source": "Reward from the quest Darkmoon Elementals Deck"
+    },
+    {
+     "name": "Rune of the Guard Captain",
+     "source": "Job Opening: Guard Captain of Revantusk Village (The Hinterlands) Primal Torntusk (The Hinterlands)"
+    },
+    {
+     "name": "Adaptive Combat Assistant",
+     "source": "Pix Xizzix (Stranglethorn Vale)"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Annihilator",
+     "source": "Crafted"
+    },
+    {
+     "name": "Teebu's Blazing Longsword",
+     "source": "Source not listed yet"
+    },
+    {
+     "name": "Sword of Zeal",
+     "source": "Source not listed yet"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Distracting Dagger",
+     "source": "Prince Tortheldrin (Dire Maul)"
+    },
+    {
+     "name": "Alcor's Sunrazor",
+     "source": "Source not listed yet"
+    },
+    {
+     "name": "Bonescraper",
+     "source": "Baron Rivendare (Stratholme)"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Satyr's Bow",
+     "source": "Zevrim Thornhoof (Dire Maul)"
+    },
+    {
+     "name": "Riphook",
+     "source": "Shadow Hunter Vosh'gajin (Blackrock Spire)"
+    },
+    {
+     "name": "Archstrike Bow",
+     "source": "Source not listed yet"
+    }
+   ]
+  }
+ ]
+}

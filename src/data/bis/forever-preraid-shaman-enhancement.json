@@ -1,0 +1,265 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "shaman",
+ "spec": "enhancement",
+ "role": "Melee DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-17",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Coif of The Five Thunders",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Black Dragonscale Helm",
+     "source": "Crafted by"
+    },
+    {
+     "name": "Skyfury Helm",
+     "source": "Reward from the quest The Darkreaver Menace"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Mark of Fordring",
+     "source": "Reward from the quest In Dreams"
+    },
+    {
+     "name": "Beads of Ogre Might",
+     "source": "Reward from the quest Falrin's Vendetta"
+    },
+    {
+     "name": "Nacreous Shell Necklace",
+     "source": "Cannon Master Willey"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Pauldrons of The Five Thunders",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Savage Gladiator Shoulders",
+     "source": "Grizzle"
+    },
+    {
+     "name": "Death's Clutch",
+     "source": "Ras Frostwhisper"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Sold by Pix Xizzix"
+    },
+    {
+     "name": "Howler's Furs",
+     "source": "Sold by Pix Xizzix"
+    },
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Chain of The Five Thunders",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Timbermaw Tunic",
+     "source": "Crafted by"
+    },
+    {
+     "name": "Savage Gladiator Chain",
+     "source": "Gorosh the Dervish"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bands of The Five Thunders",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Blackmist Armguards",
+     "source": "The Beast"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Fists of The Five Thunders",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Bloodmail Gauntlets",
+     "source": "Scholomance"
+    },
+    {
+     "name": "Skyfury Gauntlets",
+     "source": "Reward from the quest The Darkreaver Menace"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Girdle of The Five Thunders",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Belt of the Archmage",
+     "source": "Crafted by"
+    },
+    {
+     "name": "Windseeker's Belt",
+     "source": "Sold by Pix Xizzix"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Pristine Scorpid Leggings",
+     "source": "Crafted by"
+    },
+    {
+     "name": "Ironfeather Leggings",
+     "source": "Crafted by"
+    },
+    {
+     "name": "Bloodmail Legguards",
+     "source": "Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Bloodmail Boots",
+     "source": "Scholomance"
+    },
+    {
+     "name": "Treads of The Five Thunders",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Greaves of Withering Despair",
+     "source": "High Interrogator Gerstahn"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Don Julio's Band",
+     "source": "Sold by Thanthaldis Snowgleam"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Channeler's Ring",
+     "source": "Sold by Pix Xizzix"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Blackhand's Breadth",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    },
+    {
+     "name": "Hand of Justice",
+     "source": "Emperor Dagran Thaurissan"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Weakness Analyzer",
+     "source": "Sold by Pix Xizzix"
+    },
+    {
+     "name": "Hand of Justice",
+     "source": "Emperor Dagran Thaurissan"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "The Unstoppable Force",
+     "source": "Sold by Thanthaldis Snowgleam"
+    },
+    {
+     "name": "Flameslash Crescent",
+     "source": "Impaan the Imprisoner"
+    },
+    {
+     "name": "Hammer of Thundering Hooves",
+     "source": "Thunderhoof"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Totem of the Storm",
+     "source": "World drop"
+    },
+    {
+     "name": "Totem of Rage",
+     "source": "Magmus"
+    },
+    {
+     "name": "Totem of the Storm",
+     "source": "Sold by Pix Xizzix"
+    }
+   ]
+  }
+ ]
+}

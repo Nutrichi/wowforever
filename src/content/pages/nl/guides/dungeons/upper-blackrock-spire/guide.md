@@ -13,6 +13,8 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "guide"
 ---
+> **Update 18 november:** sinds de hotfixes van 17 november hebben de monsters in Upper Blackrock Spire weer de bedoelde Health en schade. Door een bug waren ze veel te zwak, dus neem een volle, oplettende groep mee. [Meer in onze post](/nl/news/upper-blackrock-spire-gets-harder-after-a-bug-fix/).
+
 Deze gids volgt de dungeon zoals hij in Classic was. Upper Blackrock Spire is ook in Forever een dungeon voor 10 spelers; of de dungeon zelf verandert, heeft Blizzard niet gezegd.
 
 ## De weg erheen

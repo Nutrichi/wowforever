@@ -20,7 +20,7 @@ The change came with the weekly maintenance, the rest of the hotfixes of 16 Nove
 
 > This change results in no difference for Priest solo play.
 
-Dark Inspiration also no longer stacks when a party has more than one Shadow Priest. The [Shadow Priest guide](/guides/shadow-priest/) has the new numbers.
+Dark Inspiration also no longer stacks when a party has more than one Shadow Priest. The [Shadow Priest guide](/classes/priest/shadow/) has the new numbers.
 
 ## Windfury Totem and Warriors
 

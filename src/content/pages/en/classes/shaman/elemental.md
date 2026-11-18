@@ -1,0 +1,179 @@
+---
+title: "Elemental Shaman guide for WoW Forever"
+metaTitle: "WoW Forever Elemental Shaman: build, Lightning Overload, totems, mana"
+description: "The Elemental Shaman in WoW Forever: the level 60 build, Call of Thunder and Lightning Overload, the rotation, totems, mana, stats and races."
+short: "Elemental Shaman"
+updated: 2026-11-07
+lang: en
+faq:
+  - q: "Is Elemental Shaman good in WoW Forever?"
+    a: "Yes, once it gets going. The spec starts slow, but deals good damage to one target and to groups, and brings totems that buff the whole raid. The weak points are mana and a lack of crowd control."
+  - q: "What is new for the Elemental Shaman in Forever?"
+    a: "Call of Thunder and Lightning Overload as talents, Fire Nova as its own spell around your fire totem, totems that work for the whole raid, Totemic Call, the Call spells that drop four totems at once, and Improved Ghost Wolf indoors."
+  - q: "What is the Elemental Shaman rotation?"
+    a: "Keep a fire totem down, pull with Lightning Bolt, cast Flame Shock and keep it up, and fill with Lightning Bolt. On groups, add Fire Nova and Chain Lightning."
+  - q: "How does an Elemental Shaman keep their mana up?"
+    a: "Spend every Clearcasting proc from Elemental Focus, take Convection, pick up Mindfulness in the Restoration tree when you have spare points, keep Mana Spring Totem down and carry mana potions. Spirit on gear is your main regeneration."
+  - q: "Which stats does an Elemental Shaman need?"
+    a: "Spell damage first, then critical strike chance, then hit as you get closer to level 60. Intellect and Spirit keep your mana up. Haste speeds up your casts but makes you spend mana faster."
+  - q: "Which race is best for an Elemental Shaman?"
+    a: "Dwarf is the only Alliance Shaman. On the Horde, Orc is the strongest choice thanks to Blood Fury, and Windshaper Skyborne gets 2% haste."
+  - q: "Is there a level 60 build?"
+    a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
+sources:
+  - name: "Wowhead, talent builds"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/elemental/talent-builds-pve-dps"
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/classes/shaman/elemental/"
+---
+> **Update 4 November:** the builds and talents below follow the new trees from the development notes of 2 November, more in [our post](/news/shamans-lose-lava-burst-before-the-launch/).
+
+The Elemental Shaman in WoW Forever fights at range with lightning and fire. The spec starts slow, but once Call of Thunder and Lightning Overload are in your build, the big critical hits and the extra Lightning Bolts from Lightning Overload stack up fast. Totems make you welcome in every group. This guide covers the level 60 build, the key talents, the rotation, totems, mana, stats and races.
+
+| | |
+|---|---|
+| Role | Ranged damage, single target and groups |
+| Build at level 60 | 31/4/16 |
+| Key talents | Elemental Focus, Trial by Fire, Earthbound, Call of Thunder, Lightning Overload |
+| Strength | Good damage on groups, raid-wide totems, a lot of utility |
+| Weakness | Mana, no hard crowd control, totem positioning |
+| Other Shaman guides | [Enhancement Shaman](/classes/shaman/enhancement/), [Restoration Shaman](/classes/shaman/restoration/), [Shaman leveling](/classes/shaman/leveling/), [Shaman level build](/leveling/shaman/) |
+
+## Strengths and weaknesses
+
+**Damage on groups.** Magma Totem and Fire Nova, now its own spell that bursts out of your active fire totem, make area damage easy. Chain Lightning adds to it.
+
+**Group buffs.** Totems give stats, Windfury to weapons and resistances. In Forever they work for the whole raid, not only your party.
+
+**Utility.** Purge removes an enemy buff, Earth Shock interrupts, and you cure poison and disease. With Improved Ghost Wolf you move fast in combat, indoors too.
+
+**Mana.** Shamans burn through mana, and Elemental more than most: you keep casting for damage and reach the best mana talents late. Until your gear catches up, this is the main brake on the spec.
+
+**Little crowd control.** No hard crowd control. Earthbind Totem slows, and with Earthbound it roots, but it drops at your feet.
+
+**Positioning.** Windfury Totem must reach the melee, your stat totems the group, and Magma Totem the enemies you hit with Fire Nova.
+
+## Builds for level 60
+
+Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+### Raid build, 31/4/16
+
+31 points in Elemental, 4 in Enhancement and 16 in Restoration. [Open the raid build in the talent calculator](/talents/shaman/?t=5500331013001351-04-053150001001).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/shaman/?t=5500331023001351-05500001-053).
+
+| Talent | Points |
+|---|---|
+| **Convection** | 5/5 |
+| **Concussion** | 5/5 |
+| **Elemental Alacrity** | 3/3 |
+| **Call of Flame** | 3/3 |
+| **Elemental Focus** | 1/1 |
+| **Trial by Fire** | 1/2 |
+| **Eye of the Storm** | 3/3 |
+| **Call of Thunder** | 1/1 |
+| **Lightning Overload** | 3/3 |
+| **Elemental Fury** | 5/5 |
+| **Lightning Mastery** | 1/1 |
+| **Thundering Strikes** | 4/5 |
+| **Tidal Focus** | 5/5 |
+| **Mindfulness** | 3/3 |
+| **Natural Grace** | 1/3 |
+| **Totemic Focus** | 5/5 |
+| **Water Shield** | 1/1 |
+| **Mana Tide Totem** | 1/1 |
+
+### Leveling build, 19/32/0
+
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/shaman/?t=45300310201-053030310051012251). The [Shaman level build](/leveling/shaman/) gives the talent for every level.
+
+### PvP build, 33/17/1
+
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/shaman/?t=5500331003121351-2502020130002-01).
+
+## What the key talents do
+
+| Talent | What it does in Forever |
+|---|---|
+| **Convection** | At 3/5: Shocks, Lightning Bolt and Chain Lightning cost 6% less mana |
+| **Concussion** | Lightning Bolt, Chain Lightning and Earth Shock deal 5% more damage |
+| **Elemental Alacrity** | Lightning Bolt and Chain Lightning cast 0.5 seconds faster |
+| **Call of Flame** | Fire totems, Flame Shock and Fire Nova deal 15% more damage, and Flame Shock lasts 9 seconds longer |
+| **Elemental Focus** | 10% chance after a damage spell that your next damage spell costs no mana |
+| **Trial by Fire** | At 2/2: Fire Nova deals 20% more damage with a 4 seconds shorter cooldown, and Magma Totem lasts 20 seconds longer |
+| **Eye of the Storm** | 70% chance that damage does not push back Lightning Bolt and Chain Lightning |
+| **Earthbound** | Earthbind Totem roots nearby enemies for 5 seconds when you drop it |
+| **Call of Thunder** | 5% more critical strike chance for Lightning Bolt and Chain Lightning |
+| **Lightning Overload** | At 3/3: 30% chance that Lightning Bolt and Chain Lightning cast a second copy for half damage, free and without threat |
+| **Elemental Fury** | At 1/5: 20% more critical strike damage for your fire, frost and nature spells and your Searing and Magma Totems |
+
+Lightning Overload is the talent that makes the spec fun in Forever: the extra spell costs you nothing. Elemental Fury grows with every point you add.
+
+## Rotation
+
+### One target
+
+1. Keep Searing Totem down. Be in combat first, so the totem does not waste time.
+2. Pull with Lightning Bolt.
+3. Cast Flame Shock and keep it on the target.
+4. Fill with Lightning Bolt.
+
+### Groups
+
+1. Keep Magma Totem down in range of the enemies.
+2. Pull with Lightning Bolt, then Flame Shock.
+3. Cast Fire Nova whenever it is off cooldown.
+4. Cast Chain Lightning as long as your mana allows.
+
+## Mana
+
+1. **Clearcasting** from Elemental Focus: always spend it, even on a spell that is not ideal at that moment.
+2. **Convection** saves a lot over a full fight, more so as your mana pool grows.
+3. **Mindfulness**, 3 points early in the Restoration tree, keeps 50% of your mana regeneration going while you cast. Worth it once you have spare points.
+4. **Mana Spring Totem** in your Water Totem slot, and **mana potions** in your bags.
+5. **Water Shield**, deeper in the Restoration tree, restores mana on critical hits. It gives no passive mana in Forever.
+
+## Totems and movement
+
+- **Call of the Elements** and the other Call spells drop a saved set of four totems with one button. They have a cast time.
+- **Totemic Recall** takes your totems back for a little mana. **Totemic Call** brings your active totems to where you stand, with a 30 second cooldown.
+- **Windfury Totem** is the best melee buff in the game. Without the party restriction, it works for the whole raid.
+- **Tremor Totem** removes fear, sleep and charm from allies in range. Good timing saves runs.
+- **Poison Cleansing Totem** and **Disease Cleansing Totem** remove one effect per pulse.
+- **Ghost Wolf** with Improved Ghost Wolf is instant and works indoors, so you can reposition in a fight. Shifting in and out costs a global cooldown.
+
+Only drop the totems you and your group need, and agree with other Shamans who brings what.
+
+## Mouseover casting
+
+Mouseover casting is built into Forever. Turn it on in Options, Combat: your spells then go to the unit under your mouse, frames included, while you keep your own target. That way you Purge or cure poison without losing your damage target. Click Casting in the Keybindings menu gives each mouse button its own spell.
+
+## Stats and gear
+
+Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
+
+- **Spell damage**: your main damage stat, and not on every piece of gear.
+- **Critical strike chance**: every critical hit is worth more mana, and Elemental Fury makes them hit harder.
+- **Hit**: less important early, but a missed spell wastes damage and mana. A high priority near level 60.
+- **Intellect**: a bigger mana pool and more spell critical strike chance.
+- **Spirit**: your main mana regeneration in Forever.
+- **Haste**: faster casts and global cooldown, but not faster Flame Shock ticks, and you spend mana faster.
+
+**Armor.** Cloth, leather or mail, whatever has the right stats: a lighter armor type has no penalty in Forever. Dungeons and Leatherworking give good leveling gear.
+
+**Weapon.** As much spell damage as possible, then Intellect and hit. A one-handed weapon with a shield is usually best, but a better staff is fine too.
+
+**Totems.** The relic slot of the Shaman. Still rare; look for one that helps your mana.
+
+## Races and professions
+
+| Faction | Race | Why |
+|---|---|---|
+| Alliance | Dwarf | The only Alliance Shaman, with 1% hit from Artisan's Precision |
+| Horde | Orc | Blood Fury for a burst window, the strongest choice |
+| Horde | Troll | Survival abilities and Berserking |
+| Horde | Tauren | Defensive racials, nothing for damage |
+| Horde | Windshaper Skyborne | 2% more spell and melee haste |
+
+**Leatherworking** makes well-statted gear while you level, with spell power, which is rare early on. **Engineering** makes strong trinkets and gadgets. **Enchanting** makes a strong totem early, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=249398"><img class="wf-wh__icon" src="/wh/spell_shaman_totemrecall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Polished Driftwood Icon</a>. More about groups in our [dungeon guides](/guides/dungeons/).

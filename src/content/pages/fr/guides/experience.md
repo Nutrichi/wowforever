@@ -39,6 +39,8 @@ L'expérience dans WoW Forever fonctionne en grande partie comme dans Classic, a
 
 ## Comment fonctionne l'expérience
 
+### Comment fonctionne l'expérience
+
 Vous gagnez de l'expérience avec les quêtes, les kills, l'exploration et les donjons. Avec assez d'expérience, vous passez au niveau suivant, jusqu'au plafond de 60. Là, l'expérience s'arrête.
 
 La barre d'expérience en bas de l'écran montre où vous en êtes. Survolez-la pour voir votre expérience actuelle et ce qu'il vous manque. Chaque gain apparaît aussi dans le chat.
@@ -47,7 +49,7 @@ La barre d'expérience en bas de l'écran montre où vous en êtes. Survolez-la 
 
 <img src="/guides/experience/experience-gained.png" alt="La ligne de chat Experience gained: 575, une capture d'écran de la bêta de World of Warcraft: Forever" width="204" height="22" loading="lazy">
 
-## Expérience par niveau
+### Expérience par niveau
 
 Chaque niveau demande plus d'expérience que le précédent. Au total, il faut 4 084 700 points pour atteindre le niveau 60. En septembre, un article affirmait que Forever en demandait beaucoup moins, mais Blizzard [l'a démenti](/fr/news/wowhead-retracts-experience-curve-story/) : les montants sont exactement ceux de Classic.
 
@@ -114,7 +116,9 @@ Chaque niveau demande plus d'expérience que le précédent. Au total, il faut 4
 | 59 | 209 800 | 3 874 900 |
 | 60 | - | 4 084 700 |
 
-## Quêtes
+## Quêtes et ennemis tués
+
+### Quêtes
 
 Une quête donne de l'expérience selon son niveau, son type et la difficulté de ses objectifs. Le journal de quêtes affiche le montant avant que vous l'acceptiez. Les quêtes aux objectifs lents ou difficiles paient en général plus que d'autres du même niveau.
 
@@ -140,7 +144,7 @@ Pour les quêtes plus de 5 niveaux sous le vôtre, l'expérience baisse de 10 à
 
 **Les quêtes répétables** ont un marqueur bleu au lieu de jaune. La plupart ne donnent pas d'expérience, faites-les donc seulement pour les autres récompenses.
 
-## Kills
+### Kills
 
 Les monstres donnent de l'expérience selon leur niveau par rapport au vôtre et selon leur type. Les monstres proches de votre niveau offrent le meilleur équilibre entre vitesse et expérience. Les monstres bien plus bas donnent peu, les bien plus hauts prennent trop de temps.
 
@@ -152,15 +156,17 @@ Les barres de nom utilisent les mêmes couleurs que le journal de quêtes. Les m
 
 <img src="/guides/experience/elite-stitches.png" alt="Le portrait de Stitches avec le dragon doré d'un élite, une capture d'écran de la bêta de World of Warcraft: Forever" width="238" height="94" loading="lazy">
 
-### Tag et crédit du kill
+#### Tag et crédit du kill
 
 Seul le premier joueur ou groupe qui touche un monstre, avec des dégâts ou un affaiblissement, reçoit l'expérience. Un monstre tagué par quelqu'un d'autre a une barre de nom grise. En groupe, chaque membre vivant et à proximité reçoit le crédit, il n'est donc pas nécessaire que chacun touche chaque monstre.
 
-### Farm en zone
+#### Farm en zone
 
 Rassembler un groupe de monstres et l'abattre avec des sorts de zone peut aller vite au bon endroit. Blizzard a rendu la méthode moins efficace dans Forever, surtout pour les Mages, réputés pour cela dans Classic. Elle marche encore un peu avec les bons sorts, le bon équipement ou de l'aide. Il faut un moyen de survivre au groupe ou de le tenir à distance avec des immobilisations, des ralentissements et des étourdissements, beaucoup de monstres et peu de joueurs en concurrence.
 
-## Donjons
+## Donjons, exploration et groupes
+
+### Donjons
 
 L'expérience des donjons a changé plusieurs fois pendant la bêta. En septembre, Blizzard a [déplacé l'expérience des kills vers les quêtes](/fr/news/wow-forever-dungeon-experience-changes/) : les monstres donnaient peu, les quêtes de donjon beaucoup. Le 1er octobre, l'expérience en plus des quêtes de donjon a été [réduite de 50 %](/fr/news/dungeon-quests-give-50-percent-less-bonus-experience/). Une semaine plus tard, les monstres de donjon ont reçu [20 % d'expérience en plus](/fr/news/dungeon-kills-give-20-percent-more-experience/), et un bug qui basait chaque kill sur le niveau le plus haut du groupe a été corrigé. Après le lancement, un hotfix du 8 novembre a [augmenté de 50 % l'expérience des monstres de donjon](/fr/news/dungeon-enemies-give-50-percent-more-experience/), à 60 % des valeurs de Classic Era. Blizzard se dit satisfait de ce rythme. Depuis le 13 novembre, un monstre insignifiant pour un seul membre du groupe ne rapporte d'expérience à personne, [plus dans notre post](/fr/news/a-grey-mob-for-one-player-gives-the-group-no-xp/).
 
@@ -176,17 +182,19 @@ Un joueur bien plus haut dans le groupe coûte beaucoup d'expérience. Un niveau
 
 </div>
 
-## Exploration
+### Exploration
 
 Entrer dans une nouvelle zone pour la première fois donne un peu d'expérience et la révèle sur votre carte. Le montant est faible, un détour n'en vaut donc pas la peine, mais cela s'additionne pendant vos déplacements pour les quêtes.
 
 <img src="/guides/experience/discovered.png" alt="Le message Discovered: Vul'Gol Ogre Mound, une capture d'écran de la bêta de World of Warcraft: Forever" width="360" height="40" loading="lazy">
 
-## Groupes
+### Groupes
 
 En groupe, l'expérience par kill dépend de la taille du groupe et du niveau de ses membres. Un groupe plus grand signifie moins par joueur, et un membre bien plus haut la réduit fortement. En échange, vous tuez plus vite et finissez plus facilement les quêtes. Les récompenses de quête ne changent pas en groupe, mais les objectifs de quête ne comptent pas dans un groupe de raid.
 
-## Expérience reposée
+## Expérience reposée et camps
+
+### Expérience reposée
 
 L'XP reposée double l'expérience des kills jusqu'à épuisement. Les quêtes et l'exploration n'ont pas ce bonus.
 
@@ -203,7 +211,7 @@ Vous l'accumulez dans une auberge, une capitale ou dans le Cozy Sleeping Bag. Vo
 
 **Well Rested** augmente la vitesse et le plafond du même pourcentage. Le remplissage prend donc toujours environ 10 jours, mais la réserve contient jusqu'à un cinquième de plus. **Talented**, le talent Legacy suivant, donne votre premier point de talent jusqu'à cinq niveaux plus tôt. Les deux sont dans le [calculateur Legacy](/fr/talents/legacy/).
 
-## Camps, nourriture et sac de couchage
+### Camps, nourriture et sac de couchage
 
 Forever ajoute trois bonus qui se cumulent entre eux et avec l'XP reposée.
 

@@ -24,11 +24,11 @@ Hunter pets and the Warlock's Voidwalker do not hold up as well as tanks as Bliz
 
 In an interview, principal game designer Kris Zierhut explained that the team actually lowered the health of both kinds of pets. The big difference with Classic Era 1.15 is that pets in Forever take part of their stats from their master, so they grow along with your gear. Someone on the team is now checking the health of the Voidwalker.
 
-Leveling with a pet: our [Hunter leveling guide](/guides/hunter-leveling/) and [Warlock leveling guide](/guides/warlock-leveling/).
+Leveling with a pet: our [Hunter leveling guide](/classes/hunter/leveling/) and [Warlock leveling guide](/classes/warlock/leveling/).
 
 ## Affliction: Wrack and your DoTs
 
-Right now an Affliction Warlock does best by channeling <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> all the time. Casting <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> next to it does not pay off. Blizzard will change that so those damage over time spells are always worth casting together with Wrack, without changing the total damage of Affliction. More in the [Affliction Warlock guide](/guides/affliction-warlock/).
+Right now an Affliction Warlock does best by channeling <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> all the time. Casting <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> and <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> next to it does not pay off. Blizzard will change that so those damage over time spells are always worth casting together with Wrack, without changing the total damage of Affliction. More in the [Affliction Warlock guide](/classes/warlock/affliction/).
 
 ## Enhancement: Strength first
 
@@ -36,7 +36,7 @@ Enhancement Shamans found that Intellect and spell power beat Strength and attac
 
 > Please note: Enhancement Shaman players who are leveling up will want to collect Strength and Attack Power gear from now on.
 
-So if you level an [Enhancement Shaman](/guides/enhancement-shaman/), keep the Strength gear you find. That matches what Zierhut said in [the interview about the Shaman talents](/news/shaman-talents-may-change-again-early-next-year/).
+So if you level an [Enhancement Shaman](/classes/shaman/enhancement/), keep the Strength gear you find. That matches what Zierhut said in [the interview about the Shaman talents](/news/shaman-talents-may-change-again-early-next-year/).
 
 ## More Tuesdays
 

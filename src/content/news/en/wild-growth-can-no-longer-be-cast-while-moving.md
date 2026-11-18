@@ -23,4 +23,4 @@ Restoration Druids lose one of their best tricks. Since a hotfix on 11 November,
 
 Why Wild Growth could be cast on the move at launch, Blizzard does not say. It looked like a bug, and it is gone now. The heal itself gets stronger as your gear improves: the more spell power you have, the more the doubled coefficient adds. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a> still makes Wild Growth instant, [since 10 November](/news/racial-vendor-mounts-become-bind-on-pickup/).
 
-The build, the macros and the rotation are in our [Restoration Druid guide](/guides/restoration-druid/), now with this change.
+The build, the macros and the rotation are in our [Restoration Druid guide](/classes/druid/restoration/), now with this change.

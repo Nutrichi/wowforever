@@ -43,4 +43,4 @@ Opgespaarde charges van Reckoning kunnen bewaard worden voor het begin van een g
 
 ![Een Paladin met een schild met de leeuw van de Alliance staat op een heuvel in The Barrens, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-10-21-wow-forever-paladin-in-the-barrens.jpg)
 
-Hoe de Protection Paladin zich op level 60 verhoudt tot de Protection Warrior en de Feral Druid, is nog niet bekend. De beta stopt op level 30, en Blizzard heeft niet gezegd of er nog wijzigingen voor de Paladin volgen. Een talentbuild van 1 tot 60 staat in de [levelgids voor de Paladin](/nl/guides/paladin-leveling/).
+Hoe de Protection Paladin zich op level 60 verhoudt tot de Protection Warrior en de Feral Druid, is nog niet bekend. De beta stopt op level 30, en Blizzard heeft niet gezegd of er nog wijzigingen voor de Paladin volgen. Een talentbuild van 1 tot 60 staat in de [levelgids voor de Paladin](/nl/classes/paladin/leveling/).

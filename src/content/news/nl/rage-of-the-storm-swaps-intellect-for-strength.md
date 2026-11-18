@@ -32,4 +32,4 @@ Blizzard [kondigde vorige week aan](/nl/news/hunter-and-warlock-pets-get-tougher
 
 De knots is de beloning van <a href="https://www.wowhead.com/forever/quest=79442">The Tempest's Weapons</a> voor de Horde en <a href="https://www.wowhead.com/forever/quest=96016">The Tempest's Weapons</a> voor de Alliance, de laatste stap van de keten die we [tijdens de beta](/nl/news/shamans-earn-a-weapon-with-a-level-30-quest-chain/) beschreven. Heb je hem al, dan krijgt jouw exemplaar de nieuwe stats.
 
-De [wijzigingen voor Warlocks en Hunters](/nl/news/wrack-makes-affliction-dots-tick-twice-as-fast/) volgden later die dag. Onze [Enhancement Shaman-gids](/nl/guides/enhancement-shaman/) volgt de nieuwe stats.
+De [wijzigingen voor Warlocks en Hunters](/nl/news/wrack-makes-affliction-dots-tick-twice-as-fast/) volgden later die dag. Onze [Enhancement Shaman-gids](/nl/classes/shaman/enhancement/) volgt de nieuwe stats.

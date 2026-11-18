@@ -47,7 +47,8 @@ const racesHref = pagePath('guides/races-and-classes', locale);
 
 const results = classOrder.map((id) => {
   const klass = pickerClasses[id];
-  const guideKey = `guides/${id}-leveling`;
+  // Since 18 November 2026 a class's leveling guide lives under /classes/<class>/leveling/; older ones still under /guides/.
+const guideKey = pages.some((page) => page.key === `classes/${id}/leveling`) ? `classes/${id}/leveling` : `guides/${id}-leveling`;
   return {
     ...klass,
     color: classColors[id]?.color ?? '#e0b77a',

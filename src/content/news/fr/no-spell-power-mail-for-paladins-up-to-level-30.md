@@ -36,4 +36,4 @@ Un Paladin qui ne veut pas acheter ses améliorations à l’Hôtel des ventes d
 
 ![Une fenêtre de marchand avec des plans de Blacksmithing pour des ceintures, casques et chemises en mailles à 30 chacun, une capture de la beta de World of Warcraft: Forever](../../../assets/posts/2026-10-22-wow-forever-blacksmithing-plans.jpg)
 
-L’équipement fabriqué pour les bas niveaux est une nouveauté de Forever. On ne sait pas si Blizzard ajoutera des mailles à spell power avant le lancement. La beta ferme le vendredi 23 octobre. Un build de talents de 1 à 60 se trouve dans le [guide de leveling du Paladin](/fr/guides/paladin-leveling/).
+L’équipement fabriqué pour les bas niveaux est une nouveauté de Forever. On ne sait pas si Blizzard ajoutera des mailles à spell power avant le lancement. La beta ferme le vendredi 23 octobre. Un build de talents de 1 à 60 se trouve dans le [guide de leveling du Paladin](/fr/classes/paladin/leveling/).

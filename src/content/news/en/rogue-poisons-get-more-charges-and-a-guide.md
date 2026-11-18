@@ -7,7 +7,7 @@ lang: en
 image: ../../../assets/posts/2026-10-27-wow-forever-poisons-shady-dealer.jpg
 imageAlt: "Jasper Fel, Shady Dealer in Stormwind, who sells poison reagents, a screenshot from the beta of World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/poisons/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/rogue/poisons/"
 tags: ["forever", "classes"]
 featured: false
 draft: false
@@ -38,4 +38,4 @@ Poisons work like a profession. Every poison you make gives a skill point, with 
 
 ![Osborne the Night Man, Rogue trainer in Stormwind, with the poison ranks and the skill they require, a screenshot from the beta of World of Warcraft: Forever](../../../assets/posts/2026-10-27-wow-forever-poisons-rogue-trainer.jpg)
 
-The [Rogue Poisons guide](/guides/poisons/) has both chains step by step, with the weak spot of each tough mob, the levels of all ranks and the reagents. The [Rogue leveling guide](/guides/rogue-leveling/) now links to it.
+The [Rogue Poisons guide](/classes/rogue/poisons/) has both chains step by step, with the weak spot of each tough mob, the levels of all ranks and the reagents. The [Rogue leveling guide](/classes/rogue/leveling/) now links to it.

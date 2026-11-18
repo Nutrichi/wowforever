@@ -76,7 +76,7 @@ Click Casting asigna hechizos a clics o combinaciones de teclas sobre tus marcos
 
 ![La ventana Click Cast Bindings, con Mouseover Cast, las asignaciones por defecto y una asignación propia vacía, una captura de World of Warcraft: Forever](../../../../assets/posts/2026-10-30-wow-forever-click-cast-bindings.jpg)
 
-Lanzar con el ratón encima para todos tus hechizos está en Options, Combat: tus hechizos van entonces a la unidad bajo el ratón, sin perder tu objetivo. Más en nuestras guías de sanadores, como [Restoration Shaman](/es/guides/restoration-shaman/).
+Lanzar con el ratón encima para todos tus hechizos está en Options, Combat: tus hechizos van entonces a la unidad bajo el ratón, sin perder tu objetivo. Más en nuestras guías de sanadores, como [Restoration Shaman](/es/classes/shaman/restoration/).
 
 ## Qué addons siguen funcionando
 

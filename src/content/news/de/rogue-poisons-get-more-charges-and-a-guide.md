@@ -7,7 +7,7 @@ lang: de
 image: ../../../assets/posts/2026-10-27-wow-forever-poisons-shady-dealer.jpg
 imageAlt: "Jasper Fel, Shady Dealer in Stormwind, der Reagenzien für Gifte verkauft, ein Screenshot aus der Beta von World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/poisons/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/rogue/poisons/"
 tags: ["forever", "classes"]
 manual: true
 featured: false
@@ -39,4 +39,4 @@ Poisons funktionieren wie ein Beruf. Jedes hergestellte Gift gibt einen Fertigke
 
 ![Osborne the Night Man, Rogue-Lehrer in Stormwind, mit den Rängen der Poisons und der verlangten Fertigkeit, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../assets/posts/2026-10-27-wow-forever-poisons-rogue-trainer.jpg)
 
-Der [Guide zu den Poisons](/de/guides/poisons/) zeigt beide Reihen Schritt für Schritt, mit der Schwäche jedes harten Gegners, den Levels aller Ränge und den Reagenzien. Der [Leveling-Guide für den Rogue](/de/guides/rogue-leveling/) verlinkt jetzt darauf.
+Der [Guide zu den Poisons](/de/classes/rogue/poisons/) zeigt beide Reihen Schritt für Schritt, mit der Schwäche jedes harten Gegners, den Levels aller Ränge und den Reagenzien. Der [Leveling-Guide für den Rogue](/de/classes/rogue/leveling/) verlinkt jetzt darauf.

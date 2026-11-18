@@ -106,7 +106,9 @@ Und was neu ist, laut Jones:
 
 Im Oktober 2026 ergänzte Clay Stone, dass neue Raid-Tiers möglichst wenig Stärke bringen sollen, damit Ausrüstung länger hält, und dass die Welt über Berufe und das Legacy-System in die Breite wächst ([mehr](/de/news/raid-tiers-will-add-as-little-power-as-possible/)).
 
-## Termine
+## Termine und Roadmap
+
+### Termine
 
 Alle Termine stammen von Blizzard. Die Zeiten sind pazifische Zeit, mit belgischer Zeit, wo es darauf ankommt.
 
@@ -127,22 +129,22 @@ Alle Termine stammen von Blizzard. Die Zeiten sind pazifische Zeit, mit belgisch
 | Februar 2027 | Collector's Editions, die ab dem 24. September 2026 bestellt wurden, werden geliefert. |
 | 31. Dezember 2027 | Letzter Tag, um einen Code der Collector's Edition für ein mögliches Battle.net-Guthaben auf frühere digitale Käufe einzulösen. |
 
-## Die Roadmap für das erste Jahr
+### Die Roadmap für das erste Jahr
 
 Blizzard fasste das erste Jahr als „fast-paced production for a slow-paced game“ zusammen. Inhalte und Zeitplan können sich noch ändern, und Funktionen entwickeln sich mit dem Feedback der Spieler weiter, so Blizzard.
 
-### Herbst 2026
+#### Herbst 2026
 
 - Beta vom 17. September bis 23. Oktober, zuerst bis Stufe 20 und später bis Stufe 30.
 - Early Name Reservation und Charaktererstellung ab dem 27. Oktober.
 - Launch am 4. November.
 
-### Winter 2026
+#### Winter 2026
 
 - Am 9. Dezember öffnen die Raids: Barrow Deeps für 10 Spieler, Hyjal Summit für 20 Spieler und Onyxia's Lair für 40 Spieler.
 - WoW Forever Hardcore erscheint. Die Roadmap setzt es in denselben Winter, nach den Raids; Blizzard nennt keinen Tag.
 
-### Frühling 2027
+#### Frühling 2027
 
 - 2 neue Raids, für 10 und 20 Spieler.
 - 2 neue Dungeons.
@@ -150,7 +152,7 @@ Blizzard fasste das erste Jahr als „fast-paced production for a slow-paced gam
 - Eine neue legendäre Questreihe.
 - Eine neue PvP-Saison.
 
-### Sommer 2027
+#### Sommer 2027
 
 - Ein überarbeiteter legendärer Raid und ein neuer Raid.
 - Mehr Inhalte in der Welt.
@@ -160,15 +162,17 @@ Blizzard fasste das erste Jahr als „fast-paced production for a slow-paced gam
 
 Neue Inhalte folgen der Reihenfolge des ursprünglichen Spiels, daher sind die Raidgrößen von Anfang an gemischt: Hyjal Summit für 20 Spieler öffnet zusammen mit Onyxia's Lair für 40. Welche Raids 2027 genau kommen, ist noch nicht angekündigt.
 
-## Neue und überarbeitete Zonen
+## Zonen, Leveln und Reisen
+
+### Neue und überarbeitete Zonen
 
 Das Abenteuer umfasst die Eastern Kingdoms und Kalimdor, mit neuen Regionen, unvollendeten Ecken der ursprünglichen Welt und mehr als 1.000 neuen Quests von Stufe 1 bis 60. Blizzard zeigte auf der BlizzCon vier Regionen.
 
-### Zephras Isle, Stufe 1 bis 12
+#### Zephras Isle, Stufe 1 bis 12
 
 Die Startzone der Skyborne: eine abgelegene Insel am Himmel, deren Existenz nun bedroht ist. Der Stil ist klassisches Warcraft, mit einer Architektur nach dem Vorbild von Skywall. Wer dort spielen will, braucht das Skyborne Heroic Pack oder eine höhere Edition. Druids und Shamans der Horde können dort auf Level 5 ein Relikt bekommen, über die Quest Meddlesome Mages. Die Allianz kann diese Quest nicht annehmen, wie die Beta zeigt.
 
-### The Riverglades, etwa Stufe 30 bis 45
+#### The Riverglades, etwa Stufe 30 bis 45
 
 Ein neues Grenzland in den Eastern Kingdoms, mit Flüssen, Grasland, Handelswegen und verfallenen Burgen. Es gibt mehr als 150 neue Quests, neue Rufe und Belohnungen. Menschen, Orcs, Oger und kleine Gemeinschaften mit altem Groll leben dort; Blizzard nannte es „not a story about saving Azeroth, a story about living there“. Ein neutraler Goblinhafen bringt neue Reisewege, und die Zone bekommt einen eigenen Dungeon. Eine Weggabelung in Redridge Mountains, die früher in einer Sackgasse endete, führt jetzt dorthin. Spieler der Allianz treffen die Brotherhood of the Horse, die seit Warcraft II nicht mehr zu sehen war, Spieler der Horde einen Ogerclan; der Twilight's Hammer ist die Bedrohung, laut [einem Video von Blizzard](/de/news/a-five-minute-video-sums-up-what-changes/) vom 23. September. Das Black Market Auction House von Forever steht in Powderfuse Port, einem Goblin-Außenposten der Zone; siehe den [Guide zum BMAH](/de/guides/bmah/). Die Kurzgeschichte Cost of Honor vom 13. November spielt in Farholde Keep; siehe den [Beitrag zur Geschichte](/de/news/cost-of-honor-tells-the-past-of-the-riverglades/). Anreise, Orte und Quests stehen in unserem [Guide zu den Riverglades](/de/guides/riverglades/).
 
@@ -182,19 +186,19 @@ Ein neues Grenzland in den Eastern Kingdoms, mit Flüssen, Grasland, Handelswege
   </button>
 </figure>
 
-### Mount Hyjal, Leveln im Endgame
+#### Mount Hyjal, Leveln im Endgame
 
 Was nach der Niederlage von Archimonde geschah, einschließlich Darkwhisper Gorge. Mount Hyjal bietet Inhalte allein und in der Gruppe, neue Rufe, Quests und Belohnungen. Dort liegen der Raid Hyjal Summit und einer der drei Eingänge zu den Barrow Deeps. Es ist das Finale des Levelns. Dort liegt ein gemeinsames Lager von Horde und Allianz, am selben Ort gefangen und zu einem wackligen Frieden gezwungen.
 
-### Shen'dralas, eine neue Region
+#### Shen'dralas, eine neue Region
 
 Eine verborgene Region zwischen Mulgore und Desolace, verbunden mit den Shen'dralar, den Night Elves, die noch in Dire Maul leben, und mit Eldre'Thalas. Die Geschichte folgt einem Krieg zwischen den Zentaurenstämmen der Region und gibt neue Gründe, Maraudon und Razorfen Downs zu besuchen.
 
-### Die alte Welt in neuem Licht
+#### Die alte Welt in neuem Licht
 
 Associate Production Director Clay Stone sagte, der Kunststil von Classic sei zeitlos und werde nicht ersetzt. Stattdessen werden die bestehenden Effekte besser: fließende Flüsse, natürlicherer Nebel, Mondlicht zwischen den Bäumen und aufgewertete Umgebungen. Blizzard zeigte Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore und The Barrens. Die ursprünglichen Zonen bekommen außerdem neue Quests und Geheimnisse. Stärkerer Regen und Nebel folgen: Am 23. September zeigte Blizzard einen Regentag in Elwynn Forest, mit Effekten, die danach in die Beta kamen.
 
-## Leveln und Reisen
+### Leveln und Reisen
 
 Die Erfahrungskurve ändert sich nicht: Ein Charakter braucht für Stufe 60 genauso viel wie im ursprünglichen Classic, sagte Blizzard zu The Sun. Was sich ändert, ist die Herkunft dieser Erfahrung, denn die neuen Zonen fügen Wege hinzu, die das ursprüngliche Spiel nicht hatte. The Riverglades und Shen'dralas liegen in dem Abschnitt, in dem das Leveln langsamer wird, und Mount Hyjal liegt nahe an 60.
 
@@ -246,18 +250,20 @@ Jeder Raidboss lässt ein Chase Item fallen, sagte Blizzard in einem Interview m
 
 Die zwei neuen Raids verlangen kein Attunement; Onyxia's Lair behält seine Reihe aus Classic, pro Charakter. Blizzard plant derzeit einen wöchentlichen Reset für jeden Raid. Die Größen von 10, 20 und 40 Spielern liegen fest, statt mitzuwachsen, und die Schwierigkeit folgt nie dem Level oder der Ausrüstung, eine Gruppe kann einen Raid also in Ausrüstung und Level überholen.
 
-## Die Skyborne
+## Skyborne, Klassen und Volksfähigkeiten
+
+### Die Skyborne
 
 Die Skyborne sind ein neues Volk von Elfen mit elementarem Einschlag. Ihre schwebende Heimat Zephras Isle ist in ihrer Existenz bedroht, und ihre gemeinsame Abstammung hat zu sehr unterschiedlichen Vorstellungen von der Zukunft geführt. Die Skyborne sind nicht neutral: Bei der Charaktererstellung wählen Spieler eine Fraktion, und diese Wahl entscheidet über die zusätzliche Klasse. Untereinander heißen sie Shen'dorei. Die Wahl der Fraktion bindet die Skyborne der Horde außerdem an den Earthen Ring, mit einem neuen Gebiet in Mulgore, und die der Alliance an die Kirin Tor, jeweils mit Quests und Ruf, sagt Tim Jones.
 
-### High Order Skyborne, Alliance
+#### High Order Skyborne, Alliance
 
 - Folgen dem arkanen Erbe ihrer Vorfahren und den Ideen der Kirin Tor.
 - Klassen: Warrior, Hunter, Rogue, Druid und Mage.
 - Racials: Walk on Air, Read Leyline, Wind Blessed und Elemental Insight.
 - Sprachen: Common und Darnassian.
 
-### Windshaper Skyborne, Horde
+#### Windshaper Skyborne, Horde
 
 - Folgen elementaren Traditionen und reiten auf den elementaren Winden.
 - Klassen: Warrior, Hunter, Rogue, Druid und Shaman.
@@ -270,7 +276,7 @@ Druids der Skyborne haben eigene himmelblaue Bear-, Cat-, Travel- und Moonkin-Ge
 
 Für die Skyborne und Zephras Isle braucht es das Skyborne Heroic Pack für 29,99 Euro oder eine höhere Edition. Es ist das erste Mal, dass Blizzard ein spielbares Volk außerhalb einer Erweiterung verkauft. Der Zugang gilt nur für das World-of-Warcraft-Konto, für das das Pack gekauft wurde.
 
-## Klassen, Kombinationen und Racials
+### Klassen, Kombinationen und Racials
 
 Jede Klasse und Spezialisierung wird überarbeitet, mit neuen Fähigkeiten und neuen Talentbäumen. Klassen fühlen sich weiter einzigartig an, doch Talente wechseln von kleinen Boni von 1 oder 2 Prozent zu Entscheidungen mit echter Wirkung. Der Paladin bekommt ein neues Seal zum Tanken, mehr Gruppenheilung und neue Werkzeuge für Retribution. Twist of Light ersetzt das alte Seal Twisting, wie [der Klassenüberblick zum Paladin](/de/news/paladins-get-a-new-kind-of-seal-twisting/) zeigt. Es gibt insgesamt 51 Talentpunkte, wie in Classic.
 
@@ -280,7 +286,9 @@ Die neuen Kombinationen aus Volk und Klasse sind der Undead Paladin, der Dwarf S
 
 Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, und die Widerstands-Racials sind weg. Auch die Waffenspezialisierungen sind weg: [Menschen, Zwerge und Orcs bekommen einen Bonus auf kritische Treffer](/de/news/humans-dwarves-and-orcs-lose-their-weapon-racials/), der mit jeder Waffe wirkt. Die vollständige Tabelle der Völker und Klassen, mit jedem Racial pro Volk, steht unter [Classes](/de/classes/).
 
-## Neue Systeme
+## Neue Systeme, Legacy und Berufsvorteile
+
+### Neue Systeme
 
 - **Optionales Transmog.** Transmog gibt es, aber jeder Spieler entscheidet, ob er es sieht. Ist die Option aus, zeigt jeder seine echte Ausrüstung.
 - **HD- oder SD-Grafik.** Charaktere, Modelle und die Welt wechseln zwischen dem ursprünglichen Look und erneuerter Grafik, mit besserem Licht, Nebel und Wasser.
@@ -300,13 +308,13 @@ Auch die Racials wurden neu gestaltet. Jedes Volk hat jetzt vier Racials, und di
 - **Ein Sammelberuf um Level 3 oder 4.** Eine Quest gibt die Wahl zwischen einem Handbuch für Herbalism, Mining oder Skinning, das den Beruf allen lehrt, die ihn nicht haben und weniger als zwei tragen.
 - **Nichts soll verschwinden.** Das Team plant nichts wie das alte Naxxramas, das endgültig weg war.
 
-## Das Legacy-System
+### Das Legacy-System
 
 Das Leveln von 1 bis 60 ist das Herz von Classic, und das Legacy-System belohnt Spieler, die mehr als einen Charakter leveln. Legacy Challenges sind Ziele in sechs Kategorien: erkunden, Klassen leveln, Tradeskills steigern, PvP-Ränge erreichen, Rufe maximieren sowie Dungeons und Raids abschließen.
 
 Jede erfüllte Challenge gibt einen Legacy Point. Die Punkte gehen in einen Legacy-Baum mit drei Zweigen, und jeder Perk gilt für jeden Charakter des Kontos. Die meisten Perks sind passiv, einige werden aktiviert, und keiner gibt Kampfkraft. Ein Charakter der Stufe 38 auf der BlizzCon hatte 4 Punkte zu vergeben, und mehrere Knoten trugen den Hinweis „to be added in future patch content“. In einer späteren Woche der Beta bekam jeder Tester 16 Legacy-Punkte, um das System zu testen, bis zum Ende der Beta.
 
-### Adventure
+#### Adventure
 
 - Well Rested: Erholungs-XP baut sich 4 % schneller auf, und ihre Obergrenze liegt 4 % höher.
 - Talented: Talentpunkte beginnen auf Stufe 9 statt 10, weiterhin bis 51.
@@ -316,7 +324,7 @@ Jede erfüllte Challenge gibt einen Legacy Point. Die Punkte gehen in einen Lega
 - Field Medicine: Recently Bandaged hält 5 Sekunden kürzer, in der offenen Welt.
 - Frequent Flier: Flugrouten kosten 50 % weniger, und ihre Reittiere sind 20 % schneller.
 
-### Resourcefulness
+#### Resourcefulness
 
 - The Quick and the Dead: schneller im Tod, und hilfreiche Zauber kosten 1 Minute nach der Wiederbelebung oder bis zum Kampf nichts.
 - Reinforce: weniger Haltbarkeitsverlust beim Tod.
@@ -330,7 +338,7 @@ Der dritte Zweig enthält die Perks für Tradeskills; die stehen unter [Tradeski
 
 Neben dem Baum schaltet die Gesamtzahl der verdienten Punkte eine Reihe kosmetischer Belohnungen frei. Punkte für Perks auszugeben, bremst diese Reihe nicht. Bisher gezeigt wurden die Replica Ironforge Air Rifle, das Haustier [Spectral Bear Cub](/de/guides/pets/spectral-bear-cub/), ein Wappenrock mit dem Spectral Bear und das Reittier Reins of the Spectral Bear. Die Reihe öffnet sich bei 15, 25, 40 und 55 Punkten, das Reittier bei 55. Jede Aufgabe ist genau einen Punkt wert, und ein Klassenlehrer verlernt einen ganzen Baum für 10 Gold.
 
-## Perks der Tradeskills
+### Perks der Tradeskills
 
 Tradeskills bekommen ihre erste echte Überarbeitung. In Classic gab ein Tradeskill nur Rezepte; in Forever gibt jeder primäre Tradeskill dem Charakter, der ihn lernt, auch Perks, neben neuen und überarbeiteten Rezepten. Die Perks pro Tradeskill, wie auf Aufnahmen der BlizzCon zu sehen, stehen unter [Tradeskills](/de/tradeskills/). Die genauen Zahlen sind nicht endgültig, und der Sommer 2027 bringt eine weitere Runde Updates.
 
@@ -348,7 +356,9 @@ Hardcore kommt zu Forever, aber nicht zum Start. Blizzard sagte im Hardcore-Pane
 
 Zwei Dinge ändern sich, sobald er da ist. Das Spiel warnt Spieler vor einem World Refresh, damit sie zuerst einen sicheren Ort erreichen. Und ein Charakter, der stirbt, kann in jeden Modus außerhalb von Hardcore wechseln, statt auf einen PvE-Realm geschickt zu werden. Hardcore bekommt außerdem eigene Legacy-Herausforderungen und -Perks, und Blizzard sagte, das Team denke über Mak'gora-Turniere nach, ohne etwas zu bestätigen.
 
-## Editionen und Preise
+## Editionen, Preise und Forsaken Kingdom
+
+### Editionen und Preise
 
 Forever kostet nichts zusätzlich zu einem Abonnement für World of Warcraft oder Game Time. Der Battle.net Shop verkauft drei optionale digitale Editionen, der Blizzard Gear Store eine physische Collector's Edition für 150 Euro. Mit * markierte Gegenstände funktionieren im modernen World of Warcraft und in Forever, mit ** markierte nur in Forever, und keiner funktioniert in WoW Classic.
 
@@ -375,11 +385,11 @@ Forever kostet nichts zusätzlich zu einem Abonnement für World of Warcraft ode
 
 Die Cerulean Prideclaw ist ein Bodenreittier, die Reitfertigkeit muss also weiter im Spiel gekauft werden. Wohndeko funktioniert nur im Housing des modernen World of Warcraft, das Midnight voraussetzt.
 
-### Invite-A-Friend-Launchcodes
+#### Invite-A-Friend-Launchcodes
 
 Jede Edition enthält Codes, mit denen ein Freund Forever in der Launchwoche vom 4. bis 11. November 2026 ohne Abonnement oder Game Time spielen kann. Die Codes kommen ab dem 20. Oktober 2026 per E-Mail, und der Freund löst sie über Battle.net ein. Als Geschenk gekaufte Editionen enthalten keine Codes.
 
-### Die Collector's Edition
+#### Die Collector's Edition
 
 Die physische Collector's Edition kostet 150 Euro im Blizzard Gear Store. In Australien und Neuseeland verkaufen sie Händler. Sie enthält: Am 24. September kam eine neue Charge der englischen Version in den Verkauf, mit einer Grenze von einem Exemplar pro Haushalt im Gear Store. Bestellungen ab diesem Tag werden im Februar 2027 verschickt, frühere im November 2026, siehe [den Beitrag](/de/news/more-collectors-editions-go-on-sale/).
 
@@ -389,7 +399,7 @@ Die physische Collector's Edition kostet 150 Euro im Blizzard Gear Store. In Aus
 
 Der Beta-Zugang aus der Collector's Edition kam per E-Mail und galt nur während der Beta. Manche früheren digitalen Käufe können ein Battle.net-Guthaben bringen, wenn der Code der Collector's Edition bis zum 31. Dezember 2027 eingelöst wird. Nicht jedes Produkt zählt, laut einem Supportartikel von Blizzard.
 
-## Warcraft III Reforged: Forsaken Kingdom
+### Warcraft III Reforged: Forsaken Kingdom
 
 Die Geschichte von Forever beginnt in einer neuen Kampagne für Warcraft III. Forsaken Kingdom wurde am 12. September 2026 angekündigt und veröffentlicht. Sie folgt Sylvanas und dem Fall von Lordaeron, der Gründung der Undercity und dem ersten Forsaken Paladin, und sie führt direkt zu den Undead Paladins von Forever.
 

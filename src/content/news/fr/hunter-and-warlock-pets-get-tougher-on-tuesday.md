@@ -25,11 +25,11 @@ Les familiers des Hunters et le Voidwalker du Warlock ne tiennent pas aussi bien
 
 Dans une interview, le principal game designer Kris Zierhut a expliqué que l'équipe avait en fait baissé la vie des deux types de familiers. La grande différence avec Classic Era 1.15 : dans Forever, les familiers tirent une partie de leurs stats de leur maître, ils grandissent donc avec votre équipement. Quelqu'un de l'équipe vérifie maintenant la vie du Voidwalker.
 
-Pour monter de niveau avec un familier : notre [guide de leveling Hunter](/fr/guides/hunter-leveling/) et notre [guide de leveling Warlock](/fr/guides/warlock-leveling/).
+Pour monter de niveau avec un familier : notre [guide de leveling Hunter](/fr/classes/hunter/leveling/) et notre [guide de leveling Warlock](/fr/classes/warlock/leveling/).
 
 ## Affliction : Wrack et vos DoTs
 
-Aujourd'hui, un Warlock Affliction fait mieux en canalisant <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> en permanence. Lancer <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> et <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> à côté ne rapporte rien. Blizzard va changer cela pour que ces sorts de dégâts sur la durée valent toujours le coup avec Wrack, sans changer les dégâts totaux de l'Affliction. Plus dans le [guide du Warlock Affliction](/fr/guides/affliction-warlock/).
+Aujourd'hui, un Warlock Affliction fait mieux en canalisant <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> en permanence. Lancer <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> et <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> à côté ne rapporte rien. Blizzard va changer cela pour que ces sorts de dégâts sur la durée valent toujours le coup avec Wrack, sans changer les dégâts totaux de l'Affliction. Plus dans le [guide du Warlock Affliction](/fr/classes/warlock/affliction/).
 
 ## Enhancement : la Force d'abord
 
@@ -37,7 +37,7 @@ Les Shamans Enhancement ont découvert que l'Intelligence et la puissance des so
 
 > Please note: Enhancement Shaman players who are leveling up will want to collect Strength and Attack Power gear from now on.
 
-Si vous montez un [Shaman Enhancement](/fr/guides/enhancement-shaman/), gardez donc l'équipement avec de la Force que vous trouvez. Cela rejoint ce que Zierhut disait dans [l'interview sur les talents du Shaman](/fr/news/shaman-talents-may-change-again-early-next-year/).
+Si vous montez un [Shaman Enhancement](/fr/classes/shaman/enhancement/), gardez donc l'équipement avec de la Force que vous trouvez. Cela rejoint ce que Zierhut disait dans [l'interview sur les talents du Shaman](/fr/news/shaman-talents-may-change-again-early-next-year/).
 
 ## D'autres mardis
 

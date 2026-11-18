@@ -7,7 +7,7 @@ lang: it
 image: ../../../assets/posts/2026-10-27-wow-forever-poisons-shady-dealer.jpg
 imageAlt: "Jasper Fel, Shady Dealer a Stormwind, che vende reagenti per veleni, uno screenshot dalla beta di World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/poisons/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/rogue/poisons/"
 tags: ["forever", "classes"]
 manual: true
 featured: false
@@ -39,4 +39,4 @@ I Poisons funzionano come una professione. Ogni veleno creato dà un punto abili
 
 ![Osborne the Night Man, istruttore dei Rogue a Stormwind, con i ranghi dei Poisons e l'abilità richiesta, uno screenshot dalla beta di World of Warcraft: Forever](../../../assets/posts/2026-10-27-wow-forever-poisons-rogue-trainer.jpg)
 
-La [guida ai Poisons](/it/guides/poisons/) segue le due catene passo per passo, con il punto debole di ogni nemico tosto, i livelli di tutti i ranghi e i reagenti. La [guida al livellamento del Rogue](/it/guides/rogue-leveling/) ora rimanda a essa.
+La [guida ai Poisons](/it/classes/rogue/poisons/) segue le due catene passo per passo, con il punto debole di ogni nemico tosto, i livelli di tutti i ranghi e i reagenti. La [guida al livellamento del Rogue](/it/classes/rogue/leveling/) ora rimanda a essa.

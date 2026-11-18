@@ -689,3 +689,95 @@
   transition: var(--wf-transition);
 }
 .wf-lightbox__close:hover { border-color: var(--wf-arcane); }
+
+/* Two columns with a sticky table of contents and the video, Mobalytics style (Nutri, 18 November 2026). */
+.wf-gsplit {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 28px;
+  align-items: start;
+}
+.wf-gsplit > .wf-gprose { grid-column: 1; grid-row: 1; min-width: 0; }
+.wf-gaside {
+  grid-column: 2; grid-row: 1;
+  position: sticky; top: 132px;
+  display: flex; flex-direction: column; gap: 14px;
+}
+
+/* Table of contents as a card: title bar, numbered rows, the current section highlighted. */
+.wf-toc {
+  background: var(--wf-raised);
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card, 12px);
+  overflow: hidden;
+}
+.wf-toc__title {
+  margin: 0;
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--wf-border);
+  font-family: var(--wf-display);
+  font-size: 15px; font-weight: 700;
+  color: var(--wf-ink);
+}
+.wf-toc__list {
+  list-style: none;
+  margin: 0;
+  padding: 8px 10px;
+  /* Never scrolls: every page has at most nine sections (Nutri, 18 November 2026). */
+  display: grid; gap: 1px;
+}
+.wf-toc__list a {
+  position: relative;
+  display: block;
+  padding: 6px 12px;
+  border-radius: 8px;
+  color: var(--wf-body, var(--wf-ink));
+  text-decoration: none;
+  font-size: 14.5px;
+  transition: var(--wf-transition);
+}
+.wf-toc__list a:hover { background: var(--wf-raised-soft); color: var(--wf-ink); }
+.wf-toc__list a.is-active { background: var(--wf-slot-b); color: var(--wf-accent); }
+.wf-toc__list a.is-active::before {
+  content: ''; position: absolute; left: -10px; top: 8px; bottom: 8px;
+  width: 2px; border-radius: 2px; background: var(--wf-accent);
+}
+.wf-toc__top {
+  display: block;
+  margin: 4px 14px 14px;
+  padding: 8px 12px;
+  text-align: center;
+  border: 1px solid var(--wf-border);
+  border-radius: 8px;
+  color: var(--wf-ink);
+  text-decoration: none;
+  font-weight: 600; font-size: 14px;
+  background: var(--wf-raised-soft);
+}
+.wf-toc__top:hover { border-color: var(--wf-accent); }
+@media (max-width: 960px) {
+  .wf-gsplit { grid-template-columns: minmax(0, 1fr); }
+  .wf-gaside { grid-column: 1; grid-row: 1; position: static; }
+  .wf-gsplit > .wf-gprose { grid-row: 2; }
+  .wf-toc__list { max-height: none; }
+}
+/* The video in the sidebar: as wide as the table of contents below it, same frame as a video in the text. */
+.wf-gaside .wf-embed {
+  margin: 0;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: var(--wf-r-card-sm);
+  border: 1px solid var(--wf-border);
+  overflow: hidden;
+  background: var(--wf-header);
+}
+.wf-gaside .wf-toc { width: 100%; box-sizing: border-box; }
+.wf-gaside .wf-embed iframe,
+.wf-gaside .wf-embed img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  object-fit: cover;
+}

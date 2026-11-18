@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Aggiornamento del 18 novembre:** dal reset settimanale del 17 novembre il deposito minimo è di nuovo 1 rame. Ora segue il prezzo di vendita al mercante: 5% per 2 ore, 20% per 8 ore e 60% per 24 ore.
+
 > **Aggiornamento del 12 novembre:** il deposito minimo di 1 rame non è ancora attivo. Blizzard lo ha tolto dagli hotfix del 10 novembre; arriva con la manutenzione settimanale del 17 novembre, di più nel [nostro articolo](/it/news/1-copper-deposit-waits-until-17-november/).
 
 Il deposito minimo di 1 argento per asta in World of Warcraft: Forever sta per sparire. Il principal game designer Kris Zierhut dice in un'intervista che la soglia torna a 1 rame. Quando, non lo dice: non ancora, ma presto.

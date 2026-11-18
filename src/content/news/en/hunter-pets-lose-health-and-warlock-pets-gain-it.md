@@ -29,4 +29,4 @@ Last week Blizzard said that pets [did not hold up well enough as tanks](/news/h
 
 The Felhunter is not in the list. The whip sound of the Succubus also plays much less often now: a bug made it play far too often.
 
-Leveling with a pet: our [Hunter leveling guide](/guides/hunter-leveling/), the [Beast Mastery Hunter guide](/guides/beast-mastery-hunter/) and the [Warlock leveling guide](/guides/warlock-leveling/).
+Leveling with a pet: our [Hunter leveling guide](/classes/hunter/leveling/), the [Beast Mastery Hunter guide](/classes/hunter/beast-mastery/) and the [Warlock leveling guide](/classes/warlock/leveling/).

@@ -39,6 +39,8 @@ L'esperienza in WoW Forever funziona in gran parte come in Classic, con gli stes
 
 ## Come funziona l'esperienza
 
+### Come funziona l'esperienza
+
 Guadagni esperienza con missioni, uccisioni, esplorazione e dungeon. Quando ne hai abbastanza, passi al livello successivo, fino al tetto di 60. Lì l'esperienza si ferma.
 
 La barra dell'esperienza in fondo allo schermo mostra a che punto sei. Passaci sopra con il mouse per vedere l'esperienza attuale e quanta te ne manca. Ogni guadagno compare anche in chat.
@@ -47,7 +49,7 @@ La barra dell'esperienza in fondo allo schermo mostra a che punto sei. Passaci s
 
 <img src="/guides/experience/experience-gained.png" alt="La riga di chat Experience gained: 575, uno screenshot della beta di World of Warcraft: Forever" width="204" height="22" loading="lazy">
 
-## Esperienza per livello
+### Esperienza per livello
 
 Ogni livello chiede più esperienza del precedente. In totale servono 4.084.700 punti per arrivare al livello 60. A settembre un articolo sosteneva che Forever ne chiedesse molti meno, ma Blizzard [l'ha smentito](/it/news/wowhead-retracts-experience-curve-story/): i valori sono esattamente quelli di Classic.
 
@@ -114,7 +116,9 @@ Ogni livello chiede più esperienza del precedente. In totale servono 4.084.700 
 | 59 | 209.800 | 3.874.900 |
 | 60 | - | 4.084.700 |
 
-## Missioni
+## Missioni e uccisioni
+
+### Missioni
 
 Una missione dà esperienza in base al livello, al tipo e alla difficoltà degli obiettivi. Il registro delle missioni mostra il valore prima che tu la accetti. Le missioni con obiettivi lenti o difficili di solito pagano più di altre dello stesso livello.
 
@@ -140,7 +144,7 @@ Per le missioni più di 5 livelli sotto di te, l'esperienza cala dal 10 al 20% p
 
 **Le missioni ripetibili** hanno un indicatore blu invece che giallo. Quasi tutte non danno esperienza, quindi falle solo per le altre ricompense.
 
-## Uccisioni
+### Uccisioni
 
 I mostri danno esperienza in base al loro livello rispetto al tuo e al loro tipo. I mostri vicini al tuo livello danno il miglior equilibrio tra velocità ed esperienza. Quelli molto più bassi danno poco, quelli molto più alti richiedono troppo tempo.
 
@@ -152,15 +156,17 @@ Le targhette usano gli stessi colori del registro delle missioni. I mostri grigi
 
 <img src="/guides/experience/elite-stitches.png" alt="Il ritratto di Stitches con il drago dorato di un élite, uno screenshot della beta di World of Warcraft: Forever" width="238" height="94" loading="lazy">
 
-### Tag e credito dell'uccisione
+#### Tag e credito dell'uccisione
 
 Solo il primo giocatore o gruppo che colpisce un mostro, con danni o un effetto negativo, riceve l'esperienza. Un mostro taggato da qualcun altro ha la targhetta grigia. In gruppo, ogni membro vivo e vicino riceve il credito, quindi non serve che ognuno colpisca ogni mostro.
 
-### Farm ad area
+#### Farm ad area
 
 Radunare un gruppo di mostri e abbatterlo con incantesimi ad area può essere rapido nel posto giusto. Blizzard l'ha reso meno efficace in Forever, soprattutto per i Mage, famosi per questo in Classic. Funziona ancora in parte con gli incantesimi, l'equipaggiamento o l'aiuto giusti. Serve un modo per sopravvivere al gruppo o tenerlo a distanza con radici, rallentamenti e stordimenti, molti mostri e pochi giocatori in concorrenza.
 
-## Dungeon
+## Spedizioni, esplorazione e gruppi
+
+### Dungeon
 
 L'esperienza nei dungeon è cambiata più volte durante la beta. A settembre Blizzard ha [spostato l'esperienza dalle uccisioni alle missioni](/it/news/wow-forever-dungeon-experience-changes/): i mostri davano poco, le missioni dei dungeon molto. Il 1° ottobre l'esperienza extra delle missioni dei dungeon è stata [ridotta del 50%](/it/news/dungeon-quests-give-50-percent-less-bonus-experience/). Una settimana dopo i mostri dei dungeon hanno ricevuto il [20% di esperienza in più](/it/news/dungeon-kills-give-20-percent-more-experience/), ed è stato corretto un bug che basava ogni uccisione sul livello più alto del gruppo. Dopo il lancio, un hotfix dell'8 novembre [ha aumentato del 50% l'esperienza per uccisione nei dungeon](/it/news/dungeon-enemies-give-50-percent-more-experience/), al 60% dei valori di Classic Era. Blizzard si dice soddisfatto di questo ritmo. Dal 13 novembre un mostro irrilevante anche per un solo membro del gruppo non dà esperienza a nessuno, [più nel nostro post](/it/news/a-grey-mob-for-one-player-gives-the-group-no-xp/).
 
@@ -176,17 +182,19 @@ Un giocatore di livello molto più alto nel gruppo costa molta esperienza. Un li
 
 </div>
 
-## Esplorazione
+### Esplorazione
 
 Entrare per la prima volta in una nuova zona dà un po' di esperienza e la rivela sulla mappa. Il valore è basso, quindi non vale una deviazione, ma si somma mentre viaggi per le missioni.
 
 <img src="/guides/experience/discovered.png" alt="Il messaggio Discovered: Vul'Gol Ogre Mound, uno screenshot della beta di World of Warcraft: Forever" width="360" height="40" loading="lazy">
 
-## Gruppi
+### Gruppi
 
 In gruppo, l'esperienza per uccisione dipende dalla dimensione del gruppo e dai livelli dei membri. Un gruppo più grande significa meno per giocatore, e un membro molto più alto la riduce di molto. In cambio uccidi più in fretta e completi le missioni più facilmente. Le ricompense delle missioni non cambiano in gruppo, ma gli obiettivi delle missioni non contano in un gruppo da incursione.
 
-## Esperienza riposata
+## Esperienza riposata e accampamenti
+
+### Esperienza riposata
 
 L'esperienza riposata raddoppia quella delle uccisioni finché non finisce. Missioni ed esplorazione non ricevono il bonus.
 
@@ -203,7 +211,7 @@ La accumuli in una locanda, in una capitale o nel Cozy Sleeping Bag. Il tuo ritr
 
 **Well Rested** alza velocità e massimo della stessa percentuale. Riempirla richiede quindi sempre circa 10 giorni, ma la riserva contiene fino a un quinto in più. **Talented**, il talento Legacy successivo, ti dà il primo punto talento fino a cinque livelli prima. Entrambi sono nel [calcolatore Legacy](/it/talents/legacy/).
 
-## Campi, cibo e sacco a pelo
+### Campi, cibo e sacco a pelo
 
 Forever aggiunge tre bonus che si sommano tra loro e con l'esperienza riposata.
 

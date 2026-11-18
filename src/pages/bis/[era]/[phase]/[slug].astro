@@ -5,16 +5,20 @@
  * [lang]/bis/.
  */
 import BisDetailPage from '../../../../components/bis/BisDetailPage.astro';
-import { getBisLists, type BisList } from '../../../../lib/bis';
+import BisSoonPage from '../../../../components/bis/BisSoonPage.astro';
+import { getBisLists, soonSpecs, type BisList } from '../../../../lib/bis';
 
 export function getStaticPaths() {
   return getBisLists().map((list) => ({
     params: { era: list.era, phase: list.phase, slug: list.slug },
     props: { list },
-  }));
+  })).concat(soonSpecs().map((soon) => ({
+    params: { era: 'forever', phase: 'preraid', slug: soon.slug },
+    props: { soon },
+  })) as never[]);
 }
 
-const { list } = Astro.props as { list: BisList };
+const { list, soon } = Astro.props as { list?: BisList; soon?: { class: string; spec: string } };
 ---
 
-<BisDetailPage locale="en" list={list} />
+{list ? <BisDetailPage locale="en" list={list} /> : <BisSoonPage locale="en" cls={soon!.class} spec={soon!.spec} />}

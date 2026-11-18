@@ -23,7 +23,7 @@ Blizzard [prometió la semana pasada](/es/news/hunter-and-warlock-pets-get-tough
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17804"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Soul Siphon</a>:** ahora nombra Corruption, Siphon Life y Bane of Agony. Antes contaba cualquier otro efecto de Affliction, así que una maldición ya no aumenta la bonificación de Drain Life, Drain Soul y Wrack.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3110"><img class="wf-wh__icon" src="/wh/spell_fire_firebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Firebolt</a>:** el Imp hace más daño. La subida es mayor a niveles bajos y menor a niveles altos.
 
-Pon primero tus tres DoTs y luego canaliza Wrack: ahora vale la pena contra enemigos que viven lo bastante. Nuestra [guía del Warlock Affliction](/es/guides/affliction-warlock/) tiene la nueva rotación.
+Pon primero tus tres DoTs y luego canaliza Wrack: ahora vale la pena contra enemigos que viven lo bastante. Nuestra [guía del Warlock Affliction](/es/classes/warlock/affliction/) tiene la nueva rotación.
 
 ## Hunter
 

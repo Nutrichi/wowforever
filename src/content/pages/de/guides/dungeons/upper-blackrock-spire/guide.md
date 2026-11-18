@@ -13,6 +13,8 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "guide"
 ---
+> **Update 18. November:** Seit den Hotfixes vom 17. November haben die Monster in Upper Blackrock Spire wieder das geplante Leben und den geplanten Schaden. Ein Bug machte sie viel zu schwach, also nimm eine volle, aufmerksame Gruppe mit. [Mehr in unserem Beitrag](/de/news/upper-blackrock-spire-gets-harder-after-a-bug-fix/).
+
 Dieser Guide folgt dem Dungeon, wie er in Classic war. Upper Blackrock Spire ist auch in Forever ein Dungeon für 10 Spieler; ob sich der Dungeon selbst ändert, hat Blizzard nicht gesagt.
 
 ## Anreise

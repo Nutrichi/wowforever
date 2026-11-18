@@ -13,6 +13,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Actualización del 18 de noviembre:** desde el reinicio semanal del 17 de noviembre el depósito mínimo vuelve a ser 1 cobre. Ahora sigue el precio de venta al vendedor: 5 % por 2 horas, 20 % por 8 horas y 60 % por 24 horas.
+
 Vender objetos baratos en la Auction House de World of Warcraft: Forever sigue saliendo caro unos días más. El depósito mínimo de 1 cobre aún no está activo. Llega con el mantenimiento semanal del 17 de noviembre, dice Blizzard.
 
 ## Qué pasó

@@ -38,4 +38,4 @@ Die Raids öffnen am 9. Dezember. Wird Enhancement jetzt schon korrigiert, gewin
 
 Strength ist jetzt klar besser als Intellect. Ein Punkt Strength gibt 2 Angriffskraft, ein Punkt Intellect über Mental Dexterity höchstens 1. Eine langsame Zweihandwaffe zählt noch mehr: mehr Procs von Maelstrom Weapon pro Schlag und größere Windfury-Treffer.
 
-Wie viel Schaden Enhancement insgesamt verliert, sagt Blizzard nicht. Unser [Guide zum Enhancement-Shaman](/de/guides/enhancement-shaman/) folgt den neuen Werten.
+Wie viel Schaden Enhancement insgesamt verliert, sagt Blizzard nicht. Unser [Guide zum Enhancement-Shaman](/de/classes/shaman/enhancement/) folgt den neuen Werten.

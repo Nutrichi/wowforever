@@ -33,4 +33,4 @@ Se cura a través de todo lo que no lo interrumpe. Así venció a una Abominatio
   </button>
 </figure>
 
-Cómo se juega un Holy Paladin a nivel 60 está en la [guía de Holy Paladin](/es/guides/holy-paladin/).
+Cómo se juega un Holy Paladin a nivel 60 está en la [guía de Holy Paladin](/es/classes/paladin/holy/).

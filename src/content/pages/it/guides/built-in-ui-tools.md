@@ -76,7 +76,7 @@ Click Casting assegna incantesimi a clic o combinazioni di tasti sui riquadri de
 
 ![La finestra Click Cast Bindings, con Mouseover Cast, le assegnazioni predefinite e un'assegnazione personale vuota, uno screenshot di World of Warcraft: Forever](../../../../assets/posts/2026-10-30-wow-forever-click-cast-bindings.jpg)
 
-Il lancio al passaggio del mouse per tutti gli incantesimi è in Options, Combat: gli incantesimi vanno all'unità sotto il mouse, mentre tieni il tuo bersaglio. Di più nelle nostre guide per guaritori, come [Restoration Shaman](/it/guides/restoration-shaman/).
+Il lancio al passaggio del mouse per tutti gli incantesimi è in Options, Combat: gli incantesimi vanno all'unità sotto il mouse, mentre tieni il tuo bersaglio. Di più nelle nostre guide per guaritori, come [Restoration Shaman](/it/classes/shaman/restoration/).
 
 ## Quali addon funzionano ancora
 

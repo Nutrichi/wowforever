@@ -45,7 +45,7 @@ Die Alliance geht zum Mage Tower im Mage Quarter von Stormwind, die Horde ins Ma
 
 Bis zum 13. November lehnten beide Bibliothekare wegen eines Fehlers jedes Buch ab. Ein Hotfix hat das behoben, du kannst deine Bücher wieder abgeben.
 
-Mages bekommen etwas extra: Das erste Buch gibt ihnen den Zauber Study, der in einer Bibliothek Schriftrollen macht. Siehe den [Guide zu Mage-Schriftrollen](/de/guides/mage-scrolls/).
+Mages bekommen etwas extra: Das erste Buch gibt ihnen den Zauber Study, der in einer Bibliothek Schriftrollen macht. Siehe den [Guide zu Mage-Schriftrollen](/de/classes/mage/scrolls/).
 
 ![Der Bibliothekar Garion Wendell in Stormwind mit dem Fenster zum Abgeben eines Buches, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 

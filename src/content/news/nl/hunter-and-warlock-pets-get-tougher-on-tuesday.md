@@ -25,11 +25,11 @@ Pets van Hunters en de Voidwalker van de Warlock houden als tank minder goed sta
 
 In een interview legde principal game designer Kris Zierhut uit dat het team de health van beide soorten pets juist verlaagd had. Het grote verschil met Classic Era 1.15: pets in Forever halen een deel van hun stats bij hun meester, dus ze groeien mee met je gear. Iemand van het team kijkt nu de health van de Voidwalker na.
 
-Levelen met een pet: onze [Hunter-levelgids](/nl/guides/hunter-leveling/) en [Warlock-levelgids](/nl/guides/warlock-leveling/).
+Levelen met een pet: onze [Hunter-levelgids](/nl/classes/hunter/leveling/) en [Warlock-levelgids](/nl/classes/warlock/leveling/).
 
 ## Affliction: Wrack en je DoTs
 
-Nu doet een Affliction Warlock het best door de hele tijd <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> te channelen. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> ernaast casten loont niet. Blizzard verandert dat, zodat die spells met schade over tijd altijd de moeite waard zijn naast Wrack, zonder dat de totale schade van Affliction verandert. Meer in de [gids voor Affliction Warlock](/nl/guides/affliction-warlock/).
+Nu doet een Affliction Warlock het best door de hele tijd <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> te channelen. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> ernaast casten loont niet. Blizzard verandert dat, zodat die spells met schade over tijd altijd de moeite waard zijn naast Wrack, zonder dat de totale schade van Affliction verandert. Meer in de [gids voor Affliction Warlock](/nl/classes/warlock/affliction/).
 
 ## Enhancement: Strength eerst
 
@@ -37,7 +37,7 @@ Enhancement Shamans ontdekten dat Intellect en spell power beter zijn dan Streng
 
 > Please note: Enhancement Shaman players who are leveling up will want to collect Strength and Attack Power gear from now on.
 
-Level je een [Enhancement Shaman](/nl/guides/enhancement-shaman/), hou dan de Strength-gear bij die je vindt. Dat klopt met wat Zierhut zei in [het interview over de Shaman-talenten](/nl/news/shaman-talents-may-change-again-early-next-year/).
+Level je een [Enhancement Shaman](/nl/classes/shaman/enhancement/), hou dan de Strength-gear bij die je vindt. Dat klopt met wat Zierhut zei in [het interview over de Shaman-talenten](/nl/news/shaman-talents-may-change-again-early-next-year/).
 
 ## Meer dinsdagen
 

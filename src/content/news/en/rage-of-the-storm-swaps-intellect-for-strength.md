@@ -31,4 +31,4 @@ Blizzard [announced last week](/news/hunter-and-warlock-pets-get-tougher-on-tues
 
 The mace is the reward of <a href="https://www.wowhead.com/forever/quest=79442">The Tempest's Weapons</a> for the Horde and <a href="https://www.wowhead.com/forever/quest=96016">The Tempest's Weapons</a> for the Alliance, the last step of the chain we described [during the beta](/news/shamans-earn-a-weapon-with-a-level-30-quest-chain/). If you already have it, the new stats apply to your copy.
 
-The [changes for Warlocks and Hunters](/news/wrack-makes-affliction-dots-tick-twice-as-fast/) followed later that day. Our [Enhancement Shaman guide](/guides/enhancement-shaman/) follows the new stats.
+The [changes for Warlocks and Hunters](/news/wrack-makes-affliction-dots-tick-twice-as-fast/) followed later that day. Our [Enhancement Shaman guide](/classes/shaman/enhancement/) follows the new stats.

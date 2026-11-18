@@ -9,6 +9,7 @@
  * (SCHRIJFSTIJL.md §6). Wat vertaald wordt, staat in src/i18n/bis.ts.
  */
 
+import foreverSpecsJson from './forever-specs.json';
 import type { EraKey } from './eras';
 
 /**
@@ -39,7 +40,7 @@ export const bisTabEras: readonly EraKey[] = ['forever', ...bisEras];
 
 /** De fasen per era, in volgorde. `preraid` komt altijd eerst. */
 export const phaseIds: Record<BisEra, string[]> = {
-  forever: ['beta'],
+  forever: ['preraid'],
   classic: ['preraid', 'p1', 'p2', 'p3', 'p4', 'p5', 'p6'],
   tbc: ['preraid', 'p1', 'p2', 'p3', 'p4', 'p5'],
   wotlk: ['preraid', 'p1', 'p2', 'p3', 'p4'],
@@ -67,7 +68,7 @@ export type PhaseContent = {
 };
 
 export const phaseContent: Record<BisEra, Record<string, PhaseContent>> = {
-  /* De beta van Forever toont geen rij dungeons boven de lijsten (Nutri, 19 oktober 2026). */
+  /* Forever toont geen rij dungeons boven de lijsten (Nutri, 19 oktober 2026); sinds 18 november 2026 pre-raid op level 60. */
   forever: {},
   classic: {
     preraid: {
@@ -201,7 +202,7 @@ export const phaseRaids: Record<BisEra, Record<string, string>> = Object.fromEnt
  * wanneer Blizzard een fase opent (TBC Anniversary fase 3: 27 augustus 2026).
  */
 export const livePhase: Partial<Record<BisEra, string>> = {
-  forever: 'beta',
+  forever: 'preraid',
   tbc: 'p3',
 };
 
@@ -324,3 +325,6 @@ export function slotParts(value: string): SlotParts {
 }
 
 export type { EraKey };
+
+/** Alle specs van WoW Forever met een BiS-gids bij Wowhead (18 november 2026). Een spec zonder lijst krijgt "Coming soon". */
+export const foreverSpecs = foreverSpecsJson as Array<[string, string]>;

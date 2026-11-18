@@ -54,7 +54,7 @@ const color = classes[list.class]?.color ?? '#e0b77a';
 const updated = list.updated ? new Date(`${list.updated}T00:00:00Z`) : undefined;
 
 const title = t('metaTitle', { name, era: era.name, phase });
-const description = list.phase === 'beta'
+const description = list.era === 'forever'
   ? t('betaDetailDesc', { name })
   : t('detailDescription', { name, era: era.name, phase });
 

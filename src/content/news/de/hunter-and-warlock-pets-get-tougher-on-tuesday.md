@@ -25,11 +25,11 @@ Pets von Huntern und der Voidwalker des Warlocks halten als Tank nicht so viel a
 
 In einem Interview erklärte Principal Game Designer Kris Zierhut, dass das Team die Gesundheit beider Pet-Arten sogar gesenkt hatte. Der große Unterschied zu Classic Era 1.15: In Forever beziehen Pets einen Teil ihrer Werte von ihrem Meister, sie wachsen also mit deiner Ausrüstung. Jemand aus dem Team prüft jetzt die Gesundheit des Voidwalkers.
 
-Leveln mit Pet: unser [Hunter-Leveling-Guide](/de/guides/hunter-leveling/) und der [Warlock-Leveling-Guide](/de/guides/warlock-leveling/).
+Leveln mit Pet: unser [Hunter-Leveling-Guide](/de/classes/hunter/leveling/) und der [Warlock-Leveling-Guide](/de/classes/warlock/leveling/).
 
 ## Affliction: Wrack und deine DoTs
 
-Im Moment fährt ein Affliction-Warlock am besten, wenn er ständig <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> kanalisiert. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> zusätzlich zu wirken, lohnt sich nicht. Blizzard ändert das, damit sich diese Zauber mit Schaden über Zeit neben Wrack immer lohnen, ohne den Gesamtschaden von Affliction zu ändern. Mehr im [Guide zum Affliction Warlock](/de/guides/affliction-warlock/).
+Im Moment fährt ein Affliction-Warlock am besten, wenn er ständig <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> kanalisiert. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> zusätzlich zu wirken, lohnt sich nicht. Blizzard ändert das, damit sich diese Zauber mit Schaden über Zeit neben Wrack immer lohnen, ohne den Gesamtschaden von Affliction zu ändern. Mehr im [Guide zum Affliction Warlock](/de/classes/warlock/affliction/).
 
 ## Enhancement: Stärke zuerst
 
@@ -37,7 +37,7 @@ Enhancement-Shamans haben gemerkt, dass Intelligenz und Zaubermacht besser sind 
 
 > Please note: Enhancement Shaman players who are leveling up will want to collect Strength and Attack Power gear from now on.
 
-Wenn du einen [Enhancement Shaman](/de/guides/enhancement-shaman/) levelst, behalte also die Stärke-Ausrüstung, die du findest. Das passt zu dem, was Zierhut im [Interview über die Shaman-Talente](/de/news/shaman-talents-may-change-again-early-next-year/) sagte.
+Wenn du einen [Enhancement Shaman](/de/classes/shaman/enhancement/) levelst, behalte also die Stärke-Ausrüstung, die du findest. Das passt zu dem, was Zierhut im [Interview über die Shaman-Talente](/de/news/shaman-talents-may-change-again-early-next-year/) sagte.
 
 ## Weitere Dienstage
 

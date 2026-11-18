@@ -33,7 +33,7 @@ Wit's End dà ai tuoi attacchi in mischia il 15% di probabilità di ottenere <a 
 ## Come ottenerla
 
 1. **La Witchblade:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13964"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Witchblade</a> cade da Darkmaster Gandling, l'ultimo boss di [Scholomance](/it/guides/dungeons/scholomance/).
-2. **La pergamena:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> è una pergamena da Mage di livello 4. La decifri con l'abilità Study, da 175 di abilità e dal livello 46. Dove cadono le pergamene e come funziona Study è nella nostra [guida alle pergamene da Mage](/it/guides/mage-scrolls/).
+2. **La pergamena:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> è una pergamena da Mage di livello 4. La decifri con l'abilità Study, da 175 di abilità e dal livello 46. Dove cadono le pergamene e come funziona Study è nella nostra [guida alle pergamene da Mage](/it/classes/mage/scrolls/).
 3. **Combina:** usa la pergamena sulla Witchblade e ottieni Wit's Edge.
 
 ## Ne vale la pena?

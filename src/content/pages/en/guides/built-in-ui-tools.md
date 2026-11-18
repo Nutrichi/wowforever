@@ -75,7 +75,7 @@ Click Casting binds spells to mouse clicks or key combinations on your unit fram
 
 ![The window Click Cast Bindings, with Mouseover Cast, the default bindings and an empty custom binding, a screenshot of World of Warcraft: Forever](../../../../assets/posts/2026-10-30-wow-forever-click-cast-bindings.jpg)
 
-Mouseover casting for all your spells is under Options, Combat: your spells then go to the unit under your mouse while you keep your own target. More in our healer guides, such as [Restoration Shaman](/guides/restoration-shaman/).
+Mouseover casting for all your spells is under Options, Combat: your spells then go to the unit under your mouse while you keep your own target. More in our healer guides, such as [Restoration Shaman](/classes/shaman/restoration/).
 
 ## Which addons still work
 

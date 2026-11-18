@@ -24,4 +24,4 @@ I Druidi Restoration perdono uno dei loro trucchi migliori. Da un hotfix dell'11
 
 Perché Wild Growth si potesse lanciare in movimento al lancio, Blizzard non lo dice. Sembrava un bug, e ora non c'è più. La cura in sé cresce con il tuo equipaggiamento: più potere magico hai, più rende il coefficiente doppio. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a> rende ancora istantaneo Wild Growth, [dal 10 novembre](/it/news/racial-vendor-mounts-become-bind-on-pickup/).
 
-Build, macro e rotazione sono nella nostra [guida al Druido Restoration](/it/guides/restoration-druid/), ora con questa modifica.
+Build, macro e rotazione sono nella nostra [guida al Druido Restoration](/it/classes/druid/restoration/), ora con questa modifica.

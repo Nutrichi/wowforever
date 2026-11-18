@@ -7,7 +7,7 @@ lang: es
 image: ../../../assets/posts/2026-10-16-wow-forever-gold-and-chests.jpg
 imageAlt: "Dos cofres del tesoro sobre una colina de monedas de oro con algunas espadas clavadas, arte de World of Warcraft"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/lockpicking/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/rogue/lockpicking/"
 tags: ["forever", "classes", "dungeon"]
 featured: false
 draft: false
@@ -19,7 +19,7 @@ Los Rogues de World of Warcraft: Forever aprenden Lockpicking a nivel 16, igual 
 
 Pick Lock se aprende con cualquier instructor de Rogues a nivel 16. También necesitas <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5060"><img class="wf-wh__icon" src="/wh/inv_misc_gear_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thieves' Tools</a>. Una misión corta te las da gratis: <a href="https://www.wowhead.com/forever/quest=2281">Redridge Rendezvous</a> en Stormwind para la Alianza, <a href="https://www.wowhead.com/forever/quest=2382">Wrenix of Ratchet</a> en Orgrimmar para la Horda. Las dos llevan a Practice Lockboxes que reaparecen rápido, en Alther's Mill en Redridge Mountains o en un barco pirata al sur de Ratchet.
 
-La habilidad sube hasta cinco veces tu nivel, así que solo llegas a 300 a nivel 60. No la dejes atrás: las dos cadenas de misiones de [Poisons](/es/guides/poisons/) a nivel 20 piden 80 de Lockpicking.
+La habilidad sube hasta cinco veces tu nivel, así que solo llegas a 300 a nivel 60. No la dejes atrás: las dos cadenas de misiones de [Poisons](/es/classes/rogue/poisons/) a nivel 20 piden 80 de Lockpicking.
 
 ## Puertas en vez de llaves
 
@@ -32,4 +32,4 @@ La habilidad sube hasta cinco veces tu nivel, así que solo llegas a 300 a nivel
 
 Desde 280, las puertas junto a la entrada de Blackrock Depths son también la forma más segura de conseguir los últimos puntos: ábrelas, reinicia la mazmorra y repite.
 
-Cada paso de 1 a 300, con un sitio para cada tramo de habilidad, está en nuestra nueva [guía de Lockpicking](/es/guides/lockpicking/).
+Cada paso de 1 a 300, con un sitio para cada tramo de habilidad, está en nuestra nueva [guía de Lockpicking](/es/classes/rogue/lockpicking/).

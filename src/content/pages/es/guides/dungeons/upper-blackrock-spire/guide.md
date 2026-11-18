@@ -13,6 +13,8 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "guide"
 ---
+> **Actualización del 18 de noviembre:** desde los arreglos del 17 de noviembre, los monstruos de Upper Blackrock Spire vuelven a tener la vida y el daño previstos. Un error los dejaba demasiado débiles, así que lleva un grupo completo y atento. [Más en nuestro artículo](/es/news/upper-blackrock-spire-gets-harder-after-a-bug-fix/).
+
 Esta guía sigue la mazmorra tal como era en Classic. Upper Blackrock Spire también es una mazmorra para 10 jugadores en Forever; si la mazmorra en sí cambia, Blizzard no lo ha dicho.
 
 ## Cómo llegar

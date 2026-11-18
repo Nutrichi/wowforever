@@ -23,9 +23,9 @@ Voor de launch ging de Shaman Classic Discord op alleen lezen, uit protest tegen
 
 ## Enhancement en Elemental
 
-**Enhancement** krijgt de meeste aandacht. De spec wordt nu te ver richting spell power-gear geduwd. Blizzard wil dat een [Enhancement Shaman](/nl/guides/enhancement-shaman/) Strength, Intellect en spell power zoekt, zoals een Retribution Paladin, en niet in een stoffen robe rondloopt.
+**Enhancement** krijgt de meeste aandacht. De spec wordt nu te ver richting spell power-gear geduwd. Blizzard wil dat een [Enhancement Shaman](/nl/classes/shaman/enhancement/) Strength, Intellect en spell power zoekt, zoals een Retribution Paladin, en niet in een stoffen robe rondloopt.
 
-**Elemental** wordt ook van dichtbij gevolgd. Lava Burst schrappen was een beslissing van Zierhut op het laatste moment: hij hoorde dat spelers de spell niet goed vonden en liever een sterkere <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=421"><img class="wf-wh__icon" src="/wh/spell_nature_chainlightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chain Lightning</a> wilden. Hij geeft toe dat de wijziging meer tijd had mogen krijgen. Meer in [onze post over Lava Burst](/nl/news/shamans-lose-lava-burst-before-the-launch/) en de [Elemental-gids](/nl/guides/elemental-shaman/).
+**Elemental** wordt ook van dichtbij gevolgd. Lava Burst schrappen was een beslissing van Zierhut op het laatste moment: hij hoorde dat spelers de spell niet goed vonden en liever een sterkere <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=421"><img class="wf-wh__icon" src="/wh/spell_nature_chainlightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chain Lightning</a> wilden. Hij geeft toe dat de wijziging meer tijd had mogen krijgen. Meer in [onze post over Lava Burst](/nl/news/shamans-lose-lava-burst-before-the-launch/) en de [Elemental-gids](/nl/classes/shaman/elemental/).
 
 ## Wanneer
 

@@ -32,4 +32,4 @@ Blizzard [annonçait la semaine dernière](/fr/news/hunter-and-warlock-pets-get-
 
 La masse récompense <a href="https://www.wowhead.com/forever/quest=79442">The Tempest's Weapons</a> pour la Horde et <a href="https://www.wowhead.com/forever/quest=96016">The Tempest's Weapons</a> pour la Alliance, la dernière étape de la chaîne que nous avons décrite [pendant la bêta](/fr/news/shamans-earn-a-weapon-with-a-level-30-quest-chain/). Si vous l'avez déjà, votre exemplaire reçoit les nouvelles caractéristiques.
 
-Les [changements pour les Warlocks et les Hunters](/fr/news/wrack-makes-affliction-dots-tick-twice-as-fast/) ont suivi plus tard dans la journée. Notre [guide de l'Enhancement Shaman](/fr/guides/enhancement-shaman/) suit les nouvelles caractéristiques.
+Les [changements pour les Warlocks et les Hunters](/fr/news/wrack-makes-affliction-dots-tick-twice-as-fast/) ont suivi plus tard dans la journée. Notre [guide de l'Enhancement Shaman](/fr/classes/shaman/enhancement/) suit les nouvelles caractéristiques.

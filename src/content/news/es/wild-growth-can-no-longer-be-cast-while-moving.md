@@ -24,4 +24,4 @@ Los Druidas Restoration pierden uno de sus mejores trucos. Desde un hotfix del 1
 
 Por qué Wild Growth se podía lanzar en movimiento en el lanzamiento, Blizzard no lo dice. Parecía un bug, y ya no está. La sanación en sí mejora con tu equipo: cuanto más poder con hechizos tengas, más aporta el coeficiente doble. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a> sigue haciendo instantáneo Wild Growth, [desde el 10 de noviembre](/es/news/racial-vendor-mounts-become-bind-on-pickup/).
 
-La build, las macros y la rotación están en nuestra [guía del Druida Restoration](/es/guides/restoration-druid/), ya con este cambio.
+La build, las macros y la rotación están en nuestra [guía del Druida Restoration](/es/classes/druid/restoration/), ya con este cambio.

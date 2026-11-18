@@ -622,3 +622,42 @@ a.wf-wh.wf-plain:hover { text-decoration-style: solid; }
   padding: 12px;
 }
 */
+
+/*
+ * Cards (Nutri, 18 November 2026, Mobalytics style): every Markdown page and post is cut at its H2s
+ * by src/plugins/rehype-cards.mjs. Each part is a box with a title bar; the text before the first
+ * H2 is a box without one. The text column around them keeps its own font and colours.
+ */
+section.wf-card {
+  margin: 0;
+  padding: 0;
+  background: var(--wf-raised);
+  border: 1px solid var(--wf-border);
+  border-radius: var(--wf-r-card, 12px);
+  overflow: hidden;
+}
+.wf-card__head {
+  padding: 14px 22px;
+  border-bottom: 1px solid var(--wf-border);
+}
+.wf-card__head h2 {
+  margin: 0 !important;
+  font-size: 19px !important;
+  line-height: 1.3;
+  scroll-margin-top: 140px;
+}
+.wf-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 18px 22px 20px;
+  min-width: 0;
+}
+.wf-card__body > :first-child { margin-top: 0; }
+.wf-card__body > :last-child { margin-bottom: 0; }
+.wf-card__body ul,
+.wf-card__body ol { display: flex; flex-direction: column; gap: 6px; margin: 0; padding-left: 22px; }
+@media (max-width: 640px) {
+  .wf-card__head { padding: 12px 16px; }
+  .wf-card__body { padding: 14px 16px 16px; }
+}

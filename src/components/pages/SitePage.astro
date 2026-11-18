@@ -38,6 +38,7 @@ import { isoDate, longDate } from '../../lib/date';
 import { pageImage } from '../../lib/page-image';
 import { guidesRssPath } from '../../lib/rss';
 import '../../styles/guides.css';
+import { latestVideo } from '../../lib/youtube';
 
 interface Props {
   locale: Locale;
@@ -50,7 +51,15 @@ const page = await getPage(pageKey, locale);
 // Kan niet gebeuren: de sleutel komt uit dezelfde lijst. Faalt hij toch, dan faalt de build luid.
 if (!page) throw new Error(`Onbekende pagina: ${pageKey}`);
 
-const { Content } = await render(page.entry);
+const { Content, headings } = await render(page.entry);
+const data = page.entry.data as { toc?: boolean; video?: string; videoTitle?: string };
+
+// The sidebar with video and Contents on every page with three or more sections (Nutri, 18 November 2026: "Do this for all pages").
+const h2s = headings.filter((h) => h.depth === 2);
+const split = data.toc || h2s.length >= 3;
+const toc = split ? h2s : [];
+// A page with a table of contents and no guide video of its own shows Nutri's newest video (no stream, no Short; Nutri, 18 November 2026).
+const asideVideo = split ? (data.video ? { id: data.video, title: data.videoTitle ?? page.title } : latestVideo ? { id: latestVideo.id, title: latestVideo.title } : null) : null;
 const t = pageT(locale);
 const g = guideT(locale);
 const ui = useTranslations(locale);
@@ -59,7 +68,7 @@ const folder = pageKey.split('/')[0];
 const inGroup = folder === 'routes' || folder === 'compare';
 // Chips naar de verwante pagina's: de routes, de vergelijkingen, sinds 26 september 2026 de gidsen,
 // en sinds 29 september 2026 de Forever-gidsen onder TRADESKILLS (tradeskills/forever/<skill>).
-const hasChips = inGroup || folder === 'guides' || folder === 'tradeskills';
+const hasChips = inGroup || folder === 'guides' || folder === 'tradeskills' || folder === 'classes';
 const all = await getPages(locale);
 /*
  * Een groep binnen een map (28 september 2026): de dungeongidsen staan onder
@@ -120,6 +129,10 @@ if ((folder === 'guides' || pageKey === 'forever') && pageKey !== 'guides' && al
 if (folder === 'tradeskills') {
   crumbs.push({ name: ui('nav.tradeskills'), path: pagePath('tradeskills', locale) });
 }
+// De pagina's van een class in Forever (18 november 2026): Home / Classes / Druid / Balance.
+if (folder === 'classes') {
+  crumbs.push({ name: ui('nav.classes'), path: pagePath('classes', locale) });
+}
 // Tussenliggende pagina's, zoals Dungeons tussen Gidsen en een dungeon.
 for (let i = 2; i < parts.length; i++) {
   const parent = all.find((other) => other.key === parts.slice(0, i).join('/'));
@@ -127,7 +140,7 @@ for (let i = 2; i < parts.length; i++) {
 }
 crumbs.push({ name: page.short, path: page.href });
 
-const hideSources = folder === 'guides' || folder === 'tradeskills' || pageKey === 'forever';
+const hideSources = folder === 'guides' || folder === 'tradeskills' || folder === 'classes' || pageKey === 'forever';
 const canonical = new URL(page.href, Astro.site ?? 'https://wowforever.be').href;
 const shareImage = pageImage(page);
 const imageUrl = shareImage ? new URL(shareImage.src, Astro.site ?? 'https://wowforever.be').href : undefined;
@@ -161,7 +174,7 @@ const jsonLd = {
 };
 ---
 
-<BaseLayout locale={locale} title={page.metaTitle} description={page.description} image={imageUrl} ogType="article">
+<BaseLayout locale={locale} title={page.metaTitle} description={page.description} image={imageUrl} ogType="article" index={!page.entry.data.noindex}>
   <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
   {folder === 'guides' && (
     <link rel="alternate" type="application/rss+xml" slot="head" title={`WoW Forever ${ui('nav.guides')} RSS`} href={guidesRssPath(locale)} />
@@ -209,11 +222,41 @@ const jsonLd = {
 
     {dungeon
       ? <DungeonPage locale={locale} slug={dungeon.slug} tab={dungeon.tab}><Content /></DungeonPage>
-      : pageKey !== 'guides' && (
+      : pageKey !== 'guides' && (split ? (
+        <div class="wf-gsplit">
+          {/* The sidebar shows the video; the same video in the text would show twice, so it hides there. */}
+          {asideVideo && <style set:html={`.wf-gsplit .wf-gprose figure[data-wf-video="${asideVideo.id}"] { display: none; }`} />}
+          <aside class="wf-gaside" data-pagefind-ignore>
+            {asideVideo && (
+              <figure class="wf-embed" data-wf-video={asideVideo.id}>
+                <button type="button" class="wf-embed__play">
+                  <span class="wf-embed__icon" aria-hidden="true"></span>
+                  <span class="wf-embed__text">
+                    <span class="wf-embed__title">{asideVideo.title}</span>
+                    <span class="wf-embed__meta">{t('playVideo')}</span>
+                  </span>
+                </button>
+              </figure>
+            )}
+            {toc.length > 0 && (
+              <nav class="wf-toc" aria-label={t('tocTitle')} data-wf-toc>
+                <p class="wf-toc__title">{t('tocTitle')}</p>
+                <ol class="wf-toc__list">
+                  {toc.map((h, i) => <li><a href={`#${h.slug}`} data-toc-link={h.slug}>{i + 1}. {h.text}</a></li>)}
+                </ol>
+                <a class="wf-toc__top" href="#">{t('backToTop')}</a>
+              </nav>
+            )}
+          </aside>
+          <div class="wf-gprose">
+            <Content />
+          </div>
+        </div>
+      ) : (
         <div class="wf-gprose">
           <Content />
         </div>
-      )}
+      ))}
 
     {/* Advertenties in de gidsen, niet op de dungeons en niet op de hub (Nutri, 20 oktober 2026), geparkeerd.
         Terugzetten: data-wf-ads={folder === 'guides' ? '' : undefined} op wf-gprose hierboven, en
@@ -299,4 +342,33 @@ const jsonLd = {
   import '../../scripts/post-video';
   // Beelden in de tekst groot bekijken, net als in een post (18 oktober 2026).
   import '../../scripts/guide-lightbox';
+</script>
+
+<script>
+  // Highlight the section you are reading in the table of contents (Mobalytics style, 18 November 2026).
+  const toc = document.querySelector('[data-wf-toc]');
+  if (toc) {
+    const links = [...toc.querySelectorAll<HTMLAnchorElement>('[data-toc-link]')];
+    const heads = links
+      .map((link) => document.getElementById(link.dataset.tocLink ?? ''))
+      .filter((h): h is HTMLElement => !!h);
+    const list = toc.querySelector<HTMLElement>('.wf-toc__list');
+    let current = '';
+    const update = () => {
+      let id = heads[0]?.id ?? '';
+      for (const h of heads) if (h.getBoundingClientRect().top < Math.max(180, innerHeight * 0.35)) id = h.id;
+      if (id === current) return;
+      current = id;
+      for (const link of links) {
+        const on = link.dataset.tocLink === id;
+        link.classList.toggle('is-active', on);
+        if (on && list) {
+          const top = link.offsetTop - list.offsetTop - list.clientHeight / 2 + link.offsetHeight / 2;
+          list.scrollTo({ top, behavior: 'smooth' });
+        }
+      }
+    };
+    addEventListener('scroll', update, { passive: true });
+    update();
+  }
 </script>

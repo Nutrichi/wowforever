@@ -61,6 +61,8 @@ Per i dungeon oltre il livello 30, le missioni vengono dai dati di Classic e pos
 
 ## Ogni dungeon per livello
 
+### Ogni dungeon per livello
+
 L’intervallo è la fascia di livelli in cui un gruppo di solito affronta il dungeon. Spesso puoi entrare prima: il livello minimo è nelle FAQ di ogni guida.
 
 | Dungeon | Livelli | Missioni |
@@ -101,13 +103,15 @@ L’intervallo è la fascia di livelli in cui un gruppo di solito affronta il du
 | [Stratholme Living](/it/guides/dungeons/stratholme-living/) | 58-60 | 6 |
 | [Stratholme Undead](/it/guides/dungeons/stratholme-undead/) | 58-60 | 8 |
 
-## Come leggere le tabelle
+### Come leggere le tabelle
 
 - Sotto ogni nome di missione: la fazione, o entrambe, e il livello più basso per accettarla.
 - **Dove inizia** dà la zona, chi assegna la missione e le coordinate per /way. Se una missione inizia da un oggetto, è indicato quale mostro lo lascia.
 - In corsivo sotto: cosa fare prima, e se una missione è solo per una classe o non si può condividere.
 
-## Ragefire Chasm
+## Ragefire Chasm a Shadowfang Keep
+
+### Ragefire Chasm
 
 La guida completa: [Ragefire Chasm](/it/guides/dungeons/ragefire-chasm/).
 
@@ -119,7 +123,7 @@ La guida completa: [Ragefire Chasm](/it/guides/dungeons/ragefire-chasm/).
 | [Searching for the Lost Satchel](https://www.wowhead.com/forever/quest=5722)<br>Horde, livello 9 | Nel dungeon: Grimtotem Satchel, lasciato da Maur Grimtotem |
 | [Hidden Enemies](https://www.wowhead.com/forever/quest=5728)<br>Horde, livello 9 | Orgrimmar, Valley of Wisdom: Thrall /way 31 37<br><em>Completa prima 3 missioni, a partire da Hidden Enemies.</em> |
 
-## The Hall of Thanes
+### The Hall of Thanes
 
 La guida completa: [The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/).
 
@@ -131,7 +135,7 @@ La guida completa: [The Hall of Thanes](/it/guides/dungeons/hall-of-thanes/).
 | [An Ancient Grudge](https://www.wowhead.com/forever/quest=96395)<br>Entrambe, livello 10 | Nel dungeon: Ghostly Attendant, in Anvilmar's Rest |
 | [The Treaty of Understanding](https://www.wowhead.com/forever/quest=98423)<br>Alliance, livello 9 | Nel dungeon: una tavoletta in una cripta del Reliquary of Kings<br><em>Non condivisibile.</em> |
 
-## Wailing Caverns
+### Wailing Caverns
 
 La guida completa: [Wailing Caverns](/it/guides/dungeons/wailing-caverns/).
 
@@ -145,7 +149,7 @@ La guida completa: [Wailing Caverns](/it/guides/dungeons/wailing-caverns/).
 | [The Glowing Shard](https://www.wowhead.com/forever/quest=6981)<br>Entrambe, livello 10 | Nel dungeon: Glowing Shard, lasciato da Mutanus the Devourer |
 | [Leaders of the Fang](https://www.wowhead.com/forever/quest=914)<br>Horde, livello 15 | Thunder Bluff, Elder Rise: Nara Wildmane /way 45 23<br><em>Completa prima 5 missioni, a partire da The Forgotten Pools di Tonga Runetotem a The Crossroads.</em> |
 
-## The Deadmines
+### The Deadmines
 
 La guida completa: [The Deadmines](/it/guides/dungeons/the-deadmines/).
 
@@ -160,7 +164,7 @@ La guida completa: [The Deadmines](/it/guides/dungeons/the-deadmines/).
 | [The Defias Brotherhood](https://www.wowhead.com/forever/quest=166)<br>Alliance, livello 14 | Westfall, Sentinel Hill: Gryan Stoutmantle /way 56 47<br><em>Stessi prerequisiti di Red Silk Bandanas.</em> |
 | [The Test of Righteousness](https://www.wowhead.com/forever/quest=1654)<br>Alliance, livello 20 | Ironforge, appena oltre le porte: Jordan Stilwell /way 52 36<br><em>La fine della catena Tome of Valor, che inizia altrove a seconda della razza. Solo Paladin.</em> |
 
-## Ruins of Lordaeron
+### Ruins of Lordaeron
 
 La guida completa: [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/).
 
@@ -177,7 +181,7 @@ La guida completa: [Ruins of Lordaeron](/it/guides/dungeons/ruins-of-lordaeron/)
 | [Crest of Lordaeron](https://www.wowhead.com/forever/quest=95189)<br>Alliance, livello 16 | Nel dungeon: Crest of Lordaeron, in uno di diversi punti<br><em>Va consegnata a Lady Dena Kennedy a Stormwind.</em> |
 | [Remember That I Love You](https://www.wowhead.com/forever/quest=92415)<br>Alliance, livello 15 | Nel dungeon: Blood-Stained Letter, vicino a Rath'mael<br><em>Non condivisibile.</em> |
 
-## Shadowfang Keep
+### Shadowfang Keep
 
 La guida completa: [Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/).
 
@@ -189,11 +193,13 @@ La guida completa: [Shadowfang Keep](/it/guides/dungeons/shadowfang-keep/).
 | [The Orb of Soran'ruk](https://www.wowhead.com/forever/quest=1740)<br>Entrambe, livello 20 | The Barrens, vicino a Camp Taurajo: Doan Karhan /way 49 57<br><em>Solo Warlock.</em> |
 | [The Test of Righteousness](https://www.wowhead.com/forever/quest=1654)<br>Alliance, livello 20 | Ironforge, appena oltre le porte: Jordan Stilwell /way 52 36<br><em>La fine della catena Tome of Valor, che inizia altrove a seconda della razza. Solo Paladin.</em> |
 
-## Blackfathom Deeps
+## Blackfathom Deeps a Scarlet Monastery
+
+### Blackfathom Deeps
 
 La guida completa: [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/).
 
-### Horde
+#### Horde
 
 | Missione | Dove inizia |
 |---|---|
@@ -204,7 +210,7 @@ La guida completa: [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/).
 | [The Orb of Soran'ruk](https://www.wowhead.com/forever/quest=1740)<br>Entrambe, livello 20 | The Barrens, vicino a Camp Taurajo: Doan Karhan /way 49 57<br><em>Solo Warlock.</em> |
 | [Allegiance to the Old Gods](https://www.wowhead.com/forever/quest=6565)<br>Horde, livello 17 | Ashenvale, fuori dal dungeon: Damp Note, lasciato di rado da Blackfathom Tide Priestess |
 
-### Alliance
+#### Alliance
 
 | Missione | Dove inizia |
 |---|---|
@@ -216,7 +222,7 @@ La guida completa: [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/).
 | [The Orb of Soran'ruk](https://www.wowhead.com/forever/quest=1740)<br>Entrambe, livello 20 | The Barrens, vicino a Camp Taurajo: Doan Karhan /way 49 57<br><em>Solo Warlock.</em> |
 | [The Test of Righteousness](https://www.wowhead.com/forever/quest=1654)<br>Alliance, livello 20 | Ironforge, appena oltre le porte: Jordan Stilwell /way 52 36<br><em>La fine della catena Tome of Valor, che inizia altrove a seconda della razza. Solo Paladin.</em> |
 
-## The Stockade
+### The Stockade
 
 La guida completa: [The Stockade](/it/guides/dungeons/the-stockade/).
 
@@ -229,7 +235,7 @@ La guida completa: [The Stockade](/it/guides/dungeons/the-stockade/).
 | [The Fury Runs Deep](https://www.wowhead.com/forever/quest=378)<br>Alliance, livello 25 | Wetlands, Dun Modr: Motley Garmason /way 49 18<br><em>Completa prima The Dark Iron War.</em> |
 | [The Stockade Riots](https://www.wowhead.com/forever/quest=391)<br>Alliance, livello 16 | Stormwind, fuori dalla Stockade: Warden Thelwater /way 41 58<br><em>Completa prima la catena che inizia con The Unsent Letter in The Deadmines.</em> |
 
-## Gnomeregan
+### Gnomeregan
 
 La guida completa: [Gnomeregan](/it/guides/dungeons/gnomeregan/).
 Almeno un giocatore deve avere la Workshop Key per aprire la porta sul retro; funziona anche Lockpicking 150.
@@ -250,7 +256,7 @@ Almeno un giocatore deve avere la Workshop Key per aprire la porta sul retro; fu
 | [A Fine Mess](https://www.wowhead.com/forever/quest=2904)<br>Entrambe, livello 20 | Nel dungeon: scorta Kernobee dalla stanza a destra della Clean Room<br><em>Missione di scorta per tutto il gruppo.</em> |
 | [Grime-Encrusted Ring](https://www.wowhead.com/forever/quest=2945)<br>Entrambe, livello 28 | Nel dungeon: Grime-Encrusted Ring, un oggetto che avvia Return of the Ring |
 
-## Razorfen Kraul
+### Razorfen Kraul
 
 La guida completa: [Razorfen Kraul](/it/guides/dungeons/razorfen-kraul/).
 
@@ -264,27 +270,27 @@ La guida completa: [Razorfen Kraul](/it/guides/dungeons/razorfen-kraul/).
 | [Blueleaf Tubers](https://www.wowhead.com/forever/quest=1221)<br>Entrambe, livello 20 | The Barrens, Ratchet: Mebok Mizzyrix /way 62 37<br><em>Gli oggetti della missione sono accanto a Mizzyrix. Non condivisibile.</em> |
 | [Willix the Importer](https://www.wowhead.com/forever/quest=1144)<br>Entrambe, livello 22 | Nel dungeon: Willix the Importer, in una tenda vicino al boss finale<br><em>Missione di scorta per tutto il gruppo.</em> |
 
-## Scarlet Monastery
+### Scarlet Monastery
 
 Almeno un giocatore deve avere The Scarlet Key per l’Armory e la Cathedral; funziona anche Lockpicking 175.
 
 La guida completa: [Scarlet Monastery](/it/guides/dungeons/scarlet-monastery-graveyard/).
 
-### Tutte le ali
+#### Tutte le ali
 
 | Missione | Dove inizia |
 |---|---|
 | [Into The Scarlet Monastery](https://www.wowhead.com/forever/quest=1048)<br>Horde, livello 33 | Undercity, Royal Quarter: Varimathras /way 56 92 |
 | [In the Name of the Light](https://www.wowhead.com/forever/quest=1053)<br>Alliance, livello 34 | Hillsbrad Foothills, Southshore: Raleigh the Devout /way 51 58<br><em>Completa prima 3 missioni, a partire da Brother Anton.</em> |
 
-### Graveyard
+#### Graveyard
 
 | Missione | Dove inizia |
 |---|---|
 | [Vorrel's Revenge](https://www.wowhead.com/forever/quest=1051)<br>Horde, livello 25 | Scarlet Monastery, Graveyard: Vorrel Sengutz |
 | [Hearts of Zeal](https://www.wowhead.com/forever/quest=1113)<br>Horde, livello 30 | Undercity, The Apothecarium: Master Apothecary Faranell /way 48 69<br><em>Completa prima Going, Going, Guano! di Razorfen Kraul.</em> |
 
-### Library
+#### Library
 
 | Missione | Dove inizia |
 |---|---|
@@ -293,7 +299,9 @@ La guida completa: [Scarlet Monastery](/it/guides/dungeons/scarlet-monastery-gra
 | [Mythology of the Titans](https://www.wowhead.com/forever/quest=1050)<br>Alliance, livello 28 | Ironforge, Hall of Explorers: Librarian Mae Paledust /way 75 12 |
 | [Rituals of Power](https://www.wowhead.com/forever/quest=1951)<br>Entrambe, livello 30 | Thousand Needles , Shimmering Flats Raceway: Magus Tirth /way 78 75<br><em>Completa prima 3 missioni, a partire da Journey to the Marsh. Solo Mage.</em> |
 
-## Razorfen Downs
+## Razorfen Downs a Sunken Temple
+
+### Razorfen Downs
 
 La guida completa: [Razorfen Downs](/it/guides/dungeons/razorfen-downs/).
 
@@ -306,7 +314,7 @@ La guida completa: [Razorfen Downs](/it/guides/dungeons/razorfen-downs/).
 | [Scourge of the Downs](https://www.wowhead.com/forever/quest=3523)<br>Entrambe, livello 32 | Razorfen Downs, Murder Pens: Belnistrasz<br><em>Tutto il gruppo deve completarla prima che qualcuno accetti la missione successiva. Non condivisibile.</em> |
 | [Extinguishing the Idol](https://www.wowhead.com/forever/quest=3525)<br>Entrambe, livello 32 | Razorfen Downs, Murder Pens: Belnistrasz<br><em>Tutto il gruppo deve aver completato Scourge of the Downs, altrimenti non conta. Missione di scorta per tutto il gruppo.</em> |
 
-## Uldaman
+### Uldaman
 
 
 | Missione | Dove inizia |
@@ -326,7 +334,7 @@ La guida completa: [Razorfen Downs](/it/guides/dungeons/razorfen-downs/).
 | [The Platinum Discs](https://www.wowhead.com/forever/quest=2278)<br>Entrambe, livello 40 | Nel dungeon: The Discs of Norgannon, nella stanza dopo Archaedas<br><em>Non condivisibile.</em> |
 | [Power in Uldaman](https://www.wowhead.com/forever/quest=1956)<br>Entrambe, livello 35 | Dustwallow Marsh, a nord di Stonemaul Ruins: Tabetha /way 46 57<br><em>Completa prima 3 missioni, a partire da Return to the Marsh. Solo Mage.</em> |
 
-## Zul'Farrak
+### Zul'Farrak
 
 Almeno un giocatore deve avere il Mallet of Zul'Farrak per evocare Gahz'rilla.
 
@@ -341,7 +349,7 @@ Almeno un giocatore deve avere il Mallet of Zul'Farrak per evocare Gahz'rilla.
 | [Gahz'rilla](https://www.wowhead.com/forever/quest=2770)<br>Entrambe, livello 40 | Thousand Needles, Shimmering Flats: Wizzle Brassbolts /way 78 77<br><em>Un membro del gruppo deve avere il Mallet of Zul'Farrak per evocare Gahz'rilla; viene da Qiaga the Keeper in The Hinterlands.</em> |
 | [The Prophecy of Mosh'aru](https://www.wowhead.com/forever/quest=3527)<br>Entrambe, livello 40 | Tanaris, Steamwheedle Port: Yeh'kinya /way 67 22<br><em>Completa prima Screecher Spirits.</em> |
 
-## Maraudon
+### Maraudon
 
 
 | Missione | Dove inizia |
@@ -358,7 +366,7 @@ Almeno un giocatore deve avere il Mallet of Zul'Farrak per evocare Gahz'rilla.
 | [The Pariah's Instructions](https://www.wowhead.com/forever/quest=7067)<br>Entrambe, livello 39 | Desolace, a sud di Mannoroc Coven: Centaur Pariah, che pattuglia intorno a /way 48.4 87.0<br><em>Non condivisibile.</em> |
 | [The Scepter of Celebras](https://www.wowhead.com/forever/quest=7046)<br>Entrambe, livello 41 | Maraudon, Purple side: Celebras the Redeemed<br><em>Completa prima Legends of Maraudon.</em> |
 
-## Sunken Temple
+### Sunken Temple
 
 Almeno un giocatore deve avere Yeh'kinya's Scroll per evocare l’Avatar of Hakkar.
 
@@ -374,11 +382,13 @@ Almeno un giocatore deve avere Yeh'kinya's Scroll per evocare l’Avatar of Hakk
 | [Secret of the Circle](https://www.wowhead.com/forever/quest=3447)<br>Entrambe, livello 46 | Tanaris, a sud di Gadgetzan: Marvon Rivetseeker /way 52 45<br><em>Completa prima 2 missioni, a partire da The Sunken Temple.</em> |
 | [The God Hakkar](https://www.wowhead.com/forever/quest=3528)<br>Entrambe, livello 40 | Tanaris, Steamwheedle Port: Yeh'kinya /way 67 22<br><em>Completa prima 3 missioni, a partire da Screecher Spirits.</em> |
 
-## Blackrock Depths
+## Blackrock Depths a Upper Blackrock Spire
+
+### Blackrock Depths
 
 Almeno un giocatore deve avere la Shadowforge Key per le porte Shadowforge e gran parte del dungeon; funziona anche Lockpicking 280.
 
-### Horde
+#### Horde
 
 | Missione | Dove inizia |
 |---|---|
@@ -393,7 +403,7 @@ Almeno un giocatore deve avere la Shadowforge Key per le porte Shadowforge e gra
 | [Operation: Death to Angerforge](https://www.wowhead.com/forever/quest=4132)<br>Horde, livello 52 | Badlands, Kargath: Warlord Goretooth /way 6 47<br><em>Completa prima 3 missioni, a partire da KILL ON SIGHT: Dark Iron Dwarves. Include Grark Lorkrub, una lunga missione di scorta.</em> |
 | [The Royal Rescue](https://www.wowhead.com/forever/quest=4003)<br>Horde, livello 48 | Orgrimmar, Valley of Wisdom: Thrall /way 32 38<br><em>Completa prima 4 missioni, a partire da Commander Gor'shak.</em> |
 
-### Alliance
+#### Alliance
 
 | Missione | Dove inizia |
 |---|---|
@@ -406,7 +416,7 @@ Almeno un giocatore deve avere la Shadowforge Key per le porte Shadowforge e gra
 | [Marshal Windsor](https://www.wowhead.com/forever/quest=4241)<br>Alliance, livello 48 | Burning Steppes, Morgan's Vigil: Marshal Maxwell /way 84 68<br><em>Completa prima 2 missioni, a partire da Dragonkin Menace.</em> |
 | [Jail Break!](https://www.wowhead.com/forever/quest=4322)<br>Alliance, livello 50 | Nel dungeon: Marshal Windsor, in una cella<br><em>Completa prima 6 missioni, a partire da Dragonkin Menace.</em> |
 
-### Entrambe le fazioni
+#### Entrambe le fazioni
 
 | Missione | Dove inizia |
 |---|---|
@@ -417,11 +427,11 @@ Almeno un giocatore deve avere la Shadowforge Key per le porte Shadowforge e gra
 | [The Love Potion](https://www.wowhead.com/forever/quest=4201)<br>Entrambe, livello 50 | Blackrock Depths, Grim Guzzler: Mistress Nagmara<br><em>Non condivisibile.</em> |
 | [A Taste of Flame](https://www.wowhead.com/forever/quest=4024)<br>Entrambe, livello 52 | Burning Steppes, una grotta a nord-est: Cyrus Therepentous /way 95 31<br><em>Completa prima 11 missioni, a partire da Divine Retribution.</em> |
 
-## Dire Maul
+### Dire Maul
 
 Almeno un giocatore deve avere la Crescent Key per le ali West e North; funziona anche Lockpicking 300.
 
-### Dire Maul East (Warpwood Quarter)
+#### Dire Maul East (Warpwood Quarter)
 
 | Missione | Dove inizia |
 |---|---|
@@ -431,14 +441,14 @@ Almeno un giocatore deve avere la Crescent Key per le ali West e North; funziona
 | [Shards of the Felvine](https://www.wowhead.com/forever/quest=5526)<br>Entrambe, livello 56 | Moonglade, Nighthaven: Rabine Saturna /way 51 45<br><em>Completa prima A Reliquary of Purity dallo stesso PNG ed esplora tutto Dire Maul.</em> |
 | [Arcane Refreshment](https://www.wowhead.com/forever/quest=7463)<br>Entrambe, livello 60 | Dire Maul, Library: Lorekeeper Lydros<br><em>Solo Mage.</em> |
 
-### Dire Maul West (Capital Gardens)
+#### Dire Maul West (Capital Gardens)
 
 | Missione | Dove inizia |
 |---|---|
 | [The Madness Within](https://www.wowhead.com/forever/quest=7461)<br>Entrambe, livello 56 | Dire Maul West, secondo piano: Shen'dralar Ancient |
 | [Foror's Compendium](https://www.wowhead.com/forever/quest=7507)<br>Entrambe, livello 60 | Nel dungeon: Nostro's Compendium of Dragon Slaying, bottino raro o da A Dusty Tome<br><em>Non si vincola alla raccolta; serve per creare la spada da tank Quel'Serrar. Non condivisibile.</em> |
 
-### Dire Maul North (Gordok Commons)
+#### Dire Maul North (Gordok Commons)
 
 | Missione | Dove inizia |
 |---|---|
@@ -449,7 +459,7 @@ Almeno un giocatore deve avere la Crescent Key per le ali West e North; funziona
 | [The Gordok Taste Test](https://www.wowhead.com/forever/quest=5528)<br>Entrambe, livello 56 | Dire Maul, North: Stomper Kreeg<br><em>Solo dopo un Tribute Run.</em> |
 | [Unfinished Gordok Business](https://www.wowhead.com/forever/quest=7703)<br>Entrambe, livello 56 | Dire Maul, North: Captain Kromcrush<br><em>Richiede un Tribute Run, poi un secondo dopo aver ucciso Prince Tortheldrin e preso il Gauntlet of Gordok Might.</em> |
 
-## Lower Blackrock Spire
+### Lower Blackrock Spire
 
 
 | Missione | Dove inizia |
@@ -467,7 +477,7 @@ Almeno un giocatore deve avere la Crescent Key per le ali West e North; funziona
 | [Urok Doomhowl](https://www.wowhead.com/forever/quest=4867)<br>Entrambe, livello 55 | Nel dungeon: Warosh, che pattuglia vicino all’inizio<br><em>Non condivisibile.</em> |
 | [The Final Tablets](https://www.wowhead.com/forever/quest=4788)<br>Entrambe, livello 40 | Tanaris, Steamwheedle Port: Prospector Ironboot /way 66 24<br><em>Completa prima 5 missioni, a partire da Screecher Spirits.</em> |
 
-## Scholomance
+### Scholomance
 
 
 | Missione | Dove inizia |
@@ -483,10 +493,10 @@ Almeno un giocatore deve avere la Crescent Key per le ali West e North; funziona
 | [Dawn's Gambit](https://www.wowhead.com/forever/quest=4771)<br>Entrambe, livello 57 | Eastern Plaguelands, Light's Hope Chapel: Betina Bigglezink /way 81 59<br><em>Completa prima 9 missioni, a partire da Broodling Essence.</em> |
 | [The Lich, Ras Frostwhisper](https://www.wowhead.com/forever/quest=5466)<br>Entrambe, livello 57 | Western Plaguelands, Caer Darrow: Magistrate Marduke /way 70 74<br><em>Completa prima 8 missioni, a partire da Doctor Theolen Krastinov, the Butcher. Serve Spectral Essence equipaggiata per vedere Magistrate Marduke.</em> |
 
-## Stratholme
+### Stratholme
 
 
-### Lato vivo
+#### Lato vivo
 
 | Missione | Dove inizia |
 |---|---|
@@ -497,7 +507,7 @@ Almeno un giocatore deve avere la Crescent Key per le ali West e North; funziona
 | [The Truth Comes Crashing Down](https://www.wowhead.com/forever/quest=5262)<br>Entrambe, livello 55 | Nel dungeon: Head of Balnazzar, lasciato da Balnazzar<br><em>Completa prima The Archivist.</em> |
 | [Of Love and Family](https://www.wowhead.com/forever/quest=5848)<br>Entrambe, livello 52 | Western Plaguelands, Caer Darrow: Artist Renfray /way 65 75<br><em>Completa prima 7 missioni, a partire da Blood Tinged Skies, Carrion Grubbage e Demon Dogs.</em> |
 
-### Lato non morto
+#### Lato non morto
 
 | Missione | Dove inizia |
 |---|---|
@@ -510,7 +520,7 @@ Almeno un giocatore deve avere la Crescent Key per le ali West e North; funziona
 | [Menethil's Gift](https://www.wowhead.com/forever/quest=5463)<br>Entrambe, livello 57 | Eastern Plaguelands, Light's Hope Chapel: Leonid Barthalomew the Revered /way 81 57<br><em>Completa prima 5 missioni, a partire da Doctor Theolen Krastinov, the Butcher.</em> |
 | [Dead Man's Plea](https://www.wowhead.com/forever/quest=8945)<br>Entrambe, livello 58 | Eastern Plaguelands, all’ingresso principale di Stratholme: Anthion Harmon /way 30 16<br><em>Completa prima 9 missioni, a partire da A Supernatural Device. Serve l’Extra-Dimensional Ghost Revealer per vedere chi assegna la missione.</em> |
 
-## Upper Blackrock Spire
+### Upper Blackrock Spire
 
 Almeno un giocatore deve avere il Seal of Ascension per entrare.
 

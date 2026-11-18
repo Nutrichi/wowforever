@@ -1,0 +1,286 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "warrior",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-14",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Lionheart Helm",
+     "source": "Crafted"
+    },
+    {
+     "name": "Enchanted Thorium Helm",
+     "source": "Crafted"
+    },
+    {
+     "name": "Helm of Valor",
+     "source": "Darkmaster Gandling"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Horn of Ve'han",
+     "source": "Datamined in Unknown"
+    },
+    {
+     "name": "Beads of Ogre Might",
+     "source": "Reward from the quest Falrin's Vendetta"
+    },
+    {
+     "name": "Woven Ivy Necklace",
+     "source": "Reward from the quest WANTED: Vile Priestess Hexx and Her Minions"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Spaulders of Heroism",
+     "source": "Reward from the quest Anthion's Parting Words"
+    },
+    {
+     "name": "Spaulders of Valor",
+     "source": "Warchief Rend Blackhand"
+    },
+    {
+     "name": "Sentinel's Pauldrons",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Shifting Cloak",
+     "source": "Crafted"
+    },
+    {
+     "name": "Premier Sergeant's Cloak",
+     "source": "Rank 3 PVP"
+    },
+    {
+     "name": "Master's Cloak",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Enchanted Thorium Breastplate",
+     "source": "Crafted"
+    },
+    {
+     "name": "Breastplate of Heroism",
+     "source": "Reward from the quest Saving the Best for Last"
+    },
+    {
+     "name": "Darksoul Breastplate",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of Heroism",
+     "source": "Reward from the quest An Earnest Proposition"
+    },
+    {
+     "name": "Sentinel's Wristguards",
+     "source": "Crafted"
+    },
+    {
+     "name": "Berserker Bracers",
+     "source": "Reputation reward (Exalted with)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Stronghold Gauntlets",
+     "source": "Crafted"
+    },
+    {
+     "name": "Sentinel's Gloves",
+     "source": "Crafted"
+    },
+    {
+     "name": "Gauntlets of Heroism",
+     "source": "Reward from the quest Just Compensation"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of Heroism",
+     "source": "Reward from the quest Just Compensation"
+    },
+    {
+     "name": "Defiler's Plate Girdle",
+     "source": "Honored with"
+    },
+    {
+     "name": "Belt of Valor",
+     "source": "BOE from LBRS/Stratholm"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Legplates of Heroism",
+     "source": "Reward from the quest Anthion's Parting Words"
+    },
+    {
+     "name": "Sentinel's Plate Legguards",
+     "source": "Reputation reward (Exalted with)"
+    },
+    {
+     "name": "Titanic Leggings",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Heroism",
+     "source": "Reward from the quest Anthion's Parting Words"
+    },
+    {
+     "name": "Sentinel's Sabatons",
+     "source": "Crafted"
+    },
+    {
+     "name": "Boots of Valor",
+     "source": "Kirtonos the Herald"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Warden's Signet of Vigilance",
+     "source": "Exalted with (currently unobtainable)"
+    },
+    {
+     "name": "Cutthroat's Signet",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Don Julio's Band",
+     "source": "Reputation reward (Exalted with)"
+    },
+    {
+     "name": "Cutthroat's Signet",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Adaptive Combat Assistant",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    },
+    {
+     "name": "Defender's Grip Stabilizer",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Stormpike Insignia Rank 6",
+     "source": "Reputation reward (Exalted with)"
+    },
+    {
+     "name": "Defender's Grip Stabilizer",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Thrash Blade",
+     "source": "Reward from the quest Corruption of Earth and Seed"
+    },
+    {
+     "name": "Flurry Axe",
+     "source": "World drop"
+    },
+    {
+     "name": "Bagh Nakh",
+     "source": "Source not listed yet"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Antique Bulwark",
+     "source": "Datamined in Unknown"
+    },
+    {
+     "name": "Sacred Protector",
+     "source": "Reward from the quest The Scarlet Oracle, Demetria or Order Must Be Restored"
+    },
+    {
+     "name": "A Bigger Shield",
+     "source": "Datamined in Unknown"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Fahrad's Reloading Repeater",
+     "source": "Reward from the quest The Perfect Poison"
+    },
+    {
+     "name": "Gorewood Bow",
+     "source": "Reward from the quest The Scarlet Oracle, Demetria"
+    },
+    {
+     "name": "Bloodseeker",
+     "source": "Reward from the quest Hero of the Stormpike"
+    }
+   ]
+  }
+ ]
+}

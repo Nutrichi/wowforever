@@ -7,7 +7,7 @@ lang: nl
 image: ../../../assets/posts/2026-10-27-wow-forever-poisons-shady-dealer.jpg
 imageAlt: "Jasper Fel, Shady Dealer in Stormwind, die reagents voor Poisons verkoopt, een schermafdruk uit de beta van World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/poisons/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/rogue/poisons/"
 tags: ["forever", "classes"]
 manual: true
 featured: false
@@ -39,4 +39,4 @@ Poisons werken als een beroep. Elk gif dat je maakt, geeft een skillpunt, met el
 
 ![Osborne the Night Man, Rogue-trainer in Stormwind, met de rangen van de Poisons en de skill die ze vragen, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-10-27-wow-forever-poisons-rogue-trainer.jpg)
 
-De [gids voor de Poisons](/nl/guides/poisons/) loopt beide reeksen stap voor stap door, met de zwakte van elke lastige mob, de levels van alle rangen en de reagents. De [levelgids voor de Rogue](/nl/guides/rogue-leveling/) linkt er nu naar.
+De [gids voor de Poisons](/nl/classes/rogue/poisons/) loopt beide reeksen stap voor stap door, met de zwakte van elke lastige mob, de levels van alle rangen en de reagents. De [levelgids voor de Rogue](/nl/classes/rogue/leveling/) linkt er nu naar.

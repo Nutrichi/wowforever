@@ -33,4 +33,4 @@ Il se soigne à travers tout ce qui ne l'interrompt pas. C'est ainsi qu'il a bat
   </button>
 </figure>
 
-Le jeu d'un Holy Paladin au niveau 60 est expliqué dans le [guide du Holy Paladin](/fr/guides/holy-paladin/).
+Le jeu d'un Holy Paladin au niveau 60 est expliqué dans le [guide du Holy Paladin](/fr/classes/paladin/holy/).

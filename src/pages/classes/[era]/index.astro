@@ -1,13 +1,21 @@
 ---
-/* De pagina van één era onder CLASSES in het Engels: /classes/tbc/ enzovoort. */
+/*
+ * Eén era onder CLASSES (/classes/tbc/) of, sinds 18 november 2026, de pagina van een class
+ * in Forever (/classes/druid/, uit pages/en/classes/druid.md; Nutri: "each class should have a
+ * separate page").
+ */
 import GuideEraPage from '../../../components/guides/GuideEraPage.astro';
+import SitePage from '../../../components/pages/SitePage.astro';
 import { guideEras, type GuideEra } from '../../../config/guides';
+import { pageSlugs } from '../../../lib/pages';
 
-export function getStaticPaths() {
-  return guideEras.map((era) => ({ params: { era } }));
+export async function getStaticPaths() {
+  const classPages = (await pageSlugs('classes')).filter((s): s is string => !!s && !s.includes('/'));
+  return [...guideEras.map((era) => ({ params: { era } })), ...classPages.map((era) => ({ params: { era } }))];
 }
 
-const era = Astro.params.era as GuideEra;
+const param = Astro.params.era!;
+const isEra = (guideEras as readonly string[]).includes(param);
 ---
 
-<GuideEraPage locale="en" kind="classes" era={era} />
+{isEra ? <GuideEraPage locale="en" kind="classes" era={param as GuideEra} /> : <SitePage locale="en" pageKey={`classes/${param}`} />}

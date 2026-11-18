@@ -32,7 +32,9 @@ Cooking is een secundair beroep, dus het kost je nooit een van je twee hoofdplaa
 - **Meer dan 100 recepten**, waarvan de trainers er maar een dozijn leren. De rest komt van verkopers, drops, quests en de [Azeroth Commerce Authority](/nl/reputations/azeroth-commerce-authority/).
 - **<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5198"><img class="wf-wh__icon" src="/wh/inv_staff_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cookie's Stirring Rod</a>** van Cookie in The Deadmines kookt nu 25% sneller.
 
-## Rangen en waar je ze leert
+## Rangen en trainers
+
+### Rangen en waar je ze leert
 
 | Rang | Skill | Hoe |
 |---|---|---|
@@ -49,7 +51,7 @@ Cooking is een secundair beroep, dus het kost je nooit een van je twee hoofdplaa
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, uit <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, die valt bij monsters zoals <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> aan de oostkust van Tanaris.
 - <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, bij innkeepers en verkopers van eten.
 
-## Trainers
+### Trainers
 
 | Factie | Trainer | Waar | /way |
 |---|---|---|---|
@@ -107,7 +109,9 @@ Vanaf 225 heb je Artisan nodig, van de quest hierboven. Boodschappenlijst voor 2
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13941"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Filet of Redgill</a> | 225 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2664">Kelsey Yance</a>, Booty Bay (/way 28.2 74.4) |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13946"><img class="wf-wh__icon" src="/wh/inv_scroll_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Recipe: Poached Sunscale Salmon</a> | 240 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8137">Gikkix</a>, Steamwheedle Port, Tanaris (/way 66.6 22.0) |
 
-## Oude gerechten, nieuwe buffs
+## Gerechten en recepten
+
+### Oude gerechten, nieuwe buffs
 
 Hetzelfde gerecht in Forever en in Classic Era, uit de tooltips van beide spellen.
 
@@ -122,11 +126,11 @@ Hetzelfde gerecht in Forever en in Classic Era, uit de tooltips van beide spelle
 
 Elke buff duurt 15 minuten en begint na 10 seconden eten.
 
-## Eten dat je verandert
+### Eten dat je verandert
 
 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=251525"><img class="wf-wh__icon" src="/wh/inv_misc_fish_69.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Whimsyfin Delight</a> geeft nu een orcversie van de ninja- en piratenkostuums; de vormen van Murloc en Ogre uit de eerste dagen waren plaatshouders, zegt Blizzard. Het recept vraagt Cooking 85 en valt in Redridge Mountains; meer in de [post erover](/nl/news/savory-whimsyfin-delight-turns-you-into-a-murloc-or-an-ogre/). <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6657"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhead_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Deviate Delight</a>, met zijn ninja en piraat, is er ook nog.
 
-## Nieuwe recepten
+### Nieuwe recepten
 
 Elk nieuw recept van Forever met de skill die het vraagt en waar het vandaan komt. "Nog niet bekend" betekent dat de bron nog niet gevonden is.
 
@@ -172,7 +176,9 @@ Elk nieuw recept van Forever met de skill die het vraagt en waar het vandaan kom
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1250146"><img class="wf-wh__icon" src="/wh/inv_misc_food_meat_cooked_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Flank au Poivre</a> | 275 | Nog niet bekend |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255241"><img class="wf-wh__icon" src="/wh/spell_shadow_sealofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cleansing Stew</a> | Nog niet bekend | Nog niet bekend |
 
-## Kampvuren en kampobjecten
+## Kampvuren
+
+### Kampvuren en kampobjecten
 
 | Object | Skill | Recept van | Wat het doet |
 |---|---|---|---|
@@ -186,11 +192,13 @@ De skill is wat de blueprint vraagt; de kampvuurkits zelf vragen iets meer, 140 
 
 ![Het Cooking-venster met de categorieën Camping, Everyday Meals, Stamina Food en Strength Food, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../../assets/posts/2026-09-29-wow-forever-cooking-window.jpg)
 
-## Hoe het werkt
+### Hoe het werkt
 
 Het Cooking-venster sorteert de recepten op de stat die ze verhogen, met Camping bovenaan. De enige werkplaats is een vuur, en je eigen kampvuur telt mee. Vlees komt van beasts, vis van [Fishing](/nl/tradeskills/forever/fishing/), kruiden van de Cooking-verkopers.
 
-## Recepten voor Merchant's Favor
+## Merchant's Favor en Legacy-talenten
+
+### Recepten voor Merchant's Favor
 
 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256731">Kalsey Sanden</a> in het kamp van de [Azeroth Commerce Authority](/nl/reputations/azeroth-commerce-authority/) bij Three Corners (/way 10.8 72.7) verkoopt zes smoothierecepten voor Merchant's Favor.
 
@@ -205,7 +213,7 @@ Het Cooking-venster sorteert de recepten op de stat die ze verhogen, met Camping
 
 De Horde koopt ze bij <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=248198">Aza'bek</a> van [Durotar Supply and Logistics](/nl/reputations/durotar-supply-and-logistics/).
 
-## Legacy-talenten
+### Legacy-talenten
 
 | Perk | Effect |
 |---|---|

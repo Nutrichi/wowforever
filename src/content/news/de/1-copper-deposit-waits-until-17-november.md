@@ -13,6 +13,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Update 18. November:** Seit dem wöchentlichen Reset am 17. November liegt die Mindestgebühr wieder bei 1 Kupfer. Sie folgt jetzt dem Händlerpreis: 5 % für 2 Stunden, 20 % für 8 Stunden und 60 % für 24 Stunden.
+
 Billige Gegenstände im Auction House von World of Warcraft: Forever zu verkaufen, bleibt noch ein paar Tage teuer. Die Mindestgebühr von 1 Kupfer ist noch nicht live. Sie kommt mit der wöchentlichen Wartung am 17. November, sagt Blizzard.
 
 ## Was passiert ist

@@ -106,7 +106,9 @@ En wat nieuw is, volgens Jones:
 
 In oktober 2026 voegde Clay Stone eraan toe dat nieuwe raidtiers zo weinig mogelijk kracht toevoegen, zodat gear langer meegaat, en dat de wereld in de breedte groeit via tradeskills en het Legacy-systeem ([meer](/nl/news/raid-tiers-will-add-as-little-power-as-possible/)).
 
-## Datums
+## Data en roadmap
+
+### Datums
 
 Alle datums komen van Blizzard. Tijden staan in Pacific time, met de Belgische tijd erbij waar dat telt.
 
@@ -127,22 +129,22 @@ Alle datums komen van Blizzard. Tijden staan in Pacific time, met de Belgische t
 | Februari 2027 | Collector's Editions die vanaf 24 september 2026 besteld zijn, worden geleverd. |
 | 31 december 2027 | Laatste dag om een code van de Collector's Edition in te wisselen voor een mogelijk tegoed op Battle.net voor eerdere digitale aankopen. |
 
-## De roadmap voor het eerste jaar
+### De roadmap voor het eerste jaar
 
 Blizzard vatte het eerste jaar samen als "fast-paced production for a slow-paced game". De inhoud en de timing kunnen nog veranderen, en functies evolueren met de feedback van spelers, aldus Blizzard.
 
-### Herfst 2026
+#### Herfst 2026
 
 - Beta van 17 september tot 23 oktober, eerst tot level 20 en later tot level 30.
 - Early Name Reservation en personages maken vanaf 27 oktober.
 - Lancering op 4 november.
 
-### Winter 2026
+#### Winter 2026
 
 - Op 9 december openen de raids: Barrow Deeps voor 10 spelers, Hyjal Summit voor 20 spelers en Onyxia's Lair voor 40 spelers.
 - WoW Forever Hardcore komt uit. De roadmap zet hem in dezelfde winter, na de raids; Blizzard noemt geen dag.
 
-### Lente 2027
+#### Lente 2027
 
 - 2 nieuwe raids, voor 10 en 20 spelers.
 - 2 nieuwe dungeons.
@@ -150,7 +152,7 @@ Blizzard vatte het eerste jaar samen als "fast-paced production for a slow-paced
 - Een nieuwe legendary questreeks.
 - Een nieuw PvP-seizoen.
 
-### Zomer 2027
+#### Zomer 2027
 
 - Een vernieuwde iconische raid en een nieuwe raid.
 - Meer inhoud in de wereld.
@@ -160,15 +162,17 @@ Blizzard vatte het eerste jaar samen als "fast-paced production for a slow-paced
 
 Nieuwe inhoud volgt de volgorde van het originele spel, dus de raidgroottes zijn meteen gemengd: Hyjal Summit voor 20 spelers opent samen met Onyxia's Lair voor 40. Welke raids precies in 2027 komen, is nog niet aangekondigd.
 
-## Nieuwe en vernieuwde zones
+## Zones, levelen en reizen
+
+### Nieuwe en vernieuwde zones
 
 Het avontuur speelt in de Eastern Kingdoms en Kalimdor, met nieuwe regio's, onafgemaakte hoeken van de originele wereld en meer dan 1.000 nieuwe quests van level 1 tot 60. Blizzard toonde vier regio's op BlizzCon.
 
-### Zephras Isle, level 1 tot 12
+#### Zephras Isle, level 1 tot 12
 
 De startzone van de Skyborne: een afgelegen eiland in de lucht dat nu in zijn bestaan bedreigd wordt. De stijl is klassiek Warcraft, met architectuur geïnspireerd op Skywall. Wie daar wil spelen, heeft het Skyborne Heroic Pack of een hogere editie nodig. Druids en Shamans van de Horde kunnen er op level 5 een relic krijgen, via de quest Meddlesome Mages. De Alliance kan die quest niet aannemen, zo blijkt op de beta.
 
-### The Riverglades, ongeveer level 30 tot 45
+#### The Riverglades, ongeveer level 30 tot 45
 
 Een nieuw grensgebied in de Eastern Kingdoms, met rivieren, graslanden, handelsroutes en vervallen burchten. Er zijn meer dan 150 nieuwe quests, nieuwe reputaties en beloningen. Mensen, orcs, ogres en kleine gemeenschappen met oude vetes wonen er; Blizzard noemde het "not a story about saving Azeroth, a story about living there". Een neutrale goblinhaven voegt reisroutes toe, en de zone krijgt een eigen dungeon. Een splitsing in Redridge Mountains die vroeger doodliep, leidt er nu naartoe. Spelers van de Alliance treffen de Brotherhood of the Horse, die sinds Warcraft II niet meer te zien was, en spelers van de Horde een ogerclan; de Twilight's Hammer is de dreiging, volgens [een video van Blizzard](/nl/news/a-five-minute-video-sums-up-what-changes/) van 23 september. Het Black Market Auction House van Forever staat in Powderfuse Port, een goblinpost in de zone; zie de [gids over de BMAH](/nl/guides/bmah/). Het korte verhaal Cost of Honor, van 13 november, speelt zich af in Farholde Keep; zie [de post over het verhaal](/nl/news/cost-of-honor-tells-the-past-of-the-riverglades/). Hoe je er komt, de dorpen en de quests staan in onze [gids over de Riverglades](/nl/guides/riverglades/).
 
@@ -182,19 +186,19 @@ Een nieuw grensgebied in de Eastern Kingdoms, met rivieren, graslanden, handelsr
   </button>
 </figure>
 
-### Mount Hyjal, levelen in het endgame
+#### Mount Hyjal, levelen in het endgame
 
 Wat er gebeurde na de nederlaag van Archimonde, met onder meer Darkwhisper Gorge. Mount Hyjal heeft inhoud voor alleen en in groep, nieuwe reputaties, quests en beloningen. Er liggen de raid Hyjal Summit en een van de drie ingangen van de Barrow Deeps. Het is de finale van het levelen. Er ligt een kamp van Horde en Alliance samen, vast op dezelfde plek en gedwongen tot een wankele vrede.
 
-### Shen'dralas, een nieuwe regio
+#### Shen'dralas, een nieuwe regio
 
 Een verborgen regio tussen Mulgore en Desolace, verbonden met de Shen'dralar, de Night Elves die nog in Dire Maul wonen, en met Eldre'Thalas. Het verhaal volgt een oorlog tussen de centaurstammen van de regio en geeft nieuwe redenen om Maraudon en Razorfen Downs te bezoeken.
 
-### De oude wereld in een nieuw licht
+#### De oude wereld in een nieuw licht
 
 Associate Production Director Clay Stone zei dat de kunststijl van Classic tijdloos is en niet vervangen wordt. Bestaande effecten worden wel beter: stromende rivieren, natuurlijkere mist, maanlicht door de bomen en opgewaardeerde omgevingen. Blizzard toonde Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore en The Barrens. De originele zones krijgen ook nieuwe quests en geheimen. Zwaardere regen en mist volgen: op 23 september toonde Blizzard een regenachtige dag in Elwynn Forest, met effecten die daarna naar de beta kwamen.
 
-## Levelen en reizen
+### Levelen en reizen
 
 De ervaringscurve verandert niet: een personage heeft evenveel nodig voor level 60 als in het oorspronkelijke Classic, zei Blizzard tegen The Sun. Wat verandert, is waar die ervaring vandaan komt, want de nieuwe zones leggen routes aan die het oorspronkelijke spel niet had. The Riverglades en Shen'dralas liggen in het stuk waar het levelen trager gaat, en Mount Hyjal ligt dicht bij 60.
 
@@ -246,18 +250,20 @@ Elke raidboss laat een chase item vallen, zei Blizzard in een interview met The 
 
 De twee nieuwe raids vragen geen attunement; Onyxia's Lair houdt zijn reeks uit Classic, per personage. Blizzard plant nu een wekelijkse reset voor elke raid. De maten van 10, 20 en 40 spelers liggen vast in plaats van mee te schalen, en de moeilijkheid volgt nooit je level of je gear, dus een groep kan een raid voorbijstreven in gear en in level.
 
-## De Skyborne
+## Skyborne, classes en racials
+
+### De Skyborne
 
 De Skyborne zijn een nieuw ras van elfen met een elementaire inslag. Hun zwevende thuis, Zephras Isle, wordt in zijn bestaan bedreigd, en hun gedeelde afkomst heeft geleid tot heel verschillende ideeën over de toekomst. De Skyborne zijn niet neutraal: bij het maken van een personage kiezen spelers een factie, en die keuze bepaalt de extra class. Onder elkaar heten ze de Shen'dorei. De keuze van factie bindt de Skyborne van de Horde ook aan de Earthen Ring, met een nieuw gebied in Mulgore, en die van de Alliance aan de Kirin Tor, allebei met quests en reputatie, zegt Tim Jones.
 
-### High Order Skyborne, Alliance
+#### High Order Skyborne, Alliance
 
 - Volgen de arcane erfenis van hun voorouders en de ideeën van de Kirin Tor.
 - Classes: Warrior, Hunter, Rogue, Druid en Mage.
 - Racials: Walk on Air, Read Leyline, Wind Blessed en Elemental Insight.
 - Talen: Common en Darnassian.
 
-### Windshaper Skyborne, Horde
+#### Windshaper Skyborne, Horde
 
 - Volgen elementaire tradities en berijden de elementaire winden.
 - Classes: Warrior, Hunter, Rogue, Druid en Shaman.
@@ -270,7 +276,7 @@ Druids van de Skyborne hebben eigen hemelsblauwe Bear-, Cat-, Travel- en Moonkin
 
 Voor de Skyborne en Zephras Isle heb je het Skyborne Heroic Pack van 29,99 euro of een hogere editie nodig. Het is de eerste keer dat Blizzard een speelbaar ras verkoopt buiten een uitbreiding. De toegang geldt alleen voor het World of Warcraft-account waarvoor het pack gekocht is.
 
-## Classes, combinaties en racials
+### Classes, combinaties en racials
 
 Elke class en spec wordt herwerkt, met nieuwe vaardigheden en nieuwe talentbomen. Classes blijven uniek aanvoelen, maar talenten gaan weg van kleine bonussen van 1 of 2 procent naar keuzes die echt iets doen. De Paladin krijgt een nieuwe Seal om te tanken, meer groepsheals en nieuwe middelen voor Retribution. Twist of Light vervangt de oude Seal Twisting, zo blijkt uit de [deep dive over de Paladin](/nl/news/paladins-get-a-new-kind-of-seal-twisting/). Er zijn 51 talentpunten in totaal, zoals in Classic.
 
@@ -280,7 +286,9 @@ De nieuwe combinaties van ras en class zijn de Undead Paladin, de Dwarf Shaman, 
 
 Ook de racials zijn herwerkt. Elk ras heeft nu vier racials en de resistance-racials zijn weg. Ook de weapon specializations zijn weg: [Humans, Dwarves en Orcs krijgen een bonus op critical strikes](/nl/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) die met elk wapen werkt. De volledige tabel van rassen en classes, met elke racial per ras, staat op [Classes](/nl/classes/).
 
-## Nieuwe systemen
+## Nieuwe systemen, Legacy en beroepsperks
+
+### Nieuwe systemen
 
 - **Optionele transmog.** Transmog bestaat, maar elke speler kiest of hij het ziet. Met de optie uit toont iedereen zijn echte gear.
 - **HD- of SD-graphics.** Personages, modellen en de wereld wisselen tussen de originele look en vernieuwde beelden, met beter licht, betere mist en beter water.
@@ -300,13 +308,13 @@ Ook de racials zijn herwerkt. Elk ras heeft nu vier racials en de resistance-rac
 - **Een gathering-professie rond level 3 of 4.** Een quest geeft de keuze tussen een handboek Herbalism, Mining of Skinning, dat de professie leert aan wie hem niet heeft en minder dan twee draagt.
 - **Niets hoort te verdwijnen.** Het team is niets van plan zoals het oude Naxxramas, dat voorgoed weg was.
 
-## Het Legacy-systeem
+### Het Legacy-systeem
 
 Levelen van 1 tot 60 is het hart van Classic, en het Legacy-systeem beloont spelers die meer dan één personage levelen. Legacy Challenges zijn doelen in zes categorieën: verkennen, classes levelen, tradeskills verhogen, PvP-ranks halen, reputaties maximaal maken, en dungeons en raids afwerken.
 
 Elke voltooide challenge geeft één Legacy Point. Punten gaan in een Legacy-boom met drie takken, en elke perk werkt voor elk personage op het account. De meeste perks zijn passief, enkele moet je activeren, en geen enkele geeft kracht in gevechten. Een personage van level 38 op de beursvloer had 4 punten te besteden, en verschillende knopen stonden op "to be added in future patch content". In een latere week van de beta kreeg elke tester 16 Legacy-punten om het systeem te testen, tot het einde van de beta.
 
-### Adventure
+#### Adventure
 
 - Well Rested: rested XP bouwt 4% sneller op en het maximum ligt 4% hoger.
 - Talented: talentpunten beginnen op level 9 in plaats van 10, nog altijd tot 51.
@@ -316,7 +324,7 @@ Elke voltooide challenge geeft één Legacy Point. Punten gaan in een Legacy-boo
 - Field Medicine: Recently Bandaged duurt 5 seconden korter, in de open wereld.
 - Frequent Flier: vluchtroutes kosten 50% minder en hun mounts zijn 20% sneller.
 
-### Resourcefulness
+#### Resourcefulness
 
 - The Quick and the Dead: sneller als je dood bent, en helpende spells kosten niets gedurende 1 minuut na je resurrection of tot een gevecht.
 - Reinforce: minder slijtage als je sterft.
@@ -330,7 +338,7 @@ De derde tak bevat de perks voor tradeskills; die staan op [Tradeskills](/nl/tra
 
 Los van de boom speelt het totale aantal verdiende punten een reeks cosmetische beloningen vrij. Punten uitgeven aan perks vertraagt die reeks niet. De beloningen die tot nu toe getoond zijn: de Replica Ironforge Air Rifle, het pet [Spectral Bear Cub](/nl/guides/pets/spectral-bear-cub/), een tabard met de Spectral Bear en de mount Reins of the Spectral Bear. De reeks gaat open op 15, 25, 40 en 55 punten, met de mount op 55. Elke uitdaging is precies één punt waard, en een class trainer leert een hele boom af voor 10 goud.
 
-## Perks van tradeskills
+### Perks van tradeskills
 
 Tradeskills krijgen hun eerste echte herziening. In Classic gaf een tradeskill alleen recepten; in Forever geeft elke primaire tradeskill ook perks aan het personage dat hem leert, naast nieuwe en herwerkte recepten. De perks per tradeskill, zoals getoond in beelden van BlizzCon, staan op [Tradeskills](/nl/tradeskills/). De exacte cijfers liggen nog niet vast, en de zomer van 2027 brengt een nieuwe ronde updates.
 
@@ -348,7 +356,9 @@ Hardcore komt naar Forever, maar niet bij de lancering. Blizzard zei op het Hard
 
 Twee dingen veranderen zodra het er is. Het spel waarschuwt spelers voor een world refresh, zodat ze eerst een veilige plek kunnen zoeken. En een personage dat sterft, kan naar elke modus buiten Hardcore, in plaats van verplicht naar een PvE-realm. Hardcore krijgt ook eigen Legacy-uitdagingen en -perks, en Blizzard zei dat het team nadenkt over Mak'gora-toernooien, zonder daar iets over te bevestigen.
 
-## Edities en prijzen
+## Edities, prijzen en Forsaken Kingdom
+
+### Edities en prijzen
 
 Forever kost niets extra bovenop een abonnement op World of Warcraft of Game Time. De Battle.net Shop verkoopt drie optionele digitale edities, en de Blizzard Gear Store verkoopt een fysieke Collector's Edition voor 150 euro. Items met * werken in zowel het moderne World of Warcraft als Forever, items met ** alleen in Forever, en geen enkel item werkt in WoW Classic.
 
@@ -375,11 +385,11 @@ Forever kost niets extra bovenop een abonnement op World of Warcraft of Game Tim
 
 De Cerulean Prideclaw is een grondmount, dus riding skill moet je nog altijd in het spel kopen. Housing-decor werkt alleen in de housing van het moderne World of Warcraft, waarvoor Midnight nodig is.
 
-### Invite-A-Friend-lanceringscodes
+#### Invite-A-Friend-lanceringscodes
 
 Elke editie bevat codes waarmee een vriend Forever kan spelen tijdens de lanceringsweek, van 4 tot 11 november 2026, zonder abonnement of Game Time. De codes komen vanaf 20 oktober 2026 per mail, en de vriend wisselt ze in via Battle.net. Edities die als cadeau gekocht zijn, bevatten geen codes.
 
-### De Collector's Edition
+#### De Collector's Edition
 
 De fysieke Collector's Edition kost 150 euro in de Blizzard Gear Store. In Australië en Nieuw-Zeeland verkopen winkels hem. Hij bevat: Op 24 september kwam een nieuwe partij van de Engelse versie in de verkoop, met een limiet van één exemplaar per huishouden in de Gear Store. Bestellingen vanaf die dag worden in februari 2027 geleverd, eerdere in november 2026, zie [de post](/nl/news/more-collectors-editions-go-on-sale/).
 
@@ -389,7 +399,7 @@ De fysieke Collector's Edition kost 150 euro in de Blizzard Gear Store. In Austr
 
 De toegang tot de beta uit de Collector's Edition kwam per mail en werkte alleen tijdens de beta. Sommige eerdere digitale aankopen komen in aanmerking voor tegoed op Battle.net als de code van de Collector's Edition uiterlijk op 31 december 2027 wordt ingewisseld. Niet elk product komt in aanmerking, volgens een supportartikel van Blizzard.
 
-## Warcraft III Reforged: Forsaken Kingdom
+### Warcraft III Reforged: Forsaken Kingdom
 
 Het verhaal van Forever begint in een nieuwe campagne voor Warcraft III. Forsaken Kingdom werd op 12 september 2026 aangekondigd en meteen uitgebracht. Het volgt Sylvanas en de val van Lordaeron, de stichting van de Undercity en de eerste Forsaken Paladin, en het leidt rechtstreeks naar de Undead Paladins van Forever.
 

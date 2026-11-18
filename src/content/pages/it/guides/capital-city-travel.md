@@ -36,7 +36,7 @@ Viaggiare tra le capitali è più facile in WoW Forever che in Classic. Una nuov
 | Orgrimmar | Undercity | Zeppelin dalla torre fuori Orgrimmar |
 | Orgrimmar | Thunder Bluff | A piedi attraverso The Barrens, poi un volo diretto |
 
-Tutti i percorsi funzionano anche al contrario. Ogni punto di volo e ogni nave sono nella [guida alle rotte di volo](/it/guides/flight-paths/), e un Mage fa prima con i [portali](/it/guides/mage-portals/).
+Tutti i percorsi funzionano anche al contrario. Ogni punto di volo e ogni nave sono nella [guida alle rotte di volo](/it/guides/flight-paths/), e un Mage fa prima con i [portali](/it/classes/mage/portals/).
 
 ## Da Stormwind a Ironforge
 

@@ -22,7 +22,7 @@ Blizzard [promised last week](/news/hunter-and-warlock-pets-get-tougher-on-tuesd
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17804"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Soul Siphon</a>:** now names Corruption, Siphon Life and Bane of Agony. Before, every other Affliction effect counted, so a curse no longer adds to the bonus for Drain Life, Drain Soul and Wrack.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3110"><img class="wf-wh__icon" src="/wh/spell_fire_firebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Firebolt</a>:** the Imp deals more damage. The increase is largest at low levels and smaller at higher ones.
 
-Put your three DoTs up first, then channel Wrack: it now pays off on enemies that live long enough. Our [Affliction Warlock guide](/guides/affliction-warlock/) has the new rotation.
+Put your three DoTs up first, then channel Wrack: it now pays off on enemies that live long enough. Our [Affliction Warlock guide](/classes/warlock/affliction/) has the new rotation.
 
 ## Hunter
 

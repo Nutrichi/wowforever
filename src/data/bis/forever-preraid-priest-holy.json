@@ -1,0 +1,181 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "priest",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-17",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Bad Hat",
+     "source": "Quest (Azshara)"
+    },
+    {
+     "name": "Mooncloth Circlet",
+     "source": "Crafted ()"
+    },
+    {
+     "name": "Earthenweave Crown",
+     "source": "Crafted ()"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Jeweled Amulet of Cainwyn",
+     "source": "Source not listed yet"
+    },
+    {
+     "name": "Animated Chain Necklace",
+     "source": "Ramstein the Gorger (Stratholme)"
+    },
+    {
+     "name": "Heart of the Fiend",
+     "source": "Kirtonos the Herald (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Mooncloth Shoulders",
+     "source": "Crafted"
+    },
+    {
+     "name": "Mantle of the Scarlet Crusade",
+     "source": "Cannon Master Willey (Stratholme)"
+    },
+    {
+     "name": "Nethergeld Shoulders",
+     "source": "Crafted ()"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Hide of the Wild",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Truefaith Vestments",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Wyrmthalak's Shackles",
+     "source": "Quest (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Hands of the Exalted Herald",
+     "source": "Zone Drop (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Wisdom of the Timbermaw",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Padre's Trousers",
+     "source": "Illyanna Ravenoak (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Ogreseer Tower Boots",
+     "source": "Spirestone Lord Magus (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Fordring's Seal",
+     "source": "Reward from the quest In Dreams"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Fordring's Seal",
+     "source": "Reward from the quest In Dreams"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Serenity Field",
+     "source": "Pix Xizzix (Stranglethorn Vale): / Holy Bologna: What the Light Won't Tell You (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Serenity Field",
+     "source": "Pix Xizzix (Stranglethorn Vale): / Holy Bologna: What the Light Won't Tell You (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Gift of the Elven Magi",
+     "source": "Zone Drop (Stratholme)"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Penelope's Rose",
+     "source": "Reward from the quest Kirtonos the Herald"
+    }
+   ]
+  }
+ ]
+}

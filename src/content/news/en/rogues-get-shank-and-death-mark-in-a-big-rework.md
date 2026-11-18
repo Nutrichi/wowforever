@@ -65,4 +65,4 @@ Blizzard also fixed Hemorrhage and Ghostly Strike, which hit much too hard with 
 
 ## What this means for our guides
 
-The new trees are now in our [talent calculator](/talents/rogue/). The guides for [Assassination](/guides/assassination-rogue/), [Combat](/guides/combat-rogue/), [Subtlety](/guides/subtlety-rogue/) and [Rogue leveling](/guides/rogue-leveling/) follow them since 4 November.
+The new trees are now in our [talent calculator](/talents/rogue/). The guides for [Assassination](/classes/rogue/assassination/), [Combat](/classes/rogue/combat/), [Subtlety](/classes/rogue/subtlety/) and [Rogue leveling](/classes/rogue/leveling/) follow them since 4 November.

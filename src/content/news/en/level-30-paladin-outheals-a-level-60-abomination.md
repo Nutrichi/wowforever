@@ -32,4 +32,4 @@ He heals himself through anything that does not interrupt him. That is how he be
   </button>
 </figure>
 
-How a Holy Paladin plays at level 60 is in the [Holy Paladin guide](/guides/holy-paladin/).
+How a Holy Paladin plays at level 60 is in the [Holy Paladin guide](/classes/paladin/holy/).

@@ -22,6 +22,8 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
+> **Update 18 November:** since the hotfixes of 17 November the sleeping bag no longer works while mounted, can only be placed in certain spots, like hunter traps, and gives a Resting aura while you are inside its area.
+
 The [Cozy Sleeping Bag](https://www.wowhead.com/forever/item=211527/cozy-sleeping-bag) is an item that lets you lie down anywhere and pick up bonus experience while you rest. It first appeared in Season of Discovery and it is back in WoW Forever, at the end of a quest chain that runs across half of Azeroth. Players found it on the beta; Blizzard has not announced it.
 
 You need to be level 14 to start.

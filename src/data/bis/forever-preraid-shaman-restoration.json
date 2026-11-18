@@ -1,0 +1,298 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "shaman",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-14",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Blue Dragonscale Helm",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Master's Hat",
+     "source": "World drop"
+    },
+    {
+     "name": "Premier Warlord's Mail Helm",
+     "source": "PVP Vendor"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Orb of the Darkmoon",
+     "source": "Darkmoon Faire 1200 Tickets in Orb of the Darkmoon"
+    },
+    {
+     "name": "Chains of the Lich",
+     "source": "Balzaphon Stratholme"
+    },
+    {
+     "name": "Horn of Ve'han",
+     "source": "Source not listed yet"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Mantle of the Timbermaw",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Pauldrons of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
+    },
+    {
+     "name": "Premier General's Mail Spaulders",
+     "source": "Tier 0.5 Quest Chain"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Master's Cloak",
+     "source": "World drop"
+    },
+    {
+     "name": "Cloak of Earth and Sky",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Frostwolf Advisor's Cloak",
+     "source": "Alterac Valley Vendors"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Masterwork Breastplate",
+     "source": "World drop"
+    },
+    {
+     "name": "Vest of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
+    },
+    {
+     "name": "Vest of Elements",
+     "source": "General Drakkisath Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Dryad's Wrist Bindings",
+     "source": "Warsong Gulch Vendors Exalted"
+    },
+    {
+     "name": "Dryad's Wrist Bindings",
+     "source": "Warsong Gulch Vendors Revered"
+    },
+    {
+     "name": "Bindings of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of the Greatfather",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Storm Gauntlets",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Gauntlets of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Archmage",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Cord of The Five Thunders",
+     "source": "Arathi Basin Vendors"
+    },
+    {
+     "name": "Highlander's Cloth Girdle",
+     "source": "Arathi Basin Vendors"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Ironfeather Leggings",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Pristine Scorpid Leggings",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "General's Mail Leggings",
+     "source": "PVP Vendors"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Earthen Silk Slippers",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Boots of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
+    },
+    {
+     "name": "General's Mail Boots",
+     "source": "PVP Vendors"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Warden's Signet of Brilliance",
+     "source": "Exalted"
+    },
+    {
+     "name": "Watcher's Signet of Brilliance",
+     "source": "Reputation reward (Revered)"
+    },
+    {
+     "name": "Tracker's Signet of Brilliance",
+     "source": "Honored"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Blessed Band of Light",
+     "source": "Pix Xizzix 75 Copper Chain Boots"
+    },
+    {
+     "name": "Watcher's Signet of Brilliance",
+     "source": "Reputation reward (Revered)"
+    },
+    {
+     "name": "Tracker's Signet of Brilliance",
+     "source": "Honored"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Weakness Analyzer",
+     "source": "Pix Xizzix 125 Copper Chain Boots"
+    },
+    {
+     "name": "Arcanite Dragonling",
+     "source": "Crafted with Engineering"
+    },
+    {
+     "name": "Jewel of the Guard Captain",
+     "source": "Source not listed yet"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Frozen Heart of the Mountain",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Arcanite Dragonling",
+     "source": "Crafted with Engineering"
+    },
+    {
+     "name": "Jewel of the Guard Captain",
+     "source": "Source not listed yet"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Sageclaw",
+     "source": "Arathi Basin Vendors Exalted"
+    },
+    {
+     "name": "Elderwild Construction Hammer",
+     "source": "Source not listed yet"
+    },
+    {
+     "name": "Bloodstrike Dagger",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Master's Rod",
+     "source": "World drop"
+    },
+    {
+     "name": "Evergreen Shield",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Resurgence Rod",
+     "source": "Reward from the quest Corruption of Earth and Seed"
+    },
+    {
+     "name": "Crackling Staff",
+     "source": "Alterac Valley Vendors"
+    },
+    {
+     "name": "Wisepaw Totem",
+     "source": "Reputation reward (Revered)"
+    }
+   ]
+  }
+ ]
+}

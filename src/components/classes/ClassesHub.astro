@@ -1,0 +1,169 @@
+---
+/*
+ * /classes/: an overview of every class and spec in WoW Forever (Nutri, 18 November 2026: "should
+ * provide an overview of all classes and specs"). One card per class in its class colour, with its specs,
+ * their role and links to the spec guide and the BiS list.
+ * the class pages themselves are Markdown pages under classes; this overview only links.
+ */
+import type { Locale } from '../../i18n/ui';
+import { localizePath, useTranslations } from '../../i18n/utils';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { classes, classLabel, roleKey, specLabel } from '../../config/bis';
+import { roleLabel } from '../../i18n/bis';
+import { getPages } from '../../lib/pages';
+import { listsForEra } from '../../lib/bis';
+import { bisT } from '../../i18n/bis';
+import { guideTabEras } from '../../config/guides';
+import EraTabs from '../EraTabs.astro';
+import type { EraKey } from '../../config/eras';
+import { guideCounts, guideHrefs } from '../../lib/guides';
+import { breadcrumbJsonLd } from '../../lib/structured-data';
+import '../../styles/guides.css';
+
+type Props = {
+  locale: Locale;
+};
+const { locale } = Astro.props as Props;
+const ui = useTranslations(locale);
+
+type Strings = {
+  title: string;
+  meta: string;
+  desc: string;
+  intro: string;
+  guide: string;
+  bis: string;
+  older: string;
+};
+const T: Record<Locale, Strings> = {
+  en: { title: 'Classes in WoW Forever', meta: 'WoW Forever classes: every class and spec, with guides and BiS', desc: 'All nine classes of WoW Forever with their specs and roles, each with a class page, spec guides, talents and pre-raid BiS lists.', intro: 'Nine classes, each with its own page: specs and roles, talents, rotation, stats, BiS lists, leveling, class quests, races and tips. Pick a class, or go straight to a spec.', guide: 'Guide', bis: 'BiS', older: 'Class guides for WoW Classic' },
+  nl: { title: 'Classes in WoW Forever', meta: 'WoW Forever classes: elke class en spec, met gidsen en BiS', desc: 'De negen classes van WoW Forever met hun specs en rollen, elk met een classpagina, specgidsen, talenten en pre-raid BiS-lijsten.', intro: 'Negen classes, elk met een eigen pagina: specs en rollen, talenten, rotatie, stats, BiS-lijsten, levelen, classquests, rassen en tips. Kies een class, of ga meteen naar een spec.', guide: 'Gids', bis: 'BiS', older: 'Classgidsen voor WoW Classic' },
+  fr: { title: 'Classes de WoW Forever', meta: 'Classes de WoW Forever : chaque classe et spé, avec guides et BiS', desc: 'Les neuf classes de WoW Forever avec leurs spés et leurs rôles, chacune avec une page de classe, des guides de spé, les talents et les listes BiS pré-raid.', intro: 'Neuf classes, chacune avec sa page : spés et rôles, talents, rotation, stats, listes BiS, montée en niveau, quêtes de classe, races et astuces. Choisissez une classe, ou allez directement à une spé.', guide: 'Guide', bis: 'BiS', older: 'Guides de classe pour WoW Classic' },
+  es: { title: 'Clases de WoW Forever', meta: 'Clases de WoW Forever: cada clase y spec, con guías y BiS', desc: 'Las nueve clases de WoW Forever con sus specs y roles, cada una con su página de clase, guías de spec, talentos y listas BiS pre-raid.', intro: 'Nueve clases, cada una con su página: specs y roles, talentos, rotación, estadísticas, listas BiS, subida de nivel, misiones de clase, razas y consejos. Elige una clase o ve directo a una spec.', guide: 'Guía', bis: 'BiS', older: 'Guías de clase para WoW Classic' },
+  it: { title: 'Classi di WoW Forever', meta: 'Classi di WoW Forever: ogni classe e spec, con guide e BiS', desc: 'Le nove classi di WoW Forever con spec e ruoli, ognuna con la sua pagina, le guide delle spec, i talenti e le liste BiS pre-raid.', intro: 'Nove classi, ognuna con la sua pagina: spec e ruoli, talenti, rotazione, statistiche, liste BiS, livellamento, missioni di classe, razze e consigli. Scegli una classe o vai subito a una spec.', guide: 'Guida', bis: 'BiS', older: 'Guide di classe per WoW Classic' },
+  de: { title: 'Klassen in WoW Forever', meta: 'WoW Forever Klassen: jede Klasse und Spec, mit Guides und BiS', desc: 'Die neun Klassen von WoW Forever mit ihren Specs und Rollen, jede mit eigener Seite, Spec-Guides, Talenten und Pre-Raid-BiS-Listen.', intro: 'Neun Klassen, jede mit eigener Seite: Specs und Rollen, Talente, Rotation, Werte, BiS-Listen, Leveln, Klassenquests, Völker und Tipps. Wähl eine Klasse oder geh direkt zu einer Spec.', guide: 'Guide', bis: 'BiS', older: 'Klassenguides für WoW Classic' },
+};
+const t = T[locale];
+
+// Specs per class with their role, in the order of the talent trees.
+const CLASSES: Array<[string, Array<[string, string]>]> = [
+  ['druid', [['balance', 'Ranged DPS'], ['feral', 'Melee DPS'], ['feral-tank', 'Tank'], ['restoration', 'Healer']]],
+  ['hunter', [['beast-mastery', 'Ranged DPS'], ['marksmanship', 'Ranged DPS'], ['survival', 'Ranged DPS']]],
+  ['mage', [['arcane', 'Ranged DPS'], ['fire', 'Ranged DPS'], ['frost', 'Ranged DPS']]],
+  ['paladin', [['holy', 'Healer'], ['protection', 'Tank'], ['retribution', 'Melee DPS']]],
+  ['priest', [['discipline', 'Healer'], ['holy', 'Healer'], ['shadow', 'Ranged DPS']]],
+  ['rogue', [['assassination', 'Melee DPS'], ['combat', 'Melee DPS'], ['subtlety', 'Melee DPS']]],
+  ['shaman', [['elemental', 'Ranged DPS'], ['enhancement', 'Melee DPS'], ['restoration', 'Healer']]],
+  ['warlock', [['affliction', 'Ranged DPS'], ['demonology', 'Ranged DPS'], ['destruction', 'Ranged DPS']]],
+  ['warrior', [['arms', 'Melee DPS'], ['fury', 'Melee DPS'], ['protection', 'Tank']]],
+];
+
+const pages = await getPages(locale);
+const keys = new Set(pages.map((p) => p.key));
+const lists = listsForEra('forever');
+const href = (key: string) => `${localizePath(key, locale)}/`;
+type SpecLink = { name: string; role: string; guide: string; bis: string; bisSoon: boolean };
+type ClassCard = { id: string; name: string; color: string; href: string; specs: SpecLink[] };
+const cards: ClassCard[] = [];
+for (const entry of CLASSES) {
+  const c = entry[0];
+  if (!keys.has('classes/' + c)) continue;
+  const specs: SpecLink[] = [];
+  for (const pair of entry[1]) {
+    const s = pair[0];
+    const guideKey = s === 'feral-tank' ? 'classes/' + c + '/feral' : 'classes/' + c + '/' + s;
+    const list = lists.find((l) => l.class === c && l.spec === s);
+    // Every spec gets both buttons; a page without content yet says "Coming soon" (Nutri, 18 November 2026).
+    specs.push({
+      name: specLabel(s),
+      role: roleLabel(roleKey(pair[1]), locale),
+      guide: href(guideKey),
+      bis: localizePath('bis/forever/preraid/' + c + '-' + s, locale) + '/',
+      bisSoon: !list,
+    });
+  }
+  cards.push({ id: c, name: classLabel(c), color: classes[c]?.color ?? '#e0b77a', href: href('classes/' + c), specs });
+}
+
+const crumbs = [{ name: ui('crumb.home'), path: localizePath('', locale) }, { name: ui('nav.classes'), path: href('classes') }];
+const jsonLd = breadcrumbJsonLd(crumbs, Astro.site);
+const hrefs = guideHrefs('classes', locale);
+const counts: Partial<Record<EraKey, number>> = { ...(await guideCounts('classes')), forever: 1 };
+const soonLabel = bisT(locale)('comingSoon');
+---
+
+<BaseLayout locale={locale} title={t.meta} description={t.desc}>
+  <EraTabs slot="bar" locale={locale} current="forever" hrefs={hrefs} counts={counts} keys={guideTabEras} />
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+  <article class="wf-gdetail wf-page wf-chub" data-pagefind-body>
+    <nav class="wf-gcrumb" aria-label={ui('crumb.label')} data-pagefind-ignore>
+      <a href={crumbs[0].path}>{crumbs[0].name}</a>
+      <span aria-hidden="true">/</span>
+      <span>{ui('nav.classes')}</span>
+    </nav>
+    <header class="wf-gdetail__head">
+      <span class="wf-gdetail__diamond" style="--wf-diamond: #e0b77a;" aria-hidden="true"></span>
+      <div><h1 class="wf-gdetail__title">{t.title}</h1></div>
+    </header>
+
+    <ul class="wf-chub__grid">
+      {cards.map((card) => (
+        <li class="wf-chub__card" style={`--wf-class: ${card.color};`}>
+          <a class="wf-chub__head" href={card.href}>
+            <img src={`/icons/classicon_${card.id}.jpg`} alt="" width="40" height="40" loading="lazy" decoding="async" />
+            <span class="wf-chub__name">{card.name}</span>
+          </a>
+          <ul class="wf-chub__specs">
+            {card.specs.map((spec) => (
+              <li>
+                <span class="wf-chub__spec">{spec.name}</span>
+                <span class="wf-chub__role">{spec.role}</span>
+                <span class="wf-chub__links">
+                  <a class="wf-chub__btn" href={spec.guide}>{t.guide}</a>
+                  <a class:list={['wf-chub__btn', { 'is-soon': spec.bisSoon }]} href={spec.bis} title={spec.bisSoon ? soonLabel : undefined}>{t.bis}</a>
+                </span>
+              </li>
+            ))}
+          </ul>
+        </li>
+      ))}
+    </ul>
+
+  </article>
+</BaseLayout>
+
+<style>
+  .wf-chub__intro { max-width: 760px; color: var(--wf-body); margin: 0 0 22px; }
+  .wf-chub__grid {
+    list-style: none; margin: 22px 0 0; padding: 0;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px;
+  }
+  .wf-chub__card {
+    background: var(--wf-raised); border: 1px solid var(--wf-border);
+    border-top: 3px solid var(--wf-class); border-radius: var(--wf-r-card, 12px);
+    padding: 14px 16px; display: flex; flex-direction: column; gap: 10px;
+  }
+  .wf-chub__card:hover { border-color: var(--wf-class); }
+  .wf-chub__head { display: flex; align-items: center; gap: 12px; text-decoration: none; }
+  .wf-chub__head img { border-radius: 6px; border: 1px solid var(--wf-class); }
+  .wf-chub__name { font-family: var(--wf-serif, var(--wf-display)); font-size: 22px; font-weight: 700; color: var(--wf-ink); }
+  .wf-chub__head:hover .wf-chub__name { color: var(--wf-class); }
+  .wf-chub__specs { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+  .wf-chub__specs li {
+    display: grid; grid-template-columns: 1fr auto auto; gap: 10px; align-items: baseline;
+    padding-top: 6px; border-top: 1px solid var(--wf-border);
+  }
+  .wf-chub__spec { color: var(--wf-ink); font-weight: 600; }
+  .wf-chub__role { font-family: var(--wf-display); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--wf-live); }
+  .wf-chub__links { display: flex; gap: 6px; }
+  .wf-chub__btn {
+    display: inline-flex; align-items: center; justify-content: center; min-width: 54px;
+    padding: 4px 10px; border: 1px solid var(--wf-border); border-radius: 8px;
+    font-family: var(--wf-display); font-size: 11px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--wf-accent); text-decoration: none; background: var(--wf-raised-soft, transparent);
+    transition: var(--wf-transition);
+  }
+  .wf-chub__btn:hover { border-color: var(--wf-accent); color: var(--wf-ink); }
+  .wf-chub__btn.is-soon { color: var(--wf-muted); border-style: dashed; }
+  .wf-chub__specs li { align-items: center; }
+</style>

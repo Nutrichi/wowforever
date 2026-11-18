@@ -36,4 +36,4 @@ Een Paladin die geen upgrades in het Auction House wil kopen, moet ze craften. D
 
 ![Een venster van een vendor met Blacksmithing-plans voor chain belts, silvered chain helms en shirts voor 30 per stuk, een schermafdruk uit de beta van World of Warcraft: Forever](../../../assets/posts/2026-10-22-wow-forever-blacksmithing-plans.jpg)
 
-De gecrafte gear voor lage levels is nieuw in Forever. Of Blizzard voor de launch nog mail met spell power toevoegt, is niet bekend. De beta sluit op vrijdag 23 oktober. Een talentbuild van 1 tot 60 staat in de [levelgids voor de Paladin](/nl/guides/paladin-leveling/).
+De gecrafte gear voor lage levels is nieuw in Forever. Of Blizzard voor de launch nog mail met spell power toevoegt, is niet bekend. De beta sluit op vrijdag 23 oktober. Een talentbuild van 1 tot 60 staat in de [levelgids voor de Paladin](/nl/classes/paladin/leveling/).

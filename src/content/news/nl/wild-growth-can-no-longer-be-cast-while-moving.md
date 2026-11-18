@@ -24,4 +24,4 @@ Restoration Druids verliezen een van hun beste trucs. Sinds een hotfix op 11 nov
 
 Waarom Wild Growth bij de launch al lopend kon, zegt Blizzard niet. Het leek op een bug, en die is nu weg. De heal zelf wordt sterker naarmate je gear beter wordt: hoe meer spell power, hoe meer de dubbele coëfficiënt oplevert. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a> maakt Wild Growth nog altijd instant, [sinds 10 november](/nl/news/racial-vendor-mounts-become-bind-on-pickup/).
 
-De build, de macro's en de rotatie staan in onze [Restoration Druid-gids](/nl/guides/restoration-druid/), nu met deze wijziging.
+De build, de macro's en de rotatie staan in onze [Restoration Druid-gids](/nl/classes/druid/restoration/), nu met deze wijziging.

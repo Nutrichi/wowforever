@@ -13,6 +13,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Aggiornamento del 18 novembre:** dal reset settimanale del 17 novembre il deposito minimo è di nuovo 1 rame. Ora segue il prezzo di vendita al mercante: 5% per 2 ore, 20% per 8 ore e 60% per 24 ore.
+
 Vendere oggetti economici all'Auction House di World of Warcraft: Forever resta caro ancora per qualche giorno. Il deposito minimo di 1 rame non è ancora attivo. Arriva con la manutenzione settimanale del 17 novembre, dice Blizzard.
 
 ## Cosa è successo

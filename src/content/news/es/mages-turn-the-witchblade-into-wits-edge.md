@@ -33,7 +33,7 @@ Wit's End da a tus ataques cuerpo a cuerpo un 15 % de probabilidad de <a class="
 ## Cómo conseguirla
 
 1. **La Witchblade:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13964"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Witchblade</a> cae de Darkmaster Gandling, el último jefe de [Scholomance](/es/guides/dungeons/scholomance/).
-2. **El pergamino:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> es un pergamino de Mage de nivel 4. Lo descifras con la habilidad Study, desde 175 de habilidad y nivel 46. Dónde caen los pergaminos y cómo funciona Study está en nuestra [guía de pergaminos de Mage](/es/guides/mage-scrolls/).
+2. **El pergamino:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> es un pergamino de Mage de nivel 4. Lo descifras con la habilidad Study, desde 175 de habilidad y nivel 46. Dónde caen los pergaminos y cómo funciona Study está en nuestra [guía de pergaminos de Mage](/es/classes/mage/scrolls/).
 3. **Combinar:** usa el pergamino en la Witchblade y obtienes Wit's Edge.
 
 ## ¿Merece la pena?

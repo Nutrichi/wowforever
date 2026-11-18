@@ -11,7 +11,7 @@ featured: false
 draft: false
 manual: true
 ---
-La plupart des Restoration Druids de WoW Forever joueront un build 11/7/33. Les 33 points en Restoration donnent Gift of the Earthmother, Improved Regrowth et Wild Growth. Le nouveau [guide du Restoration Druid](/fr/guides/restoration-druid/) explique le build, les changements, les macros et les questions les plus fréquentes.
+La plupart des Restoration Druids de WoW Forever joueront un build 11/7/33. Les 33 points en Restoration donnent Gift of the Earthmother, Improved Regrowth et Wild Growth. Le nouveau [guide du Restoration Druid](/fr/classes/druid/restoration/) explique le build, les changements, les macros et les questions les plus fréquentes.
 
 La spécialisation reste un soigneur qui anticipe les dégâts, avec des HoTs sur de nombreux joueurs à la fois. Quelques changements lui donnent aussi plus de moyens de réagir.
 

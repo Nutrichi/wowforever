@@ -17,19 +17,19 @@ De site heeft zeven nieuwe classgidsen: Retribution en Holy Paladin, Beast Maste
 
 ## Paladin
 
-De [gids voor de Retribution Paladin](/nl/guides/retribution-paladin/) behandelt de build voor level 30 met Seal of Command, Conviction en Vengeance, de rotatie met Judgement en Holy Strike, en Twist of Light, het nieuwe laatste talent waarmee je twee seals tegelijk laat lopen. De [gids voor de Holy Paladin](/nl/guides/holy-paladin/) legt Holy Shock uit, Illumination voor mana en Light's Vigil, de enige groepsheal van de spec.
+De [gids voor de Retribution Paladin](/nl/classes/paladin/retribution/) behandelt de build voor level 30 met Seal of Command, Conviction en Vengeance, de rotatie met Judgement en Holy Strike, en Twist of Light, het nieuwe laatste talent waarmee je twee seals tegelijk laat lopen. De [gids voor de Holy Paladin](/nl/classes/paladin/holy/) legt Holy Shock uit, Illumination voor mana en Light's Vigil, de enige groepsheal van de spec.
 
 ## Hunter
 
-Beide Hunter-gidsen hebben een volledige build voor level 60, punt voor punt nagekeken tegen de talentbomen in de spelbestanden. De [Beast Mastery Hunter](/nl/guides/beast-mastery-hunter/) speelt 31/20/0 met Summon Hawk, een nieuw talent dat twee haviken op je doelwit houdt. De [Marksmanship Hunter](/nl/guides/marksmanship-hunter/) speelt 5/46/0 met Lone Wolf, 20% meer schade zonder pet, en Sniper Shot onderaan de boom.
+Beide Hunter-gidsen hebben een volledige build voor level 60, punt voor punt nagekeken tegen de talentbomen in de spelbestanden. De [Beast Mastery Hunter](/nl/classes/hunter/beast-mastery/) speelt 31/20/0 met Summon Hawk, een nieuw talent dat twee haviken op je doelwit houdt. De [Marksmanship Hunter](/nl/classes/hunter/marksmanship/) speelt 5/46/0 met Lone Wolf, 20% meer schade zonder pet, en Sniper Shot onderaan de boom.
 
 ## Rogue
 
-De [gids voor de Subtlety Rogue](/nl/guides/subtlety-rogue/) heeft twee speelstijlen: Ambush met Cutthroat, waarmee je in gevecht kunt Ambushen, en bleeds met Hemorrhage en Thousand Cuts. De [gids voor de Combat Rogue](/nl/guides/combat-rogue/) legt Hack and Slash uit, het ene talent dat elke oude wapenspecialisatie vervangt, met een standaard- en een dolkbuild voor level 60. Samen met de [Assassination Rogue](/nl/guides/assassination-rogue/) heeft nu elke Rogue-spec zijn eigen gids.
+De [gids voor de Subtlety Rogue](/nl/classes/rogue/subtlety/) heeft twee speelstijlen: Ambush met Cutthroat, waarmee je in gevecht kunt Ambushen, en bleeds met Hemorrhage en Thousand Cuts. De [gids voor de Combat Rogue](/nl/classes/rogue/combat/) legt Hack and Slash uit, het ene talent dat elke oude wapenspecialisatie vervangt, met een standaard- en een dolkbuild voor level 60. Samen met de [Assassination Rogue](/nl/classes/rogue/assassination/) heeft nu elke Rogue-spec zijn eigen gids.
 
 ## Shaman levelen
 
-De [levelgids voor de Shaman](/nl/guides/shaman-leveling/) heeft builds voor level 30 voor Enhancement, Elemental en Restoration, elk belangrijk level nagekeken tegen de nieuwste betadata, de totemquests, de drie wapens van Call of Air en de totems die de moeite waard zijn.
+De [levelgids voor de Shaman](/nl/classes/shaman/leveling/) heeft builds voor level 30 voor Enhancement, Elemental en Restoration, elk belangrijk level nagekeken tegen de nieuwste betadata, de totemquests, de drie wapens van Call of Air en de totems die de moeite waard zijn.
 
 ## Quests van de City of Dalaran
 

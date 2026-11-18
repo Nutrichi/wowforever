@@ -24,4 +24,4 @@ Restoration-Druiden verlieren einen ihrer besten Tricks. Seit einem Hotfix am 11
 
 Warum Wild Growth zum Launch in der Bewegung ging, sagt Blizzard nicht. Es sah nach einem Bug aus, und der ist jetzt weg. Die Heilung selbst wird mit besserer Ausrüstung stärker: je mehr Zaubermacht, desto mehr bringt der doppelte Koeffizient. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17116"><img class="wf-wh__icon" src="/wh/spell_nature_ravenform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Swiftness</a> macht Wild Growth weiterhin sofort wirkbar, [seit dem 10. November](/de/news/racial-vendor-mounts-become-bind-on-pickup/).
 
-Build, Makros und Rotation stehen in unserem [Guide zum Restoration-Druiden](/de/guides/restoration-druid/), jetzt mit dieser Änderung.
+Build, Makros und Rotation stehen in unserem [Guide zum Restoration-Druiden](/de/classes/druid/restoration/), jetzt mit dieser Änderung.

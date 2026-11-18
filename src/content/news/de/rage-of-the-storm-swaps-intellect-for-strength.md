@@ -32,4 +32,4 @@ Blizzard [kündigte letzte Woche an](/de/news/hunter-and-warlock-pets-get-toughe
 
 Der Kolben ist die Belohnung von <a href="https://www.wowhead.com/forever/quest=79442">The Tempest's Weapons</a> für die Horde und <a href="https://www.wowhead.com/forever/quest=96016">The Tempest's Weapons</a> für die Alliance, dem letzten Schritt der Reihe, die wir [während der Beta](/de/news/shamans-earn-a-weapon-with-a-level-30-quest-chain/) beschrieben haben. Hast du ihn schon, bekommt dein Exemplar die neuen Werte.
 
-Die [Änderungen für Warlocks und Hunter](/de/news/wrack-makes-affliction-dots-tick-twice-as-fast/) folgten später am selben Tag. Unser [Guide zum Enhancement Shaman](/de/guides/enhancement-shaman/) folgt den neuen Werten.
+Die [Änderungen für Warlocks und Hunter](/de/news/wrack-makes-affliction-dots-tick-twice-as-fast/) folgten später am selben Tag. Unser [Guide zum Enhancement Shaman](/de/classes/shaman/enhancement/) folgt den neuen Werten.

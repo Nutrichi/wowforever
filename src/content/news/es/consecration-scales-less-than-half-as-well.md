@@ -43,4 +43,4 @@ Las cargas de Reckoning se pueden guardar para el inicio de un combate: hasta 4 
 
 ![Un Paladin con un escudo con el león de la Alliance en una colina de The Barrens, una captura de la beta de World of Warcraft: Forever](../../../assets/posts/2026-10-21-wow-forever-paladin-in-the-barrens.jpg)
 
-Cómo quedará el Paladin Protection frente al Warrior Protection y el Druid Feral en el nivel 60 aún no se sabe. La beta termina en el nivel 30, y Blizzard no ha dicho si habrá más cambios para el Paladin. Una build de talentos del 1 al 60 está en la [guía para subir de nivel al Paladin](/es/guides/paladin-leveling/).
+Cómo quedará el Paladin Protection frente al Warrior Protection y el Druid Feral en el nivel 60 aún no se sabe. La beta termina en el nivel 30, y Blizzard no ha dicho si habrá más cambios para el Paladin. Una build de talentos del 1 al 60 está en la [guía para subir de nivel al Paladin](/es/classes/paladin/leveling/).

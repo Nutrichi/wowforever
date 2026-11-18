@@ -30,4 +30,4 @@ Vorige week zei Blizzard dat pets [als tank niet goed genoeg standhielden](/nl/n
 
 De Felhunter staat niet in de lijst. Het zweepgeluid van de Succubus klinkt nu ook veel minder vaak: door een bug speelde het veel te vaak.
 
-Levelen met een pet: onze [levelgids voor de Hunter](/nl/guides/hunter-leveling/), de [gids voor de Beast Mastery Hunter](/nl/guides/beast-mastery-hunter/) en de [levelgids voor de Warlock](/nl/guides/warlock-leveling/).
+Levelen met een pet: onze [levelgids voor de Hunter](/nl/classes/hunter/leveling/), de [gids voor de Beast Mastery Hunter](/nl/classes/hunter/beast-mastery/) en de [levelgids voor de Warlock](/nl/classes/warlock/leveling/).

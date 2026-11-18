@@ -1,0 +1,282 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "protection",
+ "role": "Tank",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-14",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Stalwart Helm",
+     "source": "Crafted"
+    },
+    {
+     "name": "Enriched Thorium Helm",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Horn of Ve'han",
+     "source": "Datamined in Unknown"
+    },
+    {
+     "name": "Beads of Ogre Mojo",
+     "source": "Reward from the quest Falrin's Vendetta"
+    },
+    {
+     "name": "Archlight Talisman",
+     "source": "Reward from the quest Hidden Treasures"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Warder's Pauldrons",
+     "source": "Crafted"
+    },
+    {
+     "name": "Soulforge Spaulders",
+     "source": "Reward from the quest Anthion's Parting Words"
+    },
+    {
+     "name": "Lightforge Spaulders",
+     "source": "The Beast"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Shifting Cloak",
+     "source": "Crafted"
+    },
+    {
+     "name": "Earthweave Cloak",
+     "source": "Reward from the quest Volunteer's Battlegear"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Enriched Thorium Breastplate",
+     "source": "Crafted"
+    },
+    {
+     "name": "Soulforge Breastplate",
+     "source": "Reward from the quest Saving the Best for Last"
+    },
+    {
+     "name": "Breastplate of Valor",
+     "source": "General Drakkisath"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Warder's Wristguards",
+     "source": "Crafted"
+    },
+    {
+     "name": "Soulforge Bracers",
+     "source": "Reward from the quest An Earnest Proposition"
+    },
+    {
+     "name": "Blessed Plate Bracers",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Warder's Gloves",
+     "source": "Crafted"
+    },
+    {
+     "name": "Stronghold Gauntlets",
+     "source": "Crafted"
+    },
+    {
+     "name": "Darkrune Gauntlets",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Warder's Waistguard",
+     "source": "Crafted"
+    },
+    {
+     "name": "Vindicator's Belt",
+     "source": "Reals vendor in Booty Bay (100 Reals)"
+    },
+    {
+     "name": "Soulforge Belt",
+     "source": "Reward from the quest Just Compensation"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Sentinel's Lamellar Legguards",
+     "source": "Reputation reward (Exalted with)"
+    },
+    {
+     "name": "Enriched Thorium Leggings",
+     "source": "Crafted"
+    },
+    {
+     "name": "Soulforge Legplates",
+     "source": "Reward from the quest Anthion's Parting Words"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Soulforge Boots",
+     "source": "Reward from the quest Anthion's Parting Words"
+    },
+    {
+     "name": "Warder's Sabatons",
+     "source": "Crafted"
+    },
+    {
+     "name": "Boots of Avoidance",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Warden's Signet of Brilliance",
+     "source": "Exalted with (currently unobtainable)"
+    },
+    {
+     "name": "Maiden's Circle",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Don Julio's Band",
+     "source": "Reputation reward (Exalted with)"
+    },
+    {
+     "name": "Maiden's Circle",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Defender's Grip Stabilizer",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    },
+    {
+     "name": "Frozen Heart of the Mountain",
+     "source": "Source not listed yet"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Stormpike Insignia Rank 6",
+     "source": "Reputation reward (Exalted with)"
+    },
+    {
+     "name": "Frozen Heart of the Mountain",
+     "source": "Source not listed yet"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Hand of Edward the Odd",
+     "source": "World drop"
+    },
+    {
+     "name": "Flurry Axe",
+     "source": "World drop"
+    },
+    {
+     "name": "Masterwork Stormhammer",
+     "source": "Source not listed yet"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Antique Bulwark",
+     "source": "Datamined in Unknown"
+    },
+    {
+     "name": "Sacred Protector",
+     "source": "Reward from the quest The Scarlet Oracle, Demetria or Order Must Be Restored"
+    },
+    {
+     "name": "A Bigger Shield",
+     "source": "Datamined in Unknown"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Fervor",
+     "source": "World drop"
+    },
+    {
+     "name": "Libram of Law",
+     "source": "Reals vendor in Booty Bay (50 Reals)"
+    },
+    {
+     "name": "Steadfast Libram",
+     "source": "Source not listed yet"
+    }
+   ]
+  }
+ ]
+}

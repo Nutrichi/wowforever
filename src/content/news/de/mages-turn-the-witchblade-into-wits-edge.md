@@ -33,7 +33,7 @@ Wit's End gibt deinen Nahkampfangriffen 15% Chance auf <a class="wf-wh wf-spell"
 ## So bekommst du es
 
 1. **Die Witchblade:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13964"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Witchblade</a> droppt bei Darkmaster Gandling, dem letzten Boss von [Scholomance](/de/guides/dungeons/scholomance/).
-2. **Die Schriftrolle:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> ist eine Mage-Schriftrolle der Stufe 4. Du entzifferst sie mit der Fertigkeit Study, ab Fertigkeit 175 und Stufe 46. Wo Schriftrollen droppen und wie Study funktioniert, steht in unserem [Guide zu den Mage-Schriftrollen](/de/guides/mage-scrolls/).
+2. **Die Schriftrolle:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> ist eine Mage-Schriftrolle der Stufe 4. Du entzifferst sie mit der Fertigkeit Study, ab Fertigkeit 175 und Stufe 46. Wo Schriftrollen droppen und wie Study funktioniert, steht in unserem [Guide zu den Mage-Schriftrollen](/de/classes/mage/scrolls/).
 3. **Kombinieren:** Benutze die Schriftrolle auf der Witchblade und du bekommst Wit's Edge.
 
 ## Lohnt es sich?

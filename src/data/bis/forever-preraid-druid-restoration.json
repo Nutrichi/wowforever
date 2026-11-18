@@ -1,0 +1,319 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "druid",
+ "spec": "restoration",
+ "role": "Healer",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-17",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Living Crown",
+     "source": "Pattern: Living Crown"
+    },
+    {
+     "name": "Feralheart Headdress",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Bad Hat",
+     "source": "Reward from the quest Deadliest Catch"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Animated Chain Necklace",
+     "source": "Ramstein the Gorger (Stratholme Undead)"
+    },
+    {
+     "name": "Heart of the Fiend",
+     "source": "Kirtonos the Herald (Scholomance)"
+    },
+    {
+     "name": "Jeweled Amulet of Cainwyn",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Mooncloth Shoulders",
+     "source": "Pattern: Mooncloth Shoulders"
+    },
+    {
+     "name": "Feralheart Mantle",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Living Shoulders",
+     "source": "Pattern: Living Shoulders"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Hide of the Wild",
+     "source": "Pattern: Hide of the Wild"
+    },
+    {
+     "name": "Archivist Cape",
+     "source": "Archivist Galford (Stratholme Live)"
+    },
+    {
+     "name": "Drape of Recovery",
+     "source": "Pix Xizzix"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Embrace of the Wind Serpent",
+     "source": "Shade of Hakkar (The Temple of Atal'Hakkar)"
+    },
+    {
+     "name": "Robes of the Exalted",
+     "source": "Baron Rivendare (Stratholme Undead)"
+    },
+    {
+     "name": "Forest's Embrace",
+     "source": "Reward from the quest A Better Ingredient"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bleak Howler Armguards",
+     "source": "Gizrul the Slavener (Lower Blackrock Spire)"
+    },
+    {
+     "name": "Wyrmthalak's Shackles",
+     "source": "Reward from the quest Maxwell's Mission or Warlord's Command"
+    },
+    {
+     "name": "Feralheart Bindings",
+     "source": "T0.5 Questline"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Feralheart Gauntlets",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Hands of the Exalted Herald",
+     "source": "Princess Moira Bronzebeard (Blackrock Depths)"
+    },
+    {
+     "name": "Mender's Leather Gauntlets",
+     "source": "Pattern: Mender's Leather Gauntlets"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Sash of Mercy",
+     "source": "World drop"
+    },
+    {
+     "name": "Caretaker's Cord",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "Wisdom of the Timbermaw",
+     "source": "Pattern: Wisdom of the Timbermaw"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Devout Skirt",
+     "source": "Baron Rivendare (Stratholme Undead)"
+    },
+    {
+     "name": "Feralheart Pants",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Senior Designer's Pantaloons",
+     "source": "Fineous Darkvire (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Feralheart Sandals",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Boots of the Full Moon",
+     "source": "Captain Kromcrush (Dire Maul North)"
+    },
+    {
+     "name": "Ogreseer Tower Boots",
+     "source": "Spirestone Lord Magus (Lower Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Fordring's Seal",
+     "source": "Reward from the quest In Dreams"
+    },
+    {
+     "name": "High Clerist's Seal",
+     "source": "Scarlet High Clerist"
+    },
+    {
+     "name": "Emerald Flame Ring",
+     "source": "Prince Tortheldrin (Dire Maul West)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Blessed Band of Light",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "High Clerist's Seal",
+     "source": "Scarlet High Clerist"
+    },
+    {
+     "name": "Emerald Flame Ring",
+     "source": "Prince Tortheldrin (Dire Maul West)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Serenity Field",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "Darkmoon Card: Blue Dragon",
+     "source": "Reward from the quest Darkmoon Beast Deck"
+    },
+    {
+     "name": "Weakness Analyzer",
+     "source": "Pix Xizzix"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Royal Seal of Eldre'Thalas",
+     "source": "Reward from the quest The Emerald Dream..."
+    },
+    {
+     "name": "Darkmoon Card: Blue Dragon",
+     "source": "Reward from the quest Darkmoon Beast Deck"
+    },
+    {
+     "name": "Weakness Analyzer",
+     "source": "Pix Xizzix"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Gift of the Elven Magi",
+     "source": "Grand Crusader Dathrohan (Stratholme Live)"
+    },
+    {
+     "name": "Lorespinner",
+     "source": "Reward from the quest Lethtendris's Web in East"
+    },
+    {
+     "name": "Masterwork Crimson Hammer",
+     "source": "Crimson Hammersmith (Stratholme Live)"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Lei of the Lifegiver",
+     "source": "Thanthaldis Snowgleam / Jekyll Flandring"
+    },
+    {
+     "name": "Penelope's Rose",
+     "source": "Reward from the quest Kirtonos the Herald"
+    },
+    {
+     "name": "Thaurissan's Royal Scepter",
+     "source": "Emperor Dagran Thaurissan (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Glowing Brightwood Staff",
+     "source": "World drop"
+    },
+    {
+     "name": "Hammer of the Grand Crusader",
+     "source": "Grand Crusader Dathrohan (Stratholme Live)"
+    },
+    {
+     "name": "Staff of Metanoia",
+     "source": "Jandice Barov (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Idol of Synthesis",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "Mystic Mushroom",
+     "source": "Formula: Mystic Mushroom"
+    },
+    {
+     "name": "Talons of Wrath",
+     "source": "Formula: Talons of Wrath"
+    }
+   ]
+  }
+ ]
+}

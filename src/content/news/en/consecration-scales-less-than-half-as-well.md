@@ -42,4 +42,4 @@ Stored Reckoning charges can be saved for the start of a fight: up to 4 extra at
 
 ![A Paladin with a shield bearing the Alliance lion stands on a hill in The Barrens, a screenshot from the beta of World of Warcraft: Forever](../../../assets/posts/2026-10-21-wow-forever-paladin-in-the-barrens.jpg)
 
-How the Protection Paladin compares with the Protection Warrior and the Feral Druid at level 60 is not known yet. The beta stops at level 30, and Blizzard has not said whether more Paladin changes will follow. A talent build from 1 to 60 is in the [Paladin leveling guide](/guides/paladin-leveling/).
+How the Protection Paladin compares with the Protection Warrior and the Feral Druid at level 60 is not known yet. The beta stops at level 30, and Blizzard has not said whether more Paladin changes will follow. A talent build from 1 to 60 is in the [Paladin leveling guide](/classes/paladin/leveling/).

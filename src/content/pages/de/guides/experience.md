@@ -39,6 +39,8 @@ Erfahrung funktioniert in WoW Forever weitgehend wie in Classic, mit gleich viel
 
 ## So funktioniert Erfahrung
 
+### So funktioniert Erfahrung
+
 Erfahrung bekommst du durch Quests, Kills, Erkundung und Dungeons. Mit genug davon erreichst du das nächste Level, bis zur Grenze von 60. Dort gibt es keine Erfahrung mehr.
 
 Die Erfahrungsleiste unten am Bildschirm zeigt, wie weit du bist. Fahre mit der Maus darüber, um deine aktuelle Erfahrung zu sehen und wie viel noch fehlt. Jeder Gewinn erscheint auch im Chat.
@@ -47,7 +49,7 @@ Die Erfahrungsleiste unten am Bildschirm zeigt, wie weit du bist. Fahre mit der 
 
 <img src="/guides/experience/experience-gained.png" alt="Die Chatzeile Experience gained: 575, ein Screenshot aus der Beta von World of Warcraft: Forever" width="204" height="22" loading="lazy">
 
-## Erfahrung pro Level
+### Erfahrung pro Level
 
 Jedes Level verlangt mehr Erfahrung als das vorige. Insgesamt brauchst du 4.084.700 für Level 60. Im September behauptete ein Artikel, Forever verlange deutlich weniger, doch Blizzard [hat das dementiert](/de/news/wowhead-retracts-experience-curve-story/): Die Werte sind genau die von Classic.
 
@@ -114,7 +116,9 @@ Jedes Level verlangt mehr Erfahrung als das vorige. Insgesamt brauchst du 4.084.
 | 59 | 209.800 | 3.874.900 |
 | 60 | - | 4.084.700 |
 
-## Quests
+## Quests und Kills
+
+### Quests
 
 Eine Quest gibt Erfahrung nach ihrem Level, ihrer Art und wie schwer ihre Ziele sind. Das Questlog zeigt den Wert, bevor du sie annimmst. Quests mit langwierigen oder schweren Zielen zahlen meist mehr als andere desselben Levels.
 
@@ -140,7 +144,7 @@ Bei Quests mehr als 5 Level unter dir sinkt die Erfahrung um 10 bis 20 % pro wei
 
 **Wiederholbare Quests** haben eine blaue statt einer gelben Markierung. Die meisten geben keine Erfahrung, mach sie also nur für die anderen Belohnungen.
 
-## Kills
+### Kills
 
 Monster geben Erfahrung nach ihrem Level im Vergleich zu deinem und nach ihrer Art. Monster nahe an deinem Level bieten das beste Verhältnis aus Tempo und Erfahrung. Viel niedrigere geben wenig, viel höhere dauern zu lange.
 
@@ -152,15 +156,17 @@ Namensplaketten nutzen dieselben Farben wie das Questlog. Graue Monster geben ü
 
 <img src="/guides/experience/elite-stitches.png" alt="Das Porträt von Stitches mit dem goldenen Drachen eines Elites, ein Screenshot aus der Beta von World of Warcraft: Forever" width="238" height="94" loading="lazy">
 
-### Taggen und Kill-Credit
+#### Taggen und Kill-Credit
 
 Nur der erste Spieler oder die erste Gruppe, die ein Monster trifft, mit Schaden oder einem Debuff, bekommt die Erfahrung. Ein von jemand anderem getaggtes Monster hat eine graue Namensplakette. In einer Gruppe bekommt jedes Mitglied Credit, das lebt und in der Nähe ist, also muss nicht jeder jedes Monster treffen.
 
-### AoE-Grinden
+#### AoE-Grinden
 
 Eine Gruppe Monster zusammenziehen und mit Flächenzaubern niederbrennen kann am richtigen Ort schnell gehen. Blizzard hat das in Forever weniger effektiv gemacht, vor allem für Mages, die in Classic dafür bekannt waren. Mit den richtigen Zaubern, der richtigen Ausrüstung oder Hilfe klappt es noch einigermaßen. Du brauchst einen Weg, die Gruppe zu überleben oder sie mit Wurzeln, Verlangsamungen und Betäubungen auf Abstand zu halten, viele Monster und wenige Spieler, die darum konkurrieren.
 
-## Dungeons
+## Dungeons, Erkundung und Gruppen
+
+### Dungeons
 
 Die Erfahrung in Dungeons hat sich in der Beta mehrmals geändert. Im September [verschob Blizzard Erfahrung von Kills zu Quests](/de/news/wow-forever-dungeon-experience-changes/): Monster gaben wenig, Dungeonquests viel. Am 1. Oktober wurde die zusätzliche Erfahrung der Dungeonquests [um 50 % gekürzt](/de/news/dungeon-quests-give-50-percent-less-bonus-experience/). Eine Woche später bekamen Dungeonmonster [20 % mehr Erfahrung](/de/news/dungeon-kills-give-20-percent-more-experience/), und ein Fehler, der jeden Kill am höchsten Level der Gruppe ausrichtete, wurde behoben. Nach dem Start [erhöhte ein Hotfix am 8. November die Kill-Erfahrung in Dungeons um 50 %](/de/news/dungeon-enemies-give-50-percent-more-experience/), auf 60 % der Werte aus Classic Era. Blizzard ist mit diesem Tempo zufrieden. Seit dem 13. November gibt ein Monster, das für auch nur ein Gruppenmitglied trivial ist, niemandem Erfahrung, [mehr in unserem Post](/de/news/a-grey-mob-for-one-player-gives-the-group-no-xp/).
 
@@ -176,17 +182,19 @@ Ein viel höherer Spieler in der Gruppe kostet viel Erfahrung. Ein Level 60, der
 
 </div>
 
-## Erkundung
+### Erkundung
 
 Ein neues Gebiet zum ersten Mal zu betreten gibt etwas Erfahrung und deckt es auf deiner Karte auf. Der Wert ist klein, ein Umweg lohnt sich also nicht, aber unterwegs für Quests summiert es sich.
 
 <img src="/guides/experience/discovered.png" alt="Die Meldung Discovered: Vul'Gol Ogre Mound, ein Screenshot aus der Beta von World of Warcraft: Forever" width="360" height="40" loading="lazy">
 
-## Gruppen
+### Gruppen
 
 In einer Gruppe hängt die Erfahrung pro Kill von der Gruppengröße und den Leveln der Mitglieder ab. Eine größere Gruppe heißt weniger pro Spieler, und ein viel höheres Mitglied senkt sie stark. Dafür tötest du schneller und schließt Quests leichter ab. Questbelohnungen ändern sich in einer Gruppe nicht, aber Questziele zählen in einer Schlachtzugsgruppe nicht.
 
-## Erholungs-EP
+## Erholungserfahrung und Lager
+
+### Erholungs-EP
 
 Erholungs-EP verdoppeln die Erfahrung aus Kills, bis sie aufgebraucht sind. Quests und Erkundung bekommen den Bonus nicht.
 
@@ -203,7 +211,7 @@ Du sammelst sie in einem Gasthaus, einer Hauptstadt oder im Cozy Sleeping Bag. D
 
 **Well Rested** erhöht Tempo und Obergrenze um denselben Prozentsatz. Volllaufen dauert also weiterhin etwa 10 Tage, aber der Vorrat fasst bis zu ein Fünftel mehr. **Talented**, das nächste Legacy-Talent, gibt dir den ersten Talentpunkt bis zu fünf Level früher. Beide stehen im [Legacy-Rechner](/de/talents/legacy/).
 
-## Lager, Essen und Schlafsack
+### Lager, Essen und Schlafsack
 
 Forever bringt drei Boni, die sich miteinander und mit Erholungs-EP kombinieren lassen.
 

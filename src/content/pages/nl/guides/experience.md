@@ -39,6 +39,8 @@ Ervaring in WoW Forever werkt grotendeels zoals in Classic, met evenveel ervarin
 
 ## Hoe ervaring werkt
 
+### Hoe ervaring werkt
+
 Je verdient ervaring met quests, kills, verkennen en dungeons. Heb je genoeg, dan bereik je het volgende level, tot het maximum van 60. Daar stopt de ervaring.
 
 De ervaringsbalk onderaan het scherm toont hoe ver je staat. Beweeg erover om je huidige ervaring te zien en hoeveel je nog nodig hebt. Elke winst verschijnt ook in de chat.
@@ -47,7 +49,7 @@ De ervaringsbalk onderaan het scherm toont hoe ver je staat. Beweeg erover om je
 
 <img src="/guides/experience/experience-gained.png" alt="De chatregel Experience gained: 575, een schermafdruk uit de beta van World of Warcraft: Forever" width="204" height="22" loading="lazy">
 
-## Ervaring per level
+### Ervaring per level
 
 Elk level vraagt meer ervaring dan het vorige. In totaal heb je 4.084.700 nodig voor level 60. In september beweerde een artikel dat Forever veel minder vraagt, maar Blizzard [ontkende dat](/nl/news/wowhead-retracts-experience-curve-story/): de hoeveelheden zijn precies die van Classic.
 
@@ -114,7 +116,9 @@ Elk level vraagt meer ervaring dan het vorige. In totaal heb je 4.084.700 nodig 
 | 59 | 209.800 | 3.874.900 |
 | 60 | - | 4.084.700 |
 
-## Quests
+## Questen en kills
+
+### Quests
 
 Een quest geeft ervaring volgens zijn level, zijn soort en hoe zwaar de opdrachten zijn. Het questlog toont de hoeveelheid voor je de quest aanneemt. Quests met trage of zware opdrachten betalen meestal meer dan andere van hetzelfde level.
 
@@ -140,7 +144,7 @@ Bij quests van meer dan 5 levels onder je daalt de ervaring met 10 tot 20% per e
 
 **Herhaalbare quests** hebben een blauwe markering in plaats van een gele. De meeste geven geen ervaring, dus doe ze alleen voor de andere beloningen.
 
-## Kills
+### Kills
 
 Monsters geven ervaring volgens hun level tegenover het jouwe en volgens hun soort. Monsters rond je eigen level geven de beste verhouding tussen snelheid en ervaring. Veel lagere geven weinig, veel hogere duren te lang.
 
@@ -152,15 +156,17 @@ Naamplaatjes gebruiken dezelfde kleuren als het questlog. Grijze monsters geven 
 
 <img src="/guides/experience/elite-stitches.png" alt="Het portret van Stitches met de gouden draak van een elite, een schermafdruk uit de beta van World of Warcraft: Forever" width="238" height="94" loading="lazy">
 
-### Taggen en kill credit
+#### Taggen en kill credit
 
 Alleen de eerste speler of groep die een monster raakt, met schade of een debuff, krijgt de ervaring. Een monster dat iemand anders getagd heeft, krijgt een grijs naamplaatje. In een groep krijgt elk lid dat leeft en in de buurt is credit, dus niet iedereen hoeft elk monster te raken.
 
-### AoE grinden
+#### AoE grinden
 
 Een groep monsters samentrekken en met gebiedsspreuken neerhalen kan op de juiste plek snel gaan. Blizzard maakte het minder effectief in Forever, vooral voor Mages, die er in Classic om bekend stonden. Met de juiste spreuken, gear of hulp lukt het nog altijd een beetje. Je hebt een manier nodig om de groep te overleven of op afstand te houden met roots, slows en stuns, veel monsters en weinig spelers die ermee concurreren.
 
-## Dungeons
+## Dungeons, verkennen en groepen
+
+### Dungeons
 
 De ervaring in dungeons veranderde meermaals op de beta. In september [verschoof Blizzard ervaring van kills naar quests](/nl/news/wow-forever-dungeon-experience-changes/): monsters gaven weinig, de dungeonquests veel. Op 1 oktober werd de extra ervaring van dungeonquests [met 50% verlaagd](/nl/news/dungeon-quests-give-50-percent-less-bonus-experience/). Een week later kregen dungeonmonsters [20% meer ervaring](/nl/news/dungeon-kills-give-20-percent-more-experience/), en werd een bug opgelost die elke kill baseerde op het hoogste level in de groep. Na de launch [verhoogde een hotfix op 8 november de kill-experience in dungeons met 50%](/nl/news/dungeon-enemies-give-50-percent-more-experience/), tot 60% van de waarden in Classic Era. Blizzard zegt tevreden te zijn met dat tempo. Sinds 13 november geeft een monster dat triviaal is voor ook maar één groepslid niemand nog experience, [meer in onze post](/nl/news/a-grey-mob-for-one-player-gives-the-group-no-xp/).
 
@@ -176,17 +182,19 @@ Een veel hogere speler in de groep kost veel ervaring. Een level 60 die een dung
 
 </div>
 
-## Verkennen
+### Verkennen
 
 Een nieuw gebied voor het eerst betreden geeft een beetje ervaring en onthult het op je kaart. Het gaat om weinig, dus een omweg loont niet, maar onderweg voor quests telt het op.
 
 <img src="/guides/experience/discovered.png" alt="Het bericht Discovered: Vul'Gol Ogre Mound, een schermafdruk uit de beta van World of Warcraft: Forever" width="360" height="40" loading="lazy">
 
-## Groepen
+### Groepen
 
 In een groep hangt de ervaring per kill af van de grootte van de groep en de levels van de leden. Een grotere groep betekent minder per speler, en een veel hoger lid haalt het fors omlaag. In ruil daarvoor dood je sneller en raken quests vlotter af. Questbeloningen veranderen niet in een groep, maar questopdrachten tellen niet in een raidgroep.
 
-## Rested experience
+## Rested experience en kampen
+
+### Rested experience
 
 Rested XP verdubbelt de ervaring uit kills tot het op is. Quests en verkennen krijgen de bonus niet.
 
@@ -203,7 +211,7 @@ Je bouwt het op in een herberg, een hoofdstad of in de Cozy Sleeping Bag. Je por
 
 **Well Rested** verhoogt de snelheid en het maximum met hetzelfde percentage. Vollopen duurt dus nog altijd ongeveer 10 dagen, maar de voorraad is tot een vijfde groter. **Talented**, het volgende Legacy-talent, geeft je eerste talentpunt tot vijf levels vroeger. Beide staan in de [Legacy-calculator](/nl/talents/legacy/).
 
-## Kampen, eten en de slaapzak
+### Kampen, eten en de slaapzak
 
 Forever voegt drie bonussen toe die met elkaar en met rested XP stapelen.
 

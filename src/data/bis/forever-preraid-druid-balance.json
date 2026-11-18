@@ -1,0 +1,303 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "druid",
+ "spec": "balance",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-17",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Spellweaver's Turban",
+     "source": "General Drakkisath in Blackrock Spire"
+    },
+    {
+     "name": "Master's Hat",
+     "source": "World drop"
+    },
+    {
+     "name": "Mask of the Unforgiven",
+     "source": "The Unforgiven in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Orb of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Orb of the Darkmoon"
+    },
+    {
+     "name": "Nacreous Shell Necklace",
+     "source": "Cannon Master Willey in Stratholme"
+    },
+    {
+     "name": "Chains of the Lich",
+     "source": "Balzaphon in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Feralheart Spaulders",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
+     "name": "Mantle of the Timbermaw",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Argent Shoulders",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Pix Xizzix in Stranglethorn Vale"
+    },
+    {
+     "name": "Archivist Cape",
+     "source": "Archivist Galford in Stratholme"
+    },
+    {
+     "name": "Master's Cloak",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robes of Dark Summons",
+     "source": "Impaan the Imprisoner in Blackmaw Hold"
+    },
+    {
+     "name": "Ironfeather Breastplate",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Robe of Everlasting Night",
+     "source": "Immol'thar in Dire Maul"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Master's Bracers",
+     "source": "World drop"
+    },
+    {
+     "name": "Tearfall Bracers",
+     "source": "The Unforgiven in Stratholme"
+    },
+    {
+     "name": "Darkwater Bracers",
+     "source": "Atal'alarion in The Temple of Atal'Hakkar"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Slaghide Gauntlets",
+     "source": "Urok Doomhowl in Blackrock Spire"
+    },
+    {
+     "name": "Hands of Power",
+     "source": "Quartermaster Zigris in Blackrock Spire"
+    },
+    {
+     "name": "Master's Gloves",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Archmage",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Ban'thok Sash",
+     "source": "Ok'thor the Breaker in Blackrock Depths"
+    },
+    {
+     "name": "Feralheart Sash",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Ironfeather Leggings",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Master's Leggings",
+     "source": "World drop"
+    },
+    {
+     "name": "Skyshroud Leggings",
+     "source": "Highlord Omokk in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Feralheart Galoshes",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
+     "name": "Supreme Shoes",
+     "source": "World drop"
+    },
+    {
+     "name": "Waterspout Boots",
+     "source": "Hydrospawn in Dire Maul"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Songstone of Ironforge",
+     "source": "The Princess's Surprise (Alliance) or The Princess Saved? (Horde), and Pix Xizzix in Stranglethorn Vale"
+    },
+    {
+     "name": "Runed Ring",
+     "source": "Zul'Farrak trash"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Don Julio's Band",
+     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in Alterac Valley"
+    },
+    {
+     "name": "Runed Ring",
+     "source": "Zul'Farrak trash"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Weakness Analyzer",
+     "source": "Pix Xizzix in Stranglethorn Vale and General Drakkisath's Demise"
+    },
+    {
+     "name": "Smolderweb's Eye",
+     "source": "Mother Smolderweb in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher in Blackrock Spire"
+    },
+    {
+     "name": "Smolderweb's Eye",
+     "source": "Mother Smolderweb in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Sageclaw",
+     "source": "Reputation reward (Exalted)"
+    },
+    {
+     "name": "Hand of Edward the Odd",
+     "source": "World drop"
+    },
+    {
+     "name": "Witchblade",
+     "source": "Darkmaster Gandling in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Therazane's Touch",
+     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in Alterac Valley"
+    },
+    {
+     "name": "Obsidian Bauble",
+     "source": "Pusillin in Dire Maul"
+    },
+    {
+     "name": "Spirit of Aquementas",
+     "source": "Reward from the quest It's Dangerous to Go Alone"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Ironbark Staff",
+     "source": "Reputation reward (Exalted)"
+    },
+    {
+     "name": "Crackling Staff",
+     "source": "Gaelden Hammersmith in Alterac Valley"
+    },
+    {
+     "name": "Headmaster's Charge",
+     "source": "Darkmaster Gandling in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Swarming Idol",
+     "source": "Pix Xizzix in Stranglethorn Vale"
+    },
+    {
+     "name": "Idol of the Moon",
+     "source": "Dire Maul"
+    },
+    {
+     "name": "Talons of Wrath",
+     "source": "Crafted with Enchanting"
+    }
+   ]
+  }
+ ]
+}

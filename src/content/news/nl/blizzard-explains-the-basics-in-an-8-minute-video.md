@@ -45,7 +45,7 @@ Elk personage kan alle drie de secundaire beroepen leren: Cooking, First Aid en 
 
 Wie een stad als Stormwind of Orgrimmar binnenkomt, belandt in het kanaal Trade. Steden hebben het veilinghuis, de bank, wapentrainers en verkopers, en een wachter wijst de weg. Blizzard raadt aan bij elk bezoek eten, drinken, drankjes en munitie aan te vullen.
 
-In steden vinden spelers ook een portaal van een Mage of een summon van een Warlock, een snelle weg naar de volgende dungeon. De bestemmingen staan in de [gids over Mage-portalen](/nl/guides/mage-portals/).
+In steden vinden spelers ook een portaal van een Mage of een summon van een Warlock, een snelle weg naar de volgende dungeon. De bestemmingen staan in de [gids over Mage-portalen](/nl/classes/mage/portals/).
 
 ## Guilds
 

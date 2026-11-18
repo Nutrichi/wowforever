@@ -23,9 +23,9 @@ Avant le lancement, le Discord Shaman Classic est passé en lecture seule pour p
 
 ## Enhancement et Elemental
 
-**Enhancement** est suivi de plus près. La spécialisation est aujourd'hui trop poussée vers l'équipement à puissance des sorts. Blizzard veut qu'un [Enhancement Shaman](/fr/guides/enhancement-shaman/) cherche Strength, Intellect et puissance des sorts, comme un Retribution Paladin, et ne coure pas en robe de tissu.
+**Enhancement** est suivi de plus près. La spécialisation est aujourd'hui trop poussée vers l'équipement à puissance des sorts. Blizzard veut qu'un [Enhancement Shaman](/fr/classes/shaman/enhancement/) cherche Strength, Intellect et puissance des sorts, comme un Retribution Paladin, et ne coure pas en robe de tissu.
 
-**Elemental** est aussi surveillé de près. Retirer Lava Burst était une décision de dernière minute de Zierhut : il avait entendu que les joueurs n'aimaient pas le sort et voulaient plutôt un <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=421"><img class="wf-wh__icon" src="/wh/spell_nature_chainlightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chain Lightning</a> plus fort. Il admet que le changement aurait mérité plus de temps. Plus dans [notre article sur Lava Burst](/fr/news/shamans-lose-lava-burst-before-the-launch/) et le [guide Elemental](/fr/guides/elemental-shaman/).
+**Elemental** est aussi surveillé de près. Retirer Lava Burst était une décision de dernière minute de Zierhut : il avait entendu que les joueurs n'aimaient pas le sort et voulaient plutôt un <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=421"><img class="wf-wh__icon" src="/wh/spell_nature_chainlightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chain Lightning</a> plus fort. Il admet que le changement aurait mérité plus de temps. Plus dans [notre article sur Lava Burst](/fr/news/shamans-lose-lava-burst-before-the-launch/) et le [guide Elemental](/fr/classes/shaman/elemental/).
 
 ## Quand
 

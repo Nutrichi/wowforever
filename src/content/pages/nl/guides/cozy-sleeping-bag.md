@@ -23,6 +23,8 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
+> **Update 18 november:** sinds de hotfixes van 17 november werkt de slaapzak niet meer op een mount, kan hij alleen op bepaalde plekken liggen, net als hunter traps, en geeft hij een Resting-aura zolang je in zijn gebied bent.
+
 De [Cozy Sleeping Bag](https://www.wowhead.com/forever/item=211527/cozy-sleeping-bag) is een item waarmee je overal kan gaan liggen en tijdens het rusten extra ervaring oppikt. Hij dook op in Season of Discovery en is terug in WoW Forever, aan het eind van een questreeks die over het halve Azeroth loopt. Spelers vonden hem op de beta; Blizzard heeft hem niet aangekondigd.
 
 Je moet level 14 zijn om te beginnen.

@@ -48,4 +48,4 @@ In the Stormrage Barrow Den, a cat statue at the entrance gives a buff that lets
   </button>
 </figure>
 
-Every step with coordinates is in [our Druid leveling guide](/guides/druid-leveling/), which now also shows where to level by zone.
+Every step with coordinates is in [our Druid leveling guide](/classes/druid/leveling/), which now also shows where to level by zone.

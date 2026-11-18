@@ -30,4 +30,4 @@ La semaine dernière, Blizzard disait que les familiers [ne tenaient pas assez b
 
 Le Felhunter n'est pas dans la liste. Le bruit de fouet de la Succubus se fait aussi beaucoup plus rare : un bug le faisait jouer bien trop souvent.
 
-Monter de niveau avec un familier : notre [guide de leveling du Hunter](/fr/guides/hunter-leveling/), le [guide du Hunter Beast Mastery](/fr/guides/beast-mastery-hunter/) et le [guide de leveling du Warlock](/fr/guides/warlock-leveling/).
+Monter de niveau avec un familier : notre [guide de leveling du Hunter](/fr/classes/hunter/leveling/), le [guide du Hunter Beast Mastery](/fr/classes/hunter/beast-mastery/) et le [guide de leveling du Warlock](/fr/classes/warlock/leveling/).

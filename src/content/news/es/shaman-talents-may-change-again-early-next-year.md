@@ -23,9 +23,9 @@ Antes del lanzamiento, el Discord Shaman Classic pasó a solo lectura en protest
 
 ## Enhancement y Elemental
 
-**Enhancement** es el que más se mira. Ahora la especialización empuja demasiado hacia equipo con poder con hechizos. Blizzard quiere que un [Enhancement Shaman](/es/guides/enhancement-shaman/) busque Strength, Intellect y poder con hechizos, como un Retribution Paladin, y que no vaya por ahí con una túnica de tela.
+**Enhancement** es el que más se mira. Ahora la especialización empuja demasiado hacia equipo con poder con hechizos. Blizzard quiere que un [Enhancement Shaman](/es/classes/shaman/enhancement/) busque Strength, Intellect y poder con hechizos, como un Retribution Paladin, y que no vaya por ahí con una túnica de tela.
 
-**Elemental** también se sigue de cerca. Quitar Lava Burst fue una decisión de última hora de Zierhut: oyó que a los jugadores no les gustaba el hechizo y preferían un <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=421"><img class="wf-wh__icon" src="/wh/spell_nature_chainlightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chain Lightning</a> más fuerte. Admite que el cambio necesitaba más tiempo. Más en [nuestro artículo sobre Lava Burst](/es/news/shamans-lose-lava-burst-before-the-launch/) y la [guía de Elemental](/es/guides/elemental-shaman/).
+**Elemental** también se sigue de cerca. Quitar Lava Burst fue una decisión de última hora de Zierhut: oyó que a los jugadores no les gustaba el hechizo y preferían un <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=421"><img class="wf-wh__icon" src="/wh/spell_nature_chainlightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chain Lightning</a> más fuerte. Admite que el cambio necesitaba más tiempo. Más en [nuestro artículo sobre Lava Burst](/es/news/shamans-lose-lava-burst-before-the-launch/) y la [guía de Elemental](/es/classes/shaman/elemental/).
 
 ## Cuándo
 

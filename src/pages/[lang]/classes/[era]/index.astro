@@ -1,16 +1,20 @@
 ---
-/* De pagina van één era onder CLASSES in de vijf niet-standaardtalen. */
+/* Eén era onder CLASSES of de pagina van een class in Forever, in de vijf niet-standaardtalen. */
 import GuideEraPage from '../../../../components/guides/GuideEraPage.astro';
+import SitePage from '../../../../components/pages/SitePage.astro';
 import { guideEras, type GuideEra } from '../../../../config/guides';
 import { otherLocales } from '../../../../lib/posts';
+import { pageSlugs } from '../../../../lib/pages';
 import type { Locale } from '../../../../i18n/ui';
 
-export function getStaticPaths() {
-  return otherLocales.flatMap((lang) => guideEras.map((era) => ({ params: { lang, era } })));
+export async function getStaticPaths() {
+  const classPages = (await pageSlugs('classes')).filter((s): s is string => !!s && !s.includes('/'));
+  return otherLocales.flatMap((lang) => [...guideEras, ...classPages].map((era) => ({ params: { lang, era } })));
 }
 
 const locale = Astro.params.lang as Locale;
-const era = Astro.params.era as GuideEra;
+const param = Astro.params.era!;
+const isEra = (guideEras as readonly string[]).includes(param);
 ---
 
-<GuideEraPage locale={locale} kind="classes" era={era} />
+{isEra ? <GuideEraPage locale={locale} kind="classes" era={param as GuideEra} /> : <SitePage locale={locale} pageKey={`classes/${param}`} />}

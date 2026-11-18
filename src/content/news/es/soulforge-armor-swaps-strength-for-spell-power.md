@@ -13,11 +13,13 @@ tags: ["forever", "classes", "paladin"]
 featured: false
 draft: false
 ---
+> **Actualización del 18 de noviembre:** Blizzard confirma el cambio en los [arreglos del 17 de noviembre](/es/news/upper-blackrock-spire-gets-harder-after-a-bug-fix/), y está pensado para tanques, no para sanadores: Soulforge es el conjunto de mazmorra mejorado para tanques, y Blizzard quiere que los Paladins tanque hagan su daño con Spell Power.
+
 El conjunto Soulforge de los Paladins en World of Warcraft: Forever pasa a ser un conjunto de sanador. Un hotfix quita la Strength de cada pieza y añade Intellect y Spell Power en su lugar. También cambian otros cinco objetos, entre ellos tres cartas Darkmoon.
 
 ## Las piezas de Soulforge
 
-Soulforge Armor es el conjunto de mazmorra de los Paladins. Con Strength, Stamina y Defense le iba mejor a un tanque que a un sanador. Ahora cada pieza tiene más Intellect y Spell Power, y eso lo convierte en un conjunto para el [Holy Paladin](/es/guides/holy-paladin/).
+Soulforge Armor es el conjunto de mazmorra de los Paladins. Con Strength, Stamina y Defense le iba mejor a un tanque que a un sanador. Ahora cada pieza tiene más Intellect y Spell Power, y eso lo convierte en un conjunto para el [Holy Paladin](/es/classes/paladin/holy/).
 
 | Pieza | Intellect | Spell Power |
 |---|---|---|

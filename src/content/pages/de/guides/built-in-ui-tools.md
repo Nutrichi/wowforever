@@ -76,7 +76,7 @@ Click Casting legt Zauber auf Mausklicks oder Tastenkombinationen auf deinen Ein
 
 ![Das Fenster Click Cast Bindings, mit Mouseover Cast, den Standardbelegungen und einer leeren eigenen Belegung, ein Screenshot aus World of Warcraft: Forever](../../../../assets/posts/2026-10-30-wow-forever-click-cast-bindings.jpg)
 
-Zaubern per Mouseover für alle Zauber findest du unter Options, Combat: Deine Zauber gehen dann an die Einheit unter der Maus, während du dein Ziel behältst. Mehr dazu in unseren Heiler-Guides, etwa zum [Restoration Shaman](/de/guides/restoration-shaman/).
+Zaubern per Mouseover für alle Zauber findest du unter Options, Combat: Deine Zauber gehen dann an die Einheit unter der Maus, während du dein Ziel behältst. Mehr dazu in unseren Heiler-Guides, etwa zum [Restoration Shaman](/de/classes/shaman/restoration/).
 
 ## Welche Addons noch funktionieren
 

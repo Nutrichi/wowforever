@@ -45,7 +45,7 @@ Ogni personaggio può imparare tutte e tre le professioni secondarie: Cooking, F
 
 Entrando in una città come Stormwind o Orgrimmar passi al canale Trade. Le città hanno la casa d'aste, la banca, gli istruttori d'armi e i venditori, e una guardia indica la strada. Blizzard consiglia di rifornirsi di cibo, bevande, pozioni e munizioni a ogni visita.
 
-In città si trovano anche un portale di un Mage o un'evocazione di un Warlock, un modo rapido per arrivare al prossimo dungeon. Le destinazioni sono nella [guida ai portali del Mage](/it/guides/mage-portals/).
+In città si trovano anche un portale di un Mage o un'evocazione di un Warlock, un modo rapido per arrivare al prossimo dungeon. Le destinazioni sono nella [guida ai portali del Mage](/it/classes/mage/portals/).
 
 ## Gilde
 

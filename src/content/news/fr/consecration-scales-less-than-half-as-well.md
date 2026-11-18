@@ -43,4 +43,4 @@ Les charges de Reckoning peuvent être gardées pour le début d’un combat : j
 
 ![Un Paladin avec un bouclier frappé du lion de l’Alliance se tient sur une colline des Barrens, une capture de la beta de World of Warcraft: Forever](../../../assets/posts/2026-10-21-wow-forever-paladin-in-the-barrens.jpg)
 
-Comment le Paladin Protection se situera face au Warrior Protection et au Druid Feral au niveau 60 n’est pas encore connu. La beta s’arrête au niveau 30, et Blizzard n’a pas dit si d’autres changements suivront pour le Paladin. Un build de talents de 1 à 60 se trouve dans le [guide de leveling du Paladin](/fr/guides/paladin-leveling/).
+Comment le Paladin Protection se situera face au Warrior Protection et au Druid Feral au niveau 60 n’est pas encore connu. La beta s’arrête au niveau 30, et Blizzard n’a pas dit si d’autres changements suivront pour le Paladin. Un build de talents de 1 à 60 se trouve dans le [guide de leveling du Paladin](/fr/classes/paladin/leveling/).

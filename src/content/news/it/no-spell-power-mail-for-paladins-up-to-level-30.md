@@ -36,4 +36,4 @@ Un Paladin che non vuole comprare miglioramenti alla Casa d'aste deve crearli. I
 
 ![Una finestra di un venditore con progetti di Blacksmithing per cinture, elmi e camicie in maglia a 30 l'uno, uno screenshot dalla beta di World of Warcraft: Forever](../../../assets/posts/2026-10-22-wow-forever-blacksmithing-plans.jpg)
 
-L'equipaggiamento creato per i livelli bassi è una novità di Forever. Non si sa se Blizzard aggiungerà maglia con spell power prima del lancio. La beta chiude venerdì 23 ottobre. Una build di talenti da 1 a 60 è nella [guida al livellamento del Paladin](/it/guides/paladin-leveling/).
+L'equipaggiamento creato per i livelli bassi è una novità di Forever. Non si sa se Blizzard aggiungerà maglia con spell power prima del lancio. La beta chiude venerdì 23 ottobre. Una build di talenti da 1 a 60 è nella [guida al livellamento del Paladin](/it/classes/paladin/leveling/).

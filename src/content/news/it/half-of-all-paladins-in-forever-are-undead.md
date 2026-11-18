@@ -27,4 +27,4 @@ I dati contano i personaggi dal livello 10. Il personaggio medio è di livello 2
 
 I cognomi sono una novità di Forever, e i giocatori si divertono. Il più popolare, con largo margine, è semplicemente Forever.
 
-Giochi un Paladin? La nostra [guida al livellamento del Paladin](/it/guides/paladin-leveling/) ti porta da 1 a 60.
+Giochi un Paladin? La nostra [guida al livellamento del Paladin](/it/classes/paladin/leveling/) ti porta da 1 a 60.

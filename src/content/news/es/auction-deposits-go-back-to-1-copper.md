@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Actualización del 18 de noviembre:** desde el reinicio semanal del 17 de noviembre el depósito mínimo vuelve a ser 1 cobre. Ahora sigue el precio de venta al vendedor: 5 % por 2 horas, 20 % por 8 horas y 60 % por 24 horas.
+
 > **Actualización del 12 de noviembre:** el depósito mínimo de 1 cobre aún no está activo. Blizzard lo quitó de los hotfixes del 10 de noviembre; llega con el mantenimiento semanal del 17 de noviembre, más en [nuestra noticia](/es/news/1-copper-deposit-waits-until-17-november/).
 
 El depósito mínimo de 1 de plata por subasta en World of Warcraft: Forever va a desaparecer. El principal game designer Kris Zierhut dice en una entrevista que el mínimo vuelve a 1 de cobre. Cuándo, no lo dice: aún no, pero pronto.

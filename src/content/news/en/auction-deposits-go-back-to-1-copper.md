@@ -12,6 +12,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Update 18 November:** since the weekly reset of 17 November the minimum deposit is 1 copper again. The deposit now follows the vendor price: 5% for 2 hours, 20% for 8 hours and 60% for 24 hours.
+
 > **Update 12 November:** the minimum deposit of 1 copper is not live yet. Blizzard pulled it from the hotfixes of 10 November; it comes with the weekly maintenance on 17 November, more in [our post](/news/1-copper-deposit-waits-until-17-november/).
 
 The minimum deposit of 1 silver per auction in World of Warcraft: Forever is going away. Principal game designer Kris Zierhut says in an interview that the floor goes back to 1 copper. When, he does not say: not yet, but soon.

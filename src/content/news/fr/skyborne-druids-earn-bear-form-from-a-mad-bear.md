@@ -49,4 +49,4 @@ Dans le Stormrage Barrow Den, une statue de chat à l'entrée donne un buff qui 
   </button>
 </figure>
 
-Chaque étape avec les coordonnées se trouve dans [notre guide de montée du Druide](/fr/guides/druid-leveling/), qui indique aussi où monter par zone.
+Chaque étape avec les coordonnées se trouve dans [notre guide de montée du Druide](/fr/classes/druid/leveling/), qui indique aussi où monter par zone.

@@ -32,4 +32,4 @@ Blizzard [anunció la semana pasada](/es/news/hunter-and-warlock-pets-get-toughe
 
 La maza es la recompensa de <a href="https://www.wowhead.com/forever/quest=79442">The Tempest's Weapons</a> para la Horde y <a href="https://www.wowhead.com/forever/quest=96016">The Tempest's Weapons</a> para la Alliance, el último paso de la cadena que describimos [durante la beta](/es/news/shamans-earn-a-weapon-with-a-level-30-quest-chain/). Si ya la tienes, tu ejemplar recibe las nuevas estadísticas.
 
-Los [cambios para Warlocks y Hunters](/es/news/wrack-makes-affliction-dots-tick-twice-as-fast/) llegaron más tarde ese mismo día. Nuestra [guía del Enhancement Shaman](/es/guides/enhancement-shaman/) sigue las nuevas estadísticas.
+Los [cambios para Warlocks y Hunters](/es/news/wrack-makes-affliction-dots-tick-twice-as-fast/) llegaron más tarde ese mismo día. Nuestra [guía del Enhancement Shaman](/es/classes/shaman/enhancement/) sigue las nuevas estadísticas.

@@ -35,4 +35,4 @@ A Paladin who does not want to buy upgrades at the Auction House has to craft th
 
 ![A vendor window with Blacksmithing plans for chain belts, silvered chain helms and shirts at 30 each, a screenshot from the beta of World of Warcraft: Forever](../../../assets/posts/2026-10-22-wow-forever-blacksmithing-plans.jpg)
 
-The crafted gear for low levels is new in Forever. Whether Blizzard adds mail with spell power before launch is not known. The beta closes on Friday 23 October. A talent build from 1 to 60 is in the [Paladin leveling guide](/guides/paladin-leveling/).
+The crafted gear for low levels is new in Forever. Whether Blizzard adds mail with spell power before launch is not known. The beta closes on Friday 23 October. A talent build from 1 to 60 is in the [Paladin leveling guide](/classes/paladin/leveling/).

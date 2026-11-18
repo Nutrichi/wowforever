@@ -45,7 +45,7 @@ Jeder Charakter kann alle drei Nebenberufe lernen: Cooking, First Aid und Fishin
 
 Wer eine Stadt wie Stormwind oder Orgrimmar betritt, landet im Kanal Trade. Städte haben das Auktionshaus, die Bank, Waffenlehrer und Händler, und eine Wache zeigt den Weg. Blizzard rät, bei jedem Besuch Essen, Trinken, Tränke und Munition aufzufüllen.
 
-In Städten findet man auch ein Portal eines Mage oder eine Beschwörung eines Warlock, ein schneller Weg zum nächsten Dungeon. Die Ziele stehen im [Guide zu den Mage-Portalen](/de/guides/mage-portals/).
+In Städten findet man auch ein Portal eines Mage oder eine Beschwörung eines Warlock, ein schneller Weg zum nächsten Dungeon. Die Ziele stehen im [Guide zu den Mage-Portalen](/de/classes/mage/portals/).
 
 ## Gilden
 

@@ -7,7 +7,7 @@ lang: nl
 image: ../../../assets/posts/2026-10-14-wow-forever-gnome-priest-in-dun-morogh.jpg
 imageAlt: "Een Gnome Priest die een heilige spreuk cast in een besneeuwd bos, een schermafdruk uit de beta van World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/priest/leveling/"
 tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
@@ -23,7 +23,7 @@ De eerste 20 tot 30 levels verschillen nauwelijks. Een Priest opent met Smite, h
 
 ![De drie talentbomen van de Priest in World of Warcraft: Forever: Discipline, Holy en Shadow Magic](../../../assets/posts/2026-10-01-wow-forever-priest-talent-trees.jpg)
 
-Elke build opent in de talentcalculator vanuit de nieuwe [Priest-gids](/nl/guides/priest-leveling/). Onze [levelbuild voor de Priest](/nl/leveling/priest/) geeft een talent voor elk level tot 60.
+Elke build opent in de talentcalculator vanuit de nieuwe [Priest-gids](/nl/classes/priest/leveling/). Onze [levelbuild voor de Priest](/nl/leveling/priest/) geeft een talent voor elk level tot 60.
 
 ## Geen snapshot voor schade over tijd
 

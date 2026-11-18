@@ -23,9 +23,9 @@ Vor dem Launch stellte der Shaman Classic Discord auf nur lesen, aus Protest dag
 
 ## Enhancement und Elemental
 
-**Enhancement** wird am genauesten angeschaut. Die Spec wird gerade zu stark zu Ausrüstung mit Zaubermacht gedrängt. Blizzard will, dass ein [Enhancement Shaman](/de/guides/enhancement-shaman/) Strength, Intellect und Zaubermacht sucht, wie ein Retribution Paladin, und nicht in einer Stoffrobe herumläuft.
+**Enhancement** wird am genauesten angeschaut. Die Spec wird gerade zu stark zu Ausrüstung mit Zaubermacht gedrängt. Blizzard will, dass ein [Enhancement Shaman](/de/classes/shaman/enhancement/) Strength, Intellect und Zaubermacht sucht, wie ein Retribution Paladin, und nicht in einer Stoffrobe herumläuft.
 
-Auch **Elemental** wird genau beobachtet. Lava Burst zu streichen war eine Entscheidung von Zierhut in letzter Minute: Er hatte gehört, dass Spieler den Zauber nicht mochten und lieber ein stärkeres <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=421"><img class="wf-wh__icon" src="/wh/spell_nature_chainlightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chain Lightning</a> wollten. Er gibt zu, dass die Änderung mehr Zeit gebraucht hätte. Mehr in [unserem Beitrag zu Lava Burst](/de/news/shamans-lose-lava-burst-before-the-launch/) und im [Elemental-Guide](/de/guides/elemental-shaman/).
+Auch **Elemental** wird genau beobachtet. Lava Burst zu streichen war eine Entscheidung von Zierhut in letzter Minute: Er hatte gehört, dass Spieler den Zauber nicht mochten und lieber ein stärkeres <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=421"><img class="wf-wh__icon" src="/wh/spell_nature_chainlightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chain Lightning</a> wollten. Er gibt zu, dass die Änderung mehr Zeit gebraucht hätte. Mehr in [unserem Beitrag zu Lava Burst](/de/news/shamans-lose-lava-burst-before-the-launch/) und im [Elemental-Guide](/de/classes/shaman/elemental/).
 
 ## Wann
 

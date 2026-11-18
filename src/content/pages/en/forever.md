@@ -105,7 +105,9 @@ And what is new, according to Jones:
 
 In October 2026, Clay Stone added that new raid tiers should add as little power as possible, so gear lasts longer, and that the world grows sideways through tradeskills and the Legacy system ([more](/news/raid-tiers-will-add-as-little-power-as-possible/)).
 
-## Dates
+## Dates and roadmap
+
+### Dates
 
 All dates come from Blizzard. Times are Pacific time, with Belgian time where it matters.
 
@@ -126,22 +128,22 @@ All dates come from Blizzard. Times are Pacific time, with Belgian time where it
 | February 2027 | Collector's Editions ordered from 24 September 2026 are delivered. |
 | 31 December 2027 | Last day to redeem a Collector's Edition code for a possible Battle.net Balance credit on earlier digital purchases. |
 
-## The roadmap for the first year
+### The roadmap for the first year
 
 Blizzard summed up the first year as "fast-paced production for a slow-paced game". The content and timing can still change, and features will evolve with player feedback, according to Blizzard.
 
-### Autumn 2026
+#### Autumn 2026
 
 - Beta from 17 September to 23 October, first up to level 20 and later up to level 30.
 - Early Name Reservation and character creation from 27 October.
 - Launch on 4 November.
 
-### Winter 2026
+#### Winter 2026
 
 - On 9 December the raids open: Barrow Deeps for 10 players, Hyjal Summit for 20 players and Onyxia's Lair for 40 players.
 - WoW Forever Hardcore launches. The roadmap places it in this same winter, after the raids; Blizzard has not named a day.
 
-### Spring 2027
+#### Spring 2027
 
 - 2 new raids, for 10 and 20 players.
 - 2 new dungeons.
@@ -149,7 +151,7 @@ Blizzard summed up the first year as "fast-paced production for a slow-paced gam
 - A new legendary questline.
 - A new PvP season.
 
-### Summer 2027
+#### Summer 2027
 
 - A revamped iconic raid and a new raid.
 - More world content.
@@ -159,15 +161,17 @@ Blizzard summed up the first year as "fast-paced production for a slow-paced gam
 
 New content follows the order of the original game, so raid sizes are mixed from the start: Hyjal Summit for 20 players opens together with Onyxia's Lair for 40. Which raids exactly come in 2027 has not been announced.
 
-## New and reworked zones
+## Zones, leveling and travel
+
+### New and reworked zones
 
 The adventure covers the Eastern Kingdoms and Kalimdor, with new regions, unfinished corners of the original world and more than 1,000 new quests from level 1 to 60. Blizzard showed four regions at BlizzCon.
 
-### Zephras Isle, levels 1 to 12
+#### Zephras Isle, levels 1 to 12
 
 The starting zone of the Skyborne: a secluded island in the sky that now faces a threat to its existence. The look is classic Warcraft, with architecture inspired by Skywall. Playing there requires the Skyborne Heroic Pack or a higher edition. Horde Druids and Shamans can get a relic there at level 5, through the quest Meddlesome Mages. The Alliance cannot take that quest, as the beta shows.
 
-### The Riverglades, about levels 30 to 45
+#### The Riverglades, about levels 30 to 45
 
 A new frontier in the Eastern Kingdoms, with rivers, grasslands, trade routes and ruined keeps. It has more than 150 new quests, new reputations and rewards. Humans, orcs, ogres and small communities with old grudges live there; Blizzard called it "not a story about saving Azeroth, a story about living there". A neutral goblin port adds travel routes, and the zone gets its own dungeon. A fork in Redridge Mountains that used to be a dead end now leads there. Alliance players meet the Brotherhood of the Horse, not seen since Warcraft II, and Horde players an ogre clan; the Twilight's Hammer is the threat, according to [a Blizzard video](/news/a-five-minute-video-sums-up-what-changes/) of 23 September. The Black Market Auction House of Forever stands at Powderfuse Port, a goblin outpost in the zone; see the [BMAH guide](/guides/bmah/). The short story Cost of Honor, of 13 November, is set at Farholde Keep; see [the post about the story](/news/cost-of-honor-tells-the-past-of-the-riverglades/). How to get there, the towns and the quests are in our [Riverglades guide](/guides/riverglades/).
 
@@ -181,19 +185,19 @@ A new frontier in the Eastern Kingdoms, with rivers, grasslands, trade routes an
   </button>
 </figure>
 
-### Mount Hyjal, endgame leveling
+#### Mount Hyjal, endgame leveling
 
 What happened after the defeat of Archimonde, including Darkwhisper Gorge. Mount Hyjal has solo and group content, new reputations, quests and rewards. It holds the Hyjal Summit raid and one of the three entrances to the Barrow Deeps. It is the finale of levelling. A camp of Horde and Alliance sits there together, trapped in the same place and forced into an uneasy peace.
 
-### Shen'dralas, a new region
+#### Shen'dralas, a new region
 
 A hidden region between Mulgore and Desolace, tied to the Shen'dralar, the Night Elves who still live in Dire Maul, and to Eldre'Thalas. The story follows a war between the centaur tribes of the region and gives new reasons to visit Maraudon and Razorfen Downs.
 
-### The old world in a new light
+#### The old world in a new light
 
 Associate Production Director Clay Stone said the Classic art style is timeless and is not being replaced. Existing effects get better instead: flowing rivers, more natural fog, moonlight through the trees and upgraded surroundings. Blizzard showed Ashenvale, Darkshore, Dustwallow Marsh, Felwood, Mulgore and The Barrens. The original zones also get new quests and secrets. Heavier rain and fog follow: on 23 September Blizzard showed a rainy day in Elwynn Forest, with the effects coming to the beta afterwards.
 
-## Leveling and travel
+### Leveling and travel
 
 The experience curve does not change: a character needs the same amount to reach 60 as in the original Classic, Blizzard told The Sun. What changes is where that experience comes from, because the new zones add routes that the original game did not have. The Riverglades and Shen'dralas sit in the stretch where leveling slows down, and Mount Hyjal sits close to 60.
 
@@ -245,18 +249,20 @@ Every raid boss drops a chase item, Blizzard said in an interview with The Sun. 
 
 The two new raids ask for no attunement; Onyxia's Lair keeps its chain from Classic, per character. Blizzard currently plans a weekly reset for every raid. The sizes of 10, 20 and 40 players are fixed rather than flexible, and the difficulty never follows your level or your gear, so a group can out-gear and out-level a raid.
 
-## The Skyborne
+## Skyborne, classes and racials
+
+### The Skyborne
 
 The Skyborne are a new race of elves with an elemental touch. Their floating home, Zephras Isle, faces a threat to its existence, and their shared ancestry has led to very different ideas about the future. The Skyborne are not neutral: at character creation, players choose a faction, and that choice decides the extra class. Among their own people they are called the Shen'dorei. The faction choice also ties the Horde Skyborne to the Earthen Ring, with a new area in Mulgore, and the Alliance Skyborne to the Kirin Tor, both with quests and reputation, says Tim Jones.
 
-### High Order Skyborne, Alliance
+#### High Order Skyborne, Alliance
 
 - Follow the arcane legacy of their ancestors and the ideas of the Kirin Tor.
 - Classes: Warrior, Hunter, Rogue, Druid and Mage.
 - Racials: Walk on Air, Read Leyline, Wind Blessed and Elemental Insight.
 - Languages: Common and Darnassian.
 
-### Windshaper Skyborne, Horde
+#### Windshaper Skyborne, Horde
 
 - Follow elemental traditions and ride the elemental winds.
 - Classes: Warrior, Hunter, Rogue, Druid and Shaman.
@@ -269,7 +275,7 @@ Skyborne Druids have their own sky-blue Bear, Cat, Travel and Moonkin forms, sho
 
 The Skyborne and Zephras Isle require the Skyborne Heroic Pack for 29.99 euro, or a higher edition. It is the first time Blizzard sells a playable race outside an expansion. Access only applies to the World of Warcraft account the pack was bought for.
 
-## Classes, combinations and racials
+### Classes, combinations and racials
 
 Every class and spec is reworked, with new abilities and new talent trees. Classes keep feeling unique, but talents move away from small bonuses of 1 or 2 percent towards choices with real impact. The Paladin gets a new tanking Seal, more group healing and new tools for Retribution. Twist of Light replaces the old Seal Twisting, as the [Paladin deep dive](/news/paladins-get-a-new-kind-of-seal-twisting/) shows. There are 51 talent points in total, as in Classic.
 
@@ -279,7 +285,9 @@ The new race and class combinations are the Undead Paladin, the Dwarf Shaman, th
 
 Racials were redesigned as well. Every race now has four racials and the resistance racials are gone. The weapon specializations are gone too: [Humans, Dwarves and Orcs get a critical strike bonus](/news/humans-dwarves-and-orcs-lose-their-weapon-racials/) that works with any weapon. The full table of races and classes, with every racial per race, is on [Classes](/classes/).
 
-## New systems
+## New systems, Legacy and tradeskill perks
+
+### New systems
 
 - **Optional transmog.** Transmog exists, but every player chooses whether to see it. With the option off, everyone shows their real gear.
 - **HD or SD graphics.** Characters, models and the world can switch between the original look and updated visuals, with better lighting, fog and water.
@@ -299,13 +307,13 @@ Racials were redesigned as well. Every race now has four racials and the resista
 - **A gathering profession around level 3 or 4.** A quest rewards a choice between a Herbalism, Mining or Skinning manual, which teaches the profession to anyone who does not have it and carries fewer than two.
 - **Nothing is meant to become unavailable.** The team does not plan anything like the old Naxxramas, which disappeared for good.
 
-## The Legacy system
+### The Legacy system
 
 Leveling from 1 to 60 is the heart of Classic, and the Legacy system rewards players who level more than one character. Legacy Challenges are goals in six categories: exploring, leveling classes, raising tradeskills, earning PvP ranks, maxing reputations, and finishing dungeons and raids.
 
 Every completed challenge gives one Legacy Point. Points go into a Legacy tree with three branches, and every perk works for every character on the account. Most perks are passive, a few are activated, and none give combat power. A level 38 character on the show floor had 4 points to spend, and several nodes were marked "to be added in future patch content". In a later week of the beta, every tester got 16 Legacy points to test the system, until the end of the beta.
 
-### Adventure
+#### Adventure
 
 - Well Rested: rested XP builds up 4% faster and its cap is 4% higher.
 - Talented: talent points start at level 9 instead of 10, still up to 51.
@@ -315,7 +323,7 @@ Every completed challenge gives one Legacy Point. Points go into a Legacy tree w
 - Field Medicine: Recently Bandaged lasts 5 seconds less, in the open world.
 - Frequent Flier: flight paths cost 50% less and their mounts are 20% faster.
 
-### Resourcefulness
+#### Resourcefulness
 
 - The Quick and the Dead: faster while dead, and helpful spells cost nothing for 1 minute after resurrection or until combat.
 - Reinforce: less durability loss on death.
@@ -329,7 +337,7 @@ The third branch holds the perks for tradeskills; those are on [Tradeskills](/tr
 
 Apart from the tree, the total number of points earned unlocks a track of cosmetic rewards. Spending points on perks does not slow that track down. The rewards shown so far are the Replica Ironforge Air Rifle, the [Spectral Bear Cub](/guides/pets/spectral-bear-cub/) pet, a Spectral Bear tabard and the Reins of the Spectral Bear mount. The track opens at 15, 25, 40 and 55 points, with the mount at 55. Every challenge is worth exactly one point, and a class trainer unlearns a whole tree for 10 gold.
 
-## Tradeskill perks
+### Tradeskill perks
 
 Tradeskills get their first real overhaul. In Classic a tradeskill only gave recipes; in Forever every primary tradeskill also gives perks to the character who learns it, next to new and reworked recipes. The perks per tradeskill, as shown in BlizzCon footage, are on [Tradeskills](/tradeskills/). The exact numbers are not final, and summer 2027 brings another round of updates.
 
@@ -347,7 +355,9 @@ Hardcore is coming to Forever, but not at launch. Blizzard said at the Hardcore 
 
 Two things change once it is there. The game warns players before a world refresh, so they can reach a safe spot first. And a character that dies can move to any mode outside Hardcore, instead of being sent to a PvE realm. Hardcore also gets Legacy challenges and perks of its own, and Blizzard said the team is thinking about Mak'gora tournaments, without confirming anything.
 
-## Editions and prices
+## Editions, prices and Forsaken Kingdom
+
+### Editions and prices
 
 Forever costs nothing extra on top of a World of Warcraft subscription or Game Time. The Battle.net Shop sells three optional digital editions, and the Blizzard Gear Store sells a physical Collector's Edition for 150 euro. Items marked * work in both modern World of Warcraft and Forever, items marked ** only in Forever, and none of them work in WoW Classic.
 
@@ -374,11 +384,11 @@ Forever costs nothing extra on top of a World of Warcraft subscription or Game T
 
 The Cerulean Prideclaw is a ground mount, so riding skill still has to be bought in the game. Housing decor only works in the housing of modern World of Warcraft, which requires Midnight.
 
-### Invite-A-Friend launch codes
+#### Invite-A-Friend launch codes
 
 Every edition includes codes that let a friend play Forever during launch week, from 4 to 11 November 2026, without a subscription or Game Time. The codes arrive by email from 20 October 2026, and the friend redeems them through Battle.net. Editions bought as a gift do not include codes.
 
-### The Collector's Edition
+#### The Collector's Edition
 
 The physical Collector's Edition costs 150 euro in the Blizzard Gear Store. In Australia and New Zealand it is sold through retailers. It contains: On 24 September a new batch of the English version went on sale, with a limit of one copy per household in the Gear Store. Orders from that day ship in February 2027, earlier orders in November 2026, see [the post](/news/more-collectors-editions-go-on-sale/).
 
@@ -388,7 +398,7 @@ The physical Collector's Edition costs 150 euro in the Blizzard Gear Store. In A
 
 Beta access from the Collector's Edition arrived by email and only worked during the beta. Some earlier digital purchases can qualify for a Battle.net Balance credit when the Collector's Edition code is redeemed by 31 December 2027. Not every product qualifies, according to a support article from Blizzard.
 
-## Warcraft III Reforged: Forsaken Kingdom
+### Warcraft III Reforged: Forsaken Kingdom
 
 The story of Forever starts in a new Warcraft III campaign. Forsaken Kingdom was announced and released on 12 September 2026. It follows Sylvanas and the fall of Lordaeron, the founding of the Undercity and the first Forsaken Paladin, and it leads straight into the Undead Paladins of Forever.
 

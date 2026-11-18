@@ -16,19 +16,19 @@ The site has seven new class guides: Retribution and Holy Paladin, Beast Mastery
 
 ## Paladin
 
-The [Retribution Paladin guide](/guides/retribution-paladin/) covers the level 30 build with Seal of Command, Conviction and Vengeance, the rotation with Judgement and Holy Strike, and Twist of Light, the new last talent that lets you run two seals at once. The [Holy Paladin guide](/guides/holy-paladin/) explains Holy Shock, Illumination for mana and Light's Vigil, the only area heal of the spec.
+The [Retribution Paladin guide](/classes/paladin/retribution/) covers the level 30 build with Seal of Command, Conviction and Vengeance, the rotation with Judgement and Holy Strike, and Twist of Light, the new last talent that lets you run two seals at once. The [Holy Paladin guide](/classes/paladin/holy/) explains Holy Shock, Illumination for mana and Light's Vigil, the only area heal of the spec.
 
 ## Hunter
 
-Both Hunter guides have a full build for level 60, checked point for point against the talent trees in the game files. The [Beast Mastery Hunter](/guides/beast-mastery-hunter/) plays 31/20/0 with Summon Hawk, a new talent that keeps two hawks on your target. The [Marksmanship Hunter](/guides/marksmanship-hunter/) plays 5/46/0 with Lone Wolf, 20% more damage without a pet, and Sniper Shot at the bottom of the tree.
+Both Hunter guides have a full build for level 60, checked point for point against the talent trees in the game files. The [Beast Mastery Hunter](/classes/hunter/beast-mastery/) plays 31/20/0 with Summon Hawk, a new talent that keeps two hawks on your target. The [Marksmanship Hunter](/classes/hunter/marksmanship/) plays 5/46/0 with Lone Wolf, 20% more damage without a pet, and Sniper Shot at the bottom of the tree.
 
 ## Rogue
 
-The [Subtlety Rogue guide](/guides/subtlety-rogue/) has two playstyles: Ambush with Cutthroat, which lets you Ambush in combat, and bleeds with Hemorrhage and Thousand Cuts. The [Combat Rogue guide](/guides/combat-rogue/) explains Hack and Slash, the one talent that replaces every old weapon specialization, with a standard and a dagger build for level 60. Together with the [Assassination Rogue](/guides/assassination-rogue/), every Rogue spec now has its own guide.
+The [Subtlety Rogue guide](/classes/rogue/subtlety/) has two playstyles: Ambush with Cutthroat, which lets you Ambush in combat, and bleeds with Hemorrhage and Thousand Cuts. The [Combat Rogue guide](/classes/rogue/combat/) explains Hack and Slash, the one talent that replaces every old weapon specialization, with a standard and a dagger build for level 60. Together with the [Assassination Rogue](/classes/rogue/assassination/), every Rogue spec now has its own guide.
 
 ## Shaman leveling
 
-The [Shaman leveling guide](/guides/shaman-leveling/) has level 30 builds for Enhancement, Elemental and Restoration, every key level checked against the latest beta data, the totem quests, the three Call of Air weapons and the totems worth dropping.
+The [Shaman leveling guide](/classes/shaman/leveling/) has level 30 builds for Enhancement, Elemental and Restoration, every key level checked against the latest beta data, the totem quests, the three Call of Air weapons and the totems worth dropping.
 
 ## City of Dalaran quests
 

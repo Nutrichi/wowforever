@@ -27,4 +27,4 @@ Die Zahlen zählen Charaktere ab Stufe 10. Der Durchschnittscharakter ist Stufe 
 
 Nachnamen sind neu in Forever, und Spieler haben Spaß damit. Der beliebteste, mit großem Abstand, ist schlicht Forever.
 
-Du spielst Paladin? Unser [Paladin-Leveling-Guide](/de/guides/paladin-leveling/) bringt dich von 1 bis 60.
+Du spielst Paladin? Unser [Paladin-Leveling-Guide](/de/classes/paladin/leveling/) bringt dich von 1 bis 60.

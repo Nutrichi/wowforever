@@ -36,4 +36,4 @@ Ein Paladin, der keine Upgrades im Auktionshaus kaufen will, muss sie herstellen
 
 ![Ein Händlerfenster mit Blacksmithing-Plänen für Kettengürtel, Kettenhelme und Hemden für je 30, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../assets/posts/2026-10-22-wow-forever-blacksmithing-plans.jpg)
 
-Hergestellte Ausrüstung für niedrige Stufen ist neu in Forever. Ob Blizzard vor dem Launch noch Kettenrüstung mit Spell Power hinzufügt, ist nicht bekannt. Die Beta schließt am Freitag, 23. Oktober. Ein Talentbuild von 1 bis 60 steht im [Levelguide für den Paladin](/de/guides/paladin-leveling/).
+Hergestellte Ausrüstung für niedrige Stufen ist neu in Forever. Ob Blizzard vor dem Launch noch Kettenrüstung mit Spell Power hinzufügt, ist nicht bekannt. Die Beta schließt am Freitag, 23. Oktober. Ein Talentbuild von 1 bis 60 steht im [Levelguide für den Paladin](/de/classes/paladin/leveling/).

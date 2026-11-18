@@ -43,4 +43,4 @@ Le cariche di Reckoning si possono conservare per l'inizio di uno scontro: fino 
 
 ![Un Paladin con uno scudo con il leone dell'Alliance su una collina di The Barrens, uno screenshot dalla beta di World of Warcraft: Forever](../../../assets/posts/2026-10-21-wow-forever-paladin-in-the-barrens.jpg)
 
-Come si collocherà il Paladin Protection rispetto al Warrior Protection e al Druid Feral al livello 60 non è ancora noto. La beta si ferma al livello 30, e Blizzard non ha detto se seguiranno altre modifiche al Paladin. Una build di talenti da 1 a 60 è nella [guida al livellamento del Paladin](/it/guides/paladin-leveling/).
+Come si collocherà il Paladin Protection rispetto al Warrior Protection e al Druid Feral al livello 60 non è ancora noto. La beta si ferma al livello 30, e Blizzard non ha detto se seguiranno altre modifiche al Paladin. Una build di talenti da 1 a 60 è nella [guida al livellamento del Paladin](/it/classes/paladin/leveling/).

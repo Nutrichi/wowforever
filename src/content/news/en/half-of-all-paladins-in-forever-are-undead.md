@@ -26,4 +26,4 @@ The figures count characters from level 10. The average character is level 21, a
 
 Surnames are new in Forever, and players have fun with them. The most popular one, by a wide margin, is simply Forever.
 
-Playing a Paladin? Our [Paladin leveling guide](/guides/paladin-leveling/) takes you from 1 to 60.
+Playing a Paladin? Our [Paladin leveling guide](/classes/paladin/leveling/) takes you from 1 to 60.

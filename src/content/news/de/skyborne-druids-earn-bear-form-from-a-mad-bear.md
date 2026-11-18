@@ -49,4 +49,4 @@ In der Stormrage Barrow Den gibt eine Katzenstatue am Eingang einen Buff, mit de
   </button>
 </figure>
 
-Jeder Schritt mit Koordinaten steht in [unserem Guide zum Druiden-Leveln](/de/guides/druid-leveling/), der jetzt auch zeigt, wo du nach Zone levelst.
+Jeder Schritt mit Koordinaten steht in [unserem Guide zum Druiden-Leveln](/de/classes/druid/leveling/), der jetzt auch zeigt, wo du nach Zone levelst.

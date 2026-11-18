@@ -25,4 +25,4 @@ Con una segunda especialización tienes dos builds de talentos separadas y cambi
 
 Apprentice Riding y la Dual Spec cuestan juntas 150 de oro en el nivel 40. Es mucho tan pronto, así que muchos jugadores tendrán que elegir primero. Se vuelve más fácil al subir: los objetos se venden por más y [las misiones dan más oro desde el nivel 48](/es/news/blizzard-adds-gold-to-quests-from-level-48/).
 
-Los sanadores y tanques que suben con una especialización de daño son los que más ganan. La [guía de subida del Shaman](/es/guides/shaman-leveling/), por ejemplo, añade Restoration como segunda especialización en el nivel 40.
+Los sanadores y tanques que suben con una especialización de daño son los que más ganan. La [guía de subida del Shaman](/es/classes/shaman/leveling/), por ejemplo, añade Restoration como segunda especialización en el nivel 40.

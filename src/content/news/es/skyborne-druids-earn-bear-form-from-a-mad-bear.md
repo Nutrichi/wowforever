@@ -49,4 +49,4 @@ En el Stormrage Barrow Den, una estatua de gato en la entrada da un beneficio co
   </button>
 </figure>
 
-Cada paso con coordenadas está en [nuestra guía para subir un Druida](/es/guides/druid-leveling/), que ahora también muestra dónde subir por zona.
+Cada paso con coordenadas está en [nuestra guía para subir un Druida](/es/classes/druid/leveling/), que ahora también muestra dónde subir por zona.

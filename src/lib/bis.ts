@@ -14,7 +14,7 @@ import path from 'node:path';
 import type { Locale } from '../i18n/ui';
 import { localizePath } from '../i18n/utils';
 import { eraKeys, type EraKey } from '../config/eras';
-import { bisTabEras, classes, isBisEra, listEras, phaseIds, type BisEra } from '../config/bis';
+import { bisTabEras, classes, foreverSpecs, isBisEra, listEras, phaseIds, type BisEra } from '../config/bis';
 
 export type BisItem = { name: string; source?: string };
 export type BisSlot = { slot: string; items: BisItem[] };
@@ -143,4 +143,16 @@ export function siblingSpecs(list: BisList): BisList[] {
   return listsForEra(list.era).filter(
     (other) => other.phase === list.phase && other.class === list.class && other.spec !== list.spec,
   );
+}
+
+/**
+ * Forever specs that have no BiS list yet. Each still gets a page with "Coming soon"
+ * (Nutri, 18 November 2026: "the pages should be already there"), without index, until
+ * the daily check from Wowhead brings a list and the JSON file replaces it.
+ */
+export function soonSpecs(): Array<{ class: string; spec: string; slug: string }> {
+  const have = new Set(listsForEra('forever').map((list) => list.slug));
+  return foreverSpecs
+    .map(([cls, spec]) => ({ class: cls, spec, slug: `${cls}-${spec}` }))
+    .filter((entry) => !have.has(entry.slug));
 }

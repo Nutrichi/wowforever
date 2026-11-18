@@ -49,4 +49,4 @@ Nello Stormrage Barrow Den, una statua di gatto all'ingresso dà un buff con cui
   </button>
 </figure>
 
-Ogni passo con le coordinate è nella [nostra guida per livellare il Druido](/it/guides/druid-leveling/), che ora mostra anche dove livellare per zona.
+Ogni passo con le coordinate è nella [nostra guida per livellare il Druido](/it/classes/druid/leveling/), che ora mostra anche dove livellare per zona.

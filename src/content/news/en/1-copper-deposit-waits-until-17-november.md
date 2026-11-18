@@ -12,6 +12,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Update 18 November:** since the weekly reset of 17 November the minimum deposit is 1 copper again. The deposit now follows the vendor price: 5% for 2 hours, 20% for 8 hours and 60% for 24 hours.
+
 Selling cheap items on the Auction House in World of Warcraft: Forever stays expensive for a few more days. The minimum deposit of 1 copper is not live yet. It comes with the weekly maintenance on 17 November, says Blizzard.
 
 ## What happened

@@ -13,6 +13,8 @@ dungeon:
   slug: "upper-blackrock-spire"
   tab: "guide"
 ---
+> **Mise à jour du 18 novembre :** depuis les correctifs du 17 novembre, les monstres d'Upper Blackrock Spire ont de nouveau la vie et les dégâts prévus. Un bug les rendait bien trop faibles, alors venez avec un groupe complet et attentif. [Plus dans notre article](/fr/news/upper-blackrock-spire-gets-harder-after-a-bug-fix/).
+
 Ce guide suit le donjon tel qu’il était dans Classic. Upper Blackrock Spire reste un donjon pour 10 joueurs dans Forever ; si le donjon lui-même change, Blizzard ne l’a pas dit.
 
 ## L’accès

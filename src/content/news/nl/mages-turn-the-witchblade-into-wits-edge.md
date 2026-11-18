@@ -33,7 +33,7 @@ Wit's End geeft je meleeaanvallen 15% kans op <a class="wf-wh wf-spell" href="ht
 ## Zo krijg je het
 
 1. **De Witchblade:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13964"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Witchblade</a> valt bij Darkmaster Gandling, de laatste baas van [Scholomance](/nl/guides/dungeons/scholomance/).
-2. **De scroll:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> is een Mage-scroll van tier 4. Je ontcijfert hem met de vaardigheid Study, vanaf skill 175 en level 46. Waar scrolls vallen en hoe Study werkt, staat in onze [gids over Mage-scrolls](/nl/guides/mage-scrolls/).
+2. **De scroll:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> is een Mage-scroll van tier 4. Je ontcijfert hem met de vaardigheid Study, vanaf skill 175 en level 46. Waar scrolls vallen en hoe Study werkt, staat in onze [gids over Mage-scrolls](/nl/classes/mage/scrolls/).
 3. **Combineren:** gebruik de scroll op de Witchblade en je krijgt Wit's Edge.
 
 ## De moeite waard?

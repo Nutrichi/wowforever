@@ -25,11 +25,11 @@ I pet degli Hunter e il Voidwalker del Warlock non reggono come tank quanto Bliz
 
 In un'intervista, il principal game designer Kris Zierhut ha spiegato che il team aveva in realtà abbassato la vita di entrambi i tipi di pet. La grande differenza con Classic Era 1.15: in Forever i pet prendono parte delle stats dal loro padrone, quindi crescono con il tuo equipaggiamento. Qualcuno del team sta ora controllando la vita del Voidwalker.
 
-Per livellare con un pet: la nostra [guida al leveling Hunter](/it/guides/hunter-leveling/) e la [guida al leveling Warlock](/it/guides/warlock-leveling/).
+Per livellare con un pet: la nostra [guida al leveling Hunter](/it/classes/hunter/leveling/) e la [guida al leveling Warlock](/it/classes/warlock/leveling/).
 
 ## Affliction: Wrack e i tuoi DoT
 
-Al momento un Warlock Affliction rende di più canalizzando <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> di continuo. Lanciare anche <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> e <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> non conviene. Blizzard cambierà le cose perché quegli incantesimi di danno nel tempo valgano sempre la pena insieme a Wrack, senza toccare il danno totale di Affliction. Di più nella [guida al Warlock Affliction](/it/guides/affliction-warlock/).
+Al momento un Warlock Affliction rende di più canalizzando <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> di continuo. Lanciare anche <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> e <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> non conviene. Blizzard cambierà le cose perché quegli incantesimi di danno nel tempo valgano sempre la pena insieme a Wrack, senza toccare il danno totale di Affliction. Di più nella [guida al Warlock Affliction](/it/classes/warlock/affliction/).
 
 ## Enhancement: prima la Forza
 
@@ -37,7 +37,7 @@ Gli Shaman Enhancement hanno scoperto che Intelletto e potere magico battono For
 
 > Please note: Enhancement Shaman players who are leveling up will want to collect Strength and Attack Power gear from now on.
 
-Se stai livellando uno [Shaman Enhancement](/it/guides/enhancement-shaman/), tieni l'equipaggiamento con Forza che trovi. È in linea con quanto detto da Zierhut nell'[intervista sui talenti dello Shaman](/it/news/shaman-talents-may-change-again-early-next-year/).
+Se stai livellando uno [Shaman Enhancement](/it/classes/shaman/enhancement/), tieni l'equipaggiamento con Forza che trovi. È in linea con quanto detto da Zierhut nell'[intervista sui talenti dello Shaman](/it/news/shaman-talents-may-change-again-early-next-year/).
 
 ## Altri martedì
 

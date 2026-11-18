@@ -45,7 +45,7 @@ De Alliance gaat naar de Mage Tower in de Mage Quarter van Stormwind, de Horde n
 
 Tot 13 november weigerden beide bibliothecarissen door een bug elk boek. Een hotfix loste dat op, dus lever je boeken gerust weer in.
 
-Mages krijgen iets extra: het eerste boek geeft hen de spell Study, die in een bibliotheek scrolls maakt. Zie de [gids over Mage-scrolls](/nl/guides/mage-scrolls/).
+Mages krijgen iets extra: het eerste boek geeft hen de spell Study, die in een bibliotheek scrolls maakt. Zie de [gids over Mage-scrolls](/nl/classes/mage/scrolls/).
 
 ![De bibliothecaris Garion Wendell in Stormwind met het venster om een boek in te leveren, een schermafdruk uit de beta van World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 

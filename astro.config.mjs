@@ -1,9 +1,34 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
-import { readFileSync } from 'node:fs';
+import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import whAutolink from './src/plugins/rehype-wh-autolink.mjs';
+import wfCards from './src/plugins/rehype-cards.mjs';
+
+/*
+ * Placeholder pages ("Coming soon", Nutri 18 November 2026) carry noindex and stay out of
+ * the sitemap: Forever BiS specs without a JSON list, and pages with `noindex: true`.
+ * Paths without the language prefix.
+ */
+const soonPaths = (() => {
+  const out = new Set();
+  const specs = JSON.parse(readFileSync('./src/config/forever-specs.json', 'utf8'));
+  for (const [cls, spec] of specs) {
+    if (!existsSync(`./src/data/bis/forever-preraid-${cls}-${spec}.json`)) out.add(`/bis/forever/preraid/${cls}-${spec}/`);
+  }
+  const walk = (dir, rel) => {
+    for (const entry of readdirSync(dir, { withFileTypes: true })) {
+      if (entry.isDirectory()) walk(`${dir}/${entry.name}`, `${rel}${entry.name}/`);
+      else if (entry.name.endsWith('.md') && /^noindex: true$/m.test(readFileSync(`${dir}/${entry.name}`, 'utf8'))) {
+        out.add(`/${rel}${entry.name.replace(/\.md$/, '')}/`);
+      }
+    }
+  };
+  walk('./src/content/pages/en', '');
+  return out;
+})();
+const isSoon = (pathname) => soonPaths.has(pathname.replace(/^\/(nl|fr|es|it|de)\//, '/'));
 
 /*
  * lastmod in de sitemap (8 oktober 2026). De sitemap wordt geschreven nadat
@@ -24,6 +49,11 @@ function lastmodFor(url) {
 }
 
 // https://astro.build/config
+const classGuideRedirects = Object.fromEntries(
+  Object.entries(JSON.parse(readFileSync(new URL('./src/config/class-guides.json', import.meta.url), 'utf8')))
+    .flatMap(([old, key]) => ['', '/nl', '/fr', '/es', '/it', '/de'].map((l) => [`${l}/guides/${old}`, `${l}/${key}`])),
+);
+
 export default defineConfig({
   site: 'https://wowforever.be',
 
@@ -42,7 +72,7 @@ export default defineConfig({
    * Markdown-pagina wordt een link met icoon, kleur en tooltip. Zie het plugin.
    */
   markdown: {
-    processor: satteri({ hastPlugins: [whAutolink] }),
+    processor: satteri({ hastPlugins: [whAutolink, wfCards] }),
   },
 
   /*
@@ -51,6 +81,8 @@ export default defineConfig({
    * pagina die meteen doorstuurt, zodat links en zoekresultaten blijven werken.
    */
   redirects: {
+    // Class guides under their class (Nutri, 18 November 2026: "Move under the class"); the map is config/class-guides.json.
+    ...classGuideRedirects,
     /*
      * De vergelijking met Joana is weg (19 oktober 2026, Nutri: "Remove Joana right now from
      * the whole website because Joana does not have a guide for WoW Forever"). Sinds 21 oktober
@@ -159,7 +191,7 @@ export default defineConfig({
         defaultLocale: 'en',
         locales: { en: 'en', nl: 'nl', fr: 'fr', es: 'es', it: 'it', de: 'de' },
       },
-      filter: (page) => !/\/(submit|privacy|support)\/?$/.test(new URL(page).pathname),
+      filter: (page) => !/\/(submit|privacy|support)\/?$/.test(new URL(page).pathname) && !isSoon(new URL(page).pathname),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;

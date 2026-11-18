@@ -48,7 +48,7 @@ const raids = (isBisEra(era) && phaseContent[era]?.[phase]?.raids.join(', ')) ||
 const label = phaseLabel(phase, locale);
 const preraid = phase === 'preraid';
 // De beta van Forever heeft lijsten en geen raids: eigen kop en titel (18 oktober 2026).
-const beta = forever && phase === 'beta';
+const beta = forever;
 
 /*
  * De kop is kort en de <title> draagt de woorden waarop mensen zoeken, net als

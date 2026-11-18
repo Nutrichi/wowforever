@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 18. November:** Seit dem wöchentlichen Reset am 17. November liegt die Mindestgebühr wieder bei 1 Kupfer. Sie folgt jetzt dem Händlerpreis: 5 % für 2 Stunden, 20 % für 8 Stunden und 60 % für 24 Stunden.
+
 > **Update vom 12. November:** Die Mindestgebühr von 1 Kupfer ist noch nicht live. Blizzard hat sie aus den Hotfixes vom 10. November genommen; sie kommt mit der wöchentlichen Wartung am 17. November, mehr in [unserem Beitrag](/de/news/1-copper-deposit-waits-until-17-november/).
 
 Das Mindestpfand von 1 Silber pro Auktion in World of Warcraft: Forever fällt weg. Principal Game Designer Kris Zierhut sagt in einem Interview, dass die Untergrenze auf 1 Kupfer zurückgeht. Wann, sagt er nicht: noch nicht, aber bald.

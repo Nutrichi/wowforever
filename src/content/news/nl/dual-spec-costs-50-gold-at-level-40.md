@@ -25,4 +25,4 @@ Met een tweede spec hou je twee aparte talentbuilds bij en wissel je ertussen wa
 
 Apprentice Riding en Dual Spec kosten samen 150 goud op level 40. Dat is veel zo vroeg, dus veel spelers zullen eerst moeten kiezen. Het wordt makkelijker naarmate je levelt: items brengen meer op, en [quests geven meer goud vanaf level 48](/nl/news/blizzard-adds-gold-to-quests-from-level-48/).
 
-Healers en tanks die levelen met een damagespec hebben er het meeste aan. De [Shaman-levelgids](/nl/guides/shaman-leveling/) zet bijvoorbeeld Restoration als tweede spec op level 40.
+Healers en tanks die levelen met een damagespec hebben er het meeste aan. De [Shaman-levelgids](/nl/classes/shaman/leveling/) zet bijvoorbeeld Restoration als tweede spec op level 40.

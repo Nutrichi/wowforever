@@ -1,0 +1,409 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "holy",
+ "role": "Healer",
+ "notes": "Pre-raid gear at level 60, the best item per slot and an alternative where there is one.",
+ "updated": "2026-11-04",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Living Crown",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Whitesoul Helm",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Glowing Eye of Mordresh",
+     "source": "Razorfen Downs"
+    },
+    {
+     "name": "Orb of the Darkmoon",
+     "source": "Reward from the Darkmoon Faire"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Theramore Mantle",
+     "source": "Theramore Expeditionary Force, Exalted"
+    },
+    {
+     "name": "Dawnbringer Shoulders",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Hide of the Wild",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of Salvation",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Soulforge Breastplate",
+     "source": "Reward from the quest Saving the Best for Last (Tier 0.5 quest chain)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Dryad's Wrist Bindings",
+     "source": "Silverwing Sentinels or Warsong Outriders, Exalted"
+    },
+    {
+     "name": "Prefect's Wristguards",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Theramore Handwraps",
+     "source": "Theramore Expeditionary Force, Exalted"
+    },
+    {
+     "name": "Prefect's Gloves",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Archmage",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Prefect's Waistguard",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Martyr's Legplates",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Mooncloth Boots",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Soulforge Boots",
+     "source": "Reward from the quest Anthion's Parting Words (Tier 0.5 quest chain)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Warden's Signet of Resolve",
+     "source": "The Watchers, Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Blessed Band of Light",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Serenity Field",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Uther's Strength",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Hand of Edward the Odd",
+     "source": "World drop"
+    },
+    {
+     "name": "Sageblade",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Lei of the Lifegiver",
+     "source": "Stormpike Guard or Frostwolf Clan, Exalted"
+    },
+    {
+     "name": "Evergreen Shield",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Infusion",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Libram of Economy",
+     "source": "Reals vendor in Booty Bay (50 Reals)"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Living Crown",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Whitesoul Helm",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Glowing Eye of Mordresh",
+     "source": "Razorfen Downs"
+    },
+    {
+     "name": "Orb of the Darkmoon",
+     "source": "Reward from the Darkmoon Faire"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Darkspear Mantle",
+     "source": "Darkspear Raiders, Exalted"
+    },
+    {
+     "name": "Dawnbringer Shoulders",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Hide of the Wild",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Breastplate of Salvation",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Soulforge Breastplate",
+     "source": "Reward from the quest Saving the Best for Last (Tier 0.5 quest chain)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Dryad's Wrist Bindings",
+     "source": "Silverwing Sentinels or Warsong Outriders, Exalted"
+    },
+    {
+     "name": "Prefect's Wristguards",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Raider Handwraps",
+     "source": "Darkspear Raiders, Exalted"
+    },
+    {
+     "name": "Prefect's Gloves",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Archmage",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Prefect's Waistguard",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Martyr's Legplates",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Mooncloth Boots",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Soulforge Boots",
+     "source": "Reward from the quest Anthion's Parting Words (Tier 0.5 quest chain)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Warden's Signet of Resolve",
+     "source": "The Watchers, Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Blessed Band of Light",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Serenity Field",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Uther's Strength",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Hand of Edward the Odd",
+     "source": "World drop"
+    },
+    {
+     "name": "Sageblade",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Lei of the Lifegiver",
+     "source": "Stormpike Guard or Frostwolf Clan, Exalted"
+    },
+    {
+     "name": "Evergreen Shield",
+     "source": "Crafted with Blacksmithing"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Infusion",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Libram of Economy",
+     "source": "Reals vendor in Booty Bay (50 Reals)"
+    }
+   ]
+  }
+ ]
+}

@@ -13,11 +13,13 @@ tags: ["forever", "classes", "paladin"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 18 novembre :** Blizzard confirme le changement dans les [correctifs du 17 novembre](/fr/news/upper-blackrock-spire-gets-harder-after-a-bug-fix/), et il vise les tanks, pas les soigneurs : Soulforge est l'ensemble de donjon amélioré pour tanks, et Blizzard veut que les Paladins tanks fassent leurs dégâts avec la Spell Power.
+
 Le set Soulforge des Paladins dans World of Warcraft: Forever devient un set de soigneur. Un hotfix retire la Strength de chaque pièce et ajoute de l'Intellect et de la Spell Power à la place. Cinq autres objets changent aussi, dont trois cartes Darkmoon.
 
 ## Les pièces de Soulforge
 
-Soulforge Armor est le set de donjon des Paladins. Avec Strength, Stamina et Defense, il convenait plus à un tank qu'à un soigneur. Désormais chaque pièce a plus d'Intellect et de Spell Power, ce qui en fait un set pour le [Holy Paladin](/fr/guides/holy-paladin/).
+Soulforge Armor est le set de donjon des Paladins. Avec Strength, Stamina et Defense, il convenait plus à un tank qu'à un soigneur. Désormais chaque pièce a plus d'Intellect et de Spell Power, ce qui en fait un set pour le [Holy Paladin](/fr/classes/paladin/holy/).
 
 | Pièce | Intellect | Spell Power |
 |---|---|---|

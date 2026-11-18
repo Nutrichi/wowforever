@@ -46,4 +46,4 @@ Windfury Weapon y Windfury Totem muestran ahora el golpe extra con una animació
 
 ## Qué significa para nuestras guías
 
-Los árboles nuevos ya están en nuestra [calculadora de talentos](/es/talents/shaman/). Nuestra [guía del Shaman Elemental](/es/guides/elemental-shaman/) y la [guía de subida de nivel del Shaman](/es/guides/shaman-leveling/) giran desde el 4 de noviembre alrededor de Call of Thunder.
+Los árboles nuevos ya están en nuestra [calculadora de talentos](/es/talents/shaman/). Nuestra [guía del Shaman Elemental](/es/classes/shaman/elemental/) y la [guía de subida de nivel del Shaman](/es/classes/shaman/leveling/) giran desde el 4 de noviembre alrededor de Call of Thunder.

@@ -23,7 +23,7 @@ Blizzard [beloofde vorige week](/nl/news/hunter-and-warlock-pets-get-tougher-on-
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17804"><img class="wf-wh__icon" src="/wh/spell_shadow_lifedrain02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Soul Siphon</a>:** noemt nu Corruption, Siphon Life en Bane of Agony. Vroeger telde elk ander Affliction-effect mee, dus een curse verhoogt de bonus voor Drain Life, Drain Soul en Wrack niet meer.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=3110"><img class="wf-wh__icon" src="/wh/spell_fire_firebolt.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Firebolt</a>:** de Imp doet meer schade. De stijging is het grootst op lage levels en kleiner op hogere.
 
-Zet eerst je drie DoTs, kanaliseer dan Wrack: dat loont nu op vijanden die lang genoeg leven. Onze [Affliction Warlock-gids](/nl/guides/affliction-warlock/) heeft de nieuwe rotatie.
+Zet eerst je drie DoTs, kanaliseer dan Wrack: dat loont nu op vijanden die lang genoeg leven. Onze [Affliction Warlock-gids](/nl/classes/warlock/affliction/) heeft de nieuwe rotatie.
 
 ## Hunter
 

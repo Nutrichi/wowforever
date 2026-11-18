@@ -7,7 +7,7 @@ lang: en
 image: ../../../assets/posts/2026-10-14-wow-forever-gnome-priest-in-dun-morogh.jpg
 imageAlt: "A Gnome Priest casting a holy spell in a snowy forest, a screenshot from the beta of World of Warcraft: Forever"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/priest-leveling/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/priest/leveling/"
 tags: ["forever", "beta", "classes"]
 featured: false
 draft: false
@@ -22,7 +22,7 @@ The first 20 to 30 levels barely differ. A Priest opens with Smite, gets a wand 
 
 ![The three Priest talent trees in World of Warcraft: Forever: Discipline, Holy and Shadow Magic](../../../assets/posts/2026-10-01-wow-forever-priest-talent-trees.jpg)
 
-Each build opens in the talent calculator from the new [Priest guide](/guides/priest-leveling/). Our [Priest level build](/leveling/priest/) gives a talent for every level up to 60.
+Each build opens in the talent calculator from the new [Priest guide](/classes/priest/leveling/). Our [Priest level build](/leveling/priest/) gives a talent for every level up to 60.
 
 ## No snapshot for damage over time
 

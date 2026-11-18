@@ -13,6 +13,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Update 18 november:** sinds de wekelijkse reset van 17 november is de minimale borg weer 1 koper. De borg volgt nu de verkoopprijs bij de vendor: 5% voor 2 uur, 20% voor 8 uur en 60% voor 24 uur.
+
 Goedkope spullen verkopen in het Auction House van World of Warcraft: Forever blijft nog een paar dagen duur. De minimale borg van 1 koper is nog niet live. Hij komt met het wekelijkse onderhoud op 17 november, zegt Blizzard.
 
 ## Wat er gebeurde

@@ -22,7 +22,7 @@
  */
 import type { Locale } from '../../i18n/ui';
 import { eras, type EraKey } from '../../config/eras';
-import { isBisEra, livePhase } from '../../config/bis';
+import { classes, classLabel, foreverSpecs, isBisEra, livePhase, specLabel } from '../../config/bis';
 import PhaseContents from './PhaseContents.astro';
 import { bisPath, bisPhasePath, lastUpdated, listsForEra, phasesWithLists } from '../../lib/bis';
 import { bisT, phaseLabel, roleLabel } from '../../i18n/bis';
@@ -51,11 +51,9 @@ const roles = ['all', 'tank', 'healer', 'dps'] as const;
   <div class="wf-bishead__main">
     <h1 class="wf-bishead__title">{t('hubTitle', { era: info.name })}</h1>
   </div>
-  {live && (
+  {/* No live pill for Forever: there is only the pre-raid phase (Nutri, 18 November 2026). */}
+  {live && era !== 'forever' && (
     <span class="wf-bishead__live"><span class="wf-bishead__dot" aria-hidden="true"></span>{t('live', { phase: phaseLabel(live, locale) })}</span>
-  )}
-  {ready && updated && (
-    <p class="wf-bishead__count">{t('count', { n: lists.length, date: longDate(updated, locale) })}</p>
   )}
 </header>
 
@@ -92,6 +90,17 @@ const roles = ['all', 'tank', 'healer', 'dps'] as const;
           {lists.filter((list) => list.phase === phase).map((list) => (
             <BisSpecPill locale={locale} list={list} />
           ))}
+          {era === 'forever' && foreverSpecs
+            .filter(([c, sp]) => !lists.some((l) => l.phase === phase && l.class === c && l.spec === sp))
+            .map(([c, sp]) => (
+              <li class="wf-bsoon">
+                <a class="wf-bsoon__link" href={bisPath(locale, 'forever', phase, c + '-' + sp)}>
+                <span class="wf-bsoon__diamond" style={`--wf-diamond: ${classes[c]?.color ?? '#e0b77a'};`} aria-hidden="true"></span>
+                <span class="wf-bsoon__title">{specLabel(sp)} {classLabel(c)}</span>
+                <span class="wf-bsoon__tag">{t('comingSoon')}</span>
+                </a>
+              </li>
+            ))}
         </ul>
         <p class="wf-bis__empty" data-empty hidden>{t('noMatch')}</p>
       </section>
@@ -100,6 +109,31 @@ const roles = ['all', 'tank', 'healer', 'dps'] as const;
 )}
 
 <style>
+  .wf-bsoon {
+    border: 1px dashed var(--wf-border);
+    border-radius: var(--wf-r-pill);
+    color: var(--wf-muted);
+    transition: var(--wf-transition);
+  }
+  .wf-bsoon:hover { border-color: var(--wf-accent); }
+  .wf-bsoon__link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-height: 44px;
+    padding: 0 16px 0 14px;
+    color: inherit;
+    text-decoration: none;
+  }
+  .wf-bsoon__diamond {
+    width: 10px; height: 10px; transform: rotate(45deg);
+    background: var(--wf-diamond); opacity: .45; flex: none;
+  }
+  .wf-bsoon__title { flex: 1 1 auto; min-width: 0; font-family: var(--wf-display); font-weight: 500; }
+  .wf-bsoon__tag {
+    font-family: var(--wf-display); font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
+  }
+
   .wf-bishead {
     display: flex;
     flex-wrap: wrap;

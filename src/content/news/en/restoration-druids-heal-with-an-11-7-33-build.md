@@ -10,7 +10,7 @@ tags: ["forever", "beta", "classes", "talents"]
 featured: false
 draft: false
 ---
-Most Restoration Druids in WoW Forever will play an 11/7/33 build. The 33 points in Restoration buy Gift of the Earthmother, Improved Regrowth and Wild Growth. The new [Restoration Druid guide](/guides/restoration-druid/) explains the build, the changes, macros and the most asked questions.
+Most Restoration Druids in WoW Forever will play an 11/7/33 build. The 33 points in Restoration buy Gift of the Earthmother, Improved Regrowth and Wild Growth. The new [Restoration Druid guide](/classes/druid/restoration/) explains the build, the changes, macros and the most asked questions.
 
 The spec stays a healer who works ahead of the damage, with HoTs on many players at once. A few changes give it more ways to react as well.
 

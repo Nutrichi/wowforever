@@ -9,6 +9,7 @@
  */
 
 :root {
+  /* Back to the original dark (Nutri, 18 November 2026: "a bit darker again as it was"); text now sits in cards. */
   /* --- Het palet: identiek in beide thema's --- */
   --wf-gold: #e0b77a;
   --wf-gold-bright: #f0cd97;

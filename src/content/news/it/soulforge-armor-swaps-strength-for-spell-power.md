@@ -13,11 +13,13 @@ tags: ["forever", "classes", "paladin"]
 featured: false
 draft: false
 ---
+> **Aggiornamento del 18 novembre:** Blizzard conferma la modifica negli [hotfix del 17 novembre](/it/news/upper-blackrock-spire-gets-harder-after-a-bug-fix/), ed è pensata per i tank, non per i guaritori: Soulforge è il set da spedizione potenziato per i tank, e Blizzard vuole che i Paladin tank facciano danni con la Spell Power.
+
 Il set Soulforge dei Paladin in World of Warcraft: Forever diventa un set da guaritore. Un hotfix toglie la Strength da ogni pezzo e aggiunge al suo posto Intellect e Spell Power. Cambiano anche altri cinque oggetti, tra cui tre carte Darkmoon.
 
 ## I pezzi di Soulforge
 
-Soulforge Armor è il set da spedizione dei Paladin. Con Strength, Stamina e Defense andava meglio a un tank che a un guaritore. Ora ogni pezzo ha più Intellect e Spell Power, e questo ne fa un set per l'[Holy Paladin](/it/guides/holy-paladin/).
+Soulforge Armor è il set da spedizione dei Paladin. Con Strength, Stamina e Defense andava meglio a un tank che a un guaritore. Ora ogni pezzo ha più Intellect e Spell Power, e questo ne fa un set per l'[Holy Paladin](/it/classes/paladin/holy/).
 
 | Pezzo | Intellect | Spell Power |
 |---|---|---|

@@ -1,0 +1,311 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "warlock",
+ "spec": "affliction",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-18",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Master's Hat",
+     "source": "World drop"
+    },
+    {
+     "name": "Crimson Felt Hat",
+     "source": "Magistrate Barthilas Stratholme"
+    },
+    {
+     "name": "Felcloth Hood",
+     "source": "Pattern: Felcloth Hood 245"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Dark Advisor's Pendant",
+     "source": "Vectus Scholomance"
+    },
+    {
+     "name": "Orb of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Orb of the Darkmoon"
+    },
+    {
+     "name": "Nacreous Shell Necklace",
+     "source": "Cannon Master Willey Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Master's Mantle",
+     "source": "World drop"
+    },
+    {
+     "name": "Burial Shawl",
+     "source": "Several bosses Scholomance"
+    },
+    {
+     "name": "Argent Shoulders",
+     "source": "Pattern: Argent Shoulders 290 Revered"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Pix Xizzix Stranglethorn Vale"
+    },
+    {
+     "name": "Archivist Cape",
+     "source": "Archivist Galford Stratholme"
+    },
+    {
+     "name": "Hide of the Wild",
+     "source": "Pattern: Hide of the Wild 300"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Master's Vest",
+     "source": "World drop"
+    },
+    {
+     "name": "Felcloth Robe",
+     "source": "Pattern: Felcloth Robe 260"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Netherpearl Cuffs",
+     "source": "Pattern: Netherpearl Cuffs 205"
+    },
+    {
+     "name": "Sublime Wristguards",
+     "source": "Guard Mol'dar, Guard Slip'kik Dire Maul"
+    },
+    {
+     "name": "Premier Legionnaire's Felweave Bracers",
+     "source": "PvP vendor Rank 8"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Felcloth Gloves",
+     "source": "Pattern: Felcloth Gloves 280"
+    },
+    {
+     "name": "Gloves of Spell Mastery",
+     "source": "Pattern: Gloves of Spell Mastery 295"
+    },
+    {
+     "name": "Master's Gloves",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Defiler's Cloth Girdle",
+     "source": "Honored"
+    },
+    {
+     "name": "Black Waistcord",
+     "source": "Pattern: Black Waistcord 215"
+    },
+    {
+     "name": "Ban'thok Sash",
+     "source": "Ok'thor the Breaker Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "High Councillor's Pants",
+     "source": "World drop"
+    },
+    {
+     "name": "Outrider's Silk Leggings",
+     "source": "Exalted"
+    },
+    {
+     "name": "Skyshroud Leggings",
+     "source": "Highlord Omokk Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Master's Boots",
+     "source": "World drop"
+    },
+    {
+     "name": "Omnicast Boots",
+     "source": "Golem Lord Argelmach Blackrock Depths"
+    },
+    {
+     "name": "Dragonrider Boots",
+     "source": "Warchief Rend Blackhand Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Warden's Signet of Brilliance",
+     "source": "Exalted"
+    },
+    {
+     "name": "Don Mauricio's Band of Domination",
+     "source": "Darkmaster Gandling Scholomance"
+    },
+    {
+     "name": "Maiden's Circle",
+     "source": "Crimson Battle Mage Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Emperor's Seal",
+     "source": "Emperor Dagran Thaurissan Blackrock Depths"
+    },
+    {
+     "name": "Don Mauricio's Band of Domination",
+     "source": "Darkmaster Gandling Scholomance"
+    },
+    {
+     "name": "Maiden's Circle",
+     "source": "Crimson Battle Mage Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Weakness Analyzer",
+     "source": "Pix Xizzix Stranglethorn Vale"
+    },
+    {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Royal Seal of Eldre'Thalas",
+     "source": "Reward from the quest Harnessing Shadows"
+    },
+    {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Sageblade",
+     "source": "Plans: Sageblade 300"
+    },
+    {
+     "name": "Mindfang",
+     "source": "Exalted"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Therazane's Touch",
+     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley, Exalted"
+    },
+    {
+     "name": "High Councillor's Scepter",
+     "source": "World drop"
+    },
+    {
+     "name": "Premier High Warlord's Tome of Destruction",
+     "source": "PvP vendor Rank 14"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Whiteout Staff",
+     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley, Revered"
+    },
+    {
+     "name": "Premier High Warlord's War Staff",
+     "source": "PvP vendor Rank 14"
+    },
+    {
+     "name": "Headmaster's Charge",
+     "source": "Darkmaster Gandling Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Skul's Ghastly Touch",
+     "source": "Skul Stratholme"
+    },
+    {
+     "name": "Lunar Wand",
+     "source": "World drop"
+    },
+    {
+     "name": "Bonecreeper Stylus",
+     "source": "Darkmaster Gandling Scholomance"
+    }
+   ]
+  }
+ ]
+}

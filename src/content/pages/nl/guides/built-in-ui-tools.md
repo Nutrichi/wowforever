@@ -76,7 +76,7 @@ Click Casting koppelt spells aan muisklikken of toetscombinaties op je unit fram
 
 ![Het venster Click Cast Bindings, met Mouseover Cast, de standaardkoppelingen en een lege eigen koppeling, een schermafdruk uit World of Warcraft: Forever](../../../../assets/posts/2026-10-30-wow-forever-click-cast-bindings.jpg)
 
-Mouseover-casting voor al je spells staat onder Options, Combat: je spells gaan dan naar de unit onder je muis, terwijl je je eigen doelwit houdt. Meer daarover in onze gidsen voor healers, zoals [Restoration Shaman](/nl/guides/restoration-shaman/).
+Mouseover-casting voor al je spells staat onder Options, Combat: je spells gaan dan naar de unit onder je muis, terwijl je je eigen doelwit houdt. Meer daarover in onze gidsen voor healers, zoals [Restoration Shaman](/nl/classes/shaman/restoration/).
 
 ## Welke addons nog werken
 

@@ -7,7 +7,7 @@ lang: de
 image: ../../../assets/posts/2026-10-16-wow-forever-gold-and-chests.jpg
 imageAlt: "Zwei Schatztruhen auf einem Hügel aus Goldmünzen, in dem ein paar Schwerter stecken, Artwork aus World of Warcraft"
 source: "Warcraft Tavern"
-sourceUrl: "https://www.warcrafttavern.com/forever/guides/lockpicking/"
+sourceUrl: "https://www.warcrafttavern.com/forever/classes/rogue/lockpicking/"
 tags: ["forever", "classes", "dungeon"]
 featured: false
 draft: false
@@ -19,7 +19,7 @@ Rogues in World of Warcraft: Forever lernen Lockpicking auf Level 16, genau wie 
 
 Pick Lock gibt es bei jedem Rogue-Lehrer auf Level 16. Du brauchst auch <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5060"><img class="wf-wh__icon" src="/wh/inv_misc_gear_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thieves' Tools</a>. Eine kurze Quest gibt sie gratis: <a href="https://www.wowhead.com/forever/quest=2281">Redridge Rendezvous</a> in Stormwind für die Allianz, <a href="https://www.wowhead.com/forever/quest=2382">Wrenix of Ratchet</a> in Orgrimmar für die Horde. Beide führen zu Practice Lockboxes, die schnell wieder erscheinen, in Alther's Mill in den Redridge Mountains oder auf einem Piratenschiff südlich von Ratchet.
 
-Der Skill geht bis zum Fünffachen deines Levels, 300 erreichst du also erst auf Level 60. Bleib dran: Beide Questreihen für [Poisons](/de/guides/poisons/) auf Level 20 verlangen 80 Lockpicking.
+Der Skill geht bis zum Fünffachen deines Levels, 300 erreichst du also erst auf Level 60. Bleib dran: Beide Questreihen für [Poisons](/de/classes/rogue/poisons/) auf Level 20 verlangen 80 Lockpicking.
 
 ## Türen statt Schlüssel
 
@@ -32,4 +32,4 @@ Der Skill geht bis zum Fünffachen deines Levels, 300 erreichst du also erst auf
 
 Ab 280 sind die Türen am Eingang von Blackrock Depths auch der sicherste Weg zu den letzten Punkten: öffnen, Dungeon zurücksetzen und wiederholen.
 
-Jeder Schritt von 1 bis 300, mit einem Ort für jeden Skillbereich, steht in unserem neuen [Lockpicking-Guide](/de/guides/lockpicking/).
+Jeder Schritt von 1 bis 300, mit einem Ort für jeden Skillbereich, steht in unserem neuen [Lockpicking-Guide](/de/classes/rogue/lockpicking/).

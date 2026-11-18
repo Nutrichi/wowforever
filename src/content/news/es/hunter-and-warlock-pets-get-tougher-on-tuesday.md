@@ -25,11 +25,11 @@ Las mascotas de los Hunters y el Voidwalker del Warlock no aguantan como tanques
 
 En una entrevista, el principal game designer Kris Zierhut explicó que el equipo en realidad bajó la vida de ambos tipos de mascotas. La gran diferencia con Classic Era 1.15: en Forever las mascotas toman parte de sus stats de su amo, así que crecen con tu equipo. Alguien del equipo revisa ahora la vida del Voidwalker.
 
-Para subir de nivel con mascota: nuestra [guía de leveling de Hunter](/es/guides/hunter-leveling/) y la [guía de leveling de Warlock](/es/guides/warlock-leveling/).
+Para subir de nivel con mascota: nuestra [guía de leveling de Hunter](/es/classes/hunter/leveling/) y la [guía de leveling de Warlock](/es/classes/warlock/leveling/).
 
 ## Affliction: Wrack y tus DoTs
 
-Ahora mismo a un Warlock Affliction le va mejor canalizando <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> todo el tiempo. Lanzar <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> y <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> además no compensa. Blizzard lo cambiará para que esos hechizos de daño en el tiempo siempre valgan la pena junto a Wrack, sin cambiar el daño total de Affliction. Más en la [guía de Warlock Affliction](/es/guides/affliction-warlock/).
+Ahora mismo a un Warlock Affliction le va mejor canalizando <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1316697"><img class="wf-wh__icon" src="/wh/ability_deathknight_hemorrhagicfever.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrack</a> todo el tiempo. Lanzar <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18265"><img class="wf-wh__icon" src="/wh/spell_shadow_requiem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Siphon Life</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=172"><img class="wf-wh__icon" src="/wh/spell_shadow_abominationexplosion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corruption</a> y <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=980"><img class="wf-wh__icon" src="/wh/spell_shadow_curseofsargeras.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bane of Agony</a> además no compensa. Blizzard lo cambiará para que esos hechizos de daño en el tiempo siempre valgan la pena junto a Wrack, sin cambiar el daño total de Affliction. Más en la [guía de Warlock Affliction](/es/classes/warlock/affliction/).
 
 ## Enhancement: Fuerza primero
 
@@ -37,7 +37,7 @@ Los Shamans Enhancement descubrieron que el Intelecto y el poder con hechizos su
 
 > Please note: Enhancement Shaman players who are leveling up will want to collect Strength and Attack Power gear from now on.
 
-Si subes un [Shaman Enhancement](/es/guides/enhancement-shaman/), guarda el equipo con Fuerza que encuentres. Encaja con lo que dijo Zierhut en [la entrevista sobre los talentos del Shaman](/es/news/shaman-talents-may-change-again-early-next-year/).
+Si subes un [Shaman Enhancement](/es/classes/shaman/enhancement/), guarda el equipo con Fuerza que encuentres. Encaja con lo que dijo Zierhut en [la entrevista sobre los talentos del Shaman](/es/news/shaman-talents-may-change-again-early-next-year/).
 
 ## Más martes
 

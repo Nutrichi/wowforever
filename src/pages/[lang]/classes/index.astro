@@ -1,5 +1,6 @@
 ---
 /* CLASSES in de vijf niet-standaardtalen: /nl/classes/ enzovoort. */
+import ClassesHub from '../../../components/classes/ClassesHub.astro';
 import GuideEraPage from '../../../components/guides/GuideEraPage.astro';
 import { otherLocales } from '../../../lib/posts';
 import type { Locale } from '../../../i18n/ui';
@@ -11,4 +12,4 @@ export function getStaticPaths() {
 const locale = Astro.params.lang as Locale;
 ---
 
-<GuideEraPage locale={locale} kind="classes" era="forever" />
+<ClassesHub locale={locale} />

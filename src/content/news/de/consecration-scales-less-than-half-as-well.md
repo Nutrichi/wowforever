@@ -43,4 +43,4 @@ Gesammelte Ladungen von Reckoning lassen sich für den Beginn eines Kampfes aufh
 
 ![Ein Paladin mit einem Schild mit dem Löwen der Alliance steht auf einem Hügel in The Barrens, ein Screenshot aus der Beta von World of Warcraft: Forever](../../../assets/posts/2026-10-21-wow-forever-paladin-in-the-barrens.jpg)
 
-Wie sich der Protection Paladin auf Stufe 60 gegen den Protection Warrior und den Feral Druid schlägt, ist noch nicht bekannt. Die Beta endet auf Stufe 30, und Blizzard hat nicht gesagt, ob weitere Änderungen am Paladin folgen. Ein Talentbuild von 1 bis 60 steht im [Leveling-Guide für den Paladin](/de/guides/paladin-leveling/).
+Wie sich der Protection Paladin auf Stufe 60 gegen den Protection Warrior und den Feral Druid schlägt, ist noch nicht bekannt. Die Beta endet auf Stufe 30, und Blizzard hat nicht gesagt, ob weitere Änderungen am Paladin folgen. Ein Talentbuild von 1 bis 60 steht im [Leveling-Guide für den Paladin](/de/classes/paladin/leveling/).

@@ -23,6 +23,8 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
+> **Actualización del 18 de noviembre:** desde los arreglos del 17 de noviembre el saco de dormir ya no funciona montado, solo se coloca en ciertos sitios, como las trampas de cazador, y da un aura Resting mientras estás en su área.
+
 El [Cozy Sleeping Bag](https://www.wowhead.com/forever/item=211527/cozy-sleeping-bag) es un objeto que te deja tumbarte en cualquier sitio y ganar experiencia extra mientras descansas. Apareció en Season of Discovery y vuelve en WoW Forever, al final de una cadena de misiones que cruza medio Azeroth. Lo encontraron los jugadores en la beta; Blizzard no lo ha anunciado.
 
 Hay que ser nivel 14 para empezar.

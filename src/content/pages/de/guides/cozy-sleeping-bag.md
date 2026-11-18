@@ -23,6 +23,8 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/cozy-sleeping-bag-locations-rewards"
 ---
+> **Update 18. November:** Seit den Hotfixes vom 17. November funktioniert der Schlafsack nicht mehr auf einem Reittier, lässt sich nur an bestimmten Stellen ablegen, wie Jägerfallen, und gibt eine Resting-Aura, solange du in seinem Bereich bist.
+
 Die [Cozy Sleeping Bag](https://www.wowhead.com/forever/item=211527/cozy-sleeping-bag) ist ein Gegenstand, mit dem du dich überall hinlegen und beim Rasten Bonuserfahrung mitnehmen kannst. Sie tauchte in Season of Discovery auf und ist in WoW Forever zurück, am Ende einer Questreihe, die durch das halbe Azeroth führt. Spieler fanden sie auf der Beta; Blizzard hat sie nicht angekündigt.
 
 Für den Start braucht es Stufe 14.

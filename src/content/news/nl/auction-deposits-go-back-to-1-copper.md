@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Update 18 november:** sinds de wekelijkse reset van 17 november is de minimale borg weer 1 koper. De borg volgt nu de verkoopprijs bij de vendor: 5% voor 2 uur, 20% voor 8 uur en 60% voor 24 uur.
+
 > **Update 12 november:** de minimale borg van 1 koper is nog niet live. Blizzard haalde hem uit de hotfixes van 10 november; hij komt met het wekelijkse onderhoud op 17 november, meer in [onze post](/nl/news/1-copper-deposit-waits-until-17-november/).
 
 De minimumborg van 1 zilver per veiling in World of Warcraft: Forever verdwijnt. Principal game designer Kris Zierhut zegt in een interview dat de ondergrens teruggaat naar 1 koper. Wanneer, zegt hij niet: nog niet, maar binnenkort.

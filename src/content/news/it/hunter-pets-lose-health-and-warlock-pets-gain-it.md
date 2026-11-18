@@ -30,4 +30,4 @@ La settimana scorsa Blizzard ha detto che i pet [non reggevano abbastanza come t
 
 Il Felhunter non è nella lista. Anche lo schiocco di frusta della Succubus si sente molto meno: un bug lo faceva suonare troppo spesso.
 
-Livellare con un pet: la nostra [guida al leveling dello Hunter](/it/guides/hunter-leveling/), la [guida allo Hunter Beast Mastery](/it/guides/beast-mastery-hunter/) e la [guida al leveling del Warlock](/it/guides/warlock-leveling/).
+Livellare con un pet: la nostra [guida al leveling dello Hunter](/it/classes/hunter/leveling/), la [guida allo Hunter Beast Mastery](/it/classes/hunter/beast-mastery/) e la [guida al leveling del Warlock](/it/classes/warlock/leveling/).

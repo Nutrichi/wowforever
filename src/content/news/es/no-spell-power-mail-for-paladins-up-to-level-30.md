@@ -36,4 +36,4 @@ Un Paladin que no quiera comprar mejoras en la Casa de subastas tiene que fabric
 
 ![Una ventana de vendedor con planos de Blacksmithing para cinturones, yelmos y camisas de malla a 30 cada uno, una captura de la beta de World of Warcraft: Forever](../../../assets/posts/2026-10-22-wow-forever-blacksmithing-plans.jpg)
 
-El equipo fabricado para niveles bajos es nuevo en Forever. No se sabe si Blizzard añadirá malla con spell power antes del lanzamiento. La beta cierra el viernes 23 de octubre. Una build de talentos del 1 al 60 está en la [guía de subida de nivel del Paladin](/es/guides/paladin-leveling/).
+El equipo fabricado para niveles bajos es nuevo en Forever. No se sabe si Blizzard añadirá malla con spell power antes del lanzamiento. La beta cierra el viernes 23 de octubre. Una build de talentos del 1 al 60 está en la [guía de subida de nivel del Paladin](/es/classes/paladin/leveling/).

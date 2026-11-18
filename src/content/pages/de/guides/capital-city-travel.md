@@ -36,7 +36,7 @@ Reisen zwischen den Hauptstädten ist in WoW Forever einfacher als in Classic. E
 | Orgrimmar | Undercity | Zeppelin vom Turm vor Orgrimmar |
 | Orgrimmar | Thunder Bluff | Zu Fuß durch The Barrens, später ein Direktflug |
 
-Alle Routen funktionieren auch in die andere Richtung. Jeder Flugpunkt und jedes Schiff steht im [Guide zu den Flugrouten](/de/guides/flight-paths/), und ein Mage ist mit [Portalen](/de/guides/mage-portals/) schneller.
+Alle Routen funktionieren auch in die andere Richtung. Jeder Flugpunkt und jedes Schiff steht im [Guide zu den Flugrouten](/de/guides/flight-paths/), und ein Mage ist mit [Portalen](/de/classes/mage/portals/) schneller.
 
 ## Von Stormwind nach Ironforge
 

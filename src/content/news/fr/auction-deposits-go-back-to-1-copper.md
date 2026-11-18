@@ -13,6 +13,8 @@ featured: false
 draft: false
 manual: true
 ---
+> **Mise à jour du 18 novembre :** depuis la réinitialisation hebdomadaire du 17 novembre, le dépôt minimum est de nouveau de 1 cuivre. Il suit maintenant le prix de vente au marchand : 5 % pour 2 heures, 20 % pour 8 heures et 60 % pour 24 heures.
+
 > **Mise à jour du 12 novembre :** le dépôt minimum de 1 cuivre n'est pas encore en jeu. Blizzard l'a retiré des hotfixes du 10 novembre ; il arrive avec la maintenance hebdomadaire du 17 novembre, plus de détails dans [notre article](/fr/news/1-copper-deposit-waits-until-17-november/).
 
 Le dépôt minimum de 1 argent par enchère dans World of Warcraft: Forever va disparaître. Le principal game designer Kris Zierhut dit dans une interview que le plancher revient à 1 cuivre. Quand, il ne le dit pas : pas encore, mais bientôt.

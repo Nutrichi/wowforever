@@ -33,7 +33,7 @@ Wit's End donne à vos attaques de mêlée 15 % de chances d'obtenir <a class="w
 ## Comment l'obtenir
 
 1. **La Witchblade :** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13964"><img class="wf-wh__icon" src="/wh/inv_weapon_shortblade_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Witchblade</a> tombe sur Darkmaster Gandling, le dernier boss de [Scholomance](/fr/guides/dungeons/scholomance/).
-2. **Le parchemin :** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> est un parchemin de Mage de rang 4. Vous le déchiffrez avec la compétence Study, dès 175 de compétence et le niveau 46. Où tombent les parchemins et comment fonctionne Study se trouve dans notre [guide des parchemins de Mage](/fr/guides/mage-scrolls/).
+2. **Le parchemin :** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277504"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Wit</a> est un parchemin de Mage de rang 4. Vous le déchiffrez avec la compétence Study, dès 175 de compétence et le niveau 46. Où tombent les parchemins et comment fonctionne Study se trouve dans notre [guide des parchemins de Mage](/fr/classes/mage/scrolls/).
 3. **Combiner :** utilisez le parchemin sur la Witchblade et vous obtenez Wit's Edge.
 
 ## Ça vaut le coup ?

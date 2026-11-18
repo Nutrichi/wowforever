@@ -45,7 +45,7 @@ La Alliance va alla Mage Tower del Mage Quarter di Stormwind, la Horde al Magic 
 
 Fino al 13 novembre un bug faceva rifiutare ogni libro a entrambi i bibliotecari. Una correzione l'ha risolto, quindi puoi consegnare di nuovo i tuoi libri.
 
-I Mage ricevono qualcosa in più: il primo libro dà loro l'incantesimo Study, che crea pergamene in una biblioteca. Vedi la [guida alle pergamene del Mage](/it/guides/mage-scrolls/).
+I Mage ricevono qualcosa in più: il primo libro dà loro l'incantesimo Study, che crea pergamene in una biblioteca. Vedi la [guida alle pergamene del Mage](/it/classes/mage/scrolls/).
 
 ![Il bibliotecario Garion Wendell a Stormwind con la finestra per consegnare un libro, uno screenshot dalla beta di World of Warcraft: Forever](../../../../assets/posts/2026-10-10-wow-forever-library-librarian-garion-wendell.jpg)
 
