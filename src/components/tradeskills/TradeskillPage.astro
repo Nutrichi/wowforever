@@ -23,6 +23,7 @@ import { tsIntro, tsT } from '../../i18n/tradeskill-pages';
 import { hasRecipes, hasRoute, money, tsData, tsPath, whItem, whSpell, type TsRecipe } from '../../lib/tradeskills-forever';
 import { breadcrumbJsonLd } from '../../lib/structured-data';
 import trainerData from '../../data/tradeskill-trainers.json';
+import boostData from '../../data/tradeskill-boosts.json';
 import { longDate } from '../../lib/date';
 import { pageT } from '../../i18n/pages';
 import '../../styles/guides.css';
@@ -64,6 +65,13 @@ const trainerGroups = (['alliance', 'horde'] as const)
   .map((f) => ({ faction: f, rows: trainers.filter((r) => r.faction === f) }))
   .filter((g) => g.rows.length > 0);
 const icon = (id: number) => (item(id)?.icon ? `/wh/${item(id)!.icon}.jpg` : '');
+// Gear die de skill verhoogt (19 november 2026, Nutri: "Do the skinning tools table").
+type Boost = { item: number; name: string; quality: number; icon: string; bonus: number; source: { kind: 'quest' | 'drop'; id: number; name: string; side?: string; zone?: string; rare?: boolean } };
+const boosts = ((boostData as unknown as Record<string, Boost[] | string>)[skill] ?? []) as Boost[];
+const whLink = (type: string, id: number, name: string) => `<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/${type}=${id}" target="_blank" rel="noopener nofollow">${name.replace(/&/g, '&amp;').replace(/</g, '&lt;')}</a>`;
+const boostSource = (b: Boost) => b.source.kind === 'quest'
+  ? t('boostQuest', { q: whLink('quest', b.source.id, b.source.name), side: b.source.side ?? '' })
+  : t(b.source.rare ? 'boostRare' : 'boostDrop', { npc: whLink('npc', b.source.id, b.source.name), zone: b.source.zone ?? '' });
 const sourceLabel = (r: TsRecipe) => (r.sources.length ? r.sources.map((s) => t(s as never)).join(', ') : t('unknown'));
 const hours = (s: number) => (s >= 3600 ? `${Math.round(s / 3600)} h` : `${Math.round(s / 60)} min`);
 const categories = [...new Set(recipes.map((r) => r.category || t('other_cat')))].sort();
@@ -173,6 +181,25 @@ const sourceLinks = [
                 </table>
               </>
             ))}
+          </>
+        )}
+        {boosts.length > 0 && (
+          <>
+            <h2>{t('boosts')}</h2>
+            <p>{t('boostsText')}</p>
+            <table>
+              <thead><tr><th>{t('colGear')}</th><th>{t('colBonus')}</th><th>{t('colSource')}</th></tr></thead>
+              <tbody>
+                {boosts.map((b) => (
+                  <tr>
+                    <td><a class={`wf-wh wf-q${b.quality}`} href={`https://www.wowhead.com/forever/item=${b.item}`} target="_blank" rel="noopener nofollow"><img class="wf-wh__icon" src={`/wh/${b.icon}.jpg`} alt="" width="18" height="18" loading="lazy" decoding="async" />{b.name}</a></td>
+                    <td>+{b.bonus}</td>
+                    <td set:html={boostSource(b)} />
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+            {skill === 'skinning' && <p>{t('boostNote')}</p>}
           </>
         )}
         <p class="wf-ts__links">

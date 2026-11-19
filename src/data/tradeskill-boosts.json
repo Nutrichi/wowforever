@@ -1,0 +1,9 @@
+{
+  "_note": "Gear die de skill van een tradeskill verhoogt, voor de pagina's uit data (TradeskillPage.astro). Bron: Wowhead-gids Skinning, 18 november 2026.",
+  "skinning": [
+    { "item": 287069, "name": "Yeti Skinner", "quality": 2, "icon": "inv_throwingknife_01", "bonus": 2, "slot": "thrown", "source": { "kind": "quest", "id": 565, "name": "Bartolo's Yeti Fur Cloak", "side": "Alliance" } },
+    { "item": 269716, "name": "Keen Skinning Knife", "quality": 2, "icon": "inv_weapon_shortblade_05", "bonus": 3, "slot": "dagger", "source": { "kind": "quest", "id": 95508, "name": "Unwelcome Guests", "side": "Horde" } },
+    { "item": 273054, "name": "Cartilage Shapers", "quality": 3, "icon": "inv_gauntlets_18", "bonus": 4, "slot": "hands", "source": { "kind": "drop", "id": 247032, "name": "Lyn the Ignored", "zone": "Alterac Mountains", "rare": true } },
+    { "item": 12709, "name": "Pip's Skinner", "quality": 3, "icon": "inv_sword_33", "bonus": 10, "slot": "sword", "source": { "kind": "drop", "id": 10430, "name": "The Beast", "zone": "Upper Blackrock Spire" } }
+  ]
+}
