@@ -3,7 +3,7 @@ title: "Herbalism in WoW Forever: istruttori, salire e nuove erbe"
 metaTitle: "WoW Forever Herbalism: istruttori, da 1 a 300 e nuove erbe"
 description: "Herbalism in WoW Forever: ogni istruttore, il percorso da 1 a 300, il racial tauren più forte, l’equipaggiamento che alza l’abilità, i semi, i materiali Scarce, le nuove erbe e gli oggetti da campo."
 short: "Herbalism"
-updated: 2026-11-07
+updated: 2026-11-19
 lang: it
 faq:
   - q: "I tauren hanno ancora un bonus di Herbalism in WoW Forever?"
@@ -89,11 +89,14 @@ Stranglekelp cresce solo sott’acqua, e Wintersbite solo nella neve delle Alter
 
 | Equipaggiamento | Abilità |
 |---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> | +2 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=7349"><img class="wf-wh__icon" src="/wh/inv_gauntlets_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Herbalist's Gloves</a> | +5 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282655"><img class="wf-wh__icon" src="/wh/inv_gauntlets_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bog Pickers</a> | +5 |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13617"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Herbalism</a> | +2 |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13868"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Advanced Herbalism</a> | +5 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10841"><img class="wf-wh__icon" src="/wh/inv_drink_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goldthorn Tea</a> | +15 per un po’, nuovo in Forever |
 
-I guanti e l’incantamento si sommano fino a +10. I guanti sono di cuoio, ma l’incantamento funziona su qualsiasi guanto.
+Un paio di guanti e un incantamento si sommano fino a +10, e con il tè fino a +25. Gli Herbalist's Gloves sono di cuoio, i Bog Pickers e gli Apothecary Gloves di stoffa, e l’incantamento funziona su qualsiasi guanto. I Bog Pickers li lascia cadere Mirelow.
 
 ## Nuove ricette
 

@@ -3,7 +3,7 @@ title: "Guide de réputation Durotar Supply and Logistics"
 description: "Durotar Supply and Logistics dans WoW Forever : le camp de ravitaillement de la Horde devant la Crossroads, des caisses contre du Merchant's Favor, des recettes pour sept métiers, le Pack Kodo, des titres et le tabard."
 lang: fr
 manual: true
-updated: 2026-11-09
+updated: 2026-11-19
 faction: "Durotar Supply and Logistics"
 zone: "Devant la Crossroads, The Barrens"
 side: horde
@@ -109,8 +109,14 @@ Sous Neutral, l’échelle suit aussi l’habitude : Hated fait 36 000, Hostile 
 | Sealed Journeyman Crate | Common (blanche) | 10 |
 | Sealed Journeyman Crate | Uncommon (verte) | 20 |
 
+## Le chemin le plus rapide vers Honored
+
+- **La première caisse** rendue donne 2 000 de réputation et 50 Merchant's Favor en plus.
+- **Les Craftsman's Writs** donnent 75 de réputation (Journeyman), 125 (Expert) ou 200 (Artisan), plus un peu d’argent. Un même writ a un temps de recharge de 24 heures, mais des writs différents se font le même jour. Jusqu’à Friendly après la première caisse : 5 writs Artisan, 8 Expert ou 14 Journeyman.
+- **Dès Friendly**, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256672">Kurvelk Shadowhoof</a> vend le <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262902"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forged Delivery Receipt</a> pour 15 Merchant's Favor. Collez-le sur une Waylaid Crate vide et rendez-la à <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256386">Dokimi</a> pour 50 de réputation. De Friendly à Honored, il faut 6 000 de réputation, soit 120 reçus ou 1 800 Merchant's Favor. Les caisses dont personne ne veut partent souvent pour quelques pièces d’argent à l’hôtel des ventes.
+- **Legacy :** cinq points dans Diplomat donnent 10 % de réputation en plus. Cela fait 2 200 pour la première caisse, 4 à 10 writs jusqu’à Friendly et 110 reçus jusqu’à Honored. Voir le [calculateur Legacy](/fr/talents/legacy/).
+
 ## Ce qui n’est pas encore connu
 
-- **Combien rapporte une caisse rare**, et combien de réputation donne chaque writ.
-- **Où commence un nouveau personnage.** Neutral est ici une hypothèse, pas une valeur confirmée.
+- **Combien rapporte une caisse rare.**
 - **Le prix du tabard** à Exalted.

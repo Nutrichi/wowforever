@@ -3,7 +3,7 @@ title: "Ruf-Guide für Durotar Supply and Logistics"
 description: "Durotar Supply and Logistics in WoW Forever: das Nachschublager der Horde vor der Crossroads, Kisten für Merchant's Favor, Rezepte für sieben Berufe, der Pack Kodo, Titel und Wappenrock."
 lang: de
 manual: true
-updated: 2026-11-09
+updated: 2026-11-19
 faction: "Durotar Supply and Logistics"
 zone: "Vor der Crossroads, The Barrens"
 side: horde
@@ -109,8 +109,14 @@ Unter Neutral läuft die Skala ebenfalls wie üblich: Hated ist 36.000 breit, Ho
 | Sealed Journeyman Crate | Common (weiß) | 10 |
 | Sealed Journeyman Crate | Uncommon (grün) | 20 |
 
+## Der schnellste Weg zu Honored
+
+- **Die erste Kiste**, die du abgibst, bringt 2.000 Ruf und 50 zusätzliches Merchant's Favor.
+- **Craftsman's Writs** bringen 75 Ruf (Journeyman), 125 (Expert) oder 200 (Artisan), dazu etwas Silber. Derselbe Writ hat 24 Stunden Abklingzeit, verschiedene Writs gehen aber am selben Tag. Bis Friendly nach der ersten Kiste: 5 Artisan-, 8 Expert- oder 14 Journeyman-Writs.
+- **Ab Friendly** verkauft <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256672">Kurvelk Shadowhoof</a> die <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262902"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forged Delivery Receipt</a> für 15 Merchant's Favor. Klebe sie auf eine leere Waylaid Crate und gib sie bei <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256386">Dokimi</a> für 50 Ruf ab. Von Friendly bis Honored sind es 6.000 Ruf, also 120 Belege oder 1.800 Merchant's Favor. Ungewollte Kisten gibt es im Auktionshaus oft für ein paar Silber.
+- **Legacy:** fünf Punkte in Diplomat bringen 10 Prozent mehr Ruf. Das sind 2.200 für die erste Kiste, 4 bis 10 Writs bis Friendly und 110 Belege bis Honored. Siehe den [Legacy-Rechner](/de/talents/legacy/).
+
 ## Was noch nicht bekannt ist
 
-- **Wie viel eine seltene Kiste bringt**, und wie viel Ruf jeder Writ bringt.
-- **Wo ein neuer Charakter beginnt.** Neutral ist hier eine Annahme, kein bestätigter Wert.
+- **Wie viel eine seltene Kiste bringt.**
 - **Was der Wappenrock** auf Exalted kostet.

@@ -3,7 +3,7 @@ title: "Cooking in WoW Forever: experience food, campfires and recipes"
 metaTitle: "WoW Forever Cooking guide: experience bonus, changed recipes and campfires"
 description: "Cooking in WoW Forever: 5% bonus experience from food, every trainer, the Expert book and Artisan quest, leveling from 1 to 300, all new recipes with their source, the campfires and the Legacy perks."
 short: "Cooking"
-updated: 2026-11-10
+updated: 2026-11-19
 lang: en
 faq:
   - q: "Does cooked food give experience in WoW Forever?"
@@ -46,9 +46,9 @@ Cooking is a secondary profession, so it never costs you one of your two main sl
 
 **Artisan** comes from <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8125">Dirge Quikcleave</a> in Gadgetzan, Tanaris (/way 52.6 28.0). You can gather what the quest asks before you pick it up:
 
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, from many monsters; the Sandfury trolls and the Dunemaul ogres around Gadgetzan are a good source.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, from <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, which drops from monsters such as <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> on the east coast of Tanaris.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, from innkeepers and food vendors.
+- 12 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, from many monsters; the Rocs, Fire Rocs and Searing Rocs around Gadgetzan are a good source.
+- 10 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, from <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, which drops from monsters such as <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> on the east coast of Tanaris.
+- 20 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, from innkeepers and food vendors.
 
 ### Trainers
 

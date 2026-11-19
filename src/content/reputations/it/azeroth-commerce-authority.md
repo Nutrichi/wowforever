@@ -3,7 +3,7 @@ title: "Guida alla reputazione con l'Azeroth Commerce Authority"
 description: "Azeroth Commerce Authority in WoW Forever: l’accampamento di rifornimento dell’Alleanza a Three Corners, casse per Merchant's Favor, ricette per sette professioni, il Pack Kodo, titoli e tabarda."
 lang: it
 manual: true
-updated: 2026-11-09
+updated: 2026-11-19
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -38,7 +38,7 @@ L’accampamento si trova a Three Corners, nelle Redridge Mountains, appena fuor
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | Blacksmithing | 10.4 74.7 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | Tailoring | 10.0 73.0 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | Leatherworking | 10.0 72.9 |
-| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Una casa d’aste neutrale, collegata alle altre neutrali | 9.7 72.0 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Una casa d’aste neutrale, collegata alle altre neutrali (a volte al suo posto c’è una banca o una cassetta postale) | 9.7 72.0 |
 
 Il nome ricorda Season of Discovery, dove l’Azeroth Commerce Exchange funzionava in modo simile. In Forever la fazione è più grande e legata alle professioni.
 
@@ -109,8 +109,14 @@ Sotto Neutral la scala segue anch'essa l'abitudine: Hated è largo 36.000, Hosti
 | Sealed Journeyman Crate | Common (bianca) | 10 |
 | Sealed Journeyman Crate | Uncommon (verde) | 20 |
 
+## La via più rapida per Honored
+
+- **La prima cassa** consegnata dà 2.000 di reputazione e 50 Merchant's Favor in più.
+- **I Craftsman's Writs** danno 75 di reputazione (Journeyman), 125 (Expert) o 200 (Artisan), più un po’ d’argento. Lo stesso writ ha un tempo di recupero di 24 ore, ma writ diversi si possono fare nello stesso giorno. Fino a Friendly dopo la prima cassa: 5 writ Artisan, 8 Expert o 14 Journeyman.
+- **Da Friendly**, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256742">Dianne Softstep</a> vende la <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262902"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forged Delivery Receipt</a> per 15 Merchant's Favor. Applicala a una Waylaid Crate vuota e consegnala a <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256390">Marcy Baker</a> per 50 di reputazione. Da Friendly a Honored servono 6.000 di reputazione, quindi 120 ricevute o 1.800 Merchant's Favor. Le casse che nessuno vuole si trovano spesso a pochi pezzi d’argento alla casa d’aste.
+- **Legacy:** cinque punti in Diplomat danno il 10 % di reputazione in più. Sono 2.200 per la prima cassa, da 4 a 10 writ fino a Friendly e 110 ricevute fino a Honored. Vedi il [calcolatore Legacy](/it/talents/legacy/).
+
 ## Cosa non si sa ancora
 
-- **Quanto dà una cassa rara**, e quanta reputazione dà ogni writ.
-- **Da dove parte un nuovo personaggio.** Neutral è qui un’ipotesi, non un valore confermato.
+- **Quanto dà una cassa rara.**
 - **Quale cassa va con quale professione**, e quante se ne possono portare.

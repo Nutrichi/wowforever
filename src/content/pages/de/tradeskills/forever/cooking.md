@@ -3,7 +3,7 @@ title: "Cooking in WoW Forever: Essen mit Erfahrung, Lagerfeuer und Rezepte"
 metaTitle: "WoW Forever Cooking-Guide: Erfahrungsbonus, geänderte Rezepte und Lagerfeuer"
 description: "Cooking in WoW Forever: 5 % mehr Erfahrung aus Essen, jeder Lehrer, das Expert-Buch und die Artisan-Quest, Skillen von 1 bis 300, alle neuen Rezepte mit Quelle, die Lagerfeuer und die Legacy-Perks."
 short: "Cooking"
-updated: 2026-11-10
+updated: 2026-11-19
 lang: de
 faq:
   - q: "Gibt gekochtes Essen in WoW Forever Erfahrung?"
@@ -47,9 +47,9 @@ Cooking ist ein Nebenberuf und kostet dich also nie einen deiner zwei Hauptplät
 
 **Artisan** kommt von <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8125">Dirge Quikcleave</a> in Gadgetzan, Tanaris (/way 52.6 28.0). Was die Quest verlangt, kannst du schon vorher sammeln:
 
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, von vielen Monstern; die Sandfury-Trolle und Dunemaul-Oger um Gadgetzan sind eine gute Quelle.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, aus <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, die Monster wie <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> an der Ostküste von Tanaris fallen lassen.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, bei Gastwirten und Essenshändlern.
+- 12 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, von vielen Monstern; die Roc, Fire Roc und Searing Roc um Gadgetzan sind eine gute Quelle.
+- 10 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, aus <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, die Monster wie <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> an der Ostküste von Tanaris fallen lassen.
+- 20 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, bei Gastwirten und Essenshändlern.
 
 ### Lehrer
 

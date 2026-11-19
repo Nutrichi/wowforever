@@ -3,7 +3,7 @@ title: "Herbalism in WoW Forever: Lehrer, Skillen und neue Kräuter"
 metaTitle: "WoW Forever Herbalism: Lehrer, Skillen von 1 bis 300, neue Kräuter"
 description: "Herbalism in WoW Forever: jeder Lehrer, die Route von 1 bis 300, das stärkere Tauren-Volksmerkmal, Ausrüstung, die deinen Skill erhöht, Samen, Scarce-Materialien, die neuen Kräuter und die Lagerobjekte."
 short: "Herbalism"
-updated: 2026-11-07
+updated: 2026-11-19
 lang: de
 faq:
   - q: "Bekommen Tauren in WoW Forever noch einen Herbalism-Bonus?"
@@ -89,11 +89,14 @@ Stranglekelp wächst nur unter Wasser, Wintersbite nur im Schnee der Alterac Mou
 
 | Ausrüstung | Skill |
 |---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> | +2 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=7349"><img class="wf-wh__icon" src="/wh/inv_gauntlets_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Herbalist's Gloves</a> | +5 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282655"><img class="wf-wh__icon" src="/wh/inv_gauntlets_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bog Pickers</a> | +5 |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13617"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Herbalism</a> | +2 |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13868"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Advanced Herbalism</a> | +5 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10841"><img class="wf-wh__icon" src="/wh/inv_drink_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goldthorn Tea</a> | +15 für eine Weile, neu in Forever |
 
-Handschuhe und Verzauberung ergeben zusammen +10. Die Handschuhe sind aus Leder, die Verzauberung geht aber auf alle Handschuhe.
+Ein Paar Handschuhe und eine Verzauberung ergeben zusammen +10, mit dem Tee +25. Herbalist's Gloves sind aus Leder, Bog Pickers und Apothecary Gloves aus Stoff, und die Verzauberung geht auf alle Handschuhe. Bog Pickers droppt Mirelow.
 
 ## Neue Rezepte
 

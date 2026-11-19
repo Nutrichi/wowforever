@@ -3,7 +3,7 @@ title: "Reputatiegids voor de Azeroth Commerce Authority"
 description: "Azeroth Commerce Authority in WoW Forever: het bevoorradingskamp van de Alliance bij Three Corners, kisten voor Merchant's Favor, recepten voor zeven beroepen, de Pack Kodo, titels en tabard."
 lang: nl
 manual: true
-updated: 2026-11-09
+updated: 2026-11-19
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -38,7 +38,7 @@ Het kamp staat bij Three Corners in Redridge Mountains, net buiten het stadje wa
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | Blacksmithing | 10.4 74.7 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | Tailoring | 10.0 73.0 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | Leatherworking | 10.0 72.9 |
-| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Een neutraal Auction House, gekoppeld aan de andere neutrale | 9.7 72.0 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | Een neutraal Auction House, gekoppeld aan de andere neutrale (soms staat er een bank of een brievenbus) | 9.7 72.0 |
 
 De naam klinkt bekend uit Season of Discovery, waar de Azeroth Commerce Exchange op een vergelijkbare manier werkte. In Forever is de factie groter en hangt ze vast aan de beroepen.
 
@@ -109,8 +109,14 @@ Onder Neutral loopt de schaal ook zoals gewoonlijk: Hated is 36.000 breed, Hosti
 | Sealed Journeyman Crate | Common (wit) | 10 |
 | Sealed Journeyman Crate | Uncommon (groen) | 20 |
 
+## De snelste weg naar Honored
+
+- **De eerste kist** die je inlevert, geeft 2.000 reputatie en 50 extra Merchant's Favor.
+- **Craftsman's Writs** geven 75 reputatie (Journeyman), 125 (Expert) of 200 (Artisan), plus wat zilver. Dezelfde writ heeft een cooldown van 24 uur, maar verschillende writs mag je op dezelfde dag doen. Naar Friendly na de eerste kist: 5 Artisan-, 8 Expert- of 14 Journeyman-writs.
+- **Vanaf Friendly** verkoopt <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256742">Dianne Softstep</a> de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262902"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forged Delivery Receipt</a> voor 15 Merchant's Favor. Plak hem op een lege Waylaid Crate en lever die in bij <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256390">Marcy Baker</a> voor 50 reputatie. Van Friendly naar Honored is 6.000 reputatie, dus 120 bonnen of 1.800 Merchant's Favor. Ongewilde kisten gaan in het Auction House vaak weg voor een paar zilver.
+- **Legacy:** vijf punten in Diplomat geven 10 procent meer reputatie. Dat is 2.200 voor de eerste kist, 4 tot 10 writs naar Friendly en 110 bonnen naar Honored. Zie de [Legacy-calculator](/nl/talents/legacy/).
+
 ## Wat nog niet bekend is
 
-- **Hoeveel een blauwe kist geeft**, en hoeveel reputatie elke writ geeft.
-- **Waar een nieuw personage begint.** Neutral is hier een aanname, geen bevestigde waarde.
+- **Hoeveel een blauwe kist geeft.**
 - **Welke kist bij welk beroep hoort**, en hoeveel je er kunt dragen.

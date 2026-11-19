@@ -3,7 +3,7 @@ title: "Cooking dans WoW Forever : plats d’expérience, feux de camp et recett
 metaTitle: "Guide Cooking de WoW Forever : bonus d’expérience, recettes modifiées et feux de camp"
 description: "Cooking dans WoW Forever : 5 % d’expérience en plus grâce aux plats, chaque maître, le livre Expert et la quête Artisan, la progression de 1 à 300, toutes les nouvelles recettes et leur source, les feux de camp et les talents Legacy."
 short: "Cooking"
-updated: 2026-11-10
+updated: 2026-11-19
 lang: fr
 faq:
   - q: "Les plats cuisinés donnent-ils de l’expérience dans WoW Forever ?"
@@ -47,9 +47,9 @@ Cooking est un métier secondaire, il ne vous coûte donc jamais l’une de vos 
 
 **Artisan** vient de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8125">Dirge Quikcleave</a> à Gadgetzan, Tanaris (/way 52.6 28.0). Vous pouvez réunir ce que demande la quête avant de la prendre :
 
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, sur de nombreux monstres ; les trolls Sandfury et les ogres Dunemaul autour de Gadgetzan sont une bonne source.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, dans <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, qui tombe sur des monstres comme <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> sur la côte est de Tanaris.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, chez les aubergistes et les marchands de nourriture.
+- 12 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, sur de nombreux monstres ; les Roc, Fire Roc et Searing Roc autour de Gadgetzan sont une bonne source.
+- 10 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, dans <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, qui tombe sur des monstres comme <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> sur la côte est de Tanaris.
+- 20 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, chez les aubergistes et les marchands de nourriture.
 
 ### Maîtres
 

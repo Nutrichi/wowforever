@@ -3,7 +3,7 @@ title: "Guía de reputación de Durotar Supply and Logistics"
 description: "Durotar Supply and Logistics en WoW Forever: el campamento de suministros de la Horde a las afueras de la Crossroads, cajas por Merchant's Favor, recetas para siete profesiones, el Pack Kodo, títulos y tabardo."
 lang: es
 manual: true
-updated: 2026-11-09
+updated: 2026-11-19
 faction: "Durotar Supply and Logistics"
 zone: "A las afueras de la Crossroads, The Barrens"
 side: horde
@@ -109,8 +109,14 @@ Por debajo de Neutral la escala también es la habitual: Hated mide 36.000, y Ho
 | Sealed Journeyman Crate | Common (blanca) | 10 |
 | Sealed Journeyman Crate | Uncommon (verde) | 20 |
 
+## El camino más rápido a Honored
+
+- **La primera caja** que entregas da 2000 de reputación y 50 de Merchant's Favor extra.
+- **Los Craftsman's Writs** dan 75 de reputación (Journeyman), 125 (Expert) o 200 (Artisan), más algo de plata. El mismo writ tiene un tiempo de espera de 24 horas, pero writs distintos se pueden hacer el mismo día. Hasta Friendly después de la primera caja: 5 writs Artisan, 8 Expert o 14 Journeyman.
+- **Desde Friendly**, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256672">Kurvelk Shadowhoof</a> vende el <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262902"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forged Delivery Receipt</a> por 15 de Merchant's Favor. Pégalo en una Waylaid Crate vacía y entrégala a <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256386">Dokimi</a> por 50 de reputación. De Friendly a Honored son 6000 de reputación, así que 120 recibos o 1800 de Merchant's Favor. Las cajas que nadie quiere suelen venderse por unas pocas de plata en la casa de subastas.
+- **Legacy:** cinco puntos en Diplomat dan un 10 % más de reputación. Son 2200 por la primera caja, de 4 a 10 writs hasta Friendly y 110 recibos hasta Honored. Mira la [calculadora de Legacy](/es/talents/legacy/).
+
 ## Lo que aún no se sabe
 
-- **Cuánto da una caja rara**, y cuánta reputación da cada writ.
-- **Dónde empieza un personaje nuevo.** Neutral es aquí una suposición, no un valor confirmado.
+- **Cuánto da una caja rara.**
 - **Cuánto cuesta el tabardo** en Exalted.

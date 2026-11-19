@@ -3,7 +3,7 @@ title: "Herbalism in WoW Forever: trainers, levelen en nieuwe kruiden"
 metaTitle: "WoW Forever Herbalism: trainers, levelen van 1 tot 300, nieuwe kruiden"
 description: "Herbalism in WoW Forever: elke trainer, de route van 1 tot 300, de sterkere racial van de Tauren, uitrusting die je skill verhoogt, zaden, Scarce-materialen, de nieuwe kruiden en de kampobjecten."
 short: "Herbalism"
-updated: 2026-11-07
+updated: 2026-11-19
 lang: nl
 faq:
   - q: "Krijgen Tauren nog een Herbalism-bonus in WoW Forever?"
@@ -89,11 +89,14 @@ Stranglekelp groeit alleen onder water, en Wintersbite alleen in de sneeuw van d
 
 | Uitrusting | Skill |
 |---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> | +2 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=7349"><img class="wf-wh__icon" src="/wh/inv_gauntlets_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Herbalist's Gloves</a> | +5 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282655"><img class="wf-wh__icon" src="/wh/inv_gauntlets_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bog Pickers</a> | +5 |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13617"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Herbalism</a> | +2 |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13868"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Advanced Herbalism</a> | +5 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10841"><img class="wf-wh__icon" src="/wh/inv_drink_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goldthorn Tea</a> | +15 voor een tijdje, nieuw in Forever |
 
-De handschoenen en de enchant tellen op tot +10. De handschoenen zijn leer, maar de enchant werkt op elke handschoen.
+Eén paar handschoenen en één enchant tellen op tot +10, met de thee erbij tot +25. Herbalist's Gloves zijn leer, Bog Pickers en Apothecary Gloves zijn stof, en de enchant werkt op elke handschoen. Bog Pickers vallen bij Mirelow.
 
 ## Nieuwe recepten
 

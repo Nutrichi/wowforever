@@ -3,7 +3,7 @@ title: "Herbalism en WoW Forever: instructores, subir y hierbas nuevas"
 metaTitle: "WoW Forever Herbalism: instructores, de 1 a 300 y hierbas nuevas"
 description: "Herbalism en WoW Forever: cada instructor, la ruta de 1 a 300, el racial tauren más fuerte, equipo que sube tu habilidad, semillas, materiales Scarce, las hierbas nuevas y los objetos de campamento."
 short: "Herbalism"
-updated: 2026-11-07
+updated: 2026-11-19
 lang: es
 faq:
   - q: "¿Siguen teniendo los tauren un bonus de Herbalism en WoW Forever?"
@@ -89,11 +89,14 @@ Stranglekelp solo crece bajo el agua, y Wintersbite solo en la nieve de las Alte
 
 | Equipo | Habilidad |
 |---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> | +2 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=7349"><img class="wf-wh__icon" src="/wh/inv_gauntlets_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Herbalist's Gloves</a> | +5 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282655"><img class="wf-wh__icon" src="/wh/inv_gauntlets_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bog Pickers</a> | +5 |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13617"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Herbalism</a> | +2 |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13868"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Advanced Herbalism</a> | +5 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10841"><img class="wf-wh__icon" src="/wh/inv_drink_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goldthorn Tea</a> | +15 durante un rato, nuevo en Forever |
 
-Los guantes y el encantamiento se suman hasta +10. Los guantes son de cuero, pero el encantamiento sirve en cualquier guante.
+Un par de guantes y un encantamiento se suman hasta +10, y con el té hasta +25. Los Herbalist's Gloves son de cuero, los Bog Pickers y los Apothecary Gloves de tela, y el encantamiento sirve en cualquier guante. Los Bog Pickers los suelta Mirelow.
 
 ## Recetas nuevas
 

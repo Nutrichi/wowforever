@@ -3,7 +3,7 @@ title: "Herbalism in WoW Forever: trainers, leveling and new herbs"
 metaTitle: "WoW Forever Herbalism: trainers, leveling 1 to 300 and new herbs"
 description: "Herbalism in WoW Forever: every trainer, the leveling route from 1 to 300, the stronger Tauren racial, gear that raises your skill, seeds, Scarce materials, the new herbs and the camp objects."
 short: "Herbalism"
-updated: 2026-11-07
+updated: 2026-11-19
 lang: en
 faq:
   - q: "Do Tauren still get a Herbalism bonus in WoW Forever?"
@@ -88,11 +88,14 @@ Stranglekelp only grows underwater, and Wintersbite only in the snow of the Alte
 
 | Gear | Skill |
 |---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> | +2 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=7349"><img class="wf-wh__icon" src="/wh/inv_gauntlets_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Herbalist's Gloves</a> | +5 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282655"><img class="wf-wh__icon" src="/wh/inv_gauntlets_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bog Pickers</a> | +5 |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13617"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Herbalism</a> | +2 |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13868"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Advanced Herbalism</a> | +5 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10841"><img class="wf-wh__icon" src="/wh/inv_drink_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goldthorn Tea</a> | +15 for a while, new in Forever |
 
-The gloves and the enchant stack to +10. The gloves are leather, but the enchant works on any gloves.
+One pair of gloves and one enchant stack to +10, and with the tea to +25. Herbalist's Gloves are leather, Bog Pickers and Apothecary Gloves are cloth, and the enchant works on any gloves. Bog Pickers drop from Mirelow.
 
 ## New recipes
 

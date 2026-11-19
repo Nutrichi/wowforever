@@ -2,7 +2,7 @@
 title: "Azeroth Commerce Authority reputation guide"
 description: "Azeroth Commerce Authority in WoW Forever: the Alliance supply camp at Three Corners, crates for Merchant's Favor, recipes for seven professions, the Pack Kodo, titles and tabard."
 lang: en
-updated: 2026-11-09
+updated: 2026-11-19
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -37,7 +37,7 @@ The camp stands at Three Corners in Redridge Mountains, just outside town where 
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256730">Stondry Darkhammer</a> | Blacksmithing | 10.4 74.7 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256735">Mivin Shadowweave</a> | Tailoring | 10.0 73.0 |
 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256734">Daniel Stitchsong</a> | Leatherworking | 10.0 72.9 |
-| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | A neutral Auction House, linked to the other neutral ones | 9.7 72.0 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258878">Auctioneer Quickcoin</a> | A neutral Auction House, linked to the other neutral ones (sometimes a bank or a mailbox stands there instead) | 9.7 72.0 |
 
 The name is familiar from Season of Discovery, where the Azeroth Commerce Exchange worked in a comparable way. In Forever the faction is larger and tied to the professions.
 
@@ -106,8 +106,14 @@ The scale is the standard one, so from Neutral to Exalted is 42,000 reputation.
 | Sealed Journeyman Crate | Common (white) | 10 |
 | Sealed Journeyman Crate | Uncommon (green) | 20 |
 
+## The fastest way to Honored
+
+- **The first crate** you hand in gives 2,000 reputation and 50 extra Merchant's Favor.
+- **Craftsman's Writs** give 75 reputation (Journeyman), 125 (Expert) or 200 (Artisan), plus some silver. The same writ has a 24-hour cooldown, but different writs can be done on the same day. To Friendly after the first crate: 5 Artisan, 8 Expert or 14 Journeyman writs.
+- **From Friendly**, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256742">Dianne Softstep</a> sells the <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=262902"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forged Delivery Receipt</a> for 15 Merchant's Favor. Put it on an empty Waylaid Crate and hand it in to <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=256390">Marcy Baker</a> for 50 reputation. Friendly to Honored is 6,000 reputation, so 120 receipts or 1,800 Merchant's Favor. Unwanted crates often sell for a few silver on the Auction House.
+- **Legacy:** five points in Diplomat give 10 percent more reputation. That is 2,200 for the first crate, 4 to 10 writs to Friendly and 110 receipts to Honored. See the [Legacy calculator](/talents/legacy/).
+
 ## What is not known yet
 
-- **How much a rare crate gives**, and how much reputation each writ gives.
-- **Where a new character starts.** Neutral is the assumption here, not a confirmed value.
+- **How much a rare crate gives.**
 - **Which crate belongs to which profession**, and how many you can carry.

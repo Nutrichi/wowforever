@@ -3,7 +3,7 @@ title: "Cooking in WoW Forever: cibo con esperienza, fuochi da campo e ricette"
 metaTitle: "Guida a Cooking di WoW Forever: bonus di esperienza, ricette cambiate e fuochi da campo"
 description: "Cooking in WoW Forever: il 5% di esperienza in più dal cibo, ogni istruttore, il libro Expert e la missione Artisan, come salire da 1 a 300, tutte le nuove ricette con la fonte, i fuochi da campo e i talenti Legacy."
 short: "Cooking"
-updated: 2026-11-10
+updated: 2026-11-19
 lang: it
 faq:
   - q: "Il cibo cucinato dà esperienza in WoW Forever?"
@@ -47,9 +47,9 @@ Cooking è una professione secondaria, quindi non ti costa mai uno dei tuoi due 
 
 **Artisan** arriva da <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8125">Dirge Quikcleave</a> a Gadgetzan, Tanaris (/way 52.6 28.0). Ciò che chiede la missione si può raccogliere prima di prenderla:
 
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, da molti mostri; i troll Sandfury e gli ogre Dunemaul intorno a Gadgetzan sono una buona fonte.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, da <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, che lasciano mostri come <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> sulla costa est di Tanaris.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, da locandieri e venditori di cibo.
+- 12 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, da molti mostri; i Roc, Fire Roc e Searing Roc intorno a Gadgetzan sono una buona fonte.
+- 10 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, da <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, che lasciano mostri come <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> sulla costa est di Tanaris.
+- 20 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, da locandieri e venditori di cibo.
 
 ### Istruttori
 

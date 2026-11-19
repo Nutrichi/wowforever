@@ -3,7 +3,7 @@ title: "Herbalism dans WoW Forever : maîtres, progression et nouvelles herbes"
 metaTitle: "WoW Forever Herbalism : maîtres, de 1 à 300 et nouvelles herbes"
 description: "Herbalism dans WoW Forever : chaque maître, le parcours de 1 à 300, le racial tauren renforcé, l’équipement qui augmente la compétence, les graines, les matériaux Scarce, les nouvelles herbes et les objets de camp."
 short: "Herbalism"
-updated: 2026-11-07
+updated: 2026-11-19
 lang: fr
 faq:
   - q: "Les Taurens ont-ils encore un bonus d’Herbalism dans WoW Forever ?"
@@ -89,11 +89,14 @@ Stranglekelp ne pousse que sous l’eau, et Wintersbite que dans la neige des Al
 
 | Équipement | Compétence |
 |---|---|
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=10919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Apothecary Gloves</a> | +2 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=7349"><img class="wf-wh__icon" src="/wh/inv_gauntlets_18.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Herbalist's Gloves</a> | +5 |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=282655"><img class="wf-wh__icon" src="/wh/inv_gauntlets_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bog Pickers</a> | +5 |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13617"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Herbalism</a> | +2 |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13868"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Advanced Herbalism</a> | +5 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=10841"><img class="wf-wh__icon" src="/wh/inv_drink_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goldthorn Tea</a> | +15 pendant un moment, nouveau dans Forever |
 
-Les gants et l’enchantement se cumulent jusqu’à +10. Les gants sont en cuir, mais l’enchantement fonctionne sur tous les gants.
+Une paire de gants et un enchantement se cumulent jusqu’à +10, et jusqu’à +25 avec le thé. Les Herbalist's Gloves sont en cuir, les Bog Pickers et les Apothecary Gloves en tissu, et l’enchantement fonctionne sur tous les gants. Les Bog Pickers tombent sur Mirelow.
 
 ## Nouvelles recettes
 

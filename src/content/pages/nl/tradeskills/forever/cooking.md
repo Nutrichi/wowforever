@@ -3,7 +3,7 @@ title: "Cooking in WoW Forever: eten met experience, kampvuren en recepten"
 metaTitle: "WoW Forever Cooking-gids: experiencebonus, gewijzigde recepten en kampvuren"
 description: "Cooking in WoW Forever: 5% extra experience uit eten, elke trainer, het Expert-boek en de Artisan-quest, levelen van 1 tot 300, alle nieuwe recepten met hun bron, de kampvuren en de Legacy-perks."
 short: "Cooking"
-updated: 2026-11-10
+updated: 2026-11-19
 lang: nl
 faq:
   - q: "Geeft gekookt eten experience in WoW Forever?"
@@ -47,9 +47,9 @@ Cooking is een secundair beroep, dus het kost je nooit een van je twee hoofdplaa
 
 **Artisan** komt van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8125">Dirge Quikcleave</a> in Gadgetzan, Tanaris (/way 52.6 28.0). Wat de quest vraagt, kun je al verzamelen voor je hem oppakt:
 
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, van veel monsters; de Sandfury-trollen en de Dunemaul-ogres rond Gadgetzan zijn een goede bron.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, uit <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, die valt bij monsters zoals <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> aan de oostkust van Tanaris.
-- <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, bij innkeepers en verkopers van eten.
+- 12 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12207"><img class="wf-wh__icon" src="/wh/inv_egg_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Giant Egg</a>, van veel monsters; de Rocs, Fire Rocs en Searing Rocs rond Gadgetzan zijn een goede bron.
+- 10 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7974"><img class="wf-wh__icon" src="/wh/inv_misc_food_51.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zesty Clam Meat</a>, uit <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=7973"><img class="wf-wh__icon" src="/wh/inv_misc_shell_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big-mouth Clam</a>, die valt bij monsters zoals <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14123">Steeljaw Snapper</a> aan de oostkust van Tanaris.
+- 20 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8932"><img class="wf-wh__icon" src="/wh/inv_misc_food_37.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alterac Swiss</a>, bij innkeepers en verkopers van eten.
 
 ### Trainers
 
