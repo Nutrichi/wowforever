@@ -9,7 +9,6 @@ import type { BisList } from '../../lib/bis';
 import { bisPath } from '../../lib/bis';
 import { classes, classLabel, roleGroup, roleKey, specLabel } from '../../config/bis';
 import { bisT, roleLabel } from '../../i18n/bis';
-import { longDate } from '../../lib/date';
 
 interface Props {
   locale: Locale;
@@ -19,8 +18,7 @@ interface Props {
 const { locale, list } = Astro.props;
 const t = bisT(locale);
 const name = `${specLabel(list.spec)} ${classLabel(list.class)}`;
-/* Forever: the date of the source list (Nutri, 18 November 2026: "mention the last updated for each BiS list"). */
-const updated = list.era === 'forever' && list.updated ? new Date(`${list.updated}T00:00:00Z`) : undefined;
+/* No date in the overview (Nutri, 19 November 2026: "Remove that date on this page"); the list page itself still shows it. */
 ---
 
 <li class="wf-bpill" data-role={roleGroup(list.role)}>
@@ -32,7 +30,7 @@ const updated = list.era === 'forever' && list.updated ? new Date(`${list.update
     <span class="wf-bpill__title">{name}</span>
   </a>
   <span class="wf-bpill__rule" aria-hidden="true"></span>
-  <span class="wf-bpill__slots">{updated ? <time datetime={list.updated}>{longDate(updated, locale)}</time> : t('slots', { n: list.slots.length })}</span>
+  <span class="wf-bpill__slots">{t('slots', { n: list.slots.length })}</span>
   <span class="wf-bpill__rule" aria-hidden="true"></span>
   <span class="wf-bpill__role">{roleLabel(roleKey(list.role), locale)}</span>
 </li>

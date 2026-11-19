@@ -37,7 +37,7 @@ const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), 
 /*
  De tradeskills per soort bij elkaar (Nutri, 19 september 2026).
 
- Eerst gathering, dan secondary, dan crafting: die volgorde is gevraagd, en ze
+ Tot 19 november 2026 eerst gathering; nu crafting, secondary, gathering (zie hieronder). Oude uitleg:
  loopt ook mee met hoe je aan een tradeskill komt. Herbalism, Mining en Skinning
  leveren de grondstoffen, de secondary staan los van je twee plekken, en de
  crafting maken er iets van.
@@ -45,7 +45,8 @@ const typeLabel = { gathering: t('typeGathering'), crafting: t('typeCrafting'), 
  De soort stond ook als kolom in elke pil. Met een kop boven de groep is dat
  dubbelop, dus in de groepen staat hij er niet meer bij.
  */
-const groups = (['gathering', 'secondary', 'crafting'] as const)
+// Crafting first, then secondary, then gathering (Nutri, 19 November 2026).
+const groups = (['crafting', 'secondary', 'gathering'] as const)
   .map((type) => ({ type, label: typeLabel[type], items: skills.filter((s) => s.type === type) }))
   .filter((group) => group.items.length > 0);
 ---
@@ -53,7 +54,6 @@ const groups = (['gathering', 'secondary', 'crafting'] as const)
 <header class="wf-ghead">
   <div class="wf-ghead__main">
     <h1 class="wf-ghead__title">{title}</h1>
-    <p class="wf-ghead__intro">{t('tradeskillsForeverIntro')}</p>
   </div>
 </header>
 

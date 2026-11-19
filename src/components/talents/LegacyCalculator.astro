@@ -18,7 +18,7 @@ import { localizePath, useTranslations } from '../../i18n/utils';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { talT } from '../../i18n/talents';
 import {
-  decodeBuild, legacyCategories, legacySpendable, legacyEarnable, clientBuild,
+  decodeBuild, legacyCategories, clientBuild,
 } from '../../lib/talents';
 import TalentTreeGrid, { type GridNode } from './TalentTreeGrid.astro';
 import CalcSwitch from './CalcSwitch.astro';
@@ -36,9 +36,10 @@ const t = talT(locale);
 const ui = useTranslations(locale);
 const base = localizePath('talents', locale);
 const categories = legacyCategories();
-const total = legacySpendable();
 const fill = categories.reduce(
   (som, cat) => som + cat.nodes.filter((n) => !n.unknown).reduce((s, n) => s + n.maxRank, 0), 0);
+// Fully uncapped (Nutri, 19 November 2026: "it's not capped anymore. Fully uncap it."): every perk can be maxed.
+const total = categories.reduce((som, cat) => som + cat.nodes.reduce((s, n) => s + n.maxRank, 0), 0);
 
 const code = Astro.url.searchParams.get('l');
 const sizes = categories.map((cat) => cat.nodes.length);
@@ -113,12 +114,8 @@ const jsonLd = { '@context': 'https://schema.org', ...breadcrumbJsonLd(crumbs, A
 
     <div class="wf-calcbar">
       <p class="wf-calcbar__points">
-        <span data-spent>{spent}</span><span class="wf-calcbar__of">/{total}</span>
+        <span data-spent>{spent}</span>
         <span class="wf-calcbar__label">{t('points')}</span>
-      </p>
-      <p class="wf-calcbar__level">
-        <span class="wf-calcbar__label">{t('earnable')}</span>
-        <span data-earnable>~{legacyEarnable()}</span>
       </p>
       <div class="wf-calcbar__actions">
         <button type="button" class="wf-btn wf-btn--primary" data-copy data-copied={t('copied')}>{t('copyLink')}</button>
