@@ -69,7 +69,8 @@ Agility gives 2 ranged attack power per point and critical strike chance. Beast 
 | Spec | Pre-raid list |
 |---|---|
 | **Survival** | [BiS list](/bis/forever/preraid/hunter-survival/) |
-| **Beast Mastery and Marksmanship** | Coming soon |
+| **Beast Mastery** | [BiS list](/bis/forever/preraid/hunter-beast-mastery/) |
+| **Marksmanship** | [BiS list](/bis/forever/preraid/hunter-marksmanship/) |
 
 Every list shows the date of its last update. All lists for every class are on the [BiS page](/bis/).
 

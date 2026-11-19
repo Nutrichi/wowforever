@@ -68,7 +68,8 @@ Der [Talentrechner](/de/talents/mage/) hat die Mage-Bäume von WoW Forever. Jede
 | Spec | Pre-Raid-Liste |
 |---|---|
 | **Arcane** | [BiS-Liste](/de/bis/forever/preraid/mage-arcane/) |
-| **Fire und Frost** | Folgt bald |
+| **Fire** | [BiS-Liste](/de/bis/forever/preraid/mage-fire/) |
+| **Frost** | [BiS-Liste](/de/bis/forever/preraid/mage-frost/) |
 
 Jede Liste zeigt das Datum ihrer letzten Aktualisierung. Alle Listen für jede Klasse stehen auf der [BiS-Seite](/de/bis/).
 

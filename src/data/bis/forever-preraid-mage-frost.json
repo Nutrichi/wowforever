@@ -1,0 +1,319 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "mage",
+ "spec": "frost",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-18",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Sorcerer's Crown",
+     "source": "Reward from the quest Saving the Best for Last (Tier 0.5 quest chain)"
+    },
+    {
+     "name": "Spellweaver's Turban",
+     "source": "General Drakkisath in Blackrock Spire"
+    },
+    {
+     "name": "Crimson Felt Hat",
+     "source": "Magistrate Barthilas in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Nacreous Shell Necklace",
+     "source": "Cannon Master Willey in Stratholme"
+    },
+    {
+     "name": "Star of Mystaria",
+     "source": "Balnazzar in Stratholme"
+    },
+    {
+     "name": "Arcane Crystal Pendant",
+     "source": "Sunken Temple Mage Quest"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Sorcerer's Mantle",
+     "source": "Reward from the quest Anthion's Parting Words (Tier 0.5 quest chain)"
+    },
+    {
+     "name": "Mantle of the Timbermaw",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Burial Shawl",
+     "source": "All Lower Scholomance Bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Spritecaster Cape",
+     "source": "Houndmaster Grebmar in Blackrock Depths"
+    },
+    {
+     "name": "Shroud of the Exile",
+     "source": "Reward from the quest In Dreams"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Robe of the Archmage",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Robes of Dark Summons",
+     "source": "Impaan the Imprisoner in Blackmaw Hold"
+    },
+    {
+     "name": "Alanna's Embrace",
+     "source": "Ras Frostwhisper in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Sorcerer's Bindings",
+     "source": "Reward from the quest An Earnest Proposition (Tier 0.5 quest chain)"
+    },
+    {
+     "name": "Dryad's Wrist Bindings",
+     "source": "Warsong Gulch Exalted Reputation"
+    },
+    {
+     "name": "Sublime Wristguards",
+     "source": "Guard Slip'kik & Guard Mol'dar in Dire Maul"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Sorcerer's Gauntlets",
+     "source": "Reward from the quest Just Compensation (Tier 0.5 quest chain)"
+    },
+    {
+     "name": "Gloves of Spell Mastery",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Hands of Power",
+     "source": "Quartermaster Zigris in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Archmage",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Ban'thok Sash",
+     "source": "Ok'thor the Breaker Arena in Blackrock Depths"
+    },
+    {
+     "name": "Magician's Cord",
+     "source": "Reals vendor in Booty Bay (100 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Sorcerer's Leggings",
+     "source": "Reward from the quest Anthion's Parting Words (Tier 0.5 quest chain)"
+    },
+    {
+     "name": "Sentinel's Silk Leggings",
+     "source": "Warsong Gulch Exalted Reputation"
+    },
+    {
+     "name": "Magister's Leggings",
+     "source": "Baron Rivendare in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Sorcerer's Sandals",
+     "source": "Reward from the quest Anthion's Parting Words (Tier 0.5 quest chain)"
+    },
+    {
+     "name": "Kayser's Boots of Precision",
+     "source": "War Master Voone in Blackrock Spire"
+    },
+    {
+     "name": "Dragonrider Boots",
+     "source": "Warchief Rend Blackhand in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Channeler's Ring",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Rune Band of Wizardry",
+     "source": "Lord Valthalak in Blackrock Spire"
+    },
+    {
+     "name": "Don Mauricio's Band of Domination",
+     "source": "Darkmaster Gandling in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Songstone of Ironforge",
+     "source": "Reward from the quest The Princess's Surprise or The Princess Saved?"
+    },
+    {
+     "name": "Rune Band of Wizardry",
+     "source": "Lord Valthalak in Blackrock Spire"
+    },
+    {
+     "name": "Don Mauricio's Band of Domination",
+     "source": "Darkmaster Gandling in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    },
+    {
+     "name": "Draconic Infused Emblem",
+     "source": "General Drakkisath in Blackrock Spire"
+    },
+    {
+     "name": "Jewel of the Guard Captain",
+     "source": "Reward from the quest Job Opening: Guard Captain of Revantusk Village or Saving Sharpbeak"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Weakness Analyzer",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    },
+    {
+     "name": "Draconic Infused Emblem",
+     "source": "General Drakkisath in Blackrock Spire"
+    },
+    {
+     "name": "Jewel of the Guard Captain",
+     "source": "Reward from the quest Job Opening: Guard Captain of Revantusk Village or Saving Sharpbeak"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Sageblade",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Sageclaw",
+     "source": "Arathi Basin Reputation Exalted"
+    },
+    {
+     "name": "Wit's Edge",
+     "source": "Scroll of Wit used on a Witchblade Scroll from scrolls above 175 comprehension"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Therazane's Touch",
+     "source": "Alterac Valley Exalted"
+    },
+    {
+     "name": "Obsidian Bauble",
+     "source": "Pusillin in Dire Maul East"
+    },
+    {
+     "name": "Tome of the Lost",
+     "source": "General Drakkisath in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Elemental Mage Staff",
+     "source": "World drop"
+    },
+    {
+     "name": "Ironbark Staff",
+     "source": "Arathi Basin Reputation Exalted"
+    },
+    {
+     "name": "Headmaster's Charge",
+     "source": "Darkmaster Gandling in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Wand of Biting Cold",
+     "source": "Reward from the quest Hero of the Stormpike or Hero of the Frostwolf"
+    },
+    {
+     "name": "Bonecreeper Stylus",
+     "source": "Darkmaster Gandling in Scholomance"
+    },
+    {
+     "name": "Bonecreeper Stylus",
+     "source": "Darkmaster Gandling in Scholomance"
+    }
+   ]
+  }
+ ]
+}

@@ -70,7 +70,8 @@ Agility geeft 2 ranged attack power per punt en critical strike-kans. De pet van
 | Spec | Pre-raid-lijst |
 |---|---|
 | **Survival** | [BiS-lijst](/nl/bis/forever/preraid/hunter-survival/) |
-| **Beast Mastery en Marksmanship** | Binnenkort |
+| **Beast Mastery** | [BiS-lijst](/nl/bis/forever/preraid/hunter-beast-mastery/) |
+| **Marksmanship** | [BiS-lijst](/nl/bis/forever/preraid/hunter-marksmanship/) |
 
 Elke lijst toont de datum van de laatste update. Alle lijsten voor elke class staan op de [BiS-pagina](/nl/bis/).
 

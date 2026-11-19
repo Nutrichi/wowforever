@@ -31314,7 +31314,7 @@
     },
     "Beastmaster's Cap": {
       "kind": "item",
-      "id": 22013,
+      "id": 226887,
       "icon": "inv_helmet_24",
       "quality": 4
     },
@@ -31356,7 +31356,7 @@
     },
     "Beastmaster's Tunic": {
       "kind": "item",
-      "id": 22060,
+      "id": 226886,
       "icon": "inv_chest_chain_03",
       "quality": 4
     },
@@ -31374,7 +31374,7 @@
     },
     "Beastmaster's Bindings": {
       "kind": "item",
-      "id": 226885,
+      "id": 22011,
       "icon": "inv_bracer_17",
       "quality": 3
     },
@@ -31800,7 +31800,7 @@
     },
     "Soulforge Spaulders": {
       "kind": "item",
-      "id": 22093,
+      "id": 226969,
       "icon": "inv_shoulder_10",
       "quality": 3
     },
@@ -31890,7 +31890,7 @@
     },
     "Soulforge Belt": {
       "kind": "item",
-      "id": 22086,
+      "id": 226971,
       "icon": "inv_belt_11",
       "quality": 3
     },
@@ -32178,7 +32178,7 @@
     },
     "Pauldrons of The Five Thunders": {
       "kind": "item",
-      "id": 22101,
+      "id": 227003,
       "icon": "inv_shoulder_29",
       "quality": 3
     },
@@ -32208,7 +32208,7 @@
     },
     "Vest of The Five Thunders": {
       "kind": "item",
-      "id": 22102,
+      "id": 227004,
       "icon": "inv_chest_chain_11",
       "quality": 4
     },
@@ -32220,7 +32220,7 @@
     },
     "Bindings of The Five Thunders": {
       "kind": "item",
-      "id": 22095,
+      "id": 227001,
       "icon": "inv_bracer_02",
       "quality": 3
     },
@@ -32238,13 +32238,13 @@
     },
     "Gauntlets of The Five Thunders": {
       "kind": "item",
-      "id": 22099,
+      "id": 227006,
       "icon": "inv_gauntlets_11",
       "quality": 4
     },
     "Cord of The Five Thunders": {
       "kind": "item",
-      "id": 22098,
+      "id": 227008,
       "icon": "inv_belt_16",
       "quality": 3
     },
@@ -32334,8 +32334,8 @@
     },
     "Totem of the Storm": {
       "kind": "item",
-      "id": 272432,
-      "icon": "spell_shaman_stormtotem",
+      "id": 23199,
+      "icon": "inv_relics_totemofrage",
       "quality": 3
     },
     "Totem of Thunder": {
@@ -32871,6 +32871,408 @@
       "id": 272097,
       "icon": null,
       "quality": null
+    },
+    "Backwood Helm": {
+      "kind": "item",
+      "id": 18421,
+      "icon": "inv_helmet_19",
+      "quality": 3
+    },
+    "Theramore Epaulets": {
+      "kind": "item",
+      "id": 271956,
+      "icon": "inv_shoulder_12",
+      "quality": 4
+    },
+    "Shadowcraft Spaulders": {
+      "kind": "item",
+      "id": 16708,
+      "icon": "inv_shoulder_07",
+      "quality": 3
+    },
+    "Stratholme Militia Shoulderguard": {
+      "kind": "item",
+      "id": 18742,
+      "icon": "inv_shoulder_14",
+      "quality": 3
+    },
+    "Shadow Prowler's Cloak": {
+      "kind": "item",
+      "id": 22269,
+      "icon": "inv_misc_cape_20",
+      "quality": 3
+    },
+    "Furbolg Rib Protector": {
+      "kind": "item",
+      "id": 280084,
+      "icon": "inv_chest_leather_06",
+      "quality": 3
+    },
+    "Warpwood Binding": {
+      "kind": "item",
+      "id": 18393,
+      "icon": "inv_belt_34",
+      "quality": 3
+    },
+    "Defias Enforcer's Legguards": {
+      "kind": "item",
+      "id": 276746,
+      "icon": "inv_pants_06",
+      "quality": 3
+    },
+    "Beastmaster's Treads": {
+      "kind": "item",
+      "id": 226881,
+      "icon": "inv_boots_plate_07",
+      "quality": 4
+    },
+    "Shadowcraft Boots": {
+      "kind": "item",
+      "id": 16711,
+      "icon": "inv_boots_08",
+      "quality": 3
+    },
+    "Prismatic Pendant": {
+      "kind": "item",
+      "id": 12048,
+      "icon": "inv_jewelry_necklace_11",
+      "quality": 2
+    },
+    "Tarnished Elven Ring": {
+      "kind": "item",
+      "id": 18500,
+      "icon": "inv_jewelry_ring_13",
+      "quality": 3
+    },
+    "Flamebreak Talisman": {
+      "kind": "item",
+      "id": 280071,
+      "icon": "inv_misc_qirajicrystal_02",
+      "quality": 3
+    },
+    "Cleansed Vilebranch Medallion": {
+      "kind": "item",
+      "id": 270275,
+      "icon": "inv_misc_coin_09",
+      "quality": 2
+    },
+    "Shadowblade": {
+      "kind": "item",
+      "id": 2163,
+      "icon": "inv_sword_12",
+      "quality": 4
+    },
+    "King Mosh's Tooth": {
+      "kind": "item",
+      "id": 286613,
+      "icon": "inv_weapon_shortblade_10",
+      "quality": 3
+    },
+    "Legionite Glaive": {
+      "kind": "item",
+      "id": 250619,
+      "icon": "inv_spear_05",
+      "quality": 3
+    },
+    "Tooth of the Matriarch": {
+      "kind": "item",
+      "id": 280021,
+      "icon": "spell_shadow_vampiricaura",
+      "quality": 3
+    },
+    "Heartseeker": {
+      "kind": "item",
+      "id": 12783,
+      "icon": "inv_sword_17",
+      "quality": 3
+    },
+    "Eaglehorn Long Bow": {
+      "kind": "item",
+      "id": 13023,
+      "icon": "inv_weapon_bow_11",
+      "quality": 3
+    },
+    "Hawkeye Bow": {
+      "kind": "item",
+      "id": 15296,
+      "icon": "inv_weapon_bow_12",
+      "quality": 2
+    },
+    "Legguards of the Chromatic Defier": {
+      "kind": "item",
+      "id": 12903,
+      "icon": "inv_pants_03",
+      "quality": 4
+    },
+    "Dwarven Hand Cannon": {
+      "kind": "item",
+      "id": 2099,
+      "icon": "inv_weapon_rifle_09",
+      "quality": 4
+    },
+    "Eye of Flame": {
+      "kind": "item",
+      "id": 3075,
+      "icon": "inv_helmet_44",
+      "quality": 4
+    },
+    "Shroud of the Nathrezim": {
+      "kind": "item",
+      "id": 18720,
+      "icon": "inv_shoulder_23",
+      "quality": 3
+    },
+    "Inferno Gloves": {
+      "kind": "item",
+      "id": 18408,
+      "icon": "inv_gauntlets_19",
+      "quality": 3
+    },
+    "Emberfury Talisman": {
+      "kind": "item",
+      "id": 12929,
+      "icon": "inv_jewelry_necklace_05",
+      "quality": 3
+    },
+    "Elemental Mage Staff": {
+      "kind": "item",
+      "id": 944,
+      "icon": "inv_staff_07",
+      "quality": 4
+    },
+    "Wand of Biting Cold": {
+      "kind": "item",
+      "id": 19108,
+      "icon": "inv_wand_01",
+      "quality": 3
+    },
+    "Soulforge Faceguard": {
+      "kind": "item",
+      "id": 226989,
+      "icon": "inv_helmet_08",
+      "quality": 4
+    },
+    "Stockade Pauldrons": {
+      "kind": "item",
+      "id": 14552,
+      "icon": "inv_shoulder_20",
+      "quality": 4
+    },
+    "Soulforge Pauldrons": {
+      "kind": "item",
+      "id": 226987,
+      "icon": "inv_shoulder_10",
+      "quality": 3
+    },
+    "Redoubt Cloak": {
+      "kind": "item",
+      "id": 18495,
+      "icon": "inv_misc_cape_21",
+      "quality": 3
+    },
+    "Soulforge Chestguards": {
+      "kind": "item",
+      "id": 226992,
+      "icon": "inv_chest_plate03",
+      "quality": 4
+    },
+    "Breastplate of the Chromatic Flight": {
+      "kind": "item",
+      "id": 12895,
+      "icon": "inv_chest_plate09",
+      "quality": 4
+    },
+    "Soulforge Wristguards": {
+      "kind": "item",
+      "id": 226985,
+      "icon": "inv_bracer_14",
+      "quality": 3
+    },
+    "Soulforge Handguards": {
+      "kind": "item",
+      "id": 226990,
+      "icon": "inv_gauntlets_19",
+      "quality": 4
+    },
+    "Soulforge Gauntlets": {
+      "kind": "item",
+      "id": 226975,
+      "icon": "inv_gauntlets_19",
+      "quality": 4
+    },
+    "Soulforge Legguards": {
+      "kind": "item",
+      "id": 226988,
+      "icon": "inv_pants_04",
+      "quality": 3
+    },
+    "Soulforge Warboots": {
+      "kind": "item",
+      "id": 226974,
+      "icon": "inv_boots_plate_03",
+      "quality": 4
+    },
+    "Deathbone Sabatons": {
+      "kind": "item",
+      "id": 14621,
+      "icon": "inv_boots_01",
+      "quality": 3
+    },
+    "Drakeclaw Band": {
+      "kind": "item",
+      "id": 10795,
+      "icon": "inv_jewelry_ring_04",
+      "quality": 3
+    },
+    "The Immovable Object": {
+      "kind": "item",
+      "id": 19321,
+      "icon": "spell_frost_chillingarmor",
+      "quality": 4
+    },
+    "Draconian Deflector": {
+      "kind": "item",
+      "id": 12602,
+      "icon": "inv_shield_20",
+      "quality": 3
+    },
+    "Skullflame Shield": {
+      "kind": "item",
+      "id": 1168,
+      "icon": "inv_shield_01",
+      "quality": 4
+    },
+    "Masterwork Bracers": {
+      "kind": "item",
+      "id": 10265,
+      "icon": "inv_bracer_03",
+      "quality": 2
+    },
+    "Sash of the Windreaver": {
+      "kind": "item",
+      "id": 18676,
+      "icon": "inv_belt_31",
+      "quality": 3
+    },
+    "Kilt of The Five Thunders": {
+      "kind": "item",
+      "id": 227005,
+      "icon": "inv_pants_03",
+      "quality": 3
+    },
+    "Slippers of The Five Thunders": {
+      "kind": "item",
+      "id": 227007,
+      "icon": "inv_boots_wolf",
+      "quality": 4
+    },
+    "Masterwork Boots": {
+      "kind": "item",
+      "id": 10270,
+      "icon": "inv_boots_plate_03",
+      "quality": 2
+    },
+    "Elemental Focus Band": {
+      "kind": "item",
+      "id": 20682,
+      "icon": "inv_jewelry_ring_23",
+      "quality": 4
+    },
+    "Premier Grand Marshal's Mageblade": {
+      "kind": "item",
+      "id": 272856,
+      "icon": "inv_weapon_shortblade_26",
+      "quality": 4
+    },
+    "Premier Grand Marshal's Stave": {
+      "kind": "item",
+      "id": 272850,
+      "icon": "inv_staff_14",
+      "quality": 4
+    },
+    "Staff of Sorrow": {
+      "kind": "item",
+      "id": 280082,
+      "icon": "inv_staff_29",
+      "quality": 3
+    },
+    "Premier Grand Marshal's Tome of Power": {
+      "kind": "item",
+      "id": 278158,
+      "icon": "inv_misc_book_12",
+      "quality": 4
+    },
+    "Premier General's Felweave Mantle": {
+      "kind": "item",
+      "id": 272558,
+      "icon": "inv_shoulder_19",
+      "quality": 4
+    },
+    "Runecloth Cuffs": {
+      "kind": "item",
+      "id": 254123,
+      "icon": "inv_bracer_13",
+      "quality": 2
+    },
+    "Deathmist Wraps": {
+      "kind": "item",
+      "id": 22077,
+      "icon": "inv_gauntlets_32",
+      "quality": 4
+    },
+    "High Councillor's Sash": {
+      "kind": "item",
+      "id": 10144,
+      "icon": "inv_belt_04",
+      "quality": 2
+    },
+    "Frostwolf Cloth Belt": {
+      "kind": "item",
+      "id": 19090,
+      "icon": "inv_belt_04",
+      "quality": 3
+    },
+    "Ghostweave Pants": {
+      "kind": "item",
+      "id": 14144,
+      "icon": "inv_pants_01",
+      "quality": 2
+    },
+    "Spiritshroud Leggings": {
+      "kind": "item",
+      "id": 12965,
+      "icon": "inv_pants_06",
+      "quality": 3
+    },
+    "Venomspew Footpads": {
+      "kind": "item",
+      "id": 275606,
+      "icon": "inv_boots_cloth_04",
+      "quality": 3
+    },
+    "Eye of Orgrimmar": {
+      "kind": "item",
+      "id": 12545,
+      "icon": "inv_jewelry_ring_05",
+      "quality": 3
+    },
+    "Premier High Warlord's Spellblade": {
+      "kind": "item",
+      "id": 272683,
+      "icon": "inv_weapon_shortblade_26",
+      "quality": 4
+    },
+    "Grove Subjugator's Blade": {
+      "kind": "item",
+      "id": 287034,
+      "icon": "inv_weapon_shortblade_25",
+      "quality": 3
+    },
+    "Tome of Fiery Arcana": {
+      "kind": "item",
+      "id": 19311,
+      "icon": "inv_misc_book_09",
+      "quality": 4
     }
   }
 }

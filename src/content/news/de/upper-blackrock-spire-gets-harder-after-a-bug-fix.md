@@ -9,7 +9,7 @@ image: ../../../assets/posts/2026-10-14-wow-forever-launch-dungeons.jpg
 imageAlt: "Das Logo von World of Warcraft: Forever mit den Worten Dungeons: classic vibes, new twists, neben einer grünen dreiköpfigen Hydra"
 source: "Blizzard Entertainment"
 sourceUrl: "https://www.wowhead.com/forever/news/ubrs-damage-and-health-increases-and-shendralas-improvements-wow-forever-383914"
-tags: ["forever", "dungeons", "hotfixes"]
+tags: ["forever", "dungeon", "hotfixes"]
 featured: false
 draft: false
 ---

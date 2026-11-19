@@ -70,7 +70,8 @@ Stamina dà più Health da convertire, e Spirit più mana tra un combattimento e
 | Spec | Lista pre-raid |
 |---|---|
 | **Affliction** | [Lista BiS](/it/bis/forever/preraid/warlock-affliction/) |
-| **Demonology e Destruction** | In arrivo |
+| **Destruction** | [Lista BiS](/it/bis/forever/preraid/warlock-destruction/) |
+| **Demonology** | In arrivo |
 
 Ogni lista mostra la data dell'ultimo aggiornamento. Tutte le liste di ogni classe sono nella [pagina BiS](/it/bis/).
 

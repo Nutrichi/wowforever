@@ -67,7 +67,8 @@ The [talent calculator](/talents/mage/) has the Mage trees of WoW Forever. Each 
 | Spec | Pre-raid list |
 |---|---|
 | **Arcane** | [BiS list](/bis/forever/preraid/mage-arcane/) |
-| **Fire and Frost** | Coming soon |
+| **Fire** | [BiS list](/bis/forever/preraid/mage-fire/) |
+| **Frost** | [BiS list](/bis/forever/preraid/mage-frost/) |
 
 Every list shows the date of its last update. All lists for every class are on the [BiS page](/bis/).
 

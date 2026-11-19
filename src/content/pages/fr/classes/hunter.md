@@ -70,7 +70,8 @@ Agility donne 2 points de puissance d’attaque à distance par point et de la c
 | Spé | Liste pré-raid |
 |---|---|
 | **Survival** | [Liste BiS](/fr/bis/forever/preraid/hunter-survival/) |
-| **Beast Mastery et Marksmanship** | Bientôt |
+| **Beast Mastery** | [Liste BiS](/fr/bis/forever/preraid/hunter-beast-mastery/) |
+| **Marksmanship** | [Liste BiS](/fr/bis/forever/preraid/hunter-marksmanship/) |
 
 Chaque liste affiche la date de sa dernière mise à jour. Toutes les listes de chaque classe sont sur la [page BiS](/fr/bis/).
 

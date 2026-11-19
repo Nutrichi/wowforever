@@ -70,7 +70,8 @@ Stamina geeft meer Health om te tappen, en Spirit meer mana tussen de gevechten.
 | Spec | Pre-raid-lijst |
 |---|---|
 | **Affliction** | [BiS-lijst](/nl/bis/forever/preraid/warlock-affliction/) |
-| **Demonology en Destruction** | Binnenkort |
+| **Destruction** | [BiS-lijst](/nl/bis/forever/preraid/warlock-destruction/) |
+| **Demonology** | Binnenkort |
 
 Elke lijst toont de datum van de laatste update. Alle lijsten voor elke class staan op de [BiS-pagina](/nl/bis/).
 

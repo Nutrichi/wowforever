@@ -5,7 +5,7 @@
  "spec": "elemental",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-14",
+ "updated": "2026-11-18",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -13,16 +13,16 @@
    "slot": "Head",
    "items": [
     {
+     "name": "Coif of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
+    },
+    {
+     "name": "Spellweaver's Turban",
+     "source": "General Drakkisath Blackrock Spire"
+    },
+    {
      "name": "Blue Dragonscale Helm",
      "source": "Crafted with Leatherworking"
-    },
-    {
-     "name": "Master's Hat",
-     "source": "World drop"
-    },
-    {
-     "name": "Premier Warlord's Mail Helm",
-     "source": "PVP Vendor"
     }
    ]
   },
@@ -30,16 +30,16 @@
    "slot": "Neck",
    "items": [
     {
+     "name": "Nacreous Shell Necklace",
+     "source": "Cannon Master Willey Stratholme"
+    },
+    {
      "name": "Orb of the Darkmoon",
      "source": "Darkmoon Faire 1200 Tickets in Orb of the Darkmoon"
     },
     {
-     "name": "Chains of the Lich",
-     "source": "Balzaphon Stratholme"
-    },
-    {
-     "name": "Horn of Ve'han",
-     "source": "Source not listed yet"
+     "name": "Star of Mystaria",
+     "source": "Balnazzar Stratholme"
     }
    ]
   },
@@ -47,16 +47,16 @@
    "slot": "Shoulders",
    "items": [
     {
-     "name": "Mantle of the Timbermaw",
-     "source": "Crafted with Tailoring"
-    },
-    {
      "name": "Pauldrons of The Five Thunders",
      "source": "Tier 0.5 Quest Chain"
     },
     {
-     "name": "Premier General's Mail Spaulders",
-     "source": "Tier 0.5 Quest Chain"
+     "name": "Mantle of the Timbermaw",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Argent Shoulders",
+     "source": "Crafted with Tailoring"
     }
    ]
   },
@@ -64,16 +64,16 @@
    "slot": "Back",
    "items": [
     {
+     "name": "Arcanoweave Cloak",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Archivist Cape",
+     "source": "Archivist Galford Stratholme"
+    },
+    {
      "name": "Master's Cloak",
      "source": "World drop"
-    },
-    {
-     "name": "Cloak of Earth and Sky",
-     "source": "Crafted with Tailoring"
-    },
-    {
-     "name": "Frostwolf Advisor's Cloak",
-     "source": "Alterac Valley Vendors"
     }
    ]
   },
@@ -81,16 +81,16 @@
    "slot": "Chest",
    "items": [
     {
-     "name": "Masterwork Breastplate",
-     "source": "World drop"
+     "name": "Robes of Dark Summons",
+     "source": "Impaan the Imprisoner Blackmaw Hold"
+    },
+    {
+     "name": "Alanna's Embrace",
+     "source": "Ras Frostwhisper Scholomance"
     },
     {
      "name": "Vest of The Five Thunders",
      "source": "Tier 0.5 Quest Chain"
-    },
-    {
-     "name": "Vest of Elements",
-     "source": "General Drakkisath Blackrock Spire"
     }
    ]
   },
@@ -98,16 +98,16 @@
    "slot": "Wrists",
    "items": [
     {
+     "name": "Bindings of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
+    },
+    {
      "name": "Dryad's Wrist Bindings",
      "source": "Warsong Gulch Vendors Exalted"
     },
     {
-     "name": "Dryad's Wrist Bindings",
-     "source": "Warsong Gulch Vendors Revered"
-    },
-    {
-     "name": "Bindings of The Five Thunders",
-     "source": "Tier 0.5 Quest Chain"
+     "name": "Masterwork Bracers",
+     "source": "World drop"
     }
    ]
   },
@@ -115,16 +115,16 @@
    "slot": "Hands",
    "items": [
     {
-     "name": "Gloves of the Greatfather",
-     "source": "Crafted with Leatherworking"
+     "name": "Gauntlets of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
+    },
+    {
+     "name": "Skyfury Gauntlets",
+     "source": "Reward from the quest The Darkreaver Menace"
     },
     {
      "name": "Storm Gauntlets",
      "source": "Crafted with Leatherworking"
-    },
-    {
-     "name": "Gauntlets of The Five Thunders",
-     "source": "Tier 0.5 Quest Chain"
     }
    ]
   },
@@ -132,16 +132,16 @@
    "slot": "Waist",
    "items": [
     {
+     "name": "Cord of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
+    },
+    {
      "name": "Belt of the Archmage",
      "source": "Crafted with Tailoring"
     },
     {
-     "name": "Cord of The Five Thunders",
-     "source": "Arathi Basin Vendors"
-    },
-    {
-     "name": "Highlander's Cloth Girdle",
-     "source": "Arathi Basin Vendors"
+     "name": "Sash of the Windreaver",
+     "source": "The Windreaver Silithus"
     }
    ]
   },
@@ -157,8 +157,8 @@
      "source": "Crafted with Leatherworking"
     },
     {
-     "name": "General's Mail Leggings",
-     "source": "PVP Vendors"
+     "name": "Kilt of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
     }
    ]
   },
@@ -166,16 +166,16 @@
    "slot": "Feet",
    "items": [
     {
-     "name": "Earthen Silk Slippers",
-     "source": "Crafted with Tailoring"
-    },
-    {
-     "name": "Boots of The Five Thunders",
+     "name": "Slippers of The Five Thunders",
      "source": "Tier 0.5 Quest Chain"
     },
     {
-     "name": "General's Mail Boots",
-     "source": "PVP Vendors"
+     "name": "Greaves of Withering Despair",
+     "source": "High Interrogator Gerstahn Blackrock Depths"
+    },
+    {
+     "name": "Masterwork Boots",
+     "source": "World drop"
     }
    ]
   },
@@ -183,16 +183,16 @@
    "slot": "Ring 1",
    "items": [
     {
-     "name": "Warden's Signet of Brilliance",
-     "source": "Exalted"
+     "name": "Channeler's Ring",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
-     "name": "Watcher's Signet of Brilliance",
-     "source": "Reputation reward (Revered)"
+     "name": "Elemental Focus Band",
+     "source": "Prince Skaldrenox Silithus"
     },
     {
-     "name": "Tracker's Signet of Brilliance",
-     "source": "Honored"
+     "name": "Songstone of Ironforge",
+     "source": "Reward from the quest The Princess's Surprise or The Princess Saved?"
     }
    ]
   },
@@ -200,16 +200,16 @@
    "slot": "Ring 2",
    "items": [
     {
-     "name": "Blessed Band of Light",
-     "source": "Pix Xizzix 75 Copper Chain Boots"
+     "name": "Rune Band of Wizardry",
+     "source": "Lord Valthalak Blackrock Spire"
     },
     {
-     "name": "Watcher's Signet of Brilliance",
-     "source": "Reputation reward (Revered)"
+     "name": "Elemental Focus Band",
+     "source": "Prince Skaldrenox Silithus"
     },
     {
-     "name": "Tracker's Signet of Brilliance",
-     "source": "Honored"
+     "name": "Songstone of Ironforge",
+     "source": "Reward from the quest The Princess's Surprise or The Princess Saved?"
     }
    ]
   },
@@ -218,15 +218,15 @@
    "items": [
     {
      "name": "Weakness Analyzer",
-     "source": "Pix Xizzix 125 Copper Chain Boots"
+     "source": "Reals vendor in Booty Bay (125 Reals)"
     },
     {
-     "name": "Arcanite Dragonling",
-     "source": "Crafted with Engineering"
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest General Drakkisath's Demise or For The Horde!"
     },
     {
-     "name": "Jewel of the Guard Captain",
-     "source": "Source not listed yet"
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher Blackrock Spire"
     }
    ]
   },
@@ -234,16 +234,16 @@
    "slot": "Trinket 2",
    "items": [
     {
-     "name": "Frozen Heart of the Mountain",
-     "source": "Crafted with Enchanting"
+     "name": "Royal Seal of Eldre'Thalas",
+     "source": "Reward from the quest Frost Shock and You"
     },
     {
-     "name": "Arcanite Dragonling",
-     "source": "Crafted with Engineering"
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest General Drakkisath's Demise or For The Horde!"
     },
     {
-     "name": "Jewel of the Guard Captain",
-     "source": "Source not listed yet"
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher Blackrock Spire"
     }
    ]
   },
@@ -251,15 +251,15 @@
    "slot": "Main-Hand",
    "items": [
     {
+     "name": "Premier Grand Marshal's Mageblade",
+     "source": "PVP Vendors"
+    },
+    {
      "name": "Sageclaw",
      "source": "Arathi Basin Vendors Exalted"
     },
     {
-     "name": "Elderwild Construction Hammer",
-     "source": "Source not listed yet"
-    },
-    {
-     "name": "Bloodstrike Dagger",
+     "name": "Hand of Edward the Odd",
      "source": "World drop"
     }
    ]
@@ -268,12 +268,16 @@
    "slot": "Off-Hand",
    "items": [
     {
-     "name": "Master's Rod",
-     "source": "World drop"
+     "name": "Therazane's Touch",
+     "source": "Alterac Valley Vendors Exalted"
     },
     {
-     "name": "Evergreen Shield",
-     "source": "Crafted with Blacksmithing"
+     "name": "Premier Grand Marshal's Tome of Power",
+     "source": "PVP Vendors"
+    },
+    {
+     "name": "Obsidian Bauble",
+     "source": "Pusillin Dire Maul"
     }
    ]
   },
@@ -281,16 +285,16 @@
    "slot": "Two-Hand",
    "items": [
     {
-     "name": "Crackling Staff",
-     "source": "Alterac Valley Vendors"
+     "name": "Premier Grand Marshal's Stave",
+     "source": "PVP Vendors"
     },
     {
-     "name": "Wisepaw Totem",
-     "source": "Reputation reward (Revered)"
+     "name": "Ironbark Staff",
+     "source": "Arathi Basin Vendors Exalted"
     },
     {
-     "name": "Death Striker",
-     "source": "World drop"
+     "name": "Staff of Sorrow",
+     "source": "Mopes Blackmaw Hold"
     }
    ]
   },
@@ -307,7 +311,7 @@
     },
     {
      "name": "Burning Totem",
-     "source": "Pix Xizzix 50 Copper Chain Boots"
+     "source": "Reals vendor in Booty Bay (50 Reals)"
     }
    ]
   }

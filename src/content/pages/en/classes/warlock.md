@@ -69,7 +69,8 @@ Stamina gives more health to tap, and Spirit more mana between fights.
 | Spec | Pre-raid list |
 |---|---|
 | **Affliction** | [BiS list](/bis/forever/preraid/warlock-affliction/) |
-| **Demonology and Destruction** | Coming soon |
+| **Destruction** | [BiS list](/bis/forever/preraid/warlock-destruction/) |
+| **Demonology** | Coming soon |
 
 Every list shows the date of its last update. All lists for every class are on the [BiS page](/bis/).
 

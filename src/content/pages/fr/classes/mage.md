@@ -68,7 +68,8 @@ Le [calculateur de talents](/fr/talents/mage/) contient les arbres du Mage de Wo
 | Spé | Liste pré-raid |
 |---|---|
 | **Arcane** | [Liste BiS](/fr/bis/forever/preraid/mage-arcane/) |
-| **Fire et Frost** | Bientôt |
+| **Fire** | [Liste BiS](/fr/bis/forever/preraid/mage-fire/) |
+| **Frost** | [Liste BiS](/fr/bis/forever/preraid/mage-frost/) |
 
 Chaque liste affiche la date de sa dernière mise à jour. Toutes les listes de chaque classe sont sur la [page BiS](/fr/bis/).
 

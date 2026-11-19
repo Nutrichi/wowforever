@@ -68,7 +68,8 @@ De [talentcalculator](/nl/talents/mage/) heeft de Mage-bomen van WoW Forever. El
 | Spec | Pre-raid-lijst |
 |---|---|
 | **Arcane** | [BiS-lijst](/nl/bis/forever/preraid/mage-arcane/) |
-| **Fire en Frost** | Binnenkort |
+| **Fire** | [BiS-lijst](/nl/bis/forever/preraid/mage-fire/) |
+| **Frost** | [BiS-lijst](/nl/bis/forever/preraid/mage-frost/) |
 
 Elke lijst toont de datum van de laatste update. Alle lijsten voor elke class staan op de [BiS-pagina](/nl/bis/).
 

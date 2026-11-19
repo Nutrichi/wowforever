@@ -1,0 +1,286 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "hunter",
+ "spec": "marksmanship",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-18",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Black Dragonscale Helm",
+     "source": "Crafted"
+    },
+    {
+     "name": "Backwood Helm",
+     "source": "Quest (Dire Maul)"
+    },
+    {
+     "name": "Beastmaster's Cap",
+     "source": "Reward from the quest Saving the Best for Last"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Mark of Fordring",
+     "source": "Reward from the quest In Dreams"
+    },
+    {
+     "name": "Amulet of the Darkmoon",
+     "source": "1200 Tickets in Amulet of the Darkmoon Gelvas Grimegate"
+    },
+    {
+     "name": "Prismatic Pendant",
+     "source": "Baron Rivendare (Stratholme)"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Theramore Epaulets",
+     "source": "Bryanna Embreeze (The Barrens), Theramore Expeditionary Force (Exalted)"
+    },
+    {
+     "name": "Shadowcraft Spaulders",
+     "source": "Cannon Master Willey (Stratholme) Black Market"
+    },
+    {
+     "name": "Stratholme Militia Shoulderguard",
+     "source": "Zone Drop (Stratholme)"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare (Stratholme)"
+    },
+    {
+     "name": "Shifting Cloak",
+     "source": "Crafted"
+    },
+    {
+     "name": "Shadow Prowler's Cloak",
+     "source": "General Drakkisath (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Dawn Armor",
+     "source": "Crafted"
+    },
+    {
+     "name": "Beastmaster's Tunic",
+     "source": "Reward from the quest Saving the Best for Last"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Beastmaster's Bindings",
+     "source": "Quest"
+    },
+    {
+     "name": "Bracers of the Eclipse",
+     "source": "Prince Tortheldrin (Dire Maul)"
+    },
+    {
+     "name": "Satyrhide Armbands",
+     "source": "Quest (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Devilsaur Gauntlets",
+     "source": "Crafted"
+    },
+    {
+     "name": "Gauntlets of Accuracy",
+     "source": "Illyanna Ravenoak (Dire Maul)"
+    },
+    {
+     "name": "Voone's Vice Grips",
+     "source": "Quest (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Ranger's Belt",
+     "source": "Pix Xizzix (Stranglethorn Vale)"
+    },
+    {
+     "name": "Warpwood Binding",
+     "source": "Tendris Warpwood (Dire Maul)"
+    },
+    {
+     "name": "Marksman's Girdle",
+     "source": "Urok Doomhowl (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Devilsaur Leggings",
+     "source": "Crafted"
+    },
+    {
+     "name": "Plaguehound Leggings",
+     "source": "Source not listed yet"
+    },
+    {
+     "name": "Legguards of the Chromatic Defier",
+     "source": "Reward from the quest Legplates of the Chromatic Defier"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Windreaver Greaves",
+     "source": "Kirtonos the Herald (Scholomance)"
+    },
+    {
+     "name": "Beastmaster's Treads",
+     "source": "Quest Vendor"
+    },
+    {
+     "name": "Shadowcraft Boots",
+     "source": "Rattlegore (Scholomance) Black Market"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Cutthroat's Signet",
+     "source": "Pix Xizzix (Stranglethorn Vale)"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras (Maraudon)"
+    },
+    {
+     "name": "Painweaver Band",
+     "source": "General Drakkisath (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Tarnished Elven Ring",
+     "source": "Zone Drop (Dire Maul)"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras (Maraudon)"
+    },
+    {
+     "name": "Painweaver Band",
+     "source": "General Drakkisath (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Blackhand's Breadth",
+     "source": "Quest (Blackrock Spire)"
+    },
+    {
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak (Blackrock Spire)"
+    },
+    {
+     "name": "Flamebreak Talisman",
+     "source": "Unbound Spirit (Blackmaw Hold)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Cleansed Vilebranch Medallion",
+     "source": "Reward from the quest Saving Sharpbeak"
+    },
+    {
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak (Blackrock Spire)"
+    },
+    {
+     "name": "Flamebreak Talisman",
+     "source": "Unbound Spirit (Blackmaw Hold)"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Shadowblade",
+     "source": "Source not listed yet"
+    },
+    {
+     "name": "King Mosh's Tooth",
+     "source": "King Mosh (Un'Goro Crater)"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Legionite Glaive",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Bloodseeker",
+     "source": "Quest (Alterac Valley)"
+    },
+    {
+     "name": "Eaglehorn Long Bow",
+     "source": "Source not listed yet"
+    },
+    {
+     "name": "Dwarven Hand Cannon",
+     "source": "Source not listed yet"
+    }
+   ]
+  }
+ ]
+}

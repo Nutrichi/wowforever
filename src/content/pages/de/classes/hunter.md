@@ -70,7 +70,8 @@ Agility gibt 2 Distanzangriffskraft pro Punkt und kritische Trefferchance. Der B
 | Spec | Pre-Raid-Liste |
 |---|---|
 | **Survival** | [BiS-Liste](/de/bis/forever/preraid/hunter-survival/) |
-| **Beast Mastery und Marksmanship** | Folgt bald |
+| **Beast Mastery** | [BiS-Liste](/de/bis/forever/preraid/hunter-beast-mastery/) |
+| **Marksmanship** | [BiS-Liste](/de/bis/forever/preraid/hunter-marksmanship/) |
 
 Jede Liste zeigt das Datum ihrer letzten Aktualisierung. Alle Listen für jede Klasse stehen auf der [BiS-Seite](/de/bis/).
 

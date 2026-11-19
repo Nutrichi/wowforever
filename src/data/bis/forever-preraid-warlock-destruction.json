@@ -1,0 +1,303 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "warlock",
+ "spec": "destruction",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-19",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Spellweaver's Turban",
+     "source": "General Drakkisath Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Beads of Ogre Mojo",
+     "source": "Reward from the quest Falrin's Vendetta"
+    },
+    {
+     "name": "Star of Mystaria",
+     "source": "Grand Crusader Dathrohan Stratholme"
+    },
+    {
+     "name": "Archlight Talisman",
+     "source": "Reward from the quest Hidden Treasures"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Argent Shoulders",
+     "source": "Crafted, pattern from Argent Dawn (Revered)"
+    },
+    {
+     "name": "Master's Mantle",
+     "source": "World drop"
+    },
+    {
+     "name": "Premier General's Felweave Mantle",
+     "source": "PvP vendor Rank 12"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Pix Xizzix Stranglethorn Vale"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Alanna's Embrace",
+     "source": "Ras Frostwhisper Scholomance"
+    },
+    {
+     "name": "Master's Vest",
+     "source": "World drop"
+    },
+    {
+     "name": "Robe of Everlasting Night",
+     "source": "Immol'thar Dire Maul"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Tearfall Bracers",
+     "source": "The Unforgiven Stratholme"
+    },
+    {
+     "name": "Premier Legionnaire's Felweave Bracers",
+     "source": "PvP vendor Rank 8"
+    },
+    {
+     "name": "Runecloth Cuffs",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Deathmist Wraps",
+     "source": "Reward from the quest Just Compensation"
+    },
+    {
+     "name": "Master's Gloves",
+     "source": "World drop"
+    },
+    {
+     "name": "Inferno Gloves",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Defiler's Cloth Girdle",
+     "source": "The Defilers or The League of Arathor (Honored)"
+    },
+    {
+     "name": "High Councillor's Sash",
+     "source": "World drop"
+    },
+    {
+     "name": "Frostwolf Cloth Belt",
+     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley, Honored"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "High Councillor's Pants",
+     "source": "World drop"
+    },
+    {
+     "name": "Ghostweave Pants",
+     "source": "Crafted"
+    },
+    {
+     "name": "Spiritshroud Leggings",
+     "source": "The Beast Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Master's Boots",
+     "source": "World drop"
+    },
+    {
+     "name": "Venomspew Footpads",
+     "source": "Crafted, pattern from Cenarion Circle (Honored)"
+    },
+    {
+     "name": "Dragonrider Boots",
+     "source": "Warchief Rend Blackhand Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Warden's Signet of Brilliance",
+     "source": "The Watchers (Exalted)"
+    },
+    {
+     "name": "Eye of Orgrimmar",
+     "source": "Reward from the quest The Princess Saved? or The Princess's Surprise"
+    },
+    {
+     "name": "Blessed Band of Light",
+     "source": "Pix Xizzix Stranglethorn Vale"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Watcher's Signet of Brilliance",
+     "source": "The Watchers (Revered)"
+    },
+    {
+     "name": "Eye of Orgrimmar",
+     "source": "Reward from the quest The Princess Saved? or The Princess's Surprise"
+    },
+    {
+     "name": "Blessed Band of Light",
+     "source": "Pix Xizzix Stranglethorn Vale"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Weakness Analyzer",
+     "source": "Pix Xizzix Stranglethorn Vale"
+    },
+    {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Royal Seal of Eldre'Thalas",
+     "source": "Reward from the quest Harnessing Shadows"
+    },
+    {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Premier High Warlord's Spellblade",
+     "source": "PvP vendor Rank 14"
+    },
+    {
+     "name": "Mindfang",
+     "source": "The Defilers or The League of Arathor (Exalted)"
+    },
+    {
+     "name": "Grove Subjugator's Blade",
+     "source": "Legashi demons Azshara"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Tome of Fiery Arcana",
+     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley"
+    },
+    {
+     "name": "Premier High Warlord's Tome of Destruction",
+     "source": "PvP vendor Rank 14"
+    },
+    {
+     "name": "Spirit of Aquementas",
+     "source": "Reward from the quest It's Dangerous to Go Alone"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Premier High Warlord's War Staff",
+     "source": "PvP vendor Rank 14"
+    },
+    {
+     "name": "Whiteout Staff",
+     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley, Revered"
+    },
+    {
+     "name": "Headmaster's Charge",
+     "source": "Darkmaster Gandling Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Bonecreeper Stylus",
+     "source": "Darkmaster Gandling Scholomance"
+    },
+    {
+     "name": "Oblivion's Touch",
+     "source": "Death Knight Darkreaver Scholomance"
+    },
+    {
+     "name": "Brilliant Wand",
+     "source": "Crafted"
+    }
+   ]
+  }
+ ]
+}
