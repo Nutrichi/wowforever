@@ -3,7 +3,7 @@ title: "Hunter levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Hunter-levelgids: builds voor Beast Mastery, Marksmanship en Survival tot 60"
 description: "Een Hunter levelen in WoW Forever: de eerste levels, builds voor level 60 voor Beast Mastery, Marksmanship en Survival, de rotatie, de belangrijke levels, de temquest, wapens, gear, beroepen, pets, traps, tracking en Aspects."
 short: "Hunter levelen"
-updated: 2026-11-12
+updated: 2026-11-19
 lang: nl
 manual: true
 faq:
@@ -191,6 +191,8 @@ Level je beroepen samen met je Hunter, zodat je op het juiste level verzamelt en
 Je pet is het hart van de class. Let op waar hij staat, welke abilities hij gebruikt en zijn cooldowns: zo kun je reageren op wat een monster doet, of gevaar helemaal vermijden. In Forever krijgt je pet ook de buffs van Camping, zolang hij opgeroepen is terwijl je bij het kampvuur zit. Sinds 10 november heeft je pet 115% van zijn normale health in plaats van 150%, wat een bug was, [meer in onze post](/nl/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 Petabilities brengen extra utility, zoals <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24423"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_vulture.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demoralizing Screech</a> en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7272"><img class="wf-wh__icon" src="/wh/ability_hibernation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Cloud</a>.
+
+**Een snelle kat op 59:** <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268231">Ta'shkal</a> op Mount Hyjal valt aan met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263110"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faster Attack VII</a>, dat eerder alleen <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2850">Broken Tooth</a> in de Badlands had. Zoek de <a class="wf-wh wf-q0" href="https://www.wowhead.com/forever/item=276909"><img class="wf-wh__icon" src="/wh/inv_jewelcrafting_jadepanther.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corrupted Cat Figurine</a> rond de Fel Pool (/way 47.0 75.0) en klik dan op de Lonely Lantern op /way 26.0 65.0 om hem op te roepen en te temmen. Meer in [onze post over Ta'shkal](/nl/news/tame-the-secret-hunter-pet-tashkal/).
 
 ### Crowd control en pulls
 

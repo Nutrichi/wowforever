@@ -3,7 +3,7 @@ title: "Subir un Hunter en WoW Forever: la guía"
 metaTitle: "Guía de subida del Hunter en WoW Forever: builds de Beast Mastery, Marksmanship y Survival hasta el 60"
 description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, builds de nivel 60 para Beast Mastery, Marksmanship y Survival, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
 short: "Subir un Hunter"
-updated: 2026-11-12
+updated: 2026-11-19
 lang: es
 manual: true
 faq:
@@ -191,6 +191,8 @@ Sube tus profesiones a la vez que tu Hunter, para recolectar y fabricar al nivel
 Tu mascota es el corazón de la clase. Vigila dónde está, qué habilidades usa y sus reutilizaciones: así puedes reaccionar a lo que hace un monstruo, o evitar el peligro del todo. En Forever tu mascota también recibe los buffs de Camping, siempre que esté invocada mientras te sientas junto a la hoguera. Desde el 10 de noviembre tu mascota tiene el 115% de su salud normal en lugar del 150%, que era un error, [más en nuestra noticia](/es/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 Las habilidades de mascota añaden utilidad, como <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24423"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_vulture.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demoralizing Screech</a> y <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7272"><img class="wf-wh__icon" src="/wh/ability_hibernation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Cloud</a>.
+
+**Un gato rápido a nivel 59:** <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268231">Ta'shkal</a>, en Mount Hyjal, ataca con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263110"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faster Attack VII</a>, que antes solo tenía <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2850">Broken Tooth</a> en los Badlands. Busca la <a class="wf-wh wf-q0" href="https://www.wowhead.com/forever/item=276909"><img class="wf-wh__icon" src="/wh/inv_jewelcrafting_jadepanther.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corrupted Cat Figurine</a> alrededor de la Fel Pool (/way 47.0 75.0) y haz clic en la Lonely Lantern en /way 26.0 65.0 para invocarlo y domesticarlo. Más en [nuestro artículo sobre Ta'shkal](/es/news/tame-the-secret-hunter-pet-tashkal/).
 
 ### Control y pulls
 

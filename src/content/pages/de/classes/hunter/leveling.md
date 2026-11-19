@@ -3,7 +3,7 @@ title: "Hunter leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Hunter-Levelguide: Builds für Beast Mastery, Marksmanship und Survival bis 60"
 description: "Einen Hunter leveln in WoW Forever: die ersten Level, Builds für Level 60 für Beast Mastery, Marksmanship und Survival, die Rotation, wichtige Level, die Zähmungsquest, Waffen, Ausrüstung, Berufe, Begleiter, Fallen, Aufspüren und Aspects."
 short: "Hunter leveln"
-updated: 2026-11-12
+updated: 2026-11-19
 lang: de
 manual: true
 faq:
@@ -191,6 +191,8 @@ Level deine Berufe zusammen mit deinem Hunter, damit du auf dem richtigen Level 
 Dein Begleiter ist das Herz der Klasse. Achte darauf, wo er steht, welche Fähigkeiten er nutzt und auf seine Abklingzeiten: So kannst du auf das reagieren, was ein Monster tut, oder Gefahr ganz vermeiden. In Forever bekommt dein Begleiter auch die Buffs vom Camping, solange er beschworen ist, während du am Lagerfeuer sitzt. Seit dem 10. November hat dein Begleiter 115 % seiner normalen Gesundheit statt 150 %, die von einem Bug kamen, [mehr in unserem Beitrag](/de/news/hunter-pets-lose-health-and-warlock-pets-gain-it/).
 
 Begleiterfähigkeiten bringen zusätzlichen Nutzen, etwa <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24423"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_vulture.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demoralizing Screech</a> und <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7272"><img class="wf-wh__icon" src="/wh/ability_hibernation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dust Cloud</a>.
+
+**Eine schnelle Katze auf 59:** <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=268231">Ta'shkal</a> auf dem Mount Hyjal greift mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263110"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faster Attack VII</a> an, das vorher nur <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2850">Broken Tooth</a> in den Badlands hatte. Finde die <a class="wf-wh wf-q0" href="https://www.wowhead.com/forever/item=276909"><img class="wf-wh__icon" src="/wh/inv_jewelcrafting_jadepanther.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Corrupted Cat Figurine</a> rund um den Fel Pool (/way 47.0 75.0) und klicke dann die Lonely Lantern bei /way 26.0 65.0 an, um sie zu beschwören und zu zähmen. Mehr in [unserem Beitrag über Ta'shkal](/de/news/tame-the-secret-hunter-pet-tashkal/).
 
 ### Kontrolle und Pulls
 
