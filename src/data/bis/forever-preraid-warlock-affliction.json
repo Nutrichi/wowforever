@@ -5,7 +5,7 @@
  "spec": "affliction",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -22,7 +22,7 @@
     },
     {
      "name": "Felcloth Hood",
-     "source": "Pattern: Felcloth Hood 245"
+     "source": "Crafted"
     }
    ]
   },
@@ -56,7 +56,7 @@
     },
     {
      "name": "Argent Shoulders",
-     "source": "Pattern: Argent Shoulders 290 Revered"
+     "source": "Crafted, pattern from Argent Dawn (Revered)"
     }
    ]
   },
@@ -73,7 +73,7 @@
     },
     {
      "name": "Hide of the Wild",
-     "source": "Pattern: Hide of the Wild 300"
+     "source": "Crafted"
     }
    ]
   },
@@ -86,7 +86,7 @@
     },
     {
      "name": "Felcloth Robe",
-     "source": "Pattern: Felcloth Robe 260"
+     "source": "Crafted"
     }
    ]
   },
@@ -95,7 +95,7 @@
    "items": [
     {
      "name": "Netherpearl Cuffs",
-     "source": "Pattern: Netherpearl Cuffs 205"
+     "source": "Crafted"
     },
     {
      "name": "Sublime Wristguards",
@@ -112,11 +112,11 @@
    "items": [
     {
      "name": "Felcloth Gloves",
-     "source": "Pattern: Felcloth Gloves 280"
+     "source": "Crafted"
     },
     {
      "name": "Gloves of Spell Mastery",
-     "source": "Pattern: Gloves of Spell Mastery 295"
+     "source": "Crafted"
     },
     {
      "name": "Master's Gloves",
@@ -129,11 +129,11 @@
    "items": [
     {
      "name": "Defiler's Cloth Girdle",
-     "source": "Honored"
+     "source": "The Defilers or The League of Arathor (Honored)"
     },
     {
      "name": "Black Waistcord",
-     "source": "Pattern: Black Waistcord 215"
+     "source": "Crafted"
     },
     {
      "name": "Ban'thok Sash",
@@ -150,7 +150,7 @@
     },
     {
      "name": "Outrider's Silk Leggings",
-     "source": "Exalted"
+     "source": "Warsong Outriders or Silverwing Sentinels (Exalted)"
     },
     {
      "name": "Skyshroud Leggings",
@@ -180,7 +180,7 @@
    "items": [
     {
      "name": "Warden's Signet of Brilliance",
-     "source": "Exalted"
+     "source": "The Watchers (Exalted)"
     },
     {
      "name": "Don Mauricio's Band of Domination",
@@ -248,11 +248,11 @@
    "items": [
     {
      "name": "Sageblade",
-     "source": "Plans: Sageblade 300"
+     "source": "Crafted"
     },
     {
      "name": "Mindfang",
-     "source": "Exalted"
+     "source": "The Defilers or The League of Arathor (Exalted)"
     }
    ]
   },

@@ -5,7 +5,7 @@
  "spec": "survival",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -44,7 +44,7 @@
    "items": [
     {
      "name": "Darkspear Epaulets",
-     "source": "Creeg Bothunk (The Barrens), (Exalted)"
+     "source": "Creeg Bothunk (The Barrens), Darkspear Raiders (Exalted)"
     },
     {
      "name": "Bone Golem Shoulders",
@@ -133,7 +133,7 @@
     },
     {
      "name": "Defiler's Chain Girdle",
-     "source": "Rutherford Twing (Arathi Highlands), (Honored)"
+     "source": "Rutherford Twing (Arathi Highlands), The Defilers (Honored)"
     }
    ]
   },
@@ -243,16 +243,16 @@
    "slot": "Main-Hand",
    "items": [
     {
-     "name": "Annihilator",
-     "source": "Crafted"
-    },
-    {
      "name": "Teebu's Blazing Longsword",
      "source": "Source not listed yet"
     },
     {
      "name": "Sword of Zeal",
      "source": "Source not listed yet"
+    },
+    {
+     "name": "Dal'Rend's Sacred Charge",
+     "source": "Warchief Rend Blackhand (Blackrock Spire)"
     }
    ]
   },

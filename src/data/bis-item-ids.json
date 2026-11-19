@@ -31314,7 +31314,7 @@
     },
     "Beastmaster's Cap": {
       "kind": "item",
-      "id": 226887,
+      "id": 22013,
       "icon": "inv_helmet_24",
       "quality": 4
     },
@@ -31356,7 +31356,7 @@
     },
     "Beastmaster's Tunic": {
       "kind": "item",
-      "id": 226886,
+      "id": 22060,
       "icon": "inv_chest_chain_03",
       "quality": 4
     },
@@ -31374,7 +31374,7 @@
     },
     "Beastmaster's Bindings": {
       "kind": "item",
-      "id": 22011,
+      "id": 226885,
       "icon": "inv_bracer_17",
       "quality": 3
     },
@@ -33273,6 +33273,12 @@
       "id": 19311,
       "icon": "inv_misc_book_09",
       "quality": 4
+    },
+    "Dal'Rend's Sacred Charge": {
+      "kind": "item",
+      "id": 12940,
+      "icon": "inv_sword_43",
+      "quality": 3
     }
   }
 }
