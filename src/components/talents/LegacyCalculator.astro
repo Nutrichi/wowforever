@@ -38,8 +38,9 @@ const base = localizePath('talents', locale);
 const categories = legacyCategories();
 const fill = categories.reduce(
   (som, cat) => som + cat.nodes.filter((n) => !n.unknown).reduce((s, n) => s + n.maxRank, 0), 0);
-// Fully uncapped (Nutri, 19 November 2026: "it's not capped anymore. Fully uncap it."): every perk can be maxed.
-const total = categories.reduce((som, cat) => som + cat.nodes.reduce((s, n) => s + n.maxRank, 0), 0);
+// Fully uncapped (Nutri, 19 November 2026: "it's not capped anymore. Fully uncap it."): every known perk can be
+// maxed. The empty "?" fields Blizzard left blank do not count, the same as in the app (69 points).
+const total = fill;
 
 const code = Astro.url.searchParams.get('l');
 const sizes = categories.map((cat) => cat.nodes.length);
