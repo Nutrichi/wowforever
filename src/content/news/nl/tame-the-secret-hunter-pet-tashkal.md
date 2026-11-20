@@ -23,6 +23,8 @@ Hunters in World of Warcraft: Forever hebben een geheim huisdier gevonden. <a cl
 
 Andere Hunters zoeken hetzelfde beeldje, dus misschien moet je wachten tot het terugkomt.
 
+**Waar precies.** Het beeldje ligt in een van de groene poelen rond de Felblood Scar in het zuiden van Hyjal, vaak onder het oppervlak: beweeg je cursor rond de witte kristallen tot je het vindt. De Lonely Lantern staat op een klif boven Deadwood Den, de furbolg-grot ten zuiden van Mourning's Rest, voorbij de Highborne-toren met een satyr ernaast. Er is geen respawntijd: met een beeldje roep je Ta'shkal meteen op. Hij is level 57 of 58, valt elke 0,85 seconden aan, kent Cower en Prowl, en leert Claw, Bite en Dash.
+
 ## Waarom het de moeite is
 
 Ta'shkal valt aan met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263110"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faster Attack VII</a>. Tot nu toe had alleen <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2850">Broken Tooth</a> dat, een zeldzame kat in de Badlands waarop je moest wachten. Aanvallen van huisdieren zijn genormaliseerd: een sneller huisdier slaat vaker, maar minder hard per slag. In dungeons en raids merk je weinig verschil met een iets tragere kat. In PvP duwen de snelle slagen spreuken vaker terug.

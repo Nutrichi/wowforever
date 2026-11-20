@@ -23,6 +23,8 @@ Les Hunters de World of Warcraft: Forever ont trouvé un familier secret. <a cla
 
 D'autres Hunters cherchent la même figurine, il faudra peut-être attendre qu'elle réapparaisse.
 
+**Où exactement.** La figurine se trouve dans l'un des bassins verts autour de la Felblood Scar, au sud d'Hyjal, souvent sous la surface : passez le curseur autour des cristaux blancs jusqu'à la trouver. La Lonely Lantern se dresse sur une falaise au-dessus de Deadwood Den, la grotte des furbolgs au sud de Mourning's Rest, après la tour highborne gardée par un satyre. Pas de temps de réapparition : avec une figurine, vous invoquez Ta'shkal tout de suite. Il est de niveau 57 ou 58, attaque toutes les 0,85 seconde, connaît Cower et Prowl, et apprend Claw, Bite et Dash.
+
 ## Pourquoi ça vaut le coup
 
 Ta'shkal attaque avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263110"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faster Attack VII</a>. Jusqu'ici, seul <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2850">Broken Tooth</a> l'avait, un chat rare des Badlands qu'il fallait guetter. Les attaques des familiers sont normalisées : un familier plus rapide frappe plus souvent, mais moins fort à chaque coup. En donjon et en raid, la différence avec un chat un peu plus lent se voit à peine. En PvP, les coups rapides repoussent plus souvent les incantations.

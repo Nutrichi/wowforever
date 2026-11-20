@@ -3,7 +3,7 @@ title: "Subir un Druid en WoW Forever: la guía"
 metaTitle: "Guía de subida de Druid en WoW Forever: la build Feral del 10 al 60"
 description: "Cómo subir un Druid en WoW Forever: una build completa de Cat Form con un talento por nivel del 10 al 60, la rotación, niveles clave, misiones de clase y armas."
 short: "Subir un Druid"
-updated: 2026-11-07
+updated: 2026-11-20
 lang: es
 manual: true
 faq:
@@ -154,6 +154,8 @@ Un Druid aprende la mayoría de sus formas con misiones de clase. La misión de 
 | 14 | Cure Poison | <a href="https://www.wowhead.com/forever/quest=6121">Lessons Anew</a>, Darnassus | <a href="https://www.wowhead.com/forever/quest=6126">Lessons Anew</a>, Thunder Bluff |
 | 16 | Aquatic Form | <a href="https://www.wowhead.com/forever/quest=26">A Lesson to Learn</a>, Darnassus | <a href="https://www.wowhead.com/forever/quest=27">A Lesson to Learn</a>, Thunder Bluff |
 | 20 | Cat Form, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1082"><img class="wf-wh__icon" src="/wh/ability_druid_rake.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Claw</a>, Prowl, Rip | The Great Cat Spirit, Darnassus | The Great Cat Spirit, Thunder Bluff |
+
+La ruta de Cure Poison y Aquatic Form, paso a paso para las dos facciones, está en [Misiones de clase del Druid](/es/classes/druid/class-quests/).
 
 Los **Skyborne** siguen su propio camino en el nivel 10. Bear Form viene de <a href="https://www.wowhead.com/forever/quest=94006">The Great Ursera Spirit</a> en Zephras Isle, y Teleport: Moonglade de la misión Moonglade, que empieza en Stormwind para el High Order y en Thunder Bluff para los Windshapers. En el 20 reciben The Great Windborne Cat Spirit: la misma cadena, con el Avatar of Saeyleenan en lugar del Great Cat Spirit.
 

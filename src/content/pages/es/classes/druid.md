@@ -3,7 +3,7 @@ title: "Druid en WoW Forever"
 metaTitle: "WoW Forever Druid: specs, talentos, rotación, stats, BiS y subida"
 description: "Todo sobre el Druid de WoW Forever en una página: los cuatro roles, talentos, rotación, estadísticas, listas BiS, subida, misiones de clase, razas, profesiones y consejos."
 short: "Druid"
-updated: 2026-11-18
+updated: 2026-11-20
 lang: es
 manual: true
 toc: true
@@ -94,6 +94,8 @@ Sube como Feral. Un gato apenas se detiene por maná o curas, y Prowl, Dash y Fe
 | 14 | Cure Poison | Darnassus | Thunder Bluff |
 | 16 | Aquatic Form | Darnassus | Thunder Bluff |
 | 20 | Cat Form, Claw, Prowl, Rip | Darnassus | Thunder Bluff |
+
+La ruta de Cure Poison y Aquatic Form, paso a paso para las dos facciones, está en [Misiones de clase del Druid](/es/classes/druid/class-quests/).
 
 Los nombres de las misiones y los pasos por facción están en la [guía de subida](/es/classes/druid/leveling/).
 

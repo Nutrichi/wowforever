@@ -146,6 +146,8 @@ export const hubCategories: HubCategory[] = [
       { key: 'flight-paths', image: '2026-09-28-wow-forever-flight-and-ship-routes-map.jpg' },
       // Reizen tussen de hoofdsteden (16 november 2026).
       { key: 'capital-city-travel', image: '2026-10-12-wow-forever-stormwind-harbor.jpg', isNew: true },
+      // Kappers: elke plek en wat je kunt veranderen (20 november 2026).
+      { key: 'barbershops', image: '2026-10-12-wow-forever-tauren-gnome-dwarf-armor.jpg', isNew: true },
       { key: 'camping', image: '2026-09-29-wow-forever-camp-in-teldrassil.jpg' },
       { key: 'built-in-ui-tools', image: '2026-10-30-wow-forever-damage-meter-option.jpg', isNew: true },
       { key: 'bmah', image: '2026-09-27-wow-forever-black-market-agents.jpg' },

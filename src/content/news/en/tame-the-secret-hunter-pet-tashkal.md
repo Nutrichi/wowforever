@@ -22,6 +22,8 @@ Hunters in World of Warcraft: Forever have found a secret pet. <a class="wf-wh w
 
 Other Hunters hunt the same figurine, so you may have to wait for it to come back.
 
+**Where exactly.** The figurine lies in one of the green pools around the Felblood Scar in southern Hyjal, often under the surface: move your cursor around the white crystals until you find it. The Lonely Lantern stands on a cliff above Deadwood Den, the furbolg cave south of Mourning's Rest, past the Highborne tower with a satyr next to it. There is no respawn timer: with a figurine you can summon Ta'shkal straight away. It is level 57 or 58, attacks every 0.85 seconds, knows Cower and Prowl, and learns Claw, Bite and Dash.
+
 ## Why it is worth it
 
 Ta'shkal attacks with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263110"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faster Attack VII</a>. Until now only <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2850">Broken Tooth</a>, a rare cat in the Badlands, had that, and you had to camp it. Pet attacks are normalized: a faster pet hits more often but for less per hit. In dungeons and raids you will hardly notice the difference with a slightly slower cat. In PvP the fast hits push back casts more often.

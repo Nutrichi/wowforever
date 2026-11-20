@@ -3,7 +3,7 @@ title: "Druid in WoW Forever"
 metaTitle: "WoW Forever Druid: specs, talents, rotation, stats, BiS and leveling"
 description: "Everything about the Druid in WoW Forever on one page: the four roles, talents, rotation, stat priority, BiS lists, leveling, class quests, races, professions and tips."
 short: "Druid"
-updated: 2026-11-18
+updated: 2026-11-20
 lang: en
 toc: true
 video: "fki2RRDQKVE"
@@ -93,6 +93,8 @@ Level as Feral. A cat hardly needs to stop for mana or healing, and Prowl, Dash 
 | 14 | Cure Poison | Darnassus | Thunder Bluff |
 | 16 | Aquatic Form | Darnassus | Thunder Bluff |
 | 20 | Cat Form, Claw, Prowl, Rip | Darnassus | Thunder Bluff |
+
+The route for Cure Poison and Aquatic Form, step by step for both factions, is in [Druid class quests](/classes/druid/class-quests/).
 
 The quest names and the steps per faction are in the [leveling guide](/classes/druid/leveling/).
 

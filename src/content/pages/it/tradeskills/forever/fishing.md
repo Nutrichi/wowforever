@@ -3,7 +3,7 @@ title: "Fishing in WoW Forever: istruttori, livellamento ed equipaggiamento"
 metaTitle: "Guida a Fishing di WoW Forever: istruttori, livellamento da 1 a 225, zone ed equipaggiamento"
 description: "Fishing in WoW Forever: ogni istruttore, come salire da 1 a 225, l’abilità che chiede ogni zona, la missione Artisan, canne, esche, cibo con un buff di Fishing, la nuova Fishing Extravaganza e gli oggetti da campo."
 short: "Fishing"
-updated: 2026-11-14
+updated: 2026-11-19
 video: 0Su2_6eVSpU
 lang: it
 faq:
@@ -12,6 +12,8 @@ faq:
   - q: "Come ottengo Artisan in Fishing?"
     a: "Dal livello 35 e 225 di Fishing, Nat Pagle a Dustwallow Marsh dà la missione Nat Pagle, Angler Extreme. Pesca i suoi quattro pesci e Artisan è tuo."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/fishing-leveling/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
 manual: true
@@ -95,7 +97,7 @@ Fishing sale in base al numero di pesci che prendi; la zona non cambia nulla. So
 | da 1 a 75 | Qualunque zona iniziale |
 | da 75 a 150 | Una capitale: Stormwind, Ironforge o Darnassus; Orgrimmar, Thunder Bluff o Undercity |
 | da 150 a 225 | Dustwallow Marsh (più facile per l’Alleanza) o Stranglethorn Vale (più facile per l’Orda) |
-| da 225 a 300 | Non ancora nella guida |
+| da 225 a 300 | Acque interne di Feralas (non Jademir Lake), Felwood, Moonglade, The Hinterlands, Un'Goro Crater o Western Plaguelands: circa 60 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8365"><img class="wf-wh__icon" src="/wh/inv_misc_fish_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Mithril Head Trout</a>, poi 150 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13758"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Redgill</a>. Oppure i Floating Wreckage lungo le coste di Feralas e Tanaris |
 
 Da 150 ti serve 225 di abilità per prendere sempre qualcosa in quelle zone, quindi usa le esche. La capitale funziona ancora se i soldi non ti interessano.
 

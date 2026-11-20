@@ -3,7 +3,7 @@ title: "Fishing dans WoW Forever : maîtres, progression et équipement"
 metaTitle: "Guide Fishing de WoW Forever : maîtres, progression de 1 à 225, zones et équipement"
 description: "Fishing dans WoW Forever : chaque maître, la progression de 1 à 225, la compétence que demande chaque zone, la quête Artisan, cannes, leurres, plats avec un buff de Fishing, la nouvelle Fishing Extravaganza et les objets de camp."
 short: "Fishing"
-updated: 2026-11-14
+updated: 2026-11-19
 video: 0Su2_6eVSpU
 lang: fr
 faq:
@@ -12,6 +12,8 @@ faq:
   - q: "Comment obtenir Artisan en Fishing ?"
     a: "Dès le niveau 35 et 225 en Fishing, Nat Pagle à Dustwallow Marsh donne la quête Nat Pagle, Angler Extreme. Pêchez ses quatre poissons et Artisan est à vous."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/fishing-leveling/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
 manual: true
@@ -95,7 +97,7 @@ Fishing progresse selon le nombre de poissons pêchés ; la zone n’y change ri
 | 1 à 75 | N’importe quelle zone de départ |
 | 75 à 150 | Une capitale : Stormwind, Ironforge ou Darnassus ; Orgrimmar, Thunder Bluff ou Undercity |
 | 150 à 225 | Dustwallow Marsh (plus simple pour l’Alliance) ou Stranglethorn Vale (plus simple pour la Horde) |
-| 225 à 300 | Pas encore dans le guide |
+| 225 à 300 | Eaux intérieures de Feralas (sauf Jademir Lake), Felwood, Moonglade, The Hinterlands, Un'Goro Crater ou Western Plaguelands : environ 60 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8365"><img class="wf-wh__icon" src="/wh/inv_misc_fish_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Mithril Head Trout</a>, puis 150 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13758"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Redgill</a>. Ou les Floating Wreckage le long des côtes de Feralas et de Tanaris |
 
 Dès 150, il faut 225 de compétence pour une prise à chaque fois dans ces zones, utilisez donc des leurres. La capitale marche encore si l’argent vous importe peu.
 

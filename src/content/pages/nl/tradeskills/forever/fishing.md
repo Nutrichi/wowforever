@@ -3,7 +3,7 @@ title: "Fishing in WoW Forever: trainers, levelen en uitrusting"
 metaTitle: "WoW Forever Fishing-gids: trainers, levelen van 1 tot 225, zones en uitrusting"
 description: "Fishing in WoW Forever: elke trainer, levelen van 1 tot 225, de skill die elke zone vraagt, de Artisan-quest, hengels, lures, eten met een Fishing-buff, de nieuwe Fishing Extravaganza en de kampobjecten."
 short: "Fishing"
-updated: 2026-11-14
+updated: 2026-11-19
 video: 0Su2_6eVSpU
 lang: nl
 faq:
@@ -12,6 +12,8 @@ faq:
   - q: "Hoe krijg ik Artisan Fishing?"
     a: "Vanaf level 35 en Fishing 225 geeft Nat Pagle in Dustwallow Marsh de quest Nat Pagle, Angler Extreme. Vang zijn vier vissen en Artisan is binnen."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/fishing-leveling/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
 manual: true
@@ -95,7 +97,7 @@ Fishing levelt op het aantal vissen dat je vangt; de zone verandert daar niets a
 | 1 tot 75 | Elk startgebied |
 | 75 tot 150 | Een hoofdstad: Stormwind, Ironforge of Darnassus; Orgrimmar, Thunder Bluff of Undercity |
 | 150 tot 225 | Dustwallow Marsh (makkelijker voor de Alliance) of Stranglethorn Vale (makkelijker voor de Horde) |
-| 225 tot 300 | Nog niet in de gids |
+| 225 tot 300 | Binnenwateren van Feralas (niet Jademir Lake), Felwood, Moonglade, The Hinterlands, Un'Goro Crater of Western Plaguelands: zo'n 60 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8365"><img class="wf-wh__icon" src="/wh/inv_misc_fish_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Mithril Head Trout</a>, daarna 150 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13758"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Redgill</a>. Of de Floating Wreckage langs de kusten van Feralas en Tanaris |
 
 Vanaf 150 heb je in die zones 225 skill nodig om altijd iets te vangen, dus gebruik er lures. De hoofdstad werkt nog als geld je niet uitmaakt.
 

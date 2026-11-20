@@ -23,6 +23,8 @@ Los Hunters de World of Warcraft: Forever han encontrado una mascota secreta. <a
 
 Otros Hunters buscan la misma figurilla, así que quizá tengas que esperar a que vuelva a salir.
 
+**Dónde exactamente.** La figurilla está en una de las charcas verdes alrededor de la Felblood Scar, al sur de Hyjal, a menudo bajo la superficie: mueve el cursor alrededor de los cristales blancos hasta encontrarla. La Lonely Lantern está en un acantilado sobre Deadwood Den, la cueva de furbolgs al sur de Mourning's Rest, pasada la torre highborne con un sátiro al lado. No hay tiempo de reaparición: con una figurilla invocas a Ta'shkal al momento. Es de nivel 57 o 58, ataca cada 0,85 segundos, conoce Cower y Prowl, y aprende Claw, Bite y Dash.
+
 ## Por qué merece la pena
 
 Ta'shkal ataca con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263110"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faster Attack VII</a>. Hasta ahora solo lo tenía <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2850">Broken Tooth</a>, un gato raro de los Badlands al que había que esperar. Los ataques de las mascotas están normalizados: una mascota más rápida golpea más a menudo, pero menos fuerte en cada golpe. En mazmorras y bandas apenas notarás la diferencia con un gato algo más lento. En PvP los golpes rápidos interrumpen más los lanzamientos.

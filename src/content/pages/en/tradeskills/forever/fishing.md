@@ -3,7 +3,7 @@ title: "Fishing in WoW Forever: trainers, leveling and gear"
 metaTitle: "WoW Forever Fishing guide: trainers, leveling 1 to 225, zones and gear"
 description: "Fishing in WoW Forever: every trainer, leveling from 1 to 225, the skill each zone needs, the Artisan quest, poles, lures, food with a Fishing buff, the new Fishing Extravaganza and the camp objects."
 short: "Fishing"
-updated: 2026-11-14
+updated: 2026-11-19
 video: 0Su2_6eVSpU
 lang: en
 faq:
@@ -12,6 +12,8 @@ faq:
   - q: "How do I get Artisan Fishing?"
     a: "At character level 35 and Fishing 225, Nat Pagle in Dustwallow Marsh gives Nat Pagle, Angler Extreme. Catch his four fish and Artisan is yours."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/fishing-leveling/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
 ---
@@ -94,7 +96,7 @@ Fishing levels by the number of fish you catch; the zone does not change that. B
 | 1 to 75 | Any starting zone |
 | 75 to 150 | A capital: Stormwind, Ironforge or Darnassus; Orgrimmar, Thunder Bluff or Undercity |
 | 150 to 225 | Dustwallow Marsh (easier for the Alliance) or Stranglethorn Vale (easier for the Horde) |
-| 225 to 300 | Not in the guide yet |
+| 225 to 300 | Inland waters of Feralas (not Jademir Lake), Felwood, Moonglade, The Hinterlands, Un'Goro Crater or Western Plaguelands: about 60 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8365"><img class="wf-wh__icon" src="/wh/inv_misc_fish_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Mithril Head Trout</a>, then 150 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13758"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Redgill</a>. Or the Floating Wreckage along the coasts of Feralas and Tanaris |
 
 From 150 you need 225 skill for a catch every time in those zones, so use lures there. The capital still works if you do not care about money.
 

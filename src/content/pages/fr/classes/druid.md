@@ -3,7 +3,7 @@ title: "Druid dans WoW Forever"
 metaTitle: "WoW Forever Druid : spés, talents, rotation, stats, BiS et leveling"
 description: "Tout sur le Druid de WoW Forever sur une page : les quatre rôles, talents, rotation, stats, listes BiS, leveling, quêtes de classe, races, métiers et astuces."
 short: "Druid"
-updated: 2026-11-18
+updated: 2026-11-20
 lang: fr
 manual: true
 toc: true
@@ -94,6 +94,8 @@ Montez en Feral. Un chat s’arrête à peine pour la mana ou les soins, et Prow
 | 14 | Cure Poison | Darnassus | Thunder Bluff |
 | 16 | Aquatic Form | Darnassus | Thunder Bluff |
 | 20 | Cat Form, Claw, Prowl, Rip | Darnassus | Thunder Bluff |
+
+Le parcours pour Cure Poison et Aquatic Form, pas à pas pour les deux factions, est dans [Quêtes de classe du Druid](/fr/classes/druid/class-quests/).
 
 Les noms des quêtes et les étapes par faction sont dans le [guide de leveling](/fr/classes/druid/leveling/).
 

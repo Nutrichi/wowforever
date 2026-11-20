@@ -3,7 +3,7 @@ title: "Druid in WoW Forever"
 metaTitle: "WoW Forever Druid: spec, talenti, rotazione, stats, BiS e livellamento"
 description: "Tutto sul Druid di WoW Forever in una pagina: i quattro ruoli, talenti, rotazione, statistiche, liste BiS, livellamento, missioni di classe, razze, professioni e consigli."
 short: "Druid"
-updated: 2026-11-18
+updated: 2026-11-20
 lang: it
 manual: true
 toc: true
@@ -94,6 +94,8 @@ Livella come Feral. Un gatto quasi non si ferma per mana o cure, e Prowl, Dash e
 | 14 | Cure Poison | Darnassus | Thunder Bluff |
 | 16 | Aquatic Form | Darnassus | Thunder Bluff |
 | 20 | Cat Form, Claw, Prowl, Rip | Darnassus | Thunder Bluff |
+
+Il percorso per Cure Poison e Aquatic Form, passo per passo per entrambe le fazioni, è in [Missioni di classe del Druid](/it/classes/druid/class-quests/).
 
 I nomi delle missioni e i passaggi per fazione sono nella [guida al livellamento](/it/classes/druid/leveling/).
 

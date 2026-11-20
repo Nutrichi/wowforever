@@ -3,7 +3,7 @@ title: "Druid in WoW Forever"
 metaTitle: "WoW Forever Druid: specs, talenten, rotatie, stats, BiS en levelen"
 description: "Alles over de Druid in WoW Forever op één pagina: de vier rollen, talenten, rotatie, stats, BiS-lijsten, levelen, classquests, rassen, beroepen en tips."
 short: "Druid"
-updated: 2026-11-18
+updated: 2026-11-20
 lang: nl
 manual: true
 toc: true
@@ -94,6 +94,8 @@ Level als Feral. Een cat hoeft amper te stoppen voor mana of healing, en Prowl, 
 | 14 | Cure Poison | Darnassus | Thunder Bluff |
 | 16 | Aquatic Form | Darnassus | Thunder Bluff |
 | 20 | Cat Form, Claw, Prowl, Rip | Darnassus | Thunder Bluff |
+
+De route voor Cure Poison en Aquatic Form, stap voor stap voor beide facties, staat in [Druid-classquests](/nl/classes/druid/class-quests/).
 
 De questnamen en de stappen per factie staan in de [levelgids](/nl/classes/druid/leveling/).
 

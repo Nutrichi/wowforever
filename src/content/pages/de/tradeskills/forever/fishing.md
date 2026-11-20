@@ -3,7 +3,7 @@ title: "Fishing in WoW Forever: Lehrer, Skillen und Ausrüstung"
 metaTitle: "WoW Forever Fishing-Guide: Lehrer, Skillen von 1 bis 225, Zonen und Ausrüstung"
 description: "Fishing in WoW Forever: jeder Lehrer, Skillen von 1 bis 225, der Skill, den jede Zone verlangt, die Artisan-Quest, Angeln, Köder, Essen mit Fishing-Buff, die neue Fishing Extravaganza und die Lagerobjekte."
 short: "Fishing"
-updated: 2026-11-14
+updated: 2026-11-19
 video: 0Su2_6eVSpU
 lang: de
 faq:
@@ -12,6 +12,8 @@ faq:
   - q: "Wie bekomme ich Artisan in Fishing?"
     a: "Ab Stufe 35 und Fishing 225 gibt Nat Pagle in Dustwallow Marsh die Quest Nat Pagle, Angler Extreme. Fang seine vier Fische, und Artisan gehört dir."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/fishing-leveling/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
 manual: true
@@ -95,7 +97,7 @@ Fishing steigt mit der Zahl der gefangenen Fische; die Zone ändert daran nichts
 | 1 bis 75 | Jedes Startgebiet |
 | 75 bis 150 | Eine Hauptstadt: Stormwind, Ironforge oder Darnassus; Orgrimmar, Thunder Bluff oder Undercity |
 | 150 bis 225 | Dustwallow Marsh (leichter für die Allianz) oder Stranglethorn Vale (leichter für die Horde) |
-| 225 bis 300 | Noch nicht im Guide |
+| 225 bis 300 | Binnengewässer von Feralas (nicht Jademir Lake), Felwood, Moonglade, The Hinterlands, Un'Goro Crater oder Western Plaguelands: etwa 60 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8365"><img class="wf-wh__icon" src="/wh/inv_misc_fish_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Mithril Head Trout</a>, danach 150 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13758"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Redgill</a>. Oder die Floating Wreckage an den Küsten von Feralas und Tanaris |
 
 Ab 150 brauchst du dort 225 Skill für einen sicheren Fang, also nimm Köder. Die Hauptstadt geht weiter, wenn dir Gold egal ist.
 

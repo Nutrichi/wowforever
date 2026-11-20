@@ -23,6 +23,8 @@ Gli Hunter di World of Warcraft: Forever hanno trovato un famiglio segreto. <a c
 
 Altri Hunter cercano la stessa statuetta, quindi forse dovrai aspettare che ricompaia.
 
+**Dove esattamente.** La statuetta è in una delle pozze verdi intorno alla Felblood Scar, nel sud di Hyjal, spesso sotto la superficie: muovi il cursore intorno ai cristalli bianchi finché la trovi. La Lonely Lantern è su una scogliera sopra Deadwood Den, la grotta dei furbolg a sud di Mourning's Rest, oltre la torre highborne con un satiro accanto. Non c'è tempo di ricomparsa: con una statuetta evochi Ta'shkal subito. È di livello 57 o 58, attacca ogni 0,85 secondi, conosce Cower e Prowl, e impara Claw, Bite e Dash.
+
 ## Perché ne vale la pena
 
 Ta'shkal attacca con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263110"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faster Attack VII</a>. Finora l'aveva solo <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2850">Broken Tooth</a>, un gatto raro delle Badlands da aspettare a lungo. Gli attacchi dei famigli sono normalizzati: un famiglio più veloce colpisce più spesso, ma meno forte a ogni colpo. In dungeon e raid noterai poca differenza con un gatto un po' più lento. In PvP i colpi rapidi interrompono più spesso i lanci.

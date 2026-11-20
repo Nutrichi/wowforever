@@ -23,6 +23,8 @@ Hunter in World of Warcraft: Forever haben ein geheimes Begleittier gefunden. <a
 
 Andere Hunter suchen dieselbe Figur, eventuell musst du warten, bis sie wieder erscheint.
 
+**Wo genau.** Die Figur liegt in einem der grünen Tümpel rund um die Felblood Scar im Süden von Hyjal, oft unter der Oberfläche: Fahr mit dem Mauszeiger um die weißen Kristalle, bis du sie findest. Die Lonely Lantern steht auf einer Klippe über Deadwood Den, der Furbolghöhle südlich von Mourning's Rest, hinter dem Hochgeborenenturm mit einem Satyr daneben. Es gibt keinen Respawn-Timer: Mit einer Figur beschwörst du Ta'shkal sofort. Sie ist Stufe 57 oder 58, greift alle 0,85 Sekunden an, kennt Cower und Prowl und lernt Claw, Bite und Dash.
+
 ## Warum es sich lohnt
 
 Ta'shkal greift mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1263110"><img class="wf-wh__icon" src="/wh/ability_eyeoftheowl.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faster Attack VII</a> an. Bisher hatte das nur <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2850">Broken Tooth</a>, eine seltene Katze in den Badlands, auf die man lange warten musste. Angriffe von Begleittieren sind normalisiert: Ein schnelleres Tier schlägt öfter zu, aber pro Schlag schwächer. In Dungeons und Raids merkst du kaum einen Unterschied zu einer etwas langsameren Katze. Im PvP schieben die schnellen Schläge Zauber öfter zurück.

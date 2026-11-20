@@ -3,7 +3,7 @@ title: "Fishing en WoW Forever: instructores, subida y equipo"
 metaTitle: "Guía de Fishing de WoW Forever: instructores, subida de 1 a 225, zonas y equipo"
 description: "Fishing en WoW Forever: cada instructor, cómo subir de 1 a 225, la habilidad que pide cada zona, la misión Artisan, cañas, cebos, comida con un buff de Fishing, la nueva Fishing Extravaganza y los objetos de campamento."
 short: "Fishing"
-updated: 2026-11-14
+updated: 2026-11-19
 video: 0Su2_6eVSpU
 lang: es
 faq:
@@ -12,6 +12,8 @@ faq:
   - q: "¿Cómo consigo Artisan en Fishing?"
     a: "Desde el nivel 35 y 225 de Fishing, Nat Pagle en Dustwallow Marsh da la misión Nat Pagle, Angler Extreme. Pesca sus cuatro peces y Artisan es tuyo."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/fishing-leveling/"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/guide/professions/fishing/overview-leveling"
 manual: true
@@ -95,7 +97,7 @@ Fishing sube según el número de peces que pescas; la zona no cambia eso. Por d
 | 1 a 75 | Cualquier zona de inicio |
 | 75 a 150 | Una capital: Stormwind, Ironforge o Darnassus; Orgrimmar, Thunder Bluff o Undercity |
 | 150 a 225 | Dustwallow Marsh (más fácil para la Alliance) o Stranglethorn Vale (más fácil para la Horde) |
-| 225 a 300 | Aún no está en la guía |
+| 225 a 300 | Aguas interiores de Feralas (no Jademir Lake), Felwood, Moonglade, The Hinterlands, Un'Goro Crater o Western Plaguelands: unos 60 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8365"><img class="wf-wh__icon" src="/wh/inv_misc_fish_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Mithril Head Trout</a> y luego 150 <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13758"><img class="wf-wh__icon" src="/wh/inv_misc_fish_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Raw Redgill</a>. O los Floating Wreckage en las costas de Feralas y Tanaris |
 
 Desde 150 necesitas 225 de habilidad para pescar algo siempre en esas zonas, así que usa cebos. La capital sigue sirviendo si no te importa el dinero.
 
