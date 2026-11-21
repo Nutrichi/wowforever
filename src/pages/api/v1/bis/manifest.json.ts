@@ -10,7 +10,7 @@
  */
 
 import type { APIRoute } from 'astro';
-import { bisEras, phaseContent, phaseIds } from '../../../../config/bis';
+import { listEras, phaseContent, phaseIds } from '../../../../config/bis';
 import { getBisLists, phasesWithLists } from '../../../../lib/bis';
 import { jsonResponse } from '../../../../lib/api-feed';
 import { BIS_SCHEMA, apiBisId } from '../../../../lib/api-bis';
@@ -19,10 +19,12 @@ import { paneSlotWords } from '../../../../i18n/bis';
 
 export const GET: APIRoute = async ({ site }) => {
   const base = site ?? new URL('https://wowforever.be');
-  // Forever staat (nog) niet in de API (config/bis.ts), dus ook niet in de telling.
-  const lists = getBisLists().filter((list) => list.era !== 'forever');
+  /* Forever staat vooraan (Nutri, 21 november 2026: de app toonde de lijsten van
+     Forever nog niet). De app kent de schakelaar Alliance/Horde niet; een lijst met
+     een Horde-variant (Holy Paladin) gaat met de Alliance-items mee, de site toont beide. */
+  const lists = getBisLists();
 
-  const eras = bisEras.map((era) => ({
+  const eras = listEras.map((era) => ({
     era,
     phases: phasesWithLists(era).map((phase) => {
       const content = phaseContent[era]?.[phase];

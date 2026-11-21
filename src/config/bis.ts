@@ -22,7 +22,7 @@ export const bisEras = ['classic', 'tbc', 'wotlk', 'cata', 'mop'] as const;
  * Alle era's met lijsten: Forever erbij sinds 18 oktober 2026, met de lijsten van
  * de beta op level 30 (Nutri: "In BIS -> Forever, and then call it "Beta""). Forever
  * heeft geen eigen /bis/forever/: dat is /bis/ zelf, zoals voorheen. De API van de
- * app blijft op `bisEras`: de app kent de schakelaar Alliance/Horde nog niet.
+ * app gebruikt `listEras` (sinds 21 november 2026), zonder de schakelaar Alliance/Horde.
  */
 export const listEras = ['forever', ...bisEras] as const;
 export type BisEra = (typeof listEras)[number];
