@@ -13,6 +13,8 @@ tags: ["forever", "skyborne"]
 featured: false
 draft: false
 ---
+> **Update 20 november:** een hotfix van 19 november geeft de Skyborne toch de 10% korting bij Honored. Meer in [onze post](/nl/news/skyborne-now-get-10-percent-off-riding-at-honored/).
+
 Spelers met een Skyborne krijgen geen korting op rijtraining in World of Warcraft: Forever. Elk ander ras bespaart 10% op Honored bij zijn eigen factie, maar de Skyborne betalen nog altijd de volle 1.000 goud voor Journeyman Riding. Hun rijtrainer lijkt de oorzaak.
 
 ## Wat de korting waard is

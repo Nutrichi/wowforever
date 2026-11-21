@@ -3,7 +3,7 @@ title: "City of Dalaran"
 metaTitle: "Guide zur City of Dalaran für WoW Forever: Schlüssel, Trash und Bosse"
 description: "So spielst du die City of Dalaran in WoW Forever: der Weg hinein für beide Fraktionen, der Dalaran Sewer Key, der arkane Trash und die Taktik für alle acht Bosse."
 short: "Guide"
-updated: 2026-10-26
+updated: 2026-11-20
 lang: de
 manual: true
 sources:
@@ -158,7 +158,7 @@ Im Handelsviertel der Stadt. Töte die Angry Tomes, die aus den Gebäuden kommen
 
 ### Shade of the Archmage
 
-Der Endboss, im Purple Parlor oben in der Violet Citadel. Sprich mit Archmage Modera auf den Stufen vor der Violet Citadel im Nordwesten der Stadt, um nach oben teleportiert zu werden; der Shade erscheint, wenn du eintrittst. Arcane Bolt trifft den Tank hart. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> schickt eine Manakugel zu einem Spieler und zurück, die jeden auf ihrer Bahn verletzt und 6 Sekunden zum Schweigen bringt: Stell dich nicht zwischen ihn und diesen Spieler. Danach folgt Arcane Explosion auf alle im Umkreis von 20 Metern. Ist sein Mana leer, zaubert er Mass Polymorph auf die ganze Gruppe, 8 Sekunden lang, und füllt es mit Evocation wieder auf, dann beginnt der Kampf von vorn. Verteilt euch, haltet die Zauberer auf Abstand und versteckt euch während Mass Polymorph hinter der Wand. Verlässt jemand den Raum, setzt er auf volle Gesundheit zurück.
+Der Endboss, im Purple Parlor oben in der Violet Citadel. Sprich mit Archmage Modera auf den Stufen vor der Violet Citadel im Nordwesten der Stadt, um nach oben teleportiert zu werden; der Shade erscheint, wenn du eintrittst. Arcane Bolt trifft den Tank hart. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> schickt eine Manakugel zu einem Spieler und zurück, die jeden auf ihrer Bahn verletzt und 6 Sekunden zum Schweigen bringt: Stell dich nicht zwischen ihn und diesen Spieler. Danach folgt Arcane Explosion auf alle im Umkreis von 20 Metern. Ist sein Mana leer, zaubert er Mass Polymorph auf die ganze Gruppe, 8 Sekunden lang, und füllt es mit Evocation wieder auf, dann beginnt der Kampf von vorn. Verteilt euch, haltet die Zauberer auf Abstand und versteckt euch während Mass Polymorph hinter der Wand. Verlässt jemand den Raum, setzt er auf volle Gesundheit zurück. Seit einem Hotfix vom 19. November verschwindet er nicht mehr, sobald der Kampf beginnt.
 
 ### Mana Devourer
 

@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 20 novembre :** les Motes of Unstable Magic sont liées depuis le 19 novembre et ne se vendent plus. Plus de détails dans [notre article](/fr/news/motes-of-unstable-magic-are-now-soulbound/).
+
 > **Mise à jour du 17 novembre :** Blizzard retire tout l'or de la ferme et suspend les pires abuseurs. Plus dans [notre article](/fr/news/blizzard-suspends-the-blackmaw-hold-gold-farmers/).
 
 Une ferme à or de Blackmaw Hold ne marche plus dans World of Warcraft: Forever. Des groupes vidaient une salle d'environ 30 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=277474">Blackmaw Devotees</a>, réinitialisaient le donjon et recommençaient, pour plus de 100 pièces d'or par heure. Un hotfix a supprimé tout le butin de ces monstres.

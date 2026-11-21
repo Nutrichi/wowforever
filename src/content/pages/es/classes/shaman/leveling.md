@@ -3,7 +3,7 @@ title: "Guía de leveling del Shaman en WoW Forever"
 metaTitle: "WoW Forever leveling de Shaman: Enhancement, Elemental y Resto"
 description: "Subir un Shaman en WoW Forever: builds de nivel 60 para Enhancement, Elemental y Restoration, niveles clave, misiones de tótems, armas de Call of Air y zonas."
 short: "Leveling de Shaman"
-updated: 2026-11-12
+updated: 2026-11-20
 lang: es
 manual: true
 faq:
@@ -99,7 +99,7 @@ Tus tótems piden un objeto por elemento en tus bolsas. Los consigues con mision
 
 | Tótem | Nivel | Misión |
 |---|---|---|
-| Earth Totem | 4 (3 para Skyborne) | Call of Earth, en tu zona inicial: Zephras Isle, Durotar, Mulgore o Dun Morogh |
+| Earth Totem | 4 (3 para Skyborne) | Call of Earth, en tu zona inicial: Zephras Isle, Durotar, Mulgore o Dun Morogh. Los Skyborne no reciben Stoneskin Totem por ahora, Blizzard [lo investiga](/es/news/blizzard-looks-into-three-bugged-quests/) |
 | Fire Totem | 10 | Call of Fire, en Durotar (Horde), Zephras Isle (Skyborne) o Loch Modan (Dwarf) |
 | Water Totem | 20 | Call of Water, desde Orgrimmar o Thunder Bluff para la Horde, Ironforge para los Dwarves |
 | Air Totem | 30 | Call of Air, desde Orgrimmar o Thunder Bluff para la Horde, Ironforge para la Alliance |

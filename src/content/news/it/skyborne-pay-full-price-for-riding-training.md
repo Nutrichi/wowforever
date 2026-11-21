@@ -13,6 +13,8 @@ tags: ["forever", "skyborne"]
 featured: false
 draft: false
 ---
+> **Aggiornamento del 20 novembre:** un hotfix del 19 novembre dà alla fine agli Skyborne lo sconto del 10% a Honored. Di più nel [nostro articolo](/it/news/skyborne-now-get-10-percent-off-riding-at-honored/).
+
 I giocatori Skyborne non hanno sconti sull'addestramento alla cavalcatura in World of Warcraft: Forever. Ogni altra razza risparmia il 10% a Honored con la propria fazione, ma gli Skyborne pagano ancora 1.000 oro per Journeyman Riding. La causa sembra essere il loro istruttore.
 
 ## Quanto vale lo sconto

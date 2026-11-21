@@ -3,7 +3,7 @@ title: "City of Dalaran"
 metaTitle: "City of Dalaran in WoW Forever: sleutel, trash en bazen"
 description: "Zo speel je de City of Dalaran in WoW Forever: de weg erheen voor beide facties, de Dalaran Sewer Key, de arcane trash en de tactiek voor alle acht de bazen."
 short: "Gids"
-updated: 2026-10-26
+updated: 2026-11-20
 lang: nl
 manual: true
 sources:
@@ -158,7 +158,7 @@ In het handelsdeel van de stad. Dood de Angry Tomes die uit de gebouwen komen vo
 
 ### Shade of the Archmage
 
-De laatste baas, in de Purple Parlor boven in de Violet Citadel. Praat met Archmage Modera op de trappen voor de Violet Citadel in het noordwesten van de stad om naar boven geteleporteerd te worden; de Shade verschijnt als je binnenkomt. Arcane Bolt raakt de tank hard. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> stuurt een bol mana naar een speler en terug, die iedereen op zijn pad pijn doet en 6 seconden het zwijgen oplegt: ga niet tussen hem en die speler staan. Daarna volgt Arcane Explosion op iedereen binnen 20 yards. Is zijn mana op, dan cast hij Mass Polymorph op de hele groep, 8 seconden lang, en vult hij zijn mana bij met Evocation, waarna het gevecht opnieuw begint. Sta verspreid, houd de casters op afstand en verstop je achter de muur tijdens Mass Polymorph. Verlaat iemand de kamer, dan reset hij naar volle health.
+De laatste baas, in de Purple Parlor boven in de Violet Citadel. Praat met Archmage Modera op de trappen voor de Violet Citadel in het noordwesten van de stad om naar boven geteleporteerd te worden; de Shade verschijnt als je binnenkomt. Arcane Bolt raakt de tank hard. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> stuurt een bol mana naar een speler en terug, die iedereen op zijn pad pijn doet en 6 seconden het zwijgen oplegt: ga niet tussen hem en die speler staan. Daarna volgt Arcane Explosion op iedereen binnen 20 yards. Is zijn mana op, dan cast hij Mass Polymorph op de hele groep, 8 seconden lang, en vult hij zijn mana bij met Evocation, waarna het gevecht opnieuw begint. Sta verspreid, houd de casters op afstand en verstop je achter de muur tijdens Mass Polymorph. Verlaat iemand de kamer, dan reset hij naar volle health. Sinds een hotfix van 19 november verdwijnt hij niet meer zodra het gevecht begint.
 
 ### Mana Devourer
 

@@ -12,6 +12,8 @@ tags: ["forever", "skyborne"]
 featured: false
 draft: false
 ---
+> **Update 20 November:** a hotfix on 19 November gives the Skyborne the 10% discount at Honored after all. More in [our post](/news/skyborne-now-get-10-percent-off-riding-at-honored/).
+
 Skyborne players get no discount on riding training in World of Warcraft: Forever. Every other race saves 10% at Honored with its own faction, but the Skyborne still pay the full 1,000 gold for Journeyman Riding. Their riding trainer seems to be the cause.
 
 ## What the discount is worth

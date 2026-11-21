@@ -3,7 +3,7 @@ title: "Levelgids voor de Shaman in WoW Forever"
 metaTitle: "WoW Forever Shaman levelen: Enhancement, Elemental en Resto"
 description: "Zo level je een Shaman in WoW Forever: builds voor level 60 voor Enhancement, Elemental en Restoration, belangrijke levels, de totemquests, de wapens van Call of Air en zones."
 short: "Shaman levelen"
-updated: 2026-11-12
+updated: 2026-11-20
 lang: nl
 manual: true
 faq:
@@ -99,7 +99,7 @@ Je totems vragen per element een item in je tassen. Die verdien je met classques
 
 | Totem | Level | Quest |
 |---|---|---|
-| Earth Totem | 4 (3 voor Skyborne) | Call of Earth, in je startzone: Zephras Isle, Durotar, Mulgore of Dun Morogh |
+| Earth Totem | 4 (3 voor Skyborne) | Call of Earth, in je startzone: Zephras Isle, Durotar, Mulgore of Dun Morogh. Skyborne krijgen Stoneskin Totem er nu niet van, Blizzard [onderzoekt het](/nl/news/blizzard-looks-into-three-bugged-quests/) |
 | Fire Totem | 10 | Call of Fire, in Durotar (Horde), Zephras Isle (Skyborne) of Loch Modan (Dwarf) |
 | Water Totem | 20 | Call of Water, vanuit Orgrimmar of Thunder Bluff voor de Horde, Ironforge voor Dwarves |
 | Air Totem | 30 | Call of Air, vanuit Orgrimmar of Thunder Bluff voor de Horde, Ironforge voor de Alliance |

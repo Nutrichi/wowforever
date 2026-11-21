@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Retribution Paladin: build, rotatie en seals"
 description: "De Retribution Paladin in WoW Forever: de build voor level 60, de rotatie met Seal of Command, Judgements, blessings, stats en races."
 short: "Retribution Paladin"
-updated: 2026-11-14
+updated: 2026-11-20
 lang: nl
 manual: true
 faq:
@@ -92,7 +92,7 @@ De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in d
 | **Seal of Command** | Kans om 70% van je wapenschade nog eens als Holy-schade te doen, dus een traag wapen wint het meest |
 | **Pursuit of Justice** | 15% snelheid, ook op je mount |
 | **Sacred Arbiter** | Holy Strike doet 20% meer schade en ververst elke Judgement op het doelwit, ook die van andere Paladins |
-| **Two-Handed Weapon Specialization** | 6% meer schade met tweehandige wapens |
+| **Two-Handed Weapon Specialization** | 6% meer schade met tweehandige wapens, sinds 19 november ook op alle Holy-schade |
 | **Vengeance** | 3% meer Physical- en Holy-schade gedurende 30 seconden na een critical strike, tot 3 keer stapelbaar |
 | **Champion of the Light** | Spell damage gelijk aan tot 30% van je Intellect |
 | **Unsealed Wrath** | Meleeaanvallen slaan je Seal op, tot 3 keer. Een slag met een andere Seal gebruikt de stacks voor extra kansen |

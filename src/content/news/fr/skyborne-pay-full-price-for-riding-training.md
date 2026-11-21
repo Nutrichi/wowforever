@@ -13,6 +13,8 @@ tags: ["forever", "skyborne"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 20 novembre :** un hotfix du 19 novembre donne finalement aux Skyborne la remise de 10 % à Honored. Plus de détails dans [notre article](/fr/news/skyborne-now-get-10-percent-off-riding-at-honored/).
+
 Les joueurs Skyborne n'ont aucune réduction sur l'apprentissage de la monte dans World of Warcraft: Forever. Toutes les autres races économisent 10 % à Honored avec leur faction, mais les Skyborne paient toujours 1 000 pièces d'or pour Journeyman Riding. Leur maître de monte semble en être la cause.
 
 ## Ce que vaut la réduction

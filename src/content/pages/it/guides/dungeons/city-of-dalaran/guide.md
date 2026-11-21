@@ -3,7 +3,7 @@ title: "City of Dalaran"
 metaTitle: "Guida alla City of Dalaran per WoW Forever: chiave, trash e boss"
 description: "Come affrontare la City of Dalaran in WoW Forever: l’ingresso per entrambe le fazioni, la Dalaran Sewer Key, il trash arcano e la tattica per tutti gli otto boss."
 short: "Guida"
-updated: 2026-10-26
+updated: 2026-11-20
 lang: it
 manual: true
 sources:
@@ -158,7 +158,7 @@ Nella zona commerciale della città. Uccidete gli Angry Tomes che escono dagli e
 
 ### Shade of the Archmage
 
-Il boss finale, nel Purple Parlor in cima alla Violet Citadel. Parlate con Archmage Modera sui gradini davanti alla Violet Citadel, a nord-ovest della città, per essere teletrasportati in alto; lo Shade compare quando entrate. Arcane Bolt colpisce forte il tank. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> manda una sfera di mana verso un giocatore e indietro, che ferisce e silenzia per 6 secondi chiunque sia sulla sua traiettoria: non mettetevi tra lui e quel giocatore. Segue Arcane Explosion, che colpisce tutti entro 20 metri. Quando finisce il mana, lancia Mass Polymorph su tutto il gruppo per 8 secondi e lo ricarica con Evocation, e lo scontro ricomincia. Sparpagliatevi, tenete gli incantatori a distanza e nascondetevi dietro il muro durante Mass Polymorph. Se qualcuno esce dalla stanza, torna a salute piena.
+Il boss finale, nel Purple Parlor in cima alla Violet Citadel. Parlate con Archmage Modera sui gradini davanti alla Violet Citadel, a nord-ovest della città, per essere teletrasportati in alto; lo Shade compare quando entrate. Arcane Bolt colpisce forte il tank. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> manda una sfera di mana verso un giocatore e indietro, che ferisce e silenzia per 6 secondi chiunque sia sulla sua traiettoria: non mettetevi tra lui e quel giocatore. Segue Arcane Explosion, che colpisce tutti entro 20 metri. Quando finisce il mana, lancia Mass Polymorph su tutto il gruppo per 8 secondi e lo ricarica con Evocation, e lo scontro ricomincia. Sparpagliatevi, tenete gli incantatori a distanza e nascondetevi dietro il muro durante Mass Polymorph. Se qualcuno esce dalla stanza, torna a salute piena. Da un hotfix del 19 novembre non scompare più appena inizia il combattimento.
 
 ### Mana Devourer
 

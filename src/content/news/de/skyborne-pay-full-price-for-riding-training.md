@@ -13,6 +13,8 @@ tags: ["forever", "skyborne"]
 featured: false
 draft: false
 ---
+> **Update 20. November:** Ein Hotfix vom 19. November gibt den Skyborne doch den Rabatt von 10 % ab Honored. Mehr in [unserem Beitrag](/de/news/skyborne-now-get-10-percent-off-riding-at-honored/).
+
 Skyborne-Spieler bekommen in World of Warcraft: Forever keinen Rabatt auf das Reittraining. Jedes andere Volk spart bei Honored mit der eigenen Fraktion 10 %, die Skyborne zahlen aber weiter die vollen 1.000 Gold für Journeyman Riding. Ihr Reitlehrer scheint die Ursache zu sein.
 
 ## Was der Rabatt wert ist

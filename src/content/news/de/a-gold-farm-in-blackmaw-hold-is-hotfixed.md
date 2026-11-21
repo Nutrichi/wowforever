@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 20. November:** Motes of Unstable Magic sind seit dem 19. November seelengebunden und lassen sich nicht mehr verkaufen. Mehr in [unserem Beitrag](/de/news/motes-of-unstable-magic-are-now-soulbound/).
+
 > **Update 17. November:** Blizzard entfernt das ganze Gold der Farm und sperrt die schlimmsten Ausnutzer. Mehr in [unserem Beitrag](/de/news/blizzard-suspends-the-blackmaw-hold-gold-farmers/).
 
 Eine Goldfarm in Blackmaw Hold funktioniert in World of Warcraft: Forever nicht mehr. Gruppen räumten einen Raum mit etwa 30 <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=277474">Blackmaw Devotees</a> leer, setzten den Dungeon zurück und fingen von vorn an, für mehr als 100 Gold pro Stunde. Ein Hotfix nahm diesen Monstern die ganze Beute.

@@ -3,7 +3,7 @@ title: "City of Dalaran"
 metaTitle: "City of Dalaran guide for WoW Forever: the key, trash and bosses"
 description: "How to run the City of Dalaran in WoW Forever: the way in for both factions, the Dalaran Sewer Key, the arcane trash and the tactics for all eight bosses."
 short: "Guide"
-updated: 2026-10-26
+updated: 2026-11-20
 lang: en
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
@@ -157,7 +157,7 @@ In the trade area of the city. Kill the Angry Tomes that come out of the buildin
 
 ### Shade of the Archmage
 
-The final boss, in the Purple Parlor at the top of the Violet Citadel. Talk to Archmage Modera on the steps in front of the Violet Citadel in the northwest of the city to be teleported up; the Shade appears when you enter. Arcane Bolt hits the tank hard. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> sends a sphere of mana out to a player and back, and it hurts and silences everyone in its path for 6 seconds: do not stand between him and that player. Arcane Explosion follows and hits everyone within 20 yards. When his mana runs dry, he casts Mass Polymorph on the whole group for 8 seconds and refills it with Evocation, and the fight starts over. Spread out, keep the casters at range and hide behind the wall during Mass Polymorph. If anyone leaves the room, he resets to full health.
+The final boss, in the Purple Parlor at the top of the Violet Citadel. Talk to Archmage Modera on the steps in front of the Violet Citadel in the northwest of the city to be teleported up; the Shade appears when you enter. Arcane Bolt hits the tank hard. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> sends a sphere of mana out to a player and back, and it hurts and silences everyone in its path for 6 seconds: do not stand between him and that player. Arcane Explosion follows and hits everyone within 20 yards. When his mana runs dry, he casts Mass Polymorph on the whole group for 8 seconds and refills it with Evocation, and the fight starts over. Spread out, keep the casters at range and hide behind the wall during Mass Polymorph. If anyone leaves the room, he resets to full health. Since a hotfix on 19 November he no longer despawns as soon as the fight starts.
 
 ### Mana Devourer
 

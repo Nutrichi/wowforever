@@ -13,6 +13,8 @@ tags: ["forever", "skyborne"]
 featured: false
 draft: false
 ---
+> **Actualización del 20 de noviembre:** un hotfix del 19 de noviembre da al final a los Skyborne el descuento del 10% en Honored. Más en [nuestro artículo](/es/news/skyborne-now-get-10-percent-off-riding-at-honored/).
+
 Los jugadores Skyborne no tienen descuento en el entrenamiento de monta en World of Warcraft: Forever. Las demás razas ahorran un 10 % con Honored en su propia facción, pero los Skyborne siguen pagando 1000 de oro por Journeyman Riding. Su instructor de monta parece ser la causa.
 
 ## Lo que vale el descuento

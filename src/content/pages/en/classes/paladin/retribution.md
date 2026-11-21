@@ -3,7 +3,7 @@ title: "Retribution Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Retribution Paladin: build, rotation and seals"
 description: "The Retribution Paladin in WoW Forever: the level 60 build, the rotation with Seal of Command, Judgements, blessings, stats and races."
 short: "Retribution Paladin"
-updated: 2026-11-14
+updated: 2026-11-20
 lang: en
 faq:
   - q: "Is Retribution Paladin good in WoW Forever?"
@@ -91,7 +91,7 @@ The PvP build trades damage for control and survival. [Open the PvP build in the
 | **Seal of Command** | A chance to deal 70% of your weapon damage again as Holy damage, so a slow weapon gains the most |
 | **Pursuit of Justice** | 15% movement speed, also mounted |
 | **Sacred Arbiter** | Holy Strike deals 20% more damage and refreshes every Judgement on the target, also those of other Paladins |
-| **Two-Handed Weapon Specialization** | 6% more damage with two-handed weapons |
+| **Two-Handed Weapon Specialization** | 6% more damage with two-handed weapons, since 19 November on all Holy damage too |
 | **Vengeance** | 3% more Physical and Holy damage for 30 seconds after a critical strike, stacking up to 3 times |
 | **Champion of the Light** | Spell damage equal to up to 30% of your Intellect |
 | **Unsealed Wrath** | Melee attacks store your Seal, up to 3 times. A hit with another Seal uses the stacks for extra chances |

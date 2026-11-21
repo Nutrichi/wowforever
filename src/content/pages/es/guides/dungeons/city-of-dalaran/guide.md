@@ -3,7 +3,7 @@ title: "City of Dalaran"
 metaTitle: "Guía de la City of Dalaran para WoW Forever: llave, trash y jefes"
 description: "Cómo hacer la City of Dalaran en WoW Forever: la entrada para las dos facciones, la Dalaran Sewer Key, el trash arcano y la táctica de los ocho jefes."
 short: "Guía"
-updated: 2026-10-26
+updated: 2026-11-20
 lang: es
 manual: true
 sources:
@@ -158,7 +158,7 @@ En la zona comercial de la ciudad. Mata los Angry Tomes que salen de los edifici
 
 ### Shade of the Archmage
 
-El jefe final, en el Purple Parlor en lo alto de la Violet Citadel. Habla con Archmage Modera en las escaleras delante de la Violet Citadel, al noroeste de la ciudad, para que te teletransporte arriba; el Shade aparece al entrar. Arcane Bolt pega fuerte al tanque. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> manda una esfera de maná hacia un jugador y de vuelta, que hace daño y silencia 6 segundos a todos los que estén en su camino: no te pongas entre él y ese jugador. Luego llega Arcane Explosion, que alcanza a todos a menos de 20 metros. Cuando se queda sin maná, lanza Mass Polymorph a todo el grupo durante 8 segundos y lo recupera con Evocation, y el combate vuelve a empezar. Separaos, mantened a los lanzadores a distancia y escondeos tras el muro durante Mass Polymorph. Si alguien sale de la sala, vuelve a tener toda la salud.
+El jefe final, en el Purple Parlor en lo alto de la Violet Citadel. Habla con Archmage Modera en las escaleras delante de la Violet Citadel, al noroeste de la ciudad, para que te teletransporte arriba; el Shade aparece al entrar. Arcane Bolt pega fuerte al tanque. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1241515"><img class="wf-wh__icon" src="/wh/ability_mage_netherwindpresence.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bounding Mana</a> manda una esfera de maná hacia un jugador y de vuelta, que hace daño y silencia 6 segundos a todos los que estén en su camino: no te pongas entre él y ese jugador. Luego llega Arcane Explosion, que alcanza a todos a menos de 20 metros. Cuando se queda sin maná, lanza Mass Polymorph a todo el grupo durante 8 segundos y lo recupera con Evocation, y el combate vuelve a empezar. Separaos, mantened a los lanzadores a distancia y escondeos tras el muro durante Mass Polymorph. Si alguien sale de la sala, vuelve a tener toda la salud. Desde un hotfix del 19 de noviembre ya no desaparece en cuanto empieza el combate.
 
 ### Mana Devourer
 
