@@ -3,7 +3,7 @@ title: "Guía del Balance Druid en WoW Forever"
 metaTitle: "WoW Forever: Balance Druid, builds DoT y Eclipse, rotación, stats y razas"
 description: "El Balance Druid en WoW Forever: qué cambia, builds de nivel 60 para bandas, subir de nivel y PvP, la rotación, los cooldowns, el maná y los DoTs, los stats, el equipo, las razas y las profesiones."
 short: "Balance Druid"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -16,10 +16,12 @@ faq:
   - q: "¿Cuándo consigo Moonkin Form?"
     a: "Moonkin Form es el último talento del árbol de Balance y pide nivel 40. Sube un 3 % la probabilidad de crítico con hechizos de todo tu grupo y duplica la probabilidad de activar Omen of Clarity."
   - q: "¿Qué raza es la mejor para un Balance Druid?"
-    a: "Night Elf por Elune's Light, un golpe de probabilidad de crítico, o Tauren por War Stomp y un 5 % más de vida. Los Skyborne tienen 2 % de Haste en los dos bandos. Las diferencias son pequeñas, así que elige la raza que te guste."
+    a: "Los Skyborne en los dos bandos: Wind Blessed da un 2 % de Celeridad, Elemental Insight ayuda contra elementales y los High Order Skyborne se regeneran más rápido con Read Leyline. Night Elf, con Elune's Light, queda algo por detrás, y los Tauren no tienen ningún racial que añada daño."
   - q: "¿Hay una build para nivel 60?"
     a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Mobalytics"
+    url: "https://mobalytics.gg/wow-forever/classes/balance-druid-guide"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/druid/balance/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -34,7 +36,7 @@ El Balance Druid de WoW Forever es un lanzador con dos hechizos de daño en el t
 | Talentos clave | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5570"><img class="wf-wh__icon" src="/wh/spell_nature_insectswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Insect Swarm</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17245"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Overgrowth</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a> |
 | Puntos fuertes | Una rotación constante, buffs y debuffs, utilidad |
 | Puntos débiles | Daño de híbrido, lanzamientos quieto, sin burst |
-| Subir de nivel | [Guía para subir un Druid](/es/classes/druid/leveling/) |
+| Subir de nivel | [Guía para subir un Druid](/es/classes/druid/leveling/); Feral sube más rápido que Balance |
 
 ## Qué cambia para Balance
 
@@ -149,9 +151,9 @@ No renueves un DoT antes de que acabe, porque pierdes los ticks que le quedaban.
 
 ## Stats y equipo
 
-El orden exacto a nivel 60 llegará cuando podamos probar el nivel 60 en el juego en vivo. Estos stats ayudan a un Balance Druid:
+A nivel 60 el orden es: probabilidad de crítico, daño de hechizos, Intelecto, Aguante, Espíritu. La [lista BiS pre-raid](/es/bis/forever/preraid/druid-balance/) muestra a qué objetos apuntar. Lo que hace cada stat:
 
-- **Daño de hechizos** primero. Los objetos con solo daño Arcane o Nature ayudan a la mitad de tus hechizos.
+- **Daño de hechizos** justo después del crítico. Los objetos con solo daño Arcane o Nature ayudan a la mitad de tus hechizos.
 - **Hit.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a> da un 4 %, suficiente mientras subes. En bandas querrás llegar al tope de Hit.
 - **Probabilidad de crítico.** Nature's Majesty da un 4 %, Moonkin Form un 3 %, y cada crítico de un hechizo no periódico activa <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16880"><img class="wf-wh__icon" src="/wh/spell_nature_naturesblessing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Grace</a>, lanzamientos un 10 % más rápidos durante 3 segundos.
 - **Intellect** para más maná y probabilidad de crítico. Está en casi todas las piezas que quieres.
@@ -173,6 +175,6 @@ El orden exacto a nivel 60 llegará cuando podamos probar el nivel 60 en el jueg
 | Horde | Tauren | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20550"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Endurance</a>: un 5 % más de vida. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20549"><img class="wf-wh__icon" src="/wh/ability_warstomp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">War Stomp</a> aturde hasta 5 enemigos |
 | Horde | Windshaper Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2 % de Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259686"><img class="wf-wh__icon" src="/wh/ability_skyreach_lens_flare.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skysight</a> solo añade velocidad de carrera |
 
-Las diferencias son lo bastante pequeñas para elegir la raza que te guste.
+Los Skyborne son la mejor opción en los dos bandos. Wind Blessed ya lo decide, Elemental Insight añade daño contra elementales y Walk on Air es útil, y los High Order Skyborne se regeneran más rápido con Read Leyline, práctico cuando te falta maná. Night Elf no está mal, pero queda algo por detrás. Los Tauren no tienen ningún racial que añada daño: War Stomp es para cuerpo a cuerpo y Endurance solo da vida.
 
 **Profesiones.** Leatherworking fabrica parte del mejor equipo de cuero, en parte solo para peleteros. Herbalism encaja con un Druid, porque recoges en <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=783"><img class="wf-wh__icon" src="/wh/ability_druid_travelform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Travel Form</a>. Alchemy convierte esas hierbas en tus propias pociones y elixires. Engineering da artilugios útiles a cualquier spec.

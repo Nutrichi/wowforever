@@ -3,13 +3,13 @@ title: "Restoration Druid: the healing guide for WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talents, macros and FAQ"
 description: "The Restoration Druid in WoW Forever: what changes for the healer, strengths and weaknesses, the standard 11/0/40 build, Dual Specialization, useful macros, unit frames and the most asked questions."
 short: "Restoration Druid"
-updated: 2026-11-12
+updated: 2026-11-22
 lang: en
 faq:
   - q: "What is the best talent build for a Restoration Druid in WoW Forever?"
     a: "Most Restoration Druids run 11 points in Balance, 0 in Feral Combat and 40 in Restoration, with Improved Regrowth and Wild Growth. The points in Balance mainly serve Nature's Splendor."
   - q: "Does Swiftmend still consume the HoT?"
-    a: "No. In WoW Forever Swiftmend no longer consumes the Rejuvenation or Regrowth it uses. It also works on the HoT of another Druid: with several HoTs on the target, it always uses the one with the most healing power, no matter who cast it."
+    a: "No. In WoW Forever Swiftmend no longer consumes the Rejuvenation or Regrowth it uses. It does need your own Rejuvenation or Regrowth on the target: Wild Growth or the HoT of another Druid does not count."
   - q: "Is Healing Touch still worth casting?"
     a: "Yes, but less than in Classic. Downranking penalties and a stronger Regrowth make it less central, and Tranquil Spirit is no longer a strong talent."
   - q: "Which race is best for a Restoration Druid?"
@@ -19,11 +19,14 @@ faq:
   - q: "Can a Restoration Druid dispel Magic or Disease?"
     a: "No. The Druid has no Magic or Disease dispel, which is one of the weaknesses of the spec."
   - q: "What are the stat priority and the BiS list?"
-    a: "Not yet. Both follow once we can test level 60 in the live game."
+    a: "Healing power once you have enough Intellect and Stamina, then Spirit or mana per 5 seconds when your mana runs out, and critical strike chance last. The pre-raid BiS list is on our BiS page."
   - q: "Does a Restoration Druid get a raid spot?"
     a: "Every raid wants healers, and the Restoration Druid has a strong and broad kit. The spec brings less to a raid than the other two Druid specs, but is a strong choice against many kinds of damage."
   - q: "Should a Restoration Druid deal damage?"
     a: "In quiet moments, yes. The stronger Wrath, the free Omen of Clarity and Judgement of Wisdom make cheap damage spells worth weaving in."
+sources:
+  - name: "Mobalytics"
+    url: "https://mobalytics.gg/wow-forever/classes/restoration-druid-guide-progress"
 ---
 The Restoration Druid in WoW Forever is still a healer who works ahead of the damage, with HoTs on many players at once. New tools let the spec react as well: Wild Growth, a Swiftmend that keeps the HoT and a free Omen of Clarity. This guide covers the changes, the standard build, macros and the most asked questions.
 
@@ -34,13 +37,13 @@ The Restoration Druid in WoW Forever is still a healer who works ahead of the da
 | Key talents | Improved Regrowth, Wild Growth |
 | Strength | Raid healing, mobility, utility |
 | Weakness | No Magic or Disease dispel, no shields |
-| Stats and BiS | Not known yet |
+| Stats and BiS | [Pre-raid BiS list](/bis/forever/preraid/druid-restoration/) |
 
 ## What changes for the healer
 
 - **Omen of Clarity is baseline** and can now proc on spell casts, about twice per minute. The proc makes the next spell free, so it pays off most on an expensive heal.
 - **Wild Growth** is the new capstone of the tree: a strong area heal on the party of the target. Since 11 November you can no longer cast it while moving, but it gets twice as much from your spell power, [more in our post](/news/wild-growth-can-no-longer-be-cast-while-moving/).
-- **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> no longer consumes** the HoT it uses.
+- **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> no longer consumes** the HoT it uses. It only works on a target with your own Rejuvenation or Regrowth: Wild Growth or the HoT of another Druid does not count.
 - **HoTs can crit.** The extra crit chance of Improved Regrowth probably also counts for the HoT part of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. That comes from the game data and could not be tested on the beta.
 - **HoTs of several Druids stack** on one target. A bug still prevents that in some cases.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a>** no longer stacks its armor reduction with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=704"><img class="wf-wh__icon" src="/wh/spell_shadow_unholystrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Recklessness</a> from Warlocks.
@@ -63,40 +66,49 @@ The Restoration Druid in WoW Forever is still a healer who works ahead of the da
 
 Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
 
-### Raid build, 21/0/30
+### Raid and dungeon build, 11/0/40
 
-21 points in Balance and 30 in Restoration. [Open the raid build in the talent calculator](/talents/druid/?t=5530203110001--055300510311105).
-
-For dungeons, a variant moves a few points: [open the dungeon build](/talents/druid/?t=503222011550135--05530011001).
+11 points in Balance and 40 in Restoration, for dungeons and raids. [Open the build in the talent calculator](/talents/druid/?t=05302001--5553005123113051).
 
 | Talent | Points |
 |---|---|
-| **Improved Wrath** | 5/5 |
 | **Genesis** | 5/5 |
 | **Moonglow** | 3/3 |
 | **Nature's Majesty** | 2/2 |
-| **Improved Entangling Roots** | 3/3 |
 | **Nature's Splendor** | 1/1 |
-| **Insect Swarm** | 1/1 |
-| **Nature's Grace** | 1/1 |
+| **Nature's Focus** | 5/5 |
 | **Heart of the Wild** | 5/5 |
 | **Naturalist** | 5/5 |
 | **Reflection** | 3/3 |
 | **Gift of Nature** | 5/5 |
 | **Bloom** | 1/1 |
+| **Tranquil Spirit** | 2/5 |
 | **Improved Rejuvenation** | 3/3 |
 | **Swiftmend** | 1/1 |
 | **Nature's Swiftness** | 1/1 |
-| **Living Spirit** | 1/3 |
+| **Living Spirit** | 3/3 |
 | **Improved Regrowth** | 5/5 |
+| **Wild Growth** | 1/1 |
+
+The 11 points in Balance reach Nature's Splendor, with Genesis for your HoTs and Nature's Majesty for critical strike chance. In Restoration the points go to healing and mana instead of Cat Form. Put more points in Tranquil Spirit when Healing Touch and Tranquility eat a large part of your mana; Improved Tranquility is an alternative for a shorter cooldown and less threat. Move points around instead of adding them, and keep Wild Growth and Living Spirit, the talent before it.
 
 ### Leveling build, 9/32/10
 
-The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/druid/?t=050022-55200002123012125001-055). The [Druid level build](/leveling/druid/) gives the talent for every level.
+The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/druid/?t=050022-55200002123012125001-055). The [Druid level build](/leveling/druid/) gives the talent for every level. Do you mostly heal dungeons while you level? Then a healer route works: 0/0/21 at level 30, with Heart of the Wild, Naturalist, Bloom at 20, Gift of Nature, Swiftmend at 25, Reflection and Nature's Swiftness at 30. Questing alone goes faster as Feral.
 
 ### PvP build, 16/11/24
 
 The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/druid/?t=500222311-052021001-555330010011).
+
+## Healing at level 60
+
+**Spell ranks.** At level 60 you use Healing Touch rank 10, Rejuvenation rank 10, Regrowth rank 9 and Wild Growth rank 3. Keep Healing Touch rank 8 for a smaller heal and Rejuvenation rank 9 for light damage. Rank 1 Rejuvenation is cheap on light damage and still triggers Bloom when it runs out, but use a higher rank when the target needs it.
+
+**Wild Growth** takes 3 seconds to cast, 2.5 seconds with Naturalist 5/5, and heals the party of your target over 7 seconds, with the strongest ticks at the start. Start the cast so it lands as the damage comes in, and pick the party that needs it: it does not look for the most injured players in the raid. With Nature's Swiftness it is instant.
+
+**Stats.** First enough Intellect and Stamina, then healing power. When you run out of mana, Spirit or mana per 5 seconds is worth more than a bit more healing; with Reflection and Living Spirit, Spirit also feeds Bloom. Critical strike chance comes after that: HoTs can crit in Forever, but a crit is a bonus, not a plan. The [pre-raid BiS list](/bis/forever/preraid/druid-restoration/) shows which items to aim for.
+
+**Idols.** Mystic Mushroom, a bind on pickup Enchanting craft at skill 130, gives 5% Spirit, good for mana and Bloom. Idol of Synthesis from Pix Xizzix shortens the cooldown of Swiftmend for each of your HoTs on the target, handy on a tank you keep covered. Once the raids open, Idol of Swiftness takes 3 seconds off the cooldown of Swiftmend; it needs Malleable Essence of Nature from the raids.
 
 ## Dual Specialization and other builds
 
@@ -159,6 +171,6 @@ Some macro conditions did not work as expected on the beta. The modern client al
 
 ## Unit frames and the Cooldown Manager
 
-The default unit frames can be adjusted less than players of older versions of the game are used to. Some addons add filters for buffs and debuffs, which helps a lot for a class that heals with HoTs. EllesmereUI is the most approachable and flexible addon for unit frames.
+The default unit frames can be adjusted less than players of older versions of the game are used to. Some addons add filters for buffs and debuffs, which helps a lot for a class that heals with HoTs. EllesmereUI is the most approachable and flexible addon for unit frames. For party and raid frames, Grid2 works well: show health, range and the debuffs you can remove first, then your own HoTs.
 
 The built-in Cooldown Manager replaces a central group of WeakAuras, and addons can restyle it. On the beta it was rolled out step by step. More in the [post about the Cooldown Manager](/news/cooldown-manager-arrives-in-forever-from-midnight/).

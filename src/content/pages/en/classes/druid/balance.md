@@ -3,7 +3,7 @@ title: "Balance Druid guide for WoW Forever"
 metaTitle: "WoW Forever Balance Druid: DoT and Eclipse builds, rotation, stats and races"
 description: "The Balance Druid in WoW Forever: what changes, level 60 builds for raids, leveling and PvP, the rotation, cooldowns, mana and DoTs, stats, gear, races and professions."
 short: "Balance Druid"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Balance Druid good in WoW Forever?"
@@ -15,10 +15,12 @@ faq:
   - q: "When do I get Moonkin Form?"
     a: "Moonkin Form is the last talent of the Balance tree and needs level 40. It raises the spell critical strike chance of your whole group by 3% and doubles the chance to trigger Omen of Clarity."
   - q: "Which race is best for a Balance Druid?"
-    a: "Night Elf for Elune's Light, a burst of critical strike chance, or Tauren for War Stomp and 5% more Health. The Skyborne get 2% Haste on both sides. The differences are small, so pick the race you like."
+    a: "The Skyborne on both sides: Wind Blessed gives 2% Haste, Elemental Insight helps against elementals and the High Order Skyborne regenerate faster with Read Leyline. Night Elf, with Elune's Light, falls a little behind, and the Tauren have no racial that adds damage."
   - q: "Is there a level 60 build?"
     a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Mobalytics"
+    url: "https://mobalytics.gg/wow-forever/classes/balance-druid-guide"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/druid/balance/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -33,7 +35,7 @@ The Balance Druid in WoW Forever is a caster with two damage over time spells, t
 | Key talents | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5570"><img class="wf-wh__icon" src="/wh/spell_nature_insectswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Insect Swarm</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17245"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Overgrowth</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a> |
 | Strength | A steady rotation, buffs and debuffs, utility |
 | Weakness | Hybrid damage, hard casts, no burst |
-| Leveling | [Druid leveling guide](/classes/druid/leveling/) |
+| Leveling | [Druid leveling guide](/classes/druid/leveling/); Feral levels faster than Balance |
 
 ## What changes for Balance
 
@@ -148,9 +150,9 @@ Do not refresh a DoT before it runs out, because you lose the ticks it had left.
 
 ## Stats and gear
 
-The exact priority at level 60 follows once we can test level 60 in the live game. These stats help a Balance Druid:
+At level 60 the priority is: critical strike chance, spell damage, Intellect, Stamina, Spirit. The [pre-raid BiS list](/bis/forever/preraid/druid-balance/) shows which items to aim for. What each stat does:
 
-- **Spell damage** first. Items with only Arcane or Nature damage help half of your spells.
+- **Spell damage** right after critical strike chance. Items with only Arcane or Nature damage help half of your spells.
 - **Hit.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a> gives 4%, enough while you level. For raids you will want to reach the hit cap.
 - **Critical strike chance.** Nature's Majesty gives 4%, Moonkin Form 3%, and every crit from a non-periodic spell triggers <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16880"><img class="wf-wh__icon" src="/wh/spell_nature_naturesblessing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Grace</a>, 10% faster casts for 3 seconds.
 - **Intellect** for more mana and critical strike chance. It is on almost every piece you want anyway.
@@ -172,6 +174,6 @@ The exact priority at level 60 follows once we can test level 60 in the live gam
 | Horde | Tauren | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20550"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Endurance</a>: 5% more Health. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20549"><img class="wf-wh__icon" src="/wh/ability_warstomp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">War Stomp</a> stuns up to 5 enemies |
 | Horde | Windshaper Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2% Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259686"><img class="wf-wh__icon" src="/wh/ability_skyreach_lens_flare.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skysight</a> only adds run speed |
 
-The differences are small enough to pick the race you like.
+The Skyborne are the strongest choice on both sides. Wind Blessed alone settles it, Elemental Insight adds damage against elementals and Walk on Air is handy, and the High Order Skyborne regenerate faster with Read Leyline, useful when mana runs low. Night Elf is not bad, but falls a little behind. The Tauren have no racial that adds damage: War Stomp is for melee range and Endurance only adds Health.
 
 **Professions.** Leatherworking makes some of the best leather gear, part of it only for leatherworkers. Herbalism suits a Druid, because you gather in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=783"><img class="wf-wh__icon" src="/wh/ability_druid_travelform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Travel Form</a>. Alchemy turns those herbs into your own potions and elixirs. Engineering gives useful gadgets to every spec.

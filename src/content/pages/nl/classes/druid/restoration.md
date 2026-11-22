@@ -3,14 +3,14 @@ title: "Restoration Druid: de healgids voor WoW Forever"
 metaTitle: "Restoration Druid in WoW Forever: build, talenten, macro's en FAQ"
 description: "De Restoration Druid in WoW Forever: wat er verandert voor de healer, sterktes en zwaktes, de standaardbuild 11/0/40, Dual Specialization, nuttige macro's, unit frames en de meest gestelde vragen."
 short: "Restoration Druid"
-updated: 2026-11-12
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
   - q: "Wat is de beste talentbuild voor een Restoration Druid in WoW Forever?"
     a: "De meeste Restoration Druids spelen 11 punten in Balance, 0 in Feral Combat en 40 in Restoration, met Improved Regrowth en Wild Growth. De punten in Balance dienen vooral voor Nature's Splendor."
   - q: "Verbruikt Swiftmend nog de HoT?"
-    a: "Nee. In WoW Forever verbruikt Swiftmend de Rejuvenation of Regrowth niet meer. Hij werkt ook op de HoT van een andere Druid: met meerdere HoTs op het doelwit gebruikt hij altijd die met de meeste healing power, ongeacht wie hem castte."
+    a: "Nee. In WoW Forever verbruikt Swiftmend de Rejuvenation of Regrowth niet meer. Hij heeft wel je eigen Rejuvenation of Regrowth op het doelwit nodig: Wild Growth of de HoT van een andere Druid telt niet."
   - q: "Is Healing Touch nog de moeite?"
     a: "Ja, maar minder dan in Classic. De straf op lagere ranks en een sterkere Regrowth maken het minder centraal, en Tranquil Spirit is geen sterk talent meer."
   - q: "Welk ras is het beste voor een Restoration Druid?"
@@ -20,11 +20,14 @@ faq:
   - q: "Kan een Restoration Druid Magic of Disease dispellen?"
     a: "Nee. De Druid heeft geen dispel voor Magic of Disease, een van de zwaktes van de spec."
   - q: "Wat zijn de statprioriteit en de BiS-lijst?"
-    a: "Nog niet. Beide volgen zodra we level 60 in het live spel kunnen testen."
+    a: "Healing power zodra je genoeg Intellect en Stamina hebt, dan Spirit of mana per 5 seconden als je mana opraakt, en critical strike chance als laatste. De pre-raid BiS-lijst staat op onze BiS-pagina."
   - q: "Krijgt een Restoration Druid een raidplaats?"
     a: "Elke raid wil healers, en de Restoration Druid heeft een sterke, brede kit. De spec brengt een raid minder dan de andere twee Druid-specs, maar is een sterke keuze tegen veel soorten schade."
   - q: "Moet een Restoration Druid schade doen?"
     a: "In rustige momenten wel. De sterkere Wrath, de gratis Omen of Clarity en Judgement of Wisdom maken goedkope schadespells de moeite om tussendoor te casten."
+sources:
+  - name: "Mobalytics"
+    url: "https://mobalytics.gg/wow-forever/classes/restoration-druid-guide-progress"
 ---
 De Restoration Druid in WoW Forever blijft een healer die de schade voor is, met HoTs op veel spelers tegelijk. Nieuwe middelen laten de spec ook reageren: Wild Growth, een Swiftmend die de HoT laat staan en een gratis Omen of Clarity. Deze gids behandelt de wijzigingen, de standaardbuild, macro's en de meest gestelde vragen.
 
@@ -35,13 +38,13 @@ De Restoration Druid in WoW Forever blijft een healer die de schade voor is, met
 | Kerntalenten | Improved Regrowth, Wild Growth |
 | Sterk in | Raidhealing, mobiliteit, utility |
 | Zwak in | Geen dispel voor Magic of Disease, geen shields |
-| Stats en BiS | Nog niet bekend |
+| Stats en BiS | [Pre-raid BiS-lijst](/nl/bis/forever/preraid/druid-restoration/) |
 
 ## Wat er verandert voor de healer
 
 - **Omen of Clarity is basis** en kan nu ook procken op spells, ongeveer twee keer per minuut. De proc maakt de volgende spell gratis, dus hij loont het meest op een dure heal.
 - **Wild Growth** is het nieuwe sluitstuk van de boom: een sterke heal op de hele party van het doelwit. Sinds 11 november kun je hem niet meer al lopend casten, maar hij haalt dubbel zoveel uit je spell power, [meer in onze post](/nl/news/wild-growth-can-no-longer-be-cast-while-moving/).
-- **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> verbruikt** de HoT die hij gebruikt niet meer.
+- **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> verbruikt** de HoT die hij gebruikt niet meer. Hij werkt alleen op een doelwit met je eigen Rejuvenation of Regrowth: Wild Growth of de HoT van een andere Druid telt niet.
 - **HoTs kunnen critten.** De extra critkans van Improved Regrowth telt waarschijnlijk ook voor het HoT-deel van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Dat komt uit de gegevens van het spel en was op de beta niet te testen.
 - **HoTs van meerdere Druids stapelen** op één doelwit. Een bug verhindert dat in sommige gevallen nog.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a>** stapelt zijn armorverlaging niet meer met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=704"><img class="wf-wh__icon" src="/wh/spell_shadow_unholystrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Recklessness</a> van Warlocks.
@@ -64,40 +67,49 @@ De Restoration Druid in WoW Forever blijft een healer die de schade voor is, met
 
 Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
 
-### Raidbuild, 21/0/30
+### Raid- en dungeonbuild, 11/0/40
 
-21 punten in Balance en 30 in Restoration. [Open de raidbuild in de talentcalculator](/nl/talents/druid/?t=5530203110001--055300510311105).
-
-Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/druid/?t=503222011550135--05530011001).
+11 punten in Balance en 40 in Restoration, voor dungeons en raids. [Open de build in de talentcalculator](/nl/talents/druid/?t=05302001--5553005123113051).
 
 | Talent | Punten |
 |---|---|
-| **Improved Wrath** | 5/5 |
 | **Genesis** | 5/5 |
 | **Moonglow** | 3/3 |
 | **Nature's Majesty** | 2/2 |
-| **Improved Entangling Roots** | 3/3 |
 | **Nature's Splendor** | 1/1 |
-| **Insect Swarm** | 1/1 |
-| **Nature's Grace** | 1/1 |
+| **Nature's Focus** | 5/5 |
 | **Heart of the Wild** | 5/5 |
 | **Naturalist** | 5/5 |
 | **Reflection** | 3/3 |
 | **Gift of Nature** | 5/5 |
 | **Bloom** | 1/1 |
+| **Tranquil Spirit** | 2/5 |
 | **Improved Rejuvenation** | 3/3 |
 | **Swiftmend** | 1/1 |
 | **Nature's Swiftness** | 1/1 |
-| **Living Spirit** | 1/3 |
+| **Living Spirit** | 3/3 |
 | **Improved Regrowth** | 5/5 |
+| **Wild Growth** | 1/1 |
+
+De 11 punten in Balance komen tot Nature's Splendor, met Genesis voor je HoTs en Nature's Majesty voor critical strike chance. In Restoration gaan de punten naar healing en mana in plaats van naar Cat Form. Zet meer punten in Tranquil Spirit als Healing Touch en Tranquility een groot deel van je mana opeten; Improved Tranquility is een alternatief voor een kortere cooldown en minder threat. Verschuif punten in plaats van ze erbij te zetten, en hou Wild Growth en Living Spirit, het talent ervoor.
 
 ### Levelbuild, 9/32/10
 
-De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/druid/?t=050022-55200002123012125001-055). De [levelbuild voor de Druid](/nl/leveling/druid/) geeft het talent voor elk level.
+De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/druid/?t=050022-55200002123012125001-055). De [levelbuild voor de Druid](/nl/leveling/druid/) geeft het talent voor elk level. Heal je vooral dungeons tijdens het levelen? Dan werkt een healerroute: 0/0/21 op level 30, met Heart of the Wild, Naturalist, Bloom op 20, Gift of Nature, Swiftmend op 25, Reflection en Nature's Swiftness op 30. Alleen questen gaat sneller als Feral.
 
 ### PvP-build, 16/11/24
 
 De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/druid/?t=500222311-052021001-555330010011).
+
+## Healen op level 60
+
+**Spellranks.** Op level 60 gebruik je Healing Touch rank 10, Rejuvenation rank 10, Regrowth rank 9 en Wild Growth rank 3. Hou Healing Touch rank 8 voor een kleinere heal en Rejuvenation rank 9 voor lichte schade. Rank 1 Rejuvenation is goedkoop bij lichte schade en zet nog steeds Bloom in gang als hij afloopt, maar neem een hogere rank als het doelwit die nodig heeft.
+
+**Wild Growth** heeft 3 seconden cast, 2,5 seconden met Naturalist 5/5, en heelt de party van je doelwit over 7 seconden, met de sterkste ticks aan het begin. Begin de cast zodat hij landt als de schade binnenkomt, en kies de party die het nodig heeft: hij zoekt niet zelf de meest gewonde spelers in de raid. Met Nature's Swiftness is hij instant.
+
+**Stats.** Eerst genoeg Intellect en Stamina, dan healing power. Raak je mana op, dan is Spirit of mana per 5 seconden meer waard dan wat extra healing; met Reflection en Living Spirit voedt Spirit ook Bloom. Critical strike chance komt daarna: HoTs kunnen critten in Forever, maar een crit is een bonus, geen plan. De [pre-raid BiS-lijst](/nl/bis/forever/preraid/druid-restoration/) toont naar welke items je toewerkt.
+
+**Idols.** Mystic Mushroom, een bind on pickup Enchanting-craft op skill 130, geeft 5% Spirit, goed voor mana en Bloom. Idol of Synthesis van Pix Xizzix verkort de cooldown van Swiftmend per HoT van jou op het doelwit, handig op een tank die je bedekt houdt. Zodra de raids opengaan, haalt Idol of Swiftness 3 seconden van de cooldown van Swiftmend; daarvoor heb je Malleable Essence of Nature uit de raids nodig.
 
 ## Dual Specialization en andere builds
 
@@ -160,6 +172,6 @@ Sommige voorwaarden in macro's werkten op de beta niet zoals verwacht. De modern
 
 ## Unit frames en de Cooldown Manager
 
-De standaard unit frames zijn minder aan te passen dan spelers van oudere versies van het spel gewend zijn. Sommige addons voegen filters toe voor buffs en debuffs, wat veel helpt voor een class die met HoTs healt. EllesmereUI is de toegankelijkste en meest aanpasbare addon voor unit frames.
+De standaard unit frames zijn minder aan te passen dan spelers van oudere versies van het spel gewend zijn. Sommige addons voegen filters toe voor buffs en debuffs, wat veel helpt voor een class die met HoTs healt. EllesmereUI is de toegankelijkste en meest aanpasbare addon voor unit frames. Voor party- en raidframes werkt Grid2 goed: toon eerst leven, bereik en de debuffs die je kunt weghalen, en dan je eigen HoTs.
 
 De ingebouwde Cooldown Manager vervangt een centrale groep WeakAuras, en addons kunnen hem een eigen uiterlijk geven. Op de beta werd hij stap voor stap uitgerold. Meer in de [post over de Cooldown Manager](/nl/news/cooldown-manager-arrives-in-forever-from-midnight/).

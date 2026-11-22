@@ -3,14 +3,14 @@ title: "Restoration Druid : le guide de soin pour WoW Forever"
 metaTitle: "Restoration Druid dans WoW Forever : build, talents, macros et FAQ"
 description: "Le Restoration Druid dans WoW Forever : ce qui change pour le soigneur, forces et faiblesses, le build standard 11/0/40, la Dual Specialization, des macros utiles, les cadres d'unité et les questions les plus fréquentes."
 short: "Restoration Druid"
-updated: 2026-11-12
+updated: 2026-11-22
 lang: fr
 manual: true
 faq:
   - q: "Quel est le meilleur build de talents pour un Restoration Druid dans WoW Forever ?"
     a: "La plupart des Restoration Druids jouent 11 points en Balance, 0 en Feral Combat et 40 en Restoration, avec Improved Regrowth et Wild Growth. Les points en Balance servent surtout à Nature's Splendor."
   - q: "Swiftmend consomme-t-il encore le HoT ?"
-    a: "Non. Dans WoW Forever, Swiftmend ne consomme plus le Rejuvenation ou le Regrowth qu'il utilise. Il fonctionne aussi sur le HoT d'un autre Druid : avec plusieurs HoTs sur la cible, il utilise toujours celui qui a la plus grande puissance de soin, peu importe qui l'a lancé."
+    a: "Non. Dans WoW Forever, Swiftmend ne consomme plus le Rejuvenation ou le Regrowth qu'il utilise. Il lui faut par contre votre propre Rejuvenation ou Regrowth sur la cible : Wild Growth ou le HoT d'un autre Druid ne compte pas."
   - q: "Healing Touch vaut-il encore la peine ?"
     a: "Oui, mais moins que dans Classic. La pénalité sur les rangs inférieurs et un Regrowth plus fort le rendent moins central, et Tranquil Spirit n'est plus un talent fort."
   - q: "Quelle race est la meilleure pour un Restoration Druid ?"
@@ -20,11 +20,14 @@ faq:
   - q: "Un Restoration Druid peut-il dissiper la Magie ou les Maladies ?"
     a: "Non. Le Druid n'a pas de dissipation de Magie ni de Maladie, une des faiblesses de la spécialisation."
   - q: "Quelle priorité de stats et quelle liste BiS ?"
-    a: "Pas encore. Les deux suivront dès que nous pourrons tester le niveau 60 dans le jeu live."
+    a: "La puissance des soins une fois que vous avez assez d'Intelligence et d'Endurance, puis l'Esprit ou le mana toutes les 5 secondes quand vous manquez de mana, et le score de critique en dernier. La liste BiS pré-raid est sur notre page BiS."
   - q: "Un Restoration Druid a-t-il sa place en raid ?"
     a: "Tous les raids veulent des soigneurs, et le Restoration Druid a un kit fort et varié. La spécialisation apporte moins à un raid que les deux autres spécialisations de Druid, mais reste un choix fort contre de nombreux types de dégâts."
   - q: "Un Restoration Druid doit-il faire des dégâts ?"
     a: "Dans les moments calmes, oui. Le Wrath plus fort, l'Omen of Clarity gratuit et Judgement of Wisdom rendent les sorts de dégâts bon marché intéressants à glisser entre les soins."
+sources:
+  - name: "Mobalytics"
+    url: "https://mobalytics.gg/wow-forever/classes/restoration-druid-guide-progress"
 ---
 Le Restoration Druid de WoW Forever reste un soigneur qui anticipe les dégâts, avec des HoTs sur de nombreux joueurs à la fois. De nouveaux outils lui permettent aussi de réagir : Wild Growth, un Swiftmend qui laisse le HoT en place et un Omen of Clarity gratuit. Ce guide couvre les changements, le build standard, les macros et les questions les plus fréquentes.
 
@@ -35,13 +38,13 @@ Le Restoration Druid de WoW Forever reste un soigneur qui anticipe les dégâts,
 | Talents clés | Improved Regrowth, Wild Growth |
 | Points forts | Soin de raid, mobilité, utilitaires |
 | Points faibles | Pas de dissipation de Magie ni de Maladie, pas de boucliers |
-| Stats et BiS | Pas encore connus |
+| Stats et BiS | [Liste BiS pré-raid](/fr/bis/forever/preraid/druid-restoration/) |
 
 ## Ce qui change pour le soigneur
 
 - **Omen of Clarity est de base** et peut désormais se déclencher sur les sorts, environ deux fois par minute. Le proc rend le sort suivant gratuit : il rapporte le plus sur un soin coûteux.
 - **Wild Growth** est le nouveau talent final de l'arbre : un soin puissant sur tout le groupe de la cible. Depuis le 11 novembre, il ne se lance plus en mouvement, mais il profite deux fois plus de votre puissance des sorts, [plus dans notre article](/fr/news/wild-growth-can-no-longer-be-cast-while-moving/).
-- **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> ne consomme plus** le HoT qu'il utilise.
+- **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=18562"><img class="wf-wh__icon" src="/wh/inv_relics_idolofrejuvenation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swiftmend</a> ne consomme plus** le HoT qu'il utilise. Il ne fonctionne que sur une cible avec votre propre Rejuvenation ou Regrowth : Wild Growth ou le HoT d'un autre Druid ne compte pas.
 - **Les HoTs peuvent faire des critiques.** Le bonus de critique d'Improved Regrowth s'applique probablement aussi à la partie HoT de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=8936"><img class="wf-wh__icon" src="/wh/spell_nature_resistnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Regrowth</a>. Cela vient des données du jeu et ne pouvait pas être testé sur la bêta.
 - **Les HoTs de plusieurs Druids se cumulent** sur une même cible. Un bug l'empêche encore dans certains cas.
 - **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a>** ne cumule plus sa réduction d'armure avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=704"><img class="wf-wh__icon" src="/wh/spell_shadow_unholystrength.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Curse of Recklessness</a> des Warlocks.
@@ -64,40 +67,49 @@ Le Restoration Druid de WoW Forever reste un soigneur qui anticipe les dégâts,
 
 Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chaque build s’ouvre dans notre calculateur de talents.
 
-### Build de raid, 21/0/30
+### Build de raid et de donjon, 11/0/40
 
-21 points en Balance et 30 en Restoration. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/druid/?t=5530203110001--055300510311105).
-
-Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/druid/?t=503222011550135--05530011001).
+11 points en Balance et 40 en Restoration, pour les donjons et les raids. [Ouvrir le build dans le calculateur de talents](/fr/talents/druid/?t=05302001--5553005123113051).
 
 | Talent | Points |
 |---|---|
-| **Improved Wrath** | 5/5 |
 | **Genesis** | 5/5 |
 | **Moonglow** | 3/3 |
 | **Nature's Majesty** | 2/2 |
-| **Improved Entangling Roots** | 3/3 |
 | **Nature's Splendor** | 1/1 |
-| **Insect Swarm** | 1/1 |
-| **Nature's Grace** | 1/1 |
+| **Nature's Focus** | 5/5 |
 | **Heart of the Wild** | 5/5 |
 | **Naturalist** | 5/5 |
 | **Reflection** | 3/3 |
 | **Gift of Nature** | 5/5 |
 | **Bloom** | 1/1 |
+| **Tranquil Spirit** | 2/5 |
 | **Improved Rejuvenation** | 3/3 |
 | **Swiftmend** | 1/1 |
 | **Nature's Swiftness** | 1/1 |
-| **Living Spirit** | 1/3 |
+| **Living Spirit** | 3/3 |
 | **Improved Regrowth** | 5/5 |
+| **Wild Growth** | 1/1 |
+
+Les 11 points en Balance atteignent Nature's Splendor, avec Genesis pour vos HoTs et Nature's Majesty pour le critique. En Restoration, les points vont aux soins et au mana plutôt qu'à Cat Form. Mettez plus de points dans Tranquil Spirit quand Healing Touch et Tranquility prennent une grande part de votre mana ; Improved Tranquility est une alternative pour un temps de recharge plus court et moins de menace. Déplacez des points au lieu d'en ajouter, et gardez Wild Growth et Living Spirit, le talent qui le précède.
 
 ### Build de leveling, 9/32/10
 
-Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/druid/?t=050022-55200002123012125001-055). Le [build de leveling du Druid](/fr/leveling/druid/) donne le talent de chaque niveau.
+Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’ouvrir dans le calculateur de talents](/fr/talents/druid/?t=050022-55200002123012125001-055). Le [build de leveling du Druid](/fr/leveling/druid/) donne le talent de chaque niveau. Vous soignez surtout des donjons en montant de niveau ? Une route de soigneur marche alors : 0/0/21 au niveau 30, avec Heart of the Wild, Naturalist, Bloom au 20, Gift of Nature, Swiftmend au 25, Reflection et Nature's Swiftness au 30. Les quêtes en solo vont plus vite en Feral.
 
 ### Build PvP, 16/11/24
 
 Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/druid/?t=500222311-052021001-555330010011).
+
+## Soigner au niveau 60
+
+**Rangs des sorts.** Au niveau 60, vous utilisez Healing Touch rang 10, Rejuvenation rang 10, Regrowth rang 9 et Wild Growth rang 3. Gardez Healing Touch rang 8 pour un soin plus petit et Rejuvenation rang 9 pour des dégâts légers. Rejuvenation rang 1 coûte peu sur des dégâts légers et déclenche quand même Bloom à la fin, mais prenez un rang supérieur si la cible en a besoin.
+
+**Wild Growth** se lance en 3 secondes, 2,5 secondes avec Naturalist 5/5, et soigne le groupe de votre cible pendant 7 secondes, avec les tics les plus forts au début. Commencez le sort pour qu'il arrive avec les dégâts, et choisissez le groupe qui en a besoin : il ne cherche pas tout seul les joueurs les plus blessés du raid. Avec Nature's Swiftness, il est instantané.
+
+**Stats.** D'abord assez d'Intelligence et d'Endurance, puis la puissance des soins. Quand vous manquez de mana, l'Esprit ou le mana toutes les 5 secondes vaut plus qu'un peu de soin en plus ; avec Reflection et Living Spirit, l'Esprit nourrit aussi Bloom. Le critique vient ensuite : les HoTs peuvent faire des critiques dans Forever, mais un critique est un bonus, pas un plan. La [liste BiS pré-raid](/fr/bis/forever/preraid/druid-restoration/) montre les objets à viser.
+
+**Idoles.** Mystic Mushroom, une création d'Enchanting liée quand ramassée à la compétence 130, donne 5 % d'Esprit, bien pour le mana et Bloom. Idol of Synthesis de Pix Xizzix réduit le temps de recharge de Swiftmend pour chacun de vos HoTs sur la cible, pratique sur un tank que vous couvrez. Quand les raids ouvriront, Idol of Swiftness retirera 3 secondes au temps de recharge de Swiftmend ; il faut pour cela de la Malleable Essence of Nature des raids.
 
 ## Dual Specialization et autres builds
 
@@ -160,6 +172,6 @@ Certaines conditions de macro ne fonctionnaient pas comme prévu sur la bêta. L
 
 ## Cadres d'unité et Cooldown Manager
 
-Les cadres d'unité de base se personnalisent moins que ce dont les joueurs des anciennes versions du jeu ont l'habitude. Certains addons ajoutent des filtres pour les buffs et débuffs, très utiles pour une classe qui soigne avec des HoTs. EllesmereUI est l'addon de cadres d'unité le plus accessible et le plus personnalisable.
+Les cadres d'unité de base se personnalisent moins que ce dont les joueurs des anciennes versions du jeu ont l'habitude. Certains addons ajoutent des filtres pour les buffs et débuffs, très utiles pour une classe qui soigne avec des HoTs. EllesmereUI est l'addon de cadres d'unité le plus accessible et le plus personnalisable. Pour les cadres de groupe et de raid, Grid2 marche bien : affichez d'abord la vie, la portée et les affaiblissements que vous pouvez retirer, puis vos propres HoTs.
 
 Le Cooldown Manager intégré remplace un groupe central de WeakAuras, et des addons peuvent en changer l'apparence. Sur la bêta, il a été déployé petit à petit. Plus de détails dans l'[article sur le Cooldown Manager](/fr/news/cooldown-manager-arrives-in-forever-from-midnight/).

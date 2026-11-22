@@ -3,7 +3,7 @@ title: "Balance Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Balance Druid: DoT- en Eclipse-build, rotatie, stats en races"
 description: "De Balance Druid in WoW Forever: wat er verandert, builds voor level 60 voor raids, levelen en PvP, de rotatie, cooldowns, mana en DoTs, stats, gear, races en beroepen."
 short: "Balance Druid"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -16,10 +16,12 @@ faq:
   - q: "Wanneer krijg ik Moonkin Form?"
     a: "Moonkin Form is het laatste talent van de Balance-boom en vraagt level 40. Het verhoogt de kans op een critical strike met spells van je hele groep met 3% en verdubbelt de kans op Omen of Clarity."
   - q: "Welk ras is het beste voor een Balance Druid?"
-    a: "Night Elf voor Elune's Light, een uitbarsting van critical strike-kans, of Tauren voor War Stomp en 5% meer Health. De Skyborne krijgen aan beide kanten 2% Haste. De verschillen zijn klein, dus kies het ras dat je mooi vindt."
+    a: "De Skyborne aan beide kanten: Wind Blessed geeft 2% Haste, Elemental Insight helpt tegen elementals en de High Order Skyborne regenereren sneller met Read Leyline. Night Elf, met Elune's Light, blijft iets achter, en de Tauren hebben geen racial die schade toevoegt."
   - q: "Is er een build voor level 60?"
     a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Mobalytics"
+    url: "https://mobalytics.gg/wow-forever/classes/balance-druid-guide"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/druid/balance/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -34,7 +36,7 @@ De Balance Druid in WoW Forever is een caster met twee spells voor schade over t
 | Belangrijke talenten | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5570"><img class="wf-wh__icon" src="/wh/spell_nature_insectswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Insect Swarm</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17245"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Overgrowth</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a> |
 | Sterk | Een vaste rotatie, buffs en debuffs, utility |
 | Zwak | Hybride schade, casts op de plaats, geen burst |
-| Levelen | [Druid-levelgids](/nl/classes/druid/leveling/) |
+| Levelen | [Druid-levelgids](/nl/classes/druid/leveling/); Feral levelt sneller dan Balance |
 
 ## Wat er verandert voor Balance
 
@@ -149,9 +151,9 @@ Vernieuw een DoT niet voor hij afloopt, want dan verlies je de ticks die nog ove
 
 ## Stats en gear
 
-De precieze volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Balance Druid:
+Op level 60 is de volgorde: critical strike chance, spell damage, Intellect, Stamina, Spirit. De [pre-raid BiS-lijst](/nl/bis/forever/preraid/druid-balance/) toont naar welke items je toewerkt. Wat elke stat doet:
 
-- **Spell damage** eerst. Items met alleen Arcane- of Nature-schade helpen de helft van je spells.
+- **Spell damage** meteen na critical strike chance. Items met alleen Arcane- of Nature-schade helpen de helft van je spells.
 - **Hit.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a> geeft 4%, genoeg tijdens het levelen. Voor raids wil je de hit cap halen.
 - **Critical strike-kans.** Nature's Majesty geeft 4%, Moonkin Form 3%, en elke crit van een niet-periodieke spell geeft <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16880"><img class="wf-wh__icon" src="/wh/spell_nature_naturesblessing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Grace</a>, 3 seconden lang 10% snellere casts.
 - **Intellect** voor meer mana en critical strike-kans. Het staat toch op bijna elk stuk dat je wil.
@@ -173,6 +175,6 @@ De precieze volgorde op level 60 volgt zodra we level 60 in het live spel kunnen
 | Horde | Tauren | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20550"><img class="wf-wh__icon" src="/wh/spell_nature_unyeildingstamina.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Endurance</a>: 5% meer Health. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20549"><img class="wf-wh__icon" src="/wh/ability_warstomp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">War Stomp</a> stunt tot 5 vijanden |
 | Horde | Windshaper Skyborne | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259710"><img class="wf-wh__icon" src="/wh/inv_misc_volatileair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wind Blessed</a>: 2% Haste. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259686"><img class="wf-wh__icon" src="/wh/ability_skyreach_lens_flare.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skysight</a> geeft alleen loopsnelheid |
 
-De verschillen zijn klein genoeg om het ras te kiezen dat je mooi vindt.
+De Skyborne zijn aan beide kanten de sterkste keuze. Wind Blessed alleen beslist het al, Elemental Insight geeft meer schade tegen elementals en Walk on Air is handig, en de High Order Skyborne regenereren sneller met Read Leyline, nuttig als je mana laag is. Night Elf is niet slecht, maar blijft iets achter. De Tauren hebben geen racial die schade toevoegt: War Stomp is voor melee en Endurance geeft alleen Health.
 
 **Beroepen.** Leatherworking maakt een deel van de beste leather gear, waarvan een stuk alleen voor leatherworkers. Herbalism past bij een Druid, want je verzamelt in <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=783"><img class="wf-wh__icon" src="/wh/ability_druid_travelform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Travel Form</a>. Alchemy maakt van die kruiden je eigen potions en elixirs. Engineering geeft elke spec nuttige gadgets.
