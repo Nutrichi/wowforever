@@ -1,6 +1,6 @@
 ---
 title: "Guida al Balance Druid in WoW Forever"
-metaTitle: "WoW Forever: Balance Druid, build DoT ed Eclipse, rotazione, stats e razze"
+metaTitle: "WoW Forever: Balance Druid, build, rotazione, stats e razze"
 description: "Il Balance Druid in WoW Forever: cosa cambia, build di livello 60 per raid, leveling e PvP, la rotazione, i cooldown, mana e DoT, le stats, l'equipaggiamento, le razze e le professioni."
 short: "Balance Druid"
 updated: 2026-11-22

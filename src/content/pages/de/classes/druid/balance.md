@@ -1,6 +1,6 @@
 ---
 title: "Balance-Druid-Guide für WoW Forever"
-metaTitle: "WoW Forever Balance Druid: DoT- und Eclipse-Build, Rotation, Werte und Völker"
+metaTitle: "WoW Forever Balance Druid: Builds, Rotation, Werte und Völker"
 description: "Der Balance Druid in WoW Forever: was sich ändert, Builds für Level 60 für Raids, Leveln und PvP, die Rotation, Cooldowns, Mana und DoTs, Werte, Ausrüstung, Völker und Berufe."
 short: "Balance Druid"
 updated: 2026-11-22

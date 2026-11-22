@@ -1,6 +1,6 @@
 ---
 title: "Balance Druid in WoW Forever: de gids"
-metaTitle: "WoW Forever Balance Druid: DoT- en Eclipse-build, rotatie, stats en races"
+metaTitle: "WoW Forever Balance Druid: builds, rotatie, stats en races"
 description: "De Balance Druid in WoW Forever: wat er verandert, builds voor level 60 voor raids, levelen en PvP, de rotatie, cooldowns, mana en DoTs, stats, gear, races en beroepen."
 short: "Balance Druid"
 updated: 2026-11-22
